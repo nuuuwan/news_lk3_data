@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 11:36:02**
+As of **2024-07-31 11:55:18**
 
 ## Newspaper Stats
 
-*Scraped **38,197** Articles*
+*Scraped **38,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,36 +13,94 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,190
-economynextcom | 2,293
+economynextcom | 2,300
 dailyftlk | 2,444
 adalk | 3,495
 adaderanalk | 4,420
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,742
 virakesarilk | 6,023
-adaderanasinhalalk | 6,431
+adaderanasinhalalk | 6,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,194 (100.0%) of 38,197 articles have been extended.
+38,197 (100.0%) of 38,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### எரிபொருள் விலையில் திருத்தம் இல்லை
+### මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම් ව මැතිවරණ කොමිසමට කැඳවයි
+
+*2024-07-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199402) · `si`
+
+මහජන ආරක්ෂ අමාත්‍යාංශයේ ලේකම් ව සහ මැතිවරණ කටයුතු භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා ව මැතිවරණ කොමිසම වෙත කැඳවා ඇති බව වාර්තා වෙයි.
+
+මැතිවරණ කොමිසමේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා මාධ්‍ය වෙත අදහස් දක්වමින් පවසා සිටියේ, ජනාධිපතිවරණයේ ආරක්ෂක කටයුකු සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ඔවුන් ව අද (31) දිනයේ මැතිවරණ කොමිසම වෙත කැඳවූ බවය.
+
+...
+
+[Data](articles/4c36957d.json)
+
+---
+
+### Sri Lanka sells Rs146bn in 2028, to 2030 and 2033 bonds
+
+*2024-07-31 11:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs146bn-in-2028-to-2030-and-2033-bonds-174592/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 146.2 billion rupees in 2028, 2030 and 2033 bonds, data from the state debt office showed.
+
+All offered 80 billion rupees of 15 February 2028 bonds were sold at an average yield of 12.07 percent.
+
+The debt office sold 40.8 billion rupees of an offered 80 billion of 15 October 2030 bonds at 12.55 percent.
+
+The debt office sold 25.4 billion rupees of an offered 40 billion of 01 June 2033 bonds at 12.83 percent.(Colombo/Jul31/2024)
+
+◼️
+
+[Data](articles/72be3f81.json)
+
+---
+
+### Sri Lanka’s FLiCo to retail Konka products
+
+*2024-07-31 11:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-flico-to-retail-konka-products-174585/) · `en`
+
+ECONOMYNEXT – FLiCo, a subsidiary of microfinance company Future Life Holdings, said it will be Chinese electronics manufacturer Konka’s new distribution agent in Sri Lanka.
+
+Konka products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers through FLiCo’s network across the country, the company said.
+
+The first two Konka-branded showrooms opened last week at Maharagama and Pelawatte.
+
+“With the unveiling of the FLiCo network, Sri Lankan consumers can now conveniently access a range of top-notch products, including the innovative and high-quality offerings from KONKA, renowned for its technological advancements and excellent value for money,” the company said in a statement.
+
+Konka’s Senior Manager Overseas Business Division Fiona You, Regional Director Reed Lu, and Future Life Holdings directors Danushka Udugama, Sanjaya Jayaweera, and Kasun Perera were present at the launch.
+
+...
+
+[Data](articles/6f4d0526.json)
+
+---
+
+### There is no correction in fuel prices
 
 *2024-07-31 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-திருத்தம்-இல்லை/175-341336) · `ta`
 
-மாதாந்த எரிபொருள் விலை திருத்தத்தின் பிரகாரம், இன்று (31) நள்ளிரவு முதல் எரிபொருளின் விலை குறைக்கப்படுவது ஏன் என, எரிபொருள் நிரப்பு நிலைய உரிமையாளர்கள் எரிபொருளை ஆர்டர் செய்யாத காரணத்தினால் நாடு முழுவதும் எரிபொருள் தட்டுப்பாடு ஏற்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+Despite rumors, there's no change in fuel prices as per the latest amendment. A Ceylon Petroleum Corporation official clarified that the reduction mentioned was due to lack of fuel orders from station owners, not a price cut. The official confirmed that prices won't be adjusted today, ensuring transparency.
 
-இந்நிலைமை தொடர்பில் அவதானம் செலுத்தியதன் பின்னர் எரிபொருள் விலை இன்று திருத்தப்படாது எனவும் எரிபொருள் விலையில் திருத்தம் செய்யப்படாது என எரிபொருள் நிரப்பு நிலைய உரிமையாளர்களுக்கு உத்தியோகபூர்வமாக அறிவிக்கப்பட்டுள்ளதாகவும் அந்த அதிகாரி மேலும் குறிப்பிட்டுள்ளார்.
+🟩
+
+According to the Monthly Fuel Price Amendment, the fuel prices have been reduced from midnight today (31), a top official of the Ceylon Petroleum Corporation said that the fuel station owners did not order fuel.
+
+The official added that the fuel prices will not be revised today after paying attention to the situation and that the fuel station owners have been officially informed that the fuel prices will not be revised.
 
 ◼️
 
 [Data](articles/deeb68ed.json)
+
+[Extended Data](ext_articles/deeb68ed.ext.json)
 
 ---
 
@@ -160,21 +218,49 @@ In the meantime, she requested the sports funeralian to stay with the team in th
 
 ---
 
-### ஆயுதங்களுடன் மௌலவி மாட்டினார்
+### Moulavi is not with weapons
 
 *2024-07-31 10:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மௌலவி-மாட்டினார்/73-341332) · `ta`
 
-மட்டக்களப்பு மாஞ்சோலை பிரதேசத்தில் மௌலவி ஒருவர் ஆயுதங்களுடன் கைது செய்யப்பட்டுள்ளதாக அதிரடிப்படையினர் தெரிவித்தனர்.
+A Moulavi was arrested in Batticaloa's Manjolai area, with the STF seizing two T.56 guns, sixty bullets, two gourds, binoculars, and motorcycles based on intelligence. The suspect, a 43-year-old from Ottamavadi, was linked to the Karuwadu business and found burying ammunition in his garden.
 
-பொலன்னறுவை இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் பேரில் T.56 துப்பாக்கிகள் இரண்டு, அறுபது தோட்டாக்கள், இரண்டு மகசீன்கள், ஒரு பைனாகுலர் மற்றும் மோட்டார் சைக்கிள் என்பவற்றை ஏற்றிச் சென்ற நிலையில் கைது செய்யப்பட்டுள்ளதாக அரலகங்வில விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்ட மௌலவி ஓட்டமாவடி மாஞ்சோலை பகுதியைச் சேர்ந்த 43 வயதுடையவர் எனவும் கருவாடு வியாபாரத்தில் ஈடுபட்டார் என்று விசாரணைகளை மேற்கொள்ளும் விசேட அதிரடிப்படையினர் தெரிவிக்கின்றனர்.
+A Moulavi has been arrested in Manjolai area in Batticaloa, the Task Force said.
 
-டி.56 துப்பாக்கியின் அறுபது ரவுண்டுகள் மற்றும் இரண்டு மகசீன்கள், பைனாகுலர் ஆகியவை உரை பையில் போட்டு, தோட்டத்தில் புதைத்து வைக்கப்பட்டிருந்த நிலையில், அதை தோண்டி எடுத்து  மோட்டார் சைக்கிளில் கொண்டு செல்லப்பட்டபோது கைது செய்யப்பட்டுள்ளார்.
+The Aralangwila Special Task Force said that two T.56 guns, sixty bullets, two gourds, one binoculars and motorcycles were arrested on a confidential information received by the Army Intelligence Unit of the Polonnaruwa Military Intelligence Unit.
+
+The Special Task Force (STF) said that the 43 -year -old from Ottamavadi, Ottamavadi, who was arrested, was involved in the Karuwadu business.
+
+The T56 rifle's sixty rounds and two magazines and binoculars were put in the text bag and buried in the garden, he was arrested while carrying it on a motorcycle.
 
 ◼️
 
 [Data](articles/b3e2e8e7.json)
+
+[Extended Data](ext_articles/b3e2e8e7.ext.json)
+
+---
+
+### Sri Lanka has less than 10-pct female pilots, compared to India’s 40-pct: Official
+
+*2024-07-31 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-less-than-10-pct-female-pilots-compared-to-indias-40-pct-official-174453/) · `en`
+
+ECONOMYNEXT – Sri Lanka has fewer than 10 percent of female pilots, Chairman of Sri Lanka Airport and Engineering Services, Athula Galketiya, said.
+
+“In Sri Lanka it’s less than 10 percent but in India you get around 30 percent or 40 percent,” Galketiya told reporters on Monday.
+
+“In Sri Lanka, it’s very hard to get into the industry of piloting.”
+
+Galketiya said that approximately 25 to 30 percent of Sri Lanka’s air traffic controllers are women.
+
+The country has faced the resignation of air traffic controllers due to salary issues. Galketiya said 80 have left the country.
+
+In response, the government has decided to recruit new Air Traffic Controllers. “So far, a team of over 25 has been recruited, trained, and assigned to duty. Additionally, applications for another group have already been called.”
+
+◼️
+
+[Data](articles/37f0a300.json)
 
 ---
 
@@ -310,21 +396,29 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 
 ---
 
-### 3 தமிழக மீனவர்களுடன் ஒரு வருட சிறை
+### One year in jail with 3 Tamil Nadu fishermen
 
 *2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
+Three Tamil Nadu fishermen received one-year prison sentences and fines for illegal fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and also sentenced to a year in prison. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Additionally, 25 fishermen arrested recently were remanded until further notice.
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் , பல்வேறு கால கட்டத்தில் கைதான 64 மீனவர்களின் வழக்கு விசாரணைகள் செவ்வாய்க்கிழமை (30) ஊர்காவற்துறை நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+🟩
 
-அதன் போது, ஜூன் மாதம் 16ஆம் மற்றும் 22ஆம் திகதிகளில் கைதான 26 பேரில் மூவர் இரண்டாவது தடவையாக மீள கைதாகி இருந்தமையால் , அவர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டது.
+Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
 
-ஏனைய 23 பேரில் மூன்று படகுகளின் உரிமையாளர்களும் இருந்தமையால் , அவர்கள் மூவருக்கும் தலா 4 மில்லியன் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது. தண்ட பணம் செலுத்த தவறின் , 06 மாத சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும், மூன்று படகுகளையும் அரசுடமை ஆக்கப்பட்டுள்ளதாக மன்று கட்டளையிட்டது.
+The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
 
-...
+At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
+
+The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
+
+Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
+
+◼️
 
 [Data](articles/50319717.json)
+
+[Extended Data](ext_articles/50319717.ext.json)
 
 ---
 
@@ -462,6 +556,32 @@ On the 25th, a man and a woman were shot dead in a three -wheeler in front of th
 
 ---
 
+### Sri Lanka rupee opens at 302.40/70 to US dollar
+
+*2024-07-31 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-40-70-to-us-dollar-174571/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/70 to the US dollar on Wednesday, dealers said. Bond yields were broadly steady, they said, and stocks opened down 0.41 percent.
+
+In the secondary market, treasury bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.50/60 percent, up from 10.45/60 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.80.90 percent, down from 11.85/12.00 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, down from 12.05/20 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.20/35 percent, down from 12.25/40 percent.
+
+A bond maturing on 15.10.2030 was quoted at 12.75/85 percent.
+
+In equities, Colombo’s All Share Price Index opened 47.31 points lower at 11,463, while the S&P SL20 of more liquid stocks opened down at 1.06 percent or 35.43 points to 3,298.
+
+◼️
+
+[Data](articles/ea3031bc.json)
+
+---
+
 ### Hamas leader Ismail Honey was killed
 
 *2024-07-31 09:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸ்-தலைவர்-இஸ்மாயில்-ஹனியே-கொல்லப்பட்டார்/50-341323) · `ta`
@@ -558,6 +678,28 @@ The motorcyclination roof was toppled and a 21 year old resident of Pusselithann
 
 ---
 
+### Sri Lanka’s Adani, John Keells container terminal to start in early 2025
+
+*2024-07-31 08:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-john-keells-container-terminal-to-start-in-early-2025-174564/) · `en`
+
+ECONOMYNEXT – Colombo port’s West Container Terminal, backed by India’s Adani and Sri Lanka’s John Keells expects to start operations in early 2025.
+
+The first bach of quay and yard cranes are expected to arrive in August 2024, JKH Chairman Krishan Balendra told shareholders in interim accounts.
+
+Commissioning and automation is expected to completed in the following months.
+
+The first phase of the terminal is expected to be operational in the first quarter of 2025.
+
+Profits at JKH’s South Asia Gateway Terminals also increased with double digit growth coming from both local and transshipment volumes.
+
+Sri Lanka’s Colombo Port has seen volumes rise in the first quarter in particular due to red sea troubles and recovering imports. (Colombo/July31/2024)
+
+◼️
+
+[Data](articles/1a818678.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-07-31 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100887/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -577,6 +719,26 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 [Data](articles/be512218.json)
 
 [Extended Data](ext_articles/be512218.ext.json)
+
+---
+
+### Sri Lanka President’s allies claim support of 95 members
+
+*2024-07-31 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-allies-claim-support-of-95-members-174558/) · `en`
+
+ECONOMYNEXT – Allies of Sri Lanka President Ranil Wickremesinghe has claimed the support of at least 95 members of the parliamentary group of the government, following a meeting on Tuesday.
+
+Around 92 members of the parliamentary group attended the meeting, indicating their support, the President’s media unit said in a statement.
+
+Bandula Gunawardana, Prasanna Ranatunga and Arundika Fernando did not attend as they were abroad, Ashu Marasinghe, an ally of the President told a late night talk show at Sri Lanka’s Derana television.
+
+“The government parliamentary group is made up of 123 members,” Marasinghe claimed. “So that means 77 percent have come to support President.”
+
+The Sri Lanka Podujana Party is split over the presidential candidate after its executive committee decided not to support Wickremesinghe.
+
+◼️
+
+[Data](articles/ef9881f3.json)
 
 ---
 
@@ -645,6 +807,28 @@ The Defense Secretary also said that Sri Lankans have been staying for Russian w
 [Data](articles/9d0eba65.json)
 
 [Extended Data](ext_articles/9d0eba65.ext.json)
+
+---
+
+### Sri Lanka’s John Keells Holdings lose Rs966mn in June quarter in fx hit
+
+*2024-07-31 07:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-holdings-lose-rs966mn-in-june-quarter-in-fx-hit-174520/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings said it reported a loss of 966.6 million rupees in the June 2024 quarter, driven by a 1.25 billion rupee loss on a loan taken for its City of Dreams project by its unit Waterfront Properties.
+
+The group reported 204 million rupees before tax and also provided 762 million for taxes at its other operations which made profits.
+
+John Keells Holdings report loss of 58 cents per share for June quarter.
+
+Revenues grew 9 percent to 69.6 billion rupees, with insurance revenues of 4.5 billion rupees.
+
+Cost of sales grew 8 percent to 56.9 billion rupees. Gross profits grew 15 percent to 12.7 billion rupees. Administrative expenses rose 17 percent to 7.2 billion rupees.
+
+Profits of South Asian Gateway Terminal improved with double digit volume growth, with both domestic and transshipment volumes going up, Chairman Krishan Balendra said.
+
+...
+
+[Data](articles/309a3951.json)
 
 ---
 
@@ -2097,193 +2281,5 @@ This will provide certificates to 31 leading companies in Sri Lanka and they wil
 [Data](articles/6b3d5b45.json)
 
 [Extended Data](ext_articles/6b3d5b45.ext.json)
-
----
-
-### Four killers sentenced to death
-
-*2024-07-30 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199380) · `si`
-
-In a landmark case, four individuals were sentenced to death for murdering a man with stones and poles in the Orugodawatta area. The Colombo High Court found them guilty of the crime committed in Aprilwatta, Australia. However, one defendant passed away during the trial, and another was acquitted due to insufficient evidence. The Attorney General initiated the charges in 2017, emphasizing the need to prove the accusations beyond reasonable doubt.
-
-🟩
-
-Four persons who were convicted of murder of a person with stones and poles were sentenced to death.
-
-මෙලෙස මරණ දඬුවම නියම වූයේ ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි විත්තිකරුවන් සිව්දෙනෙකුට ය.
-
-The Colombo High Court had accused of being attacked and killed in the Aprilwatta area in Australia.
-
-However, the 2nd defendant in the case has died during the trial.
-
-The 6th defendant was released from the case due to lack of adequate evidence.
-
-The Attorney General had filed the charges in 2017 under four indictments.
-
-Declaration of the Order and sentenced the accused to prove the charges beyond the fairly beyond defendants.
-
-◼️
-
-[Data](articles/83ad8cfd.json)
-
-[Extended Data](ext_articles/83ad8cfd.ext.json)
-
----
-
-### Sri Lanka, Pakistan discuss further cooperation, FM visit: Foreign ministry
-
-*2024-07-30 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-discuss-further-cooperation-fm-visit-foreign-ministry-174498/) · `en`
-
-ECONOMYNEXT – Sri Lanka and Pakistan have discussed further cooperation in economy and trade, defence and security, among other matters, at an annual consultation, the Ministry of Foreign Affairs said.
-
-The seventh round of Bilateral Political Consultations between the two countries concluded at the Pakistani Foreign Ministry in Islamabad on Tuesday (30).
-
-Foreign Secretary Aruni Wijewardane and the Foreign Secretary of Pakistan Muhammad Syrus Sajjad Qazi reviewed the current status of relations between the two South Asian neighbours.
-
-“The areas of cooperation that were discussed at the meeting included economy and trade, defence and security, education, culture, media and sports, consular matters, agriculture as well as technology,” the MFA said in a statement.
-
-Both countries agreed on the importance of high-level political exchanges in enhancing the bilateral relations. “In this context, a Foreign Ministerial visit to Pakistan is envisaged in the near future.”
-
-...
-
-[Data](articles/560a4fdd.json)
-
-[Extended Data](ext_articles/560a4fdd.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.48/55 to US dollar
-
-*2024-07-30 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-48-55-to-us-dollar-174491/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.48/55 to the US dollar on Tuesday, from 302.63/73 to the US dollar on Monday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.45/60 percent, up from 10.45/55 percent.
-
-A bond maturing on 15.12.2027 closed at 11.85/12.00 percent, up from 11.80/12.00 percent.
-
-A bond maturing on 15.02.2028 closed at 12.05/20 percent, up from 11.85/12.00 percent.
-
-A bond maturing on 15.09.2029 closed at 12.25/40 percent, up from 12.15/25 percent. (Colombo/Jul30/2024)
-
-◼️
-
-[Data](articles/a1b54c35.json)
-
-[Extended Data](ext_articles/a1b54c35.ext.json)
-
----
-
-### The president is taking refuge for economic criminals who made the country - Sajith Premadasa
-
-*2024-07-30 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189819) · `ta`
-
-The president is accused of protecting economic criminals, leading to national decline across sectors. The opposition highlights a crisis due to widespread crimes and challenges to social values and responsibilities. The leader criticizes the president for undermining the law and fostering corruption, setting a poor example for the nation.
-
-🟩
-
-The economy, society, politics and religion of our country are completely deteriorating. The entire democratic structure is completely renamed, including the publication of the country's highest legal constitution, the president of the country to publicly challenge the constitution, the obstacles and equations between the 3 pillars of democracy.. On the other hand, the opposition leader said that the entire community was in a state of crisis due to massive crimes.
-
-Since ancient times, our country's social organization has been built on Buddhist policies and values. It extends from the individual to the top of the entire community. Everyone has mutual obligations that have been tied to each other.
-
-The Opposition Leader said that the entire social structure between parents, children, wives, entrepreneurs, employees, friends, ordinary people and religious teachers is tied to mutual duties and responsibilities.
-
-...
-
-[Data](articles/6f72d8b7.json)
-
-[Extended Data](ext_articles/6f72d8b7.ext.json)
-
----
-
-### Attack on school student;Three arrests
-
-*2024-07-30 17:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலை-மாணவன்-மீது-தாக்குதல்-மூவர்-கைது/76-341294) · `ta`
-
-In Ratnapura District, a student from Nivithigala E/Niriella Tamil Vidyalaya was attacked by plantation authorities. Following the incident reported to Nivithigala Police, three suspects were arrested. The student received treatment at Nivithigala Divisional Hospital. Police are investigating, with the suspects set to appear in court on Wednesday.
-
-🟩
-
-Plantation authorities have attacked a student who is studying in a normal grade class at the Nivithigala E/Niriella Tamil Vidyalaya in the Ratnapura District.
-
-Three suspects have been arrested by the police following the incident of the public, youth and school administration after the incident was reported to the Nivitigala Police Station as the student was being treated at the Nivithigala Divisional Hospital.
-
-Officers of the Nivithigala Police Station are investigating the attack and the suspects are to be produced in court on Wednesday (31).
-
-◼️
-
-[Data](articles/48c20589.json)
-
-[Extended Data](ext_articles/48c20589.ext.json)
-
----
-
-### Sri Lanka National Workers Union and Sri Lanka Farmers' Association Society - Vadivel Suresh
-
-*2024-07-30 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189817) · `ta`
-
-Vadivel Suresh, General Secretary of the Sri Lanka National Estate Workers Union and Badulla District Parliamentarian, announced a political and trade union coalition between the Sri Lanka National Estate Workers Union and the Sri Lanka Farmers' Association Society. This alliance aims to influence future elections, combining the significant membership of both unions in the Nuwara Eliya district. The coalition plans to address various electoral challenges, marking a significant shift in the region's political landscape.
-
-🟩
-
-Sri Lanka National Plantation Workers Union and Sri Lanka Farmers' Union. Therefore, this coalition will be a political and trade union decision in the future, ”said Vadivel Suresh, General Secretary of the Sri Lanka National Estate Workers Union and Badulla District Parliamentarian.
-
-He said this during a media briefing held in Nuwara Eliya today (30).
-
-“There is a massive revolution in the hill country today. That is, the Sri Lanka National Estate Workers Union, the massive union, and the Sri Lanka Farmers' Association, the oldest union with the largest farmers in the Nuwara Eliya district.
-
-The Sri Lanka Farmers' Association has up to 10 thousand members, and the Sri Lanka National Estate Workers Union has two lakhs and 3 lakh members in 11 districts.So, the vote bank is at our disposal. This is a massive revolution. We have decided to act as a coalition. Members of the Sri Lanka Farmers' Association, Madhavan Suresh, have complied.
-
-...
-
-[Data](articles/7f51bc16.json)
-
-[Extended Data](ext_articles/7f51bc16.ext.json)
-
----
-
-### The controversy relating to the policeman may not be allowed to intensify
-
-*2024-07-30 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189830) · `ta`
-
-A controversy surrounds the appointment of the Sri Lankan police chief, Tennakoon, amid concerns about democracy and the rule of law. Despite a Supreme Court injunction against his appointment due to past human rights violations and a controversial promotion, the government supports his continued service. This stance challenges the separation of powers and judicial review, potentially undermining public trust in the legal system.
-
-🟩
-
-As for the democracy of Sri Lanka, the police chief is trapped in the midst of a controversy that is important. The Supreme Court has issued an interim injunction, preventing his act as police chief, until he is fully investigated on all fundamental rights petitions filed against his appointment.
-
-The government's announcement that the government will not take action in accordance with the interim injunction on Tennakoon has shocked the law respected people.. Although the country's highest court has issued such an order, the government's announcement that the Inspector General of Police will continue in his post is not in accordance with a society that ruled by law.The threat of democracy cannot be underestimated.
-
-Addressing the parliament, Prime Minister Dinesh Gunawardena announced that the High Court could not change the approval given by the Constitutional Council to appoint the current police chief and that he would continue in his post.
-
-...
-
-[Data](articles/41fb6139.json)
-
-[Extended Data](ext_articles/41fb6139.ext.json)
-
----
-
-### Unwaverished Doctor and Hospital for compensation of compensation
-
-*2024-07-30 17:34:22* · [`adalk`](https://www.ada.lk/breaking_news/නොසැලිමත්-විශේශඥ-දොස්තරට-හා-රෝහලට-ලක්ෂ-30ක-වන්දි-ගෙවන්න-නියෝග/11-411095) · `si`
-
-A young woman filed a lawsuit against a hospital in Colombo, alleging negligence during her surgery, which led to complications. The hospital denied the allegations but agreed to compensate her after legal proceedings. The case involved significant medical issues and legal discussions, highlighting the importance of patient safety and accountability in healthcare institutions.
-
-🟩
-
-Colombo chief district district judge Sandun Withan Vithana today to pay an unbelievator in the abandoned by a young woman who was surgery in the abandoned by the surgery and to contemporary to the surgery to inflict the surgery.(30) fixed.
-
-The complaint with the lawsuit of the lawsuit of the lack of Rs.The hospital kerown the complainant to pay a cost of Rs.
-
-Dalugama, Dalugama, Dalugama, Resident of Jonakwatte. Mrs. Perera was sent to compensation after hearing a case of a case was deemed to be compensated as respondents in the case as respondents in the case.. Mr. Topulalaiya and Colombo 10 Norisa Canal Road.
-
-23 The victims of the age of 23 were expedited for her second child. Attorney-at-Law Samanthi Gamage, who was notified by the National Child, was admitted to the Central Hospital on January 3, was admitted to the Central Hospital on the third day of 2016.. Although Mr. Warlelliya was notified in several occasions, he was not concerned about it.
-
-...
-
-[Data](articles/22a1203f.json)
-
-[Extended Data](ext_articles/22a1203f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 16:35:55**
+As of **2024-07-31 16:53:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,253 (100.0%) of 38,258 articles have been extended.
+38,258 (100.0%) of 38,258 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,35 +42,49 @@ The overall rate of inflation as measured by the Colombo Consumer Price Index (C
 
 [Data](articles/e7e0df54.json)
 
+[Extended Data](ext_articles/e7e0df54.ext.json)
+
 ---
 
-### තැපැල් ඡන්ද ඉල්ලුම් කිරීම ගැන දැනුම්දීමක්
+### Notice on postal votes
 
 *2024-07-31 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199415) · `si`
 
-2024 ජනාධිපතිවරණයේ තැපැල් ඡන්ද ඉල්ලුම් කිරීම සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Elections Commission warns against false propaganda regarding postal voting for the 2024 presidential election. It advises checking official website for accurate registration details. The Commission disclaims responsibility for unverified ads. Postal vote applications close from August 5, 2010, to August 5, 2015.
 
-එහි දැක්වෙන්නේ ව්‍යාජ ප්‍රචාරවලට හසු නොවී මැතිවරණ කොමිෂන් සභාවේ නිල වෙබ් අඩවියේ තමන්ගේ ලියාපදිංචියට අදාළ තොරතුරු අනුව කටයුතු කරන ලෙසය.
+🟩
 
-විවිධ අයුරින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය කරන දැන්වීම් සම්බන්ධයෙන් කොමිෂන් සභාවේ කිසිදු වගකීමක් නොමැති අතර එහි සඳහන් තොරතුරු අසත්‍ය සහ ජනතාව නොමග යවන සුළු ප්‍රචාරයන් බවද නිවේදනය කරයි.
+The Elections Commission has issued a statement regarding the postal voting on the 2124 presidential election.
 
-ඉදිරි ජනාධිපතිවරණයේ ඡන්ද විමසීමේ දී තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම 2024.08.05 වනදා අවසන් වෙයි.
+It states that he is not caught by false propaganda, but to work on his registration related information on the official website of the Election Commission.
+
+There is no obligation of the Commission on advertisements that propagate in various ways, and the information referred to is the false and propaganda of the people.
+
+Postal voting applications will end on 05.08.2010 to 05.08.2015.
 
 ◼️
 
 [Data](articles/24545425.json)
 
+[Extended Data](ext_articles/24545425.ext.json)
+
 ---
 
-### ලිට්‍රෝ ගෑස් මිල ගැන අලුත්ම ආරංචියක්
+### Latest news price of Litro gas prices
 
 *2024-07-31 16:01:41* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අලුත්ම-ආරංචියක්/11-411122) · `si`
 
-ලිට්‍රෝ ගෑස් මිල අගෝස්තු මාසය තුළ සංශෝධනය නොකිරීමට තීරණය කර තිබේ.
+Litro gas prices remained unchanged in August.
+
+🟩
+
+The Litro Gas prices have not been revised in August.
 
 ◼️
 
 [Data](articles/c6e435ec.json)
+
+[Extended Data](ext_articles/c6e435ec.ext.json)
 
 ---
 
@@ -280,17 +294,23 @@ Meanwhile, during the meeting with former PC members, the President also express
 
 ---
 
-### පක්ෂයෙන් ගත් තීරණයත් එක්ක හිටගන්නේ එක්කෙනාද එයත් සමග දේශපාලනය කරනවා
+### With the party's decision, you are doing politics with it
 
 *2024-07-31 14:06:05* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයෙන්-ගත්-තීරණයත්-එක්ක-හිටගන්නේ-එක්කෙනාද-එයත්-සමග-දේශපාලනය-කරනවා/11-411120) · `si`
 
-පක්ෂයෙන් වෙනමම අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ගත් තීරණයත් සමග හිට ගන්නේ එක් අයෙක්ද ඔහු හෝ ඇය සමග දේශපාලනය කරන බව පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසීය.
+Namal Rajapaksa, the General Manager MP, announced his political alignment by choosing a separate candidate outside his party. He hinted that the President's candidate would be revealed soon.
 
-ඒසේම ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනපති අපේක්ෂකයා ලබන සතියේදී ප්‍රකාශ කරන බවත් ඉදිරි දින කිහිපයේදී සාකච්ඡා ගණනාවක් පැවැත්වෙනු ඇති බවත් ඔහු පැවැසිය.
+🟩
+
+The General Manage MP Namal Rajapaksa said that he or she was conducting politics with him or her decision to make a separate candidate from the party.
+
+He also stated that the President's candidate will be declared next week in the next few days, he said.
 
 ◼️
 
 [Data](articles/0921a7b2.json)
+
+[Extended Data](ext_articles/0921a7b2.ext.json)
 
 ---
 
@@ -1540,21 +1560,29 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 
 ---
 
-### 3 தமிழக மீனவர்களுக்கு ஒரு வருட சிறை
+### 3 Tamil Nadu fishermen
 
 *2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
+Three Tamil Nadu fishermen received one-year jail terms and fines for fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in prison. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Additionally, 25 fishermen arrested recently were remanded until further notice.
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் , பல்வேறு கால கட்டத்தில் கைதான 64 மீனவர்களின் வழக்கு விசாரணைகள் செவ்வாய்க்கிழமை (30) ஊர்காவற்துறை நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+🟩
 
-அதன் போது, ஜூன் மாதம் 16ஆம் மற்றும் 22ஆம் திகதிகளில் கைதான 26 பேரில் மூவர் இரண்டாவது தடவையாக மீள கைதாகி இருந்தமையால் , அவர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டது.
+Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
 
-ஏனைய 23 பேரில் மூன்று படகுகளின் உரிமையாளர்களும் இருந்தமையால் , அவர்கள் மூவருக்கும் தலா 4 மில்லியன் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது. தண்ட பணம் செலுத்த தவறின் , 06 மாத சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும், மூன்று படகுகளையும் அரசுடமை ஆக்கப்பட்டுள்ளதாக மன்று கட்டளையிட்டது.
+The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
 
-...
+At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
+
+The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
+
+Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
+
+◼️
 
 [Data](articles/6613686b.json)
+
+[Extended Data](ext_articles/6613686b.ext.json)
 
 ---
 

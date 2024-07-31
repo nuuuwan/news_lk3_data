@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 08:36:00**
+As of **2024-07-31 08:55:30**
 
 ## Newspaper Stats
 
-*Scraped **38,167** Articles*
+*Scraped **38,169** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 332
+dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 367
@@ -20,33 +20,51 @@ adaderanalk | 4,415
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
 virakesarilk | 6,020
-adaderanasinhalalk | 6,425
+adaderanasinhalalk | 6,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,166 (100.0%) of 38,167 articles have been extended.
+38,167 (100.0%) of 38,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### කොළඹ රථ වාහන ගාල් කිරීම ගැන තීරණයක්
+### කැනඩාවට යන්න සුදානමින් සිටි තරුණයාගේ සිරුර වැවකින් හමුවෙයි
+
+*2024-07-31 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199396) · `si`
+
+කැනඩාවට යෑමට සුදානමින් සිටි තරුණයෙකුගේ මළ සිරුරක් ඊයේ (30) මල්ලාවි වවුනිකුලම වැවේ තිබි සොයාගත් බව මල්ලාවි පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f80d3531.json)
+
+---
+
+### Decision on Colombo
 
 *2024-07-31 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199395) · `si`
 
-කොළඹ නගර සභා බලප්‍රදේශය තුළ රථ වාහන ගාල් කිරීම සඳහා වන ක්‍රමවේදයක් හඳුන්වා දීමට පියවර ගෙන ඇති බව කොළඹ මහනගර සභාව පවසයි.
+The Colombo Municipal Council is implementing a new parking strategy, where one contractor will manage each region within the city limits. This initiative aims to improve traffic flow and provide efficient parking solutions for drivers, expected to be operational within three months.
 
-එහි රථවාහන අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ මංජුල කුලරත්න මහතා පැවසුවේ, එක කලාපයක් සඳහා එක් කොන්ත්‍රාත්කරුවෙකු යෙදවීමට නියමිත බවය.
+🟩
 
-"කොළඹ නගර සීමාව තුළ රථවාහන ගාල් කළමනාකරණය විධිමත් කිරීම සඳහා දැනට පවතින මාර්ගවල කොන්ත්‍රාත්කරුවෙක්, පරිපාලකයෙක් පත්කරන ක්‍රමය වෙනුවට අපි දැන් යම්කිසි කලාපයක් සඳහා කොන්ත්‍රාත්තුවක් එන විදියට කටයුතු සිදුකරමින් පවතිනවා. බොහෝවිට තව මාස 3ක් වගේ ඇතුළත ක්‍රියාත්මක වෙනවා. ඒ කලාපය තුළ රථ වාහන ගාල් භාවිත කරන පාරිභෝගිකයින්ට වාසිදායක තත්ත්වයක් ඇති වෙනවා. මොකද දැනට එක මාර්ගයක රථ නවත්තලා ආසන්නම කාලයේ තව කාලයක් ඉතිරිවෙලා තිබිලා ගාල් කළොත් ඒ ටිකට් එකම භාවිත කරන්න බැරි තත්ත්වයක් තියෙනවා. කලාපය තුළ ක්‍රියාත්මක කිරීමේ දී රියදුරන්ට වාසියක් ලැබෙනවා අදාළ කලාපය තුළ පැයක් වගේ ඇතුළත ස්ථාන දෙක තුනක වුණත් ගාල් කිරීමට හැකියාව ලැබෙනවා."
+Steps have been taken to introduce a methodology for parking techniques in the Colombo Municipal Council area.
 
-රථවාහන ගාල් කරන ස්ථාන සඳහා ඉදිරියේදී විවිධ තාක්ෂණික ක්‍රමවේද යොදා ගැනීමට අපේක්ෂා කරන බවද මංජුල කුලරත්න මහතා සඳහන් කළේය.
+The Deputy Director of the Traffic Division of the Vehicle Manjula Kularatne said that one contractor is to be deployed for one region.
+
+"In the Colombo city limits, we are now making a contract for a contract to some region to regularize traffic current management system in the Colombo city limits.. Often operates within 3 months. Customers use traffic parks. Because now, if you have stopped the cars on one way, there is a sole use of the same tickets in the same ticket. In the region, drivers benefit the drivers, as an hour in the region, they can be parked. "
+
+He is expected to be used in the future for traffic parking places.
 
 ◼️
 
 [Data](articles/3498a759.json)
+
+[Extended Data](ext_articles/3498a759.ext.json)
 
 ---
 
@@ -719,22 +737,6 @@ The five-member Supreme Court Badulla informed this cadre to the Solicitor Gener
 [Data](articles/63d86125.json)
 
 [Extended Data](ext_articles/63d86125.ext.json)
-
----
-
-### SLPP Deciding not to Support  Ranil is a Blessing in Disguise for him because Wickremesinghe would be better off without the endorsement of the Rajapaksas.
-
-*2024-07-30 21:47:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84454) · `en`
-
-Monday (July 29)  night, the Sri Lanka Podujana Peramuna (SLPP) finally parted ways with Ranil Wickremesinghe, announcing plans to field its own candidate at the presidential election. The move effectively split the Pohottuwa and saw President Wickremesinghe affiliated SLPP MPs, 11 of them, leaving the party’s central committee meeting and assembling at the UNP headquarters to endorse the candidacy of Wickremesinghe.
-
-Pohottuwa’s split was predictable, and so was its plan to field a separate candidate in a desperate bid to hold onto the eroding Rajapaksa stranglehold. The move is not necessarily an election winner for the Pohottuwa, nor is it even designed to address the electoral calculations of the forthcoming presidential election.
-
-...
-
-[Data](articles/6b967d4c.json)
-
-[Extended Data](ext_articles/6b967d4c.ext.json)
 
 ---
 

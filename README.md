@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 01:20:48**
+As of **2024-08-01 01:35:54**
 
 ## Newspaper Stats
 
-*Scraped **38,331** Articles*
+*Scraped **38,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,446
+dailyftlk | 2,447
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,326 (100.0%) of 38,331 articles have been extended.
+38,331 (100.0%) of 38,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### A spotted affair: Has Sri Lanka over-promoted the iconic Sri Lankan leopard?
+
+*2024-08-01 01:06:53* · [`dailyftlk`](https://www.ft.lk/columns/A-spotted-affair-Has-Sri-Lanka-over-promoted-the-iconic-Sri-Lankan-leopard/4-764988) · `en`
+
+The Sri Lankan leopard – ‘panther pardus kotiya’ – Pic by Srilal Miththapala
+
+Of all the charismatic animals seen in Sri Lanka, there is none that has created so much interest and popularity, than the Sri Lankan leopard. And today it has become arguably one of the most sought-after tourist attractions in the country. But is the leopard’s own popularity leading to its own destruction?
+
+1 August is Sri Lanka Leopard Day, a day proposed by the Wildlife and Nature Protection Society of Sri Lanka in 2020 to celebrate our very own leopard sub species.
+
+So this maybe an overtime moment to reflect on the problems that the Sri Lanka leopard is facing today.
+
+The Sri Lankan leopard is a distinct subspecies – ‘panthera pardus kotiya’ (after Dr. Sriyanie Miththapala 1966). It is the only large carnivore found in Sri Lanka, and is therefore the apex predator in the wild, with no threats to it other than man.
+
+...
+
+[Data](articles/51883768.json)
+
+---
 
 ### LOLC steps up commitment to protect apex predator Sri Lankan leopard
 
@@ -45,6 +65,8 @@ The Sri Lankan leopard, an apex predator and a key component of the island’s r
 ...
 
 [Data](articles/637f9565.json)
+
+[Extended Data](ext_articles/637f9565.ext.json)
 
 ---
 
@@ -64,55 +86,75 @@ One of the main initiatives supported by the bank in partnership with the WNPS i
 
 [Data](articles/daf5f18c.json)
 
+[Extended Data](ext_articles/daf5f18c.ext.json)
+
 ---
 
-### யாழ். புன்னாலைக்கட்டுவனில் ஓய்வுநிலை அதிபர் அழுகிய நிலையில் சடலமாக மீட்பு!
+### Yall. Retirement Chancellor Reddowns in Punnalaikkattu
 
 *2024-08-01 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189950) · `ta`
 
-தனியாக வீட்டில் வசித்து வந்த ஓய்வு நிலை அதிபர் ஒருவர் புதன்கிழமை (31) அழுகிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார். மயிலங்காடு வீதி புன்னாலைக்கட்டுவன் தெற்கு பகுதியைச் சேர்ந்த வேலாயுதர் பாலசுப்பிரமணியம் (வயது 68) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+Velayudhar Balasubramaniam, a 68-year-old retired chancellor from Punnalaikkattuvan, was found dead in his home on Mayilangadu Road. Living alone since divorcing his wife 10 years ago, he had no local family; his children reside abroad. The discovery was made when someone returned to collect belongings. An autopsy will be conducted at the Jaffna Teaching Hospital.
 
-குறித்த நபர் மனைவியை பிரிந்து கடந்த 10 ஆண்டுகள் தனியாக வசித்து வந்துள்ளார். அவரது பிள்ளைகள் வெளிநாட்டில் வசித்து வருகின்றனர். குறித்த வீட்டில் வாடகைக்கு குடியிருந்து விட்டு வீட்டை விட்டு சென்றவர்கள் தமது பொருட்களை எடுப்பதற்கு வீட்டுக்கு வந்தவேளை குறித்த நபர் நிர்வாண நிலையில் வீட்டினுள் சடலமாக காணப்பட்டார்.
+🟩
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜேயபாலசிங்கம் மேற்கொண்டார். சடலமானது மீட்கப்பட்டு பிரேத பரிசோதனைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+A retirement Chancellor who lives alone in a house has been found dead on Wednesday (31). The deceased is Velayudhar Balasubramaniam (age 68), a native of Punnalaikkattuvan, Mayilangadu Road.
+
+The person has been living alone for the past 10 years after splitting his wife. His children are living abroad. The man who had rented the house and left the house had been found dead in the house when the man came home to pick up their goods.
+
+The death investigation into his body was carried out by A.Jayapalasingham. The body has been recovered and placed at the Jaffna Teaching Hospital for autopsy.
 
 ◼️
 
 [Data](articles/89db0bf1.json)
 
+[Extended Data](ext_articles/89db0bf1.ext.json)
+
 ---
 
-### “ஹமாஸ்” தலைவர் படுகொலை : ஜனாதிபதி ரணில் விக்ரமசிங்க 03 விசேட குழுக்கள் நியமிப்பு
+### President Ranil Wickremesinghe 03 Special Committees Appointment
 
 *2024-08-01 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189949) · `ta`
 
-“ஹமாஸ்” தலைவர் படுகொலையின் காரணமாக ஈரான் உள்ளிட்ட மத்திய கிழக்கு நாடுகள் மற்றும் உலக நாடுகளில் ஏற்படக்கூடிய பாதுகாப்பு மற்றும் பொருளாதார அழுத்தங்களை எதிர்கொள்வதற்கு முன் ஆயத்தமாக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 விசேட குழுக்களை நியமிதுள்ளார்.
+President Ranil Wickremesinghe formed three special committees ahead of the "Hamas" leader's assassination. These committees focus on national security, economic impact, and monitoring activities of two groups. The move aims to prepare for security and economic pressures from the Middle East and global nations, including Iran.
 
-இதன்படி, தேசிய பாதுகாப்பு தொடர்பான விசேட குழுவொன்றும், பொருளாதாரத்தில் ஏற்படும் பாதிப்புகள் குறித்து ஆராய்வதற்கான குழுவொன்றும் நியமிக்கப்பட்டிருப்பதோடு அந்த இரண்டு குழுக்களின் செயற்பாடுகளை கண்காணிப்பதற்கான உயர்மட்ட குழுவொன்றையும் ஜனாதிபதி நியமித்துள்ளார்.
+🟩
 
-இரு குழுக்களும் சமர்ப்பிக்கும் அறிக்கையின் பிரகாரம் உயர்மட்டக் குழு உரிய நடவடிக்கைகளை எடுக்கவுள்ளமை குறிப்பிடத்தக்கது.
+President Ranil Wickremesinghe has appointed 03 special committees before the "Hamas" leader's assassination, and the Middle East and world countries, including Iran, will prepare for security and economic pressure.
+
+Accordingly, the President has appointed a special committee on national security and a committee to investigate the impacts of the economy and a high -level committee to monitor the activities of the two groups.
+
+It is noteworthy that the high -level committee will take appropriate action as per the report submitted by the two groups.
 
 ◼️
 
 [Data](articles/c09a9c71.json)
 
+[Extended Data](ext_articles/c09a9c71.ext.json)
+
 ---
 
-### ஹமாஸ் அமைப்பின் அரசியல் பிரிவுத் தலைவர் இஸ்மாயில் ஹனியே படுகொலை கண்டிக்கத்தக்கது - சஜித் பிரேமதாச
+### The assassination of Ismail Honey's assassination of the political wing of the Hamas Organization is condemned -Sajith Premadasa
 
 *2024-08-01 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189948) · `ta`
 
-ஹமாஸ் தலைவர் இஸ்மாயில் ஹனியே படுகொலை செய்யப்பட்டதன் மூலம், சர்வதேச மனிதாபிமான சட்டங்களை அப்பட்டமாக மீறியமையானது மத்திய கிழக்கு பிராந்தியத்தின் அமைதிக்கு உச்சகட்ட அச்சுறுத்தல் ஏற்பட்டுள்ளதாகத் தெரிகிறது என எதிர்க்கட்சித் தலைவர் தெரிவித்துள்ளார்.
+Opposition leader Sajith Premadasa condemns the assassination of Hamas leader Ismail Honey, calling it a violation of international law and a threat to Middle East peace. He warns of potential direct and indirect impacts on his country and urges swift international action for a ceasefire and humanitarian aid. Premadasa emphasizes the need for global leadership to achieve lasting peace in the region, condemning such inhumane acts.
 
-எதிர்காலத்தில் இதன் நேரடி மற்றும் மறைமுக விளைவுகளை நம் நாடு சந்திக்க நேரிடலாம். இந்த நேரத்தில் மத்திய கிழக்கு பிராந்தியத்திற்கு அமைதியின் செய்தியே தேவைப்பட்டாலும், தொடர்ச்சியாக பதிவாகும் இத்தகைய மனிதாபிமானமற்ற தாக்குதல்களின் விளைவுகளை அப்பகுதியும் ஒட்டுமொத்த உலக மக்களும் அனுபவிக்க வேண்டியுள்ளமை வருத்தமளிக்கிறது.
+🟩
 
-பாலஸ்தீன மக்களுக்கு விரைவான மற்றும் நிலையான போர் நிறுத்தம் மற்றும் அவசரமாக தேவைப்படும் மனிதாபிமான உதவிகளை வழங்குவதற்கான முயற்சிகளை விரைவுபடுத்துமாறு சர்வதேச சமூகத்தை நாங்கள் கேட்டுக்கொள்கிறோம்.
+The opposition leader said that by the assassination of Hamas leader Ismail Honey, the blatant violation of international humanitarian laws seems to have been a threat to the peace of the Middle East.
 
-எனவே, இந்தப் பிராந்தியத்தில் நிரந்தர அமைதிக்காக உலக நாடுகள் அனைத்தும் முன்நிற்க வேண்டும். மனித நேயத்தை மதிக்கும் தலைவர்களாகிய நாம் இத்தகைய மனிதாபிமானமற்ற தாக்குதல்களை வன்மையாகக் கண்டிக்க வேண்டும் என அவர் மேலும் தெரிவித்தார்.
+Our country may have direct and indirect effects in the future. Although the Middle East is required at this time, it is sad that the people of the region and the entire world have to experience the consequences of such inhumane attacks, which are continuously recorded.
+
+We urge the international community to expedite the efforts of the Palestinian people to provide rapid and stable ceasefire and urgent humanitarian assistance.
+
+Therefore, all the nations of the world must come forward for permanent peace in this region. He added that we, as leaders of humanity, must vehemently condemn such inhuman attacks.
 
 ◼️
 
 [Data](articles/6153e0f7.json)
+
+[Extended Data](ext_articles/6153e0f7.ext.json)
 
 ---
 
@@ -2237,23 +2279,5 @@ As a man with the scandal evidence, I do not agree that I cannot agree with the 
 [Data](articles/171196fc.json)
 
 [Extended Data](ext_articles/171196fc.ext.json)
-
----
-
-### Sri Lanka PA
-
-*2024-07-31 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189890) · `ta`
-
-The Sri Lanka People's Alliance (PA) plans to expel members opposing its policies and resolutions.
-
-🟩
-
-The Sri Lanka PA has decided to remove those who act against the party's policy and resolution.
-
-◼️
-
-[Data](articles/79dd0420.json)
-
-[Extended Data](ext_articles/79dd0420.ext.json)
 
 ---

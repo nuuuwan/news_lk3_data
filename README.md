@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 10:36:00**
+As of **2024-07-31 10:54:48**
 
 ## Newspaper Stats
 
-*Scraped **38,184** Articles*
+*Scraped **38,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
-adalk | 3,493
+adalk | 3,494
 adaderanalk | 4,418
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,736
 virakesarilk | 6,023
-adaderanasinhalalk | 6,428
+adaderanasinhalalk | 6,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,180 (100.0%) of 38,184 articles have been extended.
+38,184 (100.0%) of 38,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### විපක්ෂනායක සජිත් වෙනුවෙන් ඇප මුදල් තැන්පත් කරයි
+
+*2024-07-31 10:04:12* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂනායක-සජිත්-වෙනුවෙන්-ඇප-මුදල්-තැන්පත්-කරයි/11-411110) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සදහා විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කර තිබේ.
+
+ඒ සදහා සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර, එස්.එම්.මරික්කාර් සහ මුජිබර් රහුමාන් යන මන්ත්‍රීවරුන් පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/e38b20ed.json)
+
+---
+
+### හමාස් ප්‍රධානියා ඝාතනය කෙරේ
+
+*2024-07-31 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199399) · `si`
+
+පලස්තීන හමාස් සංවිධානයේ ප්‍රධානියා ලෙස සැලකෙන ඉස්මයිල් හනියේ ව ඉරානයේ දී ඝාතනය කර ඇති බව එම සංවිධානය පවසයි.
+
+ඉරාන අගනුවර, ටෙහෙරාන් හි හමාස් නායකයා නැවතී සිටි නිවසට එල්ල කළ ප්‍රහාරයකින් ඔහු ජීවිතක්ෂයට පත්වී තිබේ.
+
+හමාස් සංවිධානය චෝදනා කරන්නේ ඊශ්‍රායලය විසින් එම ප්‍රහාරය එල්ල කර ඇති බවයි.
+
+ඉරාන නව ජනාධිපති මසූඩ් පෙසේෂ්කියන් ගේ පදවි ප්‍රාප්තියට ඊයේ (30) හනියේ එක්වී සිටි අතර අනතුරුව ඔහු ඉරාන ජනපතිවරයාව සහ අධ්‍යාත්මික නායක අයතුල්ලා අලි කමෙනි ව හමුවී තිබුණි.
+
+හමාස් සංවිධානය පවසන්නේ ප්‍රහාරය හේතුවෙන් හමාස් නායකයාගේ ආරක්ෂකයෙක් ද මියගොස් ඇති බවයි.
+
+◼️
+
+[Data](articles/250971b3.json)
+
+---
 
 ### Presidential Election: Deposit placed for Sajith Premadasa
 
@@ -43,6 +77,8 @@ He had placed the deposit this morning (31) at the Election Commission Office in
 ◼️
 
 [Data](articles/d531fc65.json)
+
+[Extended Data](ext_articles/d531fc65.ext.json)
 
 ---
 
@@ -131,6 +167,8 @@ Hanieh attended Iran’s new president’s swearing in ceremony on Tuesday.
 ◼️
 
 [Data](articles/35a24350.json)
+
+[Extended Data](ext_articles/35a24350.ext.json)
 
 ---
 
@@ -1296,21 +1334,27 @@ Sri Lanka - Wish, Kusal Mendis, Kusal Perera, Kusal Perera, Kusal Perera, Kusal 
 
 ---
 
-### පොහොට්ටුව වෙන අපේක්ෂකයෙක් ගෙන ඒම රටටම සුබ ආරංචියක්
+### Happy news for the country to bring a other candidate
 
 *2024-07-30 19:48:56* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-වෙන-අපේක්ෂකයෙක්-ගෙන-ඒම-රටටම-සුබ-ආරංචියක්/11-411105) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ඉදිරි ජනාධිපතිවරණය සදහා වෙනම අපෙක්ෂකයෙක් ඉදිරිපත් කිරීමට තීරණය කිරීම රටට සුබ ආරංචියත් බව එක්සත් ජනරජ පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ‘අද’ පුවත්පතට පැවසීය.
+Patali Champika Ranawaka, leader of the United States, plans to support a separate candidate for the upcoming presidential election, aiming to help citizens make informed choices. He also hinted at potential disagreements with the Rajapaksas, stating his party won't back any candidates associated with them. The decision on who to endorse will be announced soon.
 
-ඒ අනුව රට බංකොලොත් කිරීමට සම්බන්ධ කණ්ඩායම එකට එක්ව අපෙක්ෂකයෙක් ඉදිරිපත් කිරීම හරහා රටේ ජනතාවට නිවැරදි තීන්දු ගැනීමේ හැකියාව ලැබෙන බවද ඔහු සඳහන් කළේය.
+🟩
 
-මේ අතර ඉදිරි ජනාධිපතිවරණය පිළිබඳ තමාගේ සහ පක්ෂයේ මතය එළැඹෙන සතියේ ප්‍රකාශයට පත් කරන බවත්, රාජපක්ෂවරු සිටින කිසිදු කඳවුරකට තමාගේ සහ පක්ෂයේ සහය නොලැබෙන බවත් මන්ත්‍රීවරයා පැවසීය.
+Leader of the United States, Patali Champika Ranawaka told 'Today' to decide to preserve a separate newsman for the future presidential election.
 
-එමෙන්ම වර්තමාන ජනාධිපතිවරයා ස්වාධීනව ඉදිරිපත් වුවද ඔහුට සහාය දක්වන්නේද නැද්ද යන තීරණය ගැනීමට හැකි වන්නේ ජනාධිපතිවරයා කර තියාගෙන යන පිරිස අනුව බවද පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා වැඩිදුරටත් සඳහන් කළේය.
+Accordingly, the people of the country will be able to make the right decisions through the group involved in bankrupting the country together.
+
+Meanwhile, the MP said that the opinion of the next presidential election will be announced on the next week and no basemen with the Rajapaksas are not supported by his and party.
+
+The President also said that according to the people, Phase Champika Ranawaka added that the President is able to decide whether the present President is independent.
 
 ◼️
 
 [Data](articles/4dea4554.json)
+
+[Extended Data](ext_articles/4dea4554.ext.json)
 
 ---
 
@@ -1342,19 +1386,27 @@ Meanwhile, the Indian team, Arshadp Sing and Rishab Bar has not been named.
 
 ---
 
-### අකුරට වැඩ කරන ග්‍රාම නිලධාරීන් මැතිවරණ රාජකාරී හරියටම කරනවලු
+### Grama Niladhari who work to letter is exactly the election duties
 
 *2024-07-30 19:39:17* · [`adalk`](https://www.ada.lk/breaking_news/අකුරට-වැඩ-කරන-ග්‍රාම-නිලධාරීන්-මැතිවරණ-රාජකාරී-හරියටම-කරනවලු/11-411103) · `si`
 
-ග්‍රාම නිලධාරීන්ට ඇති වී තිබෙන ගැටලුවලට විසඳුම් ලබා දීමට බලධාරීන් කටයුතු නොකරන නිසා අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය අඛණ්ඩව සිදුකරමින් මැතිවරණ රාජකාරි නිසි ලෙස සිදුකිරීමට තීරණය කළ බව ග්‍රාම නිලධාරි වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+The Grama Niladhari Trade Union Alliance criticizes the government for not addressing their issues, including election duties and constitutional drafts. They claim the UPFA removed a defective service constitution draft without proper consultation. The UPFA counters, accusing the alliance of not being interested in resolving problems and forcing the implementation of the constitution draft. This situation highlights ongoing disputes between the government and the Grama Niladhari union over election responsibilities and governance reforms.
 
-දෝෂ සහිතව සකස් කර තිබෙන සේවාව ව්‍යවස්ථා කෙටුම්පත ඉවත් කර ග්‍රාම නිලධාරි වෘත්තීය සමිති සකස් කර රජයට භාර දී තිබෙන සේවා ව්‍යවස්ථාවට අදාළ යෝජනා ක්‍රියාත්මක කළ යුතු බවද එම සන්ධානය සඳහන් කරයි. එසේ තිබියදී බලහත්කාරයෙන් දෝෂ සහිතව සකස් කර තිබෙන සේවා ව්‍යවස්ථාවට අදාළ කෙටුම්පත ක්‍රියාත්මක කිරීමට උත්සාහ ගනිමින් සිටින බවත්,  මෙයට විරෝධය දක්වන බවත් සන්ධානය පෙන්වා දෙයි.
+🟩
 
-දීමනා ගැටලු සම්බන්ධයෙන් ගැටලු රැසක් ඇති වි තිබෙන බවත්, එම ගැටලු විසඳීමට බලධාරීන් උනන්දු  නොවන  නිසා ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 01 වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගයක් සිදුකරන බවත් සඳහන් කරයි. මේ වන විට ජනාධිපතිවරණය ප්‍රකාශයට පත් කර  තිබෙන නිසා ග්‍රාම නිලධාරීන්ට මැතිවරණ රාජකාරි සිදුකිරීමට සිදුව තිබේ.
+The Grama Niladhari Trade Union Alliance states that the authorities have decided to do so properly, due to the continuation of the procedures to address the problems of the Grama Niladhari.
 
-...
+The UPFA says that the defective service removed the constitution draft and implement the Grama Niladhari trade unions to the government. The UPFA points out that the draft is trying to implement the draft of the service constitution with force.
+
+It is said that there is a number of issues regarding gifts and not interested in solving the problems.. The Grama Niladharis have had to dominate election duties as announced by the presidential election.
+
+The UPFA pointed out that the election duties have decided to do so well and inform the Elections Commission regarding the election of the election.
+
+◼️
 
 [Data](articles/443995ae.json)
+
+[Extended Data](ext_articles/443995ae.ext.json)
 
 ---
 
@@ -2253,55 +2305,5 @@ Kovit - The government has recently been forced into all parties affected by the
 [Data](articles/0671573d.json)
 
 [Extended Data](ext_articles/0671573d.ext.json)
-
----
-
-### We have made a decision based on party policies - Namal
-
-*2024-07-30 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189799) · `ta`
-
-Namal Rajapaksa announced that the People's Alliance (PA) will oppose the United National Party due to differing political views, emphasizing unity and nationalism. The decision was made to nominate a PA member as a presidential candidate to strengthen the party and adhere to its policies, despite potential public protests.
-
-🟩
-
-We will act as the opposition of the United National Party. We have taken a political decision in view of the country's unitary and nationalism. Namal Rajapaksa, the national organizer of the PA, said that those who have been elected to represent the PA should act in accordance with the policy.
-
-He was speaking to the media after a talks held on Tuesday (30) at the Sri Lanka PA's office.
-
-We decided to field a member of the party as a presidential candidate to strengthen the party. Not going to act in accordance with the policy of the United National Party. We will act as an opposition to the United National Party.
-
-Those who spoke to the media came to me today against the party's executive committee's decision to field a member of the PA.
-
-Most of the parties who claim to support President Ranil Wickremesinghe have not made a firm decision.
-
-We are well aware that most people will protest after the official announcement that we cannot cooperate with the president.
-
-...
-
-[Data](articles/2d13d426.json)
-
-[Extended Data](ext_articles/2d13d426.ext.json)
-
----
-
-### Request to solve the IGP
-
-*2024-07-30 16:37:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ஜி-பி-பிர-ச்சினையை-தீர்க்க-கோரிக்கை/175-341289) · `ta`
-
-The Elections Commission has asked President Ranil Wickremesinghe to resolve the issue of the missing police chief (IGP), citing institutional disruption but assuring no impact on upcoming elections due to the police chief's absence.
-
-🟩
-
-The Elections Commission has officially requested President Ranil Wickremesinghe to address the prevailing issue regarding the police chief (IGP).
-
-The Chairman of the Election Commission, RMAL, says the purpose of the letter is to address the institutional disruption caused by the absence of the Inspector General of Police..  ரத்நாயக்க குறிப்பிட்டார்.
-
-However, he made it clear that this was not considered a significant obstacle for the upcoming elections while the police chief's shortage was concerned.
-
-◼️
-
-[Data](articles/f1a2207f.json)
-
-[Extended Data](ext_articles/f1a2207f.ext.json)
 
 ---

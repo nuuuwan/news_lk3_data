@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 01:05:47**
+As of **2024-08-01 01:20:48**
 
 ## Newspaper Stats
 
-*Scraped **38,326** Articles*
+*Scraped **38,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,107 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,444
+dailyftlk | 2,446
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,761
-virakesarilk | 6,058
+virakesarilk | 6,061
 adaderanasinhalalk | 6,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,326 (100.0%) of 38,326 articles have been extended.
+38,326 (100.0%) of 38,331 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-01 (Thursday)
+
+### LOLC steps up commitment to protect apex predator Sri Lankan leopard
+
+*2024-08-01 00:57:55* · [`dailyftlk`](https://www.ft.lk/opinion/LOLC-steps-up-commitment-to-protect-apex-predator-Sri-Lankan-leopard/14-764987) · `en`
+
+LOLC Holdings Chief Operating Officer Kithsiri Gunawardena (right) with South Africa ecologist, researcher, and conservationist Dr. Jeannine McManus
+
+In celebration of National Leopard Day on 1 August, LOLC Holdings PLC has launched several new initiatives to further its ongoing commitment to the conservation of the Sri Lankan leopard, in partnership with the Wildlife and Nature Protection Society (WNPS).
+
+The Sri Lankan leopard, an apex predator and a key component of the island’s rich biodiversity, faces escalating threats from unplanned land use, wildlife crimes, inadequate penalties, and limited ecological understanding. With rough estimates suggesting fewer than 1,000 individuals remaining in the country, the conservation of this endemic subspecies has become increasingly vital.
+
+...
+
+[Data](articles/637f9565.json)
+
+---
+
+### NTB renews long-standing partnership with Wildlife and Nature Protection Society of Sri Lanka
+
+*2024-08-01 00:55:32* · [`dailyftlk`](https://www.ft.lk/opinion/NTB-renews-long-standing-partnership-with-Wildlife-and-Nature-Protection-Society-of-Sri-Lanka/14-764986) · `en`
+
+NTB Director and CEO Hemantha Gunatilleke (right) exchanges the agreement with WNPS General Secretary Rapti Dirckze
+
+Nations Trust Bank (NTB) has renewed its partnership with the Wildlife and Nature Protection Society of Sri Lanka (WNPS), continuing the bank’s contribution to the WNPS and its environmental and awareness-building initiatives.
+
+Environmental and biodiversity conservation is one of NTB’s key CSR initiatives. The WNPS continues to be one of the bank’s closest partners in offering its contribution to environmental conservation and building awareness.
+
+One of the main initiatives supported by the bank in partnership with the WNPS is a series of monthly public lectures by environmental experts on topics ranging from climate action, biodiversity conservation and research, and other relevant topics pertaining to environmental sustainability. The initiatives cater to nature enthusiasts who are encouraged to participate in the free sessions.
+
+...
+
+[Data](articles/daf5f18c.json)
+
+---
+
+### யாழ். புன்னாலைக்கட்டுவனில் ஓய்வுநிலை அதிபர் அழுகிய நிலையில் சடலமாக மீட்பு!
+
+*2024-08-01 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189950) · `ta`
+
+தனியாக வீட்டில் வசித்து வந்த ஓய்வு நிலை அதிபர் ஒருவர் புதன்கிழமை (31) அழுகிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார். மயிலங்காடு வீதி புன்னாலைக்கட்டுவன் தெற்கு பகுதியைச் சேர்ந்த வேலாயுதர் பாலசுப்பிரமணியம் (வயது 68) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் மனைவியை பிரிந்து கடந்த 10 ஆண்டுகள் தனியாக வசித்து வந்துள்ளார். அவரது பிள்ளைகள் வெளிநாட்டில் வசித்து வருகின்றனர். குறித்த வீட்டில் வாடகைக்கு குடியிருந்து விட்டு வீட்டை விட்டு சென்றவர்கள் தமது பொருட்களை எடுப்பதற்கு வீட்டுக்கு வந்தவேளை குறித்த நபர் நிர்வாண நிலையில் வீட்டினுள் சடலமாக காணப்பட்டார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜேயபாலசிங்கம் மேற்கொண்டார். சடலமானது மீட்கப்பட்டு பிரேத பரிசோதனைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/89db0bf1.json)
+
+---
+
+### “ஹமாஸ்” தலைவர் படுகொலை : ஜனாதிபதி ரணில் விக்ரமசிங்க 03 விசேட குழுக்கள் நியமிப்பு
+
+*2024-08-01 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189949) · `ta`
+
+“ஹமாஸ்” தலைவர் படுகொலையின் காரணமாக ஈரான் உள்ளிட்ட மத்திய கிழக்கு நாடுகள் மற்றும் உலக நாடுகளில் ஏற்படக்கூடிய பாதுகாப்பு மற்றும் பொருளாதார அழுத்தங்களை எதிர்கொள்வதற்கு முன் ஆயத்தமாக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 விசேட குழுக்களை நியமிதுள்ளார்.
+
+இதன்படி, தேசிய பாதுகாப்பு தொடர்பான விசேட குழுவொன்றும், பொருளாதாரத்தில் ஏற்படும் பாதிப்புகள் குறித்து ஆராய்வதற்கான குழுவொன்றும் நியமிக்கப்பட்டிருப்பதோடு அந்த இரண்டு குழுக்களின் செயற்பாடுகளை கண்காணிப்பதற்கான உயர்மட்ட குழுவொன்றையும் ஜனாதிபதி நியமித்துள்ளார்.
+
+இரு குழுக்களும் சமர்ப்பிக்கும் அறிக்கையின் பிரகாரம் உயர்மட்டக் குழு உரிய நடவடிக்கைகளை எடுக்கவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c09a9c71.json)
+
+---
+
+### ஹமாஸ் அமைப்பின் அரசியல் பிரிவுத் தலைவர் இஸ்மாயில் ஹனியே படுகொலை கண்டிக்கத்தக்கது - சஜித் பிரேமதாச
+
+*2024-08-01 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189948) · `ta`
+
+ஹமாஸ் தலைவர் இஸ்மாயில் ஹனியே படுகொலை செய்யப்பட்டதன் மூலம், சர்வதேச மனிதாபிமான சட்டங்களை அப்பட்டமாக மீறியமையானது மத்திய கிழக்கு பிராந்தியத்தின் அமைதிக்கு உச்சகட்ட அச்சுறுத்தல் ஏற்பட்டுள்ளதாகத் தெரிகிறது என எதிர்க்கட்சித் தலைவர் தெரிவித்துள்ளார்.
+
+எதிர்காலத்தில் இதன் நேரடி மற்றும் மறைமுக விளைவுகளை நம் நாடு சந்திக்க நேரிடலாம். இந்த நேரத்தில் மத்திய கிழக்கு பிராந்தியத்திற்கு அமைதியின் செய்தியே தேவைப்பட்டாலும், தொடர்ச்சியாக பதிவாகும் இத்தகைய மனிதாபிமானமற்ற தாக்குதல்களின் விளைவுகளை அப்பகுதியும் ஒட்டுமொத்த உலக மக்களும் அனுபவிக்க வேண்டியுள்ளமை வருத்தமளிக்கிறது.
+
+பாலஸ்தீன மக்களுக்கு விரைவான மற்றும் நிலையான போர் நிறுத்தம் மற்றும் அவசரமாக தேவைப்படும் மனிதாபிமான உதவிகளை வழங்குவதற்கான முயற்சிகளை விரைவுபடுத்துமாறு சர்வதேச சமூகத்தை நாங்கள் கேட்டுக்கொள்கிறோம்.
+
+எனவே, இந்தப் பிராந்தியத்தில் நிரந்தர அமைதிக்காக உலக நாடுகள் அனைத்தும் முன்நிற்க வேண்டும். மனித நேயத்தை மதிக்கும் தலைவர்களாகிய நாம் இத்தகைய மனிதாபிமானமற்ற தாக்குதல்களை வன்மையாகக் கண்டிக்க வேண்டும் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6153e0f7.json)
+
+---
 
 ### 2024-07-31 (Wednesday)
 
@@ -2169,113 +2255,5 @@ The Sri Lanka PA has decided to remove those who act against the party's policy 
 [Data](articles/79dd0420.json)
 
 [Extended Data](ext_articles/79dd0420.ext.json)
-
----
-
-### The Elections Commission thanked the President's decision
-
-*2024-07-31 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189889) · `ta`
-
-The Elections Commission expressed gratitude towards the President for issuing a directive to the Ministry of Public Security, ensuring full cooperation for the presidential election.
-
-🟩
-
-It is noteworthy that the Elections Commission has thanked the President's decision as the President has issued a directive to the Ministry of Public Security for its full cooperation with the presidential election.
-
-◼️
-
-[Data](articles/21591c84.json)
-
-[Extended Data](ext_articles/21591c84.ext.json)
-
----
-
-### 13-year-old girl who was pregnant
-
-*2024-07-31 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199405) · `si`
-
-A 13-year-old girl from Vidiwalpitiya became pregnant after being abused by her uncle's 18-year-old son. The boy, who grew up with his grandmother, was arrested and will face charges at the Horana Magistrate's Court. The girl, who lived without parents, was neglected despite warnings from the Athulpola Police about her safety. She is now hospitalized for a forensic examination.
-
-🟩
-
-A 13-year-old girl who was a 13-year-old girl who was shocked by the son of his Uncle was pregnant from Vidiwalpitiya.
-
-The girl was abused by the son of his Uncle, which has grown up with his grandmother without a parent.
-
-Police investigations have revealed that the 18-year-old youth of her father, son of her Uncle her Uncle, had been abused.
-
-The Athulpola Police have informed her grandmother on the insecurity of the girls, but the girl's negligence has faced this fate.
-
-The 18-year-old youth has been arrested by the police and is to be produced before the Horana Magistrate's Court today (31).
-
-The girl has been admitted to the Horana Base Hospital for the forensic doctor.
-
-◼️
-
-[Data](articles/324ca1c7.json)
-
-[Extended Data](ext_articles/324ca1c7.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-31 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189884) · `ta`
-
-As of July 31, the US dollar's buying rate was 297.8582 rupees, while its selling rate was 307.1744 rupees according to the Central Bank.
-
-🟩
-
-Based on the Central Bank on Wednesday (July 31), the US dollar purchasing price was 297.8582 rupees and the sales price were 307.1744 rupees.
-
-◼️
-
-[Data](articles/4a2350bb.json)
-
-[Extended Data](ext_articles/4a2350bb.ext.json)
-
----
-
-### New parking system to be implemented within Colombo city limits
-
-*2024-07-31 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100892/new-parking-system-to-be-implemented-within-colombo-city-limits) · `en`
-
-The Colombo Municipal Council (CMC) says that steps have been taken to introduce a new parking management system within the city limits of Colombo.
-
-Accordingly, the CMC Deputy Director (Traffic and Road Design) Eng. Manjula Kularathna, stated that it is planned to employ one contractor for one designated zone.
-
-He said that instead of the current system, where a contractor and an administrator are assigned to each road, the new parking management system will focus on assigning one contractor for each designated zone.
-
-Furthermore, this new system is expected to be implemented within three months and it aims to improve convenience for drivers who use parking spaces within a specific zone.
-
-...
-
-[Data](articles/22bff6fc.json)
-
-[Extended Data](ext_articles/22bff6fc.ext.json)
-
----
-
-### Sword on the man who went to meet the lover
-
-*2024-07-31 12:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-சந்திக்க-சென்றவர்-மீது-வாள்வெட்டு/175-341342) · `ta`
-
-A young man traveling from Kilinochchi to Jaffna to meet his girlfriend ended up robbing a gang instead, stealing jewelry, cash, a cellphone, and a three-wheeler. After being attacked with a sword, he lost consciousness but regained it while driving the stolen three-wheeler. He's now hospitalized in Jaffna Teaching Hospital, and the police are investigating the case.
-
-🟩
-
-Manipay police said that a young man who went to meet his girlfriend from Kilinochchi to Jaffna, robbed a gang and robbed jewelery, money, cell phone and three -wheeler.
-
-The young man was traveling from Kilinochchi to Jaffna and then traveling to Urumpirai in a three -wheeler on the way to another three -wheeler.
-
-The victim has complained that he was fainting after the sword attack and the three -wheeler he had taken on a rental basis when he returned to consciousness.
-
-The injured youth have been admitted to the Jaffna Teaching Hospital and further investigations into the incident are being carried out by the police.
-
-◼️
-
-[Data](articles/4b451227.json)
-
-[Extended Data](ext_articles/4b451227.ext.json)
 
 ---

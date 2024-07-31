@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 14:37:46**
+As of **2024-07-31 14:56:15**
 
 ## Newspaper Stats
 
-*Scraped **38,241** Articles*
+*Scraped **38,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,424
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,746
 virakesarilk | 6,039
-adaderanasinhalalk | 6,439
+adaderanasinhalalk | 6,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,237 (100.0%) of 38,241 articles have been extended.
+38,241 (100.0%) of 38,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ජනපතිගේ සහායට තවත් 116ක්
+
+*2024-07-31 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199410) · `si`
+
+පළාත් සභාවල හිටපු මහජන නියෝජිතයන් 116 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට අද (31) රැස්වී තීරණය කර තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය පැවසුවේ අදාළ කණ්ඩායම ජනාධිපතිවරයාගේ ජයග්‍රහණයට සහාය දැක්වීමට කැපවන බවට ප්‍රතිඥා දුන් බවය.
+
+116 දෙනෙකුගෙන් යුත් මෙම කණ්ඩායම ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහ එක්සත් ජාතික පක්ෂය නියෝජනය කළ පිරිසකි.
+
+◼️
+
+[Data](articles/13a283fc.json)
+
+---
 
 ### Over 100 ex-provincial councillors pledge support to President Ranil
 
@@ -41,6 +57,8 @@ A group of 116 former Provincial Council members from the Sri Lanka Podujana Per
 ◼️
 
 [Data](articles/e7ec672f.json)
+
+[Extended Data](ext_articles/e7ec672f.ext.json)
 
 ---
 
@@ -55,6 +73,8 @@ Police Spokesman DIG Nihal Thalduwa said the two suspects were arrested with two
 ◼️
 
 [Data](articles/f5b3cf88.json)
+
+[Extended Data](ext_articles/f5b3cf88.ext.json)
 
 ---
 
@@ -148,19 +168,25 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 
 ---
 
-### අල්ලස් ගත් ක්වාසි විනිසුරු අල්ලයි
+### Akusey judge becoming bribe
 
 *2024-07-31 13:31:10* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ක්වාසි-විනිසුරු-අල්ලයි/11-411116) · `si`
 
-කාන්තාවකගෙන් රුපියල් 10 000/= අල්ලස් මුදලක් ලබාගත් මාතලේ ක්වාසි විනිසුරුවරයෙක් අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි.
+A woman accused of accepting a bribe in Negombo faces charges after a complaint was filed. The incident occurred at her office or home, and she will be presented in court for investigation by the Bribery or Corruption Commission.
 
-පැමිණිකාර ත්‍රිකුණාමලය ප්‍රදේශයේ කාන්තාව නඩත්තු සහ අපහාසය සඳහා රුපියල් 80000/= ක වන්දි මුදලක් ඉල්ලා මෙම ක්වාසි විනිසුරුවරයා වෙත නඩුවක් ගොනු කිරීමට අවශ්‍ය ලේඛන ලබා දී ඇති අතර එම වන්දි මුදල ලබාදීමට අවශ්‍ය කටයුතු කරදීම වෙනුවෙන් රුපියල් 50000/ ක අල්ලස් මුදලක් ඉල්ලා එයින් රුපියල් 10000/= ක මුදලක් වරකා මුර ප්‍රදේශයේ සැකකරුගේ නිවසේ පවත්වා යන කාර්යාලය තුළදී ලබා ගනිද්දී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+🟩
 
-සැකකාර විනිසුරුවරයා මාතලේ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+Bribery or Corruption Commission says that a woman who had obtained a bribe of Rs.
+
+The complaint has been provided to file a case to the Kumara Maintain and Insult at the Negombo area.Police say that the money was taken at the office of the suspect's house at the suspect area.
+
+The suspect is to be produced before the Matale Magistrate's Court. Investigation Commission is investigating the bribery or corruption.
 
 ◼️
 
 [Data](articles/324949c3.json)
+
+[Extended Data](ext_articles/324949c3.ext.json)
 
 ---
 
@@ -1564,25 +1590,49 @@ He is expected to be used in the future for traffic parking places.
 
 ---
 
-### 'තාක්ෂණයෙන් ලොවක් දිනූ' දෘශ්‍යාබාධිත නීතිඥවරයා
+### Visually impaired lawyer who won a world of technology
 
 *2024-07-31 07:49:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldy062l4nwo) · `si`
 
-ඉසුරු මහේෂ් පණ්ඩිත උපන්නේ මීට වසර 27කට පෙර ගාල්ල දිස්ත්‍රික්කයේ, තෙලිකඩ නම් ග්‍රාමයේදී ය.
+It seems like you've shared a detailed narrative about Isuru Mahesh Palitha, focusing on his educational journey, challenges, and achievements despite facing significant obstacles due to his visual impairment. Isuru's story is inspiring, highlighting his resilience, determination, and innovative use of technology to overcome barriers and pursue his dreams.
 
-උපතේදී සිදුවූ බව කියන ‘වෛද්‍ය නොසැලකිල්ලක්’ ඔහු දෘශ්‍යාබාධිත ළදරුවෙකු බවට පත් කළ අතර එය ඔහුගේ මෙන් ම, ඔහුගේ මව සහ පියාගේ ද ජීවිත පෙර නොවූ විරූ අභියෝගවලට මැදි කළේ ය.
 
-නමුත්, එම අභියෝග මුළුමනින් ම පාහේ ජය ගනිමින් ඔහු අද "බොහෝ දෙනෙකු ප්‍රිය කරන" නීතිඥවරයෙකු බවට පත්ව තිබේ.
 
-ඒ, ඔහුගේ මෙන් ම ඔහුගේ දෙමව්පියන්ගේ වූ අප්‍රහිත ධෛර්යය නිසා බව ඉසුරුගේ අදහසයි. එම ගමනේදී ඔහුට අසල්වාසීන්ගෙන් ද ලැබුණේ නොමද සහයකි.
+From the early stages of his education, where he adapted to reading questions through Braille and participating in various extracurricular activities, to his advanced studies and eventual career as a lawyer specializing in criminal prosecution and fundamental rights, Isuru's journey is a testament to the power of education and technology in enabling individuals with disabilities to lead fulfilling lives and contribute significantly to society.
 
-දැන් ඔහු නීතිඥවරයෙකු ලෙස දිවුරුම් දී වසරකට ආසන්න කාලයක් ගතවී ගොසිණි.
 
-ආබාධ සහිත පුද්ගලයින්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන ක්‍රියාකාරිකයෙකු මෙන් ම රාජ්‍ය නොවන සංවිධාන සමග ස්වාධීන පර්යේෂකයෙකු, භාෂා පරිවර්තකයෙකු ලෙස සහ නීතිය පිළිබඳ පුහුණු වැඩසටහන් ක්‍රියාත්මක කරන්නෙකු ලෙස ද ඔහු කටයුතු කරන්නේ ය.
+
+His experiences at different schools, including the interventions by educators and the support he received, underscore the importance of inclusive education and the role of dedicated teachers and administrators in creating accessible learning environments. Furthermore, Isuru's innovative solutions during his university years, such as adapting technology to facilitate his studies and exams, demonstrate his problem-solving skills and his ability to leverage technology for personal empowerment.
+
+
+
+Isuru's reflections on his journey also touch upon broader societal attitudes towards disability, emphasizing the need for acceptance, understanding, and the recognition of individual capabilities beyond physical limitations. His advice for others with disabilities highlights the importance of self-assessment, leveraging strengths, and pursuing passions, underscoring a positive outlook and the potential for success despite challenges.
+
+
+
+Overall, Isuru's story is a powerful reminder of the human spirit's resilience and the transformative impact of education and technology on individual lives and societal perceptions.
+
+🟩
+
+Isuru Mahesh Pandita was born in the Galle District, 27 years ago.
+
+He made a visually impaired infant, "Medical negligent infant," who says he was born at birth.
+
+However, that challenges are almost entirely overcome, he has become a lawyer who loves "many people who love many" today.
+
+Isuceth's view that his parents, as is because of his parents' commander. On that journey, he received unbelievers from neighbors.
+
+It was nearly a year after he was sworn in as a lawyer.
+
+He is acting as an activist and an active researcher, an independent researcher, an independent researcher, a translator and a law translator, as an activist acting for the rights of persons with disabilities.
+
+In the Bridge of Galle, the Bridge of Galle, who once lived through the bridge of the country, was found in the Gingwella, who was born in the bridge of the Gingwella.He is also able to cash with him about his course.
 
 ...
 
 [Data](articles/1e0d9f02.json)
+
+[Extended Data](ext_articles/1e0d9f02.ext.json)
 
 ---
 
@@ -2249,35 +2299,5 @@ The SLT-MOBITEL Nebula Institute of Technology, the education arm of SLT-MOBITEL
 [Data](articles/d6bb5675.json)
 
 [Extended Data](ext_articles/d6bb5675.ext.json)
-
----
-
-### Petitions to hear appeals petitions in the science murder case
-
-*2024-07-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199388) · `si`
-
-The Supreme Court has set January 20 for hearing appeals from six death-row convicts sentenced in a 2015 case by the Jaffna High Court. The court, comprising judges Nawaz, Shiran Gunaratne, and Priyantha Fernando, also noted that one defendant died in custody. Defense attorney Arumugam Ragudam highlighted the lengthy pre-trial detention, exceeding eight years, while Solicitor General Aeesha Jinasena assured swift provision of necessary documents. The court directed the Solicitor General to expedite actions regarding the appeal process.
-
-🟩
-
-The Supreme Court has been sentenced to January 20, the six accused defendants who have been sentenced to death in the punishment of the Jaffna High Court in 2015.
-
-Petitions of this appeal petitions today (30) today (30) today. A five-member Supreme Court judge with Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned.
-
-Prison officials informed the court that one of the accused was killed.
-
-Attorney-at-Law Arumugam Ragudam, appearing on behalf of the accused, said that due to the delay in the case, these defendants were in prison for over 8 years.
-
-Solicitor General Aeesha Jinasena informed the court that steps will be taken to provide conducted documents to the case speedily.
-
-It is said that Solicitor General said that the defendants had been released on the trial in Jaffna High Court.
-
-The five-member Supreme Court Badulla informed this cadre to the Solicitor General to take action to the appeal accused to this cases.
-
-...
-
-[Data](articles/63d86125.json)
-
-[Extended Data](ext_articles/63d86125.ext.json)
 
 ---

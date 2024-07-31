@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 19:21:10**
+As of **2024-07-31 19:36:06**
 
 ## Newspaper Stats
 
-*Scraped **38,291** Articles*
+*Scraped **38,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,507
-adaderanalk | 4,430
+adalk | 3,508
+adaderanalk | 4,431
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,756
+tamilmirrorlk | 4,757
 virakesarilk | 6,049
-adaderanasinhalalk | 6,448
+adaderanasinhalalk | 6,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,290 (100.0%) of 38,291 articles have been extended.
+38,291 (100.0%) of 38,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### SLFP leadership meets President, express support for election
+
+*2024-07-31 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100902/slfp-leadership-meets-president-express-support-for-election) · `en`
+
+The Central Committee of the Sri Lanka Freedom Party (SLFP) today met with President Ranil Wickremesinghe and expressed their unwavering support for his victory in the forthcoming presidential election, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/be91b875.json)
+
+---
+
+### சுதந்திர கட்சியும் ரணிலுக்கு ஆதரவு
+
+*2024-07-31 19:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-கட்சியும்-ரணிலுக்கு-ஆதரவு/175-341361) · `ta`
+
+නිදහස පක්ෂ මධ්‍යම කාරක සභාව මිට සුළஎதிர்வரும் ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்கு முழுமையான ஒத்துழைப்பு வழங்குவதாக ஸ்ரீ லங்கா சுதந்திர கட்சியின் மத்திய செயற்குழு சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0e520897.json)
+
+---
+
+### ශ්‍රීලනිපයේ සහාය රනිල්ට
+
+*2024-07-31 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199421) · `si`
+
+2024 ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය ලබාදීමට තීරණය කළ බව ශ්‍රී ලංකා නිදහස් පක්ෂය පවසයි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ දේශපාලන බලමණ්ඩලය සහ මධ්‍යම කාරක සභාව අද (31) පස්වරුවේ රැස්වී ඒ පිළිබඳව අවසන් තීරණයක් ගෙන තිබුණි.
+
+එහිදී දුමින්ද දිසානායක මහතා වැඩිදුරටත් සඳහන් කළේ, "අපෙන් සහාය ඉල්ලා ලිඛිතව ඉල්ලීමක් කරලා තිබෙන්නේ වර්තමාන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පමණයි." යනුවෙනි.
+
+◼️
+
+[Data](articles/328c3ced.json)
+
+---
 
 ### Joe Root is the one
 
@@ -69,6 +109,24 @@ Furthermore, the Election Commission of Sri Lanka had issued a Gazette on July 2
 ◼️
 
 [Data](articles/3c7e26a6.json)
+
+[Extended Data](ext_articles/3c7e26a6.ext.json)
+
+---
+
+### ජනපතිගෙන් විශේෂ කමිටු 03 ක්
+
+*2024-07-31 18:25:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-විශේෂ-කමිටු-03-ක්/11-411125) · `si`
+
+ඉරානයේදී සිදුවූ හමාස් සංවිධානයේ දේශපාලන නායකයාගේ ඝාතනයත් සමඟ ඉරානය ඇතුළු මැද පෙරදිග සහ ලෝකයේ ඇතිවිය හැකි තත්ත්වයන් හමුවේ ශ්‍රී ලංකාවට එල්ල විය හැකි ආරක්ෂක සහ ආර්ථික බලපෑම්වලට මුහුණදීමේ පූර්ව සූදානමක් ලෙස විශේෂ කමිටු 03ක් පත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+
+ඒ අනුව ජාතික ආරක්ෂාව පිළිබඳ විශේෂ කමිටුවක්, ආර්ථිකයට සිදුවන බලපෑම සම්බන්ධයෙන් සොයා බැලීමේ කමිටුවක් සහ එම කමිටු දෙකෙහි යෝජනා අධීක්ෂණය කිරීම සඳහා ඉහළ මට්ටමේ කමිටුවක් පත් කිරීමට ජනාධිපතිවරයා පියවරගෙන ඇත.
+
+ජාතික ආරක්ෂාව පිළිබඳ විශේෂ කමිටුව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි, විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි හා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක යන මහත්වරුන්ගේ සාමාජිකත්වයෙන් යුතුව පත් කර තිබේ.
+
+...
+
+[Data](articles/ee12fee8.json)
 
 ---
 
@@ -2195,97 +2253,5 @@ MPs Ranjith Madduma Bandara, SMarakkar and Muniber Rahman were present.
 [Data](articles/e38b20ed.json)
 
 [Extended Data](ext_articles/e38b20ed.ext.json)
-
----
-
-### Mellavi with weapons
-
-*2024-07-31 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மெலளவி-மாட்டினார்/73-341327) · `ta`
-
-On Tuesday night, the Special Task Force (STF) arrested Moulavi in Valaichenai, seizing two rifles and a sword from his home. He's now under investigation by the Terrorist Prevention Division in Colombo.
-
-🟩
-
-Special Task Force (STF) has arrested a man in the city of Baduriya on Tuesday night (30) in the city of Valaichenai.
-
-The Special Task Force (Senior Task Force), the Special Task Force of the Aralavangwila Special Task Force (STF), on the advice of Varuna Jayasundara, the Deputy Inspector General of Police, Varuna Jayasundara, on Tuesday night at 10 pm on Tuesday night.
-
-During this time, two re -56 rifle rifles hidden at home were seized and arrested by 59, Megaceen 2, Bino 1 and sword 1.
-
-Moulavi, who was arrested, is being taken to the Mannampitiya Special Task Force Base and is conducting an investigation into the Terrorist Prevention Division in Colombo.
-
-◼️
-
-[Data](articles/cdc92222.json)
-
-[Extended Data](ext_articles/cdc92222.ext.json)
-
----
-
-### Hamas chief is assassinated
-
-*2024-07-31 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199399) · `si`
-
-Hamas leader assassinated in Iran; organization blames Israel. Attack occurred near presidential palace, involving spiritual leader Ayatollah.
-
-🟩
-
-The organization says that the Headle of the Palestinian Hamas has been killed in Iran in Iran.
-
-He was also attacked by the house where the Hamas leader of the Iranian capital and Hamas leader.
-
-Hamas alleges that Israel has been attacked by Israel.
-
-The Iranian President Masoduard Pesesyian's scholarship was found yesterday (30), after the Presidential President and the Spiritual Leader Ayatollah ammunition.
-
-Hamas said the attack was also killed by the Hemas Leader.
-
-◼️
-
-[Data](articles/250971b3.json)
-
-[Extended Data](ext_articles/250971b3.ext.json)
-
----
-
-### Presidential Election: Deposit placed for Sajith Premadasa
-
-*2024-07-31 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100889/presidential-election-deposit-placed-for-sajith-premadasa-) · `en`
-
-Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has placed a deposit with the Election Commission on behalf of party leader Sajith Premadasa as a candidate for the 2024 Presidential Election.
-
-He had placed the deposit this morning (31) at the Election Commission Office in Rajagiriya.
-
-◼️
-
-[Data](articles/d531fc65.json)
-
-[Extended Data](ext_articles/d531fc65.ext.json)
-
----
-
-### One year in prison for three Tamil Nadu fishermen
-
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-கடற்தொழிலாளர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
-
-Three Tamil Nadu fishermen received one-year prison sentences and fines for fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in jail. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Another 25 arrested later were remanded until further notice.
-
-🟩
-
-Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
-
-The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
-
-At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
-
-The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
-
-Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
-
-◼️
-
-[Data](articles/37bf7ee5.json)
-
-[Extended Data](ext_articles/37bf7ee5.ext.json)
 
 ---

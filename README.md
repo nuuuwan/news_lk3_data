@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 07:06:43**
+As of **2024-07-31 07:28:26**
 
 ## Newspaper Stats
 
-*Scraped **38,160** Articles*
+*Scraped **38,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,415
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
 virakesarilk | 6,020
-adaderanasinhalalk | 6,422
+adaderanasinhalalk | 6,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,150 (100.0%) of 38,160 articles have been extended.
+38,150 (100.0%) of 38,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ග්‍රෑන්ඩ්පාස් ද්විත්ව ඝාතනයට සැකකරුවන් තිදෙනෙක් මාට්ටු
+
+*2024-07-31 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199393) · `si`
+
+ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේදී පුද්ගලයින් දෙදෙනෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, ඝාතනය සිදුකළ වෙඩික්කරු යතුරු පැදිකරු සහ ඊට ආධාර අනුබල දුන් තවත් පුද්ලගයෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 26, 37 සහ 45 යන වයස් සීමාවල පසුවන ඔරුගොඩවත්ත සහ වැල්ලම්පිටිය යන ප්‍රදේශවල පදිංචිකරුවන් තිදෙනෙකි.
+
+පසුගිය 25 වනදා ග්‍රෑන්ඩ්පාස් වඳුලවත්ත පුරදර සෙවන මහල් නිවාස සංකීරණය ඉදිරිපිටදී ත්‍රීරෝද රථයක සිටි පුද්ලගලයෙකුට සහ කාන්තාවකට වෙඩි තබා එම ඝාතනය සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/f115af14.json)
+
+---
 
 ### Showers in several areas
 
@@ -2301,33 +2319,5 @@ The girl has been admitted to the Moneragala District General Hospital for medic
 [Data](articles/9eb3a16e.json)
 
 [Extended Data](ext_articles/9eb3a16e.ext.json)
-
----
-
-### Recovery of a youth who waited
-
-*2024-07-30 14:06:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காத்திருந்த-இளைஞன்-சடலமாக-மீட்பு/72-341278) · `ta`
-
-A 27-year-old from Mullaitivu, Anandarasa Jeevan, was found dead in Vavunikulam after going missing near Pandian Pond. His disappearance was noticed when his phone stopped working after a call with friends. A search led to the discovery of his body in a pond, with local police continuing investigations.
-
-🟩
-
-There is an incident in the north of the body of a youth who was waiting to go abroad.
-
-Anandarasa Jeevan (age 27) from Yogapuram Mallavi, Mullaitivu, has been recovered from Vavunikulam on Tuesday (30) while waiting to go abroad
-
-It is learned that the young man who went to the Pandian Pond from Yoga to the Yoga Pond on Monday (29) afternoon, was telephoned with friends till 8.40 pm and his phone did not work.
-
-A motorcycle was identified at Pandiyankulam Kulakkara at 3.00 am on Tuesday (30) when his friends were searched for the lack of contact.
-
-Following the search, the third water in Vavuniya was shrinking (water) and the body was recovered by the residents of the area.
-
-Pandiyankulam police rushed to the scene and rescued the body in the presence of the judge and are conducting further investigations.
-
-◼️
-
-[Data](articles/14af5c95.json)
-
-[Extended Data](ext_articles/14af5c95.ext.json)
 
 ---

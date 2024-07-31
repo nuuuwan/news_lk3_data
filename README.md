@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 21:55:33**
+As of **2024-07-31 22:08:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,307 (100.0%) of 38,310 articles have been extended.
+38,310 (100.0%) of 38,310 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,31 +42,45 @@ The Ceylon Petroleum Corporation (Ceypetco) announced that there will be no fuel
 
 [Data](articles/ce814795.json)
 
+[Extended Data](ext_articles/ce814795.ext.json)
+
 ---
 
-### எரிபொருள் திருத்தம் - வெளியானது அறிவிப்பு
+### Fuel Correction - Released
 
 *2024-07-31 21:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-திருத்தம்-வெளியானது-அறிவிப்பு/175-341372) · `ta`
 
-ஆகஸ்ட் மாதத்திற்கான எரிபொருள் விலை திருத்தம் மேற்கொள்ளப்பட மாட்டாது. ஏற்கனவே உள்ள விலைகளுக்கே எரிபொருட்கள் விற்பனை செய்யப்படவுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவித்துள்ளது.
+Ceylon Petroleum Corporation cancels fuel price correction for August, maintaining current prices; Lanka Super Diesel 4 Star Euro 4 remains Rs 355 per liter.
 
-லங்கா சுப்பர் டீசல் 4 ஸ்டார் யூரோ 4 இன்  லீற்றர் ஒன்றின் விலை 355 ரூபாய்.  (R)
+🟩
+
+Fuel Price Correction for August will not be carried out. The Ceylon Petroleum Corporation has announced that fuels will be sold for existing prices.
+
+The price of a liter of Lanka Super Diesel 4 Star Euro 4 is Rs 355.(R)
 
 ◼️
 
 [Data](articles/4a037fd5.json)
 
+[Extended Data](ext_articles/4a037fd5.ext.json)
+
 ---
 
-### மாதாந்த எரிபொருள் விலையில் மாற்றம் இம்முறை இருக்காது - இலங்கை பெற்றோலிய கூட்டுத்தாபனம்
+### This time there is no change in monthly fuel prices - the Ceylon Petroleum Corporation
 
 *2024-07-31 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189946) · `ta`
 
-மாதாந்த எரிபொருள் விலைத் திருத்தத்தின் கீழ் இம்முறை விலையில் மாற்றம் இருக்காது என இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+The Ceylon Petroleum Corporation announced that fuel prices will remain unchanged this month, maintaining last year's rates.
+
+🟩
+
+The Ceylon Petroleum Corporation has said that this year's price will not change under the monthly fuel prices.
 
 ◼️
 
 [Data](articles/5f3d82e6.json)
+
+[Extended Data](ext_articles/5f3d82e6.ext.json)
 
 ---
 

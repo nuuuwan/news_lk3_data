@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 11:55:18**
+As of **2024-07-31 12:05:51**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 6,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,197 (100.0%) of 38,205 articles have been extended.
+38,205 (100.0%) of 38,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම් ව මැතිවරණ කොමිසමට කැඳවයි
+### Secretary Defense to the Election Commission to be elected to the Ministry of Defense
 
 *2024-07-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199402) · `si`
 
-මහජන ආරක්ෂ අමාත්‍යාංශයේ ලේකම් ව සහ මැතිවරණ කටයුතු භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා ව මැතිවරණ කොමිසම වෙත කැඳවා ඇති බව වාර්තා වෙයි.
+The Senior DIG of the Ministry of Public Defense was summoned by the Election Commission to discuss security measures for the upcoming presidential election. The Chairman of the Election Commission clarified that while they cannot directly appoint an Inspector General of Police (IGP), they requested the Presidential Secretary to do so, ensuring all necessary police support for the election.
 
-මැතිවරණ කොමිසමේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා මාධ්‍ය වෙත අදහස් දක්වමින් පවසා සිටියේ, ජනාධිපතිවරණයේ ආරක්ෂක කටයුකු සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ඔවුන් ව අද (31) දිනයේ මැතිවරණ කොමිසම වෙත කැඳවූ බවය.
+🟩
 
-...
+It is reported that the Senior DIG of the Ministry of Public Defense and the election matters have been convened to the Election Commission.
+
+Chairman of Election Commission. M. it. L. Speaking to the media, Ratnayake said that they were summoned to the Election Commission to discuss a security measures of the presidential election.
+
+"Elections Commission has no power to name an IGP. We can do to ask the prospect of the power to do what is needed. Accordingly, the Election Commission had decided to do the Presidential Secretary yesterday. We have asked the Presidential Secretary yesterday to appoint an IGP or acting IGP. Accordingly, the Secretary to the President has responded yesterday evening. The Presidential Secretary has informed the Secretary to the Ministry of Public Defense officials to provide all the police officers in the presidential election to carry out the presidential election.Discuss the trunk in this regard. "
+
+◼️
 
 [Data](articles/4c36957d.json)
+
+[Extended Data](ext_articles/4c36957d.ext.json)
 
 ---
 
@@ -61,6 +69,8 @@ The debt office sold 25.4 billion rupees of an offered 40 billion of 01 June 203
 ◼️
 
 [Data](articles/72be3f81.json)
+
+[Extended Data](ext_articles/72be3f81.ext.json)
 
 ---
 
@@ -81,6 +91,8 @@ Konka’s Senior Manager Overseas Business Division Fiona You, Regional Director
 ...
 
 [Data](articles/6f4d0526.json)
+
+[Extended Data](ext_articles/6f4d0526.ext.json)
 
 ---
 
@@ -261,6 +273,8 @@ In response, the government has decided to recruit new Air Traffic Controllers. 
 ◼️
 
 [Data](articles/37f0a300.json)
+
+[Extended Data](ext_articles/37f0a300.ext.json)
 
 ---
 
@@ -580,6 +594,8 @@ In equities, Colombo’s All Share Price Index opened 47.31 points lower at 11,4
 
 [Data](articles/ea3031bc.json)
 
+[Extended Data](ext_articles/ea3031bc.ext.json)
+
 ---
 
 ### Hamas leader Ismail Honey was killed
@@ -698,6 +714,8 @@ Sri Lanka’s Colombo Port has seen volumes rise in the first quarter in particu
 
 [Data](articles/1a818678.json)
 
+[Extended Data](ext_articles/1a818678.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the island
@@ -739,6 +757,8 @@ The Sri Lanka Podujana Party is split over the presidential candidate after its 
 ◼️
 
 [Data](articles/ef9881f3.json)
+
+[Extended Data](ext_articles/ef9881f3.ext.json)
 
 ---
 
@@ -829,6 +849,8 @@ Profits of South Asian Gateway Terminal improved with double digit volume growth
 ...
 
 [Data](articles/309a3951.json)
+
+[Extended Data](ext_articles/309a3951.ext.json)
 
 ---
 

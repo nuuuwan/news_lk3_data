@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 07:37:54**
+As of **2024-07-31 07:53:49**
 
 ## Newspaper Stats
 
-*Scraped **38,163** Articles*
+*Scraped **38,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,27 +14,49 @@ newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
-dailyftlk | 2,443
+dailyftlk | 2,444
 adalk | 3,489
 adaderanalk | 4,415
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
 virakesarilk | 6,020
-adaderanasinhalalk | 6,423
+adaderanasinhalalk | 6,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,157 (100.0%) of 38,163 articles have been extended.
+38,161 (100.0%) of 38,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
+### යළි අරගලයකට ඉඩක් නෑ -ආරක්ෂක ලේකම්
+
+*2024-07-31 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199394) · `si`
+
+යළි අරගලයක් ඇතිවීමට ජනාධිපතිවරණයේ ප්‍රථිපල බලපාන බවට ඇතැම් පාර්ශව සිදුකරන ප්‍රචාරයන්හි කිසිදු පදනමක් නොමැති බව ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා පවසයි.
+
+ජනාධිපති මාධය කේන්ද්‍රෙය් පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
+
+ප්‍රශ්නය - ලංකාවේ යම් පිරිස් කියලා තියෙනවා ඔවුන් අපේක්ෂිත ඡන්ද ප්‍රතිඵල ලැබුණේ නැත්නම් ලංකාවේ සමහරවිට දෙවැනි අරගලයක් වෙන්න පුළුවන් කියන එක. නැවත එවැනි දෙයක් වළක්වා ගැනීම සඳහා ලංකාවේ ආරක්ෂක අංශ මීට වඩා දිරිගැන්විලා ද ඉන්නේ ?
+
+"ඒ වෙලාවේ ඇති වුණ තත්ත්වය ඉතාම හදිසියේ ඇතිවුණ තත්ත්වයක්. නමුත් අපි සියලුදේ අධ්‍යයනය කළා ඇයි මෙහෙම වුණේ? කොහොම ද මෙහෙම වුණේ ? කවුද මේකට වගකිව යුත්තේ කියන හැමදේම හොයලා ඒවට අවශ්‍ය නිති පියවර අරගෙන තියෙනවා. ඒ නිසා මම හිතන්නේ නෑ ඒ වගේ තත්ත්වයක් ඇති වෙයි කියලා. මොකද ඒ වගේ තත්ත්වයක් ඇති වෙන්න ආවොත් පොලීසිය සැදී පැහැදි ඉන්නවා. පහුවෙලා හරි ආරක්ෂක අංශ විශාල මැදිහත්වීමක් කළ නිසා තමා මේ තත්ත්වය පාලනය කරගන්න පුළුවන් වුණේ. නමුත් ඒ වෙද්දිත් විශාල හානියක් වෙලා තිබුණේ. කොහොම වුණත්﻿ නැවත එවැනි තත්ත්වයක් ඇති වෙන්න ඉඩක් නෑ."
+
+...
+
+[Data](articles/9d0eba65.json)
+
+---
+
 ### Three suspects arrested for murder of Grandpass double murder
 
 *2024-07-31 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199393) · `si`
+
+Three suspects, aged 37 and 45 from Orugodawatta and Wellampitiya, were arrested for the double murder in Grandpass. The victims were shot near the Grandpass Wandulawatte Apartments on the 25th.
+
+🟩
 
 Three suspects have been arrested in the Grandpass area shooting two people.
 
@@ -52,9 +74,31 @@ The murder was shot dead in front of the Grandpass Wandulawatte Apartment comple
 
 ---
 
+### Seventh round of Sri Lanka-Pakistan bilateral political consultations a success
+
+*2024-07-31 06:51:26* · [`dailyftlk`](https://www.ft.lk/news/Seventh-round-of-Sri-Lanka-Pakistan-bilateral-political-consultations-a-success/56-764954) · `en`
+
+The Seventh Round of Bilateral Political Consultations between Sri Lanka and Pakistan was successfully concluded at the Pakistani Foreign Ministry in Islamabad yesterday.
+
+The consultations were held after a gap of over three years, with the 6th round being held virtually in December 2020.
+
+The consultations, which comprehensively reviewed the current status of the relations between Sri Lanka and Pakistan were co-chaired by Foreign Secretary Aruni Wijewardane and the Foreign Secretary of Pakistan Muhammad Syrus Sajjad Qazi.
+
+The areas of cooperation that were discussed at the meeting included economy and trade, defence and security, education, culture, media and sports, consular matters, agriculture as well as technology. The two sides also discussed their cooperation at multilateral and regional fora, and the Sri Lanka delegation particularly thanked Pakistan for the steadfast support that it has been extending to Sri Lanka over the years at multilateral fora.
+
+...
+
+[Data](articles/d1708736.json)
+
+---
+
 ### Showers in several areas
 
 *2024-07-31 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199391) · `si`
+
+The Department of Meteorology forecasts showers across various regions including Western, Sabaragamuwa provinces, and districts like Galle, Matara, Kandy, Nuwara Eliya, and Badulla, Ampara, Batticaloa. Expect occasional thundershowers in central hills' west-borne areas, North, North-central, and North Western provinces. Wind speeds range from 30-55 mph throughout the island.
+
+🟩
 
 The Department of Meteorology announces that there will be showers at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
 
@@ -661,6 +705,8 @@ Pohottuwa’s split was predictable, and so was its plan to field a separate can
 ...
 
 [Data](articles/6b967d4c.json)
+
+[Extended Data](ext_articles/6b967d4c.ext.json)
 
 ---
 
@@ -2271,53 +2317,5 @@ Speaking further, Susuka further stated that it will take action to start at the
 [Data](articles/d33b4242.json)
 
 [Extended Data](ext_articles/d33b4242.ext.json)
-
----
-
-### The dog's death because of excessive feeding
-
-*2024-07-30 14:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-உணவளித்ததால்-நாய்-மரணம்/175-341281) · `ta`
-
-A New Zealand woman was jailed for two months after her dog died from being overfed, weighing 53 kg at death. The prosecutor acted on behalf of Animal Protection, fining and banning her from owning dogs.
-
-🟩
-
-A woman in New Zealand has sentenced a woman to two months in prison for a good dog.
-
-The dog died of weight as the woman feeds her dog unlimited. Its weight is said to have been 53 kg at the time of death.
-
-The Prosecutor's Prosecutor's Prosecutor on behalf of the Animus intervened to take legal action against him by accusing him of its owner.
-
-In addition to the imprisonment, the owner has been fined and forbidden to raise dogs.
-
-◼️
-
-[Data](articles/43c378d0.json)
-
-[Extended Data](ext_articles/43c378d0.ext.json)
-
----
-
-### The dog's death because of excessive feeding
-
-*2024-07-30 14:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அதிக-உணவளித்ததால்-நாய்-மரணம்/50-341281) · `ta`
-
-A New Zealand woman was jailed for two months after her dog died from overfeeding, weighing 53 kg at death. The prosecutor acted on behalf of Animal Protection, fining and banning her from owning dogs.
-
-🟩
-
-A woman in New Zealand has sentenced a woman to two months in prison for a good dog.
-
-The dog died of weight as the woman feeds her dog unlimited. Its weight is said to have been 53 kg at the time of death.
-
-The Prosecutor's Prosecutor's Prosecutor on behalf of the Animus intervened to take legal action against him by accusing him of its owner.
-
-In addition to the imprisonment, the owner has been fined and banned from raising dogs.
-
-◼️
-
-[Data](articles/87cf1bc2.json)
-
-[Extended Data](ext_articles/87cf1bc2.ext.json)
 
 ---

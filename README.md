@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 08:55:30**
+As of **2024-07-31 09:20:55**
 
 ## Newspaper Stats
 
-*Scraped **38,169** Articles*
+*Scraped **38,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
 adalk | 3,490
-adaderanalk | 4,415
+adaderanalk | 4,416
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
 virakesarilk | 6,020
@@ -26,21 +26,47 @@ adaderanasinhalalk | 6,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,167 (100.0%) of 38,169 articles have been extended.
+38,169 (100.0%) of 38,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### කැනඩාවට යන්න සුදානමින් සිටි තරුණයාගේ සිරුර වැවකින් හමුවෙයි
+### Fairly heavy showers expected in parts of the island
+
+*2024-07-31 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100887/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places while several spells of showers will occur in North-western province and in Matale district.
+
+Showers or thundershowers may occur at a few places in Badulla, Ampara and in Batticaloa districts in the evening or night.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/be512218.json)
+
+---
+
+### A young man who is ready to go to Canada meets a loan
 
 *2024-07-31 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199396) · `si`
 
-කැනඩාවට යෑමට සුදානමින් සිටි තරුණයෙකුගේ මළ සිරුරක් ඊයේ (30) මල්ලාවි වවුනිකුලම වැවේ තිබි සොයාගත් බව මල්ලාවි පොලීසිය පවසයි.
+A young man preparing to migrate to Canada was discovered dead in a tank near Mallavi, Vavuniya, marking a tragic end to his journey.
+
+🟩
+
+The body of a young man who was ready to travel to Canada was found in the Mallavi Vavuniya Vavuniya tank yesterday.
 
 ◼️
 
 [Data](articles/f80d3531.json)
+
+[Extended Data](ext_articles/f80d3531.ext.json)
 
 ---
 
@@ -2297,27 +2323,5 @@ When contacted by the Medical Director of the Monaragala District General Hospit
 [Data](articles/4f814aca.json)
 
 [Extended Data](ext_articles/4f814aca.ext.json)
-
----
-
-### Venezuelan protests against Maduro spread, opposition says it has proof it won the election
-
-*2024-07-30 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100877/venezuelan-protests-against-maduro-spread-opposition-says-it-has-proof-it-won-the-election) · `en`
-
-(Reuters) - Venezuela’s opposition said it had voting-tally proof it had won the election claimed by President Nicolas Maduro, as anti-government protests erupted across the country, with police firing tear gas to disperse protesters in the capital Caracas.
-
-Protesters took to the streets after Maduro was declared winner of the disputed poll, including near the presidential Miraflores palace in Caracas.
-
-Many staged “cacerolazo” demonstrations across the country - a traditional Latin American protest in which people bang pots and pans. Some who later marched took their pots and pans with them.
-
-“I don’t want gold, I don’t want CLAP (the government food aid programme), I want Nicolas (Maduro) to leave,” chanted protesters banging pots.
-
-Many rode motorbikes and jammed streets or draped themselves in the Venezuelan flag, while others covered their faces with scarves as protection against tear gas.
-
-...
-
-[Data](articles/076c7ad3.json)
-
-[Extended Data](ext_articles/076c7ad3.ext.json)
 
 ---

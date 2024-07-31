@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 23:55:47**
+As of **2024-08-01 00:09:02**
 
 ## Newspaper Stats
 
-*Scraped **38,318** Articles*
+*Scraped **38,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
-economynextcom | 2,307
+economynextcom | 2,312
 dailyftlk | 2,444
 adalk | 3,513
 adaderanalk | 4,433
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,759
+tamilmirrorlk | 4,761
 virakesarilk | 6,058
 adaderanasinhalalk | 6,453
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,318 (100.0%) of 38,318 articles have been extended.
+38,318 (100.0%) of 38,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### இலங்கையில் சுமார் 50 வெளிநாட்டவர்கள் அதிரடியாக கைது
+
+*2024-07-31 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சுமார்-50-வெளிநாட்டவர்கள்-அதிரடியாக-கைது/175-341378) · `ta`
+
+ஒன்லைன் மோசடியில் ஈடுபட்ட குற்றச்சாட்டின் பேரில் 50க்கும் மேற்பட்ட வெளிநாட்டு பிரஜைகள் புத்தளம் பகுதியில் நேற்று (30) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த நடவடிக்கையில் 44 ஆண்களும் 09 பெண்களும் கைது செய்யப்பட்டதாக பதில் பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் ருவன் குணசேகர தெரிவித்தார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் புத்தளம் கல்பிட்டி பிரதேசத்தில் அமைந்துள்ள ஹோட்டலில் இருந்து நீதிமன்ற உத்தரவைப் பெற்று விசாரணை அதிகாரிகளால் குறித்த ஹோட்டலில் சோதனை மேற்கொள்ளப்பட்ட போதே இந்த சட்டவிரோத நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+
+இந்த நடவடிக்கையின் போது, ​​98 கையடக்கத் தொலைபேசிகள், 44 கணனிகள் மற்றும் பெருந்தொகையான சிம் அட்டைகள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை கணினி குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து கிடைத்த தகவலின் அடிப்படையில் மேலும் இரண்டு வெளிநாட்டவர்கள் கைது செய்யப்பட்டுள்ளனர். மேலும் இதன்போது 10 லட்சம் ரொக்க பணமும் கைப்பற்றப்பட்டது. R
+
+◼️
+
+[Data](articles/04518474.json)
+
+---
+
+### இதுவரை 6 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்
+
+*2024-07-31 23:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-6-பேர்-கட்டுப்பணம்-செலுத்தியுள்ளனர்/175-341377) · `ta`
+
+எதிர்வரும் செப்டம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு இதுவரை 6 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9ba1542b.json)
+
+---
 
 ### Discussion with importers on reducing price of milk - Nalin Fernando
 
@@ -616,6 +648,44 @@ Special committee of National Security Tiran Alles, Minister of External Affairs
 
 ---
 
+### Sri Lanka to wrap up talks with IMF team on Aug 01
+
+*2024-07-31 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-wrap-up-talks-with-imf-team-on-aug-01-174703/) · `en`
+
+ECONOMYNEXT – Sri Lanka expects to wrap up talks with a visiting International Monetary Fund mission on August 01, with a wrap up meeting with President Ranil Wickremesinghe, State Minister for Finance, Shehan Semasinghe said.
+
+Sri Lanka is awaiting the assessment from the IMF on the compliance of an in-principle private creditor restructuring deal on the debt sustainability assessment.
+
+Also awaited is a decision from the Official Creditor Committee on the comparability of treatment on the private creditor deal.
+
+Sri Lanka struck a deal involving an initial 28 percent hair cut, which will reduce to 15 percent if gross domestic product expands above expectatons.
+
+◼️
+
+[Data](articles/843e90d0.json)
+
+---
+
+### EXPLAINER: Sri Lanka’s strong ruling party splits ahead of presidential poll
+
+*2024-07-31 18:01:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-strong-ruling-party-splits-ahead-of-presidential-poll-174686/) · `en`
+
+ECONOMYNEXT – Ruling nationalist party Sri Lanka Podujana Peramuna (SLPP)’s internal differences have finally come out through its own actions and criticisms, as a majority of the party’s legislators have chosen to back President Ranil Wickremesinghe in the next presidential poll scheduled for September 21.
+
+The decision to back the current president by at least 92 SLPP legislators came a day after the party led by former leader Mahinda Rajapaksa decided to field their own candidate without announcing the candidate.
+
+Many young SLPP parliament members and senior ministers spoke out to back Wickremesinghe in an independent coalition for the presidential election.
+
+For many political analysts it was not a surprise, and some still say it could be a strategy to woo many opposition legislators to back Wickremesinghe.
+
+Here are some questions (Q) and answers (A) on the background for such a move, possible impacts, and the latest political situation in Sri Lanka:
+
+...
+
+[Data](articles/ca58c102.json)
+
+---
+
 ### Over 50 foreigners arrested over online scam
 
 *2024-07-31 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100900/over-50-foreigners-arrested-over-online-scam) · `en`
@@ -848,6 +918,28 @@ Meanwhile, 116 members of the Sri Lanka PA and the United National Party (UNP) h
 
 ---
 
+### Sri Lanka rupee closes flat at 302.40/50 to US dollar
+
+*2024-07-31 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-302-40-50-to-us-dollar-174672/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 302.40/50 to the US dollar on Wednesday, from 302.48/55 to the US dollar on Tuesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 10.50/65 percent, up from 10.45/60 percent.
+
+A bond maturing on 15.12.2027 closed at 11.85/12.05 percent, up from 11.85/12.00 percent.
+
+A bond maturing on 15.02.2028 closed at 12.00/15 percent, down from 12.05/20 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/40 percent, down from 12.25/40 percent.
+
+A bond maturing on 15.10.2030 closed at 12.70/85 percent. (Colombo/Jul31/2024)
+
+◼️
+
+[Data](articles/5261b026.json)
+
+---
+
 ### The defendant cannot be asked to resolve a verdict issued by the High Court - President's Attorney Upul Jayasuriya
 
 *2024-07-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189893) · `ta`
@@ -918,6 +1010,28 @@ The announcement was made during a meeting of the ruling party parliamentarians 
 
 ---
 
+### Sri Lanka sells less than offered treasury bills
+
+*2024-07-31 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-174662/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were unchanged across maturities at Wednesday’s auction, with 126.3 billion rupees of bills sold of an offered 170 billion, data from the debt office showed.
+
+The 3-month yield was unchanged at 9.14 percent, with 55 billion offered and 85.3 billion rupees of bills sold.
+
+The 6-month yield was unchanged at 9.34 percent, with 55 billion offered and 29.4 billion rupees of bills sold.
+
+The 12-month bills was unchanged at 9.95 percent, with 60 billion offered, and 11.5 billion rupees of bills sold.
+
+Sri Lanka central bank to run out Treasury bills in few months
+
+Market participants said longer term demand is weaker due to election uncertainty. There was strong demand for 3 month bills. (Colombo/July31/2024)
+
+◼️
+
+[Data](articles/15f70510.json)
+
+---
+
 ### Namal Team in Opponent: Problem for Ministers
 
 *2024-07-31 16:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிரணியில்-நாமல்-அணி-அமைச்சர்களுக்கு-சிக்கல்/175-341358) · `ta`
@@ -957,6 +1071,22 @@ Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cyli
 [Data](articles/eee3c90a.json)
 
 [Extended Data](ext_articles/eee3c90a.ext.json)
+
+---
+
+### Sri Lanka appoints ministerial committees to assess middle east developments
+
+*2024-07-31 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-ministerial-committees-to-assess-middle-east-developments-174659/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed three ministerial committees to address potential global and Iranian impacts on the island nation amid fears of an escalating middle east war after the assassination of a Hamas political leader in Iran.
+
+President Ranil Wickremesinghe arranged to appoint the committees “as a preliminary measure to address the security and economic pressures that may affect Sri Lanka, considering the potential developments in the Middle East and globally,” his media division said.
+
+“If a war breaks out, what will happen to fuel prices? If any issues arise, we might need to bring back everyone in the Middle East to Sri Lanka, similar to what we faced when Kuwait was invaded in 1991. This would result in a loss of revenue for the country, making it difficult for the emerging Sri Lanka to handle such a situation,” Wickremesinghe told a gathering of provincial councilors on Wednesday (31).
+
+...
+
+[Data](articles/ec7ae05c.json)
 
 ---
 
@@ -2115,163 +2245,5 @@ The Ministry of Power and Energy has announced that the fuel prices revision wil
 [Data](articles/b136455b.json)
 
 [Extended Data](ext_articles/b136455b.ext.json)
-
----
-
-### Inform the Problems of Coconut Cultivation
-
-*2024-07-31 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199404) · `si`
-
-To address coconut cultivation challenges, the Coconut Cultivation Board launched a hotline (1916) for peasants to report issues directly. This initiative was prompted by the Minister of Agriculture and Plantation Industries, aiming to enhance communication and support for coconut farmers.
-
-🟩
-
-It has been decided to introduce a quick phone call number that can be known to the penetry regarding the problems of coconut.
-
-Accordingly, the 1916 instant phone call number has been introduced, says the Coconut Cultivation Board.
-
-Minister of Agriculture and Plantation Industries and Plantation Industries have instructed the Coconut Cultivation Board to introduce a immediate phone call number to the peasant-related white management.
-
-Accordingly, the Chairman of the Coconut Cultivation Board, Panduka Weerasinghe said that the officials were prepared to respond to the immediate response to the issues that were implemented from Monday.
-
-◼️
-
-[Data](articles/7f615e87.json)
-
-[Extended Data](ext_articles/7f615e87.ext.json)
-
----
-
-### SLT-Mobitel won two awards at DTW24 Ignite
-
-*2024-07-31 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189874) · `ta`
-
-SLT-Mobitel, a leader in communication technology solutions, won two awards at the TMForum Digital Transformation World (DTW24) Ignite Awards in Denmark. They received the "Best Moonshot Catalyst - Growth Challenge" award for their Genai Powered Toolkit. The event saw over 50 innovative projects presented by global communication partners and industry leaders.
-
-🟩
-
-SLT -Mobitel, the provider of National Communication Technology Solutions, has recently won two awards at the TMForum Digital Transformation World - DTW24 Ignite Awards at TMForum Digital Transformation World - Denmark, to ensure its leadership in building innovative solutions.
-
-Genai Powered Toolkit for Network and Service for the Best Moonshot Catalyst - Growth Challenge Award Ing Catalyst was also awarded.
-
-Many of the global communications partners, vertical champions and conclusions and partners have come together to express innovative ideas and have more than 50 projects this year.
-
-◼️
-
-[Data](articles/6b4cc3e3.json)
-
-[Extended Data](ext_articles/6b4cc3e3.ext.json)
-
----
-
-### Election deposit made for Sri Lanka’s SJB leader Sajith
-
-*2024-07-31 12:29:00* · [`economynextcom`](https://economynext.com/election-deposit-made-for-sri-lankas-sjb-leader-sajith-174611/) · `en`
-
-ECONOMYNEXT – Samagi Jana Balawegaya general secretary Ranjith Madduma Bandara has paid the election deposit for the party’s candidate Sajith Premadasa for the upcoming Presidential Election 2024.
-
-Sri Lanka’s presidential election will be held on September 21, with nominations to be accepted till August 15.
-
-Several candidates have paid their cash deposits including former deputy minister Sarath Keerthirathne, President Ranil Wickremesinghe, activist Oshala Herath and businessman A S P Liyanage.
-
-As per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
-
-Deposits are now being accepted from 8:30 am to 4:15 pm on working days at the Election Commission Office until 12 noon on August 14. (Colombo/Jul31/2024)
-
-◼️
-
-[Data](articles/13003e14.json)
-
-[Extended Data](ext_articles/13003e14.ext.json)
-
----
-
-### Completed one of my two tarsts for the country
-
-*2024-07-31 12:19:53* · [`adalk`](https://www.ada.lk/sports/රට-වෙනුවෙන්-මගේ-ටාගට්ස්-දෙකෙන්-එකක්-සම්පූර්ණ-කළා/9-411113) · `si`
-
-Chamari Atapattu, a key player in the Sri Lankan women's cricket team, expressed her team's unity and determination to win the Asian Trophy during a special event organized by the Sri Lanka Cricket (SLC). She shared her lifelong dream of leading Sri Lanka to victory in both the Asian Trophy and the World Cup, marking the completion of one of her two major goals for the country.
-
-🟩
-
-Sri Lanka Cricket Chamari Atapattu said that the Sri Lankan women's group's athletes were united to win the Asian Trophy.
-
-She made this statement participating at a special event organized by SLC to win the Asia Trophy.
-
-'The dream of my life is a Captain as a captain before I retire, a Asian Trophy and World Cup to Sri Lanka. So my two tarms were able to do with the country. This is just the start kids. If you live with this, we cannot go next to the biggest dream
-
-◼️
-
-[Data](articles/d2295ab0.json)
-
-[Extended Data](ext_articles/d2295ab0.ext.json)
-
----
-
-### Sri Lanka EPF gets back Rs231mn on Laugfs Gas share manipulation case
-
-*2024-07-31 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-epf-gets-back-rs231mn-on-laugfs-gas-share-manipulation-case-174601/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Employees Provident Fund has been repaid 231 million rupees it was estimated to have lost by purchasing shares of Laugf Gas Plc in 2011, the Securities Exchange Commission said in an online filing.
-
-The SEC had filed action against W K H Wegapitiya, U K Tilak N de Silva and T I Hulangamuwa on the purchase by EPF of 33 million shares of Laugfs Gas Plc on October 10, 2011.
-
-An application was made by counsel to the charged to compound the offence.
-
-“Having considered the loss caused to the Employees’ Provident Fund (EPF), the time since the said offences were committed, accused agreeing to settle the loss caused to the EPF, other pending litigation connected to this case, and the absence of previous convictions…” the SEC said it decided to compound the offences.
-
-...
-
-[Data](articles/369baf41.json)
-
-[Extended Data](ext_articles/369baf41.ext.json)
-
----
-
-### 138 Kadawatha - Fort bus strike
-
-*2024-07-31 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199403) · `si`
-
-A bus strike in Sri Lanka affected routes like Kadawatha-Fort, causing inconvenience to passengers. The strike was partially eased by adding more buses from the Sri Lanka Transport Board. However, issues at the Fort Bus Stand and delays in permit issuance for new buses complicated the situation. Passengers faced difficulties due to the strike.
-
-🟩
-
-The passengers were severely embarrassed by the opening of bus strike this morning (31) this morning.
-
-Accordingly, the Kadawatha - Fort, Weliweriya-Fort and Kirillawala-Box and Boxwala - Fort.
-
-We also said that he had added several buses belonging to the Sri Lanka Transport Board to work expeditiously.
-
-The buses say that the granting of a few permits for several new buses on the Kiribathgoda-Pettah road.
-
-Meanwhile, bus drivers say that the bath of buses that have erupted at the Fort Bus Stand at the Fort Bus Stand, the bus drivers have been in a stinking area.
-
-The strike commenced the strike and if the solution, bus drivers said they had left the bus operation.
-
-However, passengers on the road have been severely difficult due to the bus strike.
-
-◼️
-
-[Data](articles/f85a2154.json)
-
-[Extended Data](ext_articles/f85a2154.ext.json)
-
----
-
-### CPA Australia delegation discusses collaboration with Sri Lanka institutions
-
-*2024-07-31 11:45:00* · [`economynextcom`](https://economynext.com/cpa-australia-delegation-discusses-collaboration-with-sri-lanka-institutions-174600/) · `en`
-
-ECONOMYNEXT – A delegation from CPA Australia, a global accounting body, met with government, professional bodies, universities, and banking institutions in Sri Lanka to discuss further collaborations.
-
-“Sri Lanka is home to a wealth of experienced professionals and promising young talent pursuing careers in accounting and finance. This vibrant talent pool is a major driving force behind our strengthened commitment to the region,” Professor Dale Pinto (FCPA), Global President and Chair of the Board at CPA Australia was quoted in a statement.
-
-The delegation, including board members and representatives from international markets, met with President Ranil Wickremesinghe and had discussions with local government officials, regulatory bodies, employers, and educational and banking institutions.
-
-...
-
-[Data](articles/9b73f47a.json)
-
-[Extended Data](ext_articles/9b73f47a.ext.json)
 
 ---

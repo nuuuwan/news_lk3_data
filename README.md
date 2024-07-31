@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 15:20:50**
+As of **2024-07-31 15:35:51**
 
 ## Newspaper Stats
 
-*Scraped **38,246** Articles*
+*Scraped **38,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 4,424
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,747
 virakesarilk | 6,039
-adaderanasinhalalk | 6,441
+adaderanasinhalalk | 6,443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,246 (100.0%) of 38,246 articles have been extended.
+38,246 (100.0%) of 38,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ඔන්ලයින් ඔස්සේ මුදල් වංචාකළ විදේශිකයින් පිරිසක් මන්නාරමේදී අත්අඩංගුවට
+
+*2024-07-31 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199413) · `si`
+
+අන්තර්ජාලය හරහා මුදල් වංචා කිරීම සම්බන්ධයෙන් පුත්තලම ප්‍රදේශයේදී විදේශීය ජාතිකයින් 50කට වැඩි පිරිසක් ඊයේ (30) අත්අඩංගුවට ගෙන තිබේ.
+
+වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ රුවන් ගුණසේකර මහතා පැවසුවේ එහිදී පිරිමි පුද්ගලයන් 44ක් සහ කාන්තාවන් 09 දෙනෙක් අත්අඩංගුවට ගත් බවයි.
+
+එම පිරිස පුත්තලම, කල්පිටිය ප්‍රදේශයේ පිහිටි හෝටලය ක සිට ජාවාරම සිදුකර ඇති අතර අධිකරණ නියෝගයක් ලබාගෙන එම හෝටලය පරීක්ෂා කිරීමට විමර්ශන නිලධාරීන් කටයුතු කළේය.
+
+එහිදී එම ජංගම දුරකථන 98ක්, පරිගණක 44ක් සහ  සිම් කාඩ් විශාල ගණනක් පොලිස් භාරයට ගෙන ඇති අතර  පරිගණක අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් වැඩිදුර විමර්ශන සිදුකරයි.
+
+ඔවුන්ගෙන් ලද තොරතුරු අනූව තවත් විදේශිකයින් දෙදෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් භාරයේ තිබී රුපියල් කෝටියකට වැඩි මුදලක් පොලිස් භාරයට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/a6ffea07.json)
+
+---
+
+### ගෑස් මිල ගැන දැනුම්දීමක්
+
+*2024-07-31 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199412) · `si`
+
+අගෝස්තු මාසය සඳහා ලිට්‍රෝ ගෑස් මිල වෙනස් නොවන බව එම සමාගම පවසයි.
+
+ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා ඒ බව දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/57882d68.json)
+
+---
 
 ### Emergency letter to Mahinda
 
@@ -133,6 +167,10 @@ Meanwhile, during the meeting with former PC members, the President also express
 The Police Special Task Force (STF) has arrested a Mawlawi and his brother at Oddamavadi while in possession of weapons including two firearms and several rounds of ammunition.
 
 Police Spokesman DIG Nihal Thalduwa said the two suspects were arrested with two T-56 assault rifles, two magazines, 60 rounds of ammunition, a sword and a pair of binoculars.
+
+The suspects were arrested by officers of the Special Task Force in Aralaganwila during an operation conducted last night (30), based on information received by army intelligence.
+
+Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the arrested suspects have been handed over to the Terrorism Investigation Division (TID) for further investigations.
 
 ◼️
 
@@ -2273,49 +2311,5 @@ Since ancient times, our country's social organization has been built on Buddhis
 [Data](articles/4478cbf2.json)
 
 [Extended Data](ext_articles/4478cbf2.ext.json)
-
----
-
-### Steps will be taken to start business records through the Internet- BSM. Charles
-
-*2024-07-30 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189849) · `ta`
-
-The Northern Province Governor, Charles, announced plans to expedite the launch of online business registration via the Internet Business Service Model (BSM). A meeting discussed challenges in registering small businesses, emphasizing the need for digitalization and swift implementation. The Governor urged for improvements in infrastructure and legal actions against non-compliant public institutions. Additionally, concerns about foreign children receiving allowances were addressed, with measures underway to resolve these issues.
-
-🟩
-
-Governor of the Northern Province BSMM says that speedy steps will be taken to launch the online business registration through the Internet.. Charles said.
-
-A special discussion was held on Tuesday (30) at the Governor's Secretariat Auditorium under the leadership of Social Empowerment Minister Anubha Paskol and Governor.
-
-Northern Province Chief Secretary L. Ilangovan, Jaffna District Response Government Agent M. Pradeepan, Governor's Assistant Secretary, Samurdhi Commissioner General and Divisional Secretaries in the Jaffna District were also present.
-
-Discussions on issues found in the business registration of those who are engaged in small business ventures. The governor said that it is the best activity to introduce an online business registration to carry out business records without delay, and that steps are being taken to start the operation in the Northern Province speedy.. He also said that digitalization of public services is also necessary.
-
-...
-
-[Data](articles/9ead1f25.json)
-
-[Extended Data](ext_articles/9ead1f25.ext.json)
-
----
-
-### Signs are consequencing
-
-*2024-07-30 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199389) · `si`
-
-In the T20 cricket match, India made 137 runs but lost 9 wickets in 9 overs.
-
-🟩
-
-The third Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Third T20
-
-The Indian team scored 137 runs for the loss of 9 wickets in the loss of 9 overs.
-
-◼️
-
-[Data](articles/e066e59a.json)
-
-[Extended Data](ext_articles/e066e59a.ext.json)
 
 ---

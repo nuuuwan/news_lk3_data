@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 07:53:49**
+As of **2024-07-31 08:05:42**
 
 ## Newspaper Stats
 
-*Scraped **38,165** Articles*
+*Scraped **38,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
-adalk | 3,489
+adalk | 3,490
 adaderanalk | 4,415
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
@@ -26,27 +26,35 @@ adaderanasinhalalk | 6,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,161 (100.0%) of 38,165 articles have been extended.
+38,165 (100.0%) of 38,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### යළි අරගලයකට ඉඩක් නෑ -ආරක්ෂක ලේකම්
+### There is no room for a struggle - PLACE
 
 *2024-07-31 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199394) · `si`
 
-යළි අරගලයක් ඇතිවීමට ජනාධිපතිවරණයේ ප්‍රථිපල බලපාන බවට ඇතැම් පාර්ශව සිදුකරන ප්‍රචාරයන්හි කිසිදු පදනමක් නොමැති බව ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා පවසයි.
+The Defense Secretary stated at a press conference that there's no foundation for claims that the upcoming presidential election could lead to another conflict in Sri Lanka. He emphasized the readiness of the police and security forces to handle any unexpected situations, assuring that measures are in place to prevent a repeat of past events. Additionally, he mentioned that Sri Lankans have experienced the effects of the Russian war, indicating a broader context of global impact.
 
-ජනාධිපති මාධය කේන්ද්‍රෙය් පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
+🟩
 
-ප්‍රශ්නය - ලංකාවේ යම් පිරිස් කියලා තියෙනවා ඔවුන් අපේක්ෂිත ඡන්ද ප්‍රතිඵල ලැබුණේ නැත්නම් ලංකාවේ සමහරවිට දෙවැනි අරගලයක් වෙන්න පුළුවන් කියන එක. නැවත එවැනි දෙයක් වළක්වා ගැනීම සඳහා ලංකාවේ ආරක්ෂක අංශ මීට වඩා දිරිගැන්විලා ද ඉන්නේ ?
+Defense Secretary said that there is no basis for some party propaganda that the presidential election will be affecting a struggle.
 
-"ඒ වෙලාවේ ඇති වුණ තත්ත්වය ඉතාම හදිසියේ ඇතිවුණ තත්ත්වයක්. නමුත් අපි සියලුදේ අධ්‍යයනය කළා ඇයි මෙහෙම වුණේ? කොහොම ද මෙහෙම වුණේ ? කවුද මේකට වගකිව යුත්තේ කියන හැමදේම හොයලා ඒවට අවශ්‍ය නිති පියවර අරගෙන තියෙනවා. ඒ නිසා මම හිතන්නේ නෑ ඒ වගේ තත්ත්වයක් ඇති වෙයි කියලා. මොකද ඒ වගේ තත්ත්වයක් ඇති වෙන්න ආවොත් පොලීසිය සැදී පැහැදි ඉන්නවා. පහුවෙලා හරි ආරක්ෂක අංශ විශාල මැදිහත්වීමක් කළ නිසා තමා මේ තත්ත්වය පාලනය කරගන්න පුළුවන් වුණේ. නමුත් ඒ වෙද්දිත් විශාල හානියක් වෙලා තිබුණේ. කොහොම වුණත්﻿ නැවත එවැනි තත්ත්වයක් ඇති වෙන්න ඉඩක් නෑ."
+He was speaking at a press conference held at the Presidential Media Center.
 
-...
+Q. There is a personnel in Sri Lanka that if they do not have the expected voting results of the country, it is a second struggle in Sri Lanka. Is Sri Lanka more encouraged to prevent such a thing again?
+
+"The situation that occurred at the time was a very sudden situation. But why did you study why?How did this happen?Who has taken the necessary steps to find out everything responsible for this?. So I don't think that like that. Because if such a situation, the police are ready. At the bottom and security forces, he was able to control this situation. But at that time, it was too damaged. However, there is no room for such a situation. "
+
+The Defense Secretary also said that Sri Lankans have been staying for Russian war.
+
+◼️
 
 [Data](articles/9d0eba65.json)
+
+[Extended Data](ext_articles/9d0eba65.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ The areas of cooperation that were discussed at the meeting included economy and
 ...
 
 [Data](articles/d1708736.json)
+
+[Extended Data](ext_articles/d1708736.ext.json)
 
 ---
 
@@ -891,6 +901,22 @@ Meanwhile, the Anuradhapura District Board of Anuradhapura has decided to suppor
 [Data](articles/48f999e1.json)
 
 [Extended Data](ext_articles/48f999e1.ext.json)
+
+---
+
+### කුවේට් සිට ආපු ශ්‍රී ලන්කන් යානයේ ගුවන් සේවිකාවකට පරුෂ වචනයෙන් බැන්න ගුවන් මගියෙක් අත්අඩංගුවට
+
+*2024-07-30 20:13:32* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-සිට-ආපු-ශ්‍රී-ලන්කන්-යානයේ-ගුවන්-සේවිකාවකට-පරුෂ-වචනයෙන්-බැන්න-ගුවන්-මගියෙක්-අත්අඩංගුවට/11-411109) · `si`
+
+කුවේට් රාජ්‍යයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් තිබූ ශ්‍රී ලන්කන් ගුවන් යානයෙහි සේවයේ නිරත වී සිටි ගුවන් සේවිකාවකට එහි ගමන් ගත් මගියෙකු  අතින් ඇද පරුෂ වචනයෙන් බැණ වැදීමේ සිදු වීමක් පිළිබඳ එම ගුවන් මගියා අත් අඩංගුවට ගෙන විමර්ශන කටයුතු කටුනායක ගුවන් තොටුපොළ පොලීසිය විසින් අද (30දා) ආරම්භ කර තිබේ .
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 230 දරන ගුවන් යානය 30 දින අලුයම 02.00 ට පමණ කුවේට් රාජ්‍යයේ කුවේට් සිටි ගුවන් තොටුපොළෙන් කටුනායක ගුවන් තොටුපොළ බලා පිටත් වී තිබේ .එම ගුවන් යානයෙහි හොරණ , පොකුණුවිට පාරේ පදිංචි 35 හැවිරිදි නලීන් සම්පත් නමැති පුද්ගලයා ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීම සඳහා අංක 11 ජී නැමැති ආසනයෙහි අසුන් ගෙන ඇත .
+
+මෙම ගුවන් යානය පිටත් වී පැය 03.30 කට පසුව එහි ගමන් ගත් ගුවන් මගීන්ට ආහාරපාන ලබා දී , ඒවා පිරිනැමූ භාජන ඉවත් කිරීම ආරම්භ කර ඇත .එහිදී මෙම ගුවන් මගියාගේ ආහාරපාන ලබා දුන් හිස් භාජන ඉවත් කර ගැනීමට සූදානම් වනවිට රණවක ආරච්චිගේ රිද්මා උදේනි කරුණාරත්න නමැති ගුවන් සේවිකාවගේ වම් අත , මැණික් කටුව සහ වැලමිට අතර ප්‍රදේශයෙන් තදින් අල්ලා , පරුෂ වචනයෙන් ද බැණ තිබේ .
+
+...
+
+[Data](articles/602ef566.json)
 
 ---
 
@@ -2285,37 +2311,5 @@ However, three wheeler imports are not banned, and with an economic recovery und
 [Data](articles/be222dc7.json)
 
 [Extended Data](ext_articles/be222dc7.ext.json)
-
----
-
-### Wickrelewriters Shanka Sanjeewani
-
-*2024-07-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199372) · `si`
-
-The Sri Lanka Women's cricket team celebrated a victory in Hikkaduwa, winning the Asian Women's Cricket Tournament. Anushka, a student transferred from Sumangala Vidyalaya in Hikkaduwa, was honored by both schools. Her sister, sensitive about comments, donated Rs. The National Group of Seenigama and Sumangala Vidyalaya, Hikkaduwa, recognized her achievements. Plans are underway to establish a female cricket team due to its absence.
-
-🟩
-
-The Sri Lanka Women's cricket team won a wicket winner in Hikkadi, who won the Asian Women's Cricket Tournament.
-
-The welcome cemetery was organized by the alumni of Sushangala Vidyalaya
-
-Anushkawa was brought to Sumangala Vidyalaya from Hikkaduwa to Hikkaduwa, Hikkaduwa.
-
-The students of the school and the school joined her and joined her.
-
-Anushka's only sister was sensitive in commenting.
-
-She donated Rs.
-
-The National Group was elected to the National Group of Seenigama and Sumangala Virus for Sri Sumangala Vidyalaya, Hikkaduwa, Hikkaduwa.
-
-Speaking further, Susuka further stated that it will take action to start at the opening of a female cricket team as there is no women's cricket team so far.
-
-◼️
-
-[Data](articles/d33b4242.json)
-
-[Extended Data](ext_articles/d33b4242.ext.json)
 
 ---

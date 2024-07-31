@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 14:05:41**
+As of **2024-07-31 14:20:52**
 
 ## Newspaper Stats
 
-*Scraped **38,236** Articles*
+*Scraped **38,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,85 @@ adaderanalk | 4,422
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,746
 virakesarilk | 6,039
-adaderanasinhalalk | 6,438
+adaderanasinhalalk | 6,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,225 (100.0%) of 38,236 articles have been extended.
+38,237 (100.0%) of 38,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ஊழல் ஒழிப்பு சட்டமூலம் சமர்ப்பிக்க வேண்டாம் : ஜனாதிபதிக்கு அழைப்பு
+### Prasanna writes to Mahinda
 
-*2024-07-31 13:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-ஒழிப்பு-சட்டமூலம்-சமர்ப்பிக்க-வேண்டாம்-ஜனாதிபதிக்கு-அழைப்பு/175-341345) · `ta`
+*2024-07-31 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199409) · `si`
 
-ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என இளம் பாராளுமன்ற உறுப்பினர் ஒருவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+Prasanna Ranatunga wrote to Mahinda Rajapaksa, expressing support for Ranil Wickremesinghe as president, stating no other candidate could safeguard the General Front party. The letter also mentions Ranatunga's intention to contest against Wickremesinghe but remains committed to the Sri Lanka Civil Appointment party, seeking a loyal leader.
 
-ஊழல் ஒழிப்பு சட்டமூலத்தை எதிர்வரும் பதினைந்து நாட்களுக்குள் அமைச்சரவையில் சமர்பிப்பதற்கான அனைத்து நடவடிக்கைகளும் நிறைவடையவுள்ள நிலையிலேயே தற்போது கலந்துரையாடப்பட்டு வரும் இளம் எம்.பி., இந்தக் கோரிக்கையை முன்வைத்துள்ளார்.
+🟩
 
-குறித்த பாராளுமன்ற உறுப்பினர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தொலைபேசியில் அழைப்பு விடுத்து ஜனாதிபதி தேர்தலுக்கு முன்னர் ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என கோரிக்கை விடுத்துள்ளார்.
+Prasanna Ranatunga has informed the former President Mahinda Rajapaksa about anyone who supports anyone in the presidential election.
 
-எம்.பி.யின் கோரிக்கை தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரசாங்கத்தின் சிரேஷ்ட அமைச்சர்களுடன் கலந்துரையாடி அடுத்த இரண்டு நாட்களுக்குள் தீர்மானம் எடுப்பார் என ஜனாதிபதி செயலகத் தகவல்கள் தெரிவிக்கின்றன.
+The letter further states that Ranil Wickremesinghe is the president, and another alternative that can protect the party of the General Front will not be able to.
 
-...
+As such, it has been told by the letter that he will contest the country of Ranil Wickremesinghe that he will contest Ranil Wickremesinghe's victory over the country.
 
-[Data](articles/78d78c9a.json)
+Nevertheless, the letter of Prasanna Ranatunga has noted that he is still a party of the Sri Lanka Civil Appointment and his ideal leader is a loyal Leader.
+
+◼️
+
+[Data](articles/1055d376.json)
+
+[Extended Data](ext_articles/1055d376.ext.json)
 
 ---
 
-### ගිනිඅවි සමග දෙදෙනෙක් අත්අඩංගුවට
+### Do not submit the Corruption Bill: Invite the President
+
+*2024-07-31 13:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-ஒழிப்பு-சட்டமூலம்-சமர்ப்பிக்க-வேண்டாம்-ஜனாதிபதிக்கு-அழைப்பு/175-341345) · `ta`
+
+A young parliamentarian urges President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet before the upcoming presidential election. The President plans to consult with senior ministers and make a decision within two days.
+
+🟩
+
+A young parliamentarian has asked President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet.
+
+The young MP, who is currently meeting, has made this request as all measures to be taken to submit the Corruption Bill within the next fifteen days.
+
+Parliamentarian Ranil Wickremesinghe has called on President Ranil Wickremesinghe and requested not to submit the Corruption Bill to the Cabinet before the presidential election.
+
+President Ranil Wickremesinghe will discuss with the senior ministers of the government and take a decision within the next two days, according to the Presidential Secretariat.
+
+It was earlier announced at a press conference announcing the Cabinet decisions that the Corruption Bill would be submitted to the Cabinet under the administration of President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/78d78c9a.json)
+
+[Extended Data](ext_articles/78d78c9a.ext.json)
+
+---
+
+### Two arrested with firearms
 
 *2024-07-31 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199408) · `si`
 
-ඔට්ටමාවඩි ප්‍රදේශයේදී ගිනි අවි සහ පතොරම් සමග මවුලවිවරයෙක් සහ ඔහුගේ සහෝදරයාව අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+A Molevian and his brother were arrested in Otamavadi by the Aralaganwila STF for possessing 60 TABs and a sword, based on military intelligence tips.
 
-යුද්ධ හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත ටී-56 අවි දෙකක්, මැගසින් දෙකක්‍, පතොරම් 60ක්, දුරදක්නයක්‍ සහ කඩුවක් සමග එම සැකකරුවන් ව අරලගංවිල පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් ඊයේ (30) රාත්‍රී සිදුකළ මෙහෙයුමකදී අත්අඩංගුවට ගෙන තිබුණි.
+🟩
+
+The Police Media Division states that a Molevian and his brother have been arrested in the Otamavadi area.
+
+The suspects were taken into custody by the Aralaganwila Police Special Task Force (STF) officials of the Aralaganwila Police Special Task Force (STF) with 60 TAB and a sword on information received by the military intelligence.
 
 ◼️
 
 [Data](articles/5ea39e85.json)
+
+[Extended Data](ext_articles/5ea39e85.ext.json)
 
 ---
 
@@ -80,21 +118,29 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 
 [Data](articles/5f0a041a.json)
 
+[Extended Data](ext_articles/5f0a041a.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய காதி நீதவான் கைது
+### Khadi Magistrate arrested bribes
 
 *2024-07-31 13:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-341343) · `ta`
 
-பெண்ணொருவரிடம் 10,000 ரூபாய் இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் மாத்தளை பகுதியைச் சேர்ந்த காதி நீதவான் ஒருவர் கைது செய்யப்பட்டதாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு தெரிவித்துள்ளது.
+A Khadi Magistrate from Matale was arrested for allegedly offering a Rs 10,000 bribe to a woman from Trincomalee. The complainant, also named Khadi, filed a lawsuit seeking Rs 80,000 for defamation. The arrest took place at the suspect's home in Varakamura.
 
-முறைப்பாட்டாளர் திருகோணமலையைச் சேர்ந்த பெண்ணாவார். தன்னை  பராமரிப்பதற்கும், தன்னை  அவமானப்படுத்தியதற்காக 80 ஆயிரம் ரூபாய் நட்டஈடு கோரி வழக்குத் தாக்கல் செய்வதற்குத் தேவையான ஆவணங்களை முறைப்பாட்டாளர் காதி நீதவானிடம் வழங்கியுள்ளார்.
+🟩
 
-அந்த நட்ட ஈட்டை பெற்றுத்தருவதற்கு தேவையான ஆவணங்களை தயார்படுத்துவதற்காக 50,000 ரூபாய் இலஞ்சம் கேட்டுள்ளார். ​​அதில்  10,000 ரூபாவை வரக்காமுர பிரதேசத்தில் உள்ள சந்தேகநபரின் வீட்டில் வைத்து பெற்றுக்கொண்ட போதே அவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+The Commission to investigate bribery or corruption has said that a Khadi Magistrate from Matale has been arrested on charges of bribing a woman for Rs 10,000.
+
+The complainant is a woman from Trincomalee. The complainant Khadi has provided the documents necessary to file a lawsuit for Rs 80,000 for the sake of insulting himself.
+
+He has asked for a bribe of Rs.. He was arrested while he was arrested at the house of the suspect in Varakamura area.
 
 ◼️
 
 [Data](articles/cd3d19e1.json)
+
+[Extended Data](ext_articles/cd3d19e1.ext.json)
 
 ---
 
@@ -166,97 +212,135 @@ The court stated that the demand will be rejected due to lack of facts as a resu
 
 ---
 
-### அளவுக்கு அதிகமாக உணவு வழங்கியமையால் நாய் உயிரிழப்பு ; உரிமையாளருக்கு சிறை
+### Dog death due to excessive food;Prison to the owner
 
 *2024-07-31 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189886) · `ta`
 
-நியூசிலாந்தில் அளவுக்கு அதிகமாக உணவு வழங்கியமையால் நாய் ஒன்று உயிரிழந்த சம்பவம் தொடர்பில் உரிமையாளரான பெண்ணுக்கு இரண்டு மாத சிறைதண்டனை விதிக்கப்பட்டுள்ளது.
+A New Zealand court sentenced a dog owner to two months in prison and fined them $1,222 for causing the death of their severely obese dog, Nuggi, through overfeeding. The dog, weighing 53kg, exceeded its daily meat intake by 10 pieces and died from liver bleeding after treatment. The court also banned the owner from breeding dogs for a year.
 
-உயிரிழந்த நகி (Nuggi) என்ற நாய் 53 கிலோகிராம் எடையும், கடுமையான உடல் பருமனும் கொண்டிருந்தது.
+🟩
 
-நாய்க்கு அவர் தினமும் சராசரியான உணவை விட 10 இறைச்சி துண்டுகளை அதிகம் கொடுத்து வந்ததனால் அந்நாய்க்கு உடல் எடை அதிகரித்துள்ளது.
+The owner of a dog has been sentenced to two months in prison in connection with the death of a dog in New Zealand.
 
-இந்நிலையில், 2021 ஆம் ஆண்டு விலங்குகள் வன்கொடுமை தடுப்புச் சங்கம் அதை கண்டறிந்து அந்த நாயை மீட்டு வைத்தியசாலையில் சேர்த்தனர்.  2 மாத சிகிச்சையில் 8.8 கிலோ குறைந்த பின்னரும் கல்லீரல் இரத்த கசிவால் அந்த நாய் இறந்து போனது. அதற்கு அதீத உடல் எடையே காரணமாக கூறப்படுகிறது.
+The dog named Nuggi weighed 53 kilograms and had severe obesity.
 
-இதனால் மானுகா மாகாணத்தின் நீதிமன்றம் நாயின் உரிமையாளருக்கு 1,222 நியூசிலாந்து டொலர் அபராதமும் இரண்டு மாதங்கள் சிறை தண்டனையும் ஓராண்டு காலத்திற்கு நாய் வளர்க்கும் உரிமையையும் இரத்து செய்து உத்தரவிட்டுள்ளது.
+The dog has gained 10 meat pieces more than an average diet daily.
+
+In 2021, the Animal Husbandry Prevention Society found it and rescued the dog and was taken to the hospital.The dog died of liver bleeding after 8.8 kg in 2 months of treatment. It is attributed to excessive weight.
+
+The Manuga province's court has ordered the dog's owner to be a fine of $ 1,222, a two -month prison sentence and a dog's right to raise the dog for a year.
+
+"Unfortunately low -weight animals are the most troubles. But there are many weight -bearing animals, said Todd Westwood, president of the Animal Trafficking Prevention Association.
 
 ...
 
 [Data](articles/3c337356.json)
 
+[Extended Data](ext_articles/3c337356.ext.json)
+
 ---
 
-### இராணுவத்திடம் ஒப்படைக்கப்பட்ட எங்கள் பிள்ளைகளுக்கு இறப்பு சான்றிதழ் தான் பதில் என்றால் கொலை செய்தவன் யார்? - முல்லைத்தீவில் காணாமல் ஆக்கப்பட்டோரின் உறவுகள் போராட்டம்
+### If our children who were handed over to the military are the death certificates, who is the one who murdered?- Relationships of the missing in Mullaitivu
 
 *2024-07-31 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189892) · `ta`
 
-முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் இன்று புதன்கிழமை (31) காலை  முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Relatives of missing persons from Mullaitivu protested, accusing the military of hiding murders by using children as "death certificates." This ongoing struggle dates back to March 8, 2017, with notable figures like Durairasa Ravikaran attending the demonstration.
 
-யுத்தம் நிறைவடைந்த நாள்முதல் தமது உறவுகளுக்கான நீதி கோரி போராடிவரும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் கடந்த 2017 மார்ச் எட்டாம் திகதி முதல் முல்லைத்தீவு மாவட்டத்தில் தொடர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+🟩
 
-கொடுப்பனவுகளை கொடுப்போம் என்று சொல்வது கொலை செய்த கதையை மறைக்கவே, இராணுவத்திடம் ஒப்படைக்கப்பட்ட எங்கள் பிள்ளைகளுக்கு இறப்பு சான்றிதழ் தான் பதில் என்றால் கொலை செய்தவன் யார்?, omp ஒரு கண்துடைப்பு நாடகம், சர்வதேச விசாரணையே தேவை, இழப்பீடுகள் வேண்டாம், எமக்கு பிள்ளைகள் வேண்டும் போன்ற பல கோசங்களையும், பதாகைகளையும் ஏந்தியவாறு கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்திருந்தனர்.
+Relatives of the Mullaitivu District Disappeared staged a protest in front of the Mullaitivu District Secretariat on Wednesday morning.
 
-குறித்த போராட்டத்தில் காணாமல் ஆக்கப்பட்ட உறவினர்கள், முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+The relations of the missing persons have been engaged in a continuous struggle in the Mullaitivu district since March 8, 2017.
+
+To hide the story of the murder, our children who were entrusted with the military were the answer to the death certificate to the military?
+
+Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
 
 ◼️
 
 [Data](articles/e75fd7df.json)
 
+[Extended Data](ext_articles/e75fd7df.ext.json)
+
 ---
 
-### யூனியன் அஷ்யூரன்ஸ் வாடிக்கையாளர்களுக்கு மேம்படுத்தப்பட்ட பரந்தளவு கொடுப்பனவு  தெரிவுகள்
+### UNECTED WORLD Payment Options to Union Assurance Customers
 
 *2024-07-31 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189879) · `ta`
 
-இலங்கையின் முன்னணி ஆயுள் காப்புறுதி சேவைகள் வழங்குநரான யூனியன் அஷ்யூரன்ஸ், வாடிக்கையாளர்களுக்கு தமது ஆயுள் காப்புறுதித் திட்டங்களை நிர்வகித்துக் கொள்வதற்கான வசதியை மேம்படுத்தும் வகையில் பரந்தளவு கொடுப்பனவு தெரிவுகளை அறிமுகம் செய்துள்ளது.
+Union Assurance offers various payment options for its life insurance schemes, including mobile apps (Clicklife), online portals, and bank partnerships. Payments can be made via 12 leading banks, offering flexibility in choosing direct payments, checks, cards, or fixed commands. Additionally, an interest-free credit card installment scheme is available for 12 months through select banks, enhancing financial flexibility for customers.
 
-அதில் நிறுவனத்தின் கட்டமைப்புகள், பங்காளர் வங்கிகள் மற்றும் மூன்றாம் தரப்புகள் போன்றன அடங்கியுள்ளன.
+🟩
 
-வாடிக்கையாளர்களுக்கு கட்டுப்பண கொடுப்பனவுகளை மொபைல் app ஆன Clicklife - unionassurance.com/click-life-app ஊடாக மேற்கொள்ள முடியும். அதனூடாக ஸ்மார்ட் சாதனங்களை பயன்படுத்தி, தமது ஆயுள் காப்புறுதித் திட்டங்களை இலகுவாக நிர்வகித்துக் கொள்ள முடியும். தொழிற்துறையில் முதன் முதலில் அறிமுகம் செய்யப்பட்ட புரட்சிகரமான, வாடிக்கையாளர்கள் ஆயுள் காப்புறுதித் திட்டங்களை நிர்வகிக்கும் வசதியாக Clicklife App அமைந்துள்ளது.
+Union Assurance, Sri Lanka's leading life insurance services provider, has introduced a wide range of allowances to improve customers to manage their life insurance schemes.
 
-மேலும், கட்டுப்பணக் கொடுப்பனவுகளை, யூனியன் அஷ்யூரன்ஸ் தலைமையகத்தில், நிறுவனத்தின் கிளைகளில் அல்லது வாடிக்கையாளர் போர்டல் பகுதியான portal.unionassurance.com மற்றும் pay.unionassurance.com எனும் கட்டுப்பண செலுத்தும் லிங்கினூடாக மேற்கொள்ள முடியும்.
+It includes the company's structures, partner banks and third parties.
+
+Customers can make control payments through mobile app-unionassurance.com/click-eBe- App. Through it, using smart devices can easily manage their life insurance plans. The Clicklife App is the first to introduce revolutionary, customers life insurance schemes in the industry.
+
+In addition, control payments can be carried out at the Union Assurance Headquarters, through the company's branches or the customer portal area, Portal.unionassure.com and Pay.unionassure.com.
 
 ...
 
 [Data](articles/b6889550.json)
 
+[Extended Data](ext_articles/b6889550.ext.json)
+
 ---
 
-### ඇමති ප්‍රසන්නගෙන් හිටපු ජනපති මහින්දට ලිපියක්
+### A letter from Minister Prasanna
 
 *2024-07-31 13:07:50* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්නගෙන්-හිටපු-ජනපති-මහින්දට-ලිපියක්/11-411114) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී පක්ෂයේ තීරණයට එකඟ නොවන බව දන්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් ශ්‍රී ලංකා පොදුජන පෙරමු​ණේ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට ලිපියක් යොමු කර තිබේ.
+Minister Prasanna Ranatunga, in a letter, informed former President Mahinda Rajapaksa about the party's stance on the upcoming presidential election. Despite having scandal evidence against him, Ranatunga expressed his disagreement with the party's choice and pledged support for Ranil Wickremesinghe's presidential bid.
 
-හෘස සාක්ෂිය ඇති මිනිසෙකු ලෙසින් මට පක්ෂයේ තීරණයට එකඟවිය නොහැකි බව කණගාටුවෙන් දැනුම් දෙමි. ඒ නිසා මම රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාගේ ජයග්‍රහණයට කැප වෙමි.
+🟩
+
+Minister Prasanna Ranatunga has asked former President Mahinda Rajapaksa informs Sri Lanka Prasanna Ranatunga informing the party's decision in the next presidential election.
+
+As a man with the scandal evidence, I do not agree that I cannot agree with the party's decision. So I dedicate Ranil Wickremesinghe to win the President's victory.
 
 ◼️
 
 [Data](articles/171196fc.json)
 
+[Extended Data](ext_articles/171196fc.ext.json)
+
 ---
 
-### ஸ்ரீ லங்கா பொதுஜன பெரமுன எடுத்த அதிரடி தீர்மானம் !
+### Sri Lanka PA
 
 *2024-07-31 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189890) · `ta`
 
-கட்சியின் கொள்கை மற்றும் தீர்மானத்துக்கு எதிராக செயற்படுபவர்களை கட்சியின் பதவி நிலைகளில் இருந்து நீக்குவதற்கு ஸ்ரீ லங்கா பொதுஜன பெரமுன தீர்மானித்துள்ளது.
+The Sri Lanka People's Alliance (PA) plans to expel members opposing its policies and resolutions.
+
+🟩
+
+The Sri Lanka PA has decided to remove those who act against the party's policy and resolution.
 
 ◼️
 
 [Data](articles/79dd0420.json)
 
+[Extended Data](ext_articles/79dd0420.ext.json)
+
 ---
 
-### ஜனாதிபதியின் தீர்மானத்துக்கு நன்றி தெரிவித்துள்ள தேர்தல்கள் ஆணைக்குழு
+### The Elections Commission thanked the President's decision
 
 *2024-07-31 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189889) · `ta`
 
-ஜனாதிபதி தேர்தல் பணிகளுக்கு  முழுமையான ஒத்துழைப்பு வழங்குமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சுக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ள நிலையில், ஜனாதிபதியின் தீர்மானத்துக்கு தேர்தல்கள் ஆணைக்குழு நன்றி தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The Elections Commission expressed gratitude towards the President for issuing a directive to the Ministry of Public Security, ensuring full cooperation for the presidential election.
+
+🟩
+
+It is noteworthy that the Elections Commission has thanked the President's decision as the President has issued a directive to the Ministry of Public Security for its full cooperation with the presidential election.
 
 ◼️
 
 [Data](articles/21591c84.json)
+
+[Extended Data](ext_articles/21591c84.ext.json)
 
 ---
 
@@ -288,15 +372,21 @@ The girl has been admitted to the Horana Base Hospital for the forensic doctor.
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-31 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189884) · `ta`
 
-இன்று புதன்கிழமை (ஜூலை 31) மத்திய வங்கியில் வெளியிட்ட நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.8582 ரூபாவாகவும், விற்பனை விலை 307.1744 ரூபாவாகவும் பதிவாகியுள்ளது.
+As of July 31, the US dollar's buying rate was 297.8582 rupees, while its selling rate was 307.1744 rupees according to the Central Bank.
+
+🟩
+
+Based on the Central Bank on Wednesday (July 31), the US dollar purchasing price was 297.8582 rupees and the sales price were 307.1744 rupees.
 
 ◼️
 
 [Data](articles/4a2350bb.json)
+
+[Extended Data](ext_articles/4a2350bb.ext.json)
 
 ---
 
@@ -2217,31 +2307,5 @@ At the same time, President Ranil Wickremesinghe announced last week that he wou
 [Data](articles/d06bbc39.json)
 
 [Extended Data](ext_articles/d06bbc39.ext.json)
-
----
-
-### Another tragedy in India - a large crowd killed
-
-*2024-07-30 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199386) · `si`
-
-A tragic landslide in Kerala, India, has resulted in 93 deaths and numerous missing individuals. The disaster was exacerbated by heavy rainfall, causing severe injuries and increasing the death toll. Authorities have deployed over 200 military personnel for search and rescue efforts.
-
-🟩
-
-It is reported that about 93 persons have died due to a huge landslide in the state of Kerala, South India.
-
-Another large number of others disappeared in landslides, foreign media reports.
-
-Due to the high race, the casualties have been severely disturbed by the injuries.
-
-Authorities warns that the deceased is further increased.
-
-More than 200 military personnel have been deployed for search operations.
-
-◼️
-
-[Data](articles/88896e9f.json)
-
-[Extended Data](ext_articles/88896e9f.ext.json)
 
 ---

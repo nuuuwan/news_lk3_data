@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 20:20:30**
+As of **2024-07-31 20:36:12**
 
 ## Newspaper Stats
 
-*Scraped **38,298** Articles*
+*Scraped **38,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,62 @@ adalk | 3,509
 adaderanalk | 4,431
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,758
-virakesarilk | 6,049
+virakesarilk | 6,053
 adaderanasinhalalk | 6,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,296 (100.0%) of 38,298 articles have been extended.
+38,298 (100.0%) of 38,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ගිනිඅවි එකතු කළ හේතුව සැකකාර මවුලවී හෙළිකරයි
+### The captivity of firearms was revealed to the mother
 
 *2024-07-31 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199422) · `si`
 
-T56 වර්ගයේ ගිනිඅවි දෙකක් සමග මවුලවිවරයෙකු ඔට්ටමාවඩි, නාවල්අඩි මංසන්ධියේදී පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+A man with two T56 firearms was arrested by the STF at Otataveladadaddy Junction. He was later found to be in possession of another T56 firearm and ammunition after his arrest. The suspect, a 43-year-old from Bodiriyawa, Valachchenai, claimed to be a Molevian from Nawalapitiya and stated he obtained the firearms from a former LTTE member.
 
-සැකකරු වැඩිදුර විමර්ශන සඳහා මේ වනවිට ත්‍රස්ත විමර්ශන කොට්ඨාසයට භාරකෙරුණි.
+🟩
 
-ඔට්ටමාවඩි, නාවල්අඩි  ප්‍රදේශයේ පුද්ගලයෙකු යතුරුපැදියකින් ගිනි‍අවියක් රැගෙන ගමන් කරන බවට යුද හමුදා බුද්ධි අංශය පොලිස් විශේෂ කාර්ය බළකායේ අරලගංවිල කඳවුරේ නිලධාරීන්ට තොරතුරක් ලබාදී තිබුණි.
+A moleife with two T56 firearms was arrested by the STF at the Otataveladadaddy Junction.
 
-ඒ අනුව සැකකරු අත්අඩංගුවට ගැනුණු අතර, T56 වර්ගයේ ගිනි අවියක්, මැගසිනයක් හා උණ්ඩ 29ක් ඔහු සන්තකයේ තිබියදී සොයා ගැනුණි.
+The suspect was now in custody for further investigations.
 
-අනතුරුව සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින්වලදී හෙළිවූ තොරතුරු අනුව ඔහුගේ සහෝදරයෙකුගේ නිවසක් පරීක්ෂාවට ලක්කිරීමට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පියවර ගත් අතර, එහි තිබී තවත් T56 වර්ගයේ ගිනි අවියක්, මැගසිනයක් සහ උණ්ඩ 30ක් හමුවී තිබේ.
+The Aralaganwila camp of the Aralaganwila camp that a person in the Ukevidi, Navalpitiya area was carrying a firearm from a motorcycle.
 
-වාලච්චේන, බුදිරියා නගරයේ පදිංචි 43 හැවිරිදි සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔහු පවසා ඇත්තේ, තමා නාවලපිටිය ප්‍රදේශයේ මවුලවිවරයෙක් ලෙස කටයුතු කළ බවය.
+Accordingly, the suspect was arrested, and a T56 firearm, magician and 29 ammunition were recovered.
 
-...
+The suspect's interrogation was then taken by the suspect's resort to the inspection of a brother's home and another T56-type firearm, a magazine and 30 bullets have been found.
+
+In the interrogation of the 43-year-old suspect, a resident of the Bodiriyawa town, Valachchenai said he was a Molevian of Nawalapitiya.
+
+He has said that due to firearms to fire, he had placed the weapons from a former LTTE member.
+
+◼️
 
 [Data](articles/44d38ce4.json)
+
+[Extended Data](ext_articles/44d38ce4.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு சிறிலங்கா சுதந்திர கட்சி ஆதரவு
+
+*2024-07-31 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189943) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக ஸ்ரீலங்கா சுதந்திரக் கட்சி தெரிவித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அரசியல் அமைப்பும் மத்தியக் குழுவும் புதன்கிழமை (31) பிற்பகல் கூடி இவ்விடயம் தொடர்பில் இறுதித் தீர்மானத்தை எடுத்துள்ளது.
+
+கட்சியின் யோசனைகளை ஜனாதிபதிக்கு வழங்கிய பின்னர் இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1f6b1a20.json)
 
 ---
 
@@ -164,6 +188,22 @@ New Zealand athletic Kane Williamsan afternoon. That was 859 runs.
 
 ---
 
+### பாரபட்சமின்றி நாட்டை புதிய கோணத்தில் முன்னோக்கி கொண்டுச் செல்லவே ஜனாதிபதி தேர்தலில் போட்டியிடுகிறேன் - ஜனாதிபதி
+
+*2024-07-31 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189941) · `ta`
+
+பாரபட்சமின்றி நாட்டை புதிய கோணத்தில் முன்னோக்கி கொண்டுச் செல்லவே ஜனாதிபதி தேர்தலில் போட்டியிடுவதாக தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மத்திய அரசாங்கம், 09 மாகாண அரசாங்கங்கள் உள்ளடங்களாக 10 அரசாங்கங்களின் கீழ் உள்ள அனைவருக்கும் பொறுப்புகளை வழங்கி நாட்டை முன்னேற்றுவதாக ஜனாதிபதி உறுதியளித்தார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஐக்கிய தேசியக் கட்சியை பிரதிநிதித்துவப்படுத்தும் மாகாண சபைகளின் முன்னாள் பிரதிநிதிகளுடன் பத்தரமுல்லை வோட்டர்ஸ் எட்ஜ் ஹோட்டலில் புதன்கிழமை (31) இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+இதன்போது, எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்கு அர்ப்பணிப்பதாக ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஐக்கிய தேசியக் கட்சியை பிரதிநிதித்துவப்படுத்தும் 116 மாகாண சபைகளின் முன்னாள் மக்கள் பிரதிநிதிகள் உறுதியளித்தனர்.
+
+...
+
+[Data](articles/70024a10.json)
+
+---
+
 ### Six candidates place deposits for 2024 Presidential Election so far
 
 *2024-07-31 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100901/six-candidates-place-deposits-for-2024-presidential-election-so-far) · `en`
@@ -184,23 +224,31 @@ Furthermore, the Election Commission of Sri Lanka had issued a Gazette on July 2
 
 ---
 
-### ස්වාධීනව ජනපතිවරණයට එන හේතුව ජනපති හෙළි කරයි
+### President reveals independently presidential election
 
 *2024-07-31 18:33:50* · [`adalk`](https://www.ada.lk/breaking_news/ස්වාධීනව-ජනපතිවරණයට-එන-හේතුව-ජනපති-හෙළි-කරයි/11-411126) · `si`
 
-පළාත් ආණ්ඩු 09ක් සහ මධ්‍යම ආණ්ඩුව ඇතුළු ආණ්ඩු 10 යටතේ සියලුදෙනාට වගකීම් පවරමින් රට ඉදිරියට ගෙන යනවා.
+President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, emphasizing his commitment to managing the country's economic challenges and preserving agreements with the International Monetary Fund (IMF). He condemned the assassination of the Hamas political leader, highlighting its potential to worsen tensions in the Middle East. The President also addressed concerns about the country's economic stability, stating that the IMF agreement must be upheld to avoid financial collapse. He expressed gratitude towards former President Mahinda Rajapaksa for supporting his decision to run, and called for unity among political parties to address national issues effectively.
 
-හමාස් දේශපාලන නායකයාගේ ඝාතනය කිසිසේත් අනුමත නොකරන අතර එය තරයේ හෙළා දකිනවා.
+🟩
 
-ඉරානයේ සහ මැද පෙරදිග ඇතුළු ලෝකයේ ඇතිවිය හැකි තත්ත්වයන්ගෙන් ශ්‍රී ලංකා ආර්ථිකයට විය හැකි බලපෑම වළක්වා ගැනීමට දැන් සිටම පියවර ගන්නවා – ජනපති.
+Under the 10 Provincial Governments and the central government, including the 10 government, will be taken advantage of responsibility for all.
 
-ස්වාධීන අපේක්ෂකයෙකු ලෙස තමා මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ පක්ෂග්‍රාහිත්වයෙන් තොරව අලුත් දැක්මක් සහ අලුත් වැඩපිළිවෙළක් ඔස්සේ රට ඉදිරියට ගෙන යාමට බවත් පළාත් ආණ්ඩු 09ක් සහ මධ්‍යම ආණ්ඩුව ඇතුළු ආණ්ඩු 10 ඔස්සේ සියලුදෙනාට වගකීම් පවරමින් එම කටයුතු ඉදිරියට ගෙන යන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The murder of the Hamas political leader is no longer approved by no means and strongly condemn it.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකා පොදුජන පෙරමුණ සහ එක්සත් ජාතික පක්ෂය නියෝජනය කරමින් පළාත් සභාවල හිටපු මහජන නියෝජිතයන් සමඟ අද (31) බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයේ පැවති හමුවේදීය.
+The world of Iran and the Middle East will now take steps to prevent the influence of the Sri Lankan economy - President.
+
+President Ranil Wickremesinghe said that he would take responsibilities on the country and the 10 provincial governments as an independent candidate.
+
+The President was speaking at a meeting with former public representatives of the Sri Lanka General Front and the UNP.
+
+Former Western Province Chief Minister Isuru Devapriya presented the proposal to join the victory of President Ranil Wickremesinghe in the next presidential election.. M. R. 116 former people's representatives of the provincial councils were lifted and firm.
 
 ...
 
 [Data](articles/dd2c1913.json)
+
+[Extended Data](ext_articles/dd2c1913.ext.json)
 
 ---
 
@@ -311,6 +359,26 @@ The Special Committee on National Security includes Minister of Public Security 
 [Data](articles/3c0149f3.json)
 
 [Extended Data](ext_articles/3c0149f3.ext.json)
+
+---
+
+### பொதுஜன பெரமுனவால் எம்மை கட்சியிலிருந்து நீக்க முடியாது - திலும் அமுனுகம
+
+*2024-07-31 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189924) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்தமைக்காக ஒழுக்காற்று நடவடிக்கை எடுத்து எமது உறுப்புரிமையை நீக்குவது இலகுவான விடயமல்ல. நீதிமன்றத்தின் ஊடாக இதற்கான நடவடிக்கைகள் எடுக்கும் போது பாராளுமன்றத்தின் ஆயுட்காலமும் நிறைவடைந்துவிடும்.
+
+எனவே முடிந்தால் பொதுஜன பெரமுன எமது உறுப்புரிமையை நீக்கிக் காட்டட்டும் என வர்த்தகம் மற்றும் முதலீட்டு ஊக்குவிப்பு அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டின் பின்னர் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+உறுப்புரிமையை நீக்குவது இலகுவான விடயமல்ல. அவர்களால் அவ்வாறு எதனையும் செய்ய முடியாது. மாறாக அதற்கான நடவடிக்கை எடுக்கப்பட்டாலும் நீதிமன்றத்துக்குச் சென்றால் வழக்கு விசாரணைகள் குறுகிய காலத்துக்குள் நிறைவடையாது. எனவே சட்ட ரீதியாக எமது உறுப்புரிமையை நீக்குவதற்கு முன்னரே பாராளுமன்றத்தின் ஆயுட்காலமும் நிறைவடைந்துவிடும்.
+
+நாட்டில் அரசியல் நெருக்கடிகளால் வன்முறை உச்சகட்டத்திலிருந்த போது பிரதமர் பதவியை ஏற்குமாறு விடுத்த அழைப்பை எவரும் ஏற்கவில்லை.
+
+...
+
+[Data](articles/349075f1.json)
 
 ---
 
@@ -427,6 +495,22 @@ Meanwhile, 116 members of the Sri Lanka PA and the United National Party (UNP) h
 [Data](articles/72d55030.json)
 
 [Extended Data](ext_articles/72d55030.ext.json)
+
+---
+
+### உயர் நீதிமன்றம் வழங்கிய தீர்ப்பொன்றை கலந்துரையாடி  தீர்த்துக்கொள்ளுமாறு தெரிவிக்க பிரதிவாதிக்கு முடியாது - ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய
+
+*2024-07-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189893) · `ta`
+
+உயர் நீதிமன்றத்தினால் தீர்ப்பொன்று வழங்கிய பின்னர். அந்த தீர்ப்பு தொடர்பாக பிரதம நீதியரசருடன் அல்லது வேறு நீதியரசர்களுடன் கலந்துரையாடி இதனை தீர்த்துக்கொள்ளுமாறு தெரிவிக்க  பிரதிவாதிக்கு முடியாது. அவ்வாறு தெரிவிப்பதற்கு முடியும் என நாங்கள் எந்த சட்டப் புத்தகத்திலும் கற்றுக்கொண்டதில்லை என ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய தெரிவித்தார்.
+
+அமைப்பு மாற்றத்துக்கான சட்ட மறுசீரமைப்பு தேசிய மாநாடு செவ்வாய்க்கிழமை (30) கொழும்பில் இடம்பெற்றது. இதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+நாட்டில் இருக்கும் நீதிமன்றங்களில் உயர் நீதிமன்றத்துக்கு மேல் வேறு நீதிமன்றம் இல்லை. ஆனால் தற்காலத்தில் உயர் நீதிமன்ற தீர்ப்புகளை நாங்கள் மதிக்கிறோமா என்ற கேள்வி எங்களுக்குள் எழுகிறது. அவ்வாறான நிலையில் மனசாட்சிக்கு உட்பட்டு பதில் அளிப்பதாக இருந்தால் இல்லை என்றே தெரிவிக்க வேண்டி இருக்கிறது. இதுமிகவும் கவலைக்குரிய விடயமாகும். கடந்த 10 வருடங்களாக நீதித்துறையுடன் நான் தொடர்புடையவனாக  இருக்கின்றபோதும் இவ்வாறானதொரு நிலையை நான் கண்டதில்லை.
+
+...
+
+[Data](articles/d0fa0e65.json)
 
 ---
 
@@ -2191,97 +2275,5 @@ In the meantime, she requested the sports funeralian to stay with the team in th
 [Data](articles/5df8c439.json)
 
 [Extended Data](ext_articles/5df8c439.ext.json)
-
----
-
-### Moulavi is not with weapons
-
-*2024-07-31 10:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மௌலவி-மாட்டினார்/73-341332) · `ta`
-
-A Moulavi was arrested in Batticaloa's Manjolai area, with the STF seizing two T.56 guns, sixty bullets, two gourds, binoculars, and motorcycles based on intelligence. The suspect, a 43-year-old from Ottamavadi, was linked to the Karuwadu business and found burying ammunition in his garden.
-
-🟩
-
-A Moulavi has been arrested in Manjolai area in Batticaloa, the Task Force said.
-
-The Aralangwila Special Task Force said that two T.56 guns, sixty bullets, two gourds, one binoculars and motorcycles were arrested on a confidential information received by the Army Intelligence Unit of the Polonnaruwa Military Intelligence Unit.
-
-The Special Task Force (STF) said that the 43 -year -old from Ottamavadi, Ottamavadi, who was arrested, was involved in the Karuwadu business.
-
-The T56 rifle's sixty rounds and two magazines and binoculars were put in the text bag and buried in the garden, he was arrested while carrying it on a motorcycle.
-
-◼️
-
-[Data](articles/b3e2e8e7.json)
-
-[Extended Data](ext_articles/b3e2e8e7.ext.json)
-
----
-
-### Arrested with weapons in banana
-
-*2024-07-31 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189868) · `ta`
-
-A 43-year-old man was arrested in Baduriya Nagar with two rifles, a sword, and ammunition. The arrest was part of a roundup by the Special Task Force and Military Intelligence Unit. The Valaichenai police plan to take him to court.
-
-🟩
-
-A man has been arrested on Tuesday night (30) with weapons in Baduriya Nagar, belonging to the Valaichenai police division, police said.
-
-A 43 -year -old man has been arrested during a roundup, according to confidential information received by Special Task Force and Military Intelligence Unit.
-
-Two rifles, one sword, rifles 60 and Megaseen 2 were seized from the arrested person.
-
-In addition, the Valaichenai police are taking steps to bring the arrested person and weapons to the court.
-
-◼️
-
-[Data](articles/e87754ee.json)
-
-[Extended Data](ext_articles/e87754ee.ext.json)
-
----
-
-### Sri Lanka has less than 10-pct female pilots, compared to India’s 40-pct: Official
-
-*2024-07-31 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-less-than-10-pct-female-pilots-compared-to-indias-40-pct-official-174453/) · `en`
-
-ECONOMYNEXT – Sri Lanka has fewer than 10 percent of female pilots, Chairman of Sri Lanka Airport and Engineering Services, Athula Galketiya, said.
-
-“In Sri Lanka it’s less than 10 percent but in India you get around 30 percent or 40 percent,” Galketiya told reporters on Monday.
-
-“In Sri Lanka, it’s very hard to get into the industry of piloting.”
-
-Galketiya said that approximately 25 to 30 percent of Sri Lanka’s air traffic controllers are women.
-
-The country has faced the resignation of air traffic controllers due to salary issues. Galketiya said 80 have left the country.
-
-In response, the government has decided to recruit new Air Traffic Controllers. “So far, a team of over 25 has been recruited, trained, and assigned to duty. Additionally, applications for another group have already been called.”
-
-◼️
-
-[Data](articles/37f0a300.json)
-
-[Extended Data](ext_articles/37f0a300.ext.json)
-
----
-
-### The value of Sri Lanka's halal certified exports in 2023 is $ 1.7 billion!
-
-*2024-07-31 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189856) · `ta`
-
-In 2023, Sri Lanka's halal certified exports reached $1.7 billion, accounting for 61% of food and drink exports and 14% of the country's total exports. Notably, halal tea made up $1.29 billion, with processed foods contributing $191 million. Over 2012-2023, these exports grew at a 10% CAGR, highlighting global demand. Major markets included OIC countries ($501 million) and non-OIC ones ($382.74 million). The Halal Certification body (HAC) played a crucial role, winning awards for its efforts to enhance Sri Lanka's presence in the global halal market, valued at $2 trillion.
-
-🟩
-
-The exports of Halal certified products in Sri Lanka in 2023 are estimated at $ 1.7 billion. This achievement shows a significant part of the country's export economy with halal dishes. It is 61% of the total exports of food and drinks and 14% of the country's overall exports.
-
-It is worth noting that in 2023, Sri Lanka's halal certified tea is worth $ 1.29 billion.. In accordance with this, the progressive segment has been available for US $ 191 million through processed fruits and other eaten plant parts, including seeds.. It has received $ 111 million in the last year, with processed food and drinks, juices, sauces, sauces, sausages, soups and ice creams last year.
-
-...
-
-[Data](articles/1596abfa.json)
-
-[Extended Data](ext_articles/1596abfa.ext.json)
 
 ---

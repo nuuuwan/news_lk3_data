@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 06:46:22**
+As of **2024-07-31 07:06:43**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 6,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,143 (100.0%) of 38,160 articles have been extended.
+38,150 (100.0%) of 38,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-07-31 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199391) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that there will be showers at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
 
-බදුල්ල , අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at a few night or night in Badulla, Ampara and Batticaloa districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇති වේ.
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. There are about 50-55-strong winds.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+From time to time in the rest of the island.. Strong winds can occur 30-40 times.
 
 ◼️
 
 [Data](articles/e1e94407.json)
+
+[Extended Data](ext_articles/e1e94407.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ HSBC Sri Lanka & Maldives Chief Executive Officer Mark Surgenor, has been electe
 ...
 
 [Data](articles/95891f95.json)
+
+[Extended Data](ext_articles/95891f95.ext.json)
 
 ---
 
@@ -112,6 +116,8 @@ Government agencies, including the Department of Archaeology, the military, and 
 
 [Data](articles/f174a10b.json)
 
+[Extended Data](ext_articles/f174a10b.ext.json)
+
 ---
 
 ### Gammanpila questions SLPP’s move to withdraw support for President
@@ -133,6 +139,8 @@ Addressing a press conference yesterday, Gammanpila said the SLPP’s decision t
 ...
 
 [Data](articles/13c3a174.json)
+
+[Extended Data](ext_articles/13c3a174.ext.json)
 
 ---
 
@@ -156,6 +164,8 @@ Addressing the media yesterday after several key meetings at the party headquart
 
 [Data](articles/d41a2d81.json)
 
+[Extended Data](ext_articles/d41a2d81.ext.json)
+
 ---
 
 ### Cabinet nod to gazette Bill on Commission for Truth, Unity and Reconciliation in Sri Lanka
@@ -174,6 +184,8 @@ The joint proposal presented by President Ranil Wickremesinghe in his capacity a
 
 [Data](articles/f9023d55.json)
 
+[Extended Data](ext_articles/f9023d55.ext.json)
+
 ---
 
 ### Cabinet approves to gazette Bill to amend National Transport Commission Act
@@ -191,6 +203,8 @@ He said the proposed amendments aim to extend the regulatory authority of the Na
 ...
 
 [Data](articles/ffe017cc.json)
+
+[Extended Data](ext_articles/ffe017cc.ext.json)
 
 ---
 

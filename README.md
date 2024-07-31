@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 22:54:41**
+As of **2024-07-31 23:07:44**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,315 (100.0%) of 38,318 articles have been extended.
+38,318 (100.0%) of 38,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### பால்மாவின் விலையைக் குறைப்பது தொடர்பாக இறக்குமதியாளர்களுடன் கலந்துரையாடல் - நளீன் பெர்னாண்டோ
+### Discussion with importers on reducing price of milk - Nalin Fernando
 
 *2024-07-31 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189947) · `ta`
 
-பால்மா இறக்குமதியாளர்களுடன் பால்மாவின் விலையைக் குறைப்பது தொடர்பில் அடுத்த சில தினங்களில் கலந்துரையாடல் நடத்தக்கூடும் என வர்த்தக மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நளீன் பெர்னாண்டோ செவ்வாய்க்கிழமை (30) தெரிவித்துள்ளார்.
+Nalin Fernando, Commerce and Food Security Minister, announced plans to reduce milk prices through discussions with importers. He directed the Consumer Affairs Authority to calculate the new price, aiming to offer concessions to consumers.
 
-இதன்படி, பால்மாவின் விலையைக் குறைக்க எதிர்பார்த்துள்ளதாகத் தெரிவித்த அமைச்சர், விலையைக் கணக்கிடுமாறும் நுகர்வோர் அதிகார சபைக்குப் பணிப்புரை விடுத்துள்ளார்.
+🟩
 
-நுகர்வோருக்குத் தேவையான சலுகைகளை வழங்குவதற்கு இறக்குமதியாளர்களுடன் கலந்துரையாடவுள்ளதாகவும் அமைச்சர் நளீன் பெர்னாண்டோ குறிப்பிட்டுள்ளமை குறிப்பிடத்தக்கது.
+Commerce and Food Security Minister Nalin Fernando said on Tuesday (30) that discussions would be held in the next few days on the reduction of the price of milk with milk importers.
+
+Accordingly, the minister said that he was looking forward to cutting the price of milk and issued a directive to the Consumer Affairs Authority to calculate the price.
+
+Minister Naleen Fernando has stated that he will discuss with the importers to provide the necessary concessions to the consumers.
 
 ◼️
 
 [Data](articles/7ebde8a8.json)
+
+[Extended Data](ext_articles/7ebde8a8.ext.json)
 
 ---
 
@@ -92,21 +98,29 @@ The decision was made during a discussion that followed the party's ideas to the
 
 ---
 
-### தேர்தலுக்கு முன் ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் -  ஜனாதிபதியிடம் கோரியுள்ள இளம் எம்.பி.
+### Do not submit the Corruption Bill before the election
 
 *2024-07-31 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189931) · `ta`
 
-ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என இளம் பாராளுமன்ற உறுப்பினர் ஒருவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+A young parliamentarian urges President Ranil Wickremesinghe to delay submitting the Corruption Bill to the Cabinet until after the upcoming election. The President plans to consult with senior ministers and make a decision within two days.
 
-ஊழல் ஒழிப்பு சட்டமூலத்தை எதிர்வரும் இரு வாரங்களுக்குள் அமைச்சரவையில் சமர்பிப்பதற்கான அனைத்து நடவடிக்கைகளும் நிறைவடைந்துள்ள நிலையிலேயே, இந்த நாட்களில் பரபரப்பாகப் பேசப்படும் இளம் எம்.பி. இந்தக் கோரிக்கையை முன்வைத்துள்ளார்.
+🟩
 
-அண்மையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தொலைபேசியில் அழைப்பு விடுத்துள்ள குறித்த பாராளுமன்ற உறுப்பினர், ஊழல் ஒழிப்பு சட்டமூலத்தை ஜனாதிபதி தேர்தலுக்கு முன்னர் அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என கோரிக்கை விடுத்துள்ளார்.
+A young parliamentarian has asked President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet.
 
-எம்.பி.யின் கோரிக்கை தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரசாங்கத்தின் சிரேஷ்ட அமைச்சர்களுடன் கலந்துரையாடி அடுத்த இரண்டு நாட்களுக்குள் தீர்மானம் எடுப்பார் என ஜனாதிபதி செயலகத் தகவல்கள் தெரிவிக்கின்றன.
+The young MP, which is widely spoken of these days, has been completed as the Corruption Bill will be submitted to the Cabinet within the next two weeks.. He has made this request.
 
-...
+Recently, a Member of Parliament has called for President Ranil Wickremesinghe to be sent to the Cabinet before the presidential election before the presidential election.
+
+President Ranil Wickremesinghe will discuss with the senior ministers of the government and take a decision within the next two days, according to the Presidential Secretariat.
+
+It is noteworthy that the Cabinet decision was announced at a press conference announcing that the Corruption Bill would be passed in the Cabinet under the administration of President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/0b6f0c67.json)
+
+[Extended Data](ext_articles/0b6f0c67.ext.json)
 
 ---
 
@@ -382,19 +396,25 @@ The magistrate has subsequently adjourned the case to September 11. Remble
 
 ---
 
-### ජනපතිවරණයට 6ක් ඇප තැන්පත් කරයි
+### Six of the presidential election deposits
 
 *2024-07-31 19:44:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-6ක්-ඇප-තැන්පත්-කරයි/11-411131) · `si`
 
-ජනාධිපතිවරණයට අදාළව අද (31දා)  වන විට  අපේක්ෂකයන් හය දෙනෙක ඇප මුදල් තැන්පත් කර තිබෙන බව මැතිවරණ කොමිසම සඳහන් කරයි. පසුගිය 26 වැනි දින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු අපේක්ෂකයන් හතර දෙනෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් තර  තිබේ.
+By the deadline, six candidates including President Ranil Wickremesinghe and Sajith Premadasa have submitted their deposits for the 31st presidential election. Four political parties have endorsed independent candidates, and two electorates have voted for two candidates.
 
-අද සජිත් ප්‍රේමදාස මහතා  හා තවත් අපේක්ෂකයෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම සිදුකර ඇත.
+🟩
 
-මේ අනුව පිළිගත් දේශපාලන පක්ෂ හතරක් වෙනුවෙන් හා  ස්වාධීන අපේක්ෂකයන් ලෙස දෙදෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.ඇප මුදල් තැන්පත් කළ පිළිගත් දේශපාලන පක්ෂ වන්නේ  සමගි ජන බලවේගය, ජාතික සංවර්ධන පෙරමුණ,ශ්‍රී ලංකා කම්කරු පක්ෂය  හා අභිනව නිවහල් පෙරමුණ වේ. ඉතිරි අපේක්ෂකයන් දෙදෙනා වෙනුවෙන්  ඡන්ද හිමියන් දෙදෙනෙකු විසින් ඇප මුදල් තැන්පත් කර තිබේ.
+The Elections Commission states that six candidates have deposited by six candidates by the 31st presidential election.. On the 26th, the 26th of the 26th President Ranil Wickremesinghe and four candidates have been buried.
+
+Today, the deposit of Sajith Premadasa and another candidate have been deposited.
+
+Accordingly, four recognized political parties have backed up as independent candidates.. Two electorates have been deposited by two voters for the two candidates.
 
 ◼️
 
 [Data](articles/02f98ca0.json)
+
+[Extended Data](ext_articles/02f98ca0.ext.json)
 
 ---
 

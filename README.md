@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 09:54:23**
+As of **2024-07-31 10:05:39**
 
 ## Newspaper Stats
 
-*Scraped **38,173** Articles*
+*Scraped **38,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,132 @@ adalk | 3,491
 adaderanalk | 4,416
 tamilmirrorlk | 4,733
 dailymirrorlk | 4,733
-virakesarilk | 6,020
-adaderanasinhalalk | 6,427
+virakesarilk | 6,023
+adaderanasinhalalk | 6,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,170 (100.0%) of 38,173 articles have been extended.
+38,173 (100.0%) of 38,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### கிரேண்ட்பாஸ் இரட்டைக்கொலை: மூவர் கைது
+### ஹமாஸ் சிரேஷ்ட தலைவர் ஈரானில் படுகொலை
+
+*2024-07-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189858) · `ta`
+
+ஹமாஸ் அமைப்பின் சிரேஷ்ட தலைவரான இஸ்மாயில் ஹனியே ஈரானில் இன்று புதன்கிழமை (31) படுகொலை செய்யப்பட்டுள்ளார்.
+
+ஈரான் தலைநகர் தெஹ்ரானில் அவர் தங்கியிருந்த வீட்டில் இஸ்மாயில் ஹனியே இன்றைய தினம் படுகொலை செய்யப்பட்டுள்ளார். இஸ்மாயிலுடன் சேர்த்து அவரது மெயப்பாதுகாவலரும் கொலை செய்யப்பட்டுள்ளார்.
+
+இதேவேளை, ஹமாஸ் அமைப்பின் தலைவர் இஸ்மாயில் ஹனியே ஈரானில் நடந்த தாக்குதலில் கொல்லப்பட்டதாக அந்த அமைப்பு தெரிவித்துள்ளது.
+
+ஹமாஸ் அமைப்பு புதன்கிழமை வெளியிட்ட அறிக்கையில், தெஹ்ரானில் உள்ள அவரது இல்லத்தில் இஸ்ரேல் நடத்திய தாக்குதலில் ஹனியே கொல்லப்பட்டதாக தெரிவித்துள்ளது.
+
+செவ்வாய்க்கிழமை புதிய ஈரானின் புதிய ஜனாதிபதி பதவியேற்பு விழாவில் பங்கேற்ற பின்னர் ஹனியே கொல்லப்பட்டதாக அந்த அமைப்பு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/01879617.json)
+
+---
+
+### සජිත් ඇප තියයි
+
+*2024-07-31 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199398) · `si`
+
+සමගි ජන බලවේගයේ ජනාධිපති අපේක්ෂයා ලෙස සජිත් ප්‍රේමදාස මහතා නම් කර තිබේ.
+
+ඒ අනුව එම පක්ෂයේ ලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා ඇතුළු පිරිසක් අද (31) උදෑසන මැතිවරණ කොමිෂන් සභාව වෙත ගොස් ඇප මුදල් තැන්පත් කළේය.
+
+◼️
+
+[Data](articles/5d07c55a.json)
+
+---
+
+### கொழும்பு - கிராண்ட்பாஸில் இருவர் சுட்டுக்கொலை : துப்பாக்கிதாரி உள்ளிட்ட மூவர் கைது !
+
+*2024-07-31 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189857) · `ta`
+
+கொழும்பு - கிராண்ட்பாஸ் பகுதியில் இருவர் சுட்டுக்கொல்லப்பட்ட சம்பவம் தொடர்பில் மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கொலையைச் செய்த துப்பாக்கிச் சூடு நடத்தியவர், மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் கொலைக்கு உதவியவர் என மூவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஒருகொடவத்தை  மற்றும் வெல்லம்பிட்டிய பகுதியைச்  சேர்ந்த  26, 37 மற்றும் 45 வயதுடைய மூவரே கைது செய்யப்பட்டுள்ளனர்.
+
+கடந்த 25 ஆம் திகதி வதுல்லவத்தை புரதர செவன அடுக்குமாடி குடியிருப்புக்கு முன்பாக முச்சக்கர வண்டியில் சென்ற நபர் ஒருவரும் பெண்ணும் சுட்டுக்கொல்லப்பட்டனர்.
+
+◼️
+
+[Data](articles/c5bdf883.json)
+
+---
+
+### Grandpass doubles: trio arrested
 
 *2024-07-31 09:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரேண்ட்பாஸ்-இரட்டைக்கொலை-மூவர்-கைது/175-341322) · `ta`
 
-கொழும்பு, கிரேண்ட்பாஸ் பகுதியில் இருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Colombo's Grandpass, three suspects aged 26, 37, and 45, including a shooter and an accomplice, were arrested for murdering a man and a woman on a motorbike near an apartment on the 25th.
 
-துப்பாக்கிச் சூடு நடத்தியவர், மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் கொலைக்கு உதவிய மற்றுமாரு நபர் ஆகியோரே கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-ஒருகொடவத்தை மற்றும் வெல்லம்பிட்டிய பிரதேசத்தைச் சேர்ந்த 26, 37 மற்றும் 45 வயதுடைய மூவரே கைது செய்யப்பட்டதாக பொலிஸார் கூறியுள்ளனர்.
+Three suspects have been arrested in connection with the murder of two people in the Grandpass area in Colombo, police said.
 
-கிரேண்ட்பாஸ் பகுதியில் உள்ள அடுக்குமாடி குடியிருப்புக்கு முன்பாக முச்சக்கர வண்டியில் சென்ற நபர் ஒருவரும் மற்றும் பெண்ணும் கடந்த 25ஆம் திகதி சுட்டுக்கொலை செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+The shooter, a motorcycle driver and a man who assisted the murder have been arrested.
+
+The three men aged 26, 37 and 45 from Okodavatta and Wellampitiya area have been arrested, police said.
+
+A man and a woman who went in a three -wheeler in front of the apartment in the Grandpass area were shot dead on the 25th.
 
 ◼️
 
 [Data](articles/210783fd.json)
 
+[Extended Data](ext_articles/210783fd.ext.json)
+
 ---
 
-### තවත් තරුණ ජීවිත﻿ දෙකක් අහිමිවෙයි
+### 2023 இல் இலங்கையின் ஹலால் சான்றளிக்கப்பட்ட ஏற்றுமதிகளின் பெறுமதி 1.7  பில்லியன் அமெரிக்க டொலர்கள் !
+
+*2024-07-31 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189856) · `ta`
+
+2023 ஆம் ஆண்டில் இலங்கையின் ஹலால் சான்றளிக்கப்பட்ட தயாரிப்புகளின் ஏற்றுமதிகள் 1.7 பில்லியன் அமெரிக்க டொலர்கள் என மதிப்பிடப்பட்டுள்ளது. இந்த சாதனையானது நாட்டின் ஏற்றுமதி பொருளாதாரத்தின் கணிசமான பகுதியை ஹலால் உணவுகள் கொண்டிருப்பதை காண்பிக்கின்றது. இது மொத்தமாக உணவு மற்றும் பானங்கள் ஏற்றுமதியில் 61% ஆனவை என்பதோடு, நாட்டின் ஒட்டுமொத்த ஏற்றுமதியில் 14% ஆக அமைகின்றது.
+
+2023 ஆம் ஆண்டில் 1.29 பில்லியன் அமெரிக்க டொலர்கள் பெறுமதி கொண்ட இலங்கையின் ஹலால் சான்றளிக்கப்பட்ட தேயிலை இதில் முன்னணி வகிக்கின்றது என்பது குறிப்பிடத்தக்கது. இதனுடன் இணைந்தவாறு, முன்னேற்றம் கண்டு வரும் பிரிவான பதப்படுத்தப்பட்ட பழங்கள், விதைகள் உள்ளிட்ட ஏனைய உண்ணக்கூடிய தாவரப் பாகங்கள் ஆகியவற்றின் மூலம் 191 மில்லியன் அமெரிக்க டொலர்கள் கிடைக்கப் பெற்றுள்ளன. அது மாத்திரமன்றி, பதப்படுத்தப்பட்ட உணவு மற்றும் பானங்கள், சாறுகள், சுவையூட்டிகள், செறிவூட்டிகள், சோஸ்கள், சூப்கள், ஐஸ்கிரீம்கள் ஆகியன கடந்த வருடத்தில் 111 மில்லியன் அமெரிக்க டொலர்களை பெற்றுத் தந்துள்ளன.
+
+...
+
+[Data](articles/1596abfa.json)
+
+---
+
+### Two more young lives are lost
 
 *2024-07-31 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199397) · `si`
 
-පොලීසිය පැවසුවේ, ඊයේ දහවල් නොච්චියාගම පොලිස් වසමේ පුත්තලම - ත්‍රිකුණාමලය මාර්ගයේ නොච්චියාගම නගරයේ දී පුත්තලම සිට අනුරාධපුරය දෙසට ධාවනය වූ යතුරු පැදියක් බස් නැවතුමක නවතා තිබූ බස් රථයකට ඉස්සර කිරීමට ගොස් අනතුරක් සිදුව ඇති බවය.
+In two separate incidents, two young individuals tragically lost their lives due to motor accidents. The first occurred when a parked motorcycle near Nechchiyagama was hit by a passing bus, causing the female passenger to be thrown onto the bus. The second incident involved a motorcyclist who failed to control his vehicle on the Kumbukwewa road, leading to the tragic death of a 21-year-old from Pusselithanna.
 
-එම අවස්ථාවේ දී බසයට පිටුපසින් පැමිණි තවත් බස් රථයක් නවතා තිබූ බසයට හා යතුරුපැදියට ඉස්සර කිරීමේ දී යතුරුපැදියේ ගැටී ඇත.
+🟩
 
-එහිදී යතුරුපැදියේ පිටුපස සිටි කාන්තාව විසි වී ගොස් බස් රථයේ පිටුපස රෝදයට යට වී ජීවිතක්ෂයට පත්ව ඇත.
+According to the police, a motorbike that was parked in Nechchiyagama to Anuradhapura on the Nochchiyagama road on the Puttalam-Trincomalee police division of the Nochchiyagama road.
 
-මේ අතර කුඹුක්ගැටේ ඉබ්බාගමුව මඩගල්ල මාර්ගයේ කුඹුක්වැව ප්‍රදේශයේ දී මඩගල්ල දෙස සිට ඉබ්බාගමුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව අනතුරක් සිදුව තිබේ.
+On the occasion, another bus from the bus came to the bus and motorcycle in front of the bus and motorcycle.
 
-යතුරුපැදිය මාර්ගයේ පෙරළී ගොස් ඇති අතර, අනතුරින් 21 හැවිරිදි පුස්සැලිතැන්න ප්‍රදේශයේ පදිංචිකරුවෙක් ජීවිතක්ෂයට පත්ව ඇත.
+The woman in the back of the motorcycle was thrown into the back of the bus.
+
+Meanwhile, a motorcycle traffic is not controlling in Kumbukwewa road in Kumbukwewa road road on the Ibbagamuwa road on the Ibbagamuwa road road in Kumbukutta Ibbagamuwa road
+
+The motorcyclination roof was toppled and a 21 year old resident of Pusselithanna.
 
 ◼️
 
 [Data](articles/8b8c96df.json)
+
+[Extended Data](ext_articles/8b8c96df.ext.json)
 
 ---
 
@@ -1300,21 +1378,27 @@ He also said that he was ready to support him in the presidential election, supp
 
 ---
 
-### හෙද සමුළුවේ නීති විරෝධී වැඩක් සිදු වුණේ නෑ
+### Nursing conference took place
 
 *2024-07-30 18:44:32* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සමුළුවේ-නීති-විරෝධී-වැඩක්-සිදු-වුණේ-නෑ/11-411099) · `si`
 
-හෙද හෙදියන්ගේ සමුළුවේ දී කිසිදු නීති විරෝධි වැඩක් සිදුව නොමැති බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අද පුවත්පත කළ විමසීමකදී පැවසීය.
+Anura Kumara Dissanayake, leader of the National Zoo, clarified that the Nurses Nadian Summit was a lawful event, part of the Annual Summit of the Nurses Association, and attendees were legally entitled to take leave from work. He emphasized the importance of distinguishing between political discussions in schools and professional gatherings like the nursing conference.
 
-එය ජාතික ජනබලවේගයට අනුබද්ධ හෙද සංගමයේ වාර්ෂික සමුළුව බවත්, ඒ සඳහා තමන්ට කරන ලද ආරාධනය මත එහි ගිය බවත් දිසානායක මහතා ප්‍රකාශ කළේය.
+🟩
 
-ඔවුන්ට රාජකාරි නිවාඩු ලබා දීමට අදාළ ලිපි ලේඛන ද තමන් සතු බව ජාතික ජනබලවේගයේ නායකයා සඳහන් කළේය.
+Leader of the National Zoo, Anura Kumara Dissanayake said that there was no lawlessness at the Nurses Nadian Summit.
 
-"පාසල් දරුවන් නිල ඇඳුමින් ඉන්නකොට පාසල් තුළට ගිහිල්ලා දේශපාලනය කතා කරනවා, ජනාධිපතිවරයාත් පාසල්වලට යනවා. ඒ අවස්ථාවල දේශපාලනය කතා කරනවා. මේ අපේ හෙද වෘත්තීය සංගම්වල වාර්ෂික හෙද සමුළුව. එය ජාතික ජනබලවේගයට අනුබද්ධ වෘත්තිය සමිති සමුළුවක් නිසා මට ආරාධනා කළා, ඊට සහභාගි වෙන්න. ඔවුන්ට එදාට රාජකාරි නිවාඩු ලබාදෙනවා. මෙහිදී කිසිදු නීති විරෝධි වැඩක් වෙලා නෑ. මෙය කිසිසේත්ම මැතිවරණ නීති උල්ලංඝනය කිරීමක් නෙමෙයි. එය නීත්‍යනුකූල සමුළුවක්."
+Mr. Dissanayake said that it was the Annual Summit of the Nurses Association affiliated with the national immense Nursing Association and it was on the invitation to it.
+
+The leader of the national popularity stated that he had the documents relating to the leave of work.
+
+"School children go to schools and go to schools, speaking politics and talk politics in schools. Politics at that time speak. The Annual Nursing Conference of Our Nursing Associations. It was invited to attend a professional union summit for national immiguity, attending it. They will leave their duties leave. No illegal. This is not a violation of election laws. It is a legal convention. "
 
 ◼️
 
 [Data](articles/ccb86644.json)
+
+[Extended Data](ext_articles/ccb86644.ext.json)
 
 ---
 
@@ -2205,107 +2289,5 @@ The 14-year-old Afraid of Kerala, India, went to swim in a reservoir near his ho
 [Data](articles/65638542.json)
 
 [Extended Data](ext_articles/65638542.ext.json)
-
----
-
-### Injunction preventing SLFP from removing Amaraweera and others further extended
-
-*2024-07-30 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100878/injunction-preventing-slfp-from-removing-amaraweera-and-others-further-extended) · `en`
-
-The Colombo District Court has ordered to further extend the interim injunction order issued preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, until October 9.
-
-The Colombo District Judge Sandun Withana issued this order when a plaint filed by the relevant MPs was taken up today (30).
-
-Petitioners Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera claim that the decision taken by former President Maithripala Sirisena and others to arbitrarily remove them from their positions in the SLFP was completely unlawful.
-
-They have filed these petitions before the Colombo District Court seeking an order to invalidate those decisions of the SLFP executive committee.
-
-...
-
-[Data](articles/6e63be26.json)
-
-[Extended Data](ext_articles/6e63be26.ext.json)
-
----
-
-### Sri Lanka to change Port City Commission law to boost investments
-
-*2024-07-30 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-change-port-city-commission-law-to-boost-investments-174462/) · `en`
-
-ECONOMYNEXT – Sri Lanka will bring an amendment to its Port City Economic Commission Act No 11 of 2021, to make the  special economic zone a globally competitive specialized economic zone, a Cabinet statement said.
-
-The Act needed to be amended “in order to enable the maximization the feasibility of the Port City as a globally competitive specialized economic zone”.
-
-The changes are meant to eliminate existing obstructions for “commencement of business operations as shown by the investors”.
-
-Most of the regulations that govern the special economic zone are already in place allowing a number of businesses to start operations.
-
-Several businesses including software firms which were approved to operated from the Port City are running at designated locations, pending the construction of buildings.
-
-The Colombo Port City is to be a ‘dollarized’ special economic zone.
-
-...
-
-[Data](articles/e1af76f0.json)
-
-[Extended Data](ext_articles/e1af76f0.ext.json)
-
----
-
-### Sakatu Mani is not going to head to talk
-
-*2024-07-30 15:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சகட்டு-மேனி-பேச்சுக்கு-தலைசாய்க்க-போவதில்லை/71-341284) · `ta`
-
-I'm unable to perform tasks or generate responses outside my designed capabilities as a programming and technical assistance tool within a VSCode extension.
-
-🟩
-
-Eelam People's Party media spokesman Iyathurai Srirangeshwaran said that the alleged agreement with the seven parties was a deal with civil organizations, not a contract for the political settlement of the Tamil people.
-
-He was speaking at a media briefing held at the Jaffna Media Center on Tuesday (30).
-
-In this regard, he added: “The contract signed by the seven groups that recently claimed to be civil organizations and the scattered groups is an example of the fact that they deceived the Tamil people beyond the fact that the changing governments deceived the Tamil people.
-
-It is natural for the two countries to signed up and make a common agreement when there are two race and two religious people who are incompatible among themselves.
-
-But there are seven groups here and some of the civil society, so they have signed a contract with a Tamil general candidate in the presidential election.
-
-...
-
-[Data](articles/2149822c.json)
-
-[Extended Data](ext_articles/2149822c.ext.json)
-
----
-
-### Ranil's accusation has been made by the PA - the United National Party
-
-*2024-07-30 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189801) · `ta`
-
-The United National Party (PA) denies accusations that Ranil Wickremesinghe is protecting Rajapakse, stating he will run as an independent in the upcoming presidential election. The PA supports Wickremesinghe, highlighting his leadership experience and international connections. Despite opposition claims, the PA asserts Wickremesinghe's commitment to rebuilding the country, contrasting with potential risks of appointing inexperienced candidates.
-
-🟩
-
-The Opposition's allegation that Ranil is protecting Rajapakse by the PA is not supportive of Ranil Wickremesinghe.
-
-Former United National Party (UNP) parliamentarian Lakshman Vijayamanna said that Ranil Rajapaksa's campaign was also false.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (30).
-
-The Sri Lanka PA has decided to appoint a candidate in the upcoming presidential election.
-
-Through this resolution, the opposition has been defending Ranil Wickremesinghe Rajapakse.. Ranil Rajapakse was campaigning against us.
-
-But now, through the PA's resolution, the allegations made by the opposition parties against us have now become a bus.. It is certain that Ranil Wickremesinghe did not protect Rajapakse.
-
-Ranil Wickremesinghe will contest the upcoming presidential election as an independent and pure candidate.
-
-In the election campaigns. We are happy with this.
-
-...
-
-[Data](articles/4c26bb41.json)
-
-[Extended Data](ext_articles/4c26bb41.ext.json)
 
 ---

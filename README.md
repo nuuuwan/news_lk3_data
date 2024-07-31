@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 19:05:42**
+As of **2024-07-31 19:21:10**
 
 ## Newspaper Stats
 
-*Scraped **38,290** Articles*
+*Scraped **38,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
 adalk | 3,507
-adaderanalk | 4,429
+adaderanalk | 4,430
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,756
 virakesarilk | 6,049
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,289 (100.0%) of 38,290 articles have been extended.
+38,290 (100.0%) of 38,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ජෝ රූට් අංක එක වෙයි
+### Joe Root is the one
 
 *2024-07-31 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199420) · `si`
 
-ලෝක ටෙස්ට් ක්‍රිකට් පිතිකරුවන්ගේ ශ්‍රේණිගත කිරීම අනූව පළමු ස්ථානයට පත්වීමට එංගලන්ත ක්‍රීඩක ජෝ රූට් සමත්වී තිබේ.
+Joe Root, England's top-ranked Test batsman, leads the ICC's inaugural Test rankings with 872 points, followed closely by New Zealand's Kane Williamson with 859 points.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මගින් නිකුත්කළ ටෙස්ට් පිතිකරු ශ්‍රේණිගත කිරීමේ ලැයිස්තුවේ රූට් පළමු ස්ථානය හිමිකරගෙන ඇත්තේ ප්‍රසාද ලකුණු 872ක් ලබා ගනිමිනි.
+🟩
 
-දෙවැනි ස්ථානයේ නවසීලන්ත ක්‍රීඩක කේන් විලියම්සන් පසුවෙයි. ඒ ලකුණු 859ක් සමගිනි.
+England athlete Joot, who ranked the World Test batsmen, was first seized.
+
+The first location of the Test batsman graders issued by the International Cricket Council has won 872 bonus points.
+
+New Zealand athletic Kane Williamsan afternoon. That was 859 runs.
 
 ◼️
 
 [Data](articles/ef3e57b7.json)
+
+[Extended Data](ext_articles/ef3e57b7.ext.json)
+
+---
+
+### Six candidates place deposits for 2024 Presidential Election so far
+
+*2024-07-31 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100901/six-candidates-place-deposits-for-2024-presidential-election-so-far) · `en`
+
+The Election Commission of Sri Lanka says that so far deposits have been placed for six candidates to contest the 2024 Presidential Election.
+
+This includes two independent candidates and four other candidates from recognized political parties.
+
+The independent candidates are President Ranil Wickremesinghe and former MP Sarath Keerthirathne while the other four candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’, ASP Liyanage of the Sri Lanka Labour Party, Sajith Premadasa of the ‘Samagi Jana Balawegaya’ and P W S K Bandaranayake from ‘Jathika Sanwardhana Peramuna’.
+
+Furthermore, the Election Commission of Sri Lanka had issued a Gazette on July 26 stating that 21st September 2024, as the date for holding the poll for the presidential election.
+
+◼️
+
+[Data](articles/3c7e26a6.json)
 
 ---
 
@@ -1596,15 +1620,13 @@ She made this statement participating at a special event organized by SLC to win
 
 ECONOMYNEXT – Sri Lanka’s Employees Provident Fund has been repaid 231 million rupees it was estimated to have lost by purchasing shares of Laugf Gas Plc in 2011, the Securities Exchange Commission said in an online filing.
 
-The SEC had filed action against W K H Wegapitiya, U K Tilak N de Silva and T I Hulangamuwa on the purchase by EPF of 33 million shares of Laugfs Gas Plc on October 10, 2022.
+The SEC had filed action against W K H Wegapitiya, U K Tilak N de Silva and T I Hulangamuwa on the purchase by EPF of 33 million shares of Laugfs Gas Plc on October 10, 2011.
 
 An application was made by counsel to the charged to compound the offence.
 
 “Having considered the loss caused to the Employees’ Provident Fund (EPF), the time since the said offences were committed, accused agreeing to settle the loss caused to the EPF, other pending litigation connected to this case, and the absence of previous convictions…” the SEC said it decided to compound the offences.
 
-The three had paid 6.6 million rupees to the Compensation Fund of the SEC and 231 million rupees to the EPF as agreed at court on July 19, the statement said.
-
-◼️
+...
 
 [Data](articles/369baf41.json)
 
@@ -2265,31 +2287,5 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 [Data](articles/37bf7ee5.json)
 
 [Extended Data](ext_articles/37bf7ee5.ext.json)
-
----
-
-### One year in jail with 3 Tamil Nadu fishermen
-
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
-
-Three Tamil Nadu fishermen received one-year prison sentences and fines for illegal fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and also sentenced to a year in prison. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Additionally, 25 fishermen arrested recently were remanded until further notice.
-
-🟩
-
-Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
-
-The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
-
-At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
-
-The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
-
-Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
-
-◼️
-
-[Data](articles/50319717.json)
-
-[Extended Data](ext_articles/50319717.ext.json)
 
 ---

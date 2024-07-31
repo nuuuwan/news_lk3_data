@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 18:38:26**
+As of **2024-07-31 18:55:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,286 (100.0%) of 38,289 articles have been extended.
+38,289 (100.0%) of 38,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,27 @@ Based on the information from the arrested suspects, two more foreigners were ar
 
 ---
 
-### ஆண்டிறுதிக்குள் 2 பில்லியன் டொலர் முதலீட்டை ஈர்ப்பதே இலக்கு - திலும் அமுனுகம
+### The target is to attract $ 2 billion in the year - Amunugama
 
 *2024-07-31 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189934) · `ta`
 
-நாட்டில் 35 முதலீட்டு வேலைத்திட்டங்களுக்காக 800 மில்லியன் டொலர் பெறுமதியான ஒப்பந்தங்கள் கையெழுத்திடப்பட்டுள்ளன. இவ்வாண்டில் எமது இலக்கு ஒரு பில்லியன் டொலர் என்ற போதிலும், 2 பில்லியன் டொலர் வரை முதலீடுகளை ஈர்க்க முடியும் என வர்த்தகம் மற்றும் முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+Despite initial targets set at $1 billion, the government aims to attract $2 billion in investments this year through 35 investment programs, thanks to $800 million already secured. Measures include establishing industrial zones and a free trade zone in Kankesanthurai, restructuring the Investment Board, and expanding free trade agreements to boost economic growth and attract more foreign investments.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-இவ்வாண்டில் இதுவரையான காலப்பகுதியில் 800 மில்லியன் டொலர் பெறுமதியான 35 முதலீட்டு வேலைத்திட்ட ஒப்பந்தங்களில் கையெழுத்திட்டுள்ளோம். இவ்வாண்டில் எமக்கு வழங்கப்பட்டுள்ள இலக்கு ஒரு பில்லியன் டொலர் ஆகும். எனினும் தற்போது நாம் 800 மில்லியன் டொலரை எட்டியுள்ளதால் ஆண்டிறுதிக்குள் 2 பில்லியன் டொலர் பெறுமதியான முதலீடுகளை ஈர்க்க முடியும் என்று எதிர்பார்க்கின்றோம்.
+$ 800 million worth of contracts have been signed for 35 investment programs in the country. The Minister of Commerce and Investment Promotion, Dilum Amunugama, said that despite our target this year, we can attract investments up to $ 2 billion.
+
+He further stated at the media conference held at the Presidential Media Center on Wednesday (31).
+
+We have signed up for $ 800 million worth $ 800 million this year.. The target for us this year is $ 1 billion. However, as we have now reached $ 800 million, we expect to attract $ 2 billion worth of investments annually.
+
+Steps have been taken to establish 4 industrial interviews in the state -private joint venture based on Canadian investors based on areas including Trincomalee, Kankesanthurai, Paranthan and Mankulam areas.. It has also been decided to establish a free trade zone in Kankesanthurai.
 
 ...
 
 [Data](articles/fabd8a89.json)
+
+[Extended Data](ext_articles/fabd8a89.ext.json)
 
 ---
 
@@ -112,15 +120,21 @@ The Special Committee on National Security includes Minister of Public Security 
 
 ---
 
-### லிட்ரோ எரிவாயு விலையில் மாற்றம் இல்லையாம் !
+### There is no change in the price of Litro gas!
 
 *2024-07-31 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189927) · `ta`
 
-ஆகஸ்ட் மாதத்தில் லிட்ரோ சமையல் எரிவாயுவின் (Liter gas) விலையில் மாற்றம் ஏற்படுத்தப்பட மாட்டாது என நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்துள்ளார்.
+Litro Gas prices remain unchanged in August, as announced by President Muditha Peiris.
+
+🟩
+
+The company's president Muditha Peiris said the price of Litro Gas would not be changed in August.
 
 ◼️
 
 [Data](articles/9b9a8c0d.json)
+
+[Extended Data](ext_articles/9b9a8c0d.ext.json)
 
 ---
 
@@ -1774,23 +1788,33 @@ As the activities are currently taking place at 7 pm, it is decided to change it
 
 ---
 
-### සැමියා පැදවූ යතුරු පැදිය බස් රථ දෙකක ගැටී බිරිඳ ජීවිතක්ෂයට
+### Dissanayake kills his wife, a husband collided with two buses
 
 *2024-07-31 11:23:04* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-පැදවූ-යතුරු-පැදිය-බස්-රථ-දෙකක-ගැටී-බිරිඳ-ජීවිතක්ෂයට/11-411112) · `si`
 
-ත්‍රිකුණාමලය - පුත්තලම 'ඒ 12' ප්‍රධාන මාර්ගයේ, නොචිචියාගම නගර මධ්‍යයේදී ඊ‍යේ (30දා) පස්වරුවේ යතුරු පැදියක් සුඛෝපභෝගී  බස් රථයක ගැටී සිදුවූ මාරක රිය අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත් වූ බව නොච්ච්යාගම  පොලිසිය පවසයි.
+In a tragic accident on the Trincomalee-Puttalam 'A12' road, Dinesha Dilhani, 34, was killed when her motorcycle collided with a bus. The incident occurred near Nochchiyagama, where she and her husband were traveling from Pahalamaharagahawewa to Anuradhapura. The bus driver, a resident of Jaffna, was arrested and taken to court. A post-mortem examination will be conducted at the Nochchiyagama Hospital.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, රාජාංගනය යාය 15 පහලමාරගහවැව  ප්‍රදේශයේ පදිංචිව සිටි, එම්. දිනේෂා දිල්හානි නැමැති 34 හැවිරිදි කාන්තාවකි.
+🟩
 
-අඹු සැමි යුවලක් පහලමාරගහවැව  දෙස සිට අනුරාධපුර දෙසට යතුරු පැදියකින් ගමන් කරමින් සිටියදී, නොච්චියාගම  බස් නැවතුම අසල ප්‍රධාන මාර්ගයේ  නතර කර තිබූ බස් රථයකට ඉස්සර කිරීමට යාමේදී යතුරු පැදිය එම බස් රථයේ ගැටී පසු පැදිකාරිය මාර්ගය, මැදට ඇද වැටී ඇති බව පොලිසිය කියයි.
+A woman was killed in a fatal accident that took place in a luxury bus in the Trincomalee - Puttalam 'A12' main road yesterday (30).
 
-එම අවස්ථාවේදී එම දිශාවටම අධික වේගයෙන් කොළඹ සිට යාපනය දක්වා ගමන් කල බස් රථයේ මරණකාරිය ගැටී ඇති අතර ඇගේ හිස, බස් රථය පිටුපස රෝද යුගලයට හසු වී හිස කඳෙන් වෙන් වී මීටර් 21ක් පමණ දුරකට ඇදී ගොස් ඇති බව පොලිසිය කියයි.
+The deceased has been identified as Rajanganaya 15, a resident of Pahalamathagahawewa. Dinesha was a 34 year old woman named Dinesha Dilhani.
 
-අනතුරින් යතුරු පැදිය පැදවූ මරණකාරියගේ සැමියා වන ඉහත ලිපිනයේ පදිංචි රාජපක්ෂ  පේඩිගේ ආනන්ද සරත් කුමාර නමැති අය මෙම අනතුරින් තුවාල ලබා, නොමැති බවද පොලිසිය සඳහන් කළේය.
+The couple was traveling from Pahalamaharagahawewa from Pahalamahawewa to Anuradhapura and the motorcycle was hit by the bus near the Nochchiyagama bus stop.
+
+The deceased has collapsed on the road from Colombo to Jaffna and the bus has fallen into the head of the bus, police said.
+
+The victim, who was riding in the accident, the victim is not injured in the accident.
+
+A resident of Jaffna was arrested and produced before the court, the driver of the bus.
+
+The Nochichagama Hospital was placed at the Nochichagama Hospital to conduct post mortem examination on the body.
 
 ...
 
 [Data](articles/aebd7652.json)
+
+[Extended Data](ext_articles/aebd7652.ext.json)
 
 ---
 

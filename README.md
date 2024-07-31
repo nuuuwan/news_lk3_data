@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 14:56:15**
+As of **2024-07-31 15:05:55**
 
 ## Newspaper Stats
 
-*Scraped **38,242** Articles*
+*Scraped **38,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,499
+adalk | 3,501
 adaderanalk | 4,424
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,746
+tamilmirrorlk | 4,747
 virakesarilk | 6,039
-adaderanasinhalalk | 6,440
+adaderanasinhalalk | 6,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,241 (100.0%) of 38,242 articles have been extended.
+38,242 (100.0%) of 38,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ජනපතිගේ සහායට තවත් 116ක්
+### மஹிந்தவுக்கு அவசர கடிதம்
+
+*2024-07-31 14:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-அவசர-கடிதம்/175-341347) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் அரசியல் சபையினால் எடுக்கப்பட்ட தீர்மானமானது பெரும்பான்மையான, கட்சி உறுப்பினர்களின் எதிர்பார்ப்பு அல்லது சிந்தித்து எடுக்கப்பட்ட தீர்மானம் அல்ல என ஆளும் கட்சியின் பிரதான அமைப்பாளரும், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான  பிரசன்ன ரணதுங்க, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு எழுதியுள்ள கடிதத்தில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/dbf65708.json)
+
+---
+
+### හමාස් නායකයාව ඝාතනය කළ හැටි හෙළිවෙයි
+
+*2024-07-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199411) · `si`
+
+◼️
+
+[Data](articles/69bc84a9.json)
+
+---
+
+### හිටපු පළාත් සභා මන්ත්‍රී කණ්ඩායමකගේ සහය රනිල්ට
+
+*2024-07-31 14:47:44* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පළාත්-සභා-මන්ත්‍රී-කණ්ඩායමකගේ-සහය-රනිල්ට/11-411121) · `si`
+
+ඉදිරි ජනාධිපතිවරණය වෙනුවෙන්  හිටපු පළාත් සභා  මන්ත්‍රීවරුන් 116කගේ සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පළ කර තිබේ.
+
+◼️
+
+[Data](articles/3c0f17c9.json)
+
+---
+
+### 116 others to support President
 
 *2024-07-31 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199410) · `si`
 
-පළාත් සභාවල හිටපු මහජන නියෝජිතයන් 116 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට අද (31) රැස්වී තීරණය කර තිබේ.
+116 former council members from the Sri Lanka General Front and United National Party pledged support for President Ranil Wickremesinghe's victory on January 31st.
 
-ජනාධිපති මාධ්‍ය අංශය පැවසුවේ අදාළ කණ්ඩායම ජනාධිපතිවරයාගේ ජයග්‍රහණයට සහාය දැක්වීමට කැපවන බවට ප්‍රතිඥා දුන් බවය.
+🟩
 
-116 දෙනෙකුගෙන් යුත් මෙම කණ්ඩායම ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහ එක්සත් ජාතික පක්ෂය නියෝජනය කළ පිරිසකි.
+A group of 116 former people of the provincial councils had to support President Ranil Wickremesinghe today (31).
+
+The Presidential Media Unit said that the group pledged to support the President's victory.
+
+The group of 116 represents a group of 116 representing the Sri Lanka General Front and the United National Party.
 
 ◼️
 
 [Data](articles/13a283fc.json)
+
+[Extended Data](ext_articles/13a283fc.ext.json)
 
 ---
 
@@ -53,6 +93,12 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-07-31 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100895/over-100-ex-provincial-councillors-pledge-support-to-president-ranil) · `en`
 
 A group of 116 former Provincial Council members from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have pledged their commitment to support President Ranil Wickremesinghe’s victory in the upcoming presidential election, the PMD reported.
+
+Addressing the meeting with the former Provincial Council members, President Wickremesinghe declared his candidacy as an independent candidate in this year’s presidential election pledging his commitment to advancing the country with a bold new vision and an impartial programme.
+
+The President said he is aiming to drive development through nine Provincial Governments and the Central Government.
+
+Meanwhile, during the meeting with former PC members, the President also expressed his strong condemnation of the assassination of Hamas political leader Ismail Haniyeh and stated unequivocally that he will never condone such actions.
 
 ◼️
 
@@ -99,6 +145,24 @@ Nevertheless, the letter of Prasanna Ranatunga has noted that he is still a part
 [Data](articles/1055d376.json)
 
 [Extended Data](ext_articles/1055d376.ext.json)
+
+---
+
+### මේ වසරේදී ත්‍රිවිධ හමුදාව හෙරොයින් කිලෝ 270ක් අල්ලලා
+
+*2024-07-31 13:53:50* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ත්‍රිවිධ-හමුදාව-හෙරොයින්-කිලෝ-270ක්-අල්ලලා/11-411119) · `si`
+
+යුද්ධයේදී ආබාධිත වූ සියලු සෙබළුන්ට දීමනා ලබා දීම, වෛද්‍යමය පුනරුත්ථාපනය සහ ජීවිත කාලය පුරා රැකබලා ගැනීම ඇතුලු ක්‍රියාමාර්ග රැසක් ඔස්සේ ආරක්ෂක අමාත්‍යංශයේ මැදිහත් වීමෙන් උපරිම සාධාරණය ඉටු කර  තිබෙන බව ආරක්ෂක අමාත්‍යාංශයේ ලේකම් ජෙනරාල් (විශ්‍රාමික)  කමල් ගුණරත්න මහතා පැවසීය.
+
+ආර්ථික මෙන්ම දේශපාලනික වශයෙන් රට ස්ථාවරත්වයට පත් කිරීම සඳහා ගෙවී ගිය දෙවසර තුළ ආරක්ෂක අමාත්‍යාංශය පියවර රැසක් ගෙන තිබෙන බවද පැවසූ ඒ මහතා ජනතාව වෙනුවෙන් යහපත්, සුරක්ෂිත පරිසරයක් සහතික කර ඇති බවද සඳහන් කළේය.
+
+ආරක්ෂක අමාත්‍යාංශයේ ලේකම් ජෙනරාල් (විශ්‍රාමික)  කමල් ගුණරත්න මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්ව විද්‍යාලයේ අධ්‍යාපන පහසුකම්වල ගුණාත්මකභාවය කැපී පෙනෙන ලෙස ඉහළ නංවමින් සිසුන් වැඩි පිරිසකට අධ්‍යාපනය ලැබීමේ අවස්ථාව සළසා දී ඇති අතර සිවිල් වෛද්‍ය ශිෂ්‍යයින් බඳවා ගැනීමද මේ වන විට ආරම්භ කර ඇති බවද ඒ මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/cfd08ff2.json)
 
 ---
 
@@ -2225,79 +2289,5 @@ The Indian team scored 137 runs for the loss of 9 wickets in the loss of 9 overs
 [Data](articles/e066e59a.json)
 
 [Extended Data](ext_articles/e066e59a.ext.json)
-
----
-
-### Israel's sudden attack on the capital of Lebanon
-
-*2024-07-30 23:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-தலைநகர்-மீது-இஸ்ரேல்-திடீர்-தாக்குதல்/50-341313) · `ta`
-
-Israel's surprise attack on Lebanon escalated tensions in the Middle East, targeting specific locations. In retaliation, Israel faced a rocket attack in the Golan Heights, resulting in the death of 12 children and youth. Lebanon reported damage from the conflict, including the collapse of buildings in Haret Hreek, a suburb of Beirut.
-
-🟩
-
-Israel has announced that it will attack on certain targets. The attack has caused tension in the Middle East.
-
-12 children and youth were killed in a rocket attack in the Golan Heights area of ​​Israel. The Israeli military claimed that the attack was the face of retaliation.
-
-Lebanon's State -run National News Agency reported that two bases of a building in Haret Hreek, a suburb of Beirut's south of Beirut, collapsed.. Remble
-
-◼️
-
-[Data](articles/93145090.json)
-
-[Extended Data](ext_articles/93145090.ext.json)
-
----
-
-### Easing Sri Lanka’s fiscal burden: Who needs a state pension?
-
-*2024-07-30 22:35:00* · [`islandlk`](http://island.lk/easing-sri-lankas-fiscal-burden-who-needs-a-state-pension/) · `en`
-
-Priyanka Jayawardena is a Research Economist at IPS with research interests in skills and education, demographics, health, and labour markets. Priyanka has around 15 years of research experience at IPS. She has worked as a consultant to international organisations including World Bank, ADB and UNICEF. She holds a BSc (Hons) specialised in Statistics and an MA in Economics, both from the University of Colombo. (Talk with Priyanka – priyanka@ips.lk)
-
-Public sector workers’ pensions are paid by tax revenue, with 12% of government revenue allocated for pensions.
-
-An IPS analysis shows that public service pensions are not a progressive welfare programme, with half of the publicly funded pensions benefitting the top 20% wealthier group.
-
-Implementing a contributory pension fund is crucial to creating a more sustainable and equitable retirement system.
-
-...
-
-[Data](articles/656afd11.json)
-
-[Extended Data](ext_articles/656afd11.ext.json)
-
----
-
-### Preventing crop damage by wild animals could lead to SL’s food sufficiency – minister
-
-*2024-07-30 22:32:00* · [`islandlk`](http://island.lk/preventing-crop-damage-by-wild-animals-could-lead-to-sls-food-sufficiency-minister/) · `en`
-
-Preventing crop damage caused by wild animals could ensure that the country’s harvest remains adequate for the population even without expanding on cropland, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-‘Currently, wild animals are responsible for more than 40 percent of crop damage in the country, resulting in losses worth billions of rupees over the years. Farmers countrywide have been urging the government to implement a permanent solution to mitigate this issue, Amaraweera explained.
-
-The minister also said that if wild animal-induced crop damage is managed effectively, existing harvests would meet the country’s requirements without needing to increase cultivation.
-
-...
-
-[Data](articles/03b07fe4.json)
-
-[Extended Data](ext_articles/03b07fe4.ext.json)
-
----
-
-### SLT-MOBITEL Nebula Institute of Technology recognised
-
-*2024-07-30 22:31:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-recognised/) · `en`
-
-The SLT-MOBITEL Nebula Institute of Technology, the education arm of SLT-MOBITEL, has achieved a significant milestone by being recognised as the 10th IET on Campus Chapter. The partnership with the Institute of Engineering Technology (IET) ensures the Nebula Institute is able to support its engineering and technology undergraduates throughout all stages of their education and career on a global scale. In addition, it provides students or employees the opportunity to be part of the IET’s thriving community.
-
-...
-
-[Data](articles/d6bb5675.json)
-
-[Extended Data](ext_articles/d6bb5675.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 18:16:01**
+As of **2024-07-31 18:27:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,282 (100.0%) of 38,286 articles have been extended.
+38,286 (100.0%) of 38,286 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Based on the information from the arrested suspects, two more foreigners were ar
 
 [Data](articles/016a32c6.json)
 
+[Extended Data](ext_articles/016a32c6.ext.json)
+
 ---
 
 ### Protesters clash with UK police after knife attack that killed three girls
@@ -72,6 +74,8 @@ Merseyside Police said an officer suffered a suspected broken nose in the clashe
 
 [Data](articles/fd1cede3.json)
 
+[Extended Data](ext_articles/fd1cede3.ext.json)
+
 ---
 
 ### President forms 3 special committees to address potential global impacts on Sri Lanka
@@ -87,6 +91,8 @@ The Special Committee on National Security includes Minister of Public Security 
 ...
 
 [Data](articles/3c0149f3.json)
+
+[Extended Data](ext_articles/3c0149f3.ext.json)
 
 ---
 
@@ -116,21 +122,31 @@ In the meantime, when the civilian dressing policeman chased the protesters toda
 
 ---
 
-### காஸ் போகும்வரை காத்திருக்கும் அமரர் ஊர்தி
+### Amara's carriage waiting until the gas goes
 
 *2024-07-31 17:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காஸ்-போகும்வரை-காத்திருக்கும்-அமரர்-ஊர்தி/76-341360) · `ta`
 
-நுவரெலியா பொரலந்தை சிறிய நகரத்தில் அமைந்துள்ள லாப்கேஸ் நிறுவனத்திற்கு சமையல் எரிவாயு நிரப்பிய சிலிண்டர்களை ஏற்றி வந்த 40 அடி நீளம் கொண்ட பார ஊர்தி இயந்திர கோளாறு காரணமாக நடுவீதியில் நின்றமையால் இந்த போக்குவரத்து தடை ஏற்பட்டுள்ளது.
+A 40-foot-long carriage carrying cooking gas caused significant traffic jams in Boraland, affecting routes like Nuwara Eliya-Kandapalai, Irakkalai, Valappanai, and Udappusallawa. This incident blocked the Nuwara Eliya-Udapussallawa main road for over a kilometer in each direction, disrupting services such as flower delivery to cemeteries and visits to the district hospital.
 
-புதன்கிழமை (31) மாலை மூன்று மணியளவில் இடம்பெற்ற இந்த சம்பவத்தின்  காரணமாக பொரலந்தை சிறிய நகர பகுதியில் பாரிய போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது.
+🟩
 
-அதே நேரத்தில் நுவரெலியா தொடக்கம் கந்தப்பளை,இராகலை ,வலப்பனை, உடப்புசல்லாவ நோக்கி பயணிக்கும், வாகனங்களும் ,உடபுஸ்ஸல்லாவ தொடக்கம் நுவரெலியா நோக்கி பயணிக்கும் வாகனங்களும் பொரலந்தை பகுதியில் நீண்ட வரிசையில் நீண்ட நேரம் நிறுத்தி வைக்கப்பட்டுள்ளன.
+The traffic has been disrupted due to a 40 -foot -long carriage machine that has been loaded with cooking gas filled with cooking gas.
 
-இந்த வாகன கோளாறு காரணமாக நுவரெலியா- உடபுஸ்ஸல்லாவ பிரதான வீதியில் சுமார் இரு திசைகளிலும் சுமார் ஒன்றரை கிலோ மீட்டருக்கு அதிகமான தூரம் வாகனங்கள் நிறுத்தப்பட்டு போக்குவரத்திற்கு பாரிய பாதிப்பு ஏற்பட்டுள்ளது.
+The incident, which took place at around 3 pm on Wednesday (31), has caused massive traffic congestion in the small town in Boraland.
+
+At the same time, the vehicles traveling to Kandapalai, Irakalai, Valappanai, Udappusallawa from Nuwara Eliya to Kandapalai, Irakkalai, and vehicles from Udapusallawa to Nuwara Eliya have been parked in the Boralandi area for a long time.
+
+Due to this vehicle disorder, the Nuwara Eliya-Udapussallawa main road has been hit by a distance of over one and a half kilometers in both directions.
+
+Due to this massive vehicle traffic ban, the flower carrier carried out from the Kandapalai area to the Awa simple public cemetery has been halted.
+
+Similarly, the prison sky has also been parked on the road from Valappanai court to Nuwara Eliya Prison.
 
 ...
 
 [Data](articles/d23f5380.json)
+
+[Extended Data](ext_articles/d23f5380.ext.json)
 
 ---
 

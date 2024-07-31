@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 17:36:11**
+As of **2024-07-31 17:57:06**
 
 ## Newspaper Stats
 
-*Scraped **38,278** Articles*
+*Scraped **38,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,92 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,505
+adalk | 3,506
 adaderanalk | 4,426
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,755
-virakesarilk | 6,045
-adaderanasinhalalk | 6,446
+virakesarilk | 6,047
+adaderanasinhalalk | 6,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,269 (100.0%) of 38,278 articles have been extended.
+38,278 (100.0%) of 38,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ඉදිරියේදී ඇති වියහැකි තත්ත්වයට මුහුණ දීමට ජනපතිගෙන් කමිටු 3ක්
+### காணாமல் ஆக்கப்பட்ட உறவினர்களது போராட்டத்தை அச்சுறுத்தும் வகையில் புகைப்படம் எடுத்த பொலிஸ் புலனாய்வாளர் !
+
+*2024-07-31 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189916) · `ta`
+
+முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் இன்று புதன்கிழமை (31) காலை முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்களை அச்சுறுத்தும் வகையில்  புகைப்படம் எடுத்த சிவில் உடை தரித்த பொலிஸ் புலனாய்வாளரை அவ்விடத்திலிருந்து துரத்திய சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+யுத்தம் நிறைவடைந்த நாள்முதல் தமது உறவுகளுக்கான நீதி கோரி போராடிவரும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் முல்லைத்தீவு மாவட்டத்தில் தொடர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+குறித்த போராட்டத்தில் காணாமல் ஆக்கப்பட்ட உறவினர்கள், முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+
+இவ்வாறாக தொடர் போராட்டத்தில் ஈடுபட்டு வரும் வலிந்து காணாமல் ஆக்கப்பட்ட உறவினர்கள் போராட்டங்களை இராணுவத்தினர், பொலிஸார் , சிவில் உடை தரித்த புலனாய்வாளர்கள் போன்றோர் போராட்டத்தில் கலந்து கொண்டவர்களை புகைப்படங்களை எடுத்து அச்சுறுத்தும் செயற்பாட்டில் ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/14c253b7.json)
+
+---
+
+### මෙතෙක් ඇප තැබූ 6 දෙනා මෙන්න
+
+*2024-07-31 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199419) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් හය දෙනක් මේ දක්වා ඇප තබා ඇතැයි මැතිවරණ කොමිසම නිවේදනය කරයි.
+
+මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස සහ පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක ඇප මුදල් තැන්පත්කර ඇත.
+
+◼️
+
+[Data](articles/dc70c4d5.json)
+
+---
+
+### ஜனாதிபதி ரணிலின் வெற்றிக்கு 116 முன்னாள் மாகாண சபை உறுப்பினர்கள் அர்ப்பணிப்புடன் செயற்படுவதாக உறுதி !
+
+*2024-07-31 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189901) · `ta`
+
+ஜனாதிபதித் தேர்தலில், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்காக அர்ப்பணிப்புடன் செயல்படுவதாக இன்று புதன்கிழமை (31) கூடிய ஶ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி ஆகியவற்றின் முன்னாள் மாகாண சபை உறுப்பினர்கள் 116 பேர் உறுதியளித்துள்ளனர்.
+
+புதிய நோக்குடனும் புதிய வேலைத் திட்டத்துடனும் நாட்டை முன்னோக்கி கொண்டு செல்லவே தான் சுயேட்சை வேட்பாளராக ஜனாதிபதித் தேர்தலில் போட்டியிடுவதாகவும் மாகாண சபைகள், மத்திய அரசாங்கம் உட்பட 10 நிர்வாகக் கட்டமைப்பின் ஊடாக நாட்டை அபிவிருத்திக்கு இட்டுச் செல்வதற்கு அர்ப்பணிப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தும் முன்னாள் மாகாண சபை உறுப்பினர்களுடன் இன்று (31) நடைபெற்ற சந்திப்பில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+இதன்போதே, ஶ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி ஆகியவற்றின் முன்னாள் மாகாண சபை உறுப்பினர்கள் 116 பேர் ஜனாதிபதித் தேர்தலில், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்காக அர்ப்பணிப்புடன் செயல்படுவதாக உறுதியளித்துள்ளனர்.
+
+◼️
+
+[Data](articles/72d55030.json)
+
+---
+
+### President of President 3 committees to face future
 
 *2024-07-31 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199418) · `si`
 
-ඉරානයේදී සිදුවූ හමාස් සංවිධානයේ දේශපාලන නායකයාගේ ඝාතනයත් සමග ඉරානය ඇතුළු මැදපෙරදිග සහ ලෝකයේ ඇතිවිය හැකි තත්ත්වයන් හමුවේ ශ්‍රී ලංකාවට එල්ලවිය හැකි ආරක්ෂක සහ ආර්ථික බලපෑම්වලට මුහුණදීමේ පූර්ව සූදානමක් ලෙස විශේෂ කමිටු 03ක් පත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කටයුතු කර තිබේ.
+Ranil Wickremesinghe formed three committees to address potential impacts from the assassination of a Hamas leader in Iran, focusing on national security, economic effects, and presidential oversight. These committees, led by key officials, aim to mitigate any direct or indirect consequences on the Middle East and Sri Lanka's economy, ensuring no adverse effect on the public. Their findings will be presented to a top panel for further action.
 
-ඒ අනුව ජාතික ආරක්ෂාව පිළිබඳ විශේෂ කමිටුවක්, ආර්ථිකයට සිදුවන බලපෑම සම්බන්ධයෙන් සොයා බැලීමේ කමිටුවක් සහ එම කමිටු දෙකෙහි යෝජනා අධීක්ෂණය කිරීම සඳහා ඉහළ මට්ටමේ කමිටුවක් පත් කිරීමට ජනාධිපතිවරයා පියවරගෙන ඇත.
+🟩
 
-ජාතික ආරක්ෂාව පිළිබඳ විශේෂ කමිටුව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස්, විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි, විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර හා ජනාධිපති කාර්යමණ්ඩල ප්‍රධානි හා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යේෂ්ඨ උපදේශක සාගල රත්නායක යන සාමාජිකත්වයෙන් යුතුව පත් කර තිබේ.
+President Ranil Wickremesinghe has arranged for three special committees as a prerequisite for the murder of Hamas political leader in Iran.
+
+Accordingly, a special committee of the National Security and the impact of the economy and the President has taken a high level of committee to monitor the proposals of the two committees.
+
+Special committee of National Security Tiran Alles, Minister of External Affairs, Minister of External Affairs, Presidential Counseling Minister of Power and Energy, Senior Advisor to Presidential Counseling and Presidential Advisor to Presidential Advisor Sagala Ratnayake
 
 ...
 
 [Data](articles/e9a04fc5.json)
+
+[Extended Data](ext_articles/e9a04fc5.ext.json)
 
 ---
 
@@ -111,6 +167,8 @@ Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cyli
 ◼️
 
 [Data](articles/eee3c90a.json)
+
+[Extended Data](ext_articles/eee3c90a.ext.json)
 
 ---
 
@@ -227,6 +285,8 @@ Hemas Holdings Plc which released its 2Q interim results, showed a dip in profit
 ...
 
 [Data](articles/26746a4e.json)
+
+[Extended Data](ext_articles/26746a4e.ext.json)
 
 ---
 
@@ -398,6 +458,8 @@ The killing of the 62-year-old ceasefire negotiator has sparked fears of a wider
 
 [Data](articles/a7119517.json)
 
+[Extended Data](ext_articles/a7119517.ext.json)
+
 ---
 
 ### Ismail Honey assassination: President Ranil Action
@@ -511,6 +573,8 @@ Wickremesinghe was speaking at the President’s Guide Award Ceremony 2022/2023 
 ...
 
 [Data](articles/d5f80579.json)
+
+[Extended Data](ext_articles/d5f80579.ext.json)
 
 ---
 
@@ -665,6 +729,8 @@ The small-island development state (SIDC) faces rising sea levels, sea surface t
 ...
 
 [Data](articles/bbb158da.json)
+
+[Extended Data](ext_articles/bbb158da.ext.json)
 
 ---
 
@@ -992,6 +1058,22 @@ The court stated that the demand will be rejected due to lack of facts as a resu
 
 ---
 
+### රනිල්ගේ ගැට මොන ගැටද?
+
+*2024-07-31 13:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-ගැට-මොන-ගැටද-/11-411115) · `si`
+
+රට විනාශ කරන්න සහය වූ, වැරදි තීන්දු වලට අත ඉස්සු,පාර්ලිමේන්තුවේ ඉන්න කිසිවෙකු ජාතික ජන බලවේගයේ වේදිකාවත් එක්ක සම්බන්ධ කර නොගන්නා බවට සහතික කරනවා යැයි ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+අනුරාධපුර, බුල්නෑව නගරයේදී ජාතික ජන බලවේගයේ ගොවි රැළිය, ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි. ජාතික ජන බලවේගය විසින් රටපුරා පවත්වන ගොවි රැලි මාලාවේ බුල්නෑව රැලිය පවත්වනු ලැබුවේ බුල්නෑව නගරයේ දී යි.
+
+"අපි මාරුවෙන් මාරුවට ඡන්දය දුන්නාට, මාරුවෙන් මාරුවට නායකයෝ ගෙන ආවට, මාරුවෙන් මාරුවට ආණ්ඩු හැදුවාට ඒ හදලා තියෙන්නේ ඒ ගොල්ලන්ගේ ආණ්ඩු, අපි එකවතාවක් හදමු ජනතාවගේ ආණ්ඩුවක්, ඒ තමයි ජාතික ජන බලවේගයේ ආණ්ඩුවක්, අපි නීතී හදන්නේ පොදු ජනතාව වෙනුවෙන්, සල්ලි වියදම් කරන්නේ පොදු ජනතාව වෙනුවෙන්, ගොවි ජනතාව ණය බරින් නිදහස් කර ගන්න ඕන, යම් ණය ප්‍රමාණයක් කපා හරින්න ඕන, ඒක කපනවා, ඒ ගොල්ල කපන්නේ දයා ගමගේගේ ණය අපි කපන්නේ ගොවි ජනතාවගේ ණය, අපි 2004 චන්ද්‍රිකා එක්ක පරිවාස ආණ්ඩුවට ගියා, දාපු එක කොන්දේසියක් තමයි රුපියල් 25 000 ක් දක්වා සියලු ගොවි ණය කපන්න ඕන කියලා.
+
+...
+
+[Data](articles/78652aaa.json)
+
+---
+
 ### Dog death due to excessive food;Prison to the owner
 
 *2024-07-31 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189886) · `ta`
@@ -1296,6 +1378,8 @@ Deposits are now being accepted from 8:30 am to 4:15 pm on working days at the E
 
 [Data](articles/13003e14.json)
 
+[Extended Data](ext_articles/13003e14.ext.json)
+
 ---
 
 ### Completed one of my two tarsts for the country
@@ -1337,6 +1421,8 @@ The three had paid 6.6 million rupees to the Compensation Fund of the SEC and 23
 ◼️
 
 [Data](articles/369baf41.json)
+
+[Extended Data](ext_articles/369baf41.ext.json)
 
 ---
 
@@ -1383,6 +1469,8 @@ The delegation, including board members and representatives from international m
 ...
 
 [Data](articles/9b73f47a.json)
+
+[Extended Data](ext_articles/9b73f47a.ext.json)
 
 ---
 
@@ -2175,101 +2263,5 @@ In equities, Colombo’s All Share Price Index opened 47.31 points lower at 11,4
 [Data](articles/ea3031bc.json)
 
 [Extended Data](ext_articles/ea3031bc.ext.json)
-
----
-
-### Hamas leader Ismail Honey was killed
-
-*2024-07-31 09:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸ்-தலைவர்-இஸ்மாயில்-ஹனியே-கொல்லப்பட்டார்/50-341323) · `ta`
-
-Ismail Honey, a key Hamas leader, was assassinated in Tehran during an Israeli airstrike while attending Iran's presidential inauguration. This incident escalates tensions amid ongoing conflict between Israel and Hamas, with significant casualties reported on both sides.
-
-🟩
-
-As the war between Israel and Hamas continues, he was killed in an attack by Israeli forces, targeting the house where Hamas leader Ismail Honey was staying.
-
-War has been going on for months between Israel - Hamas forces. The number of Palestinians who died so far crossed 39 thousand. Israeli forces are intensifying the attack on Hamas, with more than 90 thousand 589 injured. More than a thousand people have died on the Israeli side.
-
-In this case, Ismail Honey, the main leader of the Hamas organization, was killed in Iran.
-
-He has been murdered in an attack by Israeli forces targeting the house where he was staying in Tehran when he attended the new presidential ceremony of Iran.
-
-Iranian media reports that Iran's Islamic Revolutionary Guard has confirmed this information. Thus, great tension has developed. S
-
-◼️
-
-[Data](articles/e0400e76.json)
-
-[Extended Data](ext_articles/e0400e76.ext.json)
-
----
-
-### Grandpass doubles: trio arrested
-
-*2024-07-31 09:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரேண்ட்பாஸ்-இரட்டைக்கொலை-மூவர்-கைது/175-341322) · `ta`
-
-In Colombo's Grandpass, three suspects aged 26, 37, and 45, including a shooter and an accomplice, were arrested for murdering a man and a woman on a motorbike near an apartment on the 25th.
-
-🟩
-
-Three suspects have been arrested in connection with the murder of two people in the Grandpass area in Colombo, police said.
-
-The shooter, a motorcycle driver and a man who assisted the murder have been arrested.
-
-The three men aged 26, 37 and 45 from Okodavatta and Wellampitiya area have been arrested, police said.
-
-A man and a woman who went in a three -wheeler in front of the apartment in the Grandpass area were shot dead on the 25th.
-
-◼️
-
-[Data](articles/210783fd.json)
-
-[Extended Data](ext_articles/210783fd.ext.json)
-
----
-
-### Sri Lanka sells Rs146bn in 2028, to 2030 and 2033 bonds
-
-*2024-07-31 09:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs146bn-in-2028-to-2030-and-2033-bonds-174592/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 146.2 billion rupees in 2028, 2030 and 2033 bonds, data from the state debt office showed.
-
-All offered 80 billion rupees of 15 February 2028 bonds were sold at an average yield of 12.07 percent.
-
-The debt office sold 40.8 billion rupees of an offered 80 billion of 15 October 2030 bonds at 12.55 percent.
-
-The debt office sold 25.4 billion rupees of an offered 40 billion of 01 June 2033 bonds at 12.83 percent.(Colombo/Jul31/2024)
-
-◼️
-
-[Data](articles/72be3f81.json)
-
-[Extended Data](ext_articles/72be3f81.ext.json)
-
----
-
-### Two more young lives are lost
-
-*2024-07-31 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199397) · `si`
-
-In two separate incidents, two young individuals tragically lost their lives due to motor accidents. The first occurred when a parked motorcycle near Nechchiyagama was hit by a passing bus, causing the female passenger to be thrown onto the bus. The second incident involved a motorcyclist who failed to control his vehicle on the Kumbukwewa road, leading to the tragic death of a 21-year-old from Pusselithanna.
-
-🟩
-
-According to the police, a motorbike that was parked in Nechchiyagama to Anuradhapura on the Nochchiyagama road on the Puttalam-Trincomalee police division of the Nochchiyagama road.
-
-On the occasion, another bus from the bus came to the bus and motorcycle in front of the bus and motorcycle.
-
-The woman in the back of the motorcycle was thrown into the back of the bus.
-
-Meanwhile, a motorcycle traffic is not controlling in Kumbukwewa road in Kumbukwewa road road on the Ibbagamuwa road on the Ibbagamuwa road road in Kumbukutta Ibbagamuwa road
-
-The motorcyclination roof was toppled and a 21 year old resident of Pusselithanna.
-
-◼️
-
-[Data](articles/8b8c96df.json)
-
-[Extended Data](ext_articles/8b8c96df.ext.json)
 
 ---

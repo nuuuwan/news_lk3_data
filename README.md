@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 00:20:43**
+As of **2024-08-01 00:36:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,325 (100.0%) of 38,326 articles have been extended.
+38,326 (100.0%) of 38,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -566,21 +566,31 @@ New Zealand athletic Kane Williamsan afternoon. That was 859 runs.
 
 ---
 
-### ලංකාවේ සිට මෙහෙයවූ තවත් ජාත්‍යන්තර මූල්‍ය ජාවාරමක් කොටුකර ගනියි
+### Another international financial racket leading from Sri Lanka is copied
 
 *2024-07-31 18:38:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිට-මෙහෙයවූ-තවත්-ජාත්‍යන්තර-මූල්‍ය-ජාවාරමක්-කොටුකර-ගනියි/11-411127) · `si`
 
-ජාත්‍යන්තර මූල්‍ය ජාවාරම්වල නිරත වෙමින් විවිධ පිරිස් රැවටූ බව කියන චීන ජාතික කාන්තාවන් හා පිරිමින් 53 දෙනෙකු සමග ජපන් ජාතික කාන්තාවක් නොරෝච්චෝල සංචාරක හෝටලයක නැවති මූල්‍ය වංචාවල නිරත වෙමින් සිටියදී   පුත්තලම කොට්ඨාස අපරාධ විමර්ශන ඒකකයෙහි නිලධාරීන් විසින් අද (31දා)  අත් අඩංගුවට ගෙන ඇත.
+A Japanese woman and a group of individuals, including a Chinese couple, were arrested in Sri Lanka for allegedly running an international financial scam. The operation was based in a Norochcholai tourism hotel, where police found 50 computers, 98 mobile phones, and over 2000 SIM cards during a raid. Preliminary investigations suggest the group was involved in fraudulent activities across several countries. The hotel has been temporarily sealed, and further inquiries are ongoing.
 
-මෙසේ අත් අඩංගුවට ගෙන තිබුණේ ශ්‍රී ලංකාවට පැමිණ කිසිවකුට සැක නොසිතන අයුරින් නොරෝච්චෝල ප්‍රදේශයෙහි සංචාරක හෝටලයක් සම්පූර්ණයෙන් කුලී පදනමට ගෙන එහි නැවතී සිටි පිරිසකි.
+🟩
 
-ඉකුත් ජුනි  28 දින පළමුව ජාවාරම මෙහෙය වන බව කියන චීන ජාතික යුවළ හා තවත් 13 දෙනෙකු නොරෝච්චෝල සංචාරක හෝටලයකට  පැමිණ කාමර 52 කින් සමන් විත අදාළ සංචාරක හෝටලය සම්පූර්ණයෙන් කුලී පදනමට ලබා ගෙන නැවතී  ඇති බව පොලිස් පරීක්ෂණවලදී හෙළිව තිබේ.
+A Japanese woman has been arrested by the Puttalam Division Criminal Investigation Unit today (31).
 
-චීන ජාතිකයන් පිරිසක් සැක කටයුතු ලෙස නොරෝච්චෝල සංචාරක හෝටලයක රැඳී සිටින බවට පුත්තලම කොට්ඨාස භාර පොලිස් අධිකාරී උදය කුමාර මහතාට ලැබුණ විශේෂ තොරතුරක් මත පොලිස් අධිකාරිවරයා විසින් කොට්ඨාස බුද්ධි නිලධාරීන් හා පොලිස් ස්ථාන බුද්ධි නිලධාරීන් යොදවා විශේෂ විමර්ශනයක් පවත්වා තිබේ.
+The arrested persons were a group of people in the Norochcholai area without suspicion to visit Sri Lanka.
+
+Police investigations have revealed that the Chinese couple and 13 others who were conducting the racket first and had been returning to a norochcholai tourism hotel first on June 28.
+
+The Superintendent of Police has conducted a special investigation into a special information received by the Superintendent of Police that a group of Chinese will remain in a Norochcholai tourist hotel.
+
+The Puttalam Division Criminal Investigation Unit has been handed over to the Investigation Unit to inspect the hotel premises on a special search warrant obtained from the Puttalam Court.
+
+When the officers were inspected at the hotel premises, 11 people were arrested while two people were hiding in the toilets while he was inspected.
 
 ...
 
 [Data](articles/f4b5fcb4.json)
+
+[Extended Data](ext_articles/f4b5fcb4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 05:58:22**
+As of **2024-07-31 06:19:23**
 
 ## Newspaper Stats
 
-*Scraped **38,141** Articles*
+*Scraped **38,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 367
-islandlk | 2,181
+islandlk | 2,190
 economynextcom | 2,293
-dailyftlk | 2,434
+dailyftlk | 2,442
 adalk | 3,489
 adaderanalk | 4,415
 tamilmirrorlk | 4,732
@@ -26,11 +26,157 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,141 (100.0%) of 38,141 articles have been extended.
+38,141 (100.0%) of 38,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### EME Level Up: Digital Hospitality Conclave – digital marketing conference for hospitality industry
+
+*2024-07-31 06:02:21* · [`dailyftlk`](https://www.ft.lk/business/EME-Level-Up-Digital-Hospitality-Conclave-digital-marketing-conference-for-hospitality-industry/34-764947) · `en`
+
+EME Level Up: Digital Hospitality Conclave is set to spearhead digital transformation for the hospitality industry. This premier conference, tailored for hospitality professionals, marketers, and technology enthusiasts, will provide insights into the latest trends and best practices in digital marketing.
+
+Scheduled for 6 August at the Shangri-La Colombo, the conference will tackle the dynamic changes and challenges facing the hospitality industry. Key topics include online traveller insights, digital trends, maximising online visibility, and driving revenue growth.
+
+...
+
+[Data](articles/0a87dab0.json)
+
+---
+
+### Sri Lanka’s international bond deal: Have we been punching below our weight?
+
+*2024-07-31 06:00:39* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-international-bond-deal-Have-we-been-punching-below-our-weight/4-764946) · `en`
+
+Bondholders, in fact, were aware of these risks, including default risks, at the time they bought the bonds
+
+On 3 July 2024, the Government of Sri Lanka announced its ‘successful’ conclusion of discussions with the members of the ad hoc group of international bondholders. The purpose of this article is to contribute to the current debate on the agreed deal by pointing out apparent issues in the approach and processes underlying the negotiations.
+
+...
+
+[Data](articles/2946d4c0.json)
+
+---
+
+### Human Rights Watch charges Sri Lanka authorities target religious minorities
+
+*2024-07-31 05:55:58* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Rights-Watch-charges-Sri-Lanka-authorities-target-religious-minorities/14-764945) · `en`
+
+The Sri Lankan Government’s loud claims of reconciliation ring hollow in the face of increasing
+
+Opines renewed UN Resolution needed to counter Government’s divisive campaign
+
+Sri Lankan authorities are conducting a campaign to deny Hindus and other religious minorities access to places of worship and other property and redesignate locations as Buddhist sites, Human Rights Watch said on Monday.
+
+Government agencies, including the Department of Archaeology, the military, and police, have taken part in a concerted strategy assailing the culture and practices of religious minorities. They are promoting majority Sinhalese Buddhist settlement in Sri Lanka’s north and east to the detriment of the predominantly Tamil and Muslim populations’ rights to property and religious freedom.
+
+...
+
+[Data](articles/f174a10b.json)
+
+---
+
+### Gammanpila questions SLPP’s move to withdraw support for President
+
+*2024-07-31 05:51:31* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-questions-SLPP-s-move-to-withdraw-support-for-President/56-764942) · `en`
+
+PHU leader Udaya Gammanpila questions if SLPP’s move to withdraw support is strategy to bolster support for Ranil Wickremesinghe
+
+Says all five main candidates who have announced their candidacy for Presidential elections represent same camp
+
+Claims none of them can fulfil aspirations of 6.9 million who voted to elect President Gotabaya Rajapaksa
+
+Stresses different candidate who can fulfil their expectation must come forward for upcoming poll
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila has expressed concerns that the ruling Sri Lanka Podujana Peramuna’s (SLPP) decision to withdraw their support for President Ranil Wickremesinghe in the upcoming election might be an attempt to bolster his currently weak support.
+
+Addressing a press conference yesterday, Gammanpila said the SLPP’s decision to field its own candidate raises questions about whether this move is intended to weaken or strengthen the President’s support system.
+
+...
+
+[Data](articles/13c3a174.json)
+
+---
+
+### Support for President from some SLPPers was expected – Namal
+
+*2024-07-31 05:50:07* · [`dailyftlk`](https://www.ft.lk/news/Support-for-President-from-some-SLPPers-was-expected-Namal/56-764941) · `en`
+
+SLPP National Organiser Namal Rajapaksa says differing views within parties is a common feature in SL’s Presidential election history
+
+Stresses SLPP has a responsibility to represent SL’s leftist camp against UNP and protect party ideology
+
+Blames current political scenario for some SLPP MPs extending support to Wickremesinghe
+
+Calls on SLPP members to continue supporting their camp and set aside all differences
+
+Sri Lanka Podujana Peramuna (SLPP) National Organiser Namal Rajapaksa has said the decision by certain party members to support President Ranil Wickremesinghe in the upcoming election was anticipated.
+
+Addressing the media yesterday after several key meetings at the party headquarters, Rajapaksa remarked that differing views and discussions between and within parties is a common feature in the country’s Presidential election history.
+
+...
+
+[Data](articles/d41a2d81.json)
+
+---
+
+### Cabinet nod to gazette Bill on Commission for Truth, Unity and Reconciliation in Sri Lanka
+
+*2024-07-31 05:48:41* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-Bill-on-Commission-for-Truth-Unity-and-Reconciliation-in-Sri-Lanka/56-764940) · `en`
+
+The Cabinet of Ministers on Monday approved publishing the draft Bill on Commission for Truth, Unity and Reconciliation in Sri Lanka in the Government Gazette and presenting the same in Parliament for approval.
+
+The draft Bill prepared by the Legal Draftsman received clearance from the Attorney General.
+
+On 15 July, the Cabinet decided to prepare a new Bill amending the Bill on Truth, Peace and Reconciliation in Sri Lanka, taking into consideration the matters forwarded by the parties who are enthusiastic in respect of the said Bill drafted by the Legal Draftsman.
+
+The joint proposal presented by President Ranil Wickremesinghe in his capacity as the Defence Minister, Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe, and Foreign Affairs Minister, was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/f9023d55.json)
+
+---
+
+### Cabinet approves to gazette Bill to amend National Transport Commission Act
+
+*2024-07-31 05:48:19* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-to-gazette-Bill-to-amend-National-Transport-Commission-Act/56-764939) · `en`
+
+The Cabinet of Ministers on Monday approved the publication of a new Bill to amend the National Transport Commission Act in the Government Gazette, with plans to subsequently table it in Parliament for approval.
+
+This development follows the decision made at the Cabinet meeting held on 22 September 2022, to amend the National Transport Commission Act No. 37 of 1991.
+
+“The Bill prepared by the Legal Draftsman has received clearance from the Attorney General,” Cabinet Co-Spokesman and Transport Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He said the proposed amendments aim to extend the regulatory authority of the National Transport Commission (NTC) to include the pricing of three-wheelers, office vans and school vans.
+
+...
+
+[Data](articles/ffe017cc.json)
+
+---
+
+### Cabinet green lights additional Rs. 63.68 m to complete National Social Development Institute project
+
+*2024-07-31 05:47:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-additional-Rs-63-68-m-to-complete-National-Social-Development-Institute-project/56-764938) · `en`
+
+The Cabinet of Ministers on Monday green lighted a proposal presented by the President in his capacity as the Women, Child Affairs and Social Empowerment Minister to pay a price fluctuation value of Rs. 63.68 million to the State Engineering Corporation.
+
+This decision was based on the recommendations of the Technical Appraisal Committee and the Procurement Committee appointed by the Cabinet of Ministers.
+
+The approval comes in the wake of an earlier Cabinet decision on 26 July 2016, which sanctioned the construction of a building complex for the National Social Development Institute in the Seeduwa area, with an initial cost estimation of Rs. 1,000 million.
+
+The contract for this project was awarded to the State Engineering Corporation, with the construction initially scheduled for completion and handover by 2020.
+
+However, due to the crisis situation that prevailed in the country, the construction timeline was extended from 2019 to 2023.
+
+...
+
+[Data](articles/da9febdd.json)
+
+---
 
 ### Case against 60 trade centers in Vavuniya: Consumer Affairs Authority
 
@@ -347,6 +493,52 @@ Lebanon's State -run National News Agency reported that two bases of a building 
 [Data](articles/93145090.json)
 
 [Extended Data](ext_articles/93145090.ext.json)
+
+---
+
+### Easing Sri Lanka’s fiscal burden: Who needs a state pension?
+
+*2024-07-30 22:35:00* · [`islandlk`](http://island.lk/easing-sri-lankas-fiscal-burden-who-needs-a-state-pension/) · `en`
+
+Priyanka Jayawardena is a Research Economist at IPS with research interests in skills and education, demographics, health, and labour markets. Priyanka has around 15 years of research experience at IPS. She has worked as a consultant to international organisations including World Bank, ADB and UNICEF. She holds a BSc (Hons) specialised in Statistics and an MA in Economics, both from the University of Colombo. (Talk with Priyanka – priyanka@ips.lk)
+
+Public sector workers’ pensions are paid by tax revenue, with 12% of government revenue allocated for pensions.
+
+An IPS analysis shows that public service pensions are not a progressive welfare programme, with half of the publicly funded pensions benefitting the top 20% wealthier group.
+
+Implementing a contributory pension fund is crucial to creating a more sustainable and equitable retirement system.
+
+...
+
+[Data](articles/656afd11.json)
+
+---
+
+### Preventing crop damage by wild animals could lead to SL’s food sufficiency – minister
+
+*2024-07-30 22:32:00* · [`islandlk`](http://island.lk/preventing-crop-damage-by-wild-animals-could-lead-to-sls-food-sufficiency-minister/) · `en`
+
+Preventing crop damage caused by wild animals could ensure that the country’s harvest remains adequate for the population even without expanding on cropland, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+‘Currently, wild animals are responsible for more than 40 percent of crop damage in the country, resulting in losses worth billions of rupees over the years. Farmers countrywide have been urging the government to implement a permanent solution to mitigate this issue, Amaraweera explained.
+
+The minister also said that if wild animal-induced crop damage is managed effectively, existing harvests would meet the country’s requirements without needing to increase cultivation.
+
+...
+
+[Data](articles/03b07fe4.json)
+
+---
+
+### SLT-MOBITEL Nebula Institute of Technology recognised
+
+*2024-07-30 22:31:00* · [`islandlk`](http://island.lk/slt-mobitel-nebula-institute-of-technology-recognised/) · `en`
+
+The SLT-MOBITEL Nebula Institute of Technology, the education arm of SLT-MOBITEL, has achieved a significant milestone by being recognised as the 10th IET on Campus Chapter. The partnership with the Institute of Engineering Technology (IET) ensures the Nebula Institute is able to support its engineering and technology undergraduates throughout all stages of their education and career on a global scale. In addition, it provides students or employees the opportunity to be part of the IET’s thriving community.
+
+...
+
+[Data](articles/d6bb5675.json)
 
 ---
 
@@ -2135,263 +2327,5 @@ Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s pe
 [Data](articles/9632308d.json)
 
 [Extended Data](ext_articles/9632308d.ext.json)
-
----
-
-### Block against the Sri Lanka Freedom Party
-
-*2024-07-30 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199371) · `si`
-
-The Colombo District Court sentenced former SLFP Chairman Duminda Alagiyawanna and others for contempt of court, issuing injunctions until October 09. The case aims to challenge their actions against the party's laws.
-
-🟩
-
-The Colombo District Court sentenced the former Chairman of the Sri Lanka Freedom Party and Duminda Alagiyawanna and Duminda Dissanayake.
-
-The suspects were issued by the Colombo District Judge Sandun Withana after the cases today (30).
-
-The injunction orders were also ordered to extend to October 09.
-
-Petitiography Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera are completely contrary to the law to remove the arbitrary of the SLFP.
-
-These cases have been filed in the Colombo District Court for the purpose of providing them with a potential decision.
-
-◼️
-
-[Data](articles/9c6ce6c1.json)
-
-[Extended Data](ext_articles/9c6ce6c1.ext.json)
-
----
-
-### Demaga 9 Bridge and Demodara rail
-
-*2024-07-30 13:57:11* · [`adalk`](https://www.ada.lk/breaking_news/ආරුක්කු-9-පාලම-හා-දෙමෝදර-රේල්-ගැටය-උරුම-කළමණාකරණ-වැඩසටහනට/11-411093) · `si`
-
-A MOU was signed between the Central Cultural Fund, Railways Department, and Urban Development Authority, with Prime Minister Dinesh Gunawardena present. This agreement aims to improve the ambulance service and launch a travel management project at the Demodara Railway Station, enhancing tourism and engineering projects in Sri Lanka.
-
-🟩
-
-A Memorandum of Understanding (MOU) signed between the Central Cultural Fund, Railways Department and Urban Development Authority (SLTB).
-
-Prime Minister Dinesh Gunawardena (UM) was held at the Prime Minister Dinesh Gunawardena today with the patronage of Prime Minister Dinesh Gunawardena on the patronage of Prime Minister Dinesh Gunawardena on the patronage of the Ministry of Transport and Highways.
-
-Ambulance service in Sri Lanka is to commence. Steps have been made to commence a travel management project in the Demodara Railway Station as a second step in the project.
-
-The Prime Minister said that the Prime Minister said that the tourist hubs would be thankful to develop their tourist attraction. The Prime Minister pointed out that these projects have been highly evaluated in the field of engineering engineering.
-
-Transport Minister Bandula Gunawardena stated that the Ella Odisi, Ratnapura, and the Law, and calypso trains is an important step here.
-
-...
-
-[Data](articles/76298e06.json)
-
-[Extended Data](ext_articles/76298e06.ext.json)
-
----
-
-### Another Latin American country burns
-
-*2024-07-30 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199370) · `si`
-
-Venezuela faces widespread protests over disputed presidential election results, with accusations of fraud and violence from opposition groups. International pressure mounts as countries and organizations demand transparency and accountability from the government.
-
-🟩
-
-Chalding Venezuela challenges the results of the presidential election and the masses have a warm quality of the ear.
-
-The people protest with the protesters of the crowd and other cities, accusing the results of the presidential election for 11 years.
-
-The pre-election result, the prolonged electoral results that the opposition alliance will win 70 percent of the UPFA.
-
-The protests had taken a violent form with security forces tear gas and rubber bullets to control the protesters.
-
-Latin American and Western countries, including United Natural Organizations and other international organizations have requested Venezuelan authorities to release the results of each election centers.
-
-Nicholas Maduro has taken steps to call the diplomats of six Latinia, including Argentina, Peru and Chiilri, who did not accept Venezuelan president.
-
-◼️
-
-[Data](articles/27081978.json)
-
-[Extended Data](ext_articles/27081978.ext.json)
-
----
-
-### Fuel carrier beat Irania - Sri Lankan
-
-*2024-07-30 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199369) · `si`
-
-An Iranian revolutionary ship allegedly stole 1.5 liters of fuel from a fuel carrier in the Persian Bay last Monday. The incident involved a crew of 12, including Sri Lankans, operating under the Togo flag.
-
-🟩
-
-Iranian revolutionary ship has taken over 1.5 liters of fuel, alleging that 1.5 liters of fuel.
-
-The ship has taken the ship last Monday (22) in the Persian Bay.
-
-It is also in the seedle of fuel under West African state togo flag.
-
-Foreign media reports that there are also Sri Lankans in the staff of 12 of them.
-
-◼️
-
-[Data](articles/88563228.json)
-
-[Extended Data](ext_articles/88563228.ext.json)
-
----
-
-### Chandrasena MP supports Ranil
-
-*2024-07-30 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரசேன-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341275) · `ta`
-
-Despite the Sri Lanka People's Alliance (SLPA) deciding not to back President Ranil Wickremesinghe, Chandrasena MP has pledged support. This decision was made during the Anuradhapura District Committee Meeting of the SLPA, where Chandrasena publicly committed his backing to Wickremesinghe.
-
-🟩
-
-Sri Lanka PA has decided not to support President Ranil Wickremesinghe in the upcoming presidential election, despite the significant part of MPs of the Sri Lanka PA MP, SM Member of Parliament. Chandrasena has officially promised President Wickremesinghe.
-
-The Anuradhapura District Committee Meeting of the Sri Lanka PA. He said this while participating in the comment.
-
-◼️
-
-[Data](articles/0843a683.json)
-
-[Extended Data](ext_articles/0843a683.ext.json)
-
----
-
-### Udayan suspicion due to quitting the poust from Ranil
-
-*2024-07-30 13:38:18* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-රනිල්ගෙන්-ඉවත්වීම-නිසා-උදයට-මතුවූ-සැකය/11-411092) · `si`
-
-Udayan quits his post under suspicion, linked to Ranil. He addresses a UPFA press conference, expressing doubts about the fairness of the upcoming presidential election, citing potential manipulation by the Rajapaksas. He criticizes Ranil Wickremesinghe for not supporting his supporters and suggests the Rajapaksas' presence in government hinders TNA support for Wickremesinghe.
-
-🟩
-
-Leader of the Leader of the JHU, the Leader of the Leader of the JHU, Surgeon, Executive Counsel Executive Act of Doubts
-
-He was speaking at a press conference held by the UPFA, under the patronage of Udaya Gammanpila and Wimal Weerawansa Weerasinghe, Udaya Gammanpila, Udaya Gammanpila and Wimal Weerawansa Weerasinghe, under today (204.074).. The MP said:
-
-It has been decided that the President has sent the letter to the Sri Lanka Campaign in the front presidential election by rejecting the Sri Lanka Civil Front.
-
-There is a reasonable doubt that this is a fair doubt that this is a weak Ranil, or something we have been weakened or strengthened.
-
-The Rajapaksas to be in the government are the greatest obstacle to the Tamil National Alliance (TNA) to support Tamil Wickremesinghe. Also, the Rajapaksas who were acting in the government when the Rajapaksas were acting in the government during the Covande were the obstacle to the government to support Mr. Ranil Wickremesinghe.
-
-...
-
-[Data](articles/d09d5c18.json)
-
-[Extended Data](ext_articles/d09d5c18.ext.json)
-
----
-
-### Sri Lanka cabinet clears drafting bill for PPP Agency
-
-*2024-07-30 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-drafting-bill-for-ppp-agency-174401/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a new law to set up National Agency for Public Private Partnerships, following proposal by President Ranil Wickremesinghe, the state information office said.
-
-The agency will design and manage PPP projects and also co-ordinate with international agencies.
-
-It will identify project where public private partnerships can be implemented.
-
-The PPP Agency requires a legal basis and a legal framework was also needed for the PPP agreements.
-
-The legal draftsman was instructed to draft a law giving effect to the objectives. (Colombo/July30/2024)
-
-◼️
-
-[Data](articles/8c941a2e.json)
-
-[Extended Data](ext_articles/8c941a2e.ext.json)
-
----
-
-### Cardione floating in Kala Oya
-
-*2024-07-30 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199368) · `si`
-
-A body found floating in Kala Oya, near Wilpattu National Park, suspected to be from a fatal argument.
-
-🟩
-
-A Carcirk for a person who was floating in Kalao, who flows adjacent to the Wilpattu National Park.
-
-The police suspect that the person had been killed in a heated argument with a group of arguments recently.
-
-◼️
-
-[Data](articles/157e9358.json)
-
-[Extended Data](ext_articles/157e9358.ext.json)
-
----
-
-### Sri Lanka’s power & energy minister declares support for president
-
-*2024-07-30 13:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-power-energy-minister-declares-support-for-president-174430/) · `en`
-
-ECONOMYNEXT — Power & Energy Minister Kanchana Wijesekara has declared his support for President Ranil Wickremesinghe, becoming the first cabinet minister representing the ruling Sri Lanka Podujana Peramuna (SLPP) to do so.
-
-“I pledge my support to President Ranil Wickremesinghe for the upcoming presidential election. The majority of the SLPP Parliament group will also extend their support to the President to continue the reforms and policy’s towards greater economic stability and the betterment of the country,” Wijesekara tweeted Tuesday July 30 afternoon.
-
-Wijesekara told reporters Monday evening following the party’s decision that a faction of the party to back Wickremesinghe’s candidacy.
-
-“We will try to get the party’s support for president,” said Wijesekara, who had already come out publicly in support of the president.
-
-Wijesekara’s official declaration on Tuesday came after several members of the SLPP defied a decision by the party to not back the president at the forthcoming election.
-
-...
-
-[Data](articles/abe322a5.json)
-
-[Extended Data](ext_articles/abe322a5.ext.json)
-
----
-
-### Five arrests of vegetable garden
-
-*2024-07-30 13:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-தோட்டத்தில்-குழி-ஐவர்-கைது/76-341273) · `ta`
-
-Bogawantalawa police arrested five individuals, aged 34-45 from Balangoda, Elpitiya, and Anuradhapura, for illegal gem mining in a vegetable garden. They face charges for environmental destruction and will be presented in court with their excavation tools.
-
-🟩
-
-Five persons have been arrested by the Bogawantalawa police on suspicion of illegal excavation.
-
-In the vegetable garden, which belongs to the Bogawantalawa Police Division, some people have been arrested on the basis of reports that they are digging massive pits and destroying the environment.
-
-The detainees are under the age of 34-45, who are under the age of 34-45, who are resident of Balangoda, Elpitiya and Anuradhapura, and the illegal gem excavation has been reported in the backdrop of a man who is involved in the excavation of the Bogawantalawa area.
-
-The police said that the suspects were to be produced before the Hatton Magistrate's Court with equipment used to excavate the gem.
-
-◼️
-
-[Data](articles/8ce491f8.json)
-
-[Extended Data](ext_articles/8ce491f8.ext.json)
-
----
-
-### A warning from Wimal
-
-*2024-07-30 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199367) · `si`
-
-MP Wimal Weerawansa urged Trincomalee Mahanayakewans to resist foreign control over the Maha State of Sri Lanka, as detailed in his letter presented to the Tertical Maharaimisans.
-
-🟩
-
-MP Wimal Weerawansa has sent a letter to the Trincomalee Mahanayakewans, a request to defeat the Maha State of Sri Lanka to foreign domination.
-
-The letter was presented today to the Tertical Maharaimisans.
-
-◼️
-
-[Data](articles/ade33213.json)
-
-[Extended Data](ext_articles/ade33213.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 08:05:42**
+As of **2024-07-31 08:20:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,165 (100.0%) of 38,166 articles have been extended.
+38,166 (100.0%) of 38,166 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -904,19 +904,29 @@ Meanwhile, the Anuradhapura District Board of Anuradhapura has decided to suppor
 
 ---
 
-### කුවේට් සිට ආපු ශ්‍රී ලන්කන් යානයේ ගුවන් සේවිකාවකට පරුෂ වචනයෙන් බැන්න ගුවන් මගියෙක් අත්අඩංගුවට
+### A passenger seized from Kuwait to a flight attendant to a flight attendant
 
 *2024-07-30 20:13:32* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-සිට-ආපු-ශ්‍රී-ලන්කන්-යානයේ-ගුවන්-සේවිකාවකට-පරුෂ-වචනයෙන්-බැන්න-ගුවන්-මගියෙක්-අත්අඩංගුවට/11-411109) · `si`
 
-කුවේට් රාජ්‍යයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් තිබූ ශ්‍රී ලන්කන් ගුවන් යානයෙහි සේවයේ නිරත වී සිටි ගුවන් සේවිකාවකට එහි ගමන් ගත් මගියෙකු  අතින් ඇද පරුෂ වචනයෙන් බැණ වැදීමේ සිදු වීමක් පිළිබඳ එම ගුවන් මගියා අත් අඩංගුවට ගෙන විමර්ශන කටයුතු කටුනායක ගුවන් තොටුපොළ පොලීසිය විසින් අද (30දා) ආරම්භ කර තිබේ .
+A passenger was arrested on a flight from Kuwait to Sri Lanka after allegedly causing harm to crew members. Upon landing at Katunayake Airport, the passenger was taken to Negombo General Hospital. The incident involved the passenger's wife being accused of assaulting him, as he had a history of heart issues and sought medical treatment in Colombo. The passenger, who worked in Kuwait for 14 years, faced charges brought by the airport police, supervised by Chief Inspector General Inspector Gamini Ratnayake.
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 230 දරන ගුවන් යානය 30 දින අලුයම 02.00 ට පමණ කුවේට් රාජ්‍යයේ කුවේට් සිටි ගුවන් තොටුපොළෙන් කටුනායක ගුවන් තොටුපොළ බලා පිටත් වී තිබේ .එම ගුවන් යානයෙහි හොරණ , පොකුණුවිට පාරේ පදිංචි 35 හැවිරිදි නලීන් සම්පත් නමැති පුද්ගලයා ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීම සඳහා අංක 11 ජී නැමැති ආසනයෙහි අසුන් ගෙන ඇත .
+🟩
 
-මෙම ගුවන් යානය පිටත් වී පැය 03.30 කට පසුව එහි ගමන් ගත් ගුවන් මගීන්ට ආහාරපාන ලබා දී , ඒවා පිරිනැමූ භාජන ඉවත් කිරීම ආරම්භ කර ඇත .එහිදී මෙම ගුවන් මගියාගේ ආහාරපාන ලබා දුන් හිස් භාජන ඉවත් කර ගැනීමට සූදානම් වනවිට රණවක ආරච්චිගේ රිද්මා උදේනි කරුණාරත්න නමැති ගුවන් සේවිකාවගේ වම් අත , මැණික් කටුව සහ වැලමිට අතර ප්‍රදේශයෙන් තදින් අල්ලා , පරුෂ වචනයෙන් ද බැණ තිබේ .
+Katunayake Airport commences on behalf of a flight attendance at Kuwait from Kuwait to the Bandaranaike International Airport today (30)Has been done.
+
+Sri Lankan airline ULTo arrive at the ferry is seated in the seat No. 11G.
+
+The aircraft has been laid by the air passengers, which were traveling, and removed the vessels provided by the air passen.The hand, wrists and elbow caught in the area, caught in the area.
+
+The flight attendee has immediately taken steps to educate the aircraft staff and has taken steps to educate the pilot.. The air passenger has taken steps to arrest the Air Trayakadiya after the aircraft landed at the Katunayake airport and a group of Katunayake airport police officers.
+
+This was admitted to the Negombo General Hospital due to a period of a few days after the airport police.Available.
 
 ...
 
 [Data](articles/602ef566.json)
+
+[Extended Data](ext_articles/602ef566.ext.json)
 
 ---
 

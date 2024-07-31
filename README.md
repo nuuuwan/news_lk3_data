@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 12:20:48**
+As of **2024-07-31 12:36:08**
 
 ## Newspaper Stats
 
-*Scraped **38,206** Articles*
+*Scraped **38,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,495
+adalk | 3,496
 adaderanalk | 4,420
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,742
@@ -26,33 +26,55 @@ adaderanasinhalalk | 6,433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,205 (100.0%) of 38,206 articles have been extended.
+38,206 (100.0%) of 38,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### 138 කඩවත - කොටුව බස් වර්ජනයක්
+### රට වෙනුවෙන් මගේ ටාගට්ස් දෙකෙන් එකක් සම්පූර්ණ කළා
+
+*2024-07-31 12:19:53* · [`adalk`](https://www.ada.lk/sports/රට-වෙනුවෙන්-මගේ-ටාගට්ස්-දෙකෙන්-එකක්-සම්පූර්ණ-කළා/9-411113) · `si`
+
+ආසියානු කුසලානය ජයග්‍රහණය කිරීමට හැකියාව ලැබුණේ  ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ ක්‍රීඩිකාවන් එකමුතුව වැඩ කිරීම නිසා බව ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු පැවසීය.
+
+ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සංවිධානය කර තිබූ විශේෂ උත්සවයකට එක්වෙමින් ඇය මේ බව සඳහන් කළාය.
+
+‘මගේ ජීවිතයේ තිබුණු හීනයක් තමයි මම ක්‍රීඩාවෙන් සමුගන්න කලින් කැප්ටන් කෙනෙක් හැටියට ලංකාවට ආසියානු කුසලානයක්, ලෝක කුසලානයක් ගෙනත් දෙන එක. ඉතින් මගේ ටාගට්ස් දෙකෙන් එකක් මේ වෙද්දි කරලා දෙන්න පුළුවන් වුණා රට වෙනුවෙන්. මේක ස්ටාර්ට් එක විතරයි ළමයි. ​මේකත් එක්ක ජීවත් වුණොත් අපිට ඊලඟ ලොකුම හීනයට යන්න බෑ’
+
+◼️
+
+[Data](articles/d2295ab0.json)
+
+---
+
+### 138 Kadawatha - Fort bus strike
 
 *2024-07-31 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199403) · `si`
 
-අද (31) උදෑසන 138 කඩවත - කොටුව මාර්ගයේ ගමන්ගන්නා බස් රථ වර්ජනයක් ආරම්භ කිරීම හේතුවෙන් මගීන් දැඩි අපහසුතාවයට පත්ව තිබුණි.
+A bus strike in Sri Lanka affected routes like Kadawatha-Fort, causing inconvenience to passengers. The strike was partially eased by adding more buses from the Sri Lanka Transport Board. However, issues at the Fort Bus Stand and delays in permit issuance for new buses complicated the situation. Passengers faced difficulties due to the strike.
 
-ඒ අනුව කඩවත - කොටුව, වැලිවේරිය - කොටුව හා කිරිල්ලවල - කොටුව යන සියලු බස්රථ ධාවනයෙන් ඉවත්ව තිබුණි.
+🟩
 
-ඇති﻿වී තිබුණු කලබලකාරී තත්ත්වය මඟ හැරීම ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථ කිහිපයක් කඩිනමින් ධාවනයට එක් කළ බව ද අප වාර්තාකරු පැවසීය.
+The passengers were severely embarrassed by the opening of bus strike this morning (31) this morning.
 
-කිරිබත්ගොඩ - පිටකොටුව මාර්ගයේ අලුත් බස්රථ කිහිපයක් සඳහා අවසර ලබාදීමෙන් තමන්ගේ ආදායමට දැඩි පහරක් එල්ල වී ඇතැයි 138 බස් රථහිමියන් පවසයි.
+Accordingly, the Kadawatha - Fort, Weliweriya-Fort and Kirillawala-Box and Boxwala - Fort.
 
-මේ අතර කඩවත - කොටුව බස් නැවතුම් පොළේ මතුවී ඇති විශාල මඩවළ හේතුවෙන් මේ වනවිට බස් රථ කැඩී යන තත්ත්වයට පත්ව ඇතැයි පවසන බස් රියදුරන් වැසිකිළි බළ උතුරා යෑම හේතුවෙන් දැඩි දුර්ගන්ධයක් ප්‍රදේශයේ පවතින බව ද සඳහන් කළේය.
+We also said that he had added several buses belonging to the Sri Lanka Transport Board to work expeditiously.
 
-අදාළ හේතූන්ට විසඳුම් ඉල්ලා වර්ජනය ආරම්භ කළ බවත් විසඳුම් නොලැබුණහොත් බස් ධාවනයෙන් තමන් ඉවත්ව සිටින බවත් බස් රියදුරන් පවසයි.
+The buses say that the granting of a few permits for several new buses on the Kiribathgoda-Pettah road.
 
-කෙසේවෙතත් අදාළ බස් වර්ජනය හේතුවෙන් එම මාර්ගයේ ගමන් ගන්නා මගීන් දැඩි දුෂ්කරතාවයට පත්ව තිබේ.
+Meanwhile, bus drivers say that the bath of buses that have erupted at the Fort Bus Stand at the Fort Bus Stand, the bus drivers have been in a stinking area.
+
+The strike commenced the strike and if the solution, bus drivers said they had left the bus operation.
+
+However, passengers on the road have been severely difficult due to the bus strike.
 
 ◼️
 
 [Data](articles/f85a2154.json)
+
+[Extended Data](ext_articles/f85a2154.ext.json)
 
 ---
 
@@ -2277,31 +2299,5 @@ According to England media reports, Kumar Sangakkara is ahead. In addition to hi
 [Data](articles/b326abd6.json)
 
 [Extended Data](ext_articles/b326abd6.ext.json)
-
----
-
-### Four persons sentenced to death over 2013 murder
-
-*2024-07-30 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100882/four-persons-sentenced-to-death-over-2013-murder) · `en`
-
-Four defendants who were found guilty of murdering a person by attacking him with clubs and stones have been sentenced to death by the Colombo High Court.
-
-Accordingly, the death sentence was given to the four accused, who are residents of the Orugodawatta area, by High Court Judge Aditya Patabandige on Tuesday (30).
-
-A total of 06 defendants had been charged in the Colombo High Court for assaulting a person to death in the Santawatta area of Orugodawatta in 2013.
-
-However, the second defendant in the case had passed away during the trial.
-
-Meanwhile, the sixth defendant in the case was acquitted due to insufficient evidence against him.
-
-In 2017, the Attorney General had filed charges against the defendants under four indictments.
-
-Delivering the verdict, the judge sentenced the accused to death stating that the prosecution had proved the charges against them beyond reasonable doubt.
-
-◼️
-
-[Data](articles/d70a4ae1.json)
-
-[Extended Data](ext_articles/d70a4ae1.ext.json)
 
 ---

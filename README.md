@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 23:07:44**
+As of **2024-07-31 23:20:32**
 
 ## Newspaper Stats
 
@@ -151,6 +151,8 @@ The Supreme Court has issued the preliminary protests since the Attorney General
 *2024-07-31 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100903/no-fuel-price-revision-in-august-ceypetco-) · `en`
 
 The Ceylon Petroleum Corporation (Ceypetco) announced that there will be no fuel price revisions for the month of August.
+
+Accordingly, the CPC’s monthly revision of Ceypetco retail fuel prices will not be taking place this time, the state-owned enterprise said in a statement, adding that the current retail prices will remain unchanged.
 
 ◼️
 

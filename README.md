@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 21:06:10**
+As of **2024-07-31 21:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,304** Articles*
+*Scraped **38,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,92 @@ adalk | 3,510
 adaderanalk | 4,431
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,758
-virakesarilk | 6,053
-adaderanasinhalalk | 6,451
+virakesarilk | 6,055
+adaderanasinhalalk | 6,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,302 (100.0%) of 38,304 articles have been extended.
+38,304 (100.0%) of 38,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### සැමියාගෙන් පහර කෑ 18 හැවිරිදි බිරිඳ මරුට ?
+### ඉන්ධන මිල වෙනස් නොවෙයි
+
+*2024-07-31 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199424) · `si`
+
+මාසිකව සිදුකරන ඉන්ධන මිල සංශෝධනය යටතේ මෙවර මිල වෙනසක් සිදු නොවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/eccd13d8.json)
+
+---
+
+### 18 year old wife killed from her husband?
 
 *2024-07-31 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199423) · `si`
 
-18 හැවිරිදි විවාහක තරුණියකගේ සැකසහිත මරණයක් හේතුවෙන් පඬුවස්නුවර කිරිමැටියාව කෙලිනාවල ප්‍රදේශයේ අද (31) නොසන්සුන් තත්ත්වයක් ඇතිවී තිබුණි.
+In Kiriiniyawa, an 18-year-old newlywed, Seneuri Premathilaka, was killed, allegedly by her husband. Residents accuse him but no arrest. Her family alleges assault led to her death, sparking protests. The victim's father-in-law reportedly assaulted her mother, leading to a police complaint and counter-assaults.
 
-ප්‍රදේශවාසීන් චෝදනා කරන්නේ තරුණියගේ සැමියා කළ පහරදීමකින් ඇය මියගොස් ඇති අතර පොලීසිය සැකකාර සැමියා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බවය.
+🟩
 
-කිරිමැටියාව කෙලිනාවල පදිංචිව සිටි 18 හැවිරිදි සෙනුරි ප්‍රේමතිලක මියගොස් තිබුණේ මීට දින කිහිපයකට පෙරාතුවය.
+An 18-year-old married woman had unexpectedly in Kiriiniyawa area in Kiriiniyawa today (31).
 
-සෙනුරිගේ සැමියා කළ පහරදීමක් ඇයගේ මරණයට හේතුවී ඇති බවට සෙනුරිගේ ඥාතීන් චෝදනා කරයි.
+Residents accused her by her husband's husband and police had not arrested the suspect.
 
-ඒ අනුව සෙනුරිගේ ඥාතීන් හා ප්‍රදේශවාසීන් කිරිමැටියාව උණලීය මාර්ගයේ දී අද පස්වරුවේ විරෝධතාවයක නිරත වුණේ මරණයට සැකකාර සෙනුරිගේ සැමියා අත්අඩංගුවට ගන්නා ලෙස පොලීසියට බලකරමිනි.
+An 18-year-old Seneuri Premathilaka was killed a few days ago.
 
-ඥාතීන් පවසන්නේ, මියගිය සෙනුරිගේ සැමියාගේ පියා සෙනුරිගේ මවට පහරදීමක් සිදුකර ඇති බවය.
+Jahuri's relatives accused her death that her husband had assaulted her death.
 
-පහර කෑමට ලක්වූ පාර්ශ්වය ඒ පිළිබඳ කටුපොත පොලීසියට පැමිණිල්ලක් කර ඇති බවත් එම පැමිණිල්ල ඉල්ලා අස් කරගන්නා ලෙස බලකරමින් සෙනුරිගේ සැමියා ඇයට පහරදී ඇති බවටත් ඇයගේ ඥාතීන් චෝදනා කරයි.
+Accordingly, relatives and residents of the area have been protesting at the Unovian road in the Unharaya road this afternoon.
+
+Relatives say that the father of the deceased Senulei's husband had assaulted the mother of Senevi.
+
+The attacker has lodged a complaint with the Katupotha police and he has assaulted her husband, demanding the withdrawal of the complaint.
 
 ◼️
 
 [Data](articles/488e9771.json)
+
+[Extended Data](ext_articles/488e9771.ext.json)
+
+---
+
+### வீழ்ந்த நாட்டை இரண்டு வருடத்தில் மீட்பது அதிசயம்! - திலும் அமுனுகம
+
+*2024-07-31 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189945) · `ta`
+
+கடுமையான பொருளாதாரச் சரிவைச் சந்தித்த நாட்டை இரண்டு ஆண்டுகள் என்ற குறுகிய காலத்தில் ஸ்திரமான நிலைக்குக் கொண்டு வந்தது அதிசயமாகும். உலகில் இவ்வாறான பொருளாதார வீழ்ச்சியைச் சந்தித்த எந்தவொரு நாடும் இவ்வளவு குறுகிய காலத்தில் ஸ்திரத்தன்மையை அடையவில்லை என முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+
+அறிவு, அனுபவம் மற்றும் உலகளாவிய தொடர்புகளின் அடிப்படையில் வீழ்ந்த நாட்டை மீட்கக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க என்பது தற்போது உறுதிப்படுத்தப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+எனவே அடுத்த ஐந்து வருடங்களுக்கு அந்தத் தலைமையை தெரிவு செய்வது சரியான மற்றும் நியாயமான முடிவாகும் என இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் திலும் அமுனுகம இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/818b49b0.json)
+
+---
+
+### உலகளாவிய போட்டித்தன்மை கொண்ட தேசிய தொழில்துறை தளத்தை உருவாக்குவதற்கான தேசிய தொழில்துறை கொள்கை தயாரிக்கப்பட்டுள்ளது - சாந்த வீரசிங்க
+
+*2024-07-31 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189944) · `ta`
+
+உலகளாவிய போட்டித்தன்மைகொண்ட தேசிய அடிப்படையை இந்நாட்டில் உருவாக்கும் வகையில் 2023-2027 காலப்பகுதிக்கான ஐந்தாண்டு மூலோபாய திட்டத்துடன் கூடிய "தேசிய கைத்தொழில் கொள்கை" தயாரிக்கப்பட்டு, தேசிய திட்டமிடல் திணைக்களத்திடம் சமர்ப்பிக்கப்பட்டுள்ளதாக கைத்தொழில் அமைச்சின் செயலாளர் சாந்த வீரசிங்க தெரிவித்தார்.
+
+இதன் மூலம், 2030 ஆம் ஆண்டளவில், மொத்த தேசிய உற்பத்தியில் உற்பத்தித் துறையின் பங்களிப்பை 16% லிருந்து 20% ஆக உயர்த்துதல், தொழிற்படைக்கு தொழில்முயற்சியாளர் பங்களிப்பை 2.8% லிருந்து 7% ஆக உயர்த்துதல், மொத்த தேசிய உற்பத்தியில் தொழில்துறை ஏற்றுமதியின் பங்களிப்பை 14% இல் இருந்து 20% ஆக உயர்த்துவதையும் இலக்காகக் கொண்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+''இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்'' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் இன்று (31) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே  கைத்தொழில் அமைச்சின் செயலாளர் சாந்த வீரசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/39543b8d.json)
 
 ---
 
@@ -86,19 +138,25 @@ He has said that due to firearms to fire, he had placed the weapons from a forme
 
 ---
 
-### නිදහස් පක්ෂයේ සහාය ජනපති රනිල්ට
+### President to support Freedom Party
 
 *2024-07-31 19:58:26* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-සහාය-ජනපති-රනිල්ට/11-411133) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂයේ  සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දීමට අද (31) තිරණය කර තිබේ
+President Ranil Wickremesinghe, leading Sri Lanka Freedom Party (SLFP), announced his candidacy for the upcoming presidential election, receiving support from the party's Central and Executive Committees.
 
-ඉදිරි ජනාධිපතිවරණයේදි අපේක්ෂයෙකු ඉදිරිපත් කරනවාද නැද්ද යන්න හා වෙනත් අපේක්ෂකයෙකුට සහාය දෙනවාද යන්න තිරණය කිරිම සඳහා අද ශ්‍රී ලංකා නිදහස් පක්ෂයේ  දේශපාලන මණ්ඩලය, මධ්‍යම කාරක සභාව හා විධායක සභාව රැස් විය.
+🟩
 
-මේ අනුව අදාළ සාකච්ඡාවලින් පසු මධ්‍යම කාරක සභාවේ පිරිස් අද සවස ජනාධිපති රනිල් වික්‍රමිසිංහ මහතා මුණ ගැසි යොජනාවලියක් භාර  දී තිබේ.
+Sri Lanka Freedom Party (SLFP) supported by President Ranil Wickremesinghe today (31)
+
+The Central Committee and the Executive Committee met if a candidate would be presented in the next presidential election and whether another candidate would support another candidate.
+
+According to the discussions, the central committee had been handed over to President Ranil Wickremesinghe this evening.
 
 ◼️
 
 [Data](articles/020eb880.json)
+
+[Extended Data](ext_articles/020eb880.ext.json)
 
 ---
 
@@ -2229,69 +2287,5 @@ The official added that the fuel prices will not be revised today after paying a
 [Data](articles/deeb68ed.json)
 
 [Extended Data](ext_articles/deeb68ed.ext.json)
-
----
-
-### Kerala’s Wayanad landslides: Death toll rises to 151, search on for missing
-
-*2024-07-31 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100891/-keralas-wayanad-landslides-death-toll-rises-to-151-search-on-for-missing) · `en`
-
-Nearly 1,000 people have been rescued after landslides in the hills of Wayanad district in India’s Kerala state, authorities said on Wednesday, with at least 151 people dead and many still missing.
-
-Heavy rain in one of India’s most attractive tourist destinations collapsed hillsides early on Tuesday sending torrents of mud, water and tumbling boulders through tea and cardamom estates and small settlements. It was the worst disaster in the state since deadly floods in 2018.
-
-At least 151 people died and 187 were still missing, the state chief minister’s spokesman, P.M. Manoj, told Reuters by phone.
-
-The Indian Army said it rescued 1,000 people and has begun the process to construct an alternate bridge after the main bridge linking the affected area to the nearest town of Chooralmala was destroyed.
-
-Nearly 350 of the 400 registered houses in the affected region have been damaged, Asianet TV reported, citing district officials.
-
-...
-
-[Data](articles/99fa7d14.json)
-
-[Extended Data](ext_articles/99fa7d14.ext.json)
-
----
-
-### Three arrested over shooting and killing two persons in Grandpass
-
-*2024-07-31 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100890/three-arrested-over-shooting-and-killing-two-persons-in-grandpass) · `en`
-
-Three suspects have been arrested in connection with the recent shooting and killing of two individuals in the Grandpass area in Colombo.
-
-Police stated that the gunman who carried out the shooting, the motorcyclist involved and another person who aided and abetted in the murder have been arrested.
-
-The arrested suspects, aged 26, 37 and 45 are residents of the Orugodawatta and Wellampitiya areas.
-
-Two individuals were killed in a shooting incident on July 25 in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo. Later the deceased were identified as a woman known as ‘Grandpass Kudu Suneetha’ and her assistant who were allegedly involved in a large-scale drug racket.
-
-The incident had occurred while they were travelling in a three-wheeler when two gunmen had fired at them at around 5.50 p.m.
-
-◼️
-
-[Data](articles/34fda6b0.json)
-
-[Extended Data](ext_articles/34fda6b0.ext.json)
-
----
-
-### Complaint against the President
-
-*2024-07-31 10:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-எதிராக-முறைப்பாடு/175-341333) · `ta`
-
-The Elections Commission filed a complaint against President Ranil Wickremesinghe for allegedly breaking election laws. The issue arose from discussions at the Presidential Secretariat regarding requests from ruling party members.
-
-🟩
-
-The Elections Commission has lodged a complaint against President Ranil Wickremesinghe over the violation of the election law.
-
-The complaint was made in connection with the discussion held on the request of the ruling party members to the Presidential Secretariat.
-
-◼️
-
-[Data](articles/018677cb.json)
-
-[Extended Data](ext_articles/018677cb.ext.json)
 
 ---

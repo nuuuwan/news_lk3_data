@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 15:35:51**
+As of **2024-07-31 15:53:47**
 
 ## Newspaper Stats
 
-*Scraped **38,248** Articles*
+*Scraped **38,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,100 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,501
+adalk | 3,502
 adaderanalk | 4,424
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,747
+tamilmirrorlk | 4,748
 virakesarilk | 6,039
-adaderanasinhalalk | 6,443
+adaderanasinhalalk | 6,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,246 (100.0%) of 38,248 articles have been extended.
+38,248 (100.0%) of 38,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ඔන්ලයින් ඔස්සේ මුදල් වංචාකළ විදේශිකයින් පිරිසක් මන්නාරමේදී අත්අඩංගුවට
+### இஸ்மாயில் ஹனி படுகொலை:  ஜனாதிபதி ரணில் அதிரடி
+
+*2024-07-31 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்மாயில்-ஹனி-படுகொலை-ஜனாதிபதி-ரணில்-அதிரடி/175-341350) · `ta`
+
+இரானில் ஹமாஸ் இயக்கத்தின் அரசியல் பிரிவுத் தலைவர் இஸ்மாயில் ஹனி படுகொலைச் செய்யப்பட்டதை அடுத்து ஜனாதிபதி ரணில் விக்கிரமசிங்க அதிரடி நடவடிக்கை எடுத்துள்ளார்.
+
+படுகொலை செய்யப்பட்டுள்ள நிலையில், ஈரான் உள்ளிட்ட மத்திய கிழக்கு நாடுகள் மற்றும் உலகில் ஏற்படக் கூடிய நிலைமையினால் இலங்கைக்கு ஏற்படக் கூடிய பாதிப்புகள் குறித்தே கவனம் செலுத்தியுள்ளார்.
+
+இலங்கைக்கு ஏற்படக் கூடிய பாதுகாப்பு, பொருளாதார பாதிப்புக்களை எதிர்கொள்வதற்கான முன் ஆயத்தமாக தேசிய பாதுகாப்பு தொடர்பான குழுவையும், பொருளாதாரம் தொடர்பான குழுவையும், இவற்றைக் கண்காணிக்க உயர் மட்டக் குழுவையும் நியமிக்க ஜனாதிபதி ரணில் விக்ரமசிங்க நடவடிக்கை எடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/9142b309.json)
+
+---
+
+### කොළඹ උද්ධමනය ඉහළ යයි
+
+*2024-07-31 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199414) · `si`
+
+2024 ජූලි මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  2024 ජූලි මාසය සඳහා 2.4% ක් දක්වා වැඩි වී ඇත.  එය 2024 ජුනි මාසය සඳහා 1.7% ක් ලෙස වාර්තා වී තිබුණි.
+
+2024  ජුලි මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය 1.5% දක්වා වැඩි වී ඇති අතර 2024 ජුනි මාසයේදී වාර්තා වුයේ 1.4% ක්  ලෙසය.
+
+එමෙන්ම,  2024 ජූලි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය 2.8% ක් දක්වා වැඩිවී ඇති අතර එය 2024 ජුනි මාසයේදී 1.8%  ක් ලෙස වාර්තාවී ඇති බවද ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/0798bf35.json)
+
+---
+
+### A group of foreigners arrested in Mannar
 
 *2024-07-31 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199413) · `si`
 
-අන්තර්ජාලය හරහා මුදල් වංචා කිරීම සම්බන්ධයෙන් පුත්තලම ප්‍රදේශයේදී විදේශීය ජාතිකයින් 50කට වැඩි පිරිසක් ඊයේ (30) අත්අඩංගුවට ගෙන තිබේ.
+In Mannar, over 50 foreign nationals were arrested, including 44 men and 9 women, who ran a racket from a hotel in Kalpitiya, Puttalam. They obtained a court order for investigation. The police confiscated 98 mobile phones, 44 computers, and numerous SIM cards.
 
-වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ රුවන් ගුණසේකර මහතා පැවසුවේ එහිදී පිරිමි පුද්ගලයන් 44ක් සහ කාන්තාවන් 09 දෙනෙක් අත්අඩංගුවට ගත් බවයි.
+🟩
 
-එම පිරිස පුත්තලම, කල්පිටිය ප්‍රදේශයේ පිහිටි හෝටලය ක සිට ජාවාරම සිදුකර ඇති අතර අධිකරණ නියෝගයක් ලබාගෙන එම හෝටලය පරීක්ෂා කිරීමට විමර්ශන නිලධාරීන් කටයුතු කළේය.
+More than 50 foreign nationals have been arrested in the Puttalam area yesterday (30).
 
-එහිදී එම ජංගම දුරකථන 98ක්, පරිගණක 44ක් සහ  සිම් කාඩ් විශාල ගණනක් පොලිස් භාරයට ගෙන ඇති අතර  පරිගණක අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් වැඩිදුර විමර්ශන සිදුකරයි.
+Acting Police Media Spokesperson DIG Ruwan Gunasekara said that 44 men and nine women were arrested.
 
-ඔවුන්ගෙන් ලද තොරතුරු අනූව තවත් විදේශිකයින් දෙදෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් භාරයේ තිබී රුපියල් කෝටියකට වැඩි මුදලක් පොලිස් භාරයට ගෙන තිබුණි.
+The group had carried out the racket from the hotel in Kalpitiya, Puttalam and obtained a court order and investigated the hotel.
+
+Police have seized 98 mobile phones, 44 computers and a large number of SIM cards.
+
+According to their information, two more foreigners were arrested and more than Rs.
 
 ◼️
 
 [Data](articles/a6ffea07.json)
 
+[Extended Data](ext_articles/a6ffea07.ext.json)
+
 ---
 
-### ගෑස් මිල ගැන දැනුම්දීමක්
+### Notice of gas price
 
 *2024-07-31 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199412) · `si`
 
-අගෝස්තු මාසය සඳහා ලිට්‍රෝ ගෑස් මිල වෙනස් නොවන බව එම සමාගම පවසයි.
+Litro Gas prices remain unchanged in August, as announced by Chairman Muditha Peiris.
 
-ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා ඒ බව දැනුම් දුන්නේය.
+🟩
+
+Litro gas prices will not be changed for the month of August.
+
+Chairman of Litro Gas, Muditha Peiris made this statement.
 
 ◼️
 
 [Data](articles/57882d68.json)
+
+[Extended Data](ext_articles/57882d68.ext.json)
 
 ---
 
@@ -229,6 +275,28 @@ The Vision 'Every Sacred Area' has taken a lot of measures to stabilize the coun
 [Data](articles/cfd08ff2.json)
 
 [Extended Data](ext_articles/cfd08ff2.ext.json)
+
+---
+
+### බාලදක්ෂ ව්‍යාපාරයේ සාමාජිකත්වය දෙගුණ කිරිමට යයි
+
+*2024-07-31 13:40:37* · [`adalk`](https://www.ada.lk/breaking_news/බාලදක්ෂ-ව්‍යාපාරයේ-සාමාජිකත්වය-දෙගුණ-කිරිමට-යයි/11-411118) · `si`
+
+බාලදක්ෂ ව්‍යාපාරය ඇතුළු සංවිධාන සෑම අතින්ම ශක්තිමත් කර රටේ ඉදිරි ගමන වෙනුවෙන් තාරුණ්‍ය පුළුල් ලෙස දායක කර ගන්නවා
+
+බාලදක්ෂිකා සංගමයට නව ගොඩනැඟිල්ලක් – බාල දක්ෂිකාවන් 2000කට ජනාධිපති පදක්කම් පිරිනමමින් ජනපති කියයි.
+
+බාලදක්ෂ ව්‍යාපාරය, ශිෂ්‍ය භට බලකාය සහ යොවුන් සේනාංකය වැනි තරුණ සංවිධාන සෑම අතින්ම ශක්තිමත් කර රටේ ඉදිරි ගමන වෙනුවෙන් තාරුණ්‍ය පුළුල් ලෙස දායක කර ගැනීම තම අරමුණ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය
+
+ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන රජය දැනටමත් වෙන් කර තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා ඉදිරියේ දී ද ඊට අවශ්‍ය ප්‍රතිපාදන වෙන් කරන බව කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකා බාල දක්ෂිකා සංගමයේ සාමාජිකාවන්ට ජනාධිපති පදක්කම් පිරිනැමීම වෙනුවෙන් කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ අද (31) පැවති උත්සවයට එක් වෙමිනි.
+
+75,000ක් වූ බාලදක්ෂ ව්‍යාපාරයේ සාමාජිකත්වය 150,000 දක්වා ඉහළ නැංවීමට අවශ්‍ය සහාය ලබා දෙන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/227989b3.json)
 
 ---
 
@@ -2231,85 +2299,5 @@ He said that he was bargaining with the public because of his absence of the pre
 [Data](articles/33212586.json)
 
 [Extended Data](ext_articles/33212586.ext.json)
-
----
-
-### India
-
-*2024-07-31 00:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199390) · `si`
-
-India clinched the T20I series against Sri Lanka, winning the third match convincingly. The game was highlighted by India's opening batsman Surkumar Yadav, who scored the majority of the team's runs. Despite a challenging target of 137 runs, the Indian team managed to surpass it comfortably, thanks to solid performances across the board.
-
-🟩
-
-India won the third Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty-T20 International Owake.
-
-Both teams were passed in 137 runs.
-
-Because Washington Paradar was passed to easily tain it.
-
-Sri Lankan batsmen were obtained in the super boat.
-
-The Indian Leader Surkumar Yadav, who was in the field as opener, and fourth the first four-third blow, marked the match.
-
-◼️
-
-[Data](articles/06902b1c.json)
-
-[Extended Data](ext_articles/06902b1c.ext.json)
-
----
-
-### Interim secretariat website
-
-*2024-07-31 00:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-செயலக-இணையத்தளம்/175-341316) · `ta`
-
-The Interim Secretariat for Truth and Reconciliation aims to support affected communities by addressing long-term impacts of past events (1983-2009) in the North and East through justice implementation reports and solutions. It encourages compliance and amendments from all parties before public announcements. The site features contributions from various organizations, international representatives, and leaders across sectors to foster reconciliation.
-
-🟩
-
-The Official Interim Secretariat for Truth and Reconciliation Mechanism
-
-This website will be operated by the main information on those who are concerned about the progress of the interim secretariat. The report on this website
-
-The web page has also posted a report on the implementation of prevailing justice in the North and East in 1983 - 2009 and emphasizing solutions to the long -term impacts.
-
-For all parties to obtain compliance and amendments to it before you announce these issues before the Gazette
-
-It also includes a variety of ideas from various organizations and international representatives in the community, including political leaders and religious leaders.
-
-The Interim Secretariat for Truth and Reconciliation is working to create an environment that will provide the necessary support to all affected communities with the aim of solving the main problems of the affected people.. Remble
-
-◼️
-
-[Data](articles/78a357d2.json)
-
-[Extended Data](ext_articles/78a357d2.ext.json)
-
----
-
-### 2024-07-30 (Tuesday)
-
-### “President violates the Meeur Act”
-
-*2024-07-30 23:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீயுயர்-சட்டத்தை-மீறுகிறார்-ஜனாதிபதி/175-341314) · `ta`
-
-"Opposition leader accuses the president of violating the constitution, challenging national laws, and fostering corruption, leading to societal decay and economic ruin."
-
-🟩
-
-The entire democratic structure, including obstacles and equations between the 3 pillars of democracy, is being completely renovated. Opposition leader Sajith Premadasa, on the other hand, said that the entire community has been in a major crisis due to massive crimes.
-
-The economy, society, politics and religion of our country are completely deteriorating. He accused the country's president of publicly challenging the constitution, publicly violating the country's highest legislation.
-
-The Opposition Leader of the United People's Power, Polonnaruwa District Month Conference was held on Tuesday (30).
-
-Since ancient times, our country's social organization has been built on Buddhist policies and values. It extends from the individual to the top of the entire community. Interconnect
-
-...
-
-[Data](articles/4478cbf2.json)
-
-[Extended Data](ext_articles/4478cbf2.ext.json)
 
 ---

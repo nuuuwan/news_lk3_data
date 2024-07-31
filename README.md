@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 07:28:26**
+As of **2024-07-31 07:37:54**
 
 ## Newspaper Stats
 
-*Scraped **38,161** Articles*
+*Scraped **38,163** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 330
+dbsjeyarajcom | 332
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 367
@@ -26,27 +26,29 @@ adaderanasinhalalk | 6,423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,150 (100.0%) of 38,161 articles have been extended.
+38,157 (100.0%) of 38,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ග්‍රෑන්ඩ්පාස් ද්විත්ව ඝාතනයට සැකකරුවන් තිදෙනෙක් මාට්ටු
+### Three suspects arrested for murder of Grandpass double murder
 
 *2024-07-31 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199393) · `si`
 
-ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේදී පුද්ගලයින් දෙදෙනෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Three suspects have been arrested in the Grandpass area shooting two people.
 
-පොලීසිය පැවසුවේ, ඝාතනය සිදුකළ වෙඩික්කරු යතුරු පැදිකරු සහ ඊට ආධාර අනුබල දුන් තවත් පුද්ලගයෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+Police said the murder was arrested and arrested another provider who supported the motorcyclist and aided.
 
-අත්අඩංගුවට ගෙන ඇත්තේ 26, 37 සහ 45 යන වයස් සීමාවල පසුවන ඔරුගොඩවත්ත සහ වැල්ලම්පිටිය යන ප්‍රදේශවල පදිංචිකරුවන් තිදෙනෙකි.
+The arrested were three residents of Orugodawatta and Wellampitiya in age, 37 and 45.
 
-පසුගිය 25 වනදා ග්‍රෑන්ඩ්පාස් වඳුලවත්ත පුරදර සෙවන මහල් නිවාස සංකීරණය ඉදිරිපිටදී ත්‍රීරෝද රථයක සිටි පුද්ලගලයෙකුට සහ කාන්තාවකට වෙඩි තබා එම ඝාතනය සිදුකර තිබුණි.
+The murder was shot dead in front of the Grandpass Wandulawatte Apartment complex on the 25th.
 
 ◼️
 
 [Data](articles/f115af14.json)
+
+[Extended Data](ext_articles/f115af14.ext.json)
 
 ---
 
@@ -243,6 +245,8 @@ However, due to the crisis situation that prevailed in the country, the construc
 ...
 
 [Data](articles/da9febdd.json)
+
+[Extended Data](ext_articles/da9febdd.ext.json)
 
 ---
 
@@ -580,6 +584,8 @@ Implementing a contributory pension fund is crucial to creating a more sustainab
 
 [Data](articles/656afd11.json)
 
+[Extended Data](ext_articles/656afd11.ext.json)
+
 ---
 
 ### Preventing crop damage by wild animals could lead to SL’s food sufficiency – minister
@@ -596,6 +602,8 @@ The minister also said that if wild animal-induced crop damage is managed effect
 
 [Data](articles/03b07fe4.json)
 
+[Extended Data](ext_articles/03b07fe4.ext.json)
+
 ---
 
 ### SLT-MOBITEL Nebula Institute of Technology recognised
@@ -607,6 +615,8 @@ The SLT-MOBITEL Nebula Institute of Technology, the education arm of SLT-MOBITEL
 ...
 
 [Data](articles/d6bb5675.json)
+
+[Extended Data](ext_articles/d6bb5675.ext.json)
 
 ---
 
@@ -637,6 +647,20 @@ The five-member Supreme Court Badulla informed this cadre to the Solicitor Gener
 [Data](articles/63d86125.json)
 
 [Extended Data](ext_articles/63d86125.ext.json)
+
+---
+
+### SLPP Deciding not to Support  Ranil is a Blessing in Disguise for him because Wickremesinghe would be better off without the endorsement of the Rajapaksas.
+
+*2024-07-30 21:47:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84454) · `en`
+
+Monday (July 29)  night, the Sri Lanka Podujana Peramuna (SLPP) finally parted ways with Ranil Wickremesinghe, announcing plans to field its own candidate at the presidential election. The move effectively split the Pohottuwa and saw President Wickremesinghe affiliated SLPP MPs, 11 of them, leaving the party’s central committee meeting and assembling at the UNP headquarters to endorse the candidacy of Wickremesinghe.
+
+Pohottuwa’s split was predictable, and so was its plan to field a separate candidate in a desperate bid to hold onto the eroding Rajapaksa stranglehold. The move is not necessarily an election winner for the Pohottuwa, nor is it even designed to address the electoral calculations of the forthcoming presidential election.
+
+...
+
+[Data](articles/6b967d4c.json)
 
 ---
 
@@ -2295,29 +2319,5 @@ In addition to the imprisonment, the owner has been fined and banned from raisin
 [Data](articles/87cf1bc2.json)
 
 [Extended Data](ext_articles/87cf1bc2.ext.json)
-
----
-
-### Mudbudar girl: Youth arrested
-
-*2024-07-30 14:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/முட்புதரில்-சிறுமி-இளைஞர்-கைது/93-341280) · `ta`
-
-In Moneragala, a 28-year-old man was arrested on suspicion of sexual abuse against a 15-year-old girl from a children's home. The incident occurred after the girl went missing from the home on the 26th, and she was later found with the suspect. She was hospitalized for a medical exam.
-
-🟩
-
-Moneragala police have arrested a youth on the 30th of this month for allegedly sexually abusing a girl living in a children's home.
-
-A 15 -year -old girl from a children's home has been in love with a 28 -year -old youth living in a garden near the children's home.
-
-At the Children's House, the princess was missing on the 26th. Subsequently, the young man was with a young man in Mudbudar.
-
-The girl has been admitted to the Moneragala District General Hospital for medical examination. The police have arrested the police.
-
-◼️
-
-[Data](articles/9eb3a16e.json)
-
-[Extended Data](ext_articles/9eb3a16e.ext.json)
 
 ---

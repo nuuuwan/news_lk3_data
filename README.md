@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 10:21:06**
+As of **2024-07-31 10:36:00**
 
 ## Newspaper Stats
 
-*Scraped **38,180** Articles*
+*Scraped **38,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
-adalk | 3,491
-adaderanalk | 4,416
+adalk | 3,493
+adaderanalk | 4,418
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,736
 virakesarilk | 6,023
@@ -26,45 +26,77 @@ adaderanasinhalalk | 6,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,177 (100.0%) of 38,180 articles have been extended.
+38,180 (100.0%) of 38,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறை
+### Presidential Election: Deposit placed for Sajith Premadasa
 
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-கடற்தொழிலாளர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
+*2024-07-31 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100889/presidential-election-deposit-placed-for-sajith-premadasa-) · `en`
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
+Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has placed a deposit with the Election Commission on behalf of party leader Sajith Premadasa as a candidate for the 2024 Presidential Election.
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் , பல்வேறு கால கட்டத்தில் கைதான 64 மீனவர்களின் வழக்கு விசாரணைகள் செவ்வாய்க்கிழமை (30) ஊர்காவற்துறை நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+He had placed the deposit this morning (31) at the Election Commission Office in Rajagiriya.
 
-அதன் போது, ஜூன் மாதம் 16ஆம் மற்றும் 22ஆம் திகதிகளில் கைதான 26 பேரில் மூவர் இரண்டாவது தடவையாக மீள கைதாகி இருந்தமையால் , அவர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டது.
+◼️
 
-ஏனைய 23 பேரில் மூன்று படகுகளின் உரிமையாளர்களும் இருந்தமையால் , அவர்கள் மூவருக்கும் தலா 4 மில்லியன் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது. தண்ட பணம் செலுத்த தவறின் , 06 மாத சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும், மூன்று படகுகளையும் அரசுடமை ஆக்கப்பட்டுள்ளதாக மன்று கட்டளையிட்டது.
-
-...
-
-[Data](articles/37bf7ee5.json)
+[Data](articles/d531fc65.json)
 
 ---
 
-### கட்டுப்பணத்தை செலுத்தினார் சஜித் பிரேமதாச
+### One year in prison for three Tamil Nadu fishermen
+
+*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-கடற்தொழிலாளர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
+
+Three Tamil Nadu fishermen received one-year prison sentences and fines for fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in jail. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Another 25 arrested later were remanded until further notice.
+
+🟩
+
+Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
+
+The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
+
+At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
+
+The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
+
+Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
+
+◼️
+
+[Data](articles/37bf7ee5.json)
+
+[Extended Data](ext_articles/37bf7ee5.ext.json)
+
+---
+
+### Sajith Premadasa paid control
 
 *2024-07-31 09:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-சஜித்-பிரேமதாச/175-341325) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளரான சஜித் பிரேமதாச இன்று (31) காலை தேர்தல்கள் ஆணைக்குழுவிற்கு கட்சியின் செயலாளர் ரஞ்சித் மத்துமபண்டார மற்றும் குழுவினருடன் சென்று கட்டுப்பணத்தை செலுத்தியுள்ளார். R
+Sajith Premadasa, the presidential candidate from the United People's Power, visited the Elections Commission with his party secretary, Ranjith Mathumabandara, to discuss election-related matters.
+
+🟩
+
+Sajith Premadasa, the United People's Power's presidential candidate, went to the Elections Commission this morning with the party secretary Ranjith Mathumabandara and the group.. Remble
 
 ◼️
 
 [Data](articles/707c4052.json)
+
+[Extended Data](ext_articles/707c4052.ext.json)
 
 ---
 
 ### Hamas senior leader assassinated in Iran
 
 *2024-07-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189858) · `ta`
+
+Ismail Honey, a senior Hamas leader, was assassinated in Tehran, Iran, along with his bodyguard. The assassination occurred at his residence, reportedly during an Israeli attack, shortly after his participation in Iran's new presidency ceremony.
+
+🟩
 
 Ismail Honey, the senior leader of the Hamas organization, was assassinated in Iran today (31).
 
@@ -81,6 +113,24 @@ The organization said that Honey was killed after participating in the new Iran'
 [Data](articles/01879617.json)
 
 [Extended Data](ext_articles/01879617.ext.json)
+
+---
+
+### Hamas chief Ismail Haniyeh killed in Iran, Hamas says
+
+*2024-07-31 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100888/hamas-chief-ismail-haniyeh-killed-in-iran-hamas-says) · `en`
+
+Hamas leader Ismail Haniyeh was killed in Iran on Wednesday, the Palestinian militant group Hamas and Iran’s elite Revolutionary Guards said in separate statements.
+
+The Islamist faction mourned the death of Haniyeh, who it said was killed in “a treacherous Zionist raid on his residence in Tehran”.
+
+Hanieh attended Iran’s new president’s swearing in ceremony on Tuesday.
+
+“Early this morning, the residence of Ismail Haniyeh in Tehran was struck, resulting in his and one of his body guards’ martyrdom. The cause is under investigation and will be announced soon,” the Revolutionary Guards said.
+
+◼️
+
+[Data](articles/35a24350.json)
 
 ---
 
@@ -128,23 +178,29 @@ On the 25th, a man and a woman were shot dead in a three -wheeler in front of th
 
 ---
 
-### ஹமாஸ் தலைவர்  இஸ்மாயில் ஹனியே கொல்லப்பட்டார்
+### Hamas leader Ismail Honey was killed
 
 *2024-07-31 09:37:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸ்-தலைவர்-இஸ்மாயில்-ஹனியே-கொல்லப்பட்டார்/50-341323) · `ta`
 
-இஸ்ரேல் - ஹமாஸ் இடையே போர் நீடித்து வரும் நிலையில், ஹமாஸ் தலைவர் இஸ்மாயில் ஹனியே தங்கியிருந்த வீட்டை குறிவைத்து இஸ்ரேலிய படைகள் நடத்திய தாக்குதலில் அவர் கொல்லப்பட்டார்.
+Ismail Honey, a key Hamas leader, was assassinated in Tehran during an Israeli airstrike while attending Iran's presidential inauguration. This incident escalates tensions amid ongoing conflict between Israel and Hamas, with significant casualties reported on both sides.
 
-இஸ்ரேல் - ஹமாஸ் படைகளுக்கு இடையே பல மாதங்களாக போர் நீடித்து வருகிறது. இதில் இதுவரை உயிரிழந்த பலஸ்தீனர்களின் எண்ணிக்கை 39 ஆயிரத்தை கடந்தது. 90 ஆயிரத்து 589க்கும் மேற்பட்டோர் காயமடைந்துள்ள நிலையில், தொடர்ந்து ஹமாஸ் அமைப்பினர் மீதான தாக்குதலை இஸ்ரேல் படைகள் தீவிரப்படுத்தி வருகின்றன. இஸ்ரேல் தரப்பில் ஆயிரத்து 200க்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர்.
+🟩
 
-இந்த நிலையில், ஹமாஸ் அமைப்பின் முக்கிய தலைவரான இஸ்மாயில் ஹனியே ஈரானில் கொல்லப்பட்டார்.
+As the war between Israel and Hamas continues, he was killed in an attack by Israeli forces, targeting the house where Hamas leader Ismail Honey was staying.
 
-ஈரான் நாட்டின் புதிய ஜனாதிபதி பதவியேற்பு விழாவில் பங்கேற்க வந்தபோது தெஹ்ரானில் அவர் தங்கியிருந்த வீட்டை குறிவைத்து இஸ்ரேலிய படைகள் நடத்திய தாக்குதலில் அவர் கொலை செய்யப்பட்டுள்ளார்.
+War has been going on for months between Israel - Hamas forces. The number of Palestinians who died so far crossed 39 thousand. Israeli forces are intensifying the attack on Hamas, with more than 90 thousand 589 injured. More than a thousand people have died on the Israeli side.
 
-ஈரானின் இஸ்லாமிய புரட்சிகர காவல் படை இந்த தகவலை உறுதிப்படுத்தி உள்ளதாக ஈரான் நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளது. இதனால், பெரும் பதற்றம் உருவாகியுள்ளது.S
+In this case, Ismail Honey, the main leader of the Hamas organization, was killed in Iran.
+
+He has been murdered in an attack by Israeli forces targeting the house where he was staying in Tehran when he attended the new presidential ceremony of Iran.
+
+Iranian media reports that Iran's Islamic Revolutionary Guard has confirmed this information. Thus, great tension has developed. S
 
 ◼️
 
 [Data](articles/e0400e76.json)
+
+[Extended Data](ext_articles/e0400e76.ext.json)
 
 ---
 
@@ -1240,6 +1296,24 @@ Sri Lanka - Wish, Kusal Mendis, Kusal Perera, Kusal Perera, Kusal Perera, Kusal 
 
 ---
 
+### පොහොට්ටුව වෙන අපේක්ෂකයෙක් ගෙන ඒම රටටම සුබ ආරංචියක්
+
+*2024-07-30 19:48:56* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-වෙන-අපේක්ෂකයෙක්-ගෙන-ඒම-රටටම-සුබ-ආරංචියක්/11-411105) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ ඉදිරි ජනාධිපතිවරණය සදහා වෙනම අපෙක්ෂකයෙක් ඉදිරිපත් කිරීමට තීරණය කිරීම රටට සුබ ආරංචියත් බව එක්සත් ජනරජ පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ‘අද’ පුවත්පතට පැවසීය.
+
+ඒ අනුව රට බංකොලොත් කිරීමට සම්බන්ධ කණ්ඩායම එකට එක්ව අපෙක්ෂකයෙක් ඉදිරිපත් කිරීම හරහා රටේ ජනතාවට නිවැරදි තීන්දු ගැනීමේ හැකියාව ලැබෙන බවද ඔහු සඳහන් කළේය.
+
+මේ අතර ඉදිරි ජනාධිපතිවරණය පිළිබඳ තමාගේ සහ පක්ෂයේ මතය එළැඹෙන සතියේ ප්‍රකාශයට පත් කරන බවත්, රාජපක්ෂවරු සිටින කිසිදු කඳවුරකට තමාගේ සහ පක්ෂයේ සහය නොලැබෙන බවත් මන්ත්‍රීවරයා පැවසීය.
+
+එමෙන්ම වර්තමාන ජනාධිපතිවරයා ස්වාධීනව ඉදිරිපත් වුවද ඔහුට සහාය දක්වන්නේද නැද්ද යන තීරණය ගැනීමට හැකි වන්නේ ජනාධිපතිවරයා කර තියාගෙන යන පිරිස අනුව බවද පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4dea4554.json)
+
+---
+
 ### Sri Lanka to benefit the coin
 
 *2024-07-30 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199384) · `si`
@@ -1265,6 +1339,22 @@ Meanwhile, the Indian team, Arshadp Sing and Rishab Bar has not been named.
 [Data](articles/c823a4c9.json)
 
 [Extended Data](ext_articles/c823a4c9.ext.json)
+
+---
+
+### අකුරට වැඩ කරන ග්‍රාම නිලධාරීන් මැතිවරණ රාජකාරී හරියටම කරනවලු
+
+*2024-07-30 19:39:17* · [`adalk`](https://www.ada.lk/breaking_news/අකුරට-වැඩ-කරන-ග්‍රාම-නිලධාරීන්-මැතිවරණ-රාජකාරී-හරියටම-කරනවලු/11-411103) · `si`
+
+ග්‍රාම නිලධාරීන්ට ඇති වී තිබෙන ගැටලුවලට විසඳුම් ලබා දීමට බලධාරීන් කටයුතු නොකරන නිසා අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය අඛණ්ඩව සිදුකරමින් මැතිවරණ රාජකාරි නිසි ලෙස සිදුකිරීමට තීරණය කළ බව ග්‍රාම නිලධාරි වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+දෝෂ සහිතව සකස් කර තිබෙන සේවාව ව්‍යවස්ථා කෙටුම්පත ඉවත් කර ග්‍රාම නිලධාරි වෘත්තීය සමිති සකස් කර රජයට භාර දී තිබෙන සේවා ව්‍යවස්ථාවට අදාළ යෝජනා ක්‍රියාත්මක කළ යුතු බවද එම සන්ධානය සඳහන් කරයි. එසේ තිබියදී බලහත්කාරයෙන් දෝෂ සහිතව සකස් කර තිබෙන සේවා ව්‍යවස්ථාවට අදාළ කෙටුම්පත ක්‍රියාත්මක කිරීමට උත්සාහ ගනිමින් සිටින බවත්,  මෙයට විරෝධය දක්වන බවත් සන්ධානය පෙන්වා දෙයි.
+
+දීමනා ගැටලු සම්බන්ධයෙන් ගැටලු රැසක් ඇති වි තිබෙන බවත්, එම ගැටලු විසඳීමට බලධාරීන් උනන්දු  නොවන  නිසා ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 01 වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගයක් සිදුකරන බවත් සඳහන් කරයි. මේ වන විට ජනාධිපතිවරණය ප්‍රකාශයට පත් කර  තිබෙන නිසා ග්‍රාම නිලධාරීන්ට මැතිවරණ රාජකාරි සිදුකිරීමට සිදුව තිබේ.
+
+...
+
+[Data](articles/443995ae.json)
 
 ---
 
@@ -2213,93 +2303,5 @@ However, he made it clear that this was not considered a significant obstacle fo
 [Data](articles/f1a2207f.json)
 
 [Extended Data](ext_articles/f1a2207f.ext.json)
-
----
-
-### 42 children hospitalized by wasp attack
-
-*2024-07-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199377) · `si`
-
-In Kinniya, a wasp attack resulted in 42 children aged 10 to 15 being hospitalized.
-
-🟩
-
-A large number of children at the Kinniya Police Division of the Kinniya Police Division of Kinniya Police Division has been hit by wasps.
-
-About 42 children were wounded between 10 and 15 years of age.
-
-◼️
-
-[Data](articles/c82d427e.json)
-
-[Extended Data](ext_articles/c82d427e.ext.json)
-
----
-
-### Decision taken by the Election Commission regarding the IGP issue
-
-*2024-07-30 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199376) · `si`
-
-The Election Commission urged swift action from the President on the IGP matter during its first meeting post-presidential election, emphasizing issues critical to the election process.
-
-🟩
-
-The Elections Commission has decided to inform the President to give a speedy solution to the IGP issue.
-
-The election campaign was held at the Elections Secretariat in Rajagiriya this morning.
-
-It is said that special attention was held on several matters pertaining to the presidential election.
-
-This is the first time the Election Commission met after the presidential election.
-
-◼️
-
-[Data](articles/ffc1863e.json)
-
-[Extended Data](ext_articles/ffc1863e.ext.json)
-
----
-
-### Keerthi Suresh starrer 'Raghu Grandpa' new song release
-
-*2024-07-30 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189813) · `ta`
-
-"National Award-winning actress Keerthi Suresh stars in 'Raghu Grandpa,' along with M.S. Bhaskar, Ravindra Vijay, and others. The film features songs like 'Ek Kaon Mam' and 'Ada Dinesh Burning Pattasa,' composed by Shawn Roldan and produced by Vijay Grakandur under Hombale Films. It's set for release on August 15."
-
-🟩
-
-Actress Keerthi Suresh, who won the National Award for Best Actress Keerthi Suresh, has been released in the film 'Raghu Grandpa' and a song 'Ek Kaon Mam' and a lyrical video for the song.
-
-Keerthi Suresh, M.. S.. Bhaskar, Ravindra Vijay, Anand Sami, Deva Darshini, Adira Pandiyalakshmi and many others have been cast.
-
-The film, which has been recorded by Yamini Yagnamoorthy, has composed the film Shawn Roldan. The film was produced by famous producer Vijay Grakandur on behalf of Hombale Films.
-
-The film, which will be released on August 15, will be released at the film House, which will be released as a song 'Ada Dinesh Burning Pattasa' and a song for the song.
-
-This song is written by songwriter Bhakiyam Shankar and sung by playback singer Ghana Vimala. The lyrics and music of this song, which is a Ghana song, has attracted fans.
-
-◼️
-
-[Data](articles/2439174d.json)
-
-[Extended Data](ext_articles/2439174d.ext.json)
-
----
-
-### 42 students hospitalised after wasp attack at school in Kinniya
-
-*2024-07-30 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100880/42-students-hospitalised-after-wasp-attack-at-school-in-kinniya) · `en`
-
-At least 42 students of a school in Kinniya Police division have been admitted to the hospital this morning (30), following a wasp attack.
-
-The wasp attack has occurred after a wasp’s nest which was located on the roof of a school building was disturbed, said Kinniya Police.
-
-A total of 42 students who were injured in the wasp attack have been admitted to the Kinniya Base Hospital while they are reportedly aged between 10 to 15 years.
-
-◼️
-
-[Data](articles/e750bc60.json)
-
-[Extended Data](ext_articles/e750bc60.ext.json)
 
 ---

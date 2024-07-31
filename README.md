@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 18:55:08**
+As of **2024-07-31 19:05:42**
 
 ## Newspaper Stats
 
-*Scraped **38,289** Articles*
+*Scraped **38,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,429
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,756
 virakesarilk | 6,049
-adaderanasinhalalk | 6,447
+adaderanasinhalalk | 6,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,289 (100.0%) of 38,289 articles have been extended.
+38,289 (100.0%) of 38,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ජෝ රූට් අංක එක වෙයි
+
+*2024-07-31 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199420) · `si`
+
+ලෝක ටෙස්ට් ක්‍රිකට් පිතිකරුවන්ගේ ශ්‍රේණිගත කිරීම අනූව පළමු ස්ථානයට පත්වීමට එංගලන්ත ක්‍රීඩක ජෝ රූට් සමත්වී තිබේ.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මගින් නිකුත්කළ ටෙස්ට් පිතිකරු ශ්‍රේණිගත කිරීමේ ලැයිස්තුවේ රූට් පළමු ස්ථානය හිමිකරගෙන ඇත්තේ ප්‍රසාද ලකුණු 872ක් ලබා ගනිමිනි.
+
+දෙවැනි ස්ථානයේ නවසීලන්ත ක්‍රීඩක කේන් විලියම්සන් පසුවෙයි. ඒ ලකුණු 859ක් සමගිනි.
+
+◼️
+
+[Data](articles/ef3e57b7.json)
+
+---
 
 ### Over 50 foreigners arrested over online scam
 
@@ -2275,31 +2291,5 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 [Data](articles/50319717.json)
 
 [Extended Data](ext_articles/50319717.ext.json)
-
----
-
-### 3 Tamil Nadu fishermen
-
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
-
-Three Tamil Nadu fishermen received one-year jail terms and fines for fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in prison. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Additionally, 25 fishermen arrested recently were remanded until further notice.
-
-🟩
-
-Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
-
-The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
-
-At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
-
-The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
-
-Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
-
-◼️
-
-[Data](articles/6613686b.json)
-
-[Extended Data](ext_articles/6613686b.ext.json)
 
 ---

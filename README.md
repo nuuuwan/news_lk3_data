@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 12:05:51**
+As of **2024-07-31 12:20:48**
 
 ## Newspaper Stats
 
-*Scraped **38,205** Articles*
+*Scraped **38,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,420
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,742
 virakesarilk | 6,023
-adaderanasinhalalk | 6,432
+adaderanasinhalalk | 6,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,205 (100.0%) of 38,205 articles have been extended.
+38,205 (100.0%) of 38,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### 138 කඩවත - කොටුව බස් වර්ජනයක්
+
+*2024-07-31 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199403) · `si`
+
+අද (31) උදෑසන 138 කඩවත - කොටුව මාර්ගයේ ගමන්ගන්නා බස් රථ වර්ජනයක් ආරම්භ කිරීම හේතුවෙන් මගීන් දැඩි අපහසුතාවයට පත්ව තිබුණි.
+
+ඒ අනුව කඩවත - කොටුව, වැලිවේරිය - කොටුව හා කිරිල්ලවල - කොටුව යන සියලු බස්රථ ධාවනයෙන් ඉවත්ව තිබුණි.
+
+ඇති﻿වී තිබුණු කලබලකාරී තත්ත්වය මඟ හැරීම ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථ කිහිපයක් කඩිනමින් ධාවනයට එක් කළ බව ද අප වාර්තාකරු පැවසීය.
+
+කිරිබත්ගොඩ - පිටකොටුව මාර්ගයේ අලුත් බස්රථ කිහිපයක් සඳහා අවසර ලබාදීමෙන් තමන්ගේ ආදායමට දැඩි පහරක් එල්ල වී ඇතැයි 138 බස් රථහිමියන් පවසයි.
+
+මේ අතර කඩවත - කොටුව බස් නැවතුම් පොළේ මතුවී ඇති විශාල මඩවළ හේතුවෙන් මේ වනවිට බස් රථ කැඩී යන තත්ත්වයට පත්ව ඇතැයි පවසන බස් රියදුරන් වැසිකිළි බළ උතුරා යෑම හේතුවෙන් දැඩි දුර්ගන්ධයක් ප්‍රදේශයේ පවතින බව ද සඳහන් කළේය.
+
+අදාළ හේතූන්ට විසඳුම් ඉල්ලා වර්ජනය ආරම්භ කළ බවත් විසඳුම් නොලැබුණහොත් බස් ධාවනයෙන් තමන් ඉවත්ව සිටින බවත් බස් රියදුරන් පවසයි.
+
+කෙසේවෙතත් අදාළ බස් වර්ජනය හේතුවෙන් එම මාර්ගයේ ගමන් ගන්නා මගීන් දැඩි දුෂ්කරතාවයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/f85a2154.json)
+
+---
 
 ### Secretary Defense to the Election Commission to be elected to the Ministry of Defense
 
@@ -51,26 +75,6 @@ Chairman of Election Commission. M. it. L. Speaking to the media, Ratnayake said
 [Data](articles/4c36957d.json)
 
 [Extended Data](ext_articles/4c36957d.ext.json)
-
----
-
-### Sri Lanka sells Rs146bn in 2028, to 2030 and 2033 bonds
-
-*2024-07-31 11:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs146bn-in-2028-to-2030-and-2033-bonds-174592/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 146.2 billion rupees in 2028, 2030 and 2033 bonds, data from the state debt office showed.
-
-All offered 80 billion rupees of 15 February 2028 bonds were sold at an average yield of 12.07 percent.
-
-The debt office sold 40.8 billion rupees of an offered 80 billion of 15 October 2030 bonds at 12.55 percent.
-
-The debt office sold 25.4 billion rupees of an offered 40 billion of 01 June 2033 bonds at 12.83 percent.(Colombo/Jul31/2024)
-
-◼️
-
-[Data](articles/72be3f81.json)
-
-[Extended Data](ext_articles/72be3f81.ext.json)
 
 ---
 
@@ -645,6 +649,26 @@ A man and a woman who went in a three -wheeler in front of the apartment in the 
 [Data](articles/210783fd.json)
 
 [Extended Data](ext_articles/210783fd.ext.json)
+
+---
+
+### Sri Lanka sells Rs146bn in 2028, to 2030 and 2033 bonds
+
+*2024-07-31 09:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs146bn-in-2028-to-2030-and-2033-bonds-174592/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 146.2 billion rupees in 2028, 2030 and 2033 bonds, data from the state debt office showed.
+
+All offered 80 billion rupees of 15 February 2028 bonds were sold at an average yield of 12.07 percent.
+
+The debt office sold 40.8 billion rupees of an offered 80 billion of 15 October 2030 bonds at 12.55 percent.
+
+The debt office sold 25.4 billion rupees of an offered 40 billion of 01 June 2033 bonds at 12.83 percent.(Colombo/Jul31/2024)
+
+◼️
+
+[Data](articles/72be3f81.json)
+
+[Extended Data](ext_articles/72be3f81.ext.json)
 
 ---
 
@@ -2279,29 +2303,5 @@ Delivering the verdict, the judge sentenced the accused to death stating that th
 [Data](articles/d70a4ae1.json)
 
 [Extended Data](ext_articles/d70a4ae1.ext.json)
-
----
-
-### Budget deficit decreased to 64% from 2024 to 5 months - Ranjith Siyambalapitiya
-
-*2024-07-30 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189820) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced a significant reduction in the budget deficit by 63.8% in the first five months of 2024 compared to the same period in 2023, attributing it to effective economic policies. This achievement was highlighted during an event organized by the Customs Department, where 31 leading companies were awarded certificates allowing them to conduct import and export operations without customs checks. The Minister emphasized the importance of the customs sector in meeting the government's revenue targets and contributing to the economy, particularly through vehicle imports which contributed significantly to the national income in 2018 and 2019.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said the budget deficit declined by 63.8 per cent in the first five months of this year compared to the first five months of last year.
-
-The Minister pointed out that between May 31, 2023, a budget gap of 1,014 billion rupees was found.. He also notes that the budget spacing was 366 billion rupees during the same period this year.
-
-He stressed that the country was able to achieve this as a result of moving forward through the proper economic program. The Minister said this was the main guest of the event organized by the Customs Department to certify the recognized economic activists.
-
-This will provide certificates to 31 leading companies in Sri Lanka and they will be able to carry out their import and export operations without customs tests.. After many years of their import and export surveillance, the opportunity to obtain this certificate has been given.
-
-...
-
-[Data](articles/6b3d5b45.json)
-
-[Extended Data](ext_articles/6b3d5b45.ext.json)
 
 ---

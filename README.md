@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 18:27:56**
+As of **2024-07-31 18:38:26**
 
 ## Newspaper Stats
 
-*Scraped **38,286** Articles*
+*Scraped **38,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,506
+adalk | 3,507
 adaderanalk | 4,429
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,756
-virakesarilk | 6,047
+virakesarilk | 6,049
 adaderanasinhalalk | 6,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,286 (100.0%) of 38,286 articles have been extended.
+38,286 (100.0%) of 38,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ Based on the information from the arrested suspects, two more foreigners were ar
 [Data](articles/016a32c6.json)
 
 [Extended Data](ext_articles/016a32c6.ext.json)
+
+---
+
+### ஆண்டிறுதிக்குள் 2 பில்லியன் டொலர் முதலீட்டை ஈர்ப்பதே இலக்கு - திலும் அமுனுகம
+
+*2024-07-31 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189934) · `ta`
+
+நாட்டில் 35 முதலீட்டு வேலைத்திட்டங்களுக்காக 800 மில்லியன் டொலர் பெறுமதியான ஒப்பந்தங்கள் கையெழுத்திடப்பட்டுள்ளன. இவ்வாண்டில் எமது இலக்கு ஒரு பில்லியன் டொலர் என்ற போதிலும், 2 பில்லியன் டொலர் வரை முதலீடுகளை ஈர்க்க முடியும் என வர்த்தகம் மற்றும் முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இவ்வாண்டில் இதுவரையான காலப்பகுதியில் 800 மில்லியன் டொலர் பெறுமதியான 35 முதலீட்டு வேலைத்திட்ட ஒப்பந்தங்களில் கையெழுத்திட்டுள்ளோம். இவ்வாண்டில் எமக்கு வழங்கப்பட்டுள்ள இலக்கு ஒரு பில்லியன் டொலர் ஆகும். எனினும் தற்போது நாம் 800 மில்லியன் டொலரை எட்டியுள்ளதால் ஆண்டிறுதிக்குள் 2 பில்லியன் டொலர் பெறுமதியான முதலீடுகளை ஈர்க்க முடியும் என்று எதிர்பார்க்கின்றோம்.
+
+...
+
+[Data](articles/fabd8a89.json)
 
 ---
 
@@ -93,6 +109,18 @@ The Special Committee on National Security includes Minister of Public Security 
 [Data](articles/3c0149f3.json)
 
 [Extended Data](ext_articles/3c0149f3.ext.json)
+
+---
+
+### லிட்ரோ எரிவாயு விலையில் மாற்றம் இல்லையாம் !
+
+*2024-07-31 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189927) · `ta`
+
+ஆகஸ்ட் மாதத்தில் லிட்ரோ சமையல் எரிவாயுவின் (Liter gas) விலையில் மாற்றம் ஏற்படுத்தப்பட மாட்டாது என நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9b9a8c0d.json)
 
 ---
 
@@ -408,7 +436,15 @@ Hemas Holdings Plc which released its 2Q interim results, showed a dip in profit
 
 The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis has increased to 2.4% in July 2024, compared to 1.7%% in June 2024, according to the Department of Census and Statistics.
 
-◼️
+The CCPI for all items for the month of July 2024 was 194.7 and it records a decrease of 0.9 index points or 0.44 percentage compared to the month of June 2024 for which the index was 195.6. This represents a decrease in expenditure value by Rs. 788.98 in the “Market Basket.”
+
+The overall rate of inflation as measured by the CCPI on Y-on-Y basis is 2.4% in July 2024 and Y-on-Y inflation calculated for the month of June 2024 was 1.7%.
+
+The Y-on-Y inflation of Food Group increased to 1.5% in July 2024 from 1.4% in June 2024 and the Y-on-Y inflation of Non Food Group increased to 2.8% in July 2024 from 1.8% in June 2024.
+
+The month-on-month change was contributed by an increase in Food items by 0.03% and decrease in Non Food items by 0.47% respectively, the report said.
+
+...
 
 [Data](articles/e7e0df54.json)
 
@@ -560,7 +596,9 @@ Meanwhile, according to the monthly fuel prices in the country, the Ceylon Petro
 
 ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has expressed his strong condemnation of the assassination of Hamas political leader Ismail Haniyeh.
 
-Addressing a meeting with former Provincial Council members, Wickremesinghe “stated unequivocally that he will never condone such actions,” his media division said.
+“The killing of the Hamas leader in Tehran this morning is something I strongly condemn. It was wrong and could have prevented a solution to the Gaza conflict,” Wickremesinghe said addressing a meeting with former Provincial Council members.
+
+“This action is likely to escalate problems in the Middle East again, which I do not support. As a nation, we must always uphold the right to life.”
 
 Haniyeh was killed in Iran’s capital Tehran in an air strike at about 02:00 local time, foreign media reports said.
 
@@ -810,13 +848,11 @@ He said that 1440 candidates of political parties and independent groups contest
 
 A group of 116 former Provincial Council members from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have pledged their commitment to support President Ranil Wickremesinghe’s victory in the upcoming presidential election, the PMD reported.
 
-Addressing the meeting with the former Provincial Council members, President Wickremesinghe declared his candidacy as an independent candidate in this year’s presidential election pledging his commitment to advancing the country with a bold new vision and an impartial programme.
+Addressing the meeting, President Wickremesinghe declared his candidacy as an independent candidate in this year’s presidential election pledging his commitment to advancing the country with a bold new vision and an impartial programme aiming to drive development through nine Provincial Governments and the Central Government.
 
-The President said he is aiming to drive development through nine Provincial Governments and the Central Government.
+President Ranil Wickremesinghe announced his candidacy as an independent in the upcoming presidential election, emphasizing his commitment to advancing the country with a fresh vision and unbiased program. He plans to delegate responsibilities to all 10 governing bodies, including the 9 provincial governments and the central government, to carry out his initiatives.
 
-Meanwhile, during the meeting with former PC members, the President also expressed his strong condemnation of the assassination of Hamas political leader Ismail Haniyeh and stated unequivocally that he will never condone such actions.
-
-◼️
+...
 
 [Data](articles/e7ec672f.json)
 
@@ -1738,6 +1774,26 @@ As the activities are currently taking place at 7 pm, it is decided to change it
 
 ---
 
+### සැමියා පැදවූ යතුරු පැදිය බස් රථ දෙකක ගැටී බිරිඳ ජීවිතක්ෂයට
+
+*2024-07-31 11:23:04* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-පැදවූ-යතුරු-පැදිය-බස්-රථ-දෙකක-ගැටී-බිරිඳ-ජීවිතක්ෂයට/11-411112) · `si`
+
+ත්‍රිකුණාමලය - පුත්තලම 'ඒ 12' ප්‍රධාන මාර්ගයේ, නොචිචියාගම නගර මධ්‍යයේදී ඊ‍යේ (30දා) පස්වරුවේ යතුරු පැදියක් සුඛෝපභෝගී  බස් රථයක ගැටී සිදුවූ මාරක රිය අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත් වූ බව නොච්ච්යාගම  පොලිසිය පවසයි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, රාජාංගනය යාය 15 පහලමාරගහවැව  ප්‍රදේශයේ පදිංචිව සිටි, එම්. දිනේෂා දිල්හානි නැමැති 34 හැවිරිදි කාන්තාවකි.
+
+අඹු සැමි යුවලක් පහලමාරගහවැව  දෙස සිට අනුරාධපුර දෙසට යතුරු පැදියකින් ගමන් කරමින් සිටියදී, නොච්චියාගම  බස් නැවතුම අසල ප්‍රධාන මාර්ගයේ  නතර කර තිබූ බස් රථයකට ඉස්සර කිරීමට යාමේදී යතුරු පැදිය එම බස් රථයේ ගැටී පසු පැදිකාරිය මාර්ගය, මැදට ඇද වැටී ඇති බව පොලිසිය කියයි.
+
+එම අවස්ථාවේදී එම දිශාවටම අධික වේගයෙන් කොළඹ සිට යාපනය දක්වා ගමන් කල බස් රථයේ මරණකාරිය ගැටී ඇති අතර ඇගේ හිස, බස් රථය පිටුපස රෝද යුගලයට හසු වී හිස කඳෙන් වෙන් වී මීටර් 21ක් පමණ දුරකට ඇදී ගොස් ඇති බව පොලිසිය කියයි.
+
+අනතුරින් යතුරු පැදිය පැදවූ මරණකාරියගේ සැමියා වන ඉහත ලිපිනයේ පදිංචි රාජපක්ෂ  පේඩිගේ ආනන්ද සරත් කුමාර නමැති අය මෙම අනතුරින් තුවාල ලබා, නොමැති බවද පොලිසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/aebd7652.json)
+
+---
+
 ### Sri Lanka’s FLiCo to retail Konka products
 
 *2024-07-31 11:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-flico-to-retail-konka-products-174585/) · `en`
@@ -2221,75 +2277,5 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 [Data](articles/6613686b.json)
 
 [Extended Data](ext_articles/6613686b.ext.json)
-
----
-
-### One year in prison with three Tamil Nadu fishermen
-
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
-
-Three Tamil Nadu fishermen received one-year prison sentences and fines for illegal fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in jail. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Another 25 arrested later were remanded until further notice.
-
-🟩
-
-Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
-
-The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
-
-At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
-
-The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
-
-Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
-
-◼️
-
-[Data](articles/a20b872b.json)
-
-[Extended Data](ext_articles/a20b872b.ext.json)
-
----
-
-### Sajith Premadasa paid control
-
-*2024-07-31 09:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-சஜித்-பிரேமதாச/175-341325) · `ta`
-
-Sajith Premadasa, the presidential candidate from the United People's Power, visited the Elections Commission with his party secretary, Ranjith Mathumabandara, to discuss election-related matters.
-
-🟩
-
-Sajith Premadasa, the United People's Power's presidential candidate, went to the Elections Commission this morning with the party secretary Ranjith Mathumabandara and the group.. Remble
-
-◼️
-
-[Data](articles/707c4052.json)
-
-[Extended Data](ext_articles/707c4052.ext.json)
-
----
-
-### Hamas senior leader assassinated in Iran
-
-*2024-07-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189858) · `ta`
-
-Ismail Honey, a senior Hamas leader, was assassinated in Tehran, Iran, along with his bodyguard. The assassination occurred at his residence, reportedly during an Israeli attack, shortly after his participation in Iran's new presidency ceremony.
-
-🟩
-
-Ismail Honey, the senior leader of the Hamas organization, was assassinated in Iran today (31).
-
-Ismail Honey was assassinated today at the house where he was staying in Tehran, Iran's capital. Along with Ismail, his bodyguard has also been murdered.
-
-Meanwhile, Hamas leader Ismail Honey was killed in an attack in Iran.
-
-In a statement released on Wednesday, Hamas said Honey was killed in an Israeli attack at his residence in Tehran.
-
-The organization said that Honey was killed after participating in the new Iran's new presidency on Tuesday.
-
-◼️
-
-[Data](articles/01879617.json)
-
-[Extended Data](ext_articles/01879617.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 20:55:27**
+As of **2024-07-31 21:06:10**
 
 ## Newspaper Stats
 
-*Scraped **38,302** Articles*
+*Scraped **38,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,509
+adalk | 3,510
 adaderanalk | 4,431
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,758
 virakesarilk | 6,053
-adaderanasinhalalk | 6,450
+adaderanasinhalalk | 6,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,300 (100.0%) of 38,302 articles have been extended.
+38,302 (100.0%) of 38,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### සැමියාගෙන් පහර කෑ 18 හැවිරිදි බිරිඳ මරුට ?
+
+*2024-07-31 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199423) · `si`
+
+18 හැවිරිදි විවාහක තරුණියකගේ සැකසහිත මරණයක් හේතුවෙන් පඬුවස්නුවර කිරිමැටියාව කෙලිනාවල ප්‍රදේශයේ අද (31) නොසන්සුන් තත්ත්වයක් ඇතිවී තිබුණි.
+
+ප්‍රදේශවාසීන් චෝදනා කරන්නේ තරුණියගේ සැමියා කළ පහරදීමකින් ඇය මියගොස් ඇති අතර පොලීසිය සැකකාර සැමියා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බවය.
+
+කිරිමැටියාව කෙලිනාවල පදිංචිව සිටි 18 හැවිරිදි සෙනුරි ප්‍රේමතිලක මියගොස් තිබුණේ මීට දින කිහිපයකට පෙරාතුවය.
+
+සෙනුරිගේ සැමියා කළ පහරදීමක් ඇයගේ මරණයට හේතුවී ඇති බවට සෙනුරිගේ ඥාතීන් චෝදනා කරයි.
+
+ඒ අනුව සෙනුරිගේ ඥාතීන් හා ප්‍රදේශවාසීන් කිරිමැටියාව උණලීය මාර්ගයේ දී අද පස්වරුවේ විරෝධතාවයක නිරත වුණේ මරණයට සැකකාර සෙනුරිගේ සැමියා අත්අඩංගුවට ගන්නා ලෙස පොලීසියට බලකරමිනි.
+
+ඥාතීන් පවසන්නේ, මියගිය සෙනුරිගේ සැමියාගේ පියා සෙනුරිගේ මවට පහරදීමක් සිදුකර ඇති බවය.
+
+පහර කෑමට ලක්වූ පාර්ශ්වය ඒ පිළිබඳ කටුපොත පොලීසියට පැමිණිල්ලක් කර ඇති බවත් එම පැමිණිල්ල ඉල්ලා අස් කරගන්නා ලෙස බලකරමින් සෙනුරිගේ සැමියා ඇයට පහරදී ඇති බවටත් ඇයගේ ඥාතීන් චෝදනා කරයි.
+
+◼️
+
+[Data](articles/488e9771.json)
+
+---
 
 ### The captivity of firearms was revealed to the mother
 
@@ -59,6 +83,22 @@ He has said that due to firearms to fire, he had placed the weapons from a forme
 [Data](articles/44d38ce4.json)
 
 [Extended Data](ext_articles/44d38ce4.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ සහාය ජනපති රනිල්ට
+
+*2024-07-31 19:58:26* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-සහාය-ජනපති-රනිල්ට/11-411133) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂයේ  සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දීමට අද (31) තිරණය කර තිබේ
+
+ඉදිරි ජනාධිපතිවරණයේදි අපේක්ෂයෙකු ඉදිරිපත් කරනවාද නැද්ද යන්න හා වෙනත් අපේක්ෂකයෙකුට සහාය දෙනවාද යන්න තිරණය කිරිම සඳහා අද ශ්‍රී ලංකා නිදහස් පක්ෂයේ  දේශපාලන මණ්ඩලය, මධ්‍යම කාරක සභාව හා විධායක සභාව රැස් විය.
+
+මේ අනුව අදාළ සාකච්ඡාවලින් පසු මධ්‍යම කාරක සභාවේ පිරිස් අද සවස ජනාධිපති රනිල් වික්‍රමිසිංහ මහතා මුණ ගැසි යොජනාවලියක් භාර  දී තිබේ.
+
+◼️
+
+[Data](articles/020eb880.json)
 
 ---
 
@@ -376,23 +416,31 @@ The Special Committee on National Security includes Minister of Public Security 
 
 ---
 
-### பொதுஜன பெரமுனவால் எம்மை கட்சியிலிருந்து நீக்க முடியாது - திலும் அமுனுகம
+### PA cannot be removed from the party
 
 *2024-07-31 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189924) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்தமைக்காக ஒழுக்காற்று நடவடிக்கை எடுத்து எமது உறுப்புரிமையை நீக்குவது இலகுவான விடயமல்ல. நீதிமன்றத்தின் ஊடாக இதற்கான நடவடிக்கைகள் எடுக்கும் போது பாராளுமன்றத்தின் ஆயுட்காலமும் நிறைவடைந்துவிடும்.
+Disciplinary action against President Ranil Wickremesinghe faces challenges, with Parliament's term nearing completion. Commerce Minister Tilum Amunugama suggests eliminating membership but acknowledges it's complex. No one accepted the PM position during political turmoil. Despite challenges, Wickremesinghe's acceptance of leadership roles indicates resilience. His potential success is likened to past leaders' victories, suggesting public support could secure his win.
 
-எனவே முடிந்தால் பொதுஜன பெரமுன எமது உறுப்புரிமையை நீக்கிக் காட்டட்டும் என வர்த்தகம் மற்றும் முதலீட்டு ஊக்குவிப்பு அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டின் பின்னர் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+It is not easy to take disciplinary action to support President Ranil Wickremesinghe. The lifetime of Parliament will be completed when it takes action through the court.
 
-உறுப்புரிமையை நீக்குவது இலகுவான விடயமல்ல. அவர்களால் அவ்வாறு எதனையும் செய்ய முடியாது. மாறாக அதற்கான நடவடிக்கை எடுக்கப்பட்டாலும் நீதிமன்றத்துக்குச் சென்றால் வழக்கு விசாரணைகள் குறுகிய காலத்துக்குள் நிறைவடையாது. எனவே சட்ட ரீதியாக எமது உறுப்புரிமையை நீக்குவதற்கு முன்னரே பாராளுமன்றத்தின் ஆயுட்காலமும் நிறைவடைந்துவிடும்.
+The Minister of Commerce and Investment Promotion Tilum Amunugama said that if possible, let us eliminate our membership.
 
-நாட்டில் அரசியல் நெருக்கடிகளால் வன்முறை உச்சகட்டத்திலிருந்த போது பிரதமர் பதவியை ஏற்குமாறு விடுத்த அழைப்பை எவரும் ஏற்கவில்லை.
+He further stated that after a press conference held at the Presidential Media Center on Wednesday (31)
+
+Eliminating membership is not a lighter matter. They can't do anything like that. On the contrary. Therefore, the lifetime of Parliament will be completed before we legally eliminate our membership.
+
+No one accepted the invitation to accept the post of Prime Minister when violence was at its peak due to political crises in the country.
+
+Minister Ramesh Pathirana and I called Ranil Wickremesinghe to tell former President Gotabhaya Rajapaksa. He has accepted the challenge and succeeded in it.
 
 ...
 
 [Data](articles/349075f1.json)
+
+[Extended Data](ext_articles/349075f1.ext.json)
 
 ---
 
@@ -512,19 +560,25 @@ Meanwhile, 116 members of the Sri Lanka PA and the United National Party (UNP) h
 
 ---
 
-### உயர் நீதிமன்றம் வழங்கிய தீர்ப்பொன்றை கலந்துரையாடி  தீர்த்துக்கொள்ளுமாறு தெரிவிக்க பிரதிவாதிக்கு முடியாது - ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய
+### The defendant cannot be asked to resolve a verdict issued by the High Court - President's Attorney Upul Jayasuriya
 
 *2024-07-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189893) · `ta`
 
-உயர் நீதிமன்றத்தினால் தீர்ப்பொன்று வழங்கிய பின்னர். அந்த தீர்ப்பு தொடர்பாக பிரதம நீதியரசருடன் அல்லது வேறு நீதியரசர்களுடன் கலந்துரையாடி இதனை தீர்த்துக்கொள்ளுமாறு தெரிவிக்க  பிரதிவாதிக்கு முடியாது. அவ்வாறு தெரிவிப்பதற்கு முடியும் என நாங்கள் எந்த சட்டப் புத்தகத்திலும் கற்றுக்கொண்டதில்லை என ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய தெரிவித்தார்.
+President's Attorney Upul Jayasuriya emphasized that defendants cannot appeal High Court verdicts directly to the Chief Justice or other judges, a practice unheard of in legal texts. He highlighted concerns over the respect for High Court decisions, citing instances where the High Court remained silent despite issues like funding shortages for provincial elections and demands for judicial examination under the Equality Act. Jayasuriya also addressed the challenge of over 600 annual cases involving basic rights violations, questioning the appropriateness of retaining officials implicated in these violations in positions of power.
 
-அமைப்பு மாற்றத்துக்கான சட்ட மறுசீரமைப்பு தேசிய மாநாடு செவ்வாய்க்கிழமை (30) கொழும்பில் இடம்பெற்றது. இதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டில் இருக்கும் நீதிமன்றங்களில் உயர் நீதிமன்றத்துக்கு மேல் வேறு நீதிமன்றம் இல்லை. ஆனால் தற்காலத்தில் உயர் நீதிமன்ற தீர்ப்புகளை நாங்கள் மதிக்கிறோமா என்ற கேள்வி எங்களுக்குள் எழுகிறது. அவ்வாறான நிலையில் மனசாட்சிக்கு உட்பட்டு பதில் அளிப்பதாக இருந்தால் இல்லை என்றே தெரிவிக்க வேண்டி இருக்கிறது. இதுமிகவும் கவலைக்குரிய விடயமாகும். கடந்த 10 வருடங்களாக நீதித்துறையுடன் நான் தொடர்புடையவனாக  இருக்கின்றபோதும் இவ்வாறானதொரு நிலையை நான் கண்டதில்லை.
+After issuing a verdict by the High Court. The defendant cannot address the verdict with the Chief Justice or other judges to resolve it. President Attorney Upul Jayasuriya said that we have not learned in any legal book that can be said.
+
+The National Conference for Organization Change was held in Colombo on Tuesday (30). He said this while participating.
+
+There is no other court over the High Court in the country's courts. But the question arises as to whether we respect the High Court rulings in the present. In such a situation, it is necessary to report that the conscience is not responding. This is a matter of concern. I have not seen such a situation for the past 10 years.
 
 ...
 
 [Data](articles/d0fa0e65.json)
+
+[Extended Data](ext_articles/d0fa0e65.ext.json)
 
 ---
 
@@ -2239,55 +2293,5 @@ The complaint was made in connection with the discussion held on the request of 
 [Data](articles/018677cb.json)
 
 [Extended Data](ext_articles/018677cb.ext.json)
-
----
-
-### Hezbollah commanded by an Israeli attack
-
-*2024-07-31 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199401) · `si`
-
-In a targeted attack on a Beirut suburb, Israel reportedly killed a Hezbollah commanding officer, sparking international concern. The assault, which involved fighter jets, was aimed at Hezbollah leader Hassan Nasrallah, according to Israeli sources. This incident highlights the ongoing tensions between Israel and Hezbollah, particularly over the Golan Heights region.
-
-🟩
-
-Israel says he has killed a Commanding Officer of Hebollah in an attack targeting a right suburb of the capital city of Berouta.
-
-Foreign media reports stated that at least one person was killed and several others were injured in the attack on the Lebanon armed group.
-
-The Israeli army says the attack was carried out using the attack using the fighter jets to Mr. Hezbollah Head Fahud Schief.
-
-The Israeli said that the Hezbollah has said that the Hezbollah should take responsibility for the kills of the Golan mountains under his control.
-
-◼️
-
-[Data](articles/9133b448.json)
-
-[Extended Data](ext_articles/9133b448.ext.json)
-
----
-
-### The kids just the strait ... humility is humility - Lettermari Atapattu
-
-*2024-07-31 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199400) · `si`
-
-Chamari Atapattu, captain of Sri Lanka's women's cricket team, attributes their Asia Cup victory to team unity. She expressed gratitude towards the support from Sri Lanka Cricket and highlighted the impact of new coach Rumesh Ratnayake. Atapattu dreams of leading Sri Lanka to a World Trophy before retiring, emphasizing the importance of humility and dedication in their journey. She looks forward to the upcoming World Cup in Bangladesh, urging her team to remain committed to their goal.
-
-🟩
-
-Sri Lanka women's team won the Asia Cup, Chamari Atapattu, said that due to the unity of the team.
-
-She made this statement participating at a special event organized by SLC to win the Asia Trophy.
-
-She further stated that she hopes this talent at the Farmers World Cup in the future.
-
-In the meantime, she requested the sports funeralian to stay with the team in the winning team as well as in defeat.
-
-"No matter how many things you dedicate, you can't come alone. Sri Lanka Cricket is the massive energy behind it. Especially I need to be reminded of the new coach Rumesh Ratnayake and the Coach. Rumesh Ratnayake made the biggest difference in our victories.
-
-...
-
-[Data](articles/5df8c439.json)
-
-[Extended Data](ext_articles/5df8c439.ext.json)
 
 ---

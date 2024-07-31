@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 12:36:08**
+As of **2024-07-31 12:52:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,206 (100.0%) of 38,207 articles have been extended.
+38,207 (100.0%) of 38,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### රට වෙනුවෙන් මගේ ටාගට්ස් දෙකෙන් එකක් සම්පූර්ණ කළා
+### Completed one of my two tarsts for the country
 
 *2024-07-31 12:19:53* · [`adalk`](https://www.ada.lk/sports/රට-වෙනුවෙන්-මගේ-ටාගට්ස්-දෙකෙන්-එකක්-සම්පූර්ණ-කළා/9-411113) · `si`
 
-ආසියානු කුසලානය ජයග්‍රහණය කිරීමට හැකියාව ලැබුණේ  ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ ක්‍රීඩිකාවන් එකමුතුව වැඩ කිරීම නිසා බව ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු පැවසීය.
+Chamari Atapattu, a key player in the Sri Lankan women's cricket team, expressed her team's unity and determination to win the Asian Trophy during a special event organized by the Sri Lanka Cricket (SLC). She shared her lifelong dream of leading Sri Lanka to victory in both the Asian Trophy and the World Cup, marking the completion of one of her two major goals for the country.
 
-ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සංවිධානය කර තිබූ විශේෂ උත්සවයකට එක්වෙමින් ඇය මේ බව සඳහන් කළාය.
+🟩
 
-‘මගේ ජීවිතයේ තිබුණු හීනයක් තමයි මම ක්‍රීඩාවෙන් සමුගන්න කලින් කැප්ටන් කෙනෙක් හැටියට ලංකාවට ආසියානු කුසලානයක්, ලෝක කුසලානයක් ගෙනත් දෙන එක. ඉතින් මගේ ටාගට්ස් දෙකෙන් එකක් මේ වෙද්දි කරලා දෙන්න පුළුවන් වුණා රට වෙනුවෙන්. මේක ස්ටාර්ට් එක විතරයි ළමයි. ​මේකත් එක්ක ජීවත් වුණොත් අපිට ඊලඟ ලොකුම හීනයට යන්න බෑ’
+Sri Lanka Cricket Chamari Atapattu said that the Sri Lankan women's group's athletes were united to win the Asian Trophy.
+
+She made this statement participating at a special event organized by SLC to win the Asia Trophy.
+
+'The dream of my life is a Captain as a captain before I retire, a Asian Trophy and World Cup to Sri Lanka. So my two tarms were able to do with the country. This is just the start kids. If you live with this, we cannot go next to the biggest dream
 
 ◼️
 
 [Data](articles/d2295ab0.json)
+
+[Extended Data](ext_articles/d2295ab0.ext.json)
 
 ---
 

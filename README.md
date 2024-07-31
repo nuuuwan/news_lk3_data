@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 09:35:52**
+As of **2024-07-31 09:54:23**
 
 ## Newspaper Stats
 
-*Scraped **38,170** Articles*
+*Scraped **38,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
-adalk | 3,490
+adalk | 3,491
 adaderanalk | 4,416
-tamilmirrorlk | 4,732
+tamilmirrorlk | 4,733
 dailymirrorlk | 4,733
 virakesarilk | 6,020
-adaderanasinhalalk | 6,426
+adaderanasinhalalk | 6,427
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,170 (100.0%) of 38,170 articles have been extended.
+38,170 (100.0%) of 38,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### கிரேண்ட்பாஸ் இரட்டைக்கொலை: மூவர் கைது
+
+*2024-07-31 09:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரேண்ட்பாஸ்-இரட்டைக்கொலை-மூவர்-கைது/175-341322) · `ta`
+
+கொழும்பு, கிரேண்ட்பாஸ் பகுதியில் இருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+துப்பாக்கிச் சூடு நடத்தியவர், மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் கொலைக்கு உதவிய மற்றுமாரு நபர் ஆகியோரே கைது செய்யப்பட்டுள்ளனர்.
+
+ஒருகொடவத்தை மற்றும் வெல்லம்பிட்டிய பிரதேசத்தைச் சேர்ந்த 26, 37 மற்றும் 45 வயதுடைய மூவரே கைது செய்யப்பட்டதாக பொலிஸார் கூறியுள்ளனர்.
+
+கிரேண்ட்பாஸ் பகுதியில் உள்ள அடுக்குமாடி குடியிருப்புக்கு முன்பாக முச்சக்கர வண்டியில் சென்ற நபர் ஒருவரும் மற்றும் பெண்ணும் கடந்த 25ஆம் திகதி சுட்டுக்கொலை செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/210783fd.json)
+
+---
+
+### තවත් තරුණ ජීවිත﻿ දෙකක් අහිමිවෙයි
+
+*2024-07-31 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199397) · `si`
+
+පොලීසිය පැවසුවේ, ඊයේ දහවල් නොච්චියාගම පොලිස් වසමේ පුත්තලම - ත්‍රිකුණාමලය මාර්ගයේ නොච්චියාගම නගරයේ දී පුත්තලම සිට අනුරාධපුරය දෙසට ධාවනය වූ යතුරු පැදියක් බස් නැවතුමක නවතා තිබූ බස් රථයකට ඉස්සර කිරීමට ගොස් අනතුරක් සිදුව ඇති බවය.
+
+එම අවස්ථාවේ දී බසයට පිටුපසින් පැමිණි තවත් බස් රථයක් නවතා තිබූ බසයට හා යතුරුපැදියට ඉස්සර කිරීමේ දී යතුරුපැදියේ ගැටී ඇත.
+
+එහිදී යතුරුපැදියේ පිටුපස සිටි කාන්තාව විසි වී ගොස් බස් රථයේ පිටුපස රෝදයට යට වී ජීවිතක්ෂයට පත්ව ඇත.
+
+මේ අතර කුඹුක්ගැටේ ඉබ්බාගමුව මඩගල්ල මාර්ගයේ කුඹුක්වැව ප්‍රදේශයේ දී මඩගල්ල දෙස සිට ඉබ්බාගමුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව අනතුරක් සිදුව තිබේ.
+
+යතුරුපැදිය මාර්ගයේ පෙරළී ගොස් ඇති අතර, අනතුරින් 21 හැවිරිදි පුස්සැලිතැන්න ප්‍රදේශයේ පදිංචිකරුවෙක් ජීවිතක්ෂයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/8b8c96df.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -242,7 +280,7 @@ On 3 July 2024, the Government of Sri Lanka announced its ‘successful’ concl
 
 *2024-07-31 05:55:58* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Rights-Watch-charges-Sri-Lanka-authorities-target-religious-minorities/14-764945) · `en`
 
-The Sri Lankan Government’s loud claims of reconciliation ring hollow in the face of increasing
+The Sri Lankan Government’s loud claims of reconciliation ring hollow in the face of increasing suppression of minority religious and cultural identities
 
 Opines renewed UN Resolution needed to counter Government’s divisive campaign
 
@@ -1262,6 +1300,24 @@ He also said that he was ready to support him in the presidential election, supp
 
 ---
 
+### හෙද සමුළුවේ නීති විරෝධී වැඩක් සිදු වුණේ නෑ
+
+*2024-07-30 18:44:32* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සමුළුවේ-නීති-විරෝධී-වැඩක්-සිදු-වුණේ-නෑ/11-411099) · `si`
+
+හෙද හෙදියන්ගේ සමුළුවේ දී කිසිදු නීති විරෝධි වැඩක් සිදුව නොමැති බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අද පුවත්පත කළ විමසීමකදී පැවසීය.
+
+එය ජාතික ජනබලවේගයට අනුබද්ධ හෙද සංගමයේ වාර්ෂික සමුළුව බවත්, ඒ සඳහා තමන්ට කරන ලද ආරාධනය මත එහි ගිය බවත් දිසානායක මහතා ප්‍රකාශ කළේය.
+
+ඔවුන්ට රාජකාරි නිවාඩු ලබා දීමට අදාළ ලිපි ලේඛන ද තමන් සතු බව ජාතික ජනබලවේගයේ නායකයා සඳහන් කළේය.
+
+"පාසල් දරුවන් නිල ඇඳුමින් ඉන්නකොට පාසල් තුළට ගිහිල්ලා දේශපාලනය කතා කරනවා, ජනාධිපතිවරයාත් පාසල්වලට යනවා. ඒ අවස්ථාවල දේශපාලනය කතා කරනවා. මේ අපේ හෙද වෘත්තීය සංගම්වල වාර්ෂික හෙද සමුළුව. එය ජාතික ජනබලවේගයට අනුබද්ධ වෘත්තිය සමිති සමුළුවක් නිසා මට ආරාධනා කළා, ඊට සහභාගි වෙන්න. ඔවුන්ට එදාට රාජකාරි නිවාඩු ලබාදෙනවා. මෙහිදී කිසිදු නීති විරෝධි වැඩක් වෙලා නෑ. මෙය කිසිසේත්ම මැතිවරණ නීති උල්ලංඝනය කිරීමක් නෙමෙයි. එය නීත්‍යනුකූල සමුළුවක්."
+
+◼️
+
+[Data](articles/ccb86644.json)
+
+---
+
 ### Sri Lanka ODI squad for India series announced
 
 *2024-07-30 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100883/sri-lanka-odi-squad-for-india-series-announced) · `en`
@@ -2251,79 +2307,5 @@ In the election campaigns. We are happy with this.
 [Data](articles/4c26bb41.json)
 
 [Extended Data](ext_articles/4c26bb41.ext.json)
-
----
-
-### Paris 2024: Kyle Abeysinga fails to qualify for the semifinals
-
-*2024-07-30 15:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதி-பெறத்-தவறிய-கைல்-அபேசிங்க/44-341283) · `ta`
-
-Kyle Abeysinghe, representing Sri Lanka, did not advance to the semifinals of the Men's 100m Breaststroke event at the Paris 2024 Olympics. Despite achieving times under 1 minute, he finished outside the top 16 from the initial heats, failing to meet the qualification criteria.
-
-🟩
-
-Sri Lanka's Kyle Abeysinghe has failed to qualify for the semifinals of the Men's 100m Breastle Swimming Tournament for the Men's 2024 Olympics in France.
-
-Abeysinghe was ranked 54 seconds in 51 seconds and 42mg of the competition, with the first 16 of the 80 out of the qualifying competition to qualify for the semifinals.
-
-◼️
-
-[Data](articles/30a1eb4e.json)
-
-[Extended Data](ext_articles/30a1eb4e.ext.json)
-
----
-
-### Struggle in the middle of the rock: video
-
-*2024-07-30 15:11:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறைக்கு-நடுவில்-உயிர்-போராட்டம்-காணொளி/175-341282) · `ta`
-
-A man struggles to survive in a landslide-hit area of Wayanad, Kerala, after being trapped under large rocks and mud. Rescue efforts are ongoing as hundreds remain trapped due to the disaster.
-
-🟩
-
-Scenes of a person who is struggling to live in a large rock in the mudslide amid the floods. According to reports, the attempt to save him is underway. The incident occurred in Wayanad district of Kerala, India.
-
-Muttagai Area, Wayanadu, Kerala.
-
-The man who was flooded with the flood survived the big rocks. However, he could not even stand up in the muds caused by a landslide. However, he continues to try to stand up and survive.
-
-Hundreds of people have been trapped in a landslide in the early hours of Tuesday (30) in Mundakai Town.
-
-◼️
-
-[Data](articles/31e5c6dc.json)
-
-[Extended Data](ext_articles/31e5c6dc.ext.json)
-
----
-
-### The roof of baby ward collapses during construction
-
-*2024-07-30 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199374) · `si`
-
-During construction at Moneragala District Hospital, the roof of the baby ward collapsed, injuring numerous infants and mothers. Concrete from the adjacent building fell onto the ward, leading to the evacuation of all occupants. Investigations are underway, and it's reported that the construction lacked safety measures.
-
-🟩
-
-A large number of infants and mothers were injured due to the construction of a new apartment building at Moneragala District Hospital.
-
-Our correspondent said that the building of a concrete layer of concrete building was collapsed on the roof of the construction building, the construction building was to apply concrete building.
-
-The concrete has collapsed on the ward and several mothers and several mothers.
-
-Today, three mothers and three infants have been sent to the relevant divisions to investigate the accident this morning.
-
-Due to the accident, all babies and mothers have been removed, and they have been removed to protective places.
-
-Our correspondent said that the construction of the building is being carried out without any security measures.
-
-When contacted by the Medical Director of the Monaragala District General Hospital, she said there was no accident.
-
-...
-
-[Data](articles/4f814aca.json)
-
-[Extended Data](ext_articles/4f814aca.ext.json)
 
 ---

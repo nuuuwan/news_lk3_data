@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 04:06:33**
+As of **2024-08-01 04:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,336** Articles*
+*Scraped **38,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,451
+dailyftlk | 2,452
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,336 (100.0%) of 38,336 articles have been extended.
+38,336 (100.0%) of 38,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### CA Sri Lanka unleashes power of digital innovation, calls for entries for prestigious TAGS Awards 2024
+
+*2024-08-01 03:49:02* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-unleashes-power-of-digital-innovation-calls-for-entries-for-prestigious-TAGS-Awards-2024/34-764996) · `en`
+
+The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) has announced the commencement of applications for the prestigious TAGS Awards 2024, celebrating excellence in corporate reporting for the 59th year.
+
+A beacon of innovation and best practices in financial and non-financial reporting, the TAGS Awards will culminate in a grand ceremony on 12 December at the Shangri-La Hotel, Colombo.
+
+The TAGS Awards, which stands for Transparency, Accountability, Governance, and Sustainability, formerly known as the Annual Report Awards, held since 1964, continue their legacy in celebrating and recognising organisations that excel in both financial and non-financial reporting. The competition is open to a wide range of entities, including multinationals, blue-chip companies, conglomerates, SMEs, NPOs, NGOs, and other entities that produce annual reports.
+
+...
+
+[Data](articles/e0e8642d.json)
+
+---
 
 ### Easing Sri Lanka’s fiscal burden: Who needs a State pension?
 
@@ -2239,29 +2255,5 @@ The court stated that the demand will be rejected due to lack of facts as a resu
 [Data](articles/6e0e63bf.json)
 
 [Extended Data](ext_articles/6e0e63bf.ext.json)
-
----
-
-### What kills Ranil's knots?
-
-*2024-07-31 13:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-ගැට-මොන-ගැටද-/11-411115) · `si`
-
-Anura Kumara Dissanayake accuses Ranil Wickremesinghe of destroying the nation and ensuring no Parliament member supports him. He mentions a farmer rally where demands included reducing farmers' debts and improving governance. The narrative also touches on legal battles involving the 19th and 22nd amendments, and appointments to local bodies, linking these issues to Ranil's actions.
-
-🟩
-
-Leader of the National Economic Anura Kumara Dissanayake said that allegedly assaulted the country to destroy the country and ensures that no one in Parliament would be associated with the stage of the national power.
-
-The farmer rally of the national power rally in the Bandaranawa, Anuradhapura was chaired by leader Anura Kumara Dissanayake.. Bulnewa was held in the city of the farmer rally rally, which is conducted by the national folk force.
-
-"We have made the governments of the people and the national government, we are trying to go to the public, money for the general public, to vote for the vocal votes., Farmer people need to be released by debt, cutting down the loans, we cut the farmers' debt, and the one condition of 2004 is all about up to Rs. 25,000That the farmer's debt should be cut.
-
-Our condition was to cut the governments of the governance of the farmers.Let's build a government government.
-
-...
-
-[Data](articles/78652aaa.json)
-
-[Extended Data](ext_articles/78652aaa.ext.json)
 
 ---

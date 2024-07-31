@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 03:36:08**
+As of **2024-08-01 03:55:25**
 
 ## Newspaper Stats
 
-*Scraped **38,335** Articles*
+*Scraped **38,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,450
+dailyftlk | 2,451
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,335 (100.0%) of 38,335 articles have been extended.
+38,335 (100.0%) of 38,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### Easing Sri Lanka’s fiscal burden: Who needs a State pension?
+
+*2024-08-01 03:15:07* · [`dailyftlk`](https://www.ft.lk/opinion/Easing-Sri-Lanka-s-fiscal-burden-Who-needs-a-State-pension/14-764993) · `en`
+
+Public sector workers’ pensions are paid by tax revenue, with 12% of Government revenue allocated for pensions
+
+An IPS analysis shows that public service pensions are not a progressive welfare program, with half of the publicly funded pensions benefitting the top 20% wealthier group
+
+Implementing a contributory pension fund is crucial to creating a more sustainable and equitable retirement system
+
+The recent economic crisis has highlighted the need to address weaknesses in Sri Lanka’s economic policies for long-term structural change. One significant issue is the financial burden of public sector pensions. The Public Services Pensions (PSP) is the largest pension scheme for permanent public sector employees in Sri Lanka. However, its non-contributory nature has become a critical burden on the country, wherein pension benefits are funded directly from Government revenue, supported by general taxation.
+
+...
+
+[Data](articles/d77407bd.json)
+
+---
 
 ### Supreme Court interim ruling only a direction given to President
 
@@ -2243,33 +2261,5 @@ Our condition was to cut the governments of the governance of the farmers.Let's 
 [Data](articles/78652aaa.json)
 
 [Extended Data](ext_articles/78652aaa.ext.json)
-
----
-
-### Dog death due to excessive food;Prison to the owner
-
-*2024-07-31 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189886) · `ta`
-
-A New Zealand court sentenced a dog owner to two months in prison and fined them $1,222 for causing the death of their severely obese dog, Nuggi, through overfeeding. The dog, weighing 53kg, exceeded its daily meat intake by 10 pieces and died from liver bleeding after treatment. The court also banned the owner from breeding dogs for a year.
-
-🟩
-
-The owner of a dog has been sentenced to two months in prison in connection with the death of a dog in New Zealand.
-
-The dog named Nuggi weighed 53 kilograms and had severe obesity.
-
-The dog has gained 10 meat pieces more than an average diet daily.
-
-In 2021, the Animal Husbandry Prevention Society found it and rescued the dog and was taken to the hospital.The dog died of liver bleeding after 8.8 kg in 2 months of treatment. It is attributed to excessive weight.
-
-The Manuga province's court has ordered the dog's owner to be a fine of $ 1,222, a two -month prison sentence and a dog's right to raise the dog for a year.
-
-"Unfortunately low -weight animals are the most troubles. But there are many weight -bearing animals, said Todd Westwood, president of the Animal Trafficking Prevention Association.
-
-...
-
-[Data](articles/3c337356.json)
-
-[Extended Data](ext_articles/3c337356.ext.json)
 
 ---

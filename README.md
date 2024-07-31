@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 04:20:45**
+As of **2024-08-01 04:36:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,336 (100.0%) of 38,337 articles have been extended.
+38,337 (100.0%) of 38,337 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The TAGS Awards, which stands for Transparency, Accountability, Governance, and 
 ...
 
 [Data](articles/e0e8642d.json)
+
+[Extended Data](ext_articles/e0e8642d.ext.json)
 
 ---
 

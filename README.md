@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 05:05:47**
+As of **2024-08-01 05:20:38**
 
 ## Newspaper Stats
 
-*Scraped **38,341** Articles*
+*Scraped **38,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,761
-virakesarilk | 6,061
+virakesarilk | 6,063
 adaderanasinhalalk | 6,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,337 (100.0%) of 38,341 articles have been extended.
+38,341 (100.0%) of 38,343 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The Central Committee of the Sri Lanka Freedom Party (SLFP) met with President R
 ◼️
 
 [Data](articles/ccb30a79.json)
+
+[Extended Data](ext_articles/ccb30a79.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ Speaking to the media outside the Election Commission of Sri Lanka (ECSL) yester
 
 [Data](articles/a5e79c1c.json)
 
+[Extended Data](ext_articles/a5e79c1c.ext.json)
+
 ---
 
 ### Appeal Court to rule on Keheliya’s petition and bail appeal on 9 August
@@ -81,6 +85,8 @@ The arrest came hot on the heels of pressure from civil society activists and he
 ...
 
 [Data](articles/f7af9dae.json)
+
+[Extended Data](ext_articles/f7af9dae.ext.json)
 
 ---
 
@@ -101,6 +107,8 @@ He said the new system will see features of advanced technologies to enhance veh
 ◼️
 
 [Data](articles/f5446565.json)
+
+[Extended Data](ext_articles/f5446565.ext.json)
 
 ---
 
@@ -197,6 +205,38 @@ The Sri Lankan civil war ended with a brutal and decisive Government victory in 
 [Data](articles/8a18b7bf.json)
 
 [Extended Data](ext_articles/8a18b7bf.ext.json)
+
+---
+
+### கனிய மணல் அகழ்வாய்விற்கு ரவிகரன் உள்ளிட்ட மக்கள்  எதிர்ப்பு : அவ்விடத்திலிருந்து வெளியேறிய திணைக்களங்கள்
+
+*2024-08-01 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189952) · `ta`
+
+கனியவள மணல் அகழ்விற்கான முன்னாயத்த ஆய்வு பணி மேற்கொள்வதற்காக கனிய மணல் திணைக்களத்தினருடன் இணைந்த சில திணைக்களங்களின் நடவடிக்கைக்கு முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் உள்ளிட்ட மக்கள் எதிர்ப்பு தெரிவித்ததையடுத்து ஆய்வு பணி கைவிடப்பட்டு அவ்விடத்திலிருந்து சென்றிருந்தனர்.
+
+மீண்டும் பிறிதொரு இடத்தில் குறித்த திணைக்களம் உள்ளிட்ட குழுவினர் கனிய மணல் ஆய்வில் ஈடுபட சென்றபோது அங்கும் முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் உள்ளிட்ட மக்கள் குழுவினர் எதிர்ப்பு தெரிவித்ததையடுத்து, திணைக்களத்தினருடன் கடுமையான வாத பிரதிவாதங்கள் இடம்பெற்றதையடுத்தும் குறித்த ஆய்வு நடவடிக்கையும் கைவிடப்பட்டிருந்ததுடன் தாம் அவ்விடத்திலிருந்து செல்வதாக கூறி குறித்த ஆய்வு திணைக்களத்தினர் சென்றுள்ளனர்.
+
+முல்லைத்தீவு மாவட்டத்தில் இருக்கும் கனிய வள மணலை அகழ்வதற்கான முன்னாயத்த கலந்துரையாடல் ஒன்று இன்றையதினம் (31.07.2024) முல்லைத்தீவு மாவட்ட. செயலகத்தில் இடம்பெற்றதனை தொடர்ந்து இரகசியமான முறையில் முல்லைத்தீவு அளம்பில் கடற்கரையில் இருந்து தீர்த்த கரைவரை ஆய்வு பணியினை மேற்கொள்ள சென்றிருந்தார்கள்.
+
+...
+
+[Data](articles/92a119a7.json)
+
+---
+
+### நெல்லியடியில் 9 வயதுச் சிறுமியை துஷ்பிரயோகம் செய்த 33 வயதுடைய குடும்பஸ்தர் கைது!
+
+*2024-08-01 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189951) · `ta`
+
+கடந்த சில தினங்களுக்கு முன்னர், நெல்லியடி பொலிஸ் பிரிவிற்குட்பட்ட நெல்லியடி - துன்னாலை பகுதியில் 9 வயதுச் சிறுமி ஒருவரை கடத்திச் சென்று துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் கீழ் சந்தேகநபர் ஒருவர் புதன்கிழமை (31) பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+அதே பகுதியை சேர்ந்த 33 வயதுடைய திருமணமான நபர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். சிறுமி மருத்துவ பரிசோதனைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+மேலதிக விசாரணைகளின் பின்னர் சந்தேகநபரை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/78e0adda.json)
 
 ---
 
@@ -2195,49 +2235,5 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 [Data](articles/5f0a041a.json)
 
 [Extended Data](ext_articles/5f0a041a.ext.json)
-
----
-
-### PB arrested
-
-*2024-07-31 13:35:18* · [`adalk`](https://www.ada.lk/breaking_news/පි-සි-අල්ලස්-දැලේ/11-411117) · `si`
-
-A constable from Bibile Medagama police station was arrested for allegedly misusing his authority and claiming to report such misuse to court. The suspect will face charges of bribery or corruption at the Bibila Magistrate's Court, under investigation by the Investigation Commission.
-
-🟩
-
-A constable at the Bibile Medagama police station
-
-Suspect's constable arrested for claiming to proceed to the court and to report the previous misuse of the suspects of the suspects in the Medagama area.Police say.
-
-The suspect is due to be produced before the Bibila Magistrate's Court. Investigation Commission is investigating the bribery or corruption.
-
-◼️
-
-[Data](articles/3b886987.json)
-
-[Extended Data](ext_articles/3b886987.ext.json)
-
----
-
-### Akusey judge becoming bribe
-
-*2024-07-31 13:31:10* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ක්වාසි-විනිසුරු-අල්ලයි/11-411116) · `si`
-
-A woman accused of accepting a bribe in Negombo faces charges after a complaint was filed. The incident occurred at her office or home, and she will be presented in court for investigation by the Bribery or Corruption Commission.
-
-🟩
-
-Bribery or Corruption Commission says that a woman who had obtained a bribe of Rs.
-
-The complaint has been provided to file a case to the Kumara Maintain and Insult at the Negombo area.Police say that the money was taken at the office of the suspect's house at the suspect area.
-
-The suspect is to be produced before the Matale Magistrate's Court. Investigation Commission is investigating the bribery or corruption.
-
-◼️
-
-[Data](articles/324949c3.json)
-
-[Extended Data](ext_articles/324949c3.ext.json)
 
 ---

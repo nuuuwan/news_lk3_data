@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 04:54:24**
+As of **2024-08-01 05:05:47**
 
 ## Newspaper Stats
 
-*Scraped **38,337** Articles*
+*Scraped **38,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,452
+dailyftlk | 2,456
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,83 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,337 (100.0%) of 38,337 articles have been extended.
+38,337 (100.0%) of 38,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### SLFP Central Committee expresses support for President: PMD
+
+*2024-08-01 04:52:01* · [`dailyftlk`](https://www.ft.lk/news/SLFP-Central-Committee-expresses-support-for-President-PMD/56-765012) · `en`
+
+The Central Committee of the Sri Lanka Freedom Party (SLFP) met with President Ranil Wickremesinghe yesterday and expressed their unwavering support for his victory in the forthcoming Presidential election, the President Media Division said in a statement.
+
+◼️
+
+[Data](articles/ccb30a79.json)
+
+---
+
+### Marikkar dismisses significance of 92 MPs supporting Wickremesinghe
+
+*2024-08-01 04:50:37* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-dismisses-significance-of-92-MPs-supporting-Wickremesinghe/56-765011) · `en`
+
+SJB MP S.M. Marikkar stresses President is elected through public vote and not through Parliament
+
+Questions if Wickremesinghe being backed by 92 MPs will translate into broader voter support
+
+Points out pointed same MPs who are now backing Wickremesinghe had previously voted no on NCM against Minister Keheliya Rambukwella
+
+Claims many MPs backing Wickremesinghe are those with corruption charges levelled against them
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar has downplayed the significance of 92 MPs extending their support to President Ranil Wickremesinghe, asserting that the President is elected by the majority of the electorate rather than by Parliamentary votes.
+
+Speaking to the media outside the Election Commission of Sri Lanka (ECSL) yesterday, where he was accompanied by party members to place the cash deposit for the Presidential Election on behalf of party leader Sajith Premadasa, Marikkar argued that the backing of 92 MPs does not necessarily translate into broader voter support.
+
+...
+
+[Data](articles/a5e79c1c.json)
+
+---
+
+### Appeal Court to rule on Keheliya’s petition and bail appeal on 9 August
+
+*2024-08-01 04:47:03* · [`dailyftlk`](https://www.ft.lk/news/Appeal-Court-to-rule-on-Keheliya-s-petition-and-bail-appeal-on-9-August/56-765010) · `en`
+
+The Court of Appeal is scheduled to deliver its ruling on 9 August regarding the petition filed by former Health Minister and MP Keheliya Rambukwella, seeking an order to invalidate the Maligakanda Magistrate’s Court’s order remanding him till the end of the trial over the alleged import of substandard immunoglobulin vials.
+
+The Court will also take his bail application on the same date. This decision was previously expected to be delivered on 1 August.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 2 February over his alleged complicity in the procurement of substandard immunoglobulin vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/f7af9dae.json)
+
+---
+
+### CMC to rollout new parking system in Colombo soon
+
+*2024-08-01 04:46:27* · [`dailyftlk`](https://www.ft.lk/news/CMC-to-rollout-new-parking-system-in-Colombo-soon/56-765009) · `en`
+
+The Colombo Municipal Council (CMC) yesterday announced that steps are being taken to introduce a new parking management system within the city limits to improve vehicle parking availability for drivers.
+
+“The new system is expected to be rolled out within three months,” CMC Deputy Director Traffic and Road Design Eng. Manjula Kularathna said.
+
+He also said that the CMC plans to employ one contractor for one designated zone, instead of the current system, where a contractor and an administrator are assigned to each road.
+
+Kularathna also noted that under the current system, a parking ticket cannot be reused within the same zone for short-term parking whereas the new system is expected to enhance the convenience of the drivers by allowing them to park the vehicles in two or three places within an hour in the respective zone using the same parking ticket.
+
+He said the new system will see features of advanced technologies to enhance vehicle parking services within the Colombo city limits.
+
+◼️
+
+[Data](articles/f5446565.json)
+
+---
 
 ### CA Sri Lanka unleashes power of digital innovation, calls for entries for prestigious TAGS Awards 2024
 
@@ -2167,95 +2239,5 @@ The suspect is to be produced before the Matale Magistrate's Court. Investigatio
 [Data](articles/324949c3.json)
 
 [Extended Data](ext_articles/324949c3.ext.json)
-
----
-
-### Khadi Magistrate arrested bribes
-
-*2024-07-31 13:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-341343) · `ta`
-
-A Khadi Magistrate from Matale was arrested for allegedly offering a Rs 10,000 bribe to a woman from Trincomalee. The complainant, also named Khadi, filed a lawsuit seeking Rs 80,000 for defamation. The arrest took place at the suspect's home in Varakamura.
-
-🟩
-
-The Commission to investigate bribery or corruption has said that a Khadi Magistrate from Matale has been arrested on charges of bribing a woman for Rs 10,000.
-
-The complainant is a woman from Trincomalee. The complainant Khadi has provided the documents necessary to file a lawsuit for Rs 80,000 for the sake of insulting himself.
-
-He has asked for a bribe of Rs.. He was arrested while he was arrested at the house of the suspect in Varakamura area.
-
-◼️
-
-[Data](articles/cd3d19e1.json)
-
-[Extended Data](ext_articles/cd3d19e1.ext.json)
-
----
-
-### If our children who were handed over to the military are the death certificates, who is the one who murdered?- Relationships of the missing in Mullaitivu
-
-*2024-07-31 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189888) · `ta`
-
-Relatives of missing persons from Mullaitivu protested, accusing the military of hiding murders by using children as "death certificates." This ongoing struggle began in 2017, with notable figures like Durairasa Ravikaran attending the protest.
-
-🟩
-
-Relatives of the Mullaitivu District Disappeared staged a protest in front of the Mullaitivu District Secretariat on Wednesday morning.
-
-The relations of the missing persons have been engaged in a continuous struggle in the Mullaitivu district since March 8, 2017.
-
-To hide the story of the murder, our children who were entrusted with the military were the answer to the death certificate to the military?
-
-Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
-
-◼️
-
-[Data](articles/8bad5a81.json)
-
-[Extended Data](ext_articles/8bad5a81.ext.json)
-
----
-
-### Cirith is ridiculous about defeat
-
-*2024-07-31 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199407) · `si`
-
-Cirith admits defeat in the first tournament, promising improvement within 20 overs. He emphasizes the importance of mental preparation for high-pressure situations as an international player. Apologizing to fans and teammates, Cirith vows to enhance team performance, acknowledging areas for improvement, especially in handling critical moments during matches.
-
-🟩
-
-They recognize that the first tournament of the first tournament is a failure, says he is welcomed in 20 overs.
-
-He said that everyone should be strengthened to cope with pressure as an international player.
-
-Speaking to the media after yesterday (30), he said.
-
-"I accept a hard time, and I admit the first tournament as leader. So sad, as sorry for the audience, and for me and the group are very sorry. Were the audience again. I hope we want to get better. I talked to the group. I think we should be very good at this level. We showed us that we play with the best level groups to improve. A match in our hand was 9 marks for the last 12 balls. So I think we played some batsmen as the leader. As previously said, we need to be better than you. We should be trained in this way. We need to work to improve the head. Training on the first. No matter how trainign we are, we need to behave as international players. "
-
-◼️
-
-[Data](articles/9f792d53.json)
-
-[Extended Data](ext_articles/9f792d53.ext.json)
-
----
-
-### Maithri and Dreamini requested the interim ban
-
-*2024-07-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199406) · `si`
-
-Maithri and Dreamini sought an interim ban, but the Colombo District Court denied it due to insufficient evidence against MP Dayasiri Jayasekera, who wanted an injunction against SLFP and the Parliament Secretary General.
-
-🟩
-
-The Colombo District Court has ordered the request of MP Dayasiri Jayasekera demanding an interim injunction with MP Dayasiri Jayasekara prevented the Sri Lanka Freedom Party (SLFP) and the Secretary General of Parliament..
-
-The court stated that the demand will be rejected due to lack of facts as a result of lack of facts.
-
-◼️
-
-[Data](articles/6e0e63bf.json)
-
-[Extended Data](ext_articles/6e0e63bf.ext.json)
 
 ---

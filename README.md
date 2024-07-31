@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 06:19:23**
+As of **2024-07-31 06:46:22**
 
 ## Newspaper Stats
 
-*Scraped **38,158** Articles*
+*Scraped **38,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,55 @@ newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
-dailyftlk | 2,442
+dailyftlk | 2,443
 adalk | 3,489
 adaderanalk | 4,415
 tamilmirrorlk | 4,732
 dailymirrorlk | 4,733
 virakesarilk | 6,020
-adaderanasinhalalk | 6,421
+adaderanasinhalalk | 6,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,141 (100.0%) of 38,158 articles have been extended.
+38,143 (100.0%) of 38,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-07-31 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199391) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බදුල්ල , අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇති වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/e1e94407.json)
+
+---
+
+### Mark Surgenor elected President of Council for Business with Britain
+
+*2024-07-31 06:03:48* · [`dailyftlk`](https://www.ft.lk/business/Mark-Surgenor-elected-President-of-Council-for-Business-with-Britain/34-764948) · `en`
+
+The Council for Business with Britain (CBB) held its 24th Annual General Meeting at Westminster House on Wednesday, 24 July. The event marked a significant milestone with engaging discussions and a seamless transition in leadership.
+
+HSBC Sri Lanka & Maldives Chief Executive Officer Mark Surgenor, has been elected as the new President of the CBB for the 2024-2025 term. In his address, he emphasised the CBB’s historical significance and its role in fostering strong trade relations between the UK and Sri Lanka. “Sri Lanka exports approximately a billion dollars’ worth of goods to the UK each year, with one-third in apparel and two-thirds in other sectors,” Surgenor noted. He underscored the importance of leveraging the DCTS for more cost-effective trade opportunities.
+
+...
+
+[Data](articles/95891f95.json)
+
+---
 
 ### EME Level Up: Digital Hospitality Conclave – digital marketing conference for hospitality industry
 
@@ -43,6 +75,8 @@ Scheduled for 6 August at the Shangri-La Colombo, the conference will tackle the
 ...
 
 [Data](articles/0a87dab0.json)
+
+[Extended Data](ext_articles/0a87dab0.ext.json)
 
 ---
 
@@ -57,6 +91,8 @@ On 3 July 2024, the Government of Sri Lanka announced its ‘successful’ concl
 ...
 
 [Data](articles/2946d4c0.json)
+
+[Extended Data](ext_articles/2946d4c0.ext.json)
 
 ---
 
@@ -2279,53 +2315,5 @@ Pandiyankulam police rushed to the scene and rescued the body in the presence of
 [Data](articles/14af5c95.json)
 
 [Extended Data](ext_articles/14af5c95.ext.json)
-
----
-
-### Sri Lanka’s second airport idling in tourism off season: official
-
-*2024-07-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-second-airport-idling-in-off-tourism-season-official-174438/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s second international airport, in its deep southern district, Mattala airport is in operation without any flights being grounded amid the tourism off season, a top aviation official said.
-
-The island nation is in the process of handing over the $209 million Chinese-funded and built Mattala Airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
-
-Mattala airport has never made any profit since operations started in 2013, and has incurred a loss of 3 billion rupees annually.
-
-“There are no flights now and our staff is idling,” Athula Kalgetiya, Chairman of state-owned Airport & Aviation Services Sri Lanka Private Ltd told reporters on Monday (29).
-
-“We have to keep the staff because it’s a requirement to run the airport even if there is no flight. So we are losing now also.”
-
-Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s peak tourism season mainly from Ukraine and Russia.
-
-...
-
-[Data](articles/1c7e56d6.json)
-
-[Extended Data](ext_articles/1c7e56d6.ext.json)
-
----
-
-### Sri Lanka’s second airport idling in tourism off season: official
-
-*2024-07-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-second-airport-idling-in-tourism-off-season-official-174438/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s second international airport, in its deep southern district, Mattala airport is in operation without any flights being grounded amid the tourism off season, a top aviation official said.
-
-The island nation is in the process of handing over the $209 million Chinese-funded and built Mattala Airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
-
-Mattala airport has never made any profit since operations started in 2013, and has incurred a loss of 3 billion rupees annually.
-
-“There are no flights now and our staff is idling,” Athula Kalgetiya, Chairman of state-owned Airport & Aviation Services Sri Lanka Private Ltd told reporters on Monday (29).
-
-“We have to keep the staff because it’s a requirement to run the airport even if there is no flight. So we are losing now also.”
-
-Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s peak tourism season mainly from Ukraine and Russia.
-
-...
-
-[Data](articles/9632308d.json)
-
-[Extended Data](ext_articles/9632308d.ext.json)
 
 ---

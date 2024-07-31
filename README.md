@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 22:08:49**
+As of **2024-07-31 22:20:31**
 
 ## Newspaper Stats
 
-*Scraped **38,310** Articles*
+*Scraped **38,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,510
-adaderanalk | 4,432
+adalk | 3,512
+adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,759
 virakesarilk | 6,056
-adaderanasinhalalk | 6,452
+adaderanasinhalalk | 6,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,310 (100.0%) of 38,310 articles have been extended.
+38,310 (100.0%) of 38,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### More details revealed after Mawlawi arrested with firearms and ammunition
+
+*2024-07-31 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100904/more-details-revealed-after-mawlawi-arrested-with-firearms-and-ammunition) · `en`
+
+The Police Special Task Force (STF) had arrested a Mawlawi at Navaladi Junction in Oddamavadi while in possession of two T56 firearms and several rounds of ammunition.
+
+The arrested suspect has been handed over to the Terrorism Investigation Division (TID) for further investigations.
+
+The Military Intelligence Corps (MIC) of the Army had provided information to the officers of the Police Special Task Force (STF) camp in Aralaganwila regarding an individual traveling by motorcycle with a firearm in the Navaladi area of Ottamavadi.
+
+Accordingly, the suspect was arrested and a T56 assault rofle, a magazine and 29 rounds of ammunition were recovered from his possession.
+
+Following the information obtained after interrogating the suspect, the STF officers also conducted a raid at his brother’s house, where they found another T56 firearm, a magazine, and 30 rounds of ammunition.
+
+...
+
+[Data](articles/7d439171.json)
+
+---
+
+### වෛද්‍ය සිසුන් බඳවා ගැනීමට එරෙහි පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+
+*2024-07-31 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199425) · `si`
+
+කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයට වෛද්‍ය සිසුන් බඳවා ගැනීමට එරෙහිව ගොනු කළ පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය නිෂ්ප්‍රභ කර තිබේ.
+
+කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයට වෛද්‍ය උපාධිය සඳහා සම්මත නිර්ණායකයන්ට පටහැනි ලෙස සිසුන් බඳවා ගැනීමට ගෙන තිබෙන තීරණය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මහාචාර්ය අර්ජුන පරාක්‍රම ප්‍රමුඛ පිරිසක් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට නොගෙනම නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය එලෙස අද (31) තීන්දු කර ඇත.
+
+අදාළ පෙත්සම කරුණු වසන් කරමින් ගොනුකර තිබෙන බවට නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා විසින් මතු කළ මූලික විරෝධතා පිළිගැනීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝග නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/44dfd456.json)
+
+---
 
 ### No fuel price revision in August – Ceypetco
 
@@ -63,6 +99,20 @@ The price of a liter of Lanka Super Diesel 4 Star Euro 4 is Rs 355.(R)
 [Data](articles/4a037fd5.json)
 
 [Extended Data](ext_articles/4a037fd5.ext.json)
+
+---
+
+### ඉන්ධන මිල සංශෝධනය
+
+*2024-07-31 21:28:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය/11-411135) · `si`
+
+අගෝස්තු මාසයට අදාළ ඉන්ධන මිල සංශෝධනය ගැන ලංකා ඛණිජ තෙල් සංස්ථාව නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව අගෝස්තු මාසයට අදාල ඉන්ධන මිල සංශෝධනයක් සිදු නොවන බවත්, පවතින මිල නොවෙනස්ව අගෝස්තු මාසය තුළද ක්‍රියාත්මක වන බවත් එහි සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/9b270db7.json)
 
 ---
 
@@ -281,6 +331,20 @@ The magistrate has subsequently adjourned the case to September 11. Remble
 [Data](articles/616097f3.json)
 
 [Extended Data](ext_articles/616097f3.ext.json)
+
+---
+
+### ජනපතිවරණයට අදාළව පොලිස් මැතිවරණ මෙහෙයුම් මැදිරි අරඹයි
+
+*2024-07-31 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-අදාළව-පොලිස්-මැතිවරණ-මෙහෙයුම්-මැදිරි-අරඹයි/11-411130) · `si`
+
+ජනාධිපතිවරණයට අදාළ මැතිවරණ මෙහෙයුම්  මැදිරි ආරම්භ කර තිබෙන බව වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා  සඳහන් කළේය.ඒ මහතා මෙසේද පැවසීය.
+
+,ඕනෑම මැතිවරණයක් ප්‍රකාශයට පත් කළාම පොලිස් ස්ථාන මට්ටමින් මැතිවරණ මෙහෙයුම් මැදිරි ස්ථාපිත කරනවා.  කොට්ඨාස භාර නිලධාරීන්ගේ අධික්ෂණය යටතේ  මෙම මැතිවරණ මෙහෙයුම් මැදිරි ස්ථාපිත කිරීම   සිදුවෙනවා. ඒ අනුව පොලිස් ස්ථානවල මෙම මැදිරි ස්ථාපිත කර තිබෙනවා.
+
+◼️
+
+[Data](articles/c54b4355.json)
 
 ---
 
@@ -2191,105 +2255,5 @@ The President has instructed the people of the country on a recent steps to be c
 [Data](articles/2dbf3d6e.json)
 
 [Extended Data](ext_articles/2dbf3d6e.ext.json)
-
----
-
-### Hamas leader's assassination moves the Middle East to complete war
-
-*2024-07-31 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189875) · `ta`
-
-Ismail Honey's assassination by Hamas has escalated tensions in the Middle East towards a full-blown war. Professor Nader Haseemi warns of a significant shift, with potential repercussions across the region, including Lebanon, where a Hezbollah assassination attempt occurred shortly after. Iran may escalate the conflict further post-assassination.
-
-🟩
-
-Professor Nader Haseemi for the Middle East Affairs of the University of Georgetown has told the BBC that the killing of Hamas leader Ismail Honey has moved to a complete war in the Middle East.
-
-He claimed that the assassination of the Hamas leader had moved to the war to complete the Middle East.
-
-He said that this was a major breakthrough, he said that the Hamas leader's assassination would be echoed in Leban, as the head of the Hezbollah organization had tried to assassinate the head of the Hesbullah organization in the south of Beirut a few hours ago.
-
-He said Iran could engage in all measures to intensify the conflict after Honey's assassination.
-
-◼️
-
-[Data](articles/bdeccd6e.json)
-
-[Extended Data](ext_articles/bdeccd6e.ext.json)
-
----
-
-### Struggle to demand solar power project in the east
-
-*2024-07-31 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189863) · `ta`
-
-Villagers in Navakkadu, affected by a solar power project for agriculture, protested due to health concerns, loss of livelihoods, and fear of displacement. They've demanded the project's halt, citing potential eye and skin diseases from radiation and the inability to expand housing due to land acquisition. Despite negotiations with officials, the villagers vow continued resistance until the project is stopped.
-
-🟩
-
-The villagers of the Eastern Provincial Council have launched a struggle demanding that the project be stopped by the country's first project to produce solar power and use for agriculture.
-
-The villagers of Navakkadu, which belongs to the Batticaloa and Vavuniya Divisional Secretariat, staged a protest in front of the Divisional Secretariat yesterday (July 29) and the villagers have lost their livelihood and are facing health problems.
-
-The project has been launched in 30 acres of land in 30 acres of land from Navakkadu village in Navakkadu, where about 280 families live, but the villagers have reported that the project has been purchased by a further 30 acres of land at a distance of about 100 meters from their village.
-
-In the village, which is the livelihood of the majority of people, the villagers pointing out that such a plan further expands, and the villagers have expressed fear of eye and skin diseases caused by the radiation of the project.
-
-...
-
-[Data](articles/fb8affd4.json)
-
-[Extended Data](ext_articles/fb8affd4.ext.json)
-
----
-
-### Transition at the time of online train seat booking
-
-*2024-07-31 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189873) · `ta`
-
-The Department of Railways will start online train seat bookings at 10 am, shifting from the current 7 pm start due to operational changes effective from September 1st.
-
-🟩
-
-The Department of Railways has decided to commence the process of booking train seats through online at 10 am.
-
-The department said that the announcement of the online train seat booking system will commence at 10 am.
-
-As the activities are currently taking place at 7 pm, it is decided to change its time from the 1st of September at 10 am.
-
-◼️
-
-[Data](articles/36cba372.json)
-
-[Extended Data](ext_articles/36cba372.ext.json)
-
----
-
-### Dissanayake kills his wife, a husband collided with two buses
-
-*2024-07-31 11:23:04* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-පැදවූ-යතුරු-පැදිය-බස්-රථ-දෙකක-ගැටී-බිරිඳ-ජීවිතක්ෂයට/11-411112) · `si`
-
-In a tragic accident on the Trincomalee-Puttalam 'A12' road, Dinesha Dilhani, 34, was killed when her motorcycle collided with a bus. The incident occurred near Nochchiyagama, where she and her husband were traveling from Pahalamaharagahawewa to Anuradhapura. The bus driver, a resident of Jaffna, was arrested and taken to court. A post-mortem examination will be conducted at the Nochchiyagama Hospital.
-
-🟩
-
-A woman was killed in a fatal accident that took place in a luxury bus in the Trincomalee - Puttalam 'A12' main road yesterday (30).
-
-The deceased has been identified as Rajanganaya 15, a resident of Pahalamathagahawewa. Dinesha was a 34 year old woman named Dinesha Dilhani.
-
-The couple was traveling from Pahalamaharagahawewa from Pahalamahawewa to Anuradhapura and the motorcycle was hit by the bus near the Nochchiyagama bus stop.
-
-The deceased has collapsed on the road from Colombo to Jaffna and the bus has fallen into the head of the bus, police said.
-
-The victim, who was riding in the accident, the victim is not injured in the accident.
-
-A resident of Jaffna was arrested and produced before the court, the driver of the bus.
-
-The Nochichagama Hospital was placed at the Nochichagama Hospital to conduct post mortem examination on the body.
-
-...
-
-[Data](articles/aebd7652.json)
-
-[Extended Data](ext_articles/aebd7652.ext.json)
 
 ---

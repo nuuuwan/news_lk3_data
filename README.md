@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 11:20:42**
+As of **2024-07-31 11:36:02**
 
 ## Newspaper Stats
 
-*Scraped **38,194** Articles*
+*Scraped **38,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,444
 adalk | 3,495
 adaderanalk | 4,420
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,739
+tamilmirrorlk | 4,742
 virakesarilk | 6,023
 adaderanasinhalalk | 6,431
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,192 (100.0%) of 38,194 articles have been extended.
+38,194 (100.0%) of 38,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### எரிபொருள் விலையில் திருத்தம் இல்லை
+
+*2024-07-31 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-திருத்தம்-இல்லை/175-341336) · `ta`
+
+மாதாந்த எரிபொருள் விலை திருத்தத்தின் பிரகாரம், இன்று (31) நள்ளிரவு முதல் எரிபொருளின் விலை குறைக்கப்படுவது ஏன் என, எரிபொருள் நிரப்பு நிலைய உரிமையாளர்கள் எரிபொருளை ஆர்டர் செய்யாத காரணத்தினால் நாடு முழுவதும் எரிபொருள் தட்டுப்பாடு ஏற்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இந்நிலைமை தொடர்பில் அவதானம் செலுத்தியதன் பின்னர் எரிபொருள் விலை இன்று திருத்தப்படாது எனவும் எரிபொருள் விலையில் திருத்தம் செய்யப்படாது என எரிபொருள் நிரப்பு நிலைய உரிமையாளர்களுக்கு உத்தியோகபூர்வமாக அறிவிக்கப்பட்டுள்ளதாகவும் அந்த அதிகாரி மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/deeb68ed.json)
+
+---
 
 ### Kerala’s Wayanad landslides: Death toll rises to 151, search on for missing
 
@@ -49,6 +63,8 @@ Nearly 350 of the 400 registered houses in the affected region have been damaged
 ...
 
 [Data](articles/99fa7d14.json)
+
+[Extended Data](ext_articles/99fa7d14.ext.json)
 
 ---
 
@@ -141,6 +157,24 @@ In the meantime, she requested the sports funeralian to stay with the team in th
 [Data](articles/5df8c439.json)
 
 [Extended Data](ext_articles/5df8c439.ext.json)
+
+---
+
+### ஆயுதங்களுடன் மௌலவி மாட்டினார்
+
+*2024-07-31 10:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மௌலவி-மாட்டினார்/73-341332) · `ta`
+
+மட்டக்களப்பு மாஞ்சோலை பிரதேசத்தில் மௌலவி ஒருவர் ஆயுதங்களுடன் கைது செய்யப்பட்டுள்ளதாக அதிரடிப்படையினர் தெரிவித்தனர்.
+
+பொலன்னறுவை இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் பேரில் T.56 துப்பாக்கிகள் இரண்டு, அறுபது தோட்டாக்கள், இரண்டு மகசீன்கள், ஒரு பைனாகுலர் மற்றும் மோட்டார் சைக்கிள் என்பவற்றை ஏற்றிச் சென்ற நிலையில் கைது செய்யப்பட்டுள்ளதாக அரலகங்வில விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட மௌலவி ஓட்டமாவடி மாஞ்சோலை பகுதியைச் சேர்ந்த 43 வயதுடையவர் எனவும் கருவாடு வியாபாரத்தில் ஈடுபட்டார் என்று விசாரணைகளை மேற்கொள்ளும் விசேட அதிரடிப்படையினர் தெரிவிக்கின்றனர்.
+
+டி.56 துப்பாக்கியின் அறுபது ரவுண்டுகள் மற்றும் இரண்டு மகசீன்கள், பைனாகுலர் ஆகியவை உரை பையில் போட்டு, தோட்டத்தில் புதைத்து வைக்கப்பட்டிருந்த நிலையில், அதை தோண்டி எடுத்து  மோட்டார் சைக்கிளில் கொண்டு செல்லப்பட்டபோது கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b3e2e8e7.json)
 
 ---
 
@@ -276,9 +310,9 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 
 ---
 
-### மூன்று தமிழக மீனவர்களுடன் ஒரு வருட சிறை
+### 3 தமிழக மீனவர்களுடன் ஒரு வருட சிறை
 
-*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
+*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
 
 இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
 
@@ -290,7 +324,33 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 
 ...
 
+[Data](articles/50319717.json)
+
+---
+
+### One year in prison with three Tamil Nadu fishermen
+
+*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
+
+Three Tamil Nadu fishermen received one-year prison sentences and fines for illegal fishing in Sri Lankan waters. Of 64 arrested, 26 were remanded twice and sentenced to a year in jail. The remaining 23 boat owners were fined 4 million rupees each; failure to pay led to their boats being seized by the state. Another 25 arrested later were remanded until further notice.
+
+🟩
+
+Three Tamil Nadu fishermen have been sentenced to one year in prison for allegedly fishing in the Sri Lankan waters and a fine of Rs.
+
+The hearing of 64 fishermen arrested at various times was taken up at the Kayts Magistrate's Court on Tuesday (30) on charges of fishing in the Sri Lankan waters.
+
+At the same time, the 26 of the 26 arrested on June 16 and 22 were remanded for a second time, and they were sentenced to one year in prison.
+
+The other 23 were the owners of three boats, and the three were fined 4 million rupees each.. Failure to pay the penalty, he ordered that the three boats have been made state -owned.
+
+Subsequently, the 25 fishermen who were arrested on the 1st of this month have been ordered to be remanded until the 06th of this month.
+
+◼️
+
 [Data](articles/a20b872b.json)
+
+[Extended Data](ext_articles/a20b872b.ext.json)
 
 ---
 
@@ -2225,75 +2285,5 @@ Dalugama, Dalugama, Dalugama, Resident of Jonakwatte. Mrs. Perera was sent to co
 [Data](articles/22a1203f.json)
 
 [Extended Data](ext_articles/22a1203f.ext.json)
-
----
-
-### Lyricist Mari Selvaraj for 'Banana'
-
-*2024-07-30 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189825) · `ta`
-
-"Song 'Orula Raja' from 'Banana' movie, featuring newcomer child star Ponn, directed by Mari Selvaraj, and composed by Santosh Narayanan, has been released globally. The film, produced by Disney Plus Hotstar, Navi Studios, and Farmer's Master Plan Production, showcases the song alongside other notable actors like Kalaiyarasan, Nikkila Wimal, and Divya Duraisamy. The release coincides with the film's global premiere on August 23rd."
-
-🟩
-
-The song 'Orula Raja ..', which is featured in the movie 'Banana', which is playing the lead role of newcomer child stars, has been released.
-
-Newcomer Child Star Ponn in the movie 'Banana'. Kalaiyarasan, Nikkila Wimal, Divya Duraisamy, Janaki, J. Many people including Satish Kumar. The film, which has been recorded by Theni Eswar, has composed the film.
-
-The film is being produced by Disney Plus Hotstar - Navi Studios - Farmer's Master Plan Production.
-
-The song 'Oru Urla Raja ..', which was announced in the film 'Banana', which will be released at the film House around the world on August 23rd, has been released.
-
-The song is written by director Mari Selvaraj, sung by composer and singer Santosh Narayanan. The video created for this song has attracted fans as it has been created to attract audiences as a meaningful symbols- the flag of the Communist Party.
-
-◼️
-
-[Data](articles/6f689072.json)
-
-[Extended Data](ext_articles/6f689072.ext.json)
-
----
-
-### K D - The Devil 'Sanjay Dutt's character appearance release
-
-*2024-07-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189828) · `ta`
-
-Sanjay Dutt makes a special appearance in "KD-The Devil," a multilingual film directed by Prem, featuring Dhruv Sarja and others. Released on November 13, it marks Dutt's entry into the Kannada film industry, celebrating his 65th birthday.
-
-🟩
-
-Bollywood actor Sanjay Dutt's character and appearance in the film 'KD-The Devil' starring the hero of the story of Kannada film industry, Dhru Sarja, has been released on his sixty-fifth birthday.
-
-Kannada director Prem's directorial 'K D -The Devil' stars Durva Sarja, Rishma Nanayya, Sanjay Dutt, Shilpa Shetty, Ravichandran, Ramesh Aravind, Jissu Sen Gupta, Nora Fadehi. Arjun Zenya has composed the film, which is being recorded by William David.
-
-The film is being produced as an exercise entertainer and produced by producer KVN on behalf of KVN Productions.
-
-The film, which is released in Tamil, Telugu, Malayalam, Kannada and Hindi, has been released on November 13, and the film 'Duck Deva', which has starred in the film 'Ban Indian', has been named 'Duck Deva' and his role as a special video..
-
-◼️
-
-[Data](articles/d6a35499.json)
-
-[Extended Data](ext_articles/d6a35499.ext.json)
-
----
-
-### Relatives of missing persons
-
-*2024-07-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189824) · `ta`
-
-Relatives of missing persons protested in Vavuniya, demanding international justice and the recovery of their loved ones.
-
-🟩
-
-The Vavuniya District on Tuesday (30) in front of the Vavuniya old bus station, the relatives of the missing persons were protesting.
-
-In the meantime, the protesters raised slogans and carried out the slogans that need to get international justice, they need justice, and to find the missing persons.
-
-◼️
-
-[Data](articles/8eddca93.json)
-
-[Extended Data](ext_articles/8eddca93.ext.json)
 
 ---

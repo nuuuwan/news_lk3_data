@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 14:20:52**
+As of **2024-07-31 14:37:46**
 
 ## Newspaper Stats
 
-*Scraped **38,237** Articles*
+*Scraped **38,241** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
-bbccomsinhala | 367
+bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,498
-adaderanalk | 4,422
+adalk | 3,499
+adaderanalk | 4,424
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,746
 virakesarilk | 6,039
@@ -26,11 +26,37 @@ adaderanasinhalalk | 6,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,237 (100.0%) of 38,237 articles have been extended.
+38,237 (100.0%) of 38,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### Over 100 ex-provincial councillors pledge support to President Ranil
+
+*2024-07-31 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100895/over-100-ex-provincial-councillors-pledge-support-to-president-ranil) · `en`
+
+A group of 116 former Provincial Council members from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have pledged their commitment to support President Ranil Wickremesinghe’s victory in the upcoming presidential election, the PMD reported.
+
+◼️
+
+[Data](articles/e7ec672f.json)
+
+---
+
+### Mawlawi and brother arrested with firearms and ammunition
+
+*2024-07-31 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100894/mawlawi-and-brother-arrested-with-firearms-and-ammunition) · `en`
+
+The Police Special Task Force (STF) has arrested a Mawlawi and his brother at Oddamavadi while in possession of weapons including two firearms and several rounds of ammunition.
+
+Police Spokesman DIG Nihal Thalduwa said the two suspects were arrested with two T-56 assault rifles, two magazines, 60 rounds of ammunition, a sword and a pair of binoculars.
+
+◼️
+
+[Data](articles/f5b3cf88.json)
+
+---
 
 ### Prasanna writes to Mahinda
 
@@ -119,6 +145,22 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 [Data](articles/5f0a041a.json)
 
 [Extended Data](ext_articles/5f0a041a.ext.json)
+
+---
+
+### අල්ලස් ගත් ක්වාසි විනිසුරු අල්ලයි
+
+*2024-07-31 13:31:10* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ක්වාසි-විනිසුරු-අල්ලයි/11-411116) · `si`
+
+කාන්තාවකගෙන් රුපියල් 10 000/= අල්ලස් මුදලක් ලබාගත් මාතලේ ක්වාසි විනිසුරුවරයෙක් අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි.
+
+පැමිණිකාර ත්‍රිකුණාමලය ප්‍රදේශයේ කාන්තාව නඩත්තු සහ අපහාසය සඳහා රුපියල් 80000/= ක වන්දි මුදලක් ඉල්ලා මෙම ක්වාසි විනිසුරුවරයා වෙත නඩුවක් ගොනු කිරීමට අවශ්‍ය ලේඛන ලබා දී ඇති අතර එම වන්දි මුදල ලබාදීමට අවශ්‍ය කටයුතු කරදීම වෙනුවෙන් රුපියල් 50000/ ක අල්ලස් මුදලක් ඉල්ලා එයින් රුපියල් 10000/= ක මුදලක් වරකා මුර ප්‍රදේශයේ සැකකරුගේ නිවසේ පවත්වා යන කාර්යාලය තුළදී ලබා ගනිද්දී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+සැකකාර විනිසුරුවරයා මාතලේ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/324949c3.json)
 
 ---
 
@@ -1522,6 +1564,28 @@ He is expected to be used in the future for traffic parking places.
 
 ---
 
+### 'තාක්ෂණයෙන් ලොවක් දිනූ' දෘශ්‍යාබාධිත නීතිඥවරයා
+
+*2024-07-31 07:49:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldy062l4nwo) · `si`
+
+ඉසුරු මහේෂ් පණ්ඩිත උපන්නේ මීට වසර 27කට පෙර ගාල්ල දිස්ත්‍රික්කයේ, තෙලිකඩ නම් ග්‍රාමයේදී ය.
+
+උපතේදී සිදුවූ බව කියන ‘වෛද්‍ය නොසැලකිල්ලක්’ ඔහු දෘශ්‍යාබාධිත ළදරුවෙකු බවට පත් කළ අතර එය ඔහුගේ මෙන් ම, ඔහුගේ මව සහ පියාගේ ද ජීවිත පෙර නොවූ විරූ අභියෝගවලට මැදි කළේ ය.
+
+නමුත්, එම අභියෝග මුළුමනින් ම පාහේ ජය ගනිමින් ඔහු අද "බොහෝ දෙනෙකු ප්‍රිය කරන" නීතිඥවරයෙකු බවට පත්ව තිබේ.
+
+ඒ, ඔහුගේ මෙන් ම ඔහුගේ දෙමව්පියන්ගේ වූ අප්‍රහිත ධෛර්යය නිසා බව ඉසුරුගේ අදහසයි. එම ගමනේදී ඔහුට අසල්වාසීන්ගෙන් ද ලැබුණේ නොමද සහයකි.
+
+දැන් ඔහු නීතිඥවරයෙකු ලෙස දිවුරුම් දී වසරකට ආසන්න කාලයක් ගතවී ගොසිණි.
+
+ආබාධ සහිත පුද්ගලයින්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන ක්‍රියාකාරිකයෙකු මෙන් ම රාජ්‍ය නොවන සංවිධාන සමග ස්වාධීන පර්යේෂකයෙකු, භාෂා පරිවර්තකයෙකු ලෙස සහ නීතිය පිළිබඳ පුහුණු වැඩසටහන් ක්‍රියාත්මක කරන්නෙකු ලෙස ද ඔහු කටයුතු කරන්නේ ය.
+
+...
+
+[Data](articles/1e0d9f02.json)
+
+---
+
 ### There is no room for a struggle - PLACE
 
 *2024-07-31 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199394) · `si`
@@ -2215,97 +2279,5 @@ The five-member Supreme Court Badulla informed this cadre to the Solicitor Gener
 [Data](articles/63d86125.json)
 
 [Extended Data](ext_articles/63d86125.ext.json)
-
----
-
-### Mahinda has to change his position - support Ranil - Otherwise, the consequences should be experienced - Peramuna's MPs
-
-*2024-07-30 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189848) · `ta`
-
-PA MPs urge Mahinda Rajapaksa to back Ranil Wickremesinghe, warning of dire consequences including potential loss in the next parliamentary election and possible dissolution of the PA.
-
-🟩
-
-Members of Parliament of the PA, who have met President Ranil Wickremesinghe, have appealed to party leader Mahinda Rajapaksa to support Ranil Wickremesinghe.
-
-They have warned that Rajapakse should take a massive change in his position or to overcome Ranil or face its consequences.
-
-PA MPs have said that if Mahinda Rajapaksa's party is determined to take up on Monday, the next parliamentary election will have to be reclaimed for the next parliamentary election.
-
-They also warned that failure to support Ranil Wickremesinghe would lead to the destruction of the PA.
-
-◼️
-
-[Data](articles/6229b66c.json)
-
-[Extended Data](ext_articles/6229b66c.ext.json)
-
----
-
-### Iranian president sworn in with chants of ‘Death to America, Israel’
-
-*2024-07-30 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100886/iranian-president-sworn-in-with-chants-of-death-to-america-israel) · `en`
-
-Iran’s new president Masoud Pezeshkian was sworn in on Tuesday, after winning an election earlier this month by promising to improve ties with the world and ease restrictions on social freedoms at home.
-
-“We will pursue constructive and effective interaction with the world based on dignity, wisdom, and expediency,” Pezeshkian, a relative moderate, told a parliament session attended by foreign dignitaries and broadcast live on state television.
-
-His victory has lifted hopes of a thaw in Iran’s antagonistic relations with the West that might create openings for defusing its nuclear standoff with world powers.
-
-But Pezeshkian takes office at a time of escalating Middle East tensions over Israel’s conflict with Hamas in Gaza and cross-border fighting with Iran’s ally Hezbollah in Lebanon.
-
-...
-
-[Data](articles/49826814.json)
-
-[Extended Data](ext_articles/49826814.ext.json)
-
----
-
-### Sri Lanka scored 138 runs
-
-*2024-07-30 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199387) · `si`
-
-In a thrilling cricket match, Sri Lanka won against India by scoring 138 runs. After winning the toss, Sri Lanka chose to bat first but faced stiff competition from India, who lost 9 wickets while making 137 runs. The final score saw Sri Lanka triumphing with 138 runs.
-
-🟩
-
-The Sri Lankan team and the Sri Lankan team will be held at the Pallekele cricket field.
-
-Sri Lanka were able to gain advantage of the coin and they decided to give the batting to India first.
-
-India scored 137 runs for the loss of 9 wickets in their allotted 20 overs.
-
-The Sri Lankan team won 138 runs in order to win the match.
-
-◼️
-
-[Data](articles/59a65792.json)
-
-[Extended Data](ext_articles/59a65792.ext.json)
-
----
-
-### If you use the opportunity, the country will be caught in massive damage;Asian Human Rights Commission warns President, Prime Minister and Speaker
-
-*2024-07-30 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189847) · `ta`
-
-The Asian Human Rights Commission warns that political maneuvers aimed at undermining the Supreme Court could lead to significant harm to Sri Lanka, already grappling with crises. The commission highlights concerns over the potential misuse of power and the importance of adhering to constitutional norms and the rule of law.
-
-🟩
-
-The Constitution has been appointed to appoint a Inspector General of Police in response to the interim until the end of the Supreme Court is announced, and one of the large number of police service can be selected.
-
-On the contrary, the Asian Human Rights Commission has warned that if the President, the Prime Minister and the Speaker are trying to confuse the Supreme Court, there will be bad damage to the country that is already facing various crises.
-
-Addressing a special announcement in Parliament last Friday, Prime Minister Dinesh Gunawardena said that the High Court's order to serve as the Chief Minister of the Deshand Pandu Tennakoon Police will not be accepted by the court.
-
-At the same time, President Ranil Wickremesinghe announced last week that he would quit the appointment of a police chief in response to the Supreme Court's order as he would contest the upcoming presidential election.. He also made contradicting comments issued by the High Court on the issue of national pandan.
-
-...
-
-[Data](articles/d06bbc39.json)
-
-[Extended Data](ext_articles/d06bbc39.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 16:06:06**
+As of **2024-07-31 16:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,252** Articles*
+*Scraped **38,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,444
 adalk | 3,503
 adaderanalk | 4,424
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,748
+tamilmirrorlk | 4,749
 virakesarilk | 6,039
 adaderanasinhalalk | 6,444
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,251 (100.0%) of 38,252 articles have been extended.
+38,252 (100.0%) of 38,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### லிட்ரோ விலை தொடர்பில் அறிவிப்பு
+
+*2024-07-31 15:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-விலை-தொடர்பில்-அறிவிப்பு/175-341351) · `ta`
+
+ஓகஸ்ட் மாதத்திற்கான லிட்ரோ சமையல் எரிவாயு வின் விலையில் மாற்றம் இருக்காது என லிட்ரோ நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்துள்ளார்.
+
+அதேவேளை நாட்டில் மாதாந்த எரிபொருள் விலை திருத்தத்தின் பிரகாரம், புதன்கிழமை  (31) நள்ளிரவு முதல் எரிபொருளின் விலைகள் திருத்தப்படாது என  இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/eb3daa23.json)
+
+---
 
 ### Ismail Honey assassination: President Ranil Action
 
@@ -224,7 +238,7 @@ Meanwhile, during the meeting with former PC members, the President also express
 
 The Police Special Task Force (STF) has arrested a Mawlawi and his brother at Oddamavadi while in possession of weapons including two firearms and several rounds of ammunition.
 
-Police Spokesman DIG Nihal Thalduwa said the two suspects were arrested with two T-56 assault rifles, two magazines, 60 rounds of ammunition, a sword and a pair of binoculars.
+Acting Police Media Spokesperson DIG Ruwan Gunasekara said the two suspects were arrested with two T-56 assault rifles, two magazines, 60 rounds of ammunition, a sword and a pair of binoculars.
 
 The suspects were arrested by officers of the Special Task Force in Aralaganwila during an operation conducted last night (30), based on information received by army intelligence.
 
@@ -388,19 +402,25 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 
 ---
 
-### පි සි අල්ලස් දැලේ
+### PB arrested
 
 *2024-07-31 13:35:18* · [`adalk`](https://www.ada.lk/breaking_news/පි-සි-අල්ලස්-දැලේ/11-411117) · `si`
 
-බිබිල මැදගම පොලිස්  ස්ථානයේ කොස්තාපල්වරයෙකු මැදගම නගරයේ පොදු වෙළඳපොලේ දි ව්‍යාපාරිකයෙකුගෙන් රුපියල් 3000/=   අල්ලස් මුදලක් ලබා ගනිද්දී අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි.
+A constable from Bibile Medagama police station was arrested for allegedly misusing his authority and claiming to report such misuse to court. The suspect will face charges of bribery or corruption at the Bibila Magistrate's Court, under investigation by the Investigation Commission.
 
-බිබිල මැදගම ප්‍රදේශයේ පුද්ගලයකු විසින් කරන ලද පැමිණිල්ලකට අනුව අත්අඩංගුවට ගන්නා ලද රා ප්‍රමාණය අඩුවෙන් සඳහන් කර අධිකරණයට කරුණු වාර්තා කිරීමටත් අත්අඩංගුවට ගන්නා ලද සැකකරුවන්ගේ පෙර වැරදි සඳහන් නොකිරීමට සහ ඉදිරියේදී මේ සම්බන්ධ අවශ්‍ය සහයෝගය ලබාදීම සඳහා එකී මුදල ඉල්ලා  ලබා ගැනීමේ චෝදනාව මත සැකකාර කොස්තාපල්වරයා කඩ කාමරය තුළදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+🟩
 
-සැකකාර කොස්තාපල්වරයා බිබිල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+A constable at the Bibile Medagama police station
+
+Suspect's constable arrested for claiming to proceed to the court and to report the previous misuse of the suspects of the suspects in the Medagama area.Police say.
+
+The suspect is due to be produced before the Bibila Magistrate's Court. Investigation Commission is investigating the bribery or corruption.
 
 ◼️
 
 [Data](articles/3b886987.json)
+
+[Extended Data](ext_articles/3b886987.ext.json)
 
 ---
 
@@ -2287,29 +2307,5 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/bd24b441.json)
 
 [Extended Data](ext_articles/bd24b441.ext.json)
-
----
-
-### Allowing back to imports
-
-*2024-07-31 00:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-இறக்குமதிக்கு-மீண்டும்-அனுமதி/175-341318) · `ta`
-
-The Sri Lankan State Trade (Multipurpose) Corporation imported 224 million eggs as per a Cabinet resolution on March 18, 2024. 95% of these eggs were sold to consumers via the Sri Lanka Sathosa Sales Network for 37 rupees each. The import period concluded on April 30, 2024, aimed at distributing eggs for various uses, including baking and warming products. This initiative was approved by the Cabinet upon the proposal of the Minister of Commerce, Business, and Food Security.
-
-🟩
-
-224 million eggs have been imported by the Sri Lankan State Trade (Multipurpose) Corporation. Eggs were imported according to the Cabinet resolution which was held on 2024.03.18.
-
-95 % of them were sold to consumers for 37 rupees through the Sri Lanka Sathosa Sales Network. The period, which was issued for egg imports, ended on 2024.04.30.
-
-Accordingly, the importation of the eggs is required to distribute eggs in the market, including cake, and to distribute eggs for warm products, including cake.
-
-The Cabinet has approved the idea submitted by the Minister of Commerce, Business and Food Security.R
-
-◼️
-
-[Data](articles/29dfba62.json)
-
-[Extended Data](ext_articles/29dfba62.ext.json)
 
 ---

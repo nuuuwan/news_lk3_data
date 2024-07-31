@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 20:36:12**
+As of **2024-07-31 20:55:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,298 (100.0%) of 38,302 articles have been extended.
+38,300 (100.0%) of 38,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,19 +62,25 @@ He has said that due to firearms to fire, he had placed the weapons from a forme
 
 ---
 
-### ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு சிறிலங்கா சுதந்திர கட்சி ஆதரவு
+### Sri Lanka Freedom Party supports President Ranil Wickremesinghe
 
 *2024-07-31 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189943) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக ஸ்ரீலங்கா சுதந்திரக் கட்சி தெரிவித்துள்ளது.
+The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the 2024 presidential election after a meeting where the party's stance towards him was discussed.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அரசியல் அமைப்பும் மத்தியக் குழுவும் புதன்கிழமை (31) பிற்பகல் கூடி இவ்விடயம் தொடர்பில் இறுதித் தீர்மானத்தை எடுத்துள்ளது.
+🟩
 
-கட்சியின் யோசனைகளை ஜனாதிபதிக்கு வழங்கிய பின்னர் இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+The Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the 2024 presidential election.
+
+The Sri Lanka Freedom Party (SLFP) political organization and the central committee met on Wednesday afternoon and made a final decision on the issue.
+
+The decision was made during a discussion that followed the party's ideas to the President.
 
 ◼️
 
 [Data](articles/1f6b1a20.json)
+
+[Extended Data](ext_articles/1f6b1a20.ext.json)
 
 ---
 
@@ -188,19 +194,27 @@ New Zealand athletic Kane Williamsan afternoon. That was 859 runs.
 
 ---
 
-### பாரபட்சமின்றி நாட்டை புதிய கோணத்தில் முன்னோக்கி கொண்டுச் செல்லவே ஜனாதிபதி தேர்தலில் போட்டியிடுகிறேன் - ஜனாதிபதி
+### I am contesting the presidential election to bring the country to a new angle without prejudice - the president
 
 *2024-07-31 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189941) · `ta`
 
-பாரபட்சமின்றி நாட்டை புதிய கோணத்தில் முன்னோக்கி கொண்டுச் செல்லவே ஜனாதிபதி தேர்தலில் போட்டியிடுவதாக தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மத்திய அரசாங்கம், 09 மாகாண அரசாங்கங்கள் உள்ளடங்களாக 10 அரசாங்கங்களின் கீழ் உள்ள அனைவருக்கும் பொறுப்புகளை வழங்கி நாட்டை முன்னேற்றுவதாக ஜனாதிபதி உறுதியளித்தார்.
+President Ranil Wickremesinghe promises to lead the country without prejudice, aiming to distribute responsibilities across all levels of government to foster growth. He emphasizes commitment to IMF agreements and addresses concerns over global issues impacting Sri Lanka's economy. Highlighting the importance of unity and stability, he calls for collective action to tackle challenges and move the country forward.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஐக்கிய தேசியக் கட்சியை பிரதிநிதித்துவப்படுத்தும் மாகாண சபைகளின் முன்னாள் பிரதிநிதிகளுடன் பத்தரமுல்லை வோட்டர்ஸ் எட்ஜ் ஹோட்டலில் புதன்கிழமை (31) இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-இதன்போது, எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்கு அர்ப்பணிப்பதாக ஸ்ரீலங்கா பொதுஜன பெரமுன மற்றும் ஐக்கிய தேசியக் கட்சியை பிரதிநிதித்துவப்படுத்தும் 116 மாகாண சபைகளின் முன்னாள் மக்கள் பிரதிநிதிகள் உறுதியளித்தனர்.
+President Ranil Wickremesinghe, who said he would contest the presidential election without prejudice, promised to improve the country by giving them responsibilities to all those under 10 governments, including the central government and 09 provincial governments.
+
+The President made this observation at a meeting held at the Battaramulla Voters Edge Hotel on Wednesday (31) with former representatives of the Provincial Councils representing the Sri Lanka PA and the United National Party.
+
+Meanwhile, former people of the 116 provincial councils representing the Sri Lanka PA and the United National Party (UNP) have promised to dedicate President Ranil Wickremesinghe's victory in the upcoming presidential election.
+
+“To protect the growing economy in the country and take forward. Cannot violate the agreement made with the International Monetary Fund. The President also emphasized that it is the responsibility of everyone to be committed to the election, even if it is held.
 
 ...
 
 [Data](articles/70024a10.json)
+
+[Extended Data](ext_articles/70024a10.ext.json)
 
 ---
 

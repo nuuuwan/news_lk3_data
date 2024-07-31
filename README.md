@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 13:36:17**
+As of **2024-07-31 13:55:08**
 
 ## Newspaper Stats
 
@@ -26,61 +26,81 @@ adaderanasinhalalk | 6,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,220 (100.0%) of 38,225 articles have been extended.
+38,225 (100.0%) of 38,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### පරාජය ගැන දුක්වෙන චරිත් අසලංක
+### Cirith is ridiculous about defeat
 
 *2024-07-31 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199407) · `si`
 
-නායකයෙකු ලෙස කටයුතු කළ පළමු තරගාවලිය අසාර්ථක බවට තමන් පිළිගන්නා බව පන්දුවාර 20යි 20 කණ්ඩායමේ නායක චරිත් අසලංක පවසයි.
+Cirith admits defeat in the first tournament, promising improvement within 20 overs. He emphasizes the importance of mental preparation for high-pressure situations as an international player. Apologizing to fans and teammates, Cirith vows to enhance team performance, acknowledging areas for improvement, especially in handling critical moments during matches.
 
-එහිදී ඔහු පවසා සිටියේ, ජාත්‍යන්තර ක්‍රීඩකයෙකු ලෙස පීඩනයට මුහුණදීම සඳහා සියලුදෙනාගේ මනස ශක්තිමත් විය යුතු බවය.
+🟩
 
-ඊයේ (30) පැවති තරගයෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+They recognize that the first tournament of the first tournament is a failure, says he is welcomed in 20 overs.
 
-...
+He said that everyone should be strengthened to cope with pressure as an international player.
+
+Speaking to the media after yesterday (30), he said.
+
+"I accept a hard time, and I admit the first tournament as leader. So sad, as sorry for the audience, and for me and the group are very sorry. Were the audience again. I hope we want to get better. I talked to the group. I think we should be very good at this level. We showed us that we play with the best level groups to improve. A match in our hand was 9 marks for the last 12 balls. So I think we played some batsmen as the leader. As previously said, we need to be better than you. We should be trained in this way. We need to work to improve the head. Training on the first. No matter how trainign we are, we need to behave as international players. "
+
+◼️
 
 [Data](articles/9f792d53.json)
 
+[Extended Data](ext_articles/9f792d53.ext.json)
+
 ---
 
-### මෛත්‍රී සහ දුෂ්මන්ත ඉල්ලූ අතුරු තහනම ඉවතට
+### Maithri and Dreamini requested the interim ban
 
 *2024-07-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199406) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ සහ මහ ලේකම් ධුරයේ කටයුතුවලට බාධා කිරීම වළක්වාලමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා එම පක්‍ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන සහ වැඩබලන ලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල යන අය කළ ඉල්ලීමක් නිෂ්ප්‍රභා කිරීමට කොළඹ දිසා අධිකරණය නියෝග කර තිබේ.
+Maithri and Dreamini sought an interim ban, but the Colombo District Court denied it due to insufficient evidence against MP Dayasiri Jayasekera, who wanted an injunction against SLFP and the Parliament Secretary General.
 
-අතුරු තහනම් නියෝගයක් නිකුත් කිරීමට තරම් පැමිණිලිකරුවන් විසින් කරුණු තහවුරු කර නොමැති වීම හේතුවෙන් එම ඉල්ලීම ප්‍රතික්ෂේප කරන බව අධිකරණය සඳහන් කළේය.
+🟩
+
+The Colombo District Court has ordered the request of MP Dayasiri Jayasekera demanding an interim injunction with MP Dayasiri Jayasekara prevented the Sri Lanka Freedom Party (SLFP) and the Secretary General of Parliament..
+
+The court stated that the demand will be rejected due to lack of facts as a result of lack of facts.
 
 ◼️
 
 [Data](articles/6e0e63bf.json)
 
+[Extended Data](ext_articles/6e0e63bf.ext.json)
+
 ---
 
-### 13 හැවිරිදි දැරිය ගැබිනියක් කළ ඥාති සහෝදරයා
+### 13-year-old girl who was pregnant
 
 *2024-07-31 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199405) · `si`
 
-මිත්තණිය ළඟ හැදීවැඩුණු 13 හැවිරිදි දැරියක් සිය මාමාගේ පුත්‍රයා විසින් ගැබිනියක් බවට පත් කළ පුවතක් අඟුරුවාතොට, වෙනිවැල්පිටිය ප්‍රදේශයෙන් වාර්තා වේ.
+A 13-year-old girl from Vidiwalpitiya became pregnant after being abused by her uncle's 18-year-old son. The boy, who grew up with his grandmother, was arrested and will face charges at the Horana Magistrate's Court. The girl, who lived without parents, was neglected despite warnings from the Athulpola Police about her safety. She is now hospitalized for a forensic examination.
 
-දෙමාපියන් නොමැතිව සිය මිත්තණිය සමීපයේ හැදී වැඩුණු එම දැරිය සිය මාමාගේ පුත්‍රයා අතින් අපයෝජනයට ලක්වී ඇති අතර මේවන විට ඇය මාස එකහමාරක ගැබිනියක් බවට පත්ව ඇති බව අඟුරුවාතොට පොලීසිය පවසයි.
+🟩
 
-දැරිය ජීවත් වූ නිවෙසේම ඇයගේ මාමාගේ පුත්‍රයා වූ 18 හැවිරිදි තරුණයා විසින් කිහිපවරක් මෙම දැරියව අපයෝජනයට ලක් කර ඇතැයි පොලිස් විමර්ශනවලදී හෙළිදරව් වී තිබේ.
+A 13-year-old girl who was a 13-year-old girl who was shocked by the son of his Uncle was pregnant from Vidiwalpitiya.
 
-අඟුරුවාතොට පොලීසිය විසින් දැරිවියගේ අනාරක්ෂිතභාවය පිළිබඳ ඇයගේ මිත්තණිය කිහිපවරක් දැනුවත් කර ඇති නමුත් මිත්තණියගේ නොසැලකිලිමත්භාවය හේතුවෙන් දැරියට මෙම ඉරණමට මුහුණපාන්නට සිදු වී තිබේ.
+The girl was abused by the son of his Uncle, which has grown up with his grandmother without a parent.
 
-සිද්ධිය සම්බන්ධයෙන් මේ වන විට 18 හැවිරිදි තරුණයා පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර අද (31) හොරණ මහෙස්ත්‍රාත්‍ අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Police investigations have revealed that the 18-year-old youth of her father, son of her Uncle her Uncle, had been abused.
 
-දැරිය අධිකරණ වෛද්‍යවරයා වෙත යොමු කිරීම සඳහා හොරණ මූලික රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+The Athulpola Police have informed her grandmother on the insecurity of the girls, but the girl's negligence has faced this fate.
+
+The 18-year-old youth has been arrested by the police and is to be produced before the Horana Magistrate's Court today (31).
+
+The girl has been admitted to the Horana Base Hospital for the forensic doctor.
 
 ◼️
 
 [Data](articles/324ca1c7.json)
+
+[Extended Data](ext_articles/324ca1c7.ext.json)
 
 ---
 
@@ -99,6 +119,8 @@ Furthermore, this new system is expected to be implemented within three months a
 ...
 
 [Data](articles/22bff6fc.json)
+
+[Extended Data](ext_articles/22bff6fc.ext.json)
 
 ---
 
@@ -2196,17 +2218,23 @@ Mr. Mahinda Araweera, Minister of Party, responding to the question raised by jo
 
 ---
 
-### පොලිස්පති ගැටලුව ගැන කථානයක හා ජනපති හමුක් ඉදිරියේදී
+### About a speech of the IGP and met President
 
 *2024-07-30 20:04:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ගැටලුව-ගැන-කථානයක-හා-ජනපති-හමුක්-ඉදිරියේදී/11-411107) · `si`
 
-පොලිස්පති ධුරය සම්බන්ධයෙන් ඇතිවී තිබෙන තත්ත්වය පිළිබඳව කථානායකවරයා දිවයිනට පැමිණි පසුව විශේෂ හමුවක් පැවැත්වීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තීරණය කර තිබේ.කථානායක මහින්ද යාපා අබේවර්ධන මහතා මේ වන ඉරාන නව ජනාධිපතිවරයාගේ දිවුරුම් දීමේ උත්සවයට සහභාගි වීම සඳහා ඉරානය බලා පිටත්ව ගොස් ඇත.
+President Ranil Wickremesinghe plans a special meeting about the police political situation. He wants to summon Speaker Mahinda Yapa Abeywardena and MP Mahinda Yapa Abeywardena to address future crises.
 
-පොලිස් පති ධුරය සම්බන්ධයෙන් ඇතිවී තිබෙන අර්බුදය පිළිබඳව කථානායකවරයාත්, අග්‍ර විනිශ්චකාරවරයාත් විසඳුමකට පැමිණිය යුතු බව මීට පෙර ප්‍රකාශ කර තිබුණි.කෙසේ වුවද මේ පිළිබදව ඉදිරියේදී ගන්නා පියවර සම්බන්ධයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා දිවයිනට පැමිණි පසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විශේෂ හමුවක් කැඳවා ක්‍රියාමාර්ග ගැනීමට අපේක්ෂිතය.
+🟩
+
+President Ranil Wickremesinghe has decided to take a special meeting on the situation in connection with the situation in connection with the post of Police Political.
+
+The Speaker and the Tributarian MP Mahinda Yapa Abeywardena should be summoned by President Mahinda Yapa Abeywardena regarding the crisis in the future.
 
 ◼️
 
 [Data](articles/1d761757.json)
+
+[Extended Data](ext_articles/1d761757.ext.json)
 
 ---
 

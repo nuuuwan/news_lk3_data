@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 16:20:45**
+As of **2024-07-31 16:35:55**
 
 ## Newspaper Stats
 
-*Scraped **38,253** Articles*
+*Scraped **38,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,82 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,503
-adaderanalk | 4,424
+adalk | 3,505
+adaderanalk | 4,425
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,749
+tamilmirrorlk | 4,750
 virakesarilk | 6,039
-adaderanasinhalalk | 6,444
+adaderanasinhalalk | 6,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,252 (100.0%) of 38,253 articles have been extended.
+38,253 (100.0%) of 38,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### லிட்ரோ விலை தொடர்பில் அறிவிப்பு
+### Colombo’s consumer price inflation climbs to 2.4% in July
+
+*2024-07-31 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100896/colombos-consumer-price-inflation-climbs-to-24-in-july) · `en`
+
+The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis has increased to 2.4% in July 2024, compared to 1.7%% in June 2024, according to the Department of Census and Statistics.
+
+◼️
+
+[Data](articles/e7e0df54.json)
+
+---
+
+### තැපැල් ඡන්ද ඉල්ලුම් කිරීම ගැන දැනුම්දීමක්
+
+*2024-07-31 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199415) · `si`
+
+2024 ජනාධිපතිවරණයේ තැපැල් ඡන්ද ඉල්ලුම් කිරීම සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ ව්‍යාජ ප්‍රචාරවලට හසු නොවී මැතිවරණ කොමිෂන් සභාවේ නිල වෙබ් අඩවියේ තමන්ගේ ලියාපදිංචියට අදාළ තොරතුරු අනුව කටයුතු කරන ලෙසය.
+
+විවිධ අයුරින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය කරන දැන්වීම් සම්බන්ධයෙන් කොමිෂන් සභාවේ කිසිදු වගකීමක් නොමැති අතර එහි සඳහන් තොරතුරු අසත්‍ය සහ ජනතාව නොමග යවන සුළු ප්‍රචාරයන් බවද නිවේදනය කරයි.
+
+ඉදිරි ජනාධිපතිවරණයේ ඡන්ද විමසීමේ දී තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම 2024.08.05 වනදා අවසන් වෙයි.
+
+◼️
+
+[Data](articles/24545425.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල ගැන අලුත්ම ආරංචියක්
+
+*2024-07-31 16:01:41* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අලුත්ම-ආරංචියක්/11-411122) · `si`
+
+ලිට්‍රෝ ගෑස් මිල අගෝස්තු මාසය තුළ සංශෝධනය නොකිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/c6e435ec.json)
+
+---
+
+### Notification in connection with the price of Litro
 
 *2024-07-31 15:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-விலை-தொடர்பில்-அறிவிப்பு/175-341351) · `ta`
 
-ஓகஸ்ட் மாதத்திற்கான லிட்ரோ சமையல் எரிவாயு வின் விலையில் மாற்றம் இருக்காது என லிட்ரோ நிறுவனத்தின் தலைவர் முதித பீரிஸ் தெரிவித்துள்ளார்.
+Litro Cooking Gas won't raise its price in August, says Chairman Muditha Peiris. Additionally, the Ceylon Petroleum Corporation confirms no fuel price revisions after midnight on Wednesday (31).
 
-அதேவேளை நாட்டில் மாதாந்த எரிபொருள் விலை திருத்தத்தின் பிரகாரம், புதன்கிழமை  (31) நள்ளிரவு முதல் எரிபொருளின் விலைகள் திருத்தப்படாது என  இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது .
+🟩
+
+Litro Cooking Gas will not change the price of Litro cooking gas for August, Litro, Chairman of Litro said Muditha Peiris said.
+
+Meanwhile, according to the monthly fuel prices in the country, the Ceylon Petroleum Corporation said that the prices of fuel will not be revised from midnight on Wednesday (31).
 
 ◼️
 
 [Data](articles/eb3daa23.json)
+
+[Extended Data](ext_articles/eb3daa23.ext.json)
 
 ---
 
@@ -229,6 +277,20 @@ Meanwhile, during the meeting with former PC members, the President also express
 [Data](articles/e7ec672f.json)
 
 [Extended Data](ext_articles/e7ec672f.ext.json)
+
+---
+
+### පක්ෂයෙන් ගත් තීරණයත් එක්ක හිටගන්නේ එක්කෙනාද එයත් සමග දේශපාලනය කරනවා
+
+*2024-07-31 14:06:05* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයෙන්-ගත්-තීරණයත්-එක්ක-හිටගන්නේ-එක්කෙනාද-එයත්-සමග-දේශපාලනය-කරනවා/11-411120) · `si`
+
+පක්ෂයෙන් වෙනමම අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ගත් තීරණයත් සමග හිට ගන්නේ එක් අයෙක්ද ඔහු හෝ ඇය සමග දේශපාලනය කරන බව පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසීය.
+
+ඒසේම ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනපති අපේක්ෂකයා ලබන සතියේදී ප්‍රකාශ කරන බවත් ඉදිරි දින කිහිපයේදී සාකච්ඡා ගණනාවක් පැවැත්වෙනු ඇති බවත් ඔහු පැවැසිය.
+
+◼️
+
+[Data](articles/0921a7b2.json)
 
 ---
 
@@ -1478,6 +1540,24 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 
 ---
 
+### 3 தமிழக மீனவர்களுக்கு ஒரு வருட சிறை
+
+*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/3-தமிழக-மீனவர்களுக்கு-ஒரு-வருட-சிறை/71-341326) · `ta`
+
+இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
+
+இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் , பல்வேறு கால கட்டத்தில் கைதான 64 மீனவர்களின் வழக்கு விசாரணைகள் செவ்வாய்க்கிழமை (30) ஊர்காவற்துறை நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+
+அதன் போது, ஜூன் மாதம் 16ஆம் மற்றும் 22ஆம் திகதிகளில் கைதான 26 பேரில் மூவர் இரண்டாவது தடவையாக மீள கைதாகி இருந்தமையால் , அவர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டது.
+
+ஏனைய 23 பேரில் மூன்று படகுகளின் உரிமையாளர்களும் இருந்தமையால் , அவர்கள் மூவருக்கும் தலா 4 மில்லியன் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது. தண்ட பணம் செலுத்த தவறின் , 06 மாத சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும், மூன்று படகுகளையும் அரசுடமை ஆக்கப்பட்டுள்ளதாக மன்று கட்டளையிட்டது.
+
+...
+
+[Data](articles/6613686b.json)
+
+---
+
 ### One year in prison with three Tamil Nadu fishermen
 
 *2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
@@ -2185,127 +2265,5 @@ However, due to the crisis situation that prevailed in the country, the construc
 [Data](articles/da9febdd.json)
 
 [Extended Data](ext_articles/da9febdd.ext.json)
-
----
-
-### Case against 60 trade centers in Vavuniya: Consumer Affairs Authority
-
-*2024-07-31 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189852) · `ta`
-
-Consumer Affairs Authority filed 60 cases against business centers in Vavuniya from July 1-30, following raids across several locations. Issues include improper scales, unsold items, outdated goods, lack of information, and no guarantees.
-
-🟩
-
-The Consumer Affairs Authority has said that a case has been filed against 60 business centers in Vavuniya.
-
-From 1st to 30th of July, the Consumer Affairs Authority carried out a raid in various parts of Vavuniya.
-
-There are 54 cases in connection with the lack of proper scales, refusal of sale, the price of prices, the price of prices, the outdated goods, the lack of information and the lack of guarantee.
-
-During a raid carried out in areas including Vavuniya City, Kovilkulam, Vairavapuliyankulam, Kurumankadu, Pattanichur, Veppankulam and Nelukkulam, 60 cases have been registered.
-
-◼️
-
-[Data](articles/cd040cf4.json)
-
-[Extended Data](ext_articles/cd040cf4.ext.json)
-
----
-
-### Justice has been given to all the soldiers who disabled during the war -Kamal Gunaratne
-
-*2024-07-31 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189851) · `ta`
-
-Kamal Gunaratne, Retired Defense Ministry Secretary General, highlighted efforts to support war-disabled soldiers, economic and political stabilization, education improvements, anti-human and drug trafficking measures, and post-war contributions. He mentioned relief centers, pension adjustments, employment opportunities, educational facility upgrades, and international collaborations.
-
-🟩
-
-Defense Ministry Secretary General (Retired) Kamal Gunaratne said that the intervention of the Ministry of Defense has provided maximum justice through several measures, including allowances, medical rehabilitation and life -long maintenance of all the soldiers who disabled during the war.
-
-In the last two years, the Defense Ministry has taken several steps to stabilize the country economically and politically and ensure the best safe environment for the people.
-
-Defense Secretary General Kamal Gunaratne (Retired) said this while attending a press conference held at the Presidential Media Center on Tuesday (30) on the theme "Two Years Progress and Future".
-
-He said that the quality of the educational facilities of the Sir John Kothalawala Protection University has been improved and more students have been able to study and to enroll civil medical students.
-
-...
-
-[Data](articles/1e334faa.json)
-
-[Extended Data](ext_articles/1e334faa.ext.json)
-
----
-
-### 92 MPs meet President Ranil Wickremesinghe
-
-*2024-07-31 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189844) · `ta`
-
-92 MPs support President Ranil Wickremesinghe, confirming his dedication to his own victory in the upcoming election.
-
-🟩
-
-The Presidential Media Unit said that 92 MPs in the upcoming presidential election have confirmed that President Ranil Wickremesinghe has been devoted to the victory of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/9822b0d6.json)
-
-[Extended Data](ext_articles/9822b0d6.ext.json)
-
----
-
-### For the third time, Sri Lanka's middle line collapsed;India won the series in Super Over and fully acquired the series
-
-*2024-07-31 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189850) · `ta`
-
-India clinched the T20 series against Sri Lanka 3-0 after winning the final match in a Super Over, despite Sri Lanka's strong performance with the bat. Suryakumar Yadav secured the victory with a six on the first ball of the Super Over. Sri Lanka, led by Kusal Mendis and Kusal Perera, fought hard but fell short due to poor batting towards the end. Debutant Samindu Wickremasinghe impressed with his bowling, taking the first international wicket and conceding only 17 runs in his four overs.
-
-🟩
-
-India won the 3rd and last international T20 cricket match at the Pallekele International Stadium between India and Sri Lanka on Monday (30).
-
-With this victory, India fully acquired the three -match international T20 cricket series as 3 - 0.
-
-Kusal Janith Perera, Beth and Nissanka lost only 2 runs off 3 balls in the Super over the Super Over of Washington Sundar.
-
-Suryakumar Yadav hit the Super Over victory for India in the first ball of the Super Overage that Mahish Dixhana was thrown.
-
-In response to a 138 -run win for India, Sri Lanka won the match with 137 runs for the loss of 8 wickets in 20 overs.
-
-Both Beth, Nissanka and Kusal Mendis played in Sri Lanka in the field and shared 58 runs and made a good start.
-
-However, Beth and Nissank lost the game for 26 runs.
-
-Gusal Mendis and Kusal Perera continued to share 52 runs in the 2nd wicket and gave the team a little excitement.
-
-But, like the first two matches, Sri Lanka's victory has gone so far as wickets are wickets.
-
-...
-
-[Data](articles/9d020f09.json)
-
-[Extended Data](ext_articles/9d020f09.ext.json)
-
----
-
-### India doubled the infrastructure aid
-
-*2024-07-31 00:08:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்கட்டமைப்பு-உதவியை-இந்தியா-இரட்டிப்பாக்கியது/175-341319) · `ta`
-
-India increased infrastructure aid for plantation schools in Sri Lanka from 300 million to 600 million rupees post-economic crisis, as approved in a Cabinet meeting on 04.06.2019.
-
-🟩
-
-The Cabinet meeting held on 04.06.2019 has been approved to implement projects to improve the infrastructure of plantation schools with the help of 300 million rupees of the Government of India.
-
-The Government of India has agreed to increase the donation of the project to 600 million rupees due to the increase in prices caused by the economic crisis in Sri Lanka.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Education for signing the appropriate documents.R
-
-◼️
-
-[Data](articles/bd24b441.json)
-
-[Extended Data](ext_articles/bd24b441.ext.json)
 
 ---

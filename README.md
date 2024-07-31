@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 02:21:03**
+As of **2024-08-01 02:35:57**
 
 ## Newspaper Stats
 
-*Scraped **38,334** Articles*
+*Scraped **38,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,449
+dailyftlk | 2,450
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,332 (100.0%) of 38,334 articles have been extended.
+38,334 (100.0%) of 38,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### Supreme Court interim ruling only a direction given to President
+
+*2024-08-01 02:12:43* · [`dailyftlk`](https://www.ft.lk/columns/Supreme-Court-interim-ruling-only-a-direction-given-to-President/4-764992) · `en`
+
+The recent Supreme Court interim ruling has two components. On the first, that is restraining Deshabandu from “the powers, functions and responsibilities” of the office of IGP, the interim order is broad and straightforward.
+
+The second pertains to the appointment of a suitable officer to act in the office of IGP. The SC ruling states: “...His Excellency the President may, should he wish to, consider making appointment, in terms of the law, of a suitable person to act in the post of IGP for the duration of the afore-stated interim order.”
+
+Strictly speaking, this is only a direction given to the President, respecting the legal provisions under which he has the power to make acting appointment. In effect, it suggests to him that he may, if he wants to, consider making an acting appointment, in terms of the law.
+
+It has been made clear that the President is in no mood to consider this direction of the Supreme Court, to go by the special statement made by the PM in Parliament today.
+
+...
+
+[Data](articles/9369837e.json)
+
+---
 
 ### SLPP defectors, Tamil options, ‘Democracy in Debt’ and Vickramabahu’s validation
 
@@ -50,6 +68,8 @@ As PM in 2001-3, Ranil overstepped the mark and encroached on President Kumaratu
 
 [Data](articles/8c2e685c.json)
 
+[Extended Data](ext_articles/8c2e685c.ext.json)
+
 ---
 
 ### 25 years after assassination: Dr. Neelan Tiruchelvam’s enduring legacy in human rights and constitutional reform
@@ -63,6 +83,8 @@ The Sri Lankan civil war ended with a brutal and decisive Government victory in 
 ...
 
 [Data](articles/8a18b7bf.json)
+
+[Extended Data](ext_articles/8a18b7bf.ext.json)
 
 ---
 
@@ -2247,29 +2269,5 @@ The Manuga province's court has ordered the dog's owner to be a fine of $ 1,222,
 [Data](articles/3c337356.json)
 
 [Extended Data](ext_articles/3c337356.ext.json)
-
----
-
-### If our children who were handed over to the military are the death certificates, who is the one who murdered?- Relationships of the missing in Mullaitivu
-
-*2024-07-31 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189892) · `ta`
-
-Relatives of missing persons from Mullaitivu protested, accusing the military of hiding murders by using children as "death certificates." This ongoing struggle dates back to March 8, 2017, with notable figures like Durairasa Ravikaran attending the demonstration.
-
-🟩
-
-Relatives of the Mullaitivu District Disappeared staged a protest in front of the Mullaitivu District Secretariat on Wednesday morning.
-
-The relations of the missing persons have been engaged in a continuous struggle in the Mullaitivu district since March 8, 2017.
-
-To hide the story of the murder, our children who were entrusted with the military were the answer to the death certificate to the military?
-
-Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
-
-◼️
-
-[Data](articles/e75fd7df.json)
-
-[Extended Data](ext_articles/e75fd7df.ext.json)
 
 ---

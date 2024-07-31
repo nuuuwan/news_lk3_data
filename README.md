@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 21:20:45**
+As of **2024-07-31 21:35:58**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,304 (100.0%) of 38,307 articles have been extended.
+38,307 (100.0%) of 38,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ඉන්ධන මිල වෙනස් නොවෙයි
+### Fuel prices do not change
 
 *2024-07-31 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199424) · `si`
 
-මාසිකව සිදුකරන ඉන්ධන මිල සංශෝධනය යටතේ මෙවර මිල වෙනසක් සිදු නොවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව දැනුම්දෙයි.
+Ceylon Petroleum Corporation was informed that fuel prices will remain unchanged this year during the monthly fuel revision process.
+
+🟩
+
+The Ceylon Petroleum Corporation is notified that this year under the monthly fuel revision.
 
 ◼️
 
 [Data](articles/eccd13d8.json)
+
+[Extended Data](ext_articles/eccd13d8.ext.json)
 
 ---
 
@@ -74,37 +80,53 @@ The attacker has lodged a complaint with the Katupotha police and he has assault
 
 ---
 
-### வீழ்ந்த நாட்டை இரண்டு வருடத்தில் மீட்பது அதிசயம்! - திலும் அமுனுகம
+### It is a miracle that the fallen country is recovered in two years!-Tilum Amunugama
 
 *2024-07-31 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189945) · `ta`
 
-கடுமையான பொருளாதாரச் சரிவைச் சந்தித்த நாட்டை இரண்டு ஆண்டுகள் என்ற குறுகிய காலத்தில் ஸ்திரமான நிலைக்குக் கொண்டு வந்தது அதிசயமாகும். உலகில் இவ்வாறான பொருளாதார வீழ்ச்சியைச் சந்தித்த எந்தவொரு நாடும் இவ்வளவு குறுகிய காலத்தில் ஸ்திரத்தன்மையை அடையவில்லை என முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம தெரிவித்தார்.
+In just two years, a previously struggling nation has remarkably regained stability, thanks to the leadership of Minister Tilum Amunugama and President Ranil Wickremesinghe. Their efforts have attracted significant investment, with targets met and exceeded, despite initial concerns over elections potentially slowing growth. The government is also focusing on simplifying investment processes and enhancing export capabilities, all while addressing critical infrastructure needs like water and power. This recovery stands out globally, especially when compared to other nations facing similar challenges.
 
-அறிவு, அனுபவம் மற்றும் உலகளாவிய தொடர்புகளின் அடிப்படையில் வீழ்ந்த நாட்டை மீட்கக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க என்பது தற்போது உறுதிப்படுத்தப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-எனவே அடுத்த ஐந்து வருடங்களுக்கு அந்தத் தலைமையை தெரிவு செய்வது சரியான மற்றும் நியாயமான முடிவாகும் என இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+It is a miracle that the country that suffered a severe economic downturn has been stabilized in a short time of two years. The Minister of Investment Development Tilum Amunugama said that any country that has suffered such an economic downturn in the world has not achieved stability in the short term.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (31) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் திலும் அமுனுகம இதனைத் தெரிவித்தார்.
+He pointed out that President Ranil Wickremesinghe is now confirmed that the only leader who can restore the country that has fallen based on knowledge, experience and global contacts.
+
+The Minister of State has stated that it is the right and reasonable decision to choose the leadership for the next five years.
+
+Minister of State for Minister of State for Media Center at a media briefing held on Wednesday (31).
+
+The investment target given to the Investment Board and the Ministry of Investment Promotion this year is $ 1 billion. $ 800 million has come to the country so far. But we hope that by the end of this year, we can go to the target of two billion.
 
 ...
 
 [Data](articles/818b49b0.json)
 
+[Extended Data](ext_articles/818b49b0.ext.json)
+
 ---
 
-### உலகளாவிய போட்டித்தன்மை கொண்ட தேசிய தொழில்துறை தளத்தை உருவாக்குவதற்கான தேசிய தொழில்துறை கொள்கை தயாரிக்கப்பட்டுள்ளது - சாந்த வீரசிங்க
+### National Industrial Policy has been prepared for creating a global competitive national industrial base - Shantha Weerasinghe
 
 *2024-07-31 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189944) · `ta`
 
-உலகளாவிய போட்டித்தன்மைகொண்ட தேசிய அடிப்படையை இந்நாட்டில் உருவாக்கும் வகையில் 2023-2027 காலப்பகுதிக்கான ஐந்தாண்டு மூலோபாய திட்டத்துடன் கூடிய "தேசிய கைத்தொழில் கொள்கை" தயாரிக்கப்பட்டு, தேசிய திட்டமிடல் திணைக்களத்திடம் சமர்ப்பிக்கப்பட்டுள்ளதாக கைத்தொழில் அமைச்சின் செயலாளர் சாந்த வீரசிங்க தெரிவித்தார்.
+The National Industrial Policy aims to boost Sri Lanka's industrial sector, targeting a 20% contribution to the national production by 2030, up from 16%. This includes increasing the industry's share from 2.8% to 7% and enhancing industrial exports' GDP contribution from 14% to 20%. The policy, supported by a five-year strategy (2023-2027), focuses on creating a globally competitive industrial base. It also introduces regulations and financial schemes to support micro, small, and medium enterprises, totaling 293.4 million rupees in loans for 2022 and 2023. The initiative has led to the revival of factories, increased mineral resource optimization, and enhanced gemstone exports, contributing significantly to the national economy.
 
-இதன் மூலம், 2030 ஆம் ஆண்டளவில், மொத்த தேசிய உற்பத்தியில் உற்பத்தித் துறையின் பங்களிப்பை 16% லிருந்து 20% ஆக உயர்த்துதல், தொழிற்படைக்கு தொழில்முயற்சியாளர் பங்களிப்பை 2.8% லிருந்து 7% ஆக உயர்த்துதல், மொத்த தேசிய உற்பத்தியில் தொழில்துறை ஏற்றுமதியின் பங்களிப்பை 14% இல் இருந்து 20% ஆக உயர்த்துவதையும் இலக்காகக் கொண்டுள்ளதாக அவர் குறிப்பிட்டார்.
+🟩
 
-''இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்'' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் இன்று (31) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே  கைத்தொழில் அமைச்சின் செயலாளர் சாந்த வீரசிங்க இதனைக் குறிப்பிட்டார்.
+Secretary to the Ministry of Industry and the Ministry of Industry of the Ministry of Industry has said that the "National Industrial Policy" with the Five Year Strategy for 2023-2027 has been prepared and submitted to the Department of National Planning.
+
+With this, by 2030, he said, increasing the contribution of the total national production sector from 16% to 20%, increasing the contribution of the industry from 2.8 to 7%, and increasing the contribution of industrial exports into the GDP from 14% to 20%..
+
+The Secretary to the Ministry of Industry, Shantha Weerasinghe, addressing a press conference held at the Presidential Media Center today (31) under the theme "Two Years Progress and Future".
+
+He added that the final draft of the Industrial Promotion Act has been submitted to the approval of the Attorney General's Department.
 
 ...
 
 [Data](articles/39543b8d.json)
+
+[Extended Data](ext_articles/39543b8d.ext.json)
 
 ---
 

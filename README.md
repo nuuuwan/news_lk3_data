@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 17:20:50**
+As of **2024-08-01 17:36:35**
 
 ## Newspaper Stats
 
-*Scraped **38,480** Articles*
+*Scraped **38,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,325
 dailyftlk | 2,461
-adalk | 3,532
+adalk | 3,533
 adaderanalk | 4,446
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
-adaderanasinhalalk | 6,482
+adaderanasinhalalk | 6,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,477 (100.0%) of 38,480 articles have been extended.
+38,480 (100.0%) of 38,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ලාෆ්ස් ගෑස් මිල ගැන තීරණය කියයි
+
+*2024-08-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199456) · `si`
+
+අගෝස්තු මාසය සඳහා ලාෆ්ස් ගෑස් (ගෘහස්ථ) මිල ද සංශෝධනය නොකෙරෙන බව ලාෆ්ස් ගෑස් සමාගම පවසයි.
+
+◼️
+
+[Data](articles/4728455d.json)
+
+---
 
 ### Laugfs Gas prices to also remain unchanged
 
@@ -45,6 +57,8 @@ Meanwhile, it was announced that the fuel prices will also remain unchanged for 
 ◼️
 
 [Data](articles/cc09a465.json)
+
+[Extended Data](ext_articles/cc09a465.ext.json)
 
 ---
 
@@ -92,6 +106,18 @@ The Indian External Affairs Ministry has said that the Indian High Commissioner 
 
 ---
 
+### පාසල් සිසුන්ට අද සිට වසර තුනක් දක්වා ලැබෙන විශේෂ වරප්‍රසාදය
+
+*2024-08-01 16:34:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-අද-සිට-වසර-තුනක්-දක්වා-ලැබෙන-විශේෂ-වරප්‍රසාදය/11-411148) · `si`
+
+අද දින සිට වසර තුනක කාලයක් සඳහා සුරක්ෂා සිසු රක්ෂණය රජයේ සියලුම පාසල්, රජයේ අනුමත සියලු ම පෞද්ගලික පාසල්වලත්, පිරිවෙන් සහ උපකෘත විශේෂිත පාසල්වලත් අධ්‍යාපනය ලබන සිසු සිසුවියන් වෙනුවෙන් ලබා දෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය. අමාත්‍යවරයා මෙම අදහස් පළ කළේ අධ්‍යාපන අමාත්‍යාංශය සහ ශ්‍රී ලංකා රක්ෂණ සංස්ථාව අතර එම රක්ෂණාවරණය ක්‍රියාත්මක කිරීමට අදාළ ගිවිසුමට අත්සන් තැබීමේ අවස්ථාවට එක් වෙමිනි. අධ්‍යාපන අමාත්‍යාංශය වෙනුවෙන් අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිය ගිවිසුමට අත්සන් තැබූ අතර ශ්‍රී ලංකා රක්ෂණ සංස්ථාව වෙනුවෙන් එහි ප්‍රධාන මෙහෙයුම් නිලධාරි ප්‍රියන්ත පෙරේරා මහතා අත්සන් තැබී ය.
+
+...
+
+[Data](articles/fad5ddd7.json)
+
+---
+
 ### Police acting in police station
 
 *2024-08-01 16:31:14* · [`adalk`](https://www.ada.lk/breaking_news/පතිනායකට-පොලීසියේ-වැඩ-බලන-තනතුරක්/11-411147) · `si`
@@ -127,6 +153,8 @@ There were two crossings in the day: Teejay Lanka Plc, which saw foreign interes
 ...
 
 [Data](articles/6b3c82b0.json)
+
+[Extended Data](ext_articles/6b3c82b0.ext.json)
 
 ---
 
@@ -309,6 +337,8 @@ To qualify for AEO status, operators must meet the eligibility criteria set by S
 ...
 
 [Data](articles/22ea35e1.json)
+
+[Extended Data](ext_articles/22ea35e1.ext.json)
 
 ---
 
@@ -2259,53 +2289,5 @@ Exchange rate stability has also boosted profits of the Ceylon Electricity Board
 [Data](articles/d091119c.json)
 
 [Extended Data](ext_articles/d091119c.ext.json)
-
----
-
-### Shots heard from Polonnaruwa
-
-*2024-08-01 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199434) · `si`
-
-In Polonnaruwa, a 46-year-old man was shot and hospitalized. The incident is under investigation by the local police. The victim's wife mentioned he was stressed and had attempted suicide after the shooting.
-
-🟩
-
-A man was hospitalized by a shooting in the area of ​​Polonnaruwa police division.
-
-The Polonnaruwa Police are conducting further information that the person was hospitalized.
-
-The injured were a 46-year-old resident of Polonnaruwa.
-
-The wife has made a statement that the firearr has been implemented in carrying out the 12-bore walls of the firearms with the casual monkeys.
-
-The injured has been revealed that the casualty was stressful due to stress due to the shooting and had attempted to commit suicide.
-
-◼️
-
-[Data](articles/3fcbdc07.json)
-
-[Extended Data](ext_articles/3fcbdc07.ext.json)
-
----
-
-### In response, the use of constitutional authority to appoint a police chief does not violate election rules - senior lawyers point out
-
-*2024-08-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189955) · `ta`
-
-Senior lawyers argue that the President's power to appoint the Inspector General of Police, as per the Constitution, doesn't breach election rules. Amidst controversy over the appointment process, especially concerning the interim High Court judge serving as the Police Chief, President Ranil Wickremesinghe clarified his stance. The Elections Commission can request police services from either the Inspector General or the Senior Deputy Inspector General during the election period, raising questions about the President's involvement. Despite this, Aamir Fais, an Election Commissioner, assures that the President's constitutional duty to appoint the Inspector General does not contravene election laws. Legal experts like Gautaman and former President of the Sri Lanka Lawyers Association, Saliya Peiris, support this view, emphasizing the constitutionality of the President's action.
-
-🟩
-
-Senior lawyers pointed out that the president has the power to appoint the Inspector General of Police in response to the Constitution and that the appointment is not a violation of the election rules.
-
-In the wake of the Elections Commission announced that the presidential election will be held on September 21, the President, Prime Minister and the Speaker have made controversy, focusing on the interim sector of the High Court to serve as the Tennakoon Police Principal.
-
-In particular, President Ranil Wickremesinghe has stated that he will withdraw from appointing the Inspector General of Police as the President has asked the President to appoint a police chief.. At the same time, under Article 106 of the Constitution, the Elections Commission can obtain the services of the police from the Inspector General of Police, but also through the Senior Deputy Inspector General of Police, how can the President get services during the election period?He has questioned.
-
-...
-
-[Data](articles/655a3361.json)
-
-[Extended Data](ext_articles/655a3361.ext.json)
 
 ---

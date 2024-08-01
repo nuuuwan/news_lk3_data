@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 16:54:18**
+As of **2024-08-01 17:05:39**
 
 ## Newspaper Stats
 
-*Scraped **38,473** Articles*
+*Scraped **38,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,530
+adalk | 3,532
 adaderanalk | 4,445
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
-adaderanasinhalalk | 6,480
+adaderanasinhalalk | 6,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,472 (100.0%) of 38,473 articles have been extended.
+38,473 (100.0%) of 38,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### පොලීසියේ පරිපාලන රාජකාරී ලලිත් පතිනායකට පැවරෙයි
+
+*2024-08-01 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199455) · `si`
+
+ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති පරිපාලන රාජකාරී ආවරණය කිරීම සඳහා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා පත්කර තිබේ.
+
+◼️
+
+[Data](articles/8a919e7d.json)
+
+---
+
+### ඉන්දීය රජයෙන් ශ්‍රී ලංකා රජයට විරෝධයක්
+
+*2024-08-01 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199454) · `si`
+
+මෙරට මුහුදු සීමාවේ දී ඉන්දීය ධීවර යාත්‍රාවක් අනතුරට ලක්වීමෙන් එක් අයෙකු මියගොස් තවත් අයෙකු අතුරුදන්වීමේ සිද්ධිය සම්බන්ධයෙන් ඉන්දීය රජය ශ්‍රී ලංකා රජය වෙත විරෝධය පළ කර ඇත.
+
+ඉන්දියාවේ වැඩබලන ශ්‍රී ලංකා මහකොමසාරිස්වරයා එරට විදේශ කටයුතු අමාත්‍යාංශය වෙත කැඳවා මේ සම්බන්ධයෙන් විරෝධය පළ කර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+කෙසේ වෙතත් මේ සම්බන්ධයෙන් දැඩි විරෝධය පළ කරමින් නිවේදනයක් නිකුත් කර ඇති ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය පවසනුයේ මෙම ධීවර ගැටළුව සම්බන්ධයෙන් මානුෂීය ආකාරයෙන් කටයුතු කිරීමේ අවශ්‍යතාව ඉන්දීය රජය සෑම අවස්ථාවක දීම අවධාරණය කර ඇති බවය.
+
+ඉන්දීය ධීවරයින්ගේ ආරක්ෂාව සම්බන්ධයෙන් ඉන්දීය රජය ඉහළම ප්‍රමුඛතාවක් ලබාදෙන අතර රටවල් දෙකම මෙම ගැටළුව සම්බන්ධයෙන් අවබෝධයෙන් කටයුතු කර මෙවැනි සිදුවීම් යළි ඇති නොවීම සඳහා අවශ්‍ය පියවර ගත යුතු බවත් ඔවුන් පෙන්වාදී ඇත.
+
+උද්ගත වූ තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස්වරයා ශ්‍රී ලංකා රජයේ නියෝජිතයින් හමුවී සාකච්ඡා කිරීමට නියමිත බවත් ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/ed1dffe6.json)
+
+---
+
+### පතිනායකට පොලීසියේ වැඩ බලන තනතුරක්
+
+*2024-08-01 16:31:14* · [`adalk`](https://www.ada.lk/breaking_news/පතිනායකට-පොලීසියේ-වැඩ-බලන-තනතුරක්/11-411147) · `si`
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) තනතුරේ වැඩ බැලීම සඳහා පත් කර තිබේ.
+
+◼️
+
+[Data](articles/c95aaec4.json)
+
+---
 
 ### New SDIG appointed to cover administration duties
 
@@ -38,9 +82,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The National Police Commission has appointed Senior Deputy Inspector General of Police (SDIG) Lalith Pathinayake to cover the duties of Senior DIG Administration.
 
+This appointment comes as Senior DIG Nilantha Jayawardena has been sent on compulsory leave with immediate effect, until such time that the disciplinary investigation against him pertaining to the Easter Sunday terror attacks is concluded, the National Police Commission said.
+
 ◼️
 
 [Data](articles/a5db5a3a.json)
+
+[Extended Data](ext_articles/a5db5a3a.ext.json)
 
 ---
 
@@ -119,6 +167,18 @@ The murder had been carried out on a private dispute between the suspect and the
 [Data](articles/a018870b.json)
 
 [Extended Data](ext_articles/a018870b.ext.json)
+
+---
+
+### සජබ පොහොට්ටුව සමග සාකච්ඡා කළාද?
+
+*2024-08-01 15:43:20* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-පොහොට්ටුව-සමග-සාකච්ඡා-කළාද-/11-411146) · `si`
+
+සමගි ජන බලවේගයේ අපි කවුරුවත් පොහොට්ටුව සමග හෝ පොහොට්ටුවේ නායකයෝ සමග කිසිම ආකාරයක දේශපාලන සාකච්ඡාවක් නෑ. අපි තවමත් හිතන්නේ රට බංකොලොත් කළ කණ්ඩායම කියලා. මොකද ඔවුන් තමයි රට මේ තත්ත්වයට ඇදළා දාලා තියෙන්නේ. අපේ ඒකායන අරමුණ තමයි වගකීමක් තියෙන, වගවීමක් තිබෙන ජනාධිපතිවරයෙක් පත් කිරීම.
+
+◼️
+
+[Data](articles/b25cd175.json)
 
 ---
 
@@ -2233,97 +2293,5 @@ The suspect has been sent to the Borella Police Station for further legal procee
 [Data](articles/de5b7076.json)
 
 [Extended Data](ext_articles/de5b7076.ext.json)
-
----
-
-### A notification from the Railway Department
-
-*2024-08-01 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199431) · `si`
-
-The Railway Department received no updates to its network system today.
-
-🟩
-
-The network system will not be amended today (01) to the Railway Department.
-
-◼️
-
-[Data](articles/bce6242c.json)
-
-[Extended Data](ext_articles/bce6242c.ext.json)
-
----
-
-### Health Sector reveals about foods healing disease
-
-*2024-08-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199430) · `si`
-
-The Ministry of Health warns against false claims that certain foods can cure diseases. Dr. Ananda Jayalal emphasizes that while food provides nutrition, it's not a substitute for medical treatment. He cautions against misleading advertisements, particularly on social media, suggesting specific foods can heal illnesses like cancer without proper clinical evidence.
-
-🟩
-
-The Ministry of Health requests the public not to be deceived by food that some disease can be cured.
-
-Dr. Ananda Jayalal, Deputy Director General of the Ministry of Health, said that the names of certain institutions said that the names of certain institutions were used.
-
-Speaking at a media brief in the Health Promotion Bureau, Dr. Ananda Jayalal made this observation.
-
-"Usually a meal is mainly intended to withstand disease, nutrition and disease. We calls drugs that heal diseases. Food cannot treat sickness. If anyone can heal any disease, you must really have permission from the main food authority. We see the names of various institutions, especially social media, especially the food is good for cancer. That propaganda often is wrong. A meal cannot be advertised that you can often heal a disease. If so, formal clinical data should be submitted to the Ministry of Health Ministry authority. It is illegal to do that. "
-
-◼️
-
-[Data](articles/41427cf9.json)
-
-[Extended Data](ext_articles/41427cf9.ext.json)
-
----
-
-### IMF representatives meet President today
-
-*2024-08-01 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199429) · `si`
-
-IMF representatives will meet President Ranil Wickremesinghe today to discuss the fourth tranche of financial aid crucial for maintaining Sri Lanka's economic stability. State Minister Shehan Semasinghe highlighted the importance of receiving this installment promptly to prevent significant impacts on the nation's stability. The meeting comes after Opposition Leader Sajith Premadasa also met with IMF officials yesterday, discussing potential loans and implications for the upcoming presidential election.
-
-🟩
-
-Representatives of the International Monetary Fund (IMF representatives) are due to meet President Ranil Wickremesinghe today (01).
-
-State Minister Shehan Semasinghe said that these discussions are to be held this morning.
-
-Hehan Semasinghe said that the International Monetary Fund's fourth premium is to be taken to pay attention to the fourth premium.
-
-"We expect, 4th installment. Continue the economic stability of the country without any kind of separation of the program without any delay. Because if the 4th premium in the third review is slow, the stability of Sri Lanka has a major impact. The President has prepared a special program to avoid that effect. In the future, how can you safeguard the program to protect the program and negotiate the program. "
-
-Meanwhile, Opposition Leader Sajith Premadasa has met with the International Monetary Fund representatives to the island yesterday (31).
-
-...
-
-[Data](articles/c4277b27.json)
-
-[Extended Data](ext_articles/c4277b27.ext.json)
-
----
-
-### Sri Lanka fuel prices unchanged in Aug
-
-*2024-08-01 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-fuel-prices-unchanged-in-aug-174765/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s retail fuel prices are left unchanged in August 2024, state-run Ceylon Petroleum Corporation said.
-
-The CPC was expected to announce it monthly formula based fuel price effective from midnight on July 32.
-
-The CPC last cut the petrol price by 11 rupees to 344 rupees a litre and 95 Octane 41 rupees to 379 rupees.
-
-Related Sri Lanka cuts petrol price by Rs11, premiums fuels more
-
-Super Diesel (Euro 4) is now at 355 rupees and Standard diesel is at 317 a litre
-
-Kerosene, an expensive fuel similar to Jet fuel is at 202 rupees a litre. (Colombo/Aug01/2024)
-
-◼️
-
-[Data](articles/1bed5747.json)
-
-[Extended Data](ext_articles/1bed5747.ext.json)
 
 ---

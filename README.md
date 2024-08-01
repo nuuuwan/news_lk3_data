@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 11:37:10**
+As of **2024-08-01 11:56:01**
 
 ## Newspaper Stats
 
-*Scraped **38,410** Articles*
+*Scraped **38,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,318
 dailyftlk | 2,461
-adalk | 3,519
+adalk | 3,521
 adaderanalk | 4,438
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,771
 virakesarilk | 6,071
-adaderanasinhalalk | 6,467
+adaderanasinhalalk | 6,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,410 (100.0%) of 38,410 articles have been extended.
+38,410 (100.0%) of 38,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ඉන්ධන තොග ගැන ඇමති කංචනගෙන් ප්‍රකාශයක්
+
+*2024-08-01 11:26:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-තොග-ගැන-ඇමති-කංචනගෙන්-ප්‍රකාශයක්/11-411140) · `si`
+
+අතිරික්ත ඉන්ධන තොග පවතින බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+Reviewed the fuel cargo plan for the next 6 months, stock availability, storage capacity, distribution plan, placement of orders and refinery operations with the CPC management yesterday.
+
+The CPC maintains a buffer stock of all products and will continue an uninterrupted supply… pic.twitter.com/zP6ukFLL9A
+
+◼️
+
+[Data](articles/675e9538.json)
+
+---
 
 ### Diana Gamage pleads not guilty to immigration laws violation charges
 
@@ -49,6 +65,24 @@ The CID had filed these charge sheets against Diana Gamage under the charges inc
 [Data](articles/3d8f3620.json)
 
 [Extended Data](ext_articles/3d8f3620.ext.json)
+
+---
+
+### ඉන්දියාව වෙනුවෙන් ක්‍රීඩාකළ සුපිරි පිතිකරුවෙක් දිවියට සමුදෙයි
+
+*2024-08-01 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199441) · `si`
+
+1975 සිට 1987 දක්වා ඉන්දීය ක්‍රිකට් කණ්ඩායම නියෝජනය කළ දක්ෂ පිතිකරුවෙක් වන අන්ෂූමන් ගයික්වාඩ් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඔහු කලක් ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙසද කටයුතු කළේය.
+
+රුධිර පිළිකාවෙන් පීඩා විඳි ගයික්වාඩ් බරෝඩා හි රෝහලකදී ජීවිතක්ෂය පත්වී තිබුණි.
+
+ඔහු ඉන්දියාව වෙනුවෙන් ටෙස්ට් තරග 40කට සහ එක්දින ජාත්‍යන්තර තරග 15කට ක්‍රීඩා කළේය.
+
+◼️
+
+[Data](articles/e6ec1e02.json)
 
 ---
 
@@ -154,6 +188,18 @@ A letter of appointment of UT Santana Jayalal was sent to several officials, inc
 
 ---
 
+### විජයදාස ඇප තියයි
+
+*2024-08-01 10:31:20* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාස-ඇප-තියයි/11-411139) · `si`
+
+ජාතික ප්‍රජාතන්ත්‍රවාදි පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා ඇප තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/caae6588.json)
+
+---
+
 ### Vijayadasa Rajapaksa pays control!
 
 *2024-08-01 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189966) · `ta`
@@ -218,7 +264,15 @@ Investigations by the police revealed that the jewelery was robbed to convert th
 
 The main suspect in the killing of ‘Club Wasantha’ at Athurugiriya, Sujeewa Ruwankumara alias ‘Loku Patty’ has been arrested in Belarus, according to police sources.
 
-◼️
+He has reportedly been arrested by security service personnel in Belarus, the source said.
+
+Several accomplices of ‘Loku Patty’, who is said to be an organized criminal and a large-scale drug trafficker, were arrested on multiple occasions over attempts to commit murders and for possession of large consignments of drugs.
+
+He is also the main suspect of the recent shooting and killing of ‘Club Wasantha’ at Athurugiriya on July 08, and is suspected to have orchestrated and funded the assassination.
+
+The shocking shooting incident had occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on July 08 morning.
+
+...
 
 [Data](articles/f1b62078.json)
 
@@ -2143,67 +2197,5 @@ Meanwhile, 92 Members of Parliament including Ministers and State Ministers rece
 [Data](articles/be91b875.json)
 
 [Extended Data](ext_articles/be91b875.ext.json)
-
----
-
-### In 2023, parliamentary food costs Rs. Crores. Exceeds 23
-
-*2024-07-31 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-පාර්ලිමේන්තුවේ-ආහාර-වියදම-රු--කෝටි--23-ඉක්මවයි/11-411129) · `si`
-
-In 2023, parliamentary food expenses exceeded Rs. Crores 23, as per a performance report. The audit revealed that funds were used for water bottles and sauces for all staff and MPs, aligning with procurement guidelines set for January 1, 2023. It was found that 91% of MPs and 37,192 staff members benefited from this expenditure.
-
-🟩
-
-Performance Report for the purpose of Rs.Revealed by a report issued.
-
-All staff and MPs were spent on drinking water bottles and sauces for all staff and MPs. According to the procurement guidelines, the parliamentary band has been purchased and purchased the items in January, January 1, 2023.
-
-The Audit report also facilitates that 91% of the MPs and MPs in Parliament have been facilitated by the Department of Parliament and 37,192 staff members in the 2023.
-
-◼️
-
-[Data](articles/03158851.json)
-
-[Extended Data](ext_articles/03158851.ext.json)
-
----
-
-### Freedom Party and Ranil support
-
-*2024-07-31 19:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-கட்சியும்-ரணிலுக்கு-ஆதரவு/175-341361) · `ta`
-
-The SLFP Central Executive Committee recently stated its support for President Ranil Wickremesinghe, indicating his cooperation for victory in the upcoming presidential election.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) Central Executive Committee has announced a short time ago that President Ranil Wickremesinghe will cooperate with the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-◼️
-
-[Data](articles/0e520897.json)
-
-[Extended Data](ext_articles/0e520897.ext.json)
-
----
-
-### SLFP support to Ranil
-
-*2024-07-31 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199421) · `si`
-
-The Sri Lanka Freedom Party (SLFP) has announced its support for President Ranil Wickremesinghe in the 2024 presidential election, following a meeting of the SLFP Political Federation and Central Committee. Duminda Dissanayake confirmed the decision, noting Wickremesinghe had sought their backing.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) says President Ranil Wickremesinghe has decided to support President Ranil Wickremesinghe in the 2024 presidential election.
-
-The SLFP Political Federation and Central Committee met with a final decision this afternoon.
-
-Duminda Dissanayake added: "The present President Ranil Wickremesinghe has requested the support of our support.".
-
-◼️
-
-[Data](articles/328c3ced.json)
-
-[Extended Data](ext_articles/328c3ced.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 19:36:05**
+As of **2024-08-01 19:54:33**
 
 ## Newspaper Stats
 
-*Scraped **38,503** Articles*
+*Scraped **38,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,536
-adaderanalk | 4,451
+adaderanalk | 4,452
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
-virakesarilk | 6,092
+virakesarilk | 6,094
 adaderanasinhalalk | 6,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,503 (100.0%) of 38,503 articles have been extended.
+38,503 (100.0%) of 38,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ‘Sri Lanka’s agreement will be revised under a future mandate’ – Sajith tells IMF team
+
+*2024-08-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100925/sri-lankas-agreement-will-be-revised-under-a-future-mandate-sajith-tells-imf-team) · `en`
+
+Leader of the Opposition Sajith Premadasa states that he informed the International Monetary Fund (IMF) representatives that Sri Lanka’s agreement with the global lender would be revised under a future mandate.
+
+The Opposition Leader made this statement during a meeting with the executive committee of the Government Medical Officers’ Association (GMOA).
+
+The newly-elected executive committee of the GMOA met with Sajith Premadasa today at the Opposition Leader’s Office.
+
+A delegation of the International Monetary Fund (IMF) headed by Senior Mission Chief for Sri Lanka Peter Breuer arrived in the island recently to hold discussions with regard to the progress Sri Lanka has achieved under the Extended Fund Facility (EFF) programme which was approved to the island nation in March last year.
+
+The visiting IMF staff mission also held discussions with Opposition Leader Sajith Premadasa on Wednesday (July 31).
+
+◼️
+
+[Data](articles/fc7df357.json)
+
+---
+
+### அரசியல் பிரவேசத்தை அறிவித்த எமில்காந்தன் ஜனாதிபதி ரணிலுக்கு ஆதரவளிப்பதாக தெரிவிப்பு - தமிழ்ப்பொதுவேட்பாளர் குறித்தும் எச்சரிக்கை
+
+*2024-08-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190043) · `ta`
+
+தமிழ் மக்களுக்கு காத்திரமான கட்டமைப்பை அமைப்பதற்காக முழுநேர அரசியலில் பிரவேசிப்பதாக அறிவித்துள்ள வர்த்தகரான எமில் காந்தன் ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவை ஆதரித்துச் செயற்படப்போவதாகவும் தெரிவித்தார்.
+
+அத்துடன், தமிழ் தேசியத்தின் பெயரில் தமிழ் பொதுவேட்பாளர் நிறுத்தப்படுவதானது தமிழ் மக்களை மேலும் தோல்வியான நிலைமைக்குள்ளேயே கொண்டு செல்லும் என்றும் அவர் எச்சரிக்கை விடுத்துள்ளார்.
+
+வவுனியாவில் வியாழக்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+உள்ளுராட்சி மன்றங்களுக்கான தேர்தல் அறிவிக்கப்பட்ட நிலையில் அதில் போட்டியிடுவதற்கு எனது தலைமையிலான அணியினர் தயராகி வேட்புமனுக்களை தாக்கச் செய்திருந்தோம்.
+
+அத்தகைய பின்னணியில் தற்போது நான் முழுநேர அரசியல் செயற்பாட்டில் பிரவேசிப்பதற்கு தீர்மானித்துள்ளேன். இதற்கு காரணங்கள் உள்ளன.
+
+தமிழ் மக்கள் பாரம்பரிய அரசியல் கட்சிளையும், விடுதலை அமைப்புக்களையும் ஆதரித்துவந்தமை தான் வரலாறாக இருக்கின்ற நிலையில், அந்தக்கட்சிகளும், அமைப்புக்களும் எவ்வாறு செயற்படுகின்றன என்று தடுமாறிக்கொண்டிருகின்றனர்.
+
+...
+
+[Data](articles/ec28cad7.json)
+
+---
+
+### பிரதமர் தினேஷ் குணவர்தன தலைமையிலான மக்கள் ஐக்கிய முன்னணி ஜனாதிபதி ரணிலுக்கு ஆதரவு
+
+*2024-08-01 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190042) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க பிரதமர் தினேஷ் குணவர்தன தலைமையிலான மக்கள் ஐக்கிய முன்னணி தீர்மானித்துள்ளது.
+
+கட்சியின் மத்திய குழு 01ஆம் திகதி வியாழக்கிழமை பிற்பகல் கூடிய போது இந்த தீர்மானம் ஏகமனதாக எட்டப்பட்டதாக பிரதமர் தினேஷ் குணவர்தன மேலும் தெரிவித்தார்.
+
+மக்கள் ஐக்கிய முன்னணி மத்திய செயற்குழு கூட்டத்தின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/830e018e.json)
+
+---
 
 ### Ten candidates place deposits for 2024 Presidential Election thus far
 
@@ -2199,65 +2257,5 @@ The shocking shooting incident had occurred during the opening ceremony of a tat
 [Data](articles/f1b62078.json)
 
 [Extended Data](ext_articles/f1b62078.ext.json)
-
----
-
-### Big Patti Box
-
-*2024-08-01 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199439) · `si`
-
-Sujeewa Ruwan Kumara, known as Bigta, was arrested by the main suspect in the Club Wasantha murder case, according to official confirmation from a Sri Lankan security personnel.
-
-🟩
-
-It is reported that Sujeewa Ruwan Kumara, or Bigta, has been arrested by the main suspect in Club Wasantha murder.
-
-In an inquiry, a security personnel in Sri Lanka officially confirmed this.
-
-◼️
-
-[Data](articles/322a8d38.json)
-
-[Extended Data](ext_articles/322a8d38.ext.json)
-
----
-
-### Vijayadasa Rajapaksa paid control
-
-*2024-08-01 10:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-விஜயதாஸ-ராஜபக்ஸ/175-341388) · `ta`
-
-Vijayadasa Rajapaksa, representing the National Democratic Front, has backed seven candidates for the upcoming presidential election.
-
-🟩
-
-Vijayadasa Rajapakse today (01) on behalf of the National Democratic Front.
-
-It is worth noting that 7 candidates have been controlled so far to contest the presidential election. Remble
-
-◼️
-
-[Data](articles/d5b1b2d8.json)
-
-[Extended Data](ext_articles/d5b1b2d8.ext.json)
-
----
-
-### Vijayadasa paid control
-
-*2024-08-01 10:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-விஜயதாஸ/175-341388) · `ta`
-
-Vijayadasa Rajapakse, representing the National Democratic Front, announced today that 7 candidates will contest the upcoming presidential election under his party's control.
-
-🟩
-
-Vijayadasa Rajapakse today (01) on behalf of the National Democratic Front.
-
-It is worth noting that 7 candidates have been controlled so far to contest the presidential election. Remble
-
-◼️
-
-[Data](articles/ed4731e9.json)
-
-[Extended Data](ext_articles/ed4731e9.ext.json)
 
 ---

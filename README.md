@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 19:54:33**
+As of **2024-08-01 20:06:47**
 
 ## Newspaper Stats
 
-*Scraped **38,506** Articles*
+*Scraped **38,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,536
+adalk | 3,537
 adaderanalk | 4,452
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,503 (100.0%) of 38,506 articles have been extended.
+38,507 (100.0%) of 38,507 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,43 +50,59 @@ The visiting IMF staff mission also held discussions with Opposition Leader Saji
 
 [Data](articles/fc7df357.json)
 
+[Extended Data](ext_articles/fc7df357.ext.json)
+
 ---
 
-### அரசியல் பிரவேசத்தை அறிவித்த எமில்காந்தன் ஜனாதிபதி ரணிலுக்கு ஆதரவளிப்பதாக தெரிவிப்பு - தமிழ்ப்பொதுவேட்பாளர் குறித்தும் எச்சரிக்கை
+### Emilkanthan has announced his support for President Ranil
 
 *2024-08-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190043) · `ta`
 
-தமிழ் மக்களுக்கு காத்திரமான கட்டமைப்பை அமைப்பதற்காக முழுநேர அரசியலில் பிரவேசிப்பதாக அறிவித்துள்ள வர்த்தகரான எமில் காந்தன் ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவை ஆதரித்துச் செயற்படப்போவதாகவும் தெரிவித்தார்.
+Emil Kandan, entering politics, supports Ranil Wickremesinghe for presidency, criticizing Tamil nationalist candidates as detrimental. He emphasizes the need for a political structure for Tamils and highlights Wickremesinghe's bravery and leadership. Opposes halting a Tamil candidate, advocating for the implementation of constitutional powers for Tamil solutions.
 
-அத்துடன், தமிழ் தேசியத்தின் பெயரில் தமிழ் பொதுவேட்பாளர் நிறுத்தப்படுவதானது தமிழ் மக்களை மேலும் தோல்வியான நிலைமைக்குள்ளேயே கொண்டு செல்லும் என்றும் அவர் எச்சரிக்கை விடுத்துள்ளார்.
+🟩
 
-வவுனியாவில் வியாழக்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Businessman Emil Kandan, who has announced his entry into full -time politics to establish a desperate structure for the Tamil people, said he would support Ranil Wickremesinghe in the presidential election.
 
-உள்ளுராட்சி மன்றங்களுக்கான தேர்தல் அறிவிக்கப்பட்ட நிலையில் அதில் போட்டியிடுவதற்கு எனது தலைமையிலான அணியினர் தயராகி வேட்புமனுக்களை தாக்கச் செய்திருந்தோம்.
+He also warned that the Tamil Nadu general candidate in the name of Tamil nationalism would lead the Tamil people to a further failure.
 
-அத்தகைய பின்னணியில் தற்போது நான் முழுநேர அரசியல் செயற்பாட்டில் பிரவேசிப்பதற்கு தீர்மானித்துள்ளேன். இதற்கு காரணங்கள் உள்ளன.
+He said this while addressing a press conference held in Vavuniya on Thursday (01).
 
-தமிழ் மக்கள் பாரம்பரிய அரசியல் கட்சிளையும், விடுதலை அமைப்புக்களையும் ஆதரித்துவந்தமை தான் வரலாறாக இருக்கின்ற நிலையில், அந்தக்கட்சிகளும், அமைப்புக்களும் எவ்வாறு செயற்படுகின்றன என்று தடுமாறிக்கொண்டிருகின்றனர்.
+With the announcement of the election for local bodies, my teammates were ready to contest the election and attacked the nominations.
+
+In such a backdrop, I have decided to enter a full -time political activity. There are reasons for this.
+
+While the history of supporting the traditional political parties and liberation organizations, it is history that the parties and organizations are acting on how they are.
+
+At this moment, there is a need to enter politics on the basis that my people have a political structure.
 
 ...
 
 [Data](articles/ec28cad7.json)
 
+[Extended Data](ext_articles/ec28cad7.ext.json)
+
 ---
 
-### பிரதமர் தினேஷ் குணவர்தன தலைமையிலான மக்கள் ஐக்கிய முன்னணி ஜனாதிபதி ரணிலுக்கு ஆதரவு
+### People's United Front supported President Ranil led by Prime Minister Dinesh Gunawardena
 
 *2024-08-01 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190042) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க பிரதமர் தினேஷ் குணவர்தன தலைமையிலான மக்கள் ஐக்கிய முன்னணி தீர்மானித்துள்ளது.
+The People's United Front, under Prime Minister Dinesh Gunawardena, has endorsed President Ranil Wickremesinghe for re-election. This decision was made unanimously at a central committee meeting held on January 1st.
 
-கட்சியின் மத்திய குழு 01ஆம் திகதி வியாழக்கிழமை பிற்பகல் கூடிய போது இந்த தீர்மானம் ஏகமனதாக எட்டப்பட்டதாக பிரதமர் தினேஷ் குணவர்தன மேலும் தெரிவித்தார்.
+🟩
 
-மக்கள் ஐக்கிய முன்னணி மத்திய செயற்குழு கூட்டத்தின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The People's United Front led by Prime Minister Dinesh Gunawardena has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
+
+Prime Minister Dinesh Gunawardena added that the resolution was unanimously reached when the party's central committee convened on Thursday, the 01st.
+
+The decision was taken during the People's United Front Central Executive Committee meeting.
 
 ◼️
 
 [Data](articles/830e018e.json)
+
+[Extended Data](ext_articles/830e018e.ext.json)
 
 ---
 
@@ -175,6 +191,28 @@ The international community has taken care of this, and I ask us to give a good 
 [Data](articles/34f24c8b.json)
 
 [Extended Data](ext_articles/34f24c8b.ext.json)
+
+---
+
+### President to support Prime Minister
+
+*2024-08-01 18:29:24* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිගේ-සහාය-ජනපති-රනිල්ට/11-411152) · `si`
+
+President Rajapaksa will back Ranil Wickremesinghe, leader of the right-leaning United Front, in the presidential election, marking an unusual alliance between the left-leaning People's United Front and its right-wing counterpart. This strategic move was discussed and agreed upon during a meeting of the People's United Front, with President Rajapaksa personally informing Wickremesinghe of his support.
+
+🟩
+
+President Rajapaksa has decided to hand over the support of the President of the Meteorosphistic Leader of the United Front Presidential election and Ranil Wickremesinghe.
+
+The People's United Front is a left political party and Ranil Wickremesinghe represents right wins. Accordingly, this joining the president is fairly unique.
+
+The party has taken this decision in a meeting held in the Meeting Front today, and the President has informed Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/2b1ed357.json)
+
+[Extended Data](ext_articles/2b1ed357.ext.json)
 
 ---
 
@@ -2235,27 +2273,5 @@ Investigations by the police revealed that the jewelery was robbed to convert th
 [Data](articles/d7f02efc.json)
 
 [Extended Data](ext_articles/d7f02efc.ext.json)
-
----
-
-### Underworld figure ‘Loku Patty’ arrested in Belarus - sources
-
-*2024-08-01 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100907/underworld-figure-loku-patty-arrested-in-belarus-sources) · `en`
-
-The main suspect in the killing of ‘Club Wasantha’ at Athurugiriya, Sujeewa Ruwankumara alias ‘Loku Patty’ has been arrested in Belarus, according to police sources.
-
-He has reportedly been arrested by security service personnel in Belarus, the source said.
-
-Several accomplices of ‘Loku Patty’, who is said to be an organized criminal and a large-scale drug trafficker, were arrested on multiple occasions over attempts to commit murders and for possession of large consignments of drugs.
-
-He is also the main suspect of the recent shooting and killing of ‘Club Wasantha’ at Athurugiriya on July 08, and is suspected to have orchestrated and funded the assassination.
-
-The shocking shooting incident had occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on July 08 morning.
-
-...
-
-[Data](articles/f1b62078.json)
-
-[Extended Data](ext_articles/f1b62078.ext.json)
 
 ---

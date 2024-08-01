@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 10:07:13**
+As of **2024-08-01 10:20:28**
 
 ## Newspaper Stats
 
-*Scraped **38,377** Articles*
+*Scraped **38,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 4,434
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
 virakesarilk | 6,065
-adaderanasinhalalk | 6,462
+adaderanasinhalalk | 6,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,377 (100.0%) of 38,377 articles have been extended.
+38,377 (100.0%) of 38,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### මැද පෙරදිග යුද බිය පැතිරෙයි
+
+*2024-08-01 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199438) · `si`
+
+තම සංවිධානයේ ඡ්‍යේෂ්ඨ අණ දෙන නිලධාරියෙක් වූ ෆුවාඩ් ෂුක්ර් ඊශ්‍රායල ප්‍රහාරයකින් මියගිය බව හිස්බුල්ලා සංවිධානය නිල වශයෙන් නිවේදනය කර තිබේ.
+
+ඔහු ලෙබනනයේ බේරූට් නුවර හිස්බුල්ලා අණසක යටතේ පවතින ප්‍රදේශයකදී බදාදා පාන්දර එල්ලකළ ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්වී තිබේ.
+
+ඔහු නිදා සිටි ගොඩනැගිල්ලේ කාන්තාවන් දෙදෙනෙක් සහ දරුවන් දෙදෙනෙක්ද එම ප්‍රහාරයෙන් මරුමුවට පත්ව ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+එම ප්‍රහාරයෙන් පැය කිහිපයකට පසුව ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් හමාස් සංවිධානයේ නායක ඉස්මයිල් හනියේ ද මියගියේය.
+
+ඔහුව ඝාතනය කර තිබුණේ ඉරානයේ අගනුවර වන ටෙහෙරාන් හි නිවසකට එල්ලකළ ගුවන් ප්‍රහාරයකිනි.
+
+මෙම ඝාතන හේතුවෙන් මැද පෙරදිග යුද උණුසුම වැඩිවී ඇති බව දේශපාලන විචාරකයෝ පවසති.
+
+◼️
+
+[Data](articles/930f05a2.json)
+
+---
+
+### විජයදාසත් ඇප තියයි
+
+*2024-08-01 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199437) · `si`
+
+ජාතික ප්‍රජාතන්ත්‍රවාදි පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා ඇප තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/02d02eb1.json)
+
+---
+
+### හොරට ලංකාවේ නතර වුණ චීන ජාතිකයින් පිරිසක් කොටු
+
+*2024-08-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199436) · `si`
+
+වීසා නොමැතිව මෙරට රැඳී සිටි චීන ජාතිකයින් සය දෙනෙකු පයාගල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ආගමන විගමන කොන්දේසි උල්ලංඝනය කරලමින් පයාගල ප්‍රදේශයේ රැ﻿ඳී සිටි මෙම චීන ජාතික විදේශීය පිරිස ඊයේ (31) දින අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 20, 22, 24, 27, 39 යන වයස්වල පසුවන අතර සැකකාරිය 48 හැවිරිදි වියේ පසුවෙයි.
+
+◼️
+
+[Data](articles/aaba095c.json)
+
+---
 
 ### Indian fisherman killed in northern seas
 
@@ -2175,75 +2225,5 @@ It is worth noting that Macron and Audia Costera are 46 -year -old and Macron is
 [Data](articles/aacd4adb.json)
 
 [Extended Data](ext_articles/aacd4adb.ext.json)
-
----
-
-### Cut Tomato Cut: World Adventure: Video
-
-*2024-07-31 16:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/தக்காளி-வெட்டி-உலக-சாதனை-காணொளி/53-341356) · `ta`
-
-Canadian chef Wallace Wong, known as the "Six Back Chef," set a Guinness World Record by cutting nine tomatoes equally in one minute, blindfolded. Despite disqualification due to four tomatoes not meeting the criteria, his remarkable skill was recognized.
-
-🟩
-
-There are many people who have some special skills in the world. This excellent talent of them is amazed. And for this unique talent, they are in the world record. Currently a person's talent has come out again. Cut 9 tomatoes in a minute and set a world record. Cutting tomatoes is the common thing. Asked what the achievement of this is, he has made a tomato cutting the tomato in the Guinness Book of Records.
-
-Most of us cannot cut tomatoes into equal pieces, but Canadian cook Wang, popularly known as the Six Back Chef, has closed his eyes and cuts nine tomatoes into equal parts.
-
-Guinness set a world record for cutting his eyes and cutting more tomatoes in a minute. Recently the chef in London performed this feat. His achievement was held in the presence of a member of the Guinness World Record.
-
-...
-
-[Data](articles/1de0d8a9.json)
-
-[Extended Data](ext_articles/1de0d8a9.ext.json)
-
----
-
-### The man who was going to Canada strangled and murdered
-
-*2024-07-31 16:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடா-செல்ல-இருந்தவர்-கழுத்து-நெரித்து-கொலை/175-341355) · `ta`
-
-A 27-year-old from Mullaitivu, Anandarasa Jeevan, preparing to move to Canada, was found dead in a pond. His body was discovered during a search when he went missing. The autopsy revealed he was strangled.
-
-🟩
-
-Mullaitivu District Legal Medical Officer said in a statement that a youth recovered from Vavuniya on Wednesday (30)
-
-Anandarasa Jeevan (age 27), a young man from Mullaitivu, Yogapuram, Mullaitivu
-
-The young man, who was ready to go to Canada, had gone to the Pandian Pond on Monday night (29) at Yoga Prat with a sum of Rs.
-
-However, he is missing him. Relatives were found dead on Tuesday (30) from the Vavunikulam pond as relatives searched him.
-
-In this case, the Mullaitivu Magistrate's Court visited the scene and visited the body. Ach .Magruns asked the body to hand over the body to relatives after anatomical examination
-
-In this case, an anatomical examination was conducted at the Mullaitivu District Hospital. According to a report by the legal officer, the young man has been strangled to death at the end of the anatomical examination.
-
-◼️
-
-[Data](articles/d4cd3731.json)
-
-[Extended Data](ext_articles/d4cd3731.ext.json)
-
----
-
-### Tisl filed a petition in the High Court against controversial VFS Visa Agreement
-
-*2024-07-31 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189911) · `ta`
-
-Tisl has petitioned Sri Lanka's High Court against the VFS Visa Agreement, citing public interest due to its impact on tourism, the economy, and national security. The petition accuses authorities of violating citizens' rights and transparency in procuring services from private companies like GBS Technology Services & IVS Global-FZCO, VFS VF Worldwide Holdings Ltd, and others. It highlights issues such as the improper selection of private visa processors, potential harm to the tourism industry, and financial losses. The case was triggered by an incident at Bandaranaike International Airport in May 2024 and involves allegations of data violations since 2012, despite previous satisfactory cooperation with Mobitel (Pvt) Limited. The petition demands accountability for illegal and unreasonable acts related to the visa processing system.
-
-🟩
-
-Transparents International Supreme Court in Sri Lanka (SC/FR/221/2) demanding action to take action against the practical violations of the authorities and the abuse of the confidence of the public when they agree with private companies to handle the Electronic travel permit (ETA) for Sri Lanka visa.2024) filed yesterday (30).
-
-The petition was filed in view of the public interest in view of the decision to impact tourism, the national economy and the national security and the lack of transparency in the procurement process and the lack of transparency in the procurement process.. Petitioners argue that the fundamental rights of citizens and the right to information have been violated by the actions and neglect of the rights of citizens for equality under Section 12 (1) and 14A of the Constitution.
-
-...
-
-[Data](articles/78d57481.json)
-
-[Extended Data](ext_articles/78d57481.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 12:20:52**
+As of **2024-08-01 12:35:57**
 
 ## Newspaper Stats
 
-*Scraped **38,425** Articles*
+*Scraped **38,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,204
 economynextcom | 2,321
 dailyftlk | 2,461
 adalk | 3,521
-adaderanalk | 4,438
+adaderanalk | 4,439
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,772
 virakesarilk | 6,077
@@ -26,85 +26,131 @@ adaderanasinhalalk | 6,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,418 (100.0%) of 38,425 articles have been extended.
+38,425 (100.0%) of 38,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ලෙබනනයෙන් ඉවත්වන්නැයි ඔස්ට්‍රේලියානුවන් ට දන්වයි
+### Drug kingpins ‘Kanjipani Imran’ and ‘Rotumbe Amila’ arrested in Russia – sources
+
+*2024-08-01 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100910/drug-kingpins-kanjipani-imran-and-rotumbe-amila-arrested-in-russia-sources) · `en`
+
+The notorious organised criminal figures and large-scale drug traffickers infamously known as “Kanjipani Imran” and Amila Sepala Ratnayake alias “Rotumbe Amila” have reportedly been arrested in Russia.
+
+However, Sri Lankan authorities have not been officially informed regarding the matter, as per sources. Accordingly, the Criminal Investigation Department (CID) has reportedly requested Interpol to confirm the matter.
+
+Organised criminals “Kanjipani Imran” and “Rotumbe Amila”, were earlier arrested in Dubai along with drug kingpin “Makandure Madush”, who was later shot dead in Sri Lanka allegedly during the cross-fire between police officers and another suspected criminal gang. The duo, who were deported to Sri Lanka, had later fled the country again after being granted bail by the court.
+
+...
+
+[Data](articles/d8108fe1.json)
+
+---
+
+### Austrates informed Australians to leave Lebanon
 
 *2024-08-01 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199443) · `si`
 
-ඔස්ට්‍රේලියානු ජාතිකයින්ට හැකි ඉක්‌මණින් ලෙබනනයෙන් ඉවත්වන ලෙස ඕස්ට්‍රේලියානු රජය ඉල්ලීමක් කර තිබේ.
+The Australian government advised its citizens to evacuate Lebanon due to escalating tensions between Israel and Hezbollah. This follows similar requests from the US and UK governments. Approximately half a million Lebanese-Australians reside in Australia, according to the 2021 census.
 
-ඊශ්‍රායලය සහ හිස්බුල්ලා සංවිධානය අතර ගැටුම් උත්සන්න වීමේ අවදානමක් ඇති බැවින් එම ඉල්ලීම කර ඇති බව සඳහන් ය.
+🟩
 
-අමෙරිකාව සහ බ්‍රිතාන්‍යය ද සිය රටවැසියන්ගෙන් එම ඉල්ලීම කර තිබේ.
+Australian government has requested the Australian government to leave the Lebanon as soon as possible.
 
-එසේම 2021 වසරේ සිදුකළ සංගණනය අනුව ලෙබනන් සම්භවයක් සහිත පුද්ගලයින් 500,000ක් පමණ ඔස්ට්‍රේලියාවේ ජීවත් වෙන බව හෙළිවී තිබුණි.
+It is said that the request has been made as the conflict between Israel and Hezbollah.
+
+The US and the British have also made the request from their countrymen.
+
+According to the census of 2021, there were about 500,000 lebonan origin lives in Australia.
 
 ◼️
 
 [Data](articles/c0a31479.json)
 
+[Extended Data](ext_articles/c0a31479.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத்தை விரைவில் செலுத்துமாறு வேண்டுகோள்
+### Request to pay control of the presidential election as soon as possible
 
 *2024-08-01 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189973) · `ta`
 
-இறுதி தருணத்தில் ஏற்படும் சிக்கல்களை தவிர்த்துக் கொள்வதற்கு ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத்தை விரைவில் செலுத்துமாறு தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க வேண்டுகோள் விடுத்துள்ளார்.
+The Elections Commission Chairman RMAL is urged to transfer control of the upcoming presidential election promptly to prevent last-minute issues. Independent candidate Sarath Keerthi Ratna, new Freedom Front candidate Ola Lakmal Anil Herath, and Ceylon Workers Party candidate SG Liyanage are among the contenders. The Opposition Leader Sajith Premadasa and SK Bandaranaike lead the United Peoples' National Development Front. Vijayadasa Rajapakse represents the National Democratic Front. Candidates are required to pay 50,000 rupees (recognized parties) or 75,000 rupees (independents) for recognition.
 
-முன்னாள் பாராளுமன்ற உறுப்பினர் சரத் கீர்த்தி ரத்ன சுயாதீன வேட்பாளராகவும்,புதிய சுதந்திர முன்னணியின் வேட்பாளராக ஓசல லக்மால் அனில்  ஹேரத் என்பவரும், இலங்கை தொழிலாளர் கட்சி சார்பில் போட்டியிடுவதற்கு எஸ்.ஜி.லியனகே என்பவரும் கட்டுப்பணம் செலுத்தியுள்ளார்.
+🟩
 
-ஐக்கிய மக்கள் சார்பில் போட்டியிடுவதற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவும்,தேசிய அபிவிருத்தி முன்னணி சார்பில் போட்டியிடுவதற்கு எஸ்.கே பண்டாரநாயக்கவும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+Elections Commission Chairman RMAL should soon pay control of the presidential election to avoid problems at the end of the final moment.. Ratnayake has appealed.
 
-இன்று வியாழக்கிழமை (01) தேசிய ஜனநாயக முன்னணியின் சார்பில்  ஜனாதிபதி வேட்பாளராக விஜயதாச ராஜபக்ஷ கட்டுப்பணம் செலுத்தியுள்ளார்.
+Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lakmal Anil Herath as the new Freedom Front candidate and SG Liyanage to contest on behalf of the Ceylon Workers Party.
 
-ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியிட்டுள்ள நிலையில் எதிர்வரும் மாதம் 14 ஆம் திகதி வரை கட்டுப்பணம் செலுத்துவதற்கு காலவகாசம் வழங்கப்பட்டுள்ளது.
+Opposition Leader Sajith Premadasa and SK Bandaranaike have been in control of the National Development Front to contest on behalf of the United Peoples.
 
-...
+Vijayadasa Rajapakse has been controlled as the presidential candidate on behalf of the National Democratic Front today (01).
+
+The official announcement for the presidential election has been issued until the 14th of this month.
+
+The Elections Commission has advised that the recognized political party candidate should be paid 50,000 rupees and an independent candidate 75,000 rupees.
+
+◼️
 
 [Data](articles/bf8ce410.json)
 
+[Extended Data](ext_articles/bf8ce410.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் வேட்பாளர்களிடையே ஐம்பது சதவிகித வாக்கை பெறக் கூடியவர்கள் என எவருமில்லை - சி.வி.விக்னேஸ்வரன்
+### There is no one who can get fifty percent of the presidential election - CV Wigneswaran
 
 *2024-08-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189963) · `ta`
 
-ஜனாதிபதி தேர்தலின் பின்னர் நாட்டில் கலவரங்கள் வெடிக்ககூடிய ஆபாயம் காணப்படுவதாக தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+CV Wigneswaran, leader of the Tamil People's National Alliance, expressed concern over potential post-election riots due to the lack of a clear winner among Sinhala candidates, hinting at a divided electorate. He highlighted the competitive nature among Ranil, Sajith, and Anura, suggesting their parties could face significant losses, especially to the JVP. Wigneswaran predicted support for Ranil but noted potential shifts in alliances and voter sentiments.
 
-புதன்கிழமை (31) யாழில் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டை பொறுத்தவரையில் இப்பொழுதும் எனக்கு ஒரு கரிசனை இருக்கிறது. அதாவது தேர்தலின் பின்னர் கலவரங்கள் வெடிக்கக்கூடும் என்ற நிலை இருக்கிறது. சிங்கள வேட்பாளர்களிடையே ஐம்பது சதவிகித வாக்கை பெறக் கூடியவர்கள் என்று எவரும் இல்லை.
+CV Wigneswaran, the leader of the Tamil People's National Alliance and Member of Parliament, said that after the presidential election, riots erupted in the country.
 
-ஆனால் இத்தேர்தலில் பலபேர் போட்டியிடுவதாக கூறினாலும் ரணில், சஜித், அனுர என்ற மூன்று போர் தான் முக்கியமானவர்கள்.
+He said this during a media briefing held in Jaffna on Wednesday (31).
 
-இந்த மூவருக்கும் இடையில் என்ன மாதிரியான போட்டி நடக்க போகிறது. இந்த தேர்தலில் மொட்டு கட்சியின் பங்கு என்னவென்று கேட்டீர்களானால் அந்தக் கட்சியில் இருப்பவர்கள் திரும்பவும் ஒரு தேர்தல் வந்தால் முழுமையாக அழிக்கப்பட்டு விடுவார்கள் என்றே கருதுகிறேன்.
+I have a compassion for the country now. That is, there is a situation where riots may erupt after the election. There is no one who can get fifty percent of the Sinhala candidates.
+
+But although many people say they are contesting in the election, Ranil, Sajith and Anura are the three war.
+
+What kind of competition is going to happen between the three.If you ask what the party's role in this election is, I think that the party will be completely destroyed if an election comes back.
+
+That is, it is my opinion that all their seats in the south will go to the JVP party.Their betrayal of this country is in the mind.
+
+They have been raging in this country in particular, and they have raised themselves because of the war war.All of these are well known now.
 
 ...
 
 [Data](articles/a428eb95.json)
 
+[Extended Data](ext_articles/a428eb95.ext.json)
+
 ---
 
-### சகோதரியின் கணவனை அலவாங்கினால் தலையில் தாக்கி கொலைசெய்த மச்சான்
+### Machan was assassinated by her sister's husband
 
 *2024-08-01 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189960) · `ta`
 
-உனவட்டுன தலவெல்ல பிரதேசத்தில் சகோதரியின் கணவனை அலவாங்கினால் தலையில் தாக்கி கொலை செய்த மச்சானை கைதுசெய்துள்ளதாக ஹபராதுவ பொலிஸார் தெரிவித்துள்ளனர்.
+Machan, accused of killing her sister's husband Kamage Ratnasiri, 54, in Udavattuna, was arrested by Habaradhuwa police. Investigations show Ratnasiri was assaulted by his wife's brother Alawang while asleep.
 
-உயிரிழந்தவர் தலவெல்ல, உனவட்டுன பகுதியைச் சேர்ந்த கனேகொட கமகே ரத்னசிறி என்ற 54 வயதுடையவராவார்.
+🟩
 
-உயிரிழந்தவரின் மனைவி வெளிநாட்டில் பணி புரிந்து வருவதோடு, அவர் மனைவியின் இளைய சகோதரனுடன் வீட்டில் வசித்து வந்துள்ளார்.
+Habaradhuwa police have arrested Machan for murdering her sister's husband in the Udavattuna Thalavella area.
 
-உயிரிழந்தவர் நித்திரையில் இருந்த போது மனைவியின் சகோதரன் அலவாங்கினால் தலையில் தாக்கி கொலை செய்துள்ளதாக பொலிஸ் விசாரணையில் இருந்து தெரியவந்துள்ளது.
+The deceased is the 54 -year -old named Kamage Ratnasiri, a resident of Unavattuna.
+
+The wife of the deceased is working abroad and is living at home with his wife's younger brother.
+
+Police investigations have revealed that the deceased was assaulted by his wife's brother Alawang while he was sleeping.
 
 ◼️
 
 [Data](articles/98cc7e2a.json)
+
+[Extended Data](ext_articles/98cc7e2a.ext.json)
 
 ---
 
@@ -176,31 +222,45 @@ The CPC Maintains A Buffer Stockn Products and Will Continue an Uninterrupted Su
 
 ---
 
-### இறக்குமதியாளருக்கு சலுகை வழங்கி தேசிய உற்பத்தியாளருக்கு சுமையை ஏற்படுத்தும்  நிலையை மாற்ற வேண்டும் - சஜித்
+### Concession to the importer and change the status of the national manufacturer - Sajith
 
 *2024-08-01 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189965) · `ta`
 
-இறக்குமதியாளருக்கு சலுகை வழங்கி, தேசிய உற்பத்தியாளருக்கு சுமையை ஏற்படுத்துவதும் நிலைமைகளை மாற்ற வேண்டும். தற்போதைய அரசாங்கம் இந்த நிலைப்பாட்டை மாற்றாவிடின், ஐக்கிய மக்கள் சக்தி ஆட்சியில் நாம் இதனை  மாற்றியமைப்போம் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa criticizes the government for favoring importers over national manufacturers, especially in the coconut oil industry, highlighting issues like unfair taxation and the sale of low-quality, artificially refined oils as natural. He promises changes in the United People's Power regime to address these concerns.
 
-பாரம்பரிய தேங்காய் எண்ணெய் உற்பத்தியாளர்களுடன் புதன்கிழமை (31) இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு கருத்துத் தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+🟩
 
-உற்பத்தியாளர் மற்றும் நுகர்வோரை பாதுகாக்கும் இரட்டைக் கொள்கைகளை கொண்டமைந்த அரச கொள்கையொன்று தேவை என்றாலும், இன்று, உள்நாட்டு உற்பத்தியாளர் மீது 18 வீத வற் வரியை விதித்து, இறக்குமதி செய்யப்படும் தேங்காய் எண்ணெய் உற்பத்தியாளர் மீதான வரியை நீக்கி, ஒரு சிலரைப் பாதுகாக்க அரசாங்கம் எடுத்துள்ள இந்த சமநிலையற்ற கொள்கை மிகவும் நியாயமற்ற ஒன்றாகும்.
+Providing concessions to the importer and the burden to the national manufacturer must change the conditions.Opposition leader Sajith Premadasa said that if the current government does not change this position, we will change it in the United People's Power regime.
+
+Opposition Leader Sajith Premadasa said this while addressing a discussion with traditional coconut oil producers on Wednesday (31).
+
+Although a government policy that contains double policies that protect the manufacturer and consumers is required, today, the government's unreasonable policy is very unreasonable to impose an 18 percent tax on the domestic manufacturer and remove the tax on the imported coconut oil manufacturer and protect a few.
+
+Although the five -star hostels will be given the right place to the national manufacturers, the national manufacturers and the producers have not been encouraged and supported.
 
 ...
 
 [Data](articles/24220140.json)
 
+[Extended Data](ext_articles/24220140.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தல் கண்காணிப்பு : ஐரோப்பிய ஒன்றியம் - தேர்தல்கள் ஆணைக்குழுவுக்கு இடையில் உடன்படிக்கை கைச்சாத்து
+### Presidential Election Surveillance: European Union - Elections Commission
 
 *2024-08-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189977) · `ta`
 
-ஜனாதிபதித் தேர்தல் கண்காணிப்புப் பணிகளை முன்னெடுப்பதற்கான நிர்வாக செயன்முறை குறித்த உடன்படிக்கையொன்று ஐரோப்பிய ஒன்றியம் மற்றும் தேர்தல்கள் ஆணைக்குழுவுக்கு இடையில் கைச்சாத்திடப்பட்டுள்ளது.
+The European Union and the Elections Commission have agreed on procedures for monitoring presidential elections.
+
+🟩
+
+An agreement on the administrative process to carry out the presidential election monitoring has been signed between the European Union and the Elections Commission.
 
 ◼️
 
 [Data](articles/1e97fdeb.json)
+
+[Extended Data](ext_articles/1e97fdeb.ext.json)
 
 ---
 
@@ -222,17 +282,23 @@ IHP noted, however, that the June estimates were associated with a substantial i
 
 ---
 
-### காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்ய நன்கொடைகளை வைப்பிலிட வேண்டாம் !
+### Do not deposit donations to contribute to the Gaza Children's Fund!
 
 *2024-08-01 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189975) · `ta`
 
-காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்வதற்கு வழங்கப்பட்ட கால அவகாசம் 2024 ஜூலை 31 ஆம் திகதியுடன் நிறைவடைந்துள்ளதோடு, இனியும் அதற்காக நன்கொடைகளை வைப்பிலிட வேண்டாம் என பொது மக்களிடம் ஜனாதிபதி அலுவலகம் கோரிக்கை விடுத்துள்ளது.
+The President's Office advises against donating to the Gaza Children's Fund on July 31, 2024. Any contributions made after this date will be redirected to the President's Fund for Social Relief.
 
-அத்துடன், 2024 ஜூலை 31 ஆம் திகதிக்கு பின்னர் எவரேனும் ஜனாதிபதி செயலகத்தின் வங்கிக் கணக்கில் வைப்புச் செய்யும் பட்சத்தில் அந்த நிதி சமூக நிவாரணச் செயற்பாடுகளுக்காக ஜனாதிபதி நிதியத்திடம் கையளிக்கப்படும் என்றும் அறிவித்துள்ளது.
+🟩
+
+The President's Office has requested the public not to deposit donations for the Gaza Children's Fund on July 31, 2024.
+
+It has also announced that the fund will be handed over to the President's Fund for Social Relief activities if anyone is deposited in the Presidential Secretariat after July 31, 2024.
 
 ◼️
 
 [Data](articles/56d4ba45.json)
+
+[Extended Data](ext_articles/56d4ba45.ext.json)
 
 ---
 
@@ -2135,25 +2201,5 @@ The price of a liter of Lanka Super Diesel 4 Star Euro 4 is Rs 355.(R)
 [Data](articles/4a037fd5.json)
 
 [Extended Data](ext_articles/4a037fd5.ext.json)
-
----
-
-### Fuel revision
-
-*2024-07-31 21:28:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය/11-411135) · `si`
-
-Ceylon Petroleum Corporation announced no fuel price changes for August, confirming no revisions will occur this month.
-
-🟩
-
-Ceylon Petroleum Corporation has issued a statement regarding the fuel revision for August.
-
-Accordingly, a fuel price of a August is not amended and that there will be no revision of the August and is in August.
-
-◼️
-
-[Data](articles/9b270db7.json)
-
-[Extended Data](ext_articles/9b270db7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 05:20:38**
+As of **2024-08-01 05:39:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,341 (100.0%) of 38,343 articles have been extended.
+38,343 (100.0%) of 38,343 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -208,35 +208,49 @@ The Sri Lankan civil war ended with a brutal and decisive Government victory in 
 
 ---
 
-### கனிய மணல் அகழ்வாய்விற்கு ரவிகரன் உள்ளிட்ட மக்கள்  எதிர்ப்பு : அவ்விடத்திலிருந்து வெளியேறிய திணைக்களங்கள்
+### People's opposition to Ravikaran for heavy sand excavation: Departments
 
 *2024-08-01 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189952) · `ta`
 
-கனியவள மணல் அகழ்விற்கான முன்னாயத்த ஆய்வு பணி மேற்கொள்வதற்காக கனிய மணல் திணைக்களத்தினருடன் இணைந்த சில திணைக்களங்களின் நடவடிக்கைக்கு முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் உள்ளிட்ட மக்கள் எதிர்ப்பு தெரிவித்ததையடுத்து ஆய்வு பணி கைவிடப்பட்டு அவ்விடத்திலிருந்து சென்றிருந்தனர்.
+Opposition against heavy sand mining led by Durairasa Ravikaran, a former Northern Provincial Council member, resulted in protests and abandonment of inspections by various departments, including the Coast Guard, Forest Service, Environment, Geology, and Geography departments, as well as local officials. This occurred in Mullaitivu District on July 31, 2024, after a visit to the coast.
 
-மீண்டும் பிறிதொரு இடத்தில் குறித்த திணைக்களம் உள்ளிட்ட குழுவினர் கனிய மணல் ஆய்வில் ஈடுபட சென்றபோது அங்கும் முன்னாள் வடமாகாணசபை உறுப்பினர் துரைராசா ரவிகரன் உள்ளிட்ட மக்கள் குழுவினர் எதிர்ப்பு தெரிவித்ததையடுத்து, திணைக்களத்தினருடன் கடுமையான வாத பிரதிவாதங்கள் இடம்பெற்றதையடுத்தும் குறித்த ஆய்வு நடவடிக்கையும் கைவிடப்பட்டிருந்ததுடன் தாம் அவ்விடத்திலிருந்து செல்வதாக கூறி குறித்த ஆய்வு திணைக்களத்தினர் சென்றுள்ளனர்.
+🟩
 
-முல்லைத்தீவு மாவட்டத்தில் இருக்கும் கனிய வள மணலை அகழ்வதற்கான முன்னாயத்த கலந்துரையாடல் ஒன்று இன்றையதினம் (31.07.2024) முல்லைத்தீவு மாவட்ட. செயலகத்தில் இடம்பெற்றதனை தொடர்ந்து இரகசியமான முறையில் முல்லைத்தீவு அளம்பில் கடற்கரையில் இருந்து தீர்த்த கரைவரை ஆய்வு பணியினை மேற்கொள்ள சென்றிருந்தார்கள்.
+Former Northern Provincial Council Member Durairasa Ravikaran, including former Northern Provincial Council member Durairasa Ravikaran, had abandoned the inspection work and went from the scene.
 
-...
+When a group of people, including former Northern Provincial Council member Durairasa Ravikaran protested when a group of people, went on to engage in heavy sand inspection again, had abandoned the inspection of the department and the department had abandoned the study of severe arguments with the department.
+
+Mullaitivu District today (31.07.2024). Following the secretariat, they had secretly visited the Mullaitivu Service from the coast of Mullaitivu.
+
+The Department of Coast Guard, the Department of Forest Service, the Department of Environment, the Department of Environment, the Department of Geology, and the Department of Geography, Karaitharaipattu Divisional Secretariat Land Officer and the Grama Niladhari of the area.
+
+◼️
 
 [Data](articles/92a119a7.json)
 
+[Extended Data](ext_articles/92a119a7.ext.json)
+
 ---
 
-### நெல்லியடியில் 9 வயதுச் சிறுமியை துஷ்பிரயோகம் செய்த 33 வயதுடைய குடும்பஸ்தர் கைது!
+### A 33 -year -old family member arrested for abusing a 9 -year -old girl in Nelliyadi
 
 *2024-08-01 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189951) · `ta`
 
-கடந்த சில தினங்களுக்கு முன்னர், நெல்லியடி பொலிஸ் பிரிவிற்குட்பட்ட நெல்லியடி - துன்னாலை பகுதியில் 9 வயதுச் சிறுமி ஒருவரை கடத்திச் சென்று துஷ்பிரயோகம் செய்த குற்றச்சாட்டின் கீழ் சந்தேகநபர் ஒருவர் புதன்கிழமை (31) பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A 33-year-old man was arrested for allegedly abusing a 9-year-old girl in Nelliyadi. The victim is hospitalized for treatment. Further actions will be taken against the suspect after investigation.
 
-அதே பகுதியை சேர்ந்த 33 வயதுடைய திருமணமான நபர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். சிறுமி மருத்துவ பரிசோதனைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-மேலதிக விசாரணைகளின் பின்னர் சந்தேகநபரை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A few days ago, a suspect was arrested by the police on Wednesday (31) on charges of abuse and abusing a 9 -year -old girl in the Nelliyadi - Tunnalai area belonging to the Nelliyadi Police Division.
+
+A 33 -year -old married man from the same area has been arrested. The girl has been admitted to the hospital for medical examination.
+
+After further investigations, the police are taking steps to bring the suspect in court.
 
 ◼️
 
 [Data](articles/78e0adda.json)
+
+[Extended Data](ext_articles/78e0adda.ext.json)
 
 ---
 

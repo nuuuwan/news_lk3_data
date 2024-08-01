@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 13:20:44**
+As of **2024-08-01 13:36:08**
 
 ## Newspaper Stats
 
-*Scraped **38,432** Articles*
+*Scraped **38,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,322
 dailyftlk | 2,461
-adalk | 3,522
+adalk | 3,524
 adaderanalk | 4,441
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,772
+tamilmirrorlk | 4,776
 virakesarilk | 6,077
 adaderanasinhalalk | 6,472
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,432 (100.0%) of 38,432 articles have been extended.
+38,432 (100.0%) of 38,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### மேகவெடிப்பால்  12 பேர் பலி; 36 பேர் மாயம்
+
+*2024-08-01 13:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-12-பேர்-பலி-36-பேர்-மாயம்/175-341406) · `ta`
+
+வடமாநிலங்களில் மேகவெடிப்பால் ஏற்பட்ட மழை (வழக்கத்திற்கு மாறான பெரும் மழையை மேக வெடிப்பு என்பார்கள்) வெள்ளத்தில் சிக்கி இதுவரை 12 பேர் உயிரிழந்துள்ளனர்.
+
+ஹிமாச்சல பிரதேசம் மற்றும் அதன் அண்டை மாநிலமான உத்தரகாண்டில் மேகவெடிப்பு ஏற்பட்டு, கனமழை பெய்து வருகிறது. இதனால், பல்வேறு பகுதிகளில் வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
+
+உத்தரகாண்டில் தெஹ்ரி, ஹரித்வார், ரூர்க்கி, சமோலி, டேராடூன் உள்ளிட்ட பகுதிகளில் பலத்த சேதம் ஏற்பட்டுள்ள நிலையில், தெஹ்ரி மாவட்டம் ஞானசாலியில் வீடு இடிந்து விழுந்த விபத்தில், 3 பேர் உயிரிழந்தனர். மேலும், 6 பேர் மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இதனிடையே, மாநிலத்தின் வெவ்வேறு இடங்களில் நடந்த விபத்துக்களில் 9 பேர் உயிரிழந்துள்ளனர்.
+
+மேலும், சார்தாம் யாத்திரை செல்பவர்கள் பயன்படுத்தும் முக்கிய பாலம் இந்த கனமழையால் சேதமடைந்த நிலையில், அதை சீரமைக்க 4 முதல் 5 நாட்களாகும் என்று தெஹ்ரி கலெக்டர் மயூர் தீக்ஷித் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/01bbce5b.json)
+
+---
+
+### எம்.பி யின் வழக்கு ஒத்திவைப்பு
+
+*2024-08-01 12:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-யின்-வழக்கு-ஒத்திவைப்பு/175-341405) · `ta`
+
+பொய்யான தகவல்களை அளித்து இலங்கை கடவுச்சீட்டை பெற்றுக்கொண்டதாக முறைப்பாடு செய்யப்பட்டுள்ள நீதவான் விசாரணை தொடர்பில் தமக்கு எதிராக சுமத்தப்பட்டுள்ள ஏழு குற்றச்சாட்டுக்களை முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே வியாழக்கிழமை (01) ஒப்புக்கொண்டார்.
+
+குறித்த வழக்கு கொழும்பு பிரதான நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோது, ​​தாம் குற்றத்தை ஒப்புக்கொள்ளவில்லை என டயானா கமகே நீதிமன்றத்திற்கு அறிவித்தார்.
+
+இதன்படி, குறித்த வழக்கு விசாரணை ஒக்டோபர் 24ஆம் திகதிக்கு கொழும்பு பிரதான நீதவான் திலின கமகேயினால் ஒத்திவைக்கப்பட்டடுள்ளமை குறிப்பிடத்தக்கது,
+
+◼️
+
+[Data](articles/833e08fe.json)
+
+---
 
 ### Killing of Hamas chief in Iran stirs fears of retaliation
 
@@ -49,6 +83,24 @@ Haniyeh was killed by a missile that hit him “directly” in a state guesthous
 [Data](articles/4f80a6fd.json)
 
 [Extended Data](ext_articles/4f80a6fd.ext.json)
+
+---
+
+### வாள் வெட்டு தாக்குதல் ;கையை விட்டு ஓடிய இளைஞன்
+
+*2024-08-01 12:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்-வெட்டு-தாக்குதல்-கையை-விட்டு-ஓடிய-இளைஞன்/175-341404) · `ta`
+
+மாறவில , பஹல வலஹாபிட்டிய பிரதேசத்தில் இரு குழுக்களுக்கிடையில் இடம்பெற்ற மோதலின் போது வாள்வெட்டுத் தாக்குதலுக்கு இலக்காகி 23 வயதுடைய இளைஞன் ஒருவனின் கை மணிக்கட்டுடன் துண்டிக்கப்பட்டதுடன், காயமடைந்த நபர் கையை சம்பவ இடத்தில் விட்டு தப்பியோடியுள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர் .
+
+சில காலமாக நிலவி வந்த தனிப்பட்ட முரண்பாடு காரணமாக இந்த வாள்வெட்டு தாக்குதல் இடம்பெற்றுள்ளதாக தெரியவந்துள்ளது .
+
+காயமடைந்த இளைஞன் மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் அங்கிருந்து கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் , தாக்குதலை மேற்கொண்ட நபர், கீழ் வலஹாபிட்டிய பிரதேசத்தை சேர்ந்த, இரண்டு பிள்ளைகளின் தந்தையான் 35 வயதுடையவர் என்றும் இது தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/f10e964d.json)
 
 ---
 
@@ -73,6 +125,34 @@ The body of the magisterial has been placed at the Dambulla Hospital while Galki
 [Data](articles/cbef7b36.json)
 
 [Extended Data](ext_articles/cbef7b36.ext.json)
+
+---
+
+### ரயில்வே திணைக்களத்தின் விசேட அறிவிப்பு
+
+*2024-08-01 12:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-திணைக்களத்தின்-விசேட-அறிவிப்பு/175-341403) · `ta`
+
+ஆகஸ்ட் (01) முதல் ஒன்லைன் முறையின் மூலம் ஆசனங்களை முன்பதிவு செய்யும் நேரம் திருத்தப்படவிருந்த நிலையில், அது மேற்கொள்ளப்பட மாட்டாது என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+ஒன்லைன் முறை மூலம் தினமும் இரவு 7.00 மணிக்கு ஆசன ஒதுக்கீடு ஆரம்பிக்கப்பட்ட நிலையில் அதனை, திருத்தம் செய்து காலை 10.00 மணிக்கு ஆரம்பிக்க முடிவு செய்யப்பட்டது.
+
+இருப்பினும், கணினி அமைப்பின் தொழில்நுட்ப சிக்கல்கள் காரணமாக அதனை முன்னர் இருந்த நேரத்திற்கே மேற்கொள்ள தீர்மானிக்கப்பட்டுள்ளதாக ரயில்வே துணை முகாமையாளர் எம்.என்.ஜே.இந்திபொலகே தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c66dde79.json)
+
+---
+
+### වෙඩි වැදීමකින් පුද්ගලයෙකු රෝහල් ගත කෙරේ
+
+*2024-08-01 12:36:32* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදීමකින්-පුද්ගලයෙකු-රෝහල්-ගත-කෙරේ/11-411141) · `si`
+
+වදුරන් පැන්නීම සඳහා සිය බලපත්‍ර සහිත බෝර 12 ගිනි අවිය රැගෙන ඉඩමේ යමින් සිටියදී පට පැටලී වැටීමේදී ගිනි අවිය ක්‍රියාත්මක වී මෙම පුද්ගලයාට වෙඩි වැදී ඇති බව ඔහුගේ බිරිද ප්‍රකාශයක් ලබා දෙමින් සඳහන් කළ බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/904f36ba.json)
 
 ---
 
@@ -803,6 +883,22 @@ To protect these resources for that. We expect justice in the High Court. ”sai
 [Data](articles/019bfe36.json)
 
 [Extended Data](ext_articles/019bfe36.ext.json)
+
+---
+
+### පොහොට්ටුවේ තවත් මන්ත්‍රීවරයෙක් ජනපති රනිල්ගේ සහායට
+
+*2024-08-01 10:03:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තවත්-මන්ත්‍රීවරයෙක්-ජනපති-රනිල්ගේ-සහායට/11-411137) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන ශ්‍රී ලංකා පොදු ජන පෙරමුණු පාර්ලිමේන්තු මන්ත්‍රී ඛණ්ඩායමේ එක් මන්ත්‍රීවරයකු ලෙස තමන් ද ඉදිරිපත් වී සිටින බවත් විදේශ ණය බරින් රට මුදාගෙන ආර්ථික සංවර්ධනයක් කරා රට ගෙන යා හැක්කේ එතුමාට පමණක් බවත් ත්‍රිකුණාමල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සම සභාපති පාර්ලිමේන්තු මන්ත්‍රී කපිල නුවන් අතුකෝරල මහතා පැවසීය .
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාට රැල්ලට ඡන්දය දුන්නත් රට කරවීමට එතුමාට පලපුරුද්දක් නොතිබුණු නිසා අරගලය හේතුවෙන් ඉවත්වීමට සිදුවීම නවක මන්ත්‍රවරයෙකු ලෙස තමන් අත්දැක්ක නරකම දේ බවද කපිල නුවන් අතුකෝරල මහතා කීහ.
+
+අරාජික වෙද්දී රට භාරගත් එකම නායකයා වූ රනිල් වික්‍රමසිංහ මහතා කෙටි කාලයක් තුළ රට යම් ප්‍රමාණයකට ස්ථාවර මට්ටමකට ගෙන ඒමට හැකි වූ බවද පාර්ලිමේන්තු මන්ත්‍රීවරයා කීහ .රනිල් වික්‍රමසිංහ මහතාට ජනාධිපතිවරණයේදී සහය දැක්වුවද තමන් ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පෙරමුණ අතහැර නොයන බව කී මන්ත්‍රීවරයා ජයග්‍රහණයෙන් පසු රනිල් වික්‍රමසිංහ මහතා සහාය දුන්  සියලු පක්ෂ වලට සාධාරණය ඉටු කරන බවද කීහ.
+
+◼️
+
+[Data](articles/7fecc85f.json)
 
 ---
 
@@ -2111,111 +2207,5 @@ Microsoft Azure OpenAI Service is an advanced, fully managed service that empowe
 [Data](articles/0f277d27.json)
 
 [Extended Data](ext_articles/0f277d27.ext.json)
-
----
-
-### SLIM and SLT Mobitel collaborate to empower agripreneurs and enhance national agri output
-
-*2024-07-31 22:52:00* · [`islandlk`](http://island.lk/slim-and-slt-mobitel-collaborate-to-empower-agripreneurs-and-enhance-national-agri-output/) · `en`
-
-The Sri Lanka Institute of Marketing (SLIM) and SLT-Mobitel are proud to announce the successful commencement of the second phase of the “Agri Saviya” program, a pioneering initiative aimed at revolutionising the agricultural sector in Sri Lanka. The event at the Kandy City Centre (KCC) marked a significant step forward in leveraging technology to improve the quality and quantity of national agricultural output.
-
-Delivering the welcome speech, Dr. Muditha Hewawanitunga, Project Chairman and Executive Committee member of the Sri Lanka Institute of Marketing (SLIM), commended the participants for choosing a career path as agripreneurs. “Your decision to embark on this journey is commendable, as agripreneurship is vital for the future of our nation’s agriculture,” said Dr. Hewawanitunga. He highlighted the importance of this collaboration with SLT-Mobitel, noting that it provides a robust platform to elevate the national agricultural output through the integration of advanced technology.
-
-...
-
-[Data](articles/c5441619.json)
-
-[Extended Data](ext_articles/c5441619.ext.json)
-
----
-
-### Expanding South Asian network: Blum launches Prudential International
-
-*2024-07-31 22:51:00* · [`islandlk`](http://island.lk/expanding-south-asian-network-blum-launches-prudential-international/) · `en`
-
-Blum, the acclaimed Austrian brand synonymous with high-end furniture fittings, proudly launched its inaugural Experience Centre in Sri Lanka in partnership with Prudential International (Pvt) Ltd (Prudential Design Studio). This momentous event, held on July 26, 2024, in Sri Jayawardenepura Kotte, marks Blum’s strategic expansion within the South Asian market. The centre was ceremoniously opened by Nadeem Patni, Managing Director of Blum, alongside Aslam Mohideen, CEO of Prudential International.
-
-...
-
-[Data](articles/0f431331.json)
-
-[Extended Data](ext_articles/0f431331.ext.json)
-
----
-
-### JKH in massive Right Issue to raise Rs. 24 billion
-
-*2024-07-31 22:49:00* · [`islandlk`](http://island.lk/jkh-in-massive-right-issue-to-raise-rs-24-billion/) · `en`
-
-The Sri Lankan company with the highest market capitalization in the stock market, John Keells Holdings (JKH), announced a massive right issue, in which they intend to issue 150 million new shares at a share price of Rs 160 million, to raise Rs 24 billion, market analysts said.
-
-JKH will be utilizing those funds for the further development of its City of Dreams, formerly known as the ‘Cinnamon Life’ project. Apart from that, the company will go for a subdivision of its shares, in which one share will be subdivided into 10 new shares to increase the share holdings of the company, sources said.
-
-...
-
-[Data](articles/0108b653.json)
-
-[Extended Data](ext_articles/0108b653.ext.json)
-
----
-
-### ‘Experience unmatched value with Dialog’s all-new Anytime Home Broadband Reload Plan’
-
-*2024-07-31 22:49:00* · [`islandlk`](http://island.lk/experience-unmatched-value-with-dialogs-all-new-anytime-home-broadband-reload-plan/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has introduced its latest prepaid Home Broadband Reload plan to cater to the ever-growing Data needs of Sri Lankan households. This plan offers ample data for an entire household with a single monthly reload, ensuring seamless connectivity throughout the day.
-
-Dialog Home Broadband’s new Wi-Fi prepaid reload plan , priced at just Rs. 699 per month, provides 30GB of anytime data, making it one of the best value-for-money home Wi-Fi plans in the market. Designed to meet the entire family’s Wi-Fi demands with the convenience of a single reload, it offers a versatile solution for the whole household’s internet needs.
-
-...
-
-[Data](articles/d10b4766.json)
-
-[Extended Data](ext_articles/d10b4766.ext.json)
-
----
-
-### Discussion with importers on reducing price of milk - Nalin Fernando
-
-*2024-07-31 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189947) · `ta`
-
-Nalin Fernando, Commerce and Food Security Minister, announced plans to reduce milk prices through discussions with importers. He directed the Consumer Affairs Authority to calculate the new price, aiming to offer concessions to consumers.
-
-🟩
-
-Commerce and Food Security Minister Nalin Fernando said on Tuesday (30) that discussions would be held in the next few days on the reduction of the price of milk with milk importers.
-
-Accordingly, the minister said that he was looking forward to cutting the price of milk and issued a directive to the Consumer Affairs Authority to calculate the price.
-
-Minister Naleen Fernando has stated that he will discuss with the importers to provide the necessary concessions to the consumers.
-
-◼️
-
-[Data](articles/7ebde8a8.json)
-
-[Extended Data](ext_articles/7ebde8a8.ext.json)
-
----
-
-### More details revealed after Mawlawi arrested with firearms and ammunition
-
-*2024-07-31 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100904/more-details-revealed-after-mawlawi-arrested-with-firearms-and-ammunition) · `en`
-
-The Police Special Task Force (STF) had arrested a Mawlawi at Navaladi Junction in Oddamavadi while in possession of two T56 firearms and several rounds of ammunition.
-
-The arrested suspect has been handed over to the Terrorism Investigation Division (TID) for further investigations.
-
-The Military Intelligence Corps (MIC) of the Army had provided information to the officers of the Police Special Task Force (STF) camp in Aralaganwila regarding an individual traveling by motorcycle with a firearm in the Navaladi area of Ottamavadi.
-
-Accordingly, the suspect was arrested and a T56 assault rofle, a magazine and 29 rounds of ammunition were recovered from his possession.
-
-Following the information obtained after interrogating the suspect, the STF officers also conducted a raid at his brother’s house, where they found another T56 firearm, a magazine, and 30 rounds of ammunition.
-
-...
-
-[Data](articles/7d439171.json)
-
-[Extended Data](ext_articles/7d439171.ext.json)
 
 ---

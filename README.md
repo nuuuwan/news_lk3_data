@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 11:56:01**
+As of **2024-08-01 12:09:42**
 
 ## Newspaper Stats
 
-*Scraped **38,413** Articles*
+*Scraped **38,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,98 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,318
+economynextcom | 2,321
 dailyftlk | 2,461
 adalk | 3,521
 adaderanalk | 4,438
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,771
+tamilmirrorlk | 4,772
 virakesarilk | 6,071
-adaderanasinhalalk | 6,468
+adaderanasinhalalk | 6,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,410 (100.0%) of 38,413 articles have been extended.
+38,413 (100.0%) of 38,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ඉන්ධන තොග ගැන ඇමති කංචනගෙන් ප්‍රකාශයක්
+### කංජිපානි සහ රොටුඹ අමිලත් කොටුවෙති
+
+*2024-08-01 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199442) · `si`
+
+ලොකු පැටී සමග සිටි කංජිපානි ඉම්රාන් හා රොටුඹ අමිල රුසියාවට පළා ගොස් සිටියදී එරට ආරක්ෂක අංශ මඟින් අත්අඩංගුවට ගෙන ඇති බවද වාර්තා වේ.
+
+කෙසේවෙතත් ඒ පිළිබඳව මෙරට ආරක්ෂක අංශ මෙතෙක් නිල වශයෙන් දැනුම්වත් වී නැහැ.
+
+ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් ඒ පිළිබඳව තහවුරු කරන ලෙස ජාත්‍යන්තර පොලීසියෙන් ඉල්ලීමක් කර තිබේ.
+
+ඉම්රාන් හා රොටුඹ අමිල මාකඳුරේ මධූෂ් සමග ඩුබායීහීදී අත්අඩංගුවට පත්ව මෙරටට පිටුවහල් කළ අතර අනතුරුව ඔවුන් දෙදෙනා අධිකරණයෙන් ඇප ලැබීමෙන් පසුව මෙරටින් පළා ගොස් විදෙස්ගතව සැඟව සිටියේය.
+
+◼️
+
+[Data](articles/2a4bf97b.json)
+
+---
+
+### Support for NPP declines in Sri Lanka general election voting intent poll
+
+*2024-08-01 11:45:00* · [`economynextcom`](https://economynext.com/support-for-npp-declines-in-sri-lanka-general-election-voting-intent-poll-174792/) · `en`
+
+ECONOMYNEXT — Support for Sri Lanka’s National People’s Power (NPP), a leftist political formation, declined in June to 26 percent of  all adult voters surveyed by an independent institute, with the main opposition Samagi Jana Balawegaya (SJB) leading at 38 percent.
+
+The Institute for Health Policy (IHP) which carried out the survey found that support for the NPP dropped by 5 points in June, while the SJB increased its support by 1 percentage point.
+
+The ruling Sri Lanka Podujana Peramuna (SLPP) was at 16 percent, gaining 2 percentage points, and President Ranil Wickremesinghe’s United National Party (UNP) gained one point to reach 7 percent.
+
+The Ilankai Thamil Arasu Kachchi (ITAK) saw its support decrease by 1 point to 3 percent in June.
+
+The IHP said in a statement on Wednesday July 31 that the June estimates are provisional and are associated with a margin of error of 4–5 percent for the two leading parties.
+
+...
+
+[Data](articles/b578f23b.json)
+
+---
+
+### A statement from Minister Kanchanta about fuel stocks
 
 *2024-08-01 11:26:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-තොග-ගැන-ඇමති-කංචනගෙන්-ප්‍රකාශයක්/11-411140) · `si`
 
-අතිරික්ත ඉන්ධන තොග පවතින බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Minister Kanchana Wijesekara announced that there are ample fuel stocks. After reviewing the fuel cargo plan for the next six months, including storage capacity and refinery operations with CPC management, he assured of uninterrupted supply due to buffer stock maintenance.
 
-Reviewed the fuel cargo plan for the next 6 months, stock availability, storage capacity, distribution plan, placement of orders and refinery operations with the CPC management yesterday.
+🟩
 
-The CPC maintains a buffer stock of all products and will continue an uninterrupted supply… pic.twitter.com/zP6ukFLL9A
+Minister of Power and Energy Kanchana Wijesekara said that there are excess fuel stocks.
+
+Reviewed The Fuel Cargo Plan For The Next 6 months, storage capacity, storage capacity, storage caption, and refinery operations with The CPC Management Yesterday.
+
+The CPC Maintains A Buffer Stockn Products and Will Continue an Uninterrupted Supply ... Pic.twitter.com/zp6ukfll9A
 
 ◼️
 
 [Data](articles/675e9538.json)
+
+[Extended Data](ext_articles/675e9538.ext.json)
+
+---
+
+### Sajith surges past AKD, president catching up, Sri Lanka voting intent poll finds
+
+*2024-08-01 11:12:00* · [`economynextcom`](https://economynext.com/sajith-surges-past-akd-president-catching-up-sri-lanka-voting-intent-poll-finds-174789/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa and President Ranil Wickremesinghe gained ground in a voting intent poll for June 2024 with, with the former surpassing leftist candidate Anura Kumara Dissanayake by 13 points, with the latter catching up at only 10 points behind.
+
+The Institute for Health Policy (IHP) which carried out the survey found that support for Premadasa increased to 43 percent (+4) but decreased for Dissanayake to 30 percent (-6) compared to May. Support for President Wickremesinghe increased to 20 percent (+3) whilst a generic Sri Lanka Podujana Peramuna (SLPP) candidate ran at 7 percent (-1).
+
+IHP noted, however, that the June estimates were associated with a substantial increase in model uncertainty, and therefore the two leading candidates remain within the margin of error.
+
+...
+
+[Data](articles/11593a71.json)
 
 ---
 
@@ -68,21 +128,47 @@ The CID had filed these charge sheets against Diana Gamage under the charges inc
 
 ---
 
-### ඉන්දියාව වෙනුවෙන් ක්‍රීඩාකළ සුපිරි පිතිකරුවෙක් දිවියට සමුදෙයි
+### Supermarker who played for India
 
 *2024-08-01 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199441) · `si`
 
-1975 සිට 1987 දක්වා ඉන්දීය ක්‍රිකට් කණ්ඩායම නියෝජනය කළ දක්ෂ පිතිකරුවෙක් වන අන්ෂූමන් ගයික්වාඩ් ජීවිතක්ෂයට පත්ව තිබේ.
+Anil Kumble, former Indian cricketer and coach, passed away in a hospital. He played 40 Tests and 15 ODIs for India from 1990 to 2008.
 
-ඔහු කලක් ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙසද කටයුතු කළේය.
+🟩
 
-රුධිර පිළිකාවෙන් පීඩා විඳි ගයික්වාඩ් බරෝඩා හි රෝහලකදී ජීවිතක්ෂය පත්වී තිබුණි.
+Ancilu Gyakwad, who represented the Indian cricket team from 1975 to 1987, has died.
 
-ඔහු ඉන්දියාව වෙනුවෙන් ටෙස්ට් තරග 40කට සහ එක්දින ජාත්‍යන්තර තරග 15කට ක්‍රීඩා කළේය.
+He was the main coach of the Indian national cricket team.
+
+Gaikwad Bawida was killed in a hospital in Gaikwad Bawada.
+
+He played 40 Tests for India and 15 ODIs.
 
 ◼️
 
 [Data](articles/e6ec1e02.json)
+
+[Extended Data](ext_articles/e6ec1e02.ext.json)
+
+---
+
+### Orthopaedic Clinic gets 13-pct stake in Sri Lanka’s Overseas Realty
+
+*2024-08-01 10:56:00* · [`economynextcom`](https://economynext.com/orthopaedic-clinic-gets-13-pct-stake-in-sri-lankas-overseas-realty-174785/) · `en`
+
+ECONOMYNEXT – Sri Lanka property developer Overseas Realty (Ceylon) Plc said Orthopaedic Clinic Pte Ltd had obtained a 13 percent stake in the company.
+
+Orthopaedic Clinic Pte Ltd purchased 163,032,386 shares at the price of 18.00 rupees on July 31.
+
+The transaction contributed in excess of 2.9 billion rupees and pushed the Colombo Stock Exchange turnover level to 3.9 billion on Wednesday.
+
+“Subsequent to the said transaction our client Orthopaedic Clinic Pte Ltd holds a total of 163,032,386 shares of Overseas Realty (Ceylon) PLC which is 13% of the company’s issued share capital,” the company said in a stock exchange filing.
+
+The company’s property portfolio includes the World Trade Centre in Colombo’s business district, and the 18-acre Havelock City mixed-use development project Havelock City and Mireka Tower. (Colombo/Aug1/2024
+
+◼️
+
+[Data](articles/b8b62bd2.json)
 
 ---
 
@@ -188,15 +274,21 @@ A letter of appointment of UT Santana Jayalal was sent to several officials, inc
 
 ---
 
-### විජයදාස ඇප තියයි
+### Wijeyadasa bail
 
 *2024-08-01 10:31:20* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාස-ඇප-තියයි/11-411139) · `si`
 
-ජාතික ප්‍රජාතන්ත්‍රවාදි පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා ඇප තැන්පත් කර තිබේ.
+Mr. Wijayadasa Rajapaksa, representing the National Democratic Front, has secured bail and is now a presidential candidate.
+
+🟩
+
+Mr. Wijayadasa Rajapaksa has placed bail as the presidential candidate of the National Democader Front.
 
 ◼️
 
 [Data](articles/caae6588.json)
+
+[Extended Data](ext_articles/caae6588.ext.json)
 
 ---
 
@@ -1021,6 +1113,18 @@ From time to time in the rest of the island.. There may be about 30-40 strong wi
 [Data](articles/8b3228df.json)
 
 [Extended Data](ext_articles/8b3228df.ext.json)
+
+---
+
+### கஞ்சிபானி, லொக்கு பட்டி கைது
+
+*2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
+
+கோடீஸ்வர வர்த்தகர் சுரேந்திர வசந்த பெரேரா அல்லது கிளப் வசந்தவின் கொலையின் மூளையாக கருதப்படும் பாதாள உலக தலைவர் கஞ்சிபானி இம்ரான் மற்றும் பாதாள உலக உறுப்பினர் லொக்கு பட்டி நாமத்த ஆகியோர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/27cb0f6e.json)
 
 ---
 
@@ -2085,117 +2189,5 @@ He has said that due to firearms to fire, he had placed the weapons from a forme
 [Data](articles/44d38ce4.json)
 
 [Extended Data](ext_articles/44d38ce4.ext.json)
-
----
-
-### President to support Freedom Party
-
-*2024-07-31 19:58:26* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-සහාය-ජනපති-රනිල්ට/11-411133) · `si`
-
-President Ranil Wickremesinghe, leading Sri Lanka Freedom Party (SLFP), announced his candidacy for the upcoming presidential election, receiving support from the party's Central and Executive Committees.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) supported by President Ranil Wickremesinghe today (31)
-
-The Central Committee and the Executive Committee met if a candidate would be presented in the next presidential election and whether another candidate would support another candidate.
-
-According to the discussions, the central committee had been handed over to President Ranil Wickremesinghe this evening.
-
-◼️
-
-[Data](articles/020eb880.json)
-
-[Extended Data](ext_articles/020eb880.ext.json)
-
----
-
-### A compulsory order issued by the court to doctor Arjuna
-
-*2024-07-31 19:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-நீதிமன்றம்-வழங்கிய-கட்டாய-உத்தரவு/71-341362) · `ta`
-
-The court has postponed the trial against Dr. Ramanathan Archana, former Medical Superintendent of Chavakachcheri Hospital, until September 11. The judge ordered her to present evidence regarding social media allegations. Five complaints were filed against her by hospital doctors. Despite lawyers' attempts to transfer the case to another council, objections were raised due to lack of evidence from visitors to the police station. The case will resume on September 11.
-
-🟩
-
-The trial against the former Medical Superintendent of the Chavakachcheri Hospital Ramanathan Archana has been postponed till September 11.
-
-During the next case, the court also ordered the doctor's Archana to submit evidence of the allegations made on social media.
-
-The doctors of the Chavakachcheri Resource Hospital have filed five complaints in court against the activities of the former Medical Superintendent.
-
-During today's hearing, both sides of the lawyer S. Selalsin, who appeared in the House on behalf of the former Medical Superintendent, presented the case and presented submissions to the House to transfer the case to the council.
-
-Attorneys on behalf of the complainants have objected to it and have been accused of not providing evidence of those who have visited the former Medical Superintendent Police Station.
-
-The magistrate has subsequently adjourned the case to September 11. Remble
-
-◼️
-
-[Data](articles/616097f3.json)
-
-[Extended Data](ext_articles/616097f3.ext.json)
-
----
-
-### Six of the presidential election deposits
-
-*2024-07-31 19:44:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-6ක්-ඇප-තැන්පත්-කරයි/11-411131) · `si`
-
-By the deadline, six candidates including President Ranil Wickremesinghe and Sajith Premadasa have submitted their deposits for the 31st presidential election. Four political parties have endorsed independent candidates, and two electorates have voted for two candidates.
-
-🟩
-
-The Elections Commission states that six candidates have deposited by six candidates by the 31st presidential election.. On the 26th, the 26th of the 26th President Ranil Wickremesinghe and four candidates have been buried.
-
-Today, the deposit of Sajith Premadasa and another candidate have been deposited.
-
-Accordingly, four recognized political parties have backed up as independent candidates.. Two electorates have been deposited by two voters for the two candidates.
-
-◼️
-
-[Data](articles/02f98ca0.json)
-
-[Extended Data](ext_articles/02f98ca0.ext.json)
-
----
-
-### Police launch of Police Elections for the Presidential Election
-
-*2024-07-31 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-අදාළව-පොලිස්-මැතිවරණ-මෙහෙයුම්-මැදිරි-අරඹයි/11-411130) · `si`
-
-The Police Election Operations Compartment for the upcoming Presidential Election has been launched, with electoral units set up at police stations nationwide under officer supervision.
-
-🟩
-
-Acting Police Media Spokesperson DIG's Court Ruwan Gunasekera said that the election operations compartment of the presidential election has been launched.
-
-When an election is published, electoral operating compartments will be established at the police station level.These elections will be established under the supervision of the officers in charge of the officers. Accordingly, the compartments have been established at police stations.
-
-◼️
-
-[Data](articles/c54b4355.json)
-
-[Extended Data](ext_articles/c54b4355.ext.json)
-
----
-
-### SLFP leadership meets President, express support for election
-
-*2024-07-31 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100902/slfp-leadership-meets-president-express-support-for-election) · `en`
-
-The Central Committee of the Sri Lanka Freedom Party (SLFP) today met with President Ranil Wickremesinghe and expressed their unwavering support for his victory in the forthcoming presidential election, according to the President’s Media Division.
-
-The SLFP’s Politburo and Central Committee had convened a meeting this evening (31) and a final decision was reached support President Wickremesinghe at the upcoming election.
-
-MP Duminda Dissanayake further stated that, “Only the incumbent President Ranil Wickremesinghe has made a request in writing asking for our support.”
-
-Meanwhile, 92 Members of Parliament including Ministers and State Ministers recently met with Wickremesinghe and pledged their support for the President in the upcoming presidential election to ensure his victory.
-
-...
-
-[Data](articles/be91b875.json)
-
-[Extended Data](ext_articles/be91b875.ext.json)
 
 ---

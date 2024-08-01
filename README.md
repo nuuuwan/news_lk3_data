@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 12:53:52**
+As of **2024-08-01 13:05:49**
 
 ## Newspaper Stats
 
-*Scraped **38,430** Articles*
+*Scraped **38,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,75 @@ islandlk | 2,204
 economynextcom | 2,322
 dailyftlk | 2,461
 adalk | 3,522
-adaderanalk | 4,440
+adaderanalk | 4,441
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,772
 virakesarilk | 6,077
-adaderanasinhalalk | 6,471
+adaderanasinhalalk | 6,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,426 (100.0%) of 38,430 articles have been extended.
+38,430 (100.0%) of 38,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### පතිරණ ට සහ මදුශංක ට එක්දින තරගාවලිය අහිමිවෙයි
+### Killing of Hamas chief in Iran stirs fears of retaliation
+
+*2024-08-01 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100912/killing-of-hamas-chief-in-iran-stirs-fears-of-retaliation) · `en`
+
+Hamas leader Ismail Haniyeh was assassinated in the Iranian capital Tehran early on Wednesday morning, an attack that drew threats of revenge on Israel and fuelled further concern that the conflict in Gaza was turning into a wider Middle East war.
+
+The Palestinian Islamist militant group and Iran’s Revolutionary Guards confirmed Haniyeh’s death. The Guards said it took place hours after he attended a swearing-in ceremony for Iran’s new president.
+
+Although the strike on Haniyeh was widely assumed to have been carried out by Israel, Prime Minister Benjamin Netanyahu’s government made no claim of responsibility and said it would make no comment on the killing.
+
+Haniyeh was killed by a missile that hit him “directly” in a state guesthouse where he was staying, senior Hamas official Khalil Al-Hayya told a news conference in Tehran, quoting witnesses who were with Haniyeh.
+
+...
+
+[Data](articles/4f80a6fd.json)
+
+---
+
+### හෝටල් සේවකයෙක් අබිරහස් ලෙස මරුට
+
+*2024-08-01 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199445) · `si`
+
+ගල්කිරියාගම පොලිස් වසමේ බලලුවැව ප්‍රදේශයේ නිවසක ඇඳක් මත සැකකටයුතු ලෙස පුද්ගලයෙකු මියගොස්  තිබේ.
+
+ඊයේ (31) ගල්කිරියාගම පොලීසියට ඒ සම්බන්ධයෙන් ලද පණිවුඩයක් මත පොලීසිය විසින් විමර්ශන ආරම්භ කර තිබුණි.
+
+මෙලෙස මිය ගොස් ඇත්තේ, 56 හැවිරිදි ජයමාවත හංදිය, බලලුවැව ප්‍රදේශයේ තාවකාලිකව පදිංචි වී සිටි කලාවැව, අනුරාධපුර ප්‍රදේශයේ  පදිංචිකරුවෙකි.
+
+මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීත්ෂණය සිදුකර දඹුල්ල රෝහලේ තැන්පත් කර ඇති අතර ගල්කිරියාගම පොලීසිය විසින් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/cbef7b36.json)
+
+---
+
+### Pathirana and Mahanda ODI will lose
 
 *2024-08-01 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199444) · `si`
 
-ආබාධයන්ට ලක්වීම හේතුවෙන් වේගපන්දු යවන්නන් වන මතීෂ පතිරණ සහ ඩිල්ෂාන් මදුශංක ඉන්දියාව සමග පැවැත්වෙන එක්දින ජාත්‍යන්තර තරගාවලිය සඳහා සහභාගී නොවන බව වාර්තා වෙයි.
+Fast bowlers Valley Mathee Pathirana and Dilshan Madushanka will miss the upcoming three-match International Cricket series against India due to undisclosed reasons. The series opener is scheduled for tomorrow at the Colombo Dittarama Cricket Stadium.
 
-තරග තුනකින් සමන්විත එක්දින ජාත්‍යන්තර තරගාවලියේ පළමු තරගය හෙට (02) කොළඹ ඛෙත්තාරාම ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+🟩
+
+It is reported that fast bowler Valley Mathee Pathirana and Dilshan Madushanka will not participate in the International Competition with India.
+
+The first match of the three-match International Competition will be held tomorrow (02) at the Colombo Dittarama Cricket Stadium in Colombo.
 
 ◼️
 
 [Data](articles/0560ac94.json)
+
+[Extended Data](ext_articles/0560ac94.ext.json)
 
 ---
 
@@ -61,6 +103,8 @@ The Payagala Police are continuing further investigations into the matter.
 ◼️
 
 [Data](articles/d1b1ac1b.json)
+
+[Extended Data](ext_articles/d1b1ac1b.ext.json)
 
 ---
 
@@ -83,6 +127,8 @@ The government can also buy the dollars by raising funds from the sale of Treasu
 ...
 
 [Data](articles/261abce6.json)
+
+[Extended Data](ext_articles/261abce6.ext.json)
 
 ---
 
@@ -790,19 +836,33 @@ The intelligence agency has said that steps have been taken to increase the safe
 
 ---
 
-### පොලොන්නරුවටම අයිස් බෙදූ පැලවත්තේ චමින්ද අල්ලයි
+### Chaminda also seized from the Polonnaruwa Polonuwa
 
 *2024-08-01 09:58:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවටම-අයිස්-බෙදූ-පැලවත්තේ-චමින්ද-අල්ලයි/11-411136) · `si`
 
-ප්‍රධාන පෙළේ හෙරොයින් ජාවාරම්කරුවකු වු අනුවර්ත නාමයකින් ප්‍රසිද්ධව සිටි පැලවත්තේ චමින්ද, ඇතුළු තිදෙනෙකු 31   වෙනිදා සවස පොළොන්නරුව සිරිපුර පලුදෙනිය ප්‍රදේශයේ නිවසක සැඟව සිටියදී හෙරොයින් සමඟ අත්අඩංගුවට ගත් බව සිරිපුර පොලිසිය කියයි.
+In a significant crackdown on drug trafficking in the Polonnaruwa area, authorities arrested four individuals, including a major heroin and ice dealer. The operation, led by Acting OIC Inspector RMSI Rajapaksa, involved a substantial effort to apprehend the suspects, who attempted to evade capture. The main suspect, known for distributing drugs across Colombo, was found with 5 milligrams of heroin upon arrest. Three additional suspects were also detained, each possessing varying amounts of heroin. Investigations into the main suspect's activities in the Ellawewa and Siriwara areas are ongoing, with the individual facing multiple outstanding warrants.
 
-කොළඹ කළුබෝවිල සිට පොළොන්නරුව ප්‍රදේශයේ ඇතුළු ප්‍රදේශ රැසකට හෙරොයින් සහ අයිස් බෙදාහැරීමේ ප්‍රධාන ජාවාරම්කරුවකු බවත්, ඔහු අවස්ථා කිහිපයකදීම පොළොන්නරුවට පැමිණ සිටියදි අත්අඩංගුවට ගැනීම සඳහා රැකවල් යොදා සිටියද එය ව්‍යාර්ථ වූ අතර මෙම ජාවාරම්කරුවා තවත් හෙරොයින් ජාවාරම්කරුවන් තිදෙනකු සමග සිරිපුර පළුදෙණිය නිවසක රැඳී සිටියදි අත්අඩංගුවට ගැනීමට හැකියාව ලැබුණු බව සිරිපුර වැඩබලන පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක ආර්.එම්.එස්.අයි. රාජපක්ෂ මහතා අප කළ විමසීමකදි සඳහන් කළේය.
+🟩
 
-සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා විශාල පරිශ්‍රමයක් සහ වෙහෙසක් දැරීමට සිදු වු බවත්, ඔවුන් අත්අඩංගුවට ගැනීමට යෑමේදී රැඳී සිටි නිවසේ වහල මත නැග බිමට පැනයක් පලා යෑමට උත්සාහ ගත් බවද පොලිසිය කියයි.
+Siripura Police say three including three persons who were famous in the forest of heroin racketeer.
+
+Heroin and ice is a major dealer of heroin and ice in the Polonnaruwa area in Colombo, but the racketeer has been able to arrest the racket with another three heroin racketeers.Acting OIC Inspector RMSI. Mr. Rajapaksa said in a query.
+
+The police say that the suspects had to be a large effort and effort to the arrest of the suspects and tried to flee a question to the ground.
+
+He added that when the main suspect was arrested, he had the five millile grams, and the other three other suspects had 40 milligrams of heroin.
+
+The main suspect in the Ellawewa area of ​​the Ellawewa area of ​​Ellawe and Siriwara area, the Siriwara Police are investigating.
+
+The main suspect had three open warrants at the Aralaganwila police and he was hiding in various areas for many years.
+
+Tests have revealed that he had been distributed to heroin and ice to several areas in Colombo, a resident of Colombo, police said.
 
 ...
 
 [Data](articles/e646f5ef.json)
+
+[Extended Data](ext_articles/e646f5ef.ext.json)
 
 ---
 
@@ -2149,53 +2209,5 @@ Following the information obtained after interrogating the suspect, the STF offi
 [Data](articles/7d439171.json)
 
 [Extended Data](ext_articles/7d439171.ext.json)
-
----
-
-### Sri Lanka Freedom Party supports President Ranil Wickremesinghe
-
-*2024-07-31 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189943) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the 2024 presidential election after a meeting where the party's stance towards him was discussed.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the 2024 presidential election.
-
-The Sri Lanka Freedom Party (SLFP) political organization and the central committee met on Wednesday afternoon and made a final decision on the issue.
-
-The decision was made during a discussion that followed the party's ideas to the President.
-
-◼️
-
-[Data](articles/1f6b1a20.json)
-
-[Extended Data](ext_articles/1f6b1a20.ext.json)
-
----
-
-### Do not submit the Corruption Bill before the election
-
-*2024-07-31 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189931) · `ta`
-
-A young parliamentarian urges President Ranil Wickremesinghe to delay submitting the Corruption Bill to the Cabinet until after the upcoming election. The President plans to consult with senior ministers and make a decision within two days.
-
-🟩
-
-A young parliamentarian has asked President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet.
-
-The young MP, which is widely spoken of these days, has been completed as the Corruption Bill will be submitted to the Cabinet within the next two weeks.. He has made this request.
-
-Recently, a Member of Parliament has called for President Ranil Wickremesinghe to be sent to the Cabinet before the presidential election before the presidential election.
-
-President Ranil Wickremesinghe will discuss with the senior ministers of the government and take a decision within the next two days, according to the Presidential Secretariat.
-
-It is noteworthy that the Cabinet decision was announced at a press conference announcing that the Corruption Bill would be passed in the Cabinet under the administration of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/0b6f0c67.json)
-
-[Extended Data](ext_articles/0b6f0c67.ext.json)
 
 ---

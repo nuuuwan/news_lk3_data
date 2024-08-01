@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 00:09:20**
+As of **2024-08-02 00:20:49**
 
 ## Newspaper Stats
 
-*Scraped **38,525** Articles*
+*Scraped **38,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,461
 adalk | 3,540
 adaderanalk | 4,455
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,788
+tamilmirrorlk | 4,789
 virakesarilk | 6,094
 adaderanasinhalalk | 6,494
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,524 (100.0%) of 38,525 articles have been extended.
+38,525 (100.0%) of 38,526 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-02 (Friday)
+
+### போர் பதட்டம் குறித்து இலங்கை அவதானம்
+
+*2024-08-02 00:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்-பதட்டம்-குறித்து-இலங்கை-அவதானம்/175-341438) · `ta`
+
+மத்திய கிழக்கில் நிலவும் போர் பதட்ட நிலை தொடர்ந்தால் அதனை எதிர்கொள்வது தொடர்பில் முன்கூட்டிய தயார்நிலைக்காக மூன்று விசேட குழுக்களை நியமிக்க ஜனாதிபதி ரணில் விக்ரமசிங்க எடுத்த தீர்மானம், மிகவும் சரியானதாகும் என வெளிநாட்டலுவல்கள் அமைச்சரும் ஜனாதிபதி சட்டத்தரணியுமான அலி சப்ரி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இதனைத் தெரிவித்தார்.
+
+2022 இல், இந்நாட்டில் எரிபொருள் தட்டுப்பாடு ஏற்பட்டது. பல்வேறு காரணங்கள் அதற்கு பங்களித்தன. ரஷ்யா - உக்ரைன் போர் காரணமாக, எரிபொருள் விலை அதிகரித்தது. நிலக்கரி, கோதுமை மா போன்றவற்றின் விலைகளும் அதிகரித்தன. விலைவாசி உயர்வை தாங்க முடியாமல் நாடு நெருக்கடிக்கு தள்ளப்பட்டது.
+
+கற்றுக்கொண்ட பாடங்களை கருத்திற்கொண்டு, மீண்டும் அவ்வாறானதொரு நிலை ஏற்படாமல் தடுப்பதற்கான முன் ஆயத்தமாக ஜனாதிபதி இவ்வாறு குழுக்களை நியமிப்பது மிகவும் பொருத்தமானது என்பதைக் கூற வேண்டும் என்றார். R
+
+◼️
+
+[Data](articles/72628e63.json)
+
+---
 
 ### 2024-08-01 (Thursday)
 
@@ -811,6 +831,8 @@ The interest rates will be decided closer to the finalization of the Trust Deed 
 ◼️
 
 [Data](articles/70fb2799.json)
+
+[Extended Data](ext_articles/70fb2799.ext.json)
 
 ---
 
@@ -2275,29 +2297,5 @@ Police investigations have revealed that the deceased was assaulted by his wife'
 [Data](articles/98cc7e2a.json)
 
 [Extended Data](ext_articles/98cc7e2a.ext.json)
-
----
-
-### Kaviani and Rotumba Amila
-
-*2024-08-01 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199442) · `si`
-
-Kaviani Imran and Rotumba Amila have been arrested but the official confirmation from the country's security forces is pending. The International Police have asked for verification. They were later deported to Sri Lanka after being released on bail.
-
-🟩
-
-It is reported that KJCani Imran and Rotumba Amila has been arrested by the security forces.
-
-However, the security forces of the country has not yet been officially informed.
-
-Accordingly, the International Police has requested the International Police to confirm this.
-
-Imran and Rotumba Amila Maduwe Madusurai Madusurai madusurai were deported and deported to Sri Lanka and followed the abroad after the bail of court.
-
-◼️
-
-[Data](articles/2a4bf97b.json)
-
-[Extended Data](ext_articles/2a4bf97b.ext.json)
 
 ---

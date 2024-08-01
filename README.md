@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 05:39:04**
+As of **2024-08-01 06:06:02**
 
 ## Newspaper Stats
 
-*Scraped **38,343** Articles*
+*Scraped **38,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,456
+dailyftlk | 2,461
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,109 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,343 (100.0%) of 38,343 articles have been extended.
+38,343 (100.0%) of 38,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### Construction PMI records highest index value in 30 consecutive survey rounds
+
+*2024-08-01 05:02:37* · [`dailyftlk`](https://www.ft.lk/business/Construction-PMI-records-highest-index-value-in-30-consecutive-survey-rounds/34-765017) · `en`
+
+Firms remain cautious on potential uncertainty associated with upcoming election
+
+Sri Lanka Purchasing Managers’ Index for Construction (PMI – Construction) indicates an expansion in construction activities in June 2024, as reflected by the total activity index which recorded an index value of 59.5.
+
+The Central Bank said this was its highest index value in 30 consecutive survey rounds.
+
+Many respondents highlighted that the industry is mainly driven by projects funded by multilateral agencies, particularly related to road rehabilitation and water distribution.
+
+New orders increased at a higher rate in June, indicating a positive outlook for future industry activity.
+
+However, employment remained contracted during the month, yet at a slower rate compared to the previous month.
+
+Meanwhile, the quantity of purchases increased with the accelerated demand for input materials.
+
+Further, many respondents mentioned that the price levels of most of the construction materials are in a declining trend.
+
+...
+
+[Data](articles/e10a008e.json)
+
+---
+
+### Colombo Dockyard marks 50th anniversary
+
+*2024-08-01 05:01:55* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-marks-50th-anniversary/34-765016) · `en`
+
+MD/CEO Thimira S. Godakumbura says company has stood as shining example of resilience, innovation, and excellence in maritime industry
+
+The Colombo Dockyard PLC celebrates its 50th anniversary today, and Managing Director and CEO Thimira S. Godakumbura emphasised that the company has stood as a shining example of resilience, innovation, and excellence in maritime industry.
+
+Looking upon and reflecting on the Colombo Dockyard PLC odyssey, Godakumbura said over the last five decades, Colombo Dockyard has stood as a shining example of resilience, innovation, and excellence in maritime industry, not just in Sri Lanka, but on the global stage as well.
+
+...
+
+[Data](articles/6c07bd73.json)
+
+---
+
+### Oneroad Group DMCC – Dubai delegation explores investment opportunities in Sri Lanka
+
+*2024-08-01 04:58:35* · [`dailyftlk`](https://www.ft.lk/business/Oneroad-Group-DMCC-Dubai-delegation-explores-investment-opportunities-in-Sri-Lanka/34-765015) · `en`
+
+A 12-member delegation from Oneroad Group DMCC Dubai, a leading consortium specialising in global investments, concluded a successful visit to Sri Lanka from 7 to 14 July 2024.
+
+The delegation led by Oneroad Group CEO Chenling Zhang focused on sectors crucial to Sri Lanka’s economic development, including tourism, minerals, transportation, and the Colombo Port City project. The delegation was accompanied by Ambassador of Sri Lanka to the United Arab Emirates Udaya Indrarathna.
+
+...
+
+[Data](articles/0699da69.json)
+
+---
+
+### President secures backing from 116 ex-Provincial Council members
+
+*2024-08-01 04:54:25* · [`dailyftlk`](https://www.ft.lk/news/President-secures-backing-from-116-ex-Provincial-Council-members/56-765014) · `en`
+
+At least 116 out of 455 former PC members from SLPP and UNP extends support to President Ranil Wickremesinghe
+
+Endorses proposal to consider President Ranil Wickremesinghe’s victory in upcoming Presidential poll as a significant achievement
+
+President reveals plans to delegate responsibilities to all ten governing bodies, including nine Provincial Governments and Central Government
+
+Announces PC polls will be held under 1988 system following Presidential polls
+
+At least 116 out of 455 former Provincial Council Representatives from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have expressed their support to President Ranil Wickremesinghe ahead of the upcoming Presidential election.
+
+The group expressed their support to the President during a meeting between the President and former Provincial Council representatives from the two parties in Battaramulla yesterday.
+
+...
+
+[Data](articles/cc602db7.json)
+
+---
+
+### Karu calls for resolution of Acting IGP appointment dispute
+
+*2024-08-01 04:53:41* · [`dailyftlk`](https://www.ft.lk/news/Karu-calls-for-resolution-of-Acting-IGP-appointment-dispute/56-765013) · `en`
+
+Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya has called on all relevant parties to resolve the dispute in connection to the appointment of an Acting Inspector General of Police.
+
+In a statement, Jayasuriya said it is vital that the Executive, Legislature and Judiciary work in harmony to ensure a free and fair Presidential Election.
+
+“The Constitutional Council chaired by the Speaker too has a national role and we have conveyed options available to the President to resolve this issue. We have also observed that despite the enforcement of the 21st Amendment to the Constitution, a vacancy still remains in the Constitutional Council,” he said.
+
+Jayasuriya noted that the failure to appoint a new member to the vacancy is deeply affecting the performance of the Council in carrying out its duties.
+
+“If the full cadre of 10 members were properly constituted earlier, embarrassing situations would not have arisen,” he said.
+
+...
+
+[Data](articles/a1821cc7.json)
+
+---
 
 ### SLFP Central Committee expresses support for President: PMD
 
@@ -2123,131 +2221,5 @@ Nevertheless, the letter of Prasanna Ranatunga has noted that he is still a part
 [Data](articles/1055d376.json)
 
 [Extended Data](ext_articles/1055d376.ext.json)
-
----
-
-### The three armed forces hold 270 kilos of heroin
-
-*2024-07-31 13:53:50* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ත්‍රිවිධ-හමුදාව-හෙරොයින්-කිලෝ-270ක්-අල්ලලා/11-411119) · `si`
-
-The Defense Ministry, led by Secretary General (Retired) Kamal Gunaratne, has made significant strides in combating drug trafficking, with the seizure of over 270 kilograms of heroin among other substances. They've also focused on medical rehabilitation for war veterans, providing education opportunities, and addressing human trafficking. Additionally, efforts are underway to improve healthcare infrastructure, with projects like constructing buildings at Matara Hospital and enhancing educational facilities at the Sri Lanka Defense University. The ministry is also involved in disaster management and relief, highlighting its comprehensive approach to national security and development.
-
-🟩
-
-Defense Ministry Secretary General (Retired) Kamal Gunaratne said that the medical rehabilitation of the Defense Ministry and the intervention of the Defense Ministry, including the medical rehabilitation and the health of the war.
-
-He said that the Ministry of Defense has taken steps to ensure a good and safe environment for the people that the country is economically politically.
-
-Secretary to the Ministry of Defense (Retired) Secretary General (Retired) Kamal Gunaratne made this statement participating at a press conference held at the Presidential Media Center by two years.
-
-He added that the large number of students have been given the opportunity to study the quality of educational facilities at the Sri Lanka Defense University.
-
-Speaking further, Defense Secretary General General (Retired) Kamal Gunaratne said,
-
-The Vision 'Every Sacred Area' has taken a lot of measures to stabilize the country economically and politically in the past two years.
-
-...
-
-[Data](articles/cfd08ff2.json)
-
-[Extended Data](ext_articles/cfd08ff2.ext.json)
-
----
-
-### Membership of the Scout Movement to be douby
-
-*2024-07-31 13:40:37* · [`adalk`](https://www.ada.lk/breaking_news/බාලදක්ෂ-ව්‍යාපාරයේ-සාමාජිකත්වය-දෙගුණ-කිරිමට-යයි/11-411118) · `si`
-
-President Ranil Wickremesinghe aims to bolster youth organizations like the Scout Movement and Youth Corps, allocating funds for their development. He highlighted the importance of these groups in strengthening the nation and contributing to its progress. The President also emphasized the role of youth organizations in drug prevention and expressed support for a new building for the Scout Association.
-
-🟩
-
-Organizations, including scout movement, strengthens the country and contributes to the country's progress
-
-New building for the Scout Association
-
-President Ranil Wickremesinghe said that his aim was to strengthen the youth organizations, such as the Scout Movement, and Youth Corps.
-
-The President pointed out that the government has already allocated the necessary funds for this purpose, the President said that it would be allocated before.
-
-President Ranil Wickremesinghe was speaking at a ceremony held at the Bandaranaike Memorial International Conference Hall today (31) to preside presidential medals of the Sri Lanka Inferior Tierce Association.
-
-The President also supports the support of Rs. 150,000.
-
-The President also pointed out that the drug prevention is also available through youth organizations such as Scouting, Cadet Corps and Youth Corps.
-
-The presidential medals presented to 2000 younger talents was chaired by President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/227989b3.json)
-
-[Extended Data](ext_articles/227989b3.ext.json)
-
----
-
-### Do not submit the Corruption Bill: Invite the President
-
-*2024-07-31 13:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-ஒழிப்பு-சட்டமூலம்-சமர்ப்பிக்க-வேண்டாம்-ஜனாதிபதிக்கு-அழைப்பு/175-341345) · `ta`
-
-A young parliamentarian urges President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet before the upcoming presidential election. The President plans to consult with senior ministers and make a decision within two days.
-
-🟩
-
-A young parliamentarian has asked President Ranil Wickremesinghe not to submit the Corruption Bill to the Cabinet.
-
-The young MP, who is currently meeting, has made this request as all measures to be taken to submit the Corruption Bill within the next fifteen days.
-
-Parliamentarian Ranil Wickremesinghe has called on President Ranil Wickremesinghe and requested not to submit the Corruption Bill to the Cabinet before the presidential election.
-
-President Ranil Wickremesinghe will discuss with the senior ministers of the government and take a decision within the next two days, according to the Presidential Secretariat.
-
-It was earlier announced at a press conference announcing the Cabinet decisions that the Corruption Bill would be submitted to the Cabinet under the administration of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/78d78c9a.json)
-
-[Extended Data](ext_articles/78d78c9a.ext.json)
-
----
-
-### Two arrested with firearms
-
-*2024-07-31 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199408) · `si`
-
-A Molevian and his brother were arrested in Otamavadi by the Aralaganwila STF for possessing 60 TABs and a sword, based on military intelligence tips.
-
-🟩
-
-The Police Media Division states that a Molevian and his brother have been arrested in the Otamavadi area.
-
-The suspects were taken into custody by the Aralaganwila Police Special Task Force (STF) officials of the Aralaganwila Police Special Task Force (STF) with 60 TAB and a sword on information received by the military intelligence.
-
-◼️
-
-[Data](articles/5ea39e85.json)
-
-[Extended Data](ext_articles/5ea39e85.ext.json)
-
----
-
-### Bus strike on 138 Kadawatha–Pettah route
-
-*2024-07-31 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100893/bus-strike-on-138-kadawathapettah-route-) · `en`
-
-The commuters traveling on the 138 route have experienced significant difficulties owing to the strike launched by the private bus operators on the Kadawatha – Pettah route (138), who have withdrawn from passenger transport services since this morning (31).
-
-Accordingly, all the private bus operators on the Kadawatha – Pettah, Weliweriya – Pettah and Pettah - Kirillawala routes have withdrawn from passenger transport service since this morning.
-
-Reportedly, several buses belonging to the Sri Lanka Transport Board (SLTB) were deployed promptly to ease the situation that had arisen due to the ongoing strike.
-
-The bus owners on the 138 route stressed that their income has been greatly affected by the granting of permission for several new buses to operate on the Kiribathgoda - Pettah route.
-
-...
-
-[Data](articles/5f0a041a.json)
-
-[Extended Data](ext_articles/5f0a041a.ext.json)
 
 ---

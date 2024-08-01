@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 09:36:12**
+As of **2024-08-01 09:55:17**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 6,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,375 (100.0%) of 38,377 articles have been extended.
+38,377 (100.0%) of 38,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### උතුරු මුහුදේ සිදුවු අනතුරකින් ඉන්දීය ධීවරයෙක් මරුට
+### Indian fisherman killed in northern seas
 
 *2024-08-01 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199435) · `si`
 
-ඩෙල්ෆ් දූපත ආසන්නයේ මෙරට මුහුදු සීමාවේ දී සිදුවු අනතුරකින් ඉන්දීය ධීවරයෙකු මියගොස් තවත් අයෙකු අතුරුදන්ව තිබේ.
+An Indian fisherman was killed and another went missing in a boat crash near Delft Island while attempting to arrest illegal fishermen. The incident occurred as four fishermen fell into the sea; one died en route to the hospital. Search efforts continue for the missing fisherman.
 
-නාවික හමුදාව සඳහන් කළේ, නීතිවිරෝධී ලෙස මෙරට මුහුදු සීමාවට ඇතුළු වූ ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යාමේ දී ඔවුන් ගමන්ගත් යාත්‍රාව පෙරළී මෙම අනතුර සිදුව ඇති බවය.
+🟩
 
-අනතුරෙන් ධීවරයින් සිව්දෙනෙකු මුහුදට වැටී ඇති අතර ඉන් තිදෙනෙකු බේරාගෙන පුන්කුඩතිව් රෝහලට ඇතුළත් කිරීමේ දී එක් අයෙකු මියගොස් තිබේ.
+Indian fisherman has been killed and another disappeared in a crash near the Delft Island.
 
-අනෙක් ධීවරයා සෙවීමේ කටයුතු තවදුරටත් සිදුකෙරෙන බව නාවික හමුදාව සඳහන් කළේය.
+The navy said the accident had taken place when they were traveling to arrest a group of Indian fishermen who were illegally entered the country's waters.
+
+Four fishermen have fallen into the sea and the victim has died in rushing to the Punchankathiv hospital.
+
+The search for the other fisherman said that the search for the other fishermen further stated.
 
 ◼️
 
 [Data](articles/786cbc6c.json)
 
+[Extended Data](ext_articles/786cbc6c.ext.json)
+
 ---
 
-### පොළොන්නරුවෙන් ඇසුණු වෙඩි හඬ
+### Shots heard from Polonnaruwa
 
 *2024-08-01 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199434) · `si`
 
-පොළොන්නරුව පොලිස් වසමේ සේවාගම ප්‍රදේශයේ පුද්ගලයෙකු වෙඩි වැදීමකින් රෝහල්ගත කර තිබේ.
+In Polonnaruwa, a 46-year-old man was shot and hospitalized. The incident is under investigation by the local police. The victim's wife mentioned he was stressed and had attempted suicide after the shooting.
 
-එම පුද්ගලයාව රෝහල්ගත කළ බවට ලද තොරතුරක් අනුව පොළොන්නරුව පොලීසිය විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-එලෙස තුවාල ලබා ඇත්තේ අවුරුදු 46ක් වූ සේවාගම, පොළොන්නරුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A man was hospitalized by a shooting in the area of ​​Polonnaruwa police division.
 
-තුවාලකරු වඳුරන් පැන්නීමට තම බලපත්‍ර සහිත බෝර 12 ගිනිඅවිය රැගෙන ඉඩමේ යමින් සිටිය දී පය පැටලී ගිනිඅවිය ක්‍රියාත්මක වී වෙඩිවැදීම සිදුව ඇති බවට බිරිඳ විසින් ප්‍රකාශයක් ලබාදී තිබේ.
+The Polonnaruwa Police are conducting further information that the person was hospitalized.
 
-තුවාලකරු ව්‍යාපාරික ණය හේතුවෙන් දැඩි මානසික පීඩනයකින් පසුවු බවට අනාවරණය වී ඇති අතර, මේ හේතුවෙන් වෙඩි තබාගෙන සියදිවි හානි කර ගැනීමට උත්සාහ කර ඇති ද යන්න සම්බන්ධයෙන් ද පොලීසිය සැකකරනු ලබයි.
+The injured were a 46-year-old resident of Polonnaruwa.
+
+The wife has made a statement that the firearr has been implemented in carrying out the 12-bore walls of the firearms with the casual monkeys.
+
+The injured has been revealed that the casualty was stressful due to stress due to the shooting and had attempted to commit suicide.
 
 ◼️
 
 [Data](articles/3fcbdc07.json)
+
+[Extended Data](ext_articles/3fcbdc07.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 16:36:09**
+As of **2024-08-01 16:54:18**
 
 ## Newspaper Stats
 
-*Scraped **38,472** Articles*
+*Scraped **38,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
 adalk | 3,530
-adaderanalk | 4,444
+adaderanalk | 4,445
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
@@ -26,47 +26,77 @@ adaderanasinhalalk | 6,480
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,468 (100.0%) of 38,472 articles have been extended.
+38,472 (100.0%) of 38,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### විදෙස් රැකියා වංචා සම්බන්ධයෙන් තිදෙනෙක් අත්අඩංගුවට
+### New SDIG appointed to cover administration duties
+
+*2024-08-01 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100917/new-sdig-appointed-to-cover-administration-duties) · `en`
+
+The National Police Commission has appointed Senior Deputy Inspector General of Police (SDIG) Lalith Pathinayake to cover the duties of Senior DIG Administration.
+
+◼️
+
+[Data](articles/a5db5a3a.json)
+
+---
+
+### Three arrested over foreign employment fraud
 
 *2024-08-01 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199453) · `si`
 
-කැනඩාව, ඔස්ට්‍රේලියාව, ජර්මනිය, ඉතාලිය හා ඩුබායි හි රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවන් දෙදෙනෙකු ඇතුළු තිදෙනෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ඊයේ (31) අත්අඩංගුවට ගෙන තිබේ.
+Three women involved in foreign employment fraud, including two expecting jobs in Canada, Australia, Germany, Italy, and Dubai, were arrested by Sri Lanka's Special Investigation Division. They ran a job center without a valid license, holding 13 passports and 11 bio-data sheets for overseas employment. The suspects will face charges in court.
 
-කාර්යාංශයේ වලංගු රැකියා ඇණවුමක් නොමැතිව කැනඩාව, ඔස්ට්‍රේලියාව, ඉතාලිය යන රටවල රැකියා ලබාදෙන බව පවසා රුපියල් මිලියන 24කට ආසන්න මුදලක් වංචා කළ කාන්තාවක් විමර්ශන අංශයේ නිලධාරීන් විසින් කඳාන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-එම කාන්තාව විසින් කඳාන ප්‍රදේශයේ බලපත්‍රලාභී රැකියා මධ්‍යස්ථානයක් පවත්වාගෙන ගොස් ඇති අතර, එම ආයතනය විසින් ඉහත රටවල රැකියා ලබාදීමට වලංගු රැකියා ඇණවුමක් ලබාගෙන නොමැත.
+Three women, including two women who were expecting the jobs in Canada, Australia, Germany, Italy, and Dubai have been arrested by officials from the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment.
 
-මෙම කාන්තාවට එරෙහිව පැමිණිලි 19ක් කාර්යාංශය වෙත ලැබී ඇති අතර, අත්අඩංගුවට ගත් කාන්තාව අද (01) දින වැලිසර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත ව තිබුණි.
+The Bureau was arrested by the officials of the Investigation Division in the Kandana, saying that there were Rs.
 
-එමෙන්ම සීදූව, ලියනගේමුල්ල ප්‍රදේශයේ කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නීතිවිරෝධි රැකියා නියෝජිතායතනයක් පවත්වාගෙන යන බවට ලද තොරතුරක් අනුව විමර්ශන නිලධාරීන් විසින් ඊයේ (31) එම ස්ථානය වටලා තිබේ.
+The woman has operated a licensed job center in the Kandana, which has not obtained a valid job order to provide employment jobs in the above countries.
+
+The Bureau was to be produced before the Welisara Magistrate's Court today (01).
+
+Investigations have raided the site yesterday (31) on information that the Bureau of Liyanage Die was a valid license with the Bureau of Liyanagemulla.
+
+There were 13 passports and 11 biography leaflets obtained for employment in Germany, Dubai and Canada.
+
+A woman who is owned by the coordinator has been arrested by the Investigation Officers today (01) this morning.
 
 ...
 
 [Data](articles/2cd84a9f.json)
 
+[Extended Data](ext_articles/2cd84a9f.ext.json)
+
 ---
 
-### සුරක්ෂා සිසු රක්ෂණය ක්‍රියාත්මක කෙරේ
+### Protected student insurance is implemented
 
 *2024-08-01 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199452) · `si`
 
-අද දින සිට වසර තුනක කාලයක් සඳහා සුරක්ෂා සිසු රක්ෂණය රජයේ සියලුම පාසල්, රජයේ අනුමත සියලු ම පෞද්ගලික පාසල්වලත්, පිරිවෙන් සහ උපකෘත විශේෂිත පාසල්වලත් අධ්‍යාපනය ලබන සිසු සිසුවියන් වෙනුවෙන් ලබා දෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+The Sri Lankan government has introduced a comprehensive student insurance policy covering public, Pirivena, and financial sector schools. The policy, costing around Rs. 300,000, includes benefits for external treatments, crime diseases, and accidents, with additional support for low-income families. It also offers death benefits, with a maximum payout of Rs. 1.5 million, and is available for free to all schoolchildren through a digital platform.
 
-අමාත්‍යවරයා ඒ බව පැවසුවේ අධ්‍යාපන අමාත්‍යාංශය සහ ශ්‍රී ලංකා රක්ෂණ සංස්ථාව අතර එම රක්ෂණාවරණය ක්‍රියාත්මක කිරීමට අදාළ ගිවිසුමට අත්සන් තැබීමේ අවස්ථාවට එක් වෙමිනි.
+🟩
 
-අධ්‍යාපන අමාත්‍යාංශය වෙනුවෙන් අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිය ගිවිසුමට අත්සන් තැබූ අතර ශ්‍රී ලංකා රක්ෂණ සංස්ථාව වෙනුවෙන් එහි ප්‍රධාන මෙහෙයුම් නිලධාරි ප්‍රියන්ත පෙරේරා මහතා ඊට අත්සන් තැබී ය.
+Minister of Education Susil Premajayantha said that all the schools to study for three years from today to three years of public schools, Pirivenas, and the financial sector schools.
 
-මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ අධ්‍යාපන අමාත්‍යාංශය රුපියල් මිලියන 7,112 ක මුදලක් මේ සඳහා ආයෝජනය කර ඇති බවත් මෙම රක්ෂණාවරණය මගින් රජයේ හෝ පෞද්ගලික රෝහල් නේවාසික ප්‍රතිකාර සඳහා ප්‍රතිලාභ ලෙස රු. 300,000/-ක් ද, බාහිර ප්‍රතිකාර සඳහා ප්‍රතිලාභ වශයෙන් රු. 20,000/-ක් සහ අසාධ්‍ය රෝග ප්‍රතිලාභ ලෙස රු. 1,500,000/- ක් දක්වා ප්‍රතිලාභ හිමි වෙයි.
+The Minister was speaking at the event of the signing of the agreement between the Ministry of Education and the Sri Lanka Insurance Corporation.
+
+The Secretary to the Ministry of Education Thilaka Jayasundara has signed the agreement with the Chief Operating Officer of Sri Lanka Insurance Corporation, Mr. Priyantha Perera.
+
+Speaking further said the Minister further stated that the Ministry of Education has invested Rs. 7,112 million and this policy is Rs.. 300,000 / - and benefits for external treatment. 20,000 / - and crime disease benefits. 1,500,000 / - will benefit from up to 1,500,000 / -.
+
+And the accident insurance is Rs.. 200,000 / - also will benefit from permanent partial dictatorship, a cost of Rs.
 
 ...
 
 [Data](articles/8d55b184.json)
+
+[Extended Data](ext_articles/8d55b184.ext.json)
 
 ---
 
@@ -234,15 +264,21 @@ It is noteworthy that Kukadasan, a former leader of the Tamil National Alliance 
 
 ---
 
-### ඉන්දු-ශ්‍රී ලංකා ODI තරගයට කලින් මුරලි හදීසියේම ක්‍රීඩකයන් බලන්න යයි
+### Murali goes to visit the Indo-Sri Lanka ODi Tournament
 
 *2024-08-01 14:59:57* · [`adalk`](https://www.ada.lk/sports/ඉන්දු-ශ්‍රී-ලංකා-ODI-තරගයට-කලින්-මුරලි-හදීසියේම-ක්‍රීඩකයන්-බලන්න-යයි/9-411145) · `si`
 
-හිටපු දඟ පන්දු යවන ක්‍රීඩක මුත්තයියා මුරලිදරන් ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයන් සහ සහයක පුහුණුකරුවන් හමුවී තිබේ.
+Murali, the former spin legend, is now part of Sri Lanka's team as a coach for the ongoing ODI series against India.
+
+🟩
+
+Former spinner Muttiah Muralitharan has been found in Sri Lanka's players and assistants.
 
 ◼️
 
 [Data](articles/21c26a9f.json)
+
+[Extended Data](ext_articles/21c26a9f.ext.json)
 
 ---
 
@@ -296,17 +332,23 @@ It means that the appointment is invalid if the Supreme Court finally decides th
 
 ---
 
-### ධීවර යාත්‍රාවක් පෙරළී අයෙක් මරුට
+### One killed in fishing vessel
 
 *2024-08-01 14:49:35* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-යාත්‍රාවක්-පෙරළී-අයෙක්-මරුට/11-411144) · `si`
 
-මෙරට මුහුදු සීමාවේදී ඉන්දීය ධීවර යාත්‍රාවක් පෙරලී එක් අයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A fisherman died when his boat was attacked by an Indian vessel in Sri Lankan waters. The attacker was later honored for its actions during the raid.
 
-නීති විරෝධීව ධීවර කටයුතු වල නිරතවෙමින් සිටියදී නාවුක හමුදාව වැටලීම සිදු කිරීමේදී මෙම ධීවර යාත්‍රාව පෙරලී ඇති බව සඳහන්.
+🟩
+
+One was killed by a Indian fishing vessel at the Sri Lankan waters.
+
+The fishing vessel was felicitated while raiding the navy while he was engaged in fishing.
 
 ◼️
 
 [Data](articles/e199ec9e.json)
+
+[Extended Data](ext_articles/e199ec9e.ext.json)
 
 ---
 
@@ -2283,37 +2325,5 @@ Kerosene, an expensive fuel similar to Jet fuel is at 202 rupees a litre. (Colom
 [Data](articles/1bed5747.json)
 
 [Extended Data](ext_articles/1bed5747.ext.json)
-
----
-
-### Declaration of the President's candidate in Pohoth postponed
-
-*2024-08-01 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199428) · `si`
-
-The announcement of the presidential candidate by the Sri Lanka General Front has been delayed. It's expected to be revealed next week. The party's Politburo plans to name a candidate for the upcoming presidential election soon. Meanwhile, the Sri Lanka Civil Aruorm Front is considering legal action against MPs not aligning with their decisions.
-
-🟩
-
-The presidency of the Sri Lanka General Front has postponed the publication of the presidency candidate.
-
-A senior spokesperson of the UNP said that the presidential candidate of the General Manager will be announced next week.
-
-The party's Politburo was decided to name a presidential candidate at the Sri Lanka Civil Aruorm Front under the sign of the next presidential election.
-
-It is said that the candidate is declared who in two days.
-
-The decision of the Political Council of the Sri Lanka General Front is now supporting President Ranil Wickremesinghe.
-
-According to a spokesperson of the Front stated that it will be published next week, as the Presidential candidate of the Sri Lanka Civil Front will be held further discussions.
-
-Meanwhile, the Sri Lanka Civil Aruorm Front has decided to take legal action against MPs who act contrary to the decision.
-
-It is reported that attention has been paid to removing the rice organizer of the MPs.
-
-...
-
-[Data](articles/2f834311.json)
-
-[Extended Data](ext_articles/2f834311.ext.json)
 
 ---

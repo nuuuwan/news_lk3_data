@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 14:08:05**
+As of **2024-08-01 14:21:41**
 
 ## Newspaper Stats
 
-*Scraped **38,444** Articles*
+*Scraped **38,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,94 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,525
+adalk | 3,526
 adaderanalk | 4,442
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,778
 virakesarilk | 6,077
-adaderanasinhalalk | 6,473
+adaderanasinhalalk | 6,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,441 (100.0%) of 38,444 articles have been extended.
+38,444 (100.0%) of 38,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ஜனாதிபதி நிதியம் அதிரடி அறிவிப்பு
+### සූදුපොළක් වටලන්න ගිය පොලිස් නිලධාරීන්ට ප්‍රහාරයක්
+
+*2024-08-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199447) · `si`
+
+වැල්ලවාය ඌව කුඩාඔය පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් විසින් ඌව කුඩාඔය තිස් අට ප්‍රදේශයේ නිවසක සූදුපොලක් පවත්වාගෙන යන බවට ලද තොරතුරක් අනුව එම සූදු පොල වැටලීමට ගොස් තිබේ.
+
+එම අවස්ථාවේ දී එහි සිටි පිරිසක් විසින් පොලිස් නිලධාරීන් දෙදෙනාට පහර දී ඇති අතර පහරදීම නිසා තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනා ප්‍රතිකාර සඳහා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
+
+ඊට අමතරව සැකකාර නිවසේ සිටි පුද්ගලයාද පොලීසිය තමන්ට පහර දුන් බව පවසා තණමල්විල ප්‍රාදේශීය රෝහලට ඇතුළත් කර තිබේ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් කිසිවෙකු මේ වනවිට අත්අඩංගුවට ගෙන නොමැති අතර සිද්ධිය සම්බන්ධයෙන් කුඩාඔය පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/67f7b28c.json)
+
+---
+
+### President's Fund Notification
 
 *2024-08-01 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-அதிரடி-அறிவிப்பு/175-341409) · `ta`
 
-ஜனாதிபதி நிதியத்தின் கீழ் நடைமுறைப்படுத்தப்படும் புலமைப்பரிசில் திட்டங்களின் கீழ் தகுதி பெற்ற புலமைப்பரிசில் பெறுபவர்களுக்கான 2024 ஓகஸ்ட் மாதத்திற்கான புலமைப்பரிசில் கொடுப்பனவு இன்று (01) வைப்பிலிடப்பட்டுள்ளது.
+The President's Fund scholarship for August 2024 was deposited today, direct to scholars' bank accounts. Recipients will receive an SMS notification once funds are transferred.
 
-புலமைப்பரிசில் பெறுபவர்களின் வங்கிக் கணக்குகளுக்கு நேரடியாக வைப்புச் செய்யப்பட்டுள்ளதோடு,புலமைப்பரிசில் கொடுப்பனவுகள் வங்கிகளில் வைப்பு செய்யப்படும் போது, புலமைப்பரிசில் பெறுபவர்கள் அனைவருக்கும் இதுகுறித்து குறுந்தகவல் (SMS) மூலம் தெரிவிக்கப்படும் என்று ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+🟩
+
+The scholarship allowance for the month of August 2024 has been deposited today (01) for qualified scholars in the scholarship program implemented under the Presidential Fund.
+
+The Presidential Media Unit has announced that the scholarships will be deposited directly to the bank accounts of the scholarship and that all the scholars recipients will be informed of the SMS (SMS) when scholarship payments are deposited in the banks.
 
 ◼️
 
 [Data](articles/572da0f2.json)
 
+[Extended Data](ext_articles/572da0f2.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் ஆசிரியர் ஒருவர் போட்டி?
+### A teacher contest in presidential election?
 
 *2024-08-01 13:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-ஆசிரியர்-ஒருவர்-போட்டி/175-341408) · `ta`
 
-நிறைவேற்று அதிகாரம் ​கொண்ட 9ஆவது ஜனாதிபதித் தேர்தலுக்கான வாக்களிப்பு செப்டம்பர் 21 ஆம் திகதி நடைபெறவிருக்கிறது. இந்த தேர்தலில் ஆசிரியர் சமூகத்தைச் சேர்ந்த ஒருவர் போட்டியிட உள்ளார் என தகவல்கள் தெரிவிக்கின்றன.
+In the upcoming 9th presidential election, a teacher from the National College of Education, Pathanam, plans to run as an independent candidate. Known for teaching across various schools nationwide, he aims to secure a school holiday during his campaign. His application for this has been approved, indicating his active preparations for the election.
 
-பத்தனை ஸ்ரீபாத தேசிய கல்வியற் கல்லூரியில் பயின்ற இவர், நாட்டில் பல பாடசாலைகளில் கற்பித்துள்ளார். ஜனாதிபதி தேர்தலில் சுயேட்சையாக போட்டியிட உள்ளார் என்றும். கட்டுப்பணத்தை செலுத்துவதற்கான ஏற்பாடுகளை முன்னெடுத்துள்ளார் என்றும் அந்த தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-தேர்தலில் போட்டியிடுவதாயின், பாடசாலையில் விடுமுறை பெற வேண்டும். அதற்காக விண்ணப்பித்து, அனுமதியையும் பெற்றுக்கொண்டுள்ளார் என்றும் தகவல்கள் தெரிவிக்கின்றன.
+Voting for the 9th presidential election with executive power will be held on September 21st. According to reports, a person from the teacher community will contest the election.
+
+He is attending the National College of Education, Pathanam and has taught many schools in the country. He said he would contest the presidential election independently. The report also suggests that he has made arrangements to pay control.
+
+If contesting the election, you have to get a holiday in school. According to reports, he has applied for it and obtained permission.
 
 ◼️
 
 [Data](articles/b59020c3.json)
+
+[Extended Data](ext_articles/b59020c3.ext.json)
+
+---
+
+### සුරක්ෂා සිදු රක්ෂණය ගැන රජයෙන් අලුත්ම තීරණයක්
+
+*2024-08-01 13:36:56* · [`adalk`](https://www.ada.lk/breaking_news/සුරක්ෂා-සිදු-රක්ෂණය-ගැන-රජයෙන්-අලුත්ම-තීරණයක්/11-411142) · `si`
+
+පාසල් සිසුන්ට අද සිට වසර 03ක කාලයක් සඳහා පාසල් සිසුන්ට ලබා දෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසීය.
+
+මෙම සුරක්ෂා සිසු රක්ෂණ ආවරණය රජයේ, රජයේ අනුමත සියලු පෞද්ගලික පාසල්, පිරිවෙන් සහ උපකෘත විශේෂ පාසල් සඳහා ලබා දෙන බව අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/5a59b95c.json)
 
 ---
 
@@ -842,21 +886,27 @@ Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lak
 
 ---
 
-### විදේශ රැකියා ප්‍රේෂණවල පැහැදිලි වර්ධනයක්
+### A clear growth of foreign employment remittances
 
 *2024-08-01 10:27:08* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-ප්‍රේෂණවල-පැහැදිලි-වර්ධනයක්/11-411138) · `si`
 
-මේ වසරේ පළමු මාස 06 තුළ විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ අමෙරිකානු ඩොලර් මිලියන 3,144ක් දක්වා ඉහළ ගොස් තිබේ.
+Foreign employment remittances surged to $3.14 billion in the first half of the year, up from $2.82 billion in the same period last year. Tourism income also rose to $1.57 billion, compared to $1 million previously. The nation's gross reserves reached $5.7 billion by June.
 
-පසුගිය වසරේ එම කාල සීමාව තුළ විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණ ලැබී ඇත්තේ අමෙරිකානු ඩොලර් මිලියන 2,823ක් බව ශ්‍රී ලංකා මහ බැංකුව සඳහන් කළේය.
+🟩
 
-එසේම වසරේ පළමු මාසය 6තුළ සංචාරක ක්ෂේත්‍රයෙන් අමෙරිකානු ඩොලර් මිලියන 1,557ක් මුදලක් උපයා ඇති  අතර එය පසුගිය වසරේ අනුරූප කාලය හා සැසදීමේදී දෙගුණයකට ආසන්න වර්ධනයක් බව මහ බැංකුවේ දත්ත පෙන්වා දෙයි.
+Foreign employees' remittances have risen to US $ 3,144 million in the first six months of this year.
 
-මේ අතර ජුනි මාසය අවසාන වන විට මෙරට දළ නිල සංචිත ප්‍රමාණය ද අමෙරිකානු ඩොලර් බිලියන 5.7ක් දක්වා ඉහළ ගොස් තිබේ.
+The Central Bank said that during the period last year, Foreign Employees' Remittances have been received US $ 2,823 million.
+
+The tourism industry has earned US $ 1,557 million in the first six months of the year, one million in the corresponding period last year.
+
+Meanwhile, by the end of June, the country's gross reserves have increased to $ 5.7 billion.
 
 ◼️
 
 [Data](articles/42b316e7.json)
+
+[Extended Data](ext_articles/42b316e7.ext.json)
 
 ---
 
@@ -2195,51 +2245,5 @@ At the outset, it must be noted that in the absence of closely guarded inside in
 [Data](articles/9ad9f1dc.json)
 
 [Extended Data](ext_articles/9ad9f1dc.ext.json)
-
----
-
-### President Ranil Wickremesinghe 03 Special Committees Appointment
-
-*2024-08-01 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189949) · `ta`
-
-President Ranil Wickremesinghe formed three special committees ahead of the "Hamas" leader's assassination. These committees focus on national security, economic impact, and monitoring activities of two groups. The move aims to prepare for security and economic pressures from the Middle East and global nations, including Iran.
-
-🟩
-
-President Ranil Wickremesinghe has appointed 03 special committees before the "Hamas" leader's assassination, and the Middle East and world countries, including Iran, will prepare for security and economic pressure.
-
-Accordingly, the President has appointed a special committee on national security and a committee to investigate the impacts of the economy and a high -level committee to monitor the activities of the two groups.
-
-It is noteworthy that the high -level committee will take appropriate action as per the report submitted by the two groups.
-
-◼️
-
-[Data](articles/c09a9c71.json)
-
-[Extended Data](ext_articles/c09a9c71.ext.json)
-
----
-
-### The assassination of Ismail Honey's assassination of the political wing of the Hamas Organization is condemned -Sajith Premadasa
-
-*2024-08-01 00:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189948) · `ta`
-
-Opposition leader Sajith Premadasa condemns the assassination of Hamas leader Ismail Honey, calling it a violation of international law and a threat to Middle East peace. He warns of potential direct and indirect impacts on his country and urges swift international action for a ceasefire and humanitarian aid. Premadasa emphasizes the need for global leadership to achieve lasting peace in the region, condemning such inhumane acts.
-
-🟩
-
-The opposition leader said that by the assassination of Hamas leader Ismail Honey, the blatant violation of international humanitarian laws seems to have been a threat to the peace of the Middle East.
-
-Our country may have direct and indirect effects in the future. Although the Middle East is required at this time, it is sad that the people of the region and the entire world have to experience the consequences of such inhumane attacks, which are continuously recorded.
-
-We urge the international community to expedite the efforts of the Palestinian people to provide rapid and stable ceasefire and urgent humanitarian assistance.
-
-Therefore, all the nations of the world must come forward for permanent peace in this region. He added that we, as leaders of humanity, must vehemently condemn such inhuman attacks.
-
-◼️
-
-[Data](articles/6153e0f7.json)
-
-[Extended Data](ext_articles/6153e0f7.ext.json)
 
 ---

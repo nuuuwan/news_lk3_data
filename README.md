@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 19:21:58**
+As of **2024-08-01 19:36:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,502 (100.0%) of 38,503 articles have been extended.
+38,503 (100.0%) of 38,503 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,19 +160,25 @@ At the same time, the judge bench has dismissed four other petitions filed with 
 
 ---
 
-### කණ්ඩායමේ මොරාල් නංවන්න මුරලිගෙන් දේශනාවක්
+### Morcha in the group is a sermon from MCC
 
 *2024-08-01 18:13:35* · [`adalk`](https://www.ada.lk/sports/කණ්ඩායමේ-මොරාල්-නංවන්න-මුරලිගෙන්-දේශනාවක්/9-411151) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩකයන් මෙන්ම පුහුණුකරුවන් අභි ප්‍රේරණය කිරීම වෙනුවෙන් හිටපු ශ්‍රී ලංකා සුපිරි පන්දු යවන ක්‍රීඩක මුත්තයියා මුරලිදරන් උපදෙස් ලබාදීමක් සිදුකර තිබේ.
+Muttiah Muralitharan, former Sri Lanka cricketer, offered advice to the national team, which was then acknowledged by acting coach Sanath Jayasuriya. This came after Sri Lanka won their first three matches.
 
-ශ්‍රී ලංකා වැඩබලන පුහුණුකරු සනත් ජයසූරිය සිය x  ගිනුමෙන් මේ බව නිවේදනය කරන අතරම මුරලි කළ කාර්යය වෙනුවෙන් ඔහුට ස්තූතියද ප්‍රකාශ කර තිබේ.
+🟩
 
-ඉන්දියාව හා පැවැති විස්සයි20 තරගාවලිය ශ්‍රි ලංකා කණඩායම 3-0ක් ලෙස අන්ත පරාජයක් ලැබීය.
+Former Sri Lanka-Sri Lanka Super-bowler Muttiah Muralitharan has given advice on behalf of the Sri Lankan cricket team and trainers.
+
+Sri Lanka's acting coach Sanath Jayasuriya has announced this by its X-account and thanked him for the job.
+
+The Sri Lankan group was 3-0 as a group of Sri Lankan group.
 
 ◼️
 
 [Data](articles/e52ddf33.json)
+
+[Extended Data](ext_articles/e52ddf33.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 16:20:37**
+As of **2024-08-01 16:36:09**
 
 ## Newspaper Stats
 
-*Scraped **38,468** Articles*
+*Scraped **38,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,80 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,528
+adalk | 3,530
 adaderanalk | 4,444
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
-adaderanasinhalalk | 6,478
+adaderanasinhalalk | 6,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,467 (100.0%) of 38,468 articles have been extended.
+38,468 (100.0%) of 38,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ඝාතන සැකකරු පොලීසියට භාරවෙයි
+### විදෙස් රැකියා වංචා සම්බන්ධයෙන් තිදෙනෙක් අත්අඩංගුවට
+
+*2024-08-01 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199453) · `si`
+
+කැනඩාව, ඔස්ට්‍රේලියාව, ජර්මනිය, ඉතාලිය හා ඩුබායි හි රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවන් දෙදෙනෙකු ඇතුළු තිදෙනෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ඊයේ (31) අත්අඩංගුවට ගෙන තිබේ.
+
+කාර්යාංශයේ වලංගු රැකියා ඇණවුමක් නොමැතිව කැනඩාව, ඔස්ට්‍රේලියාව, ඉතාලිය යන රටවල රැකියා ලබාදෙන බව පවසා රුපියල් මිලියන 24කට ආසන්න මුදලක් වංචා කළ කාන්තාවක් විමර්ශන අංශයේ නිලධාරීන් විසින් කඳාන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+
+එම කාන්තාව විසින් කඳාන ප්‍රදේශයේ බලපත්‍රලාභී රැකියා මධ්‍යස්ථානයක් පවත්වාගෙන ගොස් ඇති අතර, එම ආයතනය විසින් ඉහත රටවල රැකියා ලබාදීමට වලංගු රැකියා ඇණවුමක් ලබාගෙන නොමැත.
+
+මෙම කාන්තාවට එරෙහිව පැමිණිලි 19ක් කාර්යාංශය වෙත ලැබී ඇති අතර, අත්අඩංගුවට ගත් කාන්තාව අද (01) දින වැලිසර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත ව තිබුණි.
+
+එමෙන්ම සීදූව, ලියනගේමුල්ල ප්‍රදේශයේ කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නීතිවිරෝධි රැකියා නියෝජිතායතනයක් පවත්වාගෙන යන බවට ලද තොරතුරක් අනුව විමර්ශන නිලධාරීන් විසින් ඊයේ (31) එම ස්ථානය වටලා තිබේ.
+
+...
+
+[Data](articles/2cd84a9f.json)
+
+---
+
+### සුරක්ෂා සිසු රක්ෂණය ක්‍රියාත්මක කෙරේ
+
+*2024-08-01 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199452) · `si`
+
+අද දින සිට වසර තුනක කාලයක් සඳහා සුරක්ෂා සිසු රක්ෂණය රජයේ සියලුම පාසල්, රජයේ අනුමත සියලු ම පෞද්ගලික පාසල්වලත්, පිරිවෙන් සහ උපකෘත විශේෂිත පාසල්වලත් අධ්‍යාපනය ලබන සිසු සිසුවියන් වෙනුවෙන් ලබා දෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+
+අමාත්‍යවරයා ඒ බව පැවසුවේ අධ්‍යාපන අමාත්‍යාංශය සහ ශ්‍රී ලංකා රක්ෂණ සංස්ථාව අතර එම රක්ෂණාවරණය ක්‍රියාත්මක කිරීමට අදාළ ගිවිසුමට අත්සන් තැබීමේ අවස්ථාවට එක් වෙමිනි.
+
+අධ්‍යාපන අමාත්‍යාංශය වෙනුවෙන් අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිය ගිවිසුමට අත්සන් තැබූ අතර ශ්‍රී ලංකා රක්ෂණ සංස්ථාව වෙනුවෙන් එහි ප්‍රධාන මෙහෙයුම් නිලධාරි ප්‍රියන්ත පෙරේරා මහතා ඊට අත්සන් තැබී ය.
+
+මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ අධ්‍යාපන අමාත්‍යාංශය රුපියල් මිලියන 7,112 ක මුදලක් මේ සඳහා ආයෝජනය කර ඇති බවත් මෙම රක්ෂණාවරණය මගින් රජයේ හෝ පෞද්ගලික රෝහල් නේවාසික ප්‍රතිකාර සඳහා ප්‍රතිලාභ ලෙස රු. 300,000/-ක් ද, බාහිර ප්‍රතිකාර සඳහා ප්‍රතිලාභ වශයෙන් රු. 20,000/-ක් සහ අසාධ්‍ය රෝග ප්‍රතිලාභ ලෙස රු. 1,500,000/- ක් දක්වා ප්‍රතිලාභ හිමි වෙයි.
+
+...
+
+[Data](articles/8d55b184.json)
+
+---
+
+### Murder suspect surrenders to police
 
 *2024-08-01 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199451) · `si`
 
-හබරාදුව දිවෙල්වත්ත ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයෙකු යකඩ පොල්ලකින් පහරදී ඝාතනය කළ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+A murder suspect surrendered to police after allegedly attacking someone with an iron rod in Habaraduwa. The arrest followed a private dispute between the suspect and the victim. Further investigations are ongoing.
 
-පොලීසිය පැවසුවේ එම සැකකරු හබරාදුව පොලිස් ස්ථානයට පැමිණ භාරවීමෙන් අනතුරුව  අත්අඩංගුවට ගත් බවයි.
+🟩
 
-සැකකරු හා ඝාතනයට ලක් වූ පුද්ගලයා අතර කලක සිට පැවති පුද්ගලික ආරවුලක් මත මෙම ඝාතනය සිදුකර ඇති බව අනාවරණය වී ඇති අතර හබරාදුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspect was arrested by a person who was attacked with an iron rod in a house in Habaraduwa.
+
+Police said that the suspect had come to Habaraduwa police station and was arrested.
+
+The murder had been carried out on a private dispute between the suspect and the victim. Habaraduwa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a018870b.json)
+
+[Extended Data](ext_articles/a018870b.ext.json)
 
 ---
 
@@ -190,6 +234,18 @@ It is noteworthy that Kukadasan, a former leader of the Tamil National Alliance 
 
 ---
 
+### ඉන්දු-ශ්‍රී ලංකා ODI තරගයට කලින් මුරලි හදීසියේම ක්‍රීඩකයන් බලන්න යයි
+
+*2024-08-01 14:59:57* · [`adalk`](https://www.ada.lk/sports/ඉන්දු-ශ්‍රී-ලංකා-ODI-තරගයට-කලින්-මුරලි-හදීසියේම-ක්‍රීඩකයන්-බලන්න-යයි/9-411145) · `si`
+
+හිටපු දඟ පන්දු යවන ක්‍රීඩක මුත්තයියා මුරලිදරන් ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයන් සහ සහයක පුහුණුකරුවන් හමුවී තිබේ.
+
+◼️
+
+[Data](articles/21c26a9f.json)
+
+---
+
 ### Another Hamas Pribist
 
 *2024-08-01 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199448) · `si`
@@ -237,6 +293,20 @@ It means that the appointment is invalid if the Supreme Court finally decides th
 [Data](articles/934da7cc.json)
 
 [Extended Data](ext_articles/934da7cc.ext.json)
+
+---
+
+### ධීවර යාත්‍රාවක් පෙරළී අයෙක් මරුට
+
+*2024-08-01 14:49:35* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-යාත්‍රාවක්-පෙරළී-අයෙක්-මරුට/11-411144) · `si`
+
+මෙරට මුහුදු සීමාවේදී ඉන්දීය ධීවර යාත්‍රාවක් පෙරලී එක් අයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+නීති විරෝධීව ධීවර කටයුතු වල නිරතවෙමින් සිටියදී නාවුක හමුදාව වැටලීම සිදු කිරීමේදී මෙම ධීවර යාත්‍රාව පෙරලී ඇති බව සඳහන්.
+
+◼️
+
+[Data](articles/e199ec9e.json)
 
 ---
 
@@ -2245,95 +2315,5 @@ It is reported that attention has been paid to removing the rice organizer of th
 [Data](articles/2f834311.json)
 
 [Extended Data](ext_articles/2f834311.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-01 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199426) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa provinces, Galle, Matara, Kandy, Nuwara Eliya, Badulla, Ampara, Batticaloa districts. Strong winds in central hills, North, North-central, North Western provinces. Island-wide 30-40 km/h winds.
-
-🟩
-
-Showers will occur at times in the Western and Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In some places mm. The Met Department announces heavy showers more than 50.
-
-Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. There are about 50 strong winds.
-
-From time to time in the rest of the island.. There may be about 30-40 strong winds.
-
-◼️
-
-[Data](articles/8b3228df.json)
-
-[Extended Data](ext_articles/8b3228df.ext.json)
-
----
-
-### Kanjipani, Loku Patti arrested
-
-*2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
-
-Underworld members Kanjibani Imran and Loku Patti Namatha were arrested for the murder of Surendra Vasantha Perera, also known as the "brain" of the club Vasantha.
-
-🟩
-
-Police say the underworld Surendra Vasantha Perera or the brain of the club Vasantha's murder, Kanjibani Imran and the underworld member Loku Patti Namatha have been arrested.
-
-◼️
-
-[Data](articles/27cb0f6e.json)
-
-[Extended Data](ext_articles/27cb0f6e.ext.json)
-
----
-
-### Kanjipani, Loku Patti arrested
-
-*2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபனி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
-
-Underworld leaders Kanjibani Imran and Loku Patti Namatha were arrested for orchestrating the murder of billionaire Surendra Vasantha Perera, also known as Club Vasantha.
-
-🟩
-
-Police sources say that the underworld leader Kanjibani Imran and the underworld member Loku Patti Namatha have been arrested as the brainchild of billionaire businessman Surendra Vasantha Perera or Club Vasantha's murder.
-
-◼️
-
-[Data](articles/f2d19e69.json)
-
-[Extended Data](ext_articles/f2d19e69.ext.json)
-
----
-
-### Construction PMI records highest index value in 30 consecutive survey rounds
-
-*2024-08-01 05:02:37* · [`dailyftlk`](https://www.ft.lk/business/Construction-PMI-records-highest-index-value-in-30-consecutive-survey-rounds/34-765017) · `en`
-
-Firms remain cautious on potential uncertainty associated with upcoming election
-
-Sri Lanka Purchasing Managers’ Index for Construction (PMI – Construction) indicates an expansion in construction activities in June 2024, as reflected by the total activity index which recorded an index value of 59.5.
-
-The Central Bank said this was its highest index value in 30 consecutive survey rounds.
-
-Many respondents highlighted that the industry is mainly driven by projects funded by multilateral agencies, particularly related to road rehabilitation and water distribution.
-
-New orders increased at a higher rate in June, indicating a positive outlook for future industry activity.
-
-However, employment remained contracted during the month, yet at a slower rate compared to the previous month.
-
-Meanwhile, the quantity of purchases increased with the accelerated demand for input materials.
-
-Further, many respondents mentioned that the price levels of most of the construction materials are in a declining trend.
-
-...
-
-[Data](articles/e10a008e.json)
-
-[Extended Data](ext_articles/e10a008e.ext.json)
 
 ---

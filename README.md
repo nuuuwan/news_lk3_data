@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 21:20:44**
+As of **2024-08-01 21:36:11**
 
 ## Newspaper Stats
 
-*Scraped **38,515** Articles*
+*Scraped **38,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,539
-adaderanalk | 4,452
+adaderanalk | 4,453
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,787
 virakesarilk | 6,094
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,513 (100.0%) of 38,515 articles have been extended.
+38,515 (100.0%) of 38,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### Two including State Minister’s secretary arrested for bribery
+
+*2024-08-01 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100926/two-including-state-ministers-secretary-arrested-for-bribery) · `en`
+
+A personal secretary of a State Minister and another political activist have been taken into custody by the officials of the Commission to Alleviate Bribery or Corruption (CIABOC) in Batticaloa for allegedly soliciting a bribe of Rs. 1,500,000.
+
+The apprehension has been made on a complaint received from a businessman from Polonnaruwa, the Bribery Commission said.
+
+◼️
+
+[Data](articles/3ae2ee67.json)
+
+---
 
 ### Amail to the big chick-kajipani and the root
 
@@ -66,15 +80,21 @@ The shooter had served as the motorcyclist for shooting at the city center of Pi
 
 ---
 
-### வியாழேந்திரனின் செயலாளர் அதிரடி கைது
+### Jupiter's secretary arrested
 
 *2024-08-01 20:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளர்-அதிரடி-கைது/175-341423) · `ta`
 
-இலஞ்ச ஊழல் ஆணைக்குழு மேற்கொண்ட நடவடிக்கையின் போது இவர் கைது செய்யப்பட்டுள்ளார் என தெரிவிக்கப்படுகின்றது. R
+Jupiter's secretary was arrested while allegedly involved in bribery activities with the Bribery Commission.
+
+🟩
+
+It is reported that he was arrested during the act of the Bribery Commission.. Remble
 
 ◼️
 
 [Data](articles/af3663e4.json)
+
+[Extended Data](ext_articles/af3663e4.ext.json)
 
 ---
 
@@ -302,19 +322,29 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 
 ---
 
-### ජනාධිපති අරමුදලේ ශිෂ්‍යත්ව වාරික මුදල අද ගිණුම් වෙත
+### Presidential Fund Charts' Clusive Premium to Accounts
 
 *2024-08-01 18:40:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලේ-ශිෂ්‍යත්ව-වාරික-මුදල-අද-ගිණුම්-වෙත/11-411154) · `si`
 
-ජනාධිපති අරමුදල යටතේ ක්‍රියාත්මක ශිෂ්‍යත්ව වැඩසටහන් යටතේ සුදුසුකම් ලැබූ ශිෂ්‍යත්වලාභීන් සඳහා 2024 අගෝස්තු මාසයට අදාළ ශිෂ්‍යත්ව වාරික මුදල් අද (01) දින ශිෂ්‍යත්වලාභීන්ගේ බැංකු ගිණුම් වෙත සෘජුවම යොමු කෙරේ.
+The Presidential Fund has disbursed scholarships totaling over Rs. 5 billion to various student groups, including 6,000 students for the GCE Advanced Level exam, 100,000 students from Pirivena and Sesala Colleges, and 3000 Grade 1 students. These scholarships are managed through SMS notifications and bank transfers, with future payments scheduled for August 2024.
 
-මෙම ශිෂ්‍යත්ව වාරික මුදල් බැංකු වෙත යොමු කිරීමේදී ඒ පිළිබඳව කෙටි පණිවිඩයක් (SMS) මගින් සියලු ශිෂ්‍යත්වලාභීන්ට දැනුම් දෙනු ලැබේ.
+🟩
 
-2022/2023 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 3000ක් සඳහා මසකට රුපියල් 6000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 17 වැනි වාරිකයද, 2023/2024 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 6000ක් සඳහා මසකට රුපියල් 6000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 06 වැනි වාරිකය ද අදාළ ගිණුම්වලට බැර කර තිබේ.
+Scholarship Premium for the recipients of scholarship programs under the Presidential Fund will be referred to the scholarship installments of the scholarship recipients today (01).
+
+The scholarship installments are notified by a SMS (SMS) will be informed by SMS (SMS).
+
+2022/2023 GCE Ordinary Level A / L examination for 3000 students to sit for A / L examinationThe 6000 scholarship installment paid to 6,000 students to sit for the GCE Advanced Level examination have also been credited to relevant accounts.
+
+Similarly, 100,000 scholarships paid to 100,000 scholarship installments per month and the students of Pirivena and Sesala College educational institutes per month for Rs.400 scholarship premium paid to 500 lay clergy to the GCE Advanced Level 300 per month and directed to the bank accounts of the scholarship recipients.
+
+Further, 3000 scholarship students paid to 3000 scholarship students from Grade 01 to Grade 01 per month and Rs.
 
 ...
 
 [Data](articles/a2b353ff.json)
+
+[Extended Data](ext_articles/a2b353ff.ext.json)
 
 ---
 
@@ -2247,23 +2277,5 @@ The company’s property portfolio includes the World Trade Centre in Colombo’
 [Data](articles/b8b62bd2.json)
 
 [Extended Data](ext_articles/b8b62bd2.ext.json)
-
----
-
-### Sri Lanka’s National Industrial Policy and 2023-2027 Strategic Plan prepared
-
-*2024-08-01 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100908/sri-lankas-national-industrial-policy-and-2023-2027-strategic-plan-prepared) · `en`
-
-Secretary to the Ministry of Industries, Shantha Weerasinghe announced that the “National Industry Policy,” along with the five-year strategic plan for 2023-2027, has been prepared and submitted to the Department of National Planning.
-
-This initiative aims to establish a globally competitive national industry base. By 2030, the policy aims to increase the manufacturing sector’s contribution to GDP from 16% to 20%, raise the role of entrepreneurship in the workforce from 2.8% to 7%, and boost the share of industrial exports in GDP from 14% to 20%.
-
-Addressing the press briefing titled “Two Years of Progress and Way Forward” held at the Presidential Media Centre (PMC) yesterday (31), the Secretary noted that the final draft for amending the Industrial Promotion Act has been submitted to the Attorney General’s Department for approval, ensuring it meets current and future needs.
-
-...
-
-[Data](articles/969e8b28.json)
-
-[Extended Data](ext_articles/969e8b28.ext.json)
 
 ---

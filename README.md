@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 21:05:48**
+As of **2024-08-01 21:20:44**
 
 ## Newspaper Stats
 
-*Scraped **38,513** Articles*
+*Scraped **38,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,538
+adalk | 3,539
 adaderanalk | 4,452
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,786
+tamilmirrorlk | 4,787
 virakesarilk | 6,094
 adaderanasinhalalk | 6,490
 
@@ -26,49 +26,77 @@ adaderanasinhalalk | 6,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,511 (100.0%) of 38,513 articles have been extended.
+38,513 (100.0%) of 38,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ලොකු පැටී-කංජිපානි සහ රොටුඹේ අමිලට වෙච්ච දේ
+### Amail to the big chick-kajipani and the root
 
 *2024-08-01 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199463) · `si`
 
-වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන සැකකරු වන ලොකු පැටී නමැත්තා බෙලරූස් රාජ්‍යයේදී අත්අඩංගුවට පත්වී ඇති බව එරට ආරක්ෂක අංශ දැනුම්දී තිබේ.
+Security forces have identified key suspects in the murder of Wasantha Perera, including gang leaders and accomplices who were allegedly hiding abroad. Arrests have been made, with some individuals detained in Belarus and others believed to have fled to Russia. The police are taking steps to extradite these suspects back to Sri Lanka to face charges, including involvement in multiple homicides and drug trafficking.
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත පසුගිය ජුලි මස 8 වනදා වෙඩි තබා ඝාතනය කිරීම සැලසුම් කළ බවට සෘජුවම චෝදනා එල්ලවුණේ සුජීව රුවන් කුමාර නොහොත් ලොකු පැටී නමැති අපරාධ කල්ලි නායකයාටය.
+🟩
 
-එමෙන්ම ඊට ආධාර අනුබලදීම සම්බන්ධයෙන් අමිල සේපාල රත්නායක නොහොත් රොටුඹේ අමිලට ද චෝදනා එල්ල විය.
+The security forces in the country has informed the main suspect of the murder of the Wasantha Perera or Club Wasantha murder.
 
-ක්ලබ් වසන්ත ඝාතනය සඳහා භාවිත කළ වෙඩි උණ්ඩවල 'කේ.පී. අයි.' ලෙසින් සටහන් කර තිබීම හේතුවෙන් කංජිපානි ඉම්රාන් ද අදාළ ඝාතනයට සම්බන්ධ බවට පොලීසිය සැක පළ කළේය.
+Surendra Wasantha Perera, or Club Wasantha, was chaired by the criminal gangs of Sudja Kumara or big chicky.
 
-පොලිස් විමර්ශනවලදී අනාවරණ වුණේ මොවුන් තිදෙනාම විදෙස් රටක සැඟව සිටිමින් මෙම ඝාතනය මෙහෙයවා තිබූ බවටය.
+Amila Sele Ratnayake, or Rotamba Amila was also accused of supporting it.
 
-එවන් පසුබිමක, ලොකු පැටී නමැත්තා ඩුබායීහී සිට බෙලරූස් රාජ්‍යයට පළාගොස් සිටියදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන තිබුණි.
+KP 'KP' used for the murder of club spring. I. 'The police suspect that Kjepani Imran was also involved in the murder as noted.
 
-පොලිස් ආරංචි මාර්ග සඳහන් කළේ ඒ පිළිබඳව නිල වශයෙන් මෙරට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුවත් කර ඇති බවය.
+According to police investigations revealed that all of all had been hiding in a foreign country and the murder.
+
+In such a circumstances, the Big Cub had been arrested by security forces from Duthu Pathi and Bellarus.
+
+Roads sources said that the CID has officially informed the CID.
+
+It is reported that the police have already begun the necessary action to bring the big chicity to the country.
+
+The shooter had served as the motorcyclist for shooting at the city center of Piliyandara in the city center of Piliyandara in Piliyandala, May 09, 2017, police said.
 
 ...
 
 [Data](articles/a8f1a4c1.json)
 
+[Extended Data](ext_articles/a8f1a4c1.ext.json)
+
 ---
 
-### රාජ්‍ය ඇමතිගේ පුද්ගලික ලේකම් අල්ලස් සිද්ධියකට අත්අඩංගුවට
+### வியாழேந்திரனின் செயலாளர் அதிரடி கைது
+
+*2024-08-01 20:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளர்-அதிரடி-கைது/175-341423) · `ta`
+
+இலஞ்ச ஊழல் ஆணைக்குழு மேற்கொண்ட நடவடிக்கையின் போது இவர் கைது செய்யப்பட்டுள்ளார் என தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/af3663e4.json)
+
+---
+
+### State Minister's Private Secretary arrested for bribery
 
 *2024-08-01 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199462) · `si`
 
-රාජ්‍ය අමාත්‍යවරයෙකුගේ පුද්ගලික ලේකම්වරයෙකු සහ තවත් දේශපාලන ක්‍රියාකරුවෙකු අල්ලස් මුදලක් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබේ.
+A private secretary of a State Minister and another individual have been arrested for allegedly accepting bribes, as per a complaint from a businessman in the Polonnaruwa area.
 
-රුපියල් ලක්ෂ 15ක මුදලක් එලෙස ඉල්ලා අල්ලස් වශයෙන් ලබාගැනීමේ චෝදනාව මත සැකකරුවන් අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් පැවසීය.
+🟩
 
-පොළොන්නරුව ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් කරන ලද පැමිණිල්ලකට අනුව වැටලීම සිදුකර තිබේ.
+A private secretary of a State Minister and another political operation has been arrested in connection with a bribe.
+
+Bribery and Corruption Commission officials said that the suspects were arrested on charges of accepting Rs.
+
+According to a complaint lodged by a businessman in Polonnaruwa area has been carried out.
 
 ◼️
 
 [Data](articles/0293c0d5.json)
+
+[Extended Data](ext_articles/0293c0d5.ext.json)
 
 ---
 
@@ -271,6 +299,22 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 [Data](articles/7640a930.json)
 
 [Extended Data](ext_articles/7640a930.ext.json)
+
+---
+
+### ජනාධිපති අරමුදලේ ශිෂ්‍යත්ව වාරික මුදල අද ගිණුම් වෙත
+
+*2024-08-01 18:40:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලේ-ශිෂ්‍යත්ව-වාරික-මුදල-අද-ගිණුම්-වෙත/11-411154) · `si`
+
+ජනාධිපති අරමුදල යටතේ ක්‍රියාත්මක ශිෂ්‍යත්ව වැඩසටහන් යටතේ සුදුසුකම් ලැබූ ශිෂ්‍යත්වලාභීන් සඳහා 2024 අගෝස්තු මාසයට අදාළ ශිෂ්‍යත්ව වාරික මුදල් අද (01) දින ශිෂ්‍යත්වලාභීන්ගේ බැංකු ගිණුම් වෙත සෘජුවම යොමු කෙරේ.
+
+මෙම ශිෂ්‍යත්ව වාරික මුදල් බැංකු වෙත යොමු කිරීමේදී ඒ පිළිබඳව කෙටි පණිවිඩයක් (SMS) මගින් සියලු ශිෂ්‍යත්වලාභීන්ට දැනුම් දෙනු ලැබේ.
+
+2022/2023 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 3000ක් සඳහා මසකට රුපියල් 6000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 17 වැනි වාරිකයද, 2023/2024 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 6000ක් සඳහා මසකට රුපියල් 6000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 06 වැනි වාරිකය ද අදාළ ගිණුම්වලට බැර කර තිබේ.
+
+...
+
+[Data](articles/a2b353ff.json)
 
 ---
 
@@ -2221,47 +2265,5 @@ Addressing the press briefing titled “Two Years of Progress and Way Forward”
 [Data](articles/969e8b28.json)
 
 [Extended Data](ext_articles/969e8b28.ext.json)
-
----
-
-### Dinesh is a serious attempt to create political unity between Mahinda and Ranil
-
-*2024-08-01 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189971) · `ta`
-
-Dinesh Gunawardena, aiming for political unity between President Ranil Wickremesinghe and ex-President Mahinda Rajapaksa, faces challenges due to Basil Rajapaksa's refusal to support a common candidate from the PA. Despite organizing meetings to forge an electoral alliance, the effort hasn't succeeded yet.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has been actively involved in political unity between President Ranil Wickremesinghe and former President Mahinda Rajapaksa.
-
-Dinesh Gunawardena, who has close ties with his schoolchildren, the president and the former president, is trying to unite all the parties in the government to establish a general base for the president.
-
-However, these efforts have not been successful as Basilrajapaksa was stubborn to field a candidate on behalf of the PA.
-
-The Prime Minister had organized meetings between the president and the former president to form an electoral alliance.
-
-◼️
-
-[Data](articles/30aaf728.json)
-
-[Extended Data](ext_articles/30aaf728.ext.json)
-
----
-
-### Do not deposit donations anymore
-
-*2024-08-01 10:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனியும்-நன்கொடைகளை-வைப்பிலிட-வேண்டாம்/175-341391) · `ta`
-
-Stop donating from July 31, 2024. The completed Presidential Secretariat will transfer funds to the President's Bank account post-completion, ending donations to the Gaza Children's Fund.
-
-🟩
-
-The presidential secretariat, which has been completed by July 31, 2024, and the President's Secretariat, will be handed over to the President's Bank's bank account after July 31, 2024, that the funds given to the Gaza Children's Fund have been completed on July 31, 2024 and that the President will be deposited by the President's Secretariat.Has been announced
-
-◼️
-
-[Data](articles/b7d97564.json)
-
-[Extended Data](ext_articles/b7d97564.ext.json)
 
 ---

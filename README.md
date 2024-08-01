@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 22:36:08**
+As of **2024-08-01 22:54:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,518 (100.0%) of 38,523 articles have been extended.
+38,523 (100.0%) of 38,523 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,45 +46,61 @@ He was asked whether the government has taken any action with regard to Tamil Na
 
 [Data](articles/67372340.json)
 
+[Extended Data](ext_articles/67372340.ext.json)
+
 ---
 
-### ඝාතන සැලසුමක් ගැන ශානි කරුණු කියයි
+### Shani tells a plan of assassination plan
 
 *2024-08-01 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199469) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ ශානි අබේසේකර මහතා ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සමක් සලකා බැලීම සඳහා අගෝස්තු 09 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (01) නියෝග කළේය.
+The Supreme Court has ordered former Director Shani Abeysekara to consider a fundamental rights petition he filed, aiming to increase security for himself due to an alleged assassination plot. The petition names Deshabandu Tennakoon, the National Police Commission, and the Defense Secretary as respondents.
 
-තමන් රිය අනතුරකට ලක් කර ඝාතනය කිරීමේ සැලසුමක් ඇති බැවින් දැනට ලබාදී තිබෙන ආරක්ෂාව දැඩි කරන මෙන් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශානි අබේසේකර මහතා මෙම පෙත්සම ගොනුකර ඇත.
+🟩
 
-අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස පොලිස්පති ලෙස කටයුතු කළ දේශබන්දු තෙන්නකෝන්, ජාතික පොලිස් කොමිසම සහ ආරක්ෂක ලේකම්වරයා ඇතුළු පිරිසක් නම් කර තිබේ.
+The Supreme Court today (01) ordered the former Director Shani Abeysekara to consider a fundamental rights petition filed.
 
-අදාළ පෙත්සම විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු සහ යසන්ත කෝදාගොඩ යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+Shani Abeysekara has filed the petition to issue an order to raise the security of the security that is planned to be killed and killed.
+
+Deshabandu Tennakoon, the National Police Commission and the Defense Secretary have been named as respondents in the petition.
+
+The petition was called before Vijith Malalgoda, Mustru Fernando and Yasantha Kodagoda.
 
 ◼️
 
 [Data](articles/e559281e.json)
 
+[Extended Data](ext_articles/e559281e.ext.json)
+
 ---
 
-### IMF 4 වෙනි වාරිකය ගැන ලැබුණු ඉඟිය
+### The hint of the IMF 4th Premium
 
 *2024-08-01 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199466) · `si`
 
-කෙටි කලක් තුළදී රට ස්ථාවර කිරීමට සහ ආර්ථිකය වර්ධනය කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගත් පියවර ජාත්‍යන්තර මූල්‍ය අරමුදලේ පැසසුමට ලක්වූ බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+The IMF urged Sri Lanka to quickly stabilize its economy, emphasizing the importance of completing the third review to secure the fourth tranche of funds promptly. Delaying the fourth premium could negatively impact the country's economic stability. The IMF loan, totaling $2.9 billion, began with the first installment in March 2023, followed by subsequent installments, with the third concluding last June.
 
-ඒ මෙරටට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිසක් හා ජනාධිපතිවරයා අතර අද (01) සිදුකළ සාකච්ඡාවක් අතරතුදීය.
+🟩
 
-ඒ සම්බන්ධයෙන් අද දෙරණ සමග අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා,
+The International Monetary Fund commended the Member of the International Monetary Fund to stabilize the country in a short while, he said.
 
-"බාධාවකින් තොරව තුන්වෙනි සමාලෝචනය සම්පූර්ණ කරන්නත් ඒ හරහා අපිට 4 වන වාරිකය ප්‍රමාද නොවී ලබා ගැනීමටත් අවශ්‍ය වැඩපිළිවෙළ අපි සාකච්ඡා කළා. ඒක ඉතා වැදගත් අපිට. යම්කිසි හේතුවක් නිසා  04 වන වාරිකය නිදහස් කිරීම ප්‍රමාද වුනොත් රටේ ආර්ථික තත්ත්වයට කිසියම් අහිතකර බලපෑමක් ඇති වෙනවා."
+A discussion of the International Monetary Fund and the President today (01) is between the President today.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය වැඩපිළිවෙළ යටතේ ශ්‍රී ලංකාවට අමෙරිකානු ඩොලර් බිලියන 2.9 ක විස්තීරණ පහසුකමක් අනුමත වූයේ 2023 වසරේ මුල් භාගයේදීය.
+State Minister Shehan Semasinghe commented on Ada Derana,
 
-එහි පළමු වාරිකය 2023 මාර්තු මාසයේ අනුමත වූ අතර අනතුරුව එහි දෙවැනි වාරිකය දෙසැම්බර් මාසයේත්, තෙවැනි වාරිකය ඉකුත් ජුනි මාසයේදීත් වශයෙන් මේ වන විට අමෙරිකානු ඩොලර් බිලියනයක් ලැබී අවසන් ය.
+"We also discussed the necessary program to complete the third review of the third review without interruption and obtain the 4th premium without delay in the 4th premium.. It's very important to us. If the release of the 4th Premium is delayed for some reason, the country's economic situation has a negative effect. "
 
-...
+Under the International Monetary Fund Loan, US $ 2.9 billion was approved by US $ 2.9 billion in the early 2023.
+
+The first installment was approved in March 2023, and then the second installment was completed in December, the third installment last June last year.
+
+Sri Lanka were also able to conclude a successful agreement with the restructuring program.
+
+◼️
 
 [Data](articles/eabf4170.json)
+
+[Extended Data](ext_articles/eabf4170.ext.json)
 
 ---
 
@@ -106,45 +122,59 @@ Minister Sabry also affirmed that the President has appointed two committees to 
 
 ---
 
-### 'ADK' live In Concert rap indie ප්‍රසංගයට සියල්ල සූදානම්
+### 'ADK' Live In Concrete Rap Indie all ready for the concert
 
 *2024-08-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199465) · `si`
 
-'ADK' live In Concert rap indie ප්‍රසංගය වෙනුවෙන් ඊට සහභාගී වීමට  ADK ඇතුළු සංගීත ශිල්පීන් අද (01) පෙරවරුවේ ඉන්දියාවේ සිට කටුනායක ගුවන් තොටුපොළින් මෙරටට පැමිණ තිබුණි.
+ADK, known as Ayian Dinesh Kanagaratnam, has gained popularity in Sri Lanka and India after winning the Best Hip Hop Video award at the Derana Roar 2023. Originally from India, ADK will perform at his "Live In Concert Rap Indie" on August 4th in Colombo, featuring artists like Sri Rascol, Malaysia Jacks, Styles, Krrish Macon, and Rap Ceylon.
 
-මට්ටක්කුලියේ උපත ලබා සංගීත ක‍්ෂේත්‍රයට පිවිස ජාත්‍යන්තරය ජයගත් සංගීතඥ ආරියන් දිනේෂ් කනගරත්නම් නොහොත් ADK මේ වනවිට මෙරට මෙන්ම ඉන්දියාවේද ජනප්‍රියත්වයට පත්වී සිටී.
+🟩
 
-ADK ගයන ROAR ගීතයට 2023 දෙරණ මියුසික් වීඩියෝ අවෝර්ඩ්ස් හිදී හොඳම හිපොප් වීඩීයෝවට හිමි සම්මානය හිමිවූ අතර සම්මාන උළෙලේ වැඩිම සම්මාන සංඛ්‍යාවක්ද හිමිවූයේ ඔහුටය.
+ADK's 'ADIVE INCERT RAP INDIE' INDIE shows that AdK had arrived in Sri Lanka from India to Katunayake airport this morning.
 
-මේ ජනප්‍රිය සංගීතඥයා එක්වන ADK ' live In Concert rap indie ප්‍රසංගය එළඹෙන අගෝස්තු 4 වනදා පස්වරු 6 ට කොළඹ නෙළුම් කුලුන පරිශ්‍රයේදී පැවැත්වීමට සියලු කටයුතු සූදානම් කර තිබේ.
+Ayian Dinesh Kanagaratnam alias Ayan Dinesh Kanagaratnam alias, who won the music industry in Mattakkuliya, has become popular in Sri Lanka and India.
 
-ඊට මැලේසියාවේ ශ්‍රී රාස්කෝල්, ඉන්දියාවේ ජැක්ස් ස්ටයිල්ස් සහ ක්‍රිෂ් මනෝජ්, රැප් සිලෝන් ඇතුළු පිරිසක්ද එක්වීමට නියමිතය.
+Top 2023 to the Gayana Roar of 2023, Derana Roar won the Best Hiprop Video.
+
+All arrangements have been made to hold the AdK 'Live In Concort Rap Indie Concert to the 4th Aug 4th August, Colombo 4 at 6 pm.
+
+Sri Rascol, Malaysia, Malaysia, and Jacks Styles and Krrish Maoon, Rap Ceylon and others.
 
 ◼️
 
 [Data](articles/5a96e014.json)
 
+[Extended Data](ext_articles/5a96e014.ext.json)
+
 ---
 
-### කණ්ඩායම තුළ අවාසනාවන්ත දේවල් කිහිපයක් වුණා - සනත් ජයසූරිය
+### Sanath Jayasuriya was a number of unfortunate in the group - Sanath Jayasuriya
 
 *2024-08-01 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199464) · `si`
 
-හෙට (02) පැවැත්වෙන තරගයේදී ක්‍රීඩකයන්ට මානසිකව ලබාදිය හැකි සහයෝගය උපරිමයෙන් ලබාදෙන ලෙස සනත් ජයසූරිය මහතා ක්‍රීඩාලෝලීන්ගෙන් ඉල්ලා සිටී.
+Sanath Jayasuriya, Sri Lanka's acting cricket coach, urged fans to support players mentally during a press conference ahead of a three-day ODI series. He mentioned that six Sri Lankan fast bowlers are currently unfit due to illness, including Binura Fernando, Dilshan Madusanka, Dilshan Chamira, Mathayu Kumara, Lahiru Kumaratha, Lahiru Kumara, and Nuwan Thushara. The team is dealing with a flu outbreak, affecting key player Wanindu Hasaranga, who was hospitalized. Despite these challenges, Jayasuriya emphasized resilience and the temporary nature of setbacks, focusing on the upcoming matches starting at the Colombo R Premadasa Stadium.
 
-ශ්‍රී ලංකා හා ඉන්දියාව අතර හෙට ආරම්භ වන තරග 03කින් යුත් එක්දින තරගාවලිය පිළිබඳ අද (01) පැවැති ප්‍රවෘත්ති සාකච්ඡාවේදී ඔහු මේ බව අනාවරණය කළේය.
+🟩
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ වැඩබලන පුහුණුකරු ලෙසින් කටයුතු කරන සනත් ජයසූරිය මහතා වැඩිදුරටත් පවසා සිටියේ, මේ වනවිට ශ්‍රී ලංකා වේගපන්දු යවන්නන් 06 දෙනෙකු ආබාධවලට ලක්වී සිටින බවය.
+Mr. Sanath Jayasuriya has requested the sports fans to give the players to the best of the players mentally (02).
 
-“බිනුර ප්‍රනාන්දු, ඩිල්ෂාන් මධුසංක, දුෂ්මන්ත චමීර, මතීෂ පතිරණ, ළහිරු කුමාර, නුවන් තුෂාර මේ හය දෙනාම අබාධයට ලක්වෙලා ඉන්නේ. අපි 19 දෙනෙකු කණ්ඩායමට ඇතුළත් කළා.
+He was speaking at a press conference held at the three-day one ODI series tomorrow (01).
 
-ශ්‍රී ලංකා කණ්ඩායම ඇතුළේ උණක් තියෙනවා. මහීෂ් තීක්ෂණට උණ හැදිලා හිටියේ, වනිඳු හසරංගට මුල උණ හැදිලා හිටියා. බිනුර ප්‍රනාන්දුව අන්තිමට රෝහල්ගත කරන්නත් වුණා.
+Sanath Jayasuriya, acting coach of the Sri Lankan cricket team, said that six Sri Lankan fast bowler were disabled at present.
 
-අවාසනාවන්ත දේවල් කිහිපයක් වුණා. ඒත් ඒවා අපේ නිදහසට කරුණු නෙමෙයි. මටත් හරි ලේසයි තාවකාලික පුහුණුකරු, මේ තරගාවලි දෙක විතරයි කියලා කියන්න.
+"Binura Fernando, Dilshan Madusanka, Dilshan Chamira, Mathayu Kumara, Lahiru Kumaratha, Lahiru Kumara and Nuwan Thushara are suffering from the impairment. We entered the group 19.
+
+There is a fever inside the Sri Lankan team. Mahime inspector was at the root of the flu of Wanindu Hazaranga. Finally the Buddha was hospitalized.
+
+There were several misfortunes. But they're not our excuses. I'm easy and temporary coach, tell only two of these tournaments.
+
+I'm not looking. I'm not also someone who wants to overcome defeat. I've been in this season my years. Everyone who can be accepted. It is the temporary suffering. "
 
 ...
 
 [Data](articles/60b1549d.json)
+
+[Extended Data](ext_articles/60b1549d.ext.json)
 
 ---
 

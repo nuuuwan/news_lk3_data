@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 23:20:51**
+As of **2024-08-01 23:35:58**
 
 ## Newspaper Stats
 
-*Scraped **38,523** Articles*
+*Scraped **38,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,461
 adalk | 3,540
 adaderanalk | 4,455
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,787
+tamilmirrorlk | 4,788
 virakesarilk | 6,094
 adaderanasinhalalk | 6,494
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,523 (100.0%) of 38,523 articles have been extended.
+38,523 (100.0%) of 38,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ரணிலை அவசரமாக சந்தித்தார் மஹிந்த
+
+*2024-08-01 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-அவசரமாக-சந்தித்தார்-மஹிந்த/175-341425) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிற்கும் இடையில் கொழும்பு - விஜேராமவில் உள்ள மஹிந்த ராஜபக்ஷவின் இல்லத்தில் இன்று இரவு 7 மணிக்கு சந்திப்பு இடம்பெற்றதாகத் தகவல்கள் தெரிவிக்கின்றன.
+
+சுமார் 1 மணி நேரம் இடம்பெற்ற இந்தக் கலந்துரையாடலில் எதிர்வரும் ஜனாதிபதித் தேர்தல் தொடர்பில் கலந்துரையாடப்பட்டதாக மஹிந்த ராஜபக்ஷவுக்கு நெருக்கமான தரப்பினர் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/1d369a00.json)
+
+---
 
 ### 83 Indian fishermen currently in Sri Lanka’s judicial custody: Indian govt tells Parliament
 
@@ -2281,27 +2295,5 @@ The IHP said in a statement on Wednesday July 31 that the June estimates are pro
 [Data](articles/b578f23b.json)
 
 [Extended Data](ext_articles/b578f23b.ext.json)
-
----
-
-### A statement from Minister Kanchanta about fuel stocks
-
-*2024-08-01 11:26:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-තොග-ගැන-ඇමති-කංචනගෙන්-ප්‍රකාශයක්/11-411140) · `si`
-
-Minister Kanchana Wijesekara announced that there are ample fuel stocks. After reviewing the fuel cargo plan for the next six months, including storage capacity and refinery operations with CPC management, he assured of uninterrupted supply due to buffer stock maintenance.
-
-🟩
-
-Minister of Power and Energy Kanchana Wijesekara said that there are excess fuel stocks.
-
-Reviewed The Fuel Cargo Plan For The Next 6 months, storage capacity, storage capacity, storage caption, and refinery operations with The CPC Management Yesterday.
-
-The CPC Maintains A Buffer Stockn Products and Will Continue an Uninterrupted Supply ... Pic.twitter.com/zp6ukfll9A
-
-◼️
-
-[Data](articles/675e9538.json)
-
-[Extended Data](ext_articles/675e9538.ext.json)
 
 ---

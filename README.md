@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 20:06:47**
+As of **2024-08-01 20:20:41**
 
 ## Newspaper Stats
 
-*Scraped **38,507** Articles*
+*Scraped **38,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,461
 adalk | 3,537
 adaderanalk | 4,452
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,784
+tamilmirrorlk | 4,786
 virakesarilk | 6,094
 adaderanasinhalalk | 6,487
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,507 (100.0%) of 38,507 articles have been extended.
+38,507 (100.0%) of 38,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### மாளிகாவத்தையில்  தீப்பரவல்
+
+*2024-08-01 19:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தையில்-தீப்பரவல்/175-341422) · `ta`
+
+மாளிகாவத்தை பகுதியில் உள்ள இரண்டு மாடிக் கட்டடம் ஒன்றில் தீ பரவியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+தீயைக் கட்டுப்படுத்துவதற்கு 3 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளதாகவும்  தீயணைப்புப் பிரிவினர் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/a1f7f977.json)
+
+---
+
+### நிரந்தர காணி உறுதிப் பத்திரங்கள் குறித்து மகிழ்ச்சியான அறிவிப்பு
+
+*2024-08-01 19:27:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-காணி-உறுதிப்-பத்திரங்கள்-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341421) · `ta`
+
+பெருந்தோட்ட மக்களின் உண்மையான சமூகமயமாக்கலுக்கு அவர்கள் அனைவருக்கும் நிரந்தர காணி உறுதி பத்திரங்களை வழங்குவதாகவும், வசிப்பிட உரிமையை இனி சலுகைப் பத்திரத்தில் மட்டுப்படுத்தாமல் இது சம்பந்தமான ஜனாதிபதியின் வேலைத்திட்டம் தொடர்கிறது என பெருந்தோட்ட நிறுவன மறுசீரமைப்பு அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+
+சுமார் 200 வருட கால வரலாற்றைக் கொண்ட பெருந்தோட்ட மக்களே தமக்காக உரிமை இல்லாத காணிகளினால் அதிகம் பாதிக்கப்படுவதாக அமைச்சர் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/bd21ce55.json)
+
+---
 
 ### ‘Sri Lanka’s agreement will be revised under a future mandate’ – Sajith tells IMF team
 
@@ -2219,59 +2247,5 @@ Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lak
 [Data](articles/721c812d.json)
 
 [Extended Data](ext_articles/721c812d.ext.json)
-
----
-
-### A clear growth of foreign employment remittances
-
-*2024-08-01 10:27:08* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-ප්‍රේෂණවල-පැහැදිලි-වර්ධනයක්/11-411138) · `si`
-
-Foreign employment remittances surged to $3.14 billion in the first half of the year, up from $2.82 billion in the same period last year. Tourism income also rose to $1.57 billion, compared to $1 million previously. The nation's gross reserves reached $5.7 billion by June.
-
-🟩
-
-Foreign employees' remittances have risen to US $ 3,144 million in the first six months of this year.
-
-The Central Bank said that during the period last year, Foreign Employees' Remittances have been received US $ 2,823 million.
-
-The tourism industry has earned US $ 1,557 million in the first six months of the year, one million in the corresponding period last year.
-
-Meanwhile, by the end of June, the country's gross reserves have increased to $ 5.7 billion.
-
-◼️
-
-[Data](articles/42b316e7.json)
-
-[Extended Data](ext_articles/42b316e7.ext.json)
-
----
-
-### Wife who murdered her husband?Shock
-
-*2024-08-01 10:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கணவனை-கொலை-செய்த-மனைவி-யாழில்-அதிர்ச்சி/71-341389) · `ta`
-
-A shocking incident occurred in Jaffna where a family man, known for his involvement in poultry farming, was killed by a gang in a pre-dawn attack. The victim's wife discovered the crime scene and alerted the family, leading to the arrest of two suspects. The motive behind the murder seems to be robbery of a gold chain, which the police are investigating further.
-
-🟩
-
-A young man and a young man have been arrested for allegedly murdering a husband in Jaffna.
-
-In the Udupiti Imaman area, a family man who was involved in poultry meat has been murdered.
-
-In the early hours of June 03, the vehicle was returned after he was brought in a vehicle from the outskirts.
-
-When the family came out to hear the noise outside the house, a violent gang was carrying a sword attack on him.
-
-When his wife came out to hear the noise, the gang fled after robbing the gold chain he was wearing.
-
-A family member who was injured in a sword cut has been admitted to the hospital just days after treatment.
-
-Investigations by the police revealed that the jewelery was robbed to convert the murder of the family as a jewelery murder, police arrested the murderer's wife and launched investigations.
-
-◼️
-
-[Data](articles/d7f02efc.json)
-
-[Extended Data](ext_articles/d7f02efc.ext.json)
 
 ---

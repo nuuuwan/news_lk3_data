@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 15:05:41**
+As of **2024-08-01 15:20:28**
 
 ## Newspaper Stats
 
-*Scraped **38,452** Articles*
+*Scraped **38,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,526
-adaderanalk | 4,442
+adalk | 3,527
+adaderanalk | 4,443
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,778
+tamilmirrorlk | 4,782
 virakesarilk | 6,083
-adaderanasinhalalk | 6,474
+adaderanasinhalalk | 6,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,452 (100.0%) of 38,452 articles have been extended.
+38,452 (100.0%) of 38,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ரணிலை சந்தித்தார் குகதாசன்
+
+*2024-08-01 15:04:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்தார்-குகதாசன்/175-341412) · `ta`
+
+திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர்  கதிரவேலு சண்முகம் குகதாசன், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை  ஜனாதிபதி செயலகத்தில் வைத்து, புதன்கிழமை (31) சந்தித்து கலந்துரையாடினார்.
+
+திருகோணமலை மாவட்டத்தில் நிலவும் பல்வேறு தேவைகள் மற்றும் அபிவிருத்தி பற்றி கலந்துரையாடினார் என அறியமுடிகின்றது.
+
+பாராளுமன்ற உறுப்பினர் குகதாசன், தமிழ் தேசியக் கூட்டமைப்பின் முன்னாள் தலைவரான மறைந்த இரா.சம்பந்தனின் பாராளுமன்ற உறுப்பினர் வெற்றிடத்துக்கு நியமிக்கப்பட்டவர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/682bbb19.json)
+
+---
+
+### තවත් හමාස් ප්‍රබලයෙක් ඝාතනය කෙරේ
+
+*2024-08-01 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199448) · `si`
+
+හමාස් සංවිධානයේ හමුදා අංශයේ නායකයා ලෙස සැලකෙන මොහොමඩ් ඩේයිෆ් ව ඝාතනය කළ බව ඊශ්‍රායලය නිල වශයෙන් නිවේදනය කළේය.
+
+පසුගිය 13 වනදා ගාසා තීරයට එල්ලකළ ගුවන් ප්‍රහාරයකින් ඔහු ඝාතනය වී තිබුණි.
+
+ගාසා තීරය ඛාන් යුනිස් ප්‍රදේශයේ පිහිටි ගොඩනැගිල්ලක් තුළ ඔහු සිටින විට ඊශ්‍රායල හමුදාව එල්ලකළ ගුවන් ප්‍රහාරයකින් ඔහු මියගොස් ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/5920a6b6.json)
+
+---
+
+### Hamas military chief killed in air strike, Israel says
+
+*2024-08-01 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100915/hamas-military-chief-killed-in-air-strike-israel-says) · `en`
+
+Israel’s military says it killed Hamas military chief Mohammed Deif in an air strike in Gaza on 13 July.
+
+Deif was targeted in an Israeli strike on a compound in the Khan Younis area.
+
+Israel says Deif was one of the figures responsible for the planning of the 7 October attacks in southern Israel in which 1,200 people were killed.
+
+Israel’s announcement comes after the assassination of Hamas political leader Ismael Haniyeh, who was killed in Tehran, and senior Hezbollah commander Fuad Shukr, who was killed in an Israeli air strike on the Lebanese capital, Beirut.
+
+Mohammed Deif was head of the Izzedine al-Qassam Brigades, the military arm of the Hamas movement.
+
+He was imprisoned by Israeli authorities in 1989, after which he formed the Brigades with the aim of capturing Israeli soldiers.
+
+Israel accused him of planning and supervising bus bombings which killed tens of Israelis in 1996, and of involvement in the capture and killing of three Israeli soldiers in the mid-1990s.
+
+...
+
+[Data](articles/45fcbebb.json)
+
+---
+
+### இவரை உங்களுக்குத் தெரியுமா?
+
+*2024-08-01 14:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவரை-உங்களுக்குத்-தெரியுமா/175-341410) · `ta`
+
+நீர்கொழும்பு பொது வைத்தியசாலையில் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த நிலையில் மரணமடைந்தவர் தொடர்பிலான தகவல்களை  கட்டுநாயக்க பொலிஸார், பொதுமக்களிடம் கோரியுள்ளனர்.
+
+கட்டுநாயக்க, மடுவ பிரதேசத்தில் வசிக்கும் சமன் குமார என்ற 62 வயதுடைய நபர் மருத்துவ சிகிச்சைக்காக நீர்கொழும்பு பொது வைத்தியசாலையில் கடந்த ஜூலை (11) ஆம் திகதி அனுமதிக்கப்பட்டார்.
+
+அவரது உடல்நிலை மோசமடைந்ததால், வைத்தியசாலையில் தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டு சிகிச்சை பெற்றுவந்தநிலையில்  கடந்த (25) திகதி வியாழக்கிழமை உயிரிழந்தார்.
+
+இதுவரை நீர்கொழும்பு பொது வைத்தியசாலைக்கு இவரின் சடலத்தை பெற்றுக்கொள்ள எவரும் முன்வராத நிலையில், பராமரிப்பாளரின் தொலைபேசி இலக்கமாக வழங்கப்பட்ட தொலைபேசி இலக்கம் போலியானது என தற்போது தெரியவந்துள்ளது.
+
+இவரைப் பற்றி ஏதேனும் தகவல் தெரிந்தால், இலங்கை பொலிஸ் அல்லது கட்டுநாயக்க பொலிஸ் நிலைய கட்டளைத் தளபதியை 0718591639 அல்லது 0112252222 என்ற இலக்கத்திற்கு தொடர்பு கொள்ளுமாறு கட்டுநாயக்க பொலிஸார் கேட்டுக்கொள்கின்றனர்.
+
+◼️
+
+[Data](articles/811494ca.json)
+
+---
 
 ### Inflation to 2.4 percent in July
 
@@ -81,6 +157,20 @@ The plantation worker, who is allegedly attacked, has lodged a complaint at the 
 [Data](articles/d9678966.json)
 
 [Extended Data](ext_articles/d9678966.ext.json)
+
+---
+
+### මතීෂ සහ ඩිල්ෂාන් වෙනුවට මොහොමඩ් සහ මාලිංග කණ්ඩායමට
+
+*2024-08-01 13:58:24* · [`adalk`](https://www.ada.lk/sports/මතීෂ-සහ-ඩිල්ෂාන්-වෙනුවට-මොහොමඩ්-සහ-මාලිංග-කණ්ඩායමට/9-411143) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සමග පැවැත්වෙන එක්දින ක්‍රිකට් තරඟාවලිය හෙට(02දා) ආරම්භ​ වේ.
+
+මෙම තරඟයට ක්‍රීඩා කිරීමට නියමිතව සිටි මතීෂ පතිරණ සහ ඩිල්ෂාන් මධුසංක ආබාධ හේතුවෙන් තරගයෙන් ඉවත්වී ඇති අතර ඒ වෙනුවට මොහොමඩ් සිරාස් සහ ඉෂාන් මාලිංග කණ්ඩායමේ ස්ථානයක් හිමි කරගෙන ඇත.
+
+◼️
+
+[Data](articles/b3178c75.json)
 
 ---
 
@@ -415,6 +505,24 @@ Haniyeh was killed by a missile that hit him “directly” in a state guesthous
 [Data](articles/4f80a6fd.json)
 
 [Extended Data](ext_articles/4f80a6fd.ext.json)
+
+---
+
+### வாள் வெட்டில் கையை விட்டோடிய இளைஞன்
+
+*2024-08-01 12:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்-வெட்டில்-கையை-விட்டோடிய-இளைஞன்/175-341404) · `ta`
+
+மாரவில , பஹல வலஹாபிட்டிய பிரதேசத்தில் இரு குழுக்களுக்கிடையில் இடம்பெற்ற மோதலின் போது வாள்வெட்டுத் தாக்குதலுக்கு இலக்காகி 23 வயதுடைய இளைஞன் ஒருவனின் கை மணிக்கட்டுடன் துண்டிக்கப்பட்டதுடன், காயமடைந்த நபர் கையை சம்பவ இடத்தில் விட்டு தப்பியோடியுள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர் .
+
+சில காலமாக நிலவி வந்த தனிப்பட்ட முரண்பாடு காரணமாக இந்த வாள்வெட்டு தாக்குதல் இடம்பெற்றுள்ளதாக தெரியவந்துள்ளது .
+
+காயமடைந்த இளைஞன் மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் அங்கிருந்து கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் , தாக்குதலை மேற்கொண்ட நபர், கீழ் வலஹாபிட்டிய பிரதேசத்தை சேர்ந்த, இரண்டு பிள்ளைகளின் தந்தையான் 35 வயதுடையவர் என்றும் இது தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/51273cdf.json)
 
 ---
 
@@ -1169,6 +1277,20 @@ It is worth noting that 7 candidates have been controlled so far to contest the 
 [Data](articles/d5b1b2d8.json)
 
 [Extended Data](ext_articles/d5b1b2d8.ext.json)
+
+---
+
+### கட்டுப்பணம் செலுத்தினார் விஜயதாஸ
+
+*2024-08-01 10:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-விஜயதாஸ/175-341388) · `ta`
+
+தேசிய ஜனநாயக முன்னணி சார்பில் விஜயதாஸ ராஜபக்ஸ இன்று (01) கட்டுப்பணம் செலுத்தினார்.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிட இதுவரை 07 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/ed4731e9.json)
 
 ---
 
@@ -2149,149 +2271,5 @@ He said the new system will see features of advanced technologies to enhance veh
 [Data](articles/f5446565.json)
 
 [Extended Data](ext_articles/f5446565.ext.json)
-
----
-
-### CA Sri Lanka unleashes power of digital innovation, calls for entries for prestigious TAGS Awards 2024
-
-*2024-08-01 03:49:02* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-unleashes-power-of-digital-innovation-calls-for-entries-for-prestigious-TAGS-Awards-2024/34-764996) · `en`
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) has announced the commencement of applications for the prestigious TAGS Awards 2024, celebrating excellence in corporate reporting for the 59th year.
-
-A beacon of innovation and best practices in financial and non-financial reporting, the TAGS Awards will culminate in a grand ceremony on 12 December at the Shangri-La Hotel, Colombo.
-
-The TAGS Awards, which stands for Transparency, Accountability, Governance, and Sustainability, formerly known as the Annual Report Awards, held since 1964, continue their legacy in celebrating and recognising organisations that excel in both financial and non-financial reporting. The competition is open to a wide range of entities, including multinationals, blue-chip companies, conglomerates, SMEs, NPOs, NGOs, and other entities that produce annual reports.
-
-...
-
-[Data](articles/e0e8642d.json)
-
-[Extended Data](ext_articles/e0e8642d.ext.json)
-
----
-
-### Easing Sri Lanka’s fiscal burden: Who needs a State pension?
-
-*2024-08-01 03:15:07* · [`dailyftlk`](https://www.ft.lk/opinion/Easing-Sri-Lanka-s-fiscal-burden-Who-needs-a-State-pension/14-764993) · `en`
-
-Public sector workers’ pensions are paid by tax revenue, with 12% of Government revenue allocated for pensions
-
-An IPS analysis shows that public service pensions are not a progressive welfare program, with half of the publicly funded pensions benefitting the top 20% wealthier group
-
-Implementing a contributory pension fund is crucial to creating a more sustainable and equitable retirement system
-
-The recent economic crisis has highlighted the need to address weaknesses in Sri Lanka’s economic policies for long-term structural change. One significant issue is the financial burden of public sector pensions. The Public Services Pensions (PSP) is the largest pension scheme for permanent public sector employees in Sri Lanka. However, its non-contributory nature has become a critical burden on the country, wherein pension benefits are funded directly from Government revenue, supported by general taxation.
-
-...
-
-[Data](articles/d77407bd.json)
-
-[Extended Data](ext_articles/d77407bd.ext.json)
-
----
-
-### Will Sri Lankans still send Sri Lankans?
-
-*2024-08-01 02:45:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xj3v4g4v8o) · `si`
-
-Sri Lankans trapped in cyber slavery camps in Myanmar are rescued, with 8 brought back home in April 2024. Victims faced brutal conditions, including forced labor and torture, before their rescue.
-
-🟩
-
-"There was only a piece of cake and egg. I was hungry, and asked if you feel sad. What should I do? "The mother of a 34-year-old daughter's mother has told the Sinhala service, who is a 34-year-old daughter who is forced to serve in Myanmar's cyber slavery camp.
-
-We will still call our speech description from the description of our speech to the division of the daughter of a slave camp.
-
-It is a great effort to save her daughter in the clutches of cyber racketeers from October 2023 and said that there were 57 Sri Lankans at least 15 Sri Lankans.
-
-"The best friend of the daughter in Romania was trying to go. He says he doesn't know about this. It is called his Husband's friends. But it was complete if they didn't know. Because there are somebody who has gone there over there. They say that this place is like this place. He can't say that he doesn't know. "
-
-Vasanthi's daughter leaves in Sri Lanka to enter the interview with data entry in Thailand.
-
-...
-
-[Data](articles/ef7be38c.json)
-
-[Extended Data](ext_articles/ef7be38c.ext.json)
-
----
-
-### Yall. Retirement Chancellor Reddowns in Punnalaikkattu
-
-*2024-08-01 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189950) · `ta`
-
-Velayudhar Balasubramaniam, a 68-year-old retired chancellor from Punnalaikkattuvan, was found dead in his home on Mayilangadu Road. Living alone since divorcing his wife 10 years ago, he had no local family; his children reside abroad. The discovery was made when someone returned to collect belongings. An autopsy will be conducted at the Jaffna Teaching Hospital.
-
-🟩
-
-A retirement Chancellor who lives alone in a house has been found dead on Wednesday (31). The deceased is Velayudhar Balasubramaniam (age 68), a native of Punnalaikkattuvan, Mayilangadu Road.
-
-The person has been living alone for the past 10 years after splitting his wife. His children are living abroad. The man who had rented the house and left the house had been found dead in the house when the man came home to pick up their goods.
-
-The death investigation into his body was carried out by A.Jayapalasingham. The body has been recovered and placed at the Jaffna Teaching Hospital for autopsy.
-
-◼️
-
-[Data](articles/89db0bf1.json)
-
-[Extended Data](ext_articles/89db0bf1.ext.json)
-
----
-
-### Supreme Court interim ruling only a direction given to President
-
-*2024-08-01 02:12:43* · [`dailyftlk`](https://www.ft.lk/columns/Supreme-Court-interim-ruling-only-a-direction-given-to-President/4-764992) · `en`
-
-The recent Supreme Court interim ruling has two components. On the first, that is restraining Deshabandu from “the powers, functions and responsibilities” of the office of IGP, the interim order is broad and straightforward.
-
-The second pertains to the appointment of a suitable officer to act in the office of IGP. The SC ruling states: “...His Excellency the President may, should he wish to, consider making appointment, in terms of the law, of a suitable person to act in the post of IGP for the duration of the afore-stated interim order.”
-
-Strictly speaking, this is only a direction given to the President, respecting the legal provisions under which he has the power to make acting appointment. In effect, it suggests to him that he may, if he wants to, consider making an acting appointment, in terms of the law.
-
-It has been made clear that the President is in no mood to consider this direction of the Supreme Court, to go by the special statement made by the PM in Parliament today.
-
-...
-
-[Data](articles/9369837e.json)
-
-[Extended Data](ext_articles/9369837e.ext.json)
-
----
-
-### SLPP defectors, Tamil options, ‘Democracy in Debt’ and Vickramabahu’s validation
-
-*2024-08-01 01:58:17* · [`dailyftlk`](https://www.ft.lk/columns/SLPP-defectors-Tamil-options-Democracy-in-Debt-and-Vickramabahu-s-validation/4-764990) · `en`
-
-“…In short, the global democratic trend this year is a resounding rejection of the status quo.”
-
-– ‘A Global Movement Against The Status Quo’ By Ian Bremmer, TIME, 5 Aug. 2024 –
-
-Given the global trend as summed-up by Ian Bremmer, one of the world’s best-known think-tank gurus, a win for incumbent Wickremesinghe is virtually unthinkable.
-
-Given the decision by Mahinda Rajapaksa’s SLPP to fend-off Wickremesinghe’s political piracy and field a candidate under the party banner, a Ranil win is logically impossible.
-
-As PM in 2001-3, Ranil overstepped the mark and encroached on President Kumaratunga’s terrain. She tossed him out. As PM in 2015-2019, he did the same with President Sirisena, was turfed out, made a comeback thanks to the Supreme Court he now derides, and was evicted by the electorate.
-
-...
-
-[Data](articles/8c2e685c.json)
-
-[Extended Data](ext_articles/8c2e685c.ext.json)
-
----
-
-### 25 years after assassination: Dr. Neelan Tiruchelvam’s enduring legacy in human rights and constitutional reform
-
-*2024-08-01 01:43:39* · [`dailyftlk`](https://www.ft.lk/opinion/25-years-after-assassination-Dr-Neelan-Tiruchelvam-s-enduring-legacy-in-human-rights-and-constitutional-reform/14-764989) · `en`
-
-Dr. Neelan Tiruchelvam’s legacy is one of profound intellectual and humanitarian impact, rooted in a steadfast commitment to nonviolence, human rights, and inclusive dialogue
-
-The Sri Lankan civil war ended with a brutal and decisive Government victory in May 2009, resulting in the deaths of an estimated 40,000 Tamil civilians during the final stages of the conflict. If the LTTE and the Sri Lankan political parties had formed a consensus and worked to implement the constitutional reform proposals which Dr. Tiruchelvam helped formulate, the war likely could have ended much sooner, potentially saving countless lives
-
-...
-
-[Data](articles/8a18b7bf.json)
-
-[Extended Data](ext_articles/8a18b7bf.ext.json)
 
 ---

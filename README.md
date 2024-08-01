@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 13:36:08**
+As of **2024-08-01 13:55:40**
 
 ## Newspaper Stats
 
-*Scraped **38,438** Articles*
+*Scraped **38,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,56 +13,134 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,322
+economynextcom | 2,323
 dailyftlk | 2,461
 adalk | 3,524
-adaderanalk | 4,441
+adaderanalk | 4,442
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,776
 virakesarilk | 6,077
-adaderanasinhalalk | 6,472
+adaderanasinhalalk | 6,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,432 (100.0%) of 38,438 articles have been extended.
+38,438 (100.0%) of 38,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### மேகவெடிப்பால்  12 பேர் பலி; 36 பேர் மாயம்
+### India officially protests death of fisherman in Sri Lankan waters
 
-*2024-08-01 13:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-12-பேர்-பலி-36-பேர்-மாயம்/175-341406) · `ta`
+*2024-08-01 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100913/india-officially-protests-death-of-fisherman-in-sri-lankan-waters) · `en`
 
-வடமாநிலங்களில் மேகவெடிப்பால் ஏற்பட்ட மழை (வழக்கத்திற்கு மாறான பெரும் மழையை மேக வெடிப்பு என்பார்கள்) வெள்ளத்தில் சிக்கி இதுவரை 12 பேர் உயிரிழந்துள்ளனர்.
+India on Thursday (01) lodged a strong protest with Sri Lanka over an alleged collision between a Sri Lankan naval vessel and an Indian fishing boat that killed a fisherman and left another missing.
 
-ஹிமாச்சல பிரதேசம் மற்றும் அதன் அண்டை மாநிலமான உத்தரகாண்டில் மேகவெடிப்பு ஏற்பட்டு, கனமழை பெய்து வருகிறது. இதனால், பல்வேறு பகுதிகளில் வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
+The India’s Ministry of External Affairs has called in Sri Lanka’s Acting High Commissioner to India Priyanga Wickremesinghe, on Thursday morning to register a protest over the incident, the Indian External Affairs Ministry said in a statement.
 
-உத்தரகாண்டில் தெஹ்ரி, ஹரித்வார், ரூர்க்கி, சமோலி, டேராடூன் உள்ளிட்ட பகுதிகளில் பலத்த சேதம் ஏற்பட்டுள்ள நிலையில், தெஹ்ரி மாவட்டம் ஞானசாலியில் வீடு இடிந்து விழுந்த விபத்தில், 3 பேர் உயிரிழந்தனர். மேலும், 6 பேர் மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இதனிடையே, மாநிலத்தின் வெவ்வேறு இடங்களில் நடந்த விபத்துக்களில் 9 பேர் உயிரிழந்துள்ளனர்.
+The incident comes in the wake of a Sri Lankan Navy personnel being killed during an operation to seize an Indian fishing boat in July.
 
-மேலும், சார்தாம் யாத்திரை செல்பவர்கள் பயன்படுத்தும் முக்கிய பாலம் இந்த கனமழையால் சேதமடைந்த நிலையில், அதை சீரமைக்க 4 முதல் 5 நாட்களாகும் என்று தெஹ்ரி கலெக்டர் மயூர் தீக்ஷித் தெரிவித்துள்ளார்.
+The collision was reported early on Thursday morning between a Sri Lankan naval vessel and an Indian fishing boat at a location five nautical miles north of Katchatheevu island. “Out of the four Indian fishermen who were on board the vessel, one unfortunately lost his life, and another is missing,” the statement said.
 
 ...
 
-[Data](articles/01bbce5b.json)
+[Data](articles/2ca76d7d.json)
 
 ---
 
-### எம்.பி யின் வழக்கு ஒத்திவைப்பு
+### හමාස් නායකයාගේ ඝාතනයට පළිගන්න ඉරානය සුදානමින්
+
+*2024-08-01 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199446) · `si`
+
+ඉරානයේ දී සිදුවූ හමාස් නායක ඉස්මයිල් හනියේගේ ඝාතනයට ප්‍රතිචාර වශයෙන් ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කරන ලෙසට ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනි නියෝග කර තිබේ.
+
+ඉස්මයිල් හනියේගේ ඝාතනය දැඩිව විවේචනය කරන ඉරාන අධ්‍යාත්මික නායකයා හදිසියේ රැස්වූ ඉරාන අධ්‍යාත්මික ජාතික ආරක්ෂණ කවුන්සිලය මෙම නියෝගය ලබා දී තිබුණි.
+
+ඉස්මයිල් හනියේගේ ඝාතනය සම්බන්ධයෙන් යුක්තිය ඉටුකිරීම තමන්ගේ වගකීම වන බව අධ්‍යාත්මික නායකයාගේ මතයයි.
+
+මෙවන් පසුබිමක සිය නායකයාගේ ඝාතනය මැද පෙරදිග යුද ගැටුම් වෙනත් දිශානතියකට යොමු කරනු ඇති බව හමාස් සංවිධානය පවසයි.
+
+හනියේ ඝාතන සැලසුම පිළිබඳව තමන් දැනුවත්ව නොසිටි බව පවසන අමෙරිකාව අවධාරණය කරන්නේ ඊශ්‍රායල - හමාස් යුද ගැටුම් සම්බන්ධයෙන් වහාම සටන් විරාමයක් අත්‍යවශ්‍ය බවය.
+
+ඊශ්‍රායලය තමන්ට එල්ල වන චෝදනා පිළිබඳව මෙතෙක් කිසිදු ප්‍රතිචාරයක් දක්වා නැතත් විදෙස් රටවලදී සිය සතුරන් ඝාතනය කිරීම සම්බන්ධයෙන් කුප්‍රකට ඉතිහාසයක් ඊශ්‍රායලයට පවතී.
+
+◼️
+
+[Data](articles/c4614606.json)
+
+---
+
+### Sri Lanka’s tuktukrental.com expands to Cambodia
+
+*2024-08-01 13:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-tuktukrental-com-expands-to-cambodia-174799/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tuktukrental.com, which allows tourists to rent tuk tuks, said it had expanded into Cambodia after, and was aiming to rope in 1,000 vehicles to its fleet by the end of the year.
+
+In 2024, the firm said it had helped 600 tuk tuk owners earn 1.5 million dollars by renting to foreigners.
+
+Driving tuk tuks in Sri Lanka is a unique travel experience that some foreigners like to try out.
+
+“Leveraging our learnings from Sri Lanka, we are taking the next step in our journey with the expansion to Cambodia this year,” said Tom Cornish, Co-Founder at tuktukrental.com.
+
+The expansion into Cambodia, which has wide use of motor bicycles, ensures it remains at the forefront of the rental market, the company says.
+
+The company says it wants to provide exceptional travel experiences for tourists, while also improving the lives of tuk tuk owners.
+
+“At tuktukrental.com, we believe in the power of tourism to transform lives and create unique experiences.”
+
+...
+
+[Data](articles/c991d6be.json)
+
+---
+
+### 12 killed by cloud36 people magic
+
+*2024-08-01 13:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-12-பேர்-பலி-36-பேர்-மாயம்/175-341406) · `ta`
+
+Heavy rainfall in Northern Territories' Himachal Pradesh and Uttarakhand caused floods, killing 12 and injuring 6. Three deaths occurred in Uttarakhand from a house collapse, while nine died in accidents. The main bridge in Tehri was damaged, affecting pilgrims. In Himachal Pradesh, 36 were affected in Rampur, with two found. Rescue efforts are ongoing amidst heavy rain.
+
+🟩
+
+In the Northern Territories, 12 people have been killed in a flood of clouds (unusual heavy rainfall).
+
+Himachal Pradesh and its neighboring state of Uttarakhand. As a result, there has been floods in various areas.
+
+In Uttarakhand, three people were killed when a house collapsed in Gnanasalai in Tehri district, including severe damage to Tehri, Haridwar, Roori, Samoli and Dehradun.. Also, 6 people were hospitalized. Meanwhile, nine people have died in accidents in different parts of the state.
+
+Tehri Collector Mayur Dixit said that the main bridge used by Sartham pilgrims has been damaged by the heavy rains.
+
+Similarly, 36 people were beaten to Rampur in the floods in Shimla district in Himachal Pradesh.. Two people have been recovered as the search for them is intensifying. In the midst of heavy rains, the Deputy Commissioner of Rampur said that rescue and relief work has been accelerated.
+
+◼️
+
+[Data](articles/01bbce5b.json)
+
+[Extended Data](ext_articles/01bbce5b.ext.json)
+
+---
+
+### MP's case is adjudicated
 
 *2024-08-01 12:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-யின்-வழக்கு-ஒத்திவைப்பு/175-341405) · `ta`
 
-பொய்யான தகவல்களை அளித்து இலங்கை கடவுச்சீட்டை பெற்றுக்கொண்டதாக முறைப்பாடு செய்யப்பட்டுள்ள நீதவான் விசாரணை தொடர்பில் தமக்கு எதிராக சுமத்தப்பட்டுள்ள ஏழு குற்றச்சாட்டுக்களை முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே வியாழக்கிழமை (01) ஒப்புக்கொண்டார்.
+Diana Kamage, former State Minister, pleaded not guilty to seven allegations related to providing false information for a Sri Lankan passport during a magistrate's inquiry. The case was adjourned until October 24th by Colombo Chief Magistrate Thilina Gamage.
 
-குறித்த வழக்கு கொழும்பு பிரதான நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோது, ​​தாம் குற்றத்தை ஒப்புக்கொள்ளவில்லை என டயானா கமகே நீதிமன்றத்திற்கு அறிவித்தார்.
+🟩
 
-இதன்படி, குறித்த வழக்கு விசாரணை ஒக்டோபர் 24ஆம் திகதிக்கு கொழும்பு பிரதான நீதவான் திலின கமகேயினால் ஒத்திவைக்கப்பட்டடுள்ளமை குறிப்பிடத்தக்கது,
+Former State Minister Diana Kamage on Thursday (01) has agreed to the seven allegations leveled against him in connection with the Magistrate's inquiry into the Sri Lankan passport for giving false information.
+
+When the case was taken up for hearing at the Colombo Chief Magistrate's Court, Diana Kamage informed the court that she did not plead the crime.
+
+Accordingly, the case has been postponed by Colombo Chief Magistrate Thilina Kamage on October 24.
 
 ◼️
 
 [Data](articles/833e08fe.json)
+
+[Extended Data](ext_articles/833e08fe.ext.json)
 
 ---
 
@@ -86,21 +164,27 @@ Haniyeh was killed by a missile that hit him “directly” in a state guesthous
 
 ---
 
-### வாள் வெட்டு தாக்குதல் ;கையை விட்டு ஓடிய இளைஞன்
+### Sword -cut attack; a young man who ran out of hand
 
 *2024-08-01 12:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்-வெட்டு-தாக்குதல்-கையை-விட்டு-ஓடிய-இளைஞன்/175-341404) · `ta`
 
-மாறவில , பஹல வலஹாபிட்டிய பிரதேசத்தில் இரு குழுக்களுக்கிடையில் இடம்பெற்ற மோதலின் போது வாள்வெட்டுத் தாக்குதலுக்கு இலக்காகி 23 வயதுடைய இளைஞன் ஒருவனின் கை மணிக்கட்டுடன் துண்டிக்கப்பட்டதுடன், காயமடைந்த நபர் கையை சம்பவ இடத்தில் விட்டு தப்பியோடியுள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர் .
+A sword attack during a clash in Bahala Walahapitiya left a 23-year-old seriously injured. The incident, stemming from a long-standing personal feud, saw the victim flee the scene. He was first taken to Marawila Hospital before being transferred to Colombo National Hospital. Police, investigating the case, identified the victim as a 35-year-old father of two from Valahapitiya.
 
-சில காலமாக நிலவி வந்த தனிப்பட்ட முரண்பாடு காரணமாக இந்த வாள்வெட்டு தாக்குதல் இடம்பெற்றுள்ளதாக தெரியவந்துள்ளது .
+🟩
 
-காயமடைந்த இளைஞன் மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் அங்கிருந்து கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+During a clash between two groups in the Bahala Walahapitiya area, a 23 -year -old youth was cut off with a wrist and the injured person fled the scene, Marawila police said.
 
-மேலும் , தாக்குதலை மேற்கொண்ட நபர், கீழ் வலஹாபிட்டிய பிரதேசத்தை சேர்ந்த, இரண்டு பிள்ளைகளின் தந்தையான் 35 வயதுடையவர் என்றும் இது தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+It has been revealed that the sword attack has occurred due to a personal conflict that has existed for some time.
+
+The injured youth has been transferred to the Colombo National Hospital after being admitted to the Marawila Hospital.
+
+In addition, the police said that the father of two children from Valahapitiya area was 35 years old and is conducting further investigations.
 
 ◼️
 
 [Data](articles/f10e964d.json)
+
+[Extended Data](ext_articles/f10e964d.ext.json)
 
 ---
 
@@ -128,31 +212,43 @@ The body of the magisterial has been placed at the Dambulla Hospital while Galki
 
 ---
 
-### ரயில்வே திணைக்களத்தின் விசேட அறிவிப்பு
+### A special notification of the Railway Department
 
 *2024-08-01 12:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-திணைக்களத்தின்-விசேட-அறிவிப்பு/175-341403) · `ta`
 
-ஆகஸ்ட் (01) முதல் ஒன்லைன் முறையின் மூலம் ஆசனங்களை முன்பதிவு செய்யும் நேரம் திருத்தப்படவிருந்த நிலையில், அது மேற்கொள்ளப்பட மாட்டாது என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+The Railway Department announced changes to its seat booking system starting August 1st. Originally, bookings were set to begin at 7:00 pm via an online system but have been adjusted to start at 10:00 am. This change was made due to technical issues with the computer system, as stated by Railway Deputy Manager MNJ Indibollake.
 
-ஒன்லைன் முறை மூலம் தினமும் இரவு 7.00 மணிக்கு ஆசன ஒதுக்கீடு ஆரம்பிக்கப்பட்ட நிலையில் அதனை, திருத்தம் செய்து காலை 10.00 மணிக்கு ஆரம்பிக்க முடிவு செய்யப்பட்டது.
+🟩
 
-இருப்பினும், கணினி அமைப்பின் தொழில்நுட்ப சிக்கல்கள் காரணமாக அதனை முன்னர் இருந்த நேரத்திற்கே மேற்கொள்ள தீர்மானிக்கப்பட்டுள்ளதாக ரயில்வே துணை முகாமையாளர் எம்.என்.ஜே.இந்திபொலகே தெரிவித்தார்.
+The Railway Department has said that it will not be carried out as the time to booking seats from August (01) from August (01).
+
+With the online system, the seat allocation was started at 7.00 pm daily and it was decided to commence at 10.00 am.
+
+However, due to the technical problems of the computer system, it has been decided to take it in the past, ”said Railway Deputy Manager MNJ Indibollake.
 
 ◼️
 
 [Data](articles/c66dde79.json)
 
+[Extended Data](ext_articles/c66dde79.ext.json)
+
 ---
 
-### වෙඩි වැදීමකින් පුද්ගලයෙකු රෝහල් ගත කෙරේ
+### A person is hospitalized with a shooting
 
 *2024-08-01 12:36:32* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදීමකින්-පුද්ගලයෙකු-රෝහල්-ගත-කෙරේ/11-411141) · `si`
 
-වදුරන් පැන්නීම සඳහා සිය බලපත්‍ර සහිත බෝර 12 ගිනි අවිය රැගෙන ඉඩමේ යමින් සිටියදී පට පැටලී වැටීමේදී ගිනි අවිය ක්‍රියාත්මක වී මෙම පුද්ගලයාට වෙඩි වැදී ඇති බව ඔහුගේ බිරිද ප්‍රකාශයක් ලබා දෙමින් සඳහන් කළ බව පොලීසිය සඳහන් කළේය.
+A man in hospital after being shot claims the gun was defective, firing without his intention. He discharged it while transporting monkeys with permits, causing an accident.
+
+🟩
+
+He said that the firearm was boring and shot the firearm when the firearm had been shot and shot at the land when the monkeys were taken into the land with their licenses.
 
 ◼️
 
 [Data](articles/904f36ba.json)
+
+[Extended Data](ext_articles/904f36ba.ext.json)
 
 ---
 
@@ -886,19 +982,25 @@ To protect these resources for that. We expect justice in the High Court. ”sai
 
 ---
 
-### පොහොට්ටුවේ තවත් මන්ත්‍රීවරයෙක් ජනපති රනිල්ගේ සහායට
+### President Rajapaksa's support for Ranil's assistance in Pohon
 
 *2024-08-01 10:03:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තවත්-මන්ත්‍රීවරයෙක්-ජනපති-රනිල්ගේ-සහායට/11-411137) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන ශ්‍රී ලංකා පොදු ජන පෙරමුණු පාර්ලිමේන්තු මන්ත්‍රී ඛණ්ඩායමේ එක් මන්ත්‍රීවරයකු ලෙස තමන් ද ඉදිරිපත් වී සිටින බවත් විදේශ ණය බරින් රට මුදාගෙන ආර්ථික සංවර්ධනයක් කරා රට ගෙන යා හැක්කේ එතුමාට පමණක් බවත් ත්‍රිකුණාමල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සම සභාපති පාර්ලිමේන්තු මන්ත්‍රී කපිල නුවන් අතුකෝරල මහතා පැවසීය .
+MP Kapila Nuwan Athukorala, supporting President Ranil Wickremesinghe, emphasizes economic recovery and growth. He highlights Wickremesinghe's leadership during challenging times, stating his commitment to fairness and justice for all parties involved.
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාට රැල්ලට ඡන්දය දුන්නත් රට කරවීමට එතුමාට පලපුරුද්දක් නොතිබුණු නිසා අරගලය හේතුවෙන් ඉවත්වීමට සිදුවීම නවක මන්ත්‍රවරයෙකු ලෙස තමන් අත්දැක්ක නරකම දේ බවද කපිල නුවන් අතුකෝරල මහතා කීහ.
+🟩
 
-අරාජික වෙද්දී රට භාරගත් එකම නායකයා වූ රනිල් වික්‍රමසිංහ මහතා කෙටි කාලයක් තුළ රට යම් ප්‍රමාණයකට ස්ථාවර මට්ටමකට ගෙන ඒමට හැකි වූ බවද පාර්ලිමේන්තු මන්ත්‍රීවරයා කීහ .රනිල් වික්‍රමසිංහ මහතාට ජනාධිපතිවරණයේදී සහය දැක්වුවද තමන් ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පෙරමුණ අතහැර නොයන බව කී මන්ත්‍රීවරයා ජයග්‍රහණයෙන් පසු රනිල් වික්‍රමසිංහ මහතා සහාය දුන්  සියලු පක්ෂ වලට සාධාරණය ඉටු කරන බවද කීහ.
+MP Kapila Nuwan Athukorala, the co-chairman of the Trincomalee District Coordinating Committee who supports President Ranil Wickremesinghe has been submitted to economic debt and will be brought to economic growth.He said.
+
+Kapila Nuwan Athukorale said that he had no experience to leave due to the struggle, as he had no experience to leave former President Gotabhaya Rajapaksa.
+
+MP Ranil Wickremesinghe, the only leader of the country, was able to reach the presidential election in a short period of time, but MP Wickremesinghe said he would not abandon the Sri Lankan front periods.He said justice to all supported parties.
 
 ◼️
 
 [Data](articles/7fecc85f.json)
+
+[Extended Data](ext_articles/7fecc85f.ext.json)
 
 ---
 
@@ -2151,61 +2253,5 @@ Pierce the vitamin E capsules and squeeze out the oil into the strained mixture.
 [Data](articles/4d99e09e.json)
 
 [Extended Data](ext_articles/4d99e09e.ext.json)
-
----
-
-### CEAT Kelani helps Monaragala’s rubber farmers keep their children in school
-
-*2024-07-31 22:56:00* · [`islandlk`](http://island.lk/ceat-kelani-helps-monaragalas-rubber-farmers-keep-their-children-in-school/) · `en`
-
-Presents school bags, shoes and stationery to 120 students of Vidyartha Maha Vidyalaya, Nakkala
-
-School-going children of a rubber farming community in Sri Lanka’s Monaragala District were the latest beneficiaries of a social responsibility initiative of CEAT Kelani Holdings, one of the biggest domestic users of the country’s natural rubber.
-
-The company presented 120 students of Vidyartha Maha Vidyalaya, Nakkala, Monaragala, the school bags, school shoes and exercise books they need, continuing the company’s support to one of its most important stakeholder groups.
-
-CEAT Kelani Holdings, which manufactures half of Sri Lanka’s pneumatic tyre requirements, sources 100 per cent of its natural rubber requirement from local producers that employ 10,000 cultivator families.
-
-Similar distributions of school requisites were made by the company earlier this year at two schools in the Matugama zone, at three schools in the Kuruwita area and at a school in Elpitiya.
-
-...
-
-[Data](articles/f51f7983.json)
-
-[Extended Data](ext_articles/f51f7983.ext.json)
-
----
-
-### ALFT Packaging shines as beacon of modern CI -Flexo innovation at Drupa Germany, 2024
-
-*2024-07-31 22:54:00* · [`islandlk`](http://island.lk/alft-packaging-shines-as-beacon-of-modern-ci-flexo-innovation-at-drupa-germany-2024/) · `en`
-
-ALFT Packaging, a prominent player in the flexible packaging industry, showcased the potential of Modern Flexo recently at Drupa 2024 held in Germany, the world’s largest trade fair for the printing and packaging industry and its technologies. Drupa Germany has been taking place every four years and reputed as a premier industry event all around the world.
-
-Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured prominently at the trade fair for its innovative Flexographic printing techniques. Importantly it was the sole company selected from South Asia as a designated Miraclon Lighthouse project.
-
-ALFT Packaging’s presence at such a high calibre event, highlighted its exceptional commitment to Modern Flexographic printing and collaboration with Miraclon to push the boundaries from conventional Flexo.
-
-...
-
-[Data](articles/cb13abdc.json)
-
-[Extended Data](ext_articles/cb13abdc.ext.json)
-
----
-
-### Softlogic Stockbrokers’ investment platform “StockGPT” enhanced with Azure OpenAI Service
-
-*2024-07-31 22:53:00* · [`islandlk`](http://island.lk/softlogic-stockbrokers-investment-platform-stockgpt-enhanced-with-azure-openai-service/) · `en`
-
-Organizations across all industries and of all sizes are leveraging Microsoft AI’s versatile and cutting-edge solutions to achieve remarkable outcomes. Softlogic Stockbrokers, the full-service brokerage arm of Softlogic Capital PLC, have recently harnessed the power of Microsoft Azure OpenAI Service to introduce StockGPT, an innovative AI tool designed to empower the financial services sector.
-
-Microsoft Azure OpenAI Service is an advanced, fully managed service that empowers developers to seamlessly incorporate cutting-edge OpenAI models into their applications. The service is designed to streamline the integration process, offering a straightforward and user-friendly Application Programming Interface (API) that simplifies the adoption of AI technologies. Hosted on Microsoft Azure, the service provides robust scalability and reliability that developers can leverage to deploy their AI applications with confidence, without having to worry about managing the underlying infrastructure.
-
-...
-
-[Data](articles/0f277d27.json)
-
-[Extended Data](ext_articles/0f277d27.ext.json)
 
 ---

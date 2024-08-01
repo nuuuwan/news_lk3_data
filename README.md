@@ -1,54 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 08:36:01**
+As of **2024-08-01 08:55:15**
 
 ## Newspaper Stats
 
-*Scraped **38,369** Articles*
+*Scraped **38,374** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
-bbccomsinhala | 368
+bbccomsinhala | 369
 islandlk | 2,203
 economynextcom | 2,312
 dailyftlk | 2,461
 adalk | 3,516
-adaderanalk | 4,433
+adaderanalk | 4,434
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
-virakesarilk | 6,063
-adaderanasinhalalk | 6,459
+virakesarilk | 6,065
+adaderanasinhalalk | 6,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,368 (100.0%) of 38,369 articles have been extended.
+38,369 (100.0%) of 38,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### මත්ද්‍රව්‍ය ළඟ තබා ගත් බන්ධනාගාර නිලධාරියාට වැඩවරදී
+### பதில் பொலிஸ்மா அதிபரை நியமிப்பதற்கான அரசியலமைப்பு அதிகாரத்தைப் பயன்படுத்துவது தேர்தல் விதிகளை மீறுவதாக அமையாது - சிரேஷ்ட சட்டத்தரணிகள் சுட்டிக்காட்டு
+
+*2024-08-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189955) · `ta`
+
+அரசியலமைப்பின் பிரகாரம் பதில் பொலிஸ்மா அதிபரை நியமிப்பதற்கான அதிகாரம் ஜனாதிபதிக்கு உண்டு எனவும், அத்தகு நியமனத்தை மேற்கொள்வது தேர்தல் விதிகளை மீறுவதாக அமையாது எனவும் சுட்டிக்காட்டியிருக்கும் சிரேஷ்ட சட்டத்தரணிகள், பதில் பொலிஸ்மா அதிபரின்கீழ் எவ்வித இடையூறுகளுமின்றி தேர்தலை நடாத்தமுடியும் எனவும் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படுமென தேர்தல்கள் ஆணைக்குழு அறிவித்திருக்கும் பின்னணியில், தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராகக் கடமையாற்றுவதற்கு உயர்நீதிமன்றம் பிறப்பித்திருக்கும் இடைக்காலத்தடையுத்தரவை மையப்படுத்தி ஜனாதிபதி, பிரதமர், சபாநாயகர் உள்ளிட்ட பல்வேறு தரப்பினரும் சர்ச்சைக்குரிய கருத்துக்களை வெளியிட்டுள்ளனர்.
+
+...
+
+[Data](articles/655a3361.json)
+
+---
+
+### ඩොලර් ගේන සංචාරකයෝ
+
+*2024-08-01 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199433) · `si`
+
+මේ වසරේ පළමු මාසය 6තුළ සංචාරක ක්ෂේත්‍රයෙන් අමෙරිකානු ඩොලර් මිලියන 1,557ක් මුදලක් උපයා ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+◼️
+
+[Data](articles/d7d060cd.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-01 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100905/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places, it said, adding that several spells of showers will occur in North-western province and in Matale district.
+
+Showers or thundershowers may occur at a few places in Badulla, Ampara and in Batticaloa districts in the evening or night.
+
+Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/7a46da36.json)
+
+---
+
+### Prison officer who kept near the drug
 
 *2024-08-01 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199432) · `si`
 
-අයිස් යැයි සැක කළ හැකි මත්ද්‍රව්‍ය ළඟ තබාගැනීමේ චෝදනාවට අත්අඩංගුවට ගත් වැලිකඩ බන්ධනාගාර නිලධාරිවරයෙකුගේ සේවය අත්හිටුවා තිබේ.
+A Welikada Prison officer faces suspension after being caught with drugs during an inspection. The officer, part of the Prison Emergency Response Team, was arrested and transferred to Borella Police Station for further investigation.
 
-වැලිකඩ බන්ධනාගාර ප්‍රධාන දොරටුවේ දී බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බලකා නිලධාරීන් විසින් අදාළ බන්ධනාගාර නිලධාරීවරයා පරීක්ෂා කිරීමේ දී ඔහු සතුව තිබී අයිස් යැයි සැක කළ හැකි මත්ද්‍රව්‍ය පැකට්  කිහිපයක් සොයාගෙන ඇති බව සඳහන්ය.
+🟩
 
-ඔහුගේ රාජකාරී පාවහන් තුළ ඉතා සූක්ෂම ලෙස ඒවා සඟවා තිබු බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
+A Welikada Prison officer has been suspended for the allegations of suspicious drugs.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වසර 20ක පමණ කාලයක් බන්ධනාගාරයේ සේවය කළ නිලධාරියෙකු බව සඳහන්ය.
+In the Welikada Prison, Prison Emergency Response Trick Response Trickback Trickrit Persons have found several narcotics officer in the inspection of the prison officer.
 
-අත්අඩංගුවට ගත් සැකකරු සැකකරු ඉදිරි නීතිමය කටයුතු සඳහා බොරැල්ල පොලිස් ස්ථානය වෙත යොමුකර තිබේ.
+Prison media spokesman Prison Spokesman Gaminne B.. Dissanayake added.
+
+The suspect was arrested for 20 years of prison.
+
+The suspect has been sent to the Borella Police Station for further legal proceedings.
 
 ◼️
 
 [Data](articles/de5b7076.json)
+
+[Extended Data](ext_articles/de5b7076.ext.json)
+
+---
+
+### இலங்கையை சேர்ந்தவரின்  பல்பொருள் அங்காடியை சூறையாடியதுகாடையர் கும்பல் -பிரிட்டனின் சௌத்போர்ட்டில் கத்திக்குத்து தாக்குதலின் பின்னர் வன்முறை-
+
+*2024-08-01 08:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189954) · `ta`
+
+பிரிட்டனின் சௌத்போர்ட்டில் கத்திக்குத்து சம்பவத்தில் சிறுமிகள் பலியானதை தொடர்ந்து இடம்பெற்ற வன்முறைகளின் போது இலங்கையை சேர்ந்த ஒருவரின் பல்பொருள் அங்காடியை வன்முறை கும்பலொன்று சூறையாடி பெரும் சேதத்தையும் நஸ்டத்தையும் ஏற்படுத்தியுள்ளது என பிபிசி தெரிவித்துள்ளது.
+
+வின்ட்ஸர் மினிமார்ட்டின் ஜன்னல்களை உடைத்து உள்ளே நுழைந்த வன்முறை கும்பல்களை சேர்ந்தவர்கள் பெறுமதியான பொருட்களை கொள்ளையடித்துள்ளனர் என அவர் தெரிவித்துள்ளார்.
+
+கத்திக்குத்து தாக்குதலில் பலியானவர்களை நினைவுகூரும் நிகழ்வின் பின்னர்மெனேசைட் பகுதியில் வன்முறைகள் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+
+அந்த பகுதி பாதுகாப்பனதாக மாறலாம் என்ற அச்சம் காரணமாக தனது வர்த்தக நிலையத்தையை மூடிக்கொண்டு அன்று மாலை வீடு திரும்பிய இலங்கையரான பாலசூரிய வீட்டில் உள்ள சிசிடிவி கமராவின் மூலம் தனது வர்த்தக நிலையம் சூறையாடப்படுவதை பார்த்துள்ளார்.
+
+அவர்களிற்கு வர்த்தக நிலையத்தை உடைத்து உள்ளே செல்வதற்கு பத்து அல்லது பதினைந்து நிமிடங்கள் மாத்திரமே தேவையாகயிருந்தது அவர்கள் ஜன்னல் கண்ணாடிகளை காலால் உதைத்தனர் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ec74004b.json)
 
 ---
 
@@ -419,6 +491,24 @@ The recent economic crisis has highlighted the need to address weaknesses in Sri
 [Data](articles/d77407bd.json)
 
 [Extended Data](ext_articles/d77407bd.ext.json)
+
+---
+
+### මියන්මාර සයිබර් වහල් කඳවුරට තවමත් ලාංකිකයෝ යවනවා ද?
+
+*2024-08-01 02:45:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xj3v4g4v8o) · `si`
+
+“කන්න දීලා තිබුණේ කේක් කෑල්ලකුයි, බිත්තරේකුයි විතරයි. මට බඩගිනි මමා ඔයාට දුක හිතෙන්නේ නැද්ද කියලා ඇහුවා. මම මොනවා කරන්න ද?” ඒ, මියන්මාරයේ සයිබර් වහල් කඳවුරක සේවයේ යෙදෙන්නට බල කෙරී ඇති 34 හැවිරිදි දියණියකගේ මවක්,  බීබීසි සිංහල සේවයට කී කතාව ය.
+
+තවමත් වහල් කඳවුරුක පීඩා විඳින දියණියගේ ආරක්ෂාව පතා මෙතැන් පටන් අපි අපගේ කතා නායිකාව වසන්ති යන අනුවර්ථ නාමයෙන් හඳුන්වන්නෙමු.
+
+2023 වසරේ ඔක්තෝම්බර් මාසයේ සිට සයිබර් ජාවාරම්කරුවන්ගේ ග්‍රහණයේ සිටින ඇයගේ දියණිය ඉන් බේරගැනීමට ඇය මහත් වෙහෙසක් දරමින් සිටින අතර දැනට එම කඳවුරු තුළ අවම වශයෙන් ශ්‍රී ලාංකිකයන් 57 දෙනෙකු සිටින බවත් ඉන් 15 දෙනෙකු පමණ කාන්තාවන් බවත් වසන්ති කියා සිටියාය.
+
+“රුමේනියාවල ඉන්න දුවගේ හොඳම යාලුවෙක් තමයි එයාට යන්න හදලා දුන්නේ. එයා දැන් කියන්නේ එයා දන්නේ නැහැ මේ ගැන කියලා. එයාගේ හස්බන්ඩ්ගේ යාලුවෙක් තමයි යැව්වේ කියලා කියන්නේ. හැබැයි එයාලා දැනගෙන හිටියේ නැහැ කියලා කිව්වට ඒක සම්පුර්ණ බොරු. මොකද එතනට එයාලගෙන් ඊට කලින් ගිය අයත් ඉන්නවා. ඒ අය කියන්න ඇතිනේ මේ තැන මේ වගේ කියලා. එතකොට එයා දන්නේ නෑ කියන්න බැහැනේ.”
+
+...
+
+[Data](articles/ef7be38c.json)
 
 ---
 
@@ -2115,119 +2205,5 @@ Postal voting applications will end on 05.08.2010 to 05.08.2015.
 [Data](articles/24545425.json)
 
 [Extended Data](ext_articles/24545425.ext.json)
-
----
-
-### Dictok headquarters staff are affected by food allergies
-
-*2024-07-31 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189904) · `ta`
-
-In Singapore, 60 Dictok employees suffered food allergies, leading to hospital admissions. The company responded swiftly, sending 17 ambulances and cooperating with health authorities. Investigations are ongoing due to uncooked external food supplies. Dictok, known for its popular processors, emphasizes employee safety and follows global health standards.
-
-🟩
-
-A number of employees affected by food allergies have been admitted to the hospital in the Singapore office, one of the international headquarters of Dictok.
-
-The incident took place on Tuesday (30). During this time, 60 people have food allergies.
-
-Sent seventeen ambulances to treat the sick people. 57 of the victims were treated at the hospital.
-
-Health and food safety officials are investigating the matter.
-
-It has been reported that the food is not cooked in the bite dance offices and the food is provided from the outside.
-
-We are actively monitoring the health and safety of our employees. We have taken steps to provide assistance to all affected employees with emergency services.
-
-The Singapore Food Institute (SFA) said in a statement issued by the Ministry of Health, the Ministry of Health, that food providers should adopt health safety procedures.
-
-...
-
-[Data](articles/62869e1b.json)
-
-[Extended Data](ext_articles/62869e1b.ext.json)
-
----
-
-### Yall. The case against former Medical Superintendent of the Chavakachcheri Hospital
-
-*2024-07-31 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189906) · `ta`
-
-The case against the ex-Medical Superintendent of Chavakachcheri Hospital, facing slander and duty disruption charges, was postponed until September 11. The court heard five complaints against him. His lawyer argued his case, but the opposing lawyers objected, citing lack of evidence from the doctor. The court then ordered the doctor to visit the police station for questioning before the next hearing.
-
-🟩
-
-The case against the former Medical Superintendent of the Chavakachcheri Hospital in Jaffna has been postponed to September 11.
-
-The Chavakachcheri Magistrate's Court was held today at the Chavakachcheri Magistrate's Court on five complaints, including the former Medical Superintendent, slandering him and disrupting the duty.
-
-At the same time, the Attorney -at -Law, who appeared on behalf of the former Medical Superintendent, referred to both sides of the case and presented the submission to the House of Commons.
-
-The lawyers who appeared on behalf of the complainants objected and pointed out in the House that the doctor went to the police station and not provided evidence of the accused.
-
-Subsequently, the case was adjourned to the 11th of this month and ordered the doctor to go to the police station and make a statement.
-
-◼️
-
-[Data](articles/83fc1c89.json)
-
-[Extended Data](ext_articles/83fc1c89.ext.json)
-
----
-
-### Latest news price of Litro gas prices
-
-*2024-07-31 16:01:41* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අලුත්ම-ආරංචියක්/11-411122) · `si`
-
-Litro gas prices remained unchanged in August.
-
-🟩
-
-The Litro Gas prices have not been revised in August.
-
-◼️
-
-[Data](articles/c6e435ec.json)
-
-[Extended Data](ext_articles/c6e435ec.ext.json)
-
----
-
-### Two motorcycle collision with tipper vehicle in Kilinochchi
-
-*2024-07-31 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/189903) · `ta`
-
-In Kilinochchi, a mother and daughter on a motorcycle collided with a returning tipper truck near a school. Both were injured and rushed to the hospital by local youths.
-
-🟩
-
-Kilinochchi District Palai Police Division. The mother and daughter, who was riding a motorcycle, were injured when a tipper vehicle was hit when he returned to a school.
-
-The injured have been taken to the hospital by the youth.
-
-◼️
-
-[Data](articles/9943e1c4.json)
-
-[Extended Data](ext_articles/9943e1c4.ext.json)
-
----
-
-### Notification in connection with the price of Litro
-
-*2024-07-31 15:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-விலை-தொடர்பில்-அறிவிப்பு/175-341351) · `ta`
-
-Litro Cooking Gas won't raise its price in August, says Chairman Muditha Peiris. Additionally, the Ceylon Petroleum Corporation confirms no fuel price revisions after midnight on Wednesday (31).
-
-🟩
-
-Litro Cooking Gas will not change the price of Litro cooking gas for August, Litro, Chairman of Litro said Muditha Peiris said.
-
-Meanwhile, according to the monthly fuel prices in the country, the Ceylon Petroleum Corporation said that the prices of fuel will not be revised from midnight on Wednesday (31).
-
-◼️
-
-[Data](articles/eb3daa23.json)
-
-[Extended Data](ext_articles/eb3daa23.ext.json)
 
 ---

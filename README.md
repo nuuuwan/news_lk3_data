@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 17:36:35**
+As of **2024-08-01 17:57:05**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,480 (100.0%) of 38,482 articles have been extended.
+38,482 (100.0%) of 38,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ලාෆ්ස් ගෑස් මිල ගැන තීරණය කියයි
+### The decision of LAUGFS gas
 
 *2024-08-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199456) · `si`
 
-අගෝස්තු මාසය සඳහා ලාෆ්ස් ගෑස් (ගෘහස්ථ) මිල ද සංශෝධනය නොකෙරෙන බව ලාෆ්ස් ගෑස් සමාගම පවසයි.
+LAUGFS Gas Company announced no price changes for domestic gas in August.
+
+🟩
+
+LAUGFS Gas Company says that the price of LAUGFS gas (domestic gas) is not amended for the month of August.
 
 ◼️
 
 [Data](articles/4728455d.json)
+
+[Extended Data](ext_articles/4728455d.ext.json)
 
 ---
 
@@ -106,15 +112,21 @@ The Indian External Affairs Ministry has said that the Indian High Commissioner 
 
 ---
 
-### පාසල් සිසුන්ට අද සිට වසර තුනක් දක්වා ලැබෙන විශේෂ වරප්‍රසාදය
+### Special privilege for school children to three years from today
 
 *2024-08-01 16:34:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-අද-සිට-වසර-තුනක්-දක්වා-ලැබෙන-විශේෂ-වරප්‍රසාදය/11-411148) · `si`
 
-අද දින සිට වසර තුනක කාලයක් සඳහා සුරක්ෂා සිසු රක්ෂණය රජයේ සියලුම පාසල්, රජයේ අනුමත සියලු ම පෞද්ගලික පාසල්වලත්, පිරිවෙන් සහ උපකෘත විශේෂිත පාසල්වලත් අධ්‍යාපනය ලබන සිසු සිසුවියන් වෙනුවෙන් ලබා දෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය. අමාත්‍යවරයා මෙම අදහස් පළ කළේ අධ්‍යාපන අමාත්‍යාංශය සහ ශ්‍රී ලංකා රක්ෂණ සංස්ථාව අතර එම රක්ෂණාවරණය ක්‍රියාත්මක කිරීමට අදාළ ගිවිසුමට අත්සන් තැබීමේ අවස්ථාවට එක් වෙමිනි. අධ්‍යාපන අමාත්‍යාංශය වෙනුවෙන් අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිය ගිවිසුමට අත්සන් තැබූ අතර ශ්‍රී ලංකා රක්ෂණ සංස්ථාව වෙනුවෙන් එහි ප්‍රධාන මෙහෙයුම් නිලධාරි ප්‍රියන්ත පෙරේරා මහතා අත්සන් තැබී ය.
+From today, all government and specialized schools' students will enjoy special privileges for three years, including financial support for medical treatments, accidents, and even education-related expenses. This initiative, costing Rs. 7,112 million, was announced by the Minister of Education, Susil Premajayantha, during a partnership signing with the Sri Lanka Insurance Corporation. Students, their parents, and legal guardians will benefit from this scheme, which also includes a digital insurance cover.
+
+🟩
+
+Minister of Education Susil Premajayantha said that all the schools to study in all government schools, students, and financial specialized schools for three years from today.. The Minister made these comments participating in the signing of the agreement between the Ministry of Education and the Sri Lanka Insurance Corporation.. The Secretary to the Ministry of Education Thilaka Jayasundara has signed the agreement with the Chief Operating Officer of Sri Lanka Insurance Corporation.
 
 ...
 
 [Data](articles/fad5ddd7.json)
+
+[Extended Data](ext_articles/fad5ddd7.ext.json)
 
 ---
 

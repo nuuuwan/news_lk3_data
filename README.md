@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 13:05:49**
+As of **2024-08-01 13:20:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,430 (100.0%) of 38,432 articles have been extended.
+38,432 (100.0%) of 38,432 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ Haniyeh was killed by a missile that hit him “directly” in a state guesthous
 
 [Data](articles/4f80a6fd.json)
 
+[Extended Data](ext_articles/4f80a6fd.ext.json)
+
 ---
 
-### හෝටල් සේවකයෙක් අබිරහස් ලෙස මරුට
+### Hotel worker killed
 
 *2024-08-01 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199445) · `si`
 
-ගල්කිරියාගම පොලිස් වසමේ බලලුවැව ප්‍රදේශයේ නිවසක ඇඳක් මත සැකකටයුතු ලෙස පුද්ගලයෙකු මියගොස්  තිබේ.
+In the Galkiriyagama Police Division, a hotel worker was found dead in a house. The victim, aged 56 from Kalawwawewa, Jayamawatta Junction, is now at Dambulla Hospital pending further police investigation.
 
-ඊයේ (31) ගල්කිරියාගම පොලීසියට ඒ සම්බන්ධයෙන් ලද පණිවුඩයක් මත පොලීසිය විසින් විමර්ශන ආරම්භ කර තිබුණි.
+🟩
 
-මෙලෙස මිය ගොස් ඇත්තේ, 56 හැවිරිදි ජයමාවත හංදිය, බලලුවැව ප්‍රදේශයේ තාවකාලිකව පදිංචි වී සිටි කලාවැව, අනුරාධපුර ප්‍රදේශයේ  පදිංචිකරුවෙකි.
+A person has been killed in a bed of a house in a house in the Galkiriyagama Police Division.
 
-මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීත්ෂණය සිදුකර දඹුල්ල රෝහලේ තැන්පත් කර ඇති අතර ගල්කිරියාගම පොලීසිය විසින් වැඩිදුර විමර්ශන සිදුකරයි.
+Police have commenced investigations into the Galkadiyagama Police yesterday.
+
+The deceased is a 56-year-old resident of the Kalawwawewa area in Jayamawatta Junction, Balabaweera.
+
+The body of the magisterial has been placed at the Dambulla Hospital while Galkiriyagama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cbef7b36.json)
+
+[Extended Data](ext_articles/cbef7b36.ext.json)
 
 ---
 

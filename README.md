@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 15:20:28**
+As of **2024-08-01 15:36:14**
 
 ## Newspaper Stats
 
-*Scraped **38,459** Articles*
+*Scraped **38,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,527
+adalk | 3,528
 adaderanalk | 4,443
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,782
+tamilmirrorlk | 4,783
 virakesarilk | 6,083
-adaderanasinhalalk | 6,475
+adaderanasinhalalk | 6,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,452 (100.0%) of 38,459 articles have been extended.
+38,452 (100.0%) of 38,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### චීන ජාතිකයින් 6ක් අත්අඩංගුවට
+
+*2024-08-01 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199449) · `si`
+
+නීතිවිරෝධී ලෙස මෙරට රැඳී සිටි චීන ජාතිකයින් හය දෙනෙකු පයාගල ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+වීසා නොමැතිව මෙරට රැඳී සිටි අදාළ විදේශිකයින් පිරිසක් මෙලෙස අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/d2cde524.json)
+
+---
 
 ### ரணிலை சந்தித்தார் குகதாசன்
 
@@ -571,6 +585,22 @@ The body of the magisterial has been placed at the Dambulla Hospital while Galki
 [Data](articles/cbef7b36.json)
 
 [Extended Data](ext_articles/cbef7b36.ext.json)
+
+---
+
+### விசேட அறிவிப்பை விடுத்தது ரயில்வே
+
+*2024-08-01 12:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-அறிவிப்பை-விடுத்தது-ரயில்வே/175-341403) · `ta`
+
+ஆகஸ்ட் (01) முதல் ஒன்லைன் முறையின் மூலம் ஆசனங்களை முன்பதிவு செய்யும் நேரம் திருத்தப்படவிருந்த நிலையில், அது மேற்கொள்ளப்பட மாட்டாது என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+ஒன்லைன் முறை மூலம் தினமும் இரவு 7.00 மணிக்கு ஆசன ஒதுக்கீடு ஆரம்பிக்கப்பட்ட நிலையில் அதனை, திருத்தம் செய்து காலை 10.00 மணிக்கு ஆரம்பிக்க முடிவு செய்யப்பட்டது.
+
+இருப்பினும், கணினி அமைப்பின் தொழில்நுட்ப சிக்கல்கள் காரணமாக அதனை முன்னர் இருந்த நேரத்திற்கே மேற்கொள்ள தீர்மானிக்கப்பட்டுள்ளதாக ரயில்வே துணை முகாமையாளர் எம்.என்.ஜே.இந்திபொலகே தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4333013e.json)
 
 ---
 
@@ -2229,47 +2259,5 @@ Speaking to the media outside the Election Commission of Sri Lanka (ECSL) yester
 [Data](articles/a5e79c1c.json)
 
 [Extended Data](ext_articles/a5e79c1c.ext.json)
-
----
-
-### Appeal Court to rule on Keheliya’s petition and bail appeal on 9 August
-
-*2024-08-01 04:47:03* · [`dailyftlk`](https://www.ft.lk/news/Appeal-Court-to-rule-on-Keheliya-s-petition-and-bail-appeal-on-9-August/56-765010) · `en`
-
-The Court of Appeal is scheduled to deliver its ruling on 9 August regarding the petition filed by former Health Minister and MP Keheliya Rambukwella, seeking an order to invalidate the Maligakanda Magistrate’s Court’s order remanding him till the end of the trial over the alleged import of substandard immunoglobulin vials.
-
-The Court will also take his bail application on the same date. This decision was previously expected to be delivered on 1 August.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 2 February over his alleged complicity in the procurement of substandard immunoglobulin vials.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/f7af9dae.json)
-
-[Extended Data](ext_articles/f7af9dae.ext.json)
-
----
-
-### CMC to rollout new parking system in Colombo soon
-
-*2024-08-01 04:46:27* · [`dailyftlk`](https://www.ft.lk/news/CMC-to-rollout-new-parking-system-in-Colombo-soon/56-765009) · `en`
-
-The Colombo Municipal Council (CMC) yesterday announced that steps are being taken to introduce a new parking management system within the city limits to improve vehicle parking availability for drivers.
-
-“The new system is expected to be rolled out within three months,” CMC Deputy Director Traffic and Road Design Eng. Manjula Kularathna said.
-
-He also said that the CMC plans to employ one contractor for one designated zone, instead of the current system, where a contractor and an administrator are assigned to each road.
-
-Kularathna also noted that under the current system, a parking ticket cannot be reused within the same zone for short-term parking whereas the new system is expected to enhance the convenience of the drivers by allowing them to park the vehicles in two or three places within an hour in the respective zone using the same parking ticket.
-
-He said the new system will see features of advanced technologies to enhance vehicle parking services within the Colombo city limits.
-
-◼️
-
-[Data](articles/f5446565.json)
-
-[Extended Data](ext_articles/f5446565.ext.json)
 
 ---

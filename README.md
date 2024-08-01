@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 11:20:55**
+As of **2024-08-01 11:37:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,401 (100.0%) of 38,410 articles have been extended.
+38,410 (100.0%) of 38,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The CID had filed these charge sheets against Diana Gamage under the charges inc
 
 [Data](articles/3d8f3620.json)
 
+[Extended Data](ext_articles/3d8f3620.ext.json)
+
 ---
 
 ### Sri Lanka’s National Industrial Policy and 2023-2027 Strategic Plan prepared
@@ -64,23 +66,31 @@ Addressing the press briefing titled “Two Years of Progress and Way Forward”
 
 [Data](articles/969e8b28.json)
 
+[Extended Data](ext_articles/969e8b28.ext.json)
+
 ---
 
-### மகிந்தவிற்கும் ரணிலுக்கும் இடையில் அரசியல் ஐக்கியத்தை ஏற்படுத்த தினேஸ் தீவிர முயற்சி
+### Dinesh is a serious attempt to create political unity between Mahinda and Ranil
 
 *2024-08-01 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189971) · `ta`
 
-ஜனாதிபதி ரணில்விக்கிரமசிங்கவி;ற்கும்  முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவிற்கும் இடையில் அரசியல்ரீதியில் ஐக்கியத்தை ஏற்படுத்துவதற்கு பிரதமர் தினேஸ் குணவர்த்தன தீவிர முயற்சிகளில் ஈடுபட்டுள்ளார்.
+Dinesh Gunawardena, aiming for political unity between President Ranil Wickremesinghe and ex-President Mahinda Rajapaksa, faces challenges due to Basil Rajapaksa's refusal to support a common candidate from the PA. Despite organizing meetings to forge an electoral alliance, the effort hasn't succeeded yet.
 
-தனது பாடசாலைத்தோழனான ஜனாதிபதியுடனும் முன்னாள் ஜனாதிபதியுடனும் நெருக்கமான உறவுகளை கொண்டுள்ள தினேஸ் குணவர்த்தன,தேர்தலில் ஜனாதிபதிக்கான பொதுத்தளத்தை ஏற்படுத்துவதற்காக  அரசாங்கத்தில் இடம்பெற்றுள்ள அனைத்து கட்சிகளையும் ஐக்கியப்படுத்தும் முயற்சிகளில் ஈடுபட்டார் என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
 
-எனினும் பொதுஜனபெரமுனவின் சார்பி;ல் வேட்பாளரை நிறுத்தவேண்டும் என பசில்ராஜபக்ச பிடிவாதமாகயிருந்ததால் இந்த முயற்சிகள் வெற்றியளிக்கவில்லை.ஜனாதிபதிக்கு வேறு ஒருவரை நிறுத்துவது என ஸ்ரீலங்கா பொதுஜனபெரமுனவின் மத்திய குழு தீர்மானி;த்துள்ளது.
+Prime Minister Dinesh Gunawardena has been actively involved in political unity between President Ranil Wickremesinghe and former President Mahinda Rajapaksa.
 
-தேர்தல் கூட்டணியொன்றை ஏற்படுத்துவதற்காக பிரதமர் ஜனாதிபதிக்கும் முன்னாள் ஜனாதிபதிக்கும் இடையில் சந்திப்புகளை ஏற்பாடு செய்திருந்தார்.
+Dinesh Gunawardena, who has close ties with his schoolchildren, the president and the former president, is trying to unite all the parties in the government to establish a general base for the president.
+
+However, these efforts have not been successful as Basilrajapaksa was stubborn to field a candidate on behalf of the PA.
+
+The Prime Minister had organized meetings between the president and the former president to form an electoral alliance.
 
 ◼️
 
 [Data](articles/30aaf728.json)
+
+[Extended Data](ext_articles/30aaf728.ext.json)
 
 ---
 
@@ -122,39 +132,53 @@ She made this statement after the Criminal Investigations Department (CID) befor
 
 ---
 
-### மத்திய சுற்றாடல் அதிகார சபைக்கு புதிய தலைவர் நியமனம்
+### New Chairman appointment to Central Environmental Authority
 
 *2024-08-01 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189957) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மத்திய சுற்றாடல் அதிகாரசபைக்கு புதிய தலைவரை ஜூலை 30ஆம் திகதி முதல் நியமித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+President Ranil Wickremesinghe replaces Venura Fernando as Chairman of the Central Environmental Authority from July 30. The sudden change has sparked concerns among union members, who were not informed about Fernando's removal. A letter appointing UT Santana Jayalal was issued to key ministry officials on July 31.
 
-தற்போதைய தலைவர் வேணுர பெர்னாண்டோவை திடீரென நீக்கியமைக்கான காரணம் தெரிவிக்கப்படவில்லை என மத்திய சுற்றாடல் அதிகாரசபை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+🟩
 
-ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் கையொப்பமிடப்பட்ட புதிய மத்திய சுற்றாடல் அதிகார சபையின் தலைவராக யு.டி.சந்தன ஜயலால் நியமிக்கப்பட்டமைக்கான கடிதத்தின் பிரதி நேற்று புதன்கிழமை (31) சுற்றாடல் அமைச்சின் செயலாளர் மற்றும் பணிப்பாளர் நாயகம் உட்பட பல அதிகாரிகளுக்கு அனுப்பப்பட்டுள்ளது.
+President Ranil Wickremesinghe has been appointed to the Central Environmental Authority from July 30.
+
+The Central Environmental Authority unions have said that the sudden removal of the current leader Venura Fernando has not been reported.
+
+A letter of appointment of UT Santana Jayalal was sent to several officials, including the Secretary and Director General of the Environment Ministry on Wednesday (31).
 
 ◼️
 
 [Data](articles/cfb1a321.json)
 
+[Extended Data](ext_articles/cfb1a321.ext.json)
+
 ---
 
-### கட்டுப்பணம் செலுத்தினார் விஜயதாஸ ராஜபக்ஷ !
+### Vijayadasa Rajapaksa pays control!
 
 *2024-08-01 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189966) · `ta`
 
-தேசிய ஜனநாயக முன்னணியின் சார்பில்  ஜனாதிபதி வேட்பாளராக விஜயதாச ராஜபக்ஷ கட்டுப்பணம் செலுத்தியுள்ளார்.
+Vijayadasa Rajapaksa is set to run for president in 2024 as the National Democratic Front's candidate. Seven candidates, including five from recognized parties and two independents, have been confirmed for the September 21st election. The election was officially announced last month, leading to restrictions on President Ranil Wickremesinghe's candidacy status. Other notable candidates include Sarath Keerthi Ratna, Ola Lakmal Anil Herath, SG Liyanage, Sajith Premadasa, and SK Bandaranaike.
 
-2024 ஆம் ஆண்டுக்கான ஜனாதிபதித் தேர்தலில் போட்டியிடும் வகையில், தேசிய ஜனநாயக முன்னணி சார்பில் விஜயதாஸ ராஜபக்ஸ இன்று வியாழக்கிழமை  (01) கட்டுப்பணம் செலுத்தியுள்ளார்.
+🟩
 
-2024 செப்டெம்பர் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் போட்டியிடுதற்கு இன்றைய தினம் வரையான காலப்பகுதிக்குள் மாத்திரம் 7  வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+Vijayadasa Rajapakse has been controlled as the presidential candidate on behalf of the National Democratic Front.
 
-இதற்கமைய  அங்கீகரிக்கப்பட்ட அரசியல் கட்சி சார்பில் போட்டியிட 05 வேட்பாளர்களும், சுயாதீனமாக போட்டியிட 02 வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+Vijayadasa Rajapaksa on behalf of the National Democratic Front (NDA) will be in control of the 2024 presidential election on Thursday (01).
 
-ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பை தேர்தல்கள் ஆணைக்கு கடந்த மாதம் 26 ஆம் திகதி வெள்ளிக்கிழமை காலை  வெளியிட்டது. அறிவிப்பு வெளியான ஒருசில மணித்தியாலத்துக்குள் ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயாதீன வேட்பாளராக போட்டியிடுவதற்கு கட்டுப்பணம் செலுத்தப்பட்டது.
+Only 7 candidates have been controlled within the period of today to contest the presidential election to be held on September 21, 2024.
+
+Accordingly, there are five candidates to contest on behalf of the recognized political party and two candidates to contest independently.
+
+The official announcement for the presidential election was issued on Friday morning for the Election Commission last month. Within a few hours of the announcement, President Ranil Wickremesinghe was restricted to contest as an independent candidate.
+
+Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lakmal Anil Herath as the new Freedom Front candidate and SG Liyanage to contest on behalf of the Ceylon Workers Party.
 
 ...
 
 [Data](articles/721c812d.json)
+
+[Extended Data](ext_articles/721c812d.ext.json)
 
 ---
 
@@ -242,23 +266,29 @@ It is worth noting that 7 candidates have been controlled so far to contest the 
 
 ---
 
-### மில்கோ மற்றும் NLDB ஐ விற்பதற்கு எதிரான வழக்கு இன்று
+### Case against selling Milco and NLDB today
 
 *2024-08-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189962) · `ta`
 
-மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் (NLDB) உள்ள காணிகளை விற்பனை செய்வதற்கு எதிராக உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுளள மனு தொடர்பான விவாதம் இன்று வியாழக்கிழமை (01) முற்பகல் 10.30 மணிக்கு நடைபெறவுள்ளது.
+Today, the Supreme Court debates a case filed by the People's Movement to Protect Industrial and Agricultural Lands against selling Milco and NLDB lands. Namal Karunaratne argues these lands are vital resources for national development, emphasizing the need for justice to safeguard them.
 
-கைத்தொழில் மற்றும் விவசாய நிலங்களை பாதுகாக்கும் மக்கள் இயக்கத்தினால் இந்த வழக்கு தொடுக்கப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பாக அகில இலங்கை கமக்காரர்கள் சம்மேளனத்தின் தேசிய அமைப்பாளர் நாமல் கருணாரத்ன கருத்து தெரிவிக்கையில்,
+A debate on the Supreme Court will be held today (01) at 10.30 am today.
 
-மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் உள்ள காணிகள் இலங்கையின் பெறுமதிமிக்க வளங்கள் ஆகும். நாட்டை கட்டியெழுப்புவதற்கு இந்த வளங்களில் இருந்து பயன்பெறுவதற்கான வளர்ச்சியடைந்த வேலைத்திட்டம் எம்மிடம் இருக்கிறது.
+The case has been filed by the People's Movement to Protect Industrial and Agricultural Lands.
 
-அதற்காக இந்த வளங்களை பாதுகாக்க வேண்டும். உயர் நீதிமன்றத்தில் நியாயம் கிடைக்கும் என்று நாங்கள் எதிர்பார்க்கிறோம்.” என்றார்.
+Namal Karunaratne, National Organizer of the All Ceylon Communist Federation, said,
+
+Lands at the Milco Company and the National Plantation Development Board are Sri Lanka's valuable resources. We have a developed program to benefit from these resources to build the country.
+
+To protect these resources for that. We expect justice in the High Court. ”said.
 
 ◼️
 
 [Data](articles/46ec8553.json)
+
+[Extended Data](ext_articles/46ec8553.ext.json)
 
 ---
 
@@ -448,25 +478,33 @@ The arrested suspects are aged 20, 22, 24, 27, 39 and the suspect is 48 years ol
 
 ---
 
-### இலங்கை கடற்பரப்பில் விபத்து : இந்திய மீனவர் உயிரிழப்பு, ஒருவரைக் காணவில்லை !
+### Sri Lankan waters accident: Indian fisherman death
 
 *2024-08-01 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189959) · `ta`
 
-யாழ்ப்பாணம், நெடுந்தீவு கடற்பரப்பில் சட்டவிரோதமாக மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்களை இலங்கை கடற்படையினர் கைது செய்ய முற்பட்போது, ஏற்பட்ட விபத்தில் இந்திய மீனவர் ஒருவர் உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காணாமல் போயுள்ளார்.
+In a tragic incident, an Indian fisherman died and another went missing after their boat collided with the Sri Lankan navy attempting to arrest them for illegal fishing near Jaffna and Neduntivu. Five fishermen were involved; three were rescued and taken to the Kankesanthurai Naval Base, while one body was recovered and handed over to the hospital. The search continues for the missing fisherman. Additionally, a Sri Lankan naval officer drowned while trying to apprehend the fishermen on June 24.
 
-நெடுந்தீவு கடற்பரப்பினுள் படகொன்றில் இந்திய மீனவர்கள் ஐந்து பேர் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்டிருந்தனர்.
+🟩
 
-அதன்போது, கடலில் சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டிருந்த கடற்படையினர் இன்று வியாழக்கிழமை (01) அதிகாலை அத்துமீறி மீன் பிடியில் ஈடுபட்ட இந்திய கடற்தொழிலாளர்களை கைது செய்ய முற்பட்டுள்ளனர்.
+An Indian fisherman was killed and another disappeared when the Sri Lankan navy tries to arrest Indian fishermen who were illegally fishing in the Jaffna and Neduntivu area.
 
-அவ்வேளை மீனவர்களின் படகு கடலில் கவிழ்ந்துள்ளது விபத்திற்குள்ளாகியுள்ளதில் ஒருவர் கடலில் மூழ்கி உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காணாமல் போயுள்ளார்.
+Five Indian fishermen were engaged in fishing in a boat inside the Nedundevu sea.
 
-ஏனைய மூவரும் இலங்கை கடற்படையினரால் மீட்கப்பட்டு, காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
+At the same time, the Marines who were involved in the sea have been arrested by the Indian fishermen who were fishing in the early hours of Thursday morning.
 
-உயிரிழந்தவரின் சடலம் மீட்கப்பட்டு வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ள அதேவேளை, காணாமல்போன மீனவரை தேடும் நடவடிக்கையிலும் இலங்கை கடற்படையினர் ஈடுபட்டுள்ளனர்.
+The fishermen's boat crashed into the sea.
 
-...
+The other three have been rescued by the Sri Lankan navy and taken to the Kankesanthurai Naval Base.
+
+The body of the deceased has been recovered and handed over to the hospital while the Sri Lankan navy is also searching for the missing fisherman.
+
+Meanwhile, a Sri Lankan navy sailor fell into the sea when he attempted to arrest the Indian fishermen who had entered the Sri Lankan waters on June 24.
+
+◼️
 
 [Data](articles/4f4d681f.json)
+
+[Extended Data](ext_articles/4f4d681f.ext.json)
 
 ---
 
@@ -552,21 +590,27 @@ I called 999 and my children saw it on CCTV, "he said.
 
 ---
 
-### ஐஸ் போதைப்பொருள் வைத்திருந்த சிறைச்சாலை அதிகாரி பணி இடை நிறுத்தம்
+### Ice Drug Officer's Prison Officer
 
 *2024-08-01 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189958) · `ta`
 
-ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் கைது செய்யப்பட்ட வெலிக்கடை சிறைச்சாலை அதிகாரி ஒருவர் பணி இடைநிறுத்தப்பட்டுள்ளார்.
+A Welikada Prison official was suspended after being caught with ice drugs during a raid. The officer was found with drug packets at the prison entrance. He has been transferred to Borella police station for further investigation.
 
-வெலிக்கடை சிறைச்சாலையின் பிரதான வாயிலில் சிறைச்சாலைகள் அவசர நடவடிக்கை மற்றும் தந்திரோபாயப் படை அதிகாரிகள் சிறைச்சாலை அதிகாரியை சோதனையிட்ட போது அவரிடமிருந்து ஐஸ் போதைப்பொருள் பொதிகள் கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-இதன்போது, சந்தேக நபர் பாதணியில் ஐஸ் போதைப்பொருளை சூட்சுமமான முறையில் மறைத்து வைத்திருந்ததாக  சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+A Welikada Prison official has been suspended for allegedly holding an ice drug.
 
-மேலும், கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக சட்ட நடவடிக்கைகளுக்காக பொரளை பொலிஸ் நிலையத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Ice drug packs were seized from him when the prison officials raided the prison officer at the main gate of the Welikada Prison.
+
+Prison Commissioner Gamini B.. Dissanayake said.
+
+In addition, the suspect has been sent to the Borella police station for further legal action, police said.
 
 ◼️
 
 [Data](articles/2ea29e4a.json)
+
+[Extended Data](ext_articles/2ea29e4a.ext.json)
 
 ---
 
@@ -1627,6 +1671,8 @@ Dialog Home Broadband’s new Wi-Fi prepaid reload plan , priced at just Rs. 69
 ...
 
 [Data](articles/d10b4766.json)
+
+[Extended Data](ext_articles/d10b4766.ext.json)
 
 ---
 

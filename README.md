@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 10:35:50**
+As of **2024-08-01 10:54:33**
 
 ## Newspaper Stats
 
-*Scraped **38,395** Articles*
+*Scraped **38,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,150 @@ bbccomsinhala | 369
 islandlk | 2,203
 economynextcom | 2,318
 dailyftlk | 2,461
-adalk | 3,518
-adaderanalk | 4,435
+adalk | 3,519
+adaderanalk | 4,436
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,769
+tamilmirrorlk | 4,770
 virakesarilk | 6,065
-adaderanasinhalalk | 6,465
+adaderanasinhalalk | 6,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,380 (100.0%) of 38,395 articles have been extended.
+38,394 (100.0%) of 38,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### கட்டுப்பணம் செலுத்தினார் விஜயதாஸ ராஜபக்ஸ
+### கணவனை கொலை செய்த மனைவி? யாழில் அதிர்ச்சி
+
+*2024-08-01 10:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கணவனை-கொலை-செய்த-மனைவி-யாழில்-அதிர்ச்சி/71-341389) · `ta`
+
+யாழ்ப்பாணத்தில் வன்முறை கும்பலை ஏவி கணவனை படுகொலை செய்த குற்றச்சாட்டில் மனைவியையும், மனைவிக்கு துணைபுரிந்த இளைஞன் ஒருவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+உடுப்பிட்டி இமையான் பகுதியில் கோழி இறைச்சி விற்பனையில் ஈடுபட்டு வந்த குடும்பஸ்தரே இதில் கொலை செய்யப்பட்டுள்ளார்.
+
+கடந்த ஜூன் மாதம் 03ஆம் திகதி அதிகாலை வெளிமாவட்டத்தில் இருந்து வாகனம் ஒன்றில் கோழிகள் கொண்டு வரப்பட்டு , அவருக்கு விநியோகம் செய்த பின்னர் வாகனம் திரும்பி சென்றுள்ளது.
+
+அதன் பின்னர் வீட்டின் வெளியே சத்தம் கேட்டு குடும்பஸ்தர் வெளியே வந்து பார்த்த போது, வன்முறை கும்பல் ஒன்று அவர் மீது வாள் வெட்டு தாக்குதலை மேற்கொண்டுள்ளது.
+
+சத்தம் கேட்டு அவரது மனைவி வெளியே வந்த போது, வாள் முனையில் அச்சுறுத்தி அவர் அணிந்திருந்த தங்க சங்கிலியை கொள்ளையிட்டு கும்பல் தப்பி சென்றுள்ளது.
+
+வாள் வெட்டில் படுகாயமடைந்த குடும்பஸ்தர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த சில நாட்களில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்
+
+...
+
+[Data](articles/d7f02efc.json)
+
+---
+
+### Underworld figure ‘Loku Patty’ arrested in Belarus - sources
+
+*2024-08-01 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100907/underworld-figure-loku-patty-arrested-in-belarus-sources) · `en`
+
+The main suspect in the killing of ‘Club Wasantha’ at Athurugiriya, Sujeewa Ruwankumara alias ‘Loku Patty’ has been arrested in Belarus, according to police sources.
+
+◼️
+
+[Data](articles/f1b62078.json)
+
+---
+
+### ලොකු පැටී කොටුවෙයි
+
+*2024-08-01 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199439) · `si`
+
+ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන සැකකරු ලෙස සැලකෙන සුජීව රුවන් කුමාර නොහොත් ලොකු පැටී නැමැත්තා බෙලරූස්හී දි ආරක්ෂක අංශ අත්අඩංගුවට පත්ව ඇති බව වාර්තා වේ.
+
+අප කළ විමසීමක දී මෙරට ආරක්ෂක අංශ නිලධාරියෙක් ඒ බව නිල වශයෙන් තහවුරු කළේය.
+
+◼️
+
+[Data](articles/322a8d38.json)
+
+---
+
+### Vijayadasa Rajapaksa paid control
 
 *2024-08-01 10:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-விஜயதாஸ-ராஜபக்ஸ/175-341388) · `ta`
 
-தேசிய ஜனநாயக முன்னணி சார்பில் விஜயதாஸ ராஜபக்ஸ இன்று (01) கட்டுப்பணம் செலுத்தினார்.
+Vijayadasa Rajapaksa, representing the National Democratic Front, has backed seven candidates for the upcoming presidential election.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிட இதுவரை 07 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளமை குறிப்பிடத்தக்கது. R
+🟩
+
+Vijayadasa Rajapakse today (01) on behalf of the National Democratic Front.
+
+It is worth noting that 7 candidates have been controlled so far to contest the presidential election. Remble
 
 ◼️
 
 [Data](articles/d5b1b2d8.json)
 
+[Extended Data](ext_articles/d5b1b2d8.ext.json)
+
 ---
 
-### தலதா எம்.பியின் நாடகம் அம்பலம்
+### Talada MP's play exposure
 
 *2024-08-01 10:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341387) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் மாகாண சபை உறுப்பினர்களுக்கான செயலமர்வு இடம்பெற்றிருந்த பத்தரமுலவில் உள்ள வோட்டர்ஸ் எட்ஜில் இருந்து சமகி ஜன பலவேகய (SJB) பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள வெளியே வந்தபோது நாடகம்  அரங்கேறியது
+Dalada Attukorala, a Member of Parliament, faced backlash from supporters of President Ranil Wickremesinghe during a Voters Edge event in Battaramula, highlighting political tensions.
+
+🟩
+
+The drama was played when the Voters Edge in Battaramula, which was held for the members of the Provincial Council, which supported President Ranil Wickremesinghe, came out when Member of Parliament Dalada Attukorala came out of the Voters Edge in Battaramula.
 
 ◼️
 
 [Data](articles/24547c2b.json)
 
+[Extended Data](ext_articles/24547c2b.ext.json)
+
 ---
 
-### தலதா எம்.பியின் நாடகம் அம்பலம்
+### Talada MP's play exposure
 
 *2024-08-01 10:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341386) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் மாகாண சபை உறுப்பினர்களுக்கான செயலமர்வு இடம்பெற்றிருந்த பத்தரமுலவில் உள்ள வோட்டர்ஸ் எட்ஜில் இருந்து சமகி ஜன பலவேகய (SJB) பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள வெளியே வந்தபோது நாடகம்  அரங்கேறியது
+Dalada Attukorala, a Member of Parliament, faced criticism during a Voters Edge event in Battaramula, supporting President Ranil Wickremesinghe. The incident highlighted issues within the Provincial Council elections.
+
+🟩
+
+The drama was played when the Voters Edge in Battaramula, which was held for the members of the Provincial Council, which supported President Ranil Wickremesinghe, came out when Member of Parliament Dalada Attukorala came out of the Voters Edge in Battaramula.
 
 ◼️
 
 [Data](articles/b0a8bb2a.json)
 
+[Extended Data](ext_articles/b0a8bb2a.ext.json)
+
 ---
 
-### மில்கோ,  NLDB ஐ விற்பதற்கு எதிரான வழக்கு இன்று
+### Milko is a case against selling NLDB today
 
 *2024-08-01 10:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மில்கோ-NLDB-ஐ-விற்பதற்கு-எதிரான-வழக்கு-இன்று/175-341385) · `ta`
 
-மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் (NLDB) உள்ள காணிகளை விற்பனை செய்வதற்கு எதிராக உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுளள மனு தொடர்பான விவாதம் இன்று (01) முற்பகல் 10.30 மணிக்கு இடம்பெறவுள்ளது.
+Today, a Supreme Court debate opposes the sale of land in Milco and the National Plantation Development Board (NLDB), filed by the People's Movement to Protect Industrial and Agricultural Lands. Namal Karunaratne argues these lands are vital resources for Sri Lanka's development, emphasizing the need for justice to safeguard them.
 
-கைத்தொழில் மற்றும் விவசாய நிலங்களை பாதுகாக்கும் மக்கள் இயக்கத்தினால் இந்த வழக்கு தொடுக்கப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பாக அகில இலங்கை கமக்காரர்கள் சம்மேளனத்தின் தேசிய அமைப்பாளர் நாமல் கருணாரத்ன கருத்து தெரிவிக்கையில்,
+A debate on the Supreme Court will be held today (01) at 10.30 am against the sale of land in Milco and the National Plantation Development Board (NLDB).
 
-மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் உள்ள காணிகள் இலங்கையின் பெறுமதிமிக்க வளங்கள் ஆகும். நாட்டை கட்டியெழுப்புவதற்கு இந்த வளங்களில் இருந்து பயன்பெறுவதற்கான வளர்ச்சியடைந்த வேலைத்திட்டம் எம்மிடம் இருக்கிறது.
+The case has been filed by the People's Movement to Protect Industrial and Agricultural Lands.
 
-அதற்காக இந்த வளங்களை பாதுகாக்க வேண்டும். உயர் நீதிமன்றத்தில் நியாயம் கிடைக்கும் என்று நாங்கள் எதிர்பார்க்கிறோம்.” என்றார்.
+Namal Karunaratne, National Organizer of the All Ceylon Communist Federation, said,
+
+Lands at the Milco Company and the National Plantation Development Board are Sri Lanka's valuable resources. We have a developed program to benefit from these resources to build the country.
+
+To protect these resources for that. We expect justice in the High Court. ”said.
 
 ◼️
 
 [Data](articles/019bfe36.json)
+
+[Extended Data](ext_articles/019bfe36.ext.json)
 
 ---
 
@@ -104,19 +176,27 @@ On July 25, the MP had officially announced that he would contest the upcoming P
 
 [Data](articles/5b1e7600.json)
 
+[Extended Data](ext_articles/5b1e7600.ext.json)
+
 ---
 
-### அமைச்சர் டிரான் அலஸுக்கு மரண அச்சுறுத்தல்
+### Death threat to Minister Tran Ales
 
 *2024-08-01 09:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டிரான்-அலஸுக்கு-மரண-அச்சுறுத்தல்/175-341384) · `ta`
 
-பொது மக்கள் பாதுகாப்பு அமைச்சர் ட்ரான் அலஸுக்கு பாதாள உலகத்தில் இருந்து மரண அச்சுறுத்தல் விடுக்கப்பட்டுள்ளதாக புலனாய்வு அமைப்புகள் கண்டுபிடித்துள்ளதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+Minister Tran Ales faces a death threat from the underworld, prompting increased security measures.
 
-அமைச்சர் ட்ரான் அலஸின் பாதுகாப்பை அதிகரிக்க நடவடிக்கை எடுக்குமாறு புலனாய்வு அமைப்பு அறிக்கை ஒன்று தெரிவித்துள்ளதாகவும் அதே வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
+
+Investigators have discovered that the Minister of Public Safety Tran Ales has been threatened with death from the underworld, police sources say.
+
+The intelligence agency has said that steps have been taken to increase the safety of Minister Tran Ales, according to the same sources.
 
 ◼️
 
 [Data](articles/acb21166.json)
+
+[Extended Data](ext_articles/acb21166.ext.json)
 
 ---
 
@@ -148,15 +228,21 @@ Political commentators say that the murders have increased the warm of the Middl
 
 ---
 
-### மொட்டுவில் மற்றுமொரு எம்.பி ரணிலுக்கு ஆதரவு
+### Support for another MP Ranil in Mottu
 
 *2024-08-01 09:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மொட்டுவில்-மற்றுமொரு-எம்-பி-ரணிலுக்கு-ஆதரவு/75-341382) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நாடாளுமன்ற உறுப்பினர்களில் ஒருவராக தாம் தன்னையும் முன்னிறுத்தியுள்ளதாக திருகோணமலை மாவட்ட உறுப்பினர் அத்துகோரள கபில நுவன் தெரிவித்துள்ளார்
+I'm here to assist with programming and technical tasks. Could you please provide more details or clarify what specific assistance you need?
+
+🟩
+
+Trincomalers
 
 ◼️
 
 [Data](articles/44fee549.json)
+
+[Extended Data](ext_articles/44fee549.ext.json)
 
 ---
 
@@ -200,19 +286,25 @@ The arrested suspects are aged 20, 22, 24, 27, 39 and the suspect is 48 years ol
 
 ---
 
-### படகு கவிழ்ந்ததில் இந்திய மீனவர் மரணம்
+### Indian fisherman death
 
 *2024-08-01 09:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/படகு-கவிழ்ந்ததில்-இந்திய-மீனவர்-மரணம்/71-341381) · `ta`
 
-யாழ்ப்பாணம் - நெடுந்தீவு கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர் ஒருவர் கடலில் மூழ்கி உயிரிழந்தார். குறித்த சம்பவம் இன்று அதிகாலை இடம்பெற்றது.
+An Indian fisherman drowned off the coast today. A confrontation between Sri Lankan naval boats and Indian fishermen led to chaos. Two fishermen fell into the sea; two died, one is missing. The Navy arrested two fishermen.
 
-இதன்போது ரோந்து நடவடிக்கைகளில் ஈடுபட்ட இலங்கை கடற்படை படகு, அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்களின் படகை கைப்பற்ற முனைந்த போது இந்திய மீனவர்களின் படகு கவிழ்ந்து குறித்த அசம்பாவிதம் ஏற்பட்டதாக தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-இரு மீனவர்கள் கடலில் விழுந்த நிலையில் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார். ஒருவரை காணவில்லை. இந்நிலையில் இரண்டு மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர் என தகவல்கள் தெரிவிக்கின்றன.
+Indian fisherman drowned in sea. The incident took place this morning.
+
+According to reports, the Sri Lankan naval boat involved in patrols and the Indian fishermen who were involved in the fishing of the Indian fishermen were reported to be overwhelming.
+
+Two fishermen died after falling into the sea. Missing one. Two fishermen have been arrested by the Navy.
 
 ◼️
 
 [Data](articles/eabba1fd.json)
+
+[Extended Data](ext_articles/eabba1fd.ext.json)
 
 ---
 
@@ -241,6 +333,8 @@ In equities, Colombo’s All Share Price Index opened 10.34 points higher at 11,
 ◼️
 
 [Data](articles/1f237490.json)
+
+[Extended Data](ext_articles/1f237490.ext.json)
 
 ---
 
@@ -288,6 +382,8 @@ Businesses can register to operate in the zone and do business internationally w
 
 [Data](articles/694888bd.json)
 
+[Extended Data](ext_articles/694888bd.ext.json)
+
 ---
 
 ### Federal holds rates, says unemployment rate starting to go up
@@ -308,6 +404,8 @@ The Fed is keeping short term rates at its target of 5.25 to 5.5 percent, and wi
 
 [Data](articles/c69d28ab.json)
 
+[Extended Data](ext_articles/c69d28ab.ext.json)
+
 ---
 
 ### Sri Lankas consumer inflation rise 2.8-pct over 22 months
@@ -327,6 +425,8 @@ Exchange rate stability has also boosted profits of the Ceylon Electricity Board
 ...
 
 [Data](articles/d091119c.json)
+
+[Extended Data](ext_articles/d091119c.ext.json)
 
 ---
 
@@ -561,6 +661,8 @@ Kerosene, an expensive fuel similar to Jet fuel is at 202 rupees a litre. (Colom
 ◼️
 
 [Data](articles/1bed5747.json)
+
+[Extended Data](ext_articles/1bed5747.ext.json)
 
 ---
 
@@ -1067,6 +1169,8 @@ At the outset, it must be noted that in the absence of closely guarded inside in
 ...
 
 [Data](articles/9ad9f1dc.json)
+
+[Extended Data](ext_articles/9ad9f1dc.ext.json)
 
 ---
 
@@ -1842,6 +1946,26 @@ Duminda Dissanayake added: "The present President Ranil Wickremesinghe has reque
 
 ---
 
+### දූෂණ විරෝධී පනත කැබිනට් එකට දාන්න එපා යැයි ප්‍රභලම තරුණ මන්ත්‍රීවරයෙක් ජනපතිගෙන් ඉල්ලයි
+
+*2024-07-31 19:03:11* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණ-විරෝධී-පනත-කැබිනට්-එකට-දාන්න-එපා-යැයි-ප්‍රභලම-තරුණ-මන්ත්‍රීවරයෙක්-ජනපතිගෙන්-ඉල්ලයි/11-411128) · `si`
+
+දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් නොකරන ලෙස තරුණ පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර ඇතැයි වාර්තා වේ.
+
+තරුණ මන්ත්‍රීවරයා මෙම ඉල්ලීම කර තිබෙන්නේ ඉදිරි දෙසතිය ඇතුළත දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කිරීමට සියලු කටයුතු සූදානම් කර ඇති පසුබිමකය.
+
+මෙම මන්ත්‍රීවරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට දුරකථන ඇමතුමක් ලබා දෙමින් ජනාධිපතිවරණයට පෙර දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් නොකරන ලෙස ඉල්ලීමක් කර ඇත.
+
+මන්ත්‍රීවරයාගේ ඉල්ලීම පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රජයේ ජ්‍යෙෂ්ඨ අමාත්‍යවරුන් සමග සාකච්ඡා කර ඉදිරි දින දෙක තුළදී තීරණයක් ගැනීමට නියමිත බවද වාර්තා වේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පාලනය යටතේ දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් කොට පාර්ලිමේන්තුවේදී සම්මත කරන බව මීට පෙර අමාත්‍ය මණ්ඩල තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී ප්‍රකාශයට පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/5a9ec64e.json)
+
+---
+
 ### Joe Root is the one
 
 *2024-07-31 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199420) · `si`
@@ -2067,93 +2191,5 @@ Here are some questions (Q) and answers (A) on the background for such a move, p
 [Data](articles/ca58c102.json)
 
 [Extended Data](ext_articles/ca58c102.ext.json)
-
----
-
-### Over 50 foreigners arrested over online scam
-
-*2024-07-31 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100900/over-50-foreigners-arrested-over-online-scam) · `en`
-
-Sri Lanka Police says over 50 foreign nationals were arrested in the Puttalam area for allegedly operating an online scam.
-
-The Acting Police Media Spokesperson DIG Ruwan Gunasekara said 44 males and 09 females were arrested in the operation carried out yesterday (30).
-
-The arrested suspects had engaged in this illegal operation from a hotel located in the Kalpitiya area of Puttalam while a search was carried out at the hotel in question by the investigation officers after obtaining a court order.
-
-During the operation, police have seized 98 mobile phones, 44 computers and a large number of SIM cards while further investigations are conducted by the Computer Crime Investigation Division.
-
-Based on the information from the arrested suspects, two more foreigners were arrested while in possession of over Rs. 10 million in cash which was also taken into police custody.
-
-◼️
-
-[Data](articles/016a32c6.json)
-
-[Extended Data](ext_articles/016a32c6.ext.json)
-
----
-
-### The target is to attract $ 2 billion in the year - Amunugama
-
-*2024-07-31 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189934) · `ta`
-
-Despite initial targets set at $1 billion, the government aims to attract $2 billion in investments this year through 35 investment programs, thanks to $800 million already secured. Measures include establishing industrial zones and a free trade zone in Kankesanthurai, restructuring the Investment Board, and expanding free trade agreements to boost economic growth and attract more foreign investments.
-
-🟩
-
-$ 800 million worth of contracts have been signed for 35 investment programs in the country. The Minister of Commerce and Investment Promotion, Dilum Amunugama, said that despite our target this year, we can attract investments up to $ 2 billion.
-
-He further stated at the media conference held at the Presidential Media Center on Wednesday (31).
-
-We have signed up for $ 800 million worth $ 800 million this year.. The target for us this year is $ 1 billion. However, as we have now reached $ 800 million, we expect to attract $ 2 billion worth of investments annually.
-
-Steps have been taken to establish 4 industrial interviews in the state -private joint venture based on Canadian investors based on areas including Trincomalee, Kankesanthurai, Paranthan and Mankulam areas.. It has also been decided to establish a free trade zone in Kankesanthurai.
-
-...
-
-[Data](articles/fabd8a89.json)
-
-[Extended Data](ext_articles/fabd8a89.ext.json)
-
----
-
-### Protesters clash with UK police after knife attack that killed three girls
-
-*2024-07-31 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100899/protesters-clash-with-uk-police-after-knife-attack-that-killed-three-girls) · `en`
-
-Violent clashes broke out on Tuesday in the northern England town where a mass stabbing at a Taylor Swift-themed dance event claimed the lives of three children.
-
-Around 100 protesters battled police and lit fires, with thick plumes of smoke rising above the front line, according to an AFP reporter at the scene.
-
-Videos circulating on social media appeared to show a police van on fire and protesters pelting police with missiles, with a local mosque the apparent target.
-
-Police have said they are not treating Monday’s attack as terror-related, but have not released any details of the suspected attacker other than that he is 17 years old and originally from Wales.
-
-Merseyside Police said an officer suffered a suspected broken nose in the clashes, and that the protesters were “believed to be supporters” of the right-wing English Defence League.
-
-“Officers who are deployed are currently dealing with criminal behaviour and violence with bottles and wheelie bins being thrown at them,” added the force.
-
-...
-
-[Data](articles/fd1cede3.json)
-
-[Extended Data](ext_articles/fd1cede3.ext.json)
-
----
-
-### President forms 3 special committees to address potential global impacts on Sri Lanka
-
-*2024-07-31 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100898/president-forms-3-special-committees-to-address-potential-global-impacts-on-sri-lanka) · `en`
-
-President Ranil Wickremesinghe has arranged to appoint three special committees as a preliminary measure to address the security and economic pressures that may affect Sri Lanka, considering the potential developments in the Middle East and globally, including the assassination of a Hamas political leader in Iran.
-
-Accordingly, the President has initiated the formation of a special committee on national security, a committee to assess economic impacts, and a high-level committee to oversee the proposals of the other two committees, the President’s Media Division said.
-
-The Special Committee on National Security includes Minister of Public Security Tiran Alas, Minister of Foreign Affairs Ali Sabry, Minister of Power and Energy Kanchana Wijesekera, and Chief of Presidential Staff and Senior Advisor to the President on National Security Sagala Ratnayake.
-
-...
-
-[Data](articles/3c0149f3.json)
-
-[Extended Data](ext_articles/3c0149f3.ext.json)
 
 ---

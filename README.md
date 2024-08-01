@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 07:53:32**
+As of **2024-08-01 08:17:03**
 
 ## Newspaper Stats
 
-*Scraped **38,366** Articles*
+*Scraped **38,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,69 @@ adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
 virakesarilk | 6,063
-adaderanasinhalalk | 6,456
+adaderanasinhalalk | 6,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,357 (100.0%) of 38,366 articles have been extended.
+38,364 (100.0%) of 38,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### IMF නියෝජිතයින් අද ජනපති හමුවෙයි
+### දුම්රිය දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+
+*2024-08-01 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199431) · `si`
+
+ජාලගත ක්‍රමය ඔස්සේ ආසන වෙන්කිරීමේ වේලාව අද (01) සිට සංශෝධනය කිරීමට නියමිතව තිබුණ ද එය සිදුනොකරන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/bce6242c.json)
+
+---
+
+### ආහාරවලින් ලෙඩ සුව කරන ප්‍රචාරණ ගැන සෞඛ්‍ය අංශවලින් අනාවරණයක්
+
+*2024-08-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199430) · `si`
+
+ආහාර මඟින් ඇතැම් රෝග සුව කළ හැකි බවට සමාජ මාධ්‍ය ඔස්සේ සිදුකරන ප්‍රචාරවලට නොරැවටෙන ලෙස සෞඛ්‍ය අමාත්‍යාංශය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+සෞඛ්‍ය අමාත්‍යාංශයේ ආහාර පාලන ඒකකකයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් විශේෂඥ වෛද්‍ය ආනන්ද ජයලාල් මහතා පැවසුවේ ඇතැම් ආයතනවල නම් භාවිත කරමින් එම ප්‍රචාර සිදුකෙරෙන බවය.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය ආනන්ද ජයලාල් මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/41427cf9.json)
+
+---
+
+### IMF representatives meet President today
 
 *2024-08-01 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199429) · `si`
 
-දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිස අද (01) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවීමට නියමිතව තිබේ.
+IMF representatives will meet President Ranil Wickremesinghe today to discuss the fourth tranche of financial aid crucial for maintaining Sri Lanka's economic stability. State Minister Shehan Semasinghe highlighted the importance of receiving this installment promptly to prevent significant impacts on the nation's stability. The meeting comes after Opposition Leader Sajith Premadasa also met with IMF officials yesterday, discussing potential loans and implications for the upcoming presidential election.
 
-අද පෙරවරුවේ එම සාකච්ඡා පැවැත්වීමට නියමිත බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේය.
+🟩
 
-එහිදි ජාත්‍යන්තර මූල්‍ය අරමුදලේ සිව්වන වාරිකය ලබාගැනීම සම්බන්ධයෙන් අවධානය යොමුකිරීමට නියමිත බව ද රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+Representatives of the International Monetary Fund (IMF representatives) are due to meet President Ranil Wickremesinghe today (01).
 
-"අපි බලාපොරොත්තු වෙන්නේ, 4 වෙනි වාරිකය නිදහස් කරගැනීමට. කිසිදු ප්‍රමාදයකින් තොරව මැතිවරණ කාලය තුළත් ඒ වැඩසටහනේ කිසිදු ආකාරයක විතැන් වීමක් සිදුනොවී රටේ පවතින ආර්ථික ස්ථාවරත්වය ඉදිරියට අරන් යන්න. මොකද තුන්වෙනි සමාලෝචනය තුළ ලැබෙන 4 වෙනි වාරිකය යම් ආකාරයකින් ප්‍රමාද වුවහොත් එය ලංකාවේ ආර්ථිකයේ ස්ථාවරත්වය විශාල බලපෑමක් ඇති කරනවා. ඒ බලපෑම ඇති නොවෙන්න ජනාධිපතිතුමා විසින් විශේෂ වැඩපිළිවෙලක් සකස් කරලා තියෙනවා. ඒ පිළිබඳ ඉදිරි කාලය තුළ දී කොහොමද ණයහිමියන්ගේ මේ වැඩසටහන ආරක්ෂා කරගෙන වැඩසටහන ආරක්ෂා කරන්නේ කියන දේ සාකච්ඡා කරන්න බලාපොරොත්තු වෙනවා."
+State Minister Shehan Semasinghe said that these discussions are to be held this morning.
+
+Hehan Semasinghe said that the International Monetary Fund's fourth premium is to be taken to pay attention to the fourth premium.
+
+"We expect, 4th installment. Continue the economic stability of the country without any kind of separation of the program without any delay. Because if the 4th premium in the third review is slow, the stability of Sri Lanka has a major impact. The President has prepared a special program to avoid that effect. In the future, how can you safeguard the program to protect the program and negotiate the program. "
+
+Meanwhile, Opposition Leader Sajith Premadasa has met with the International Monetary Fund representatives to the island yesterday (31).
 
 ...
 
 [Data](articles/c4277b27.json)
+
+[Extended Data](ext_articles/c4277b27.ext.json)
 
 ---
 
@@ -108,15 +144,21 @@ From time to time in the rest of the island.. There may be about 30-40 strong wi
 
 ---
 
-### கஞ்சிபனி, லொக்கு பட்டி கைது
+### Kanjipani, Loku Patti arrested
 
 *2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபனி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
 
-கோடீஸ்வர வர்த்தகர் சுரேந்திர வசந்த பெரேரா அல்லது கிளப் வசந்தவின் கொலையின் மூளையாக கருதப்படும் பாதாள உலக தலைவர் கஞ்சிபானி இம்ரான் மற்றும் பாதாள உலக உறுப்பினர் லொக்கு பட்டி நாமத்த ஆகியோர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன
+Underworld leaders Kanjibani Imran and Loku Patti Namatha were arrested for orchestrating the murder of billionaire Surendra Vasantha Perera, also known as Club Vasantha.
+
+🟩
+
+Police sources say that the underworld leader Kanjibani Imran and the underworld member Loku Patti Namatha have been arrested as the brainchild of billionaire businessman Surendra Vasantha Perera or Club Vasantha's murder.
 
 ◼️
 
 [Data](articles/f2d19e69.json)
+
+[Extended Data](ext_articles/f2d19e69.ext.json)
 
 ---
 
@@ -878,6 +920,8 @@ Addressing the press briefing titled “Two Years of Progress and Way Forward”
 
 [Data](articles/015d1e9d.json)
 
+[Extended Data](ext_articles/015d1e9d.ext.json)
+
 ---
 
 ### No fuel price revision in August – Ceypetco
@@ -1052,21 +1096,27 @@ He added that the final draft of the Industrial Promotion Act has been submitted
 
 ---
 
-### අයි.එම්.එෆ්. ගිවිසුම ජනතාවට හිතකර ලෙස වෙනස් කරන හැටි හර්ෂ කියයි
+### IMF. How to change the agreement to the people
 
 *2024-07-31 20:05:32* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-ජනතාවට-හිතකර-ලෙස-වෙනස්-කරන-හැටි-හර්ෂ-කියයි/11-411134) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡා කර දැනට අත්සන් කර ඇති ගිවිසුම ජනතාවට හිතරක අයුරින් වෙනස් කරන ආකාරය නොබෝ දිනකින් ජනතාවට ලිඛිතව ඉදිරිපත් කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+Dr. Harsha de Silva, an MP, announced that the IMF has communicated its intentions to the public. He emphasized the need for significant economic reforms to stabilize the country's economy. While not explicitly opposing the IMF agreement, he suggested discussions could lead to modifications beneficial to the nation.
 
-පිටකෝට්ටේ සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත්  පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Dr. Harsha de Silva, MP, said that the International Monetary Fund (IMF) has written to the people in writing, said Dr. Harsha de Silva.
 
-“රට ආර්ථික වශයෙන් බලාපොරොත්තු වන තැනට ගේන්න දැවැන්ත ආර්ථික ප්‍රතිසංස්කරණ සිදු කරන්න වෙනවා. ඒක අපි කවදාවත් නෑ කියලා නෑ. ජාත්‍යන්තර මූල්‍ය අරමුදල සමග තිබෙන එකඟතාව ඉදිරියට ගෙනියන්න සිදු වෙනවා. නමුත් අපි ඔවුන් සමග සාකච්ඡා කරන්න බලාපොරොත්තු වෙනවා දීර්ඝ වශයෙන්. අපි යෝජනා කරන වෙනස් මොනවාද කියලා මේ එකඟවෙලා තියෙන අයි.එම්.එෆ් ඇග්‍රීමන්ට් එක අහනව.  අපි දිගින් කිව්වා අපි අයි.එම්.එෆ් එකත් එක්ක යනවාට අපි විරුද්ධ නෑ. අපි විරුද්ධව ඡන්දය දුන්නේ නෑ. මොකද ඒ අවස්ථාවේ තිබුණු තත්ත්වයෙන් රට ඉදිරියට යන්න සහයෝගය අවශ්‍ය වෙලා තිබුණේ.
+He was speaking at a media briefing held at the Head Office in Pitakotte today (31).
+
+Speaking further Mr. Dr. Harsha de Silva said:
+
+"The country has to make huge economic reforms to bring the country economically. We have never said. The agreement with the International Monetary Fund has to be brought before. But we hope to discuss with them at length. The agreement with the IMF Agimant we suggest is asking.We said we are not against the IMF. We did not vote against. Because the situation was needed to go to the country.
 
 ...
 
 [Data](articles/79902f6d.json)
+
+[Extended Data](ext_articles/79902f6d.ext.json)
 
 ---
 
@@ -1212,19 +1262,25 @@ Meanwhile, 92 Members of Parliament including Ministers and State Ministers rece
 
 ---
 
-### 2023දී පාර්ලිමේන්තුවේ ආහාර වියදම රු. කෝටි. 23 ඉක්මවයි
+### In 2023, parliamentary food costs Rs. Crores. Exceeds 23
 
 *2024-07-31 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-පාර්ලිමේන්තුවේ-ආහාර-වියදම-රු--කෝටි--23-ඉක්මවයි/11-411129) · `si`
 
-ඉකුත් 2023 වර්ෂයේ ජනවාරි මස 01වැනිදා සිට දෙසැම්බර් 31 වැනිදා දක්වා කාලයෙහිදී පාර්ලිමේන්තු මන්ත්‍රීවරු 225 ක් දෙනා සහ අනෙකුත් කාර්ය මණ්ඩලවලට ආහාර පාන මිලදී ගැනීම සඳහා රුපියල් විසිතුන්කෝටි දෙලක්ෂ හැටහත්දහස් අටසීය සත අනූපහක මුදලක් (230,267,800.95) වැය කර තිබූ බව පාර්ලිමේන්තුව සම්බන්ධව 2023 වර්ෂයට අදාළව කාර්යසාධක වාර්තාව මගින් විගණනයට නිකුත් කරන ලද වාර්තාවක් මගින් අනාවරණය වේ.
+In 2023, parliamentary food expenses exceeded Rs. Crores 23, as per a performance report. The audit revealed that funds were used for water bottles and sauces for all staff and MPs, aligning with procurement guidelines set for January 1, 2023. It was found that 91% of MPs and 37,192 staff members benefited from this expenditure.
 
-සියලු කාර්ය මණ්ඩල සහ මන්ත්‍රීවරුන් සඳහා රුපියල් විසිපන් ලක්ෂ හැත්තෑ තුන්දහස් විසි පහක් (2,573,025) පානීය ජල බෝතල් සහ සෝස් වර්ග සඳහා වැය කර තිබුණි. ප්‍රසම්පාදන මාර්ගෝපදේශවලට අනුව පාර්ලිමේන්තු භෝජනාගාරය මගින් මිල ගණන් කැඳවා 2023 ජනවාරි මස පළමුවන සතියේ එම භාණ්ඩ මිලදී ගෙන ඇත.
+🟩
 
-පාර්ලිමේන්තුවේ ආහාර පාලන හා ගෘහ පාලන දෙපාර්තමේන්තු මගින් 2023 වර්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් 91% ක් සහ මන්ත්‍රීවරුන් පාර්ලිමේන්තුවට කැඳවා ගෙන එන අමුත්තන් හා කාර්ය මණ්ඩලයේ 37,192දෙනෙකුට පාර්ලිමේන්තු භෝජනාගාරය මගින් පහසුකම් සලසා තිබූ බව ද විගණන වාර්තාවේ සඳහන් වේ.
+Performance Report for the purpose of Rs.Revealed by a report issued.
+
+All staff and MPs were spent on drinking water bottles and sauces for all staff and MPs. According to the procurement guidelines, the parliamentary band has been purchased and purchased the items in January, January 1, 2023.
+
+The Audit report also facilitates that 91% of the MPs and MPs in Parliament have been facilitated by the Department of Parliament and 37,192 staff members in the 2023.
 
 ◼️
 
 [Data](articles/03158851.json)
+
+[Extended Data](ext_articles/03158851.ext.json)
 
 ---
 
@@ -2161,51 +2217,5 @@ The killing of the 62-year-old ceasefire negotiator has sparked fears of a wider
 [Data](articles/a7119517.json)
 
 [Extended Data](ext_articles/a7119517.ext.json)
-
----
-
-### Ismail Honey assassination: President Ranil Action
-
-*2024-07-31 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்மாயில்-ஹனி-படுகொலை-ஜனாதிபதி-ரணில்-அதிரடி/175-341350) · `ta`
-
-Following Ismail Honey's assassination, President Ranil Wickremesinghe formed committees to assess the security and economic impacts on Sri Lanka from the Middle East crisis, particularly involving Iran.
-
-🟩
-
-President Ranil Wickremesinghe has taken action following the assassination of Ismail Honey, the political wing of the Hamas movement in Iran.
-
-As the assassination, he has focused on the impact of Sri Lanka due to the situation in the Middle East and the world, including Iran.
-
-President Ranil Wickremesinghe has taken steps to appoint the National Security Committee, the Economics Committee and the High Level Committee to monitor the security and economic impacts to Sri Lanka.
-
-◼️
-
-[Data](articles/9142b309.json)
-
-[Extended Data](ext_articles/9142b309.ext.json)
-
----
-
-### Colombo inflation rises
-
-*2024-07-31 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199414) · `si`
-
-Colombo's consumer inflation rose from 1.7% in June to 2.4% in July 2024. Annual inflation also increased slightly from 1.4% to 1.5%. Non-food inflation went up to 2.8%, compared to 1.8% in June.
-
-🟩
-
-The Colombo Consumer Price Index and the Colombo Municipal Community has published the Colombo Consumer Price Index and the Colombo Municipal Community.
-
-Accordingly, the Consumer Inflation of the Colombo Municipal Community has increased to 2.4% for July 2024.  එය 2024 ජුනි මාසය සඳහා 1.7% ක් ලෙස වාර්තා වී තිබුණි.
-
-In July 2024, annual inflation increased to 1.5% and in June 2024 as 1.4%.
-
-Also, the non-food annual inflation has increased to 2.8% of the month of 2024, and 1.8% in June 2024 was reported in June 2024, the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/0798bf35.json)
-
-[Extended Data](ext_articles/0798bf35.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 00:20:49**
+As of **2024-08-02 00:35:53**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,525 (100.0%) of 38,526 articles have been extended.
+38,526 (100.0%) of 38,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### போர் பதட்டம் குறித்து இலங்கை அவதானம்
+### Sri Lanka's observation on war tensions
 
 *2024-08-02 00:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்-பதட்டம்-குறித்து-இலங்கை-அவதானம்/175-341438) · `ta`
 
-மத்திய கிழக்கில் நிலவும் போர் பதட்ட நிலை தொடர்ந்தால் அதனை எதிர்கொள்வது தொடர்பில் முன்கூட்டிய தயார்நிலைக்காக மூன்று விசேட குழுக்களை நியமிக்க ஜனாதிபதி ரணில் விக்ரமசிங்க எடுத்த தீர்மானம், மிகவும் சரியானதாகும் என வெளிநாட்டலுவல்கள் அமைச்சரும் ஜனாதிபதி சட்டத்தரணியுமான அலி சப்ரி தெரிவித்தார்.
+Sri Lanka's Foreign Affairs Minister Ali Sabri supports President Ranil Wickremesinghe's move to form special committees amid escalating Middle East tensions. This action comes after the country faced a crisis in 2022 due to rising fuel, coal, and wheat flour prices, partly attributed to the Ukraine-Russia war. Sabri emphasizes the importance of proactive measures to avoid future crises.
 
-ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இதனைத் தெரிவித்தார்.
+🟩
 
-2022 இல், இந்நாட்டில் எரிபொருள் தட்டுப்பாடு ஏற்பட்டது. பல்வேறு காரணங்கள் அதற்கு பங்களித்தன. ரஷ்யா - உக்ரைன் போர் காரணமாக, எரிபொருள் விலை அதிகரித்தது. நிலக்கரி, கோதுமை மா போன்றவற்றின் விலைகளும் அதிகரித்தன. விலைவாசி உயர்வை தாங்க முடியாமல் நாடு நெருக்கடிக்கு தள்ளப்பட்டது.
+President Ranil Wickremesinghe's decision to appoint three special committees for premature preparation for the prevailing war tensions in the Middle East is very correct, said Foreign Affairs Minister and President's Attorney Ali Sabri.
 
-கற்றுக்கொண்ட பாடங்களை கருத்திற்கொண்டு, மீண்டும் அவ்வாறானதொரு நிலை ஏற்படாமல் தடுப்பதற்கான முன் ஆயத்தமாக ஜனாதிபதி இவ்வாறு குழுக்களை நியமிப்பது மிகவும் பொருத்தமானது என்பதைக் கூற வேண்டும் என்றார். R
+Minister Ali Sabri said this at a media briefing held at the Presidential Media Center.
+
+In 2022, there was a fuel shortage in the country. Various reasons contributed to it. Russia - Due to the war of Ukraine, fuel prices increased. The prices of coal and wheat flour have also increased. The country was forced into crisis, unable to withstand the price rise.
+
+Considering the lessons learned, it should be said that it is best to appoint the President in preparation for the preparations to prevent such a situation from happening again.. Remble
 
 ◼️
 
 [Data](articles/72628e63.json)
+
+[Extended Data](ext_articles/72628e63.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 11:06:27**
+As of **2024-08-01 11:20:55**
 
 ## Newspaper Stats
 
-*Scraped **38,401** Articles*
+*Scraped **38,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,49 +12,149 @@ dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
-islandlk | 2,203
+islandlk | 2,204
 economynextcom | 2,318
 dailyftlk | 2,461
 adalk | 3,519
-adaderanalk | 4,436
+adaderanalk | 4,438
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,771
-virakesarilk | 6,065
+virakesarilk | 6,071
 adaderanasinhalalk | 6,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,399 (100.0%) of 38,401 articles have been extended.
+38,401 (100.0%) of 38,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ’’இனியும்  நன்கொடைகளை வைப்பிலிட வேண்டாம்’’
+### Diana Gamage pleads not guilty to immigration laws violation charges
+
+*2024-08-01 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100909/diana-gamage-pleads-not-guilty-to-immigration-laws-violation-charges) · `en`
+
+Former State Minister Diana Gamage has stated before the Colombo Magistrate’s Court that she is not guilty of allegations on violation of immigration and emigration laws.
+
+Gamage has stated this after the Criminal Investigationa Department (CID) read 07 charge sheets against her before the court this morning (Aug 01).
+
+Accordingly, the Colombo Magistrate’s Court has decided to take up the relevant case, Ada Derana reporter said.
+
+The CID had filed these charge sheets against Diana Gamage under the charges including staying in Sri Lanka without a valid visa and making false statements to the Immigration and Emigration officials.
+
+◼️
+
+[Data](articles/3d8f3620.json)
+
+---
+
+### Sri Lanka’s National Industrial Policy and 2023-2027 Strategic Plan prepared
+
+*2024-08-01 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100908/sri-lankas-national-industrial-policy-and-2023-2027-strategic-plan-prepared) · `en`
+
+Secretary to the Ministry of Industries, Shantha Weerasinghe announced that the “National Industry Policy,” along with the five-year strategic plan for 2023-2027, has been prepared and submitted to the Department of National Planning.
+
+This initiative aims to establish a globally competitive national industry base. By 2030, the policy aims to increase the manufacturing sector’s contribution to GDP from 16% to 20%, raise the role of entrepreneurship in the workforce from 2.8% to 7%, and boost the share of industrial exports in GDP from 14% to 20%.
+
+Addressing the press briefing titled “Two Years of Progress and Way Forward” held at the Presidential Media Centre (PMC) yesterday (31), the Secretary noted that the final draft for amending the Industrial Promotion Act has been submitted to the Attorney General’s Department for approval, ensuring it meets current and future needs.
+
+...
+
+[Data](articles/969e8b28.json)
+
+---
+
+### மகிந்தவிற்கும் ரணிலுக்கும் இடையில் அரசியல் ஐக்கியத்தை ஏற்படுத்த தினேஸ் தீவிர முயற்சி
+
+*2024-08-01 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189971) · `ta`
+
+ஜனாதிபதி ரணில்விக்கிரமசிங்கவி;ற்கும்  முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவிற்கும் இடையில் அரசியல்ரீதியில் ஐக்கியத்தை ஏற்படுத்துவதற்கு பிரதமர் தினேஸ் குணவர்த்தன தீவிர முயற்சிகளில் ஈடுபட்டுள்ளார்.
+
+தனது பாடசாலைத்தோழனான ஜனாதிபதியுடனும் முன்னாள் ஜனாதிபதியுடனும் நெருக்கமான உறவுகளை கொண்டுள்ள தினேஸ் குணவர்த்தன,தேர்தலில் ஜனாதிபதிக்கான பொதுத்தளத்தை ஏற்படுத்துவதற்காக  அரசாங்கத்தில் இடம்பெற்றுள்ள அனைத்து கட்சிகளையும் ஐக்கியப்படுத்தும் முயற்சிகளில் ஈடுபட்டார் என விடயமறிந்த வட்டாரங்கள் தெரிவித்துள்ளன.
+
+எனினும் பொதுஜனபெரமுனவின் சார்பி;ல் வேட்பாளரை நிறுத்தவேண்டும் என பசில்ராஜபக்ச பிடிவாதமாகயிருந்ததால் இந்த முயற்சிகள் வெற்றியளிக்கவில்லை.ஜனாதிபதிக்கு வேறு ஒருவரை நிறுத்துவது என ஸ்ரீலங்கா பொதுஜனபெரமுனவின் மத்திய குழு தீர்மானி;த்துள்ளது.
+
+தேர்தல் கூட்டணியொன்றை ஏற்படுத்துவதற்காக பிரதமர் ஜனாதிபதிக்கும் முன்னாள் ஜனாதிபதிக்கும் இடையில் சந்திப்புகளை ஏற்பாடு செய்திருந்தார்.
+
+◼️
+
+[Data](articles/30aaf728.json)
+
+---
+
+### Do not deposit donations anymore
 
 *2024-08-01 10:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனியும்-நன்கொடைகளை-வைப்பிலிட-வேண்டாம்/175-341391) · `ta`
 
-காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்வதற்கு வழங்கப்பட்ட காலஅவகாசம் 2024 ஜூலை 31 ஆம் திகதியுடன் நிறைவடைந்துள்ளதோடு, இனியும் அதற்காக நன்கொடைகளை வைப்பிலிட வேண்டாம் என பொது மக்களிடம் கோரிக்கை விடுக்கும் ஜனாதிபதி செயலகம், 2024 ஜூலை 31 ஆம் திகதிக்கு பின்னர் எவரேனும் ஜனாதிபதி செயலகத்தின் வங்கிக் கணக்கில் வைப்புச் செய்யும் பட்சத்தில் அந்த நிதி சமூக நிவாரணச் செயற்பாடுகளுக்காக ஜனாதிபதி நிதியத்திடம் கையளிக்கப்படும் என்றும் அறிவித்துள்ளது
+Stop donating from July 31, 2024. The completed Presidential Secretariat will transfer funds to the President's Bank account post-completion, ending donations to the Gaza Children's Fund.
+
+🟩
+
+The presidential secretariat, which has been completed by July 31, 2024, and the President's Secretariat, will be handed over to the President's Bank's bank account after July 31, 2024, that the funds given to the Gaza Children's Fund have been completed on July 31, 2024 and that the President will be deposited by the President's Secretariat.Has been announced
 
 ◼️
 
 [Data](articles/b7d97564.json)
 
+[Extended Data](ext_articles/b7d97564.ext.json)
+
 ---
 
-### මම නිවැරදියි - ඩයනා අධිකරණයට කියූ දේ
+### I'm right - What Diana tells the court
 
 *2024-08-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199440) · `si`
 
-ආගමන හා විගමන පනත යටතේ වූ වැරදි සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ගොනුකළ චෝදනාවලට තමන් නිවැරදිකාරිය බව හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය අද (01) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+Diana Gamage, former State Minister, claimed she followed orders when filing wrongful immigration acts, stating this during her CID interview.
 
-ඇයට එරෙහිව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඉදිරිපත් කළ චෝදනා පත්‍ර 07ක් අධිකරණය හමුවේ කියවා දීමෙන් අනතුරුව ඇය මේ බව ප්‍රකාශ කළේය.
+🟩
+
+Former State Minister Diana Gamage stated that he was the orders that he filed the orders regarding the wrongdoing under the Immigration and Emigration Act.
+
+She made this statement after the Criminal Investigations Department (CID) before the CID.
 
 ◼️
 
 [Data](articles/3d296754.json)
+
+[Extended Data](ext_articles/3d296754.ext.json)
+
+---
+
+### மத்திய சுற்றாடல் அதிகார சபைக்கு புதிய தலைவர் நியமனம்
+
+*2024-08-01 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189957) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மத்திய சுற்றாடல் அதிகாரசபைக்கு புதிய தலைவரை ஜூலை 30ஆம் திகதி முதல் நியமித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+தற்போதைய தலைவர் வேணுர பெர்னாண்டோவை திடீரென நீக்கியமைக்கான காரணம் தெரிவிக்கப்படவில்லை என மத்திய சுற்றாடல் அதிகாரசபை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+
+ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் கையொப்பமிடப்பட்ட புதிய மத்திய சுற்றாடல் அதிகார சபையின் தலைவராக யு.டி.சந்தன ஜயலால் நியமிக்கப்பட்டமைக்கான கடிதத்தின் பிரதி நேற்று புதன்கிழமை (31) சுற்றாடல் அமைச்சின் செயலாளர் மற்றும் பணிப்பாளர் நாயகம் உட்பட பல அதிகாரிகளுக்கு அனுப்பப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/cfb1a321.json)
+
+---
+
+### கட்டுப்பணம் செலுத்தினார் விஜயதாஸ ராஜபக்ஷ !
+
+*2024-08-01 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189966) · `ta`
+
+தேசிய ஜனநாயக முன்னணியின் சார்பில்  ஜனாதிபதி வேட்பாளராக விஜயதாச ராஜபக்ஷ கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+2024 ஆம் ஆண்டுக்கான ஜனாதிபதித் தேர்தலில் போட்டியிடும் வகையில், தேசிய ஜனநாயக முன்னணி சார்பில் விஜயதாஸ ராஜபக்ஸ இன்று வியாழக்கிழமை  (01) கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+2024 செப்டெம்பர் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் போட்டியிடுதற்கு இன்றைய தினம் வரையான காலப்பகுதிக்குள் மாத்திரம் 7  வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+இதற்கமைய  அங்கீகரிக்கப்பட்ட அரசியல் கட்சி சார்பில் போட்டியிட 05 வேட்பாளர்களும், சுயாதீனமாக போட்டியிட 02 வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பை தேர்தல்கள் ஆணைக்கு கடந்த மாதம் 26 ஆம் திகதி வெள்ளிக்கிழமை காலை  வெளியிட்டது. அறிவிப்பு வெளியான ஒருசில மணித்தியாலத்துக்குள் ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயாதீன வேட்பாளராக போட்டியிடுவதற்கு கட்டுப்பணம் செலுத்தப்பட்டது.
+
+...
+
+[Data](articles/721c812d.json)
 
 ---
 
@@ -139,6 +239,26 @@ It is worth noting that 7 candidates have been controlled so far to contest the 
 [Data](articles/d5b1b2d8.json)
 
 [Extended Data](ext_articles/d5b1b2d8.ext.json)
+
+---
+
+### மில்கோ மற்றும் NLDB ஐ விற்பதற்கு எதிரான வழக்கு இன்று
+
+*2024-08-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189962) · `ta`
+
+மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் (NLDB) உள்ள காணிகளை விற்பனை செய்வதற்கு எதிராக உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுளள மனு தொடர்பான விவாதம் இன்று வியாழக்கிழமை (01) முற்பகல் 10.30 மணிக்கு நடைபெறவுள்ளது.
+
+கைத்தொழில் மற்றும் விவசாய நிலங்களை பாதுகாக்கும் மக்கள் இயக்கத்தினால் இந்த வழக்கு தொடுக்கப்பட்டுள்ளது.
+
+இது தொடர்பாக அகில இலங்கை கமக்காரர்கள் சம்மேளனத்தின் தேசிய அமைப்பாளர் நாமல் கருணாரத்ன கருத்து தெரிவிக்கையில்,
+
+மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் உள்ள காணிகள் இலங்கையின் பெறுமதிமிக்க வளங்கள் ஆகும். நாட்டை கட்டியெழுப்புவதற்கு இந்த வளங்களில் இருந்து பயன்பெறுவதற்கான வளர்ச்சியடைந்த வேலைத்திட்டம் எம்மிடம் இருக்கிறது.
+
+அதற்காக இந்த வளங்களை பாதுகாக்க வேண்டும். உயர் நீதிமன்றத்தில் நியாயம் கிடைக்கும் என்று நாங்கள் எதிர்பார்க்கிறோம்.” என்றார்.
+
+◼️
+
+[Data](articles/46ec8553.json)
 
 ---
 
@@ -328,6 +448,28 @@ The arrested suspects are aged 20, 22, 24, 27, 39 and the suspect is 48 years ol
 
 ---
 
+### இலங்கை கடற்பரப்பில் விபத்து : இந்திய மீனவர் உயிரிழப்பு, ஒருவரைக் காணவில்லை !
+
+*2024-08-01 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189959) · `ta`
+
+யாழ்ப்பாணம், நெடுந்தீவு கடற்பரப்பில் சட்டவிரோதமாக மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்களை இலங்கை கடற்படையினர் கைது செய்ய முற்பட்போது, ஏற்பட்ட விபத்தில் இந்திய மீனவர் ஒருவர் உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காணாமல் போயுள்ளார்.
+
+நெடுந்தீவு கடற்பரப்பினுள் படகொன்றில் இந்திய மீனவர்கள் ஐந்து பேர் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்டிருந்தனர்.
+
+அதன்போது, கடலில் சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டிருந்த கடற்படையினர் இன்று வியாழக்கிழமை (01) அதிகாலை அத்துமீறி மீன் பிடியில் ஈடுபட்ட இந்திய கடற்தொழிலாளர்களை கைது செய்ய முற்பட்டுள்ளனர்.
+
+அவ்வேளை மீனவர்களின் படகு கடலில் கவிழ்ந்துள்ளது விபத்திற்குள்ளாகியுள்ளதில் ஒருவர் கடலில் மூழ்கி உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காணாமல் போயுள்ளார்.
+
+ஏனைய மூவரும் இலங்கை கடற்படையினரால் மீட்கப்பட்டு, காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
+
+உயிரிழந்தவரின் சடலம் மீட்கப்பட்டு வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ள அதேவேளை, காணாமல்போன மீனவரை தேடும் நடவடிக்கையிலும் இலங்கை கடற்படையினர் ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/4f4d681f.json)
+
+---
+
 ### Indian fisherman death
 
 *2024-08-01 09:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/படகு-கவிழ்ந்ததில்-இந்திய-மீனவர்-மரணம்/71-341381) · `ta`
@@ -377,6 +519,54 @@ In equities, Colombo’s All Share Price Index opened 10.34 points higher at 11,
 [Data](articles/1f237490.json)
 
 [Extended Data](ext_articles/1f237490.ext.json)
+
+---
+
+### Forestry gang robbed of Sri Lankan's supermarket -Violence
+
+*2024-08-01 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189954) · `ta`
+
+A Sri Lankan supermarket owner's store was robbed by a local gang, causing significant damage and theft. The incident occurred in the aftermath of a tragic knife attack, leading to heightened tensions and violence in the Meenaside area. The owner, fearing for safety, closed his shop early and later discovered the robbery via CCTV footage. He expressed concern over potential arson, as fires were seen outside his store. Local community members plan to raise funds to support him and hold the perpetrators accountable.
+
+🟩
+
+The BBC said that a Sri Lankan man's supermarket was chased by a Sri Lankan gang and causing great damage to a Sri Lankan gang in the wake of the deaths of girls in the British Chaudford.
+
+He said that the violent gangs who broke the windows of the Windsor minimart and entered, robbed valuable items.
+
+It is noteworthy that violence took place in the Meenaside area after the event to commemorate the victims of the knife attack.
+
+Due to fears that the area may become safe, he has closed his shopping center and returned home that evening and saw his shopping center looting through the CCTV camera at Balasuriya's home.
+
+They only needed ten or fifteen minutes to break the shopping center and they kicked the window glasses.
+
+He looked at the fire outside the shop and they were fat. I was afraid that they were going to set up my shopping center, "he said.
+
+I called 999 and my children saw it on CCTV, "he said.
+
+...
+
+[Data](articles/ec74004b.json)
+
+[Extended Data](ext_articles/ec74004b.ext.json)
+
+---
+
+### ஐஸ் போதைப்பொருள் வைத்திருந்த சிறைச்சாலை அதிகாரி பணி இடை நிறுத்தம்
+
+*2024-08-01 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189958) · `ta`
+
+ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் கைது செய்யப்பட்ட வெலிக்கடை சிறைச்சாலை அதிகாரி ஒருவர் பணி இடைநிறுத்தப்பட்டுள்ளார்.
+
+வெலிக்கடை சிறைச்சாலையின் பிரதான வாயிலில் சிறைச்சாலைகள் அவசர நடவடிக்கை மற்றும் தந்திரோபாயப் படை அதிகாரிகள் சிறைச்சாலை அதிகாரியை சோதனையிட்ட போது அவரிடமிருந்து ஐஸ் போதைப்பொருள் பொதிகள் கைப்பற்றப்பட்டுள்ளன.
+
+இதன்போது, சந்தேக நபர் பாதணியில் ஐஸ் போதைப்பொருளை சூட்சுமமான முறையில் மறைத்து வைத்திருந்ததாக  சிறைச்சாலை ஆணையாளர் காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மேலும், கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக சட்ட நடவடிக்கைகளுக்காக பொரளை பொலிஸ் நிலையத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/2ea29e4a.json)
 
 ---
 
@@ -583,36 +773,6 @@ The suspect has been sent to the Borella Police Station for further legal procee
 [Data](articles/de5b7076.json)
 
 [Extended Data](ext_articles/de5b7076.ext.json)
-
----
-
-### Forestry gang robbed of Sri Lankan's supermarket -Violence
-
-*2024-08-01 08:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189954) · `ta`
-
-A Sri Lankan supermarket owner's store was robbed by a local gang, causing significant damage and theft. The incident occurred in the aftermath of a tragic knife attack, leading to heightened tensions and violence in the Meenaside area. The owner, fearing for safety, closed his shop early and later discovered the robbery via CCTV footage. He expressed concern over potential arson, as fires were seen outside his store. Local community members plan to raise funds to support him and hold the perpetrators accountable.
-
-🟩
-
-The BBC said that a Sri Lankan man's supermarket was chased by a Sri Lankan gang and causing great damage to a Sri Lankan gang in the wake of the deaths of girls in the British Chaudford.
-
-He said that the violent gangs who broke the windows of the Windsor minimart and entered, robbed valuable items.
-
-It is noteworthy that violence took place in the Meenaside area after the event to commemorate the victims of the knife attack.
-
-Due to fears that the area may become safe, he has closed his shopping center and returned home that evening and saw his shopping center looting through the CCTV camera at Balasuriya's home.
-
-They only needed ten or fifteen minutes to break the shopping center and they kicked the window glasses.
-
-He looked at the fire outside the shop and they were fat. I was afraid that they were going to set up my shopping center, "he said.
-
-I called 999 and my children saw it on CCTV, "he said.
-
-...
-
-[Data](articles/ec74004b.json)
-
-[Extended Data](ext_articles/ec74004b.ext.json)
 
 ---
 
@@ -1036,6 +1196,28 @@ Vasanthi's daughter leaves in Sri Lanka to enter the interview with data entry i
 
 ---
 
+### Yall. Retirement Chancellor Reddowns in Punnalaikkattu
+
+*2024-08-01 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189950) · `ta`
+
+Velayudhar Balasubramaniam, a 68-year-old retired chancellor from Punnalaikkattuvan, was found dead in his home on Mayilangadu Road. Living alone since divorcing his wife 10 years ago, he had no local family; his children reside abroad. The discovery was made when someone returned to collect belongings. An autopsy will be conducted at the Jaffna Teaching Hospital.
+
+🟩
+
+A retirement Chancellor who lives alone in a house has been found dead on Wednesday (31). The deceased is Velayudhar Balasubramaniam (age 68), a native of Punnalaikkattuvan, Mayilangadu Road.
+
+The person has been living alone for the past 10 years after splitting his wife. His children are living abroad. The man who had rented the house and left the house had been found dead in the house when the man came home to pick up their goods.
+
+The death investigation into his body was carried out by A.Jayapalasingham. The body has been recovered and placed at the Jaffna Teaching Hospital for autopsy.
+
+◼️
+
+[Data](articles/89db0bf1.json)
+
+[Extended Data](ext_articles/89db0bf1.ext.json)
+
+---
+
 ### Supreme Court interim ruling only a direction given to President
 
 *2024-08-01 02:12:43* · [`dailyftlk`](https://www.ft.lk/columns/Supreme-Court-interim-ruling-only-a-direction-given-to-President/4-764992) · `en`
@@ -1213,28 +1395,6 @@ At the outset, it must be noted that in the absence of closely guarded inside in
 [Data](articles/9ad9f1dc.json)
 
 [Extended Data](ext_articles/9ad9f1dc.ext.json)
-
----
-
-### Yall. Retirement Chancellor Reddowns in Punnalaikkattu
-
-*2024-08-01 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189950) · `ta`
-
-Velayudhar Balasubramaniam, a 68-year-old retired chancellor from Punnalaikkattuvan, was found dead in his home on Mayilangadu Road. Living alone since divorcing his wife 10 years ago, he had no local family; his children reside abroad. The discovery was made when someone returned to collect belongings. An autopsy will be conducted at the Jaffna Teaching Hospital.
-
-🟩
-
-A retirement Chancellor who lives alone in a house has been found dead on Wednesday (31). The deceased is Velayudhar Balasubramaniam (age 68), a native of Punnalaikkattuvan, Mayilangadu Road.
-
-The person has been living alone for the past 10 years after splitting his wife. His children are living abroad. The man who had rented the house and left the house had been found dead in the house when the man came home to pick up their goods.
-
-The death investigation into his body was carried out by A.Jayapalasingham. The body has been recovered and placed at the Jaffna Teaching Hospital for autopsy.
-
-◼️
-
-[Data](articles/89db0bf1.json)
-
-[Extended Data](ext_articles/89db0bf1.ext.json)
 
 ---
 
@@ -1453,6 +1613,20 @@ JKH will be utilizing those funds for the further development of its City of Dre
 [Data](articles/0108b653.json)
 
 [Extended Data](ext_articles/0108b653.ext.json)
+
+---
+
+### ‘Experience unmatched value with Dialog’s all-new Anytime Home Broadband Reload Plan’
+
+*2024-07-31 22:49:00* · [`islandlk`](http://island.lk/experience-unmatched-value-with-dialogs-all-new-anytime-home-broadband-reload-plan/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has introduced its latest prepaid Home Broadband Reload plan to cater to the ever-growing Data needs of Sri Lankan households. This plan offers ample data for an entire household with a single monthly reload, ensuring seamless connectivity throughout the day.
+
+Dialog Home Broadband’s new Wi-Fi prepaid reload plan , priced at just Rs. 699 per month, provides 30GB of anytime data, making it one of the best value-for-money home Wi-Fi plans in the market. Designed to meet the entire family’s Wi-Fi demands with the convenience of a single reload, it offers a versatile solution for the whole household’s internet needs.
+
+...
+
+[Data](articles/d10b4766.json)
 
 ---
 
@@ -1985,223 +2159,5 @@ Duminda Dissanayake added: "The present President Ranil Wickremesinghe has reque
 [Data](articles/328c3ced.json)
 
 [Extended Data](ext_articles/328c3ced.ext.json)
-
----
-
-### President requests the President: Anti-Corruption Act is not put in cabinet
-
-*2024-07-31 19:03:11* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණ-විරෝධී-පනත-කැබිනට්-එකට-දාන්න-එපා-යැයි-ප්‍රභලම-තරුණ-මන්ත්‍රීවරයෙක්-ජනපතිගෙන්-ඉල්ලයි/11-411128) · `si`
-
-A youth MP urges President Ranil Wickremesinghe not to present the anti-corruption bill to the Cabinet, citing its submission should precede the upcoming presidential election. The President plans to consult with senior ministers about the bill, which was initially proposed under his administration but awaits parliamentary decision.
-
-🟩
-
-A youth MP has requested the President Ranil Wickremesinghe not to submit anti-corruption bill to the Cabinet.
-
-The youth has made this request in the backdrop of the arrangements to submit the anti-Corruption Bill within the Future.
-
-This MP has requested the President Ranil Wickremesinghe to address the bill before the presidential election.
-
-It is reported that President Ranil Wickremesinghe is scheduled to be discussed with senior government ministers to discuss with senior government ministers.
-
-Under the administration of President Ranil Wickremesinghe, the Bill was presented to the Cabinet at a press conference to decide in Parliament.
-
-◼️
-
-[Data](articles/5a9ec64e.json)
-
-[Extended Data](ext_articles/5a9ec64e.ext.json)
-
----
-
-### Joe Root is the one
-
-*2024-07-31 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199420) · `si`
-
-Joe Root, England's top-ranked Test batsman, leads the ICC's inaugural Test rankings with 872 points, followed closely by New Zealand's Kane Williamson with 859 points.
-
-🟩
-
-England athlete Joot, who ranked the World Test batsmen, was first seized.
-
-The first location of the Test batsman graders issued by the International Cricket Council has won 872 bonus points.
-
-New Zealand athletic Kane Williamsan afternoon. That was 859 runs.
-
-◼️
-
-[Data](articles/ef3e57b7.json)
-
-[Extended Data](ext_articles/ef3e57b7.ext.json)
-
----
-
-### Another international financial racket leading from Sri Lanka is copied
-
-*2024-07-31 18:38:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිට-මෙහෙයවූ-තවත්-ජාත්‍යන්තර-මූල්‍ය-ජාවාරමක්-කොටුකර-ගනියි/11-411127) · `si`
-
-A Japanese woman and a group of individuals, including a Chinese couple, were arrested in Sri Lanka for allegedly running an international financial scam. The operation was based in a Norochcholai tourism hotel, where police found 50 computers, 98 mobile phones, and over 2000 SIM cards during a raid. Preliminary investigations suggest the group was involved in fraudulent activities across several countries. The hotel has been temporarily sealed, and further inquiries are ongoing.
-
-🟩
-
-A Japanese woman has been arrested by the Puttalam Division Criminal Investigation Unit today (31).
-
-The arrested persons were a group of people in the Norochcholai area without suspicion to visit Sri Lanka.
-
-Police investigations have revealed that the Chinese couple and 13 others who were conducting the racket first and had been returning to a norochcholai tourism hotel first on June 28.
-
-The Superintendent of Police has conducted a special investigation into a special information received by the Superintendent of Police that a group of Chinese will remain in a Norochcholai tourist hotel.
-
-The Puttalam Division Criminal Investigation Unit has been handed over to the Investigation Unit to inspect the hotel premises on a special search warrant obtained from the Puttalam Court.
-
-When the officers were inspected at the hotel premises, 11 people were arrested while two people were hiding in the toilets while he was inspected.
-
-...
-
-[Data](articles/f4b5fcb4.json)
-
-[Extended Data](ext_articles/f4b5fcb4.ext.json)
-
----
-
-### I am contesting the presidential election to bring the country to a new angle without prejudice - the president
-
-*2024-07-31 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189941) · `ta`
-
-President Ranil Wickremesinghe promises to lead the country without prejudice, aiming to distribute responsibilities across all levels of government to foster growth. He emphasizes commitment to IMF agreements and addresses concerns over global issues impacting Sri Lanka's economy. Highlighting the importance of unity and stability, he calls for collective action to tackle challenges and move the country forward.
-
-🟩
-
-President Ranil Wickremesinghe, who said he would contest the presidential election without prejudice, promised to improve the country by giving them responsibilities to all those under 10 governments, including the central government and 09 provincial governments.
-
-The President made this observation at a meeting held at the Battaramulla Voters Edge Hotel on Wednesday (31) with former representatives of the Provincial Councils representing the Sri Lanka PA and the United National Party.
-
-Meanwhile, former people of the 116 provincial councils representing the Sri Lanka PA and the United National Party (UNP) have promised to dedicate President Ranil Wickremesinghe's victory in the upcoming presidential election.
-
-“To protect the growing economy in the country and take forward. Cannot violate the agreement made with the International Monetary Fund. The President also emphasized that it is the responsibility of everyone to be committed to the election, even if it is held.
-
-...
-
-[Data](articles/70024a10.json)
-
-[Extended Data](ext_articles/70024a10.ext.json)
-
----
-
-### Six candidates place deposits for 2024 Presidential Election so far
-
-*2024-07-31 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100901/six-candidates-place-deposits-for-2024-presidential-election-so-far) · `en`
-
-The Election Commission of Sri Lanka says that so far deposits have been placed for six candidates to contest the 2024 Presidential Election.
-
-This includes two independent candidates and four other candidates from recognized political parties.
-
-The independent candidates are President Ranil Wickremesinghe and former MP Sarath Keerthirathne while the other four candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’, ASP Liyanage of the Sri Lanka Labour Party, Sajith Premadasa of the ‘Samagi Jana Balawegaya’ and P W S K Bandaranayake from ‘Jathika Sanwardhana Peramuna’.
-
-Furthermore, the Election Commission of Sri Lanka had issued a Gazette on July 26 stating that 21st September 2024, as the date for holding the poll for the presidential election.
-
-◼️
-
-[Data](articles/3c7e26a6.json)
-
-[Extended Data](ext_articles/3c7e26a6.ext.json)
-
----
-
-### President reveals independently presidential election
-
-*2024-07-31 18:33:50* · [`adalk`](https://www.ada.lk/breaking_news/ස්වාධීනව-ජනපතිවරණයට-එන-හේතුව-ජනපති-හෙළි-කරයි/11-411126) · `si`
-
-President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, emphasizing his commitment to managing the country's economic challenges and preserving agreements with the International Monetary Fund (IMF). He condemned the assassination of the Hamas political leader, highlighting its potential to worsen tensions in the Middle East. The President also addressed concerns about the country's economic stability, stating that the IMF agreement must be upheld to avoid financial collapse. He expressed gratitude towards former President Mahinda Rajapaksa for supporting his decision to run, and called for unity among political parties to address national issues effectively.
-
-🟩
-
-Under the 10 Provincial Governments and the central government, including the 10 government, will be taken advantage of responsibility for all.
-
-The murder of the Hamas political leader is no longer approved by no means and strongly condemn it.
-
-The world of Iran and the Middle East will now take steps to prevent the influence of the Sri Lankan economy - President.
-
-President Ranil Wickremesinghe said that he would take responsibilities on the country and the 10 provincial governments as an independent candidate.
-
-The President was speaking at a meeting with former public representatives of the Sri Lanka General Front and the UNP.
-
-Former Western Province Chief Minister Isuru Devapriya presented the proposal to join the victory of President Ranil Wickremesinghe in the next presidential election.. M. R. 116 former people's representatives of the provincial councils were lifted and firm.
-
-...
-
-[Data](articles/dd2c1913.json)
-
-[Extended Data](ext_articles/dd2c1913.ext.json)
-
----
-
-### 03 special committees from the President
-
-*2024-07-31 18:25:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-විශේෂ-කමිටු-03-ක්/11-411125) · `si`
-
-President Ranil Wickremesinghe has formed three special committees to assess the security and economic implications of the Hamas political leader in Iran. These committees, including members from various ministries, are tasked with preparing reports without adversely affecting the public. The findings will be presented to a top committee for further action.
-
-🟩
-
-President Ranil Wickremesinghe has arranged for three special committees to prepare the security and economic influence of the Hamas political leader in Iran.
-
-Accordingly, a special committee of the National Security and the impact of the economy and the President has taken a high level of committee to monitor the proposals of the two committees.
-
-Special committee of National Security Tiran Alles, Minister of External Affairs, Minister of External Affairs, Minister of Power and Energy, Chief Sabri and Presidential Chief Consider Sagala Ratnayake.
-
-...
-
-[Data](articles/ee12fee8.json)
-
-[Extended Data](ext_articles/ee12fee8.ext.json)
-
----
-
-### Inflation up
-
-*2024-07-31 18:20:03* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411124) · `si`
-
-Colombo's consumer inflation rose from 1.7% in June to 2.4% in July 2024. Food inflation jumped from 1.4% to 1.5%, while non-food inflation surged from 1.8% to 2.8%.
-
-🟩
-
-Consumer inflation rate of Colombo Municipal Community has increased to 2.4 of July 2024. It was reported as 1.7 for June.
-
-In July 2024, the annual inflation of food category increased to 1.5%, and in June 2024, it was 1.4.
-
-Also, the non-food annual inflation (point) has increased to 2.8% in June 2024, and it was 1.8% in June 2024.
-
-◼️
-
-[Data](articles/406847e3.json)
-
-[Extended Data](ext_articles/406847e3.ext.json)
-
----
-
-### Deputy Speaker tells President to discuss once with Mahinda
-
-*2024-07-31 18:15:43* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-සමග-එක්-වතාවක්-සාකච්ඡා-කරන්නැයි-නියෝජ්‍ය-කථානායක-ජනපතිට-කියයි/11-411123) · `si`
-
-Deputy Speaker Ajith Rajapaksa urged President Ranil Wickremesinghe to consult with former President Mahinda Rajapaksa to gain support from the Sri Lanka Podujana Peramuna (SLPP). This request was made during a parliamentary session, highlighting the importance of unity and strategic alliances for future political gains.
-
-🟩
-
-Deputy Speaker Ajith Rajapaksa has requested President Ranil Wickremesinghe to discuss with the leader of the Sri Lanka General Wickremesinghe to seek the assistance of the Sri Lanka General Wickremesinghe.
-
-The request was made by Deputy Speaker Ajith Rajapakse at the Government Memorandum of Parliament at the Presidential Secretariat under the patronage of the president.
-
-The demand has been made by Deputy Speaker Ajith Rajapaksa to discuss the event and discussed Mahinda Rajapaksa at the last time or the Prime Minister and the Prime Minister, or a special committee.
-
-"This is a very sensitive opportunity. A question that makes the heart feel. But we must act with good intelligence.
-
-According to his advice under the leadership of Mr. Mahinda Rajapaksa for many years. As a result, a discussion will be discussed if you can find the support of the Sri Lanka General Front.
-
-...
-
-[Data](articles/af8de696.json)
-
-[Extended Data](ext_articles/af8de696.ext.json)
 
 ---

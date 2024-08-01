@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 18:16:13**
+As of **2024-08-01 18:27:56**
 
 ## Newspaper Stats
 
-*Scraped **38,485** Articles*
+*Scraped **38,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,533
-adaderanalk | 4,447
+adalk | 3,535
+adaderanalk | 4,448
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
-adaderanasinhalalk | 6,483
+adaderanasinhalalk | 6,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,482 (100.0%) of 38,485 articles have been extended.
+38,485 (100.0%) of 38,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### New Sri Lankan passports to be issued from October
+
+*2024-08-01 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100921/new-sri-lankan-passports-to-be-issued-from-october) · `en`
+
+A Sri Lankan passport with new features and with three different colours for normal, official and diplomatic passports will be issued from October 2024, Minister of Public Security Tiran Alles said.
+
+◼️
+
+[Data](articles/24526dfb.json)
+
+---
+
+### ඇප තැන්පත් කළ අපේක්ෂකයක් ගණන 10ක් දක්වා ඉහළට
+
+*2024-08-01 17:56:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කළ-අපේක්ෂකයක්-ගණන-10ක්-දක්වා-ඉහළට/11-411150) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ඇප තැන්පත් කළ පිරිස 10 දක්වා ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/c00db140.json)
+
+---
+
+### අරගලකරුවන්ගේ පෙත්සම් 4ක් විභාගයට අවසර
+
+*2024-08-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199458) · `si`
+
+අරගලකරුවන් පිරිසක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 4ක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (01) අවසර ලබාදී ඇත.
+
+අරගලය පැවති සමයේ මිරිහානේ පිහිටි හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පෞද්ගලික නිවස අසල පැවති විරෝධතාවලදී තමන්ව පොලීසිය විසින් අසාධාරණ ලෙස අත්අඩංගුවට ගැනීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වූ බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+ඒ අනුව, දීර්ඝ කරුණු සලකා බැලීමකින් පසුව විජිත් මළල්ගොඩ සහ යසන්ත කෝදාගොඩ යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම පෙත්සම් විභාගයට ගැනීමට අවසර දී තිබේ.
+
+එම සිද්ධීන්වලට අදාළවම ඉදිරිපත් කෙරුණු තවත් මූලික අයිතිවාසිකම් පෙත්සම් 04ක් නිෂ්ප්‍රභ කිරීමට ද විනිසුරු මඩුල්ල තීන්දු කර ඇත.
+
+◼️
+
+[Data](articles/49d76437.json)
+
+---
 
 ### President’s Fund scholarship’s August instalment transferred to recipients
 
@@ -47,6 +89,22 @@ Additionally, the 6th instalment of the same amount for another 6,000 students w
 ...
 
 [Data](articles/23d811c8.json)
+
+[Extended Data](ext_articles/23d811c8.ext.json)
+
+---
+
+### ඇප තැබූ පිරිස 10 දක්වා ඉහළට
+
+*2024-08-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199457) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 10 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස,  පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක, විජයදාස රාජපක්ෂ, කේ.කේ. පියදාස, සිරිතුංග ජයසූරිය සහ අජන්ත ද සොයිසා යන අය විසින් ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/c4a055f7.json)
 
 ---
 
@@ -68,6 +126,8 @@ The interest rates will be decided closer to the finalization of the Trust Deed 
 
 [Data](articles/ad54cce6.json)
 
+[Extended Data](ext_articles/ad54cce6.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 302.20/30 to US dollar
@@ -88,6 +148,8 @@ A bond maturing on 15.09.2029 closed at 12.20/45 percent, up from 12.20/40 perce
 
 [Data](articles/cd18da55.json)
 
+[Extended Data](ext_articles/cd18da55.ext.json)
+
 ---
 
 ### The decision of LAUGFS gas
@@ -105,6 +167,20 @@ LAUGFS Gas Company says that the price of LAUGFS gas (domestic gas) is not amend
 [Data](articles/4728455d.json)
 
 [Extended Data](ext_articles/4728455d.ext.json)
+
+---
+
+### ජනාධිපතිවරණය කඩාකප්පල් කිරීමේ ප්‍රයත්නය අසාර්ථකයි?
+
+*2024-08-01 17:08:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-කඩාකප්පල්-කිරීමේ-ප්‍රයත්නය-අසාර්ථකයි-/11-411149) · `si`
+
+පොලිස්පති තනතුරට මුවාවී ජනාධිපතිවරණය කඩාකප්පල් කිරීමට අසාර්ථක වන ලකුණු පෙන්නුම් කර ඇති බව විශ්‍රාමික නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා සිය ෆේස්බුක් ගිණුමේ සටහනක් තබමින් සඳහන් කර ඇත.
+
+ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) තනතුරේ වැඩ බැලීම සඳහා ලලිත් පතිනායක මහතා පත් කිරීම සම්බන්ධයෙන් අදහස් දක්වමින් මේ බව සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/9a36cd02.json)
 
 ---
 
@@ -2161,135 +2237,5 @@ Meanwhile, a Sri Lankan navy sailor fell into the sea when he attempted to arres
 [Data](articles/4f4d681f.json)
 
 [Extended Data](ext_articles/4f4d681f.ext.json)
-
----
-
-### Indian fisherman death
-
-*2024-08-01 09:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/படகு-கவிழ்ந்ததில்-இந்திய-மீனவர்-மரணம்/71-341381) · `ta`
-
-An Indian fisherman drowned off the coast today. A confrontation between Sri Lankan naval boats and Indian fishermen led to chaos. Two fishermen fell into the sea; two died, one is missing. The Navy arrested two fishermen.
-
-🟩
-
-Indian fisherman drowned in sea. The incident took place this morning.
-
-According to reports, the Sri Lankan naval boat involved in patrols and the Indian fishermen who were involved in the fishing of the Indian fishermen were reported to be overwhelming.
-
-Two fishermen died after falling into the sea. Missing one. Two fishermen have been arrested by the Navy.
-
-◼️
-
-[Data](articles/eabba1fd.json)
-
-[Extended Data](ext_articles/eabba1fd.ext.json)
-
----
-
-### Sri Lanka rupee opens at 302.35/50 to US dollar
-
-*2024-08-01 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-35-50-to-us-dollar-174769/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened almost unchanged at 302.35/50 to the US dollar on Thursday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.09 percent.
-
-The rupee closed at 302.40/50 to the greenback on Wednesday.
-
-In the secondary market, treasury bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.50/70 percent, up from 10.50/65 percent.
-
-A bond maturing on 01.05.2027 was quoted at 11.45.55 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, up from 12.00/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.25/45 percent, up from 12.20/40 percent.
-
-A bond maturing on 15.10.2030 was quoted at 12.73/80 percent, down from 12.70/85 percent.
-
-In equities, Colombo’s All Share Price Index opened 10.34 points higher at 11,416, while the S&P SL20 of more liquid stocks opened up at 0.34 percent or 11.00 points to 3,276.
-
-◼️
-
-[Data](articles/1f237490.json)
-
-[Extended Data](ext_articles/1f237490.ext.json)
-
----
-
-### Forestry gang robbed of Sri Lankan's supermarket -Violence
-
-*2024-08-01 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189954) · `ta`
-
-A Sri Lankan supermarket owner's store was robbed by a local gang, causing significant damage and theft. The incident occurred in the aftermath of a tragic knife attack, leading to heightened tensions and violence in the Meenaside area. The owner, fearing for safety, closed his shop early and later discovered the robbery via CCTV footage. He expressed concern over potential arson, as fires were seen outside his store. Local community members plan to raise funds to support him and hold the perpetrators accountable.
-
-🟩
-
-The BBC said that a Sri Lankan man's supermarket was chased by a Sri Lankan gang and causing great damage to a Sri Lankan gang in the wake of the deaths of girls in the British Chaudford.
-
-He said that the violent gangs who broke the windows of the Windsor minimart and entered, robbed valuable items.
-
-It is noteworthy that violence took place in the Meenaside area after the event to commemorate the victims of the knife attack.
-
-Due to fears that the area may become safe, he has closed his shopping center and returned home that evening and saw his shopping center looting through the CCTV camera at Balasuriya's home.
-
-They only needed ten or fifteen minutes to break the shopping center and they kicked the window glasses.
-
-He looked at the fire outside the shop and they were fat. I was afraid that they were going to set up my shopping center, "he said.
-
-I called 999 and my children saw it on CCTV, "he said.
-
-...
-
-[Data](articles/ec74004b.json)
-
-[Extended Data](ext_articles/ec74004b.ext.json)
-
----
-
-### Ice Drug Officer's Prison Officer
-
-*2024-08-01 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189958) · `ta`
-
-A Welikada Prison official was suspended after being caught with ice drugs during a raid. The officer was found with drug packets at the prison entrance. He has been transferred to Borella police station for further investigation.
-
-🟩
-
-A Welikada Prison official has been suspended for allegedly holding an ice drug.
-
-Ice drug packs were seized from him when the prison officials raided the prison officer at the main gate of the Welikada Prison.
-
-Prison Commissioner Gamini B.. Dissanayake said.
-
-In addition, the suspect has been sent to the Borella police station for further legal action, police said.
-
-◼️
-
-[Data](articles/2ea29e4a.json)
-
-[Extended Data](ext_articles/2ea29e4a.ext.json)
-
----
-
-### Indian fisherman killed in northern seas
-
-*2024-08-01 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199435) · `si`
-
-An Indian fisherman was killed and another went missing in a boat crash near Delft Island while attempting to arrest illegal fishermen. The incident occurred as four fishermen fell into the sea; one died en route to the hospital. Search efforts continue for the missing fisherman.
-
-🟩
-
-Indian fisherman has been killed and another disappeared in a crash near the Delft Island.
-
-The navy said the accident had taken place when they were traveling to arrest a group of Indian fishermen who were illegally entered the country's waters.
-
-Four fishermen have fallen into the sea and the victim has died in rushing to the Punchankathiv hospital.
-
-The search for the other fisherman said that the search for the other fishermen further stated.
-
-◼️
-
-[Data](articles/786cbc6c.json)
-
-[Extended Data](ext_articles/786cbc6c.ext.json)
 
 ---

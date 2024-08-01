@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 18:27:56**
+As of **2024-08-01 18:38:29**
 
 ## Newspaper Stats
 
-*Scraped **38,490** Articles*
+*Scraped **38,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,535
-adaderanalk | 4,448
+adaderanalk | 4,449
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
-virakesarilk | 6,085
-adaderanasinhalalk | 6,485
+virakesarilk | 6,091
+adaderanasinhalalk | 6,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,485 (100.0%) of 38,490 articles have been extended.
+38,490 (100.0%) of 38,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ඔක්තෝබර් සිට ඔබට ලැබෙන ගුවන්ගමන් බලපත්‍රය වෙනස් වෙයි
+
+*2024-08-01 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199459) · `si`
+
+2024 ඔක්තෝබර් මාසයේ සිට නව මුහුණුවරක් යටතේ ගුවන්ගමන් බලපත්‍ර නිකුත් කෙරෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+ඒ අනුව සාමාන්‍ය, නිල සහ රාජ්‍ය තාන්ත්‍රික ලෙස නිකුත් කෙරෙන එම ගමන් බලපත්‍ර සඳහා එකිනෙකට වෙනස් වර්ණ තුනක් භාවිත කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/c17291ba.json)
+
+---
+
+### SC grants leave to proceed with petitions by ‘Aragalaya’ activists
+
+*2024-08-01 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100922/sc-grants-leave-to-proceed-with-petitions-by-aragalaya-activists) · `en`
+
+The Supreme Court has granted leave to proceed with the hearing of four Fundamental Rights (FR) petitions filed by a group of activists of the ‘Aragalaya’ protest movement today (Aug. 01).
+
+These petitions have been filed seeking a ruling that their fundamental rights have been violated by the police unjustly arresting them during the protests held near former President Gotabaya Rajapaksa’s private residence in Mirihana.
+
+The Supreme Court judge bench comprising Justices Vijith Malalgoda and Yasantha Kodagoda granted leave to hear the petition following an extended consideration of facts presented, Ada Derana reporter said.
+
+At the same time, the judge bench has dismissed four other petitions filed with regard to the same incident.
+
+◼️
+
+[Data](articles/19971a3c.json)
+
+---
 
 ### New Sri Lankan passports to be issued from October
 
@@ -42,35 +74,65 @@ A Sri Lankan passport with new features and with three different colours for nor
 
 [Data](articles/24526dfb.json)
 
+[Extended Data](ext_articles/24526dfb.ext.json)
+
 ---
 
-### ඇප තැන්පත් කළ අපේක්ෂකයක් ගණන 10ක් දක්වා ඉහළට
+### Up to 10, the number of candidate is up to 10
 
 *2024-08-01 17:56:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කළ-අපේක්ෂකයක්-ගණන-10ක්-දක්වා-ඉහළට/11-411150) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ඇප තැන්පත් කළ පිරිස 10 දක්වා ඉහළ ගොස් තිබේ.
+The upcoming presidential election will feature up to 10 candidates.
+
+🟩
+
+The next presidential election has risen to 10.
 
 ◼️
 
 [Data](articles/c00db140.json)
 
+[Extended Data](ext_articles/c00db140.ext.json)
+
 ---
 
-### අරගලකරුවන්ගේ පෙත්සම් 4ක් විභාගයට අවසර
+### Four petitions are permitted to hear 4 petitions
 
 *2024-08-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199458) · `si`
 
-අරගලකරුවන් පිරිසක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 4ක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (01) අවසර ලබාදී ඇත.
+The Supreme Court granted permission to hear four fundamental rights petitions filed by a group against alleged police brutality during protests against former President Gotabhaya Rajapaksa. Judges Balalgoda and Yasantha Kodagoda will preside over the cases, while other similar petitions related to these incidents will be dismissed.
 
-අරගලය පැවති සමයේ මිරිහානේ පිහිටි හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පෞද්ගලික නිවස අසල පැවති විරෝධතාවලදී තමන්ව පොලීසිය විසින් අසාධාරණ ලෙස අත්අඩංගුවට ගැනීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වූ බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+🟩
 
-ඒ අනුව, දීර්ඝ කරුණු සලකා බැලීමකින් පසුව විජිත් මළල්ගොඩ සහ යසන්ත කෝදාගොඩ යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම පෙත්සම් විභාගයට ගැනීමට අවසර දී තිබේ.
+The Supreme Court today (01) has been given permission to hear four fundamental rights petitions filed by a group of fundamentalists.
 
-එම සිද්ධීන්වලට අදාළවම ඉදිරිපත් කෙරුණු තවත් මූලික අයිතිවාසිකම් පෙත්සම් 04ක් නිෂ්ප්‍රභ කිරීමට ද විනිසුරු මඩුල්ල තීන්දු කර ඇත.
+These petitions were demanding a decision that the police were unfairly violated by the police in the protests of former President Gotabhaya Rajapaksa at the struggle.
+
+Accordingly, after considering a long matter, the Supreme Court Judge Balalgoda and Yasantha Kodagoda have been allowed to hear the petitions.
+
+The panel has decided to refute any other fundamental rights petitions filed on these incidents.
 
 ◼️
 
 [Data](articles/49d76437.json)
+
+[Extended Data](ext_articles/49d76437.ext.json)
+
+---
+
+### புலம்பெயர் இளையோருக்கு அமைச்சர் டக்ளஸ் உணர்வுபூர்வ அழைப்பு!
+
+*2024-08-01 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190024) · `ta`
+
+சுவிஸ்லாந்தில் வாழ்ந்து வருகின்ற புலம்பெயர் மக்களின் இரண்டாவது தலைமுறையை சேர்ந்த இளையோர், இலங்கையில் முதலீடுகளை மேற்கொள்ள முன்வரவேண்டும் என்று அழைப்பு விடுத்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, எங்கள் தந்தையர் நாடென்ற பேச்சினிலே..,  ஒரு சக்தி பிறக்கிது மூச்சினிலே" என்ற மகாகவி பாரதியாரின் பாடலை சுட்டிக்காட்டி,  சுவிஸ்லாந்தில் வாழும் இளையோருக்கும் இலங்கைக்கும் இடையிலான உணர்வு ரீதியான பிணைப்பினையும் சுட்டிக்காட்டினார்.
+
+மேலும், புலம்பெயர் இளையோர் தமக்கு கிடைத்த வாய்ப்புக்களை சரியான முறையில் பயன்படுத்தி பல்வேறு துறைகளிலும் தம்மை தகவமைத்துள்ளதாக பெருமையுடன் சுட்டிக்காட்டிய அமைச்சர், பொருளாதார முதலீடுகளை மாத்திரமன்றி நவீன தொழில்நுட்ப அறிவுசார் முதலீடுகளையும் புலம்பெயர் இளையோரிடம் எதிர்பார்ப்பதாக தெரிவித்தார்.
+
+கொழும்பில் உள்ள சுவிஸ்லாந்து தூதரகத்தினால் நேற்று புதன்கிழமை (31) ஏற்பாடு செய்யப்பட்ட சுவிஸ்லாந்தின் 733 ஆவது சுதந்திர தின நிகழ்வில் இலங்கை அரசின் சார்பாக கலந்து கொண்டு உரையாற்றும் போதே கடற்றொழில் அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3dc74b98.json)
 
 ---
 
@@ -94,17 +156,23 @@ Additionally, the 6th instalment of the same amount for another 6,000 students w
 
 ---
 
-### ඇප තැබූ පිරිස 10 දක්වා ඉහළට
+### Troops reach 10
 
 *2024-08-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199457) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 10 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission confirmed that 10 candidates, including Ranil Wickremesinghe, Sarath Keerthirath, and others, have been nominated for the upcoming Presidential election.
 
-ඒ අනුව මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස,  පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක, විජයදාස රාජපක්ෂ, කේ.කේ. පියදාස, සිරිතුංග ජයසූරිය සහ අජන්ත ද සොයිසා යන අය විසින් ඇප මුදල් තැන්පත් කර ඇත.
+🟩
+
+The Elections Commission announced that 10 candidates have been paid to the Presidential election.
+
+Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa, P. W. S. K. Bandaranaike, Wijeyadasa Rajapakse, KK. Piyadasa, Sirithunga Jayasuriya and Ajantha De Zoysa have been deposited.
 
 ◼️
 
 [Data](articles/c4a055f7.json)
+
+[Extended Data](ext_articles/c4a055f7.ext.json)
 
 ---
 
@@ -152,6 +220,42 @@ A bond maturing on 15.09.2029 closed at 12.20/45 percent, up from 12.20/40 perce
 
 ---
 
+### மெமெர்கன்டைல் இன்வெஸ்ட்மென்ட்ஸ் குடும்பத்தின் 55ஆவது விரிவாக்கமாக வெலிமடை கிளை
+
+*2024-08-01 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190005) · `ta`
+
+Mercantile Investments  ஆனது தனது 55ஆவது கிளயை இல. 40, நுவரெலிய வீதி, வெலிமடையில் திறந்துவைத்துள்ளது. பிரதம செயற்பாட்டு அதிகாரி லக்ஸந்த குணவர்தன, சிரேஷ்ட முகாமைத்துவம், பெறுமதிமிக்க வாடிக்கையாளர்கள் மற்றும் உள்ளூர் பிரமுகர்கள்  கலந்துகொண்ட மாபெரும் திறப்பு விழா, நிறுவனத்தின் விரிவான வலையமைப்பின் சமீபத்திய விரிவாக்கத்தைக் குறித்தது.
+
+கிளை முகாமையாளர்  தம்மிக்க பிரதீபின் தலைமையில் அமைக்கப்பட்டுள்ள புதிய கிளை, வெலிமடையின் நிதி வலுவூட்டலில் முக்கிய பங்காற்றுவதற்கு தயாராக உள்ளது.
+
+தனிநபர்கள் மற்றும் வணிகங்களின் தேவைகளைப் பூர்த்தி செய்ய வடிவமைக்கப்பட்ட பரந்த அளவிலான நிதித் தயாரிப்புகளை இது வழங்குகிறது.
+
+இதில் குத்தகை மற்றும் வாகனக் கடன்கள், நிலையான வைப்புத்தொகைகள், தங்கக் கடன்கள் மற்றும் சேமிப்புக் கணக்குகள் ஆகியவை அடங்கும், இவை அனைத்தும் வாடிக்கையாளர்களின் நிதி இலக்குகளை அடைய உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/3320a579.json)
+
+---
+
+### திருகோணமலை - சந்தோஷபுரம் களப்பு பிரதேசத்தில்  கசிப்புடன் ஒருவர் கைது!
+
+*2024-08-01 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190010) · `ta`
+
+திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்கு உட்பட்ட சந்தோஷபுரம் களப்பு பிரதேசத்தில் கசிப்பு உற்பத்தி மையம் ஒன்று அடையாளம் காணப்பட்டு சுற்றி வளைப்பு மேற்கொண்டதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த பிரதேசத்தில் 25,000 மில்லி லீட்டர் கசிப்பு உற்பத்தி செய்யப்பட்டிருந்த நிலையில் கைப்பற்றப்பட்டதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த, கசிப்பு உற்பத்தி நிலையத்தை நடத்தி வந்த மூதூரின் நெய்தல் நகர் பிரதேசத்தை வசிப்பிடமாகக் கொண்ட 43 வயதுடையவரை சம்பூர் பொலிஸார் கைது செய்துள்ளதாக  தெரிவித்துள்ளனர்.
+
+மேலும், கைப்பற்றப்பட்ட கசிப்பையும் கைது செய்யப்பட்ட நபரையும் இன்று வியாழக்கிழமை (01)  மூதூர் நீதிமன்றத்தில் ஆஜர் படுத்த நடவடிக்கை எடுப்பதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/bff813d4.json)
+
+---
+
 ### The decision of LAUGFS gas
 
 *2024-08-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199456) · `si`
@@ -170,17 +274,37 @@ LAUGFS Gas Company says that the price of LAUGFS gas (domestic gas) is not amend
 
 ---
 
-### ජනාධිපතිවරණය කඩාකප්පල් කිරීමේ ප්‍රයත්නය අසාර්ථකයි?
+### Efforts to disrupt the presidential election?
 
 *2024-08-01 17:08:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-කඩාකප්පල්-කිරීමේ-ප්‍රයත්නය-අසාර්ථකයි-/11-411149) · `si`
 
-පොලිස්පති තනතුරට මුවාවී ජනාධිපතිවරණය කඩාකප්පල් කිරීමට අසාර්ථක වන ලකුණු පෙන්නුම් කර ඇති බව විශ්‍රාමික නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා සිය ෆේස්බුක් ගිණුමේ සටහනක් තබමින් සඳහන් කර ඇත.
+Retired DIG Priyantha Jayakody revealed he thwarted attempts to sabotage the Presidential election. He also commented on the appointment of Lalith Pathinaee as Senior DIG (Admin).
 
-ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) තනතුරේ වැඩ බැලීම සඳහා ලලිත් පතිනායක මහතා පත් කිරීම සම්බන්ධයෙන් අදහස් දක්වමින් මේ බව සඳහන් කර ඇත.
+🟩
+
+Retired DIG Priyantha Jayakody has stated that he has shown the marks failing to sabotage the Presidential election.
+
+Speaking to the appointment of Lalith Pathinaee to the appointment of the Senior DIG (Admin Admin) post is commissioned.
 
 ◼️
 
 [Data](articles/9a36cd02.json)
+
+[Extended Data](ext_articles/9a36cd02.ext.json)
+
+---
+
+### நிருவாக பிரிவிற்கு பொறுப்பான பிரதி பொலிஸ்மா அதிபராக கடமைகளை நிறைவேற்ற லலித் பத்திநாயக்க நியமனம் !
+
+*2024-08-01 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190023) · `ta`
+
+நிருவாக பிரிவிற்கு பொறுப்பான பிரதி பொலிஸ்மா அதிபராக கடமைகளை நிறைவேற்ற லலித் பத்திநாயக்க தேசிய பொலிஸ் ஆணைக்குழுவினால் நியமிக்கப்பட்டுள்ளார்.
+
+பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் அப்பதவியில் பணிகளைத்  தொடர உயர் நீதிமன்றம் கடந்த மாதம் 24 ஆம் திகதி இடைக்கால தடை உத்தரவொன்றை பிறப்பித்துள்ளது.
+
+◼️
+
+[Data](articles/06f9600b.json)
 
 ---
 
@@ -395,6 +519,36 @@ The murder had been carried out on a private dispute between the suspect and the
 [Data](articles/a018870b.json)
 
 [Extended Data](ext_articles/a018870b.ext.json)
+
+---
+
+### இலங்கை ரசிகர்கள் மத்தியில் கிரிக்கெட் விளையாடுவதில் மிகவும் ஆர்வமாக உள்ளோம் : இந்திய அணித் தலைவர் ரோஹித்
+
+*2024-08-01 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190015) · `ta`
+
+பெருந்தொகையான கிரிக்கெட் ரசிகர்களைக் கொண்ட நாடு இலங்கை. இலங்கையின் கிரிக்கெட் கலாச்சாரம் மிகவும் இனிமையானது. கடந்த 2018 இல் இலங்கை வந்திருந்தேன். இலங்கையர்கள் எந்தளவு கிரிக்கெட்டை நேசிக்கிறார்கள் என்று எனக்குத் தெரியும் . அதனால் நாம் இலங்கைக்கு வந்து கிரிக்கெட் விளையாடுவதில் மிகவும் ஆர்வமாக உள்ளோம். அவர்கள் கிரிக்கெட்டை நேசிப்பதுடன் அவர்களின் அணியையும் நேசிக்கின்றனர். கிரிக்கெட் விளையாடுவதற்கு மிகவும் சிறந்த நாடு. எனவே மகிழ்ச்சியாக 3 போட்டிகளைக் கொண்ட ஒரு நாள் தொடரில் விளையாட ஆர்வமாக உள்ளோம் என இந்திய ஒருநாள் கிரிக்கெட் அணித் தலைவர் ரோஹித் சர்மா தெரிவித்தார்.
+
+இந்திய அணி ரோஹித் சர்மா தலைமையில் ரி20 உலகக் கிண்ணத்தை வென்றதையடுத்து, ரோஹித் சர்மா இருபதுக்கு - 20 போட்டியில் இருந்து ஓய்வு பெற்றார். அதன் பின்னர்  ஸிம்பாப்வேக்கு எதிராகவும் இலங்கைக்கு எதிராகவும் ரி20 தொடர்களை சூரியகுமார் யாதவ் தலைமையில் இந்தியா கைப்பற்றியிருந்தது.
+
+இந்நிலையில் இலங்கைக்கு எதிராக 3 போட்டிகள் கொண்ட ஒருநாள் தொடரில் இந்திய அணி விளையாடவுள்ளது.
+
+...
+
+[Data](articles/917679d9.json)
+
+---
+
+### சுவசெரிய VUடன் இணைந்து ஹிக்கடுவைக்கென ஆம்புலன்ஸ்   ஒன்றை புதுப்பித்துள்ள NDB வங்கி
+
+*2024-08-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190003) · `ta`
+
+சுவசேரிய அறக்கட்டளையுடன்   கைகோர்ப்பதன்மூலம் அம்புலன்ஸ் ஒன்றைப் புதுப்பித்து  NDB இலச்சனையுடன் முத்திரையிடப்பட்டு, நவம் மாவத்தையில் உள்ள NDB தலைமை அலுவலகத்திலிருந்து ஹிக்கடுவைக்கு ஸ்ரீஅதிகாரப்பூர்வமாக மீண்டும் அனுப்பப்பட்டதுடன், இது சரியான நேரத்தில் மருத்துவ உதவியை உறுதி செய்யும் அதே வேளையில் சமூகம் சார்ந்த முயற்சிகளுக்கு ஆதரவளிப்பதில் NDB இன் தற்போதைய அர்ப்பணிப்பை வெளிப்படுத்துவதாக உள்ளது.
+
+NDB முத்திரை குத்தப்பட்ட அம்புலன்ஸ், ஒரு வருட காலத்திற்கு ஹிக்கடுவ பகுதியில் இயங்குவதன் மூலம் தேவைப்படும் மக்களிற்கு முக்கியமான அவசரகால சேவைகளை வழங்கும்.
+
+...
+
+[Data](articles/830bc9a0.json)
 
 ---
 
@@ -2053,189 +2207,5 @@ MP Ranil Wickremesinghe, the only leader of the country, was able to reach the p
 [Data](articles/7fecc85f.json)
 
 [Extended Data](ext_articles/7fecc85f.ext.json)
-
----
-
-### Wijeyadasa Rajapakshe places deposit for Presidential Election
-
-*2024-08-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100906/wijeyadasa-rajapakshe-places-deposit-for-presidential-election) · `en`
-
-Former Justice Minister Dr. Wijeyadasa Rajapakshe has placed a deposit with the Election Commission as a candidate for the 2024 Presidential Election.
-
-Rajapakshe has placed the deposit as the presidential candidate of the National Democratic Front.
-
-On July 25, the MP had officially announced that he would contest the upcoming Presidential Election while he had stepped down from his ministerial position as the Minister of Justice, Prisons Affairs and Constitutional Reforms on July 29.
-
-◼️
-
-[Data](articles/5b1e7600.json)
-
-[Extended Data](ext_articles/5b1e7600.ext.json)
-
----
-
-### Death threat to Minister Tran Ales
-
-*2024-08-01 09:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டிரான்-அலஸுக்கு-மரண-அச்சுறுத்தல்/175-341384) · `ta`
-
-Minister Tran Ales faces a death threat from the underworld, prompting increased security measures.
-
-🟩
-
-Investigators have discovered that the Minister of Public Safety Tran Ales has been threatened with death from the underworld, police sources say.
-
-The intelligence agency has said that steps have been taken to increase the safety of Minister Tran Ales, according to the same sources.
-
-◼️
-
-[Data](articles/acb21166.json)
-
-[Extended Data](ext_articles/acb21166.ext.json)
-
----
-
-### Chaminda also seized from the Polonnaruwa Polonuwa
-
-*2024-08-01 09:58:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවටම-අයිස්-බෙදූ-පැලවත්තේ-චමින්ද-අල්ලයි/11-411136) · `si`
-
-In a significant crackdown on drug trafficking in the Polonnaruwa area, authorities arrested four individuals, including a major heroin and ice dealer. The operation, led by Acting OIC Inspector RMSI Rajapaksa, involved a substantial effort to apprehend the suspects, who attempted to evade capture. The main suspect, known for distributing drugs across Colombo, was found with 5 milligrams of heroin upon arrest. Three additional suspects were also detained, each possessing varying amounts of heroin. Investigations into the main suspect's activities in the Ellawewa and Siriwara areas are ongoing, with the individual facing multiple outstanding warrants.
-
-🟩
-
-Siripura Police say three including three persons who were famous in the forest of heroin racketeer.
-
-Heroin and ice is a major dealer of heroin and ice in the Polonnaruwa area in Colombo, but the racketeer has been able to arrest the racket with another three heroin racketeers.Acting OIC Inspector RMSI. Mr. Rajapaksa said in a query.
-
-The police say that the suspects had to be a large effort and effort to the arrest of the suspects and tried to flee a question to the ground.
-
-He added that when the main suspect was arrested, he had the five millile grams, and the other three other suspects had 40 milligrams of heroin.
-
-The main suspect in the Ellawewa area of ​​the Ellawewa area of ​​Ellawe and Siriwara area, the Siriwara Police are investigating.
-
-The main suspect had three open warrants at the Aralaganwila police and he was hiding in various areas for many years.
-
-Tests have revealed that he had been distributed to heroin and ice to several areas in Colombo, a resident of Colombo, police said.
-
-...
-
-[Data](articles/e646f5ef.json)
-
-[Extended Data](ext_articles/e646f5ef.ext.json)
-
----
-
-### The Fear of War East Spreads
-
-*2024-08-01 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199438) · `si`
-
-Fahud Shrukter, a senior Hisbollawa commander, and a Hemas leader were killed in separate Israeli attacks, escalating tensions in the Middle East.
-
-🟩
-
-Hisbollawa has officially announced that Fahud Shrukter, a senior commander of his organization, died of a Israeli attack.
-
-He was also killed in an area under the Obstabolle in Bebanon in Bebanon.
-
-Two women and two children in the man who was sleeping were killed in the attack.
-
-A few hours later, an Israeli air strike deceased in the Hemas Leader of Hamas.
-
-He was assassinated by an air strike at Tehran, the capital of Iran.
-
-Political commentators say that the murders have increased the warm of the Middle East.
-
-◼️
-
-[Data](articles/930f05a2.json)
-
-[Extended Data](ext_articles/930f05a2.ext.json)
-
----
-
-### Support for another MP Ranil in Mottu
-
-*2024-08-01 09:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மொட்டுவில்-மற்றுமொரு-எம்-பி-ரணிலுக்கு-ஆதரவு/75-341382) · `ta`
-
-I'm here to assist with programming and technical tasks. Could you please provide more details or clarify what specific assistance you need?
-
-🟩
-
-Trincomalers
-
-◼️
-
-[Data](articles/44fee549.json)
-
-[Extended Data](ext_articles/44fee549.ext.json)
-
----
-
-### Wijayaka has been bail
-
-*2024-08-01 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199437) · `si`
-
-Mr. Wijayadasa Rajapaksa, a presidential candidate for the National Democratic Front, has granted bail to Wijayaka.
-
-🟩
-
-Mr. Wijayadasa Rajapaksa has placed bail as the presidential candidate of the National Democader Front.
-
-◼️
-
-[Data](articles/02d02eb1.json)
-
-[Extended Data](ext_articles/02d02eb1.ext.json)
-
----
-
-### Boxes who stopped in Sri Lanka
-
-*2024-08-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199436) · `si`
-
-Six Chinese nationals, aged between 20 and 48, were arrested in Sri Lanka for overstaying their visas. The arrest occurred in the Payagala area on January 31st.
-
-🟩
-
-The Payagala Police have arrested six Chinese nationals who were staying in the country without visa.
-
-The Chinese delegation held in the Payagala area was arrested yesterday (31).
-
-The arrested suspects are aged 20, 22, 24, 27, 39 and the suspect is 48 years old.
-
-◼️
-
-[Data](articles/aaba095c.json)
-
-[Extended Data](ext_articles/aaba095c.ext.json)
-
----
-
-### Sri Lankan waters accident: Indian fisherman death
-
-*2024-08-01 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189959) · `ta`
-
-In a tragic incident, an Indian fisherman died and another went missing after their boat collided with the Sri Lankan navy attempting to arrest them for illegal fishing near Jaffna and Neduntivu. Five fishermen were involved; three were rescued and taken to the Kankesanthurai Naval Base, while one body was recovered and handed over to the hospital. The search continues for the missing fisherman. Additionally, a Sri Lankan naval officer drowned while trying to apprehend the fishermen on June 24.
-
-🟩
-
-An Indian fisherman was killed and another disappeared when the Sri Lankan navy tries to arrest Indian fishermen who were illegally fishing in the Jaffna and Neduntivu area.
-
-Five Indian fishermen were engaged in fishing in a boat inside the Nedundevu sea.
-
-At the same time, the Marines who were involved in the sea have been arrested by the Indian fishermen who were fishing in the early hours of Thursday morning.
-
-The fishermen's boat crashed into the sea.
-
-The other three have been rescued by the Sri Lankan navy and taken to the Kankesanthurai Naval Base.
-
-The body of the deceased has been recovered and handed over to the hospital while the Sri Lankan navy is also searching for the missing fisherman.
-
-Meanwhile, a Sri Lankan navy sailor fell into the sea when he attempted to arrest the Indian fishermen who had entered the Sri Lankan waters on June 24.
-
-◼️
-
-[Data](articles/4f4d681f.json)
-
-[Extended Data](ext_articles/4f4d681f.ext.json)
 
 ---

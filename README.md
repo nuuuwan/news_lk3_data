@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 18:55:40**
+As of **2024-08-01 19:05:57**
 
 ## Newspaper Stats
 
-*Scraped **38,499** Articles*
+*Scraped **38,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,97 @@ islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,535
-adaderanalk | 4,449
+adaderanalk | 4,451
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,092
-adaderanasinhalalk | 6,486
+adaderanasinhalalk | 6,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,498 (100.0%) of 38,499 articles have been extended.
+38,499 (100.0%) of 38,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### எங்களுடைய உயிர் இருக்கும் வரை போராட்டத்தை கைவிட போவதில்லை; எங்களுடைய பிள்ளைகளை பார்க்கும் வரை நாங்கள் ஓயமாட்டோம் - காணாமல் ஆக்கப்பட்ட உறவினரை தேடும் ஓர் அம்மாவின் மனகுமுறல்
+### Ten candidates place deposits for 2024 Presidential Election thus far
 
-*2024-08-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190041) · `ta`
+*2024-08-01 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100924/ten-candidates-place-deposits-for-2024-presidential-election-thus-far) · `en`
 
-எங்களுடைய உயிர் இருக்கும் வரை போராட்டத்தை கைவிட போவதுமில்லை எங்களுடைய பிள்ளைகளை பார்க்கும்வரை நாங்கள் ஓய போவதுமில்லை என காணாமல் ஆக்கப்பட்ட உறவினரை தேடும் ஓர் அம்மா தனது மனகுமுறலை வெளிப்படுத்தியிருந்தார்.
+The Election Commission of Sri Lanka says that four more candidates have placed their deposits today (01) to contest the 2024 Presidential Election.
 
-முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களால் நேற்றையதினம் முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டிருந்தனர். குறித்த போராட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலே இவ்வாறு தனது மன குமுறலை தெரிவித்திருந்தார்.
+In total, 10 candidates have placed their deposits with the Election Commission accordingly.
 
-எங்கள் குழந்தைகளை தேடி 15 வருடங்களாக தெருத்தெருவாக சாப்பாடு, தண்ணீர் இல்லாமல், படுக்க இடமில்லாமல்
+This includes three independent candidates, six candidates from recognized political parties and one candidate from other political parties.
 
-எத்தனை மாதமாக  அடி வாங்கி, பேச்சு வாங்கி இதுவரையிலும் இந்த போராட்டத்தை கைவிடவில்லை. இனியும் எங்களுடைய உயிர் இருக்கும் வரை இந்த போராட்டத்தை கைவிட போவதில்லை.
+The independent candidates are President Ranil Wickremesinghe and former MP Sarath Keerthirathne while the other eight candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’, ASP Liyanage of the Sri Lanka Labour Party, Sajith Premadasa of the ‘Samagi Jana Balawegaya’, P W S K Bandaranayake from ‘Jathika Sanwardhana Peramuna’, Dr. Wijeyadasa Rajapakshe of the ‘National Democratic Front’, Siritunga Jayasuriya of the ‘United Socialist Party’ and Ajantha De Zoysa of ‘Ruhunu Janatha Party’.
 
 ...
 
+[Data](articles/0c02f368.json)
+
+---
+
+### රනිල් දිනවන්න දිනේෂ් සටනට
+
+*2024-08-01 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199460) · `si`
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රමුඛ මහජන එක්සත් පෙරමුණ ඉදිරි‍ ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබේ.
+
+අද (01) පස්වරුවේ එම පක්ෂයේ මධ්‍යම කාරක සභාව රැස් වූ අවස්ථාවේදී ඒකමතිකව මෙම තීරණයට එළඹුණ බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/47497faf.json)
+
+---
+
+### Mahajana Eksath Peramuna to support Ranil at prez poll
+
+*2024-08-01 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100923/mahajana-eksath-peramuna-to-support-ranil-at-prez-poll-) · `en`
+
+The Mahajana Eksath Peramuna (MEP) led by Prime Minister Dinesh Gunawardena has also decided to support President Ranil Wickremesinghe at the upcoming Presidential Election.
+
+Meanwhile, the Central Committee of the Sri Lanka Freedom Party (SLFP) recently expressed their unwavering support for President Wickremesinghe’s victory in the forthcoming presidential election.
+
+Additionally, 92 Members of Parliament including Ministers and State Ministers recently met with Wickremesinghe and pledged their support for the President in the upcoming presidential election to ensure his victory.
+
+Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Wickremesinghe.
+
+◼️
+
+[Data](articles/7640a930.json)
+
+---
+
+### We are not going to abandon the struggle until our life is;We will not wait until we see our children - a mother who is looking for a missing relative
+
+*2024-08-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190041) · `ta`
+
+A mother searching for her missing child for over 15 years vows not to give up, despite hardships and threats from authorities. She urges the international community to help reunite families, emphasizing the importance of seeing their children before it's too late.
+
+🟩
+
+A mother looking for a missing relative expressed her mind that we would not abandon the struggle as long as we had our lives.
+
+Mullaitivu District Relatives of the Mullaitivu District. After the struggle, he expressed his depression in commenting to the media.
+
+Looking for our children for 15 years, without water, without water
+
+How many months of beating and speeching have not yet abandoned this struggle. It is no longer going to abandon this struggle as long as we have our life.
+
+We don't have a death certificate or two lakhs. If I die, we will continue to fight the next and next. We will not wait without seeing our children until the last time we disappear. Whoever threatens the intelligence agencies, the police and the military, we will fight this struggle.
+
+The international community has taken care of this, and I ask us to give a good decision to see our children before we die.
+
+◼️
+
 [Data](articles/34f24c8b.json)
+
+[Extended Data](ext_articles/34f24c8b.ext.json)
 
 ---
 
@@ -2193,67 +2253,5 @@ To protect these resources for that. We expect justice in the High Court. ”sai
 [Data](articles/46ec8553.json)
 
 [Extended Data](ext_articles/46ec8553.ext.json)
-
----
-
-### Talada MP's play exposure
-
-*2024-08-01 10:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341387) · `ta`
-
-Dalada Attukorala, a Member of Parliament, faced backlash from supporters of President Ranil Wickremesinghe during a Voters Edge event in Battaramula, highlighting political tensions.
-
-🟩
-
-The drama was played when the Voters Edge in Battaramula, which was held for the members of the Provincial Council, which supported President Ranil Wickremesinghe, came out when Member of Parliament Dalada Attukorala came out of the Voters Edge in Battaramula.
-
-◼️
-
-[Data](articles/24547c2b.json)
-
-[Extended Data](ext_articles/24547c2b.ext.json)
-
----
-
-### Talada MP's play exposure
-
-*2024-08-01 10:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341386) · `ta`
-
-Dalada Attukorala, a Member of Parliament, faced criticism during a Voters Edge event in Battaramula, supporting President Ranil Wickremesinghe. The incident highlighted issues within the Provincial Council elections.
-
-🟩
-
-The drama was played when the Voters Edge in Battaramula, which was held for the members of the Provincial Council, which supported President Ranil Wickremesinghe, came out when Member of Parliament Dalada Attukorala came out of the Voters Edge in Battaramula.
-
-◼️
-
-[Data](articles/b0a8bb2a.json)
-
-[Extended Data](ext_articles/b0a8bb2a.ext.json)
-
----
-
-### Milko is a case against selling NLDB today
-
-*2024-08-01 10:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மில்கோ-NLDB-ஐ-விற்பதற்கு-எதிரான-வழக்கு-இன்று/175-341385) · `ta`
-
-Today, a Supreme Court debate opposes the sale of land in Milco and the National Plantation Development Board (NLDB), filed by the People's Movement to Protect Industrial and Agricultural Lands. Namal Karunaratne argues these lands are vital resources for Sri Lanka's development, emphasizing the need for justice to safeguard them.
-
-🟩
-
-A debate on the Supreme Court will be held today (01) at 10.30 am against the sale of land in Milco and the National Plantation Development Board (NLDB).
-
-The case has been filed by the People's Movement to Protect Industrial and Agricultural Lands.
-
-Namal Karunaratne, National Organizer of the All Ceylon Communist Federation, said,
-
-Lands at the Milco Company and the National Plantation Development Board are Sri Lanka's valuable resources. We have a developed program to benefit from these resources to build the country.
-
-To protect these resources for that. We expect justice in the High Court. ”said.
-
-◼️
-
-[Data](articles/019bfe36.json)
-
-[Extended Data](ext_articles/019bfe36.ext.json)
 
 ---

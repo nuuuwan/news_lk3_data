@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 14:36:02**
+As of **2024-08-01 14:54:52**
 
 ## Newspaper Stats
 
@@ -26,43 +26,61 @@ adaderanasinhalalk | 6,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,446 (100.0%) of 38,452 articles have been extended.
+38,452 (100.0%) of 38,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ஜுலையில் பணவீக்கம் 2.4 சதவீதமாக உயர்வு
+### Inflation to 2.4 percent in July
 
 *2024-08-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190002) · `ta`
 
-கொழும்பு நுகர்வோர் விலைச்சுட்டெண் மதிப்பீட்டின் பிரகாரம் கடந்த ஜுன் மாதம் 1.7 சதவீதமாகப் பதிவாகியிருந்த பணவீக்கம், ஜுலை மாதம் 2.4 சதவீதமாக உயர்வடைந்துள்ளது.
+Inflation rose from 1.7% in June to 2.4% in July, according to the Colombo Consumer Price Index. The food index increased to 1.5%, while the non-food index decreased slightly. The overall CPI monthly change was 0.44%, driven by a 0.03% rise in food prices and a 0.47% drop in non-food prices. The core inflation remained stable at 0.44%. The Central Bank aims to manage this through appropriate policies, targeting moderate inflation in the medium term.
 
-அதன்படி, கடந்த ஜுன் மாதம் 1.4 பதிவான உணவுப்பணவீக்கம் ஜுலையில் 1.5 சதவீதமாகவும், ஜுன் மாதம் 1.8 சதவீதமாகப் பதிவான உணவல்லாப்பணவீக்கம் ஜுலையில் 2.8 சதவீதமாகவும் உயர்வடைந்தன.
+🟩
 
-மேலும், கொழும்பு நுகர்வோர் விலைச்சுட்டெணின் மாதாந்த மாற்றம் ஜுலையில் 0.44 சதவீதமாகப் பதிவாகியுள்ளது. இதற்கு உணவுப்பொருட்களின் விலைகளில் அவதானிக்கப்பட்ட 0.03 சதவீத அதிகரிப்பும், உணவல்லாப்பொருட்கள், சேவைகளின் விலைகள், கட்டணங்களில் அவதானிக்கப்பட்ட 0.47 சதவீத வீழ்ச்சியும் காரணமாக அமைந்தன.
+Inflation, which recorded to 1.7 per cent last June, rose to 2.4 per cent in June, according to the Colombo Consumer Price Estate.
 
-பொருளாதாரத்தின் அடிப்படைப்பணவீக்கத்தைப் பிரதிபலிக்கின்ற மையப்பணவீக்கம் கடந்த ஜுலை மாதம் 0.44 சதவீதமாக மாற்றமின்றிக் காணப்பட்டது.
+Accordingly, the 1.4 -year -old diet in June last year rose to 1.5 per cent in July and the foodgirls recorded to 1.8 per cent in June.
 
-...
+In addition, the monthly change of the Colombo Consumer Price Code was recorded at 0.44 per cent in July. This was due to an increase of 0.03 per cent in food prices and a 0.47 per cent decline in food prices and fees.
+
+The central supply, reflecting the basic work of the economy, was unchanged to 0.44 percent last July.
+
+The Central Bank has announced that it will be supported by the appropriate policy mechanisms and firm inflation, and the inflation will reach the target of the future, and that in the middle of the medium period, the Central Bank expects.
+
+◼️
 
 [Data](articles/ee2d12a8.json)
 
+[Extended Data](ext_articles/ee2d12a8.ext.json)
+
 ---
 
-### தோட்ட அதிகாரியை இடமாற்றகோரி தோட்ட தொழிலாளர்கள் வேலைநிறுத்தப் போராட்டம்
+### Plantation workers strike to transfer plantation officer
 
 *2024-08-01 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189999) · `ta`
 
-தோட்ட அதிகாரி தோட்ட தொழிலாளி ஒருவரை தாக்கியதாக கூறி தோட்ட அதிகாரியின் அடாவடித் தனத்தை கண்டித்து தலவாக்கலை ட்றூப் தோட்ட தொழிலாளர்கள் இன்று வியாழக்கிழமை (01) பணிப்புறக்கணிப்பில் ஈடுபட்டனர்.
+Talawakelle plantation workers went on strike over alleged assault by an officer, claiming theft of tea supplies. The strike began after an employee was assaulted and continues until the officer is transferred.
 
-மஸ்கெலியா பெருந்தோட்ட கம்பனியின் கீழ் இயங்கும் தலவாக்கலை  ட்றூப் தோட்ட பிரிவுகளான ட்றூப், கொரின், கிளனமோரா ஆகிய தோட்டங்களைச் சேர்ந்த 400 ற்கும் மேற்பட்ட தொழிலாளர்கள் தோட்ட அதிகாரியின் அடாவடித்தனத்தை கண்டித்து வேலைநிறுத்தப் போராட்டத்தில் ஈடுப்பட்டுள்ளனர்.
+🟩
 
-ட்றூப் தோட்டத்தில் அறுவடை செய்யப்படும் தேயிலை கொழுந்துகளை தலவாக்கலை தேயிலை தொழிற்சாலைக்கு அரைப்பதற்காக கொண்டு வருவதாகவும், தேயிலை கொழுந்துகளை கொண்டு வரும்போது தேயிலை கொழுந்துகள் திருடப்பட்டுள்ளதாகவும் கூறி தலவாக்கலை தோட்ட அதிகாரி  தோட்ட தொழிலாளி ஒருவரை செவ்வாய்க்கிழமை (30) மாலை  தாக்கியுள்ளதாக வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள தோட்ட தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+The Talawakelle Troop plantation workers staged a workforce on Thursday (01), denouncing the plantation officer's abuse for allegedly assaulting a plantation officer.
+
+More than 400 workers from the Talawakelle Troop, Corinamora estates, Talawakelle, which are under the Maskeliya Plantation Company, have been strikeing the plantation officer.
+
+The plantation workers at the Talawakelle plantation officer said that the tea was brought to the Talawakelle Tea Factory and the tea was stolen when the tea was brought to the Talawakelle Tea Factory and the tea was stolen on Tuesday evening.
+
+Plantation workers say that the plantation workers have been on strike since Wednesday (31) and the strike will continue until the Talawakelle estate officer is transferred from the plantation.
+
+The plantation worker, who is allegedly attacked, has lodged a complaint at the Talawakelle Police Station and has been admitted to the Lindula Divisional Hospital that evening.
 
 ...
 
 [Data](articles/d9678966.json)
+
+[Extended Data](ext_articles/d9678966.ext.json)
 
 ---
 
@@ -152,21 +170,27 @@ The Minister said that the security student insurance is provided to all schools
 
 ---
 
-### நான் குற்றமற்றவள் - டயானா கமகே நீதிமன்றில் தெரிவிப்பு
+### I am innocent - Diana Kamage notified
 
 *2024-08-01 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189991) · `ta`
 
-குடிவரவு மற்றும் குடியகல்வு சட்டங்களை மீறிய குற்றச்சாட்டில் தான் குற்றமற்றவர் என முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே கொழும்பு நீதவான் நீதமன்றத்தில் தெரிவித்துள்ளார்.
+Diana Kamage, former State Minister, denies immigration law violations, claiming innocence. She responded to a charge of overstaying her visa and giving false information to immigration officials, as detailed in a CID indictment under the Immigration and Emigration Act. The Colombo Magistrate's Court will now hear the case.
 
-குடிவரவு மற்றும் குடியகல்வு சட்டத்தின் கீழ் குற்றப் புலனாய்வுத் திணைக்களத்தினால் அவருக்கு எதிராக நீதிமன்றில் முன்வைக்கப்பட்ட 07 குற்றப்பத்திரிகைகளை வாசித்த பின்னரே டயானா கமகே இதனைத் இன்று (ஆகஸ்ட் 01) காலை தெரிவித்தார்.
+🟩
 
-அதன்படி, இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு நீதவான் நீதிமன்றம் தீர்மானித்துள்ளது
+Former State Minister Diana Kamage told the Colombo Magistrate's Magistrate that he was innocent on charges of violating immigration and immigration laws.
 
-காலாவதியான விசாவுடன் இலங்கையில் தங்கியிருந்தமை மற்றும் குடிவரவு மற்றும் குடியகல்வு அதிகாரிகளிடம்  போலியான தகவல்களை  வழங்கியமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் டயானா கமகேவுக்கு எதிராக குற்றப் புலனாய்வுப் பிரிவினர் இந்தக் குற்றப்பத்திரிகையை தாக்கல் செய்திருந்தனர்.
+Diana Kamage said this this morning (August 01) after reading the 07 indictment filed by the Criminal Investigation Department under the Immigration and Emigration Act.
+
+Accordingly, the Colombo Magistrate's Court has decided to take up the case.
+
+The indictment was filed against Diana Kamage on charges of staying in Sri Lanka in Sri Lanka with an outdated visa and providing fake information to immigration and immigration officials.
 
 ◼️
 
 [Data](articles/38f80a1a.json)
+
+[Extended Data](ext_articles/38f80a1a.ext.json)
 
 ---
 
@@ -190,41 +214,57 @@ The collision was reported early on Thursday morning between a Sri Lankan naval 
 
 ---
 
-### ஜனாதிபதி தேர்தல் ; தமிழ் மக்கள் சமஷ்டியை ஏற்கும் வேட்பாளருக்கு வாக்களிக்க வேண்டும் - வடக்கு, கிழக்கு ஒருங்கிணைப்பு குழு வலியுறுத்தல்
+### Presidential election;Vote for the candidate for the Tamil people to accept the federal
 
 *2024-08-01 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189995) · `ta`
 
-ஜனாதிபதி தேர்தலில் சமஷ்டி கோரிக்கையை முன்வைக்கும் வேட்பாளருக்கே நாம் வாக்களிக்க வேண்டும் என வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவின் ஒருங்கிணைப்பாளர் கண்டுமணி லவகுசராசா தெரிவித்துள்ளார்.
+In a press conference, Kandumani Lavakusarasa urged voters to support candidates advocating for a federal solution in Sri Lanka's presidential election. He emphasized the importance of addressing the national ethnic issue through a federal political approach, highlighting the need for a just and equitable political solution for Tamil-speaking communities. The North East Coordinating Committee initiated a 100-day campaign on August 1, 2022, calling for a comprehensive political solution to end communal repression and affirm the rights of Tamil people in the North East region. Lavakusarasa stressed the significance of unity among Tamil-speaking individuals to achieve self-determination and sovereignty through a federal system, criticizing past deceptive practices by Sinhalese political leaders.
 
-இன்று வியாழக்கிழமை (01) யாழ்ப்பாணத்தில் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவினால் ஏற்பாடு செய்யப்பட்ட ஊடக சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி தேர்தலில் போட்டியிடப்போகும் வேட்பாளர்களுக்கு நாம் பகிரங்கமான கோரிக்கையை முன்வைக்கின்றோம். உங்களது தேர்தல் விஞ்ஞாபனத்தில் இலங்கையின் தேசிய இனப்பிரச்சினைக்கு தீர்வாக சமஷ்டி முறையிலான அரசியல் தீர்வை முன்வைக்க வேண்டும்.
+Kandumani Lavakusarasa, Coordinator of the North and East Coordinating Committee, said that we should vote for the candidate who will make a federal demand in the presidential election.
 
-இலங்கையின் வடக்கு கிழக்கு தமிழ் பேசும் மக்களுக்கு நிலையான, கௌரவமான, உரிமைகளுடன் கூடிய நிலையான அரசியல் தீர்வு கோரி 2022 ஆம் ஆண்டு ஆவணி முதலாம் திகதி சுழற்சி முறையிலான 100 நாட்கள் செயல்முனைவினை ஆரம்பித்து, 2022 கார்த்திகை எட்டாம் திகதி சமஷ்டி தீர்வுக்கான மக்கள் பிரகடனத்தை வெளியிட்டோம்.
+He was speaking at a media briefing organized by the North East Coordinating Committee in Jaffna today (01).
+
+We make an open request for candidates who are contesting the presidential election. In your election manifesto, we must come up with a federal political solution as a solution to the national ethnic problem of Sri Lanka.
+
+We launched a 100 -day activation on the first day of August 2022, demanding a standard, decent and right -handed political solution for the Tamil speaking people of Sri Lanka, and issued a public declaration for the eighth solution of Carnatic East.
+
+If we, the Tamil -speaking people of the North and East, are to live as citizens who have been recovering from the state communal repression that we face, we need a constant political solution.
 
 ...
 
 [Data](articles/69b9147d.json)
 
+[Extended Data](ext_articles/69b9147d.ext.json)
+
 ---
 
-### பேச்சுவார்த்தைகளின் ஊடாக தமிழ் மக்களுக்கு நிரந்தரமான அரசியல் தீர்வினை பெறுவதற்கான வாய்ப்புகளை உருவாக்கக்கூடிய சூழலை நாங்கள் அமைத்துக்கொள்ள வேண்டும்  - சாணக்கியன்
+### We need to create an environment where the Tamil people can find a permanent political solution through negotiations - Chanakyan
 
 *2024-08-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189984) · `ta`
 
-பேச்சுவார்த்தைகளின் ஊடாக தமிழ் மக்களுக்கு நிரந்தரமான அரசியல் தீர்வை பெறுவதற்கான வாய்ப்புகளை உருவாக்கக்கூடிய சூழலை நாங்கள் அமைத்துக் கொள்ள வேண்டும் என மட்டக்களப்பு மாவட்ட தமிழ் தேசிய கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்தார்.
+R. Sanakiyan advocates for a conducive environment to facilitate negotiations towards a permanent political solution for Tamil people. He highlights the importance of selecting leaders untainted by corruption and emphasizes the need for a regime change to address the district's issues. The discussion also touches upon the political landscape, including the potential candidacies of Namal Rajapaksa and Ranil Wickremesinghe, and the Tamil community's stance on various political parties and candidates.
 
-ஒரு சிலர் இந்த தமிழ் பொது வேட்பாளரை வைத்துக்கொண்டு தங்களுடைய பாராளுமன்ற தேர்தலை இலக்கு வைத்து தங்களுடைய கட்சி பிரபல்யமாகலாம் என ஒரு சிலர் இருக்கின்றார்கள் இன்னும் ஒரு சிலர் இதை பணம் உழைக்கும் ஒரு சந்தர்ப்பமாக பார்க்கின்றார்கள் எனவும் அவர் தெரிவித்தார்.
+🟩
 
-பாராளுமன்ற உறுப்பினர் சாணக்கியனின் பண்முகப்படுத்தப்பட்ட நிதியில் புனரமைக்கப்பட்ட ஆலயங்களுக்கு விஜயம் செய்த பாராளுமன்ற உறுப்பினர்  அவற்றினை பார்வையிட்டார்.
+Batticaloa District Tamil National Alliance (TNA) parliamentarian R. Sanakiyan said that we should create an environment that can create opportunities for the Tamil people to get a permanent political solution through negotiations.
 
-மட்டக்களப்பு கல்லடி பகுதியில் உள்ள ஆலயங்களுக்கு பன்முகப்படுத்தப்பட்ட நிதியில் புனரமைக்கப்பட்ட ஆலயங்களுக்கு சென்று புனரமைப்பு வேலைகளை பார்வையிட்டார்.
+He also said that there are a few people who have a Tamil general candidate and their party can become popular with their party.
 
-அத்துடன் குறித்த பிரதேசத்தில் உள்ள விளையாட்டுக்கழகங்களுக்கு சாணக்கியனின் பண்முகப்படுத்தப்பட்ட நிதியில் கொள்வனவுசெய்யப்பட்ட விளையாட்டு உபகரணங்களும் வழங்கிவைக்கப்பட்டன.
+The Member of Parliament visited the renovated temples in the funded fund of MP Chanakyan.
+
+He visited the renovated temples in the Kalladi area of ​​Batticaloa and visited the reconstructed temples.
+
+In addition, the sports equipment purchased by Chanakyan's Published Fund was also provided to the universities in the area.
+
+A regime change is to take place very quickly. Whoever comes as president, the conditions in the district must change, ie, we must choose the people who can meet the needs of the people with the clean hands of the people who are now eliminating the corrupt scandals in the district.
 
 ...
 
 [Data](articles/00e838af.json)
+
+[Extended Data](ext_articles/00e838af.ext.json)
 
 ---
 
@@ -256,23 +296,31 @@ Israel has no response to the killing of his enemies in foreign countries, even 
 
 ---
 
-### பொலிஸ்மா அதிபர்  தொடர்பான நெருக்கடிக்கு தீர்வு காணவேண்டும் - நீதியான சுதந்திரமான தேர்தலை உறுதி செய்யவேண்டும் - பவ்ரல் ஜனாதிபதிக்கு கடிதம்
+### Resolve the crisis of the Inspector General
 
 *2024-08-01 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189992) · `ta`
 
-பொலிஸ்மா அதிபர் குறித்த விவகாரத்தினால் உருவாகியுள்ள பிரச்சினைக்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க தீர்வு காணவேண்டும் என வேண்டுகோள் விடுத்துள்ள தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரல் ஜனாதிபதி தேர்தல் சுதந்திரமானதாக நடைபெறுவதை உறுதி செய்வதன் மூலம் மக்களின் வாக்குரிமையை பாதுகாக்குமாறும் வேண்டுகோள் விடுத்துள்ளது.
+President Wickremesinghe seeks resolution to the crisis caused by the Inspector General of Police, affecting the independence of the upcoming presidential election. The Election Monitoring Organization urges the preservation of voters' rights and calls for an independent election process. The Powell Organization's Executive Director, Rohana Hettiarachchi, appeals to the President to ensure the election's integrity and address the public's long-standing inability to elect local leaders. The letter emphasizes the importance of political neutrality and suggests appointing the Inspector General of Police as the Executive President to maintain fairness in the election.
 
-பவ்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி ஜனாதிபதிக்கு எழுதியுள்ள கடிதத்தில் இந்த வேண்டுகோளை விடுத்துள்ளார்.
+🟩
 
-கடந்த ஆறு வருடங்களாக உள்ளுராட்சி வேட்பாளர்களை தெரிவு செய்வதற்கான உரிமை பொதுமக்களிற்கு வழங்கப்படவில்லை.
+President Ranil Wickremesinghe has called for a solution to the issue that has been created by the Inspector General of Police, and the Election Monitoring Organization, the Election Monitoring Organization, has called for the preservation of the people's voting rights by ensuring that the presidential election is independent.
 
-ஐந்து வருடங்களிற்கு பின்னர் தங்கள் ஜனாதிபதியை தெரிவு செய்வதற்கு மக்களிற்கு கிடைத்துள்ள இந்த சந்தர்ப்பம் தொடர்பில் பல நிச்சயமற்ற தன்மைகள் உருவாகியுள்ளன.
+The Executive Director of the Powell Organization Rohana Hettiarachchi made this appeal in a letter to the President.
 
-அரசமைப்பின் போதாமை காரணமாக யாராவது இந்த நாட்டு மக்களின் வாக்குரிமைய பறிக்கும் நிலை ஏற்படுவதற்கு ஜனாதிபதி என்ற வகையில் நீங்கள் இடமளிக்க கூடாது.
+For the past six years, the public has not been given the right to elect local candidates.
+
+There have been many uncertainty over this opportunity for the people to elect their president after five years.
+
+You should not be allowed as a president for the lack of politics.
+
+If the election is affected by the absence of the Inspector General of Police, you should appoint the Inspector General of Police as the Executive President to fulfill your duty.
 
 ...
 
 [Data](articles/ce8f710e.json)
+
+[Extended Data](ext_articles/ce8f710e.ext.json)
 
 ---
 

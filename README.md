@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 05:05:54**
+As of **2024-08-02 05:20:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,533 (100.0%) of 38,536 articles have been extended.
+38,536 (100.0%) of 38,536 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -482,33 +482,51 @@ In the presidential election, the people should make the best decisions for the 
 
 ---
 
-### பரந்துபட்ட அரசியல் கூட்டணியின் சுயாதீன வேட்பாளராக  ஜனாதிபதி போட்டியிடுவார்    - சுசில் பிரேமஜயந்த
+### The President will contest as the independent candidate of the broad political coalition - Susil Premajayantha
 
 *2024-08-01 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190028) · `ta`
 
-பரந்துபட்ட அரசியல் கூட்டணியின் சுயாதீன வேட்பாளராக ஜனாதிபதி ரணில் விக்கிரமசிங்க போட்டியிடுவார்.பாராளுமன்றத்தில் பெரும்பான்மை பலம் ஜனாதிபதி வசமாகி விட்டது.பொதுஜன பெரமுனவினர் மஹிந்த ராஜபக்ஷவிடம் அரசியல் கற்றுக்கொள்ளாமல் இருப்பது கவலைக்குரியது என கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+President Ranil Wickremesinghe contests as an independent candidate backed by a wide political coalition, despite claims linking him to Mahinda Rajapaksa's family. Critics argue his appointment lacks public acceptance, while supporters commend his handling of the economic crisis and defense of the people.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு கோரி பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷவை நான் சந்தித்ததாக ராஜபக்ஷர்களின் உறவினர் என்று குறிப்பிட்டுக் கொள்ளும் நபர் தெரிவித்துள்ளமை முற்றிலும் பொய்யானது.மஹிந்த ராஜபக்ஷவின் ஆதரவாளர்கள் என்று குறிப்பிட்டுக் கொள்ளும் தரப்பினர்கள் கடந்த காலங்களில் எங்கிருந்தார்கள் என்று தெரியவில்லை.
+🟩
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ நெருக்கடியான சூழ்நிலையின் போது நாட்டுக்காக சிறந்த தீர்மானத்தை எடுத்துள்ளார்.2022 ஆம் ஆண்டு இடைக்கால ஜனாதிபதியாக ரணில் விக்கிரமசிங்கவை தெரிவு செய்வதற்கு அவர் முழுமையான ஒத்துழைப்பு வழங்கினார்.
+President Ranil Wickremesinghe will contest as an independent candidate for a widespread political coalition. The majority of the parliament has become the president.
 
-...
+It is completely false to say that the person who claimed that I was a relative of Rajapaksa's relative of Mahinda Rajapaksa, the leader of the PA had met with President Ranil Wickremesinghe.
+
+Former President Mahinda Rajapakse has taken a better decision for the country during the crisis situation.
+
+The PA's decision to support President Ranil Wickremesinghe cannot be accepted.
+
+Supporting Ranil Wickremesinghe, who solved the economic crisis and defended the people, should be given priority to the country rather than prioritizing the party.
+
+Ranil Wickremesinghe will contest as the independent candidate of the widespread political coalition.
+
+◼️
 
 [Data](articles/6006d7a5.json)
 
+[Extended Data](ext_articles/6006d7a5.ext.json)
+
 ---
 
-### மாளிகாவத்தை பகுதியில் உள்ள இரண்டு மாடிக் கட்டத்தில் தீ பரவியது!
+### The fire broke out in a two -storey phase in the Maligawatte area!
 
 *2024-08-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190044) · `ta`
 
-மாளிகாவத்தை பகுதியில் உள்ள இரண்டு மாடிக் கட்டடம் ஒன்றில் தீ பரவியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Fire erupted in a two-storey building in Maligawatte; three fire trucks deployed to contain it.
 
-தீயைக் கட்டுப்படுத்துவதற்கு 3 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளதாகவும் தீயணைப்புப் பிரிவினர் தெரிவித்துள்ளனர்.
+🟩
+
+A fire has been reported in a two -storey building in the Maligawatta area.
+
+Three fire trucks have been dispatched to control the fire, the fire department said.
 
 ◼️
 
 [Data](articles/488c1063.json)
+
+[Extended Data](ext_articles/488c1063.ext.json)
 
 ---
 
@@ -1122,21 +1140,29 @@ LAUGFS Gas Company says that the price of LAUGFS gas (domestic gas) is not amend
 
 ---
 
-### தடைகளை நீக்கி நியாயமான தேர்தலை நடத்த ஆணைக்குழுவுக்கு ஒத்துழைப்பு வழங்கவும் - பெப்ரல் ஜனாதிபதிக்கு கடிதம்
+### Cooperate with the Commission to remove obstacles
 
 *2024-08-01 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190014) · `ta`
 
-மக்களுக்கு தங்களின் ஆட்சியாளரை நியமித்துக்கொள்ள இருக்கும் தடைகளை நீக்கி, தேர்தல் ஆணைக்குழுவுக்கு நியாயமான தேர்தல் ஒன்றை நடத்துவதற்கு ஒத்துழைப்பு வழங்க ஜனாதிபதி நடவடிக்கை எடுக்க வேண்டும் என பெப்ரல் அமைப்பு கோரிக்கை விடுத்துள்ளது.
+The February organization urges President Ranil Wickremesinghe to cooperate with the Election Commission to overcome hurdles in appointing their leader, highlighting concerns over the presidential election's uncertainty due to the absence of a police chief. Despite constitutional announcements, the election's integrity is questioned, affecting democracy and elections' credibility. The organization emphasizes the importance of ensuring citizens' right to vote and managing public funds responsibly, calling for action to ensure a fair election and the appointment of a ruler for the next five years.
 
-பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ராேஹன ஹெட்டியாரச்சி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு அனுப்பியுள்ள கடிதத்திலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-பல்வேறு நிச்சியமற்ற தன்மைகள் அடிக்கடி எழுந்தபோதும் அரசியலமைப்பின் பிரகாரம் தேர்தல் ஆணைக்குழு ஜனாதிபதி தேர்தலுக்கு அறிவிப்பு செய்துள்ளது.
+The February organization has demanded that the president take steps to cooperate with the Election Commission to remove the obstacles to appoint their ruler.
 
-தேர்தல் செப்டம்பர் 21ஆம் திகதி நடத்தப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது. நீங்கள் தேர்தலில் போட்டியிட ஏற்கனவே கட்டுப்பணம் செலுத்தியுள்ள நிலையில், ஜனாதிபதி தேர்தலை நடத்துவதற்கு எந்த தடையும் ஏற்படாமல் பாதுகாப்பதாக அடிக்கடி தெரிவித்துள்ளீர்கள். அதுதொடர்பில் நாங்கள் நன்றி கூறுகிறோம்.
+This was stated in a letter sent to President Ranil Wickremesinghe, the Executive Director of the February.
+
+The Election Commission has announced the presidential election as per the constitution, despite the frequent unhealthy characteristics.
+
+The election will be held on September 21st. As you have already been controlled to contest the election, you have often stated that there is no restriction on holding the presidential election. We thank you for that.
+
+However, in response to an interim injunction issued by the court on the police chief, the uncertainty of the presidential election has been raised again by not appointing a police chief.. The frequent uncertainty of the country's democracy and elections is a huge impact on your honor as the head of the government, citizens and head of state.
 
 ...
 
 [Data](articles/812aecf4.json)
+
+[Extended Data](ext_articles/812aecf4.ext.json)
 
 ---
 

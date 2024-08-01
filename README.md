@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 12:09:42**
+As of **2024-08-01 12:20:52**
 
 ## Newspaper Stats
 
-*Scraped **38,418** Articles*
+*Scraped **38,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,116 @@ adalk | 3,521
 adaderanalk | 4,438
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,772
-virakesarilk | 6,071
-adaderanasinhalalk | 6,469
+virakesarilk | 6,077
+adaderanasinhalalk | 6,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,413 (100.0%) of 38,418 articles have been extended.
+38,418 (100.0%) of 38,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### කංජිපානි සහ රොටුඹ අමිලත් කොටුවෙති
+### ලෙබනනයෙන් ඉවත්වන්නැයි ඔස්ට්‍රේලියානුවන් ට දන්වයි
+
+*2024-08-01 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199443) · `si`
+
+ඔස්ට්‍රේලියානු ජාතිකයින්ට හැකි ඉක්‌මණින් ලෙබනනයෙන් ඉවත්වන ලෙස ඕස්ට්‍රේලියානු රජය ඉල්ලීමක් කර තිබේ.
+
+ඊශ්‍රායලය සහ හිස්බුල්ලා සංවිධානය අතර ගැටුම් උත්සන්න වීමේ අවදානමක් ඇති බැවින් එම ඉල්ලීම කර ඇති බව සඳහන් ය.
+
+අමෙරිකාව සහ බ්‍රිතාන්‍යය ද සිය රටවැසියන්ගෙන් එම ඉල්ලීම කර තිබේ.
+
+එසේම 2021 වසරේ සිදුකළ සංගණනය අනුව ලෙබනන් සම්භවයක් සහිත පුද්ගලයින් 500,000ක් පමණ ඔස්ට්‍රේලියාවේ ජීවත් වෙන බව හෙළිවී තිබුණි.
+
+◼️
+
+[Data](articles/c0a31479.json)
+
+---
+
+### ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத்தை விரைவில் செலுத்துமாறு வேண்டுகோள்
+
+*2024-08-01 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189973) · `ta`
+
+இறுதி தருணத்தில் ஏற்படும் சிக்கல்களை தவிர்த்துக் கொள்வதற்கு ஜனாதிபதி தேர்தலுக்கான கட்டுப்பணத்தை விரைவில் செலுத்துமாறு தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க வேண்டுகோள் விடுத்துள்ளார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் சரத் கீர்த்தி ரத்ன சுயாதீன வேட்பாளராகவும்,புதிய சுதந்திர முன்னணியின் வேட்பாளராக ஓசல லக்மால் அனில்  ஹேரத் என்பவரும், இலங்கை தொழிலாளர் கட்சி சார்பில் போட்டியிடுவதற்கு எஸ்.ஜி.லியனகே என்பவரும் கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+ஐக்கிய மக்கள் சார்பில் போட்டியிடுவதற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவும்,தேசிய அபிவிருத்தி முன்னணி சார்பில் போட்டியிடுவதற்கு எஸ்.கே பண்டாரநாயக்கவும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+இன்று வியாழக்கிழமை (01) தேசிய ஜனநாயக முன்னணியின் சார்பில்  ஜனாதிபதி வேட்பாளராக விஜயதாச ராஜபக்ஷ கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+ஜனாதிபதித் தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியிட்டுள்ள நிலையில் எதிர்வரும் மாதம் 14 ஆம் திகதி வரை கட்டுப்பணம் செலுத்துவதற்கு காலவகாசம் வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/bf8ce410.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் வேட்பாளர்களிடையே ஐம்பது சதவிகித வாக்கை பெறக் கூடியவர்கள் என எவருமில்லை - சி.வி.விக்னேஸ்வரன்
+
+*2024-08-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189963) · `ta`
+
+ஜனாதிபதி தேர்தலின் பின்னர் நாட்டில் கலவரங்கள் வெடிக்ககூடிய ஆபாயம் காணப்படுவதாக தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+
+புதன்கிழமை (31) யாழில் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+நாட்டை பொறுத்தவரையில் இப்பொழுதும் எனக்கு ஒரு கரிசனை இருக்கிறது. அதாவது தேர்தலின் பின்னர் கலவரங்கள் வெடிக்கக்கூடும் என்ற நிலை இருக்கிறது. சிங்கள வேட்பாளர்களிடையே ஐம்பது சதவிகித வாக்கை பெறக் கூடியவர்கள் என்று எவரும் இல்லை.
+
+ஆனால் இத்தேர்தலில் பலபேர் போட்டியிடுவதாக கூறினாலும் ரணில், சஜித், அனுர என்ற மூன்று போர் தான் முக்கியமானவர்கள்.
+
+இந்த மூவருக்கும் இடையில் என்ன மாதிரியான போட்டி நடக்க போகிறது. இந்த தேர்தலில் மொட்டு கட்சியின் பங்கு என்னவென்று கேட்டீர்களானால் அந்தக் கட்சியில் இருப்பவர்கள் திரும்பவும் ஒரு தேர்தல் வந்தால் முழுமையாக அழிக்கப்பட்டு விடுவார்கள் என்றே கருதுகிறேன்.
+
+...
+
+[Data](articles/a428eb95.json)
+
+---
+
+### சகோதரியின் கணவனை அலவாங்கினால் தலையில் தாக்கி கொலைசெய்த மச்சான்
+
+*2024-08-01 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189960) · `ta`
+
+உனவட்டுன தலவெல்ல பிரதேசத்தில் சகோதரியின் கணவனை அலவாங்கினால் தலையில் தாக்கி கொலை செய்த மச்சானை கைதுசெய்துள்ளதாக ஹபராதுவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர் தலவெல்ல, உனவட்டுன பகுதியைச் சேர்ந்த கனேகொட கமகே ரத்னசிறி என்ற 54 வயதுடையவராவார்.
+
+உயிரிழந்தவரின் மனைவி வெளிநாட்டில் பணி புரிந்து வருவதோடு, அவர் மனைவியின் இளைய சகோதரனுடன் வீட்டில் வசித்து வந்துள்ளார்.
+
+உயிரிழந்தவர் நித்திரையில் இருந்த போது மனைவியின் சகோதரன் அலவாங்கினால் தலையில் தாக்கி கொலை செய்துள்ளதாக பொலிஸ் விசாரணையில் இருந்து தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/98cc7e2a.json)
+
+---
+
+### Kaviani and Rotumba Amila
 
 *2024-08-01 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199442) · `si`
 
-ලොකු පැටී සමග සිටි කංජිපානි ඉම්රාන් හා රොටුඹ අමිල රුසියාවට පළා ගොස් සිටියදී එරට ආරක්ෂක අංශ මඟින් අත්අඩංගුවට ගෙන ඇති බවද වාර්තා වේ.
+Kaviani Imran and Rotumba Amila have been arrested but the official confirmation from the country's security forces is pending. The International Police have asked for verification. They were later deported to Sri Lanka after being released on bail.
 
-කෙසේවෙතත් ඒ පිළිබඳව මෙරට ආරක්ෂක අංශ මෙතෙක් නිල වශයෙන් දැනුම්වත් වී නැහැ.
+🟩
 
-ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් ඒ පිළිබඳව තහවුරු කරන ලෙස ජාත්‍යන්තර පොලීසියෙන් ඉල්ලීමක් කර තිබේ.
+It is reported that KJCani Imran and Rotumba Amila has been arrested by the security forces.
 
-ඉම්රාන් හා රොටුඹ අමිල මාකඳුරේ මධූෂ් සමග ඩුබායීහීදී අත්අඩංගුවට පත්ව මෙරටට පිටුවහල් කළ අතර අනතුරුව ඔවුන් දෙදෙනා අධිකරණයෙන් ඇප ලැබීමෙන් පසුව මෙරටින් පළා ගොස් විදෙස්ගතව සැඟව සිටියේය.
+However, the security forces of the country has not yet been officially informed.
+
+Accordingly, the International Police has requested the International Police to confirm this.
+
+Imran and Rotumba Amila Maduwe Madusurai Madusurai madusurai were deported and deported to Sri Lanka and followed the abroad after the bail of court.
 
 ◼️
 
 [Data](articles/2a4bf97b.json)
+
+[Extended Data](ext_articles/2a4bf97b.ext.json)
 
 ---
 
@@ -67,6 +149,8 @@ The IHP said in a statement on Wednesday July 31 that the June estimates are pro
 ...
 
 [Data](articles/b578f23b.json)
+
+[Extended Data](ext_articles/b578f23b.ext.json)
 
 ---
 
@@ -92,6 +176,34 @@ The CPC Maintains A Buffer Stockn Products and Will Continue an Uninterrupted Su
 
 ---
 
+### இறக்குமதியாளருக்கு சலுகை வழங்கி தேசிய உற்பத்தியாளருக்கு சுமையை ஏற்படுத்தும்  நிலையை மாற்ற வேண்டும் - சஜித்
+
+*2024-08-01 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189965) · `ta`
+
+இறக்குமதியாளருக்கு சலுகை வழங்கி, தேசிய உற்பத்தியாளருக்கு சுமையை ஏற்படுத்துவதும் நிலைமைகளை மாற்ற வேண்டும். தற்போதைய அரசாங்கம் இந்த நிலைப்பாட்டை மாற்றாவிடின், ஐக்கிய மக்கள் சக்தி ஆட்சியில் நாம் இதனை  மாற்றியமைப்போம் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாரம்பரிய தேங்காய் எண்ணெய் உற்பத்தியாளர்களுடன் புதன்கிழமை (31) இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்டு கருத்துத் தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+உற்பத்தியாளர் மற்றும் நுகர்வோரை பாதுகாக்கும் இரட்டைக் கொள்கைகளை கொண்டமைந்த அரச கொள்கையொன்று தேவை என்றாலும், இன்று, உள்நாட்டு உற்பத்தியாளர் மீது 18 வீத வற் வரியை விதித்து, இறக்குமதி செய்யப்படும் தேங்காய் எண்ணெய் உற்பத்தியாளர் மீதான வரியை நீக்கி, ஒரு சிலரைப் பாதுகாக்க அரசாங்கம் எடுத்துள்ள இந்த சமநிலையற்ற கொள்கை மிகவும் நியாயமற்ற ஒன்றாகும்.
+
+...
+
+[Data](articles/24220140.json)
+
+---
+
+### ஜனாதிபதித் தேர்தல் கண்காணிப்பு : ஐரோப்பிய ஒன்றியம் - தேர்தல்கள் ஆணைக்குழுவுக்கு இடையில் உடன்படிக்கை கைச்சாத்து
+
+*2024-08-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189977) · `ta`
+
+ஜனாதிபதித் தேர்தல் கண்காணிப்புப் பணிகளை முன்னெடுப்பதற்கான நிர்வாக செயன்முறை குறித்த உடன்படிக்கையொன்று ஐரோப்பிய ஒன்றியம் மற்றும் தேர்தல்கள் ஆணைக்குழுவுக்கு இடையில் கைச்சாத்திடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1e97fdeb.json)
+
+---
+
 ### Sajith surges past AKD, president catching up, Sri Lanka voting intent poll finds
 
 *2024-08-01 11:12:00* · [`economynextcom`](https://economynext.com/sajith-surges-past-akd-president-catching-up-sri-lanka-voting-intent-poll-finds-174789/) · `en`
@@ -105,6 +217,22 @@ IHP noted, however, that the June estimates were associated with a substantial i
 ...
 
 [Data](articles/11593a71.json)
+
+[Extended Data](ext_articles/11593a71.ext.json)
+
+---
+
+### காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்ய நன்கொடைகளை வைப்பிலிட வேண்டாம் !
+
+*2024-08-01 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189975) · `ta`
+
+காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்வதற்கு வழங்கப்பட்ட கால அவகாசம் 2024 ஜூலை 31 ஆம் திகதியுடன் நிறைவடைந்துள்ளதோடு, இனியும் அதற்காக நன்கொடைகளை வைப்பிலிட வேண்டாம் என பொது மக்களிடம் ஜனாதிபதி அலுவலகம் கோரிக்கை விடுத்துள்ளது.
+
+அத்துடன், 2024 ஜூலை 31 ஆம் திகதிக்கு பின்னர் எவரேனும் ஜனாதிபதி செயலகத்தின் வங்கிக் கணக்கில் வைப்புச் செய்யும் பட்சத்தில் அந்த நிதி சமூக நிவாரணச் செயற்பாடுகளுக்காக ஜனாதிபதி நிதியத்திடம் கையளிக்கப்படும் என்றும் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/56d4ba45.json)
 
 ---
 
@@ -169,6 +297,8 @@ The company’s property portfolio includes the World Trade Centre in Colombo’
 ◼️
 
 [Data](articles/b8b62bd2.json)
+
+[Extended Data](ext_articles/b8b62bd2.ext.json)
 
 ---
 
@@ -1116,15 +1246,21 @@ From time to time in the rest of the island.. There may be about 30-40 strong wi
 
 ---
 
-### கஞ்சிபானி, லொக்கு பட்டி கைது
+### Kanjipani, Loku Patti arrested
 
 *2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
 
-கோடீஸ்வர வர்த்தகர் சுரேந்திர வசந்த பெரேரா அல்லது கிளப் வசந்தவின் கொலையின் மூளையாக கருதப்படும் பாதாள உலக தலைவர் கஞ்சிபானி இம்ரான் மற்றும் பாதாள உலக உறுப்பினர் லொக்கு பட்டி நாமத்த ஆகியோர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+Underworld members Kanjibani Imran and Loku Patti Namatha were arrested for the murder of Surendra Vasantha Perera, also known as the "brain" of the club Vasantha.
+
+🟩
+
+Police say the underworld Surendra Vasantha Perera or the brain of the club Vasantha's murder, Kanjibani Imran and the underworld member Loku Patti Namatha have been arrested.
 
 ◼️
 
 [Data](articles/27cb0f6e.json)
+
+[Extended Data](ext_articles/27cb0f6e.ext.json)
 
 ---
 
@@ -2019,175 +2155,5 @@ Accordingly, a fuel price of a August is not amended and that there will be no r
 [Data](articles/9b270db7.json)
 
 [Extended Data](ext_articles/9b270db7.ext.json)
-
----
-
-### This time there is no change in monthly fuel prices - the Ceylon Petroleum Corporation
-
-*2024-07-31 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189946) · `ta`
-
-The Ceylon Petroleum Corporation announced that fuel prices will remain unchanged this month, maintaining last year's rates.
-
-🟩
-
-The Ceylon Petroleum Corporation has said that this year's price will not change under the monthly fuel prices.
-
-◼️
-
-[Data](articles/5f3d82e6.json)
-
-[Extended Data](ext_articles/5f3d82e6.ext.json)
-
----
-
-### Fuel prices do not change
-
-*2024-07-31 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199424) · `si`
-
-Ceylon Petroleum Corporation was informed that fuel prices will remain unchanged this year during the monthly fuel revision process.
-
-🟩
-
-The Ceylon Petroleum Corporation is notified that this year under the monthly fuel revision.
-
-◼️
-
-[Data](articles/eccd13d8.json)
-
-[Extended Data](ext_articles/eccd13d8.ext.json)
-
----
-
-### 18 year old wife killed from her husband?
-
-*2024-07-31 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199423) · `si`
-
-In Kiriiniyawa, an 18-year-old newlywed, Seneuri Premathilaka, was killed, allegedly by her husband. Residents accuse him but no arrest. Her family alleges assault led to her death, sparking protests. The victim's father-in-law reportedly assaulted her mother, leading to a police complaint and counter-assaults.
-
-🟩
-
-An 18-year-old married woman had unexpectedly in Kiriiniyawa area in Kiriiniyawa today (31).
-
-Residents accused her by her husband's husband and police had not arrested the suspect.
-
-An 18-year-old Seneuri Premathilaka was killed a few days ago.
-
-Jahuri's relatives accused her death that her husband had assaulted her death.
-
-Accordingly, relatives and residents of the area have been protesting at the Unovian road in the Unharaya road this afternoon.
-
-Relatives say that the father of the deceased Senulei's husband had assaulted the mother of Senevi.
-
-The attacker has lodged a complaint with the Katupotha police and he has assaulted her husband, demanding the withdrawal of the complaint.
-
-◼️
-
-[Data](articles/488e9771.json)
-
-[Extended Data](ext_articles/488e9771.ext.json)
-
----
-
-### It is a miracle that the fallen country is recovered in two years!-Tilum Amunugama
-
-*2024-07-31 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189945) · `ta`
-
-In just two years, a previously struggling nation has remarkably regained stability, thanks to the leadership of Minister Tilum Amunugama and President Ranil Wickremesinghe. Their efforts have attracted significant investment, with targets met and exceeded, despite initial concerns over elections potentially slowing growth. The government is also focusing on simplifying investment processes and enhancing export capabilities, all while addressing critical infrastructure needs like water and power. This recovery stands out globally, especially when compared to other nations facing similar challenges.
-
-🟩
-
-It is a miracle that the country that suffered a severe economic downturn has been stabilized in a short time of two years. The Minister of Investment Development Tilum Amunugama said that any country that has suffered such an economic downturn in the world has not achieved stability in the short term.
-
-He pointed out that President Ranil Wickremesinghe is now confirmed that the only leader who can restore the country that has fallen based on knowledge, experience and global contacts.
-
-The Minister of State has stated that it is the right and reasonable decision to choose the leadership for the next five years.
-
-Minister of State for Minister of State for Media Center at a media briefing held on Wednesday (31).
-
-The investment target given to the Investment Board and the Ministry of Investment Promotion this year is $ 1 billion. $ 800 million has come to the country so far. But we hope that by the end of this year, we can go to the target of two billion.
-
-...
-
-[Data](articles/818b49b0.json)
-
-[Extended Data](ext_articles/818b49b0.ext.json)
-
----
-
-### National Industrial Policy has been prepared for creating a global competitive national industrial base - Shantha Weerasinghe
-
-*2024-07-31 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189944) · `ta`
-
-The National Industrial Policy aims to boost Sri Lanka's industrial sector, targeting a 20% contribution to the national production by 2030, up from 16%. This includes increasing the industry's share from 2.8% to 7% and enhancing industrial exports' GDP contribution from 14% to 20%. The policy, supported by a five-year strategy (2023-2027), focuses on creating a globally competitive industrial base. It also introduces regulations and financial schemes to support micro, small, and medium enterprises, totaling 293.4 million rupees in loans for 2022 and 2023. The initiative has led to the revival of factories, increased mineral resource optimization, and enhanced gemstone exports, contributing significantly to the national economy.
-
-🟩
-
-Secretary to the Ministry of Industry and the Ministry of Industry of the Ministry of Industry has said that the "National Industrial Policy" with the Five Year Strategy for 2023-2027 has been prepared and submitted to the Department of National Planning.
-
-With this, by 2030, he said, increasing the contribution of the total national production sector from 16% to 20%, increasing the contribution of the industry from 2.8 to 7%, and increasing the contribution of industrial exports into the GDP from 14% to 20%..
-
-The Secretary to the Ministry of Industry, Shantha Weerasinghe, addressing a press conference held at the Presidential Media Center today (31) under the theme "Two Years Progress and Future".
-
-He added that the final draft of the Industrial Promotion Act has been submitted to the approval of the Attorney General's Department.
-
-...
-
-[Data](articles/39543b8d.json)
-
-[Extended Data](ext_articles/39543b8d.ext.json)
-
----
-
-### IMF. How to change the agreement to the people
-
-*2024-07-31 20:05:32* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-ජනතාවට-හිතකර-ලෙස-වෙනස්-කරන-හැටි-හර්ෂ-කියයි/11-411134) · `si`
-
-Dr. Harsha de Silva, an MP, announced that the IMF has communicated its intentions to the public. He emphasized the need for significant economic reforms to stabilize the country's economy. While not explicitly opposing the IMF agreement, he suggested discussions could lead to modifications beneficial to the nation.
-
-🟩
-
-Dr. Harsha de Silva, MP, said that the International Monetary Fund (IMF) has written to the people in writing, said Dr. Harsha de Silva.
-
-He was speaking at a media briefing held at the Head Office in Pitakotte today (31).
-
-Speaking further Mr. Dr. Harsha de Silva said:
-
-"The country has to make huge economic reforms to bring the country economically. We have never said. The agreement with the International Monetary Fund has to be brought before. But we hope to discuss with them at length. The agreement with the IMF Agimant we suggest is asking.We said we are not against the IMF. We did not vote against. Because the situation was needed to go to the country.
-
-...
-
-[Data](articles/79902f6d.json)
-
-[Extended Data](ext_articles/79902f6d.ext.json)
-
----
-
-### The captivity of firearms was revealed to the mother
-
-*2024-07-31 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199422) · `si`
-
-A man with two T56 firearms was arrested by the STF at Otataveladadaddy Junction. He was later found to be in possession of another T56 firearm and ammunition after his arrest. The suspect, a 43-year-old from Bodiriyawa, Valachchenai, claimed to be a Molevian from Nawalapitiya and stated he obtained the firearms from a former LTTE member.
-
-🟩
-
-A moleife with two T56 firearms was arrested by the STF at the Otataveladadaddy Junction.
-
-The suspect was now in custody for further investigations.
-
-The Aralaganwila camp of the Aralaganwila camp that a person in the Ukevidi, Navalpitiya area was carrying a firearm from a motorcycle.
-
-Accordingly, the suspect was arrested, and a T56 firearm, magician and 29 ammunition were recovered.
-
-The suspect's interrogation was then taken by the suspect's resort to the inspection of a brother's home and another T56-type firearm, a magazine and 30 bullets have been found.
-
-In the interrogation of the 43-year-old suspect, a resident of the Bodiriyawa town, Valachchenai said he was a Molevian of Nawalapitiya.
-
-He has said that due to firearms to fire, he had placed the weapons from a former LTTE member.
-
-◼️
-
-[Data](articles/44d38ce4.json)
-
-[Extended Data](ext_articles/44d38ce4.ext.json)
 
 ---

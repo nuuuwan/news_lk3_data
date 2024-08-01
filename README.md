@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 07:21:21**
+As of **2024-08-01 07:53:32**
 
 ## Newspaper Stats
 
-*Scraped **38,363** Articles*
+*Scraped **38,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,70 @@ bbccomsinhala | 368
 islandlk | 2,203
 economynextcom | 2,312
 dailyftlk | 2,461
-adalk | 3,515
+adalk | 3,516
 adaderanalk | 4,433
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,761
+tamilmirrorlk | 4,762
 virakesarilk | 6,063
-adaderanasinhalalk | 6,455
+adaderanasinhalalk | 6,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,349 (100.0%) of 38,363 articles have been extended.
+38,357 (100.0%) of 38,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### පොහොට්ටුවේ ජනපති අපේක්ෂකයා ප්‍රකාශ කිරීම කල්යයි
+### IMF නියෝජිතයින් අද ජනපති හමුවෙයි
+
+*2024-08-01 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199429) · `si`
+
+දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිස අද (01) ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවීමට නියමිතව තිබේ.
+
+අද පෙරවරුවේ එම සාකච්ඡා පැවැත්වීමට නියමිත බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසුවේය.
+
+එහිදි ජාත්‍යන්තර මූල්‍ය අරමුදලේ සිව්වන වාරිකය ලබාගැනීම සම්බන්ධයෙන් අවධානය යොමුකිරීමට නියමිත බව ද රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+
+"අපි බලාපොරොත්තු වෙන්නේ, 4 වෙනි වාරිකය නිදහස් කරගැනීමට. කිසිදු ප්‍රමාදයකින් තොරව මැතිවරණ කාලය තුළත් ඒ වැඩසටහනේ කිසිදු ආකාරයක විතැන් වීමක් සිදුනොවී රටේ පවතින ආර්ථික ස්ථාවරත්වය ඉදිරියට අරන් යන්න. මොකද තුන්වෙනි සමාලෝචනය තුළ ලැබෙන 4 වෙනි වාරිකය යම් ආකාරයකින් ප්‍රමාද වුවහොත් එය ලංකාවේ ආර්ථිකයේ ස්ථාවරත්වය විශාල බලපෑමක් ඇති කරනවා. ඒ බලපෑම ඇති නොවෙන්න ජනාධිපතිතුමා විසින් විශේෂ වැඩපිළිවෙලක් සකස් කරලා තියෙනවා. ඒ පිළිබඳ ඉදිරි කාලය තුළ දී කොහොමද ණයහිමියන්ගේ මේ වැඩසටහන ආරක්ෂා කරගෙන වැඩසටහන ආරක්ෂා කරන්නේ කියන දේ සාකච්ඡා කරන්න බලාපොරොත්තු වෙනවා."
+
+...
+
+[Data](articles/c4277b27.json)
+
+---
+
+### Declaration of the President's candidate in Pohoth postponed
 
 *2024-08-01 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199428) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා ප්‍රකාශයට පත්කිරීම කල් දමා තිබේ.
+The announcement of the presidential candidate by the Sri Lanka General Front has been delayed. It's expected to be revealed next week. The party's Politburo plans to name a candidate for the upcoming presidential election soon. Meanwhile, the Sri Lanka Civil Aruorm Front is considering legal action against MPs not aligning with their decisions.
 
-ලබන සතිය තුළ පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කිරීමට නියමිත බව එම පක්ෂයේ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙකු සඳහන් කළේය.
+🟩
 
-ඉදිරි ජනාධිපතිවරණය සඳහා පොහොට්ටුව ලකුණ යටතේ ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපති අපේක්ෂකයෙකු නම් කිරීමට පසුගිය සඳුදා දිනයේදී එම පක්ෂයේ දේශපාලන මණ්ඩලය තීරණය කරනු ලැබීය.
+The presidency of the Sri Lanka General Front has postponed the publication of the presidency candidate.
 
-දින දෙකක් තුළ අපේක්ෂකයා කවුරුන් ද යන්න ප්‍රකාශට පත්කරන බව එහිදි සඳහන් කළේය.
+A senior spokesperson of the UNP said that the presidential candidate of the General Manager will be announced next week.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය ගනු ලැබු තීරණයත් සමග එම පක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව මේ වන විට ප්‍රකාශ කර තිබේ.
+The party's Politburo was decided to name a presidential candidate at the Sri Lanka Civil Aruorm Front under the sign of the next presidential election.
 
-ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා පැවැත්වෙන බැවින් ලබන සතිය තුළ ඒ පිළිබඳව ප්‍රකාශයට පත්කරන බව එම පෙරමුණේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+It is said that the candidate is declared who in two days.
 
-මේ අතර පක්ෂයේ දේශපාලන මණ්ඩලය තීරණයට පටහැනිව කටයුතු කරන මන්ත්‍රීවරුන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමටද ශ්‍රී ලංකා පොදුජන පෙරමුණ තීරණය කර තිබේ.
+The decision of the Political Council of the Sri Lanka General Front is now supporting President Ranil Wickremesinghe.
+
+According to a spokesperson of the Front stated that it will be published next week, as the Presidential candidate of the Sri Lanka Civil Front will be held further discussions.
+
+Meanwhile, the Sri Lanka Civil Aruorm Front has decided to take legal action against MPs who act contrary to the decision.
+
+It is reported that attention has been paid to removing the rice organizer of the MPs.
 
 ...
 
 [Data](articles/2f834311.json)
+
+[Extended Data](ext_articles/2f834311.ext.json)
 
 ---
 
@@ -79,6 +105,18 @@ From time to time in the rest of the island.. There may be about 30-40 strong wi
 [Data](articles/8b3228df.json)
 
 [Extended Data](ext_articles/8b3228df.ext.json)
+
+---
+
+### கஞ்சிபனி, லொக்கு பட்டி கைது
+
+*2024-08-01 05:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபனி-லொக்கு-பட்டி-கைது/175-341379) · `ta`
+
+கோடீஸ்வர வர்த்தகர் சுரேந்திர வசந்த பெரேரா அல்லது கிளப் வசந்தவின் கொலையின் மூளையாக கருதப்படும் பாதாள உலக தலைவர் கஞ்சிபானி இம்ரான் மற்றும் பாதாள உலக உறுப்பினர் லொக்கு பட்டி நாமத்த ஆகியோர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன
+
+◼️
+
+[Data](articles/f2d19e69.json)
 
 ---
 
@@ -606,6 +644,8 @@ Pierce the vitamin E capsules and squeeze out the oil into the strained mixture.
 
 [Data](articles/4d99e09e.json)
 
+[Extended Data](ext_articles/4d99e09e.ext.json)
+
 ---
 
 ### CEAT Kelani helps Monaragala’s rubber farmers keep their children in school
@@ -626,6 +666,8 @@ Similar distributions of school requisites were made by the company earlier this
 
 [Data](articles/f51f7983.json)
 
+[Extended Data](ext_articles/f51f7983.ext.json)
+
 ---
 
 ### ALFT Packaging shines as beacon of modern CI -Flexo innovation at Drupa Germany, 2024
@@ -642,6 +684,8 @@ ALFT Packaging’s presence at such a high calibre event, highlighted its except
 
 [Data](articles/cb13abdc.json)
 
+[Extended Data](ext_articles/cb13abdc.ext.json)
+
 ---
 
 ### Softlogic Stockbrokers’ investment platform “StockGPT” enhanced with Azure OpenAI Service
@@ -655,6 +699,8 @@ Microsoft Azure OpenAI Service is an advanced, fully managed service that empowe
 ...
 
 [Data](articles/0f277d27.json)
+
+[Extended Data](ext_articles/0f277d27.ext.json)
 
 ---
 
@@ -670,6 +716,8 @@ Delivering the welcome speech, Dr. Muditha Hewawanitunga, Project Chairman and E
 
 [Data](articles/c5441619.json)
 
+[Extended Data](ext_articles/c5441619.ext.json)
+
 ---
 
 ### Expanding South Asian network: Blum launches Prudential International
@@ -681,6 +729,8 @@ Blum, the acclaimed Austrian brand synonymous with high-end furniture fittings, 
 ...
 
 [Data](articles/0f431331.json)
+
+[Extended Data](ext_articles/0f431331.ext.json)
 
 ---
 
@@ -695,6 +745,8 @@ JKH will be utilizing those funds for the further development of its City of Dre
 ...
 
 [Data](articles/0108b653.json)
+
+[Extended Data](ext_articles/0108b653.ext.json)
 
 ---
 
@@ -1157,6 +1209,22 @@ Meanwhile, 92 Members of Parliament including Ministers and State Ministers rece
 [Data](articles/be91b875.json)
 
 [Extended Data](ext_articles/be91b875.ext.json)
+
+---
+
+### 2023දී පාර්ලිමේන්තුවේ ආහාර වියදම රු. කෝටි. 23 ඉක්මවයි
+
+*2024-07-31 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-පාර්ලිමේන්තුවේ-ආහාර-වියදම-රු--කෝටි--23-ඉක්මවයි/11-411129) · `si`
+
+ඉකුත් 2023 වර්ෂයේ ජනවාරි මස 01වැනිදා සිට දෙසැම්බර් 31 වැනිදා දක්වා කාලයෙහිදී පාර්ලිමේන්තු මන්ත්‍රීවරු 225 ක් දෙනා සහ අනෙකුත් කාර්ය මණ්ඩලවලට ආහාර පාන මිලදී ගැනීම සඳහා රුපියල් විසිතුන්කෝටි දෙලක්ෂ හැටහත්දහස් අටසීය සත අනූපහක මුදලක් (230,267,800.95) වැය කර තිබූ බව පාර්ලිමේන්තුව සම්බන්ධව 2023 වර්ෂයට අදාළව කාර්යසාධක වාර්තාව මගින් විගණනයට නිකුත් කරන ලද වාර්තාවක් මගින් අනාවරණය වේ.
+
+සියලු කාර්ය මණ්ඩල සහ මන්ත්‍රීවරුන් සඳහා රුපියල් විසිපන් ලක්ෂ හැත්තෑ තුන්දහස් විසි පහක් (2,573,025) පානීය ජල බෝතල් සහ සෝස් වර්ග සඳහා වැය කර තිබුණි. ප්‍රසම්පාදන මාර්ගෝපදේශවලට අනුව පාර්ලිමේන්තු භෝජනාගාරය මගින් මිල ගණන් කැඳවා 2023 ජනවාරි මස පළමුවන සතියේ එම භාණ්ඩ මිලදී ගෙන ඇත.
+
+පාර්ලිමේන්තුවේ ආහාර පාලන හා ගෘහ පාලන දෙපාර්තමේන්තු මගින් 2023 වර්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් 91% ක් සහ මන්ත්‍රීවරුන් පාර්ලිමේන්තුවට කැඳවා ගෙන එන අමුත්තන් හා කාර්ය මණ්ඩලයේ 37,192දෙනෙකුට පාර්ලිමේන්තු භෝජනාගාරය මගින් පහසුකම් සලසා තිබූ බව ද විගණන වාර්තාවේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/03158851.json)
 
 ---
 
@@ -2139,75 +2207,5 @@ Also, the non-food annual inflation has increased to 2.8% of the month of 2024, 
 [Data](articles/0798bf35.json)
 
 [Extended Data](ext_articles/0798bf35.ext.json)
-
----
-
-### A group of foreigners arrested in Mannar
-
-*2024-07-31 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199413) · `si`
-
-In Mannar, over 50 foreign nationals were arrested, including 44 men and 9 women, who ran a racket from a hotel in Kalpitiya, Puttalam. They obtained a court order for investigation. The police confiscated 98 mobile phones, 44 computers, and numerous SIM cards.
-
-🟩
-
-More than 50 foreign nationals have been arrested in the Puttalam area yesterday (30).
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara said that 44 men and nine women were arrested.
-
-The group had carried out the racket from the hotel in Kalpitiya, Puttalam and obtained a court order and investigated the hotel.
-
-Police have seized 98 mobile phones, 44 computers and a large number of SIM cards.
-
-According to their information, two more foreigners were arrested and more than Rs.
-
-◼️
-
-[Data](articles/a6ffea07.json)
-
-[Extended Data](ext_articles/a6ffea07.ext.json)
-
----
-
-### President Ranil condemns Hamas political leader Ismail's assassination
-
-*2024-07-31 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/189902) · `ta`
-
-President Ranil Wickremesinghe condemns the assassination of Hamas leader Ismail Hanie, vowing against such actions. He also criticizes a meeting involving the Sri Lanka PA and ex-UNP provincial council members.
-
-🟩
-
-President Ranil Wickremesinghe has issued a strong condemnation of the assassination of Ismail Hanie's assassination of Hamas Movement.
-
-President Ranil Wickremesinghe has condemned the meeting with the Sri Lanka PA and former UNP provincial council members.
-
-The President said that Hamas political leader Ismail Honey's assassination was strongly condemned and that he would never accept such activities.
-
-◼️
-
-[Data](articles/4afe1cf1.json)
-
-[Extended Data](ext_articles/4afe1cf1.ext.json)
-
----
-
-### Girl guides, youth organizations contribute to drug prevention programs: Sri Lanka president
-
-*2024-07-31 15:13:00* · [`economynextcom`](https://economynext.com/girl-guides-youth-organizations-contribute-to-drug-prevention-programs-sri-lanka-president-174639/) · `en`
-
-ECONOMYNEXT – Youth organisations like the girl guides can play a role in drug prevention programs, Sri Lanka’s President Ranil Wickremesinghe has said.
-
-“These organizations can achieve great things. Discussions with the anti-narcotics committee highlighted the need for more scouting and guiding associations and cadet corps in schools, which can greatly contribute to the anti-narcotics program,” Wickremesinghe told a gathering of Guides.
-
-“Education should not be limited to textbooks. Children need new opportunities to advance and we will invest in those opportunities.”
-
-Wickremesinghe was speaking at the President’s Guide Award Ceremony 2022/2023 held today (31) at the Bandaranaike International Conference Hall (BMICH) in Colombo.
-
-“We aim to develop the Girl Guide Association in all aspects, increasing its membership from 75,000 to 150,000. The government is committed to providing the necessary support.”
-
-...
-
-[Data](articles/d5f80579.json)
-
-[Extended Data](ext_articles/d5f80579.ext.json)
 
 ---

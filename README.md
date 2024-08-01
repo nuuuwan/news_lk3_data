@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 23:55:47**
+As of **2024-08-02 00:09:20**
 
 ## Newspaper Stats
 
-*Scraped **38,524** Articles*
+*Scraped **38,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,327
+economynextcom | 2,328
 dailyftlk | 2,461
 adalk | 3,540
 adaderanalk | 4,455
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,524 (100.0%) of 38,524 articles have been extended.
+38,524 (100.0%) of 38,525 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -791,6 +791,26 @@ Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. 
 [Data](articles/c4a055f7.json)
 
 [Extended Data](ext_articles/c4a055f7.ext.json)
+
+---
+
+### Sri Lanka’s DFCC Bank plans Rs2bn green bond issue
+
+*2024-08-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-plans-rs2bn-green-bond-issue-174856/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc said it is planning a senior, rated, 3-year green bond issue to raise 2 billion rupees, with a possible Greenshoe option to raise upto 2.5 billion rupees.
+
+Its Board of Directors at a meeting held on July 31 decided “to issue Senior, Listed, Rated, Unsecured, Redeemable Green Bonds with a term of 3 years to the value of Rupees Two Thousand Million (Rs.2,000,000,000/-),” the bank said in a stock exchange filing.
+
+“With a possible Greenshoe option to issue upto Rupees Two Thousand Five Hundred Million (Rs. 2,500,000,000/-) at the discretion of the Bank in the event of an over subscription.”
+
+The issue is subject to obtaining all necessary regulatory and other approvals.
+
+The interest rates will be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said. (Colombo/Aug1/2024)
+
+◼️
+
+[Data](articles/70fb2799.json)
 
 ---
 
@@ -2279,27 +2299,5 @@ Imran and Rotumba Amila Maduwe Madusurai Madusurai madusurai were deported and d
 [Data](articles/2a4bf97b.json)
 
 [Extended Data](ext_articles/2a4bf97b.ext.json)
-
----
-
-### Support for NPP declines in Sri Lanka general election voting intent poll
-
-*2024-08-01 11:45:00* · [`economynextcom`](https://economynext.com/support-for-npp-declines-in-sri-lanka-general-election-voting-intent-poll-174792/) · `en`
-
-ECONOMYNEXT — Support for Sri Lanka’s National People’s Power (NPP), a leftist political formation, declined in June to 26 percent of  all adult voters surveyed by an independent institute, with the main opposition Samagi Jana Balawegaya (SJB) leading at 38 percent.
-
-The Institute for Health Policy (IHP) which carried out the survey found that support for the NPP dropped by 5 points in June, while the SJB increased its support by 1 percentage point.
-
-The ruling Sri Lanka Podujana Peramuna (SLPP) was at 16 percent, gaining 2 percentage points, and President Ranil Wickremesinghe’s United National Party (UNP) gained one point to reach 7 percent.
-
-The Ilankai Thamil Arasu Kachchi (ITAK) saw its support decrease by 1 point to 3 percent in June.
-
-The IHP said in a statement on Wednesday July 31 that the June estimates are provisional and are associated with a margin of error of 4–5 percent for the two leading parties.
-
-...
-
-[Data](articles/b578f23b.json)
-
-[Extended Data](ext_articles/b578f23b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 14:21:41**
+As of **2024-08-01 14:36:02**
 
 ## Newspaper Stats
 
-*Scraped **38,446** Articles*
+*Scraped **38,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,74 @@ adalk | 3,526
 adaderanalk | 4,442
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,778
-virakesarilk | 6,077
+virakesarilk | 6,083
 adaderanasinhalalk | 6,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,444 (100.0%) of 38,446 articles have been extended.
+38,446 (100.0%) of 38,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### සූදුපොළක් වටලන්න ගිය පොලිස් නිලධාරීන්ට ප්‍රහාරයක්
+### ஜுலையில் பணவீக்கம் 2.4 சதவீதமாக உயர்வு
+
+*2024-08-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190002) · `ta`
+
+கொழும்பு நுகர்வோர் விலைச்சுட்டெண் மதிப்பீட்டின் பிரகாரம் கடந்த ஜுன் மாதம் 1.7 சதவீதமாகப் பதிவாகியிருந்த பணவீக்கம், ஜுலை மாதம் 2.4 சதவீதமாக உயர்வடைந்துள்ளது.
+
+அதன்படி, கடந்த ஜுன் மாதம் 1.4 பதிவான உணவுப்பணவீக்கம் ஜுலையில் 1.5 சதவீதமாகவும், ஜுன் மாதம் 1.8 சதவீதமாகப் பதிவான உணவல்லாப்பணவீக்கம் ஜுலையில் 2.8 சதவீதமாகவும் உயர்வடைந்தன.
+
+மேலும், கொழும்பு நுகர்வோர் விலைச்சுட்டெணின் மாதாந்த மாற்றம் ஜுலையில் 0.44 சதவீதமாகப் பதிவாகியுள்ளது. இதற்கு உணவுப்பொருட்களின் விலைகளில் அவதானிக்கப்பட்ட 0.03 சதவீத அதிகரிப்பும், உணவல்லாப்பொருட்கள், சேவைகளின் விலைகள், கட்டணங்களில் அவதானிக்கப்பட்ட 0.47 சதவீத வீழ்ச்சியும் காரணமாக அமைந்தன.
+
+பொருளாதாரத்தின் அடிப்படைப்பணவீக்கத்தைப் பிரதிபலிக்கின்ற மையப்பணவீக்கம் கடந்த ஜுலை மாதம் 0.44 சதவீதமாக மாற்றமின்றிக் காணப்பட்டது.
+
+...
+
+[Data](articles/ee2d12a8.json)
+
+---
+
+### தோட்ட அதிகாரியை இடமாற்றகோரி தோட்ட தொழிலாளர்கள் வேலைநிறுத்தப் போராட்டம்
+
+*2024-08-01 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189999) · `ta`
+
+தோட்ட அதிகாரி தோட்ட தொழிலாளி ஒருவரை தாக்கியதாக கூறி தோட்ட அதிகாரியின் அடாவடித் தனத்தை கண்டித்து தலவாக்கலை ட்றூப் தோட்ட தொழிலாளர்கள் இன்று வியாழக்கிழமை (01) பணிப்புறக்கணிப்பில் ஈடுபட்டனர்.
+
+மஸ்கெலியா பெருந்தோட்ட கம்பனியின் கீழ் இயங்கும் தலவாக்கலை  ட்றூப் தோட்ட பிரிவுகளான ட்றூப், கொரின், கிளனமோரா ஆகிய தோட்டங்களைச் சேர்ந்த 400 ற்கும் மேற்பட்ட தொழிலாளர்கள் தோட்ட அதிகாரியின் அடாவடித்தனத்தை கண்டித்து வேலைநிறுத்தப் போராட்டத்தில் ஈடுப்பட்டுள்ளனர்.
+
+ட்றூப் தோட்டத்தில் அறுவடை செய்யப்படும் தேயிலை கொழுந்துகளை தலவாக்கலை தேயிலை தொழிற்சாலைக்கு அரைப்பதற்காக கொண்டு வருவதாகவும், தேயிலை கொழுந்துகளை கொண்டு வரும்போது தேயிலை கொழுந்துகள் திருடப்பட்டுள்ளதாகவும் கூறி தலவாக்கலை தோட்ட அதிகாரி  தோட்ட தொழிலாளி ஒருவரை செவ்வாய்க்கிழமை (30) மாலை  தாக்கியுள்ளதாக வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள தோட்ட தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/d9678966.json)
+
+---
+
+### Police officers who went to besieged a gamble
 
 *2024-08-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199447) · `si`
 
-වැල්ලවාය ඌව කුඩාඔය පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් විසින් ඌව කුඩාඔය තිස් අට ප්‍රදේශයේ නිවසක සූදුපොලක් පවත්වාගෙන යන බවට ලද තොරතුරක් අනුව එම සූදු පොල වැටලීමට ගොස් තිබේ.
+Two police officers from the Uva Kudoya station were attacked while trying to raid a house. The assailants then took the suspect to the Thanamalwila hospital. No arrests have been made, and the Kudaoya Police Station is investigating.
 
-එම අවස්ථාවේ දී එහි සිටි පිරිසක් විසින් පොලිස් නිලධාරීන් දෙදෙනාට පහර දී ඇති අතර පහරදීම නිසා තුවාල ලැබූ පොලිස් නිලධාරීන් දෙදෙනා ප්‍රතිකාර සඳහා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-ඊට අමතරව සැකකාර නිවසේ සිටි පුද්ගලයාද පොලීසිය තමන්ට පහර දුන් බව පවසා තණමල්විල ප්‍රාදේශීය රෝහලට ඇතුළත් කර තිබේ.
+According to information that a group of officers of the Uva Kudoya police station in the Uva Kudoya Police Station has maintained a house in Uva Kudoya.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් කිසිවෙකු මේ වනවිට අත්අඩංගුවට ගෙන නොමැති අතර සිද්ධිය සම්බන්ධයෙන් කුඩාඔය පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+The two police officers have been assaulted by a group of police officers at the time.
+
+In addition, the suspect at the time was also rushed to the Thanamalwila Divisional Hospital.
+
+No one has been arrested in connection with the incident and the officials of the Kudaoya Police Station is conducting further investigations.
 
 ◼️
 
 [Data](articles/67f7b28c.json)
+
+[Extended Data](ext_articles/67f7b28c.ext.json)
 
 ---
 
@@ -92,17 +132,41 @@ If contesting the election, you have to get a holiday in school. According to re
 
 ---
 
-### සුරක්ෂා සිදු රක්ෂණය ගැන රජයෙන් අලුත්ම තීරණයක්
+### The government is a new decision on security insurance
 
 *2024-08-01 13:36:56* · [`adalk`](https://www.ada.lk/breaking_news/සුරක්ෂා-සිදු-රක්ෂණය-ගැන-රජයෙන්-අලුත්ම-තීරණයක්/11-411142) · `si`
 
-පාසල් සිසුන්ට අද සිට වසර 03ක කාලයක් සඳහා පාසල් සිසුන්ට ලබා දෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසීය.
+The government has introduced a new security insurance policy for students. Effective immediately, this coverage will be available to all school children for the next three years. The scheme includes government, government-approved private schools, Pirivenas, and financial schools.
 
-මෙම සුරක්ෂා සිසු රක්ෂණ ආවරණය රජයේ, රජයේ අනුමත සියලු පෞද්ගලික පාසල්, පිරිවෙන් සහ උපකෘත විශේෂ පාසල් සඳහා ලබා දෙන බව අමාත්‍යවරයා පැවසීය.
+🟩
+
+Minister of Education Susil Premajayath said that school children will be given to school children for three years from today.
+
+The Minister said that the security student insurance is provided to all schools, government approved private schools, Pirivenas, and financial schools.
 
 ◼️
 
 [Data](articles/5a59b95c.json)
+
+[Extended Data](ext_articles/5a59b95c.ext.json)
+
+---
+
+### நான் குற்றமற்றவள் - டயானா கமகே நீதிமன்றில் தெரிவிப்பு
+
+*2024-08-01 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189991) · `ta`
+
+குடிவரவு மற்றும் குடியகல்வு சட்டங்களை மீறிய குற்றச்சாட்டில் தான் குற்றமற்றவர் என முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே கொழும்பு நீதவான் நீதமன்றத்தில் தெரிவித்துள்ளார்.
+
+குடிவரவு மற்றும் குடியகல்வு சட்டத்தின் கீழ் குற்றப் புலனாய்வுத் திணைக்களத்தினால் அவருக்கு எதிராக நீதிமன்றில் முன்வைக்கப்பட்ட 07 குற்றப்பத்திரிகைகளை வாசித்த பின்னரே டயானா கமகே இதனைத் இன்று (ஆகஸ்ட் 01) காலை தெரிவித்தார்.
+
+அதன்படி, இது தொடர்பான வழக்கை விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு நீதவான் நீதிமன்றம் தீர்மானித்துள்ளது
+
+காலாவதியான விசாவுடன் இலங்கையில் தங்கியிருந்தமை மற்றும் குடிவரவு மற்றும் குடியகல்வு அதிகாரிகளிடம்  போலியான தகவல்களை  வழங்கியமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் டயானா கமகேவுக்கு எதிராக குற்றப் புலனாய்வுப் பிரிவினர் இந்தக் குற்றப்பத்திரிகையை தாக்கல் செய்திருந்தனர்.
+
+◼️
+
+[Data](articles/38f80a1a.json)
 
 ---
 
@@ -123,6 +187,44 @@ The collision was reported early on Thursday morning between a Sri Lankan naval 
 [Data](articles/2ca76d7d.json)
 
 [Extended Data](ext_articles/2ca76d7d.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் ; தமிழ் மக்கள் சமஷ்டியை ஏற்கும் வேட்பாளருக்கு வாக்களிக்க வேண்டும் - வடக்கு, கிழக்கு ஒருங்கிணைப்பு குழு வலியுறுத்தல்
+
+*2024-08-01 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189995) · `ta`
+
+ஜனாதிபதி தேர்தலில் சமஷ்டி கோரிக்கையை முன்வைக்கும் வேட்பாளருக்கே நாம் வாக்களிக்க வேண்டும் என வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவின் ஒருங்கிணைப்பாளர் கண்டுமணி லவகுசராசா தெரிவித்துள்ளார்.
+
+இன்று வியாழக்கிழமை (01) யாழ்ப்பாணத்தில் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவினால் ஏற்பாடு செய்யப்பட்ட ஊடக சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலில் போட்டியிடப்போகும் வேட்பாளர்களுக்கு நாம் பகிரங்கமான கோரிக்கையை முன்வைக்கின்றோம். உங்களது தேர்தல் விஞ்ஞாபனத்தில் இலங்கையின் தேசிய இனப்பிரச்சினைக்கு தீர்வாக சமஷ்டி முறையிலான அரசியல் தீர்வை முன்வைக்க வேண்டும்.
+
+இலங்கையின் வடக்கு கிழக்கு தமிழ் பேசும் மக்களுக்கு நிலையான, கௌரவமான, உரிமைகளுடன் கூடிய நிலையான அரசியல் தீர்வு கோரி 2022 ஆம் ஆண்டு ஆவணி முதலாம் திகதி சுழற்சி முறையிலான 100 நாட்கள் செயல்முனைவினை ஆரம்பித்து, 2022 கார்த்திகை எட்டாம் திகதி சமஷ்டி தீர்வுக்கான மக்கள் பிரகடனத்தை வெளியிட்டோம்.
+
+...
+
+[Data](articles/69b9147d.json)
+
+---
+
+### பேச்சுவார்த்தைகளின் ஊடாக தமிழ் மக்களுக்கு நிரந்தரமான அரசியல் தீர்வினை பெறுவதற்கான வாய்ப்புகளை உருவாக்கக்கூடிய சூழலை நாங்கள் அமைத்துக்கொள்ள வேண்டும்  - சாணக்கியன்
+
+*2024-08-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189984) · `ta`
+
+பேச்சுவார்த்தைகளின் ஊடாக தமிழ் மக்களுக்கு நிரந்தரமான அரசியல் தீர்வை பெறுவதற்கான வாய்ப்புகளை உருவாக்கக்கூடிய சூழலை நாங்கள் அமைத்துக் கொள்ள வேண்டும் என மட்டக்களப்பு மாவட்ட தமிழ் தேசிய கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்தார்.
+
+ஒரு சிலர் இந்த தமிழ் பொது வேட்பாளரை வைத்துக்கொண்டு தங்களுடைய பாராளுமன்ற தேர்தலை இலக்கு வைத்து தங்களுடைய கட்சி பிரபல்யமாகலாம் என ஒரு சிலர் இருக்கின்றார்கள் இன்னும் ஒரு சிலர் இதை பணம் உழைக்கும் ஒரு சந்தர்ப்பமாக பார்க்கின்றார்கள் எனவும் அவர் தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் சாணக்கியனின் பண்முகப்படுத்தப்பட்ட நிதியில் புனரமைக்கப்பட்ட ஆலயங்களுக்கு விஜயம் செய்த பாராளுமன்ற உறுப்பினர்  அவற்றினை பார்வையிட்டார்.
+
+மட்டக்களப்பு கல்லடி பகுதியில் உள்ள ஆலயங்களுக்கு பன்முகப்படுத்தப்பட்ட நிதியில் புனரமைக்கப்பட்ட ஆலயங்களுக்கு சென்று புனரமைப்பு வேலைகளை பார்வையிட்டார்.
+
+அத்துடன் குறித்த பிரதேசத்தில் உள்ள விளையாட்டுக்கழகங்களுக்கு சாணக்கியனின் பண்முகப்படுத்தப்பட்ட நிதியில் கொள்வனவுசெய்யப்பட்ட விளையாட்டு உபகரணங்களும் வழங்கிவைக்கப்பட்டன.
+
+...
+
+[Data](articles/00e838af.json)
 
 ---
 
@@ -151,6 +253,26 @@ Israel has no response to the killing of his enemies in foreign countries, even 
 [Data](articles/c4614606.json)
 
 [Extended Data](ext_articles/c4614606.ext.json)
+
+---
+
+### பொலிஸ்மா அதிபர்  தொடர்பான நெருக்கடிக்கு தீர்வு காணவேண்டும் - நீதியான சுதந்திரமான தேர்தலை உறுதி செய்யவேண்டும் - பவ்ரல் ஜனாதிபதிக்கு கடிதம்
+
+*2024-08-01 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189992) · `ta`
+
+பொலிஸ்மா அதிபர் குறித்த விவகாரத்தினால் உருவாகியுள்ள பிரச்சினைக்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க தீர்வு காணவேண்டும் என வேண்டுகோள் விடுத்துள்ள தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரல் ஜனாதிபதி தேர்தல் சுதந்திரமானதாக நடைபெறுவதை உறுதி செய்வதன் மூலம் மக்களின் வாக்குரிமையை பாதுகாக்குமாறும் வேண்டுகோள் விடுத்துள்ளது.
+
+பவ்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி ஜனாதிபதிக்கு எழுதியுள்ள கடிதத்தில் இந்த வேண்டுகோளை விடுத்துள்ளார்.
+
+கடந்த ஆறு வருடங்களாக உள்ளுராட்சி வேட்பாளர்களை தெரிவு செய்வதற்கான உரிமை பொதுமக்களிற்கு வழங்கப்படவில்லை.
+
+ஐந்து வருடங்களிற்கு பின்னர் தங்கள் ஜனாதிபதியை தெரிவு செய்வதற்கு மக்களிற்கு கிடைத்துள்ள இந்த சந்தர்ப்பம் தொடர்பில் பல நிச்சயமற்ற தன்மைகள் உருவாகியுள்ளன.
+
+அரசமைப்பின் போதாமை காரணமாக யாராவது இந்த நாட்டு மக்களின் வாக்குரிமைய பறிக்கும் நிலை ஏற்படுவதற்கு ஜனாதிபதி என்ற வகையில் நீங்கள் இடமளிக்க கூடாது.
+
+...
+
+[Data](articles/ce8f710e.json)
 
 ---
 
@@ -400,6 +522,36 @@ The government can also buy the dollars by raising funds from the sale of Treasu
 
 ---
 
+### There is no one who can get fifty percent of the presidential election - CV Wigneswaran
+
+*2024-08-01 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189963) · `ta`
+
+CV Wigneswaran, leader of the Tamil People's National Alliance, expressed concern over potential post-election riots due to the lack of a clear winner among Sinhala candidates, hinting at a divided electorate. He highlighted the competitive nature among Ranil, Sajith, and Anura, suggesting their parties could face significant losses, especially to the JVP. Wigneswaran predicted support for Ranil but noted potential shifts in alliances and voter sentiments.
+
+🟩
+
+CV Wigneswaran, the leader of the Tamil People's National Alliance and Member of Parliament, said that after the presidential election, riots erupted in the country.
+
+He said this during a media briefing held in Jaffna on Wednesday (31).
+
+I have a compassion for the country now. That is, there is a situation where riots may erupt after the election. There is no one who can get fifty percent of the Sinhala candidates.
+
+But although many people say they are contesting in the election, Ranil, Sajith and Anura are the three war.
+
+What kind of competition is going to happen between the three.If you ask what the party's role in this election is, I think that the party will be completely destroyed if an election comes back.
+
+That is, it is my opinion that all their seats in the south will go to the JVP party.Their betrayal of this country is in the mind.
+
+They have been raging in this country in particular, and they have raised themselves because of the war war.All of these are well known now.
+
+...
+
+[Data](articles/a428eb95.json)
+
+[Extended Data](ext_articles/a428eb95.ext.json)
+
+---
+
 ### Drug kingpins ‘Kanjipani Imran’ and ‘Rotumbe Amila’ arrested in Russia – sources
 
 *2024-08-01 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100910/drug-kingpins-kanjipani-imran-and-rotumbe-amila-arrested-in-russia-sources) · `en`
@@ -467,36 +619,6 @@ The Elections Commission has advised that the recognized political party candida
 [Data](articles/bf8ce410.json)
 
 [Extended Data](ext_articles/bf8ce410.ext.json)
-
----
-
-### There is no one who can get fifty percent of the presidential election - CV Wigneswaran
-
-*2024-08-01 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189963) · `ta`
-
-CV Wigneswaran, leader of the Tamil People's National Alliance, expressed concern over potential post-election riots due to the lack of a clear winner among Sinhala candidates, hinting at a divided electorate. He highlighted the competitive nature among Ranil, Sajith, and Anura, suggesting their parties could face significant losses, especially to the JVP. Wigneswaran predicted support for Ranil but noted potential shifts in alliances and voter sentiments.
-
-🟩
-
-CV Wigneswaran, the leader of the Tamil People's National Alliance and Member of Parliament, said that after the presidential election, riots erupted in the country.
-
-He said this during a media briefing held in Jaffna on Wednesday (31).
-
-I have a compassion for the country now. That is, there is a situation where riots may erupt after the election. There is no one who can get fifty percent of the Sinhala candidates.
-
-But although many people say they are contesting in the election, Ranil, Sajith and Anura are the three war.
-
-What kind of competition is going to happen between the three.If you ask what the party's role in this election is, I think that the party will be completely destroyed if an election comes back.
-
-That is, it is my opinion that all their seats in the south will go to the JVP party.Their betrayal of this country is in the mind.
-
-They have been raging in this country in particular, and they have raised themselves because of the war war.All of these are well known now.
-
-...
-
-[Data](articles/a428eb95.json)
-
-[Extended Data](ext_articles/a428eb95.ext.json)
 
 ---
 
@@ -2123,127 +2245,5 @@ The Sri Lankan civil war ended with a brutal and decisive Government victory in 
 [Data](articles/8a18b7bf.json)
 
 [Extended Data](ext_articles/8a18b7bf.ext.json)
-
----
-
-### People's opposition to Ravikaran for heavy sand excavation: Departments
-
-*2024-08-01 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189952) · `ta`
-
-Opposition against heavy sand mining led by Durairasa Ravikaran, a former Northern Provincial Council member, resulted in protests and abandonment of inspections by various departments, including the Coast Guard, Forest Service, Environment, Geology, and Geography departments, as well as local officials. This occurred in Mullaitivu District on July 31, 2024, after a visit to the coast.
-
-🟩
-
-Former Northern Provincial Council Member Durairasa Ravikaran, including former Northern Provincial Council member Durairasa Ravikaran, had abandoned the inspection work and went from the scene.
-
-When a group of people, including former Northern Provincial Council member Durairasa Ravikaran protested when a group of people, went on to engage in heavy sand inspection again, had abandoned the inspection of the department and the department had abandoned the study of severe arguments with the department.
-
-Mullaitivu District today (31.07.2024). Following the secretariat, they had secretly visited the Mullaitivu Service from the coast of Mullaitivu.
-
-The Department of Coast Guard, the Department of Forest Service, the Department of Environment, the Department of Environment, the Department of Geology, and the Department of Geography, Karaitharaipattu Divisional Secretariat Land Officer and the Grama Niladhari of the area.
-
-◼️
-
-[Data](articles/92a119a7.json)
-
-[Extended Data](ext_articles/92a119a7.ext.json)
-
----
-
-### A 33 -year -old family member arrested for abusing a 9 -year -old girl in Nelliyadi
-
-*2024-08-01 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189951) · `ta`
-
-A 33-year-old man was arrested for allegedly abusing a 9-year-old girl in Nelliyadi. The victim is hospitalized for treatment. Further actions will be taken against the suspect after investigation.
-
-🟩
-
-A few days ago, a suspect was arrested by the police on Wednesday (31) on charges of abuse and abusing a 9 -year -old girl in the Nelliyadi - Tunnalai area belonging to the Nelliyadi Police Division.
-
-A 33 -year -old married man from the same area has been arrested. The girl has been admitted to the hospital for medical examination.
-
-After further investigations, the police are taking steps to bring the suspect in court.
-
-◼️
-
-[Data](articles/78e0adda.json)
-
-[Extended Data](ext_articles/78e0adda.ext.json)
-
----
-
-### A spotted affair: Has Sri Lanka over-promoted the iconic Sri Lankan leopard?
-
-*2024-08-01 01:06:53* · [`dailyftlk`](https://www.ft.lk/columns/A-spotted-affair-Has-Sri-Lanka-over-promoted-the-iconic-Sri-Lankan-leopard/4-764988) · `en`
-
-The Sri Lankan leopard – ‘panther pardus kotiya’ – Pic by Srilal Miththapala
-
-Of all the charismatic animals seen in Sri Lanka, there is none that has created so much interest and popularity, than the Sri Lankan leopard. And today it has become arguably one of the most sought-after tourist attractions in the country. But is the leopard’s own popularity leading to its own destruction?
-
-1 August is Sri Lanka Leopard Day, a day proposed by the Wildlife and Nature Protection Society of Sri Lanka in 2020 to celebrate our very own leopard sub species.
-
-So this maybe an overtime moment to reflect on the problems that the Sri Lanka leopard is facing today.
-
-The Sri Lankan leopard is a distinct subspecies – ‘panthera pardus kotiya’ (after Dr. Sriyanie Miththapala 1966). It is the only large carnivore found in Sri Lanka, and is therefore the apex predator in the wild, with no threats to it other than man.
-
-...
-
-[Data](articles/51883768.json)
-
-[Extended Data](ext_articles/51883768.ext.json)
-
----
-
-### LOLC steps up commitment to protect apex predator Sri Lankan leopard
-
-*2024-08-01 00:57:55* · [`dailyftlk`](https://www.ft.lk/opinion/LOLC-steps-up-commitment-to-protect-apex-predator-Sri-Lankan-leopard/14-764987) · `en`
-
-LOLC Holdings Chief Operating Officer Kithsiri Gunawardena (right) with South Africa ecologist, researcher, and conservationist Dr. Jeannine McManus
-
-In celebration of National Leopard Day on 1 August, LOLC Holdings PLC has launched several new initiatives to further its ongoing commitment to the conservation of the Sri Lankan leopard, in partnership with the Wildlife and Nature Protection Society (WNPS).
-
-The Sri Lankan leopard, an apex predator and a key component of the island’s rich biodiversity, faces escalating threats from unplanned land use, wildlife crimes, inadequate penalties, and limited ecological understanding. With rough estimates suggesting fewer than 1,000 individuals remaining in the country, the conservation of this endemic subspecies has become increasingly vital.
-
-...
-
-[Data](articles/637f9565.json)
-
-[Extended Data](ext_articles/637f9565.ext.json)
-
----
-
-### NTB renews long-standing partnership with Wildlife and Nature Protection Society of Sri Lanka
-
-*2024-08-01 00:55:32* · [`dailyftlk`](https://www.ft.lk/opinion/NTB-renews-long-standing-partnership-with-Wildlife-and-Nature-Protection-Society-of-Sri-Lanka/14-764986) · `en`
-
-NTB Director and CEO Hemantha Gunatilleke (right) exchanges the agreement with WNPS General Secretary Rapti Dirckze
-
-Nations Trust Bank (NTB) has renewed its partnership with the Wildlife and Nature Protection Society of Sri Lanka (WNPS), continuing the bank’s contribution to the WNPS and its environmental and awareness-building initiatives.
-
-Environmental and biodiversity conservation is one of NTB’s key CSR initiatives. The WNPS continues to be one of the bank’s closest partners in offering its contribution to environmental conservation and building awareness.
-
-One of the main initiatives supported by the bank in partnership with the WNPS is a series of monthly public lectures by environmental experts on topics ranging from climate action, biodiversity conservation and research, and other relevant topics pertaining to environmental sustainability. The initiatives cater to nature enthusiasts who are encouraged to participate in the free sessions.
-
-...
-
-[Data](articles/daf5f18c.json)
-
-[Extended Data](ext_articles/daf5f18c.ext.json)
-
----
-
-### Understanding Sri Lanka president’s lotus-shaped dilemma
-
-*2024-08-01 00:49:00* · [`economynextcom`](https://economynext.com/understanding-sri-lanka-presidents-lotus-shaped-dilemma-174646/) · `en`
-
-ECONOMYNEXT — On Monday July 29, the ruling Sri Lanka Podujana Peramuna (SLPP) voted against backing President Ranil Wickremesinghe at the 2024 presidential election, opting instead to field its own candidate. The calculations that went into this decision are likely more complex than meets the eye and, given what is at stake, are worth discussing.
-
-At the outset, it must be noted that in the absence of closely guarded inside information and scientifically sound polling data, any speculation on the outcome of a national election that’s still some time away has to necessarily involve reasoning built on publicly available information and a certain amount of guesswork. This analysis, therefore, attempts to work out the least unlikely rationale behind the SLPP politburo’s decision and its possible implications, based on information already at hand.
-
-...
-
-[Data](articles/9ad9f1dc.json)
-
-[Extended Data](ext_articles/9ad9f1dc.ext.json)
 
 ---

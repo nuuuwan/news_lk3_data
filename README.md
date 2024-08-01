@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 08:17:03**
+As of **2024-08-01 08:36:01**
 
 ## Newspaper Stats
 
-*Scraped **38,368** Articles*
+*Scraped **38,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,77 @@ adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
 virakesarilk | 6,063
-adaderanasinhalalk | 6,458
+adaderanasinhalalk | 6,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,364 (100.0%) of 38,368 articles have been extended.
+38,368 (100.0%) of 38,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### දුම්රිය දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+### මත්ද්‍රව්‍ය ළඟ තබා ගත් බන්ධනාගාර නිලධාරියාට වැඩවරදී
+
+*2024-08-01 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199432) · `si`
+
+අයිස් යැයි සැක කළ හැකි මත්ද්‍රව්‍ය ළඟ තබාගැනීමේ චෝදනාවට අත්අඩංගුවට ගත් වැලිකඩ බන්ධනාගාර නිලධාරිවරයෙකුගේ සේවය අත්හිටුවා තිබේ.
+
+වැලිකඩ බන්ධනාගාර ප්‍රධාන දොරටුවේ දී බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බලකා නිලධාරීන් විසින් අදාළ බන්ධනාගාර නිලධාරීවරයා පරීක්ෂා කිරීමේ දී ඔහු සතුව තිබී අයිස් යැයි සැක කළ හැකි මත්ද්‍රව්‍ය පැකට්  කිහිපයක් සොයාගෙන ඇති බව සඳහන්ය.
+
+ඔහුගේ රාජකාරී පාවහන් තුළ ඉතා සූක්ෂම ලෙස ඒවා සඟවා තිබු බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වසර 20ක පමණ කාලයක් බන්ධනාගාරයේ සේවය කළ නිලධාරියෙකු බව සඳහන්ය.
+
+අත්අඩංගුවට ගත් සැකකරු සැකකරු ඉදිරි නීතිමය කටයුතු සඳහා බොරැල්ල පොලිස් ස්ථානය වෙත යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/de5b7076.json)
+
+---
+
+### A notification from the Railway Department
 
 *2024-08-01 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199431) · `si`
 
-ජාලගත ක්‍රමය ඔස්සේ ආසන වෙන්කිරීමේ වේලාව අද (01) සිට සංශෝධනය කිරීමට නියමිතව තිබුණ ද එය සිදුනොකරන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department received no updates to its network system today.
+
+🟩
+
+The network system will not be amended today (01) to the Railway Department.
 
 ◼️
 
 [Data](articles/bce6242c.json)
 
+[Extended Data](ext_articles/bce6242c.ext.json)
+
 ---
 
-### ආහාරවලින් ලෙඩ සුව කරන ප්‍රචාරණ ගැන සෞඛ්‍ය අංශවලින් අනාවරණයක්
+### Health Sector reveals about foods healing disease
 
 *2024-08-01 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199430) · `si`
 
-ආහාර මඟින් ඇතැම් රෝග සුව කළ හැකි බවට සමාජ මාධ්‍ය ඔස්සේ සිදුකරන ප්‍රචාරවලට නොරැවටෙන ලෙස සෞඛ්‍ය අමාත්‍යාංශය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+The Ministry of Health warns against false claims that certain foods can cure diseases. Dr. Ananda Jayalal emphasizes that while food provides nutrition, it's not a substitute for medical treatment. He cautions against misleading advertisements, particularly on social media, suggesting specific foods can heal illnesses like cancer without proper clinical evidence.
 
-සෞඛ්‍ය අමාත්‍යාංශයේ ආහාර පාලන ඒකකකයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් විශේෂඥ වෛද්‍ය ආනන්ද ජයලාල් මහතා පැවසුවේ ඇතැම් ආයතනවල නම් භාවිත කරමින් එම ප්‍රචාර සිදුකෙරෙන බවය.
+🟩
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය ආනන්ද ජයලාල් මහතා මේ බව සඳහන් කළේය.
+The Ministry of Health requests the public not to be deceived by food that some disease can be cured.
 
-...
+Dr. Ananda Jayalal, Deputy Director General of the Ministry of Health, said that the names of certain institutions said that the names of certain institutions were used.
+
+Speaking at a media brief in the Health Promotion Bureau, Dr. Ananda Jayalal made this observation.
+
+"Usually a meal is mainly intended to withstand disease, nutrition and disease. We calls drugs that heal diseases. Food cannot treat sickness. If anyone can heal any disease, you must really have permission from the main food authority. We see the names of various institutions, especially social media, especially the food is good for cancer. That propaganda often is wrong. A meal cannot be advertised that you can often heal a disease. If so, formal clinical data should be submitted to the Ministry of Health Ministry authority. It is illegal to do that. "
+
+◼️
 
 [Data](articles/41427cf9.json)
+
+[Extended Data](ext_articles/41427cf9.ext.json)
 
 ---
 
@@ -2195,27 +2229,5 @@ Meanwhile, according to the monthly fuel prices in the country, the Ceylon Petro
 [Data](articles/eb3daa23.json)
 
 [Extended Data](ext_articles/eb3daa23.ext.json)
-
----
-
-### Sri Lanka’s President condemns assassination of Hamas political leader
-
-*2024-07-31 15:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-condemns-assassination-of-hamas-political-leader-174647/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has expressed his strong condemnation of the assassination of Hamas political leader Ismail Haniyeh.
-
-“The killing of the Hamas leader in Tehran this morning is something I strongly condemn. It was wrong and could have prevented a solution to the Gaza conflict,” Wickremesinghe said addressing a meeting with former Provincial Council members.
-
-“This action is likely to escalate problems in the Middle East again, which I do not support. As a nation, we must always uphold the right to life.”
-
-Haniyeh was killed in Iran’s capital Tehran in an air strike at about 02:00 local time, foreign media reports said.
-
-The killing of the 62-year-old ceasefire negotiator has sparked fears of a wider war. (Colombo/Jul31/2024)
-
-◼️
-
-[Data](articles/a7119517.json)
-
-[Extended Data](ext_articles/a7119517.ext.json)
 
 ---

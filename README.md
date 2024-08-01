@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 08:55:15**
+As of **2024-08-01 09:06:55**
 
 ## Newspaper Stats
 
-*Scraped **38,374** Articles*
+*Scraped **38,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 369
 islandlk | 2,203
 economynextcom | 2,312
 dailyftlk | 2,461
-adalk | 3,516
+adalk | 3,517
 adaderanalk | 4,434
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
@@ -26,35 +26,49 @@ adaderanasinhalalk | 6,460
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,369 (100.0%) of 38,374 articles have been extended.
+38,374 (100.0%) of 38,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### பதில் பொலிஸ்மா அதிபரை நியமிப்பதற்கான அரசியலமைப்பு அதிகாரத்தைப் பயன்படுத்துவது தேர்தல் விதிகளை மீறுவதாக அமையாது - சிரேஷ்ட சட்டத்தரணிகள் சுட்டிக்காட்டு
+### In response, the use of constitutional authority to appoint a police chief does not violate election rules - senior lawyers point out
 
 *2024-08-01 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189955) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் பதில் பொலிஸ்மா அதிபரை நியமிப்பதற்கான அதிகாரம் ஜனாதிபதிக்கு உண்டு எனவும், அத்தகு நியமனத்தை மேற்கொள்வது தேர்தல் விதிகளை மீறுவதாக அமையாது எனவும் சுட்டிக்காட்டியிருக்கும் சிரேஷ்ட சட்டத்தரணிகள், பதில் பொலிஸ்மா அதிபரின்கீழ் எவ்வித இடையூறுகளுமின்றி தேர்தலை நடாத்தமுடியும் எனவும் தெரிவித்துள்ளார்.
+Senior lawyers argue that the President's power to appoint the Inspector General of Police, as per the Constitution, doesn't breach election rules. Amidst controversy over the appointment process, especially concerning the interim High Court judge serving as the Police Chief, President Ranil Wickremesinghe clarified his stance. The Elections Commission can request police services from either the Inspector General or the Senior Deputy Inspector General during the election period, raising questions about the President's involvement. Despite this, Aamir Fais, an Election Commissioner, assures that the President's constitutional duty to appoint the Inspector General does not contravene election laws. Legal experts like Gautaman and former President of the Sri Lanka Lawyers Association, Saliya Peiris, support this view, emphasizing the constitutionality of the President's action.
 
-ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படுமென தேர்தல்கள் ஆணைக்குழு அறிவித்திருக்கும் பின்னணியில், தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராகக் கடமையாற்றுவதற்கு உயர்நீதிமன்றம் பிறப்பித்திருக்கும் இடைக்காலத்தடையுத்தரவை மையப்படுத்தி ஜனாதிபதி, பிரதமர், சபாநாயகர் உள்ளிட்ட பல்வேறு தரப்பினரும் சர்ச்சைக்குரிய கருத்துக்களை வெளியிட்டுள்ளனர்.
+🟩
+
+Senior lawyers pointed out that the president has the power to appoint the Inspector General of Police in response to the Constitution and that the appointment is not a violation of the election rules.
+
+In the wake of the Elections Commission announced that the presidential election will be held on September 21, the President, Prime Minister and the Speaker have made controversy, focusing on the interim sector of the High Court to serve as the Tennakoon Police Principal.
+
+In particular, President Ranil Wickremesinghe has stated that he will withdraw from appointing the Inspector General of Police as the President has asked the President to appoint a police chief.. At the same time, under Article 106 of the Constitution, the Elections Commission can obtain the services of the police from the Inspector General of Police, but also through the Senior Deputy Inspector General of Police, how can the President get services during the election period?He has questioned.
 
 ...
 
 [Data](articles/655a3361.json)
 
+[Extended Data](ext_articles/655a3361.ext.json)
+
 ---
 
-### ඩොලර් ගේන සංචාරකයෝ
+### Dollar tourists
 
 *2024-08-01 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199433) · `si`
 
-මේ වසරේ පළමු මාසය 6තුළ සංචාරක ක්ෂේත්‍රයෙන් අමෙරිකානු ඩොලර් මිලියන 1,557ක් මුදලක් උපයා ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+In the first half of the year, the tourism sector generated $1.557 billion, according to the Central Bank.
+
+🟩
+
+The tourism industry has earned US $ 1,557 million in the first six months of this year, the Central Bank said.
 
 ◼️
 
 [Data](articles/d7d060cd.json)
+
+[Extended Data](ext_articles/d7d060cd.ext.json)
 
 ---
 
@@ -75,6 +89,8 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 ◼️
 
 [Data](articles/7a46da36.json)
+
+[Extended Data](ext_articles/7a46da36.ext.json)
 
 ---
 
@@ -104,23 +120,33 @@ The suspect has been sent to the Borella Police Station for further legal procee
 
 ---
 
-### இலங்கையை சேர்ந்தவரின்  பல்பொருள் அங்காடியை சூறையாடியதுகாடையர் கும்பல் -பிரிட்டனின் சௌத்போர்ட்டில் கத்திக்குத்து தாக்குதலின் பின்னர் வன்முறை-
+### Forestry gang robbed of Sri Lankan's supermarket -Violence
 
 *2024-08-01 08:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189954) · `ta`
 
-பிரிட்டனின் சௌத்போர்ட்டில் கத்திக்குத்து சம்பவத்தில் சிறுமிகள் பலியானதை தொடர்ந்து இடம்பெற்ற வன்முறைகளின் போது இலங்கையை சேர்ந்த ஒருவரின் பல்பொருள் அங்காடியை வன்முறை கும்பலொன்று சூறையாடி பெரும் சேதத்தையும் நஸ்டத்தையும் ஏற்படுத்தியுள்ளது என பிபிசி தெரிவித்துள்ளது.
+A Sri Lankan supermarket owner's store was robbed by a local gang, causing significant damage and theft. The incident occurred in the aftermath of a tragic knife attack, leading to heightened tensions and violence in the Meenaside area. The owner, fearing for safety, closed his shop early and later discovered the robbery via CCTV footage. He expressed concern over potential arson, as fires were seen outside his store. Local community members plan to raise funds to support him and hold the perpetrators accountable.
 
-வின்ட்ஸர் மினிமார்ட்டின் ஜன்னல்களை உடைத்து உள்ளே நுழைந்த வன்முறை கும்பல்களை சேர்ந்தவர்கள் பெறுமதியான பொருட்களை கொள்ளையடித்துள்ளனர் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-கத்திக்குத்து தாக்குதலில் பலியானவர்களை நினைவுகூரும் நிகழ்வின் பின்னர்மெனேசைட் பகுதியில் வன்முறைகள் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+The BBC said that a Sri Lankan man's supermarket was chased by a Sri Lankan gang and causing great damage to a Sri Lankan gang in the wake of the deaths of girls in the British Chaudford.
 
-அந்த பகுதி பாதுகாப்பனதாக மாறலாம் என்ற அச்சம் காரணமாக தனது வர்த்தக நிலையத்தையை மூடிக்கொண்டு அன்று மாலை வீடு திரும்பிய இலங்கையரான பாலசூரிய வீட்டில் உள்ள சிசிடிவி கமராவின் மூலம் தனது வர்த்தக நிலையம் சூறையாடப்படுவதை பார்த்துள்ளார்.
+He said that the violent gangs who broke the windows of the Windsor minimart and entered, robbed valuable items.
 
-அவர்களிற்கு வர்த்தக நிலையத்தை உடைத்து உள்ளே செல்வதற்கு பத்து அல்லது பதினைந்து நிமிடங்கள் மாத்திரமே தேவையாகயிருந்தது அவர்கள் ஜன்னல் கண்ணாடிகளை காலால் உதைத்தனர் என அவர் தெரிவித்துள்ளார்.
+It is noteworthy that violence took place in the Meenaside area after the event to commemorate the victims of the knife attack.
+
+Due to fears that the area may become safe, he has closed his shopping center and returned home that evening and saw his shopping center looting through the CCTV camera at Balasuriya's home.
+
+They only needed ten or fifteen minutes to break the shopping center and they kicked the window glasses.
+
+He looked at the fire outside the shop and they were fat. I was afraid that they were going to set up my shopping center, "he said.
+
+I called 999 and my children saw it on CCTV, "he said.
 
 ...
 
 [Data](articles/ec74004b.json)
+
+[Extended Data](ext_articles/ec74004b.ext.json)
 
 ---
 
@@ -494,21 +520,29 @@ The recent economic crisis has highlighted the need to address weaknesses in Sri
 
 ---
 
-### මියන්මාර සයිබර් වහල් කඳවුරට තවමත් ලාංකිකයෝ යවනවා ද?
+### Will Sri Lankans still send Sri Lankans?
 
 *2024-08-01 02:45:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0xj3v4g4v8o) · `si`
 
-“කන්න දීලා තිබුණේ කේක් කෑල්ලකුයි, බිත්තරේකුයි විතරයි. මට බඩගිනි මමා ඔයාට දුක හිතෙන්නේ නැද්ද කියලා ඇහුවා. මම මොනවා කරන්න ද?” ඒ, මියන්මාරයේ සයිබර් වහල් කඳවුරක සේවයේ යෙදෙන්නට බල කෙරී ඇති 34 හැවිරිදි දියණියකගේ මවක්,  බීබීසි සිංහල සේවයට කී කතාව ය.
+Sri Lankans trapped in cyber slavery camps in Myanmar are rescued, with 8 brought back home in April 2024. Victims faced brutal conditions, including forced labor and torture, before their rescue.
 
-තවමත් වහල් කඳවුරුක පීඩා විඳින දියණියගේ ආරක්ෂාව පතා මෙතැන් පටන් අපි අපගේ කතා නායිකාව වසන්ති යන අනුවර්ථ නාමයෙන් හඳුන්වන්නෙමු.
+🟩
 
-2023 වසරේ ඔක්තෝම්බර් මාසයේ සිට සයිබර් ජාවාරම්කරුවන්ගේ ග්‍රහණයේ සිටින ඇයගේ දියණිය ඉන් බේරගැනීමට ඇය මහත් වෙහෙසක් දරමින් සිටින අතර දැනට එම කඳවුරු තුළ අවම වශයෙන් ශ්‍රී ලාංකිකයන් 57 දෙනෙකු සිටින බවත් ඉන් 15 දෙනෙකු පමණ කාන්තාවන් බවත් වසන්ති කියා සිටියාය.
+"There was only a piece of cake and egg. I was hungry, and asked if you feel sad. What should I do? "The mother of a 34-year-old daughter's mother has told the Sinhala service, who is a 34-year-old daughter who is forced to serve in Myanmar's cyber slavery camp.
 
-“රුමේනියාවල ඉන්න දුවගේ හොඳම යාලුවෙක් තමයි එයාට යන්න හදලා දුන්නේ. එයා දැන් කියන්නේ එයා දන්නේ නැහැ මේ ගැන කියලා. එයාගේ හස්බන්ඩ්ගේ යාලුවෙක් තමයි යැව්වේ කියලා කියන්නේ. හැබැයි එයාලා දැනගෙන හිටියේ නැහැ කියලා කිව්වට ඒක සම්පුර්ණ බොරු. මොකද එතනට එයාලගෙන් ඊට කලින් ගිය අයත් ඉන්නවා. ඒ අය කියන්න ඇතිනේ මේ තැන මේ වගේ කියලා. එතකොට එයා දන්නේ නෑ කියන්න බැහැනේ.”
+We will still call our speech description from the description of our speech to the division of the daughter of a slave camp.
+
+It is a great effort to save her daughter in the clutches of cyber racketeers from October 2023 and said that there were 57 Sri Lankans at least 15 Sri Lankans.
+
+"The best friend of the daughter in Romania was trying to go. He says he doesn't know about this. It is called his Husband's friends. But it was complete if they didn't know. Because there are somebody who has gone there over there. They say that this place is like this place. He can't say that he doesn't know. "
+
+Vasanthi's daughter leaves in Sri Lanka to enter the interview with data entry in Thailand.
 
 ...
 
 [Data](articles/ef7be38c.json)
+
+[Extended Data](ext_articles/ef7be38c.ext.json)
 
 ---
 
@@ -1592,6 +1626,24 @@ Special committee of National Security Tiran Alles, Minister of External Affairs
 
 ---
 
+### මහින්ද සමග එක් වතාවක් සාකච්ඡා කරන්නැයි නියෝජ්‍ය කථානායක ජනපතිට කියයි
+
+*2024-07-31 18:15:43* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-සමග-එක්-වතාවක්-සාකච්ඡා-කරන්නැයි-නියෝජ්‍ය-කථානායක-ජනපතිට-කියයි/11-411123) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහාය ලබා ගැනීම සඳහා තවත් එක් වතාවක් ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායක, හිටපු අග්‍රාමාත්‍ය මහින්ද රාජපක්ෂ මහතා සමග සාකච්ඡා කරන ලෙස නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර තිබේ.
+
+ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී පැවති ආණ්ඩු පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා විසින් මෙම ඉල්ලීම සිදුකර ඇත.
+
+මෙම ඉල්ලීම තමාගේ පෞද්ගලික ඉල්ලීමක් බවත් ජනාපතිවරයා සහ අග්‍රාමාත්‍යවරයා එක්ව හෝ නැතිනම් විශේෂ කමිටුවක් මගින් හෝ අවසන් වරට තවත් එක් වරක් මහින්ද රාජපක්ෂ මහතා හමුවී මේ පිළිබඳ සාකච්ඡා කරන ලෙසට නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා විසින් මෙම ඉල්ලීම සිදුකර තිබේ.
+
+“මේක ඉතාම සංවේදී අවස්ථාවක්. හදවතට දැනෙන ප්‍රශ්නයක්. නමුත් අපි හොඳ බුද්ධියකින් මේ අවස්ථාවේදී කටයුතු කළ යුතුයි.
+
+...
+
+[Data](articles/af8de696.json)
+
+---
+
 ### Sri Lanka to wrap up talks with IMF team on Aug 01
 
 *2024-07-31 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-wrap-up-talks-with-imf-team-on-aug-01-174703/) · `en`
@@ -2181,29 +2233,5 @@ The month-on-month change was contributed by an increase in Food items by 0.03% 
 [Data](articles/e7e0df54.json)
 
 [Extended Data](ext_articles/e7e0df54.ext.json)
-
----
-
-### Notice on postal votes
-
-*2024-07-31 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199415) · `si`
-
-The Elections Commission warns against false propaganda regarding postal voting for the 2024 presidential election. It advises checking official website for accurate registration details. The Commission disclaims responsibility for unverified ads. Postal vote applications close from August 5, 2010, to August 5, 2015.
-
-🟩
-
-The Elections Commission has issued a statement regarding the postal voting on the 2124 presidential election.
-
-It states that he is not caught by false propaganda, but to work on his registration related information on the official website of the Election Commission.
-
-There is no obligation of the Commission on advertisements that propagate in various ways, and the information referred to is the false and propaganda of the people.
-
-Postal voting applications will end on 05.08.2010 to 05.08.2015.
-
-◼️
-
-[Data](articles/24545425.json)
-
-[Extended Data](ext_articles/24545425.ext.json)
 
 ---

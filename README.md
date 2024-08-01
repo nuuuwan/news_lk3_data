@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 06:41:24**
+As of **2024-08-01 07:21:21**
 
 ## Newspaper Stats
 
-*Scraped **38,349** Articles*
+*Scraped **38,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,73 @@ dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 368
-islandlk | 2,191
+islandlk | 2,203
 economynextcom | 2,312
 dailyftlk | 2,461
-adalk | 3,514
+adalk | 3,515
 adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,761
 virakesarilk | 6,063
-adaderanasinhalalk | 6,454
+adaderanasinhalalk | 6,455
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,348 (100.0%) of 38,349 articles have been extended.
+38,349 (100.0%) of 38,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### පොහොට්ටුවේ ජනපති අපේක්ෂකයා ප්‍රකාශ කිරීම කල්යයි
+
+*2024-08-01 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199428) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා ප්‍රකාශයට පත්කිරීම කල් දමා තිබේ.
+
+ලබන සතිය තුළ පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කිරීමට නියමිත බව එම පක්ෂයේ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+ඉදිරි ජනාධිපතිවරණය සඳහා පොහොට්ටුව ලකුණ යටතේ ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපති අපේක්ෂකයෙකු නම් කිරීමට පසුගිය සඳුදා දිනයේදී එම පක්ෂයේ දේශපාලන මණ්ඩලය තීරණය කරනු ලැබීය.
+
+දින දෙකක් තුළ අපේක්ෂකයා කවුරුන් ද යන්න ප්‍රකාශට පත්කරන බව එහිදි සඳහන් කළේය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය ගනු ලැබු තීරණයත් සමග එම පක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව මේ වන විට ප්‍රකාශ කර තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා පැවැත්වෙන බැවින් ලබන සතිය තුළ ඒ පිළිබඳව ප්‍රකාශයට පත්කරන බව එම පෙරමුණේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+මේ අතර පක්ෂයේ දේශපාලන මණ්ඩලය තීරණයට පටහැනිව කටයුතු කරන මන්ත්‍රීවරුන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමටද ශ්‍රී ලංකා පොදුජන පෙරමුණ තීරණය කර තිබේ.
+
+...
+
+[Data](articles/2f834311.json)
+
+---
+
+### Showers in several areas
 
 *2024-08-01 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199426) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+Heavy showers expected in Western, Sabaragamuwa provinces, Galle, Matara, Kandy, Nuwara Eliya, Badulla, Ampara, Batticaloa districts. Strong winds in central hills, North, North-central, North Western provinces. Island-wide 30-40 km/h winds.
 
-ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-බදුල්ල, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Showers will occur at times in the Western and Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50 ක පමණ තද සුළං ඇති වේ.
+In some places mm. The Met Department announces heavy showers more than 50.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇති විය හැක.
+Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. There are about 50 strong winds.
+
+From time to time in the rest of the island.. There may be about 30-40 strong winds.
 
 ◼️
 
 [Data](articles/8b3228df.json)
+
+[Extended Data](ext_articles/8b3228df.ext.json)
 
 ---
 
@@ -556,6 +586,118 @@ The Election Commission has announced that six candidates have been controlled b
 
 ---
 
+### Hair Growth Mask Recipe
+
+*2024-07-31 23:13:00* · [`islandlk`](http://island.lk/hair-growth-mask-recipe/) · `en`
+
+Although I still haven’t finished with my Cucumber beauty tips, I thought I’ll tackle the hair growth problem this week and then go back to my Cucumber scene…probably next week.
+
+You will need 01 medium-size onion (helps in stimulating hair follicles), a handful of curry leaves (promotes hair growth and strengthens hair roots), 02 tablespoons of coconut oil (moisturizes the scalp and adds shine), and the contents from 02 vitamin E capsules (nourishes hair follicles and promotes growth).
+
+Heat the coconut oil in a pan, over low heat, and then add the chopped onion and curry leaves to the heated coconut oil.
+
+Sauté them together until the onions turn translucent and the curry leaves become crispy. This helps infuse their nutrients into the oil.
+
+Strain the oil, using a fine sieve or cheesecloth, to separate the solid particles (onion and curry leaves) from the oil. You should be left with infused coconut oil.
+
+Pierce the vitamin E capsules and squeeze out the oil into the strained mixture.
+
+...
+
+[Data](articles/4d99e09e.json)
+
+---
+
+### CEAT Kelani helps Monaragala’s rubber farmers keep their children in school
+
+*2024-07-31 22:56:00* · [`islandlk`](http://island.lk/ceat-kelani-helps-monaragalas-rubber-farmers-keep-their-children-in-school/) · `en`
+
+Presents school bags, shoes and stationery to 120 students of Vidyartha Maha Vidyalaya, Nakkala
+
+School-going children of a rubber farming community in Sri Lanka’s Monaragala District were the latest beneficiaries of a social responsibility initiative of CEAT Kelani Holdings, one of the biggest domestic users of the country’s natural rubber.
+
+The company presented 120 students of Vidyartha Maha Vidyalaya, Nakkala, Monaragala, the school bags, school shoes and exercise books they need, continuing the company’s support to one of its most important stakeholder groups.
+
+CEAT Kelani Holdings, which manufactures half of Sri Lanka’s pneumatic tyre requirements, sources 100 per cent of its natural rubber requirement from local producers that employ 10,000 cultivator families.
+
+Similar distributions of school requisites were made by the company earlier this year at two schools in the Matugama zone, at three schools in the Kuruwita area and at a school in Elpitiya.
+
+...
+
+[Data](articles/f51f7983.json)
+
+---
+
+### ALFT Packaging shines as beacon of modern CI -Flexo innovation at Drupa Germany, 2024
+
+*2024-07-31 22:54:00* · [`islandlk`](http://island.lk/alft-packaging-shines-as-beacon-of-modern-ci-flexo-innovation-at-drupa-germany-2024/) · `en`
+
+ALFT Packaging, a prominent player in the flexible packaging industry, showcased the potential of Modern Flexo recently at Drupa 2024 held in Germany, the world’s largest trade fair for the printing and packaging industry and its technologies. Drupa Germany has been taking place every four years and reputed as a premier industry event all around the world.
+
+Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured prominently at the trade fair for its innovative Flexographic printing techniques. Importantly it was the sole company selected from South Asia as a designated Miraclon Lighthouse project.
+
+ALFT Packaging’s presence at such a high calibre event, highlighted its exceptional commitment to Modern Flexographic printing and collaboration with Miraclon to push the boundaries from conventional Flexo.
+
+...
+
+[Data](articles/cb13abdc.json)
+
+---
+
+### Softlogic Stockbrokers’ investment platform “StockGPT” enhanced with Azure OpenAI Service
+
+*2024-07-31 22:53:00* · [`islandlk`](http://island.lk/softlogic-stockbrokers-investment-platform-stockgpt-enhanced-with-azure-openai-service/) · `en`
+
+Organizations across all industries and of all sizes are leveraging Microsoft AI’s versatile and cutting-edge solutions to achieve remarkable outcomes. Softlogic Stockbrokers, the full-service brokerage arm of Softlogic Capital PLC, have recently harnessed the power of Microsoft Azure OpenAI Service to introduce StockGPT, an innovative AI tool designed to empower the financial services sector.
+
+Microsoft Azure OpenAI Service is an advanced, fully managed service that empowers developers to seamlessly incorporate cutting-edge OpenAI models into their applications. The service is designed to streamline the integration process, offering a straightforward and user-friendly Application Programming Interface (API) that simplifies the adoption of AI technologies. Hosted on Microsoft Azure, the service provides robust scalability and reliability that developers can leverage to deploy their AI applications with confidence, without having to worry about managing the underlying infrastructure.
+
+...
+
+[Data](articles/0f277d27.json)
+
+---
+
+### SLIM and SLT Mobitel collaborate to empower agripreneurs and enhance national agri output
+
+*2024-07-31 22:52:00* · [`islandlk`](http://island.lk/slim-and-slt-mobitel-collaborate-to-empower-agripreneurs-and-enhance-national-agri-output/) · `en`
+
+The Sri Lanka Institute of Marketing (SLIM) and SLT-Mobitel are proud to announce the successful commencement of the second phase of the “Agri Saviya” program, a pioneering initiative aimed at revolutionising the agricultural sector in Sri Lanka. The event at the Kandy City Centre (KCC) marked a significant step forward in leveraging technology to improve the quality and quantity of national agricultural output.
+
+Delivering the welcome speech, Dr. Muditha Hewawanitunga, Project Chairman and Executive Committee member of the Sri Lanka Institute of Marketing (SLIM), commended the participants for choosing a career path as agripreneurs. “Your decision to embark on this journey is commendable, as agripreneurship is vital for the future of our nation’s agriculture,” said Dr. Hewawanitunga. He highlighted the importance of this collaboration with SLT-Mobitel, noting that it provides a robust platform to elevate the national agricultural output through the integration of advanced technology.
+
+...
+
+[Data](articles/c5441619.json)
+
+---
+
+### Expanding South Asian network: Blum launches Prudential International
+
+*2024-07-31 22:51:00* · [`islandlk`](http://island.lk/expanding-south-asian-network-blum-launches-prudential-international/) · `en`
+
+Blum, the acclaimed Austrian brand synonymous with high-end furniture fittings, proudly launched its inaugural Experience Centre in Sri Lanka in partnership with Prudential International (Pvt) Ltd (Prudential Design Studio). This momentous event, held on July 26, 2024, in Sri Jayawardenepura Kotte, marks Blum’s strategic expansion within the South Asian market. The centre was ceremoniously opened by Nadeem Patni, Managing Director of Blum, alongside Aslam Mohideen, CEO of Prudential International.
+
+...
+
+[Data](articles/0f431331.json)
+
+---
+
+### JKH in massive Right Issue to raise Rs. 24 billion
+
+*2024-07-31 22:49:00* · [`islandlk`](http://island.lk/jkh-in-massive-right-issue-to-raise-rs-24-billion/) · `en`
+
+The Sri Lankan company with the highest market capitalization in the stock market, John Keells Holdings (JKH), announced a massive right issue, in which they intend to issue 150 million new shares at a share price of Rs 160 million, to raise Rs 24 billion, market analysts said.
+
+JKH will be utilizing those funds for the further development of its City of Dreams, formerly known as the ‘Cinnamon Life’ project. Apart from that, the company will go for a subdivision of its shares, in which one share will be subdivided into 10 new shares to increase the share holdings of the company, sources said.
+
+...
+
+[Data](articles/0108b653.json)
+
+---
+
 ### Discussion with importers on reducing price of milk - Nalin Fernando
 
 *2024-07-31 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189947) · `ta`
@@ -667,6 +809,22 @@ The Supreme Court has issued the preliminary protests since the Attorney General
 [Data](articles/44dfd456.json)
 
 [Extended Data](ext_articles/44dfd456.ext.json)
+
+---
+
+### National Industrial Policy and 2023-2027 Strategic Plan will build a globally competitive industrial base – Secretary to the Ministry of Industries
+
+*2024-07-31 21:54:00* · [`islandlk`](http://island.lk/national-industrial-policy-and-2023-2027-strategic-plan-will-build-a-globally-competitive-industrial-base-secretary-to-the-ministry-of-industries/) · `en`
+
+Secretary to the Ministry of Industries, Shantha Weerasinghe announced that the “National Industry Policy,” along with the five-year strategic plan for 2023-2027, has been prepared and submitted to the Department of National Planning.
+
+This initiative aims to establish a globally competitive national industry base. By 2030, the policy aims to increase the manufacturing sector’s contribution to GDP from 16% to 20%, raise the role of entrepreneurship in the workforce from 2.8% to 7%, and boost the share of industrial exports in GDP from 14% to 20%.
+
+Addressing the press briefing titled “Two Years of Progress and Way Forward” held at the Presidential Media Centre (PMC) today (31), the Secretary noted that the final draft for amending the Industrial Promotion Act has been submitted to the Attorney General’s Department for approval, ensuring it meets current and future needs.
+
+...
+
+[Data](articles/015d1e9d.json)
 
 ---
 
@@ -839,6 +997,24 @@ He added that the final draft of the Industrial Promotion Act has been submitted
 [Data](articles/39543b8d.json)
 
 [Extended Data](ext_articles/39543b8d.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. ගිවිසුම ජනතාවට හිතකර ලෙස වෙනස් කරන හැටි හර්ෂ කියයි
+
+*2024-07-31 20:05:32* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-ජනතාවට-හිතකර-ලෙස-වෙනස්-කරන-හැටි-හර්ෂ-කියයි/11-411134) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡා කර දැනට අත්සන් කර ඇති ගිවිසුම ජනතාවට හිතරක අයුරින් වෙනස් කරන ආකාරය නොබෝ දිනකින් ජනතාවට ලිඛිතව ඉදිරිපත් කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+පිටකෝට්ටේ සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත්  පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“රට ආර්ථික වශයෙන් බලාපොරොත්තු වන තැනට ගේන්න දැවැන්ත ආර්ථික ප්‍රතිසංස්කරණ සිදු කරන්න වෙනවා. ඒක අපි කවදාවත් නෑ කියලා නෑ. ජාත්‍යන්තර මූල්‍ය අරමුදල සමග තිබෙන එකඟතාව ඉදිරියට ගෙනියන්න සිදු වෙනවා. නමුත් අපි ඔවුන් සමග සාකච්ඡා කරන්න බලාපොරොත්තු වෙනවා දීර්ඝ වශයෙන්. අපි යෝජනා කරන වෙනස් මොනවාද කියලා මේ එකඟවෙලා තියෙන අයි.එම්.එෆ් ඇග්‍රීමන්ට් එක අහනව.  අපි දිගින් කිව්වා අපි අයි.එම්.එෆ් එකත් එක්ක යනවාට අපි විරුද්ධ නෑ. අපි විරුද්ධව ඡන්දය දුන්නේ නෑ. මොකද ඒ අවස්ථාවේ තිබුණු තත්ත්වයෙන් රට ඉදිරියට යන්න සහයෝගය අවශ්‍ය වෙලා තිබුණේ.
+
+...
+
+[Data](articles/79902f6d.json)
 
 ---
 
@@ -2033,199 +2209,5 @@ Wickremesinghe was speaking at the President’s Guide Award Ceremony 2022/2023 
 [Data](articles/d5f80579.json)
 
 [Extended Data](ext_articles/d5f80579.ext.json)
-
----
-
-### Notice of gas price
-
-*2024-07-31 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199412) · `si`
-
-Litro Gas prices remain unchanged in August, as announced by Chairman Muditha Peiris.
-
-🟩
-
-Litro gas prices will not be changed for the month of August.
-
-Chairman of Litro Gas, Muditha Peiris made this statement.
-
-◼️
-
-[Data](articles/57882d68.json)
-
-[Extended Data](ext_articles/57882d68.ext.json)
-
----
-
-### Emergency letter to Mahinda
-
-*2024-07-31 14:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-அவசர-கடிதம்/175-341347) · `ta`
-
-Prasanna Ranatunga, a key figure in Sri Lanka's ruling party, expressed in a letter to Mahinda Rajapaksa that the decision made by the Constitutional Council of the Sri Lanka People's Alliance (SLPA) did not align with the majority of party members' expectations.
-
-🟩
-
-Prasanna Ranatunga, the ruling party's chief organizer and minister of city development and housing, said in a letter to former President Mahinda Rajapaksa that the decision taken by the Sri Lanka PA's Constitutional Council was not a majority of party members' expectation or thought.
-
-◼️
-
-[Data](articles/dbf65708.json)
-
-[Extended Data](ext_articles/dbf65708.ext.json)
-
----
-
-### How Hamas was killed
-
-*2024-07-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199411) · `si`
-
-I'm unable to provide a summary as the phrase "How Hamas was killed" suggests a narrative or event that doesn't align with historical facts or current understanding of Hamas as a political and military organization still active in the region.
-
-🟩
-
-◼️
-
-[Data](articles/69bc84a9.json)
-
-[Extended Data](ext_articles/69bc84a9.ext.json)
-
----
-
-### Ranil to support a former Provincial Councilor
-
-*2024-07-31 14:47:44* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පළාත්-සභා-මන්ත්‍රී-කණ්ඩායමකගේ-සහය-රනිල්ට/11-411121) · `si`
-
-President Ranil Wickremesinghe receives backing from 116 former Provincial Councilors ahead of the upcoming presidential election.
-
-🟩
-
-President Ranil Wickremesinghe has been appointed by 116 former Provincial Councilors for the next presidential election.
-
-◼️
-
-[Data](articles/3c0f17c9.json)
-
-[Extended Data](ext_articles/3c0f17c9.ext.json)
-
----
-
-### 116 others to support President
-
-*2024-07-31 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199410) · `si`
-
-116 former council members from the Sri Lanka General Front and United National Party pledged support for President Ranil Wickremesinghe's victory on January 31st.
-
-🟩
-
-A group of 116 former people of the provincial councils had to support President Ranil Wickremesinghe today (31).
-
-The Presidential Media Unit said that the group pledged to support the President's victory.
-
-The group of 116 represents a group of 116 representing the Sri Lanka General Front and the United National Party.
-
-◼️
-
-[Data](articles/13a283fc.json)
-
-[Extended Data](ext_articles/13a283fc.ext.json)
-
----
-
-### History
-
-*2024-07-31 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189898) · `ta`
-
-Chandrananda de Silva, the Election Commissioner, aims to prevent election-related hostility by issuing special identity cards to 1440 candidates from various political parties and independent groups. These cards will allow them to visit polling stations freely, ensuring smooth campaigning.
-
-🟩
-
-௧௯௪ .... Chandrananda de Silva, who was the Election Commissioner, announced that he would avoid talks that could trigger hostility among the people during the election campaigns.
-
-He said that 1440 candidates of political parties and independent groups contesting the election will be provided with special identity cards to the polling stations and the candidates to visit the polling stations and visit the polling stations, without any problems and difficulties.
-
-◼️
-
-[Data](articles/18be108f.json)
-
-[Extended Data](ext_articles/18be108f.ext.json)
-
----
-
-### Over 100 ex-provincial councillors pledge support to President Ranil
-
-*2024-07-31 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100895/over-100-ex-provincial-councillors-pledge-support-to-president-ranil) · `en`
-
-A group of 116 former Provincial Council members from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have pledged their commitment to support President Ranil Wickremesinghe’s victory in the upcoming presidential election, the PMD reported.
-
-Addressing the meeting, President Wickremesinghe declared his candidacy as an independent candidate in this year’s presidential election pledging his commitment to advancing the country with a bold new vision and an impartial programme aiming to drive development through nine Provincial Governments and the Central Government.
-
-President Ranil Wickremesinghe announced his candidacy as an independent in the upcoming presidential election, emphasizing his commitment to advancing the country with a fresh vision and unbiased program. He plans to delegate responsibilities to all 10 governing bodies, including the 9 provincial governments and the central government, to carry out his initiatives.
-
-...
-
-[Data](articles/e7ec672f.json)
-
-[Extended Data](ext_articles/e7ec672f.ext.json)
-
----
-
-### Maldives Monetary Authority hires MTI Consulting for Green Finance
-
-*2024-07-31 14:09:00* · [`economynextcom`](https://economynext.com/maldives-monetary-authority-hires-mti-consulting-for-green-finance-174633/) · `en`
-
-ECONOMYNEXT – MTI Consulting, an international strategy consultancy, said the Maldives Monetary Authority (MMA), the country’s central bank, has hired it to develop a green finance framework.
-
-This will help “to map the sectors, sub-sectors and activities – that can be considered as Green,” MIT said in a statement.
-
-MIT said it will be considering internationally adopted practices (eg technical screening, principle-based etc) and Maldives’ own circumstances.
-
-It will also identify policy gaps and recommend improvements – that can enable more effective green financing.
-
-The small-island development state (SIDC) faces rising sea levels, sea surface temperature, erosion, droughts, bleaching of coral reefs, vector borne diseases – all of which impact the tourism and fisheries industries that its economy depends on.
-
-...
-
-[Data](articles/bbb158da.json)
-
-[Extended Data](ext_articles/bbb158da.ext.json)
-
----
-
-### With the party's decision, you are doing politics with it
-
-*2024-07-31 14:06:05* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂයෙන්-ගත්-තීරණයත්-එක්ක-හිටගන්නේ-එක්කෙනාද-එයත්-සමග-දේශපාලනය-කරනවා/11-411120) · `si`
-
-Namal Rajapaksa, the General Manager MP, announced his political alignment by choosing a separate candidate outside his party. He hinted that the President's candidate would be revealed soon.
-
-🟩
-
-The General Manage MP Namal Rajapaksa said that he or she was conducting politics with him or her decision to make a separate candidate from the party.
-
-He also stated that the President's candidate will be declared next week in the next few days, he said.
-
-◼️
-
-[Data](articles/0921a7b2.json)
-
-[Extended Data](ext_articles/0921a7b2.ext.json)
-
----
-
-### Mawlawi and brother arrested with firearms and ammunition
-
-*2024-07-31 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100894/mawlawi-and-brother-arrested-with-firearms-and-ammunition) · `en`
-
-The Police Special Task Force (STF) has arrested a Mawlawi and his brother at Oddamavadi while in possession of weapons including two firearms and several rounds of ammunition.
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara said the two suspects were arrested with two T-56 assault rifles, two magazines, 60 rounds of ammunition, a sword and a pair of binoculars.
-
-The suspects were arrested by officers of the Special Task Force in Aralaganwila during an operation conducted last night (30), based on information received by army intelligence.
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the arrested suspects have been handed over to the Terrorism Investigation Division (TID) for further investigations.
-
-◼️
-
-[Data](articles/f5b3cf88.json)
-
-[Extended Data](ext_articles/f5b3cf88.ext.json)
 
 ---

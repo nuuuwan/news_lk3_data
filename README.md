@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 21:55:48**
+As of **2024-08-01 22:09:15**
 
 ## Newspaper Stats
 
-*Scraped **38,516** Articles*
+*Scraped **38,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,539
+adalk | 3,540
 adaderanalk | 4,453
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,787
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,516 (100.0%) of 38,516 articles have been extended.
+38,516 (100.0%) of 38,517 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -281,6 +281,24 @@ The independent candidates are President Ranil Wickremesinghe and former MP Sara
 [Data](articles/0c02f368.json)
 
 [Extended Data](ext_articles/0c02f368.ext.json)
+
+---
+
+### මැද පෙරදිග තත්ත්වය දුරදිග ගියොත් මුහුණ දීමට පියවර ගෙන තිබෙනවා
+
+*2024-08-01 18:45:02* · [`adalk`](https://www.ada.lk/breaking_news/මැද-පෙරදිග-තත්ත්වය-දුරදිග-ගියොත්-මුහුණ-දීමට-පියවර-ගෙන-තිබෙනවා/11-411155) · `si`
+
+මැද පෙරදිග මතු වී ඇති තත්ත්වය අර්බුදයක් දක්වා දුරදිග ගියහොත් ඊට මුහුණ දීමට පූර්ව සූදානමක් වශයෙන් විශේෂ කමිටු තුනක් පත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලැබූ තීරණය ඉතා කාලෝචිත ක්‍රියාවක් බව විදේශ කටයුතු අමාත්‍ය, ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පැවසීය.
+
+ජාත්‍යන්තර වශයෙන් සිදුවන ක්‍රියාකාරකම් පාලනය කළ නොහැකි වුවත් එය හේතුවක් කරගෙන රටක් කඩාවැටෙන තෙක් බලා සිටිය යුතු නොමැති බව සඳහන් කළ අමාත්‍යවරයා මතු විය හැකි ඕනෑම තත්ත්වයකට මුහුණ දීමට අවශ්‍ය පියවර ගෙන තිබෙන බවද පෙන්වා දුන්නේය.
+
+විදේශ කටයුතු අමාත්‍ය, ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ශ්‍රී ලංකාව තවත් වෙනිසියුලාවක් වීමට ඉඩ නොදී ආර්ථික වශයෙන් ස්ථාවර තත්ත්වයකට පත් කිරීමට හැකි වූයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දුරදක්නා තීන්දු තීරණ හේතූ වූ බවත්, එම නිසා රට ගොඩනැඟීමට ජනාධිපතිවරයා ගෙන යන වැඩපිළිවෙළට පක්ෂ දේශපාලනය පසෙක තබා සහාය දීම සියලු දෙනාගේ වගකීම බවත් ඒ මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/6817dbeb.json)
 
 ---
 
@@ -2257,27 +2275,5 @@ He played 40 Tests for India and 15 ODIs.
 [Data](articles/e6ec1e02.json)
 
 [Extended Data](ext_articles/e6ec1e02.ext.json)
-
----
-
-### Orthopaedic Clinic gets 13-pct stake in Sri Lanka’s Overseas Realty
-
-*2024-08-01 10:56:00* · [`economynextcom`](https://economynext.com/orthopaedic-clinic-gets-13-pct-stake-in-sri-lankas-overseas-realty-174785/) · `en`
-
-ECONOMYNEXT – Sri Lanka property developer Overseas Realty (Ceylon) Plc said Orthopaedic Clinic Pte Ltd had obtained a 13 percent stake in the company.
-
-Orthopaedic Clinic Pte Ltd purchased 163,032,386 shares at the price of 18.00 rupees on July 31.
-
-The transaction contributed in excess of 2.9 billion rupees and pushed the Colombo Stock Exchange turnover level to 3.9 billion on Wednesday.
-
-“Subsequent to the said transaction our client Orthopaedic Clinic Pte Ltd holds a total of 163,032,386 shares of Overseas Realty (Ceylon) PLC which is 13% of the company’s issued share capital,” the company said in a stock exchange filing.
-
-The company’s property portfolio includes the World Trade Centre in Colombo’s business district, and the 18-acre Havelock City mixed-use development project Havelock City and Mireka Tower. (Colombo/Aug1/2024
-
-◼️
-
-[Data](articles/b8b62bd2.json)
-
-[Extended Data](ext_articles/b8b62bd2.ext.json)
 
 ---

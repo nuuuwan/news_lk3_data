@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 04:54:37**
+As of **2024-08-02 05:05:54**
 
 ## Newspaper Stats
 
@@ -26,69 +26,99 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,527 (100.0%) of 38,536 articles have been extended.
+38,533 (100.0%) of 38,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### மஹிந்த ராஜபக்ஷ பூமியை முத்தமிட்டு நாட்டை அழித்துவிட்டார்; நான் அதிகாரத்துக்கு வந்தால் நாட்டு வளங்களில் ஒரு சதமேனும் விற்பனை செய்வதற்கு இடமளிக்கமாட்டேன் - விஜேதாச ராஜபக்ஷ்
+### Mahinda Rajapaksa kissed the earth and destroyed the country;If I come to power, I will not allow a cent to be sold in the country's resources - Wijeyadasa Rajapaksa
 
 *2024-08-02 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190052) · `ta`
 
-நான் அமைச்சரவையில் இருந்திருக்காவிட்டால் 2024ஆம் ஆண்டிலும் ஜனாதிபதி தேர்தல் இடம்பெற்றிருக்காது. அது தொடர்பான தகவல்களை பிரிதொரு சந்தர்ப்பத்தில் வெளிப்படுத்துவேன். நாட்டுக்கு எதிராக கொண்டுவரப்பட்ட எந்த பிரேரணைக்கும் நான் பங்காளியாகவில்லை. அதனாலே பலதடவைகள் அமைச்சரவையில் இருந்து ஒதுக்கப்பட்டேன். மஹிந்த ராஜபக்ஷ் பூமியை முத்தமிட்டு நாட்டை அழித்துவிட்டார். நான் அதிகாரத்துக்கு வந்தால் நாட்டு வளங்களில் ஒரு சதமேனும் விற்பனை செய்வதற்கு இடமளிக்கமாட்டேன் என்ற உறுதியை வழங்குகிறேன் என தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Wijeyadasa Rajapaksa promises not to sell the country's resources if elected, criticizing Mahinda Rajapaksa for destroying the nation. He claims credit for enacting numerous laws despite opposition and vows to address issues like national unity and the misuse of the Central Bank.
 
-எமக்கு ஒரு நாடு எனும் தொனிப்பொருளில்  ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ்வின் வெற்றிப்பயணத்துக்கான ஆசிர்வாத கூட்டம் வியாழக்கிழமை (1) இலங்கைமன்ற கல்லூரியில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+If I had not been in the Cabinet, the presidential election would not have been held in 2024. I will reveal information about it on the occasion. I am not partner for any proposal brought against the country. That is why I have been reserved from the Cabinet several times. Mahinda Rajapakse kissed the earth and destroyed the country. "I will not be allowed to sell a cent of the country's resources if I come to power," said Wijedasa Rajapaksa, the presidential candidate of the National Democratic Front. "
+
+The Blessing Meeting of the Democratic Front's presidential candidate, Wijeyadasa Rajapakse, was held on Thursday (1) at the Sri Lanka Assembly College.. He said this while addressing the gathering.
 
 ...
 
 [Data](articles/c30206cb.json)
 
+[Extended Data](ext_articles/c30206cb.ext.json)
+
 ---
 
-### மத்திய கிழக்கில் ஏற்பட்டுள்ள பதட்ட நிலைமை தொடர்ந்தால் அதற்கு முகங்கொடுக்கத் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன - அலி சப்ரி
+### If the tension in the Middle East continues, the necessary steps have been taken to face -Ali Sabri
 
 *2024-08-02 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190051) · `ta`
 
-மத்திய கிழக்கில் நிலவும் பதட்ட நிலை தொடர்ந்தால் அதனை எதிர்கொள்வது தொடர்பில் முன்கூட்டிய தயார்நிலைக்காக மூன்று விசேட குழுக்களை நியமிக்க ஜனாதிபதி ரணில் விக்ரமசிங்க எடுத்த தீர்மானம், மிகவும் சரியானதாகும் என வெளிநாட்டலுவல்கள் அமைச்சரும் ஜனாதிபதி சட்டத்தரணியுமான அலி சப்ரி தெரிவித்தார்.
+Foreign Affairs Minister Ali Sabri supports President Ranil Wickremesinghe's proactive measures to prepare for potential Middle Eastern tensions, highlighting the importance of not waiting until crises impact the country. Sabri commends Wickremesinghe's leadership in achieving economic stability and navigating international challenges, including securing IMF support and reviving suspended projects worth $1.1 billion. The minister emphasizes the need for vigilance and preparedness, as seen in the appointment of special committees for national security and economic stability, and calls for unity in supporting Wickremesinghe's economic program to avoid future crises.
 
-சர்வதேச செயற்பாடுகளை கட்டுப்படுத்த முடியாவிட்டாலும், அதன் காரணமாக நாடு வீழ்ச்சியடையும் வரை பார்த்துக்கொண்டிருக்கத் தேவையில்லை எனத் தெரிவித்த அமைச்சர், ஏற்படக்கூடிய எந்தவொரு சூழ்நிலையையும் எதிர்கொள்ளத் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாகவும் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் அலி சப்ரி இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe's decision to appoint three special committees for premature preparation for the prevailing tension in the Middle East is very correct, said Foreign Affairs Minister and President's Attorney Ali Sabri.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தொலைநோக்குப் பார்வையால்தான் இலங்கை இன்னொரு வெனிசுலாவாக மாறாமல் பொருளாதார ரீதியில் ஸ்திரமான நிலைக்கு கொண்டுவர முடிந்தது என்றும், எனவே கட்சி அரசியலை புறந்தள்ளிவிட்டு நாட்டைக் கட்டியெழுப்பும் ஜனாதிபதியின் வேலைத்திட்டத்திற்கு ஆதரவளிப்பது அனைவரினதும் பொறுப்பாகும் என அமைச்சர் வலியுறுத்தினார்.
+The Minister pointed out that even though international activities are not able to control, it is not necessary to look until the country is falling.
+
+Minister Ali Sabri said this at a media briefing held at the Presidential Media Center on Thursday (01).
+
+It was with the vision of President Ranil Wickremesinghe that Sri Lanka was able to bring in an economic stability and economically stable, so it was the responsibility of the Minister to support the president's program to overthrow the country.
 
 ...
 
 [Data](articles/79120909.json)
 
+[Extended Data](ext_articles/79120909.ext.json)
+
 ---
 
-### இந்திய மீனவர் உயிரிழப்பு விவகாரம்: டில்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகரை அழைத்து கடும் எதிர்ப்பை வெளிப்படுத்திய இந்தியா
+### India
 
 *2024-08-02 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190050) · `ta`
 
-இந்திய மீனவரொருவர் உயிரிழந்து, பிறிதொருவர் காணாமல்போன சம்பவம் தொடர்பில் டில்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகரிடம் தமது வலுவான எதிர்ப்பை வெளிப்படுத்தியுள்ள இந்திய வெளிவிவகார அமைச்சு, மீனவர் விவகாரத்தை மனிதாபிமான அணுகுமுறையுடன் கையாளவேண்டும் எனும் இருநாடுகளுக்கு இடையிலான புரிந்துணர்வை இறுக்கமாகப் பின்பற்றவேண்டியதன் அவசியத்தையும் வலியுறுத்தியுள்ளது.
+India strongly opposes Sri Lanka after an Indian fisherman dies and another goes missing in a boat collision with a Sri Lankan navy ship near Kachchativu. Both countries express shock and offer condolences. India emphasizes the importance of a humanitarian approach and urges strong adherence to agreements to prevent such incidents.
 
-நெடுந்தீவை அண்மித்த கடற்பரப்பில் 01 ஆம் திகதி வியாழக்கிழமை அதிகாலை இந்திய மீன்பிடி படகும், இலங்கை கடற்படைக்கு சொந்தமான கப்பலும் மோதிய சம்பவத்தில் இந்திய மீனவர் ஒருவர் உயிரிழந்திருப்பதுடன், மேலும் ஒருவர் காணாமல்போயுள்ளார். இச்சம்பவம் தொடர்பில் டெல்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகரிடம் தமது எதிர்ப்பைக் காட்டமாக வெளிப்படுத்திய இந்திய வெளிவிவகார அமைச்சு, இதுகுறித்து ஊடக அறிக்கையொன்றையும் வெளியிட்டுள்ளது. அவ்வறிக்கையில் சுட்டிக்காட்டப்பட்டிருப்பதாவது:
+🟩
+
+The Indian Foreign Ministry has expressed its strong opposition to the Sri Lankan High Commission in Delhi over the death of an Indian fisherman and the disappearance of another Indian fisherman.
+
+An Indian fisherman was killed and one another disappeared in a collision with an Indian fishing boat and a Sri Lankan navy's ship on the morning of Thursday, the 01st of Thursday.. The Indian Foreign Ministry has issued a media statement on the incident in which the Sri Lankan reply in Delhi has expressed his opposition to the High Commissioner in Delhi.. The report is indicated:
+
+A Sri Lankan navy ship and Indian fishing boat crashed 5 miles north of Kachchativu on Thursday morning (1). Unfortunately one of the four of them died and the other disappeared.
 
 ...
 
 [Data](articles/c9cf6e49.json)
 
+[Extended Data](ext_articles/c9cf6e49.ext.json)
+
 ---
 
-### கொழும்பில் பலதரப்பு சந்திப்புக்களை முன்னெடுத்துவரும் சர்வதேச நாணய நிதிய அதிகாரிகள்
+### International Monetary Fund Officers who are holding multiple meetings in Colombo
 
 *2024-08-02 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190049) · `ta`
 
-இலங்கையின் சமகால பொருளாதார நிலைவரம் மற்றும் மறுசீரமைப்புக்களில் அடையப்பட்டுள்ள முன்னேற்றம் தொடர்பில் ஆராயும் நோக்கில் இலங்கைக்கு வருகைதந்துள்ள சர்வதேச நாணய நிதிய அதிகாரிகள் குழு, ஜனாதிபதி, எதிர்க்கட்சித்தலைவர் உள்ளிட்ட பல்வேறு தரப்பினரைச் சந்தித்துப் பேச்சுவார்த்தைகளை நடத்தியுள்ளது.
+IMF officers, led by Peter Brouver, visited Colombo for economic discussions with Sri Lanka's President, Central Bank Governor, Treasury Secretary, business leaders, and opposition figures. The visit aims to assess the impact of the country's financial reforms under IMF guidance. A media briefing will conclude the visit, likely announcing the next steps in Sri Lanka's economic strategy.
 
-சர்வதேச நாணய நிதியத்துடன் இலங்கையினால் எட்டப்பட்ட விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டத்தின்கீழ் நாட்டின் பொருளாதாரத்தில் அடையப்பட்டுள்ள சாதக மாற்றங்கள் மற்றும் நாணய நிதியத்தினால் விதிக்கப்பட்ட நிபந்தனைகளை நடைமுறைப்படுத்துவதில் எட்டப்பட்டுள்ள முன்னேற்றங்கள் என்பன தொடர்பில் ஆராயும் நோக்கில் சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான செயற்திட்டப்பிரதானி பீற்றர் ப்ரூவர் தலைமையிலான அதிகாரிகள் குழுவினர் கொழும்புக்கு வருகைதந்துள்ளனர்.
+🟩
 
-...
+The International Monetary Finance Committee of Sri Lanka has held talks with various parties, including the President and the Leader of the Opposition.
+
+A team of officials led by the International Monetary Fund, Peter Brouver, have visited Colombo to investigate the pros and cons of the country's economy under the expanded financial system reached with the International Monetary Fund and the advances imposed by the Monetary Fund.
+
+They have held talks with President Ranil Wickremesinghe, Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, representatives of the Opposition Leader Sajith Premadasa, Leaders of Business Organizations and Trade Union Funds.
+
+The IMF officials intend to hold a media briefing at the conclusion of the meeting, which will announce their observations and positions.. It is expected to be a third phase of the IMF officials on Sri Lanka's expanded financial process.
+
+◼️
 
 [Data](articles/a64ab1f2.json)
+
+[Extended Data](ext_articles/a64ab1f2.ext.json)
 
 ---
 
@@ -180,21 +210,27 @@ The petition was called before Vijith Malalgoda, Mustru Fernando and Yasantha Ko
 
 ---
 
-### கட்சி தீர்மானிக்கும் பட்சத்தில் ரணிலை ஆதரிக்கவும் தயார் - மஹிந்த ராஜபக்ஷ
+### Mahinda Rajapaksa is ready to support Ranil if the party decides
 
 *2024-08-01 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190048) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவுக்கு ஆதரவு தெரிவிக்க தமது கட்சி தீர்மானிக்கும் பட்சத்தில் அதற்கு நான் ஆதரவு வழங்குவேன் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவரும், முன்னாள் ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+Mahinda Rajapaksa, former president, states he'll back Ranil Wickremesinghe if his party agrees. He clarified his stance during a press query, emphasizing the decision lies with the party, not him.
 
-மேலும் மேற்குறித்த கருத்தானது ஊடகவியலாளர் ஒருவர் எழுப்பிய கேள்விக்கு பதிலளித்த போதே அவர் இதனைக் குறிப்பிட்டார்.
+🟩
 
-ஊடகவியலாளர் ஒருவர் முன்னாள் ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷவிடம் ஜனாதிபதி ரணில் விக்கிரமசிங்வுக்கு இன்னும் ஆதரவு இருக்கின்றதா? என கேள்வியை எழுப்பினார்.
+Former President and former President Mahinda Rajapakse said that if his party decides to support Ranil Wickremesinghe in the upcoming presidential election, I will support it.
 
-அதற்கு கட்சியே தீர்மானிக்க வேண்டும். நான் இல்லை. தீர்மானத்தை மாற்ற வேண்டும் என கட்சி கூறினால், அதனையும் செய்வேன் என மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+He also said this while responding to a question raised by a journalist.
+
+Does President Ranil Wickremesinghe still support a journalist Mahinda Rajapaksa?He raised the question.
+
+The party must decide. Not me. Mahinda Rajapaksa said that if the party says to change the resolution, he will do the same.
 
 ◼️
 
 [Data](articles/9c7f285a.json)
+
+[Extended Data](ext_articles/9c7f285a.ext.json)
 
 ---
 
@@ -420,21 +456,29 @@ The post mortem examination of the deceased girl is to be conducted at the Kandy
 
 ---
 
-### பொதுஜன பெரமுன தனித்து வேட்பாளரை களமிறக்குவது சிறந்தது - ஐக்கிய குடியரசு முன்னணி
+### It is best to field a PA
 
 *2024-08-01 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190021) · `ta`
 
-மஹிந்த ராஜபக்ஷ தலைமையிலான ஸ்ரீ லங்கா பொதுஜன ஜனாதிபதி தேர்தலில் தனித்து வேட்பாளரை களமிறக்குவது சிறந்தது.நாட்டை வங்குரோத்து நிலைக்கு தள்ளிய ராஜபக்ஷர்களுக்கு நாட்டு மக்கள் தகுந்த பாடத்தை இம்முறை கற்பிப்பார்கள் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+The leader of the United Republic of India (UNP) suggests that the people will teach the Rajapaksas a lesson for the country's economic crisis. The High Court has ordered accountability for economic damage from the Rajapaksas, indicating they won't align with any supported political party. Despite this, the PA plans to field a candidate, emphasizing the importance of policy-based decisions in the upcoming presidential election.
 
-கொழும்பில்  வியாழக்கிழமை (01) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதார பாதிப்புக்கு பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷ,பஷில் ராஜபக்ஷ மற்றும் கோட்டபய ராஜபக்ஷ ஆகியோர் பொறுப்புக் கூற வேண்டும் என்று உயர்நீதிமன்றம் தீர்ப்பளித்துள்ளது. ஆகவே ராஜபக்ஷர்கள் ஆதரவளிக்கும் அரசியல் தரப்புடன் ஒருபோதும் ஒன்றிணைய போவதில்லை.
+The leader of the United Republic of India (UNP), Patali Champika Ranawaka, said that this time the people of the country will teach the country's appropriate lesson for the Rajapaksa who put the country in the banks of the Sri Lanka PA.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க போவதில்லை, தமது வேட்பாளரை களமிறக்குவதாக பொதுஜன பெரமுன குறிப்பிட்டுள்ளமை சிறந்ததொரு அரசியல் தீர்மானமாகும். நாட்டை வங்குரோத்து நிலைக்கு தள்ளிய ராஜபக்ஷர்களுக்கு நாட்டு மக்கள் இம்முறை தகுந்த பாடத்தை கற்பிப்பார்கள்.
+He was speaking to the media after a event in Colombo on Thursday (01).
+
+The High Court has ruled that PA Rajapaksa, Basil Rajapaksa and Gotabhaya Rajapaksa should be held accountable for economic impact. Therefore, the Rajapaksas will never unite with the supported political party.
+
+The PA is not going to support President Ranil Wickremesinghe, but the PA is a good political decision to field his candidate. The people of the country will teach the appropriate lesson for the Rajapaksas who have put the country in the bankruptcy.
+
+In the presidential election, the people should make the best decisions for the country based on the policies of the country. I cannot make a personal decision on contesting the presidential election.
 
 ...
 
 [Data](articles/5dbbe9b5.json)
+
+[Extended Data](ext_articles/5dbbe9b5.ext.json)
 
 ---
 

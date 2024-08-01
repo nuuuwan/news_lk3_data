@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 20:20:41**
+As of **2024-08-01 20:36:00**
 
 ## Newspaper Stats
 
-*Scraped **38,509** Articles*
+*Scraped **38,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,82 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,537
+adalk | 3,538
 adaderanalk | 4,452
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,786
 virakesarilk | 6,094
-adaderanasinhalalk | 6,487
+adaderanasinhalalk | 6,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,507 (100.0%) of 38,509 articles have been extended.
+38,509 (100.0%) of 38,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### மாளிகாவத்தையில்  தீப்பரவல்
+### සිඟිත්තියකට අත්වූ ඉරණම
+
+*2024-08-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199461) · `si`
+
+හිසට පොල් ගෙඩියක් වැටීමෙන් සිදුවූ අනතුරකින් මාවනැල්ල නගරයේ පිහිටි පෙර පාසලක ඉගෙනුම ලබමින් සිටි දැරියක් ජීවිතක්ෂයට පත්වී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ මාවනැල්ල මාවාන පාර ප්‍රදේශයේ පදිංචිව සිටි රනුලි හසත්මා එදිරිමාන්න නමැති අවුරුදු තුනහමාරක් වයසැති දැරියකි.
+
+අද (01) උදෑසන 10.45ට පමණ පෙර පාසල් පාලිකාව අදාළ පෙර පාසලේ ගේට්ටුව වැසීම සඳහා පන්ති කාමරයෙන් පිටව යාමේදී මෙම දැරිය සහ තවත් දරුවන් දෙදෙනෙක් පාලිකාව සමග මිදුලට දිවගොස් තිබේ.
+
+පසුව දරුවන් තිදෙනා පාලිකාව සමඟ නැවත පෙර පාසල් ගොඩනැගිල්ල තුළට යමින් සිටියදී පෙර පාසලේ වත්තේ තිබූ පොල් ගසක ගෙඩියක් වැටීමෙන් මෙම දැරිය තුවාල ලබා තිබේ.
+
+දැරිය මාවනැල්ල මූලික රෝහල වෙත ඇතුළත් කර ඇති අතර එහිදී දැරියගේ තත්ත්වය බරපතළ වූ බැවින් මහනුවර ජාතික රෝහල වෙත මාරු කර යාවා තිබුණි.
+
+මියගිය දැරියගේ පශ්චාත් මරණ පරීක්ෂණය මහනුවර ජාතික රෝහලේදී සිදුකිරීමට නියමිත අතර, මාවනැල්ල පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/5e548679.json)
+
+---
+
+### Fire in Maligawatta
 
 *2024-08-01 19:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தையில்-தீப்பரவல்/175-341422) · `ta`
 
-மாளிகாவத்தை பகுதியில் உள்ள இரண்டு மாடிக் கட்டடம் ஒன்றில் தீ பரவியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A fire broke out in a two-storey building in Maligawatta, with three fire trucks sent to contain it.
 
-தீயைக் கட்டுப்படுத்துவதற்கு 3 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளதாகவும்  தீயணைப்புப் பிரிவினர் தெரிவித்துள்ளனர். R
+🟩
+
+A fire has been reported in a two -storey building in the Maligawatta area.
+
+3 fire trucks have been dispatched to control the fire, the fire brigade said. Remble
 
 ◼️
 
 [Data](articles/a1f7f977.json)
 
+[Extended Data](ext_articles/a1f7f977.ext.json)
+
 ---
 
-### நிரந்தர காணி உறுதிப் பத்திரங்கள் குறித்து மகிழ்ச்சியான அறிவிப்பு
+### Happy notice of permanent land guarantees
 
 *2024-08-01 19:27:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-காணி-உறுதிப்-பத்திரங்கள்-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341421) · `ta`
 
-பெருந்தோட்ட மக்களின் உண்மையான சமூகமயமாக்கலுக்கு அவர்கள் அனைவருக்கும் நிரந்தர காணி உறுதி பத்திரங்களை வழங்குவதாகவும், வசிப்பிட உரிமையை இனி சலுகைப் பத்திரத்தில் மட்டுப்படுத்தாமல் இது சம்பந்தமான ஜனாதிபதியின் வேலைத்திட்டம் தொடர்கிறது என பெருந்தோட்ட நிறுவன மறுசீரமைப்பு அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+Dr. Ranjith Siyambalapitiya announced that the President's initiative ensures permanent land rights for plantation workers, enhancing their social status without restricting residency rights. This move aims to address historical injustices faced by plantation communities over 200 years.
 
-சுமார் 200 வருட கால வரலாற்றைக் கொண்ட பெருந்தோட்ட மக்களே தமக்காக உரிமை இல்லாத காணிகளினால் அதிகம் பாதிக்கப்படுவதாக அமைச்சர் குறிப்பிட்டார். R
+🟩
+
+Plantation Reorganization Minister Dr. Ranjith Siyambalapitiya said that the President's program continues to provide permanent land guarantees for the real socialization of the plantation people and the president's program continues without limiting the right to the residence.
+
+The Minister said that the plantation people with about 200 years of history are more affected by land that is not right for themselves.. Remble
 
 ◼️
 
 [Data](articles/bd21ce55.json)
+
+[Extended Data](ext_articles/bd21ce55.ext.json)
 
 ---
 
@@ -191,6 +225,22 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 [Data](articles/7640a930.json)
 
 [Extended Data](ext_articles/7640a930.ext.json)
+
+---
+
+### වැටුණු රට වසර දෙකක් තුළ ගොඩ ගැනීම ආශ්චර්යයක්
+
+*2024-08-01 18:37:02* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණු-රට-වසර-දෙකක්-තුළ-ගොඩ-ගැනීම-ආශ්චර්යයක්/11-411153) · `si`
+
+දරුණු ආර්ථික කඩැවැටීමට ලක්වූ රට වසර දෙකක් වැනි කෙටි කාලයක් තුළ ස්ථාවර තත්ත්වයකට පත් කිරීම ආශ්චර්යයක් බවත් මෙවැනි ආර්ථික කඩාවැටීමට ලක්වු ලෝකයේ වෙනත් කිසිදු රටක් මෙතරම් කෙටි කලකින් ස්ථාවරත්වයක් අත්කරගෙන නොමැති බවත් ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා පැවසීය.
+
+දැනුම පළපුරුද්ද සහ ගෝලීය සබඳතා මත වැටුණු රට ගොඩගැනීමට හැකි එකම නායකයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තෝරා පත්කර ගැනීම නිවැරදි බව ද මේ වන විට තහවුරු වී ඇති බව පෙන්වා දුන් රාජ්‍ය අමාත්‍යාවරයා එබැවින් ඉදිරි වසර පහක කාලය සඳහා ද එම නායකත්වය තෝරා පත්කර ගැනීම යුක්ති සහගත මෙන්ම නිවැරදි තීන්දුව වන බව ද සඳහන් කළේය.
+
+ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+...
+
+[Data](articles/1c4177f5.json)
 
 ---
 
@@ -2201,51 +2251,5 @@ A letter of appointment of UT Santana Jayalal was sent to several officials, inc
 [Data](articles/cfb1a321.json)
 
 [Extended Data](ext_articles/cfb1a321.ext.json)
-
----
-
-### Wijeyadasa bail
-
-*2024-08-01 10:31:20* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාස-ඇප-තියයි/11-411139) · `si`
-
-Mr. Wijayadasa Rajapaksa, representing the National Democratic Front, has secured bail and is now a presidential candidate.
-
-🟩
-
-Mr. Wijayadasa Rajapaksa has placed bail as the presidential candidate of the National Democader Front.
-
-◼️
-
-[Data](articles/caae6588.json)
-
-[Extended Data](ext_articles/caae6588.ext.json)
-
----
-
-### Vijayadasa Rajapaksa pays control!
-
-*2024-08-01 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189966) · `ta`
-
-Vijayadasa Rajapaksa is set to run for president in 2024 as the National Democratic Front's candidate. Seven candidates, including five from recognized parties and two independents, have been confirmed for the September 21st election. The election was officially announced last month, leading to restrictions on President Ranil Wickremesinghe's candidacy status. Other notable candidates include Sarath Keerthi Ratna, Ola Lakmal Anil Herath, SG Liyanage, Sajith Premadasa, and SK Bandaranaike.
-
-🟩
-
-Vijayadasa Rajapakse has been controlled as the presidential candidate on behalf of the National Democratic Front.
-
-Vijayadasa Rajapaksa on behalf of the National Democratic Front (NDA) will be in control of the 2024 presidential election on Thursday (01).
-
-Only 7 candidates have been controlled within the period of today to contest the presidential election to be held on September 21, 2024.
-
-Accordingly, there are five candidates to contest on behalf of the recognized political party and two candidates to contest independently.
-
-The official announcement for the presidential election was issued on Friday morning for the Election Commission last month. Within a few hours of the announcement, President Ranil Wickremesinghe was restricted to contest as an independent candidate.
-
-Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lakmal Anil Herath as the new Freedom Front candidate and SG Liyanage to contest on behalf of the Ceylon Workers Party.
-
-...
-
-[Data](articles/721c812d.json)
-
-[Extended Data](ext_articles/721c812d.ext.json)
 
 ---

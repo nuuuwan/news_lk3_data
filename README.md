@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 06:06:02**
+As of **2024-08-01 06:41:24**
 
 ## Newspaper Stats
 
-*Scraped **38,348** Articles*
+*Scraped **38,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,761
 virakesarilk | 6,063
-adaderanasinhalalk | 6,453
+adaderanasinhalalk | 6,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,343 (100.0%) of 38,348 articles have been extended.
+38,348 (100.0%) of 38,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-01 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199426) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+
+ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බදුල්ල, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50 ක පමණ තද සුළං ඇති වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇති විය හැක.
+
+◼️
+
+[Data](articles/8b3228df.json)
+
+---
 
 ### Construction PMI records highest index value in 30 consecutive survey rounds
 
@@ -56,6 +76,8 @@ Further, many respondents mentioned that the price levels of most of the constru
 
 [Data](articles/e10a008e.json)
 
+[Extended Data](ext_articles/e10a008e.ext.json)
+
 ---
 
 ### Colombo Dockyard marks 50th anniversary
@@ -72,6 +94,8 @@ Looking upon and reflecting on the Colombo Dockyard PLC odyssey, Godakumbura sai
 
 [Data](articles/6c07bd73.json)
 
+[Extended Data](ext_articles/6c07bd73.ext.json)
+
 ---
 
 ### Oneroad Group DMCC – Dubai delegation explores investment opportunities in Sri Lanka
@@ -85,6 +109,8 @@ The delegation led by Oneroad Group CEO Chenling Zhang focused on sectors crucia
 ...
 
 [Data](articles/0699da69.json)
+
+[Extended Data](ext_articles/0699da69.ext.json)
 
 ---
 
@@ -108,6 +134,8 @@ The group expressed their support to the President during a meeting between the 
 
 [Data](articles/cc602db7.json)
 
+[Extended Data](ext_articles/cc602db7.ext.json)
+
 ---
 
 ### Karu calls for resolution of Acting IGP appointment dispute
@@ -127,6 +155,8 @@ Jayasuriya noted that the failure to appoint a new member to the vacancy is deep
 ...
 
 [Data](articles/a1821cc7.json)
+
+[Extended Data](ext_articles/a1821cc7.ext.json)
 
 ---
 
@@ -2197,29 +2227,5 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the arrested sus
 [Data](articles/f5b3cf88.json)
 
 [Extended Data](ext_articles/f5b3cf88.ext.json)
-
----
-
-### Prasanna writes to Mahinda
-
-*2024-07-31 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199409) · `si`
-
-Prasanna Ranatunga wrote to Mahinda Rajapaksa, expressing support for Ranil Wickremesinghe as president, stating no other candidate could safeguard the General Front party. The letter also mentions Ranatunga's intention to contest against Wickremesinghe but remains committed to the Sri Lanka Civil Appointment party, seeking a loyal leader.
-
-🟩
-
-Prasanna Ranatunga has informed the former President Mahinda Rajapaksa about anyone who supports anyone in the presidential election.
-
-The letter further states that Ranil Wickremesinghe is the president, and another alternative that can protect the party of the General Front will not be able to.
-
-As such, it has been told by the letter that he will contest the country of Ranil Wickremesinghe that he will contest Ranil Wickremesinghe's victory over the country.
-
-Nevertheless, the letter of Prasanna Ranatunga has noted that he is still a party of the Sri Lanka Civil Appointment and his ideal leader is a loyal Leader.
-
-◼️
-
-[Data](articles/1055d376.json)
-
-[Extended Data](ext_articles/1055d376.ext.json)
 
 ---

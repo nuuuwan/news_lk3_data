@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 12:35:57**
+As of **2024-08-01 12:53:52**
 
 ## Newspaper Stats
 
-*Scraped **38,426** Articles*
+*Scraped **38,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,321
+economynextcom | 2,322
 dailyftlk | 2,461
-adalk | 3,521
-adaderanalk | 4,439
+adalk | 3,522
+adaderanalk | 4,440
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,772
 virakesarilk | 6,077
-adaderanasinhalalk | 6,470
+adaderanasinhalalk | 6,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,425 (100.0%) of 38,426 articles have been extended.
+38,426 (100.0%) of 38,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### පතිරණ ට සහ මදුශංක ට එක්දින තරගාවලිය අහිමිවෙයි
+
+*2024-08-01 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199444) · `si`
+
+ආබාධයන්ට ලක්වීම හේතුවෙන් වේගපන්දු යවන්නන් වන මතීෂ පතිරණ සහ ඩිල්ෂාන් මදුශංක ඉන්දියාව සමග පැවැත්වෙන එක්දින ජාත්‍යන්තර තරගාවලිය සඳහා සහභාගී නොවන බව වාර්තා වෙයි.
+
+තරග තුනකින් සමන්විත එක්දින ජාත්‍යන්තර තරගාවලියේ පළමු තරගය හෙට (02) කොළඹ ඛෙත්තාරාම ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/0560ac94.json)
+
+---
+
+### Six Chinese nationals arrested without valid visas
+
+*2024-08-01 12:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100911/six-chinese-nationals-arrested-without-valid-visas) · `en`
+
+Payagala Police have apprehended six Chinese nationals who were residing in the country without valid visas, in violation of immigration and emigration regulations.
+
+The arrests took place yesterday (31) in the Payagala area, the police said.
+
+The group consists of five males, aged 20, 22, 24, 27, and 39, and one female, aged 48, according to police.
+
+The Payagala Police are continuing further investigations into the matter.
+
+◼️
+
+[Data](articles/d1b1ac1b.json)
+
+---
+
+### Sri Lanka foreign exchange earnings exceed imports by US$586mn in June
+
+*2024-08-01 12:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-exceed-imports-by-us586mn-in-june-174796/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current foreign exchange earnings from exports, remittances and gross services, totaled 2,033 million dollars in June 2024, exceeding imports by 586 million US dollars, official data showed.
+
+Exports were 1,077 million US dollars in June, remittances were 519.6 million dollars and gross services including tourism were 436.2 million US dollars, giving local residents foreign exchange to make imports, travel abroad or buy any other foreign services.
+
+Net services after deducting travel abroad air and sea transport was 198 million US dollars.
+
+Imports were 1,446 million US dollars in June. Imports are usually calculated to included insurance and freight, while exports are free on board.
+
+Any money saved can be used to repay debt or build private or official reserves as long as they can be borrowed by the central bank (for Treasury bills) or banks as deposits.
+
+The government can also buy the dollars by raising funds from the sale of Treasury bills or taxes.
+
+...
+
+[Data](articles/261abce6.json)
+
+---
 
 ### Drug kingpins ‘Kanjipani Imran’ and ‘Rotumbe Amila’ arrested in Russia – sources
 
@@ -45,6 +99,8 @@ Organised criminals “Kanjipani Imran” and “Rotumbe Amila”, were earlier 
 ...
 
 [Data](articles/d8108fe1.json)
+
+[Extended Data](ext_articles/d8108fe1.ext.json)
 
 ---
 
@@ -731,6 +787,22 @@ The intelligence agency has said that steps have been taken to increase the safe
 [Data](articles/acb21166.json)
 
 [Extended Data](ext_articles/acb21166.ext.json)
+
+---
+
+### පොලොන්නරුවටම අයිස් බෙදූ පැලවත්තේ චමින්ද අල්ලයි
+
+*2024-08-01 09:58:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවටම-අයිස්-බෙදූ-පැලවත්තේ-චමින්ද-අල්ලයි/11-411136) · `si`
+
+ප්‍රධාන පෙළේ හෙරොයින් ජාවාරම්කරුවකු වු අනුවර්ත නාමයකින් ප්‍රසිද්ධව සිටි පැලවත්තේ චමින්ද, ඇතුළු තිදෙනෙකු 31   වෙනිදා සවස පොළොන්නරුව සිරිපුර පලුදෙනිය ප්‍රදේශයේ නිවසක සැඟව සිටියදී හෙරොයින් සමඟ අත්අඩංගුවට ගත් බව සිරිපුර පොලිසිය කියයි.
+
+කොළඹ කළුබෝවිල සිට පොළොන්නරුව ප්‍රදේශයේ ඇතුළු ප්‍රදේශ රැසකට හෙරොයින් සහ අයිස් බෙදාහැරීමේ ප්‍රධාන ජාවාරම්කරුවකු බවත්, ඔහු අවස්ථා කිහිපයකදීම පොළොන්නරුවට පැමිණ සිටියදි අත්අඩංගුවට ගැනීම සඳහා රැකවල් යොදා සිටියද එය ව්‍යාර්ථ වූ අතර මෙම ජාවාරම්කරුවා තවත් හෙරොයින් ජාවාරම්කරුවන් තිදෙනකු සමග සිරිපුර පළුදෙණිය නිවසක රැඳී සිටියදි අත්අඩංගුවට ගැනීමට හැකියාව ලැබුණු බව සිරිපුර වැඩබලන පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක ආර්.එම්.එස්.අයි. රාජපක්ෂ මහතා අප කළ විමසීමකදි සඳහන් කළේය.
+
+සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා විශාල පරිශ්‍රමයක් සහ වෙහෙසක් දැරීමට සිදු වු බවත්, ඔවුන් අත්අඩංගුවට ගැනීමට යෑමේදී රැඳී සිටි නිවසේ වහල මත නැග බිමට පැනයක් පලා යෑමට උත්සාහ ගත් බවද පොලිසිය කියයි.
+
+...
+
+[Data](articles/e646f5ef.json)
 
 ---
 
@@ -2125,81 +2197,5 @@ It is noteworthy that the Cabinet decision was announced at a press conference a
 [Data](articles/0b6f0c67.json)
 
 [Extended Data](ext_articles/0b6f0c67.ext.json)
-
----
-
-### Petition against recruitment of medical students is dismissed
-
-*2024-07-31 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199425) · `si`
-
-The Supreme Court dismissed a petition against the recruitment of medical students to Kotelawala Defense University, ruling against claims of human rights violations. The court's decision was based on the advice of Attorney General Sumathi Dharmawardena, who represented the university.
-
-🟩
-
-The Supreme Court has dismissed a petition filed against the recruitment of medical students to Kotelawala Defense University.
-
-The Supreme Court has decided to distort a fundamental rights petition filed by professor Arjuna by the decision of the Pradeshma Pradesh of Professor Arjuna by the decision of the Pradeshus of the students to file a decision that the Kotelawala Defense University has violated the basic human rights..
-
-The Supreme Court has issued the preliminary protests since the Attorney General, Sumathi Dharmawardena, who appeared on behalf of the Attorney General.
-
-◼️
-
-[Data](articles/44dfd456.json)
-
-[Extended Data](ext_articles/44dfd456.ext.json)
-
----
-
-### National Industrial Policy and 2023-2027 Strategic Plan will build a globally competitive industrial base – Secretary to the Ministry of Industries
-
-*2024-07-31 21:54:00* · [`islandlk`](http://island.lk/national-industrial-policy-and-2023-2027-strategic-plan-will-build-a-globally-competitive-industrial-base-secretary-to-the-ministry-of-industries/) · `en`
-
-Secretary to the Ministry of Industries, Shantha Weerasinghe announced that the “National Industry Policy,” along with the five-year strategic plan for 2023-2027, has been prepared and submitted to the Department of National Planning.
-
-This initiative aims to establish a globally competitive national industry base. By 2030, the policy aims to increase the manufacturing sector’s contribution to GDP from 16% to 20%, raise the role of entrepreneurship in the workforce from 2.8% to 7%, and boost the share of industrial exports in GDP from 14% to 20%.
-
-Addressing the press briefing titled “Two Years of Progress and Way Forward” held at the Presidential Media Centre (PMC) today (31), the Secretary noted that the final draft for amending the Industrial Promotion Act has been submitted to the Attorney General’s Department for approval, ensuring it meets current and future needs.
-
-...
-
-[Data](articles/015d1e9d.json)
-
-[Extended Data](ext_articles/015d1e9d.ext.json)
-
----
-
-### No fuel price revision in August – Ceypetco
-
-*2024-07-31 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100903/no-fuel-price-revision-in-august-ceypetco-) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) announced that there will be no fuel price revisions for the month of August.
-
-Accordingly, the CPC’s monthly revision of Ceypetco retail fuel prices will not be taking place this time, the state-owned enterprise said in a statement, adding that the current retail prices will remain unchanged.
-
-◼️
-
-[Data](articles/ce814795.json)
-
-[Extended Data](ext_articles/ce814795.ext.json)
-
----
-
-### Fuel Correction - Released
-
-*2024-07-31 21:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-திருத்தம்-வெளியானது-அறிவிப்பு/175-341372) · `ta`
-
-Ceylon Petroleum Corporation cancels fuel price correction for August, maintaining current prices; Lanka Super Diesel 4 Star Euro 4 remains Rs 355 per liter.
-
-🟩
-
-Fuel Price Correction for August will not be carried out. The Ceylon Petroleum Corporation has announced that fuels will be sold for existing prices.
-
-The price of a liter of Lanka Super Diesel 4 Star Euro 4 is Rs 355.(R)
-
-◼️
-
-[Data](articles/4a037fd5.json)
-
-[Extended Data](ext_articles/4a037fd5.ext.json)
 
 ---

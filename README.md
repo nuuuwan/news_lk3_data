@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 20:36:00**
+As of **2024-08-01 20:55:03**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,509 (100.0%) of 38,511 articles have been extended.
+38,511 (100.0%) of 38,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### සිඟිත්තියකට අත්වූ ඉරණම
+### The fate of a child
 
 *2024-08-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199461) · `si`
 
-හිසට පොල් ගෙඩියක් වැටීමෙන් සිදුවූ අනතුරකින් මාවනැල්ල නගරයේ පිහිටි පෙර පාසලක ඉගෙනුම ලබමින් සිටි දැරියක් ජීවිතක්ෂයට පත්වී තිබේ.
+In Mawanella, a girl named Mavilha Sahana Egirimane fell from a coconut tree and later died. She and two others were playing near their preschool when the accident happened. After being rushed to hospitals, she passed away. The police are investigating the incident.
 
-මෙලෙස මියගොස් ඇත්තේ මාවනැල්ල මාවාන පාර ප්‍රදේශයේ පදිංචිව සිටි රනුලි හසත්මා එදිරිමාන්න නමැති අවුරුදු තුනහමාරක් වයසැති දැරියකි.
+🟩
 
-අද (01) උදෑසන 10.45ට පමණ පෙර පාසල් පාලිකාව අදාළ පෙර පාසලේ ගේට්ටුව වැසීම සඳහා පන්ති කාමරයෙන් පිටව යාමේදී මෙම දැරිය සහ තවත් දරුවන් දෙදෙනෙක් පාලිකාව සමග මිදුලට දිවගොස් තිබේ.
+A girl in Mawanella has died after falling into a coconut bound into the head.
 
-පසුව දරුවන් තිදෙනා පාලිකාව සමඟ නැවත පෙර පාසල් ගොඩනැගිල්ල තුළට යමින් සිටියදී පෙර පාසලේ වත්තේ තිබූ පොල් ගසක ගෙඩියක් වැටීමෙන් මෙම දැරිය තුවාල ලබා තිබේ.
+The deceased has been identified as Mavil and Mavilha Sahana Egirimane, a resident of Mawanella Mawane Road.
 
-දැරිය මාවනැල්ල මූලික රෝහල වෙත ඇතුළත් කර ඇති අතර එහිදී දැරියගේ තත්ත්වය බරපතළ වූ බැවින් මහනුවර ජාතික රෝහල වෙත මාරු කර යාවා තිබුණි.
+The girl and two other children reflected the yard with the ruler when they left the classroom to close the classroom at around 10.45 am today.
 
-මියගිය දැරියගේ පශ්චාත් මරණ පරීක්ෂණය මහනුවර ජාතික රෝහලේදී සිදුකිරීමට නියමිත අතර, මාවනැල්ල පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Later, the girl was injured when he was returning to the pre-school building with the 3-kid coconut tree.
+
+The girl was admitted to the Mawanella Base Hospital and the girl's condition was transferred to the Kandy National Hospital.
+
+The post mortem examination of the deceased girl is to be conducted at the Kandy National Hospital and Mawanella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5e548679.json)
+
+[Extended Data](ext_articles/5e548679.ext.json)
 
 ---
 
@@ -228,19 +234,27 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 
 ---
 
-### වැටුණු රට වසර දෙකක් තුළ ගොඩ ගැනීම ආශ්චර්යයක්
+### Miracle is a miracle for the loss of the fallen country within two years
 
 *2024-08-01 18:37:02* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණු-රට-වසර-දෙකක්-තුළ-ගොඩ-ගැනීම-ආශ්චර්යයක්/11-411153) · `si`
 
-දරුණු ආර්ථික කඩැවැටීමට ලක්වූ රට වසර දෙකක් වැනි කෙටි කාලයක් තුළ ස්ථාවර තත්ත්වයකට පත් කිරීම ආශ්චර්යයක් බවත් මෙවැනි ආර්ථික කඩාවැටීමට ලක්වු ලෝකයේ වෙනත් කිසිදු රටක් මෙතරම් කෙටි කලකින් ස්ථාවරත්වයක් අත්කරගෙන නොමැති බවත් ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා පැවසීය.
+State Minister Dilum Amunugama highlights the economic recovery of Sri Lanka as a "miracle" within two years, attributing it to President Ranil Wickremesinghe's leadership and global connections. He mentions a $1 billion investment target for the year, with $800 million already received, aiming for $2 billion by the end of the year. The minister discusses the establishment of investment opportunities for 35 projects and the completion of 80% of the Portsity project. He emphasizes the importance of the new Economic Act and the strategic approach to free trade agreements to boost exports.
 
-දැනුම පළපුරුද්ද සහ ගෝලීය සබඳතා මත වැටුණු රට ගොඩගැනීමට හැකි එකම නායකයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තෝරා පත්කර ගැනීම නිවැරදි බව ද මේ වන විට තහවුරු වී ඇති බව පෙන්වා දුන් රාජ්‍ය අමාත්‍යාවරයා එබැවින් ඉදිරි වසර පහක කාලය සඳහා ද එම නායකත්වය තෝරා පත්කර ගැනීම යුක්ති සහගත මෙන්ම නිවැරදි තීන්දුව වන බව ද සඳහන් කළේය.
+🟩
 
-ආයෝජන ප්‍රවර්ධන රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Investment Promotion, State Minister Dilum Amunugama said no such economic collapsed in the world had been a miracle for two years.
+
+The State Minister pointed out that the election of President Ranil Wickremesinghe is the only leader of knowledge and global relations so that it is right to build the country.He said the verdict.
+
+Investment Promotion State Minister Dilum Amunugama, Minister Dilum Amunugama, addressing a press conference held at the Presidential Media Center for a 'stable country'.
+
+"Investment target granted to the Board of Investment and Investment Promotion this year is $ 1 billion. US $ 800 million has come to the country. But we believe we can travel for a two billion goals by the end of this year. Investment opportunities for 35 projects have been established for the year 2024, including Trincomalee, Paranthan, Mankulam and Kankasanthurai. But we believe that invests can happen due to the commencement of the election. But it is normal that it is normal.
 
 ...
 
 [Data](articles/1c4177f5.json)
+
+[Extended Data](ext_articles/1c4177f5.ext.json)
 
 ---
 

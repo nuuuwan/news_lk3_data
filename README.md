@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 16:08:24**
+As of **2024-08-01 16:20:37**
 
 ## Newspaper Stats
 
-*Scraped **38,467** Articles*
+*Scraped **38,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,81 @@ adaderanalk | 4,444
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
-adaderanasinhalalk | 6,477
+adaderanasinhalalk | 6,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,462 (100.0%) of 38,467 articles have been extended.
+38,467 (100.0%) of 38,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ශිෂ්‍යත්ව වාරික මුදල් ගිණුම්වලට යොමුකෙරේ
+### ඝාතන සැකකරු පොලීසියට භාරවෙයි
+
+*2024-08-01 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199451) · `si`
+
+හබරාදුව දිවෙල්වත්ත ප්‍රදේශයේ නිවසක් තුළ පුද්ගලයෙකු යකඩ පොල්ලකින් පහරදී ඝාතනය කළ සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය පැවසුවේ එම සැකකරු හබරාදුව පොලිස් ස්ථානයට පැමිණ භාරවීමෙන් අනතුරුව  අත්අඩංගුවට ගත් බවයි.
+
+සැකකරු හා ඝාතනයට ලක් වූ පුද්ගලයා අතර කලක සිට පැවති පුද්ගලික ආරවුලක් මත මෙම ඝාතනය සිදුකර ඇති බව අනාවරණය වී ඇති අතර හබරාදුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/a018870b.json)
+
+---
+
+### Scholarship premium will be referred to financial accounts
 
 *2024-08-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199450) · `si`
 
-ජනාධිපති අරමුදල යටතේ ක්‍රියාත්මක ශිෂ්‍යත්ව වැඩසටහන් යටතේ සුදුසුකම් ලැබූ ශිෂ්‍යත්වලාභීන් සඳහා 2024 අගෝස්තු මාසයට අදාළ ශිෂ්‍යත්ව වාරික මුදල් අද (01) දින ශිෂ්‍යත්වලාභීන්ගේ බැංකු ගිණුම් වෙත සෘජුවම යොමු කෙරෙන බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The Presidential Fund announced direct scholarship payments to recipients, including 6,000 students for the GCE Advanced Level exam and 100,000 students for monthly premiums. Additionally, 500 lay clergymen and 3,000 scholarship students from Pirivena and Sea Institutes received funds. These scholarships, totaling over Rs. 5 billion, will be disbursed in August 2024.
 
-මෙම ශිෂ්‍යත්ව වාරික මුදල් බැංකු වෙත යොමු කිරීමේදී ඒ පිළිබඳව කෙටි පණිවිඩයක් (SMS) මගින් සියලු ශිෂ්‍යත්වලාභීන්ට දැනුම් දී තිබුණි.
+🟩
 
-2022/2023 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 3,000ක් සඳහා මසකට රුපියල් 6,000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 17 වැනි වාරිකයද, 2023/2024 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 6,000ක් සඳහා මසකට රුපියල් 6,000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 06 වැනි වාරිකය ද අදාළ ගිණුම්වලට බැර කර තිබේ.
+According to the Presidential Media Unit, a scholarship installment for the recipients of scholarships under the Presidential Fund will be directed directly to the class of scholarships today (01).
+
+The scholarship installments have been informed of the scholarships to the banking banks (SMS).
+
+2022/2023 GCE Ordinary Level A / L reviewThe 6th installment of scholarships paid to 6,000 students to sit for the GCE Advanced Level examination have also been credited to relevant accounts.
+
+Similarly, 100,000 scholarship premium paid to 100,000 scholarship premium per month and the students of Pirivena and Sea Institutes of Pirivena and Sea Institutes of Pirivena (O / L) / GCE O / L examination / O / L examination per month400 scholarship installments paid to 500 lay clergymen for 500 GCE Advances
+
+Further, 3,000 scholarships paid to 3,000 scholarship students paid to 3,000 scholarship students per month on Pirivenas and Sea Institutions.
 
 ...
 
 [Data](articles/50309f9c.json)
 
+[Extended Data](ext_articles/50309f9c.ext.json)
+
 ---
 
-### இலங்கை கடற்படையை கண்டித்து ராமேசுவரத்தில்  வீதிமறியல்
+### Rameshwaram Street
 
 *2024-08-01 15:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடற்படையை-கண்டித்து-ராமேசுவரத்தில்-வீதிமறியல்/175-341414) · `ta`
 
-இலங்கை கடற்படையினர் நடத்திய தாக்குதலில் தமிழக மீனவர்களின் ஒரு விசைப்படகு மூழ்கியது. இதில் இரண்டு மீனவர்களை உயிரிடனும், ஒரு மீனவரின் உடலையும் இலங்கை கடற்படை மீட்டுள்ளது. மாயமான இன்னொரு மீனவரை தேடும் பணி தொடர்ந்து நடைபெற்று வருகிறது.
+In a recent incident, the Sri Lankan navy attacked fishermen from Rameshwaram, resulting in one death and one "magical" disappearance. Over 2,000 fishermen ventured out on Wednesday, leading to a confrontation where their boat was sunk. Two fishermen were rescued and brought ashore, while efforts continue to locate the missing. This event sparked a road blockade by fishermen protesting the attack. Earlier, on June 25, the Sri Lankan navy also seized a boat and arrested its crew, leading to another fatality.
 
-ராமேசுவரம் மீன்பிடித் துறைமுகத்திலிருந்து சுமார் 400 விசைப்படகுகளில் இரண்டாயிரத்திற்கும் மேற்பட்ட மீனவர்கள் புதன்கிழமை (31)  கடலுக்குச் சென்றனர்.
+🟩
 
-அவர்கள் நெடுந்தீவு கடற்பகுதியில் அன்றிரவு  மீன்பிடித்துக் கொண்டிருந்தபோது அந்த பகுதியில் ரோந்து பணியில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர் எல்லை தாண்டியதாகச் சொல்லி மீனவர்களை கைது செய்ய தங்களது கடற்படை ரோந்து கப்பலில் துரத்தியுள்ளனர். அப்போது கார்த்திக்கேயன் என்பவரின் விசைப்படகில் கடுமையாக மோதியதில், அந்தப் படகு நடுக்கடலில் மூழ்கியது என இந்திய செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+Sri Lankan navy's attack. The Sri Lankan navy has rescued two fishermen and a fisherman's body. The search for another magical fisherman is ongoing.
+
+More than two thousand fishermen from the Rameshwaram fishing harbor went to sea on Wednesday (31).
+
+The Sri Lankan navy, who was on patrol in the area that night, was chased by their navy patrol to arrest the fishermen, claiming that they were fishing in the Nedundevu seas that night.. According to Indian news, the boat was submerged in the middle of the sea when Karthikeyan was hit hard.
+
+A fisherman died in the Sri Lankan Navy's attack. Another fisherman has become magical. Two people have been rescued by Sri Lankan navy and taken to Kankesanthurai shore. Following this, fishermen are engaged in a road blockade at the Madurai National Highway opposite the Rameshwaram taluk office condemning the incident.
 
 ...
 
 [Data](articles/c48f0874.json)
+
+[Extended Data](ext_articles/c48f0874.ext.json)
 
 ---
 
@@ -72,7 +106,7 @@ Sri Lanka has earned around USD 1.5 billion from tourism in the first six months
 
 The CBSL points out that it is almost double the growth compared to the first six months of last year.
 
-Meanwhile, foreign workers’ remittances for the first six months of 2024 were recorded as USD 3.14 billion, compared to the USD 2.82 million income from this sector in the same period in 2023.
+Meanwhile, foreign workers’ remittances for the first six months of 2024 were recorded as USD 3.14 billion, compared to the USD 2.82 billion income from this sector in the same period in 2023.
 
 Additionally, the official foreign reserves of the country have risen to USD 5.7 billion in June, according to the CBSL.
 
@@ -81,6 +115,8 @@ The CBSL further stated that the Sri Lankan rupee has also appreciated against t
 ◼️
 
 [Data](articles/b81c5184.json)
+
+[Extended Data](ext_articles/b81c5184.ext.json)
 
 ---
 
@@ -104,23 +140,31 @@ The police said that a group of foreigners were arrested without visa.
 
 ---
 
-### முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகளுக்கு உரிய தீர்வு பெற்றுக் கொடுக்கப்படும் - இராதாகிருஷ்ணன்
+### The problems faced by the pre -school teachers will be given the solution - Radhakrishnan
 
 *2024-08-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190007) · `ta`
 
-முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகளை பாராளுமன்றத்தின் கவனத்துக்கு கொண்டுவந்து, அது தொடர்பில் கல்வி அமைச்சு உட்பட சம்பந்தப்பட்ட தரப்புகளுடன் பேச்சு நடத்தப்பட்டு, உரிய தீர்வு பெற்றுக்கொடுக்க நடவடிக்கை எடுக்கப்படும் என்று மலையக மக்கள் முன்னணியின் தலைவரும், நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான கலாநிதி வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்தார்.
+At a recent event honoring pre-school teachers in Nuwara Eliya, Dr. Radhakrishnan pledged to bring their issues, including security and salary concerns, to the Parliament and negotiate with the Ministry of Education for solutions.
 
-முன்பள்ளி ஆசிரியர்களின் சேவையைப் பாராட்டி, அவர்களை கௌரவிக்கும் நிகழ்வு தலவாக்கலை தமிழ் வித்தியாலயத்தில் அண்மையில் நடைபெற்றது.
+🟩
 
-முன்பள்ளி ஆசிரியர் சம்மேளனம் மற்றும் அதன் நுவரெலியா மாவட்ட கிளை என்பன இணைந்தே நிகழ்வுக்குரிய ஏற்பாடுகளை செய்திருந்தன.
+Dr. Velusamy Radhakrishnan, the leader of the Upcountry People's Front and Nuwara Eliya District Parliamentarian and Member of Parliament of Nuwara Eliya District, said that the issues faced by the pre -school teachers will be brought to the attention of the Parliament and negotiations with the Ministry of Education, including the Ministry of Education.
 
-நுவரெலியா, கண்டி மற்றும் பதுளை ஆகிய மாவட்டங்களில் முன்பள்ளி ஆசிரியர்களாக கடமையாற்றுவர்கள் இதன்போது கௌரவிக்கப்பட்டனர். அத்துடன், பாராட்டு சான்றிதழும் வழங்கிவைக்கப்பட்டது.
+The event was held at the Talawakelle Tamil Vidyalaya recently to honor the service of pre -school teachers.
 
-முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகள் மற்றும் அவர்களின் கோரிக்கைகள் அடங்கிய மகஜரொன்று இந்நிகழ்வில் கலந்துகொண்டிருந்த நாடாளுமன்ற உறுப்பினர் வே. இராதாகிருஷ்ணனிடம் கையளிக்கப்பட்டது.
+The pre -school teachers' federation and its Nuwara Eliya District Branch had made arrangements for the event.
+
+The pre -school teachers in the districts of Nuwara Eliya, Kandy and Badulla were honored. In addition, a certificate of appreciation was issued.
+
+Member of Parliament who was present at the event with the problems faced by the pre -school teachers and their demands. Handed over to Radhakrishnan.
+
+The Mahajar contains a number of issues, including the lack of security in their business, lack of business and salary issues.
 
 ...
 
 [Data](articles/066e6452.json)
+
+[Extended Data](ext_articles/066e6452.ext.json)
 
 ---
 
@@ -168,21 +212,31 @@ The Israeli Army was reportedly tarricted by the Israeli army when he was in a b
 
 ---
 
-### அரசமைப்பின் நோக்கத்தை மீற முற்படும் - ஜனநாயக மரபுகளிற்கு அச்சுறுத்தலை ஏற்படுத்தும் ஜனாதிபதி தேர்தல்  வேட்பாளரை மக்கள் நிராகரிக்கவேண்டும் - 140க்கும் மேற்பட்ட சிவில் சமூக செயற்பாட்டாளர்கள் கூட்டாக வேண்டுகோள்
+### People seek to violate the purpose of the constitution - the people reject the presidential candidate that threatens democratic traditions - more than 140 civil society activists appeal
 
 *2024-08-01 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190008) · `ta`
 
-அரசமைப்பின் தெளிவான நோக்கத்தை மீற முற்படும் நாட்டின் ஜனநாயக மரபுகளை அச்சுறுத்தும் எந்த ஜனாதிபதி வேட்பாளரையும் நிராகரிக்கவேண்டும்  என நாங்கள் எங்கள் மக்களிற்கும் அனைத்து வேட்பாளர்களிற்கும்  நினைவுபடுத்த விரும்புகின்றோம் என இலங்கையின் சிவில் சமூக செயற்பாட்டாளர்கள் தெரிவித்துள்ளனர்.
+Civil society activists in Sri Lanka warn against presidential candidates threatening democratic traditions, citing potential constitutional crises and undermining of the rule of law. They oppose the swift appointment of the Inspector General of Police, fearing it could lead to such issues. The Supreme Court's involvement suggests the appointment might be unconstitutional, highlighting concerns over the executive's power and the need for adherence to constitutional norms. Activists urge voters to support candidates committed to preserving democracy and abolishing the executive presidency, emphasizing the importance of upholding the constitution and ensuring a fair electoral process.
 
-பொலிஸ்மா அதிபரை நியமிப்பதற்கான நடவடிக்கைகளை ஜனாதிபதி வேண்டுமென்றே தாமதிப்பது சட்டத்தின் ஆட்சி பொதுபாதுகாப்பு ஆகியவற்றை குறைமதிப்பிற்கு உட்படுத்தும் அரசியலமைப்பு நெருக்கடியை ஏற்படுத்தலாம் எனவும் அவர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-142 சிவில் சமூக செயற்பாட்டாளர்களும் கல்விமான்களும்,30க்கும் மேற்பட்ட அமைப்புகளும் இணைந்து வெளியிட்டுள்ள அறிக்கையில் இதனை தெரிவித்துள்ளனர்.
+Sri Lanka's civil society activists have said that we would like to remind our people and all candidates that any presidential candidate who threatens the democratic traditions of the country seeks to violate the clear purpose of the constitution.
 
-பொலிஸ்மா அதிபர் நியமனத்திற்கு எதிரான ஒன்பது மனுக்களையும் ஆறுநாட்களாக செவிமடுத்த பின்னர் 24ம் திகதி ஜூலைகாலை 9.30 மணிக்கு பொலிஸ்மா அதிபரின் நியமனம் அரசமைப்பிற்கு முரணாணது போல தோன்றுகின்றது இது குறித்து முழுமையாக மீள ஆராயவேண்டும் என தீர்மானித்தது.
+They said the President's intention to appoint the Inspector General of Police could create a constitutional crisis that would undermine the rule of law.
+
+In a statement issued by 142 civil society activists and academics and more than 30 organizations.
+
+After listening to the nine petitions against the appointment of the Inspector General of Police for six days, the appointment of the Inspector General of Police at 9.30 am on July 24 decided to re -examine the matter.
+
+Until then, the court ordered that the work of working at the office of the Tennakoon Police Inspector General of Police has been restricted.
+
+It means that the appointment is invalid if the Supreme Court finally decides that the appointment of Thenkon is contrary to the constitution.
 
 ...
 
 [Data](articles/934da7cc.json)
+
+[Extended Data](ext_articles/934da7cc.ext.json)
 
 ---
 
@@ -2281,23 +2335,5 @@ Further, many respondents mentioned that the price levels of most of the constru
 [Data](articles/e10a008e.json)
 
 [Extended Data](ext_articles/e10a008e.ext.json)
-
----
-
-### Colombo Dockyard marks 50th anniversary
-
-*2024-08-01 05:01:55* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-marks-50th-anniversary/34-765016) · `en`
-
-MD/CEO Thimira S. Godakumbura says company has stood as shining example of resilience, innovation, and excellence in maritime industry
-
-The Colombo Dockyard PLC celebrates its 50th anniversary today, and Managing Director and CEO Thimira S. Godakumbura emphasised that the company has stood as a shining example of resilience, innovation, and excellence in maritime industry.
-
-Looking upon and reflecting on the Colombo Dockyard PLC odyssey, Godakumbura said over the last five decades, Colombo Dockyard has stood as a shining example of resilience, innovation, and excellence in maritime industry, not just in Sri Lanka, but on the global stage as well.
-
-...
-
-[Data](articles/6c07bd73.json)
-
-[Extended Data](ext_articles/6c07bd73.ext.json)
 
 ---

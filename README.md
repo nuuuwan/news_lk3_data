@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 17:05:39**
+As of **2024-08-01 17:20:50**
 
 ## Newspaper Stats
 
-*Scraped **38,477** Articles*
+*Scraped **38,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,323
+economynextcom | 2,325
 dailyftlk | 2,461
 adalk | 3,532
-adaderanalk | 4,445
+adaderanalk | 4,446
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
@@ -26,53 +26,107 @@ adaderanasinhalalk | 6,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,473 (100.0%) of 38,477 articles have been extended.
+38,477 (100.0%) of 38,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### පොලීසියේ පරිපාලන රාජකාරී ලලිත් පතිනායකට පැවරෙයි
+### Laugfs Gas prices to also remain unchanged
+
+*2024-08-01 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100919/laugfs-gas-prices-to-also-remain-unchanged) · `en`
+
+Laugfs Gas PLC announced that the company will also not revise domestic LP gas prices in the month of August.
+
+Litro Gas chairman Muditha Pieris on Wednesday (31) said that the company has decided not to revise the prices of its domestic LP gas cylinders for the month of August.
+
+Meanwhile, it was announced that the fuel prices will also remain unchanged for this month.
+
+◼️
+
+[Data](articles/cc09a465.json)
+
+---
+
+### Lalith Patinaya assigned to police administrative duties
 
 *2024-08-01 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199455) · `si`
 
-ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති පරිපාලන රාජකාරී ආවරණය කිරීම සඳහා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා පත්කර තිබේ.
+Senior DIG Lalith Pathinayake takes over administrative duties from his predecessor.
+
+🟩
+
+Senior DIG Lalith Pathinayake has been appointed to cover the administrative duties of Senior DIG.
 
 ◼️
 
 [Data](articles/8a919e7d.json)
 
+[Extended Data](ext_articles/8a919e7d.ext.json)
+
 ---
 
-### ඉන්දීය රජයෙන් ශ්‍රී ලංකා රජයට විරෝධයක්
+### Protest against Sri Lankan government from India
 
 *2024-08-01 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199454) · `si`
 
-මෙරට මුහුදු සීමාවේ දී ඉන්දීය ධීවර යාත්‍රාවක් අනතුරට ලක්වීමෙන් එක් අයෙකු මියගොස් තවත් අයෙකු අතුරුදන්වීමේ සිද්ධිය සම්බන්ධයෙන් ඉන්දීය රජය ශ්‍රී ලංකා රජය වෙත විරෝධය පළ කර ඇත.
+India protests Sri Lanka over Indian fisherman's death, calling for safety measures to prevent future incidents.
 
-ඉන්දියාවේ වැඩබලන ශ්‍රී ලංකා මහකොමසාරිස්වරයා එරට විදේශ කටයුතු අමාත්‍යාංශය වෙත කැඳවා මේ සම්බන්ධයෙන් විරෝධය පළ කර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-කෙසේ වෙතත් මේ සම්බන්ධයෙන් දැඩි විරෝධය පළ කරමින් නිවේදනයක් නිකුත් කර ඇති ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය පවසනුයේ මෙම ධීවර ගැටළුව සම්බන්ධයෙන් මානුෂීය ආකාරයෙන් කටයුතු කිරීමේ අවශ්‍යතාව ඉන්දීය රජය සෑම අවස්ථාවක දීම අවධාරණය කර ඇති බවය.
+The Indian government has protested against the Government of Sri Lanka to the Government of Sri Lanka by the death of a Indian fishing vessel in the country.
 
-ඉන්දීය ධීවරයින්ගේ ආරක්ෂාව සම්බන්ධයෙන් ඉන්දීය රජය ඉහළම ප්‍රමුඛතාවක් ලබාදෙන අතර රටවල් දෙකම මෙම ගැටළුව සම්බන්ධයෙන් අවබෝධයෙන් කටයුතු කර මෙවැනි සිදුවීම් යළි ඇති නොවීම සඳහා අවශ්‍ය පියවර ගත යුතු බවත් ඔවුන් පෙන්වාදී ඇත.
+Indian media reports that the Sri Lankan High Commissioner to the Ministry of Foreign Affairs has called on the Ministry of Foreign Affairs.
 
-උද්ගත වූ තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස්වරයා ශ්‍රී ලංකා රජයේ නියෝජිතයින් හමුවී සාකච්ඡා කිරීමට නියමිත බවත් ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කර ඇත.
+However, the Indian External Affairs Ministry says that a statement has been issued against this in objection to this.
+
+The Indian government has given the highest priority for the protection of the Indian fishermen and the two countries should take necessary steps to prevent this issue.
+
+The Indian External Affairs Ministry has said that the Indian High Commissioner to the Sri Lankan government is to meet with the Sri Lankan government.
 
 ◼️
 
 [Data](articles/ed1dffe6.json)
 
+[Extended Data](ext_articles/ed1dffe6.ext.json)
+
 ---
 
-### පතිනායකට පොලීසියේ වැඩ බලන තනතුරක්
+### Police acting in police station
 
 *2024-08-01 16:31:14* · [`adalk`](https://www.ada.lk/breaking_news/පතිනායකට-පොලීසියේ-වැඩ-බලන-තනතුරක්/11-411147) · `si`
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) තනතුරේ වැඩ බැලීම සඳහා පත් කර තිබේ.
+Senior DIG Lalith Pathinayake is now responsible for administrative duties at the police station.
+
+🟩
+
+Senior DIG Lalith Pathinayake has been appointed to the work of Senior DIG (Administrative).
 
 ◼️
 
 [Data](articles/c95aaec4.json)
+
+[Extended Data](ext_articles/c95aaec4.ext.json)
+
+---
+
+### Sri Lanka stocks close up, renewed interest in apparel
+
+*2024-08-01 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-renewed-interest-in-apparel-174838/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.29 percent, or 33.14 points, at 11,439; while the more liquid S&P SL20 Index closed up 0.62 percent, or 20.25 points, at 3,285.
+
+“It was a positive start for the month, there was more activity levels,” Softlogic Stockbrokers said. “There was renewed interest among market investors.”
+
+John Keells Holdings Plc was the top turnover generator of the day, after a slump yesterday due to low interim results and an impending rights issue. The share contributed 164 million rupees to turnover, and closed up at 175.25.
+
+There were two crossings in the day: Teejay Lanka Plc, which saw foreign interest, (up at 40.50) and Sampath Bank Plc (up at 75.50). They accounted for 12 percent of the total turnover.
+
+...
+
+[Data](articles/6b3c82b0.json)
 
 ---
 
@@ -170,15 +224,21 @@ The murder had been carried out on a private dispute between the suspect and the
 
 ---
 
-### සජබ පොහොට්ටුව සමග සාකච්ඡා කළාද?
+### Discussed with the hyjobation powder?
 
 *2024-08-01 15:43:20* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-පොහොට්ටුව-සමග-සාකච්ඡා-කළාද-/11-411146) · `si`
 
-සමගි ජන බලවේගයේ අපි කවුරුවත් පොහොට්ටුව සමග හෝ පොහොට්ටුවේ නායකයෝ සමග කිසිම ආකාරයක දේශපාලන සාකච්ඡාවක් නෑ. අපි තවමත් හිතන්නේ රට බංකොලොත් කළ කණ්ඩායම කියලා. මොකද ඔවුන් තමයි රට මේ තත්ත්වයට ඇදළා දාලා තියෙන්නේ. අපේ ඒකායන අරමුණ තමයි වගකීමක් තියෙන, වගවීමක් තිබෙන ජනාධිපතිවරයෙක් පත් කිරීම.
+No political discussions with holy power leaders; believe country is bankrupt due to corruption; advocate for a responsible president to address issues.
+
+🟩
+
+There is no political discussion with none of the people in the holy power or the leaders of the pointer. We still think the country is bankrupt. Because they are the country's intense. Our aviation is the appointment of a responsible president.
 
 ◼️
 
 [Data](articles/b25cd175.json)
+
+[Extended Data](ext_articles/b25cd175.ext.json)
 
 ---
 
@@ -229,6 +289,26 @@ A fisherman died in the Sri Lankan Navy's attack. Another fisherman has become m
 [Data](articles/c48f0874.json)
 
 [Extended Data](ext_articles/c48f0874.ext.json)
+
+---
+
+### 31 Sri Lanka firms get AEO Tier 1 for fast customs clearance
+
+*2024-08-01 15:24:00* · [`economynextcom`](https://economynext.com/31-sri-lanka-firms-get-aeo-tier-1-for-fast-customs-clearance-174831/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs has included 31 companies into a ‘Authorised Economic Operator (AEO) Tier I status, qualifying them for faster goods clearance with reduced documentation, the Ceylon Chamber of Commerce said.
+
+The firms were awarded the status at a ceremony on July 30 by State Minister for Finance Ranjith Siyambalapitiya.
+
+The AEO Tier I status is aligned with World Customs Organization (WCO) SAFE Framework of Standards and the World Trade Organization (WTO) Trade Facilitation Agreement.
+
+Companies elevated to the category are entitled to “enhanced trade facilitation measures, such as rapid release of goods, reduced documentation and data requirements, and fewer physical inspections,” helping cross-border trade, the CCC said.
+
+To qualify for AEO status, operators must meet the eligibility criteria set by Sri Lanka Customs. This includes demonstrating high legal and operational compliance and maintaining robust supply chain security.
+
+...
+
+[Data](articles/22ea35e1.json)
 
 ---
 
@@ -2227,71 +2307,5 @@ In particular, President Ranil Wickremesinghe has stated that he will withdraw f
 [Data](articles/655a3361.json)
 
 [Extended Data](ext_articles/655a3361.ext.json)
-
----
-
-### Dollar tourists
-
-*2024-08-01 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199433) · `si`
-
-In the first half of the year, the tourism sector generated $1.557 billion, according to the Central Bank.
-
-🟩
-
-The tourism industry has earned US $ 1,557 million in the first six months of this year, the Central Bank said.
-
-◼️
-
-[Data](articles/d7d060cd.json)
-
-[Extended Data](ext_articles/d7d060cd.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-01 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100905/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 50 mm are likely at some places, it said, adding that several spells of showers will occur in North-western province and in Matale district.
-
-Showers or thundershowers may occur at a few places in Badulla, Ampara and in Batticaloa districts in the evening or night.
-
-Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/7a46da36.json)
-
-[Extended Data](ext_articles/7a46da36.ext.json)
-
----
-
-### Prison officer who kept near the drug
-
-*2024-08-01 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199432) · `si`
-
-A Welikada Prison officer faces suspension after being caught with drugs during an inspection. The officer, part of the Prison Emergency Response Team, was arrested and transferred to Borella Police Station for further investigation.
-
-🟩
-
-A Welikada Prison officer has been suspended for the allegations of suspicious drugs.
-
-In the Welikada Prison, Prison Emergency Response Trick Response Trickback Trickrit Persons have found several narcotics officer in the inspection of the prison officer.
-
-Prison media spokesman Prison Spokesman Gaminne B.. Dissanayake added.
-
-The suspect was arrested for 20 years of prison.
-
-The suspect has been sent to the Borella Police Station for further legal proceedings.
-
-◼️
-
-[Data](articles/de5b7076.json)
-
-[Extended Data](ext_articles/de5b7076.ext.json)
 
 ---

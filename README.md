@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 23:35:58**
+As of **2024-08-01 23:55:47**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,523 (100.0%) of 38,524 articles have been extended.
+38,524 (100.0%) of 38,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ரணிலை அவசரமாக சந்தித்தார் மஹிந்த
+### Mahinda met Ranil in a hurry
 
 *2024-08-01 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-அவசரமாக-சந்தித்தார்-மஹிந்த/175-341425) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிற்கும் இடையில் கொழும்பு - விஜேராமவில் உள்ள மஹிந்த ராஜபக்ஷவின் இல்லத்தில் இன்று இரவு 7 மணிக்கு சந்திப்பு இடம்பெற்றதாகத் தகவல்கள் தெரிவிக்கின்றன.
+In a brief encounter, President Ranil Wickremesinghe and former President Mahinda Rajapaksa discussed political matters at Rajapaksa's home in Colombo. The conversation, lasting an hour, is now a topic of interest ahead of the upcoming presidential election.
 
-சுமார் 1 மணி நேரம் இடம்பெற்ற இந்தக் கலந்துரையாடலில் எதிர்வரும் ஜனாதிபதித் தேர்தல் தொடர்பில் கலந்துரையாடப்பட்டதாக மஹிந்த ராஜபக்ஷவுக்கு நெருக்கமான தரப்பினர் தெரிவித்துள்ளனர். R
+🟩
+
+President Ranil Wickremesinghe and former President Mahinda Rajapaksa held a meeting at Mahinda Rajapaksa's residence in Wijerama, Colombo.
+
+The discussion, which lasted for about 1 hour, has been discussed in the upcoming presidential election, said Mahinda Rajapaksa close to Mahinda Rajapakse.. Remble
 
 ◼️
 
 [Data](articles/1d369a00.json)
+
+[Extended Data](ext_articles/1d369a00.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 09:20:49**
+As of **2024-08-01 09:36:12**
 
 ## Newspaper Stats
 
-*Scraped **38,375** Articles*
+*Scraped **38,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 4,434
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,762
 virakesarilk | 6,065
-adaderanasinhalalk | 6,460
+adaderanasinhalalk | 6,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,375 (100.0%) of 38,375 articles have been extended.
+38,375 (100.0%) of 38,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### උතුරු මුහුදේ සිදුවු අනතුරකින් ඉන්දීය ධීවරයෙක් මරුට
+
+*2024-08-01 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199435) · `si`
+
+ඩෙල්ෆ් දූපත ආසන්නයේ මෙරට මුහුදු සීමාවේ දී සිදුවු අනතුරකින් ඉන්දීය ධීවරයෙකු මියගොස් තවත් අයෙකු අතුරුදන්ව තිබේ.
+
+නාවික හමුදාව සඳහන් කළේ, නීතිවිරෝධී ලෙස මෙරට මුහුදු සීමාවට ඇතුළු වූ ඉන්දීය ධීවරයින් පිරිසක් අත්අඩංගුවට ගැනීමට යාමේ දී ඔවුන් ගමන්ගත් යාත්‍රාව පෙරළී මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුරෙන් ධීවරයින් සිව්දෙනෙකු මුහුදට වැටී ඇති අතර ඉන් තිදෙනෙකු බේරාගෙන පුන්කුඩතිව් රෝහලට ඇතුළත් කිරීමේ දී එක් අයෙකු මියගොස් තිබේ.
+
+අනෙක් ධීවරයා සෙවීමේ කටයුතු තවදුරටත් සිදුකෙරෙන බව නාවික හමුදාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/786cbc6c.json)
+
+---
+
+### පොළොන්නරුවෙන් ඇසුණු වෙඩි හඬ
+
+*2024-08-01 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199434) · `si`
+
+පොළොන්නරුව පොලිස් වසමේ සේවාගම ප්‍රදේශයේ පුද්ගලයෙකු වෙඩි වැදීමකින් රෝහල්ගත කර තිබේ.
+
+එම පුද්ගලයාව රෝහල්ගත කළ බවට ලද තොරතුරක් අනුව පොළොන්නරුව පොලීසිය විමර්ශන ආරම්භ කර ඇත.
+
+එලෙස තුවාල ලබා ඇත්තේ අවුරුදු 46ක් වූ සේවාගම, පොළොන්නරුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+තුවාලකරු වඳුරන් පැන්නීමට තම බලපත්‍ර සහිත බෝර 12 ගිනිඅවිය රැගෙන ඉඩමේ යමින් සිටිය දී පය පැටලී ගිනිඅවිය ක්‍රියාත්මක වී වෙඩිවැදීම සිදුව ඇති බවට බිරිඳ විසින් ප්‍රකාශයක් ලබාදී තිබේ.
+
+තුවාලකරු ව්‍යාපාරික ණය හේතුවෙන් දැඩි මානසික පීඩනයකින් පසුවු බවට අනාවරණය වී ඇති අතර, මේ හේතුවෙන් වෙඩි තබාගෙන සියදිවි හානි කර ගැනීමට උත්සාහ කර ඇති ද යන්න සම්බන්ධයෙන් ද පොලීසිය සැකකරනු ලබයි.
+
+◼️
+
+[Data](articles/3fcbdc07.json)
+
+---
 
 ### In response, the use of constitutional authority to appoint a police chief does not violate election rules - senior lawyers point out
 
@@ -2195,51 +2233,5 @@ The petition was filed in view of the public interest in view of the decision to
 [Data](articles/78d57481.json)
 
 [Extended Data](ext_articles/78d57481.ext.json)
-
----
-
-### Sri Lanka stocks close down, Overseas Realty pushes turnover
-
-*2024-07-31 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-overseas-realty-pushes-turnover-174655/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.91 percent, or 104.20 points, at 11,406; while the more liquid S&P SL20 Index closed down 2.05 percent, or 68.27 points, at 3,265.
-
-Turnover was 3.9 billion. This was mainly due to a large foreign to foreign crossing on Overseas Realty (Ceylon) Plc, the property developer behind Colombo’s World Trade Centre and Havelock City.
-
-“70 percent of the day’s turnover was from this trade,” Softlogic Stockbrokers said. The share closed up at 17.00.
-
-This was one of the highest turnovers recorded for the year.
-
-Hemas Holdings Plc which released its 2Q interim results, showed a dip in profits on a Y-o-Y and Q-o-Q basis, mainly due to sluggish sales in its consumer business. “They faced price downward revisions, and their Bangladesh business faced inflationary pressure.”
-
-...
-
-[Data](articles/26746a4e.json)
-
-[Extended Data](ext_articles/26746a4e.ext.json)
-
----
-
-### Colombo’s consumer price inflation climbs to 2.4% in July
-
-*2024-07-31 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100896/colombos-consumer-price-inflation-climbs-to-24-in-july) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis has increased to 2.4% in July 2024, compared to 1.7%% in June 2024, according to the Department of Census and Statistics.
-
-The CCPI for all items for the month of July 2024 was 194.7 and it records a decrease of 0.9 index points or 0.44 percentage compared to the month of June 2024 for which the index was 195.6. This represents a decrease in expenditure value by Rs. 788.98 in the “Market Basket.”
-
-The overall rate of inflation as measured by the CCPI on Y-on-Y basis is 2.4% in July 2024 and Y-on-Y inflation calculated for the month of June 2024 was 1.7%.
-
-The Y-on-Y inflation of Food Group increased to 1.5% in July 2024 from 1.4% in June 2024 and the Y-on-Y inflation of Non Food Group increased to 2.8% in July 2024 from 1.8% in June 2024.
-
-The month-on-month change was contributed by an increase in Food items by 0.03% and decrease in Non Food items by 0.47% respectively, the report said.
-
-...
-
-[Data](articles/e7e0df54.json)
-
-[Extended Data](ext_articles/e7e0df54.ext.json)
 
 ---

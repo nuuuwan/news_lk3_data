@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 10:20:28**
+As of **2024-08-01 10:35:50**
 
 ## Newspaper Stats
 
-*Scraped **38,380** Articles*
+*Scraped **38,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,203
-economynextcom | 2,312
+economynextcom | 2,318
 dailyftlk | 2,461
-adalk | 3,517
-adaderanalk | 4,434
+adalk | 3,518
+adaderanalk | 4,435
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,762
+tamilmirrorlk | 4,769
 virakesarilk | 6,065
 adaderanasinhalalk | 6,465
 
@@ -26,59 +26,221 @@ adaderanasinhalalk | 6,465
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,377 (100.0%) of 38,380 articles have been extended.
+38,380 (100.0%) of 38,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### මැද පෙරදිග යුද බිය පැතිරෙයි
+### கட்டுப்பணம் செலுத்தினார் விஜயதாஸ ராஜபக்ஸ
+
+*2024-08-01 10:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-விஜயதாஸ-ராஜபக்ஸ/175-341388) · `ta`
+
+தேசிய ஜனநாயக முன்னணி சார்பில் விஜயதாஸ ராஜபக்ஸ இன்று (01) கட்டுப்பணம் செலுத்தினார்.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிட இதுவரை 07 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/d5b1b2d8.json)
+
+---
+
+### தலதா எம்.பியின் நாடகம் அம்பலம்
+
+*2024-08-01 10:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341387) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் மாகாண சபை உறுப்பினர்களுக்கான செயலமர்வு இடம்பெற்றிருந்த பத்தரமுலவில் உள்ள வோட்டர்ஸ் எட்ஜில் இருந்து சமகி ஜன பலவேகய (SJB) பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள வெளியே வந்தபோது நாடகம்  அரங்கேறியது
+
+◼️
+
+[Data](articles/24547c2b.json)
+
+---
+
+### தலதா எம்.பியின் நாடகம் அம்பலம்
+
+*2024-08-01 10:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதா-எம்-பியின்-நாடகம்-அம்பலம்/175-341386) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் மாகாண சபை உறுப்பினர்களுக்கான செயலமர்வு இடம்பெற்றிருந்த பத்தரமுலவில் உள்ள வோட்டர்ஸ் எட்ஜில் இருந்து சமகி ஜன பலவேகய (SJB) பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள வெளியே வந்தபோது நாடகம்  அரங்கேறியது
+
+◼️
+
+[Data](articles/b0a8bb2a.json)
+
+---
+
+### மில்கோ,  NLDB ஐ விற்பதற்கு எதிரான வழக்கு இன்று
+
+*2024-08-01 10:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மில்கோ-NLDB-ஐ-விற்பதற்கு-எதிரான-வழக்கு-இன்று/175-341385) · `ta`
+
+மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் (NLDB) உள்ள காணிகளை விற்பனை செய்வதற்கு எதிராக உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுளள மனு தொடர்பான விவாதம் இன்று (01) முற்பகல் 10.30 மணிக்கு இடம்பெறவுள்ளது.
+
+கைத்தொழில் மற்றும் விவசாய நிலங்களை பாதுகாக்கும் மக்கள் இயக்கத்தினால் இந்த வழக்கு தொடுக்கப்பட்டுள்ளது.
+
+இது தொடர்பாக அகில இலங்கை கமக்காரர்கள் சம்மேளனத்தின் தேசிய அமைப்பாளர் நாமல் கருணாரத்ன கருத்து தெரிவிக்கையில்,
+
+மில்கோ நிறுவனம் மற்றும் தேசிய பெருந்தோட்ட அபிவிருத்திச் சபையிடம் உள்ள காணிகள் இலங்கையின் பெறுமதிமிக்க வளங்கள் ஆகும். நாட்டை கட்டியெழுப்புவதற்கு இந்த வளங்களில் இருந்து பயன்பெறுவதற்கான வளர்ச்சியடைந்த வேலைத்திட்டம் எம்மிடம் இருக்கிறது.
+
+அதற்காக இந்த வளங்களை பாதுகாக்க வேண்டும். உயர் நீதிமன்றத்தில் நியாயம் கிடைக்கும் என்று நாங்கள் எதிர்பார்க்கிறோம்.” என்றார்.
+
+◼️
+
+[Data](articles/019bfe36.json)
+
+---
+
+### Wijeyadasa Rajapakshe places deposit for Presidential Election
+
+*2024-08-01 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100906/wijeyadasa-rajapakshe-places-deposit-for-presidential-election) · `en`
+
+Former Justice Minister Dr. Wijeyadasa Rajapakshe has placed a deposit with the Election Commission as a candidate for the 2024 Presidential Election.
+
+Rajapakshe has placed the deposit as the presidential candidate of the National Democratic Front.
+
+On July 25, the MP had officially announced that he would contest the upcoming Presidential Election while he had stepped down from his ministerial position as the Minister of Justice, Prisons Affairs and Constitutional Reforms on July 29.
+
+◼️
+
+[Data](articles/5b1e7600.json)
+
+---
+
+### அமைச்சர் டிரான் அலஸுக்கு மரண அச்சுறுத்தல்
+
+*2024-08-01 09:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-டிரான்-அலஸுக்கு-மரண-அச்சுறுத்தல்/175-341384) · `ta`
+
+பொது மக்கள் பாதுகாப்பு அமைச்சர் ட்ரான் அலஸுக்கு பாதாள உலகத்தில் இருந்து மரண அச்சுறுத்தல் விடுக்கப்பட்டுள்ளதாக புலனாய்வு அமைப்புகள் கண்டுபிடித்துள்ளதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+அமைச்சர் ட்ரான் அலஸின் பாதுகாப்பை அதிகரிக்க நடவடிக்கை எடுக்குமாறு புலனாய்வு அமைப்பு அறிக்கை ஒன்று தெரிவித்துள்ளதாகவும் அதே வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/acb21166.json)
+
+---
+
+### The Fear of War East Spreads
 
 *2024-08-01 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199438) · `si`
 
-තම සංවිධානයේ ඡ්‍යේෂ්ඨ අණ දෙන නිලධාරියෙක් වූ ෆුවාඩ් ෂුක්ර් ඊශ්‍රායල ප්‍රහාරයකින් මියගිය බව හිස්බුල්ලා සංවිධානය නිල වශයෙන් නිවේදනය කර තිබේ.
+Fahud Shrukter, a senior Hisbollawa commander, and a Hemas leader were killed in separate Israeli attacks, escalating tensions in the Middle East.
 
-ඔහු ලෙබනනයේ බේරූට් නුවර හිස්බුල්ලා අණසක යටතේ පවතින ප්‍රදේශයකදී බදාදා පාන්දර එල්ලකළ ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්වී තිබේ.
+🟩
 
-ඔහු නිදා සිටි ගොඩනැගිල්ලේ කාන්තාවන් දෙදෙනෙක් සහ දරුවන් දෙදෙනෙක්ද එම ප්‍රහාරයෙන් මරුමුවට පත්ව ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+Hisbollawa has officially announced that Fahud Shrukter, a senior commander of his organization, died of a Israeli attack.
 
-එම ප්‍රහාරයෙන් පැය කිහිපයකට පසුව ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් හමාස් සංවිධානයේ නායක ඉස්මයිල් හනියේ ද මියගියේය.
+He was also killed in an area under the Obstabolle in Bebanon in Bebanon.
 
-ඔහුව ඝාතනය කර තිබුණේ ඉරානයේ අගනුවර වන ටෙහෙරාන් හි නිවසකට එල්ලකළ ගුවන් ප්‍රහාරයකිනි.
+Two women and two children in the man who was sleeping were killed in the attack.
 
-මෙම ඝාතන හේතුවෙන් මැද පෙරදිග යුද උණුසුම වැඩිවී ඇති බව දේශපාලන විචාරකයෝ පවසති.
+A few hours later, an Israeli air strike deceased in the Hemas Leader of Hamas.
+
+He was assassinated by an air strike at Tehran, the capital of Iran.
+
+Political commentators say that the murders have increased the warm of the Middle East.
 
 ◼️
 
 [Data](articles/930f05a2.json)
 
+[Extended Data](ext_articles/930f05a2.ext.json)
+
 ---
 
-### විජයදාසත් ඇප තියයි
+### மொட்டுவில் மற்றுமொரு எம்.பி ரணிலுக்கு ஆதரவு
+
+*2024-08-01 09:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மொட்டுவில்-மற்றுமொரு-எம்-பி-ரணிலுக்கு-ஆதரவு/75-341382) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நாடாளுமன்ற உறுப்பினர்களில் ஒருவராக தாம் தன்னையும் முன்னிறுத்தியுள்ளதாக திருகோணமலை மாவட்ட உறுப்பினர் அத்துகோரள கபில நுவன் தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/44fee549.json)
+
+---
+
+### Wijayaka has been bail
 
 *2024-08-01 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199437) · `si`
 
-ජාතික ප්‍රජාතන්ත්‍රවාදි පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා ඇප තැන්පත් කර තිබේ.
+Mr. Wijayadasa Rajapaksa, a presidential candidate for the National Democratic Front, has granted bail to Wijayaka.
+
+🟩
+
+Mr. Wijayadasa Rajapaksa has placed bail as the presidential candidate of the National Democader Front.
 
 ◼️
 
 [Data](articles/02d02eb1.json)
 
+[Extended Data](ext_articles/02d02eb1.ext.json)
+
 ---
 
-### හොරට ලංකාවේ නතර වුණ චීන ජාතිකයින් පිරිසක් කොටු
+### Boxes who stopped in Sri Lanka
 
 *2024-08-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199436) · `si`
 
-වීසා නොමැතිව මෙරට රැඳී සිටි චීන ජාතිකයින් සය දෙනෙකු පයාගල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Six Chinese nationals, aged between 20 and 48, were arrested in Sri Lanka for overstaying their visas. The arrest occurred in the Payagala area on January 31st.
 
-ආගමන විගමන කොන්දේසි උල්ලංඝනය කරලමින් පයාගල ප්‍රදේශයේ රැ﻿ඳී සිටි මෙම චීන ජාතික විදේශීය පිරිස ඊයේ (31) දින අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 20, 22, 24, 27, 39 යන වයස්වල පසුවන අතර සැකකාරිය 48 හැවිරිදි වියේ පසුවෙයි.
+The Payagala Police have arrested six Chinese nationals who were staying in the country without visa.
+
+The Chinese delegation held in the Payagala area was arrested yesterday (31).
+
+The arrested suspects are aged 20, 22, 24, 27, 39 and the suspect is 48 years old.
 
 ◼️
 
 [Data](articles/aaba095c.json)
+
+[Extended Data](ext_articles/aaba095c.ext.json)
+
+---
+
+### படகு கவிழ்ந்ததில் இந்திய மீனவர் மரணம்
+
+*2024-08-01 09:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/படகு-கவிழ்ந்ததில்-இந்திய-மீனவர்-மரணம்/71-341381) · `ta`
+
+யாழ்ப்பாணம் - நெடுந்தீவு கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர் ஒருவர் கடலில் மூழ்கி உயிரிழந்தார். குறித்த சம்பவம் இன்று அதிகாலை இடம்பெற்றது.
+
+இதன்போது ரோந்து நடவடிக்கைகளில் ஈடுபட்ட இலங்கை கடற்படை படகு, அத்துமீறி மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்களின் படகை கைப்பற்ற முனைந்த போது இந்திய மீனவர்களின் படகு கவிழ்ந்து குறித்த அசம்பாவிதம் ஏற்பட்டதாக தகவல்கள் தெரிவிக்கின்றன.
+
+இரு மீனவர்கள் கடலில் விழுந்த நிலையில் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார். ஒருவரை காணவில்லை. இந்நிலையில் இரண்டு மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர் என தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/eabba1fd.json)
+
+---
+
+### Sri Lanka rupee opens at 302.35/50 to US dollar
+
+*2024-08-01 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-35-50-to-us-dollar-174769/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened almost unchanged at 302.35/50 to the US dollar on Thursday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.09 percent.
+
+The rupee closed at 302.40/50 to the greenback on Wednesday.
+
+In the secondary market, treasury bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.50/70 percent, up from 10.50/65 percent.
+
+A bond maturing on 01.05.2027 was quoted at 11.45.55 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, up from 12.00/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.25/45 percent, up from 12.20/40 percent.
+
+A bond maturing on 15.10.2030 was quoted at 12.73/80 percent, down from 12.70/85 percent.
+
+In equities, Colombo’s All Share Price Index opened 10.34 points higher at 11,416, while the S&P SL20 of more liquid stocks opened up at 0.34 percent or 11.00 points to 3,276.
+
+◼️
+
+[Data](articles/1f237490.json)
 
 ---
 
@@ -103,6 +265,68 @@ The search for the other fisherman said that the search for the other fishermen 
 [Data](articles/786cbc6c.json)
 
 [Extended Data](ext_articles/786cbc6c.ext.json)
+
+---
+
+### Sri Lanka Port City dollarized zone eyed by 300 businesses
+
+*2024-08-01 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-dollarized-zone-eyed-by-300-businesses-174713/) · `en`
+
+ECONOMYNEXT – Around 300 businesses have applied to start businesses in Sri Lanka’s Colombo Port City special economic zone, and about 50 are being processed, State Minister for Investment Dilum Amungama said.
+
+The Colombo Port City Commission approves large investments such as those that invest in building as primary businesses of strategic importance which get investment incentives.
+
+The cabinet has so far approved around 20 BSI firms and 50 are being in the process of being approved, Minister Amunugama said.
+
+Minister Amunugama said approving financial businesses took some time, because the required regulations took some time to develop in partnership with the central bank.
+
+There is a pipeline of 300 businesses who want to set up shop in the port city, he said.
+
+Businesses can register to operate in the zone and do business internationally without tax benefits as an authorized person subject to applicable rules.
+
+...
+
+[Data](articles/694888bd.json)
+
+---
+
+### Federal holds rates, says unemployment rate starting to go up
+
+*2024-08-01 08:56:00* · [`economynextcom`](https://economynext.com/federal-holds-rates-says-unemployment-rate-starting-to-go-up-174741/) · `en`
+
+ECONOMYNEXT – The Federal Reserve has held rates but said unemployment has started to move up, and that the committee “is attentive to the risks to both sides of its dual mandate” indicating that it is close to cutting rates.
+
+“Recent indicators suggest that economic activity has continued to expand at a solid pace,” the Federal Reserve said in its open market operations statement.
+
+“Job gains have moderated, and the unemployment rate has moved up but remains low. Inflation has eased over the past year but remains somewhat elevated.
+
+“In recent months, there has been some further progress toward the Committee’s 2 percent inflation objective.”
+
+The Fed is keeping short term rates at its target of 5.25 to 5.5 percent, and will continue to sell down its Treasury bill and mortgage-backed securities it bought to print money and trigger inflation and commodity and asset price spikes especially in the Covid period.
+
+...
+
+[Data](articles/c69d28ab.json)
+
+---
+
+### Sri Lankas consumer inflation rise 2.8-pct over 22 months
+
+*2024-08-01 08:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-consumer-inflation-rise-2-8-pct-over-22-months-174750/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s consumer prices in the capital Colombo rose 2.4 percent in the 12-months to July 2024 but the central bank has created only 2.8 percent in the 22 months since its deflationary policy started to show up in the balance of payments in September 2022.
+
+The Colombo Consumer Price Index fell 0.5 index points to 194.7 points in the month of July. The index is now slightly below the level seen in December 2023.
+
+The central bank has generally kept the exchange rate stable, while collecting reserves and reducing its domestic assets to run deflationary policy. Exchange rate became volatile after a build up excess liquidity from dollar purchases in June.
+
+The food and non-alcoholic beverage sub-index rose 0.1 percent in July after rising 2.8 percent a month earlier. The housing and electricity index fell 1.5 percent to 142.9 points.
+
+Exchange rate stability has also boosted profits of the Ceylon Electricity Board and allowed it to cut rates.
+
+...
+
+[Data](articles/d091119c.json)
 
 ---
 
@@ -315,6 +539,28 @@ Meanwhile, Opposition Leader Sajith Premadasa has met with the International Mon
 [Data](articles/c4277b27.json)
 
 [Extended Data](ext_articles/c4277b27.ext.json)
+
+---
+
+### Sri Lanka fuel prices unchanged in Aug
+
+*2024-08-01 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-fuel-prices-unchanged-in-aug-174765/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s retail fuel prices are left unchanged in August 2024, state-run Ceylon Petroleum Corporation said.
+
+The CPC was expected to announce it monthly formula based fuel price effective from midnight on July 32.
+
+The CPC last cut the petrol price by 11 rupees to 344 rupees a litre and 95 Octane 41 rupees to 379 rupees.
+
+Related Sri Lanka cuts petrol price by Rs11, premiums fuels more
+
+Super Diesel (Euro 4) is now at 355 rupees and Standard diesel is at 317 a litre
+
+Kerosene, an expensive fuel similar to Jet fuel is at 202 rupees a litre. (Colombo/Aug01/2024)
+
+◼️
+
+[Data](articles/1bed5747.json)
 
 ---
 
@@ -807,6 +1053,20 @@ One of the main initiatives supported by the bank in partnership with the WNPS i
 [Data](articles/daf5f18c.json)
 
 [Extended Data](ext_articles/daf5f18c.ext.json)
+
+---
+
+### Understanding Sri Lanka president’s lotus-shaped dilemma
+
+*2024-08-01 00:49:00* · [`economynextcom`](https://economynext.com/understanding-sri-lanka-presidents-lotus-shaped-dilemma-174646/) · `en`
+
+ECONOMYNEXT — On Monday July 29, the ruling Sri Lanka Podujana Peramuna (SLPP) voted against backing President Ranil Wickremesinghe at the 2024 presidential election, opting instead to field its own candidate. The calculations that went into this decision are likely more complex than meets the eye and, given what is at stake, are worth discussing.
+
+At the outset, it must be noted that in the absence of closely guarded inside information and scientifically sound polling data, any speculation on the outcome of a national election that’s still some time away has to necessarily involve reasoning built on publicly available information and a certain amount of guesswork. This analysis, therefore, attempts to work out the least unlikely rationale behind the SLPP politburo’s decision and its possible implications, based on information already at hand.
+
+...
+
+[Data](articles/9ad9f1dc.json)
 
 ---
 
@@ -1726,6 +1986,22 @@ Special committee of National Security Tiran Alles, Minister of External Affairs
 
 ---
 
+### උද්ධමනය ඉහළට
+
+*2024-07-31 18:20:03* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411124) · `si`
+
+කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය2024ජූලි මාසය සඳහා 2.4ක් දක්වා වැඩි වී ඇත. එය ජුනි මාසය සඳහා 1.7‌‌ක් ලෙස වාර්තා වී තිබුණි.
+
+2024ජූලි මාසයේදී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 1.5% දක්වා වැඩි වී ඇති අතර, 2024ජුනි මාසයේදී එය වාර්තා වූයේ 1.4ක් ලෙසය.
+
+එමෙන්ම 2024ජූලි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 2.8%ක් දක්වා වැඩි වී ඇති අතර, එය 2024ජුනි මාසයේදී 1.8%ක් ලෙස වාර්තා විය.
+
+◼️
+
+[Data](articles/406847e3.json)
+
+---
+
 ### Deputy Speaker tells President to discuss once with Mahinda
 
 *2024-07-31 18:15:43* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-සමග-එක්-වතාවක්-සාකච්ඡා-කරන්නැයි-නියෝජ්‍ය-කථානායක-ජනපතිට-කියයි/11-411123) · `si`
@@ -1879,351 +2155,5 @@ The Special Committee on National Security includes Minister of Public Security 
 [Data](articles/3c0149f3.json)
 
 [Extended Data](ext_articles/3c0149f3.ext.json)
-
----
-
-### PA cannot be removed from the party
-
-*2024-07-31 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189924) · `ta`
-
-Disciplinary action against President Ranil Wickremesinghe faces challenges, with Parliament's term nearing completion. Commerce Minister Tilum Amunugama suggests eliminating membership but acknowledges it's complex. No one accepted the PM position during political turmoil. Despite challenges, Wickremesinghe's acceptance of leadership roles indicates resilience. His potential success is likened to past leaders' victories, suggesting public support could secure his win.
-
-🟩
-
-It is not easy to take disciplinary action to support President Ranil Wickremesinghe. The lifetime of Parliament will be completed when it takes action through the court.
-
-The Minister of Commerce and Investment Promotion Tilum Amunugama said that if possible, let us eliminate our membership.
-
-He further stated that after a press conference held at the Presidential Media Center on Wednesday (31)
-
-Eliminating membership is not a lighter matter. They can't do anything like that. On the contrary. Therefore, the lifetime of Parliament will be completed before we legally eliminate our membership.
-
-No one accepted the invitation to accept the post of Prime Minister when violence was at its peak due to political crises in the country.
-
-Minister Ramesh Pathirana and I called Ranil Wickremesinghe to tell former President Gotabhaya Rajapaksa. He has accepted the challenge and succeeded in it.
-
-...
-
-[Data](articles/349075f1.json)
-
-[Extended Data](ext_articles/349075f1.ext.json)
-
----
-
-### There is no change in the price of Litro gas!
-
-*2024-07-31 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189927) · `ta`
-
-Litro Gas prices remain unchanged in August, as announced by President Muditha Peiris.
-
-🟩
-
-The company's president Muditha Peiris said the price of Litro Gas would not be changed in August.
-
-◼️
-
-[Data](articles/9b9a8c0d.json)
-
-[Extended Data](ext_articles/9b9a8c0d.ext.json)
-
----
-
-### Police investigator photographed to threaten the struggle of the missing relatives!
-
-*2024-07-31 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189916) · `ta`
-
-Relatives of missing persons from Mullaitivu District protested on Wednesday, facing threats from police and military personnel. The protest included former council member Durairasa Ravikaran and other activists. Despite ongoing intimidation, the community continues its struggle since the war ended.
-
-🟩
-
-Relatives of the Mullaitivu District Disappeared on Wednesday morning (31st)
-
-Since the end of the war, the relations of the missing have been engaged in a continuous struggle in the Mullaitivu district.
-
-Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
-
-It is noteworthy that military, police, civil dressing investigators, etc., are engaged in a series of protests and intimidation.
-
-In the meantime, when the civilian dressing policeman chased the protesters today, the photo was threatened and threatened.
-
-◼️
-
-[Data](articles/14c253b7.json)
-
-[Extended Data](ext_articles/14c253b7.ext.json)
-
----
-
-### Amara's carriage waiting until the gas goes
-
-*2024-07-31 17:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காஸ்-போகும்வரை-காத்திருக்கும்-அமரர்-ஊர்தி/76-341360) · `ta`
-
-A 40-foot-long carriage carrying cooking gas caused significant traffic jams in Boraland, affecting routes like Nuwara Eliya-Kandapalai, Irakkalai, Valappanai, and Udappusallawa. This incident blocked the Nuwara Eliya-Udapussallawa main road for over a kilometer in each direction, disrupting services such as flower delivery to cemeteries and visits to the district hospital.
-
-🟩
-
-The traffic has been disrupted due to a 40 -foot -long carriage machine that has been loaded with cooking gas filled with cooking gas.
-
-The incident, which took place at around 3 pm on Wednesday (31), has caused massive traffic congestion in the small town in Boraland.
-
-At the same time, the vehicles traveling to Kandapalai, Irakalai, Valappanai, Udappusallawa from Nuwara Eliya to Kandapalai, Irakkalai, and vehicles from Udapusallawa to Nuwara Eliya have been parked in the Boralandi area for a long time.
-
-Due to this vehicle disorder, the Nuwara Eliya-Udapussallawa main road has been hit by a distance of over one and a half kilometers in both directions.
-
-Due to this massive vehicle traffic ban, the flower carrier carried out from the Kandapalai area to the Awa simple public cemetery has been halted.
-
-Similarly, the prison sky has also been parked on the road from Valappanai court to Nuwara Eliya Prison.
-
-...
-
-[Data](articles/d23f5380.json)
-
-[Extended Data](ext_articles/d23f5380.ext.json)
-
----
-
-### Here are the six guaranteed 6
-
-*2024-07-31 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199419) · `si`
-
-The Elections Commission has confirmed six presidential candidates: Ranil Wickremesinghe, Sarath Keerthirathna, Ocehala Herath, A.S.P. Liyanage, Sajith Premadasa, and P.W.S.K. Bandaranaike, all of whom have submitted their campaign funds.
-
-🟩
-
-The Elections Commission announces six candidates have been released on the Presidential election.
-
-Ranil Wickremesinghe, Sarath Keerthirathna, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa and P. W. S. K. Bandaranaike has deposited money.
-
-◼️
-
-[Data](articles/dc70c4d5.json)
-
-[Extended Data](ext_articles/dc70c4d5.ext.json)
-
----
-
-### 116 former provincial council members are committed to the victory of President Ranil!
-
-*2024-07-31 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189901) · `ta`
-
-116 UNP and SLPA members pledge support for President Ranil Wickremesinghe's re-election, emphasizing his new agenda and commitment to national development across all administrative structures.
-
-🟩
-
-In the presidential election, 116 members of the Sri Lanka PA and the United National Party (UNP) have assured 116 members of the United National Party today (31) that President Ranil Wickremesinghe's victory is committed to the victory of President Ranil Wickremesinghe.
-
-The President said that he is contesting the presidential election as an independent candidate, with a new purpose and a new program, and that the provincial councils and the central government are dedicated to the development of the country through the 10 administrative structure, including the central government.
-
-The President made this statement at a meeting with former provincial council members representing the United National Party and the PA.
-
-Meanwhile, 116 members of the Sri Lanka PA and the United National Party (UNP) have pledged to be committed to the victory of President Ranil Wickremesinghe in the presidential election.
-
-◼️
-
-[Data](articles/72d55030.json)
-
-[Extended Data](ext_articles/72d55030.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 302.40/50 to US dollar
-
-*2024-07-31 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-302-40-50-to-us-dollar-174672/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 302.40/50 to the US dollar on Wednesday, from 302.48/55 to the US dollar on Tuesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 10.50/65 percent, up from 10.45/60 percent.
-
-A bond maturing on 15.12.2027 closed at 11.85/12.05 percent, up from 11.85/12.00 percent.
-
-A bond maturing on 15.02.2028 closed at 12.00/15 percent, down from 12.05/20 percent.
-
-A bond maturing on 15.09.2029 closed at 12.20/40 percent, down from 12.25/40 percent.
-
-A bond maturing on 15.10.2030 closed at 12.70/85 percent. (Colombo/Jul31/2024)
-
-◼️
-
-[Data](articles/5261b026.json)
-
-[Extended Data](ext_articles/5261b026.ext.json)
-
----
-
-### The defendant cannot be asked to resolve a verdict issued by the High Court - President's Attorney Upul Jayasuriya
-
-*2024-07-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189893) · `ta`
-
-President's Attorney Upul Jayasuriya emphasized that defendants cannot appeal High Court verdicts directly to the Chief Justice or other judges, a practice unheard of in legal texts. He highlighted concerns over the respect for High Court decisions, citing instances where the High Court remained silent despite issues like funding shortages for provincial elections and demands for judicial examination under the Equality Act. Jayasuriya also addressed the challenge of over 600 annual cases involving basic rights violations, questioning the appropriateness of retaining officials implicated in these violations in positions of power.
-
-🟩
-
-After issuing a verdict by the High Court. The defendant cannot address the verdict with the Chief Justice or other judges to resolve it. President Attorney Upul Jayasuriya said that we have not learned in any legal book that can be said.
-
-The National Conference for Organization Change was held in Colombo on Tuesday (30). He said this while participating.
-
-There is no other court over the High Court in the country's courts. But the question arises as to whether we respect the High Court rulings in the present. In such a situation, it is necessary to report that the conscience is not responding. This is a matter of concern. I have not seen such a situation for the past 10 years.
-
-...
-
-[Data](articles/d0fa0e65.json)
-
-[Extended Data](ext_articles/d0fa0e65.ext.json)
-
----
-
-### President of President 3 committees to face future
-
-*2024-07-31 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199418) · `si`
-
-Ranil Wickremesinghe formed three committees to address potential impacts from the assassination of a Hamas leader in Iran, focusing on national security, economic effects, and presidential oversight. These committees, led by key officials, aim to mitigate any direct or indirect consequences on the Middle East and Sri Lanka's economy, ensuring no adverse effect on the public. Their findings will be presented to a top panel for further action.
-
-🟩
-
-President Ranil Wickremesinghe has arranged for three special committees as a prerequisite for the murder of Hamas political leader in Iran.
-
-Accordingly, a special committee of the National Security and the impact of the economy and the President has taken a high level of committee to monitor the proposals of the two committees.
-
-Special committee of National Security Tiran Alles, Minister of External Affairs, Minister of External Affairs, Presidential Counseling Minister of Power and Energy, Senior Advisor to Presidential Counseling and Presidential Advisor to Presidential Advisor Sagala Ratnayake
-
-...
-
-[Data](articles/e9a04fc5.json)
-
-[Extended Data](ext_articles/e9a04fc5.ext.json)
-
----
-
-### Risk to buds to help Ranil
-
-*2024-07-31 17:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-உதவும்-மொட்டுகளுக்கு-ஆபத்து/175-341359) · `ta`
-
-The Sri Lanka Peoples Alliance (PA) plans to field a separate candidate against President Ranil Wickremesinghe in the upcoming presidential election, leading to potential removals of supporters from parliamentary roles. Despite this, 92 MPs and many activists pledge support for Wickremesinghe.
-
-🟩
-
-The party has decided to remove all parliamentarians who will help President Ranil Wickremesinghe from office against the decision to put up a separate candidate in the upcoming presidential election.
-
-Those who have acted against the party's decision will be removed not only from posts but also seat organizer positions. Arrangements have already been made. A senior spokesman of the party said that all information is being investigated.
-
-The political committee of the Sri Lanka Peoples Alliance (PA) decided to present a separate candidate without supporting President Ranil Wickremesinghe in the upcoming presidential election.
-
-After that resolution, 92 MPs announced that they would support President Ranil Wickremesinghe.
-
-The announcement was made during a meeting of the ruling party parliamentarians held at the Presidential Secretariat on Tuesday (30).
-
-...
-
-[Data](articles/7da0001c.json)
-
-[Extended Data](ext_articles/7da0001c.ext.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills
-
-*2024-07-31 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-174662/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were unchanged across maturities at Wednesday’s auction, with 126.3 billion rupees of bills sold of an offered 170 billion, data from the debt office showed.
-
-The 3-month yield was unchanged at 9.14 percent, with 55 billion offered and 85.3 billion rupees of bills sold.
-
-The 6-month yield was unchanged at 9.34 percent, with 55 billion offered and 29.4 billion rupees of bills sold.
-
-The 12-month bills was unchanged at 9.95 percent, with 60 billion offered, and 11.5 billion rupees of bills sold.
-
-Sri Lanka central bank to run out Treasury bills in few months
-
-Market participants said longer term demand is weaker due to election uncertainty. There was strong demand for 3 month bills. (Colombo/July31/2024)
-
-◼️
-
-[Data](articles/15f70510.json)
-
-[Extended Data](ext_articles/15f70510.ext.json)
-
----
-
-### Namal Team in Opponent: Problem for Ministers
-
-*2024-07-31 16:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிரணியில்-நாமல்-அணி-அமைச்சர்களுக்கு-சிக்கல்/175-341358) · `ta`
-
-MPs Mahinda and Namal Rajapaksa, by backing a separate candidate instead of President Ranil Wickremesinghe, risk moving to the opposition in the next parliamentary elections. The Sri Lanka PA's committee faces a crisis as it prepares to field a candidate against the government's wishes, potentially leading to internal conflict and weakening the party's stance ahead of the polls.
-
-🟩
-
-MPs, including Mahinda Rajapaksa and Namal Rajapaksa, who decided to put up a separate candidate without supporting President Ranil Wickremesinghe in the upcoming presidential election, would be in the next parliamentary seats in the opposition.
-
-In the upcoming presidential election, the committee of the Sri Lanka PA candidate should be presented with less than twenty parliamentarians.
-
-Those who have so far supported the government will naturally become an opposition group by supporting the separate candidate.
-
-It is also reported that the remaining MPs are preparing to question the upcoming parliamentary meetings over the seat of the group.
-
-Meanwhile, ministers and diplomatic ministers in the Sri Lanka PA committee, which are supposed to present a separate candidate, have faced the crisis in the face of the party's decision.
-
-It is reported that the opposition to the government has become a problem.
-
-◼️
-
-[Data](articles/2a706623.json)
-
-[Extended Data](ext_articles/2a706623.ext.json)
-
----
-
-### Litro Gas prices to remain unchanged in August
-
-*2024-07-31 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100897/litro-gas-prices-to-remain-unchanged-in-august) · `en`
-
-Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cylinders for the month of August, the company’s chairman Muditha Pieris said.
-
-◼️
-
-[Data](articles/eee3c90a.json)
-
-[Extended Data](ext_articles/eee3c90a.ext.json)
-
----
-
-### Sri Lanka appoints ministerial committees to assess middle east developments
-
-*2024-07-31 16:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-ministerial-committees-to-assess-middle-east-developments-174659/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed three ministerial committees to address potential global and Iranian impacts on the island nation amid fears of an escalating middle east war after the assassination of a Hamas political leader in Iran.
-
-President Ranil Wickremesinghe arranged to appoint the committees “as a preliminary measure to address the security and economic pressures that may affect Sri Lanka, considering the potential developments in the Middle East and globally,” his media division said.
-
-“If a war breaks out, what will happen to fuel prices? If any issues arise, we might need to bring back everyone in the Middle East to Sri Lanka, similar to what we faced when Kuwait was invaded in 1991. This would result in a loss of revenue for the country, making it difficult for the emerging Sri Lanka to handle such a situation,” Wickremesinghe told a gathering of provincial councilors on Wednesday (31).
-
-...
-
-[Data](articles/ec7ae05c.json)
-
-[Extended Data](ext_articles/ec7ae05c.ext.json)
-
----
-
-### The president's kiss;Review
-
-*2024-07-31 16:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதியின்-முத்தம்-பார்த்தவர்கள்-விமர்சனம்/50-341357) · `ta`
-
-Kissing rumors swirl around French President Emmanuel Macron and Sports Minister Odia Gesara during the Paris Olympics opening ceremony. Critics question the public display, pointing out it's unusual for politicians to kiss openly. Macron, 46, is married to Brigitte Trogneux, 68, adding fuel to the speculation.
-
-🟩
-
-Rumors have been rumored to France's social media due to the kissing between French President Emmanuel Macron and France's Sports Minister Odia Gesara.
-
-The kissing between President Macron and Odia was held at the opening of the Paris Olympic Games and the Prime Minister of France Gabriel Attal.
-
-The scene, which kissed not only on the lips of President Macron but also on the neck, was recorded on camera and later spread on social networks. Many people who have seen it have criticized Macron and pointed out that only lovers will kiss so.
-
-It is worth noting that Macron and Audia Costera are 46 -year -old and Macron is married to his 71 -year -old Bridget Trookno.
-
-◼️
-
-[Data](articles/aacd4adb.json)
-
-[Extended Data](ext_articles/aacd4adb.ext.json)
 
 ---

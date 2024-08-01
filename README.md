@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 18:38:29**
+As of **2024-08-01 18:55:40**
 
 ## Newspaper Stats
 
-*Scraped **38,498** Articles*
+*Scraped **38,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,54 @@ adalk | 3,535
 adaderanalk | 4,449
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
-virakesarilk | 6,091
+virakesarilk | 6,092
 adaderanasinhalalk | 6,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,490 (100.0%) of 38,498 articles have been extended.
+38,498 (100.0%) of 38,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### ඔක්තෝබර් සිට ඔබට ලැබෙන ගුවන්ගමන් බලපත්‍රය වෙනස් වෙයි
+### எங்களுடைய உயிர் இருக்கும் வரை போராட்டத்தை கைவிட போவதில்லை; எங்களுடைய பிள்ளைகளை பார்க்கும் வரை நாங்கள் ஓயமாட்டோம் - காணாமல் ஆக்கப்பட்ட உறவினரை தேடும் ஓர் அம்மாவின் மனகுமுறல்
+
+*2024-08-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190041) · `ta`
+
+எங்களுடைய உயிர் இருக்கும் வரை போராட்டத்தை கைவிட போவதுமில்லை எங்களுடைய பிள்ளைகளை பார்க்கும்வரை நாங்கள் ஓய போவதுமில்லை என காணாமல் ஆக்கப்பட்ட உறவினரை தேடும் ஓர் அம்மா தனது மனகுமுறலை வெளிப்படுத்தியிருந்தார்.
+
+முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களால் நேற்றையதினம் முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டிருந்தனர். குறித்த போராட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலே இவ்வாறு தனது மன குமுறலை தெரிவித்திருந்தார்.
+
+எங்கள் குழந்தைகளை தேடி 15 வருடங்களாக தெருத்தெருவாக சாப்பாடு, தண்ணீர் இல்லாமல், படுக்க இடமில்லாமல்
+
+எத்தனை மாதமாக  அடி வாங்கி, பேச்சு வாங்கி இதுவரையிலும் இந்த போராட்டத்தை கைவிடவில்லை. இனியும் எங்களுடைய உயிர் இருக்கும் வரை இந்த போராட்டத்தை கைவிட போவதில்லை.
+
+...
+
+[Data](articles/34f24c8b.json)
+
+---
+
+### The airline license that you receive from October is different
 
 *2024-08-01 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199459) · `si`
 
-2024 ඔක්තෝබර් මාසයේ සිට නව මුහුණුවරක් යටතේ ගුවන්ගමන් බලපත්‍ර නිකුත් කෙරෙන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+Starting October 2024, flight permits will be issued differently, with average, official, and diplomatic passports having distinct colors as per the Defense Minister Tiran Alles' announcement.
 
-ඒ අනුව සාමාන්‍ය, නිල සහ රාජ්‍ය තාන්ත්‍රික ලෙස නිකුත් කෙරෙන එම ගමන් බලපත්‍ර සඳහා එකිනෙකට වෙනස් වර්ණ තුනක් භාවිත කිරීමට නියමිතය.
+🟩
+
+The Minister of Defense Minister Tiran Alles says that flight permits will be issued from October 2024.
+
+Accordingly, the average, official and diplomatic passports are to be used for three different colors.
 
 ◼️
 
 [Data](articles/c17291ba.json)
+
+[Extended Data](ext_articles/c17291ba.ext.json)
 
 ---
 
@@ -61,6 +85,8 @@ At the same time, the judge bench has dismissed four other petitions filed with 
 ◼️
 
 [Data](articles/19971a3c.json)
+
+[Extended Data](ext_articles/19971a3c.ext.json)
 
 ---
 
@@ -120,19 +146,25 @@ The panel has decided to refute any other fundamental rights petitions filed on 
 
 ---
 
-### புலம்பெயர் இளையோருக்கு அமைச்சர் டக்ளஸ் உணர்வுபூர்வ அழைப்பு!
+### Minister Douglas Emotional Call for Migrant Youth
 
 *2024-08-01 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190024) · `ta`
 
-சுவிஸ்லாந்தில் வாழ்ந்து வருகின்ற புலம்பெயர் மக்களின் இரண்டாவது தலைமுறையை சேர்ந்த இளையோர், இலங்கையில் முதலீடுகளை மேற்கொள்ள முன்வரவேண்டும் என்று அழைப்பு விடுத்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, எங்கள் தந்தையர் நாடென்ற பேச்சினிலே..,  ஒரு சக்தி பிறக்கிது மூச்சினிலே" என்ற மகாகவி பாரதியாரின் பாடலை சுட்டிக்காட்டி,  சுவிஸ்லாந்தில் வாழும் இளையோருக்கும் இலங்கைக்கும் இடையிலான உணர்வு ரீதியான பிணைப்பினையும் சுட்டிக்காட்டினார்.
+Minister Douglas Devananda urged Sri Lankan diaspora in Switzerland to invest in Sri Lanka, highlighting the importance of modern technical intellectual investments. He praised the youth for advocating in various sectors and expressed hope for continued Swiss support in tourism, education, and technology, emphasizing mutual benefits and addressing global challenges together.
 
-மேலும், புலம்பெயர் இளையோர் தமக்கு கிடைத்த வாய்ப்புக்களை சரியான முறையில் பயன்படுத்தி பல்வேறு துறைகளிலும் தம்மை தகவமைத்துள்ளதாக பெருமையுடன் சுட்டிக்காட்டிய அமைச்சர், பொருளாதார முதலீடுகளை மாத்திரமன்றி நவீன தொழில்நுட்ப அறிவுசார் முதலீடுகளையும் புலம்பெயர் இளையோரிடம் எதிர்பார்ப்பதாக தெரிவித்தார்.
+🟩
 
-கொழும்பில் உள்ள சுவிஸ்லாந்து தூதரகத்தினால் நேற்று புதன்கிழமை (31) ஏற்பாடு செய்யப்பட்ட சுவிஸ்லாந்தின் 733 ஆவது சுதந்திர தின நிகழ்வில் இலங்கை அரசின் சார்பாக கலந்து கொண்டு உரையாற்றும் போதே கடற்றொழில் அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+Minister Douglas Devananda, who has called on the second generation of the diaspora who live in Switzerland, has called for the investment in Sri Lanka, and in the speech of our father, a power is born, "he pointed out the song of Mahakavi Bharatiyar and the Sri Lankan youth in Switzerland.
+
+In addition, the minister proudly pointed out that the diaspora young people had used their opportunities to properly advocate them in various sectors and said that the diaspora is looking for modern technical intellectual investments only.
+
+The Fisheries Minister said this while addressing the Government of Sri Lanka on behalf of the Government of Sri Lanka at the 733rd Independence Day celebrations organized by the Swiss Embassy in Colombo on Wednesday (31).
 
 ...
 
 [Data](articles/3dc74b98.json)
+
+[Extended Data](ext_articles/3dc74b98.ext.json)
 
 ---
 
@@ -220,39 +252,51 @@ A bond maturing on 15.09.2029 closed at 12.20/45 percent, up from 12.20/40 perce
 
 ---
 
-### மெமெர்கன்டைல் இன்வெஸ்ட்மென்ட்ஸ் குடும்பத்தின் 55ஆவது விரிவாக்கமாக வெலிமடை கிளை
+### Welimada Branch as 55th Extension of Membergandil Investments Family
 
 *2024-08-01 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190005) · `ta`
 
-Mercantile Investments  ஆனது தனது 55ஆவது கிளயை இல. 40, நுவரெலிய வீதி, வெலிமடையில் திறந்துவைத்துள்ளது. பிரதம செயற்பாட்டு அதிகாரி லக்ஸந்த குணவர்தன, சிரேஷ்ட முகாமைத்துவம், பெறுமதிமிக்க வாடிக்கையாளர்கள் மற்றும் உள்ளூர் பிரமுகர்கள்  கலந்துகொண்ட மாபெரும் திறப்பு விழா, நிறுவனத்தின் விரிவான வலையமைப்பின் சமீபத்திய விரிவாக்கத்தைக் குறித்தது.
+Welimada now hosts the 55th branch of Mercantile Investments, marking its expansion. Led by COO Laxantha Gunawardena, the opening ceremony saw customer and dignitary attendance. Managed by Dhammika Pradeep, this branch aims to bolster Welimada's finance sector, offering various services like leasing, vehicle loans, deposits, gold loans, and savings accounts to aid individual and business financial goals.
 
-கிளை முகாமையாளர்  தம்மிக்க பிரதீபின் தலைமையில் அமைக்கப்பட்டுள்ள புதிய கிளை, வெலிமடையின் நிதி வலுவூட்டலில் முக்கிய பங்காற்றுவதற்கு தயாராக உள்ளது.
+🟩
 
-தனிநபர்கள் மற்றும் வணிகங்களின் தேவைகளைப் பூர்த்தி செய்ய வடிவமைக்கப்பட்ட பரந்த அளவிலான நிதித் தயாரிப்புகளை இது வழங்குகிறது.
+Mercantile Investments. 40, Nuwara Eliya Road, Welimada. Chief Operating Officer Laxantha Gunawardena, Senior Management, Great Opening Ceremony attended by valuable customers and local dignitaries marked the latest expansion of the company's comprehensive network.
 
-இதில் குத்தகை மற்றும் வாகனக் கடன்கள், நிலையான வைப்புத்தொகைகள், தங்கக் கடன்கள் மற்றும் சேமிப்புக் கணக்குகள் ஆகியவை அடங்கும், இவை அனைத்தும் வாடிக்கையாளர்களின் நிதி இலக்குகளை அடைய உதவும் வகையில் வடிவமைக்கப்பட்டுள்ளன.
+The new branch, headed by Branch Manager Dhammika Pradeep, is ready to play an important role in Welimada's financial reinforcement.
+
+It provides a wide range of financial products designed to meet the needs of individuals and businesses.
+
+This includes leasing and vehicle loans, standard deposits, gold loans and savings accounts, all designed to help customers achieve financial goals.
 
 ◼️
 
 [Data](articles/3320a579.json)
 
+[Extended Data](ext_articles/3320a579.ext.json)
+
 ---
 
-### திருகோணமலை - சந்தோஷபுரம் களப்பு பிரதேசத்தில்  கசிப்புடன் ஒருவர் கைது!
+### A man arrested in Trincomalee - Santosapuram Kalappu area
 
 *2024-08-01 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190010) · `ta`
 
-திருகோணமலை சம்பூர் பொலிஸ் பிரிவுக்கு உட்பட்ட சந்தோஷபுரம் களப்பு பிரதேசத்தில் கசிப்பு உற்பத்தி மையம் ஒன்று அடையாளம் காணப்பட்டு சுற்றி வளைப்பு மேற்கொண்டதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+In Trincomalee, a man was arrested near Santosapuram Kalappu for running a leak manufacturing center. The Sampur police found and surrounded this facility, seizing 25,000 milliliters of leaks. The suspect, a 43-year-old from Muttur, will face charges at the Muttur court on Thursday.
 
-குறித்த பிரதேசத்தில் 25,000 மில்லி லீட்டர் கசிப்பு உற்பத்தி செய்யப்பட்டிருந்த நிலையில் கைப்பற்றப்பட்டதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-குறித்த, கசிப்பு உற்பத்தி நிலையத்தை நடத்தி வந்த மூதூரின் நெய்தல் நகர் பிரதேசத்தை வசிப்பிடமாகக் கொண்ட 43 வயதுடையவரை சம்பூர் பொலிஸார் கைது செய்துள்ளதாக  தெரிவித்துள்ளனர்.
+Sampur police said that a leakage manufacturing center has been identified and surrounded in the Santosapuram Kalapu area belonging to the Sampur police division of Trincomalee.
 
-மேலும், கைப்பற்றப்பட்ட கசிப்பையும் கைது செய்யப்பட்ட நபரையும் இன்று வியாழக்கிழமை (01)  மூதூர் நீதிமன்றத்தில் ஆஜர் படுத்த நடவடிக்கை எடுப்பதாக சம்பூர் பொலிஸார் தெரிவித்துள்ளனர்.
+Sampur police said that 25,000 milliliters of leaks were seized in the area.
+
+Sampur police have arrested a 43 -year -old man who lives in the weaving city of Muttur, who runs the leak manufacturing plant.
+
+Sampur police said that the seized leakage and the arrested person will be produced at the Muttur court on Thursday (01).
 
 ◼️
 
 [Data](articles/bff813d4.json)
+
+[Extended Data](ext_articles/bff813d4.ext.json)
 
 ---
 
@@ -294,17 +338,23 @@ Speaking to the appointment of Lalith Pathinaee to the appointment of the Senior
 
 ---
 
-### நிருவாக பிரிவிற்கு பொறுப்பான பிரதி பொலிஸ்மா அதிபராக கடமைகளை நிறைவேற்ற லலித் பத்திநாயக்க நியமனம் !
+### Lalith Patinayake appointed as Deputy Inspector General of Police in charge of the administration unit
 
 *2024-08-01 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190023) · `ta`
 
-நிருவாக பிரிவிற்கு பொறுப்பான பிரதி பொலிஸ்மா அதிபராக கடமைகளை நிறைவேற்ற லலித் பத்திநாயக்க தேசிய பொலிஸ் ஆணைக்குழுவினால் நியமிக்கப்பட்டுள்ளார்.
+Lalith Patinayake, appointed by the National Police Commission, takes over as Deputy Inspector General of Police for administration. This follows an interim injunction from the Supreme Court allowing Deshabandu Tennakoon to continue his role as Inspector General of Police.
 
-பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் அப்பதவியில் பணிகளைத்  தொடர உயர் நீதிமன்றம் கடந்த மாதம் 24 ஆம் திகதி இடைக்கால தடை உத்தரவொன்றை பிறப்பித்துள்ளது.
+🟩
+
+Lalith Patinayake has been appointed by the National Police Commission to fulfill the duties as the Deputy Inspector General of Police in charge of the administration.
+
+The Supreme Court issued an interim injunction on the 24th of last month to continue the work of the Inspector General of Police Deshabandu Tennakoon.
 
 ◼️
 
 [Data](articles/06f9600b.json)
+
+[Extended Data](ext_articles/06f9600b.ext.json)
 
 ---
 
@@ -522,33 +572,53 @@ The murder had been carried out on a private dispute between the suspect and the
 
 ---
 
-### இலங்கை ரசிகர்கள் மத்தியில் கிரிக்கெட் விளையாடுவதில் மிகவும் ஆர்வமாக உள்ளோம் : இந்திய அணித் தலைவர் ரோஹித்
+### We are very interested in playing cricket among Sri Lankan fans: Indian captain Rohit
 
 *2024-08-01 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190015) · `ta`
 
-பெருந்தொகையான கிரிக்கெட் ரசிகர்களைக் கொண்ட நாடு இலங்கை. இலங்கையின் கிரிக்கெட் கலாச்சாரம் மிகவும் இனிமையானது. கடந்த 2018 இல் இலங்கை வந்திருந்தேன். இலங்கையர்கள் எந்தளவு கிரிக்கெட்டை நேசிக்கிறார்கள் என்று எனக்குத் தெரியும் . அதனால் நாம் இலங்கைக்கு வந்து கிரிக்கெட் விளையாடுவதில் மிகவும் ஆர்வமாக உள்ளோம். அவர்கள் கிரிக்கெட்டை நேசிப்பதுடன் அவர்களின் அணியையும் நேசிக்கின்றனர். கிரிக்கெட் விளையாடுவதற்கு மிகவும் சிறந்த நாடு. எனவே மகிழ்ச்சியாக 3 போட்டிகளைக் கொண்ட ஒரு நாள் தொடரில் விளையாட ஆர்வமாக உள்ளோம் என இந்திய ஒருநாள் கிரிக்கெட் அணித் தலைவர் ரோஹித் சர்மா தெரிவித்தார்.
+Indian captain Rohit Sharma expresses interest in playing cricket in Sri Lanka, highlighting the country's passionate cricket culture. He mentions a potential one-day series involving India's ODI team, including notable players like Virat Kohli and KL Rahul. This series marks the debut of India's new coach, Gautam Gambhir, and Rohit Sharma as the team captain. Rohit emphasizes the importance of representing the country well and striving for excellence in international competitions.
 
-இந்திய அணி ரோஹித் சர்மா தலைமையில் ரி20 உலகக் கிண்ணத்தை வென்றதையடுத்து, ரோஹித் சர்மா இருபதுக்கு - 20 போட்டியில் இருந்து ஓய்வு பெற்றார். அதன் பின்னர்  ஸிம்பாப்வேக்கு எதிராகவும் இலங்கைக்கு எதிராகவும் ரி20 தொடர்களை சூரியகுமார் யாதவ் தலைமையில் இந்தியா கைப்பற்றியிருந்தது.
+🟩
 
-இந்நிலையில் இலங்கைக்கு எதிராக 3 போட்டிகள் கொண்ட ஒருநாள் தொடரில் இந்திய அணி விளையாடவுள்ளது.
+Sri Lanka has a large number of cricket fans. Sri Lanka's cricket culture is very pleasant. I had come to Sri Lanka in 2018. I know how much Sri Lankans love cricket. So we are very interested in coming to Sri Lanka and playing cricket. They love cricket and love their team. The best country to play cricket. "We are interested in playing in a one -day series with a happy 3 -match series," said Rohit Sharma, captain of the Indian ODI team.
+
+Rohit Sharma has retired from the Twenty20 match after the Indian team won the World Cup led by Rohit Sharma. Since then, India won the T20 series against Simbabwe and Sri Lanka under the leadership of Suriyakumar Yadav.
+
+The Indian team will play in a three -match ODI series against Sri Lanka.
+
+3 ODIs will be held at R Premadasa Ground in Colombo. The first ODI will be held on Friday, the 2nd of the day.
+
+Virat Kohli, KL, led by Rohit Sharma.. The players like Rahul, Shreyas Iyer and Kuldeep Yadav are included in the squad.
 
 ...
 
 [Data](articles/917679d9.json)
 
+[Extended Data](ext_articles/917679d9.ext.json)
+
 ---
 
-### சுவசெரிய VUடன் இணைந்து ஹிக்கடுவைக்கென ஆம்புலன்ஸ்   ஒன்றை புதுப்பித்துள்ள NDB வங்கி
+### NDB Bank has renewed an ambulance for Hikkadu
 
 *2024-08-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190003) · `ta`
 
-சுவசேரிய அறக்கட்டளையுடன்   கைகோர்ப்பதன்மூலம் அம்புலன்ஸ் ஒன்றைப் புதுப்பித்து  NDB இலச்சனையுடன் முத்திரையிடப்பட்டு, நவம் மாவத்தையில் உள்ள NDB தலைமை அலுவலகத்திலிருந்து ஹிக்கடுவைக்கு ஸ்ரீஅதிகாரப்பூர்வமாக மீண்டும் அனுப்பப்பட்டதுடன், இது சரியான நேரத்தில் மருத்துவ உதவியை உறுதி செய்யும் அதே வேளையில் சமூகம் சார்ந்த முயற்சிகளுக்கு ஆதரவளிப்பதில் NDB இன் தற்போதைய அர்ப்பணிப்பை வெளிப்படுத்துவதாக உள்ளது.
+NDB Bank, through its partnership with the Swaseriya Foundation, has renewed an ambulance for Hikkaduwa, ensuring critical emergency services for a year. This initiative, marked by the NDB logo, underscores the bank's social responsibility and commitment to community welfare, aligning with the foundation's mission to provide pre-hospital care nationwide. Despite economic challenges, this collaboration highlights the ongoing efforts to enhance emergency healthcare accessibility.
 
-NDB முத்திரை குத்தப்பட்ட அம்புலன்ஸ், ஒரு வருட காலத்திற்கு ஹிக்கடுவ பகுதியில் இயங்குவதன் மூலம் தேவைப்படும் மக்களிற்கு முக்கியமான அவசரகால சேவைகளை வழங்கும்.
+🟩
+
+The Ambulance was renewed by the Swaseriya Foundation and stamped with the NDB logic, and was sent back from the NDB headquarters in Navam Mawatha to Hikkaduwa, which is at the right time to ensure medical help, while promising medical help.
+
+The NDB stamped ambulance provides important emergency services to the people who are required by running the Hikkaduwa area for a period of one year.
+
+NDB Director /Chief Executive Officer Kelum Etisinghe, speaking, expressed his excitement for this shareholder, as a socially responsible company, NDB Bank is proud to be gathering with the 1990s in support of this national purpose in support of this national purpose.. The hospital has all to access emergency services preceding the hospital. We believe and this effort reflects our commitment to contribute to the well -being of our fellow citizens. ”
+
+The 1990 Swaseriya Foundation has played an important role in providing free pre -hospital care and ambulance services across the country.
 
 ...
 
 [Data](articles/830bc9a0.json)
+
+[Extended Data](ext_articles/830bc9a0.ext.json)
 
 ---
 
@@ -2185,27 +2255,5 @@ To protect these resources for that. We expect justice in the High Court. ”sai
 [Data](articles/019bfe36.json)
 
 [Extended Data](ext_articles/019bfe36.ext.json)
-
----
-
-### President Rajapaksa's support for Ranil's assistance in Pohon
-
-*2024-08-01 10:03:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තවත්-මන්ත්‍රීවරයෙක්-ජනපති-රනිල්ගේ-සහායට/11-411137) · `si`
-
-MP Kapila Nuwan Athukorala, supporting President Ranil Wickremesinghe, emphasizes economic recovery and growth. He highlights Wickremesinghe's leadership during challenging times, stating his commitment to fairness and justice for all parties involved.
-
-🟩
-
-MP Kapila Nuwan Athukorala, the co-chairman of the Trincomalee District Coordinating Committee who supports President Ranil Wickremesinghe has been submitted to economic debt and will be brought to economic growth.He said.
-
-Kapila Nuwan Athukorale said that he had no experience to leave due to the struggle, as he had no experience to leave former President Gotabhaya Rajapaksa.
-
-MP Ranil Wickremesinghe, the only leader of the country, was able to reach the presidential election in a short period of time, but MP Wickremesinghe said he would not abandon the Sri Lankan front periods.He said justice to all supported parties.
-
-◼️
-
-[Data](articles/7fecc85f.json)
-
-[Extended Data](ext_articles/7fecc85f.ext.json)
 
 ---

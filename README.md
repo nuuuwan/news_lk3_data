@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 17:57:05**
+As of **2024-08-01 18:16:13**
 
 ## Newspaper Stats
 
-*Scraped **38,482** Articles*
+*Scraped **38,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,204
-economynextcom | 2,325
+economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,533
-adaderanalk | 4,446
+adaderanalk | 4,447
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
 virakesarilk | 6,085
@@ -26,11 +26,69 @@ adaderanasinhalalk | 6,483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,482 (100.0%) of 38,482 articles have been extended.
+38,482 (100.0%) of 38,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### President’s Fund scholarship’s August instalment transferred to recipients
+
+*2024-08-01 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100920/presidents-fund-scholarships-august-instalment-transferred-to-recipients) · `en`
+
+Under the President’s Fund Scholarship Programme, scholarship instalments for August 2024 have been directly credited to the bank accounts of eligible recipients today (Aug 01).
+
+A short message (SMS) has been sent to all scholarship recipients notifying them of the transfer.
+
+The 17th instalment of the monthly scholarship of Rs. 6,000 for 3,000 students who passed the 2022/2023 O-Level examination and are preparing for the A-Level examination has been credited.
+
+Additionally, the 6th instalment of the same amount for another 6,000 students who passed the 2023/2024 O-Level examinations and are preparing for the A-Level examination has also been deposited.
+
+...
+
+[Data](articles/23d811c8.json)
+
+---
+
+### Sri Lanka’s DFCC Bank plans Rs2bn green bond issue
+
+*2024-08-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-plc-proposes-green-bond-issue-174856/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc said it is planning a senior, rated, 3-year green bond issue to raise 2 billion rupees, with a possible Greenshoe option to raise upto 2.5 billion rupees.
+
+Its Board of Directors at a meeting held on July 31 decided “to issue Senior, Listed, Rated, Unsecured, Redeemable Green Bonds with a term of 3 years to the value of Rupees Two Thousand Million (Rs.2,000,000,000/-),” the bank said in a stock exchange filing.
+
+“With a possible Greenshoe option to issue upto Rupees Two Thousand Five Hundred Million (Rs. 2,500,000,000/-) at the discretion of the Bank in the event of an over subscription.”
+
+The issue is subject to obtaining all necessary regulatory and other approvals.
+
+The interest rates will be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said. (Colombo/Aug1/2024)
+
+◼️
+
+[Data](articles/ad54cce6.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 302.20/30 to US dollar
+
+*2024-08-01 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-20-30-to-us-dollar-174852/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.20/30 to the US dollar on Thursday, from 302.40/50 to the US dollar on Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed stable at 10.50/65 percent.
+
+A bond maturing on 15.12.2027 closed at 11.80/95 percent, down from 11.85/12.05 percent.
+
+A bond maturing on 15.02.2028 closed at 12.05/15 percent, up from 12.00/15 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/45 percent, up from 12.20/40 percent. (Colombo/Aug1/2024)
+
+◼️
+
+[Data](articles/cd18da55.json)
+
+---
 
 ### The decision of LAUGFS gas
 
@@ -2233,73 +2291,5 @@ The search for the other fisherman said that the search for the other fishermen 
 [Data](articles/786cbc6c.json)
 
 [Extended Data](ext_articles/786cbc6c.ext.json)
-
----
-
-### Sri Lanka Port City dollarized zone eyed by 300 businesses
-
-*2024-08-01 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-dollarized-zone-eyed-by-300-businesses-174713/) · `en`
-
-ECONOMYNEXT – Around 300 businesses have applied to start businesses in Sri Lanka’s Colombo Port City special economic zone, and about 50 are being processed, State Minister for Investment Dilum Amungama said.
-
-The Colombo Port City Commission approves large investments such as those that invest in building as primary businesses of strategic importance which get investment incentives.
-
-The cabinet has so far approved around 20 BSI firms and 50 are being in the process of being approved, Minister Amunugama said.
-
-Minister Amunugama said approving financial businesses took some time, because the required regulations took some time to develop in partnership with the central bank.
-
-There is a pipeline of 300 businesses who want to set up shop in the port city, he said.
-
-Businesses can register to operate in the zone and do business internationally without tax benefits as an authorized person subject to applicable rules.
-
-...
-
-[Data](articles/694888bd.json)
-
-[Extended Data](ext_articles/694888bd.ext.json)
-
----
-
-### Federal holds rates, says unemployment rate starting to go up
-
-*2024-08-01 08:56:00* · [`economynextcom`](https://economynext.com/federal-holds-rates-says-unemployment-rate-starting-to-go-up-174741/) · `en`
-
-ECONOMYNEXT – The Federal Reserve has held rates but said unemployment has started to move up, and that the committee “is attentive to the risks to both sides of its dual mandate” indicating that it is close to cutting rates.
-
-“Recent indicators suggest that economic activity has continued to expand at a solid pace,” the Federal Reserve said in its open market operations statement.
-
-“Job gains have moderated, and the unemployment rate has moved up but remains low. Inflation has eased over the past year but remains somewhat elevated.
-
-“In recent months, there has been some further progress toward the Committee’s 2 percent inflation objective.”
-
-The Fed is keeping short term rates at its target of 5.25 to 5.5 percent, and will continue to sell down its Treasury bill and mortgage-backed securities it bought to print money and trigger inflation and commodity and asset price spikes especially in the Covid period.
-
-...
-
-[Data](articles/c69d28ab.json)
-
-[Extended Data](ext_articles/c69d28ab.ext.json)
-
----
-
-### Sri Lankas consumer inflation rise 2.8-pct over 22 months
-
-*2024-08-01 08:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-consumer-inflation-rise-2-8-pct-over-22-months-174750/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s consumer prices in the capital Colombo rose 2.4 percent in the 12-months to July 2024 but the central bank has created only 2.8 percent in the 22 months since its deflationary policy started to show up in the balance of payments in September 2022.
-
-The Colombo Consumer Price Index fell 0.5 index points to 194.7 points in the month of July. The index is now slightly below the level seen in December 2023.
-
-The central bank has generally kept the exchange rate stable, while collecting reserves and reducing its domestic assets to run deflationary policy. Exchange rate became volatile after a build up excess liquidity from dollar purchases in June.
-
-The food and non-alcoholic beverage sub-index rose 0.1 percent in July after rising 2.8 percent a month earlier. The housing and electricity index fell 1.5 percent to 142.9 points.
-
-Exchange rate stability has also boosted profits of the Ceylon Electricity Board and allowed it to cut rates.
-
-...
-
-[Data](articles/d091119c.json)
-
-[Extended Data](ext_articles/d091119c.ext.json)
 
 ---

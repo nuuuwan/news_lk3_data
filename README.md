@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 19:05:57**
+As of **2024-08-01 19:21:58**
 
 ## Newspaper Stats
 
-*Scraped **38,502** Articles*
+*Scraped **38,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
-adalk | 3,535
+adalk | 3,536
 adaderanalk | 4,451
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,784
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,499 (100.0%) of 38,502 articles have been extended.
+38,502 (100.0%) of 38,503 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ The independent candidates are President Ranil Wickremesinghe and former MP Sara
 
 [Data](articles/0c02f368.json)
 
+[Extended Data](ext_articles/0c02f368.ext.json)
+
 ---
 
-### රනිල් දිනවන්න දිනේෂ් සටනට
+### Dinish battle to win Ranil
 
 *2024-08-01 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199460) · `si`
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රමුඛ මහජන එක්සත් පෙරමුණ ඉදිරි‍ ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබේ.
+The United Front, under PM Dinesh Gunawardena, will back President Ranil Wickremesinghe in the upcoming presidential election. This move was confirmed during a central committee meeting.
 
-අද (01) පස්වරුවේ එම පක්ෂයේ මධ්‍යම කාරක සභාව රැස් වූ අවස්ථාවේදී ඒකමතිකව මෙම තීරණයට එළඹුණ බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වැඩිදුරටත් පැවසීය.
+🟩
+
+President's United Front has decided to support President Ranil Wickremesinghe in the next presidential election led by Prime Minister Dinesh Gunawardena.
+
+Prime Minister Dinesh Gunawardena added that this decision was taken at the time of the party's central committee meeting this afternoon.
 
 ◼️
 
 [Data](articles/47497faf.json)
+
+[Extended Data](ext_articles/47497faf.ext.json)
 
 ---
 
@@ -79,6 +87,8 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 ◼️
 
 [Data](articles/7640a930.json)
+
+[Extended Data](ext_articles/7640a930.ext.json)
 
 ---
 
@@ -147,6 +157,22 @@ At the same time, the judge bench has dismissed four other petitions filed with 
 [Data](articles/19971a3c.json)
 
 [Extended Data](ext_articles/19971a3c.ext.json)
+
+---
+
+### කණ්ඩායමේ මොරාල් නංවන්න මුරලිගෙන් දේශනාවක්
+
+*2024-08-01 18:13:35* · [`adalk`](https://www.ada.lk/sports/කණ්ඩායමේ-මොරාල්-නංවන්න-මුරලිගෙන්-දේශනාවක්/9-411151) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩකයන් මෙන්ම පුහුණුකරුවන් අභි ප්‍රේරණය කිරීම වෙනුවෙන් හිටපු ශ්‍රී ලංකා සුපිරි පන්දු යවන ක්‍රීඩක මුත්තයියා මුරලිදරන් උපදෙස් ලබාදීමක් සිදුකර තිබේ.
+
+ශ්‍රී ලංකා වැඩබලන පුහුණුකරු සනත් ජයසූරිය සිය x  ගිනුමෙන් මේ බව නිවේදනය කරන අතරම මුරලි කළ කාර්යය වෙනුවෙන් ඔහුට ස්තූතියද ප්‍රකාශ කර තිබේ.
+
+ඉන්දියාව හා පැවැති විස්සයි20 තරගාවලිය ශ්‍රි ලංකා කණඩායම 3-0ක් ලෙස අන්ත පරාජයක් ලැබීය.
+
+◼️
+
+[Data](articles/e52ddf33.json)
 
 ---
 
@@ -2227,31 +2253,5 @@ It is worth noting that 7 candidates have been controlled so far to contest the 
 [Data](articles/ed4731e9.json)
 
 [Extended Data](ext_articles/ed4731e9.ext.json)
-
----
-
-### Case against selling Milco and NLDB today
-
-*2024-08-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189962) · `ta`
-
-Today, the Supreme Court debates a case filed by the People's Movement to Protect Industrial and Agricultural Lands against selling Milco and NLDB lands. Namal Karunaratne argues these lands are vital resources for national development, emphasizing the need for justice to safeguard them.
-
-🟩
-
-A debate on the Supreme Court will be held today (01) at 10.30 am today.
-
-The case has been filed by the People's Movement to Protect Industrial and Agricultural Lands.
-
-Namal Karunaratne, National Organizer of the All Ceylon Communist Federation, said,
-
-Lands at the Milco Company and the National Plantation Development Board are Sri Lanka's valuable resources. We have a developed program to benefit from these resources to build the country.
-
-To protect these resources for that. We expect justice in the High Court. ”said.
-
-◼️
-
-[Data](articles/46ec8553.json)
-
-[Extended Data](ext_articles/46ec8553.ext.json)
 
 ---

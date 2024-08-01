@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 09:06:55**
+As of **2024-08-01 09:20:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,460
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,374 (100.0%) of 38,375 articles have been extended.
+38,375 (100.0%) of 38,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1626,21 +1626,29 @@ Special committee of National Security Tiran Alles, Minister of External Affairs
 
 ---
 
-### මහින්ද සමග එක් වතාවක් සාකච්ඡා කරන්නැයි නියෝජ්‍ය කථානායක ජනපතිට කියයි
+### Deputy Speaker tells President to discuss once with Mahinda
 
 *2024-07-31 18:15:43* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-සමග-එක්-වතාවක්-සාකච්ඡා-කරන්නැයි-නියෝජ්‍ය-කථානායක-ජනපතිට-කියයි/11-411123) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහාය ලබා ගැනීම සඳහා තවත් එක් වතාවක් ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායක, හිටපු අග්‍රාමාත්‍ය මහින්ද රාජපක්ෂ මහතා සමග සාකච්ඡා කරන ලෙස නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර තිබේ.
+Deputy Speaker Ajith Rajapaksa urged President Ranil Wickremesinghe to consult with former President Mahinda Rajapaksa to gain support from the Sri Lanka Podujana Peramuna (SLPP). This request was made during a parliamentary session, highlighting the importance of unity and strategic alliances for future political gains.
 
-ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී පැවති ආණ්ඩු පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා විසින් මෙම ඉල්ලීම සිදුකර ඇත.
+🟩
 
-මෙම ඉල්ලීම තමාගේ පෞද්ගලික ඉල්ලීමක් බවත් ජනාපතිවරයා සහ අග්‍රාමාත්‍යවරයා එක්ව හෝ නැතිනම් විශේෂ කමිටුවක් මගින් හෝ අවසන් වරට තවත් එක් වරක් මහින්ද රාජපක්ෂ මහතා හමුවී මේ පිළිබඳ සාකච්ඡා කරන ලෙසට නියෝජ්‍ය කථානායක අජිත් රාජපක්ෂ මහතා විසින් මෙම ඉල්ලීම සිදුකර තිබේ.
+Deputy Speaker Ajith Rajapaksa has requested President Ranil Wickremesinghe to discuss with the leader of the Sri Lanka General Wickremesinghe to seek the assistance of the Sri Lanka General Wickremesinghe.
 
-“මේක ඉතාම සංවේදී අවස්ථාවක්. හදවතට දැනෙන ප්‍රශ්නයක්. නමුත් අපි හොඳ බුද්ධියකින් මේ අවස්ථාවේදී කටයුතු කළ යුතුයි.
+The request was made by Deputy Speaker Ajith Rajapakse at the Government Memorandum of Parliament at the Presidential Secretariat under the patronage of the president.
+
+The demand has been made by Deputy Speaker Ajith Rajapaksa to discuss the event and discussed Mahinda Rajapaksa at the last time or the Prime Minister and the Prime Minister, or a special committee.
+
+"This is a very sensitive opportunity. A question that makes the heart feel. But we must act with good intelligence.
+
+According to his advice under the leadership of Mr. Mahinda Rajapaksa for many years. As a result, a discussion will be discussed if you can find the support of the Sri Lanka General Front.
 
 ...
 
 [Data](articles/af8de696.json)
+
+[Extended Data](ext_articles/af8de696.ext.json)
 
 ---
 

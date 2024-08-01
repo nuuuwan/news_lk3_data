@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 22:20:42**
+As of **2024-08-01 22:36:08**
 
 ## Newspaper Stats
 
-*Scraped **38,518** Articles*
+*Scraped **38,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 2,204
 economynextcom | 2,327
 dailyftlk | 2,461
 adalk | 3,540
-adaderanalk | 4,454
+adaderanalk | 4,455
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,787
 virakesarilk | 6,094
-adaderanasinhalalk | 6,490
+adaderanasinhalalk | 6,494
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,517 (100.0%) of 38,518 articles have been extended.
+38,518 (100.0%) of 38,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### 83 Indian fishermen currently in Sri Lanka’s judicial custody: Indian govt tells Parliament
+
+*2024-08-01 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100928/83-indian-fishermen-currently-in-sri-lankas-judicial-custody-indian-govt-tells-parliament) · `en`
+
+The Indian fishermen are apprehended for allegedly crossing the International Maritime Boundary Line (IMBL) and fishing in Sri Lankan waters, and there are 83 Indian fishermen currently in the judicial custody of the island nation, the Indian government has informed Indian Parliament on Thursday (01).
+
+India’s Minister of State for External Affairs Kirti Vardhan Singh in a written response to a question in Rajya Sabha also said four Indian fishermen are serving sentences and 169 Indian fishing vessels have been apprehended by the Sri Lankan authorities.
+
+He was asked whether the government has taken any action with regard to Tamil Nadu Chief Minister’s “letter dated July 11, 2024 requesting the release of 80 fishermen and 173 fishing boats detained by Sri Lankan Navy” and details there of.
+
+...
+
+[Data](articles/67372340.json)
+
+---
+
+### ඝාතන සැලසුමක් ගැන ශානි කරුණු කියයි
+
+*2024-08-01 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199469) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ ශානි අබේසේකර මහතා ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සමක් සලකා බැලීම සඳහා අගෝස්තු 09 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (01) නියෝග කළේය.
+
+තමන් රිය අනතුරකට ලක් කර ඝාතනය කිරීමේ සැලසුමක් ඇති බැවින් දැනට ලබාදී තිබෙන ආරක්ෂාව දැඩි කරන මෙන් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශානි අබේසේකර මහතා මෙම පෙත්සම ගොනුකර ඇත.
+
+අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස පොලිස්පති ලෙස කටයුතු කළ දේශබන්දු තෙන්නකෝන්, ජාතික පොලිස් කොමිසම සහ ආරක්ෂක ලේකම්වරයා ඇතුළු පිරිසක් නම් කර තිබේ.
+
+අදාළ පෙත්සම විජිත් මලල්ගොඩ, මුර්දු ප්‍රනාන්දු සහ යසන්ත කෝදාගොඩ යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/e559281e.json)
+
+---
+
+### IMF 4 වෙනි වාරිකය ගැන ලැබුණු ඉඟිය
+
+*2024-08-01 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199466) · `si`
+
+කෙටි කලක් තුළදී රට ස්ථාවර කිරීමට සහ ආර්ථිකය වර්ධනය කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගත් පියවර ජාත්‍යන්තර මූල්‍ය අරමුදලේ පැසසුමට ලක්වූ බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+ඒ මෙරටට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිසක් හා ජනාධිපතිවරයා අතර අද (01) සිදුකළ සාකච්ඡාවක් අතරතුදීය.
+
+ඒ සම්බන්ධයෙන් අද දෙරණ සමග අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා,
+
+"බාධාවකින් තොරව තුන්වෙනි සමාලෝචනය සම්පූර්ණ කරන්නත් ඒ හරහා අපිට 4 වන වාරිකය ප්‍රමාද නොවී ලබා ගැනීමටත් අවශ්‍ය වැඩපිළිවෙළ අපි සාකච්ඡා කළා. ඒක ඉතා වැදගත් අපිට. යම්කිසි හේතුවක් නිසා  04 වන වාරිකය නිදහස් කිරීම ප්‍රමාද වුනොත් රටේ ආර්ථික තත්ත්වයට කිසියම් අහිතකර බලපෑමක් ඇති වෙනවා."
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය වැඩපිළිවෙළ යටතේ ශ්‍රී ලංකාවට අමෙරිකානු ඩොලර් බිලියන 2.9 ක විස්තීරණ පහසුකමක් අනුමත වූයේ 2023 වසරේ මුල් භාගයේදීය.
+
+එහි පළමු වාරිකය 2023 මාර්තු මාසයේ අනුමත වූ අතර අනතුරුව එහි දෙවැනි වාරිකය දෙසැම්බර් මාසයේත්, තෙවැනි වාරිකය ඉකුත් ජුනි මාසයේදීත් වශයෙන් මේ වන විට අමෙරිකානු ඩොලර් බිලියනයක් ලැබී අවසන් ය.
+
+...
+
+[Data](articles/eabf4170.json)
+
+---
 
 ### Sri Lanka to repatriate expatriate workers if Iran conflict escalates
 
@@ -45,6 +101,50 @@ Minister Sabry also affirmed that the President has appointed two committees to 
 ...
 
 [Data](articles/e69c8463.json)
+
+[Extended Data](ext_articles/e69c8463.ext.json)
+
+---
+
+### 'ADK' live In Concert rap indie ප්‍රසංගයට සියල්ල සූදානම්
+
+*2024-08-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199465) · `si`
+
+'ADK' live In Concert rap indie ප්‍රසංගය වෙනුවෙන් ඊට සහභාගී වීමට  ADK ඇතුළු සංගීත ශිල්පීන් අද (01) පෙරවරුවේ ඉන්දියාවේ සිට කටුනායක ගුවන් තොටුපොළින් මෙරටට පැමිණ තිබුණි.
+
+මට්ටක්කුලියේ උපත ලබා සංගීත ක‍්ෂේත්‍රයට පිවිස ජාත්‍යන්තරය ජයගත් සංගීතඥ ආරියන් දිනේෂ් කනගරත්නම් නොහොත් ADK මේ වනවිට මෙරට මෙන්ම ඉන්දියාවේද ජනප්‍රියත්වයට පත්වී සිටී.
+
+ADK ගයන ROAR ගීතයට 2023 දෙරණ මියුසික් වීඩියෝ අවෝර්ඩ්ස් හිදී හොඳම හිපොප් වීඩීයෝවට හිමි සම්මානය හිමිවූ අතර සම්මාන උළෙලේ වැඩිම සම්මාන සංඛ්‍යාවක්ද හිමිවූයේ ඔහුටය.
+
+මේ ජනප්‍රිය සංගීතඥයා එක්වන ADK ' live In Concert rap indie ප්‍රසංගය එළඹෙන අගෝස්තු 4 වනදා පස්වරු 6 ට කොළඹ නෙළුම් කුලුන පරිශ්‍රයේදී පැවැත්වීමට සියලු කටයුතු සූදානම් කර තිබේ.
+
+ඊට මැලේසියාවේ ශ්‍රී රාස්කෝල්, ඉන්දියාවේ ජැක්ස් ස්ටයිල්ස් සහ ක්‍රිෂ් මනෝජ්, රැප් සිලෝන් ඇතුළු පිරිසක්ද එක්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/5a96e014.json)
+
+---
+
+### කණ්ඩායම තුළ අවාසනාවන්ත දේවල් කිහිපයක් වුණා - සනත් ජයසූරිය
+
+*2024-08-01 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199464) · `si`
+
+හෙට (02) පැවැත්වෙන තරගයේදී ක්‍රීඩකයන්ට මානසිකව ලබාදිය හැකි සහයෝගය උපරිමයෙන් ලබාදෙන ලෙස සනත් ජයසූරිය මහතා ක්‍රීඩාලෝලීන්ගෙන් ඉල්ලා සිටී.
+
+ශ්‍රී ලංකා හා ඉන්දියාව අතර හෙට ආරම්භ වන තරග 03කින් යුත් එක්දින තරගාවලිය පිළිබඳ අද (01) පැවැති ප්‍රවෘත්ති සාකච්ඡාවේදී ඔහු මේ බව අනාවරණය කළේය.
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ වැඩබලන පුහුණුකරු ලෙසින් කටයුතු කරන සනත් ජයසූරිය මහතා වැඩිදුරටත් පවසා සිටියේ, මේ වනවිට ශ්‍රී ලංකා වේගපන්දු යවන්නන් 06 දෙනෙකු ආබාධවලට ලක්වී සිටින බවය.
+
+“බිනුර ප්‍රනාන්දු, ඩිල්ෂාන් මධුසංක, දුෂ්මන්ත චමීර, මතීෂ පතිරණ, ළහිරු කුමාර, නුවන් තුෂාර මේ හය දෙනාම අබාධයට ලක්වෙලා ඉන්නේ. අපි 19 දෙනෙකු කණ්ඩායමට ඇතුළත් කළා.
+
+ශ්‍රී ලංකා කණ්ඩායම ඇතුළේ උණක් තියෙනවා. මහීෂ් තීක්ෂණට උණ හැදිලා හිටියේ, වනිඳු හසරංගට මුල උණ හැදිලා හිටියා. බිනුර ප්‍රනාන්දුව අන්තිමට රෝහල්ගත කරන්නත් වුණා.
+
+අවාසනාවන්ත දේවල් කිහිපයක් වුණා. ඒත් ඒවා අපේ නිදහසට කරුණු නෙමෙයි. මටත් හරි ලේසයි තාවකාලික පුහුණුකරු, මේ තරගාවලි දෙක විතරයි කියලා කියන්න.
+
+...
+
+[Data](articles/60b1549d.json)
 
 ---
 
@@ -2173,105 +2273,5 @@ The CPC Maintains A Buffer Stockn Products and Will Continue an Uninterrupted Su
 [Data](articles/675e9538.json)
 
 [Extended Data](ext_articles/675e9538.ext.json)
-
----
-
-### Concession to the importer and change the status of the national manufacturer - Sajith
-
-*2024-08-01 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189965) · `ta`
-
-Sajith Premadasa criticizes the government for favoring importers over national manufacturers, especially in the coconut oil industry, highlighting issues like unfair taxation and the sale of low-quality, artificially refined oils as natural. He promises changes in the United People's Power regime to address these concerns.
-
-🟩
-
-Providing concessions to the importer and the burden to the national manufacturer must change the conditions.Opposition leader Sajith Premadasa said that if the current government does not change this position, we will change it in the United People's Power regime.
-
-Opposition Leader Sajith Premadasa said this while addressing a discussion with traditional coconut oil producers on Wednesday (31).
-
-Although a government policy that contains double policies that protect the manufacturer and consumers is required, today, the government's unreasonable policy is very unreasonable to impose an 18 percent tax on the domestic manufacturer and remove the tax on the imported coconut oil manufacturer and protect a few.
-
-Although the five -star hostels will be given the right place to the national manufacturers, the national manufacturers and the producers have not been encouraged and supported.
-
-...
-
-[Data](articles/24220140.json)
-
-[Extended Data](ext_articles/24220140.ext.json)
-
----
-
-### Presidential Election Surveillance: European Union - Elections Commission
-
-*2024-08-01 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189977) · `ta`
-
-The European Union and the Elections Commission have agreed on procedures for monitoring presidential elections.
-
-🟩
-
-An agreement on the administrative process to carry out the presidential election monitoring has been signed between the European Union and the Elections Commission.
-
-◼️
-
-[Data](articles/1e97fdeb.json)
-
-[Extended Data](ext_articles/1e97fdeb.ext.json)
-
----
-
-### Sajith surges past AKD, president catching up, Sri Lanka voting intent poll finds
-
-*2024-08-01 11:12:00* · [`economynextcom`](https://economynext.com/sajith-surges-past-akd-president-catching-up-sri-lanka-voting-intent-poll-finds-174789/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa and President Ranil Wickremesinghe gained ground in a voting intent poll for June 2024 with, with the former surpassing leftist candidate Anura Kumara Dissanayake by 13 points, with the latter catching up at only 10 points behind.
-
-The Institute for Health Policy (IHP) which carried out the survey found that support for Premadasa increased to 43 percent (+4) but decreased for Dissanayake to 30 percent (-6) compared to May. Support for President Wickremesinghe increased to 20 percent (+3) whilst a generic Sri Lanka Podujana Peramuna (SLPP) candidate ran at 7 percent (-1).
-
-IHP noted, however, that the June estimates were associated with a substantial increase in model uncertainty, and therefore the two leading candidates remain within the margin of error.
-
-...
-
-[Data](articles/11593a71.json)
-
-[Extended Data](ext_articles/11593a71.ext.json)
-
----
-
-### Do not deposit donations to contribute to the Gaza Children's Fund!
-
-*2024-08-01 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189975) · `ta`
-
-The President's Office advises against donating to the Gaza Children's Fund on July 31, 2024. Any contributions made after this date will be redirected to the President's Fund for Social Relief.
-
-🟩
-
-The President's Office has requested the public not to deposit donations for the Gaza Children's Fund on July 31, 2024.
-
-It has also announced that the fund will be handed over to the President's Fund for Social Relief activities if anyone is deposited in the Presidential Secretariat after July 31, 2024.
-
-◼️
-
-[Data](articles/56d4ba45.json)
-
-[Extended Data](ext_articles/56d4ba45.ext.json)
-
----
-
-### Diana Gamage pleads not guilty to immigration laws violation charges
-
-*2024-08-01 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100909/diana-gamage-pleads-not-guilty-to-immigration-laws-violation-charges) · `en`
-
-Former State Minister Diana Gamage has stated before the Colombo Magistrate’s Court that she is not guilty of allegations on violation of immigration and emigration laws.
-
-Gamage has stated this after the Criminal Investigationa Department (CID) read 07 charge sheets against her before the court this morning (Aug 01).
-
-Accordingly, the Colombo Magistrate’s Court has decided to take up the relevant case, Ada Derana reporter said.
-
-The CID had filed these charge sheets against Diana Gamage under the charges including staying in Sri Lanka without a valid visa and making false statements to the Immigration and Emigration officials.
-
-◼️
-
-[Data](articles/3d8f3620.json)
-
-[Extended Data](ext_articles/3d8f3620.ext.json)
 
 ---

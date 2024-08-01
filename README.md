@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 10:54:33**
+As of **2024-08-01 11:06:27**
 
 ## Newspaper Stats
 
-*Scraped **38,399** Articles*
+*Scraped **38,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,73 @@ dailyftlk | 2,461
 adalk | 3,519
 adaderanalk | 4,436
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,770
+tamilmirrorlk | 4,771
 virakesarilk | 6,065
-adaderanasinhalalk | 6,466
+adaderanasinhalalk | 6,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,394 (100.0%) of 38,399 articles have been extended.
+38,399 (100.0%) of 38,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
 
-### கணவனை கொலை செய்த மனைவி? யாழில் அதிர்ச்சி
+### ’’இனியும்  நன்கொடைகளை வைப்பிலிட வேண்டாம்’’
+
+*2024-08-01 10:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனியும்-நன்கொடைகளை-வைப்பிலிட-வேண்டாம்/175-341391) · `ta`
+
+காசா சிறுவர் நிதியத்திற்கு பங்களிப்புச் செய்வதற்கு வழங்கப்பட்ட காலஅவகாசம் 2024 ஜூலை 31 ஆம் திகதியுடன் நிறைவடைந்துள்ளதோடு, இனியும் அதற்காக நன்கொடைகளை வைப்பிலிட வேண்டாம் என பொது மக்களிடம் கோரிக்கை விடுக்கும் ஜனாதிபதி செயலகம், 2024 ஜூலை 31 ஆம் திகதிக்கு பின்னர் எவரேனும் ஜனாதிபதி செயலகத்தின் வங்கிக் கணக்கில் வைப்புச் செய்யும் பட்சத்தில் அந்த நிதி சமூக நிவாரணச் செயற்பாடுகளுக்காக ஜனாதிபதி நிதியத்திடம் கையளிக்கப்படும் என்றும் அறிவித்துள்ளது
+
+◼️
+
+[Data](articles/b7d97564.json)
+
+---
+
+### මම නිවැරදියි - ඩයනා අධිකරණයට කියූ දේ
+
+*2024-08-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199440) · `si`
+
+ආගමන හා විගමන පනත යටතේ වූ වැරදි සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ගොනුකළ චෝදනාවලට තමන් නිවැරදිකාරිය බව හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය අද (01) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+ඇයට එරෙහිව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඉදිරිපත් කළ චෝදනා පත්‍ර 07ක් අධිකරණය හමුවේ කියවා දීමෙන් අනතුරුව ඇය මේ බව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/3d296754.json)
+
+---
+
+### Wife who murdered her husband?Shock
 
 *2024-08-01 10:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கணவனை-கொலை-செய்த-மனைவி-யாழில்-அதிர்ச்சி/71-341389) · `ta`
 
-யாழ்ப்பாணத்தில் வன்முறை கும்பலை ஏவி கணவனை படுகொலை செய்த குற்றச்சாட்டில் மனைவியையும், மனைவிக்கு துணைபுரிந்த இளைஞன் ஒருவரும் கைது செய்யப்பட்டுள்ளனர்.
+A shocking incident occurred in Jaffna where a family man, known for his involvement in poultry farming, was killed by a gang in a pre-dawn attack. The victim's wife discovered the crime scene and alerted the family, leading to the arrest of two suspects. The motive behind the murder seems to be robbery of a gold chain, which the police are investigating further.
 
-உடுப்பிட்டி இமையான் பகுதியில் கோழி இறைச்சி விற்பனையில் ஈடுபட்டு வந்த குடும்பஸ்தரே இதில் கொலை செய்யப்பட்டுள்ளார்.
+🟩
 
-கடந்த ஜூன் மாதம் 03ஆம் திகதி அதிகாலை வெளிமாவட்டத்தில் இருந்து வாகனம் ஒன்றில் கோழிகள் கொண்டு வரப்பட்டு , அவருக்கு விநியோகம் செய்த பின்னர் வாகனம் திரும்பி சென்றுள்ளது.
+A young man and a young man have been arrested for allegedly murdering a husband in Jaffna.
 
-அதன் பின்னர் வீட்டின் வெளியே சத்தம் கேட்டு குடும்பஸ்தர் வெளியே வந்து பார்த்த போது, வன்முறை கும்பல் ஒன்று அவர் மீது வாள் வெட்டு தாக்குதலை மேற்கொண்டுள்ளது.
+In the Udupiti Imaman area, a family man who was involved in poultry meat has been murdered.
 
-சத்தம் கேட்டு அவரது மனைவி வெளியே வந்த போது, வாள் முனையில் அச்சுறுத்தி அவர் அணிந்திருந்த தங்க சங்கிலியை கொள்ளையிட்டு கும்பல் தப்பி சென்றுள்ளது.
+In the early hours of June 03, the vehicle was returned after he was brought in a vehicle from the outskirts.
 
-வாள் வெட்டில் படுகாயமடைந்த குடும்பஸ்தர் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த சில நாட்களில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்
+When the family came out to hear the noise outside the house, a violent gang was carrying a sword attack on him.
 
-...
+When his wife came out to hear the noise, the gang fled after robbing the gold chain he was wearing.
+
+A family member who was injured in a sword cut has been admitted to the hospital just days after treatment.
+
+Investigations by the police revealed that the jewelery was robbed to convert the murder of the family as a jewelery murder, police arrested the murderer's wife and launched investigations.
+
+◼️
 
 [Data](articles/d7f02efc.json)
+
+[Extended Data](ext_articles/d7f02efc.ext.json)
 
 ---
 
@@ -64,19 +98,27 @@ The main suspect in the killing of ‘Club Wasantha’ at Athurugiriya, Sujeewa 
 
 [Data](articles/f1b62078.json)
 
+[Extended Data](ext_articles/f1b62078.ext.json)
+
 ---
 
-### ලොකු පැටී කොටුවෙයි
+### Big Patti Box
 
 *2024-08-01 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199439) · `si`
 
-ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන සැකකරු ලෙස සැලකෙන සුජීව රුවන් කුමාර නොහොත් ලොකු පැටී නැමැත්තා බෙලරූස්හී දි ආරක්ෂක අංශ අත්අඩංගුවට පත්ව ඇති බව වාර්තා වේ.
+Sujeewa Ruwan Kumara, known as Bigta, was arrested by the main suspect in the Club Wasantha murder case, according to official confirmation from a Sri Lankan security personnel.
 
-අප කළ විමසීමක දී මෙරට ආරක්ෂක අංශ නිලධාරියෙක් ඒ බව නිල වශයෙන් තහවුරු කළේය.
+🟩
+
+It is reported that Sujeewa Ruwan Kumara, or Bigta, has been arrested by the main suspect in Club Wasantha murder.
+
+In an inquiry, a security personnel in Sri Lanka officially confirmed this.
 
 ◼️
 
 [Data](articles/322a8d38.json)
+
+[Extended Data](ext_articles/322a8d38.ext.json)
 
 ---
 
@@ -1946,23 +1988,29 @@ Duminda Dissanayake added: "The present President Ranil Wickremesinghe has reque
 
 ---
 
-### දූෂණ විරෝධී පනත කැබිනට් එකට දාන්න එපා යැයි ප්‍රභලම තරුණ මන්ත්‍රීවරයෙක් ජනපතිගෙන් ඉල්ලයි
+### President requests the President: Anti-Corruption Act is not put in cabinet
 
 *2024-07-31 19:03:11* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණ-විරෝධී-පනත-කැබිනට්-එකට-දාන්න-එපා-යැයි-ප්‍රභලම-තරුණ-මන්ත්‍රීවරයෙක්-ජනපතිගෙන්-ඉල්ලයි/11-411128) · `si`
 
-දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් නොකරන ලෙස තරුණ පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර ඇතැයි වාර්තා වේ.
+A youth MP urges President Ranil Wickremesinghe not to present the anti-corruption bill to the Cabinet, citing its submission should precede the upcoming presidential election. The President plans to consult with senior ministers about the bill, which was initially proposed under his administration but awaits parliamentary decision.
 
-තරුණ මන්ත්‍රීවරයා මෙම ඉල්ලීම කර තිබෙන්නේ ඉදිරි දෙසතිය ඇතුළත දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කිරීමට සියලු කටයුතු සූදානම් කර ඇති පසුබිමකය.
+🟩
 
-මෙම මන්ත්‍රීවරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට දුරකථන ඇමතුමක් ලබා දෙමින් ජනාධිපතිවරණයට පෙර දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් නොකරන ලෙස ඉල්ලීමක් කර ඇත.
+A youth MP has requested the President Ranil Wickremesinghe not to submit anti-corruption bill to the Cabinet.
 
-මන්ත්‍රීවරයාගේ ඉල්ලීම පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රජයේ ජ්‍යෙෂ්ඨ අමාත්‍යවරුන් සමග සාකච්ඡා කර ඉදිරි දින දෙක තුළදී තීරණයක් ගැනීමට නියමිත බවද වාර්තා වේ.
+The youth has made this request in the backdrop of the arrangements to submit the anti-Corruption Bill within the Future.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පාලනය යටතේ දූෂණ විරෝධී පනත් කෙටුම්පත කැබිනට් මණ්ඩලයට ඉදිරිපත් කොට පාර්ලිමේන්තුවේදී සම්මත කරන බව මීට පෙර අමාත්‍ය මණ්ඩල තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී ප්‍රකාශයට පත් කර තිබුණි.
+This MP has requested the President Ranil Wickremesinghe to address the bill before the presidential election.
+
+It is reported that President Ranil Wickremesinghe is scheduled to be discussed with senior government ministers to discuss with senior government ministers.
+
+Under the administration of President Ranil Wickremesinghe, the Bill was presented to the Cabinet at a press conference to decide in Parliament.
 
 ◼️
 
 [Data](articles/5a9ec64e.json)
+
+[Extended Data](ext_articles/5a9ec64e.ext.json)
 
 ---
 
@@ -2110,19 +2158,25 @@ Special committee of National Security Tiran Alles, Minister of External Affairs
 
 ---
 
-### උද්ධමනය ඉහළට
+### Inflation up
 
 *2024-07-31 18:20:03* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-411124) · `si`
 
-කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය2024ජූලි මාසය සඳහා 2.4ක් දක්වා වැඩි වී ඇත. එය ජුනි මාසය සඳහා 1.7‌‌ක් ලෙස වාර්තා වී තිබුණි.
+Colombo's consumer inflation rose from 1.7% in June to 2.4% in July 2024. Food inflation jumped from 1.4% to 1.5%, while non-food inflation surged from 1.8% to 2.8%.
 
-2024ජූලි මාසයේදී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 1.5% දක්වා වැඩි වී ඇති අතර, 2024ජුනි මාසයේදී එය වාර්තා වූයේ 1.4ක් ලෙසය.
+🟩
 
-එමෙන්ම 2024ජූලි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය) 2.8%ක් දක්වා වැඩි වී ඇති අතර, එය 2024ජුනි මාසයේදී 1.8%ක් ලෙස වාර්තා විය.
+Consumer inflation rate of Colombo Municipal Community has increased to 2.4 of July 2024. It was reported as 1.7 for June.
+
+In July 2024, the annual inflation of food category increased to 1.5%, and in June 2024, it was 1.4.
+
+Also, the non-food annual inflation (point) has increased to 2.8% in June 2024, and it was 1.8% in June 2024.
 
 ◼️
 
 [Data](articles/406847e3.json)
+
+[Extended Data](ext_articles/406847e3.ext.json)
 
 ---
 
@@ -2149,47 +2203,5 @@ According to his advice under the leadership of Mr. Mahinda Rajapaksa for many y
 [Data](articles/af8de696.json)
 
 [Extended Data](ext_articles/af8de696.ext.json)
-
----
-
-### Sri Lanka to wrap up talks with IMF team on Aug 01
-
-*2024-07-31 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-wrap-up-talks-with-imf-team-on-aug-01-174703/) · `en`
-
-ECONOMYNEXT – Sri Lanka expects to wrap up talks with a visiting International Monetary Fund mission on August 01, with a wrap up meeting with President Ranil Wickremesinghe, State Minister for Finance, Shehan Semasinghe said.
-
-Sri Lanka is awaiting the assessment from the IMF on the compliance of an in-principle private creditor restructuring deal on the debt sustainability assessment.
-
-Also awaited is a decision from the Official Creditor Committee on the comparability of treatment on the private creditor deal.
-
-Sri Lanka struck a deal involving an initial 28 percent hair cut, which will reduce to 15 percent if gross domestic product expands above expectatons.
-
-◼️
-
-[Data](articles/843e90d0.json)
-
-[Extended Data](ext_articles/843e90d0.ext.json)
-
----
-
-### EXPLAINER: Sri Lanka’s strong ruling party splits ahead of presidential poll
-
-*2024-07-31 18:01:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-strong-ruling-party-splits-ahead-of-presidential-poll-174686/) · `en`
-
-ECONOMYNEXT – Ruling nationalist party Sri Lanka Podujana Peramuna (SLPP)’s internal differences have finally come out through its own actions and criticisms, as a majority of the party’s legislators have chosen to back President Ranil Wickremesinghe in the next presidential poll scheduled for September 21.
-
-The decision to back the current president by at least 92 SLPP legislators came a day after the party led by former leader Mahinda Rajapaksa decided to field their own candidate without announcing the candidate.
-
-Many young SLPP parliament members and senior ministers spoke out to back Wickremesinghe in an independent coalition for the presidential election.
-
-For many political analysts it was not a surprise, and some still say it could be a strategy to woo many opposition legislators to back Wickremesinghe.
-
-Here are some questions (Q) and answers (A) on the background for such a move, possible impacts, and the latest political situation in Sri Lanka:
-
-...
-
-[Data](articles/ca58c102.json)
-
-[Extended Data](ext_articles/ca58c102.ext.json)
 
 ---

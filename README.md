@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 13:55:40**
+As of **2024-08-01 14:08:05**
 
 ## Newspaper Stats
 
-*Scraped **38,441** Articles*
+*Scraped **38,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 369
 islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
-adalk | 3,524
+adalk | 3,525
 adaderanalk | 4,442
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,776
+tamilmirrorlk | 4,778
 virakesarilk | 6,077
 adaderanasinhalalk | 6,473
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,473
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,438 (100.0%) of 38,441 articles have been extended.
+38,441 (100.0%) of 38,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ஜனாதிபதி நிதியம் அதிரடி அறிவிப்பு
+
+*2024-08-01 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-அதிரடி-அறிவிப்பு/175-341409) · `ta`
+
+ஜனாதிபதி நிதியத்தின் கீழ் நடைமுறைப்படுத்தப்படும் புலமைப்பரிசில் திட்டங்களின் கீழ் தகுதி பெற்ற புலமைப்பரிசில் பெறுபவர்களுக்கான 2024 ஓகஸ்ட் மாதத்திற்கான புலமைப்பரிசில் கொடுப்பனவு இன்று (01) வைப்பிலிடப்பட்டுள்ளது.
+
+புலமைப்பரிசில் பெறுபவர்களின் வங்கிக் கணக்குகளுக்கு நேரடியாக வைப்புச் செய்யப்பட்டுள்ளதோடு,புலமைப்பரிசில் கொடுப்பனவுகள் வங்கிகளில் வைப்பு செய்யப்படும் போது, புலமைப்பரிசில் பெறுபவர்கள் அனைவருக்கும் இதுகுறித்து குறுந்தகவல் (SMS) மூலம் தெரிவிக்கப்படும் என்று ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/572da0f2.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் ஆசிரியர் ஒருவர் போட்டி?
+
+*2024-08-01 13:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-ஆசிரியர்-ஒருவர்-போட்டி/175-341408) · `ta`
+
+நிறைவேற்று அதிகாரம் ​கொண்ட 9ஆவது ஜனாதிபதித் தேர்தலுக்கான வாக்களிப்பு செப்டம்பர் 21 ஆம் திகதி நடைபெறவிருக்கிறது. இந்த தேர்தலில் ஆசிரியர் சமூகத்தைச் சேர்ந்த ஒருவர் போட்டியிட உள்ளார் என தகவல்கள் தெரிவிக்கின்றன.
+
+பத்தனை ஸ்ரீபாத தேசிய கல்வியற் கல்லூரியில் பயின்ற இவர், நாட்டில் பல பாடசாலைகளில் கற்பித்துள்ளார். ஜனாதிபதி தேர்தலில் சுயேட்சையாக போட்டியிட உள்ளார் என்றும். கட்டுப்பணத்தை செலுத்துவதற்கான ஏற்பாடுகளை முன்னெடுத்துள்ளார் என்றும் அந்த தகவல்கள் தெரிவிக்கின்றன.
+
+தேர்தலில் போட்டியிடுவதாயின், பாடசாலையில் விடுமுறை பெற வேண்டும். அதற்காக விண்ணப்பித்து, அனுமதியையும் பெற்றுக்கொண்டுள்ளார் என்றும் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/b59020c3.json)
+
+---
 
 ### India officially protests death of fisherman in Sri Lankan waters
 
@@ -48,27 +78,35 @@ The collision was reported early on Thursday morning between a Sri Lankan naval 
 
 [Data](articles/2ca76d7d.json)
 
+[Extended Data](ext_articles/2ca76d7d.ext.json)
+
 ---
 
-### හමාස් නායකයාගේ ඝාතනයට පළිගන්න ඉරානය සුදානමින්
+### Iran prepares to take revenge on Hamas leader's murder
 
 *2024-08-01 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199446) · `si`
 
-ඉරානයේ දී සිදුවූ හමාස් නායක ඉස්මයිල් හනියේගේ ඝාතනයට ප්‍රතිචාර වශයෙන් ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කරන ලෙසට ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අල් කමේනි නියෝග කර තිබේ.
+Iran's spiritual leader orders retaliation for the assassination of Hamas leader Ismail Hananaya, potentially escalating Middle East tensions. The US urges immediate action against the conflict, while Israel remains silent on foreign killings.
 
-ඉස්මයිල් හනියේගේ ඝාතනය දැඩිව විවේචනය කරන ඉරාන අධ්‍යාත්මික නායකයා හදිසියේ රැස්වූ ඉරාන අධ්‍යාත්මික ජාතික ආරක්ෂණ කවුන්සිලය මෙම නියෝගය ලබා දී තිබුණි.
+🟩
 
-ඉස්මයිල් හනියේගේ ඝාතනය සම්බන්ධයෙන් යුක්තිය ඉටුකිරීම තමන්ගේ වගකීම වන බව අධ්‍යාත්මික නායකයාගේ මතයයි.
+Iranian spiritual leader Ayatollah Al Qamani has ordered the killing of Hamyil Hanni's murder in Iran.
 
-මෙවන් පසුබිමක සිය නායකයාගේ ඝාතනය මැද පෙරදිග යුද ගැටුම් වෙනත් දිශානතියකට යොමු කරනු ඇති බව හමාස් සංවිධානය පවසයි.
+The Iranian spiritual protection council was suddenly met with Ismail's murder.
 
-හනියේ ඝාතන සැලසුම පිළිබඳව තමන් දැනුවත්ව නොසිටි බව පවසන අමෙරිකාව අවධාරණය කරන්නේ ඊශ්‍රායල - හමාස් යුද ගැටුම් සම්බන්ධයෙන් වහාම සටන් විරාමයක් අත්‍යවශ්‍ය බවය.
+The spiritual leader is the opinion that justice is responsible for the assassination of Ismail Hananaya.
 
-ඊශ්‍රායලය තමන්ට එල්ල වන චෝදනා පිළිබඳව මෙතෙක් කිසිදු ප්‍රතිචාරයක් දක්වා නැතත් විදෙස් රටවලදී සිය සතුරන් ඝාතනය කිරීම සම්බන්ධයෙන් කුප්‍රකට ඉතිහාසයක් ඊශ්‍රායලයට පවතී.
+The murder of its leader will lead the conflict in the Middle East, the Hamas.
+
+The United States emphasizes that he emphasizes that he is essential immediately for the war conflicts of the war.
+
+Israel has no response to the killing of his enemies in foreign countries, even though Israel has yet to respond to the allegations of their allegations.
 
 ◼️
 
 [Data](articles/c4614606.json)
+
+[Extended Data](ext_articles/c4614606.ext.json)
 
 ---
 
@@ -93,6 +131,8 @@ The company says it wants to provide exceptional travel experiences for tourists
 ...
 
 [Data](articles/c991d6be.json)
+
+[Extended Data](ext_articles/c991d6be.ext.json)
 
 ---
 
@@ -799,6 +839,24 @@ Former parliamentarian Sarath Keerthi Ratna is an independent candidate, Ola Lak
 [Data](articles/721c812d.json)
 
 [Extended Data](ext_articles/721c812d.ext.json)
+
+---
+
+### විදේශ රැකියා ප්‍රේෂණවල පැහැදිලි වර්ධනයක්
+
+*2024-08-01 10:27:08* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-ප්‍රේෂණවල-පැහැදිලි-වර්ධනයක්/11-411138) · `si`
+
+මේ වසරේ පළමු මාස 06 තුළ විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ අමෙරිකානු ඩොලර් මිලියන 3,144ක් දක්වා ඉහළ ගොස් තිබේ.
+
+පසුගිය වසරේ එම කාල සීමාව තුළ විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණ ලැබී ඇත්තේ අමෙරිකානු ඩොලර් මිලියන 2,823ක් බව ශ්‍රී ලංකා මහ බැංකුව සඳහන් කළේය.
+
+එසේම වසරේ පළමු මාසය 6තුළ සංචාරක ක්ෂේත්‍රයෙන් අමෙරිකානු ඩොලර් මිලියන 1,557ක් මුදලක් උපයා ඇති  අතර එය පසුගිය වසරේ අනුරූප කාලය හා සැසදීමේදී දෙගුණයකට ආසන්න වර්ධනයක් බව මහ බැංකුවේ දත්ත පෙන්වා දෙයි.
+
+මේ අතර ජුනි මාසය අවසාන වන විට මෙරට දළ නිල සංචිත ප්‍රමාණය ද අමෙරිකානු ඩොලර් බිලියන 5.7ක් දක්වා ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/42b316e7.json)
 
 ---
 
@@ -2183,75 +2241,5 @@ Therefore, all the nations of the world must come forward for permanent peace in
 [Data](articles/6153e0f7.json)
 
 [Extended Data](ext_articles/6153e0f7.ext.json)
-
----
-
-### 2024-07-31 (Wednesday)
-
-### About 50 foreigners arrested in Sri Lanka
-
-*2024-07-31 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சுமார்-50-வெளிநாட்டவர்கள்-அதிரடியாக-கைது/175-341378) · `ta`
-
-In Sri Lanka, over 50 foreign nationals were arrested in Puttalam for alleged online fraud. The raid in Kalpitiya led to the seizure of 98 mobile phones, 44 computers, and a significant amount of cash. Further probes are ongoing.
-
-🟩
-
-More than 50 foreign nationals have been arrested in Puttalam yesterday (30) on charges of allegedly involved in an online fraud.
-
-Police Media Spokesperson Deputy Inspector General of Police Ruwan Gunasekera said that 44 men and 9 females were arrested in the move.
-
-The suspects were involved in the illegal operation when the investigators were raided by the investigators from the hotel in the Kalpitiya area in Puttalam.
-
-During the operation, 98 mobile phones, 44 computers and large sum cards have been seized by the police and further investigations are being carried out by the Computer Criminal Investigation Department.
-
-Two more foreigners have been arrested on the basis of information received from the arrested suspects. Also, 10 lakh cash was seized. Remble
-
-◼️
-
-[Data](articles/04518474.json)
-
-[Extended Data](ext_articles/04518474.ext.json)
-
----
-
-### So far, 6 people have been controlled
-
-*2024-07-31 23:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-6-பேர்-கட்டுப்பணம்-செலுத்தியுள்ளனர்/175-341377) · `ta`
-
-Six candidates have been approved by the Election Commission for the presidential election on September 21.
-
-🟩
-
-The Election Commission has announced that six candidates have been controlled by the presidential election on September 21.
-
-◼️
-
-[Data](articles/9ba1542b.json)
-
-[Extended Data](ext_articles/9ba1542b.ext.json)
-
----
-
-### Hair Growth Mask Recipe
-
-*2024-07-31 23:13:00* · [`islandlk`](http://island.lk/hair-growth-mask-recipe/) · `en`
-
-Although I still haven’t finished with my Cucumber beauty tips, I thought I’ll tackle the hair growth problem this week and then go back to my Cucumber scene…probably next week.
-
-You will need 01 medium-size onion (helps in stimulating hair follicles), a handful of curry leaves (promotes hair growth and strengthens hair roots), 02 tablespoons of coconut oil (moisturizes the scalp and adds shine), and the contents from 02 vitamin E capsules (nourishes hair follicles and promotes growth).
-
-Heat the coconut oil in a pan, over low heat, and then add the chopped onion and curry leaves to the heated coconut oil.
-
-Sauté them together until the onions turn translucent and the curry leaves become crispy. This helps infuse their nutrients into the oil.
-
-Strain the oil, using a fine sieve or cheesecloth, to separate the solid particles (onion and curry leaves) from the oil. You should be left with infused coconut oil.
-
-Pierce the vitamin E capsules and squeeze out the oil into the strained mixture.
-
-...
-
-[Data](articles/4d99e09e.json)
-
-[Extended Data](ext_articles/4d99e09e.ext.json)
 
 ---

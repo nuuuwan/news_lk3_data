@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 15:55:06**
+As of **2024-08-01 16:08:24**
 
 ## Newspaper Stats
 
-*Scraped **38,462** Articles*
+*Scraped **38,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,204
 economynextcom | 2,323
 dailyftlk | 2,461
 adalk | 3,528
-adaderanalk | 4,443
+adaderanalk | 4,444
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,783
-virakesarilk | 6,083
-adaderanasinhalalk | 6,476
+tamilmirrorlk | 4,784
+virakesarilk | 6,085
+adaderanasinhalalk | 6,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,462 (100.0%) of 38,462 articles have been extended.
+38,462 (100.0%) of 38,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### ශිෂ්‍යත්ව වාරික මුදල් ගිණුම්වලට යොමුකෙරේ
+
+*2024-08-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199450) · `si`
+
+ජනාධිපති අරමුදල යටතේ ක්‍රියාත්මක ශිෂ්‍යත්ව වැඩසටහන් යටතේ සුදුසුකම් ලැබූ ශිෂ්‍යත්වලාභීන් සඳහා 2024 අගෝස්තු මාසයට අදාළ ශිෂ්‍යත්ව වාරික මුදල් අද (01) දින ශිෂ්‍යත්වලාභීන්ගේ බැංකු ගිණුම් වෙත සෘජුවම යොමු කෙරෙන බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+මෙම ශිෂ්‍යත්ව වාරික මුදල් බැංකු වෙත යොමු කිරීමේදී ඒ පිළිබඳව කෙටි පණිවිඩයක් (SMS) මගින් සියලු ශිෂ්‍යත්වලාභීන්ට දැනුම් දී තිබුණි.
+
+2022/2023 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 3,000ක් සඳහා මසකට රුපියල් 6,000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 17 වැනි වාරිකයද, 2023/2024 අ.පො.ස සාමාන්‍ය පෙළ සමත්ව අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිටීමට නියමිත සිසුන් 6,000ක් සඳහා මසකට රුපියල් 6,000 බැගින් ගෙවනු ලබන ශිෂ්‍යත්ව වාරික මුදලේ 06 වැනි වාරිකය ද අදාළ ගිණුම්වලට බැර කර තිබේ.
+
+...
+
+[Data](articles/50309f9c.json)
+
+---
+
+### இலங்கை கடற்படையை கண்டித்து ராமேசுவரத்தில்  வீதிமறியல்
+
+*2024-08-01 15:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடற்படையை-கண்டித்து-ராமேசுவரத்தில்-வீதிமறியல்/175-341414) · `ta`
+
+இலங்கை கடற்படையினர் நடத்திய தாக்குதலில் தமிழக மீனவர்களின் ஒரு விசைப்படகு மூழ்கியது. இதில் இரண்டு மீனவர்களை உயிரிடனும், ஒரு மீனவரின் உடலையும் இலங்கை கடற்படை மீட்டுள்ளது. மாயமான இன்னொரு மீனவரை தேடும் பணி தொடர்ந்து நடைபெற்று வருகிறது.
+
+ராமேசுவரம் மீன்பிடித் துறைமுகத்திலிருந்து சுமார் 400 விசைப்படகுகளில் இரண்டாயிரத்திற்கும் மேற்பட்ட மீனவர்கள் புதன்கிழமை (31)  கடலுக்குச் சென்றனர்.
+
+அவர்கள் நெடுந்தீவு கடற்பகுதியில் அன்றிரவு  மீன்பிடித்துக் கொண்டிருந்தபோது அந்த பகுதியில் ரோந்து பணியில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர் எல்லை தாண்டியதாகச் சொல்லி மீனவர்களை கைது செய்ய தங்களது கடற்படை ரோந்து கப்பலில் துரத்தியுள்ளனர். அப்போது கார்த்திக்கேயன் என்பவரின் விசைப்படகில் கடுமையாக மோதியதில், அந்தப் படகு நடுக்கடலில் மூழ்கியது என இந்திய செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c48f0874.json)
+
+---
+
+### Sri Lanka’s tourism earnings surpass USD 1.5Bln in first half of 2024
+
+*2024-08-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100916/sri-lankas-tourism-earnings-surpass-usd-15bln-in-first-half-of-2024) · `en`
+
+Sri Lanka has earned around USD 1.5 billion from tourism in the first six months of 2024, the Central Bank of Sri Lanka (CBSL) said.
+
+The CBSL points out that it is almost double the growth compared to the first six months of last year.
+
+Meanwhile, foreign workers’ remittances for the first six months of 2024 were recorded as USD 3.14 billion, compared to the USD 2.82 million income from this sector in the same period in 2023.
+
+Additionally, the official foreign reserves of the country have risen to USD 5.7 billion in June, according to the CBSL.
+
+The CBSL further stated that the Sri Lankan rupee has also appreciated against the US Dollar until the month of June 2024.
+
+◼️
+
+[Data](articles/b81c5184.json)
+
+---
 
 ### Six Chinese arrested
 
@@ -49,6 +101,26 @@ The police said that a group of foreigners were arrested without visa.
 [Data](articles/d2cde524.json)
 
 [Extended Data](ext_articles/d2cde524.ext.json)
+
+---
+
+### முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகளுக்கு உரிய தீர்வு பெற்றுக் கொடுக்கப்படும் - இராதாகிருஷ்ணன்
+
+*2024-08-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190007) · `ta`
+
+முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகளை பாராளுமன்றத்தின் கவனத்துக்கு கொண்டுவந்து, அது தொடர்பில் கல்வி அமைச்சு உட்பட சம்பந்தப்பட்ட தரப்புகளுடன் பேச்சு நடத்தப்பட்டு, உரிய தீர்வு பெற்றுக்கொடுக்க நடவடிக்கை எடுக்கப்படும் என்று மலையக மக்கள் முன்னணியின் தலைவரும், நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான கலாநிதி வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்தார்.
+
+முன்பள்ளி ஆசிரியர்களின் சேவையைப் பாராட்டி, அவர்களை கௌரவிக்கும் நிகழ்வு தலவாக்கலை தமிழ் வித்தியாலயத்தில் அண்மையில் நடைபெற்றது.
+
+முன்பள்ளி ஆசிரியர் சம்மேளனம் மற்றும் அதன் நுவரெலியா மாவட்ட கிளை என்பன இணைந்தே நிகழ்வுக்குரிய ஏற்பாடுகளை செய்திருந்தன.
+
+நுவரெலியா, கண்டி மற்றும் பதுளை ஆகிய மாவட்டங்களில் முன்பள்ளி ஆசிரியர்களாக கடமையாற்றுவர்கள் இதன்போது கௌரவிக்கப்பட்டனர். அத்துடன், பாராட்டு சான்றிதழும் வழங்கிவைக்கப்பட்டது.
+
+முன்பள்ளி ஆசிரியர்கள் எதிர்நோக்கும் பிரச்சினைகள் மற்றும் அவர்களின் கோரிக்கைகள் அடங்கிய மகஜரொன்று இந்நிகழ்வில் கலந்துகொண்டிருந்த நாடாளுமன்ற உறுப்பினர் வே. இராதாகிருஷ்ணனிடம் கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/066e6452.json)
 
 ---
 
@@ -93,6 +165,24 @@ The Israeli Army was reportedly tarricted by the Israeli army when he was in a b
 [Data](articles/5920a6b6.json)
 
 [Extended Data](ext_articles/5920a6b6.ext.json)
+
+---
+
+### அரசமைப்பின் நோக்கத்தை மீற முற்படும் - ஜனநாயக மரபுகளிற்கு அச்சுறுத்தலை ஏற்படுத்தும் ஜனாதிபதி தேர்தல்  வேட்பாளரை மக்கள் நிராகரிக்கவேண்டும் - 140க்கும் மேற்பட்ட சிவில் சமூக செயற்பாட்டாளர்கள் கூட்டாக வேண்டுகோள்
+
+*2024-08-01 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190008) · `ta`
+
+அரசமைப்பின் தெளிவான நோக்கத்தை மீற முற்படும் நாட்டின் ஜனநாயக மரபுகளை அச்சுறுத்தும் எந்த ஜனாதிபதி வேட்பாளரையும் நிராகரிக்கவேண்டும்  என நாங்கள் எங்கள் மக்களிற்கும் அனைத்து வேட்பாளர்களிற்கும்  நினைவுபடுத்த விரும்புகின்றோம் என இலங்கையின் சிவில் சமூக செயற்பாட்டாளர்கள் தெரிவித்துள்ளனர்.
+
+பொலிஸ்மா அதிபரை நியமிப்பதற்கான நடவடிக்கைகளை ஜனாதிபதி வேண்டுமென்றே தாமதிப்பது சட்டத்தின் ஆட்சி பொதுபாதுகாப்பு ஆகியவற்றை குறைமதிப்பிற்கு உட்படுத்தும் அரசியலமைப்பு நெருக்கடியை ஏற்படுத்தலாம் எனவும் அவர்கள் தெரிவித்துள்ளனர்.
+
+142 சிவில் சமூக செயற்பாட்டாளர்களும் கல்விமான்களும்,30க்கும் மேற்பட்ட அமைப்புகளும் இணைந்து வெளியிட்டுள்ள அறிக்கையில் இதனை தெரிவித்துள்ளனர்.
+
+பொலிஸ்மா அதிபர் நியமனத்திற்கு எதிரான ஒன்பது மனுக்களையும் ஆறுநாட்களாக செவிமடுத்த பின்னர் 24ம் திகதி ஜூலைகாலை 9.30 மணிக்கு பொலிஸ்மா அதிபரின் நியமனம் அரசமைப்பிற்கு முரணாணது போல தோன்றுகின்றது இது குறித்து முழுமையாக மீள ஆராயவேண்டும் என தீர்மானித்தது.
+
+...
+
+[Data](articles/934da7cc.json)
 
 ---
 
@@ -150,7 +240,7 @@ If you find any information about him, the Katunayake Police are asking the Sri 
 
 ### Inflation to 2.4 percent in July
 
-*2024-08-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190002) · `ta`
+*2024-08-01 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190002) · `ta`
 
 Inflation rose from 1.7% in June to 2.4% in July, according to the Colombo Consumer Price Index. The food index increased to 1.5%, while the non-food index decreased slightly. The overall CPI monthly change was 0.44%, driven by a 0.03% rise in food prices and a 0.47% drop in non-food prices. The core inflation remained stable at 0.44%. The Central Bank aims to manage this through appropriate policies, targeting moderate inflation in the medium term.
 
@@ -2209,105 +2299,5 @@ Looking upon and reflecting on the Colombo Dockyard PLC odyssey, Godakumbura sai
 [Data](articles/6c07bd73.json)
 
 [Extended Data](ext_articles/6c07bd73.ext.json)
-
----
-
-### Oneroad Group DMCC – Dubai delegation explores investment opportunities in Sri Lanka
-
-*2024-08-01 04:58:35* · [`dailyftlk`](https://www.ft.lk/business/Oneroad-Group-DMCC-Dubai-delegation-explores-investment-opportunities-in-Sri-Lanka/34-765015) · `en`
-
-A 12-member delegation from Oneroad Group DMCC Dubai, a leading consortium specialising in global investments, concluded a successful visit to Sri Lanka from 7 to 14 July 2024.
-
-The delegation led by Oneroad Group CEO Chenling Zhang focused on sectors crucial to Sri Lanka’s economic development, including tourism, minerals, transportation, and the Colombo Port City project. The delegation was accompanied by Ambassador of Sri Lanka to the United Arab Emirates Udaya Indrarathna.
-
-...
-
-[Data](articles/0699da69.json)
-
-[Extended Data](ext_articles/0699da69.ext.json)
-
----
-
-### President secures backing from 116 ex-Provincial Council members
-
-*2024-08-01 04:54:25* · [`dailyftlk`](https://www.ft.lk/news/President-secures-backing-from-116-ex-Provincial-Council-members/56-765014) · `en`
-
-At least 116 out of 455 former PC members from SLPP and UNP extends support to President Ranil Wickremesinghe
-
-Endorses proposal to consider President Ranil Wickremesinghe’s victory in upcoming Presidential poll as a significant achievement
-
-President reveals plans to delegate responsibilities to all ten governing bodies, including nine Provincial Governments and Central Government
-
-Announces PC polls will be held under 1988 system following Presidential polls
-
-At least 116 out of 455 former Provincial Council Representatives from the Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) have expressed their support to President Ranil Wickremesinghe ahead of the upcoming Presidential election.
-
-The group expressed their support to the President during a meeting between the President and former Provincial Council representatives from the two parties in Battaramulla yesterday.
-
-...
-
-[Data](articles/cc602db7.json)
-
-[Extended Data](ext_articles/cc602db7.ext.json)
-
----
-
-### Karu calls for resolution of Acting IGP appointment dispute
-
-*2024-08-01 04:53:41* · [`dailyftlk`](https://www.ft.lk/news/Karu-calls-for-resolution-of-Acting-IGP-appointment-dispute/56-765013) · `en`
-
-Former Speaker and National Movement for Social Justice Chairperson Karu Jayasuriya has called on all relevant parties to resolve the dispute in connection to the appointment of an Acting Inspector General of Police.
-
-In a statement, Jayasuriya said it is vital that the Executive, Legislature and Judiciary work in harmony to ensure a free and fair Presidential Election.
-
-“The Constitutional Council chaired by the Speaker too has a national role and we have conveyed options available to the President to resolve this issue. We have also observed that despite the enforcement of the 21st Amendment to the Constitution, a vacancy still remains in the Constitutional Council,” he said.
-
-Jayasuriya noted that the failure to appoint a new member to the vacancy is deeply affecting the performance of the Council in carrying out its duties.
-
-“If the full cadre of 10 members were properly constituted earlier, embarrassing situations would not have arisen,” he said.
-
-...
-
-[Data](articles/a1821cc7.json)
-
-[Extended Data](ext_articles/a1821cc7.ext.json)
-
----
-
-### SLFP Central Committee expresses support for President: PMD
-
-*2024-08-01 04:52:01* · [`dailyftlk`](https://www.ft.lk/news/SLFP-Central-Committee-expresses-support-for-President-PMD/56-765012) · `en`
-
-The Central Committee of the Sri Lanka Freedom Party (SLFP) met with President Ranil Wickremesinghe yesterday and expressed their unwavering support for his victory in the forthcoming Presidential election, the President Media Division said in a statement.
-
-◼️
-
-[Data](articles/ccb30a79.json)
-
-[Extended Data](ext_articles/ccb30a79.ext.json)
-
----
-
-### Marikkar dismisses significance of 92 MPs supporting Wickremesinghe
-
-*2024-08-01 04:50:37* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-dismisses-significance-of-92-MPs-supporting-Wickremesinghe/56-765011) · `en`
-
-SJB MP S.M. Marikkar stresses President is elected through public vote and not through Parliament
-
-Questions if Wickremesinghe being backed by 92 MPs will translate into broader voter support
-
-Points out pointed same MPs who are now backing Wickremesinghe had previously voted no on NCM against Minister Keheliya Rambukwella
-
-Claims many MPs backing Wickremesinghe are those with corruption charges levelled against them
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar has downplayed the significance of 92 MPs extending their support to President Ranil Wickremesinghe, asserting that the President is elected by the majority of the electorate rather than by Parliamentary votes.
-
-Speaking to the media outside the Election Commission of Sri Lanka (ECSL) yesterday, where he was accompanied by party members to place the cash deposit for the Presidential Election on behalf of party leader Sajith Premadasa, Marikkar argued that the backing of 92 MPs does not necessarily translate into broader voter support.
-
-...
-
-[Data](articles/a5e79c1c.json)
-
-[Extended Data](ext_articles/a5e79c1c.ext.json)
 
 ---

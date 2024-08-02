@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 10:20:50**
+As of **2024-08-02 10:36:07**
 
 ## Newspaper Stats
 
@@ -26,65 +26,85 @@ adaderanasinhalalk | 6,501
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,585 (100.0%) of 38,589 articles have been extended.
+38,589 (100.0%) of 38,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### ඔලිම්පික් කාන්තා බොක්සිං තරගයේදී මතුවූ අර්බුදය
+### The crisis emerged in the Olympic Women's Boxing
 
 *2024-08-02 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199478) · `si`
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ 7වන දිනය අද (02) වන අතර ඊයේ (01) දිනයේදී පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ කාන්තා බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටයේදී මතභේදාත්මක සිද්ධියක් ඇතිවිය.
+A controversy arose during the women's boxing event at the Paris Olympics when Angela Karini withdrew from her match against Kalayif after just 46 seconds, citing unusual circumstances. This incident sparked global discussions about the fairness of the competition and the representation of women in sports, particularly in light of previous controversies involving testosterone levels.
 
-එනම් කාන්තා බොක්සිං ඉසව්ව සඳහා ටෙස්ටෙස්ටරෝන් මට්ටම වැඩි ප්‍රමාණයේ කාන්තාවක් ක්‍රීඩා කිරීම නිසාවෙනි.
+🟩
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ 6වන දිනය වූ ඊයේ දිනයේදී බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටයේ තරගයක් පැවැත් වුණු අතර ඒ ඉතාලි බොක්සිං ක්‍රීඩිකා ඇන්ජෙලා කරීනි සහ ඇල්ජීරියාවේ ඉමානේ කලීෆ් අතරය.
+The 7th day of the Paris Olympic Games was today (02), a controversial incident was disputed in the Last 16 at the Paris Olympic Games yesterday.
 
-කලීෆ් සමග ඇන්ජෙලා කරීනි අතර තරගය පැවැත්වූයේ තප්පර 46ක් වැනි කෙටි කාලයක් පමණි.
+That is, the women's boxing event is a majority of a large number of woman.
 
-තරගයෙන් පසු කරීනි සඳහන් කළේ, "මම කවදාවත් ඒ වගේ පහරවල් වලට මුහුණ දීලා නෑ. මේ සිදුවීම ඔලිම්පික් විනිසුරු මඩුල්ලට භාරයි. මගේ ජීවිතය බේරාගැනීමට අවශ්‍ය බැවින් මම ඔලිම්පික් තරගය නතර කළා.''යනුවෙනි.
+The last 16th of the Boxing event was held in the last 16th in the Paris Olympic Games yesterday.
 
-මේ සමග කලීෆ් කාන්තා අංශය නියෝජනය කරමින් බොක්සිං ඉසව්ව නියෝජනය කිරීම සම්බන්ධයෙන් මුළු ලෝකයේම කතාබහක් නිර්මාණය වී තිබේ.
+The competition was held between Angela Karini with Kalayif, only 46 seconds.
 
-ස්ත්‍රී පුරුෂ භාවය තහවුරු කිරීම සඳහා සිදු කරන ලද ටෙස්ටෙස්ටරෝන් පරීක්ෂණ අසමත් වීම හේතුවෙන් පසුගිය වසරේ පැවති ලෝක ශූරතාව තරගාවලියෙන්ද කලීෆ්ව ඉවත් කර තිබුණි.
+After the match, Karini said, "I have never faced that like that. This event is up to the Olympic judge. Since I wanted to save my life, I stopped the Olympics. "
+
+The Khaview representing the Boxing event has been created in the entire world regarding the boxing event.
+
+Khayff had removed the World Championship 2012 due to the Teststartrone tests carried out to ensure gender.
+
+This incident is known by J. K. Rhollot, including a former Prime Minister of England, had expressed his displeasure with the representation of the Khaview's female.
 
 ...
 
 [Data](articles/4d7ab1ec.json)
 
+[Extended Data](ext_articles/4d7ab1ec.ext.json)
+
 ---
 
-### மொட்டு “புதன்” மலரும்
+### The bud will blossom "Wednesday"
 
 *2024-08-02 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-புதன்-மலரும்/175-341443) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் தொடர்பான அறிவிப்பு எதிர்வரும் புதன்கிழமை வெளியிடப்படும் என அக்கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்துள்ளார்.
+The Sri Lanka People's Alliance (PA) will announce its presidential candidate on Wednesday, according to General Secretary Sakara Kariyawasam. This news comes after a meeting led by former President Mahinda Rajapaksa.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தலைமையில் கட்சியின் தலைமையகத்தில் நேற்று (01) இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்துரைத்த போதே மேற்ண்டவாறு குறிப்பிட்டார். R
+🟩
+
+The announcement of the presidential candidate of the Sri Lanka PA will be released on Wednesday, the party's general secretary Sakara Kariyawasam said.
+
+He made this statement to the media after a meeting held at the party headquarters headed by former President Mahinda Rajapaksa yesterday (01).. Remble
 
 ◼️
 
 [Data](articles/706ec49f.json)
 
+[Extended Data](ext_articles/706ec49f.ext.json)
+
 ---
 
-### நரேந்திர மோடியின் இலங்கைக்கான விஜயம்
+### Narendra Modi's visit to Sri Lanka
 
 *2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடியின்-இலங்கைக்கான-விஜயம்/175-341442) · `ta`
 
-இந்தியப் பிரதமர் நரேந்திர மோடியின் இலங்கைக்கான  உத்தியோகபூர்வ விஜயம் இரத்து செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
+Indian PM Narendra Modi's visit to Sri Lanka is canceled due to Sri Lanka's political instability. A recent incident involving a Sri Lankan fisherman's boat crashing into a naval vessel led to diplomatic tension, prompting India to summon its High Commissioner in Delhi.
 
-இலங்கையில் தற்போது நிலவும் அரசியல் சூழ்நிலை காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது.
+🟩
 
-நேற்றையதினம் இலங்கைக் கடற்படையினரின் படகு மோதியதால் இந்திய மீனவர் படகொன்று கடலில் மூழ்கியதில் ஒருவர் பலியான சம்பவம் பதிவாகியிருந்தது.
+Indian media reports that Indian Prime Minister Narendra Modi's official visit to Sri Lanka has been canceled.
 
-இதனை அடுத்து டெல்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகர் இந்திய வெளியுறவு அமைச்சால் அழைக்கப்பட்டு இராஜதந்திர ரீதியிலான எதிர்ப்பு தெரிவிக்கப்பட்டிருந்தது.
+The decision has been taken due to the prevailing political situation in Sri Lanka.
+
+A Sri Lankan fisherman's boat crashed yesterday after a boat crashed into a sea of ​​Sri Lankan navy.
+
+Following this, the Sri Lankan High Commissioner in Delhi was summoned by the Indian Foreign Ministry and objected to diplomatic opposition.
 
 ◼️
 
 [Data](articles/d898262f.json)
+
+[Extended Data](ext_articles/d898262f.ext.json)
 
 ---
 
@@ -1440,23 +1460,29 @@ The visiting IMF staff mission also held discussions with Opposition Leader Saji
 
 ---
 
-### පොහොට්ටුවේ ලේකම් ධුරයෙන් සාගර ඉවත් කරන්න මාතරින් යෝජනා සම්මතයක්
+### Matara from Matara resolution standing as Secretary of Pohoth
 
 *2024-08-01 19:11:28* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ලේකම්-ධුරයෙන්-සාගර-ඉවත්-කරන්න-මාතරින්-යෝජනා-සම්මතයක්/11-411158) · `si`
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණ මාතර දිස්ත්‍රික් බලමණ්ඩලය විසින් ඉදිරි ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමට තීරණය කර තිබේ. එමෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් ධුරයෙන් සාගර කාරියවසම් මහතාව ඉවත් කර එම ධුරය සදහා පත් කරන ලෙස වූ යෝජනාවක් පක්ෂ නායකත්වයට ඉදිරිපත් කිරීම සදහා වූ යෝජනාවක් ද එහි දී සම්මත වී තිබේ.
+The Matara District Council of the Sri Lanka General Front supports Ranil Wickremesinghe for president and proposes changes in leadership, including replacing the Secretary General with Minister Ramesh Pathirana. The decisions were made during a meeting chaired by Power and Energy Minister Kanchana Wijesakara, with various representatives present.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් බල මණ්ඩලය ඊයේ (01දා) රැස්විය. ඒ අවස්ථාවේදී මෙම යෝජනා සම්මත වී ඇත.
+🟩
 
-විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතාගේ ප්‍රධානත්වයෙන් එම රැස්වීම පාලටුව එල්.එච්.කේ හෝටලයේ දී පැවැත්විණි.
+The General Filling Filling Fill of Sri Lanka has decided to support Ranil Wickremesinghe in the next presidential election. It also has a proposal to be submitted to the party leadership as the Secretary General of the Sri Lanka General Front.
 
-ඒ සදහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් බල මණ්ඩලය නියෝජනය කරමින් හිටපු පලාත් සභා මන්ත්‍රීවරුන්,හිටපු පලාත් පාලන ආයතන නියෝජිතයින්,ඡන්ද අපේක්ෂකයින් ඇතුළු තුන්සීයකට ආසන්න පිරිසක් සහභාගී වී ඇත.
+Matara District Council of the Sri Lanka General Front met yesterday (1st). These resolutions have been passed at that time.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය පසුගියදා ගනු ලැබු තීරණය ප්‍රතික්ෂේප කොට වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනාධිපතිවරණයේ දී සහාය දැක්විය යුතු බවට වු යෝජනාව ඉදිරිපත් කර ඇත්තේ අමාත්‍ය කංචන විජේසේකර මහතා විසිනි.
+The meeting was held at the LHK Hotel at the LHK Hotel under the patronage of Power and Energy Minister Kanchana Wijesakara.
+
+Former Provincial Councilors, former provincial councilors, representatives of former provincial councilors, representing former provincial councilors, representing the Matara District Board of the Sri Lanka General Front.
+
+Minister Ranil Wijesekara has presented the proposal to be supported by President Ranil Wickremesinghe to support the presidential election while the Politburo of the Sri Lanka General Front was rejected recently.
 
 ...
 
 [Data](articles/2c3982cc.json)
+
+[Extended Data](ext_articles/2c3982cc.ext.json)
 
 ---
 

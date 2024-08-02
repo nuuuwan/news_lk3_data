@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 20:36:14**
+As of **2024-08-02 20:55:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,688 (100.0%) of 38,689 articles have been extended.
+38,689 (100.0%) of 38,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### රාජ්‍ය අමාත්‍ය කනක හේරත් 18ක් සමග රනිල්ගේ සහායට
+### Ranil's assistance with 18 State Minister Earnanaka Herath
 
 *2024-08-02 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199498) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ කෑගල්ල දිස්ත්‍රික් නායක රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා රඹුක්කන ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරුන් 18 දෙනා සමඟින් ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+Kanaka Herath, Minister of Kegalle District, announced support for Ranil Wickremesinghe in the upcoming presidential election, backed by 18 MPs from the Rambukkana Pradeshiya Sabha. This decision came during a press conference where he criticized the leadership of the Sri Lanka General Front for not grasping the country's current situation.
 
-රාජ්‍ය අමාත්‍යවරයා විසින් අද (02) ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් මේ බව පැවසීය.
+🟩
 
-මෙහිදී හිටපු පළාත් පාලන මන්ත්‍රීවරු අදහස් දක්වමින් පැවසුවේ මහ පොළොවේ යථාර්ථය වටහාගැනීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයන් අසමත්ව ඇති බවය.
+Minister of Kegalle District Minister Kanaka Herath has decided to support Ranil Wickremesinghe in the next presidential election with the 18 MPs of the Rambukkana Pradeshiya Sabha.
+
+He was holding a press conference on a press conference today.
+
+Former local councilors, said that the leaders of the Sri Lanka General Front had failed to understand the reality of the earth.
 
 ◼️
 
 [Data](articles/a123347f.json)
+
+[Extended Data](ext_articles/a123347f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 13:55:39**
+As of **2024-08-02 14:08:13**
 
 ## Newspaper Stats
 
-*Scraped **38,622** Articles*
+*Scraped **38,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 2,483
 adalk | 3,548
 adaderanalk | 4,468
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,801
+tamilmirrorlk | 4,802
 virakesarilk | 6,108
-adaderanasinhalalk | 6,505
+adaderanasinhalalk | 6,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,619 (100.0%) of 38,622 articles have been extended.
+38,622 (100.0%) of 38,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### හුණුපිටිය ගංගාරාමාධිපති පූජ්‍ය ගලබොඩ ඥාණිස්සර හිමි අපවත් වෙති
+
+*2024-08-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199483) · `si`
+
+කලක් රෝගාතුරව සිටි උන්වහන්සේ අද (02) උදෑසන ඇතිවූ හදිසි රෝගී තත්ත්වයක් මත කොළඹ පෞද්ගලික රෝහලකට ඇතුළත් කර තිබුණි.
+
+දශක ගණනාවක් ශාසනික උන්නතියට සහ සමාජ මෙහෙවර වෙනුවෙන් දායක වූ උන්වහන්සේ අපවත් වන විට 81 වැනි වියේ පසුවිය.
+
+◼️
+
+[Data](articles/40606f95.json)
+
+---
 
 ### Chief Incumbent of Hunupitiya Gangaramaya Temple passes away
 
@@ -46,19 +60,41 @@ Sources said that Thero was receiving treatment at a private hospital in Colombo
 
 [Data](articles/52e7cef0.json)
 
+[Extended Data](ext_articles/52e7cef0.ext.json)
+
 ---
 
-### கங்காராமய விகாரையின் பிரதமகுரு காலமானார்
+### கங்காராமய விஹாரதிபதி காலமானார்
+
+*2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விஹாரதிபதி-காலமானார்/175-341458) · `ta`
+
+பொடி ஹமுதுருவோ என அழைக்கப்படும் கொழும்பு கங்காராமய விகாரையின் விஹாரதிபதி  கலாநிதி கல்பொட ஞானிஸ்ஸர தேரர்  காலமானார். இறக்கும் அவருக்கு 8- வயதாகும்.
+
+1943 டிசம்பர் 13,  இல் பிறந்த பொடி ஹமுதுருவோ, இரக்கம், சமத்துவம் மற்றும் மனித குலத்திற்கு சேவை செய்வதற்கான ஆழ்ந்த அர்ப்பணிப்பால் வழிநடத்தப்பட்ட பௌத்த கொள்கைகளின் நடைமுறை மற்றும் பிரசாரத்திற்காக தனது வாழ்க்கையை அர்ப்பணித்துள்ளார்.
+
+◼️
+
+[Data](articles/90a14685.json)
+
+---
+
+### The Prime Minister of the Kangaramaiah Viharaya passed away
 
 *2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விகாரையின்-பிரதமகுரு-காலமானார்/175-341458) · `ta`
 
-பொடி ஹமுதுருவோ என அழைக்கப்படும் கொழும்பு கங்காராமய விகாரையின் பிரதமகுரு கலாநிதி கல்பொட ஞானிஸ்ஸர தேரர் தனது 80ஆவது வயதில் காலமானார்.
+Dr. Kalpoda Gnanisara Thera, the principal of Colombo Gangaramaiah Vihara, known as Podi Hamuduruo, passed away at 80. Born on December 13, 1943, he dedicated his life to promoting Buddhist values of mercy, equality, and humanity through his work.
 
-டிசம்பர் 13, 1943 இல் பிறந்த பொடி ஹமுதுருவோ, இரக்கம், சமத்துவம் மற்றும் மனித குலத்திற்கு சேவை செய்வதற்கான ஆழ்ந்த அர்ப்பணிப்பால் வழிநடத்தப்பட்ட பௌத்த கொள்கைகளின் நடைமுறை மற்றும் பிரச்சாரத்திற்காக தனது வாழ்க்கையை அர்ப்பணித்துள்ளார்.
+🟩
+
+Dr. Kalpoda Gnanisara Thera, the principal of the Colombo Gangaramaiah Vihara, known as Podi Hamuduruo, passed away at the age of 80.
+
+Born on December 13, 1943, Powder Hamuduro devoted his life to the practical and campaign of Buddhist policies led by mercy, equality and humanity.
 
 ◼️
 
 [Data](articles/bdebd4a3.json)
+
+[Extended Data](ext_articles/bdebd4a3.ext.json)
 
 ---
 
@@ -492,17 +528,23 @@ He died on Thursday (31) after he was admitted to the Jaffna Teaching Hospital f
 
 ---
 
-### පෙර පාසලේදි හිසට පොල් ගෙඩියක් වැටී අවුරුදු තුන හමාරක දැරියක් මිය යයි
+### A three and a half-year-old girl dies in the previous school
 
 *2024-08-02 10:58:23* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසලේදි-හිසට-පොල්-ගෙඩියක්-වැටී-අවුරුදු-තුන-හමාරක-දැරියක්-මිය-යයි/11-411162) · `si`
 
-මාවනැල්ල පොලිස් වසමේ මාවනැල්ල නගරය ආසන්නේ පිහිටි පෙර පාසලක ඉගෙනුම ලැබූ දැරියකගේ හිස මතට පොල් ගෙඩියක් වැටිමෙන් එම දැරිය ජීවිතක්ෂයට පත්ව ඇති බව මාවනැල්ල පොලීසිය කියයි.
+In Mawanella, a three-and-a-half-year-old girl tragically died after falling in her preschool yard. The incident occurred early this morning, leading to her untimely death.
 
-ඊයේ පෙරවරුවේ මෙම අනතුර සිදුව තිබේ. පෙර පාසල් මිදුලේ සිටි දැරියගේ හිස මතට පොල්ගෙඩිය වැටිමෙන් අනතුරුව තුවාල ලැබූ ඇයව රෝහල් ගත කිරීමේදී මියගොස් තිබුණි.
+🟩
+
+Mawanella police said that the girl was killed after the fall of a predetermined girl in the Mawanella area in Mawanella.
+
+The accident occurred last morning. After the fall of the girl in the pre-school courtyard, her injured had died when she was injured.
 
 ◼️
 
 [Data](articles/4c383183.json)
+
+[Extended Data](ext_articles/4c383183.ext.json)
 
 ---
 
@@ -2145,51 +2187,5 @@ The Minister said that the plantation people with about 200 years of history are
 [Data](articles/bd21ce55.json)
 
 [Extended Data](ext_articles/bd21ce55.ext.json)
-
----
-
-### ‘Sri Lanka’s agreement will be revised under a future mandate’ – Sajith tells IMF team
-
-*2024-08-01 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100925/sri-lankas-agreement-will-be-revised-under-a-future-mandate-sajith-tells-imf-team) · `en`
-
-Leader of the Opposition Sajith Premadasa states that he informed the International Monetary Fund (IMF) representatives that Sri Lanka’s agreement with the global lender would be revised under a future mandate.
-
-The Opposition Leader made this statement during a meeting with the executive committee of the Government Medical Officers’ Association (GMOA).
-
-The newly-elected executive committee of the GMOA met with Sajith Premadasa today at the Opposition Leader’s Office.
-
-A delegation of the International Monetary Fund (IMF) headed by Senior Mission Chief for Sri Lanka Peter Breuer arrived in the island recently to hold discussions with regard to the progress Sri Lanka has achieved under the Extended Fund Facility (EFF) programme which was approved to the island nation in March last year.
-
-The visiting IMF staff mission also held discussions with Opposition Leader Sajith Premadasa on Wednesday (July 31).
-
-◼️
-
-[Data](articles/fc7df357.json)
-
-[Extended Data](ext_articles/fc7df357.ext.json)
-
----
-
-### Dilith?Anuradha?The decision
-
-*2024-08-01 19:17:11* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ද--අනුරාධාද--තීරණය-අනිද්දා/11-411159) · `si`
-
-The People's Party has nominated former Governor Anuradha Yamapath and entrepreneur Dilith Jayaweera as its presidential candidates. The announcement was made by a spokesperson from the party, who also mentioned that several party members, including eight MPs, will participate in an upcoming event. This includes leaders like Janni Samaraweera, Gamini Welgama, Mano Ganesan, and Professor Channa Jayasumana.
-
-🟩
-
-The bird said to the newspaper that the motherland candidate of the people of the People's Party (CHOGM) is published.
-
-Former Governor Anuradha Yamampath and Entrepreneral Dilith Dilith Jayaweera has been proposed as the presidential candidate.
-
-Accordingly, the party members, including eight Members of Parliament, are due to join the event.
-
-Accordingly, the leader of the National Janni Samaraweera and Gamini Walaboda, the Leader of the New Leader Leader Manager Manual, Manual of Communist Party (UNP) MP Manavathawa Wavatunga, Member of the Communist Party Parliamentarian PS member MPs.Professor Channa Jayasumanu is due to join the event.
-
-◼️
-
-[Data](articles/4efebbeb.json)
-
-[Extended Data](ext_articles/4efebbeb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 18:38:13**
+As of **2024-08-02 18:55:03**
 
 ## Newspaper Stats
 
-*Scraped **38,668** Articles*
+*Scraped **38,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
-economynextcom | 2,334
+economynextcom | 2,345
 dailyftlk | 2,483
 adalk | 3,553
 adaderanalk | 4,478
@@ -26,11 +26,69 @@ adaderanasinhalalk | 6,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,666 (100.0%) of 38,668 articles have been extended.
+38,668 (100.0%) of 38,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Sri Lanka’s controversial VFS Global visa deal suspended by top court
+
+*2024-08-02 18:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-controversial-vfs-global-visa-deal-suspended-by-top-court-175093/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s controversial IVS-GBS VFS Global visa deal awarded without a public tender has been suspended by the island’s Supreme Court after several parties filed public interest petitions.
+
+Court has issued interim orders suspending a cabinet decision which granted deal to a private consortium, until the final determination of the case, litigants said.
+
+Court ordered that the operation carried out by VFS global and their associates be suspended and the status quo that prevailed prior to April 17 be restored.
+
+Prior to April 17, the Mobitel (Pvt) Ltd was operating a user friendly website through which electronic travel authorization could be applied. A tourist visa was given for 50 dollars and a 1 dollar fee.
+
+The orders were issued by Justices, Preethi Padman Surasena, Kumuduni Wickramasinghe and Achala Wengappuli.
+
+Sri Lanka legislators go to Court against IVS-VFS Global visa deal
+
+Three Sri Lanka legislators and other parties went to court against the deal. (Colombo/Aug02/2024)
+
+◼️
+
+[Data](articles/d09ccb85.json)
+
+---
+
+### Sri Lanka to start on ‘River to Jaffna’ water scheme: President
+
+*2024-08-02 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-on-river-to-jaffna-water-scheme-president-175054/) · `en`
+
+ECONOMYNEXT – Sri Lanka will address the scarcity of safe drinking water in its north by finally starting on its long-touted “River for Jaffna” project, which was proposed by an engineer 70 years ago, President Ranil Wickremesinghe has said.
+
+Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalination Plant this morning (2).
+
+“The establishment of this water purification plant will significantly resolve the drinking water issues in Jaffna. We also intend to commence work on the Paliaru Reservoir to provide water to the Pooneryn area,” Wickremesinghe said.
+
+“I have also decided to launch a “River for Jaffna” program. Once both this purification plant and this program are fully implemented, the water problem in Jaffna will be completely resolved. This will help restore the Vadamarachchi area to its former lush state.”
+
+...
+
+[Data](articles/8e6bb4da.json)
+
+---
+
+### Sri Lanka’s top court suspends controversial VFS deal
+
+*2024-08-02 18:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-suspends-controversial-vfs-deal-175088/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court suspended a contract given to private consortium IVS-GBS and VFS Global to deal with visa issuance after eight Fundamental Rights (FR) cases were filed against giving the deal without competitive tender, a petitioner said.
+
+“Court Granted leave to proceed. There are 8 Petitions filed including ours and court heard all together. With leave to proceed, the court also gave 3 interim reliefs,” an official at Transparency International Sri Lanka (TISL), one of the eight petitioners told Economy Next.
+
+The apex court suspended the decision of the cabinet to go ahead with the private consortium and the operation of the outsourcing agreement with the companies, while restraining the respondents from taking any further steps on the agreement entered, the official said.
+
+...
+
+[Data](articles/e99390ca.json)
+
+---
 
 ### India target 230 runs
 
@@ -87,6 +145,8 @@ This order was issued while granting leave to proceed with the hearing of severa
 ◼️
 
 [Data](articles/b549464f.json)
+
+[Extended Data](ext_articles/b549464f.ext.json)
 
 ---
 
@@ -182,6 +242,44 @@ Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. 
 
 ---
 
+### Sri Lanka seeks details after getting OCC, IMF views on ISB restructure plan
+
+*2024-08-02 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-details-after-getting-occ-imf-views-on-isb-restructure-plan-175045/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sought further details after getting an initial assessment by the International Monetary Fund and the Official Creditor Committee on a restructure plan struck with sovereign bond holders, the Finance Ministry said.
+
+The IMF has to give a verdict on whether the debt plan is in line with a debt sustainability analysis and official creditors have to say whether it is fits the comparability of treatment.
+
+The statement did not say what the initial assessments indicated.
+
+“Once these have been received, it will be possible to engage further with bondholders on the basis of the information provided by these assessments and conclude the process,” the statement said.
+
+The International Monetary Fund concluded a mission to Sri Lanka. (Colombo/Aug02/2024)
+
+◼️
+
+[Data](articles/5d3b6bb0.json)
+
+---
+
+### Sri Lanka raises state pensions from September
+
+*2024-08-02 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-raises-state-pensions-from-september-175048/) · `en`
+
+ECONOMYENXT – Sri Lanka’s government pensioners will be paid an additional interim allowance of 3,000 rupees from September, State Minister for Finance Ranjith Siyambalapitiya said.
+
+The cost of the payments for the rest of 2024 will be 8.4 billion rupees, Minister Siyambalapitiya said.
+
+Sri Lanka has raised more taxes in 2024 helped by higher value added tax rates, a recovering economy and PAYE taxes on mostly from private sector workers.
+
+Sri Lanka has a bloated state with unemployed graduates being given non-existent jobs on top of a military expansion to fight the last civil war and there are calls to reduce the shrink by attrition, while allowing salaries of remaining people to be raised. (Colombo/Aug02/2024)
+
+◼️
+
+[Data](articles/cb9d2927.json)
+
+---
+
 ### IMF continued support
 
 *2024-08-02 17:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-தொடர்ந்து-ஆதரவு/175-341472) · `ta`
@@ -274,6 +372,28 @@ The Thero was reportedly receiving treatment at a private hospital in Colombo at
 
 ---
 
+### Sunshine Holdings to amalgamate its subsidiary Sunshine Packaging
+
+*2024-08-02 17:09:00* · [`economynextcom`](https://economynext.com/sunshine-holdings-to-amalgamate-its-subsidiary-sunshine-packaging-175043/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Sunshine Holdings Plc said it will merge its subsidiary Sunshine Packaging Lanka Limited.
+
+“The Board of Directors of Sunshine Holdings PLC has resolved to amalgamate with Sunshine Packaging Lanka Limited, a fully owned subsidiary of Sunshine Holdings PLC,” the company said in stock exchange filing.
+
+“Sunshine Holdings PLC will amalgamate all assets and liabilities of Sunshine Packaging Lanka Limited and the amalgamated company will be Sunshine Holdings PLC.”
+
+The amalgamation will be carried out in terms of section 242 (1) of the Companies Act No. 7 of 2007 and the amalgamation will expect to take effect on 01st October 2024, the company said.
+
+Directors of Sunshine Holdings Plc will remain as directors of the amalgamated company after the amalgamation.
+
+The diversified conglomerate’s National Long-Term Rating of at ‘AA+(lka)’ with a stable outlook was confirmed in May by Fitch Ratings. (Colombo/Aug2/2024)
+
+◼️
+
+[Data](articles/1e118690.json)
+
+---
+
 ### 35 lakh people in the country cannot continue to get clean drinking water
 
 *2024-08-02 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190112) · `ta`
@@ -318,17 +438,67 @@ The trade unfolded despite relations between Washington and Moscow being at thei
 
 ---
 
-### ජපානය හා කොරියාව සමග ලංකාව සමවෙයි
+### Sri Lanka rupee closes stronger at 301.90/302.05 to US dollar
+
+*2024-08-02 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-90-302-05-to-us-dollar-175025/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/302.05 to the US dollar on Friday, from 302.20/30 to the US dollar on Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.45/60 percent, down from 10.50/65 percent.
+
+A bond maturing on 15.12.2027 closed at 11.70/85 percent, down from 11.80/95 percent.
+
+A bond maturing on 15.02.2028 closed at 12.00/10 percent, down from 12.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 12.20/35 percent, down from 12.20/45 percent.
+
+A bond maturing on 15.10.2030 closed at 12.70/85 percent. (Colombo/Aug2/2024)
+
+◼️
+
+[Data](articles/3c9172de.json)
+
+---
+
+### Sri Lanka stocks close up, foreign buying interest in John Keells
+
+*2024-08-02 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-buying-interest-in-john-keells-175020/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.02 percent, or 2.85 points, at 11,442; while the more liquid S&P SL20 Index closed up 0.26 percent, or 8.53 points, at 3,290.
+
+“There was foreign appetite on John Keells Holdings Plc,” Softlogic Stockbrokers said. “This brought in 56 million, about 11 percent of the total turnover.”
+
+John Keells Holdings Plc was the top turnover generator of the day, and closed up at 180.25.
+
+“There was also some renewed interest in companies that had palm oil cultivation in their portfolios, because the government has indicated a lifting of the ban on palm oil cultivations.”
+
+Watawala Plantations Plc, which released interim results, showed a slump in profits on a Q-o-Q basis, though up on a Y-o-Y basis. “This was mainly due to their exposure to palm oil and dairy, which recorded low volumes.”
+
+...
+
+[Data](articles/1ad85341.json)
+
+---
+
+### Sri Lanka is conquering with Japan and Korea
 
 *2024-08-02 16:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-හා-කොරියාව-සමග-ලංකාව-සමවෙයි/11-411170) · `si`
 
-ජන ඝණත්වය වර්ග කිලෝමීටරයකට 300 වඩා පවතින සහ වන ගහනය 30% සීමාවේ  පවත්වාගෙන යන  ලොව රටවල් 3 අතර ශ්‍රී ලංකාව  පසුවන බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී අනාවරණය විය. ඒ අනුව ශ්‍රී ලංකාවට අමතරව එලෙස වනාන්තර පද්ධතියක් පවත්වාගෙන යනු ලබන්නේ  දකුණු කොරියාව, ජපානය යන රවටල් දෙක පමණක් වන බව, වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීහු පැවසුහ.‍
+Sri Lanka ranks among the top three countries globally for tree density, surpassing Japan and South Korea. A report by the Committee on Public Accounts highlighted this achievement, emphasizing the importance of forest conservation. The Department of Forest Conservation noted that while global forest coverage stands at 31%, Sri Lanka maintains a similar percentage. The committee urged for faster gazetting of protected areas to enhance conservation efforts.
 
-මේ පිළිබද කරුණු අනාවරණය වූයේ රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන් රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගිය 25 වන දා පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය. 2020, 2021 හා 2022 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරික්ෂා කිරීම සඳහා වන සංරක්ෂණ දෙපාර්තමේන්තුව මෙදින කාරක සභාව හමුවට කැඳවා තිබුණි. ලෝක‍යේ රටවල් තුළ  පවතින  වනාන්තර වල  ප්‍රතිශතය 31% ලෙස  සලකන අතර මෙරට වනාන්තර ප්‍රතිශතය 30% මට්ටමේ පැවතීම ඉතා යහපත් තත්ත්වයක් වන බව, වන සංරක්ෂණ දෙපාර්තමේන්තු නිලධාරීහු  පෙන්වා දුන්හ.
+🟩
+
+The Committee on Public Accounts revealed that Sri Lanka was between 300 countries in 300 countries that run between 300 crops and the world's 3 countries per square kilometer.. Accordingly, South Korea and Japan is only two deceased, according to Sri Lanka, is only two deceased.
+
+The following was revealed when the Committee on State Accounts met with the President of State Minister Lasantha Alagiyawanna.. The Department of Forest Conservation was summoned to the investigation of the report and the present performance of 2020, 2021 and 2022 years of performance.. The forests in the world is considered 31%, and forest conservation department officials pointed out that the percentage of the country is in the level of 30%.
 
 ...
 
 [Data](articles/c2a98572.json)
+
+[Extended Data](ext_articles/c2a98572.ext.json)
 
 ---
 
@@ -960,6 +1130,46 @@ Most people are eager to visit Jaffna. In this case, it also reflects the growin
 
 ---
 
+### IMF says assessed Sri Lanka ISB deal, urge taxes in next budget
+
+*2024-08-02 13:20:00* · [`economynextcom`](https://economynext.com/imf-says-assessed-sri-lanka-isb-deal-urge-taxes-in-next-budget-174918/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund said it has given an assessment of a deal with international sovereign bondholders to Sri Lanka and the advisors of the investors and urged new tax measures in the 2025 budget to help maintain stability.
+
+IMF staff had assessed the ‘Joint Working Framework’ with on sovereign bonds and has “provided this assessment to the authorities and, on their request, the financial advisors of the bondholders,” the statement said without mentioning its contents.
+
+“We encourage a swift resolution of the remaining steps to achieve debt sustainability and regain investor confidence,” Mission Chief Peter Breuer said in a statement.
+
+“We will continue to support Sri Lanka’s ongoing debt restructuring efforts. The authorities have made commendable progress with putting debt on a path towards sustainability.
+
+“The execution of the domestic debt restructuring and finalizing the agreements with the Official Creditor Committee and China EXIM Bank are major milestones.”
+
+...
+
+[Data](articles/12195857.json)
+
+---
+
+### ADB funded desalination project opens in Sri Lanka’s north
+
+*2024-08-02 13:19:00* · [`economynextcom`](https://economynext.com/adb-funded-desalination-project-opens-in-sri-lankas-north-174939/) · `en`
+
+ECONOMYNEXT – The Thalaiyadi sea water desalination plant in Sri Lanka’s northern Jaffna District, which is expected to provide safe drinking water to over 300,000 people across 186 grama niladari divisions, was opened today by President Ranil Wickremesinghe.
+
+The plant, part of the Jaffna-Kilinochchi Water Supply Project by the Ministry of Water Supply was funded by the ADB and the Government of Sri Lanka at a cost of 266 million dollars.
+
+The JKWSSP was launched in 2011 with support from ADB and the French Development Bank (AFD). ADB signed the contract for the construction of the desalination plant in 2017.
+
+The project was awarded to main contractor Suez International of France, while MAGA undertook civil works of the project.
+
+The project has completed the construction of 20 elevated water tanks, 186 km of water transmission pipelines, and 382 km of water distribution pipelines. It is expected to be fully completed by mid-2025.
+
+...
+
+[Data](articles/47ef5d6a.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-08-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190087) · `ta`
@@ -1035,6 +1245,26 @@ The joint military exercise, aimed at enhancing preparation and response to natu
 [Data](articles/ce463eda.json)
 
 [Extended Data](ext_articles/ce463eda.ext.json)
+
+---
+
+### IndiGo Airlines to commence daily flights to Sri Lanka’s Jaffna
+
+*2024-08-02 13:15:00* · [`economynextcom`](https://economynext.com/indigo-airlines-to-commence-daily-flights-to-sri-lankas-jaffna-174979/) · `en`
+
+ECONOMYNEXT – Indian airline IndiGo will commence non-stop daily flights between the southern Indian city of Chennai and Jaffna in Sri Lanka’s north from September 1.
+
+Jaffna is the second destination in the island after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network, the airline said.
+
+“This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity.”
+
+India is the primary source market of tourist arrivals to Sri Lanka. According to Sri Lanka Tourism Development Authority (SLTDA) figures, 214,910 tourists arrived from India between January 1 and July 21 this year.
+
+There is also an increasing interest for travel to Jaffna, IndiGo pointed out.
+
+...
+
+[Data](articles/cfda5fb6.json)
 
 ---
 
@@ -2031,233 +2261,5 @@ Therefore, approval of the Cabinet of Ministers was granted at their meeting hel
 [Data](articles/ffe6aa12.json)
 
 [Extended Data](ext_articles/ffe6aa12.ext.json)
-
----
-
-### Suspect arrested with golden lotus
-
-*2024-08-02 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199473) · `si`
-
-A 33-year-old from Matale, arrested by the Matale CID, was found in possession of a golden lotus flower worth Rs. 5 million and Rs. 500,000 cash. The arrest followed a raid based on intelligence tips.
-
-🟩
-
-The Matale Criminal Investigation Bureau of the Matale Divisional Investigation (CID) has been arrested yesterday.
-
-The suspect was arrested following a raid on information received on information received by the Matale Division Criminal Investigation Bureau in the Matale Police Division.
-
-The golden lotus flower of archaeological is worth 706 g of slices and 24 slices of various sized slices.
-
-It is reported that the suspect had been in possession of Rs. 5,000,000.
-
-The arrested person is a 33 year old resident of Kaudupalalla, Matale.
-
-◼️
-
-[Data](articles/0a597c57.json)
-
-[Extended Data](ext_articles/0a597c57.ext.json)
-
----
-
-### Online Bill is gazetted
-
-*2024-08-02 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199472) · `si`
-
-The Online Methods (Amendment) Bill, proposed by Hon. Tiran Alles, has been officially published.
-
-🟩
-
-Online Methods (Amendment) Bill gazetted.
-
-The proposal made by Hon. Tiran Alles, the proposal made by Hon.
-
-◼️
-
-[Data](articles/0b0581db.json)
-
-[Extended Data](ext_articles/0b0581db.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-02 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199471) · `si`
-
-Today, expect showers in the Western, Sabaragamuwa, and Northwestern Provinces, along with possible thunderstorms in Badulla, Ampara, and Batticaloa districts. Strong winds may reach speeds of 50 km/h in the Northern, North Central, and North Western provinces, and around 40 km/h elsewhere.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern Provinces today (02), the weather forecast of the weather forecast.
-
-Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
-
-Western, North, North, North, North, North-central and North Western provinces are sitting at the Trincomalee and North Western Provinces.. The department says that strong winds can also occur in about 50.
-
-From time to time in the rest of the island.. Strong winds can occur about 40 of 30.
-
-◼️
-
-[Data](articles/b5767495.json)
-
-[Extended Data](ext_articles/b5767495.ext.json)
-
----
-
-### Richard Pieris Group profits soar 281% to Rs.1.75 b in 1Q
-
-*2024-08-02 06:21:25* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-profits-soar-281-to-Rs-1-75-b-in-1Q/34-765056) · `en`
-
-Richard Pieris Group, one of Sri Lanka’s largest and most diversified conglomerates, has recorded a Profit Before Tax (PBT) of Rs.1.75 billion for Q1 of the 2024/25 financial year, recording a profit growth of 281% over the corresponding period from the last financial year which was Rs. 459 million.
-
-This stellar performance of Richard Pieris Group for Q1 demonstrates the business resilience to reach new heights despite volatile domestic and global economic factors.
-
-The Group’s overall performance was mainly boosted by significant operating profit contributions from the Rubber, Plastics, Furniture and Electronics, Retail and Plantations sectors during the period. As a legend in the manufacturing sector and as an economic powerhouse, Richard Pieris Group operates over 51 factories across the country.
-
-The Retail sector operating profit grew by 35% over last year’s first quarter mainly driven by strategic initiatives to gear up enhance business performance and operational efficiencies.
-
-...
-
-[Data](articles/336bdcba.json)
-
-[Extended Data](ext_articles/336bdcba.ext.json)
-
----
-
-### Vallibel One rebuts anonymous message circulated on social media
-
-*2024-08-02 06:20:28* · [`dailyftlk`](https://www.ft.lk/business/Vallibel-One-rebuts-anonymous-message-circulated-on-social-media/34-765055) · `en`
-
-Vallibel One PLC yesterday issued a statement to the Colombo Stock Exchange refuting the anonymous, yet adverse message circulated on social media.
-
-Our attention has been drawn to an anonymous message which is being circulated on social media under the caption “Vallibel One’s Rs. 163 billion Conundrum: A financial Thriller Unfolds Amidst Political Ambitions”.
-
-We regret to note that the message appears to have been published with mischievous intent. The author of the publication, resorting to verbiage and a blatant distortion of facts has twisted a prudent application of policies by the company to cast sinister aspersions on the ultimate majority shareholder of the company, for political purposes. The circulated message states that the company is faced with a serious crisis referring to a “Rs. 163 billion set aside for expected credit losses”, which is manifestly false. In fact, the figure, Rs. 163 billion represents the Net amount of Loans and Advances of the Group.
-
-...
-
-[Data](articles/e71fdafc.json)
-
-[Extended Data](ext_articles/e71fdafc.ext.json)
-
----
-
-### Applications now open for 10th edition of CMA Excellence in Integrated Reporting Awards
-
-*2024-08-02 06:20:07* · [`dailyftlk`](https://www.ft.lk/business/Applications-now-open-for-10th-edition-of-CMA-Excellence-in-Integrated-Reporting-Awards/34-765054) · `en`
-
-CMA Sri Lanka, the National Professional Management Accounting body in Sri Lanka, announced the 10th anniversary celebrations of the “CMA  Excellence in Integrated Reporting Awards – 2024” conducted with its Strategic Partner Colombo Stock Exchange.
-
-The Excellence in Integrated Reporting Awards is held to promote Sri Lankan companies both listed, unlisted and state-owned institutions/companies to undertake integrated reporting which will be beneficial to investors and stakeholders.
-
-The primary purpose of an integrated report is to explain to providers of financial capital how an organisation creates, preserves or erodes value over the short, medium and long term. An integrated report benefits all stakeholders interested in an organisation’s ability to create value over time, including employees, customers, suppliers, business partners, local communities, legislators, regulators and policy-makers.
-
-...
-
-[Data](articles/96d0e80c.json)
-
-[Extended Data](ext_articles/96d0e80c.ext.json)
-
----
-
-### Govt. aims to boost manufacturing sector’s GDP contribution to 20% by 2030
-
-*2024-08-02 06:19:21* · [`dailyftlk`](https://www.ft.lk/business/Govt-aims-to-boost-manufacturing-sector-s-GDP-contribution-to-20-by-2030/34-765053) · `en`
-
-Highlights crucial role of entrepreneurship, aiming to increase its share in workforce from 2.8% to 7%
-
-Reveals Bill to amend Industrial Promotion Act in final stage
-
-Introduces new registration system for manufacturing industries; 3,925 industries registered by June 2024
-
-Revolving Fund Loan scheme allocates over Rs. 1.6 b for 179 projects in 2024 so far
-
-The Industry Ministry has set ambitious targets to elevate the manufacturing sector’s contribution to the national GDP from 16% to 20% by the year 2030. This strategic initiative is part of a comprehensive plan outlined in the National Industry Policy and a five-year strategic roadmap spanning 2023-2027.
-
-Industry Ministry Secretary Shantha Weerasinghe detailed these goals during a press briefing held at the Presidential Media Centre (PMC) on Wednesday.
-
-He highlighted the crucial role of entrepreneurship, aiming to increase its share in the workforce from 2.8% to 7%.
-
-...
-
-[Data](articles/553474ba.json)
-
-[Extended Data](ext_articles/553474ba.ext.json)
-
----
-
-### Private sector companies awarded Authorised Economic Operator status
-
-*2024-08-02 06:17:47* · [`dailyftlk`](https://www.ft.lk/business/Private-sector-companies-awarded-Authorised-Economic-Operator-status/34-765052) · `en`
-
-Thirty-one private sector companies were awarded the prestigious AEO Tier 1 status at a Sri Lanka Customs awarding ceremony on 30 July at the NH Collection Colombo.
-
-State Minister of Finance Ranjith Siyambalapitiya was in attendance as the Chief Guest.
-
-The Ceylon Chamber of Commerce, expertly facilitated and coordinated the entire training program which was conducted for selected private sector companies, funded by the United States Agency for International Development’s (USAID) Partnership for Accelerating Results in Trade, National Expenditure and Revenue (PARTNER) Activity.
-
-This facilitation included assessing companies for the required eligibility criteria for the coaching program, and identifying expert trainers M. Ravindrakumar – Customs Management Expert, and Dinesh De Silva – Senior Trade Facilitation Expert to conduct the comprehensive training.
-
-...
-
-[Data](articles/8824ee87.json)
-
-[Extended Data](ext_articles/8824ee87.ext.json)
-
----
-
-### NCE member issues addressed at Exporters Forum
-
-*2024-08-02 06:17:12* · [`dailyftlk`](https://www.ft.lk/business/NCE-member-issues-addressed-at-Exporters-Forum/34-765051) · `en`
-
-The recent Exporters Forum, organised by the Sri Lanka Export Development Board (EDB), provided a comprehensive platform for addressing the pressing challenges faced by Sri Lankan exporters. Chaired by Minister Dilum Amunugama, the forum underscored the importance of collaborative efforts in resolving sector-specific issues. The National Chamber of Exporters of Sri Lanka (NCE) praised the EDB for hosting the event, highlighting its pivotal role in facilitating dialogue between exporters and key stakeholders.
-
-This forum was notable for the participation of representatives from Customs, the Inland Revenue Department (IRD), and other critical trade bodies, ensuring that the concerns of exporters received the necessary attention. Follow-up meetings have been planned to delve deeper into potential solutions.
-
-Some of the issues that was discussed during the forum on 25 July:
-
-...
-
-[Data](articles/6b2d17d2.json)
-
-[Extended Data](ext_articles/6b2d17d2.ext.json)
-
----
-
-### EDB invites applications for Presidential Export Awards 2023/24
-
-*2024-08-02 06:15:16* · [`dailyftlk`](https://www.ft.lk/business/EDB-invites-applications-for-Presidential-Export-Awards-2023-24/34-765050) · `en`
-
-The Sri Lanka Export Development Board (EDB) yesterday announced that it officially opened applications for the prestigious Presidential Export Awards (PEA) 2023/24.
-
-Scheduled to culminate in a ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) in November 2024, under the patronage of the President, the PEA recognises and honours exceptional contributions to the nation’s export sector and economic progress.
-
-Honouring exporters who have significantly advanced Sri Lanka’s export industry, the PEA is a pinnacle of recognition conferred by the President.
-
-...
-
-[Data](articles/b1326bbf.json)
-
-[Extended Data](ext_articles/b1326bbf.ext.json)
-
----
-
-### Cargo Boat Development announces two new Board appointments
-
-*2024-08-02 06:14:56* · [`dailyftlk`](https://www.ft.lk/business/Cargo-Boat-Development-announces-two-new-Board-appointments/34-765049) · `en`
-
-Cargo Boat Development Co. PLC has announced the appointment of two Independent Non-Executive directors to its Board of Directors – Sujeewa Mudalige and Rohana Karunanayake.
-
-Sujeewa Mudalige counts over 30 years of experience as a Chartered Accountant. He has vast experience as the Audit Committee Chair in both public and private sector organisations. Mudalige recently retired as the Managing Partner of PricewaterhouseCoopers (PwC), Sri Lanka and currently serves as an Independent Non-Executive Director in many listed and private companies. He also serves as a board member of the NSBM Green University.
-
-He is a past President of the Institute of Chartered Accountants of Sri Lanka. He currently serves as a commission member of the Securities and Exchange Commission of Sri Lanka and held several such other positions locally and globally during the span of his career.
-
-Mudalige is a fellow member of CA (Sri Lanka), CIMA (UK), ACCA (UK) and CPA (Australia).
-
-...
-
-[Data](articles/58dbd449.json)
-
-[Extended Data](ext_articles/58dbd449.ext.json)
 
 ---

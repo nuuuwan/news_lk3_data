@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 20:20:49**
+As of **2024-08-02 20:36:14**
 
 ## Newspaper Stats
 
-*Scraped **38,688** Articles*
+*Scraped **38,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,61 +20,97 @@ adaderanalk | 4,479
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,808
 virakesarilk | 6,121
-adaderanasinhalalk | 6,520
+adaderanasinhalalk | 6,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,683 (100.0%) of 38,688 articles have been extended.
+38,688 (100.0%) of 38,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### இலத்திரனியல் விசா விநியோக நடைமுறை : உயர்நீதிமன்றத்தின் இடைக்காலத்தடையுத்தரவு
+### රාජ්‍ය අමාත්‍ය කනක හේරත් 18ක් සමග රනිල්ගේ සහායට
+
+*2024-08-02 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199498) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ කෑගල්ල දිස්ත්‍රික් නායක රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා රඹුක්කන ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරුන් 18 දෙනා සමඟින් ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+රාජ්‍ය අමාත්‍යවරයා විසින් අද (02) ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් මේ බව පැවසීය.
+
+මෙහිදී හිටපු පළාත් පාලන මන්ත්‍රීවරු අදහස් දක්වමින් පැවසුවේ මහ පොළොවේ යථාර්ථය වටහාගැනීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයන් අසමත්ව ඇති බවය.
+
+◼️
+
+[Data](articles/a123347f.json)
+
+---
+
+### Electronic Visa Distribution Procedure: Medieval Staff of the High Court
 
 *2024-08-02 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190130) · `ta`
 
-இலத்திரனியல் விசா விநியோகம் தொடர்பில் நடைமுறையில் இருந்து செயன்முறையை மாற்றி வெளிநாட்டு நிறுவனத்துக்கு அப்பொறுப்பை கையளிக்கும் அமைச்சரவை தீர்மானத்தை வலுவிழக்கச் செய்து உயர்நீதிமன்றம் இன்று வெள்ளிக்கிழமை (2) இடைக்காலத்தடையுத்தரவை பிறப்பித்தது.
+The High Court has temporarily halted a Cabinet decision to switch from traditional to electronic visa distribution methods.
+
+🟩
+
+The High Court today (2) issued an interim mark on Friday (2) to weaken the Cabinet decision to change the process from the practice of electronic visa distribution.
 
 ◼️
 
 [Data](articles/7207b0e0.json)
 
+[Extended Data](ext_articles/7207b0e0.ext.json)
+
 ---
 
-### ඇසළ පෙරහැරේ ආසන වැඩි මිලට විකුණන ජාවාරමක්
+### Racketeer selling seats in the Esala Perahera
 
 *2024-08-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199497) · `si`
 
-මහනුවර ඇසළ පෙරහැර වෙනුවෙන් පෞද්ගලික ව්‍යාපාරිකයන් පෙරහැර ආසන රුපියල් 40,000 - 50,000ක් වැනි ඉහළ මිල ගණන්වලට අළෙවි කරන බවට පැමිණිලි ලැබී ඇති බව දියවඩන නිළමේ ප්‍රදීප් නිලංග දෑල මහතා පවසයි.
+Private businessmen are accused of inflating ticket prices for the Kandy Esala Perahera, causing complaints from locals and tourists alike. The Dalawadana Nilame urges the public to report any unfair practices during the temple procession.
 
-මෙලෙස ඉහළ මිල ගණන් යටතේ පෙරහැර ආසන අලෙවි කිරීමෙන් පෙරහැර සංවිධායකයින් දේශීය හා විදේශීය වශයෙන් විශාල අපකීර්තියට ලක්වන බව ඔහු පෙන්වා දෙයි.
+🟩
 
-අසාධාරණ ලෙස පෙරහැර ආසන විකිණීමට දළඳා මාළිගාව හෝ සතර මහා දේවාල කිසිදු අයුරකින් සම්බන්ධයක් නොමැති බවත් මෙලෙස අසාධාරණ අය කිරීම් පිළිබඳ පැමිණිලි ඇත්නම් පෙරහැර භාරය වෙත දැනුම් දෙන ලෙසත් දියවඩන නිලමේවරයා මහජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+Diyawadana Nilame Pradeep Nilame says that private businessmen have received complaints for the Kandy Esala Perahera.
+
+He points out that the processors will be unfamiliar with local and internationally by selling the procession seats at high prices.
+
+The Dalawadana Nilame has requested the public to inform the procession of the temple, which is unfairly unfairly.
 
 ◼️
 
 [Data](articles/f995f338.json)
 
+[Extended Data](ext_articles/f995f338.ext.json)
+
 ---
 
-### வனப்பரப்பை 30% பேணும் நாடுகள் பட்டியலில் இலங்கை மூன்றாம் நிலை தென்கொரியா, ஜப்பான் முன்னிலையில் - அரசாங்க கணக்குகள் பற்றிய குழு
+### In the presence of Sri Lanka's third -level South Korea and Japan in the list of 30% of the forest, a group of government accounts
 
 *2024-08-02 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190129) · `ta`
 
-மக்கள் தொகை செறிவை கிலோமீற்றருக்கு 300 ஆகவும், வனப் பரப்பை 30 சதவீதமாக  ஆகவும் பேணும் உலகநாடுகளில் இலங்கை மூன்றாவது இடத்தில் இருப்பதாக அரசாங்கக் கணக்குகள் பற்றிய குழுவில் தெரிவிக்கப்பட்டது. இதற்கு அமைய இலங்கையை விட தென்கொரியா, ஜப்பான் ஆகிய நாடுகள் முன்னிலையில் காணப்படுவதாக வனப் பாதுகாப்புத் திணைக்களத்தின் அதிகாரிகள் தெரிவித்தனர்.
+Sri Lanka ranks third globally for population density and forest cover at 30%. A government committee investigated forestry issues, highlighting concerns over the release of wilderness areas and tourism impacts. Recommendations included releasing undeclared wilderness areas, improving tourist facilities without harming the forest, and addressing revenue collection from activities like granite quarrying and hydroelectric projects. The committee also noted the importance of distinguishing between legal and illegally harvested plants, such as Vallapatta and Aquilaria, to combat smuggling.
 
-அரசாங்கக் கணக்குகள் பற்றிய குழு அதன் தலைவர் இராஜாங்க அமைச்சர்  லசந்த அழகியவன்ன தலைமையில் அண்மையில்  கூடியபோதே இவ்விடயங்கள் குறித்து . 2020,2021 மற்றும் 2022 ஆம் ஆண்டுகளுக்கான கணக்காய்வாளர் நாயகத்தின் அறிக்கைகள் மற்றும் தற்போதைய செயலாற்றுகை குறித்து ஆராய்வதற்காக வனப் பாதுகாப்புத் திணைக்களம் குழு முன்னிலையில் அழைக்கப்பட்டிருந்தது.
+🟩
 
-உலக நாடுகளில் வனப்பரப்பளவு 31 சதவீதமாகக் காணப்படுவதுடன்,இலங்கையின் வனாந்தரப் பகுதி 30 சதவீத அளவில் இருப்பது மிகவும் நல்லதொருநிலைமையென குறித்த திணைக்களத்தின் அதிகாரிகள் சுட்டிக்காட்டினர்.
+Sri Lanka is the third in the world countries where the population concentration is 300 per kilometer and the forest area is 30 per cent.. Officials of the Forest Department said that South Korea and Japan are in the presence of Sri Lanka.
 
-இலங்கையில் உள்ள முழு வனாந்தரப் பகுதியையும் வர்த்தமானி அறிவித்தலில் வெளியிடாமைகுறித்து அதிகாரிகளிடம் குழு கேள்வியெழுப்பியது.
+When the Committee on Government Accounts met with its President Lasantha Alagavanna recently. The Forest Department's Committee Committee was summoned to investigate the reports of the Auditor General for 2020,2021 and 2022.
+
+Officials of the Department of Department pointed out that the wilderness in the world is 31 per cent and that the wilderness of Sri Lanka is very good at 30 per cent.
+
+The committee questioned the authorities about the release of the entire wilderness of Sri Lanka in the gazette notification.
+
+As of 2018, about 1.4 million hectares have been released in the Forest Gazette, and about two lakhs and fifty thousand hectares have not been released in the Gazette notification.
 
 ...
 
 [Data](articles/5f95baf0.json)
+
+[Extended Data](ext_articles/5f95baf0.ext.json)
 
 ---
 
@@ -178,23 +214,33 @@ Three Sri Lanka legislators and other parties went to court against the deal. (C
 
 ---
 
-### துனித் வெல்லாலகே, பெத்தும் நிஸ்ஸன்க துடுப்பாட்டத்தில் அபாரம்,   இலங்கை  230 - 8 விக்.
+### Dunit Vellalake, Bethum Nissanka batting, Sri Lanka 230 - 8 wig.
 
 *2024-08-02 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190123) · `ta`
 
-இலங்கை - இந்திய அணிகளுக்கு இடையில் ஆர். பிரேமதாச விளையாட்டரங்கில் இன்று நடைபெற்றுவரும் 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடரின் ஆரம்பப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை 50 ஓவர்கள் நிறைவில் 8 விக்கெட்களை இழந்து 230 ஓட்டங்களைப் பெற்றது.
+Sri Lanka won the first ODI against India, scoring 230/8 in 50 overs. Key contributions came from openers Beth and Nissanka, and Dunit Vellalake with 67 runs. A 46-run partnership between Vellalake and Akkila Tanjaya stood out. Indian bowlers, including Akshar Patel (2/33) and Arshdeep Singh (2/47), were effective. India now targets 231 runs to win.
 
-ஆரம்ப வீரர் பெத்தும் நிஸ்ஸன்க, மத்திய வரிசை   வீரர் துனித் வெல்லாலகே ஆகியோர் குவித்த அரைச் சதங்கள் இலங்கைக்கு  ஓரளவு கௌரவமான மொத்த எண்ணிக்கையைப் பெற உதவின.
+🟩
 
-அத்துடன் துனித் வெல்லாலகேயும் அக்கில தனஞ்சயவும் 8ஆவது விக்கெட்டில் பகிர்ந்த 46 ஓட்டங்கள் மொத்த எண்ணிக்கைக்கு வலு சேர்த்தது. இந்த இணைப்பாட்டமே இலங்கை இன்னிங்ஸில் அதிசிறந்த இணைப்பாட்டமாக அமைந்தது.
+R. Between Sri Lanka - Indian teams. Sri Lanka won the first match of the three -match ODI series in the Premadasa Stadium today and scored 230 runs for the loss of 8 wickets in 50 overs.
 
-துனித்  வெல்லாலகே ஆட்டம் இழக்காமல் 67 ஓட்டங்களையும் பெத்தும் நிஸ்ஸன்க 56 ஓட்டங்களையும் வனிந்து ஹசரங்க 24 ஓட்டங்களையும் ஜனித் லியனகே 20 ஓட்டங்களையும் அக்கில தனஞ்சய 17 ஓட்டங்களையும் பெற்றனர்.
+Half a century accumulated by the opening player Beth and Nissanka and middle -ranking player Dunit Vellalake helped Sri Lanka get some honorable total.
 
-இந்திய பந்துவீச்சில் பயன்படுத்தப்பட்ட 7 பந்துவீச்சாளர்களில் 6 பேர் விக்கெட்களை வீழ்த்தியமை விசேட அம்சமாகும்.
+In addition, Dunit Wellalake and Akkila Tanjaya shared 46 runs in the 8th wicket.. This link was the best link in the Sri Lankan innings.
 
-...
+Dunit Vellalake scored 67 runs, Beth and Nissanka 56 runs, Hazaranga 24 runs, Janith Liyanage 20 runs and Akkila Tanjaya 17 runs.
+
+Six of the 7 bowlers used in the Indian bowling are a special feature of taking wickets.
+
+Among them Akshar Patel took 2 wickets for 33 runs while Arshdeep Singh took 2 wickets for 47 runs.
+
+India will win a little more in a while, targeting 231 runs.
+
+◼️
 
 [Data](articles/7c90f968.json)
+
+[Extended Data](ext_articles/7c90f968.ext.json)
 
 ---
 
@@ -216,17 +262,27 @@ The apex court suspended the decision of the cabinet to go ahead with the privat
 
 ---
 
-### 300 நாட்களைக் கடந்த இஸ்ரேல் - பலஸ்தீன மோதல் : கொழும்பில் ஒன்றுகூடி போர்நிறுத்தத்தை வலியுறுத்திய பலஸ்தீன ஆதரவாளர்கள்
+### Israeli -Palestinian clashes over 300 days
 
 *2024-08-02 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190122) · `ta`
 
-இஸ்ரேல் - பலஸ்தீன மோதல் ஆரம்பமாகி 300 நாட்கள் கடந்துள்ள நிலையில், பலஸ்தீனத்துக்கு ஆதரவாக வெள்ளிக்கிழமை (2) கொழும்பில் ஏற்பாடு செய்யப்பட்டிருந்த கவனயீர்ப்புப்போராட்டத்தில் கலந்துகொண்டவர்கள் உடனடியாக போர்நிறுத்தம் நடைமுறைக்கு வரவேண்டும் என வலியுறுத்தினர்.
+In Colombo, a protest supporting Palestine condemned Israeli attacks on Gaza, calling for an immediate ceasefire. Participants, including representatives from the Palestinian Integration Movement and civil society activists, demanded an end to the violence, highlighting the loss of thousands of children's lives. They voiced slogans against Israel and the United States, emphasizing the need for peace and justice.
 
-இஸ்ரேல் - பலஸ்தீன மோதல் கடந்த ஆண்டு ஒக்டோபர் 7 ஆம் திகதி ஆரம்பமாகி 300 நாட்கள் கடந்திருக்கும் நிலையில், இஸ்ரேலியப்படைகளால் காஸா மீது நடத்தப்பட்டுவரும் தொடர் தாக்குதல்களைக் கண்டித்து கொழும்பைத் தளமாகக்கொண்டு இயங்கிவரும் பலஸ்தீன ஒருமைப்பாட்டு இயக்கத்தினால் நேற்று வெள்ளிக்கிழமை நண்பகல் 1.30 மணிக்கு கொழும்பு, டவுன்ஹோலில் அமைந்துள்ள தெவட்டகஹ பள்ளிவாசலுக்கு முன்பாக கவனயீர்ப்புப்போராட்டமொன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
+
+300 days after the Israeli -Palestinian conflict began, those who participated in the protest in Colombo on Friday (2) in support of Palestine urged the ceasefire to come into effect.
+
+The Israeli -Palestinian conflict, which began on October 7 last year, was held at the Town Hall at 1.30 pm yesterday at 1.30 pm by the Colombo -based Palestinian Integration Movement, condemning a series of attacks on Gaza by Israeli forces.
+
+Representatives of the Palestinian Integration Movement, Christian leaders, civil society activist Srinath Perera and children were present on behalf of the North and Southern Integration Organization.. At the same time, a large number of policemen were also deployed in front of the school.
+
+Accordingly, those who participated in the protesters carried out the words that insisted on Palestinian liberation and ceasefire, including 'we are accompanied by Palestine', 'to have an immediate ceasefire', 'killing more than 12,000 children' and 'Palestinian liberation'.
 
 ...
 
 [Data](articles/8f8cfe14.json)
+
+[Extended Data](ext_articles/8f8cfe14.ext.json)
 
 ---
 
@@ -2247,25 +2303,5 @@ The dispute over the presidential election results has sparked protests in Venez
 [Data](articles/4d1b7b9b.json)
 
 [Extended Data](ext_articles/4d1b7b9b.ext.json)
-
----
-
-### Eight foreign nationals arrested over cybercrimes
-
-*2024-08-02 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100933/eight-foreign-nationals-arrested-over-cybercrimes) · `en`
-
-Galle Police have apprehended eight individuals including six Chinese nationals for allegedly engaging in cybercrimes.
-
-Based on the information received, the police officers had conducted a raid yesterday (01) at a temporary accommodation in the Udugama area in the Galle Harbour Police Division.
-
-The arrested suspects, aged between 24 and 36, include six Chinese nationals, with the remaining two being identified as Kazakhstan and Kyrgyzstan nationals.
-
-During the operation, police have seized 09 computers, 73 mobile phones and a large number of SIM cards found in the possession of the suspects.
-
-◼️
-
-[Data](articles/c0e34ba6.json)
-
-[Extended Data](ext_articles/c0e34ba6.ext.json)
 
 ---

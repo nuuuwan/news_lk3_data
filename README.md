@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 07:02:20**
+As of **2024-08-02 07:28:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,544 (99.9%) of 38,566 articles have been extended.
+38,551 (100.0%) of 38,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ This facilitation included assessing companies for the required eligibility crit
 
 [Data](articles/8824ee87.json)
 
+[Extended Data](ext_articles/8824ee87.ext.json)
+
 ---
 
 ### NCE member issues addressed at Exporters Forum
@@ -64,6 +66,8 @@ Some of the issues that was discussed during the forum on 25 July:
 
 [Data](articles/6b2d17d2.json)
 
+[Extended Data](ext_articles/6b2d17d2.ext.json)
+
 ---
 
 ### EDB invites applications for Presidential Export Awards 2023/24
@@ -79,6 +83,8 @@ Honouring exporters who have significantly advanced Sri Lanka’s export industr
 ...
 
 [Data](articles/b1326bbf.json)
+
+[Extended Data](ext_articles/b1326bbf.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ Mudalige is a fellow member of CA (Sri Lanka), CIMA (UK), ACCA (UK) and CPA (Aus
 
 [Data](articles/58dbd449.json)
 
+[Extended Data](ext_articles/58dbd449.ext.json)
+
 ---
 
 ### Sri Lanka Ambassador to Saudi Arabia holds productive meeting with FSC
@@ -113,6 +121,8 @@ While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, Vice – 
 ...
 
 [Data](articles/3be7b174.json)
+
+[Extended Data](ext_articles/3be7b174.ext.json)
 
 ---
 
@@ -134,6 +144,8 @@ R.B. Thambiayah, Deputy Chairman N. A. Thambiayah, Jt. Managing Director S.R. Th
 
 [Data](articles/b6c79ce5.json)
 
+[Extended Data](ext_articles/b6c79ce5.ext.json)
+
 ---
 
 ### Shelendra Nonis Ranaweera joins Renuka Hotel’s Board
@@ -151,6 +163,8 @@ She has served on several Boards of the Mackwoods Group of Companies. Ranaweera 
 ...
 
 [Data](articles/cf9ef994.json)
+
+[Extended Data](ext_articles/cf9ef994.ext.json)
 
 ---
 

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 02:54:45**
+As of **2024-08-03 03:05:53**
 
 ## Newspaper Stats
 
-*Scraped **38,715** Articles*
+*Scraped **38,717** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
-colombotelegraphcom | 363
 newsfirstlk | 363
+colombotelegraphcom | 365
 bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,345
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,715 (100.0%) of 38,715 articles have been extended.
+38,715 (100.0%) of 38,717 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -541,6 +541,36 @@ A police sergeant who was bribed by a bribe of Rs 150,000 has been arrested on b
 [Data](articles/797f8dff.json)
 
 [Extended Data](ext_articles/797f8dff.ext.json)
+
+---
+
+### A Marriage, A Village, A Country & Everything In Crisis: ‘Paradise’ Movie review
+
+*2024-08-02 21:15:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-marriage-a-village-a-country-everything-in-crisis-paradise-movie-review/) · `en`
+
+Prasanna Vithanage returns to hilly terrain, its misty mountains and cold climes in this ‘Sri Lankan-Indian co-produced drama film’, Paradise, 2024. We remember Oba nathuwa oba ekka (With You, Without You), 2012, where the backdrop was also in an Up Country setting, as we sit down to experience his latest feature film. Reminiscent of Oba nethuwa, we also see Vithanage returning to Indian actors–this time the key protagonists are both from India and they form the visiting tourist couple (Kesav and Amritha), in the film. Interestingly, Sri Lankan actor and key protagonist from Oba nethuwa oba ekka, Sharm Fernando, is the tourist guide-cum-driver in Paradise too, forming the threesome that push forward the story, apart from how the film starts with. Starting off as fellow travellers on a journey, Sharm Fernando as Mr Andrew the chauffeur, also remains at the end of the film, alongside Amritha, the surviving member of the Indian couple.
+
+...
+
+[Data](articles/72a9cbc5.json)
+
+---
+
+### Strategies For Efficiency & Integrity In Democracies: The Cry For Independent Commissions
+
+*2024-08-02 21:05:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strategies-for-efficiency-integrity-in-democracies-the-cry-for-independent-commissions/) · `en`
+
+International Electoral Affairs Symposium , Jodhpur India, 25 July 2024 – By the International Centre for Parliamentary Studies (ICPS) London, in collaboration with the State Election Commission of Rajasthan.
+
+We need a T.N. Seshan to Inspire us all. The Hindu described T.N. Seshan (1932-2019) | as the man who cleaned up the Indian electoral system. He did not accept the EC as a Government Department, insisting he reported only to the President of India. No mincing words. We in Sri Lanka need an independent Commission for free and fair elections. Without this, all our conferences, reports and plans are a bluff and  show-biz
+
+Politeness should not make us stop speaking against evil. I will not be polite.
+
+General Shavendra Silva shown here, as the US put it, is accused of War Crimes – killing hundreds of Tamils – “gross violtions of human rights, namely extrajudicial killing …” He and his family are prohibited from the US.
+
+...
+
+[Data](articles/d14a28f2.json)
 
 ---
 
@@ -2233,41 +2263,5 @@ Furthermore, he mentioned that despite the challenges of managing the state budg
 [Data](articles/b7647c3e.json)
 
 [Extended Data](ext_articles/b7647c3e.ext.json)
-
----
-
-### Plot to assassinate Shani Abeysekera: Court issues notice to Deshabandu and Defence Secretary
-
-*2024-08-02 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100938/plot-to-assassinate-shani-abeysekera-court-issues-notice-to-deshabandu-and-defence-secretary-) · `en`
-
-The Supreme Court today fixed for consideration on August 09 the petition filed by the former Director of the Criminal Investigation Department (CID) Shani Abeysekera, seeking an order to provide adequate protection to him as there is a threat to his life.
-
-The court also ordered to send notices to the respondents of the petition including Deshabandu Tennakoon, who served as the IGP, and Defence Secretary Kamal Gunaratne to appear before the court on that date.
-
-The relevant petition was taken up before the three-member Supreme Court judge bench consisting of Justices Vijith Malalgoda, Murdu Fernando and Yasantha Kodagoda this morning (02).
-
-During today’s court proceedings, President’s Counsel Upul Jayasuriya who appeared for the petitioner stated before the court that information has been received regarding a conspiracy to assassinate his client in a staged car accident, highlighting that there is a possibility that Shani Abeysekera’s life could be in danger at any moment.
-
-...
-
-[Data](articles/d92e4c38.json)
-
-[Extended Data](ext_articles/d92e4c38.ext.json)
-
----
-
-### “Don't go to Lebanon”
-
-*2024-08-02 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனான்-செல்ல-வேண்டாம்/175-341449) · `ta`
-
-"Don't visit Lebanon due to safety concerns."
-
-🟩
-
-◼️
-
-[Data](articles/3042a778.json)
-
-[Extended Data](ext_articles/3042a778.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 19:54:26**
+As of **2024-08-02 20:06:28**
 
 ## Newspaper Stats
 
-*Scraped **38,683** Articles*
+*Scraped **38,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,479
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,808
 virakesarilk | 6,117
-adaderanasinhalalk | 6,519
+adaderanasinhalalk | 6,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,682 (100.0%) of 38,683 articles have been extended.
+38,683 (100.0%) of 38,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ඇසළ පෙරහැරේ ආසන වැඩි මිලට විකුණන ජාවාරමක්
+
+*2024-08-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199497) · `si`
+
+මහනුවර ඇසළ පෙරහැර වෙනුවෙන් පෞද්ගලික ව්‍යාපාරිකයන් පෙරහැර ආසන රුපියල් 40,000 - 50,000ක් වැනි ඉහළ මිල ගණන්වලට අළෙවි කරන බවට පැමිණිලි ලැබී ඇති බව දියවඩන නිළමේ ප්‍රදීප් නිලංග දෑල මහතා පවසයි.
+
+මෙලෙස ඉහළ මිල ගණන් යටතේ පෙරහැර ආසන අලෙවි කිරීමෙන් පෙරහැර සංවිධායකයින් දේශීය හා විදේශීය වශයෙන් විශාල අපකීර්තියට ලක්වන බව ඔහු පෙන්වා දෙයි.
+
+අසාධාරණ ලෙස පෙරහැර ආසන විකිණීමට දළඳා මාළිගාව හෝ සතර මහා දේවාල කිසිදු අයුරකින් සම්බන්ධයක් නොමැති බවත් මෙලෙස අසාධාරණ අය කිරීම් පිළිබඳ පැමිණිලි ඇත්නම් පෙරහැර භාරය වෙත දැනුම් දෙන ලෙසත් දියවඩන නිලමේවරයා මහජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
+
+◼️
+
+[Data](articles/f995f338.json)
+
+---
 
 ### 2024 Presidential Election: 14 candidates place deposits so far
 
@@ -364,17 +380,23 @@ Sri Lanka has a bloated state with unemployed graduates being given non-existent
 
 ---
 
-### සිංහරාජය බලන්න ආපු වැඩිම සංචාරකයන් ප්‍රමාණය මේ වසරේදී
+### The highest number of tourist arrivals to visit Sinharaja this year
 
 *2024-08-02 17:22:58* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජය-බලන්න-ආපු-වැඩිම-සංචාරකයන්-ප්‍රමාණය-මේ-වසරේදී/11-411171) · `si`
 
-ලෝක උරුම  සිංහරාජ  වනාන්තරය නැරඹීම සඳහා  වැඩිම දෙස් විදෙස් සංචාරකයින් පැමිණ ඇත්තේ මෙම වසරේ බව වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීහු පෙන්වා දුන්හ. පාර්ලිමේන්තුවේ රජයේ ගිණුම් කාරක සභාවේදී මෙම කරුණු අණාවරණය විය.
+This year, Sinharaja forest saw its highest number of visitors, exceeding 35,000 tourists in a single month. The increase was noted during a Parliament session where it was emphasized that tourism should be managed sustainably to protect the forest.
 
-සමස්ත සංචාරකයින් 35000කට අධික පිරිසක්  සිංහරාජ  වනාන්තරය නැරඹීමට මෙලෙස ගතවූ මාස කිහිපය තුළ පැමිණ  තිබේ. මෙහිදී වනාන්තරයට හානි සිදු නොවන අයුරින් තවදුරටත් සංචාරකයින් සඳහා අවශ්‍ය පහසුකම් වැඩි කරමින්  ඉහළ  සංචාරක ආකර්ශනයක් ලබා ගැනීමට කටයුතු කරන ලෙස කාරක සභාපතිවරයා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+🟩
+
+The Forest Department officials pointed out that year this year, the highest local foreign tourists visited the World Heritage Sinharaja forest.. These facts were revealed at the Government Accounts Committee of the Parliament.
+
+Over 35000 tourists have come in this month to watch Sinharaja forest. The Chairman of the Chairman instructed officials to take a high tourist attraction to the tourist arrivals in a manner that does not damage the forest.
 
 ◼️
 
 [Data](articles/a48fe718.json)
+
+[Extended Data](ext_articles/a48fe718.ext.json)
 
 ---
 
@@ -457,6 +479,8 @@ The Creator has been informed that the crendation of the crematology will be hel
 *2024-08-02 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100952/final-rites-of-ven-galaboda-gnanissara-thero-under-state-patronage) · `en`
 
 The final rites of the late Ven. Galaboda Gnanissara Thero of the Gangaramaya Temple will be held under state patronage on Monday (Aug 05) at the grounds adjoining the temple, according to the funeral committee.
+
+Meanwhile, the funeral committee stated that the remains of the late Thero will be brought to the Gangaramaya Temple at 06.00 a.m. tomorrow (03) where it will lie-in-state for the public to pay final respects until Monday (05).
 
 The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly known as “Podi Hamuduruwo”, passed away today (02), at the age of 81.
 
@@ -2267,25 +2291,5 @@ Nine computers, 93 mobile phones and 73 mobile phones and SIM were found in the 
 [Data](articles/96bf9bad.json)
 
 [Extended Data](ext_articles/96bf9bad.ext.json)
-
----
-
-### Showers and strong winds expected in parts of the island
-
-*2024-08-02 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100930/showers-and-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Badulla, Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
-
-Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/7c63c256.json)
-
-[Extended Data](ext_articles/7c63c256.ext.json)
 
 ---

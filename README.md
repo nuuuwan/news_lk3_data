@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 16:53:03**
+As of **2024-08-02 17:05:59**
 
 ## Newspaper Stats
 
-*Scraped **38,645** Articles*
+*Scraped **38,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
-adalk | 3,550
-adaderanalk | 4,474
+adalk | 3,551
+adaderanalk | 4,475
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,803
+tamilmirrorlk | 4,804
 virakesarilk | 6,111
 adaderanasinhalalk | 6,512
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,644 (100.0%) of 38,645 articles have been extended.
+38,645 (100.0%) of 38,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Death of Indian fisherman in Sri Lankan waters: SL Navy issues clarification
+
+*2024-08-02 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100950/death-of-indian-fisherman-in-sri-lankan-waters-sl-navy-issues-clarification) · `en`
+
+The Sri Lanka Navy has issued a statement clarifying the recent incident involving an Indian fishing boat which caused death to a fisherman in the Sri Lankan waters off the Delft Island, Jaffna.
+
+In the statement, Sri Lanka Navy said that having spotted Indian fishing trawlers poaching in Sri Lankan waters off the Delft Island, Jaffna, the Sri Lanka Navy deployed its craft in the dark hours of July 31, 2024 to prevent poaching by the trawlers in question.
+
+“During Navy’s efforts to seize some of the Indian fishing trawlers poaching in Sri Lankan waters, the trawlers attempted to evade the Navy with aggressive manoeuvres, defying Navy’s orders”, the statement added.
+
+“During this incident, a trawler continued on its course after colliding with a naval craft. Moments later, the Navy observed the trawler capsizing and sinking”, the navy said.
+
+...
+
+[Data](articles/63ceb11d.json)
+
+---
+
+### ரணில் பக்கம் தாவியவர்: மஹிந்த பக்கமே பாய்ந்தார்
+
+*2024-08-02 16:38:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பக்கம்-தாவியவர்-மஹிந்த-பக்கமே-பாய்ந்தார்/175-341470) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்த  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் காலி மாவட்ட  பாராளுமன்ற உறுப்பினர் மொஹான் பிரியதர்ஷன, தனது முடிவை வாபஸ் பெற்று   ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கு  உத்தியோகபூர்வமாக திரும்பியுள்ளார்.
+
+திங்கட்கிழமை (29) நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) செயற்குழு கூட்டத்தின் போதே, ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளித்தார்
+
+◼️
+
+[Data](articles/d668f14d.json)
+
+---
 
 ### SC to consider petitions against Adani wind power project in Mannar
 
@@ -47,6 +79,26 @@ The petitions, submitted by five parties including the Centre for Environmental 
 ◼️
 
 [Data](articles/7f67aeef.json)
+
+[Extended Data](ext_articles/7f67aeef.ext.json)
+
+---
+
+### දින දෙකක් තුළ අනුරාධපුරන් බාල වයස්කාර දැරියන් අපයෝජනයට ලක් කිරීමේ සිද්ධීන් 5ක්
+
+*2024-08-02 16:14:06* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකක්-තුළ-අනුරාධපුරන්-බාල-වයස්කාර-දැරියන්-අපයෝජනයට-ලක්-කිරීමේ-සිද්ධීන්-5ක්/11-411168) · `si`
+
+අනුරාධපුර පොලිස් කොට්ඨාසය තුල ඉකුත් දින දෙක (30සහ 31) තුලදී පමණක් වාර්තා වූ බාල වයස්කාර දැරියන් දූෂණයට  සහ අපයෝජනයට ලක් කිරීමේ සිද්ධීන් 5 ක් සම්බන්ධයෙන් විමර්ශන සිදු කර සැකකරුවන් හතර දෙනෙකු අත්අඩංගුවට ගත් බව  අනුරාධපුර පොලිස් කොට්ඨාසය පවසයි.
+
+ගාලදිවුල්වැව  පොලිස් වසමේ  පදිංචි වයස අවුරුදු 14ක බාල වයස්කාර දැරියක් සමග ප්‍රේම සම්බන්ධතාවයක් පවත්වා ගෙන යමින්, මෙම දැරිය රවටා අපහරණය කර ස්ත්‍රී දූෂණයට ලක් කළ වයස අවුරුදු 25ක පුද්ගලයෙකු අත්අඩංගුවට ගත් බව ගාලදිවුල්වැව  පොලිසිය පවසයි.
+
+පරසන්ගස්වැව  පොලිස් වසමේදී වයස අවුරුදු 16 බාල වයස්කාර දැරිය බරපතල ලිංගික අපයෝජනයට ලක් කල එම දැරියගේ පියාගේ සහෝදරයා (39 හැවිරිදි ) අත්අඩංගුවට ගත් බවත් , එම සිද්ධිය සම්බන්ධයෙන් ප්‍රදේශය මගහැර පලා ගොස් සිටින වයස අවුරුදු 50ක පෙදරේරුවෙකු අත්අඩංගුවට ගැනීමට විමර්ශන ක්‍රියාත්මක බවද පොලීසිය කියයි.
+
+තඹුත්තේගම  පොලිස් වසමේ  පදිංචි වයස අවුරුදු 15ක දැරියක් නීත්‍යානුකූල භාරකාරත්වයෙන් අපහරණය කල 17 හැවිරිදි තරුණයෙකු, පන්විල පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති  මූලස්ථාන පොලිසිය පවසයි.
+
+...
+
+[Data](articles/cbeea23e.json)
 
 ---
 
@@ -2097,71 +2149,5 @@ Amid those developments both indices moved upwards. The All- Share Price Index w
 [Data](articles/1ec84d5a.json)
 
 [Extended Data](ext_articles/1ec84d5a.ext.json)
-
----
-
-### Mahinda Rajapaksa kissed the earth and destroyed the country;If I come to power, I will not allow a cent to be sold in the country's resources - Wijeyadasa Rajapaksa
-
-*2024-08-02 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190052) · `ta`
-
-Wijeyadasa Rajapaksa promises not to sell the country's resources if elected, criticizing Mahinda Rajapaksa for destroying the nation. He claims credit for enacting numerous laws despite opposition and vows to address issues like national unity and the misuse of the Central Bank.
-
-🟩
-
-If I had not been in the Cabinet, the presidential election would not have been held in 2024. I will reveal information about it on the occasion. I am not partner for any proposal brought against the country. That is why I have been reserved from the Cabinet several times. Mahinda Rajapakse kissed the earth and destroyed the country. "I will not be allowed to sell a cent of the country's resources if I come to power," said Wijedasa Rajapaksa, the presidential candidate of the National Democratic Front. "
-
-The Blessing Meeting of the Democratic Front's presidential candidate, Wijeyadasa Rajapakse, was held on Thursday (1) at the Sri Lanka Assembly College.. He said this while addressing the gathering.
-
-...
-
-[Data](articles/c30206cb.json)
-
-[Extended Data](ext_articles/c30206cb.ext.json)
-
----
-
-### If the tension in the Middle East continues, the necessary steps have been taken to face -Ali Sabri
-
-*2024-08-02 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190051) · `ta`
-
-Foreign Affairs Minister Ali Sabri supports President Ranil Wickremesinghe's proactive measures to prepare for potential Middle Eastern tensions, highlighting the importance of not waiting until crises impact the country. Sabri commends Wickremesinghe's leadership in achieving economic stability and navigating international challenges, including securing IMF support and reviving suspended projects worth $1.1 billion. The minister emphasizes the need for vigilance and preparedness, as seen in the appointment of special committees for national security and economic stability, and calls for unity in supporting Wickremesinghe's economic program to avoid future crises.
-
-🟩
-
-President Ranil Wickremesinghe's decision to appoint three special committees for premature preparation for the prevailing tension in the Middle East is very correct, said Foreign Affairs Minister and President's Attorney Ali Sabri.
-
-The Minister pointed out that even though international activities are not able to control, it is not necessary to look until the country is falling.
-
-Minister Ali Sabri said this at a media briefing held at the Presidential Media Center on Thursday (01).
-
-It was with the vision of President Ranil Wickremesinghe that Sri Lanka was able to bring in an economic stability and economically stable, so it was the responsibility of the Minister to support the president's program to overthrow the country.
-
-...
-
-[Data](articles/79120909.json)
-
-[Extended Data](ext_articles/79120909.ext.json)
-
----
-
-### India
-
-*2024-08-02 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190050) · `ta`
-
-India strongly opposes Sri Lanka after an Indian fisherman dies and another goes missing in a boat collision with a Sri Lankan navy ship near Kachchativu. Both countries express shock and offer condolences. India emphasizes the importance of a humanitarian approach and urges strong adherence to agreements to prevent such incidents.
-
-🟩
-
-The Indian Foreign Ministry has expressed its strong opposition to the Sri Lankan High Commission in Delhi over the death of an Indian fisherman and the disappearance of another Indian fisherman.
-
-An Indian fisherman was killed and one another disappeared in a collision with an Indian fishing boat and a Sri Lankan navy's ship on the morning of Thursday, the 01st of Thursday.. The Indian Foreign Ministry has issued a media statement on the incident in which the Sri Lankan reply in Delhi has expressed his opposition to the High Commissioner in Delhi.. The report is indicated:
-
-A Sri Lankan navy ship and Indian fishing boat crashed 5 miles north of Kachchativu on Thursday morning (1). Unfortunately one of the four of them died and the other disappeared.
-
-...
-
-[Data](articles/c9cf6e49.json)
-
-[Extended Data](ext_articles/c9cf6e49.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 08:55:25**
+As of **2024-08-02 09:07:11**
 
 ## Newspaper Stats
 
-*Scraped **38,578** Articles*
+*Scraped **38,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ bbccomsinhala | 369
 islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
-adalk | 3,541
+adalk | 3,542
 adaderanalk | 4,457
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,791
 virakesarilk | 6,103
-adaderanasinhalalk | 6,498
+adaderanasinhalalk | 6,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,576 (100.0%) of 38,578 articles have been extended.
+38,578 (100.0%) of 38,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ඔන්ලයින් අපරාධ කරන තවත් පිරිසක් අත්අඩංගුවට
+
+*2024-08-02 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199475) · `si`
+
+අන්තර්ජාලය හරහා අපරාධ සිදුකිරීම සම්බන්ධයෙන් චීන ජාතිකයින් ඇතුළු 08 දෙනෙකු ගාල්ල පොලීසිය විසින් ඊයේ (01) අත්අඩංගුවට ගෙන තිබේ.
+
+ගාල්ල පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත ගාල්ල වරාය පොලිස් වසමේ උඩුගම ප්‍රදේශයේ තාවකාලික ලැඟුම්හලක් පරීක්ෂා කිරීමේදී මෙම විදේශ ජාතිකයින් අත්අඩංගුවට ගැනීමට හැකිවී ඇත.
+
+මෙම සැකකරුවන් අවුරුදු 24 හා 36 අතර වයස්වල පසුවන්නන් වන අතර, ඔවුන්ගෙන් 06 දෙනෙකු චීන ජාතිකයින්ය.
+
+සැකකරුවන් සන්තකයේ තිබී පරිගණක යන්ත්‍ර 09ක්, ජංගම දුරකථන 73ක් හා සිම්පත් විශාල ප්‍රමාණයක් සොයා ගැනීමට හැකිවූ බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/96bf9bad.json)
+
+---
 
 ### Showers and strong winds expected in parts of the island
 
@@ -48,21 +66,29 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 
 [Data](articles/7c63c256.json)
 
+[Extended Data](ext_articles/7c63c256.ext.json)
+
 ---
 
-### பல பகுதிகளில் இன்றும் மழை பெய்யும்
+### It is still raining in many areas today
 
 *2024-08-02 08:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இன்றும்-மழை-பெய்யும்/175-341439) · `ta`
 
-பதுளை, அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழைபெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rain continues across many regions, with potential storms in Badulla, Ampara, and Batticaloa evenings/nights. Strong winds (50-55km/h) hit western slopes of Central Highlands, North, North Central, North Western Provinces, and Trincomalee, Moneragala, Hambantota districts. Other areas may see lesser winds (30-40km/h).
 
-அத்துடன், மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-55 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக் கூடும்
+🟩
 
-ஏனைய பிரதேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோமீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+It is possible that some places in Badulla, Ampara and Batticaloa districts are likely to experience rain or thunderstorms in the evening or at night.
+
+In addition, strong winds can be blowing at speeds of 50-55 kilometers per hour in the western slopes of the Central Highlands, North, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
+
+In other areas, there is a possibility that there is a bit of strong winds at speeds of up to 30-40 km / h.
 
 ◼️
 
 [Data](articles/5bfb7d9f.json)
+
+[Extended Data](ext_articles/5bfb7d9f.ext.json)
 
 ---
 
@@ -1278,6 +1304,20 @@ At this moment, there is a need to enter politics on the basis that my people ha
 
 ---
 
+### ගුරු විදුහල්පති දෙවැනි වෘත්තීය ක්‍රියාමාර්ගය 5දා අරඹයි
+
+*2024-08-01 19:06:59* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-දෙවැනි-වෘත්තීය-ක්‍රියාමාර්ගය-5දා-අරඹයි/11-411157) · `si`
+
+ගුරු විදුහල්පතිවරුන්ට ඇති වී තිබෙන ගැටලු විසඳන ලෙස ඉල්ලා හා තවත් ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් ආරම්භ කළ අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය අද(02දා) අවසන් කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි. මේ අනුව දෙවැනි ක්‍රියා මාර්ගය ලබන 05 වැනි සදුදා සිට  ආරම්භ කරන බවත්, අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය සති දෙකක් පුරා සිදුකළ  බවත් එම සන්ධානයේ සාමාජික ලංකා ගුරු සංගමයේ ලේකම් ජෝසප් ස්ටාලින් මහතා සඳහන් කළේය.
+
+වැටුප් විෂමතාව විසඳීම යටතේ ලැබිය යුතු තුනෙන් දෙකක කොටස ලබා දෙන ලෙස හා පාසල් උපකරණ මිල අඩු කිරීමට අදාළ වැඩපිළිවෙළක් සකස් කරන ලෙස ඉල්ලා හා  පාසල් නඩත්තුව සඳහා නිසි ලෙස මුදල් ලබා දෙන ලෙස ඉල්ලා අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය සිදුකළ බවද හෙතෙම පැවසීය.එහෙත් අදාළ ඉල්ලීම්වලට විසඳුම් ලබා දීමට බලධාරීන් කටයුතු නොකරන නිසා  දෙවැනි ක්‍රියා මාර්ගය ආරම්භ කිරීමට තීරණය කර තිබෙන බවද ඒ මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/94e606b8.json)
+
+---
+
 ### WP NC asks for the bus in 1976 Police
 
 *2024-08-01 19:03:16* · [`adalk`](https://www.ada.lk/breaking_news/wp-NC-1976-බස්-රථය-ගැන-තොරතුරු-පොලීසිය-ඉල්ලයි/11-411156) · `si`
@@ -2119,55 +2159,5 @@ The murder had been carried out on a private dispute between the suspect and the
 [Data](articles/a018870b.json)
 
 [Extended Data](ext_articles/a018870b.ext.json)
-
----
-
-### We are very interested in playing cricket among Sri Lankan fans: Indian captain Rohit
-
-*2024-08-01 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190015) · `ta`
-
-Indian captain Rohit Sharma expresses interest in playing cricket in Sri Lanka, highlighting the country's passionate cricket culture. He mentions a potential one-day series involving India's ODI team, including notable players like Virat Kohli and KL Rahul. This series marks the debut of India's new coach, Gautam Gambhir, and Rohit Sharma as the team captain. Rohit emphasizes the importance of representing the country well and striving for excellence in international competitions.
-
-🟩
-
-Sri Lanka has a large number of cricket fans. Sri Lanka's cricket culture is very pleasant. I had come to Sri Lanka in 2018. I know how much Sri Lankans love cricket. So we are very interested in coming to Sri Lanka and playing cricket. They love cricket and love their team. The best country to play cricket. "We are interested in playing in a one -day series with a happy 3 -match series," said Rohit Sharma, captain of the Indian ODI team.
-
-Rohit Sharma has retired from the Twenty20 match after the Indian team won the World Cup led by Rohit Sharma. Since then, India won the T20 series against Simbabwe and Sri Lanka under the leadership of Suriyakumar Yadav.
-
-The Indian team will play in a three -match ODI series against Sri Lanka.
-
-3 ODIs will be held at R Premadasa Ground in Colombo. The first ODI will be held on Friday, the 2nd of the day.
-
-Virat Kohli, KL, led by Rohit Sharma.. The players like Rahul, Shreyas Iyer and Kuldeep Yadav are included in the squad.
-
-...
-
-[Data](articles/917679d9.json)
-
-[Extended Data](ext_articles/917679d9.ext.json)
-
----
-
-### NDB Bank has renewed an ambulance for Hikkadu
-
-*2024-08-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190003) · `ta`
-
-NDB Bank, through its partnership with the Swaseriya Foundation, has renewed an ambulance for Hikkaduwa, ensuring critical emergency services for a year. This initiative, marked by the NDB logo, underscores the bank's social responsibility and commitment to community welfare, aligning with the foundation's mission to provide pre-hospital care nationwide. Despite economic challenges, this collaboration highlights the ongoing efforts to enhance emergency healthcare accessibility.
-
-🟩
-
-The Ambulance was renewed by the Swaseriya Foundation and stamped with the NDB logic, and was sent back from the NDB headquarters in Navam Mawatha to Hikkaduwa, which is at the right time to ensure medical help, while promising medical help.
-
-The NDB stamped ambulance provides important emergency services to the people who are required by running the Hikkaduwa area for a period of one year.
-
-NDB Director /Chief Executive Officer Kelum Etisinghe, speaking, expressed his excitement for this shareholder, as a socially responsible company, NDB Bank is proud to be gathering with the 1990s in support of this national purpose in support of this national purpose.. The hospital has all to access emergency services preceding the hospital. We believe and this effort reflects our commitment to contribute to the well -being of our fellow citizens. ”
-
-The 1990 Swaseriya Foundation has played an important role in providing free pre -hospital care and ambulance services across the country.
-
-...
-
-[Data](articles/830bc9a0.json)
-
-[Extended Data](ext_articles/830bc9a0.ext.json)
 
 ---

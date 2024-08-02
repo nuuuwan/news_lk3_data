@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 21:36:31**
+As of **2024-08-02 21:55:34**
 
 ## Newspaper Stats
 
-*Scraped **38,693** Articles*
+*Scraped **38,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,345
 dailyftlk | 2,483
 adalk | 3,554
-adaderanalk | 4,480
+adaderanalk | 4,481
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,809
 virakesarilk | 6,122
@@ -26,21 +26,41 @@ adaderanasinhalalk | 6,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,692 (100.0%) of 38,693 articles have been extended.
+38,693 (100.0%) of 38,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### රු 150,000ක අල්ලසක් ගත් පොලිස් සැරයන් අත්අඩංගුවට
+### Police Sergeant arrested while accepting Rs. 150,000 bribe near court
+
+*2024-08-02 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100956/police-sergeant-arrested-while-accepting-rs-150000-bribe-near-court) · `en`
+
+A Police Sergeant attached to the Mahabage Police Traffic Division has been arrested near the Mahabage Court for allegedly soliciting a bribe of Rs. 150,000 from an individual.
+
+The police officer is accused of accepting the bribe on the pretext of not inconveniencing a resident of Uswetikeiyyawa over allegations of drug-related activities under the ‘Yukthiya’ police operation and to delete the latter’s name from such lists, according to the Bribery Commission.
+
+◼️
+
+[Data](articles/82601bf3.json)
+
+---
+
+### Police Sergeant arrested for a bribe of Rs.
 
 *2024-08-02 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199499) · `si`
 
-රුපියල් 150,000ක මුදලක් අල්ලස් වශයෙන් ලබාගත් පොලිස් සැරයන්වරයෙකු අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
+A police sergeant was arrested for accepting a Rs 150,000 bribe, facing bribery charges.
+
+🟩
+
+A police sergeant who was bribed by a bribe of Rs 150,000 has been arrested on bribery charges.
 
 ◼️
 
 [Data](articles/797f8dff.json)
+
+[Extended Data](ext_articles/797f8dff.ext.json)
 
 ---
 
@@ -2269,25 +2289,5 @@ This incident is known by J. K. Rhollot, including a former Prime Minister of En
 [Data](articles/4d7ab1ec.json)
 
 [Extended Data](ext_articles/4d7ab1ec.ext.json)
-
----
-
-### The bud will blossom "Wednesday"
-
-*2024-08-02 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-புதன்-மலரும்/175-341443) · `ta`
-
-The Sri Lanka People's Alliance (PA) will announce its presidential candidate on Wednesday, according to General Secretary Sakara Kariyawasam. This news comes after a meeting led by former President Mahinda Rajapaksa.
-
-🟩
-
-The announcement of the presidential candidate of the Sri Lanka PA will be released on Wednesday, the party's general secretary Sakara Kariyawasam said.
-
-He made this statement to the media after a meeting held at the party headquarters headed by former President Mahinda Rajapaksa yesterday (01).. Remble
-
-◼️
-
-[Data](articles/706ec49f.json)
-
-[Extended Data](ext_articles/706ec49f.ext.json)
 
 ---

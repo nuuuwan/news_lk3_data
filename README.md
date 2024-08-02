@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 00:52:33**
+As of **2024-08-03 01:05:45**
 
 ## Newspaper Stats
 
-*Scraped **38,708** Articles*
+*Scraped **38,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,345
-dailyftlk | 2,490
+dailyftlk | 2,491
 adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,811
-virakesarilk | 6,123
+virakesarilk | 6,126
 adaderanasinhalalk | 6,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,708 (100.0%) of 38,708 articles have been extended.
+38,708 (100.0%) of 38,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,20 @@ The unrest which took place in Bangladesh in mid-July killed at least 150 people
 
 ### 2024-08-02 (Friday)
 
+### Prelates loosen condemned provocateur
+
+*2024-08-02 23:46:27* · [`dailyftlk`](https://www.ft.lk/columns/Prelates-loosen-condemned-provocateur/4-765095) · `en`
+
+Will Gnanasara provide a golden opportunity for RW to postpone or cancel the election by instigating widespread violence and declaration of emergency?
+
+Prisoner Galagoda Aththe Gnanasara Thera, a social miscreant and public provocateur in saffron robes, who was condemned by a Colombo High Court Magistrate to four years rigorous imprisonment with an additional fine of Rs. 100,000, had been released on bail after intense pressure from Buddhist prelates and the Sinhala Buddhist supremacist organisation Bodu Bala Sena (BBS) whose Secretary General happens to be this notorious prisoner. His release is the latest victory for political Buddhism, a deviant creed drawn up by a group of Buddhist monks, which in course of time became a vote winner in almost every election in Sri Lanka.
+
+...
+
+[Data](articles/359e462e.json)
+
+---
+
 ### Road to COP29: Priorities and expectations for global climate negotiations in 2024
 
 *2024-08-02 23:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Road-to-COP29-Priorities-and-expectations-for-global-climate-negotiations-in-2024/4-765092) · `en`
@@ -137,6 +151,24 @@ On 11 November 2024, less than four months away, the 29th meeting of the Confere
 [Data](articles/c23ee775.json)
 
 [Extended Data](ext_articles/c23ee775.ext.json)
+
+---
+
+### மாகாணசபை தேர்தல் சட்ட மூலத்தை செம்டெம்பர் 6இல் விவாதிக்க தீர்மானம் கட்சித்தலைவர் கூட்டத்தில் முடிவு: ஜனாதிபதி ரணில், சுமந்திரன் தொலைபேசி மீண்டும் பேச்சு
+
+*2024-08-02 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190136) · `ta`
+
+மாகாண சபைகள் தேர்தல் சட்டமூலத்தின் மீதான இரண்டாவது வாசிப்பு மீதான விவாதம் செம்டெம்பர் ஆறாம் திகதி முன்னெடுக்கப்படுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+பாராளுமன்றத்தில் நேற்றையதின் நடைபெற்ற கட்சித்தலைவர்கள் கூட்டத்தின்போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது. அத்துடன் சுகாதாரத்துறை சார்ந்த சட்டமூலங்கள் , ரொனிடிமலின் அனுதாப்பிரரேரணை ஆகியவற்றை அடுத்த அமர்வில் முன்னெடுப்பதற்கும் இணக்கம் காணப்பட்டுள்ளது.
+
+முன்னதாக, இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரனுக்கும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையில் நேற்று முன்தினம் சந்திப்பொன்று நடைபெற்றிருந்தது.
+
+இதன்போது, ஆகக்குறைந்தது மாகாண சபைகளுக்கான தேர்தலை நடத்துவதற்கான தடைகயை நீக்குவதற்காக முற்போக்காக செயற்பட வேண்டும் என்று சுமந்திரன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடத்தில் கோரியிருந்தார்.
+
+...
+
+[Data](articles/693ffdc9.json)
 
 ---
 
@@ -155,6 +187,36 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 [Data](articles/7df98466.json)
 
 [Extended Data](ext_articles/7df98466.ext.json)
+
+---
+
+### ஜனாதிபதியின் அர்ப்பணிப்பின் பலனாக யாழ், கிளிநொச்சி மக்களின் நீண்டகால குடிநீர்த்தேவை பூர்த்தியடைந்துள்ளது - பி.எஸ்.எம்.சார்ல்ஸ்
+
+*2024-08-02 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190135) · `ta`
+
+ஜனாதிபதியின் அர்ப்பணிப்பின் பலனாக யாழ்ப்பாணம் மற்றும் கிளிநொச்சி மாவட்டங்களில் வாழும் சுமார் 3 இலட்சம் மக்களின் நீண்டகாலத்தேவையாக இருந்த பாதுகாப்பான குடிநீர் வசதி வெள்ளிக்கிழமை (02) கிடைத்திருப்பதாகவும், அதற்காக ஜனாதிபதிக்கு நன்றி கூறுவதாகவும் வடமாகாண ஆளுநர் பி.எஸ்.எம்.சார்ல்ஸ் தெரிவித்தார்.
+
+யாழ்ப்பாணம் - கிளிநொச்சி நீர் வழங்கல் திட்டத்தின் தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் நேற்று முற்பகல் கலந்துகொண்டு உரையாற்றுகையிலேயே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+
+வடமாகாணத்தில் பாரிய குடிநீர் திட்டத்தை வெற்றியடையச்செய்வதற்கு உதவிய ஜனாதிபதிக்கு நாம் நன்றி கூறவேண்டும். 2015 ஆம் ஆண்டில் அவர் பிரதமராகப் பதவிவகித்தபோது முழுத்திட்டத்தையும் சீரமைத்து, அதற்குத் தேவையான மேலதிக நிதி வசதிகளைப் பெற்றுக்கொள்வதற்கு வாய்ப்பேற்படுத்தினார்.
+
+...
+
+[Data](articles/7a4e15d0.json)
+
+---
+
+### 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தினர் - தேர்தல்கள் ஆணைக்குழு
+
+*2024-08-02 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190134) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை 2ஆம் திகதி வெள்ளிக்கிழமை 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட 8 வேட்பாளர்களும்,வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட ஒருவரும், சுயேட்சையாக போட்டியிட 05  வேட்பாளர்களும் இவ்வாறு கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+ஜனாதிபதி தேர்தலுக்காக கட்டுப்பணம் செலுத்தல் எதிர்வரும் 14 ஆம் திகதி நண்பகல் வரை ஏற்றுக்கொள்ளப்படவுள்ள நிலையில் நேற்று வியாழக்கிழமை வரையான காலப்பகுதியில் மாத்திரம் 14 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/07ce0b41.json)
 
 ---
 
@@ -2193,103 +2255,5 @@ April 13 - Day Prior to Sunday Sinhala and Hindu New Year
 [Data](articles/1e2a20c7.json)
 
 [Extended Data](ext_articles/1e2a20c7.ext.json)
-
----
-
-### Arrested for tearing down sheets in the book
-
-*2024-08-02 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகத்தில்-தாள்களை-கிழித்த-ஆசிரியை-கைது/175-341447) · `ta`
-
-A teacher was arrested for allegedly obstructing police duties by tearing down a book and throwing its pages. This incident occurred when the teacher interfered with a traffic police officer trying to take legal action against a driver parking in a prohibited area. The teacher, from Piliyandala, is 53 years old.
-
-🟩
-
-A teacher has been arrested for allegedly giving permission to tear down the book and threw the sheets of the police constable, which is serving as a police constable, who is serving in the Parakkottai police transport unit.
-
-The traffic police on the duty said that the vehicle was parked in a banned area while on duty near the Titus building of Pettah.
-
-When he was ready to take legal action against the driver, the teacher, the driver's wife, would give a temporary driver's permission from the police officer, tearing down the book and threwing the pages..  பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தார் என்ற குற்றச்சாட்டின் பேரில், அந்த ஆசிரியை கைது செய்யப்பட்டுள்ளார். The 53 -year -old teacher from Piliyandala has been arrested.
-
-◼️
-
-[Data](articles/2e9f5ce5.json)
-
-[Extended Data](ext_articles/2e9f5ce5.ext.json)
-
----
-
-### 3 others arrested in Belarus
-
-*2024-08-02 12:00:08* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටී-ඇතුළු-3ක්--බෙලරුස්හිදී-අත්අඩංගුවට/11-411163) · `si`
-
-In Belarus, three individuals, including a chief planner of a murder case, and associates linked to a large-scale drug dealer, were arrested while trying to flee Europe. They are considered significant criminals by Sri Lanka's State Intelligence and Criminal Investigations units. The arrests were made in cooperation with foreign security forces, and efforts are underway to extradite them back to Sri Lanka. The group is suspected of involvement in multiple murders and drug trafficking activities.
-
-🟩
-
-The security forces have officially received information about three persons including Sujeewa Ruwan Kumara, or Big Pubtiya, the chief planner of Club Wasantha murder.
-
-The two others who have been arrested with the big chick are also said that the wife of an organized criminal criminal is the wife of Mervyn Genewa, a large-scale drug dealer.
-
-Unwood sources say that the drug trafficking and and Sepala Ratnayake, Rotambay, and Rotamba, and Rotamba have been arrested in the Russian border.
-
-The group was arrested in attempting to escape Europe through the State of Belarus and Russian borders.
-
-The arrests were arrested by foreign security forces as necessary criminals to Sri Lanka as essential criminals to Sri Lanka by the intellectual criminals of the State Intelligence and Criminal Investigations into the Criminal Investigations.
-
-...
-
-[Data](articles/83bd113b.json)
-
-[Extended Data](ext_articles/83bd113b.ext.json)
-
----
-
-### Yall. Opening of the President of the Sea Water Plant by the President
-
-*2024-08-02 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190076) · `ta`
-
-The President of Sri Lanka, Ranil Wickremesinghe, inaugurated a seawater treatment plant costing $266 million, part of the Jaffna-Kilinochchi Water Supply Scheme. The project, financed by the Asian Development Bank and the Sri Lankan government, aims to improve water supply infrastructure.
-
-🟩
-
-The Ministry of Water Supply and Estate Infrastructure Development, National Water Supply and Drainage Board under the financial arrangements of the Asian Development Bank and the Government of Sri Lanka, was opened under the Jaffna -Kilinochchi Water Supply Scheme under the patronage of President Ranil Wickremesinghe.
-
-The seawater treatment plant has been set up at a cost of $ 266 million, the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/6489000e.json)
-
-[Extended Data](ext_articles/6489000e.ext.json)
-
----
-
-### Kerala, Wayanad landslide;A photo released by ISRO
-
-*2024-08-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190061) · `ta`
-
-In Kerala's Wayanad district, heavy rainfall triggered landslides in Mundakkai, Sulmalai, Autamala, and Bibliography areas, resulting in 318 deaths, over 200 injuries, and more than 200 missing persons as of day 4 of rescue operations. The State, National Disaster Management Group, soldiers, and firefighters are actively involved in the rescue efforts, aided by the military's deployment of a temporary iron bridge to expedite operations. ISRO's satellite imagery of the disaster site has shocked viewers, highlighting the extent of the landslide across 86,000 square meters and affecting an 8-km stretch of the sand river. Rescuees are housed in 45 camps, receiving essential supplies from government and voluntary organizations, while celebrities and entrepreneurs offer financial aid to the affected region.
-
-🟩
-
-Mundakkai, Sulmalai, Autamala and Bibliography areas are due to heavy rains due to heavy rains in the Wayanad district of Kerala.. With a number of houses in the mud pile, 318 people have died.
-
-More than 200 people are injured and are being treated at the hospital. Relatives are in deep distress because more than 200 people have been missing despite rescue operations for 4 days. There is also fears that death will increase.
-
-State, National Disaster Management Group, Soldiers and Firefighters are risking their lives.
-
-The military has also brought the temporary iron bridge to the ritual to eliminate the tasks expeditiously to complete the tasks. They say this will speed up the rescue operations.
-
-Meanwhile, the photo taken by the ISRO satellite shocks the viewers.
-
-Photos of the mountainside and the mountains after the landslide show the core of the landslide.
-
-ISRO said the landslide had been reported for 86 thousand square meters and the sand river was mixed up to 8 km.
-
-...
-
-[Data](articles/804255ee.json)
-
-[Extended Data](ext_articles/804255ee.ext.json)
 
 ---

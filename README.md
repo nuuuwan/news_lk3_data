@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 19:20:53**
+As of **2024-08-02 19:36:26**
 
 ## Newspaper Stats
 
-*Scraped **38,681** Articles*
+*Scraped **38,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,345
 dailyftlk | 2,483
 adalk | 3,553
-adaderanalk | 4,478
+adaderanalk | 4,479
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,808
 virakesarilk | 6,117
@@ -26,23 +26,51 @@ adaderanasinhalalk | 6,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,680 (100.0%) of 38,681 articles have been extended.
+38,681 (100.0%) of 38,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### வியாழேந்திரனின் செயலாளருக்கு விளக்கமறியல்
+### 2024 Presidential Election: 14 candidates place deposits so far
 
-*2024-08-02 18:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளருக்கு-விளக்கமறியல்/175-341475) · `ta`
+*2024-08-02 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100954/2024-presidential-election-14-candidates-place-deposits-so-far) · `en`
 
-மட்டக்களப்பில் இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவால் கைது செய்யப்பட்ட இராஜாங்க அமைச்சர் வியாழேந்திரனின் பிரத்தியேக செயலாளர் மற்றும் அவரது கட்சி இணைப்பாளர் ஆகிய இருவரையும் 15 ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் இன்று (2) உத்தரவிட்டார்.
+Four more candidates have placed their deposits today (Aug 02) in order to contest the 2024 Presidential Election, the Election Commission said.
 
-மட்டக்களப்பில் ஆற்று மண் அகழ்வதற்கான அனுமதி வழங்க கட்டிட ஒப்பந்தகார் ஒருவரிடம்  15 இலட்சம் ரூபா இலஞ்சம் வாங்கிய  இராஜாங்க அமைச்சர் எஸ்.வியாழேந்திரனின் செயலாளர் மற்றும் அவரது கட்சி இணைப்பாளர் ஆகிய இருவரை  நேற்று (1) கல்லடி கடற்கரையில் மறுவேடத்தில் இருந்த இலஞ்சஊழல் ஒழிப்பு ஆணைக்குழுவினர் கைது செய்தனர்.
+Accordingly, 14 candidates in total have placed their deposits with the Election Commission thus far.
+
+This includes five independent candidates whose names have been nominated by a voter, eight candidates from recognized political parties and one candidate from other political parties.
+
+The independent candidates who have placed bonds today are K. Ananda Kularatne and Ven. Akmeemana Dayaratane Thero, while Sarath Manamendra of ‘Nawa Sihala Urumaya’ and Ven. Battaramulle Seelaratane Thero of ‘Janasetha Peramuna’ have also placed their deposits with the elections regulatory body.
+
+Earlier, deposits had been placed on behalf of the independent candidates President Ranil Wickremesinghe and former MP Sarath Keerthirathne while eight others placed their bonds from recognized and other political parties.
 
 ...
 
+[Data](articles/c080cb6b.json)
+
+---
+
+### Explanation for Jupiter's Secretary
+
+*2024-08-02 18:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளருக்கு-விளக்கமறியல்/175-341475) · `ta`
+
+Jupiter, a state minister, and his party coordinator were remanded until the 15th by the Batticaloa Magistrate's Court for bribery involving a building contractor's permit. They were arrested by S. Viyalendran, the Secretary of State, and taken to the Polonnaruwa Police Station.
+
+🟩
+
+The Batticaloa Magistrate's Court today (2) ordered that the Minister of State for the Bribery Corruption Commission in Batticaloa, Jupiter, Jupiter, and his party's coordinator, were remanded until the 15th.
+
+The Bribery Commission (Bribery Annual ", who was in rehabilitation on the Kalladi beach yesterday (1), was arrested by the Secretary of State S. Viyalendran and his party coordinator who had bribed a building contractor to grant permission to excavate the river soil in Batticaloa.
+
+The two arrested were taken to the Polonnaruwa Police Station and the Commission was produced before the Batticaloa Magistrate's Court on Friday after the Bribery Corporation.. Remble
+
+◼️
+
 [Data](articles/f2d72728.json)
+
+[Extended Data](ext_articles/f2d72728.ext.json)
 
 ---
 
@@ -2265,25 +2293,5 @@ In other areas, there is a possibility that there is a bit of strong winds at sp
 [Data](articles/5bfb7d9f.json)
 
 [Extended Data](ext_articles/5bfb7d9f.ext.json)
-
----
-
-### China vows to help Sri Lanka military to defend sovereignty, territorial integrity
-
-*2024-08-02 07:41:00* · [`economynextcom`](https://economynext.com/china-vows-to-help-sri-lanka-military-to-defend-sovereignty-territorial-integrity-174880/) · `en`
-
-ECONOMYNEXT – China will support the Sri Lankan military to safeguard its sovereignty and territorial integrity, its Colombo envoy said this week amid increasing geopolitical maneuvering in the island nation.
-
-Qi Zhenhong, the Chinese Ambassador to Sri Lanka also pledged Beijing’s continuous support to train the military.
-
-Ambassador Zhenhong’s comments at an event celebrating the founding of the country’s People’s Liberation Army come as India and the United States-led West have raised concerns over increasing Beijing’s influence in Sri Lanka.
-
-“The relationship between our two armed forces is time-tested,” Zhenhong told the gathering including Sri Lanka’s top military leaders and bureaucrats at Shangri La Hotel on Monday (29).
-
-...
-
-[Data](articles/5d394654.json)
-
-[Extended Data](ext_articles/5d394654.ext.json)
 
 ---

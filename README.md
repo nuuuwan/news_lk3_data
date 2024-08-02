@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 22:21:14**
+As of **2024-08-02 22:35:57**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 6,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,694 (100.0%) of 38,695 articles have been extended.
+38,695 (100.0%) of 38,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### ලකුණු සමවෙයි
+### Signs are consequencing
 
 *2024-08-02 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199500) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දීයාව අතර අද (02) පැවති පළමු එක්දින ක්‍රිකට් තරගය ජය පරායෙන් තොරව අවසන් වුණි.
+In the first day-night match between Sri Lanka and India, Sri Lanka batted first after winning the toss, scoring 230/8. Duti Vellege made 56, while Mohamad Shiraz contributed significantly. India started their chase but lost early wickets, with Dugar Welelle and Akila Dananjaya taking two each. Despite efforts from Fernando Hasaranga, Viru Viley, and Asitha Fernando, Sri Lanka couldn't secure a win as Charith took two crucial wickets towards the end.
 
-තරගයේ කාසියේ වාසිය ශ්‍රී ලංකා නායකයා දිනා ගත් අතර ඔහු පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+🟩
 
-අද තරගයේදී යොවුන් වේග පන්දු යවන ක්‍රීඩක මොහෙමඩ් ශිරාස් ශ්‍රී ලංකාව වෙනුවෙන් එක්දින වරම් ලබා ගැනීම විශේෂත්වයකි.
+The first one-day match between Sri Lanka and the Indian ended today (02).
 
-ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 නිමා කළේ කඩුලු 8ක් දැවී ලකුණු 230ක් රැස් කරමිනි.
+The Sri Lanka Leader won the toss and elected to bat first.
 
-පැතුම් නිස්සංක ලකුණු 56ක් රැස් කළ අතර සිය එක්දින දිවියේ මංගල අර්ධ ශතකය වාර්තා කළ දුනිත් වෙල්ලාලගේ නොදැවී ලකුණු 67ක් රැස් සහ වනිඳු හසරංග ලකුණු 24ක් රැස් කළේය.
+Mohamad Shiraz is a wide range of tendency for Sri Lanka today.
 
-ලකුණු 231ක ඉලක්කයක් හඹායාමට පිටියට පිවිසි ඉන්දීය ආරම්භක පිතිකරුවන් යුගල ආරම්භ කඩුල්ලට ලකුණූ 75ක සබඳතාවක් ගොඩනැගුවේය.
+Accordingly, Sri Lanka who entered the field and scored 230 runs for the loss of 8 wickets.
 
-අනතුරුව ලකුණු ලකුණු 12ක් තුළ නායක රෝහිත් ෂර්මා, ශුබ්මන් ගිල් සහ වොෂිංග්ටන් සුන්දර් දවා ගනිමින් දුනිත් වෙල්ලාලගේ සහ අකිල ධනංජය ඉන්දීය පිලට පීඩනයක් එල්ල කළේය.
+Duti Vellege scored 56 runs and scored unbeaten on 247 runs.
 
-අනතුරුව වනිඳු හසරංග විරාත් කෝලි සහ අසිත ප්‍රනාන්දු ශ්‍රේයස් අයියර් දවා ගත්තද ශ්‍රී ලංකා ජයග්‍රහණයට එය ප්‍රමාණවත් වුයේ නැහැ.
+A target of 231 runs, the Indian opening batsmen began in the wicket bout.
 
-...
+Dugar Welelle and Akila Dananjaya Presses India's team in 12 marks.
+
+Fernando Hasaranga Viru Viley and Asitha Fernando Grades were not enough to win Sri Lanka victory.
+
+When Charith collapses two wickets in the face of their bowling on the basis of the bowling of Charith, the match was ended due to the bowling of two wickets.
+
+◼️
 
 [Data](articles/3e1d21b2.json)
+
+[Extended Data](ext_articles/3e1d21b2.ext.json)
 
 ---
 
@@ -64,7 +72,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 A Police Sergeant attached to the Mahabage Police Traffic Division has been arrested near the Mahabage Court for allegedly soliciting a bribe of Rs. 150,000 from an individual.
 
-The police officer is accused of accepting the bribe on the pretext of not inconveniencing a resident of Uswetikeiyyawa over allegations of drug-related activities under the ‘Yukthiya’ police operation and to delete the latter’s name from such lists, according to the Bribery Commission.
+The police officer is accused of accepting the bribe on the pretext of not inconveniencing a resident of Uswetikeiyyawa over allegations of drug-related activities under the ‘Yukthiya’ police operation, to delete the latter’s name from such lists, and to refrain from searching his house.
+
+The bribe was also requested in order to ensure that the individual in question could live peacefully without further trouble, according to the Bribery Commission.
+
+The arrested suspect is scheduled to be produced before the Colombo Chief Magistrate’s Court.
 
 ◼️
 

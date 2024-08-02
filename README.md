@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 12:10:04**
+As of **2024-08-02 12:21:37**
 
 ## Newspaper Stats
 
-*Scraped **38,599** Articles*
+*Scraped **38,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
-adalk | 3,543
-adaderanalk | 4,463
+adalk | 3,545
+adaderanalk | 4,464
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,795
 virakesarilk | 6,103
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,599 (100.0%) of 38,599 articles have been extended.
+38,599 (100.0%) of 38,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Sri Lankan murder accused claims self-defence over killing of wife in Australia
+
+*2024-08-02 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100937/sri-lankan-murder-accused-claims-self-defence-over-killing-of-wife-in-australia-) · `en`
+
+A Sri Lankan mother-of-three killed by her estranged husband fled the family home with her children almost a decade earlier after he hit her with a hammer and stomped on her, a jury has been told.
+
+Nelomie Perera, 43, was found dead in a pool of blood in her kitchen with 35 separate injuries in December 2022.
+
+Prosecutors allege Dinush Kurera, 47, murdered her in a “sustained, brutal and vicious attack” with a hatchet and kitchen knife in front of their children.
+
+Kurera has pleaded not guilty to her murder and further denies assaulting his 17-year-old son.
+
+On Wednesday, lawyers for Kurera, whom prosecutors allege had no injuries after the attack, told a jury that he admitted he killed his wife but he did so to save his own life.
+
+“He grappled with her over the knife, in her murderous rage and he defended himself and the deceased was killed,” defence barrister John Desmond told the court.
+
+...
+
+[Data](articles/b04c43ee.json)
+
+---
 
 ### IndiGo to commence daily flights between Chennai and Jaffna
 
@@ -165,6 +187,24 @@ They have played 21 matches to the 21 matches and eight matches have been defeat
 [Data](articles/5879fd51.json)
 
 [Extended Data](ext_articles/5879fd51.ext.json)
+
+---
+
+### රාජ්‍ය අමාත්‍යවරයෙකුගේ පුද්ගලික ලේකම් සහ දේශපාලන ක්‍රියාකාරිකයකු අල්ලස් දැලේ
+
+*2024-08-02 10:42:19* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-අමාත්‍යවරයෙකුගේ-පුද්ගලික-ලේකම්-සහ-දේශපාලන-ක්‍රියාකාරිකයකු-අල්ලස්-දැලේ/11-411161) · `si`
+
+රාජ්‍ය අමාත්‍යවරයෙකුගේ පුද්ගලික ලේකම්වරයකු සහ දේශපාලන ක්‍රියාකාරිකයකු රුපියල් ලක්ෂ 15 ක  අල්ලස් මුදලක් ලබා ගැනීමක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි.
+
+පොළොන්නරුව ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් කරන අතර පැමිණිල්ලකට අනුව සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+මහවැලි බී කලාපයට අයත් මඩකලපුව දිස්ත්‍රික්කයේ පිහිටි ජය මිනියාය වැවේ රොන් මඩ ඉවත් කර එම රොන්මඩ නිස්සාරණය කර වැලි විකිණීමේ ව්‍යාපෘතියක් සඳහා පැමිණිලිකරුට හිමි පුද්ගලික සමාගම නමින් භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශයෙන් ලබා ගත යුතු බලපත්‍රය ලබාදීම සඳහා  අල්ලස් මුදල තුඩු පඬුරක් ලෙස ඉල්ලා ලබා ගැනීමේ චෝදනාව මත කරඬිය නාරු  ප්‍රදේශයේ දේශපාලන ක්‍රියාකාරකයකු වන ව්‍යාපාරිකයකු මඩකලපුව රාජ්‍ය බැංකුවක් ඉදිරිපිට දී සහ රාජ්‍ය අමාත්‍යවරයාගේ පුද්ගලික ලේකම්වරයා එම අමාත්‍යවරයාගේ මඩකලපුව  පිහිටි කාර්යාලයේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොම්ෂන් සභාව පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/06dbd038.json)
 
 ---
 
@@ -1686,6 +1726,24 @@ The visiting IMF staff mission also held discussions with Opposition Leader Saji
 
 ---
 
+### දිලිත්ද? අනුරාධාද? තීරණය අනිද්දා
+
+*2024-08-01 19:17:11* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ද--අනුරාධාද--තීරණය-අනිද්දා/11-411159) · `si`
+
+මව්බිම ජනතා පක්ෂයේ ජනාධිපතිවරණ අපේක්ෂකයා අනිද්දා (04දා) ප්‍රකාශයට පත් කරන බව එම පක්ෂනය ‘අද’ පුවත්පතට සඳහන් කළේය.
+
+ජනාධිපතිවරණ අපේක්ෂකයා ලෙස හිටපු ආණ්ඩුකාර අනුරාධා යහම්පත් මහත්මියගේ සහ ව්‍යවසායක දිලිත් ජයවීර මහතාගේ නම් යෝජනා වී ඇති අතර, දිලිත් ජයවීර මහතා ඉදිරිපත් කිරීමේ වැඩි ඉඩක් ඇති බව සඳහන් වේ.
+
+ඒ අනුව අනිද්දා දිනයේදී මෙම අවස්ථාවට පාර්ලිමේන්තු මන්ත්‍රීවරුන් 08 දෙනෙකු ඇතුළුව පක්ෂ සාමාජිකයන් එක් වීමට නියමිතව ඇත.
+
+ඒ අනුව ජාතික ජන බලවේගයේ නායක විමල් වීරවංශ, ජයන්ත සමරවීර, ගාමිණි වලේබොඩ යන මන්ත්‍රීවරුන්ද පිවිතුරු හෙළඋරුමයේ නායක පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල, නව වාමාංශික පෙරමුණේ හිටපු නායක පාර්ලිමේන්තු මන්ත්‍රී වාසුදේව නානායක්කාර, යුතුකම සංවිධානයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග, කොමියුනිස්ට් පක්ෂයේ සාමාජික පාර්ලිමේන්තු මන්ත්‍රී වීරසුමන වීරසිංහ සහ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන යන මහත්වරුන් මෙම අවස්ථාවට එක්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/4efebbeb.json)
+
+---
+
 ### Matara from Matara resolution standing as Secretary of Pohoth
 
 *2024-08-01 19:11:28* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ලේකම්-ධුරයෙන්-සාගර-ඉවත්-කරන්න-මාතරින්-යෝජනා-සම්මතයක්/11-411158) · `si`
@@ -2131,67 +2189,5 @@ The panel has decided to refute any other fundamental rights petitions filed on 
 [Data](articles/49d76437.json)
 
 [Extended Data](ext_articles/49d76437.ext.json)
-
----
-
-### Minister Douglas Emotional Call for Migrant Youth
-
-*2024-08-01 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190024) · `ta`
-
-Minister Douglas Devananda urged Sri Lankan diaspora in Switzerland to invest in Sri Lanka, highlighting the importance of modern technical intellectual investments. He praised the youth for advocating in various sectors and expressed hope for continued Swiss support in tourism, education, and technology, emphasizing mutual benefits and addressing global challenges together.
-
-🟩
-
-Minister Douglas Devananda, who has called on the second generation of the diaspora who live in Switzerland, has called for the investment in Sri Lanka, and in the speech of our father, a power is born, "he pointed out the song of Mahakavi Bharatiyar and the Sri Lankan youth in Switzerland.
-
-In addition, the minister proudly pointed out that the diaspora young people had used their opportunities to properly advocate them in various sectors and said that the diaspora is looking for modern technical intellectual investments only.
-
-The Fisheries Minister said this while addressing the Government of Sri Lanka on behalf of the Government of Sri Lanka at the 733rd Independence Day celebrations organized by the Swiss Embassy in Colombo on Wednesday (31).
-
-...
-
-[Data](articles/3dc74b98.json)
-
-[Extended Data](ext_articles/3dc74b98.ext.json)
-
----
-
-### President’s Fund scholarship’s August instalment transferred to recipients
-
-*2024-08-01 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100920/presidents-fund-scholarships-august-instalment-transferred-to-recipients) · `en`
-
-Under the President’s Fund Scholarship Programme, scholarship instalments for August 2024 have been directly credited to the bank accounts of eligible recipients today (Aug 01).
-
-A short message (SMS) has been sent to all scholarship recipients notifying them of the transfer.
-
-The 17th instalment of the monthly scholarship of Rs. 6,000 for 3,000 students who passed the 2022/2023 O-Level examination and are preparing for the A-Level examination has been credited.
-
-Additionally, the 6th instalment of the same amount for another 6,000 students who passed the 2023/2024 O-Level examinations and are preparing for the A-Level examination has also been deposited.
-
-...
-
-[Data](articles/23d811c8.json)
-
-[Extended Data](ext_articles/23d811c8.ext.json)
-
----
-
-### Troops reach 10
-
-*2024-08-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199457) · `si`
-
-The Elections Commission confirmed that 10 candidates, including Ranil Wickremesinghe, Sarath Keerthirath, and others, have been nominated for the upcoming Presidential election.
-
-🟩
-
-The Elections Commission announced that 10 candidates have been paid to the Presidential election.
-
-Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa, P. W. S. K. Bandaranaike, Wijeyadasa Rajapakse, KK. Piyadasa, Sirithunga Jayasuriya and Ajantha De Zoysa have been deposited.
-
-◼️
-
-[Data](articles/c4a055f7.json)
-
-[Extended Data](ext_articles/c4a055f7.ext.json)
 
 ---

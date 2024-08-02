@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 17:05:59**
+As of **2024-08-02 17:20:44**
 
 ## Newspaper Stats
 
-*Scraped **38,648** Articles*
+*Scraped **38,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,551
-adaderanalk | 4,475
+adaderanalk | 4,476
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,804
 virakesarilk | 6,111
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,645 (100.0%) of 38,648 articles have been extended.
+38,648 (100.0%) of 38,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### 3 newly freed Americans are back on US soil after landmark prisoner exchange with Russia
+
+*2024-08-02 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100951/3-newly-freed-americans-are-back-on-us-soil-after-landmark-prisoner-exchange-with-russia) · `en`
+
+The United States and Russia completed their biggest prisoner swap in post-Soviet history on Thursday, with Moscow releasing journalist Evan Gershkovich and fellow American Paul Whelan, along with dissidents including Vladimir Kara-Murza, in a multinational deal that set two dozen people free.
+
+Gershkovich, Whelan and Alsu Kurmasheva, a journalist with dual U.S.-Russia citizenship, arrived on American soil shortly before midnight for a joyful reunion with their families. President Joe Biden and Vice President Kamala Harris also were at Joint Base Andrews in Maryland to greet them and dispense hugs all around.
+
+The trade unfolded despite relations between Washington and Moscow being at their lowest point since the Cold War after Russian President Vladimir Putin’s February 2022 invasion of Ukraine.
+
+...
+
+[Data](articles/13a34207.json)
+
+---
 
 ### Death of Indian fisherman in Sri Lankan waters: SL Navy issues clarification
 
@@ -48,19 +64,27 @@ In the statement, Sri Lanka Navy said that having spotted Indian fishing trawler
 
 [Data](articles/63ceb11d.json)
 
+[Extended Data](ext_articles/63ceb11d.ext.json)
+
 ---
 
-### ரணில் பக்கம் தாவியவர்: மஹிந்த பக்கமே பாய்ந்தார்
+### Ranil Page
 
 *2024-08-02 16:38:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பக்கம்-தாவியவர்-மஹிந்த-பக்கமே-பாய்ந்தார்/175-341470) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்த  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் காலி மாவட்ட  பாராளுமன்ற உறுப்பினர் மொஹான் பிரியதர்ஷன, தனது முடிவை வாபஸ் பெற்று   ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கு  உத்தியோகபூர்வமாக திரும்பியுள்ளார்.
+Mohan Priyadarshana, a parliamentarian from Galle District, rejoined the Sri Lanka People's Party (PA), pledging support for President Ranil Wickremesinghe. This move comes after Wickremesinghe backed the SLPP's Executive Committee meeting on Monday.
 
-திங்கட்கிழமை (29) நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) செயற்குழு கூட்டத்தின் போதே, ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளித்தார்
+🟩
+
+Sri Lanka PA, Galle District Parliamentarian Mohan Priyadarshana, who promised to support President Ranil Wickremesinghe, has officially returned to the Sri Lanka PA.
+
+Ranil Wickremesinghe supported the Sri Lanka PA (SLPP) Executive Committee meeting held on Monday (29)
 
 ◼️
 
 [Data](articles/d668f14d.json)
+
+[Extended Data](ext_articles/d668f14d.ext.json)
 
 ---
 
@@ -84,21 +108,33 @@ The petitions, submitted by five parties including the Centre for Environmental 
 
 ---
 
-### දින දෙකක් තුළ අනුරාධපුරන් බාල වයස්කාර දැරියන් අපයෝජනයට ලක් කිරීමේ සිද්ධීන් 5ක්
+### 5 events to abuse juvenile girls in two days
 
 *2024-08-02 16:14:06* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකක්-තුළ-අනුරාධපුරන්-බාල-වයස්කාර-දැරියන්-අපයෝජනයට-ලක්-කිරීමේ-සිද්ධීන්-5ක්/11-411168) · `si`
 
-අනුරාධපුර පොලිස් කොට්ඨාසය තුල ඉකුත් දින දෙක (30සහ 31) තුලදී පමණක් වාර්තා වූ බාල වයස්කාර දැරියන් දූෂණයට  සහ අපයෝජනයට ලක් කිරීමේ සිද්ධීන් 5 ක් සම්බන්ධයෙන් විමර්ශන සිදු කර සැකකරුවන් හතර දෙනෙකු අත්අඩංගුවට ගත් බව  අනුරාධපුර පොලිස් කොට්ඨාසය පවසයි.
+In two days, five incidents involving the sexual abuse of juvenile girls were reported across various police divisions. Four suspects, ranging from 14 to 39 years old, have been arrested. Investigations continue, focusing on the arrest of the victims' fathers and principals involved, with further arrests expected. The cases are being investigated by officers from several police divisions and the Children and Women's Bureau.
 
-ගාලදිවුල්වැව  පොලිස් වසමේ  පදිංචි වයස අවුරුදු 14ක බාල වයස්කාර දැරියක් සමග ප්‍රේම සම්බන්ධතාවයක් පවත්වා ගෙන යමින්, මෙම දැරිය රවටා අපහරණය කර ස්ත්‍රී දූෂණයට ලක් කළ වයස අවුරුදු 25ක පුද්ගලයෙකු අත්අඩංගුවට ගත් බව ගාලදිවුල්වැව  පොලිසිය පවසයි.
+🟩
 
-පරසන්ගස්වැව  පොලිස් වසමේදී වයස අවුරුදු 16 බාල වයස්කාර දැරිය බරපතල ලිංගික අපයෝජනයට ලක් කල එම දැරියගේ පියාගේ සහෝදරයා (39 හැවිරිදි ) අත්අඩංගුවට ගත් බවත් , එම සිද්ධිය සම්බන්ධයෙන් ප්‍රදේශය මගහැර පලා ගොස් සිටින වයස අවුරුදු 50ක පෙදරේරුවෙකු අත්අඩංගුවට ගැනීමට විමර්ශන ක්‍රියාත්මක බවද පොලීසිය කියයි.
+Four suspects have been arrested in connection with five (30 and 31) in the Anuradhapura Police Division.
 
-තඹුත්තේගම  පොලිස් වසමේ  පදිංචි වයස අවුරුදු 15ක දැරියක් නීත්‍යානුකූල භාරකාරත්වයෙන් අපහරණය කල 17 හැවිරිදි තරුණයෙකු, පන්විල පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති  මූලස්ථාන පොලිසිය පවසයි.
+The girl was arrested with a 14-year-old girl in the Gallewewa police division and arrested a 25-year-old man who was raped in rape and raped the girl.
+
+Investigations have been arrested and arrested for the arrest of the girl's father (39 year old), who was seriously sexually abused at the Parasangaswewa Police Division.
+
+A 17-year-old youth arrested with a 15 year old girl from the legal custody of the Thambuththegama police division, the Panvila police have arrested a 15-year-old girl.
+
+Investigations are underway to arrest three persons including a principal of a 14-year minor girl in Thambuththegama police division in the Thambuththegama police division.
+
+A 16-year-old girl aged 16-year-old girl was arrested in 15 years of legal handing at the age of 15 years of rape and raped.
+
+The four arrested suspects were to be produced in court.
 
 ...
 
 [Data](articles/cbeea23e.json)
+
+[Extended Data](ext_articles/cbeea23e.ext.json)
 
 ---
 
@@ -438,7 +474,7 @@ The 81st was the 81-year-old he was involved in the Sasanawa and Social Mission.
 
 *2024-08-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100942/chief-incumbent-of-hunupitiya-gangaramaya-temple-passes-away) · `en`
 
-The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly know as “Podi Hamuduruwo”, has passed away, a short while ago.
+The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly known as “Podi Hamuduruwo”, has passed away, a short while ago.
 
 Ven. Galaboda Gnanissara Thero was aged 81 at the time of his passing.
 
@@ -2133,21 +2169,5 @@ Nvidia sets record for biggest daily gain in value in stock market history
 [Data](articles/abaeb220.json)
 
 [Extended Data](ext_articles/abaeb220.ext.json)
-
----
-
-### Share market on recovery track following disclosure of presidential poll survey results
-
-*2024-08-02 02:56:00* · [`islandlk`](http://island.lk/share-market-on-recovery-track-following-disclosure-of-presidential-poll-survey-results/) · `en`
-
-The stock market yesterday bounced back after a prolonged decline due to macro- economic factors. However, it turned into a more market oriented stance with the surfacing of presidential election opinion survey results, market analysts said.
-
-Amid those developments both indices moved upwards. The All- Share Price Index went up by 33.14 points while the S and P SL20 rose by 20.25 points. Turnover stood at Rs 756 million with two crossings. Those crossings were reported in TJ Lanka, which crossed 1.2 million shares to the turnover of Rs 51.5 million; its shares traded at Rs 40.50 and Sampath Bank 500,000 shares crossed for Rs 37.75 million; its shares traded at Rs 75.50.
-
-...
-
-[Data](articles/1ec84d5a.json)
-
-[Extended Data](ext_articles/1ec84d5a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 13:36:24**
+As of **2024-08-02 13:55:39**
 
 ## Newspaper Stats
 
-*Scraped **38,619** Articles*
+*Scraped **38,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
-adalk | 3,547
-adaderanalk | 4,467
+adalk | 3,548
+adaderanalk | 4,468
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,800
+tamilmirrorlk | 4,801
 virakesarilk | 6,108
 adaderanasinhalalk | 6,505
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,618 (100.0%) of 38,619 articles have been extended.
+38,619 (100.0%) of 38,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Chief Incumbent of Hunupitiya Gangaramaya Temple passes away
+
+*2024-08-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100942/chief-incumbent-of-hunupitiya-gangaramaya-temple-passes-away) · `en`
+
+The Chief Incumbent of Hunupitiya Gangaramaya Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly know as “Podi Hamuduruwo”, has passed away, a short while ago
+
+Ven. Galaboda Gnanissara Thero was aged 81 at the time of his passing.
+
+Sources said that Thero was receiving treatment at a private hospital in Colombo.
+
+◼️
+
+[Data](articles/52e7cef0.json)
+
+---
+
+### கங்காராமய விகாரையின் பிரதமகுரு காலமானார்
+
+*2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விகாரையின்-பிரதமகுரு-காலமானார்/175-341458) · `ta`
+
+பொடி ஹமுதுருவோ என அழைக்கப்படும் கொழும்பு கங்காராமய விகாரையின் பிரதமகுரு கலாநிதி கல்பொட ஞானிஸ்ஸர தேரர் தனது 80ஆவது வயதில் காலமானார்.
+
+டிசம்பர் 13, 1943 இல் பிறந்த பொடி ஹமுதுருவோ, இரக்கம், சமத்துவம் மற்றும் மனித குலத்திற்கு சேவை செய்வதற்கான ஆழ்ந்த அர்ப்பணிப்பால் வழிநடத்தப்பட்ட பௌத்த கொள்கைகளின் நடைமுறை மற்றும் பிரச்சாரத்திற்காக தனது வாழ்க்கையை அர்ப்பணித்துள்ளார்.
+
+◼️
+
+[Data](articles/bdebd4a3.json)
+
+---
 
 ### Paris Olympics: Sri Lanka’s Tharushi Karunaratne in 800m Heats today
 
@@ -49,6 +79,8 @@ The 19-year-old is also the Asian record holder of the event and the Gold Medali
 ◼️
 
 [Data](articles/c17e7a28.json)
+
+[Extended Data](ext_articles/c17e7a28.ext.json)
 
 ---
 
@@ -457,6 +489,20 @@ He died on Thursday (31) after he was admitted to the Jaffna Teaching Hospital f
 [Data](articles/9d21de5e.json)
 
 [Extended Data](ext_articles/9d21de5e.ext.json)
+
+---
+
+### පෙර පාසලේදි හිසට පොල් ගෙඩියක් වැටී අවුරුදු තුන හමාරක දැරියක් මිය යයි
+
+*2024-08-02 10:58:23* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසලේදි-හිසට-පොල්-ගෙඩියක්-වැටී-අවුරුදු-තුන-හමාරක-දැරියක්-මිය-යයි/11-411162) · `si`
+
+මාවනැල්ල පොලිස් වසමේ මාවනැල්ල නගරය ආසන්නේ පිහිටි පෙර පාසලක ඉගෙනුම ලැබූ දැරියකගේ හිස මතට පොල් ගෙඩියක් වැටිමෙන් එම දැරිය ජීවිතක්ෂයට පත්ව ඇති බව මාවනැල්ල පොලීසිය කියයි.
+
+ඊයේ පෙරවරුවේ මෙම අනතුර සිදුව තිබේ. පෙර පාසල් මිදුලේ සිටි දැරියගේ හිස මතට පොල්ගෙඩිය වැටිමෙන් අනතුරුව තුවාල ලැබූ ඇයව රෝහල් ගත කිරීමේදී මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/4c383183.json)
 
 ---
 
@@ -2145,83 +2191,5 @@ Accordingly, the leader of the National Janni Samaraweera and Gamini Walaboda, t
 [Data](articles/4efebbeb.json)
 
 [Extended Data](ext_articles/4efebbeb.ext.json)
-
----
-
-### Matara from Matara resolution standing as Secretary of Pohoth
-
-*2024-08-01 19:11:28* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ලේකම්-ධුරයෙන්-සාගර-ඉවත්-කරන්න-මාතරින්-යෝජනා-සම්මතයක්/11-411158) · `si`
-
-The Matara District Council of the Sri Lanka General Front supports Ranil Wickremesinghe for president and proposes changes in leadership, including replacing the Secretary General with Minister Ramesh Pathirana. The decisions were made during a meeting chaired by Power and Energy Minister Kanchana Wijesakara, with various representatives present.
-
-🟩
-
-The General Filling Filling Fill of Sri Lanka has decided to support Ranil Wickremesinghe in the next presidential election. It also has a proposal to be submitted to the party leadership as the Secretary General of the Sri Lanka General Front.
-
-Matara District Council of the Sri Lanka General Front met yesterday (1st). These resolutions have been passed at that time.
-
-The meeting was held at the LHK Hotel at the LHK Hotel under the patronage of Power and Energy Minister Kanchana Wijesakara.
-
-Former Provincial Councilors, former provincial councilors, representatives of former provincial councilors, representing former provincial councilors, representing the Matara District Board of the Sri Lanka General Front.
-
-Minister Ranil Wijesekara has presented the proposal to be supported by President Ranil Wickremesinghe to support the presidential election while the Politburo of the Sri Lanka General Front was rejected recently.
-
-...
-
-[Data](articles/2c3982cc.json)
-
-[Extended Data](ext_articles/2c3982cc.ext.json)
-
----
-
-### Emilkanthan has announced his support for President Ranil
-
-*2024-08-01 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190043) · `ta`
-
-Emil Kandan, entering politics, supports Ranil Wickremesinghe for presidency, criticizing Tamil nationalist candidates as detrimental. He emphasizes the need for a political structure for Tamils and highlights Wickremesinghe's bravery and leadership. Opposes halting a Tamil candidate, advocating for the implementation of constitutional powers for Tamil solutions.
-
-🟩
-
-Businessman Emil Kandan, who has announced his entry into full -time politics to establish a desperate structure for the Tamil people, said he would support Ranil Wickremesinghe in the presidential election.
-
-He also warned that the Tamil Nadu general candidate in the name of Tamil nationalism would lead the Tamil people to a further failure.
-
-He said this while addressing a press conference held in Vavuniya on Thursday (01).
-
-With the announcement of the election for local bodies, my teammates were ready to contest the election and attacked the nominations.
-
-In such a backdrop, I have decided to enter a full -time political activity. There are reasons for this.
-
-While the history of supporting the traditional political parties and liberation organizations, it is history that the parties and organizations are acting on how they are.
-
-At this moment, there is a need to enter politics on the basis that my people have a political structure.
-
-...
-
-[Data](articles/ec28cad7.json)
-
-[Extended Data](ext_articles/ec28cad7.ext.json)
-
----
-
-### Teacher Principal launches second trade union action
-
-*2024-08-01 19:06:59* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-දෙවැනි-වෘත්තීය-ක්‍රියාමාර්ගය-5දා-අරඹයි/11-411157) · `si`
-
-The Gururu Pr School Associations (UPF) announced a second trade union action starting next Monday due to unresolved teacher issues. The union demands include addressing salary anomalies, providing adequate funds, and improving school equipment. Members will boycott attending schools after 1:30 pm, affecting educational institutions' operations post-1:30 pm.
-
-🟩
-
-Gururu Pr School Associations (UPF) states that the prospect of the precise of the precise of the teacher's problems to address the problems of the teacher, asking for a number of other demands today (2).. Accordingly, the second program will commence from Monday, 5 weeks, and said that the members of the Alliance (UPFA) Joseph Stalin said.
-
-He said that the proposals were made to be demanded to provide a two-thirds part of the salary anomality and demanding a proper fund and the school equipment.He said that the second procedure has been taken to commence the second procedure as the authorities do not work.
-
-Accordingly, the officers of the Zonal Office and Line Ministries will be boycotted to attend school after 1.30 pm off the end of 1.30 pm, he said that after 1.30 pm, the educational institutions will boycott the no avail..
-
-◼️
-
-[Data](articles/94e606b8.json)
-
-[Extended Data](ext_articles/94e606b8.ext.json)
 
 ---

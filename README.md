@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 11:20:46**
+As of **2024-08-02 11:36:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,592 (100.0%) of 38,595 articles have been extended.
+38,595 (100.0%) of 38,595 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ This strategic announcement will further strengthen the strong cultural and trad
 
 [Data](articles/c5a01996.json)
 
+[Extended Data](ext_articles/c5a01996.ext.json)
+
 ---
 
-### ලෙබනනයේ සංචාරය නොකරන්න - අලි සබ්රි
+### Don't travel in Lebanon - Ali Sabri
 
 *2024-08-02 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199480) · `si`
 
-අත්‍යවශ්‍ය කටයුත්තකට හැරෙන්නට ඉදිරි දින කිහිපය තුළ ලෙබනනයේ සංචාරය නොකරන ලෙස ශ්‍රී ලාංකිකයින්ට උපදෙස් නිකුත් කර තිබේ.
+Sri Lanka advises its citizens against traveling to Lebanon due to unspecified reasons, affecting around 6,000 Sri Lankans already there.
 
-එරට තුළ ශ්‍රී ලාංකිකයන් 6000ක් පමණ රැඳී සිටින බවද වාර්තා වෙයි.
+🟩
+
+In the next few days, Sri Lankans have issued advice to Sri Lankans not to visit Lebanon in the next few days.
+
+It is reported that about 6,000 Sri Lankans remain in the country.
 
 ◼️
 
 [Data](articles/9373d2db.json)
+
+[Extended Data](ext_articles/9373d2db.ext.json)
 
 ---
 
@@ -172,21 +180,27 @@ He made this statement to the media after a meeting held at the party headquarte
 
 ---
 
-### மோடியின் இலங்கைக்கான விஜயம் இரத்து
+### Visit Modi's visit to Sri Lanka
 
 *2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-இலங்கைக்கான-விஜயம்-இரத்து/175-341442) · `ta`
 
-இந்தியப் பிரதமர் நரேந்திர மோடியின் இலங்கைக்கான  உத்தியோகபூர்வ விஜயம் இரத்து செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
+Indian PM Narendra Modi's visit to Sri Lanka is canceled due to Sri Lanka's political instability. A fisherman's boat crash led to tensions, with India summoning Sri Lanka's High Commissioner in Delhi over diplomatic issues.
 
-இலங்கையில் தற்போது நிலவும் அரசியல் சூழ்நிலை காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது.
+🟩
 
-நேற்றையதினம் இலங்கைக் கடற்படையினரின் படகு மோதியதால் இந்திய மீனவர் படகொன்று கடலில் மூழ்கியதில் ஒருவர் பலியான சம்பவம் பதிவாகியிருந்தது.
+Indian media reports that Indian Prime Minister Narendra Modi's official visit to Sri Lanka has been canceled.
 
-இதனை அடுத்து டெல்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகர் இந்திய வெளியுறவு அமைச்சால் அழைக்கப்பட்டு இராஜதந்திர ரீதியிலான எதிர்ப்பு தெரிவிக்கப்பட்டிருந்தது.
+The decision has been taken due to the prevailing political situation in Sri Lanka.
+
+A Sri Lankan fisherman's boat crashed yesterday when a boat was killed when a boat was killed.
+
+Following this, the Sri Lankan High Commissioner in Delhi was summoned by the Indian Foreign Ministry and objected to diplomatic opposition.
 
 ◼️
 
 [Data](articles/d14c8cf2.json)
+
+[Extended Data](ext_articles/d14c8cf2.ext.json)
 
 ---
 

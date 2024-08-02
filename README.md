@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 16:07:59**
+As of **2024-08-02 16:21:02**
 
 ## Newspaper Stats
 
-*Scraped **38,639** Articles*
+*Scraped **38,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,549
-adaderanalk | 4,470
+adaderanalk | 4,473
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,803
 virakesarilk | 6,111
@@ -26,11 +26,65 @@ adaderanasinhalalk | 6,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,639 (100.0%) of 38,639 articles have been extended.
+38,639 (100.0%) of 38,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### AKD holds talks with Ceylon Chamber of Commerce
+
+*2024-08-02 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100948/akd-holds-talks-with-ceylon-chamber-of-commerce) · `en`
+
+A meeting has taken place between representatives of the Ceylon Chamber of Commerce including its Chairman, Duminda Hulangamuwa and the leader of the National People’s Power (NPP) Anura Kumara Dissanayake.
+
+The discussion had taken place last evening (01) at the headquarters of Janatha Vimukthi Peramuna (JVP).
+
+During the meeting, the Ceylon Chamber of Commerce (CCC) presented its comprehensive policy document, titled ‘Vision 2030’ which outlines the economic trajectory of Sri Lanka over the next five years, to the NPP leader.
+
+A delegation of the Ceylon Chamber of Commerce including the Vice Chairperson, Krishan Balendra, Deputy Vice Chairperson, Bingumal Thewarathanthri, and members of the director board, Amal Cabral, Sarath Ganegoda, Supun Weerasinghe and Vinod Hirdaramani as well as the executive committee members of the NPP, Prof. Anil Jayantha and Dr. Harshana Suriyapperuma were also present for the discussion.
+
+◼️
+
+[Data](articles/5492d854.json)
+
+---
+
+### 13 killed during protests over Nigeria’s economic crisis, hundreds arrested
+
+*2024-08-02 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100947/13-killed-during-protests-over-nigerias-economic-crisis-hundreds-arrested) · `en`
+
+At least 13 protesters were killed during mass protests in Nigeria against the country’s economic crisis that turned violent in several states, a rights group said Friday.
+
+Authorities confirmed four people killed by a bomb and the arrests of hundreds in the protests that triggered curfews in several states.
+
+Amnesty International’s Nigeria director Isa Sanusi said in an interview that it independently verified the deaths that were reported by witnesses, families of the victims and lawyers.
+
+More than 300 protesters were arrested and curfews imposed in the northern states of Kano and Katsina after the looting of government and public properties, Nigerian police said. One police officer was also killed and several others injured.
+
+...
+
+[Data](articles/c90b30d7.json)
+
+---
+
+### Relaxing vehicle import restrictions will support Sri Lanka’s revenue mobilization in 2025 – IMF
+
+*2024-08-02 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100946/relaxing-vehicle-import-restrictions-will-support-sri-lankas-revenue-mobilization-in-2025-imf) · `en`
+
+The International Monetary Fund (IMF) says the 2025 Budget needs to be underpinned by appropriate revenue measures and continued spending restraint so as to reach the medium-term primary balance objective of 2.3 percent of GDP—a key requirement for restoring Sri Lanka’s debt sustainability.
+
+“With Sri Lanka’s knife-edged recovery at a critical juncture, sustaining the reform momentum and ensuring timely implementation of all program commitments are critical to cement the hard-won economic progress to date and put the economy on a firm footing.”
+
+“Maintaining macroeconomic stability and restoring debt sustainability require further efforts to raise fiscal revenues,” said IMF Senior Mission Chief for Sri Lanka Peter Breuer.
+
+He made this statement in their End-of-Mission press release, which includes statements of IMF staff teams that convey preliminary findings after a visit to a country.
+
+...
+
+[Data](articles/4f3e4c8b.json)
+
+---
 
 ### The largest prisoner exchange after winter war
 
@@ -2111,71 +2165,5 @@ The discussion, which lasted for about 1 hour, has been discussed in the upcomin
 [Data](articles/1d369a00.json)
 
 [Extended Data](ext_articles/1d369a00.ext.json)
-
----
-
-### 83 Indian fishermen currently in Sri Lanka’s judicial custody: Indian govt tells Parliament
-
-*2024-08-01 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100928/83-indian-fishermen-currently-in-sri-lankas-judicial-custody-indian-govt-tells-parliament) · `en`
-
-The Indian fishermen are apprehended for allegedly crossing the International Maritime Boundary Line (IMBL) and fishing in Sri Lankan waters, and there are 83 Indian fishermen currently in the judicial custody of the island nation, the Indian government has informed Indian Parliament on Thursday (01).
-
-India’s Minister of State for External Affairs Kirti Vardhan Singh in a written response to a question in Rajya Sabha also said four Indian fishermen are serving sentences and 169 Indian fishing vessels have been apprehended by the Sri Lankan authorities.
-
-He was asked whether the government has taken any action with regard to Tamil Nadu Chief Minister’s “letter dated July 11, 2024 requesting the release of 80 fishermen and 173 fishing boats detained by Sri Lankan Navy” and details there of.
-
-...
-
-[Data](articles/67372340.json)
-
-[Extended Data](ext_articles/67372340.ext.json)
-
----
-
-### Shani tells a plan of assassination plan
-
-*2024-08-01 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199469) · `si`
-
-The Supreme Court has ordered former Director Shani Abeysekara to consider a fundamental rights petition he filed, aiming to increase security for himself due to an alleged assassination plot. The petition names Deshabandu Tennakoon, the National Police Commission, and the Defense Secretary as respondents.
-
-🟩
-
-The Supreme Court today (01) ordered the former Director Shani Abeysekara to consider a fundamental rights petition filed.
-
-Shani Abeysekara has filed the petition to issue an order to raise the security of the security that is planned to be killed and killed.
-
-Deshabandu Tennakoon, the National Police Commission and the Defense Secretary have been named as respondents in the petition.
-
-The petition was called before Vijith Malalgoda, Mustru Fernando and Yasantha Kodagoda.
-
-◼️
-
-[Data](articles/e559281e.json)
-
-[Extended Data](ext_articles/e559281e.ext.json)
-
----
-
-### Mahinda Rajapaksa is ready to support Ranil if the party decides
-
-*2024-08-01 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190048) · `ta`
-
-Mahinda Rajapaksa, former president, states he'll back Ranil Wickremesinghe if his party agrees. He clarified his stance during a press query, emphasizing the decision lies with the party, not him.
-
-🟩
-
-Former President and former President Mahinda Rajapakse said that if his party decides to support Ranil Wickremesinghe in the upcoming presidential election, I will support it.
-
-He also said this while responding to a question raised by a journalist.
-
-Does President Ranil Wickremesinghe still support a journalist Mahinda Rajapaksa?He raised the question.
-
-The party must decide. Not me. Mahinda Rajapaksa said that if the party says to change the resolution, he will do the same.
-
-◼️
-
-[Data](articles/9c7f285a.json)
-
-[Extended Data](ext_articles/9c7f285a.ext.json)
 
 ---

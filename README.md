@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 16:21:02**
+As of **2024-08-02 16:36:00**
 
 ## Newspaper Stats
 
-*Scraped **38,642** Articles*
+*Scraped **38,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
-adalk | 3,549
+adalk | 3,550
 adaderanalk | 4,473
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,803
 virakesarilk | 6,111
-adaderanasinhalalk | 6,511
+adaderanasinhalalk | 6,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,639 (100.0%) of 38,642 articles have been extended.
+38,642 (100.0%) of 38,644 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,24 @@ A delegation of the Ceylon Chamber of Commerce including the Vice Chairperson, K
 
 [Data](articles/5492d854.json)
 
+[Extended Data](ext_articles/5492d854.ext.json)
+
+---
+
+### මැණික් අධිකාරියට මිලියන 14ක් දී ගත් ඉඩමෙන් ප්‍රයෝජනයක් ගෙන නෑ
+
+*2024-08-02 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199489) · `si`
+
+මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනයේ රත්නපුර දිස්ත්‍රික් කාර්යාලය ඉදිකිරීම සඳහා මිලියන 14ක් වැයකර ලබා ගත් ඉඩමෙන් මේ වනතෙක් කිසිදු ප්‍රයෝජනයක් ගෙන නැතැයි පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී හෙළිව තිබේ.
+
+මේ පිළිබඳ අවධානය යොමු වුයේ පසුගිය 24 වන දා පාර්ලිමේන්තු මන්ත්‍රී අජිත් මාන්නප්පෙරුම මහතාගේ සභාපතිත්වයෙන් රැස්වූ පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභා රැස්වීමේදී වන අතර ඒ සඳහා මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනය කැඳවා තිබිණි.
+
+මෙම ආයතනයේ රත්නපුර දිස්ත්‍රික් කාර්යාලය ඉදිකිරීම සඳහා 2016 වර්ෂයේ දී තිස් අවුරුදු බදු පදනම යටතේ, රු.මිලියන 14ක් වැය කොට ලබා ගත් ඉඩමේ මේ වනතෙක් කිසිදු ප්‍රයෝජනයක් ගෙන නොමැති බවට මෙහිදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/eee806af.json)
+
 ---
 
 ### 13 killed during protests over Nigeria’s economic crisis, hundreds arrested
@@ -66,6 +84,8 @@ More than 300 protesters were arrested and curfews imposed in the northern state
 
 [Data](articles/c90b30d7.json)
 
+[Extended Data](ext_articles/c90b30d7.ext.json)
+
 ---
 
 ### Relaxing vehicle import restrictions will support Sri Lanka’s revenue mobilization in 2025 – IMF
@@ -83,6 +103,8 @@ He made this statement in their End-of-Mission press release, which includes sta
 ...
 
 [Data](articles/4f3e4c8b.json)
+
+[Extended Data](ext_articles/4f3e4c8b.ext.json)
 
 ---
 
@@ -291,6 +313,18 @@ Seven persons, including the boy's boyfriend, her father, sister, little father,
 [Data](articles/9c4c8161.json)
 
 [Extended Data](ext_articles/9c4c8161.ext.json)
+
+---
+
+### හුණුපිටියේ ගංගාරාමාධිපති ගල්බොඩ ඥානිස්සර නාහිමියෝ අපවත්වෙති
+
+*2024-08-02 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/හුණුපිටියේ-ගංගාරාමාධිපති-ගල්බොඩ-ඥානිස්සර-නාහිමියෝ-අපවත්වෙති/11-411166) · `si`
+
+කොළඹ 2 හුණුපිටියේ ගංගාරාමාධිපති කොළඹ නව කෝරලයේ ප්‍රධාන සංඝ නායක ගලබොඩ ඥානිස්සර හිමියන්  අද (2) දහවල් අපවත් වී ඇත. ශාසනික මෙන්ම සමාජමය අතිමහත් සේවාවක් කල උන්වහන්සේ අපවත්වන විට 81 වන වියේ පසු වූහ.
+
+◼️
+
+[Data](articles/4c3bb2a8.json)
 
 ---
 
@@ -2119,51 +2153,5 @@ The IMF officials intend to hold a media briefing at the conclusion of the meeti
 [Data](articles/a64ab1f2.json)
 
 [Extended Data](ext_articles/a64ab1f2.ext.json)
-
----
-
-### Sri Lanka's observation on war tensions
-
-*2024-08-02 00:03:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்-பதட்டம்-குறித்து-இலங்கை-அவதானம்/175-341438) · `ta`
-
-Sri Lanka's Foreign Affairs Minister Ali Sabri supports President Ranil Wickremesinghe's move to form special committees amid escalating Middle East tensions. This action comes after the country faced a crisis in 2022 due to rising fuel, coal, and wheat flour prices, partly attributed to the Ukraine-Russia war. Sabri emphasizes the importance of proactive measures to avoid future crises.
-
-🟩
-
-President Ranil Wickremesinghe's decision to appoint three special committees for premature preparation for the prevailing war tensions in the Middle East is very correct, said Foreign Affairs Minister and President's Attorney Ali Sabri.
-
-Minister Ali Sabri said this at a media briefing held at the Presidential Media Center.
-
-In 2022, there was a fuel shortage in the country. Various reasons contributed to it. Russia - Due to the war of Ukraine, fuel prices increased. The prices of coal and wheat flour have also increased. The country was forced into crisis, unable to withstand the price rise.
-
-Considering the lessons learned, it should be said that it is best to appoint the President in preparation for the preparations to prevent such a situation from happening again.. Remble
-
-◼️
-
-[Data](articles/72628e63.json)
-
-[Extended Data](ext_articles/72628e63.ext.json)
-
----
-
-### 2024-08-01 (Thursday)
-
-### Mahinda met Ranil in a hurry
-
-*2024-08-01 23:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-அவசரமாக-சந்தித்தார்-மஹிந்த/175-341425) · `ta`
-
-In a brief encounter, President Ranil Wickremesinghe and former President Mahinda Rajapaksa discussed political matters at Rajapaksa's home in Colombo. The conversation, lasting an hour, is now a topic of interest ahead of the upcoming presidential election.
-
-🟩
-
-President Ranil Wickremesinghe and former President Mahinda Rajapaksa held a meeting at Mahinda Rajapaksa's residence in Wijerama, Colombo.
-
-The discussion, which lasted for about 1 hour, has been discussed in the upcoming presidential election, said Mahinda Rajapaksa close to Mahinda Rajapakse.. Remble
-
-◼️
-
-[Data](articles/1d369a00.json)
-
-[Extended Data](ext_articles/1d369a00.ext.json)
 
 ---

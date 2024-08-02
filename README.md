@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 14:55:13**
+As of **2024-08-02 15:05:40**
 
 ## Newspaper Stats
 
-*Scraped **38,636** Articles*
+*Scraped **38,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,470
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,803
 virakesarilk | 6,111
-adaderanasinhalalk | 6,508
+adaderanasinhalalk | 6,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,633 (100.0%) of 38,636 articles have been extended.
+38,636 (100.0%) of 38,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ලංකාවට එරෙහිව ඉන්දියාව වාර්තාවක් අබියස
+
+*2024-08-02 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199486) · `si`
+
+වසර 45ක (1979 සිට) ඉන්දු - ශ්‍රී ලංකා එක්දින ක්‍රිකට් ඉතිහාසයේ අද (02) පැවැත්වෙන තරගය දෙරට අතර 169 වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය වේ.
+
+ඉන් වැඩි ගෞරව හිමිකරගෙන සිටින්නේ, ඉන්දීය කණ්ඩායම වන අතර, ඔවුන් තරග 99ක ජය තහවුරු කරගෙන සිටී.
+
+ඒ අනුව අද තරගද ජයගැනීමට හැකි වුවහොත් ශ්‍රී ලංකාවට එරෙහිව ජයග්‍රහණ ශතකයක් සම්පූර්ණ කිරීමට ඉන්දියාවට හැකිවනු ඇත.
+
+කෙසේ වෙතත් ඉන්දියාවට එරෙහිව ශ්‍රී ලංකාව මේ දක්වා ජය ගැනීමට හැකිවී ඇත්තේ තරග 57ක් පමණක් වන අතර, තවත් තරග 11ක් විසඳුමෙන් තොරව අවසන් වී ඇත.
+
+එමෙන්ම දෙරට අතර ශ්‍රී ලංකාවේ දී (1985 සිට) පැවැත්වෙන 67වැනි එක්දින තරගය ද මෙය වෙයි.
+
+එහිදී ද තරග 28ක ජය ශ්‍රී ලංකාව සම්පූර්ණ කර ගද්දී, තරග 32ක් ජයගෙන ඇත්තේ ඉන්දියාවයි.
+
+◼️
+
+[Data](articles/acf33d36.json)
+
+---
 
 ### Death of Indian fisherman in Sri Lankan waters: Rameswaram fishermen announce indefinite strike
 
@@ -48,17 +70,25 @@ Hence, the governments should get back the mechanised boats, which were in good 
 
 [Data](articles/17969822.json)
 
+[Extended Data](ext_articles/17969822.ext.json)
+
 ---
 
-### யாழுக்கு விஜயம் செய்தார் ஜனாதிபதி
+### President visited Jaffna
 
 *2024-08-02 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190091) · `ta`
 
-மருதங்கேணி பகுதியில் கடல்நீரை நன்னீராக மாற்றும் திட்டத்தினை இன்றைய தினம் ஆரம்பித்து வைத்த பின்னர், தொடர்ந்து ஜனாதிபதி பல்வேறு அமைப்புகளையும் சந்தித்துப் பேச்சு நடத்தவுள்ளார் என்று தெரியவருகின்றது.
+The President's visit to Jaffna included launching a seawater-to-freshwater conversion plan in Maruthankani. Post-launch, meetings with various organizations were scheduled.
+
+🟩
+
+It is reported that the President will continue to meet with various organizations after the launch of a plan to convert seawater into freshwater in the Maruthankani area.
 
 ◼️
 
 [Data](articles/1eeb8616.json)
+
+[Extended Data](ext_articles/1eeb8616.ext.json)
 
 ---
 
@@ -124,19 +154,29 @@ She has sustained injuries to her right leg and is currently receiving treatment
 
 ---
 
-### வினோதினி கொலை: 7 பேருக்கும் விளக்கமறியல் நீடிப்பு
+### Vinodhini murder: 7 persons
 
 *2024-08-02 13:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வினோதினி-கொலை-7-பேருக்கும்-விளக்கமறியல்-நீடிப்பு/73-341463) · `ta`
 
-சேருவில – தங்க நகர் யுவதியின் படுகொலை தொடர்பான வழக்கு வெள்ளிக்கிழமை (02) விசாரணைக்காக மூதூர் நீதிமன்ற நீதிபதி திருமதி தஸ்னீம் முகமட் பௌசான் முன்னிலையில் எடுத்துக் கொள்ளப்பட்டது.
+A judge in Muttur court heard a case involving the murder of a woman named Naresh Kumar Vinodhini, aged 25, whose body was found in a well. Seven suspects, including family members and a boyfriend, were detained. Bail applications for three suspects were denied, extending their detention for 14 more days pending Supreme Court review.
 
-இதன்போது குறித்த ஏழு சந்தேக நபர்களையும் எதிர்வரும் 16ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-குறித்த வழக்கில் எதிராளிகள் சார்பில் முன்னிலையான சட்டத்தரணிகள் 3ஆம், 6ஆம் எதிரிகளுக்கு பிணை விண்ணப்பம் கோரி சமர்ப்பணம் செய்திருந்தனர். குறித்த விண்ணப்பத்தை நிராகரித்த நீதிபதி, அந்த எதிரிகள் தொடர்பான விசாரணைகள் இன்னும் முடிவுக்கு கொண்டு வரப்படவில்லை எனவும் பிணை விண்ணப்பம் ஆனது மேல் நீதிமன்றத்தினால் பரிசீலிக்க முடியும் எனவும் தெரிவித்து பிணை விண்ணப்பத்தை நிராகரித்து குறித்த சந்தேக நபர்களுக்கு மேலும் 14 நாட்களுக்கு விளக்கமறியலை நீடித்து உத்தரவிட்டுள்ளார்.
+Muttur court judge Mrs. Dasneem Mohammed Fausan was taken up for hearing on Friday (02) for hearing of the murder of the Seruvila - Thanga Nagar woman.
+
+The seven suspects have been ordered to be kept in detention until the 16th.
+
+Attorneys on behalf of the opponents in the case had submitted bail application for the 3rd and 6th enemies. The judge rejected the application and ordered the suspects to reject the bail application for a further 14 days after the bail application could be considered by the Supreme Court.
+
+The body of Naresh Kumar Vinodhini, a 25 -year -old young woman from the Seruvila Divisional Secretariat Division, was dug up on July 5 from a dilapidated well in the village of Cleivetti.
+
+Seven persons, including the boy's boyfriend, her father, sister, little father, house servant and two JCP vehicle, have been detained and detained on the main suspect in connection with the murder of the woman.
 
 ...
 
 [Data](articles/9c4c8161.json)
+
+[Extended Data](ext_articles/9c4c8161.ext.json)
 
 ---
 
@@ -2125,31 +2165,5 @@ Minister Sabry also affirmed that the President has appointed two committees to 
 [Data](articles/e69c8463.json)
 
 [Extended Data](ext_articles/e69c8463.ext.json)
-
----
-
-### 'ADK' Live In Concrete Rap Indie all ready for the concert
-
-*2024-08-01 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199465) · `si`
-
-ADK, known as Ayian Dinesh Kanagaratnam, has gained popularity in Sri Lanka and India after winning the Best Hip Hop Video award at the Derana Roar 2023. Originally from India, ADK will perform at his "Live In Concert Rap Indie" on August 4th in Colombo, featuring artists like Sri Rascol, Malaysia Jacks, Styles, Krrish Macon, and Rap Ceylon.
-
-🟩
-
-ADK's 'ADIVE INCERT RAP INDIE' INDIE shows that AdK had arrived in Sri Lanka from India to Katunayake airport this morning.
-
-Ayian Dinesh Kanagaratnam alias Ayan Dinesh Kanagaratnam alias, who won the music industry in Mattakkuliya, has become popular in Sri Lanka and India.
-
-Top 2023 to the Gayana Roar of 2023, Derana Roar won the Best Hiprop Video.
-
-All arrangements have been made to hold the AdK 'Live In Concort Rap Indie Concert to the 4th Aug 4th August, Colombo 4 at 6 pm.
-
-Sri Rascol, Malaysia, Malaysia, and Jacks Styles and Krrish Maoon, Rap Ceylon and others.
-
-◼️
-
-[Data](articles/5a96e014.json)
-
-[Extended Data](ext_articles/5a96e014.ext.json)
 
 ---

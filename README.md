@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 06:23:43**
+As of **2024-08-02 07:02:20**
 
 ## Newspaper Stats
 
-*Scraped **38,546** Articles*
+*Scraped **38,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 369
-islandlk | 2,205
+islandlk | 2,216
 economynextcom | 2,328
-dailyftlk | 2,470
+dailyftlk | 2,479
 adalk | 3,540
 adaderanalk | 4,455
 dailymirrorlk | 4,733
@@ -26,11 +26,159 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,544 (100.0%) of 38,546 articles have been extended.
+38,544 (99.9%) of 38,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Private sector companies awarded Authorised Economic Operator status
+
+*2024-08-02 06:17:47* · [`dailyftlk`](https://www.ft.lk/business/Private-sector-companies-awarded-Authorised-Economic-Operator-status/34-765052) · `en`
+
+Thirty-one private sector companies were awarded the prestigious AEO Tier 1 status at a Sri Lanka Customs awarding ceremony on 30 July at the NH Collection Colombo.
+
+State Minister of Finance Ranjith Siyambalapitiya was in attendance as the Chief Guest.
+
+The Ceylon Chamber of Commerce, expertly facilitated and coordinated the entire training program which was conducted for selected private sector companies, funded by the United States Agency for International Development’s (USAID) Partnership for Accelerating Results in Trade, National Expenditure and Revenue (PARTNER) Activity.
+
+This facilitation included assessing companies for the required eligibility criteria for the coaching program, and identifying expert trainers M. Ravindrakumar – Customs Management Expert, and Dinesh De Silva – Senior Trade Facilitation Expert to conduct the comprehensive training.
+
+...
+
+[Data](articles/8824ee87.json)
+
+---
+
+### NCE member issues addressed at Exporters Forum
+
+*2024-08-02 06:17:12* · [`dailyftlk`](https://www.ft.lk/business/NCE-member-issues-addressed-at-Exporters-Forum/34-765051) · `en`
+
+The recent Exporters Forum, organised by the Sri Lanka Export Development Board (EDB), provided a comprehensive platform for addressing the pressing challenges faced by Sri Lankan exporters. Chaired by Minister Dilum Amunugama, the forum underscored the importance of collaborative efforts in resolving sector-specific issues. The National Chamber of Exporters of Sri Lanka (NCE) praised the EDB for hosting the event, highlighting its pivotal role in facilitating dialogue between exporters and key stakeholders.
+
+This forum was notable for the participation of representatives from Customs, the Inland Revenue Department (IRD), and other critical trade bodies, ensuring that the concerns of exporters received the necessary attention. Follow-up meetings have been planned to delve deeper into potential solutions.
+
+Some of the issues that was discussed during the forum on 25 July:
+
+...
+
+[Data](articles/6b2d17d2.json)
+
+---
+
+### EDB invites applications for Presidential Export Awards 2023/24
+
+*2024-08-02 06:15:16* · [`dailyftlk`](https://www.ft.lk/business/EDB-invites-applications-for-Presidential-Export-Awards-2023-24/34-765050) · `en`
+
+The Sri Lanka Export Development Board (EDB) yesterday announced that it officially opened applications for the prestigious Presidential Export Awards (PEA) 2023/24.
+
+Scheduled to culminate in a ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) in November 2024, under the patronage of the President, the PEA recognises and honours exceptional contributions to the nation’s export sector and economic progress.
+
+Honouring exporters who have significantly advanced Sri Lanka’s export industry, the PEA is a pinnacle of recognition conferred by the President.
+
+...
+
+[Data](articles/b1326bbf.json)
+
+---
+
+### Cargo Boat Development announces two new Board appointments
+
+*2024-08-02 06:14:56* · [`dailyftlk`](https://www.ft.lk/business/Cargo-Boat-Development-announces-two-new-Board-appointments/34-765049) · `en`
+
+Cargo Boat Development Co. PLC has announced the appointment of two Independent Non-Executive directors to its Board of Directors – Sujeewa Mudalige and Rohana Karunanayake.
+
+Sujeewa Mudalige counts over 30 years of experience as a Chartered Accountant. He has vast experience as the Audit Committee Chair in both public and private sector organisations. Mudalige recently retired as the Managing Partner of PricewaterhouseCoopers (PwC), Sri Lanka and currently serves as an Independent Non-Executive Director in many listed and private companies. He also serves as a board member of the NSBM Green University.
+
+He is a past President of the Institute of Chartered Accountants of Sri Lanka. He currently serves as a commission member of the Securities and Exchange Commission of Sri Lanka and held several such other positions locally and globally during the span of his career.
+
+Mudalige is a fellow member of CA (Sri Lanka), CIMA (UK), ACCA (UK) and CPA (Australia).
+
+...
+
+[Data](articles/58dbd449.json)
+
+---
+
+### Sri Lanka Ambassador to Saudi Arabia holds productive meeting with FSC
+
+*2024-08-02 06:12:27* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Ambassador-to-Saudi-Arabia-holds-productive-meeting-with-FSC/34-765048) · `en`
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Ameer Ajwad meets with Federation of Saudi Chambers (FSC) Vice – Chairman Fayez Al-Harbi
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Ameer Ajwad met with Federation of Saudi Chambers (FSC) Vice – Chairman Fayez Al-Harbi on 29 July at the FSC Headquarters in Riyadh.
+
+While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, Vice – Chairman of the Federation emphasised the need for enhancing interactions between the business communities of both countries by setting up of a forum. He also briefed about the role played by the Federation of Saudi Chambers towards the realisation of the Saudi Vision 2030.
+
+...
+
+[Data](articles/3be7b174.json)
+
+---
+
+### Dr. Dhananjeyan Senathirajah appointed to Renuka City Hotel’s Board
+
+*2024-08-02 06:11:08* · [`dailyftlk`](https://www.ft.lk/business/Dr-Dhananjeyan-Senathirajah-appointed-to-Renuka-City-Hotel-s-Board/34-765047) · `en`
+
+Dr. Dhananjeyan Senathirajah has joined the Board of Renuka City Hotels PLC as an Independent Non-Executive Director
+
+Dr. Senathirajah counts over 40 years of experience in finance, accounting and law and is the National Director/Chief Executive Officer of World Vision Lanka, a position he has held from October 2016 to date.
+
+Prior to that he was with the National Development Bank PLC from June 1998 and had functioned as Vice President – Finance and Planning and Financial Controller. He had also worked at the Maharaja Organisation and Reckitt and Colman of Ceylon Ltd.
+
+Dr. Senathirajah is an Attorney-at-Law and a Fellow of The Chartered Institute of Management Accountants, UK.  With the latest appointments, the Board of Renuka City Hotels PLC comprises, Chairman
+
+R.B. Thambiayah, Deputy Chairman N. A. Thambiayah, Jt. Managing Director S.R. Thambiayah, Jt. Managing Director A.L. Thambiayah, M.A. Jayawardena, N.R. Thambiayah, T. Dharmarajah, C.V. Cabraal, and D. Senathirajah.
+
+◼️
+
+[Data](articles/b6c79ce5.json)
+
+---
+
+### Shelendra Nonis Ranaweera joins Renuka Hotel’s Board
+
+*2024-08-02 06:09:44* · [`dailyftlk`](https://www.ft.lk/business/Shelendra-Nonis-Ranaweera-joins-Renuka-Hotel-s-Board/34-765046) · `en`
+
+Renuka Hotels PLC has announced the appointment of Shelendra Nonis Ranaweera as an Independent Non-Executive Director.
+
+Ranaweera is a Barrister-at-Law from the Honourable Society of Gray’s Inn, UK, and an Attorney-at-Law, Sri Lanka. She holds an LL.B. (Honours) from the University College London, UK.
+
+Having interned in the Chambers of the late Justice Mark Fernando P.C. Ranaweera apprenticed in the Chambers of President’s Counsel Dr. K Kanag-Isvaran.
+
+She has served on several Boards of the Mackwoods Group of Companies. Ranaweera began her legal career at the World Bank Project on Legal and Judicial Reforms, and thereafter she worked as an Associate, and was a Partner at the Law Firm Julius & Creasy, in the Corporate Law Department.
+
+...
+
+[Data](articles/cf9ef994.json)
+
+---
+
+### Expectations from 9th Executive President of Sri Lanka
+
+*2024-08-02 06:07:04* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-from-9th-Executive-President-of-Sri-Lanka/4-765045) · `en`
+
+Sri Lanka’s first election since an unprecedented economic crisis spurred widespread unrest will be held on 21 September. The election will be the first test of the public opinion since the height of the 2022 unprecedented economic downturn, which caused months of food, fuel and medicine shortages across the country. Economic issues are expected to dominate the five-week campaign as the country emerges from its worst-ever recession in 2022, when the GDP shrank by a record 7.8%. The Sri Lankan economic crisis is an ongoing crisis that started in 2019. A Lot more remains to be addressed.
+
+...
+
+[Data](articles/580f6172.json)
+
+---
+
+### Expats’ right to vote
+
+*2024-08-02 06:03:04* · [`dailyftlk`](https://www.ft.lk/columns/Expats-right-to-vote/4-765044) · `en`
+
+The expat voting rights issue in Sri Lanka has not gained the momentum it deserves
+
+The Gazette for Presidential Elections 2024 has been published and the political actors are busy in preparations for nominations, negotiations, making strategies for winning the election and campaigning. Businesses are looking for supporting their most favourable candidate. Political analysts are busy in listing their wish lists and few predicting who might win or lose. Journalists are having field days, getting busy promoting their perspectives of the prospective candidate(s). The public are getting ready for the mega entertainment without properly understanding impact/implications their vote may lead to the future of this nation. These are all necessities for reminding us that Sri Lanka is a democratic nation.
+
+...
+
+[Data](articles/88ec0eee.json)
+
+---
 
 ### Bridging borders: Strengthening India-Sri Lanka economic integration
 
@@ -203,6 +351,82 @@ The Indian Ministry of External Affairs has emphasised that the safety and secur
 ...
 
 [Data](articles/c360953c.json)
+
+---
+
+### Hemas Holdings delivers stable FY25 Q1 performance amidst market challenges
+
+*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/hemas-holdings-delivers-stable-fy25-q1-performance-amidst-market-challenges/) · `en`
+
+Hemas Holdings PLC announced its financial results for the first quarter ended June 30, 2024, demonstrating resilience in a challenging economic environment.The Group’s consolidated revenue was Rs. 25.5 billion alongside operating profits of Rs. 1.9 billion and earnings of Rs. 0.9 billion. The revenue decrease compared to the previous year was largely due to downward price adjustments and subdued consumer spending, exacerbated by extended holidays in the first two months of the quarter. Despite the revenue dip, the Group’s profitability margins benefited from efficiency improvement initiatives and reduced finance costs.
+
+The Consumer Brands sector reported revenue of Rs. 8.9 billion, with operating profits of Rs. 0.8 billion and earnings of Rs. 0.6 billion. Despite lower revenue, margins improved due to supply chain efficiencies and productivity initiatives.
+
+...
+
+[Data](articles/7b8c994c.json)
+
+---
+
+### ‘Agricultural mechanization essential for ensuring food security’
+
+*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/agricultural-mechanization-essential-for-ensuring-food-security/) · `en`
+
+Agricultural mechanization is very important for any country to progress and to ensure future food security besides maximizing benefits for local farmlands and improving the living standard of the people, Senior Vice President, Shaktiman International Business, Shawshank Watane said.
+
+“In India agri- mechanization is around 45 percent but in the USA it’s about 95 percent. Therefore in Sri Lanka it is not high and farm mechanization will assist farmers to enhance their quality of life, provide food and farmland security and help reduce high labour costs,” Watane told a media conference recently at Grandezza Hotel, Negombo. On the same day Shaktiman’s annual dealer convention was also held.
+
+...
+
+[Data](articles/7ffbd91c.json)
+
+---
+
+### Digital Innovation Fund powered by Dialog Axiata makes strategic investment in cybersecurity firm Scybers
+
+*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/digital-innovation-fund-powered-by-dialog-axiata-makes-strategic-investment-in-cybersecurity-firm-scybers/) · `en`
+
+Scybers Inc., the fast-growing global cybersecurity firm, announced that the Digital Innovation Fund, managed by BOV Capital and powered by Dialog Axiata PLC, has made a strategic investment in the company.
+
+Cybersecurity has become a critical concern for global enterprises amidst the post-pandemic digital acceleration, a surge in ransomware attacks, increasing regulatory demands, and a worldwide shortage of cybersecurity talent. The global cyber security market size is estimated at USD 268.13 billion in 2024 and is expected to reach around USD 878.48 billion by 2034, expanding at a Compound Annual Growth Rate (CAGR) of 12.6% over the forecast period 2024 to 2034.
+
+In this challenging landscape, Scybers enables enterprises to rapidly reduce cyber risks, achieve compliance and build resilience leveraging a proven global delivery model, deeply specialized front-line cybersecurity expertise, and a set of advanced AI-assisted security platforms.
+
+...
+
+[Data](articles/8358f82c.json)
+
+---
+
+### Vogue Jewellers, ‘TripAdvisor Traveller’s Choice 2024’
+
+*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/vogue-jewellers-tripadvisor-travellers-choice-2024/) · `en`
+
+Sri Lanka’s exclusive jeweller, Vogue Jewellers has become the winner of ‘TripAdvisor Traveller’s Choice 2024’ for the 5th consecutive year. Vogue Jewellers stands as an epitome of timeless elegance and unparalleled craftsmanship, renowned for its commitment to excellence in every facet of its creations. With a legacy spanning over generations, it has earned the esteemed status of being the most trusted name in pure 22 karat gold jewellery, Diamond jewellery and Coloured stone jewellery.
+
+As a household name in bridal jewellery, Vogue Jewellers sets the standard for sophistication and refinement. Each piece is meticulously crafted, embodying the essence of luxury and prestige. Synonymous with iconic designs, each creation captivates discerning clientele of all ethnicities with its unrivalled artistry and attention to detail.
+
+Share market on recovery track following disclosure of presidential poll survey results
+
+Nvidia sets record for biggest daily gain in value in stock market history
+
+...
+
+[Data](articles/abaeb220.json)
+
+---
+
+### Share market on recovery track following disclosure of presidential poll survey results
+
+*2024-08-02 02:56:00* · [`islandlk`](http://island.lk/share-market-on-recovery-track-following-disclosure-of-presidential-poll-survey-results/) · `en`
+
+The stock market yesterday bounced back after a prolonged decline due to macro- economic factors. However, it turned into a more market oriented stance with the surfacing of presidential election opinion survey results, market analysts said.
+
+Amid those developments both indices moved upwards. The All- Share Price Index went up by 33.14 points while the S and P SL20 rose by 20.25 points. Turnover stood at Rs 756 million with two crossings. Those crossings were reported in TJ Lanka, which crossed 1.2 million shares to the turnover of Rs 51.5 million; its shares traded at Rs 40.50 and Sampath Bank 500,000 shares crossed for Rs 37.75 million; its shares traded at Rs 75.50.
+
+...
+
+[Data](articles/1ec84d5a.json)
 
 ---
 
@@ -1923,341 +2147,5 @@ The fishing vessel was felicitated while raiding the navy while he was engaged i
 [Data](articles/e199ec9e.json)
 
 [Extended Data](ext_articles/e199ec9e.ext.json)
-
----
-
-### Hamas military chief killed in air strike, Israel says
-
-*2024-08-01 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100915/hamas-military-chief-killed-in-air-strike-israel-says) · `en`
-
-Israel’s military says it killed Hamas military chief Mohammed Deif in an air strike in Gaza on 13 July.
-
-Deif was targeted in an Israeli strike on a compound in the Khan Younis area.
-
-Israel says Deif was one of the figures responsible for the planning of the 7 October attacks in southern Israel in which 1,200 people were killed.
-
-Israel’s announcement comes after the assassination of Hamas political leader Ismael Haniyeh, who was killed in Tehran, and senior Hezbollah commander Fuad Shukr, who was killed in an Israeli air strike on the Lebanese capital, Beirut.
-
-Mohammed Deif was head of the Izzedine al-Qassam Brigades, the military arm of the Hamas movement.
-
-He was imprisoned by Israeli authorities in 1989, after which he formed the Brigades with the aim of capturing Israeli soldiers.
-
-Israel accused him of planning and supervising bus bombings which killed tens of Israelis in 1996, and of involvement in the capture and killing of three Israeli soldiers in the mid-1990s.
-
-...
-
-[Data](articles/45fcbebb.json)
-
-[Extended Data](ext_articles/45fcbebb.ext.json)
-
----
-
-### Do you know him?
-
-*2024-08-01 14:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவரை-உங்களுக்குத்-தெரியுமா/175-341410) · `ta`
-
-Katunayake police seek public help regarding Saman Kumara, a 62-year-old from Maduwa, Katunayake, who passed away in Negombo General Hospital's ICU. His caregiver's phone number is fake. Anyone with information should contact the Sri Lanka Police or Katunayake Police Station Commander at 0718591639 or 0112252222.
-
-🟩
-
-Katunayake police have asked the public about the deceased on the death of the intensive care unit at the Negombo General Hospital.
-
-Saman Kumara, a 62 -year -old man, who lives in Maduwa, Katunayake, was admitted to the Negombo General Hospital for medical treatment on July 11.
-
-Due to the deterioration of his health, he died on Thursday (25) after being transferred to the hospital.
-
-While no one has come forward to obtain his body to the Negombo General Hospital so far, the telephone number issued as a caregiver is now fake.
-
-If you find any information about him, the Katunayake Police are asking the Sri Lanka Police or the Katunayake Police Station Commander to contact the Commander of the Police 0718591639 or 0112252222.
-
-◼️
-
-[Data](articles/811494ca.json)
-
-[Extended Data](ext_articles/811494ca.ext.json)
-
----
-
-### Inflation to 2.4 percent in July
-
-*2024-08-01 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190002) · `ta`
-
-Inflation rose from 1.7% in June to 2.4% in July, according to the Colombo Consumer Price Index. The food index increased to 1.5%, while the non-food index decreased slightly. The overall CPI monthly change was 0.44%, driven by a 0.03% rise in food prices and a 0.47% drop in non-food prices. The core inflation remained stable at 0.44%. The Central Bank aims to manage this through appropriate policies, targeting moderate inflation in the medium term.
-
-🟩
-
-Inflation, which recorded to 1.7 per cent last June, rose to 2.4 per cent in June, according to the Colombo Consumer Price Estate.
-
-Accordingly, the 1.4 -year -old diet in June last year rose to 1.5 per cent in July and the foodgirls recorded to 1.8 per cent in June.
-
-In addition, the monthly change of the Colombo Consumer Price Code was recorded at 0.44 per cent in July. This was due to an increase of 0.03 per cent in food prices and a 0.47 per cent decline in food prices and fees.
-
-The central supply, reflecting the basic work of the economy, was unchanged to 0.44 percent last July.
-
-The Central Bank has announced that it will be supported by the appropriate policy mechanisms and firm inflation, and the inflation will reach the target of the future, and that in the middle of the medium period, the Central Bank expects.
-
-◼️
-
-[Data](articles/ee2d12a8.json)
-
-[Extended Data](ext_articles/ee2d12a8.ext.json)
-
----
-
-### Plantation workers strike to transfer plantation officer
-
-*2024-08-01 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189999) · `ta`
-
-Talawakelle plantation workers went on strike over alleged assault by an officer, claiming theft of tea supplies. The strike began after an employee was assaulted and continues until the officer is transferred.
-
-🟩
-
-The Talawakelle Troop plantation workers staged a workforce on Thursday (01), denouncing the plantation officer's abuse for allegedly assaulting a plantation officer.
-
-More than 400 workers from the Talawakelle Troop, Corinamora estates, Talawakelle, which are under the Maskeliya Plantation Company, have been strikeing the plantation officer.
-
-The plantation workers at the Talawakelle plantation officer said that the tea was brought to the Talawakelle Tea Factory and the tea was stolen when the tea was brought to the Talawakelle Tea Factory and the tea was stolen on Tuesday evening.
-
-Plantation workers say that the plantation workers have been on strike since Wednesday (31) and the strike will continue until the Talawakelle estate officer is transferred from the plantation.
-
-The plantation worker, who is allegedly attacked, has lodged a complaint at the Talawakelle Police Station and has been admitted to the Lindula Divisional Hospital that evening.
-
-...
-
-[Data](articles/d9678966.json)
-
-[Extended Data](ext_articles/d9678966.ext.json)
-
----
-
-### Mohammed and Malinga replaced with Matha and Dilshan
-
-*2024-08-01 13:58:24* · [`adalk`](https://www.ada.lk/sports/මතීෂ-සහ-ඩිල්ෂාන්-වෙනුවට-මොහොමඩ්-සහ-මාලිංග-කණ්ඩායමට/9-411143) · `si`
-
-India's cricket tour starts tomorrow, replacing Mohammed and Malinga with Matha and Dilshan. The tournament, initially featuring tourists, now includes players from Mohamed Siriras and Ishan Malinga after Dilshan's departure.
-
-🟩
-
-The One Day Cricket Tournament with the Tourist by India begins tomorrow (02).
-
-The competition was due to playing the competition and Dilshan has left the competition and replaced them with a location of Mohamed Siriras and Ishan Malinga.
-
-◼️
-
-[Data](articles/b3178c75.json)
-
-[Extended Data](ext_articles/b3178c75.ext.json)
-
----
-
-### Police officers who went to besieged a gamble
-
-*2024-08-01 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199447) · `si`
-
-Two police officers from the Uva Kudoya station were attacked while trying to raid a house. The assailants then took the suspect to the Thanamalwila hospital. No arrests have been made, and the Kudaoya Police Station is investigating.
-
-🟩
-
-According to information that a group of officers of the Uva Kudoya police station in the Uva Kudoya Police Station has maintained a house in Uva Kudoya.
-
-The two police officers have been assaulted by a group of police officers at the time.
-
-In addition, the suspect at the time was also rushed to the Thanamalwila Divisional Hospital.
-
-No one has been arrested in connection with the incident and the officials of the Kudaoya Police Station is conducting further investigations.
-
-◼️
-
-[Data](articles/67f7b28c.json)
-
-[Extended Data](ext_articles/67f7b28c.ext.json)
-
----
-
-### President's Fund Notification
-
-*2024-08-01 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-அதிரடி-அறிவிப்பு/175-341409) · `ta`
-
-The President's Fund scholarship for August 2024 was deposited today, direct to scholars' bank accounts. Recipients will receive an SMS notification once funds are transferred.
-
-🟩
-
-The scholarship allowance for the month of August 2024 has been deposited today (01) for qualified scholars in the scholarship program implemented under the Presidential Fund.
-
-The Presidential Media Unit has announced that the scholarships will be deposited directly to the bank accounts of the scholarship and that all the scholars recipients will be informed of the SMS (SMS) when scholarship payments are deposited in the banks.
-
-◼️
-
-[Data](articles/572da0f2.json)
-
-[Extended Data](ext_articles/572da0f2.ext.json)
-
----
-
-### A teacher contest in presidential election?
-
-*2024-08-01 13:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-ஆசிரியர்-ஒருவர்-போட்டி/175-341408) · `ta`
-
-In the upcoming 9th presidential election, a teacher from the National College of Education, Pathanam, plans to run as an independent candidate. Known for teaching across various schools nationwide, he aims to secure a school holiday during his campaign. His application for this has been approved, indicating his active preparations for the election.
-
-🟩
-
-Voting for the 9th presidential election with executive power will be held on September 21st. According to reports, a person from the teacher community will contest the election.
-
-He is attending the National College of Education, Pathanam and has taught many schools in the country. He said he would contest the presidential election independently. The report also suggests that he has made arrangements to pay control.
-
-If contesting the election, you have to get a holiday in school. According to reports, he has applied for it and obtained permission.
-
-◼️
-
-[Data](articles/b59020c3.json)
-
-[Extended Data](ext_articles/b59020c3.ext.json)
-
----
-
-### The government is a new decision on security insurance
-
-*2024-08-01 13:36:56* · [`adalk`](https://www.ada.lk/breaking_news/සුරක්ෂා-සිදු-රක්ෂණය-ගැන-රජයෙන්-අලුත්ම-තීරණයක්/11-411142) · `si`
-
-The government has introduced a new security insurance policy for students. Effective immediately, this coverage will be available to all school children for the next three years. The scheme includes government, government-approved private schools, Pirivenas, and financial schools.
-
-🟩
-
-Minister of Education Susil Premajayath said that school children will be given to school children for three years from today.
-
-The Minister said that the security student insurance is provided to all schools, government approved private schools, Pirivenas, and financial schools.
-
-◼️
-
-[Data](articles/5a59b95c.json)
-
-[Extended Data](ext_articles/5a59b95c.ext.json)
-
----
-
-### I am innocent - Diana Kamage notified
-
-*2024-08-01 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189991) · `ta`
-
-Diana Kamage, former State Minister, denies immigration law violations, claiming innocence. She responded to a charge of overstaying her visa and giving false information to immigration officials, as detailed in a CID indictment under the Immigration and Emigration Act. The Colombo Magistrate's Court will now hear the case.
-
-🟩
-
-Former State Minister Diana Kamage told the Colombo Magistrate's Magistrate that he was innocent on charges of violating immigration and immigration laws.
-
-Diana Kamage said this this morning (August 01) after reading the 07 indictment filed by the Criminal Investigation Department under the Immigration and Emigration Act.
-
-Accordingly, the Colombo Magistrate's Court has decided to take up the case.
-
-The indictment was filed against Diana Kamage on charges of staying in Sri Lanka in Sri Lanka with an outdated visa and providing fake information to immigration and immigration officials.
-
-◼️
-
-[Data](articles/38f80a1a.json)
-
-[Extended Data](ext_articles/38f80a1a.ext.json)
-
----
-
-### India officially protests death of fisherman in Sri Lankan waters
-
-*2024-08-01 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100913/india-officially-protests-death-of-fisherman-in-sri-lankan-waters) · `en`
-
-India on Thursday (01) lodged a strong protest with Sri Lanka over an alleged collision between a Sri Lankan naval vessel and an Indian fishing boat that killed a fisherman and left another missing.
-
-The India’s Ministry of External Affairs has called in Sri Lanka’s Acting High Commissioner to India Priyanga Wickremesinghe, on Thursday morning to register a protest over the incident, the Indian External Affairs Ministry said in a statement.
-
-The incident comes in the wake of a Sri Lankan Navy personnel being killed during an operation to seize an Indian fishing boat in July.
-
-The collision was reported early on Thursday morning between a Sri Lankan naval vessel and an Indian fishing boat at a location five nautical miles north of Katchatheevu island. “Out of the four Indian fishermen who were on board the vessel, one unfortunately lost his life, and another is missing,” the statement said.
-
-...
-
-[Data](articles/2ca76d7d.json)
-
-[Extended Data](ext_articles/2ca76d7d.ext.json)
-
----
-
-### Presidential election;Vote for the candidate for the Tamil people to accept the federal
-
-*2024-08-01 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189995) · `ta`
-
-In a press conference, Kandumani Lavakusarasa urged voters to support candidates advocating for a federal solution in Sri Lanka's presidential election. He emphasized the importance of addressing the national ethnic issue through a federal political approach, highlighting the need for a just and equitable political solution for Tamil-speaking communities. The North East Coordinating Committee initiated a 100-day campaign on August 1, 2022, calling for a comprehensive political solution to end communal repression and affirm the rights of Tamil people in the North East region. Lavakusarasa stressed the significance of unity among Tamil-speaking individuals to achieve self-determination and sovereignty through a federal system, criticizing past deceptive practices by Sinhalese political leaders.
-
-🟩
-
-Kandumani Lavakusarasa, Coordinator of the North and East Coordinating Committee, said that we should vote for the candidate who will make a federal demand in the presidential election.
-
-He was speaking at a media briefing organized by the North East Coordinating Committee in Jaffna today (01).
-
-We make an open request for candidates who are contesting the presidential election. In your election manifesto, we must come up with a federal political solution as a solution to the national ethnic problem of Sri Lanka.
-
-We launched a 100 -day activation on the first day of August 2022, demanding a standard, decent and right -handed political solution for the Tamil speaking people of Sri Lanka, and issued a public declaration for the eighth solution of Carnatic East.
-
-If we, the Tamil -speaking people of the North and East, are to live as citizens who have been recovering from the state communal repression that we face, we need a constant political solution.
-
-...
-
-[Data](articles/69b9147d.json)
-
-[Extended Data](ext_articles/69b9147d.ext.json)
-
----
-
-### We need to create an environment where the Tamil people can find a permanent political solution through negotiations - Chanakyan
-
-*2024-08-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189984) · `ta`
-
-R. Sanakiyan advocates for a conducive environment to facilitate negotiations towards a permanent political solution for Tamil people. He highlights the importance of selecting leaders untainted by corruption and emphasizes the need for a regime change to address the district's issues. The discussion also touches upon the political landscape, including the potential candidacies of Namal Rajapaksa and Ranil Wickremesinghe, and the Tamil community's stance on various political parties and candidates.
-
-🟩
-
-Batticaloa District Tamil National Alliance (TNA) parliamentarian R. Sanakiyan said that we should create an environment that can create opportunities for the Tamil people to get a permanent political solution through negotiations.
-
-He also said that there are a few people who have a Tamil general candidate and their party can become popular with their party.
-
-The Member of Parliament visited the renovated temples in the funded fund of MP Chanakyan.
-
-He visited the renovated temples in the Kalladi area of ​​Batticaloa and visited the reconstructed temples.
-
-In addition, the sports equipment purchased by Chanakyan's Published Fund was also provided to the universities in the area.
-
-A regime change is to take place very quickly. Whoever comes as president, the conditions in the district must change, ie, we must choose the people who can meet the needs of the people with the clean hands of the people who are now eliminating the corrupt scandals in the district.
-
-...
-
-[Data](articles/00e838af.json)
-
-[Extended Data](ext_articles/00e838af.ext.json)
-
----
-
-### Iran prepares to take revenge on Hamas leader's murder
-
-*2024-08-01 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199446) · `si`
-
-Iran's spiritual leader orders retaliation for the assassination of Hamas leader Ismail Hananaya, potentially escalating Middle East tensions. The US urges immediate action against the conflict, while Israel remains silent on foreign killings.
-
-🟩
-
-Iranian spiritual leader Ayatollah Al Qamani has ordered the killing of Hamyil Hanni's murder in Iran.
-
-The Iranian spiritual protection council was suddenly met with Ismail's murder.
-
-The spiritual leader is the opinion that justice is responsible for the assassination of Ismail Hananaya.
-
-The murder of its leader will lead the conflict in the Middle East, the Hamas.
-
-The United States emphasizes that he emphasizes that he is essential immediately for the war conflicts of the war.
-
-Israel has no response to the killing of his enemies in foreign countries, even though Israel has yet to respond to the allegations of their allegations.
-
-◼️
-
-[Data](articles/c4614606.json)
-
-[Extended Data](ext_articles/c4614606.ext.json)
 
 ---

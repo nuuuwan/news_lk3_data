@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 11:36:17**
+As of **2024-08-02 11:56:16**
 
 ## Newspaper Stats
 
-*Scraped **38,595** Articles*
+*Scraped **38,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
-economynextcom | 2,328
+economynextcom | 2,331
 dailyftlk | 2,483
 adalk | 3,543
 adaderanalk | 4,463
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,794
+tamilmirrorlk | 4,795
 virakesarilk | 6,103
 adaderanasinhalalk | 6,503
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,595 (100.0%) of 38,595 articles have been extended.
+38,599 (100.0%) of 38,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,46 @@ This strategic announcement will further strengthen the strong cultural and trad
 [Data](articles/c5a01996.json)
 
 [Extended Data](ext_articles/c5a01996.ext.json)
+
+---
+
+### Sri Lanka, IMF talks focused on ‘areas that need additional attention’: State minister
+
+*2024-08-02 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-talks-focused-on-areas-that-need-additional-attention-state-minister-174887/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe met with the International Monetary Fund Mission Chief Peter Breuer and his team on Thursday to discuss the progress of the ongoing economic program.
+
+“The discussion focused on identifying areas that need additional attention to ensure the successful completion of the 3rd review, which is crucial for the timely disbursement of the 4th tranche,” State Minister of Finance Shehan Semasinghe said.
+
+“Additionally, the meeting covered the progress of debt restructuring efforts,” Semasinghe said on X (twitter).
+
+◼️
+
+[Data](articles/18e27514.json)
+
+[Extended Data](ext_articles/18e27514.ext.json)
+
+---
+
+### Death
+
+*2024-08-02 11:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மயங்கி-விழுந்தவர்-மரணம்/71-341444) · `ta`
+
+In Jaffna, a man tragically passed away after his motorcycle accident on his way home from a birthday party. He was hospitalized but succumbed to his injuries on Thursday.
+
+🟩
+
+A motorcycle riding in Jaffna died suddenly after being treated at the hospital.
+
+After leaving a birthday party on the 27th, he was suddenly fed up on a motorbike while returning home.
+
+He died on Thursday (31) after he was admitted to the Jaffna Teaching Hospital for treatment.
+
+◼️
+
+[Data](articles/9d21de5e.json)
+
+[Extended Data](ext_articles/9d21de5e.ext.json)
 
 ---
 
@@ -177,6 +217,32 @@ He made this statement to the media after a meeting held at the party headquarte
 [Data](articles/706ec49f.json)
 
 [Extended Data](ext_articles/706ec49f.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 302.10/30 to US dollar
+
+*2024-08-02 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-10-30-to-us-dollar-174883/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened almost unchanged at 302.10/30 to the US dollar on Friday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.29 percent.
+
+In the secondary market, treasury bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.50/70 percent, up from 10.50/65 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.80.85 percent, down from 11.80/95 percent.
+
+A bond maturing on 15.02.2028 was quoted stable at 12.05/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.25/40 percent, down from 12.20/45 percent.
+
+In equities, Colombo’s All Share Price Index opened 32.66 points higher at 11,472, while the S&P SL20 of more liquid stocks opened up at 0.23 percent or 7.43 points to 3,289.
+
+◼️
+
+[Data](articles/9f2092a9.json)
+
+[Extended Data](ext_articles/9f2092a9.ext.json)
 
 ---
 
@@ -395,6 +461,26 @@ In other areas, there is a possibility that there is a bit of strong winds at sp
 [Data](articles/5bfb7d9f.json)
 
 [Extended Data](ext_articles/5bfb7d9f.ext.json)
+
+---
+
+### China vows to help Sri Lanka military to defend sovereignty, territorial integrity
+
+*2024-08-02 07:41:00* · [`economynextcom`](https://economynext.com/china-vows-to-help-sri-lanka-military-to-defend-sovereignty-territorial-integrity-174880/) · `en`
+
+ECONOMYNEXT – China will support the Sri Lankan military to safeguard its sovereignty and territorial integrity, its Colombo envoy said this week amid increasing geopolitical maneuvering in the island nation.
+
+Qi Zhenhong, the Chinese Ambassador to Sri Lanka also pledged Beijing’s continuous support to train the military.
+
+Ambassador Zhenhong’s comments at an event celebrating the founding of the country’s People’s Liberation Army come as India and the United States-led West have raised concerns over increasing Beijing’s influence in Sri Lanka.
+
+“The relationship between our two armed forces is time-tested,” Zhenhong told the gathering including Sri Lanka’s top military leaders and bureaucrats at Shangri La Hotel on Monday (29).
+
+...
+
+[Data](articles/5d394654.json)
+
+[Extended Data](ext_articles/5d394654.ext.json)
 
 ---
 
@@ -2107,95 +2193,5 @@ Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. 
 [Data](articles/c4a055f7.json)
 
 [Extended Data](ext_articles/c4a055f7.ext.json)
-
----
-
-### Sri Lanka’s DFCC Bank plans Rs2bn green bond issue
-
-*2024-08-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-plans-rs2bn-green-bond-issue-174856/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc said it is planning a senior, rated, 3-year green bond issue to raise 2 billion rupees, with a possible Greenshoe option to raise upto 2.5 billion rupees.
-
-Its Board of Directors at a meeting held on July 31 decided “to issue Senior, Listed, Rated, Unsecured, Redeemable Green Bonds with a term of 3 years to the value of Rupees Two Thousand Million (Rs.2,000,000,000/-),” the bank said in a stock exchange filing.
-
-“With a possible Greenshoe option to issue upto Rupees Two Thousand Five Hundred Million (Rs. 2,500,000,000/-) at the discretion of the Bank in the event of an over subscription.”
-
-The issue is subject to obtaining all necessary regulatory and other approvals.
-
-The interest rates will be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said. (Colombo/Aug1/2024)
-
-◼️
-
-[Data](articles/70fb2799.json)
-
-[Extended Data](ext_articles/70fb2799.ext.json)
-
----
-
-### Sri Lanka’s DFCC Bank plans Rs2bn green bond issue
-
-*2024-08-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-plc-proposes-green-bond-issue-174856/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc said it is planning a senior, rated, 3-year green bond issue to raise 2 billion rupees, with a possible Greenshoe option to raise upto 2.5 billion rupees.
-
-Its Board of Directors at a meeting held on July 31 decided “to issue Senior, Listed, Rated, Unsecured, Redeemable Green Bonds with a term of 3 years to the value of Rupees Two Thousand Million (Rs.2,000,000,000/-),” the bank said in a stock exchange filing.
-
-“With a possible Greenshoe option to issue upto Rupees Two Thousand Five Hundred Million (Rs. 2,500,000,000/-) at the discretion of the Bank in the event of an over subscription.”
-
-The issue is subject to obtaining all necessary regulatory and other approvals.
-
-The interest rates will be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time, the bank said. (Colombo/Aug1/2024)
-
-◼️
-
-[Data](articles/ad54cce6.json)
-
-[Extended Data](ext_articles/ad54cce6.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.20/30 to US dollar
-
-*2024-08-01 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-20-30-to-us-dollar-174852/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.20/30 to the US dollar on Thursday, from 302.40/50 to the US dollar on Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed stable at 10.50/65 percent.
-
-A bond maturing on 15.12.2027 closed at 11.80/95 percent, down from 11.85/12.05 percent.
-
-A bond maturing on 15.02.2028 closed at 12.05/15 percent, up from 12.00/15 percent.
-
-A bond maturing on 15.09.2029 closed at 12.20/45 percent, up from 12.20/40 percent. (Colombo/Aug1/2024)
-
-◼️
-
-[Data](articles/cd18da55.json)
-
-[Extended Data](ext_articles/cd18da55.ext.json)
-
----
-
-### Welimada Branch as 55th Extension of Membergandil Investments Family
-
-*2024-08-01 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190005) · `ta`
-
-Welimada now hosts the 55th branch of Mercantile Investments, marking its expansion. Led by COO Laxantha Gunawardena, the opening ceremony saw customer and dignitary attendance. Managed by Dhammika Pradeep, this branch aims to bolster Welimada's finance sector, offering various services like leasing, vehicle loans, deposits, gold loans, and savings accounts to aid individual and business financial goals.
-
-🟩
-
-Mercantile Investments. 40, Nuwara Eliya Road, Welimada. Chief Operating Officer Laxantha Gunawardena, Senior Management, Great Opening Ceremony attended by valuable customers and local dignitaries marked the latest expansion of the company's comprehensive network.
-
-The new branch, headed by Branch Manager Dhammika Pradeep, is ready to play an important role in Welimada's financial reinforcement.
-
-It provides a wide range of financial products designed to meet the needs of individuals and businesses.
-
-This includes leasing and vehicle loans, standard deposits, gold loans and savings accounts, all designed to help customers achieve financial goals.
-
-◼️
-
-[Data](articles/3320a579.json)
-
-[Extended Data](ext_articles/3320a579.ext.json)
 
 ---

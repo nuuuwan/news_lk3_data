@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 18:55:03**
+As of **2024-08-02 19:05:57**
 
 ## Newspaper Stats
 
-*Scraped **38,679** Articles*
+*Scraped **38,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,483
 adalk | 3,553
 adaderanalk | 4,478
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,806
+tamilmirrorlk | 4,807
 virakesarilk | 6,117
 adaderanasinhalalk | 6,519
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,668 (100.0%) of 38,679 articles have been extended.
+38,678 (100.0%) of 38,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### மோதல் வலயத்தில் சிக்கியுள்ள ஆயிரக்கணக்கான இலங்கையர்கள்
+
+*2024-08-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதல்-வலயத்தில்-சிக்கியுள்ள-ஆயிரக்கணக்கான-இலங்கையர்கள்/175-341474) · `ta`
+
+ஈரானில் ஹமாஸ் அமைப்பின் அரசியல் பிரிவின் தலைவர் இஸ்மாயில் ஹனியா படுகொலை செய்யப்பட்டதன் பின்னர் மத்திய கிழக்கு பிராந்தியத்தில் அதிகரித்து வரும் யுத்த சூழ்நிலை  குறித்து தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில் ஊடகவியாளர் சந்திப்பு நடைபெற்றது
+
+இங்கு கருத்து தெரிவித்த  தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார,
+
+தற்போது மத்திய கிழக்கில் ஏற்பட்டுள்ள பதற்றநிலை காரணமாக இலங்கை புலம்பெயர் தொழிலாளர்கள்  நாடு திரும்பும் கட்டாய நிலைக்குத் தள்ளப்படுவார்கள்.
+
+ஜனாதிபதியின் பணிப்புரையின் பிரகாரம் இஸ்ரேல், லெபனான், ஜோர்டான் மற்றும் எகிப்து ஆகிய நாடுகளில் உள்ள  இலங்கை தொழிலாளர்களை பாதுகாப்பாக நாட்டுக்கு அழைத்து வருவதற்காக 5 மில்லியன் டொலர்கள் ஒதுக்கப்பட்டுள்ளது.
+
+மத்திய கிழக்கில் நிலவும் யுத்த சூழ்நிலை காரணமாக நாட்டில்  எரிபொருள் மற்றும்  எரிவாயு  தட்டுப்பாட்டுப்   நிலை ஏற்படாமல் இருக்க, பொறுப்புள்ள அரசாங்கம் என்ற வகையில் தேவையான அனைத்து ஏற்பாடுகளையும் செய்து வருகிறோம் என அமைச்சர் சுட்டிக்காட்டினார்
+
+...
+
+[Data](articles/5a4bd7b4.json)
+
+---
 
 ### Sri Lanka’s controversial VFS Global visa deal suspended by top court
 
@@ -54,6 +74,8 @@ Three Sri Lanka legislators and other parties went to court against the deal. (C
 
 [Data](articles/d09ccb85.json)
 
+[Extended Data](ext_articles/d09ccb85.ext.json)
+
 ---
 
 ### Sri Lanka to start on ‘River to Jaffna’ water scheme: President
@@ -72,6 +94,8 @@ Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalinati
 
 [Data](articles/8e6bb4da.json)
 
+[Extended Data](ext_articles/8e6bb4da.ext.json)
+
 ---
 
 ### Sri Lanka’s top court suspends controversial VFS deal
@@ -87,6 +111,8 @@ The apex court suspended the decision of the cabinet to go ahead with the privat
 ...
 
 [Data](articles/e99390ca.json)
+
+[Extended Data](ext_articles/e99390ca.ext.json)
 
 ---
 
@@ -260,6 +286,8 @@ The International Monetary Fund concluded a mission to Sri Lanka. (Colombo/Aug02
 
 [Data](articles/5d3b6bb0.json)
 
+[Extended Data](ext_articles/5d3b6bb0.ext.json)
+
 ---
 
 ### Sri Lanka raises state pensions from September
@@ -277,6 +305,8 @@ Sri Lanka has a bloated state with unemployed graduates being given non-existent
 ◼️
 
 [Data](articles/cb9d2927.json)
+
+[Extended Data](ext_articles/cb9d2927.ext.json)
 
 ---
 
@@ -392,6 +422,8 @@ The diversified conglomerate’s National Long-Term Rating of at ‘AA+(lka)’ 
 
 [Data](articles/1e118690.json)
 
+[Extended Data](ext_articles/1e118690.ext.json)
+
 ---
 
 ### 35 lakh people in the country cannot continue to get clean drinking water
@@ -458,6 +490,8 @@ A bond maturing on 15.10.2030 closed at 12.70/85 percent. (Colombo/Aug2/2024)
 
 [Data](articles/3c9172de.json)
 
+[Extended Data](ext_articles/3c9172de.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, foreign buying interest in John Keells
@@ -479,6 +513,8 @@ Watawala Plantations Plc, which released interim results, showed a slump in prof
 ...
 
 [Data](articles/1ad85341.json)
+
+[Extended Data](ext_articles/1ad85341.ext.json)
 
 ---
 
@@ -1148,6 +1184,8 @@ IMF staff had assessed the ‘Joint Working Framework’ with on sovereign bonds
 
 [Data](articles/12195857.json)
 
+[Extended Data](ext_articles/12195857.ext.json)
+
 ---
 
 ### ADB funded desalination project opens in Sri Lanka’s north
@@ -1167,6 +1205,8 @@ The project has completed the construction of 20 elevated water tanks, 186 km of
 ...
 
 [Data](articles/47ef5d6a.json)
+
+[Extended Data](ext_articles/47ef5d6a.ext.json)
 
 ---
 
@@ -2239,27 +2279,5 @@ He points out that if the crisis is intensified, steps will be taken to expedite
 [Data](articles/94fa4dc2.json)
 
 [Extended Data](ext_articles/94fa4dc2.ext.json)
-
----
-
-### Online Safety (Amendment) Bill gazetted
-
-*2024-08-02 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100929/online-safety-amendment-bill-gazetted) · `en`
-
-The Online Safety (Amendment) Bill has been published via government gazette.
-
-The Online Safety Bill has been a subject of debate and contention, with several parties having raised concerns about potential limitations on freedom of expression, and other potential violations of the Constitution through its provisions.
-
-Accordingly, the Cabinet of Ministers had granted approval to publish the revised Online Safety Bill in the government gazette and to table it in Parliament on July 23.
-
-Before the bill was passed in the Parliament, the experts in the field expressed their concerns for amendments of certain sections in the bill, yet there was no possibility to include such amendment proposals in the bill at the committee stage.
-
-Therefore, approval of the Cabinet of Ministers was granted at their meeting held on February 12, 2024, to prepare a draft bill to amend the Security of Online Methods Act No. 9 of 2024 with the said amendments.
-
-...
-
-[Data](articles/ffe6aa12.json)
-
-[Extended Data](ext_articles/ffe6aa12.ext.json)
 
 ---

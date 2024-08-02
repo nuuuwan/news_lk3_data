@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 18:15:33**
+As of **2024-08-02 18:27:15**
 
 ## Newspaper Stats
 
-*Scraped **38,663** Articles*
+*Scraped **38,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,111 @@ adaderanalk | 4,477
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,806
 virakesarilk | 6,117
-adaderanasinhalalk | 6,516
+adaderanasinhalalk | 6,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,656 (100.0%) of 38,663 articles have been extended.
+38,663 (100.0%) of 38,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### උතුරේ ජල ගැටලුවට යාපනයට ගංගාවක්
+### ඉන්දියාවට ලකුණු 230ක ඉලක්කයක්
+
+*2024-08-02 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199496) · `si`
+
+ශ්‍රී ලංකාව හා ඉන්දියාව අතර තරග 03කින් යුත් එක්දින ක්‍රිකට් තරගාවලියේ අද (02) පැවැත්වෙන තරගය ජයග්‍රහණය කිරීම සඳහා ඉන්දීය කණ්ඩායමට ලකුණු 231ක ඉලක්කයක් හිමිව තිබේ.
+
+◼️
+
+[Data](articles/d7f39850.json)
+
+---
+
+### බැල්ලක් හා ඇගේ පැටවුවන් සිව්දෙනා ගිල දැමූ පිඹුරෙක්
+
+*2024-08-02 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199495) · `si`
+
+නිවසක සිටි සුනඛකයෙකු හා පැටවු සිව් දෙනෙකු පිඹුරෙකු විසින් ගිල දමා සිටියදී මාකඳුර ජනඋදාගම ගම්මානයේදී හමුව තිබේ.
+
+ඊයේ (01) පස්වරුවේදී නිවසේ මඩුවේ ගොදුරක් ගිලින ලද පිඹුරෙකු සිටින බවට නිවැසියන් දැක තිබේ.
+
+ඒ අනුව සිදුකළ සොයා බැලිමේදී බැල්ලක් විසින් එම නිවසේ මඩුවක පැටවු දමා සිට ඇති අතර එම බැල්ල හා ඇගේ මාසයක් වයසැති පැටවු සිව්දෙනා ⁣එම පිඹුරා ගිල දමා ඇති බවට නිවැසියන් විසින් සොයාගෙන ඇත.
+
+ඒ අනුව වැලිගම පැලැන ප්‍රදේශයේ සර්පයින් ඇල්ලිම කරනු ලබන තරුණයකු පැමිණ මෙම පිඹුරා ආරක්ෂිතව අල්ලා ගෙනගොස් ආරක්ෂිත ප්‍රදේශයකට මුදා හැරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/a4d3f6fa.json)
+
+---
+
+### e-වීසා සේවාවන් සැපයීම සමාගම්වලට පැවරීම වළක්වා ලබමින් අතුරු තහනම් නියෝගයක්
+
+*2024-08-02 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199494) · `si`
+
+විද්‍යුත් විසා සේවාවන් සැපයීමේ කටයුතු විදේශීය සමාගම් දෙකකට ලබාදීමට අමාත්‍ය මණ්ඩලය ගෙන තිබූ තීරණය ක්‍රියාත්මක කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+එමෙන්ම අදාළ සමාගම් සමග ඇතිකරගත් ගිවිසුම ක්‍රියාත්මක වීම වළක්වාලමින් අධිකරණය විසින් තවත් අතුරු තහනම් නියෝගයක් නිකුත් කර ඇත.
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ඒම්.ඒ.සුමන්තිරන්, රවුෆ් හකීම් සහ පාටලී චම්පික රණවක ඇතුළු පිරිසක් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/9e2c00ed.json)
+
+---
+
+### Shaw to Jaffna to the North's water problem
 
 *2024-08-02 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199493) · `si`
 
-දීර්ඝ කාලයක් පුරා පවතින උතුරේ ජල ගැටලුවට ස්ථීර විසඳුමක් ලබාදීම සඳහා "යාපනයට ගංගාවක්" ව්‍යාපෘතිය කඩිනමින් ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Wickremesinghe announced a $266 million project, funded by the Asian Development Bank, to address the water crisis in Jaffna and Kilinochchi districts. Aimed at providing clean drinking water to 300,000 people and improving sanitation for 80,000, the project involves building a desalination plant and is expected to complete by mid-2025.
 
-"යාපනය - කිලිනොච්චි" ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය විවෘත කිරීමේ අවස්ථාවට අද (02) පෙරවරුවේ එක් වෙමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+🟩
 
-යාපනය - කිලිනොච්චි ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය ආසියානු සංවර්ධන බැංකුවේ හා ශ්‍රී ලංකා රජයේ මූල්‍ය ප්‍රතිපාදන මත ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශයේ ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් ක්‍රියාත්මක කෙරේ.
+President Ranil Wickremesinghe said that the project will be launched to 'Jaffna a river' project to provide a permanent solution to the water problem in the North.
 
-මෙම ව්‍යාපෘතියේ ප්‍රධාන අරමුණ වනුයේ උතුරු පළාතේ යාපනය සහ කිලිනොච්චි දිස්ත්‍රික්කවල පුද්ගලයන් 300,000කට පිරිසිදු පානීය ජලය සැපයීම සහ 80,000ක ජනතාවක් සඳහා සනීපාරක්ෂක පහසුකම් වැඩිදියුණු කිරීමය.
+The President made this observation at the opening ceremony of the Thalaliy Water Supply Project of the Jaffna-Kilinochchi "Water Supply Project this morning.
+
+The Thalaliy Water Supply Project of the Jaffna-Kilinochchi Water Supply Project will be implemented by the National Water Supply and Drainage Board of the Ministry of Water Supply and Estate Infrastructure.
+
+The main objective of the project is to provide pure drinking water for 300,000 people in Jaffna and Kilinochchi Districts in the Northern Province and improvement of sanitary facilities for 80,000 people.
+
+The Asian Development Bank has reached a controversy in 2017 to build the factory to remove the salts in the sea water.
 
 ...
 
 [Data](articles/59f9163a.json)
 
+[Extended Data](ext_articles/59f9163a.ext.json)
+
 ---
 
-### அடுத்த 5 - 10 வருடங்களில் வடக்கை அபிவிருத்தியடைந்த மாகாணமாக மாற்றுவோம் - யாழில் ஜனாதிபதி
+### In the next 5 - 10 years we will transform the North into a developed province - President in Jaffna
 
 *2024-08-02 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190119) · `ta`
 
-வடக்கில் உள்நாட்டு யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு 15 வருடங்கள் நிறைவடைந்துள்ளன. இவ்வாறானதொரு சூழ்நிலையில் தற்போது நாமனைவரும் ஒன்றிணைந்து அபிவிருத்திப் போரை ஆரம்பிப்போம். எதிர்வரும் 5 - 10 வருடங்களில் வடக்கை அபிவிருத்தியடைந்த மாகாணமாக மாற்றியமைப்பதே எமது நோக்கமாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe aims to transform the North of Sri Lanka into a developed province within 5-10 years, focusing on water supply and infrastructure development. The initiative includes launching a water supply project in Jaffna, improving health facilities, and promoting modern agriculture. Economic growth is anticipated through projects like the 'Jaffna River' and the development of the Kankesanthurai port, with support from international partners including China, Japan, and India.
 
-யாழ்ப்பாணம் - கிளிநொச்சி நீர் வழங்கல் திட்டத்தின் தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் நேற்று முற்பகல் கலந்துகொண்டு உரையாற்றுகையிலேயே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-யாழ்ப்பாணத்தில் நீர் வழங்கல் திட்டம் விரைவில் ஆரம்பிக்கப்படும் என தெரிவித்த ஜனாதிபதி, யாழ்ப்பாணம், கிளிநொச்சி நீர் வழங்கல் திட்டம் மற்றும் 'யாழ்.நதி' மூலம் வடக்கின் குடிநீர் தேவைக்கு முழுமையாகத் தீர்வுகாணமுடியும் என நம்பிக்கை வெளியிட்டார்.
+15 years have passed since the end of the civil war in the north. In such a situation, we will come together and start the development war. President Ranil Wickremesinghe said that our aim is to transform the North into a developed province in the next 5 to 10 years.
+
+The President said this while addressing the inauguration of the Sea Water Planting Center yesterday morning at the Jaffna -Kilinochchi Water Supply Scheme.
+
+The President said that the water supply project would be launched soon in Jaffna and expressed confidence that the Jaffna, Kilinochchi Water Supply Scheme and 'Jaffna Nadi' will be able to address the drinking water needs of the North.
+
+According to the Jaffna -Kilinochchi Water Supply Scheme, the National Water Supply and Drainage Board, Water Supply and Estate Infrastructure Development, Asian Development Bank and the Government of Sri Lanka are managed by the Government of Sri Lanka.
 
 ...
 
 [Data](articles/3fc9488c.json)
+
+[Extended Data](ext_articles/3fc9488c.ext.json)
 
 ---
 
@@ -178,23 +240,29 @@ The Thero was reportedly receiving treatment at a private hospital in Colombo at
 
 ---
 
-### நாட்டில் சுத்தமான குடிநீரை தொடர்ச்சியாக பெற முடியாத நிலையில் 35 இலட்சம் பேர் !
+### 35 lakh people in the country cannot continue to get clean drinking water
 
 *2024-08-02 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190112) · `ta`
 
-நாட்டின் சனத்தொகையில் சுத்தமான குடிநீரை தொடர்ச்சியாக பெற முடியாத நிலையில் சுமார் 67 சதவீதமானவர்கள் உள்ளதாக பேராதனை பல்கலைக்கழகத்தின் பொருளாதாரம் மற்றும் புள்ளிவிபரவியல் பேராசிரியர் பி.பி.ஏ. வசந்த அத்துகோரல தெரிவித்துள்ளார்.
+A survey covering 3,210 locations across 25 districts found that 35 lakh people lack access to clean drinking water in Sri Lanka. Conducted by the Department of Census and Statistics, Water Supply and Estate Infrastructure Development, and UNICEF, it highlighted the urgent need for improved water purification systems in both urban and rural areas.
 
-நாட்டின் 25 மாவட்டங்களிலுள்ள நகர்ப்புற, கிராமப்புற மற்றும் பெருந்தோட்டப் பகுதிகளை உள்ளடக்கிய 3,210 வீட்டுத் தொகுதிகளின் மாதிரிகளைப் பயன்படுத்தி இந்த கணக்கெடுப்பு நடத்தப்பட்டுள்ளது.
+🟩
 
-அதன்படி, குடிநீரின் தரம் குறித்து  மக்கள்தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம், நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சு மற்றும் யுனிசெப் ஆகியன இணைந்து இந்த ஆய்வை மேற்கொண்டன.
+Professor PBA of the University of Peradeniya, PBA, has about 67 percent of the country's population in the country.. Wasantha Attukorala said.
 
-அதனடிப்படையில், சுமார் 35 இலட்சம் பேர் சுத்தமான குடிநீரை தொடர்ச்சியாக பெற முடியாத நிலையில் உள்ளமை தெரியவந்துள்ளது.
+The survey has been conducted using 3,210 housing models, including urban, rural and plantation areas in 25 districts of the country.
 
-எனவே, நீர் சுத்திகரிப்பு விநியோகம் மற்றும்  நீர் சுத்திகரிப்பு முறைகளை மேம்படுத்துவதற்கான வசதிகள் நகர்ப்புற மற்றும் கிராமப்புறங்களிலுள்ள மக்களின் தேவையாகவுள்ளதாக   பேராசிரியர் தெரிவித்துள்ளார்.
+Accordingly, the study was conducted by the Department of Census and Statistics, Water Supply and Estate Infrastructure Development and UNICEF on the quality of drinking water.
+
+Accordingly, about 35 lakh people are unable to continue to get clean drinking water.
+
+Therefore, facilities to improve water purification and water purification systems are the need for people in urban and rural areas, the professor said.
 
 ◼️
 
 [Data](articles/1645d5fe.json)
+
+[Extended Data](ext_articles/1645d5fe.ext.json)
 
 ---
 
@@ -216,27 +284,33 @@ The trade unfolded despite relations between Washington and Moscow being at thei
 
 ---
 
-### கொழும்பை வந்தடைந்தது இந்திய கடற்படையின் நீர்மூழ்கி கப்பல்
+### Indian Navy's submarine arrived in Colombo
 
 *2024-08-02 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190107) · `ta`
 
-இந்திய கடற்படைக்கு சொந்தமான நீர்மூழ்கிக் கப்பல் ஐஎன்எஸ் ஷல்கி (INS Shalki) உத்தியோகபூர்வ விஜயமாக கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளது.
+The Indian Navy's INS SHALKI, a diesel-electric submarine, arrived in Colombo for an official visit, marking its first international voyage since its commissioning in 1992. The visit includes interactions with 50 local personnel and visits to tourist sites. The Indian High Commission and Sri Lankan security forces are also participating. The submarine, part of the Shishumar Division, is set to leave Colombo on August 4th.
 
-இன்று வெள்ளிக்கிழமை (02) வருகை தந்த நீர்மூழ்கிக் கப்பலுக்கு கடற்படையினர் கடற்படை மரபுகளுக்கு ஏற்ப வரவேற்பளித்தனர்.
+🟩
 
-இந்த நீர்மூழ்கிக் கப்பலை 50  பேர் நேரில் சென்று பார்வையிடவுள்ளதோடு, கப்பல் குறித்து விளக்கமளிக்கப்படவுள்ளது.
+The Indian Navy -owned submarine INS SHALKI has arrived at the Port of Colombo as an official visit.
 
-இந்திய உயர்ஸ்தானிகராலயம் மற்றும் இலங்கை பாதுகாப்புப் படைகளின் பணியாளர்களும் கப்பலை பார்வையிட வருகை தரவுள்ளனர்.
+The Navy was welcomed to the submarine on Friday (02).
 
-ஐஎன்எஸ் ஷல்கி என்பது இந்தியக் கடற்படையின் ஷிஷுமர் பிரிவு டீசல்-மின்சார நீர்மூழ்கிக் கப்பல் ஆகும். இதுவே இந்தியாவில் தயாரிக்கப்பட்ட முதல் நீர்மூழ்கிக் கப்பல் ஆகும். இது 07 பெப்ரவரி 1992 ஆம்  ஆண்டு இந்திய கடற்படையில் இணைக்கப்பட்டது.
+The submarine will visit 50 people and will be explained by the ship.
 
-மேலும், நீர்மூழ்கிக் கப்பலின் பணியாளர்கள் நாட்டில் உள்ள சில சுற்றுலாத் தலங்களுக்கு விஜயம் செய்வார்கள் என்று எதிர்பார்க்கப்படுகிறது.
+The Indian High Commission and the Sri Lankan security forces are also visiting the ship.
 
-இதேவேளை, உத்தியோகபூர்வ பயணத்தை முடித்துக்கொண்டு, குறித்த கப்பலானது ஆகஸ்ட் 04 ஆம் திகதி கொழும்பில் இருந்து புறப்படவுள்ளது.
+INS SHALLI is the Indian Navy's Shishumar Division Diesel-Minor Submarine. This is the first submarine made in India. It was incorporated into the Indian Navy on 07 February 1992.
+
+In addition, the staff of the submarine is expected to visit some tourist destinations in the country.
+
+Meanwhile, the ship will depart from Colombo on August 4 after completing an official trip.
 
 ◼️
 
 [Data](articles/72fbaf72.json)
+
+[Extended Data](ext_articles/72fbaf72.ext.json)
 
 ---
 
@@ -354,27 +428,33 @@ The petitions, submitted by five parties including the Centre for Environmental 
 
 ---
 
-### ரஸ்யாவினால் விடுதலை செய்யப்பட்ட பத்திரிகையாளர் உட்பட மூவர் அமெரிக்கா சென்றடைந்தனர் - விமானதளத்தில் காத்திருந்த பைடன், கமலா ஹரிஸ்
+### Three people, including a journalist released by Russia, arrived in the United States - Kamala Haris
 
 *2024-08-02 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190104) · `ta`
 
-அமெரிக்க ரஸ்ய கைதிகள் பரிமாற்றத்தின் போது விடுதலையான அமெரிக்கர்கள் தங்கள் குடும்பங்களுடன் இணைந்துள்ளனர்.
+In a significant prisoner exchange, three Americans, including journalist Chris Wlodarczyk, returned home from Russian custody, while eight Russians were freed. This swap marks the largest since the Cold War and occurred mid-air over Turkey. The Americans' arrival at a Maryland base was met with joy, ending what President Biden called "cruel" times for them. Notably, Russia sought the release of Vadim Krasikov, serving life in Germany for attempted murder.
 
-வோல்ஸ்ரீட் பத்திரிகையாளர் கேர்ஸ்க்கோவிச் உட்பட 3 அமெரிக்கர்கள் ரஸ்ய சிறைச்சாலைகளில் இருந்து விடுதலை செய்யப்பட்டனர் இதற்கு பதிலாக  8 ரஸ்யர்களை அமெரிக்கா விடுதலை செய்துள்ளது.
+🟩
 
-பனிப்போர் காலத்தின் பின்னர் இரு நாடுகளிற்கும் இடையில் இடம்பெற்ற மிகப்பெரிய கைதிகள் பரிமாற்றம் இதுவென்பது குறிப்பிடத்தக்கது.
+Americans who have been liberated during the exchange of American Russian prisoners have joined their families.
 
-துருக்கியின் விமானதளமொன்றில் கைதிகள் பரிமாற்றம் இடம்பெற்றது. விடுதலை செய்யப்பட்ட அமெரிக்கர்களுடன் விமானம் மேரிலாண்டில் உள்ள கூட்டு தளத்தில் இறங்கியவேளை அங்கிருந்தவர்கள் மகிழ்ச்சி கோசம் எழுப்பினர்.
+Three Americans, including Wolsreed journalist Carskovich, were released from Russian prisons, instead of eight Russians.
 
-முன்னதாக அங்கு உரையாற்றிய அமெரிக்க ஜனாதிபதி மூவரினதும் கொடுமையான காலங்கள் முடிவிற்கு வந்துவிட்டன என தெரிவித்துள்ளார்.
+It is noteworthy that this is the transfer of the biggest prisoners between the two countries after the Cold War.
 
-பேர்லின் பார்க்கில் கொலை முயற்சிக்காக ஜேர்மனியில் ஆயுள்தண்டனை அனுபவித்துவரும் வடிம் ரசிகோ என்பவரை விடுதலை செய்யவேண்டும் என ரஸ்யா  வலியுறுத்திவந்தமை குறிப்பிடத்தக்கது.
+The exchange of prisoners took place at a flight of Turkey. When the aircraft landed with the released Americans at the joint base in Maryland, the people were happy.
 
-ஏழு நாடுகளை சேர்ந்த 24 பேர் விடுதலை செய்யப்பட்டனர் என துருக்கி தெரிவித்துள்ளது.
+Speaking earlier, the US president said that the cruel times of the three were over.
+
+It is noteworthy that Russia has urged the release of Vadim Fan, who is experiencing life imprisonment in Germany for a murder attempt at Berlin Park.
+
+Turkey said 24 people from seven countries were released.
 
 ◼️
 
 [Data](articles/241556f7.json)
+
+[Extended Data](ext_articles/241556f7.ext.json)
 
 ---
 
@@ -428,19 +508,25 @@ A delegation of the Ceylon Chamber of Commerce including the Vice Chairperson, K
 
 ---
 
-### இலங்கை வர்த்தக சம்மேளனம் - அநுர குமார திசாநாயக்க சந்திப்பு
+### Sri Lanka Business Federation - Anura Kumara Dissanayake Meeting
 
 *2024-08-02 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190100) · `ta`
 
-மக்கள் விடுதலை முன்னணி பிரதான அலுவலகத்தில் நேற்று வியாழக்கிழமை (01) பிற்பகல் இலங்கை வர்த்தக சம்மேளனத்தின் தலைவர் துமிந்த ஹுலங்கமுவ உள்ளிட்ட பிரதிநிதிகளுக்கும் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்கவுக்கும் இடையில் சந்திப்பொன்று நடைபெற்றது.
+A meeting took place at the JVP headquarters involving the Sri Lanka Chamber of Commerce's President, the National People's Power Leader, and several members of the Sri Lanka Business Federation. They discussed the "Vision 2030 - Five Year Economic Project," which was presented to Anura Kumara Dissanayake.
 
-இலங்கை வர்த்தக சம்மேளனத்தினால் உருவாக்கப்பட்டுள்ள “Vision 2030 - ஐந்து வருட பொருளாதார திட்டம்” வெளியீட்டுப் பிரதியும் இதன்போது அநுரவிடம் கையளிக்கப்பட்டது.
+🟩
 
-இந்தச் சந்திப்பில் இலங்கை வர்த்தக சம்மேளனத்தின் உப தலைவர் கிறிஷான் பாலேந்திர, பிரதி உப தலைவர் பிங்குமால் தெவரதந்திரி மற்றும் பணிப்பாளர் சபை பிரதிநிதிகளான அமல் கப்ரால், சரத் கனேகொட, சுபுன் வீரசிங்க, வினோத் ஹய்ட்ராமணீ உள்ளிட்ட முக்கியஸ்தவர்களும் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர்களான பேராசிரியர் அனில் ஜயந்த மற்றும் பேராசிரியர் ஹர்ஷன சூரியப்பெரும ஆகிய தோழர்களும் கலந்துகொண்டிருந்தனர்.
+A meeting was held on Thursday afternoon at the main office of the Janatha Vimukthi Peramuna (JVP), including the President of the Sri Lanka Chamber of Commerce Duminda Hulangamuwa and the National People's Power Leader Anura Kumara Dissanayake.
+
+The "Vision 2030 - Five Year Economic Project" launched by the Sri Lanka Business Federation was also handed over to the Anura.
+
+The meeting was attended by Vice President of the Sri Lanka Business Federation, Krishan Balendra, Deputy Chairman Bingumal Thevarasinghe and Director of Directors Amal Kabral, Sarath Kanegoda, Subun Weerasinghe, Vinod Hytramani and Prof. Anil Jayantha and Professor Harshana.
 
 ◼️
 
 [Data](articles/38186720.json)
+
+[Extended Data](ext_articles/38186720.ext.json)
 
 ---
 
@@ -490,21 +576,29 @@ More than 300 protesters were arrested and curfews imposed in the northern state
 
 ---
 
-### நாட்டில் டெங்கு காய்ச்சலால் இதுவரை 14 பேர் உயிரிழப்பு
+### 14 people die from dengue fever in the country
 
 *2024-08-02 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190102) · `ta`
 
-நாட்டில் இதுவரை டெங்கு காய்ச்சலால் உயிரிழந்தவர்களின் எண்ணிக்கை 14 ஆக உயர்வடைந்துள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+Dengue cases surge nationwide, with 14 deaths reported. This year, over 32,000 cases have been identified, including 4,506 last month alone. The Health Ministry warns of a potential increase in infections, especially in Colombo, Gampaha, Kandy, Ratnapura, and Kalutara districts. It advises cleaning environments to combat mosquito breeding.
 
-இவ் ஆண்டின் இதுவரையான காலப்பகுதியில் நாடளாவிய ரீதியில் 32 ஆயிரத்து 866  டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளனர்.  கடந்த மாதம் சுமார் 4,506  டெங்கு நோயாளர்கள் பதிவாகியுள்ளதோடு, நேற்று வியாழக்கிழமை முதலாம் திகதி மாத்திரம் 121 பேர் இனங்காணப்பட்டுள்ளனர்.  அனைத்து மாவட்டங்களிலும் பதிவாகக்கூடிய  டெங்கு நோயாளர்களின் வீதம் சடுதியாக அதிகரித்துச் செல்வதைக் காணக்கூடியதாக உள்ளது.
+🟩
 
-டெங்கு பரவலைக் கருத்திற் கொண்டு 22 சுகாதார மருத்துவ அதிகாரப் பிரிவுகள் (MOH) அதி உயர் டெங்கு அபாயம் மிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளன. அத்தோடு டெங்கு காய்ச்சலால் நேற்று முன்தினம் மேலும் ஒரு உயிரிழப்பு பதிவாகியுள்ளதுடன், உயிரிழந்தவர்களின் எண்ணிக்கையும் 14 ஆக உயர்வடைந்துள்ளது.
+The National Dengue Control Unit said the number of dengue fever in the country has risen to 14.
 
-எதிர்வரும் தினங்களில் பதிவாகக்கூடிய  டெங்கு நோயாளர்களின் வீதம் மேலும் அதிகரிக்கக் கூடிய சாத்தியப்பாடுகள் காணப்படுகின்றன.
+During this year, 32 thousand 866 dengue patients have been identified across the country.About 4,506 dengue patients were reported last month and 121 people were identified on Thursday only on Thursday.The rate of dengue patients who can be recorded in all districts can be seen as a muddy rise.
+
+Considering the spread of dengue, 22 Health Medical Authority (MOH) has been identified as high dengue hazards. In addition, a further death of dengue fever has been reported yesterday and the number of casualties has risen to 14.
+
+There will be feasures that will increase the rate of dengue patients who can be recorded in the coming days.
+
+The number of dengue patients recorded in the districts of Colombo, Gampaha, Kandy, Ratnapura and Kalutara is likely to increase.
 
 ...
 
 [Data](articles/a623f8f5.json)
+
+[Extended Data](ext_articles/a623f8f5.ext.json)
 
 ---
 
@@ -2157,55 +2251,5 @@ R.B. Thambiayah, Deputy Chairman N. A. Thambiayah, Jt. Managing Director S.R. Th
 [Data](articles/b6c79ce5.json)
 
 [Extended Data](ext_articles/b6c79ce5.ext.json)
-
----
-
-### Shelendra Nonis Ranaweera joins Renuka Hotel’s Board
-
-*2024-08-02 06:09:44* · [`dailyftlk`](https://www.ft.lk/business/Shelendra-Nonis-Ranaweera-joins-Renuka-Hotel-s-Board/34-765046) · `en`
-
-Renuka Hotels PLC has announced the appointment of Shelendra Nonis Ranaweera as an Independent Non-Executive Director.
-
-Ranaweera is a Barrister-at-Law from the Honourable Society of Gray’s Inn, UK, and an Attorney-at-Law, Sri Lanka. She holds an LL.B. (Honours) from the University College London, UK.
-
-Having interned in the Chambers of the late Justice Mark Fernando P.C. Ranaweera apprenticed in the Chambers of President’s Counsel Dr. K Kanag-Isvaran.
-
-She has served on several Boards of the Mackwoods Group of Companies. Ranaweera began her legal career at the World Bank Project on Legal and Judicial Reforms, and thereafter she worked as an Associate, and was a Partner at the Law Firm Julius & Creasy, in the Corporate Law Department.
-
-...
-
-[Data](articles/cf9ef994.json)
-
-[Extended Data](ext_articles/cf9ef994.ext.json)
-
----
-
-### Expectations from 9th Executive President of Sri Lanka
-
-*2024-08-02 06:07:04* · [`dailyftlk`](https://www.ft.lk/columns/Expectations-from-9th-Executive-President-of-Sri-Lanka/4-765045) · `en`
-
-Sri Lanka’s first election since an unprecedented economic crisis spurred widespread unrest will be held on 21 September. The election will be the first test of the public opinion since the height of the 2022 unprecedented economic downturn, which caused months of food, fuel and medicine shortages across the country. Economic issues are expected to dominate the five-week campaign as the country emerges from its worst-ever recession in 2022, when the GDP shrank by a record 7.8%. The Sri Lankan economic crisis is an ongoing crisis that started in 2019. A Lot more remains to be addressed.
-
-...
-
-[Data](articles/580f6172.json)
-
-[Extended Data](ext_articles/580f6172.ext.json)
-
----
-
-### Expats’ right to vote
-
-*2024-08-02 06:03:04* · [`dailyftlk`](https://www.ft.lk/columns/Expats-right-to-vote/4-765044) · `en`
-
-The expat voting rights issue in Sri Lanka has not gained the momentum it deserves
-
-The Gazette for Presidential Elections 2024 has been published and the political actors are busy in preparations for nominations, negotiations, making strategies for winning the election and campaigning. Businesses are looking for supporting their most favourable candidate. Political analysts are busy in listing their wish lists and few predicting who might win or lose. Journalists are having field days, getting busy promoting their perspectives of the prospective candidate(s). The public are getting ready for the mega entertainment without properly understanding impact/implications their vote may lead to the future of this nation. These are all necessities for reminding us that Sri Lanka is a democratic nation.
-
-...
-
-[Data](articles/88ec0eee.json)
-
-[Extended Data](ext_articles/88ec0eee.ext.json)
 
 ---

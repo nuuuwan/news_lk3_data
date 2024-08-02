@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 22:35:57**
+As of **2024-08-02 22:54:09**
 
 ## Newspaper Stats
 
-*Scraped **38,695** Articles*
+*Scraped **38,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 2,216
 economynextcom | 2,345
 dailyftlk | 2,483
 adalk | 3,554
-adaderanalk | 4,481
+adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,809
-virakesarilk | 6,122
-adaderanasinhalalk | 6,523
+virakesarilk | 6,123
+adaderanasinhalalk | 6,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,695 (100.0%) of 38,695 articles have been extended.
+38,695 (100.0%) of 38,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### SLTPB wins ‘Best International Tourism Board’ at Global Tourism Awards
+
+*2024-08-02 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100957/sltpb-wins-best-international-tourism-board-at-global-tourism-awards) · `en`
+
+The Sri Lanka Tourism Promotion Bureau (SLTPB) has won the “Best International Tourism Board” accolade at the Global Tourism Awards 2024, organized by the Travel World Online (TWO).
+
+The Global Tourism Awards 2024 was held on 2nd of August 2024 in New Delhi, India..
+
+The Global Tourism Awards serve as a platform to honour and celebrate organizations that have made outstanding contributions to the tourism industry, shaping its landscape and driving positive change.
+
+◼️
+
+[Data](articles/ad9383e6.json)
+
+---
+
+### ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයට ජාත්‍යන්තර සම්මානයක්
+
+*2024-08-02 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199502) · `si`
+
+ට්‍රැවල් වර්ල්ඩ් ඔන්ලයින් (TWO) විසින් සංවිධානය කරන ලද 2024 ගෝලීය සංචාරක සම්මාන උළෙලේදී ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය (SLTPB) "හොඳම ජාත්‍යන්තර සංචාරක මණ්ඩලය" සම්මානයෙන් පිදුම් ලබයි.
+
+◼️
+
+[Data](articles/64060464.json)
+
+---
+
+### ඔලිම්පික් උලෙළ සංවේදී කළ මොහොතක්
+
+*2024-08-02 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199501) · `si`
+
+පැරිස් ඔලිම්පික් උලෙළේ කාන්තා බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටය යටතේ ඉතාලියේ ඇන්ජලා කරීනි සහ ඇල්ජීරියාවේ ඉමාන් කලීෆ් අතර පැවති තරගයට බොහෝ දෙනෙක්ගේ අවධානය යොමුව තිබුණි.
+
+ඒ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙස හැඳින්වෙන ඇල්ජීරියාවේ ඉමාන් කලීෆ් මෙම ඉසව්වට සහභාගි වීම හේතුවෙනි.
+
+ඉමාන් කලීෆ් සමඟ ඇන්ජලා කරීනි අතර එම තරගය පැවැත්වුණේ තත්ත්පර 46ක් වැනි කෙටි කාලයක් පමණයි.
+
+ඇන්ජලා කරීනි තරගය පැවති තත්පර 46 තුළ ඉමාන් කලීෆ්ගේ දැඩි ප්‍රහාරයට ලක්විය.
+
+"මගේ බොක්සිං දිවිය තුළ මම කවදාවත් ඒ වගේ පහරවල්වලට මුහුණ දීලා නෑ. මේ සිදුවීම ඔලිම්පික් විනිසුරු මඩුල්ලට භාරයි."
+
+ඉමාන් කලීෆ් කාන්තාවක් ලෙස උපත ලැබුවත් ජාන පිහිටීමේ ස්වභාවය සහ රුධිරයේ ටෙස්ටෙස්ටරෝන් ප්‍රතිශතය ඉහළ මට්ටමක පැවතීම හේතුවෙන් ඇයව හැඳින්වූයේ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙසය.
+
+ඇය 2021 ටෝකියෝ ඔලිම්පික් උලෙළේදී කාන්තා බොක්සිං ඉසව්වෙන් තරගවැදි අතර ඇයට එහිදී පරාජයට පත්වීමට සිදුවිය.
+
+...
+
+[Data](articles/d036189e.json)
+
+---
+
+### இலங்கை - இந்திய அணிகளுக்கு இடையிலான முதலாவது ஒருநாள் போட்டி சமநிலையில் முடிவடைந்தது
+
+*2024-08-02 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190133) · `ta`
+
+இலங்கை - இந்திய அணிகளுக்கு இடையில் கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் வெள்ளிக்கிழமை (02) கடைசிவரை மிகவும் பரபரப்பை ஏற்படுத்திய முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி சமநிலையில் முடிவடைந்தது. இரண்டு அணிகளுக்கும் இடையில் சமநிலையில் முடிவடைந்த இரண்டாவது சந்தர்ப்பம் இதுவாகும்.
+
+இலங்கையினால் நிர்ணயிக்கப்பட்ட 131 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 47.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்ததால் ஆட்டம் சமநிலையில் முடிவடைந்தது.
+
+இதற்கு முன்னர் இந்த இரண்டு அணிகளுக்கும் இடையில் அடிலெய்டில் 2012 பெப்ரவரியில் நடைபெற்ற முத்தரப்பு சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி சமநிலையில் முடிவடைந்திருந்தது.
+
+இந்தப் போட்டியில் இலங்கை முதலில் துடுப்பெடுத்தாடத் தீர்மானித்து 50 ஓவர்களில் 8 விக்டெக்ளை இழந்து 230 ஓட்டங்களைப் பெற்றது.
+
+துடுப்பாட்ட வீரர்களுக்கு சிரமத்தைக் கொடுத்த ஆடுகளத்தில் இந்திய பந்துவீச்சாளர்களை எதிர்கொள்வதில் தடுமாற்றம் அடைந்த இலங்கை, அரைவாசிக்கும் மேற்பட்ட ஓவர்கள் வீப்பட்ட நிலையில் 5 விக்கெட்களை இழந்து 101 ஓட்டங்களை மாத்திரம் பெற்றிருந்தது.
+
+...
+
+[Data](articles/2c0d7593.json)
+
+---
 
 ### Signs are consequencing
 
@@ -2195,107 +2267,5 @@ He also affirmed that the President has appointed two committees to monitor this
 [Data](articles/4add5f9d.json)
 
 [Extended Data](ext_articles/4add5f9d.ext.json)
-
----
-
-### Asian Zuroryo on a tour of Ireland
-
-*2024-08-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199479) · `si`
-
-The Sri Lanka women's cricket team is set to tour Ireland for the first time, featuring in three ODIs and a T20I series. This follows a history of five international competitions between the two nations since 2007. Notably, Sri Lanka has triumphed in all three Twenty20 encounters from 2009 to 2022. The upcoming T20Is will take place in Dublin and Belfast on the 11th and 13th, followed by the ODI series on the 16th and 20th in Belfast. Despite being fifth in the ICC Women's Championship with a win-loss record of 13-8, Sri Lanka faces a challenge against Ireland, currently last in the standings with a loss rate of 10 out of 12 matches.
-
-🟩
-
-Sri Lanka women's cricket team is due to tour the tourist team in Ireland on three ODIs and a two-year-old cricket tournament.
-
-This is the first time a Sri Lankan women's cricket team to visit Ireland.
-
-Sri Lanka and Ireland have been held between 5 international competitions (2007 - 2023).
-
-During the two countries (2009 - 2022), three Twenty20 matches have been held, and Sri Lanka has won all of them.
-
-The Twenty20 tournament will be held between the two countries, which will be held at Dublin and Belfast on the 11th and 13th of this month.
-
-The ODI will then commence and the match will be held on 16th and 20th of this month. All the matches are scheduled to be held at Belfast.
-
-The ODI series 2022-2025 with the participation of 10 teams participating. There is also the Women's Championship.
-
-This I.CC. Sri Lanka is 5th in the bonus mark on the women's cricket championship.
-
-They have played 21 matches to the 21 matches and eight matches have been defeated.
-
-...
-
-[Data](articles/5879fd51.json)
-
-[Extended Data](ext_articles/5879fd51.ext.json)
-
----
-
-### State Minister's Private Secretary and political activist arrested
-
-*2024-08-02 10:42:19* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-අමාත්‍යවරයෙකුගේ-පුද්ගලික-ලේකම්-සහ-දේශපාලන-ක්‍රියාකාරිකයකු-අල්ලස්-දැලේ/11-411161) · `si`
-
-A state minister's secretary and a political activist were arrested for bribery, along with a businessman accused of fraudulently selling land near Kaviyaya Wewa. Investigations continue.
-
-🟩
-
-A private secretary of a state minister and a political activist have been arrested in connection with a bribe of Rs.
-
-Businessman in Polonnaruwa area has been arrested and the two suspects have been arrested following a complaint.
-
-The Kaviyaya Wewa, which is located in the Mahaweli B Zone, is removed and the fraudulent for sale in the Genesis and Mines' Pvt.The businessman, a politician in the noble area, was arrested in front of a state of Batticaloa and the State Minister in Batticaloa.
-
-The two suspects are to be produced before courts. The Commission investigating the Bribery or Corruption Allegations are conducting further investigations.
-
-◼️
-
-[Data](articles/06dbd038.json)
-
-[Extended Data](ext_articles/06dbd038.ext.json)
-
----
-
-### Gazette of Public and Bank Holidays for 2025
-
-*2024-08-02 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190064) · `ta`
-
-The Gazette Notification for public and bank holidays in 2025 has been approved by Prime Minister Dinesh Gunawardena, serving as the Minister of Public Administration and Home Affairs.
-
-🟩
-
-The Gazette Notification has been approved by Prime Minister Dinesh Gunawardena as the Minister of Public Administration and Home Affairs.
-
-◼️
-
-[Data](articles/47ce13ac.json)
-
-[Extended Data](ext_articles/47ce13ac.ext.json)
-
----
-
-### Tourism income increased to $ 1.5 billion in the first quarter
-
-*2024-08-02 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190058) · `ta`
-
-In Q1, tourism revenue surged to $1.5 billion, doubling from the same period last year. Foreign worker remittances reached $3.14 billion in H1 2024. The Central Bank of Sri Lanka reported a rise in the country's foreign reserves to $5.7 billion in June, alongside an increase in the value of the Sri Lankan rupee until June 2024.
-
-🟩
-
-Tourism revenues rose to US $ 1.5 billion in the first quarter of this year, the Central Bank said.
-
-The Central Bank of Sri Lanka has pointed out that income has doubled compared to the first quarter of last year.
-
-Meanwhile, in the first six months of 2024, foreign workers have been recorded by US $ 3.14 billion.
-
-The Central Bank of Sri Lanka said that the country's official foreign reserves rose to $ 5.7 billion in June.
-
-The Central Bank further stated that the value of the Sri Lankan rupee has increased until June 2024.
-
-◼️
-
-[Data](articles/606a25f8.json)
-
-[Extended Data](ext_articles/606a25f8.ext.json)
 
 ---

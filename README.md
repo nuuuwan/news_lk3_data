@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 21:05:47**
+As of **2024-08-02 21:20:42**
 
 ## Newspaper Stats
 
-*Scraped **38,690** Articles*
+*Scraped **38,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,216
 economynextcom | 2,345
 dailyftlk | 2,483
 adalk | 3,554
-adaderanalk | 4,479
+adaderanalk | 4,480
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,808
+tamilmirrorlk | 4,809
 virakesarilk | 6,122
 adaderanasinhalalk | 6,521
 
@@ -26,21 +26,61 @@ adaderanasinhalalk | 6,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,689 (100.0%) of 38,690 articles have been extended.
+38,690 (100.0%) of 38,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### மன்னார் காற்றாலை மின்னுற்பத்தி நிலைய நிர்மாணம் : 5 அடிப்படை உரிமை மனுக்கள் மீதான பரிசீலனை ஒக்டோபரில்
+### ‘River for Jaffna’ project to fully address water problem in north – President
+
+*2024-08-02 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100955/river-for-jaffna-project-to-fully-address-water-problem-in-north-president) · `en`
+
+President Ranil Wickremesinghe declared the immediate initiation of the “River for Jaffna” project, which is designed to provide a comprehensive solution to the water scarcity issues in the northern region of Sri Lanka.
+
+The President made these remarks while attending the opening of the Thalaiyady Seawater Desalination Plant, part of the Jaffna-Kilinochchi Water Supply Project, this morning (02).
+
+President Ranil Wickremesinghe further stated that it has been 15 years since the end of the civil war in the north. He emphasized the need for everyone to continue working together on development and expressed his goal to transform the north into a developed province within the next 5-10 years.
+
+...
+
+[Data](articles/14ae6e96.json)
+
+---
+
+### ஜனாதிபதிக்கும் அங்கஜனுக்கும் இடையில் சந்திப்பு
+
+*2024-08-02 20:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதிக்கும்-அங்கஜனுக்கும்-இடையில்-சந்திப்பு/71-341476) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும், பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனுக்குமிடையிலான விசேட சந்திப்பு இன்று (02) இடம்பெற்றது.
+
+பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனின் யாழ். மாவட்ட அலுவலகத்தில் இடம்பெற்ற இக்கூட்டத்தில், யாழ். மாவட்ட மக்களின் நீண்டகால கோரிக்கைகள் தொடர்பாகவும் மாவட்டத்தின் அபிவிருத்தி தொடர்பாகவும் பல கோரிக்கைகளை அங்கஜன் இராநாதன் ஜனாதிபதியிடம் முன்வைத்திருந்தார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலுக்கான தேர்தல் விஞ்ஞாபனத்தில் வடக்கு மாகாணம் குறிப்பாக யாழ்ப்பாணம், கிளிநொச்சி மாவட்டங்களை மையப்படுத்திய முன்மொழிவுகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க அவர்கள் உள்ளடக்கும் போது எமது மக்கள் அவருக்கான ஆதரவை வழங்குவார்கள்.
+
+அரசியல் தீர்வு, காணாமல் ஆக்கப்பட்டவர்களுக்கான நீதி, முன்னாள் போராளிகளுக்கான மேம்பாட்டுத் திட்டங்கள், வடக்கின் துரித பொருளாதார மேம்பாடு, காணி விடுவிப்பு, மீள்குடியேற்றம், அத்தியாவசிய தேவைகள் உள்ளிட்ட கோரிக்கைகள் எங்கள் மக்களின் நீண்டகால கனவுகளாக உள்ளன.
+
+...
+
+[Data](articles/2f9603af.json)
+
+---
+
+### Mannar Wind Electricity Station Construction: 5 Basic Rights Petition
 
 *2024-08-02 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190132) · `ta`
 
-மன்னார் காற்றாலை மின்னுற்பத்தி நிலையத்தின் நிர்மாணிப்பணிகளை அதானி நிறுவனத்திற்கு வழங்குவதற்கு எடுக்கப்பட்ட அமைச்சரவை தீர்மானத்தை வலுவிழக்கச் செய்யுமாறு கோரி தாக்கல் செய்யப்பட்ட 5 அடிப்படை உரிமை மனுக்களை எதிர்வரும் ஒக்டோபர் 14 ஆம் திகதி பரிசீலனைக்கு எடுத்துக் கொள்ள உயர் நீதிமன்றம் வெள்ளிக்கிழமை (2) உத்தரவு பிறப்பித்துள்ளது.
+The Supreme Court ordered a review of five fundamental rights petitions against a Cabinet decision granting Adani Company the contract for constructing the Mannar Wind Electricity Center.
+
+🟩
+
+The Supreme Court on Friday (2) has issued a directive to review the five fundamental rights petitions filed on October 14 seeking to weaken the Cabinet resolution taken to provide the construction of the Mannar Wind Electricity Center to the Adani Company.
 
 ◼️
 
 [Data](articles/174a3037.json)
+
+[Extended Data](ext_articles/174a3037.ext.json)
 
 ---
 
@@ -2253,53 +2293,5 @@ In equities, Colombo’s All Share Price Index opened 32.66 points higher at 11,
 [Data](articles/9f2092a9.json)
 
 [Extended Data](ext_articles/9f2092a9.ext.json)
-
----
-
-### Visit Modi's visit to Sri Lanka
-
-*2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-இலங்கைக்கான-விஜயம்-இரத்து/175-341442) · `ta`
-
-Indian PM Narendra Modi's visit to Sri Lanka is canceled due to Sri Lanka's political instability. A fisherman's boat crash led to tensions, with India summoning Sri Lanka's High Commissioner in Delhi over diplomatic issues.
-
-🟩
-
-Indian media reports that Indian Prime Minister Narendra Modi's official visit to Sri Lanka has been canceled.
-
-The decision has been taken due to the prevailing political situation in Sri Lanka.
-
-A Sri Lankan fisherman's boat crashed yesterday when a boat was killed when a boat was killed.
-
-Following this, the Sri Lankan High Commissioner in Delhi was summoned by the Indian Foreign Ministry and objected to diplomatic opposition.
-
-◼️
-
-[Data](articles/d14c8cf2.json)
-
-[Extended Data](ext_articles/d14c8cf2.ext.json)
-
----
-
-### Narendra Modi's visit to Sri Lanka
-
-*2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடியின்-இலங்கைக்கான-விஜயம்/175-341442) · `ta`
-
-Indian PM Narendra Modi's visit to Sri Lanka is canceled due to Sri Lanka's political instability. A recent incident involving a Sri Lankan fisherman's boat crashing into a naval vessel led to diplomatic tension, prompting India to summon its High Commissioner in Delhi.
-
-🟩
-
-Indian media reports that Indian Prime Minister Narendra Modi's official visit to Sri Lanka has been canceled.
-
-The decision has been taken due to the prevailing political situation in Sri Lanka.
-
-A Sri Lankan fisherman's boat crashed yesterday after a boat crashed into a sea of ​​Sri Lankan navy.
-
-Following this, the Sri Lankan High Commissioner in Delhi was summoned by the Indian Foreign Ministry and objected to diplomatic opposition.
-
-◼️
-
-[Data](articles/d898262f.json)
-
-[Extended Data](ext_articles/d898262f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 03:20:41**
+As of **2024-08-03 03:36:10**
 
 ## Newspaper Stats
 
-*Scraped **38,722** Articles*
+*Scraped **38,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,98 +19,170 @@ adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,811
-virakesarilk | 6,131
+virakesarilk | 6,133
 adaderanasinhalalk | 6,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,715 (100.0%) of 38,722 articles have been extended.
+38,722 (100.0%) of 38,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### வெற்றிக்கான மென் திறன்கள் பயிற்சி கருத்தரங்கு
+### யாழில் நல்லை ஆதீன முதல்வரை ஜனாதிபதி சந்தித்து ஆசிபெற்றார்
+
+*2024-08-03 03:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190142) · `ta`
+
+யாழ்ப்பாணத்திற்கு வருகை தந்த, ஜனாதிபதி ரணில் விக்கிரமசிங்க, நல்லை ஆதீன முதல்வர் ஸ்ரீலஸ்ரீ சோமசுந்தர தேசிக ஞானசம்பந்த பரமாச்சாரிய சுவாமிகளை சந்தித்து ஆசிபெற்றுக்கொண்டார்.
+
+இந்நிகழ்வில் சமயப் பெரியார்கள், அரச உயரதிகாரிகள், இந்து சமய கலாசார அலுவல்கள் திணைக்கள உத்தியோகத்தர்கள் உள்ளிட்ட பலரும் கலந்துகொண்டனர்.
+
+இதேவேளை  யாழ். மறைமாவட்ட ஆயர் பேரருட்தந்தை யஸ்ரின் ஞானப்பிரகாசம் ஆண்டகையை ஜனாதிபதி ரணில் விக்கிரமசிங்க சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இச்சந்திப்பின்போது இலங்கையின் தற்போதைய அரசியல் நிலை, இராணவ கட்டுப்பாட்டிலுள்ள வசாவிளான் பிரதேச விடுவிப்பு, இன்டிகோ விமான சேவையை ஆரம்பித்தல், இலங்கை இந்தியாவிற்கான கப்பல் சேவையை ஆரம்பித்தல் போன்ற பல விடயங்கள் கலந்துரையாடப்பட்டன.
+
+இச்சந்திப்பில் வட மாகாண ஆளுநர் பி.எஸ்.எம்.சாள்ஸ், முன்னாள் பாரளுமன்ற உறுப்பினர் விஜயகலா மகேஸ்வரன், முன்னாள் அமைச்சர் ரவி கருணாநாயக்க ஆகியோர் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/6f6a22e0.json)
+
+---
+
+### திருகோணமலையில் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழு சமஷ்டியை வலியுறுத்தி துண்டுப்பிரசுரம்
+
+*2024-08-03 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190143) · `ta`
+
+வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவின் வடக்கு கிழக்கு மக்களுக்கு கௌரவமான  அரசியல் தீர்வு வேண்டும் எனும் கோரிக்கையை முன்வைத்து மேற்கொள்ளப்பட்ட 100 நாள் செயல்முனைவின் இரண்டாவது வருட பூர்த்தியை முன்னிட்டு வடக்கு கிழக்கு பிரதேசம் எங்கும் சமஷ்டியை வலியுறுத்திய துண்டுப்பிரசுர பிரச்சார நடவடிக்கைகள் இடம்பெற்று வருகின்றது.
+
+அந்தவகையில் திருகோணமலை சிவன்கோவில் பகுதி மற்றும் லிங்கநகர் சந்தி ஆகிய பகுதிகளில் வெள்ளிக்கிழமை (02) மாலை துண்டுப்பிரசுரம் வழங்கி வைக்கப்பட்டிருந்தது.
+
+குறித்த பிரச்சார நடவடிக்கையானது தெடர்ச்சியாக 90 நாட்களுக்கு வடக்கு கிழக்கு பிரதேசங்கள் எங்கும் நடைபெறவுள்ளதாகவும், எதிர்வரும் ஜனாதிபதி தேர்தலில் களமிறங்கும் வேட்பாளர்கள் தங்கள் தேர்தல் விஞ்ஞாபனத்தில் சமஷ்டி தீர்வு தொடர்பான விடயங்களை முன்வைப்பார்களாக இருந்தால் அவர்கள் சார்ந்து தமிழ் மக்கள் வாக்களிக்கக்கூடிய வாய்ப்புகள் இருப்பதாகவும் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழுவின் ஒருங்கிணைப்பாளர் திரு. கண்டுமணி லவாகுசராசா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b3ac5a01.json)
+
+---
+
+### Men Skills Training Seminar for Success
 
 *2024-08-03 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190141) · `ta`
 
-விவேகா பயிற்சி நிலையத்தின் நிர்வாகிகள்ளான கே.டி.குருசுவாமி, பழ.புஷ்பநாதன், S. U. சத்தியமூர்த்தி,  துரை.ராஜரட்ணம் ஆகியோரின் ஏற்பாட்டில் முனைவர் துரைராஜா பிரசாந்தனின் 'வெற்றிக்கான மென் திறன்கள் பயிற்சி கருத்தரங்கு' மத்திய கொழும்பு இந்து வித்தியாலயத்தில் மாணவர் தலைவர்களுக்காக நடத்தப்பட்டது.
+A seminar titled "Men's Skills Training" was held at Central Colombo Hindu Vidyalaya, organized by Sathiyamoorthy and Durai Rajaratnam, with KD Guruswamy as the administrator. The event featured U. Dr. Durairaja Prashanthan as the speaker, chaired by Principal Padmaranjan, and included guests from the Base Children's Education Development Organization and CEO M. Senthilnathan.
 
-கல்லூரி அதிபர் பத்மரஞ்சன் தலைமையில் நடைபெற்ற இந்நிகழ்வில் பிரதம அதிதிகளாக பேஸ் சிறுவர் கல்வி மேம்பாட்டு அமைப்பின் மலையக தலைவர் கே. விஜேந்திரன் மற்றும் வீரகேசரி பத்திரிகையின் பிரதம நிறைவேற்று அதிகாரி எம்.செந்தில்நாதன் ஆகியோர் கலந்துகொண்டனர்.
+🟩
+
+KD Guruswamy, Administrator of Viveka Training Center. U. Dr. Durairaja Prashanthan's 'Men's Skills Training Seminar' was organized by Sathiyamoorthy and Durai Rajaratnam for students at the Central Colombo Hindu Vidyalaya.
+
+The event was chaired by College Principal Padmaranjan and the chief guests of the Base Children's Education Development Organization. Wijendran and Veerakesari Chief Executive Officer M. Senthilnathan were also present.
 
 ◼️
 
 [Data](articles/5c51f7f9.json)
 
+[Extended Data](ext_articles/5c51f7f9.ext.json)
+
 ---
 
-### 2025 முதல் இளைஞர்களுக்குத் தொழில் வழங்கும் வேலைத்திட்டம் ஆரம்பம் - யாழ் இளைஞர்களுடனான சந்திப்பில் ஜனாதிபதி உறுதி
+### The President confirms the meeting with the youth of Jaffna
 
 *2024-08-03 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190140) · `ta`
 
-இளைஞர்களுக்கு தொழில் வழங்கும் வேலைத்திட்டம் அடுத்த வருடம் முதல் ஆரம்பிக்கப்படும் எனவும், அதற்காக அரச மற்றும் தனியார் துறைகளில் புதிய தொழில் வாய்ப்புகளை உருவாக்குவதே தமது பிரதான நோக்கம் எனவும் யாழில் இளைஞர்களுடனான சந்திப்பின்போது ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+In a meeting with Jaffna's youth, President Ranil Wickremesinghe announced plans to launch a program next year aimed at creating job opportunities in both public and private sectors. He highlighted the need for new employment initiatives post-COVID-19, noting the country's recovery from financial difficulties. The government has already allocated funds for hiring teachers and introduced a loan scheme for self-employment. Additionally, the President pledged support for youth involvement in agricultural modernization.
 
-யாழ்ப்பாணத்து விஜயமொன்றை மேற்கொண்டிருக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்க, நேற்று வெள்ளிக்கிழமை யாழ், வலம்புரி ஹோட்டலில் 'செழிப்பான எதிர்காலத்துக்கான பயணம்' என்ற தொனிப்பொருளில் நடைபெற்ற இளைஞர்களுடனான சந்திப்பின்போதே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+🟩
 
-கொவிட் - 19 பெருந்தொற்றுப்பரவல் மற்றும் பொருளாதார நெருக்கடி போன்றவற்றால் கடந்த 4 வருடங்களாக இலங்கையின் இளைஞர்களுக்கு தொழில் வாய்ப்பை வழங்க முடியவில்லை. இருப்பினும் தற்போது நாடு வங்குரோத்து நிலையில் இருந்து விடுபட்டிருப்பதால் அதற்கான சந்தர்ப்பம் கிடைத்துள்ளது. அதனால் புதிய தொழில் வாய்ப்புகளை உருவாக்கும் திட்டங்களை நடைமுறைப்படுத்தி நாட்டை முன்னேற்றவேண்டும்.
+During a meeting with youth in Jaffna, President Ranil Wickremesinghe said that the program for the youth will be launched from next year and is to create new employment opportunities in the public and private sector.
+
+President Ranil Wickremesinghe, who is on a visit to Jaffna, said this during a meeting with the youth at the Valamburi Hotel in Jaffna on Friday. There he added:
+
+Kovit - 19 Sri Lankan youths have not been able to provide employment opportunities for the past 4 years due. However, the country is currently free from bankruptcy. Therefore, the country needs to be implemented by implementing new employment opportunities.
+
+The government has allocated funds this year to fill teacher vacancies despite financial issues. More funds have been provided next year to incorporate new people to the Teacher Service.
 
 ...
 
 [Data](articles/b2114612.json)
 
+[Extended Data](ext_articles/b2114612.ext.json)
+
 ---
 
-### வவுனியா மன்னார்வீதியில் விபத்து: 3 இளைஞர்கள் படுகாயம்!
+### Vavuniya Mannar Vidyalaya accident
 
 *2024-08-03 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190139) · `ta`
 
-வவுனியா மன்னார்வீதி பட்டானிச்சூர் பகுதியில் இடம்பெற்ற விபத்தில் மூன்று இளைஞர்கள் படுகாயமைடந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a tragic accident in Vavuniya, two motorcycles crashed head-on in Pattanichur, injuring three youths who were hospitalized. This incident highlights the growing vulnerability in areas like Mannarvidi Vepankulam, Pattanichur, and Vairavapuliyankulam due to increased motorcycle usage.
 
-குறித்த விபத்து வெள்ளிக்கிழமை (2) மாலை இடம்பெற்றது. விபத்து தொடர்பாக மேலும் தெரியவருகையில்….
+🟩
 
-பட்டானிச்சூர் பகுதியில் எதிர்திசையில் வந்துகொண்டிருந்த இரண்டு மோட்டார்சைக்கிள்கள் கட்டுப்பாட்டை இழந்து நேருக்குநேர் மோதியதில் குறித்த விபத்து இடம்பெற்றது.
+Three youths have been admitted to the Vavuniya Hospital after being injured in an accident in the Pattanichur area of ​​Vavuniya.
 
-விபத்தில் இரண்டு மோட்டார்சைக்கிள்களும் கடுமையான சேதமடைந்ததுடன் அதில் பயணித்த மூன்று இளைஞர்களும் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+The accident took place on Friday (2) evening. When it is revealed more about the accident….
 
-இதேவேளை வவுனியா நகரப்பகுதியில் மன்னார்வீதி வேப்பங்குளம்,பட்டாணிச்சூர்,வைரவபுளியங்குளம் ஆகிய பகுதிகளில் இளைஞர்கள் மிகவேகமாக ஆபத்தான முறையில் அதிக சத்தத்துடன் மோட்டார்சைக்கிள்களை ஓட்டிச்செல்லும் செயற்பாடுகள் அதிகரித்து வருகின்றது.இதனால் அடிக்கடி விபத்துக்கள் ஏற்படுவதுடன், ஏனைய பயணிகளும் அசௌகரியங்களுக்கு உள்ளாகின்றனர்.
+Two motorcycles in the opposite direction in Pattanichur area lost control and collided head -on.
+
+Both motorcycles were severely damaged and three youths were admitted to the Vavuniya Hospital after being injured.
+
+Meanwhile, in the Vavuniya city area, Mannarvidi Vepankulam, Pattanichur and Vairavapuliyankulam are increasingly increasingly vulnerable to motorcycles.
 
 ◼️
 
 [Data](articles/02117f16.json)
 
+[Extended Data](ext_articles/02117f16.ext.json)
+
 ---
 
-### வடக்கின் குடிநீர் விநியோகம் 4 இலிருந்து 40 சதவீதமாக உயர்வடையும் - ஜீவன் தொண்டமான் நம்பிக்கை
+### The supply of drinking water in the North will rise from 4 to 40 per cent - Jeevan Thondaman hope
 
 *2024-08-03 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190138) · `ta`
 
-ஜனாதிபதி நாட்டைப் பொறுப்பேற்றபோது வடக்கில் குடிநீர் விநியோகம் 4 சதவீதமாகக் காணப்பட்டது. அது இக்குடிநீர் திட்டத்தின் மூலம் வெள்ளிக்கிழமை (03) முதல் இது 40 சதவீதமாக உயர்வடையும் என நீர் வழங்கல் மற்றும் வடிகாலமைப்பு அமைச்சர் ஜீவன் தொண்டமான் நம்பிக்கை வெளியிட்டார்.
+Water supply in the North is expected to increase from 4% to 40%, as announced by Minister Jeevan Thondaman. This boost comes from a water project aimed at ensuring clean drinking water for all, despite initial challenges due to high costs. Villagers' willingness to donate land for the project is crucial. Minister Douglas Devananda also highlighted the importance of this initiative in meeting the community's needs and supporting development efforts.
 
-யாழ்ப்பாணம் - கிளிநொச்சி நீர் வழங்கல் திட்டத்தின் தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் நேற்று முற்பகல் கலந்துகொண்டு உரையாற்றுகையிலேயே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+🟩
 
-குடிநீர் அடிப்படை உரிமையாகும். அதை மக்களுக்கு வழங்க அரசாங்கம் நடவடிக்கை எடுத்து வருகிறது. இந்தத் திட்டம் ஆரம்பிக்கப்பட்டபோது, செலவு அதிகமாக இருந்ததால் சிக்கல் ஏற்பட்டது. ஆனால் மக்களின் குடிநீர் தேவையை உறுதிப்படுத்த இந்த சவாலை ஏற்றுக்கொண்டோம்.
+Drinking water in the North was 4 percent when the president took over. Water Supply and Drainage Minister Jeevan Thondaman expressed confidence that it will increase by 40 per cent from Friday (03) through this water project.
 
-ஜனாதிபதி நாட்டைப் பொறுப்பேற்றபோது வடக்கில் குடிநீர் விநியோகம் 4 சதவீதமாகக் காணப்பட்டது. இன்று முதல் இது 40 சதவீதமாக உயர்வடையும். இந்த திட்டத்துக்கு பல கிராமங்கள் காணிகளை கொடுக்க விரும்பவில்லை. இருப்பினும் இந்த காணியை வழங்கிய தாளையடி கிராம மக்களுக்கு நன்றி என்றார்.
+He said this while addressing the opening of the Sea Water Supply Center yesterday morning at the Jaffna -Kilinochchi Water Supply Project.. There he added:
+
+Drinking water is the basic right. The government is taking steps to give it to the people. When the project was launched, there was a problem because the cost was high. But we accepted this challenge to ensure the drinking water needs of the people.
+
+Drinking water in the North was 4 percent when the president took over. It will rise to 40 percent from today. Many villages do not want to give land for this project. However, thanks to the villagers who provided the land.
+
+Meanwhile, Minister of Fisheries and Aquatic Resources Douglas Devananda said,
 
 ...
 
 [Data](articles/645744d0.json)
 
+[Extended Data](ext_articles/645744d0.ext.json)
+
 ---
 
-### போலி கடவுச்சீட்டுகள் மூலம் புலம்பெயர் இலங்கையர்களின் வாக்குகளை சூறையாடத் திட்டமா? - தேர்தல் ஆணையாளர் நாயகம் மறுப்பு
+### Plan to plunder the votes of diaspora Sri Lankans through fake passports?- Elections Commissioner's Denial
 
 *2024-08-03 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190137) · `ta`
 
-ஜனாதிபதித்தேர்தல் திகதி அறிவிக்கப்பட்டுள்ள நிலையில் வெளிநாடுகளில் வாழும் இலங்கையர்களின் கடவுச்சீட்டுக்களைப் போலியாக அச்சடித்து, அவர்களின் வாக்குகளை சூறையாடும் மோசடித்திட்டமொன்று முன்னெடுக்கப்பட்டுவருவதாக வெளியாகியுள்ள செய்தி முற்றிலும் பொய்யானது என தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க மற்றும் குடிவரவு, குடியகல்வு கட்டுப்பாட்டாளர் நாயகம் ஹர்ஷ இலுக்பிட்டிய ஆகியோர் தெரிவித்துள்ளனர்.
+Sri Lanka's Elections Commissioner and Immigration Controller deny claims of a massive vote fraud scheme involving diaspora Sri Lankans. They assure that laws allow voters to cast ballots safely from any location, not just their registered polling stations, due to safety concerns. The introduction of an electronic passport system aims to increase transparency and combat bribery accusations.
 
-வெளிநாடுகளில் வாழும் சுமார் 25 இலட்சம் இலங்கையர்களின் கடவுச்சீட்டை போலியாக அச்சடித்து அவர்களின் வாக்குகளை சூறையாடும் பாரிய திட்டம் ஒன்று முன்னெடுக்கப்படுவதாக இணையத்தளமொன்று செய்தி வெளியிட்டுள்ளது. தேர்தல்கள் ஆணைக்குழு, குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் ஆகியன இணைந்து இந்த மோசடி வேலைத்திட்டத்தை முன்னெடுத்து வருவதாகவும் அந்தச்செய்தியில் குறிப்பிடப்பட்டுள்ளது.
+🟩
+
+Elections Commissioner Saman Sri Ratnayake and Immigration and Immigration Controller Harsha Ilukpitiya said that the news that a fraudulent fraud of being forged and plundering their votes is being carried out by the Sri Lankans living abroad as it has been announced on the presidential date.
+
+A website has reported that a massive plan is being carried out by a massive of about 25 million Sri Lankans living abroad and plundering their votes.. The Elections Commission, the Department of Immigration and the Department of Emigration are working on the fraud program.
+
+It is said that the law has been abruptly enacted anywhere in the country and that if someone cannot identify him when he is voted in another area, he should check his passport and accept it.
 
 ...
 
 [Data](articles/ff5a1386.json)
+
+[Extended Data](ext_articles/ff5a1386.ext.json)
 
 ---
 
@@ -636,6 +708,8 @@ Prasanna Vithanage returns to hilly terrain, its misty mountains and cold climes
 
 [Data](articles/72a9cbc5.json)
 
+[Extended Data](ext_articles/72a9cbc5.ext.json)
+
 ---
 
 ### Strategies For Efficiency & Integrity In Democracies: The Cry For Independent Commissions
@@ -653,6 +727,8 @@ General Shavendra Silva shown here, as the US put it, is accused of War Crimes �
 ...
 
 [Data](articles/d14a28f2.json)
+
+[Extended Data](ext_articles/d14a28f2.ext.json)
 
 ---
 
@@ -2189,49 +2265,5 @@ The joint military exercise, aimed at enhancing preparation and response to natu
 [Data](articles/ce463eda.json)
 
 [Extended Data](ext_articles/ce463eda.ext.json)
-
----
-
-### IndiGo Airlines to commence daily flights to Sri Lanka’s Jaffna
-
-*2024-08-02 13:15:00* · [`economynextcom`](https://economynext.com/indigo-airlines-to-commence-daily-flights-to-sri-lankas-jaffna-174979/) · `en`
-
-ECONOMYNEXT – Indian airline IndiGo will commence non-stop daily flights between the southern Indian city of Chennai and Jaffna in Sri Lanka’s north from September 1.
-
-Jaffna is the second destination in the island after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network, the airline said.
-
-“This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity.”
-
-India is the primary source market of tourist arrivals to Sri Lanka. According to Sri Lanka Tourism Development Authority (SLTDA) figures, 214,910 tourists arrived from India between January 1 and July 21 this year.
-
-There is also an increasing interest for travel to Jaffna, IndiGo pointed out.
-
-...
-
-[Data](articles/cfda5fb6.json)
-
-[Extended Data](ext_articles/cfda5fb6.ext.json)
-
----
-
-### Paris Olympics: Sri Lanka’s Tharushi Karunaratne in 800m Heats today
-
-*2024-08-02 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100941/paris-olympics-sri-lankas-tharushi-karunaratne-in-800m-heats-today) · `en`
-
-As Sri Lanka looks ahead to the ‘Paris 2024’ Olympics, a key athlete for the island nation in this year’s Olympic Games Tharushi Karunaratne is set to take part in her first heats of women’s 800m event today (02).
-
-The heat 06 of the preliminary round of the event, in which Karunaratne takes part, will commence at 12.00 midnight (IST) today (02).
-
-Among the athletes who qualified for the women’s 800m event at this year’s Paris Olympics, only three other athletes besides Tharushi represent the Asian region. They will compete to represent Palestine, Kuwait, and Bahrain.
-
-Tharushi Karunaratne will race with athletes from Lithuania, Australia, Switzerland, Italy, the United States, Jamaica and Kenya in the preliminary round.
-
-The 19-year-old is also the Asian record holder of the event and the Gold Medalist at the 2023 Asian Games.
-
-◼️
-
-[Data](articles/c17e7a28.json)
-
-[Extended Data](ext_articles/c17e7a28.ext.json)
 
 ---

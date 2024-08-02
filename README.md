@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 17:20:44**
+As of **2024-08-02 17:36:30**
 
 ## Newspaper Stats
 
-*Scraped **38,649** Articles*
+*Scraped **38,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,551
-adaderanalk | 4,476
+adaderanalk | 4,477
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,804
 virakesarilk | 6,111
-adaderanasinhalalk | 6,512
+adaderanasinhalalk | 6,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,648 (100.0%) of 38,649 articles have been extended.
+38,649 (100.0%) of 38,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### අපවත් වී වදාළ ගලබොඩ ඤාණිස්සර හිමිගේ ආදාහන පූජෝත්සවය පූර්ණ රාජ්‍ය ගෞරව සහිතව
+
+*2024-08-02 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199491) · `si`
+
+අපවත් වී වදාළ ගංගාරාම විහාරස්ථානයේ පූජ්‍ය ගලබොඩ ඤාණිස්සර නාහිමියන්ගේ (පොඩි හාමුදුරුවෝ) අවසන් කටයුතු රාජ්‍ය අනුග්‍රහය සහිතව සිදුකිරීමට නියමිතය.
+
+ඒ අනුව අගෝස්තු 05 වනදා සවස විහාරස්ථානයට යාබද ක්‍රීඩාංගණයේදී ආදාහන පූජෝත්සවය පැවැත් වෙන බව ආදාහන කාරක සභාව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/2df6278d.json)
+
+---
+
+### Final rites of Ven. Galaboda Gnanissara Thero under state patronage
+
+*2024-08-02 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100952/final-rites-of-ven-galaboda-gnanissara-thero-under-state-patronage) · `en`
+
+The final rites of the late Ven. Galaboda Gnanissara Thero of the Gangaramaya Temple will be held under state patronage on Monday (Aug 05) at the grounds adjoining the temple, according to the funeral committee.
+
+The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly known as “Podi Hamuduruwo”, passed away today (02), at the age of 81.
+
+The Thero was reportedly receiving treatment at a private hospital in Colombo at the time of his passing.
+
+◼️
+
+[Data](articles/50cda584.json)
+
+---
 
 ### 3 newly freed Americans are back on US soil after landmark prisoner exchange with Russia
 
@@ -45,6 +75,8 @@ The trade unfolded despite relations between Washington and Moscow being at thei
 ...
 
 [Data](articles/13a34207.json)
+
+[Extended Data](ext_articles/13a34207.ext.json)
 
 ---
 
@@ -85,6 +117,30 @@ Ranil Wickremesinghe supported the Sri Lanka PA (SLPP) Executive Committee meeti
 [Data](articles/d668f14d.json)
 
 [Extended Data](ext_articles/d668f14d.ext.json)
+
+---
+
+### දරුවා හප්පා පළා ගිය ලොරි ඩ්‍රයිවර්, ලුහුබැඳ ගිය පියාවත් ලයිට් කණුවක හප්පලා -CCTV
+
+*2024-08-02 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199490) · `si`
+
+බලන්ගොඩ නගරයේදී යතුරුපැදියක් අනතුරට ලක්කර සත් හැවිරිදි දැරියකට තුවාල සිදුකර පළාගිය ලොරි රථයක් ලුහුබැඳ ගිය පියාව ද අනතුරට ලක්කර ඝාතනය කරන අයුරු CCTV කැමරාවක සටහන්ව තිබේ.
+
+අනතුරට ලක්වූ දැරියගේ පියා යතුරුපැදියෙන් ලොරිය ලුහුබැඳ ගොස් ලොරියේ රියදුරු අසුන පැත්තේ ඇති වීදුරුවේ එල්ලී රියදුරුව අල්ලා ගැනීමට උත්සාහ දරයි.
+
+එහිදී ලොරි රථයේ රියදුරුව අල්ලා ගැනීමට දැරියගේ පියා උත්සාහ කර ඇති අතර එම අවස්ථාවේ ලොරි රථයේ රියදුරු විසින් නොනවත්වා ලොරිය ඉදිරියට ධාවනය කරයි.
+
+ඉන් අනතුරුව ලොරි රථයේ රියදුරු බලන්ගොඩ, කහටපිටිය මාර්ගයේ දී දැරියගේ පියාව විදුලි කණුවක හප්පා පළා ගොස් තිබේ.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ තිලිණ රංගලාල් නැමති 32 හැවිරිදි පියෙකු බව පොලීසිය පැවසීය.
+
+දැරියව බල්ලෙකු සපා කා ඇති අතර, පියා සහ මව යතුරුපැදියෙන් බලන්ගොඩ මුලික රෝහලට ගොස් නැවත එමින් සිටිය දී නෙල්ලි මිල දී ගැනීම සඳහා බලන්ගොඩ ප්‍රධාන බස් නැවතුම්පොළ හරහා යතුරුපැදිය ධාවනය කරන අතරතුර මෙලෙස අනතුරට ලක්ව තිබේ.
+
+තුවාල ලැබු දරුවා බලන්ගොඩ මුලික රෝහලට ඇතුළත් කරන මෙන් පවසා සැමියා ලොරි රථය පිටුපස ලුහුබැඳ ගිය බව මියගිය පුද්ගලයාගේ බිරිඳ පැවසීය.
+
+...
+
+[Data](articles/103876ea.json)
 
 ---
 
@@ -2115,59 +2171,5 @@ The Consumer Brands sector reported revenue of Rs. 8.9 billion, with operating p
 [Data](articles/7b8c994c.json)
 
 [Extended Data](ext_articles/7b8c994c.ext.json)
-
----
-
-### ‘Agricultural mechanization essential for ensuring food security’
-
-*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/agricultural-mechanization-essential-for-ensuring-food-security/) · `en`
-
-Agricultural mechanization is very important for any country to progress and to ensure future food security besides maximizing benefits for local farmlands and improving the living standard of the people, Senior Vice President, Shaktiman International Business, Shawshank Watane said.
-
-“In India agri- mechanization is around 45 percent but in the USA it’s about 95 percent. Therefore in Sri Lanka it is not high and farm mechanization will assist farmers to enhance their quality of life, provide food and farmland security and help reduce high labour costs,” Watane told a media conference recently at Grandezza Hotel, Negombo. On the same day Shaktiman’s annual dealer convention was also held.
-
-...
-
-[Data](articles/7ffbd91c.json)
-
-[Extended Data](ext_articles/7ffbd91c.ext.json)
-
----
-
-### Digital Innovation Fund powered by Dialog Axiata makes strategic investment in cybersecurity firm Scybers
-
-*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/digital-innovation-fund-powered-by-dialog-axiata-makes-strategic-investment-in-cybersecurity-firm-scybers/) · `en`
-
-Scybers Inc., the fast-growing global cybersecurity firm, announced that the Digital Innovation Fund, managed by BOV Capital and powered by Dialog Axiata PLC, has made a strategic investment in the company.
-
-Cybersecurity has become a critical concern for global enterprises amidst the post-pandemic digital acceleration, a surge in ransomware attacks, increasing regulatory demands, and a worldwide shortage of cybersecurity talent. The global cyber security market size is estimated at USD 268.13 billion in 2024 and is expected to reach around USD 878.48 billion by 2034, expanding at a Compound Annual Growth Rate (CAGR) of 12.6% over the forecast period 2024 to 2034.
-
-In this challenging landscape, Scybers enables enterprises to rapidly reduce cyber risks, achieve compliance and build resilience leveraging a proven global delivery model, deeply specialized front-line cybersecurity expertise, and a set of advanced AI-assisted security platforms.
-
-...
-
-[Data](articles/8358f82c.json)
-
-[Extended Data](ext_articles/8358f82c.ext.json)
-
----
-
-### Vogue Jewellers, ‘TripAdvisor Traveller’s Choice 2024’
-
-*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/vogue-jewellers-tripadvisor-travellers-choice-2024/) · `en`
-
-Sri Lanka’s exclusive jeweller, Vogue Jewellers has become the winner of ‘TripAdvisor Traveller’s Choice 2024’ for the 5th consecutive year. Vogue Jewellers stands as an epitome of timeless elegance and unparalleled craftsmanship, renowned for its commitment to excellence in every facet of its creations. With a legacy spanning over generations, it has earned the esteemed status of being the most trusted name in pure 22 karat gold jewellery, Diamond jewellery and Coloured stone jewellery.
-
-As a household name in bridal jewellery, Vogue Jewellers sets the standard for sophistication and refinement. Each piece is meticulously crafted, embodying the essence of luxury and prestige. Synonymous with iconic designs, each creation captivates discerning clientele of all ethnicities with its unrivalled artistry and attention to detail.
-
-Share market on recovery track following disclosure of presidential poll survey results
-
-Nvidia sets record for biggest daily gain in value in stock market history
-
-...
-
-[Data](articles/abaeb220.json)
-
-[Extended Data](ext_articles/abaeb220.ext.json)
 
 ---

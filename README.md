@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 22:10:09**
+As of **2024-08-02 22:21:14**
 
 ## Newspaper Stats
 
-*Scraped **38,694** Articles*
+*Scraped **38,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,481
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,809
 virakesarilk | 6,122
-adaderanasinhalalk | 6,522
+adaderanasinhalalk | 6,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,694 (100.0%) of 38,694 articles have been extended.
+38,694 (100.0%) of 38,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ලකුණු සමවෙයි
+
+*2024-08-02 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199500) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දීයාව අතර අද (02) පැවති පළමු එක්දින ක්‍රිකට් තරගය ජය පරායෙන් තොරව අවසන් වුණි.
+
+තරගයේ කාසියේ වාසිය ශ්‍රී ලංකා නායකයා දිනා ගත් අතර ඔහු පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+අද තරගයේදී යොවුන් වේග පන්දු යවන ක්‍රීඩක මොහෙමඩ් ශිරාස් ශ්‍රී ලංකාව වෙනුවෙන් එක්දින වරම් ලබා ගැනීම විශේෂත්වයකි.
+
+ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 නිමා කළේ කඩුලු 8ක් දැවී ලකුණු 230ක් රැස් කරමිනි.
+
+පැතුම් නිස්සංක ලකුණු 56ක් රැස් කළ අතර සිය එක්දින දිවියේ මංගල අර්ධ ශතකය වාර්තා කළ දුනිත් වෙල්ලාලගේ නොදැවී ලකුණු 67ක් රැස් සහ වනිඳු හසරංග ලකුණු 24ක් රැස් කළේය.
+
+ලකුණු 231ක ඉලක්කයක් හඹායාමට පිටියට පිවිසි ඉන්දීය ආරම්භක පිතිකරුවන් යුගල ආරම්භ කඩුල්ලට ලකුණූ 75ක සබඳතාවක් ගොඩනැගුවේය.
+
+අනතුරුව ලකුණු ලකුණු 12ක් තුළ නායක රෝහිත් ෂර්මා, ශුබ්මන් ගිල් සහ වොෂිංග්ටන් සුන්දර් දවා ගනිමින් දුනිත් වෙල්ලාලගේ සහ අකිල ධනංජය ඉන්දීය පිලට පීඩනයක් එල්ල කළේය.
+
+අනතුරුව වනිඳු හසරංග විරාත් කෝලි සහ අසිත ප්‍රනාන්දු ශ්‍රේයස් අයියර් දවා ගත්තද ශ්‍රී ලංකා ජයග්‍රහණයට එය ප්‍රමාණවත් වුයේ නැහැ.
+
+...
+
+[Data](articles/3e1d21b2.json)
+
+---
 
 ### Police Sergeant arrested while accepting Rs. 150,000 bribe near court
 
@@ -2259,37 +2285,5 @@ The Central Bank further stated that the value of the Sri Lankan rupee has incre
 [Data](articles/606a25f8.json)
 
 [Extended Data](ext_articles/606a25f8.ext.json)
-
----
-
-### The crisis emerged in the Olympic Women's Boxing
-
-*2024-08-02 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199478) · `si`
-
-A controversy arose during the women's boxing event at the Paris Olympics when Angela Karini withdrew from her match against Kalayif after just 46 seconds, citing unusual circumstances. This incident sparked global discussions about the fairness of the competition and the representation of women in sports, particularly in light of previous controversies involving testosterone levels.
-
-🟩
-
-The 7th day of the Paris Olympic Games was today (02), a controversial incident was disputed in the Last 16 at the Paris Olympic Games yesterday.
-
-That is, the women's boxing event is a majority of a large number of woman.
-
-The last 16th of the Boxing event was held in the last 16th in the Paris Olympic Games yesterday.
-
-The competition was held between Angela Karini with Kalayif, only 46 seconds.
-
-After the match, Karini said, "I have never faced that like that. This event is up to the Olympic judge. Since I wanted to save my life, I stopped the Olympics. "
-
-The Khaview representing the Boxing event has been created in the entire world regarding the boxing event.
-
-Khayff had removed the World Championship 2012 due to the Teststartrone tests carried out to ensure gender.
-
-This incident is known by J. K. Rhollot, including a former Prime Minister of England, had expressed his displeasure with the representation of the Khaview's female.
-
-...
-
-[Data](articles/4d7ab1ec.json)
-
-[Extended Data](ext_articles/4d7ab1ec.ext.json)
 
 ---

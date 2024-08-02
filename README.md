@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 20:55:02**
+As of **2024-08-02 21:05:47**
 
 ## Newspaper Stats
 
-*Scraped **38,689** Articles*
+*Scraped **38,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 3,554
 adaderanalk | 4,479
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,808
-virakesarilk | 6,121
+virakesarilk | 6,122
 adaderanasinhalalk | 6,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,689 (100.0%) of 38,689 articles have been extended.
+38,689 (100.0%) of 38,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### மன்னார் காற்றாலை மின்னுற்பத்தி நிலைய நிர்மாணம் : 5 அடிப்படை உரிமை மனுக்கள் மீதான பரிசீலனை ஒக்டோபரில்
+
+*2024-08-02 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190132) · `ta`
+
+மன்னார் காற்றாலை மின்னுற்பத்தி நிலையத்தின் நிர்மாணிப்பணிகளை அதானி நிறுவனத்திற்கு வழங்குவதற்கு எடுக்கப்பட்ட அமைச்சரவை தீர்மானத்தை வலுவிழக்கச் செய்யுமாறு கோரி தாக்கல் செய்யப்பட்ட 5 அடிப்படை உரிமை மனுக்களை எதிர்வரும் ஒக்டோபர் 14 ஆம் திகதி பரிசீலனைக்கு எடுத்துக் கொள்ள உயர் நீதிமன்றம் வெள்ளிக்கிழமை (2) உத்தரவு பிறப்பித்துள்ளது.
+
+◼️
+
+[Data](articles/174a3037.json)
+
+---
 
 ### Ranil's assistance with 18 State Minister Earnanaka Herath
 
@@ -2289,25 +2301,5 @@ Following this, the Sri Lankan High Commissioner in Delhi was summoned by the In
 [Data](articles/d898262f.json)
 
 [Extended Data](ext_articles/d898262f.ext.json)
-
----
-
-### US recognizes Maduro’s opponent as winner in Venezuela election
-
-*2024-08-02 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100934/-us-recognizes-maduros-opponent-as-winner-in-venezuela-election) · `en`
-
-The United States on Thursday recognized Venezuelan President Nicolas Maduro’s opponent and opposition candidate Edmundo Gonzalez as the winner of Venezuela’s disputed presidential election, rejecting Maduro’s claim of victory.
-
-"Given the overwhelming evidence, it is clear to the United States and, most importantly, to the Venezuelan people that Edmundo Gonzalez Urrutia won the most votes in Venezuela’s July 28 presidential election," U.S. Secretary of State Antony Blinken, opens new tab said in a statement on Thursday.
-
-The announcement from Washington did not go beyond congratulating him for a "successful campaign," the closest the U.S. has come since Sunday’s contested election to recognizing Gonzalez as the OPEC nation’s new leader.
-
-The dispute over the presidential election results has sparked protests in Venezuela. Venezuela’s electoral council proclaimed Maduro, who has been in power since 2013, the winner of the July 28 election with 51% of the vote.
-
-...
-
-[Data](articles/4d1b7b9b.json)
-
-[Extended Data](ext_articles/4d1b7b9b.ext.json)
 
 ---

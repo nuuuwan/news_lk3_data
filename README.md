@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 01:05:45**
+As of **2024-08-03 01:20:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,708 (100.0%) of 38,712 articles have been extended.
+38,712 (100.0%) of 38,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,6 +136,8 @@ Prisoner Galagoda Aththe Gnanasara Thera, a social miscreant and public provocat
 
 [Data](articles/359e462e.json)
 
+[Extended Data](ext_articles/359e462e.ext.json)
+
 ---
 
 ### Road to COP29: Priorities and expectations for global climate negotiations in 2024
@@ -154,21 +156,31 @@ On 11 November 2024, less than four months away, the 29th meeting of the Confere
 
 ---
 
-### மாகாணசபை தேர்தல் சட்ட மூலத்தை செம்டெம்பர் 6இல் விவாதிக்க தீர்மானம் கட்சித்தலைவர் கூட்டத்தில் முடிவு: ஜனாதிபதி ரணில், சுமந்திரன் தொலைபேசி மீண்டும் பேச்சு
+### Decision to discuss provincial council election law on September 6
 
 *2024-08-02 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190136) · `ta`
 
-மாகாண சபைகள் தேர்தல் சட்டமூலத்தின் மீதான இரண்டாவது வாசிப்பு மீதான விவாதம் செம்டெம்பர் ஆறாம் திகதி முன்னெடுக்கப்படுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+A meeting of party leaders decided to debate the Provincial Councils Election Bill on September 6th. The Health Department will conduct Ronitimal's symposium next. President Ranil Wickremesinghe requested lifting the ban on provincial council elections, supported by President Attorney MA Sumanthiran. Steps are being taken to amend the Provincial Councils Elections Act, with a focus on eliminating prohibitions on conducting elections.
 
-பாராளுமன்றத்தில் நேற்றையதின் நடைபெற்ற கட்சித்தலைவர்கள் கூட்டத்தின்போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது. அத்துடன் சுகாதாரத்துறை சார்ந்த சட்டமூலங்கள் , ரொனிடிமலின் அனுதாப்பிரரேரணை ஆகியவற்றை அடுத்த அமர்வில் முன்னெடுப்பதற்கும் இணக்கம் காணப்பட்டுள்ளது.
+🟩
 
-முன்னதாக, இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரனுக்கும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையில் நேற்று முன்தினம் சந்திப்பொன்று நடைபெற்றிருந்தது.
+The debate on the second reading of the Provincial Councils Election Bill has been decided on the 6th of September.
 
-இதன்போது, ஆகக்குறைந்தது மாகாண சபைகளுக்கான தேர்தலை நடத்துவதற்கான தடைகயை நீக்குவதற்காக முற்போக்காக செயற்பட வேண்டும் என்று சுமந்திரன் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடத்தில் கோரியிருந்தார்.
+The decision was taken at a meeting of party leaders held in Parliament yesterday. In addition, the Health Department has agreed to carry out the next session of Ronitimal's symposium.
+
+Earlier, a meeting was held yesterday between President Attorney MA Sumanthiran and President Ranil Wickremesinghe.
+
+At the same time, President Ranil Wickremesinghe demanded that at least the prohibition on conducting elections for the provincial councils be eliminated.
+
+Sumanthiran also pointed out that the prohibition on conducting elections for provincial councils would be lifted as he had submitted the individual proposal to the provincial councils.
+
+President Ranil Wickremesinghe has issued its compliance and has taken steps to advance the matter in the matter.
 
 ...
 
 [Data](articles/693ffdc9.json)
+
+[Extended Data](ext_articles/693ffdc9.ext.json)
 
 ---
 
@@ -190,33 +202,51 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 
 ---
 
-### ஜனாதிபதியின் அர்ப்பணிப்பின் பலனாக யாழ், கிளிநொச்சி மக்களின் நீண்டகால குடிநீர்த்தேவை பூர்த்தியடைந்துள்ளது - பி.எஸ்.எம்.சார்ல்ஸ்
+### The long -standing drinking water supply of the people of Jaffna and Kilinochchi has been fulfilled as a result of the president's commitment - BSM Charles
 
 *2024-08-02 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190135) · `ta`
 
-ஜனாதிபதியின் அர்ப்பணிப்பின் பலனாக யாழ்ப்பாணம் மற்றும் கிளிநொச்சி மாவட்டங்களில் வாழும் சுமார் 3 இலட்சம் மக்களின் நீண்டகாலத்தேவையாக இருந்த பாதுகாப்பான குடிநீர் வசதி வெள்ளிக்கிழமை (02) கிடைத்திருப்பதாகவும், அதற்காக ஜனாதிபதிக்கு நன்றி கூறுவதாகவும் வடமாகாண ஆளுநர் பி.எஸ்.எம்.சார்ல்ஸ் தெரிவித்தார்.
+BSM Charles, Northern Province Governor, announced the completion of a long-term safe drinking water facility in Jaffna and Kilinochchi districts, attributing it to the President's dedication. The project, which began under the President's leadership as Prime Minister in 2015, received additional funding from the Asian Development Bank in 2017. This support enabled the expansion and operation of the seawater desalination plant, significantly benefiting the health and agriculture sectors of the region.
 
-யாழ்ப்பாணம் - கிளிநொச்சி நீர் வழங்கல் திட்டத்தின் தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையத்தை திறந்து வைக்கும் நிகழ்வில் நேற்று முற்பகல் கலந்துகொண்டு உரையாற்றுகையிலேயே மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+🟩
 
-வடமாகாணத்தில் பாரிய குடிநீர் திட்டத்தை வெற்றியடையச்செய்வதற்கு உதவிய ஜனாதிபதிக்கு நாம் நன்றி கூறவேண்டும். 2015 ஆம் ஆண்டில் அவர் பிரதமராகப் பதவிவகித்தபோது முழுத்திட்டத்தையும் சீரமைத்து, அதற்குத் தேவையான மேலதிக நிதி வசதிகளைப் பெற்றுக்கொள்வதற்கு வாய்ப்பேற்படுத்தினார்.
+Northern Province Governor BSM Charles said that as a result of the president's dedication, the long -term safe drinking water facility was available on Friday (02) in the Jaffna and Kilinochchi districts.
+
+He said this while addressing the opening of the Sea Water Supply Center yesterday morning at the Jaffna -Kilinochchi Water Supply Project.. There he added:
+
+We should thank the President for helping to succeed in the massive drinking water project in the Northern Province. When he assumed office as Prime Minister in 2015, he gave the opportunity to revamp the entire project and get the necessary financial facilities.
+
+The project was further strengthened by signing an agreement to provide additional funding with the Asian Development Bank in 2017. While the agreement facilitated the operation of the seawater in the seawater, it helped to cover the additional cost of the project, including its construction and a five -year operation plan.
 
 ...
 
 [Data](articles/7a4e15d0.json)
 
+[Extended Data](ext_articles/7a4e15d0.ext.json)
+
 ---
 
-### 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தினர் - தேர்தல்கள் ஆணைக்குழு
+### 14 candidates in control - Elections Commission
 
 *2024-08-02 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190134) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை 2ஆம் திகதி வெள்ளிக்கிழமை 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட 8 வேட்பாளர்களும்,வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட ஒருவரும், சுயேட்சையாக போட்டியிட 05  வேட்பாளர்களும் இவ்வாறு கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+On Friday, 2nd, the Elections Commission approved 14 candidates for the upcoming presidential election: 8 from authorized political parties, 1 from other parties, and 5 independents. Notably, Ananda Kularatne, Sarath Manamendra, Battaramulla Seelaratne Thera, and Akmemana Tarunatna Thera were cleared for candidacy the previous day.
 
-ஜனாதிபதி தேர்தலுக்காக கட்டுப்பணம் செலுத்தல் எதிர்வரும் 14 ஆம் திகதி நண்பகல் வரை ஏற்றுக்கொள்ளப்படவுள்ள நிலையில் நேற்று வியாழக்கிழமை வரையான காலப்பகுதியில் மாத்திரம் 14 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+🟩
+
+14 candidates have been controlled on Friday 2nd to contest the presidential election. The Elections Commission has announced that 8 candidates to contest on behalf of authorized political parties, one to contest on behalf of other political parties and five candidates to contest independently.
+
+Only 14 people have been restricted until Thursday, as the presidential election will be accepted until the 14th.
+
+Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party and Battaramulla Seelaratne Thera on behalf of the Janasena Front have been recognized as the recognized political parties.
+
+At the same time, Ajantha The Soyza has paid control on behalf of the Ruhunu People's Front in the unauthorized political party.
 
 ...
 
 [Data](articles/07ce0b41.json)
+
+[Extended Data](ext_articles/07ce0b41.ext.json)
 
 ---
 

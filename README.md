@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 15:05:40**
+As of **2024-08-02 15:20:44**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,509
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,636 (100.0%) of 38,637 articles have been extended.
+38,637 (100.0%) of 38,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### ලංකාවට එරෙහිව ඉන්දියාව වාර්තාවක් අබියස
+### India in front of India
 
 *2024-08-02 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199486) · `si`
 
-වසර 45ක (1979 සිට) ඉන්දු - ශ්‍රී ලංකා එක්දින ක්‍රිකට් ඉතිහාසයේ අද (02) පැවැත්වෙන තරගය දෙරට අතර 169 වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය වේ.
+In the 169th ODI match since 1979, India faces Sri Lanka, aiming to achieve its 100th victory. Despite Sri Lanka's 57 wins against India, including 11 draws, India leads with 99 victories. This match marks the 67th ODI between them in Sri Lanka since 1985, where India has won 32 times. A win today could help India reach a century of victories.
 
-ඉන් වැඩි ගෞරව හිමිකරගෙන සිටින්නේ, ඉන්දීය කණ්ඩායම වන අතර, ඔවුන් තරග 99ක ජය තහවුරු කරගෙන සිටී.
+🟩
 
-ඒ අනුව අද තරගද ජයගැනීමට හැකි වුවහොත් ශ්‍රී ලංකාවට එරෙහිව ජයග්‍රහණ ශතකයක් සම්පූර්ණ කිරීමට ඉන්දියාවට හැකිවනු ඇත.
+The 169th ODI is the match between the two countries today (since 1979) today.
 
-කෙසේ වෙතත් ඉන්දියාවට එරෙහිව ශ්‍රී ලංකාව මේ දක්වා ජය ගැනීමට හැකිවී ඇත්තේ තරග 57ක් පමණක් වන අතර, තවත් තරග 11ක් විසඳුමෙන් තොරව අවසන් වී ඇත.
+More respect, the Indian team is the team, and they confirm 99 matches.
 
-එමෙන්ම දෙරට අතර ශ්‍රී ලංකාවේ දී (1985 සිට) පැවැත්වෙන 67වැනි එක්දින තරගය ද මෙය වෙයි.
+Accordingly, India will be able to complete a century in Sri Lanka if it is possible to win today.
 
-එහිදී ද තරග 28ක ජය ශ්‍රී ලංකාව සම්පූර්ණ කර ගද්දී, තරග 32ක් ජයගෙන ඇත්තේ ඉන්දියාවයි.
+However, Sri Lanka has won only 57 matches against India and 11 more matches have ended.
+
+It is also the 67th ODI between the two countries in Sri Lanka (since 1985).
+
+India has won 32 matches while completing the winning of 28 matches.
 
 ◼️
 
 [Data](articles/acf33d36.json)
+
+[Extended Data](ext_articles/acf33d36.ext.json)
 
 ---
 

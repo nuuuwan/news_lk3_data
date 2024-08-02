@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 05:38:23**
+As of **2024-08-02 06:02:43**
 
 ## Newspaper Stats
 
-*Scraped **38,536** Articles*
+*Scraped **38,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,205
 economynextcom | 2,328
-dailyftlk | 2,461
+dailyftlk | 2,470
 adalk | 3,540
 adaderanalk | 4,455
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,789
+tamilmirrorlk | 4,790
 virakesarilk | 6,103
 adaderanasinhalalk | 6,494
 
@@ -26,11 +26,185 @@ adaderanasinhalalk | 6,494
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,536 (100.0%) of 38,536 articles have been extended.
+38,544 (100.0%) of 38,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Bridging borders: Strengthening India-Sri Lanka economic integration
+
+*2024-08-02 05:36:31* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-borders-Strengthening-India-Sri-Lanka-economic-integration/4-765043) · `en`
+
+The evolving economic ties between India and Sri Lanka present significant opportunities for growth and collaboration
+
+Sri Lanka’s recent economic turmoil and recovery efforts present a complex narrative marked by internal challenges and external macroeconomic shocks. The economic crisis disrupted the financial landscape, leading to significant international involvement, mainly through the International Monetary Fund (IMF) and strategic partnerships with neighbouring countries like India.
+
+India’s participation in Sri Lanka’s recovery process underscores its economic and strategic interests in the island nation. As the first bilateral creditor to provide financial assurances to the IMF, India was crucial in facilitating Sri Lanka’s bailout program. This financial support, totalling around $ 4 billion, included multiple credit lines and currency support, highlighting India’s commitment to regional stability amid Sri Lanka’s economic downturn.
+
+...
+
+[Data](articles/9d344b33.json)
+
+[Extended Data](ext_articles/9d344b33.ext.json)
+
+---
+
+### An election poem
+
+*2024-08-02 05:31:40* · [`dailyftlk`](https://www.ft.lk/opinion/An-election-poem/14-765042) · `en`
+
+◼️
+
+[Data](articles/07e1af69.json)
+
+[Extended Data](ext_articles/07e1af69.ext.json)
+
+---
+
+### Pohottuwa could still back President if members agree says MR
+
+*2024-08-02 05:29:03* · [`dailyftlk`](https://www.ft.lk/news/Pohottuwa-could-still-back-President-if-members-agree-says-MR/56-765040) · `en`
+
+SLPP leader Mahinda Rajapaksa says final decision on support for Presidential election rests with party
+
+Assures SLPP is still in good standing and its goal is to win upcoming elections
+
+Claims while party has for the moment decided to part ways, discussions with Wickremesinghe are ongoing
+
+SLPP Matara District Organising Committee unanimously decides to back Ranil Wickremesinghe
+
+Calls for removal of SLPP General Secretary Sagara Kariyawasam and appointment of Dr. Ramesh Pathirana in his stead
+
+SLPP Ratnapura membership calls for unity and unified stance within party
+
+Sri Lanka Podujana Peramuna (SLPP) leader Mahinda Rajapaksa has indicated the party could still extend its support to President Ranil Wickremesinghe in the upcoming Presidential election if the party decides to go back on its decision to withdraw support for President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/60f78ca3.json)
+
+[Extended Data](ext_articles/60f78ca3.ext.json)
+
+---
+
+### PM’s Mahajana Eksath Peramuna pledges support to President
+
+*2024-08-02 05:27:36* · [`dailyftlk`](https://www.ft.lk/news/PM-s-Mahajana-Eksath-Peramuna-pledges-support-to-President/56-765039) · `en`
+
+The Mahajana Eksath Peramuna (MEP) led by Prime Minister Dinesh Gunawardena, who is also a childhood friend of President Ranil Wickremesinghe has decided to back Wickremesinghe’s candidacy in the upcoming Presidential election.
+
+The decision was taken at the party’s central committee meeting held in Maharagama yesterday.
+
+MEP General Secretary Tissa Yapa Jayewardena, Deputy Secretary Yadamini Gunawardena MP, Assistant Secretary Vijaya Ratnayake, Deputy Chairman Githanjana Gunawardena and other members of the Central Committee had taken part in this meeting.
+
+...
+
+[Data](articles/c4ce3188.json)
+
+[Extended Data](ext_articles/c4ce3188.ext.json)
+
+---
+
+### Four more candidates place election deposits; total now at 10
+
+*2024-08-02 05:26:30* · [`dailyftlk`](https://www.ft.lk/news/Four-more-candidates-place-election-deposits-total-now-at-10/56-765038) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has confirmed that 10 candidates in total have placed election deposits to date to contest the Presidential election scheduled for 21 September.
+
+Four candidates placed their deposits yesterday including, Wijeyadasa Rajapakshe, K.K Piyadasa, Siritunga Jayasuriya and Ajantha de Zoysa.
+
+Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Sarath Keerthirathne, Oshala Herath, A.S.P Liyanage, P.W.S.K Bandaranayake and Wijeyadasa Rajapakshe.
+
+According to the Election Commission, nominations will be accepted until 15 August. Election Commission Chairman R.M.A.L. Rathnayake has advised candidates to submit cash deposits early to avoid potential last-minute issues. The Commission has officially announced that the Presidential Election will take place on 21 September 2024.
+
+...
+
+[Data](articles/de5cf4d3.json)
+
+[Extended Data](ext_articles/de5cf4d3.ext.json)
+
+---
+
+### Dayasiri denounces Nimal Siripala’s unauthorised support for President
+
+*2024-08-02 05:25:06* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-denounces-Nimal-Siripala-s-unauthorised-support-for-President/56-765037) · `en`
+
+SLFP General Secretary Dayasiri Jayasekara says fellow party member Nimal Siripala de Silva and group has no legal authority to use SLFP name to hold meetings or express support for the President
+
+Asserts according to a court order, he is the recognised General Secretary of the SLFP
+
+Reiterates SLFP Central Committee’s stance is to not participate in any Govt. other than a multi-party one
+
+Claims SLFP Central Committee has not decided to support any candidate in the upcoming Presidential election yet
+
+...
+
+[Data](articles/f820b8ce.json)
+
+[Extended Data](ext_articles/f820b8ce.ext.json)
+
+---
+
+### EC to bar parties with secretarial crises from Presidential nominations
+
+*2024-08-02 05:23:43* · [`dailyftlk`](https://www.ft.lk/news/EC-to-bar-parties-with-secretarial-crises-from-Presidential-nominations/56-765036) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has announced that political parties experiencing issues with their General Secretary posts will be prohibited from submitting nominations for the upcoming Presidential election.
+
+ECSL Chairperson R.M.A.L. Ratnayake disclosed that several parties are currently facing confusion regarding their secretarial positions.
+
+Ratnayake said that representatives from these parties will be called to the Election Commission in the coming days to decide who will be officially recognised as the party secretary. He warned that if the parties do not address these conflicts, they will be barred from participating in the Presidential nominations.
+
+Nominations will be accepted on 15 August from 9.00 a.m. to 11.00 a.m. with the objection period running until 11.30 a.m. on the same day.
+
+◼️
+
+[Data](articles/fa137075.json)
+
+[Extended Data](ext_articles/fa137075.ext.json)
+
+---
+
+### Shanakiyan calls for Viyalendran to resign from Ministerial post
+
+*2024-08-02 05:22:33* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-calls-for-Viyalendran-to-resign-from-Ministerial-post/56-765035) · `en`
+
+ITAK MP Shanakiyan Rasamanickam accuses State Minister Viyalanderan of being behind a Rs. 6 m bribe
+
+Says Minister must be asked to resign, and President must ensure there is no political influence over the investigation
+
+Ilankai Thamil Arasuk Katchi (ITAK) MP Shanakiyan Rasamanickam has called for the resignation of State Minister of Trade and Environment S. Viyalanderan after the latter’s private Secretary Y. Roshman was arrested over a bribery incident yesterday.
+
+Taking to X, ITAK MP Shanakiyan Rasamanickam said that Roshman was arrested in Batticaloa during a sting operation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). He said Roshman was allegedly soliciting a bribe of Rs. 6 million to grant a mining license. Rasamanickam suggested that the suspect had solicited the bribe on behalf of the minister.
+
+...
+
+[Data](articles/a6069cf9.json)
+
+[Extended Data](ext_articles/a6069cf9.ext.json)
+
+---
+
+### India lodges strong opposition against death of poaching fisherman
+
+*2024-08-02 05:20:57* · [`dailyftlk`](https://www.ft.lk/news/India-lodges-strong-opposition-against-death-of-poaching-fisherman/56-765034) · `en`
+
+The Indian External Affairs Ministry has summoned the Sri Lankan Acting High Commissioner in New Delhi to lodge a strong protest over an incident involving the Sri Lankan Navy and an Indian fishing boat.
+
+A collision, which occurred on Thursday(01) morning, five nautical miles north of Katchatheevu Island, resulted in the death of one Indian fisherman and left another missing.
+
+The Indian fishermen were reportedly engaged in illegal poaching activities at the time of the incident.
+
+Out of the four fishermen on board, two were rescued and brought ashore to Kankesanthurai by the Sri Lankan Navy. A search operation is ongoing for the missing fisherman.
+
+The Indian Ministry of External Affairs has emphasised that the safety and security of Indian fishermen are of the highest priority. Indian Consulate officials in Jaffna have been instructed to provide immediate assistance to the fishermen and their families.
+
+...
+
+[Data](articles/c360953c.json)
+
+---
 
 ### Mahinda Rajapaksa kissed the earth and destroyed the country;If I come to power, I will not allow a cent to be sold in the country's resources - Wijeyadasa Rajapaksa
 
@@ -865,6 +1039,18 @@ At the same time, the judge bench has dismissed four other petitions filed with 
 [Data](articles/19971a3c.json)
 
 [Extended Data](ext_articles/19971a3c.ext.json)
+
+---
+
+### ரணிலை ஆதரித்தார் தினேஷ்
+
+*2024-08-01 18:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரித்தார்-தினேஷ்/175-341418) · `ta`
+
+பிரதமர் தினேஷ் குணவர்தன, ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பதற்கு தீர்மானித்துள்ளார்.
+
+◼️
+
+[Data](articles/2c4cb6f6.json)
 
 ---
 
@@ -2073,243 +2259,5 @@ Israel has no response to the killing of his enemies in foreign countries, even 
 [Data](articles/c4614606.json)
 
 [Extended Data](ext_articles/c4614606.ext.json)
-
----
-
-### Resolve the crisis of the Inspector General
-
-*2024-08-01 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189992) · `ta`
-
-President Wickremesinghe seeks resolution to the crisis caused by the Inspector General of Police, affecting the independence of the upcoming presidential election. The Election Monitoring Organization urges the preservation of voters' rights and calls for an independent election process. The Powell Organization's Executive Director, Rohana Hettiarachchi, appeals to the President to ensure the election's integrity and address the public's long-standing inability to elect local leaders. The letter emphasizes the importance of political neutrality and suggests appointing the Inspector General of Police as the Executive President to maintain fairness in the election.
-
-🟩
-
-President Ranil Wickremesinghe has called for a solution to the issue that has been created by the Inspector General of Police, and the Election Monitoring Organization, the Election Monitoring Organization, has called for the preservation of the people's voting rights by ensuring that the presidential election is independent.
-
-The Executive Director of the Powell Organization Rohana Hettiarachchi made this appeal in a letter to the President.
-
-For the past six years, the public has not been given the right to elect local candidates.
-
-There have been many uncertainty over this opportunity for the people to elect their president after five years.
-
-You should not be allowed as a president for the lack of politics.
-
-If the election is affected by the absence of the Inspector General of Police, you should appoint the Inspector General of Police as the Executive President to fulfill your duty.
-
-...
-
-[Data](articles/ce8f710e.json)
-
-[Extended Data](ext_articles/ce8f710e.ext.json)
-
----
-
-### Sri Lanka’s tuktukrental.com expands to Cambodia
-
-*2024-08-01 13:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-tuktukrental-com-expands-to-cambodia-174799/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tuktukrental.com, which allows tourists to rent tuk tuks, said it had expanded into Cambodia after, and was aiming to rope in 1,000 vehicles to its fleet by the end of the year.
-
-In 2024, the firm said it had helped 600 tuk tuk owners earn 1.5 million dollars by renting to foreigners.
-
-Driving tuk tuks in Sri Lanka is a unique travel experience that some foreigners like to try out.
-
-“Leveraging our learnings from Sri Lanka, we are taking the next step in our journey with the expansion to Cambodia this year,” said Tom Cornish, Co-Founder at tuktukrental.com.
-
-The expansion into Cambodia, which has wide use of motor bicycles, ensures it remains at the forefront of the rental market, the company says.
-
-The company says it wants to provide exceptional travel experiences for tourists, while also improving the lives of tuk tuk owners.
-
-“At tuktukrental.com, we believe in the power of tourism to transform lives and create unique experiences.”
-
-...
-
-[Data](articles/c991d6be.json)
-
-[Extended Data](ext_articles/c991d6be.ext.json)
-
----
-
-### 12 killed by cloud36 people magic
-
-*2024-08-01 13:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேகவெடிப்பால்-12-பேர்-பலி-36-பேர்-மாயம்/175-341406) · `ta`
-
-Heavy rainfall in Northern Territories' Himachal Pradesh and Uttarakhand caused floods, killing 12 and injuring 6. Three deaths occurred in Uttarakhand from a house collapse, while nine died in accidents. The main bridge in Tehri was damaged, affecting pilgrims. In Himachal Pradesh, 36 were affected in Rampur, with two found. Rescue efforts are ongoing amidst heavy rain.
-
-🟩
-
-In the Northern Territories, 12 people have been killed in a flood of clouds (unusual heavy rainfall).
-
-Himachal Pradesh and its neighboring state of Uttarakhand. As a result, there has been floods in various areas.
-
-In Uttarakhand, three people were killed when a house collapsed in Gnanasalai in Tehri district, including severe damage to Tehri, Haridwar, Roori, Samoli and Dehradun.. Also, 6 people were hospitalized. Meanwhile, nine people have died in accidents in different parts of the state.
-
-Tehri Collector Mayur Dixit said that the main bridge used by Sartham pilgrims has been damaged by the heavy rains.
-
-Similarly, 36 people were beaten to Rampur in the floods in Shimla district in Himachal Pradesh.. Two people have been recovered as the search for them is intensifying. In the midst of heavy rains, the Deputy Commissioner of Rampur said that rescue and relief work has been accelerated.
-
-◼️
-
-[Data](articles/01bbce5b.json)
-
-[Extended Data](ext_articles/01bbce5b.ext.json)
-
----
-
-### MP's case is adjudicated
-
-*2024-08-01 12:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-யின்-வழக்கு-ஒத்திவைப்பு/175-341405) · `ta`
-
-Diana Kamage, former State Minister, pleaded not guilty to seven allegations related to providing false information for a Sri Lankan passport during a magistrate's inquiry. The case was adjourned until October 24th by Colombo Chief Magistrate Thilina Gamage.
-
-🟩
-
-Former State Minister Diana Kamage on Thursday (01) has agreed to the seven allegations leveled against him in connection with the Magistrate's inquiry into the Sri Lankan passport for giving false information.
-
-When the case was taken up for hearing at the Colombo Chief Magistrate's Court, Diana Kamage informed the court that she did not plead the crime.
-
-Accordingly, the case has been postponed by Colombo Chief Magistrate Thilina Kamage on October 24.
-
-◼️
-
-[Data](articles/833e08fe.json)
-
-[Extended Data](ext_articles/833e08fe.ext.json)
-
----
-
-### Killing of Hamas chief in Iran stirs fears of retaliation
-
-*2024-08-01 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100912/killing-of-hamas-chief-in-iran-stirs-fears-of-retaliation) · `en`
-
-Hamas leader Ismail Haniyeh was assassinated in the Iranian capital Tehran early on Wednesday morning, an attack that drew threats of revenge on Israel and fuelled further concern that the conflict in Gaza was turning into a wider Middle East war.
-
-The Palestinian Islamist militant group and Iran’s Revolutionary Guards confirmed Haniyeh’s death. The Guards said it took place hours after he attended a swearing-in ceremony for Iran’s new president.
-
-Although the strike on Haniyeh was widely assumed to have been carried out by Israel, Prime Minister Benjamin Netanyahu’s government made no claim of responsibility and said it would make no comment on the killing.
-
-Haniyeh was killed by a missile that hit him “directly” in a state guesthouse where he was staying, senior Hamas official Khalil Al-Hayya told a news conference in Tehran, quoting witnesses who were with Haniyeh.
-
-...
-
-[Data](articles/4f80a6fd.json)
-
-[Extended Data](ext_articles/4f80a6fd.ext.json)
-
----
-
-### The young man who left his hand on the sword cut
-
-*2024-08-01 12:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்-வெட்டில்-கையை-விட்டோடிய-இளைஞன்/175-341404) · `ta`
-
-A 23-year-old man was seriously injured in a sword fight stemming from a long-standing personal dispute in the Marawila and Bahala areas. He was first taken to Marawila Hospital before being transferred to Colombo National Hospital. The incident involved two groups, and the victim's father is a 35-year-old from Valahapitiya. Police are investigating.
-
-🟩
-
-A 23 -year -old youth was cut off with a wrist of a 23 -year -old man who was aimed at a sword attack during a clash between two groups in the Marawila and Bahala Walahapitiya area, and the injured man fled the scene.
-
-It has been revealed that the sword attack has occurred due to a personal conflict that has existed for some time.
-
-The injured youth has been transferred to the Colombo National Hospital after being admitted to the Marawila Hospital.
-
-In addition, the police said that the father of two children from Valahapitiya area was 35 years old and is conducting further investigations.
-
-◼️
-
-[Data](articles/51273cdf.json)
-
-[Extended Data](ext_articles/51273cdf.ext.json)
-
----
-
-### Sword -cut attack; a young man who ran out of hand
-
-*2024-08-01 12:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்-வெட்டு-தாக்குதல்-கையை-விட்டு-ஓடிய-இளைஞன்/175-341404) · `ta`
-
-A sword attack during a clash in Bahala Walahapitiya left a 23-year-old seriously injured. The incident, stemming from a long-standing personal feud, saw the victim flee the scene. He was first taken to Marawila Hospital before being transferred to Colombo National Hospital. Police, investigating the case, identified the victim as a 35-year-old father of two from Valahapitiya.
-
-🟩
-
-During a clash between two groups in the Bahala Walahapitiya area, a 23 -year -old youth was cut off with a wrist and the injured person fled the scene, Marawila police said.
-
-It has been revealed that the sword attack has occurred due to a personal conflict that has existed for some time.
-
-The injured youth has been transferred to the Colombo National Hospital after being admitted to the Marawila Hospital.
-
-In addition, the police said that the father of two children from Valahapitiya area was 35 years old and is conducting further investigations.
-
-◼️
-
-[Data](articles/f10e964d.json)
-
-[Extended Data](ext_articles/f10e964d.ext.json)
-
----
-
-### Hotel worker killed
-
-*2024-08-01 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199445) · `si`
-
-In the Galkiriyagama Police Division, a hotel worker was found dead in a house. The victim, aged 56 from Kalawwawewa, Jayamawatta Junction, is now at Dambulla Hospital pending further police investigation.
-
-🟩
-
-A person has been killed in a bed of a house in a house in the Galkiriyagama Police Division.
-
-Police have commenced investigations into the Galkadiyagama Police yesterday.
-
-The deceased is a 56-year-old resident of the Kalawwawewa area in Jayamawatta Junction, Balabaweera.
-
-The body of the magisterial has been placed at the Dambulla Hospital while Galkiriyagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cbef7b36.json)
-
-[Extended Data](ext_articles/cbef7b36.ext.json)
-
----
-
-### Railways issued a special announcement
-
-*2024-08-01 12:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-அறிவிப்பை-விடுத்தது-ரயில்வே/175-341403) · `ta`
-
-Railways postponed seat bookings from August 1st due to technical issues, moving the start time from 7:00 pm to 10:00 am.
-
-🟩
-
-The Railway Department has said that it will not be carried out as the time to booking seats from August (01) from August (01).
-
-With the online system, the seat allocation was started at 7.00 pm daily and it was decided to commence at 10.00 am.
-
-However, due to the technical problems of the computer system, it has been decided to take it in the past, ”said Railway Deputy Manager MNJ Indibollake.
-
-◼️
-
-[Data](articles/4333013e.json)
-
-[Extended Data](ext_articles/4333013e.ext.json)
-
----
-
-### A special notification of the Railway Department
-
-*2024-08-01 12:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-திணைக்களத்தின்-விசேட-அறிவிப்பு/175-341403) · `ta`
-
-The Railway Department announced changes to its seat booking system starting August 1st. Originally, bookings were set to begin at 7:00 pm via an online system but have been adjusted to start at 10:00 am. This change was made due to technical issues with the computer system, as stated by Railway Deputy Manager MNJ Indibollake.
-
-🟩
-
-The Railway Department has said that it will not be carried out as the time to booking seats from August (01) from August (01).
-
-With the online system, the seat allocation was started at 7.00 pm daily and it was decided to commence at 10.00 am.
-
-However, due to the technical problems of the computer system, it has been decided to take it in the past, ”said Railway Deputy Manager MNJ Indibollake.
-
-◼️
-
-[Data](articles/c66dde79.json)
-
-[Extended Data](ext_articles/c66dde79.ext.json)
 
 ---

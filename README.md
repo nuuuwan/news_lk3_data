@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 23:05:46**
+As of **2024-08-02 23:20:50**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,699 (100.0%) of 38,701 articles have been extended.
+38,701 (100.0%) of 38,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### தாயையும் குட்டிகளையும் விழுங்கிய மலைப்பாம்பு
+### Papse
 
 *2024-08-02 22:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயையும்-குட்டிகளையும்-விழுங்கிய-மலைப்பாம்பு/175-341491) · `ta`
 
-மாத்தறை மாகந்துர ஜனஉதாகம கிராமத்தில் வீடொன்றில் இருந்த நாய் மற்றும் 4 நாய்க் குட்டிகளை நேற்று (01) பிற்பகல் மலைப்பாம்பு ஒன்று விழுங்கியுள்ளது.
+In Makandura, Matara, a python swallowed a dog and its four pups. A villager captured it near Weligama Pelana and moved it to a safer location.
 
-இதையடுத்து குறித்த கொட்டகையில் நாய் ஒன்று 4 குட்டிகளை ஈன்றுள்ள நிலையில், குறித்த நாயையும்  ஒரு மாத நான்கு குட்டிகளையும் மலைப்பாம்பு விழுங்கியமை இதன்போது கண்டுபிடிக்கப்பட்டுள்ளது.
+🟩
 
-அதன்படி வெலிகம பெலன பகுதியில் பாம்பு பிடிக்கும் இளைஞர் ஒருவர் வந்து குறித்த மலைப்பாம்பை பத்திரமாக எடுத்து சென்று பாதுகாப்பான பகுதிக்கு விட நடவடிக்கை எடுத்துள்ளார். R
+A python swallowed a dog and 4 dog cubs in the village of Makandura, Makandura, Matara, yesterday afternoon.
+
+The dog and four cubs have been swallowed by the dog and four cubs of the python.
+
+Accordingly, a young man who seizes a snake in the Weligama Pelana area has taken steps to take the python and take steps to the safe area.. Remble
 
 ◼️
 
 [Data](articles/3e0c49f0.json)
 
+[Extended Data](ext_articles/3e0c49f0.ext.json)
+
 ---
 
-### இந்தியா - இலங்கை ஒருநாள் போட்டி சமநிலையில் முடிந்தது
+### India - Sri Lanka ended in ODI
 
 *2024-08-02 22:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியா-இலங்கை-ஒருநாள்-போட்டி-சமநிலையில்-முடிந்தது/44-341490) · `ta`
 
-இலங்கை மற்றும் சுற்றுலா இந்திய அணிகளுக்கு இடையிலான முதலாவது ஒருநாள் போட்டியில் வெற்றி தோல்வியின்றி சமநிலையில் நிறைவடைந்துள்ளது.
+In the first ODI of the series, Sri Lanka batted first after winning the toss, losing 8 wickets in 50 overs to score 230 runs. India, despite losing all wickets in 47.5 overs, managed to equal Sri Lanka's score, making the match end in a tie.
 
-போட்டியின் நாணய சுழற்சியில் வெற்றிப் பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்தது.
+🟩
 
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி 50 ஓவர்கள் நிறைவில் 8 விக்கெட்டுக்களை இழந்து 230 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+The first ODI between Sri Lanka and the tournament is over.
 
-அதன்படி, பதிலுக்கு துடுப்பெடுத்தாடிய இந்திய அணி 47.5 ஓவர்களில் அனைத்து விக்கெட்டுக்களையும் இழந்து 230 ஓட்டங்களை மாத்திரமே பெற்றது.
+The Sri Lankan team won the match in the currency cycle and decided to bat first.
 
-அதன்படி, மூன்று போட்டிகள் கொண்ட ஒருநாள் தொடரில் முதல் போட்டி வெற்றி தோல்வியின்றி சமநிலையில் நிறைவடைந்துள்ளது. R
+Accordingly, the Sri Lankan team first lost 8 wickets in 50 overs and scored 230 runs.
+
+Accordingly, the Indian team lost all the wickets in 47.5 overs and scored only 230 runs.
+
+Accordingly, the first match in the three -match ODI series has been balanced without a loss. Remble
 
 ◼️
 
 [Data](articles/7c43ec3b.json)
+
+[Extended Data](ext_articles/7c43ec3b.ext.json)
 
 ---
 
@@ -74,11 +86,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Sri Lanka Tourism Promotion Bureau (SLTPB) has won the “Best International Tourism Board” accolade at the Global Tourism Awards 2024, organized by the Travel World Online (TWO).
 
-The Global Tourism Awards 2024 was held on 2nd of August 2024 in New Delhi, India..
+The Global Tourism Awards 2024 was held on 2nd of August 2024 in New Delhi, India.
 
 The Global Tourism Awards serve as a platform to honour and celebrate organizations that have made outstanding contributions to the tourism industry, shaping its landscape and driving positive change.
 
-◼️
+With the industry’s leading experts as part of the jury, the awards promise to recognize the dedication and hard work of tourism professionals worldwide.
+
+The event was expected to draw attendees from various sectors of the tourism industry, including travel agencies, tour operators, hospitality professionals, and government representatives. It promises to be an evening of celebration, networking, and recognition of the best in the business.
+
+...
 
 [Data](articles/ad9383e6.json)
 

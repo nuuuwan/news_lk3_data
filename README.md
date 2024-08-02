@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 15:36:13**
+As of **2024-08-02 15:54:50**
 
 ## Newspaper Stats
 
-*Scraped **38,637** Articles*
+*Scraped **38,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 4,470
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,803
 virakesarilk | 6,111
-adaderanasinhalalk | 6,509
+adaderanasinhalalk | 6,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,637 (100.0%) of 38,637 articles have been extended.
+38,637 (100.0%) of 38,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ශීත යුද්ධයෙන් පසුව විශාලතම සිරකරු හුවමාරුව
+
+*2024-08-02 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199488) · `si`
+
+රුසියාව සහ බටහිර රටවල් අතර ඇති කරගත් එකඟතාවකට අනුව සිරකරුවන් හුවමාරුවක් සිදුවූ බව අමෙරිකාව තහවුරු කර තිබේ.
+
+එහිදී දෙපාර්ශවයෙන්ම සිරකරුවන් 24ක් නිදහස් කෙරුණු අතර එය වාර්තා අතරට එක්ව ඇත්තේ, ශීත යුද්ධයෙන් පසුව රුසියාව සහ බටහිර රටවල් අතර සිදුවූ විශාලතම සිරකරුවන් හුවමාරුව ලෙසය.
+
+තුර්කියේ අන්කාරා ගුවන්තොටුපළේදී සිදුවූ සිරකරු හුවමාරුවේදී රුසියාව සිරකරුවන් 16 දෙනෙකු නිදහස් කර තිබුණි.
+
+ඒ අතරට ඔත්තු බැලීමේ චෝදනාව මත රුසියාව අත්අඩංගුවට ගත් අමෙරිකාවේ වෝල් ස්ට්‍රීට් සඟරාවේ වාර්තාකරුවෙකු වන ඉවාන් ගෙර්ෂ්කොවිච් ද අයත්ය.
+
+නිදහස ලැබූ සිරකරුවන්ගේ ඥාතීන් ඕවල් කාර්යාලය වෙත කැඳවීමටත් අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් පියවර ගෙන තිබුණි.
+
+සිරකරුවන් හුවමාරුවෙන් පසුව අමෙරිකාව අයුතු රඳවා තැබීම් සංකේතවත් කෙරෙන ධජය ඔසවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඒ වෙනුවට අමෙරිකාව, නෝර්වේ, ජර්මනිය, පෝලන්තය සහ ස්ලෝවේනියාව යන රටවල සිටි රුසියානු සිරකරුවන් 8 දෙනෙකු නිදහස් කර ඇති බවද විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7b8b42c6.json)
+
+---
+
+### මන්නාරම සුළං විදුලි බලාගාර ව්‍යාපෘතියට එරෙහි පෙත්සම් සලකා බැලීමට දින දෙයි
+
+*2024-08-02 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199487) · `si`
+
+මන්නාරම වෙඩිතලතීවූ ප්‍රදේශයේ සුළං විදුලි බලාගාරයක් ඉදිකිරීමට ඉන්දියාවේ අදානි සමාගම වෙත ලබා දී තිබෙන අමාත්‍ය මණ්ඩල අනුමැතිය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් පහක් සලකා බැලීම සඳහා ඔක්තෝබර් මස 14 දා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.
+
+එස්. තුරෙයි රාජා, ඒ එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පුලි යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් අද (02) කැඳවනු ලැබුණි.
+
+පෙත්සම්වලට අදාළ සීමිත විරෝධතා ඇත්නම් ඒවා අගෝස්තු මස 20 වනදාට පෙර ගොනුකරන ලෙසත් වග උත්තරකරුවන්ට  නියෝග කළ විනිසුරු මඩුල්ල ඊට අදාළ ප්‍රතිවිරෝධතා තිබේ නම් ඒවා සැප්තැම්බර් මස 13 වනදාට පෙර ගොනුකරන ලෙසත් පෙත්සම්කාර පාර්ශවයට නියෝග කෙරුණි.
+
+පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පාර්ශ්ව පහක් විසින් මෙම පෙත්සම් ඉදිරිපත් කරමින් යෝජිත සුළං බලාගාරය ඉදිකරනු ලැබුවහොත් ඒ තුළින් පාරසරික ජෛව විවිධත්වයට දැඩි බලපෑමක් එල්ලවන බවත් බලාගාරය තුළින් සංක්‍රමණික පක්ෂීන්ගේ ජීවිත දැඩි අනතුරට ලක්වීමට ඉඩ තිබෙන බවත් සඳහන් කර තිබුණි.
+
+◼️
+
+[Data](articles/a3a951e9.json)
+
+---
 
 ### India in front of India
 
@@ -2123,53 +2165,5 @@ The party must decide. Not me. Mahinda Rajapaksa said that if the party says to 
 [Data](articles/9c7f285a.json)
 
 [Extended Data](ext_articles/9c7f285a.ext.json)
-
----
-
-### The hint of the IMF 4th Premium
-
-*2024-08-01 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199466) · `si`
-
-The IMF urged Sri Lanka to quickly stabilize its economy, emphasizing the importance of completing the third review to secure the fourth tranche of funds promptly. Delaying the fourth premium could negatively impact the country's economic stability. The IMF loan, totaling $2.9 billion, began with the first installment in March 2023, followed by subsequent installments, with the third concluding last June.
-
-🟩
-
-The International Monetary Fund commended the Member of the International Monetary Fund to stabilize the country in a short while, he said.
-
-A discussion of the International Monetary Fund and the President today (01) is between the President today.
-
-State Minister Shehan Semasinghe commented on Ada Derana,
-
-"We also discussed the necessary program to complete the third review of the third review without interruption and obtain the 4th premium without delay in the 4th premium.. It's very important to us. If the release of the 4th Premium is delayed for some reason, the country's economic situation has a negative effect. "
-
-Under the International Monetary Fund Loan, US $ 2.9 billion was approved by US $ 2.9 billion in the early 2023.
-
-The first installment was approved in March 2023, and then the second installment was completed in December, the third installment last June last year.
-
-Sri Lanka were also able to conclude a successful agreement with the restructuring program.
-
-◼️
-
-[Data](articles/eabf4170.json)
-
-[Extended Data](ext_articles/eabf4170.ext.json)
-
----
-
-### Sri Lanka to repatriate expatriate workers if Iran conflict escalates
-
-*2024-08-01 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100927/sri-lanka-to-repatriate-expatriate-workers-if-iran-conflict-escalates) · `en`
-
-Amid rising tensions in Iran following the assassination of Hamas leader Ismail Haniyeh, Sri Lanka’s Foreign Minister Ali Sabry assured that the government has a plan in place to repatriate Sri Lankan expatriate workers in the region in the event the conflict escalates to violence.
-
-Minister Sabry also affirmed that the President has appointed two committees to monitor this situation and to take necessary measures.
-
-“Yesterday, the President instructed us not to leave anything to chance and to be ready for every eventuality. That is why he appointed 2 committees to monitor this situation and to take necessary measures”, he added.
-
-...
-
-[Data](articles/e69c8463.json)
-
-[Extended Data](ext_articles/e69c8463.ext.json)
 
 ---

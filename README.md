@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 08:36:05**
+As of **2024-08-02 08:55:25**
 
 ## Newspaper Stats
 
-*Scraped **38,576** Articles*
+*Scraped **38,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,541
-adaderanalk | 4,456
+adaderanalk | 4,457
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,790
+tamilmirrorlk | 4,791
 virakesarilk | 6,103
 adaderanasinhalalk | 6,498
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,576 (100.0%) of 38,576 articles have been extended.
+38,576 (100.0%) of 38,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Showers and strong winds expected in parts of the island
+
+*2024-08-02 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100930/showers-and-strong-winds-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Badulla, Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Northern, North-central and North-western provinces and in Trincomalee, Hambantota and Monaragala districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/7c63c256.json)
+
+---
+
+### பல பகுதிகளில் இன்றும் மழை பெய்யும்
+
+*2024-08-02 08:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இன்றும்-மழை-பெய்யும்/175-341439) · `ta`
+
+பதுளை, அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழைபெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+அத்துடன், மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-55 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக் கூடும்
+
+ஏனைய பிரதேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோமீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+◼️
+
+[Data](articles/5bfb7d9f.json)
+
+---
 
 ### Notice of Sri Lankan workers in Middle East
 
@@ -58,7 +92,15 @@ He points out that if the crisis is intensified, steps will be taken to expedite
 
 The Online Safety (Amendment) Bill has been published via government gazette.
 
-◼️
+The Online Safety Bill has been a subject of debate and contention, with several parties having raised concerns about potential limitations on freedom of expression, and other potential violations of the Constitution through its provisions.
+
+Accordingly, the Cabinet of Ministers had granted approval to publish the revised Online Safety Bill in the government gazette and to table it in Parliament on July 23.
+
+Before the bill was passed in the Parliament, the experts in the field expressed their concerns for amendments of certain sections in the bill, yet there was no possibility to include such amendment proposals in the bill at the committee stage.
+
+Therefore, approval of the Cabinet of Ministers was granted at their meeting held on February 12, 2024, to prepare a draft bill to amend the Security of Online Methods Act No. 9 of 2024 with the said amendments.
+
+...
 
 [Data](articles/ffe6aa12.json)
 
@@ -2127,49 +2169,5 @@ The 1990 Swaseriya Foundation has played an important role in providing free pre
 [Data](articles/830bc9a0.json)
 
 [Extended Data](ext_articles/830bc9a0.ext.json)
-
----
-
-### Discussed with the hyjobation powder?
-
-*2024-08-01 15:43:20* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-පොහොට්ටුව-සමග-සාකච්ඡා-කළාද-/11-411146) · `si`
-
-No political discussions with holy power leaders; believe country is bankrupt due to corruption; advocate for a responsible president to address issues.
-
-🟩
-
-There is no political discussion with none of the people in the holy power or the leaders of the pointer. We still think the country is bankrupt. Because they are the country's intense. Our aviation is the appointment of a responsible president.
-
-◼️
-
-[Data](articles/b25cd175.json)
-
-[Extended Data](ext_articles/b25cd175.ext.json)
-
----
-
-### Scholarship premium will be referred to financial accounts
-
-*2024-08-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199450) · `si`
-
-The Presidential Fund announced direct scholarship payments to recipients, including 6,000 students for the GCE Advanced Level exam and 100,000 students for monthly premiums. Additionally, 500 lay clergymen and 3,000 scholarship students from Pirivena and Sea Institutes received funds. These scholarships, totaling over Rs. 5 billion, will be disbursed in August 2024.
-
-🟩
-
-According to the Presidential Media Unit, a scholarship installment for the recipients of scholarships under the Presidential Fund will be directed directly to the class of scholarships today (01).
-
-The scholarship installments have been informed of the scholarships to the banking banks (SMS).
-
-2022/2023 GCE Ordinary Level A / L reviewThe 6th installment of scholarships paid to 6,000 students to sit for the GCE Advanced Level examination have also been credited to relevant accounts.
-
-Similarly, 100,000 scholarship premium paid to 100,000 scholarship premium per month and the students of Pirivena and Sea Institutes of Pirivena and Sea Institutes of Pirivena (O / L) / GCE O / L examination / O / L examination per month400 scholarship installments paid to 500 lay clergymen for 500 GCE Advances
-
-Further, 3,000 scholarships paid to 3,000 scholarship students paid to 3,000 scholarship students per month on Pirivenas and Sea Institutions.
-
-...
-
-[Data](articles/50309f9c.json)
-
-[Extended Data](ext_articles/50309f9c.ext.json)
 
 ---

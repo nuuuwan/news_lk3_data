@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 14:08:13**
+As of **2024-08-02 14:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,624** Articles*
+*Scraped **38,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
-economynextcom | 2,331
+economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,548
 adaderanalk | 4,468
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,506
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,622 (100.0%) of 38,624 articles have been extended.
+38,624 (100.0%) of 38,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### හුණුපිටිය ගංගාරාමාධිපති පූජ්‍ය ගලබොඩ ඥාණිස්සර හිමි අපවත් වෙති
+### Galaboda Gnanissara Thero is Ven. Hunupitiya Ranga Paramathi
 
 *2024-08-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199483) · `si`
 
-කලක් රෝගාතුරව සිටි උන්වහන්සේ අද (02) උදෑසන ඇතිවූ හදිසි රෝගී තත්ත්වයක් මත කොළඹ පෞද්ගලික රෝහලකට ඇතුළත් කර තිබුණි.
+Ven. Galaboda Gnanissara Thero, also known as Ven. Hunupitiya Ranga Paramaiththi, a prominent figure in the Sasanawa and Social Mission, was hospitalized in Colombo at 81 years old.
 
-දශක ගණනාවක් ශාසනික උන්නතියට සහ සමාජ මෙහෙවර වෙනුවෙන් දායක වූ උන්වහන්සේ අපවත් වන විට 81 වැනි වියේ පසුවිය.
+🟩
+
+He was admitted to a private hospital in Colombo today (02).
+
+The 81st was the 81-year-old he was involved in the Sasanawa and Social Mission.
 
 ◼️
 
 [Data](articles/40606f95.json)
+
+[Extended Data](ext_articles/40606f95.ext.json)
 
 ---
 
@@ -64,17 +70,23 @@ Sources said that Thero was receiving treatment at a private hospital in Colombo
 
 ---
 
-### கங்காராமய விஹாரதிபதி காலமானார்
+### Kangarayamaya Viharathi has passed away
 
 *2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விஹாரதிபதி-காலமானார்/175-341458) · `ta`
 
-பொடி ஹமுதுருவோ என அழைக்கப்படும் கொழும்பு கங்காராமய விகாரையின் விஹாரதிபதி  கலாநிதி கல்பொட ஞானிஸ்ஸர தேரர்  காலமானார். இறக்கும் அவருக்கு 8- வயதாகும்.
+Dr. Kalpoda Gnanisara Thera, known as Podi Hamuduruwo, aged 8, has passed away. Born on December 13, 1943, he dedicated his life to Buddhism, emphasizing mercy, equality, and service to humanity.
 
-1943 டிசம்பர் 13,  இல் பிறந்த பொடி ஹமுதுருவோ, இரக்கம், சமத்துவம் மற்றும் மனித குலத்திற்கு சேவை செய்வதற்கான ஆழ்ந்த அர்ப்பணிப்பால் வழிநடத்தப்பட்ட பௌத்த கொள்கைகளின் நடைமுறை மற்றும் பிரசாரத்திற்காக தனது வாழ்க்கையை அர்ப்பணித்துள்ளார்.
+🟩
+
+Dr. Kalpoda Gnanisara Thera has passed away from the Kangaramaiah Vihara, known as Podi Hamuduruo.. He is 8- years old.
+
+Born on December 13, 1943, Powder Hamuduro devoted his life to the practical and propaganda of Buddhist principles led by mercy, equality and humanity to serve humanity.
 
 ◼️
 
 [Data](articles/90a14685.json)
+
+[Extended Data](ext_articles/90a14685.ext.json)
 
 ---
 
@@ -95,6 +107,24 @@ Born on December 13, 1943, Powder Hamuduro devoted his life to the practical and
 [Data](articles/bdebd4a3.json)
 
 [Extended Data](ext_articles/bdebd4a3.ext.json)
+
+---
+
+### Sri Lanka, Maldives, US Air forces in disaster response exercise
+
+*2024-08-02 13:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-maldives-us-air-forces-in-disaster-response-exercise-174905/) · `en`
+
+ECONOMYNEXT – Air forces of Sri Lanka, Maldives and the US will conduct joint exercises to boost disaster response, the American embassy in Colombo said.
+
+The Montana National Guard and US Pacific Air Forces will conduct with the Sri Lanka Air Force and members of the Maldives National Defense Force, in the exercises labelled, ‘Atlas Angel.’
+
+“With events in both Trincomalee and Colombo, and US C-130s flying personnel between the two cities, this exercise will culminate in a crisis management simulation to test our response capabilities, ensuring maximum preparedness in the event of true disaster,” the Embassy said.
+
+The joint military exercise, aimed at enhancing preparation and response to natural and man-made disasters, will be held from August 5-9, with more than 70 US personnel and two C-130 Hercules aircraft participating alongside their Sri Lankan and Maldivian counterparts.
+
+...
+
+[Data](articles/ce463eda.json)
 
 ---
 
@@ -289,6 +319,24 @@ The CID informed the court on the 26 months of the incident in an investigation 
 [Data](articles/b6493ec0.json)
 
 [Extended Data](ext_articles/b6493ec0.ext.json)
+
+---
+
+### Sri Lanka launches Institute of Industry Professionals
+
+*2024-08-02 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-institute-of-industry-professionals-174894/) · `en`
+
+ECONOMYNEXT – The Industry Development Board (IDB) has launched the Sri Lanka Institute of Industry Professionals (SLIIP) to ‘provide an active platform for solving industry related issues’.
+
+SLIPP will operate under the Ministry of Industries to develop the sector. It was “established for professionals in the sector with the aim of improving the knowledge, experience and skills required to uplift the industry sector, IDB said.
+
+“It is important for industrialists and entrepreneurs to move strongly in the country’s economic development,” Minister of Industries Dr Ramesh Pathirana was quoted in an IDB statement.
+
+The expertise of new professionals would be used for industry sector advancement, to increase communication among industry professionals, provide an active platform for solving industry related issues, and provide training programs for professionals.
+
+...
+
+[Data](articles/86feb9fd.json)
 
 ---
 
@@ -2147,45 +2195,5 @@ Three fire trucks have been dispatched to control the fire, the fire department 
 [Data](articles/488c1063.json)
 
 [Extended Data](ext_articles/488c1063.ext.json)
-
----
-
-### Fire in Maligawatta
-
-*2024-08-01 19:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தையில்-தீப்பரவல்/175-341422) · `ta`
-
-A fire broke out in a two-storey building in Maligawatta, with three fire trucks sent to contain it.
-
-🟩
-
-A fire has been reported in a two -storey building in the Maligawatta area.
-
-3 fire trucks have been dispatched to control the fire, the fire brigade said. Remble
-
-◼️
-
-[Data](articles/a1f7f977.json)
-
-[Extended Data](ext_articles/a1f7f977.ext.json)
-
----
-
-### Happy notice of permanent land guarantees
-
-*2024-08-01 19:27:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-காணி-உறுதிப்-பத்திரங்கள்-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341421) · `ta`
-
-Dr. Ranjith Siyambalapitiya announced that the President's initiative ensures permanent land rights for plantation workers, enhancing their social status without restricting residency rights. This move aims to address historical injustices faced by plantation communities over 200 years.
-
-🟩
-
-Plantation Reorganization Minister Dr. Ranjith Siyambalapitiya said that the President's program continues to provide permanent land guarantees for the real socialization of the plantation people and the president's program continues without limiting the right to the residence.
-
-The Minister said that the plantation people with about 200 years of history are more affected by land that is not right for themselves.. Remble
-
-◼️
-
-[Data](articles/bd21ce55.json)
-
-[Extended Data](ext_articles/bd21ce55.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 01:55:08**
+As of **2024-08-03 02:06:00**
 
 ## Newspaper Stats
 
-*Scraped **38,712** Articles*
+*Scraped **38,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,345
-dailyftlk | 2,491
+dailyftlk | 2,494
 adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
@@ -26,11 +26,55 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,712 (100.0%) of 38,712 articles have been extended.
+38,712 (100.0%) of 38,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Lankapak 2024 Expo, Annual Packaging Congress and Lanka Star Awards in Oct.
+
+*2024-08-03 00:53:52* · [`dailyftlk`](https://www.ft.lk/business/Lankapak-2024-Expo-Annual-Packaging-Congress-and-Lanka-Star-Awards-in-Oct/34-765108) · `en`
+
+The Sri Lanka Institute of Packaging has announced the 25th edition of the packaging hall mark event in South Asia comprising “Lankapak 2024” Exhibition, Annual Packaging Congress from 25 to 27 October together with “Lanka Star Awards”.
+
+Organised by the Sri Lanka Institute of Packaging and CDC Events, the amplified 25th edition of Lankapak is backed by both state and private sector which aims to reach new heights by setting international standards, making it a mega event in Sri Lanka. With its concurrent programs, such as the Annual Packaging Congress, Lanka 5P, and Lanka Paper EXPO 2024, the event becomes South Asia’s premier expo for packaging, processing, printing, and plastic industries taking place at the Sirimavo Bandaranaike Memorial Exhibition Centre.
+
+...
+
+[Data](articles/673cc9ee.json)
+
+---
+
+### India’s Hinduja Group seeks to strengthen ties  with Sri Lanka
+
+*2024-08-03 00:53:17* · [`dailyftlk`](https://www.ft.lk/business/India-s-Hinduja-Group-seeks-to-strengthen-ties-with-Sri-Lanka/34-765107) · `en`
+
+Sri Lankan High Commissioner to the United Kingdom Rohitha Bogollagama participated in a productive meeting with Hinduja Chairman Gopichand P. Hinduja, Ashok Leyland Chairman Dheeraj G. Hinduja, Hinduja Investments Project Services CEO Vivek Nanda and their senior management team on 29 July.
+
+The Hinduja Group has excelled in diverse fields with a strong global presence in areas such as shipping, automotive manufacturing, renewable energy, IT-enabled services, banking and financial services, trading, healthcare, real estate, and petroleum downstream development.
+
+...
+
+[Data](articles/f972c0b5.json)
+
+---
+
+### Durdans Hospital reaffirms leading position with third JCI re-accreditation to drive medical tourism in Sri Lanka
+
+*2024-08-03 00:52:33* · [`dailyftlk`](https://www.ft.lk/business/Durdans-Hospital-reaffirms-leading-position-with-third-JCI-re-accreditation-to-drive-medical-tourism-in-Sri-Lanka/34-765106) · `en`
+
+From left: Chief Nursing Officer Janaki Ruwanpura, Medical Services Manager Dr. Dharani Jayasinghe, Medical Services Deputy Director Dr. Ravi Nanayakkara, Executive Director Aminda Tudawe, Chief Operating Officer Mahanil Perera, Chief Medical Officer Dr. Thushari Perera, and Quality Assurance Senior Manager Nishadi Vithanage
+
+Durdans Hospital reaffirms once again its position as a leader in healthcare by securing the Joint Commission International, USA (JCI) re-accreditation for the third time.
+
+While symbolising Durdans Hospital’s unwavering commitment to excellence in patient care and safety, this achievement also highlights Sri Lanka’s appeal as a destination for medical tourism. With Sri Lanka experiencing a tourism boom and enjoying a robust, affordable, and reliable healthcare sector led by institutions like Durdans Hospital, the country is gaining a growing reputation for medical tourism.
+
+...
+
+[Data](articles/0de73126.json)
+
+---
 
 ### SJB was formed to end deal politics: Marikkar
 
@@ -2219,71 +2263,5 @@ During today’s court proceedings, President’s Counsel Upul Jayasuriya who ap
 [Data](articles/3042a778.json)
 
 [Extended Data](ext_articles/3042a778.ext.json)
-
----
-
-### PHI murder suspect is detained and interrogates
-
-*2024-08-02 12:19:42* · [`adalk`](https://www.ada.lk/breaking_news/PHI-ඝාතන-සැකකරු-රඳවාගෙන-ප්‍රශ්න-කරනවා/11-411165) · `si`
-
-Rosha Kumara, treasurer of the Public Health Inspectors' Association, was arrested and questioned by the CID on suspicion of involvement in human killings and terrorism. The arrest came after a request from the Criminal Investigation Department (CID) on December 12th, following a 26-month investigation into the incidents by the Sri Lanka Public Health Inspectors' Association.
-
-🟩
-
-Treasurer's Association of Public Health Inspectors' Association Rosha Kumara was detained on suspect, the arrested suspect was detained and questioned yesterday.
-
-The CID notified that he was detained and interrogated by the Elpitiya Magistrate's Court regarding the treatment of human killings and terrorist activities.
-
-The CID requested the suspect in the Criminal Investigation Department on the 12th of this month.
-
-The CID informed the court on the 26 months of the incident in an investigation by the Sri Lanka Public Health Inspectors' Association of Sri Lanka.There was.
-
-◼️
-
-[Data](articles/b6493ec0.json)
-
-[Extended Data](ext_articles/b6493ec0.ext.json)
-
----
-
-### Sri Lanka launches Institute of Industry Professionals
-
-*2024-08-02 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-institute-of-industry-professionals-174894/) · `en`
-
-ECONOMYNEXT – The Industry Development Board (IDB) has launched the Sri Lanka Institute of Industry Professionals (SLIIP) to ‘provide an active platform for solving industry related issues’.
-
-SLIPP will operate under the Ministry of Industries to develop the sector. It was “established for professionals in the sector with the aim of improving the knowledge, experience and skills required to uplift the industry sector, IDB said.
-
-“It is important for industrialists and entrepreneurs to move strongly in the country’s economic development,” Minister of Industries Dr Ramesh Pathirana was quoted in an IDB statement.
-
-The expertise of new professionals would be used for industry sector advancement, to increase communication among industry professionals, provide an active platform for solving industry related issues, and provide training programs for professionals.
-
-...
-
-[Data](articles/86feb9fd.json)
-
-[Extended Data](ext_articles/86feb9fd.ext.json)
-
----
-
-### 26 public leave next year - 5 year holidays
-
-*2024-08-02 12:08:33* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේදී-රජයේ-නිවාඩු-26ක්----අවුරුදු-සතියේ-නිවාඩු-5-ක්/11-411164) · `si`
-
-In 2025, Sri Lanka introduced 26 public and bank holidays, including a full week for New Year celebrations, and a holiday before the Sinhala and Hindu New Year on April 13.
-
-🟩
-
-A special gazette notification has been issued by the year 2025 public leave and bank holidays. In the year, 26 government and bank holidays have been launched.
-
-The New Year's week will seem to have five holidays.
-
-April 13 - Day Prior to Sunday Sinhala and Hindu New Year
-
-◼️
-
-[Data](articles/1e2a20c7.json)
-
-[Extended Data](ext_articles/1e2a20c7.ext.json)
 
 ---

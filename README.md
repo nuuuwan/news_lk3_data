@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 16:36:00**
+As of **2024-08-02 16:53:03**
 
 ## Newspaper Stats
 
-*Scraped **38,644** Articles*
+*Scraped **38,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,550
-adaderanalk | 4,473
+adaderanalk | 4,474
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,803
 virakesarilk | 6,111
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,642 (100.0%) of 38,644 articles have been extended.
+38,644 (100.0%) of 38,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### SC to consider petitions against Adani wind power project in Mannar
+
+*2024-08-02 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100949/sc-to-consider-petitions-against-adani-wind-power-project-in-mannar) · `en`
+
+The Supreme Court has fixed for consideration on October 14 the five Fundamental Rights petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar.
+
+The petitions were taken up today (02) before the Supreme Court judge bench consisting of Justices, S. Thurairaja, A.H.M.D. Nawaz, Shiran Gunaratne and Achala Wengappuli.
+
+The respondents named in the petitions were ordered by the court to file limited objections, if any, before August 20 while any counter objections related to those were ordered to be filed before September 13.
+
+The petitions, submitted by five parties including the Centre for Environmental Justice, argue that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
+
+◼️
+
+[Data](articles/7f67aeef.json)
+
+---
 
 ### AKD holds talks with Ceylon Chamber of Commerce
 
@@ -52,19 +70,29 @@ A delegation of the Ceylon Chamber of Commerce including the Vice Chairperson, K
 
 ---
 
-### මැණික් අධිකාරියට මිලියන 14ක් දී ගත් ඉඩමෙන් ප්‍රයෝජනයක් ගෙන නෑ
+### The Gem Authority has not been given 14 million rupees
 
 *2024-08-02 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199489) · `si`
 
-මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනයේ රත්නපුර දිස්ත්‍රික් කාර්යාලය ඉදිකිරීම සඳහා මිලියන 14ක් වැයකර ලබා ගත් ඉඩමෙන් මේ වනතෙක් කිසිදු ප්‍රයෝජනයක් ගෙන නැතැයි පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී හෙළිව තිබේ.
+The Gem and Jewelry Research and Training Institute failed to utilize allocated funds, as disclosed at a sectoral oversight committee meeting. The institute did not spend the designated amount for land acquisition and faces financial issues, including unpaid rents and operational costs. The committee highlighted the need for the institute's courses to become profitable and ensured that public funds would be safeguarded. Discussions also covered the state of the international gem market and the implementation of the gem and jewelry industry in Sri Lanka.
 
-මේ පිළිබඳ අවධානය යොමු වුයේ පසුගිය 24 වන දා පාර්ලිමේන්තු මන්ත්‍රී අජිත් මාන්නප්පෙරුම මහතාගේ සභාපතිත්වයෙන් රැස්වූ පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභා රැස්වීමේදී වන අතර ඒ සඳහා මැණික් හා ස්වර්ණාභරණ පර්යේෂණ හා අභ්‍යාස ආයතනය කැඳවා තිබිණි.
+🟩
 
-මෙම ආයතනයේ රත්නපුර දිස්ත්‍රික් කාර්යාලය ඉදිකිරීම සඳහා 2016 වර්ෂයේ දී තිස් අවුරුදු බදු පදනම යටතේ, රු.මිලියන 14ක් වැය කොට ලබා ගත් ඉඩමේ මේ වනතෙක් කිසිදු ප්‍රයෝජනයක් ගෙන නොමැති බවට මෙහිදී අනාවරණය වී තිබේ.
+It has been revealed at the sectoral Oversight Committee on the land, natural resources and sustainable development that the Gem and Jewelery Research and Training Institute has not taken any more use.
+
+The meeting was held at the meeting of MP Ajith Mannapperuma on the 24th and the Gem and Jewelery Research and Training Institute.
+
+It has been revealed that no avail had been taken out on the right land to be spent on Rs.
+
+Further, the company is Rs.. 10 lakhs and Rs.. It has been revealed that the monthly rent of Rs.. The Committee also focused on making the courses conducted by the Gem and Jewelery Research and Training Institute into the profit-making courses.
+
+Accordingly, at the sectoral Oversight Committee was emphasized at the sectoral Oversight Committee on the environment, natural resources and sustainable development that the money of the people of the country will not be paid.
 
 ...
 
 [Data](articles/eee806af.json)
+
+[Extended Data](ext_articles/eee806af.ext.json)
 
 ---
 
@@ -316,15 +344,21 @@ Seven persons, including the boy's boyfriend, her father, sister, little father,
 
 ---
 
-### හුණුපිටියේ ගංගාරාමාධිපති ගල්බොඩ ඥානිස්සර නාහිමියෝ අපවත්වෙති
+### Hunupitiya River Gangaramma Gnanissara Thera is weigated
 
 *2024-08-02 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/හුණුපිටියේ-ගංගාරාමාධිපති-ගල්බොඩ-ඥානිස්සර-නාහිමියෝ-අපවත්වෙති/11-411166) · `si`
 
-කොළඹ 2 හුණුපිටියේ ගංගාරාමාධිපති කොළඹ නව කෝරලයේ ප්‍රධාන සංඝ නායක ගලබොඩ ඥානිස්සර හිමියන්  අද (2) දහවල් අපවත් වී ඇත. ශාසනික මෙන්ම සමාජමය අතිමහත් සේවාවක් කල උන්වහන්සේ අපවත්වන විට 81 වන වියේ පසු වූහ.
+Gangaramma Gnanissara Thero, a prominent Buddhist monk from Hunupitiya, Colombo, recently turned 81. Despite his age, he remains active in social services within the new Korale area.
+
+🟩
+
+Gangaramma Gnanissara Thero, the main Sangha Leaders of the new Korale in Hunupita, Colombo has been in Colombo today (2) afternoon. When he was a socio-social service, he was 81 years old.
 
 ◼️
 
 [Data](articles/4c3bb2a8.json)
+
+[Extended Data](ext_articles/4c3bb2a8.ext.json)
 
 ---
 
@@ -2129,29 +2163,5 @@ A Sri Lankan navy ship and Indian fishing boat crashed 5 miles north of Kachchat
 [Data](articles/c9cf6e49.json)
 
 [Extended Data](ext_articles/c9cf6e49.ext.json)
-
----
-
-### International Monetary Fund Officers who are holding multiple meetings in Colombo
-
-*2024-08-02 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190049) · `ta`
-
-IMF officers, led by Peter Brouver, visited Colombo for economic discussions with Sri Lanka's President, Central Bank Governor, Treasury Secretary, business leaders, and opposition figures. The visit aims to assess the impact of the country's financial reforms under IMF guidance. A media briefing will conclude the visit, likely announcing the next steps in Sri Lanka's economic strategy.
-
-🟩
-
-The International Monetary Finance Committee of Sri Lanka has held talks with various parties, including the President and the Leader of the Opposition.
-
-A team of officials led by the International Monetary Fund, Peter Brouver, have visited Colombo to investigate the pros and cons of the country's economy under the expanded financial system reached with the International Monetary Fund and the advances imposed by the Monetary Fund.
-
-They have held talks with President Ranil Wickremesinghe, Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, representatives of the Opposition Leader Sajith Premadasa, Leaders of Business Organizations and Trade Union Funds.
-
-The IMF officials intend to hold a media briefing at the conclusion of the meeting, which will announce their observations and positions.. It is expected to be a third phase of the IMF officials on Sri Lanka's expanded financial process.
-
-◼️
-
-[Data](articles/a64ab1f2.json)
-
-[Extended Data](ext_articles/a64ab1f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 17:36:30**
+As of **2024-08-02 17:57:16**
 
 ## Newspaper Stats
 
-*Scraped **38,652** Articles*
+*Scraped **38,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,96 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
-adalk | 3,551
+adalk | 3,552
 adaderanalk | 4,477
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,804
+tamilmirrorlk | 4,806
 virakesarilk | 6,111
-adaderanasinhalalk | 6,514
+adaderanasinhalalk | 6,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,649 (100.0%) of 38,652 articles have been extended.
+38,652 (100.0%) of 38,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### අපවත් වී වදාළ ගලබොඩ ඤාණිස්සර හිමිගේ ආදාහන පූජෝත්සවය පූර්ණ රාජ්‍ය ගෞරව සහිතව
+### ඇප තැබූ පිරිස 14ක් දක්වා ඉහළට
+
+*2024-08-02 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199492) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 14 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස, පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක, විජයදාස රාජපක්ෂ, කේ.කේ. පියදාස, සිරිතුංග ජයසූරිය, අජන්ත ද සොයිසා, කේ. ආනන්ද කුලරත්න, සරත් මනමේන්ද්‍ර, පූජ්‍ය බත්තරමුල්ලේ සීලරතන හිමි සහ අක්මීමන දයාරතන හිමි යන අය විසින් මෙලෙස ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/18d2e036.json)
+
+---
+
+### IMF தொடர்ந்து ஆதரவு
+
+*2024-08-02 17:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-தொடர்ந்து-ஆதரவு/175-341472) · `ta`
+
+இலங்கை அதிகாரிகளால் நடைமுறைப்படுத்தப்பட்ட பொருளாதார சீர்திருத்தங்கள் தொடர்ந்து மூன்று காலாண்டுகள் உண்மையான மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி, குறைந்த பணவீக்கம், அதிகரித்த வருவாய் சேகரிப்பு மற்றும் கட்டியெழுப்புதல் ஆகியவற்றின் மீட்சிக்கு பாராட்டுக்களையும் தெரிவித்துள்ளது.
+
+இலங்கையின் அனைத்து மக்களுக்கும் பயனளிக்கும் வகையில் பரந்த அடிப்படையிலான மற்றும் நிலையான பொருளாதார மீட்சியை உறுதிப்படுத்துவதற்கு சீர்திருத்த நிகழ்ச்சி நிரலில் தீர்க்கமான முன்னேற்றம் அவசியம் என்று தெரிவிக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/93580fef.json)
+
+---
+
+### பொருட்களின் விலையை குறைத்தது சதொச
+
+*2024-08-02 17:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலையை-குறைத்தது-சதொச/175-341471) · `ta`
+
+ஒரு கிலோ உருளைக்கிழங்கு 35 ரூபாயால் குறைப்பு - புதிய விலை 240 ரூபாய்,
+
+ஒரு கிலோ வெள்ளை கெளபி 22 ரூபாயால் குறைப்பு - புதிய விலை 998 ரூபாய்,
+
+ஒரு கிலோ இந்திய பெரிய வெங்காயம் 20 ரூபாயால் குறைப்பு - புதிய விலை 265 ரூபாய்,
+
+ஒரு கிலோ வெள்ளை சீனி 4 ரூபாயால் குறைப்பு - புதிய விலை 254 ரூபாய்,
+
+ஒரு கிலோ கீரி சம்பா 6 ரூபாயால் குறைப்பு - புதிய விலை 254 ரூபாய்,
+
+ஒரு கிலோ சிவப்பு சீனி 5 ரூபாயால் குறைப்பு - புதிய விலை 370 ரூபாய்,
+
+ஒரு கிலோ பருப்பு 5 ரூபாயால் குறைப்பு - புதிய விலை 285 ரூபாய்,
+
+ஒரு கிலோ சிவப்பு கெளபி 10 ரூபாயால் குறைப்பு - புதிய விலை 940 ரூபாய்
+
+இந்நிலையில் குறித்த விலை மாற்றங்கள் இன்று (02) முதல் நாடளாவிய ரீதியில் உள்ள அனைத்து லங்கா சதொச விற்பனை நிலையங்களிலும் அமுலுக்கு வருமென தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/ecec984a.json)
+
+---
+
+### Galaboda Nanissara Thero
 
 *2024-08-02 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199491) · `si`
 
-අපවත් වී වදාළ ගංගාරාම විහාරස්ථානයේ පූජ්‍ය ගලබොඩ ඤාණිස්සර නාහිමියන්ගේ (පොඩි හාමුදුරුවෝ) අවසන් කටයුතු රාජ්‍ය අනුග්‍රහය සහිතව සිදුකිරීමට නියමිතය.
+Ven. Galaboda Genissara Thera's funeral arrangements have been made known. The cremation ceremony will take place at the Viharaya near Gangarama on August 05th.
 
-ඒ අනුව අගෝස්තු 05 වනදා සවස විහාරස්ථානයට යාබද ක්‍රීඩාංගණයේදී ආදාහන පූජෝත්සවය පැවැත් වෙන බව ආදාහන කාරක සභාව දැනුම් දී තිබේ.
+🟩
+
+The funeral of Ven. Galaboda Genissara Thera of the Gangarama Ven.
+
+The Creator has been informed that the crendation of the crematology will be held at the Viharaya next to August 05.
 
 ◼️
 
 [Data](articles/2df6278d.json)
+
+[Extended Data](ext_articles/2df6278d.ext.json)
 
 ---
 
@@ -59,6 +121,8 @@ The Thero was reportedly receiving treatment at a private hospital in Colombo at
 ◼️
 
 [Data](articles/50cda584.json)
+
+[Extended Data](ext_articles/50cda584.ext.json)
 
 ---
 
@@ -120,27 +184,51 @@ Ranil Wickremesinghe supported the Sri Lanka PA (SLPP) Executive Committee meeti
 
 ---
 
-### දරුවා හප්පා පළා ගිය ලොරි ඩ්‍රයිවර්, ලුහුබැඳ ගිය පියාවත් ලයිට් කණුවක හප්පලා -CCTV
+### ඉන්දීය සබ්මැරීනයක් කොළඹ වරායට
+
+*2024-08-02 16:37:43* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරීනයක්-කොළඹ-වරායට/10-411169) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS Shalki’ සබ්මැරීනය නිල සංචාරයක් සඳහා අද දින (2024 අගෝස්තු 02) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම සබ්මැරීනය නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට පැමිණි ‘INS Shalki’සබ්මැරීනය, දිගින් මීටර් 64.4 ක් හා නැව් මුළුව 40 ක ගෙන් සමන්විත වන අතර, එහි අණදෙන නිලධාරී Commander Rahul Patnaik සහ බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චින්තක කුමාරසිංහ අතර නිල හමුවක් අද දින (2024 අගෝස්තු 02) එම විධාන මූලස්ථානයේදී සිදුකෙරිණි.
+
+‘INS Shalki’ සබ්මැරීනය දිවයිනේ රැඳී සිටින කාල සීමාව තුළ එහි මෙහෙයුම් ක්‍රියාකරීත්වය පිළිබඳව පැවැත්වෙන දැනුවත් කිරීමේ වැඩසටහනක් සඳහා ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් සහභාගී වීමට නියමිතව ඇති අතර, සබ්මැරීනයේ නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+තවද, මෙම නිල සංචාරය නිමා කරමින් 2024 අගෝස්තු මස 04 වන දින ‘INS Shalki’ සබ්මැරීනය දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/ba42a211.json)
+
+---
+
+### Child, Hirippa fifteed lorry drovers, tracked
 
 *2024-08-02 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199490) · `si`
 
-බලන්ගොඩ නගරයේදී යතුරුපැදියක් අනතුරට ලක්කර සත් හැවිරිදි දැරියකට තුවාල සිදුකර පළාගිය ලොරි රථයක් ලුහුබැඳ ගිය පියාව ද අනතුරට ලක්කර ඝාතනය කරන අයුරු CCTV කැමරාවක සටහන්ව තිබේ.
+A tragic incident occurred in Balangoda when a two-year-old girl was run over by a lorry driven by Hirippa Fifteed. The girl's father, in pursuit of justice, chased the lorry on his motorcycle but was injured. The victim, identified as Thilana Rangalal, a 32-year-old father, was bitten by a dog earlier in the day. His wife described the heartbreaking scene where many lorries passed, and despite her screams, the child was hit. The community gathered around the accident, and the father vowed to fight for justice, showing an unwavering love and readiness to sacrifice for his child.
 
-අනතුරට ලක්වූ දැරියගේ පියා යතුරුපැදියෙන් ලොරිය ලුහුබැඳ ගොස් ලොරියේ රියදුරු අසුන පැත්තේ ඇති වීදුරුවේ එල්ලී රියදුරුව අල්ලා ගැනීමට උත්සාහ දරයි.
+🟩
 
-එහිදී ලොරි රථයේ රියදුරුව අල්ලා ගැනීමට දැරියගේ පියා උත්සාහ කර ඇති අතර එම අවස්ථාවේ ලොරි රථයේ රියදුරු විසින් නොනවත්වා ලොරිය ඉදිරියට ධාවනය කරයි.
+The CCTV camera has been reported to the carton of a two-year-old girl in Balangoda town.
 
-ඉන් අනතුරුව ලොරි රථයේ රියදුරු බලන්ගොඩ, කහටපිටිය මාර්ගයේ දී දැරියගේ පියාව විදුලි කණුවක හප්පා පළා ගොස් තිබේ.
+The father of the victim is pursuing the lorry on the motorcycle on the glass of the lorry on the side of the lorry.
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ තිලිණ රංගලාල් නැමති 32 හැවිරිදි පියෙකු බව පොලීසිය පැවසීය.
+The girl's father had tried to catch the lorry driver, and the lorry drives forward by the driver of the lorry.
 
-දැරියව බල්ලෙකු සපා කා ඇති අතර, පියා සහ මව යතුරුපැදියෙන් බලන්ගොඩ මුලික රෝහලට ගොස් නැවත එමින් සිටිය දී නෙල්ලි මිල දී ගැනීම සඳහා බලන්ගොඩ ප්‍රධාන බස් නැවතුම්පොළ හරහා යතුරුපැදිය ධාවනය කරන අතරතුර මෙලෙස අනතුරට ලක්ව තිබේ.
+The lorry's driver has followed the girl at the Kahatapitiya road in Balangoda.
 
-තුවාල ලැබු දරුවා බලන්ගොඩ මුලික රෝහලට ඇතුළත් කරන මෙන් පවසා සැමියා ලොරි රථය පිටුපස ලුහුබැඳ ගිය බව මියගිය පුද්ගලයාගේ බිරිඳ පැවසීය.
+The victim was a 32 year old father, Thilana Rangalal.
+
+The girl had bites a dog, while the father and mother was returning to the Balangoda's motorcycle and to buy Nellly through the main bus stand through the Balangoda main bus stand.
+
+The wife said that the husband was pursuing the lorry, who was injured and admitted to the Balangoda's hospital.
 
 ...
 
 [Data](articles/103876ea.json)
+
+[Extended Data](ext_articles/103876ea.ext.json)
 
 ---
 
@@ -2093,83 +2181,5 @@ Nominations will be accepted on 15 August from 9.00 a.m. to 11.00 a.m. with the 
 [Data](articles/fa137075.json)
 
 [Extended Data](ext_articles/fa137075.ext.json)
-
----
-
-### Shanakiyan calls for Viyalendran to resign from Ministerial post
-
-*2024-08-02 05:22:33* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-calls-for-Viyalendran-to-resign-from-Ministerial-post/56-765035) · `en`
-
-ITAK MP Shanakiyan Rasamanickam accuses State Minister Viyalanderan of being behind a Rs. 6 m bribe
-
-Says Minister must be asked to resign, and President must ensure there is no political influence over the investigation
-
-Ilankai Thamil Arasuk Katchi (ITAK) MP Shanakiyan Rasamanickam has called for the resignation of State Minister of Trade and Environment S. Viyalanderan after the latter’s private Secretary Y. Roshman was arrested over a bribery incident yesterday.
-
-Taking to X, ITAK MP Shanakiyan Rasamanickam said that Roshman was arrested in Batticaloa during a sting operation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). He said Roshman was allegedly soliciting a bribe of Rs. 6 million to grant a mining license. Rasamanickam suggested that the suspect had solicited the bribe on behalf of the minister.
-
-...
-
-[Data](articles/a6069cf9.json)
-
-[Extended Data](ext_articles/a6069cf9.ext.json)
-
----
-
-### India lodges strong opposition against death of poaching fisherman
-
-*2024-08-02 05:20:57* · [`dailyftlk`](https://www.ft.lk/news/India-lodges-strong-opposition-against-death-of-poaching-fisherman/56-765034) · `en`
-
-The Indian External Affairs Ministry has summoned the Sri Lankan Acting High Commissioner in New Delhi to lodge a strong protest over an incident involving the Sri Lankan Navy and an Indian fishing boat.
-
-A collision, which occurred on Thursday(01) morning, five nautical miles north of Katchatheevu Island, resulted in the death of one Indian fisherman and left another missing.
-
-The Indian fishermen were reportedly engaged in illegal poaching activities at the time of the incident.
-
-Out of the four fishermen on board, two were rescued and brought ashore to Kankesanthurai by the Sri Lankan Navy. A search operation is ongoing for the missing fisherman.
-
-The Indian Ministry of External Affairs has emphasised that the safety and security of Indian fishermen are of the highest priority. Indian Consulate officials in Jaffna have been instructed to provide immediate assistance to the fishermen and their families.
-
-...
-
-[Data](articles/c360953c.json)
-
-[Extended Data](ext_articles/c360953c.ext.json)
-
----
-
-### Sri Lankan mothers who are not freedom to breastfeed week
-
-*2024-08-02 04:57:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g9g1zmpg8o) · `si`
-
-In Sri Lanka, World Breastfeeding Week highlights the challenges faced by mothers amidst an economic crisis, emphasizing the importance of breastfeeding for both maternal and child health. Despite government initiatives like 84-day maternity leaves and support for breastfeeding in hospitals, working mothers, especially in the private sector, struggle with balancing work and breastfeeding due to long commutes and inadequate facilities. This issue affects not just physical health but also mental well-being, as seen in the experiences shared by mothers in various sectors. The call for better workplace policies and facilities to support lactating mothers is clear, highlighting the need for comprehensive solutions to ensure the health and success of both mothers and infants.
-
-🟩
-
-Sri Lankan mothers who are not freedom to breastfeed week
-
-World breast militation week to support all mothers close to all mothers. In the face of the economic crisis, many mothers who have joined in the current economic crisis, many mothers have difficult to give birth to their age and feeding foods have been a cause of breastfeeding. This year's world breastfeeding week is proposes to provide support to all mothers and provide breastfeeding.
-
-...
-
-[Data](articles/2a1405aa.json)
-
-[Extended Data](ext_articles/2a1405aa.ext.json)
-
----
-
-### Hemas Holdings delivers stable FY25 Q1 performance amidst market challenges
-
-*2024-08-02 02:57:00* · [`islandlk`](http://island.lk/hemas-holdings-delivers-stable-fy25-q1-performance-amidst-market-challenges/) · `en`
-
-Hemas Holdings PLC announced its financial results for the first quarter ended June 30, 2024, demonstrating resilience in a challenging economic environment.The Group’s consolidated revenue was Rs. 25.5 billion alongside operating profits of Rs. 1.9 billion and earnings of Rs. 0.9 billion. The revenue decrease compared to the previous year was largely due to downward price adjustments and subdued consumer spending, exacerbated by extended holidays in the first two months of the quarter. Despite the revenue dip, the Group’s profitability margins benefited from efficiency improvement initiatives and reduced finance costs.
-
-The Consumer Brands sector reported revenue of Rs. 8.9 billion, with operating profits of Rs. 0.8 billion and earnings of Rs. 0.6 billion. Despite lower revenue, margins improved due to supply chain efficiencies and productivity initiatives.
-
-...
-
-[Data](articles/7b8c994c.json)
-
-[Extended Data](ext_articles/7b8c994c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 09:36:21**
+As of **2024-08-02 09:55:34**
 
 ## Newspaper Stats
 
-*Scraped **38,584** Articles*
+*Scraped **38,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,542
-adaderanalk | 4,460
+adaderanalk | 4,461
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,791
 virakesarilk | 6,103
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,581 (100.0%) of 38,584 articles have been extended.
+38,584 (100.0%) of 38,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### US recognizes Maduro’s opponent as winner in Venezuela election
+
+*2024-08-02 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100934/-us-recognizes-maduros-opponent-as-winner-in-venezuela-election) · `en`
+
+The United States on Thursday recognized Venezuelan President Nicolas Maduro’s opponent and opposition candidate Edmundo Gonzalez as the winner of Venezuela’s disputed presidential election, rejecting Maduro’s claim of victory.
+
+"Given the overwhelming evidence, it is clear to the United States and, most importantly, to the Venezuelan people that Edmundo Gonzalez Urrutia won the most votes in Venezuela’s July 28 presidential election," U.S. Secretary of State Antony Blinken, opens new tab said in a statement on Thursday.
+
+The announcement from Washington did not go beyond congratulating him for a "successful campaign," the closest the U.S. has come since Sunday’s contested election to recognizing Gonzalez as the OPEC nation’s new leader.
+
+The dispute over the presidential election results has sparked protests in Venezuela. Venezuela’s electoral council proclaimed Maduro, who has been in power since 2013, the winner of the July 28 election with 51% of the vote.
+
+...
+
+[Data](articles/4d1b7b9b.json)
+
+---
 
 ### Eight foreign nationals arrested over cybercrimes
 
@@ -47,6 +65,8 @@ During the operation, police have seized 09 computers, 73 mobile phones and a la
 ◼️
 
 [Data](articles/c0e34ba6.json)
+
+[Extended Data](ext_articles/c0e34ba6.ext.json)
 
 ---
 
@@ -66,23 +86,31 @@ He underscored that President Wickremesinghe’s forward-thinking decisions have
 
 [Data](articles/27c561fc.json)
 
+[Extended Data](ext_articles/27c561fc.ext.json)
+
 ---
 
-### අපි පානය කරන ජලය ගැන හෙළිදරව්වක්
+### A revelation of the water we drink
 
 *2024-08-02 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199476) · `si`
 
-මෙරට ජනගහනයෙන් සියයට 67කට ආසන්න ප්‍රමාණයකට ආරක්ෂිත පානීය ජල පහසුකම් නොමැති බවට අනාවරණය වී තිබේ.
+Nearly 67% of Sri Lanka lacks safe drinking water, as per a UNICEF survey involving 3210 housing units across urban, rural, and estate areas in all 25 districts. The findings were disclosed by Professor Wasantha Athukorala from the University of Peradeniya, highlighting a significant issue affecting a majority of the population.
 
-ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව, ජල සම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශය සහ යුනිසෙෆ් ආයතනය එක්වී පානීය ජලයේ ගුණාත්මකභාවය පිළිබඳ සිදුකරන ලද ගෘහස්ථ සමීක්ෂණයේදී මේ පිළිබඳ කරුණු හෙළිවී ඇත.
+🟩
 
-ඒ සම්බන්ධයෙන් කරුණු හෙළිකරමින් පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා ඒ බව පැවසීය.
+It has been revealed that nearly 67 percent of Sri Lanka's population has no safe drinking water.
 
-මෙරට දිස්ත්‍රික්ක 25තුළ නාගරික, ග්‍රාමීය සහ වතු ක්ෂේත්‍ර ආවරණය වන පරිදි නිවාස ඒකක 3210ක නියැදීන් යොදාගනිමින් මෙම සමීක්ෂණය සිදුකර තිබේ.
+The Department of Census and Statistics Department, the Ministry of Water Supply and Estate Infrastructure Development and UNICEF has been revealed in the domestic survey conducted by UNICEF.
+
+Professor Wasantha Athukorala, the Department of Economics and Statistical Studies of the University of Peradeniya said that he will reveal the matter.
+
+The survey has been carried out using 3210 housing units covering urban, rural and estate areas in the 25 districts of this country.
 
 ◼️
 
 [Data](articles/632a349d.json)
+
+[Extended Data](ext_articles/632a349d.ext.json)
 
 ---
 
@@ -2131,27 +2159,5 @@ Senior DIG Lalith Pathinayake has been appointed to the work of Senior DIG (Admi
 [Data](articles/c95aaec4.json)
 
 [Extended Data](ext_articles/c95aaec4.ext.json)
-
----
-
-### Sri Lanka stocks close up, renewed interest in apparel
-
-*2024-08-01 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-renewed-interest-in-apparel-174838/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.29 percent, or 33.14 points, at 11,439; while the more liquid S&P SL20 Index closed up 0.62 percent, or 20.25 points, at 3,285.
-
-“It was a positive start for the month, there was more activity levels,” Softlogic Stockbrokers said. “There was renewed interest among market investors.”
-
-John Keells Holdings Plc was the top turnover generator of the day, after a slump yesterday due to low interim results and an impending rights issue. The share contributed 164 million rupees to turnover, and closed up at 175.25.
-
-There were two crossings in the day: Teejay Lanka Plc, which saw foreign interest, (up at 40.50) and Sampath Bank Plc (up at 75.50). They accounted for 12 percent of the total turnover.
-
-...
-
-[Data](articles/6b3c82b0.json)
-
-[Extended Data](ext_articles/6b3c82b0.ext.json)
 
 ---

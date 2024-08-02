@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 00:36:05**
+As of **2024-08-03 00:52:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,701 (100.0%) of 38,708 articles have been extended.
+38,708 (100.0%) of 38,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Speaking at a press conference at the Opposition leader’s office in Colombo, M
 
 [Data](articles/06f44b2e.json)
 
+[Extended Data](ext_articles/06f44b2e.ext.json)
+
 ---
 
 ### Presidential race expands to 14 candidates
@@ -71,6 +73,8 @@ According to the Election Commission, nominations will be accepted until 15 Augu
 ◼️
 
 [Data](articles/b4cc8d29.json)
+
+[Extended Data](ext_articles/b4cc8d29.ext.json)
 
 ---
 
@@ -92,6 +96,8 @@ In 2003, Ven. Gnanissara Thera was appointed by the Malwatta chapter as the Sang
 
 [Data](articles/06e6230f.json)
 
+[Extended Data](ext_articles/06e6230f.ext.json)
+
 ---
 
 ### PM Hasina says ‘Anarchists’ tried to create SL-type Aragalaya in Bangla
@@ -112,6 +118,8 @@ The unrest which took place in Bangladesh in mid-July killed at least 150 people
 
 [Data](articles/92f26f87.json)
 
+[Extended Data](ext_articles/92f26f87.ext.json)
+
 ---
 
 ### 2024-08-02 (Friday)
@@ -127,6 +135,8 @@ On 11 November 2024, less than four months away, the 29th meeting of the Confere
 ...
 
 [Data](articles/c23ee775.json)
+
+[Extended Data](ext_articles/c23ee775.ext.json)
 
 ---
 
@@ -144,6 +154,8 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 
 [Data](articles/7df98466.json)
 
+[Extended Data](ext_articles/7df98466.ext.json)
+
 ---
 
 ### Need for an epistemological break
@@ -157,6 +169,8 @@ Devolution of power to regions is essential for a democratic society. However, a
 ...
 
 [Data](articles/68254b11.json)
+
+[Extended Data](ext_articles/68254b11.ext.json)
 
 ---
 

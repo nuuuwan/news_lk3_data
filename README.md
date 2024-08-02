@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 15:20:44**
+As of **2024-08-02 15:36:13**
 
 ## Newspaper Stats
 
@@ -210,7 +210,7 @@ The 81st was the 81-year-old he was involved in the Sasanawa and Social Mission.
 
 *2024-08-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100942/chief-incumbent-of-hunupitiya-gangaramaya-temple-passes-away) · `en`
 
-The Chief Incumbent of Hunupitiya Gangaramaya Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly know as “Podi Hamuduruwo”, has passed away, a short while ago
+The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly know as “Podi Hamuduruwo”, has passed away, a short while ago.
 
 Ven. Galaboda Gnanissara Thero was aged 81 at the time of his passing.
 

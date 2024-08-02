@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 12:54:04**
+As of **2024-08-02 13:05:48**
 
 ## Newspaper Stats
 
-*Scraped **38,611** Articles*
+*Scraped **38,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
 adalk | 3,545
-adaderanalk | 4,465
+adaderanalk | 4,466
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,798
 virakesarilk | 6,108
-adaderanasinhalalk | 6,503
+adaderanasinhalalk | 6,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,602 (100.0%) of 38,611 articles have been extended.
+38,611 (100.0%) of 38,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ශ්‍රී ලංකා ඔලිම්පික් බලාපොරොත්තුව තරුෂි අද තරග බිමට
+
+*2024-08-02 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199481) · `si`
+
+'පැරිස් 2024' ඔලිම්පික් උළෙලේ ශ්‍රී ලංකාවේ ප්‍රධාන බලාපොරොත්තුවක් වන තරුෂි කරුණාරත්න සහභාගී වන කාන්තා මීටර් 800 ඉසව්වේ මූලික වටයේ තරග අද (02) පැවැත් වෙයි.
+
+තරුෂි එහි 06වැනි මූලික තරගයට සහභාගී වන අතර, එම තරග ඉසව්ව මෙරට වේලාවෙන් මධ්‍යම රාත්‍රී 12.00ට ආරම්භකිරීමට නියමිතව ඇත.
+
+මෙවර පැරිස් ඔලිම්පික් උළෙලේ මීටර් 800 කාන්තා ඉසව්වට සුදුසුකම් ලැබූ ක්‍රීඩිකාවන් අතරින්, ආසියානු කලාපයම නියෝජනය කර සිටින්නේ තරුෂිට අමතරව තවත් ක්‍රීඩිකාවන් තිදෙනෙකු පමණි.
+
+එම ක්‍රීඩිකාවන් පලස්තීනය, කුවෙට් හා බහරේනය නියෝජනය කරමින් තරග වඳිනු ඇත.
+
+එමෙන්ම තරුෂි තරගවදින 06වැනි මූලික තරගයේ සිටින එකම ආසියානු ක්‍රීඩිකාවද ඇය පමණක් වෙයි.
+
+◼️
+
+[Data](articles/64d9ea18.json)
+
+---
+
+### Allowance increase for public service pensioners
+
+*2024-08-02 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100939/allowance-increase-for-public-service-pensioners) · `en`
+
+Minister of Finance Ranjith Siyambalapitiya stated that public service pensioners will receive an additional allowance of Rs. 3,000, raising the total interim allowance to Rs. 5,500, effective from September.
+
+Following instructions from the President, an expert committee led by U. R. Senevirathne was formed to address salary disparities among public servants. Siyambalapitiya stated that, based on their review, the interim allowance will be provided until the revised salary structure is implemented in 2025.
+
+The State Minister noted that the government will incur an additional cost of Rs. 8.4 billion to pay this allowance to the retired community, totaling around 700,000 in the year 2024.
+
+Furthermore, he mentioned that despite the challenges of managing the state budget, steps were taken to provide this interim allowance as a quick short-term solution, considering the current financial difficulties faced by retired government employees.
+
+◼️
+
+[Data](articles/b7647c3e.json)
+
+---
 
 ### Plot to assassinate Shani Abeysekera: Court issues notice to Deshabandu and Defence Secretary
 
@@ -48,107 +86,151 @@ During today’s court proceedings, President’s Counsel Upul Jayasuriya who ap
 
 [Data](articles/d92e4c38.json)
 
+[Extended Data](ext_articles/d92e4c38.ext.json)
+
 ---
 
-### “லெபனான் செல்ல வேண்டாம்”
+### “Don't go to Lebanon”
 
 *2024-08-02 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனான்-செல்ல-வேண்டாம்/175-341449) · `ta`
+
+"Don't visit Lebanon due to safety concerns."
+
+🟩
 
 ◼️
 
 [Data](articles/3042a778.json)
 
+[Extended Data](ext_articles/3042a778.ext.json)
+
 ---
 
-### புத்தகத்தில் தாள்களை கிழித்த ஆசிரியை கைது
+### Arrested for tearing down sheets in the book
 
 *2024-08-02 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகத்தில்-தாள்களை-கிழித்த-ஆசிரியை-கைது/175-341447) · `ta`
 
-புறக்கோட்டை பொலிஸ் போக்குவரத்து பிரிவில் இணைந்ததாக கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் வசமிருந்த தற்காலிக சாரதி அனுமதி வழங்கும், புத்தகத்தை அபகரித்து அதிலிருந்த தாள்களை கிழித்து வீசினார் என்ற குற்றச்சாட்டில் ஆசிரியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A teacher was arrested for allegedly obstructing police duties by tearing down a book and throwing its pages. This incident occurred when the teacher interfered with a traffic police officer trying to take legal action against a driver parking in a prohibited area. The teacher, from Piliyandala, is 53 years old.
 
-புறக்கோட்டை டைட்டஸ் கட்டிடத்துக்கு அருகில், கடமையில் இருந்த போது, தடை செய்யப்பட்ட பிரதேசத்தில் வாகனத்தை நிறுத்தி இருந்ததாக கடமையில் இருந்த போக்குவரத்து பொலிஸார் குறிப்பிட்டுள்ளார்.
+🟩
 
-அப்போது சாரதி எதிராக சட்ட நடவடிக்கை எடுப்பதற்கு தயாரானபோது, சாரதியின் மனைவியான ஆசிரியர், அந்த பொலிஸ் அதிகாரியின் வசமிருந்த  தற்காலிக சாரதி அனுமதி வழங்கும், புத்தகத்தை அபகரித்து பக்கங்களை கிழித்து வீசியெறிந்து மிகவும் ஆவேசமாக நடந்து கொண்டுள்ளார்.  பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தார் என்ற குற்றச்சாட்டின் பேரில், அந்த ஆசிரியை கைது செய்யப்பட்டுள்ளார். பிலியந்தலையைச் சேர்ந்த 53 வயதான ஆசிரியையே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A teacher has been arrested for allegedly giving permission to tear down the book and threw the sheets of the police constable, which is serving as a police constable, who is serving in the Parakkottai police transport unit.
+
+The traffic police on the duty said that the vehicle was parked in a banned area while on duty near the Titus building of Pettah.
+
+When he was ready to take legal action against the driver, the teacher, the driver's wife, would give a temporary driver's permission from the police officer, tearing down the book and threwing the pages..  பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தார் என்ற குற்றச்சாட்டின் பேரில், அந்த ஆசிரியை கைது செய்யப்பட்டுள்ளார். The 53 -year -old teacher from Piliyandala has been arrested.
 
 ◼️
 
 [Data](articles/2e9f5ce5.json)
 
+[Extended Data](ext_articles/2e9f5ce5.ext.json)
+
 ---
 
-### யாழ். தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையம் ஜனாதிபதியினால் திறப்பு
+### Yall. Opening of the President of the Sea Water Plant by the President
 
 *2024-08-02 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190076) · `ta`
 
-ஆசிய அபிவிருத்தி வங்கி மற்றும் இலங்கை அரசாங்கத்தின் நிதி ஏற்பாடுகளின் கீழ் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் மேம்பாட்டு அமைச்சு, தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபையினால் செயற்படுத்தப்பட்டும் யாழ்ப்பாணம் - கிளிநொச்சி நீர்வழங்கல் வேலைத்திட்டத்தின் கீழ்  தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையம் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் இன்று வெள்ளிக்கிழமை (02) திறந்து வைக்கப்பட்டது.
+The President of Sri Lanka, Ranil Wickremesinghe, inaugurated a seawater treatment plant costing $266 million, part of the Jaffna-Kilinochchi Water Supply Scheme. The project, financed by the Asian Development Bank and the Sri Lankan government, aims to improve water supply infrastructure.
 
-இந்த கடல் நீர் சுத்திகரிப்பு நிலையம் 266 மில்லியன் டொலர்கள் செலவில் அமைக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+🟩
+
+The Ministry of Water Supply and Estate Infrastructure Development, National Water Supply and Drainage Board under the financial arrangements of the Asian Development Bank and the Government of Sri Lanka, was opened under the Jaffna -Kilinochchi Water Supply Scheme under the patronage of President Ranil Wickremesinghe.
+
+The seawater treatment plant has been set up at a cost of $ 266 million, the Presidential Media Unit said.
 
 ◼️
 
 [Data](articles/6489000e.json)
 
+[Extended Data](ext_articles/6489000e.ext.json)
+
 ---
 
-### கேரளா, வயநாடு மண்சரிவு ;  இஸ்ரோ வெளியிட்ட புகைப்படம்
+### Kerala, Wayanad landslide;A photo released by ISRO
 
 *2024-08-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190061) · `ta`
 
-பலத்த மழையினால் கேரளாவின் வயநாடு மாவட்டத்தில் நிகழ்ந்த பயங்கர மண்சரிவு காரணமாக முண்டக்கை, சூரல்மலை, ஆட்டமலா, நூல்புழா பகுதிகள் சேறும் சகதியுமாக காட்சியளிக்கின்றன. மண் குவியலில் ஏராளமான வீடுகள் மூழ்கிய நிலையில், 318 பேர் உயிரிழந்துள்ளனர்.
+In Kerala's Wayanad district, heavy rainfall triggered landslides in Mundakkai, Sulmalai, Autamala, and Bibliography areas, resulting in 318 deaths, over 200 injuries, and more than 200 missing persons as of day 4 of rescue operations. The State, National Disaster Management Group, soldiers, and firefighters are actively involved in the rescue efforts, aided by the military's deployment of a temporary iron bridge to expedite operations. ISRO's satellite imagery of the disaster site has shocked viewers, highlighting the extent of the landslide across 86,000 square meters and affecting an 8-km stretch of the sand river. Rescuees are housed in 45 camps, receiving essential supplies from government and voluntary organizations, while celebrities and entrepreneurs offer financial aid to the affected region.
 
-200க்கும் மேற்பட்டோர் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்றுவருகின்றனர். 4 நாட்களாக மீட்புப் பணிகள் நடைபெற்று வருகின்ற போதும் 200க்கும் மேற்பட்டோரை காணவில்லை என்பதால், உறவினர்கள் ஆழ்ந்த துயரத்தில் உள்ளனர். உயிரிழப்பு அதிகரிக்கும் என்ற அச்சமும் எழுந்துள்ளது.
+🟩
 
-மீட்புப் பணியில் மாநில, தேசிய அனர்த்த முகாமைத்துவ குழுவினர், இராணுவத்தினர், தீயணைப்புத்துறையினர் என பல்துறையை சேர்ந்தவர்கள் தங்கள் உயிரையும் பணயம் வைத்து ஈடுபட்டு வருகின்றனர்.
+Mundakkai, Sulmalai, Autamala and Bibliography areas are due to heavy rains due to heavy rains in the Wayanad district of Kerala.. With a number of houses in the mud pile, 318 people have died.
 
-பணிகளை விரைந்து முடிக்க இடிபாடுகளை அகற்ற வழிவகை செய்யும் வகையில் தற்காலிக இரும்பு பாலத்தையும் இராணுவத்தினர் விரைவாக கட்டி பயன்பாட்டுக்கு கொண்டு வந்துள்ளனர். இதன் மூலம் மீட்புப் பணிகள் துரிதமடையும் என்கின்றனர்.
+More than 200 people are injured and are being treated at the hospital. Relatives are in deep distress because more than 200 people have been missing despite rescue operations for 4 days. There is also fears that death will increase.
 
-இதனிடையே, இஸ்ரோ வெளியிட்ட செயற்கைக்கோள் மூலம் எடுக்கப்பட்ட புகைப்படம் பார்ப்போரை அதிர்ச்சியடைய வைக்கிறது.
+State, National Disaster Management Group, Soldiers and Firefighters are risking their lives.
+
+The military has also brought the temporary iron bridge to the ritual to eliminate the tasks expeditiously to complete the tasks. They say this will speed up the rescue operations.
+
+Meanwhile, the photo taken by the ISRO satellite shocks the viewers.
+
+Photos of the mountainside and the mountains after the landslide show the core of the landslide.
+
+ISRO said the landslide had been reported for 86 thousand square meters and the sand river was mixed up to 8 km.
 
 ...
 
 [Data](articles/804255ee.json)
 
+[Extended Data](ext_articles/804255ee.ext.json)
+
 ---
 
-### லிந்துலை விபத்தில் அறுவர் காயம்
+### Lindul injury
 
 *2024-08-02 11:34:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லிந்துலை-விபத்தில்-அறுவர்-காயம்/76-341446) · `ta`
 
-தனியார் பேருந்தும் லொறியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகியதில் 6 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A collision between a private bus and a lorry resulted in six injuries and damage to the bus. The incident occurred on the Hatton-Nuwara Eliya road, involving vehicles from Nuwara Eliya, Hatton, Colombo, and the Ambewela State Cattle Farm. All injured, including the bus driver, were taken to the Lindula District Hospital with non-serious conditions. The police advised caution on the road due to rain.
 
-பேருந்தில் பயணித்த பேருந்து சாரதி உட்பட ஐவர் காயமடைந்து லிந்துலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக லிந்துலை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்த விபத்து வௌ்ளிக்கிழமை (02) காலை 8 மணியளவில் ஹட்டன்- நுவரெலியா பிரதான வீதியில் லிந்துலை மட்டுக்கல பகுதியில் இடம்பெற்றுள்ளது.
+Six people were injured and admitted to hospital when a private bus and lorry collided head -on.
 
-நுவரெலியாவில் இருந்து ஹட்டன் நோக்கி பயணித்த தனியார் பேருந்து, கொழும்பில் இருந்து அம்பேவெல அரச கால்நடை பண்ணைக்கு சென்ற லொறியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Lindula police said that five people, including a bus driver, were injured and admitted to the Lindula District Hospital.
 
-இவ்விபத்தில் தனியார் பேருந்து பலத்த சேதமடைந்துள்ளதாகவும், காயமடைந்தவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும் விபத்து தொடர்பில் விசாரணைகளை மேற்கொண்டு வரும் லிந்துலை பொலிஸார் தெரிவித்தனர்.
+The accident took place at the Hatton-Nuwara Eliya main road at 8 am on Wednesday (02).
 
-...
+The accident occurred when a private bus traveling from Nuwara Eliya to Hatton collided with a lorry from Colombo to the Ambewela State Cattle Farm.
+
+Lindula police said that the private bus was severely damaged and the condition of the injured was not worrisome.
+
+Lindula police officer in charge of the Lindula Police Station has asked the drivers of the Lindula Police Station to pay attention and slowly when driving vehicles on the Hatton -Nuwara Eliya main road due to the current rains.
+
+◼️
 
 [Data](articles/3956d518.json)
 
+[Extended Data](ext_articles/3956d518.ext.json)
+
 ---
 
-### இலங்கை தனது இறைமையை பாதுகாப்பதற்கு அவசியமான இராணுவஉதவிகளை வழங்க தயார் - சீன தூதுவர்
+### Sri Lanka is ready to provide military aid necessary to protect its sovereignty - Chinese Ambassador
 
 *2024-08-02 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190072) · `ta`
 
-இலங்கை தனது இறைமை ஆள்புல ஒருமைப்பாட்டினை பாதுகாப்பதற்கு இராணுவரீதியிலான உதவிகளை வழங்க தயார் என சீனா தெரிவித்துள்ளது.
+In response to geopolitical shifts, Sri Lanka is set to receive military aid from China, including training and equipment valued over Rs 8 billion, to bolster its defense against traditional and non-traditional threats. This support aims to enhance the Sri Lankan military's capabilities through ongoing cooperation and exercises.
 
-இலங்கையில் புவிசார் அரசியல் நகர்வுகள் அதிகளவில் முன்னெடுக்கப்படுகின்ற ஒரு சூழ்நிலையில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-இலங்கை இராணுவத்திற்கு தொடர்ந்தும் பயிற்சிகளை வழங்குவதற்கு சீனா தயாராகவுள்ளது எனவும் தூதுவர் தெரிவித்துள்ளார்.
+China has said that Sri Lanka is ready to provide military assistance to protect its sovereignty integrity.
 
-எங்கள் இரு நாடுகளினதும் இராணுவத்தினர் இடையிலான உறவுகள் காலத்தால் சோதிக்கப்பட்டவை என சீன தூதுவர் தெரிவித்துள்ளார்.
+He said this in a situation where geopolitical moves are being carried out in Sri Lanka.
 
-இலங்கை மரபுசார் மரபுசாராத அச்சுறுத்தல்களை எதிர்கொள்கின்றது என தெரிவித்துள்ள சீன தூதுவர் எப்போதும் போல இலங்கையின் இறைமை ஆட்புல ஒருமைப்பாடு என்பவற்றை பாதுகாப்பதற்கு இலங்கையின் ஆயுதப்படையினருக்கும் மக்களிற்கும் சீன மக்களும் இராணுவத்தினரும்  உறுதியான ஆதரவைவழங்குவார்கள் என தெரிவித்துள்ளார்.
+The Ambassador said that China is ready to provide training to the Sri Lankan military.
 
-கடந்த இரண்டு ஆண்டுகளில், உயர்மட்ட வருகைகள், உபகரண ஒத்துழைப்பு, பணியாளர்கள் பயிற்சி மற்றும் கடல்சார் பாதுகாப்பு போன்ற துறைகளில் நமது இரு ஆயுதப் படைகளுக்கும் இடையிலான பரிமாற்றங்களும் ஒத்துழைப்பும் ஆழமடைந்து வருகின்றன.என சீன தூதுவர் தெரிவித்துள்ளார்.
+The Chinese Ambassador said that the relations between the military and the military of our two countries were tested by time.
+
+The Chinese Ambassador, who said Sri Lanka faces non -traditional threats, said that the Sri Lankan armed forces, the people and the military would support the Sri Lankan armed forces, the people and the military to protect the sovereignty integrity of Sri Lanka.
+
+Over the past two years, the exchanges and cooperation between our two armed forces in the fields of high -level visits, equipment cooperation, staff training and maritime security have been deepening.
 
 ...
 
 [Data](articles/291f97e9.json)
+
+[Extended Data](ext_articles/291f97e9.ext.json)
 
 ---
 
@@ -336,35 +418,47 @@ The two suspects are to be produced before courts. The Commission investigating 
 
 ---
 
-### 2025 இற்கான பொது மற்றும் வங்கி விடுமுறையின் வர்த்தமானி வெளியீடு
+### Gazette of Public and Bank Holidays for 2025
 
 *2024-08-02 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190064) · `ta`
 
-பொது நிர்வாகம் மற்றும் உள்நாட்டலுவல்கள் அமைச்சர் என்ற வகையில் பிரதமர் தினேஷ் குணவர்தனவினால் இந்த வர்த்தமானி அறிவித்தல் அங்கீகரிக்கப்பட்டுள்ளது.
+The Gazette Notification for public and bank holidays in 2025 has been approved by Prime Minister Dinesh Gunawardena, serving as the Minister of Public Administration and Home Affairs.
+
+🟩
+
+The Gazette Notification has been approved by Prime Minister Dinesh Gunawardena as the Minister of Public Administration and Home Affairs.
 
 ◼️
 
 [Data](articles/47ce13ac.json)
 
+[Extended Data](ext_articles/47ce13ac.ext.json)
+
 ---
 
-### முதல் காலாண்டில் சுற்றுலாத்துறை வருமானம் 1.5 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிப்பு
+### Tourism income increased to $ 1.5 billion in the first quarter
 
 *2024-08-02 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190058) · `ta`
 
-இந்த ஆண்டின் முதல் காலாண்டில் சுற்றுலாத்துறை வருமானம் 1.5 பில்லியன் அமெரிக்கன் டொலர்களாக அதிகரித்துள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+In Q1, tourism revenue surged to $1.5 billion, doubling from the same period last year. Foreign worker remittances reached $3.14 billion in H1 2024. The Central Bank of Sri Lanka reported a rise in the country's foreign reserves to $5.7 billion in June, alongside an increase in the value of the Sri Lankan rupee until June 2024.
 
-கடந்த ஆண்டின் முதல் காலாண்டுடன் ஒப்பிடுகையில் வருமானம் இரு மடங்கு அதிகரித்துள்ளதாக  இலங்கை மத்திய வங்கி  சுட்டிக்காட்டியுள்ளது.
+🟩
 
-இதற்கிடையில், 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் வெளிநாட்டுப் பணியாளர்களால், இலங்கைக்கு கிடைக்கும் வருமானம்  3.14 பில்லியன் அமெரிக்க டொலர்களாக பதிவாகியுள்ளது,
+Tourism revenues rose to US $ 1.5 billion in the first quarter of this year, the Central Bank said.
 
-இந்நிலையில், நாட்டின் உத்தியோகபூர்வ வெளிநாட்டு கையிருப்பு ஜூன் மாதத்தில் 5.7 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்துள்ளது என  இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+The Central Bank of Sri Lanka has pointed out that income has doubled compared to the first quarter of last year.
 
-2024 ஆம் ஆண்டு ஜூன் மாதம் வரை அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதியும் அதிகரித்துள்ளதாக மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+Meanwhile, in the first six months of 2024, foreign workers have been recorded by US $ 3.14 billion.
+
+The Central Bank of Sri Lanka said that the country's official foreign reserves rose to $ 5.7 billion in June.
+
+The Central Bank further stated that the value of the Sri Lankan rupee has increased until June 2024.
 
 ◼️
 
 [Data](articles/606a25f8.json)
+
+[Extended Data](ext_articles/606a25f8.ext.json)
 
 ---
 
@@ -2119,55 +2213,5 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 [Data](articles/7640a930.json)
 
 [Extended Data](ext_articles/7640a930.ext.json)
-
----
-
-### Presidential Fund Charts' Clusive Premium to Accounts
-
-*2024-08-01 18:40:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලේ-ශිෂ්‍යත්ව-වාරික-මුදල-අද-ගිණුම්-වෙත/11-411154) · `si`
-
-The Presidential Fund has disbursed scholarships totaling over Rs. 5 billion to various student groups, including 6,000 students for the GCE Advanced Level exam, 100,000 students from Pirivena and Sesala Colleges, and 3000 Grade 1 students. These scholarships are managed through SMS notifications and bank transfers, with future payments scheduled for August 2024.
-
-🟩
-
-Scholarship Premium for the recipients of scholarship programs under the Presidential Fund will be referred to the scholarship installments of the scholarship recipients today (01).
-
-The scholarship installments are notified by a SMS (SMS) will be informed by SMS (SMS).
-
-2022/2023 GCE Ordinary Level A / L examination for 3000 students to sit for A / L examinationThe 6000 scholarship installment paid to 6,000 students to sit for the GCE Advanced Level examination have also been credited to relevant accounts.
-
-Similarly, 100,000 scholarships paid to 100,000 scholarship installments per month and the students of Pirivena and Sesala College educational institutes per month for Rs.400 scholarship premium paid to 500 lay clergy to the GCE Advanced Level 300 per month and directed to the bank accounts of the scholarship recipients.
-
-Further, 3000 scholarship students paid to 3000 scholarship students from Grade 01 to Grade 01 per month and Rs.
-
-...
-
-[Data](articles/a2b353ff.json)
-
-[Extended Data](ext_articles/a2b353ff.ext.json)
-
----
-
-### Miracle is a miracle for the loss of the fallen country within two years
-
-*2024-08-01 18:37:02* · [`adalk`](https://www.ada.lk/breaking_news/වැටුණු-රට-වසර-දෙකක්-තුළ-ගොඩ-ගැනීම-ආශ්චර්යයක්/11-411153) · `si`
-
-State Minister Dilum Amunugama highlights the economic recovery of Sri Lanka as a "miracle" within two years, attributing it to President Ranil Wickremesinghe's leadership and global connections. He mentions a $1 billion investment target for the year, with $800 million already received, aiming for $2 billion by the end of the year. The minister discusses the establishment of investment opportunities for 35 projects and the completion of 80% of the Portsity project. He emphasizes the importance of the new Economic Act and the strategic approach to free trade agreements to boost exports.
-
-🟩
-
-Investment Promotion, State Minister Dilum Amunugama said no such economic collapsed in the world had been a miracle for two years.
-
-The State Minister pointed out that the election of President Ranil Wickremesinghe is the only leader of knowledge and global relations so that it is right to build the country.He said the verdict.
-
-Investment Promotion State Minister Dilum Amunugama, Minister Dilum Amunugama, addressing a press conference held at the Presidential Media Center for a 'stable country'.
-
-"Investment target granted to the Board of Investment and Investment Promotion this year is $ 1 billion. US $ 800 million has come to the country. But we believe we can travel for a two billion goals by the end of this year. Investment opportunities for 35 projects have been established for the year 2024, including Trincomalee, Paranthan, Mankulam and Kankasanthurai. But we believe that invests can happen due to the commencement of the election. But it is normal that it is normal.
-
-...
-
-[Data](articles/1c4177f5.json)
-
-[Extended Data](ext_articles/1c4177f5.ext.json)
 
 ---

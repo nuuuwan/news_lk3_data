@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 12:36:29**
+As of **2024-08-02 12:54:04**
 
 ## Newspaper Stats
 
-*Scraped **38,602** Articles*
+*Scraped **38,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,141 @@ islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
 adalk | 3,545
-adaderanalk | 4,464
+adaderanalk | 4,465
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,795
-virakesarilk | 6,103
+tamilmirrorlk | 4,798
+virakesarilk | 6,108
 adaderanasinhalalk | 6,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,602 (100.0%) of 38,602 articles have been extended.
+38,602 (100.0%) of 38,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Plot to assassinate Shani Abeysekera: Court issues notice to Deshabandu and Defence Secretary
+
+*2024-08-02 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100938/plot-to-assassinate-shani-abeysekera-court-issues-notice-to-deshabandu-and-defence-secretary-) · `en`
+
+The Supreme Court today fixed for consideration on August 09 the petition filed by the former Director of the Criminal Investigation Department (CID) Shani Abeysekera, seeking an order to provide adequate protection to him as there is a threat to his life.
+
+The court also ordered to send notices to the respondents of the petition including Deshabandu Tennakoon, who served as the IGP, and Defence Secretary Kamal Gunaratne to appear before the court on that date.
+
+The relevant petition was taken up before the three-member Supreme Court judge bench consisting of Justices Vijith Malalgoda, Murdu Fernando and Yasantha Kodagoda this morning (02).
+
+During today’s court proceedings, President’s Counsel Upul Jayasuriya who appeared for the petitioner stated before the court that information has been received regarding a conspiracy to assassinate his client in a staged car accident, highlighting that there is a possibility that Shani Abeysekera’s life could be in danger at any moment.
+
+...
+
+[Data](articles/d92e4c38.json)
+
+---
+
+### “லெபனான் செல்ல வேண்டாம்”
+
+*2024-08-02 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனான்-செல்ல-வேண்டாம்/175-341449) · `ta`
+
+◼️
+
+[Data](articles/3042a778.json)
+
+---
+
+### புத்தகத்தில் தாள்களை கிழித்த ஆசிரியை கைது
+
+*2024-08-02 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகத்தில்-தாள்களை-கிழித்த-ஆசிரியை-கைது/175-341447) · `ta`
+
+புறக்கோட்டை பொலிஸ் போக்குவரத்து பிரிவில் இணைந்ததாக கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள் வசமிருந்த தற்காலிக சாரதி அனுமதி வழங்கும், புத்தகத்தை அபகரித்து அதிலிருந்த தாள்களை கிழித்து வீசினார் என்ற குற்றச்சாட்டில் ஆசிரியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+புறக்கோட்டை டைட்டஸ் கட்டிடத்துக்கு அருகில், கடமையில் இருந்த போது, தடை செய்யப்பட்ட பிரதேசத்தில் வாகனத்தை நிறுத்தி இருந்ததாக கடமையில் இருந்த போக்குவரத்து பொலிஸார் குறிப்பிட்டுள்ளார்.
+
+அப்போது சாரதி எதிராக சட்ட நடவடிக்கை எடுப்பதற்கு தயாரானபோது, சாரதியின் மனைவியான ஆசிரியர், அந்த பொலிஸ் அதிகாரியின் வசமிருந்த  தற்காலிக சாரதி அனுமதி வழங்கும், புத்தகத்தை அபகரித்து பக்கங்களை கிழித்து வீசியெறிந்து மிகவும் ஆவேசமாக நடந்து கொண்டுள்ளார்.  பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்தார் என்ற குற்றச்சாட்டின் பேரில், அந்த ஆசிரியை கைது செய்யப்பட்டுள்ளார். பிலியந்தலையைச் சேர்ந்த 53 வயதான ஆசிரியையே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2e9f5ce5.json)
+
+---
+
+### யாழ். தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையம் ஜனாதிபதியினால் திறப்பு
+
+*2024-08-02 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190076) · `ta`
+
+ஆசிய அபிவிருத்தி வங்கி மற்றும் இலங்கை அரசாங்கத்தின் நிதி ஏற்பாடுகளின் கீழ் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் மேம்பாட்டு அமைச்சு, தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபையினால் செயற்படுத்தப்பட்டும் யாழ்ப்பாணம் - கிளிநொச்சி நீர்வழங்கல் வேலைத்திட்டத்தின் கீழ்  தாளையடி கடல் நீர் சுத்திகரிப்பு நிலையம் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் இன்று வெள்ளிக்கிழமை (02) திறந்து வைக்கப்பட்டது.
+
+இந்த கடல் நீர் சுத்திகரிப்பு நிலையம் 266 மில்லியன் டொலர்கள் செலவில் அமைக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6489000e.json)
+
+---
+
+### கேரளா, வயநாடு மண்சரிவு ;  இஸ்ரோ வெளியிட்ட புகைப்படம்
+
+*2024-08-02 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190061) · `ta`
+
+பலத்த மழையினால் கேரளாவின் வயநாடு மாவட்டத்தில் நிகழ்ந்த பயங்கர மண்சரிவு காரணமாக முண்டக்கை, சூரல்மலை, ஆட்டமலா, நூல்புழா பகுதிகள் சேறும் சகதியுமாக காட்சியளிக்கின்றன. மண் குவியலில் ஏராளமான வீடுகள் மூழ்கிய நிலையில், 318 பேர் உயிரிழந்துள்ளனர்.
+
+200க்கும் மேற்பட்டோர் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்றுவருகின்றனர். 4 நாட்களாக மீட்புப் பணிகள் நடைபெற்று வருகின்ற போதும் 200க்கும் மேற்பட்டோரை காணவில்லை என்பதால், உறவினர்கள் ஆழ்ந்த துயரத்தில் உள்ளனர். உயிரிழப்பு அதிகரிக்கும் என்ற அச்சமும் எழுந்துள்ளது.
+
+மீட்புப் பணியில் மாநில, தேசிய அனர்த்த முகாமைத்துவ குழுவினர், இராணுவத்தினர், தீயணைப்புத்துறையினர் என பல்துறையை சேர்ந்தவர்கள் தங்கள் உயிரையும் பணயம் வைத்து ஈடுபட்டு வருகின்றனர்.
+
+பணிகளை விரைந்து முடிக்க இடிபாடுகளை அகற்ற வழிவகை செய்யும் வகையில் தற்காலிக இரும்பு பாலத்தையும் இராணுவத்தினர் விரைவாக கட்டி பயன்பாட்டுக்கு கொண்டு வந்துள்ளனர். இதன் மூலம் மீட்புப் பணிகள் துரிதமடையும் என்கின்றனர்.
+
+இதனிடையே, இஸ்ரோ வெளியிட்ட செயற்கைக்கோள் மூலம் எடுக்கப்பட்ட புகைப்படம் பார்ப்போரை அதிர்ச்சியடைய வைக்கிறது.
+
+...
+
+[Data](articles/804255ee.json)
+
+---
+
+### லிந்துலை விபத்தில் அறுவர் காயம்
+
+*2024-08-02 11:34:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லிந்துலை-விபத்தில்-அறுவர்-காயம்/76-341446) · `ta`
+
+தனியார் பேருந்தும் லொறியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகியதில் 6 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+பேருந்தில் பயணித்த பேருந்து சாரதி உட்பட ஐவர் காயமடைந்து லிந்துலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக லிந்துலை பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்து வௌ்ளிக்கிழமை (02) காலை 8 மணியளவில் ஹட்டன்- நுவரெலியா பிரதான வீதியில் லிந்துலை மட்டுக்கல பகுதியில் இடம்பெற்றுள்ளது.
+
+நுவரெலியாவில் இருந்து ஹட்டன் நோக்கி பயணித்த தனியார் பேருந்து, கொழும்பில் இருந்து அம்பேவெல அரச கால்நடை பண்ணைக்கு சென்ற லொறியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவ்விபத்தில் தனியார் பேருந்து பலத்த சேதமடைந்துள்ளதாகவும், காயமடைந்தவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும் விபத்து தொடர்பில் விசாரணைகளை மேற்கொண்டு வரும் லிந்துலை பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/3956d518.json)
+
+---
+
+### இலங்கை தனது இறைமையை பாதுகாப்பதற்கு அவசியமான இராணுவஉதவிகளை வழங்க தயார் - சீன தூதுவர்
+
+*2024-08-02 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190072) · `ta`
+
+இலங்கை தனது இறைமை ஆள்புல ஒருமைப்பாட்டினை பாதுகாப்பதற்கு இராணுவரீதியிலான உதவிகளை வழங்க தயார் என சீனா தெரிவித்துள்ளது.
+
+இலங்கையில் புவிசார் அரசியல் நகர்வுகள் அதிகளவில் முன்னெடுக்கப்படுகின்ற ஒரு சூழ்நிலையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+இலங்கை இராணுவத்திற்கு தொடர்ந்தும் பயிற்சிகளை வழங்குவதற்கு சீனா தயாராகவுள்ளது எனவும் தூதுவர் தெரிவித்துள்ளார்.
+
+எங்கள் இரு நாடுகளினதும் இராணுவத்தினர் இடையிலான உறவுகள் காலத்தால் சோதிக்கப்பட்டவை என சீன தூதுவர் தெரிவித்துள்ளார்.
+
+இலங்கை மரபுசார் மரபுசாராத அச்சுறுத்தல்களை எதிர்கொள்கின்றது என தெரிவித்துள்ள சீன தூதுவர் எப்போதும் போல இலங்கையின் இறைமை ஆட்புல ஒருமைப்பாடு என்பவற்றை பாதுகாப்பதற்கு இலங்கையின் ஆயுதப்படையினருக்கும் மக்களிற்கும் சீன மக்களும் இராணுவத்தினரும்  உறுதியான ஆதரவைவழங்குவார்கள் என தெரிவித்துள்ளார்.
+
+கடந்த இரண்டு ஆண்டுகளில், உயர்மட்ட வருகைகள், உபகரண ஒத்துழைப்பு, பணியாளர்கள் பயிற்சி மற்றும் கடல்சார் பாதுகாப்பு போன்ற துறைகளில் நமது இரு ஆயுதப் படைகளுக்கும் இடையிலான பரிமாற்றங்களும் ஒத்துழைப்பும் ஆழமடைந்து வருகின்றன.என சீன தூதுவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/291f97e9.json)
+
+---
 
 ### Sri Lankan murder accused claims self-defence over killing of wife in Australia
 
@@ -213,6 +333,38 @@ The two suspects are to be produced before courts. The Commission investigating 
 [Data](articles/06dbd038.json)
 
 [Extended Data](ext_articles/06dbd038.ext.json)
+
+---
+
+### 2025 இற்கான பொது மற்றும் வங்கி விடுமுறையின் வர்த்தமானி வெளியீடு
+
+*2024-08-02 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190064) · `ta`
+
+பொது நிர்வாகம் மற்றும் உள்நாட்டலுவல்கள் அமைச்சர் என்ற வகையில் பிரதமர் தினேஷ் குணவர்தனவினால் இந்த வர்த்தமானி அறிவித்தல் அங்கீகரிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/47ce13ac.json)
+
+---
+
+### முதல் காலாண்டில் சுற்றுலாத்துறை வருமானம் 1.5 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிப்பு
+
+*2024-08-02 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190058) · `ta`
+
+இந்த ஆண்டின் முதல் காலாண்டில் சுற்றுலாத்துறை வருமானம் 1.5 பில்லியன் அமெரிக்கன் டொலர்களாக அதிகரித்துள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+
+கடந்த ஆண்டின் முதல் காலாண்டுடன் ஒப்பிடுகையில் வருமானம் இரு மடங்கு அதிகரித்துள்ளதாக  இலங்கை மத்திய வங்கி  சுட்டிக்காட்டியுள்ளது.
+
+இதற்கிடையில், 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் வெளிநாட்டுப் பணியாளர்களால், இலங்கைக்கு கிடைக்கும் வருமானம்  3.14 பில்லியன் அமெரிக்க டொலர்களாக பதிவாகியுள்ளது,
+
+இந்நிலையில், நாட்டின் உத்தியோகபூர்வ வெளிநாட்டு கையிருப்பு ஜூன் மாதத்தில் 5.7 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்துள்ளது என  இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+
+2024 ஆம் ஆண்டு ஜூன் மாதம் வரை அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதியும் அதிகரித்துள்ளதாக மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/606a25f8.json)
 
 ---
 
@@ -2017,191 +2169,5 @@ Investment Promotion State Minister Dilum Amunugama, Minister Dilum Amunugama, a
 [Data](articles/1c4177f5.json)
 
 [Extended Data](ext_articles/1c4177f5.ext.json)
-
----
-
-### We are not going to abandon the struggle until our life is;We will not wait until we see our children - a mother who is looking for a missing relative
-
-*2024-08-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190041) · `ta`
-
-A mother searching for her missing child for over 15 years vows not to give up, despite hardships and threats from authorities. She urges the international community to help reunite families, emphasizing the importance of seeing their children before it's too late.
-
-🟩
-
-A mother looking for a missing relative expressed her mind that we would not abandon the struggle as long as we had our lives.
-
-Mullaitivu District Relatives of the Mullaitivu District. After the struggle, he expressed his depression in commenting to the media.
-
-Looking for our children for 15 years, without water, without water
-
-How many months of beating and speeching have not yet abandoned this struggle. It is no longer going to abandon this struggle as long as we have our life.
-
-We don't have a death certificate or two lakhs. If I die, we will continue to fight the next and next. We will not wait without seeing our children until the last time we disappear. Whoever threatens the intelligence agencies, the police and the military, we will fight this struggle.
-
-The international community has taken care of this, and I ask us to give a good decision to see our children before we die.
-
-◼️
-
-[Data](articles/34f24c8b.json)
-
-[Extended Data](ext_articles/34f24c8b.ext.json)
-
----
-
-### President to support Prime Minister
-
-*2024-08-01 18:29:24* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිගේ-සහාය-ජනපති-රනිල්ට/11-411152) · `si`
-
-President Rajapaksa will back Ranil Wickremesinghe, leader of the right-leaning United Front, in the presidential election, marking an unusual alliance between the left-leaning People's United Front and its right-wing counterpart. This strategic move was discussed and agreed upon during a meeting of the People's United Front, with President Rajapaksa personally informing Wickremesinghe of his support.
-
-🟩
-
-President Rajapaksa has decided to hand over the support of the President of the Meteorosphistic Leader of the United Front Presidential election and Ranil Wickremesinghe.
-
-The People's United Front is a left political party and Ranil Wickremesinghe represents right wins. Accordingly, this joining the president is fairly unique.
-
-The party has taken this decision in a meeting held in the Meeting Front today, and the President has informed Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/2b1ed357.json)
-
-[Extended Data](ext_articles/2b1ed357.ext.json)
-
----
-
-### The airline license that you receive from October is different
-
-*2024-08-01 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199459) · `si`
-
-Starting October 2024, flight permits will be issued differently, with average, official, and diplomatic passports having distinct colors as per the Defense Minister Tiran Alles' announcement.
-
-🟩
-
-The Minister of Defense Minister Tiran Alles says that flight permits will be issued from October 2024.
-
-Accordingly, the average, official and diplomatic passports are to be used for three different colors.
-
-◼️
-
-[Data](articles/c17291ba.json)
-
-[Extended Data](ext_articles/c17291ba.ext.json)
-
----
-
-### SC grants leave to proceed with petitions by ‘Aragalaya’ activists
-
-*2024-08-01 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100922/sc-grants-leave-to-proceed-with-petitions-by-aragalaya-activists) · `en`
-
-The Supreme Court has granted leave to proceed with the hearing of four Fundamental Rights (FR) petitions filed by a group of activists of the ‘Aragalaya’ protest movement today (Aug. 01).
-
-These petitions have been filed seeking a ruling that their fundamental rights have been violated by the police unjustly arresting them during the protests held near former President Gotabaya Rajapaksa’s private residence in Mirihana.
-
-The Supreme Court judge bench comprising Justices Vijith Malalgoda and Yasantha Kodagoda granted leave to hear the petition following an extended consideration of facts presented, Ada Derana reporter said.
-
-At the same time, the judge bench has dismissed four other petitions filed with regard to the same incident.
-
-◼️
-
-[Data](articles/19971a3c.json)
-
-[Extended Data](ext_articles/19971a3c.ext.json)
-
----
-
-### Dinesh supported Ranil
-
-*2024-08-01 18:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரித்தார்-தினேஷ்/175-341418) · `ta`
-
-Prime Minister Dinesh Gunawardena backs President Ranil Wickremesinghe for re-election.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has decided to support President Ranil Wickremesinghe in the presidential election.
-
-◼️
-
-[Data](articles/2c4cb6f6.json)
-
-[Extended Data](ext_articles/2c4cb6f6.ext.json)
-
----
-
-### Morcha in the group is a sermon from MCC
-
-*2024-08-01 18:13:35* · [`adalk`](https://www.ada.lk/sports/කණ්ඩායමේ-මොරාල්-නංවන්න-මුරලිගෙන්-දේශනාවක්/9-411151) · `si`
-
-Muttiah Muralitharan, former Sri Lanka cricketer, offered advice to the national team, which was then acknowledged by acting coach Sanath Jayasuriya. This came after Sri Lanka won their first three matches.
-
-🟩
-
-Former Sri Lanka-Sri Lanka Super-bowler Muttiah Muralitharan has given advice on behalf of the Sri Lankan cricket team and trainers.
-
-Sri Lanka's acting coach Sanath Jayasuriya has announced this by its X-account and thanked him for the job.
-
-The Sri Lankan group was 3-0 as a group of Sri Lankan group.
-
-◼️
-
-[Data](articles/e52ddf33.json)
-
-[Extended Data](ext_articles/e52ddf33.ext.json)
-
----
-
-### New Sri Lankan passports to be issued from October
-
-*2024-08-01 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100921/new-sri-lankan-passports-to-be-issued-from-october) · `en`
-
-A Sri Lankan passport with new features and with three different colours for normal, official and diplomatic passports will be issued from October 2024, Minister of Public Security Tiran Alles said.
-
-◼️
-
-[Data](articles/24526dfb.json)
-
-[Extended Data](ext_articles/24526dfb.ext.json)
-
----
-
-### Up to 10, the number of candidate is up to 10
-
-*2024-08-01 17:56:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කළ-අපේක්ෂකයක්-ගණන-10ක්-දක්වා-ඉහළට/11-411150) · `si`
-
-The upcoming presidential election will feature up to 10 candidates.
-
-🟩
-
-The next presidential election has risen to 10.
-
-◼️
-
-[Data](articles/c00db140.json)
-
-[Extended Data](ext_articles/c00db140.ext.json)
-
----
-
-### Four petitions are permitted to hear 4 petitions
-
-*2024-08-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199458) · `si`
-
-The Supreme Court granted permission to hear four fundamental rights petitions filed by a group against alleged police brutality during protests against former President Gotabhaya Rajapaksa. Judges Balalgoda and Yasantha Kodagoda will preside over the cases, while other similar petitions related to these incidents will be dismissed.
-
-🟩
-
-The Supreme Court today (01) has been given permission to hear four fundamental rights petitions filed by a group of fundamentalists.
-
-These petitions were demanding a decision that the police were unfairly violated by the police in the protests of former President Gotabhaya Rajapaksa at the struggle.
-
-Accordingly, after considering a long matter, the Supreme Court Judge Balalgoda and Yasantha Kodagoda have been allowed to hear the petitions.
-
-The panel has decided to refute any other fundamental rights petitions filed on these incidents.
-
-◼️
-
-[Data](articles/49d76437.json)
-
-[Extended Data](ext_articles/49d76437.ext.json)
 
 ---

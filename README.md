@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 13:20:43**
+As of **2024-08-02 13:36:24**
 
 ## Newspaper Stats
 
-*Scraped **38,618** Articles*
+*Scraped **38,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
 adalk | 3,547
-adaderanalk | 4,466
+adaderanalk | 4,467
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,800
 virakesarilk | 6,108
@@ -26,41 +26,73 @@ adaderanasinhalalk | 6,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,613 (100.0%) of 38,618 articles have been extended.
+38,618 (100.0%) of 38,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### கண்புரை சிகிச்சை: பலரும் பார்வையை இழந்தனர்
+### Paris Olympics: Sri Lanka’s Tharushi Karunaratne in 800m Heats today
+
+*2024-08-02 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100941/paris-olympics-sri-lankas-tharushi-karunaratne-in-800m-heats-today) · `en`
+
+As Sri Lanka looks ahead to the ‘Paris 2024’ Olympics, a key athlete for the island nation in this year’s Olympic Games Tharushi Karunaratne is set to take part in her first heats of women’s 800m event today (02).
+
+The heat 06 of the preliminary round of the event, in which Karunaratne takes part, will commence at 12.00 midnight (IST) today (02).
+
+Among the athletes who qualified for the women’s 800m event at this year’s Paris Olympics, only three other athletes besides Tharushi represent the Asian region. They will compete to represent Palestine, Kuwait, and Bahrain.
+
+Tharushi Karunaratne will race with athletes from Lithuania, Australia, Switzerland, Italy, the United States, Jamaica and Kenya in the preliminary round.
+
+The 19-year-old is also the Asian record holder of the event and the Gold Medalist at the 2023 Asian Games.
+
+◼️
+
+[Data](articles/c17e7a28.json)
+
+---
+
+### Cataract therapy: Many people lost their sights
 
 *2024-08-02 12:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்புரை-சிகிச்சை-பலரும்-பார்வையை-இழந்தனர்/76-341454) · `ta`
 
-கண்புரை சிகிச்சை செய்தவர்களில் பலர் தங்களுடைய பார்வையை இழந்துவிட்டனர் என்றும் இதனால், பெரும் அசௌகரியங்களுக்கு முகங்கொடுத்துள்ளனர் என்றும் அறியமுடிகின்றது.
+Many cataract patients experienced vision loss, causing significant inconvenience. After treatment at Nuwara Eliya National Hospital post-July 29, 52 cataract cases showed improvement within two days, indicating effective therapy.
 
-நுவரெலியா தேசிய வைத்தியசாலையில், ஜூலை 29 ஆம் திகதிக்கு பின்னர் கண்புரை சிகிச்சை செய்து கொண்டவர்களில் சிலர் இவ்வாறான நிலைமை ஏற்பட்டுள்ளது என அறியமுடிகிறது.
+🟩
 
-எனினும், கண்புரை சிகிச்சை செய்த 52 பேரில், சிலருக்கு இரண்டொரு நாட்களுக்கு மட்டுமே அவ்வாறான நிலைமை இருந்தது என்றும், இரண்டு நாட்களாக தங்கியிருந்து சிகிச்சை பெற்றுக்கொண்டவர்களில் பலரின் பார்வை வழமைக்குத் திரும்பியுள்ளது என்றும் தகவல்கள் தெரிவிக்கின்றன.
+It is learned that many of the cataracts have lost their views and are facing great inconveniences.
+
+It is learned that some of the cataracts have been treated at the Nuwara Eliya National Hospital after July 29.
+
+However, out of 52 cataracts, some people have been in the same situation for only two days, and that many of those who have been treated for two days have returned to normal.
 
 ◼️
 
 [Data](articles/77937dec.json)
 
+[Extended Data](ext_articles/77937dec.ext.json)
+
 ---
 
-### පුංචි ශ්‍රී පාදය නැරඹීමට ගිය විදෙස් කත ඇද වැටෙයි
+### Foreign sisters who went to visit the Little Sri Pada fall
 
 *2024-08-02 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199482) · `si`
 
-පුංචි ශ්‍රී පාදය නැරඹීමට ගිය බ්‍රිතාන්‍ය කාන්තාවක් ඊයේ (01) එම කන්දෙන් ඇදවැටී තුවාල සිදුවී තිබේ.
+A British tourist visiting Little Sri Pada fell on the Ella-Passara road, injuring herself. She was treated at Badulla Teaching Hospital after being referred there by tourism officials.
 
-තුවාල සිදුවූ ඇයව බදුල්ල ශික්ෂණ රෝහල වෙත යොමුකෙරුණේ සංචාරක පොලීසිය සහ පිරිසකගේ මැදිහත්වීමෙනි.
+🟩
 
-ඇල්ල – පස්සර මාර්ගයේ පිහිටා ඇති පුංචි ශ්‍රී පාදය නැරඹීම සඳහා ඊයේ ගමන් කරමින් සිටි 33 හැවිරිදි බ්‍රිතාන්‍ය ජාතික කාන්තාවක එම කන්දෙන් මෙලෙස ඇදවැටී ඇත.
+A British woman who went to visit the Little Sri Pada has been injured in the mountain yesterday (01).
+
+The injured have been referred to the Badulla Teaching Hospital by the intervention of the tourism and group.
+
+A 33-year-old British woman, who was traveling to visit the Little Sri Pada Road, is on the Ella-Passara road, has fallen from the mountain.
 
 ◼️
 
 [Data](articles/23dfac55.json)
+
+[Extended Data](ext_articles/23dfac55.ext.json)
 
 ---
 
@@ -90,19 +122,25 @@ She is also the only Asian athlete in the 6th match match.
 
 ---
 
-### தனது படம் குறித்து பட்டென அறிவித்தார் மஹிந்த
+### Mahinda announced his film
 
 *2024-08-02 12:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-படம்-குறித்து-பட்டென-அறிவித்தார்-மஹிந்த/175-341452) · `ta`
 
-தனது புகைப்படத்தை தேர்தல் பிரச்சாரத்திற்கு பயன்படுத்த எவருக்கும் தடையில்லை என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+Mahinda Rajapakse, former president of Sri Lanka, stated that individuals are free to use his photo for election campaigns, referencing the precedent set by many parliamentarians who have done so without restriction. This announcement was made during a media interaction following a meeting at the Sri Lanka PA headquarters.
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்திய பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்கள் கடந்த காலங்களில் தனது புகைப்படங்களை தேர்தல் நடவடிக்கைகளுக்கு பயன்படுத்தியதை நினைவுகூர்ந்த அவர், அவர்கள் தன்னுடைய புகைப்படங்களை பயன்படுத்துவதற்கு தடையில்லை எனவும் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் தலைமையகத்தில் நடைபெற்ற கூட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Former President Mahinda Rajapakse has said that no one is barred from using his photo for the election campaign.
+
+Recalling that the majority of parliamentarians representing the Sri Lanka PA had used their photos in the past, he pointed out that they were not forbidden to use their photos.
+
+He said this while speaking to the media after a meeting at the headquarters of the Sri Lanka PA.
 
 ◼️
 
 [Data](articles/4ce44908.json)
+
+[Extended Data](ext_articles/4ce44908.ext.json)
 
 ---
 
@@ -162,19 +200,27 @@ During today’s court proceedings, President’s Counsel Upul Jayasuriya who ap
 
 ---
 
-### PHI ඝාතන සැකකරු රඳවාගෙන ප්‍රශ්න කරනවා
+### PHI murder suspect is detained and interrogates
 
 *2024-08-02 12:19:42* · [`adalk`](https://www.ada.lk/breaking_news/PHI-ඝාතන-සැකකරු-රඳවාගෙන-ප්‍රශ්න-කරනවා/11-411165) · `si`
 
-මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා මාස 05කට පෙර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් සැකකරු රඳවාගෙන ප්‍රශ්න කරන බව රහස් පොලීසිය කොටුව මහේස්ත්‍රාත් තනුජා ලක්මාලි මහත්මියට ඊයේ (01දා) දැනුම් දුන්නේය.
+Rosha Kumara, treasurer of the Public Health Inspectors' Association, was arrested and questioned by the CID on suspicion of involvement in human killings and terrorism. The arrest came after a request from the Criminal Investigation Department (CID) on December 12th, following a 26-month investigation into the incidents by the Sri Lanka Public Health Inspectors' Association.
 
-මනුෂ්‍ය ඝාතන සහ ත්‍රස්තවාදී ක්‍රියාවලට සම්බන්ධ වූ බවට සැකකරමින් අත්අඩංගුවට ගනු ලැබූ රන්ජන් ධර්මප්‍රිය හෙට්ටිආරච්චි නමැත්තා සම්බන්ධයෙන් ඇල්පිටිය මහේස්ත්‍රාත් අධිකරණයෙන් ලබාගත් රැඳවුම් නියෝග මත ඔහු රඳවාගෙන ප්‍රශ්න කරන බවද රහස් පොලීසිය දැනුම් දුන්නේය.
+🟩
 
-අත්අඩංගුවට ගනු ලැබූ සැකකාර රන්ජන් ධර්මප්‍රිය හෙට්ටිආරච්චි නමැත්තා පසුගිය මස 12වැනිදා ඇල්පිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර එදින සිට දින 90ක කාලයක් සඳහා බලපැවැත්වෙන අන්දමට ලබාගත් රැඳවුම් නියෝග මත ඔහු රඳවාගෙන ප්‍රශ්න කරන බව දැනුම් දුන් රහස් පොලීසිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා සිටින සැකකරු නීරීක්‍ෂණය කරන්නැයි මහේස්ත්‍රාත්වරියගෙන් ඉල්ලීමක්ද කළේය.
+Treasurer's Association of Public Health Inspectors' Association Rosha Kumara was detained on suspect, the arrested suspect was detained and questioned yesterday.
 
-...
+The CID notified that he was detained and interrogated by the Elpitiya Magistrate's Court regarding the treatment of human killings and terrorist activities.
+
+The CID requested the suspect in the Criminal Investigation Department on the 12th of this month.
+
+The CID informed the court on the 26 months of the incident in an investigation by the Sri Lanka Public Health Inspectors' Association of Sri Lanka.There was.
+
+◼️
 
 [Data](articles/b6493ec0.json)
+
+[Extended Data](ext_articles/b6493ec0.ext.json)
 
 ---
 
@@ -200,23 +246,29 @@ When he was ready to take legal action against the driver, the teacher, the driv
 
 ---
 
-### ලොකු පැටී ඇතුළු 3ක්  බෙලරුස්හිදී අත්අඩංගුවට
+### 3 others arrested in Belarus
 
 *2024-08-02 12:00:08* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටී-ඇතුළු-3ක්--බෙලරුස්හිදී-අත්අඩංගුවට/11-411163) · `si`
 
-ක්ලබ් වසන්ත ඝාතනයේ   ප්‍රධාන සැලසුම්කරු වන   සුජීව රුවන් කුමාර නොහොත් ලොකු පැටී නමැත්තා ඇතුළු තිදෙනෙක් බෙලරුස්හිදී අත්අඩංගුවට පත්වී ඇති බව ආරක්ෂක අංශවලට නිලවශයෙන් තොරතුරු ලැබී තිබේ.
+In Belarus, three individuals, including a chief planner of a murder case, and associates linked to a large-scale drug dealer, were arrested while trying to flee Europe. They are considered significant criminals by Sri Lanka's State Intelligence and Criminal Investigations units. The arrests were made in cooperation with foreign security forces, and efforts are underway to extradite them back to Sri Lanka. The group is suspected of involvement in multiple murders and drug trafficking activities.
 
-ලොකු පැටී සමග අත්අඩංගුවට පත්ව ඇති අනෙක් දෙදෙනා වනුයේ  සංවිධානාත්මක අපරාධ කරුවෙකු වන රොටුඹේ අමිල හා මහා පරිමාන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන මර්වින් ජානාගේ බිරිඳ ද බව ද පැවසේ.
+🟩
 
-එමෙන්ම කංජිපානි ඉම්රාන්   නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු සහ සහ සේපාල රත්නායක නොහොත් රොටුඹ අමිල නමැති දෙදෙනාද රුසියානු දේශසීමාවේදී ආරක්ෂක අංශවල අත්අඩංගුවට පත්ව ඇතිබවටද නිල නොලත් ආරංචිමාර්ග සඳහන් කරයි.
+The security forces have officially received information about three persons including Sujeewa Ruwan Kumara, or Big Pubtiya, the chief planner of Club Wasantha murder.
 
-මෙම පිරිස අත්අඩංගුවට පත්ව ඇත්තේ ඩුබායි රාජ්‍ය යේ සිට බෙලරුස් හා රුසියානු දේශ සීමා හරහා යුරෝපයට පැනයෑමට උත්සාහ දැරීමේදී බව ආරක්ෂක අංශ සඳහන් කරයි.
+The two others who have been arrested with the big chick are also said that the wife of an organized criminal criminal is the wife of Mervyn Genewa, a large-scale drug dealer.
 
-මූලික වශයෙන් මෙම අපරාධකරුවන් පිළිබඳව රාජ්‍ය බුද්ධි සේවාවත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවත් ජාත්‍යන්තර පොලීසියට හා විදෙස් බුද්ධි අංශවලට ලබාදී තිබූ බුද්ධි තොරතුරු මත මොවුන් ශ්‍රී ලංකාවට අත්‍යවශ්‍ය අපරාධකරුවන් බවට විදෙස් ආරක්ෂක අංශ විසින් හඳුනා ගැනීම නිසා මොවුන් අත්අඩංගුවට පත්වී තිබේ.
+Unwood sources say that the drug trafficking and and Sepala Ratnayake, Rotambay, and Rotamba, and Rotamba have been arrested in the Russian border.
+
+The group was arrested in attempting to escape Europe through the State of Belarus and Russian borders.
+
+The arrests were arrested by foreign security forces as necessary criminals to Sri Lanka as essential criminals to Sri Lanka by the intellectual criminals of the State Intelligence and Criminal Investigations into the Criminal Investigations.
 
 ...
 
 [Data](articles/83bd113b.json)
+
+[Extended Data](ext_articles/83bd113b.ext.json)
 
 ---
 
@@ -2171,33 +2223,5 @@ Accordingly, the officers of the Zonal Office and Line Ministries will be boycot
 [Data](articles/94e606b8.json)
 
 [Extended Data](ext_articles/94e606b8.ext.json)
-
----
-
-### WP NC asks for the bus in 1976 Police
-
-*2024-08-01 19:03:16* · [`adalk`](https://www.ada.lk/breaking_news/wp-NC-1976-බස්-රථය-ගැන-තොරතුරු-පොලීසිය-ඉල්ලයි/11-411156) · `si`
-
-In 1976, WP NC sought help from the police regarding a shooting incident involving Karb-1976, who killed Wasantha. The police urged the public to report any sightings to specific phone numbers. Investigations revealed Karb spent Rs. 41 lakhs for the murder. A 21-year-old woman involved in purchasing Mirissa coconuts was arrested. Two suspects were detained after being found near the Kataragama bus stand. The police, including Wasantha Surendra Perera, arrested nine individuals, including a woman, as part of their investigation.
-
-🟩
-
-The police urge the public to inform the following telephone numbers, if the shooters have been killed by Karb-1976, who was killed by Karb Wasantha, who was killed in a Tattorting artum..
-
-The police are informed that the OIC of the Southern Province of the Western Province will be addressed to the OIC of the Southern Province or the OIC of the Athurugiriya police.
-
-Police investigations have revealed that he had spent Rs. 41 lakhs for the murder of Club Wasantha.
-
-Mirissa coconut is purchased at a 21-year-old woman who paid a sum of Rs.The woman was arrested by police after revealing the incident.
-
-The two shotics were taken into the car and had taken into a shop to the Kataragama bus stand by the van after the end of the past 8th.Investigations have revealed.
-
-According to a new plan in Dubai, the police investigations have revealed that the bus had been purchased to flee and the fire transports used in the Security Forces.
-
-...
-
-[Data](articles/ed066553.json)
-
-[Extended Data](ext_articles/ed066553.ext.json)
 
 ---

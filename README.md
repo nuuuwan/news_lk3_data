@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 21:20:42**
+As of **2024-08-02 21:36:31**
 
 ## Newspaper Stats
 
-*Scraped **38,692** Articles*
+*Scraped **38,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 4,480
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,809
 virakesarilk | 6,122
-adaderanasinhalalk | 6,521
+adaderanasinhalalk | 6,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,690 (100.0%) of 38,692 articles have been extended.
+38,692 (100.0%) of 38,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### රු 150,000ක අල්ලසක් ගත් පොලිස් සැරයන් අත්අඩංගුවට
+
+*2024-08-02 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199499) · `si`
+
+රුපියල් 150,000ක මුදලක් අල්ලස් වශයෙන් ලබාගත් පොලිස් සැරයන්වරයෙකු අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/797f8dff.json)
+
+---
 
 ### ‘River for Jaffna’ project to fully address water problem in north – President
 
@@ -46,23 +58,33 @@ President Ranil Wickremesinghe further stated that it has been 15 years since th
 
 [Data](articles/14ae6e96.json)
 
+[Extended Data](ext_articles/14ae6e96.ext.json)
+
 ---
 
-### ஜனாதிபதிக்கும் அங்கஜனுக்கும் இடையில் சந்திப்பு
+### Meeting between President and Anganj
 
 *2024-08-02 20:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதிக்கும்-அங்கஜனுக்கும்-இடையில்-சந்திப்பு/71-341476) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும், பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனுக்குமிடையிலான விசேட சந்திப்பு இன்று (02) இடம்பெற்றது.
+In a meeting, President Ranil Wickremesinghe and MP Anganan Ramanathan discussed the long-standing issues and development needs of Jaffna. Ramanathan emphasized the importance of addressing these matters, including political settlements, justice for the missing, and economic development, in the president's upcoming election manifesto. He highlighted the need for leadership that prioritizes the people's aspirations and recovery from the economic crisis.
 
-பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதனின் யாழ். மாவட்ட அலுவலகத்தில் இடம்பெற்ற இக்கூட்டத்தில், யாழ். மாவட்ட மக்களின் நீண்டகால கோரிக்கைகள் தொடர்பாகவும் மாவட்டத்தின் அபிவிருத்தி தொடர்பாகவும் பல கோரிக்கைகளை அங்கஜன் இராநாதன் ஜனாதிபதியிடம் முன்வைத்திருந்தார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலுக்கான தேர்தல் விஞ்ஞாபனத்தில் வடக்கு மாகாணம் குறிப்பாக யாழ்ப்பாணம், கிளிநொச்சி மாவட்டங்களை மையப்படுத்திய முன்மொழிவுகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க அவர்கள் உள்ளடக்கும் போது எமது மக்கள் அவருக்கான ஆதரவை வழங்குவார்கள்.
+A special meeting between President Ranil Wickremesinghe and Member of Parliament Anganan Ramanathan took place today (02).
 
-அரசியல் தீர்வு, காணாமல் ஆக்கப்பட்டவர்களுக்கான நீதி, முன்னாள் போராளிகளுக்கான மேம்பாட்டுத் திட்டங்கள், வடக்கின் துரித பொருளாதார மேம்பாடு, காணி விடுவிப்பு, மீள்குடியேற்றம், அத்தியாவசிய தேவைகள் உள்ளிட்ட கோரிக்கைகள் எங்கள் மக்களின் நீண்டகால கனவுகளாக உள்ளன.
+Parliamentarian Anganan Ramanathan's Jaffna. The meeting was held at the district office, Jaffna. Anganan Ranathan had made several demands on the long -standing demands of the district and the development of the district.
+
+When President Ranil Wickremesinghe includes proposals centered on the Northern Province, especially Jaffna and Kilinochchi districts in the upcoming presidential election manifesto, our people will support him.
+
+The demands of our people are the long -standing dreams, including political settlement, justice for the missing, the development of ex -combatants, the rapid economic development of the North, the release of land, the resettlement and the essential needs.
+
+Our people expect leadership not to fulfill them. People have the value of being the leader who recovered the country from the economic crisis.
 
 ...
 
 [Data](articles/2f9603af.json)
+
+[Extended Data](ext_articles/2f9603af.ext.json)
 
 ---
 
@@ -2267,31 +2289,5 @@ He made this statement to the media after a meeting held at the party headquarte
 [Data](articles/706ec49f.json)
 
 [Extended Data](ext_articles/706ec49f.ext.json)
-
----
-
-### Sri Lanka rupee opens at 302.10/30 to US dollar
-
-*2024-08-02 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-10-30-to-us-dollar-174883/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened almost unchanged at 302.10/30 to the US dollar on Friday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.29 percent.
-
-In the secondary market, treasury bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.50/70 percent, up from 10.50/65 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.80.85 percent, down from 11.80/95 percent.
-
-A bond maturing on 15.02.2028 was quoted stable at 12.05/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.25/40 percent, down from 12.20/45 percent.
-
-In equities, Colombo’s All Share Price Index opened 32.66 points higher at 11,472, while the S&P SL20 of more liquid stocks opened up at 0.23 percent or 7.43 points to 3,289.
-
-◼️
-
-[Data](articles/9f2092a9.json)
-
-[Extended Data](ext_articles/9f2092a9.ext.json)
 
 ---

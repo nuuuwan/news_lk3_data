@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 22:54:09**
+As of **2024-08-02 23:05:46**
 
 ## Newspaper Stats
 
-*Scraped **38,699** Articles*
+*Scraped **38,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,483
 adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,809
+tamilmirrorlk | 4,811
 virakesarilk | 6,123
 adaderanasinhalalk | 6,525
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,695 (100.0%) of 38,699 articles have been extended.
+38,699 (100.0%) of 38,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### தாயையும் குட்டிகளையும் விழுங்கிய மலைப்பாம்பு
+
+*2024-08-02 22:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயையும்-குட்டிகளையும்-விழுங்கிய-மலைப்பாம்பு/175-341491) · `ta`
+
+மாத்தறை மாகந்துர ஜனஉதாகம கிராமத்தில் வீடொன்றில் இருந்த நாய் மற்றும் 4 நாய்க் குட்டிகளை நேற்று (01) பிற்பகல் மலைப்பாம்பு ஒன்று விழுங்கியுள்ளது.
+
+இதையடுத்து குறித்த கொட்டகையில் நாய் ஒன்று 4 குட்டிகளை ஈன்றுள்ள நிலையில், குறித்த நாயையும்  ஒரு மாத நான்கு குட்டிகளையும் மலைப்பாம்பு விழுங்கியமை இதன்போது கண்டுபிடிக்கப்பட்டுள்ளது.
+
+அதன்படி வெலிகம பெலன பகுதியில் பாம்பு பிடிக்கும் இளைஞர் ஒருவர் வந்து குறித்த மலைப்பாம்பை பத்திரமாக எடுத்து சென்று பாதுகாப்பான பகுதிக்கு விட நடவடிக்கை எடுத்துள்ளார். R
+
+◼️
+
+[Data](articles/3e0c49f0.json)
+
+---
+
+### இந்தியா - இலங்கை ஒருநாள் போட்டி சமநிலையில் முடிந்தது
+
+*2024-08-02 22:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியா-இலங்கை-ஒருநாள்-போட்டி-சமநிலையில்-முடிந்தது/44-341490) · `ta`
+
+இலங்கை மற்றும் சுற்றுலா இந்திய அணிகளுக்கு இடையிலான முதலாவது ஒருநாள் போட்டியில் வெற்றி தோல்வியின்றி சமநிலையில் நிறைவடைந்துள்ளது.
+
+போட்டியின் நாணய சுழற்சியில் வெற்றிப் பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்தது.
+
+அதன்படி, முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி 50 ஓவர்கள் நிறைவில் 8 விக்கெட்டுக்களை இழந்து 230 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+
+அதன்படி, பதிலுக்கு துடுப்பெடுத்தாடிய இந்திய அணி 47.5 ஓவர்களில் அனைத்து விக்கெட்டுக்களையும் இழந்து 230 ஓட்டங்களை மாத்திரமே பெற்றது.
+
+அதன்படி, மூன்று போட்டிகள் கொண்ட ஒருநாள் தொடரில் முதல் போட்டி வெற்றி தோல்வியின்றி சமநிலையில் நிறைவடைந்துள்ளது. R
+
+◼️
+
+[Data](articles/7c43ec3b.json)
+
+---
 
 ### SLTPB wins ‘Best International Tourism Board’ at Global Tourism Awards
 
@@ -46,61 +82,93 @@ The Global Tourism Awards serve as a platform to honour and celebrate organizati
 
 [Data](articles/ad9383e6.json)
 
+[Extended Data](ext_articles/ad9383e6.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයට ජාත්‍යන්තර සම්මානයක්
+### International award for Sri Lanka Tourism Promotion Bureau
 
 *2024-08-02 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199502) · `si`
 
-ට්‍රැවල් වර්ල්ඩ් ඔන්ලයින් (TWO) විසින් සංවිධානය කරන ලද 2024 ගෝලීය සංචාරක සම්මාන උළෙලේදී ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය (SLTPB) "හොඳම ජාත්‍යන්තර සංචාරක මණ්ඩලය" සම්මානයෙන් පිදුම් ලබයි.
+Sri Lanka Tourism Promotion Bureau won the "Best International Tourism Board" award, highlighting its efforts in promoting tourism globally.
+
+🟩
+
+The Sri Lanka Tourism Promotion Bureau of Sri Lanka (SLTPB) wins the "Best International Tourism Board" (SLTPB).
 
 ◼️
 
 [Data](articles/64060464.json)
 
+[Extended Data](ext_articles/64060464.ext.json)
+
 ---
 
-### ඔලිම්පික් උලෙළ සංවේදී කළ මොහොතක්
+### A moment of the Olympics
 
 *2024-08-02 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199501) · `si`
 
-පැරිස් ඔලිම්පික් උලෙළේ කාන්තා බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටය යටතේ ඉතාලියේ ඇන්ජලා කරීනි සහ ඇල්ජීරියාවේ ඉමාන් කලීෆ් අතර පැවති තරගයට බොහෝ දෙනෙක්ගේ අවධානය යොමුව තිබුණි.
+At the Paris Olympics, Italian boxer Angela Karini faced Algerian athlete Imaan Kalayif, a biologically male individual competing in the women's category. The match ended quickly, with Kalayif being disqualified within 46 seconds. Despite Kalayif's success at the Tokyo Olympics, controversy arose over their participation due to their genetic makeup and testosterone levels, leading to discussions about fairness and representation in women's sports.
 
-ඒ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙස හැඳින්වෙන ඇල්ජීරියාවේ ඉමාන් කලීෆ් මෙම ඉසව්වට සහභාගි වීම හේතුවෙනි.
+🟩
 
-ඉමාන් කලීෆ් සමඟ ඇන්ජලා කරීනි අතර එම තරගය පැවැත්වුණේ තත්ත්පර 46ක් වැනි කෙටි කාලයක් පමණයි.
+The women's boxing event at the Paris Olympics was the round of the 16 people of Italy, Italy Karini and Algeria in Algeria.
 
-ඇන්ජලා කරීනි තරගය පැවති තත්පර 46 තුළ ඉමාන් කලීෆ්ගේ දැඩි ප්‍රහාරයට ලක්විය.
+It is because Imaan Kalayif, called a biologically man, participating in this event.
 
-"මගේ බොක්සිං දිවිය තුළ මම කවදාවත් ඒ වගේ පහරවල්වලට මුහුණ දීලා නෑ. මේ සිදුවීම ඔලිම්පික් විනිසුරු මඩුල්ලට භාරයි."
+Angela Karini with Iman Khariif, the match was only 46 seconds.
 
-ඉමාන් කලීෆ් කාන්තාවක් ලෙස උපත ලැබුවත් ජාන පිහිටීමේ ස්වභාවය සහ රුධිරයේ ටෙස්ටෙස්ටරෝන් ප්‍රතිශතය ඉහළ මට්ටමක පැවතීම හේතුවෙන් ඇයව හැඳින්වූයේ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙසය.
+In 46 seconds of the Angela Karini, Iman Khaliff was attacked in 46 seconds.
 
-ඇය 2021 ටෝකියෝ ඔලිම්පික් උලෙළේදී කාන්තා බොක්සිං ඉසව්වෙන් තරගවැදි අතර ඇයට එහිදී පරාජයට පත්වීමට සිදුවිය.
+"In my boxing life I have never faced such likes. This event is up to the Olympic judge. "
+
+Although Imaan Kalay was born as a woman, the nature of the genetics and blood testerone was high as a biologically man.
+
+She had to defeat the women's boxing event at the Tokyo Olympics Festival.
+
+But the two athletes from Algeria as well as the two players who were in Taiwan Kalay and Taiwan were removed from the Women's World WC Boxing Tournament.
+
+The World Boxing Federation said that playing with the imaan Kalayife and Lin White, women were unfairly injustice.
 
 ...
 
 [Data](articles/d036189e.json)
 
+[Extended Data](ext_articles/d036189e.ext.json)
+
 ---
 
-### இலங்கை - இந்திய அணிகளுக்கு இடையிலான முதலாவது ஒருநாள் போட்டி சமநிலையில் முடிவடைந்தது
+### The first ODI between Sri Lanka and India ended in balance
 
 *2024-08-02 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190133) · `ta`
 
-இலங்கை - இந்திய அணிகளுக்கு இடையில் கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் வெள்ளிக்கிழமை (02) கடைசிவரை மிகவும் பரபரப்பை ஏற்படுத்திய முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி சமநிலையில் முடிவடைந்தது. இரண்டு அணிகளுக்கும் இடையில் சமநிலையில் முடிவடைந்த இரண்டாவது சந்தர்ப்பம் இதுவாகும்.
+The first ODI between Sri Lanka and India at Colombo's Premadasa Stadium ended in a tie, marking the second time this has happened between the two teams. Sri Lanka, batting first, scored 230 runs but struggled against India's bowlers, managing only 101 runs for the loss of 5 wickets. Key contributors for Sri Lanka included opener Pathum Nissanka with 56 runs and middle-order batsman Dhananjaya de Silva with 67 runs. In response, India also scored 230 runs but fell short due to poor performances from key players like Virat Kohli and Shreyas Iyer.
 
-இலங்கையினால் நிர்ணயிக்கப்பட்ட 131 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 47.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்ததால் ஆட்டம் சமநிலையில் முடிவடைந்தது.
+🟩
 
-இதற்கு முன்னர் இந்த இரண்டு அணிகளுக்கும் இடையில் அடிலெய்டில் 2012 பெப்ரவரியில் நடைபெற்ற முத்தரப்பு சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி சமநிலையில் முடிவடைந்திருந்தது.
+Colombo R. The first international ODI match ended in the Premadasa Stadium on Friday (02).. This is the second occasion that ended in balance between the two teams.
 
-இந்தப் போட்டியில் இலங்கை முதலில் துடுப்பெடுத்தாடத் தீர்மானித்து 50 ஓவர்களில் 8 விக்டெக்ளை இழந்து 230 ஓட்டங்களைப் பெற்றது.
+India lost all the wickets in 47.5 overs, targeting 131 runs by Sri Lanka.
 
-துடுப்பாட்ட வீரர்களுக்கு சிரமத்தைக் கொடுத்த ஆடுகளத்தில் இந்திய பந்துவீச்சாளர்களை எதிர்கொள்வதில் தடுமாற்றம் அடைந்த இலங்கை, அரைவாசிக்கும் மேற்பட்ட ஓவர்கள் வீப்பட்ட நிலையில் 5 விக்கெட்களை இழந்து 101 ஓட்டங்களை மாத்திரம் பெற்றிருந்தது.
+Prior to that, the tri -series ODI match ended in Adelaide in Adelaide between the two teams.
+
+Sri Lanka decided to bat first and scored 230 runs in 50 overs.
+
+Sri Lanka stumbled upon the Indian bowlers on the pitch, which gave them difficulty, and they scored only 101 runs for the loss of 5 wickets.
+
+In the forefront, the opening batsman Betham Nissanka only scored 56 runs with 9 pounds.
+
+In the middle of the middle of the line, the young player Dunit Vellalake did not lose the game with 67 runs, including 7 pounds and 2 sixes.
+
+Sri Lanka scored 230 runs with Janith Liyanage in the 6th wicket, 41 runs with Janit Liyanage, 36 runs with Hasaranga in the 7th and 46 runs with 8th wicket.
+
+Janith Liyanage scored 20 runs, Hazaranga 24 runs and Akkila Tanjaya 17 runs.
 
 ...
 
 [Data](articles/2c0d7593.json)
+
+[Extended Data](ext_articles/2c0d7593.ext.json)
 
 ---
 
@@ -2223,49 +2291,5 @@ The accident occurred last morning. After the fall of the girl in the pre-school
 [Data](articles/4c383183.json)
 
 [Extended Data](ext_articles/4c383183.ext.json)
-
----
-
-### Don't travel in Lebanon - Ali Sabri
-
-*2024-08-02 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199480) · `si`
-
-Sri Lanka advises its citizens against traveling to Lebanon due to unspecified reasons, affecting around 6,000 Sri Lankans already there.
-
-🟩
-
-In the next few days, Sri Lankans have issued advice to Sri Lankans not to visit Lebanon in the next few days.
-
-It is reported that about 6,000 Sri Lankans remain in the country.
-
-◼️
-
-[Data](articles/9373d2db.json)
-
-[Extended Data](ext_articles/9373d2db.ext.json)
-
----
-
-### Sri Lankans advised not to visit Lebanon in next few days
-
-*2024-08-02 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100935/sri-lankans-advised-not-to-visit-lebanon-in-next-few-days) · `en`
-
-Sri Lankans have been advised not to visit Lebanon during the next few days, unless for essential purposes, Minister of Foreign Affairs Ali Sabry said.
-
-This advice comes amid rising tensions in the region following the assassination of Hamas leader Ismail Haniyeh.
-
-When inquired by Ada Derana, the Minister also expressed that there are around 6,000 Sri Lankans currently residing in Lebanon.
-
-Meanwhile on Thursday (01), Minister Sabry emphasized that the government has a plan in place to repatriate Sri Lankan expatriate workers in Iran and its region in the event the conflict escalates to violence.
-
-He also affirmed that the President has appointed two committees to monitor this situation and to take necessary measures.
-
-“We already had a plan in place for this situation in October, which we are now reviewing. In the event that the conflict escalates, we have a plan to take immediate action to safeguard the lives of Sri Lankans in the region”, he highlighted.
-
-...
-
-[Data](articles/4add5f9d.json)
-
-[Extended Data](ext_articles/4add5f9d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 13:05:48**
+As of **2024-08-02 13:20:43**
 
 ## Newspaper Stats
 
-*Scraped **38,613** Articles*
+*Scraped **38,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,94 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,331
 dailyftlk | 2,483
-adalk | 3,545
+adalk | 3,547
 adaderanalk | 4,466
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,798
+tamilmirrorlk | 4,800
 virakesarilk | 6,108
-adaderanasinhalalk | 6,504
+adaderanasinhalalk | 6,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,611 (100.0%) of 38,613 articles have been extended.
+38,613 (100.0%) of 38,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### ශ්‍රී ලංකා ඔලිම්පික් බලාපොරොත්තුව තරුෂි අද තරග බිමට
+### கண்புரை சிகிச்சை: பலரும் பார்வையை இழந்தனர்
+
+*2024-08-02 12:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்புரை-சிகிச்சை-பலரும்-பார்வையை-இழந்தனர்/76-341454) · `ta`
+
+கண்புரை சிகிச்சை செய்தவர்களில் பலர் தங்களுடைய பார்வையை இழந்துவிட்டனர் என்றும் இதனால், பெரும் அசௌகரியங்களுக்கு முகங்கொடுத்துள்ளனர் என்றும் அறியமுடிகின்றது.
+
+நுவரெலியா தேசிய வைத்தியசாலையில், ஜூலை 29 ஆம் திகதிக்கு பின்னர் கண்புரை சிகிச்சை செய்து கொண்டவர்களில் சிலர் இவ்வாறான நிலைமை ஏற்பட்டுள்ளது என அறியமுடிகிறது.
+
+எனினும், கண்புரை சிகிச்சை செய்த 52 பேரில், சிலருக்கு இரண்டொரு நாட்களுக்கு மட்டுமே அவ்வாறான நிலைமை இருந்தது என்றும், இரண்டு நாட்களாக தங்கியிருந்து சிகிச்சை பெற்றுக்கொண்டவர்களில் பலரின் பார்வை வழமைக்குத் திரும்பியுள்ளது என்றும் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/77937dec.json)
+
+---
+
+### පුංචි ශ්‍රී පාදය නැරඹීමට ගිය විදෙස් කත ඇද වැටෙයි
+
+*2024-08-02 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199482) · `si`
+
+පුංචි ශ්‍රී පාදය නැරඹීමට ගිය බ්‍රිතාන්‍ය කාන්තාවක් ඊයේ (01) එම කන්දෙන් ඇදවැටී තුවාල සිදුවී තිබේ.
+
+තුවාල සිදුවූ ඇයව බදුල්ල ශික්ෂණ රෝහල වෙත යොමුකෙරුණේ සංචාරක පොලීසිය සහ පිරිසකගේ මැදිහත්වීමෙනි.
+
+ඇල්ල – පස්සර මාර්ගයේ පිහිටා ඇති පුංචි ශ්‍රී පාදය නැරඹීම සඳහා ඊයේ ගමන් කරමින් සිටි 33 හැවිරිදි බ්‍රිතාන්‍ය ජාතික කාන්තාවක එම කන්දෙන් මෙලෙස ඇදවැටී ඇත.
+
+◼️
+
+[Data](articles/23dfac55.json)
+
+---
+
+### Tharusis to the ground today
 
 *2024-08-02 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199481) · `si`
 
-'පැරිස් 2024' ඔලිම්පික් උළෙලේ ශ්‍රී ලංකාවේ ප්‍රධාන බලාපොරොත්තුවක් වන තරුෂි කරුණාරත්න සහභාගී වන කාන්තා මීටර් 800 ඉසව්වේ මූලික වටයේ තරග අද (02) පැවැත් වෙයි.
+Tharushi Karunaratne, representing Asia in the 800m female event at the Paris Olympics, competes in her 6th match today. The event starts at 12 midnight in Sri Lanka, marking a significant moment for the country as Tharushi stands out as the sole Asian participant in this round.
 
-තරුෂි එහි 06වැනි මූලික තරගයට සහභාගී වන අතර, එම තරග ඉසව්ව මෙරට වේලාවෙන් මධ්‍යම රාත්‍රී 12.00ට ආරම්භකිරීමට නියමිතව ඇත.
+🟩
 
-මෙවර පැරිස් ඔලිම්පික් උළෙලේ මීටර් 800 කාන්තා ඉසව්වට සුදුසුකම් ලැබූ ක්‍රීඩිකාවන් අතරින්, ආසියානු කලාපයම නියෝජනය කර සිටින්නේ තරුෂිට අමතරව තවත් ක්‍රීඩිකාවන් තිදෙනෙකු පමණි.
+Tharushi Karunaratne, a major expectation of Sri Lanka's main expectation, will be held today (2).
 
-එම ක්‍රීඩිකාවන් පලස්තීනය, කුවෙට් හා බහරේනය නියෝජනය කරමින් තරග වඳිනු ඇත.
+Tharushi is participating in its 6th match, and the event will be started at 12 midnight in Sri Lanka.
 
-එමෙන්ම තරුෂි තරගවදින 06වැනි මූලික තරගයේ සිටින එකම ආසියානු ක්‍රීඩිකාවද ඇය පමණක් වෙයි.
+The Asian region represents the 800m female event at the Paris Olympics this year.
+
+Those athletes will represent the Palestine, Kuut and Bahrain.
+
+She is also the only Asian athlete in the 6th match match.
 
 ◼️
 
 [Data](articles/64d9ea18.json)
+
+[Extended Data](ext_articles/64d9ea18.ext.json)
+
+---
+
+### தனது படம் குறித்து பட்டென அறிவித்தார் மஹிந்த
+
+*2024-08-02 12:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-படம்-குறித்து-பட்டென-அறிவித்தார்-மஹிந்த/175-341452) · `ta`
+
+தனது புகைப்படத்தை தேர்தல் பிரச்சாரத்திற்கு பயன்படுத்த எவருக்கும் தடையில்லை என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்திய பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்கள் கடந்த காலங்களில் தனது புகைப்படங்களை தேர்தல் நடவடிக்கைகளுக்கு பயன்படுத்தியதை நினைவுகூர்ந்த அவர், அவர்கள் தன்னுடைய புகைப்படங்களை பயன்படுத்துவதற்கு தடையில்லை எனவும் சுட்டிக்காட்டியுள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் தலைமையகத்தில் நடைபெற்ற கூட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4ce44908.json)
 
 ---
 
@@ -67,6 +121,8 @@ Furthermore, he mentioned that despite the challenges of managing the state budg
 ◼️
 
 [Data](articles/b7647c3e.json)
+
+[Extended Data](ext_articles/b7647c3e.ext.json)
 
 ---
 
@@ -106,6 +162,22 @@ During today’s court proceedings, President’s Counsel Upul Jayasuriya who ap
 
 ---
 
+### PHI ඝාතන සැකකරු රඳවාගෙන ප්‍රශ්න කරනවා
+
+*2024-08-02 12:19:42* · [`adalk`](https://www.ada.lk/breaking_news/PHI-ඝාතන-සැකකරු-රඳවාගෙන-ප්‍රශ්න-කරනවා/11-411165) · `si`
+
+මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා මාස 05කට පෙර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් සැකකරු රඳවාගෙන ප්‍රශ්න කරන බව රහස් පොලීසිය කොටුව මහේස්ත්‍රාත් තනුජා ලක්මාලි මහත්මියට ඊයේ (01දා) දැනුම් දුන්නේය.
+
+මනුෂ්‍ය ඝාතන සහ ත්‍රස්තවාදී ක්‍රියාවලට සම්බන්ධ වූ බවට සැකකරමින් අත්අඩංගුවට ගනු ලැබූ රන්ජන් ධර්මප්‍රිය හෙට්ටිආරච්චි නමැත්තා සම්බන්ධයෙන් ඇල්පිටිය මහේස්ත්‍රාත් අධිකරණයෙන් ලබාගත් රැඳවුම් නියෝග මත ඔහු රඳවාගෙන ප්‍රශ්න කරන බවද රහස් පොලීසිය දැනුම් දුන්නේය.
+
+අත්අඩංගුවට ගනු ලැබූ සැකකාර රන්ජන් ධර්මප්‍රිය හෙට්ටිආරච්චි නමැත්තා පසුගිය මස 12වැනිදා ඇල්පිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර එදින සිට දින 90ක කාලයක් සඳහා බලපැවැත්වෙන අන්දමට ලබාගත් රැඳවුම් නියෝග මත ඔහු රඳවාගෙන ප්‍රශ්න කරන බව දැනුම් දුන් රහස් පොලීසිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා සිටින සැකකරු නීරීක්‍ෂණය කරන්නැයි මහේස්ත්‍රාත්වරියගෙන් ඉල්ලීමක්ද කළේය.
+
+...
+
+[Data](articles/b6493ec0.json)
+
+---
+
 ### Arrested for tearing down sheets in the book
 
 *2024-08-02 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகத்தில்-தாள்களை-கிழித்த-ஆசிரியை-கைது/175-341447) · `ta`
@@ -125,6 +197,26 @@ When he was ready to take legal action against the driver, the teacher, the driv
 [Data](articles/2e9f5ce5.json)
 
 [Extended Data](ext_articles/2e9f5ce5.ext.json)
+
+---
+
+### ලොකු පැටී ඇතුළු 3ක්  බෙලරුස්හිදී අත්අඩංගුවට
+
+*2024-08-02 12:00:08* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටී-ඇතුළු-3ක්--බෙලරුස්හිදී-අත්අඩංගුවට/11-411163) · `si`
+
+ක්ලබ් වසන්ත ඝාතනයේ   ප්‍රධාන සැලසුම්කරු වන   සුජීව රුවන් කුමාර නොහොත් ලොකු පැටී නමැත්තා ඇතුළු තිදෙනෙක් බෙලරුස්හිදී අත්අඩංගුවට පත්වී ඇති බව ආරක්ෂක අංශවලට නිලවශයෙන් තොරතුරු ලැබී තිබේ.
+
+ලොකු පැටී සමග අත්අඩංගුවට පත්ව ඇති අනෙක් දෙදෙනා වනුයේ  සංවිධානාත්මක අපරාධ කරුවෙකු වන රොටුඹේ අමිල හා මහා පරිමාන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන මර්වින් ජානාගේ බිරිඳ ද බව ද පැවසේ.
+
+එමෙන්ම කංජිපානි ඉම්රාන්   නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු සහ සහ සේපාල රත්නායක නොහොත් රොටුඹ අමිල නමැති දෙදෙනාද රුසියානු දේශසීමාවේදී ආරක්ෂක අංශවල අත්අඩංගුවට පත්ව ඇතිබවටද නිල නොලත් ආරංචිමාර්ග සඳහන් කරයි.
+
+මෙම පිරිස අත්අඩංගුවට පත්ව ඇත්තේ ඩුබායි රාජ්‍ය යේ සිට බෙලරුස් හා රුසියානු දේශ සීමා හරහා යුරෝපයට පැනයෑමට උත්සාහ දැරීමේදී බව ආරක්ෂක අංශ සඳහන් කරයි.
+
+මූලික වශයෙන් මෙම අපරාධකරුවන් පිළිබඳව රාජ්‍ය බුද්ධි සේවාවත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවත් ජාත්‍යන්තර පොලීසියට හා විදෙස් බුද්ධි අංශවලට ලබාදී තිබූ බුද්ධි තොරතුරු මත මොවුන් ශ්‍රී ලංකාවට අත්‍යවශ්‍ය අපරාධකරුවන් බවට විදෙස් ආරක්ෂක අංශ විසින් හඳුනා ගැනීම නිසා මොවුන් අත්අඩංගුවට පත්වී තිබේ.
+
+...
+
+[Data](articles/83bd113b.json)
 
 ---
 
@@ -2107,111 +2199,5 @@ According to a new plan in Dubai, the police investigations have revealed that t
 [Data](articles/ed066553.json)
 
 [Extended Data](ext_articles/ed066553.ext.json)
-
----
-
-### People's United Front supported President Ranil led by Prime Minister Dinesh Gunawardena
-
-*2024-08-01 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190042) · `ta`
-
-The People's United Front, under Prime Minister Dinesh Gunawardena, has endorsed President Ranil Wickremesinghe for re-election. This decision was made unanimously at a central committee meeting held on January 1st.
-
-🟩
-
-The People's United Front led by Prime Minister Dinesh Gunawardena has decided to support President Ranil Wickremesinghe in the upcoming presidential election.
-
-Prime Minister Dinesh Gunawardena added that the resolution was unanimously reached when the party's central committee convened on Thursday, the 01st.
-
-The decision was taken during the People's United Front Central Executive Committee meeting.
-
-◼️
-
-[Data](articles/830e018e.json)
-
-[Extended Data](ext_articles/830e018e.ext.json)
-
----
-
-### Ten candidates place deposits for 2024 Presidential Election thus far
-
-*2024-08-01 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100924/ten-candidates-place-deposits-for-2024-presidential-election-thus-far) · `en`
-
-The Election Commission of Sri Lanka says that four more candidates have placed their deposits today (01) to contest the 2024 Presidential Election.
-
-In total, 10 candidates have placed their deposits with the Election Commission accordingly.
-
-This includes three independent candidates, six candidates from recognized political parties and one candidate from other political parties.
-
-The independent candidates are President Ranil Wickremesinghe and former MP Sarath Keerthirathne while the other eight candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’, ASP Liyanage of the Sri Lanka Labour Party, Sajith Premadasa of the ‘Samagi Jana Balawegaya’, P W S K Bandaranayake from ‘Jathika Sanwardhana Peramuna’, Dr. Wijeyadasa Rajapakshe of the ‘National Democratic Front’, Siritunga Jayasuriya of the ‘United Socialist Party’ and Ajantha De Zoysa of ‘Ruhunu Janatha Party’.
-
-...
-
-[Data](articles/0c02f368.json)
-
-[Extended Data](ext_articles/0c02f368.ext.json)
-
----
-
-### Steps have been taken to face the Middle East
-
-*2024-08-01 18:45:02* · [`adalk`](https://www.ada.lk/breaking_news/මැද-පෙරදිග-තත්ත්වය-දුරදිග-ගියොත්-මුහුණ-දීමට-පියවර-ගෙන-තිබෙනවා/11-411155) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe has formed three special committees to prepare for potential crises, emphasizing proactive measures over reactive responses. This move comes amid global challenges, including the Russian-Ukrainian war affecting fuel and commodity prices. Wickremesinghe's efforts to stabilize the economy and secure foreign aid have been highlighted, with successful negotiations leading to the resumption of significant projects and investments. His approach to managing both Eastern and Western countries without aligning to a single party has been praised, with ForeignPolicy.com noting Sri Lanka's effective foreign policy management.
-
-🟩
-
-Minister of External Affairs Ali Sabri said President Ranil Wickremesinghe's decision to appoint three special committees would be a timely plan to be held in preposals as a crisis in the Middle East.
-
-He pointed out that the Minister said that the Minister said that the minister had no need to wait for a country to collapse.
-
-Minister of Foreign Affairs, Attorney Ali Sabri said this at a press conference held at the Presidential Media Center today (01) this morning.
-
-President Ranil Wickremesinghe was able to restore Sri Lanka's economically stable and the party's politics to build the President and support the President's program.
-
-...
-
-[Data](articles/6817dbeb.json)
-
-[Extended Data](ext_articles/6817dbeb.ext.json)
-
----
-
-### Dinish battle to win Ranil
-
-*2024-08-01 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199460) · `si`
-
-The United Front, under PM Dinesh Gunawardena, will back President Ranil Wickremesinghe in the upcoming presidential election. This move was confirmed during a central committee meeting.
-
-🟩
-
-President's United Front has decided to support President Ranil Wickremesinghe in the next presidential election led by Prime Minister Dinesh Gunawardena.
-
-Prime Minister Dinesh Gunawardena added that this decision was taken at the time of the party's central committee meeting this afternoon.
-
-◼️
-
-[Data](articles/47497faf.json)
-
-[Extended Data](ext_articles/47497faf.ext.json)
-
----
-
-### Mahajana Eksath Peramuna to support Ranil at prez poll
-
-*2024-08-01 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100923/mahajana-eksath-peramuna-to-support-ranil-at-prez-poll-) · `en`
-
-The Mahajana Eksath Peramuna (MEP) led by Prime Minister Dinesh Gunawardena has also decided to support President Ranil Wickremesinghe at the upcoming Presidential Election.
-
-Meanwhile, the Central Committee of the Sri Lanka Freedom Party (SLFP) recently expressed their unwavering support for President Wickremesinghe’s victory in the forthcoming presidential election.
-
-Additionally, 92 Members of Parliament including Ministers and State Ministers recently met with Wickremesinghe and pledged their support for the President in the upcoming presidential election to ensure his victory.
-
-Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Wickremesinghe.
-
-◼️
-
-[Data](articles/7640a930.json)
-
-[Extended Data](ext_articles/7640a930.ext.json)
 
 ---

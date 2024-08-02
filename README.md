@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 09:07:11**
+As of **2024-08-02 09:20:44**
 
 ## Newspaper Stats
 
-*Scraped **38,580** Articles*
+*Scraped **38,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,542
-adaderanalk | 4,457
+adaderanalk | 4,458
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,791
 virakesarilk | 6,103
@@ -26,27 +26,51 @@ adaderanasinhalalk | 6,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,578 (100.0%) of 38,580 articles have been extended.
+38,580 (100.0%) of 38,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### ඔන්ලයින් අපරාධ කරන තවත් පිරිසක් අත්අඩංගුවට
+### Suspect arrested with ‘golden lotus’ of archaeological value
+
+*2024-08-02 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100931/suspect-arrested-with-golden-lotus-of-archaeological-value) · `en`
+
+Officers of the Matale Division criminal investigation bureau have arrested a person while in possession of a “golden lotus flower”, which is claimed to have archaeological value.
+
+The suspect was arrested during a raid yesterday (01) in the Aluvihare area of the Matale Police Division, based on information received.
+
+The golden lotus flower, weighing 706 grams and consisting of 24 petals of different sizes, was allegedly intended to be sold for Rs. 5,000,000 by the suspect.
+
+The arrested individual is a 33-year-old resident of Kawudupelella, Matale.
+
+◼️
+
+[Data](articles/55d85f96.json)
+
+---
+
+### Others arrested for crimes
 
 *2024-08-02 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199475) · `si`
 
-අන්තර්ජාලය හරහා අපරාධ සිදුකිරීම සම්බන්ධයෙන් චීන ජාතිකයින් ඇතුළු 08 දෙනෙකු ගාල්ල පොලීසිය විසින් ඊයේ (01) අත්අඩංගුවට ගෙන තිබේ.
+Eight individuals, including eight Chinese nationals, were arrested by the Galle Police for internet-related crimes in the Udugama area. The suspects, aged 24 to 36, were found with nine computers, 186 mobile phones, and numerous SIM cards.
 
-ගාල්ල පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත ගාල්ල වරාය පොලිස් වසමේ උඩුගම ප්‍රදේශයේ තාවකාලික ලැඟුම්හලක් පරීක්ෂා කිරීමේදී මෙම විදේශ ජාතිකයින් අත්අඩංගුවට ගැනීමට හැකිවී ඇත.
+🟩
 
-මෙම සැකකරුවන් අවුරුදු 24 හා 36 අතර වයස්වල පසුවන්නන් වන අතර, ඔවුන්ගෙන් 06 දෙනෙකු චීන ජාතිකයින්ය.
+Also, 8 including the Chinese have been arrested by the Galle Police yesterday (01) regarding the crime of the Internet.
 
-සැකකරුවන් සන්තකයේ තිබී පරිගණක යන්ත්‍ර 09ක්, ජංගම දුරකථන 73ක් හා සිම්පත් විශාල ප්‍රමාණයක් සොයා ගැනීමට හැකිවූ බව පොලීසිය සඳහන් කරයි.
+These foreign nationals have been arrested in the Galle Port Police Division in the Udugama area in Udugama on information received by the Galle Police Division.
+
+The suspects are between 24 and 36 years and six of them are the Chinese.
+
+Nine computers, 93 mobile phones and 73 mobile phones and SIM were found in the possession of the suspects.
 
 ◼️
 
 [Data](articles/96bf9bad.json)
+
+[Extended Data](ext_articles/96bf9bad.ext.json)
 
 ---
 
@@ -1304,17 +1328,25 @@ At this moment, there is a need to enter politics on the basis that my people ha
 
 ---
 
-### ගුරු විදුහල්පති දෙවැනි වෘත්තීය ක්‍රියාමාර්ගය 5දා අරඹයි
+### Teacher Principal launches second trade union action
 
 *2024-08-01 19:06:59* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-දෙවැනි-වෘත්තීය-ක්‍රියාමාර්ගය-5දා-අරඹයි/11-411157) · `si`
 
-ගුරු විදුහල්පතිවරුන්ට ඇති වී තිබෙන ගැටලු විසඳන ලෙස ඉල්ලා හා තවත් ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් ආරම්භ කළ අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය අද(02දා) අවසන් කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි. මේ අනුව දෙවැනි ක්‍රියා මාර්ගය ලබන 05 වැනි සදුදා සිට  ආරම්භ කරන බවත්, අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය සති දෙකක් පුරා සිදුකළ  බවත් එම සන්ධානයේ සාමාජික ලංකා ගුරු සංගමයේ ලේකම් ජෝසප් ස්ටාලින් මහතා සඳහන් කළේය.
+The Gururu Pr School Associations (UPF) announced a second trade union action starting next Monday due to unresolved teacher issues. The union demands include addressing salary anomalies, providing adequate funds, and improving school equipment. Members will boycott attending schools after 1:30 pm, affecting educational institutions' operations post-1:30 pm.
 
-වැටුප් විෂමතාව විසඳීම යටතේ ලැබිය යුතු තුනෙන් දෙකක කොටස ලබා දෙන ලෙස හා පාසල් උපකරණ මිල අඩු කිරීමට අදාළ වැඩපිළිවෙළක් සකස් කරන ලෙස ඉල්ලා හා  පාසල් නඩත්තුව සඳහා නිසි ලෙස මුදල් ලබා දෙන ලෙස ඉල්ලා අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය සිදුකළ බවද හෙතෙම පැවසීය.එහෙත් අදාළ ඉල්ලීම්වලට විසඳුම් ලබා දීමට බලධාරීන් කටයුතු නොකරන නිසා  දෙවැනි ක්‍රියා මාර්ගය ආරම්භ කිරීමට තීරණය කර තිබෙන බවද ඒ මහතා සඳහන් කළේය.
+🟩
 
-...
+Gururu Pr School Associations (UPF) states that the prospect of the precise of the precise of the teacher's problems to address the problems of the teacher, asking for a number of other demands today (2).. Accordingly, the second program will commence from Monday, 5 weeks, and said that the members of the Alliance (UPFA) Joseph Stalin said.
+
+He said that the proposals were made to be demanded to provide a two-thirds part of the salary anomality and demanding a proper fund and the school equipment.He said that the second procedure has been taken to commence the second procedure as the authorities do not work.
+
+Accordingly, the officers of the Zonal Office and Line Ministries will be boycotted to attend school after 1.30 pm off the end of 1.30 pm, he said that after 1.30 pm, the educational institutions will boycott the no avail..
+
+◼️
 
 [Data](articles/94e606b8.json)
+
+[Extended Data](ext_articles/94e606b8.ext.json)
 
 ---
 
@@ -2137,27 +2169,5 @@ And the accident insurance is Rs.. 200,000 / - also will benefit from permanent 
 [Data](articles/8d55b184.json)
 
 [Extended Data](ext_articles/8d55b184.ext.json)
-
----
-
-### Murder suspect surrenders to police
-
-*2024-08-01 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199451) · `si`
-
-A murder suspect surrendered to police after allegedly attacking someone with an iron rod in Habaraduwa. The arrest followed a private dispute between the suspect and the victim. Further investigations are ongoing.
-
-🟩
-
-The suspect was arrested by a person who was attacked with an iron rod in a house in Habaraduwa.
-
-Police said that the suspect had come to Habaraduwa police station and was arrested.
-
-The murder had been carried out on a private dispute between the suspect and the victim. Habaraduwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a018870b.json)
-
-[Extended Data](ext_articles/a018870b.ext.json)
 
 ---

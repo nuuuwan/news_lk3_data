@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 19:36:26**
+As of **2024-08-02 19:54:26**
 
 ## Newspaper Stats
 
-*Scraped **38,682** Articles*
+*Scraped **38,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,345
 dailyftlk | 2,483
-adalk | 3,553
+adalk | 3,554
 adaderanalk | 4,479
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,808
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,681 (100.0%) of 38,682 articles have been extended.
+38,682 (100.0%) of 38,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Earlier, deposits had been placed on behalf of the independent candidates Presid
 ...
 
 [Data](articles/c080cb6b.json)
+
+[Extended Data](ext_articles/c080cb6b.ext.json)
 
 ---
 
@@ -359,6 +361,20 @@ Sri Lanka has a bloated state with unemployed graduates being given non-existent
 [Data](articles/cb9d2927.json)
 
 [Extended Data](ext_articles/cb9d2927.ext.json)
+
+---
+
+### සිංහරාජය බලන්න ආපු වැඩිම සංචාරකයන් ප්‍රමාණය මේ වසරේදී
+
+*2024-08-02 17:22:58* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජය-බලන්න-ආපු-වැඩිම-සංචාරකයන්-ප්‍රමාණය-මේ-වසරේදී/11-411171) · `si`
+
+ලෝක උරුම  සිංහරාජ  වනාන්තරය නැරඹීම සඳහා  වැඩිම දෙස් විදෙස් සංචාරකයින් පැමිණ ඇත්තේ මෙම වසරේ බව වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීහු පෙන්වා දුන්හ. පාර්ලිමේන්තුවේ රජයේ ගිණුම් කාරක සභාවේදී මෙම කරුණු අණාවරණය විය.
+
+සමස්ත සංචාරකයින් 35000කට අධික පිරිසක්  සිංහරාජ  වනාන්තරය නැරඹීමට මෙලෙස ගතවූ මාස කිහිපය තුළ පැමිණ  තිබේ. මෙහිදී වනාන්තරයට හානි සිදු නොවන අයුරින් තවදුරටත් සංචාරකයින් සඳහා අවශ්‍ය පහසුකම් වැඩි කරමින්  ඉහළ  සංචාරක ආකර්ශනයක් ලබා ගැනීමට කටයුතු කරන ලෙස කාරක සභාපතිවරයා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+◼️
+
+[Data](articles/a48fe718.json)
 
 ---
 
@@ -2271,27 +2287,5 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/7c63c256.json)
 
 [Extended Data](ext_articles/7c63c256.ext.json)
-
----
-
-### It is still raining in many areas today
-
-*2024-08-02 08:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இன்றும்-மழை-பெய்யும்/175-341439) · `ta`
-
-Rain continues across many regions, with potential storms in Badulla, Ampara, and Batticaloa evenings/nights. Strong winds (50-55km/h) hit western slopes of Central Highlands, North, North Central, North Western Provinces, and Trincomalee, Moneragala, Hambantota districts. Other areas may see lesser winds (30-40km/h).
-
-🟩
-
-It is possible that some places in Badulla, Ampara and Batticaloa districts are likely to experience rain or thunderstorms in the evening or at night.
-
-In addition, strong winds can be blowing at speeds of 50-55 kilometers per hour in the western slopes of the Central Highlands, North, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
-
-In other areas, there is a possibility that there is a bit of strong winds at speeds of up to 30-40 km / h.
-
-◼️
-
-[Data](articles/5bfb7d9f.json)
-
-[Extended Data](ext_articles/5bfb7d9f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 14:36:07**
+As of **2024-08-02 14:55:13**
 
 ## Newspaper Stats
 
-*Scraped **38,633** Articles*
+*Scraped **38,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,91 @@ islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
 adalk | 3,549
-adaderanalk | 4,469
+adaderanalk | 4,470
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,802
-virakesarilk | 6,110
+tamilmirrorlk | 4,803
+virakesarilk | 6,111
 adaderanasinhalalk | 6,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,627 (100.0%) of 38,633 articles have been extended.
+38,633 (100.0%) of 38,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### අනුර තවත් හමුවක
+### Death of Indian fisherman in Sri Lankan waters: Rameswaram fishermen announce indefinite strike
 
-*2024-08-02 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199485) · `si`
+*2024-08-02 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100944/death-of-indian-fisherman-in-sri-lankan-waters-rameswaram-fishermen-announce-indefinite-strike) · `en`
 
-ලංකා වාණිජ මණ්ඩලයේ සභාපති දුමින්ද හුලංගමුව මහතා ඇතුළු නියෝජිත පිරිසක් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදුව තිබේ.
+Announcing an indefinite strike with immediate effect on Friday, August 2, the members of all fishermen associations in Rameswaram said they would resume work only when their grievances were redressed by the Tamil Nadu and Union governments.
 
-ඊයේ (01) සවස ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේ දී එම හමුව සිදුව ඇත.
+An urgent meeting of various fishermen associations was held at Rameswaram under the leadership of Sagayam.
 
-ලංකා වාණිජ මණ්ඩලය විසින් සම්පාදනය කරන ලද ‘Vision 2030 - පස් අවුරුදු ආර්ථික සැලැස්ම’ප්‍රකාශනයේ පිටපතක් මෙම අවස්ථාවේදී ජාතික ජන බලවේගය වෙත ලබා දී තිබේ.
+The meeting resolved to boycott fishing from today (Friday) until all the arrested fishermen from Tamil Nadu, who languished in Sri Lankan prisons, were released. The members stated that though the governments helped in release of the arrested fishermen in the past, the mechanised trawlers which were impounded, were not returned.
 
-මේ අවස්ථාව සඳහා ලංකා වාණිජ මණ්ඩලයේ උප සභාපති ක්‍රිෂාන් බාලේන්ද්‍ර, නියෝජ්‍ය උප සභාපති බිඟුමාල් තෙවරතන්ත්‍රී සහ අධ්‍යක්ෂ මණ්ඩල නියෝජිතයින් වන අමල් කබ්රාල්, සරත් ගනේගොඩ, සුපුන් වීරසිංහ, විනෝද් හයිඩ්‍රාමනී යන මහත්වරු ඇතුළු පිරිසක්ද ජාතික ජන බලවේගයේ ජාතික විධායක සභිකයින් වන මහාචාර්ය අනිල් ජයන්ත සහ ආචාර්ය හර්ෂණ සූරියප්පෙරුම යන අය ද එක්ව සිටියහ.
+Hence, the governments should get back the mechanised boats, which were in good condition and provide compensation to those boats, which were beyond repair.
 
-◼️
+...
 
-[Data](articles/83f47e43.json)
+[Data](articles/17969822.json)
 
 ---
 
-### ශ්‍රී ලංකාව පළමුව පන්දුවට පහරදෙයි
+### யாழுக்கு விஜயம் செய்தார் ஜனாதிபதி
+
+*2024-08-02 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190091) · `ta`
+
+மருதங்கேணி பகுதியில் கடல்நீரை நன்னீராக மாற்றும் திட்டத்தினை இன்றைய தினம் ஆரம்பித்து வைத்த பின்னர், தொடர்ந்து ஜனாதிபதி பல்வேறு அமைப்புகளையும் சந்தித்துப் பேச்சு நடத்தவுள்ளார் என்று தெரியவருகின்றது.
+
+◼️
+
+[Data](articles/1eeb8616.json)
+
+---
+
+### Another meeting Anura Anura
+
+*2024-08-02 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199485) · `si`
+
+Duminda Hulangamuwa, Chairman of the Ceylon Chamber of Commerce, met with Anura Kumara Dissanayake, leader of the National Power, at the JVP's Head Office. They discussed the 'Vision 2030 and Five Year Economic Plan', with several officials including Prof. Anil Jayanthi and Dr. Hearing Soiyapperuma present.
+
+🟩
+
+A meeting between Duminda Hulangamuwa, Chairman of the Ceylon Chamber of Commerce, had met with a delegation and leader of the National Power Anura Kumara Dissanayake.
+
+The meeting was held at the Head Office of the JVP yesterday evening.
+
+A copy of the 'Vision 2030 and Five Year Economic Plan' provided by the Ceylon Chamber of Commerce.
+
+...
+
+[Data](articles/83f47e43.json)
+
+[Extended Data](ext_articles/83f47e43.ext.json)
+
+---
+
+### Sri Lanka first attacks
 
 *2024-08-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199484) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තරග 03කින් යුත් එක්දින ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් පළමු තරගය අද (02ද) පැවැත්වෙයි.
+Today marks the start of the three-match ODI series between Sri Lanka and India. Sri Lanka's captain, Charith, chose to bat after winning the toss.
 
-එහි කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+🟩
+
+The first match will be held today (02), commences the three-match ODI series between Sri Lanka and India.
+
+Sri Lanka captain Charith won the toss and elected to bat.
 
 ◼️
 
 [Data](articles/0e494421.json)
+
+[Extended Data](ext_articles/0e494421.ext.json)
 
 ---
 
@@ -79,6 +119,24 @@ She has sustained injuries to her right leg and is currently receiving treatment
 ◼️
 
 [Data](articles/19739348.json)
+
+[Extended Data](ext_articles/19739348.ext.json)
+
+---
+
+### வினோதினி கொலை: 7 பேருக்கும் விளக்கமறியல் நீடிப்பு
+
+*2024-08-02 13:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வினோதினி-கொலை-7-பேருக்கும்-விளக்கமறியல்-நீடிப்பு/73-341463) · `ta`
+
+சேருவில – தங்க நகர் யுவதியின் படுகொலை தொடர்பான வழக்கு வெள்ளிக்கிழமை (02) விசாரணைக்காக மூதூர் நீதிமன்ற நீதிபதி திருமதி தஸ்னீம் முகமட் பௌசான் முன்னிலையில் எடுத்துக் கொள்ளப்பட்டது.
+
+இதன்போது குறித்த ஏழு சந்தேக நபர்களையும் எதிர்வரும் 16ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+
+குறித்த வழக்கில் எதிராளிகள் சார்பில் முன்னிலையான சட்டத்தரணிகள் 3ஆம், 6ஆம் எதிரிகளுக்கு பிணை விண்ணப்பம் கோரி சமர்ப்பணம் செய்திருந்தனர். குறித்த விண்ணப்பத்தை நிராகரித்த நீதிபதி, அந்த எதிரிகள் தொடர்பான விசாரணைகள் இன்னும் முடிவுக்கு கொண்டு வரப்படவில்லை எனவும் பிணை விண்ணப்பம் ஆனது மேல் நீதிமன்றத்தினால் பரிசீலிக்க முடியும் எனவும் தெரிவித்து பிணை விண்ணப்பத்தை நிராகரித்து குறித்த சந்தேக நபர்களுக்கு மேலும் 14 நாட்களுக்கு விளக்கமறியலை நீடித்து உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/9c4c8161.json)
 
 ---
 
@@ -120,35 +178,47 @@ Sources said that Thero was receiving treatment at a private hospital in Colombo
 
 ---
 
-### சென்னை - யாழுக்கிடையே செப்டம்பர் முதல் விமான சேவையை ஆரம்பிக்கும் இண்டிகோ !
+### Indigo launches flight from September to Chennai - Jaffna
 
 *2024-08-02 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190081) · `ta`
 
-சர்வதேச விமான இணைப்பை மேம்படுத்தும் வகையில் இண்டிகோ விமான நிறுவனம் யாழ்ப்பாணத்திற்கு புதிய விமான சேவையை அறிமுகப்படுத்தவுள்ளது.
+Indigo Airlines introduces daily flights from Chennai to Jaffna starting September 1st, enhancing connectivity. This route marks Indigo's first service in Sri Lanka, reflecting high demand from Indian travelers keen to explore Jaffna.
 
-அதன்படி, செப்டம்பர் முதலாம் திகதி முதல்  சென்னை மற்றும் யாழ்ப்பாணம் இடையே நாளாந்த விமான சேவையை இண்டிகோ நிறுவனம் ஆரம்பிக்கவுள்ளது.
+🟩
 
-இலங்கையில் கொழும்புக்கு மட்டுமே இதுவரை விமான சேவை இருந்த நிலையில் யாழ்ப்பாணப்பானத்துக்கு சேவை ஆரம்பம் செய்யப்பட உள்ளது.
+Indigo Airlines will launch a new flight to Jaffna to improve the international airline.
 
-இவ் ஆண்டு  ஜூன் மாதம் 25.2 (28,631) சதவீதமானர்களும்,  2023 ஆம் ஆண்டு 26.7 (26,830 )சதவீதமானர்களும் இந்தியாவிலிருந்து வருகை தந்துள்ளனர்.
+Accordingly, Indigo will launch a daily flight between Chennai and Jaffna from the 1st of September.
 
-அதிகளவானவர்கள் யாழ்ப்பாணத்திற்கு வருகை தருவதற்கு  ஆர்வமாகள்ளார்கள். இந்நிலையில், சென்னைக்கும்  யாழ்ப்பாணத்திற்கும் இடையேயான விமானப் பயணத்திற்கான வளர்ந்து வரும் தேவையை பூர்த்தி செய்வதையும் பிரதிபலிக்கிறது.
+Jaffna service is to begin with the airline in Colombo alone in Sri Lanka.
+
+In June 25.2 (28,631) and 26.7 (26,830) per cent of the 2023 per cent from India.
+
+Most people are eager to visit Jaffna. In this case, it also reflects the growing need for flight between Chennai and Jaffna.
 
 ◼️
 
 [Data](articles/d424bcca.json)
 
+[Extended Data](ext_articles/d424bcca.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190087) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 02) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.6430 ரூபாவாகவும், விற்பனை விலை 306.9317 ரூபாவாகவும் பதிவாகியுள்ளது.
+The USD to INR exchange rate increased slightly from 297.6430 to 306.9317 rupees as of August 2nd.
+
+🟩
+
+The US dollar procurement price was 297.6430 rupees and the sales price were Rs 306.9317 based on a currency exchange rate released today (August 02).
 
 ◼️
 
 [Data](articles/df8b0c6e.json)
+
+[Extended Data](ext_articles/df8b0c6e.ext.json)
 
 ---
 
@@ -426,19 +496,25 @@ The expertise of new professionals would be used for industry sector advancement
 
 ---
 
-### ලබන වසරේදී රජයේ නිවාඩු 26ක්  - අවුරුදු සතියේ නිවාඩු 5 ක්
+### 26 public leave next year - 5 year holidays
 
 *2024-08-02 12:08:33* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේදී-රජයේ-නිවාඩු-26ක්----අවුරුදු-සතියේ-නිවාඩු-5-ක්/11-411164) · `si`
 
-2025 වසරට ආදාලව රජයේ නිවාඩු හා බැංකු නිවාඩු ප්‍රකාශයට පත් කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ඒ් අනුව ඒම වසරේදී රජයේ හා බැංකු නිවාඩු 26ක් යෙදී තිබේ.
+In 2025, Sri Lanka introduced 26 public and bank holidays, including a full week for New Year celebrations, and a holiday before the Sinhala and Hindu New Year on April 13.
 
-ඒසේම අලුත් අවුරුද්ද යෙදෙන සතිය තුළ නිවාඩු පහක්ම යේදි තිබීම කැපි පෙනෙයි.
+🟩
 
-අප්‍රේල් 13 - ඉරිදා සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර දිනය
+A special gazette notification has been issued by the year 2025 public leave and bank holidays. In the year, 26 government and bank holidays have been launched.
+
+The New Year's week will seem to have five holidays.
+
+April 13 - Day Prior to Sunday Sinhala and Hindu New Year
 
 ◼️
 
 [Data](articles/1e2a20c7.json)
+
+[Extended Data](ext_articles/1e2a20c7.ext.json)
 
 ---
 
@@ -2075,85 +2151,5 @@ Sri Rascol, Malaysia, Malaysia, and Jacks Styles and Krrish Maoon, Rap Ceylon an
 [Data](articles/5a96e014.json)
 
 [Extended Data](ext_articles/5a96e014.ext.json)
-
----
-
-### Sanath Jayasuriya was a number of unfortunate in the group - Sanath Jayasuriya
-
-*2024-08-01 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199464) · `si`
-
-Sanath Jayasuriya, Sri Lanka's acting cricket coach, urged fans to support players mentally during a press conference ahead of a three-day ODI series. He mentioned that six Sri Lankan fast bowlers are currently unfit due to illness, including Binura Fernando, Dilshan Madusanka, Dilshan Chamira, Mathayu Kumara, Lahiru Kumaratha, Lahiru Kumara, and Nuwan Thushara. The team is dealing with a flu outbreak, affecting key player Wanindu Hasaranga, who was hospitalized. Despite these challenges, Jayasuriya emphasized resilience and the temporary nature of setbacks, focusing on the upcoming matches starting at the Colombo R Premadasa Stadium.
-
-🟩
-
-Mr. Sanath Jayasuriya has requested the sports fans to give the players to the best of the players mentally (02).
-
-He was speaking at a press conference held at the three-day one ODI series tomorrow (01).
-
-Sanath Jayasuriya, acting coach of the Sri Lankan cricket team, said that six Sri Lankan fast bowler were disabled at present.
-
-"Binura Fernando, Dilshan Madusanka, Dilshan Chamira, Mathayu Kumara, Lahiru Kumaratha, Lahiru Kumara and Nuwan Thushara are suffering from the impairment. We entered the group 19.
-
-There is a fever inside the Sri Lankan team. Mahime inspector was at the root of the flu of Wanindu Hazaranga. Finally the Buddha was hospitalized.
-
-There were several misfortunes. But they're not our excuses. I'm easy and temporary coach, tell only two of these tournaments.
-
-I'm not looking. I'm not also someone who wants to overcome defeat. I've been in this season my years. Everyone who can be accepted. It is the temporary suffering. "
-
-...
-
-[Data](articles/60b1549d.json)
-
-[Extended Data](ext_articles/60b1549d.ext.json)
-
----
-
-### Two including State Minister’s secretary arrested for bribery
-
-*2024-08-01 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100926/two-including-state-ministers-secretary-arrested-for-bribery) · `en`
-
-A personal secretary of a State Minister and another political activist have been taken into custody by the officials of the Commission to Alleviate Bribery or Corruption (CIABOC) in Batticaloa for allegedly soliciting a bribe of Rs. 1,500,000.
-
-The apprehension has been made on a complaint received from a businessman from Polonnaruwa, the Bribery Commission said.
-
-◼️
-
-[Data](articles/3ae2ee67.json)
-
-[Extended Data](ext_articles/3ae2ee67.ext.json)
-
----
-
-### Amail to the big chick-kajipani and the root
-
-*2024-08-01 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199463) · `si`
-
-Security forces have identified key suspects in the murder of Wasantha Perera, including gang leaders and accomplices who were allegedly hiding abroad. Arrests have been made, with some individuals detained in Belarus and others believed to have fled to Russia. The police are taking steps to extradite these suspects back to Sri Lanka to face charges, including involvement in multiple homicides and drug trafficking.
-
-🟩
-
-The security forces in the country has informed the main suspect of the murder of the Wasantha Perera or Club Wasantha murder.
-
-Surendra Wasantha Perera, or Club Wasantha, was chaired by the criminal gangs of Sudja Kumara or big chicky.
-
-Amila Sele Ratnayake, or Rotamba Amila was also accused of supporting it.
-
-KP 'KP' used for the murder of club spring. I. 'The police suspect that Kjepani Imran was also involved in the murder as noted.
-
-According to police investigations revealed that all of all had been hiding in a foreign country and the murder.
-
-In such a circumstances, the Big Cub had been arrested by security forces from Duthu Pathi and Bellarus.
-
-Roads sources said that the CID has officially informed the CID.
-
-It is reported that the police have already begun the necessary action to bring the big chicity to the country.
-
-The shooter had served as the motorcyclist for shooting at the city center of Piliyandara in the city center of Piliyandara in Piliyandala, May 09, 2017, police said.
-
-...
-
-[Data](articles/a8f1a4c1.json)
-
-[Extended Data](ext_articles/a8f1a4c1.ext.json)
 
 ---

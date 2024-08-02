@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 00:20:50**
+As of **2024-08-03 00:36:05**
 
 ## Newspaper Stats
 
-*Scraped **38,701** Articles*
+*Scraped **38,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,345
-dailyftlk | 2,483
+dailyftlk | 2,490
 adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
@@ -26,11 +26,139 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,701 (100.0%) of 38,701 articles have been extended.
+38,701 (100.0%) of 38,708 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-08-03 (Saturday)
+
+### SJB was formed to end deal politics: Marikkar
+
+*2024-08-03 00:10:12* · [`dailyftlk`](https://www.ft.lk/news/SJB-was-formed-to-end-deal-politics-Marikkar/56-765099) · `en`
+
+SJB MP S.M. Marikkar says it is Sajith Premadasa and not Ranil Wickremesinghe who truly represents the essence of a UNP leader
+
+Denies Ashu Marasinghe’s claims that Premadasa recently met with MP Namal Rajapaksa
+
+Says unlike Wickremesinghe, Premadasa is not accustomed to deal-based politics
+
+Describes Wickremesinghe’s comparison of his current team to J.R. Jayawardene’s 1977 team as a grave insult
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said the party was formed to put an end to the political deal culture in Sri Lanka.
+
+Speaking at a press conference at the Opposition leader’s office in Colombo, Marikkar said that, unlike President Ranil Wickremesinghe, Sajith Premadasa truly represents the essence of a United National Party (UNP) leader.
+
+“Unlike Ranil Wickremesinghe, Premadasa is not accustomed to deal-based politics. This is why we left the UNP to form the SJB, because Wickremesinghe was involved in political deals with the Rajapaksa clan,” he said.
+
+...
+
+[Data](articles/06f44b2e.json)
+
+---
+
+### Presidential race expands to 14 candidates
+
+*2024-08-03 00:08:53* · [`dailyftlk`](https://www.ft.lk/news/Presidential-race-expands-to-14-candidates/56-765098) · `en`
+
+Four additional candidates submitted their cash deposits for the upcoming Presidential election yesterday bringing the total number of candidates to 14.
+
+According to the Election Commission, the deposits were placed by K. Ananda Kularatne, Nawa Sihala Urumaya’s Sarath Manamendra, Akmeemana Dayaratna Thera, and Battaramulle Seelaratne Thera.
+
+Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Sarath Keerthirathne, Oshala Herath, A.S.P Liyanage, P.W.S.K Bandaranayake and Wijeyadasa Rajapakshe, K.K Piyadasa, Siritunga Jayasuriya, and Ajantha de Zoysa.
+
+According to the Election Commission, nominations will be accepted until 15 August. Election Commission Chairman R.M.A.L. Rathnayake has advised candidates to submit cash deposits early to avoid potential last-minute issues. The Commission has officially announced that the Presidential election will take place on 21 September 2024.
+
+◼️
+
+[Data](articles/b4cc8d29.json)
+
+---
+
+### Gangaramaya Chief Incumbent Ven. Galboda Gnanissara Thera passes away
+
+*2024-08-03 00:08:43* · [`dailyftlk`](https://www.ft.lk/news/Gangaramaya-Chief-Incumbent-Ven-Galboda-Gnanissara-Thera-passes-away/56-765097) · `en`
+
+The Chief Incumbent of the Hunupitiya Gangaramaya Temple, Ven. Galboda Gnanissara Thera also known as Podi Hamuduruwo passed away yesterday.
+
+Ven. Gnanissara Thera was 81 years old at the time of his demise.
+
+Born on 13 December 1943, Podi Hamuduruwo has dedicated his life to the practice and propagation of Buddhist principles, guided by a profound commitment to compassion, equality and service to humanity.
+
+His visionary leadership has transformed Gangaramaya Temple into a dynamic centre of spiritual growth, education and community empowerment. Through his guidance, the temple has spearheaded various initiatives, including vocational training programs, educational workshops and humanitarian projects, aimed at improving the lives of people from all walks of life.
+
+In 2003, Ven. Gnanissara Thera was appointed by the Malwatta chapter as the Sanghanayaka of the Western Province in Sri Lanka.
+
+...
+
+[Data](articles/06e6230f.json)
+
+---
+
+### PM Hasina says ‘Anarchists’ tried to create SL-type Aragalaya in Bangla
+
+*2024-08-03 00:06:11* · [`dailyftlk`](https://www.ft.lk/news/PM-Hasina-says-Anarchists-tried-to-create-SL-type-Aragalaya-in-Bangla/56-765096) · `en`
+
+Bangladeshi Prime Minister Sheikh Hasina has accused groups she referred to as ‘anarchists’ of trying to create Sri Lanka-type mayhem in the country during the recent quota reform movement. She has claimed they had planned to topple the Government.
+
+“Actually, they planned to create a Sri Lanka-type violence and oust the Government,” she said when Indian High Commissioner to Bangladesh Pranay Verma called on her at her official residence Ganabhaban this week.
+
+According to Bangladeshi news reports the Prime Minister had told Verma that the recent movement centring on quota reform was not a normal movement at all, rather at one stage it turned into almost a terrorist-like attack.
+
+Hasina, who sanctioned a brutal crackdown on the protestors has called for the people involved in the violence to be brought to justice.
+
+The unrest which took place in Bangladesh in mid-July killed at least 150 people, injured several thousand people and damaged major Government agencies.
+
+...
+
+[Data](articles/92f26f87.json)
+
+---
+
 ### 2024-08-02 (Friday)
+
+### Road to COP29: Priorities and expectations for global climate negotiations in 2024
+
+*2024-08-02 23:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Road-to-COP29-Priorities-and-expectations-for-global-climate-negotiations-in-2024/4-765092) · `en`
+
+COP29 stands at a critical juncture and could determine the way forward on issues such as climate finance
+
+On 11 November 2024, less than four months away, the 29th meeting of the Conference of the Parties (COP29) will begin in Baku, Azerbaijan. This event will bring together representatives of the almost 200 countries who are Parties to the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement, as well as thousands of other stakeholders including civil society, academia, trade unions, the private sector, youth, and media.
+
+...
+
+[Data](articles/c23ee775.json)
+
+---
+
+### New technologies and practices transforming green energy sector
+
+*2024-08-02 23:19:47* · [`dailyftlk`](https://www.ft.lk/columns/New-technologies-and-practices-transforming-green-energy-sector/4-765089) · `en`
+
+Renewable energy (RE) is clean, abundant, and sustainable but comes with its own challenges like intermittency, variability, cost, and integration.
+
+To overcome these, the sector is constantly innovating with newer technologies and practices to make it more cost and operationally effective.
+
+Fuel produced from green energy sources such as hydrogen, methane, ammonia, and ethanol are green in nature and these can be stored, transported, and used for various applications, such as transportation, heating, and industry. Many nations are building capacities for such fuel, and Sri Lanka too has huge potential to produce and export them.
+
+...
+
+[Data](articles/7df98466.json)
+
+---
+
+### Need for an epistemological break
+
+*2024-08-02 23:03:18* · [`dailyftlk`](https://www.ft.lk/opinion/Need-for-an-epistemological-break/14-765085) · `en`
+
+In a country like Sri Lanka, where ethno-nationalist politics has polarised the communities and made them see each other as enemies, we need a new language to talk about our political future under a framework of devolution which emphasises inclusiveness rather than exclusiveness
+
+Devolution of power to regions is essential for a democratic society. However, as Rosa Luxemburg warned, national self-determination can be a dangerous distraction from the imperative to collaborate with labour movements. Sri Lanka faces a severe economic crisis, debt burden, and exploitation of labour and natural resources by multinational corporations and governments. The marginalised, such as workers, peasants, plantation workers, women, LGBT+ individuals, and oppressed castes, are the most affected. The Alliance, as a progressive movement, ought to address fundamental issues such as devolution of powers and class, caste, and gender divisions, as well as exploitation and dispossession, to unite the people
+
+...
+
+[Data](articles/68254b11.json)
+
+---
 
 ### Papse
 
@@ -2149,163 +2277,5 @@ ISRO said the landslide had been reported for 86 thousand square meters and the 
 [Data](articles/804255ee.json)
 
 [Extended Data](ext_articles/804255ee.ext.json)
-
----
-
-### Lindul injury
-
-*2024-08-02 11:34:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லிந்துலை-விபத்தில்-அறுவர்-காயம்/76-341446) · `ta`
-
-A collision between a private bus and a lorry resulted in six injuries and damage to the bus. The incident occurred on the Hatton-Nuwara Eliya road, involving vehicles from Nuwara Eliya, Hatton, Colombo, and the Ambewela State Cattle Farm. All injured, including the bus driver, were taken to the Lindula District Hospital with non-serious conditions. The police advised caution on the road due to rain.
-
-🟩
-
-Six people were injured and admitted to hospital when a private bus and lorry collided head -on.
-
-Lindula police said that five people, including a bus driver, were injured and admitted to the Lindula District Hospital.
-
-The accident took place at the Hatton-Nuwara Eliya main road at 8 am on Wednesday (02).
-
-The accident occurred when a private bus traveling from Nuwara Eliya to Hatton collided with a lorry from Colombo to the Ambewela State Cattle Farm.
-
-Lindula police said that the private bus was severely damaged and the condition of the injured was not worrisome.
-
-Lindula police officer in charge of the Lindula Police Station has asked the drivers of the Lindula Police Station to pay attention and slowly when driving vehicles on the Hatton -Nuwara Eliya main road due to the current rains.
-
-◼️
-
-[Data](articles/3956d518.json)
-
-[Extended Data](ext_articles/3956d518.ext.json)
-
----
-
-### Sri Lanka is ready to provide military aid necessary to protect its sovereignty - Chinese Ambassador
-
-*2024-08-02 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190072) · `ta`
-
-In response to geopolitical shifts, Sri Lanka is set to receive military aid from China, including training and equipment valued over Rs 8 billion, to bolster its defense against traditional and non-traditional threats. This support aims to enhance the Sri Lankan military's capabilities through ongoing cooperation and exercises.
-
-🟩
-
-China has said that Sri Lanka is ready to provide military assistance to protect its sovereignty integrity.
-
-He said this in a situation where geopolitical moves are being carried out in Sri Lanka.
-
-The Ambassador said that China is ready to provide training to the Sri Lankan military.
-
-The Chinese Ambassador said that the relations between the military and the military of our two countries were tested by time.
-
-The Chinese Ambassador, who said Sri Lanka faces non -traditional threats, said that the Sri Lankan armed forces, the people and the military would support the Sri Lankan armed forces, the people and the military to protect the sovereignty integrity of Sri Lanka.
-
-Over the past two years, the exchanges and cooperation between our two armed forces in the fields of high -level visits, equipment cooperation, staff training and maritime security have been deepening.
-
-...
-
-[Data](articles/291f97e9.json)
-
-[Extended Data](ext_articles/291f97e9.ext.json)
-
----
-
-### Sri Lankan murder accused claims self-defence over killing of wife in Australia
-
-*2024-08-02 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100937/sri-lankan-murder-accused-claims-self-defence-over-killing-of-wife-in-australia-) · `en`
-
-A Sri Lankan mother-of-three killed by her estranged husband fled the family home with her children almost a decade earlier after he hit her with a hammer and stomped on her, a jury has been told.
-
-Nelomie Perera, 43, was found dead in a pool of blood in her kitchen with 35 separate injuries in December 2022.
-
-Prosecutors allege Dinush Kurera, 47, murdered her in a “sustained, brutal and vicious attack” with a hatchet and kitchen knife in front of their children.
-
-Kurera has pleaded not guilty to her murder and further denies assaulting his 17-year-old son.
-
-On Wednesday, lawyers for Kurera, whom prosecutors allege had no injuries after the attack, told a jury that he admitted he killed his wife but he did so to save his own life.
-
-“He grappled with her over the knife, in her murderous rage and he defended himself and the deceased was killed,” defence barrister John Desmond told the court.
-
-...
-
-[Data](articles/b04c43ee.json)
-
-[Extended Data](ext_articles/b04c43ee.ext.json)
-
----
-
-### IndiGo to commence daily flights between Chennai and Jaffna
-
-*2024-08-02 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100936/indigo-to-commence-daily-flights-between-chennai-and-jaffna) · `en`
-
-Indian low-cost airline IndiGo has announced Jaffna in Sri Lanka as the newest addition in its international route network. The airline will start non-stop daily flights between Chennai and Jaffna, starting September 01, 2024.
-
-Jaffna will be the second destination in Sri Lanka after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network, the airline announced.
-
-This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity, IndiGo added, highlighting that bookings for the flight are open from August, 01, 2024.
-
-...
-
-[Data](articles/c5a01996.json)
-
-[Extended Data](ext_articles/c5a01996.ext.json)
-
----
-
-### Sri Lanka, IMF talks focused on ‘areas that need additional attention’: State minister
-
-*2024-08-02 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-talks-focused-on-areas-that-need-additional-attention-state-minister-174887/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe met with the International Monetary Fund Mission Chief Peter Breuer and his team on Thursday to discuss the progress of the ongoing economic program.
-
-“The discussion focused on identifying areas that need additional attention to ensure the successful completion of the 3rd review, which is crucial for the timely disbursement of the 4th tranche,” State Minister of Finance Shehan Semasinghe said.
-
-“Additionally, the meeting covered the progress of debt restructuring efforts,” Semasinghe said on X (twitter).
-
-◼️
-
-[Data](articles/18e27514.json)
-
-[Extended Data](ext_articles/18e27514.ext.json)
-
----
-
-### Death
-
-*2024-08-02 11:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மயங்கி-விழுந்தவர்-மரணம்/71-341444) · `ta`
-
-In Jaffna, a man tragically passed away after his motorcycle accident on his way home from a birthday party. He was hospitalized but succumbed to his injuries on Thursday.
-
-🟩
-
-A motorcycle riding in Jaffna died suddenly after being treated at the hospital.
-
-After leaving a birthday party on the 27th, he was suddenly fed up on a motorbike while returning home.
-
-He died on Thursday (31) after he was admitted to the Jaffna Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/9d21de5e.json)
-
-[Extended Data](ext_articles/9d21de5e.ext.json)
-
----
-
-### A three and a half-year-old girl dies in the previous school
-
-*2024-08-02 10:58:23* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසලේදි-හිසට-පොල්-ගෙඩියක්-වැටී-අවුරුදු-තුන-හමාරක-දැරියක්-මිය-යයි/11-411162) · `si`
-
-In Mawanella, a three-and-a-half-year-old girl tragically died after falling in her preschool yard. The incident occurred early this morning, leading to her untimely death.
-
-🟩
-
-Mawanella police said that the girl was killed after the fall of a predetermined girl in the Mawanella area in Mawanella.
-
-The accident occurred last morning. After the fall of the girl in the pre-school courtyard, her injured had died when she was injured.
-
-◼️
-
-[Data](articles/4c383183.json)
-
-[Extended Data](ext_articles/4c383183.ext.json)
 
 ---

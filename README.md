@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 21:55:34**
+As of **2024-08-02 22:10:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,693 (100.0%) of 38,694 articles have been extended.
+38,694 (100.0%) of 38,694 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The police officer is accused of accepting the bribe on the pretext of not incon
 ◼️
 
 [Data](articles/82601bf3.json)
+
+[Extended Data](ext_articles/82601bf3.ext.json)
 
 ---
 

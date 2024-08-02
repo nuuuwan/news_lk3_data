@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 09:20:44**
+As of **2024-08-02 09:36:21**
 
 ## Newspaper Stats
 
-*Scraped **38,581** Articles*
+*Scraped **38,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,542
-adaderanalk | 4,458
+adaderanalk | 4,460
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,791
 virakesarilk | 6,103
-adaderanasinhalalk | 6,499
+adaderanasinhalalk | 6,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,580 (100.0%) of 38,581 articles have been extended.
+38,581 (100.0%) of 38,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Eight foreign nationals arrested over cybercrimes
+
+*2024-08-02 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100933/eight-foreign-nationals-arrested-over-cybercrimes) · `en`
+
+Galle Police have apprehended eight individuals including six Chinese nationals for allegedly engaging in cybercrimes.
+
+Based on the information received, the police officers had conducted a raid yesterday (01) at a temporary accommodation in the Udugama area in the Galle Harbour Police Division.
+
+The arrested suspects, aged between 24 and 36, include six Chinese nationals, with the remaining two being identified as Kazakhstan and Kyrgyzstan nationals.
+
+During the operation, police have seized 09 computers, 73 mobile phones and a large number of SIM cards found in the possession of the suspects.
+
+◼️
+
+[Data](articles/c0e34ba6.json)
+
+---
+
+### Sri Lanka praised for effective management of foreign policy - Ali Sabry
+
+*2024-08-02 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100932/sri-lanka-praised-for-effective-management-of-foreign-policy-ali-sabry) · `en`
+
+Minister of Foreign Affairs Ali Sabry said that President Ranil Wickremesinghe’s decision to set up three special committees as a proactive measure to address potential crises in the Middle East is highly timely.
+
+The Minister highlighted that while international events are uncontrollable; waiting for a country to collapse is not an option. He assured that steps have been taken to handle any emerging situation.
+
+Minister Ali Sabry made these remarks at a press conference yesterday (01) at the Presidential Media Center, themed ‘Collective Path to a Stable Country’.
+
+He underscored that President Wickremesinghe’s forward-thinking decisions have ensured Sri Lanka’s economic stability, preventing it from becoming another Venezuela. He urged everyone to set aside party politics and support the President’s efforts to rebuild the country, according to the President’s, Media Division.
+
+...
+
+[Data](articles/27c561fc.json)
+
+---
+
+### අපි පානය කරන ජලය ගැන හෙළිදරව්වක්
+
+*2024-08-02 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199476) · `si`
+
+මෙරට ජනගහනයෙන් සියයට 67කට ආසන්න ප්‍රමාණයකට ආරක්ෂිත පානීය ජල පහසුකම් නොමැති බවට අනාවරණය වී තිබේ.
+
+ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව, ජල සම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශය සහ යුනිසෙෆ් ආයතනය එක්වී පානීය ජලයේ ගුණාත්මකභාවය පිළිබඳ සිදුකරන ලද ගෘහස්ථ සමීක්ෂණයේදී මේ පිළිබඳ කරුණු හෙළිවී ඇත.
+
+ඒ සම්බන්ධයෙන් කරුණු හෙළිකරමින් පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරල මහතා ඒ බව පැවසීය.
+
+මෙරට දිස්ත්‍රික්ක 25තුළ නාගරික, ග්‍රාමීය සහ වතු ක්ෂේත්‍ර ආවරණය වන පරිදි නිවාස ඒකක 3210ක නියැදීන් යොදාගනිමින් මෙම සමීක්ෂණය සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/632a349d.json)
+
+---
 
 ### Suspect arrested with ‘golden lotus’ of archaeological value
 
@@ -47,6 +101,8 @@ The arrested individual is a 33-year-old resident of Kawudupelella, Matale.
 ◼️
 
 [Data](articles/55d85f96.json)
+
+[Extended Data](ext_articles/55d85f96.ext.json)
 
 ---
 
@@ -2097,77 +2153,5 @@ There were two crossings in the day: Teejay Lanka Plc, which saw foreign interes
 [Data](articles/6b3c82b0.json)
 
 [Extended Data](ext_articles/6b3c82b0.ext.json)
-
----
-
-### New SDIG appointed to cover administration duties
-
-*2024-08-01 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100917/new-sdig-appointed-to-cover-administration-duties) · `en`
-
-The National Police Commission has appointed Senior Deputy Inspector General of Police (SDIG) Lalith Pathinayake to cover the duties of Senior DIG Administration.
-
-This appointment comes as Senior DIG Nilantha Jayawardena has been sent on compulsory leave with immediate effect, until such time that the disciplinary investigation against him pertaining to the Easter Sunday terror attacks is concluded, the National Police Commission said.
-
-◼️
-
-[Data](articles/a5db5a3a.json)
-
-[Extended Data](ext_articles/a5db5a3a.ext.json)
-
----
-
-### Three arrested over foreign employment fraud
-
-*2024-08-01 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199453) · `si`
-
-Three women involved in foreign employment fraud, including two expecting jobs in Canada, Australia, Germany, Italy, and Dubai, were arrested by Sri Lanka's Special Investigation Division. They ran a job center without a valid license, holding 13 passports and 11 bio-data sheets for overseas employment. The suspects will face charges in court.
-
-🟩
-
-Three women, including two women who were expecting the jobs in Canada, Australia, Germany, Italy, and Dubai have been arrested by officials from the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment.
-
-The Bureau was arrested by the officials of the Investigation Division in the Kandana, saying that there were Rs.
-
-The woman has operated a licensed job center in the Kandana, which has not obtained a valid job order to provide employment jobs in the above countries.
-
-The Bureau was to be produced before the Welisara Magistrate's Court today (01).
-
-Investigations have raided the site yesterday (31) on information that the Bureau of Liyanage Die was a valid license with the Bureau of Liyanagemulla.
-
-There were 13 passports and 11 biography leaflets obtained for employment in Germany, Dubai and Canada.
-
-A woman who is owned by the coordinator has been arrested by the Investigation Officers today (01) this morning.
-
-...
-
-[Data](articles/2cd84a9f.json)
-
-[Extended Data](ext_articles/2cd84a9f.ext.json)
-
----
-
-### Protected student insurance is implemented
-
-*2024-08-01 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199452) · `si`
-
-The Sri Lankan government has introduced a comprehensive student insurance policy covering public, Pirivena, and financial sector schools. The policy, costing around Rs. 300,000, includes benefits for external treatments, crime diseases, and accidents, with additional support for low-income families. It also offers death benefits, with a maximum payout of Rs. 1.5 million, and is available for free to all schoolchildren through a digital platform.
-
-🟩
-
-Minister of Education Susil Premajayantha said that all the schools to study for three years from today to three years of public schools, Pirivenas, and the financial sector schools.
-
-The Minister was speaking at the event of the signing of the agreement between the Ministry of Education and the Sri Lanka Insurance Corporation.
-
-The Secretary to the Ministry of Education Thilaka Jayasundara has signed the agreement with the Chief Operating Officer of Sri Lanka Insurance Corporation, Mr. Priyantha Perera.
-
-Speaking further said the Minister further stated that the Ministry of Education has invested Rs. 7,112 million and this policy is Rs.. 300,000 / - and benefits for external treatment. 20,000 / - and crime disease benefits. 1,500,000 / - will benefit from up to 1,500,000 / -.
-
-And the accident insurance is Rs.. 200,000 / - also will benefit from permanent partial dictatorship, a cost of Rs.
-
-...
-
-[Data](articles/8d55b184.json)
-
-[Extended Data](ext_articles/8d55b184.ext.json)
 
 ---

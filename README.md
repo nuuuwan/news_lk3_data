@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 07:50:03**
+As of **2024-08-02 08:25:37**
 
 ## Newspaper Stats
 
-*Scraped **38,575** Articles*
+*Scraped **38,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 369
 islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
-adalk | 3,540
+adalk | 3,541
 adaderanalk | 4,456
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,790
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,555 (99.9%) of 38,575 articles have been extended.
+38,565 (100.0%) of 38,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### මැදපෙරදිග ශ්‍රී ලාංකික ශ්‍රමිකයින් ගැන දැනුම්දීමක්
+### Notice of Sri Lankan workers in Middle East
 
 *2024-08-02 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199474) · `si`
 
-ඊශ්‍රායල අර්බුදයත් සමග මැදපෙරදිග කලාපයේ ඇතිවී තිබෙන තත්ත්වය පිළිබඳව අවධානයෙන් පසුවන බව විදේශ අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+Foreign Minister Ali Sabri acknowledges the Israeli crisis affecting Sri Lankan workers in the Middle East. He assures measures will be implemented to speed up their evacuation if the situation worsens.
 
-ඔහු පෙන්වා දෙන්නේ අර්බුදය උත්සන්න වුවහොත් එම කලාපයේ සිටින ශ්‍රී ලාංකික ශ්‍රමිකයින් කඩිනමින් ගෙන්වා ගැනීමට පියවර ගන්නා බවය.
+🟩
+
+Foreign Minister Ali Sabri says he is aware of the situation in the Middle East with the Israeli crisis.
+
+He points out that if the crisis is intensified, steps will be taken to expedite Sri Lankan workers in the region.
 
 ◼️
 
 [Data](articles/94fa4dc2.json)
+
+[Extended Data](ext_articles/94fa4dc2.ext.json)
 
 ---
 
@@ -56,57 +62,77 @@ The Online Safety (Amendment) Bill has been published via government gazette.
 
 [Data](articles/ffe6aa12.json)
 
+[Extended Data](ext_articles/ffe6aa12.ext.json)
+
 ---
 
-### රන් පැහැති නෙළුම් මලක් සමග අයෙක් අත්අඩංගුවට
+### Suspect arrested with golden lotus
 
 *2024-08-02 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199473) · `si`
 
-පුරාවිද්‍යා වටිනාකමක් ඇති බවට පවසමින් රන් පැහැති නෙළුම් මලක් සන්තකයේ තබාගෙන අලෙවි කිරීම සඳහා සූදානම්ව සිටි පුද්ගලයෙක්ව මාතලේ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් ඊයේ (01) අත්අඩංගුවට ගෙන තිබේ.
+A 33-year-old from Matale, arrested by the Matale CID, was found in possession of a golden lotus flower worth Rs. 5 million and Rs. 500,000 cash. The arrest followed a raid based on intelligence tips.
 
-මාතලේ පොලිස් වසමේ අළුවිහාරය ප්‍රදේශයේදී මාතලේ කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත  සිදුකරන ලද වැටලීමකදී මෙම පුද්ගලයා අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-පුරාවිද්‍යා වටිනාකමකින් යුත් බවට පැවසෙන මෙම රන් පැහැති නෙළුම් මල ග්‍රෑම් 706ක බරිත් යුතු වන අතර,  විවිධ ප්‍රමාණයේ පෙති 24කින් සමන්විත ය.
+The Matale Criminal Investigation Bureau of the Matale Divisional Investigation (CID) has been arrested yesterday.
 
-සැකකරු මෙය රුපියල් 5,000,000ක මුදලකට අලෙවි කිරීම සඳහා සන්තකයේ තබාගෙන සිටි බව වාර්තා වෙයි.
+The suspect was arrested following a raid on information received on information received by the Matale Division Criminal Investigation Bureau in the Matale Police Division.
 
-අත්අඩංගුවට ගත් පුද්ගලයා වයස අවුරුදු 33ක් වන කවුඩුපැළැල්ල, මාතලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The golden lotus flower of archaeological is worth 706 g of slices and 24 slices of various sized slices.
+
+It is reported that the suspect had been in possession of Rs. 5,000,000.
+
+The arrested person is a 33 year old resident of Kaudupalalla, Matale.
 
 ◼️
 
 [Data](articles/0a597c57.json)
 
+[Extended Data](ext_articles/0a597c57.ext.json)
+
 ---
 
-### ඔන්ලයින් පනත් කෙටුම්පත ගැසට් කෙරේ
+### Online Bill is gazetted
 
 *2024-08-02 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199472) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ (සංශෝධන) පනත් කෙටුම්පත ගැසට් කර තිබේ.
+The Online Methods (Amendment) Bill, proposed by Hon. Tiran Alles, has been officially published.
 
-එම පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත් ඉන් අනතුරුව අනුමැතිය පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා ඉදිරිපත් කළ යෝජනාවට පසුගිය 22 වනදා පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලැබී තිබුණි.
+🟩
+
+Online Methods (Amendment) Bill gazetted.
+
+The proposal made by Hon. Tiran Alles, the proposal made by Hon.
 
 ◼️
 
 [Data](articles/0b0581db.json)
 
+[Extended Data](ext_articles/0b0581db.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-08-02 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199471) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තු විසින් අද (02) උදෑසන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුව බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකිය.
+Today, expect showers in the Western, Sabaragamuwa, and Northwestern Provinces, along with possible thunderstorms in Badulla, Ampara, and Batticaloa districts. Strong winds may reach speeds of 50 km/h in the Northern, North Central, and North Western provinces, and around 40 km/h elsewhere.
 
-එමෙන්ම බදුල්ල, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 50ක පමණ තද සුළං ද ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+Several spells of showers in the Western, Sabaragamuwa and Northwestern Provinces today (02), the weather forecast of the weather forecast.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින්විට පැ.කි.මී. 30ක 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in Badulla, Ampara and Batticaloa districts.
+
+Western, North, North, North, North, North-central and North Western provinces are sitting at the Trincomalee and North Western Provinces.. The department says that strong winds can also occur in about 50.
+
+From time to time in the rest of the island.. Strong winds can occur about 40 of 30.
 
 ◼️
 
 [Data](articles/b5767495.json)
+
+[Extended Data](ext_articles/b5767495.ext.json)
 
 ---
 
@@ -126,6 +152,8 @@ The Retail sector operating profit grew by 35% over last year’s first quarter 
 
 [Data](articles/336bdcba.json)
 
+[Extended Data](ext_articles/336bdcba.ext.json)
+
 ---
 
 ### Vallibel One rebuts anonymous message circulated on social media
@@ -142,6 +170,8 @@ We regret to note that the message appears to have been published with mischievo
 
 [Data](articles/e71fdafc.json)
 
+[Extended Data](ext_articles/e71fdafc.ext.json)
+
 ---
 
 ### Applications now open for 10th edition of CMA Excellence in Integrated Reporting Awards
@@ -157,6 +187,8 @@ The primary purpose of an integrated report is to explain to providers of financ
 ...
 
 [Data](articles/96d0e80c.json)
+
+[Extended Data](ext_articles/96d0e80c.ext.json)
 
 ---
 
@@ -181,6 +213,8 @@ He highlighted the crucial role of entrepreneurship, aiming to increase its shar
 ...
 
 [Data](articles/553474ba.json)
+
+[Extended Data](ext_articles/553474ba.ext.json)
 
 ---
 
@@ -553,6 +587,8 @@ Agricultural mechanization is very important for any country to progress and to 
 ...
 
 [Data](articles/7ffbd91c.json)
+
+[Extended Data](ext_articles/7ffbd91c.ext.json)
 
 ---
 
@@ -1191,6 +1227,22 @@ At this moment, there is a need to enter politics on the basis that my people ha
 [Data](articles/ec28cad7.json)
 
 [Extended Data](ext_articles/ec28cad7.ext.json)
+
+---
+
+### wp NC 1976 බස් රථය ගැන තොරතුරු පොලීසිය ඉල්ලයි
+
+*2024-08-01 19:03:16* · [`adalk`](https://www.ada.lk/breaking_news/wp-NC-1976-බස්-රථය-ගැන-තොරතුරු-පොලීසිය-ඉල්ලයි/11-411156) · `si`
+
+අතුරුගිරිය ටැටූ කලාගාරයකදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඇතුළු දෙදෙනකු ඝාතනය කර තවත් සිව් දෙනකුට බරපතළ තුවාල සිදු කිරීමේ සිද්ධියේ වෙඩික්කරුවන් ගිනි අවි රැගෙන පලාගිය wp- nc-1976  බස් රථය සම්බන්ධයෙන් යම් තොරතුරක් දන්නේ නම්  පහත සඳහන් දුරකථන අංකවලට දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+බස්නාහිර පළාත් දකුණු අපරාධ කොට්ඨාසයේ ස්ථානාධිපති  0718596065 දුරකථන අංකයට හෝ අතුරුගිරිය  පොලීසියේ ස්ථානාධිපති ගේ 0718591657  දුරකථනයට එම ඇමතුම ලබා දෙන ලෙසත්  රහස්‍ය භාවය සුරකින බවත් පොලීසිය දන්වා සිටී.
+
+ක්ලබ් වසන්ත  ඝාතනය කිරීම සඳහා  පාතාල නායක ලොකු පැටි නැමැත්තා රුපියල් කෝටියකට ආසන්න මුදලක් වැය කර තිබූ අතර, එයින්  රුපියල් ලක්ෂ 41 ක මුදලක් වැය කර තිබුණේ ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන්ට පලායාම සඳහා බස් රථයක්  මිලදී ගැනීමට බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/ed066553.json)
 
 ---
 
@@ -2095,29 +2147,5 @@ Further, 3,000 scholarships paid to 3,000 scholarship students paid to 3,000 sch
 [Data](articles/50309f9c.json)
 
 [Extended Data](ext_articles/50309f9c.ext.json)
-
----
-
-### Rameshwaram Street
-
-*2024-08-01 15:24:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடற்படையை-கண்டித்து-ராமேசுவரத்தில்-வீதிமறியல்/175-341414) · `ta`
-
-In a recent incident, the Sri Lankan navy attacked fishermen from Rameshwaram, resulting in one death and one "magical" disappearance. Over 2,000 fishermen ventured out on Wednesday, leading to a confrontation where their boat was sunk. Two fishermen were rescued and brought ashore, while efforts continue to locate the missing. This event sparked a road blockade by fishermen protesting the attack. Earlier, on June 25, the Sri Lankan navy also seized a boat and arrested its crew, leading to another fatality.
-
-🟩
-
-Sri Lankan navy's attack. The Sri Lankan navy has rescued two fishermen and a fisherman's body. The search for another magical fisherman is ongoing.
-
-More than two thousand fishermen from the Rameshwaram fishing harbor went to sea on Wednesday (31).
-
-The Sri Lankan navy, who was on patrol in the area that night, was chased by their navy patrol to arrest the fishermen, claiming that they were fishing in the Nedundevu seas that night.. According to Indian news, the boat was submerged in the middle of the sea when Karthikeyan was hit hard.
-
-A fisherman died in the Sri Lankan Navy's attack. Another fisherman has become magical. Two people have been rescued by Sri Lankan navy and taken to Kankesanthurai shore. Following this, fishermen are engaged in a road blockade at the Madurai National Highway opposite the Rameshwaram taluk office condemning the incident.
-
-...
-
-[Data](articles/c48f0874.json)
-
-[Extended Data](ext_articles/c48f0874.ext.json)
 
 ---

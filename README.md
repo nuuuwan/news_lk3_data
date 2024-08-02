@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 19:05:57**
+As of **2024-08-02 19:20:53**
 
 ## Newspaper Stats
 
-*Scraped **38,680** Articles*
+*Scraped **38,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,483
 adalk | 3,553
 adaderanalk | 4,478
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,807
+tamilmirrorlk | 4,808
 virakesarilk | 6,117
 adaderanasinhalalk | 6,519
 
@@ -26,29 +26,53 @@ adaderanasinhalalk | 6,519
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,678 (100.0%) of 38,680 articles have been extended.
+38,680 (100.0%) of 38,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
 
-### மோதல் வலயத்தில் சிக்கியுள்ள ஆயிரக்கணக்கான இலங்கையர்கள்
+### வியாழேந்திரனின் செயலாளருக்கு விளக்கமறியல்
+
+*2024-08-02 18:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளருக்கு-விளக்கமறியல்/175-341475) · `ta`
+
+மட்டக்களப்பில் இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவால் கைது செய்யப்பட்ட இராஜாங்க அமைச்சர் வியாழேந்திரனின் பிரத்தியேக செயலாளர் மற்றும் அவரது கட்சி இணைப்பாளர் ஆகிய இருவரையும் 15 ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் இன்று (2) உத்தரவிட்டார்.
+
+மட்டக்களப்பில் ஆற்று மண் அகழ்வதற்கான அனுமதி வழங்க கட்டிட ஒப்பந்தகார் ஒருவரிடம்  15 இலட்சம் ரூபா இலஞ்சம் வாங்கிய  இராஜாங்க அமைச்சர் எஸ்.வியாழேந்திரனின் செயலாளர் மற்றும் அவரது கட்சி இணைப்பாளர் ஆகிய இருவரை  நேற்று (1) கல்லடி கடற்கரையில் மறுவேடத்தில் இருந்த இலஞ்சஊழல் ஒழிப்பு ஆணைக்குழுவினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/f2d72728.json)
+
+---
+
+### Thousands of Sri Lankans trapped in the conflict
 
 *2024-08-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதல்-வலயத்தில்-சிக்கியுள்ள-ஆயிரக்கணக்கான-இலங்கையர்கள்/175-341474) · `ta`
 
-ஈரானில் ஹமாஸ் அமைப்பின் அரசியல் பிரிவின் தலைவர் இஸ்மாயில் ஹனியா படுகொலை செய்யப்பட்டதன் பின்னர் மத்திய கிழக்கு பிராந்தியத்தில் அதிகரித்து வரும் யுத்த சூழ்நிலை  குறித்து தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில் ஊடகவியாளர் சந்திப்பு நடைபெற்றது
+In response to Middle East tensions post-Hamas leader's assassination, Sri Lanka's Minister of Labor and Foreign Employment, Manusha Nanayakkara, announced measures to repatriate over 30,000 Sri Lankan workers from Israel, Jordan, Lebanon, Egypt, and potentially Saudi Arabia and Kuwait. The government is allocating $5 million for safe transportation and ensuring no fuel shortages. Workers are advised to stay put until it's safe to return, with accommodations and support arranged upon arrival.
 
-இங்கு கருத்து தெரிவித்த  தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார,
+🟩
 
-தற்போது மத்திய கிழக்கில் ஏற்பட்டுள்ள பதற்றநிலை காரணமாக இலங்கை புலம்பெயர் தொழிலாளர்கள்  நாடு திரும்பும் கட்டாய நிலைக்குத் தள்ளப்படுவார்கள்.
+A press conference was held at the Ministry of Labor and Foreign Employment on the rising war situation in the Middle East after the assassination of the head of the political wing of the Hamas organization in Iran
 
-ஜனாதிபதியின் பணிப்புரையின் பிரகாரம் இஸ்ரேல், லெபனான், ஜோர்டான் மற்றும் எகிப்து ஆகிய நாடுகளில் உள்ள  இலங்கை தொழிலாளர்களை பாதுகாப்பாக நாட்டுக்கு அழைத்து வருவதற்காக 5 மில்லியன் டொலர்கள் ஒதுக்கப்பட்டுள்ளது.
+The Minister of Labor and Foreign Employment, Manusha Nanayakkara
 
-மத்திய கிழக்கில் நிலவும் யுத்த சூழ்நிலை காரணமாக நாட்டில்  எரிபொருள் மற்றும்  எரிவாயு  தட்டுப்பாட்டுப்   நிலை ஏற்படாமல் இருக்க, பொறுப்புள்ள அரசாங்கம் என்ற வகையில் தேவையான அனைத்து ஏற்பாடுகளையும் செய்து வருகிறோம் என அமைச்சர் சுட்டிக்காட்டினார்
+Due to the tensions in the Middle East, Sri Lankan diaspora workers will be forced to return to the country.
+
+According to the president's work, $ 5 million has been allocated to safely bring Sri Lankan workers to Israel, Lebanon, Jordan and Egypt to the country.
+
+The Minister pointed out that as a responsible government, we are making all necessary arrangements to prevent fuel and gas shortage in the country due to the situation in the Middle East.
+
+The minister said that more than 12,000 Sri Lankan workers in Israel alone, 15,000 in Jordan, 7,500 in Lebanon and nearly 500 Bayer clash in Egypt.
+
+The Minister urged Sri Lankan workers to act safely without crossing the borders.
 
 ...
 
 [Data](articles/5a4bd7b4.json)
+
+[Extended Data](ext_articles/5a4bd7b4.ext.json)
 
 ---
 
@@ -75,26 +99,6 @@ Three Sri Lanka legislators and other parties went to court against the deal. (C
 [Data](articles/d09ccb85.json)
 
 [Extended Data](ext_articles/d09ccb85.ext.json)
-
----
-
-### Sri Lanka to start on ‘River to Jaffna’ water scheme: President
-
-*2024-08-02 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-on-river-to-jaffna-water-scheme-president-175054/) · `en`
-
-ECONOMYNEXT – Sri Lanka will address the scarcity of safe drinking water in its north by finally starting on its long-touted “River for Jaffna” project, which was proposed by an engineer 70 years ago, President Ranil Wickremesinghe has said.
-
-Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalination Plant this morning (2).
-
-“The establishment of this water purification plant will significantly resolve the drinking water issues in Jaffna. We also intend to commence work on the Paliaru Reservoir to provide water to the Pooneryn area,” Wickremesinghe said.
-
-“I have also decided to launch a “River for Jaffna” program. Once both this purification plant and this program are fully implemented, the water problem in Jaffna will be completely resolved. This will help restore the Vadamarachchi area to its former lush state.”
-
-...
-
-[Data](articles/8e6bb4da.json)
-
-[Extended Data](ext_articles/8e6bb4da.ext.json)
 
 ---
 
@@ -155,6 +159,26 @@ Accordingly, a serpent youth in Weligama secure has come and seized the pimple a
 [Data](articles/a4d3f6fa.json)
 
 [Extended Data](ext_articles/a4d3f6fa.ext.json)
+
+---
+
+### Sri Lanka to start on ‘River to Jaffna’ water scheme: President
+
+*2024-08-02 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-on-river-to-jaffna-water-scheme-president-175054/) · `en`
+
+ECONOMYNEXT – Sri Lanka will address the scarcity of safe drinking water in its north by finally starting on its long-touted “River for Jaffna” project, which was proposed by an engineer 70 years ago, President Ranil Wickremesinghe has said.
+
+Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalination Plant this morning (2).
+
+“The establishment of this water purification plant will significantly resolve the drinking water issues in Jaffna. We also intend to commence work on the Paliaru Reservoir to provide water to the Pooneryn area,” Wickremesinghe said.
+
+“I have also decided to launch a “River for Jaffna” program. Once both this purification plant and this program are fully implemented, the water problem in Jaffna will be completely resolved. This will help restore the Vadamarachchi area to its former lush state.”
+
+...
+
+[Data](articles/8e6bb4da.json)
+
+[Extended Data](ext_articles/8e6bb4da.ext.json)
 
 ---
 
@@ -1306,6 +1330,8 @@ There is also an increasing interest for travel to Jaffna, IndiGo pointed out.
 
 [Data](articles/cfda5fb6.json)
 
+[Extended Data](ext_articles/cfda5fb6.ext.json)
+
 ---
 
 ### Paris Olympics: Sri Lanka’s Tharushi Karunaratne in 800m Heats today
@@ -2259,25 +2285,5 @@ Ambassador Zhenhong’s comments at an event celebrating the founding of the cou
 [Data](articles/5d394654.json)
 
 [Extended Data](ext_articles/5d394654.ext.json)
-
----
-
-### Notice of Sri Lankan workers in Middle East
-
-*2024-08-02 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199474) · `si`
-
-Foreign Minister Ali Sabri acknowledges the Israeli crisis affecting Sri Lankan workers in the Middle East. He assures measures will be implemented to speed up their evacuation if the situation worsens.
-
-🟩
-
-Foreign Minister Ali Sabri says he is aware of the situation in the Middle East with the Israeli crisis.
-
-He points out that if the crisis is intensified, steps will be taken to expedite Sri Lankan workers in the region.
-
-◼️
-
-[Data](articles/94fa4dc2.json)
-
-[Extended Data](ext_articles/94fa4dc2.ext.json)
 
 ---

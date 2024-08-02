@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 11:06:52**
+As of **2024-08-02 11:20:46**
 
 ## Newspaper Stats
 
-*Scraped **38,592** Articles*
+*Scraped **38,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,543
-adaderanalk | 4,462
+adaderanalk | 4,463
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,793
+tamilmirrorlk | 4,794
 virakesarilk | 6,103
-adaderanasinhalalk | 6,502
+adaderanasinhalalk | 6,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,589 (100.0%) of 38,592 articles have been extended.
+38,592 (100.0%) of 38,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### IndiGo to commence daily flights between Chennai and Jaffna
+
+*2024-08-02 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100936/indigo-to-commence-daily-flights-between-chennai-and-jaffna) · `en`
+
+Indian low-cost airline IndiGo has announced Jaffna in Sri Lanka as the newest addition in its international route network. The airline will start non-stop daily flights between Chennai and Jaffna, starting September 01, 2024.
+
+Jaffna will be the second destination in Sri Lanka after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network, the airline announced.
+
+This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity, IndiGo added, highlighting that bookings for the flight are open from August, 01, 2024.
+
+...
+
+[Data](articles/c5a01996.json)
+
+---
+
+### ලෙබනනයේ සංචාරය නොකරන්න - අලි සබ්රි
+
+*2024-08-02 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199480) · `si`
+
+අත්‍යවශ්‍ය කටයුත්තකට හැරෙන්නට ඉදිරි දින කිහිපය තුළ ලෙබනනයේ සංචාරය නොකරන ලෙස ශ්‍රී ලාංකිකයින්ට උපදෙස් නිකුත් කර තිබේ.
+
+එරට තුළ ශ්‍රී ලාංකිකයන් 6000ක් පමණ රැඳී සිටින බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/9373d2db.json)
+
+---
 
 ### Sri Lankans advised not to visit Lebanon in next few days
 
@@ -52,31 +82,41 @@ He also affirmed that the President has appointed two committees to monitor this
 
 [Data](articles/4add5f9d.json)
 
+[Extended Data](ext_articles/4add5f9d.ext.json)
+
 ---
 
-### ආසියානු ශූරියෝ අයර්ලන්තයේ සංචාරයක
+### Asian Zuroryo on a tour of Ireland
 
 *2024-08-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199479) · `si`
 
-එක්දින තරග 03කින් හා විස්සයි20 තරග 02කින් යුත් ක්‍රිකට් තරගාවලියක් සඳහා ආසියානු ශූර ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම මේ මස 06 වනදා අයර්ලන්තයේ සංචාරක නිරත වීමට නියමිතව ඇත.
+The Sri Lanka women's cricket team is set to tour Ireland for the first time, featuring in three ODIs and a T20I series. This follows a history of five international competitions between the two nations since 2007. Notably, Sri Lanka has triumphed in all three Twenty20 encounters from 2009 to 2022. The upcoming T20Is will take place in Dublin and Belfast on the 11th and 13th, followed by the ODI series on the 16th and 20th in Belfast. Despite being fifth in the ICC Women's Championship with a win-loss record of 13-8, Sri Lanka faces a challenge against Ireland, currently last in the standings with a loss rate of 10 out of 12 matches.
 
-මෙය ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමක් අයර්ලන්තයේ සංචාරයක නිතර වන පළමු අවස්ථාවද වෙයි.
+🟩
 
-ශ්‍රී ලංකාව හා අයර්ලන්තය අතර මේ දක්වා (2007 - 2023) එක්දින ජාත්‍යන්තර තරග 05ක් පැවැත් වී ඇති අතර, එම සියලුම තරග ශ්‍රී ලංකාව ජයගෙන ඇත.
+Sri Lanka women's cricket team is due to tour the tourist team in Ireland on three ODIs and a two-year-old cricket tournament.
 
-එමෙන්ම දෙරට අතර මේ දක්වා (2009 - 2022) විස්සයි20 තරග 03ක්ද පැවැත්වී ඇති අතර, ඒ සියල්ලම ජයගෙන ඇත්තේද ශ්‍රී ලංකාවයි.
+This is the first time a Sri Lankan women's cricket team to visit Ireland.
 
-දෙරට අතර පළමුව විස්සයි20 තරගාවලිය පැවැත්වෙන අතර, එය මේ මස 11 හා 13 දිනවලදී ඩබ්ලින් හා බෙල්ෆාස්ට්හිදී පැවැත්වීමට නියමිතව ඇත.
+Sri Lanka and Ireland have been held between 5 international competitions (2007 - 2023).
 
-ඉන් අනතුරුව එක්දින තරගාවලිය ආරම්භ වන අතර, එම තරග මේ මස 16, 18 හා 20 දිනවලදී පැවැත්වේ. මෙහි සියලුම තරග බෙල්ෆාස්ට්හිදී පැවැත්වීමට සැලසුම් කර ඇත.
+During the two countries (2009 - 2022), three Twenty20 matches have been held, and Sri Lanka has won all of them.
 
-එක්දින තරගාවලිය කණ්ඩායම් 10ක සහභාගිත්වයෙන් පැවැත්වෙන 2022-2025 අයි.සී.සී. කාන්තා ශූරතාවලිය යටතේද පැවැත්වේ.
+The Twenty20 tournament will be held between the two countries, which will be held at Dublin and Belfast on the 11th and 13th of this month.
 
-මෙම අයි.සී.සී. කාන්තා ක්‍රිකට් ශූරතාවේ මේ දක්වා පැවැති තරග අනුව ශ්‍රී ලංකාවට ප්‍රසාද ලකුණු සටහනේ 05වැනි ස්ථානය හිමිව ඇත.
+The ODI will then commence and the match will be held on 16th and 20th of this month. All the matches are scheduled to be held at Belfast.
+
+The ODI series 2022-2025 with the participation of 10 teams participating. There is also the Women's Championship.
+
+This I.CC. Sri Lanka is 5th in the bonus mark on the women's cricket championship.
+
+They have played 21 matches to the 21 matches and eight matches have been defeated.
 
 ...
 
 [Data](articles/5879fd51.json)
+
+[Extended Data](ext_articles/5879fd51.ext.json)
 
 ---
 
@@ -129,6 +169,24 @@ He made this statement to the media after a meeting held at the party headquarte
 [Data](articles/706ec49f.json)
 
 [Extended Data](ext_articles/706ec49f.ext.json)
+
+---
+
+### மோடியின் இலங்கைக்கான விஜயம் இரத்து
+
+*2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-இலங்கைக்கான-விஜயம்-இரத்து/175-341442) · `ta`
+
+இந்தியப் பிரதமர் நரேந்திர மோடியின் இலங்கைக்கான  உத்தியோகபூர்வ விஜயம் இரத்து செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
+
+இலங்கையில் தற்போது நிலவும் அரசியல் சூழ்நிலை காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது.
+
+நேற்றையதினம் இலங்கைக் கடற்படையினரின் படகு மோதியதால் இந்திய மீனவர் படகொன்று கடலில் மூழ்கியதில் ஒருவர் பலியான சம்பவம் பதிவாகியிருந்தது.
+
+இதனை அடுத்து டெல்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகர் இந்திய வெளியுறவு அமைச்சால் அழைக்கப்பட்டு இராஜதந்திர ரீதியிலான எதிர்ப்பு தெரிவிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/d14c8cf2.json)
 
 ---
 
@@ -862,17 +920,23 @@ The Indian Ministry of External Affairs has emphasised that the safety and secur
 
 ---
 
-### මව්කිරි දීමේ සතියෙත් මව් කිරි දීමට නිදහසක් නැති ශ්‍රී ලංකාවේ මව්වරු
+### Sri Lankan mothers who are not freedom to breastfeed week
 
 *2024-08-02 04:57:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g9g1zmpg8o) · `si`
 
-මව්කිරි දීමේ සතියෙත් මව් කිරි දීමට නිදහසක් නැති ශ්‍රී ලංකාවේ මව්වරු
+In Sri Lanka, World Breastfeeding Week highlights the challenges faced by mothers amidst an economic crisis, emphasizing the importance of breastfeeding for both maternal and child health. Despite government initiatives like 84-day maternity leaves and support for breastfeeding in hospitals, working mothers, especially in the private sector, struggle with balancing work and breastfeeding due to long commutes and inadequate facilities. This issue affects not just physical health but also mental well-being, as seen in the experiences shared by mothers in various sectors. The call for better workplace policies and facilities to support lactating mothers is clear, highlighting the need for comprehensive solutions to ensure the health and success of both mothers and infants.
 
-පවතින තත්වයන්ගේ හිඩැස් වසා සියලු මව්වරුන්ට මව්කිරි දීමට සහය ලබා දීම තේමා කරගත් ලෝක මව්කිරි ලබා දීමේ සතිය අගෝස්තු 1 වැනිදා සිට අගෝස්තු 7 දක්වා ක්‍රියාත්මක ය. බොහෝ රටවල් වර්තමානයේ මුහුණ දෙමින් සිටින ආර්ථික අර්බුද හමුවේ ශ්‍රම බලකායට එක්ව සිටින බොහෝ මව්වරුන් හට මව්කිරි ලබා දියයුතු වයසේ පසුවන දරුවන්ට මව්කිරි ලබා දීම අපහසු කර ඇති අතර ම අවශ්‍ය පෝෂණ සංඝටක සහිත ආහාරවල මිල ගණන් ඉහළ යාම ද මව්කිරි හිඟ වීමට හේතුවක් වී තිබේ. මෙවර ලෝක මව්කිරි ලබා දීමේ සතියෙන් යෝජනා කර සිටින්නේ එම විවිධ බාධාවන් බිඳ හෙළා සියලු මව්වරුන්ට මව්කිරි ලබා දීමට අවශ්‍ය සහය ලබා දීම ය.
+🟩
+
+Sri Lankan mothers who are not freedom to breastfeed week
+
+World breast militation week to support all mothers close to all mothers. In the face of the economic crisis, many mothers who have joined in the current economic crisis, many mothers have difficult to give birth to their age and feeding foods have been a cause of breastfeeding. This year's world breastfeeding week is proposes to provide support to all mothers and provide breastfeeding.
 
 ...
 
 [Data](articles/2a1405aa.json)
+
+[Extended Data](ext_articles/2a1405aa.ext.json)
 
 ---
 
@@ -2119,73 +2183,5 @@ This includes leasing and vehicle loans, standard deposits, gold loans and savin
 [Data](articles/3320a579.json)
 
 [Extended Data](ext_articles/3320a579.ext.json)
-
----
-
-### A man arrested in Trincomalee - Santosapuram Kalappu area
-
-*2024-08-01 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190010) · `ta`
-
-In Trincomalee, a man was arrested near Santosapuram Kalappu for running a leak manufacturing center. The Sampur police found and surrounded this facility, seizing 25,000 milliliters of leaks. The suspect, a 43-year-old from Muttur, will face charges at the Muttur court on Thursday.
-
-🟩
-
-Sampur police said that a leakage manufacturing center has been identified and surrounded in the Santosapuram Kalapu area belonging to the Sampur police division of Trincomalee.
-
-Sampur police said that 25,000 milliliters of leaks were seized in the area.
-
-Sampur police have arrested a 43 -year -old man who lives in the weaving city of Muttur, who runs the leak manufacturing plant.
-
-Sampur police said that the seized leakage and the arrested person will be produced at the Muttur court on Thursday (01).
-
-◼️
-
-[Data](articles/bff813d4.json)
-
-[Extended Data](ext_articles/bff813d4.ext.json)
-
----
-
-### The decision of LAUGFS gas
-
-*2024-08-01 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199456) · `si`
-
-LAUGFS Gas Company announced no price changes for domestic gas in August.
-
-🟩
-
-LAUGFS Gas Company says that the price of LAUGFS gas (domestic gas) is not amended for the month of August.
-
-◼️
-
-[Data](articles/4728455d.json)
-
-[Extended Data](ext_articles/4728455d.ext.json)
-
----
-
-### Cooperate with the Commission to remove obstacles
-
-*2024-08-01 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190014) · `ta`
-
-The February organization urges President Ranil Wickremesinghe to cooperate with the Election Commission to overcome hurdles in appointing their leader, highlighting concerns over the presidential election's uncertainty due to the absence of a police chief. Despite constitutional announcements, the election's integrity is questioned, affecting democracy and elections' credibility. The organization emphasizes the importance of ensuring citizens' right to vote and managing public funds responsibly, calling for action to ensure a fair election and the appointment of a ruler for the next five years.
-
-🟩
-
-The February organization has demanded that the president take steps to cooperate with the Election Commission to remove the obstacles to appoint their ruler.
-
-This was stated in a letter sent to President Ranil Wickremesinghe, the Executive Director of the February.
-
-The Election Commission has announced the presidential election as per the constitution, despite the frequent unhealthy characteristics.
-
-The election will be held on September 21st. As you have already been controlled to contest the election, you have often stated that there is no restriction on holding the presidential election. We thank you for that.
-
-However, in response to an interim injunction issued by the court on the police chief, the uncertainty of the presidential election has been raised again by not appointing a police chief.. The frequent uncertainty of the country's democracy and elections is a huge impact on your honor as the head of the government, citizens and head of state.
-
-...
-
-[Data](articles/812aecf4.json)
-
-[Extended Data](ext_articles/812aecf4.ext.json)
 
 ---

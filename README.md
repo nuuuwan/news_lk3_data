@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 10:54:43**
+As of **2024-08-02 11:06:52**
 
 ## Newspaper Stats
 
-*Scraped **38,589** Articles*
+*Scraped **38,592** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
-bbccomsinhala | 369
+bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,328
 dailyftlk | 2,483
 adalk | 3,543
-adaderanalk | 4,461
+adaderanalk | 4,462
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,793
 virakesarilk | 6,103
-adaderanasinhalalk | 6,501
+adaderanasinhalalk | 6,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,589 (100.0%) of 38,589 articles have been extended.
+38,589 (100.0%) of 38,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### Sri Lankans advised not to visit Lebanon in next few days
+
+*2024-08-02 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100935/sri-lankans-advised-not-to-visit-lebanon-in-next-few-days) · `en`
+
+Sri Lankans have been advised not to visit Lebanon during the next few days, unless for essential purposes, Minister of Foreign Affairs Ali Sabry said.
+
+This advice comes amid rising tensions in the region following the assassination of Hamas leader Ismail Haniyeh.
+
+When inquired by Ada Derana, the Minister also expressed that there are around 6,000 Sri Lankans currently residing in Lebanon.
+
+Meanwhile on Thursday (01), Minister Sabry emphasized that the government has a plan in place to repatriate Sri Lankan expatriate workers in Iran and its region in the event the conflict escalates to violence.
+
+He also affirmed that the President has appointed two committees to monitor this situation and to take necessary measures.
+
+“We already had a plan in place for this situation in October, which we are now reviewing. In the event that the conflict escalates, we have a plan to take immediate action to safeguard the lives of Sri Lankans in the region”, he highlighted.
+
+...
+
+[Data](articles/4add5f9d.json)
+
+---
+
+### ආසියානු ශූරියෝ අයර්ලන්තයේ සංචාරයක
+
+*2024-08-02 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199479) · `si`
+
+එක්දින තරග 03කින් හා විස්සයි20 තරග 02කින් යුත් ක්‍රිකට් තරගාවලියක් සඳහා ආසියානු ශූර ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම මේ මස 06 වනදා අයර්ලන්තයේ සංචාරක නිරත වීමට නියමිතව ඇත.
+
+මෙය ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමක් අයර්ලන්තයේ සංචාරයක නිතර වන පළමු අවස්ථාවද වෙයි.
+
+ශ්‍රී ලංකාව හා අයර්ලන්තය අතර මේ දක්වා (2007 - 2023) එක්දින ජාත්‍යන්තර තරග 05ක් පැවැත් වී ඇති අතර, එම සියලුම තරග ශ්‍රී ලංකාව ජයගෙන ඇත.
+
+එමෙන්ම දෙරට අතර මේ දක්වා (2009 - 2022) විස්සයි20 තරග 03ක්ද පැවැත්වී ඇති අතර, ඒ සියල්ලම ජයගෙන ඇත්තේද ශ්‍රී ලංකාවයි.
+
+දෙරට අතර පළමුව විස්සයි20 තරගාවලිය පැවැත්වෙන අතර, එය මේ මස 11 හා 13 දිනවලදී ඩබ්ලින් හා බෙල්ෆාස්ට්හිදී පැවැත්වීමට නියමිතව ඇත.
+
+ඉන් අනතුරුව එක්දින තරගාවලිය ආරම්භ වන අතර, එම තරග මේ මස 16, 18 හා 20 දිනවලදී පැවැත්වේ. මෙහි සියලුම තරග බෙල්ෆාස්ට්හිදී පැවැත්වීමට සැලසුම් කර ඇත.
+
+එක්දින තරගාවලිය කණ්ඩායම් 10ක සහභාගිත්වයෙන් පැවැත්වෙන 2022-2025 අයි.සී.සී. කාන්තා ශූරතාවලිය යටතේද පැවැත්වේ.
+
+මෙම අයි.සී.සී. කාන්තා ක්‍රිකට් ශූරතාවේ මේ දක්වා පැවැති තරග අනුව ශ්‍රී ලංකාවට ප්‍රසාද ලකුණු සටහනේ 05වැනි ස්ථානය හිමිව ඇත.
+
+...
+
+[Data](articles/5879fd51.json)
+
+---
 
 ### The crisis emerged in the Olympic Women's Boxing
 
@@ -811,6 +859,20 @@ The Indian Ministry of External Affairs has emphasised that the safety and secur
 [Data](articles/c360953c.json)
 
 [Extended Data](ext_articles/c360953c.ext.json)
+
+---
+
+### මව්කිරි දීමේ සතියෙත් මව් කිරි දීමට නිදහසක් නැති ශ්‍රී ලංකාවේ මව්වරු
+
+*2024-08-02 04:57:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g9g1zmpg8o) · `si`
+
+මව්කිරි දීමේ සතියෙත් මව් කිරි දීමට නිදහසක් නැති ශ්‍රී ලංකාවේ මව්වරු
+
+පවතින තත්වයන්ගේ හිඩැස් වසා සියලු මව්වරුන්ට මව්කිරි දීමට සහය ලබා දීම තේමා කරගත් ලෝක මව්කිරි ලබා දීමේ සතිය අගෝස්තු 1 වැනිදා සිට අගෝස්තු 7 දක්වා ක්‍රියාත්මක ය. බොහෝ රටවල් වර්තමානයේ මුහුණ දෙමින් සිටින ආර්ථික අර්බුද හමුවේ ශ්‍රම බලකායට එක්ව සිටින බොහෝ මව්වරුන් හට මව්කිරි ලබා දියයුතු වයසේ පසුවන දරුවන්ට මව්කිරි ලබා දීම අපහසු කර ඇති අතර ම අවශ්‍ය පෝෂණ සංඝටක සහිත ආහාරවල මිල ගණන් ඉහළ යාම ද මව්කිරි හිඟ වීමට හේතුවක් වී තිබේ. මෙවර ලෝක මව්කිරි ලබා දීමේ සතියෙන් යෝජනා කර සිටින්නේ එම විවිධ බාධාවන් බිඳ හෙළා සියලු මව්වරුන්ට මව්කිරි ලබා දීමට අවශ්‍ය සහය ලබා දීම ය.
+
+...
+
+[Data](articles/2a1405aa.json)
 
 ---
 
@@ -2125,63 +2187,5 @@ However, in response to an interim injunction issued by the court on the police 
 [Data](articles/812aecf4.json)
 
 [Extended Data](ext_articles/812aecf4.ext.json)
-
----
-
-### Efforts to disrupt the presidential election?
-
-*2024-08-01 17:08:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-කඩාකප්පල්-කිරීමේ-ප්‍රයත්නය-අසාර්ථකයි-/11-411149) · `si`
-
-Retired DIG Priyantha Jayakody revealed he thwarted attempts to sabotage the Presidential election. He also commented on the appointment of Lalith Pathinaee as Senior DIG (Admin).
-
-🟩
-
-Retired DIG Priyantha Jayakody has stated that he has shown the marks failing to sabotage the Presidential election.
-
-Speaking to the appointment of Lalith Pathinaee to the appointment of the Senior DIG (Admin Admin) post is commissioned.
-
-◼️
-
-[Data](articles/9a36cd02.json)
-
-[Extended Data](ext_articles/9a36cd02.ext.json)
-
----
-
-### Lalith Patinayake appointed as Deputy Inspector General of Police in charge of the administration unit
-
-*2024-08-01 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190023) · `ta`
-
-Lalith Patinayake, appointed by the National Police Commission, takes over as Deputy Inspector General of Police for administration. This follows an interim injunction from the Supreme Court allowing Deshabandu Tennakoon to continue his role as Inspector General of Police.
-
-🟩
-
-Lalith Patinayake has been appointed by the National Police Commission to fulfill the duties as the Deputy Inspector General of Police in charge of the administration.
-
-The Supreme Court issued an interim injunction on the 24th of last month to continue the work of the Inspector General of Police Deshabandu Tennakoon.
-
-◼️
-
-[Data](articles/06f9600b.json)
-
-[Extended Data](ext_articles/06f9600b.ext.json)
-
----
-
-### Laugfs Gas prices to also remain unchanged
-
-*2024-08-01 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100919/laugfs-gas-prices-to-also-remain-unchanged) · `en`
-
-Laugfs Gas PLC announced that the company will also not revise domestic LP gas prices in the month of August.
-
-Litro Gas chairman Muditha Pieris on Wednesday (31) said that the company has decided not to revise the prices of its domestic LP gas cylinders for the month of August.
-
-Meanwhile, it was announced that the fuel prices will also remain unchanged for this month.
-
-◼️
-
-[Data](articles/cc09a465.json)
-
-[Extended Data](ext_articles/cc09a465.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 10:08:34**
+As of **2024-08-02 10:20:50**
 
 ## Newspaper Stats
 
-*Scraped **38,586** Articles*
+*Scraped **38,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 2,483
 adalk | 3,543
 adaderanalk | 4,461
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,791
+tamilmirrorlk | 4,793
 virakesarilk | 6,103
-adaderanasinhalalk | 6,500
+adaderanasinhalalk | 6,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,585 (100.0%) of 38,586 articles have been extended.
+38,585 (100.0%) of 38,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### ඔලිම්පික් කාන්තා බොක්සිං තරගයේදී මතුවූ අර්බුදය
+
+*2024-08-02 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199478) · `si`
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ 7වන දිනය අද (02) වන අතර ඊයේ (01) දිනයේදී පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ කාන්තා බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටයේදී මතභේදාත්මක සිද්ධියක් ඇතිවිය.
+
+එනම් කාන්තා බොක්සිං ඉසව්ව සඳහා ටෙස්ටෙස්ටරෝන් මට්ටම වැඩි ප්‍රමාණයේ කාන්තාවක් ක්‍රීඩා කිරීම නිසාවෙනි.
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ 6වන දිනය වූ ඊයේ දිනයේදී බොක්සිං ඉසව්වේ අවසන් 16 දෙනාගේ වටයේ තරගයක් පැවැත් වුණු අතර ඒ ඉතාලි බොක්සිං ක්‍රීඩිකා ඇන්ජෙලා කරීනි සහ ඇල්ජීරියාවේ ඉමානේ කලීෆ් අතරය.
+
+කලීෆ් සමග ඇන්ජෙලා කරීනි අතර තරගය පැවැත්වූයේ තප්පර 46ක් වැනි කෙටි කාලයක් පමණි.
+
+තරගයෙන් පසු කරීනි සඳහන් කළේ, "මම කවදාවත් ඒ වගේ පහරවල් වලට මුහුණ දීලා නෑ. මේ සිදුවීම ඔලිම්පික් විනිසුරු මඩුල්ලට භාරයි. මගේ ජීවිතය බේරාගැනීමට අවශ්‍ය බැවින් මම ඔලිම්පික් තරගය නතර කළා.''යනුවෙනි.
+
+මේ සමග කලීෆ් කාන්තා අංශය නියෝජනය කරමින් බොක්සිං ඉසව්ව නියෝජනය කිරීම සම්බන්ධයෙන් මුළු ලෝකයේම කතාබහක් නිර්මාණය වී තිබේ.
+
+ස්ත්‍රී පුරුෂ භාවය තහවුරු කිරීම සඳහා සිදු කරන ලද ටෙස්ටෙස්ටරෝන් පරීක්ෂණ අසමත් වීම හේතුවෙන් පසුගිය වසරේ පැවති ලෝක ශූරතාව තරගාවලියෙන්ද කලීෆ්ව ඉවත් කර තිබුණි.
+
+...
+
+[Data](articles/4d7ab1ec.json)
+
+---
+
+### மொட்டு “புதன்” மலரும்
+
+*2024-08-02 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-புதன்-மலரும்/175-341443) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் தொடர்பான அறிவிப்பு எதிர்வரும் புதன்கிழமை வெளியிடப்படும் என அக்கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தலைமையில் கட்சியின் தலைமையகத்தில் நேற்று (01) இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்துரைத்த போதே மேற்ண்டவாறு குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/706ec49f.json)
+
+---
+
+### நரேந்திர மோடியின் இலங்கைக்கான விஜயம்
+
+*2024-08-02 09:41:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடியின்-இலங்கைக்கான-விஜயம்/175-341442) · `ta`
+
+இந்தியப் பிரதமர் நரேந்திர மோடியின் இலங்கைக்கான  உத்தியோகபூர்வ விஜயம் இரத்து செய்யப்பட்டுள்ளதாக இந்திய ஊடகங்கள் தெரிவித்துள்ளன.
+
+இலங்கையில் தற்போது நிலவும் அரசியல் சூழ்நிலை காரணமாக இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது.
+
+நேற்றையதினம் இலங்கைக் கடற்படையினரின் படகு மோதியதால் இந்திய மீனவர் படகொன்று கடலில் மூழ்கியதில் ஒருவர் பலியான சம்பவம் பதிவாகியிருந்தது.
+
+இதனை அடுத்து டெல்லியில் உள்ள இலங்கை பதில் உயர்ஸ்தானிகர் இந்திய வெளியுறவு அமைச்சால் அழைக்கப்பட்டு இராஜதந்திர ரீதியிலான எதிர்ப்பு தெரிவிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/d898262f.json)
+
+---
 
 ### US recognizes Maduro’s opponent as winner in Venezuela election
 
@@ -2101,67 +2157,5 @@ Meanwhile, it was announced that the fuel prices will also remain unchanged for 
 [Data](articles/cc09a465.json)
 
 [Extended Data](ext_articles/cc09a465.ext.json)
-
----
-
-### Lalith Patinaya assigned to police administrative duties
-
-*2024-08-01 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199455) · `si`
-
-Senior DIG Lalith Pathinayake takes over administrative duties from his predecessor.
-
-🟩
-
-Senior DIG Lalith Pathinayake has been appointed to cover the administrative duties of Senior DIG.
-
-◼️
-
-[Data](articles/8a919e7d.json)
-
-[Extended Data](ext_articles/8a919e7d.ext.json)
-
----
-
-### Protest against Sri Lankan government from India
-
-*2024-08-01 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199454) · `si`
-
-India protests Sri Lanka over Indian fisherman's death, calling for safety measures to prevent future incidents.
-
-🟩
-
-The Indian government has protested against the Government of Sri Lanka to the Government of Sri Lanka by the death of a Indian fishing vessel in the country.
-
-Indian media reports that the Sri Lankan High Commissioner to the Ministry of Foreign Affairs has called on the Ministry of Foreign Affairs.
-
-However, the Indian External Affairs Ministry says that a statement has been issued against this in objection to this.
-
-The Indian government has given the highest priority for the protection of the Indian fishermen and the two countries should take necessary steps to prevent this issue.
-
-The Indian External Affairs Ministry has said that the Indian High Commissioner to the Sri Lankan government is to meet with the Sri Lankan government.
-
-◼️
-
-[Data](articles/ed1dffe6.json)
-
-[Extended Data](ext_articles/ed1dffe6.ext.json)
-
----
-
-### Special privilege for school children to three years from today
-
-*2024-08-01 16:34:57* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-අද-සිට-වසර-තුනක්-දක්වා-ලැබෙන-විශේෂ-වරප්‍රසාදය/11-411148) · `si`
-
-From today, all government and specialized schools' students will enjoy special privileges for three years, including financial support for medical treatments, accidents, and even education-related expenses. This initiative, costing Rs. 7,112 million, was announced by the Minister of Education, Susil Premajayantha, during a partnership signing with the Sri Lanka Insurance Corporation. Students, their parents, and legal guardians will benefit from this scheme, which also includes a digital insurance cover.
-
-🟩
-
-Minister of Education Susil Premajayantha said that all the schools to study in all government schools, students, and financial specialized schools for three years from today.. The Minister made these comments participating in the signing of the agreement between the Ministry of Education and the Sri Lanka Insurance Corporation.. The Secretary to the Ministry of Education Thilaka Jayasundara has signed the agreement with the Chief Operating Officer of Sri Lanka Insurance Corporation.
-
-...
-
-[Data](articles/fad5ddd7.json)
-
-[Extended Data](ext_articles/fad5ddd7.ext.json)
 
 ---

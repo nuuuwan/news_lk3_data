@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 02:06:00**
+As of **2024-08-03 02:20:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,712 (100.0%) of 38,715 articles have been extended.
+38,715 (100.0%) of 38,715 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Organised by the Sri Lanka Institute of Packaging and CDC Events, the amplified 
 
 [Data](articles/673cc9ee.json)
 
+[Extended Data](ext_articles/673cc9ee.ext.json)
+
 ---
 
 ### India’s Hinduja Group seeks to strengthen ties  with Sri Lanka
@@ -57,6 +59,8 @@ The Hinduja Group has excelled in diverse fields with a strong global presence i
 ...
 
 [Data](articles/f972c0b5.json)
+
+[Extended Data](ext_articles/f972c0b5.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ While symbolising Durdans Hospital’s unwavering commitment to excellence in pa
 ...
 
 [Data](articles/0de73126.json)
+
+[Extended Data](ext_articles/0de73126.ext.json)
 
 ---
 

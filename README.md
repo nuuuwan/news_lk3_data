@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 07:28:14**
+As of **2024-08-02 07:50:03**
 
 ## Newspaper Stats
 
-*Scraped **38,566** Articles*
+*Scraped **38,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,175 @@ newsfirstlk | 363
 bbccomsinhala | 369
 islandlk | 2,216
 economynextcom | 2,328
-dailyftlk | 2,479
+dailyftlk | 2,483
 adalk | 3,540
-adaderanalk | 4,455
+adaderanalk | 4,456
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,790
 virakesarilk | 6,103
-adaderanasinhalalk | 6,494
+adaderanasinhalalk | 6,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,551 (100.0%) of 38,566 articles have been extended.
+38,555 (99.9%) of 38,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### මැදපෙරදිග ශ්‍රී ලාංකික ශ්‍රමිකයින් ගැන දැනුම්දීමක්
+
+*2024-08-02 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199474) · `si`
+
+ඊශ්‍රායල අර්බුදයත් සමග මැදපෙරදිග කලාපයේ ඇතිවී තිබෙන තත්ත්වය පිළිබඳව අවධානයෙන් පසුවන බව විදේශ අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ අර්බුදය උත්සන්න වුවහොත් එම කලාපයේ සිටින ශ්‍රී ලාංකික ශ්‍රමිකයින් කඩිනමින් ගෙන්වා ගැනීමට පියවර ගන්නා බවය.
+
+◼️
+
+[Data](articles/94fa4dc2.json)
+
+---
+
+### Online Safety (Amendment) Bill gazetted
+
+*2024-08-02 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100929/online-safety-amendment-bill-gazetted) · `en`
+
+The Online Safety (Amendment) Bill has been published via government gazette.
+
+◼️
+
+[Data](articles/ffe6aa12.json)
+
+---
+
+### රන් පැහැති නෙළුම් මලක් සමග අයෙක් අත්අඩංගුවට
+
+*2024-08-02 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199473) · `si`
+
+පුරාවිද්‍යා වටිනාකමක් ඇති බවට පවසමින් රන් පැහැති නෙළුම් මලක් සන්තකයේ තබාගෙන අලෙවි කිරීම සඳහා සූදානම්ව සිටි පුද්ගලයෙක්ව මාතලේ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් ඊයේ (01) අත්අඩංගුවට ගෙන තිබේ.
+
+මාතලේ පොලිස් වසමේ අළුවිහාරය ප්‍රදේශයේදී මාතලේ කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත  සිදුකරන ලද වැටලීමකදී මෙම පුද්ගලයා අත්අඩංගුවට ගෙන තිබේ.
+
+පුරාවිද්‍යා වටිනාකමකින් යුත් බවට පැවසෙන මෙම රන් පැහැති නෙළුම් මල ග්‍රෑම් 706ක බරිත් යුතු වන අතර,  විවිධ ප්‍රමාණයේ පෙති 24කින් සමන්විත ය.
+
+සැකකරු මෙය රුපියල් 5,000,000ක මුදලකට අලෙවි කිරීම සඳහා සන්තකයේ තබාගෙන සිටි බව වාර්තා වෙයි.
+
+අත්අඩංගුවට ගත් පුද්ගලයා වයස අවුරුදු 33ක් වන කවුඩුපැළැල්ල, මාතලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/0a597c57.json)
+
+---
+
+### ඔන්ලයින් පනත් කෙටුම්පත ගැසට් කෙරේ
+
+*2024-08-02 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199472) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ (සංශෝධන) පනත් කෙටුම්පත ගැසට් කර තිබේ.
+
+එම පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත් ඉන් අනතුරුව අනුමැතිය පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා ඉදිරිපත් කළ යෝජනාවට පසුගිය 22 වනදා පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලැබී තිබුණි.
+
+◼️
+
+[Data](articles/0b0581db.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-02 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199471) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තු විසින් අද (02) උදෑසන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුව බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකිය.
+
+එමෙන්ම බදුල්ල, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 50ක පමණ තද සුළං ද ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින්විට පැ.කි.මී. 30ක 40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/b5767495.json)
+
+---
+
+### Richard Pieris Group profits soar 281% to Rs.1.75 b in 1Q
+
+*2024-08-02 06:21:25* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-profits-soar-281-to-Rs-1-75-b-in-1Q/34-765056) · `en`
+
+Richard Pieris Group, one of Sri Lanka’s largest and most diversified conglomerates, has recorded a Profit Before Tax (PBT) of Rs.1.75 billion for Q1 of the 2024/25 financial year, recording a profit growth of 281% over the corresponding period from the last financial year which was Rs. 459 million.
+
+This stellar performance of Richard Pieris Group for Q1 demonstrates the business resilience to reach new heights despite volatile domestic and global economic factors.
+
+The Group’s overall performance was mainly boosted by significant operating profit contributions from the Rubber, Plastics, Furniture and Electronics, Retail and Plantations sectors during the period. As a legend in the manufacturing sector and as an economic powerhouse, Richard Pieris Group operates over 51 factories across the country.
+
+The Retail sector operating profit grew by 35% over last year’s first quarter mainly driven by strategic initiatives to gear up enhance business performance and operational efficiencies.
+
+...
+
+[Data](articles/336bdcba.json)
+
+---
+
+### Vallibel One rebuts anonymous message circulated on social media
+
+*2024-08-02 06:20:28* · [`dailyftlk`](https://www.ft.lk/business/Vallibel-One-rebuts-anonymous-message-circulated-on-social-media/34-765055) · `en`
+
+Vallibel One PLC yesterday issued a statement to the Colombo Stock Exchange refuting the anonymous, yet adverse message circulated on social media.
+
+Our attention has been drawn to an anonymous message which is being circulated on social media under the caption “Vallibel One’s Rs. 163 billion Conundrum: A financial Thriller Unfolds Amidst Political Ambitions”.
+
+We regret to note that the message appears to have been published with mischievous intent. The author of the publication, resorting to verbiage and a blatant distortion of facts has twisted a prudent application of policies by the company to cast sinister aspersions on the ultimate majority shareholder of the company, for political purposes. The circulated message states that the company is faced with a serious crisis referring to a “Rs. 163 billion set aside for expected credit losses”, which is manifestly false. In fact, the figure, Rs. 163 billion represents the Net amount of Loans and Advances of the Group.
+
+...
+
+[Data](articles/e71fdafc.json)
+
+---
+
+### Applications now open for 10th edition of CMA Excellence in Integrated Reporting Awards
+
+*2024-08-02 06:20:07* · [`dailyftlk`](https://www.ft.lk/business/Applications-now-open-for-10th-edition-of-CMA-Excellence-in-Integrated-Reporting-Awards/34-765054) · `en`
+
+CMA Sri Lanka, the National Professional Management Accounting body in Sri Lanka, announced the 10th anniversary celebrations of the “CMA  Excellence in Integrated Reporting Awards – 2024” conducted with its Strategic Partner Colombo Stock Exchange.
+
+The Excellence in Integrated Reporting Awards is held to promote Sri Lankan companies both listed, unlisted and state-owned institutions/companies to undertake integrated reporting which will be beneficial to investors and stakeholders.
+
+The primary purpose of an integrated report is to explain to providers of financial capital how an organisation creates, preserves or erodes value over the short, medium and long term. An integrated report benefits all stakeholders interested in an organisation’s ability to create value over time, including employees, customers, suppliers, business partners, local communities, legislators, regulators and policy-makers.
+
+...
+
+[Data](articles/96d0e80c.json)
+
+---
+
+### Govt. aims to boost manufacturing sector’s GDP contribution to 20% by 2030
+
+*2024-08-02 06:19:21* · [`dailyftlk`](https://www.ft.lk/business/Govt-aims-to-boost-manufacturing-sector-s-GDP-contribution-to-20-by-2030/34-765053) · `en`
+
+Highlights crucial role of entrepreneurship, aiming to increase its share in workforce from 2.8% to 7%
+
+Reveals Bill to amend Industrial Promotion Act in final stage
+
+Introduces new registration system for manufacturing industries; 3,925 industries registered by June 2024
+
+Revolving Fund Loan scheme allocates over Rs. 1.6 b for 179 projects in 2024 so far
+
+The Industry Ministry has set ambitious targets to elevate the manufacturing sector’s contribution to the national GDP from 16% to 20% by the year 2030. This strategic initiative is part of a comprehensive plan outlined in the National Industry Policy and a five-year strategic roadmap spanning 2023-2027.
+
+Industry Ministry Secretary Shantha Weerasinghe detailed these goals during a press briefing held at the Presidential Media Centre (PMC) on Wednesday.
+
+He highlighted the crucial role of entrepreneurship, aiming to increase its share in the workforce from 2.8% to 7%.
+
+...
+
+[Data](articles/553474ba.json)
+
+---
 
 ### Private sector companies awarded Authorised Economic Operator status
 
@@ -178,6 +330,8 @@ Sri Lanka’s first election since an unprecedented economic crisis spurred wide
 
 [Data](articles/580f6172.json)
 
+[Extended Data](ext_articles/580f6172.ext.json)
+
 ---
 
 ### Expats’ right to vote
@@ -191,6 +345,8 @@ The Gazette for Presidential Elections 2024 has been published and the political
 ...
 
 [Data](articles/88ec0eee.json)
+
+[Extended Data](ext_articles/88ec0eee.ext.json)
 
 ---
 
@@ -366,6 +522,8 @@ The Indian Ministry of External Affairs has emphasised that the safety and secur
 
 [Data](articles/c360953c.json)
 
+[Extended Data](ext_articles/c360953c.ext.json)
+
 ---
 
 ### Hemas Holdings delivers stable FY25 Q1 performance amidst market challenges
@@ -379,6 +537,8 @@ The Consumer Brands sector reported revenue of Rs. 8.9 billion, with operating p
 ...
 
 [Data](articles/7b8c994c.json)
+
+[Extended Data](ext_articles/7b8c994c.ext.json)
 
 ---
 
@@ -1959,207 +2119,5 @@ A fisherman died in the Sri Lankan Navy's attack. Another fisherman has become m
 [Data](articles/c48f0874.json)
 
 [Extended Data](ext_articles/c48f0874.ext.json)
-
----
-
-### 31 Sri Lanka firms get AEO Tier 1 for fast customs clearance
-
-*2024-08-01 15:24:00* · [`economynextcom`](https://economynext.com/31-sri-lanka-firms-get-aeo-tier-1-for-fast-customs-clearance-174831/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs has included 31 companies into a ‘Authorised Economic Operator (AEO) Tier I status, qualifying them for faster goods clearance with reduced documentation, the Ceylon Chamber of Commerce said.
-
-The firms were awarded the status at a ceremony on July 30 by State Minister for Finance Ranjith Siyambalapitiya.
-
-The AEO Tier I status is aligned with World Customs Organization (WCO) SAFE Framework of Standards and the World Trade Organization (WTO) Trade Facilitation Agreement.
-
-Companies elevated to the category are entitled to “enhanced trade facilitation measures, such as rapid release of goods, reduced documentation and data requirements, and fewer physical inspections,” helping cross-border trade, the CCC said.
-
-To qualify for AEO status, operators must meet the eligibility criteria set by Sri Lanka Customs. This includes demonstrating high legal and operational compliance and maintaining robust supply chain security.
-
-...
-
-[Data](articles/22ea35e1.json)
-
-[Extended Data](ext_articles/22ea35e1.ext.json)
-
----
-
-### Sri Lanka’s tourism earnings surpass USD 1.5Bln in first half of 2024
-
-*2024-08-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100916/sri-lankas-tourism-earnings-surpass-usd-15bln-in-first-half-of-2024) · `en`
-
-Sri Lanka has earned around USD 1.5 billion from tourism in the first six months of 2024, the Central Bank of Sri Lanka (CBSL) said.
-
-The CBSL points out that it is almost double the growth compared to the first six months of last year.
-
-Meanwhile, foreign workers’ remittances for the first six months of 2024 were recorded as USD 3.14 billion, compared to the USD 2.82 billion income from this sector in the same period in 2023.
-
-Additionally, the official foreign reserves of the country have risen to USD 5.7 billion in June, according to the CBSL.
-
-The CBSL further stated that the Sri Lankan rupee has also appreciated against the US Dollar until the month of June 2024.
-
-◼️
-
-[Data](articles/b81c5184.json)
-
-[Extended Data](ext_articles/b81c5184.ext.json)
-
----
-
-### Six Chinese arrested
-
-*2024-08-01 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199449) · `si`
-
-Six Chinese nationals were arrested in Sri Lanka's Payagala area for being in the country without visas.
-
-🟩
-
-Six Chinese have been arrested in the Payagala area.
-
-The police said that a group of foreigners were arrested without visa.
-
-◼️
-
-[Data](articles/d2cde524.json)
-
-[Extended Data](ext_articles/d2cde524.ext.json)
-
----
-
-### The problems faced by the pre -school teachers will be given the solution - Radhakrishnan
-
-*2024-08-01 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190007) · `ta`
-
-At a recent event honoring pre-school teachers in Nuwara Eliya, Dr. Radhakrishnan pledged to bring their issues, including security and salary concerns, to the Parliament and negotiate with the Ministry of Education for solutions.
-
-🟩
-
-Dr. Velusamy Radhakrishnan, the leader of the Upcountry People's Front and Nuwara Eliya District Parliamentarian and Member of Parliament of Nuwara Eliya District, said that the issues faced by the pre -school teachers will be brought to the attention of the Parliament and negotiations with the Ministry of Education, including the Ministry of Education.
-
-The event was held at the Talawakelle Tamil Vidyalaya recently to honor the service of pre -school teachers.
-
-The pre -school teachers' federation and its Nuwara Eliya District Branch had made arrangements for the event.
-
-The pre -school teachers in the districts of Nuwara Eliya, Kandy and Badulla were honored. In addition, a certificate of appreciation was issued.
-
-Member of Parliament who was present at the event with the problems faced by the pre -school teachers and their demands. Handed over to Radhakrishnan.
-
-The Mahajar contains a number of issues, including the lack of security in their business, lack of business and salary issues.
-
-...
-
-[Data](articles/066e6452.json)
-
-[Extended Data](ext_articles/066e6452.ext.json)
-
----
-
-### Kukadasan met Ranil
-
-*2024-08-01 15:04:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்தார்-குகதாசன்/175-341412) · `ta`
-
-Kukadasan, a former TNA leader, met President Ranil Wickremesinghe to discuss Trincomalee district needs and developments. Appointed after R. Sampanthan's demise, this meeting highlights his continued involvement in local politics.
-
-🟩
-
-Trincomalee District Parliamentarian Kadiravelu Shanmugam Kukadasan met President Ranil Wickremesinghe at the Presidential Secretariat on Wednesday (31).
-
-It is learned that he discussed the various requirements and development in the Trincomalee district.
-
-It is noteworthy that Kukadasan, a former leader of the Tamil National Alliance (TNA), was appointed to the vacancy of the late R. Sampanthan.
-
-◼️
-
-[Data](articles/682bbb19.json)
-
-[Extended Data](ext_articles/682bbb19.ext.json)
-
----
-
-### Murali goes to visit the Indo-Sri Lanka ODi Tournament
-
-*2024-08-01 14:59:57* · [`adalk`](https://www.ada.lk/sports/ඉන්දු-ශ්‍රී-ලංකා-ODI-තරගයට-කලින්-මුරලි-හදීසියේම-ක්‍රීඩකයන්-බලන්න-යයි/9-411145) · `si`
-
-Murali, the former spin legend, is now part of Sri Lanka's team as a coach for the ongoing ODI series against India.
-
-🟩
-
-Former spinner Muttiah Muralitharan has been found in Sri Lanka's players and assistants.
-
-◼️
-
-[Data](articles/21c26a9f.json)
-
-[Extended Data](ext_articles/21c26a9f.ext.json)
-
----
-
-### Another Hamas Pribist
-
-*2024-08-01 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199448) · `si`
-
-Mohamed David, a key Hamas leader, was killed in a raid on Gaza by the Israeli Army on the 13th. The operation targeted him while he was in a building in Khan Unis.
-
-🟩
-
-Israel announced that Mohamed David has been killed as the leader of the Hamas.
-
-He was assassinated by a raid on the Gaza on the 13th.
-
-The Israeli Army was reportedly tarricted by the Israeli army when he was in a building in a building in Khan Unis.
-
-◼️
-
-[Data](articles/5920a6b6.json)
-
-[Extended Data](ext_articles/5920a6b6.ext.json)
-
----
-
-### People seek to violate the purpose of the constitution - the people reject the presidential candidate that threatens democratic traditions - more than 140 civil society activists appeal
-
-*2024-08-01 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190008) · `ta`
-
-Civil society activists in Sri Lanka warn against presidential candidates threatening democratic traditions, citing potential constitutional crises and undermining of the rule of law. They oppose the swift appointment of the Inspector General of Police, fearing it could lead to such issues. The Supreme Court's involvement suggests the appointment might be unconstitutional, highlighting concerns over the executive's power and the need for adherence to constitutional norms. Activists urge voters to support candidates committed to preserving democracy and abolishing the executive presidency, emphasizing the importance of upholding the constitution and ensuring a fair electoral process.
-
-🟩
-
-Sri Lanka's civil society activists have said that we would like to remind our people and all candidates that any presidential candidate who threatens the democratic traditions of the country seeks to violate the clear purpose of the constitution.
-
-They said the President's intention to appoint the Inspector General of Police could create a constitutional crisis that would undermine the rule of law.
-
-In a statement issued by 142 civil society activists and academics and more than 30 organizations.
-
-After listening to the nine petitions against the appointment of the Inspector General of Police for six days, the appointment of the Inspector General of Police at 9.30 am on July 24 decided to re -examine the matter.
-
-Until then, the court ordered that the work of working at the office of the Tennakoon Police Inspector General of Police has been restricted.
-
-It means that the appointment is invalid if the Supreme Court finally decides that the appointment of Thenkon is contrary to the constitution.
-
-...
-
-[Data](articles/934da7cc.json)
-
-[Extended Data](ext_articles/934da7cc.ext.json)
-
----
-
-### One killed in fishing vessel
-
-*2024-08-01 14:49:35* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-යාත්‍රාවක්-පෙරළී-අයෙක්-මරුට/11-411144) · `si`
-
-A fisherman died when his boat was attacked by an Indian vessel in Sri Lankan waters. The attacker was later honored for its actions during the raid.
-
-🟩
-
-One was killed by a Indian fishing vessel at the Sri Lankan waters.
-
-The fishing vessel was felicitated while raiding the navy while he was engaged in fishing.
-
-◼️
-
-[Data](articles/e199ec9e.json)
-
-[Extended Data](ext_articles/e199ec9e.ext.json)
 
 ---

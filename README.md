@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 08:25:37**
+As of **2024-08-02 08:36:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,565 (100.0%) of 38,576 articles have been extended.
+38,576 (100.0%) of 38,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -606,6 +606,8 @@ In this challenging landscape, Scybers enables enterprises to rapidly reduce cyb
 
 [Data](articles/8358f82c.json)
 
+[Extended Data](ext_articles/8358f82c.ext.json)
+
 ---
 
 ### Vogue Jewellers, ‘TripAdvisor Traveller’s Choice 2024’
@@ -624,6 +626,8 @@ Nvidia sets record for biggest daily gain in value in stock market history
 
 [Data](articles/abaeb220.json)
 
+[Extended Data](ext_articles/abaeb220.ext.json)
+
 ---
 
 ### Share market on recovery track following disclosure of presidential poll survey results
@@ -637,6 +641,8 @@ Amid those developments both indices moved upwards. The All- Share Price Index w
 ...
 
 [Data](articles/1ec84d5a.json)
+
+[Extended Data](ext_articles/1ec84d5a.ext.json)
 
 ---
 
@@ -1230,19 +1236,31 @@ At this moment, there is a need to enter politics on the basis that my people ha
 
 ---
 
-### wp NC 1976 බස් රථය ගැන තොරතුරු පොලීසිය ඉල්ලයි
+### WP NC asks for the bus in 1976 Police
 
 *2024-08-01 19:03:16* · [`adalk`](https://www.ada.lk/breaking_news/wp-NC-1976-බස්-රථය-ගැන-තොරතුරු-පොලීසිය-ඉල්ලයි/11-411156) · `si`
 
-අතුරුගිරිය ටැටූ කලාගාරයකදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඇතුළු දෙදෙනකු ඝාතනය කර තවත් සිව් දෙනකුට බරපතළ තුවාල සිදු කිරීමේ සිද්ධියේ වෙඩික්කරුවන් ගිනි අවි රැගෙන පලාගිය wp- nc-1976  බස් රථය සම්බන්ධයෙන් යම් තොරතුරක් දන්නේ නම්  පහත සඳහන් දුරකථන අංකවලට දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+In 1976, WP NC sought help from the police regarding a shooting incident involving Karb-1976, who killed Wasantha. The police urged the public to report any sightings to specific phone numbers. Investigations revealed Karb spent Rs. 41 lakhs for the murder. A 21-year-old woman involved in purchasing Mirissa coconuts was arrested. Two suspects were detained after being found near the Kataragama bus stand. The police, including Wasantha Surendra Perera, arrested nine individuals, including a woman, as part of their investigation.
 
-බස්නාහිර පළාත් දකුණු අපරාධ කොට්ඨාසයේ ස්ථානාධිපති  0718596065 දුරකථන අංකයට හෝ අතුරුගිරිය  පොලීසියේ ස්ථානාධිපති ගේ 0718591657  දුරකථනයට එම ඇමතුම ලබා දෙන ලෙසත්  රහස්‍ය භාවය සුරකින බවත් පොලීසිය දන්වා සිටී.
+🟩
 
-ක්ලබ් වසන්ත  ඝාතනය කිරීම සඳහා  පාතාල නායක ලොකු පැටි නැමැත්තා රුපියල් කෝටියකට ආසන්න මුදලක් වැය කර තිබූ අතර, එයින්  රුපියල් ලක්ෂ 41 ක මුදලක් වැය කර තිබුණේ ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන්ට පලායාම සඳහා බස් රථයක්  මිලදී ගැනීමට බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+The police urge the public to inform the following telephone numbers, if the shooters have been killed by Karb-1976, who was killed by Karb Wasantha, who was killed in a Tattorting artum..
+
+The police are informed that the OIC of the Southern Province of the Western Province will be addressed to the OIC of the Southern Province or the OIC of the Athurugiriya police.
+
+Police investigations have revealed that he had spent Rs. 41 lakhs for the murder of Club Wasantha.
+
+Mirissa coconut is purchased at a 21-year-old woman who paid a sum of Rs.The woman was arrested by police after revealing the incident.
+
+The two shotics were taken into the car and had taken into a shop to the Kataragama bus stand by the van after the end of the past 8th.Investigations have revealed.
+
+According to a new plan in Dubai, the police investigations have revealed that the bus had been purchased to flee and the fire transports used in the Security Forces.
 
 ...
 
 [Data](articles/ed066553.json)
+
+[Extended Data](ext_articles/ed066553.ext.json)
 
 ---
 
@@ -1492,15 +1510,21 @@ At the same time, the judge bench has dismissed four other petitions filed with 
 
 ---
 
-### ரணிலை ஆதரித்தார் தினேஷ்
+### Dinesh supported Ranil
 
 *2024-08-01 18:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆதரித்தார்-தினேஷ்/175-341418) · `ta`
 
-பிரதமர் தினேஷ் குணவர்தன, ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பதற்கு தீர்மானித்துள்ளார்.
+Prime Minister Dinesh Gunawardena backs President Ranil Wickremesinghe for re-election.
+
+🟩
+
+Prime Minister Dinesh Gunawardena has decided to support President Ranil Wickremesinghe in the presidential election.
 
 ◼️
 
 [Data](articles/2c4cb6f6.json)
+
+[Extended Data](ext_articles/2c4cb6f6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-02 14:20:45**
+As of **2024-08-02 14:36:07**
 
 ## Newspaper Stats
 
-*Scraped **38,627** Articles*
+*Scraped **38,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ bbccomsinhala | 370
 islandlk | 2,216
 economynextcom | 2,334
 dailyftlk | 2,483
-adalk | 3,548
-adaderanalk | 4,468
+adalk | 3,549
+adaderanalk | 4,469
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,802
-virakesarilk | 6,108
-adaderanasinhalalk | 6,506
+virakesarilk | 6,110
+adaderanasinhalalk | 6,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,624 (100.0%) of 38,627 articles have been extended.
+38,627 (100.0%) of 38,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-02 (Friday)
+
+### අනුර තවත් හමුවක
+
+*2024-08-02 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199485) · `si`
+
+ලංකා වාණිජ මණ්ඩලයේ සභාපති දුමින්ද හුලංගමුව මහතා ඇතුළු නියෝජිත පිරිසක් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදුව තිබේ.
+
+ඊයේ (01) සවස ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේ දී එම හමුව සිදුව ඇත.
+
+ලංකා වාණිජ මණ්ඩලය විසින් සම්පාදනය කරන ලද ‘Vision 2030 - පස් අවුරුදු ආර්ථික සැලැස්ම’ප්‍රකාශනයේ පිටපතක් මෙම අවස්ථාවේදී ජාතික ජන බලවේගය වෙත ලබා දී තිබේ.
+
+මේ අවස්ථාව සඳහා ලංකා වාණිජ මණ්ඩලයේ උප සභාපති ක්‍රිෂාන් බාලේන්ද්‍ර, නියෝජ්‍ය උප සභාපති බිඟුමාල් තෙවරතන්ත්‍රී සහ අධ්‍යක්ෂ මණ්ඩල නියෝජිතයින් වන අමල් කබ්රාල්, සරත් ගනේගොඩ, සුපුන් වීරසිංහ, විනෝද් හයිඩ්‍රාමනී යන මහත්වරු ඇතුළු පිරිසක්ද ජාතික ජන බලවේගයේ ජාතික විධායක සභිකයින් වන මහාචාර්ය අනිල් ජයන්ත සහ ආචාර්ය හර්ෂණ සූරියප්පෙරුම යන අය ද එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/83f47e43.json)
+
+---
+
+### ශ්‍රී ලංකාව පළමුව පන්දුවට පහරදෙයි
+
+*2024-08-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199484) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තරග 03කින් යුත් එක්දින ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් පළමු තරගය අද (02ද) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/0e494421.json)
+
+---
+
+### British woman injured after falling from Little Adam’s Peak
+
+*2024-08-02 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100943/british-woman-injured-after-falling-from-little-adams-peak) · `en`
+
+A female foreign tourist has been injured after falling from Little Adam’s Peak in Ella.
+
+Police said that the accident had occurred yesterday (01) during a visit to the tourist attraction.
+
+The 33-year-old British national has been rescued and rushed to Badulla Teaching Hospital by the Tourist Police with the assistance of a group of local tourists.
+
+She has sustained injuries to her right leg and is currently receiving treatment at the hospital, according to hospital sources.
+
+◼️
+
+[Data](articles/19739348.json)
+
+---
 
 ### Galaboda Gnanissara Thero is Ven. Hunupitiya Ranga Paramathi
 
@@ -67,6 +117,38 @@ Sources said that Thero was receiving treatment at a private hospital in Colombo
 [Data](articles/52e7cef0.json)
 
 [Extended Data](ext_articles/52e7cef0.ext.json)
+
+---
+
+### சென்னை - யாழுக்கிடையே செப்டம்பர் முதல் விமான சேவையை ஆரம்பிக்கும் இண்டிகோ !
+
+*2024-08-02 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190081) · `ta`
+
+சர்வதேச விமான இணைப்பை மேம்படுத்தும் வகையில் இண்டிகோ விமான நிறுவனம் யாழ்ப்பாணத்திற்கு புதிய விமான சேவையை அறிமுகப்படுத்தவுள்ளது.
+
+அதன்படி, செப்டம்பர் முதலாம் திகதி முதல்  சென்னை மற்றும் யாழ்ப்பாணம் இடையே நாளாந்த விமான சேவையை இண்டிகோ நிறுவனம் ஆரம்பிக்கவுள்ளது.
+
+இலங்கையில் கொழும்புக்கு மட்டுமே இதுவரை விமான சேவை இருந்த நிலையில் யாழ்ப்பாணப்பானத்துக்கு சேவை ஆரம்பம் செய்யப்பட உள்ளது.
+
+இவ் ஆண்டு  ஜூன் மாதம் 25.2 (28,631) சதவீதமானர்களும்,  2023 ஆம் ஆண்டு 26.7 (26,830 )சதவீதமானர்களும் இந்தியாவிலிருந்து வருகை தந்துள்ளனர்.
+
+அதிகளவானவர்கள் யாழ்ப்பாணத்திற்கு வருகை தருவதற்கு  ஆர்வமாகள்ளார்கள். இந்நிலையில், சென்னைக்கும்  யாழ்ப்பாணத்திற்கும் இடையேயான விமானப் பயணத்திற்கான வளர்ந்து வரும் தேவையை பூர்த்தி செய்வதையும் பிரதிபலிக்கிறது.
+
+◼️
+
+[Data](articles/d424bcca.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190087) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 02) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.6430 ரூபாவாகவும், விற்பனை விலை 306.9317 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/df8b0c6e.json)
 
 ---
 
@@ -125,6 +207,8 @@ The joint military exercise, aimed at enhancing preparation and response to natu
 ...
 
 [Data](articles/ce463eda.json)
+
+[Extended Data](ext_articles/ce463eda.ext.json)
 
 ---
 
@@ -337,6 +421,24 @@ The expertise of new professionals would be used for industry sector advancement
 ...
 
 [Data](articles/86feb9fd.json)
+
+[Extended Data](ext_articles/86feb9fd.ext.json)
+
+---
+
+### ලබන වසරේදී රජයේ නිවාඩු 26ක්  - අවුරුදු සතියේ නිවාඩු 5 ක්
+
+*2024-08-02 12:08:33* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේදී-රජයේ-නිවාඩු-26ක්----අවුරුදු-සතියේ-නිවාඩු-5-ක්/11-411164) · `si`
+
+2025 වසරට ආදාලව රජයේ නිවාඩු හා බැංකු නිවාඩු ප්‍රකාශයට පත් කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ඒ් අනුව ඒම වසරේදී රජයේ හා බැංකු නිවාඩු 26ක් යෙදී තිබේ.
+
+ඒසේම අලුත් අවුරුද්ද යෙදෙන සතිය තුළ නිවාඩු පහක්ම යේදි තිබීම කැපි පෙනෙයි.
+
+අප්‍රේල් 13 - ඉරිදා සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර දිනය
+
+◼️
+
+[Data](articles/1e2a20c7.json)
 
 ---
 
@@ -2053,147 +2155,5 @@ The shooter had served as the motorcyclist for shooting at the city center of Pi
 [Data](articles/a8f1a4c1.json)
 
 [Extended Data](ext_articles/a8f1a4c1.ext.json)
-
----
-
-### Jupiter's secretary arrested
-
-*2024-08-01 20:46:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளர்-அதிரடி-கைது/175-341423) · `ta`
-
-Jupiter's secretary was arrested while allegedly involved in bribery activities with the Bribery Commission.
-
-🟩
-
-It is reported that he was arrested during the act of the Bribery Commission.. Remble
-
-◼️
-
-[Data](articles/af3663e4.json)
-
-[Extended Data](ext_articles/af3663e4.ext.json)
-
----
-
-### State Minister's Private Secretary arrested for bribery
-
-*2024-08-01 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199462) · `si`
-
-A private secretary of a State Minister and another individual have been arrested for allegedly accepting bribes, as per a complaint from a businessman in the Polonnaruwa area.
-
-🟩
-
-A private secretary of a State Minister and another political operation has been arrested in connection with a bribe.
-
-Bribery and Corruption Commission officials said that the suspects were arrested on charges of accepting Rs.
-
-According to a complaint lodged by a businessman in Polonnaruwa area has been carried out.
-
-◼️
-
-[Data](articles/0293c0d5.json)
-
-[Extended Data](ext_articles/0293c0d5.ext.json)
-
----
-
-### The fate of a child
-
-*2024-08-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199461) · `si`
-
-In Mawanella, a girl named Mavilha Sahana Egirimane fell from a coconut tree and later died. She and two others were playing near their preschool when the accident happened. After being rushed to hospitals, she passed away. The police are investigating the incident.
-
-🟩
-
-A girl in Mawanella has died after falling into a coconut bound into the head.
-
-The deceased has been identified as Mavil and Mavilha Sahana Egirimane, a resident of Mawanella Mawane Road.
-
-The girl and two other children reflected the yard with the ruler when they left the classroom to close the classroom at around 10.45 am today.
-
-Later, the girl was injured when he was returning to the pre-school building with the 3-kid coconut tree.
-
-The girl was admitted to the Mawanella Base Hospital and the girl's condition was transferred to the Kandy National Hospital.
-
-The post mortem examination of the deceased girl is to be conducted at the Kandy National Hospital and Mawanella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/5e548679.json)
-
-[Extended Data](ext_articles/5e548679.ext.json)
-
----
-
-### It is best to field a PA
-
-*2024-08-01 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190021) · `ta`
-
-The leader of the United Republic of India (UNP) suggests that the people will teach the Rajapaksas a lesson for the country's economic crisis. The High Court has ordered accountability for economic damage from the Rajapaksas, indicating they won't align with any supported political party. Despite this, the PA plans to field a candidate, emphasizing the importance of policy-based decisions in the upcoming presidential election.
-
-🟩
-
-The leader of the United Republic of India (UNP), Patali Champika Ranawaka, said that this time the people of the country will teach the country's appropriate lesson for the Rajapaksa who put the country in the banks of the Sri Lanka PA.
-
-He was speaking to the media after a event in Colombo on Thursday (01).
-
-The High Court has ruled that PA Rajapaksa, Basil Rajapaksa and Gotabhaya Rajapaksa should be held accountable for economic impact. Therefore, the Rajapaksas will never unite with the supported political party.
-
-The PA is not going to support President Ranil Wickremesinghe, but the PA is a good political decision to field his candidate. The people of the country will teach the appropriate lesson for the Rajapaksas who have put the country in the bankruptcy.
-
-In the presidential election, the people should make the best decisions for the country based on the policies of the country. I cannot make a personal decision on contesting the presidential election.
-
-...
-
-[Data](articles/5dbbe9b5.json)
-
-[Extended Data](ext_articles/5dbbe9b5.ext.json)
-
----
-
-### The President will contest as the independent candidate of the broad political coalition - Susil Premajayantha
-
-*2024-08-01 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190028) · `ta`
-
-President Ranil Wickremesinghe contests as an independent candidate backed by a wide political coalition, despite claims linking him to Mahinda Rajapaksa's family. Critics argue his appointment lacks public acceptance, while supporters commend his handling of the economic crisis and defense of the people.
-
-🟩
-
-President Ranil Wickremesinghe will contest as an independent candidate for a widespread political coalition. The majority of the parliament has become the president.
-
-It is completely false to say that the person who claimed that I was a relative of Rajapaksa's relative of Mahinda Rajapaksa, the leader of the PA had met with President Ranil Wickremesinghe.
-
-Former President Mahinda Rajapakse has taken a better decision for the country during the crisis situation.
-
-The PA's decision to support President Ranil Wickremesinghe cannot be accepted.
-
-Supporting Ranil Wickremesinghe, who solved the economic crisis and defended the people, should be given priority to the country rather than prioritizing the party.
-
-Ranil Wickremesinghe will contest as the independent candidate of the widespread political coalition.
-
-◼️
-
-[Data](articles/6006d7a5.json)
-
-[Extended Data](ext_articles/6006d7a5.ext.json)
-
----
-
-### The fire broke out in a two -storey phase in the Maligawatte area!
-
-*2024-08-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190044) · `ta`
-
-Fire erupted in a two-storey building in Maligawatte; three fire trucks deployed to contain it.
-
-🟩
-
-A fire has been reported in a two -storey building in the Maligawatta area.
-
-Three fire trucks have been dispatched to control the fire, the fire department said.
-
-◼️
-
-[Data](articles/488c1063.json)
-
-[Extended Data](ext_articles/488c1063.ext.json)
 
 ---

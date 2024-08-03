@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 11:20:57**
+As of **2024-08-03 11:36:16**
 
 ## Newspaper Stats
 
-*Scraped **38,753** Articles*
+*Scraped **38,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,556
-adaderanalk | 4,488
+adaderanalk | 4,489
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
 virakesarilk | 6,135
-adaderanasinhalalk | 6,533
+adaderanasinhalalk | 6,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,753 (100.0%) of 38,753 articles have been extended.
+38,753 (100.0%) of 38,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Sri Lanka releases two apprehended TN men, hands over mortal remains of fisherman
+
+*2024-08-03 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100964/sri-lanka-releases-two-apprehended-tn-men-hands-over-mortal-remains-of-fisherman) · `en`
+
+The Sri Lankan Navy handed over two fishermen, recently apprehended, and also the mortal remains of a fisherman who died at sea to the Indian Navy near the International Maritime Boundary Line (IMBL) in the wee hours on Saturday, Indian media reported.
+
+Indian Navy ship, INS Bitra, which was on deployment off Rameshwaram, coordinated with the Sri Lankan Navy ship and had received the fishermen and the dead body at sea at about 1.00 a.m.
+
+The Indian Navy ship then proceeded to Rameshwaram, where the Navy Officer from the Naval Detachment coordinated with marine police and Tamil Nadu Fisheries department in transferring the mortal remains and the fishermen, at around 3 am, a media release from the Indian authorities said.
+
+Meanwhile, the Indian Consulate General office in Jaffna confirmed that in cooperation with the government of Sri Lanka, the safe repatriation of the 02 Indian fishermen along with the mortal remains of the deceased fisherman from Jaffna was secured last night (02).
+
+...
+
+[Data](articles/97ee5712.json)
+
+---
+
+### රිය අනතුරකින් අඹු-සැමි යුවළකට බරපතළයි
+
+*2024-08-03 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199511) · `si`
+
+පිළියන්දල ප්‍රදේශයේදී ඊයේ (02) ත්‍රීරෝද රථයක් සහ මෝටර් රථ දෙකක් එකිනෙක ගැටීමෙන් වයෝවෘද්ධ අඹුසැමි යුවළක් බරපතළ තුවාල ලබා ඇතැයි පිළියන්දල පොලීසිය පවසයි.
+
+අනතුරින් බරපතළ තුවාල ලබා ඇත්තේ වයස අවුරුදු 68 හා 74 වියේ පසුවන අඹු-සැමි යුවළකි.
+
+අඹුසැමි යුවළ නිවසේ සිට ත්‍රීරෝද රථයෙන් කළුබෝවිල ශීක්ෂණ රෝහලේ සායනයකට සහභාගී වීම සඳහා යමින් සිටියදී අතරමගදී පාසල වෙත යාමට බස්රථයක් බලාපොරොත්තුවෙන් සිටි දැරියක් ද එහි නංවාගෙන තිබුණි.
+
+එලෙස ත්‍රීරෝද රථය පිළියන්දල දෙසට පැමිණෙමින් සිටියදී රාත්‍රී සේවා මුරය නිමකර නිවස බලා යමින් සිටි කර්මාන්තශාලා කළමනාකරුවෙකු පැදවූ මෝටර් රථය මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවට ධාවනයවී ත්‍රීරෝද රථයේ සහ මෝටර් රථයක ගැටි තිබේ.
+
+අනතුරත් සමගම තුවාල ලැබූවන් පිළියන්දල දිසා රෝහල වෙත යොමු කිරීමෙන් අනතුරුව බරපතළ තත්ත්වයේ සිටි වයෝවෘද්ධ අඹු සැමි යුවළ වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල ශික්ෂණ රෝහල වෙත යොමු කෙරුණි.
+
+◼️
+
+[Data](articles/cd1adcd5.json)
+
+---
 
 ### Magnitude 6.7 earthquake strikes off Mindanao, Philippines
 
@@ -2187,65 +2225,5 @@ The petitions, submitted by five parties including the Centre for Environmental 
 [Data](articles/7f67aeef.json)
 
 [Extended Data](ext_articles/7f67aeef.ext.json)
-
----
-
-### Three people, including a journalist released by Russia, arrived in the United States - Kamala Haris
-
-*2024-08-02 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190104) · `ta`
-
-In a significant prisoner exchange, three Americans, including journalist Chris Wlodarczyk, returned home from Russian custody, while eight Russians were freed. This swap marks the largest since the Cold War and occurred mid-air over Turkey. The Americans' arrival at a Maryland base was met with joy, ending what President Biden called "cruel" times for them. Notably, Russia sought the release of Vadim Krasikov, serving life in Germany for attempted murder.
-
-🟩
-
-Americans who have been liberated during the exchange of American Russian prisoners have joined their families.
-
-Three Americans, including Wolsreed journalist Carskovich, were released from Russian prisons, instead of eight Russians.
-
-It is noteworthy that this is the transfer of the biggest prisoners between the two countries after the Cold War.
-
-The exchange of prisoners took place at a flight of Turkey. When the aircraft landed with the released Americans at the joint base in Maryland, the people were happy.
-
-Speaking earlier, the US president said that the cruel times of the three were over.
-
-It is noteworthy that Russia has urged the release of Vadim Fan, who is experiencing life imprisonment in Germany for a murder attempt at Berlin Park.
-
-Turkey said 24 people from seven countries were released.
-
-◼️
-
-[Data](articles/241556f7.json)
-
-[Extended Data](ext_articles/241556f7.ext.json)
-
----
-
-### 5 events to abuse juvenile girls in two days
-
-*2024-08-02 16:14:06* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකක්-තුළ-අනුරාධපුරන්-බාල-වයස්කාර-දැරියන්-අපයෝජනයට-ලක්-කිරීමේ-සිද්ධීන්-5ක්/11-411168) · `si`
-
-In two days, five incidents involving the sexual abuse of juvenile girls were reported across various police divisions. Four suspects, ranging from 14 to 39 years old, have been arrested. Investigations continue, focusing on the arrest of the victims' fathers and principals involved, with further arrests expected. The cases are being investigated by officers from several police divisions and the Children and Women's Bureau.
-
-🟩
-
-Four suspects have been arrested in connection with five (30 and 31) in the Anuradhapura Police Division.
-
-The girl was arrested with a 14-year-old girl in the Gallewewa police division and arrested a 25-year-old man who was raped in rape and raped the girl.
-
-Investigations have been arrested and arrested for the arrest of the girl's father (39 year old), who was seriously sexually abused at the Parasangaswewa Police Division.
-
-A 17-year-old youth arrested with a 15 year old girl from the legal custody of the Thambuththegama police division, the Panvila police have arrested a 15-year-old girl.
-
-Investigations are underway to arrest three persons including a principal of a 14-year minor girl in Thambuththegama police division in the Thambuththegama police division.
-
-A 16-year-old girl aged 16-year-old girl was arrested in 15 years of legal handing at the age of 15 years of rape and raped.
-
-The four arrested suspects were to be produced in court.
-
-...
-
-[Data](articles/cbeea23e.json)
-
-[Extended Data](ext_articles/cbeea23e.ext.json)
 
 ---

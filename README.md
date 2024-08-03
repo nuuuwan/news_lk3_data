@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 09:36:09**
+As of **2024-08-03 09:55:44**
 
 ## Newspaper Stats
 
-*Scraped **38,742** Articles*
+*Scraped **38,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,75 @@ islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,554
-adaderanalk | 4,484
+adaderanalk | 4,485
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,813
-virakesarilk | 6,133
+virakesarilk | 6,135
 adaderanasinhalalk | 6,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,741 (100.0%) of 38,742 articles have been extended.
+38,742 (100.0%) of 38,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### විදුලි කණුවක හප්පා යතුරුපැදිකරු ඝාතනය කළ රියදුරු අල්ලයි
+### Parking system contractor owes Rs. 90 million to Colombo Municipal Council
+
+*2024-08-03 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100960/parking-system-contractor-owes-rs-90-million-to-colombo-municipal-council) · `en`
+
+The company responsible for collecting money through an automated system for parking vehicles within the Colombo city has reportedly failed to pay Rs. 90 million owed to the Colombo Municipal Council (CMC).
+
+The CMC Deputy Director (Traffic and Road Design) Eng. Manjula Kularathna, stated that due to this non-payment, the contract has been suspended and legal measures are being taken.
+
+He also mentioned that due to the shortcomings of the current project, a new electronic system is expected to be introduced within the next year.
+
+◼️
+
+[Data](articles/b9111632.json)
+
+---
+
+### இலஞ்சம் வாங்கிய பொலிஸ் சார்ஜன்ட் கைது
+
+*2024-08-03 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190146) · `ta`
+
+வத்தளை, மஹாபாகே நீதிமன்றத்திற்கு  அருகில் நபர் ஒருவரிடமிருந்து 150,000 ரூபாவை இலஞ்சம் பெற்ற குற்றச்சாட்டில் பொலிஸ் சார்ஜன்ட் ஒருவர் வெள்ளிக்கிழமை (02) கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட பொலிஸ் சார்ஜன்ட் மஹபாகே பொலிஸ் போக்குவரத்துப் பிரிவில் கடமையாற்றுபவர் ஆவார்.
+
+உஸ்வெட்டிகெய்யாவ பகுதியில் வசிக்கும் ஒருவருக்கு 'யுக்திய' நடவடிக்கையின் கீழ்  அசௌகரியம் ஏற்படுத்தாமல் இருப்பதற்கும், போதைப்பொருள் தொடர்பான  பெயர் பட்டியலில் அவரது பெயரை சேர்க்காமல்  இருப்பதற்கும், அவரது சோதனைக்கு உட்படுத்தாமல் இருப்பதற்காகவும் இலஞ்சம் பெற்றதாக இலஞ்சம் கோரப்பட்டுள்ளதாக இலஞ்ச ஊழல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/8f700ecc.json)
+
+---
+
+### The driver of the Juppa motoriator of the electric pillar arrested
 
 *2024-08-03 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199508) · `si`
 
-බලංගොඩ ප්‍රදේශයේ දී පුද්ගලයෙකු විදුලි කණුවක ගැටීමට සලස්වා ඝාතනය කිරීමේ චෝදනාව එල්ල වු රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A motorcyclist attempted to crash into a lorry near Balangoda bus stand, leading to his arrest. The incident occurred after he had previously caused damage to a vehicle in the Kettapitiya area.
 
-පොලිසිය පැවසුවේ සැකකරු අදාළ ලොරි රථයද සමඟ බලංගොඩ පොලිස් ස්ථානයට පැමිණ භාරවූ බවයි.
+🟩
 
-පසුගියදා බලංගොඩ බස් නැවතුම්පොළ අසලදී යතුරුපැදියක් අනතුරට ලක්කර පළා යාමට උත්සාහ දැරූ ලොරි රථයක් නවතා ගැනීමට අදාළ යතුරුපැදිකරු තැත් කර තිබුණි.
+The driver of the vehicle has been arrested by the police that a person suicides a person in Balangoda.
 
-යතුරුපැදිකරු ලොරිරථයේ එල්ලී එය නවතා ගැනීමට උත්සාහ දැරුවද ලොරි රථය නොනවත්නා ධාවනය කර ඇති අතර පසුව බලංගොඩ කහටපිටිය ප්‍රදේශයේදී  ලොරි රථයේ රියදුරු විසින් රථය විදුලි කණුවක ගැටීමට සලස්වා පළා ගොස් තිබුණි.
+Police said the suspect had also returned to the Balangoda police station with the suspect and the suspect.
+
+The motorcyclist tried to crashing a lorry near the Balangoda bus stand recently.
+
+The lorry had been operating in an innumerary, even though the motorcyclist was hanging in the lorry, had previously been driven by the lorry driver to collide the vehicle by the Carline in Kettapitiya area.
 
 ◼️
 
 [Data](articles/dc91125e.json)
+
+[Extended Data](ext_articles/dc91125e.ext.json)
 
 ---
 
@@ -111,6 +149,20 @@ Executive Director of the Division Rohana Hettiarachchi says that a major number
 [Data](articles/a7f40ea0.json)
 
 [Extended Data](ext_articles/a7f40ea0.ext.json)
+
+---
+
+### 2025 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டம் முறையான வருமானம் ஈட்டல் வழிமுறைகளை உள்ளடக்கியிருக்கவேண்டும் - சர்வதேச நாணய நிதிய அதிகாரிகள் குழு வலியுறுத்தல்
+
+*2024-08-03 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190145) · `ta`
+
+இலங்கையின் 2025 ஆம் ஆண்டுக்கான வரவு - செலவுத்திட்டமானது முறையான வருமானமீட்டல் வழிமுறைகளை உள்ளடக்கியதாக அமையவேண்டும் என வலியுறுத்தியிருக்கும் சர்வதேச நாணய நிதியம், அண்மையில் ஜனாதிபதித்தேர்தல் அறிவிக்கப்பட்டிருக்கும் நிலையில், அதன்பின்னர் மூன்றாம் கட்ட மீளாய்வுக்கான காலப்பகுதி குறித்து அரசாங்கத்துடன் கலந்துரையாடப்படும் என்று அறிவித்துள்ளது.
+
+சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டத்தின்கீழ் முன்னெடுக்கப்பட்டுவரும் பொருளாதார மறுசீரமைப்புக்கள் மற்றும் நிதியியல் கொள்கைகள் குறித்தும், பெரும்பாகப்பொருளாதார முன்னேற்றங்கள் குறித்தும் கலந்துரையாடும் நோக்கில் சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான செயற்திட்டப்பிரதானி பீற்றர் ப்ரூவர் தலைமையிலான அதிகாரிகள் குழு ஜுலை 25 - ஓகஸ்ட் 2 ஆம் திகதி வரையான காலப்பகுதியில் இலங்கைக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தது.
+
+...
+
+[Data](articles/e878cba1.json)
 
 ---
 
@@ -2203,71 +2255,5 @@ If the proposed wind biodiversity has been built by five parties including the c
 [Data](articles/a3a951e9.json)
 
 [Extended Data](ext_articles/a3a951e9.ext.json)
-
----
-
-### India in front of India
-
-*2024-08-02 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199486) · `si`
-
-In the 169th ODI match since 1979, India faces Sri Lanka, aiming to achieve its 100th victory. Despite Sri Lanka's 57 wins against India, including 11 draws, India leads with 99 victories. This match marks the 67th ODI between them in Sri Lanka since 1985, where India has won 32 times. A win today could help India reach a century of victories.
-
-🟩
-
-The 169th ODI is the match between the two countries today (since 1979) today.
-
-More respect, the Indian team is the team, and they confirm 99 matches.
-
-Accordingly, India will be able to complete a century in Sri Lanka if it is possible to win today.
-
-However, Sri Lanka has won only 57 matches against India and 11 more matches have ended.
-
-It is also the 67th ODI between the two countries in Sri Lanka (since 1985).
-
-India has won 32 matches while completing the winning of 28 matches.
-
-◼️
-
-[Data](articles/acf33d36.json)
-
-[Extended Data](ext_articles/acf33d36.ext.json)
-
----
-
-### Death of Indian fisherman in Sri Lankan waters: Rameswaram fishermen announce indefinite strike
-
-*2024-08-02 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100944/death-of-indian-fisherman-in-sri-lankan-waters-rameswaram-fishermen-announce-indefinite-strike) · `en`
-
-Announcing an indefinite strike with immediate effect on Friday, August 2, the members of all fishermen associations in Rameswaram said they would resume work only when their grievances were redressed by the Tamil Nadu and Union governments.
-
-An urgent meeting of various fishermen associations was held at Rameswaram under the leadership of Sagayam.
-
-The meeting resolved to boycott fishing from today (Friday) until all the arrested fishermen from Tamil Nadu, who languished in Sri Lankan prisons, were released. The members stated that though the governments helped in release of the arrested fishermen in the past, the mechanised trawlers which were impounded, were not returned.
-
-Hence, the governments should get back the mechanised boats, which were in good condition and provide compensation to those boats, which were beyond repair.
-
-...
-
-[Data](articles/17969822.json)
-
-[Extended Data](ext_articles/17969822.ext.json)
-
----
-
-### President visited Jaffna
-
-*2024-08-02 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190091) · `ta`
-
-The President's visit to Jaffna included launching a seawater-to-freshwater conversion plan in Maruthankani. Post-launch, meetings with various organizations were scheduled.
-
-🟩
-
-It is reported that the President will continue to meet with various organizations after the launch of a plan to convert seawater into freshwater in the Maruthankani area.
-
-◼️
-
-[Data](articles/1eeb8616.json)
-
-[Extended Data](ext_articles/1eeb8616.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 07:02:23**
+As of **2024-08-03 07:26:59**
 
 ## Newspaper Stats
 
-*Scraped **38,733** Articles*
+*Scraped **38,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,811
 virakesarilk | 6,133
-adaderanasinhalalk | 6,526
+adaderanasinhalalk | 6,527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,732 (100.0%) of 38,733 articles have been extended.
+38,732 (100.0%) of 38,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### කොළඹ රථ වාහන ගාල් කිරීමේ සමාගමක් නගර සභාවට පොලු තියයි
+
+*2024-08-03 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199504) · `si`
+
+කොළඹ නගරයේ රථ වාහන ගාල් කිරීම සඳහා ස්වයංක්‍රීය පද්ධතියක් හරහා මුදල් එකතු කළ සමාගම මඟින් රුපියල් මිලියන 90 ක මුදලක් කොළඹ මහනගර සභාවට ගෙවා නොමැති බව වාර්තා වෙයි.
+
+එහි රථවාහන අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ මංජුල කුලරත්න මහතා පැවසුවේ මේ හේතුවෙන් එම කොන්ත්‍රරාත්තුව අත්හිටුවා මේ සම්බන්ධව නීතිමය පියවර ගෙන ඇති බවය.
+
+එමෙන්ම මෙම ව්‍යාපෘතියේ පවතින අඩුපාඩු හේතුවෙන් ඉදිරි වසර ඇතුළත නව විද්‍යුත් ක්‍රමවේදයක් හඳුන්වා දීමට බලාපොරොත්තු වන බවත් ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/bc2e2ea8.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට අදත් වැසි
 
@@ -2237,27 +2253,5 @@ Most people are eager to visit Jaffna. In this case, it also reflects the growin
 [Data](articles/d424bcca.json)
 
 [Extended Data](ext_articles/d424bcca.ext.json)
-
----
-
-### IMF says assessed Sri Lanka ISB deal, urge taxes in next budget
-
-*2024-08-02 13:20:00* · [`economynextcom`](https://economynext.com/imf-says-assessed-sri-lanka-isb-deal-urge-taxes-in-next-budget-174918/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund said it has given an assessment of a deal with international sovereign bondholders to Sri Lanka and the advisors of the investors and urged new tax measures in the 2025 budget to help maintain stability.
-
-IMF staff had assessed the ‘Joint Working Framework’ with on sovereign bonds and has “provided this assessment to the authorities and, on their request, the financial advisors of the bondholders,” the statement said without mentioning its contents.
-
-“We encourage a swift resolution of the remaining steps to achieve debt sustainability and regain investor confidence,” Mission Chief Peter Breuer said in a statement.
-
-“We will continue to support Sri Lanka’s ongoing debt restructuring efforts. The authorities have made commendable progress with putting debt on a path towards sustainability.
-
-“The execution of the domestic debt restructuring and finalizing the agreements with the Official Creditor Committee and China EXIM Bank are major milestones.”
-
-...
-
-[Data](articles/12195857.json)
-
-[Extended Data](ext_articles/12195857.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 09:20:30**
+As of **2024-08-03 09:36:09**
 
 ## Newspaper Stats
 
-*Scraped **38,741** Articles*
+*Scraped **38,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,484
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,813
 virakesarilk | 6,133
-adaderanasinhalalk | 6,530
+adaderanasinhalalk | 6,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,740 (100.0%) of 38,741 articles have been extended.
+38,741 (100.0%) of 38,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### විදුලි කණුවක හප්පා යතුරුපැදිකරු ඝාතනය කළ රියදුරු අල්ලයි
+
+*2024-08-03 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199508) · `si`
+
+බලංගොඩ ප්‍රදේශයේ දී පුද්ගලයෙකු විදුලි කණුවක ගැටීමට සලස්වා ඝාතනය කිරීමේ චෝදනාව එල්ල වු රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිසිය පැවසුවේ සැකකරු අදාළ ලොරි රථයද සමඟ බලංගොඩ පොලිස් ස්ථානයට පැමිණ භාරවූ බවයි.
+
+පසුගියදා බලංගොඩ බස් නැවතුම්පොළ අසලදී යතුරුපැදියක් අනතුරට ලක්කර පළා යාමට උත්සාහ දැරූ ලොරි රථයක් නවතා ගැනීමට අදාළ යතුරුපැදිකරු තැත් කර තිබුණි.
+
+යතුරුපැදිකරු ලොරිරථයේ එල්ලී එය නවතා ගැනීමට උත්සාහ දැරුවද ලොරි රථය නොනවත්නා ධාවනය කර ඇති අතර පසුව බලංගොඩ කහටපිටිය ප්‍රදේශයේදී  ලොරි රථයේ රියදුරු විසින් රථය විදුලි කණුවක ගැටීමට සලස්වා පළා ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/dc91125e.json)
+
+---
 
 ### Govt’s decision to import eggs criticized
 
@@ -45,6 +63,8 @@ However, he assured that there is a possibility of providing eggs and chicken wi
 ◼️
 
 [Data](articles/b4151d35.json)
+
+[Extended Data](ext_articles/b4151d35.ext.json)
 
 ---
 
@@ -2249,27 +2269,5 @@ It is reported that the President will continue to meet with various organizatio
 [Data](articles/1eeb8616.json)
 
 [Extended Data](ext_articles/1eeb8616.ext.json)
-
----
-
-### Another meeting Anura Anura
-
-*2024-08-02 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199485) · `si`
-
-Duminda Hulangamuwa, Chairman of the Ceylon Chamber of Commerce, met with Anura Kumara Dissanayake, leader of the National Power, at the JVP's Head Office. They discussed the 'Vision 2030 and Five Year Economic Plan', with several officials including Prof. Anil Jayanthi and Dr. Hearing Soiyapperuma present.
-
-🟩
-
-A meeting between Duminda Hulangamuwa, Chairman of the Ceylon Chamber of Commerce, had met with a delegation and leader of the National Power Anura Kumara Dissanayake.
-
-The meeting was held at the Head Office of the JVP yesterday evening.
-
-A copy of the 'Vision 2030 and Five Year Economic Plan' provided by the Ceylon Chamber of Commerce.
-
-...
-
-[Data](articles/83f47e43.json)
-
-[Extended Data](ext_articles/83f47e43.ext.json)
 
 ---

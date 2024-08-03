@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 21:36:07**
+As of **2024-08-03 21:55:59**
 
 ## Newspaper Stats
 
-*Scraped **38,804** Articles*
+*Scraped **38,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,559
-adaderanalk | 4,497
+adaderanalk | 4,498
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
-virakesarilk | 6,144
+virakesarilk | 6,145
 adaderanasinhalalk | 6,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,804 (100.0%) of 38,804 articles have been extended.
+38,804 (100.0%) of 38,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### SLPP prez poll crisis: Several changes made to top positions
+
+*2024-08-03 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100973/slpp-prez-poll-crisis-several-changes-made-to-top-positions) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has reportedly made changes in several district-level leadership positions within the party.
+
+A senior member of the SLPP revealed to Ada Derana that accordingly, State Minister Indika Anuruddha has been temporarily appointed as the Gampaha district leader, replacing Minister Prasanna Ranatunga.
+
+National Organizer of the party Namal Rajapaksa has been temporarily appointed as the Anuradhapura district leader, ousting Parliamentarian S. M. Chandrasena from the position.
+
+Meanwhile, Parliamentarian Nipuna Ranawaka has been temporarily appointed as the Matara district leader, replacing Minister Kanchana Wijesekera, while State Minister Mohan Priyadarshana de Silva has been appointed as the Galle district leader, replacing Minister Ramesh Pathirana.
+
+...
+
+[Data](articles/7df9bfea.json)
+
+---
 
 ### The work of Hulang opening police officer suspended
 
@@ -53,6 +71,22 @@ The police officer says that the wind has been sent as a result of the obstacle 
 [Data](articles/9598bf0d.json)
 
 [Extended Data](ext_articles/9598bf0d.ext.json)
+
+---
+
+### தமிழ் பொதுவேட்பாளரைக் களமிறக்கும் தீர்மானத்துக்கு 5 புலம்பெயர் தமிழர் அமைப்புக்கள் கூட்டாக ஆதரவு !
+
+*2024-08-03 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190186) · `ta`
+
+எதிர்வரும் ஜனாதிபதித்தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவதற்குத் தீர்மானித்துள்ளமையை வரவேற்பதாகவும், இதன்மூலம் தமிழ்மக்கள் தமது அரசியல் அபிலாஷைகளையும், கோரிக்கைகளையும் ஜனநாயக முறையில் உலகறியச்செய்வதுடன் சர்வதேசமயப்படுத்தமுடியும் என நம்புவதாகவும் 5 புலம்பெயர் தமிழர் அமைப்புக்கள் கூட்டாகத் தெரிவித்துள்ளன.
+
+ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படும் எனவும், ஓகஸ்ட் மாதம் 15 ஆம் திகதி ஜனாதிபதித்தேர்தலுக்கான வேட்புமனுக்களைத் தாக்கல் செய்யமுடியும் எனவும் தேர்தல்கள் ஆணைக்குழு அறிவித்திருக்கின்றது.
+
+அதன்படி இம்முறை ஜனாதிபதித்தேர்தலில் வட, கிழக்கு தமிழ் மக்கள் சார்பில் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவது குறி;த்த பேச்சுவார்த்தைகள் வலுப்பெற்று, அதனை முன்னிறுத்தி சில தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகளுக்கு இடையிலான இணக்கப்பாட்டு உடன்படிக்கை கைச்சாத்திடப்பட்டிருக்கின்றது.
+
+...
+
+[Data](articles/c5084062.json)
 
 ---
 
@@ -2207,45 +2241,5 @@ Accordingly, the first match in the three -match ODI series has been balanced wi
 [Data](articles/7c43ec3b.json)
 
 [Extended Data](ext_articles/7c43ec3b.ext.json)
-
----
-
-### SLTPB wins ‘Best International Tourism Board’ at Global Tourism Awards
-
-*2024-08-02 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100957/sltpb-wins-best-international-tourism-board-at-global-tourism-awards) · `en`
-
-The Sri Lanka Tourism Promotion Bureau (SLTPB) has won the “Best International Tourism Board” accolade at the Global Tourism Awards 2024, organized by the Travel World Online (TWO).
-
-The Global Tourism Awards 2024 was held on 2nd of August 2024 in New Delhi, India.
-
-The Global Tourism Awards serve as a platform to honour and celebrate organizations that have made outstanding contributions to the tourism industry, shaping its landscape and driving positive change.
-
-With the industry’s leading experts as part of the jury, the awards promise to recognize the dedication and hard work of tourism professionals worldwide.
-
-The event was expected to draw attendees from various sectors of the tourism industry, including travel agencies, tour operators, hospitality professionals, and government representatives. It promises to be an evening of celebration, networking, and recognition of the best in the business.
-
-...
-
-[Data](articles/ad9383e6.json)
-
-[Extended Data](ext_articles/ad9383e6.ext.json)
-
----
-
-### International award for Sri Lanka Tourism Promotion Bureau
-
-*2024-08-02 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199502) · `si`
-
-Sri Lanka Tourism Promotion Bureau won the "Best International Tourism Board" award, highlighting its efforts in promoting tourism globally.
-
-🟩
-
-The Sri Lanka Tourism Promotion Bureau of Sri Lanka (SLTPB) wins the "Best International Tourism Board" (SLTPB).
-
-◼️
-
-[Data](articles/64060464.json)
-
-[Extended Data](ext_articles/64060464.ext.json)
 
 ---

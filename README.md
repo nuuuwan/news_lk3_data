@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 08:54:59**
+As of **2024-08-03 09:06:06**
 
 ## Newspaper Stats
 
-*Scraped **38,739** Articles*
+*Scraped **38,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,554
 adaderanalk | 4,483
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,812
+tamilmirrorlk | 4,813
 virakesarilk | 6,133
 adaderanasinhalalk | 6,530
 
@@ -26,23 +26,45 @@ adaderanasinhalalk | 6,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,737 (100.0%) of 38,739 articles have been extended.
+38,739 (100.0%) of 38,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### මැතිවරණ නීති උල්ලංඝනය කිරීම් 45ක්
+### கடல் நீரை நன்னீராக்கும் சுத்திகரிப்பு நிலையம் திறந்து வைப்பு
+
+*2024-08-03 08:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-நீரை-நன்னீராக்கும்-சுத்திகரிப்பு-நிலையம்-திறந்து-வைப்பு/175-341494) · `ta`
+
+தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் மூலம் ஆசிய அபிவிருத்தி வங்கியின் நிதியுதவியின் கீழ் நடைமுறைப்படுத்தப்படுகின்ற யாழ்ப்பாணம்-கிளிநொச்சி நீர்வழங்கல் கருத்திட்டத்தின் தாளையடி கடல் நீரை நன்னீராக்கும் சுத்திகரிப்பு நிலையம் திறந்து வைக்கப்பட்டது நேற்று திறந்து வைக்கப்பட்டது.
+
+நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமானின்  அழைப்பின்பேரில்,   ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நேற்று வைபவ ரீதியாக பொதுமக்களின் பாவனைக்காக திறந்து  வைக்கப்பட்டது.
+
+குறிப்பாக யாழ்ப்பாண மக்கள் நீண்டகாலமாக எதிர்நோக்கும் குடிநீர்ப் பிரச்சினைக்கு தீர்வாக தாளையடி கடல் நீரை நன்னீராக்கும் ஆலை இத்திட்டமானது 266 மில்லியன் அமெரிக்க டொலர் ரூபாய் நிதி ஓதுக்கீட்டின் மூலம் அமைக்கப்பட்டு மக்கள் பாவனைக்காக திறந்துவைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/ad38b750.json)
+
+---
+
+### 45 violations of election law violations
 
 *2024-08-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199507) · `si`
 
-ජනාධිපතිවරණයට අදාළව මැතිවරණ නීති උල්ලංඝනය කිරීම් සම්බන්ධ පැමිණිලි 45ක් මේ වනවිට ලැබී ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+PAFFREL reports 45 election law violation complaints post-presidential election, mainly about abusing state power.
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පවසන්නේ බහුතර පැමිණිලි සංඛ්‍යාවක් රාජ්‍ය බලය අයුතු ලෙස භාවිත කිරීම සම්බන්ධයෙන් වාර්තා වී ඇති බවය.
+🟩
+
+The PAFFREL organization says that 45 complaints have been received regarding election law violations regarding the presidential election.
+
+Executive Director of the Division Rohana Hettiarachchi says that a major number of complaints have been reported to abuse state power.
 
 ◼️
 
 [Data](articles/a7f40ea0.json)
+
+[Extended Data](ext_articles/a7f40ea0.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ Strong winds of about 50 kmph can be expected at times over Western slopes of th
 ◼️
 
 [Data](articles/b67404da.json)
+
+[Extended Data](ext_articles/b67404da.ext.json)
 
 ---
 
@@ -2241,25 +2265,5 @@ Sri Lanka captain Charith won the toss and elected to bat.
 [Data](articles/0e494421.json)
 
 [Extended Data](ext_articles/0e494421.ext.json)
-
----
-
-### British woman injured after falling from Little Adam’s Peak
-
-*2024-08-02 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100943/british-woman-injured-after-falling-from-little-adams-peak) · `en`
-
-A female foreign tourist has been injured after falling from Little Adam’s Peak in Ella.
-
-Police said that the accident had occurred yesterday (01) during a visit to the tourist attraction.
-
-The 33-year-old British national has been rescued and rushed to Badulla Teaching Hospital by the Tourist Police with the assistance of a group of local tourists.
-
-She has sustained injuries to her right leg and is currently receiving treatment at the hospital, according to hospital sources.
-
-◼️
-
-[Data](articles/19739348.json)
-
-[Extended Data](ext_articles/19739348.ext.json)
 
 ---

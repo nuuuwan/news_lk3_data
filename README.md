@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 23:36:15**
+As of **2024-08-03 23:55:50**
 
 ## Newspaper Stats
 
-*Scraped **38,813** Articles*
+*Scraped **38,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 colombotelegraphcom | 367
 bbccomsinhala | 370
 islandlk | 2,224
-economynextcom | 2,346
+economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,559
 adaderanalk | 4,500
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,811 (100.0%) of 38,813 articles have been extended.
+38,813 (100.0%) of 38,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### වනිඳු හසරංගට ඉතිරි තරග අහිමි වෙයි
+### Fanindu Hasaranga loses the rest
 
 *2024-08-03 23:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199535) · `si`
 
-ශ්‍රී ලංකා දඟපන්දු යවන ක්‍රීඩක වනිඳු හසරංගට ඉන්දියාවට එරෙහි  එක්දින ක්‍රිකට් තරගාවලියේ ඉතිරි තරග දෙක අහිමි වන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අද (03) රාත්‍රියේ නිවේදනය කළේය.
+Fanindu Hasaranga will miss Sri Lanka's last two One Day Internationals against India due to a left leg injury diagnosed through MRI scans. He sustained this injury during his 10th ODI match. In his place, Jeffrey Vandersay has been called up to join the team.
 
-දෙරට අතර පළමු එක්දින තරගයේ වනිඳු ඔහුගේ 10වැනි පන්දුවාරය යොමුකරමින් සිටියදී වම් පාදයේ ආබාධයකට ලක්විය.
+🟩
 
-ඒ හේතුවෙන් සිදු කරන ලද එම්.ආර්.අයි. පරීක්ෂණයෙන්ද මේ බව තහවුරු වී ඇත.
+Sri Lanka Cricket (SLC) announced that the remaining two matches of the One Day Cricket Against India.
 
-මෙහිදී  ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සිය නිවේදනයෙන් වැඩිදුරටත් දන්වා සිටියේ හසරංග වෙනුවට ජෙෆ්රි වැන්ඩර්සේ සංචිතයට කැඳ වූ බවයි.
+The first ODI match was caused by the left leg disorder while referring to his 10th ODI.
+
+Due to that a result of MRI. This is also confirmed by the test.
+
+Sri Lanka Cricket has stated that Jeffrey was summoned to the squad instead of the Hasaranga.
 
 ◼️
 
 [Data](articles/2fa6950c.json)
 
+[Extended Data](ext_articles/2fa6950c.ext.json)
+
 ---
 
-### කලාකරුවන් ඇතුළු ශ්‍රී ලාංකිකයන් 24ක් කුවේටයේදී අත්අඩංගුවට
+### 24 Sri Lankans including artists arrested in Kuwait
 
 *2024-08-03 23:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199534) · `si`
 
-කුවේට් හිදී සංවිධානය කරන ලද සංගීත ප්‍රසංගයකට සහභාගී වූ  ශ්‍රී ලාංකිකයන් 24 දෙනෙකු  කුවේට් බලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+24 Sri Lankans, including artists, were arrested in Kuwait during a concert by the 'Orthi' organization. The Minister of Labor and Foreign Employment, Manusha Nanayakkara, has called for the Sri Lankan embassy to intervene.
 
-‘එතෙර අපි’ සංවිධානය විසින් එම සංගීත ප්‍රසංගය සංවිධානය කර තිබුණි.
+🟩
 
-එම පිරිස නිදහස් කර ගැනීම සඳහා කුවේටයේ ශ්‍රී ලංකා තානාපති කාර්යාලය අවශ්‍ය කටයුතු කරන බව  කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+Kuwait authorities have arrested 24 Sri Lankans participating in a concert organized by Kuwait.
+
+The concert was organized by the 'Orthi' organization.
+
+Minister of Labor and Foreign Employment Manusha Nanayakkara says that the Sri Lankan embassy is required to release them.
 
 ◼️
 
 [Data](articles/07c1dbaf.json)
+
+[Extended Data](ext_articles/07c1dbaf.ext.json)
 
 ---
 
@@ -257,6 +269,28 @@ Five diaspora Tamil organizations, including the World Tamil Organization, the N
 [Data](articles/c5084062.json)
 
 [Extended Data](ext_articles/c5084062.ext.json)
+
+---
+
+### Sri Lanka para-tariffs on raw material push up cement costs: Tokyo
+
+*2024-08-03 20:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-para-tariffs-on-raw-material-push-up-cement-costs-tokyo-175151/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s import para-tariffs on clinker, the main imported raw material used by cement grinding plants is subject to multiple para-tariffs at the border, which are also higher than rates for other building materials, Tokyo Cement said.
+
+“…[A] CESS is applied on clinker imports used in cement production,” Tokyo Cement group Managing Director S R Gnanam told shareholders in the annual report.
+
+“This is an unusual exception in which cement is among the few industries where its raw materials for local production are subjected to para-tariffs.”
+
+The Port and Airport Levy, another para-tariff is “applied disproportionately local cement manufacturers, compared to other construction material producers,” he said.
+
+About 22 percent of the bag of cement is made up of taxes and tariffs, he said.
+
+Several types of building materials produced by politically connected businesses are also get import protection to exploit customers, while cement is hit by price controls, observers say.
+
+...
+
+[Data](articles/d9333179.json)
 
 ---
 
@@ -1226,6 +1260,50 @@ The injured have been taken to hospital and two of them are in critical conditio
 
 ---
 
+### Sri Lanka gives on-arrival visa at airport, VFS Global e-visa site shut on court order
+
+*2024-08-03 11:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-on-arrival-visa-at-airport-vfs-global-e-visa-site-shut-on-court-order-175093/) · `en`
+
+ECONOMYNEXT – Sri Lanka has shut a electronic visa application site run by consortium involving companies called VFS Global, IVS and GBS, after a court order suspended the the contract awarded without competitive tender.
+
+“We have been notified of certain interim orders issued by the Supreme Court of Sri Lanka today pertaining to the agreement under which this platform is operated,” a statement on front page of the website said.
+
+“In view of these orders, the website is suspended effective 2 August at 17:00 hours Sri Lanka Standard Time.”
+
+The Department of Immigration continued to issue on arrival visas physically to tourists from eligible countries, airport officials said.
+
+Court also ordered the status quo that prevailed before April 18, when the site was operated by Mobitel, a domestic company.
+
+There was no immediate information on when the old site would be restored. Department sources said a decision is likely to be taken next week.
+
+...
+
+[Data](articles/399d1a2c.json)
+
+---
+
+### India’s INS Shalki submarine visits Sri Lanka’s Colombo port
+
+*2024-08-03 11:35:00* · [`economynextcom`](https://economynext.com/indias-ins-shalki-submarine-visits-sri-lankas-colombo-port-175116/) · `en`
+
+ECONOMYNEXT – India’s INS Shalki, a diesel-electric submarine commissioned in 1992 arrived in Sri Lanka’s Colombo port on August 02 and will depart on August 04.
+
+“The visit is an Operational Turn Around (OTR), wherein the submarine will replenish fuel and provisions,” India’s embassy in Colombo said.
+
+“The crew will recuperate and have the opportunity of visiting places of interest in Sri Lanka.”
+
+The Commanding officer was due to call on Sri Lanka’s Western Naval Area Rear Admiral WDCU Kumarasinghe and 50 Sri Lanka naval personnel was to visit the submarine.
+
+INS Shalki was the first submarine to be build in India, the statement said.
+
+Sumbarines INS Karaj had visited Colombo in February 2024 and INS Vagir had visited Colombo in June 2023. (Colombo/Aug03/2024)
+
+◼️
+
+[Data](articles/bf8edc7f.json)
+
+---
+
 ### Sri Lanka expects more jobs in Romania, amid concerns of job scams
 
 *2024-08-03 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-more-jobs-in-romania-amid-concerns-of-job-scams-175113/) · `en`
@@ -1702,6 +1780,28 @@ Appreciated results have been made through the Economic Rehabilitation Project i
 
 ---
 
+### Sri Lanka fights white fly infestation with parasitic wasp
+
+*2024-08-03 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-fights-white-fly-infestation-with-parasitic-wasp-174916/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Agriculture Department is continuing with a program to introduce the parasitic wasp Encarcis Guadeloupae to control widespread whitefly infestation in coconut and king coconut plantations, a government statement said.
+
+According to the Coconut Cultivation Board, 300,00 ‘packets’ of the predator have been distributed this year.
+
+Damage to coconut plantations caused by the white fly has been reported from several parts of the island.
+
+However, due to the rain there has been a reduction of the damage, officials told a meeting at the Ministry of Agriculture.
+
+They pointed out that the white fly is more attracted to the color yellow, and this has led to more damage to king coconut, which is an export crop, plantations.
+
+After a forex crisis, the island nation is in a drive to increase exports, particularly of agriculture crops. However, extreme weather patterns brought on by climate change have proved a challenge.
+
+...
+
+[Data](articles/44fc7b80.json)
+
+---
+
 ### Several spells of showers expected in parts of the island
 
 *2024-08-03 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100958/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
@@ -2175,83 +2275,5 @@ According to the Election Commission, nominations will be accepted until 15 Augu
 [Data](articles/b4cc8d29.json)
 
 [Extended Data](ext_articles/b4cc8d29.ext.json)
-
----
-
-### Gangaramaya Chief Incumbent Ven. Galboda Gnanissara Thera passes away
-
-*2024-08-03 00:08:43* · [`dailyftlk`](https://www.ft.lk/news/Gangaramaya-Chief-Incumbent-Ven-Galboda-Gnanissara-Thera-passes-away/56-765097) · `en`
-
-The Chief Incumbent of the Hunupitiya Gangaramaya Temple, Ven. Galboda Gnanissara Thera also known as Podi Hamuduruwo passed away yesterday.
-
-Ven. Gnanissara Thera was 81 years old at the time of his demise.
-
-Born on 13 December 1943, Podi Hamuduruwo has dedicated his life to the practice and propagation of Buddhist principles, guided by a profound commitment to compassion, equality and service to humanity.
-
-His visionary leadership has transformed Gangaramaya Temple into a dynamic centre of spiritual growth, education and community empowerment. Through his guidance, the temple has spearheaded various initiatives, including vocational training programs, educational workshops and humanitarian projects, aimed at improving the lives of people from all walks of life.
-
-In 2003, Ven. Gnanissara Thera was appointed by the Malwatta chapter as the Sanghanayaka of the Western Province in Sri Lanka.
-
-...
-
-[Data](articles/06e6230f.json)
-
-[Extended Data](ext_articles/06e6230f.ext.json)
-
----
-
-### PM Hasina says ‘Anarchists’ tried to create SL-type Aragalaya in Bangla
-
-*2024-08-03 00:06:11* · [`dailyftlk`](https://www.ft.lk/news/PM-Hasina-says-Anarchists-tried-to-create-SL-type-Aragalaya-in-Bangla/56-765096) · `en`
-
-Bangladeshi Prime Minister Sheikh Hasina has accused groups she referred to as ‘anarchists’ of trying to create Sri Lanka-type mayhem in the country during the recent quota reform movement. She has claimed they had planned to topple the Government.
-
-“Actually, they planned to create a Sri Lanka-type violence and oust the Government,” she said when Indian High Commissioner to Bangladesh Pranay Verma called on her at her official residence Ganabhaban this week.
-
-According to Bangladeshi news reports the Prime Minister had told Verma that the recent movement centring on quota reform was not a normal movement at all, rather at one stage it turned into almost a terrorist-like attack.
-
-Hasina, who sanctioned a brutal crackdown on the protestors has called for the people involved in the violence to be brought to justice.
-
-The unrest which took place in Bangladesh in mid-July killed at least 150 people, injured several thousand people and damaged major Government agencies.
-
-...
-
-[Data](articles/92f26f87.json)
-
-[Extended Data](ext_articles/92f26f87.ext.json)
-
----
-
-### 2024-08-02 (Friday)
-
-### Prelates loosen condemned provocateur
-
-*2024-08-02 23:46:27* · [`dailyftlk`](https://www.ft.lk/columns/Prelates-loosen-condemned-provocateur/4-765095) · `en`
-
-Will Gnanasara provide a golden opportunity for RW to postpone or cancel the election by instigating widespread violence and declaration of emergency?
-
-Prisoner Galagoda Aththe Gnanasara Thera, a social miscreant and public provocateur in saffron robes, who was condemned by a Colombo High Court Magistrate to four years rigorous imprisonment with an additional fine of Rs. 100,000, had been released on bail after intense pressure from Buddhist prelates and the Sinhala Buddhist supremacist organisation Bodu Bala Sena (BBS) whose Secretary General happens to be this notorious prisoner. His release is the latest victory for political Buddhism, a deviant creed drawn up by a group of Buddhist monks, which in course of time became a vote winner in almost every election in Sri Lanka.
-
-...
-
-[Data](articles/359e462e.json)
-
-[Extended Data](ext_articles/359e462e.ext.json)
-
----
-
-### Road to COP29: Priorities and expectations for global climate negotiations in 2024
-
-*2024-08-02 23:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Road-to-COP29-Priorities-and-expectations-for-global-climate-negotiations-in-2024/4-765092) · `en`
-
-COP29 stands at a critical juncture and could determine the way forward on issues such as climate finance
-
-On 11 November 2024, less than four months away, the 29th meeting of the Conference of the Parties (COP29) will begin in Baku, Azerbaijan. This event will bring together representatives of the almost 200 countries who are Parties to the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement, as well as thousands of other stakeholders including civil society, academia, trade unions, the private sector, youth, and media.
-
-...
-
-[Data](articles/c23ee775.json)
-
-[Extended Data](ext_articles/c23ee775.ext.json)
 
 ---

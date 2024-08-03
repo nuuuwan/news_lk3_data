@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 15:06:05**
+As of **2024-08-03 15:20:59**
 
 ## Newspaper Stats
 
-*Scraped **38,774** Articles*
+*Scraped **38,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,57 +18,101 @@ dailyftlk | 2,494
 adalk | 3,557
 adaderanalk | 4,492
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,817
-virakesarilk | 6,137
+tamilmirrorlk | 4,818
+virakesarilk | 6,140
 adaderanasinhalalk | 6,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,770 (100.0%) of 38,774 articles have been extended.
+38,774 (100.0%) of 38,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### වන ගහනය අතින් ලෝකයේ තුන්වැනි තැන ලංකාවට
+### செப்டம்பர் முதல் 5,500 ரூபாய்
+
+*2024-08-03 15:01:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-முதல்-5-500-ரூபாய்/175-341499) · `ta`
+
+செப்டம்பர் மாதம் முதல் ஓய்வூதியதாரர்களுக்கு 3,000 ரூபாய் இடைக்கால கொடுப்பனவை வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அதன்படி, அனைத்து ஓய்வூதியர்களும் தற்போது 2,500 ரூபாய் உதவித்தொகையுடன் கூடுதலாக 3,000 ரூபாயுடன் மொத்தமாக 5,500 ரூபாயை இடைக்கால கொடுப்பனவாக பெறுவார்கள் என இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/7ce462f8.json)
+
+---
+
+### Sri Lanka's third place in the world
 
 *2024-08-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199519) · `si`
 
-වන ගහනය සියයට 30 සීමාවේ පවත්වාගෙන යන ලොව රටවල් තුන අතර ශ්‍රී ලංකාව පසුවන බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී අනාවරණය වී තිබේ.
+Sri Lanka ranks third globally for its forest coverage, alongside South Korea and Japan, accounting for 31% of the world's forests. The Committee on Public Accounts criticized the lack of gazetting the entire forest system in Sri Lanka, urging expedited action to protect these vital resources.
 
-ශ්‍රී ලංකාවට අමතරව එලෙස වනාන්තර පද්ධතියක් පවත්වාගෙන යනු ලබන්නේ දකුණු කොරියාව, ජපානය යන රවටල් දෙක පමණක් බව කාරක සභාවේදී වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් පෙන්වාදී ඇත.
+🟩
 
-ලෝක‍යේ රටවල් තුළ පවතින වනාන්තරවල ප්‍රතිශතය 31% ලෙස සලකන අතර මෙරට වනාන්තර ප්‍රතිශතය 30% මට්ටමේ පැවතීම ඉතා යහපත් තත්ත්වයක් වන බව ද එම නිලධාරීන් සඳහන් කරයි.
+The Committee on Public Accounts has revealed that Sri Lanka is between the three countries in the world that runs the world's 30 percent.
 
-කෙසේවෙතත් ශ්‍රී ලංකාවේ සමස්ත වනාන්තර පද්ධතිය ගැසට් නොකිරීම පිළිබඳව කාරක සභාව විසින් නිලධාරීන්ගෙන් විමසා තිබේ.
+In addition to Sri Lanka, South Korea, Japan, Japan, the Forest Department officials have shown that South Korea and Japan deceived.
 
-2018 වන විට හෙක්ටයාර මිලියන 1.4 ක පමණ වනාන්තර ගැසට් කර ඇති බවත් ගැසට් මගින් ප්‍රකාශයට පත් නොකළ වනාන්තර හෙක්ටයාර දෙලක්ෂ පනස්දහසක් පමණ පවතින බවත් ඊට පිළිතුරු ලබාදෙමින් වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් සඳහන් කර තිබුණි.
+According to the officials, the percentage of forests in the world is considered 31%, and the country's forest is a good condition.
 
-ඒ අනුව එම ගැසට් නොකළ වනාන්තර හැකි ඉක්මනින් ගැසට්  කිරීමට කටයුතු කරන ලෙස මෙහිදී කාරක සභා සභාපතිවරයා උපදෙස් ලබාදී ඇත.
+However, the Committee has inquired officers on not gazetting the entire folk system in Sri Lanka.
+
+By 2018, about 1.4 million hectares were gazetted and about Rs.
+
+Accordingly, the Chairman of the Committee has instructed to do the gazetted forest as soon as possible.
 
 ◼️
 
 [Data](articles/ebd3aacb.json)
 
+[Extended Data](ext_articles/ebd3aacb.ext.json)
+
 ---
 
-### දයාසිරිගේ සහාය සජිත්ට
+### வைத்தியர் அர்ச்சுனா மன்னாரில் கைது
+
+*2024-08-03 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190176) · `ta`
+
+மன்னார் வைத்தியசாலை வைத்தியர்கள் மேற்கொண்ட முறைப்பாட்டை தொடர்ந்து வைத்தியர் அர்ச்சுனா இன்று சனிக்கிழமை  (3) மதியம் கைது செய்யப்பட்டுள்ளார்.
+
+நேற்றைய தினம் (2) இரவு மன்னார் பொது வைத்தியசாலைக்குள் நுழைந்து குழப்பத்தை ஏற்படுத்தியதாக மன்னார் வைத்தியசாலை நிர்வாகம் மன்னார் பொலிஸ் நிலையத்தில் மேற்கொண்ட முறைப்பாட்டை தொடர்ந்து இன்றைய தினம் காலை வைத்தியர் அர்சுனா மன்னார் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+அண்மையில் மன்னார் தம்பன்னை குளத்தை சேர்ந்த இளம் தாய் ஒருவர் மரணம் அடைந்த சம்பவம் தொடர்பில் தகவல் சேகரிக்க வந்த நிலையில், வைத்திய செயற்பாட்டு வைத்தியர்கள் மற்றும் சுகாதர ஊழியர்களின் சேவைக்கு இடையூறு ஏற்படுத்தியதாக மேற்கொள்ளப்பட்ட முறைப்பாட்டை தொடர்ந்து வைத்தியர் அர்சுனா இன்றைய தினம் கைது செய்யப்பட்டு மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டுள்ளார்.
+
+இந்நிலையில், அவரை 7 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/4dfe6a2a.json)
+
+---
+
+### Dayasiri's support to Sajith
 
 *2024-08-03 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199518) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරන බව පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+Dayasiri Jayasekera, an SLFP parliamentarian, announced his support for Sajith Premadasa in the upcoming presidential election. He was joined by SLFP members Thilanga Sumathipala and Rohana Lakshman Piyadasa. They emphasized the importance of unity and maintaining separate election campaigns while seeking guidance from their supporters.
 
-අද (03) කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ඒ බව සඳහන් කළේය.
+🟩
 
-එම අවස්ථාව සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සමාජිකයින් වන තිලංග සුමතිපාල සහ රෝහණ ලක්ෂ්මන් පියදාස යන මහත්වරුන් ඇතුළ පිරිසක් එක්වී තිබුණි.
+Parliamentarian Dayasiri Jayasekera says he will support the candidate Sajith Premadasa of the next presidential election.
 
-එහිදී අදහස් දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසා සිටියේ, "අලුත් කණ්ඩායමකට රට භාර දෙන්නට නම් සමගි ජන බල සනධානයේ එවැනි ශක්තිමත් නායකයින් ගණනාවක් ඉන්නවා. ඒ අයත් එක්ක එකතුවෙලා මේ ගමන ඉදිරියට යා යුතුයි කියලා අපි විශ්වාස කරනවා. ඒ ක්‍රියාදාමය යනකොට ශ්‍රී ලංකා නිදහස් පක්ෂය අපේ අන්‍යයතාවය තියාගෙන පක්ෂය විදිහට වෙනම ඡන්ද ව්‍යාපාරයක් අපි ක්‍රියාත්ම කරනවා. අපේ ආදරණීය පාක්ෂිකයින්ගෙන් අපි ඉල්ලනවා අපි ගත්තේ මේ වෙලාවේ ගතයුතු නිවැරදිම තීරණය කියලා." යනුවෙනි.
+Addressing a media briefing held in Colombo today (03), MP Dayasiri Jayasekara said that.
+
+The SLFP member of the SLFP member of the SLFP Thilanga Sumathipala and Rohana Lakshman Piyadasa were also present.
+
+Speaking. We believe that this journey should go forward. When we go, the SLFP maintains a separate election campaign as the SLFP maintains our. We ask our loving partners asking us that the exact decision should be taken at this time. "
 
 ◼️
 
 [Data](articles/a32d1976.json)
+
+[Extended Data](ext_articles/a32d1976.ext.json)
 
 ---
 
@@ -82,23 +126,47 @@ Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera says that he will support 
 
 [Data](articles/316ee4a5.json)
 
+[Extended Data](ext_articles/316ee4a5.ext.json)
+
 ---
 
-### யாழில் சர்வமதத் தலைவர்களை சந்தித்தார் ஜனாதிபதி
+### The President meets Sarvadam leaders in Jaffna
 
 *2024-08-03 14:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமதத்-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341498) · `ta`
 
-யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க சர்வமத தலைவர்களையும் சந்தித்து ஆசிப் பெற்றுக் கொண்டுள்ளார்.
+President Ranil Wickremesinghe visited Jaffna, meeting Sarvadham leaders including Sri Somasundaram and the Naga Vihara's Vikramadi Meegahajandupara. He engaged in religious activities and discussions with the Buddhist Hindu Religious Forum's Chairman, Mohan.
 
-ஜனாதிபதி நேற்றைய தினம் நல்லை ஆதீனம் ஸ்ரீ சோமசுந்தரம் அவர்களை சந்தித்து ஆசிப்பெற்றுக் கொண்டதோடு யாழ்.ஆயாின் உத்தியோகப்பூர்வ இல்லத்திற்கு சென்று அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் அவர்களையும் சந்தித்து கலந்துரையாடியுள்ளார்.
+🟩
 
-அதனைத்தொடர்ந்து நேற்று பிற்பகல் யாழ். நாக விகாரைக்குச் சென்று சமய வழிபாடுகளில் ஈடுபட்டு ஆசிகளைப் பெற்றுக் கொண்டு யாழ். ஸ்ரீ நாக விகாரையின் விகாராதிபதி மீகஹஜந்துபர சிறிவிமல நாயக்க தேரரை சந்தித்து நலன் விசாாித்தார்.
+President Ranil Wickremesinghe, who has visited Jaffna, has also met with the leaders of the Sarvamdha.
 
-மேலும், "பௌத்த இந்து சமய மன்றம்" சார்பில் அதன் தலைவர் கலாநிதி எம். மோகனை சந்தித்து கலந்துரையாடியுள்ளார். R
+President of the President yesterday met with Sri Somasundaram to meet with Nallai Adheenam and visited the official residence of the Jaffna Ayan.
+
+Jaffna yesterday afternoon. Going to the Naga Vihara and engaging in religious worship. Sri Naga Vihara's Vikramadi Meegahajandupara met Sirivimala Nayaka Thera and visited the welfare.
+
+Moreover, its Chairman of the Buddhist Hindu Religious Forum. Mohan has met and discussed. Remble
 
 ◼️
 
 [Data](articles/e0a07345.json)
+
+[Extended Data](ext_articles/e0a07345.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் ; மலையக தமிழரின் அபிலாஷை ஆவணத்துக்கு தமுகூ  அங்கீகாரம் - மனோ கணேசன்
+
+*2024-08-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190169) · `ta`
+
+ஐக்கிய மக்கள் கூட்டணி வேட்பாளர் சஜித் பிரேமதாசவிடம் செய்யப்படவுள்ள புரிந்துணர்வு உடன்படிக்கைக்காக, தன்னால் முன் வைக்கப்பட்ட  மலையக தமிழர் அபிலாஷை ஆவணத்தை ஐந்து திருத்தங்களுடன், தமிழ் முற்போக்கு கூட்டணி அரசியல் குழு ஏகமனதாக ஏற்று கொண்டுள்ளது  என கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
+
+சஜித் பிரேமதாச தலைமையில் அரசாங்கம் உருவாகின்றபோது, நிறைவேற்றப்பட வேண்டிய வேலைத்திட்டங்களில் இந்திய வம்சாவளி மலையக தமிழரின் அபிலாஷை கோரிக்கைகள் அடங்கிய ஆவணம், கொழும்பில் கூடிய கூட்டணி  அரசியல் குழுவினால் தீவிரமாக ஆராயப்பட்டது.
+
+சமர்பிக்கப்பட்ட ஆவணம், மேலதிக சில விடயங்கள் சேர்க்கைகளாக சேர்க்க பட்டும், சில திருத்தங்களுடனும் அரசியல் குழுவால் ஏக மனதாக ஏற்று கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/66014819.json)
 
 ---
 
@@ -301,6 +369,30 @@ Accordingly, the officer has been summoned to the Police Traffic today for a dis
 [Data](articles/c870205a.json)
 
 [Extended Data](ext_articles/c870205a.ext.json)
+
+---
+
+### குப்பைகளை உட்கொண்டு உடல்நலக் குறைவால் பறக்க முடியாமல் சோர்ந்திருக்கும் அரிய வகை பறவை
+
+*2024-08-03 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190161) · `ta`
+
+ஹிக்கடுவை கடற்கரையில் உடல் நிலை பாதிக்கப்பட்ட அரிய வகை வலசை பறவையொன்று வனவிலங்கு அதிகாரிகளால் மீட்கப்பட்டு சிகிச்சைக்காக அத்திடிய பறவைகள் சரணாலயத்துக்கு கொண்டு செல்லப்பட்டுள்ளது.
+
+இந்த பறவை குறித்து ஹிக்கடுவை தேசிய பூங்காவின் பாதுகாவலர் அசங்க குணவர்தன தெரிவித்துள்ளதாவது,
+
+இந்த பறவை கிழக்கு ஆபிரிக்கா மற்றும் இந்தியப் பெருங்கடலுக்கு மேற்கே உள்ள வெப்பமண்டலப் பகுதிகளை பூர்வீகமாகக் கொண்ட ஷீர்வொட்டர் (Shearwater) பறவை இனமாகும்.
+
+வெப்பமண்டலப் பறவை மனித வாழ்விடங்களிலிருந்து விலகி வாழ்வதோடு, பாறைப் பிளவுகள் அல்லது மணல் மேடு குழிகளில் முட்டையிடும்.
+
+இந்த பறவையினம் குஞ்சு பொரித்த பிறகு, குஞ்சுகள் பறக்கும் வரை நீண்ட காலத்துக்கு அவற்றை பாதுகாக்கும்.
+
+நீண்டதூரம் பறக்கும் திறன் கொண்ட ஷீர்வொட்டர் பறவைகள் கடலில் மிதக்கும் பொலித்தீன் அல்லது பிளாஸ்டிக் குப்பைகளை உட்கொள்வதால் நோய்வாய்ப்படுகின்றன.
+
+ஹிக்கடுவை கடற்கரையில் காணப்பட்ட இந்த பறவையும் பிளாஸ்டிக், பொலித்தீன் குப்பைகளை உட்கொண்டதால் உடல்நலக் குறைவு ஏற்பட்டு பறக்க முடியாமல் இருந்தது.
+
+◼️
+
+[Data](articles/d54f4fd3.json)
 
 ---
 
@@ -2129,97 +2221,5 @@ This order was issued while granting leave to proceed with the hearing of severa
 [Data](articles/b549464f.json)
 
 [Extended Data](ext_articles/b549464f.ext.json)
-
----
-
-### Interim to be banned by an interim injunction preventing e-visa services to companies
-
-*2024-08-02 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199494) · `si`
-
-The Supreme Court has issued two interim injunctions: one against implementing the Cabinet's decision and another against agreements with certain companies. Additionally, it has restricted the actions of the Supreme Court leader regarding MPs Em VA Sainiran, Rauff Hakeem, and Plotley Champika Ranawaka.
-
-🟩
-
-The Supreme Court has issued an interim injunction preventing the implementation of the Cabinet of the Cabinet.
-
-The Court has issued another interim injunction preventing the implementation of the agreement with relevant companies.
-
-The Supreme Court issued the Leader of the Supreme Court from allowing MP Em VA Sainiran, Rauff Hakeem and Plotley Champika Ranawaka.
-
-◼️
-
-[Data](articles/9e2c00ed.json)
-
-[Extended Data](ext_articles/9e2c00ed.ext.json)
-
----
-
-### Shaw to Jaffna to the North's water problem
-
-*2024-08-02 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199493) · `si`
-
-President Wickremesinghe announced a $266 million project, funded by the Asian Development Bank, to address the water crisis in Jaffna and Kilinochchi districts. Aimed at providing clean drinking water to 300,000 people and improving sanitation for 80,000, the project involves building a desalination plant and is expected to complete by mid-2025.
-
-🟩
-
-President Ranil Wickremesinghe said that the project will be launched to 'Jaffna a river' project to provide a permanent solution to the water problem in the North.
-
-The President made this observation at the opening ceremony of the Thalaliy Water Supply Project of the Jaffna-Kilinochchi "Water Supply Project this morning.
-
-The Thalaliy Water Supply Project of the Jaffna-Kilinochchi Water Supply Project will be implemented by the National Water Supply and Drainage Board of the Ministry of Water Supply and Estate Infrastructure.
-
-The main objective of the project is to provide pure drinking water for 300,000 people in Jaffna and Kilinochchi Districts in the Northern Province and improvement of sanitary facilities for 80,000 people.
-
-The Asian Development Bank has reached a controversy in 2017 to build the factory to remove the salts in the sea water.
-
-...
-
-[Data](articles/59f9163a.json)
-
-[Extended Data](ext_articles/59f9163a.ext.json)
-
----
-
-### In the next 5 - 10 years we will transform the North into a developed province - President in Jaffna
-
-*2024-08-02 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190119) · `ta`
-
-President Ranil Wickremesinghe aims to transform the North of Sri Lanka into a developed province within 5-10 years, focusing on water supply and infrastructure development. The initiative includes launching a water supply project in Jaffna, improving health facilities, and promoting modern agriculture. Economic growth is anticipated through projects like the 'Jaffna River' and the development of the Kankesanthurai port, with support from international partners including China, Japan, and India.
-
-🟩
-
-15 years have passed since the end of the civil war in the north. In such a situation, we will come together and start the development war. President Ranil Wickremesinghe said that our aim is to transform the North into a developed province in the next 5 to 10 years.
-
-The President said this while addressing the inauguration of the Sea Water Planting Center yesterday morning at the Jaffna -Kilinochchi Water Supply Scheme.
-
-The President said that the water supply project would be launched soon in Jaffna and expressed confidence that the Jaffna, Kilinochchi Water Supply Scheme and 'Jaffna Nadi' will be able to address the drinking water needs of the North.
-
-According to the Jaffna -Kilinochchi Water Supply Scheme, the National Water Supply and Drainage Board, Water Supply and Estate Infrastructure Development, Asian Development Bank and the Government of Sri Lanka are managed by the Government of Sri Lanka.
-
-...
-
-[Data](articles/3fc9488c.json)
-
-[Extended Data](ext_articles/3fc9488c.ext.json)
-
----
-
-### Up to 14 credited persons
-
-*2024-08-02 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199492) · `si`
-
-The Elections Commission confirmed 14 candidates for the Presidential election, including Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, and others. All have been released on bail.
-
-🟩
-
-The Elections Commission announced that 14 candidates have been paid to the Presidential election.
-
-Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa, P. W. S. K. Bandaranaike, Wijeyadasa Rajapakse, KK. Piyadasa, Sirithunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Ven. Battaramulla Seelarathana Thera and Akmeemana Dayaratana Thera were bailed.
-
-◼️
-
-[Data](articles/18d2e036.json)
-
-[Extended Data](ext_articles/18d2e036.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 10:06:57**
+As of **2024-08-03 10:20:36**
 
 ## Newspaper Stats
 
-*Scraped **38,748** Articles*
+*Scraped **38,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,555
-adaderanalk | 4,486
+adaderanalk | 4,487
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,813
+tamilmirrorlk | 4,814
 virakesarilk | 6,135
 adaderanasinhalalk | 6,532
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 6,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,745 (100.0%) of 38,748 articles have been extended.
+38,748 (100.0%) of 38,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Heavy traffic between Kottawa and Pannipitiya
+
+*2024-08-03 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100962/heavy-traffic-between-kottawa-and-pannipitiya) · `en`
+
+Heavy traffic congestion has been reported on the High-Level Road between Kottawa and Pannipitiya, causing significant delays for commuters, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/11af4bd8.json)
+
+---
+
+### தேர்தல்கள் ஆணைக்குழு விடுத்துள்ள அழைப்பு
+
+*2024-08-03 09:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழு-விடுத்துள்ள-அழைப்பு/175-341495) · `ta`
+
+சகல மாவட்ட தேர்தல் தெரிவத்தாட்சி அதிகாரிகளும், மாவட்ட பிரதி மற்றும் உதவி தேர்தல்கள் ஆணையாளர்களும் கொழும்பில் உள்ள தேர்தல்கள் ஆணைக்குழுவுக்கு இன்றைய தினம் அழைக்கப்பட்டுள்ளதாகத் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் R.M.A.L. ரத்நாயக்க தெரிவித்துள்ளார்.
+
+அதேநேரம், சகல அமைச்சுகளின் செயலாளர்களுக்கும், தேர்தல்கள் ஆணைக்குழுவின் அதிகாரிகளுக்கும் இடையில் எதிர்வரும் செவ்வாய்க்கிழமை சந்திப்பொன்று இடம்பெறவுள்ளது. R
+
+◼️
+
+[Data](articles/37a893d4.json)
+
+---
 
 ### PAFFREL receives 45 complaints of election law violations
 
@@ -44,23 +70,31 @@ Executive Director of PAFFREL, Rohana Hettiarachchi stated that the majority of 
 
 [Data](articles/ae0b2562.json)
 
+[Extended Data](ext_articles/ae0b2562.ext.json)
+
 ---
 
-### දකුණු පිලිපීනයේ භූකම්පනයක්
+### A Godmphmpath of the South Philippines
 
 *2024-08-03 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199509) · `si`
 
-දකුණු පිලිපීන වෙරළට ඔබ්බෙන් රික්ටර් මාපක 6.ක භූ කම්පනයක් අද (03) අලුයම ඇති වූ බව එක්සත් ජනපද භූ විද්‍යා සමීක්ෂණ ආයතනය පැවසීය.
+An earthquake struck 17 km east of Mindanao Island, deep underground. No tsunami warning was issued, and initial reports indicate no casualties or damage. However, authorities have since cautioned about potential vibrations.
 
-විදෙස් වාර්තා සඳහන් කළේ මේ හේතුවෙන් සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර නොමැති බවයි.
+🟩
 
-මින්දනාඕ දූපතට නැගෙනහිරින් පිහිටි බාර්සිලෝනා ගම්මානයේ සිට කිලෝමීටර් 20ක් පමණ දුරින් කිලෝමීටර් 17ක් ගැඹුරින් මෙම භූ කම්පනය හටගෙන ඇති බව සඳහන්ය.
+US Geological Survey (US Geological Survey)
 
-එරට බලධාරීන් පැවසුවේ කිසිදු ජීවිත හෝ දේපොළ හානියක් වාර්තා වී නොමැති නමුත් පසු කම්පන ගැන අනතුරු ඇඟවා ඇති බවයි.
+According to foreign reports, a tsunami warning has not been issued.
+
+The earthquake has occurred deeply 17 kilometers from the East of Mindano Island.
+
+The authorities of the country said no lives or property has been reported, but later warned about the vibrations.
 
 ◼️
 
 [Data](articles/f1795095.json)
+
+[Extended Data](ext_articles/f1795095.ext.json)
 
 ---
 
@@ -1324,19 +1358,27 @@ The two arrested were taken to the Polonnaruwa Police Station and the Commission
 
 ---
 
-### පාර්ලිමේන්තුව අගෝස්තු 6 සිට 9 දක්වා රැස්වෙයි
+### Parliament gathers from 6th to 9 August
 
 *2024-08-02 18:55:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අගෝස්තු-6-සිට-9-දක්වා-රැස්වෙයි/11-411172) · `si`
 
-පාර්ලිමේන්තුව ලබන 6 වැනිදා සිට 9 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය. එම සතියට අදාළ පාර්ලිමේන්තු කටයුතු අද (02) පෙරවරුවේ කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+The Parliament meets from August 6th to 9th, with special sessions including committee meetings, discussions on fiscal status reports, and legislative readings.
 
-මේ අනුව අගෝස්තු 6 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා විපක්ෂය ‍විසින් ගෙනෙනු ලබන යෝජනාවට අනුව ‘මාතර නිල්වලා ග‍‍ඟ ආශ්‍රිතව ඉදිකර ඇති ලවණ බාධකය හේතුවෙන් මතුව ඇති ගැටලුකාරී තත්ත්වය’ පිළිබඳ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත.
+🟩
 
-අගෝස්තු 7 වැනි බදාදා පෙ.ව 9.30 සිට පෙ.ව 10.00 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.00 සිට ප.ව 5.30 දක්වා ආණ්ඩු පාර්ශ්වය විසින් ගෙනෙනු ලබන යෝජනාවකට අනුව  ‘වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව’ පිළිබඳ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට ද නියමිතව තිබේ.
+Special Secretary General of Parliament Kushani Rohanadera said that the Parliament would meet on the 6th to 9th. The weekly proceedings regarding the week will be decided at the Committee on Parliamentary Affairs chaired by Hon. Mahinda Yapa Abeywardena.
+
+Thus Tuesday 6th August to 10:00 am to 10:00 am from 9.30 am to 10.30 am. According to the proposal to be built in the Nilwala River in the Nilwala River in the Nilwala River, Matara, has decided to postpone the church postponement.
+
+Wednesday 7th August to 10:00 am to 10:00 am From 9:30 am to 10:00 pm. According to a proposal by the Government, according to a proposal by the Government's proposal to 5.30 am to 2:30 pm, the councils on the Mid Fiscal Status Report will be held.
+
+Thursday August 8th is reserved for questions that require verbal answers to 10:30 am.The second reading is decided to conduct a second reading for two students (Amendment) Bills from 10.30 am to 2 pm.
 
 ...
 
 [Data](articles/f897c642.json)
+
+[Extended Data](ext_articles/f897c642.ext.json)
 
 ---
 
@@ -2201,51 +2243,5 @@ Accordingly, at the sectoral Oversight Committee was emphasized at the sectoral 
 [Data](articles/eee806af.json)
 
 [Extended Data](ext_articles/eee806af.ext.json)
-
----
-
-### 13 killed during protests over Nigeria’s economic crisis, hundreds arrested
-
-*2024-08-02 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100947/13-killed-during-protests-over-nigerias-economic-crisis-hundreds-arrested) · `en`
-
-At least 13 protesters were killed during mass protests in Nigeria against the country’s economic crisis that turned violent in several states, a rights group said Friday.
-
-Authorities confirmed four people killed by a bomb and the arrests of hundreds in the protests that triggered curfews in several states.
-
-Amnesty International’s Nigeria director Isa Sanusi said in an interview that it independently verified the deaths that were reported by witnesses, families of the victims and lawyers.
-
-More than 300 protesters were arrested and curfews imposed in the northern states of Kano and Katsina after the looting of government and public properties, Nigerian police said. One police officer was also killed and several others injured.
-
-...
-
-[Data](articles/c90b30d7.json)
-
-[Extended Data](ext_articles/c90b30d7.ext.json)
-
----
-
-### 14 people die from dengue fever in the country
-
-*2024-08-02 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190102) · `ta`
-
-Dengue cases surge nationwide, with 14 deaths reported. This year, over 32,000 cases have been identified, including 4,506 last month alone. The Health Ministry warns of a potential increase in infections, especially in Colombo, Gampaha, Kandy, Ratnapura, and Kalutara districts. It advises cleaning environments to combat mosquito breeding.
-
-🟩
-
-The National Dengue Control Unit said the number of dengue fever in the country has risen to 14.
-
-During this year, 32 thousand 866 dengue patients have been identified across the country.About 4,506 dengue patients were reported last month and 121 people were identified on Thursday only on Thursday.The rate of dengue patients who can be recorded in all districts can be seen as a muddy rise.
-
-Considering the spread of dengue, 22 Health Medical Authority (MOH) has been identified as high dengue hazards. In addition, a further death of dengue fever has been reported yesterday and the number of casualties has risen to 14.
-
-There will be feasures that will increase the rate of dengue patients who can be recorded in the coming days.
-
-The number of dengue patients recorded in the districts of Colombo, Gampaha, Kandy, Ratnapura and Kalutara is likely to increase.
-
-...
-
-[Data](articles/a623f8f5.json)
-
-[Extended Data](ext_articles/a623f8f5.ext.json)
 
 ---

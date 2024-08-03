@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 10:20:36**
+As of **2024-08-03 10:36:01**
 
 ## Newspaper Stats
 
-*Scraped **38,750** Articles*
+*Scraped **38,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 4,487
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
 virakesarilk | 6,135
-adaderanasinhalalk | 6,532
+adaderanasinhalalk | 6,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,748 (100.0%) of 38,750 articles have been extended.
+38,750 (100.0%) of 38,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### හයිලෙවල් මාර්ගය භාවිත කරන රියදුරන්ට දැනුම්දීමක්
+
+*2024-08-03 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199510) · `si`
+
+කොට්ටාව සහ පන්නිපිටිය අතර හයිලෙවල් මාර්ගයේ දැඩි රථවාහන තදබදයක් පවතින බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/040b75a8.json)
+
+---
 
 ### Heavy traffic between Kottawa and Pannipitiya
 
@@ -42,19 +54,27 @@ Heavy traffic congestion has been reported on the High-Level Road between Kottaw
 
 [Data](articles/11af4bd8.json)
 
+[Extended Data](ext_articles/11af4bd8.ext.json)
+
 ---
 
-### தேர்தல்கள் ஆணைக்குழு விடுத்துள்ள அழைப்பு
+### Call
 
 *2024-08-03 09:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழு-விடுத்துள்ள-அழைப்பு/175-341495) · `ta`
 
-சகல மாவட்ட தேர்தல் தெரிவத்தாட்சி அதிகாரிகளும், மாவட்ட பிரதி மற்றும் உதவி தேர்தல்கள் ஆணையாளர்களும் கொழும்பில் உள்ள தேர்தல்கள் ஆணைக்குழுவுக்கு இன்றைய தினம் அழைக்கப்பட்டுள்ளதாகத் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் R.M.A.L. ரத்நாயக்க தெரிவித்துள்ளார்.
+Elections Commission Chairman R.M.A.L. Ratnayake announced a meeting involving all Ministry Secretaries and Elections Commission officials.
 
-அதேநேரம், சகல அமைச்சுகளின் செயலாளர்களுக்கும், தேர்தல்கள் ஆணைக்குழுவின் அதிகாரிகளுக்கும் இடையில் எதிர்வரும் செவ்வாய்க்கிழமை சந்திப்பொன்று இடம்பெறவுள்ளது. R
+🟩
+
+Elections Commission Chairman R.M.A.L.. Ratnayake said.
+
+At the same time, a meeting will be held between the Secretaries of all Ministries and the Elections Commission officials.. Remble
 
 ◼️
 
 [Data](articles/37a893d4.json)
+
+[Extended Data](ext_articles/37a893d4.ext.json)
 
 ---
 
@@ -2217,31 +2237,5 @@ The meeting was attended by Vice President of the Sri Lanka Business Federation,
 [Data](articles/38186720.json)
 
 [Extended Data](ext_articles/38186720.ext.json)
-
----
-
-### The Gem Authority has not been given 14 million rupees
-
-*2024-08-02 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199489) · `si`
-
-The Gem and Jewelry Research and Training Institute failed to utilize allocated funds, as disclosed at a sectoral oversight committee meeting. The institute did not spend the designated amount for land acquisition and faces financial issues, including unpaid rents and operational costs. The committee highlighted the need for the institute's courses to become profitable and ensured that public funds would be safeguarded. Discussions also covered the state of the international gem market and the implementation of the gem and jewelry industry in Sri Lanka.
-
-🟩
-
-It has been revealed at the sectoral Oversight Committee on the land, natural resources and sustainable development that the Gem and Jewelery Research and Training Institute has not taken any more use.
-
-The meeting was held at the meeting of MP Ajith Mannapperuma on the 24th and the Gem and Jewelery Research and Training Institute.
-
-It has been revealed that no avail had been taken out on the right land to be spent on Rs.
-
-Further, the company is Rs.. 10 lakhs and Rs.. It has been revealed that the monthly rent of Rs.. The Committee also focused on making the courses conducted by the Gem and Jewelery Research and Training Institute into the profit-making courses.
-
-Accordingly, at the sectoral Oversight Committee was emphasized at the sectoral Oversight Committee on the environment, natural resources and sustainable development that the money of the people of the country will not be paid.
-
-...
-
-[Data](articles/eee806af.json)
-
-[Extended Data](ext_articles/eee806af.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 12:20:42**
+As of **2024-08-03 12:36:04**
 
 ## Newspaper Stats
 
-*Scraped **38,757** Articles*
+*Scraped **38,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
-adalk | 3,556
+adalk | 3,557
 adaderanalk | 4,489
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,535
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,757 (100.0%) of 38,757 articles have been extended.
+38,757 (100.0%) of 38,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,22 @@ At the same time, a meeting will be held between the Secretaries of all Ministri
 [Data](articles/37a893d4.json)
 
 [Extended Data](ext_articles/37a893d4.ext.json)
+
+---
+
+### තමිල්නාඩුවේ සංවර්ධනයෙන් ලංකාවට ගොඩ යන්න පුළුවන්ලු
+
+*2024-08-03 09:54:00* · [`adalk`](https://www.ada.lk/breaking_news/තමිල්නාඩුවේ-සංවර්ධනයෙන්-ලංකාවට-ගොඩ-යන්න-පුළුවන්ලු/11-411174) · `si`
+
+යාපනය ඇතුළු උතුරු පළාතේ ජනතාව බොහෝ කලක සිට ආර්ථික දුෂ්කරතාවන්ට මුහුණ දෙන නමුත් ප්‍රයෝජනයට ගත හැකි විශාල ආර්ථික විභවයක් එම පළාතේ පවතින බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම අවස්ථාවන් උතුරු පළාත ඇතුළු සමස්ත රටේම ආර්ථික වර්ධනයට දායක කර ගැනීමට රජය සැලසුම් කර තිබෙන බව පැවසිය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ යාපනය දිස්ත්‍රික්කයේ විද්වතුන්, වෘත්තියවේදීන් සහ ව්‍යවසායකයන් සමඟ යාපනය වාලම්පුරි හෝටලයේ පැවති හමුවේදී ය.
+
+මැතිවරණ වේදිකාවල විවිධ පොරොන්දු දෙමින් ඒවා ඉටු කිරීමට ණය ගැනීම මත මෙරට ආර්ථික මෙන්ම දේශපාලන ක්‍රමයද කඩා වැටුණු බව පෙන්වා දුන් ජනාධිපතිවරයා නැවත එම වරද සිදුවීමට ඉඩ නොතබා නව ආර්ථික සහ දේශපාලන ක්‍රමවේදයක් ඔස්සේ ආර්ථිකය ඉදිරියට ගෙන යාමට දායක වීම මෙරට උගතුන්, වෘත්තීයවේදීන්, ව්‍යවසායකයන් ඇතුළු සියලුදෙනාගේ වගකීම බවද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/c405f023.json)
 
 ---
 
@@ -2205,29 +2221,5 @@ Ranil Wickremesinghe supported the Sri Lanka PA (SLPP) Executive Committee meeti
 [Data](articles/d668f14d.json)
 
 [Extended Data](ext_articles/d668f14d.ext.json)
-
----
-
-### Indian submarine to port Colombo
-
-*2024-08-02 16:37:43* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරීනයක්-කොළඹ-වරායට/10-411169) · `si`
-
-The Indian Navy's 'Insucratic' submarine, measuring 64.4 meters and commanded by a counter admiral, docked at Colombo Port on August 2nd. It's part of an operational visit aimed at enhancing maritime cooperation between India and Sri Lanka. The Sri Lanka Navy will host an awareness campaign aboard the submarine. 'Insathi', another submarine, is scheduled to depart from Colombo on August 4th, 2024.
-
-🟩
-
-The Indian Navy's submarine arrived at the Port of Colombo on August 02
-
-The 'Insucratic' submarine at the Colombo Port is comprised of 64.4 meters and 40 shipping counterfeit commander.Took place at the Commambing Headquarters.
-
-Sri Lanka Navy persons are due to attend a awareness campaign in the operation of operational operations during the period of operational operation of its operation during the period under the period of operational operations in the island during the period of operational operation.
-
-The 'Insathi' submarine on 04 August 2024 is due to leave the island on August 04.
-
-◼️
-
-[Data](articles/ba42a211.json)
-
-[Extended Data](ext_articles/ba42a211.ext.json)
 
 ---

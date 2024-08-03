@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 16:20:35**
+As of **2024-08-03 16:36:09**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,783 (100.0%) of 38,784 articles have been extended.
+38,784 (100.0%) of 38,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### පොහොට්ටුවට පිටින් ගිය මන්ත්‍රීවරුන් ගැන තීරණයක්
+### Decision on MPs who passed out of the rush
 
 *2024-08-03 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199523) · `si`
 
-පක්ෂයේ තීරණවලට එරෙහිව කටයුතු කරන සාමාජිකයන්ගේ තරාතිරම නොබලා පක්ෂ සාමාජිකත්වය අහෝසි කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
+The Sri Lanka General Front plans to eliminate party membership requirements for making decisions. This move follows a unanimous decision by the Politburo, led by Secretary General Sagara Kariyawasam. Additionally, a group has pledged support for Mr. Ranil Wickremesinghe in the upcoming presidential election. State Minister of Fisheries Piyal Nishantha emphasizes courage in decision-making, attributing it to the challenges faced by the country under the current leadership.
 
-එහි මහලේකම් සාගර කාරියවසම්ගේ අත්සනින් යුත් ලිපියක් මගින් දැනුම්දී ඇත්තේ පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය ඒකමතිකව එම තීරණය ගෙන ඇති බවය.
+🟩
 
-ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහයෝගය දැක්වීමට පොහොට්ටුවේ පිරිසක් තීරණය කර තිබෙන අතර ඒ සම්බන්ධයෙන් මෙම පියවර ගෙන ඇති බව වාර්තා වෙයි.
+The Sri Lanka General Front states that steps will be taken to abolish the party membership without the status of the party's decisions.
 
-එලෙස ලිපියක් ලැබී ඇති ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත මහතා සඳහන් කරන්නේ, "අද සාගර කාරියවසම්ලා මොන ලියුම එව්වත් අපි මේවට බය නෑ. අපි තීන්දු තීරණ ගත්තේ ජනාධිපතිතුමා මේ රටට සිදුකළ සේවය නිසයි." යනුවෙනි.
+The Secretary General of the General Secretary Sagara Kariyawasam has informed the Politburo in unanimous decision.
+
+A group of people have decided to support Mr. Ranil Wickremesinghe in the next presidential election and this step has been taken in this regard.
+
+State Minister of Fisheries Piyal Nishantha says: "Today, we are not afraid of the letter today. We made the decisions because the president was done to this country. "
 
 ◼️
 
 [Data](articles/8a84e1e7.json)
+
+[Extended Data](ext_articles/8a84e1e7.ext.json)
 
 ---
 

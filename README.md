@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 09:06:06**
+As of **2024-08-03 09:20:30**
 
 ## Newspaper Stats
 
-*Scraped **38,740** Articles*
+*Scraped **38,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,554
-adaderanalk | 4,483
+adaderanalk | 4,484
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,813
 virakesarilk | 6,133
@@ -26,25 +26,51 @@ adaderanasinhalalk | 6,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,739 (100.0%) of 38,740 articles have been extended.
+38,740 (100.0%) of 38,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### கடல் நீரை நன்னீராக்கும் சுத்திகரிப்பு நிலையம் திறந்து வைப்பு
+### Govt’s decision to import eggs criticized
+
+*2024-08-03 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100959/govts-decision-to-import-eggs-criticized) · `en`
+
+The Sri Lanka Association of Animal Production (SLAAP) has criticized the government’s decision to import eggs, attributing it to the government’s failure to establish a system to regulate the price of agricultural products.
+
+President of the association, Ajith Gunasekara stated that importing eggs without such a system in place will harm the local industry.
+
+However, he assured that there is a possibility of providing eggs and chicken without shortages for the upcoming festival season.
+
+◼️
+
+[Data](articles/b4151d35.json)
+
+---
+
+### Opening of Sea Water Freshwater Cleaning Station
 
 *2024-08-03 08:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-நீரை-நன்னீராக்கும்-சுத்திகரிப்பு-நிலையம்-திறந்து-வைப்பு/175-341494) · `ta`
 
-தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் மூலம் ஆசிய அபிவிருத்தி வங்கியின் நிதியுதவியின் கீழ் நடைமுறைப்படுத்தப்படுகின்ற யாழ்ப்பாணம்-கிளிநொச்சி நீர்வழங்கல் கருத்திட்டத்தின் தாளையடி கடல் நீரை நன்னீராக்கும் சுத்திகரிப்பு நிலையம் திறந்து வைக்கப்பட்டது நேற்று திறந்து வைக்கப்பட்டது.
+The Jaffna-Kilinochchi Water Supply Project, funded by the Asian Development Bank and the French Development Bank, aims to provide safe drinking water to 300,000 people in Jaffna and Kilinochchi districts. The $55 million seawater desalination plant, using advanced RO technology, produces 24 million liters of safe drinking water daily, significantly improving the water supply situation in the region.
 
-நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமானின்  அழைப்பின்பேரில்,   ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நேற்று வைபவ ரீதியாக பொதுமக்களின் பாவனைக்காக திறந்து  வைக்கப்பட்டது.
+🟩
 
-குறிப்பாக யாழ்ப்பாண மக்கள் நீண்டகாலமாக எதிர்நோக்கும் குடிநீர்ப் பிரச்சினைக்கு தீர்வாக தாளையடி கடல் நீரை நன்னீராக்கும் ஆலை இத்திட்டமானது 266 மில்லியன் அமெரிக்க டொலர் ரூபாய் நிதி ஓதுக்கீட்டின் மூலம் அமைக்கப்பட்டு மக்கள் பாவனைக்காக திறந்துவைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+The Jaffna-Kilinochchi Water Supply Project, which is being implemented under the assistance of the Asian Development Bank through the National Water Supply and Drainage Board, was opened yesterday.
+
+At the invitation of Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman, President Ranil Wickremesinghe was opened yesterday for public use.
+
+It is noteworthy that the plant, especially the people of Jaffna, have been set up by the US $ 266 million rupee fund and opened for public use.
+
+The Sri Lankan government was launched in 2011 with the help of the Asian Development Bank and the French Development Bank to meet the drinking water needs of the people of Jaffna and Kilinochchi district.
+
+The project is also aimed at providing safe drinking water to 300,000 people in the districts of Jaffna and Kilinochchi and improve the health of 80 thousand passengers in Jaffna in the Northern Province of Sri Lanka.
 
 ...
 
 [Data](articles/ad38b750.json)
+
+[Extended Data](ext_articles/ad38b750.ext.json)
 
 ---
 
@@ -2245,25 +2271,5 @@ A copy of the 'Vision 2030 and Five Year Economic Plan' provided by the Ceylon C
 [Data](articles/83f47e43.json)
 
 [Extended Data](ext_articles/83f47e43.ext.json)
-
----
-
-### Sri Lanka first attacks
-
-*2024-08-02 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199484) · `si`
-
-Today marks the start of the three-match ODI series between Sri Lanka and India. Sri Lanka's captain, Charith, chose to bat after winning the toss.
-
-🟩
-
-The first match will be held today (02), commences the three-match ODI series between Sri Lanka and India.
-
-Sri Lanka captain Charith won the toss and elected to bat.
-
-◼️
-
-[Data](articles/0e494421.json)
-
-[Extended Data](ext_articles/0e494421.ext.json)
 
 ---

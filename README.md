@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 08:03:20**
+As of **2024-08-03 08:24:15**
 
 ## Newspaper Stats
 
-*Scraped **38,734** Articles*
+*Scraped **38,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ dailyftlk | 2,494
 adalk | 3,554
 adaderanalk | 4,482
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,811
+tamilmirrorlk | 4,812
 virakesarilk | 6,133
-adaderanasinhalalk | 6,527
+adaderanasinhalalk | 6,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,734 (100.0%) of 38,734 articles have been extended.
+38,735 (100.0%) of 38,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### இன்றைய காலநிலை தொடர்பான அறிவிப்பு
+
+*2024-08-03 08:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-தொடர்பான-அறிவிப்பு/175-341493) · `ta`
+
+சப்ரகமுவ மாகாணத்திலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலயவில் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேலும், மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் மாத்தளை மாவட்டங்களிலும் பல தடவைகள் மழைப்பெய்யக்கூடும்.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் ஒரு சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளில் 50  கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+
+◼️
+
+[Data](articles/76252ec6.json)
+
+---
+
+### ණය ගැනීම ආර්ථිකය කඩාවැටීමට හේතුවක් බව ජනපති කියයි
+
+*2024-08-03 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199506) · `si`
+
+නව ආර්ථික හා දේශපාලන ක්‍රමවේදය ඔස්සේ රට ඉදිරියට ගෙන යාමට එක්වීම විද්වතුන්ගේ මෙන්ම වෘත්තීයවේදීන්ගේ වගකීමක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පවසන්නේ මැතිවරණ වේදිකාවල විවිධ පොරොන්දු දෙමින් එය ඉටුකීරීම සඳහා ණය ගැනීම මත මෙරට ආර්ථිකය මෙන්ම දේශපාලනයද කඩා වැටුණු බවය.
+
+යාපනය දිස්ත්‍රික්කයේ විද්වතුන්, වෘත්තීයවේදීන් සහ ව්‍යවසායකයින් සමඟ ඊයේ (02) පැවති හමුවකදී ජනාධිපතිවරයා මේ බව පැවසීය.
+
+පෙර සිදුවූ වැරදි යළි සිදුනොවීමට වග බලාගනිමින් නව ආර්ථික සහ දේශපාලන ක්‍රමවේදයක් ඔස්සේ රට ගොඩනැගීම සඳහා ගන්නා උත්සාහයට දායක වීම මෙරට විද්වතුන්ගේ මෙන්ම වෘත්තීයවේදීන්ගේ වගකීමක් බවත් ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/8667cbc1.json)
+
+---
+
+### Animal Manufacturers Association protests against importing eggs
+
+*2024-08-03 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199505) · `si`
+
+The Animal Manufacturers Association protests Sri Lanka's decision to import eggs, fearing it'll harm the local industry. The SLFP counters this, stating they plan to regulate imports to support promotions. Despite concerns, there's hope for egg and chicken supply during the upcoming festive season.
+
+🟩
+
+The Government of Sri Lanka (SLFP) says that the government has decided to import the eggs to prepare a system to regulate a system of promotion.
+
+President of the Association Ajith Gunasekera says that the local industry will be destroyed by the importation of eggs without forming such a methodology.
+
+However, he further stated that there is a possibility of providing eggs and chicken without short festive season.
+
+◼️
+
+[Data](articles/2f8baaef.json)
+
+[Extended Data](ext_articles/2f8baaef.ext.json)
+
+---
 
 ### The urban congregation is elected to the Urban Council
 
@@ -2201,69 +2261,5 @@ Gangaramma Gnanissara Thero, the main Sangha Leaders of the new Korale in Hunupi
 [Data](articles/4c3bb2a8.json)
 
 [Extended Data](ext_articles/4c3bb2a8.ext.json)
-
----
-
-### Galaboda Gnanissara Thero is Ven. Hunupitiya Ranga Paramathi
-
-*2024-08-02 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199483) · `si`
-
-Ven. Galaboda Gnanissara Thero, also known as Ven. Hunupitiya Ranga Paramaiththi, a prominent figure in the Sasanawa and Social Mission, was hospitalized in Colombo at 81 years old.
-
-🟩
-
-He was admitted to a private hospital in Colombo today (02).
-
-The 81st was the 81-year-old he was involved in the Sasanawa and Social Mission.
-
-◼️
-
-[Data](articles/40606f95.json)
-
-[Extended Data](ext_articles/40606f95.ext.json)
-
----
-
-### Chief Incumbent of Hunupitiya Gangaramaya Temple passes away
-
-*2024-08-02 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100942/chief-incumbent-of-hunupitiya-gangaramaya-temple-passes-away) · `en`
-
-The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly known as “Podi Hamuduruwo”, has passed away, a short while ago.
-
-Ven. Galaboda Gnanissara Thero was aged 81 at the time of his passing.
-
-Sources said that Thero was receiving treatment at a private hospital in Colombo.
-
-◼️
-
-[Data](articles/52e7cef0.json)
-
-[Extended Data](ext_articles/52e7cef0.ext.json)
-
----
-
-### Indigo launches flight from September to Chennai - Jaffna
-
-*2024-08-02 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190081) · `ta`
-
-Indigo Airlines introduces daily flights from Chennai to Jaffna starting September 1st, enhancing connectivity. This route marks Indigo's first service in Sri Lanka, reflecting high demand from Indian travelers keen to explore Jaffna.
-
-🟩
-
-Indigo Airlines will launch a new flight to Jaffna to improve the international airline.
-
-Accordingly, Indigo will launch a daily flight between Chennai and Jaffna from the 1st of September.
-
-Jaffna service is to begin with the airline in Colombo alone in Sri Lanka.
-
-In June 25.2 (28,631) and 26.7 (26,830) per cent of the 2023 per cent from India.
-
-Most people are eager to visit Jaffna. In this case, it also reflects the growing need for flight between Chennai and Jaffna.
-
-◼️
-
-[Data](articles/d424bcca.json)
-
-[Extended Data](ext_articles/d424bcca.ext.json)
 
 ---

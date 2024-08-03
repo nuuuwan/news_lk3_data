@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 23:55:50**
+As of **2024-08-04 00:08:05**
 
 ## Newspaper Stats
 
-*Scraped **38,817** Articles*
+*Scraped **38,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,559
 adaderanalk | 4,500
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,823
+tamilmirrorlk | 4,824
 virakesarilk | 6,145
 adaderanasinhalalk | 6,556
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,813 (100.0%) of 38,817 articles have been extended.
+38,817 (100.0%) of 38,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### மக்களே.. இவர்களை கண்டால் உடனடியாக தகவல் தாருங்கள்
+
+*2024-08-03 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-இவர்களை-கண்டால்-உடனடியாக-தகவல்-தாருங்கள்/175-341520) · `ta`
+
+கிளப் வசந்த உட்பட இருவரை சுட்டுக் கொலை செய்த சம்பவத்துடன் தொடர்புடைய மூன்று சந்தேகநபர்களைக் கைது செய்வதற்காக பொலிஸார், பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+இந்தக் குற்றச் செயல் தொடர்பில் மூன்று சந்தேகநபர்கள் விசாரணை அதிகாரிகளால் அடையாளம் காணப்பட்டுள்ளதுடன், சந்தேகநபர்களின் 03 புகைப்படங்களை பொலிஸார், ஊடகங்களுக்கு வெளியிட்டுள்ளனர்.
+
+01. முழுப்பெயர் – தாருகர வருண இந்திக்க டி சில்வா அல்லது “சங்க”
+
+03. முழுப்பெயர் - முதுவா துர தரிந்து மதுசங்க டி சில்வா அல்லது "பஹிரவயா"
+
+மேற்குறிப்பிட்ட சந்தேக நபர்கள் தொடர்பில் ஏதேனும் தகவல் தெரிந்தால் பின்வரும் தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொள்ளுமாறு பொலிஸார், பொதுமக்களை கோரியுள்ளனர்.
+
+◼️
+
+[Data](articles/24998bad.json)
+
+---
 
 ### Fanindu Hasaranga loses the rest
 
@@ -291,6 +311,8 @@ Several types of building materials produced by politically connected businesses
 ...
 
 [Data](articles/d9333179.json)
+
+[Extended Data](ext_articles/d9333179.ext.json)
 
 ---
 
@@ -1280,6 +1302,8 @@ There was no immediate information on when the old site would be restored. Depar
 
 [Data](articles/399d1a2c.json)
 
+[Extended Data](ext_articles/399d1a2c.ext.json)
+
 ---
 
 ### India’s INS Shalki submarine visits Sri Lanka’s Colombo port
@@ -1301,6 +1325,8 @@ Sumbarines INS Karaj had visited Colombo in February 2024 and INS Vagir had visi
 ◼️
 
 [Data](articles/bf8edc7f.json)
+
+[Extended Data](ext_articles/bf8edc7f.ext.json)
 
 ---
 
@@ -1800,6 +1826,8 @@ After a forex crisis, the island nation is in a drive to increase exports, parti
 
 [Data](articles/44fc7b80.json)
 
+[Extended Data](ext_articles/44fc7b80.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -2255,25 +2283,5 @@ Speaking at a press conference at the Opposition leader’s office in Colombo, M
 [Data](articles/06f44b2e.json)
 
 [Extended Data](ext_articles/06f44b2e.ext.json)
-
----
-
-### Presidential race expands to 14 candidates
-
-*2024-08-03 00:08:53* · [`dailyftlk`](https://www.ft.lk/news/Presidential-race-expands-to-14-candidates/56-765098) · `en`
-
-Four additional candidates submitted their cash deposits for the upcoming Presidential election yesterday bringing the total number of candidates to 14.
-
-According to the Election Commission, the deposits were placed by K. Ananda Kularatne, Nawa Sihala Urumaya’s Sarath Manamendra, Akmeemana Dayaratna Thera, and Battaramulle Seelaratne Thera.
-
-Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Sarath Keerthirathne, Oshala Herath, A.S.P Liyanage, P.W.S.K Bandaranayake and Wijeyadasa Rajapakshe, K.K Piyadasa, Siritunga Jayasuriya, and Ajantha de Zoysa.
-
-According to the Election Commission, nominations will be accepted until 15 August. Election Commission Chairman R.M.A.L. Rathnayake has advised candidates to submit cash deposits early to avoid potential last-minute issues. The Commission has officially announced that the Presidential election will take place on 21 September 2024.
-
-◼️
-
-[Data](articles/b4cc8d29.json)
-
-[Extended Data](ext_articles/b4cc8d29.ext.json)
 
 ---

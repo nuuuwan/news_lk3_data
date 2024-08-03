@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 21:05:58**
+As of **2024-08-03 21:20:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,803 (100.0%) of 38,804 articles have been extended.
+38,804 (100.0%) of 38,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### ලොරියේ හුලං ඇරපු පොලිස් නිලධාරියාගේ වැඩ තහනම්
+### The work of Hulang opening police officer suspended
 
 *2024-08-03 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199530) · `si`
 
-වත්තල පොලීසියට අනුයුක්ත රථවාහන රාජකාරී සිදුකරන පොලිස් සැරයන්වරයකු මාර්ගයේ නවතා තිබූ ලොරි රථයක ඉදිරිපස රෝදයේ හුළං යවන රූපරාමු පෙළක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය විය.
+A police officer in Wattala was suspended after causing a traffic obstruction by circulating a lorry's front wheel. The incident led to charges being filed against him, with the police stating it was a unique case.
 
-පොලීසිය පැවසුවේ අදාළ පොලිස් සාජන්වරයා සිදුකරන එම ක්‍රියාව සම්පූර්ණයෙන්ම අනීතික ක්‍රියාවක් බැවින් අද (03) සිට වහාම ක්‍රියාත්මක වන පරිදි එම නිලධාරියාගේ වැඩ තහනම් කළ බවය.
+🟩
 
-මේ අතර චෝදනා පත්‍රයක් ඔහුට ලබාදී අදාළ සිදුවීම පිළිබඳව විමර්ශනයක් සිදුකරන බවද පොලීසිය වැඩිදුරටත් පැවසීය.
+The front wheel of the front wheel, a lorry, has been circulated in the front wheel of a lorry at a police sergeant at the Wattala Police.
 
-එම පොලිස් නිලධාරියා එහිදී පවසන්නේ මාර්ගයේ ගමනාගමනයට බාධාවීම හේතුවෙන් එලෙස හුළං යැවූ බවය.
+Police said that the act was completely unique to the police, as the official was suspended today (03).
+
+Meanwhile, the police further stated that a charge sheet will be issued to the incident.
+
+The police officer says that the wind has been sent as a result of the obstacle to traffic.
 
 ◼️
 
 [Data](articles/9598bf0d.json)
+
+[Extended Data](ext_articles/9598bf0d.ext.json)
 
 ---
 

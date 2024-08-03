@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 17:05:53**
+As of **2024-08-03 17:20:53**
 
 ## Newspaper Stats
 
-*Scraped **38,786** Articles*
+*Scraped **38,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,494
+adaderanalk | 4,495
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,820
-virakesarilk | 6,140
-adaderanasinhalalk | 6,545
+virakesarilk | 6,144
+adaderanasinhalalk | 6,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,786 (100.0%) of 38,786 articles have been extended.
+38,786 (100.0%) of 38,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### පැරෂුට් අනතුරක්
+
+*2024-08-03 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199526) · `si`
+
+◼️
+
+[Data](articles/f565d12b.json)
+
+---
+
+### SLPP to suspend members defying party decisions
+
+*2024-08-03 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100970/slpp-to-suspend-members-defying-party-decisions) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) says that steps will be taken to suspend the party membership of anyone who acts against the party’s decisions regardless of their positions.
+
+The General Secretary of the SLPP Sagara Kariyawasam has informed in writing that this decision was unanimously arrived at by the Politburo of the SLPP.
+
+Furthermore, the SLPP mentioned that against a backdrop where the party has adopted proposals to field a candidate of the party for the 2024 presidential election, if any member of the party presents himself as a presidential candidate without the knowledge of the party or acts directly or indirectly against the candidate presented by the party, disciplinary action will be taken against that member regardless of the position held by that member in the party, and the party membership of the person in question will be suspended.
+
+...
+
+[Data](articles/0c593e6c.json)
+
+---
+
+### තරුණ තරුණියන්ට රැකියා ලබන වසරේ සිට - ජනපති
+
+*2024-08-03 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199525) · `si`
+
+තරුණ තරුණියන්ට රැකියා ලබාදීමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+රාජ්‍ය අංශයේ මෙන්ම පෞද්ගලික අංශයේ ද නව රැකියා අවස්ථා ඔවුන් වෙනුවෙන් උදාකරදීම තම අරමුණ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+කොවිඩ් වසංගතය සහ ආර්ථික කඩා වැටීම හමුවේ ඉකුත් වසර 04 පුරා මෙරට තරුණ තරුණියන්ට රැකියා ලබාදීමට නොහැකි වූ බව පෙන්වා දුන් ජනාධිපතිවරයා රට බංකොළොත්භාවයෙන් නිදහස් කර ගැනීමත් සමග නව රැකියා අවස්ථාවන් බිහි කිරීමේ වැඩසටහන් ක්‍රියාත්මක කරමින් රට ඉදිරියට ගෙන යාමේ අවස්ථාව උදා වී ඇති බවද කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ යාපනය වාලම්පූරි හෝටලයේ අද (02) පැවති තරුණ හමුවට එක් වෙමිනි.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ තරුණ තරුණියන්ගේ අපේක්ෂාවන් රජය කිසිවිටෙකත් අමතක කර නොමැති බවය.
+
+මූල්‍ය ගැටලු හමුවේ වුවද ගුරු පුරප්පාඩු පිරවීම වෙනුවෙන් මේ වසරේ රජය මුදල් වෙන් කළ බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගුරුවරුන් බඳවා ගැනීම වෙනුවෙන් ලබන වසරේ වැඩි මුදලක් ලබා දීමට කටයුතු කරන බවද කියා සිටියේය.
+
+...
+
+[Data](articles/365eb5b4.json)
+
+---
 
 ### Special traffic plan in Colombo on Monday
 
@@ -49,6 +97,20 @@ Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
 [Data](articles/8bbbb503.json)
 
 [Extended Data](ext_articles/8bbbb503.ext.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பு சஜித் பிரேமதாசவுக்கு ஆதரவு
+
+*2024-08-03 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190180) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சியும் ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பும் தீர்மானித்துள்ளன.
+
+கொழும்பில் இன்று சனிக்கிழமை (03) நடைபெற்ற விசேட கலந்துரையாடலில் இந்த தீர்மானம் எட்டப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2b806021.json)
 
 ---
 
@@ -73,6 +135,24 @@ According to foreign media reports, Kamala Harris is to name his Deputy Presiden
 [Data](articles/5c30042f.json)
 
 [Extended Data](ext_articles/5c30042f.ext.json)
+
+---
+
+### பல வேட்பாளர்கள் களத்தில் ! : 50 வீதமான வாக்குகளை எந்த வேட்பாளரும் பெறாவிடின் யார் ஜனாதிபதி ?
+
+*2024-08-03 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190183) · `ta`
+
+இலங்கையில் ஜனாதிபதித் தேர்தல்கள் 2024 ஆம் ஆண்டு செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள நிலையில், போட்டியிடவுள்ள ஜனாதிபதி  வேட்பாளர்களின் எண்ணிக்கை நாளுக்கு நாள் அதிகரித்துக் கொண்டே போகின்றது.
+
+இதேவேளை, ஜனாதிபதித் தேர்தலில் யாருக்கு எவ்வாறு வாக்களிப்பதென்ற குழப்பம் மக்கள் மத்தியில் எழ ஆரம்பித்துவிட்டது. ஜனாதிபதி தேர்தலில் போட்டியிட ஆகஸ்ட்  2ஆம் திகதி 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். ஆகஸ்ட் 14 ஆம் திகதி நண்பகல் வரை கட்டுப்பணம் செலுத்தும் காலம் உள்ளதால் வேட்பாளர்களின் எண்ணிக்கையும் அதிகரிக்க வாய்புக்கள் உள்ளன.
+
+இந்நிலையில், ஜனாதிபதித் தேர்தலில் களமிறங்கும் வேட்பாளர்கள் ஆளுக்கு ஆள் மூலை முடுக்கு எங்கும் தங்களது தேர்தல் பிரச்சார நடவடிக்கைகளையும் வாக்குறுதிகள் வழங்கும் செயற்பாடுகளையும் ஆரம்பித்துள்ளனர்.
+
+தற்போதைய சூழ்நிலையில், பாரம்பரிய ஊடகங்களைத் தாண்டி சமூக ஊடகங்களின் பலம் தேர்தல் காலங்களில் கடுமையான செல்வாக்கு செலுத்தும் போக்கு காணப்படுகின்றது. உலக நாடுகளில் இடம்பெற்ற தேர்தல்களிலும் சமூக ஊடகங்களின் தாக்கங்களை நாம் அவதானித்துள்ளோம்.
+
+...
+
+[Data](articles/d868c616.json)
 
 ---
 
@@ -193,6 +273,40 @@ The car broke in two. Police said the situation of a victim was worrisome ...
 [Data](articles/1d57b7f8.json)
 
 [Extended Data](ext_articles/1d57b7f8.ext.json)
+
+---
+
+### கடந்த ஆண்டில் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்திற்கு 42.76 பில்லியன் ரூபா வருமானம்
+
+*2024-08-03 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190168) · `ta`
+
+கடந்த ஆண்டில் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் 42.76 பில்லியன் ரூபா வருமானத்தை ஈட்டியுள்ளது.
+
+இதற்கு அதிக சுற்றுலா பயணிகள் வருகையும் மற்றும் கடவு சீட்டு வழங்கல் செயற்பாடும் காரணமாகும்.
+
+குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் கடந்த ஆண்டில் 28.1 பில்லியன் ரூபாவை வருமானத்தை இலக்காக கொண்டிருந்தது. ஆனால் 2022 ஆம் ஆண்டில் ஈட்டிய 23.83 பில்லியன் ரூபாய் வருமானத்தை விட 42.76 பில்லியன் ரூபாய் வருமானத்தை ஈட்டி சாதனை படைத்துள்ளது.
+
+அதன்படி,  இலத்திரனியல் பயண அங்கீகாரத்தின்  (ETA) மூலம் 17.74 பில்லியன் ரூபாவும், கடவுசீட்டு வழங்குதல் மற்றும் திருத்தம் மூலம் 12.51 பில்லியன் ரூபாவும், விசா வழங்கல்/நீடிப்பு மூலம் 7.09 ரூபாவும், தூதரகங்கள் ஊடான கடவுச்சீட்டு விநியோக செயற்பாடுகள் மூலம் 3.82 பில்லியன் ரூபாவும் வருமானமாக ஈட்டப்பட்டுள்ளது.
+
+இதேவேளை, கடந்த வருடத்தில் 910,582 கடவுச்சீட்டுகளை குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் வழங்கியுள்ளது. 2022 ஆம் ஆண்டு வழங்கப்பட்ட  911,689 கடவுச்சீட்டுகளுடன் ஒப்பிடுகையில் 2023 ஆம் ஆண்டு  பிராந்திய அலுவலகங்கள்  191,557 கடவுச்சீட்டுகளை வழங்கியுள்ளமை தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/f041da23.json)
+
+---
+
+### தேர்தல் சட்ட மீறல்கள்  தொடர்பில்  45 முறைப்பாடுகள் ; பெப்ரல் அமைப்பு
+
+*2024-08-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190179) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கு முன்னதாக தேர்தல்  சட்டமீறல்கள் தொடர்பில் 45 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக  பெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+
+இந்த முறைப்பாடுகளில் பெரும்பாலானவை அரச அதிகாரத்தை துஷ்பிரயோகம் செய்வதை உள்ளடக்கியதாக பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a24bf002.json)
 
 ---
 
@@ -2093,169 +2207,5 @@ Former local councilors, said that the leaders of the Sri Lanka General Front ha
 [Data](articles/a123347f.json)
 
 [Extended Data](ext_articles/a123347f.ext.json)
-
----
-
-### Electronic Visa Distribution Procedure: Medieval Staff of the High Court
-
-*2024-08-02 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190130) · `ta`
-
-The High Court has temporarily halted a Cabinet decision to switch from traditional to electronic visa distribution methods.
-
-🟩
-
-The High Court today (2) issued an interim mark on Friday (2) to weaken the Cabinet decision to change the process from the practice of electronic visa distribution.
-
-◼️
-
-[Data](articles/7207b0e0.json)
-
-[Extended Data](ext_articles/7207b0e0.ext.json)
-
----
-
-### Racketeer selling seats in the Esala Perahera
-
-*2024-08-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199497) · `si`
-
-Private businessmen are accused of inflating ticket prices for the Kandy Esala Perahera, causing complaints from locals and tourists alike. The Dalawadana Nilame urges the public to report any unfair practices during the temple procession.
-
-🟩
-
-Diyawadana Nilame Pradeep Nilame says that private businessmen have received complaints for the Kandy Esala Perahera.
-
-He points out that the processors will be unfamiliar with local and internationally by selling the procession seats at high prices.
-
-The Dalawadana Nilame has requested the public to inform the procession of the temple, which is unfairly unfairly.
-
-◼️
-
-[Data](articles/f995f338.json)
-
-[Extended Data](ext_articles/f995f338.ext.json)
-
----
-
-### In the presence of Sri Lanka's third -level South Korea and Japan in the list of 30% of the forest, a group of government accounts
-
-*2024-08-02 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190129) · `ta`
-
-Sri Lanka ranks third globally for population density and forest cover at 30%. A government committee investigated forestry issues, highlighting concerns over the release of wilderness areas and tourism impacts. Recommendations included releasing undeclared wilderness areas, improving tourist facilities without harming the forest, and addressing revenue collection from activities like granite quarrying and hydroelectric projects. The committee also noted the importance of distinguishing between legal and illegally harvested plants, such as Vallapatta and Aquilaria, to combat smuggling.
-
-🟩
-
-Sri Lanka is the third in the world countries where the population concentration is 300 per kilometer and the forest area is 30 per cent.. Officials of the Forest Department said that South Korea and Japan are in the presence of Sri Lanka.
-
-When the Committee on Government Accounts met with its President Lasantha Alagavanna recently. The Forest Department's Committee Committee was summoned to investigate the reports of the Auditor General for 2020,2021 and 2022.
-
-Officials of the Department of Department pointed out that the wilderness in the world is 31 per cent and that the wilderness of Sri Lanka is very good at 30 per cent.
-
-The committee questioned the authorities about the release of the entire wilderness of Sri Lanka in the gazette notification.
-
-As of 2018, about 1.4 million hectares have been released in the Forest Gazette, and about two lakhs and fifty thousand hectares have not been released in the Gazette notification.
-
-...
-
-[Data](articles/5f95baf0.json)
-
-[Extended Data](ext_articles/5f95baf0.ext.json)
-
----
-
-### 2024 Presidential Election: 14 candidates place deposits so far
-
-*2024-08-02 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100954/2024-presidential-election-14-candidates-place-deposits-so-far) · `en`
-
-Four more candidates have placed their deposits today (Aug 02) in order to contest the 2024 Presidential Election, the Election Commission said.
-
-Accordingly, 14 candidates in total have placed their deposits with the Election Commission thus far.
-
-This includes five independent candidates whose names have been nominated by a voter, eight candidates from recognized political parties and one candidate from other political parties.
-
-The independent candidates who have placed bonds today are K. Ananda Kularatne and Ven. Akmeemana Dayaratane Thero, while Sarath Manamendra of ‘Nawa Sihala Urumaya’ and Ven. Battaramulle Seelaratane Thero of ‘Janasetha Peramuna’ have also placed their deposits with the elections regulatory body.
-
-Earlier, deposits had been placed on behalf of the independent candidates President Ranil Wickremesinghe and former MP Sarath Keerthirathne while eight others placed their bonds from recognized and other political parties.
-
-...
-
-[Data](articles/c080cb6b.json)
-
-[Extended Data](ext_articles/c080cb6b.ext.json)
-
----
-
-### Explanation for Jupiter's Secretary
-
-*2024-08-02 18:57:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-செயலாளருக்கு-விளக்கமறியல்/175-341475) · `ta`
-
-Jupiter, a state minister, and his party coordinator were remanded until the 15th by the Batticaloa Magistrate's Court for bribery involving a building contractor's permit. They were arrested by S. Viyalendran, the Secretary of State, and taken to the Polonnaruwa Police Station.
-
-🟩
-
-The Batticaloa Magistrate's Court today (2) ordered that the Minister of State for the Bribery Corruption Commission in Batticaloa, Jupiter, Jupiter, and his party's coordinator, were remanded until the 15th.
-
-The Bribery Commission (Bribery Annual ", who was in rehabilitation on the Kalladi beach yesterday (1), was arrested by the Secretary of State S. Viyalendran and his party coordinator who had bribed a building contractor to grant permission to excavate the river soil in Batticaloa.
-
-The two arrested were taken to the Polonnaruwa Police Station and the Commission was produced before the Batticaloa Magistrate's Court on Friday after the Bribery Corporation.. Remble
-
-◼️
-
-[Data](articles/f2d72728.json)
-
-[Extended Data](ext_articles/f2d72728.ext.json)
-
----
-
-### Parliament gathers from 6th to 9 August
-
-*2024-08-02 18:55:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අගෝස්තු-6-සිට-9-දක්වා-රැස්වෙයි/11-411172) · `si`
-
-The Parliament meets from August 6th to 9th, with special sessions including committee meetings, discussions on fiscal status reports, and legislative readings.
-
-🟩
-
-Special Secretary General of Parliament Kushani Rohanadera said that the Parliament would meet on the 6th to 9th. The weekly proceedings regarding the week will be decided at the Committee on Parliamentary Affairs chaired by Hon. Mahinda Yapa Abeywardena.
-
-Thus Tuesday 6th August to 10:00 am to 10:00 am from 9.30 am to 10.30 am. According to the proposal to be built in the Nilwala River in the Nilwala River in the Nilwala River, Matara, has decided to postpone the church postponement.
-
-Wednesday 7th August to 10:00 am to 10:00 am From 9:30 am to 10:00 pm. According to a proposal by the Government, according to a proposal by the Government's proposal to 5.30 am to 2:30 pm, the councils on the Mid Fiscal Status Report will be held.
-
-Thursday August 8th is reserved for questions that require verbal answers to 10:30 am.The second reading is decided to conduct a second reading for two students (Amendment) Bills from 10.30 am to 2 pm.
-
-...
-
-[Data](articles/f897c642.json)
-
-[Extended Data](ext_articles/f897c642.ext.json)
-
----
-
-### Thousands of Sri Lankans trapped in the conflict
-
-*2024-08-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதல்-வலயத்தில்-சிக்கியுள்ள-ஆயிரக்கணக்கான-இலங்கையர்கள்/175-341474) · `ta`
-
-In response to Middle East tensions post-Hamas leader's assassination, Sri Lanka's Minister of Labor and Foreign Employment, Manusha Nanayakkara, announced measures to repatriate over 30,000 Sri Lankan workers from Israel, Jordan, Lebanon, Egypt, and potentially Saudi Arabia and Kuwait. The government is allocating $5 million for safe transportation and ensuring no fuel shortages. Workers are advised to stay put until it's safe to return, with accommodations and support arranged upon arrival.
-
-🟩
-
-A press conference was held at the Ministry of Labor and Foreign Employment on the rising war situation in the Middle East after the assassination of the head of the political wing of the Hamas organization in Iran
-
-The Minister of Labor and Foreign Employment, Manusha Nanayakkara
-
-Due to the tensions in the Middle East, Sri Lankan diaspora workers will be forced to return to the country.
-
-According to the president's work, $ 5 million has been allocated to safely bring Sri Lankan workers to Israel, Lebanon, Jordan and Egypt to the country.
-
-The Minister pointed out that as a responsible government, we are making all necessary arrangements to prevent fuel and gas shortage in the country due to the situation in the Middle East.
-
-The minister said that more than 12,000 Sri Lankan workers in Israel alone, 15,000 in Jordan, 7,500 in Lebanon and nearly 500 Bayer clash in Egypt.
-
-The Minister urged Sri Lankan workers to act safely without crossing the borders.
-
-...
-
-[Data](articles/5a4bd7b4.json)
-
-[Extended Data](ext_articles/5a4bd7b4.ext.json)
 
 ---

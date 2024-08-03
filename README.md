@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 14:55:05**
+As of **2024-08-03 15:06:05**
 
 ## Newspaper Stats
 
-*Scraped **38,770** Articles*
+*Scraped **38,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,491
+adaderanalk | 4,492
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,816
+tamilmirrorlk | 4,817
 virakesarilk | 6,137
-adaderanasinhalalk | 6,539
+adaderanasinhalalk | 6,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,770 (100.0%) of 38,770 articles have been extended.
+38,770 (100.0%) of 38,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### වන ගහනය අතින් ලෝකයේ තුන්වැනි තැන ලංකාවට
+
+*2024-08-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199519) · `si`
+
+වන ගහනය සියයට 30 සීමාවේ පවත්වාගෙන යන ලොව රටවල් තුන අතර ශ්‍රී ලංකාව පසුවන බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේදී අනාවරණය වී තිබේ.
+
+ශ්‍රී ලංකාවට අමතරව එලෙස වනාන්තර පද්ධතියක් පවත්වාගෙන යනු ලබන්නේ දකුණු කොරියාව, ජපානය යන රවටල් දෙක පමණක් බව කාරක සභාවේදී වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් පෙන්වාදී ඇත.
+
+ලෝක‍යේ රටවල් තුළ පවතින වනාන්තරවල ප්‍රතිශතය 31% ලෙස සලකන අතර මෙරට වනාන්තර ප්‍රතිශතය 30% මට්ටමේ පැවතීම ඉතා යහපත් තත්ත්වයක් වන බව ද එම නිලධාරීන් සඳහන් කරයි.
+
+කෙසේවෙතත් ශ්‍රී ලංකාවේ සමස්ත වනාන්තර පද්ධතිය ගැසට් නොකිරීම පිළිබඳව කාරක සභාව විසින් නිලධාරීන්ගෙන් විමසා තිබේ.
+
+2018 වන විට හෙක්ටයාර මිලියන 1.4 ක පමණ වනාන්තර ගැසට් කර ඇති බවත් ගැසට් මගින් ප්‍රකාශයට පත් නොකළ වනාන්තර හෙක්ටයාර දෙලක්ෂ පනස්දහසක් පමණ පවතින බවත් ඊට පිළිතුරු ලබාදෙමින් වන සංරක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් සඳහන් කර තිබුණි.
+
+ඒ අනුව එම ගැසට් නොකළ වනාන්තර හැකි ඉක්මනින් ගැසට්  කිරීමට කටයුතු කරන ලෙස මෙහිදී කාරක සභා සභාපතිවරයා උපදෙස් ලබාදී ඇත.
+
+◼️
+
+[Data](articles/ebd3aacb.json)
+
+---
+
+### දයාසිරිගේ සහාය සජිත්ට
+
+*2024-08-03 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199518) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කරන බව පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+
+අද (03) කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ඒ බව සඳහන් කළේය.
+
+එම අවස්ථාව සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සමාජිකයින් වන තිලංග සුමතිපාල සහ රෝහණ ලක්ෂ්මන් පියදාස යන මහත්වරුන් ඇතුළ පිරිසක් එක්වී තිබුණි.
+
+එහිදී අදහස් දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසා සිටියේ, "අලුත් කණ්ඩායමකට රට භාර දෙන්නට නම් සමගි ජන බල සනධානයේ එවැනි ශක්තිමත් නායකයින් ගණනාවක් ඉන්නවා. ඒ අයත් එක්ක එකතුවෙලා මේ ගමන ඉදිරියට යා යුතුයි කියලා අපි විශ්වාස කරනවා. ඒ ක්‍රියාදාමය යනකොට ශ්‍රී ලංකා නිදහස් පක්ෂය අපේ අන්‍යයතාවය තියාගෙන පක්ෂය විදිහට වෙනම ඡන්ද ව්‍යාපාරයක් අපි ක්‍රියාත්ම කරනවා. අපේ ආදරණීය පාක්ෂිකයින්ගෙන් අපි ඉල්ලනවා අපි ගත්තේ මේ වෙලාවේ ගතයුතු නිවැරදිම තීරණය කියලා." යනුවෙනි.
+
+◼️
+
+[Data](articles/a32d1976.json)
+
+---
+
+### Dayasiri to back Sajith in Presidential Election
+
+*2024-08-03 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100967/dayasiri-to-back-sajith-in-presidential-election) · `en`
+
+Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera says that he will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/316ee4a5.json)
+
+---
+
+### யாழில் சர்வமதத் தலைவர்களை சந்தித்தார் ஜனாதிபதி
+
+*2024-08-03 14:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமதத்-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341498) · `ta`
+
+யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க சர்வமத தலைவர்களையும் சந்தித்து ஆசிப் பெற்றுக் கொண்டுள்ளார்.
+
+ஜனாதிபதி நேற்றைய தினம் நல்லை ஆதீனம் ஸ்ரீ சோமசுந்தரம் அவர்களை சந்தித்து ஆசிப்பெற்றுக் கொண்டதோடு யாழ்.ஆயாின் உத்தியோகப்பூர்வ இல்லத்திற்கு சென்று அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் அவர்களையும் சந்தித்து கலந்துரையாடியுள்ளார்.
+
+அதனைத்தொடர்ந்து நேற்று பிற்பகல் யாழ். நாக விகாரைக்குச் சென்று சமய வழிபாடுகளில் ஈடுபட்டு ஆசிகளைப் பெற்றுக் கொண்டு யாழ். ஸ்ரீ நாக விகாரையின் விகாராதிபதி மீகஹஜந்துபர சிறிவிமல நாயக்க தேரரை சந்தித்து நலன் விசாாித்தார்.
+
+மேலும், "பௌத்த இந்து சமய மன்றம்" சார்பில் அதன் தலைவர் கலாநிதி எம். மோகனை சந்தித்து கலந்துரையாடியுள்ளார். R
+
+◼️
+
+[Data](articles/e0a07345.json)
+
+---
 
 ### Belawatta accident: Car broke in two
 
@@ -2151,87 +2221,5 @@ Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. 
 [Data](articles/18d2e036.json)
 
 [Extended Data](ext_articles/18d2e036.ext.json)
-
----
-
-### Sri Lanka seeks details after getting OCC, IMF views on ISB restructure plan
-
-*2024-08-02 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-details-after-getting-occ-imf-views-on-isb-restructure-plan-175045/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sought further details after getting an initial assessment by the International Monetary Fund and the Official Creditor Committee on a restructure plan struck with sovereign bond holders, the Finance Ministry said.
-
-The IMF has to give a verdict on whether the debt plan is in line with a debt sustainability analysis and official creditors have to say whether it is fits the comparability of treatment.
-
-The statement did not say what the initial assessments indicated.
-
-“Once these have been received, it will be possible to engage further with bondholders on the basis of the information provided by these assessments and conclude the process,” the statement said.
-
-The International Monetary Fund concluded a mission to Sri Lanka. (Colombo/Aug02/2024)
-
-◼️
-
-[Data](articles/5d3b6bb0.json)
-
-[Extended Data](ext_articles/5d3b6bb0.ext.json)
-
----
-
-### Sri Lanka raises state pensions from September
-
-*2024-08-02 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-raises-state-pensions-from-september-175048/) · `en`
-
-ECONOMYENXT – Sri Lanka’s government pensioners will be paid an additional interim allowance of 3,000 rupees from September, State Minister for Finance Ranjith Siyambalapitiya said.
-
-The cost of the payments for the rest of 2024 will be 8.4 billion rupees, Minister Siyambalapitiya said.
-
-Sri Lanka has raised more taxes in 2024 helped by higher value added tax rates, a recovering economy and PAYE taxes on mostly from private sector workers.
-
-Sri Lanka has a bloated state with unemployed graduates being given non-existent jobs on top of a military expansion to fight the last civil war and there are calls to reduce the shrink by attrition, while allowing salaries of remaining people to be raised. (Colombo/Aug02/2024)
-
-◼️
-
-[Data](articles/cb9d2927.json)
-
-[Extended Data](ext_articles/cb9d2927.ext.json)
-
----
-
-### The highest number of tourist arrivals to visit Sinharaja this year
-
-*2024-08-02 17:22:58* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජය-බලන්න-ආපු-වැඩිම-සංචාරකයන්-ප්‍රමාණය-මේ-වසරේදී/11-411171) · `si`
-
-This year, Sinharaja forest saw its highest number of visitors, exceeding 35,000 tourists in a single month. The increase was noted during a Parliament session where it was emphasized that tourism should be managed sustainably to protect the forest.
-
-🟩
-
-The Forest Department officials pointed out that year this year, the highest local foreign tourists visited the World Heritage Sinharaja forest.. These facts were revealed at the Government Accounts Committee of the Parliament.
-
-Over 35000 tourists have come in this month to watch Sinharaja forest. The Chairman of the Chairman instructed officials to take a high tourist attraction to the tourist arrivals in a manner that does not damage the forest.
-
-◼️
-
-[Data](articles/a48fe718.json)
-
-[Extended Data](ext_articles/a48fe718.ext.json)
-
----
-
-### IMF continued support
-
-*2024-08-02 17:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-தொடர்ந்து-ஆதரவு/175-341472) · `ta`
-
-Sri Lanka's economic reforms, backed by IMF support, have led to real GDP growth, low inflation, higher revenue, and recovery for three straight quarters. However, more decisive action is needed to achieve a comprehensive and stable economic recovery benefiting all Sri Lankans.
-
-🟩
-
-The economic reforms implemented by the Sri Lankan authorities have congratulated the growth of real GDP, low inflation, increased revenue collection and building recovery for three consecutive quarters.
-
-It was reported that decisive progress is necessary in the reform agenda to ensure a broad -based and stable economic recovery to benefit all the people of Sri Lanka. Remble
-
-◼️
-
-[Data](articles/93580fef.json)
-
-[Extended Data](ext_articles/93580fef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 22:53:37**
+As of **2024-08-03 23:05:48**
 
 ## Newspaper Stats
 
-*Scraped **38,810** Articles*
+*Scraped **38,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,559
-adaderanalk | 4,499
+adaderanalk | 4,500
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,145
@@ -26,31 +26,65 @@ adaderanasinhalalk | 6,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,809 (100.0%) of 38,810 articles have been extended.
+38,810 (100.0%) of 38,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### අනුකම්පා සහ විරෝධතා මැද ඉමානේ රන් පදක්කමට ළං වෙයි
+### ‘Club Wasantha’ murder: Police seek public assistance to nab 3 suspects
+
+*2024-08-03 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100975/club-wasantha-murder-police-seek-public-assistance-to-nab-3-suspects) · `en`
+
+Sri Lanka Police said it is seeking public assistance in tracking down three suspects in relation to the shooting and killing of two individuals while causing injuries to four others in Athurugiriya on July 08, 2024.
+
+Police have also released photographs and details of the three suspects in question.
+
+Accordingly, any information regarding the relevant suspects are requested to be provided through the following contact numbers:
+
+1. OIC – Western Province South Crimes Division – 072 4222223
+
+Details and the photographs of the suspects are mentioned below:
+
+01. Waruna Indika de Silva alias “Sankha” – (NIC - 951350753V)
+
+02. Peti Harambage Ajith Rohana alias “Chandi” – (NIC – 199207801772)
+
+◼️
+
+[Data](articles/ec7f0003.json)
+
+---
+
+### Pity and protests get closer to the gold medal
 
 *2024-08-03 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199533) · `si`
 
-කාන්තාවක් ලෙස උපත ලැබූවත් ජාන පිහිටීමේ ස්වභාවය හේතුවෙන් ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙසින් හැඳින්වෙන ඇල්ජීරියානු බොක්සිං ක්‍රීඩිකා ඉමානේ කලීෆ් පැරිස් ඔලිම්පික් උළෙලේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීමට අද (03) සමත් වූවේය.
+An Algerian boxer, recognized as male but born female, advances to the semi-finals of the Innovaria Olympic Games, defeating a Sri Lankan opponent in the 66 kg category. Despite genetic tests confirming her biological sex as male, she competes in women's boxing, sparking controversy and protests. This case highlights the complexities surrounding gender identity in sports, with supporters advocating for her inclusion and critics questioning the fairness of competing against biological females.
 
-මෙරට වේලාවෙන් අද (03) රාත්‍රියේ පැවති කාන්තා කි.ග්‍රෑ. 66 බර පන්තියේ අර්ධ අවසන් පූර්ව වටයේ තරගයට ක්‍රීඩාකළ කලීෆ්, ඇගේ ප්‍රතිවාදී ක්‍රීඩිකාව වූ හංගේරියාවේ ලූකා හමෝරිව විනිසුරු ඒකමතික තින්දුවකින් (ලකුණු 5-0) පහසුවෙන් පරාජය කළාය.
+🟩
 
-ඒ අනුව ඇය අවසන් පූර්ව වටයේදී තායිලන්තයේ ජන්ජයම්  සුවන්නෆෙං සමගින් තරග වැඳීමට නියමිතව ඇත.
+Although she was born as a woman, Algerian boxer, known as a biologically man, was able to qualify for the semi-finals of the Innovaria Olympic Games.
 
-ජාන පිහිටීමේ ස්වභාවය සහ රුධිරයේ ටෙස්ටෙස්ටරෝන් ප්‍රතිශතය ඉහළ මට්ටමක පැවතීම හේතුවෙන් ඉමානේ කලීෆ්, කාන්තාවක් වුවත් ඇයව හැඳන්වෙන්නේ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙකු ලෙසින්.
+Women in Sri Lanka Today (03). Khalof, her rival, her rival, and Lukary, who was in the semi-finals of the semi-finals of the weight of the weight of the 66 class, was easily defeated by a unanimous grass (5-0 marks).
 
-ඒ හේතුවෙන් ඇය කාන්තා අංශය යටතේ තරග කිරීමට එරෙහිව ලොව පුරා විරෝධතා ඇතිවුණු අතර, තවත් පිරිසක් ඇය වෙනුවෙන් පෙනී සිටියේය.
+Accordingly, she is due to worship with Johnjjjjjjamyfenffenfenphs in Thailand.
 
-කෙසේ නමුත් ඇය තරග කිරීම මෙවර ඔලිම්පික් උළෙලේදී වැඩි කථා බහකට ලක්ව තිබෙන සිද්ධියකි.
+Although the genetic location location and blood testestorones in the blood, but she recognizes her as a biologically man.
+
+As a result, she protest against the women's consequences, and others stood up for her.
+
+However, it is an increase in a higher story at the Olympics this year.
+
+The Italian player left the match, while the match was held in 46 seconds, while the match was held in 46 seconds.
+
+After the match, the Italian player said that he never had such a blend.
 
 ...
 
 [Data](articles/99362fe5.json)
+
+[Extended Data](ext_articles/99362fe5.ext.json)
 
 ---
 
@@ -2229,29 +2263,5 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 [Data](articles/7df98466.json)
 
 [Extended Data](ext_articles/7df98466.ext.json)
-
----
-
-### The long -standing drinking water supply of the people of Jaffna and Kilinochchi has been fulfilled as a result of the president's commitment - BSM Charles
-
-*2024-08-02 23:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190135) · `ta`
-
-BSM Charles, Northern Province Governor, announced the completion of a long-term safe drinking water facility in Jaffna and Kilinochchi districts, attributing it to the President's dedication. The project, which began under the President's leadership as Prime Minister in 2015, received additional funding from the Asian Development Bank in 2017. This support enabled the expansion and operation of the seawater desalination plant, significantly benefiting the health and agriculture sectors of the region.
-
-🟩
-
-Northern Province Governor BSM Charles said that as a result of the president's dedication, the long -term safe drinking water facility was available on Friday (02) in the Jaffna and Kilinochchi districts.
-
-He said this while addressing the opening of the Sea Water Supply Center yesterday morning at the Jaffna -Kilinochchi Water Supply Project.. There he added:
-
-We should thank the President for helping to succeed in the massive drinking water project in the Northern Province. When he assumed office as Prime Minister in 2015, he gave the opportunity to revamp the entire project and get the necessary financial facilities.
-
-The project was further strengthened by signing an agreement to provide additional funding with the Asian Development Bank in 2017. While the agreement facilitated the operation of the seawater in the seawater, it helped to cover the additional cost of the project, including its construction and a five -year operation plan.
-
-...
-
-[Data](articles/7a4e15d0.json)
-
-[Extended Data](ext_articles/7a4e15d0.ext.json)
 
 ---

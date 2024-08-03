@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 16:52:45**
+As of **2024-08-03 17:05:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,784 (100.0%) of 38,786 articles have been extended.
+38,786 (100.0%) of 38,786 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
 
 [Data](articles/8bbbb503.json)
 
+[Extended Data](ext_articles/8bbbb503.ext.json)
+
 ---
 
-### කමලා හැරිස් ට බහුතරය
+### Majority to Kamala Harris
 
 *2024-08-03 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199524) · `si`
 
-2024 අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකත්වය ලබාගැනීම සඳහා අවශ්‍ය, පක්ෂ නියෝජිතයින්ගේ බහුතර මනාපය දිනාගැනීමට අමෙරිකානු උප ජනාධිපතිනි කමලා හැරිස් සමත්වී තිබේ.
+Kamala Harris becomes the first woman and person of color nominated for US president by the Democratic Party, securing the UMCatrician endorsement. She is set to run in 2024, potentially naming her Vice President soon.
 
-මේ සමග කමලා හැරිස් අමෙරිකානු ජනාධිපතිවරණයක් වෙනුවෙන් අපේක්ෂකත්වය ලද ආසියානු සම්භවයක් සහිත පළමු දේශපාලනඥවරිය බවට ද පත්වී ඇත.
+🟩
 
-ඒ අනුව ඉදිරි දිනකදී කමලා හැරිස් 2024 අමෙරිකානු ජනාධිපතිවරණයේ නිල ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකයා ලෙස නම් කෙරුණු ඇත.
+The US Presidential Reconciliation has been able to win the UMCatrician candidature of the US presidential election.
 
-ඒ සමග කමලා හැරිස් සිය උප ජනාධිපති නම් කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Kamala Harris has also become the first politician with an American presidential election.
+
+Accordingly, the next day, Kamala Harris 2024 was named as the official Democratic Party candidate of the US presidential election.
+
+According to foreign media reports, Kamala Harris is to name his Deputy President with this.
 
 ◼️
 
 [Data](articles/5c30042f.json)
+
+[Extended Data](ext_articles/5c30042f.ext.json)
 
 ---
 

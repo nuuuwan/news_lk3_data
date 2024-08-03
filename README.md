@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 14:07:07**
+As of **2024-08-03 14:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,767** Articles*
+*Scraped **38,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 2,494
 adalk | 3,557
 adaderanalk | 4,491
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,815
+tamilmirrorlk | 4,816
 virakesarilk | 6,137
-adaderanasinhalalk | 6,538
+adaderanasinhalalk | 6,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,766 (100.0%) of 38,767 articles have been extended.
+38,767 (100.0%) of 38,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### பெலவத்த விபத்தில்: கார் இரண்டாக உடைந்தது
+
+*2024-08-03 14:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341497) · `ta`
+
+நான்கு இளைஞர்களை ஏற்றிச் சென்ற சொகுசு கார் ஒன்று கட்டுப்பாட்டை இழந்து வேனுடன் மோதி பின்னர் பெலவத்த ராஜகிரிய வீதியில் மரத்தில் மோதி விபத்துக்குள்ளானதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+
+அதிவேகமாக வந்த கார் முதலில் வேன் மீது மோதியதாகவும், பின்னர் அங்குள்ள கான்கிரீட் தூணில் மோதி மரத்தில் மோதியதாகவும் போலீசார் தெரிவித்தனர்.
+
+கொழும்பு பல்கலைக்கழக மருத்துவ விஞ்ஞான பட்டதாரி நிறுவனத்திற்கு சொந்தமான வேன் ஒன்றுடன் கார் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+
+கார் இரண்டாக உடைந்தது. படுகாயமடைந்த ஒருவரின் நிலைமை கவலைக்கிடமாக இருப்பதாக பொலிஸார் தெரிவித்தனர்...
+
+◼️
+
+[Data](articles/5e4b17c8.json)
+
+---
+
+### දිස්ත්‍රික් තේරීම් භාර නිලධාරීන් මැතිවරණ කොමිසම හමුවට
+
+*2024-08-03 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199517) · `si`
+
+ජනාධිපතිවරණයට අදාළ කටයුතු පිළිබඳ සාකච්ඡා කිරීම සඳහා සියලුම දිස්ත්‍රික් තේරීම් භාර නිලධාරීන්ව මැතිවරණය කොමිසමට කැඳවා තිබේ.
+
+ඒ අනුව මැතිවරණ කොමිසන් සභා ප්‍රධාන කාර්යාලයේදී අද (03) පෙරවරුවේ එම සාකච්ඡාව ආරම්භ වූ බවත් සඳහන් ය.
+
+ජනාධිපතිවරණය පැවැත්වීමට අදාළ කටයුතු සම්බන්ධයෙන් මැතිවරණ කොමිසම මේ වනවිට විවිධ පාර්ශ්ව සමග සාකච්ඡා වට කිහිපයක්ම පවත්වා ඇත.
+
+එළඹෙන සඳුදා දින මාධ්‍ය ආයතන ප්‍රධානීන් ද සාකච්ඡාවක් සඳහා කැඳවා ඇති බව මැතිවරණ කොමිසමේ ප්‍රකාශකයෙකු පැවසීය.
+
+◼️
+
+[Data](articles/b8d8cfc3.json)
+
+---
 
 ### The Middle East warming increases
 
@@ -675,6 +711,8 @@ Strong winds of about 50 kmph can be expected at times over Western slopes of th
 ...
 
 [Data](articles/c1e184f8.json)
+
+[Extended Data](ext_articles/c1e184f8.ext.json)
 
 ---
 
@@ -2203,45 +2241,5 @@ The price changes will be implemented at all Lanka Sathosa outlets in the countr
 [Data](articles/ecec984a.json)
 
 [Extended Data](ext_articles/ecec984a.ext.json)
-
----
-
-### Galaboda Nanissara Thero
-
-*2024-08-02 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199491) · `si`
-
-Ven. Galaboda Genissara Thera's funeral arrangements have been made known. The cremation ceremony will take place at the Viharaya near Gangarama on August 05th.
-
-🟩
-
-The funeral of Ven. Galaboda Genissara Thera of the Gangarama Ven.
-
-The Creator has been informed that the crendation of the crematology will be held at the Viharaya next to August 05.
-
-◼️
-
-[Data](articles/2df6278d.json)
-
-[Extended Data](ext_articles/2df6278d.ext.json)
-
----
-
-### Final rites of Ven. Galaboda Gnanissara Thero under state patronage
-
-*2024-08-02 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100952/final-rites-of-ven-galaboda-gnanissara-thero-under-state-patronage) · `en`
-
-The final rites of the late Ven. Galaboda Gnanissara Thero of the Gangaramaya Temple will be held under state patronage on Monday (Aug 05) at the grounds adjoining the temple, according to the funeral committee.
-
-Meanwhile, the funeral committee stated that the remains of the late Thero will be brought to the Gangaramaya Temple at 06.00 a.m. tomorrow (03) where it will lie-in-state for the public to pay final respects until Monday (05).
-
-The Chief Sangha Nayake of the Colombo New Korale and Chief Incumbent of Hunupitiya Gangarama Temple in Colombo, Ven. Galaboda Gnanissara Thero, popularly known as “Podi Hamuduruwo”, passed away today (02), at the age of 81.
-
-The Thero was reportedly receiving treatment at a private hospital in Colombo at the time of his passing.
-
-◼️
-
-[Data](articles/50cda584.json)
-
-[Extended Data](ext_articles/50cda584.ext.json)
 
 ---

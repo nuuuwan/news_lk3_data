@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 18:14:04**
+As of **2024-08-03 18:25:29**
 
 ## Newspaper Stats
 
-*Scraped **38,794** Articles*
+*Scraped **38,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,557
 adaderanalk | 4,496
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,820
+tamilmirrorlk | 4,821
 virakesarilk | 6,144
 adaderanasinhalalk | 6,547
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,794 (100.0%) of 38,794 articles have been extended.
+38,794 (100.0%) of 38,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### கொழும்பில் விசேட போக்குவரத்து திட்டம்
+
+*2024-08-03 17:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-341504) · `ta`
+
+எதிர்வரும் திங்கட்கிழமை பிற்பகல் 2 மணி முதல் இரவு 8 மணிவரை கொழும்பு - கங்காராமை விகாரையை அண்டிய பகுதிகளில்  இந்த விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கங்காராம விகாரையின் மறைந்த விகாராதிபதி கல்பொட ஞானீஸ்வர தேரரின் இறுதிக் கிரியை காரணமாக இந்த விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/2fbe0b8c.json)
+
+---
 
 ### SLFP and United People's Freedom Alliance (UPFA) support Sajith Premadasa
 
@@ -2227,23 +2241,5 @@ Our people expect leadership not to fulfill them. People have the value of being
 [Data](articles/2f9603af.json)
 
 [Extended Data](ext_articles/2f9603af.ext.json)
-
----
-
-### Mannar Wind Electricity Station Construction: 5 Basic Rights Petition
-
-*2024-08-02 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190132) · `ta`
-
-The Supreme Court ordered a review of five fundamental rights petitions against a Cabinet decision granting Adani Company the contract for constructing the Mannar Wind Electricity Center.
-
-🟩
-
-The Supreme Court on Friday (2) has issued a directive to review the five fundamental rights petitions filed on October 14 seeking to weaken the Cabinet resolution taken to provide the construction of the Mannar Wind Electricity Center to the Adani Company.
-
-◼️
-
-[Data](articles/174a3037.json)
-
-[Extended Data](ext_articles/174a3037.ext.json)
 
 ---

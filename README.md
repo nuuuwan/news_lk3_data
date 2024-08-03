@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 08:36:03**
+As of **2024-08-03 08:54:59**
 
 ## Newspaper Stats
 
-*Scraped **38,737** Articles*
+*Scraped **38,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,554
-adaderanalk | 4,482
+adaderanalk | 4,483
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,812
 virakesarilk | 6,133
-adaderanasinhalalk | 6,529
+adaderanasinhalalk | 6,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,737 (100.0%) of 38,737 articles have been extended.
+38,737 (100.0%) of 38,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### මැතිවරණ නීති උල්ලංඝනය කිරීම් 45ක්
+
+*2024-08-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199507) · `si`
+
+ජනාධිපතිවරණයට අදාළව මැතිවරණ නීති උල්ලංඝනය කිරීම් සම්බන්ධ පැමිණිලි 45ක් මේ වනවිට ලැබී ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පවසන්නේ බහුතර පැමිණිලි සංඛ්‍යාවක් රාජ්‍ය බලය අයුතු ලෙස භාවිත කිරීම සම්බන්ධයෙන් වාර්තා වී ඇති බවය.
+
+◼️
+
+[Data](articles/a7f40ea0.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-08-03 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100958/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
+
+Several spells of showers will occur in Western and North-western provinces and in Galle, Matara and Matale districts.
+
+Showers or thundershowers may occur at a few places in the Eastern and Uva provinces in the evening or night.
+
+Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills while fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/b67404da.json)
+
+---
 
 ### Notification relating to today's climate
 
@@ -2229,49 +2261,5 @@ She has sustained injuries to her right leg and is currently receiving treatment
 [Data](articles/19739348.json)
 
 [Extended Data](ext_articles/19739348.ext.json)
-
----
-
-### Vinodhini murder: 7 persons
-
-*2024-08-02 13:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வினோதினி-கொலை-7-பேருக்கும்-விளக்கமறியல்-நீடிப்பு/73-341463) · `ta`
-
-A judge in Muttur court heard a case involving the murder of a woman named Naresh Kumar Vinodhini, aged 25, whose body was found in a well. Seven suspects, including family members and a boyfriend, were detained. Bail applications for three suspects were denied, extending their detention for 14 more days pending Supreme Court review.
-
-🟩
-
-Muttur court judge Mrs. Dasneem Mohammed Fausan was taken up for hearing on Friday (02) for hearing of the murder of the Seruvila - Thanga Nagar woman.
-
-The seven suspects have been ordered to be kept in detention until the 16th.
-
-Attorneys on behalf of the opponents in the case had submitted bail application for the 3rd and 6th enemies. The judge rejected the application and ordered the suspects to reject the bail application for a further 14 days after the bail application could be considered by the Supreme Court.
-
-The body of Naresh Kumar Vinodhini, a 25 -year -old young woman from the Seruvila Divisional Secretariat Division, was dug up on July 5 from a dilapidated well in the village of Cleivetti.
-
-Seven persons, including the boy's boyfriend, her father, sister, little father, house servant and two JCP vehicle, have been detained and detained on the main suspect in connection with the murder of the woman.
-
-...
-
-[Data](articles/9c4c8161.json)
-
-[Extended Data](ext_articles/9c4c8161.ext.json)
-
----
-
-### Hunupitiya River Gangaramma Gnanissara Thera is weigated
-
-*2024-08-02 13:53:10* · [`adalk`](https://www.ada.lk/breaking_news/හුණුපිටියේ-ගංගාරාමාධිපති-ගල්බොඩ-ඥානිස්සර-නාහිමියෝ-අපවත්වෙති/11-411166) · `si`
-
-Gangaramma Gnanissara Thero, a prominent Buddhist monk from Hunupitiya, Colombo, recently turned 81. Despite his age, he remains active in social services within the new Korale area.
-
-🟩
-
-Gangaramma Gnanissara Thero, the main Sangha Leaders of the new Korale in Hunupita, Colombo has been in Colombo today (2) afternoon. When he was a socio-social service, he was 81 years old.
-
-◼️
-
-[Data](articles/4c3bb2a8.json)
-
-[Extended Data](ext_articles/4c3bb2a8.ext.json)
 
 ---

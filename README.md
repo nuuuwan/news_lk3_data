@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 02:20:47**
+As of **2024-08-04 02:36:04**
 
 ## Newspaper Stats
 
-*Scraped **38,819** Articles*
+*Scraped **38,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,559
 adaderanalk | 4,500
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,824
+tamilmirrorlk | 4,825
 virakesarilk | 6,145
 adaderanasinhalalk | 6,556
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,818 (100.0%) of 38,819 articles have been extended.
+38,819 (100.0%) of 38,820 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-04 (Sunday)
+
+### மலையக தமிழர் அபிலாஷை ஆவணத்துக்கு த.மு.கூ. அங்கீகாரம்
+
+*2024-08-04 01:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-அபிலாஷை-ஆவணத்துக்கு-த-மு-கூ-அங்கீகாரம்/175-341521) · `ta`
+
+ஐக்கிய மக்கள் கூட்டணி வேட்பாளர் சஜித் பிரேமதாசவிடம் செய்ய பட உள்ள  புரிந்துணர்வு உடன்படிக்கைக்காக, தன்னால் முன் வைக்க பட்ட  மலையக தமிழர் அபிலாஷை ஆவணத்தை ஐந்து திருத்தங்களுடன், தமிழ் முற்போக்கு கூட்டணி அரசியல் குழு ஏக மனதாக மனதாக ஏற்று கொண்டு உள்ளது என என கூட்டணி தலைவர் மனோ கணேசன் கூறியுள்ளார்.
+
+சஜித் பிரேமதாச தலைமையில் அரசாங்கம் உருவாகின்ற போது, நிறைவேற்ற பட வேண்டிய வேலைத்திட்டங்களில் இந்திய வம்சாவளி மலையக தமிழரின் அபிலாஷை கோரிக்கைகள் அடங்கிய ஆவணம், கொழும்பில் கூடிய கூட்டணி  அரசியல் குழுவினால் தீவிரமாக ஆராய பட்டது. சமர்பிக்க பட்ட ஆவணம், மேலதிக சில விடயங்கள் சேர்க்கைகளாக சேர்க்க பட்டும், சில திருத்தங்களுடனும் அரசியல் குழுவாழ் ஏக மனதாக ஏற்று கொள்ள பட்டது.
+
+...
+
+[Data](articles/da9c720f.json)
+
+---
 
 ### 2024-08-03 (Saturday)
 
@@ -479,6 +495,8 @@ Pic L-R: Mother Suranganee Abeyagoonasekera; Asanga Abeyagoonasekera arrested 21
 ...
 
 [Data](articles/646d3d57.json)
+
+[Extended Data](ext_articles/646d3d57.ext.json)
 
 ---
 
@@ -2261,23 +2279,5 @@ The Hinduja Group has excelled in diverse fields with a strong global presence i
 [Data](articles/f972c0b5.json)
 
 [Extended Data](ext_articles/f972c0b5.ext.json)
-
----
-
-### Durdans Hospital reaffirms leading position with third JCI re-accreditation to drive medical tourism in Sri Lanka
-
-*2024-08-03 00:52:33* · [`dailyftlk`](https://www.ft.lk/business/Durdans-Hospital-reaffirms-leading-position-with-third-JCI-re-accreditation-to-drive-medical-tourism-in-Sri-Lanka/34-765106) · `en`
-
-From left: Chief Nursing Officer Janaki Ruwanpura, Medical Services Manager Dr. Dharani Jayasinghe, Medical Services Deputy Director Dr. Ravi Nanayakkara, Executive Director Aminda Tudawe, Chief Operating Officer Mahanil Perera, Chief Medical Officer Dr. Thushari Perera, and Quality Assurance Senior Manager Nishadi Vithanage
-
-Durdans Hospital reaffirms once again its position as a leader in healthcare by securing the Joint Commission International, USA (JCI) re-accreditation for the third time.
-
-While symbolising Durdans Hospital’s unwavering commitment to excellence in patient care and safety, this achievement also highlights Sri Lanka’s appeal as a destination for medical tourism. With Sri Lanka experiencing a tourism boom and enjoying a robust, affordable, and reliable healthcare sector led by institutions like Durdans Hospital, the country is gaining a growing reputation for medical tourism.
-
-...
-
-[Data](articles/0de73126.json)
-
-[Extended Data](ext_articles/0de73126.ext.json)
 
 ---

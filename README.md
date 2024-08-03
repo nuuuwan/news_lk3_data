@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 11:05:53**
+As of **2024-08-03 11:20:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,751 (100.0%) of 38,753 articles have been extended.
+38,753 (100.0%) of 38,753 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Philippines is in the Pacific “Ring of Fire,” where volcanic activity an
 ◼️
 
 [Data](articles/4ecc9b4d.json)
+
+[Extended Data](ext_articles/4ecc9b4d.ext.json)
 
 ---
 
@@ -120,21 +122,27 @@ Executive Director of PAFFREL, Rohana Hettiarachchi stated that the majority of 
 
 ---
 
-### “යාපනයට ගංගාවක්” ව්‍යාපෘතිය කඩිනමින්
+### "Jaffna River" project expedited
 
 *2024-08-03 09:39:09* · [`adalk`](https://www.ada.lk/breaking_news/“යාපනයට-ගංගාවක්”-ව්‍යාපෘතිය-කඩිනමින්/11-411173) · `si`
 
-දීර්ඝ කාලයක් පුරා පවතින උතුරේ ජල ගැටළුවට ස්ථීර විසඳුමක් ලබා දීම සඳහා (River for Jaffna) “යාපනයට ගංගාවක්” ව්‍යාපෘතිය කඩිනමින් ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The 'Jaffna' project aims to address the water crisis in Sri Lanka's Northern Province, with President Ranil Wickremesinghe announcing its launch. This initiative, part of the Thalaliyadi seawater project in Jaffna-Kilinochchi, seeks to provide clean drinking water to 300,000 people and improve sanitation for 80,000. Funded by the Asian Development Bank and costing $266 million, the project, expected to complete by mid-2025, includes a state-of-the-art water treatment plant. Additionally, plans involve enhancing the local economy through solar energy projects, modern agriculture, and promoting tourism and renewable energy sources like wind and solar power.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ “යාපනය – කිලිනොච්චි” ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය විවෘත කිරීමේ අවස්ථාවට එක් වෙමිනි.
+🟩
 
-මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ උතුරේ සිවිල් යුද්ධය අවසන් වී මේ වන විට වසර 15ක් ගත වී ඇති බවත්, දැන් සියලුදෙනා එක්ව සංවර්ධන යුද්ධය ඉදිරියට ගෙන යා යුතු බවත්ය. ඉදිරි වසර 05-10 තුළ යාපනය දියුණු ප්‍රදේශයක් බවට පත් කිරීම තම අරමුණ බව පැවසූ ජනාධිපතිවරයා ඒ සඳහා එහි සියලු ජනතාවගේ සහාය අපේක්ෂා කරන බවද කියා සිටියේය.
+President Ranil Wickremesinghe said that the 'Jaffna' project will be launched to provide a permanent solution to the water problem of the Northern Province.
 
-යාපනය – කිලිනොච්චි ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය ආසියානු සංවර්ධන බැංකුවේ හා ශ්‍රී ලංකා රජයේ මූල්‍ය ප්‍රතිපාදන මත ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශයේ, ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් ක්‍රියාත්මක කෙරේ.
+The President was speaking at the opening of the Thalaliyadi seawater in the Jaffna-Kilinochchi "Water Supply Project.
+
+President Ranil Wickremesinghe said that 15 years have passed since the end of the civil war in the North, and now that there have been 15 years and now everyone should carry on the development war.. The President said that his goal was to make it an advanced area in the next 5-10 years.
+
+The Thalahychiian Water Supply Project of the Jaffna-Kilinochchi Water Supply Project, the National Water Supply and Plantation Infrastructure Development Board (NDB) is implemented by the Ministry of Water Supply and Estate Infrastructure.
 
 ...
 
 [Data](articles/6ff938ce.json)
+
+[Extended Data](ext_articles/6ff938ce.ext.json)
 
 ---
 

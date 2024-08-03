@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 17:20:53**
+As of **2024-08-03 17:36:16**
 
 ## Newspaper Stats
 
-*Scraped **38,793** Articles*
+*Scraped **38,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,495
+adaderanalk | 4,496
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,820
 virakesarilk | 6,144
@@ -26,19 +26,41 @@ adaderanasinhalalk | 6,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,786 (100.0%) of 38,793 articles have been extended.
+38,793 (100.0%) of 38,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### පැරෂුට් අනතුරක්
+### Parachute accident
 
 *2024-08-03 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199526) · `si`
+
+A parachute accident occurred when a parachutist failed to open their chute, resulting in a fatal fall from a significant height.
+
+🟩
 
 ◼️
 
 [Data](articles/f565d12b.json)
+
+[Extended Data](ext_articles/f565d12b.ext.json)
+
+---
+
+### Tharushi Karunaratne’s 800m challenge ends at Paris Olympics
+
+*2024-08-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100971/tharushi-karunaratnes-800m-challenge-ends-at-paris-olympics) · `en`
+
+Sri Lankan athlete Tharushi Karunaratne’s journey in the Women’s 800m event at the Paris Olympics concluded after she finished 7th in Heat 4 of the Repechage round.
+
+Karunaratne initially competed in the preliminary round of the event on the last night (Aug 02), where she finished 8th with a timing of 2:07.76. As Karunaratne was placed 8th in the race, she did not advance directly to the next round.
+
+The repechage round is a second shot given for runners who fail to advance out of the first round in 2024 Olympics, which is in place for the first time in Olympic athletics history.
+
+◼️
+
+[Data](articles/e376070f.json)
 
 ---
 
@@ -56,27 +78,35 @@ Furthermore, the SLPP mentioned that against a backdrop where the party has adop
 
 [Data](articles/0c593e6c.json)
 
+[Extended Data](ext_articles/0c593e6c.ext.json)
+
 ---
 
-### තරුණ තරුණියන්ට රැකියා ලබන වසරේ සිට - ජනපති
+### Youths from next year - President
 
 *2024-08-03 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199525) · `si`
 
-තරුණ තරුණියන්ට රැකියා ලබාදීමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe aims to create job opportunities for youths starting next year, focusing on the private sector amidst challenges from COVID and economic issues. He assures continuous support through subsidies and loans for self-employment and agriculture, urging the private sector to hire more youths.
 
-රාජ්‍ය අංශයේ මෙන්ම පෞද්ගලික අංශයේ ද නව රැකියා අවස්ථා ඔවුන් වෙනුවෙන් උදාකරදීම තම අරමුණ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+🟩
 
-කොවිඩ් වසංගතය සහ ආර්ථික කඩා වැටීම හමුවේ ඉකුත් වසර 04 පුරා මෙරට තරුණ තරුණියන්ට රැකියා ලබාදීමට නොහැකි වූ බව පෙන්වා දුන් ජනාධිපතිවරයා රට බංකොළොත්භාවයෙන් නිදහස් කර ගැනීමත් සමග නව රැකියා අවස්ථාවන් බිහි කිරීමේ වැඩසටහන් ක්‍රියාත්මක කරමින් රට ඉදිරියට ගෙන යාමේ අවස්ථාව උදා වී ඇති බවද කියා සිටියේය.
+President Ranil Wickremesinghe says that the needs of the youths will commence from next year.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ යාපනය වාලම්පූරි හෝටලයේ අද (02) පැවති තරුණ හමුවට එක් වෙමිනි.
+President Ranil Wickremesinghe said that his aim is to achieve new employment opportunities for them and private sector.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ තරුණ තරුණියන්ගේ අපේක්ෂාවන් රජය කිසිවිටෙකත් අමතක කර නොමැති බවය.
+The President said that the President of Sri Lanka was not able to provide jobs for the extermination of the country over the past four years in the face of the covid plague and economic collapse.
 
-මූල්‍ය ගැටලු හමුවේ වුවද ගුරු පුරප්පාඩු පිරවීම වෙනුවෙන් මේ වසරේ රජය මුදල් වෙන් කළ බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගුරුවරුන් බඳවා ගැනීම වෙනුවෙන් ලබන වසරේ වැඩි මුදලක් ලබා දීමට කටයුතු කරන බවද කියා සිටියේය.
+President Ranil Wickremesinghe was speaking to the Youth Meeting held at the Walampure Hotel in Jaffna today.
+
+The President further stated that the government has never forgotten the expectations of the youths.
+
+The President Ranil Wickremesinghe said that the government was allocated this year for the recruitment of teachers to fill the teachers this year to fill the vacancies for financial problems.
 
 ...
 
 [Data](articles/365eb5b4.json)
+
+[Extended Data](ext_articles/365eb5b4.ext.json)
 
 ---
 
@@ -100,17 +130,23 @@ Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
 
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பு சஜித் பிரேமதாசவுக்கு ஆதரவு
+### SLFP and United People's Freedom Alliance (UPFA) support Sajith Premadasa
 
 *2024-08-03 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190180) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சியும் ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பும் தீர்மானித்துள்ளன.
+SLFP and UPFA endorse Sajith Premadasa for presidency. Decision made at Colombo meeting.
 
-கொழும்பில் இன்று சனிக்கிழமை (03) நடைபெற்ற விசேட கலந்துரையாடலில் இந்த தீர்மானம் எட்டப்பட்டுள்ளது.
+🟩
+
+The Sri Lanka Freedom Party and the United People's Freedom Alliance (UPFA) have decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
+
+The resolution was reached during a special discussion held in Colombo today (03).
 
 ◼️
 
 [Data](articles/2b806021.json)
+
+[Extended Data](ext_articles/2b806021.ext.json)
 
 ---
 
@@ -138,21 +174,29 @@ According to foreign media reports, Kamala Harris is to name his Deputy Presiden
 
 ---
 
-### பல வேட்பாளர்கள் களத்தில் ! : 50 வீதமான வாக்குகளை எந்த வேட்பாளரும் பெறாவிடின் யார் ஜனாதிபதி ?
+### Many candidates are on the field!: If no candidate gets 50 percent of the votes, who is the President?
 
 *2024-08-03 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190183) · `ta`
 
-இலங்கையில் ஜனாதிபதித் தேர்தல்கள் 2024 ஆம் ஆண்டு செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள நிலையில், போட்டியிடவுள்ள ஜனாதிபதி  வேட்பாளர்களின் எண்ணிக்கை நாளுக்கு நாள் அதிகரித்துக் கொண்டே போகின்றது.
+In Sri Lanka's 2024 presidential election, confusion arises due to the increasing number of candidates and the voting system. If no candidate secures 50% of the votes, the first and second runners-up' votes are combined and the candidate with the majority wins. Social media's influence, including fake news, is significant. Voting involves marking preferences for up to three candidates, ensuring transparency and allowing for redistribution of votes based on preferences.
 
-இதேவேளை, ஜனாதிபதித் தேர்தலில் யாருக்கு எவ்வாறு வாக்களிப்பதென்ற குழப்பம் மக்கள் மத்தியில் எழ ஆரம்பித்துவிட்டது. ஜனாதிபதி தேர்தலில் போட்டியிட ஆகஸ்ட்  2ஆம் திகதி 14 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். ஆகஸ்ட் 14 ஆம் திகதி நண்பகல் வரை கட்டுப்பணம் செலுத்தும் காலம் உள்ளதால் வேட்பாளர்களின் எண்ணிக்கையும் அதிகரிக்க வாய்புக்கள் உள்ளன.
+🟩
 
-இந்நிலையில், ஜனாதிபதித் தேர்தலில் களமிறங்கும் வேட்பாளர்கள் ஆளுக்கு ஆள் மூலை முடுக்கு எங்கும் தங்களது தேர்தல் பிரச்சார நடவடிக்கைகளையும் வாக்குறுதிகள் வழங்கும் செயற்பாடுகளையும் ஆரம்பித்துள்ளனர்.
+With the presidential elections in Sri Lanka on September 21, 2024, the number of presidential candidates to contest is increasing day by day.
 
-தற்போதைய சூழ்நிலையில், பாரம்பரிய ஊடகங்களைத் தாண்டி சமூக ஊடகங்களின் பலம் தேர்தல் காலங்களில் கடுமையான செல்வாக்கு செலுத்தும் போக்கு காணப்படுகின்றது. உலக நாடுகளில் இடம்பெற்ற தேர்தல்களிலும் சமூக ஊடகங்களின் தாக்கங்களை நாம் அவதானித்துள்ளோம்.
+Meanwhile, confusion about how to vote for the presidential election has begun to arise among the people. 14 candidates have been controlled on August 2 to contest the presidential election. There is a number of candidates to increase the number of candidates as there is a time of control until noon on August 14th.
+
+In this case, the candidates who are fielding in the presidential election have begun their election campaign and promises to make the corner of the person.
+
+In the current situation, the strength of social media beyond the traditional media is seen as a severe influence in the election period. We have observed the impact of social media in the elections in the world.
+
+Fake news, fabricated news, videos and photos are being spread on social media. As well as Memes, the social media is going viral.
 
 ...
 
 [Data](articles/d868c616.json)
+
+[Extended Data](ext_articles/d868c616.ext.json)
 
 ---
 
@@ -276,37 +320,51 @@ The car broke in two. Police said the situation of a victim was worrisome ...
 
 ---
 
-### கடந்த ஆண்டில் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்திற்கு 42.76 பில்லியன் ரூபா வருமானம்
+### 42.76 billion rupees to the Department of Immigration and Emigration in the past year
 
 *2024-08-03 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190168) · `ta`
 
-கடந்த ஆண்டில் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் 42.76 பில்லியன் ரூபா வருமானத்தை ஈட்டியுள்ளது.
+The Department of Immigration and Emigration exceeded its target by earning a record 42.76 billion rupees in 2022, primarily from tourist arrivals and passport services. The Electronic Travel Authorization (ETA) contributed significantly, generating 17.74 billion rupees, while visas and embassy services added to the total. Despite issuing fewer passports in 2023, the department continues to perform well, with a notable increase in revenue attributed to the recovery of regional offices post-June 15, 2023.
 
-இதற்கு அதிக சுற்றுலா பயணிகள் வருகையும் மற்றும் கடவு சீட்டு வழங்கல் செயற்பாடும் காரணமாகும்.
+🟩
 
-குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் கடந்த ஆண்டில் 28.1 பில்லியன் ரூபாவை வருமானத்தை இலக்காக கொண்டிருந்தது. ஆனால் 2022 ஆம் ஆண்டில் ஈட்டிய 23.83 பில்லியன் ரூபாய் வருமானத்தை விட 42.76 பில்லியன் ரூபாய் வருமானத்தை ஈட்டி சாதனை படைத்துள்ளது.
+The Department of Immigration and Emigration has earned 42.76 billion rupees last year.
 
-அதன்படி,  இலத்திரனியல் பயண அங்கீகாரத்தின்  (ETA) மூலம் 17.74 பில்லியன் ரூபாவும், கடவுசீட்டு வழங்குதல் மற்றும் திருத்தம் மூலம் 12.51 பில்லியன் ரூபாவும், விசா வழங்கல்/நீடிப்பு மூலம் 7.09 ரூபாவும், தூதரகங்கள் ஊடான கடவுச்சீட்டு விநியோக செயற்பாடுகள் மூலம் 3.82 பில்லியன் ரூபாவும் வருமானமாக ஈட்டப்பட்டுள்ளது.
+This is due to the arrival of most tourists and passports.
 
-இதேவேளை, கடந்த வருடத்தில் 910,582 கடவுச்சீட்டுகளை குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் வழங்கியுள்ளது. 2022 ஆம் ஆண்டு வழங்கப்பட்ட  911,689 கடவுச்சீட்டுகளுடன் ஒப்பிடுகையில் 2023 ஆம் ஆண்டு  பிராந்திய அலுவலகங்கள்  191,557 கடவுச்சீட்டுகளை வழங்கியுள்ளமை தெரியவந்துள்ளது.
+The Department of Immigration and Emigration targeted an income of 28.1 billion rupees last year. But in 2022, the earnings set a record of 42.76 billion rupees over Rs 23.83 billion.
+
+Accordingly, the Electronic Travel Authorization (ETA) has earned 17.74 billion rupees, 12.51 billion rupees through the issuance and revision of the Electronic Travel Authorization (ETA), 7.09 rupees through a visa supply/extension and 3.82 billion rupees through the Embassy.
+
+Meanwhile, the Department of Immigration and Emigration has issued 910,582 passports last year.. Regional offices have been issued 191,557 passports in 2023 compared to 911,689 passports issued by 2022.
+
+In it, the office of the regional offices has been issued 56,261 passports after the recovery of the operations of the regional offices from June 15, 2023.
 
 ...
 
 [Data](articles/f041da23.json)
 
+[Extended Data](ext_articles/f041da23.ext.json)
+
 ---
 
-### தேர்தல் சட்ட மீறல்கள்  தொடர்பில்  45 முறைப்பாடுகள் ; பெப்ரல் அமைப்பு
+### 45 complaints regarding election law violations;Pepral system
 
 *2024-08-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190179) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கு முன்னதாக தேர்தல்  சட்டமீறல்கள் தொடர்பில் 45 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக  பெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+Before the presidential election, the February organization received 45 complaints about election violations, mainly involving the misuse of state power.
 
-இந்த முறைப்பாடுகளில் பெரும்பாலானவை அரச அதிகாரத்தை துஷ்பிரயோகம் செய்வதை உள்ளடக்கியதாக பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
+
+The February organization said that 45 complaints were received on election violations before the presidential election.
+
+The Executive Director of the February, Rohana Hettiarachchi, said that most of these complaints include abuse of state power.
 
 ◼️
 
 [Data](articles/a24bf002.json)
+
+[Extended Data](ext_articles/a24bf002.ext.json)
 
 ---
 
@@ -2185,27 +2243,5 @@ The Supreme Court on Friday (2) has issued a directive to review the five fundam
 [Data](articles/174a3037.json)
 
 [Extended Data](ext_articles/174a3037.ext.json)
-
----
-
-### Ranil's assistance with 18 State Minister Earnanaka Herath
-
-*2024-08-02 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199498) · `si`
-
-Kanaka Herath, Minister of Kegalle District, announced support for Ranil Wickremesinghe in the upcoming presidential election, backed by 18 MPs from the Rambukkana Pradeshiya Sabha. This decision came during a press conference where he criticized the leadership of the Sri Lanka General Front for not grasping the country's current situation.
-
-🟩
-
-Minister of Kegalle District Minister Kanaka Herath has decided to support Ranil Wickremesinghe in the next presidential election with the 18 MPs of the Rambukkana Pradeshiya Sabha.
-
-He was holding a press conference on a press conference today.
-
-Former local councilors, said that the leaders of the Sri Lanka General Front had failed to understand the reality of the earth.
-
-◼️
-
-[Data](articles/a123347f.json)
-
-[Extended Data](ext_articles/a123347f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 10:36:01**
+As of **2024-08-03 10:54:10**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,750 (100.0%) of 38,751 articles have been extended.
+38,751 (100.0%) of 38,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### හයිලෙවල් මාර්ගය භාවිත කරන රියදුරන්ට දැනුම්දීමක්
+### Notice to drivers using High Level
 
 *2024-08-03 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199510) · `si`
 
-කොට්ටාව සහ පන්නිපිටිය අතර හයිලෙවල් මාර්ගයේ දැඩි රථවාහන තදබදයක් පවතින බව වාර්තා වෙයි.
+High Level route update: It runs from Kottawa to Pannipitiya.
+
+🟩
+
+The High Level route is between Kottawa and Pannipitiya.
 
 ◼️
 
 [Data](articles/040b75a8.json)
+
+[Extended Data](ext_articles/040b75a8.ext.json)
 
 ---
 

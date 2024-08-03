@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 06:02:19**
+As of **2024-08-03 07:02:23**
 
 ## Newspaper Stats
 
-*Scraped **38,732** Articles*
+*Scraped **38,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,811
 virakesarilk | 6,133
-adaderanasinhalalk | 6,525
+adaderanasinhalalk | 6,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,724 (100.0%) of 38,732 articles have been extended.
+38,732 (100.0%) of 38,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2024-08-03 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199503) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අද (03) උදෑසන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුව සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+
+එමෙන්ම බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වෙයි.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ දක්වා තිබේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 50 ක පමණ තද සුළං ඇතිවිය හැකි අතර, දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවත් එම නිවේදනයේ වැඩිදුරටත් දන්වා තිබේ.
+
+◼️
+
+[Data](articles/6b6e3357.json)
+
+---
 
 ### The President meets the Chief Minister of Nallai in Jaffna
 
@@ -186,6 +204,8 @@ The Chamber of Young Lankan Entrepreneurs (COYLE) hosted “The Big Lunch,” al
 
 [Data](articles/ae0e013d.json)
 
+[Extended Data](ext_articles/ae0e013d.ext.json)
+
 ---
 
 ### Pan Asia Bank elevates new age banking with Dual Digital Zone openings in Homagama and Panadura on the Same Day
@@ -199,6 +219,8 @@ The Homagama and Panadura Digital Zones are engineered to provide an unrivaled b
 ...
 
 [Data](articles/8ac5ce16.json)
+
+[Extended Data](ext_articles/8ac5ce16.ext.json)
 
 ---
 
@@ -217,6 +239,8 @@ In the retail market top six companies that mainly contributed to the turnover w
 ...
 
 [Data](articles/85cd1463.json)
+
+[Extended Data](ext_articles/85cd1463.ext.json)
 
 ---
 
@@ -251,6 +275,8 @@ Uber signed a Memorandum of Understanding (MoU) with the Sri Lanka Tourism Promo
 ...
 
 [Data](articles/b07f9008.json)
+
+[Extended Data](ext_articles/b07f9008.ext.json)
 
 ---
 
@@ -2233,27 +2259,5 @@ IMF staff had assessed the ‘Joint Working Framework’ with on sovereign bonds
 [Data](articles/12195857.json)
 
 [Extended Data](ext_articles/12195857.ext.json)
-
----
-
-### ADB funded desalination project opens in Sri Lanka’s north
-
-*2024-08-02 13:19:00* · [`economynextcom`](https://economynext.com/adb-funded-desalination-project-opens-in-sri-lankas-north-174939/) · `en`
-
-ECONOMYNEXT – The Thalaiyadi sea water desalination plant in Sri Lanka’s northern Jaffna District, which is expected to provide safe drinking water to over 300,000 people across 186 grama niladari divisions, was opened today by President Ranil Wickremesinghe.
-
-The plant, part of the Jaffna-Kilinochchi Water Supply Project by the Ministry of Water Supply was funded by the ADB and the Government of Sri Lanka at a cost of 266 million dollars.
-
-The JKWSSP was launched in 2011 with support from ADB and the French Development Bank (AFD). ADB signed the contract for the construction of the desalination plant in 2017.
-
-The project was awarded to main contractor Suez International of France, while MAGA undertook civil works of the project.
-
-The project has completed the construction of 20 elevated water tanks, 186 km of water transmission pipelines, and 382 km of water distribution pipelines. It is expected to be fully completed by mid-2025.
-
-...
-
-[Data](articles/47ef5d6a.json)
-
-[Extended Data](ext_articles/47ef5d6a.ext.json)
 
 ---

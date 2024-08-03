@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 12:36:04**
+As of **2024-08-03 12:52:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,535
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,757 (100.0%) of 38,758 articles have been extended.
+38,758 (100.0%) of 38,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -198,19 +198,31 @@ At the same time, a meeting will be held between the Secretaries of all Ministri
 
 ---
 
-### තමිල්නාඩුවේ සංවර්ධනයෙන් ලංකාවට ගොඩ යන්න පුළුවන්ලු
+### Sri Lanka can overcome the development of Tamil Nadu
 
 *2024-08-03 09:54:00* · [`adalk`](https://www.ada.lk/breaking_news/තමිල්නාඩුවේ-සංවර්ධනයෙන්-ලංකාවට-ගොඩ-යන්න-පුළුවන්ලු/11-411174) · `si`
 
-යාපනය ඇතුළු උතුරු පළාතේ ජනතාව බොහෝ කලක සිට ආර්ථික දුෂ්කරතාවන්ට මුහුණ දෙන නමුත් ප්‍රයෝජනයට ගත හැකි විශාල ආර්ථික විභවයක් එම පළාතේ පවතින බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම අවස්ථාවන් උතුරු පළාත ඇතුළු සමස්ත රටේම ආර්ථික වර්ධනයට දායක කර ගැනීමට රජය සැලසුම් කර තිබෙන බව පැවසිය.
+President Ranil Wickremesinghe addresses the need for economic and political reform in Sri Lanka, emphasizing the importance of resolving ethnic tensions, promoting equality among all citizens, and leveraging the country's untapped potential in regions like Jaffna. He highlights the failure of past policies, the necessity for a new political system, and the urgency to empower provincial councils for development. The President also stresses the significance of addressing gender imbalance in politics and the potential in sectors like renewable energy, tourism, and agriculture.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ යාපනය දිස්ත්‍රික්කයේ විද්වතුන්, වෘත්තියවේදීන් සහ ව්‍යවසායකයන් සමඟ යාපනය වාලම්පුරි හෝටලයේ පැවති හමුවේදී ය.
+🟩
 
-මැතිවරණ වේදිකාවල විවිධ පොරොන්දු දෙමින් ඒවා ඉටු කිරීමට ණය ගැනීම මත මෙරට ආර්ථික මෙන්ම දේශපාලන ක්‍රමයද කඩා වැටුණු බව පෙන්වා දුන් ජනාධිපතිවරයා නැවත එම වරද සිදුවීමට ඉඩ නොතබා නව ආර්ථික සහ දේශපාලන ක්‍රමවේදයක් ඔස්සේ ආර්ථිකය ඉදිරියට ගෙන යාමට දායක වීම මෙරට උගතුන්, වෘත්තීයවේදීන්, ව්‍යවසායකයන් ඇතුළු සියලුදෙනාගේ වගකීම බවද පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe pointed out that the government is planning to contribute to the North of the Northern Province, including the people of the Northern Province, including Jaffna, and the use of economic potentials.
+
+The President was speaking at the meeting with scholars, professionals and entrepreneurs in Jaffna district.
+
+The President pointed out that the Sri Lankan economic and political system has collapsed on the basis of borrowing various promises on election platforms and contribute to the economy in a new economic and political system.Pointed out.
+
+It is said that the Ethnic issue in the country should be resolved at the same time, but it is important to treat the majority of the Sinhalese and religious groups, as well as ethnic and religious groups.
+
+The President has also pointed out the importance of promoting Sinhala as Sinhala and Tamil language.
+
+Speaking further, President Ranil Wickremesinghe said,
 
 ...
 
 [Data](articles/c405f023.json)
+
+[Extended Data](ext_articles/c405f023.ext.json)
 
 ---
 

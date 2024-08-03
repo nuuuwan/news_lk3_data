@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 16:36:09**
+As of **2024-08-03 16:52:45**
 
 ## Newspaper Stats
 
-*Scraped **38,784** Articles*
+*Scraped **38,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,493
+adaderanalk | 4,494
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,820
 virakesarilk | 6,140
-adaderanasinhalalk | 6,544
+adaderanasinhalalk | 6,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,784 (100.0%) of 38,784 articles have been extended.
+38,784 (100.0%) of 38,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Special traffic plan in Colombo on Monday
+
+*2024-08-03 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100969/special-traffic-plan-in-colombo-on-monday) · `en`
+
+A special traffic plan will be implemented in and around the Gangaramaya Temple area in Colombo on Monday (05) for the final rites of the temple’s late Chief Incumbent Ven. Galaboda Gnanissara Thero, the police said.
+
+Accordingly, the relevant traffic plan will be in place between 2.00 p.m. and 8.00 p.m. on August 05.
+
+Thus, the police informed motorists passing through the area that traffic will be limited along the following roads during that period.
+
+Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/8bbbb503.json)
+
+---
+
+### කමලා හැරිස් ට බහුතරය
+
+*2024-08-03 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199524) · `si`
+
+2024 අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකත්වය ලබාගැනීම සඳහා අවශ්‍ය, පක්ෂ නියෝජිතයින්ගේ බහුතර මනාපය දිනාගැනීමට අමෙරිකානු උප ජනාධිපතිනි කමලා හැරිස් සමත්වී තිබේ.
+
+මේ සමග කමලා හැරිස් අමෙරිකානු ජනාධිපතිවරණයක් වෙනුවෙන් අපේක්ෂකත්වය ලද ආසියානු සම්භවයක් සහිත පළමු දේශපාලනඥවරිය බවට ද පත්වී ඇත.
+
+ඒ අනුව ඉදිරි දිනකදී කමලා හැරිස් 2024 අමෙරිකානු ජනාධිපතිවරණයේ නිල ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකයා ලෙස නම් කෙරුණු ඇත.
+
+ඒ සමග කමලා හැරිස් සිය උප ජනාධිපති නම් කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/5c30042f.json)
+
+---
 
 ### Decision on MPs who passed out of the rush
 
@@ -2213,61 +2249,5 @@ The Minister urged Sri Lankan workers to act safely without crossing the borders
 [Data](articles/5a4bd7b4.json)
 
 [Extended Data](ext_articles/5a4bd7b4.ext.json)
-
----
-
-### Sri Lanka’s controversial VFS Global visa deal suspended by top court
-
-*2024-08-02 18:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-controversial-vfs-global-visa-deal-suspended-by-top-court-175093/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s controversial IVS-GBS VFS Global visa deal awarded without a public tender has been suspended by the island’s Supreme Court after several parties filed public interest petitions.
-
-Court has issued interim orders suspending a cabinet decision which granted deal to a private consortium, until the final determination of the case, litigants said.
-
-Court ordered that the operation carried out by VFS global and their associates be suspended and the status quo that prevailed prior to April 17 be restored.
-
-Prior to April 17, the Mobitel (Pvt) Ltd was operating a user friendly website through which electronic travel authorization could be applied. A tourist visa was given for 50 dollars and a 1 dollar fee.
-
-The orders were issued by Justices, Preethi Padman Surasena, Kumuduni Wickramasinghe and Achala Wengappuli.
-
-Sri Lanka legislators go to Court against IVS-VFS Global visa deal
-
-Three Sri Lanka legislators and other parties went to court against the deal. (Colombo/Aug02/2024)
-
-◼️
-
-[Data](articles/d09ccb85.json)
-
-[Extended Data](ext_articles/d09ccb85.ext.json)
-
----
-
-### Dunit Vellalake, Bethum Nissanka batting, Sri Lanka 230 - 8 wig.
-
-*2024-08-02 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190123) · `ta`
-
-Sri Lanka won the first ODI against India, scoring 230/8 in 50 overs. Key contributions came from openers Beth and Nissanka, and Dunit Vellalake with 67 runs. A 46-run partnership between Vellalake and Akkila Tanjaya stood out. Indian bowlers, including Akshar Patel (2/33) and Arshdeep Singh (2/47), were effective. India now targets 231 runs to win.
-
-🟩
-
-R. Between Sri Lanka - Indian teams. Sri Lanka won the first match of the three -match ODI series in the Premadasa Stadium today and scored 230 runs for the loss of 8 wickets in 50 overs.
-
-Half a century accumulated by the opening player Beth and Nissanka and middle -ranking player Dunit Vellalake helped Sri Lanka get some honorable total.
-
-In addition, Dunit Wellalake and Akkila Tanjaya shared 46 runs in the 8th wicket.. This link was the best link in the Sri Lankan innings.
-
-Dunit Vellalake scored 67 runs, Beth and Nissanka 56 runs, Hazaranga 24 runs, Janith Liyanage 20 runs and Akkila Tanjaya 17 runs.
-
-Six of the 7 bowlers used in the Indian bowling are a special feature of taking wickets.
-
-Among them Akshar Patel took 2 wickets for 33 runs while Arshdeep Singh took 2 wickets for 47 runs.
-
-India will win a little more in a while, targeting 231 runs.
-
-◼️
-
-[Data](articles/7c90f968.json)
-
-[Extended Data](ext_articles/7c90f968.ext.json)
 
 ---

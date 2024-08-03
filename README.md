@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 16:06:51**
+As of **2024-08-03 16:20:35**
 
 ## Newspaper Stats
 
-*Scraped **38,783** Articles*
+*Scraped **38,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 4,493
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,820
 virakesarilk | 6,140
-adaderanasinhalalk | 6,543
+adaderanasinhalalk | 6,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,782 (100.0%) of 38,783 articles have been extended.
+38,783 (100.0%) of 38,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### තරුෂි දෙවෙනි අවස්ථාවෙන් 07වෙනි තැනට
+### පොහොට්ටුවට පිටින් ගිය මන්ත්‍රීවරුන් ගැන තීරණයක්
+
+*2024-08-03 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199523) · `si`
+
+පක්ෂයේ තීරණවලට එරෙහිව කටයුතු කරන සාමාජිකයන්ගේ තරාතිරම නොබලා පක්ෂ සාමාජිකත්වය අහෝසි කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
+
+එහි මහලේකම් සාගර කාරියවසම්ගේ අත්සනින් යුත් ලිපියක් මගින් දැනුම්දී ඇත්තේ පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය ඒකමතිකව එම තීරණය ගෙන ඇති බවය.
+
+ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහයෝගය දැක්වීමට පොහොට්ටුවේ පිරිසක් තීරණය කර තිබෙන අතර ඒ සම්බන්ධයෙන් මෙම පියවර ගෙන ඇති බව වාර්තා වෙයි.
+
+එලෙස ලිපියක් ලැබී ඇති ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත මහතා සඳහන් කරන්නේ, "අද සාගර කාරියවසම්ලා මොන ලියුම එව්වත් අපි මේවට බය නෑ. අපි තීන්දු තීරණ ගත්තේ ජනාධිපතිතුමා මේ රටට සිදුකළ සේවය නිසයි." යනුවෙනි.
+
+◼️
+
+[Data](articles/8a84e1e7.json)
+
+---
+
+### Tisthasha second point on the second place
 
 *2024-08-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199522) · `si`
 
-පැරිස් 2024 ඔලිම්පික් ක්‍රීඩා උළෙලේ ශ්‍රී ලංකාව ඉහළ බලාපොරොත්තුවත් තබා සිටි ඉසව්වක් වූ තරුෂි කරුණාරත්නගේ කාන්තා මීටර 800 ඉසව්වේ අවසන් බලාපොරොත්තුවත් අද (03දා) සම්පූර්ණයෙන් බොඳවී ගියේය.
+Tharushi Karunaratne missed her initial match but secured a spot in the 4th Basic Competition today, marking a historic first for the Olympics: a competitor getting a second chance after failing in the prelims.
 
-මෙම ඉසව්වේ ඊයේ (02දා) පැවැති මූලික තරගවලදී සාර්ථක වීමට තරුෂිට නොහැකි වුවත්, ඇයට අද දිනයේදී නැවත වරක් තරග වැඳීමට අවස්ථාව හිමිවිය.
+🟩
 
-ඒ අනුව මෙරට වෙලාවෙන් අද ප.ව. 3.15ට පැවැති 04වැනි මූලික තරගයට තරුෂි සහභාගි වූ අතර, එහිදීද ඇයට 07වැනි ස්ථානයෙන් සැහීමට සිදුවිය.
+The last expectation of Tharushi Karunaratne of Tharushi Karunaratne at the 2024 Olympic Games was completely blurred today.
 
-තරුෂිට හිමිවූ මෙම දෙවැනි අවස්ථාව නැතිනම් Repechage round යනු මූලික වටයේ අසාර්ථක වන ක්‍රීඩක ක්‍රීඩිකාවන් වෙනුවෙන් ලබාදෙන දෙවැනි අවස්ථාවක් වන අතර, ඔලිම්පික් ඉතිහාසයේ එවන්නක් ලබාදෙන පළමු අවස්ථාව ලෙසින් මෙය සැලකෙයි.
+Although this event could not succeed in the basic matches yesterday (2), she was able to win the opportunity to compete again today.
+
+Accordingly, today is the country today. At least the 4th Basic Competition at 3.15 was present at the 7th.
+
+This second chance, if there is no second chance of failure in the preliminary round, this is the first time in the Olympic history.
 
 ◼️
 
 [Data](articles/9d68f73c.json)
+
+[Extended Data](ext_articles/9d68f73c.ext.json)
 
 ---
 
@@ -2239,23 +2263,5 @@ India will win a little more in a while, targeting 231 runs.
 [Data](articles/7c90f968.json)
 
 [Extended Data](ext_articles/7c90f968.ext.json)
-
----
-
-### Sri Lanka’s top court suspends controversial VFS deal
-
-*2024-08-02 18:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-court-suspends-controversial-vfs-deal-175088/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court suspended a contract given to private consortium IVS-GBS and VFS Global to deal with visa issuance after eight Fundamental Rights (FR) cases were filed against giving the deal without competitive tender, a petitioner said.
-
-“Court Granted leave to proceed. There are 8 Petitions filed including ours and court heard all together. With leave to proceed, the court also gave 3 interim reliefs,” an official at Transparency International Sri Lanka (TISL), one of the eight petitioners told Economy Next.
-
-The apex court suspended the decision of the cabinet to go ahead with the private consortium and the operation of the outsourcing agreement with the companies, while restraining the respondents from taking any further steps on the agreement entered, the official said.
-
-...
-
-[Data](articles/e99390ca.json)
-
-[Extended Data](ext_articles/e99390ca.ext.json)
 
 ---

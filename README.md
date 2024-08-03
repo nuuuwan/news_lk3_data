@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 14:20:45**
+As of **2024-08-03 14:36:09**
 
 ## Newspaper Stats
 
-*Scraped **38,769** Articles*
+*Scraped **38,770** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 newsfirstlk | 363
-colombotelegraphcom | 366
+colombotelegraphcom | 367
 bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,346
@@ -26,45 +26,57 @@ adaderanasinhalalk | 6,539
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,767 (100.0%) of 38,769 articles have been extended.
+38,769 (100.0%) of 38,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### பெலவத்த விபத்தில்: கார் இரண்டாக உடைந்தது
+### Belawatta accident: Car broke in two
 
 *2024-08-03 14:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341497) · `ta`
 
-நான்கு இளைஞர்களை ஏற்றிச் சென்ற சொகுசு கார் ஒன்று கட்டுப்பாட்டை இழந்து வேனுடன் மோதி பின்னர் பெலவத்த ராஜகிரிய வீதியில் மரத்தில் மோதி விபத்துக்குள்ளானதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident on the Pelawatta Rajagiriya road, a luxury car carrying four youths collided with a van and a tree, breaking into two pieces. The high-speed crash involved a van owned by a University of Colombo graduate, leaving one victim's condition critical.
 
-அதிவேகமாக வந்த கார் முதலில் வேன் மீது மோதியதாகவும், பின்னர் அங்குள்ள கான்கிரீட் தூணில் மோதி மரத்தில் மோதியதாகவும் போலீசார் தெரிவித்தனர்.
+🟩
 
-கொழும்பு பல்கலைக்கழக மருத்துவ விஞ்ஞான பட்டதாரி நிறுவனத்திற்கு சொந்தமான வேன் ஒன்றுடன் கார் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+A luxury car carrying four youths lost control and collided with a van and crashed into a tree on the Pelawatta Rajagiriya road, Talangama police said.
 
-கார் இரண்டாக உடைந்தது. படுகாயமடைந்த ஒருவரின் நிலைமை கவலைக்கிடமாக இருப்பதாக பொலிஸார் தெரிவித்தனர்...
+Police said the high -speed car crashed into the van and then crashed into a concrete pillar.
+
+Police said the car crashed with a van owned by a Graduate of the University of Colombo.
+
+The car broke in two. Police said the situation of a victim was worrisome ...
 
 ◼️
 
 [Data](articles/5e4b17c8.json)
 
+[Extended Data](ext_articles/5e4b17c8.ext.json)
+
 ---
 
-### දිස්ත්‍රික් තේරීම් භාර නිලධාරීන් මැතිවරණ කොමිසම හමුවට
+### District Referral Officers to Election Commission
 
 *2024-08-03 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199517) · `si`
 
-ජනාධිපතිවරණයට අදාළ කටයුතු පිළිබඳ සාකච්ඡා කිරීම සඳහා සියලුම දිස්ත්‍රික් තේරීම් භාර නිලධාරීන්ව මැතිවරණය කොමිසමට කැඳවා තිබේ.
+Election officials met with campaign representatives today to discuss presidential election activities. This follows previous discussions with various parties about election-related issues. The heads of the Elections Commission will also meet with media outlets on Monday.
 
-ඒ අනුව මැතිවරණ කොමිසන් සභා ප්‍රධාන කාර්යාලයේදී අද (03) පෙරවරුවේ එම සාකච්ඡාව ආරම්භ වූ බවත් සඳහන් ය.
+🟩
 
-ජනාධිපතිවරණය පැවැත්වීමට අදාළ කටයුතු සම්බන්ධයෙන් මැතිවරණ කොමිසම මේ වනවිට විවිධ පාර්ශ්ව සමග සාකච්ඡා වට කිහිපයක්ම පවත්වා ඇත.
+The election officials have been summoned by the election campaign to discuss matters pertaining to the activities of the presidential election.
 
-එළඹෙන සඳුදා දින මාධ්‍ය ආයතන ප්‍රධානීන් ද සාකච්ඡාවක් සඳහා කැඳවා ඇති බව මැතිවරණ කොමිසමේ ප්‍රකාශකයෙකු පැවසීය.
+Accordingly, the discussion commenced this morning at the Elections Commission Head Office today (03).
+
+The Elections Commission has conducted several rounds of discussion with various parties regarding the matters relating to the presidential election.
+
+The Heads of the Elections has also been summoned to a discussion on Monday and the media outlets.
 
 ◼️
 
 [Data](articles/b8d8cfc3.json)
+
+[Extended Data](ext_articles/b8d8cfc3.ext.json)
 
 ---
 
@@ -657,6 +669,18 @@ Executive Director of the Division Rohana Hettiarachchi says that a major number
 [Data](articles/a7f40ea0.json)
 
 [Extended Data](ext_articles/a7f40ea0.ext.json)
+
+---
+
+### Education Is Not A Business But A Way Of Life!
+
+*2024-08-03 08:32:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/education-is-not-a-business-but-a-way-of-life/) · `en`
+
+To dive down to the deepest lengths of education and to acknowledge its contribution to society, we all should have an understanding of what is truly meant by the term, “Education”. As far as my knowledge goes, I think we can all agree that education is not merely the studying of books. The whole point of education is to gain new knowledge. But to realize that almost everyone thinks that this knowledge can ONLY be achieved by books is truly disheartening. This fact can indeed be proved wrong by looking closely at the early stages of human civilization.
+
+...
+
+[Data](articles/dd86dd66.json)
 
 ---
 
@@ -2207,39 +2231,5 @@ It was reported that decisive progress is necessary in the reform agenda to ensu
 [Data](articles/93580fef.json)
 
 [Extended Data](ext_articles/93580fef.ext.json)
-
----
-
-### Sathosa reduced the price of goods
-
-*2024-08-02 17:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலையை-குறைத்தது-சதொச/175-341471) · `ta`
-
-Lanka Sathosa reduced prices across various products: potatoes now cost 240 rupees/kg after a 22-rupee/kg cut; onions are 265 rupees/kg down from 20 rupees/kg; sugar is 254 rupees/kg after a 4-rupee/kg reduction; Giri Samba rice is 254 rupees/kg post a 6-rupee/kg decrease; Red Srine is 370 rupees/kg after a 5-kg/5-rupee reduction; pulses are 285 rupees/kg after a 5-kg reduction; and red chillies are 940 rupees/kg after a 10-rupee/kg cut. These price adjustments apply nationwide at all Lanka Sathosa outlets starting today.
-
-🟩
-
-Reduce 35 kg of potatoes - the new price is 240 rupees,
-
-Reduction by 22 rupees a kilogram
-
-Reduction by 20 rupees per kg of Indian big onion - new price 265 rupees,
-
-Reduction by 4 Rupees One kilogram of white sugar - new price 254 rupees,
-
-Reduction by 6 rupees per kg of Giri Samba - The new price is 254 rupees,
-
-Reduced by 5 Kg Red Srine 5 Rupees - New Price 370 rupees,
-
-Reduction by 5 kg of pulses - the new price is 285 rupees,
-
-Reduction by 10 rupees a kilo of red - new price 940 rupees
-
-The price changes will be implemented at all Lanka Sathosa outlets in the country from today (02).. Remble
-
-◼️
-
-[Data](articles/ecec984a.json)
-
-[Extended Data](ext_articles/ecec984a.ext.json)
 
 ---

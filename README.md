@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 11:36:16**
+As of **2024-08-03 11:56:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,753 (100.0%) of 38,755 articles have been extended.
+38,755 (100.0%) of 38,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Meanwhile, the Indian Consulate General office in Jaffna confirmed that in coope
 
 [Data](articles/97ee5712.json)
 
+[Extended Data](ext_articles/97ee5712.ext.json)
+
 ---
 
-### රිය අනතුරකින් අඹු-සැමි යුවළකට බරපතළයි
+### A police accident is serious
 
 *2024-08-03 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199511) · `si`
 
-පිළියන්දල ප්‍රදේශයේදී ඊයේ (02) ත්‍රීරෝද රථයක් සහ මෝටර් රථ දෙකක් එකිනෙක ගැටීමෙන් වයෝවෘද්ධ අඹුසැමි යුවළක් බරපතළ තුවාල ලබා ඇතැයි පිළියන්දල පොලීසිය පවසයි.
+In Piliyandala, a tragic accident involving a three-wheeler and two cars resulted in serious injuries, including a 74-year-old victim. The incident occurred when the three-wheeler, carrying a girl heading to Kalubowila Teaching Hospital, collided with two cars traveling in opposite directions. The injured were initially taken to Piliyandala District Hospital before being transferred to Kalubowila Teaching Hospital for further treatment.
 
-අනතුරින් බරපතළ තුවාල ලබා ඇත්තේ වයස අවුරුදු 68 හා 74 වියේ පසුවන අඹු-සැමි යුවළකි.
+🟩
 
-අඹුසැමි යුවළ නිවසේ සිට ත්‍රීරෝද රථයෙන් කළුබෝවිල ශීක්ෂණ රෝහලේ සායනයකට සහභාගී වීම සඳහා යමින් සිටියදී අතරමගදී පාසල වෙත යාමට බස්රථයක් බලාපොරොත්තුවෙන් සිටි දැරියක් ද එහි නංවාගෙන තිබුණි.
+The Piliyandala Police say that a three-wheeler and two cars collide in Piliyandala yesterday.
 
-එලෙස ත්‍රීරෝද රථය පිළියන්දල දෙසට පැමිණෙමින් සිටියදී රාත්‍රී සේවා මුරය නිමකර නිවස බලා යමින් සිටි කර්මාන්තශාලා කළමනාකරුවෙකු පැදවූ මෝටර් රථය මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවට ධාවනයවී ත්‍රීරෝද රථයේ සහ මෝටර් රථයක ගැටි තිබේ.
+The victims were seriously injured and 74 years old.
 
-අනතුරත් සමගම තුවාල ලැබූවන් පිළියන්දල දිසා රෝහල වෙත යොමු කිරීමෙන් අනතුරුව බරපතළ තත්ත්වයේ සිටි වයෝවෘද්ධ අඹු සැමි යුවළ වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල ශික්ෂණ රෝහල වෙත යොමු කෙරුණි.
+The girl was also in a waiting girl to visit the village to attend a clinic at Kalubowila Survey Hospital from the house to the Kalubowila Teaching Hospital.
+
+The three-wheeler was coming towards Piliyandala, a factory manager who was traveling to the Piliyandala and has been driving in the opposite direction of the road and a car in a three-wheeler and car.
+
+When the injured were also directed to the Piliyan District Hospital, the old monks who were in serious condition were referred to the Kalubowila Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/cd1adcd5.json)
+
+[Extended Data](ext_articles/cd1adcd5.ext.json)
 
 ---
 

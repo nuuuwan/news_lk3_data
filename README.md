@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 22:36:00**
+As of **2024-08-03 22:53:37**
 
 ## Newspaper Stats
 
-*Scraped **38,809** Articles*
+*Scraped **38,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,499
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,145
-adaderanasinhalalk | 6,553
+adaderanasinhalalk | 6,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,809 (100.0%) of 38,809 articles have been extended.
+38,809 (100.0%) of 38,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### අනුකම්පා සහ විරෝධතා මැද ඉමානේ රන් පදක්කමට ළං වෙයි
+
+*2024-08-03 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199533) · `si`
+
+කාන්තාවක් ලෙස උපත ලැබූවත් ජාන පිහිටීමේ ස්වභාවය හේතුවෙන් ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙසින් හැඳින්වෙන ඇල්ජීරියානු බොක්සිං ක්‍රීඩිකා ඉමානේ කලීෆ් පැරිස් ඔලිම්පික් උළෙලේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීමට අද (03) සමත් වූවේය.
+
+මෙරට වේලාවෙන් අද (03) රාත්‍රියේ පැවති කාන්තා කි.ග්‍රෑ. 66 බර පන්තියේ අර්ධ අවසන් පූර්ව වටයේ තරගයට ක්‍රීඩාකළ කලීෆ්, ඇගේ ප්‍රතිවාදී ක්‍රීඩිකාව වූ හංගේරියාවේ ලූකා හමෝරිව විනිසුරු ඒකමතික තින්දුවකින් (ලකුණු 5-0) පහසුවෙන් පරාජය කළාය.
+
+ඒ අනුව ඇය අවසන් පූර්ව වටයේදී තායිලන්තයේ ජන්ජයම්  සුවන්නෆෙං සමගින් තරග වැඳීමට නියමිතව ඇත.
+
+ජාන පිහිටීමේ ස්වභාවය සහ රුධිරයේ ටෙස්ටෙස්ටරෝන් ප්‍රතිශතය ඉහළ මට්ටමක පැවතීම හේතුවෙන් ඉමානේ කලීෆ්, කාන්තාවක් වුවත් ඇයව හැඳන්වෙන්නේ ජීව විද්‍යාත්මකව පිරිමි පුද්ගලයෙකු ලෙසින්.
+
+ඒ හේතුවෙන් ඇය කාන්තා අංශය යටතේ තරග කිරීමට එරෙහිව ලොව පුරා විරෝධතා ඇතිවුණු අතර, තවත් පිරිසක් ඇය වෙනුවෙන් පෙනී සිටියේය.
+
+කෙසේ නමුත් ඇය තරග කිරීම මෙවර ඔලිම්පික් උළෙලේදී වැඩි කථා බහකට ලක්ව තිබෙන සිද්ධියකි.
+
+...
+
+[Data](articles/99362fe5.json)
+
+---
 
 ### Club Wasantha murder case releases photo police
 
@@ -2231,29 +2253,5 @@ The project was further strengthened by signing an agreement to provide addition
 [Data](articles/7a4e15d0.json)
 
 [Extended Data](ext_articles/7a4e15d0.ext.json)
-
----
-
-### 14 candidates in control - Elections Commission
-
-*2024-08-02 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190134) · `ta`
-
-On Friday, 2nd, the Elections Commission approved 14 candidates for the upcoming presidential election: 8 from authorized political parties, 1 from other parties, and 5 independents. Notably, Ananda Kularatne, Sarath Manamendra, Battaramulla Seelaratne Thera, and Akmemana Tarunatna Thera were cleared for candidacy the previous day.
-
-🟩
-
-14 candidates have been controlled on Friday 2nd to contest the presidential election. The Elections Commission has announced that 8 candidates to contest on behalf of authorized political parties, one to contest on behalf of other political parties and five candidates to contest independently.
-
-Only 14 people have been restricted until Thursday, as the presidential election will be accepted until the 14th.
-
-Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party and Battaramulla Seelaratne Thera on behalf of the Janasena Front have been recognized as the recognized political parties.
-
-At the same time, Ajantha The Soyza has paid control on behalf of the Ruhunu People's Front in the unauthorized political party.
-
-...
-
-[Data](articles/07ce0b41.json)
-
-[Extended Data](ext_articles/07ce0b41.ext.json)
 
 ---

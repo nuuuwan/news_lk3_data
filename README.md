@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 02:05:47**
+As of **2024-08-04 02:20:47**
 
 ## Newspaper Stats
 
-*Scraped **38,818** Articles*
+*Scraped **38,819** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 newsfirstlk | 363
-colombotelegraphcom | 367
+colombotelegraphcom | 368
 bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,350
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,818 (100.0%) of 38,818 articles have been extended.
+38,818 (100.0%) of 38,819 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -463,6 +463,22 @@ The two Indian fishermen and the dead fisherman's body have been handed over to 
 [Data](articles/44f6d7d2.json)
 
 [Extended Data](ext_articles/44f6d7d2.ext.json)
+
+---
+
+### Seven Days In Sri Lanka: My Mother’s Life & Shadows of Betrayal
+
+*2024-08-03 18:25:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/seven-days-in-sri-lanka-my-mothers-life-shadows-of-betrayal/) · `en`
+
+Mother died three days ago. Or maybe it was the day before. I’m not sure. It feels surreal, as if she’s still present. Her absence is heavy, a palpable silence thick with the memory of her voice. In those last days, she would call out my name in the evenings at the Cancer Hospital. I flew back for her from the US to Sri Lanka. It was a gruelling 20-hour journey.
+
+Upon landing, I was arrested at the airport. They threw me into a cramped cell with two others: a Tamilian and a man who had stolen copper wire to feed his sick mother. The wire was worth Rs.22,000 (under 75 USD). It is in my opinion a desperate act in a country declared bankrupt in 2022. The economic collapse has driven many to crime, with Colombo’s streets mired in gun violence and systemic corruption.
+
+Pic L-R: Mother Suranganee Abeyagoonasekera; Asanga Abeyagoonasekera arrested 21st July 2024 Katunayake Airport Prison; Mouse Trap at ICU entrance in Maharagama Cancer Hospital.
+
+...
+
+[Data](articles/646d3d57.json)
 
 ---
 
@@ -2263,31 +2279,5 @@ While symbolising Durdans Hospital’s unwavering commitment to excellence in pa
 [Data](articles/0de73126.json)
 
 [Extended Data](ext_articles/0de73126.ext.json)
-
----
-
-### SJB was formed to end deal politics: Marikkar
-
-*2024-08-03 00:10:12* · [`dailyftlk`](https://www.ft.lk/news/SJB-was-formed-to-end-deal-politics-Marikkar/56-765099) · `en`
-
-SJB MP S.M. Marikkar says it is Sajith Premadasa and not Ranil Wickremesinghe who truly represents the essence of a UNP leader
-
-Denies Ashu Marasinghe’s claims that Premadasa recently met with MP Namal Rajapaksa
-
-Says unlike Wickremesinghe, Premadasa is not accustomed to deal-based politics
-
-Describes Wickremesinghe’s comparison of his current team to J.R. Jayawardene’s 1977 team as a grave insult
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said the party was formed to put an end to the political deal culture in Sri Lanka.
-
-Speaking at a press conference at the Opposition leader’s office in Colombo, Marikkar said that, unlike President Ranil Wickremesinghe, Sajith Premadasa truly represents the essence of a United National Party (UNP) leader.
-
-“Unlike Ranil Wickremesinghe, Premadasa is not accustomed to deal-based politics. This is why we left the UNP to form the SJB, because Wickremesinghe was involved in political deals with the Rajapaksa clan,” he said.
-
-...
-
-[Data](articles/06f44b2e.json)
-
-[Extended Data](ext_articles/06f44b2e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 18:36:57**
+As of **2024-08-03 18:54:39**
 
 ## Newspaper Stats
 
-*Scraped **38,795** Articles*
+*Scraped **38,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
-adalk | 3,557
+adalk | 3,559
 adaderanalk | 4,496
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,821
@@ -26,11 +26,59 @@ adaderanasinhalalk | 6,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,795 (100.0%) of 38,795 articles have been extended.
+38,795 (100.0%) of 38,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### රත්නපුර පොහොට්ටු මන්ත්‍රී අටෙන් පහක්ම රනිල්ට - පවිත්‍රා දෙලොවක් අතර
+
+*2024-08-03 18:07:10* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොහොට්ටු-මන්ත්‍රී-අටෙන්-පහක්ම-රනිල්ට---පවිත්‍රා-දෙලොවක්-අතර/11-411177) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයේ සමස්ථ පොහොට්ටුවේ පාර්ලිමේන්තු, පළාත් සභා හා පළාත් පාලන මන්ත්‍රීවරු එළැඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කරති.
+
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ ප්‍රධානත්වයෙන් අද (03) දින රත්නපුරේ ශ්‍රී රම්‍යා හෝටලයේ පැවැති සාකච්ඡාවකදී එම පක්ෂයේ මහජන නියෝජිතයන් මෙම තීරණයට එළඹුණහ.
+
+සාකච්ඡාව සඳහා රත්නපුර දිස්ත්‍රික්කය නියෝජනය කරන පොහොට්ටු පාර්ලිමේන්තු මන්ත්‍රීවරු 08න් හතර දෙනෙකු පැමිණ සිටියහ.
+
+ඒ ජානක වක්කුඹුර, ප්‍රේමලාල් ජයසේකර, අකිල් එල්ලාවල සහ මුදිතා ප්‍රිශාන්ති මන්ත්‍රීවරියයි.
+
+පොහොට්ටුවෙන් තේරී පත් වූ ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරන ජෝන් සෙනෙවිරත්න මහතා දැනටමත් රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව පවසා තිබේ.
+
+එම පක්ෂයෙන් තරඟ කළ ගාමිණි වලේබොඩ මන්ත්‍රීවරයා දැනට සජිත් ප්‍රේමදාස මහතාට එකතු වීමේ සුදානමක සිටින බවත් ආසන සංවිධායක ධූරයේ ගැටළුවක් නිසා එය ප්‍රමාද වී ඇති බවත් පැවසේ.
+
+...
+
+[Data](articles/c5d2ff8e.json)
+
+---
+
+### Many candidates are on the field!: If no candidate gets 50 percent of the votes, who is the President?
+
+*2024-08-03 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190183) · `ta`
+
+In Sri Lanka's 2024 presidential election, confusion arises due to the increasing number of candidates and the voting system. If no candidate secures 50% of the votes, the first and second runners-up' votes are combined and the candidate with the majority wins. Social media's influence, including fake news, is significant. Voting involves marking preferences for up to three candidates, ensuring transparency and allowing for redistribution of votes based on preferences.
+
+🟩
+
+With the presidential elections in Sri Lanka on September 21, 2024, the number of presidential candidates to contest is increasing day by day.
+
+Meanwhile, confusion about how to vote for the presidential election has begun to arise among the people. 14 candidates have been controlled on August 2 to contest the presidential election. There is a number of candidates to increase the number of candidates as there is a time of control until noon on August 14th.
+
+In this case, the candidates who are fielding in the presidential election have begun their election campaign and promises to make the corner of the person.
+
+In the current situation, the strength of social media beyond the traditional media is seen as a severe influence in the election period. We have observed the impact of social media in the elections in the world.
+
+Fake news, fabricated news, videos and photos are being spread on social media. As well as Memes, the social media is going viral.
+
+...
+
+[Data](articles/d868c616.json)
+
+[Extended Data](ext_articles/d868c616.ext.json)
+
+---
 
 ### Special Transport Plan in Colombo
 
@@ -193,32 +241,6 @@ According to foreign media reports, Kamala Harris is to name his Deputy Presiden
 [Data](articles/5c30042f.json)
 
 [Extended Data](ext_articles/5c30042f.ext.json)
-
----
-
-### Many candidates are on the field!: If no candidate gets 50 percent of the votes, who is the President?
-
-*2024-08-03 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190183) · `ta`
-
-In Sri Lanka's 2024 presidential election, confusion arises due to the increasing number of candidates and the voting system. If no candidate secures 50% of the votes, the first and second runners-up' votes are combined and the candidate with the majority wins. Social media's influence, including fake news, is significant. Voting involves marking preferences for up to three candidates, ensuring transparency and allowing for redistribution of votes based on preferences.
-
-🟩
-
-With the presidential elections in Sri Lanka on September 21, 2024, the number of presidential candidates to contest is increasing day by day.
-
-Meanwhile, confusion about how to vote for the presidential election has begun to arise among the people. 14 candidates have been controlled on August 2 to contest the presidential election. There is a number of candidates to increase the number of candidates as there is a time of control until noon on August 14th.
-
-In this case, the candidates who are fielding in the presidential election have begun their election campaign and promises to make the corner of the person.
-
-In the current situation, the strength of social media beyond the traditional media is seen as a severe influence in the election period. We have observed the impact of social media in the elections in the world.
-
-Fake news, fabricated news, videos and photos are being spread on social media. As well as Memes, the social media is going viral.
-
-...
-
-[Data](articles/d868c616.json)
-
-[Extended Data](ext_articles/d868c616.ext.json)
 
 ---
 
@@ -975,6 +997,22 @@ Heavy traffic congestion has been reported on the High-Level Road between Kottaw
 [Data](articles/11af4bd8.json)
 
 [Extended Data](ext_articles/11af4bd8.ext.json)
+
+---
+
+### ඥානීස්සර නාහිමිපාණන්ගේ ආදාහන පූජෝත්සවය ලබන 05දා
+
+*2024-08-03 09:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ඥානීස්සර-නාහිමිපාණන්ගේ-ආදාහන-පූජෝත්සවය-ලබන-05දා/11-411175) · `si`
+
+අපවත් වී වදාළ සියම් මහා නිකායේ මල්වතු පාර්ශ්වයේ කොළඹ නව කෝරළේ ප්‍රධාන සංඝනායක, කොළඹ හුණුපිටිය ගංගාරාමාධිපති අතිජූජ්‍ය ආචාර්ය ගල්බොඩ ඥානීස්සර නාහිමිපාණන් වහන්ගේ ශ්‍රී දේහය පිළිබඳ අවසන් කටයුතු ලබන අගෝස්තු 5 වන සඳුදා සවස 4.30ට කොළඹ හුණුපිටිය ගංගාරාම විහාරස්ථාන ආදාහන මළුවේදී සිදු කිරීමට නියමිතයි.
+
+අග්‍රාමත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු අමාත්‍යවරුන්, ජනාධිපති ලේකම්වරයාගේ ඇතුළු පිරිසකගේ සහභාගිත්වයෙන් පැවැති සාකච්ඡාවේදී උන්වහන්සේගේ අවසන් කටයුතු රාජ්‍ය අනුග්‍රහය යටතේ පැවැත්වීමට තීරණය කර තිබේ.
+
+උන්වහන්සේ රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (02) දහවල්  අපවත් වූ අතර උන්වහන්සේ අපවත් වන විට 81 වැනි වියේ පසුවිය.
+
+◼️
+
+[Data](articles/d449be15.json)
 
 ---
 
@@ -2203,49 +2241,5 @@ General Shavendra Silva shown here, as the US put it, is accused of War Crimes �
 [Data](articles/d14a28f2.json)
 
 [Extended Data](ext_articles/d14a28f2.ext.json)
-
----
-
-### ‘River for Jaffna’ project to fully address water problem in north – President
-
-*2024-08-02 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100955/river-for-jaffna-project-to-fully-address-water-problem-in-north-president) · `en`
-
-President Ranil Wickremesinghe declared the immediate initiation of the “River for Jaffna” project, which is designed to provide a comprehensive solution to the water scarcity issues in the northern region of Sri Lanka.
-
-The President made these remarks while attending the opening of the Thalaiyady Seawater Desalination Plant, part of the Jaffna-Kilinochchi Water Supply Project, this morning (02).
-
-President Ranil Wickremesinghe further stated that it has been 15 years since the end of the civil war in the north. He emphasized the need for everyone to continue working together on development and expressed his goal to transform the north into a developed province within the next 5-10 years.
-
-...
-
-[Data](articles/14ae6e96.json)
-
-[Extended Data](ext_articles/14ae6e96.ext.json)
-
----
-
-### Meeting between President and Anganj
-
-*2024-08-02 20:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதிக்கும்-அங்கஜனுக்கும்-இடையில்-சந்திப்பு/71-341476) · `ta`
-
-In a meeting, President Ranil Wickremesinghe and MP Anganan Ramanathan discussed the long-standing issues and development needs of Jaffna. Ramanathan emphasized the importance of addressing these matters, including political settlements, justice for the missing, and economic development, in the president's upcoming election manifesto. He highlighted the need for leadership that prioritizes the people's aspirations and recovery from the economic crisis.
-
-🟩
-
-A special meeting between President Ranil Wickremesinghe and Member of Parliament Anganan Ramanathan took place today (02).
-
-Parliamentarian Anganan Ramanathan's Jaffna. The meeting was held at the district office, Jaffna. Anganan Ranathan had made several demands on the long -standing demands of the district and the development of the district.
-
-When President Ranil Wickremesinghe includes proposals centered on the Northern Province, especially Jaffna and Kilinochchi districts in the upcoming presidential election manifesto, our people will support him.
-
-The demands of our people are the long -standing dreams, including political settlement, justice for the missing, the development of ex -combatants, the rapid economic development of the North, the release of land, the resettlement and the essential needs.
-
-Our people expect leadership not to fulfill them. People have the value of being the leader who recovered the country from the economic crisis.
-
-...
-
-[Data](articles/2f9603af.json)
-
-[Extended Data](ext_articles/2f9603af.ext.json)
 
 ---

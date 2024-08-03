@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 20:20:33**
+As of **2024-08-03 20:35:40**
 
 ## Newspaper Stats
 
-*Scraped **38,802** Articles*
+*Scraped **38,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,559
 adaderanalk | 4,497
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,822
+tamilmirrorlk | 4,823
 virakesarilk | 6,144
 adaderanasinhalalk | 6,550
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,802 (100.0%) of 38,802 articles have been extended.
+38,802 (100.0%) of 38,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### பொலிஸ், இராணுவத்தினர் தயார் நிலையில்
+
+*2024-08-03 20:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-இராணுவத்தினர்-தயார்-நிலையில்/175-341507) · `ta`
+
+தேர்தல் கடமைகளுக்கு உத்தியோகத்தர்களை அனுப்புவது தொடர்பான தகவல் அறிக்கையை தயாரிக்கும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக குறிப்பிடப்படுகின்றது.
+
+இதுதவிர, கணிசமான அளவில் இராணுவ வீரர்களை களமிறக்க திட்டமிட்டுள்ளதாக தேர்தல் ஆணையம் கூறுகிறது. R
+
+◼️
+
+[Data](articles/0a26bd8b.json)
+
+---
 
 ### Singapore to recruit more nurses from Sri Lanka
 
@@ -2237,39 +2251,5 @@ The World Boxing Federation said that playing with the imaan Kalayife and Lin Wh
 [Data](articles/d036189e.json)
 
 [Extended Data](ext_articles/d036189e.ext.json)
-
----
-
-### The first ODI between Sri Lanka and India ended in balance
-
-*2024-08-02 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190133) · `ta`
-
-The first ODI between Sri Lanka and India at Colombo's Premadasa Stadium ended in a tie, marking the second time this has happened between the two teams. Sri Lanka, batting first, scored 230 runs but struggled against India's bowlers, managing only 101 runs for the loss of 5 wickets. Key contributors for Sri Lanka included opener Pathum Nissanka with 56 runs and middle-order batsman Dhananjaya de Silva with 67 runs. In response, India also scored 230 runs but fell short due to poor performances from key players like Virat Kohli and Shreyas Iyer.
-
-🟩
-
-Colombo R. The first international ODI match ended in the Premadasa Stadium on Friday (02).. This is the second occasion that ended in balance between the two teams.
-
-India lost all the wickets in 47.5 overs, targeting 131 runs by Sri Lanka.
-
-Prior to that, the tri -series ODI match ended in Adelaide in Adelaide between the two teams.
-
-Sri Lanka decided to bat first and scored 230 runs in 50 overs.
-
-Sri Lanka stumbled upon the Indian bowlers on the pitch, which gave them difficulty, and they scored only 101 runs for the loss of 5 wickets.
-
-In the forefront, the opening batsman Betham Nissanka only scored 56 runs with 9 pounds.
-
-In the middle of the middle of the line, the young player Dunit Vellalake did not lose the game with 67 runs, including 7 pounds and 2 sixes.
-
-Sri Lanka scored 230 runs with Janith Liyanage in the 6th wicket, 41 runs with Janit Liyanage, 36 runs with Hasaranga in the 7th and 46 runs with 8th wicket.
-
-Janith Liyanage scored 20 runs, Hazaranga 24 runs and Akkila Tanjaya 17 runs.
-
-...
-
-[Data](articles/2c0d7593.json)
-
-[Extended Data](ext_articles/2c0d7593.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 13:36:09**
+As of **2024-08-03 13:55:28**
 
 ## Newspaper Stats
 
-*Scraped **38,764** Articles*
+*Scraped **38,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,490
+adaderanalk | 4,491
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,815
 virakesarilk | 6,137
-adaderanasinhalalk | 6,537
+adaderanasinhalalk | 6,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,762 (100.0%) of 38,764 articles have been extended.
+38,762 (100.0%) of 38,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### මැදපෙරදිග යුද උණුසුම තවත් වැඩි වෙයි
+
+*2024-08-03 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199516) · `si`
+
+මැදපෙරදිග කලාපයේ යුද ගැටුම් තීව්‍ර වීමේ අවදානමක් උද්ගතව ඇත්තේ ඉරානය මෙන්ම ලෙබනනයේ හිස්බුල්ලා සංවිධානයත් ඊශ්‍රායලයට ප්‍රහාර එල්ල කරන බවට නිවේදනය කිරීමත් සමගය.
+
+ඒ අනුව මැදපෙරදිග කලාපයේ අමතර යුද නෞකා සහ ප්‍රහාරක ජෙට් යානා යෙදවීමට අමෙරිකාව පියවර ගන්නා බව පෙන්ටගනය පවසයි.
+
+ඒ සතුරු ප්‍රහාරවලින් ඊශ්‍රායලය ආරක්ෂා කිරීම සඳහා සහාය දැක්වීමක් වශයෙනි.
+
+එමෙන්ම අමතර බැලිස්ටික් මිසයිල වැළැක්වීමේ හැකියාව ඇති යුද නෞකාවක්ද යෙදවීමට අමෙරිකාව සැලසුම් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අමෙරිකානු ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් සහ ඊශ්‍රායල ආරක්ෂක ඇමති යොව් ගැලන්ට් අතර පැවති සාකච්ඡාවකින් අනතුරුව අමෙරිකාව මෙම තීරණයට එළැඹ ඇතැයි සඳහන් ය.
+
+මේ අතර මැදපෙරදිග කලාපය තුළ වර්ධනය වෙමින් ඇති යුද උණුසුම මධ්‍යයේ ඊශ්‍රායලයේ පිහිටි ඉන්දීය තානාපති කාර්යාලය විශේෂ දැනුම්දීමක් සිදු කර තිබේ.
+
+ඒ අනුව ඊශ්‍රායලයේ ඉන්දීය තානාපති කාර්යාලය ඉන්දීය ජාතිකයින්ට දැනුම් දෙන්නේ ගමන්බිමන්වලදී අතිශය ප්‍රවේශම් වන ලෙසය.
+
+◼️
+
+[Data](articles/7695f66c.json)
+
+---
+
+### Four injured in car accident near Parliament
+
+*2024-08-03 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100966/four-injured-in-car-accident-near-parliament) · `en`
+
+Four young men have been injured and hospitalized following a car accident near Parliament this morning (03).
+
+According to local residents, the speeding car in which the four individuals were travelling in lost control causing the accident.
+
+The four youths, who sustained injuries in the accident, have been hospitalized and the hospital sources said that the condition of two of them is critical.
+
+◼️
+
+[Data](articles/76c52da3.json)
+
+---
 
 ### සනත් කිව්ව දේ අකුරටම තේරුම් ගත් දුනිත්
 
@@ -2195,49 +2235,5 @@ The diversified conglomerate’s National Long-Term Rating of at ‘AA+(lka)’ 
 [Data](articles/1e118690.json)
 
 [Extended Data](ext_articles/1e118690.ext.json)
-
----
-
-### 35 lakh people in the country cannot continue to get clean drinking water
-
-*2024-08-02 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190112) · `ta`
-
-A survey covering 3,210 locations across 25 districts found that 35 lakh people lack access to clean drinking water in Sri Lanka. Conducted by the Department of Census and Statistics, Water Supply and Estate Infrastructure Development, and UNICEF, it highlighted the urgent need for improved water purification systems in both urban and rural areas.
-
-🟩
-
-Professor PBA of the University of Peradeniya, PBA, has about 67 percent of the country's population in the country.. Wasantha Attukorala said.
-
-The survey has been conducted using 3,210 housing models, including urban, rural and plantation areas in 25 districts of the country.
-
-Accordingly, the study was conducted by the Department of Census and Statistics, Water Supply and Estate Infrastructure Development and UNICEF on the quality of drinking water.
-
-Accordingly, about 35 lakh people are unable to continue to get clean drinking water.
-
-Therefore, facilities to improve water purification and water purification systems are the need for people in urban and rural areas, the professor said.
-
-◼️
-
-[Data](articles/1645d5fe.json)
-
-[Extended Data](ext_articles/1645d5fe.ext.json)
-
----
-
-### 3 newly freed Americans are back on US soil after landmark prisoner exchange with Russia
-
-*2024-08-02 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100951/3-newly-freed-americans-are-back-on-us-soil-after-landmark-prisoner-exchange-with-russia) · `en`
-
-The United States and Russia completed their biggest prisoner swap in post-Soviet history on Thursday, with Moscow releasing journalist Evan Gershkovich and fellow American Paul Whelan, along with dissidents including Vladimir Kara-Murza, in a multinational deal that set two dozen people free.
-
-Gershkovich, Whelan and Alsu Kurmasheva, a journalist with dual U.S.-Russia citizenship, arrived on American soil shortly before midnight for a joyful reunion with their families. President Joe Biden and Vice President Kamala Harris also were at Joint Base Andrews in Maryland to greet them and dispense hugs all around.
-
-The trade unfolded despite relations between Washington and Moscow being at their lowest point since the Cold War after Russian President Vladimir Putin’s February 2022 invasion of Ukraine.
-
-...
-
-[Data](articles/13a34207.json)
-
-[Extended Data](ext_articles/13a34207.ext.json)
 
 ---

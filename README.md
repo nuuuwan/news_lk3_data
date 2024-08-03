@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 10:54:10**
+As of **2024-08-03 11:05:53**
 
 ## Newspaper Stats
 
-*Scraped **38,751** Articles*
+*Scraped **38,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
-adalk | 3,555
-adaderanalk | 4,487
+adalk | 3,556
+adaderanalk | 4,488
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
 virakesarilk | 6,135
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,751 (100.0%) of 38,751 articles have been extended.
+38,751 (100.0%) of 38,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Magnitude 6.7 earthquake strikes off Mindanao, Philippines
+
+*2024-08-03 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100963/magnitude-67-earthquake-strikes-off-mindanao-philippines) · `en`
+
+An earthquake of magnitude 6.7 struck off the eastern shore of the island of Mindanao in the Philippines on Saturday, the German Research Centre for Geosciences (GFZ) said.
+
+The U.S. Geological Survey said pegged the magnitude at 6.8.
+
+The U.S. National Tsunami Warning Center said that there was no tsunami threat from the earthquake.
+
+Philippine seismology agency PHIVOLCS said in an advisory it was not expecting damage from the offshore quake, but warned of aftershocks.
+
+The Philippines is in the Pacific “Ring of Fire,” where volcanic activity and earthquakes are common.
+
+◼️
+
+[Data](articles/4ecc9b4d.json)
+
+---
 
 ### Notice to drivers using High Level
 
@@ -97,6 +117,24 @@ Executive Director of PAFFREL, Rohana Hettiarachchi stated that the majority of 
 [Data](articles/ae0b2562.json)
 
 [Extended Data](ext_articles/ae0b2562.ext.json)
+
+---
+
+### “යාපනයට ගංගාවක්” ව්‍යාපෘතිය කඩිනමින්
+
+*2024-08-03 09:39:09* · [`adalk`](https://www.ada.lk/breaking_news/“යාපනයට-ගංගාවක්”-ව්‍යාපෘතිය-කඩිනමින්/11-411173) · `si`
+
+දීර්ඝ කාලයක් පුරා පවතින උතුරේ ජල ගැටළුවට ස්ථීර විසඳුමක් ලබා දීම සඳහා (River for Jaffna) “යාපනයට ගංගාවක්” ව්‍යාපෘතිය කඩිනමින් ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ “යාපනය – කිලිනොච්චි” ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය විවෘත කිරීමේ අවස්ථාවට එක් වෙමිනි.
+
+මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ උතුරේ සිවිල් යුද්ධය අවසන් වී මේ වන විට වසර 15ක් ගත වී ඇති බවත්, දැන් සියලුදෙනා එක්ව සංවර්ධන යුද්ධය ඉදිරියට ගෙන යා යුතු බවත්ය. ඉදිරි වසර 05-10 තුළ යාපනය දියුණු ප්‍රදේශයක් බවට පත් කිරීම තම අරමුණ බව පැවසූ ජනාධිපතිවරයා ඒ සඳහා එහි සියලු ජනතාවගේ සහාය අපේක්ෂා කරන බවද කියා සිටියේය.
+
+යාපනය – කිලිනොච්චි ජල සම්පාදන ව්‍යාපෘතියේ තාලෛයාඩි මුහුදු ජල නිර්ලවණකරන පවිත්‍රාගාරය ආසියානු සංවර්ධන බැංකුවේ හා ශ්‍රී ලංකා රජයේ මූල්‍ය ප්‍රතිපාදන මත ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශයේ, ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය මඟින් ක්‍රියාත්මක කෙරේ.
+
+...
+
+[Data](articles/6ff938ce.json)
 
 ---
 
@@ -2201,47 +2239,5 @@ The four arrested suspects were to be produced in court.
 [Data](articles/cbeea23e.json)
 
 [Extended Data](ext_articles/cbeea23e.ext.json)
-
----
-
-### AKD holds talks with Ceylon Chamber of Commerce
-
-*2024-08-02 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100948/akd-holds-talks-with-ceylon-chamber-of-commerce) · `en`
-
-A meeting has taken place between representatives of the Ceylon Chamber of Commerce including its Chairman, Duminda Hulangamuwa and the leader of the National People’s Power (NPP) Anura Kumara Dissanayake.
-
-The discussion had taken place last evening (01) at the headquarters of Janatha Vimukthi Peramuna (JVP).
-
-During the meeting, the Ceylon Chamber of Commerce (CCC) presented its comprehensive policy document, titled ‘Vision 2030’ which outlines the economic trajectory of Sri Lanka over the next five years, to the NPP leader.
-
-A delegation of the Ceylon Chamber of Commerce including the Vice Chairperson, Krishan Balendra, Deputy Vice Chairperson, Bingumal Thewarathanthri, and members of the director board, Amal Cabral, Sarath Ganegoda, Supun Weerasinghe and Vinod Hirdaramani as well as the executive committee members of the NPP, Prof. Anil Jayantha and Dr. Harshana Suriyapperuma were also present for the discussion.
-
-◼️
-
-[Data](articles/5492d854.json)
-
-[Extended Data](ext_articles/5492d854.ext.json)
-
----
-
-### Sri Lanka Business Federation - Anura Kumara Dissanayake Meeting
-
-*2024-08-02 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190100) · `ta`
-
-A meeting took place at the JVP headquarters involving the Sri Lanka Chamber of Commerce's President, the National People's Power Leader, and several members of the Sri Lanka Business Federation. They discussed the "Vision 2030 - Five Year Economic Project," which was presented to Anura Kumara Dissanayake.
-
-🟩
-
-A meeting was held on Thursday afternoon at the main office of the Janatha Vimukthi Peramuna (JVP), including the President of the Sri Lanka Chamber of Commerce Duminda Hulangamuwa and the National People's Power Leader Anura Kumara Dissanayake.
-
-The "Vision 2030 - Five Year Economic Project" launched by the Sri Lanka Business Federation was also handed over to the Anura.
-
-The meeting was attended by Vice President of the Sri Lanka Business Federation, Krishan Balendra, Deputy Chairman Bingumal Thevarasinghe and Director of Directors Amal Kabral, Sarath Kanegoda, Subun Weerasinghe, Vinod Hytramani and Prof. Anil Jayantha and Professor Harshana.
-
-◼️
-
-[Data](articles/38186720.json)
-
-[Extended Data](ext_articles/38186720.ext.json)
 
 ---

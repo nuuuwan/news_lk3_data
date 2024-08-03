@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 13:55:28**
+As of **2024-08-03 14:07:07**
 
 ## Newspaper Stats
 
-*Scraped **38,766** Articles*
+*Scraped **38,767** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 newsfirstlk | 363
-colombotelegraphcom | 365
+colombotelegraphcom | 366
 bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,346
@@ -26,33 +26,39 @@ adaderanasinhalalk | 6,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,762 (100.0%) of 38,766 articles have been extended.
+38,766 (100.0%) of 38,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### මැදපෙරදිග යුද උණුසුම තවත් වැඩි වෙයි
+### The Middle East warming increases
 
 *2024-08-03 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199516) · `si`
 
-මැදපෙරදිග කලාපයේ යුද ගැටුම් තීව්‍ර වීමේ අවදානමක් උද්ගතව ඇත්තේ ඉරානය මෙන්ම ලෙබනනයේ හිස්බුල්ලා සංවිධානයත් ඊශ්‍රායලයට ප්‍රහාර එල්ල කරන බවට නිවේදනය කිරීමත් සමගය.
+The Middle East's warming trend escalates tensions, with Iran and Hezbollah in Lebanon posing risks of conflict. The Pentagon plans to deploy more warships and fighter jets to the region to safeguard Israel from potential attacks. Additionally, there are reports of the U.S. considering deploying more ballistic missiles. Amidst this, the Indian Embassy in Israel advises its citizens to exercise caution due to the escalating situation.
 
-ඒ අනුව මැදපෙරදිග කලාපයේ අමතර යුද නෞකා සහ ප්‍රහාරක ජෙට් යානා යෙදවීමට අමෙරිකාව පියවර ගන්නා බව පෙන්ටගනය පවසයි.
+🟩
 
-ඒ සතුරු ප්‍රහාරවලින් ඊශ්‍රායලය ආරක්ෂා කිරීම සඳහා සහාය දැක්වීමක් වශයෙනි.
+The risk of war-torn conflicts in the Middle East is the announcement of Iran as well as the Hezbollah organization in Lebanon.
 
-එමෙන්ම අමතර බැලිස්ටික් මිසයිල වැළැක්වීමේ හැකියාව ඇති යුද නෞකාවක්ද යෙදවීමට අමෙරිකාව සැලසුම් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+According to the Pentagon, the US will take steps to use additional war vessels and fighter jets in the Middle East.
 
-අමෙරිකානු ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් සහ ඊශ්‍රායල ආරක්ෂක ඇමති යොව් ගැලන්ට් අතර පැවති සාකච්ඡාවකින් අනතුරුව අමෙරිකාව මෙම තීරණයට එළැඹ ඇතැයි සඳහන් ය.
+It is a support to protect the Israel of hostile attacks.
 
-මේ අතර මැදපෙරදිග කලාපය තුළ වර්ධනය වෙමින් ඇති යුද උණුසුම මධ්‍යයේ ඊශ්‍රායලයේ පිහිටි ඉන්දීය තානාපති කාර්යාලය විශේෂ දැනුම්දීමක් සිදු කර තිබේ.
+The United States is planning to use an additional balistic missile in the United States, foreign media reports say.
 
-ඒ අනුව ඊශ්‍රායලයේ ඉන්දීය තානාපති කාර්යාලය ඉන්දීය ජාතිකයින්ට දැනුම් දෙන්නේ ගමන්බිමන්වලදී අතිශය ප්‍රවේශම් වන ලෙසය.
+US Secretary of Defense Lloydine and Israeli Defense Minister Said The United States said.
+
+Meanwhile, the Indian Embassy in Israel has made special notice in the midst of warming warming in the Middle East region.
+
+Accordingly, the Indian embassy in Israel is informed Indian nationals to be extremely careful in the journey.
 
 ◼️
 
 [Data](articles/7695f66c.json)
+
+[Extended Data](ext_articles/7695f66c.ext.json)
 
 ---
 
@@ -70,41 +76,57 @@ The four youths, who sustained injuries in the accident, have been hospitalized 
 
 [Data](articles/76c52da3.json)
 
+[Extended Data](ext_articles/76c52da3.ext.json)
+
 ---
 
-### සනත් කිව්ව දේ අකුරටම තේරුම් ගත් දුනිත්
+### The evil understanding of what Sanath said
 
 *2024-08-03 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199515) · `si`
 
-පැතුම් නිස්සංක ඊයේ (02) පිතිකරණයේ යෙදෙන අයුරු අනුව තමාගේ සැලසුම සාදාගත් බව ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක දුනිත් වෙල්ලාලගේ පැවසීය.
+Duti Weleliga, a Sri Lankan cricketer, revealed he tailored his game plan based on Sanath Jayasuriya's bowling style. In the first One-Day International (ODI) against India, Sri Lanka scored 223 runs, with Duti contributing 67 not out. Despite this, India reached their target of 231 runs, showcasing a competitive match.
 
-ඊයේ තරගයෙන් පසු මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+🟩
 
-"මැච් එක පටන් ගන්න කලින් සනත් සර් අපිට කියලා තිබ්බේ විකට් එක ටිකක් කැපෙයි කියලා. ඒ නිසා මම විශේෂයෙන්ම ප්ලෑන් එකක් දාගෙන හිටියේ... කොහොමද සෙල්ලං කරන්න ඕනේ කියලා. තවත් දෙයක් තමයි... මම ගොඩක් බලන් හිටියා පැතුම් නිස්සංක බැට් කරනවා. එයා බැට් කරන විදියෙනුත් මම දේවල් ඔළුවට දාගත්තා. ඒවා අනුව තමයි ප්ලෑන් එකකට ආවේ."
+Sri Lankan cricketer Duti Weleliga said he made his plan according to the bowling of the wish.
 
-සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවති පළමු එක්දින තරගය ශ්‍රී ලංකාවට වැඩි ගෞරව හිමිකරදෙමින් ජය පරාජයෙන් තොරව ඊයේ (02) අවසන් කෙරුණි.
+Speaking to the media, he said that yesterday.
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවති එක්දින තරගාවලි ඉතිහාසයේ ලකුණු සමවීම හේතුවෙන් ජය පරාජයෙන් තොරව අවසන් වූ දෙවැනි එක්දින තරගය මෙය වෙයි.
+"Sanath sir before starting the match, Sanath Sir we had told us a little cut. So I was particularly putting a plan ... How to play. Another thing is ... I was waiting a lot of wishes. The way he barted, I put things in your head. They came to a plan. "
 
-ඊයේ තරගයේදී පැතුම් නිස්සංක ලකුණු 56ක් රැස්කළ අතර සිය එක්දින දිවියේ මංගල අර්ධ ශතකය වාර්තා කළ දුනිත් වෙල්ලාලගේ නොදැවී ලකුණු 67ක් රැස් කළේය.
+The first one-day international between the Sri Lankan team and the Sri Lankan team, the first one-day international between Sri Lanka, was completed yesterday.
 
-...
+This is the second ODI over the end of the history of ODIs between Sri Lanka and India.
+
+The wishes of Sri Lanka scored 56 runs in yesterday's visit and scored 67 not out.
+
+The Indian team was able to accumulate 230 runs in 47 overs and to score a target of 231 runs.
+
+◼️
 
 [Data](articles/b9ad4cf2.json)
 
+[Extended Data](ext_articles/b9ad4cf2.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் தொடர்பில் 45 முறைப்பாடுகள்
+### 45 complaints regarding presidential election
 
 *2024-08-03 12:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-தொடர்பில்-45-முறைப்பாடுகள்/175-341496) · `ta`
 
-ஜனாதிபதி தேர்தல் தொடர்பான தேர்தல் சட்டங்களை மீறியமை தொடர்பில் 45 முறைப்பாடுகள் கிடைத்துள்ளதாக ஃபெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+The People's Organization reported 45 election law violations during the presidential election, mainly concerning the misuse of state power.
 
-அரச அதிகாரத்தை துஷ்பிரயோகம் செய்தமை தொடர்பில் அதிகளவான முறைப்பாடுகள் பதிவாகியுள்ளதாக அதன் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார். R
+🟩
+
+The People's Organization said that 45 complaints have been received regarding the violation of election laws related to the presidential election.
+
+The Executive Director Rohana Hettiarachchi said that there have been a lot of complaints about abuse of state power.. Remble
 
 ◼️
 
 [Data](articles/875efc27.json)
+
+[Extended Data](ext_articles/875efc27.ext.json)
 
 ---
 
@@ -643,6 +665,16 @@ Strong winds of about 50 kmph can be expected at times over Western slopes of th
 [Data](articles/b67404da.json)
 
 [Extended Data](ext_articles/b67404da.ext.json)
+
+---
+
+### In The Context of Hon. Sampanthan’s Exit
+
+*2024-08-03 08:19:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-the-context-of-hon-sampanthans-exit/) · `en`
+
+...
+
+[Data](articles/c1e184f8.json)
 
 ---
 
@@ -2211,29 +2243,5 @@ The Thero was reportedly receiving treatment at a private hospital in Colombo at
 [Data](articles/50cda584.json)
 
 [Extended Data](ext_articles/50cda584.ext.json)
-
----
-
-### Sunshine Holdings to amalgamate its subsidiary Sunshine Packaging
-
-*2024-08-02 17:09:00* · [`economynextcom`](https://economynext.com/sunshine-holdings-to-amalgamate-its-subsidiary-sunshine-packaging-175043/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sunshine Holdings Plc said it will merge its subsidiary Sunshine Packaging Lanka Limited.
-
-“The Board of Directors of Sunshine Holdings PLC has resolved to amalgamate with Sunshine Packaging Lanka Limited, a fully owned subsidiary of Sunshine Holdings PLC,” the company said in stock exchange filing.
-
-“Sunshine Holdings PLC will amalgamate all assets and liabilities of Sunshine Packaging Lanka Limited and the amalgamated company will be Sunshine Holdings PLC.”
-
-The amalgamation will be carried out in terms of section 242 (1) of the Companies Act No. 7 of 2007 and the amalgamation will expect to take effect on 01st October 2024, the company said.
-
-Directors of Sunshine Holdings Plc will remain as directors of the amalgamated company after the amalgamation.
-
-The diversified conglomerate’s National Long-Term Rating of at ‘AA+(lka)’ with a stable outlook was confirmed in May by Fitch Ratings. (Colombo/Aug2/2024)
-
-◼️
-
-[Data](articles/1e118690.json)
-
-[Extended Data](ext_articles/1e118690.ext.json)
 
 ---

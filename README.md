@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 18:25:29**
+As of **2024-08-03 18:36:57**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,794 (100.0%) of 38,795 articles have been extended.
+38,795 (100.0%) of 38,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### கொழும்பில் விசேட போக்குவரத்து திட்டம்
+### Special Transport Plan in Colombo
 
 *2024-08-03 17:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-341504) · `ta`
 
-எதிர்வரும் திங்கட்கிழமை பிற்பகல் 2 மணி முதல் இரவு 8 மணிவரை கொழும்பு - கங்காராமை விகாரையை அண்டிய பகுதிகளில்  இந்த விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A special traffic plan will be active near Colombo-Kangaram Vihara from 2 pm to 8 pm on Monday due to the funeral of Vikrama of Gangarama Vihara.
 
-கங்காராம விகாரையின் மறைந்த விகாராதிபதி கல்பொட ஞானீஸ்வர தேரரின் இறுதிக் கிரியை காரணமாக இந்த விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளது. R
+🟩
+
+The special traffic scheme will be implemented in the areas adjoining the Colombo -Kangaram Vihara from 2 pm to 8 pm on Monday.
+
+This special traffic scheme is to be implemented due to the funeral of the late Vikrama of the Gangarama Vihara.. Remble
 
 ◼️
 
 [Data](articles/2fbe0b8c.json)
+
+[Extended Data](ext_articles/2fbe0b8c.ext.json)
 
 ---
 

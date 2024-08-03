@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 13:06:00**
+As of **2024-08-03 13:20:44**
 
 ## Newspaper Stats
 
-*Scraped **38,761** Articles*
+*Scraped **38,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,489
+adaderanalk | 4,490
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
 virakesarilk | 6,137
@@ -26,33 +26,63 @@ adaderanasinhalalk | 6,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,758 (100.0%) of 38,761 articles have been extended.
+38,761 (100.0%) of 38,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### අනීතික වැඩක් කළ පොලිස් සාජන්ට වැඩ වරදියි
+### Kamala Harris formally chosen as Democratic nominee
 
-*2024-08-03 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199514) · `si`
+*2024-08-03 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100965/kamala-harris-formally-chosen-as-democratic-nominee) · `en`
 
-වත්තල, මාබෝල ප්‍රදේශයේ බහාලුම් අංගනයකට යාම සඳහා පැමිණි ලොරි රථයක් රියදුරු නොමැතිව මාර්ගයේ නවතා තැබීම හේතුවෙන් රථවාහන රාජකාරියේ නිරත පොලිස් සාජන්වරයෙකු එහි ඉදිරිපස රෝදයේ හුළං යවන රූපරාමු පෙළක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ සංසරණය වෙයි.
+US Vice-President Kamala Harris has passed the threshold to clinch the Democratic presidential nomination in a vote of party delegates.
 
-එම පොලිස් නිලධාරියා එහිදී පවසන්නේ මාර්ගයේ ගමනාගමනයට බාධාවීම හේතුවෙන් එලෙස හුළං යැවූ බවය.
+Speaking by telephone, Ms Harris said she was “honoured to be the presumptive nominee” as the virtual roll call continues ahead of the Democratic National Convention (DNC) in Chicago later this month.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් ඒ මොහොතේ එම ස්ථානයේ සිටි පිරිසකගෙන් ද විරෝධයක් එල්ල වී තිබුණි.
+Ms Harris is the first black woman and first South Asian woman to become the White House standard-bearer for a major US political party.
 
-කෙසේ වෙතත් අදාළ ස්ථානයට පැමිණෙන ලොරි රථයේ රියදුරු පවසා ඇත්තේ, ලියකියවිලි භාරදීම සඳහා තමන් බහාලුම් අංගනයට ගිය බවය.
+If she defeats Donald Trump, the Republican nominee, in November she would be America’s first female president.
 
-ඒ අතරතුරදී මෙම පොලිස් නිලධාරියා ලොරි රථයේ රියදුරුට දඩ කොළයක් ලබාදී එම ස්ථානයෙන් පිටව ගොස් තිබුණි.
+She ran unopposed in the virtual roll call after President Joe Biden stepped aside last month and quickly endorsed her. Several potential rivals followed his lead.
 
-කෙසේවෙතත් මෙම සිද්ධිය සම්බන්ධයෙන් පොලීසිය පවසන්නේ  අදාළ පොලිස් සාජන්වරයා සිදුකරන ලද එම ක්‍රියාව සම්පූර්ණයෙන්ම අනීතික ක්‍රියාවක් බවත් මෙවැනි වරදක් සඳහා දඩ මුදලක් පමණක් පැනවිය හැකි බවත්ය.
-
-මෙවැනි නිලධාරීන්ගේ ක්‍රියාකලාපය හේතුවෙන් සමස්ත පොලිස් දෙපාර්තමේන්තුවම අපකීර්තියට පත්වන බැවින් ඔහුට විරුද්ධව දැඩි විනය පියවර ගැනීමට නියමිත බවත් පොලීසිය පැවසීය.
+On Friday afternoon, Ms Harris formally became the nominee after securing the support of 2,350 delegates, the threshold required to earn the nomination.
 
 ...
 
+[Data](articles/2e757a10.json)
+
+---
+
+### Sharjan, who committed an invalid work, is signing
+
+*2024-08-03 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199514) · `si`
+
+Sharjan, involved in an illegal activity, faces a police duty after being stopped for obstructing traffic in the Mabolla area, Wattala. The police claim the wind caused the obstruction. Opponents argue against this incident. The lorry driver claims he was delivering documents. The police sergeant's actions were deemed unusual, potentially leading to disciplinary proceedings.
+
+🟩
+
+A lorry duty in the Mabolle area to reach a container in the Mabolla area in Wattala is a police-duty on the front of the front of the front.
+
+The police officer says that the wind has been sent as a result of the obstacle to traffic.
+
+At the same time, a group of people had been opposed to the incident.
+
+The driver of the lorry that arrives at the place, however, said he went to the container yard to hand over documents.
+
+In the meantime, the police officer had left the lorry and left the lorry.
+
+However, the police say that the action of the police sergeant was completely unique and that only a penalty could be imposed on such an offense.
+
+The entire police department will be discredited due to the conduct of such officers, police said.
+
+Accordingly, the officer has been summoned to the Police Traffic today for a disciplinary inquiry today.
+
+◼️
+
 [Data](articles/c870205a.json)
+
+[Extended Data](ext_articles/c870205a.ext.json)
 
 ---
 
@@ -148,21 +178,31 @@ When the injured were also directed to the Piliyan District Hospital, the old mo
 
 ---
 
-### இலங்கை கடற்பரப்பில் உயிரிழந்த மீனவரின் சடலம் இராமேஸ்வரம் கொண்டு செல்லப்பட்டது !
+### The body of a fisherman who died in the Sri Lankan waters was taken to Rameswaram!
 
 *2024-08-03 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/190151) · `ta`
 
-யாழ்ப்பாணம், நெடுந்தீவுக் கடற்பரப்பில் படகு கவிழ்ந்து கடலுக்குள் மூழ்கி உயிரிழந்த மீனவரின் சடலம் இன்று சனிக்கிழமை (03) அதிகாலை கடல் வழியாக இராமேஸ்வரம் மீன் பிடி துறைமுகத்திற்கு கொண்டு செல்லப்பட்டது.
+A fisherman named Ramachandran drowned off Jaffna and Neduntivu, but his body was retrieved and brought to Rameswaram. Two others, Muttu Muniyandi and Mukkaya, were rescued by the Sri Lankan navy and later handed over to the Indian embassy. The search for Ramachandran continued, and his body was eventually found and returned to Rameswaram.
 
-இராமேஸ்வரம் மீன்பிடித் துறைமுகத்திலிருந்து புதன்கிழமை கடலுக்குச் சென்ற விசைப்படகு இலங்கை கடற்பரப்பில் மீன்பிடி நடவடிக்கையில் ஈடுபட்ட போது அவர்களை கைதுசெய்ய இலங்கை கடற்படையின் ரோந்து கப்பல் சென்ற நிலையில், அங்கு ஏற்பட்ட விபத்தையடுத்து மீன்பிடி படகிலிருந்து மலைச்சாமி (59) என்ற மீனவர் கடலில் மூழ்கி உயிரிழந்ததுடன், ராமச்சந்திரன் (64) என்ற மீனவர் கடலில் மூழ்கி மாயமாகி உள்ளார்.
+🟩
 
-மேலும், முத்து முணியாண்டி, மூக்கையா ஆகிய இரண்டு மீனவர்கள் இலங்கை கடற்படையினரால் மீட்கப்பட்டு யாழ்ப்பாணம், காங்கேசன்துறையில் உள்ள கடற்படை முகாமிற்கு கொண்டு செல்லப்பட்டனர்.
+The body of a fisherman who died in the sea in the sea of ​​Jaffna and Neduntivu was taken to the Rameswaram fishing harbor by the sea on Saturday morning.
 
-வெள்ளிக்கிழமை (02) மதியம் முத்து முணியாண்டி, மூக்கையா ஆகிய இரண்டு மீனவர்கள் வழக்குப் பதிவு செய்யப்படாது எதுவுமின்றி யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரக அதிகாரிகளிடம்  ஒப்படைக்கப்பட்டனர்.
+Ramachandran (64), a fisherman, was drowned in the sea from the fishing boat after the accident occurred when the Sri Lankan navy patrols them to arrest the Sri Lankan navy's patrol vessel when they went to sea from Rameswaram fishing harbor on Wednesday.
+
+In addition, two fishermen, Muttu Muniyandi and Mukkaya, were rescued by the Sri Lankan navy and taken to the Naval Camp in Kankesanthurai, Jaffna.
+
+On Friday (02), two fishermen, Muthu Muniyandi and Mukkaya, were handed over to the Indian embassy in Jaffna without any case.
+
+Also, for the second day, the search for the fisherman Ramachandran, who was in the Mediterranean, continued to continue by the Navy Helicopter and Coast Guard patrol boats.
+
+In this case, the body of the hill -hill -rescued hill was recovered at the Jaffna Hospital and handed over to the Indian Embassy in Jaffna.
 
 ...
 
 [Data](articles/898baf17.json)
+
+[Extended Data](ext_articles/898baf17.ext.json)
 
 ---
 
@@ -240,21 +280,27 @@ At the same time, a meeting will be held between the Secretaries of all Ministri
 
 ---
 
-### கடலுக்குள் மூழ்கியே இந்திய மீனவர் உயிரிழப்பு : உடற்கூற்றுப் பரிசோதனை அறிக்கையில் தகவல்
+### Indian fisherman death
 
 *2024-08-03 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190150) · `ta`
 
-யாழ்ப்பாணம், நெடுந்தீவுக் கடற்பரப்பில் வியாழக்கிழமை (01) இடம்பெற்ற விபத்தில், இந்திய மீனவர் ஒருவர் உயிரிழந்த நிலையில், அவர் தண்ணீருக்குள் மூழ்கியதாலேயே இறப்புச் சம்பவித்துள்ளதாக உடற்கூற்றுப் பரிசோதனையில் தெரிவிக்கப்பட்டுள்ளது.
+An Indian fisherman drowned in an accident involving the Sri Lankan navy attempting to arrest him in the Neduntivu Sea, Jaffna. His body was examined at the Jaffna Teaching Hospital, revealing he had drowned. As of Friday evening, the navy had not found another missing fisherman.
 
-அத்துமீறிய மீன்பிடியில் ஈடுபட்டவர்களை இலங்கை கடற்படையினர் கைது செய்ய முற்பட்டபோதே இந்த விபத்துச் சம்பவித்திருந்தது.
+🟩
 
-இறந்தவரின் சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டிருந்த நிலையில், வெள்ளிக்கிழமை (02) உடற்கூற்றுப் பரிசோதனை மேற்கொள்ளப்பட்டது. இதன்போதே அந்த மீனவர் தண்ணீரில் மூழ்கியதால் இறப்புச் சம்பவித்துள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. சட்டமருத்துவ அதிகாரி செ.பிரணவன் இந்த உடற்கூற்றுப் பரிசோதனைகளை மேற்கொண்டார்.
+An anatomical examination revealed that an Indian fisherman died in the accident on Thursday (01) in the Neduntivu Sea, Jaffna.
 
-இதேவேளை, காணாமற்போன மீனவர் வெள்ளிக்கிழமை மாலை வரை மீட்கப்படவில்லை என்றும் இலங்கை கடற்படை அறிவித்துள்ளது.
+The accident occurred when the Sri Lankan navy tried to arrest the fishermen.
+
+The body of the deceased was held at the Jaffna Teaching Hospital on Friday (02).. It is reported that the fisherman was drowned in the water.. The legal officer, S. Pranavan, carried out these anatomical tests.
+
+Meanwhile, the Sri Lankan navy has announced that the missing fisherman has not been recovered until Friday evening.
 
 ◼️
 
 [Data](articles/79e81b63.json)
+
+[Extended Data](ext_articles/79e81b63.ext.json)
 
 ---
 
@@ -2203,25 +2249,5 @@ Watawala Plantations Plc, which released interim results, showed a slump in prof
 [Data](articles/1ad85341.json)
 
 [Extended Data](ext_articles/1ad85341.ext.json)
-
----
-
-### Sri Lanka is conquering with Japan and Korea
-
-*2024-08-02 16:49:45* · [`adalk`](https://www.ada.lk/breaking_news/ජපානය-හා-කොරියාව-සමග-ලංකාව-සමවෙයි/11-411170) · `si`
-
-Sri Lanka ranks among the top three countries globally for tree density, surpassing Japan and South Korea. A report by the Committee on Public Accounts highlighted this achievement, emphasizing the importance of forest conservation. The Department of Forest Conservation noted that while global forest coverage stands at 31%, Sri Lanka maintains a similar percentage. The committee urged for faster gazetting of protected areas to enhance conservation efforts.
-
-🟩
-
-The Committee on Public Accounts revealed that Sri Lanka was between 300 countries in 300 countries that run between 300 crops and the world's 3 countries per square kilometer.. Accordingly, South Korea and Japan is only two deceased, according to Sri Lanka, is only two deceased.
-
-The following was revealed when the Committee on State Accounts met with the President of State Minister Lasantha Alagiyawanna.. The Department of Forest Conservation was summoned to the investigation of the report and the present performance of 2020, 2021 and 2022 years of performance.. The forests in the world is considered 31%, and forest conservation department officials pointed out that the percentage of the country is in the level of 30%.
-
-...
-
-[Data](articles/c2a98572.json)
-
-[Extended Data](ext_articles/c2a98572.ext.json)
 
 ---

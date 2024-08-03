@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 20:35:40**
+As of **2024-08-03 20:54:46**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,802 (100.0%) of 38,803 articles have been extended.
+38,803 (100.0%) of 38,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### பொலிஸ், இராணுவத்தினர் தயார் நிலையில்
+### In the case of police and military
 
 *2024-08-03 20:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-இராணுவத்தினர்-தயார்-நிலையில்/175-341507) · `ta`
 
-தேர்தல் கடமைகளுக்கு உத்தியோகத்தர்களை அனுப்புவது தொடர்பான தகவல் அறிக்கையை தயாரிக்கும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாக குறிப்பிடப்படுகின்றது.
+Preparation for deploying police officers for election duties is underway, alongside plans by the Election Commission to involve a substantial number of soldiers.
 
-இதுதவிர, கணிசமான அளவில் இராணுவ வீரர்களை களமிறக்க திட்டமிட்டுள்ளதாக தேர்தல் ஆணையம் கூறுகிறது. R
+🟩
+
+It is reported that the preparation of information report on sending officers for election obligations has begun.
+
+In addition, the Election Commission says it is planning to field a significant number of soldiers. Remble
 
 ◼️
 
 [Data](articles/0a26bd8b.json)
+
+[Extended Data](ext_articles/0a26bd8b.ext.json)
 
 ---
 

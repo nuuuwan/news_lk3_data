@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 15:36:08**
+As of **2024-08-03 15:54:34**
 
 ## Newspaper Stats
 
-*Scraped **38,779** Articles*
+*Scraped **38,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,494
 adalk | 3,557
 adaderanalk | 4,493
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,818
+tamilmirrorlk | 4,820
 virakesarilk | 6,140
-adaderanasinhalalk | 6,541
+adaderanasinhalalk | 6,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,778 (100.0%) of 38,779 articles have been extended.
+38,779 (100.0%) of 38,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### 5වනදා කොළඹ විශේෂ රථවාහන සැලැස්මක්
+
+*2024-08-03 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199521) · `si`
+
+අපවත්වී වදාළ ගංගාරාම විහාරස්ථානයේ පූජ්‍ය ගලබොඩ ඤාණිස්සර නාහිමියන්ගේ (පොඩි හාමුදුරුවෝ) අවසන් කටයුතු සිදුකෙරෙන සඳුදා දින විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+
+එළැඹෙන සඳුදා (05) පස්වරු 2.00 සිට රාත්‍රී 8.00 දක්වා කාලය තුළ රථ වාහන තදබදය අවම කිරීම සඳහා මෙම විශේෂ රථ වාහන සැලැස්ම ක්‍රියාත්ම කරනු බව පොලීසිය පවසයි.
+
+ඒ අනුව එම කාලය තුළ පහත මාර්ගවල රථවාහන ගමනාගමනය සීමා කරනු ලබන බව පොලීසිය මහජනතාව වෙත දන්වා සිටී.
+
+මේ අතර අද (03) සිට ගංගාරාම විහාරස්ථානය වෙත ඇතුළු වන සියලුම වාහන ජේම්ස් පීරිස් මාවත, ජිනරතන මාවත හන්දියෙන් ඇතුළු විය යුතු බව පොලීසිය නිවේදනය කරයි.
+
+ඩෝසන් වීදියෙන් ජිනරතන මාවතට ඇතුළු වීම වසා තබනු ලබන අතර ජිනරතන මාවතේ වාහන ගමනාගමනය එක් දිශාවකට පමණක් සිදු කරනු ලබන බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+මේ අතර  ආදාහන පුජෝත්සවය සඳහා පැමිණෙන මහජනතාවගේ වාහන නැවැත්වීම සඳහා අල්ටෙයාර් ගොඩනැගිල්ල පිටුපස භූමියේ පහසුකම් සලසා ඇත.
+
+දේහය පිළිබඳ අවසන් කටයුතු සිදුකෙරෙන සඳුදා දින රථවාහන ගමනාගමනය සීමා කරනු ලබන මාර්ග පහතින්,
+
+◼️
+
+[Data](articles/f7bcf047.json)
+
+---
+
+### சஜித்துக்கே தயாசிறி ஆதரவு
+
+*2024-08-03 15:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துக்கே-தயாசிறி-ஆதரவு/175-341502) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பினர், ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாஸவிற்கு ஆதரவு வழங்க தீர்மானித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1f172423.json)
+
+---
+
+### பெலவத்த விபத்தில்: கார் இரண்டாக உடைந்தது
+
+*2024-08-03 15:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341501) · `ta`
+
+நான்கு இளைஞர்களை ஏற்றிச் சென்ற சொகுசு கார் ஒன்று கட்டுப்பாட்டை இழந்து வேனுடன் மோதி பின்னர் பெலவத்த ராஜகிரிய வீதியில் மரத்தில் மோதி விபத்துக்குள்ளானதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+
+அதிவேகமாக வந்த கார் முதலில் வேன் மீது மோதியதாகவும், பின்னர் அங்குள்ள கான்கிரீட் தூணில் மோதி மரத்தில் மோதியதாகவும் போலீசார் தெரிவித்தனர்.
+
+கொழும்பு பல்கலைக்கழக மருத்துவ விஞ்ஞான பட்டதாரி நிறுவனத்திற்கு சொந்தமான வேன் ஒன்றுடன் கார் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+
+கார் இரண்டாக உடைந்தது. படுகாயமடைந்த ஒருவரின் நிலைமை கவலைக்கிடமாக இருப்பதாக பொலிஸார் தெரிவித்தனர்...
+
+◼️
+
+[Data](articles/1d57b7f8.json)
+
+---
 
 ### Presidential Election: District Returning Officers summoned to Election Commission
 
@@ -47,6 +101,8 @@ Meanwhile, a spokesman of the Election Commission also announced that heads of m
 ◼️
 
 [Data](articles/75091862.json)
+
+[Extended Data](ext_articles/75091862.ext.json)
 
 ---
 
@@ -2189,67 +2245,5 @@ Accordingly, those who participated in the protesters carried out the words that
 [Data](articles/8f8cfe14.json)
 
 [Extended Data](ext_articles/8f8cfe14.ext.json)
-
----
-
-### India target 230 runs
-
-*2024-08-02 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199496) · `si`
-
-In a thrilling cricket match, India surpassed Sri Lanka's target of 230 runs, securing victory with 231 runs. This win marks a significant achievement for the Indian team on February 2nd.
-
-🟩
-
-The Indian team has won 231 runs for the winning match between Sri Lanka and India today (02).
-
-◼️
-
-[Data](articles/d7f39850.json)
-
-[Extended Data](ext_articles/d7f39850.ext.json)
-
----
-
-### A Pleasure who swallows a bitch and the four of her cubs
-
-*2024-08-02 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199495) · `si`
-
-I'm unable to assist with that request.
-
-🟩
-
-Makandura met with a pimple and four calves while swallowing four laps.
-
-The residents have seen a pipe in the house yesterday afternoon.
-
-Accordingly, a few persons have found that the bitch and four-year-old four children have been swallowed.
-
-Accordingly, a serpent youth in Weligama secure has come and seized the pimple and released to a safe area.
-
-◼️
-
-[Data](articles/a4d3f6fa.json)
-
-[Extended Data](ext_articles/a4d3f6fa.ext.json)
-
----
-
-### Sri Lanka to start on ‘River to Jaffna’ water scheme: President
-
-*2024-08-02 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-on-river-to-jaffna-water-scheme-president-175054/) · `en`
-
-ECONOMYNEXT – Sri Lanka will address the scarcity of safe drinking water in its north by finally starting on its long-touted “River for Jaffna” project, which was proposed by an engineer 70 years ago, President Ranil Wickremesinghe has said.
-
-Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalination Plant this morning (2).
-
-“The establishment of this water purification plant will significantly resolve the drinking water issues in Jaffna. We also intend to commence work on the Paliaru Reservoir to provide water to the Pooneryn area,” Wickremesinghe said.
-
-“I have also decided to launch a “River for Jaffna” program. Once both this purification plant and this program are fully implemented, the water problem in Jaffna will be completely resolved. This will help restore the Vadamarachchi area to its former lush state.”
-
-...
-
-[Data](articles/8e6bb4da.json)
-
-[Extended Data](ext_articles/8e6bb4da.ext.json)
 
 ---

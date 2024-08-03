@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 05:38:52**
+As of **2024-08-03 06:02:19**
 
 ## Newspaper Stats
 
-*Scraped **38,724** Articles*
+*Scraped **38,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 333
 newsfirstlk | 363
 colombotelegraphcom | 365
 bbccomsinhala | 370
-islandlk | 2,216
+islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
 adalk | 3,554
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,724 (100.0%) of 38,724 articles have been extended.
+38,724 (100.0%) of 38,732 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -176,6 +176,50 @@ Meanwhile, Minister of Fisheries and Aquatic Resources Douglas Devananda said,
 
 ---
 
+### COYLE pioneers Green Entrepreneurship and mangrove restoration in Sri Lanka
+
+*2024-08-03 02:44:00* · [`islandlk`](http://island.lk/coyle-pioneers-green-entrepreneurship-and-mangrove-restoration-in-sri-lanka/) · `en`
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) hosted “The Big Lunch,” along with iLEAD International Academy and Centre for International Forestry Research and World Agroforestry (CIFOR-ICRAF); a groundbreaking event aimed at bringing together stakeholders for the promotion of green entrepreneurship in Sri Lanka. This gathering marked a significant step towards positioning Sri Lanka as a leader in environmental conservation and sustainable economic growth. The event was attended by the members of the Business Chambers, government officials from the Ministry of Environment, representatives of various UN agencies, International and National NGOs/ Civil Society Organizations, Academic and Research Institutions, independent Environmentalists and youth.
+
+...
+
+[Data](articles/ae0e013d.json)
+
+---
+
+### Pan Asia Bank elevates new age banking with Dual Digital Zone openings in Homagama and Panadura on the Same Day
+
+*2024-08-03 02:42:00* · [`islandlk`](http://island.lk/pan-asia-bank-elevates-new-age-banking-with-dual-digital-zone-openings-in-homagama-and-panadura-on-the-same-day/) · `en`
+
+In a significant stride towards enhancing customer convenience and digital banking experience, Pan Asia Bank, The Truly Sri Lankan Bank, proudly announces the launch of cutting-edge Digital Zones at its Homagama and Panadura branches. This dual opening marks a crucial step in the bank’s commitment to delivering advanced, accessible, and innovative banking solutions across the region.
+
+The Homagama and Panadura Digital Zones are engineered to provide an unrivaled banking experience, equipped with the latest in banking technology; the Digital Zone features various self-service facilities 24/7.
+
+...
+
+[Data](articles/8ac5ce16.json)
+
+---
+
+### Growth in construction sector triggers positive trend in bourse
+
+*2024-08-03 02:41:00* · [`islandlk`](http://island.lk/growth-in-construction-sector-triggers-positive-trend-in-bourse/) · `en`
+
+Stock market activities were yesterday on a positive track due to improvements in the local construction sector and growth in certain other sectors.
+
+Both indices moved marginally up. The All Share Price Index went up by 2.85 points while the S&P SL20 rose by 12.1 points.
+
+Turnover stood at Rs 776 million with one crossing. The crossing was reported in JKH, which crossed 200,000 shares to the tune of Rs 36 million; its shares traded at Rs 180.
+
+In the retail market top six companies that mainly contributed to the turnover were JKH Rs 164 million (968,000 shares traded), Hemas Holdings Rs 112 million (3.7 million shares traded), Hayleys Fabrics Rs 34.1 million (705,000 shares traded), Melstacope Rs 29.7 million (372,000 shares traded), Access Engineering Rs 26.6 million (1.2 million shares traded) and Browns Investments Rs 26.4 million (4.9 million shares traded). During the day 29.3 million share volumes changed hands in 7353 transactions.
+
+...
+
+[Data](articles/85cd1463.json)
+
+---
+
 ### Plan to plunder the votes of diaspora Sri Lankans through fake passports?- Elections Commissioner's Denial
 
 *2024-08-03 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190137) · `ta`
@@ -195,6 +239,18 @@ It is said that the law has been abruptly enacted anywhere in the country and th
 [Data](articles/ff5a1386.json)
 
 [Extended Data](ext_articles/ff5a1386.ext.json)
+
+---
+
+### Uber inks MoU with Sri Lanka Tourism Promotion Bureau, Ministry of Tourism
+
+*2024-08-03 02:35:00* · [`islandlk`](http://island.lk/uber-inks-mou-with-sri-lanka-tourism-promotion-bureau-ministry-of-tourism/) · `en`
+
+Uber signed a Memorandum of Understanding (MoU) with the Sri Lanka Tourism Promotion Bureau, Ministry of Tourism, in Sri Lanka to give a boost to tourism in the island nation. Over the next few months, Uber will promote Sri Lanka as a tourist destination to its rider base in India which accounts for one of the largest tourist inflow into the country. The partnership aims to help revive tourism in Sri Lanka which has been impacted by the Covid-19 pandemic and the recent economic crisis.
+
+...
+
+[Data](articles/b07f9008.json)
 
 ---
 
@@ -2199,83 +2255,5 @@ The project has completed the construction of 20 elevated water tanks, 186 km of
 [Data](articles/47ef5d6a.json)
 
 [Extended Data](ext_articles/47ef5d6a.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-02 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190087) · `ta`
-
-The USD to INR exchange rate increased slightly from 297.6430 to 306.9317 rupees as of August 2nd.
-
-🟩
-
-The US dollar procurement price was 297.6430 rupees and the sales price were Rs 306.9317 based on a currency exchange rate released today (August 02).
-
-◼️
-
-[Data](articles/df8b0c6e.json)
-
-[Extended Data](ext_articles/df8b0c6e.ext.json)
-
----
-
-### Kangarayamaya Viharathi has passed away
-
-*2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விஹாரதிபதி-காலமானார்/175-341458) · `ta`
-
-Dr. Kalpoda Gnanisara Thera, known as Podi Hamuduruwo, aged 8, has passed away. Born on December 13, 1943, he dedicated his life to Buddhism, emphasizing mercy, equality, and service to humanity.
-
-🟩
-
-Dr. Kalpoda Gnanisara Thera has passed away from the Kangaramaiah Vihara, known as Podi Hamuduruo.. He is 8- years old.
-
-Born on December 13, 1943, Powder Hamuduro devoted his life to the practical and propaganda of Buddhist principles led by mercy, equality and humanity to serve humanity.
-
-◼️
-
-[Data](articles/90a14685.json)
-
-[Extended Data](ext_articles/90a14685.ext.json)
-
----
-
-### The Prime Minister of the Kangaramaiah Viharaya passed away
-
-*2024-08-02 13:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராமய-விகாரையின்-பிரதமகுரு-காலமானார்/175-341458) · `ta`
-
-Dr. Kalpoda Gnanisara Thera, the principal of Colombo Gangaramaiah Vihara, known as Podi Hamuduruo, passed away at 80. Born on December 13, 1943, he dedicated his life to promoting Buddhist values of mercy, equality, and humanity through his work.
-
-🟩
-
-Dr. Kalpoda Gnanisara Thera, the principal of the Colombo Gangaramaiah Vihara, known as Podi Hamuduruo, passed away at the age of 80.
-
-Born on December 13, 1943, Powder Hamuduro devoted his life to the practical and campaign of Buddhist policies led by mercy, equality and humanity.
-
-◼️
-
-[Data](articles/bdebd4a3.json)
-
-[Extended Data](ext_articles/bdebd4a3.ext.json)
-
----
-
-### Sri Lanka, Maldives, US Air forces in disaster response exercise
-
-*2024-08-02 13:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-maldives-us-air-forces-in-disaster-response-exercise-174905/) · `en`
-
-ECONOMYNEXT – Air forces of Sri Lanka, Maldives and the US will conduct joint exercises to boost disaster response, the American embassy in Colombo said.
-
-The Montana National Guard and US Pacific Air Forces will conduct with the Sri Lanka Air Force and members of the Maldives National Defense Force, in the exercises labelled, ‘Atlas Angel.’
-
-“With events in both Trincomalee and Colombo, and US C-130s flying personnel between the two cities, this exercise will culminate in a crisis management simulation to test our response capabilities, ensuring maximum preparedness in the event of true disaster,” the Embassy said.
-
-The joint military exercise, aimed at enhancing preparation and response to natural and man-made disasters, will be held from August 5-9, with more than 70 US personnel and two C-130 Hercules aircraft participating alongside their Sri Lankan and Maldivian counterparts.
-
-...
-
-[Data](articles/ce463eda.json)
-
-[Extended Data](ext_articles/ce463eda.ext.json)
 
 ---

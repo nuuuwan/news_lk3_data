@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 08:24:15**
+As of **2024-08-03 08:36:03**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 6,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,735 (100.0%) of 38,737 articles have been extended.
+38,737 (100.0%) of 38,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### இன்றைய காலநிலை தொடர்பான அறிவிப்பு
+### Notification relating to today's climate
 
 *2024-08-03 08:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-தொடர்பான-அறிவிப்பு/175-341493) · `ta`
 
-சப்ரகமுவ மாகாணத்திலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலயவில் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Today's weather forecast indicates rainfall across various regions including Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, Matara, and Matale districts. The Eastern and Uva provinces may experience rainfall or thunderstorms in the evening. Strong winds up to 50 km/h are expected in the western slopes of the central hill country, while other areas might see winds of 30-40 km/h.
 
-மேலும், மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் மாத்தளை மாவட்டங்களிலும் பல தடவைகள் மழைப்பெய்யக்கூடும்.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் ஒரு சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+The Department of Atmosphere has forecast rainfall in the province of Sabaragamuwa, Kandy and Nuwara Eliya districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளில் 50  கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In addition, rainfall in the Western and North Western Provinces and Galle, Matara and Matale districts may be rained several times.
 
-நாட்டின் ஏனைய பிரதேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது. R
+In the Eastern and Uva provinces, rainfall or thunderstorms may occur in the evening or night.
+
+In the western slopes of the central hill country, strong winds are likely to blow up to 50 km / h.
+
+In other parts of the country, there is a possibility that somewhat strong winds can be blowing at speeds of up to 30-40 km per hour.. Remble
 
 ◼️
 
 [Data](articles/76252ec6.json)
 
+[Extended Data](ext_articles/76252ec6.ext.json)
+
 ---
 
-### ණය ගැනීම ආර්ථිකය කඩාවැටීමට හේතුවක් බව ජනපති කියයි
+### President says the borrowing is a cause of the economy
 
 *2024-08-03 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199506) · `si`
 
-නව ආර්ථික හා දේශපාලන ක්‍රමවේදය ඔස්සේ රට ඉදිරියට ගෙන යාමට එක්වීම විද්වතුන්ගේ මෙන්ම වෘත්තීයවේදීන්ගේ වගකීමක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe urges scholars and professionals to support the new economic and political system, highlighting that excessive borrowing led to the collapse of the country's economy and politics. He made this call during a meeting in Jaffna, emphasizing the need for local expertise and professionalism to revive the nation.
 
-ජනාධිපතිවරයා පවසන්නේ මැතිවරණ වේදිකාවල විවිධ පොරොන්දු දෙමින් එය ඉටුකීරීම සඳහා ණය ගැනීම මත මෙරට ආර්ථිකය මෙන්ම දේශපාලනයද කඩා වැටුණු බවය.
+🟩
 
-යාපනය දිස්ත්‍රික්කයේ විද්වතුන්, වෘත්තීයවේදීන් සහ ව්‍යවසායකයින් සමඟ ඊයේ (02) පැවති හමුවකදී ජනාධිපතිවරයා මේ බව පැවසීය.
+President Ranil Wickremesinghe says that it is the responsibility of scholars and professionals to join the country through the new economic and political system.
 
-පෙර සිදුවූ වැරදි යළි සිදුනොවීමට වග බලාගනිමින් නව ආර්ථික සහ දේශපාලන ක්‍රමවේදයක් ඔස්සේ රට ගොඩනැගීම සඳහා ගන්නා උත්සාහයට දායක වීම මෙරට විද්වතුන්ගේ මෙන්ම වෘත්තීයවේදීන්ගේ වගකීමක් බවත් ජනාධිපතිවරයා මෙහිදී පැවසීය.
+The President says that the economy and politics of the country have collapsed on borrowing to fulfill their promises on election platforms.
+
+The President was speaking at a meeting with scholars, professionals and entrepreneurs in Jaffna yesterday.
+
+The President added that it is the responsibility of the Sri Lankan experts as well as professionals in the country and the professionals in the country.
 
 ◼️
 
 [Data](articles/8667cbc1.json)
+
+[Extended Data](ext_articles/8667cbc1.ext.json)
 
 ---
 

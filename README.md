@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 13:20:44**
+As of **2024-08-03 13:36:09**
 
 ## Newspaper Stats
 
-*Scraped **38,762** Articles*
+*Scraped **38,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 2,494
 adalk | 3,557
 adaderanalk | 4,490
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,814
+tamilmirrorlk | 4,815
 virakesarilk | 6,137
-adaderanasinhalalk | 6,536
+adaderanasinhalalk | 6,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,761 (100.0%) of 38,762 articles have been extended.
+38,762 (100.0%) of 38,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### සනත් කිව්ව දේ අකුරටම තේරුම් ගත් දුනිත්
+
+*2024-08-03 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199515) · `si`
+
+පැතුම් නිස්සංක ඊයේ (02) පිතිකරණයේ යෙදෙන අයුරු අනුව තමාගේ සැලසුම සාදාගත් බව ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක දුනිත් වෙල්ලාලගේ පැවසීය.
+
+ඊයේ තරගයෙන් පසු මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+
+"මැච් එක පටන් ගන්න කලින් සනත් සර් අපිට කියලා තිබ්බේ විකට් එක ටිකක් කැපෙයි කියලා. ඒ නිසා මම විශේෂයෙන්ම ප්ලෑන් එකක් දාගෙන හිටියේ... කොහොමද සෙල්ලං කරන්න ඕනේ කියලා. තවත් දෙයක් තමයි... මම ගොඩක් බලන් හිටියා පැතුම් නිස්සංක බැට් කරනවා. එයා බැට් කරන විදියෙනුත් මම දේවල් ඔළුවට දාගත්තා. ඒවා අනුව තමයි ප්ලෑන් එකකට ආවේ."
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවති පළමු එක්දින තරගය ශ්‍රී ලංකාවට වැඩි ගෞරව හිමිකරදෙමින් ජය පරාජයෙන් තොරව ඊයේ (02) අවසන් කෙරුණි.
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවති එක්දින තරගාවලි ඉතිහාසයේ ලකුණු සමවීම හේතුවෙන් ජය පරාජයෙන් තොරව අවසන් වූ දෙවැනි එක්දින තරගය මෙය වෙයි.
+
+ඊයේ තරගයේදී පැතුම් නිස්සංක ලකුණු 56ක් රැස්කළ අතර සිය එක්දින දිවියේ මංගල අර්ධ ශතකය වාර්තා කළ දුනිත් වෙල්ලාලගේ නොදැවී ලකුණු 67ක් රැස් කළේය.
+
+...
+
+[Data](articles/b9ad4cf2.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் தொடர்பில் 45 முறைப்பாடுகள்
+
+*2024-08-03 12:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-தொடர்பில்-45-முறைப்பாடுகள்/175-341496) · `ta`
+
+ஜனாதிபதி தேர்தல் தொடர்பான தேர்தல் சட்டங்களை மீறியமை தொடர்பில் 45 முறைப்பாடுகள் கிடைத்துள்ளதாக ஃபெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+
+அரச அதிகாரத்தை துஷ்பிரயோகம் செய்தமை தொடர்பில் அதிகளவான முறைப்பாடுகள் பதிவாகியுள்ளதாக அதன் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/875efc27.json)
+
+---
 
 ### Kamala Harris formally chosen as Democratic nominee
 
@@ -51,6 +87,8 @@ On Friday afternoon, Ms Harris formally became the nominee after securing the su
 ...
 
 [Data](articles/2e757a10.json)
+
+[Extended Data](ext_articles/2e757a10.ext.json)
 
 ---
 
@@ -2201,53 +2239,5 @@ The trade unfolded despite relations between Washington and Moscow being at thei
 [Data](articles/13a34207.json)
 
 [Extended Data](ext_articles/13a34207.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 301.90/302.05 to US dollar
-
-*2024-08-02 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-90-302-05-to-us-dollar-175025/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/302.05 to the US dollar on Friday, from 302.20/30 to the US dollar on Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.45/60 percent, down from 10.50/65 percent.
-
-A bond maturing on 15.12.2027 closed at 11.70/85 percent, down from 11.80/95 percent.
-
-A bond maturing on 15.02.2028 closed at 12.00/10 percent, down from 12.05/15 percent.
-
-A bond maturing on 15.09.2029 closed at 12.20/35 percent, down from 12.20/45 percent.
-
-A bond maturing on 15.10.2030 closed at 12.70/85 percent. (Colombo/Aug2/2024)
-
-◼️
-
-[Data](articles/3c9172de.json)
-
-[Extended Data](ext_articles/3c9172de.ext.json)
-
----
-
-### Sri Lanka stocks close up, foreign buying interest in John Keells
-
-*2024-08-02 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-buying-interest-in-john-keells-175020/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.02 percent, or 2.85 points, at 11,442; while the more liquid S&P SL20 Index closed up 0.26 percent, or 8.53 points, at 3,290.
-
-“There was foreign appetite on John Keells Holdings Plc,” Softlogic Stockbrokers said. “This brought in 56 million, about 11 percent of the total turnover.”
-
-John Keells Holdings Plc was the top turnover generator of the day, and closed up at 180.25.
-
-“There was also some renewed interest in companies that had palm oil cultivation in their portfolios, because the government has indicated a lifting of the ban on palm oil cultivations.”
-
-Watawala Plantations Plc, which released interim results, showed a slump in profits on a Q-o-Q basis, though up on a Y-o-Y basis. “This was mainly due to their exposure to palm oil and dairy, which recorded low volumes.”
-
-...
-
-[Data](articles/1ad85341.json)
-
-[Extended Data](ext_articles/1ad85341.ext.json)
 
 ---

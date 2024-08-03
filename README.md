@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 02:36:04**
+As of **2024-08-04 02:53:58**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,819 (100.0%) of 38,820 articles have been extended.
+38,820 (100.0%) of 38,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### மலையக தமிழர் அபிலாஷை ஆவணத்துக்கு த.மு.கூ. அங்கீகாரம்
+### TMC for the upcountry Tamil aspiration document. Recognition
 
 *2024-08-04 01:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-அபிலாஷை-ஆவணத்துக்கு-த-மு-கூ-அங்கீகாரம்/175-341521) · `ta`
 
-ஐக்கிய மக்கள் கூட்டணி வேட்பாளர் சஜித் பிரேமதாசவிடம் செய்ய பட உள்ள  புரிந்துணர்வு உடன்படிக்கைக்காக, தன்னால் முன் வைக்க பட்ட  மலையக தமிழர் அபிலாஷை ஆவணத்தை ஐந்து திருத்தங்களுடன், தமிழ் முற்போக்கு கூட்டணி அரசியல் குழு ஏக மனதாக மனதாக ஏற்று கொண்டு உள்ளது என என கூட்டணி தலைவர் மனோ கணேசன் கூறியுள்ளார்.
+Mano Ganesan, leader of the Tamil Progressive Alliance, announced that his party has endorsed the Upcountry Tamil community's memorandum of demands, including education, vocational training, health, and housing, to be addressed by Sajith Premadasa's UPFA government. This endorsement comes after active investigation by the Coalition Political Committee in Colombo, ensuring the inclusion of additional issues and amendments.
 
-சஜித் பிரேமதாச தலைமையில் அரசாங்கம் உருவாகின்ற போது, நிறைவேற்ற பட வேண்டிய வேலைத்திட்டங்களில் இந்திய வம்சாவளி மலையக தமிழரின் அபிலாஷை கோரிக்கைகள் அடங்கிய ஆவணம், கொழும்பில் கூடிய கூட்டணி  அரசியல் குழுவினால் தீவிரமாக ஆராய பட்டது. சமர்பிக்க பட்ட ஆவணம், மேலதிக சில விடயங்கள் சேர்க்கைகளாக சேர்க்க பட்டும், சில திருத்தங்களுடனும் அரசியல் குழுவாழ் ஏக மனதாக ஏற்று கொள்ள பட்டது.
+🟩
 
-...
+Alliance leader Mano Ganesan has said that the Tamil Progressive Alliance politics has unanimously accepted the Tamil aspirations of the Upcountry Tamil aspirations for the Memorandum of UPFA with the UPFA candidate Sajith Premadasa.
+
+When the government was formed under the leadership of Sajith Premadasa, a document with the demands of the aspirations of the Tamil origin of the Indian origin of the Tamilnadu Tamils ​​became actively investigated by the Coalition Political Committee in Colombo.. The documentary document, which included a few more matters, and some amendments, the political group unanimously accepted.
+
+Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Livelihood, Livelihood, Housing, Housing LandsThe coalition candidate Sajith Premadasa and the Tamil Progressive Alliance will be signed as a Memorandum of Understanding.
+
+◼️
 
 [Data](articles/da9c720f.json)
+
+[Extended Data](ext_articles/da9c720f.ext.json)
 
 ---
 

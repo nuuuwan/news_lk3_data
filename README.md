@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 21:55:59**
+As of **2024-08-03 22:08:48**
 
 ## Newspaper Stats
 
-*Scraped **38,806** Articles*
+*Scraped **38,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,559
-adaderanalk | 4,498
+adaderanalk | 4,499
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,145
-adaderanasinhalalk | 6,551
+adaderanasinhalalk | 6,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,804 (100.0%) of 38,806 articles have been extended.
+38,806 (100.0%) of 38,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### 24 Sri Lankans including artists arrested in Kuwait – Minister
+
+*2024-08-03 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100974/24-sri-lankans-including-artists-arrested-in-kuwait-minister) · `en`
+
+Minister of Labour and Foreign Employment Manusha Nanayakkara says that he has been notified that Kuwaiti authorities have arrested 24 Sri Lankans, including organizers and musicians, who attended an event organized by the JVP affiliated ‘Ethera Api’ organisation.
+
+In a post on ‘X’ (formerly Twitter), the minister further stated that he has contacted the Sri Lankan Embassy in Kuwait and that they are working with Kuwaiti officials to secure their release as soon as possible.
+
+However, the minister did not provide any further details on the reasons for the said arrests.
+
+◼️
+
+[Data](articles/6a6b8fcd.json)
+
+---
 
 ### SLPP prez poll crisis: Several changes made to top positions
 
@@ -47,6 +63,26 @@ Meanwhile, Parliamentarian Nipuna Ranawaka has been temporarily appointed as the
 ...
 
 [Data](articles/7df9bfea.json)
+
+[Extended Data](ext_articles/7df9bfea.ext.json)
+
+---
+
+### පොහොට්ටුව නව නායකයින් පත්කරයි
+
+*2024-08-03 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199531) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ, අනුරාධපුර, මාතර හා ගාල්ල දිස්ත්‍රික් නායක ධුර දැරූ අමාත්‍යවරුන් තිදෙනෙකු සහ මන්ත්‍රීවරයෙක් ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීම හේතුවෙන් එම තනතුරුවල වැඩ බැලීම සඳහා අලුතින් සිව් දෙනෙකු පත් කර ඇත.
+
+ඉන් අනුරාධපුර දිස්ත්‍රික් නායක ලෙසින් කටයුතු කළ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්. චන්ද්‍රසේන මහතා වෙනුවට එම දිස්ත්‍රික් නායක ධුරයේ වැඩබැලීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා පත්කර ඇත.
+
+මීට අමතරව ගම්පහ දිස්ත්‍රික් නායකත්වය දැරූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා වෙනුවට එහි වැඩබැලීමට රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතාද, අමාත්‍ය කංචන විජේසේකර මහතා වෙනුවට මාතර දිස්ත්‍රික් නායකත්වයේ වැඩ බැලීම සඳහා පාර්ලිමේන්තු මන්ත්‍රී නිපුණ රණවක මහතාත් පත්කර තිබේ.
+
+එමෙන්ම ගාල්ල දිස්ත්‍රික් නායක ලෙසින් කටයුතු කළ රමේෂ් පතිරණ මහතා වෙනුවට එම දිස්ත්‍රික්කයේ වැඩබැලීම සඳහා රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා පත් කර ඇත.
+
+◼️
+
+[Data](articles/457882a5.json)
 
 ---
 
@@ -74,19 +110,27 @@ The police officer says that the wind has been sent as a result of the obstacle 
 
 ---
 
-### தமிழ் பொதுவேட்பாளரைக் களமிறக்கும் தீர்மானத்துக்கு 5 புலம்பெயர் தமிழர் அமைப்புக்கள் கூட்டாக ஆதரவு !
+### 5 Diaspora Tamil Organizations jointly supported the resolution to field Tamil public
 
 *2024-08-03 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190186) · `ta`
 
-எதிர்வரும் ஜனாதிபதித்தேர்தலில் தமிழ் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவதற்குத் தீர்மானித்துள்ளமையை வரவேற்பதாகவும், இதன்மூலம் தமிழ்மக்கள் தமது அரசியல் அபிலாஷைகளையும், கோரிக்கைகளையும் ஜனநாயக முறையில் உலகறியச்செய்வதுடன் சர்வதேசமயப்படுத்தமுடியும் என நம்புவதாகவும் 5 புலம்பெயர் தமிழர் அமைப்புக்கள் கூட்டாகத் தெரிவித்துள்ளன.
+Five diaspora Tamil organizations have announced their support for a Tamil candidate in the upcoming presidential election, aiming to unify and internationalize Tamil political goals. The election is set for September 21, with the nomination deadline on August 15. This move follows negotiations among Tamil communities in the North and East, and includes support from various social organizations and political parties. The groups highlight historical injustices against the Sinhalese nation and express confidence in achieving self-determination through international support and referendums, referencing a significant resolution passed by the US House of Representatives recognizing the Eelam Tamils' right to self-determination.
 
-ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படும் எனவும், ஓகஸ்ட் மாதம் 15 ஆம் திகதி ஜனாதிபதித்தேர்தலுக்கான வேட்புமனுக்களைத் தாக்கல் செய்யமுடியும் எனவும் தேர்தல்கள் ஆணைக்குழு அறிவித்திருக்கின்றது.
+🟩
 
-அதன்படி இம்முறை ஜனாதிபதித்தேர்தலில் வட, கிழக்கு தமிழ் மக்கள் சார்பில் பொதுவேட்பாளர் ஒருவரைக் களமிறக்குவது குறி;த்த பேச்சுவார்த்தைகள் வலுப்பெற்று, அதனை முன்னிறுத்தி சில தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக அமைப்புக்களின் பிரதிநிதிகளுக்கு இடையிலான இணக்கப்பாட்டு உடன்படிக்கை கைச்சாத்திடப்பட்டிருக்கின்றது.
+Five diaspora Tamil organizations have jointly stated that the Tamil people have decided to field a Tamil general candidate in the upcoming presidential election and that the Tamils ​​will be able to unite and internationalize their political aspirations and demands.
+
+The Elections Commission has announced that the ninth presidential election will be held on the 21st of September and that the presidential election will be filed on August 15.
+
+Accordingly, the negotiations between the North and East Tamil people on behalf of the Tamil people of the North and East have been reinforced by the negotiations on behalf of the Tamil people of the North and East.
+
+Five diaspora Tamil organizations, including the World Tamil Organization, the North American Tamil Congress, the Sri Lanka Tamil Congress, the Integrated Tamil American Political Action Committee and the World Tamil Organization, have made a joint statement by clarifying their position.
 
 ...
 
 [Data](articles/c5084062.json)
+
+[Extended Data](ext_articles/c5084062.ext.json)
 
 ---
 
@@ -2193,53 +2237,5 @@ Devolution of power to regions is essential for a democratic society. However, a
 [Data](articles/68254b11.json)
 
 [Extended Data](ext_articles/68254b11.ext.json)
-
----
-
-### Papse
-
-*2024-08-02 22:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயையும்-குட்டிகளையும்-விழுங்கிய-மலைப்பாம்பு/175-341491) · `ta`
-
-In Makandura, Matara, a python swallowed a dog and its four pups. A villager captured it near Weligama Pelana and moved it to a safer location.
-
-🟩
-
-A python swallowed a dog and 4 dog cubs in the village of Makandura, Makandura, Matara, yesterday afternoon.
-
-The dog and four cubs have been swallowed by the dog and four cubs of the python.
-
-Accordingly, a young man who seizes a snake in the Weligama Pelana area has taken steps to take the python and take steps to the safe area.. Remble
-
-◼️
-
-[Data](articles/3e0c49f0.json)
-
-[Extended Data](ext_articles/3e0c49f0.ext.json)
-
----
-
-### India - Sri Lanka ended in ODI
-
-*2024-08-02 22:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியா-இலங்கை-ஒருநாள்-போட்டி-சமநிலையில்-முடிந்தது/44-341490) · `ta`
-
-In the first ODI of the series, Sri Lanka batted first after winning the toss, losing 8 wickets in 50 overs to score 230 runs. India, despite losing all wickets in 47.5 overs, managed to equal Sri Lanka's score, making the match end in a tie.
-
-🟩
-
-The first ODI between Sri Lanka and the tournament is over.
-
-The Sri Lankan team won the match in the currency cycle and decided to bat first.
-
-Accordingly, the Sri Lankan team first lost 8 wickets in 50 overs and scored 230 runs.
-
-Accordingly, the Indian team lost all the wickets in 47.5 overs and scored only 230 runs.
-
-Accordingly, the first match in the three -match ODI series has been balanced without a loss. Remble
-
-◼️
-
-[Data](articles/7c43ec3b.json)
-
-[Extended Data](ext_articles/7c43ec3b.ext.json)
 
 ---

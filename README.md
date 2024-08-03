@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 19:54:34**
+As of **2024-08-03 20:06:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,799 (100.0%) of 38,802 articles have been extended.
+38,802 (100.0%) of 38,802 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,49 +48,63 @@ The Sri Lankan High Commissioner has further discussed with the Minister of Heal
 
 [Data](articles/33260fb3.json)
 
+[Extended Data](ext_articles/33260fb3.ext.json)
+
 ---
 
-### අයර්ලන්තයට යන ශ්‍රී ලංකා සංචිතය නම් කරයි
+### Sri Lanka named Sri Lanka to go to Ireland
 
 *2024-08-03 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199529) · `si`
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත අයර්ලන්ත තරග සංචාරය වෙනුවෙන් තෝරාගත් 16 දෙනෙකුගෙන් යුත් සංචිතය අද (03දා) පස්වරුවේ ප්‍රකාශයට පත් කර තිබේ.
+Sri Lanka's women's cricket team, led by Chamari Atapattu, will tour Ireland for two T20s and three ODIs. The squad includes Himi Gunaratne, Hashayi Prabhai, Sugandika Mary, Sugandika Kumari, Shashi Fernando, and four Kaushinis. The team is set to depart on June 6th, with the Minister of Sports and Youth approving the selection.
 
-චමරි අතපත්තුගේ නායකත්වයෙන් යුත් මෙම සංචිතයට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් අනුමැතිය දී තිබේ.
+🟩
 
-ශ්‍රී ලංකා - අයර්ලන්ත තරගාවලිය විස්සයි20 තරග 02කින් හා එක්දින තරග 03කින් තුනකින් සමන්විත අතර, ඒ සඳහා වත්මන් ආසියානු විස්සයි20 ශූරියන්වන ශ්‍රී ලංකා කණ්ඩායම මේ මස 06වැනිදා අයර්ලන්තය බලා පිටත්ව යාමට නියමිතව ඇත.
+The 16 member squad for the Irish match tour of the Sri Lanka women's cricket has been declared today (3) afternoon.
 
-චමරි අතපත්තු (නායිකාව),  විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවිෂා දිල්හාරි, නිලක්ෂි සිල්වා, අනුෂ්කා සංජීවනී, කාව්‍යා කාවින්දි, උදේශිකා ප්‍රබෝධනී, අචිනි කුලසූරිය, සුගන්දිකා කුමාරි, සචිනි නිසංසලා, ඉනෝෂි ප්‍රනාන්දු, ශෂිනි ගිම්හානි, අමා කාංචනා, කෞෂිනි නුත්‍යංගනා.
+The Minister of Sports and Youth Fernando has approved the squad of Chamari Atapattu.
+
+The Sri Lanka-Ireland match consisted of two T20 matches and three ODIs and Sri Lanka (Asian) Sri Lanka is due to leave for Ireland on the 6th of this month.
+
+Chamari Atapattu (Leader), Himi Gunaratne, Hashayi Prabhai, Sugandika Mary, Sugandika Kumari, Shashi Fernando, Kausini Sachhanda, Kausini Sachhanda, Kausini Siranike, Kausini Sanashi.
 
 ◼️
 
 [Data](articles/55349e31.json)
 
+[Extended Data](ext_articles/55349e31.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු පාරේ බිහිසුණු අනතුර ගැන තවත් තොරතුරු
+### More information about the terrible accident on the parliamentary road
 
 *2024-08-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199528) · `si`
 
-පාර්ලිමේන්තු මාර්ගයේ අද (03) සිදු වූ මාරක රිය අනතුරකින් තරුණයකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා තිබේ.
+A tragic accident near Parliament's army monument killed a 16-year-old boy and injured two others. The incident, caused by high-speed driving, occurred around 10:30 am today. The car swerved across the road; one occupant was filming the driver moments before. The Talangama Police are investigating.
 
-මියගිය තරුණයා වයස අවුරුදු 16 ක අයෙක් වන අතර මෝටර් රථයේ අධික වේගය අනතුරට හේතුව බව පොලීසිය සඳහන් කළේය.
+🟩
 
-අද පෙරවරු 10.30ට පමණ මෙම අනතුර සිදුවී තිබුණේ පාර්ලිමේන්තු මාර්ගයේ යුද හමුදා ස්මාරකය ඉදිරිපිටදීය.
+A young man was killed and two others were injured in a fatal accident.
 
-මෝටර් රථය අධික වේගයෙන් පැමිණ මාර්ගයේ අනෙක් පසට ගමන් කර එම තීරුවේ පැමිණි වෑන් රථයක ගැටෙන අයුරු එහි සටහන්ව තිබුණි.
+The deceased is a 16 year old man and the heavy speed of the car is the cause of the vehicle.
 
-අනතුර සිදුවීමට පෙර මෝටර් රථයේ රියදුරු අධික වේගයෙන් එය ධාවනය කරන අයුරු එහි සිටි අයෙක් ජංගම දුරකථනයක රූගත කර තිබුණි.
+The accident occurred at around 10.30 this morning in front of the army monument of Parliament.
 
-අනතුර සිදුවන විට මෝටර් රථයේ පුද්ගලයන් 4ක් ගමන් කර ඇති අතර ඉන් එක් අයෙකු මියගොස් තවත් දෙදෙනෙකු ලබා තිබේ.‍
+The car had a noted that the car was coming up and traveled to the other side of the road.
 
-මෝටර් රථයේ ගමන් ගත් අයෙක් මේ වනවිට තලංගම පොලීසිය සිය භාරයට ගෙන තිබේ.
+One was shooting on a mobile phone how the car drives the car driver before the accident.
 
-අනතුරට ලක් වූ වෑන් රථය කොළඹ විශ්වවිද්‍යාලයේ පශ්චාත් උපාධි ආයතනයට අයත් රථයක් වන අතර එහි සිටි කාන්තාවක් තුවාල ලබා ඇතැයි වාර්තා වේ.
+Four persons in the car have traveled and one of them have been killed and two others.
+
+The Talangama Police have taken steps to the police.
+
+The victim was a postgraduate agency in the University of Colombo and a woman was injured.
 
 ◼️
 
 [Data](articles/e9fdc7e7.json)
+
+[Extended Data](ext_articles/e9fdc7e7.ext.json)
 
 ---
 

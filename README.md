@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 08:16:02**
+As of **2024-08-03 08:03:20**
 
 ## Newspaper Stats
 
-*Scraped **38,735** Articles*
+*Scraped **38,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ adaderanalk | 4,482
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,811
 virakesarilk | 6,133
-adaderanasinhalalk | 6,528
+adaderanasinhalalk | 6,527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,734 (100.0%) of 38,735 articles have been extended.
+38,734 (100.0%) of 38,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
-
-### බිත්තර ආනයනයට සත්ත්ව නිෂ්පාදකයින්ගේ සංගමයේ විරෝධය
-
-*2024-08-03 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199505) · `si`
-
-බිත්තර ආනයනය කිරීමට රජය තීරණය ඇත්තේ කෘෂිකාර්මික නිෂ්පාදනවල මිල නියාමනය කිරීම සඳහා ක්‍රමවේදයක් සකස් කිරිමට ආණ්ඩුව අපොහොසත් වීම හේතුවෙන් බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමය පවසයි.
-
-එවැනි ක්‍රමවේදයක් සකස් කිරීමකින් තොරව බිත්තර ආනයනය කිරීම මඟින් දේශීය කර්මාන්තය විනාශ වන බවයි එම සංගමයේ සභාපති අජිත් ගුණසේකර මහතා පවසන්නේ.
-
-කෙසේ වෙතත් ඉදිරි උත්සව සමය සඳහා හිඟයකින් තොරව බිත්තර සහ කුකුළු මස් ලබා දීමේ හැකියාව පවතින බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
-
-◼️
-
-[Data](articles/2f8baaef.json)
-
----
 
 ### The urban congregation is elected to the Urban Council
 
@@ -2255,5 +2239,31 @@ Sources said that Thero was receiving treatment at a private hospital in Colombo
 [Data](articles/52e7cef0.json)
 
 [Extended Data](ext_articles/52e7cef0.ext.json)
+
+---
+
+### Indigo launches flight from September to Chennai - Jaffna
+
+*2024-08-02 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190081) · `ta`
+
+Indigo Airlines introduces daily flights from Chennai to Jaffna starting September 1st, enhancing connectivity. This route marks Indigo's first service in Sri Lanka, reflecting high demand from Indian travelers keen to explore Jaffna.
+
+🟩
+
+Indigo Airlines will launch a new flight to Jaffna to improve the international airline.
+
+Accordingly, Indigo will launch a daily flight between Chennai and Jaffna from the 1st of September.
+
+Jaffna service is to begin with the airline in Colombo alone in Sri Lanka.
+
+In June 25.2 (28,631) and 26.7 (26,830) per cent of the 2023 per cent from India.
+
+Most people are eager to visit Jaffna. In this case, it also reflects the growing need for flight between Chennai and Jaffna.
+
+◼️
+
+[Data](articles/d424bcca.json)
+
+[Extended Data](ext_articles/d424bcca.ext.json)
 
 ---

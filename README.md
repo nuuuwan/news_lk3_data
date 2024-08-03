@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 20:54:46**
+As of **2024-08-03 21:05:58**
 
 ## Newspaper Stats
 
-*Scraped **38,803** Articles*
+*Scraped **38,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,497
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,144
-adaderanasinhalalk | 6,550
+adaderanasinhalalk | 6,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,803 (100.0%) of 38,803 articles have been extended.
+38,803 (100.0%) of 38,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### ලොරියේ හුලං ඇරපු පොලිස් නිලධාරියාගේ වැඩ තහනම්
+
+*2024-08-03 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199530) · `si`
+
+වත්තල පොලීසියට අනුයුක්ත රථවාහන රාජකාරී සිදුකරන පොලිස් සැරයන්වරයකු මාර්ගයේ නවතා තිබූ ලොරි රථයක ඉදිරිපස රෝදයේ හුළං යවන රූපරාමු පෙළක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය විය.
+
+පොලීසිය පැවසුවේ අදාළ පොලිස් සාජන්වරයා සිදුකරන එම ක්‍රියාව සම්පූර්ණයෙන්ම අනීතික ක්‍රියාවක් බැවින් අද (03) සිට වහාම ක්‍රියාත්මක වන පරිදි එම නිලධාරියාගේ වැඩ තහනම් කළ බවය.
+
+මේ අතර චෝදනා පත්‍රයක් ඔහුට ලබාදී අදාළ සිදුවීම පිළිබඳව විමර්ශනයක් සිදුකරන බවද පොලීසිය වැඩිදුරටත් පැවසීය.
+
+එම පොලිස් නිලධාරියා එහිදී පවසන්නේ මාර්ගයේ ගමනාගමනයට බාධාවීම හේතුවෙන් එලෙස හුළං යැවූ බවය.
+
+◼️
+
+[Data](articles/9598bf0d.json)
+
+---
 
 ### In the case of police and military
 
@@ -2223,39 +2241,5 @@ The Sri Lanka Tourism Promotion Bureau of Sri Lanka (SLTPB) wins the "Best Inter
 [Data](articles/64060464.json)
 
 [Extended Data](ext_articles/64060464.ext.json)
-
----
-
-### A moment of the Olympics
-
-*2024-08-02 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199501) · `si`
-
-At the Paris Olympics, Italian boxer Angela Karini faced Algerian athlete Imaan Kalayif, a biologically male individual competing in the women's category. The match ended quickly, with Kalayif being disqualified within 46 seconds. Despite Kalayif's success at the Tokyo Olympics, controversy arose over their participation due to their genetic makeup and testosterone levels, leading to discussions about fairness and representation in women's sports.
-
-🟩
-
-The women's boxing event at the Paris Olympics was the round of the 16 people of Italy, Italy Karini and Algeria in Algeria.
-
-It is because Imaan Kalayif, called a biologically man, participating in this event.
-
-Angela Karini with Iman Khariif, the match was only 46 seconds.
-
-In 46 seconds of the Angela Karini, Iman Khaliff was attacked in 46 seconds.
-
-"In my boxing life I have never faced such likes. This event is up to the Olympic judge. "
-
-Although Imaan Kalay was born as a woman, the nature of the genetics and blood testerone was high as a biologically man.
-
-She had to defeat the women's boxing event at the Tokyo Olympics Festival.
-
-But the two athletes from Algeria as well as the two players who were in Taiwan Kalay and Taiwan were removed from the Women's World WC Boxing Tournament.
-
-The World Boxing Federation said that playing with the imaan Kalayife and Lin White, women were unfairly injustice.
-
-...
-
-[Data](articles/d036189e.json)
-
-[Extended Data](ext_articles/d036189e.ext.json)
 
 ---

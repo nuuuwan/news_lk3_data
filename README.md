@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 17:36:16**
+As of **2024-08-03 17:56:42**
 
 ## Newspaper Stats
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,547
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,793 (100.0%) of 38,794 articles have been extended.
+38,794 (100.0%) of 38,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### SLFP and United People's Freedom Alliance (UPFA) support Sajith Premadasa
+
+*2024-08-03 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190180) · `ta`
+
+SLFP and UPFA endorse Sajith Premadasa for presidency. Decision made at Colombo meeting.
+
+🟩
+
+The Sri Lanka Freedom Party and the United People's Freedom Alliance (UPFA) have decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
+
+The resolution was reached during a special discussion held in Colombo today (03).
+
+◼️
+
+[Data](articles/2b806021.json)
+
+[Extended Data](ext_articles/2b806021.ext.json)
+
+---
 
 ### Parachute accident
 
@@ -61,6 +81,8 @@ The repechage round is a second shot given for runners who fail to advance out o
 ◼️
 
 [Data](articles/e376070f.json)
+
+[Extended Data](ext_articles/e376070f.ext.json)
 
 ---
 
@@ -127,26 +149,6 @@ Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
 [Data](articles/8bbbb503.json)
 
 [Extended Data](ext_articles/8bbbb503.ext.json)
-
----
-
-### SLFP and United People's Freedom Alliance (UPFA) support Sajith Premadasa
-
-*2024-08-03 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190180) · `ta`
-
-SLFP and UPFA endorse Sajith Premadasa for presidency. Decision made at Colombo meeting.
-
-🟩
-
-The Sri Lanka Freedom Party and the United People's Freedom Alliance (UPFA) have decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
-
-The resolution was reached during a special discussion held in Colombo today (03).
-
-◼️
-
-[Data](articles/2b806021.json)
-
-[Extended Data](ext_articles/2b806021.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 12:08:47**
+As of **2024-08-03 12:20:42**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,535
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,755 (100.0%) of 38,757 articles have been extended.
+38,757 (100.0%) of 38,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### පාර්ලිමේන්තුව අසල බිහිසුණු රිය අනතුරක්
+### A horrific accident near Parliament
 
 *2024-08-03 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199513) · `si`
 
-පාර්ලිමේන්තුව අසල මාර්ගයේදී අද (03) උදෑසන සිදුවූ රිය අනතුරකින් තරුණයන් සිව් දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+An accident near Parliament injured four youths; two critically. A heavy car lost control, causing the incident. Victims are hospitalized.
 
-ප්‍රදේශවාසීන් පවසන්නේ අධික වේගයෙන් පැමිණි මෝටර් රථයක් පාලනය කර ගත නොහැකිව මෙලෙස අනතුරට ලක්වී ඇති බවය.
+🟩
 
-තුවාල ලැබූවන් වහාම රෝහල් ගත කිරීමට පියවර ගෙන ඇතැයිද ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බවත් සඳහන් ය.
+Four youth were injured in an accident in an accident near Parliament today (03).
+
+Residents say that he was unable to control a heavy car.
+
+The injured have been taken to hospital and two of them are in critical condition.
 
 ◼️
 
 [Data](articles/cac66613.json)
+
+[Extended Data](ext_articles/cac66613.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ However, there are reports that some workers are being misled by job agencies wi
 ...
 
 [Data](articles/70a7b3ed.json)
+
+[Extended Data](ext_articles/70a7b3ed.ext.json)
 
 ---
 

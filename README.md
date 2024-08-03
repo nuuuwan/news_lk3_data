@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 15:54:34**
+As of **2024-08-03 16:06:51**
 
 ## Newspaper Stats
 
-*Scraped **38,782** Articles*
+*Scraped **38,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,69 +20,105 @@ adaderanalk | 4,493
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,820
 virakesarilk | 6,140
-adaderanasinhalalk | 6,542
+adaderanasinhalalk | 6,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,779 (100.0%) of 38,782 articles have been extended.
+38,782 (100.0%) of 38,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### 5වනදා කොළඹ විශේෂ රථවාහන සැලැස්මක්
+### තරුෂි දෙවෙනි අවස්ථාවෙන් 07වෙනි තැනට
+
+*2024-08-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199522) · `si`
+
+පැරිස් 2024 ඔලිම්පික් ක්‍රීඩා උළෙලේ ශ්‍රී ලංකාව ඉහළ බලාපොරොත්තුවත් තබා සිටි ඉසව්වක් වූ තරුෂි කරුණාරත්නගේ කාන්තා මීටර 800 ඉසව්වේ අවසන් බලාපොරොත්තුවත් අද (03දා) සම්පූර්ණයෙන් බොඳවී ගියේය.
+
+මෙම ඉසව්වේ ඊයේ (02දා) පැවැති මූලික තරගවලදී සාර්ථක වීමට තරුෂිට නොහැකි වුවත්, ඇයට අද දිනයේදී නැවත වරක් තරග වැඳීමට අවස්ථාව හිමිවිය.
+
+ඒ අනුව මෙරට වෙලාවෙන් අද ප.ව. 3.15ට පැවැති 04වැනි මූලික තරගයට තරුෂි සහභාගි වූ අතර, එහිදීද ඇයට 07වැනි ස්ථානයෙන් සැහීමට සිදුවිය.
+
+තරුෂිට හිමිවූ මෙම දෙවැනි අවස්ථාව නැතිනම් Repechage round යනු මූලික වටයේ අසාර්ථක වන ක්‍රීඩක ක්‍රීඩිකාවන් වෙනුවෙන් ලබාදෙන දෙවැනි අවස්ථාවක් වන අතර, ඔලිම්පික් ඉතිහාසයේ එවන්නක් ලබාදෙන පළමු අවස්ථාව ලෙසින් මෙය සැලකෙයි.
+
+◼️
+
+[Data](articles/9d68f73c.json)
+
+---
+
+### Special traffic plan in Colombo on the 5th
 
 *2024-08-03 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199521) · `si`
 
-අපවත්වී වදාළ ගංගාරාම විහාරස්ථානයේ පූජ්‍ය ගලබොඩ ඤාණිස්සර නාහිමියන්ගේ (පොඩි හාමුදුරුවෝ) අවසන් කටයුතු සිදුකෙරෙන සඳුදා දින විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+Colombo implements a special traffic plan from 5th, 8 PM to ease congestion. Key changes: vehicles entering Gangarama Viharaya via James Peiris Mawatha; Jinaratana Mawatha entry closed, traffic directed one way; public parking shifted behind Altable Building.
 
-එළැඹෙන සඳුදා (05) පස්වරු 2.00 සිට රාත්‍රී 8.00 දක්වා කාලය තුළ රථ වාහන තදබදය අවම කිරීම සඳහා මෙම විශේෂ රථ වාහන සැලැස්ම ක්‍රියාත්ම කරනු බව පොලීසිය පවසයි.
+🟩
 
-ඒ අනුව එම කාලය තුළ පහත මාර්ගවල රථවාහන ගමනාගමනය සීමා කරනු ලබන බව පොලීසිය මහජනතාව වෙත දන්වා සිටී.
+The police have taken steps to implement a special traffic plan in the Galaboda Nayanissara Thera, Ven. Ven.
 
-මේ අතර අද (03) සිට ගංගාරාම විහාරස්ථානය වෙත ඇතුළු වන සියලුම වාහන ජේම්ස් පීරිස් මාවත, ජිනරතන මාවත හන්දියෙන් ඇතුළු විය යුතු බව පොලීසිය නිවේදනය කරයි.
+The special traffic plan will be operated to reduce traffic congestion on Monday (05) to 8.00 pm to 8 pm.
 
-ඩෝසන් වීදියෙන් ජිනරතන මාවතට ඇතුළු වීම වසා තබනු ලබන අතර ජිනරතන මාවතේ වාහන ගමනාගමනය එක් දිශාවකට පමණක් සිදු කරනු ලබන බව පොලීසිය වැඩිදුරටත් පැවසීය.
+Accordingly, the police are informed that the traffic will be restricted to the following roads.
 
-මේ අතර  ආදාහන පුජෝත්සවය සඳහා පැමිණෙන මහජනතාවගේ වාහන නැවැත්වීම සඳහා අල්ටෙයාර් ගොඩනැගිල්ල පිටුපස භූමියේ පහසුකම් සලසා ඇත.
+Meanwhile, all vehicles entering the Gangarama Viharaya to the Gangarama Viharaya today (03) will enter James Peiris Mawatha.
 
-දේහය පිළිබඳ අවසන් කටයුතු සිදුකෙරෙන සඳුදා දින රථවාහන ගමනාගමනය සීමා කරනු ලබන මාර්ග පහතින්,
+The entry of Jinaratana Mawatha will be closed down in Jinaratana Mawatha, while traffic on Jinaratana Mawatha will be carried out in one direction alone.
+
+Meanwhile, the parking lot of the public for the purpose of the cremation parks will facilitate the land behind the Altable Building.
+
+The roads limiting traffic traffic restricted Monday, Monday
 
 ◼️
 
 [Data](articles/f7bcf047.json)
 
+[Extended Data](ext_articles/f7bcf047.ext.json)
+
 ---
 
-### சஜித்துக்கே தயாசிறி ஆதரவு
+### Sajithu is supported by Dayasiri
 
 *2024-08-03 15:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துக்கே-தயாசிறி-ஆதரவு/175-341502) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பினர், ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாஸவிற்கு ஆதரவு வழங்க தீர்மானித்துள்ளனர்.
+Dayasiri Jayasekara from the SLFP supports Sajith Premadasa for President under the United People's Power party.
+
+🟩
+
+The Sri Lanka Freedom Party (SLFP) Dayasiri Jayasekara has decided to support the United People's Power Presidential candidate Sajith Premadasa.
 
 ◼️
 
 [Data](articles/1f172423.json)
 
+[Extended Data](ext_articles/1f172423.ext.json)
+
 ---
 
-### பெலவத்த விபத்தில்: கார் இரண்டாக உடைந்தது
+### Belawatta accident: Car broke in two
 
 *2024-08-03 15:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341501) · `ta`
 
-நான்கு இளைஞர்களை ஏற்றிச் சென்ற சொகுசு கார் ஒன்று கட்டுப்பாட்டை இழந்து வேனுடன் மோதி பின்னர் பெலவத்த ராஜகிரிய வீதியில் மரத்தில் மோதி விபத்துக்குள்ளானதாக தலங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident on the Pelawatta Rajagiriya road, a luxury car carrying four youths collided with a van and a tree, breaking into two pieces. The high-speed crash involved a van owned by a University of Colombo graduate, leaving one victim's condition critical.
 
-அதிவேகமாக வந்த கார் முதலில் வேன் மீது மோதியதாகவும், பின்னர் அங்குள்ள கான்கிரீட் தூணில் மோதி மரத்தில் மோதியதாகவும் போலீசார் தெரிவித்தனர்.
+🟩
 
-கொழும்பு பல்கலைக்கழக மருத்துவ விஞ்ஞான பட்டதாரி நிறுவனத்திற்கு சொந்தமான வேன் ஒன்றுடன் கார் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+A luxury car carrying four youths lost control and collided with a van and crashed into a tree on the Pelawatta Rajagiriya road, Talangama police said.
 
-கார் இரண்டாக உடைந்தது. படுகாயமடைந்த ஒருவரின் நிலைமை கவலைக்கிடமாக இருப்பதாக பொலிஸார் தெரிவித்தனர்...
+Police said the high -speed car crashed into the van and then crashed into a concrete pillar.
+
+Police said the car crashed with a van owned by the Graduate of the University of Colombo.
+
+The car broke in two. Police said the situation of a victim was worrisome ...
 
 ◼️
 
 [Data](articles/1d57b7f8.json)
+
+[Extended Data](ext_articles/1d57b7f8.ext.json)
 
 ---
 
@@ -2221,29 +2257,5 @@ The apex court suspended the decision of the cabinet to go ahead with the privat
 [Data](articles/e99390ca.json)
 
 [Extended Data](ext_articles/e99390ca.ext.json)
-
----
-
-### Israeli -Palestinian clashes over 300 days
-
-*2024-08-02 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190122) · `ta`
-
-In Colombo, a protest supporting Palestine condemned Israeli attacks on Gaza, calling for an immediate ceasefire. Participants, including representatives from the Palestinian Integration Movement and civil society activists, demanded an end to the violence, highlighting the loss of thousands of children's lives. They voiced slogans against Israel and the United States, emphasizing the need for peace and justice.
-
-🟩
-
-300 days after the Israeli -Palestinian conflict began, those who participated in the protest in Colombo on Friday (2) in support of Palestine urged the ceasefire to come into effect.
-
-The Israeli -Palestinian conflict, which began on October 7 last year, was held at the Town Hall at 1.30 pm yesterday at 1.30 pm by the Colombo -based Palestinian Integration Movement, condemning a series of attacks on Gaza by Israeli forces.
-
-Representatives of the Palestinian Integration Movement, Christian leaders, civil society activist Srinath Perera and children were present on behalf of the North and Southern Integration Organization.. At the same time, a large number of policemen were also deployed in front of the school.
-
-Accordingly, those who participated in the protesters carried out the words that insisted on Palestinian liberation and ceasefire, including 'we are accompanied by Palestine', 'to have an immediate ceasefire', 'killing more than 12,000 children' and 'Palestinian liberation'.
-
-...
-
-[Data](articles/8f8cfe14.json)
-
-[Extended Data](ext_articles/8f8cfe14.ext.json)
 
 ---

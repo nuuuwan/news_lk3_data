@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 22:20:32**
+As of **2024-08-03 22:36:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,553
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,808 (100.0%) of 38,809 articles have been extended.
+38,809 (100.0%) of 38,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ සැකකරුවන් තිදෙනෙකුගේ ඡායාරූප පොලීසිය නිකුත් කරයි
+### Club Wasantha murder case releases photo police
 
 *2024-08-03 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199532) · `si`
 
-ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+In a shocking turn of events, the Club Wasantha murder case has seen the release of photos of three suspects wanted by the police. The incident, which occurred on July 8th, resulted in the death of two individuals, one fatally shot with a T-56 Firearcuit and another with a T-56 Firearcules. The police are seeking public assistance to help identify and apprehend these suspects, who have been named as Astand-Tharindu Mishandu Mishandu Mishandu Mishandu Mishandu alias "Bhairava" among others.
 
-පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත සහ තවත් අයෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
+🟩
 
-මෙම අපරාධය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු විමර්ශන නිලධාරීන් විසින් හඳුනාගෙන ඇති අතර සැකකරුවන්ගේ ඡායාරූප 03 පොලීසිය විසින් මාධ්‍ය වෙත නිකුත් කර තිබේ.
+Police call for public assistance to arrest three suspects involved in the shooting incident involved in the shooting incident.
 
-03. සම්පූර්ණ නම - මුතුවා දුර තරිඳු මදුසංඛ ද සිල්වා නොහොත් "බහිරවයා"
+On July 8th July, T-56 Firearcules were killed in T-56 Firearcuit and another was killed by the shooting.
 
-ඉහත නම් සඳහන් සැකකරුවන් සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත සඳහන් දුරකථන අංක වෙත දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+Three suspects have been identified by the investigations into the crime and the three photographs of suspects have been released to the media.
+
+03. Full Name - Astand-Tharindu Mishandu Mishandu Mishandu Mishandu Mishandu alias "Bhairava"
+
+The police urge the public to inform the following telephone numbers to the following telephone numbers.
 
 ◼️
 
 [Data](articles/76caf266.json)
+
+[Extended Data](ext_articles/76caf266.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 07:26:59**
+As of **2024-08-03 07:48:56**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,732 (100.0%) of 38,734 articles have been extended.
+38,734 (100.0%) of 38,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### කොළඹ රථ වාහන ගාල් කිරීමේ සමාගමක් නගර සභාවට පොලු තියයි
+### The urban congregation is elected to the Urban Council
 
 *2024-08-03 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199504) · `si`
 
-කොළඹ නගරයේ රථ වාහන ගාල් කිරීම සඳහා ස්වයංක්‍රීය පද්ධතියක් හරහා මුදල් එකතු කළ සමාගම මඟින් රුපියල් මිලියන 90 ක මුදලක් කොළඹ මහනගර සභාවට ගෙවා නොමැති බව වාර්තා වෙයි.
+The Urban Congregation was elected to the Urban Council. A report indicates the company owes Rs. 90 million to the Colombo Municipal Council. The Deputy Director of Vehicles, Tajala Kularatne, announced the suspension of a contract related to the controller due to project failures. Plans are underway to introduce a new electronic system within a year.
 
-එහි රථවාහන අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ මංජුල කුලරත්න මහතා පැවසුවේ මේ හේතුවෙන් එම කොන්ත්‍රරාත්තුව අත්හිටුවා මේ සම්බන්ධව නීතිමය පියවර ගෙන ඇති බවය.
+🟩
 
-එමෙන්ම මෙම ව්‍යාපෘතියේ පවතින අඩුපාඩු හේතුවෙන් ඉදිරි වසර ඇතුළත නව විද්‍යුත් ක්‍රමවේදයක් හඳුන්වා දීමට බලාපොරොත්තු වන බවත් ඔහු පැවසීය.
+It is reported that the company has not paid Rs. 90 million has been paid to the Colombo Municipal Council.
+
+The Deputy Director of the Vehicle Tajala Kularatne said that this contract has been suspended regarding the controller.
+
+He said that due to the shortcomings of the project, a new electronic system is expected to be introduced within the next year.
 
 ◼️
 
 [Data](articles/bc2e2ea8.json)
 
+[Extended Data](ext_articles/bc2e2ea8.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට අදත් වැසි
+### Showers in several areas today
 
 *2024-08-03 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199503) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අද (03) උදෑසන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුව සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකිය.
+Today's weather forecast predicts showers in Kandy, Nuwara Eliya, Western, North Western, Galle, Matara, and Matale districts. Expect occasional thundershowers in the Eastern and Uva provinces and strong winds across the island, particularly in the central hills and occasionally elsewhere.
 
-එමෙන්ම බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මාතලේ දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වෙයි.
+🟩
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ දක්වා තිබේ.
+According to the weather forecast by the Department of Meteorology, the weather forecast today (03) may experience showers at times in the Kandy and Nuwara Eliya districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 50 ක පමණ තද සුළං ඇතිවිය හැකි අතර, දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවත් එම නිවේදනයේ වැඩිදුරටත් දන්වා තිබේ.
+Several spells of showers in the Western and North Western Provinces and in the Galle, Matara and Matale districts.
+
+Showers or thundershowers will occur at a few night or night in the Eastern and Uva provinces.
+
+From time to time in the western blows of the central hills.. There are about 50 strong winds, and from time to time in the rest of the island.. The statement further stated that around 30-40 times can cause strong winds.
 
 ◼️
 
 [Data](articles/6b6e3357.json)
+
+[Extended Data](ext_articles/6b6e3357.ext.json)
 
 ---
 

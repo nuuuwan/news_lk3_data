@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 23:20:47**
+As of **2024-08-03 23:36:15**
 
 ## Newspaper Stats
 
-*Scraped **38,811** Articles*
+*Scraped **38,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 4,500
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,145
-adaderanasinhalalk | 6,554
+adaderanasinhalalk | 6,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,811 (100.0%) of 38,811 articles have been extended.
+38,811 (100.0%) of 38,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### වනිඳු හසරංගට ඉතිරි තරග අහිමි වෙයි
+
+*2024-08-03 23:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199535) · `si`
+
+ශ්‍රී ලංකා දඟපන්දු යවන ක්‍රීඩක වනිඳු හසරංගට ඉන්දියාවට එරෙහි  එක්දින ක්‍රිකට් තරගාවලියේ ඉතිරි තරග දෙක අහිමි වන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අද (03) රාත්‍රියේ නිවේදනය කළේය.
+
+දෙරට අතර පළමු එක්දින තරගයේ වනිඳු ඔහුගේ 10වැනි පන්දුවාරය යොමුකරමින් සිටියදී වම් පාදයේ ආබාධයකට ලක්විය.
+
+ඒ හේතුවෙන් සිදු කරන ලද එම්.ආර්.අයි. පරීක්ෂණයෙන්ද මේ බව තහවුරු වී ඇත.
+
+මෙහිදී  ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සිය නිවේදනයෙන් වැඩිදුරටත් දන්වා සිටියේ හසරංග වෙනුවට ජෙෆ්රි වැන්ඩර්සේ සංචිතයට කැඳ වූ බවයි.
+
+◼️
+
+[Data](articles/2fa6950c.json)
+
+---
+
+### කලාකරුවන් ඇතුළු ශ්‍රී ලාංකිකයන් 24ක් කුවේටයේදී අත්අඩංගුවට
+
+*2024-08-03 23:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199534) · `si`
+
+කුවේට් හිදී සංවිධානය කරන ලද සංගීත ප්‍රසංගයකට සහභාගී වූ  ශ්‍රී ලාංකිකයන් 24 දෙනෙකු  කුවේට් බලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+‘එතෙර අපි’ සංවිධානය විසින් එම සංගීත ප්‍රසංගය සංවිධානය කර තිබුණි.
+
+එම පිරිස නිදහස් කර ගැනීම සඳහා කුවේටයේ ශ්‍රී ලංකා තානාපති කාර්යාලය අවශ්‍ය කටයුතු කරන බව  කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+
+◼️
+
+[Data](articles/07c1dbaf.json)
+
+---
 
 ### ‘Club Wasantha’ murder: Police seek public assistance to nab 3 suspects
 
@@ -2219,51 +2253,5 @@ On 11 November 2024, less than four months away, the 29th meeting of the Confere
 [Data](articles/c23ee775.json)
 
 [Extended Data](ext_articles/c23ee775.ext.json)
-
----
-
-### Decision to discuss provincial council election law on September 6
-
-*2024-08-02 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190136) · `ta`
-
-A meeting of party leaders decided to debate the Provincial Councils Election Bill on September 6th. The Health Department will conduct Ronitimal's symposium next. President Ranil Wickremesinghe requested lifting the ban on provincial council elections, supported by President Attorney MA Sumanthiran. Steps are being taken to amend the Provincial Councils Elections Act, with a focus on eliminating prohibitions on conducting elections.
-
-🟩
-
-The debate on the second reading of the Provincial Councils Election Bill has been decided on the 6th of September.
-
-The decision was taken at a meeting of party leaders held in Parliament yesterday. In addition, the Health Department has agreed to carry out the next session of Ronitimal's symposium.
-
-Earlier, a meeting was held yesterday between President Attorney MA Sumanthiran and President Ranil Wickremesinghe.
-
-At the same time, President Ranil Wickremesinghe demanded that at least the prohibition on conducting elections for the provincial councils be eliminated.
-
-Sumanthiran also pointed out that the prohibition on conducting elections for provincial councils would be lifted as he had submitted the individual proposal to the provincial councils.
-
-President Ranil Wickremesinghe has issued its compliance and has taken steps to advance the matter in the matter.
-
-...
-
-[Data](articles/693ffdc9.json)
-
-[Extended Data](ext_articles/693ffdc9.ext.json)
-
----
-
-### New technologies and practices transforming green energy sector
-
-*2024-08-02 23:19:47* · [`dailyftlk`](https://www.ft.lk/columns/New-technologies-and-practices-transforming-green-energy-sector/4-765089) · `en`
-
-Renewable energy (RE) is clean, abundant, and sustainable but comes with its own challenges like intermittency, variability, cost, and integration.
-
-To overcome these, the sector is constantly innovating with newer technologies and practices to make it more cost and operationally effective.
-
-Fuel produced from green energy sources such as hydrogen, methane, ammonia, and ethanol are green in nature and these can be stored, transported, and used for various applications, such as transportation, heating, and industry. Many nations are building capacities for such fuel, and Sri Lanka too has huge potential to produce and export them.
-
-...
-
-[Data](articles/7df98466.json)
-
-[Extended Data](ext_articles/7df98466.ext.json)
 
 ---

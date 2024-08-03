@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 19:36:16**
+As of **2024-08-03 19:54:34**
 
 ## Newspaper Stats
 
-*Scraped **38,799** Articles*
+*Scraped **38,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,559
-adaderanalk | 4,496
+adaderanalk | 4,497
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,822
 virakesarilk | 6,144
-adaderanasinhalalk | 6,548
+adaderanasinhalalk | 6,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,799 (100.0%) of 38,799 articles have been extended.
+38,799 (100.0%) of 38,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### Singapore to recruit more nurses from Sri Lanka
+
+*2024-08-03 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100972/singapore-to-recruit-more-nurses-from-sri-lanka) · `en`
+
+The Minister of Health of Singapore Ong Ye Kung states that Singapore is looking to recruit more nurses from Sri Lanka.
+
+During a meeting held at the Ministry of Health of Singapore recently with High Commissioner of Sri Lanka in Singapore Senarath Dissanayake, the Singapore Health Minister has advised the ministry officials to connect SingHealth with the High Commission of Sri Lanka to discuss further the continuity and expansion of collaborative projects in Sri Lanka.
+
+The Minister has also proposed further discussions with the Sri Lankan Ministry of Health on exchanging medical professionals, sharing best practices, and arranging capacity-building initiatives for Sri Lankan healthcare professionals.
+
+The Sri Lankan High Commissioner has further discussed with the Minister of Health of Singapore Ong Ye Kung, the opportunities for cooperation in the health sector between the two countries.
+
+...
+
+[Data](articles/33260fb3.json)
+
+---
+
+### අයර්ලන්තයට යන ශ්‍රී ලංකා සංචිතය නම් කරයි
+
+*2024-08-03 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199529) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත අයර්ලන්ත තරග සංචාරය වෙනුවෙන් තෝරාගත් 16 දෙනෙකුගෙන් යුත් සංචිතය අද (03දා) පස්වරුවේ ප්‍රකාශයට පත් කර තිබේ.
+
+චමරි අතපත්තුගේ නායකත්වයෙන් යුත් මෙම සංචිතයට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් අනුමැතිය දී තිබේ.
+
+ශ්‍රී ලංකා - අයර්ලන්ත තරගාවලිය විස්සයි20 තරග 02කින් හා එක්දින තරග 03කින් තුනකින් සමන්විත අතර, ඒ සඳහා වත්මන් ආසියානු විස්සයි20 ශූරියන්වන ශ්‍රී ලංකා කණ්ඩායම මේ මස 06වැනිදා අයර්ලන්තය බලා පිටත්ව යාමට නියමිතව ඇත.
+
+චමරි අතපත්තු (නායිකාව),  විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවිෂා දිල්හාරි, නිලක්ෂි සිල්වා, අනුෂ්කා සංජීවනී, කාව්‍යා කාවින්දි, උදේශිකා ප්‍රබෝධනී, අචිනි කුලසූරිය, සුගන්දිකා කුමාරි, සචිනි නිසංසලා, ඉනෝෂි ප්‍රනාන්දු, ශෂිනි ගිම්හානි, අමා කාංචනා, කෞෂිනි නුත්‍යංගනා.
+
+◼️
+
+[Data](articles/55349e31.json)
+
+---
+
+### පාර්ලිමේන්තු පාරේ බිහිසුණු අනතුර ගැන තවත් තොරතුරු
+
+*2024-08-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199528) · `si`
+
+පාර්ලිමේන්තු මාර්ගයේ අද (03) සිදු වූ මාරක රිය අනතුරකින් තරුණයකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා තිබේ.
+
+මියගිය තරුණයා වයස අවුරුදු 16 ක අයෙක් වන අතර මෝටර් රථයේ අධික වේගය අනතුරට හේතුව බව පොලීසිය සඳහන් කළේය.
+
+අද පෙරවරු 10.30ට පමණ මෙම අනතුර සිදුවී තිබුණේ පාර්ලිමේන්තු මාර්ගයේ යුද හමුදා ස්මාරකය ඉදිරිපිටදීය.
+
+මෝටර් රථය අධික වේගයෙන් පැමිණ මාර්ගයේ අනෙක් පසට ගමන් කර එම තීරුවේ පැමිණි වෑන් රථයක ගැටෙන අයුරු එහි සටහන්ව තිබුණි.
+
+අනතුර සිදුවීමට පෙර මෝටර් රථයේ රියදුරු අධික වේගයෙන් එය ධාවනය කරන අයුරු එහි සිටි අයෙක් ජංගම දුරකථනයක රූගත කර තිබුණි.
+
+අනතුර සිදුවන විට මෝටර් රථයේ පුද්ගලයන් 4ක් ගමන් කර ඇති අතර ඉන් එක් අයෙකු මියගොස් තවත් දෙදෙනෙකු ලබා තිබේ.‍
+
+මෝටර් රථයේ ගමන් ගත් අයෙක් මේ වනවිට තලංගම පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+අනතුරට ලක් වූ වෑන් රථය කොළඹ විශ්වවිද්‍යාලයේ පශ්චාත් උපාධි ආයතනයට අයත් රථයක් වන අතර එහි සිටි කාන්තාවක් තුවාල ලබා ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/e9fdc7e7.json)
+
+---
 
 ### Warning to budget party supported by president
 
@@ -2195,77 +2257,5 @@ Janith Liyanage scored 20 runs, Hazaranga 24 runs and Akkila Tanjaya 17 runs.
 [Data](articles/2c0d7593.json)
 
 [Extended Data](ext_articles/2c0d7593.ext.json)
-
----
-
-### Signs are consequencing
-
-*2024-08-02 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199500) · `si`
-
-In the first day-night match between Sri Lanka and India, Sri Lanka batted first after winning the toss, scoring 230/8. Duti Vellege made 56, while Mohamad Shiraz contributed significantly. India started their chase but lost early wickets, with Dugar Welelle and Akila Dananjaya taking two each. Despite efforts from Fernando Hasaranga, Viru Viley, and Asitha Fernando, Sri Lanka couldn't secure a win as Charith took two crucial wickets towards the end.
-
-🟩
-
-The first one-day match between Sri Lanka and the Indian ended today (02).
-
-The Sri Lanka Leader won the toss and elected to bat first.
-
-Mohamad Shiraz is a wide range of tendency for Sri Lanka today.
-
-Accordingly, Sri Lanka who entered the field and scored 230 runs for the loss of 8 wickets.
-
-Duti Vellege scored 56 runs and scored unbeaten on 247 runs.
-
-A target of 231 runs, the Indian opening batsmen began in the wicket bout.
-
-Dugar Welelle and Akila Dananjaya Presses India's team in 12 marks.
-
-Fernando Hasaranga Viru Viley and Asitha Fernando Grades were not enough to win Sri Lanka victory.
-
-When Charith collapses two wickets in the face of their bowling on the basis of the bowling of Charith, the match was ended due to the bowling of two wickets.
-
-◼️
-
-[Data](articles/3e1d21b2.json)
-
-[Extended Data](ext_articles/3e1d21b2.ext.json)
-
----
-
-### Police Sergeant arrested while accepting Rs. 150,000 bribe near court
-
-*2024-08-02 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100956/police-sergeant-arrested-while-accepting-rs-150000-bribe-near-court) · `en`
-
-A Police Sergeant attached to the Mahabage Police Traffic Division has been arrested near the Mahabage Court for allegedly soliciting a bribe of Rs. 150,000 from an individual.
-
-The police officer is accused of accepting the bribe on the pretext of not inconveniencing a resident of Uswetikeiyyawa over allegations of drug-related activities under the ‘Yukthiya’ police operation, to delete the latter’s name from such lists, and to refrain from searching his house.
-
-The bribe was also requested in order to ensure that the individual in question could live peacefully without further trouble, according to the Bribery Commission.
-
-The arrested suspect is scheduled to be produced before the Colombo Chief Magistrate’s Court.
-
-◼️
-
-[Data](articles/82601bf3.json)
-
-[Extended Data](ext_articles/82601bf3.ext.json)
-
----
-
-### Police Sergeant arrested for a bribe of Rs.
-
-*2024-08-02 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199499) · `si`
-
-A police sergeant was arrested for accepting a Rs 150,000 bribe, facing bribery charges.
-
-🟩
-
-A police sergeant who was bribed by a bribe of Rs 150,000 has been arrested on bribery charges.
-
-◼️
-
-[Data](articles/797f8dff.json)
-
-[Extended Data](ext_articles/797f8dff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 09:55:44**
+As of **2024-08-03 10:06:57**
 
 ## Newspaper Stats
 
-*Scraped **38,745** Articles*
+*Scraped **38,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ bbccomsinhala | 370
 islandlk | 2,224
 economynextcom | 2,345
 dailyftlk | 2,494
-adalk | 3,554
-adaderanalk | 4,485
+adalk | 3,555
+adaderanalk | 4,486
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,813
 virakesarilk | 6,135
-adaderanasinhalalk | 6,531
+adaderanasinhalalk | 6,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,742 (100.0%) of 38,745 articles have been extended.
+38,745 (100.0%) of 38,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### PAFFREL receives 45 complaints of election law violations
+
+*2024-08-03 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100961/paffrel-receives-45-complaints-of-election-law-violations) · `en`
+
+The People’s Action for Free and Fair Elections (PAFFREL) has reportedly receiving 45 complaints related to violations of election laws concerning the upcoming Presidential Election.
+
+Executive Director of PAFFREL, Rohana Hettiarachchi stated that the majority of complaints involve the misuse of state power.
+
+◼️
+
+[Data](articles/ae0b2562.json)
+
+---
+
+### දකුණු පිලිපීනයේ භූකම්පනයක්
+
+*2024-08-03 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199509) · `si`
+
+දකුණු පිලිපීන වෙරළට ඔබ්බෙන් රික්ටර් මාපක 6.ක භූ කම්පනයක් අද (03) අලුයම ඇති වූ බව එක්සත් ජනපද භූ විද්‍යා සමීක්ෂණ ආයතනය පැවසීය.
+
+විදෙස් වාර්තා සඳහන් කළේ මේ හේතුවෙන් සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර නොමැති බවයි.
+
+මින්දනාඕ දූපතට නැගෙනහිරින් පිහිටි බාර්සිලෝනා ගම්මානයේ සිට කිලෝමීටර් 20ක් පමණ දුරින් කිලෝමීටර් 17ක් ගැඹුරින් මෙම භූ කම්පනය හටගෙන ඇති බව සඳහන්ය.
+
+එරට බලධාරීන් පැවසුවේ කිසිදු ජීවිත හෝ දේපොළ හානියක් වාර්තා වී නොමැති නමුත් පසු කම්පන ගැන අනතුරු ඇඟවා ඇති බවයි.
+
+◼️
+
+[Data](articles/f1795095.json)
+
+---
 
 ### Parking system contractor owes Rs. 90 million to Colombo Municipal Council
 
@@ -46,21 +78,29 @@ He also mentioned that due to the shortcomings of the current project, a new ele
 
 [Data](articles/b9111632.json)
 
+[Extended Data](ext_articles/b9111632.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய பொலிஸ் சார்ஜன்ட் கைது
+### Arrested by Police Sergeant for Bribery
 
 *2024-08-03 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190146) · `ta`
 
-வத்தளை, மஹாபாகே நீதிமன்றத்திற்கு  அருகில் நபர் ஒருவரிடமிருந்து 150,000 ரூபாவை இலஞ்சம் பெற்ற குற்றச்சாட்டில் பொலிஸ் சார்ஜன்ட் ஒருவர் வெள்ளிக்கிழமை (02) கைது செய்யப்பட்டுள்ளார்.
+Police Sergeant Mahabhake was arrested for bribery, accused of paying off someone in Uswettikayawa to avoid being listed in a drug-related case under the 'Yukkatha' action.
 
-கைது செய்யப்பட்ட பொலிஸ் சார்ஜன்ட் மஹபாகே பொலிஸ் போக்குவரத்துப் பிரிவில் கடமையாற்றுபவர் ஆவார்.
+🟩
 
-உஸ்வெட்டிகெய்யாவ பகுதியில் வசிக்கும் ஒருவருக்கு 'யுக்திய' நடவடிக்கையின் கீழ்  அசௌகரியம் ஏற்படுத்தாமல் இருப்பதற்கும், போதைப்பொருள் தொடர்பான  பெயர் பட்டியலில் அவரது பெயரை சேர்க்காமல்  இருப்பதற்கும், அவரது சோதனைக்கு உட்படுத்தாமல் இருப்பதற்காகவும் இலஞ்சம் பெற்றதாக இலஞ்சம் கோரப்பட்டுள்ளதாக இலஞ்ச ஊழல் ஆணைக்குழு தெரிவித்துள்ளது.
+A police sergeant has been arrested on Friday (02) for allegedly bribing Rs.
+
+The arrested Police Sergeant Mahabhake is a duty of the police transport unit.
+
+The Bribery Commission has said that bribes have been bribed to bribes a person living in the Uswettikayawa area for not having discomfort under the 'Yukkatha' action, not to add his name on the drug -related name list.
 
 ◼️
 
 [Data](articles/8f700ecc.json)
+
+[Extended Data](ext_articles/8f700ecc.ext.json)
 
 ---
 
@@ -152,17 +192,27 @@ Executive Director of the Division Rohana Hettiarachchi says that a major number
 
 ---
 
-### 2025 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டம் முறையான வருமானம் ஈட்டல் வழிமுறைகளை உள்ளடக்கியிருக்கவேண்டும் - சர்வதேச நாணய நிதிய அதிகாரிகள் குழு வலியுறுத்தல்
+### The budget for 2025 must include proper income earning methods - insists on the International Monetary Finance Officers' Committee
 
 *2024-08-03 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190145) · `ta`
 
-இலங்கையின் 2025 ஆம் ஆண்டுக்கான வரவு - செலவுத்திட்டமானது முறையான வருமானமீட்டல் வழிமுறைகளை உள்ளடக்கியதாக அமையவேண்டும் என வலியுறுத்தியிருக்கும் சர்வதேச நாணய நிதியம், அண்மையில் ஜனாதிபதித்தேர்தல் அறிவிக்கப்பட்டிருக்கும் நிலையில், அதன்பின்னர் மூன்றாம் கட்ட மீளாய்வுக்கான காலப்பகுதி குறித்து அரசாங்கத்துடன் கலந்துரையாடப்படும் என்று அறிவித்துள்ளது.
+The International Monetary Fund (IMF) emphasizes the need for Sri Lanka's 2025 budget to incorporate formal income systems, highlighting the importance of economic restructuring and financial policies. Following a visit in July 2023, the IMF praised Sri Lanka's economic progress, including GDP growth, low inflation, and increased foreign exchange reserves. The IMF urges maintaining this momentum, focusing on enhancing financial income, stabilizing the economy, and managing debt effectively. Proposed measures include improving tax administration, protecting vulnerable populations, and ensuring financial discipline. The IMF also stresses the importance of controlling inflation and prioritizing currency policy.
 
-சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டத்தின்கீழ் முன்னெடுக்கப்பட்டுவரும் பொருளாதார மறுசீரமைப்புக்கள் மற்றும் நிதியியல் கொள்கைகள் குறித்தும், பெரும்பாகப்பொருளாதார முன்னேற்றங்கள் குறித்தும் கலந்துரையாடும் நோக்கில் சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான செயற்திட்டப்பிரதானி பீற்றர் ப்ரூவர் தலைமையிலான அதிகாரிகள் குழு ஜுலை 25 - ஓகஸ்ட் 2 ஆம் திகதி வரையான காலப்பகுதியில் இலங்கைக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தது.
+🟩
+
+The International Monetary Fund, which urged Sri Lanka's 2025 budget to include formal income systems, has announced that it will be discussed with the government on the period of third phase of the third phase of review.
+
+A group of officials headed by the IMF, the IMF, have been conducting an official visit to Sri Lanka on July 25, in order to discuss the economic restructuring and financial policies and the majority of economic advances being carried out under the Extended Finance Project of the International Monetary Fund.
+
+In a statement issued by Peter Bruver on the state of affairs after meeting with various parties, including the President, Central Bank Governor, Treasury Secretary and Opposition Leader, said:
+
+Appreciated results have been made through the Economic Rehabilitation Project implemented by the Government of Sri Lanka. GDP registered three consecutive quarters of consecutive quarters, and economic growth recorded 5.3 per cent in the first quarter of this year.
 
 ...
 
 [Data](articles/e878cba1.json)
+
+[Extended Data](ext_articles/e878cba1.ext.json)
 
 ---
 
@@ -1274,6 +1324,22 @@ The two arrested were taken to the Polonnaruwa Police Station and the Commission
 
 ---
 
+### පාර්ලිමේන්තුව අගෝස්තු 6 සිට 9 දක්වා රැස්වෙයි
+
+*2024-08-02 18:55:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අගෝස්තු-6-සිට-9-දක්වා-රැස්වෙයි/11-411172) · `si`
+
+පාර්ලිමේන්තුව ලබන 6 වැනිදා සිට 9 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය. එම සතියට අදාළ පාර්ලිමේන්තු කටයුතු අද (02) පෙරවරුවේ කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+
+මේ අනුව අගෝස්තු 6 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා විපක්ෂය ‍විසින් ගෙනෙනු ලබන යෝජනාවට අනුව ‘මාතර නිල්වලා ග‍‍ඟ ආශ්‍රිතව ඉදිකර ඇති ලවණ බාධකය හේතුවෙන් මතුව ඇති ගැටලුකාරී තත්ත්වය’ පිළිබඳ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත.
+
+අගෝස්තු 7 වැනි බදාදා පෙ.ව 9.30 සිට පෙ.ව 10.00 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.00 සිට ප.ව 5.30 දක්වා ආණ්ඩු පාර්ශ්වය විසින් ගෙනෙනු ලබන යෝජනාවකට අනුව  ‘වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව’ පිළිබඳ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට ද නියමිතව තිබේ.
+
+...
+
+[Data](articles/f897c642.json)
+
+---
+
 ### Thousands of Sri Lankans trapped in the conflict
 
 *2024-08-02 18:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதல்-வலயத்தில்-சிக்கியுள்ள-ஆயிரக்கணக்கான-இலங்கையர்கள்/175-341474) · `ta`
@@ -2181,79 +2247,5 @@ The number of dengue patients recorded in the districts of Colombo, Gampaha, Kan
 [Data](articles/a623f8f5.json)
 
 [Extended Data](ext_articles/a623f8f5.ext.json)
-
----
-
-### Relaxing vehicle import restrictions will support Sri Lanka’s revenue mobilization in 2025 – IMF
-
-*2024-08-02 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100946/relaxing-vehicle-import-restrictions-will-support-sri-lankas-revenue-mobilization-in-2025-imf) · `en`
-
-The International Monetary Fund (IMF) says the 2025 Budget needs to be underpinned by appropriate revenue measures and continued spending restraint so as to reach the medium-term primary balance objective of 2.3 percent of GDP—a key requirement for restoring Sri Lanka’s debt sustainability.
-
-“With Sri Lanka’s knife-edged recovery at a critical juncture, sustaining the reform momentum and ensuring timely implementation of all program commitments are critical to cement the hard-won economic progress to date and put the economy on a firm footing.”
-
-“Maintaining macroeconomic stability and restoring debt sustainability require further efforts to raise fiscal revenues,” said IMF Senior Mission Chief for Sri Lanka Peter Breuer.
-
-He made this statement in their End-of-Mission press release, which includes statements of IMF staff teams that convey preliminary findings after a visit to a country.
-
-...
-
-[Data](articles/4f3e4c8b.json)
-
-[Extended Data](ext_articles/4f3e4c8b.ext.json)
-
----
-
-### The largest prisoner exchange after winter war
-
-*2024-08-02 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199488) · `si`
-
-The US confirmed a significant prisoner exchange post-Winter War, involving 24 detainees, the largest such event between Russia and the West. Russia freed 16 prisoners in Ankara, including Ivan Gerchcovich, charged with spying. Relatives met with US President Joe Biden, and reports suggest prisoners displayed the US flag upon release. Additionally, eight Russian prisoners were released in Norway, Germany, Poland, and Slovenia.
-
-🟩
-
-The US has confirmed that an exchange of prisoners had taken place according to a consensus between Russia and Western countries.
-
-There were 24 prisoners from both parties and was the largest prisoners between Russia and the West after the winter war.
-
-In the Turkey Ankara Airport, Russia had released 16 prisoners.
-
-Meanwhile, Ivan Gerchcovich, a reporter in Wall Street Magazine, who was arrested on the charge of spying.
-
-The relatives of the prisoners were summoned to the Oval and the US President Joe Bread.
-
-Foreign media reports that prisoners have raised the flag of the US in the US.
-
-Eight Russian prisoners in Norway, Norway, Germany, Poland and Slovenia have been released, foreign media said.
-
-◼️
-
-[Data](articles/7b8b42c6.json)
-
-[Extended Data](ext_articles/7b8b42c6.ext.json)
-
----
-
-### Petitions against Winds Power Plant Project on Mannar will be considered
-
-*2024-08-02 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199487) · `si`
-
-The Supreme Court will consider petitions against the Winds Power Plant Project in Mannar on October 14. The project, which includes building a wind power plant near Mannar Vediruthla, faces opposition due to potential severe impact on migratory bird life. Petitioners must submit contracts by September 13 if they opposed the project before August 20.
-
-🟩
-
-The Supreme Court has set to be called on October 14 to seek to issue a strongholding of Cabinet Limited in the Mannar Vediruthla area.
-
-S. Thura Raja, A HMD. These petitions were summoned before the Supreme Court Judge of Nawaz, Shiran Gunaratne and Achala VingPuli.
-
-If the limited opposition to the petitions have been filed before August 20, the petitioner was ordered to file the contracts before September 13.
-
-If the proposed wind biodiversity has been built by five parties including the center of the Environment Yart and the proposed wind power plant, it is likely that the lives of migrant biodies will be severely affected.
-
-◼️
-
-[Data](articles/a3a951e9.json)
-
-[Extended Data](ext_articles/a3a951e9.ext.json)
 
 ---

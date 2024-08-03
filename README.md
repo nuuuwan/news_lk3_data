@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 18:54:39**
+As of **2024-08-03 19:05:51**
 
 ## Newspaper Stats
 
-*Scraped **38,797** Articles*
+*Scraped **38,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,61 @@ adaderanalk | 4,496
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,821
 virakesarilk | 6,144
-adaderanasinhalalk | 6,547
+adaderanasinhalalk | 6,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,795 (100.0%) of 38,797 articles have been extended.
+38,797 (100.0%) of 38,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### රත්නපුර පොහොට්ටු මන්ත්‍රී අටෙන් පහක්ම රනිල්ට - පවිත්‍රා දෙලොවක් අතර
+### උතුරු මුහුදේ සිද්ධිය ගැන නාවික හමුදාවෙන් පැහැදිලි කරයි
+
+*2024-08-03 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199527) · `si`
+
+යාපනය ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ  මුහුදු සීමාවේ දී අනතුරට ලක්වූ ඉන්දීය ධීවර යාත්‍රාවේ සිට මුදාගත් ධීවරයින් දෙදෙනා ඉන්දීය නාවික හමුදාව වෙත භාර දී තිබේ.
+
+පසුගිය ජූලි මස 31 වනදා නාවික හමුදාව විසින් නීතිවිරෝධි ධීවර කටයුතුවල නිරත වු ඉන්දීය ධීවර යාත්‍රා පළවා හැරීමට යාමේදී එක් ධීවර යාත්‍රාවක් පෙරළී අනතුරට පත් විය.
+
+එම යාත්‍රාවේ සිටි ධීවරයින් තිදෙනෙකු නාවික හමුදාව විසින් මුදාගෙන තිබු අතර ඔවුන් පුංගුඩුතිව් රෝහල වෙත ඇතුළත් කිරීමේ දී එක් ධීවරයෙකු මියගොස් තිබූ බව නාවික හමුදාව පවසයි.
+
+මුදාගත් ඉන්දීය ධීවරයන් දෙදෙනා සහ ජීවිතක්‍ෂයට පත් ධීවරයාගේ මෘතදේහය ශ්‍රී ලංකා වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව මඟින් ඉන්දීය නාවික හමුදාවේ නෞකාවක් වෙත භාර දී ඇති බව නාවික හමුදාව පැවසීය.
+
+◼️
+
+[Data](articles/44f6d7d2.json)
+
+---
+
+### Ranil for five members of Ratnapura - Ranil - Pavithra
 
 *2024-08-03 18:07:10* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොහොට්ටු-මන්ත්‍රී-අටෙන්-පහක්ම-රනිල්ට---පවිත්‍රා-දෙලොවක්-අතර/11-411177) · `si`
 
-රත්නපුර දිස්ත්‍රික්කයේ සමස්ථ පොහොට්ටුවේ පාර්ලිමේන්තු, පළාත් සභා හා පළාත් පාලන මන්ත්‍රීවරු එළැඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කරති.
+In a significant show of support for President Ranil Wickremesinghe in the upcoming presidential election, parliamentarians, provincial councils, and local government members from across the Ratnapura District have pledged their backing. This decision was made during a meeting at the Sri Ramya Hotel, where several key figures, including Jewak Wakkumbura, Premalal Jayasekara, Aklly Ellawala, Tapity Pishanthi, and John Seneviratne, were present. Despite initial delays due to organizational issues, MP Gamini Walaboda has been in talks with Sajith Premadasa, and Pavithra Wanniarachchi, the district leader, is also expected to support Wickremesinghe. The majority of the 160 local authority members and all six provincial councilors in the Ratnapura District have expressed their support, indicating widespread endorsement for Wickremesinghe's candidacy.
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ ප්‍රධානත්වයෙන් අද (03) දින රත්නපුරේ ශ්‍රී රම්‍යා හෝටලයේ පැවැති සාකච්ඡාවකදී එම පක්ෂයේ මහජන නියෝජිතයන් මෙම තීරණයට එළඹුණහ.
+🟩
 
-සාකච්ඡාව සඳහා රත්නපුර දිස්ත්‍රික්කය නියෝජනය කරන පොහොට්ටු පාර්ලිමේන්තු මන්ත්‍රීවරු 08න් හතර දෙනෙකු පැමිණ සිටියහ.
+Parliamentarians, Provincial Councils and Local Government Members of the entire rhost of the Ratnapura District have decided to support President Ranil Wickremesinghe in the presidential election.
 
-ඒ ජානක වක්කුඹුර, ප්‍රේමලාල් ජයසේකර, අකිල් එල්ලාවල සහ මුදිතා ප්‍රිශාන්ති මන්ත්‍රීවරියයි.
+The party's representatives took the decision at a meeting held at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel.
 
-පොහොට්ටුවෙන් තේරී පත් වූ ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරන ජෝන් සෙනෙවිරත්න මහතා දැනටමත් රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව පවසා තිබේ.
+Several members representing the Ratnapura District were present at the meeting.
 
-එම පක්ෂයෙන් තරඟ කළ ගාමිණි වලේබොඩ මන්ත්‍රීවරයා දැනට සජිත් ප්‍රේමදාස මහතාට එකතු වීමේ සුදානමක සිටින බවත් ආසන සංවිධායක ධූරයේ ගැටළුවක් නිසා එය ප්‍රමාද වී ඇති බවත් පැවසේ.
+It is Jewak Wakkumbura, Premalal Jayasekara, Aklly Ellawala and Tapity Pishanthi.
+
+John Seneviratne, who is elected by the Sri Lanka Freedom Party, has already been supporting Ranil Wickremesinghe.
+
+It is said that MP Gamini Walaboda has been speaking to Sajith Premadasa that MP Sajith Premadasa is currently being added to Sajith Premadasa and it is delayed due to a problem with the post of organizer.
 
 ...
 
 [Data](articles/c5d2ff8e.json)
+
+[Extended Data](ext_articles/c5d2ff8e.ext.json)
 
 ---
 
@@ -1000,19 +1024,25 @@ Heavy traffic congestion has been reported on the High-Level Road between Kottaw
 
 ---
 
-### ඥානීස්සර නාහිමිපාණන්ගේ ආදාහන පූජෝත්සවය ලබන 05දා
+### The creation of the cremation of the Gnanitiatiya Thera
 
 *2024-08-03 09:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ඥානීස්සර-නාහිමිපාණන්ගේ-ආදාහන-පූජෝත්සවය-ලබන-05දා/11-411175) · `si`
 
-අපවත් වී වදාළ සියම් මහා නිකායේ මල්වතු පාර්ශ්වයේ කොළඹ නව කෝරළේ ප්‍රධාන සංඝනායක, කොළඹ හුණුපිටිය ගංගාරාමාධිපති අතිජූජ්‍ය ආචාර්ය ගල්බොඩ ඥානීස්සර නාහිමිපාණන් වහන්ගේ ශ්‍රී දේහය පිළිබඳ අවසන් කටයුතු ලබන අගෝස්තු 5 වන සඳුදා සවස 4.30ට කොළඹ හුණුපිටිය ගංගාරාම විහාරස්ථාන ආදාහන මළුවේදී සිදු කිරීමට නියමිතයි.
+The cremation of the Gnanitiatiya Thera, aged 81, will take place at 4:30 pm on Monday at the Navan Kangarama Vannayakarama Vihara in Colombo. The event is organized under the State Assistant of State, following a decision made by Prime Minister Dinesh Gunawardena, ministers, and the President during a meeting.
 
-අග්‍රාමත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු අමාත්‍යවරුන්, ජනාධිපති ලේකම්වරයාගේ ඇතුළු පිරිසකගේ සහභාගිත්වයෙන් පැවැති සාකච්ඡාවේදී උන්වහන්සේගේ අවසන් කටයුතු රාජ්‍ය අනුග්‍රහය යටතේ පැවැත්වීමට තීරණය කර තිබේ.
+🟩
 
-උන්වහන්සේ රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (02) දහවල්  අපවත් වූ අතර උන්වහන්සේ අපවත් වන විට 81 වැනි වියේ පසුවිය.
+The funeral of the Navan Kangarama Vannayakarama Vanni Vanayakarama Viharama, Colombo will be held at 4.30 pm on Monday, Hunupitiya Gnanitha Gannupitiya.
+
+At the meeting of Prime Minister Dinesh Gunawardena, the Ministers and the President, has decided to be held under the State Assistant of State.
+
+He was hospitalized after being treated in the hospital and was yesterday afternoon, while he was 81 years old.
 
 ◼️
 
 [Data](articles/d449be15.json)
+
+[Extended Data](ext_articles/d449be15.ext.json)
 
 ---
 
@@ -2221,25 +2251,5 @@ Prasanna Vithanage returns to hilly terrain, its misty mountains and cold climes
 [Data](articles/72a9cbc5.json)
 
 [Extended Data](ext_articles/72a9cbc5.ext.json)
-
----
-
-### Strategies For Efficiency & Integrity In Democracies: The Cry For Independent Commissions
-
-*2024-08-02 21:05:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strategies-for-efficiency-integrity-in-democracies-the-cry-for-independent-commissions/) · `en`
-
-International Electoral Affairs Symposium , Jodhpur India, 25 July 2024 – By the International Centre for Parliamentary Studies (ICPS) London, in collaboration with the State Election Commission of Rajasthan.
-
-We need a T.N. Seshan to Inspire us all. The Hindu described T.N. Seshan (1932-2019) | as the man who cleaned up the Indian electoral system. He did not accept the EC as a Government Department, insisting he reported only to the President of India. No mincing words. We in Sri Lanka need an independent Commission for free and fair elections. Without this, all our conferences, reports and plans are a bluff and  show-biz
-
-Politeness should not make us stop speaking against evil. I will not be polite.
-
-General Shavendra Silva shown here, as the US put it, is accused of War Crimes – killing hundreds of Tamils – “gross violtions of human rights, namely extrajudicial killing …” He and his family are prohibited from the US.
-
-...
-
-[Data](articles/d14a28f2.json)
-
-[Extended Data](ext_articles/d14a28f2.ext.json)
 
 ---

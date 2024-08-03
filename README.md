@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 22:08:48**
+As of **2024-08-03 22:20:32**
 
 ## Newspaper Stats
 
-*Scraped **38,808** Articles*
+*Scraped **38,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,499
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,823
 virakesarilk | 6,145
-adaderanasinhalalk | 6,552
+adaderanasinhalalk | 6,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,806 (100.0%) of 38,808 articles have been extended.
+38,808 (100.0%) of 38,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ සැකකරුවන් තිදෙනෙකුගේ ඡායාරූප පොලීසිය නිකුත් කරයි
+
+*2024-08-03 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199532) · `si`
+
+ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+
+පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත සහ තවත් අයෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
+
+මෙම අපරාධය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු විමර්ශන නිලධාරීන් විසින් හඳුනාගෙන ඇති අතර සැකකරුවන්ගේ ඡායාරූප 03 පොලීසිය විසින් මාධ්‍ය වෙත නිකුත් කර තිබේ.
+
+03. සම්පූර්ණ නම - මුතුවා දුර තරිඳු මදුසංඛ ද සිල්වා නොහොත් "බහිරවයා"
+
+ඉහත නම් සඳහන් සැකකරුවන් සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත සඳහන් දුරකථන අංක වෙත දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/76caf266.json)
+
+---
 
 ### 24 Sri Lankans including artists arrested in Kuwait – Minister
 
@@ -45,6 +65,8 @@ However, the minister did not provide any further details on the reasons for the
 ◼️
 
 [Data](articles/6a6b8fcd.json)
+
+[Extended Data](ext_articles/6a6b8fcd.ext.json)
 
 ---
 
@@ -68,21 +90,27 @@ Meanwhile, Parliamentarian Nipuna Ranawaka has been temporarily appointed as the
 
 ---
 
-### පොහොට්ටුව නව නායකයින් පත්කරයි
+### Pove is appointed new leaders
 
 *2024-08-03 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199531) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ, අනුරාධපුර, මාතර හා ගාල්ල දිස්ත්‍රික් නායක ධුර දැරූ අමාත්‍යවරුන් තිදෙනෙකු සහ මන්ත්‍රීවරයෙක් ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීම හේතුවෙන් එම තනතුරුවල වැඩ බැලීම සඳහා අලුතින් සිව් දෙනෙකු පත් කර ඇත.
+Ranil Wickremesinghe is named President, with four new ministers and several changes in district leadership roles in Sri Lanka.
 
-ඉන් අනුරාධපුර දිස්ත්‍රික් නායක ලෙසින් කටයුතු කළ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්. චන්ද්‍රසේන මහතා වෙනුවට එම දිස්ත්‍රික් නායක ධුරයේ වැඩබැලීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා පත්කර ඇත.
+🟩
 
-මීට අමතරව ගම්පහ දිස්ත්‍රික් නායකත්වය දැරූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා වෙනුවට එහි වැඩබැලීමට රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ මහතාද, අමාත්‍ය කංචන විජේසේකර මහතා වෙනුවට මාතර දිස්ත්‍රික් නායකත්වයේ වැඩ බැලීම සඳහා පාර්ලිමේන්තු මන්ත්‍රී නිපුණ රණවක මහතාත් පත්කර තිබේ.
+Four new ministers with three ministers of the Sri Lanka Knowledge, Anuradhapura, Matara and Galle District Leadership with Ranil Wickremesinghe have been appointed as the President.
 
-එමෙන්ම ගාල්ල දිස්ත්‍රික් නායක ලෙසින් කටයුතු කළ රමේෂ් පතිරණ මහතා වෙනුවට එම දිස්ත්‍රික්කයේ වැඩබැලීම සඳහා රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා පත් කර ඇත.
+Member of Parliament Leader SM. Instead of Mr. Chandrasena, the National Organizer of the Sri Lanka General Manager Namal Rajapaksa has been appointed to act as the post of District Leader.
+
+In addition, the Gampaha District Leader Minister Prasanu Ranavatunga has been appointed as Minister of Indikanura Ranatunga to work with Minister Kanchana Wijesekara to support the Matara district leadership.
+
+He has also appointed Mohan Priyadarshana De Silva to act in the district as the Galle District Leader.
 
 ◼️
 
 [Data](articles/457882a5.json)
+
+[Extended Data](ext_articles/457882a5.ext.json)
 
 ---
 
@@ -2221,21 +2249,5 @@ At the same time, Ajantha The Soyza has paid control on behalf of the Ruhunu Peo
 [Data](articles/07ce0b41.json)
 
 [Extended Data](ext_articles/07ce0b41.ext.json)
-
----
-
-### Need for an epistemological break
-
-*2024-08-02 23:03:18* · [`dailyftlk`](https://www.ft.lk/opinion/Need-for-an-epistemological-break/14-765085) · `en`
-
-In a country like Sri Lanka, where ethno-nationalist politics has polarised the communities and made them see each other as enemies, we need a new language to talk about our political future under a framework of devolution which emphasises inclusiveness rather than exclusiveness
-
-Devolution of power to regions is essential for a democratic society. However, as Rosa Luxemburg warned, national self-determination can be a dangerous distraction from the imperative to collaborate with labour movements. Sri Lanka faces a severe economic crisis, debt burden, and exploitation of labour and natural resources by multinational corporations and governments. The marginalised, such as workers, peasants, plantation workers, women, LGBT+ individuals, and oppressed castes, are the most affected. The Alliance, as a progressive movement, ought to address fundamental issues such as devolution of powers and class, caste, and gender divisions, as well as exploitation and dispossession, to unite the people
-
-...
-
-[Data](articles/68254b11.json)
-
-[Extended Data](ext_articles/68254b11.ext.json)
 
 ---

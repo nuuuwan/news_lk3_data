@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 15:20:59**
+As of **2024-08-03 15:36:08**
 
 ## Newspaper Stats
 
-*Scraped **38,778** Articles*
+*Scraped **38,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,224
 economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,557
-adaderanalk | 4,492
+adaderanalk | 4,493
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,818
 virakesarilk | 6,140
@@ -26,23 +26,47 @@ adaderanasinhalalk | 6,541
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,774 (100.0%) of 38,778 articles have been extended.
+38,778 (100.0%) of 38,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
 
-### செப்டம்பர் முதல் 5,500 ரூபாய்
+### Presidential Election: District Returning Officers summoned to Election Commission
+
+*2024-08-03 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100968/presidential-election-district-returning-officers-summoned-to-election-commission) · `en`
+
+All District Returning Officers have been summoned to the Election Commission in order to discuss the activities pertaining to the 2024 Presidential Election.
+
+The discussions have reportedly commenced this morning (03) at the Election Commission’s head office.
+
+The election regulatory body has been conducting several rounds of negotiations with various parties concerning the forthcoming presidential election.
+
+Meanwhile, a spokesman of the Election Commission also announced that heads of media outlets across the country will be convened for a discussion pertaining to the matter on Monday (05).
+
+◼️
+
+[Data](articles/75091862.json)
+
+---
+
+### 5,500 rupees from September
 
 *2024-08-03 15:01:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-முதல்-5-500-ரூபாய்/175-341499) · `ta`
 
-செப்டம்பர் மாதம் முதல் ஓய்வூதியதாரர்களுக்கு 3,000 ரூபாய் இடைக்கால கொடுப்பனவை வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+In September, Sri Lanka's Finance Minister announced an interim allowance of Rs 3,000 for pensioners, effective immediately.
 
-அதன்படி, அனைத்து ஓய்வூதியர்களும் தற்போது 2,500 ரூபாய் உதவித்தொகையுடன் கூடுதலாக 3,000 ரூபாயுடன் மொத்தமாக 5,500 ரூபாயை இடைக்கால கொடுப்பனவாக பெறுவார்கள் என இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார். R
+🟩
+
+Finance Minister Ranjith Siyambalapitiya has said that the government has decided to issue an interim allowance of Rs 3,000 to pensioners from September.
+
+Accordingly, all pensioners will now receive an interim allowance of Rs.. Remble
 
 ◼️
 
 [Data](articles/7ce462f8.json)
+
+[Extended Data](ext_articles/7ce462f8.ext.json)
 
 ---
 
@@ -74,21 +98,27 @@ Accordingly, the Chairman of the Committee has instructed to do the gazetted for
 
 ---
 
-### வைத்தியர் அர்ச்சுனா மன்னாரில் கைது
+### Doctor Archana arrested in Mannar
 
 *2024-08-03 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190176) · `ta`
 
-மன்னார் வைத்தியசாலை வைத்தியர்கள் மேற்கொண்ட முறைப்பாட்டை தொடர்ந்து வைத்தியர் அர்ச்சுனா இன்று சனிக்கிழமை  (3) மதியம் கைது செய்யப்பட்டுள்ளார்.
+Dr. Archana was arrested by Mannar Hospital admins over a complaint from fellow doctors. She faces charges related to a young mother's inquiry about a death at Mannar Thambane pond, leading to her remand until the 7th.
 
-நேற்றைய தினம் (2) இரவு மன்னார் பொது வைத்தியசாலைக்குள் நுழைந்து குழப்பத்தை ஏற்படுத்தியதாக மன்னார் வைத்தியசாலை நிர்வாகம் மன்னார் பொலிஸ் நிலையத்தில் மேற்கொண்ட முறைப்பாட்டை தொடர்ந்து இன்றைய தினம் காலை வைத்தியர் அர்சுனா மன்னார் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-அண்மையில் மன்னார் தம்பன்னை குளத்தை சேர்ந்த இளம் தாய் ஒருவர் மரணம் அடைந்த சம்பவம் தொடர்பில் தகவல் சேகரிக்க வந்த நிலையில், வைத்திய செயற்பாட்டு வைத்தியர்கள் மற்றும் சுகாதர ஊழியர்களின் சேவைக்கு இடையூறு ஏற்படுத்தியதாக மேற்கொள்ளப்பட்ட முறைப்பாட்டை தொடர்ந்து வைத்தியர் அர்சுனா இன்றைய தினம் கைது செய்யப்பட்டு மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டுள்ளார்.
+Dr. Archana has been arrested today (3) afternoon following a complaint lodged by the doctors of the Mannar Hospital.
 
-இந்நிலையில், அவரை 7 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Dr. Arsuna Mannar has been arrested by the Mannar Hospital administration at the Mannar Police Station this morning after a complaint lodged at the Mannar General Hospital.
+
+Recently, Dr Arsuna has been arrested and produced before the Mannar Magistrate's Court following a complaint that a young mother from the Mannar Thambane pond came to collect information on the death of a young man.
+
+In this case, the court has ordered him to be remanded until the 7th.
 
 ◼️
 
 [Data](articles/4dfe6a2a.json)
+
+[Extended Data](ext_articles/4dfe6a2a.ext.json)
 
 ---
 
@@ -122,6 +152,12 @@ Speaking. We believe that this journey should go forward. When we go, the SLFP m
 
 Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera says that he will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
 
+Holding a press conference in Colombo today (03), Dayasiri stated that both the SLFP’s Central Committee and Executive Committee arrived at this decision to back SJB’s “Samagi Jana Sandhanaya.”
+
+Speaking further he said: “This is a historic decision for the SLFP. We were in an anti-government ideology for the past period, so we cannot turn that back now… We are continuing with the decision that the party arrived at on November 11, 2023 to not join the government.”
+
+Several members of the party including Thilanga Sumathipala and Rohana Luxman Piyadasa were also present at the occasion.
+
 ◼️
 
 [Data](articles/316ee4a5.json)
@@ -154,19 +190,25 @@ Moreover, its Chairman of the Buddhist Hindu Religious Forum. Mohan has met and 
 
 ---
 
-### ஜனாதிபதி தேர்தல் ; மலையக தமிழரின் அபிலாஷை ஆவணத்துக்கு தமுகூ  அங்கீகாரம் - மனோ கணேசன்
+### Presidential election;Tamuku recognition for the aspiration of the upcountry Tamil - Mano Ganesan
 
 *2024-08-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190169) · `ta`
 
-ஐக்கிய மக்கள் கூட்டணி வேட்பாளர் சஜித் பிரேமதாசவிடம் செய்யப்படவுள்ள புரிந்துணர்வு உடன்படிக்கைக்காக, தன்னால் முன் வைக்கப்பட்ட  மலையக தமிழர் அபிலாஷை ஆவணத்தை ஐந்து திருத்தங்களுடன், தமிழ் முற்போக்கு கூட்டணி அரசியல் குழு ஏகமனதாக ஏற்று கொண்டுள்ளது  என கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
+Mano Ganesan, leader of the Tamil Progressive Alliance, announced that the alliance's political committee has endorsed the aspirations of upcountry Tamils, as proposed by Sajith Premadasa of the United People's Alliance. This endorsement came after a thorough review of a document detailing the needs of Tamil-origin Indians. The document, amended with additional points, covers areas like education, vocational training, youth development, health, nutrition, and housing. An MoU between Premadasa and the Tamil Progressive Alliance is expected to formalize this support.
 
-சஜித் பிரேமதாச தலைமையில் அரசாங்கம் உருவாகின்றபோது, நிறைவேற்றப்பட வேண்டிய வேலைத்திட்டங்களில் இந்திய வம்சாவளி மலையக தமிழரின் அபிலாஷை கோரிக்கைகள் அடங்கிய ஆவணம், கொழும்பில் கூடிய கூட்டணி  அரசியல் குழுவினால் தீவிரமாக ஆராயப்பட்டது.
+🟩
 
-சமர்பிக்கப்பட்ட ஆவணம், மேலதிக சில விடயங்கள் சேர்க்கைகளாக சேர்க்க பட்டும், சில திருத்தங்களுடனும் அரசியல் குழுவால் ஏக மனதாக ஏற்று கொள்ளப்பட்டது.
+Alliance leader Mano Ganesan has said that the Tamil Progressive Alliance political committee has unanimously accepted the upcountry Tamil aspiration document, which has been put forward by the United People's Alliance candidate Sajith Premadasa.
+
+When the government was formed under the leadership of Sajith Premadasa, a document with the demands of the aspirations of the Tamil origin of the Indian origin of the Tamils ​​was actively investigated by the Coalition Political Committee in Colombo.
+
+The submitted document was unanimously accepted by the political committee with some amendments, adding some more matters.
 
 ...
 
 [Data](articles/66014819.json)
+
+[Extended Data](ext_articles/66014819.ext.json)
 
 ---
 
@@ -372,27 +414,33 @@ Accordingly, the officer has been summoned to the Police Traffic today for a dis
 
 ---
 
-### குப்பைகளை உட்கொண்டு உடல்நலக் குறைவால் பறக்க முடியாமல் சோர்ந்திருக்கும் அரிய வகை பறவை
+### Snabha
 
 *2024-08-03 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190161) · `ta`
 
-ஹிக்கடுவை கடற்கரையில் உடல் நிலை பாதிக்கப்பட்ட அரிய வகை வலசை பறவையொன்று வனவிலங்கு அதிகாரிகளால் மீட்கப்பட்டு சிகிச்சைக்காக அத்திடிய பறவைகள் சரணாலயத்துக்கு கொண்டு செல்லப்பட்டுள்ளது.
+Wildlife officials rescued a rare shearwater bird near Hikkaduwa, suffering from plastic pollution, and moved it to Athidian Bird Sanctuary for care. These birds, native to tropical regions off East Africa and the Indian Ocean, typically avoid humans, nesting in rocky crevices. They stay with their young for a while after hatching, as the chicks learn to fly. Plastic debris in the sea harms these migratory birds, affecting their ability to fly.
 
-இந்த பறவை குறித்து ஹிக்கடுவை தேசிய பூங்காவின் பாதுகாவலர் அசங்க குணவர்தன தெரிவித்துள்ளதாவது,
+🟩
 
-இந்த பறவை கிழக்கு ஆபிரிக்கா மற்றும் இந்தியப் பெருங்கடலுக்கு மேற்கே உள்ள வெப்பமண்டலப் பகுதிகளை பூர்வீகமாகக் கொண்ட ஷீர்வொட்டர் (Shearwater) பறவை இனமாகும்.
+A rare species of birds have been recovered by wildlife officials on the Hikkaduwa coast and taken to the Athidian Bird Sanctuary for treatment.
 
-வெப்பமண்டலப் பறவை மனித வாழ்விடங்களிலிருந்து விலகி வாழ்வதோடு, பாறைப் பிளவுகள் அல்லது மணல் மேடு குழிகளில் முட்டையிடும்.
+Asanka Gunawardena, the guardian of the Hikkaduwa National Park, said that the bird said.
 
-இந்த பறவையினம் குஞ்சு பொரித்த பிறகு, குஞ்சுகள் பறக்கும் வரை நீண்ட காலத்துக்கு அவற்றை பாதுகாக்கும்.
+The bird is a shearwater bird that is native to the tropical areas west of the East Africa and the Indian Ocean.
 
-நீண்டதூரம் பறக்கும் திறன் கொண்ட ஷீர்வொட்டர் பறவைகள் கடலில் மிதக்கும் பொலித்தீன் அல்லது பிளாஸ்டிக் குப்பைகளை உட்கொள்வதால் நோய்வாய்ப்படுகின்றன.
+The tropical bird lives away from human habitats and lay eggs in rock cracks or sandstone pits.
 
-ஹிக்கடுவை கடற்கரையில் காணப்பட்ட இந்த பறவையும் பிளாஸ்டிக், பொலித்தீன் குப்பைகளை உட்கொண்டதால் உடல்நலக் குறைவு ஏற்பட்டு பறக்க முடியாமல் இருந்தது.
+After this bird chick, the chicks will protect them for a long time until the chicks fly.
+
+Shirvottar birds with long -distance flying are sick of consuming polythene or plastic debris floating in the sea.
+
+The bird found on the Hikkaduwa coast was also unable to fly due to plastic and polythene garbage.
 
 ◼️
 
 [Data](articles/d54f4fd3.json)
+
+[Extended Data](ext_articles/d54f4fd3.ext.json)
 
 ---
 
@@ -2203,23 +2251,5 @@ Wickremesinghe was speaking at the opening of the Thalaiyady Seawater Desalinati
 [Data](articles/8e6bb4da.json)
 
 [Extended Data](ext_articles/8e6bb4da.ext.json)
-
----
-
-### SC suspends Cabinet decision to outsource visa process
-
-*2024-08-02 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100953/sc-suspends-cabinet-decision-to-outsource-visa-process) · `en`
-
-The Supreme Court has issued an interim order preventing the implementation of the Cabinet decision to grant approval for online Visa Electronic Travel Authorization to two private entities, Ada Derana reporter said.
-
-Furthermore, the court has issued another interim injunction preventing the implementation of the agreements reached with the relevant foreign companies.
-
-This order was issued while granting leave to proceed with the hearing of several petitions filed by a group including MPs M.A. Sumanthiran, Patali Champika and Rauff Hakeem pertaining to the matter, according to the reporter.
-
-◼️
-
-[Data](articles/b549464f.json)
-
-[Extended Data](ext_articles/b549464f.ext.json)
 
 ---

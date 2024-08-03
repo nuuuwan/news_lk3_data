@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-03 11:56:08**
+As of **2024-08-03 12:08:47**
 
 ## Newspaper Stats
 
-*Scraped **38,755** Articles*
+*Scraped **38,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ newsfirstlk | 363
 colombotelegraphcom | 365
 bbccomsinhala | 370
 islandlk | 2,224
-economynextcom | 2,345
+economynextcom | 2,346
 dailyftlk | 2,494
 adalk | 3,556
 adaderanalk | 4,489
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,814
 virakesarilk | 6,135
-adaderanasinhalalk | 6,534
+adaderanasinhalalk | 6,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,755 (100.0%) of 38,755 articles have been extended.
+38,755 (100.0%) of 38,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-03 (Saturday)
+
+### පාර්ලිමේන්තුව අසල බිහිසුණු රිය අනතුරක්
+
+*2024-08-03 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199513) · `si`
+
+පාර්ලිමේන්තුව අසල මාර්ගයේදී අද (03) උදෑසන සිදුවූ රිය අනතුරකින් තරුණයන් සිව් දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+ප්‍රදේශවාසීන් පවසන්නේ අධික වේගයෙන් පැමිණි මෝටර් රථයක් පාලනය කර ගත නොහැකිව මෙලෙස අනතුරට ලක්වී ඇති බවය.
+
+තුවාල ලැබූවන් වහාම රෝහල් ගත කිරීමට පියවර ගෙන ඇතැයිද ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බවත් සඳහන් ය.
+
+◼️
+
+[Data](articles/cac66613.json)
+
+---
+
+### Sri Lanka expects more jobs in Romania, amid concerns of job scams
+
+*2024-08-03 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-more-jobs-in-romania-amid-concerns-of-job-scams-175113/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning on providing new jobs for Sri Lankans in Romania, Minister of Foreign Affairs, Ali Sabry, said amid concerns that some job agencies were misleading migrant workers.
+
+“In Romania, there are 40,000 Sri Lankans there,” Sabry told reporters Thursday. “It is a big market for Sri Lanka.
+
+“We are looking at improving further opportunities in Romania for the Sri Lankans as well as for Romanian tourists to come to Sri Lanka.”
+
+Sabry visited Romania in July 2024 and met with government officials.
+
+However, there are reports that some workers are being misled by job agencies with the promised job not being given, despite paying fees of 3,500 US dollars or more.
+
+“We continuously advise Sri Lankans that please do not go seeking employment on visit visas,” Sabry said. “You need to get your work visas and get your contract.”
+
+...
+
+[Data](articles/70a7b3ed.json)
+
+---
 
 ### Sri Lanka releases two apprehended TN men, hands over mortal remains of fisherman
 
@@ -2183,55 +2221,5 @@ The 'Insathi' submarine on 04 August 2024 is due to leave the island on August 0
 [Data](articles/ba42a211.json)
 
 [Extended Data](ext_articles/ba42a211.ext.json)
-
----
-
-### Child, Hirippa fifteed lorry drovers, tracked
-
-*2024-08-02 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199490) · `si`
-
-A tragic incident occurred in Balangoda when a two-year-old girl was run over by a lorry driven by Hirippa Fifteed. The girl's father, in pursuit of justice, chased the lorry on his motorcycle but was injured. The victim, identified as Thilana Rangalal, a 32-year-old father, was bitten by a dog earlier in the day. His wife described the heartbreaking scene where many lorries passed, and despite her screams, the child was hit. The community gathered around the accident, and the father vowed to fight for justice, showing an unwavering love and readiness to sacrifice for his child.
-
-🟩
-
-The CCTV camera has been reported to the carton of a two-year-old girl in Balangoda town.
-
-The father of the victim is pursuing the lorry on the motorcycle on the glass of the lorry on the side of the lorry.
-
-The girl's father had tried to catch the lorry driver, and the lorry drives forward by the driver of the lorry.
-
-The lorry's driver has followed the girl at the Kahatapitiya road in Balangoda.
-
-The victim was a 32 year old father, Thilana Rangalal.
-
-The girl had bites a dog, while the father and mother was returning to the Balangoda's motorcycle and to buy Nellly through the main bus stand through the Balangoda main bus stand.
-
-The wife said that the husband was pursuing the lorry, who was injured and admitted to the Balangoda's hospital.
-
-...
-
-[Data](articles/103876ea.json)
-
-[Extended Data](ext_articles/103876ea.ext.json)
-
----
-
-### SC to consider petitions against Adani wind power project in Mannar
-
-*2024-08-02 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100949/sc-to-consider-petitions-against-adani-wind-power-project-in-mannar) · `en`
-
-The Supreme Court has fixed for consideration on October 14 the five Fundamental Rights petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar.
-
-The petitions were taken up today (02) before the Supreme Court judge bench consisting of Justices, S. Thurairaja, A.H.M.D. Nawaz, Shiran Gunaratne and Achala Wengappuli.
-
-The respondents named in the petitions were ordered by the court to file limited objections, if any, before August 20 while any counter objections related to those were ordered to be filed before September 13.
-
-The petitions, submitted by five parties including the Centre for Environmental Justice, argue that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
-
-◼️
-
-[Data](articles/7f67aeef.json)
-
-[Extended Data](ext_articles/7f67aeef.ext.json)
 
 ---

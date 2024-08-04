@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 12:36:11**
+As of **2024-08-04 12:53:49**
 
 ## Newspaper Stats
 
-*Scraped **38,874** Articles*
+*Scraped **38,879** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 333
+dbsjeyarajcom | 334
 newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,563
-adaderanalk | 4,506
+adalk | 3,564
+adaderanalk | 4,508
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,844
+tamilmirrorlk | 4,845
 virakesarilk | 6,145
 adaderanasinhalalk | 6,565
 
@@ -26,25 +26,89 @@ adaderanasinhalalk | 6,565
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,873 (100.0%) of 38,874 articles have been extended.
+38,874 (100.0%) of 38,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### රෝහිතගේ සහාය රනිල්ට
+### 22 injured as two buses collide head-on
+
+*2024-08-04 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100982/22-injured-as-two-buses-collide-head-on) · `en`
+
+As many as 22 individuals have been injured and hospitalized after two private passenger buses collided head-on on the Maha Oya – Aralaganwila road.
+
+Police said that the accident took place yesterday (03) as a private bus travelling towards Aralaganwila collided with another bus that came from the opposite direction.
+
+The injured individuals include 12 females, 2 males and 8 children, and they were admitted to Maha Oya Hospital for treatment, the police said.
+
+The driver of one of the buses involved in the accident has been arrested and Maha Oya Police is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/75679acd.json)
+
+---
+
+### ஹோஹிதவும் மாறினார்
+
+*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோஹிதவும்-மாறினார்/175-341552) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9c565a17.json)
+
+---
+
+### SLPP’s National Convenor Rohitha also pledges support to Ranil
+
+*2024-08-04 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100981/slpps-national-convenor-rohitha-also-pledges-support-to-ranil) · `en`
+
+The National Convenor of the Sri Lanka Podujana Peramuna (SLPP), MP Rohitha Abeygunawardena says that he will extend his support to President Ranil Wickremesinghe at the upcoming Presidential Election, bowing to the wishes of the people in his constituency.
+
+Speaking at an event held today (04), Abeygunawardena also stated that there are no permanent friends or permanent enemies in politics.
+
+“The true political rival we have, or the political enemy in your language, is the JVP and the SJB. So, we cannot stand for them or with them”, he added.
+
+◼️
+
+[Data](articles/3b4a4d28.json)
+
+---
+
+### Rohitha's support to Ranil
 
 *2024-08-04 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199544) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික කැඳවුම්කරු පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+Rohitha Abeygunawardena, the National Convener of the Sri Lanka Crowd, supports Ranil Wickremesinghe for the upcoming presidential election. He questioned the JVP's approach and expressed his readiness to back Wickremesinghe as the future president.
 
-අද (04) මාධ්‍ය වෙත අදහස් දක්වමින් මන්ත්‍රීවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-"රට මේ ඉදිරියට යන ගමන ජනතා විමුක්ති පෙරමුණට මේ රට දෙනවද ? උදේ කියන එක හවස දන්නේ නැති වැඩිපුර කථා කරන සජිත්ට 22 වෙනිදාට මේ රට දෙනවද ? මේ කයිය නායකවරුන්ට රට දෙනවද ? රට වෙනුවෙන් තීන්දුවක් ගන්වද ? ඒ නිසා ඔබට ඇහුම්කං දීලා, රටට ඇහුම්කං දීලා මම ඔබේ මතයට හිස නමමින් රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා මේ රටේ ජනාධිපති කරනවන වැඩපිළිවෙළට මම ලෑස්ති වෙනවා."
+The National Convener of the Sri Lanka General Assembly (National Convener) of the Sri Lanka Crowd Rohitha Abeygunawardena has decided to support Ranil Wickremesinghe in the next presidential election.
+
+Speaking to the media today (04), the MP said.
+
+"Does the JVP go to the JVP to take the way to the country? Will you judge the country on the 22nd?I am preparing for the president of Ranil Wickremesinghe, Ranil Wickremesinghe and the President of Ranil Wickremesinghe. "
 
 ◼️
 
 [Data](articles/0c9a4372.json)
+
+[Extended Data](ext_articles/0c9a4372.ext.json)
+
+---
+
+### යුක්රේනයෙන් රුසියානු සබ්මැරීනයකට ප්‍රහාරයක්
+
+*2024-08-04 11:44:36* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේනයෙන්-රුසියානු-සබ්මැරීනයකට-ප්‍රහාරයක්/11-411181) · `si`
+
+යුක්රේන හමුදාව විසින් රුසියානු සබ්මැරීනයක් විනාශ කර තිබේ. ක්‍රිමියානු අර්ධද්වීපයේ නැංගුරම් ලා තිබියදී ප්‍රහාරයක් එල්ල කරමින් මෙම සබ්මැරීනය විනාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/06727094.json)
 
 ---
 
@@ -1003,6 +1067,18 @@ Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Li
 [Data](articles/da9c720f.json)
 
 [Extended Data](ext_articles/da9c720f.ext.json)
+
+---
+
+### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
+
+*2024-08-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
+
+President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
+
+...
+
+[Data](articles/4933fe13.json)
 
 ---
 
@@ -2179,123 +2255,5 @@ Moreover, its Chairman of the Buddhist Hindu Religious Forum. Mohan has met and 
 [Data](articles/e0a07345.json)
 
 [Extended Data](ext_articles/e0a07345.ext.json)
-
----
-
-### Presidential election;Tamuku recognition for the aspiration of the upcountry Tamil - Mano Ganesan
-
-*2024-08-03 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190169) · `ta`
-
-Mano Ganesan, leader of the Tamil Progressive Alliance, announced that the alliance's political committee has endorsed the aspirations of upcountry Tamils, as proposed by Sajith Premadasa of the United People's Alliance. This endorsement came after a thorough review of a document detailing the needs of Tamil-origin Indians. The document, amended with additional points, covers areas like education, vocational training, youth development, health, nutrition, and housing. An MoU between Premadasa and the Tamil Progressive Alliance is expected to formalize this support.
-
-🟩
-
-Alliance leader Mano Ganesan has said that the Tamil Progressive Alliance political committee has unanimously accepted the upcountry Tamil aspiration document, which has been put forward by the United People's Alliance candidate Sajith Premadasa.
-
-When the government was formed under the leadership of Sajith Premadasa, a document with the demands of the aspirations of the Tamil origin of the Indian origin of the Tamils ​​was actively investigated by the Coalition Political Committee in Colombo.
-
-The submitted document was unanimously accepted by the political committee with some amendments, adding some more matters.
-
-...
-
-[Data](articles/66014819.json)
-
-[Extended Data](ext_articles/66014819.ext.json)
-
----
-
-### Belawatta accident: Car broke in two
-
-*2024-08-03 14:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341497) · `ta`
-
-In a tragic accident on the Pelawatta Rajagiriya road, a luxury car carrying four youths collided with a van and a tree, breaking into two pieces. The high-speed crash involved a van owned by a University of Colombo graduate, leaving one victim's condition critical.
-
-🟩
-
-A luxury car carrying four youths lost control and collided with a van and crashed into a tree on the Pelawatta Rajagiriya road, Talangama police said.
-
-Police said the high -speed car crashed into the van and then crashed into a concrete pillar.
-
-Police said the car crashed with a van owned by a Graduate of the University of Colombo.
-
-The car broke in two. Police said the situation of a victim was worrisome ...
-
-◼️
-
-[Data](articles/5e4b17c8.json)
-
-[Extended Data](ext_articles/5e4b17c8.ext.json)
-
----
-
-### District Referral Officers to Election Commission
-
-*2024-08-03 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199517) · `si`
-
-Election officials met with campaign representatives today to discuss presidential election activities. This follows previous discussions with various parties about election-related issues. The heads of the Elections Commission will also meet with media outlets on Monday.
-
-🟩
-
-The election officials have been summoned by the election campaign to discuss matters pertaining to the activities of the presidential election.
-
-Accordingly, the discussion commenced this morning at the Elections Commission Head Office today (03).
-
-The Elections Commission has conducted several rounds of discussion with various parties regarding the matters relating to the presidential election.
-
-The Heads of the Elections has also been summoned to a discussion on Monday and the media outlets.
-
-◼️
-
-[Data](articles/b8d8cfc3.json)
-
-[Extended Data](ext_articles/b8d8cfc3.ext.json)
-
----
-
-### The Middle East warming increases
-
-*2024-08-03 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199516) · `si`
-
-The Middle East's warming trend escalates tensions, with Iran and Hezbollah in Lebanon posing risks of conflict. The Pentagon plans to deploy more warships and fighter jets to the region to safeguard Israel from potential attacks. Additionally, there are reports of the U.S. considering deploying more ballistic missiles. Amidst this, the Indian Embassy in Israel advises its citizens to exercise caution due to the escalating situation.
-
-🟩
-
-The risk of war-torn conflicts in the Middle East is the announcement of Iran as well as the Hezbollah organization in Lebanon.
-
-According to the Pentagon, the US will take steps to use additional war vessels and fighter jets in the Middle East.
-
-It is a support to protect the Israel of hostile attacks.
-
-The United States is planning to use an additional balistic missile in the United States, foreign media reports say.
-
-US Secretary of Defense Lloydine and Israeli Defense Minister Said The United States said.
-
-Meanwhile, the Indian Embassy in Israel has made special notice in the midst of warming warming in the Middle East region.
-
-Accordingly, the Indian embassy in Israel is informed Indian nationals to be extremely careful in the journey.
-
-◼️
-
-[Data](articles/7695f66c.json)
-
-[Extended Data](ext_articles/7695f66c.ext.json)
-
----
-
-### Four injured in car accident near Parliament
-
-*2024-08-03 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100966/four-injured-in-car-accident-near-parliament) · `en`
-
-Four young men have been injured and hospitalized following a car accident near Parliament this morning (03).
-
-According to local residents, the speeding car in which the four individuals were travelling in lost control causing the accident.
-
-The four youths, who sustained injuries in the accident, have been hospitalized and the hospital sources said that the condition of two of them is critical.
-
-◼️
-
-[Data](articles/76c52da3.json)
-
-[Extended Data](ext_articles/76c52da3.ext.json)
 
 ---

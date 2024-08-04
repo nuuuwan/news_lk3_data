@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 16:52:44**
+As of **2024-08-04 17:05:52**
 
 ## Newspaper Stats
 
-*Scraped **38,918** Articles*
+*Scraped **38,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 2,494
 adalk | 3,567
 adaderanalk | 4,514
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,851
-virakesarilk | 6,155
-adaderanasinhalalk | 6,576
+tamilmirrorlk | 4,853
+virakesarilk | 6,156
+adaderanasinhalalk | 6,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,916 (100.0%) of 38,918 articles have been extended.
+38,918 (100.0%) of 38,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### மு.கா, சஜித்துக்கு ஆதரவு
+
+*2024-08-04 16:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-சஜித்துக்கு-ஆதரவு/175-341564) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவை வழங்க முஸ்லிம் காங்கிரஸின் கட்சி, ஞாயிற்றுக்கிழமை (04) தீர்மானித்துள்ளது.
+
+கொழும்பு கொம்பனித்தெருவில் அமைந்துள்ள முஸ்லிம் காங்கிரஸின் பிரதான காரியாலயத்தில் கட்சியின் அதியுயர் பீடம், கூடியது.
+
+இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், “சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவளிக்க முஸ்லிம் காங்கிரஸின் அதியுயர்  பீடம் தீர்மானித்துள்ளது” என்றார். R
+
+◼️
+
+[Data](articles/60933075.json)
+
+---
+
+### අගමැතිනි ෂෙයික් හසීනා ට යන්නැයි බලකෙරේ
+
+*2024-08-04 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199556) · `si`
+
+අගමැතිනි ෂෙයික් හසීනා ට ඉවත් වන්නැයි බලකරමින් බංග්ලාදේශයේ උද්ඝෝෂණ ආරම්භවී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම උද්ඝෝෂණ පාලනය සඳහා පොලීසිය කඳුළු ගෑස් ප්‍රහාර සහ "ස්ටන් අත්බෝම්බ" ප්‍රහාර එල්ලකර තිබුණි.
+
+මේ දක්වා පොලීසිය සහ උද්ඝෝෂකයින් අතර ඇතිවූ ගැටුම් හේතුවෙන් 12 දෙනෙක් පමණ ජීවිතක්ෂයට පත්වී ඇති බව සඳහන් ය.
+
+මෙම කලබල හේතුවෙන් එරට අන්තර්ජාල පහසුකම් අත්හිටුවීමටත් බලධාරීන් කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/8c615cdc.json)
+
+---
+
+### தலவாக்கலை மாணவர்கள் நால்வரும் காலியில் மீட்பு
+
+*2024-08-04 16:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தலவாக்கலை-மாணவர்கள்-நால்வரும்-காலியில்-மீட்பு/76-341563) · `ta`
+
+தலவாக்கலை பிரதேசத்தில் காணாமல் போன பாடசாலை மாணவிகள் மூவரும் மாணவனும் காலி பிரதேசத்தில் கண்டுபிடிக்கப்பட்டுள்ளனர்.
+
+தலவாக்கலை பொலிஸ் பிரிவுக்குட்பட்ட கிரேஸ்வெஸ்டர்ன் தோட்டத்தின் லூசா பிரிவில் ஜூன் மாதம் (14) முதல் காணாமல் போயிருந்தனர்.
+
+மூவரும் பொலிஸ் காவலில் வைக்கப்பட்டதாக தலவாக்கலை பொலிஸ் நிலைய கட்டளைத் தளபதி பொலிஸ் பரிசோதகர் சமந்த பெரேரா, ஞாயிற்றுக்கிழமை (04)  தெரிவித்தார்.
+
+அவர்கள் காலி மிட்டியகொட பகுதியில் உள்ள விடுதி ஒன்றில் தங்கியிருந்தனர் நிலையில் மீட்கப்பட்டுள்ளனர்.
+
+தலவாக்கலை கிறேட்வெஸ்டன்  லூசா தோட்டத்தைச் சேர்ந்த சிறுமிகள் முரளிகிருஷ்ணன் லக்சிக்கா (வயது 16), ராஜகுரு மிதுஷா (வயது 16), சுந்தர்ராஜ் தர்ஷினி (வயது 16), சிறுவன் ராஜகுரு கோபிசாகர் (வயது 15) ஆகியோரை காணவில்லை.
+
+வீடுகளில் இருந்து ஞாயிற்றுக்கிழமை (14)   மாலை வெளியே சென்றவர்கள் வீடுகளுக்குத் திரும்பவில்லை  என அவர்களின் பெற்றோர்களால் தலவாக்கலை பொலிஸில் நிலையத்தில்  திங்கட்கிழமை (15)  முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/4ad58521.json)
+
+---
 
 ### SLMC to offer conditional support to Sajith in prez poll
 
@@ -50,21 +106,29 @@ However, MP Hakeem claimed that the SLMC is not inclined towards any other polit
 
 [Data](articles/cc004972.json)
 
+[Extended Data](ext_articles/cc004972.ext.json)
+
 ---
 
-### හකීම්ගේ සහාය සජිත්ට
+### Sajith to support Hakeem
 
 *2024-08-04 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199555) · `si`
 
-මුස්ලිම් කොංග්‍රසයේ සහාය කොන්දේසි සහිතව සජිත් ප්‍රේමදාස මහතාට ලබා දෙන බව එම පක්ෂය අද (04) පැවසීය.
+SLMC supports Sajith Premadasa. The decision was made during a meeting at the SLMC headquarters in Colombo. Leader Rauff Hakeem confirmed the council's backing for Premadasa.
 
-කොළඹ, කොම්පඤ්ඤවීදියේ පිහිටි මුස්ලිම් කොංග්‍රස් ප්‍රධාන කාර්යාලයෙදී එම පක්ෂයේ උත්තරීතර මණ්ඩලය අද රැස්විය.
+🟩
 
-එම සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් මහතා පැවසුවේ "සජිත් ප්‍රේමදාස මහතාට කොන්දේසි සහිතව සහායදීමට මුස්ලිම් කොංග්‍රසයේ උත්තරීතර මණ්ඩලය තීරණය කළා," යනුවෙනි.
+The party will be given to Mr. Sajith Premadasa with the assistance of the SLMC support.
+
+The party's supreme board met today at the SLMC head office in Colombo, Slave Island.
+
+After the discussion, Muslim Congress leader Rauff Hakeem said: "The Muslim Congress's Supreme Council decided to assist Sajith Premadasa,".
 
 ◼️
 
 [Data](articles/10a3f8bc.json)
+
+[Extended Data](ext_articles/10a3f8bc.ext.json)
 
 ---
 
@@ -85,6 +149,18 @@ The arrested suspect has been identified as a 48-year-old resident of Kalmunai, 
 [Data](articles/374cd1d5.json)
 
 [Extended Data](ext_articles/374cd1d5.ext.json)
+
+---
+
+### மக்கள் சிந்திப்பதற்கான காலம்
+
+*2024-08-04 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190242) · `ta`
+
+தேர்தல்களால் நாட்டு மக்களின் பிரச்சினைகளுக்கு நேரடித் தீர்வுகள் கிடைத்த வரலாறு என்று பெரிதாக எதுவுமில்லை. அதனால் மக்களுக்கு தோதலில் பெரிய ஆர்வமும் கிடையாது. ஆனால், அத்தேர்தல் அப்புள்ளடி யாரைக் கொண்டுவந்து ஆட்சிக் கதிரையில் அமர்த்துகின்றதோ, அவரின் ஆளுமையைப் பொறுத்துத்தான் நாட்டு மக்களின் எதிர்காலம் தீர்மானிக்கப்படும் என்ற யதார்த்தத்தையும் நாம் மறந்துவிடக்கூடாது.
+
+◼️
+
+[Data](articles/d6e8685e.json)
 
 ---
 
@@ -2133,107 +2209,5 @@ Minister of Labor and Foreign Employment Manusha Nanayakkara says that the Sri L
 [Data](articles/07c1dbaf.json)
 
 [Extended Data](ext_articles/07c1dbaf.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Police seek public assistance to nab 3 suspects
-
-*2024-08-03 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100975/club-wasantha-murder-police-seek-public-assistance-to-nab-3-suspects) · `en`
-
-Sri Lanka Police said it is seeking public assistance in tracking down three suspects in relation to the shooting and killing of two individuals while causing injuries to four others in Athurugiriya on July 08, 2024.
-
-Police have also released photographs and details of the three suspects in question.
-
-Accordingly, any information regarding the relevant suspects are requested to be provided through the following contact numbers:
-
-1. OIC – Western Province South Crimes Division – 072 4222223
-
-Details and the photographs of the suspects are mentioned below:
-
-01. Waruna Indika de Silva alias “Sankha” – (NIC - 951350753V)
-
-02. Peti Harambage Ajith Rohana alias “Chandi” – (NIC – 199207801772)
-
-◼️
-
-[Data](articles/ec7f0003.json)
-
-[Extended Data](ext_articles/ec7f0003.ext.json)
-
----
-
-### Pity and protests get closer to the gold medal
-
-*2024-08-03 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199533) · `si`
-
-An Algerian boxer, recognized as male but born female, advances to the semi-finals of the Innovaria Olympic Games, defeating a Sri Lankan opponent in the 66 kg category. Despite genetic tests confirming her biological sex as male, she competes in women's boxing, sparking controversy and protests. This case highlights the complexities surrounding gender identity in sports, with supporters advocating for her inclusion and critics questioning the fairness of competing against biological females.
-
-🟩
-
-Although she was born as a woman, Algerian boxer, known as a biologically man, was able to qualify for the semi-finals of the Innovaria Olympic Games.
-
-Women in Sri Lanka Today (03). Khalof, her rival, her rival, and Lukary, who was in the semi-finals of the semi-finals of the weight of the weight of the 66 class, was easily defeated by a unanimous grass (5-0 marks).
-
-Accordingly, she is due to worship with Johnjjjjjjamyfenffenfenphs in Thailand.
-
-Although the genetic location location and blood testestorones in the blood, but she recognizes her as a biologically man.
-
-As a result, she protest against the women's consequences, and others stood up for her.
-
-However, it is an increase in a higher story at the Olympics this year.
-
-The Italian player left the match, while the match was held in 46 seconds, while the match was held in 46 seconds.
-
-After the match, the Italian player said that he never had such a blend.
-
-...
-
-[Data](articles/99362fe5.json)
-
-[Extended Data](ext_articles/99362fe5.ext.json)
-
----
-
-### Club Wasantha murder case releases photo police
-
-*2024-08-03 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199532) · `si`
-
-In a shocking turn of events, the Club Wasantha murder case has seen the release of photos of three suspects wanted by the police. The incident, which occurred on July 8th, resulted in the death of two individuals, one fatally shot with a T-56 Firearcuit and another with a T-56 Firearcules. The police are seeking public assistance to help identify and apprehend these suspects, who have been named as Astand-Tharindu Mishandu Mishandu Mishandu Mishandu Mishandu alias "Bhairava" among others.
-
-🟩
-
-Police call for public assistance to arrest three suspects involved in the shooting incident involved in the shooting incident.
-
-On July 8th July, T-56 Firearcules were killed in T-56 Firearcuit and another was killed by the shooting.
-
-Three suspects have been identified by the investigations into the crime and the three photographs of suspects have been released to the media.
-
-03. Full Name - Astand-Tharindu Mishandu Mishandu Mishandu Mishandu Mishandu alias "Bhairava"
-
-The police urge the public to inform the following telephone numbers to the following telephone numbers.
-
-◼️
-
-[Data](articles/76caf266.json)
-
-[Extended Data](ext_articles/76caf266.ext.json)
-
----
-
-### 24 Sri Lankans including artists arrested in Kuwait – Minister
-
-*2024-08-03 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100974/24-sri-lankans-including-artists-arrested-in-kuwait-minister) · `en`
-
-Minister of Labour and Foreign Employment Manusha Nanayakkara says that he has been notified that Kuwaiti authorities have arrested 24 Sri Lankans, including organizers and musicians, who attended an event organized by the JVP affiliated ‘Ethera Api’ organisation.
-
-In a post on ‘X’ (formerly Twitter), the minister further stated that he has contacted the Sri Lankan Embassy in Kuwait and that they are working with Kuwaiti officials to secure their release as soon as possible.
-
-However, the minister did not provide any further details on the reasons for the said arrests.
-
-◼️
-
-[Data](articles/6a6b8fcd.json)
-
-[Extended Data](ext_articles/6a6b8fcd.ext.json)
 
 ---

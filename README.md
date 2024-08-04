@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 14:06:41**
+As of **2024-08-04 14:20:37**
 
 ## Newspaper Stats
 
-*Scraped **38,894** Articles*
+*Scraped **38,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,565
-adaderanalk | 4,509
+adaderanalk | 4,511
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,847
 virakesarilk | 6,153
-adaderanasinhalalk | 6,568
+adaderanasinhalalk | 6,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,886 (100.0%) of 38,894 articles have been extended.
+38,894 (100.0%) of 38,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට - කණ්ඩායමේ වෙනස්කම් දෙකක්
+
+*2024-08-04 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199549) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි එක්දින ජාත්‍යන්තර තරගය අද (04) පැවැත්වෙයි.
+
+කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+
+◼️
+
+[Data](articles/2e78fb8e.json)
+
+---
+
+### නතර වූ ඔන්ලයින් වීසා ක්‍රමවේදයට රජයෙන් හෙට විසඳුමක්
+
+*2024-08-04 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199548) · `si`
+
+මෙරටට පැමිණෙන සංචාරකයින් සඳහා වීසා නිකුත් කිරීම සිදුකරන ආකාරය සම්බන්ධයෙන් හෙට (05) තීරණය කිරීමට නියමිත බව මහජන ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් සමග සාකච්ඡා කර ඒ සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට බලාපොරොත්තු වන බව එම අමාත්‍යංශය පෙන්වාදෙයි.
+
+විද්‍යුත් විසා සේවාවන් සැපයීමේ කටයුතු විදේශීය සමාගම් දෙකකට ලබාදීමට අමාත්‍ය මණ්ඩලය ගෙන තිබූ තීරණය ක්‍රියාත්මක කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය පසුගියදා අතුරු තහනම් නියෝගයක් නිකුත් කරනු ලැබීය.
+
+ඒ අනුව, අගෝස්තු මස 2 වැනිදා රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මාර්ගගත ක්‍රමය ඔස්සේ වීසා නිකුත් කිරිමේ කටයුතු අත්හිටුවන බව ආගමන විගමන දෙපාර්තමේන්තුව නිවේදනය කර තිබුණි.
+
+අදාළ වෙබ් අඩවිය තාවකාලිකව අත්හිටුවා ඇති අතර වීසා ලබාගැනීමට මුදල් ගෙවීම් සිදුකළ පුද්ගලයින්ට යළි අදාළ මුදල් ලබාදීමට පියවර ගෙන ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව, මෙරටට පැමිණෙන සංචාරකයින් සඳහා මේ වනවිට ගුවන්තොටුපොළේ දී නිකුත් කෙරෙන ON ARRIVAL වීසා නිකුත් කිරීම පමණක් සිදුවන බව සඳහන්ය.
+
+◼️
+
+[Data](articles/9fea8dcd.json)
+
+---
+
+### Four Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-08-04 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100986/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A total of four Indian fishermen have been apprehended along with a fishing trawler while illegally poaching in Sri Lankan waters off Kovilan Lighthouse, Jaffna.
+
+Sri Lanka Navy said that they were arrested during a special operation carried out by navy personnel together with Sri Lanka Coast Guard.
+
+The seized trawler together with four Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
+
+◼️
+
+[Data](articles/2f00b9a0.json)
+
+---
+
+### Paris Olympics: Sri Lanka’s Aruna Darshana to compete tonight
+
+*2024-08-04 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100985/paris-olympics-sri-lankas-aruna-darshana-to-compete-tonight) · `en`
+
+Sri Lankan sprinter Aruna Darshana, a key athlete for the island nation in this year’s Olympic Games is scheduled to participate in the preliminary round of the Men’s 400m event tonight (04).
+
+Darshana will take part in the Heat 05 of the event, which is set to commence at 11.07 p.m. (local time) today.
+
+Meanwhile, athletes from Italy, South Africa, Brazil, Grenada, Botswana, Canada and Switzerland are set to race in the Heat 5 alongside Aruna Darshana.
+
+The 25-year-old remains at the 51st place in the Men’s 400m world rankings with a personal and seasonal best of 45.30 seconds.
+
+Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive first-place finish in the 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
+
+...
+
+[Data](articles/8150443e.json)
+
+---
 
 ### Israel attacks Israel
 
@@ -58,25 +130,33 @@ However, the risk to escalate war clashes in the Middle East has aggravated coun
 
 ---
 
-### மருத்துவரின் அலட்சியத்தால் மன்னார் மருத்துவமனையில் உயிரிழந்த பெண் - நீதி நிலைநாட்டப்பட வேண்டும் - மன்னார் பொது அமைப்புகளின் ஒன்றியம் கோரிக்கை - சுகாதார அமைச்சுக்கு கடிதம்
+### Woman who died at the Mannar Hospital
 
 *2024-08-04 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190235) · `ta`
 
-மன்னார் மாவட்ட வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற பெண் மரணமடைந்தமை தொடர்பில் மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியம் சுகாதார அமைச்சின் செயலாளருக்கு கடிதமொன்றை அனுப்பிவைத்துள்ளது.
+The Mannar District Public Organization Union has written to the Ministry of Health expressing concern over the death of Mariaraj Sindhuja at Mannar District Hospital. Sindhuja, who gave birth there on September 9th, died on the 27th after being neglected overnight due to heavy rain. The union demands justice and transparency in the investigation into her death, highlighting systemic negligence by hospital staff.
 
-மரியராஜ் சிந்துஜாவிற்கு நீதி கிடைக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியம் இந்த மரணம் குறித்த விசாரணைகள் மூடி மறைக்கப்படாமலிருப்பதை உறுதி செய்யவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது.
+🟩
 
-திருமதி மரியராஜ் சிந்துஜா என்பவர் கடந்த மாதம் 9ஆம் திகதி மன்னார் வைத்தியசாலையில் சத்திர சிகிச்சை மூலம்  குழந்தை பெற்றுள்ளார்.
+The Mannar District Public Organization Union has sent a letter to the Secretary of the Ministry of Health regarding the death of a woman named Marmaraj Sindhuja at the Mannar District Hospital.
 
-பின்னர் 27ம் திகதி குருதிபெருக்கு காரணமாக இரவு மன்னார் மாவட்ட வைத்தியசாலையில் சேர்ந்துள்ளனர்.
+The Mannar District Public Organizations Union, which has requested Mariaraj Sindhuja to seek justice, has also requested that the inquiries into the death of the death should not be covered.
 
-மறுநாள் காலை வரை எந்த வைத்தியரும் அவர்களை பார்வையிடவில்லை.விடுதிக்கு பொறுப்பான வைத்தியர்கள் விடுதியில் இருந்துள்ளனர்.
+Mrs. Mariaraj Sindhuja had a baby at the Mannar Hospital on the 9th of last month.
 
-ஆகவே வைத்தியர்களின் பொறுப்பற்ற செயலால் அந்த பெண் மரணமடைந்துள்ளார்.வைத்தியசாலைகளில் இவ்வாறான பொறுப்பற்ற செயல்கள் தொடர்வது வாடிக்கையாகிவிட்டது.அதுவும் இரவுநேரங்களில் இந்த நிலை தொடர்கின்றது.உயிருடன் விளையாடும் அசட்டையீனங்கள் தொடர்கின்றன.
+Later, on the 27th, the Mannar District Hospital was enrolled at night due to Guruder.
 
-...
+Until the next morning, no doctor visited them.
+
+The woman has died due to the irresponsible act of the doctors. It is customary for these irresponsible actions to continue in the schools.
+
+A young graduate woman has been killed by the recklessness of a doctor who is in charge of the hostel.
+
+◼️
 
 [Data](articles/a27f5369.json)
+
+[Extended Data](ext_articles/a27f5369.ext.json)
 
 ---
 
@@ -100,19 +180,27 @@ The conference is scheduled to be held at the Sugathadasa Indoor Stadium in Colo
 
 ---
 
-### 2022 மே 09 நாமல் செய்த தவறால் எமது வீடுகள் தீக்கிரையாகின - எஸ்.எம்.சந்திரசேன
+### Our houses were set on fire by Namal, May 09, 2022 - SM Chandrasena
 
 *2024-08-04 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190236) · `ta`
 
-நாமல் ராஜபக்ஷ உட்பட ஒரு தரப்பினர் 2022 மே 09ஆம் திகதி செய்த தவறால் எமது வீடுகள் தீக்கிரையாக்கப்பட்டன. இவர்கள் தவறு செய்ய நாங்கள் தண்டனை அனுபவித்தோம். இவ்வாறானவர்களுடன் அரசியல் செய்வதை விட தற்போது எடுத்துள்ள தீர்மானம் சிறந்ததாக உள்ளது என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்தார்.
+On May 9, 2022, houses were burned, including those linked to Namal Rajapaksa, leading to criticism from PA MP SM Chandrasena. He supports President Ranil Wickremesinghe, citing economic recovery and public approval. Despite internal dissent, Chandrasena reaffirms his stance, urging party leader Mahinda Rajapaksa to acknowledge member sentiments. This incident highlights political tensions and the impact of decisions on local communities.
 
-அநுராதபுரம் பகுதியில் ஞாயிற்றுக்கிழமை (04) இடம்பெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-அனுராதபுரம் மாவட்ட மக்களின் அபிலாஷைக்கு அமைவாகவே ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்க தீர்மானித்தேன். நாடு பொருளாதார நெருக்கடியில் இருந்து மீண்டுவிட்டது. தற்போதைய முன்னேற்றத்தை தொடர வேண்டுமாயின் ஜனாதிபதி தலைமையிலான அரசாங்கம் மீண்டும் தோற்றம் பெற வேண்டும் என்று சாதாரண மக்கள் குறிப்பிடுகிறார்கள்.
+Our houses were set on fire on May 9, 2022, including Namal Rajapaksa.. We were sentenced to make mistakes. PA MP SM Chandrasena said that the decision taken now is better than politicians with such people.
+
+He was speaking at a function held on Sunday (04) in Anuradhapura.
+
+I decided to support President Ranil Wickremesinghe in accordance with the aspirations of the people of Anuradhapura district. The country has recovered from the economic crisis. Ordinary people say that if the current progress is to be continued, the president -led government should look back.
+
+The country is not in a state of examination again. The people of the country are clearly. We unconditionally supported the party's decision to make Ranil Wickremesinghe, the leader of the United National Party (UNP) leader of the political and political crisis in 2022.
 
 ...
 
 [Data](articles/3e417d61.json)
+
+[Extended Data](ext_articles/3e417d61.ext.json)
 
 ---
 
@@ -308,15 +396,21 @@ Speaking to the media today (04), the MP said.
 
 ---
 
-### பிழைத்துப்போன வியூகங்கள்
+### Surviving strategies
 
 *2024-08-04 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190217) · `ta`
 
-சற்று பொறுத்திருந்து அவதானித்து. எத்தனை பேர் ரணில் விக்கிரமசிங்கவுடன் ஒட்டிக் கொள்கிறார்கள் என்பதை கவனித்து வேட்பாளரை களமிறக்க பொதுஜன பெரமுன திட்டமிட்டிருக்கிறது. ராஜபக்ஷவினருடன் தேர்தல் கூட்டை வைத்துக் கொள்ளவோ இணக்கப்பாட்டை ஏற்படுத்திக் கொள்ளவோ, ரணில் விக்கிரமசிங்க விரும்பவில்லை.
+Strategies involve waiting and observation as the PA assesses support for Ranil Wickremesinghe, avoiding elections and compromising with Rajapaksa.
+
+🟩
+
+Waiting and observing. The PA is planning to field the candidate for notice how many people are sticking with Ranil Wickremesinghe. Ranil Wickremesinghe does not want to have an election nest or compromise with Rajapaksa.
 
 ◼️
 
 [Data](articles/76f1af31.json)
+
+[Extended Data](ext_articles/76f1af31.ext.json)
 
 ---
 
@@ -338,55 +432,81 @@ The Ukrainian army has ruined a Russian submarine. Foreign media reports, the su
 
 ---
 
-### இரட்டைப் படுகொலை மூலம் இஸ்ரேல் எதிர்பார்ப்பதென்ன?
+### What is Israel expected by a double assassination?
 
 *2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190207) · `ta`
 
-காஸா பலஸ்தீனர்கள் மீதானஅராஜகங்களை மத்திய கிழக்கில் தைரியமாக எதிர்த்துப் பேசி,படைப்பலத்தின் மூலமும், மூலோபாயரீதியிலும் எதிர்ப்பைவெளிப்படுத்தும் சக்திகளாக ஹமாஸ், ஹிஸ்புல்லா இயக்கங்கள் பார்க்கப்படுகின்றன. அவற்றுடன் ஈரானையும் சேர்த்து 'எதிர்ப்பு இயக்கத்தின் அச்சாணி”யென இஸ்ரேல் வர்ணிக்கிறது.
+Israel faces threats from Hamas and Hezbollah, seen as opponents to Palestinian interests in Gaza. These groups, along with others, are labeled by Israel as anti-peace movements.
+
+🟩
+
+The Hamas and Hezbollah movements are seen as opposing the Gaza Palestinians in the Middle East, and the forces of creation and strategicism in creation and strategy.. Along with them, Israel describes the 'Amans of the Anti -Movement'.
 
 ◼️
 
 [Data](articles/7819a3f8.json)
 
+[Extended Data](ext_articles/7819a3f8.ext.json)
+
 ---
 
-### முஸ்லிம்களுக்கு     அவசியமான தேவை
+### The need for Muslims
 
 *2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190213) · `ta`
 
-முஸ்லிம் காங்கிரஸின் பாராளுமன்ற உறுப்பினர்கள் ரணிலை ஆதரிப்பதற்குரிய தீர்மானத்தைஏற்கனவே கொண்டுள்ளனர். நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியை ஓரளவுக்கு ரணில் தீர்த்துள்ளார். அதனால், மக்களிடையே அவருக்கு செல்வாக்கு காணப்படுகின்றது. அத்தோடு மொட்டு அணியினரும் ஆதரவு வழங்கும்போது ஜனாதிபதித் தேர்தலில் ரணிலின் வெற்றி உறுதியாகிவிடும் என்பதே முஸ்லிம் கட்சிகளின் பாராளுமன்ற உறுப்பினர்களின் முன்னைய கணிப்பாகும்.
+Muslim Congress MPs back Ranil due to his handling of the economic crisis, enhancing his popularity. Their support hinges on his budget team's success, predicting his win in the presidential election.
+
+🟩
+
+Muslim Congress MPs have only decided to support Ranil. Ranil has resolved the economic crisis in the country. So, he has influence among the people. The previous prediction of the MPs of the Muslim parties is that Ranil's victory in the presidential election will be determined when the budget team is supported.
 
 ◼️
 
 [Data](articles/97b6922d.json)
 
+[Extended Data](ext_articles/97b6922d.ext.json)
+
 ---
 
-### தமிழ் பொதுவேட்பாளர், பங்குதாரர்களிடம்  சில கேள்விகள்
+### Some questions to the Tamil General Candidate, Partners
 
 *2024-08-04 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190208) · `ta`
 
-வடக்கு, கிழக்கை மையப்படுத்திய அரசியல், சிவில் கட்டமைப்புக்கள் புதிதாகவோ அல்லது கூட்டாகவோ உருவாகின்றபோது சமகாலத்தில் காணப்படுகின்ற கட்டமைப்புக்களில் நீடிக்கின்ற குறைபாடுகள், கடந்த காலத்தில் இழைக்கப்பட்ட தவறுகள் என்று அனைத்தையும் சீர்செய்யும் புதிய மாற்றத்துக்கானது என்றே பிரதிபலிக்கப்படுகின்றன.
+The text discusses the formation of the Tamil General Candidate by the Tamil National Alliance, aiming to represent Tamil interests in Sri Lanka's upcoming presidential election. It highlights concerns about the inclusivity of civil organizations, the representation of women and youth, and the potential impact of the candidate's actions on Tamil communities. Critics question the process, the lack of female representation, and the alignment with previous failed attempts by the Tamil National Alliance. The summary emphasizes the need for transparency, inclusivity, and effective leadership to address historical grievances and move towards reconciliation.
 
-ஆனால் கட்டமைப்புக்களோ, கூட்டுக்களோ உருவாக்கப்பட்டதன் பின்னர் அவற்றின் மாற்றத்துக்கான கோசத்தின் சீத்துவக்கேட்டையும், அவை ஏலவே இருக்கின்ற கட்டமைப்புக்களை, கூட்டுக்களை விடவும் பிற்போக்குத்தனமாக சிந்திப்பதையும், செயற்படுவதையும் நிகழ்காலத்தில் கண்கூடாகக்காண முடிகிறது.
+🟩
 
-அந்த வகையில், நாட்டின் ஒன்பதாவது ஜனாதிபதித் தேர்தல் செப்டெம்பர் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில், தமிழ் மக்களை தேசமாக திரளச் செய்வதற்கும், அபிலாஷைகளை வெளிப்படுத்துவதற்குமாக 'தமிழ் பொதுவேட்பாளர்' களமிறக்கப்படவுள்ளார்.
+When the political and civil structures centered on the North and the East are new or jointly, it is reflected as a new transformation that has been aimed at present in contemporary structures and the mistakes of the past.
+
+But after the creation of structures or alliances, the slogan of the slogan for their transformation, and the construction of the auctions, and the reactionary thinking and acting more reactionary in the present.
+
+Accordingly, as the country's ninth presidential election is scheduled to be held on September 21, the 'Tamil General Candidate' will be set up to raise the Tamil people and express their aspirations.
+
+The Tamil National Alliance has been created for this purpose. The agreement has been signed between the seven parties of the Tamil People's Alliance, the Tamil People's Alliance, the Relo, Plot, the EPRLF, the Democratic Fighters Party, the Tamil National Party and the Tamil National Green Movement.
 
 ...
 
 [Data](articles/bc4766f3.json)
 
+[Extended Data](ext_articles/bc4766f3.ext.json)
+
 ---
 
-### பொது வேட்பாளர்   தெரிவும் சிக்கலும்
+### The general candidate's choice and the problem
 
 *2024-08-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/190209) · `ta`
 
-தமிழ் பொது வேட்பாளரை நிறுத்துகின்ற போது,  அவர் எல்லா மக்களாலும் ஏற்றுக் கொள்ளப்படக் கூடிய ஒருவராக இருக்க வேண்டும், ஆனால் சமூகத்தில் எல்லோராலும் மதிக்கப்படக் கூடிய ஆளுமைகள் இன்று பெருமளவில் அருகிப் போய் உள்ளனர்.
+For a Tamil general candidate to gain universal acceptance, they must embody qualities admired by the entire community.
+
+🟩
+
+When the Tamil general candidate is to be accepted by all people, he must be accepted by all people, but the personalities that are respected by all in the community are today.
 
 ◼️
 
 [Data](articles/5881a164.json)
+
+[Extended Data](ext_articles/5881a164.ext.json)
 
 ---
 
@@ -616,15 +736,21 @@ Police said that a private bus traveling from Maha Oya to Aralangwila and anothe
 
 ---
 
-### அமெரிக்க காங்கிரஸில் உரையாற்ற நெத்தன்யாஹூவுக்கு அழைப்பு - பாரிய எதிர்ப்புக்கள் வெளியீடு
+### Call Netanyahu to address US Congress - massive protests release
 
 *2024-08-04 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190205) · `ta`
 
-“நாம்  நெத்தன்யாஹூவின் வருகையை எதிர்க்கின்றோம். இப்போது நாம் விடுக்கும் பிரதான அழைப்பு இனப்படுகொலைகள் நிறுத்தப்பட வேண்டும் என்பதே. காலப்போக்கில் இனப்பாகுபாட்டு பொறிமுறையம் அழிக்கப்பட வேண்டும். சம உரிமைகள், சுதந்திரம், எல்லா மக்களுக்குமான பாதுகாப்பு என்பன உறுதி செய்யப்பட வேண்டும்” என்று அமெரிக்காவில் நிலைகொண்டுள்ள சியோனிஸ விரோத இஸ்ரேலியர்களை உள்ளடக்கியவர்களும், ஆர்ப்பாட்டங்களை ஏற்பாடு செய்தவர்களும் கூட்டாகக் கோரிக்கை விடுத்திருந்தனர்.
+Massive protests against Netanyahu's visit to the US demand an end to "genocide," destruction of racism, and equal rights for all. Anti-Zionist Israelis join calls for peace and security.
+
+🟩
+
+“We oppose the arrival of Netanyahu. The main call we are right now is that the genocide is to be stopped. The racist mechanism must be destroyed in time. Equal rights, freedom and security for all people must be ensured, ”the United States, including the anti -Zionist Israelis and the demonstrations, demanded.
 
 ◼️
 
 [Data](articles/75a4046f.json)
+
+[Extended Data](ext_articles/75a4046f.ext.json)
 
 ---
 
@@ -2107,95 +2233,5 @@ The repechage round is a second shot given for runners who fail to advance out o
 [Data](articles/e376070f.json)
 
 [Extended Data](ext_articles/e376070f.ext.json)
-
----
-
-### SLPP to suspend members defying party decisions
-
-*2024-08-03 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100970/slpp-to-suspend-members-defying-party-decisions) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) says that steps will be taken to suspend the party membership of anyone who acts against the party’s decisions regardless of their positions.
-
-The General Secretary of the SLPP Sagara Kariyawasam has informed in writing that this decision was unanimously arrived at by the Politburo of the SLPP.
-
-Furthermore, the SLPP mentioned that against a backdrop where the party has adopted proposals to field a candidate of the party for the 2024 presidential election, if any member of the party presents himself as a presidential candidate without the knowledge of the party or acts directly or indirectly against the candidate presented by the party, disciplinary action will be taken against that member regardless of the position held by that member in the party, and the party membership of the person in question will be suspended.
-
-...
-
-[Data](articles/0c593e6c.json)
-
-[Extended Data](ext_articles/0c593e6c.ext.json)
-
----
-
-### Youths from next year - President
-
-*2024-08-03 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199525) · `si`
-
-President Ranil Wickremesinghe aims to create job opportunities for youths starting next year, focusing on the private sector amidst challenges from COVID and economic issues. He assures continuous support through subsidies and loans for self-employment and agriculture, urging the private sector to hire more youths.
-
-🟩
-
-President Ranil Wickremesinghe says that the needs of the youths will commence from next year.
-
-President Ranil Wickremesinghe said that his aim is to achieve new employment opportunities for them and private sector.
-
-The President said that the President of Sri Lanka was not able to provide jobs for the extermination of the country over the past four years in the face of the covid plague and economic collapse.
-
-President Ranil Wickremesinghe was speaking to the Youth Meeting held at the Walampure Hotel in Jaffna today.
-
-The President further stated that the government has never forgotten the expectations of the youths.
-
-The President Ranil Wickremesinghe said that the government was allocated this year for the recruitment of teachers to fill the teachers this year to fill the vacancies for financial problems.
-
-...
-
-[Data](articles/365eb5b4.json)
-
-[Extended Data](ext_articles/365eb5b4.ext.json)
-
----
-
-### Special traffic plan in Colombo on Monday
-
-*2024-08-03 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100969/special-traffic-plan-in-colombo-on-monday) · `en`
-
-A special traffic plan will be implemented in and around the Gangaramaya Temple area in Colombo on Monday (05) for the final rites of the temple’s late Chief Incumbent Ven. Galaboda Gnanissara Thero, the police said.
-
-Accordingly, the relevant traffic plan will be in place between 2.00 p.m. and 8.00 p.m. on August 05.
-
-Thus, the police informed motorists passing through the area that traffic will be limited along the following roads during that period.
-
-Special traffic plan in Colombo on Monday by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/8bbbb503.json)
-
-[Extended Data](ext_articles/8bbbb503.ext.json)
-
----
-
-### Majority to Kamala Harris
-
-*2024-08-03 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199524) · `si`
-
-Kamala Harris becomes the first woman and person of color nominated for US president by the Democratic Party, securing the UMCatrician endorsement. She is set to run in 2024, potentially naming her Vice President soon.
-
-🟩
-
-The US Presidential Reconciliation has been able to win the UMCatrician candidature of the US presidential election.
-
-Kamala Harris has also become the first politician with an American presidential election.
-
-Accordingly, the next day, Kamala Harris 2024 was named as the official Democratic Party candidate of the US presidential election.
-
-According to foreign media reports, Kamala Harris is to name his Deputy President with this.
-
-◼️
-
-[Data](articles/5c30042f.json)
-
-[Extended Data](ext_articles/5c30042f.ext.json)
 
 ---

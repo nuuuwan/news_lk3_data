@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 15:05:59**
+As of **2024-08-04 15:20:46**
 
 ## Newspaper Stats
 
-*Scraped **38,905** Articles*
+*Scraped **38,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,87 @@ adaderanalk | 4,511
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,850
 virakesarilk | 6,153
-adaderanasinhalalk | 6,571
+adaderanasinhalalk | 6,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,902 (100.0%) of 38,905 articles have been extended.
+38,905 (100.0%) of 38,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ‘பாதி’ வீரர்களுக்கு ‘ஆப்பு’: ஐபிஎல் அதிரடி
+### විදේශීය දුම්වැටි සමගින් අයෙකු කටුනායකදී අත්අඩංගුවට
+
+*2024-08-04 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199551) · `si`
+
+රුපියල් ලක්ෂ දහ අටක් පමණ වටිනාකමින් යුතු විදේශීය දුම්වැටි තොගයක් නීතිවිරෝධීව මෙරටට රැගෙන ආ පුද්ගලයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+බහරේන් සිට මෙරටට පැමිණි අදාළ පුද්ගලයා අද (04) උදෑසන පොලිස් මත්ද්‍රව්‍යනාශක අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇතැයි සඳහන්ය.
+
+ඔහුගේ ගමන් මලු තුළ තිබී විදේශීය රටක නිෂ්පාදිත දුම්වැටි 12,000 ක් අඩංගු කාටූන් 60ක් සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/01ee5810.json)
+
+---
+
+### IPL Action for Half of Players
 
 *2024-08-04 14:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாதி-வீரர்களுக்கு-ஆப்பு-ஐபிஎல்-அதிரடி/44-341558) · `ta`
 
-இந்தியன் பிரிமியர் லீக் (ஐபிஎல்) ஏலத்தில் வாங்கப்பட்ட பிறகு நியாயமான காரணமின்றி தொடரிலிருந்து விலகுவதாக அறிவித்துவிட்டுச் செல்லும் அயல்நாட்டு வீரர்களை 2 ஆண்டுகளுக்கு தொடரில் விளையாடக் கூடாது என்று தடை விதிக்க வேண்டும் என்று ஐபிஎல் கமிட்டியிடம் ஐபிஎல் அணி உரிமையாளர்கள் கோரிக்கை வைத்துள்ளனர்.
+IPL team owners want to ban foreign players from the next two seasons due to concerns over high costs affecting team composition and planning. They argue against participation in mini auctions, citing issues like players leaving for personal reasons or being undervalued. This stance is supported by 10 team owners, highlighting a shift towards prioritizing domestic talent and budget management.
 
-அதேபோல் அயல்நாட்டு வீரர்கள் மெகா ஏலத்திற்கும் தங்கள் பெயர்களை பதிவு செய்ய வேண்டும். அப்படிச் செய்யாமல் மினி ஏலத்தில் பங்கேற்று பெரிய தொகையை எதிர்நோக்கிச் செல்வது தடுக்கப்பட வேண்டும் என்றும் ஐபிஎல் உரிமையாளர்கள் கோரிக்கை வைத்துள்ளனர்.
+🟩
 
-இந்த இரண்டு விஷயங்களிலும் 10 அணிகளின் உரிமையாளர்களும் ஒரே கருத்தில் உறுதியாக இருந்தனர் என்று ஈஎஸ்பிஎன் கிரிக் இன்போ செய்தி அறிக்கையில் கூறப்பட்டுள்ளது.
+The IPL team owners have urged the IPL committee to ban foreign players from playing in the series for 2 years after the Indian Premier League (IPL) auctioned off the series without a reasonable reason.
 
-அயல்நாட்டு வீரர்களை அதிக விலைகொடுத்து எடுத்த பிறகு அவர்கள் சொந்த விஷயங்களை காரணம் காட்டி தொடரிலிருந்து விலகுவது ஐபிஎல் அணியின் சேர்க்கை, திட்டமிடல் உள்ளிட்ட பல விஷயங்களைப் பாதிக்கின்றது என்று ஐபிஎல் உரிமையாளர்கள் கருதுகின்றனர்.
+As well as foreign players to register their names for the mega auction. IPL owners have demanded that the mini auction be prevented from participating in the mini auction.
+
+The ESPN Giric Info news report states that the owners of 10 teams were firm in the same regard.
+
+IPL owners feel that after the high cost of foreign players, they are affecting many things, including the combination of IPL team's enrollment and planning.
+
+But the owners who think that if a player is demanding that he quit the country in international cricket, he can be allowed to quit because he is not able to quit, or family obligations, but it is good for the auction.
 
 ...
 
 [Data](articles/6b7f342e.json)
 
+[Extended Data](ext_articles/6b7f342e.ext.json)
+
 ---
 
-### மர்ம முறையில் சிசு மரணம்
+### Mysterious
 
 *2024-08-04 14:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-முறையில்-சிசு-மரணம்/71-341557) · `ta`
 
-ஒன்றரை மாத சிசு கைகள் மற்றும் கால்கள் முறிக்கப்பட்டு , சித்திரவதைகளுக்கு உள்ளாக்கப்பட்டு,  தலையில் பலமாக தாக்கப்பட்டதில் சிசு யாழில் உயிரிழந்துள்ளது.
+In Jaffna, an infant suffered severe physical abuse, including fractured limbs and head trauma, leading to their death after two months. The child's mother discovered the injuries and sought medical help, but it was too late. An autopsy confirmed the death was not from natural causes. The infant's father was absent during this period, leaving the mother as the sole caregiver. Police are investigating, providing protection to the mother while continuing their inquiries.
 
-அளவெட்டி பகுதியை சேர்ந்த சசி ரூபன் நிகாஸ் என்ற ஒன்றரை மாத சிசுவே  உயிரிழந்துள்ளது.
+🟩
 
-சிசுவுக்கு  தாய்ப்பால் கொடுத்த பின்னர் குழந்தை அசைவற்று கிடந்ததாக குழந்தையின் தாய் சிசுவை அளவெட்டி வைத்தியசாலைக்கு சனிக்கிழமை (03)கொண்டு சென்றுள்ளார்.
+The infant has died in Jaffna after one and a half months of fetus and legs were broken, tortured, tortured and hit his head.
 
-சிசுவின் உடலில் காயங்கள் காணப்பட்டமையால் , உட்கூற்று பரிசோதனை ஞாயிற்றுக்கிழமை (04) முன்னெடுக்கப்பட்ட வேளை,ன் கைகள் மற்றும் கால்கள் முறிந்து இருந்தமை , தலையில் அடிகாயங்கள் காணப்பட்டமை , காதிலும் மெல்லிய கம்பியினால் துளையிட்ட அடையாளங்கள் உள்ளிட்டவற்றுடன் , உடலில் கண்டல் காயங்களும் கண்டறியப்பட்டுள்ளது.
+Sasi Reuben Nikas, a native of Alavetti, died of one and a half months.
 
-சிசுவின் மரணம் இயற்கை மரணம் அல்ல என உடற்கூற்று பரிசோதனை அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The baby's mother was taken to the Alavetti Hospital on Saturday (03) that the baby was immobile after breastfeeding the baby.
 
-சிசுவின் தந்தை வெளியூரில் தங்கி இருந்து வேலை செய்வதாகவும், தாயின் பராமரிப்பிலையே சிசு இருந்துள்ளதாக பொலிஸ் விசாரணைகளில் தெரிய வந்துள்ளது.
+Due to the body's body injuries, the infertile examination was carried out on Sunday (04), the body's hands and legs were found, the head of the head, the thin rod, the signs of the ear and the signs of the ear were detected.
 
-...
+The anatomical examination report noted that the death of the fetus is not a natural death.
+
+Police investigations have revealed that the infant's father was staying outside the infantry and that the baby was under the care of her mother.
+
+Tellippalai police, who are conducting further investigations into the incident, have taken the infant's mother to the police protection.
+
+◼️
 
 [Data](articles/fd2c67e5.json)
+
+[Extended Data](ext_articles/fd2c67e5.ext.json)
 
 ---
 
@@ -1654,6 +1686,8 @@ The two main political parties that alternated in power in the last century, the
 
 [Data](articles/27b04a4d.json)
 
+[Extended Data](ext_articles/27b04a4d.ext.json)
+
 ---
 
 ### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
@@ -2229,23 +2263,5 @@ The two Indian fishermen and the dead fisherman's body have been handed over to 
 [Data](articles/44f6d7d2.json)
 
 [Extended Data](ext_articles/44f6d7d2.ext.json)
-
----
-
-### Seven Days In Sri Lanka: My Mother’s Life & Shadows of Betrayal
-
-*2024-08-03 18:25:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/seven-days-in-sri-lanka-my-mothers-life-shadows-of-betrayal/) · `en`
-
-Mother died three days ago. Or maybe it was the day before. I’m not sure. It feels surreal, as if she’s still present. Her absence is heavy, a palpable silence thick with the memory of her voice. In those last days, she would call out my name in the evenings at the Cancer Hospital. I flew back for her from the US to Sri Lanka. It was a gruelling 20-hour journey.
-
-Upon landing, I was arrested at the airport. They threw me into a cramped cell with two others: a Tamilian and a man who had stolen copper wire to feed his sick mother. The wire was worth Rs.22,000 (under 75 USD). It is in my opinion a desperate act in a country declared bankrupt in 2022. The economic collapse has driven many to crime, with Colombo’s streets mired in gun violence and systemic corruption.
-
-Pic L-R: Mother Suranganee Abeyagoonasekera; Asanga Abeyagoonasekera arrested 21st July 2024 Katunayake Airport Prison; Mouse Trap at ICU entrance in Maharagama Cancer Hospital.
-
-...
-
-[Data](articles/646d3d57.json)
-
-[Extended Data](ext_articles/646d3d57.ext.json)
 
 ---

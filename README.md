@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 17:20:56**
+As of **2024-08-04 17:36:17**
 
 ## Newspaper Stats
 
-*Scraped **38,926** Articles*
+*Scraped **38,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,67 +18,119 @@ dailyftlk | 2,494
 adalk | 3,567
 adaderanalk | 4,515
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,855
+tamilmirrorlk | 4,856
 virakesarilk | 6,156
-adaderanasinhalalk | 6,578
+adaderanasinhalalk | 6,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,922 (100.0%) of 38,926 articles have been extended.
+38,926 (100.0%) of 38,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ’சர்வ ஜன பலய’ - ஜனாதிபதி வேட்பாளர் அறிவிக்கப்பட்டார்
+### තලවකැලෙන් අතුරුදන් වූ සිසුවියන් තිදෙනා සහ සිසුවා ගාල්ලෙන් හමුවෙයි
+
+*2024-08-04 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199558) · `si`
+
+තලවකැලේ පොලිස් වසමට අයත් ග්‍රේට්වෙස්ටර්න් වතුයායේ ලුසා කොටසේ ඉකුත් මස (14) දින සිට අතුරුදන්ව සිටි පාසල් සිසුවියන් තිදෙනා සහ සිසුවා ගාල්ල මීටියාගොඩ ප්‍රදේශයේ නවාතැන්පොළක සිටියදී අද (04) පොලිස් භාරයට ගත් බව තලවකැලේ පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක සමන්ත පෙරේරා මහතා පැවසීය.
+
+මෙම සිවුදෙනා මීටියාගොඩ ප්‍රදේශයේ කුරුඳු සකස් කරන කර්මාන්ත ශාලාවක රැකියාවකට ගොස් ඇති බවත්, එම සිසු සිසුවියන් අවුරුදු 14 සහ 16 වයස් කාණ්ඩවල පසුවන ළමුන් නිසා ඔවුන්ව කර්මාන්ත ශාලාවේ පාලන අධිකාරිය විසින් රැකියාවකට බඳවාගෙන නොමැති බව පොලිස් ස්ථානාධිපතිවරයා කියා සිටියේය.
+
+අතුරුදහන්ව සිටි එම සිවුදෙනාගෙන් එක් ඥාතියෙකු එම කුරුඳු කර්මාන්ත ශාලාවේ සේවයේ නිරතව සිට ඇති බවත්,  ඔහු සොයාගෙන ඔවුන් මෙම කුරුඳු කර්මාන්ත ශාලාවේ රැකියාවට ගොස් ඇත.
+
+කෙසේ නමුත් රැකියාව නොලැබුණු නිසා එම සිවුදෙනා එම කර්මාන්ත ශාලාවට අයත් නේවාසිකාගාරයක මාසයකට ආසන්න කාලයක් රැඳී සිට ඇත.
+
+එම සිසුවියන් තිදෙනා සහ සිසුවා සන්තකයේ තිබූ දුරකථන අංකයක් ඔස්සේ විමර්ශන සිදු කර ඔවුන් සැඟවී සිටින ස්ථානය හඳුනාගැනීමට තලවකැලේ පොලීසියේ නිලධාරින් පිරිසකට හැකිවිය.
+
+...
+
+[Data](articles/8120cc54.json)
+
+---
+
+### தமிழ் முற்போக்கு கூட்டணியுடன் ஆதரவு சஜித்துக்கு
+
+*2024-08-04 17:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-முற்போக்கு-கூட்டணியுடன்-ஆதரவு-சஜித்துக்கு/175-341569) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் மலையக மக்கள் முன்னணி, தமிழ் முற்போக்கு கூட்டணியுடன் இணைந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்க தீர்மானிக்க்பட்டுள்ளது.
+
+ஹட்டனில் இன்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் மலையக மக்கள் முன்னணியின் தலைவர் வேலுச்சமி இராதாகிருஷ்ணன் இந்த அறிவிப்பை வெளியிட்டார். R
+
+◼️
+
+[Data](articles/2aba0e89.json)
+
+---
+
+### The Presidential candidate announced
 
 *2024-08-04 17:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வ-ஜன-பலய-ஜனாதிபதி-வேட்பாளர்-அறிவிக்கப்பட்டார்/175-341568) · `ta`
 
-சர்வ ஜன பலய” அரசியல் கூட்டணியின் ஜனாதிபதி வேட்பாளராக மவ்பிம ஜனதா கட்சியின் தலைவர் திலித் ஜயவீர நியமிக்கப்பட்டுள்ளார்.
+Dilith Jayaweera, leader of Mawpima Janata Party, is now the presidential candidate for the All Jana Balaya Political Alliance. This news was shared at the Sugathadasa Indoor Stadium in Colombo during the "Awakened Nation - Happy Nation" event. Key figures like MPs Wimal Weerawansa and Udaya Kammanpila, businessman Dilith Jayaweera himself, and MP Kevindu Kumaratunga were present.
 
-“ஒன்றிணைந்து எழுந்திடும் தேசம் – மகிழ்ச்சிமிகு தேசம்” என்ற தொனிப்பொருளின் கீழ் கொழும்பு சுகததாஸ உள்ளக அரங்கில் நடைபெற்று வரும் நிகழ்வில் இந்த அறிவிப்பு வெளியிடப்பட்டது.
+🟩
 
-பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச, பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில, தொழிலதிபர் திலித் ஜயவீர, பாராளுமன்ற உறுப்பினர் கெவிந்து குமாரதுங்க உட்பட 'சர்வஜன பலய' கூட்டணியின் முக்கிய உறுப்பினர்கள் பலர் இந்த நிகழ்வில் கலந்துகொண்டனர். R
+Mawpima Janata Party leader Dilith Jayaweera has been appointed as the presidential candidate of the All Jana Balaya Political Alliance.
+
+The announcement was made at the ongoing event at the Sugathadasa Indoor Stadium in Colombo under the theme "Awakened Nation - Happy Nation".
+
+Member of Parliament Wimal Weerawansa, Member of Parliament Udaya Kammanpila, businessman Dilith Jayaweera and Parliamentarian Kevindu Kumaratunga and many key members of the 'Sarvajana Balaya' alliance participated in the event.. Remble
 
 ◼️
 
 [Data](articles/50a87ea3.json)
 
+[Extended Data](ext_articles/50a87ea3.ext.json)
+
 ---
 
-### பொலிஸ்மா அதிபர் விவகாரம் ; மறுப்பு தெரிவித்தார் சபாநாயகர்
+### Police Chancellor affair;Speaker
 
 *2024-08-04 16:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-விவகாரம்-மறுப்பு-தெரிவித்தார்-சபாநாயகர்/175-341566) · `ta`
 
-பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடப் போவதில்லை என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+Speaker Mahinda Yapa Abeywardena refuses to discuss the Police Chancellor affair with the Chief Justice, citing lack of legal basis. The Supreme Court issued an interim order against the police chief, prompting the President to suggest negotiations between the Chief Justice and the Speaker regarding the Inspector General of Police.
 
-இந்த விடயம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடுவதற்கு சட்டரீதியான அடிப்படைகள்  இல்லை என்பதை எடுத்துரைத்த சபாநாயகர், அவ்வாறான சூழ்நிலையில் தாம் எந்தவொரு கலந்துரையாடலிலும் ஈடுபடப் போவதில்லை எனவும் மேலும் வலியுறுத்தியுள்ளார்.
+🟩
 
-தேசபந்து தென்னகோன் பொலிஸ்மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் இடைக்கால உத்தரவை உயர் நீதிமன்றம் அண்மையில் பிறப்பித்தது.
+Speaker Mahinda Yapa Abeywardena has said that he will not discuss the matter with the Chief Justice.
 
-இதனைத் தொடர்ந்து, பொலிஸ்மா அதிபர் தொடர்பான பிரச்சினைக்கு பிரதம நீதியரசர் மற்றும் சபாநாயகர் இடையில் பேச்சுவார்த்தை நடத்தி தீர்வு காண வேண்டும் என ஜனாதிபதி தெரிவித்தார்.
+The Speaker further stressed that there is no legal basis to discuss the matter with the Chief Justice, adding that he would not be involved in any discussion in such a situation.
 
-இந்த நிலையிலேயே, பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடப் போவதில்லை என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார். R
+The Supreme Court recently issued an interim order to prevent the serving of the Tennakoon police chief.
+
+Following this, the President said that the issue of the Inspector General of Police should negotiate between the Chief Justice and the Speaker.
+
+Speaker Mahinda Yapa Abeywardena has said that he will not discuss the matter with the Chief Justice on the issue of the Inspector General of Police.. Remble
 
 ◼️
 
 [Data](articles/978ec07a.json)
 
+[Extended Data](ext_articles/978ec07a.ext.json)
+
 ---
 
-### සර්වජන බලය එකමුතුවේ ජනාධිපති අපේක්ෂකයා දිලිත් ජයවීර
+### Dilith Jayaweera was the presidential candidate of the universal power
 
 *2024-08-04 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199557) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී සර්වජන බලය එකමුතුවේ ජනාධිපති අපේක්ෂකයා ලෙස මව්බිම ජනතා පක්ෂයේ නායක දිලිත් ජයවීර මහතා ඉදිරිපත් කරන බව විමල් වීරවංශ මහතා පැවසීය.
+Dilith Jayaweera, representing the Universal Power, faced criticism from Mr. Wimal Weerawansa, who claimed Dilith was mistakenly introduced as the Norgeon Power's candidate during a speech at the GCE High Commission in Colombo's Sugathadasa Indoor Stadium.
 
-මේ වනවිට කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේ පැවැත්වෙන එම එකමුතුවේ මහා සමුළුව අමතමින් ඔහු ඒ බව පැවසීය.
+🟩
+
+Mr. Wimal Weerawansa said that the presidential candidate of the Norgeon Power was presented as the presidential candidate of the presidential election.
+
+He was speaking at the GCE High Commission in the Sugathadasa Indoor Stadium in Colombo.
 
 ◼️
 
 [Data](articles/eaf23e8b.json)
+
+[Extended Data](ext_articles/eaf23e8b.ext.json)
 
 ---
 
@@ -95,6 +147,8 @@ Several key members of ‘Sarvajana Balaya’ alliance including MP Wimal Weeraw
 ◼️
 
 [Data](articles/61d145fa.json)
+
+[Extended Data](ext_articles/61d145fa.ext.json)
 
 ---
 
@@ -2175,33 +2229,5 @@ On July 4, a three-member Supreme Court bench issued an interim injunction order
 [Data](articles/da3bc176.json)
 
 [Extended Data](ext_articles/da3bc176.ext.json)
-
----
-
-### Less Known Facts on Kamala Harris
-
-*2024-08-04 00:15:00* · [`islandlk`](http://island.lk/less-known-facts-on-kamala-harris/) · `en`
-
-There’s no denying the fact that the Democratic presidential candidate and possibly the first woman president of the USA is hugely dynamic, very ambitious, a successful career woman, beautiful and feminine. Not only will Kamala Harris be the 47th President if she wins the race in November, which she can do as her ratings rises rapidly and Trump shows strain and yes, trepidation, which he tries to cover with his usual bluff and bluster. She may also be the first Black and South Asian American president; Obama being considered to be first African American Prez. A very significant fact is that powerful women are rallying around her and endorsing her strongly. They are led by Nancy Pelosi, recently 52nd Speaker of the House of Representatives. Jill Biden, Hillary Clinton and Michelle Obama are close behind; Hollywood stars too like Beyonce.
-
-...
-
-[Data](articles/42b858b9.json)
-
-[Extended Data](ext_articles/42b858b9.ext.json)
-
----
-
-### Is The Supreme Court Supreme Or Subordinate?
-
-*2024-08-04 00:10:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-the-supreme-court-supreme-or-subordinate/) · `en`
-
-The Supreme Court has given an Interim Order to suspend the IGP from functioning until the final determination of the Petitions filed against the IGP. This has created a controversy between the Supreme Court and the other two limbs of the Government, the Executive and the Legislature. I wish to express my views on this deadlock as an ordinary citizen objectively and as a free-thinker, as follows:
-
-...
-
-[Data](articles/1df365c5.json)
-
-[Extended Data](ext_articles/1df365c5.ext.json)
 
 ---

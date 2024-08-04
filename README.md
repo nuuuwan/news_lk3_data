@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 11:56:06**
+As of **2024-08-04 12:08:49**
 
 ## Newspaper Stats
 
-*Scraped **38,870** Articles*
+*Scraped **38,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,562
 adaderanalk | 4,506
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,842
+tamilmirrorlk | 4,844
 virakesarilk | 6,145
 adaderanasinhalalk | 6,564
 
@@ -26,15 +26,39 @@ adaderanasinhalalk | 6,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,868 (100.0%) of 38,870 articles have been extended.
+38,870 (100.0%) of 38,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### குவைத்தில் கைது செய்யப்பட்டோர் விடுதலை
+### Release of arrested persons in Kuwait
 
 *2024-08-04 11:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்தில்-கைது-செய்யப்பட்டோர்-விடுதலை/175-341546) · `ta`
+
+Sri Lankan artists Indira Saba Liyanage, Samanali Fonseka, Jolie Chia, and Uppaka Nirmani were arrested in Kuwait for holding a concert without permission but released on February 3rd through the Sri Lankan embassy.
+
+🟩
+
+A group of Sri Lankans, including famous singers, have been released in Kuwait on the 2nd.
+
+Indira Saba Liyanage, Samanali Fonseka, Jolie Chia and Uppaka Nirmani have been arrested while attending a concert to be held by the 'Abhi'.
+
+It has been revealed that they have been arrested for not getting permission for the concert.
+
+However, the Ministry of External Affairs said that the group was released on Saturday (03) through the Sri Lankan embassy in the country.
+
+◼️
+
+[Data](articles/7856cc09.json)
+
+[Extended Data](ext_articles/7856cc09.ext.json)
+
+---
+
+### குவைத்தில் கைதானோர் விடுதலை
+
+*2024-08-04 11:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்தில்-கைதானோர்-விடுதலை/175-341546) · `ta`
 
 கடந்த 2ஆம் திகதி குவைத்தில் வைத்து கைது செய்யப்பட்ட பிரபல பாடகர்கள் உள்ளிட்ட இலங்கையர்கள் குழு விடுதலை செய்யப்பட்டுள்ளனர்.
 
@@ -46,23 +70,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/7856cc09.json)
+[Data](articles/afbe0f40.json)
 
 ---
 
-### இந்திய நீர்மூழ்கி  ஷல்கி இன்று புறப்படும்
+### Indian submarine will depart today
 
 *2024-08-04 11:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-நீர்மூழ்கி-ஷல்கி-இன்று-புறப்படும்/175-341544) · `ta`
 
-இந்திய கடற்படையின் நீர்மூழ்கி கப்பல் ஐ.என்.எஸ். ஷல்கி இரண்டு நாள் பயணமாக இலங்கை சென்றுள்ளது. சமீப காலமாக இலங்கையில் சீனா தனது ராணுவ ஆதிக்கத்தை அதிகரிக்க முயற்சித்து வரும் நிலையில், இந்திய நீர்மூழ்கி கப்பல் இலங்கை சென்றிருப்பது தற்போது கவனம் பெற்றுள்ளது.
+INS Shulki, India's first domestically built submarine, departed for a two-day visit to Sri Lanka, marking a significant naval engagement amid growing Chinese influence in the region.
 
-கொழும்பு துறைமுகத்திற்கு சென்ற இந்திய நீர்மூழ்கி கப்பலுக்கு இலங்கை கடற்படையினரால் வரவேற்பு அளிக்கப்பட்டது. இந்தியாவுடன் நெருங்கிய பாதுகாப்பு மற்றும் மூலோபாய உறவுகளைக் கொண்டிருக்கும் நாடுகளுக்கு இந்திய கடற்படையின் நீர்மூழ்கி கப்பல்கள் அனுப்பப்படுகின்றன.
+🟩
 
-அந்த வகையில் ஐ.என்.எஸ். ஷல்கி நீர்மூழ்கி கப்பல் தற்போது இலங்கைக்கு சென்றுள்ளது. ஐ.என்.எஸ். ஷல்கி நீர்மூழ்கி கப்பல் கடந்த 1992-ம் ஆண்டு பிப்ரவரி 7-ந் திகதி இந்திய கடற்படையில் இணைக்கப்பட்டது. இது இந்தியாவில் தயாரிக்கப்பட்ட முதல் நீர்மூழ்கி கப்பல் என்பது குறிப்பிடத்தக்கது.
+Indian Navy's submarine INS. Shulki has traveled to Sri Lanka on a two -day trip. In recent years, China has been trying to increase its military domination in Sri Lanka, and the Indian submarine has gone to Sri Lanka.
+
+Sri Lankan navy welcomed the Indian submarine on board Colombo port. The Indian Navy's submarines are sent to countries with close security and strategic relations with India.
+
+In that respect the INS. The Shulki submarine has now gone to Sri Lanka. Inn.S.. The Shulki Submarine was incorporated into the Indian Navy on February 7, 1992. It is noteworthy that this is the first submarine made in India.
 
 ◼️
 
 [Data](articles/b03a3934.json)
+
+[Extended Data](ext_articles/b03a3934.ext.json)
 
 ---
 
@@ -1906,6 +1936,22 @@ In it, the office of the regional offices has been issued 56,261 passports after
 
 ---
 
+### வைத்தியர் அர்ச்சுனா சற்று முன்னர் கைது
+
+*2024-08-03 15:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனா-சற்று-முன்னர்-கைது/175-341500) · `ta`
+
+மன்னார் வைத்தியசாலைக்குள் அத்துமீறி பிரவேசித்து அமைதியின்மையை ஏற்படுத்திய குற்றச்சாட்டின் கீழ் வைத்தியர் இராமநாதன் அர்ச்சுனா கைது செய்யப்பட்டுள்ளார்.
+
+மன்னார் வைத்தியசாலை நிர்வாகத்தினர் முன்வைத்த முறைப்பாட்டை அடுத்தே, வைத்தியர் இராமநாதன் அர்ச்சுனா கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட வைத்தியர் இராமநாதன் அர்ச்சுனா, மன்னார் நீதவான் முன்னிலையில் ஆஜர்ப்படுத்தப்பட்டதை அடுத்து, எதிர்வரும் 07ம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/4ca1fc69.json)
+
+---
+
 ### 45 complaints regarding election law violations;Pepral system
 
 *2024-08-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190179) · `ta`
@@ -2251,61 +2297,5 @@ The Executive Director Rohana Hettiarachchi said that there have been a lot of c
 [Data](articles/875efc27.json)
 
 [Extended Data](ext_articles/875efc27.ext.json)
-
----
-
-### Kamala Harris formally chosen as Democratic nominee
-
-*2024-08-03 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100965/kamala-harris-formally-chosen-as-democratic-nominee) · `en`
-
-US Vice-President Kamala Harris has passed the threshold to clinch the Democratic presidential nomination in a vote of party delegates.
-
-Speaking by telephone, Ms Harris said she was “honoured to be the presumptive nominee” as the virtual roll call continues ahead of the Democratic National Convention (DNC) in Chicago later this month.
-
-Ms Harris is the first black woman and first South Asian woman to become the White House standard-bearer for a major US political party.
-
-If she defeats Donald Trump, the Republican nominee, in November she would be America’s first female president.
-
-She ran unopposed in the virtual roll call after President Joe Biden stepped aside last month and quickly endorsed her. Several potential rivals followed his lead.
-
-On Friday afternoon, Ms Harris formally became the nominee after securing the support of 2,350 delegates, the threshold required to earn the nomination.
-
-...
-
-[Data](articles/2e757a10.json)
-
-[Extended Data](ext_articles/2e757a10.ext.json)
-
----
-
-### Sharjan, who committed an invalid work, is signing
-
-*2024-08-03 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199514) · `si`
-
-Sharjan, involved in an illegal activity, faces a police duty after being stopped for obstructing traffic in the Mabolla area, Wattala. The police claim the wind caused the obstruction. Opponents argue against this incident. The lorry driver claims he was delivering documents. The police sergeant's actions were deemed unusual, potentially leading to disciplinary proceedings.
-
-🟩
-
-A lorry duty in the Mabolle area to reach a container in the Mabolla area in Wattala is a police-duty on the front of the front of the front.
-
-The police officer says that the wind has been sent as a result of the obstacle to traffic.
-
-At the same time, a group of people had been opposed to the incident.
-
-The driver of the lorry that arrives at the place, however, said he went to the container yard to hand over documents.
-
-In the meantime, the police officer had left the lorry and left the lorry.
-
-However, the police say that the action of the police sergeant was completely unique and that only a penalty could be imposed on such an offense.
-
-The entire police department will be discredited due to the conduct of such officers, police said.
-
-Accordingly, the officer has been summoned to the Police Traffic today for a disciplinary inquiry today.
-
-◼️
-
-[Data](articles/c870205a.json)
-
-[Extended Data](ext_articles/c870205a.ext.json)
 
 ---

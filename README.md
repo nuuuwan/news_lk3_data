@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 21:36:00**
+As of **2024-08-04 21:55:20**
 
 ## Newspaper Stats
 
-*Scraped **38,958** Articles*
+*Scraped **38,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,518
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,862
 virakesarilk | 6,167
-adaderanasinhalalk | 6,583
+adaderanasinhalalk | 6,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,957 (100.0%) of 38,958 articles have been extended.
+38,958 (100.0%) of 38,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### ජනපති අපේක්ෂකයින්ට විශේෂ ආරක්ෂක වැඩපිළිවෙළක්
+
+*2024-08-04 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199563) · `si`
+
+ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින් සඳහා විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ඒ සඳහා පත්කළ කමිටුව සැලසුම් කර තිබේ.
+
+ඒ අනුව ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීමෙන් අනතුරුව සියලු අපේක්ෂකයින් වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට කමිටුව විසින් සැලසුම් කර ඇති බව මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම් වියානි ගුණතිලක මහතා පවසයි.
+
+මේ අතර පොලිස්පතිධුරය සම්බන්ධයෙන් පවතින ගැටලුව හේතුවෙන් ජනාධිපතිවරණය සම්බන්ධයෙන් අවශ්‍ය ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක කිරීම සඳහා පොලිස්පතිවරයාගේ සියලු බලතල මහජන ආරක්ෂක අමාත්‍යංශය ලේකම් වියානි ගුණතිලක මහතා වෙත පවරා තිබේ.
+
+ජනාධිපති ලේකම්වරයා විසින් ඒ පිළිබඳව ලිඛිතව මැතිවරණ කොමිසමට ද දැනුම් දී තිබේ.
+
+ඒ අනුව මැතිවරණ කාලසීමාව තුළ පොලිස්පතිවරයා විසින් නිකුත් කරන සියලු නියෝග, මැතිවරණ රාජකාරී සඳහා පොලිස් නිලධාරීන් යෙදවීම, රැස්වීම් පැවැත්වීමට අවශ්‍ය කටයුතු සම්පාදන කරදීම, ප්‍රවාහන අවශ්‍යතා සපුරාලීම සහ ඒ සඳහා අවශ්‍ය මුදල් ගෙවීම් කටයුතු ආදී සියල්ල ලේකම්වරයා විසින් සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/de47c825.json)
+
+---
 
 ### Bangladesh declares three-day general holiday amid ongoing unrest
 
@@ -210,21 +230,27 @@ For 16 years, a group has fought for justice after their son was abducted by sta
 
 ---
 
-### කොන්දේසි කිහිපයකට යටත්ව මුස්ලිම් කොංග්‍රසයේ සහාය සජිත්ට දීමට තීරණයක්
+### Sajith decided to offer SLMC support subject to several conditions
 
 *2024-08-04 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/කොන්දේසි-කිහිපයකට-යටත්ව-මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට-දීමට-තීරණයක්/11-411190) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී කොන්දේසි කිහිපයකට යටත්ව ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහය විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ලබාදීමට තීරණය කළ බව එහි නායක පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතා පැවසීය.
+The leader of the Sri Lanka Muslim Congress (SLMC) will support Sajith Premadasa, but only after he meets certain conditions. This decision was made after extensive discussions within the party, including MP Rauff Hakeem. The conditions must be agreed upon within the next 42 hours for Sajith Premadasa to receive the support.
 
-පක්ෂයේ උත්තරීතර මණ්ඩලය ගත් තීරණයකට අනුව මෙලෙස විපක්ෂනායකවරයාට ජනාධිපතිවරණයේදී සහය පළ කරන බව (04දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Leader of the Sri Lanka Muslim Congress (SLMC) has decided to hand over the support of the SLMC assistance to Sajith Premadasa subject to several conditions.
 
-"අද දින අප පක්ෂයේ උත්තරීතර මණ්ඩලය රුස්වෙලා දීර්ඝ සාකච්ඡාවක් කළා. මින් ඉදිරියට ජනාධිපති ලෙස පත්වන අපෙක්ෂකතුමාගෙන් අපි බලාපොරොත්තු වෙන නොයෙකුත් කොන්දේසි පිළිබඳවත් සාතච්ඡා කළා. ඒ කොන්දේසි වලට යටත්ව, ඒ කොන්දේසි වලට එකඟ වෙනවා නම් අපේ උත්තරීතර මණ්ඩලයේ ඒකමතික තීරණය වුණේ සජිත් ප්‍රේමදාස මහතාට සහය දිය යුතුයි කියලා. මම එතුමා සමග ඉදිරි පැය 42ක් වගේ කාලය තුළ සාකච්ඡාවේ යෙදෙනවා."
+Speaking to the media, he said that the party's supremacy has been supported by the Opposition (04).
+
+Speaking further MP Rauff Hakeem said so.
+
+"Today our party's supreme discussion has a long discussion. We were also revealed about the conditions that were appointed as the president before the President. If you agree to these conditions, our Supreme Council unanimously decided that Sajith Premadasa should support Mr. Premadasa. I discuss with him in the next 42 hours. "
 
 ◼️
 
 [Data](articles/d29cb29e.json)
+
+[Extended Data](ext_articles/d29cb29e.ext.json)
 
 ---
 
@@ -2255,33 +2281,5 @@ The police say that the 17-year-old youth arrested the 17-year-old youth who was
 [Data](articles/dc1edacc.json)
 
 [Extended Data](ext_articles/dc1edacc.ext.json)
-
----
-
-### The history of Polonnaruwa is revealed
-
-*2024-08-04 08:44:20* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-ඉතිහාසය-ගැඹුරටම-යන-බව-හෙළිවෙයි/11-411180) · `si`
-
-A statue of Laidu discovered in Polonnaruwa reveals the site's rich history, including a garden area and scientific ruins monitored through advanced technology. The discovery, made during excavations led by Prof. Prishantha Gunawardena, also uncovered evidence of Chinese influence in the region, dating back to the 10th and 12th centuries. This finding suggests a historical significance beyond the Polonnaruwa period, emphasizing the need for further research to fully understand the shared history between China and Sri Lanka.
-
-🟩
-
-Prof. Prishantha Gunawardena revealed that a statue of Laidu has been found in the Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakrama Parakramabahu.
-
-Accordingly, the ruins of a garden area will be seen in a garden area on a ponds of the ancient Parakramabahu Palace from an ancient Parakramabahu Palace.
-
-He said that the specialty of this Lida technology is that it is to be able to monitor three meters of scientific ruins in a very dense jungle.
-
-The University of Lotrop, Australia and the University of Kelaniya has been excavated by the excavation carried out in the Chinese coins and Chinese era.He said.
-
-Accordingly, Chinese coins in the Ten and 12th centuries in China are the Chinese era of China.
-
-He further said that there was an ancient era that had a past settlement period more than the Polonnaruwa period.
-
-...
-
-[Data](articles/6dcb089a.json)
-
-[Extended Data](ext_articles/6dcb089a.ext.json)
 
 ---

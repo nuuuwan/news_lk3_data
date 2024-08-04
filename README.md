@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 16:37:06**
+As of **2024-08-04 16:52:44**
 
 ## Newspaper Stats
 
-*Scraped **38,916** Articles*
+*Scraped **38,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,567
-adaderanalk | 4,513
+adaderanalk | 4,514
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,851
 virakesarilk | 6,155
-adaderanasinhalalk | 6,575
+adaderanasinhalalk | 6,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,914 (100.0%) of 38,916 articles have been extended.
+38,916 (100.0%) of 38,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### SLMC to offer conditional support to Sajith in prez poll
+
+*2024-08-04 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100989/slmc-to-offer-conditional-support-to-sajith-in-prez-poll) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) has decided to offer its conditional support to Opposition Leader Sajith Premadasa in the 2024 Presidential Election, SLMC leader MP Rauff Hakeem said.
+
+This decision has been reached during the party’s Supreme Council meeting which was held today (04).
+
+Speaking to the media following the discussion, Hakeem stated that the Supreme Council of the SLMC decided to support opposition leader Sajith Premadasa in the upcoming presidential election subject to conditions.
+
+He mentioned that accordingly, the SLMC will hold a discussion with Premadasa in the near future and that they expect to reach agreements on certain matters with him during that discussion.
+
+However, MP Hakeem claimed that the SLMC is not inclined towards any other political party, and that they do not expect any ministerial or other positions by supporting the Samagi Jana Balawegaya (SJB) during the forthcoming presidential election.
+
+◼️
+
+[Data](articles/cc004972.json)
+
+---
+
+### හකීම්ගේ සහාය සජිත්ට
+
+*2024-08-04 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199555) · `si`
+
+මුස්ලිම් කොංග්‍රසයේ සහාය කොන්දේසි සහිතව සජිත් ප්‍රේමදාස මහතාට ලබා දෙන බව එම පක්ෂය අද (04) පැවසීය.
+
+කොළඹ, කොම්පඤ්ඤවීදියේ පිහිටි මුස්ලිම් කොංග්‍රස් ප්‍රධාන කාර්යාලයෙදී එම පක්ෂයේ උත්තරීතර මණ්ඩලය අද රැස්විය.
+
+එම සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් මහතා පැවසුවේ "සජිත් ප්‍රේමදාස මහතාට කොන්දේසි සහිතව සහායදීමට මුස්ලිම් කොංග්‍රසයේ උත්තරීතර මණ්ඩලය තීරණය කළා," යනුවෙනි.
+
+◼️
+
+[Data](articles/10a3f8bc.json)
+
+---
 
 ### Passenger arrested with foreign cigarettes worth Rs. 1.8M at BIA
 
@@ -48,17 +84,25 @@ The arrested suspect has been identified as a 48-year-old resident of Kalmunai, 
 
 [Data](articles/374cd1d5.json)
 
+[Extended Data](ext_articles/374cd1d5.ext.json)
+
 ---
 
-### සර්වජන බලයේ ජනපති අපේක්ෂකයා ප්‍රකාශයට පත් කෙරෙන සමුළුව
+### Conference on the presidential candidate of the universal power
 
 *2024-08-04 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199554) · `si`
 
-"සර්වජන බලය එකමුතුව" සංවිධානය කරන සර්වජන සමුළුව මේ වනවිටසුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+The "Unverajate Power" conference, featuring the presidential candidate, will take place at the Indoor Stadium.
+
+🟩
+
+The annive summit organizing the "Unverajate Power" will be held at the Indoor Stadium.
 
 ◼️
 
 [Data](articles/3251da56.json)
+
+[Extended Data](ext_articles/3251da56.ext.json)
 
 ---
 
@@ -2191,49 +2235,5 @@ However, the minister did not provide any further details on the reasons for the
 [Data](articles/6a6b8fcd.json)
 
 [Extended Data](ext_articles/6a6b8fcd.ext.json)
-
----
-
-### SLPP prez poll crisis: Several changes made to top positions
-
-*2024-08-03 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100973/slpp-prez-poll-crisis-several-changes-made-to-top-positions) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has reportedly made changes in several district-level leadership positions within the party.
-
-A senior member of the SLPP revealed to Ada Derana that accordingly, State Minister Indika Anuruddha has been temporarily appointed as the Gampaha district leader, replacing Minister Prasanna Ranatunga.
-
-National Organizer of the party Namal Rajapaksa has been temporarily appointed as the Anuradhapura district leader, ousting Parliamentarian S. M. Chandrasena from the position.
-
-Meanwhile, Parliamentarian Nipuna Ranawaka has been temporarily appointed as the Matara district leader, replacing Minister Kanchana Wijesekera, while State Minister Mohan Priyadarshana de Silva has been appointed as the Galle district leader, replacing Minister Ramesh Pathirana.
-
-...
-
-[Data](articles/7df9bfea.json)
-
-[Extended Data](ext_articles/7df9bfea.ext.json)
-
----
-
-### Pove is appointed new leaders
-
-*2024-08-03 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199531) · `si`
-
-Ranil Wickremesinghe is named President, with four new ministers and several changes in district leadership roles in Sri Lanka.
-
-🟩
-
-Four new ministers with three ministers of the Sri Lanka Knowledge, Anuradhapura, Matara and Galle District Leadership with Ranil Wickremesinghe have been appointed as the President.
-
-Member of Parliament Leader SM. Instead of Mr. Chandrasena, the National Organizer of the Sri Lanka General Manager Namal Rajapaksa has been appointed to act as the post of District Leader.
-
-In addition, the Gampaha District Leader Minister Prasanu Ranavatunga has been appointed as Minister of Indikanura Ranatunga to work with Minister Kanchana Wijesekara to support the Matara district leadership.
-
-He has also appointed Mohan Priyadarshana De Silva to act in the district as the Galle District Leader.
-
-◼️
-
-[Data](articles/457882a5.json)
-
-[Extended Data](ext_articles/457882a5.ext.json)
 
 ---

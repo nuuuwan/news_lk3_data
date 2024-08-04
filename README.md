@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 16:20:39**
+As of **2024-08-04 16:37:06**
 
 ## Newspaper Stats
 
-*Scraped **38,914** Articles*
+*Scraped **38,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,73 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,567
-adaderanalk | 4,512
+adaderanalk | 4,513
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,851
 virakesarilk | 6,155
-adaderanasinhalalk | 6,574
+adaderanasinhalalk | 6,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,912 (100.0%) of 38,914 articles have been extended.
+38,914 (100.0%) of 38,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### උපාය මාර්ගික වැඩපිළිවෙළක වැදගත්කම ජනපති කියයි
+### Passenger arrested with foreign cigarettes worth Rs. 1.8M at BIA
+
+*2024-08-04 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100988/passenger-arrested-with-foreign-cigarettes-worth-rs-18m-at-bia) · `en`
+
+A person who was in possession of a large stock of foreign cigarettes illegally brought into the country has been arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (04).
+
+Officers of the Police Narcotics Bureau (PNB) at the BIA have arrested the suspected passenger who had arrived in Sri Lanka from Bahrain.
+
+Police said that a total of 60 cartons containing 12,000 sticks of foreign-manufactured cigarettes, estimated to be worth around Rs. 1.8 million, were found concealed in his luggage.
+
+The arrested suspect has been identified as a 48-year-old resident of Kalmunai, according to police
+
+◼️
+
+[Data](articles/374cd1d5.json)
+
+---
+
+### සර්වජන බලයේ ජනපති අපේක්ෂකයා ප්‍රකාශයට පත් කෙරෙන සමුළුව
+
+*2024-08-04 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199554) · `si`
+
+"සර්වජන බලය එකමුතුව" සංවිධානය කරන සර්වජන සමුළුව මේ වනවිටසුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/3251da56.json)
+
+---
+
+### President tells the importance of a strategic program
 
 *2024-08-04 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199553) · `si`
 
-රටේ ආර්ථිකය ස්ථාවර කිරීමට රජය ආරම්භ කළ උපායමාර්ගික වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට පවත්වාගෙන නොගියහොත් නැවත පෝලිම් යුගයකට මුහුණ දීමට සිදුවනු ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the ongoing strategic program crucial for Sri Lanka's economy, urging professionals to contribute positively. The initiative includes identifying key figures in Batticaloa and Trincomalee districts, highlighting the media's role.
 
-මඩකලපුව දිස්ත්‍රික්කයේ වෘත්තීයවේදීන් සමග පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා පෙන්වා දුන්නේ එම තත්ත්වය වළක්වා ගැනීම සියළු වෘත්තීයවේදීන්ගේ වගකීම වනු ඇති බවය.
+🟩
 
-මෙම හමුව සඳහා වෛද්‍යවරුන්, ඉංජිනේරුවරුන්, කාන්තා සංවිධාන, වෙළඳ සංගම් හා රාජ්‍ය නොවන සංවිධානවල නියෝජිතයින් ඇතුළු විශාල පිරිසක් එක්ව සිට තිබේ.
+President Ranil Wickremesinghe says that the strategic program of the government will continue to be continued to be continued to continue the country's economy.
 
-ඓතිහාසික වැදගත්කමකින් යුත් මඩකලපුව සහ ත්‍රිකුණාමල දිස්ත්‍රික්කයේ විභවතා හඳුනා ගනිමින් එහි සංවර්ධනයට රජය ආරම්භ කර ඇති වැඩපිළිවෙළ පිළිබඳව ද මෙහිදී ජනාධිපතිවරයා විසින් පැහැදිලි කර තිබේ.
+Addressing a meeting with professionals in the district, the President pointed out that it would be the responsibility of all the professionals to avoid the situation.
+
+A large number of people, including doctors, enginerators, women's organizations, trade unions and NGOs, have been present on this meeting.
+
+The President has also explained the program to identify the head of Batticaloa and Trincomalee district, identifying the media in Trincomalee and the district.
 
 ◼️
 
 [Data](articles/33a5c2db.json)
+
+[Extended Data](ext_articles/33a5c2db.ext.json)
 
 ---
 
@@ -69,6 +105,8 @@ The official said that as elections are announced in Sri Lanka, the next round o
 ...
 
 [Data](articles/ebe87e67.json)
+
+[Extended Data](ext_articles/ebe87e67.ext.json)
 
 ---
 
@@ -2197,53 +2235,5 @@ He has also appointed Mohan Priyadarshana De Silva to act in the district as the
 [Data](articles/457882a5.json)
 
 [Extended Data](ext_articles/457882a5.ext.json)
-
----
-
-### The work of Hulang opening police officer suspended
-
-*2024-08-03 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199530) · `si`
-
-A police officer in Wattala was suspended after causing a traffic obstruction by circulating a lorry's front wheel. The incident led to charges being filed against him, with the police stating it was a unique case.
-
-🟩
-
-The front wheel of the front wheel, a lorry, has been circulated in the front wheel of a lorry at a police sergeant at the Wattala Police.
-
-Police said that the act was completely unique to the police, as the official was suspended today (03).
-
-Meanwhile, the police further stated that a charge sheet will be issued to the incident.
-
-The police officer says that the wind has been sent as a result of the obstacle to traffic.
-
-◼️
-
-[Data](articles/9598bf0d.json)
-
-[Extended Data](ext_articles/9598bf0d.ext.json)
-
----
-
-### 5 Diaspora Tamil Organizations jointly supported the resolution to field Tamil public
-
-*2024-08-03 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190186) · `ta`
-
-Five diaspora Tamil organizations have announced their support for a Tamil candidate in the upcoming presidential election, aiming to unify and internationalize Tamil political goals. The election is set for September 21, with the nomination deadline on August 15. This move follows negotiations among Tamil communities in the North and East, and includes support from various social organizations and political parties. The groups highlight historical injustices against the Sinhalese nation and express confidence in achieving self-determination through international support and referendums, referencing a significant resolution passed by the US House of Representatives recognizing the Eelam Tamils' right to self-determination.
-
-🟩
-
-Five diaspora Tamil organizations have jointly stated that the Tamil people have decided to field a Tamil general candidate in the upcoming presidential election and that the Tamils ​​will be able to unite and internationalize their political aspirations and demands.
-
-The Elections Commission has announced that the ninth presidential election will be held on the 21st of September and that the presidential election will be filed on August 15.
-
-Accordingly, the negotiations between the North and East Tamil people on behalf of the Tamil people of the North and East have been reinforced by the negotiations on behalf of the Tamil people of the North and East.
-
-Five diaspora Tamil organizations, including the World Tamil Organization, the North American Tamil Congress, the Sri Lanka Tamil Congress, the Integrated Tamil American Political Action Committee and the World Tamil Organization, have made a joint statement by clarifying their position.
-
-...
-
-[Data](articles/c5084062.json)
-
-[Extended Data](ext_articles/c5084062.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 02:05:49**
+As of **2024-08-05 02:20:37**
 
 ## Newspaper Stats
 
-*Scraped **38,979** Articles*
+*Scraped **38,980** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
-colombotelegraphcom | 369
+colombotelegraphcom | 370
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,352
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,978 (100.0%) of 38,979 articles have been extended.
+38,979 (100.0%) of 38,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### கண்டி அமைப்பாளர் துரை மதியுகராஜா
+### Kandy Organizer Durai Mathiyagaraja
 
 *2024-08-05 01:42:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-அமைப்பாளர்-துரை-மதியுகராஜா/175-341596) · `ta`
 
-ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட  இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளர் துரை மதியுகராஜா,ஐக்கிய மக்கள் சக்தி கண்டி மாவட்ட அமைப்பாளராக நியமிக்கப்பட்டுள்ளார்.
+Durai Mathiyagaraja, a key figure in Sri Lanka's political landscape, recently switched from the Ceylon Workers Congress to the United People's Power. He was appointed as the UPFA district organizer and has a long history of leadership roles, including being the Senior Vice Chancellor of the Ceylon Workers Congress and its chief organizer for over two decades.
 
-ஐக்கிய மக்கள் சக்தியின் விவசாய மாநாடு  நுவரெலியா - ஹங்குராங்கெத்தயில் ஞாயிற்றுக்கிழமை (04) நடைபெற்றது. அதன்போதே, இந்த நியமனம் வழங்கப்பட்டது.
+🟩
 
-ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட துரை மதியுகராஜா,  மத்திய மாகாண சபையின் உப தவிசாளராக இரண்டு தடவைகளும், அவைத் தலைவராகவும் பதவி வகித்தவர்.  இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளரான இவர் இலங்கை தொழிலாளர் காங்கிரஸின் பிரதான அமைப்பாளராக 25 வருடங்களுக்கு மேலாக , கண்டி மாவட்டத்தில்  பணியாற்றியுள்ளார்.
+Senior Deputy Chairman of the Ceylon Workers Congress, who joined the United People's Power, has been appointed as the UPFA district organizer.
+
+The United People's Power Agricultural Conference was held on Sunday (04) at Nuwara Eliya. By then, this appointment was granted.
+
+Durai Mathiyagaraja, who joined the United People's Power, has been the vice president of the Central Provincial Council and as the Chairman.He is the Senior Vice Chancellor of the Ceylon Workers Congress and has been the chief organizer of the Ceylon Workers Congress for over 25 years.
 
 ◼️
 
 [Data](articles/5c0a9f27.json)
+
+[Extended Data](ext_articles/5c0a9f27.ext.json)
 
 ---
 
@@ -499,6 +505,20 @@ Police sergeant in Wattala police vehicles were banned by the acting proceedings
 [Data](articles/c65da273.json)
 
 [Extended Data](ext_articles/c65da273.ext.json)
+
+---
+
+### Presidential Elections & Ranil’s Crusade For Economic Revival
+
+*2024-08-04 20:27:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-elections-ranils-crusade-for-economic-revival/) · `en`
+
+Sri Lankan electors are awaiting a change from the status quo of a sluggish and slow- moving economy towards a more seriously planned progress. With fresh memories of extreme hard time sufferings of the recent past, only palliatively handled with haphazard responses to meet emergency situations, the body politic is hopeful of a dawn of an economy progressing under a planned pursuit of a clear vision
+
+The society is going through a period of many uncertainties with a serious inequality growing and the economy slogging before heavily indebted consumers failing to fuel its forward movement with very low spending capacities. A large segment of the people is still living either well below the poverty line or marginally there. The majority are in a state of heavy deprivation. The country is yearning for a change, the priority of which should be on boosting economic growth and social well- being focusing on the need to mean the worse affected.
+
+...
+
+[Data](articles/fbd5e313.json)
 
 ---
 
@@ -2279,23 +2299,5 @@ The Ukrainian army has ruined a Russian submarine. Foreign media reports, the su
 [Data](articles/06727094.json)
 
 [Extended Data](ext_articles/06727094.ext.json)
-
----
-
-### What is Israel expected by a double assassination?
-
-*2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190207) · `ta`
-
-Israel faces threats from Hamas and Hezbollah, seen as opponents to Palestinian interests in Gaza. These groups, along with others, are labeled by Israel as anti-peace movements.
-
-🟩
-
-The Hamas and Hezbollah movements are seen as opposing the Gaza Palestinians in the Middle East, and the forces of creation and strategicism in creation and strategy.. Along with them, Israel describes the 'Amans of the Anti -Movement'.
-
-◼️
-
-[Data](articles/7819a3f8.json)
-
-[Extended Data](ext_articles/7819a3f8.ext.json)
 
 ---

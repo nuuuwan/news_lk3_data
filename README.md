@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 22:07:42**
+As of **2024-08-04 22:20:43**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,959 (100.0%) of 38,960 articles have been extended.
+38,960 (100.0%) of 38,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ගිනිතැබූ යතුරුපැදියක් හමුවෙයි
+### Meets a burning motorcycle
 
 *2024-08-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199564) · `si`
 
-අම්බලන්ගොඩ, විහාරගොඩ පතිරාජ පටුම⁣ගේ කුරුඳු ඉඩමක සැක කටයුතු ලෙස  ගිනිතබා විනාශ කර තිබූ යතුරුපැදියක් අම්බලන්ගොඩ පොලීසිය විසින් සොයාගෙන තිබේ.
+Ambalangoda Police discovered a burnt motorcycle near a cinnamon plantation, suspected of being linked to criminal activities in the vicinity.
 
-විහාරගොඩ, කැලේ ආවාසේ විහාරයේ තාප්පයට යාබද කුරුඳු ඉඩමක තිබි මෙම යතුරුපැදිය සොයාගෙන ඇත.
+🟩
 
-එම ප්‍රදේශයේ පසුගිය කාලයේදී සිදුවූ අපරාධයකට මෙම යතුරුපැදිය යොදාගත්තේ දැයි අම්බලන්ගොඩ පොලීසිය සැක පළකරයි.
+Ambalangoda Police has recovered a motorcycle that was burned to doubt on the cinnamon land of Viharajana, Ambalangoda.
+
+The motorcycle was found in a cinnamon land adjacent to the wall of Viharagoda and the Viharaya.
+
+Ambalangoda Police suspect whether this motorcycle was used for a crime in the area.
 
 ◼️
 
 [Data](articles/dcf84d61.json)
+
+[Extended Data](ext_articles/dcf84d61.ext.json)
 
 ---
 

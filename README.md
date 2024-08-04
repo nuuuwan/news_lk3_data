@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 14:20:37**
+As of **2024-08-04 14:36:14**
 
 ## Newspaper Stats
 
-*Scraped **38,898** Articles*
+*Scraped **38,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,565
+adalk | 3,566
 adaderanalk | 4,511
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,847
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,894 (100.0%) of 38,898 articles have been extended.
+38,894 (100.0%) of 38,899 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,6 +39,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි එක්දින ජාත්‍යන්තර තරගය අද (04) පැවැත්වෙයි.
 
 කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+
+මෙම තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් දෙකක් සිදුකර තිබේ.
+
+වේගපන්දු යවන මොහොමඩ් ශිරාස් සහ දඟපන්දු යවන වනිඳු හසරංග වෙනුවට කමිඳු මෙන්ඩිස් සහ ජෙෆ්රි වැන්ඩසේ මෙම තරගය සඳහා කැඳවා තිබේ.
 
 ◼️
 
@@ -157,6 +161,26 @@ A young graduate woman has been killed by the recklessness of a doctor who is in
 [Data](articles/a27f5369.json)
 
 [Extended Data](ext_articles/a27f5369.ext.json)
+
+---
+
+### හොඳම මිතුරාගේ දෙහැවිරිදි  දියණියට අතවර කළ පින්තාරු බාස් අල්ලයි
+
+*2024-08-04 13:24:44* · [`adalk`](https://www.ada.lk/breaking_news/හොඳම-මිතුරාගේ-දෙහැවිරිදි--දියණියට-අතවර-කළ-පින්තාරු-බාස්-අල්ලයි/11-411183) · `si`
+
+බොල්ගොඩ ගඟේ අළුබෝමුල්ල  මුන්නවත්ත තොටුපොල අසල මෝටර් රථයක් තුළදී තම හොඳම මිතුරාගේ අවුරුදු 2 යි මාස 5  ක් වයසැති  දියණියට  බරපතල ලිංගික අතවර සිදුකළ බව කියන 40 හැවිරිදි  දෙදරු පියෙකු වු පිංතාරුකරුවෙකු අත්අඩංගුවට ගත් බව අළුබෝමුල්ල පොලිසිය කියයි.
+
+අතවරයට පත් දැරියගේ පියා සිය දරු දෙදෙනා ,  මිතුරා සහ මිතුරාගේ බිරිඳ සහ දරු දෙදෙනා සමග බොල්ගොඩ ගඟේ මුන්නවත්ත තොටුපොළ ප්‍රදේශයට ඡායාරූප ලබා ගැනීම සඳහා පැමිණ තිබූ බව පොලිසිය සඳහන් කරයි
+
+පිරිස මෝටර් රථයෙන් බසින අවස්ථාවේදී අතවරයට පත් දරුවාට නින්ද ගොස් තිබී ඇති අතර පියා විසින් දැරියව මෝටර් රථය තුළ තබා පිරිස සමඟ මඳක් ඈතට ගොස් ඡායාරූප ලබා ගනිමින් සිට ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+දැරිය පමණක් මෝටර් රථයේ සිටින බැවින් සැකකරු ඇයව බැලීමට පැමිණ ඇති අතර මඳ වේලාවකදී දරුවා හඬන ශබ්දයක් ඇසී  පියා ඇතුළු පිරිස එම ස්ථානයට පැමිණ තිබූ බව පොලිසි විමර්ශනවලදී අනාවරණය වී ඇත
+
+එම අවස්ථාවේදී සැකකරු තමන්ට දරුවා බලා ගැනීමට පුළුවන් බව පවසා අනෙක් පිරිස ඡායාරූප ලබා ගැනීමට යවා තිබූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/a4a46d56.json)
 
 ---
 
@@ -2215,23 +2239,5 @@ A parachute accident occurred when a parachutist failed to open their chute, res
 [Data](articles/f565d12b.json)
 
 [Extended Data](ext_articles/f565d12b.ext.json)
-
----
-
-### Tharushi Karunaratne’s 800m challenge ends at Paris Olympics
-
-*2024-08-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100971/tharushi-karunaratnes-800m-challenge-ends-at-paris-olympics) · `en`
-
-Sri Lankan athlete Tharushi Karunaratne’s journey in the Women’s 800m event at the Paris Olympics concluded after she finished 7th in Heat 4 of the Repechage round.
-
-Karunaratne initially competed in the preliminary round of the event on the last night (Aug 02), where she finished 8th with a timing of 2:07.76. As Karunaratne was placed 8th in the race, she did not advance directly to the next round.
-
-The repechage round is a second shot given for runners who fail to advance out of the first round in 2024 Olympics, which is in place for the first time in Olympic athletics history.
-
-◼️
-
-[Data](articles/e376070f.json)
-
-[Extended Data](ext_articles/e376070f.ext.json)
 
 ---

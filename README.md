@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 18:25:45**
+As of **2024-08-04 18:37:14**
 
 ## Newspaper Stats
 
-*Scraped **38,940** Articles*
+*Scraped **38,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,570
-adaderanalk | 4,515
+adaderanalk | 4,516
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,858
+tamilmirrorlk | 4,859
 virakesarilk | 6,161
 adaderanasinhalalk | 6,581
 
@@ -26,57 +26,97 @@ adaderanasinhalalk | 6,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,936 (100.0%) of 38,940 articles have been extended.
+38,940 (100.0%) of 38,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ඉන්දියාවට ලකුණු 241ක ඉලක්කයක්
+### India target 241 runs
 
 *2024-08-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199560) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ පැවැත්වෙන දෙවැනි එක්දින  තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 තුළදී කඩුලු 09ක් දැවී ලකුණු 240ක් රැස්කිරීමට සමත් විය.
+In a cricket match, India set a target of 241 runs for Colombo, Sri Lanka, who responded with 240 runs but lost 9 wickets in 50 overs.
+
+🟩
+
+Colombo R. Sri Lanka scored 240 runs for the loss of 9 wickets in the 50 overs.
 
 ◼️
 
 [Data](articles/3ebfd456.json)
 
+[Extended Data](ext_articles/3ebfd456.ext.json)
+
 ---
 
-### සජිත්ගේ සහායට පක්ෂ 25ක් ගිවිසුම්ගත වෙයි
+### Bangladesh protesters demand PM’s resignation: 23 killed, nearly 200 injured as protests turn deadly
+
+*2024-08-04 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100991/bangladesh-protesters-demand-pms-resignation-23-killed-nearly-200-injured-as-protests-turn-deadly) · `en`
+
+At least 23 people have been killed in Bangladesh as clashes erupted between police and anti-government protesters who are demanding that Prime Minister Sheikh Hasina step down.
+
+The latest round of tension comes as the student leaders have declared a campaign of civil disobedience against the government.
+
+Police have used tear gas and rubber bullets to disperse demonstrators in several parts of Bangladesh. Around 200 people have been injured.
+
+In the capital, Dhaka, access to internet on mobile devices has been suspended, with some providers telling local media they received orders from the government.
+
+An official from the Bangladesh Telecommunication Regulatory Commission (BTRC) official told BBC Bengali that 4G internet service in the Dhaka city area had stopped for now, but broadband services would continue.
+
+Without 4G and 3G people cannot communicate using the internet on their mobile devices. The source did not say when internet services would return to normal.
+
+...
+
+[Data](articles/d8dcf0ea.json)
+
+---
+
+### 25 parties contracted to Sajith's support
 
 *2024-08-04 17:47:08* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-සහායට-පක්ෂ-25ක්-ගිවිසුම්ගත-වෙයි/11-411187) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී සිය පක්ෂයද ඇතුළත්ව පක්ෂ විසිපහක් පමණ අගෝස්තු මස 8 වැනිදා සමගි ජන බලවේගයේ නායක සජිත් පේමදාස මහතාට සහයෝගය පල කිරීමේ ගිවිසුමට අනිවාර්යයෙන්ම් අත්සන් කරන බව මානුෂීය ජනතා සන්ධානයේ ප්‍රචාරක ලේක්ම් සමන් විජේවික්‍රම මහතා අද (4) කරන්දෙණියේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+Twenty-five parties, including Humanitarian People's Alliance led by Lakem Saman Wijewickrama, have pledged support for Sajith Premadasa in the upcoming presidential election. This decision was made during a critical discussion held on August 2nd in Colombo with the Leader of the Opposition. It's believed that this broad support will help Sajith Premadasa secure victory in the election.
 
-මේ සම්බන්ධයෙන් තීරණාත්මක සාකච්චාව අගෝස්තු මස 2වැනිදා පස්වරුවේදී සමගි ජන බලවේගය පක්ෂයේ නායක සජිත් ප්‍රේමදාස මහතා සමග කොළඹ විපක්ෂ නායක කාර්යාලයේදී පැවති බවත් ඒ අනුව පැමිණි එකගතාවය මත අගෝස්තු මස 8 වැනිදා  පෙරවරුවේදි ගිවිසුමට අත්සන් කරන බවද ඔහු කීය.
+🟩
 
-ජනාධිපතිවරණයේදී සමගි ජන බල වේගය පක්ෂයේ නායක සජිත් ප්‍රේමදාස මහතා අනිවාර්යයෙන්ම ජය ගන්නා බවත් ඒ ජය විජයග්‍රහණයක් බවට පත් කිරීමට මානුෂීය ජනතා සන්ධානය ඇතුලු අනෙක් පක්ෂ සජිත් ප්‍රේමදාස මහතාට සහයෝගය ලබාදීමට එකතුවූ බවද ප්‍රියන්ත මහතා කීවේය.
+Humanitarian People's Alliance Lakem Saman Wijewickrama said that about twenty-five parties including his party in the Presidential Election to support Mr. Sajith Premadasa in the presidential election.
 
-ඒ අනුව අගෝස්තු මස ගිවිසුම්ගතවිමෙන් අනතුරුව එදින සිට සජිත් මහතාගේ ජයග්‍රහණය කිරිමට කිරීමට කැපවෙන බවත් කී සමන් මහතා සමගි ජන බලවේගය පක්ෂයේ ආසන සංවිධායකයන්, දිස්ත්‍රින් සංවිධායකන් සමග ඉතාම සහයෝගයෙන් සහ සහජීවනයෙන් වැඩ කරන බවද පියන්ත මහතා කීය.
+He said the criterious discussion was held at the Leader of the Opposition in Colombo on August 2nd.
+
+He added that Sajith Premadasa and other party leader Sajith Premadasa will win the presidential election.
+
+Accordingly, after the contracted by August, Mr. Piyanha said that Sajith was committed to winning Mr. Sajith from supporting the party organizers, organizers of the party.
 
 ◼️
 
 [Data](articles/6297e84d.json)
 
+[Extended Data](ext_articles/6297e84d.ext.json)
+
 ---
 
-### ලක්ෂ 18ක දුම්වැටි කටුනායකින් පන්නන්න බැරිවෙයි
+### 18 lakhs cigarettes cannot be chased from Katunayake
 
 *2024-08-04 17:37:56* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-18ක-දුම්වැටි-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-411186) · `si`
 
-රුපියල් ලක්ෂ දහ අටක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස රැගෙන මෙරටට ආ පුද්ගලයෙකු ද සමග අත් අඩංගුවට ගැනීමට පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් 08/04 දින උදෑසන පියවර ගෙන තිබේ .මොහු කල්මුණේ ප්‍රදේශයේ පදිංචි 48 හැවිරිදි පුද්ගලයෙකි .
+A man arriving from Bahrain was caught at Katunayake airport with 60 cartons of foreign cigarettes worth Rs. 18 lakh. Arrested by the Police Narcotics Unit, he was released on bail and will appear in court on 08/14.
 
-ඔහු 08/04 දින බහරේන් සිට ගල්ෆ් එයාර් ගුවන් සේවයේ ජී.එෆ්.- 144 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-ඔහු විසින් රැගෙන ආ ගමන් මලු තුළ විදේශීය නිෂ්පාදිත " ගෝල්ඩ් ලීෆ් '' වර්ගයේ දුම්වැටි 12,000 ක් අඩංගු දුම්වැටි කාටූන් 60 ක් සගවා ගෙන තිබියදී පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් සොයා ගෙන අත් අඩංගුවට ගෙන තිබේ .
+The police narcotics have been taken to arrest a large number of foreign manufactured cigarettes worth Rs.
 
-මෙම පුද්ගලයා පොලිස් ඇප මත මුදා හැර තිබෙන අතර ඔහු සහ ඔහු විසින් නීතිවිරෝධී ලෙස රැගෙන ආ දුම්වැටි තොගය එළඹෙන 08/14 දින මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය .
+He had arrived at the Katunayake airport from Bahrain from 08/04 on the Gulf Air.
+
+He was arrested by the Police Narcotics Unit, while 60 smoking cartoons containing 12,000 smoking cigarettes in the bags he brought.
+
+The man is released on police bail and is to be produced before the Negombo Magistrate's Court on 08/14.
 
 ◼️
 
 [Data](articles/169e1d5e.json)
+
+[Extended Data](ext_articles/169e1d5e.ext.json)
 
 ---
 
@@ -113,6 +153,26 @@ Indian leader Rohit Sharma, near the nearby or day, and he owns 10,480 one-day r
 [Data](articles/badcd44b.json)
 
 [Extended Data](ext_articles/badcd44b.ext.json)
+
+---
+
+### ஹக்கீம் அதிரடி: ஒருவரை வெளியேற்றினார்
+
+*2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-அதிரடி-ஒருவரை-வெளியேற்றினார்/175-341570) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் உயர்பீட கூட்டம் ஞாயிற்றுக்கிழமை(4) கட்சியின் தலைமையமான தாருஸ்ஸலாத்தில் நடைபெற்றது.
+
+படங்களை  முகநூலில் பதிவேற்றம் செய்தது ,  விஷமிகளுக்கு கட்சியை அநாகரிகமாக முகநூலில் விமர்சிக்க இடமளித்தமை ஆகிய குற்றச்சாட்டுகளினால்  கட்சியின் தலைவர் ரவூப் ஹக்கீம்  ,அவரை  கூட்டத்திலிருந்து வெளியேற்றுவதாக அறிவித்தார் .
+
+கட்சியின் தலைவர் ஹக்கீம் உடனடி நடவடிக்கையாக யஹியாகானை  நடைபெற்று கொண்டிருந்த உயர்பீட கூட்டம் மற்றும் அடுத்த உயர்பீட கூட்டம் ஆகிய இரு அமர்வுகளில்  பங்குபற்றகூடாது என இடைநிறுத்துவதாக குறிப்பிட்டார்.
+
+கட்சியில் யஹியாகானுடைய வகிபாகம் பற்றி  பாராட்டியதோடு , இந்த முடிவை மனவருத்ததோடு எடுக்கவேண்டிய நேர்ந்தது பற்றியும் தலைவர்  தெரிவித்தார்.
+
+தலைவரின் முடிவுக்குக் கட்டுப்பட்டு,    அவருடன்                        கைகுலுக்கி ,  முன்மாதிரியான முறையில் யஹியாகான்  அங்கிருந்து வெளியேறிச் சென்றார்.
+
+◼️
+
+[Data](articles/7d67ebaf.json)
 
 ---
 
@@ -832,19 +892,29 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
 
 ---
 
-### වී කිලෝවට රු. 150ක් ඉල්ලයි
+### The kilo of paddy is Rs. 150 asking
 
 *2024-08-04 14:18:35* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝවට-රු--150ක්-ඉල්ලයි/11-411185) · `si`
 
-වී මිල සම්බන්ධව තමන් තවදුරටත් අසීරුතාවයට පත් නොකර යල කන්නයේ වී කිලෝවක් සඳහා රුපියල් 150 ක සහතික මිලක්වත් නියම කරමින් ගොවියාගේ වී මිලදී ගැනීමට වහාම රජය මැදිහත් වන ලෙස පොළොන්නරුව ඇතුළු මහවැලි බි කලාපයේ ගොවි සංවිධාන නියෝජිතයින් පිරිසක් 04 වෙනිදා වැලිකන්ද මොනරතැන්න වෙල්යායේ දී මාධ්‍ය සාකච්ඡාවක් පවත්වමින් සඳහන් කළහ.
+Farmers in Mahaweli BG, including Polonnaruwa, criticize government intervention in paddy buying, accusing mill owners of exploiting lack of state support. Former VP WG Thilakarana highlights issues with paddy sales outlets and the need for government action to prevent paddy farming from becoming unsustainable. Nearly 6,000 acres are cultivated, with concerns about loans and future elections reflecting farmer dissatisfaction.
 
-රජයේ වී මිලදී ගැනීමේ වැඩපිළිවෙළ මෙතෙක් ක්‍රියාත්මක නොකිරීම හේතුවෙන් පොළොන්නරුවේ මහා පරිමාණ වී මෝල් හිමිකරුවන් තිදෙනා හිතුමතේට තමන්ගේ වී අස්වනු කුණු කොල්ලයට ලබාගැනීමට රජය ඉඩ සලසා ඇති බවද එම ගොවීන් චෝදනා කළහ,
+🟩
 
-වර්තමානයේ පවතින වී මිල අනුව වි කිලෝවක් ලබාදී ලුණු  පැකට්ටුවක්වත් ලබා ගැනීමට නොහැකි මට්ටමට පත්ව ඇති බවත්, එමෙන්ම ගොවියාට අවශ්‍ය බුලත් විටක්වත් ලබාගැනීමට නොහැකි මට්ටමට වී මිල පහත වැටී ඇති බව මහවැලි බි කලාපයේ ව්‍යාපාර කමිටුවේ හිටපු උපසභාපති ඩබ්ලිව්.ජී තිලකරන්න මහතා මෙම මාධ්‍ය සාකච්ඡාවේ කරුණු දක්වමින් සඳහන් කළේය.
+A group of farmer organizations in the Mahaweli Bg, including Polonnaruwa, said that the government intervenes to purchase a certificate of Rs.
+
+The farmers accused the three large scale mill owners of Polonnaruwa due to the lack of government paddy purchasing program.
+
+Former Vice President of the Mahaweli B zon, WG Thilakarana, who is not able to obtain a packet of salt and the farmer's buyer is not available.Did.
+
+Tilakarana said that although the Paddy sales outlet of the Mahaweli B and the Mahaweli B and the Mahaweli B and the Mahaweli B and the Mahaweli B and the Yala season.
+
+It is vital that the paddy is a farming has become a white elephant, but nowadays that the paddy is currently over to Rs.Former Chairman of the Senapura Divisional Farmers Farmer Organization, Kapila Cyril Pathiran said.
 
 ...
 
 [Data](articles/e05a8116.json)
+
+[Extended Data](ext_articles/e05a8116.ext.json)
 
 ---
 
@@ -2193,39 +2263,5 @@ That absurd justification is increasingly being used by the NPP to the extent th
 [Data](articles/f480097b.json)
 
 [Extended Data](ext_articles/f480097b.ext.json)
-
----
-
-### Some wonders AI has created and dangers of negative repercussions
-
-*2024-08-04 02:09:00* · [`islandlk`](http://island.lk/some-wonders-ai-has-created-and-dangers-of-negative-repercussions/) · `en`
-
-If anyone in this audience was skeptical regarding my earlier assertion that engineering and technology underpin numerous innovations shaping our lives, this example should effectively dispel their doubts. So what is behind this success in this new generation of AI that we now experience? It is a technology called Deep Learning, a term that may be familiar to some of you.
-
-What is Deep Learning? Deep learning is a computer learning paradigm, inspired by the human brain’s neural networks, which are believed to process data iteratively, through layers. Similar to how the brain learns from data, Deep Learning algorithms also learn by processing data, through layers of interconnected computing nodes, refining their understanding with each iteration.
-
-...
-
-[Data](articles/da939916.json)
-
-[Extended Data](ext_articles/da939916.ext.json)
-
----
-
-### My time at Sussex University in the mid-1970s
-
-*2024-08-04 02:07:00* · [`islandlk`](http://island.lk/my-time-at-sussex-university-in-the-mid-1970s/) · `en`
-
-“Culture is like jam; the less you have, the more you spread”
-
-The Central Bank of Ceylon had stringent forex laws and regulations in the seventies. In 1975, it approved 18 sterling pounds for me to take to England as a student and recorded the amount in my passport. The postgraduate studentship from the Institute of Development Studies (IDS) of Sussex University paid my airfare, tuition fees, and living expenses.
-
-I travelled to Karachi from Colombo on October 1. The connecting flight to London was delayed because the plane had engine troubles. I did not have money to make a call to IDS or ARTI about the delay. The plan was for someone from IDS to meet me at Falmer railway station (the nearest to the university) on October 2 in the afternoon.
-
-...
-
-[Data](articles/8b53a816.json)
-
-[Extended Data](ext_articles/8b53a816.ext.json)
 
 ---

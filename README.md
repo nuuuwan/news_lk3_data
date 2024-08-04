@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 21:55:20**
+As of **2024-08-04 22:07:42**
 
 ## Newspaper Stats
 
-*Scraped **38,959** Articles*
+*Scraped **38,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ adaderanalk | 4,518
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,862
 virakesarilk | 6,167
-adaderanasinhalalk | 6,584
+adaderanasinhalalk | 6,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,958 (100.0%) of 38,959 articles have been extended.
+38,959 (100.0%) of 38,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ජනපති අපේක්ෂකයින්ට විශේෂ ආරක්ෂක වැඩපිළිවෙළක්
+### ගිනිතැබූ යතුරුපැදියක් හමුවෙයි
+
+*2024-08-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199564) · `si`
+
+අම්බලන්ගොඩ, විහාරගොඩ පතිරාජ පටුම⁣ගේ කුරුඳු ඉඩමක සැක කටයුතු ලෙස  ගිනිතබා විනාශ කර තිබූ යතුරුපැදියක් අම්බලන්ගොඩ පොලීසිය විසින් සොයාගෙන තිබේ.
+
+විහාරගොඩ, කැලේ ආවාසේ විහාරයේ තාප්පයට යාබද කුරුඳු ඉඩමක තිබි මෙම යතුරුපැදිය සොයාගෙන ඇත.
+
+එම ප්‍රදේශයේ පසුගිය කාලයේදී සිදුවූ අපරාධයකට මෙම යතුරුපැදිය යොදාගත්තේ දැයි අම්බලන්ගොඩ පොලීසිය සැක පළකරයි.
+
+◼️
+
+[Data](articles/dcf84d61.json)
+
+---
+
+### Special security for Presidential candidates
 
 *2024-08-04 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199563) · `si`
 
-ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින් සඳහා විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ඒ සඳහා පත්කළ කමිටුව සැලසුම් කර තිබේ.
+A special security program for presidential election candidates is being implemented by a committee, as announced by the Defense Ministry's Secretary, Vanii Gunatilake. This includes transferring the Inspector General of Police's powers to ensure security during the election period. The Secretary to the President has notified the Elections Commission about these measures.
 
-ඒ අනුව ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීමෙන් අනතුරුව සියලු අපේක්ෂකයින් වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට කමිටුව විසින් සැලසුම් කර ඇති බව මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම් වියානි ගුණතිලක මහතා පවසයි.
+🟩
 
-මේ අතර පොලිස්පතිධුරය සම්බන්ධයෙන් පවතින ගැටලුව හේතුවෙන් ජනාධිපතිවරණය සම්බන්ධයෙන් අවශ්‍ය ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක කිරීම සඳහා පොලිස්පතිවරයාගේ සියලු බලතල මහජන ආරක්ෂක අමාත්‍යංශය ලේකම් වියානි ගුණතිලක මහතා වෙත පවරා තිබේ.
+The committee appointed to implement a special security program for candidates contesting the presidential election.
 
-ජනාධිපති ලේකම්වරයා විසින් ඒ පිළිබඳව ලිඛිතව මැතිවරණ කොමිසමට ද දැනුම් දී තිබේ.
+According to the Secretary Defense Ministry Vanii Gunatilake, the Committee has planned to implement a special security program for all candidates after handing over the nominations for the presidential election.
 
-ඒ අනුව මැතිවරණ කාලසීමාව තුළ පොලිස්පතිවරයා විසින් නිකුත් කරන සියලු නියෝග, මැතිවරණ රාජකාරී සඳහා පොලිස් නිලධාරීන් යෙදවීම, රැස්වීම් පැවැත්වීමට අවශ්‍ය කටයුතු සම්පාදන කරදීම, ප්‍රවාහන අවශ්‍යතා සපුරාලීම සහ ඒ සඳහා අවශ්‍ය මුදල් ගෙවීම් කටයුතු ආදී සියල්ල ලේකම්වරයා විසින් සිදු කිරීමට නියමිතය.
+Meanwhile, all the powers of the Inspector General of Police Vani Gunatilake have been handed over to the implementation of the security program for the presidential election due to the issue of the police.
+
+The Secretary to the President has also informed the Elections Commission in writing.
+
+Accordingly, all orders issued by the IGP in the election duration and the arrangement of arrangements for election duties and meet the transportation of meetings, meet the transport needs and payments.
 
 ◼️
 
 [Data](articles/de47c825.json)
+
+[Extended Data](ext_articles/de47c825.ext.json)
 
 ---
 
@@ -2257,29 +2279,5 @@ Investigations have revealed that the death was taken into a journey with the de
 [Data](articles/09a9b68e.json)
 
 [Extended Data](ext_articles/09a9b68e.ext.json)
-
----
-
-### Riots in several cities in England spread
-
-*2024-08-04 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199540) · `si`
-
-Riots broke out in several English cities following the stabbing deaths of three children in Liverpool's Sathpool area, sparking widespread unrest and property damage. The incident, linked to a 17-year-old suspect, allegedly fueled anti-migrant sentiments among radicals, marking one of the country's worst food crises in over a decade.
-
-🟩
-
-It is reported that there have been upset and conflicts in Sri Lanka after the murder of three children stabbed in the Sathpool area in Liverpool.
-
-Foreign media states that yesterday (03) had been troubled in several cities in England.
-
-The events of destroying the property also reported. It is said that this was the worst starving situation in the country after 13 years.
-
-The police say that the 17-year-old youth arrested the 17-year-old youth who was arrested in connection with the murder of the three girls had spread into rumor that migrant anti-immigrant anti-immigration has been caused by a radical Musliem.
-
-◼️
-
-[Data](articles/dc1edacc.json)
-
-[Extended Data](ext_articles/dc1edacc.ext.json)
 
 ---

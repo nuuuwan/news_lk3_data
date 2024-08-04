@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 12:08:49**
+As of **2024-08-04 12:20:52**
 
 ## Newspaper Stats
 
-*Scraped **38,872** Articles*
+*Scraped **38,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,562
+adalk | 3,563
 adaderanalk | 4,506
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,844
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,870 (100.0%) of 38,872 articles have been extended.
+38,872 (100.0%) of 38,873 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,21 +56,27 @@ However, the Ministry of External Affairs said that the group was released on Sa
 
 ---
 
-### குவைத்தில் கைதானோர் விடுதலை
+### Release of detainees in Kuwait
 
 *2024-08-04 11:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்தில்-கைதானோர்-விடுதலை/175-341546) · `ta`
 
-கடந்த 2ஆம் திகதி குவைத்தில் வைத்து கைது செய்யப்பட்ட பிரபல பாடகர்கள் உள்ளிட்ட இலங்கையர்கள் குழு விடுதலை செய்யப்பட்டுள்ளனர்.
+Sri Lankan artists Indira Saba Liyanage, Samanali Fonseka, Jolie Chia, and Uppaka Nirmani were detained in Kuwait for organizing a concert without permission but were released on March 3rd through the Sri Lankan embassy.
 
-இந்திர சாப லியனகே, சமனலி பொன்சேகா, ஜொலி சியா, உபேக்கா நிர்மாணி உள்ளிட்ட 26 பேர் , ‘எதேர அபி’ என்ற அமைப்பினால் நடத்தப்படவிருந்த இசை நிகழ்ச்சியில் கலந்து கொண்ட போதே கைது செய்யப்பட்டுள்ளனர் .
+🟩
 
-குறித்த இசை நிகழ்ச்சிக்கு உரிய அனுமதி பெறாததால் அவர்கள் கைது செய்யப்பட்டதாக தெரியவந்துள்ளது .
+A group of Sri Lankans, including famous singers, have been released in Kuwait on the 2nd.
 
-எவ்வாறாயினும், அந் நாட்டிலுள்ள இலங்கைத் தூதரகத்தின் மூலம் குறித்த குழுவினரை சனிக்கிழமை (03) விடுவிக்க முடிந்ததாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Indira Saba Liyanage, Samanali Fonseka, Jolie Chia and Uppaka Nirmani have been arrested while attending a concert to be held by the 'Abhi'.
+
+It has been revealed that they have been arrested for not getting permission for the concert.
+
+However, the Ministry of External Affairs said that the group was released on Saturday (03) through the Sri Lankan embassy in the country.
 
 ◼️
 
 [Data](articles/afbe0f40.json)
+
+[Extended Data](ext_articles/afbe0f40.ext.json)
 
 ---
 
@@ -461,6 +467,22 @@ However, 24 of them were released last night on the intervention of officers at 
 [Data](articles/39c70d26.json)
 
 [Extended Data](ext_articles/39c70d26.ext.json)
+
+---
+
+### පී.සි. ඝාතනය කළ පි.සී.ත් වෙඩි තබාගෙන දිවි නසාගනියි
+
+*2024-08-04 08:39:15* · [`adalk`](https://www.ada.lk/breaking_news/පී-සි--ඝාතනය-කළ-පි-සී-ත්-වෙඩි-තබාගෙන-දිවි-නසාගනියි/11-411179) · `si`
+
+බිබිල කරාඩුගල පොලිසියේ සේවය කරන පොලිස් කොස්තාපල්වරයෙකු ඊයේ 04 රාත්‍රි එම පොලිසියේම කොස්තාපල්වරයෙකුගේ නිවසට ගොස්    කොස්පතාල්වරයාට වෙඩි තබා ඝාතනය කර නැවත පොලිසියට පැමිණ තමාත් වෙඩි තබාගෙන සියදිවි නසාගෙන තිබෙන බව පොලිසිය කියයි.
+
+කරාඩුගල පොලිසියේම සේවය කරන කොස්තාපල්වරුන් දෙදෙනා අතර ඇතිවු පෞගලික ආරවුලක් ඝාතනයට හේතුව
+
+ඝාතනයට සිදු කිරීමට මුල්වු කොස්තාපල් වරයා සිය රාජකාරි ගිනි අවිය රැ⁣ගෙන නාමල් ඔය ප්‍රදේශයට ගොස් මිතුරු නිළධාරියාට වෙඩි තබා නැවත  පැමිණ පොලිසියේදි වෙඩි තබාගෙනය සිය දිවි නසාගෙන තිබේ.
+
+◼️
+
+[Data](articles/865ee138.json)
 
 ---
 
@@ -1936,19 +1958,25 @@ In it, the office of the regional offices has been issued 56,261 passports after
 
 ---
 
-### வைத்தியர் அர்ச்சுனா சற்று முன்னர் கைது
+### Doctor Archana arrested a while ago
 
 *2024-08-03 15:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனா-சற்று-முன்னர்-கைது/175-341500) · `ta`
 
-மன்னார் வைத்தியசாலைக்குள் அத்துமீறி பிரவேசித்து அமைதியின்மையை ஏற்படுத்திய குற்றச்சாட்டின் கீழ் வைத்தியர் இராமநாதன் அர்ச்சுனா கைது செய்யப்பட்டுள்ளார்.
+Dr. Ramanathan Archana was arrested for causing unrest at Mannar Hospital after a complaint from its administration. She has been remanded until the 7th of this month following a magistrate's ruling.
 
-மன்னார் வைத்தியசாலை நிர்வாகத்தினர் முன்வைத்த முறைப்பாட்டை அடுத்தே, வைத்தியர் இராமநாதன் அர்ச்சுனா கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட வைத்தியர் இராமநாதன் அர்ச்சுனா, மன்னார் நீதவான் முன்னிலையில் ஆஜர்ப்படுத்தப்பட்டதை அடுத்து, எதிர்வரும் 07ம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார். R
+Dr. Ramanathan Archana has been arrested on charges of unrest in the Mannar Hospital.
+
+Dr. Ramanathan Archana has been arrested following a complaint filed by the Mannar Hospital administration.
+
+The arrested doctor Ramanathan Archana has been remanded till the 7th of this month following the presence of the Mannar Magistrate.. Remble
 
 ◼️
 
 [Data](articles/4ca1fc69.json)
+
+[Extended Data](ext_articles/4ca1fc69.ext.json)
 
 ---
 
@@ -2277,25 +2305,5 @@ The Indian team was able to accumulate 230 runs in 47 overs and to score a targe
 [Data](articles/b9ad4cf2.json)
 
 [Extended Data](ext_articles/b9ad4cf2.ext.json)
-
----
-
-### 45 complaints regarding presidential election
-
-*2024-08-03 12:56:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-தொடர்பில்-45-முறைப்பாடுகள்/175-341496) · `ta`
-
-The People's Organization reported 45 election law violations during the presidential election, mainly concerning the misuse of state power.
-
-🟩
-
-The People's Organization said that 45 complaints have been received regarding the violation of election laws related to the presidential election.
-
-The Executive Director Rohana Hettiarachchi said that there have been a lot of complaints about abuse of state power.. Remble
-
-◼️
-
-[Data](articles/875efc27.json)
-
-[Extended Data](ext_articles/875efc27.ext.json)
 
 ---

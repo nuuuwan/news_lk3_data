@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 10:54:08**
+As of **2024-08-04 11:05:48**
 
 ## Newspaper Stats
 
-*Scraped **38,862** Articles*
+*Scraped **38,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,107 @@ islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,562
-adaderanalk | 4,504
+adaderanalk | 4,505
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,837
 virakesarilk | 6,145
-adaderanasinhalalk | 6,563
+adaderanasinhalalk | 6,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,860 (100.0%) of 38,862 articles have been extended.
+38,862 (100.0%) of 38,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### பேருந்து விபத்தில் 22 பேர் காயம்
+### Renewed rioting sweeps British cities in wake of child murders
+
+*2024-08-04 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100979/renewed-rioting-sweeps-british-cities-in-wake-of-child-murders) · `en`
+
+Violent disorder swept across several British cities on Saturday, injuring police and damaging property in the most widespread rioting in the country for 13 years, following the murder of three young girls in northwest England.
+
+Riots involving hundreds of anti-immigration protesters have erupted in towns and cities after false information spread rapidly on social media that the suspect in Monday’s knife attack at a children’s dance class in Southport was a radical Muslim migrant.
+
+Police have said the suspect, Axel Rudakubana, 17, was born in Britain but protests by anti-immigration and anti-Muslim demonstrators have continued, descending into violence, arson and looting.
+
+Violent disorder erupted in Liverpool, Bristol, Hull and Belfast - four cities located in different corners of the UK - with scuffles breaking out and bricks and bottles thrown as anti-immigration protesters faced groups opposed to racism.
+
+...
+
+[Data](articles/e2cccd40.json)
+
+---
+
+### රුසියානු සබ්මැරීනයක් විනාශ කෙරේ
+
+*2024-08-04 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199543) · `si`
+
+රුසියාව විසින් පවරාගනු ලැබූ ක්‍රිමියා අර්ධද්වීපය ආසන්නයේ නැංගුරම් දමා තිබූ සබ්මැරීනයක් විනාශ කළ බව යුක්‍රේන හමුදාව පවසයි.
+
+එම සබ්මැරීනයට මිසයිල ප්‍රහාරයක් එල්ලකර ගිල්වා දැමූ බව යුක්‍රේන හමුදාව පැවසීය.
+
+◼️
+
+[Data](articles/1c9abda3.json)
+
+---
+
+### 22 people injured in bus accident
 
 *2024-08-04 10:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/பேருந்து-விபத்தில்-22-பேர்-காயம்/74-341532) · `ta`
 
-மஹாஓயா அரலகங்வில வீதியின் எம்.ஜி.கே ஏரிச் சந்திக்கு அருகில் இரண்டு தனியார் பேருந்துகள் ஒன்றுடன் ஒன்று மோதி இடம்பெற்ற விபத்தில் 22 பேர் காயமடைந்து மஹா ஓயா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In a bus crash near MGK Lake Junction, 22 passengers including two men, 12 women, and six children were hurt and taken to Maha Oya Hospital. Two buses collided; one was heading to Aralangwila from Maha Oya, and the other from the opposite direction. The drivers of both buses have been detained by police.
 
-இரண்டு பேருந்துகளிலும் பயணித்த 2 ஆண்கள், 12 பெண்கள், 6 சிறுவர்கள் மற்றும் 2 சிறுமிகள் இவ்வாறு காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
 
-மஹா ஓயாவிலிருந்து அரலகங்வில நோக்கி பயணித்த தனியார் பேருந்தும், எதிர்திசையில் இருந்து வந்த மற்றுமொரு தனியார் பேருந்துமே இவ்வாறு விபத்துக்குள்ளாகியதாகவும் சாரதி ஒருவர் கைது செய்யப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர் .
+Police say 22 people were injured and admitted to the Maha Oya Hospital in a collision with two private buses near the MGK Lake Junction of Mahaoya Aralangwila Road.
+
+Two men, 12 women, 6 boys and 2 girls who were traveling on both buses were injured and admitted to the hospital.
+
+Police said that a private bus traveling from Maha Oya to Aralangwila and another private bus from the opposite side were arrested and a driver was arrested.
 
 ◼️
 
 [Data](articles/1311cdc6.json)
 
+[Extended Data](ext_articles/1311cdc6.ext.json)
+
 ---
 
-### ඉන්දීය ධීවරයින් 4ක් අත්අඩංගුවට
+### Four Indian fishermen arrested
 
 *2024-08-04 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199542) · `si`
 
-මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව නාවික හමුදාව පවසයි.
+Four Indian fishermen were arrested in Sri Lankan waters during a naval operation. Meanwhile, in separate incidents, three individuals were detained for cannabis possession in Kilinochchi, and over 176 kg of cannabis was seized from a dingy vessel. The suspects, aged between 22 and 35, are from Mannar and Walaipeadu, and will be processed by the Jayapuram Police Station.
 
-නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සමඟ යාපනය, කෝවිලන් ප්‍රදීපාගාරයට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ සිදුකළ විශේෂ මෙහෙයුමක දී එම ධීවරයින් සහ යාත්‍රාව අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+🟩
 
-අත්අඩංගුවට ගත් ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් සිව් දෙනා කන්කසන්තුරය වරාය වෙත රැගෙනවිත් ඇති අතර ඔවුන් ඉදිරි නීතිමය කටයුතු සඳහා මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දීමට නියමිතය.
+Four Indian fishermen have been arrested in the country of Sri Lankan waters, the Navy said.
 
-මේ අතර රුපියල් මිලියන 70 කට අධික වටිනාකමින් යුත් කේරළ ගංජා තොගයක් සමඟ පුද්ගලයින් තිදෙනෙකු  කිලිනොච්චිය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+The fishermen and the vessel have been arrested in a special operation conducted by the Sri Lanka Navy, Coval Pradet.
 
-කිලිනොච්චිය, ඉරමතිව් මුහුදු ප්‍රදේශයේ සිදුකළ සෝදිසි මෙහෙයුමකදී කේරළ ගංජා රැගත් ඩිංගි යාත්‍රාව සමග සැකකරුවන් අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසීය.
+The four Indian fishermen were brought to the port of the Kankasanthurai and the four Indian fishermen.
 
-ඩිංගි යාත්‍රාවේ තිබී කේරළ ගංජා කිලෝග්‍රෑම් 176කට අධික තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+Meanwhile, three persons have been arrested in Korale cannabis in Kilinochchi.
 
-ඩිංගි යාත්‍රාව තුළ පාර්සල් 86 අසුරන ලද කේරළ ගංජා කිලෝ 176 ග්‍රෑම් 350ක පමණ තොගයක් මෙලෙස සොයාගෙන ඇති බව නාවික හමුදාව පවසයි.
+In search operations conducted in the Korea, the Navy said that investigations were taken into custody by the Kerala cannabis in Kilinochchi.
 
-...
+Navy seized more than 176 kilograms of Kerala Cannabis in the Dingi vessel.
+
+The Navy said that 176 kilograms of Kerala cannabis in the dingi vessel have been recovered.
+
+The suspects are residents of Mannar and Walaipeadu, over 22 and 35 years.
+
+The arrested suspects handed over to Jayapuram Police Station for the next legal proceedings of Kerala cannabis and the dingi vessel.
+
+◼️
 
 [Data](articles/3029ef52.json)
+
+[Extended Data](ext_articles/3029ef52.ext.json)
 
 ---
 
@@ -2267,59 +2315,5 @@ Meanwhile, the Indian Consulate General office in Jaffna confirmed that in coope
 [Data](articles/97ee5712.json)
 
 [Extended Data](ext_articles/97ee5712.ext.json)
-
----
-
-### A police accident is serious
-
-*2024-08-03 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199511) · `si`
-
-In Piliyandala, a tragic accident involving a three-wheeler and two cars resulted in serious injuries, including a 74-year-old victim. The incident occurred when the three-wheeler, carrying a girl heading to Kalubowila Teaching Hospital, collided with two cars traveling in opposite directions. The injured were initially taken to Piliyandala District Hospital before being transferred to Kalubowila Teaching Hospital for further treatment.
-
-🟩
-
-The Piliyandala Police say that a three-wheeler and two cars collide in Piliyandala yesterday.
-
-The victims were seriously injured and 74 years old.
-
-The girl was also in a waiting girl to visit the village to attend a clinic at Kalubowila Survey Hospital from the house to the Kalubowila Teaching Hospital.
-
-The three-wheeler was coming towards Piliyandala, a factory manager who was traveling to the Piliyandala and has been driving in the opposite direction of the road and a car in a three-wheeler and car.
-
-When the injured were also directed to the Piliyan District Hospital, the old monks who were in serious condition were referred to the Kalubowila Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/cd1adcd5.json)
-
-[Extended Data](ext_articles/cd1adcd5.ext.json)
-
----
-
-### The body of a fisherman who died in the Sri Lankan waters was taken to Rameswaram!
-
-*2024-08-03 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/190151) · `ta`
-
-A fisherman named Ramachandran drowned off Jaffna and Neduntivu, but his body was retrieved and brought to Rameswaram. Two others, Muttu Muniyandi and Mukkaya, were rescued by the Sri Lankan navy and later handed over to the Indian embassy. The search for Ramachandran continued, and his body was eventually found and returned to Rameswaram.
-
-🟩
-
-The body of a fisherman who died in the sea in the sea of ​​Jaffna and Neduntivu was taken to the Rameswaram fishing harbor by the sea on Saturday morning.
-
-Ramachandran (64), a fisherman, was drowned in the sea from the fishing boat after the accident occurred when the Sri Lankan navy patrols them to arrest the Sri Lankan navy's patrol vessel when they went to sea from Rameswaram fishing harbor on Wednesday.
-
-In addition, two fishermen, Muttu Muniyandi and Mukkaya, were rescued by the Sri Lankan navy and taken to the Naval Camp in Kankesanthurai, Jaffna.
-
-On Friday (02), two fishermen, Muthu Muniyandi and Mukkaya, were handed over to the Indian embassy in Jaffna without any case.
-
-Also, for the second day, the search for the fisherman Ramachandran, who was in the Mediterranean, continued to continue by the Navy Helicopter and Coast Guard patrol boats.
-
-In this case, the body of the hill -hill -rescued hill was recovered at the Jaffna Hospital and handed over to the Indian Embassy in Jaffna.
-
-...
-
-[Data](articles/898baf17.json)
-
-[Extended Data](ext_articles/898baf17.ext.json)
 
 ---

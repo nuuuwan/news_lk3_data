@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 08:36:17**
+As of **2024-08-04 08:55:00**
 
 ## Newspaper Stats
 
-*Scraped **38,842** Articles*
+*Scraped **38,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,559
-adaderanalk | 4,501
+adalk | 3,560
+adaderanalk | 4,502
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,828
+tamilmirrorlk | 4,830
 virakesarilk | 6,145
-adaderanasinhalalk | 6,558
+adaderanasinhalalk | 6,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,841 (100.0%) of 38,842 articles have been extended.
+38,842 (100.0%) of 38,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### Four including 2 cops from same police station killed in separate shootings
+
+*2024-08-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100977/four-including-2-cops-from-same-police-station-killed-in-separate-shootings) · `en`
+
+Four individuals including two police officers attached to the same police station in the Moneragala area have reportedly been killed in separate shooting incidents this morning (04).
+
+The shooting incidents have reportedly taken place in the Moneragala, Namal Oya and Inginiyagala areas.
+
+The deceased police officers were attached to the Karandugala Police Station in Moneragala, the Police Media Division said.
+
+A 33-year-old policeman has been shot dead at his residence in the Namal Oya area of Ampara early this morning (Aug 04).
+
+Police said that an unidentified assailant who arrived at the deceased police constable’s house at around 02.45 a.m. today had shot at him and fled the scene.
+
+In a separate incident, another policeman attached to the same police station has taken his own life by shooting himself to death using his service firearm inside the Karandugala Police Station today.
+
+...
+
+[Data](articles/bf859837.json)
+
+---
 
 ### Sri Lanka receive massive blow, Wanindu ruled out of India ODI series
 
@@ -73,6 +95,26 @@ Meanwhile, another officer of the incident has committed suicide by shooting ove
 [Data](articles/a4632915.json)
 
 [Extended Data](ext_articles/a4632915.ext.json)
+
+---
+
+### බස් දෙකක් ගැටී 22කට තුවාල
+
+*2024-08-04 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199537) · `si`
+
+පුද්ගලික බස් රථ දෙකක් එකිනෙක ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් 22ක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+ඊයේ (03) එම අනතුර සිදුව තිබුණේ මහඔය - අරලගංවිල මාර්ගයේ එම්.ඩී.කේ වැවට හැරෙන හන්දිය ආසන්නයේදීය.
+
+මහ ඔය දෙස සිට අරලගංවිල දෙසට ධාවනය වූ පුද්ගලික බස් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි තවත් පුද්ගලික බස් රථයක ගැටී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් බස් රථ දෙකෙහි ගමන්ගත් පිරිමි පුද්ගලයින් 02ක්, කාන්තාවන් 12ක්, පිරිමි ළමුන් 06ක් සහ ගැහැණු ළමුන් 02ක් තුවාල ලබා ප්‍රතිකාර සඳහා මහඔය රෝහලට ඇතුළත් කර ඇත.
+
+අනතුර සම්බන්ධයෙන් එක් බස් රථයක රියදුරෙකු අත්අඩංගුවට ගෙන ඇති අතර මහඔය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0e519d97.json)
 
 ---
 
@@ -242,6 +284,42 @@ I travelled to Karachi from Colombo on October 1. The connecting flight to Londo
 
 ---
 
+### 4 இந்திய மீனவர்கள் கைது
+
+*2024-08-04 02:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-இந்திய-மீனவர்கள்-கைது/175-341525) · `ta`
+
+யாழ். நெடுந்தீவு கடற்பரப்பில் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 4 இந்திய மீனவர்களை நேற்று மாலை இலங்கைக் கடற்படையினர் கைது செய்துள்ளனர்.
+
+தமிழ்நாடு, ஜெகதாப்பட்டினத்தைச் சேர்ந்த 4 மீனவர்களை அவர்கள் பயணித்த படகுடன் கைது செய்த கடற்படையினர், அவர்கள் நால்வரையும் காங்கேசன்துறை கடற்படை முகாமுக்குக் கொண்டு வந்து விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+
+கைது செய்யப்பட்ட நான்கு தமிழக மீனவர்களும் இன்று யாழ். மாவட்ட கடற்றொழில் நீரியல் வளத் திணைக்கள அதிகாரிகள் ஊடாக சட்ட நடவடிக்கைக்கு உட்படுத்தப்படவுள்ளனர். (a)
+
+◼️
+
+[Data](articles/b96cd03e.json)
+
+---
+
+### சோமாலியாவில் தீவிரவாத தாக்குதல்: 32 பேர் பலி
+
+*2024-08-04 01:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோமாலியாவில்-தீவிரவாத-தாக்குதல்-32-பேர்-பலி/175-341524) · `ta`
+
+சோமாலியா தலைநகரில் அல்-கொய்தாவின் கிளை அமைப்பான அல் ஷபாப் பயங்கரவாத தாக்குதல் ஒன்றை மேற்கொண்டுள்ளது.
+
+அந்தவகையில்,  சோமாலியா தலைநகர் மொகடிசுவில்   உள்ள லிடோ கடற்கரை அருகே அமைந்துள்ள பிரபல உணவகம் ஒன்றிலேயே அந்த தாக்குதல் மேற்கொள்ளப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அந்த உணவகத்திற்குள் நுழைந்த அல் ஷபாப் அமைப்பினர் அங்கு இருந்தவர்கள் மீது சரமாரி துப்பாக்கிச் சூடு நடத்தியுள்ளனர் என தெரியவந்துள்ளது.
+
+இதன்போது, சிலரை பணயக்கைதிகளாக சிறைபிடித்ததுடன், தங்கள் உடலில் மறைத்து கட்டிக்கொண்டு வந்த வெடிகுண்டுகளை வெடிக்கச் செய்து தற்கொலைப்படை தாக்குதலும் நடத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இந்த தாக்குதலில் 32 பேர் பரிதாபமாக உயிரிழந்துள்ளனர். 60 இற்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர் என கூறப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/dfd10e6a.json)
+
+---
+
 ### The President meets the leaders
 
 *2024-08-04 01:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமத-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341523) · `ta`
@@ -371,6 +449,8 @@ There’s no denying the fact that the Democratic presidential candidate and pos
 ...
 
 [Data](articles/42b858b9.json)
+
+[Extended Data](ext_articles/42b858b9.ext.json)
 
 ---
 
@@ -919,6 +999,24 @@ Fake news, fabricated news, videos and photos are being spread on social media. 
 [Data](articles/d868c616.json)
 
 [Extended Data](ext_articles/d868c616.ext.json)
+
+---
+
+### මැද පෙරදිග ලාංකිකයන් ගෙන්විමට මුදල් වෙන් කරයි
+
+*2024-08-03 17:49:11* · [`adalk`](https://www.ada.lk/breaking_news/මැද-පෙරදිග-ලාංකිකයන්-ගෙන්විමට-මුදල්-වෙන්-කරයි/11-411176) · `si`
+
+මැදපෙරදිග ගැටුම් වර්ධනය වුනොත් සියලු ශ්‍රී ලාංකිකයින් ගෙන්වීමට විශේෂ වැඩපිළිවෙලක් සූදානම් කර තිබෙන බවත්, ඒ සඳහා ඩොලර් මිලියන 05 කට වැඩි මුදලක් මේ වනවිට වෙන් කර අවසන් බවත් කම්කරු හා විදේශ රැකියා අමත්‍ය මනුෂ නානායක්කාර මහතා පවසයි.
+
+ශ්‍රී ලාංකිකයින් මෙරටට ගෙන්වා ගන්න තුරු ආරක්ෂිත ස්ථාන වල තබමින් ඔවුනට අවශ්‍ය සියලු පහසුම් ලබා දීමට සැලසුම් සුදානම් කර තිබෙන බවත්, මැදපෙරදිග කලාපයේ සේවයේ නියුතු ශ්‍රී ලාංකිකයින්ගේ ආරක්ෂාව පිළිබඳව රජයක් ලෙස නිරන්තරයෙන් සැළකිලිමත් වන බව අමාත්‍යවරයා ප්‍රකාශ කරයි.
+
+මේ වන විට ඊශ්‍රායලයේ පමණක් ශ්‍රී ලාංකිකයින් 12,000 කට වැඩි පිරිසක්,  ජෝර්දානයේ 15,000 කට වඩා වැඩි පිරිසක්, ලෙබනන් රාජ්‍යයේ 7,500 ක පමණ පිරිසක් හා ඊජිප්තුවේ 500 ක පමණ පිරිසක් රැකියාවල නිරත වී සිටි.
+
+මුහුදෙන්, ගොඩබිමෙන් හෝ ඕනෑම ආකාරයකින් හැකි ඉක්මනින් ඔවුන් ගෙන්වා ගැනීමට සියලු කටයුතු සූදානම් කරන ලෙස ජනාධිපතිවරයා උපදෙස් දී තිබේ. ඒ සඳහා ජනාධිපතිවරයා වෙනම කමිටුවක් ද පත් කර තිබේ.
+
+...
+
+[Data](articles/4c2467e2.json)
 
 ---
 
@@ -2153,107 +2251,5 @@ The project is also aimed at providing safe drinking water to 300,000 people in 
 [Data](articles/ad38b750.json)
 
 [Extended Data](ext_articles/ad38b750.ext.json)
-
----
-
-### 45 violations of election law violations
-
-*2024-08-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199507) · `si`
-
-PAFFREL reports 45 election law violation complaints post-presidential election, mainly about abusing state power.
-
-🟩
-
-The PAFFREL organization says that 45 complaints have been received regarding election law violations regarding the presidential election.
-
-Executive Director of the Division Rohana Hettiarachchi says that a major number of complaints have been reported to abuse state power.
-
-◼️
-
-[Data](articles/a7f40ea0.json)
-
-[Extended Data](ext_articles/a7f40ea0.ext.json)
-
----
-
-### Education Is Not A Business But A Way Of Life!
-
-*2024-08-03 08:32:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/education-is-not-a-business-but-a-way-of-life/) · `en`
-
-To dive down to the deepest lengths of education and to acknowledge its contribution to society, we all should have an understanding of what is truly meant by the term, “Education”. As far as my knowledge goes, I think we can all agree that education is not merely the studying of books. The whole point of education is to gain new knowledge. But to realize that almost everyone thinks that this knowledge can ONLY be achieved by books is truly disheartening. This fact can indeed be proved wrong by looking closely at the early stages of human civilization.
-
-...
-
-[Data](articles/dd86dd66.json)
-
-[Extended Data](ext_articles/dd86dd66.ext.json)
-
----
-
-### The budget for 2025 must include proper income earning methods - insists on the International Monetary Finance Officers' Committee
-
-*2024-08-03 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190145) · `ta`
-
-The International Monetary Fund (IMF) emphasizes the need for Sri Lanka's 2025 budget to incorporate formal income systems, highlighting the importance of economic restructuring and financial policies. Following a visit in July 2023, the IMF praised Sri Lanka's economic progress, including GDP growth, low inflation, and increased foreign exchange reserves. The IMF urges maintaining this momentum, focusing on enhancing financial income, stabilizing the economy, and managing debt effectively. Proposed measures include improving tax administration, protecting vulnerable populations, and ensuring financial discipline. The IMF also stresses the importance of controlling inflation and prioritizing currency policy.
-
-🟩
-
-The International Monetary Fund, which urged Sri Lanka's 2025 budget to include formal income systems, has announced that it will be discussed with the government on the period of third phase of the third phase of review.
-
-A group of officials headed by the IMF, the IMF, have been conducting an official visit to Sri Lanka on July 25, in order to discuss the economic restructuring and financial policies and the majority of economic advances being carried out under the Extended Finance Project of the International Monetary Fund.
-
-In a statement issued by Peter Bruver on the state of affairs after meeting with various parties, including the President, Central Bank Governor, Treasury Secretary and Opposition Leader, said:
-
-Appreciated results have been made through the Economic Rehabilitation Project implemented by the Government of Sri Lanka. GDP registered three consecutive quarters of consecutive quarters, and economic growth recorded 5.3 per cent in the first quarter of this year.
-
-...
-
-[Data](articles/e878cba1.json)
-
-[Extended Data](ext_articles/e878cba1.ext.json)
-
----
-
-### Sri Lanka fights white fly infestation with parasitic wasp
-
-*2024-08-03 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-fights-white-fly-infestation-with-parasitic-wasp-174916/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Agriculture Department is continuing with a program to introduce the parasitic wasp Encarcis Guadeloupae to control widespread whitefly infestation in coconut and king coconut plantations, a government statement said.
-
-According to the Coconut Cultivation Board, 300,00 ‘packets’ of the predator have been distributed this year.
-
-Damage to coconut plantations caused by the white fly has been reported from several parts of the island.
-
-However, due to the rain there has been a reduction of the damage, officials told a meeting at the Ministry of Agriculture.
-
-They pointed out that the white fly is more attracted to the color yellow, and this has led to more damage to king coconut, which is an export crop, plantations.
-
-After a forex crisis, the island nation is in a drive to increase exports, particularly of agriculture crops. However, extreme weather patterns brought on by climate change have proved a challenge.
-
-...
-
-[Data](articles/44fc7b80.json)
-
-[Extended Data](ext_articles/44fc7b80.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-08-03 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100958/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
-
-Several spells of showers will occur in Western and North-western provinces and in Galle, Matara and Matale districts.
-
-Showers or thundershowers may occur at a few places in the Eastern and Uva provinces in the evening or night.
-
-Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills while fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/b67404da.json)
-
-[Extended Data](ext_articles/b67404da.ext.json)
 
 ---

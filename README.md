@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 08:15:55**
+As of **2024-08-04 08:36:17**
 
 ## Newspaper Stats
 
-*Scraped **38,841** Articles*
+*Scraped **38,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 333
 newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
-islandlk | 2,238
+islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,559
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,558
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,841 (100.0%) of 38,841 articles have been extended.
+38,841 (100.0%) of 38,842 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -359,6 +359,18 @@ On July 4, a three-member Supreme Court bench issued an interim injunction order
 [Data](articles/da3bc176.json)
 
 [Extended Data](ext_articles/da3bc176.ext.json)
+
+---
+
+### Less Known Facts on Kamala Harris
+
+*2024-08-04 00:15:00* · [`islandlk`](http://island.lk/less-known-facts-on-kamala-harris/) · `en`
+
+There’s no denying the fact that the Democratic presidential candidate and possibly the first woman president of the USA is hugely dynamic, very ambitious, a successful career woman, beautiful and feminine. Not only will Kamala Harris be the 47th President if she wins the race in November, which she can do as her ratings rises rapidly and Trump shows strain and yes, trepidation, which he tries to cover with his usual bluff and bluster. She may also be the first Black and South Asian American president; Obama being considered to be first African American Prez. A very significant fact is that powerful women are rallying around her and endorsing her strongly. They are led by Nancy Pelosi, recently 52nd Speaker of the House of Representatives. Jill Biden, Hillary Clinton and Michelle Obama are close behind; Hollywood stars too like Beyonce.
+
+...
+
+[Data](articles/42b858b9.json)
 
 ---
 
@@ -2243,17 +2255,5 @@ Strong winds of about 50 kmph can be expected at times over Western slopes of th
 [Data](articles/b67404da.json)
 
 [Extended Data](ext_articles/b67404da.ext.json)
-
----
-
-### In The Context of Hon. Sampanthan’s Exit
-
-*2024-08-03 08:19:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-the-context-of-hon-sampanthans-exit/) · `en`
-
-...
-
-[Data](articles/c1e184f8.json)
-
-[Extended Data](ext_articles/c1e184f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 02:35:57**
+As of **2024-08-05 02:54:24**
 
 ## Newspaper Stats
 
-*Scraped **38,980** Articles*
+*Scraped **38,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,139 @@ colombotelegraphcom | 370
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,352
-dailyftlk | 2,497
+dailyftlk | 2,501
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,865
-virakesarilk | 6,172
+virakesarilk | 6,175
 adaderanasinhalalk | 6,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,980 (100.0%) of 38,980 articles have been extended.
+38,980 (100.0%) of 38,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### பிறந்தநாள் கொண்டாட்டத்திற்கு சென்ற இளைஞன் மீது கொடூரத் தாக்குதல்!
+
+*2024-08-05 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190283) · `ta`
+
+அராலி பகுதியில் 3ஆம் திகதி சனிக்கிழமை நடைபெற்ற பிறந்தநாள் கொண்டாட்டத்திற்கு சென்றுவிட்டு வீடு திரும்பிய இளைஞனை மறித்து கும்பல் ஒன்று வாளை காட்டி மிரட்டியதுடன் கம்பிகளால் தாக்குதலும் நடாத்தியுள்ளது.
+
+குறித்த இளைஞன் படுகாயம் அடைந்த நிலையில் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார். இச்சம்பவம் குறித்து மேலும் தெரிய வருகையில்,
+
+சாவகச்சேரியை சேர்ந்த குறித்த இளைஞனும் அவரது நண்பர்களும் ஹையேஸ் வாகனத்தில் வீடு திரும்பிக் கொண்டிருந்தவேளை, இடையே மறைத்து வாளுடன் வந்த கும்பல் ஒன்று குறித்த இளைஞனை வெளியே இழுத்து மூர்க்கத்தனமாக தாக்குதல் நடத்தியுள்ளது.
+
+இந்நிலையில் காயமடைந்த இளைஞன் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று பெறுகின்றார்.
+
+குறித்த இளைஞன் அராலியை சேர்ந்த யுவதி ஒருவரை காதலித்து வந்தார். இந்தக் காதலுக்கு யுவதியின் தாயாரும் ஆரம்பத்தில் பச்சைக்கொடி காட்டியுள்ளார். அந்த யுவதி கடந்த நான்காம் மாதம் முதல் இளைஞனுடனான தொடர்பை துண்டித்துள்ளார்.
+
+...
+
+[Data](articles/f1f8a8d6.json)
+
+---
+
+### Sunshine Holdings sustains growth momentum in 1QFY25
+
+*2024-08-05 02:28:09* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-sustains-growth-momentum-in-1QFY25/34-765157) · `en`
+
+Diversified conglomerate Sunshine Holdings PLC continued demonstrating resilience amidst prevailing macroeconomic conditions, reporting a topline growth of 6.5% YoY.
+
+The Group recorded a consolidated revenue of Rs. 14.2 billion during the first quarter of the current financial year (1QFY25), with Profit After Tax (PAT) contracting by 3.6% YoY to Rs. 1.4 billion. The revenue increase was due to robust revenue growth in healthcare, despite contraction in both consumer and agri sectors.
+
+The Group’s healthcare sector emerged as the largest contributor to Sunshine’s topline, accounting for 53.1% of total revenue, followed by consumer at 32.4% and agribusiness at 14.5%.
+
+...
+
+[Data](articles/dae7c048.json)
+
+---
+
+### இலங்கையர்கள் கௌரவமாக வாழும் சூழலை தோற்றுவிப்பேன்; இன,மத ,பேதமின்றி அனைவரும் ஒன்றுபட வேண்டும் -ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர
+
+*2024-08-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190282) · `ta`
+
+இன,மத வேறுபாடுகள் ஏதும் இல்லாத வகையில் சிறந்த வினைத்திறனான அரசியல் கட்டமைப்பை தோற்றுவிப்பேன்.இலங்கையர்கள் அனைவரும் கௌரவமாக வாழும் சூழலை உருவாக்குவேன்.எமது நாட்டு மக்கள் பாவம் அவர்களுக்கு ஏதாவது செய்ய வேண்டும் என்பதற்காகவே அரசியலில் பிரவேசித்துள்ளேன்.
+
+என்மீது வைக்கும் நம்பிக்கையை பலவீனப்படுத்தமாட்டேன்.பொருளாதார மீட்சிக்கான கொள்கையை இவ்வாரம் பகிரங்கப்படுத்துவேன் என சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர தெரிவித்தார்.
+
+சர்வஜன சக்தியின் மாநாடு கொழும்பு சுகததாச உள்ளக அரங்கில் ஞாயிற்றுக்கிழமை (4) இடம்பெற்றது.இதன்போது விசேட உரை நிகழ்த்துகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நெருக்கடியான சூழ்நிலையில் நாட்டுக்காகவே செயற்பட்டுள்ளேன்.அரசியலில் ஈடுபடாத நிலையிலும் பல சந்தர்ப்பங்களில் நாட்டுக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளேன் என்பதை இச்சந்தர்ப்பத்தில் குறிப்பிட்டுக் கொள்கிறேன்.
+
+...
+
+[Data](articles/c7b065bf.json)
+
+---
+
+### நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தை பாதுகாப்பதற்கு  எதிர்வரும் ஜனாதிபதி தேர்தலில்  அனைவரும் ஒன்றிணைய வேண்டும் – ஜனாதிபதி
+
+*2024-08-05 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190281) · `ta`
+
+கல்வி, அரசியலமைப்பு, அதிகாரப் பகிர்வு போன்ற விடயங்களில் மாறுபட்ட  கருத்துக்கள் காணப்படுகின்ற போதிலும் நாட்டின் பொருளாதாரத்தை முன்னேற்றுவதற்கு தற்போதைய அரசாங்கத்தின் வேலைத்திட்டத்தை தவிர வேறு மாற்றுவழியில்லை என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+
+எனவே அந்த வேலைத்திட்டத்தை பாதுகாப்பதற்கு எதிர்வரும் ஜனாதிபதி தேர்தலில் அனைவரும் முன்வர வேண்டும் எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+திருகோணமலை ஹோட்டல் சங்கத்தின் ஏற்பாட்டில் ஞாயிற்றுக்கிழமை (04) திருகோணமலை பீச் ரிசோர்ட் ஹோட்டலில்  நடைபெற்ற கூட்டத்தில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+திருகோணமலையை சுற்றுலா மையமாக அபிவிருத்தி செய்வதற்கு எடுக்கப்பட்டுள்ள நடவடிக்கைகள் குறித்து விளக்கிய ஜனாதிபதி, நாட்டிற்கு வரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கையை 25 இலட்சத்தில் இருந்து 50 இலட்சமாக அதிகரிப்பதற்கான மூலோபாய திட்டங்களையும் விளக்கினார்.
+
+...
+
+[Data](articles/da9f0372.json)
+
+---
+
+### Sunshine Holdings to amalgamate Sunshine Packaging
+
+*2024-08-05 02:21:07* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-to-amalgamate-Sunshine-Packaging/34-765156) · `en`
+
+The Board of Directors of Sunshine Holdings PLC has resolved to amalgamate with its fully owned subsidiary Sunshine Packaging Lanka Ltd.
+
+This amalgamation will be carried out in terms of section 242 (1) of the Companies Act No. 7 of 2007 and the amalgamation is expected to take effect on 1 October 2024.
+
+By the terms of this amalgamation, Sunshine Holdings PLC will amalgamate all assets and liabilities of Sunshine Packaging Lanka Ltd., and the amalgamated company will be Sunshine Holdings PLC.
+
+The current Directors of Sunshine Holdings PLC will remain as directors of the amalgamated company after the amalgamation.
+
+◼️
+
+[Data](articles/90a25316.json)
+
+---
+
+### Adani Power announces Q1 performance
+
+*2024-08-05 02:13:46* · [`dailyftlk`](https://www.ft.lk/business/Adani-Power-announces-Q1-performance/34-765155) · `en`
+
+Adani Power Ltd. (“APL”), a part of Adani portfolio companies, recently announced the company’s performance for the first quarter ended 30 June 2024.
+
+...
+
+[Data](articles/211067f1.json)
+
+---
+
+### Kosala Wickramanayake honoured with Japan’s “Order of the Rising Sun, Gold Rays with Rosette”
+
+*2024-08-05 02:11:31* · [`dailyftlk`](https://www.ft.lk/business/Kosala-Wickramanayakehonouredwith-Japan-s-Order-of-the-Rising-Sun-Gold-Rays-with-Rosette/34-765154) · `en`
+
+Ambassador of Japan to Sri Lanka Mizukoshi Hideaki last week conferred the “Order of the Rising Sun, Gold Rays with Rosette” on Kosala Rohana Wickramanayake, former President of the Lanka Japan Friendship Society and former President of the Federation of Chambers of Commerce and Industry of Sri Lanka, in recognition of his outstanding contribution to promoting friendly relations, mutual understanding and economic exchange between Japan and Sri Lanka.
+
+Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepening friendly relations and promoting mutual understanding between Japan and Sri Lanka, particularly during his tenure as President of the Lanka Japan Friendship Society in 2011-2012.
+
+...
+
+[Data](articles/86d4311b.json)
+
+---
 
 ### Kandy Organizer Durai Mathiyagaraja
 
@@ -2169,137 +2285,5 @@ Parliamentarian Rohitha Abeygunawardena said he will give his support to Preside
 [Data](articles/b2b648fb.json)
 
 [Extended Data](ext_articles/b2b648fb.ext.json)
-
----
-
-### 22 injured as two buses collide head-on
-
-*2024-08-04 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100982/22-injured-as-two-buses-collide-head-on) · `en`
-
-As many as 22 individuals have been injured and hospitalized after two private passenger buses collided head-on on the Maha Oya – Aralaganwila road.
-
-Police said that the accident took place yesterday (03) as a private bus travelling towards Aralaganwila collided with another bus that came from the opposite direction.
-
-The injured individuals include 12 females, 2 males and 8 children, and they were admitted to Maha Oya Hospital for treatment, the police said.
-
-The driver of one of the buses involved in the accident has been arrested and Maha Oya Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/75679acd.json)
-
-[Extended Data](ext_articles/75679acd.ext.json)
-
----
-
-### Rohitha also changed
-
-*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவும்-மாறினார்/175-341552) · `ta`
-
-Rohitha Abeygunawardena, Sri Lanka's Kalutara District Parliamentarian, announced his support for President Ranil Wickremesinghe in the forthcoming presidential election.
-
-🟩
-
-Sri Lanka PA's Kalutara District Parliamentarian Rohitha Abeygunawardena has said that he will support President Ranil Wickremesinghe in the upcoming presidential election.
-
-◼️
-
-[Data](articles/357472ff.json)
-
-[Extended Data](ext_articles/357472ff.ext.json)
-
----
-
-### Hohita also changed
-
-*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோஹிதவும்-மாறினார்/175-341552) · `ta`
-
-Rohitha Abeygunawardena, a Sri Lanka PA's Kalutara District Parliamentarian, announced his support for President Ranil Wickremesinghe in the upcoming presidential election.
-
-🟩
-
-Sri Lanka PA's Kalutara District Parliamentarian Rohitha Abeygunawardena has said that he will support President Ranil Wickremesinghe in the upcoming presidential election.
-
-◼️
-
-[Data](articles/9c565a17.json)
-
-[Extended Data](ext_articles/9c565a17.ext.json)
-
----
-
-### SLPP’s National Convenor Rohitha also pledges support to Ranil
-
-*2024-08-04 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100981/slpps-national-convenor-rohitha-also-pledges-support-to-ranil) · `en`
-
-The National Convenor of the Sri Lanka Podujana Peramuna (SLPP), MP Rohitha Abeygunawardena says that he will extend his support to President Ranil Wickremesinghe at the upcoming Presidential Election, bowing to the wishes of the people in his constituency.
-
-Speaking at an event held today (04), Abeygunawardena also stated that there are no permanent friends or permanent enemies in politics.
-
-“The true political rival we have, or the political enemy in your language, is the JVP and the SJB. So, we cannot stand for them or with them”, he added.
-
-◼️
-
-[Data](articles/3b4a4d28.json)
-
-[Extended Data](ext_articles/3b4a4d28.ext.json)
-
----
-
-### Rohitha's support to Ranil
-
-*2024-08-04 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199544) · `si`
-
-Rohitha Abeygunawardena, the National Convener of the Sri Lanka Crowd, supports Ranil Wickremesinghe for the upcoming presidential election. He questioned the JVP's approach and expressed his readiness to back Wickremesinghe as the future president.
-
-🟩
-
-The National Convener of the Sri Lanka General Assembly (National Convener) of the Sri Lanka Crowd Rohitha Abeygunawardena has decided to support Ranil Wickremesinghe in the next presidential election.
-
-Speaking to the media today (04), the MP said.
-
-"Does the JVP go to the JVP to take the way to the country? Will you judge the country on the 22nd?I am preparing for the president of Ranil Wickremesinghe, Ranil Wickremesinghe and the President of Ranil Wickremesinghe. "
-
-◼️
-
-[Data](articles/0c9a4372.json)
-
-[Extended Data](ext_articles/0c9a4372.ext.json)
-
----
-
-### Surviving strategies
-
-*2024-08-04 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190217) · `ta`
-
-Strategies involve waiting and observation as the PA assesses support for Ranil Wickremesinghe, avoiding elections and compromising with Rajapaksa.
-
-🟩
-
-Waiting and observing. The PA is planning to field the candidate for notice how many people are sticking with Ranil Wickremesinghe. Ranil Wickremesinghe does not want to have an election nest or compromise with Rajapaksa.
-
-◼️
-
-[Data](articles/76f1af31.json)
-
-[Extended Data](ext_articles/76f1af31.ext.json)
-
----
-
-### Attack on a Russian submarine from Ukraine
-
-*2024-08-04 11:44:36* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේනයෙන්-රුසියානු-සබ්මැරීනයකට-ප්‍රහාරයක්/11-411181) · `si`
-
-Ukraine reportedly damaged a Russian submarine off the Crimean coast, using an anchor, according to foreign media.
-
-🟩
-
-The Ukrainian army has ruined a Russian submarine. Foreign media reports, the submarine has been destroyed by an anchor of the Crimean Peninsula.
-
-◼️
-
-[Data](articles/06727094.json)
-
-[Extended Data](ext_articles/06727094.ext.json)
 
 ---

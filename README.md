@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 21:20:51**
+As of **2024-08-04 21:36:00**
 
 ## Newspaper Stats
 
-*Scraped **38,957** Articles*
+*Scraped **38,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
-adalk | 3,572
+adalk | 3,573
 adaderanalk | 4,518
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,862
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,957 (100.0%) of 38,957 articles have been extended.
+38,957 (100.0%) of 38,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -207,6 +207,24 @@ For 16 years, a group has fought for justice after their son was abducted by sta
 [Data](articles/3b190cf6.json)
 
 [Extended Data](ext_articles/3b190cf6.ext.json)
+
+---
+
+### කොන්දේසි කිහිපයකට යටත්ව මුස්ලිම් කොංග්‍රසයේ සහාය සජිත්ට දීමට තීරණයක්
+
+*2024-08-04 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/කොන්දේසි-කිහිපයකට-යටත්ව-මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට-දීමට-තීරණයක්/11-411190) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී කොන්දේසි කිහිපයකට යටත්ව ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහය විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ලබාදීමට තීරණය කළ බව එහි නායක පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතා පැවසීය.
+
+පක්ෂයේ උත්තරීතර මණ්ඩලය ගත් තීරණයකට අනුව මෙලෙස විපක්ෂනායකවරයාට ජනාධිපතිවරණයේදී සහය පළ කරන බව (04දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී රවුෆ් හකීම් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"අද දින අප පක්ෂයේ උත්තරීතර මණ්ඩලය රුස්වෙලා දීර්ඝ සාකච්ඡාවක් කළා. මින් ඉදිරියට ජනාධිපති ලෙස පත්වන අපෙක්ෂකතුමාගෙන් අපි බලාපොරොත්තු වෙන නොයෙකුත් කොන්දේසි පිළිබඳවත් සාතච්ඡා කළා. ඒ කොන්දේසි වලට යටත්ව, ඒ කොන්දේසි වලට එකඟ වෙනවා නම් අපේ උත්තරීතර මණ්ඩලයේ ඒකමතික තීරණය වුණේ සජිත් ප්‍රේමදාස මහතාට සහය දිය යුතුයි කියලා. මම එතුමා සමග ඉදිරි පැය 42ක් වගේ කාලය තුළ සාකච්ඡාවේ යෙදෙනවා."
+
+◼️
+
+[Data](articles/d29cb29e.json)
 
 ---
 
@@ -2265,35 +2283,5 @@ He further said that there was an ancient era that had a past settlement period 
 [Data](articles/6dcb089a.json)
 
 [Extended Data](ext_articles/6dcb089a.ext.json)
-
----
-
-### Twenty including artists who were arrested in Kuut and released
-
-*2024-08-04 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199539) · `si`
-
-In Kuut, 20 individuals, including artists like Indrachapa Liyanage and bands such as Orthi Vetter, were arrested for holding a concert without proper permission but later released due to the Sri Lankan embassy's intervention.
-
-🟩
-
-Sri Lankans, including singers who were arrested on Kavut, has been released.
-
-The provincial affairs Ministry said that the people were released on the intervention of the Sri Lankan embassy in the country.
-
-26 persons including Indrachapa Liyanage, Samanali Fonseka, Jolly Fonseka and 26 were arrested by Kavet Police on the 2nd.
-
-They were arrested when a concert was scheduled to be held by the Organization 'Orthi Vetter'.
-
-They were arrested because of not getting proper permission for the concert.
-
-Accordingly, the band and the band has been taken into police custody in addition to singers.
-
-However, 24 of them were released last night on the intervention of officers at the Sri Lankan Embassy in Kavut last night.
-
-◼️
-
-[Data](articles/39c70d26.json)
-
-[Extended Data](ext_articles/39c70d26.ext.json)
 
 ---

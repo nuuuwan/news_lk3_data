@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 15:54:37**
+As of **2024-08-04 16:06:56**
 
 ## Newspaper Stats
 
-*Scraped **38,907** Articles*
+*Scraped **38,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
 islandlk | 2,239
-economynextcom | 2,350
+economynextcom | 2,351
 dailyftlk | 2,494
-adalk | 3,566
+adalk | 3,567
 adaderanalk | 4,511
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,850
-virakesarilk | 6,153
+tamilmirrorlk | 4,851
+virakesarilk | 6,155
 adaderanasinhalalk | 6,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,907 (100.0%) of 38,907 articles have been extended.
+38,907 (100.0%) of 38,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### புலிகளின் முடிவு தவறா?
+
+*2024-08-04 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/190248) · `ta`
+
+சிங்கள மக்களைப் பிரதிநிதித்துவம் செய்யும் இரண்டு தரப்புகளே,  நீண்டநாட்கள் ஒருமித்து செயற்பட முடியாமல் இருக்கும்போது- ஒருமித்த பாதையில் பயணிக்க முடியாமல் இருக்கும்போது - ஒருவரை மற்றவர் பலவீனப்படுத்த முடியாமல் இருக்கும்போது - இரு வேறு இனங்களையும் அவற்றின் நலன்களையும் பிரதிநிதித்துவம் செய்யும்,  தரப்புக்களால் எவ்வாறு, ஒன்றுபட்டுப் பயணித்திருக்க  முடியும் என்ற கேள்வி நியாயமானதல்லவா? அன்றைய சூழலையும் இன்றைய சூழலையும் பொருத்திப் பார்க்கின்ற எவராலும், அன்று விடுதலைப் புலிகள் எடுத்த முடிவை தவறானதாக கொள்ள முடியாது.
+
+◼️
+
+[Data](articles/cf3eb229.json)
+
+---
+
+### ” பால் குடிக்க மறுத்ததால் திருகினேன் ”
+
+*2024-08-04 15:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பால்-குடிக்க-மறுத்ததால்-திருகினேன்/71-341562) · `ta`
+
+குழந்தை பால் குடிக்க மறுத்து அடம்பிடித்ததால் , குழந்தையின் கைகால்களை திருகியதாக தாயார் ஆரம்ப கட்ட விசாரணைகளில் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம் அளவெட்டி பகுதியை சேர்ந்த சசிரூபன் நிகாஸ் என்ற ஒன்றரை மாத குழந்தை உயிரிழந்த சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த நிலையில் குழந்தையின் தாயார், " குழந்தை பால் குடிக்க மறுப்பதால் , கைகள் கால்களை திருகினேன். ஆனால் எனது குழந்தையை நான் கொலை செய்யவில்லை" என தெரிவித்துள்ளார்.
+
+பொலிஸார் தாயை கைது செய்துள்ளதுடன் குழந்தையின் தந்தையையும் , குழந்தையை பராமரிக்க வீட்டிற்கு வந்து சென்ற பெண்ணொருவரையும் பொலிஸ் காவலில் வைத்து விசரணைகளை முன்னெடுத்துள்ளனர்.
+
+மேலும் , குழந்தையின் உடற்கூற்று பரிசோதனை அறிக்கை நீதிமன்றில் பாரப்படுத்திய பின்னர் , நீதிமன்ற உத்தரவின் பேரில் குழந்தையின் சடலம் ஒப்படைக்கப்படும் என தெரிவிக்கப்படுகிறது
+
+◼️
+
+[Data](articles/477a963e.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர்களின் பிரச்சார உத்திகள் எடுபடுமா?
+
+*2024-08-04 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190247) · `ta`
+
+இலங்கை வரலாற்றில் மக்கள் மத்தியில் பிரபலமாக உலா வந்த அரசியல் தலைவர்களில் முத்திரை பதித்தவர்களாக எஸ்.டபிள்யூ. ஆர்.டி.பண்டாரநாயக்க, ஜே.ஆர்.ஜெயவர்த்தன, ஆர்.பிரேமதாச, சந்திரிகா பண்டாரநாயக்க,  அதன் பின்னர்  மஹிந்த ராஜபக்ஷ ஆகியோரை கூறலாம். மைத்ரிபால சிறிசேனவும் கோட்டாபய ராஜபக்ஷவும் தமது பலகீனமான நிர்வாக செயற்பாடுகளில் மிகவும் வெறுக்கத்தக்க தலைவர்களாக மக்கள் மத்தியில் கணிக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/8b8dfa64.json)
+
+---
 
 ### A minor father was sentenced to 60 years in prison
 
@@ -183,6 +225,18 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
 [Data](articles/f64a66ef.json)
 
 [Extended Data](ext_articles/f64a66ef.ext.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-08-04 14:10:52* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-411184) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවැත්වෙන දෙවැනි එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය හිමි කර ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක මීට සුළු මොහොතකට පෙර සමත් විය.
+
+◼️
+
+[Data](articles/5e70aa5c.json)
 
 ---
 
@@ -459,6 +513,26 @@ Namal Rajapaksa's wrong work was to sacrifice life that day. It was because we h
 [Data](articles/59c21ad2.json)
 
 [Extended Data](ext_articles/59c21ad2.ext.json)
+
+---
+
+### Sri Lanka’s central bank mops up Rs546bn made from forex purchases to June 2024
+
+*2024-08-04 12:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-mops-up-rs546bn-made-from-forex-purchases-to-june-2024-175153/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has mopped up 546 billion rupees of domestic money, out of a total of 578.5 billion rupees created by the purchase of foreign exchange in the six months to June 2024, official data showed.
+
+The central bank had generated 538.1 billion rupees from forex purchases from the market, a Market Operations Report showed.
+
+The central bank had also generated 40.4 billion rupees net from buying official foreign loan proceeds after settling any loans.
+
+Analysts had warned that one of the ways the rupee is pressured by the deeply flawed operational framework of an IMF-prone central bank is through the surrender by the Treasury of its dollar receipts, creating new money.
+
+Government surrenders have a devastating effect on the currency, when the exchange rate is already under pressure, driving up credit and requiring an even greater contraction of the economy to end any external crisis triggered by mis-targeted short term rates, analysts have said.
+
+...
+
+[Data](articles/da42feb8.json)
 
 ---
 
@@ -2149,129 +2223,5 @@ In addition, the Election Commission says it is planning to field a significant 
 [Data](articles/0a26bd8b.json)
 
 [Extended Data](ext_articles/0a26bd8b.ext.json)
-
----
-
-### Singapore to recruit more nurses from Sri Lanka
-
-*2024-08-03 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100972/singapore-to-recruit-more-nurses-from-sri-lanka) · `en`
-
-The Minister of Health of Singapore Ong Ye Kung states that Singapore is looking to recruit more nurses from Sri Lanka.
-
-During a meeting held at the Ministry of Health of Singapore recently with High Commissioner of Sri Lanka in Singapore Senarath Dissanayake, the Singapore Health Minister has advised the ministry officials to connect SingHealth with the High Commission of Sri Lanka to discuss further the continuity and expansion of collaborative projects in Sri Lanka.
-
-The Minister has also proposed further discussions with the Sri Lankan Ministry of Health on exchanging medical professionals, sharing best practices, and arranging capacity-building initiatives for Sri Lankan healthcare professionals.
-
-The Sri Lankan High Commissioner has further discussed with the Minister of Health of Singapore Ong Ye Kung, the opportunities for cooperation in the health sector between the two countries.
-
-...
-
-[Data](articles/33260fb3.json)
-
-[Extended Data](ext_articles/33260fb3.ext.json)
-
----
-
-### Sri Lanka named Sri Lanka to go to Ireland
-
-*2024-08-03 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199529) · `si`
-
-Sri Lanka's women's cricket team, led by Chamari Atapattu, will tour Ireland for two T20s and three ODIs. The squad includes Himi Gunaratne, Hashayi Prabhai, Sugandika Mary, Sugandika Kumari, Shashi Fernando, and four Kaushinis. The team is set to depart on June 6th, with the Minister of Sports and Youth approving the selection.
-
-🟩
-
-The 16 member squad for the Irish match tour of the Sri Lanka women's cricket has been declared today (3) afternoon.
-
-The Minister of Sports and Youth Fernando has approved the squad of Chamari Atapattu.
-
-The Sri Lanka-Ireland match consisted of two T20 matches and three ODIs and Sri Lanka (Asian) Sri Lanka is due to leave for Ireland on the 6th of this month.
-
-Chamari Atapattu (Leader), Himi Gunaratne, Hashayi Prabhai, Sugandika Mary, Sugandika Kumari, Shashi Fernando, Kausini Sachhanda, Kausini Sachhanda, Kausini Siranike, Kausini Sanashi.
-
-◼️
-
-[Data](articles/55349e31.json)
-
-[Extended Data](ext_articles/55349e31.ext.json)
-
----
-
-### More information about the terrible accident on the parliamentary road
-
-*2024-08-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199528) · `si`
-
-A tragic accident near Parliament's army monument killed a 16-year-old boy and injured two others. The incident, caused by high-speed driving, occurred around 10:30 am today. The car swerved across the road; one occupant was filming the driver moments before. The Talangama Police are investigating.
-
-🟩
-
-A young man was killed and two others were injured in a fatal accident.
-
-The deceased is a 16 year old man and the heavy speed of the car is the cause of the vehicle.
-
-The accident occurred at around 10.30 this morning in front of the army monument of Parliament.
-
-The car had a noted that the car was coming up and traveled to the other side of the road.
-
-One was shooting on a mobile phone how the car drives the car driver before the accident.
-
-Four persons in the car have traveled and one of them have been killed and two others.
-
-The Talangama Police have taken steps to the police.
-
-The victim was a postgraduate agency in the University of Colombo and a woman was injured.
-
-◼️
-
-[Data](articles/e9fdc7e7.json)
-
-[Extended Data](ext_articles/e9fdc7e7.ext.json)
-
----
-
-### Warning to budget party supported by president
-
-*2024-08-03 18:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ஆதரவளித்த-மொட்டு-கட்சியினருக்கு-எச்சரிக்கை/175-341505) · `ta`
-
-The Sri Lanka Peoples Freedom Alliance (PA) faces internal dissent over a unanimous decision, with a faction backing Ranil Wickremesinghe for presidency despite the party's stance. The Secretary General confirmed the resolution, but the Fisheries Minister defended their support for the President, citing his service to the nation.
-
-🟩
-
-The Sri Lanka Peoples Freedom Alliance (PA) has said that the members of the Sri Lanka PA are against the resolutions of the party.
-
-The resolution, which was unanimously taken in the PA's party, was signed by its Secretary General Sakara Kariyawasam.
-
-It has been reported that a group of party party has decided to support Ranil Wickremesinghe in the upcoming presidential election and action has been taken.
-
-Minister of Fisheries and Minister of State for Fisheries, who received the letter, said, “We are not afraid of any letter.. We have made these decisions because of the service provided by the President to this country. ”. Remble
-
-◼️
-
-[Data](articles/a4521416.json)
-
-[Extended Data](ext_articles/a4521416.ext.json)
-
----
-
-### Ranil's buds
-
-*2024-08-03 18:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டு-வாங்கிய-ரணில்-மொட்டுகள்/175-341505) · `ta`
-
-A faction within the Sri Lanka Peoples Freedom Alliance opposes its own resolutions, led by Secretary General Sakara Kariyawasam. Despite internal dissent, a group supports Ranil Wickremesinghe for president, citing his service to the nation. The Ministers of Fisheries and State for Fisheries affirm their stance, unafraid of backlash.
-
-🟩
-
-The Sri Lanka Peoples Freedom Alliance (PA) has said that the members of the Sri Lanka PA are against the resolutions of the party.
-
-The resolution, which was unanimously taken in the PA's party, was signed by its Secretary General Sakara Kariyawasam.
-
-It has been reported that a group of party party has decided to support Ranil Wickremesinghe in the upcoming presidential election and action has been taken.
-
-Minister of Fisheries and Minister of State for Fisheries, who received the letter, said, “We are not afraid of any letter.. We have made these decisions because of the service provided by the President to this country. ”. Remble
-
-◼️
-
-[Data](articles/b0395a9f.json)
-
-[Extended Data](ext_articles/b0395a9f.ext.json)
 
 ---

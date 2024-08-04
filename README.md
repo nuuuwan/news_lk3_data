@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 09:06:37**
+As of **2024-08-04 09:20:58**
 
 ## Newspaper Stats
 
@@ -26,51 +26,63 @@ adaderanasinhalalk | 6,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,847 (100.0%) of 38,850 articles have been extended.
+38,850 (100.0%) of 38,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### කුවෙට්හිදී අත්අඩංගුවට ගත් කලාකරුවන් ඇතුළු 24 දෙනා නිදහස් කෙරේ
+### Twenty including artists who were arrested in Kuut and released
 
 *2024-08-04 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199539) · `si`
 
-කුවෙට්හි දී පසුගිය 2 වනදා අත්අඩංගුවට ගත් ගායක ගායිකාවන් ඇතුළු ශ්‍රී ලාංකිකයින් පිරිස නිදහස් කර තිබේ.
+In Kuut, 20 individuals, including artists like Indrachapa Liyanage and bands such as Orthi Vetter, were arrested for holding a concert without proper permission but later released due to the Sri Lankan embassy's intervention.
 
-එරට පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයේ මැදිහත්වීම මත එම පිරිස ඊයේ (03) රාත්‍රී කාලයේ නිදහස් කර ගැනීමට හැකි වූ බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-ඉන්ද්‍රචාපා ලියනගේ, සමනලී ෆොන්සේකා, ජොලි සීයා සහ උපේකා නිර්මාණි ඇතුළු 26 දෙනෙකු පසුගිය 2 වනදා කුවෙට් පොලීසිය මගින් අත්අඩංගුව ගෙන තිබුණි.
+Sri Lankans, including singers who were arrested on Kavut, has been released.
 
-'එතෙර අපි' නැමැති සංවිධානය මගින් පැවැත්වීමට නියමිතව තිබු ප්‍රසංගයක් සඳහා සහභාගී වූ අවස්ථාවේ එම පිරිස අත්අඩංගුවට ගෙන තිබුණි.
+The provincial affairs Ministry said that the people were released on the intervention of the Sri Lankan embassy in the country.
 
-එලෙස ඔවුන් අත්අඩංගුවට ගෙන ඇත්තේ එම ප්‍රසංගය සඳහා නිසි අවසරයක් ලබා නොගැනීම හේතුවෙනි.
+26 persons including Indrachapa Liyanage, Samanali Fonseka, Jolly Fonseka and 26 were arrested by Kavet Police on the 2nd.
 
-ඒ අනුව ගායක ගායිකාවන්ට අමතරව එම ප්‍රසංගයට පැමිණි සංගීත කණ්ඩායම සහ එය සංවිධානය කළ පිරිස මෙන්ම සංගීත කණ්ඩායමේ වාදන භාණ්ඩ ද පොලිස් භාරයට ගෙන ඇති බව වාර්තා වෙයි.
+They were arrested when a concert was scheduled to be held by the Organization 'Orthi Vetter'.
 
-කෙසේවෙතත් කුවෙට්හි පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයේ නිලධාරීන්ගේ මැදිහත් වීම මත ඊයේ රාත්‍රී මෙම පිරිසෙන් 24 දෙනෙකු නිදහස් කරගෙන ඇති අතර සංවිධායක මණ්ඩලයේ දෙදෙනෙකු තවදුරටත් පොලිස් අත්අඩංගුවේ සිටින බව විදේශ කටයුතු අමාත්‍යංශය පැවසීය.
+They were arrested because of not getting proper permission for the concert.
+
+Accordingly, the band and the band has been taken into police custody in addition to singers.
+
+However, 24 of them were released last night on the intervention of officers at the Sri Lankan Embassy in Kavut last night.
 
 ◼️
 
 [Data](articles/39c70d26.json)
 
+[Extended Data](ext_articles/39c70d26.ext.json)
+
 ---
 
-### උතුරු නැගෙනහිර දේශපාලන පක්ෂ කිහිපයක් ජනපතිගේ සහායට
+### Several political parties in the North and East
 
 *2024-08-04 08:34:32* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-නැගෙනහිර-දේශපාලන-පක්ෂ-කිහිපයක්-ජනපතිගේ-සහායට/11-411178) · `si`
 
-උතුරු සහ නැගෙනහිර පළාත් මෙන්ම සමස්ත රටම එක ලෙස සංවර්ධනය කරා ගෙන යාමේ පුළුල් දැක්මක් හා වැඩපිළිවෙළක් ඇති එකම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බැවින් ඉදිරි ජනාධිපතිවරණයේ දී එතුමාගේ ජයග්‍රහණය තහවුරු කිරීමට කැපවන බව ඊපිඩීපි පක්ෂයේ නායක අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා පැවසීය.
+Leaders from several political parties in the North and East have expressed support for President Ranil Wickremesinghe, highlighting his leadership and development plans for the region. Wickremesinghe met with party activists, promising economic recovery and unity. His presence at meetings across the region underscores his commitment to national unity and economic growth.
 
-යාපනයේ සංචාරයක නිරත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යාපනය පිහිටි ඊපීඩීපි පක්ෂයේ ප්‍රධාන කාර්යලයේ දී එම පක්ෂයේ ක්‍රියාකාරින් සමඟ හමුවකට එක් වූ අතර එහිදී ඩග්ලස් දේවානන්දා මහතා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-මේ අතර දෙමළ ප්‍රගතිශීලි සංගමයේ නායක රාජ්‍ය අමාත්‍ය එස්. වියාලේන්ද්‍රන් මහතා විසින් මඩකලපුවේ දී සංවිධානය කර තිබු හමුවකට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක් විය.
+The leader of the EPDP Wickremesinghe said that President Ranil Wickremesinghe is the only leader and the sovereign vision and a program to develop the North and the East as one of the whole residents and the entire presidential election.
 
-රට අනතුරට පත්වු අවස්ථාවේ රටත්, ජනතාවත් බේරා ගැනීමට නිර්භීතව ඉදිරිපත් වූ ජනාධිපතිවරයාට රට ඉදිරියේ ඇති අනෙකුත් අභියෝග ජයග්‍රහණය කිරීමේ ශක්තිය ද ඇති බව පෙන්වා දුන් එස්. වියාලේන්ද්‍රන් මහතා මෙවර ජනාධිපතිවරණයේ දී එතුමාට පූර්ණ සහාය පළ කරන බව කියා සිටියේය.
+President Ranil Wickremesinghe was a meeting with the party activist in the Chief of the EPDupi party in Jaffna, he said.
+
+Meanwhile, the leader of the Tamil Progressive Union Leader of the Government Minister S. President Ranil Wickremesinghe was also present at the meeting of the Dakumraran in Batticaloa.
+
+The SHOs pointed out that the President who was boldly presented to the rescue of the country and the people who were boundled by the people who were braveled to save the country and the people were in danger when the country was in danger. Dears Mr. Dakighteran said he would fully support him in the presidential election.
 
 ...
 
 [Data](articles/c2a1f6e8.json)
+
+[Extended Data](ext_articles/c2a1f6e8.ext.json)
 
 ---
 
@@ -93,6 +105,8 @@ Furthermore, police revealed that a 54-year-old woman and her 17-year-old daught
 ...
 
 [Data](articles/1fdf9b43.json)
+
+[Extended Data](ext_articles/1fdf9b43.ext.json)
 
 ---
 

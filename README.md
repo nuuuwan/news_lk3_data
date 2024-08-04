@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 16:06:56**
+As of **2024-08-04 16:20:39**
 
 ## Newspaper Stats
 
-*Scraped **38,912** Articles*
+*Scraped **38,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,119 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,567
-adaderanalk | 4,511
+adaderanalk | 4,512
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,851
 virakesarilk | 6,155
-adaderanasinhalalk | 6,573
+adaderanasinhalalk | 6,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,907 (100.0%) of 38,912 articles have been extended.
+38,912 (100.0%) of 38,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### புலிகளின் முடிவு தவறா?
+### උපාය මාර්ගික වැඩපිළිවෙළක වැදගත්කම ජනපති කියයි
+
+*2024-08-04 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199553) · `si`
+
+රටේ ආර්ථිකය ස්ථාවර කිරීමට රජය ආරම්භ කළ උපායමාර්ගික වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට පවත්වාගෙන නොගියහොත් නැවත පෝලිම් යුගයකට මුහුණ දීමට සිදුවනු ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මඩකලපුව දිස්ත්‍රික්කයේ වෘත්තීයවේදීන් සමග පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා පෙන්වා දුන්නේ එම තත්ත්වය වළක්වා ගැනීම සියළු වෘත්තීයවේදීන්ගේ වගකීම වනු ඇති බවය.
+
+මෙම හමුව සඳහා වෛද්‍යවරුන්, ඉංජිනේරුවරුන්, කාන්තා සංවිධාන, වෙළඳ සංගම් හා රාජ්‍ය නොවන සංවිධානවල නියෝජිතයින් ඇතුළු විශාල පිරිසක් එක්ව සිට තිබේ.
+
+ඓතිහාසික වැදගත්කමකින් යුත් මඩකලපුව සහ ත්‍රිකුණාමල දිස්ත්‍රික්කයේ විභවතා හඳුනා ගනිමින් එහි සංවර්ධනයට රජය ආරම්භ කර ඇති වැඩපිළිවෙළ පිළිබඳව ද මෙහිදී ජනාධිපතිවරයා විසින් පැහැදිලි කර තිබේ.
+
+◼️
+
+[Data](articles/33a5c2db.json)
+
+---
+
+### India seeks duty concession on cars, commercial vehicles, machinery in FTA with Sri Lanka
+
+*2024-08-04 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100987/india-seeks-duty-concession-on-cars-commercial-vehicles-machinery-in-fta-with-sri-lanka) · `en`
+
+India is seeking customs duty concession on a number of goods including cars, commercial vehicles and machinery from Sri Lanka under a comprehensive free trade agreement (FTA), talks for which are underway, an official said.
+
+India has also sought easier visa norms to further facilitate entry of professionals from here, the official said.
+
+The 14th round of talks between senior officials of India and Sri Lanka was concluded recently in Colombo.
+
+Issues which came up for the talks included rules of origin, goods, services, and technical barriers for trade.
+
+On the other hand, Sri Lanka has sought removal of a quota on apparel exports to India. The island nation is also asking for duty concessions on tea and certain agricultural commodities.
+
+The official said that as elections are announced in Sri Lanka, the next round of negotiations between the two countries will be held after that.
+
+...
+
+[Data](articles/ebe87e67.json)
+
+---
+
+### Is the LTTE's decision wrong?
 
 *2024-08-04 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/190248) · `ta`
 
-சிங்கள மக்களைப் பிரதிநிதித்துவம் செய்யும் இரண்டு தரப்புகளே,  நீண்டநாட்கள் ஒருமித்து செயற்பட முடியாமல் இருக்கும்போது- ஒருமித்த பாதையில் பயணிக்க முடியாமல் இருக்கும்போது - ஒருவரை மற்றவர் பலவீனப்படுத்த முடியாமல் இருக்கும்போது - இரு வேறு இனங்களையும் அவற்றின் நலன்களையும் பிரதிநிதித்துவம் செய்யும்,  தரப்புக்களால் எவ்வாறு, ஒன்றுபட்டுப் பயணித்திருக்க  முடியும் என்ற கேள்வி நியாயமானதல்லவா? அன்றைய சூழலையும் இன்றைய சூழலையும் பொருத்திப் பார்க்கின்ற எவராலும், அன்று விடுதலைப் புலிகள் எடுத்த முடிவை தவறானதாக கொள்ள முடியாது.
+The LTTE's decision was based on the complex dynamics between the Sinhalese and Tamil communities, where unity among Sinhalese factions hindered progress towards addressing Tamil interests. The LTTE aimed to represent Tamil rights amidst this challenging environment, making its decisions contextually justified within the historical and political backdrop of the time.
+
+🟩
+
+When the two sides representing the Sinhalese people, when they are united for a long time - are not able to travel on the unity - when one is unable to weaken the other - is the question of how to represent two other races and their interests, and how it can be united by the parties?Anyone who matches the environment and today's environment cannot be wronged by the LTTE's decision on that day.
 
 ◼️
 
 [Data](articles/cf3eb229.json)
 
+[Extended Data](ext_articles/cf3eb229.ext.json)
+
 ---
 
-### ” பால் குடிக்க மறுத்ததால் திருகினேன் ”
+### "I refused to drink milk"
 
 *2024-08-04 15:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பால்-குடிக்க-மறுத்ததால்-திருகினேன்/71-341562) · `ta`
 
-குழந்தை பால் குடிக்க மறுத்து அடம்பிடித்ததால் , குழந்தையின் கைகால்களை திருகியதாக தாயார் ஆரம்ப கட்ட விசாரணைகளில் தெரிவித்துள்ளார்.
+A child's refusal to drink milk led to an investigation into its death, involving the arrest of the mother, father, and a caretaker. The child's body will be released upon completing an autopsy.
 
-யாழ்ப்பாணம் அளவெட்டி பகுதியை சேர்ந்த சசிரூபன் நிகாஸ் என்ற ஒன்றரை மாத குழந்தை உயிரிழந்த சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த நிலையில் குழந்தையின் தாயார், " குழந்தை பால் குடிக்க மறுப்பதால் , கைகள் கால்களை திருகினேன். ஆனால் எனது குழந்தையை நான் கொலை செய்யவில்லை" என தெரிவித்துள்ளார்.
+🟩
 
-பொலிஸார் தாயை கைது செய்துள்ளதுடன் குழந்தையின் தந்தையையும் , குழந்தையை பராமரிக்க வீட்டிற்கு வந்து சென்ற பெண்ணொருவரையும் பொலிஸ் காவலில் வைத்து விசரணைகளை முன்னெடுத்துள்ளனர்.
+The mother said in an early inquiry that the baby had refused to drink milk and had twisted the baby's legs.
 
-மேலும் , குழந்தையின் உடற்கூற்று பரிசோதனை அறிக்கை நீதிமன்றில் பாரப்படுத்திய பின்னர் , நீதிமன்ற உத்தரவின் பேரில் குழந்தையின் சடலம் ஒப்படைக்கப்படும் என தெரிவிக்கப்படுகிறது
+Sasirupan Nikas, a native of Alavetti, Jaffna, was carrying out an investigation into the death of a child and a child, saying, "The child's mother refused to drink milk.. But I did not kill my child. ”
+
+The mother has arrested the mother and the child's father and a woman who came home to care for the baby have been carried out in police custody.
+
+In addition, the body of the child will be handed over to the court order after the child's anatomical examination report.
 
 ◼️
 
 [Data](articles/477a963e.json)
 
+[Extended Data](ext_articles/477a963e.ext.json)
+
 ---
 
-### ஜனாதிபதி வேட்பாளர்களின் பிரச்சார உத்திகள் எடுபடுமா?
+### Will the presidential candidates take the propaganda strategies?
 
 *2024-08-04 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190247) · `ta`
 
-இலங்கை வரலாற்றில் மக்கள் மத்தியில் பிரபலமாக உலா வந்த அரசியல் தலைவர்களில் முத்திரை பதித்தவர்களாக எஸ்.டபிள்யூ. ஆர்.டி.பண்டாரநாயக்க, ஜே.ஆர்.ஜெயவர்த்தன, ஆர்.பிரேமதாச, சந்திரிகா பண்டாரநாயக்க,  அதன் பின்னர்  மஹிந்த ராஜபக்ஷ ஆகியோரை கூறலாம். மைத்ரிபால சிறிசேனவும் கோட்டாபய ராஜபக்ஷவும் தமது பலகீனமான நிர்வாக செயற்பாடுகளில் மிகவும் வெறுக்கத்தக்க தலைவர்களாக மக்கள் மத்தியில் கணிக்கப்பட்டனர்.
+Presidential candidates like S.W.R.D. Pandaranaike, JR Jayawardena, R. Premadasa, Chandrika Bandaranaike, and Mahinda Rajapaksa have been known to use propaganda strategies. More recently, Maithripala Sirisena and Gotabhaya Rajapakse have been criticized for their poor leadership due to administrative inefficiencies.
+
+🟩
+
+S.W.. RD Pandaranaike, JR Jayawardena, R. Premadasa, Chandrika Bandaranaike and then Mahinda Rajapaksa can be said. Maithripala Sirisena and Gotabhaya Rajapakse were predicted among the people as the most disgusting leaders in their weak administrative activities.
 
 ◼️
 
 [Data](articles/8b8dfa64.json)
+
+[Extended Data](ext_articles/8b8dfa64.ext.json)
 
 ---
 
@@ -228,15 +286,21 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-08-04 14:10:52* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-411184) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවැත්වෙන දෙවැනි එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය හිමි කර ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක මීට සුළු මොහොතකට පෙර සමත් විය.
+Sri Lanka's captain Charith Asalanka gained an upper hand in the second ODI against India, potentially benefiting his team's performance.
+
+🟩
+
+Sri Lanka captain Charith was able to gain advantage of the second ODI match against the tourist Indian team.
 
 ◼️
 
 [Data](articles/5e70aa5c.json)
+
+[Extended Data](ext_articles/5e70aa5c.ext.json)
 
 ---
 
@@ -533,6 +597,8 @@ Government surrenders have a devastating effect on the currency, when the exchan
 ...
 
 [Data](articles/da42feb8.json)
+
+[Extended Data](ext_articles/da42feb8.ext.json)
 
 ---
 
@@ -2179,49 +2245,5 @@ Five diaspora Tamil organizations, including the World Tamil Organization, the N
 [Data](articles/c5084062.json)
 
 [Extended Data](ext_articles/c5084062.ext.json)
-
----
-
-### Sri Lanka para-tariffs on raw material push up cement costs: Tokyo
-
-*2024-08-03 20:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-para-tariffs-on-raw-material-push-up-cement-costs-tokyo-175151/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s import para-tariffs on clinker, the main imported raw material used by cement grinding plants is subject to multiple para-tariffs at the border, which are also higher than rates for other building materials, Tokyo Cement said.
-
-“…[A] CESS is applied on clinker imports used in cement production,” Tokyo Cement group Managing Director S R Gnanam told shareholders in the annual report.
-
-“This is an unusual exception in which cement is among the few industries where its raw materials for local production are subjected to para-tariffs.”
-
-The Port and Airport Levy, another para-tariff is “applied disproportionately local cement manufacturers, compared to other construction material producers,” he said.
-
-About 22 percent of the bag of cement is made up of taxes and tariffs, he said.
-
-Several types of building materials produced by politically connected businesses are also get import protection to exploit customers, while cement is hit by price controls, observers say.
-
-...
-
-[Data](articles/d9333179.json)
-
-[Extended Data](ext_articles/d9333179.ext.json)
-
----
-
-### In the case of police and military
-
-*2024-08-03 20:11:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-இராணுவத்தினர்-தயார்-நிலையில்/175-341507) · `ta`
-
-Preparation for deploying police officers for election duties is underway, alongside plans by the Election Commission to involve a substantial number of soldiers.
-
-🟩
-
-It is reported that the preparation of information report on sending officers for election obligations has begun.
-
-In addition, the Election Commission says it is planning to field a significant number of soldiers. Remble
-
-◼️
-
-[Data](articles/0a26bd8b.json)
-
-[Extended Data](ext_articles/0a26bd8b.ext.json)
 
 ---

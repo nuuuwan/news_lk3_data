@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 02:54:24**
+As of **2024-08-05 03:05:51**
 
 ## Newspaper Stats
 
-*Scraped **38,987** Articles*
+*Scraped **38,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 370
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,352
-dailyftlk | 2,501
+dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
@@ -26,29 +26,137 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,980 (100.0%) of 38,987 articles have been extended.
+38,987 (100.0%) of 38,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### பிறந்தநாள் கொண்டாட்டத்திற்கு சென்ற இளைஞன் மீது கொடூரத் தாக்குதல்!
+### G.L. announces launch of major political alliance on 8 Aug. to support Sajith Premadasa
 
-*2024-08-05 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190283) · `ta`
+*2024-08-05 02:49:04* · [`dailyftlk`](https://www.ft.lk/news/G-L-announces-launch-of-major-political-alliance-on-8-Aug-to-support-Sajith-Premadasa/56-765162) · `en`
 
-அராலி பகுதியில் 3ஆம் திகதி சனிக்கிழமை நடைபெற்ற பிறந்தநாள் கொண்டாட்டத்திற்கு சென்றுவிட்டு வீடு திரும்பிய இளைஞனை மறித்து கும்பல் ஒன்று வாளை காட்டி மிரட்டியதுடன் கம்பிகளால் தாக்குதலும் நடாத்தியுள்ளது.
+FPC member MP G.L. Peiris says current Govt.’s term will last a mere 46 days
 
-குறித்த இளைஞன் படுகாயம் அடைந்த நிலையில் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார். இச்சம்பவம் குறித்து மேலும் தெரிய வருகையில்,
+Says with only 92 MPs now supporting President Ranil Wickremesinghe, Govt. has lost its simple majority in Parliament
 
-சாவகச்சேரியை சேர்ந்த குறித்த இளைஞனும் அவரது நண்பர்களும் ஹையேஸ் வாகனத்தில் வீடு திரும்பிக் கொண்டிருந்தவேளை, இடையே மறைத்து வாளுடன் வந்த கும்பல் ஒன்று குறித்த இளைஞனை வெளியே இழுத்து மூர்க்கத்தனமாக தாக்குதல் நடத்தியுள்ளது.
+Criticises current administration for what he described as an unprecedented assault on the judiciary
 
-இந்நிலையில் காயமடைந்த இளைஞன் சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று பெறுகின்றார்.
+Accuses President of facilitating widespread fraud and corruption to bolster own political prospects
 
-குறித்த இளைஞன் அராலியை சேர்ந்த யுவதி ஒருவரை காதலித்து வந்தார். இந்தக் காதலுக்கு யுவதியின் தாயாரும் ஆரம்பத்தில் பச்சைக்கொடி காட்டியுள்ளார். அந்த யுவதி கடந்த நான்காம் மாதம் முதல் இளைஞனுடனான தொடர்பை துண்டித்துள்ளார்.
+Freedom People’s Congress member MP Prof. G.L. Peiris has announced that the broadest political alliance in recent times will be formed on 8 August in support of Opposition Leader Sajith Premadasa’s candidacy at the upcoming election.
+
+Addressing a press conference in Colombo, MP Prof. G.L. Peiris said while the current Government’s term will conclude in 46 days, that only 92 MPs are now supporting the President, who was elected with 134 Parliamentary votes. According to Peiris, this reduction in support signifies that the Government has lost its simple majority in Parliament.
 
 ...
 
+[Data](articles/8c079f03.json)
+
+---
+
+### Dilith announced Sarvajana Balaya Presidential Candidate
+
+*2024-08-05 02:46:50* · [`dailyftlk`](https://www.ft.lk/news/Dilith-announced-Sarvajana-Balaya-Presidential-Candidate/56-765161) · `en`
+
+Businessman Dilith Jayaweera has been selected as the Presidential Candidate of the Sarvajana Balaya political alliance for the upcoming Presidential Election.
+
+The announcement was made by National Freedom Front (NFF) leader MP Wimal Weerawansa at the Sarvajana Balaya convention held at the Sugathadasa Indoor Stadium in Colombo yesterday.
+
+Addressing the event, Weerawansa emphasised the need for a political force that is genuinely patriotic and committed to the country. He said as a result, the party’s Executive Council has unanimously decided to nominate Dilith Jayaweera as the alliance’s Presidential Candidate.
+
+The Sarvajana Balaya, a newly formed political coalition launched in May this year, includes Jayaweera’s Mawbima Janatha Party (MJP), MP Wimal Weerawansa’s National Freedom Front (NFF), and MP Udaya Gammanpila’s Pivithuru Hela Urumaya (JHU), among other parties.
+
+...
+
+[Data](articles/e9c82eac.json)
+
+---
+
+### SLPP MPs stand firm in support of President as new district leaders announced
+
+*2024-08-05 02:44:58* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MPs-stand-firm-in-support-of-President-as-new-district-leaders-announced/56-765160) · `en`
+
+SLPP decides to replace district leaders who extended support to President Ranil Wickremesinghe
+
+SLPP’s Kanchana Wijesekera says, despite being stripped of posts, they will not withdraw support for Ranil Wickremesinghe
+
+Claims more MPs are likely to announce decision to support Wickremesinghe in coming days
+
+Urges party leadership to reconsider decision to field a different candidate or risk losing support of its members
+
+Sri Lanka Podujana Peramuna (SLPP) MPs who extended their support to President Ranil Wickremesinghe recently have refused to withdraw their support, despite the party taking steps to replace some of its district leaders due to their backing of Wickremesinghe.
+
+The party appointed several new district leaders yesterday to replace those who announced their support to the President, in defiance of the SLPP’s decision to field its own candidate at the 21 September election.
+
+...
+
+[Data](articles/6f3106a4.json)
+
+---
+
+### SLPP National Convenor Rohitha to support President
+
+*2024-08-05 02:40:59* · [`dailyftlk`](https://www.ft.lk/news/SLPP-National-Convenor-Rohitha-to-support-President/56-765159) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) National Convenor Rohitha Abeygunawardena has declared his support for President Ranil Wickremesinghe’s candidacy in the upcoming elections.
+
+Speaking at a public meeting in Kalutara yesterday, Abeygunawardena explained that his decision was made in response to the requests of party supporters.
+
+Abeygunawardena said, despite his decision to support Wickremesinghe at this time, his loyalty to former President Mahinda Rajapaksa, whom he regards as his political leader, and Basil Rajapaksa, whom he considers his political mentor, remains unwavering.
+
+The SLPP stalwart said the decision was a difficult one and was not made in opposition to Mahinda Rajapaksa or the SLPP.
+
+“We know that in politics, there are no permanent friends or enemies. Therefore, after listening to the people and considering the country’s situation, I have decided to support Ranil Wickremesinghe for the presidency,” he said.
+
+...
+
+[Data](articles/7ffc8295.json)
+
+---
+
+### SLMC offers conditional support to Sajith
+
+*2024-08-05 02:38:06* · [`dailyftlk`](https://www.ft.lk/news/SLMC-offers-conditional-support-to-Sajith/56-765158) · `en`
+
+The Sri Lanka Muslim Congress (SLMC) has decided to extend conditional support to Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
+
+Speaking to the media, SLMC leader Rauff Hakeem said the decision to support Premadasa was taken by the party’s Supreme Council during a meeting held yesterday.
+
+However, Hakeem said the party’s support for Premadasa will be contingent upon certain conditions. He mentioned that the SLMC will soon engage in discussions with Premadasa to aim for an agreement on specific issues during those talks.
+
+However, Hakeem said the SLMC will not align with any other political party and will not seek ministerial or other positions following the upcoming Presidential Election in return for supporting the Samagi Jana Balawegaya led by Premadasa.
+
+◼️
+
+[Data](articles/912efcf4.json)
+
+---
+
+### A brutal attack on a young man who went to celebrate his birthday
+
+*2024-08-05 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190283) · `ta`
+
+On his birthday, a young man celebrating with friends was brutally attacked by a gang wielding swords in Arali. He was hospitalized after the assault. The victim had recently been romantically involved with a local woman whose family disapproved, leading to the violent confrontation.
+
+🟩
+
+A gang has threatened a sword and attacked a young man who returned home after going to a birthday party on Saturday, 3rd in Arali.
+
+The young man is admitted to the Chavakachcheri Resource Hospital after being injured.. When it comes to the incident,
+
+While the young man and his friends from Chavakachcheri were returning home in a Hiyas vehicle, a gang that came with a sword in the midst of a sword has dragged the young man out.
+
+The injured youth is admitted to the Chavakachcheri Resource Hospital and receiving treatment.
+
+The young man fell in love with a woman from Arali. The mother of the young woman initially shows the green flag. The woman has cut off contact with the young man since the fourth month.
+
+When the young man came to the Arali area yesterday, the attack was carried out by the father of the Yuvati's father, the brothers, the brothers and relatives of the woman.
+
+◼️
+
 [Data](articles/f1f8a8d6.json)
+
+[Extended Data](ext_articles/f1f8a8d6.ext.json)
 
 ---
 
@@ -66,41 +174,63 @@ The Group’s healthcare sector emerged as the largest contributor to Sunshine�
 
 [Data](articles/dae7c048.json)
 
+[Extended Data](ext_articles/dae7c048.ext.json)
+
 ---
 
-### இலங்கையர்கள் கௌரவமாக வாழும் சூழலை தோற்றுவிப்பேன்; இன,மத ,பேதமின்றி அனைவரும் ஒன்றுபட வேண்டும் -ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர
+### I will create an environment where Sri Lankans live in honor;Dilith Jayaweera should be united by all people without ethnic, religious and religion
 
 *2024-08-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190282) · `ta`
 
-இன,மத வேறுபாடுகள் ஏதும் இல்லாத வகையில் சிறந்த வினைத்திறனான அரசியல் கட்டமைப்பை தோற்றுவிப்பேன்.இலங்கையர்கள் அனைவரும் கௌரவமாக வாழும் சூழலை உருவாக்குவேன்.எமது நாட்டு மக்கள் பாவம் அவர்களுக்கு ஏதாவது செய்ய வேண்டும் என்பதற்காகவே அரசியலில் பிரவேசித்துள்ளேன்.
+Dilith Jayaweera aims to unite Sri Lanka by eliminating ethnic and religious divisions, promising a more efficient political system. He emphasizes the importance of addressing the nation's economic challenges and improving public services. Jayaweera criticizes past governments for failing to resolve basic issues, highlighting the need for cooperation from Sri Lankans worldwide to help the country progress.
 
-என்மீது வைக்கும் நம்பிக்கையை பலவீனப்படுத்தமாட்டேன்.பொருளாதார மீட்சிக்கான கொள்கையை இவ்வாரம் பகிரங்கப்படுத்துவேன் என சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர தெரிவித்தார்.
+🟩
 
-சர்வஜன சக்தியின் மாநாடு கொழும்பு சுகததாச உள்ளக அரங்கில் ஞாயிற்றுக்கிழமை (4) இடம்பெற்றது.இதன்போது விசேட உரை நிகழ்த்துகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+I will create a better efficient political structure with no ethnic and religious differences.
 
-நெருக்கடியான சூழ்நிலையில் நாட்டுக்காகவே செயற்பட்டுள்ளேன்.அரசியலில் ஈடுபடாத நிலையிலும் பல சந்தர்ப்பங்களில் நாட்டுக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளேன் என்பதை இச்சந்தர்ப்பத்தில் குறிப்பிட்டுக் கொள்கிறேன்.
+"This week I will publicize the policy of recovery," said Dilith Jayaweera, the presidential candidate of the power, "said Dilith Jayaweera.
+
+The Sarvana Shakti Conference was held on Sunday (4) at the Sugathadasa Indoor Stadium in Colombo.
+
+In this case, I have been working for the country in a state of crisis.
+
+In the 2019 presidential election, Gotabhaya Rajapaksa was fully cooperated. The people of the country made him the president for massive expectations and systems. His brothers and family would chase him away.
+
+My main goal is to create a better state administrative structure to ensure that there are no ethnic and religious differences in the country.
+
+My main policy is to create an environment where everyone accepts that the state administration is efficient and the public service is efficient.
 
 ...
 
 [Data](articles/c7b065bf.json)
 
+[Extended Data](ext_articles/c7b065bf.ext.json)
+
 ---
 
-### நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் அரசாங்கத்தின் வேலைத்திட்டத்தை பாதுகாப்பதற்கு  எதிர்வரும் ஜனாதிபதி தேர்தலில்  அனைவரும் ஒன்றிணைய வேண்டும் – ஜனாதிபதி
+### Everyone should unite in the upcoming presidential election to protect the government's plan to build the country's economy
 
 *2024-08-05 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190281) · `ta`
 
-கல்வி, அரசியலமைப்பு, அதிகாரப் பகிர்வு போன்ற விடயங்களில் மாறுபட்ட  கருத்துக்கள் காணப்படுகின்ற போதிலும் நாட்டின் பொருளாதாரத்தை முன்னேற்றுவதற்கு தற்போதைய அரசாங்கத்தின் வேலைத்திட்டத்தை தவிர வேறு மாற்றுவழியில்லை என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+In the lead-up to the presidential election, unity is crucial to support the government's economic growth plan. Despite differing opinions on education, constitution, and devolution, President Ranil Wickremesinghe emphasizes the necessity of this support. He highlights his efforts to boost tourism in Trincomalee, aiming to double the number of visitors and enhance tourist facilities. The President also met with the Trincomalee District Lawyers Association, securing their backing for his economic stabilization goals.
 
-எனவே அந்த வேலைத்திட்டத்தை பாதுகாப்பதற்கு எதிர்வரும் ஜனாதிபதி தேர்தலில் அனைவரும் முன்வர வேண்டும் எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-திருகோணமலை ஹோட்டல் சங்கத்தின் ஏற்பாட்டில் ஞாயிற்றுக்கிழமை (04) திருகோணமலை பீச் ரிசோர்ட் ஹோட்டலில்  நடைபெற்ற கூட்டத்தில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe pointed out that although there are different views on issues such as education, constitution and devolution, there is no alternative except for the current government's program to improve the country's economy.
 
-திருகோணமலையை சுற்றுலா மையமாக அபிவிருத்தி செய்வதற்கு எடுக்கப்பட்டுள்ள நடவடிக்கைகள் குறித்து விளக்கிய ஜனாதிபதி, நாட்டிற்கு வரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கையை 25 இலட்சத்தில் இருந்து 50 இலட்சமாக அதிகரிப்பதற்கான மூலோபாய திட்டங்களையும் விளக்கினார்.
+The President said that everyone should come forward in the upcoming presidential election to protect the program.
+
+President Ranil Wickremesinghe, who attended the meeting held at the Peach Resort Hotel in Trincomalee on Sunday (04) organized by the Hotel Association of Trincomalee.
+
+The President explained the steps taken to develop Trincomalee as a tourist attraction, and explained the strategic plans to increase the number of tourists coming to the country from 25 lakh to 50 lakhs.
+
+The President also discussed the role of hotel associations in the construction of massive hotels to expand the amenities of tourists and to make Trincomalee a tourist destination.
 
 ...
 
 [Data](articles/da9f0372.json)
+
+[Extended Data](ext_articles/da9f0372.ext.json)
 
 ---
 
@@ -120,6 +250,8 @@ The current Directors of Sunshine Holdings PLC will remain as directors of the a
 
 [Data](articles/90a25316.json)
 
+[Extended Data](ext_articles/90a25316.ext.json)
+
 ---
 
 ### Adani Power announces Q1 performance
@@ -131,6 +263,8 @@ Adani Power Ltd. (“APL”), a part of Adani portfolio companies, recently anno
 ...
 
 [Data](articles/211067f1.json)
+
+[Extended Data](ext_articles/211067f1.ext.json)
 
 ---
 
@@ -145,6 +279,8 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 ...
 
 [Data](articles/86d4311b.json)
+
+[Extended Data](ext_articles/86d4311b.ext.json)
 
 ---
 
@@ -2165,125 +2301,5 @@ The conference is scheduled to be held at the Sugathadasa Indoor Stadium in Colo
 [Data](articles/40cd32c5.json)
 
 [Extended Data](ext_articles/40cd32c5.ext.json)
-
----
-
-### Our houses were set on fire by Namal, May 09, 2022 - SM Chandrasena
-
-*2024-08-04 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190236) · `ta`
-
-On May 9, 2022, houses were burned, including those linked to Namal Rajapaksa, leading to criticism from PA MP SM Chandrasena. He supports President Ranil Wickremesinghe, citing economic recovery and public approval. Despite internal dissent, Chandrasena reaffirms his stance, urging party leader Mahinda Rajapaksa to acknowledge member sentiments. This incident highlights political tensions and the impact of decisions on local communities.
-
-🟩
-
-Our houses were set on fire on May 9, 2022, including Namal Rajapaksa.. We were sentenced to make mistakes. PA MP SM Chandrasena said that the decision taken now is better than politicians with such people.
-
-He was speaking at a function held on Sunday (04) in Anuradhapura.
-
-I decided to support President Ranil Wickremesinghe in accordance with the aspirations of the people of Anuradhapura district. The country has recovered from the economic crisis. Ordinary people say that if the current progress is to be continued, the president -led government should look back.
-
-The country is not in a state of examination again. The people of the country are clearly. We unconditionally supported the party's decision to make Ranil Wickremesinghe, the leader of the United National Party (UNP) leader of the political and political crisis in 2022.
-
-...
-
-[Data](articles/3e417d61.json)
-
-[Extended Data](ext_articles/3e417d61.ext.json)
-
----
-
-### Aruna, coming to the Olympic Floor today
-
-*2024-08-04 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199545) · `si`
-
-Aruna Footage competes in the 400m event at the Paris Olympics today, aiming for a personal best after setting it at 45.30 seconds. Meanwhile, Julian Alfred, from St. Lucia, won her first Olympic gold in the 100m women's race, becoming the fastest woman globally.
-
-🟩
-
-Aruna footage is scheduled to participate in the 400m route event at the Paris Olympic Games today (04).
-
-The 51st Aruna footage is due to compete in the 51st stage.
-
-His personal best time in the 400m events was 45.30 seconds.
-
-Meanwhile, Julian Alfred, a Caribbean, a Caribbean, was the fastest woman in the world, passed yesterday.
-
-It is the manner of passing the gold medal in the 100m women's race event.
-
-It is also his first Olympic gold medal, winning St. Lucia.
-
-◼️
-
-[Data](articles/eaf779ba.json)
-
-[Extended Data](ext_articles/eaf779ba.ext.json)
-
----
-
-### "Namal's fault burned houses"
-
-*2024-08-04 13:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-தவறால்-வீடுகள்-எரிந்தன/175-341555) · `ta`
-
-SM Chandrasena criticized Namal Rajapaksa for allegedly causing house burnings due to misconduct, highlighting historical inaccuracies and political maneuvering. Chandrasena asserted his readiness to fill the political void in the Anuradhapura district, contrasting with Namal's actions during protests and his inability to match Chandrasena's political influence.
-
-🟩
-
-Parliamentarian SM Chandrasena said that when my homes were burnt, the MP was sacrificing his life, but the misconduct of Namal Rajapaksa MP and others.
-
-“Namal Rajapaksa does not know history. Chandrika Bandaranaike is not ready to give her father the presidential candidate when he was ready for the 2005 presidential election. At the time, I first recommended myself the name of Mahinda Rajapaksa, said SM Chandrasena.
-
-“Then I was very troubled. Mrs. Chandrika scolded me. That is not the only one. He said he helped him to make his grandfather a president.
-
-We were listening to Namal Rajapaksa's claim that the houses of Sehan Semasinghe and other MPs were burned.. It was because of their misdeeds that such situations were met.
-
-Namal Rajapaksa's wrong work was to sacrifice life that day. It was because we held meetings on the day of the protest.
-
-"I say that Namal Rajapaksa cannot fill my vacuum in Anuradhapura district."Parliamentarian SM Chandrasena said he should be present to fill his vacuum.
-
-...
-
-[Data](articles/59c21ad2.json)
-
-[Extended Data](ext_articles/59c21ad2.ext.json)
-
----
-
-### Sri Lankan e-visa issuance suspended; final decision tomorrow
-
-*2024-08-04 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100983/sri-lankan-e-visa-issuance-suspended-final-decision-tomorrow) · `en`
-
-The Ministry of Public Security says that a final decision regarding the process of issuing visas for tourists arriving in Sri Lanka will be made tomorrow (05).
-
-The Ministry pointed out that the decision will be reached following discussions with officials of the Department of Immigration and Emigration.
-
-On Friday (02), the Supreme Court issued an interim order preventing the implementation of the Cabinet decision to grant approval for Online Visa Electronic Travel Authorization to be handled by two private entities.
-
-Furthermore, the court had issued another interim injunction preventing the implementation of the agreements reached with the relevant foreign companies while granting leave to proceed with the hearing of several petitions filed pertaining to the matter.
-
-Accordingly, the Department of Immigration and Emigration had announced that issuing of e-visa will be temporarily halted from August 02.
-
-...
-
-[Data](articles/df20dc72.json)
-
-[Extended Data](ext_articles/df20dc72.ext.json)
-
----
-
-### Ranil to support gold
-
-*2024-08-04 12:24:15* · [`adalk`](https://www.ada.lk/breaking_news/රත්තරන්ගේ-සහය-රනිල්ට/11-411182) · `si`
-
-Parliamentarian Rohitha Abeygunawardena pledges support to President Ranil Wickremesinghe for the upcoming presidential election.
-
-🟩
-
-Parliamentarian Rohitha Abeygunawardena said he will give his support to President Ranil Wickremesinghe in the next presidential election.
-
-◼️
-
-[Data](articles/b2b648fb.json)
-
-[Extended Data](ext_articles/b2b648fb.ext.json)
 
 ---

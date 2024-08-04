@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 04:35:56**
+As of **2024-08-05 04:55:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,995 (100.0%) of 38,997 articles have been extended.
+38,997 (100.0%) of 38,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,19 +234,25 @@ My main policy is to create an environment where everyone accepts that the state
 
 ---
 
-### சட்டங்களை மீறினால் முறையிடலாம்
+### May appeal if the laws violate
 
 *2024-08-05 02:26:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-மீறினால்-முறையிடலாம்/175-341600) · `ta`
 
-ஜனாதிபதி தேர்தலின் போது பொலிஸ் மற்றும் ஏனைய அரச அதிகாரிகள் தேர்தல் சட்டங்களை மீறியமை தொடர்பில் முறைப்பாடுகளை அறிவிக்க, இலங்கை மனித உரிமைகள் ஆணைக்குழு தொலைபேசி இலக்கங்களை அறிவித்துள்ளது.
+The Sri Lanka Human Rights Commission has launched a hotline (0767914696) and fax service (0112505566) for reporting election law violations ahead of the presidential election. This initiative aims to ensure transparency and fairness in the electoral process, with guidelines also distributed to government officials, including police.
 
-இதன்படி, 0767914696 என்ற தொலைபேசி இலக்கத்திற்கோ அல்லது 0112505566 என்ற தொலைநகல் இலக்கத்திற்கோ முறைப்பாடுகளை சமர்ப்பிக்க முடியும்.
+🟩
 
-சுதந்திரமானதும் நீதியானதுமான தேர்தலை நடத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ள. இது தொடர்பில்,  பொலிஸ் அதிகாரிகள் உள்ளிட்ட அரசாங்க அதிகாரிகளுக்கு இலங்கை மனித உரிமைகள் ஆணைக்குழு அண்மையில் வழிகாட்டுதல்கள் ஒன்றை வெளியிட்டுள்ளது.
+The Sri Lanka Human Rights Commission has announced telephone numbers to announce complaints about violating election laws during the presidential election.
+
+Accordingly, complaints can be submitted to 0767914696 or a fax number 0112505566.
+
+The move was aimed at holding an independent and fair election. In this regard, the Sri Lanka Human Rights Commission has recently issued a guidelines to government officials, including police officers.
 
 ◼️
 
 [Data](articles/9a9cf544.json)
+
+[Extended Data](ext_articles/9a9cf544.ext.json)
 
 ---
 
@@ -326,19 +332,27 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 
 ---
 
-### ’இறந்தகாலத்திடம்  இருள்: வளமான விடியல் வரும்’
+### Darkness in the time of death: fertile dawn
 
 *2024-08-05 02:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறந்தகாலத்திடம்-இருள்-வளமான-விடியல்-வரும்/175-341599) · `ta`
 
-இருளை இறந்தகாலத்திடம் ஒப்படைத்துவிட்டு எமது நாட்டுக்கு வளமான விடியலை உருவாக்கிட முடியும் என தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க தெரிவித்தார்.
+Anura Kumara Dissanayake, leader of the National People's Power, calls for a government focused on empowering the disabled and marginalized, emphasizing the need for inclusivity and equality. He criticizes past regimes for neglecting these groups, promising a brighter future through policy reforms inspired by international standards.
 
-மாற்றுத்திறனாளிகள் (வலதுகுறைந்த ஆட்கள்) பற்றிய தேசிய மக்கள் சக்தியின் தேசிய கொள்கையையும் வேலைத்திட்டத்தையும் வெளியிடுதல் - கொழும்பு இலங்கை மன்றக் கல்லூரி சனிக்கிழமை (03) நடைபெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-கண்கள் தெரிகின்ற , காதுகள் கேட்கின்ற, சரியான அசைவுகளைக் கொண்டுள்ளவர்கள்தான் நீண்டகாலமாக எங்கள் நாட்டை ஆட்சிசெய்தார்கள். அதன் பாதகவிளைவுகள் ஒட்டுமொத்த சமூகத்தையும் ஆரத்தழுவி உள்ளன. உங்களைப் பார்க்கும்போது, உங்களின் பேச்சுகளை செவிமடுக்கும்போது, உங்கள் திறமைகள் வெளிப்படுத்தப்படுகையில் நாங்கள் ஏன் இவ்வளவு தாமதித்திருக்கிறோம் என்ற உணர்வு எமக்கு  ஏற்படுகின்றது. இந்த இருளை இறந்தகாலத்திடம் ஒப்படைத்துவிட்டு எமது நாட்டுக்கு வளமான விடியலை உருவாக்கிட முடியுமென்ற நம்பிக்கை எம்மிடம் நிலவுகின்றது என்றார்..
+The leader of the National People's Power, Anura Kumara Dissanayake, said that the darkness can be handed over to the time of the death of our country.
+
+Release the National Policy and Program of the National People's Power on the Disabled Persons (Workplace). He said this while addressing it.
+
+Those who have eyes -visible, listening to the ears, and the right moves have long ruled our country. Its troubles are the overall community. When you look at you and listen to your speeches, we feel that we have so much delayed when your talents are revealed. We have the hope that we can hand over this darkness to the time of the dead and create a prosperous dawn of our country.
+
+Today we think the eyes are wide. We call for the establishment of a government of the national people's power for us. He said, "We have sought the minds of God as the will of God or the Prophet."
 
 ...
 
 [Data](articles/5eea2170.json)
+
+[Extended Data](ext_articles/5eea2170.ext.json)
 
 ---
 

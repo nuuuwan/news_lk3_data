@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 04:20:50**
+As of **2024-08-05 04:35:56**
 
 ## Newspaper Stats
 
-*Scraped **38,995** Articles*
+*Scraped **38,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,867
+tamilmirrorlk | 4,869
 virakesarilk | 6,176
 adaderanasinhalalk | 6,588
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,995 (100.0%) of 38,995 articles have been extended.
+38,995 (100.0%) of 38,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,22 @@ My main policy is to create an environment where everyone accepts that the state
 
 ---
 
+### சட்டங்களை மீறினால் முறையிடலாம்
+
+*2024-08-05 02:26:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-மீறினால்-முறையிடலாம்/175-341600) · `ta`
+
+ஜனாதிபதி தேர்தலின் போது பொலிஸ் மற்றும் ஏனைய அரச அதிகாரிகள் தேர்தல் சட்டங்களை மீறியமை தொடர்பில் முறைப்பாடுகளை அறிவிக்க, இலங்கை மனித உரிமைகள் ஆணைக்குழு தொலைபேசி இலக்கங்களை அறிவித்துள்ளது.
+
+இதன்படி, 0767914696 என்ற தொலைபேசி இலக்கத்திற்கோ அல்லது 0112505566 என்ற தொலைநகல் இலக்கத்திற்கோ முறைப்பாடுகளை சமர்ப்பிக்க முடியும்.
+
+சுதந்திரமானதும் நீதியானதுமான தேர்தலை நடத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ள. இது தொடர்பில்,  பொலிஸ் அதிகாரிகள் உள்ளிட்ட அரசாங்க அதிகாரிகளுக்கு இலங்கை மனித உரிமைகள் ஆணைக்குழு அண்மையில் வழிகாட்டுதல்கள் ஒன்றை வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/9a9cf544.json)
+
+---
+
 ### Everyone should unite in the upcoming presidential election to protect the government's plan to build the country's economy
 
 *2024-08-05 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190281) · `ta`
@@ -307,6 +323,22 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 [Data](articles/86d4311b.json)
 
 [Extended Data](ext_articles/86d4311b.ext.json)
+
+---
+
+### ’இறந்தகாலத்திடம்  இருள்: வளமான விடியல் வரும்’
+
+*2024-08-05 02:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறந்தகாலத்திடம்-இருள்-வளமான-விடியல்-வரும்/175-341599) · `ta`
+
+இருளை இறந்தகாலத்திடம் ஒப்படைத்துவிட்டு எமது நாட்டுக்கு வளமான விடியலை உருவாக்கிட முடியும் என தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க தெரிவித்தார்.
+
+மாற்றுத்திறனாளிகள் (வலதுகுறைந்த ஆட்கள்) பற்றிய தேசிய மக்கள் சக்தியின் தேசிய கொள்கையையும் வேலைத்திட்டத்தையும் வெளியிடுதல் - கொழும்பு இலங்கை மன்றக் கல்லூரி சனிக்கிழமை (03) நடைபெற்றது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+கண்கள் தெரிகின்ற , காதுகள் கேட்கின்ற, சரியான அசைவுகளைக் கொண்டுள்ளவர்கள்தான் நீண்டகாலமாக எங்கள் நாட்டை ஆட்சிசெய்தார்கள். அதன் பாதகவிளைவுகள் ஒட்டுமொத்த சமூகத்தையும் ஆரத்தழுவி உள்ளன. உங்களைப் பார்க்கும்போது, உங்களின் பேச்சுகளை செவிமடுக்கும்போது, உங்கள் திறமைகள் வெளிப்படுத்தப்படுகையில் நாங்கள் ஏன் இவ்வளவு தாமதித்திருக்கிறோம் என்ற உணர்வு எமக்கு  ஏற்படுகின்றது. இந்த இருளை இறந்தகாலத்திடம் ஒப்படைத்துவிட்டு எமது நாட்டுக்கு வளமான விடியலை உருவாக்கிட முடியுமென்ற நம்பிக்கை எம்மிடம் நிலவுகின்றது என்றார்..
+
+...
+
+[Data](articles/5eea2170.json)
 
 ---
 
@@ -2253,53 +2285,5 @@ The seized trawler together with four Indian fishermen were brought to the Kanke
 [Data](articles/2f00b9a0.json)
 
 [Extended Data](ext_articles/2f00b9a0.ext.json)
-
----
-
-### Paris Olympics: Sri Lanka’s Aruna Darshana to compete tonight
-
-*2024-08-04 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100985/paris-olympics-sri-lankas-aruna-darshana-to-compete-tonight) · `en`
-
-Sri Lankan sprinter Aruna Darshana, a key athlete for the island nation in this year’s Olympic Games is scheduled to participate in the preliminary round of the Men’s 400m event tonight (04).
-
-Darshana will take part in the Heat 05 of the event, which is set to commence at 11.07 p.m. (local time) today.
-
-Meanwhile, athletes from Italy, South Africa, Brazil, Grenada, Botswana, Canada and Switzerland are set to race in the Heat 5 alongside Aruna Darshana.
-
-The 25-year-old remains at the 51st place in the Men’s 400m world rankings with a personal and seasonal best of 45.30 seconds.
-
-Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive first-place finish in the 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
-
-...
-
-[Data](articles/8150443e.json)
-
-[Extended Data](ext_articles/8150443e.ext.json)
-
----
-
-### Israel attacks Israel
-
-*2024-08-04 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199547) · `si`
-
-Israel's Iron Dome system thwarted rocket attacks from Hezbollah in Lebanon, backed by Iran. No casualties were reported, but tensions escalate, worrying countries like the US, UK, Jordan, and Canada, as well as Lebanese citizens.
-
-🟩
-
-Hisbollah, supporting Iran in Lebanon, has attacked the North Israeli targeting North Israeli.
-
-Hisbollah warned that an Israeli attack recently had a counterfeit to Israel.
-
-Israel says that his "Iron Dome Air Air Security System" has been able to prevent rocket attacks.
-
-Hezbollah said that no casualties were reported.
-
-However, the risk to escalate war clashes in the Middle East has aggravated countries, USA, British, Jordan, Canada and other citizens in Lebanon.
-
-◼️
-
-[Data](articles/45cb2e8e.json)
-
-[Extended Data](ext_articles/45cb2e8e.ext.json)
 
 ---

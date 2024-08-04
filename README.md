@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 00:07:41**
+As of **2024-08-05 00:20:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,971 (100.0%) of 38,973 articles have been extended.
+38,973 (100.0%) of 38,973 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Kirani James (44.78) of Grenada placed first in Heat 5 while Canada’s Christop
 ◼️
 
 [Data](articles/b2f0725d.json)
+
+[Extended Data](ext_articles/b2f0725d.ext.json)
 
 ---
 
@@ -831,6 +833,8 @@ Farmgate prices in Kurunegala were 80,000 -82,000 per 1,000 nuts.
 ◼️
 
 [Data](articles/54bffe5a.json)
+
+[Extended Data](ext_articles/54bffe5a.ext.json)
 
 ---
 

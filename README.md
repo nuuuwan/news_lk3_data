@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 03:20:43**
+As of **2024-08-05 03:36:13**
 
 ## Newspaper Stats
 
-*Scraped **38,994** Articles*
+*Scraped **38,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,866
+tamilmirrorlk | 4,867
 virakesarilk | 6,176
 adaderanasinhalalk | 6,588
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,992 (100.0%) of 38,994 articles have been extended.
+38,994 (100.0%) of 38,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,13 +142,19 @@ However, Hakeem said the SLMC will not align with any other political party and 
 
 ---
 
-### கிளிநொச்சியில் 200கிலோவிற்கும் மேற்பட்ட கிலோ கஞ்சா மீட்பு!
+### More than 200 kg of cannabis recovery in Kilinochchi
 
 *2024-08-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190284) · `ta`
+
+In Kilinochchi, over 200 kg of cannabis was seized, marking a significant drug recovery effort.
+
+🟩
 
 ◼️
 
 [Data](articles/88bdc068.json)
+
+[Extended Data](ext_articles/88bdc068.ext.json)
 
 ---
 
@@ -304,21 +310,47 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 
 ---
 
-### ’46 நாட்களில்  ஆயுள் நிறைவு’
+### ரணிலுக்கு ஆதரவு தெரிவித்தவர்கள் “மொட்டை பிளக்கவில்லை”
+
+*2024-08-05 01:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவு-தெரிவித்தவர்கள்-மொட்டை-பிளக்கவில்லை/175-341598) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவை ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பவர்களால் பிளவுபடவில்லை என்றும், கட்சியைப் பற்றி கவலைப்படாத தமது தனிப்பட்ட நலன்களுக்காக நிற்கும் ஒரு சிறு குழுவினரால் பிளவுபட்டது என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+கட்சி உறுப்பினர்களைப் பற்றி கவலைப்படாத இந்த சிலர் பணத்திற்காக கட்சிக்கு துரோகம் செய்துள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+இரத்தினபுரி மாவட்ட உள்ளூராட்சி மன்ற பிரதிநிதிகளுடன் சனிக்கிழமை (03) இடம்பெற்ற கலந்துரையாடலின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+கேள்வி - கட்சியை உடைத்து விட்டீர்கள் என்ற குற்றச்சாட்டு உள்ளது. கட்சி உடைந்தது ஏன்?
+
+பதில் - கட்சியை ஒன்றிணைத்து இந்தப் பயணத்தை மேற்கொள்ள முயற்சிப்பவன் நான். அப்படி உடைப்பவர்கள் 2022 இல் ரணிலை நியமிக்காமல் டலஸை நியமித்திருக்க வேண்டும்.ஏன் அதைச் செய்யாமல்  நாட்டைப் பற்றி சிந்தித்து கட்சியை ஒருங்கிணைக்கும் வேலைத்திட்டத்தை முன்மொழியப்பட்டது.
+
+...
+
+[Data](articles/f5150fdb.json)
+
+---
+
+### Life completed in 46 days
 
 *2024-08-05 01:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-நாட்களில்-ஆயுள்-நிறைவு/175-341597) · `ta`
 
-பாராளுமன்றத்தில் இன்றைக்கு இரண்டு வருடங்களுக்கு முன்னர் 134 வாக்குகளினால் தெரிவு செய்யப்பட்ட தற்போதைய ஜனாதிபதிக்கு 92 பாராளுமன்ற உறுப்பினர்களின் ஆதரவே இருப்பதாகவும் தனிப்பெரும்பான்மையைக் கூட அரசாங்கம் இழந்துள்ளதாகவும் பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ. எல். பீரிஸ், ஞாயிற்றுக்கிழமை (04) தெரிவித்தார்.
+Professor Xi predicts the current government will last only 46 days due to losing parliamentary majority. A new coalition is expected to form soon, amid criticism from President over judicial attacks.
 
-தற்போதைய அரசாங்கத்தின் ஆயுட்காலம் இன்னும் 46 நாட்களில் முடிவடையும் என தெரிவித்த பீரிஸ், மாபெரும் கூட்டணி இம்மாதம் 8ஆம் திகதி உருவாக்கப்படும் என்றார்.
+🟩
 
-கொழும்பில், ஞாயிற்றுக்கிழமை (04) நடைபெற்ற செய்தியாளர் சந்திப்பில் பேராசிரியர் ஜி. எல். பீரிஸ் இவ்வாறு தெரிவித்தார்.
+Parliamentarian Professor Xi said that the current president, elected by 134 votes in Parliament two years ago, has the support of 92 MPs and the government has lost a majority.. L. Peiris said on Sunday (04).
 
-முன்னெப்போதும் இல்லாத வகையில் தற்போதைய அரசாங்கம் நீதித்துறை மீது பாரிய தாக்குதலை நடத்தி வருவதாகவும், தற்போதைய ஜனாதிபதி நீதித்துறை அமைப்பின் நீதிபதிகளை பகிரங்கமாக விமர்சித்து வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+Peiris said the current government's lifetime would end in 46 days, adding that the massive coalition would be formed on the 8th of this month.
+
+Professor G. at a press conference held in Colombo on Sunday (04). L. Peiris said so.
+
+He said the current government is carrying out a massive attack on the judiciary and that the current president is publicly criticizing the judges of the judiciary.
 
 ◼️
 
 [Data](articles/e9f0d5f7.json)
+
+[Extended Data](ext_articles/e9f0d5f7.ext.json)
 
 ---
 
@@ -2261,35 +2293,5 @@ However, the risk to escalate war clashes in the Middle East has aggravated coun
 [Data](articles/45cb2e8e.json)
 
 [Extended Data](ext_articles/45cb2e8e.ext.json)
-
----
-
-### Woman who died at the Mannar Hospital
-
-*2024-08-04 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190235) · `ta`
-
-The Mannar District Public Organization Union has written to the Ministry of Health expressing concern over the death of Mariaraj Sindhuja at Mannar District Hospital. Sindhuja, who gave birth there on September 9th, died on the 27th after being neglected overnight due to heavy rain. The union demands justice and transparency in the investigation into her death, highlighting systemic negligence by hospital staff.
-
-🟩
-
-The Mannar District Public Organization Union has sent a letter to the Secretary of the Ministry of Health regarding the death of a woman named Marmaraj Sindhuja at the Mannar District Hospital.
-
-The Mannar District Public Organizations Union, which has requested Mariaraj Sindhuja to seek justice, has also requested that the inquiries into the death of the death should not be covered.
-
-Mrs. Mariaraj Sindhuja had a baby at the Mannar Hospital on the 9th of last month.
-
-Later, on the 27th, the Mannar District Hospital was enrolled at night due to Guruder.
-
-Until the next morning, no doctor visited them.
-
-The woman has died due to the irresponsible act of the doctors. It is customary for these irresponsible actions to continue in the schools.
-
-A young graduate woman has been killed by the recklessness of a doctor who is in charge of the hostel.
-
-◼️
-
-[Data](articles/a27f5369.json)
-
-[Extended Data](ext_articles/a27f5369.ext.json)
 
 ---

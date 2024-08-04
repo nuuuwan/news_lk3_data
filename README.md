@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 19:55:22**
+As of **2024-08-04 20:07:19**
 
 ## Newspaper Stats
 
-*Scraped **38,952** Articles*
+*Scraped **38,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
-adalk | 3,571
+adalk | 3,572
 adaderanalk | 4,517
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,860
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,945 (100.0%) of 38,952 articles have been extended.
+38,952 (100.0%) of 38,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### மரமொன்று காரின் மீது விழுந்தது
+### A wooden fell on the car
 
 *2024-08-04 19:27:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரமொன்று-காரின்-மீது-விழுந்தது/76-341579) · `ta`
 
-பதுளை நகரின் கெப்பெட்டிபொல மாவத்தையில் ஞாயிற்றுக்கிழமை (04) பிற்பகல் காரின் மீது பாரிய மரமொன்று வீழ்ந்ததில் காருக்கு பலத்த சேதம் ஏற்பட்டதோடு வீதியில் வாகனங்கள் செல்வதற்கும் இடையூறு ஏற்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+On Sunday afternoon, a large tree fell onto a car parked on a roadside in Badulla, causing it to collapse but leaving the occupants uninjured.
 
-பதுளை பிரதேசத்தில் ஞாயிற்றுக்கிழமை (04) பிற்பகல் பெய்த அடை மழையுடன் பதுளை கெப்பெட்டிபொல மாவத்தை வீதிக்கு அண்மித்த வீதியொன்றின் வீதியோரம் நிறுத்தி வைக்கப்பட்டிருந்த கார் மீது இடிந்து விழுந்துள்ளதுடன், அப்போது காரில் எவரும் இல்லாததால், யாருக்கும் காயம் ஏற்படவில்லை என்று பொலிஸார் தெரிவித்தனர்
+🟩
+
+Badulla police said that a massive tree fell on the car on Sunday afternoon (04) in the city of Badulla, Badulla.
+
+The car was collapsed on the road of a roadside road near the Badulla Keppipola Mawatha road in Badulla on Sunday afternoon (04) and no one was injured in the car.
 
 ◼️
 
 [Data](articles/b78c2d8f.json)
+
+[Extended Data](ext_articles/b78c2d8f.ext.json)
 
 ---
 
@@ -90,85 +96,143 @@ Authorities have taken measures to impose the curfew without re-informed to cont
 
 ---
 
-### ஜனாதிபதி வேட்பாளர்களின் கவனத்தைப் பெறுமா  காணாமல் போனோர் விவகாரம்?
+### Get the attention of the presidential candidates?
 
 *2024-08-04 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190264) · `ta`
 
-"16 வருடங்களாக தொடர் போராட்டத்தில் ஈடுபட்டு வருகிறோம். இலங்கை அரசாங்கம் தீர்வினை தரவில்லை எத்தனையோ ஆணைக்குழு வந்தும் நீதியை தரவில்லை. சர்வதேசம் ஊடாக எங்களுக்கான உரிமை நீதியை கோரி நிற்கிறோம். நீதி தான் தேவை நிதி தேவையில்லை. ஐக்கிய நாடுகள் சபை இதற்கான எந்தவித விசாரணை மூலமாக நீதியை தரவில்லை. எனது மகன் 2008.03.19 அன்று அரச படையால் கடத்தப்பட்டு காணாமல் ஆக்கப்பட்டார் . எட்டு மாவட்டங்களில் எங்களுக்கான நீதி தேவை என்ற அடிப்படையில் போராட்டங்களை மேற்கொள்கிறோம்.  காணாமல் போனவர்களுக்கான அலுவலகம் (OMP)  போன்றன வெறும் கண் துடைப்பே. இதனால் சர்வதேச விசாரனை தேவை என்பதே எனது கோரிக்கை" என்றார்.
+For 16 years, a group has fought for justice after their son was abducted by state forces in 2008. Despite UN investigations lacking results, they demand international inquiries and protest across eight districts, highlighting the inefficacy of local mechanisms like the Office on Missing Persons (OMP).
+
+🟩
+
+“We have been engaged in a continuous struggle for 16 years. The Sri Lankan government did not provide a solution. We are demanding justice for us through the international community. Justice is not required for funds. The United Nations did not provide justice through any investigation. My son was abducted and disappeared by the State Force on 19.03.2008. We are carrying out protests on the basis of justice for us in eight districts. The OMP for the missing is just an eye. My request is to need an international inquiry. ”
 
 ◼️
 
 [Data](articles/3b190cf6.json)
 
+[Extended Data](ext_articles/3b190cf6.ext.json)
+
 ---
 
-### 241 ஒட்ட வெற்றி இலக்கை அடையுமா இந்தியா?
+### නුවර ඇසළ පෙරහර මංගල්‍ය ඇරඹෙයි
+
+*2024-08-04 18:38:47* · [`adalk`](https://www.ada.lk/religion/නුවර-ඇසළ-පෙරහර-මංගල්‍ය-ඇරඹෙයි/4-411189) · `si`
+
+කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ ආරම්භය සනිටුහන් කරමින් අලුත් නුවර ඓතිහාසික දැඩිමුණ්ඩ දේවාල පරිශ්‍රයෙන් රැගෙන ආ කප සිව් මහා දේවාලයන්ට බෙදා දීම ඊයේ (04) සවස 3.58 ට යෙදුණු සුභ මුහුර්තියෙන් චාරිත්‍රානුකූලව සිදුකෙරුණි.
+
+ඓතිහාසික දැඩිමුණ්ඩ දේවාල පරිශ්‍රයේ බිම්කඩක තිබූ පනස වෘක්ෂයක් චාරිත්‍රානුකූලව කැපීමෙන් අනතුරුව එම වෘක්ෂය ශ්‍රී දළදා මාලිගාවේ ඇත් පංතියේ සිංහරාජා හස්තියා විසින් සෙංකඩගල පුරවරයට වැඩම කරවනු ලැබීය.
+
+ඉන් අනතුරුව නාථ, විෂ්ණු, කතරගම සහ පත්තිනි යන දේවාලයන්හි කපු මහත්වරුන් වෙත එම පනස වෘක්ෂයේ කොටස් බෙදා දීම සිදුකෙරුණි.
+
+එසේ ලැබුණ කප කොටස් සිව් මහා දේවාලයන්හි සිටුවීමෙන් අනතුරුව දේවාල අභ්‍යන්තර පෙරහර ආරම්භ වීමට නියමිතය .
+
+◼️
+
+[Data](articles/09b500a6.json)
+
+---
+
+### Will India reach the target of 241?
 
 *2024-08-04 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190274) · `ta`
 
-இந்தியாவுக்கு எதிராக கொழும்பு, ஆர். பிரேமதாச விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (04) நடைபெற்றுவரும் 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியல் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை, 50 ஓவர்களில் 9 விக்கெட்களை இழந்து 240 ஓட்டங்களைப் பெற்றது.
+India aims to surpass Sri Lanka's 241-run target in their Colombo match, despite Sri Lanka's strong start, scoring 240/9 in 50 overs. Key contributors for Sri Lanka were Avishka Fernando with 40, Tunit Vellalake and Kamindu Mendis with 39 each, Kusal Mendis with 30, and Sarid Asalan with 25.
 
-அவிஷ்க பெர்னாண்டோ 40 ஓட்டங்களையும் துனித் வெல்லாலகே, கமிந்து மெண்டிஸ் ஆகிய இருவரும் தலா 39 ஓட்டங்களையும் குசல் மெண்டிஸ் 30 ஓட்டங்களையும் சரித் அசலன்க 25 ஓட்டங்களையும் பெற்றனர்.
+🟩
+
+Colombo against India. Sri Lanka, which decided to bat first at the Premadasa Stadium on Sunday (04), won by 9 wickets in 50 overs and scored 240 runs for the loss of 9 wickets.
+
+Avishka Fernando scored 40 runs, Tunit Vellalake and Kamindu Mendis scored 39 runs, Kusal Mendis 30 runs and Sarid Asalan 25 runs.
 
 ◼️
 
 [Data](articles/325bde85.json)
 
+[Extended Data](ext_articles/325bde85.ext.json)
+
 ---
 
-### 1.2 பில்லியன் டொலர்கள் இழப்பை ஏற்படுத்திய ஒப்பந்தத்தை நீதிமன்றம் ஊடாக நாம் நிறுத்தினோம் - சஜித் பிரேமதாச
+### We have stopped the agreement that caused the loss of $ 1.2 billion through the court - Sajith Premadasa
 
 *2024-08-04 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190273) · `ta`
 
-நாட்டில் முன்னெடுக்கப்பட்டு வந்த மற்றொரு சட்டவிரோத கொடுக்கல் வாங்களுக்கு உயர் நீதிமன்றம் தடை விதித்துள்ளது. வி.எப்.எஸ் நிறுவனத்திற்கு விலைமனு கோரல் இல்லாமல், இணைய வீசா சேவை தொடர்பில் தற்போது நடைமுறையில் உள்ள முறைமையை மாற்றி, வெளிநாட்டு நிறுவனங்களிடம் இருந்து சேவையைப் பெற மேற்கொண்ட நடவடிக்கையால் 1.2 பில்லியன் டொலர்களை இழந்துள்ளோம். இந்தத் திருட்டை நிறுத்தி இந்த பணத் தொகையை பயன்படுத்தி பாடசாலைகளுக்கு திறன் வகுப்பறைகளை வழங்கியிருக்க முடியும் என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The High Court halted illegal online visa transactions, costing $1.2 billion, and upheld arguments against it. Opposition Leader Sajith Premadasa praised the decision, criticizing the government's handling of the situation and calling for transparency and accountability. He also addressed issues like malnutrition, highlighting the government's failure to address basic needs despite allocating funds for luxury expenses. Premadasa emphasized the need for a change in leadership to prioritize the welfare of ordinary citizens over personal gain.
 
-VFS கொடுக்கல் வாங்கள் மூலம் தமது சொந்த நலனையே இந்த திருடர்கள் முன்னெடுத்தனர். ரவூப் ஹக்கீம், சுமந்திரன், சம்பிக்க ரணவக்க, அசோக் அபேசிங்க, ரஞ்சித் மத்தும பண்டார மற்றும் ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய தலைமையிலான  ஏனைய சட்டத்தரணிகளின் வலுவான வாதங்களை ஏற்றுக்கொண்டு VFS கொடுக்கல் வாங்கள் மோசடிக்கு உயர் நீதிமன்றம் தடை விதித்துள்ளது. இவ்வாறானதொரு தீர்ப்பை வழங்கிய உயர் நீதிமன்றத்திற்கு நன்றியைத் தெரிவித்துக்கொள்கிறேன் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
+
+The High Court has banned another illegal transactions in the country. We have lost $ 1.2 billion due to the action taken by foreign companies to change the existing system on the Internet visa service, without a costly demanding VFS.. The Leader of the Opposition said that the theft could have been used to use this money and provide skills classrooms to schools.
+
+These thieves carried out their own interests through vfs giving. The High Court has accepted the strong arguments of Rauf Hakeem, Sumanthiran, Sampika Ranawaka, Ashok Abeysinghe, Ranjith Mathuma Bandara and other lawyers led by President Attorney Upul Jayasuriya.. Opposition leader Sajith Premadasa said that I would like to thank the High Court for such a ruling.
+
+The United People's Power Nuwarali District Farmers Conference was held on Sunday (04) at Hangurante. Opposition Leader Sajith Premadasa said this while addressing the gathering.
 
 ...
 
 [Data](articles/7c950586.json)
 
+[Extended Data](ext_articles/7c950586.ext.json)
+
 ---
 
-### நம்பிக்கை தராத அங்கலாய்ப்பு
+### Distrust
 
 *2024-08-04 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190252) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டதுமே, பாராளுமன்ற உறுப்பினர் சுமந்திரன்,  தமிழ் அரசு கட்சி இந்த தேர்தலில் வேட்பாளரை நிறுத்தப் போவதில்லை என்று முடிவெடுத்திருப்பதாகவும்- ஜனாதிபதி தேர்தலில் , ஒரு சமூகத்தை மாத்திரம் மையப்படுத்தி வேட்பாளர் நிறுத்தப்படக் கூடாது என்ற அடிப்படையில், தமிழ் பொது வேட்பாளர் கருத்தியலை ஆதரிக்கவில்லை என்றும் கூறியிருந்தார்.
+Following the presidential election announcement, MP Sumanthiran declared the Tamil government wouldn't nominate a candidate, ensuring no Tamil-backed candidate would be supported due to a lack of opposition halt during the election.
+
+🟩
+
+After the presidential election was announced, MP Sumanthiran had decided that the Tamil government would not field a candidate in the election- and that in the presidential election, the candidate did not support the Tamil candidate on the basis of not to stop the candidate in the presidential election.
 
 ◼️
 
 [Data](articles/08a9d579.json)
 
+[Extended Data](ext_articles/08a9d579.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தி கண்டி மாவட்ட அமைப்பாளராக துரை மதியுகராஜா நியமனம்!
+### Durai Mathiyagarajah appointed as UNP Kandy District Organizer
 
 *2024-08-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190272) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் விவசாய மாநாடு ஞாயிற்றுக்கிழமை (04) நுவரேலியா - ஹங்குராங்கெத்தையில் நடைபெற்றபோது, அண்மையில் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட மத்திய மாகாண சபையின் உப தவிசாளராக இரண்டு தடவைகளும், அவைத் தலைவராக பதவி வகித்தவரும், இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளரும், 25 வருடங்களுக்கும் மேலாக கண்டி மாவட்டத்தில் இலங்கை தொழிலாளர் காங்கிரஸின் பிரதான அமைப்பாளராகவும் பணியாற்றியுள்ள துரை மதியுகராஜா அவர்கள் ஐக்கிய மக்கள் சக்தி கண்டி மாவட்ட அமைப்பாளராக சஜித் பிரேமதாச அவர்களால் நியமிக்கப்பட்டார்.
+Durai Mathiyagarajah, with over 25 years of experience in the Ceylon Workers Congress in Kandy, has been appointed by Sajith Premadasa as the United People's Power Kandy District Organizer. This appointment follows the party's recent entry into the Central Provincial Council.
+
+🟩
+
+When the United People's Power Agricultural Conference was held on Sunday (04) at Nuwaralya - Hanguurangetta, the United People's Power Recently joined the Central Provincial Council, the Chairman of the Central Provincial Council, the Senior Vice Chancellor of the Ceylon Workers Congress and the Chief Organization of the Ceylon Workers Congress in Kandy for over 25 years.Durai Mathiyagarajah was appointed by Sajith Premadasa as the United People's Power Kandy District Organizer.
 
 ◼️
 
 [Data](articles/1a40cfdc.json)
 
+[Extended Data](ext_articles/1a40cfdc.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு ; அ. அரவிந்தகுமார்
+### Ranil Wickremesinghe supports the presidential election;A. Aravindakumar
 
 *2024-08-04 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190271) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதற்கு ஐக்கிய தொழிலாளர் முன்னணி தீர்மானித்துள்ளது என்று அதன் தலைவரும் கல்வி இராஜாங்க அமைச்சருமான அருணாசலம் அரவிந்தகுமார் தெரிவித்தார்.
+The United Workers Front endorses President Ranil Wickremesinghe for re-election, citing his leadership and addressing issues like worker wages and land ownership. Arunachalam Aravindakumar, the group's leader, dismisses rumors of election postponement, assuring transparency and progress under Wickremesinghe's presidency.
 
-“ஜனாதிபதி தேர்தலை ஒத்திவைப்பதற்கு அரசு முயற்சிக்கின்றது என எதிரணிகள் போலி தகவல்களை பரப்பிவந்தன. தற்போது தேர்தல் திகதி அறிவிக்கப்பட்டுள்ளது. ஜனாதிபதியும் கட்டுப்பணம் செலுத்தியுள்ளார். எனவே, எதிரணிகளின் குற்றச்சாட்டுகள் போலியானவை என்பது தற்போது உறுதியாகியுள்ளது.
+🟩
 
-ஜனாதிபதி தேர்தல் தொடர்பில் ஆராய்ந்து, இந்நாட்டை முன்னோக்கி கொண்டுசெல்லக்கூடிய தலைவரான ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதற்கு நாம் தீர்மானித்தோம். செப்டம்பர் 21 ஆம் திகதி அவர் ஜனாதிபதியாவார்.
+The United Workers Front has decided to support the current President Ranil Wickremesinghe in the upcoming presidential election, said its leader and state minister Arunachalam Aravindakumar.
 
-பெருந்தோட்டத் தொழிலாளர்களின் சம்பளப் பிரச்சினை தொடர்பில் நாம் ஜனாதிபதியுடன் பேச்சு நடத்தினோம். அதற்கு தொழிலாளர்களுக்கு நன்மை பயக்ககூடிய வகையில் தீர்வு கிட்டும் என ஜனாதிபதி உறுதியளித்துள்ளார்.
+“Opponents spread fake information that the government is trying to postpone the presidential election. Currently announced the election date. The president has also paid control. Therefore, it is now certain that the allegations of the opponents are fake.
 
-...
+We decided to support President Ranil Wickremesinghe, the leader of the presidential election and brought the country forward. He will be president on September 21st.
+
+We have talks with the president on the pay issue of plantation workers. The President has promised to benefit workers.
+
+Land and home ownership demand also made by us. He also accepted that request. ”Aravindakumar added.
+
+◼️
 
 [Data](articles/5a2311a8.json)
+
+[Extended Data](ext_articles/5a2311a8.ext.json)
 
 ---
 
@@ -2223,25 +2287,5 @@ In a separate incident, another policeman attached to the same police station ha
 [Data](articles/bf859837.json)
 
 [Extended Data](ext_articles/bf859837.ext.json)
-
----
-
-### Sri Lanka receive massive blow, Wanindu ruled out of India ODI series
-
-*2024-08-04 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100976/sri-lanka-receive-massive-blow-wanindu-ruled-out-of-india-odi-series) · `en`
-
-Sri Lanka’s star spinner Wanindu Hasaranga has been ruled out of the remaining two ODIs against India after sustaining an injury to his left hamstring.
-
-Sri Lanka Cricket (SLC) released an official statement to confirm Hasaranga being ruled out of the remainder of the series and named spinner Jeffrey Vandersay as his replacement.
-
-“Wanindu Hasaranga will miss the remainder of the ODI series, as the player has suffered an injury to his left hamstring. He experienced pain in his left hamstring while delivering the last ball of his 10th over during the first ODI. An MRI performed on the player, following this, confirmed the injury. Jeffrey Vandersay comes into the squad in place of Hasaranga,” SLC said in a statement.
-
-Hasaranga was one of the standout performers for the hosts in the first ODI. He picked three scalps, including stalwart batter Virat Kohl and KL Rahul’s wicket, and gave away 58 runs in his 10-over spell.
-
-...
-
-[Data](articles/52753c63.json)
-
-[Extended Data](ext_articles/52753c63.ext.json)
 
 ---

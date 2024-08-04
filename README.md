@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 23:55:39**
+As of **2024-08-05 00:07:41**
 
 ## Newspaper Stats
 
-*Scraped **38,971** Articles*
+*Scraped **38,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
 islandlk | 2,239
-economynextcom | 2,351
+economynextcom | 2,352
 dailyftlk | 2,494
 adalk | 3,574
-adaderanalk | 4,520
+adaderanalk | 4,521
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,863
 virakesarilk | 6,171
@@ -26,25 +26,47 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,970 (100.0%) of 38,971 articles have been extended.
+38,971 (100.0%) of 38,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### අරුණ දර්ශන අවසන් පූර්ව වටයට
+### Paris Olympics: Sri Lanka’s Aruna Darshana advances to 400m semi-finals
+
+*2024-08-04 23:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100996/paris-olympics-sri-lankas-aruna-darshana-advances-to-400m-semi-finals) · `en`
+
+Sri Lankan sprinter Aruna Darshana has qualified for the semifinals of the Men’s 400m event at the 2024 Paris Olympic Games after finishing third in the Heat race.
+
+Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, his personal best, and qualified for the semifinals which are scheduled to be held on Tuesday (Aug. 06).
+
+Kirani James (44.78) of Grenada placed first in Heat 5 while Canada’s Christopher Morales-Williams came second with a time of 44.96 seconds.
+
+◼️
+
+[Data](articles/b2f0725d.json)
+
+---
+
+### Aruna footage in the semi-finals
 
 *2024-08-04 23:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199567) · `si`
 
-පැරිස් ඔලිම්පික් උළෙලේ මීටර් 400 ධාවන ඉසව්ව සඳහා ශ්‍රී ලංකාව නියෝජන කරමින් සහභාගි වූ අරුණ දර්ශන එහි අවසන් අවසන් පූර්ව වටයට සුදුසුකම් ලබාගැනීමට සමත් විය.
+In the Paris Olympics, Aruna from Sri Lanka qualified for the 400m final after a strong performance in the semi-finals. Competing in the fifth heat, Aruna clocked 44.999 seconds, securing the third position.
 
-අරුණ සහභාගි වූ තරගය මෙරට වේලාවෙන් අද (04දා) රාත්‍රී 11.15ට පැවැත්විණි.
+🟩
 
-එහි මූලික වටයේ 05වැනි තරගය සහභාගි වූ අරුණ තත්. 44.99කින් තරගය අවසන් කර තෙවැනි ස්ථානය දිනාගැනීමට සමත් විය.
+The Aruna footage of Sri Lanka's 400m event at the Paris Olympics was able to qualify for its final semi-final.
+
+The match was held at 11.15 pm today (04).
+
+The array of the festival of the five round. 44.999, the match was completed and won the third place.
 
 ◼️
 
 [Data](articles/a0045d35.json)
+
+[Extended Data](ext_articles/a0045d35.ext.json)
 
 ---
 
@@ -789,6 +811,26 @@ Government surrenders have a devastating effect on the currency, when the exchan
 [Data](articles/da42feb8.json)
 
 [Extended Data](ext_articles/da42feb8.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices marginally down
+
+*2024-08-04 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-marginally-down-175209/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 85,516 to 85,087 for 1000 nuts at an auction on August 01, 2024 data from the Coconut Development Authority shows.
+
+The highest price was 92, 000 down from 95,000 for 1000 nuts while the lowest was 77,000 down from 78,500 for 1000 nuts.
+
+A total of 573,886 coconuts were offered at the auction and 550,139 were sold.
+
+Wholesale prices were 100-110 rupees for large nuts and 85 to 90 rupees for small nuts on 1 August.
+
+Farmgate prices in Kurunegala were 80,000 -82,000 per 1,000 nuts.
+
+◼️
+
+[Data](articles/54bffe5a.json)
 
 ---
 
@@ -2251,55 +2293,5 @@ In that respect the INS. The Shulki submarine has now gone to Sri Lanka. Inn.S..
 [Data](articles/b03a3934.json)
 
 [Extended Data](ext_articles/b03a3934.ext.json)
-
----
-
-### The body of the fisherman was brought to Rameswaram
-
-*2024-08-04 11:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-ராமேசுவரம்-கொண்டுவரப்பட்டது/175-341542) · `ta`
-
-A fisherman's body and two rescued fishermen were brought to Rameswaram after being found in the sea. The Sri Lankan navy rescued Muthu Muniyandi and Mookkaya, while the search continues for Ramachandran. The body was handed over to the Indian Embassy in Jaffna and then to Abdul Qadar Jilani in Rameshwaram. The Indian Navy's INS Pitra retrieved the body and the rescued fishermen, handing them over to Abdul Qadar Jilani. The body was later given to the deceased's family. The Sri Lankan navy also arrested 21 fishermen from Tamil Nadu, releasing 21 others after negotiations between the Indian embassy and Sri Lankan officials. These released fishermen were flown back to Chennai and then to their home districts.
-
-🟩
-
-The body of a fisherman who died in the middle of the sea was brought to Rameswaram yesterday. Similarly, 2 rescued fishermen came to Rameswaram.
-
-Sri Lankan navy patrol. Fisherman Ramachandran (64) was mysterious in the sea. Muthu Muniyandi (57) and Mookkaya (54) were rescued by the Sri Lankan navy and handed over to the Indian embassy in Jaffna.. Also, the search for the mysterious fisherman Ramachandran in the Mediterranean is ongoing.
-
-In this case, the body of Malachami was submitted to the Jaffna Government Hospital and handed over to the Indian Embassy. Subsequently, the two fishermen who were rescued and the body of the hilltop were sent from the Kankesanthurai naval camp last night in a patrol boat owned by the Sri Lanka Navy.
-
-The Indian Navy's 'INS Pitra' shipping on the international waters brought the Malachami body and the rescued fishermen and handed over to the Assistant Director of Rameshwaram Fisheries Abdul Qadar Jilani.
-
-...
-
-[Data](articles/6432dcf7.json)
-
-[Extended Data](ext_articles/6432dcf7.ext.json)
-
----
-
-### Firing on the sleeper
-
-*2024-08-04 11:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தூங்கியவர்-மீது-துப்பாக்கி-சூடு/76-341540) · `ta`
-
-A 39-year-old father of three was fatally shot while sleeping in Sevanagala. The incident occurred as he stayed in a friend's house during a family dispute. He was hospitalized with hand injuries but later succumbed to his wounds. Police are investigating the case.
-
-🟩
-
-Sevanagala police said that a man who was sleeping in a house in Sevanagala area had been shot dead on Sunday morning.
-
-The father of three children (39 years old), who lives near the Ayurvedic Hospital, was injured in the shooting.
-
-The shooting was carried out as he was sleeping on Saturday (03), while he was sleeping in the house of a man who had been left home for a few days due to a family dispute.
-
-He was admitted to the Embilipitiya Hospital with serious injuries in his hand.
-
-Further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/64a34540.json)
-
-[Extended Data](ext_articles/64a34540.ext.json)
 
 ---

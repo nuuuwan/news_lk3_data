@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 18:37:14**
+As of **2024-08-04 18:54:57**
 
 ## Newspaper Stats
 
-*Scraped **38,942** Articles*
+*Scraped **38,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
-adalk | 3,570
+adalk | 3,571
 adaderanalk | 4,516
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,859
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,940 (100.0%) of 38,942 articles have been extended.
+38,942 (100.0%) of 38,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,26 @@ Without 4G and 3G people cannot communicate using the internet on their mobile d
 ...
 
 [Data](articles/d8dcf0ea.json)
+
+[Extended Data](ext_articles/d8dcf0ea.ext.json)
+
+---
+
+### සර්වජන බලයේ ජනාධිපති අපේක්ෂකත්වය දිලිත් ජයවීරට
+
+*2024-08-04 17:52:46* · [`adalk`](https://www.ada.lk/breaking_news/සර්වජන-බලයේ-ජනාධිපති-අපේක්ෂකත්වය-දිලිත්-ජයවීරට/11-411188) · `si`
+
+ශ්‍රී ලංකාව රැක ගැනීමට අවශ්‍ය වූ බැවින් සර්වජන බලය සංවිධනය නිර්මාණය කළ බව එහි ජනාධිපතිවරණ අපේක්ෂඛ ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසීය.
+
+සර්වජන බලයේ අපේක්ෂකයා ලෙස අද (04දා) සුගතදාස ගෘහස්ත ක්‍රීඩාංගනයේදී ඔහුව නම් කිරීමෙන් පසු සමුළුව අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී සර්වජන බලයේ ජනාධිපති අපේක්ෂකයා ලෙස ව්‍යවසායක දිලිත් ජයවීර මහතා නම් කිරීමට සර්වජන බලයේ විධායක සභාව ඒකමතිකව තීරණය කළ බව සමුළුව අමතමින් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා පැවසීය.‍
+
+මෙම අවස්ථාවට පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විමල් වීරවංශ, උදය ගම්මන්පිල, වීරසුමන වීරසිංහ, ගාමිණි වලේබොඩ, මහාචාර්ය චන්න ජයසුමන මෙන්ම හිටපු ආණ්ඩුකාර අනුරාධා යහම්පත් මහත්මිය, අරැස් සිද්ධාර්ත් ඇතුළු පිරිසක් එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/8448265d.json)
 
 ---
 
@@ -156,23 +176,29 @@ Indian leader Rohit Sharma, near the nearby or day, and he owns 10,480 one-day r
 
 ---
 
-### ஹக்கீம் அதிரடி: ஒருவரை வெளியேற்றினார்
+### Hakeem Action: A man out of one
 
 *2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-அதிரடி-ஒருவரை-வெளியேற்றினார்/175-341570) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் உயர்பீட கூட்டம் ஞாயிற்றுக்கிழமை(4) கட்சியின் தலைமையமான தாருஸ்ஸலாத்தில் நடைபெற்றது.
+Rauf Hakeem, leader of the Sri Lanka Muslim Congress, announced his expulsion from the party due to allegations of criticizing it on Facebook. He decided not to attend upcoming high-level meetings, highlighting the party's role in Yahoo! Jaiyyagan expressed support for Hakeem's decision.
 
-படங்களை  முகநூலில் பதிவேற்றம் செய்தது ,  விஷமிகளுக்கு கட்சியை அநாகரிகமாக முகநூலில் விமர்சிக்க இடமளித்தமை ஆகிய குற்றச்சாட்டுகளினால்  கட்சியின் தலைவர் ரவூப் ஹக்கீம்  ,அவரை  கூட்டத்திலிருந்து வெளியேற்றுவதாக அறிவித்தார் .
+🟩
 
-கட்சியின் தலைவர் ஹக்கீம் உடனடி நடவடிக்கையாக யஹியாகானை  நடைபெற்று கொண்டிருந்த உயர்பீட கூட்டம் மற்றும் அடுத்த உயர்பீட கூட்டம் ஆகிய இரு அமர்வுகளில்  பங்குபற்றகூடாது என இடைநிறுத்துவதாக குறிப்பிட்டார்.
+The Sri Lanka Muslim Congress's high -level meeting was held on Sunday (4) in Darussalat, the party headquarters.
 
-கட்சியில் யஹியாகானுடைய வகிபாகம் பற்றி  பாராட்டியதோடு , இந்த முடிவை மனவருத்ததோடு எடுக்கவேண்டிய நேர்ந்தது பற்றியும் தலைவர்  தெரிவித்தார்.
+Party leader Rauf Hakeem has announced that he will be expelled from the crowd due to allegations that the films have been uploaded on Facebook and have been accused of criticizing the party in the face of the party.
 
-தலைவரின் முடிவுக்குக் கட்டுப்பட்டு,    அவருடன்                        கைகுலுக்கி ,  முன்மாதிரியான முறையில் யஹியாகான்  அங்கிருந்து வெளியேறிச் சென்றார்.
+Party leader Hakeem said he would not participate in the two sessions of the high -level meeting and the next high -level meeting of Yahihan as an immediate move.
+
+The leader said that the party was praised for the role of Yahoo!
+
+Jaiyyagan left the leader's decision, shook hands with him and exemplary.
 
 ◼️
 
 [Data](articles/7d67ebaf.json)
+
+[Extended Data](ext_articles/7d67ebaf.ext.json)
 
 ---
 
@@ -2247,21 +2273,5 @@ During my efforts to shortlist employee suggestions, ‘Establishing quality cir
 [Data](articles/305dbe07.json)
 
 [Extended Data](ext_articles/305dbe07.ext.json)
-
----
-
-### The  Supreme Court has consistently upheld the principle that a govt servant is empowered to refuse to obey an ‘illegal’ order by his or her superior resulting in the use of state assets for a particular political party or candidate.
-
-*2024-08-04 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84472) · `en`
-
-If the glittering promise of the ‘Jathika Jana Balavegaya’ (NPP) is supposed to offer a better, brighter Sri Lanka to put an end to the ’76 year old curse’ of its political rivals, it is time that NPP Presidential candidate Anura Kumara Dissanayake refrains from justifying his actions during the run-up to the September 21st Presidential elections on the basis that, ‘others are doing it, why not me?’
-
-That absurd justification is increasingly being used by the NPP to the extent that this (logically) defeats its own argument of being ‘different’ to the others. Earlier, the NPP Presidential candidate announced on a recent visit overseas to meet his ‘supporters’ that he will declare the cost of his (frequent) travels and the sources of that (private) funding only if President Ranil Wickremesinghe together with his Minister of Sports and Minister of Labour/Foreign Employment discloses the same information regarding their (state) travels.
-
-...
-
-[Data](articles/f480097b.json)
-
-[Extended Data](ext_articles/f480097b.ext.json)
 
 ---

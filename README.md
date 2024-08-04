@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 06:41:22**
+As of **2024-08-04 07:20:44**
 
 ## Newspaper Stats
 
-*Scraped **38,837** Articles*
+*Scraped **38,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,500
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,827
 virakesarilk | 6,145
-adaderanasinhalalk | 6,556
+adaderanasinhalalk | 6,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,828 (100.0%) of 38,837 articles have been extended.
+38,830 (100.0%) of 38,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-04 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199536) · `si`
+
+අද (04) දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/cd6ac2ab.json)
+
+---
 
 ### IASL HR Conference 2024: Embracing resilience and change
 
@@ -174,19 +192,25 @@ I travelled to Karachi from Colombo on October 1. The connecting flight to Londo
 
 ---
 
-### வயநாடு நிலச்சரிவு: பலி 350 ஆக அதிகரிப்பு
+### Wayanad Landslide: Increase to 350
 
 *2024-08-04 01:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-நிலச்சரிவு-பலி-350-ஆக-அதிகரிப்பு/175-341522) · `ta`
 
-கேரள மாநிலம் வயநாடு பகுதியில் ஏற்பட்ட நிலச்சரிவில் சிக்கி உயிரிழந்தோர் எண்ணிக்கை 350 ஆக அதிகரித்துள்ளது.
+The death toll from a landslide in Kerala has increased to 350, with 215 bodies recovered including 87 women, 98 men, and 30 children. 148 bodies have been identified and returned to families, while 67 remain unidentified. The Navy is involved in rescue efforts. 206 people are still missing, and 81 injuries are being treated in hospitals.
 
-மீட்பு மற்றும் நிவாரணப் பணிகளில் தொடரும் கடற்படையின் பங்களிப்பு குறித்து மத்திய அரசு விவரித்துள்ளது.
+🟩
 
-இதுவரை 215 சடலங்கள் மீட்கப்பட்டுள்ளன. இதில் 87 பெண்கள், 98 ஆண்கள், 30 குழந்தைகள். இதுவரை 148 உடல்கள் ஒப்படைக்கப்பட்டுள்ளன. இன்னும் 206 பேர் காணவில்லை. 81 பேர் காயமடைந்துள்ளனர். பல்வேறு மருத்துவமனைகளில் அவர்கள் சிகிச்சை பெற்று வருகின்றனர். சாலியாற்றில் இருந்து மீட்கப்பட்ட சடலங்கள் மற்றும் பாகங்களை அடையாளம் காண்பதில் சிரமம் உள்ளது. 67 உடல்கள் இன்னும் அடையாளம் காணப்படவில்லை. அடையாளம் தெரியாத உடல்களுக்கு இறுதிச் சடங்குகள் செய்யும் பணியை பஞ்சாயத்துகள் மேற்கொள்ளும் என்றார். (a)
+The death toll from the landslide in the state of Kerala has risen to 350.
+
+The federal government has described the role of the Navy in the rescue and relief work.
+
+215 bodies have been recovered so far. Of these, 87 women, 98 men, 30 children. 148 bodies have been handed over so far. Another 206 people are missing. 81 people were injured. They are being treated in various hospitals. There is difficulty in identifying corpses and parts recovered from Saliyar. 67 bodies have not yet been identified. He said the panchayats would do the task of performing funerals for unidentified bodies. (A)
 
 ◼️
 
 [Data](articles/0c055134.json)
+
+[Extended Data](ext_articles/0c055134.ext.json)
 
 ---
 
@@ -221,6 +245,8 @@ I was born on 17 September 17, 1906. My father was E.W. Jayawardene, K.C. and a 
 ...
 
 [Data](articles/24c240e9.json)
+
+[Extended Data](ext_articles/24c240e9.ext.json)
 
 ---
 
@@ -2211,27 +2237,5 @@ However, he further stated that there is a possibility of providing eggs and chi
 [Data](articles/2f8baaef.json)
 
 [Extended Data](ext_articles/2f8baaef.ext.json)
-
----
-
-### The urban congregation is elected to the Urban Council
-
-*2024-08-03 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199504) · `si`
-
-The Urban Congregation was elected to the Urban Council. A report indicates the company owes Rs. 90 million to the Colombo Municipal Council. The Deputy Director of Vehicles, Tajala Kularatne, announced the suspension of a contract related to the controller due to project failures. Plans are underway to introduce a new electronic system within a year.
-
-🟩
-
-It is reported that the company has not paid Rs. 90 million has been paid to the Colombo Municipal Council.
-
-The Deputy Director of the Vehicle Tajala Kularatne said that this contract has been suspended regarding the controller.
-
-He said that due to the shortcomings of the project, a new electronic system is expected to be introduced within the next year.
-
-◼️
-
-[Data](articles/bc2e2ea8.json)
-
-[Extended Data](ext_articles/bc2e2ea8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 13:55:06**
+As of **2024-08-04 14:06:41**
 
 ## Newspaper Stats
 
-*Scraped **38,886** Articles*
+*Scraped **38,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,100 @@ adalk | 3,565
 adaderanalk | 4,509
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,847
-virakesarilk | 6,145
+virakesarilk | 6,153
 adaderanasinhalalk | 6,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,883 (100.0%) of 38,886 articles have been extended.
+38,886 (100.0%) of 38,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### ඊශ්‍රායලය ට හිස්බුල්ලා ප්‍රහාර
+### Israel attacks Israel
 
 *2024-08-04 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199547) · `si`
 
-ලෙබනනයේ ක්‍රියාත්මක ඉරානයේ සහාය ලබන හිස්බුල්ලා සංවිධානය උතුරු ඊශ්‍රායලය ඉලක්ක කරමින් රොකට් ප්‍රහාර එල්ලකර තිබේ.
+Israel's Iron Dome system thwarted rocket attacks from Hezbollah in Lebanon, backed by Iran. No casualties were reported, but tensions escalate, worrying countries like the US, UK, Jordan, and Canada, as well as Lebanese citizens.
 
-පසුගියදා ඊශ්‍රායල ප්‍රහාරයකින් හිස්බුල්ලා ප්‍රධානියෙකු මියයාමේ සිදුවීම මුල්කර ගෙන ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කරන බවට හිස්බුල්ලා සංවිධාන අනතුරු අඟවා තිබුණි.
+🟩
 
-ඊශ්‍රායලය පවසන්නේ සිය "අයන් ඩෝම් ගුවන් ආරක්ෂණ පද්ධතිය" මගින් රොකට් ප්‍රහාර වැළැක්වීමට සමත්වූ බවයි.
+Hisbollah, supporting Iran in Lebanon, has attacked the North Israeli targeting North Israeli.
 
-හිස්බුල්ලා ප්‍රහාර හේතුවෙන් කිසිදු ජීවිත හානියක් වාර්තා වී නොමැති බව සඳහන් ය.
+Hisbollah warned that an Israeli attack recently had a counterfeit to Israel.
 
-කෙසේවුවද ඉන් මැද පෙරදිග යුද ගැටුම් තීව්‍රවීමට ඇති අවදානම තවත් උග්‍ර වීමෙන් අමෙරිකාව, බ්‍රිතාන්‍ය, ජෝර්දානය, කැනඩාව ඇතුළු රටවල් ලෙබනනයේ සිටින සිය පුරවැසියන්ට වහාම එරටින් පිටවන ලෙසට නිවේදනය කර තිබේ.
+Israel says that his "Iron Dome Air Air Security System" has been able to prevent rocket attacks.
+
+Hezbollah said that no casualties were reported.
+
+However, the risk to escalate war clashes in the Middle East has aggravated countries, USA, British, Jordan, Canada and other citizens in Lebanon.
 
 ◼️
 
 [Data](articles/45cb2e8e.json)
 
+[Extended Data](ext_articles/45cb2e8e.ext.json)
+
 ---
 
-### අද නම් කෙරෙන සර්වජන බලයේ ජනපති අපේක්ෂකයා
+### மருத்துவரின் அலட்சியத்தால் மன்னார் மருத்துவமனையில் உயிரிழந்த பெண் - நீதி நிலைநாட்டப்பட வேண்டும் - மன்னார் பொது அமைப்புகளின் ஒன்றியம் கோரிக்கை - சுகாதார அமைச்சுக்கு கடிதம்
+
+*2024-08-04 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190235) · `ta`
+
+மன்னார் மாவட்ட வைத்தியசாலையில் மரியராஜ் சிந்துஜா என்ற பெண் மரணமடைந்தமை தொடர்பில் மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியம் சுகாதார அமைச்சின் செயலாளருக்கு கடிதமொன்றை அனுப்பிவைத்துள்ளது.
+
+மரியராஜ் சிந்துஜாவிற்கு நீதி கிடைக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியம் இந்த மரணம் குறித்த விசாரணைகள் மூடி மறைக்கப்படாமலிருப்பதை உறுதி செய்யவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது.
+
+திருமதி மரியராஜ் சிந்துஜா என்பவர் கடந்த மாதம் 9ஆம் திகதி மன்னார் வைத்தியசாலையில் சத்திர சிகிச்சை மூலம்  குழந்தை பெற்றுள்ளார்.
+
+பின்னர் 27ம் திகதி குருதிபெருக்கு காரணமாக இரவு மன்னார் மாவட்ட வைத்தியசாலையில் சேர்ந்துள்ளனர்.
+
+மறுநாள் காலை வரை எந்த வைத்தியரும் அவர்களை பார்வையிடவில்லை.விடுதிக்கு பொறுப்பான வைத்தியர்கள் விடுதியில் இருந்துள்ளனர்.
+
+ஆகவே வைத்தியர்களின் பொறுப்பற்ற செயலால் அந்த பெண் மரணமடைந்துள்ளார்.வைத்தியசாலைகளில் இவ்வாறான பொறுப்பற்ற செயல்கள் தொடர்வது வாடிக்கையாகிவிட்டது.அதுவும் இரவுநேரங்களில் இந்த நிலை தொடர்கின்றது.உயிருடன் விளையாடும் அசட்டையீனங்கள் தொடர்கின்றன.
+
+...
+
+[Data](articles/a27f5369.json)
+
+---
+
+### President's candidate for the universal power
 
 *2024-08-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199546) · `si`
 
-සර්වජන බලය පක්ෂය සංවිධාන කරන සර්වජන සමුළුව අද (04) පස්වරු 3ට සුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතව තිබේ.
+Today, the United States hosts the Annuate Conference at Sugathadasa Indoor Stadium, Colombo, featuring President's candidate for universal power.
 
-අද පස්වරුවේ කොළඹ සුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී එම සමුළුව පැවැත්වීමට නියමිත අතර එම පරිශ්‍රයේ සූදානම පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර මහතා විසින් අද පැමිණ නිරීක්ෂණය කරනු ලැබීය.
+🟩
+
+The annuate conference organized by the United States is scheduled to be held at the Sugathadasa Indoor Stadium today (04).
+
+The conference is scheduled to be held at the Sugathadasa Indoor Stadium in Colombo this afternoon.
 
 ◼️
 
 [Data](articles/40cd32c5.json)
+
+[Extended Data](ext_articles/40cd32c5.ext.json)
+
+---
+
+### 2022 மே 09 நாமல் செய்த தவறால் எமது வீடுகள் தீக்கிரையாகின - எஸ்.எம்.சந்திரசேன
+
+*2024-08-04 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190236) · `ta`
+
+நாமல் ராஜபக்ஷ உட்பட ஒரு தரப்பினர் 2022 மே 09ஆம் திகதி செய்த தவறால் எமது வீடுகள் தீக்கிரையாக்கப்பட்டன. இவர்கள் தவறு செய்ய நாங்கள் தண்டனை அனுபவித்தோம். இவ்வாறானவர்களுடன் அரசியல் செய்வதை விட தற்போது எடுத்துள்ள தீர்மானம் சிறந்ததாக உள்ளது என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்தார்.
+
+அநுராதபுரம் பகுதியில் ஞாயிற்றுக்கிழமை (04) இடம்பெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அனுராதபுரம் மாவட்ட மக்களின் அபிலாஷைக்கு அமைவாகவே ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்க தீர்மானித்தேன். நாடு பொருளாதார நெருக்கடியில் இருந்து மீண்டுவிட்டது. தற்போதைய முன்னேற்றத்தை தொடர வேண்டுமாயின் ஜனாதிபதி தலைமையிலான அரசாங்கம் மீண்டும் தோற்றம் பெற வேண்டும் என்று சாதாரண மக்கள் குறிப்பிடுகிறார்கள்.
+
+...
+
+[Data](articles/3e417d61.json)
 
 ---
 
@@ -144,15 +194,21 @@ Accordingly, the Department of Immigration and Emigration had announced that iss
 
 ---
 
-### රත්තරන්ගේ සහය රනිල්ට
+### Ranil to support gold
 
 *2024-08-04 12:24:15* · [`adalk`](https://www.ada.lk/breaking_news/රත්තරන්ගේ-සහය-රනිල්ට/11-411182) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී තම සහය වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසීය.
+Parliamentarian Rohitha Abeygunawardena pledges support to President Ranil Wickremesinghe for the upcoming presidential election.
+
+🟩
+
+Parliamentarian Rohitha Abeygunawardena said he will give his support to President Ranil Wickremesinghe in the next presidential election.
 
 ◼️
 
 [Data](articles/b2b648fb.json)
+
+[Extended Data](ext_articles/b2b648fb.ext.json)
 
 ---
 
@@ -252,6 +308,18 @@ Speaking to the media today (04), the MP said.
 
 ---
 
+### பிழைத்துப்போன வியூகங்கள்
+
+*2024-08-04 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190217) · `ta`
+
+சற்று பொறுத்திருந்து அவதானித்து. எத்தனை பேர் ரணில் விக்கிரமசிங்கவுடன் ஒட்டிக் கொள்கிறார்கள் என்பதை கவனித்து வேட்பாளரை களமிறக்க பொதுஜன பெரமுன திட்டமிட்டிருக்கிறது. ராஜபக்ஷவினருடன் தேர்தல் கூட்டை வைத்துக் கொள்ளவோ இணக்கப்பாட்டை ஏற்படுத்திக் கொள்ளவோ, ரணில் விக்கிரமசிங்க விரும்பவில்லை.
+
+◼️
+
+[Data](articles/76f1af31.json)
+
+---
+
 ### Attack on a Russian submarine from Ukraine
 
 *2024-08-04 11:44:36* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේනයෙන්-රුසියානු-සබ්මැරීනයකට-ප්‍රහාරයක්/11-411181) · `si`
@@ -267,6 +335,58 @@ The Ukrainian army has ruined a Russian submarine. Foreign media reports, the su
 [Data](articles/06727094.json)
 
 [Extended Data](ext_articles/06727094.ext.json)
+
+---
+
+### இரட்டைப் படுகொலை மூலம் இஸ்ரேல் எதிர்பார்ப்பதென்ன?
+
+*2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190207) · `ta`
+
+காஸா பலஸ்தீனர்கள் மீதானஅராஜகங்களை மத்திய கிழக்கில் தைரியமாக எதிர்த்துப் பேசி,படைப்பலத்தின் மூலமும், மூலோபாயரீதியிலும் எதிர்ப்பைவெளிப்படுத்தும் சக்திகளாக ஹமாஸ், ஹிஸ்புல்லா இயக்கங்கள் பார்க்கப்படுகின்றன. அவற்றுடன் ஈரானையும் சேர்த்து 'எதிர்ப்பு இயக்கத்தின் அச்சாணி”யென இஸ்ரேல் வர்ணிக்கிறது.
+
+◼️
+
+[Data](articles/7819a3f8.json)
+
+---
+
+### முஸ்லிம்களுக்கு     அவசியமான தேவை
+
+*2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190213) · `ta`
+
+முஸ்லிம் காங்கிரஸின் பாராளுமன்ற உறுப்பினர்கள் ரணிலை ஆதரிப்பதற்குரிய தீர்மானத்தைஏற்கனவே கொண்டுள்ளனர். நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியை ஓரளவுக்கு ரணில் தீர்த்துள்ளார். அதனால், மக்களிடையே அவருக்கு செல்வாக்கு காணப்படுகின்றது. அத்தோடு மொட்டு அணியினரும் ஆதரவு வழங்கும்போது ஜனாதிபதித் தேர்தலில் ரணிலின் வெற்றி உறுதியாகிவிடும் என்பதே முஸ்லிம் கட்சிகளின் பாராளுமன்ற உறுப்பினர்களின் முன்னைய கணிப்பாகும்.
+
+◼️
+
+[Data](articles/97b6922d.json)
+
+---
+
+### தமிழ் பொதுவேட்பாளர், பங்குதாரர்களிடம்  சில கேள்விகள்
+
+*2024-08-04 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190208) · `ta`
+
+வடக்கு, கிழக்கை மையப்படுத்திய அரசியல், சிவில் கட்டமைப்புக்கள் புதிதாகவோ அல்லது கூட்டாகவோ உருவாகின்றபோது சமகாலத்தில் காணப்படுகின்ற கட்டமைப்புக்களில் நீடிக்கின்ற குறைபாடுகள், கடந்த காலத்தில் இழைக்கப்பட்ட தவறுகள் என்று அனைத்தையும் சீர்செய்யும் புதிய மாற்றத்துக்கானது என்றே பிரதிபலிக்கப்படுகின்றன.
+
+ஆனால் கட்டமைப்புக்களோ, கூட்டுக்களோ உருவாக்கப்பட்டதன் பின்னர் அவற்றின் மாற்றத்துக்கான கோசத்தின் சீத்துவக்கேட்டையும், அவை ஏலவே இருக்கின்ற கட்டமைப்புக்களை, கூட்டுக்களை விடவும் பிற்போக்குத்தனமாக சிந்திப்பதையும், செயற்படுவதையும் நிகழ்காலத்தில் கண்கூடாகக்காண முடிகிறது.
+
+அந்த வகையில், நாட்டின் ஒன்பதாவது ஜனாதிபதித் தேர்தல் செப்டெம்பர் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில், தமிழ் மக்களை தேசமாக திரளச் செய்வதற்கும், அபிலாஷைகளை வெளிப்படுத்துவதற்குமாக 'தமிழ் பொதுவேட்பாளர்' களமிறக்கப்படவுள்ளார்.
+
+...
+
+[Data](articles/bc4766f3.json)
+
+---
+
+### பொது வேட்பாளர்   தெரிவும் சிக்கலும்
+
+*2024-08-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/190209) · `ta`
+
+தமிழ் பொது வேட்பாளரை நிறுத்துகின்ற போது,  அவர் எல்லா மக்களாலும் ஏற்றுக் கொள்ளப்படக் கூடிய ஒருவராக இருக்க வேண்டும், ஆனால் சமூகத்தில் எல்லோராலும் மதிக்கப்படக் கூடிய ஆளுமைகள் இன்று பெருமளவில் அருகிப் போய் உள்ளனர்.
+
+◼️
+
+[Data](articles/5881a164.json)
 
 ---
 
@@ -493,6 +613,18 @@ Police said that a private bus traveling from Maha Oya to Aralangwila and anothe
 [Data](articles/1311cdc6.json)
 
 [Extended Data](ext_articles/1311cdc6.ext.json)
+
+---
+
+### அமெரிக்க காங்கிரஸில் உரையாற்ற நெத்தன்யாஹூவுக்கு அழைப்பு - பாரிய எதிர்ப்புக்கள் வெளியீடு
+
+*2024-08-04 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190205) · `ta`
+
+“நாம்  நெத்தன்யாஹூவின் வருகையை எதிர்க்கின்றோம். இப்போது நாம் விடுக்கும் பிரதான அழைப்பு இனப்படுகொலைகள் நிறுத்தப்பட வேண்டும் என்பதே. காலப்போக்கில் இனப்பாகுபாட்டு பொறிமுறையம் அழிக்கப்பட வேண்டும். சம உரிமைகள், சுதந்திரம், எல்லா மக்களுக்குமான பாதுகாப்பு என்பன உறுதி செய்யப்பட வேண்டும்” என்று அமெரிக்காவில் நிலைகொண்டுள்ள சியோனிஸ விரோத இஸ்ரேலியர்களை உள்ளடக்கியவர்களும், ஆர்ப்பாட்டங்களை ஏற்பாடு செய்தவர்களும் கூட்டாகக் கோரிக்கை விடுத்திருந்தனர்.
+
+◼️
+
+[Data](articles/75a4046f.json)
 
 ---
 
@@ -2065,195 +2197,5 @@ According to foreign media reports, Kamala Harris is to name his Deputy Presiden
 [Data](articles/5c30042f.json)
 
 [Extended Data](ext_articles/5c30042f.ext.json)
-
----
-
-### Decision on MPs who passed out of the rush
-
-*2024-08-03 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199523) · `si`
-
-The Sri Lanka General Front plans to eliminate party membership requirements for making decisions. This move follows a unanimous decision by the Politburo, led by Secretary General Sagara Kariyawasam. Additionally, a group has pledged support for Mr. Ranil Wickremesinghe in the upcoming presidential election. State Minister of Fisheries Piyal Nishantha emphasizes courage in decision-making, attributing it to the challenges faced by the country under the current leadership.
-
-🟩
-
-The Sri Lanka General Front states that steps will be taken to abolish the party membership without the status of the party's decisions.
-
-The Secretary General of the General Secretary Sagara Kariyawasam has informed the Politburo in unanimous decision.
-
-A group of people have decided to support Mr. Ranil Wickremesinghe in the next presidential election and this step has been taken in this regard.
-
-State Minister of Fisheries Piyal Nishantha says: "Today, we are not afraid of the letter today. We made the decisions because the president was done to this country. "
-
-◼️
-
-[Data](articles/8a84e1e7.json)
-
-[Extended Data](ext_articles/8a84e1e7.ext.json)
-
----
-
-### Tisthasha second point on the second place
-
-*2024-08-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199522) · `si`
-
-Tharushi Karunaratne missed her initial match but secured a spot in the 4th Basic Competition today, marking a historic first for the Olympics: a competitor getting a second chance after failing in the prelims.
-
-🟩
-
-The last expectation of Tharushi Karunaratne of Tharushi Karunaratne at the 2024 Olympic Games was completely blurred today.
-
-Although this event could not succeed in the basic matches yesterday (2), she was able to win the opportunity to compete again today.
-
-Accordingly, today is the country today. At least the 4th Basic Competition at 3.15 was present at the 7th.
-
-This second chance, if there is no second chance of failure in the preliminary round, this is the first time in the Olympic history.
-
-◼️
-
-[Data](articles/9d68f73c.json)
-
-[Extended Data](ext_articles/9d68f73c.ext.json)
-
----
-
-### Special traffic plan in Colombo on the 5th
-
-*2024-08-03 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199521) · `si`
-
-Colombo implements a special traffic plan from 5th, 8 PM to ease congestion. Key changes: vehicles entering Gangarama Viharaya via James Peiris Mawatha; Jinaratana Mawatha entry closed, traffic directed one way; public parking shifted behind Altable Building.
-
-🟩
-
-The police have taken steps to implement a special traffic plan in the Galaboda Nayanissara Thera, Ven. Ven.
-
-The special traffic plan will be operated to reduce traffic congestion on Monday (05) to 8.00 pm to 8 pm.
-
-Accordingly, the police are informed that the traffic will be restricted to the following roads.
-
-Meanwhile, all vehicles entering the Gangarama Viharaya to the Gangarama Viharaya today (03) will enter James Peiris Mawatha.
-
-The entry of Jinaratana Mawatha will be closed down in Jinaratana Mawatha, while traffic on Jinaratana Mawatha will be carried out in one direction alone.
-
-Meanwhile, the parking lot of the public for the purpose of the cremation parks will facilitate the land behind the Altable Building.
-
-The roads limiting traffic traffic restricted Monday, Monday
-
-◼️
-
-[Data](articles/f7bcf047.json)
-
-[Extended Data](ext_articles/f7bcf047.ext.json)
-
----
-
-### Sajithu is supported by Dayasiri
-
-*2024-08-03 15:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துக்கே-தயாசிறி-ஆதரவு/175-341502) · `ta`
-
-Dayasiri Jayasekara from the SLFP supports Sajith Premadasa for President under the United People's Power party.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) Dayasiri Jayasekara has decided to support the United People's Power Presidential candidate Sajith Premadasa.
-
-◼️
-
-[Data](articles/1f172423.json)
-
-[Extended Data](ext_articles/1f172423.ext.json)
-
----
-
-### Belawatta accident: Car broke in two
-
-*2024-08-03 15:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலவத்த-விபத்தில்-கார்-இரண்டாக-உடைந்தது/175-341501) · `ta`
-
-In a tragic accident on the Pelawatta Rajagiriya road, a luxury car carrying four youths collided with a van and a tree, breaking into two pieces. The high-speed crash involved a van owned by a University of Colombo graduate, leaving one victim's condition critical.
-
-🟩
-
-A luxury car carrying four youths lost control and collided with a van and crashed into a tree on the Pelawatta Rajagiriya road, Talangama police said.
-
-Police said the high -speed car crashed into the van and then crashed into a concrete pillar.
-
-Police said the car crashed with a van owned by the Graduate of the University of Colombo.
-
-The car broke in two. Police said the situation of a victim was worrisome ...
-
-◼️
-
-[Data](articles/1d57b7f8.json)
-
-[Extended Data](ext_articles/1d57b7f8.ext.json)
-
----
-
-### 42.76 billion rupees to the Department of Immigration and Emigration in the past year
-
-*2024-08-03 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190168) · `ta`
-
-The Department of Immigration and Emigration exceeded its target by earning a record 42.76 billion rupees in 2022, primarily from tourist arrivals and passport services. The Electronic Travel Authorization (ETA) contributed significantly, generating 17.74 billion rupees, while visas and embassy services added to the total. Despite issuing fewer passports in 2023, the department continues to perform well, with a notable increase in revenue attributed to the recovery of regional offices post-June 15, 2023.
-
-🟩
-
-The Department of Immigration and Emigration has earned 42.76 billion rupees last year.
-
-This is due to the arrival of most tourists and passports.
-
-The Department of Immigration and Emigration targeted an income of 28.1 billion rupees last year. But in 2022, the earnings set a record of 42.76 billion rupees over Rs 23.83 billion.
-
-Accordingly, the Electronic Travel Authorization (ETA) has earned 17.74 billion rupees, 12.51 billion rupees through the issuance and revision of the Electronic Travel Authorization (ETA), 7.09 rupees through a visa supply/extension and 3.82 billion rupees through the Embassy.
-
-Meanwhile, the Department of Immigration and Emigration has issued 910,582 passports last year.. Regional offices have been issued 191,557 passports in 2023 compared to 911,689 passports issued by 2022.
-
-In it, the office of the regional offices has been issued 56,261 passports after the recovery of the operations of the regional offices from June 15, 2023.
-
-...
-
-[Data](articles/f041da23.json)
-
-[Extended Data](ext_articles/f041da23.ext.json)
-
----
-
-### Doctor Archana arrested a while ago
-
-*2024-08-03 15:20:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனா-சற்று-முன்னர்-கைது/175-341500) · `ta`
-
-Dr. Ramanathan Archana was arrested for causing unrest at Mannar Hospital after a complaint from its administration. She has been remanded until the 7th of this month following a magistrate's ruling.
-
-🟩
-
-Dr. Ramanathan Archana has been arrested on charges of unrest in the Mannar Hospital.
-
-Dr. Ramanathan Archana has been arrested following a complaint filed by the Mannar Hospital administration.
-
-The arrested doctor Ramanathan Archana has been remanded till the 7th of this month following the presence of the Mannar Magistrate.. Remble
-
-◼️
-
-[Data](articles/4ca1fc69.json)
-
-[Extended Data](ext_articles/4ca1fc69.ext.json)
-
----
-
-### 45 complaints regarding election law violations;Pepral system
-
-*2024-08-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190179) · `ta`
-
-Before the presidential election, the February organization received 45 complaints about election violations, mainly involving the misuse of state power.
-
-🟩
-
-The February organization said that 45 complaints were received on election violations before the presidential election.
-
-The Executive Director of the February, Rohana Hettiarachchi, said that most of these complaints include abuse of state power.
-
-◼️
-
-[Data](articles/a24bf002.json)
-
-[Extended Data](ext_articles/a24bf002.ext.json)
 
 ---

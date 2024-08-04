@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 12:53:49**
+As of **2024-08-04 13:05:56**
 
 ## Newspaper Stats
 
-*Scraped **38,879** Articles*
+*Scraped **38,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,564
-adaderanalk | 4,508
+adaderanalk | 4,509
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,845
+tamilmirrorlk | 4,846
 virakesarilk | 6,145
 adaderanasinhalalk | 6,565
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,565
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,874 (100.0%) of 38,879 articles have been extended.
+38,879 (100.0%) of 38,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### Sri Lankan e-visa issuance suspended; final decision tomorrow
+
+*2024-08-04 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100983/sri-lankan-e-visa-issuance-suspended-final-decision-tomorrow) · `en`
+
+The Ministry of Public Security says that a final decision regarding the process of issuing visas for tourists arriving in Sri Lanka will be made tomorrow (05).
+
+The Ministry pointed out that the decision will be reached following discussions with officials of the Department of Immigration and Emigration.
+
+On Friday (02), the Supreme Court issued an interim order preventing the implementation of the Cabinet decision to grant approval for Online Visa Electronic Travel Authorization to be handled by two private entities.
+
+Furthermore, the court had issued another interim injunction preventing the implementation of the agreements reached with the relevant foreign companies while granting leave to proceed with the hearing of several petitions filed pertaining to the matter.
+
+Accordingly, the Department of Immigration and Emigration had announced that issuing of e-visa will be temporarily halted from August 02.
+
+...
+
+[Data](articles/df20dc72.json)
+
+---
 
 ### 22 injured as two buses collide head-on
 
@@ -48,17 +68,37 @@ The driver of one of the buses involved in the accident has been arrested and Ma
 
 [Data](articles/75679acd.json)
 
+[Extended Data](ext_articles/75679acd.ext.json)
+
 ---
 
-### ஹோஹிதவும் மாறினார்
+### ரோஹிதவும் மாறினார்
 
-*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோஹிதவும்-மாறினார்/175-341552) · `ta`
+*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவும்-மாறினார்/175-341552) · `ta`
 
 எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
 
 ◼️
 
+[Data](articles/357472ff.json)
+
+---
+
+### Hohita also changed
+
+*2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோஹிதவும்-மாறினார்/175-341552) · `ta`
+
+Rohitha Abeygunawardena, a Sri Lanka PA's Kalutara District Parliamentarian, announced his support for President Ranil Wickremesinghe in the upcoming presidential election.
+
+🟩
+
+Sri Lanka PA's Kalutara District Parliamentarian Rohitha Abeygunawardena has said that he will support President Ranil Wickremesinghe in the upcoming presidential election.
+
+◼️
+
 [Data](articles/9c565a17.json)
+
+[Extended Data](ext_articles/9c565a17.ext.json)
 
 ---
 
@@ -75,6 +115,8 @@ Speaking at an event held today (04), Abeygunawardena also stated that there are
 ◼️
 
 [Data](articles/3b4a4d28.json)
+
+[Extended Data](ext_articles/3b4a4d28.ext.json)
 
 ---
 
@@ -100,15 +142,21 @@ Speaking to the media today (04), the MP said.
 
 ---
 
-### යුක්රේනයෙන් රුසියානු සබ්මැරීනයකට ප්‍රහාරයක්
+### Attack on a Russian submarine from Ukraine
 
 *2024-08-04 11:44:36* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේනයෙන්-රුසියානු-සබ්මැරීනයකට-ප්‍රහාරයක්/11-411181) · `si`
 
-යුක්රේන හමුදාව විසින් රුසියානු සබ්මැරීනයක් විනාශ කර තිබේ. ක්‍රිමියානු අර්ධද්වීපයේ නැංගුරම් ලා තිබියදී ප්‍රහාරයක් එල්ල කරමින් මෙම සබ්මැරීනය විනාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+Ukraine reportedly damaged a Russian submarine off the Crimean coast, using an anchor, according to foreign media.
+
+🟩
+
+The Ukrainian army has ruined a Russian submarine. Foreign media reports, the submarine has been destroyed by an anchor of the Crimean Peninsula.
 
 ◼️
 
 [Data](articles/06727094.json)
+
+[Extended Data](ext_articles/06727094.ext.json)
 
 ---
 
@@ -1079,6 +1127,8 @@ President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early t
 ...
 
 [Data](articles/4933fe13.json)
+
+[Extended Data](ext_articles/4933fe13.ext.json)
 
 ---
 
@@ -2211,49 +2261,5 @@ Speaking. We believe that this journey should go forward. When we go, the SLFP m
 [Data](articles/a32d1976.json)
 
 [Extended Data](ext_articles/a32d1976.ext.json)
-
----
-
-### Dayasiri to back Sajith in Presidential Election
-
-*2024-08-03 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100967/dayasiri-to-back-sajith-in-presidential-election) · `en`
-
-Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera says that he will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
-
-Holding a press conference in Colombo today (03), Dayasiri stated that both the SLFP’s Central Committee and Executive Committee arrived at this decision to back SJB’s “Samagi Jana Sandhanaya.”
-
-Speaking further he said: “This is a historic decision for the SLFP. We were in an anti-government ideology for the past period, so we cannot turn that back now… We are continuing with the decision that the party arrived at on November 11, 2023 to not join the government.”
-
-Several members of the party including Thilanga Sumathipala and Rohana Luxman Piyadasa were also present at the occasion.
-
-◼️
-
-[Data](articles/316ee4a5.json)
-
-[Extended Data](ext_articles/316ee4a5.ext.json)
-
----
-
-### The President meets Sarvadam leaders in Jaffna
-
-*2024-08-03 14:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமதத்-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341498) · `ta`
-
-President Ranil Wickremesinghe visited Jaffna, meeting Sarvadham leaders including Sri Somasundaram and the Naga Vihara's Vikramadi Meegahajandupara. He engaged in religious activities and discussions with the Buddhist Hindu Religious Forum's Chairman, Mohan.
-
-🟩
-
-President Ranil Wickremesinghe, who has visited Jaffna, has also met with the leaders of the Sarvamdha.
-
-President of the President yesterday met with Sri Somasundaram to meet with Nallai Adheenam and visited the official residence of the Jaffna Ayan.
-
-Jaffna yesterday afternoon. Going to the Naga Vihara and engaging in religious worship. Sri Naga Vihara's Vikramadi Meegahajandupara met Sirivimala Nayaka Thera and visited the welfare.
-
-Moreover, its Chairman of the Buddhist Hindu Religious Forum. Mohan has met and discussed. Remble
-
-◼️
-
-[Data](articles/e0a07345.json)
-
-[Extended Data](ext_articles/e0a07345.ext.json)
 
 ---

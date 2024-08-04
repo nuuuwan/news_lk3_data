@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 01:20:47**
+As of **2024-08-05 01:36:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,977 (100.0%) of 38,978 articles have been extended.
+38,978 (100.0%) of 38,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ’தமிழகத்தில் ஏற்படும் மாற்றத்தால்  இலங்கையர்களுக்கு வாய்ப்பு’
+### Sri Lankans opportunity for a change in Tamil Nadu
 
 *2024-08-05 01:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-ஏற்படும்-மாற்றத்தால்-இலங்கையர்களுக்கு-வாய்ப்பு/175-341595) · `ta`
 
-யாழ்ப்பாணம் உள்ளிட்ட வட மாகாண மக்கள் நீண்டகாலமாக பொருளாதார நெருக்கடிகளை எதிர்நோக்கி வருகின்ற போதிலும், அந்த மாகாணத்தில் பாரிய பொருளாதார திறன் காணப்படுவதாக சுட்டிக்காட்டிய ஜனாதிபதி ரணில் விக்ரமசிங்க, அந்த சந்தர்ப்பங்களைப் வடக்கு மாகாணம் உட்பட முழு நாட்டின் பொருளாதார வளர்ச்சிக்காக பயன்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும் தெரிவித்தார்.
+President Ranil Wickremesinghe addresses the economic and political challenges faced by Sri Lanka, particularly the Northern Province, highlighting the need for national economic development and equal treatment of all ethnic and religious groups. He emphasizes the importance of resolving ethnic issues, promoting linguistic diversity, and ensuring gender equality. The President calls for contributions from academics, professionals, and entrepreneurs to build a new economic and political system, avoiding past mistakes like reducing taxes based on election promises.
 
-நாட்டில் ஒருபாதியாக இருக்கும் பெண்களுக்கு பாராளுமன்றத்தில் சரியான பிரதிநிதித்துவம் இல்லை. இதற்கு நாம் தீர்வு காண வேண்டும். சிங்கள மொழியையும் தமிழ் மொழியையும் நாம் ஊக்குவிக்க வேண்டும். எதிர்காலத்தில் தமிழகத்தில் ஏற்படப்போகும் பொருளாதார வளர்ச்சியால் தமிழ் பேசும் இலங்கையர்களுக்கு மற்றவர்களுக்கு கிடைக்காத வாய்ப்புகள் கிடைக்கும் என்றார்.
+🟩
 
-யாழ்ப்பாணம் வலம்புரி ஹோட்டலில் வௌ்ளிக்கிழமை (02) நடைபெற்ற யாழ்.மாவட்ட கல்வியியலாளர்கள், தொழில் வல்லுநர்கள் மற்றும் தொழில் முயற்சியாளர்களுடனான சந்திப்பிலேயே ஜனாதிபதி இதனைக் தெரிவித்தார்.
+President Ranil Wickremesinghe pointed out that the people of the Northern Province, including Jaffna, have long been facing economic crises, but the government is planning to use the opportunity to use the entire country for the economic development of the entire country, including the Northern Province.
+
+There is no proper representation in Parliament for women who are a person in the country. We have to settle for this. We must encourage Sinhala and Tamil. He said that the economic growth of Tamil Nadu in the future will provide Tamil -speaking Sri Lankans opportunities for others.
+
+The President made this statement at a meeting with the Jaffna Mawatha academics, professionals and entrepreneurs held at the Walamburi Hotel in Jaffna on Wednesday (02).
 
 ...
 
 [Data](articles/60b88031.json)
+
+[Extended Data](ext_articles/60b88031.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 01:55:00**
+As of **2024-08-05 02:05:49**
 
 ## Newspaper Stats
 
-*Scraped **38,978** Articles*
+*Scraped **38,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,497
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,864
+tamilmirrorlk | 4,865
 virakesarilk | 6,172
 adaderanasinhalalk | 6,588
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,978 (100.0%) of 38,978 articles have been extended.
+38,978 (100.0%) of 38,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### கண்டி அமைப்பாளர் துரை மதியுகராஜா
+
+*2024-08-05 01:42:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-அமைப்பாளர்-துரை-மதியுகராஜா/175-341596) · `ta`
+
+ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட  இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளர் துரை மதியுகராஜா,ஐக்கிய மக்கள் சக்தி கண்டி மாவட்ட அமைப்பாளராக நியமிக்கப்பட்டுள்ளார்.
+
+ஐக்கிய மக்கள் சக்தியின் விவசாய மாநாடு  நுவரெலியா - ஹங்குராங்கெத்தயில் ஞாயிற்றுக்கிழமை (04) நடைபெற்றது. அதன்போதே, இந்த நியமனம் வழங்கப்பட்டது.
+
+ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட துரை மதியுகராஜா,  மத்திய மாகாண சபையின் உப தவிசாளராக இரண்டு தடவைகளும், அவைத் தலைவராகவும் பதவி வகித்தவர்.  இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உப தவிசாளரான இவர் இலங்கை தொழிலாளர் காங்கிரஸின் பிரதான அமைப்பாளராக 25 வருடங்களுக்கு மேலாக , கண்டி மாவட்டத்தில்  பணியாற்றியுள்ளார்.
+
+◼️
+
+[Data](articles/5c0a9f27.json)
+
+---
 
 ### Sri Lankans opportunity for a change in Tamil Nadu
 
@@ -2281,23 +2297,5 @@ The Hamas and Hezbollah movements are seen as opposing the Gaza Palestinians in 
 [Data](articles/7819a3f8.json)
 
 [Extended Data](ext_articles/7819a3f8.ext.json)
-
----
-
-### The need for Muslims
-
-*2024-08-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190213) · `ta`
-
-Muslim Congress MPs back Ranil due to his handling of the economic crisis, enhancing his popularity. Their support hinges on his budget team's success, predicting his win in the presidential election.
-
-🟩
-
-Muslim Congress MPs have only decided to support Ranil. Ranil has resolved the economic crisis in the country. So, he has influence among the people. The previous prediction of the MPs of the Muslim parties is that Ranil's victory in the presidential election will be determined when the budget team is supported.
-
-◼️
-
-[Data](articles/97b6922d.json)
-
-[Extended Data](ext_articles/97b6922d.ext.json)
 
 ---

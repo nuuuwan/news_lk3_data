@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 18:54:57**
+As of **2024-08-04 19:05:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,942 (100.0%) of 38,943 articles have been extended.
+38,943 (100.0%) of 38,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,21 +74,27 @@ Without 4G and 3G people cannot communicate using the internet on their mobile d
 
 ---
 
-### සර්වජන බලයේ ජනාධිපති අපේක්ෂකත්වය දිලිත් ජයවීරට
+### Presidential candidate of the universal power Dilith Jayaweera
 
 *2024-08-04 17:52:46* · [`adalk`](https://www.ada.lk/breaking_news/සර්වජන-බලයේ-ජනාධිපති-අපේක්ෂකත්වය-දිලිත්-ජයවීරට/11-411188) · `si`
 
-ශ්‍රී ලංකාව රැක ගැනීමට අවශ්‍ය වූ බැවින් සර්වජන බලය සංවිධනය නිර්මාණය කළ බව එහි ජනාධිපතිවරණ අපේක්ෂඛ ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසීය.
+Dilith Jayaweera, nominated as the presidential candidate of the Universal Power, stated his exemption aims to safeguard Sri Lanka. This announcement came during his nomination at the Sugathadasa Indoor Stadium, supported by the National Freedom Front's unanimous decision. Present were key figures including Wimal Weerawansa, Udaya Gammanpila, and former Governor Anuradha Jayampath, among others.
 
-සර්වජන බලයේ අපේක්ෂකයා ලෙස අද (04දා) සුගතදාස ගෘහස්ත ක්‍රීඩාංගනයේදී ඔහුව නම් කිරීමෙන් පසු සමුළුව අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී සර්වජන බලයේ ජනාධිපති අපේක්ෂකයා ලෙස ව්‍යවසායක දිලිත් ජයවීර මහතා නම් කිරීමට සර්වජන බලයේ විධායක සභාව ඒකමතිකව තීරණය කළ බව සමුළුව අමතමින් ජාතික නිදහස් පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා පැවසීය.‍
+The presidential election entrepreneur of the presidential election, Dilith Jayaweera said that the exempt was created to protect Sri Lanka.
 
-මෙම අවස්ථාවට පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විමල් වීරවංශ, උදය ගම්මන්පිල, වීරසුමන වීරසිංහ, ගාමිණි වලේබොඩ, මහාචාර්ය චන්න ජයසුමන මෙන්ම හිටපු ආණ්ඩුකාර අනුරාධා යහම්පත් මහත්මිය, අරැස් සිද්ධාර්ත් ඇතුළු පිරිසක් එක්ව සිටියහ.
+He was speaking at the Sugathadasa Indoor Stadium today (04) after being nominated at the Sugathadasa Indoor Stadium today (04).
+
+The Leader of the National Freedom Front Wimal Weerawansa said that the executive council was unanimously decided to name the Entrepreneur Dilith Jayaweera as the presidential candidate of the universal power.
+
+Members of Parliament Wimal Weeradesh, Udaya Gammanpila, Udaya Gammanpila, Udaya Gammanpila, Udaya Gammanpila, Weeramana Weerasinghe, Gamini Walaboda and former Governor Anuradha Jayampath, and Aros Chanmpathu were also present.
 
 ◼️
 
 [Data](articles/8448265d.json)
+
+[Extended Data](ext_articles/8448265d.ext.json)
 
 ---
 

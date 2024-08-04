@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 07:20:44**
+As of **2024-08-04 07:52:10**
 
 ## Newspaper Stats
 
-*Scraped **38,838** Articles*
+*Scraped **38,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,238
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,559
-adaderanalk | 4,500
+adaderanalk | 4,501
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,827
+tamilmirrorlk | 4,828
 virakesarilk | 6,145
-adaderanasinhalalk | 6,557
+adaderanasinhalalk | 6,558
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,830 (100.0%) of 38,838 articles have been extended.
+38,830 (100.0%) of 38,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### Sri Lanka receive massive blow, Wanindu ruled out of India ODI series
+
+*2024-08-04 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100976/sri-lanka-receive-massive-blow-wanindu-ruled-out-of-india-odi-series) · `en`
+
+Sri Lanka’s star spinner Wanindu Hasaranga has been ruled out of the remaining two ODIs against India after sustaining an injury to his left hamstring.
+
+Sri Lanka Cricket (SLC) released an official statement to confirm Hasaranga being ruled out of the remainder of the series and named spinner Jeffrey Vandersay as his replacement.
+
+“Wanindu Hasaranga will miss the remainder of the ODI series, as the player has suffered an injury to his left hamstring. He experienced pain in his left hamstring while delivering the last ball of his 10th over during the first ODI. An MRI performed on the player, following this, confirmed the injury. Jeffrey Vandersay comes into the squad in place of Hasaranga,” SLC said in a statement.
+
+Hasaranga was one of the standout performers for the hosts in the first ODI. He picked three scalps, including stalwart batter Virat Kohl and KL Rahul’s wicket, and gave away 58 runs in his 10-over spell.
+
+...
+
+[Data](articles/52753c63.json)
+
+---
+
+### පොලිස් නිලධාරීන් දෙදෙනෙක් මරුට
+
+*2024-08-04 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199538) · `si`
+
+මොනරාගල, කරාඬුගල පොලිසියේ නිලධාරීන් දෙදෙනකු වෙඩිතැබීම් දෙකකින් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ ඉන් එක් පොලිස් නිලධාරියෙකුට කිසියම් අයෙකු අද (04) අලුයම ඔහුගේ නිවසට පැමිණ සිදුකළ වෙඩි තැබීමකින් මියගොස් ඇති බවය.
+
+ඉඟිනියාගල පොලිස් වසමේ අම්පාර, නාමල් ඔය ප්‍රදේශයේ සිය නිවසේදී මෙලෙස ඝාතනය කර ඇත්තේ 33 හැවිරිදි පොලිස් නිලධාරියෙකි.
+
+මේ අතර කරාඬුගල, පොලිසියේ තවත් නිලධාරියෙක් අද අලුයම පොලිසිය තුළදී වෙඩි තබාගෙන සියදිවි හානි කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/a4632915.json)
+
+---
 
 ### අදත් ප්‍රදේශ කිහිපයකට වැසි
 
@@ -38,7 +74,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 අද (04) දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+එම දෙපාර්තමේන්තුව සඳහන් සඳහන් කළේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
 
 දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
 
@@ -189,6 +225,28 @@ I travelled to Karachi from Colombo on October 1. The connecting flight to Londo
 [Data](articles/8b53a816.json)
 
 [Extended Data](ext_articles/8b53a816.ext.json)
+
+---
+
+### யாழில் சர்வமத தலைவர்களை சந்தித்தார் ஜனாதிபதி
+
+*2024-08-04 01:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமத-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341523) · `ta`
+
+யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க நல்லை ஆதீனம் ஸ்ரீ சோமசுந்தரம் அவர்களை நேற்று முன்தினம் சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+
+அதனையடுத்து, யாழ். ஆயரின் உத்தியோகபூர்வ இல்லத்திற்கு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ். ஆயர் அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் அவர்களைச் சந்தித்துக் கலந்துரையாடினார்.
+
+அதனைடுத்து நேற்று முன்தினம் பிற்பகல் யாழ். நாக விகாரைக்குச் சென்ற ஜனாதிபதி சமய வழிபாடுகளில் ஈடுபட்டு ஆசிகளைப் பெற்றுக்கொண்டார்.
+
+புனித தலத்தை சென்றடைந்த ஜனாதிபதி முதலில் புத்த ஸ்தூபிக்குச் சென்று வழிபாடுகளில் ஈடுபட்டதோடு, யாழ்ப்பாணம் ஸ்ரீ நாக விகாரையின் விகாராதிபதி மீகஹஜந்துரே சிறிவிமல நாயக்க தேரரைச் சந்தித்து நலன் விசாரித்தார்.
+
+'பௌத்த இந்து சமய மன்றம்' சார்பில் அதன் தலைவர் கலாநிதி எம். மோகனையும் ஜனாதிபதி சந்தித்துக் கலந்துரையாடினார்.
+
+இந்த நிகழ்வில், வடமாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ், தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க ஆகியோரும் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/61277fa2.json)
 
 ---
 
@@ -2165,77 +2223,5 @@ Strong winds of about 50 kmph can be expected at times over Western slopes of th
 [Data](articles/c1e184f8.json)
 
 [Extended Data](ext_articles/c1e184f8.ext.json)
-
----
-
-### Notification relating to today's climate
-
-*2024-08-03 08:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-தொடர்பான-அறிவிப்பு/175-341493) · `ta`
-
-Today's weather forecast indicates rainfall across various regions including Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, Matara, and Matale districts. The Eastern and Uva provinces may experience rainfall or thunderstorms in the evening. Strong winds up to 50 km/h are expected in the western slopes of the central hill country, while other areas might see winds of 30-40 km/h.
-
-🟩
-
-The Department of Atmosphere has forecast rainfall in the province of Sabaragamuwa, Kandy and Nuwara Eliya districts.
-
-In addition, rainfall in the Western and North Western Provinces and Galle, Matara and Matale districts may be rained several times.
-
-In the Eastern and Uva provinces, rainfall or thunderstorms may occur in the evening or night.
-
-In the western slopes of the central hill country, strong winds are likely to blow up to 50 km / h.
-
-In other parts of the country, there is a possibility that somewhat strong winds can be blowing at speeds of up to 30-40 km per hour.. Remble
-
-◼️
-
-[Data](articles/76252ec6.json)
-
-[Extended Data](ext_articles/76252ec6.ext.json)
-
----
-
-### President says the borrowing is a cause of the economy
-
-*2024-08-03 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199506) · `si`
-
-President Ranil Wickremesinghe urges scholars and professionals to support the new economic and political system, highlighting that excessive borrowing led to the collapse of the country's economy and politics. He made this call during a meeting in Jaffna, emphasizing the need for local expertise and professionalism to revive the nation.
-
-🟩
-
-President Ranil Wickremesinghe says that it is the responsibility of scholars and professionals to join the country through the new economic and political system.
-
-The President says that the economy and politics of the country have collapsed on borrowing to fulfill their promises on election platforms.
-
-The President was speaking at a meeting with scholars, professionals and entrepreneurs in Jaffna yesterday.
-
-The President added that it is the responsibility of the Sri Lankan experts as well as professionals in the country and the professionals in the country.
-
-◼️
-
-[Data](articles/8667cbc1.json)
-
-[Extended Data](ext_articles/8667cbc1.ext.json)
-
----
-
-### Animal Manufacturers Association protests against importing eggs
-
-*2024-08-03 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199505) · `si`
-
-The Animal Manufacturers Association protests Sri Lanka's decision to import eggs, fearing it'll harm the local industry. The SLFP counters this, stating they plan to regulate imports to support promotions. Despite concerns, there's hope for egg and chicken supply during the upcoming festive season.
-
-🟩
-
-The Government of Sri Lanka (SLFP) says that the government has decided to import the eggs to prepare a system to regulate a system of promotion.
-
-President of the Association Ajith Gunasekera says that the local industry will be destroyed by the importation of eggs without forming such a methodology.
-
-However, he further stated that there is a possibility of providing eggs and chicken without short festive season.
-
-◼️
-
-[Data](articles/2f8baaef.json)
-
-[Extended Data](ext_articles/2f8baaef.ext.json)
 
 ---

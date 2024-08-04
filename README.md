@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 00:52:18**
+As of **2024-08-05 01:05:53**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,974 (100.0%) of 38,977 articles have been extended.
+38,976 (100.0%) of 38,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ஒலிம்பிக் வரலாற்றில் 400 மீற்றர் அரை இறுதிக்கு முன்னேறிய முதலாவது இலங்கையர் அருண தர்ஷன
+### Aruna Darshana is the first Sri Lankan to advance to the 400m semi -finals in Olympic history
 
 *2024-08-05 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190280) · `ta`
 
-பிரான்ஸ் விளையாட்டரங்கில் ஞாயிற்றுக்கிமை (04) நடைபெற்ற ஒலிம்பிக் 2024 விளையாட்டு விழாவில் ஓர் அம்சமான ஆண்களுக்கான 400 மீற்றர் அரை இறுதிப் போட்டியில் பங்குபற்ற அருண தர்ஷன தகுதிபெற்றார்.
+Aruna Darshana made history as the first Sri Lankan to qualify for the 400m semi-finals in the Olympics, setting a record at the 2024 Sports Festival in France. Competing in the 5th qualifying round, he clocked 44.99 seconds, finishing third behind Granny James and Christopher Morales Williams. Despite ranking 14th among 18 qualifiers, three runners posted faster times for the second chance.
 
-இதன் மூலம் ஒலிம்பிக் வரலாற்றில் ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் அரை இறுதிச் சுற்றுக்கு முன்னேறிய முதலாவது வீரர் என்ற சாதனையை அருண தர்ஷன படைத்தார்.
+🟩
 
-400 மீற்றர் தகுதிகாண் சுற்றின் 5ஆவது போட்டியில் பங்கேற்ற அருண தர்ஷன அப் போட்டியை 44.99 செக்கன்களில் ஓடி முடித்து 3ஆம் இடத்தைப் பெற்று அரை இறுதியில் பங்குபற்ற தகுதிபெற்றார்.
+Aruna Darshana qualified for the 400m semi -finals for men at the Olympic 2024 Sports Festival held at the France Stadium (04).
 
-அப் போட்டியில் க்ரெனெடா வீரர் கிரானி ஜேம்ஸ் (44.78 செக்.) முதலாம் இடத்தையும் கனடா வீரர் கிறிஸ்டோபர் மொரேல்ஸ் வில்லியம்ஸ் (44.96 செக்.) இரண்டாம் இடத்தையும் பெற்றனர்.
+Aruna Darshana set the record of being the first player to advance to the semi -finals in the men's 400m race in Olympic history.
 
-அமெரிக்கர்களான மைக்கல் நோர்மன் (44.10 செக்.), குவின்சி ஹோல் (44.28 செக்.) ஆகிய இருவரும் தத்தமது தகுதிகாண் போட்டிகளில் முதலாம் இடங்களைப் பெற்றனர்.
+Aruna Darshana, who competed in the 5th match of the 400m qualifying round, finished the match in 44.99 seconds and finished 3rd.
 
-தகுதிகாண் சுற்றில் 6 போட்டிகள் நடத்தப்பட்டதுடன் மொத்தம் 44 வீரர்கள் பங்குபற்றினர்.  அரை இறுதிக்கு தகுதிபெற்ற 18 வீரர்களில் இணை 14ஆவது இடத்தை  அருண தர்ஷன  பெற்றார்.
+Greeneda player Granny James (44.78 Sec) came first and Canadian player Christopher Morales Williams (44.96 Sec) second.
 
-...
+Americans, Michael Norman (44.10 Seg) and Quinci Hole (44.28 Sec) won first place in their qualifying competitions.
+
+A total of 44 players participated in the qualifying round.Aruna Darshana was ranked 14th of the 18 players qualified for the semi -finals.
+
+However, 3 players who will participate in the second chance have recorded better time receiving than Aruna Darshana.
+
+◼️
 
 [Data](articles/6ca44f65.json)
+
+[Extended Data](ext_articles/6ca44f65.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ Despite the challenges we face, the progress we’ve made is a significant achie
 ...
 
 [Data](articles/f054b417.json)
+
+[Extended Data](ext_articles/f054b417.ext.json)
 
 ---
 

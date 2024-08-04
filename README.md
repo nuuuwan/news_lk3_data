@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 20:07:19**
+As of **2024-08-04 20:20:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,952 (100.0%) of 38,953 articles have been extended.
+38,953 (100.0%) of 38,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,21 +114,27 @@ For 16 years, a group has fought for justice after their son was abducted by sta
 
 ---
 
-### නුවර ඇසළ පෙරහර මංගල්‍ය ඇරඹෙයි
+### Kandy Esala Perahera begins
 
 *2024-08-04 18:38:47* · [`adalk`](https://www.ada.lk/religion/නුවර-ඇසළ-පෙරහර-මංගල්‍ය-ඇරඹෙයි/4-411189) · `si`
 
-කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ ආරම්භය සනිටුහන් කරමින් අලුත් නුවර ඓතිහාසික දැඩිමුණ්ඩ දේවාල පරිශ්‍රයෙන් රැගෙන ආ කප සිව් මහා දේවාලයන්ට බෙදා දීම ඊයේ (04) සවස 3.58 ට යෙදුණු සුභ මුහුර්තියෙන් චාරිත්‍රානුකූලව සිදුකෙරුණි.
+The Kandy Esala Perahera festival began with the resolution of grievances between old and new temples. The ceremony involved rituals led by elephants, including the Sri Dasasadagala and Sri Dasasara Sinharajahha, followed by the distribution of cotton to deities Natha, Vishnu, Kataragama, and Pattini. The Devalaya Perahera procession will commence after this.
 
-ඓතිහාසික දැඩිමුණ්ඩ දේවාල පරිශ්‍රයේ බිම්කඩක තිබූ පනස වෘක්ෂයක් චාරිත්‍රානුකූලව කැපීමෙන් අනතුරුව එම වෘක්ෂය ශ්‍රී දළදා මාලිගාවේ ඇත් පංතියේ සිංහරාජා හස්තියා විසින් සෙංකඩගල පුරවරයට වැඩම කරවනු ලැබීය.
+🟩
 
-ඉන් අනතුරුව නාථ, විෂ්ණු, කතරගම සහ පත්තිනි යන දේවාලයන්හි කපු මහත්වරුන් වෙත එම පනස වෘක්ෂයේ කොටස් බෙදා දීම සිදුකෙරුණි.
+The grievances of the four general temples were conducted by the presence of the new temples from the Festival of the Mount Kandy Perahera yesterday (04) at 3.58 pm yesterday.
 
-එසේ ලැබුණ කප කොටස් සිව් මහා දේවාලයන්හි සිටුවීමෙන් අනතුරුව දේවාල අභ්‍යන්තර පෙරහර ආරම්භ වීමට නියමිතය .
+The tree was operated by the Sri Dasasadagala elephant by the Sri Dasasara Sinharajahha elephant after the ritual was incorporated by the Indian Tree.
+
+Thereafter, the cotton was distributed to the cotton greets of Natha, Vishnu, Kataragama and Pattini.
+
+The Devalaya Perahera will begin after planting in four parts of four parts.
 
 ◼️
 
 [Data](articles/09b500a6.json)
+
+[Extended Data](ext_articles/09b500a6.ext.json)
 
 ---
 

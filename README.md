@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 22:36:27**
+As of **2024-08-04 22:53:44**
 
 ## Newspaper Stats
 
@@ -26,19 +26,25 @@ adaderanasinhalalk | 6,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,960 (100.0%) of 38,964 articles have been extended.
+38,964 (100.0%) of 38,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### இந்தியாவை வென்ற இலங்கை
+### Sri Lanka won India
 
 *2024-08-04 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வென்ற-இலங்கை/44-341594) · `ta`
+
+In a cricket match, Sri Lanka defeated India, marking a significant victory for the team.
+
+🟩
 
 ◼️
 
 [Data](articles/cc7f5100.json)
+
+[Extended Data](ext_articles/cc7f5100.ext.json)
 
 ---
 
@@ -58,27 +64,45 @@ Rohit Sharma scored another quick fifty to give India a stunning start while cha
 
 [Data](articles/418e9eea.json)
 
+[Extended Data](ext_articles/418e9eea.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 32ක සුපිරි ජයක්
+### Sri Lanka beat Sri Lanka 32 runs
 
 *2024-08-04 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199565) · `si`
 
-ජෙෆ්රි වැන්ඩර්සේගේ අතිවිශිෂ්ට පන්දු යැවීම හේතුවෙන් සංචාරක ඉන්දීය කණ්ඩායමට එරෙහි දෙවැනි එක්දින තරගයෙන් ලකුණු 32ක සුපිරි ජයක් හිමිකර ගැනීමට සත්කාරක ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+In a thrilling cricket match, Sri Lanka convincingly won against India by 32 runs in the second ODI. The standout performance came from Sri Lanka's bowlers, especially Jeffrey Vandersay with 6 wickets for 33 runs, and Muttiah Muralitharan with 7/30. Despite India's strong start, losing their first wicket early, they couldn't maintain momentum with top scorers Virat Kohli (64), Nissar Patel (44), and Shubman Gill (35). Sri Lanka's batting also contributed significantly, led by young talent Kusal Mendis with 39 runs off 35 balls, alongside Kamindu Mendis and Asitha Fernando scoring 40 each. This victory secured Sri Lanka's lead in the three-match series.
 
-කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ  අද (04) රාත්‍රියේ අවසන් වූ මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම ලබාදුන් ලකුණු 241ක ඉලක්කයට පිළිතුරු ලෙස ඉන්දීය පිතිකරුවන්ට පන්දුවාර 42.2කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 208ක් පමණි.
+🟩
 
-ඉන්දියාව මෙම පරාජය ලැබුවේ ඔවුන් පළමු කඩුල්ලට පන්දුවාර 13.3කදී ලකුණු 97ක ප්‍රහාරාත්මක ආරම්භයක් ලබාගෙන සිටියදී වීමත් විශේෂත්වයකි.
+The hospital was able to win the second ODIs against the tourist Indian team due to the exceptional bowling of Jeffrey Veshanter.
 
-ඉන්දීය ඉනිම ආරම්භ කළ නායක රෝහිත් ශර්මා ප්‍රහාරාත්මක ලකුණු 64ක් රැස්කිරීමට සමත් විය. පන්දු 44කින් ගොඩනැගුණු ඔහුගේ ඉනිමට හයේ පහර 04ක් හා හතරේ පහර 05ක් ඇතුළත් විය.
+Colombo. In response to a target of 241 runs in the Premadasa Stadium, the Sri Lankan batsmen were able to assemble 241 runs in 42.2 overs.
 
-ඊට අමතරව අක්සාර් පටෙල් ලකුණු 44ක්ද, ශුබ්මන් ගිල් ලකුණු 35ක් රැස්කළද එය ඉන්දීය ජයට ප්‍රමාණවත් නොවුණි.
+India was defeated when they were the first wicket in 13.3 overs.
 
-ඉන්දීය ඉනිම මෙල්ල කිරීමේ සම්පූර්ණ බර කරට ගත් ජෙෆ්රි වැන්ඩර්සේ පළමු කඩුලු 06ම දවාගනිමින් තරගයේ ජය ශ්‍රී ලංකාව දෙසට රැගෙන ආවේය.
+The leader of the Indian innings scored 64 runs in the attack.His innings included four sixes and five fours.
+
+In addition, Nissar Patgal scored 44 runs and Gill scored 35 runs.
+
+Jeffrey Vander, who had the full weight of the Indian innings, was taken to Sri Lanka.
+
+The Superior Bowling, who was sent by 6 wickets for 33 runs.
+
+Muttiah Muralitharan (7/30) is the best bowler against India.
+
+In addition to Vandarer, the leader Charith was often in a talented bowler with three wickets in Sri Lanka.
+
+Batting first Sri Lanka scored 240 runs for the loss of 9 wickets in the 50 overs.
+
+Young women scored 39 runs in 35 balls with 35 off 35 balls.
 
 ...
 
 [Data](articles/1bc092d7.json)
+
+[Extended Data](ext_articles/1bc092d7.ext.json)
 
 ---
 
@@ -154,15 +178,21 @@ In light of the clashes and fatalities, the government announced a curfew from 6
 
 ---
 
-### කන්ටේනර් රෝදයේ හුළං ඇරිය සැරයන්වරයාගේ වැඩ තහනම්
+### Container wheel is banned from the sergeant's work
 
 *2024-08-04 20:45:51* · [`adalk`](https://www.ada.lk/breaking_news/කන්ටේනර්-රෝදයේ-හුළං-ඇරිය-සැරයන්වරයාගේ-වැඩ-තහනම්/11-411191) · `si`
 
-වත්තල පොලිසියේ රථ වාහන අංශයේ  පොලිස් සැරයන්වරයෙකු වත්තල මාබෝල ප්‍රදේශයේ බහලුම් අංගනයකට ආසන්නව මාර්ගයේ නවතා තිබූ ලොරි රථයක ඉදිරිපස රෝදයේ හුළං ඇර සිදුකළ අනීතික ක්‍රියාව හේතුවෙන් එම සැරයන් වරයා වැඩ තහනමට ලක් කළ බව නීති දිශාව භාර , වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශ කර නියෝජ්‍ය පොලිස්පති පොලිස්පති රුවන් ගුණසේකර මහතා පැවසීය. එම සැරයන් වරයා එලෙස හුළං අරින ආකාරය දැක්වෙන වීඩියෝ දර්ශන පෙළක් පසුගිය දිනවල සමාජ මාධ්‍ය ඔස්සේ සංසරණය විණි.
+In Wattala, police sergeants have been prohibited from using container wheels in their vehicles due to safety concerns, especially after an incident involving a front wheel accident in the Mabola area in June. This decision was made based on video evidence showing potential risks associated with the use of such wheels.
+
+🟩
+
+Police sergeant in Wattala police vehicles were banned by the acting proceedings of the front wheel, according to the actual action of the front wheel of the June of the Mabola area.said. The sergeant circulated a videos showing the window of the winds.
 
 ◼️
 
 [Data](articles/c65da273.json)
+
+[Extended Data](ext_articles/c65da273.ext.json)
 
 ---
 

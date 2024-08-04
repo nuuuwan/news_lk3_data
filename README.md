@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 08:55:00**
+As of **2024-08-04 09:06:37**
 
 ## Newspaper Stats
 
-*Scraped **38,847** Articles*
+*Scraped **38,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,560
-adaderanalk | 4,502
+adalk | 3,561
+adaderanalk | 4,503
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,830
 virakesarilk | 6,145
-adaderanasinhalalk | 6,559
+adaderanasinhalalk | 6,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,842 (100.0%) of 38,847 articles have been extended.
+38,847 (100.0%) of 38,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### කුවෙට්හිදී අත්අඩංගුවට ගත් කලාකරුවන් ඇතුළු 24 දෙනා නිදහස් කෙරේ
+
+*2024-08-04 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199539) · `si`
+
+කුවෙට්හි දී පසුගිය 2 වනදා අත්අඩංගුවට ගත් ගායක ගායිකාවන් ඇතුළු ශ්‍රී ලාංකිකයින් පිරිස නිදහස් කර තිබේ.
+
+එරට පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයේ මැදිහත්වීම මත එම පිරිස ඊයේ (03) රාත්‍රී කාලයේ නිදහස් කර ගැනීමට හැකි වූ බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+ඉන්ද්‍රචාපා ලියනගේ, සමනලී ෆොන්සේකා, ජොලි සීයා සහ උපේකා නිර්මාණි ඇතුළු 26 දෙනෙකු පසුගිය 2 වනදා කුවෙට් පොලීසිය මගින් අත්අඩංගුව ගෙන තිබුණි.
+
+'එතෙර අපි' නැමැති සංවිධානය මගින් පැවැත්වීමට නියමිතව තිබු ප්‍රසංගයක් සඳහා සහභාගී වූ අවස්ථාවේ එම පිරිස අත්අඩංගුවට ගෙන තිබුණි.
+
+එලෙස ඔවුන් අත්අඩංගුවට ගෙන ඇත්තේ එම ප්‍රසංගය සඳහා නිසි අවසරයක් ලබා නොගැනීම හේතුවෙනි.
+
+ඒ අනුව ගායක ගායිකාවන්ට අමතරව එම ප්‍රසංගයට පැමිණි සංගීත කණ්ඩායම සහ එය සංවිධානය කළ පිරිස මෙන්ම සංගීත කණ්ඩායමේ වාදන භාණ්ඩ ද පොලිස් භාරයට ගෙන ඇති බව වාර්තා වෙයි.
+
+කෙසේවෙතත් කුවෙට්හි පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයේ නිලධාරීන්ගේ මැදිහත් වීම මත ඊයේ රාත්‍රී මෙම පිරිසෙන් 24 දෙනෙකු නිදහස් කරගෙන ඇති අතර සංවිධායක මණ්ඩලයේ දෙදෙනෙකු තවදුරටත් පොලිස් අත්අඩංගුවේ සිටින බව විදේශ කටයුතු අමාත්‍යංශය පැවසීය.
+
+◼️
+
+[Data](articles/39c70d26.json)
+
+---
+
+### උතුරු නැගෙනහිර දේශපාලන පක්ෂ කිහිපයක් ජනපතිගේ සහායට
+
+*2024-08-04 08:34:32* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-නැගෙනහිර-දේශපාලන-පක්ෂ-කිහිපයක්-ජනපතිගේ-සහායට/11-411178) · `si`
+
+උතුරු සහ නැගෙනහිර පළාත් මෙන්ම සමස්ත රටම එක ලෙස සංවර්ධනය කරා ගෙන යාමේ පුළුල් දැක්මක් හා වැඩපිළිවෙළක් ඇති එකම නායකයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බැවින් ඉදිරි ජනාධිපතිවරණයේ දී එතුමාගේ ජයග්‍රහණය තහවුරු කිරීමට කැපවන බව ඊපිඩීපි පක්ෂයේ නායක අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා පැවසීය.
+
+යාපනයේ සංචාරයක නිරත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යාපනය පිහිටි ඊපීඩීපි පක්ෂයේ ප්‍රධාන කාර්යලයේ දී එම පක්ෂයේ ක්‍රියාකාරින් සමඟ හමුවකට එක් වූ අතර එහිදී ඩග්ලස් දේවානන්දා මහතා මේ බව ප්‍රකාශ කළේය.
+
+මේ අතර දෙමළ ප්‍රගතිශීලි සංගමයේ නායක රාජ්‍ය අමාත්‍ය එස්. වියාලේන්ද්‍රන් මහතා විසින් මඩකලපුවේ දී සංවිධානය කර තිබු හමුවකට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක් විය.
+
+රට අනතුරට පත්වු අවස්ථාවේ රටත්, ජනතාවත් බේරා ගැනීමට නිර්භීතව ඉදිරිපත් වූ ජනාධිපතිවරයාට රට ඉදිරියේ ඇති අනෙකුත් අභියෝග ජයග්‍රහණය කිරීමේ ශක්තිය ද ඇති බව පෙන්වා දුන් එස්. වියාලේන්ද්‍රන් මහතා මෙවර ජනාධිපතිවරණයේ දී එතුමාට පූර්ණ සහාය පළ කරන බව කියා සිටියේය.
+
+...
+
+[Data](articles/c2a1f6e8.json)
+
+---
+
+### Murder-suicide suspected as 4 including 2 cops killed in separate shootings
+
+*2024-08-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100977/murder-suicide-suspected-as-4-including-2-cops-killed-in-separate-shootings) · `en`
+
+Four individuals including two police officers attached to the same police station in the Moneragala area as well as a mother and her daughter have reportedly been killed in separate shooting incidents this morning (04), which are believed to be interconnected.
+
+The shooting incidents have reportedly taken place in the Moneragala, Namal Oya and Inginiyagala areas.
+
+The deceased police officers were attached to the Karandugala Police Station in Moneragala, the Police Media Division said.
+
+Initially it was reported that a 33-year-old policeman has been shot dead at his residence in the Namal Oya area of Ampara early this morning (Aug 04).
+
+Police said that an unidentified assailant who arrived at the deceased police constable’s house at around 02.45 a.m. today had shot at him and fled the scene.
+
+Furthermore, police revealed that a 54-year-old woman and her 17-year-old daughter had also been shot dead at the Nelliadda area in Inginiyagala.
+
+...
+
+[Data](articles/1fdf9b43.json)
+
+---
 
 ### Four including 2 cops from same police station killed in separate shootings
 
@@ -51,6 +115,8 @@ In a separate incident, another policeman attached to the same police station ha
 ...
 
 [Data](articles/bf859837.json)
+
+[Extended Data](ext_articles/bf859837.ext.json)
 
 ---
 
@@ -98,23 +164,29 @@ Meanwhile, another officer of the incident has committed suicide by shooting ove
 
 ---
 
-### බස් දෙකක් ගැටී 22කට තුවාල
+### 22 injured in two buses
 
 *2024-08-04 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199537) · `si`
 
-පුද්ගලික බස් රථ දෙකක් එකිනෙක ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් 22ක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+An accident near MDK Weke on Maha Oya and Aralaganwila roads resulted in 22 injuries, including 2 men, 12 women, and 6 children. The driver of one bus has been arrested, and investigations continue.
 
-ඊයේ (03) එම අනතුර සිදුව තිබුණේ මහඔය - අරලගංවිල මාර්ගයේ එම්.ඩී.කේ වැවට හැරෙන හන්දිය ආසන්නයේදීය.
+🟩
 
-මහ ඔය දෙස සිට අරලගංවිල දෙසට ධාවනය වූ පුද්ගලික බස් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි තවත් පුද්ගලික බස් රථයක ගැටී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+Two private buses were injured and hospitalized following an accident.
 
-අනතුරින් බස් රථ දෙකෙහි ගමන්ගත් පිරිමි පුද්ගලයින් 02ක්, කාන්තාවන් 12ක්, පිරිමි ළමුන් 06ක් සහ ගැහැණු ළමුන් 02ක් තුවාල ලබා ප්‍රතිකාර සඳහා මහඔය රෝහලට ඇතුළත් කර ඇත.
+The accident had occurred near the MDK Weke on Maha Oya and Aralaganwila road yesterday.
 
-අනතුර සම්බන්ධයෙන් එක් බස් රථයක රියදුරෙකු අත්අඩංගුවට ගෙන ඇති අතර මහඔය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Police say the accident had occurred in a private bus that was traveling to Aralaganwila to Aralaganwila.
+
+Two men and 12 women, 12 women, six females, six boys, and two girls have been admitted to the Mahaoya Hospital.
+
+The driver of one bus has been arrested in connection with the accident and Mahaoya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0e519d97.json)
+
+[Extended Data](ext_articles/0e519d97.ext.json)
 
 ---
 
@@ -284,39 +356,51 @@ I travelled to Karachi from Colombo on October 1. The connecting flight to Londo
 
 ---
 
-### 4 இந்திய மீனவர்கள் கைது
+### 4 Indian fishermen arrested
 
 *2024-08-04 02:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-இந்திய-மீனவர்கள்-கைது/175-341525) · `ta`
 
-யாழ். நெடுந்தீவு கடற்பரப்பில் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 4 இந்திய மீனவர்களை நேற்று மாலை இலங்கைக் கடற்படையினர் கைது செய்துள்ளனர்.
+Four Indian fishermen from Tamil Nadu were arrested by the Sri Lankan navy for fishing in the Long Island seas. They were taken to the Kankesanthurai Naval Camp.
 
-தமிழ்நாடு, ஜெகதாப்பட்டினத்தைச் சேர்ந்த 4 மீனவர்களை அவர்கள் பயணித்த படகுடன் கைது செய்த கடற்படையினர், அவர்கள் நால்வரையும் காங்கேசன்துறை கடற்படை முகாமுக்குக் கொண்டு வந்து விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட நான்கு தமிழக மீனவர்களும் இன்று யாழ். மாவட்ட கடற்றொழில் நீரியல் வளத் திணைக்கள அதிகாரிகள் ஊடாக சட்ட நடவடிக்கைக்கு உட்படுத்தப்படவுள்ளனர். (a)
+Yall. Sri Lankan navy arrested four Indian fishermen last evening for fishing across the Long Island seas.
+
+The Navy arrested four fishermen from Tamil Nadu and Jagadapattinam with a boat that they passengers and brought four of them to the Kankesanthurai Naval Camp.
+
+Four Tamil Nadu fishermen arrested today. Officials of the District Fisheries and Aquatic Resources Department. (A)
 
 ◼️
 
 [Data](articles/b96cd03e.json)
 
+[Extended Data](ext_articles/b96cd03e.ext.json)
+
 ---
 
-### சோமாலியாவில் தீவிரவாத தாக்குதல்: 32 பேர் பலி
+### Terrorist attack in Somalia: 32 killed
 
 *2024-08-04 01:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோமாலியாவில்-தீவிரவாத-தாக்குதல்-32-பேர்-பலி/175-341524) · `ta`
 
-சோமாலியா தலைநகரில் அல்-கொய்தாவின் கிளை அமைப்பான அல் ஷபாப் பயங்கரவாத தாக்குதல் ஒன்றை மேற்கொண்டுள்ளது.
+In Somalia's capital, Mogadishu, Al-Shabab militants attacked a restaurant near Lido Beach, killing 32 and injuring over 60. The attackers took hostages before detonating explosives.
 
-அந்தவகையில்,  சோமாலியா தலைநகர் மொகடிசுவில்   உள்ள லிடோ கடற்கரை அருகே அமைந்துள்ள பிரபல உணவகம் ஒன்றிலேயே அந்த தாக்குதல் மேற்கொள்ளப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-அந்த உணவகத்திற்குள் நுழைந்த அல் ஷபாப் அமைப்பினர் அங்கு இருந்தவர்கள் மீது சரமாரி துப்பாக்கிச் சூடு நடத்தியுள்ளனர் என தெரியவந்துள்ளது.
+Al-Qaeda's branch organization Al-Shabab has launched a terrorist attack in the Somalia capital.
 
-இதன்போது, சிலரை பணயக்கைதிகளாக சிறைபிடித்ததுடன், தங்கள் உடலில் மறைத்து கட்டிக்கொண்டு வந்த வெடிகுண்டுகளை வெடிக்கச் செய்து தற்கொலைப்படை தாக்குதலும் நடத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the attack has been carried out at a popular restaurant located near Lido Beach in Mogadisu, the capital of Somalia.
 
-இந்த தாக்குதலில் 32 பேர் பரிதாபமாக உயிரிழந்துள்ளனர். 60 இற்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர் என கூறப்படுகின்றது. (a)
+Al -Shabab, who entered the restaurant, was reportedly firing on those who were there.
+
+It is reported that some people have been captured as hostages and have exploded the bombs that were hiding their bombshell.
+
+32 people were tragically killed in the attack. More than 60 people are reportedly injured. (A)
 
 ◼️
 
 [Data](articles/dfd10e6a.json)
+
+[Extended Data](ext_articles/dfd10e6a.ext.json)
 
 ---
 
@@ -1002,21 +1086,31 @@ Fake news, fabricated news, videos and photos are being spread on social media. 
 
 ---
 
-### මැද පෙරදිග ලාංකිකයන් ගෙන්විමට මුදල් වෙන් කරයි
+### Middle East Sri Lankans will be imported
 
 *2024-08-03 17:49:11* · [`adalk`](https://www.ada.lk/breaking_news/මැද-පෙරදිග-ලාංකිකයන්-ගෙන්විමට-මුදල්-වෙන්-කරයි/11-411176) · `si`
 
-මැදපෙරදිග ගැටුම් වර්ධනය වුනොත් සියලු ශ්‍රී ලාංකිකයින් ගෙන්වීමට විශේෂ වැඩපිළිවෙලක් සූදානම් කර තිබෙන බවත්, ඒ සඳහා ඩොලර් මිලියන 05 කට වැඩි මුදලක් මේ වනවිට වෙන් කර අවසන් බවත් කම්කරු හා විදේශ රැකියා අමත්‍ය මනුෂ නානායක්කාර මහතා පවසයි.
+In response to potential Middle East conflicts, a special program aims to evacuate over 30,000 Sri Lankans from countries like Israel, Lebanon, and Egypt, employing around 8,000 locally. The government has allocated $5 million and plans to ensure women's safety during this process. A dedicated phone line may be established for inquiries. This initiative highlights the government's readiness to protect its citizens abroad amidst geopolitical tensions.
 
-ශ්‍රී ලාංකිකයින් මෙරටට ගෙන්වා ගන්න තුරු ආරක්ෂිත ස්ථාන වල තබමින් ඔවුනට අවශ්‍ය සියලු පහසුම් ලබා දීමට සැලසුම් සුදානම් කර තිබෙන බවත්, මැදපෙරදිග කලාපයේ සේවයේ නියුතු ශ්‍රී ලාංකිකයින්ගේ ආරක්ෂාව පිළිබඳව රජයක් ලෙස නිරන්තරයෙන් සැළකිලිමත් වන බව අමාත්‍යවරයා ප්‍රකාශ කරයි.
+🟩
 
-මේ වන විට ඊශ්‍රායලයේ පමණක් ශ්‍රී ලාංකිකයින් 12,000 කට වැඩි පිරිසක්,  ජෝර්දානයේ 15,000 කට වඩා වැඩි පිරිසක්, ලෙබනන් රාජ්‍යයේ 7,500 ක පමණ පිරිසක් හා ඊජිප්තුවේ 500 ක පමණ පිරිසක් රැකියාවල නිරත වී සිටි.
+A special program has been prepared to import all Sri Lankans if the conflict grew in the Middle East, he has already allocated more than $ 5 million.
 
-මුහුදෙන්, ගොඩබිමෙන් හෝ ඕනෑම ආකාරයකින් හැකි ඉක්මනින් ඔවුන් ගෙන්වා ගැනීමට සියලු කටයුතු සූදානම් කරන ලෙස ජනාධිපතිවරයා උපදෙස් දී තිබේ. ඒ සඳහා ජනාධිපතිවරයා වෙනම කමිටුවක් ද පත් කර තිබේ.
+The Minister states that plans have been made to provide all the ladies they need to be placed in safe places until they are imported to the country.
+
+More than 12,000 Sri Lankans in Israel alone, over 15,000 Sri Lankans, have employed about 7,500 people in the Lebanese kingdom and about 500 people in Egypt.
+
+The President has instructed to prepare all the work as soon as possible to get them as soon as possible. The President has also appointed a separate committee.
+
+He said that if Sri Lankans would be brought to Sri Lanka to Sri Lanka, he is expected to establish a special telephone number.
+
+He said that if the conflict grew in the Middle East, it would have a dollar of dollars and importing the oil and gas of foreign workers could affect the country if it is not.
 
 ...
 
 [Data](articles/4c2467e2.json)
+
+[Extended Data](ext_articles/4c2467e2.ext.json)
 
 ---
 
@@ -2183,73 +2277,5 @@ The Bribery Commission has said that bribes have been bribed to bribes a person 
 [Data](articles/8f700ecc.json)
 
 [Extended Data](ext_articles/8f700ecc.ext.json)
-
----
-
-### The driver of the Juppa motoriator of the electric pillar arrested
-
-*2024-08-03 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199508) · `si`
-
-A motorcyclist attempted to crash into a lorry near Balangoda bus stand, leading to his arrest. The incident occurred after he had previously caused damage to a vehicle in the Kettapitiya area.
-
-🟩
-
-The driver of the vehicle has been arrested by the police that a person suicides a person in Balangoda.
-
-Police said the suspect had also returned to the Balangoda police station with the suspect and the suspect.
-
-The motorcyclist tried to crashing a lorry near the Balangoda bus stand recently.
-
-The lorry had been operating in an innumerary, even though the motorcyclist was hanging in the lorry, had previously been driven by the lorry driver to collide the vehicle by the Carline in Kettapitiya area.
-
-◼️
-
-[Data](articles/dc91125e.json)
-
-[Extended Data](ext_articles/dc91125e.ext.json)
-
----
-
-### Govt’s decision to import eggs criticized
-
-*2024-08-03 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100959/govts-decision-to-import-eggs-criticized) · `en`
-
-The Sri Lanka Association of Animal Production (SLAAP) has criticized the government’s decision to import eggs, attributing it to the government’s failure to establish a system to regulate the price of agricultural products.
-
-President of the association, Ajith Gunasekara stated that importing eggs without such a system in place will harm the local industry.
-
-However, he assured that there is a possibility of providing eggs and chicken without shortages for the upcoming festival season.
-
-◼️
-
-[Data](articles/b4151d35.json)
-
-[Extended Data](ext_articles/b4151d35.ext.json)
-
----
-
-### Opening of Sea Water Freshwater Cleaning Station
-
-*2024-08-03 08:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-நீரை-நன்னீராக்கும்-சுத்திகரிப்பு-நிலையம்-திறந்து-வைப்பு/175-341494) · `ta`
-
-The Jaffna-Kilinochchi Water Supply Project, funded by the Asian Development Bank and the French Development Bank, aims to provide safe drinking water to 300,000 people in Jaffna and Kilinochchi districts. The $55 million seawater desalination plant, using advanced RO technology, produces 24 million liters of safe drinking water daily, significantly improving the water supply situation in the region.
-
-🟩
-
-The Jaffna-Kilinochchi Water Supply Project, which is being implemented under the assistance of the Asian Development Bank through the National Water Supply and Drainage Board, was opened yesterday.
-
-At the invitation of Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman, President Ranil Wickremesinghe was opened yesterday for public use.
-
-It is noteworthy that the plant, especially the people of Jaffna, have been set up by the US $ 266 million rupee fund and opened for public use.
-
-The Sri Lankan government was launched in 2011 with the help of the Asian Development Bank and the French Development Bank to meet the drinking water needs of the people of Jaffna and Kilinochchi district.
-
-The project is also aimed at providing safe drinking water to 300,000 people in the districts of Jaffna and Kilinochchi and improve the health of 80 thousand passengers in Jaffna in the Northern Province of Sri Lanka.
-
-...
-
-[Data](articles/ad38b750.json)
-
-[Extended Data](ext_articles/ad38b750.ext.json)
 
 ---

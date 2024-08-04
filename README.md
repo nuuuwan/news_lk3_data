@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 15:20:46**
+As of **2024-08-04 15:36:01**
 
 ## Newspaper Stats
 
-*Scraped **38,906** Articles*
+*Scraped **38,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,511
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,850
 virakesarilk | 6,153
-adaderanasinhalalk | 6,572
+adaderanasinhalalk | 6,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,905 (100.0%) of 38,906 articles have been extended.
+38,905 (100.0%) of 38,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### දැරියක් ව ගැබිනියක් කළ සුළු පියෙකුට වසර 60ක සිර දඬුවමක්
+
+*2024-08-04 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199552) · `si`
+
+තම බිරිදගේ පළමු විවාහයේ 11 හැවිරිදි දියණියක දූෂණය කර ගැබිනියක් කර දරුවෙකු ප‍්‍රසූත කිරීමට සැලැස්වීම සම්බන්ධයෙන් වෙන් වෙන් වශයෙන් අධි චෝදනා තුනක් ලබා සිටි ගැහැණු දරුවන් තිදෙනෙකු සිටින සුළු පියෙකුට වසර හැටක බරපතළ වැඩසහිත සිර දඬුවමක් පැනවීමට මහනුවර මහාධිකරණ විනිසුරු ඩබ්ලිව් දර්ශිකා විමලසිරි මෙනවිය තීන්දු කළාය.
+
+මහනුවර මහාධිකරණය විසින් මෙවැනි වරදකට විත්තිකරුවෙකුට හැට වසරක සක‍්‍රිය සිර දඬුවමක් නියම කළ පළමු අවස්ථාවද මෙය වෙයි.
+
+ඊට අමතරව චෝදනා තුනටම වෙන් වෙන් වශයෙන් රුපියල් දසදහස බැගින් දඩ මුදල් ගෙවන ලෙසට විත්තිකරුට නියෝග කළ මහාධිකරණ විනිසුරුවරිය, එම දඩ මුදල් ගෙවීම පැහැර හරින්නේ නම් තවත් වසරක බරපතළ වැඩසහිත සිර දඬුවමක් නියම කළාය.
+
+තවද වින්දිත දැරියට මුදලින් රුපියල් ලක්ෂ දහයක වන්දියක් ගෙවන ලෙසටද නියෝග කළ මහාධිකරණ විනිසුරුවරිය, එම වන්දි මුදල ගෙවීම පැහැර හරින්නේ නම් තවත් වසර දෙකක බරපතළ වැඩසහිත  සිර දඬුවමක්ද නියම කළාය.
+
+...
+
+[Data](articles/f4967dcb.json)
+
+---
 
 ### විදේශීය දුම්වැටි සමගින් අයෙකු කටුනායකදී අත්අඩංගුවට
 
@@ -1396,6 +1414,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
+### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
+
+*2024-08-04 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
+
+President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
+
+...
+
+[Data](articles/4933fe13.json)
+
+[Extended Data](ext_articles/4933fe13.ext.json)
+
+---
+
 ### Haycarb Unveils State-of-the-Art Electrochemical Laboratory to support energy storage material innovations
 
 *2024-08-04 02:55:00* · [`islandlk`](http://island.lk/haycarb-unveils-state-of-the-art-electrochemical-laboratory-to-support-energy-storage-material-innovations/) · `en`
@@ -1687,20 +1719,6 @@ The two main political parties that alternated in power in the last century, the
 [Data](articles/27b04a4d.json)
 
 [Extended Data](ext_articles/27b04a4d.ext.json)
-
----
-
-### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
-
-*2024-08-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
-
-President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
-
-...
-
-[Data](articles/4933fe13.json)
-
-[Extended Data](ext_articles/4933fe13.ext.json)
 
 ---
 
@@ -2239,29 +2257,5 @@ Minister of Fisheries and Minister of State for Fisheries, who received the lett
 [Data](articles/b0395a9f.json)
 
 [Extended Data](ext_articles/b0395a9f.ext.json)
-
----
-
-### Navy explains about the North Sea
-
-*2024-08-03 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199527) · `si`
-
-Indian Navy rescued three fishermen but lost one; two survivors and the deceased's body were handed back to the Indian Navy.
-
-🟩
-
-The fishermen who liberated the fishermen from the Indian fishing vessel have been handed over to the Indian Navy.
-
-On July 31, the Navy had toppled a fishing vessel when he went out of the Indian fishing vessels.
-
-The Navy said that the Navy had liberated three fishermen in the vessel and one fisherman was killed in admission to the Quanthavu hospital.
-
-The two Indian fishermen and the dead fisherman's body have been handed over to the Indian Navy.
-
-◼️
-
-[Data](articles/44f6d7d2.json)
-
-[Extended Data](ext_articles/44f6d7d2.ext.json)
 
 ---

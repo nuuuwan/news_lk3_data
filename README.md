@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 00:36:07**
+As of **2024-08-05 00:52:18**
 
 ## Newspaper Stats
 
-*Scraped **38,975** Articles*
+*Scraped **38,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,69 @@ colombotelegraphcom | 369
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,352
-dailyftlk | 2,496
+dailyftlk | 2,497
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,863
-virakesarilk | 6,171
+virakesarilk | 6,172
 adaderanasinhalalk | 6,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,973 (100.0%) of 38,975 articles have been extended.
+38,974 (100.0%) of 38,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ஒலிம்பிக் வரலாற்றில் 400 மீற்றர் அரை இறுதிக்கு முன்னேறிய முதலாவது இலங்கையர் அருண தர்ஷன
+
+*2024-08-05 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190280) · `ta`
+
+பிரான்ஸ் விளையாட்டரங்கில் ஞாயிற்றுக்கிமை (04) நடைபெற்ற ஒலிம்பிக் 2024 விளையாட்டு விழாவில் ஓர் அம்சமான ஆண்களுக்கான 400 மீற்றர் அரை இறுதிப் போட்டியில் பங்குபற்ற அருண தர்ஷன தகுதிபெற்றார்.
+
+இதன் மூலம் ஒலிம்பிக் வரலாற்றில் ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் அரை இறுதிச் சுற்றுக்கு முன்னேறிய முதலாவது வீரர் என்ற சாதனையை அருண தர்ஷன படைத்தார்.
+
+400 மீற்றர் தகுதிகாண் சுற்றின் 5ஆவது போட்டியில் பங்கேற்ற அருண தர்ஷன அப் போட்டியை 44.99 செக்கன்களில் ஓடி முடித்து 3ஆம் இடத்தைப் பெற்று அரை இறுதியில் பங்குபற்ற தகுதிபெற்றார்.
+
+அப் போட்டியில் க்ரெனெடா வீரர் கிரானி ஜேம்ஸ் (44.78 செக்.) முதலாம் இடத்தையும் கனடா வீரர் கிறிஸ்டோபர் மொரேல்ஸ் வில்லியம்ஸ் (44.96 செக்.) இரண்டாம் இடத்தையும் பெற்றனர்.
+
+அமெரிக்கர்களான மைக்கல் நோர்மன் (44.10 செக்.), குவின்சி ஹோல் (44.28 செக்.) ஆகிய இருவரும் தத்தமது தகுதிகாண் போட்டிகளில் முதலாம் இடங்களைப் பெற்றனர்.
+
+தகுதிகாண் சுற்றில் 6 போட்டிகள் நடத்தப்பட்டதுடன் மொத்தம் 44 வீரர்கள் பங்குபற்றினர்.  அரை இறுதிக்கு தகுதிபெற்ற 18 வீரர்களில் இணை 14ஆவது இடத்தை  அருண தர்ஷன  பெற்றார்.
+
+...
+
+[Data](articles/6ca44f65.json)
+
+---
+
+### Human Capital Summit 2024: Building future-ready public institutions
+
+*2024-08-05 00:19:05* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Capital-Summit-2024-Building-future-ready-public-institutions/14-765128) · `en`
+
+The public sector, with its 2 million employees for a population of 22 million, is unsustainable. We aim to reduce the workforce to 1 million by 2030
+
+– Secretary to Prime Minister of Sri Lanka Anura Dissanayake –
+
+The introduction of the National Technology Framework and the implementation of a regulatory sandbox allows new innovative products to be submitted and assessed for feasibility while ensuring public interest and safeguarding public money
+
+- Central Bank of Sri Lanka Governor Dr. Nandalal Weerasinghe -
+
+These transformations are essential to developing future-ready human resources for Sri Lanka
+
+Despite the challenges we face, the progress we’ve made is a significant achievement for Sri Lanka’s higher education sector
+
+- University Grants Commission of Sri Lanka Chairman Prof. Sampath Amaratunge -
+
+...
+
+[Data](articles/f054b417.json)
+
+---
 
 ### Memories of mentoring: Celebrating two special lives
 
@@ -41,6 +87,8 @@ Time has flown so rapidly. It has been nine years since the demise of my “reve
 ...
 
 [Data](articles/247a3c2c.json)
+
+[Extended Data](ext_articles/247a3c2c.ext.json)
 
 ---
 
@@ -2241,47 +2289,5 @@ The Tamil National Alliance has been created for this purpose. The agreement has
 [Data](articles/bc4766f3.json)
 
 [Extended Data](ext_articles/bc4766f3.ext.json)
-
----
-
-### The general candidate's choice and the problem
-
-*2024-08-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/190209) · `ta`
-
-For a Tamil general candidate to gain universal acceptance, they must embody qualities admired by the entire community.
-
-🟩
-
-When the Tamil general candidate is to be accepted by all people, he must be accepted by all people, but the personalities that are respected by all in the community are today.
-
-◼️
-
-[Data](articles/5881a164.json)
-
-[Extended Data](ext_articles/5881a164.ext.json)
-
----
-
-### Release of arrested persons in Kuwait
-
-*2024-08-04 11:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்தில்-கைது-செய்யப்பட்டோர்-விடுதலை/175-341546) · `ta`
-
-Sri Lankan artists Indira Saba Liyanage, Samanali Fonseka, Jolie Chia, and Uppaka Nirmani were arrested in Kuwait for holding a concert without permission but released on February 3rd through the Sri Lankan embassy.
-
-🟩
-
-A group of Sri Lankans, including famous singers, have been released in Kuwait on the 2nd.
-
-Indira Saba Liyanage, Samanali Fonseka, Jolie Chia and Uppaka Nirmani have been arrested while attending a concert to be held by the 'Abhi'.
-
-It has been revealed that they have been arrested for not getting permission for the concert.
-
-However, the Ministry of External Affairs said that the group was released on Saturday (03) through the Sri Lankan embassy in the country.
-
-◼️
-
-[Data](articles/7856cc09.json)
-
-[Extended Data](ext_articles/7856cc09.ext.json)
 
 ---

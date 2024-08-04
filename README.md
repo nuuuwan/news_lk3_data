@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 20:20:54**
+As of **2024-08-04 20:36:13**
 
 ## Newspaper Stats
 
-*Scraped **38,953** Articles*
+*Scraped **38,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,572
 adaderanalk | 4,517
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,860
+tamilmirrorlk | 4,862
 virakesarilk | 6,167
 adaderanasinhalalk | 6,582
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,953 (100.0%) of 38,953 articles have been extended.
+38,953 (100.0%) of 38,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### விகாரதிபதியின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+
+*2024-08-04 20:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகாரதிபதியின்-பூதவுடலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-341593) · `ta`
+
+கொழும்பு-02 கங்காராமய விகாரதிபதி கல்பொட ஞானிஸ்ஸர தேரரின் இறுதி கிரியை, விஹாரையின் திடலில்,  திங்கட்கிழமை  (05), மாலை 4 மணியளவில் இடம்பெறும். அவரது பூதவுடலுக்கு  பெருந்திரளான மக்கள் ஞாயிற்றுக்கிழமை (04) அஞ்சலி செலுத்தினர்.
+
+இந்நிலையில், முதல் பெண்மணியுடன், கங்காராமய விகாரைக்கு, ஞாயிற்றுக்கிழமை (24 இரவு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, விகாரதிபதி கல்பொட ஞானிஸ்ஸர தேரரின் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தினார்.
+
+◼️
+
+[Data](articles/f927fb94.json)
+
+---
+
+### வங்கதேசத்தில் மீண்டும் கலவரம்: 32 பேர் பலி
+
+*2024-08-04 19:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-மீண்டும்-கலவரம்-32-பேர்-பலி/50-341592) · `ta`
+
+வங்கதேசத்தில் வேலைவாய்ப்பு இடஒதுக்கீடு பிரச்சினை தொடர்பாக ஆளும் அவாமி லீக் கட்சி ஆதரவாளர்களுக்கும், எதிர்ப்பாளர்களுக்கும் இடையே மூண்டுள்ள மோதலில் இதுவரை 32 பேர் உயிரிழந்துள்ளனர். பலர் படுகாயமடைந்துள்ளனர். மோதல் வலுத்துவருகின்றது.
+
+வங்கதேசத்தில் பாகிஸ்தானுக்கு எதிரான சுதந்திரப் போராட்டத்தில் இறந்தவர்களின் குடும்பத்தினருக்கு 30 சதவீத இடஒதுக்கீடு வழங்கும் நடைமுறை அமலில் இருந்தது. மாணவர்களின் போராட்டம் காரணமாக கடந்த 2018-ல் இந்த நடைமுறை ரத்து செய்யப்பட்டது. தற்போது மீண்டும் அந்த 30 சதவீத இடஒதுக்கீட்டை அமல்படுத்தும் அறிவிப்பை வங்கதேச அரசு அண்மையில் அறிவித்தது.
+
+இது பாரபட்சமானது என்றும் திறமை அடிப்படையில் அரசுப் பணியாளர்களை தேர்வு செய்ய வலியுறுத்தியும் மாணவர்கள் போராட்டத்தில் குதித்தனர். இந்நிலையில் போராட்டக்காரர்களை அவமதிக்கும் வகையில் பிரதமர் ஷேக் ஹசீனா கடந்த 14-ம் தேதி வெளியிட்ட அறிக்கையை தொடர்ந்து போராட்டம் தீவிரம் அடைந்தது. நாடு தழுவிய இந்த போராட்டத்தில் பல இடங்களில் வன்முறை வெடித்தது. இந்த வன்முறையில் 200க்கும் மேற்பட்டோர் உயிரிழந்தனர்.
+
+...
+
+[Data](articles/d99bb097.json)
+
+---
 
 ### A wooden fell on the car
 
@@ -2245,53 +2275,5 @@ The SHOs pointed out that the President who was boldly presented to the rescue o
 [Data](articles/c2a1f6e8.json)
 
 [Extended Data](ext_articles/c2a1f6e8.ext.json)
-
----
-
-### Murder-suicide suspected as 4 including 2 cops killed in separate shootings
-
-*2024-08-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100977/murder-suicide-suspected-as-4-including-2-cops-killed-in-separate-shootings) · `en`
-
-Four individuals including two police officers attached to the same police station in the Moneragala area as well as a mother and her daughter have reportedly been killed in separate shooting incidents this morning (04), which are believed to be interconnected.
-
-The shooting incidents have reportedly taken place in the Moneragala, Namal Oya and Inginiyagala areas.
-
-The deceased police officers were attached to the Karandugala Police Station in Moneragala, the Police Media Division said.
-
-Initially it was reported that a 33-year-old policeman has been shot dead at his residence in the Namal Oya area of Ampara early this morning (Aug 04).
-
-Police said that an unidentified assailant who arrived at the deceased police constable’s house at around 02.45 a.m. today had shot at him and fled the scene.
-
-Furthermore, police revealed that a 54-year-old woman and her 17-year-old daughter had also been shot dead at the Nelliadda area in Inginiyagala.
-
-...
-
-[Data](articles/1fdf9b43.json)
-
-[Extended Data](ext_articles/1fdf9b43.ext.json)
-
----
-
-### Four including 2 cops from same police station killed in separate shootings
-
-*2024-08-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100977/four-including-2-cops-from-same-police-station-killed-in-separate-shootings) · `en`
-
-Four individuals including two police officers attached to the same police station in the Moneragala area have reportedly been killed in separate shooting incidents this morning (04).
-
-The shooting incidents have reportedly taken place in the Moneragala, Namal Oya and Inginiyagala areas.
-
-The deceased police officers were attached to the Karandugala Police Station in Moneragala, the Police Media Division said.
-
-A 33-year-old policeman has been shot dead at his residence in the Namal Oya area of Ampara early this morning (Aug 04).
-
-Police said that an unidentified assailant who arrived at the deceased police constable’s house at around 02.45 a.m. today had shot at him and fled the scene.
-
-In a separate incident, another policeman attached to the same police station has taken his own life by shooting himself to death using his service firearm inside the Karandugala Police Station today.
-
-...
-
-[Data](articles/bf859837.json)
-
-[Extended Data](ext_articles/bf859837.ext.json)
 
 ---

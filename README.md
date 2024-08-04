@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 11:20:43**
+As of **2024-08-04 11:36:24**
 
 ## Newspaper Stats
 
-*Scraped **38,865** Articles*
+*Scraped **38,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,562
 adaderanalk | 4,506
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,837
+tamilmirrorlk | 4,840
 virakesarilk | 6,145
 adaderanasinhalalk | 6,564
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,864 (100.0%) of 38,865 articles have been extended.
+38,865 (100.0%) of 38,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### மீனவரின் சடலம் ராமேசுவரம் கொண்டுவரப்பட்டது
+
+*2024-08-04 11:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-ராமேசுவரம்-கொண்டுவரப்பட்டது/175-341542) · `ta`
+
+இலங்கை கடற்படை ரோந்துக் கப்பல் மோதியதால் நடுக்கடலில் மூழ்கி உயிரிழந்த மீனவரின் உடல் நேற்று ராமேசுவரம் கொண்டு வரப்பட்டது. அதேபோல, மீட்கப்பட்ட 2 மீனவர்களும் ராமேசுவரம் வந்து சேர்ந்தனர்.
+
+ராமேசுவரம் மீன்பிடித் துறைமுகத்திலிருந்து கடலுக்குச் சென்ற விசைப்படகின் மீது இலங்கை கடற்படை ரோந்துக் கப்பல் மோதியதில், மீனவர் மலைச்சாமி (59) உயிரிழந்தார். மீனவர் ராமச்சந்திரன் (64) கடலில் மாயமானார். முத்து முனியாண்டி (57), மூக்கையா (54) ஆகிய 2 மீனவர்கள் இலங்கை கடற்படையினரால் மீட்கப்பட்டு, யாழ்ப்பாணத்தில் உள்ள இந்திய துணைத் தூதரக அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர். மேலும், நடுக்கடலில் மாயமான மீனவர் ராமச்சந்திரனை தேடும் பணி தொடர்ந்து நடைபெற்று வருகிறது.
+
+இந்நிலையில், மலைச்சாமியின் உடலை யாழ்ப்பாணம் அரசு மருத்துவமனையில் பிரேதப் பரிசோதனை செய்து, இந்திய துணைத் தூதரகத்தில் ஒப்படைத்தனர். தொடர்ந்து, உயிருடன் மீட்கப்பட்ட 2 மீனவர்கள் மற்றும் மலைச்சாமியின் உடலை நேற்று முன்தினம் இரவு காங்கேசன்துறை கடற்படை முகாமில் இருந்து, இலங்கை கடற்படைக்கு சொந்தமான ரோந்துப் படகில் அனுப்பி வைத்தனர்.
+
+...
+
+[Data](articles/6432dcf7.json)
+
+---
+
+### தூங்கியவர் மீது துப்பாக்கி சூடு
+
+*2024-08-04 11:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தூங்கியவர்-மீது-துப்பாக்கி-சூடு/76-341540) · `ta`
+
+செவனகல பகுதியில் உள்ள வீடொன்றில் உறங்கிக் கொண்டிருந்த நபரொருவர் மீது ஞாயிற்றுக்கிழமை (04) அதிகாலை துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளதாக செவனகல பொலிஸார் தெரிவித்தனர்.
+
+கிரி இப்பன்னார ஆயுர்வேத வைத்தியசாலைக்கு அருகில் வசிக்கும் , மூன்று பிள்ளைகளின் தந்தை (வயது 39) ஒருவரே இவ்வாறு துப்பாக்கிச் சூட்டில் காயமடைந்துள்ளார்.
+
+குடும்பத் தகராறு காரணமாக சில நாட்களாக வீட்டிற்கு போகாமல் சற்றுத் தொலைவில் உள்ள வேறு ஒருவருக்குச் சொந்தமான வீட்டில் தனியாக தங்கியிருந்த நிலையில் சனிக்கிழமை (03) அன்றிரவு உணவு அருந்திவிட்டு வீட்டின் ஜன்னல்களை  திறந்து வைத்து உறங்கிக் கொண்டிருந்த போதே குறித்த துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டில் அவரது கையில் அக்குள் பகுதியில் பலத்த காயம் ஏற்பட்டு எம்பிலிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+
+மேலும் , இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர் .
+
+◼️
+
+[Data](articles/64a34540.json)
+
+---
 
 ### 24 Sri Lankans including artists arrested in Kuwait released
 
@@ -51,6 +87,8 @@ However, following the intervention of the Sri Lankan Embassy officials, 24 of t
 ◼️
 
 [Data](articles/bca24335.json)
+
+[Extended Data](ext_articles/bca24335.ext.json)
 
 ---
 
@@ -91,6 +129,20 @@ The Ukrainian army said that the submarine was sanctified.
 [Data](articles/1c9abda3.json)
 
 [Extended Data](ext_articles/1c9abda3.ext.json)
+
+---
+
+### ஊடக தலைவர்களுக்கு திங்கள் அழைப்பு
+
+*2024-08-04 10:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடக-தலைவர்களுக்கு-திங்கள்-அழைப்பு/175-341534) · `ta`
+
+அனைத்து ஊடக நிறுவனங்களின் தலைவர்களும் எதிர்வரும் திங்கட்கிழமை (05) தேர்தல் ஆணைக்குழுவிற்கு அழைக்கப்பட்டுள்ளனர்
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் பிரச்சாரம் தொடர்பில் தேவையான அறிவுறுத்தல்களை வழங்குவதற்காகவே ஊடக நிறுவனங்களின் தலைவர்களுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழுவின் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/b14bc7f8.json)
 
 ---
 
@@ -2253,77 +2305,5 @@ The injured have been taken to hospital and two of them are in critical conditio
 [Data](articles/cac66613.json)
 
 [Extended Data](ext_articles/cac66613.ext.json)
-
----
-
-### Sri Lanka gives on-arrival visa at airport, VFS Global e-visa site shut on court order
-
-*2024-08-03 11:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-on-arrival-visa-at-airport-vfs-global-e-visa-site-shut-on-court-order-175093/) · `en`
-
-ECONOMYNEXT – Sri Lanka has shut a electronic visa application site run by consortium involving companies called VFS Global, IVS and GBS, after a court order suspended the the contract awarded without competitive tender.
-
-“We have been notified of certain interim orders issued by the Supreme Court of Sri Lanka today pertaining to the agreement under which this platform is operated,” a statement on front page of the website said.
-
-“In view of these orders, the website is suspended effective 2 August at 17:00 hours Sri Lanka Standard Time.”
-
-The Department of Immigration continued to issue on arrival visas physically to tourists from eligible countries, airport officials said.
-
-Court also ordered the status quo that prevailed before April 18, when the site was operated by Mobitel, a domestic company.
-
-There was no immediate information on when the old site would be restored. Department sources said a decision is likely to be taken next week.
-
-...
-
-[Data](articles/399d1a2c.json)
-
-[Extended Data](ext_articles/399d1a2c.ext.json)
-
----
-
-### India’s INS Shalki submarine visits Sri Lanka’s Colombo port
-
-*2024-08-03 11:35:00* · [`economynextcom`](https://economynext.com/indias-ins-shalki-submarine-visits-sri-lankas-colombo-port-175116/) · `en`
-
-ECONOMYNEXT – India’s INS Shalki, a diesel-electric submarine commissioned in 1992 arrived in Sri Lanka’s Colombo port on August 02 and will depart on August 04.
-
-“The visit is an Operational Turn Around (OTR), wherein the submarine will replenish fuel and provisions,” India’s embassy in Colombo said.
-
-“The crew will recuperate and have the opportunity of visiting places of interest in Sri Lanka.”
-
-The Commanding officer was due to call on Sri Lanka’s Western Naval Area Rear Admiral WDCU Kumarasinghe and 50 Sri Lanka naval personnel was to visit the submarine.
-
-INS Shalki was the first submarine to be build in India, the statement said.
-
-Sumbarines INS Karaj had visited Colombo in February 2024 and INS Vagir had visited Colombo in June 2023. (Colombo/Aug03/2024)
-
-◼️
-
-[Data](articles/bf8edc7f.json)
-
-[Extended Data](ext_articles/bf8edc7f.ext.json)
-
----
-
-### Sri Lanka expects more jobs in Romania, amid concerns of job scams
-
-*2024-08-03 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-more-jobs-in-romania-amid-concerns-of-job-scams-175113/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning on providing new jobs for Sri Lankans in Romania, Minister of Foreign Affairs, Ali Sabry, said amid concerns that some job agencies were misleading migrant workers.
-
-“In Romania, there are 40,000 Sri Lankans there,” Sabry told reporters Thursday. “It is a big market for Sri Lanka.
-
-“We are looking at improving further opportunities in Romania for the Sri Lankans as well as for Romanian tourists to come to Sri Lanka.”
-
-Sabry visited Romania in July 2024 and met with government officials.
-
-However, there are reports that some workers are being misled by job agencies with the promised job not being given, despite paying fees of 3,500 US dollars or more.
-
-“We continuously advise Sri Lankans that please do not go seeking employment on visit visas,” Sabry said. “You need to get your work visas and get your contract.”
-
-...
-
-[Data](articles/70a7b3ed.json)
-
-[Extended Data](ext_articles/70a7b3ed.ext.json)
 
 ---

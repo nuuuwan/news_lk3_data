@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 15:36:01**
+As of **2024-08-04 15:54:37**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 6,573
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,905 (100.0%) of 38,907 articles have been extended.
+38,907 (100.0%) of 38,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### දැරියක් ව ගැබිනියක් කළ සුළු පියෙකුට වසර 60ක සිර දඬුවමක්
+### A minor father was sentenced to 60 years in prison
 
 *2024-08-04 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199552) · `si`
 
-තම බිරිදගේ පළමු විවාහයේ 11 හැවිරිදි දියණියක දූෂණය කර ගැබිනියක් කර දරුවෙකු ප‍්‍රසූත කිරීමට සැලැස්වීම සම්බන්ධයෙන් වෙන් වෙන් වශයෙන් අධි චෝදනා තුනක් ලබා සිටි ගැහැණු දරුවන් තිදෙනෙකු සිටින සුළු පියෙකුට වසර හැටක බරපතළ වැඩසහිත සිර දඬුවමක් පැනවීමට මහනුවර මහාධිකරණ විනිසුරු ඩබ්ලිව් දර්ශිකා විමලසිරි මෙනවිය තීන්දු කළාය.
+In a landmark case, a minor father was sentenced to 60 years in prison after impregnating an 11-year-old girl, marking the first instance of such a severe punishment. The Kandy High Court Judge Wimalasiri made this decision, emphasizing the gravity of the crime. The defendant was also ordered to pay substantial fines and compensation, reflecting the court's stance against such heinous acts.
 
-මහනුවර මහාධිකරණය විසින් මෙවැනි වරදකට විත්තිකරුවෙකුට හැට වසරක සක‍්‍රිය සිර දඬුවමක් නියම කළ පළමු අවස්ථාවද මෙය වෙයි.
+🟩
 
-ඊට අමතරව චෝදනා තුනටම වෙන් වෙන් වශයෙන් රුපියල් දසදහස බැගින් දඩ මුදල් ගෙවන ලෙසට විත්තිකරුට නියෝග කළ මහාධිකරණ විනිසුරුවරිය, එම දඩ මුදල් ගෙවීම පැහැර හරින්නේ නම් තවත් වසරක බරපතළ වැඩසහිත සිර දඬුවමක් නියම කළාය.
+Kandy High Court Judge Wimalasiri decided to impose an 11-year-old daughter in the first marriage of his wife and giving birth to a child.
 
-තවද වින්දිත දැරියට මුදලින් රුපියල් ලක්ෂ දහයක වන්දියක් ගෙවන ලෙසටද නියෝග කළ මහාධිකරණ විනිසුරුවරිය, එම වන්දි මුදල ගෙවීම පැහැර හරින්නේ නම් තවත් වසර දෙකක බරපතළ වැඩසහිත  සිර දඬුවමක්ද නියම කළාය.
+This is the first time a corporator has been sentenced to a sixty-one year prison for such a mistake.
 
-...
+The High Court judge ordered the defendant to pay the fine for all over Rs.
+
+The High Court judge also ordered the victim to pay a compensation of Rs.
+
+The debapoon had been indicted in three cases of this defendant on three occasions on three occasions in the Kandy High Court on January 21, 2016.
+
+The child who gave birth to the victim girl was a child born to the defendant. Confirmed by an investigation.
+
+◼️
 
 [Data](articles/f4967dcb.json)
 
+[Extended Data](ext_articles/f4967dcb.ext.json)
+
 ---
 
-### විදේශීය දුම්වැටි සමගින් අයෙකු කටුනායකදී අත්අඩංගුවට
+### One arrested with foreign cigarettes
 
 *2024-08-04 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199551) · `si`
 
-රුපියල් ලක්ෂ දහ අටක් පමණ වටිනාකමින් යුතු විදේශීය දුම්වැටි තොගයක් නීතිවිරෝධීව මෙරටට රැගෙන ආ පුද්ගලයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A person was arrested in Sri Lanka for smuggling 12,000 cigarettes hidden in 60 cartons. The suspect, detained by local police, had been smuggled into the country illegally from Bahrain.
 
-බහරේන් සිට මෙරටට පැමිණි අදාළ පුද්ගලයා අද (04) උදෑසන පොලිස් මත්ද්‍රව්‍යනාශක අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇතැයි සඳහන්ය.
+🟩
 
-ඔහුගේ ගමන් මලු තුළ තිබී විදේශීය රටක නිෂ්පාදිත දුම්වැටි 12,000 ක් අඩංගු කාටූන් 60ක් සොයාගෙන ඇත.
+A person who was taken to Sri Lanka illegally who had been illegally brought to Sri Lanka in external cigarettes worth around Rs.
+
+The suspect was arrested by the police from Bahrain from Bahrain this morning (04).
+
+In his luggage, 60 crots containing 12,000 cigarettes have been found.
 
 ◼️
 
 [Data](articles/01ee5810.json)
+
+[Extended Data](ext_articles/01ee5810.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 01:05:53**
+As of **2024-08-05 01:20:47**
 
 ## Newspaper Stats
 
-*Scraped **38,977** Articles*
+*Scraped **38,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,497
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,863
+tamilmirrorlk | 4,864
 virakesarilk | 6,172
 adaderanasinhalalk | 6,588
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,976 (100.0%) of 38,977 articles have been extended.
+38,977 (100.0%) of 38,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ’தமிழகத்தில் ஏற்படும் மாற்றத்தால்  இலங்கையர்களுக்கு வாய்ப்பு’
+
+*2024-08-05 01:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-ஏற்படும்-மாற்றத்தால்-இலங்கையர்களுக்கு-வாய்ப்பு/175-341595) · `ta`
+
+யாழ்ப்பாணம் உள்ளிட்ட வட மாகாண மக்கள் நீண்டகாலமாக பொருளாதார நெருக்கடிகளை எதிர்நோக்கி வருகின்ற போதிலும், அந்த மாகாணத்தில் பாரிய பொருளாதார திறன் காணப்படுவதாக சுட்டிக்காட்டிய ஜனாதிபதி ரணில் விக்ரமசிங்க, அந்த சந்தர்ப்பங்களைப் வடக்கு மாகாணம் உட்பட முழு நாட்டின் பொருளாதார வளர்ச்சிக்காக பயன்படுத்த அரசாங்கம் திட்டமிட்டுள்ளதாகவும் தெரிவித்தார்.
+
+நாட்டில் ஒருபாதியாக இருக்கும் பெண்களுக்கு பாராளுமன்றத்தில் சரியான பிரதிநிதித்துவம் இல்லை. இதற்கு நாம் தீர்வு காண வேண்டும். சிங்கள மொழியையும் தமிழ் மொழியையும் நாம் ஊக்குவிக்க வேண்டும். எதிர்காலத்தில் தமிழகத்தில் ஏற்படப்போகும் பொருளாதார வளர்ச்சியால் தமிழ் பேசும் இலங்கையர்களுக்கு மற்றவர்களுக்கு கிடைக்காத வாய்ப்புகள் கிடைக்கும் என்றார்.
+
+யாழ்ப்பாணம் வலம்புரி ஹோட்டலில் வௌ்ளிக்கிழமை (02) நடைபெற்ற யாழ்.மாவட்ட கல்வியியலாளர்கள், தொழில் வல்லுநர்கள் மற்றும் தொழில் முயற்சியாளர்களுடனான சந்திப்பிலேயே ஜனாதிபதி இதனைக் தெரிவித்தார்.
+
+...
+
+[Data](articles/60b88031.json)
+
+---
 
 ### Aruna Darshana is the first Sri Lankan to advance to the 400m semi -finals in Olympic history
 
@@ -115,6 +131,8 @@ Since debt is a complex subject not understood by ordinary citizens, people do n
 ...
 
 [Data](articles/f400e237.json)
+
+[Extended Data](ext_articles/f400e237.ext.json)
 
 ---
 
@@ -2275,29 +2293,5 @@ Muslim Congress MPs have only decided to support Ranil. Ranil has resolved the e
 [Data](articles/97b6922d.json)
 
 [Extended Data](ext_articles/97b6922d.ext.json)
-
----
-
-### Some questions to the Tamil General Candidate, Partners
-
-*2024-08-04 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190208) · `ta`
-
-The text discusses the formation of the Tamil General Candidate by the Tamil National Alliance, aiming to represent Tamil interests in Sri Lanka's upcoming presidential election. It highlights concerns about the inclusivity of civil organizations, the representation of women and youth, and the potential impact of the candidate's actions on Tamil communities. Critics question the process, the lack of female representation, and the alignment with previous failed attempts by the Tamil National Alliance. The summary emphasizes the need for transparency, inclusivity, and effective leadership to address historical grievances and move towards reconciliation.
-
-🟩
-
-When the political and civil structures centered on the North and the East are new or jointly, it is reflected as a new transformation that has been aimed at present in contemporary structures and the mistakes of the past.
-
-But after the creation of structures or alliances, the slogan of the slogan for their transformation, and the construction of the auctions, and the reactionary thinking and acting more reactionary in the present.
-
-Accordingly, as the country's ninth presidential election is scheduled to be held on September 21, the 'Tamil General Candidate' will be set up to raise the Tamil people and express their aspirations.
-
-The Tamil National Alliance has been created for this purpose. The agreement has been signed between the seven parties of the Tamil People's Alliance, the Tamil People's Alliance, the Relo, Plot, the EPRLF, the Democratic Fighters Party, the Tamil National Party and the Tamil National Green Movement.
-
-...
-
-[Data](articles/bc4766f3.json)
-
-[Extended Data](ext_articles/bc4766f3.ext.json)
 
 ---

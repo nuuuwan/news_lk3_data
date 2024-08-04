@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 17:05:52**
+As of **2024-08-04 17:20:56**
 
 ## Newspaper Stats
 
-*Scraped **38,922** Articles*
+*Scraped **38,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,163 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,567
-adaderanalk | 4,514
+adaderanalk | 4,515
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,853
+tamilmirrorlk | 4,855
 virakesarilk | 6,156
-adaderanasinhalalk | 6,577
+adaderanasinhalalk | 6,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,918 (100.0%) of 38,922 articles have been extended.
+38,922 (100.0%) of 38,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### மு.கா, சஜித்துக்கு ஆதரவு
+### ’சர்வ ஜன பலய’ - ஜனாதிபதி வேட்பாளர் அறிவிக்கப்பட்டார்
+
+*2024-08-04 17:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வ-ஜன-பலய-ஜனாதிபதி-வேட்பாளர்-அறிவிக்கப்பட்டார்/175-341568) · `ta`
+
+சர்வ ஜன பலய” அரசியல் கூட்டணியின் ஜனாதிபதி வேட்பாளராக மவ்பிம ஜனதா கட்சியின் தலைவர் திலித் ஜயவீர நியமிக்கப்பட்டுள்ளார்.
+
+“ஒன்றிணைந்து எழுந்திடும் தேசம் – மகிழ்ச்சிமிகு தேசம்” என்ற தொனிப்பொருளின் கீழ் கொழும்பு சுகததாஸ உள்ளக அரங்கில் நடைபெற்று வரும் நிகழ்வில் இந்த அறிவிப்பு வெளியிடப்பட்டது.
+
+பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச, பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில, தொழிலதிபர் திலித் ஜயவீர, பாராளுமன்ற உறுப்பினர் கெவிந்து குமாரதுங்க உட்பட 'சர்வஜன பலய' கூட்டணியின் முக்கிய உறுப்பினர்கள் பலர் இந்த நிகழ்வில் கலந்துகொண்டனர். R
+
+◼️
+
+[Data](articles/50a87ea3.json)
+
+---
+
+### பொலிஸ்மா அதிபர் விவகாரம் ; மறுப்பு தெரிவித்தார் சபாநாயகர்
+
+*2024-08-04 16:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-விவகாரம்-மறுப்பு-தெரிவித்தார்-சபாநாயகர்/175-341566) · `ta`
+
+பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடப் போவதில்லை என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+
+இந்த விடயம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடுவதற்கு சட்டரீதியான அடிப்படைகள்  இல்லை என்பதை எடுத்துரைத்த சபாநாயகர், அவ்வாறான சூழ்நிலையில் தாம் எந்தவொரு கலந்துரையாடலிலும் ஈடுபடப் போவதில்லை எனவும் மேலும் வலியுறுத்தியுள்ளார்.
+
+தேசபந்து தென்னகோன் பொலிஸ்மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் இடைக்கால உத்தரவை உயர் நீதிமன்றம் அண்மையில் பிறப்பித்தது.
+
+இதனைத் தொடர்ந்து, பொலிஸ்மா அதிபர் தொடர்பான பிரச்சினைக்கு பிரதம நீதியரசர் மற்றும் சபாநாயகர் இடையில் பேச்சுவார்த்தை நடத்தி தீர்வு காண வேண்டும் என ஜனாதிபதி தெரிவித்தார்.
+
+இந்த நிலையிலேயே, பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் பிரதம நீதியரசருடன் கலந்துரையாடப் போவதில்லை என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/978ec07a.json)
+
+---
+
+### සර්වජන බලය එකමුතුවේ ජනාධිපති අපේක්ෂකයා දිලිත් ජයවීර
+
+*2024-08-04 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199557) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී සර්වජන බලය එකමුතුවේ ජනාධිපති අපේක්ෂකයා ලෙස මව්බිම ජනතා පක්ෂයේ නායක දිලිත් ජයවීර මහතා ඉදිරිපත් කරන බව විමල් වීරවංශ මහතා පැවසීය.
+
+මේ වනවිට කොළඹ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගණයේ පැවැත්වෙන එම එකමුතුවේ මහා සමුළුව අමතමින් ඔහු ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/eaf23e8b.json)
+
+---
+
+### Dilith Jayaweera named Presidential Candidate of ‘Sarvajana Balaya’
+
+*2024-08-04 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100990/dilith-jayaweera-named-presidential-candidate-of-sarvajana-balaya) · `en`
+
+The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera was named as the Presidential Candidate of the ‘Sarvajana Balaya’ alliance, a short while ago.
+
+Executive member of ‘Sarvajana Balaya’  MP Wimal Weerawansa announced this during the alliance’s convention currently being held at the Sugathadasa Indoor Stadium in Colombo.
+
+Several key members of ‘Sarvajana Balaya’ alliance including MP Wimal Weerawansa, MP Udaya Gammanpila, entrepreneur Dilith Jayaweera, MP Gevindu Kumaratunga and several others were present at the occasion.
+
+◼️
+
+[Data](articles/61d145fa.json)
+
+---
+
+### Support for MU, Sajith
 
 *2024-08-04 16:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-சஜித்துக்கு-ஆதரவு/175-341564) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவை வழங்க முஸ்லிம் காங்கிரஸின் கட்சி, ஞாயிற்றுக்கிழமை (04) தீர்மானித்துள்ளது.
+The Muslim Congress Party announced its conditional support for opposition leader Sajith Premadasa during a meeting in Colombo.
 
-கொழும்பு கொம்பனித்தெருவில் அமைந்துள்ள முஸ்லிம் காங்கிரஸின் பிரதான காரியாலயத்தில் கட்சியின் அதியுயர் பீடம், கூடியது.
+🟩
 
-இந்த கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், “சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவளிக்க முஸ்லிம் காங்கிரஸின் அதியுயர்  பீடம் தீர்மானித்துள்ளது” என்றார். R
+The Muslim Congress Party has decided on Sunday (04) to support opposition leader Sajith Premadasa with conditions.
+
+The party's supernatural faculty gathered at the main office of the Muslim Congress in Colombo.
+
+Speaking to the media after the discussion, Muslim Congress leader Rauf Hakeem said, "The Muslim Congress has decided to support Sajith Premadasa with conditions.". Remble
 
 ◼️
 
 [Data](articles/60933075.json)
 
+[Extended Data](ext_articles/60933075.ext.json)
+
 ---
 
-### අගමැතිනි ෂෙයික් හසීනා ට යන්නැයි බලකෙරේ
+### Prime Minister Shaikh is forced to go to Husanina
 
 *2024-08-04 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199556) · `si`
 
-අගමැතිනි ෂෙයික් හසීනා ට ඉවත් වන්නැයි බලකරමින් බංග්ලාදේශයේ උද්ඝෝෂණ ආරම්භවී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+In Bangladesh, clashes erupted as Prime Minister Shaikh enforced a deceptive policy, leading to protests. Police used tear gas and stun grenades, resulting in deaths. Authorities suspended internet access to control the situation.
 
-එම උද්ඝෝෂණ පාලනය සඳහා පොලීසිය කඳුළු ගෑස් ප්‍රහාර සහ "ස්ටන් අත්බෝම්බ" ප්‍රහාර එල්ලකර තිබුණි.
+🟩
 
-මේ දක්වා පොලීසිය සහ උද්ඝෝෂකයින් අතර ඇතිවූ ගැටුම් හේතුවෙන් 12 දෙනෙක් පමණ ජීවිතක්ෂයට පත්වී ඇති බව සඳහන් ය.
+International media reports that Prime Minister Shaikladesh has begun deception in Bangladesh, forcing Sheikh Haseani.
 
-මෙම කලබල හේතුවෙන් එරට අන්තර්ජාල පහසුකම් අත්හිටුවීමටත් බලධාරීන් කටයුතු කර තිබුණි.
+The police had tear gas attacks and the "Ston Hand Grenada".
+
+The clashes between police and the protesters have been killed.
+
+The authorities had also had to suspend Internet access due to this lack of rush.
 
 ◼️
 
 [Data](articles/8c615cdc.json)
 
+[Extended Data](ext_articles/8c615cdc.ext.json)
+
 ---
 
-### தலவாக்கலை மாணவர்கள் நால்வரும் காலியில் மீட்பு
+### Talawakelle students rescue in four students
 
 *2024-08-04 16:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தலவாக்கலை-மாணவர்கள்-நால்வரும்-காலியில்-மீட்பு/76-341563) · `ta`
 
-தலவாக்கலை பிரதேசத்தில் காணாமல் போன பாடசாலை மாணவிகள் மூவரும் மாணவனும் காலி பிரதேசத்தில் கண்டுபிடிக்கப்பட்டுள்ளனர்.
+Four students from the Talawakelle area, including three girls aged 16 and a boy aged 15, went missing from the Luza section of the Graceveston estate on June 14th. They were found in Galle Mittiyagoda and taken into police custody. Their parents had reported them missing and asked for anyone with information to contact specific numbers.
 
-தலவாக்கலை பொலிஸ் பிரிவுக்குட்பட்ட கிரேஸ்வெஸ்டர்ன் தோட்டத்தின் லூசா பிரிவில் ஜூன் மாதம் (14) முதல் காணாமல் போயிருந்தனர்.
+🟩
 
-மூவரும் பொலிஸ் காவலில் வைக்கப்பட்டதாக தலவாக்கலை பொலிஸ் நிலைய கட்டளைத் தளபதி பொலிஸ் பரிசோதகர் சமந்த பெரேரா, ஞாயிற்றுக்கிழமை (04)  தெரிவித்தார்.
+Three of the missing school students and students have been found in Galle area in the Talawakelle area.
 
-அவர்கள் காலி மிட்டியகொட பகுதியில் உள்ள விடுதி ஒன்றில் தங்கியிருந்தனர் நிலையில் மீட்கப்பட்டுள்ளனர்.
+The Luza section of the Graceveston estate, which belongs to the Talawakelle Police Division, was missing from June (14).
 
-தலவாக்கலை கிறேட்வெஸ்டன்  லூசா தோட்டத்தைச் சேர்ந்த சிறுமிகள் முரளிகிருஷ்ணன் லக்சிக்கா (வயது 16), ராஜகுரு மிதுஷா (வயது 16), சுந்தர்ராஜ் தர்ஷினி (வயது 16), சிறுவன் ராஜகுரு கோபிசாகர் (வயது 15) ஆகியோரை காணவில்லை.
+Talawakelle Police Commander Samantha Perera said on Sunday (04) that the trio were placed in police custody.
 
-வீடுகளில் இருந்து ஞாயிற்றுக்கிழமை (14)   மாலை வெளியே சென்றவர்கள் வீடுகளுக்குத் திரும்பவில்லை  என அவர்களின் பெற்றோர்களால் தலவாக்கலை பொலிஸில் நிலையத்தில்  திங்கட்கிழமை (15)  முறைப்பாடு செய்யப்பட்டுள்ளது.
+They have been rescued while staying at a hostel in Galle Mittiyagoda.
 
-...
+Muralikrishnan Lakshika (age 16), Rajaguru Mithusha (16), Sundarraj Darshini (age 16) and boy Rajakuru Gopisagar (15) were missing.
+
+Those who left their homes on Sunday evening (14) have lodged a complaint at the Talawakelle Police Station by their parents on Monday (15).
+
+Parents complained that the girls, including the child, went out of the house without telling their parents.
+
+At the same time, the parents have requested that they contact the number 0764612289 and 0771546724 if they are informed.
+
+◼️
 
 [Data](articles/4ad58521.json)
+
+[Extended Data](ext_articles/4ad58521.ext.json)
 
 ---
 
@@ -152,15 +240,21 @@ The arrested suspect has been identified as a 48-year-old resident of Kalmunai, 
 
 ---
 
-### மக்கள் சிந்திப்பதற்கான காலம்
+### Time for people to think
 
 *2024-08-04 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190242) · `ta`
 
-தேர்தல்களால் நாட்டு மக்களின் பிரச்சினைகளுக்கு நேரடித் தீர்வுகள் கிடைத்த வரலாறு என்று பெரிதாக எதுவுமில்லை. அதனால் மக்களுக்கு தோதலில் பெரிய ஆர்வமும் கிடையாது. ஆனால், அத்தேர்தல் அப்புள்ளடி யாரைக் கொண்டுவந்து ஆட்சிக் கதிரையில் அமர்த்துகின்றதோ, அவரின் ஆளுமையைப் பொறுத்துத்தான் நாட்டு மக்களின் எதிர்காலம் தீர்மானிக்கப்படும் என்ற யதார்த்தத்தையும் நாம் மறந்துவிடக்கூடாது.
+Elections don't significantly impact national issues, leading to low public interest. However, the future hinges on the leader elected, highlighting the importance of choosing wisely.
+
+🟩
+
+There is no major history that has come to the problems of the people of the country by elections. So people have no great interest in. But we should not forget the reality that the future of the nation will be determined by the personality of the election, the person who comes to power.
 
 ◼️
 
 [Data](articles/d6e8685e.json)
+
+[Extended Data](ext_articles/d6e8685e.ext.json)
 
 ---
 
@@ -2109,105 +2203,5 @@ The Supreme Court has given an Interim Order to suspend the IGP from functioning
 [Data](articles/1df365c5.json)
 
 [Extended Data](ext_articles/1df365c5.ext.json)
-
----
-
-### 2024-08-03 (Saturday)
-
-### People.. If you find them immediately, please information
-
-*2024-08-03 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-இவர்களை-கண்டால்-உடனடியாக-தகவல்-தாருங்கள்/175-341520) · `ta`
-
-Police need public help to catch three suspects linked to a double shooting, including at Club Vasantha. Investigators have released photos of the suspects, asking anyone with information to call specified numbers.
-
-🟩
-
-Police have sought the help of the public to arrest three suspects in connection with the shooting of two men, including the club Vasantha.
-
-Three suspects have been identified by investigators in connection with the crime and have released three photographs of the suspects to the police and the media.
-
-௦௧. Full Name - Tarukara Varuna Indika de Silva or "Sangam"
-
-௦௩. Full name
-
-The police have requested the public to contact the following telephone numbers if they find any information about the above suspects.
-
-◼️
-
-[Data](articles/24998bad.json)
-
-[Extended Data](ext_articles/24998bad.ext.json)
-
----
-
-### Do you know the three?
-
-*2024-08-03 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவரையும்-உங்களுக்குத்-தெரியுமா/175-341520) · `ta`
-
-Police need public help to catch three suspects linked to a double shooting, including at Club Vasantha. Investigators have released photos of the suspects, asking anyone with information to call specified numbers.
-
-🟩
-
-Police have sought the help of the public to arrest three suspects in connection with the shooting of two men, including the club Vasantha.
-
-Three suspects have been identified by investigators in connection with the crime and have released three photographs of the suspects to the police and the media.
-
-௦௧. Full Name - Tarukara Varuna Indika de Silva or "Sangam"
-
-௦௩. Full name
-
-The police have requested the public to contact the following telephone numbers if they find any information about the above suspects.
-
-◼️
-
-[Data](articles/f996b1c2.json)
-
-[Extended Data](ext_articles/f996b1c2.ext.json)
-
----
-
-### Fanindu Hasaranga loses the rest
-
-*2024-08-03 23:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199535) · `si`
-
-Fanindu Hasaranga will miss Sri Lanka's last two One Day Internationals against India due to a left leg injury diagnosed through MRI scans. He sustained this injury during his 10th ODI match. In his place, Jeffrey Vandersay has been called up to join the team.
-
-🟩
-
-Sri Lanka Cricket (SLC) announced that the remaining two matches of the One Day Cricket Against India.
-
-The first ODI match was caused by the left leg disorder while referring to his 10th ODI.
-
-Due to that a result of MRI. This is also confirmed by the test.
-
-Sri Lanka Cricket has stated that Jeffrey was summoned to the squad instead of the Hasaranga.
-
-◼️
-
-[Data](articles/2fa6950c.json)
-
-[Extended Data](ext_articles/2fa6950c.ext.json)
-
----
-
-### 24 Sri Lankans including artists arrested in Kuwait
-
-*2024-08-03 23:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199534) · `si`
-
-24 Sri Lankans, including artists, were arrested in Kuwait during a concert by the 'Orthi' organization. The Minister of Labor and Foreign Employment, Manusha Nanayakkara, has called for the Sri Lankan embassy to intervene.
-
-🟩
-
-Kuwait authorities have arrested 24 Sri Lankans participating in a concert organized by Kuwait.
-
-The concert was organized by the 'Orthi' organization.
-
-Minister of Labor and Foreign Employment Manusha Nanayakkara says that the Sri Lankan embassy is required to release them.
-
-◼️
-
-[Data](articles/07c1dbaf.json)
-
-[Extended Data](ext_articles/07c1dbaf.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 03:36:13**
+As of **2024-08-05 03:54:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,994 (100.0%) of 38,995 articles have been extended.
+38,995 (100.0%) of 38,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -310,23 +310,31 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 
 ---
 
-### ரணிலுக்கு ஆதரவு தெரிவித்தவர்கள் “மொட்டை பிளக்கவில்லை”
+### Those who support Ranil "do not split up"
 
 *2024-08-05 01:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவு-தெரிவித்தவர்கள்-மொட்டை-பிளக்கவில்லை/175-341598) · `ta`
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவை ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிப்பவர்களால் பிளவுபடவில்லை என்றும், கட்சியைப் பற்றி கவலைப்படாத தமது தனிப்பட்ட நலன்களுக்காக நிற்கும் ஒரு சிறு குழுவினரால் பிளவுபட்டது என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Prasanna Ranatunga defends Ranil Wickremesinghe, stating the Sri Lanka PA hasn't split due to personal interests but rather betrayal for money. He addresses concerns about his decisions, including potential loss of posts, and emphasizes unity and national interest over individual politics.
 
-கட்சி உறுப்பினர்களைப் பற்றி கவலைப்படாத இந்த சிலர் பணத்திற்காக கட்சிக்கு துரோகம் செய்துள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+🟩
 
-இரத்தினபுரி மாவட்ட உள்ளூராட்சி மன்ற பிரதிநிதிகளுடன் சனிக்கிழமை (03) இடம்பெற்ற கலந்துரையாடலின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+Urban Development and Housing Minister Prasanna Ranatunga has said that the Sri Lanka PA has not been divided by President Ranil Wickremesinghe and a small group of people standing for their personal interests of the party.
 
-கேள்வி - கட்சியை உடைத்து விட்டீர்கள் என்ற குற்றச்சாட்டு உள்ளது. கட்சி உடைந்தது ஏன்?
+He pointed out that some of these people who did not care about party members have betrayed the party for money.
 
-பதில் - கட்சியை ஒன்றிணைத்து இந்தப் பயணத்தை மேற்கொள்ள முயற்சிப்பவன் நான். அப்படி உடைப்பவர்கள் 2022 இல் ரணிலை நியமிக்காமல் டலஸை நியமித்திருக்க வேண்டும்.ஏன் அதைச் செய்யாமல்  நாட்டைப் பற்றி சிந்தித்து கட்சியை ஒருங்கிணைக்கும் வேலைத்திட்டத்தை முன்மொழியப்பட்டது.
+Responding to questions raised by journalists after a discussion held on Saturday (03) with the Ratnapura District Local Government Representatives, the Minister said this.
+
+Question - There is an allegation that you have broken the party. Why did the party broke?
+
+Answer - I am trying to make this trip united. Those who broke up should have appointed Dallas in 2022 without appointing Ranil.
+
+Question - You're going to lose the volume organizer post. Isn't that worried to you?You take the risk.What if Ranil Wickremesinghe loses?
 
 ...
 
 [Data](articles/f5150fdb.json)
+
+[Extended Data](ext_articles/f5150fdb.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 22:53:44**
+As of **2024-08-04 23:05:56**
 
 ## Newspaper Stats
 
-*Scraped **38,964** Articles*
+*Scraped **38,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,574
-adaderanalk | 4,519
+adaderanalk | 4,520
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,863
 virakesarilk | 6,167
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,964 (100.0%) of 38,964 articles have been extended.
+38,964 (100.0%) of 38,965 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,24 @@ In light of the clashes and fatalities, the government announced a curfew from 6
 [Data](articles/5a125349.json)
 
 [Extended Data](ext_articles/5a125349.ext.json)
+
+---
+
+### Bangladesh declares three-day general holiday, indefinite curfew amid ongoing unrest
+
+*2024-08-04 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100994/bangladesh-declares-three-day-general-holiday-indefinite-curfew-amid-ongoing-unrest) · `en`
+
+(Reuters) - At least 73 people were killed and hundreds injured in clashes in Bangladesh on Sunday, as police fired tear gas and rubber bullets to disperse tens of thousands of protesters calling for Prime Minister Sheikh Hasina to resign.
+
+The government declared an indefinite nationwide curfew starting at 6 p.m. (1200 GMT) on Sunday, the first time it has taken such a step during the current protests that began last month. It also announced a three-day general holiday starting from Monday.
+
+The unrest, which has prompted the government to shut down internet services, is Hasina’s biggest test in her 20-year regime after she won a fourth straight term in elections that were boycotted by the main opposition Bangladesh Nationalist Party.
+
+Critics of Hasina, along with human rights groups, have accused her government of using excessive force against protesters, a charge she and her ministers deny.
+
+...
+
+[Data](articles/c9dc537f.json)
 
 ---
 
@@ -2247,39 +2265,5 @@ Massive protests against Netanyahu's visit to the US demand an end to "genocide,
 [Data](articles/75a4046f.json)
 
 [Extended Data](ext_articles/75a4046f.ext.json)
-
----
-
-### Four Indian fishermen arrested
-
-*2024-08-04 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199542) · `si`
-
-Four Indian fishermen were arrested in Sri Lankan waters during a naval operation. Meanwhile, in separate incidents, three individuals were detained for cannabis possession in Kilinochchi, and over 176 kg of cannabis was seized from a dingy vessel. The suspects, aged between 22 and 35, are from Mannar and Walaipeadu, and will be processed by the Jayapuram Police Station.
-
-🟩
-
-Four Indian fishermen have been arrested in the country of Sri Lankan waters, the Navy said.
-
-The fishermen and the vessel have been arrested in a special operation conducted by the Sri Lanka Navy, Coval Pradet.
-
-The four Indian fishermen were brought to the port of the Kankasanthurai and the four Indian fishermen.
-
-Meanwhile, three persons have been arrested in Korale cannabis in Kilinochchi.
-
-In search operations conducted in the Korea, the Navy said that investigations were taken into custody by the Kerala cannabis in Kilinochchi.
-
-Navy seized more than 176 kilograms of Kerala Cannabis in the Dingi vessel.
-
-The Navy said that 176 kilograms of Kerala cannabis in the dingi vessel have been recovered.
-
-The suspects are residents of Mannar and Walaipeadu, over 22 and 35 years.
-
-The arrested suspects handed over to Jayapuram Police Station for the next legal proceedings of Kerala cannabis and the dingi vessel.
-
-◼️
-
-[Data](articles/3029ef52.json)
-
-[Extended Data](ext_articles/3029ef52.ext.json)
 
 ---

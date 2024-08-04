@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 23:36:16**
+As of **2024-08-04 23:55:39**
 
 ## Newspaper Stats
 
-*Scraped **38,970** Articles*
+*Scraped **38,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,520
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,863
 virakesarilk | 6,171
-adaderanasinhalalk | 6,587
+adaderanasinhalalk | 6,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,970 (100.0%) of 38,970 articles have been extended.
+38,970 (100.0%) of 38,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### අරුණ දර්ශන අවසන් පූර්ව වටයට
+
+*2024-08-04 23:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199567) · `si`
+
+පැරිස් ඔලිම්පික් උළෙලේ මීටර් 400 ධාවන ඉසව්ව සඳහා ශ්‍රී ලංකාව නියෝජන කරමින් සහභාගි වූ අරුණ දර්ශන එහි අවසන් අවසන් පූර්ව වටයට සුදුසුකම් ලබාගැනීමට සමත් විය.
+
+අරුණ සහභාගි වූ තරගය මෙරට වේලාවෙන් අද (04දා) රාත්‍රී 11.15ට පැවැත්විණි.
+
+එහි මූලික වටයේ 05වැනි තරගය සහභාගි වූ අරුණ තත්. 44.99කින් තරගය අවසන් කර තෙවැනි ස්ථානය දිනාගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/a0045d35.json)
+
+---
 
 ### England Test squad facing Sri Lanka
 
@@ -2285,29 +2301,5 @@ Further investigations are being carried out by the police.
 [Data](articles/64a34540.json)
 
 [Extended Data](ext_articles/64a34540.ext.json)
-
----
-
-### 24 Sri Lankans including artists arrested in Kuwait released
-
-*2024-08-04 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100980/24-sri-lankans-including-artists-arrested-in-kuwait-released) · `en`
-
-The 24 Sri Lankans including artists who were arrested in Kuwait on August 2 have been released.
-
-The Ministry of Foreign Affairs stated that the group had been released last night (03) following the intervention by the Sri Lankan Embassy in Kuwait.
-
-The individuals including popular artists Indrachapa Liyanage, Samanalee Fonseka, ‘Jolly Seeya’ and Upeka Nirmani, were arrested by Kuwait Police while attending an event organised by the JVP-affiliated ‘Ethera Api’ organization.
-
-Reportedly, they were arrested as proper permission had not been obtained for the organised event.
-
-In addition to the artists, and organizers of the event, the music band as well as their musical instruments were also taken into custody by the police.
-
-However, following the intervention of the Sri Lankan Embassy officials, 24 of these arrested persons were released last night while two of the organizing committee members remain in police custody, says the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/bca24335.json)
-
-[Extended Data](ext_articles/bca24335.ext.json)
 
 ---

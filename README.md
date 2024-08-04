@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 12:20:52**
+As of **2024-08-04 12:36:11**
 
 ## Newspaper Stats
 
-*Scraped **38,873** Articles*
+*Scraped **38,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,506
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,844
 virakesarilk | 6,145
-adaderanasinhalalk | 6,564
+adaderanasinhalalk | 6,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,872 (100.0%) of 38,873 articles have been extended.
+38,873 (100.0%) of 38,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### රෝහිතගේ සහාය රනිල්ට
+
+*2024-08-04 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199544) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික කැඳවුම්කරු පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+අද (04) මාධ්‍ය වෙත අදහස් දක්වමින් මන්ත්‍රීවරයා ඒ බව සඳහන් කළේය.
+
+"රට මේ ඉදිරියට යන ගමන ජනතා විමුක්ති පෙරමුණට මේ රට දෙනවද ? උදේ කියන එක හවස දන්නේ නැති වැඩිපුර කථා කරන සජිත්ට 22 වෙනිදාට මේ රට දෙනවද ? මේ කයිය නායකවරුන්ට රට දෙනවද ? රට වෙනුවෙන් තීන්දුවක් ගන්වද ? ඒ නිසා ඔබට ඇහුම්කං දීලා, රටට ඇහුම්කං දීලා මම ඔබේ මතයට හිස නමමින් රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා මේ රටේ ජනාධිපති කරනවන වැඩපිළිවෙළට මම ලෑස්ති වෙනවා."
+
+◼️
+
+[Data](articles/0c9a4372.json)
+
+---
 
 ### Release of arrested persons in Kuwait
 
@@ -470,19 +486,25 @@ However, 24 of them were released last night on the intervention of officers at 
 
 ---
 
-### පී.සි. ඝාතනය කළ පි.සී.ත් වෙඩි තබාගෙන දිවි නසාගනියි
+### P.Ye. Murdered PC too commits suicide
 
 *2024-08-04 08:39:15* · [`adalk`](https://www.ada.lk/breaking_news/පී-සි--ඝාතනය-කළ-පි-සී-ත්-වෙඩි-තබාගෙන-දිවි-නසාගනියි/11-411179) · `si`
 
-බිබිල කරාඩුගල පොලිසියේ සේවය කරන පොලිස් කොස්තාපල්වරයෙකු ඊයේ 04 රාත්‍රි එම පොලිසියේම කොස්තාපල්වරයෙකුගේ නිවසට ගොස්    කොස්පතාල්වරයාට වෙඩි තබා ඝාතනය කර නැවත පොලිසියට පැමිණ තමාත් වෙඩි තබාගෙන සියදිවි නසාගෙන තිබෙන බව පොලිසිය කියයි.
+In a tragic incident, a police constable from Bibile Karandugala Police shot and killed another officer due to a personal dispute over duty assignments. The shooter then turned the gun on himself.
 
-කරාඩුගල පොලිසියේම සේවය කරන කොස්තාපල්වරුන් දෙදෙනා අතර ඇතිවු පෞගලික ආරවුලක් ඝාතනයට හේතුව
+🟩
 
-ඝාතනයට සිදු කිරීමට මුල්වු කොස්තාපල් වරයා සිය රාජකාරි ගිනි අවිය රැ⁣ගෙන නාමල් ඔය ප්‍රදේශයට ගොස් මිතුරු නිළධාරියාට වෙඩි තබා නැවත  පැමිණ පොලිසියේදි වෙඩි තබාගෙනය සිය දිවි නසාගෙන තිබේ.
+A police constable who works at the Bibile Karandugala Police yesterday and was shot dead by the police and killed himself and had been shot dead by shooting himself.
+
+A personal dispute between the two constables to serve at the Karangala Police
+
+The founding of the foundation for the murder was taken to Namal Oya and shot his friendly officer and shot and shot his suicide.
 
 ◼️
 
 [Data](articles/865ee138.json)
+
+[Extended Data](ext_articles/865ee138.ext.json)
 
 ---
 
@@ -2275,35 +2297,5 @@ The four youths, who sustained injuries in the accident, have been hospitalized 
 [Data](articles/76c52da3.json)
 
 [Extended Data](ext_articles/76c52da3.ext.json)
-
----
-
-### The evil understanding of what Sanath said
-
-*2024-08-03 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199515) · `si`
-
-Duti Weleliga, a Sri Lankan cricketer, revealed he tailored his game plan based on Sanath Jayasuriya's bowling style. In the first One-Day International (ODI) against India, Sri Lanka scored 223 runs, with Duti contributing 67 not out. Despite this, India reached their target of 231 runs, showcasing a competitive match.
-
-🟩
-
-Sri Lankan cricketer Duti Weleliga said he made his plan according to the bowling of the wish.
-
-Speaking to the media, he said that yesterday.
-
-"Sanath sir before starting the match, Sanath Sir we had told us a little cut. So I was particularly putting a plan ... How to play. Another thing is ... I was waiting a lot of wishes. The way he barted, I put things in your head. They came to a plan. "
-
-The first one-day international between the Sri Lankan team and the Sri Lankan team, the first one-day international between Sri Lanka, was completed yesterday.
-
-This is the second ODI over the end of the history of ODIs between Sri Lanka and India.
-
-The wishes of Sri Lanka scored 56 runs in yesterday's visit and scored 67 not out.
-
-The Indian team was able to accumulate 230 runs in 47 overs and to score a target of 231 runs.
-
-◼️
-
-[Data](articles/b9ad4cf2.json)
-
-[Extended Data](ext_articles/b9ad4cf2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 19:05:44**
+As of **2024-08-04 19:20:38**
 
 ## Newspaper Stats
 
-*Scraped **38,943** Articles*
+*Scraped **38,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,516
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,859
 virakesarilk | 6,161
-adaderanasinhalalk | 6,581
+adaderanasinhalalk | 6,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,943 (100.0%) of 38,943 articles have been extended.
+38,943 (100.0%) of 38,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### බංග්ලාදේශයේ අරගලයක් පැතිරෙයි
+
+*2024-08-04 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199561) · `si`
+
+බංග්ලාදේශය තුළ පැතිරයන කලහකාරී සිදුවීම් හේතුවෙන් අද (04) පුද්ගලයින් 27 දෙනෙක් මියගොස් ඇති බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+
+අගමැතිනි ෂෙයික් හසීනා ට එම තනතුරින් ඉල්ලා අස්වන ලෙස බලකරමින් එරට විරෝධතා සහ උද්ඝෝෂණ පැවැත්වෙන අතර එහිදී ඇතිවූ ගැටුම්වලදී එම මරණ වාර්තා විය.
+
+විරෝධතාකරුවන් පාලනය සඳහා පොලීසිය කඳුළු ගෑස් සහ ස්ටන් අත්බෝම්බ භාවිත කර තිබුණි.
+
+තත්ත්වය පාලනය කිරීම සඳහා සවස 6 සිට නැවත දැනුම්දෙන තුරු රට පුරා ඇඳිරි නීතිය පැනවීමට බලධාරීන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/2edd9176.json)
+
+---
 
 ### India target 241 runs
 
@@ -119,6 +137,28 @@ Accordingly, after the contracted by August, Mr. Piyanha said that Sajith was co
 [Data](articles/6297e84d.json)
 
 [Extended Data](ext_articles/6297e84d.ext.json)
+
+---
+
+### Sri Lanka’s central bank mops up Rs546bn made from forex purchases to June 2024
+
+*2024-08-04 17:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-mops-up-rs546bn-made-from-forex-purchases-to-june-2024-175153/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has mopped up 546 billion rupees of domestic money, out of a total of 578.5 billion rupees created by the purchase of foreign exchange in the six months to June 2024, official data showed.
+
+The central bank had generated 538.1 billion rupees from forex purchases from the market, a Market Operations Report showed.
+
+The central bank had also generated 40.4 billion rupees net from buying official foreign loan proceeds after settling any loans.
+
+Analysts had warned that one of the ways the rupee is pressured by the deeply flawed operational framework of an IMF-prone central bank is through the surrender by the Treasury of its dollar receipts, creating new money.
+
+Government surrenders have a devastating effect on the currency, when the exchange rate is already under pressure, driving up credit and requiring an even greater contraction of the economy to end any external crisis triggered by mis-targeted short term rates, analysts have said.
+
+...
+
+[Data](articles/da42feb8.json)
+
+[Extended Data](ext_articles/da42feb8.ext.json)
 
 ---
 
@@ -641,6 +681,26 @@ There is no major history that has come to the problems of the people of the cou
 [Data](articles/d6e8685e.json)
 
 [Extended Data](ext_articles/d6e8685e.ext.json)
+
+---
+
+### Bentota Beruwala Hoteliers Association
+
+*2024-08-04 16:11:00* · [`islandlk`](http://island.lk/bentota-beruwala-hoteliers-association/) · `en`
+
+BBHA President Indaka de Silva is a seasoned campaigner in the hospitality industry in Sri Lanka and is the the general manager  of the Barberyn Reff Ayurveda Resort , the oldest hotel in the Beruwela resort.
+
+Offshore banking regulations gazetted for banks set to operate at Port City Colombo
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0ed86ba.json)
+
+[Extended Data](ext_articles/b0ed86ba.ext.json)
 
 ---
 
@@ -1241,28 +1301,6 @@ Namal Rajapaksa's wrong work was to sacrifice life that day. It was because we h
 [Data](articles/59c21ad2.json)
 
 [Extended Data](ext_articles/59c21ad2.ext.json)
-
----
-
-### Sri Lanka’s central bank mops up Rs546bn made from forex purchases to June 2024
-
-*2024-08-04 12:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-mops-up-rs546bn-made-from-forex-purchases-to-june-2024-175153/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has mopped up 546 billion rupees of domestic money, out of a total of 578.5 billion rupees created by the purchase of foreign exchange in the six months to June 2024, official data showed.
-
-The central bank had generated 538.1 billion rupees from forex purchases from the market, a Market Operations Report showed.
-
-The central bank had also generated 40.4 billion rupees net from buying official foreign loan proceeds after settling any loans.
-
-Analysts had warned that one of the ways the rupee is pressured by the deeply flawed operational framework of an IMF-prone central bank is through the surrender by the Treasury of its dollar receipts, creating new money.
-
-Government surrenders have a devastating effect on the currency, when the exchange rate is already under pressure, driving up credit and requiring an even greater contraction of the economy to end any external crisis triggered by mis-targeted short term rates, analysts have said.
-
-...
-
-[Data](articles/da42feb8.json)
-
-[Extended Data](ext_articles/da42feb8.ext.json)
 
 ---
 
@@ -2214,26 +2252,6 @@ The Bank of Ceylon (BOC) recently celebrated its 85th anniversary with a ceremon
 
 ---
 
-### Bentota Beruwala Hoteliers Association
-
-*2024-08-04 03:56:00* · [`islandlk`](http://island.lk/bentota-beruwala-hoteliers-association/) · `en`
-
-Seated – Suresh Athukorala, Asst. Secretary (Heritance Ahungalla, ) Rohan Gamage Vice President (Tala Bentota) Dr. Harsha Jayasinhe Secretary (Pandanus Beach Resort and Spa), Indaka de Silva – President (Barberyn Reef Ayurveda Resort), Channa Ekanayake – Treasurer (Occidental Eden Beruwala), Chinthaka Daluwatte – Vice President (Club Bentota), Mano Gunasekera – Asst. Treasurer (Sheraton Kosgoda Turtle Beach Resort)
-
-Offshore banking regulations gazetted for banks set to operate at Port City Colombo
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b0ed86ba.json)
-
-[Extended Data](ext_articles/b0ed86ba.ext.json)
-
----
-
 ### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
 
 *2024-08-04 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
@@ -2263,21 +2281,5 @@ Haycarb PLC, a global leader in activated carbon, last week announced the inaugu
 [Data](articles/1ee8318f.json)
 
 [Extended Data](ext_articles/1ee8318f.ext.json)
-
----
-
-### PR: The Essential Ingredient in Hoteliering – Part A
-
-*2024-08-04 02:39:00* · [`islandlk`](http://island.lk/pr-the-essential-ingredient-in-hoteliering-part-a/) · `en`
-
-I consider Public Relations (PR) as one of the most important aspects in running any business. In the context of managing Mount Lavinia Hotel (MLH) during the early 1990s, I identified the following twelve segments of people with whom I needed to have good PR:
-
-During my efforts to shortlist employee suggestions, ‘Establishing quality circles in all departments, to earn a national award’ was identified as a goal for 1991. Before formalizing quality circles, we initiated special clean-ups using the Sri Lankan village concept of ‘Shramadana’ (donation of time and effort). This practice brought a new sparkle to the hotel.
-
-...
-
-[Data](articles/305dbe07.json)
-
-[Extended Data](ext_articles/305dbe07.ext.json)
 
 ---

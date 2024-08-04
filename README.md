@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 19:20:38**
+As of **2024-08-04 19:35:56**
 
 ## Newspaper Stats
 
-*Scraped **38,944** Articles*
+*Scraped **38,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,571
-adaderanalk | 4,516
+adaderanalk | 4,517
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,859
 virakesarilk | 6,161
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,943 (100.0%) of 38,944 articles have been extended.
+38,943 (100.0%) of 38,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### Sri Lanka committed to reduce trade barriers - PM
+
+*2024-08-04 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100993/sri-lanka-committed-to-reduce-trade-barriers-pm) · `en`
+
+Prime Minister Dinesh Gunawardena says that Sri Lanka is committed to reducing trade barriers as much as possible in a bid to improve cooperation, trade, and investment within the South Asian region.
+
+Addressing the South Asian Trade Fair 2024, the Premier invited private sector businesses in the region to enter into the renewable energy trade, which possesses huge economic potential.
+
+The South Asian Trade Fair 2024, organised by the Federation of Chambers of Commerce and Industry of Sri Lanka and the SAARC Chamber of Commerce, commenced recently in Colombo.
+
+The event was graced by Prime Minister Dinesh Gunawardena and officials including SAARC Secretary General Golam Sarwar, SAARC Chamber of Commerce President Jashim Uddin, FCCI President Keerthi Gunawardane, members of other business chambers, and High Commissioners and Ambassadors of the South Asian countries.
+
+...
+
+[Data](articles/30fc4304.json)
+
+---
 
 ### බංග්ලාදේශයේ අරගලයක් පැතිරෙයි
 
@@ -624,6 +642,26 @@ However, MP Hakeem claimed that the SLMC is not inclined towards any other polit
 
 ---
 
+### Bentota Beruwala Hoteliers Association
+
+*2024-08-04 16:29:00* · [`islandlk`](http://island.lk/bentota-beruwala-hoteliers-association/) · `en`
+
+BBHA President Indaka de Silva is a seasoned campaigner in the hospitality industry in Sri Lanka and is the the general manager  of the Barberyn Reff Ayurveda Resort , the oldest hotel in the Beruwela resort.
+
+Offshore banking regulations gazetted for banks set to operate at Port City Colombo
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0ed86ba.json)
+
+[Extended Data](ext_articles/b0ed86ba.ext.json)
+
+---
+
 ### Sajith to support Hakeem
 
 *2024-08-04 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199555) · `si`
@@ -681,26 +719,6 @@ There is no major history that has come to the problems of the people of the cou
 [Data](articles/d6e8685e.json)
 
 [Extended Data](ext_articles/d6e8685e.ext.json)
-
----
-
-### Bentota Beruwala Hoteliers Association
-
-*2024-08-04 16:11:00* · [`islandlk`](http://island.lk/bentota-beruwala-hoteliers-association/) · `en`
-
-BBHA President Indaka de Silva is a seasoned campaigner in the hospitality industry in Sri Lanka and is the the general manager  of the Barberyn Reff Ayurveda Resort , the oldest hotel in the Beruwela resort.
-
-Offshore banking regulations gazetted for banks set to operate at Port City Colombo
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b0ed86ba.json)
-
-[Extended Data](ext_articles/b0ed86ba.ext.json)
 
 ---
 
@@ -2263,23 +2281,5 @@ President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early t
 [Data](articles/4933fe13.json)
 
 [Extended Data](ext_articles/4933fe13.ext.json)
-
----
-
-### Haycarb Unveils State-of-the-Art Electrochemical Laboratory to support energy storage material innovations
-
-*2024-08-04 02:55:00* · [`islandlk`](http://island.lk/haycarb-unveils-state-of-the-art-electrochemical-laboratory-to-support-energy-storage-material-innovations/) · `en`
-
-Haycarb PLC, a global leader in activated carbon, last week announced the inauguration of its cutting-edge Electrochemical Laboratory, now known as its Centre of Innovation (CoI).
-
-“This new facility marks a significant milestone in Haycarb’s ongoing commitment to innovation and excellence in the field of energy storage materials,” a news release in this connection said.
-
-“The global energy storage market is on an impressive growth trajectory, with forecasts predicting an increase from $234 billion in 2023 to $357 billion by 2028. As per the Energy Storage Systems Global Market 2024 Report, this expansion, supported by a compound annual growth rate (CAGR) of 8.8%, is propelled by the increasing adoption of renewable energy and the rising demand for electric vehicles.
-
-...
-
-[Data](articles/1ee8318f.json)
-
-[Extended Data](ext_articles/1ee8318f.ext.json)
 
 ---

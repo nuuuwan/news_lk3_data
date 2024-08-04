@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 07:52:10**
+As of **2024-08-04 08:15:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,558
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,830 (100.0%) of 38,841 articles have been extended.
+38,841 (100.0%) of 38,841 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,41 +48,55 @@ Hasaranga was one of the standout performers for the hosts in the first ODI. He 
 
 [Data](articles/52753c63.json)
 
+[Extended Data](ext_articles/52753c63.ext.json)
+
 ---
 
-### පොලිස් නිලධාරීන් දෙදෙනෙක් මරුට
+### Two police officers killed
 
 *2024-08-04 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199538) · `si`
 
-මොනරාගල, කරාඬුගල පොලිසියේ නිලධාරීන් දෙදෙනකු වෙඩිතැබීම් දෙකකින් ජීවිතක්ෂයට පත්ව තිබේ.
+In Moneragala, two police officers were killed in separate incidents: one was shot at home, and another died at the Namal Oya, Ampara. Additionally, a third officer involved in the incident also committed suicide.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ ඉන් එක් පොලිස් නිලධාරියෙකුට කිසියම් අයෙකු අද (04) අලුයම ඔහුගේ නිවසට පැමිණ සිදුකළ වෙඩි තැබීමකින් මියගොස් ඇති බවය.
+🟩
 
-ඉඟිනියාගල පොලිස් වසමේ අම්පාර, නාමල් ඔය ප්‍රදේශයේ සිය නිවසේදී මෙලෙස ඝාතනය කර ඇත්තේ 33 හැවිරිදි පොලිස් නිලධාරියෙකි.
+Two police officers have been killed in two shops in Moneragala, thenalaga.
 
-මේ අතර කරාඬුගල, පොලිසියේ තවත් නිලධාරියෙක් අද අලුයම පොලිසිය තුළදී වෙඩි තබාගෙන සියදිවි හානි කරගෙන තිබේ.
+The police media division said that one police officer had shot dead at his home this morning.
+
+The inginiyagala police division was murdered at the Namal Oya, Ampara, Namal Oya.
+
+Meanwhile, another officer of the incident has committed suicide by shooting over the police this morning.
 
 ◼️
 
 [Data](articles/a4632915.json)
 
+[Extended Data](ext_articles/a4632915.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-08-04 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199536) · `si`
 
-අද (04) දිනයේ බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers expected in Western, Sabaragamuwa, and North Western provinces today, with potential for thunderstorms leading to high winds and lightning risks. Public advised to prepare for possible disruptions.
 
-එම දෙපාර්තමේන්තුව සඳහන් සඳහන් කළේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Meteorological Department says that at times of the Western and Sabaragamuwa provinces today (04), the Met Department said.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states that several times in the North Western province can occur.
+
+Showers or thundershowers during the evening or night in other parts of the island. The Department of Meteorology announces heavy showers more than 50.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/cd6ac2ab.json)
+
+[Extended Data](ext_articles/cd6ac2ab.ext.json)
 
 ---
 
@@ -228,25 +242,31 @@ I travelled to Karachi from Colombo on October 1. The connecting flight to Londo
 
 ---
 
-### யாழில் சர்வமத தலைவர்களை சந்தித்தார் ஜனாதிபதி
+### The President meets the leaders
 
 *2024-08-04 01:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமத-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341523) · `ta`
 
-யாழ்ப்பாணத்திற்கு விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க நல்லை ஆதீனம் ஸ்ரீ சோமசுந்தரம் அவர்களை நேற்று முன்தினம் சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+During his visit to Jaffna, President Ranil Wickremesinghe met various religious and community leaders, including Bishop Sri Somasundaram, Pastor Jastin Gnanaprakasam, and Buddhist Hindu Religious Forum representative Mohan. He also participated in religious rituals at Naga Vihara and visited the Buddha Stupa, accompanied by the Governor of the Northern Province, BSMM Charles, and other officials.
 
-அதனையடுத்து, யாழ். ஆயரின் உத்தியோகபூர்வ இல்லத்திற்கு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ். ஆயர் அருட்தந்தை ஜஸ்டின் ஞானப்பிரகாசம் அவர்களைச் சந்தித்துக் கலந்துரையாடினார்.
+🟩
 
-அதனைடுத்து நேற்று முன்தினம் பிற்பகல் யாழ். நாக விகாரைக்குச் சென்ற ஜனாதிபதி சமய வழிபாடுகளில் ஈடுபட்டு ஆசிகளைப் பெற்றுக்கொண்டார்.
+President Ranil Wickremesinghe, who was on a visit to Jaffna, met Sri Somasundaram yesterday and blessed them.
 
-புனித தலத்தை சென்றடைந்த ஜனாதிபதி முதலில் புத்த ஸ்தூபிக்குச் சென்று வழிபாடுகளில் ஈடுபட்டதோடு, யாழ்ப்பாணம் ஸ்ரீ நாக விகாரையின் விகாராதிபதி மீகஹஜந்துரே சிறிவிமல நாயக்க தேரரைச் சந்தித்து நலன் விசாரித்தார்.
+Subsequently, Jaffna. President Ranil Wickremesinghe, who visited the bishop's official residence. Jastin Gnanaprakasam met with the pastor.
 
-'பௌத்த இந்து சமய மன்றம்' சார்பில் அதன் தலைவர் கலாநிதி எம். மோகனையும் ஜனாதிபதி சந்தித்துக் கலந்துரையாடினார்.
+Then yesterday afternoon. The President who went to the Naga Vihara, engaged in religious rituals and received blessings.
 
-இந்த நிகழ்வில், வடமாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ், தேசிய பாதுகாப்பு தொடர்பிலான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க ஆகியோரும் கலந்துகொண்டனர். (a)
+The President first visited the holy place and went to the Buddha Stupa and worshiped and met with the Sri Naga Vihara in Jaffna, Meegahajandure Sirivimala Nayaka Thera.
+
+On behalf of the 'Buddhist Hindu Religious Forum'. The President also met Mohan.
+
+In this event, the Governor of the Northern Province BSMM. Charles, Senior Advisor of National Security and President of the Presidential Workplace Sagala Ratnayake were also present.. (A)
 
 ◼️
 
 [Data](articles/61277fa2.json)
+
+[Extended Data](ext_articles/61277fa2.ext.json)
 
 ---
 
@@ -322,6 +342,8 @@ Biden became the second man to decline re-election since Lyndon Johnson in 1968.
 
 [Data](articles/f51cc666.json)
 
+[Extended Data](ext_articles/f51cc666.ext.json)
+
 ---
 
 ### Court Orders on the Plantation Wage Issue
@@ -336,6 +358,8 @@ On July 4, a three-member Supreme Court bench issued an interim injunction order
 
 [Data](articles/da3bc176.json)
 
+[Extended Data](ext_articles/da3bc176.ext.json)
+
 ---
 
 ### Is The Supreme Court Supreme Or Subordinate?
@@ -347,6 +371,8 @@ The Supreme Court has given an Interim Order to suspend the IGP from functioning
 ...
 
 [Data](articles/1df365c5.json)
+
+[Extended Data](ext_articles/1df365c5.ext.json)
 
 ---
 
@@ -378,23 +404,29 @@ The police have requested the public to contact the following telephone numbers 
 
 ---
 
-### மூவரையும் உங்களுக்குத் தெரியுமா?
+### Do you know the three?
 
 *2024-08-03 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவரையும்-உங்களுக்குத்-தெரியுமா/175-341520) · `ta`
 
-கிளப் வசந்த உட்பட இருவரை சுட்டுக் கொலை செய்த சம்பவத்துடன் தொடர்புடைய மூன்று சந்தேகநபர்களைக் கைது செய்வதற்காக பொலிஸார், பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+Police need public help to catch three suspects linked to a double shooting, including at Club Vasantha. Investigators have released photos of the suspects, asking anyone with information to call specified numbers.
 
-இந்தக் குற்றச் செயல் தொடர்பில் மூன்று சந்தேகநபர்கள் விசாரணை அதிகாரிகளால் அடையாளம் காணப்பட்டுள்ளதுடன், சந்தேகநபர்களின் 03 புகைப்படங்களை பொலிஸார், ஊடகங்களுக்கு வெளியிட்டுள்ளனர்.
+🟩
 
-01. முழுப்பெயர் – தாருகர வருண இந்திக்க டி சில்வா அல்லது “சங்க”
+Police have sought the help of the public to arrest three suspects in connection with the shooting of two men, including the club Vasantha.
 
-03. முழுப்பெயர் - முதுவா துர தரிந்து மதுசங்க டி சில்வா அல்லது "பஹிரவயா"
+Three suspects have been identified by investigators in connection with the crime and have released three photographs of the suspects to the police and the media.
 
-மேற்குறிப்பிட்ட சந்தேக நபர்கள் தொடர்பில் ஏதேனும் தகவல் தெரிந்தால் பின்வரும் தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொள்ளுமாறு பொலிஸார், பொதுமக்களை கோரியுள்ளனர்.
+௦௧. Full Name - Tarukara Varuna Indika de Silva or "Sangam"
+
+௦௩. Full name
+
+The police have requested the public to contact the following telephone numbers if they find any information about the above suspects.
 
 ◼️
 
 [Data](articles/f996b1c2.json)
+
+[Extended Data](ext_articles/f996b1c2.ext.json)
 
 ---
 

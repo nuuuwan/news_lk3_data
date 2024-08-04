@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 10:08:44**
+As of **2024-08-04 10:20:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,851 (100.0%) of 38,854 articles have been extended.
+38,854 (100.0%) of 38,854 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/d27f5b32.json)
 
+[Extended Data](ext_articles/d27f5b32.ext.json)
+
 ---
 
-### දියේ ගිලී තරුණයෙක් මරුට
+### Youth drowns
 
 *2024-08-04 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199541) · `si`
 
-ගම්පහ, කෙටවල ඇනිකට් එකේ දිය නාමින් සිටි තරුණයෙකු දියේ ගිලීම හේතුවෙන් බරපතළ තත්ත්වයෙන් ගම්පහ රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+An 18-year-old from Udugampala drowned and was taken to Gampaha Hospital, where he later passed away. The incident occurred during a trip with another group.
 
-ඊයේ (03) රාත්‍රී කාලයේ එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, උඩුගම්පල ප්‍රදේශයේ පදිංචිව සිටි 18 හැවිරිදි තරුණයෙකි.
+A young man named in Gampaha has died after being rushed to the Gampaha Hospital due to drowning.
 
-මරණකරු තවත් පුද්ගලයින් පිරිසක් සමග කෙටවල ඇනිකට් එකේ දිය නාමින් සිටින අතර තුරදී ජලපහරකට හසුවී ගසාගෙන ගොස් මෙම මරණය සිදුව ඇති බව පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත.
+The incident was reported yesterday (03), police said.
+
+The victim was an 18 year old resident of Udugampala area.
+
+Investigations have revealed that the death was taken into a journey with the deceased while the deceased was briefing with another group of people.
 
 ◼️
 
 [Data](articles/09a9b68e.json)
+
+[Extended Data](ext_articles/09a9b68e.ext.json)
 
 ---
 
@@ -90,23 +98,31 @@ The police say that the 17-year-old youth arrested the 17-year-old youth who was
 
 ---
 
-### පොලොන්නරුව ඉතිහාසය ගැඹුරටම යන බව හෙළිවෙයි
+### The history of Polonnaruwa is revealed
 
 *2024-08-04 08:44:20* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-ඉතිහාසය-ගැඹුරටම-යන-බව-හෙළිවෙයි/11-411180) · `si`
 
-පොළොන්නරුව ඉපැරණි ඇතුළු නගරයේ  පරාක්‍රමබාහු මාලිගය පරිශ්‍රය තුළ ප්‍රථම වරට ලයිඩා තාක්ෂණය උපයෝගි කර ගනිමින් සිදු කරන ලද පර්යේෂණයකින් උද්‍යාන සහිත නටබුන් කලාපයක් සොයා ගැනීමට හැකි වූ බව මහාචාර්ය ප්‍රිශාන්ත ගුණවර්ධන මහතා අනාවරණය කළේය.
+A statue of Laidu discovered in Polonnaruwa reveals the site's rich history, including a garden area and scientific ruins monitored through advanced technology. The discovery, made during excavations led by Prof. Prishantha Gunawardena, also uncovered evidence of Chinese influence in the region, dating back to the 10th and 12th centuries. This finding suggests a historical significance beyond the Polonnaruwa period, emphasizing the need for further research to fully understand the shared history between China and Sri Lanka.
 
-මේ අනුව ඉපැරණි පරාක්‍රමබාහු මාලිගයේ සිට උතුරු දොරටුව දක්වා පොකුණු මාර්ග සහිත උද්‍යාන භූමියක නටබුන් දිස්වන උද්‍යාන භූමියක නටබුන් දැකගත හැකි වන බව ඒ මහතා ප්‍රකාශ කර සිටියේය.
+🟩
 
-මෙම ලයිඩා තාක්ෂණයේ විශේෂත්වය වනුයේ ඉතාමත්ම ඝන කැලෑවක තිබෙන පුරා විද්‍යාත්මක නටබුන් මීටර් තුනක් පොළොව යට නිරීක්ෂණය කර බැලීමට හැකි වීම බව බව ඒ මහතා මෙහිදී කරුණු අනාවරණය කළේය.
+Prof. Prishantha Gunawardena revealed that a statue of Laidu has been found in the Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakramabahu Parakrama Parakramabahu.
 
-ඕස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්ව විද්‍යාලය සහ පුරාවිද්‍යා දෙපාර්තමේන්තුව මධ්‍යම සංස්කෘතික අරමුදල සහ කැලණිය විශ්වවිද්‍යාලය ඒක්ව මසක පමණ කාලයක සිට මෙහි කැණීම් කටයුතු සිදු කරන අතර මෙමගින් චීන කාසි සහ චීන යුගයේ භාවිතා කරන ලද මැටි බඳුන් ද  පරාක්‍රමබාහු රජ මාලිගය පරිශ්‍රය තුළ සිදු කරන ලද කැණීම් තුළින් සොයා ගත් බව ඒ මහතා පැවසිය.
+Accordingly, the ruins of a garden area will be seen in a garden area on a ponds of the ancient Parakramabahu Palace from an ancient Parakramabahu Palace.
 
-මේ අනුව චීනයේ දහය සහ 12 වැනි සියවස් වලට අයත් සෝන් යුගයේ චීන කාසි බවද ඒ මහතා කීය.
+He said that the specialty of this Lida technology is that it is to be able to monitor three meters of scientific ruins in a very dense jungle.
+
+The University of Lotrop, Australia and the University of Kelaniya has been excavated by the excavation carried out in the Chinese coins and Chinese era.He said.
+
+Accordingly, Chinese coins in the Ten and 12th centuries in China are the Chinese era of China.
+
+He further said that there was an ancient era that had a past settlement period more than the Polonnaruwa period.
 
 ...
 
 [Data](articles/6dcb089a.json)
+
+[Extended Data](ext_articles/6dcb089a.ext.json)
 
 ---
 

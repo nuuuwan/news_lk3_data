@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 13:20:39**
+As of **2024-08-04 13:36:15**
 
 ## Newspaper Stats
 
-*Scraped **38,881** Articles*
+*Scraped **38,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailyftlk | 2,494
 adalk | 3,564
 adaderanalk | 4,509
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,846
+tamilmirrorlk | 4,847
 virakesarilk | 6,145
-adaderanasinhalalk | 6,565
+adaderanasinhalalk | 6,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,881 (100.0%) of 38,881 articles have been extended.
+38,881 (100.0%) of 38,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### අද ඔලිම්පික් පිටියට එන අරුණ
+
+*2024-08-04 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199545) · `si`
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ මීටර් 400 ධාවන ඉසව්ව සඳහා ශ්‍රී ලංකාව නියෝජන කරමින් අරුණ දර්ශන අද (04) සහභාගී වීමට නියමිතව තිබේ.
+
+ලෝක ශ්‍රේණිගත කිරීම අනුව 51 වන ස්ථානයේ පසුවන අරුණ දර්ශන මූලික වටයේ 05වන අදියරෙන් තරග වැදීමට නියමිතව තිබේ.
+
+මීටර් 400 ධාවන ඉසව්වේ ඔහුගේ පෞද්ගලික හොඳම කාලය තත්ත්පර 45.30කි.
+
+මේ අතර ලොව වේගවත්ම කාන්තාව ලෙස පත්වීමට කැරිබියන් දූපත් රාජ්‍යයක් වන ශාන්ත ලුසියා රාජ්‍යයේ ජුලියන් ඇල්ෆ්‍රඩ් ඊයේ (03) සමත්වූවාය.
+
+ඒ මීටර් 100 කාන්තා ධාවන ඉසව්වේ රන් පදක්කම හිමිකරගැනීමට ඇය සමත්වීමත් සමගය.
+
+මෙය ශාන්ත ලුසියා රාජ්‍යය දිනාගත් පළමු ඔලිම්පික් රන් පදක්කම ලෙසද ඉතිහාසගත වෙයි.
+
+◼️
+
+[Data](articles/eaf779ba.json)
+
+---
+
+### “நாமலின் தவறால் வீடுகள் எரிந்தன”
+
+*2024-08-04 13:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-தவறால்-வீடுகள்-எரிந்தன/175-341555) · `ta`
+
+எனது வீடுகள் எரிக்கப்பட்ட போது, அத்துகோரல எம்.பி தனது உயிரை தியாகம் செய்ய நேர்ந்த போதும் நாமல் ராஜபக்ஷ எம்.பி உள்ளிட்டோரின் தவறான செயற்பாடுகளே காரணம் என  பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்துள்ளார்.
+
+" நாமல் ராஜபக்சவுக்கு வரலாறு தெரியாது. 2005 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கு தயாராக இருந்தபோது தனது தந்தைக்கு ஜனாதிபதி வேட்பாளர் கொடுக்க சந்திரிகா பண்டாரநாயக்க தயாராக இல்லை. அப்போது, ​​  மஹிந்த ராஜபக்சவின் பெயரை நான் முதலில் நானே பரிந்துரைத்தேன் எஸ்.எம்.சந்திரசேன தெரிவித்துள்ளார்.
+
+“அப்போது நான் மிகவும் சிரமப்பட்டேன், ஜனாதிபதி மாளிகைக்கு அழைத்து திருமதி சந்திரிகா என்னைத் திட்டினார். அது மட்டும் அல்ல. அவருடைய சித்தப்பாவை ஜனாதிபதியாக்க உதவினேன் என்றார்.
+
+செஹான் சேமசிங்க மற்றும் ஏனைய பாராளுமன்ற உறுப்பினர்களின் வீடுகள் எரிக்கப்பட்டமை நல்லது என  நாமல் ராஜபக்ஷ கூறுவதை நாங்கள் கேட்டுக் கொண்டிருந்தோம். அவர்களின் தவறான செயல்களால் தான் இதுபோன்ற சூழ்நிலைகளை சந்திக்க நேரிட்டது.
+
+...
+
+[Data](articles/59c21ad2.json)
+
+---
 
 ### Sri Lankan e-visa issuance suspended; final decision tomorrow
 
@@ -2221,53 +2261,5 @@ Accordingly, the Chairman of the Committee has instructed to do the gazetted for
 [Data](articles/ebd3aacb.json)
 
 [Extended Data](ext_articles/ebd3aacb.ext.json)
-
----
-
-### Doctor Archana arrested in Mannar
-
-*2024-08-03 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190176) · `ta`
-
-Dr. Archana was arrested by Mannar Hospital admins over a complaint from fellow doctors. She faces charges related to a young mother's inquiry about a death at Mannar Thambane pond, leading to her remand until the 7th.
-
-🟩
-
-Dr. Archana has been arrested today (3) afternoon following a complaint lodged by the doctors of the Mannar Hospital.
-
-Dr. Arsuna Mannar has been arrested by the Mannar Hospital administration at the Mannar Police Station this morning after a complaint lodged at the Mannar General Hospital.
-
-Recently, Dr Arsuna has been arrested and produced before the Mannar Magistrate's Court following a complaint that a young mother from the Mannar Thambane pond came to collect information on the death of a young man.
-
-In this case, the court has ordered him to be remanded until the 7th.
-
-◼️
-
-[Data](articles/4dfe6a2a.json)
-
-[Extended Data](ext_articles/4dfe6a2a.ext.json)
-
----
-
-### Dayasiri's support to Sajith
-
-*2024-08-03 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199518) · `si`
-
-Dayasiri Jayasekera, an SLFP parliamentarian, announced his support for Sajith Premadasa in the upcoming presidential election. He was joined by SLFP members Thilanga Sumathipala and Rohana Lakshman Piyadasa. They emphasized the importance of unity and maintaining separate election campaigns while seeking guidance from their supporters.
-
-🟩
-
-Parliamentarian Dayasiri Jayasekera says he will support the candidate Sajith Premadasa of the next presidential election.
-
-Addressing a media briefing held in Colombo today (03), MP Dayasiri Jayasekara said that.
-
-The SLFP member of the SLFP member of the SLFP Thilanga Sumathipala and Rohana Lakshman Piyadasa were also present.
-
-Speaking. We believe that this journey should go forward. When we go, the SLFP maintains a separate election campaign as the SLFP maintains our. We ask our loving partners asking us that the exact decision should be taken at this time. "
-
-◼️
-
-[Data](articles/a32d1976.json)
-
-[Extended Data](ext_articles/a32d1976.ext.json)
 
 ---

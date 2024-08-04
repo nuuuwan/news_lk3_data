@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 13:05:56**
+As of **2024-08-04 13:20:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,565
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,879 (100.0%) of 38,881 articles have been extended.
+38,881 (100.0%) of 38,881 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Accordingly, the Department of Immigration and Emigration had announced that iss
 
 [Data](articles/df20dc72.json)
 
+[Extended Data](ext_articles/df20dc72.ext.json)
+
 ---
 
 ### 22 injured as two buses collide head-on
@@ -72,15 +74,21 @@ The driver of one of the buses involved in the accident has been arrested and Ma
 
 ---
 
-### ரோஹிதவும் மாறினார்
+### Rohitha also changed
 
 *2024-08-04 12:17:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹிதவும்-மாறினார்/175-341552) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+Rohitha Abeygunawardena, Sri Lanka's Kalutara District Parliamentarian, announced his support for President Ranil Wickremesinghe in the forthcoming presidential election.
+
+🟩
+
+Sri Lanka PA's Kalutara District Parliamentarian Rohitha Abeygunawardena has said that he will support President Ranil Wickremesinghe in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/357472ff.json)
+
+[Extended Data](ext_articles/357472ff.ext.json)
 
 ---
 

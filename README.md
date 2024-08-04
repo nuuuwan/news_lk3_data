@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 22:20:43**
+As of **2024-08-04 22:36:27**
 
 ## Newspaper Stats
 
-*Scraped **38,960** Articles*
+*Scraped **38,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
-adalk | 3,573
-adaderanalk | 4,518
+adalk | 3,574
+adaderanalk | 4,519
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,862
+tamilmirrorlk | 4,863
 virakesarilk | 6,167
-adaderanasinhalalk | 6,585
+adaderanasinhalalk | 6,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,960 (100.0%) of 38,960 articles have been extended.
+38,960 (100.0%) of 38,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### இந்தியாவை வென்ற இலங்கை
+
+*2024-08-04 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வென்ற-இலங்கை/44-341594) · `ta`
+
+◼️
+
+[Data](articles/cc7f5100.json)
+
+---
+
+### Sri Lanka beat India by 32 runs to take lead in ODI series
+
+*2024-08-04 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100995/sri-lanka-beat-india-by-32-runs-to-take-lead-in-odi-series) · `en`
+
+Sri Lanka registered a memorable comeback 32-run win in the second ODI against India in Colombo on Sunday, August 4.
+
+The hosts also claimed their first ODI win against the world no.1 India after 1,108 days with a 1-0 lead in three three-match series.
+
+Kamindu Mendis and Avishka Fernando helped Sri Lanka post a challenging total of 240 while batting first and then the experienced spinner Jeffrey Vandersy picked six wickets to bowl out India to 28 in 42.2 overs.
+
+Rohit Sharma scored another quick fifty to give India a stunning start while chasing a manageable target at R Premadasa Stadium. But the Men in Blues witnessed an embarrassing collapse from 97/0 to 147/6 with Vandersay claiming all first six wickets in one of the best ODI spells in Sri Lanka cricket history.
+
+...
+
+[Data](articles/418e9eea.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 32ක සුපිරි ජයක්
+
+*2024-08-04 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199565) · `si`
+
+ජෙෆ්රි වැන්ඩර්සේගේ අතිවිශිෂ්ට පන්දු යැවීම හේතුවෙන් සංචාරක ඉන්දීය කණ්ඩායමට එරෙහි දෙවැනි එක්දින තරගයෙන් ලකුණු 32ක සුපිරි ජයක් හිමිකර ගැනීමට සත්කාරක ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ  අද (04) රාත්‍රියේ අවසන් වූ මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම ලබාදුන් ලකුණු 241ක ඉලක්කයට පිළිතුරු ලෙස ඉන්දීය පිතිකරුවන්ට පන්දුවාර 42.2කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 208ක් පමණි.
+
+ඉන්දියාව මෙම පරාජය ලැබුවේ ඔවුන් පළමු කඩුල්ලට පන්දුවාර 13.3කදී ලකුණු 97ක ප්‍රහාරාත්මක ආරම්භයක් ලබාගෙන සිටියදී වීමත් විශේෂත්වයකි.
+
+ඉන්දීය ඉනිම ආරම්භ කළ නායක රෝහිත් ශර්මා ප්‍රහාරාත්මක ලකුණු 64ක් රැස්කිරීමට සමත් විය. පන්දු 44කින් ගොඩනැගුණු ඔහුගේ ඉනිමට හයේ පහර 04ක් හා හතරේ පහර 05ක් ඇතුළත් විය.
+
+ඊට අමතරව අක්සාර් පටෙල් ලකුණු 44ක්ද, ශුබ්මන් ගිල් ලකුණු 35ක් රැස්කළද එය ඉන්දීය ජයට ප්‍රමාණවත් නොවුණි.
+
+ඉන්දීය ඉනිම මෙල්ල කිරීමේ සම්පූර්ණ බර කරට ගත් ජෙෆ්රි වැන්ඩර්සේ පළමු කඩුලු 06ම දවාගනිමින් තරගයේ ජය ශ්‍රී ලංකාව දෙසට රැගෙන ආවේය.
+
+...
+
+[Data](articles/1bc092d7.json)
+
+---
 
 ### Meets a burning motorcycle
 
@@ -101,6 +151,18 @@ In light of the clashes and fatalities, the government announced a curfew from 6
 [Data](articles/5a125349.json)
 
 [Extended Data](ext_articles/5a125349.ext.json)
+
+---
+
+### කන්ටේනර් රෝදයේ හුළං ඇරිය සැරයන්වරයාගේ වැඩ තහනම්
+
+*2024-08-04 20:45:51* · [`adalk`](https://www.ada.lk/breaking_news/කන්ටේනර්-රෝදයේ-හුළං-ඇරිය-සැරයන්වරයාගේ-වැඩ-තහනම්/11-411191) · `si`
+
+වත්තල පොලිසියේ රථ වාහන අංශයේ  පොලිස් සැරයන්වරයෙකු වත්තල මාබෝල ප්‍රදේශයේ බහලුම් අංගනයකට ආසන්නව මාර්ගයේ නවතා තිබූ ලොරි රථයක ඉදිරිපස රෝදයේ හුළං ඇර සිදුකළ අනීතික ක්‍රියාව හේතුවෙන් එම සැරයන් වරයා වැඩ තහනමට ලක් කළ බව නීති දිශාව භාර , වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශ කර නියෝජ්‍ය පොලිස්පති පොලිස්පති රුවන් ගුණසේකර මහතා පැවසීය. එම සැරයන් වරයා එලෙස හුළං අරින ආකාරය දැක්වෙන වීඩියෝ දර්ශන පෙළක් පසුගිය දිනවල සමාජ මාධ්‍ය ඔස්සේ සංසරණය විණි.
+
+◼️
+
+[Data](articles/c65da273.json)
 
 ---
 
@@ -2189,101 +2251,5 @@ The arrested suspects handed over to Jayapuram Police Station for the next legal
 [Data](articles/3029ef52.json)
 
 [Extended Data](ext_articles/3029ef52.ext.json)
-
----
-
-### Four people shot dead in Amparai
-
-*2024-08-04 10:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அம்பாறையில்-நால்வர்-சுட்டுக்-கொலை/74-341530) · `ta`
-
-In Amparai, four people, including two police officers, were fatally shot by a colleague from the Karandukala Sub Police Station. The shooter, a 33-year-old police officer, also died by his own hand, possibly due to personal issues under investigation.
-
-🟩
-
-Four people, including 2 police officers, were killed in the shooting in Ampara.
-
-The shooting was carried out by a police officer on duty at the Karandukala Sub Police Station in Namal Oya, Ampara, at 2.30 am on Sunday (4).
-
-The 33 -year -old police officer who was shot dead by the police officer, including the police officer who was working at the police station, was shot dead by his gun, police said.
-
-The police said that a police officer who was working at the Karandukala Sub -Police Station, which includes the Senior Superintendent of Police in Moneragala, shot himself and committed suicide.
-
-Police are investigating whether the incident was due to family problems or due to other reasons.
-
-◼️
-
-[Data](articles/28e6b7b8.json)
-
-[Extended Data](ext_articles/28e6b7b8.ext.json)
-
----
-
-### Troin in Gampaha for Ranil's Success
-
-*2024-08-04 10:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றிக்காக-கம்பஹாவில்-முக்கூட்டு/175-341526) · `ta`
-
-In the Gampaha constituency, the Sri Lanka PA, United National Party, and Sri Lanka Freedom Party have launched a program to support President Ranil Wickremesinghe's reelection bid. The initiative was discussed at a meeting chaired by Minister Prasanna Ranatunga, involving local council members and party officials. The program aims to use digital technology for voter engagement and includes the appointment of a joint guidance committee.
-
-🟩
-
-In the upcoming presidential election, the Sri Lanka PA, the United National Party and the Sri Lanka Freedom Party (SLFP) have launched a program in the Gampaha constituency in order to reinstate President Ranil Wickremesinghe.
-
-The joint program was prepared at a meeting held on Saturday (03) chaired by Minister Prasanna Ranatunga.
-
-There are two local councils in the Gampaha constituency: Gampaha Municipal Council and Gampaha Pradeshiya Sabha. Former Provincial Council Member Lakshman Gunawardena has been appointed as the guest of the event.
-
-Nalaka Kodahewa, who served as a Member of Parliament of the Gampaha constituency, is now with the UP.
-
-This is why Minister Prasanna Ranatunga acts as the Chairman of the Gampaha Divisional Coordinating Committee.
-
-The number of budget MPs representing the Gampaha Local Government is 22. 16 MPs attended the meeting held yesterday in support of the current President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/b97a0442.json)
-
-[Extended Data](ext_articles/b97a0442.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-04 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100978/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places elsewhere in the island during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d27f5b32.json)
-
-[Extended Data](ext_articles/d27f5b32.ext.json)
-
----
-
-### Youth drowns
-
-*2024-08-04 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199541) · `si`
-
-An 18-year-old from Udugampala drowned and was taken to Gampaha Hospital, where he later passed away. The incident occurred during a trip with another group.
-
-🟩
-
-A young man named in Gampaha has died after being rushed to the Gampaha Hospital due to drowning.
-
-The incident was reported yesterday (03), police said.
-
-The victim was an 18 year old resident of Udugampala area.
-
-Investigations have revealed that the death was taken into a journey with the deceased while the deceased was briefing with another group of people.
-
-◼️
-
-[Data](articles/09a9b68e.json)
-
-[Extended Data](ext_articles/09a9b68e.ext.json)
 
 ---

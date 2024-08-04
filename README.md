@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 05:39:03**
+As of **2024-08-04 06:05:41**
 
 ## Newspaper Stats
 
-*Scraped **38,820** Articles*
+*Scraped **38,835** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 333
 newsfirstlk | 363
-colombotelegraphcom | 368
+colombotelegraphcom | 369
 bbccomsinhala | 370
-islandlk | 2,224
+islandlk | 2,238
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,559
@@ -26,11 +26,137 @@ adaderanasinhalalk | 6,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,820 (100.0%) of 38,820 articles have been extended.
+38,820 (100.0%) of 38,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### IASL HR Conference 2024: Embracing resilience and change
+
+*2024-08-04 04:11:00* · [`islandlk`](http://island.lk/iasl-hr-conference-2024-embracing-resilience-and-change/) · `en`
+
+The Insurance Association of Sri Lanka (IASL) recently held the HR Conference 2024, themed “Resilience Reimagined – Thriving Through Change,” at the Marriott Courtyard in Colombo. The event was a success, drawing over 150 participants from the insurance industry, including IASL’s Executive Committee and sector CEOs.
+
+The conference aimed to equip HR professionals with the skills needed to lead effectively and foster resilience amidst rapid change. Rohitha Amarapala, Chairman of the HR Subcommittee of IASL, and Chandana L Aluthgama, IASL President and Group CEO of Sri Lanka Insurance, set the tone by highlighting the critical role of resilience in today’s environment.
+
+...
+
+[Data](articles/0f4c6e0d.json)
+
+---
+
+### Ratna Technical Maintenance wins BWIO Gold Award
+
+*2024-08-04 04:11:00* · [`islandlk`](http://island.lk/ratna-technical-maintenance-wins-bwio-gold-award/) · `en`
+
+Ratna Technical Maintenance won the Best AC Service and Maintenance Company of the Year 2023 (Micro – Gold) award at the Business World International Awards, organized by the Business World International Organization recently at the Taj Samudra Hotel in Colombo.
+
+Managing Director Rathnasiri Wickramasinghe Liyanage received the award, said a release.
+
+It said: Ratna Technical Maintenance is a comprehensive provider of air conditioning (AC) services, including installation, repair, and the sale of Brand Panasonic AC units. Their expertise is evident in the diverse range of projects they have completed throughout the past, including AC solutions for luxury apartments
+
+Haycarb Unveils State-of-the-Art Electrochemical Laboratory to support energy storage material innovations
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b03fba4f.json)
+
+---
+
+### BOC celebrates 85 years of excellence with awards, milestones, and new initiatives
+
+*2024-08-04 04:11:00* · [`islandlk`](http://island.lk/boc-celebrates-85-years-of-excellence-with-awards-milestones-and-new-initiatives/) · `en`
+
+The Bank of Ceylon (BOC) recently celebrated its 85th anniversary with a ceremony at its Head Office in Colombo, attended by Chairman Kavan Ratnayaka, General Manager/CEO Russel Fonseka, the Board of Directors, management, staff, customers, and well-wishers. The event featured religious sermons to bless the staff and customers. Throughout the year, BOC’s branch network also marked the anniversary with their communities.
+
+...
+
+[Data](articles/be3efe7b.json)
+
+---
+
+### Bentota Beruwala Hoteliers Association
+
+*2024-08-04 03:56:00* · [`islandlk`](http://island.lk/bentota-beruwala-hoteliers-association/) · `en`
+
+Seated – Suresh Athukorala, Asst. Secretary (Heritance Ahungalla, ) Rohan Gamage Vice President (Tala Bentota) Dr. Harsha Jayasinhe Secretary (Pandanus Beach Resort and Spa), Indaka de Silva – President (Barberyn Reef Ayurveda Resort), Channa Ekanayake – Treasurer (Occidental Eden Beruwala), Chinthaka Daluwatte – Vice President (Club Bentota), Mano Gunasekera – Asst. Treasurer (Sheraton Kosgoda Turtle Beach Resort)
+
+Offshore banking regulations gazetted for banks set to operate at Port City Colombo
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0ed86ba.json)
+
+---
+
+### Haycarb Unveils State-of-the-Art Electrochemical Laboratory to support energy storage material innovations
+
+*2024-08-04 02:55:00* · [`islandlk`](http://island.lk/haycarb-unveils-state-of-the-art-electrochemical-laboratory-to-support-energy-storage-material-innovations/) · `en`
+
+Haycarb PLC, a global leader in activated carbon, last week announced the inauguration of its cutting-edge Electrochemical Laboratory, now known as its Centre of Innovation (CoI).
+
+“This new facility marks a significant milestone in Haycarb’s ongoing commitment to innovation and excellence in the field of energy storage materials,” a news release in this connection said.
+
+“The global energy storage market is on an impressive growth trajectory, with forecasts predicting an increase from $234 billion in 2023 to $357 billion by 2028. As per the Energy Storage Systems Global Market 2024 Report, this expansion, supported by a compound annual growth rate (CAGR) of 8.8%, is propelled by the increasing adoption of renewable energy and the rising demand for electric vehicles.
+
+...
+
+[Data](articles/1ee8318f.json)
+
+---
+
+### PR: The Essential Ingredient in Hoteliering – Part A
+
+*2024-08-04 02:39:00* · [`islandlk`](http://island.lk/pr-the-essential-ingredient-in-hoteliering-part-a/) · `en`
+
+I consider Public Relations (PR) as one of the most important aspects in running any business. In the context of managing Mount Lavinia Hotel (MLH) during the early 1990s, I identified the following twelve segments of people with whom I needed to have good PR:
+
+During my efforts to shortlist employee suggestions, ‘Establishing quality circles in all departments, to earn a national award’ was identified as a goal for 1991. Before formalizing quality circles, we initiated special clean-ups using the Sri Lankan village concept of ‘Shramadana’ (donation of time and effort). This practice brought a new sparkle to the hotel.
+
+...
+
+[Data](articles/305dbe07.json)
+
+---
+
+### Some wonders AI has created and dangers of negative repercussions
+
+*2024-08-04 02:09:00* · [`islandlk`](http://island.lk/some-wonders-ai-has-created-and-dangers-of-negative-repercussions/) · `en`
+
+If anyone in this audience was skeptical regarding my earlier assertion that engineering and technology underpin numerous innovations shaping our lives, this example should effectively dispel their doubts. So what is behind this success in this new generation of AI that we now experience? It is a technology called Deep Learning, a term that may be familiar to some of you.
+
+What is Deep Learning? Deep learning is a computer learning paradigm, inspired by the human brain’s neural networks, which are believed to process data iteratively, through layers. Similar to how the brain learns from data, Deep Learning algorithms also learn by processing data, through layers of interconnected computing nodes, refining their understanding with each iteration.
+
+...
+
+[Data](articles/da939916.json)
+
+---
+
+### My time at Sussex University in the mid-1970s
+
+*2024-08-04 02:07:00* · [`islandlk`](http://island.lk/my-time-at-sussex-university-in-the-mid-1970s/) · `en`
+
+“Culture is like jam; the less you have, the more you spread”
+
+The Central Bank of Ceylon had stringent forex laws and regulations in the seventies. In 1975, it approved 18 sterling pounds for me to take to England as a student and recorded the amount in my passport. The postgraduate studentship from the Institute of Development Studies (IDS) of Sussex University paid my airfare, tuition fees, and living expenses.
+
+I travelled to Karachi from Colombo on October 1. The connecting flight to London was delayed because the plane had engine troubles. I did not have money to make a call to IDS or ARTI about the delay. The plan was for someone from IDS to meet me at Falmer railway station (the nearest to the university) on October 2 in the afternoon.
+
+...
+
+[Data](articles/8b53a816.json)
+
+---
 
 ### TMC for the upcountry Tamil aspiration document. Recognition
 
@@ -51,6 +177,60 @@ Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Li
 [Data](articles/da9c720f.json)
 
 [Extended Data](ext_articles/da9c720f.ext.json)
+
+---
+
+### JRJ encapsulates his autobiography in a 1992 post retirement book
+
+*2024-08-04 00:54:00* · [`islandlk`](http://island.lk/jrj-encapsulates-his-autobiography-in-a-1992-post-retirement-book/) · `en`
+
+I was born on 17 September 17, 1906. My father was E.W. Jayawardene, K.C. and a Judge of the Supreme Court and my mother was Agnes Helen, the daughter of Tudugala Don Philip Wijewardene and his wife Helena Wijewardene. My maternal grandmother is remembered as a pious and noble lady who made munificent gifts for the restoration of the Kelaniya Raja Maha Viharaya, the 2,500 years old Sacred Buddhist shrine.
+
+...
+
+[Data](articles/24c240e9.json)
+
+---
+
+### Biden Administration achieves greatest hostage exchange since Cold War sans fanfare
+
+*2024-08-04 00:54:00* · [`islandlk`](http://island.lk/biden-administration-achieves-greatest-hostage-exchange-since-cold-war-sans-fanfare/) · `en`
+
+Trump can’t figure out if Kamala is Black or Indian, calls her husband a “crappy Jew”
+
+During the two weeks after President Biden’s ultimate act of patriotism in deciding not to seek re-election for a second term, the political climate in the United States has been energized with a number of totally unexpected and refreshing events.
+
+Biden became the second man to decline re-election since Lyndon Johnson in 1968. The circumstances surrounding the decision by these presidents not to run for re-election had many differences, but forsaking personal ambition for the good of their party and country is the common theme that has distinguished their presidencies in history for their selflessness and patriotism.
+
+...
+
+[Data](articles/f51cc666.json)
+
+---
+
+### Court Orders on the Plantation Wage Issue
+
+*2024-08-04 00:25:00* · [`islandlk`](http://island.lk/court-orders-on-the-plantation-wage-issue/) · `en`
+
+On May Day, flanked by plantation sector legislators representing the Ceylon Worker’s Congress( CWC), President Wickremesinghe announced the increase of the plantation worker daily wage to Rs 1,700.00. His will was legitimized by a gazette notification signed by Manusha Nanayakkara, Minister of Labour. Twenty one plantation companies, collectively, filed a petition before the Court of Appeal, seeking the invalidation of the said gazette, on the basis that the unilateral and arbitrary decision by the minister violated the legal principles of natural justice.
+
+On July 4, a three-member Supreme Court bench issued an interim injunction order, preventing the implementation of the said gazette. Clearly, the court considered that the plea by the plantation companies had merit. The latest court ruling, along with the two others delivered on the recent election-related petitions, is more egg on the president’s face.
+
+...
+
+[Data](articles/da3bc176.json)
+
+---
+
+### Is The Supreme Court Supreme Or Subordinate?
+
+*2024-08-04 00:10:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-the-supreme-court-supreme-or-subordinate/) · `en`
+
+The Supreme Court has given an Interim Order to suspend the IGP from functioning until the final determination of the Petitions filed against the IGP. This has created a controversy between the Supreme Court and the other two limbs of the Government, the Executive and the Legislature. I wish to express my views on this deadlock as an ordinary citizen objectively and as a free-thinker, as follows:
+
+...
+
+[Data](articles/1df365c5.json)
 
 ---
 
@@ -2051,241 +2231,5 @@ Governor of the Northern Province BSM Sals, former MP Vijayagala Maheshwaran and
 [Data](articles/6f6a22e0.json)
 
 [Extended Data](ext_articles/6f6a22e0.ext.json)
-
----
-
-### North East Coordinating Committee in Trincomalee
-
-*2024-08-03 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190143) · `ta`
-
-The North East Coordinating Committee in Trincomalee launched a pamphlet campaign urging for a federal solution for the North-East region on its second anniversary of the 100-day executive. The campaign was distributed in the Sivankoil and Linganagar areas, emphasizing an honorable political resolution for the region's inhabitants.
-
-🟩
-
-The pamphlet campaign, which urged the people of the North and East, urging the federal of the North -East, in view of the second anniversary of the 100 -day executive, demanding an honorable political solution to the people of the North and East Coordinating Committee.
-
-The pamphlet was delivered on Friday evening (02) at the Sivankoil area of ​​Trincomalee and Linganagar Junction.
-
-The North -East Coordinating Committee Coordinator Mr.. Kandumani Lavakusarasa said.
-
-◼️
-
-[Data](articles/b3ac5a01.json)
-
-[Extended Data](ext_articles/b3ac5a01.ext.json)
-
----
-
-### Men Skills Training Seminar for Success
-
-*2024-08-03 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190141) · `ta`
-
-A seminar titled "Men's Skills Training" was held at Central Colombo Hindu Vidyalaya, organized by Sathiyamoorthy and Durai Rajaratnam, with KD Guruswamy as the administrator. The event featured U. Dr. Durairaja Prashanthan as the speaker, chaired by Principal Padmaranjan, and included guests from the Base Children's Education Development Organization and CEO M. Senthilnathan.
-
-🟩
-
-KD Guruswamy, Administrator of Viveka Training Center. U. Dr. Durairaja Prashanthan's 'Men's Skills Training Seminar' was organized by Sathiyamoorthy and Durai Rajaratnam for students at the Central Colombo Hindu Vidyalaya.
-
-The event was chaired by College Principal Padmaranjan and the chief guests of the Base Children's Education Development Organization. Wijendran and Veerakesari Chief Executive Officer M. Senthilnathan were also present.
-
-◼️
-
-[Data](articles/5c51f7f9.json)
-
-[Extended Data](ext_articles/5c51f7f9.ext.json)
-
----
-
-### The President confirms the meeting with the youth of Jaffna
-
-*2024-08-03 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190140) · `ta`
-
-In a meeting with Jaffna's youth, President Ranil Wickremesinghe announced plans to launch a program next year aimed at creating job opportunities in both public and private sectors. He highlighted the need for new employment initiatives post-COVID-19, noting the country's recovery from financial difficulties. The government has already allocated funds for hiring teachers and introduced a loan scheme for self-employment. Additionally, the President pledged support for youth involvement in agricultural modernization.
-
-🟩
-
-During a meeting with youth in Jaffna, President Ranil Wickremesinghe said that the program for the youth will be launched from next year and is to create new employment opportunities in the public and private sector.
-
-President Ranil Wickremesinghe, who is on a visit to Jaffna, said this during a meeting with the youth at the Valamburi Hotel in Jaffna on Friday. There he added:
-
-Kovit - 19 Sri Lankan youths have not been able to provide employment opportunities for the past 4 years due. However, the country is currently free from bankruptcy. Therefore, the country needs to be implemented by implementing new employment opportunities.
-
-The government has allocated funds this year to fill teacher vacancies despite financial issues. More funds have been provided next year to incorporate new people to the Teacher Service.
-
-...
-
-[Data](articles/b2114612.json)
-
-[Extended Data](ext_articles/b2114612.ext.json)
-
----
-
-### Vavuniya Mannar Vidyalaya accident
-
-*2024-08-03 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190139) · `ta`
-
-In a tragic accident in Vavuniya, two motorcycles crashed head-on in Pattanichur, injuring three youths who were hospitalized. This incident highlights the growing vulnerability in areas like Mannarvidi Vepankulam, Pattanichur, and Vairavapuliyankulam due to increased motorcycle usage.
-
-🟩
-
-Three youths have been admitted to the Vavuniya Hospital after being injured in an accident in the Pattanichur area of ​​Vavuniya.
-
-The accident took place on Friday (2) evening. When it is revealed more about the accident….
-
-Two motorcycles in the opposite direction in Pattanichur area lost control and collided head -on.
-
-Both motorcycles were severely damaged and three youths were admitted to the Vavuniya Hospital after being injured.
-
-Meanwhile, in the Vavuniya city area, Mannarvidi Vepankulam, Pattanichur and Vairavapuliyankulam are increasingly increasingly vulnerable to motorcycles.
-
-◼️
-
-[Data](articles/02117f16.json)
-
-[Extended Data](ext_articles/02117f16.ext.json)
-
----
-
-### The supply of drinking water in the North will rise from 4 to 40 per cent - Jeevan Thondaman hope
-
-*2024-08-03 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190138) · `ta`
-
-Water supply in the North is expected to increase from 4% to 40%, as announced by Minister Jeevan Thondaman. This boost comes from a water project aimed at ensuring clean drinking water for all, despite initial challenges due to high costs. Villagers' willingness to donate land for the project is crucial. Minister Douglas Devananda also highlighted the importance of this initiative in meeting the community's needs and supporting development efforts.
-
-🟩
-
-Drinking water in the North was 4 percent when the president took over. Water Supply and Drainage Minister Jeevan Thondaman expressed confidence that it will increase by 40 per cent from Friday (03) through this water project.
-
-He said this while addressing the opening of the Sea Water Supply Center yesterday morning at the Jaffna -Kilinochchi Water Supply Project.. There he added:
-
-Drinking water is the basic right. The government is taking steps to give it to the people. When the project was launched, there was a problem because the cost was high. But we accepted this challenge to ensure the drinking water needs of the people.
-
-Drinking water in the North was 4 percent when the president took over. It will rise to 40 percent from today. Many villages do not want to give land for this project. However, thanks to the villagers who provided the land.
-
-Meanwhile, Minister of Fisheries and Aquatic Resources Douglas Devananda said,
-
-...
-
-[Data](articles/645744d0.json)
-
-[Extended Data](ext_articles/645744d0.ext.json)
-
----
-
-### COYLE pioneers Green Entrepreneurship and mangrove restoration in Sri Lanka
-
-*2024-08-03 02:44:00* · [`islandlk`](http://island.lk/coyle-pioneers-green-entrepreneurship-and-mangrove-restoration-in-sri-lanka/) · `en`
-
-The Chamber of Young Lankan Entrepreneurs (COYLE) hosted “The Big Lunch,” along with iLEAD International Academy and Centre for International Forestry Research and World Agroforestry (CIFOR-ICRAF); a groundbreaking event aimed at bringing together stakeholders for the promotion of green entrepreneurship in Sri Lanka. This gathering marked a significant step towards positioning Sri Lanka as a leader in environmental conservation and sustainable economic growth. The event was attended by the members of the Business Chambers, government officials from the Ministry of Environment, representatives of various UN agencies, International and National NGOs/ Civil Society Organizations, Academic and Research Institutions, independent Environmentalists and youth.
-
-...
-
-[Data](articles/ae0e013d.json)
-
-[Extended Data](ext_articles/ae0e013d.ext.json)
-
----
-
-### Pan Asia Bank elevates new age banking with Dual Digital Zone openings in Homagama and Panadura on the Same Day
-
-*2024-08-03 02:42:00* · [`islandlk`](http://island.lk/pan-asia-bank-elevates-new-age-banking-with-dual-digital-zone-openings-in-homagama-and-panadura-on-the-same-day/) · `en`
-
-In a significant stride towards enhancing customer convenience and digital banking experience, Pan Asia Bank, The Truly Sri Lankan Bank, proudly announces the launch of cutting-edge Digital Zones at its Homagama and Panadura branches. This dual opening marks a crucial step in the bank’s commitment to delivering advanced, accessible, and innovative banking solutions across the region.
-
-The Homagama and Panadura Digital Zones are engineered to provide an unrivaled banking experience, equipped with the latest in banking technology; the Digital Zone features various self-service facilities 24/7.
-
-...
-
-[Data](articles/8ac5ce16.json)
-
-[Extended Data](ext_articles/8ac5ce16.ext.json)
-
----
-
-### Growth in construction sector triggers positive trend in bourse
-
-*2024-08-03 02:41:00* · [`islandlk`](http://island.lk/growth-in-construction-sector-triggers-positive-trend-in-bourse/) · `en`
-
-Stock market activities were yesterday on a positive track due to improvements in the local construction sector and growth in certain other sectors.
-
-Both indices moved marginally up. The All Share Price Index went up by 2.85 points while the S&P SL20 rose by 12.1 points.
-
-Turnover stood at Rs 776 million with one crossing. The crossing was reported in JKH, which crossed 200,000 shares to the tune of Rs 36 million; its shares traded at Rs 180.
-
-In the retail market top six companies that mainly contributed to the turnover were JKH Rs 164 million (968,000 shares traded), Hemas Holdings Rs 112 million (3.7 million shares traded), Hayleys Fabrics Rs 34.1 million (705,000 shares traded), Melstacope Rs 29.7 million (372,000 shares traded), Access Engineering Rs 26.6 million (1.2 million shares traded) and Browns Investments Rs 26.4 million (4.9 million shares traded). During the day 29.3 million share volumes changed hands in 7353 transactions.
-
-...
-
-[Data](articles/85cd1463.json)
-
-[Extended Data](ext_articles/85cd1463.ext.json)
-
----
-
-### Plan to plunder the votes of diaspora Sri Lankans through fake passports?- Elections Commissioner's Denial
-
-*2024-08-03 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190137) · `ta`
-
-Sri Lanka's Elections Commissioner and Immigration Controller deny claims of a massive vote fraud scheme involving diaspora Sri Lankans. They assure that laws allow voters to cast ballots safely from any location, not just their registered polling stations, due to safety concerns. The introduction of an electronic passport system aims to increase transparency and combat bribery accusations.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake and Immigration and Immigration Controller Harsha Ilukpitiya said that the news that a fraudulent fraud of being forged and plundering their votes is being carried out by the Sri Lankans living abroad as it has been announced on the presidential date.
-
-A website has reported that a massive plan is being carried out by a massive of about 25 million Sri Lankans living abroad and plundering their votes.. The Elections Commission, the Department of Immigration and the Department of Emigration are working on the fraud program.
-
-It is said that the law has been abruptly enacted anywhere in the country and that if someone cannot identify him when he is voted in another area, he should check his passport and accept it.
-
-...
-
-[Data](articles/ff5a1386.json)
-
-[Extended Data](ext_articles/ff5a1386.ext.json)
-
----
-
-### Uber inks MoU with Sri Lanka Tourism Promotion Bureau, Ministry of Tourism
-
-*2024-08-03 02:35:00* · [`islandlk`](http://island.lk/uber-inks-mou-with-sri-lanka-tourism-promotion-bureau-ministry-of-tourism/) · `en`
-
-Uber signed a Memorandum of Understanding (MoU) with the Sri Lanka Tourism Promotion Bureau, Ministry of Tourism, in Sri Lanka to give a boost to tourism in the island nation. Over the next few months, Uber will promote Sri Lanka as a tourist destination to its rider base in India which accounts for one of the largest tourist inflow into the country. The partnership aims to help revive tourism in Sri Lanka which has been impacted by the Covid-19 pandemic and the recent economic crisis.
-
-...
-
-[Data](articles/b07f9008.json)
-
-[Extended Data](ext_articles/b07f9008.ext.json)
-
----
-
-### Lankapak 2024 Expo, Annual Packaging Congress and Lanka Star Awards in Oct.
-
-*2024-08-03 00:53:52* · [`dailyftlk`](https://www.ft.lk/business/Lankapak-2024-Expo-Annual-Packaging-Congress-and-Lanka-Star-Awards-in-Oct/34-765108) · `en`
-
-The Sri Lanka Institute of Packaging has announced the 25th edition of the packaging hall mark event in South Asia comprising “Lankapak 2024” Exhibition, Annual Packaging Congress from 25 to 27 October together with “Lanka Star Awards”.
-
-Organised by the Sri Lanka Institute of Packaging and CDC Events, the amplified 25th edition of Lankapak is backed by both state and private sector which aims to reach new heights by setting international standards, making it a mega event in Sri Lanka. With its concurrent programs, such as the Annual Packaging Congress, Lanka 5P, and Lanka Paper EXPO 2024, the event becomes South Asia’s premier expo for packaging, processing, printing, and plastic industries taking place at the Sirimavo Bandaranaike Memorial Exhibition Centre.
-
-...
-
-[Data](articles/673cc9ee.json)
-
-[Extended Data](ext_articles/673cc9ee.ext.json)
-
----
-
-### India’s Hinduja Group seeks to strengthen ties  with Sri Lanka
-
-*2024-08-03 00:53:17* · [`dailyftlk`](https://www.ft.lk/business/India-s-Hinduja-Group-seeks-to-strengthen-ties-with-Sri-Lanka/34-765107) · `en`
-
-Sri Lankan High Commissioner to the United Kingdom Rohitha Bogollagama participated in a productive meeting with Hinduja Chairman Gopichand P. Hinduja, Ashok Leyland Chairman Dheeraj G. Hinduja, Hinduja Investments Project Services CEO Vivek Nanda and their senior management team on 29 July.
-
-The Hinduja Group has excelled in diverse fields with a strong global presence in areas such as shipping, automotive manufacturing, renewable energy, IT-enabled services, banking and financial services, trading, healthcare, real estate, and petroleum downstream development.
-
-...
-
-[Data](articles/f972c0b5.json)
-
-[Extended Data](ext_articles/f972c0b5.ext.json)
 
 ---

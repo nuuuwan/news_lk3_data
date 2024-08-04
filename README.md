@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 20:54:56**
+As of **2024-08-04 21:05:42**
 
 ## Newspaper Stats
 
-*Scraped **38,956** Articles*
+*Scraped **38,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,239
 economynextcom | 2,351
 dailyftlk | 2,494
 adalk | 3,572
-adaderanalk | 4,517
+adaderanalk | 4,518
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,862
 virakesarilk | 6,167
@@ -26,31 +26,61 @@ adaderanasinhalalk | 6,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,955 (100.0%) of 38,956 articles have been extended.
+38,956 (100.0%) of 38,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### සියදිවි නසා ගත් පොලිස් නිලධාරියාගේ බිරිඳ කළ හෙළිදරව්ව
+### Bangladesh declares three-day general holiday amid ongoing unrest
+
+*2024-08-04 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100994/bangladesh-declares-three-day-general-holiday-amid-ongoing-unrest) · `en`
+
+The government has declared a three-day general holiday starting Monday as unrest continues to rock Bangladesh.
+
+The general holiday comes amid the imposition of an indefinite curfew.
+
+The holiday will last from Monday to Wednesday, and the authorities will make further decisions based on the evolving situation, Shibli Sadiq, a spokesperson for the Ministry of Public Administration, said on Sunday.
+
+The first day of the nationwide non-cooperation movement, called by the Anti-Discrimination Student Movement demanding the government’s resignation, has triggered deadly violence in various parts of the country.
+
+In light of the clashes and fatalities, the government announced a curfew from 6pm on Sunday.
+
+“A night curfew has been enforced in all divisional city areas, city corporations, municipalities, industrial areas, district Sadar areas, and Upazila Sadar areas from 6pm on Sunday,” Md Sharif Mahmud Apu, senior information officer at the Ministry of Home Affairs, said in a statement on Sunday.
+
+◼️
+
+[Data](articles/5a125349.json)
+
+---
+
+### The wife of the suicide police officer who committed suicide was revealed
 
 *2024-08-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199562) · `si`
 
-ඉඟිනියාගල සහ නාමල්ඔය ප්‍රදේශ වල සිදුකළ ත්‍රිත්ව ඝාතන සම්බන්ධව මේ වන විට තොරතුරු රැසක් හෙළිව තිබේ.
+In Inginiyagala and Namaloya, a police officer shot three people, including himself, before committing suicide. The victims included a woman and a child. The officer's wife was also found dead. The incident sparked discussions about police stress and handling of cases.
 
-එම වෙඩි තැබීම් හේතුවෙන් පොලිස් නිලධාරියෙක් සහ කාන්තාවක් සහ පාසල් යන වයසේ සිටි දියණියක් ජීවිතක්ෂයට පත්වුණි.
+🟩
 
-එම වෙඩි තැබීම් සිදුකල පොලිස් නිලධාරියා පසුව සියදිවි නසාගෙන තිබුණි.
+It has been revealed that the triple killings carried out in Inginiyagala and Namaloya areas have been revealed.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් අදහස් දක්වමින් සියදිවි නසාගත් පොලිස් නිලධාරියාගේ බිරිඳ පවසන්නේ පොලීසියේ ඇති ප්‍රශ්න සිය සැමියාගේ කරපිටින් යවන බවක් තමාට ඔහු පැවසූ බවයි.
+A police officer and a woman and school age have died due to the shootings.
 
-"පහුගිය දවස් ටිකේම කතා කළේ නෑ මොකවත්. කන්න දුන්නත් කන්නෙත් නෑ බාගයක් කාලා ඔය ඇති කියලා තියනවා. පොලීසියේ ඔක්කොම ප්‍රශ්න එයාගේ කරපිට දානවා කියලා තමා එයා කියුවේ ඇවිල්ලා. ඊයේ පාන්දර කියුවේ දරුවෝ දෙන්නා බලාගන්න මෙයාලා කරන වැරදි සේරම මගේම කරපිට පටවන්න හදනවා කියලා..."
+The police officer who took the shooting had later committed suicide.
 
-කෙසේ නමුත් මේ සම්බන්ධව අදහස් දක්වමින් වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර පැවසුවේ ඝාතනයට ලක්වූ 54 හැවිරිදි කාන්තාව සහ ඝාතනය සිදුකළ පොලිස් නිලධාරියා අතර ඉඩම් ආරවුලක් පැවැති බවයි.
+Commenting on the incident says he said he had told him that the police had committed suicide.
 
-...
+"The last days didn't talk about anything. You have to eat and eat. He read he read that all the problems of the police were put on his own. Early in the morning, the days were told yesterday that they were trying to load all the mistakes they do to take care of it ... "
+
+However, Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the 54-year-old woman and the murder was held between the lands.
+
+"Oh he didn't have that kind of problem. Shorter that piece. Then they said they called the piece of them to stop it. I told me that we had to go to their mum. He said he was to take care of with her mother. It was abandoned ... "
+
+◼️
 
 [Data](articles/aea8fff2.json)
+
+[Extended Data](ext_articles/aea8fff2.ext.json)
 
 ---
 
@@ -2263,27 +2293,5 @@ However, 24 of them were released last night on the intervention of officers at 
 [Data](articles/39c70d26.json)
 
 [Extended Data](ext_articles/39c70d26.ext.json)
-
----
-
-### P.Ye. Murdered PC too commits suicide
-
-*2024-08-04 08:39:15* · [`adalk`](https://www.ada.lk/breaking_news/පී-සි--ඝාතනය-කළ-පි-සී-ත්-වෙඩි-තබාගෙන-දිවි-නසාගනියි/11-411179) · `si`
-
-In a tragic incident, a police constable from Bibile Karandugala Police shot and killed another officer due to a personal dispute over duty assignments. The shooter then turned the gun on himself.
-
-🟩
-
-A police constable who works at the Bibile Karandugala Police yesterday and was shot dead by the police and killed himself and had been shot dead by shooting himself.
-
-A personal dispute between the two constables to serve at the Karangala Police
-
-The founding of the foundation for the murder was taken to Namal Oya and shot his friendly officer and shot and shot his suicide.
-
-◼️
-
-[Data](articles/865ee138.json)
-
-[Extended Data](ext_articles/865ee138.ext.json)
 
 ---

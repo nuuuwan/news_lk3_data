@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 09:55:53**
+As of **2024-08-04 10:08:44**
 
 ## Newspaper Stats
 
-*Scraped **38,851** Articles*
+*Scraped **38,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,98 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,561
-adaderanalk | 4,503
+adalk | 3,562
+adaderanalk | 4,504
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,830
 virakesarilk | 6,145
-adaderanasinhalalk | 6,561
+adaderanasinhalalk | 6,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,850 (100.0%) of 38,851 articles have been extended.
+38,851 (100.0%) of 38,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### එංගලන්තයේ නගර කිහිපයක කෝලාහල පැතිරෙයි
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-04 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100978/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere in the island during the evening or night.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d27f5b32.json)
+
+---
+
+### දියේ ගිලී තරුණයෙක් මරුට
+
+*2024-08-04 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199541) · `si`
+
+ගම්පහ, කෙටවල ඇනිකට් එකේ දිය නාමින් සිටි තරුණයෙකු දියේ ගිලීම හේතුවෙන් බරපතළ තත්ත්වයෙන් ගම්පහ රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+ඊයේ (03) රාත්‍රී කාලයේ එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, උඩුගම්පල ප්‍රදේශයේ පදිංචිව සිටි 18 හැවිරිදි තරුණයෙකි.
+
+මරණකරු තවත් පුද්ගලයින් පිරිසක් සමග කෙටවල ඇනිකට් එකේ දිය නාමින් සිටින අතර තුරදී ජලපහරකට හසුවී ගසාගෙන ගොස් මෙම මරණය සිදුව ඇති බව පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/09a9b68e.json)
+
+---
+
+### Riots in several cities in England spread
 
 *2024-08-04 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199540) · `si`
 
-ලිවර්පූල්, ස්වුත්පොර්ට් ප්‍රදේශයේදී පිහියෙන් ඇන ගැහැණු දරුවන් තිදෙනෙක් ඝාතනය කිරීමෙන් අනතුරුව එංගලන්තයේ ප්‍රදේශ කිහිපයක කලබල සහ ගැටුම් ඇතිවී ඇති බව වාර්තා වෙයි.
+Riots broke out in several English cities following the stabbing deaths of three children in Liverpool's Sathpool area, sparking widespread unrest and property damage. The incident, linked to a 17-year-old suspect, allegedly fueled anti-migrant sentiments among radicals, marking one of the country's worst food crises in over a decade.
 
-විදෙස් මාධ්‍ය සඳහන් කරන්නේ ඊයේ (03) එංගලන්තයේ නගර කිහිපයක කලබලකාරී තත්ත්වයන් වාර්තා වූ බවත් ඉන් පොලිස් නිලධාරීන් ට තුවාල සිදුවී ඇති බවත් ය.
+🟩
 
-එසේම දේපොළ විනාශ කිරීමේ සිදුවීම් ද වාර්තා විය. වසර 13කට පසුව එරටින් වාර්තා වූ දරුණුතම කලබලකාරී තත්ත්වය මෙය බව සඳහන් ය.
+It is reported that there have been upset and conflicts in Sri Lanka after the murder of three children stabbed in the Sathpool area in Liverpool.
 
-එරට පොලීසිය පවසන්නේ ගැහැණු දරුවන් තිදෙනා ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17 හැවිරිදි තරුණයා රැඩිකල්කරණය වූ මුස්ලිම් සංක්‍රමණිකයෙක් බවට කටකතා පැතිරගොස් ඇති බවත් ඒ හේතුවෙන් සංක්‍රමණික විරෝධීන් කලබල ඇතිකරන බවත් ය.
+Foreign media states that yesterday (03) had been troubled in several cities in England.
+
+The events of destroying the property also reported. It is said that this was the worst starving situation in the country after 13 years.
+
+The police say that the 17-year-old youth arrested the 17-year-old youth who was arrested in connection with the murder of the three girls had spread into rumor that migrant anti-immigrant anti-immigration has been caused by a radical Musliem.
 
 ◼️
 
 [Data](articles/dc1edacc.json)
+
+[Extended Data](ext_articles/dc1edacc.ext.json)
+
+---
+
+### පොලොන්නරුව ඉතිහාසය ගැඹුරටම යන බව හෙළිවෙයි
+
+*2024-08-04 08:44:20* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-ඉතිහාසය-ගැඹුරටම-යන-බව-හෙළිවෙයි/11-411180) · `si`
+
+පොළොන්නරුව ඉපැරණි ඇතුළු නගරයේ  පරාක්‍රමබාහු මාලිගය පරිශ්‍රය තුළ ප්‍රථම වරට ලයිඩා තාක්ෂණය උපයෝගි කර ගනිමින් සිදු කරන ලද පර්යේෂණයකින් උද්‍යාන සහිත නටබුන් කලාපයක් සොයා ගැනීමට හැකි වූ බව මහාචාර්ය ප්‍රිශාන්ත ගුණවර්ධන මහතා අනාවරණය කළේය.
+
+මේ අනුව ඉපැරණි පරාක්‍රමබාහු මාලිගයේ සිට උතුරු දොරටුව දක්වා පොකුණු මාර්ග සහිත උද්‍යාන භූමියක නටබුන් දිස්වන උද්‍යාන භූමියක නටබුන් දැකගත හැකි වන බව ඒ මහතා ප්‍රකාශ කර සිටියේය.
+
+මෙම ලයිඩා තාක්ෂණයේ විශේෂත්වය වනුයේ ඉතාමත්ම ඝන කැලෑවක තිබෙන පුරා විද්‍යාත්මක නටබුන් මීටර් තුනක් පොළොව යට නිරීක්ෂණය කර බැලීමට හැකි වීම බව බව ඒ මහතා මෙහිදී කරුණු අනාවරණය කළේය.
+
+ඕස්ට්‍රේලියාවේ ලාට්‍රොප් විශ්ව විද්‍යාලය සහ පුරාවිද්‍යා දෙපාර්තමේන්තුව මධ්‍යම සංස්කෘතික අරමුදල සහ කැලණිය විශ්වවිද්‍යාලය ඒක්ව මසක පමණ කාලයක සිට මෙහි කැණීම් කටයුතු සිදු කරන අතර මෙමගින් චීන කාසි සහ චීන යුගයේ භාවිතා කරන ලද මැටි බඳුන් ද  පරාක්‍රමබාහු රජ මාලිගය පරිශ්‍රය තුළ සිදු කරන ලද කැණීම් තුළින් සොයා ගත් බව ඒ මහතා පැවසිය.
+
+මේ අනුව චීනයේ දහය සහ 12 වැනි සියවස් වලට අයත් සෝන් යුගයේ චීන කාසි බවද ඒ මහතා කීය.
+
+...
+
+[Data](articles/6dcb089a.json)
 
 ---
 
@@ -2221,71 +2281,5 @@ Executive Director of PAFFREL, Rohana Hettiarachchi stated that the majority of 
 [Data](articles/ae0b2562.json)
 
 [Extended Data](ext_articles/ae0b2562.ext.json)
-
----
-
-### "Jaffna River" project expedited
-
-*2024-08-03 09:39:09* · [`adalk`](https://www.ada.lk/breaking_news/“යාපනයට-ගංගාවක්”-ව්‍යාපෘතිය-කඩිනමින්/11-411173) · `si`
-
-The 'Jaffna' project aims to address the water crisis in Sri Lanka's Northern Province, with President Ranil Wickremesinghe announcing its launch. This initiative, part of the Thalaliyadi seawater project in Jaffna-Kilinochchi, seeks to provide clean drinking water to 300,000 people and improve sanitation for 80,000. Funded by the Asian Development Bank and costing $266 million, the project, expected to complete by mid-2025, includes a state-of-the-art water treatment plant. Additionally, plans involve enhancing the local economy through solar energy projects, modern agriculture, and promoting tourism and renewable energy sources like wind and solar power.
-
-🟩
-
-President Ranil Wickremesinghe said that the 'Jaffna' project will be launched to provide a permanent solution to the water problem of the Northern Province.
-
-The President was speaking at the opening of the Thalaliyadi seawater in the Jaffna-Kilinochchi "Water Supply Project.
-
-President Ranil Wickremesinghe said that 15 years have passed since the end of the civil war in the North, and now that there have been 15 years and now everyone should carry on the development war.. The President said that his goal was to make it an advanced area in the next 5-10 years.
-
-The Thalahychiian Water Supply Project of the Jaffna-Kilinochchi Water Supply Project, the National Water Supply and Plantation Infrastructure Development Board (NDB) is implemented by the Ministry of Water Supply and Estate Infrastructure.
-
-...
-
-[Data](articles/6ff938ce.json)
-
-[Extended Data](ext_articles/6ff938ce.ext.json)
-
----
-
-### A Godmphmpath of the South Philippines
-
-*2024-08-03 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199509) · `si`
-
-An earthquake struck 17 km east of Mindanao Island, deep underground. No tsunami warning was issued, and initial reports indicate no casualties or damage. However, authorities have since cautioned about potential vibrations.
-
-🟩
-
-US Geological Survey (US Geological Survey)
-
-According to foreign reports, a tsunami warning has not been issued.
-
-The earthquake has occurred deeply 17 kilometers from the East of Mindano Island.
-
-The authorities of the country said no lives or property has been reported, but later warned about the vibrations.
-
-◼️
-
-[Data](articles/f1795095.json)
-
-[Extended Data](ext_articles/f1795095.ext.json)
-
----
-
-### Parking system contractor owes Rs. 90 million to Colombo Municipal Council
-
-*2024-08-03 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100960/parking-system-contractor-owes-rs-90-million-to-colombo-municipal-council) · `en`
-
-The company responsible for collecting money through an automated system for parking vehicles within the Colombo city has reportedly failed to pay Rs. 90 million owed to the Colombo Municipal Council (CMC).
-
-The CMC Deputy Director (Traffic and Road Design) Eng. Manjula Kularathna, stated that due to this non-payment, the contract has been suspended and legal measures are being taken.
-
-He also mentioned that due to the shortcomings of the current project, a new electronic system is expected to be introduced within the next year.
-
-◼️
-
-[Data](articles/b9111632.json)
-
-[Extended Data](ext_articles/b9111632.ext.json)
 
 ---

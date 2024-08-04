@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 09:37:00**
+As of **2024-08-04 09:55:53**
 
 ## Newspaper Stats
 
-*Scraped **38,850** Articles*
+*Scraped **38,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,503
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,830
 virakesarilk | 6,145
-adaderanasinhalalk | 6,560
+adaderanasinhalalk | 6,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,850 (100.0%) of 38,850 articles have been extended.
+38,850 (100.0%) of 38,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### එංගලන්තයේ නගර කිහිපයක කෝලාහල පැතිරෙයි
+
+*2024-08-04 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199540) · `si`
+
+ලිවර්පූල්, ස්වුත්පොර්ට් ප්‍රදේශයේදී පිහියෙන් ඇන ගැහැණු දරුවන් තිදෙනෙක් ඝාතනය කිරීමෙන් අනතුරුව එංගලන්තයේ ප්‍රදේශ කිහිපයක කලබල සහ ගැටුම් ඇතිවී ඇති බව වාර්තා වෙයි.
+
+විදෙස් මාධ්‍ය සඳහන් කරන්නේ ඊයේ (03) එංගලන්තයේ නගර කිහිපයක කලබලකාරී තත්ත්වයන් වාර්තා වූ බවත් ඉන් පොලිස් නිලධාරීන් ට තුවාල සිදුවී ඇති බවත් ය.
+
+එසේම දේපොළ විනාශ කිරීමේ සිදුවීම් ද වාර්තා විය. වසර 13කට පසුව එරටින් වාර්තා වූ දරුණුතම කලබලකාරී තත්ත්වය මෙය බව සඳහන් ය.
+
+එරට පොලීසිය පවසන්නේ ගැහැණු දරුවන් තිදෙනා ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 17 හැවිරිදි තරුණයා රැඩිකල්කරණය වූ මුස්ලිම් සංක්‍රමණිකයෙක් බවට කටකතා පැතිරගොස් ඇති බවත් ඒ හේතුවෙන් සංක්‍රමණික විරෝධීන් කලබල ඇතිකරන බවත් ය.
+
+◼️
+
+[Data](articles/dc1edacc.json)
+
+---
 
 ### Twenty including artists who were arrested in Kuut and released
 
@@ -2269,27 +2287,5 @@ He also mentioned that due to the shortcomings of the current project, a new ele
 [Data](articles/b9111632.json)
 
 [Extended Data](ext_articles/b9111632.ext.json)
-
----
-
-### Arrested by Police Sergeant for Bribery
-
-*2024-08-03 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190146) · `ta`
-
-Police Sergeant Mahabhake was arrested for bribery, accused of paying off someone in Uswettikayawa to avoid being listed in a drug-related case under the 'Yukkatha' action.
-
-🟩
-
-A police sergeant has been arrested on Friday (02) for allegedly bribing Rs.
-
-The arrested Police Sergeant Mahabhake is a duty of the police transport unit.
-
-The Bribery Commission has said that bribes have been bribed to bribes a person living in the Uswettikayawa area for not having discomfort under the 'Yukkatha' action, not to add his name on the drug -related name list.
-
-◼️
-
-[Data](articles/8f700ecc.json)
-
-[Extended Data](ext_articles/8f700ecc.ext.json)
 
 ---

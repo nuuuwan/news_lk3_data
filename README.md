@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 11:05:48**
+As of **2024-08-04 11:20:43**
 
 ## Newspaper Stats
 
-*Scraped **38,864** Articles*
+*Scraped **38,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
 adalk | 3,562
-adaderanalk | 4,505
+adaderanalk | 4,506
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,837
 virakesarilk | 6,145
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,862 (100.0%) of 38,864 articles have been extended.
+38,864 (100.0%) of 38,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
+
+### 24 Sri Lankans including artists arrested in Kuwait released
+
+*2024-08-04 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100980/24-sri-lankans-including-artists-arrested-in-kuwait-released) · `en`
+
+The 24 Sri Lankans including artists who were arrested in Kuwait on August 2 have been released.
+
+The Ministry of Foreign Affairs stated that the group had been released last night (03) following the intervention by the Sri Lankan Embassy in Kuwait.
+
+The individuals including popular artists Indrachapa Liyanage, Samanalee Fonseka, ‘Jolly Seeya’ and Upeka Nirmani, were arrested by Kuwait Police while attending an event organised by the JVP-affiliated ‘Ethera Api’ organization.
+
+Reportedly, they were arrested as proper permission had not been obtained for the organised event.
+
+In addition to the artists, and organizers of the event, the music band as well as their musical instruments were also taken into custody by the police.
+
+However, following the intervention of the Sri Lankan Embassy officials, 24 of these arrested persons were released last night while two of the organizing committee members remain in police custody, says the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/bca24335.json)
+
+---
 
 ### Renewed rioting sweeps British cities in wake of child murders
 
@@ -48,19 +70,27 @@ Violent disorder erupted in Liverpool, Bristol, Hull and Belfast - four cities l
 
 [Data](articles/e2cccd40.json)
 
+[Extended Data](ext_articles/e2cccd40.ext.json)
+
 ---
 
-### රුසියානු සබ්මැරීනයක් විනාශ කෙරේ
+### A Russian submarine is destroyed
 
 *2024-08-04 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199543) · `si`
 
-රුසියාව විසින් පවරාගනු ලැබූ ක්‍රිමියා අර්ධද්වීපය ආසන්නයේ නැංගුරම් දමා තිබූ සබ්මැරීනයක් විනාශ කළ බව යුක්‍රේන හමුදාව පවසයි.
+A Russian submarine was destroyed, and Ukraine claimed it happened during Russia's takeover of the Crimea Peninsula. The Ukrainian army stated the submarine was "sanctified," possibly implying a heroic act or significant event.
 
-එම සබ්මැරීනයට මිසයිල ප්‍රහාරයක් එල්ලකර ගිල්වා දැමූ බව යුක්‍රේන හමුදාව පැවසීය.
+🟩
+
+The Ukrainian army says that the Crimea Peninsula was taken over by Russia, the Ukrainian army said.
+
+The Ukrainian army said that the submarine was sanctified.
 
 ◼️
 
 [Data](articles/1c9abda3.json)
+
+[Extended Data](ext_articles/1c9abda3.ext.json)
 
 ---
 
@@ -2295,25 +2325,5 @@ However, there are reports that some workers are being misled by job agencies wi
 [Data](articles/70a7b3ed.json)
 
 [Extended Data](ext_articles/70a7b3ed.ext.json)
-
----
-
-### Sri Lanka releases two apprehended TN men, hands over mortal remains of fisherman
-
-*2024-08-03 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100964/sri-lanka-releases-two-apprehended-tn-men-hands-over-mortal-remains-of-fisherman) · `en`
-
-The Sri Lankan Navy handed over two fishermen, recently apprehended, and also the mortal remains of a fisherman who died at sea to the Indian Navy near the International Maritime Boundary Line (IMBL) in the wee hours on Saturday, Indian media reported.
-
-Indian Navy ship, INS Bitra, which was on deployment off Rameshwaram, coordinated with the Sri Lankan Navy ship and had received the fishermen and the dead body at sea at about 1.00 a.m.
-
-The Indian Navy ship then proceeded to Rameshwaram, where the Navy Officer from the Naval Detachment coordinated with marine police and Tamil Nadu Fisheries department in transferring the mortal remains and the fishermen, at around 3 am, a media release from the Indian authorities said.
-
-Meanwhile, the Indian Consulate General office in Jaffna confirmed that in cooperation with the government of Sri Lanka, the safe repatriation of the 02 Indian fishermen along with the mortal remains of the deceased fisherman from Jaffna was secured last night (02).
-
-...
-
-[Data](articles/97ee5712.json)
-
-[Extended Data](ext_articles/97ee5712.ext.json)
 
 ---

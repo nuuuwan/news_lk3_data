@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 00:20:41**
+As of **2024-08-05 00:36:07**
 
 ## Newspaper Stats
 
-*Scraped **38,973** Articles*
+*Scraped **38,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 369
 bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,352
-dailyftlk | 2,494
+dailyftlk | 2,496
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,973 (100.0%) of 38,973 articles have been extended.
+38,973 (100.0%) of 38,975 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-08-05 (Monday)
+
+### Memories of mentoring: Celebrating two special lives
+
+*2024-08-05 00:05:51* · [`dailyftlk`](https://www.ft.lk/columns/Memories-of-mentoring-Celebrating-two-special-lives/4-765125) · `en`
+
+Time has flown so rapidly. It has been nine years since the demise of my “revered mentor.” It has been eight years since the demise of by “reverse mentor.” Prof. Uditha Liyanage, a sage of our age, in touching many minds as a marketing maestro, left us on 10 August 2015 at the age of 61. Nadeepa Dharmasiri, a precious prodigy, in touching many hearts as a loving son, left us on 8 August 2016, at the age of 13. As Seneka (the younger) said, “Time discovers truth; time heals what reason cannot.” Today’s column is a heart-felt reflection of the mentoring insights involving a superior and a son, in celebrating two special lives.
+
+...
+
+[Data](articles/247a3c2c.json)
+
+---
+
 ### 2024-08-04 (Sunday)
+
+### Child’s guide to debt and debt restructuring – Part V
+
+*2024-08-04 23:54:31* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-V/4-765123) · `en`
+
+The Debt Justice group has sprung up to meet an unmet need of the day
+
+Since debt is a complex subject not understood by ordinary citizens, people do not know what they gain when their governments borrow abroad and what sacrifice they should make if those governments default debt. They become voiceless being unable to say yes or no. Hence, Debt Justice seeks to represent those voiceless people in matters relating to debt issues. They seek to build a collective power of the people most affected by debt in what they call exploited countries. Those people are exploited by their own rulers who exercise authoritative powers and by global players who are there to flood them with debt under unfair conditions. In that sense, they produce a global public good and their cry should not be dismissed outrightly
+
+...
+
+[Data](articles/f400e237.json)
+
+---
 
 ### Paris Olympics: Sri Lanka’s Aruna Darshana advances to 400m semi-finals
 
@@ -41,6 +69,10 @@ Sri Lankan sprinter Aruna Darshana has qualified for the semifinals of the Men�
 Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, his personal best, and qualified for the semifinals which are scheduled to be held on Tuesday (Aug. 06).
 
 Kirani James (44.78) of Grenada placed first in Heat 5 while Canada’s Christopher Morales-Williams came second with a time of 44.96 seconds.
+
+Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive first-place finish in the Men’s 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
+
+He has been tipped by many to follow in the footsteps of former Sri Lankan athlete Sugath Thilakaratne. Darshana won the men’s 400m event during the 2018 National Athletics Championships by clocking a time of 46.16 seconds.
 
 ◼️
 
@@ -2251,51 +2283,5 @@ However, the Ministry of External Affairs said that the group was released on Sa
 [Data](articles/7856cc09.json)
 
 [Extended Data](ext_articles/7856cc09.ext.json)
-
----
-
-### Release of detainees in Kuwait
-
-*2024-08-04 11:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குவைத்தில்-கைதானோர்-விடுதலை/175-341546) · `ta`
-
-Sri Lankan artists Indira Saba Liyanage, Samanali Fonseka, Jolie Chia, and Uppaka Nirmani were detained in Kuwait for organizing a concert without permission but were released on March 3rd through the Sri Lankan embassy.
-
-🟩
-
-A group of Sri Lankans, including famous singers, have been released in Kuwait on the 2nd.
-
-Indira Saba Liyanage, Samanali Fonseka, Jolie Chia and Uppaka Nirmani have been arrested while attending a concert to be held by the 'Abhi'.
-
-It has been revealed that they have been arrested for not getting permission for the concert.
-
-However, the Ministry of External Affairs said that the group was released on Saturday (03) through the Sri Lankan embassy in the country.
-
-◼️
-
-[Data](articles/afbe0f40.json)
-
-[Extended Data](ext_articles/afbe0f40.ext.json)
-
----
-
-### Indian submarine will depart today
-
-*2024-08-04 11:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-நீர்மூழ்கி-ஷல்கி-இன்று-புறப்படும்/175-341544) · `ta`
-
-INS Shulki, India's first domestically built submarine, departed for a two-day visit to Sri Lanka, marking a significant naval engagement amid growing Chinese influence in the region.
-
-🟩
-
-Indian Navy's submarine INS. Shulki has traveled to Sri Lanka on a two -day trip. In recent years, China has been trying to increase its military domination in Sri Lanka, and the Indian submarine has gone to Sri Lanka.
-
-Sri Lankan navy welcomed the Indian submarine on board Colombo port. The Indian Navy's submarines are sent to countries with close security and strategic relations with India.
-
-In that respect the INS. The Shulki submarine has now gone to Sri Lanka. Inn.S.. The Shulki Submarine was incorporated into the Indian Navy on February 7, 1992. It is noteworthy that this is the first submarine made in India.
-
-◼️
-
-[Data](articles/b03a3934.json)
-
-[Extended Data](ext_articles/b03a3934.ext.json)
 
 ---

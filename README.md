@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 21:05:42**
+As of **2024-08-04 21:20:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,956 (100.0%) of 38,957 articles have been extended.
+38,957 (100.0%) of 38,957 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ In light of the clashes and fatalities, the government announced a curfew from 6
 ◼️
 
 [Data](articles/5a125349.json)
+
+[Extended Data](ext_articles/5a125349.ext.json)
 
 ---
 

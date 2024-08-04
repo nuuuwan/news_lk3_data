@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 17:56:43**
+As of **2024-08-04 18:13:56**
 
 ## Newspaper Stats
 
-*Scraped **38,930** Articles*
+*Scraped **38,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,63 +18,127 @@ dailyftlk | 2,494
 adalk | 3,567
 adaderanalk | 4,515
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,857
-virakesarilk | 6,156
+tamilmirrorlk | 4,858
+virakesarilk | 6,161
 adaderanasinhalalk | 6,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,928 (100.0%) of 38,930 articles have been extended.
+38,930 (100.0%) of 38,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### විරාත් කෝලි තවත් සුවිශේෂ කඩයිමක් අභියස
+### Virat Kohli appears to another special shop
 
 *2024-08-04 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199559) · `si`
 
-ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ ලකුණු 14,000  කඩයිම පසුකර යන තෙවැනි පිතිකරුවා බවට පත්වීමට ඉන්දීය සුපිරි පිතිකරු විරාත් කෝලිට අවශ්‍යව ඇත්තේ තවත් ලකුණු 128ක් පමණි.
+Virat Kohli aims to surpass 256 runs in his next match, potentially becoming the third Indian batsman to achieve over 14,000 runs in International ODI cricket, after Sachin Tendulkar and Kumar Sangakkara. With 13,872 runs, including 50 centuries and 72 fifties, Kohli stands close to this milestone.
 
-ඒ අනුව අද තරගයේදී හෝ අවසන් එක්දින තරගයේදී ලැබෙන අවස්ථාව අනුව ඔහුට ශ්‍රී ලංකාවේදීම මෙම සුවිශේෂී කඩයිම පසුකර යෑමේ අවස්ථාව ඇති බව ක්‍රිකට් විචාරකයෝ පවසති.
+🟩
 
-ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ මේ දක්වා ලකුණු 14,000 කඩයිම පසුකර ගොස් සිටින්නේ පිතිකරුවන් දෙදෙනෙකු පමණි.
+Indian batsman Virith Ricei Rathmaki Virith Cali wants 128 more than 128 runs.
 
-පළමුවෙන්ම මෙම කඩයිම පසුකර යාමට ඉන්දියාවෙන්ම බිහිවූ හිටපු විශිෂ්ට පිතිකරුවකු වන සචින් තෙන්ඩුල්කාර් (ලකුණු 18426) සමත් විය.
+According to cricket critics, he has the opportunity to pass this unique shop in Sri Lanka today or in the final.
 
-ඉන් අනතුරුව මෙම කඩයිම පසුකර යනු ලැබුවේ ශ්‍රී ලංකාවේ කුමාර් සංගක්කාර (ලකුණු 14234) විසිනි.
+Only two batsmen have been operating the 14,000 runs in the International ODI cricket.
 
-2008 වසරේදී ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියට අවතීර්ණ වූ කෝලි අද (04) තරගයද ඇතුළුව ඉන්දියාව වෙනුවෙන් තරග 294 (ඉනිම් 281)කට ක්‍රීඩාකර ඇත.
+Sachin Tendulkar (18426) was able to pass the shop first.
 
-මේ දක්වා එක්දින ලකුණු 13,872කට හිමිකම් කියන කෝලිගේ පිතිකරණ වාර්තා අතර ශතක 50ක් හා අර්ධ ශතක 72ක් ඇතුළත්ව ඇත.
+The shop then passed by Kumar Sangakkara (14234) in Sri Lanka.
 
-එක්දින ශතක 50ක් වාර්තාකළ පළමු හා එකම පිතිකරුවාද කෝලි පමණක් වෙයි.
+In 2008, Kohli, which entered the international ODI cricket, has played 294 runs for India, including the match today (04).
 
-...
+Koli's batting reports claimed by 13,872 to date, 50 centuries and 72 fifties included.
+
+The first and only batsman recorded 50 one-day centuries.
+
+However, no batsman of the current one-day front of the Cooley has not been shopped or passed.
+
+Indian leader Rohit Sharma, near the nearby or day, and he owns 10,480 one-day runs.
+
+◼️
 
 [Data](articles/badcd44b.json)
 
+[Extended Data](ext_articles/badcd44b.ext.json)
+
 ---
 
-### மு.கா உயர்பீடத்தில் இருந்து பிரதிப் பொருளாளர் வெளியேற்றம்
+### Deputy Treasurer Exodus
 
 *2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-உயர்பீடத்தில்-இருந்து-பிரதிப்-பொருளாளர்-வெளியேற்றம்/175-341570) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் உயர்பீட கூட்டம் ஞாயிற்றுக்கிழமை(4) கட்சியின் தலைமையமான தாருஸ்ஸலாத்தில் நடைபெற்றது.
+In a high-level meeting of the Sri Lanka Muslim Congress, leader Rauf Hakeem announced his expulsion over Facebook picture allegations, deciding not to attend upcoming meetings.
 
-படங்களை  முகநூலில் பதிவேற்றம் செய்தது ,  விஷமிகளுக்கு கட்சியை அநாகரிகமாக முகநூலில் விமர்சிக்க இடமளித்தமை ஆகிய குற்றச்சாட்டுகளினால்  கட்சியின் தலைவர் ரவூப் ஹக்கீம்  ,அவரை  கூட்டத்திலிருந்து வெளியேற்றுவதாக அறிவித்தார் .
+🟩
 
-கட்சியின் தலைவர் ஹக்கீம் உடனடி நடவடிக்கையாக யஹியாகானை  நடைபெற்று கொண்டிருந்த உயர்பீட கூட்டம் மற்றும் அடுத்த உயர்பீட கூட்டம் ஆகிய இரு அமர்வுகளில்  பங்குபற்றகூடாது என இடைநிறுத்துவதாக குறிப்பிட்டார்.
+The Sri Lanka Muslim Congress's high -level meeting was held on Sunday (4) in Darussalat, the party headquarters.
 
-கட்சியில் யஹியாகானுடைய வகிபாகம் பற்றி  பாராட்டியதோடு , இந்த முடிவை மனவருத்ததோடு எடுக்கவேண்டிய நேர்ந்தது பற்றியும் தலைவர்  தெரிவித்தார்.
+Party leader Rauf Hakeem has announced that he will be expelled from the crowd due to allegations of uploading the pictures on the Facebook page.
 
-தலைவரின் முடிவுக்குக் கட்டுப்பட்டு,    அவருடன்                        கைகுலுக்கி ,  முன்மாதிரியான முறையில் யஹியாகான்  அங்கிருந்து வெளியேறிச் சென்றார்.
+Party leader Hakeem said he would not participate in the two sessions of the high -level meeting and the next high -level meeting of Yahihan as an immediate move.
+
+The leader said that the party was praised for the role of Yahoo!
+
+Jaiyyagan left the leader's decision, shook hands with him and exemplary.
 
 ◼️
 
 [Data](articles/cae1a9d4.json)
+
+[Extended Data](ext_articles/cae1a9d4.ext.json)
+
+---
+
+### ‘ஊழல்’ வளரும் நாடுகளில் முன்னேற்றத்தை முடக்கும்
+
+*2024-08-04 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190256) · `ta`
+
+ஊழல் ஒரு வலிமையான எதிரி, ஆனால் அது வெல்ல முடியாதது அல்ல. ஒரு முழுமையான அணுகுமுறையை மேற்கொள்வதன் மூலம், வளரும் நாடுகள் அதன் கட்டுகளிலிருந்து விடுபடலாம். ஊழலற்ற எதிர்காலம் ஒரு செழிப்பான பொருளாதாரம். மேம்பட்ட சேவை வழங்கல் மற்றும் அனைவருக்கும் செழிப்பில் நியாயமான காட்சியைக் கொண்டிருக்கும் மிகவும் சமமான சமூகத்தை உறுதியளிக்கின்றது. ஊழலை ஒழிப்பது என்பது வெறும் பெட்டியில் டிக் செய்வது மட்டுமல்ல. இது ஒரு தேசத்தின் உண்மையான திறனைத் திறப்பது மற்றும் அதன் அனைத்து குடிமக்களுக்கும், குறிப்பாக மிகவும் பாதிக்கப்படக்கூடியவர்களுக்கு பிரகாசமான எதிர்காலத்தை உறுதி செய்வதாகும்.
+
+◼️
+
+[Data](articles/9499907b.json)
+
+---
+
+### புலம்பெயர் தரப்பின் ‘கையாளும்’ அரசியல் பலமா? பலவீனமா?
+
+*2024-08-04 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190230) · `ta`
+
+தமிழ்ப் பொது வேட்பாளரின் பிரதான இலக்கு தேசத்தை கட்டியெழுப்புதல் தான். இதன்போது தான் புறநெருக்கடிகளும் அகநெருக்கடிகளும் இன்றியமையாதவையாகின்றன. கடந்த பல வாரங்களாக இதுபற்றி ஆய்வு செய்து வந்திருக்கின்றோம். புறநெருக்கடிகளை விரிவாக பார்த்திருக்கின்றோம். அகநெருக்கடிகளில் ஒருங்கிணைந்த அரசியல் இல்லாமை, கட்சி அரசியலுக்குள் தமிழ்த் தேசிய அரசியல் அகப்பட்டுள்ளமை, தமிழ்த் தேசிய அரசியலின் புலமைத்துவ பலமின்மை, போரின் தோல்வி ஏற்படுத்திய கூட்டு மனச் சோர்வு, கொழும்பு மேட்டுக்குடிகளின் ஊடுருவல், அகமுரண்பாடுகள் மேலேழுதல், கிழக்கை கையாள்வதில் ஏற்பட்ட தோல்வி பற்றி பார்த்துவிட்டோம்.
+
+◼️
+
+[Data](articles/ac794ca9.json)
+
+---
+
+### தேர்தலில் வெளித்தலையீடுகள்
+
+*2024-08-04 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190228) · `ta`
+
+ஜனாதிபதி தேர்தல் நடத்தப்படுமா, இல்லையா என இருந்த சந்தேகத்தை, இந்த பதிவில் முதலாவது வசனமே, உணர்ந்திவிட்டது. பொதுவாக தேர்தல் அறிவிப்பு ஒன்று வெளியிடப்படும் போது ஏனைய நாடுகளின் தூதுவர்கள் அதனை வரவேற்று கருத்துக்களை வெளியிடுவது அபூர்வம்.
+
+◼️
+
+[Data](articles/c40a04c4.json)
+
+---
+
+### சரியுமா மொட்டு   சாம்ராஜ்யம்?
+
+*2024-08-04 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190221) · `ta`
+
+ராஜபக்ஷ கட்சிக்குள் தனது ஆதரவாளர்களை முன்னிலைப்படுத்தியும் அதன் கட்டுப்பாட்டை கையில் எடுத்து அதிகாரத்தை தக்க வைத்துக் கொண்டாலும் அவரை சுற்றி வலுவானவர்கள் இல்லை.
+
+◼️
+
+[Data](articles/4cb061ed.json)
 
 ---
 
@@ -125,6 +189,36 @@ Veluchami Radhakrishnan, the leader of the Upcountry People's Front, made the an
 [Data](articles/2aba0e89.json)
 
 [Extended Data](ext_articles/2aba0e89.ext.json)
+
+---
+
+### தமிழ் முற்போக்கு கூட்டணியின் ஆதரவு சஜித்துக்கு
+
+*2024-08-04 17:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-முற்போக்கு-கூட்டணியின்-ஆதரவு-சஜித்துக்கு/175-341569) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் மலையக மக்கள் முன்னணி, தமிழ் முற்போக்கு கூட்டணியுடன் இணைந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்க தீர்மானிக்க்பட்டுள்ளது.
+
+ஹட்டனில் இன்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் மலையக மக்கள் முன்னணியின் தலைவர் வேலுச்சமி இராதாகிருஷ்ணன் இந்த அறிவிப்பை வெளியிட்டார். R
+
+◼️
+
+[Data](articles/56029f04.json)
+
+---
+
+### சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளராக திலித் ஜயவீர!
+
+*2024-08-04 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190257) · `ta`
+
+ஜனாதிபதி தேர்தலில் சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளராக தொழிலதிபர் திலித் ஜயவீர போட்டியிடுவதாக உத்தியோகபூர்வமாக அறிவிப்பு வெளியாகியுள்ளது.
+
+சர்வஜன சக்தியின் (சர்வஜன பலய) ஜனாதிபதி வேட்பாளராக மவ்பிம ஜனதா கட்சியின் தலைவர் திலித் ஜயவீர நியமிக்கப்பட்டுள்ளார்.
+
+“ஒன்றிணைந்து எழுந்திடும் தேசம் – மகிழ்ச்சிமிகு தேசம்” என்ற தொனிப்பொருளின் கீழ் கொழும்பு சுகததாஸ உள்ளக அரங்கில் நடைபெற்றுவரும் நிகழ்வில் இந்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/88f6778f.json)
 
 ---
 
@@ -2129,133 +2223,5 @@ It is reported that some people have been captured as hostages and have exploded
 [Data](articles/dfd10e6a.json)
 
 [Extended Data](ext_articles/dfd10e6a.ext.json)
-
----
-
-### The President meets the leaders
-
-*2024-08-04 01:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வமத-தலைவர்களை-சந்தித்தார்-ஜனாதிபதி/175-341523) · `ta`
-
-During his visit to Jaffna, President Ranil Wickremesinghe met various religious and community leaders, including Bishop Sri Somasundaram, Pastor Jastin Gnanaprakasam, and Buddhist Hindu Religious Forum representative Mohan. He also participated in religious rituals at Naga Vihara and visited the Buddha Stupa, accompanied by the Governor of the Northern Province, BSMM Charles, and other officials.
-
-🟩
-
-President Ranil Wickremesinghe, who was on a visit to Jaffna, met Sri Somasundaram yesterday and blessed them.
-
-Subsequently, Jaffna. President Ranil Wickremesinghe, who visited the bishop's official residence. Jastin Gnanaprakasam met with the pastor.
-
-Then yesterday afternoon. The President who went to the Naga Vihara, engaged in religious rituals and received blessings.
-
-The President first visited the holy place and went to the Buddha Stupa and worshiped and met with the Sri Naga Vihara in Jaffna, Meegahajandure Sirivimala Nayaka Thera.
-
-On behalf of the 'Buddhist Hindu Religious Forum'. The President also met Mohan.
-
-In this event, the Governor of the Northern Province BSMM. Charles, Senior Advisor of National Security and President of the Presidential Workplace Sagala Ratnayake were also present.. (A)
-
-◼️
-
-[Data](articles/61277fa2.json)
-
-[Extended Data](ext_articles/61277fa2.ext.json)
-
----
-
-### Wayanad Landslide: Increase to 350
-
-*2024-08-04 01:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-நிலச்சரிவு-பலி-350-ஆக-அதிகரிப்பு/175-341522) · `ta`
-
-The death toll from a landslide in Kerala has increased to 350, with 215 bodies recovered including 87 women, 98 men, and 30 children. 148 bodies have been identified and returned to families, while 67 remain unidentified. The Navy is involved in rescue efforts. 206 people are still missing, and 81 injuries are being treated in hospitals.
-
-🟩
-
-The death toll from the landslide in the state of Kerala has risen to 350.
-
-The federal government has described the role of the Navy in the rescue and relief work.
-
-215 bodies have been recovered so far. Of these, 87 women, 98 men, 30 children. 148 bodies have been handed over so far. Another 206 people are missing. 81 people were injured. They are being treated in various hospitals. There is difficulty in identifying corpses and parts recovered from Saliyar. 67 bodies have not yet been identified. He said the panchayats would do the task of performing funerals for unidentified bodies. (A)
-
-◼️
-
-[Data](articles/0c055134.json)
-
-[Extended Data](ext_articles/0c055134.ext.json)
-
----
-
-### TMC for the aspirations of the upcountry Tamil. Recognition
-
-*2024-08-04 01:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-அபிலாஷைக்கு-த-மு-கூ-அங்கீகாரம்/175-341521) · `ta`
-
-Mano Ganesan, leader of the Tamil Progressive Alliance, announced that his proposal on upcountry Tamil aspirations was endorsed by the alliance's political committee. This came after Sajith Premadasa, a candidate from the United People's Alliance, initiated an investigation into the demands of Tamil-origin individuals from Tamil Nadu, India. The document, amended and expanded upon, includes aspects like education, vocational training, youth progress, health, nutrition, livelihoods, and housing. A Memorandum of Understanding between Premadasa and the Tamil Progressive Alliance is expected to formalize this support.
-
-🟩
-
-Alliance leader Mano Ganesan has said that the Tamil Progressive Alliance political committee has unanimously accepted the documentary of the upcountry Tamil aspirations that he had put forward by the United People's Alliance candidate Sajith Premadasa.
-
-When the government was formed under the leadership of Sajith Premadasa, a document with the demands of the aspirations of the Tamil origin of the Indian origin of the Tamilnadu Tamils ​​became actively investigated by the Coalition Political Committee in Colombo.. The documentary document, which included a few more matters, and some amendments, the political group unanimously accepted.
-
-Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Livelihood, Livelihood, Housing, Housing LandsThe coalition candidate Sajith Premadasa and the Tamil Progressive Alliance will be signed as a Memorandum of Understanding.
-
-◼️
-
-[Data](articles/8223a636.json)
-
-[Extended Data](ext_articles/8223a636.ext.json)
-
----
-
-### TMC for the upcountry Tamil aspiration document. Recognition
-
-*2024-08-04 01:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-அபிலாஷை-ஆவணத்துக்கு-த-மு-கூ-அங்கீகாரம்/175-341521) · `ta`
-
-Mano Ganesan, leader of the Tamil Progressive Alliance, announced that his party has endorsed the Upcountry Tamil community's memorandum of demands, including education, vocational training, health, and housing, to be addressed by Sajith Premadasa's UPFA government. This endorsement comes after active investigation by the Coalition Political Committee in Colombo, ensuring the inclusion of additional issues and amendments.
-
-🟩
-
-Alliance leader Mano Ganesan has said that the Tamil Progressive Alliance politics has unanimously accepted the Tamil aspirations of the Upcountry Tamil aspirations for the Memorandum of UPFA with the UPFA candidate Sajith Premadasa.
-
-When the government was formed under the leadership of Sajith Premadasa, a document with the demands of the aspirations of the Tamil origin of the Indian origin of the Tamilnadu Tamils ​​became actively investigated by the Coalition Political Committee in Colombo.. The documentary document, which included a few more matters, and some amendments, the political group unanimously accepted.
-
-Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Livelihood, Livelihood, Housing, Housing LandsThe coalition candidate Sajith Premadasa and the Tamil Progressive Alliance will be signed as a Memorandum of Understanding.
-
-◼️
-
-[Data](articles/da9c720f.json)
-
-[Extended Data](ext_articles/da9c720f.ext.json)
-
----
-
-### Dramatic changes in the political landscape make strange bedfellows. We will see more such additions in the coming days.
-
-*2024-08-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84476) · `en`
-
-It has long been a common perception that none of the main candidates will be able to receive more than 50% of the popular vote in the upcoming Presidential Election.
-
-For the last few days, since the announcement of the Presidential Election by the Election Commission, many newspapers have been publishing details of the procedures on how the next round of vote counting will be conducted to elect a president if any candidate fails to get 50%+1 of the votes in the first round.
-
-At the same time, the moves to forge new political alliances that have started several months back have now intensified.
-
-The two main political parties that alternated in power in the last century, the United National Party (UNP) and the Sri Lanka Freedom Party (SLFP), are now shadows of their former selves. Recently a prominent political analyst humorously wrote that the UNP was the Grand Old Party, but the ‘grand’ part of it was no longer valid.
-
-...
-
-[Data](articles/27b04a4d.json)
-
-[Extended Data](ext_articles/27b04a4d.ext.json)
-
----
-
-### JRJ encapsulates his autobiography in a 1992 post retirement book
-
-*2024-08-04 00:54:00* · [`islandlk`](http://island.lk/jrj-encapsulates-his-autobiography-in-a-1992-post-retirement-book/) · `en`
-
-I was born on 17 September 17, 1906. My father was E.W. Jayawardene, K.C. and a Judge of the Supreme Court and my mother was Agnes Helen, the daughter of Tudugala Don Philip Wijewardene and his wife Helena Wijewardene. My maternal grandmother is remembered as a pious and noble lady who made munificent gifts for the restoration of the Kelaniya Raja Maha Viharaya, the 2,500 years old Sacred Buddhist shrine.
-
-...
-
-[Data](articles/24c240e9.json)
-
-[Extended Data](ext_articles/24c240e9.ext.json)
 
 ---

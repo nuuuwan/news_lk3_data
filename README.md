@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 20:36:13**
+As of **2024-08-04 20:54:56**
 
 ## Newspaper Stats
 
-*Scraped **38,955** Articles*
+*Scraped **38,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,79 @@ adaderanalk | 4,517
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,862
 virakesarilk | 6,167
-adaderanasinhalalk | 6,582
+adaderanasinhalalk | 6,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,953 (100.0%) of 38,955 articles have been extended.
+38,955 (100.0%) of 38,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### விகாரதிபதியின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+### සියදිවි නසා ගත් පොලිස් නිලධාරියාගේ බිරිඳ කළ හෙළිදරව්ව
+
+*2024-08-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199562) · `si`
+
+ඉඟිනියාගල සහ නාමල්ඔය ප්‍රදේශ වල සිදුකළ ත්‍රිත්ව ඝාතන සම්බන්ධව මේ වන විට තොරතුරු රැසක් හෙළිව තිබේ.
+
+එම වෙඩි තැබීම් හේතුවෙන් පොලිස් නිලධාරියෙක් සහ කාන්තාවක් සහ පාසල් යන වයසේ සිටි දියණියක් ජීවිතක්ෂයට පත්වුණි.
+
+එම වෙඩි තැබීම් සිදුකල පොලිස් නිලධාරියා පසුව සියදිවි නසාගෙන තිබුණි.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් අදහස් දක්වමින් සියදිවි නසාගත් පොලිස් නිලධාරියාගේ බිරිඳ පවසන්නේ පොලීසියේ ඇති ප්‍රශ්න සිය සැමියාගේ කරපිටින් යවන බවක් තමාට ඔහු පැවසූ බවයි.
+
+"පහුගිය දවස් ටිකේම කතා කළේ නෑ මොකවත්. කන්න දුන්නත් කන්නෙත් නෑ බාගයක් කාලා ඔය ඇති කියලා තියනවා. පොලීසියේ ඔක්කොම ප්‍රශ්න එයාගේ කරපිට දානවා කියලා තමා එයා කියුවේ ඇවිල්ලා. ඊයේ පාන්දර කියුවේ දරුවෝ දෙන්නා බලාගන්න මෙයාලා කරන වැරදි සේරම මගේම කරපිට පටවන්න හදනවා කියලා..."
+
+කෙසේ නමුත් මේ සම්බන්ධව අදහස් දක්වමින් වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර පැවසුවේ ඝාතනයට ලක්වූ 54 හැවිරිදි කාන්තාව සහ ඝාතනය සිදුකළ පොලිස් නිලධාරියා අතර ඉඩම් ආරවුලක් පැවැති බවයි.
+
+...
+
+[Data](articles/aea8fff2.json)
+
+---
+
+### President's final tribute to Vikramadhi's
 
 *2024-08-04 20:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகாரதிபதியின்-பூதவுடலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-341593) · `ta`
 
-கொழும்பு-02 கங்காராமய விகாரதிபதி கல்பொட ஞானிஸ்ஸர தேரரின் இறுதி கிரியை, விஹாரையின் திடலில்,  திங்கட்கிழமை  (05), மாலை 4 மணியளவில் இடம்பெறும். அவரது பூதவுடலுக்கு  பெருந்திரளான மக்கள் ஞாயிற்றுக்கிழமை (04) அஞ்சலி செலுத்தினர்.
+President Ranil Wickremesinghe led tributes to the late Vikramatipathi Gnanisara Thera, the first female Buddhist monk, at the Colombo-02 Gangaramaya Vihara on Sunday. The public farewell continues today at 4 pm.
 
-இந்நிலையில், முதல் பெண்மணியுடன், கங்காராமய விகாரைக்கு, ஞாயிற்றுக்கிழமை (24 இரவு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, விகாரதிபதி கல்பொட ஞானிஸ்ஸர தேரரின் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தினார்.
+🟩
+
+The Colombo-02 Gangaramarya Vikramati will be held at 4 pm on Monday (05) at the Vihara.. A large number of people paid tribute on Sunday (04).
+
+In this case, President Ranil Wickremesinghe, who went to the Kangaramarya Vihara on Sunday (24), paid the final tribute to the Vikramatipathi Gnanisara Thera, the first woman.
 
 ◼️
 
 [Data](articles/f927fb94.json)
 
+[Extended Data](ext_articles/f927fb94.ext.json)
+
 ---
 
-### வங்கதேசத்தில் மீண்டும் கலவரம்: 32 பேர் பலி
+### Riots again in Bangladesh: 32 killed
 
 *2024-08-04 19:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-மீண்டும்-கலவரம்-32-பேர்-பலி/50-341592) · `ta`
 
-வங்கதேசத்தில் வேலைவாய்ப்பு இடஒதுக்கீடு பிரச்சினை தொடர்பாக ஆளும் அவாமி லீக் கட்சி ஆதரவாளர்களுக்கும், எதிர்ப்பாளர்களுக்கும் இடையே மூண்டுள்ள மோதலில் இதுவரை 32 பேர் உயிரிழந்துள்ளனர். பலர் படுகாயமடைந்துள்ளனர். மோதல் வலுத்துவருகின்றது.
+Clashes in Bangladesh over job reservation policies resulted in 32 deaths and numerous injuries. The dispute involves the Awami League and its opponents, fueled by the government's decision to reinstate a 30% reservation for freedom struggle families, opposed by students advocating for skill-based hiring. Prime Minister Sheikh Hasina criticized the protesters, leading to widespread violence and calls for her resignation from the ruling party itself.
 
-வங்கதேசத்தில் பாகிஸ்தானுக்கு எதிரான சுதந்திரப் போராட்டத்தில் இறந்தவர்களின் குடும்பத்தினருக்கு 30 சதவீத இடஒதுக்கீடு வழங்கும் நடைமுறை அமலில் இருந்தது. மாணவர்களின் போராட்டம் காரணமாக கடந்த 2018-ல் இந்த நடைமுறை ரத்து செய்யப்பட்டது. தற்போது மீண்டும் அந்த 30 சதவீத இடஒதுக்கீட்டை அமல்படுத்தும் அறிவிப்பை வங்கதேச அரசு அண்மையில் அறிவித்தது.
+🟩
 
-இது பாரபட்சமானது என்றும் திறமை அடிப்படையில் அரசுப் பணியாளர்களை தேர்வு செய்ய வலியுறுத்தியும் மாணவர்கள் போராட்டத்தில் குதித்தனர். இந்நிலையில் போராட்டக்காரர்களை அவமதிக்கும் வகையில் பிரதமர் ஷேக் ஹசீனா கடந்த 14-ம் தேதி வெளியிட்ட அறிக்கையை தொடர்ந்து போராட்டம் தீவிரம் அடைந்தது. நாடு தழுவிய இந்த போராட்டத்தில் பல இடங்களில் வன்முறை வெடித்தது. இந்த வன்முறையில் 200க்கும் மேற்பட்டோர் உயிரிழந்தனர்.
+32 people have been killed in a clash between ruling Awami League supporters and opponents over the issue of employment reservation in Bangladesh. Many people have been injured. The conflict is strengthening.
+
+In Bangladesh, a 30 per cent reservation procedure was in effect for the families of the deceased in the freedom struggle against Pakistan. This procedure was canceled in 2018 due to the students' struggle. The Bangladesh government recently announced the implementation of the 30 per cent reservation.
+
+Students jumped into the struggle, demanding the selection of government employees on the basis of skills. Prime Minister Sheikh Hasina issued a statement on the 14th to insult the protesters.. Violence erupted in many places in this struggle nationwide. More than 200 people died in the violence.
 
 ...
 
 [Data](articles/d99bb097.json)
+
+[Extended Data](ext_articles/d99bb097.ext.json)
 
 ---
 
@@ -2251,29 +2285,5 @@ The founding of the foundation for the murder was taken to Namal Oya and shot hi
 [Data](articles/865ee138.json)
 
 [Extended Data](ext_articles/865ee138.ext.json)
-
----
-
-### Several political parties in the North and East
-
-*2024-08-04 08:34:32* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-නැගෙනහිර-දේශපාලන-පක්ෂ-කිහිපයක්-ජනපතිගේ-සහායට/11-411178) · `si`
-
-Leaders from several political parties in the North and East have expressed support for President Ranil Wickremesinghe, highlighting his leadership and development plans for the region. Wickremesinghe met with party activists, promising economic recovery and unity. His presence at meetings across the region underscores his commitment to national unity and economic growth.
-
-🟩
-
-The leader of the EPDP Wickremesinghe said that President Ranil Wickremesinghe is the only leader and the sovereign vision and a program to develop the North and the East as one of the whole residents and the entire presidential election.
-
-President Ranil Wickremesinghe was a meeting with the party activist in the Chief of the EPDupi party in Jaffna, he said.
-
-Meanwhile, the leader of the Tamil Progressive Union Leader of the Government Minister S. President Ranil Wickremesinghe was also present at the meeting of the Dakumraran in Batticaloa.
-
-The SHOs pointed out that the President who was boldly presented to the rescue of the country and the people who were boundled by the people who were braveled to save the country and the people were in danger when the country was in danger. Dears Mr. Dakighteran said he would fully support him in the presidential election.
-
-...
-
-[Data](articles/c2a1f6e8.json)
-
-[Extended Data](ext_articles/c2a1f6e8.ext.json)
 
 ---

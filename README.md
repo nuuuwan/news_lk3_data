@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 03:05:51**
+As of **2024-08-05 03:20:43**
 
 ## Newspaper Stats
 
-*Scraped **38,992** Articles*
+*Scraped **38,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,865
-virakesarilk | 6,175
+tamilmirrorlk | 4,866
+virakesarilk | 6,176
 adaderanasinhalalk | 6,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,987 (100.0%) of 38,992 articles have been extended.
+38,992 (100.0%) of 38,994 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Addressing a press conference in Colombo, MP Prof. G.L. Peiris said while the cu
 
 [Data](articles/8c079f03.json)
 
+[Extended Data](ext_articles/8c079f03.ext.json)
+
 ---
 
 ### Dilith announced Sarvajana Balaya Presidential Candidate
@@ -69,6 +71,8 @@ The Sarvajana Balaya, a newly formed political coalition launched in May this ye
 ...
 
 [Data](articles/e9c82eac.json)
+
+[Extended Data](ext_articles/e9c82eac.ext.json)
 
 ---
 
@@ -92,6 +96,8 @@ The party appointed several new district leaders yesterday to replace those who 
 
 [Data](articles/6f3106a4.json)
 
+[Extended Data](ext_articles/6f3106a4.ext.json)
+
 ---
 
 ### SLPP National Convenor Rohitha to support President
@@ -112,6 +118,8 @@ The SLPP stalwart said the decision was a difficult one and was not made in oppo
 
 [Data](articles/7ffc8295.json)
 
+[Extended Data](ext_articles/7ffc8295.ext.json)
+
 ---
 
 ### SLMC offers conditional support to Sajith
@@ -129,6 +137,18 @@ However, Hakeem said the SLMC will not align with any other political party and 
 ◼️
 
 [Data](articles/912efcf4.json)
+
+[Extended Data](ext_articles/912efcf4.ext.json)
+
+---
+
+### கிளிநொச்சியில் 200கிலோவிற்கும் மேற்பட்ட கிலோ கஞ்சா மீட்பு!
+
+*2024-08-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190284) · `ta`
+
+◼️
+
+[Data](articles/88bdc068.json)
 
 ---
 
@@ -281,6 +301,24 @@ Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepenin
 [Data](articles/86d4311b.json)
 
 [Extended Data](ext_articles/86d4311b.ext.json)
+
+---
+
+### ’46 நாட்களில்  ஆயுள் நிறைவு’
+
+*2024-08-05 01:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-நாட்களில்-ஆயுள்-நிறைவு/175-341597) · `ta`
+
+பாராளுமன்றத்தில் இன்றைக்கு இரண்டு வருடங்களுக்கு முன்னர் 134 வாக்குகளினால் தெரிவு செய்யப்பட்ட தற்போதைய ஜனாதிபதிக்கு 92 பாராளுமன்ற உறுப்பினர்களின் ஆதரவே இருப்பதாகவும் தனிப்பெரும்பான்மையைக் கூட அரசாங்கம் இழந்துள்ளதாகவும் பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ. எல். பீரிஸ், ஞாயிற்றுக்கிழமை (04) தெரிவித்தார்.
+
+தற்போதைய அரசாங்கத்தின் ஆயுட்காலம் இன்னும் 46 நாட்களில் முடிவடையும் என தெரிவித்த பீரிஸ், மாபெரும் கூட்டணி இம்மாதம் 8ஆம் திகதி உருவாக்கப்படும் என்றார்.
+
+கொழும்பில், ஞாயிற்றுக்கிழமை (04) நடைபெற்ற செய்தியாளர் சந்திப்பில் பேராசிரியர் ஜி. எல். பீரிஸ் இவ்வாறு தெரிவித்தார்.
+
+முன்னெப்போதும் இல்லாத வகையில் தற்போதைய அரசாங்கம் நீதித்துறை மீது பாரிய தாக்குதலை நடத்தி வருவதாகவும், தற்போதைய ஜனாதிபதி நீதித்துறை அமைப்பின் நீதிபதிகளை பகிரங்கமாக விமர்சித்து வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e9f0d5f7.json)
 
 ---
 
@@ -2253,53 +2291,5 @@ A young graduate woman has been killed by the recklessness of a doctor who is in
 [Data](articles/a27f5369.json)
 
 [Extended Data](ext_articles/a27f5369.ext.json)
-
----
-
-### Painar bass he was abused daughter's daughter's two-year-old daughter
-
-*2024-08-04 13:24:44* · [`adalk`](https://www.ada.lk/breaking_news/හොඳම-මිතුරාගේ-දෙහැවිරිදි--දියණියට-අතවර-කළ-පින්තාරු-බාස්-අල්ලයි/11-411183) · `si`
-
-A 40-year-old man from Demanlanda has been arrested for allegedly abusing a two-and-a-half-month-old girl near the Bolgoda River. The incident occurred when the victim's family was taking photos in the Munitunu Port area. The suspect approached the sleeping baby while the rest of the family was away, taking photos. The child was later found with a high fever and rushed to the Panadura Base Hospital. Further investigations are being conducted by the Aluthnouthulla Police under SSP Chamil Ratnayake.
-
-🟩
-
-The Demanlanda Father, a 40 year old two and 5 months old, has been arrested in the Bolgoda River.
-
-The father of the abused girl had come to get photos to the Munitunu Port area of ​​the Bolgoda River with his two children, friend and his children.
-
-Police investigations have revealed that the victims were sleeping at the car in the car and had taken photos with the group in the car.
-
-The suspect had come to see her as the girl was only in the car, and the father and others had come to the scene.
-
-The suspects had been sent to find photos, claiming that he could take care of the suspect at the time.
-
-The body of the child had a high temperature after he had come to the house and arrived at home, police said.
-
-...
-
-[Data](articles/a4a46d56.json)
-
-[Extended Data](ext_articles/a4a46d56.ext.json)
-
----
-
-### President's candidate for the universal power
-
-*2024-08-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199546) · `si`
-
-Today, the United States hosts the Annuate Conference at Sugathadasa Indoor Stadium, Colombo, featuring President's candidate for universal power.
-
-🟩
-
-The annuate conference organized by the United States is scheduled to be held at the Sugathadasa Indoor Stadium today (04).
-
-The conference is scheduled to be held at the Sugathadasa Indoor Stadium in Colombo this afternoon.
-
-◼️
-
-[Data](articles/40cd32c5.json)
-
-[Extended Data](ext_articles/40cd32c5.ext.json)
 
 ---

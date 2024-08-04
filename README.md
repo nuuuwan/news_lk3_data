@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 13:36:15**
+As of **2024-08-04 13:55:06**
 
 ## Newspaper Stats
 
-*Scraped **38,883** Articles*
+*Scraped **38,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,110 @@ bbccomsinhala | 370
 islandlk | 2,239
 economynextcom | 2,350
 dailyftlk | 2,494
-adalk | 3,564
+adalk | 3,565
 adaderanalk | 4,509
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,847
 virakesarilk | 6,145
-adaderanasinhalalk | 6,566
+adaderanasinhalalk | 6,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,881 (100.0%) of 38,883 articles have been extended.
+38,883 (100.0%) of 38,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### අද ඔලිම්පික් පිටියට එන අරුණ
+### ඊශ්‍රායලය ට හිස්බුල්ලා ප්‍රහාර
+
+*2024-08-04 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199547) · `si`
+
+ලෙබනනයේ ක්‍රියාත්මක ඉරානයේ සහාය ලබන හිස්බුල්ලා සංවිධානය උතුරු ඊශ්‍රායලය ඉලක්ක කරමින් රොකට් ප්‍රහාර එල්ලකර තිබේ.
+
+පසුගියදා ඊශ්‍රායල ප්‍රහාරයකින් හිස්බුල්ලා ප්‍රධානියෙකු මියයාමේ සිදුවීම මුල්කර ගෙන ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කරන බවට හිස්බුල්ලා සංවිධාන අනතුරු අඟවා තිබුණි.
+
+ඊශ්‍රායලය පවසන්නේ සිය "අයන් ඩෝම් ගුවන් ආරක්ෂණ පද්ධතිය" මගින් රොකට් ප්‍රහාර වැළැක්වීමට සමත්වූ බවයි.
+
+හිස්බුල්ලා ප්‍රහාර හේතුවෙන් කිසිදු ජීවිත හානියක් වාර්තා වී නොමැති බව සඳහන් ය.
+
+කෙසේවුවද ඉන් මැද පෙරදිග යුද ගැටුම් තීව්‍රවීමට ඇති අවදානම තවත් උග්‍ර වීමෙන් අමෙරිකාව, බ්‍රිතාන්‍ය, ජෝර්දානය, කැනඩාව ඇතුළු රටවල් ලෙබනනයේ සිටින සිය පුරවැසියන්ට වහාම එරටින් පිටවන ලෙසට නිවේදනය කර තිබේ.
+
+◼️
+
+[Data](articles/45cb2e8e.json)
+
+---
+
+### අද නම් කෙරෙන සර්වජන බලයේ ජනපති අපේක්ෂකයා
+
+*2024-08-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199546) · `si`
+
+සර්වජන බලය පක්ෂය සංවිධාන කරන සර්වජන සමුළුව අද (04) පස්වරු 3ට සුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතව තිබේ.
+
+අද පස්වරුවේ කොළඹ සුගතදාස ගෘහස්ත ක්‍රීඩාංගණයේදී එම සමුළුව පැවැත්වීමට නියමිත අතර එම පරිශ්‍රයේ සූදානම පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර මහතා විසින් අද පැමිණ නිරීක්ෂණය කරනු ලැබීය.
+
+◼️
+
+[Data](articles/40cd32c5.json)
+
+---
+
+### Aruna, coming to the Olympic Floor today
 
 *2024-08-04 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199545) · `si`
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ මීටර් 400 ධාවන ඉසව්ව සඳහා ශ්‍රී ලංකාව නියෝජන කරමින් අරුණ දර්ශන අද (04) සහභාගී වීමට නියමිතව තිබේ.
+Aruna Footage competes in the 400m event at the Paris Olympics today, aiming for a personal best after setting it at 45.30 seconds. Meanwhile, Julian Alfred, from St. Lucia, won her first Olympic gold in the 100m women's race, becoming the fastest woman globally.
 
-ලෝක ශ්‍රේණිගත කිරීම අනුව 51 වන ස්ථානයේ පසුවන අරුණ දර්ශන මූලික වටයේ 05වන අදියරෙන් තරග වැදීමට නියමිතව තිබේ.
+🟩
 
-මීටර් 400 ධාවන ඉසව්වේ ඔහුගේ පෞද්ගලික හොඳම කාලය තත්ත්පර 45.30කි.
+Aruna footage is scheduled to participate in the 400m route event at the Paris Olympic Games today (04).
 
-මේ අතර ලොව වේගවත්ම කාන්තාව ලෙස පත්වීමට කැරිබියන් දූපත් රාජ්‍යයක් වන ශාන්ත ලුසියා රාජ්‍යයේ ජුලියන් ඇල්ෆ්‍රඩ් ඊයේ (03) සමත්වූවාය.
+The 51st Aruna footage is due to compete in the 51st stage.
 
-ඒ මීටර් 100 කාන්තා ධාවන ඉසව්වේ රන් පදක්කම හිමිකරගැනීමට ඇය සමත්වීමත් සමගය.
+His personal best time in the 400m events was 45.30 seconds.
 
-මෙය ශාන්ත ලුසියා රාජ්‍යය දිනාගත් පළමු ඔලිම්පික් රන් පදක්කම ලෙසද ඉතිහාසගත වෙයි.
+Meanwhile, Julian Alfred, a Caribbean, a Caribbean, was the fastest woman in the world, passed yesterday.
+
+It is the manner of passing the gold medal in the 100m women's race event.
+
+It is also his first Olympic gold medal, winning St. Lucia.
 
 ◼️
 
 [Data](articles/eaf779ba.json)
 
+[Extended Data](ext_articles/eaf779ba.ext.json)
+
 ---
 
-### “நாமலின் தவறால் வீடுகள் எரிந்தன”
+### "Namal's fault burned houses"
 
 *2024-08-04 13:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-தவறால்-வீடுகள்-எரிந்தன/175-341555) · `ta`
 
-எனது வீடுகள் எரிக்கப்பட்ட போது, அத்துகோரல எம்.பி தனது உயிரை தியாகம் செய்ய நேர்ந்த போதும் நாமல் ராஜபக்ஷ எம்.பி உள்ளிட்டோரின் தவறான செயற்பாடுகளே காரணம் என  பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்துள்ளார்.
+SM Chandrasena criticized Namal Rajapaksa for allegedly causing house burnings due to misconduct, highlighting historical inaccuracies and political maneuvering. Chandrasena asserted his readiness to fill the political void in the Anuradhapura district, contrasting with Namal's actions during protests and his inability to match Chandrasena's political influence.
 
-" நாமல் ராஜபக்சவுக்கு வரலாறு தெரியாது. 2005 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கு தயாராக இருந்தபோது தனது தந்தைக்கு ஜனாதிபதி வேட்பாளர் கொடுக்க சந்திரிகா பண்டாரநாயக்க தயாராக இல்லை. அப்போது, ​​  மஹிந்த ராஜபக்சவின் பெயரை நான் முதலில் நானே பரிந்துரைத்தேன் எஸ்.எம்.சந்திரசேன தெரிவித்துள்ளார்.
+🟩
 
-“அப்போது நான் மிகவும் சிரமப்பட்டேன், ஜனாதிபதி மாளிகைக்கு அழைத்து திருமதி சந்திரிகா என்னைத் திட்டினார். அது மட்டும் அல்ல. அவருடைய சித்தப்பாவை ஜனாதிபதியாக்க உதவினேன் என்றார்.
+Parliamentarian SM Chandrasena said that when my homes were burnt, the MP was sacrificing his life, but the misconduct of Namal Rajapaksa MP and others.
 
-செஹான் சேமசிங்க மற்றும் ஏனைய பாராளுமன்ற உறுப்பினர்களின் வீடுகள் எரிக்கப்பட்டமை நல்லது என  நாமல் ராஜபக்ஷ கூறுவதை நாங்கள் கேட்டுக் கொண்டிருந்தோம். அவர்களின் தவறான செயல்களால் தான் இதுபோன்ற சூழ்நிலைகளை சந்திக்க நேரிட்டது.
+“Namal Rajapaksa does not know history. Chandrika Bandaranaike is not ready to give her father the presidential candidate when he was ready for the 2005 presidential election. At the time, I first recommended myself the name of Mahinda Rajapaksa, said SM Chandrasena.
+
+“Then I was very troubled. Mrs. Chandrika scolded me. That is not the only one. He said he helped him to make his grandfather a president.
+
+We were listening to Namal Rajapaksa's claim that the houses of Sehan Semasinghe and other MPs were burned.. It was because of their misdeeds that such situations were met.
+
+Namal Rajapaksa's wrong work was to sacrifice life that day. It was because we held meetings on the day of the protest.
+
+"I say that Namal Rajapaksa cannot fill my vacuum in Anuradhapura district."Parliamentarian SM Chandrasena said he should be present to fill his vacuum.
 
 ...
 
 [Data](articles/59c21ad2.json)
+
+[Extended Data](ext_articles/59c21ad2.ext.json)
 
 ---
 
@@ -91,6 +141,18 @@ Accordingly, the Department of Immigration and Emigration had announced that iss
 [Data](articles/df20dc72.json)
 
 [Extended Data](ext_articles/df20dc72.ext.json)
+
+---
+
+### රත්තරන්ගේ සහය රනිල්ට
+
+*2024-08-04 12:24:15* · [`adalk`](https://www.ada.lk/breaking_news/රත්තරන්ගේ-සහය-රනිල්ට/11-411182) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී තම සහය වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසීය.
+
+◼️
+
+[Data](articles/b2b648fb.json)
 
 ---
 
@@ -2193,73 +2255,5 @@ The Executive Director of the February, Rohana Hettiarachchi, said that most of 
 [Data](articles/a24bf002.json)
 
 [Extended Data](ext_articles/a24bf002.ext.json)
-
----
-
-### Presidential Election: District Returning Officers summoned to Election Commission
-
-*2024-08-03 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100968/presidential-election-district-returning-officers-summoned-to-election-commission) · `en`
-
-All District Returning Officers have been summoned to the Election Commission in order to discuss the activities pertaining to the 2024 Presidential Election.
-
-The discussions have reportedly commenced this morning (03) at the Election Commission’s head office.
-
-The election regulatory body has been conducting several rounds of negotiations with various parties concerning the forthcoming presidential election.
-
-Meanwhile, a spokesman of the Election Commission also announced that heads of media outlets across the country will be convened for a discussion pertaining to the matter on Monday (05).
-
-◼️
-
-[Data](articles/75091862.json)
-
-[Extended Data](ext_articles/75091862.ext.json)
-
----
-
-### 5,500 rupees from September
-
-*2024-08-03 15:01:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-முதல்-5-500-ரூபாய்/175-341499) · `ta`
-
-In September, Sri Lanka's Finance Minister announced an interim allowance of Rs 3,000 for pensioners, effective immediately.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the government has decided to issue an interim allowance of Rs 3,000 to pensioners from September.
-
-Accordingly, all pensioners will now receive an interim allowance of Rs.. Remble
-
-◼️
-
-[Data](articles/7ce462f8.json)
-
-[Extended Data](ext_articles/7ce462f8.ext.json)
-
----
-
-### Sri Lanka's third place in the world
-
-*2024-08-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199519) · `si`
-
-Sri Lanka ranks third globally for its forest coverage, alongside South Korea and Japan, accounting for 31% of the world's forests. The Committee on Public Accounts criticized the lack of gazetting the entire forest system in Sri Lanka, urging expedited action to protect these vital resources.
-
-🟩
-
-The Committee on Public Accounts has revealed that Sri Lanka is between the three countries in the world that runs the world's 30 percent.
-
-In addition to Sri Lanka, South Korea, Japan, Japan, the Forest Department officials have shown that South Korea and Japan deceived.
-
-According to the officials, the percentage of forests in the world is considered 31%, and the country's forest is a good condition.
-
-However, the Committee has inquired officers on not gazetting the entire folk system in Sri Lanka.
-
-By 2018, about 1.4 million hectares were gazetted and about Rs.
-
-Accordingly, the Chairman of the Committee has instructed to do the gazetted forest as soon as possible.
-
-◼️
-
-[Data](articles/ebd3aacb.json)
-
-[Extended Data](ext_articles/ebd3aacb.ext.json)
 
 ---

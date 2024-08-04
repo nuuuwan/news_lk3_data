@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 14:55:04**
+As of **2024-08-04 15:05:59**
 
 ## Newspaper Stats
 
-*Scraped **38,902** Articles*
+*Scraped **38,905** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 335
+dbsjeyarajcom | 336
 newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
@@ -18,7 +18,7 @@ dailyftlk | 2,494
 adalk | 3,566
 adaderanalk | 4,511
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,848
+tamilmirrorlk | 4,850
 virakesarilk | 6,153
 adaderanasinhalalk | 6,571
 
@@ -26,43 +26,97 @@ adaderanasinhalalk | 6,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,899 (100.0%) of 38,902 articles have been extended.
+38,902 (100.0%) of 38,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### நாணய சுழற்சியில் இலங்கை வெற்றி
+### ‘பாதி’ வீரர்களுக்கு ‘ஆப்பு’: ஐபிஎல் அதிரடி
+
+*2024-08-04 14:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாதி-வீரர்களுக்கு-ஆப்பு-ஐபிஎல்-அதிரடி/44-341558) · `ta`
+
+இந்தியன் பிரிமியர் லீக் (ஐபிஎல்) ஏலத்தில் வாங்கப்பட்ட பிறகு நியாயமான காரணமின்றி தொடரிலிருந்து விலகுவதாக அறிவித்துவிட்டுச் செல்லும் அயல்நாட்டு வீரர்களை 2 ஆண்டுகளுக்கு தொடரில் விளையாடக் கூடாது என்று தடை விதிக்க வேண்டும் என்று ஐபிஎல் கமிட்டியிடம் ஐபிஎல் அணி உரிமையாளர்கள் கோரிக்கை வைத்துள்ளனர்.
+
+அதேபோல் அயல்நாட்டு வீரர்கள் மெகா ஏலத்திற்கும் தங்கள் பெயர்களை பதிவு செய்ய வேண்டும். அப்படிச் செய்யாமல் மினி ஏலத்தில் பங்கேற்று பெரிய தொகையை எதிர்நோக்கிச் செல்வது தடுக்கப்பட வேண்டும் என்றும் ஐபிஎல் உரிமையாளர்கள் கோரிக்கை வைத்துள்ளனர்.
+
+இந்த இரண்டு விஷயங்களிலும் 10 அணிகளின் உரிமையாளர்களும் ஒரே கருத்தில் உறுதியாக இருந்தனர் என்று ஈஎஸ்பிஎன் கிரிக் இன்போ செய்தி அறிக்கையில் கூறப்பட்டுள்ளது.
+
+அயல்நாட்டு வீரர்களை அதிக விலைகொடுத்து எடுத்த பிறகு அவர்கள் சொந்த விஷயங்களை காரணம் காட்டி தொடரிலிருந்து விலகுவது ஐபிஎல் அணியின் சேர்க்கை, திட்டமிடல் உள்ளிட்ட பல விஷயங்களைப் பாதிக்கின்றது என்று ஐபிஎல் உரிமையாளர்கள் கருதுகின்றனர்.
+
+...
+
+[Data](articles/6b7f342e.json)
+
+---
+
+### மர்ம முறையில் சிசு மரணம்
+
+*2024-08-04 14:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-முறையில்-சிசு-மரணம்/71-341557) · `ta`
+
+ஒன்றரை மாத சிசு கைகள் மற்றும் கால்கள் முறிக்கப்பட்டு , சித்திரவதைகளுக்கு உள்ளாக்கப்பட்டு,  தலையில் பலமாக தாக்கப்பட்டதில் சிசு யாழில் உயிரிழந்துள்ளது.
+
+அளவெட்டி பகுதியை சேர்ந்த சசி ரூபன் நிகாஸ் என்ற ஒன்றரை மாத சிசுவே  உயிரிழந்துள்ளது.
+
+சிசுவுக்கு  தாய்ப்பால் கொடுத்த பின்னர் குழந்தை அசைவற்று கிடந்ததாக குழந்தையின் தாய் சிசுவை அளவெட்டி வைத்தியசாலைக்கு சனிக்கிழமை (03)கொண்டு சென்றுள்ளார்.
+
+சிசுவின் உடலில் காயங்கள் காணப்பட்டமையால் , உட்கூற்று பரிசோதனை ஞாயிற்றுக்கிழமை (04) முன்னெடுக்கப்பட்ட வேளை,ன் கைகள் மற்றும் கால்கள் முறிந்து இருந்தமை , தலையில் அடிகாயங்கள் காணப்பட்டமை , காதிலும் மெல்லிய கம்பியினால் துளையிட்ட அடையாளங்கள் உள்ளிட்டவற்றுடன் , உடலில் கண்டல் காயங்களும் கண்டறியப்பட்டுள்ளது.
+
+சிசுவின் மரணம் இயற்கை மரணம் அல்ல என உடற்கூற்று பரிசோதனை அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+சிசுவின் தந்தை வெளியூரில் தங்கி இருந்து வேலை செய்வதாகவும், தாயின் பராமரிப்பிலையே சிசு இருந்துள்ளதாக பொலிஸ் விசாரணைகளில் தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/fd2c67e5.json)
+
+---
+
+### Sri Lanka wins in currency cycle
 
 *2024-08-04 14:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நாணய-சுழற்சியில்-இலங்கை-வெற்றி/44-341556) · `ta`
 
-இலங்கை மற்றும் சுற்றுலா இந்திய அணிகளுக்கு இடையிலான... இரண்டாவது ஒருநாள் சர்வதே  போட்டி இன்று இடம்பெறவுள்ளது.
+Sri Lanka, victorious in the currency cycle against tourism, will start batting in the second ODI match today at 2:30 pm at the Ketharama Ground in Colombo.
 
-கொழும்பு கெத்தாரம மைதானத்தில் இன்று பிற்பகல் 2.30 மணிக்கு ஆரம்பமாகவுள்ள இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில்  துடுப்பெடுத்தாடவுள்ளது.
+🟩
+
+Between Sri Lanka and Tourism. The second ODI competition will be held today.
+
+The Sri Lankan team, which won the currency spin, will be the first to bat in the tournament, which starts at 2.30 pm this afternoon at the Ketharama Ground in Colombo.
 
 ◼️
 
 [Data](articles/491667fd.json)
 
+[Extended Data](ext_articles/491667fd.ext.json)
+
 ---
 
-### ඉඟිනියාගල ත්‍රිත්ව ඝාතන ගැන තවත් තොරතුරු හෙළිවෙයි
+### More information about Tripal murders
 
 *2024-08-04 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199550) · `si`
 
-ඉඟිනියාගල සිදුකළ වෙඩි තැබීම් දෙකකින් පොලිස් නිලධාරියෙක් ඇතුළු තිදෙනෙකු අද ජීවිතක්ෂයට පත්විය.
+In Inginiyagala, three individuals including a police officer were killed in two separate shootings. The suspect, a police constable from the Moneragala station, later committed suicide at the Kalalla police premises. Investigations suggest disputes over land and the motive behind another constable's death remain unclear. Further inquiries are ongoing.
 
-අද (04) අලුයම සිදුකළ එම වෙඩිතැබීමේ සිදුවීම්වලින් ඝාතනයට ලක්වූ කාන්තාව සහ සැකකාර පොලිස් කොස්තාපල්වරයා අතර ඉඩම් ආරවුලක් සම්බන්ධයෙන් මතභේදයක් පැවති බවට පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී තිබේ.
+🟩
 
-එම සැකකාර පොලිස් නිලධාරියා මොනරාගල, කරාඬුගල පොලිස් ස්ථානයට අනුයුක්තව සේවය කළ උපසේවා පොලිස් කොස්තාපල්වරයෙකි.
+Three persons including a police officer killed in two shootings carried out by Inginiyagala.
 
-ඔහු අද උදෑසන කරාඬුගල පොලිස් ස්ථාන පරිශ්‍රයේදී T-56 ගිනි අවියකින් වෙඩිතබා ගෙන සියදිවි නසාගෙන තිබුණි.
+Investigations have revealed that the victim and the suspect was reported between the victim and the suspect's police constable today (04).
 
-එම සිද්ධි සම්බන්ධයේ අදහස් දැක්වූ වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා,
+The suspect was an appointment of the subspa, attached to the crankial police station, Moneragala.
+
+He had committed suicide in a T-56 firearm at the Kalalla police premises this morning.
+
+Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
+
+"The police officer who suspects suicide near the house of the victim and her daughter, have been residenced. And there is a dispute over a land. And the reason for the assassination of the other constable is yet to be ascertained. The Ampara Magistrate's Court on Tri-Magistrate's Court in Inginiyagala Police have taken measures to overcome the incident in the Karandgala area. Magistrates are scheduled to be held. All these killings are conducting further investigations. "
 
 ...
 
 [Data](articles/f64a66ef.json)
+
+[Extended Data](ext_articles/f64a66ef.ext.json)
 
 ---
 
@@ -1356,6 +1410,8 @@ That absurd justification is increasingly being used by the NPP to the extent th
 
 [Data](articles/f480097b.json)
 
+[Extended Data](ext_articles/f480097b.ext.json)
+
 ---
 
 ### Some wonders AI has created and dangers of negative repercussions
@@ -1579,6 +1635,24 @@ Education, Vocational Training, Youth Progress, Health, Nutrition, Nutrition, Li
 [Data](articles/da9c720f.json)
 
 [Extended Data](ext_articles/da9c720f.ext.json)
+
+---
+
+### Dramatic changes in the political landscape make strange bedfellows. We will see more such additions in the coming days.
+
+*2024-08-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84476) · `en`
+
+It has long been a common perception that none of the main candidates will be able to receive more than 50% of the popular vote in the upcoming Presidential Election.
+
+For the last few days, since the announcement of the Presidential Election by the Election Commission, many newspapers have been publishing details of the procedures on how the next round of vote counting will be conducted to elect a president if any candidate fails to get 50%+1 of the votes in the first round.
+
+At the same time, the moves to forge new political alliances that have started several months back have now intensified.
+
+The two main political parties that alternated in power in the last century, the United National Party (UNP) and the Sri Lanka Freedom Party (SLFP), are now shadows of their former selves. Recently a prominent political analyst humorously wrote that the UNP was the Grand Old Party, but the ‘grand’ part of it was no longer valid.
+
+...
+
+[Data](articles/27b04a4d.json)
 
 ---
 
@@ -2173,87 +2247,5 @@ Pic L-R: Mother Suranganee Abeyagoonasekera; Asanga Abeyagoonasekera arrested 21
 [Data](articles/646d3d57.json)
 
 [Extended Data](ext_articles/646d3d57.ext.json)
-
----
-
-### Ranil for five members of Ratnapura - Ranil - Pavithra
-
-*2024-08-03 18:07:10* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-පොහොට්ටු-මන්ත්‍රී-අටෙන්-පහක්ම-රනිල්ට---පවිත්‍රා-දෙලොවක්-අතර/11-411177) · `si`
-
-In a significant show of support for President Ranil Wickremesinghe in the upcoming presidential election, parliamentarians, provincial councils, and local government members from across the Ratnapura District have pledged their backing. This decision was made during a meeting at the Sri Ramya Hotel, where several key figures, including Jewak Wakkumbura, Premalal Jayasekara, Aklly Ellawala, Tapity Pishanthi, and John Seneviratne, were present. Despite initial delays due to organizational issues, MP Gamini Walaboda has been in talks with Sajith Premadasa, and Pavithra Wanniarachchi, the district leader, is also expected to support Wickremesinghe. The majority of the 160 local authority members and all six provincial councilors in the Ratnapura District have expressed their support, indicating widespread endorsement for Wickremesinghe's candidacy.
-
-🟩
-
-Parliamentarians, Provincial Councils and Local Government Members of the entire rhost of the Ratnapura District have decided to support President Ranil Wickremesinghe in the presidential election.
-
-The party's representatives took the decision at a meeting held at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel at the Sri Ramya Hotel.
-
-Several members representing the Ratnapura District were present at the meeting.
-
-It is Jewak Wakkumbura, Premalal Jayasekara, Aklly Ellawala and Tapity Pishanthi.
-
-John Seneviratne, who is elected by the Sri Lanka Freedom Party, has already been supporting Ranil Wickremesinghe.
-
-It is said that MP Gamini Walaboda has been speaking to Sajith Premadasa that MP Sajith Premadasa is currently being added to Sajith Premadasa and it is delayed due to a problem with the post of organizer.
-
-...
-
-[Data](articles/c5d2ff8e.json)
-
-[Extended Data](ext_articles/c5d2ff8e.ext.json)
-
----
-
-### Many candidates are on the field!: If no candidate gets 50 percent of the votes, who is the President?
-
-*2024-08-03 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190183) · `ta`
-
-In Sri Lanka's 2024 presidential election, confusion arises due to the increasing number of candidates and the voting system. If no candidate secures 50% of the votes, the first and second runners-up' votes are combined and the candidate with the majority wins. Social media's influence, including fake news, is significant. Voting involves marking preferences for up to three candidates, ensuring transparency and allowing for redistribution of votes based on preferences.
-
-🟩
-
-With the presidential elections in Sri Lanka on September 21, 2024, the number of presidential candidates to contest is increasing day by day.
-
-Meanwhile, confusion about how to vote for the presidential election has begun to arise among the people. 14 candidates have been controlled on August 2 to contest the presidential election. There is a number of candidates to increase the number of candidates as there is a time of control until noon on August 14th.
-
-In this case, the candidates who are fielding in the presidential election have begun their election campaign and promises to make the corner of the person.
-
-In the current situation, the strength of social media beyond the traditional media is seen as a severe influence in the election period. We have observed the impact of social media in the elections in the world.
-
-Fake news, fabricated news, videos and photos are being spread on social media. As well as Memes, the social media is going viral.
-
-...
-
-[Data](articles/d868c616.json)
-
-[Extended Data](ext_articles/d868c616.ext.json)
-
----
-
-### Middle East Sri Lankans will be imported
-
-*2024-08-03 17:49:11* · [`adalk`](https://www.ada.lk/breaking_news/මැද-පෙරදිග-ලාංකිකයන්-ගෙන්විමට-මුදල්-වෙන්-කරයි/11-411176) · `si`
-
-In response to potential Middle East conflicts, a special program aims to evacuate over 30,000 Sri Lankans from countries like Israel, Lebanon, and Egypt, employing around 8,000 locally. The government has allocated $5 million and plans to ensure women's safety during this process. A dedicated phone line may be established for inquiries. This initiative highlights the government's readiness to protect its citizens abroad amidst geopolitical tensions.
-
-🟩
-
-A special program has been prepared to import all Sri Lankans if the conflict grew in the Middle East, he has already allocated more than $ 5 million.
-
-The Minister states that plans have been made to provide all the ladies they need to be placed in safe places until they are imported to the country.
-
-More than 12,000 Sri Lankans in Israel alone, over 15,000 Sri Lankans, have employed about 7,500 people in the Lebanese kingdom and about 500 people in Egypt.
-
-The President has instructed to prepare all the work as soon as possible to get them as soon as possible. The President has also appointed a separate committee.
-
-He said that if Sri Lankans would be brought to Sri Lanka to Sri Lanka, he is expected to establish a special telephone number.
-
-He said that if the conflict grew in the Middle East, it would have a dollar of dollars and importing the oil and gas of foreign workers could affect the country if it is not.
-
-...
-
-[Data](articles/4c2467e2.json)
-
-[Extended Data](ext_articles/4c2467e2.ext.json)
 
 ---

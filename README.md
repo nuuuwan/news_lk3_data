@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-04 14:36:14**
+As of **2024-08-04 14:55:04**
 
 ## Newspaper Stats
 
-*Scraped **38,899** Articles*
+*Scraped **38,902** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 334
+dbsjeyarajcom | 335
 newsfirstlk | 363
 colombotelegraphcom | 369
 bbccomsinhala | 370
@@ -18,57 +18,103 @@ dailyftlk | 2,494
 adalk | 3,566
 adaderanalk | 4,511
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,847
+tamilmirrorlk | 4,848
 virakesarilk | 6,153
-adaderanasinhalalk | 6,570
+adaderanasinhalalk | 6,571
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,894 (100.0%) of 38,899 articles have been extended.
+38,899 (100.0%) of 38,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-04 (Sunday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට - කණ්ඩායමේ වෙනස්කම් දෙකක්
+### நாணய சுழற்சியில் இலங்கை வெற்றி
+
+*2024-08-04 14:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நாணய-சுழற்சியில்-இலங்கை-வெற்றி/44-341556) · `ta`
+
+இலங்கை மற்றும் சுற்றுலா இந்திய அணிகளுக்கு இடையிலான... இரண்டாவது ஒருநாள் சர்வதே  போட்டி இன்று இடம்பெறவுள்ளது.
+
+கொழும்பு கெத்தாரம மைதானத்தில் இன்று பிற்பகல் 2.30 மணிக்கு ஆரம்பமாகவுள்ள இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில்  துடுப்பெடுத்தாடவுள்ளது.
+
+◼️
+
+[Data](articles/491667fd.json)
+
+---
+
+### ඉඟිනියාගල ත්‍රිත්ව ඝාතන ගැන තවත් තොරතුරු හෙළිවෙයි
+
+*2024-08-04 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199550) · `si`
+
+ඉඟිනියාගල සිදුකළ වෙඩි තැබීම් දෙකකින් පොලිස් නිලධාරියෙක් ඇතුළු තිදෙනෙකු අද ජීවිතක්ෂයට පත්විය.
+
+අද (04) අලුයම සිදුකළ එම වෙඩිතැබීමේ සිදුවීම්වලින් ඝාතනයට ලක්වූ කාන්තාව සහ සැකකාර පොලිස් කොස්තාපල්වරයා අතර ඉඩම් ආරවුලක් සම්බන්ධයෙන් මතභේදයක් පැවති බවට පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+එම සැකකාර පොලිස් නිලධාරියා මොනරාගල, කරාඬුගල පොලිස් ස්ථානයට අනුයුක්තව සේවය කළ උපසේවා පොලිස් කොස්තාපල්වරයෙකි.
+
+ඔහු අද උදෑසන කරාඬුගල පොලිස් ස්ථාන පරිශ්‍රයේදී T-56 ගිනි අවියකින් වෙඩිතබා ගෙන සියදිවි නසාගෙන තිබුණි.
+
+එම සිද්ධි සම්බන්ධයේ අදහස් දැක්වූ වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා,
+
+...
+
+[Data](articles/f64a66ef.json)
+
+---
+
+### Sri Lanka - two different changes to the coin
 
 *2024-08-04 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199549) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි එක්දින ජාත්‍යන්තර තරගය අද (04) පැවැත්වෙයි.
+Sri Lanka made two changes to its coin design and cricket team lineup for today's match against India at the Colombo District Stadium. The Sri Lankan leader, Charith, won the toss and chose to use the new coin design. In the cricket match, fast bowler Mohamed Shiraz was replaced due to unspecified reasons.
 
-කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+🟩
 
-මෙම තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් දෙකක් සිදුකර තිබේ.
+Sri Lanka and India will be held today (04).
 
-වේගපන්දු යවන මොහොමඩ් ශිරාස් සහ දඟපන්දු යවන වනිඳු හසරංග වෙනුවට කමිඳු මෙන්ඩිස් සහ ජෙෆ්රි වැන්ඩසේ මෙම තරගය සඳහා කැඳවා තිබේ.
+Sri Lanka Leader Charith won the toss and win the coin of the match at the Colombo District Stadium in Colombo.
+
+Two changes in the Sri Lankan team have been conducted for the match.
+
+The match has been called for the match instead of fast bowler Mohamed Shiraz and the Fourth.
 
 ◼️
 
 [Data](articles/2e78fb8e.json)
 
+[Extended Data](ext_articles/2e78fb8e.ext.json)
+
 ---
 
-### නතර වූ ඔන්ලයින් වීසා ක්‍රමවේදයට රජයෙන් හෙට විසඳුමක්
+### Govt. Tomorrow Tomorrow to stop online visa
 
 *2024-08-04 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199548) · `si`
 
-මෙරටට පැමිණෙන සංචාරකයින් සඳහා වීසා නිකුත් කිරීම සිදුකරන ආකාරය සම්බන්ධයෙන් හෙට (05) තීරණය කිරීමට නියමිත බව මහජන ආරක්ෂක අමාත්‍යංශය පවසයි.
+The government plans to halt online visa issuance for tourists, pending a decision by defense ministry officials. This comes after a Supreme Court injunction against implementing e-visas for two foreign firms. Visa services have been suspended since the 2nd night, with temporary website downtime and measures to refund affected applicants. Tourist arrivals may face delays as a result.
 
-ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් සමග සාකච්ඡා කර ඒ සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීමට බලාපොරොත්තු වන බව එම අමාත්‍යංශය පෙන්වාදෙයි.
+🟩
 
-විද්‍යුත් විසා සේවාවන් සැපයීමේ කටයුතු විදේශීය සමාගම් දෙකකට ලබාදීමට අමාත්‍ය මණ්ඩලය ගෙන තිබූ තීරණය ක්‍රියාත්මක කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය පසුගියදා අතුරු තහනම් නියෝගයක් නිකුත් කරනු ලැබීය.
+The Ministry of Defense states that the issuance of visas for tourist arrivals will be decided tomorrow (05).
 
-ඒ අනුව, අගෝස්තු මස 2 වැනිදා රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මාර්ගගත ක්‍රමය ඔස්සේ වීසා නිකුත් කිරිමේ කටයුතු අත්හිටුවන බව ආගමන විගමන දෙපාර්තමේන්තුව නිවේදනය කර තිබුණි.
+The Ministry of the Ministry has discussed a final decision on the Immigration and Emigration Department officials.
 
-අදාළ වෙබ් අඩවිය තාවකාලිකව අත්හිටුවා ඇති අතර වීසා ලබාගැනීමට මුදල් ගෙවීම් සිදුකළ පුද්ගලයින්ට යළි අදාළ මුදල් ලබාදීමට පියවර ගෙන ඇති බව වාර්තා වෙයි.
+The Supreme Court recently issued an interim injunction to prevent the implementation of e-time to provide electronic vischolics to two foreign companies.
 
-ඒ අනුව, මෙරටට පැමිණෙන සංචාරකයින් සඳහා මේ වනවිට ගුවන්තොටුපොළේ දී නිකුත් කෙරෙන ON ARRIVAL වීසා නිකුත් කිරීම පමණක් සිදුවන බව සඳහන්ය.
+Accordingly, the Department of Immigration and Emigration (Immigration and Emigration Department) had announced that the issuance of visas were suspended from the 2nd night.
+
+The website has been temporarily suspended and steps have been taken to provide the relevant money to the people who were paid payments to obtain visa.
+
+Accordingly, on the airport will be released at the airport at the airport for tourist arrivals.
 
 ◼️
 
 [Data](articles/9fea8dcd.json)
+
+[Extended Data](ext_articles/9fea8dcd.ext.json)
 
 ---
 
@@ -85,6 +131,8 @@ The seized trawler together with four Indian fishermen were brought to the Kanke
 ◼️
 
 [Data](articles/2f00b9a0.json)
+
+[Extended Data](ext_articles/2f00b9a0.ext.json)
 
 ---
 
@@ -105,6 +153,8 @@ Aruna Darshana recently showcased his exceptional speed and skill on the track a
 ...
 
 [Data](articles/8150443e.json)
+
+[Extended Data](ext_articles/8150443e.ext.json)
 
 ---
 
@@ -164,23 +214,31 @@ A young graduate woman has been killed by the recklessness of a doctor who is in
 
 ---
 
-### හොඳම මිතුරාගේ දෙහැවිරිදි  දියණියට අතවර කළ පින්තාරු බාස් අල්ලයි
+### Painar bass he was abused daughter's daughter's two-year-old daughter
 
 *2024-08-04 13:24:44* · [`adalk`](https://www.ada.lk/breaking_news/හොඳම-මිතුරාගේ-දෙහැවිරිදි--දියණියට-අතවර-කළ-පින්තාරු-බාස්-අල්ලයි/11-411183) · `si`
 
-බොල්ගොඩ ගඟේ අළුබෝමුල්ල  මුන්නවත්ත තොටුපොල අසල මෝටර් රථයක් තුළදී තම හොඳම මිතුරාගේ අවුරුදු 2 යි මාස 5  ක් වයසැති  දියණියට  බරපතල ලිංගික අතවර සිදුකළ බව කියන 40 හැවිරිදි  දෙදරු පියෙකු වු පිංතාරුකරුවෙකු අත්අඩංගුවට ගත් බව අළුබෝමුල්ල පොලිසිය කියයි.
+A 40-year-old man from Demanlanda has been arrested for allegedly abusing a two-and-a-half-month-old girl near the Bolgoda River. The incident occurred when the victim's family was taking photos in the Munitunu Port area. The suspect approached the sleeping baby while the rest of the family was away, taking photos. The child was later found with a high fever and rushed to the Panadura Base Hospital. Further investigations are being conducted by the Aluthnouthulla Police under SSP Chamil Ratnayake.
 
-අතවරයට පත් දැරියගේ පියා සිය දරු දෙදෙනා ,  මිතුරා සහ මිතුරාගේ බිරිඳ සහ දරු දෙදෙනා සමග බොල්ගොඩ ගඟේ මුන්නවත්ත තොටුපොළ ප්‍රදේශයට ඡායාරූප ලබා ගැනීම සඳහා පැමිණ තිබූ බව පොලිසිය සඳහන් කරයි
+🟩
 
-පිරිස මෝටර් රථයෙන් බසින අවස්ථාවේදී අතවරයට පත් දරුවාට නින්ද ගොස් තිබී ඇති අතර පියා විසින් දැරියව මෝටර් රථය තුළ තබා පිරිස සමඟ මඳක් ඈතට ගොස් ඡායාරූප ලබා ගනිමින් සිට ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The Demanlanda Father, a 40 year old two and 5 months old, has been arrested in the Bolgoda River.
 
-දැරිය පමණක් මෝටර් රථයේ සිටින බැවින් සැකකරු ඇයව බැලීමට පැමිණ ඇති අතර මඳ වේලාවකදී දරුවා හඬන ශබ්දයක් ඇසී  පියා ඇතුළු පිරිස එම ස්ථානයට පැමිණ තිබූ බව පොලිසි විමර්ශනවලදී අනාවරණය වී ඇත
+The father of the abused girl had come to get photos to the Munitunu Port area of ​​the Bolgoda River with his two children, friend and his children.
 
-එම අවස්ථාවේදී සැකකරු තමන්ට දරුවා බලා ගැනීමට පුළුවන් බව පවසා අනෙක් පිරිස ඡායාරූප ලබා ගැනීමට යවා තිබූ බව පොලිසිය කියයි
+Police investigations have revealed that the victims were sleeping at the car in the car and had taken photos with the group in the car.
+
+The suspect had come to see her as the girl was only in the car, and the father and others had come to the scene.
+
+The suspects had been sent to find photos, claiming that he could take care of the suspect at the time.
+
+The body of the child had a high temperature after he had come to the house and arrived at home, police said.
 
 ...
 
 [Data](articles/a4a46d56.json)
+
+[Extended Data](ext_articles/a4a46d56.ext.json)
 
 ---
 
@@ -1286,6 +1344,20 @@ During my efforts to shortlist employee suggestions, ‘Establishing quality cir
 
 ---
 
+### The  Supreme Court has consistently upheld the principle that a govt servant is empowered to refuse to obey an ‘illegal’ order by his or her superior resulting in the use of state assets for a particular political party or candidate.
+
+*2024-08-04 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84472) · `en`
+
+If the glittering promise of the ‘Jathika Jana Balavegaya’ (NPP) is supposed to offer a better, brighter Sri Lanka to put an end to the ’76 year old curse’ of its political rivals, it is time that NPP Presidential candidate Anura Kumara Dissanayake refrains from justifying his actions during the run-up to the September 21st Presidential elections on the basis that, ‘others are doing it, why not me?’
+
+That absurd justification is increasingly being used by the NPP to the extent that this (logically) defeats its own argument of being ‘different’ to the others. Earlier, the NPP Presidential candidate announced on a recent visit overseas to meet his ‘supporters’ that he will declare the cost of his (frequent) travels and the sources of that (private) funding only if President Ranil Wickremesinghe together with his Minister of Sports and Minister of Labour/Foreign Employment discloses the same information regarding their (state) travels.
+
+...
+
+[Data](articles/f480097b.json)
+
+---
+
 ### Some wonders AI has created and dangers of negative repercussions
 
 *2024-08-04 02:09:00* · [`islandlk`](http://island.lk/some-wonders-ai-has-created-and-dangers-of-negative-repercussions/) · `en`
@@ -2183,61 +2255,5 @@ He said that if the conflict grew in the Middle East, it would have a dollar of 
 [Data](articles/4c2467e2.json)
 
 [Extended Data](ext_articles/4c2467e2.ext.json)
-
----
-
-### Special Transport Plan in Colombo
-
-*2024-08-03 17:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-341504) · `ta`
-
-A special traffic plan will be active near Colombo-Kangaram Vihara from 2 pm to 8 pm on Monday due to the funeral of Vikrama of Gangarama Vihara.
-
-🟩
-
-The special traffic scheme will be implemented in the areas adjoining the Colombo -Kangaram Vihara from 2 pm to 8 pm on Monday.
-
-This special traffic scheme is to be implemented due to the funeral of the late Vikrama of the Gangarama Vihara.. Remble
-
-◼️
-
-[Data](articles/2fbe0b8c.json)
-
-[Extended Data](ext_articles/2fbe0b8c.ext.json)
-
----
-
-### SLFP and United People's Freedom Alliance (UPFA) support Sajith Premadasa
-
-*2024-08-03 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190180) · `ta`
-
-SLFP and UPFA endorse Sajith Premadasa for presidency. Decision made at Colombo meeting.
-
-🟩
-
-The Sri Lanka Freedom Party and the United People's Freedom Alliance (UPFA) have decided to support opposition leader Sajith Premadasa in the upcoming presidential election.
-
-The resolution was reached during a special discussion held in Colombo today (03).
-
-◼️
-
-[Data](articles/2b806021.json)
-
-[Extended Data](ext_articles/2b806021.ext.json)
-
----
-
-### Parachute accident
-
-*2024-08-03 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199526) · `si`
-
-A parachute accident occurred when a parachutist failed to open their chute, resulting in a fatal fall from a significant height.
-
-🟩
-
-◼️
-
-[Data](articles/f565d12b.json)
-
-[Extended Data](ext_articles/f565d12b.ext.json)
 
 ---

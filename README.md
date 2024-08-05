@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 11:56:12**
+As of **2024-08-05 12:09:59**
 
 ## Newspaper Stats
 
-*Scraped **39,043** Articles*
+*Scraped **39,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,127 @@ islandlk | 2,250
 economynextcom | 2,354
 dailyftlk | 2,506
 adalk | 3,578
-adaderanalk | 4,526
+adaderanalk | 4,527
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,883
-virakesarilk | 6,178
+tamilmirrorlk | 4,884
+virakesarilk | 6,179
 adaderanasinhalalk | 6,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,037 (100.0%) of 39,043 articles have been extended.
+39,043 (100.0%) of 39,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ආණ්ඩුවේ ස්ථාවරත්වය ගැන ඇමති ප්‍රසන්නගෙන් ප්‍රකාශයක්
+### Oil falls as US recession fears offset Mideast tensions
+
+*2024-08-05 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101002/oil-falls-as-us-recession-fears-offset-mideast-tensions) · `en`
+
+Oil prices fell on Monday as fears of a recession in the United States, the world’s top oil consumer, offset concerns that escalating tensions in the Middle East may affect supplies from the largest producing region.
+
+Brent crude futures inched down 4 cents, or 0.1%, to $76.77 a barrel by 0035 GMT, while U.S. West Texas Intermediate crude futures were at $73.39 a barrel, down 13 cents, or 0.2%.
+
+Prices were supported by persistent fighting in Gaza with an Israeli airstrike hitting two schools and killing at least 30 people on Sunday, Palestinian officials said, the day after a round of talks in Cairo ended without result.
+
+Israel and the United States are bracing for a serious escalation in the region after Iran and its allies Hamas and Hezbollah pledged to retaliate against Israel for the killings of Hamas’ leader Ismail Haniyeh and Fuad Shukr, a top military commander from Lebanese armed group Hezbollah last week.
+
+...
+
+[Data](articles/0e96dc08.json)
+
+---
+
+### “ தனிப்பெரும்பான்மை அரசுக்கு உள்ளது”
+
+*2024-08-05 11:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிப்பெரும்பான்மை-அரசுக்கு-உள்ளது/175-341617) · `ta`
+
+அரசாங்கத்திற்கு தனிப்பெரும்பான்மை இருப்பதால், அடுத்த இரண்டு அல்லது மூன்று மாதங்களுக்கு அரசாங்கத்தை நடத்துவதில் சிக்கல் இருக்காது என ஆளும் கட்சியின் பிரதான அமைப்பாளரும், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+மேலும், கட்சி சரியான முடிவை எடுக்காவிட்டால், ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இரண்டு அல்லது மூன்று உறுப்பினர்களே எஞ்சுவார்கள் என்றும் அமைச்சர் வலியுறுத்துகிறார்.
+
+திவுலபிட்டிய பிரதேசத்தில் ஞாயிற்றுக்கிழமை (4) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/5bb115c4.json)
+
+---
+
+### Minister Prasanna a statement about the stability of the government
 
 *2024-08-05 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199579) · `si`
 
-ආණ්ඩුවට සරල බහුතරය තිබෙන බැවින් ඉදිරි මාස දෙක, තුන කාලය තුළ රජය පවත්වාගෙන යාම ගැටලුවක් නොවන බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Housing Minister Prasanna Ranatunga asserts the government's stability, citing a simple majority for the next two months. He warns that incorrect decisions could leave only a few individuals in power, emphasizing the importance of right choices.
 
-අමාත්‍යවරයා අවධාරණය කරන්නේ පක්ෂය නිවැරදි තීන්දු නොගතහොත් ශ්‍රී ලංකා පොදුජන පෙරමුණට දෙතුන් දෙනෙකු පමණක් ඉතිරි විය හැකි බවයි.
+🟩
 
-දිවුලපිටිය ආසනයේ ඊයේ (4) පැවති උත්සවයකින් පසුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+The Chief Organizer, Urban Development and Housing Minister Prasanna Ranatunga says that the government has a simple majority in the next two months.
+
+The Minister emphasizes that if the party does not take the correct decisions, only two or three0 people can be left.
+
+Speaking to the media after a function held in the Divulapitiya electorate, the minister said.
 
 ◼️
 
 [Data](articles/c111af32.json)
 
+[Extended Data](ext_articles/c111af32.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් දැඩි ආරක්ෂාවක් මැද අධිකරණයට
+### Club spring murder suspects in court
 
 *2024-08-05 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199578) · `si`
 
-ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකාරිය ඇතුළු සැකකරුවන් දස දෙනා අද (05) යළි කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආවේය.
+Suspects in a spring club murder case appeared in court. The investigation identified three individuals involved in the shooting death of two people with T-56 firearms. Police seek public help to apprehend them.
 
-ඉකුත් නඩු දිනයේදී මහෙස්ත්‍රාත් චානිමා විජේබණ්ඩාර මහත්මියගේ නියෝගය පරිදි අද දිනයේදී අදාළ නඩුව සම්බන්ධයෙන් බස්නාහිර දකුණ අපරාධ කොට්ඨාසයේ ස්ථානාධිපතිවරයා, නීතිපති දෙපාර්තමේන්තුව සහ ඝාතනයට ලක් වූ සු⁣රේන්ද්‍ර වසන්ත පෙරේරා ගේ පුතු සහ ඔහුගේ දේහය භාරගත් තැනැත්තා නීති කෘත්‍යය සඳහා අධිකරණයෙහි පෙනී සිටීමට නියමිත වේ.
+🟩
 
-මේ අතර, ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා තිබුණි.
+The suspects and the suspects were taken to the Kaduwela Magistrate's Court today (05).
 
-පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත සහ තවත් අයෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
+The OIC of the Western Province, Attorney General's Department and his remains of the Western Province, the OIC of the Western Province, the OIC of the Western Province, the OIC of the Western Province, and the murderer of Shongenna Wasantha Perera is due to appear in court regarding the court of the case.
 
-මෙම අපරාධය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු විමර්ශන නිලධාරීන් විසින් හඳුනාගෙන ඇති අතර සැකකරුවන්ගේ ඡායාරූප 03 පොලීසිය විසින් මාධ්‍ය වෙත නිකුත් කර තිබේ.
+Meanwhile, police had asked for public assistance to arrest three suspects involved in the shooting incident that killed.
+
+On July 8th July, T-56 Firearcules were killed in T-56 Firearcuit and another was killed by the shooting.
+
+Three suspects have been identified by the investigations into the crime and the three photographs of suspects have been released to the media.
 
 ◼️
 
 [Data](articles/fde780af.json)
 
+[Extended Data](ext_articles/fde780af.ext.json)
+
 ---
 
-### “தாயின் அறிவுரையை கேட்டேன்:ரோஹித
+### “I heard the mother's advice: Rohita
 
 *2024-08-05 11:25:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயின்-அறிவுரையை-கேட்டேன்-ரோஹித/175-341615) · `ta`
 
-தனது தாய் கூறியதன் காரணமாகவே எதிர்வரும் ஜனாதிபதி தேர்தலில், ரணில் விக்கிரமசிங்கவை ஆதரிக்க முடிவெடுத்தாக மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+Rohitha Abeygunawardena, influenced by his mother's advice, switched support from the Sri Lanka PA to Ranil Wickremesinghe for the presidency, citing a change in family loyalty from Mahinda to Ranil.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி தேர்தலில் ஆதரிப்பதில்லை என தீர்மானம் எடுக்கப்பட்ட கூட்டத்தில் பங்கேற்றிருந்த  பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன ஜனாதிபதி ரணிலை ஆதரிப்பதாக  அறிவித்திருந்தார்.
+🟩
 
-தனது இந்த முடிவுக்கான காரணத்தையும் அவர் வெளிப்படுத்தியுள்ளார். களுத்துறையில் இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு பேசிய அவர் இதனை குறிப்பிட்டுள்ளார்.
+Mottu party parliamentarian Rohitha Abeygunawardena has decided to support Ranil Wickremesinghe in the upcoming presidential election due to his mother's statement.
 
-“என் அம்மாவுக்கு 87 வயது. மகனே, மிஸ்டர் மஹிந்தவை விட்டுவிட்டு வீட்டுக்கு வராதே என்று 2015ஆம் ஆண்டு அவர் சொல்லியிருந்தார்.
+Parliamentarian Rohitha Abeygunawardena, who participated in a decision at a decision that the Sri Lanka PA would not support President Ranil Wickremesinghe in the presidential election, announced that he would support President Ranil.
 
-ஆனால் இந்த முறை, மகனே, போய் ரணிலை ஜனாதிபதியாக வெற்றிபெற செய்வதற்கான வேலையைச் செய்யுமாறு கூறினார். அதனால்தான் இந்த முடிவை எடுத்தேன் என்றார்.
+He has also revealed the reason for his decision. He was speaking at a public meeting in Kalutara.
+
+“My mother is 87 years old. In 2015, Son had said that he would not leave Mr. Mahinda and come home.
+
+But this time, the son went and asked Ranil to do the job of winning the president. That is why I made this decision.
 
 ◼️
 
 [Data](articles/5a60d31c.json)
+
+[Extended Data](ext_articles/5a60d31c.ext.json)
 
 ---
 
@@ -245,6 +297,26 @@ He is the second, reporting his personal best time. 9.81 was able to give a skil
 [Data](articles/e55c9098.json)
 
 [Extended Data](ext_articles/e55c9098.ext.json)
+
+---
+
+### முல்லைத்தீவில் 5 கடைகளையும் கோவில் உண்டியலையும் உடைத்துத் திருடிய சிறுவன் உள்ளிட்ட இருவர் கைது!
+
+*2024-08-05 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190288) · `ta`
+
+முல்லைத்தீவு புதுக்குடியிருப்பில் ஐந்து கடைகளையும் கோவிலையும் உடைத்துத் திருடிய குற்றச்சாட்டில்  இருவர்  புதுக்குடியிருப்பு பொலிஸாரால்  நேற்று ஞாயிற்றுக்கிழமை (04)  கைது செய்யப்பட்டுள்ளனர்.
+
+புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் கடைகள், ஆலய உண்டியல்  உடைத்து திருடப்பட்ட சம்பவங்கள் அண்மைய நாட்களாக தொடர்ச்சியாக  இடம்பெற்று வருகின்றது.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு சந்திக்கு அண்மையில் அமைந்துள்ள ஒரு கடை, வைத்தியசாலைக்கு முன்பாக அமைந்துள்ள ஒரு கடை , மந்துவில்லில் உள்ள ஒரு கடை, காமன்ஸ் அருகே ஒரு கடை, செம்மண்குன்றில் ஒரு கடை என  ஐந்து கடைகளும்  புதுக்குடியிருப்பு நாகதம்பிரான் ஆலயத்தின் உண்டியலும்  உடைக்கப்பட்டு பணமும் பொருட்களும் திருடப்பட்டுள்ளன.
+
+புதுக்குடியிருப்பு பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாடுகளையடுத்து  புதுக்குடியிருப்பு பொலிஸ் நிலைய பொறுப்பதிகாரி எம்.பி.ஆர்.ஹெரத் தலைமையிலான பொலிஸார் குறித்த கைது  நடவடிக்கையை மேற்கொண்டிருந்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடம் இருந்து  திருடப்பட்ட 46,230 பணமும் , திருடப்பட்ட பொருட்களும் கைப்பற்றப்பட்டுள்ளன.
+
+...
+
+[Data](articles/47314b22.json)
 
 ---
 
@@ -434,6 +506,8 @@ In equities, Colombo’s All Share Price Index opened 10.67 points higher at 11,
 
 [Data](articles/58ee72ba.json)
 
+[Extended Data](ext_articles/58ee72ba.ext.json)
+
 ---
 
 ### Sri Lanka online tourist visa re-starting decision soon
@@ -455,6 +529,8 @@ The controversial deal was awarded without public tender and led to higher fees 
 ...
 
 [Data](articles/95755077.json)
+
+[Extended Data](ext_articles/95755077.ext.json)
 
 ---
 
@@ -508,17 +584,23 @@ Also in the video, “There was no terrible event on the plane. Nobody is uncons
 
 ---
 
-### පොඩි හාමුදුරුවන්ගේ ආදාහන පූජෝත්සවයට විශේෂ රථ වාහන සැලැස්මක්
+### Special traffic plan for the cremation of the little monkey
 
 *2024-08-05 09:06:19* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-හාමුදුරුවන්ගේ-ආදාහන-පූජෝත්සවයට-විශේෂ-රථ-වාහන-සැලැස්මක්/11-411196) · `si`
 
-අතිපූජ්‍ය ගලබොඩ ඥාණිස්සර නාහිමිපාණන්ගේ අවමංගල පූජෝත්සවය වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය දන්වයි.
+A special traffic plan is in effect today from 2:00 pm to 8:00 pm due to the funeral of the Most Venerable Galaboda Gnanissara Thera. The Sri Lanka Police have made this announcement.
 
-මෙම ආදාහන පූජෝත්සවය සඳහා විශාල ජනකායක් සහභාගී වනු ඇතැයි අපේක්ෂා කරන හෙයින් ආදාහන පූජෝත්සවය පැවැත්වෙන අද (05) දිනයේ පස්වරු 2.00 සිට රාත්‍රී 8.00 දක්වා කාලය තුළ විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කෙරෙන බව ශ්‍රී ලංකා පොලීසිය මහජනතාව වෙත නිවේදනය කර සිටී.
+🟩
+
+A special traffic plan is being implemented for the funeral of the Most Venerable Galaboda Gnanissara Thera.
+
+The Sri Lanka Police has announced that a special traffic plan will be implemented today from 2.00 pm to 8.00 pm today (05).
 
 ◼️
 
 [Data](articles/7c9fc6c2.json)
+
+[Extended Data](ext_articles/7c9fc6c2.ext.json)
 
 ---
 
@@ -2207,93 +2289,5 @@ The man is released on police bail and is to be produced before the Negombo Magi
 [Data](articles/169e1d5e.json)
 
 [Extended Data](ext_articles/169e1d5e.ext.json)
-
----
-
-### Virat Kohli appears to another special shop
-
-*2024-08-04 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199559) · `si`
-
-Virat Kohli aims to surpass 256 runs in his next match, potentially becoming the third Indian batsman to achieve over 14,000 runs in International ODI cricket, after Sachin Tendulkar and Kumar Sangakkara. With 13,872 runs, including 50 centuries and 72 fifties, Kohli stands close to this milestone.
-
-🟩
-
-Indian batsman Virith Ricei Rathmaki Virith Cali wants 128 more than 128 runs.
-
-According to cricket critics, he has the opportunity to pass this unique shop in Sri Lanka today or in the final.
-
-Only two batsmen have been operating the 14,000 runs in the International ODI cricket.
-
-Sachin Tendulkar (18426) was able to pass the shop first.
-
-The shop then passed by Kumar Sangakkara (14234) in Sri Lanka.
-
-In 2008, Kohli, which entered the international ODI cricket, has played 294 runs for India, including the match today (04).
-
-Koli's batting reports claimed by 13,872 to date, 50 centuries and 72 fifties included.
-
-The first and only batsman recorded 50 one-day centuries.
-
-However, no batsman of the current one-day front of the Cooley has not been shopped or passed.
-
-Indian leader Rohit Sharma, near the nearby or day, and he owns 10,480 one-day runs.
-
-◼️
-
-[Data](articles/badcd44b.json)
-
-[Extended Data](ext_articles/badcd44b.ext.json)
-
----
-
-### Hakeem Action: A man out of one
-
-*2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹக்கீம்-அதிரடி-ஒருவரை-வெளியேற்றினார்/150-341570) · `ta`
-
-Rauf Hakeem, leader of the Sri Lanka Muslim Congress, faces expulsion over Facebook photo allegations. He skips two high-level meetings as a result, expressing no intention to attend future sessions.
-
-🟩
-
-The Sri Lanka Muslim Congress's high -level meeting was held on Sunday (4) in Darussalat, the party headquarters.
-
-Party leader Rauf Hakeem has announced that he will be expelled from the crowd due to allegations of uploading the pictures on the Facebook page.
-
-Party leader Hakeem said he would not participate in the two sessions of the high -level meeting and the next high -level meeting of Yahihan as an immediate move.
-
-The leader said that the party was praised for the role of Yahoo!
-
-Jaiyyagan left the leader's decision, shook hands with him and exemplary.
-
-◼️
-
-[Data](articles/4f0cd86f.json)
-
-[Extended Data](ext_articles/4f0cd86f.ext.json)
-
----
-
-### Hakeem Action: A man out of one
-
-*2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹக்கீம்-அதிரடி-ஒருவரை-வெளியேற்றினார்/175-341570) · `ta`
-
-Rauf Hakeem, leader of the Sri Lanka Muslim Congress, announced his expulsion from the party due to allegations of criticizing it on Facebook. He decided not to attend upcoming high-level meetings, highlighting the party's role in Yahoo! Jaiyyagan expressed support for Hakeem's decision.
-
-🟩
-
-The Sri Lanka Muslim Congress's high -level meeting was held on Sunday (4) in Darussalat, the party headquarters.
-
-Party leader Rauf Hakeem has announced that he will be expelled from the crowd due to allegations that the films have been uploaded on Facebook and have been accused of criticizing the party in the face of the party.
-
-Party leader Hakeem said he would not participate in the two sessions of the high -level meeting and the next high -level meeting of Yahihan as an immediate move.
-
-The leader said that the party was praised for the role of Yahoo!
-
-Jaiyyagan left the leader's decision, shook hands with him and exemplary.
-
-◼️
-
-[Data](articles/7d67ebaf.json)
-
-[Extended Data](ext_articles/7d67ebaf.ext.json)
 
 ---

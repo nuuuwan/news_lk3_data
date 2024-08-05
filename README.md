@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 11:20:55**
+As of **2024-08-05 11:36:17**
 
 ## Newspaper Stats
 
-*Scraped **39,035** Articles*
+*Scraped **39,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,250
 economynextcom | 2,352
 dailyftlk | 2,506
 adalk | 3,577
-adaderanalk | 4,524
+adaderanalk | 4,526
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,882
 virakesarilk | 6,178
@@ -26,29 +26,71 @@ adaderanasinhalalk | 6,594
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,034 (100.0%) of 39,035 articles have been extended.
+39,035 (100.0%) of 39,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### බ්‍රිතාන්‍ය යුද පිටියක් වෙයි
+### Accepting postal voting applications ends tonight
+
+*2024-08-05 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101001/accepting-postal-voting-applications-ends-tonight) · `en`
+
+The deadline for the accepting of applications to cast postal votes ends today (05).
+
+The Election Commission earlier announced that the duly filled applications must be handed over to District Returning Officers through the District Election Office address on or before August 05.
+
+The election regulatory body announced that the application forms to be completed for availing the postal voting facility can be obtained free of charge from the places where the voters’ lists are displayed, from the district election offices and also from the website of the Election Commission.
+
+The applications must be received by the respective District Election Offices before 12.00 midnight today, and mere delivery of applications by post on that day is not a reason for acceptance of applications, the Election Commission said.
+
+The applications received after the deadline will be rejected without consideration, as per the Election Commission.
+
+...
+
+[Data](articles/155ab3de.json)
+
+---
+
+### Kandy Esala Perahera commences
+
+*2024-08-05 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101000/kandy-esala-perahera-commences-) · `en`
+
+The Sri Dalada Esala Perahera of the Scared Temple of the Tooth Relic in Kandy commenced with the ‘Kap Situweema’ ceremony this morning (Aug 05).
+
+The ‘Kap Situweema’ ceremony of ‘Natha’, ‘Vishnu’, ‘Kataragama’ and ‘Paththini’ dewalayas was held at the auspicious time of 04.10 a.m. today.
+
+The first Kumbal Perahera is slated to take to streets on August 10, following the 5-day internal procession of ‘Satara Maha Dewalayas’, Diyawadana Nilame of Kandy Pradeep Nilanga Dela said.
+
+◼️
+
+[Data](articles/e20a2a30.json)
+
+---
+
+### A British warfield is
 
 *2024-08-05 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199577) · `si`
 
-එංගලන්තය පුරා පැතිරයන කෝලාහල සම්බන්ධයෙන් ගතයුතු පියවර සාකච්ඡා කිරීම සඳහා අද (05) බ්‍රිතාන්‍ය අගමැති කාර්යාලයේදී විශේෂ හමුවක් කැඳවා ඇති බව එරට මාධ්‍ය වාර්තා කරයි.
+A special meeting at the British PM's office discusses escalating riots across England, including attacks on police and a hotel in Rotherham by migrants. Clashes have occurred in various locations, leading to arrests and one fatality.
 
-සංක්‍රමණික ජන කොටස් වලට එරෙහිව සති අන්තයේ එරට ප්‍රදේශ කිහිපයක විරෝධතා පැවති අතර එහිදී පොලිස් නිලධාරීන් සමග ගැටුම් ඇතිකරගත් 150 දෙනෙක් පමණ අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-මීට දින කිහිපයකට ඉහතදී 17 හැවිරිදි තරුණයෙක් විසින් පිහියකින් ඇන කුඩා ගැහැණු දරුවන් තිදෙනෙක් ඝාතනය කර තිබූ අතර එම සිද්ධියෙන් අනතුරුව එරට තුළ දැඩි මුස්ලිම් විරෝධයක් මතුවෙමින් පවතී.
+A special meeting has been convened at the British Prime Minister today to discuss the steps that should be taken against the side riots across England.
 
-විරෝධතාකරුවන් විසින් සරණාගතයින් පිරිසක් රඳවා සිටින රොතර්හැම් හි හෝටලයකට ප්‍රහාරයක් එල්ලකර තිබුණි.
+Several clashes erupted with the police officers have been arrested in several areas against the migratory communities.
 
-ටැම්වර්ත්, මිඩ්ල්ස්බ්‍රො, බෝල්ටන්, හල් සහ වේමවුත් යන ප්‍රදේශවලද කෝලාහල ඇතිවූ බව සඳහන් ය.
+A 17-year-old girl had been killed by a 17-year-old man by a 17-year-old girl.
+
+The protesters attacked a hotel in Rotherham, who is detained by a group of refugees.
+
+Talksbrow, Middlesbro, Middlesbrows, had also occurred in Middlesbro, Balton, Hal and Weamawathup areas.
 
 ◼️
 
 [Data](articles/cd070de6.json)
+
+[Extended Data](ext_articles/cd070de6.ext.json)
 
 ---
 
@@ -2263,45 +2305,5 @@ The residents of the estate said that the residents of the estate said that the 
 [Data](articles/8120cc54.json)
 
 [Extended Data](ext_articles/8120cc54.ext.json)
-
----
-
-### Support with Tamil Progressive Alliance
-
-*2024-08-04 17:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-முற்போக்கு-கூட்டணியுடன்-ஆதரவு-சஜித்துக்கு/175-341569) · `ta`
-
-The Upcountry People's Front will back opposition leader Sajith Premadasa and the Tamil Progressive Alliance in the presidential election. Their decision was announced by Veluchami Radhakrishnan in Hatton.
-
-🟩
-
-The Upcountry People's Front has decided to support opposition leader Sajith Premadasa with the Tamil Progressive Alliance in the upcoming presidential election.
-
-Veluchami Radhakrishnan, the leader of the Upcountry People's Front, made the announcement at a media briefing held in Hatton today.. Remble
-
-◼️
-
-[Data](articles/2aba0e89.json)
-
-[Extended Data](ext_articles/2aba0e89.ext.json)
-
----
-
-### Support of Tamil Progressive Alliance
-
-*2024-08-04 17:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-முற்போக்கு-கூட்டணியின்-ஆதரவு-சஜித்துக்கு/175-341569) · `ta`
-
-The Upcountry People's Front will back opposition leader Sajith Premadasa in the presidential election, aligning with the Tamil Progressive Alliance. This decision was announced by Veluchami Radhakrishnan in Hatton.
-
-🟩
-
-The Upcountry People's Front has decided to support opposition leader Sajith Premadasa in the upcoming presidential election with the Tamil Progressive Alliance.
-
-Veluchami Radhakrishnan, the leader of the Upcountry People's Front, made the announcement at a media briefing held in Hatton today.. Remble
-
-◼️
-
-[Data](articles/56029f04.json)
-
-[Extended Data](ext_articles/56029f04.ext.json)
 
 ---

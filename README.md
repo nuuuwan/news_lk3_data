@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 12:21:16**
+As of **2024-08-05 12:36:17**
 
 ## Newspaper Stats
 
-*Scraped **39,049** Articles*
+*Scraped **39,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,250
 economynextcom | 2,354
 dailyftlk | 2,506
 adalk | 3,579
-adaderanalk | 4,527
+adaderanalk | 4,528
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,884
 virakesarilk | 6,180
@@ -26,49 +26,83 @@ adaderanasinhalalk | 6,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,046 (100.0%) of 39,049 articles have been extended.
+39,049 (100.0%) of 39,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### බොර තෙල් මිල වෙනස්වෙයි
+### Club Wasantha’s son summoned before court
+
+*2024-08-05 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101003/club-wasanthas-son-summoned-before-court) · `en`
+
+The ten suspects who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been produced before the Kaduwela Magistrate’s Court today (05).
+
+Meanwhile, the son of the murdered businessman, the OIC of the Western Province South Crimes Division, representatives from the Attorney General’s Department and the individual who took charge of Wasantha’s body are scheduled to appear before the court for legal proceedings, as per a court order.
+
+In the meantime, Sri Lanka Police has sought public assistance in tracking down three suspects in relation to the incident. Police have also released photographs and details of the three suspects in question.
+
+Police have arrested ten suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
+
+...
+
+[Data](articles/9d15a3d4.json)
+
+---
+
+### Crude oil prices will change
 
 *2024-08-05 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199580) · `si`
 
-ලෝක වෙළෙඳපොළෙහි බොර තෙල් මිල අද (05) අඩුවී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Crude oil prices fell slightly today, with Brent down to $76.77 and West Texas Intermediate to $73.39, marking the lowest since January due to market tensions, particularly in the Middle East.
 
-බ්‍රෙන්ට් බොර තෙල් බැරලයක මිල ඩොලර් 76.77 දක්වාද වෙස්ට් ටෙක්සාස් ඉන්ටර්මීඩියේට් බොර තෙල් බැරලයක මිල ඩොලර් 73.39ක් දක්වාද අඩුවී තිබුණි.
+🟩
 
-පසුගිය සිකුරාදා බ්‍රෙන්ට් බැරලයක මිල 3%කින් පමණ අඩුවූ අතර එය ජනවාරි මාසයෙන් පසු වාර්තා වූ අඩුම මිල විය.
+International media reports that crude oil prices have been reduced today (05) in the world market.
 
-විශේෂයෙන්ම මැද පෙරදිග වර්ධනය වෙමින් පවතින ගැටුම්කාරී තත්ත්වය හේතුවෙන් බොර තෙල් සැපයුමට බාධා ඇතිවේ යැයි වෙළෙඳපොළ පාර්ශ්ව තුළ යම් චකිතයක් නිර්මාණය වෙමින් ඇති බව සඳහන් ය.
+Brent crude oil was reduced to $ 76.77 and the price of West Texas Intermadeiate crude to $ 73.39.
+
+Last Friday, a barrel of Brent was about 3% and it was the lowest price recorded after January.
+
+The market states that somehow is being created in the marketplace, especially due to the growing conflict in the Middle East.
 
 ◼️
 
 [Data](articles/c75afeb2.json)
 
+[Extended Data](ext_articles/c75afeb2.ext.json)
+
 ---
 
-### ஷேக்ஹசீனா பதவி விலகவேண்டும் - தலைநகரை நோக்கி  பாரிய ஆர்ப்பாட்ட பேரணிக்கு மாணவர்கள் திட்டம் - நேற்றைய வன்முறைகளில் பங்களாதேசில் 100க்கும் அதிகமானவர்கள் பலி
+### Sheikh Sina should resign - Students plan for massive protest march towards the capital
 
 *2024-08-05 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190305) · `ta`
 
-பங்களாதேஸ் பிரதமர் ஷேக் ஹசீனா பதவி விலகவேண்டும் என வலியுறுத்தும் நோக்குடன் தலைநகர் டாக்காவை நோக்கி பாரிய ஆர்ப்பாட்ட பேரணியொன்றை முன்னெடுக்கவுள்ளதாக  அறிவித்துள்ளனர்.
+In response to government violence, students in Bangladesh are organizing a large protest march to Dhaka. The move comes after over 100 deaths in recent unrest, with the coordinator calling for an end to what they see as the government's oppression. This protest is part of a broader non-cooperation movement against PM Sheikh Hasina's administration, which has seen widespread demonstrations and clashes.
 
-நேற்று இடம்பெற்ற வன்முறைகளில் 100க்கும் அதிகமானவர்கள் பலியாகியுள்ள நிலையிலேயே மாணவர்கள் தலைநகரை நோக்கி பாரிய ஆர்ப்பாட்ட பேரணியை முன்னெடுக்க திட்டமிட்டுள்ளனர்.
+🟩
 
-அரசாங்கம் பல மாணவர்களை கொலை செய்துவிட்டது இறுதிவிடைக்கான தருணம் வந்துவிட்டது என ஆர்ப்பாட்ட ஒருங்கிணைப்பாளர் அசிவ்மஹ்மூட் முகநூல் பதிவொன்றில் தெரிவித்துள்ளார்.
+Bangladesh Prime Minister Sheikh Hasina has announced that a massive demonstration rally will be held towards the capital, Dhaka.
 
-அனைவரும் டாக்காவில் அணிதிரள்வோம் குறிப்பாக டாக்காவை சுற்றியுள்ள பகுதிகளில் இருந்து வருவோம்,என தெரிவித்துள்ள அவர் டாக்காவிற்கு வாருங்கள் வீதிகளில் நிலையெடுங்கள் என வேண்டுகோள் விடுத்துள்ளார்.
+Students are planning to carry out a massive demonstration rally towards the capital as more than 100 people have been killed in yesterday's violence.
 
-ஞாயிற்றுக்கிழமை இடம்பெற்ற வன்முறைகளில் 91 பேர் கொல்லப்பட்டுள்ளதுடன் மிகப்பெருமளவானவர்கள் காயமடைந்துள்ளனர் என ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது.
+The government has murdered many students and the end of the time has come to the end, the demonstration coordinator Asivmahmood said in a record.
 
-தலைநகரில் ஆர்ப்பாட்டக்காரர்கள் இராணுவகவசவாகனத்தில்  பங்களாதேஸ் கொடியை ஏந்தியவாறு செல்வதை காண்பிக்கும் படங்கள் வீடியோக்கள் வெளியாகியுள்ளன.
+He said that everyone would mobilize in Dhaka, especially from the surrounding areas of Dhaka.
+
+91 people have been killed in the violence on Sunday and the heavily injured, according to Reuters.
+
+Videos have been revealed in the capital city that demonstrates the Bangladesh flag in the military.
+
+The AWP said yesterday that the soldiers and the police did not come forward to prevent the protesters as last month.
+
+The violence has taken place as students have launched a non -cooperation struggle against Prime Minister Sheikh Hasina's government.
 
 ...
 
 [Data](articles/62bdb221.json)
+
+[Extended Data](ext_articles/62bdb221.ext.json)
 
 ---
 
@@ -254,19 +288,29 @@ Talksbrow, Middlesbro, Middlesbrows, had also occurred in Middlesbro, Balton, Ha
 
 ---
 
-### විශ්‍රාමිකයන්ගේ වැටුප් විෂමතා විසඳීමට අදාළ වාර්තාව ජනපතිට
+### President visits to resolve the salary anomalies of pensioners
 
 *2024-08-05 10:52:02* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ගේ-වැටුප්-විෂමතා-විසඳීමට-අදාළ-වාර්තාව-ජනපතිට/11-411197) · `si`
 
-විශ්‍රාමික රාජ්‍ය සේවකයන්ගේ වැටුප් විෂමතා විසඳීමට අදාළව සකස් කළ වාර්තාව ජනාධිපතිවරයා වෙත යොමු කිරීමට කටයුතු කළ බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+President addresses salary issues affecting 100,000 retirees from public service (2016-2020). State Minister Dr. Ranjith Siyambalapitiya mentions a report on anomalies and a specialist committee led by the President to expedite solutions. The minister emphasizes the need to rectify injustices faced by retirees since 2016, highlighting discussions with the Joint Public Servants' Joint Organization and the submission of a finance ministry report to the President.
 
-වර්ෂ 2016 -2020 අතර කාලය තුළ රාජ්‍ය සේවයෙන් විශ්‍රාම ගිය සේවකයන් එක් ලක්ෂ අටදහසක් පමණ සිටින බවත්, ඔවුන් දැවැන්ත විශ්‍රාම වැටුප් විෂමතාවකට ගොදුරුව සිටින බවත් පෙන්වා දුන් අමාත්‍යවරයා, ජනාධිපතිවරයා  විසින් ලබා දී ඇති උපදෙස් මත මේ සියල්ල ඉතා සියුම්ව සොයා බලමින් විශ්‍රාමලත් රාජ්‍ය  සේවකයින්ගේ වැටුප් විෂමතාව ඉවත් කිරීමට ස්ථිරසාර කඩිනම්  විසඳුම් ලබාදීමට අපේක්ෂා කරන බව සඳහන් කළේය.
+🟩
 
-ජනාධිපතිවරයාගේ උපදෙස් පරිදි උදය සෙනවිරත්න මහතාගේ ප්‍රධානත්වයෙන් පත්කරන ලද විශේෂඥ කමිටුව විසින් වැටුප් විෂමතා ඉවත් කිරීමට අදාළ විසඳුම් සෙවීම සඳහා කරුණු සොයා බලමින් සිටින බවත් ඉදිරි අයවැය තුළින් ඒ සඳහා ස්ථිරසාර විසඳුම් ලබාදීමට ඒ අනුව හැකි වනු ඇති බවත් අමාත්‍යවරයා වැඩිදුරටත් පෙන්වා දුන්නේය.
+State Minister Dr. Ranjith Siyambalapitiya says that the report prepared by the Salary Anomalies of Retired Public Workers.
 
-...
+The Minister pointed out that there are about 100,000 employees who have retired from the public service between the 2016 -2020, the Minister removes all of these retired public servants' salary anomalyIt was stated that he is expected to provide the permanent expeditious solutions to do.
+
+The Minister further pointed out that the specialist committee headed by the President on the instructions of the President.
+
+The Minister pointed out that the retired public servants who have had the tremendous injustice of retired public servants in the year 2016-2016 that the retired public servants had been retired over the year 2016.
+
+The Minister said that he had discussed the matter with the Joint Public Servants' Joint Organization and the President said that the President had made a report from the Ministry of Finance and sent the report to the President.
+
+◼️
 
 [Data](articles/132841a0.json)
+
+[Extended Data](ext_articles/132841a0.ext.json)
 
 ---
 
@@ -2269,29 +2313,5 @@ Members of Parliament Wimal Weeradesh, Udaya Gammanpila, Udaya Gammanpila, Udaya
 [Data](articles/8448265d.json)
 
 [Extended Data](ext_articles/8448265d.ext.json)
-
----
-
-### 25 parties contracted to Sajith's support
-
-*2024-08-04 17:47:08* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-සහායට-පක්ෂ-25ක්-ගිවිසුම්ගත-වෙයි/11-411187) · `si`
-
-Twenty-five parties, including Humanitarian People's Alliance led by Lakem Saman Wijewickrama, have pledged support for Sajith Premadasa in the upcoming presidential election. This decision was made during a critical discussion held on August 2nd in Colombo with the Leader of the Opposition. It's believed that this broad support will help Sajith Premadasa secure victory in the election.
-
-🟩
-
-Humanitarian People's Alliance Lakem Saman Wijewickrama said that about twenty-five parties including his party in the Presidential Election to support Mr. Sajith Premadasa in the presidential election.
-
-He said the criterious discussion was held at the Leader of the Opposition in Colombo on August 2nd.
-
-He added that Sajith Premadasa and other party leader Sajith Premadasa will win the presidential election.
-
-Accordingly, after the contracted by August, Mr. Piyanha said that Sajith was committed to winning Mr. Sajith from supporting the party organizers, organizers of the party.
-
-◼️
-
-[Data](articles/6297e84d.json)
-
-[Extended Data](ext_articles/6297e84d.ext.json)
 
 ---

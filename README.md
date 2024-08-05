@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 20:36:18**
+As of **2024-08-05 20:55:02**
 
 ## Newspaper Stats
 
-*Scraped **39,130** Articles*
+*Scraped **39,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,506
 adalk | 3,593
 adaderanalk | 4,544
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,902
+tamilmirrorlk | 4,903
 virakesarilk | 6,185
 adaderanasinhalalk | 6,615
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,128 (100.0%) of 39,130 articles have been extended.
+39,128 (100.0%) of 39,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### சிறுவனை வீதியில் இழுத்துச் சென்று தாக்கிய நபர் கைது
+
+*2024-08-05 20:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-வீதியில்-இழுத்துச்-சென்று-தாக்கிய-நபர்-கைது/175-341643) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட கொழும்பு வீதி நாவலடி பகுதியில் நேற்று சிறுவன் ஒருவனை காபர்ட் வீதியில் இழுத்துச் சென்று தாக்கிய குற்றச்சாட்டில் நபரொருவர் இன்று (5) கைது செய்யப்பட்டுள்ளார்.
+
+கரேஜ் நடத்தும் உரிமையாளர் ஒருவர் அவரது கரேஜ்ஜில் சிறுவன் திருடியதாக குற்றம் சுமத்தி இரும்புக் கம்பியை கையில் வைத்தவாறு சிறுவனை காபர்ட் வீதியால் இழுத்துச் செல்லும் காட்சியை அவ் வீதியால் வந்த நபரொருவர் கைபேசியில் வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவேற்றம் செய்துள்ளார்.
+
+இந்நிலையில், சிறுவன் சிகிச்சைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், சிறுவனை தாக்கிய குற்றச்சாட்டில் கிரேஜ் உரிமையாளர் வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/89d4c690.json)
+
+---
 
 ### ඩකා ගුවන්තොටුපොළ තාවකාලිකව වැසෙයි
 
@@ -2285,31 +2301,5 @@ The unrest, which has prompted the government to shut down internet services, is
 [Data](articles/a2a9400e.json)
 
 [Extended Data](ext_articles/a2a9400e.ext.json)
-
----
-
-### Election Commission Action: Read carefully
-
-*2024-08-05 10:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-அதிரடி-கவனமாக-வாசியுங்கள்/175-341608) · `ta`
-
-The Election Commission warns against false reports about voting procedures. Voters must use their designated polling stations as listed on their official voter cards. The commission urges the public to ignore misleading information and to vote responsibly at their assigned polling locations.
-
-🟩
-
-During the presidential election on 21.09.2012, there is an erroneous media and social media that includes any official resolution of the Election Commission, which has been able to vote at any polling station in the country.
-
-He can vote during the referendum by coming to the polling station, which is registered in the voting of the polling district, and by promoting his vote in the office of the Postal Voting Officer's Office.
-
-An official voter card mentioned in the name of the charioteer's name, voting vote, the date of the election, the date and the time of the election.
-
-There will be no chance of voting at a polling station at the referendum mentioned in it,
-
-Therefore, the Election Commission will announce to all the media that the official announcement of the Election Commission is to be released to all the media and all the voters to go to the polling station mentioned on its official voter card, rather than cheating on such unrealistic news.
-
-◼️
-
-[Data](articles/886c3e86.json)
-
-[Extended Data](ext_articles/886c3e86.ext.json)
 
 ---

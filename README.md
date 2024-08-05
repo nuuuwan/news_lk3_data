@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 23:20:50**
+As of **2024-08-05 23:36:14**
 
 ## Newspaper Stats
 
-*Scraped **39,158** Articles*
+*Scraped **39,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,363
 dailyftlk | 2,506
-adalk | 3,595
+adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,905
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,156 (100.0%) of 39,158 articles have been extended.
+39,158 (100.0%) of 39,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ஐக்கிய மக்கள் சக்தியின் வட மாகாண பிரதான அமைப்பாளராக உமாச்சந்திரா பிரகாஷ் நியமனம் !
+### Umachandra Prakash appointed as the Chief Organizer of the Northern Province of the United People's Power
 
 *2024-08-05 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190371) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் வட மாகாண பிரதான அமைப்பாளராக உமாச்சந்திரா பிரகாஷ் இன்று திங்கட்கிழமை (5) சஜித் பிரேமதாஸவினால் நியமிக்கப்பட்டுள்ளார்.
+Umachandra Prakash, appointed by Sajith Premadasa, will lead the United People's Power Party's efforts in the Northern Province.
 
-இதன் பிரகாரம் வட மாகாணத்துக்கான ஐக்கிய மக்கள் சக்தி கட்சிக் கட்டமைப்பு தொடர்பான பணிகள் மற்றும் கடமைகளை நிறைவேற்றுவதற்கான தலைமை மற்றும் பொறுப்பு உமாச்சந்திரா பிரகாஷுக்கு வழங்கப்பட்டுள்ளது.
+🟩
+
+Umachandra Prakash has been appointed as the Chief Organizer of the United People's Power by Sajith Premadasa on Monday (5).
+
+Accordingly, Umachandra Prakash has been given the responsibility and responsibility of the United People's Power Party's structure for the Northern Province.
 
 ◼️
 
 [Data](articles/d863cb1d.json)
 
+[Extended Data](ext_articles/d863cb1d.ext.json)
+
 ---
 
-### தமிழ் பொதுவேட்பாளருக்கு ரெலோ ஆதரவு வழங்கினாலும் எனது ஆதரவு இலலை: வன்னி மக்களின் மனங்களை அறிந்தே இந்த முடிவு - வினோ எம்.பி
+### Even though Relo supports the Tamil general candidate, my support is not:
 
 *2024-08-05 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190370) · `ta`
 
-தமிழ் பொதுவேட்பாளருக்கு ரெலோ ஆதரவு வழங்கினாலும் எனது ஆதரவு இலலை. வன்னி மக்களின் மனங்களை அறிந்தே இந்த முடிவு என தமிழ் ஈழ விடுதலை இயக்கத்தின் (ரெலோ) வன்னி மாவட்ட நாடாளுமன்ற உறுப்பினர் வினோநோதராதலிங்கம் தெரிவித்துள்ளார்.
+Relo supports the Tamil general candidate but opposes the idea due to lack of support among the Vanni people. The Tamil National Party, including the Tamil National Alliance (TNA), receives support, but the Tamil vote is divided, potentially affecting the general candidate's success.
 
-தமிழ் பொது வேட்பாளர் தொடர்பில் தங்கள் நிலைபாடு என்ன என ஊடகவியலாளர் ஒருவர் திங்கட்கிழமை (05.08) எழுப்பிய கேள்விக்கு பதில் அளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார். அவர் தொடர்ந்தும் தெரிவிக்கையில்,
+🟩
 
-ரெலோ கட்சி பொது வேட்பாளரை ஆதரிக்கின்றது. ஆனால் அதற்கு நான் உடன்பாடில்லை. அது ஒரு விசப் பரீட்சை. நான் வன்னி மக்களின் கருத்துகளை கேட்டறிந்துள்ளேன். அவர்களது நிலைப்பாடு தான் எனது நிலைப்பாடும். பொது வேட்பாளருக்கு வன்னியில் ஆதரவு இல்லை.
+Relo supports the Tamil public author. Vannodharadalingam of the Tamil Eelam Liberation Movement (Relo) of the Tamil Eelam Liberation Movement (Relo) said that this decision was the decision of the people of the Vanni people.
 
-பொதுவேட்பாளர் என்ற ஒன்று வெல்லப்போவதில்லை. சமஸ்டி உள்ளிட்ட தமிழ் மக்களின் அபிலாசைகளை முன்னிறுத்தி பொது வேட்பாளரை நிறுத்துகிறார்கள். ஆனால் அவர் குறைந்த வாக்குகளை பெறுகின்ற போது மக்களது அபிலாசைகளுக்கு தமிழ் மக்களது அங்கீகாரம் கிடைக்கவில்லை என்ற ஒரு தோற்றப்பாடு ஏற்படும்.
+He said this while responding to a question raised by a journalist on Monday (05.08) as to what their position was about the Tamil general candidate.. As he continues,
+
+Relo party supports common candidate. But I do not agree. It is a sapling exam. I have heard the views of the Vanni people. Their position is my position. The general candidate has no support in the Vanni.
+
+The general candidate is not going to win. The Tamil people, including Samasti, praise the aspirations of the Tamil people. But when he gets less votes, there will be a look that the aspirations of the people are not recognized by the Tamil people.
 
 ...
 
 [Data](articles/0ec67436.json)
+
+[Extended Data](ext_articles/0ec67436.ext.json)
 
 ---
 
@@ -749,6 +761,24 @@ Amid subsequent political moves, the protesters entered the Prime Minister's off
 [Data](articles/cc36e724.json)
 
 [Extended Data](ext_articles/cc36e724.ext.json)
+
+---
+
+### වතු කම්කරු වැටුප් වැඩි කිරීමට එරෙහි පෙත්සම විභාගයට
+
+*2024-08-05 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-කිරීමට-එරෙහි-පෙත්සම-විභාගයට/11-411215) · `si`
+
+වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට රජයේ තීරණයට එරෙහිව වතු සමාගම් ගොනු කර ඇති පෙත්සම විභාග කිරීමට අභියාචනාධිකරණය අද (05දා) තීරණය කළේය.
+
+වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් නිකුත් කළ ගැසට් නිවේදනය ඉවත් කර ඇති හෙයින් පෙත්සම පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් නැතැයි කම්කරු අමාත්‍යවරයා වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දුන්නත් බලන්ගොඩ වැවිලි සමාගම ඇතුළු වතු සමාගම් 21 වෙනුවෙන් පෙනී සිටි නීතිඥවරයා ගැසට් නිවේදනය ඉල්ලා අස්කර ගත්තත් ඒ සම්බන්ධයෙන් තවත් නඩු ගණනාවක් ඇති හෙයින් අදාළ ගැසට් නිවේදනය බලරහිත කරන්නැයි කළ ඉල්ලීමක් පිළිගනිමින් පෙත්සම විභාග කිරීමට අභියාචනාධිකරණය තීරණය කළේය.
+
+බලන්ගොඩ වැවිලි සමාගම ඇතුළු වතු සමාගම් 21 ගොනු කර තිබූ පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් කම්කරු අමාත්‍යවරයා ඇතුළු පිරිසන් නම් කර ඇත.
+
+පෙත්සම කැඳවූ අවස්ථාවේදී කම්කරු අමාත්‍යවරයා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා කරුණු දක්වමින් වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් නිකුත් කළ ගැසට් නිවේදනය මේ වන විට ඉවත් කර ඇති බවත් ඒ අනුව පෙත්සම ඉදිරියට පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් නොමැති බවත් කීය.
+
+...
+
+[Data](articles/1a9dfedc.json)
 
 ---
 
@@ -2319,29 +2349,5 @@ No decision has been taken and that they can vote can only vote for the votes by
 [Data](articles/940fb22d.json)
 
 [Extended Data](ext_articles/940fb22d.ext.json)
-
----
-
-### Bangladesh protests kill 90, apparel factories shut, amid IMF backed crawling peg
-
-*2024-08-05 12:28:00* · [`economynextcom`](https://economynext.com/bangladesh-protests-kill-90-apparel-factories-shut-amid-imf-backed-crawling-peg-175227/) · `en`
-
-ECONOMYNEXT – Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation in the middle of an International Monetary Fund deal.
-
-At least 13 policemen were beaten to death and 6 Awami League men were also among the dead, Bangladesh’s Financial Express newspaper reported.
-
-Prime Minister Sheik Hasina, has called for calm as protestors called for her ouster.
-
-With internet access cut, some newspapers are not online, while others are uploading pdf versions of their editions online.
-
-Bangladesh’s Taka has been under pressure since the economy started to recover after Covid and the central bank did not allow rates to go up amid a strong recovery.
-
-The Bangladesh Taka which was around 84 to the US dollar during the crisis but started to slide as the economy recovered strongly.
-
-...
-
-[Data](articles/03ca85ff.json)
-
-[Extended Data](ext_articles/03ca85ff.ext.json)
 
 ---

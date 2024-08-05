@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 14:08:31**
+As of **2024-08-05 14:20:48**
 
 ## Newspaper Stats
 
-*Scraped **39,063** Articles*
+*Scraped **39,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 2,251
 economynextcom | 2,354
 dailyftlk | 2,506
 adalk | 3,582
-adaderanalk | 4,530
+adaderanalk | 4,533
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,888
 virakesarilk | 6,180
-adaderanasinhalalk | 6,600
+adaderanasinhalalk | 6,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,063 (100.0%) of 39,063 articles have been extended.
+39,063 (100.0%) of 39,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### Presidential Election 2024: Sarath Fonseka places deposit
+
+*2024-08-05 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101008/presidential-election-2024-sarath-fonseka-places-deposit-) · `en`
+
+Bonds have been placed on behalf of Field Marshal Sarath Fonseka today (05), to contest in the 2024 Presidential Election as an independent candidate.
+
+◼️
+
+[Data](articles/51ee96b2.json)
+
+---
+
+### Ex-JVP MP places deposit for Presidential Election
+
+*2024-08-05 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101007/ex-jvp-mp-places-deposit-for-presidential-election) · `en`
+
+Former Janatha Vimukthi Peramuna (JVP) Parliamentarian Siripala Amarasinghe has placed bonds today (05) to contest in the forthcoming Presidential Election as an independent candidate.
+
+Amarasinghe is a former Member of Parliament from Gampaha District representing the JVP.
+
+Accordingly, 15 candidates in total have placed their deposits with the Election Commission to contest for the presidency thus far.
+
+This includes six independent candidates whose names have been nominated by a voter, eight candidates from recognized political parties and one candidate from other political parties.
+
+◼️
+
+[Data](articles/5d5e9e5b.json)
+
+---
+
+### SF ඇප තියයි
+
+*2024-08-05 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199585) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා වෙනුවෙන් අද (05) ඇප මුදල් තැන්පත් කර තිබේ.
+
+වෘත්තීයවේ දී ධම්මික රත්නායක මහතා විසින් මීට සුළු වේලාවකට පෙර එම ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/9d475edb.json)
+
+---
+
+### මවකගේ පහරදීමකින් දින 42ක් වයසැති බිළිඳෙකු මරුට
+
+*2024-08-05 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199584) · `si`
+
+යාපනය අලවෙඩ්ඩි ප්‍රදේශයේ දී මවක් විසින් සිදුකළ පහරදීමකින් දින 42ක් වයසැති බිළිඳෙකු මියගොස් ඇත.
+
+පොලීසිය ප්‍රකාශ කළේ බිළිඳාගේ හිසට සහ ශරීරයේ තවත් ප්‍රදේශ කිහිපයකට සිදුව ඇති පහරදීම් සහ තැලීම් හේතුවෙන් මරණය සිදුව ඇති බවයි.
+
+මව් කිරි ලබා දීමෙන් අනතුරුව බිළිඳා සිහිසුන් වූ බව පවසමින් මව විසින් බිළිදා ව අලවෙඩ්ඩි ප්‍රාදේශීය රෝහලට ඇතුළු කර ඇති අතර පසුව වැඩිදුර ප්‍රතිකාර සඳහා තෙලිප්පලේ රෝහලට මාරුකර යවා තිබුණි.
+
+කෙසේ වෙතත් හිසට සිදුවූ පහරදීමක්, අත අඹරවා සිදුකරන ලද තැලීමක් සහ කකුලේ අස්ථි බිඳීමක් සිදුව ඇති බවට වෛද්‍ය වාර්තාවෙන් තහවුරු වී ඇති අතර හිසට සිදුව ඇති පහරදීම හේතුවෙන් බිළිඳා මියගොස් ඇති බව සිදුකළ පශ්චාත් මරණ පරීක්ෂණයෙන් අනාවරණය වී ඇත.
+
+ඒ අනුව මේ සම්බන්ධයෙන් තෙලිප්පලේ පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත්තේ බිළිඳා මව්කිරි බීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් මව විසින් පහරදීම සිදුකර ඇති බවයි.
+
+එම මරණය සම්බන්ධයෙන් 33 හැවිරිදි මව අත්අඩංගුවට ගෙන ඇති අතර තෙලිප්පලේ පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/f53954ea.json)
+
+---
+
+### Minister Prasanna Ranatunga assures govt’s stability
+
+*2024-08-05 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101006/minister-prasanna-ranatunga-assures-govts-stability) · `en`
+
+The Chief Government Whip, Minister of Housing and Urban Development Prasanna Ranatunga states that the government, which holds a simple majority, will not face issues in governance over the next two or three months.
+
+He emphasized that the Sri Lanka Podujana Peramuna (SLPP) risks being reduced to only two or three members if the party fails to make the right decisions.
+
+The minister made these remarks while speaking to the media following an event held in the Divulapitiya area on Sunday (04).
+
+◼️
+
+[Data](articles/4f267edf.json)
+
+---
 
 ### Former JVP member also fights
 
@@ -2209,119 +2291,5 @@ Police sergeant in Wattala police vehicles were banned by the acting proceedings
 [Data](articles/c65da273.json)
 
 [Extended Data](ext_articles/c65da273.ext.json)
-
----
-
-### Presidential Elections & Ranil’s Crusade For Economic Revival
-
-*2024-08-04 20:27:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-elections-ranils-crusade-for-economic-revival/) · `en`
-
-Sri Lankan electors are awaiting a change from the status quo of a sluggish and slow- moving economy towards a more seriously planned progress. With fresh memories of extreme hard time sufferings of the recent past, only palliatively handled with haphazard responses to meet emergency situations, the body politic is hopeful of a dawn of an economy progressing under a planned pursuit of a clear vision
-
-The society is going through a period of many uncertainties with a serious inequality growing and the economy slogging before heavily indebted consumers failing to fuel its forward movement with very low spending capacities. A large segment of the people is still living either well below the poverty line or marginally there. The majority are in a state of heavy deprivation. The country is yearning for a change, the priority of which should be on boosting economic growth and social well- being focusing on the need to mean the worse affected.
-
-...
-
-[Data](articles/fbd5e313.json)
-
-[Extended Data](ext_articles/fbd5e313.ext.json)
-
----
-
-### The wife of the suicide police officer who committed suicide was revealed
-
-*2024-08-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199562) · `si`
-
-In Inginiyagala and Namaloya, a police officer shot three people, including himself, before committing suicide. The victims included a woman and a child. The officer's wife was also found dead. The incident sparked discussions about police stress and handling of cases.
-
-🟩
-
-It has been revealed that the triple killings carried out in Inginiyagala and Namaloya areas have been revealed.
-
-A police officer and a woman and school age have died due to the shootings.
-
-The police officer who took the shooting had later committed suicide.
-
-Commenting on the incident says he said he had told him that the police had committed suicide.
-
-"The last days didn't talk about anything. You have to eat and eat. He read he read that all the problems of the police were put on his own. Early in the morning, the days were told yesterday that they were trying to load all the mistakes they do to take care of it ... "
-
-However, Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the 54-year-old woman and the murder was held between the lands.
-
-"Oh he didn't have that kind of problem. Shorter that piece. Then they said they called the piece of them to stop it. I told me that we had to go to their mum. He said he was to take care of with her mother. It was abandoned ... "
-
-◼️
-
-[Data](articles/aea8fff2.json)
-
-[Extended Data](ext_articles/aea8fff2.ext.json)
-
----
-
-### President's final tribute to Vikramadhi's
-
-*2024-08-04 20:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகாரதிபதியின்-பூதவுடலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-341593) · `ta`
-
-President Ranil Wickremesinghe led tributes to the late Vikramatipathi Gnanisara Thera, the first female Buddhist monk, at the Colombo-02 Gangaramaya Vihara on Sunday. The public farewell continues today at 4 pm.
-
-🟩
-
-The Colombo-02 Gangaramarya Vikramati will be held at 4 pm on Monday (05) at the Vihara.. A large number of people paid tribute on Sunday (04).
-
-In this case, President Ranil Wickremesinghe, who went to the Kangaramarya Vihara on Sunday (24), paid the final tribute to the Vikramatipathi Gnanisara Thera, the first woman.
-
-◼️
-
-[Data](articles/f927fb94.json)
-
-[Extended Data](ext_articles/f927fb94.ext.json)
-
----
-
-### The promises made by the opposition parties are not suitable for the political platform - the President in Trincomalee
-
-*2024-08-04 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190276) · `ta`
-
-President Ranil Wickremesinghe criticized opposition parties' promises, warning they'd harm the economy if implemented. He emphasized the importance of continuing the government's economic program to avoid another crisis. Highlighting the country's recovery efforts, including housing grants and educational scholarships, he urged unity to support the government's initiatives and ensure economic growth.
-
-🟩
-
-President Ranil Wickremesinghe said the country's economy would fall again if the promises made by the opposition parties were suitable for the political platform.
-
-The President said that the government should continue to carry out the program launched to lead the country's economy, so that everyone should recognize and win the government's program in this year's presidential election.
-
-Pointing out that there should be a good economy to do politics in the country, the president said that the economic problems of the country would not be solved only because of the free championship.
-
-President Ranil Wickremesinghe made this statement while addressing a meeting held at the Trincomalee Hindu Cultural Center today (04).
-
-“I don't need to recall the current state of this country. Were set on fire to some homes. Threatened not to come to town. But in July 2022, we all united for the country's recovery. All of these ministers and MPs were able to bring us down the economy of this country by 2023.
-
-...
-
-[Data](articles/b5812c7f.json)
-
-[Extended Data](ext_articles/b5812c7f.ext.json)
-
----
-
-### Riots again in Bangladesh: 32 killed
-
-*2024-08-04 19:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-மீண்டும்-கலவரம்-32-பேர்-பலி/50-341592) · `ta`
-
-Clashes in Bangladesh over job reservation policies resulted in 32 deaths and numerous injuries. The dispute involves the Awami League and its opponents, fueled by the government's decision to reinstate a 30% reservation for freedom struggle families, opposed by students advocating for skill-based hiring. Prime Minister Sheikh Hasina criticized the protesters, leading to widespread violence and calls for her resignation from the ruling party itself.
-
-🟩
-
-32 people have been killed in a clash between ruling Awami League supporters and opponents over the issue of employment reservation in Bangladesh. Many people have been injured. The conflict is strengthening.
-
-In Bangladesh, a 30 per cent reservation procedure was in effect for the families of the deceased in the freedom struggle against Pakistan. This procedure was canceled in 2018 due to the students' struggle. The Bangladesh government recently announced the implementation of the 30 per cent reservation.
-
-Students jumped into the struggle, demanding the selection of government employees on the basis of skills. Prime Minister Sheikh Hasina issued a statement on the 14th to insult the protesters.. Violence erupted in many places in this struggle nationwide. More than 200 people died in the violence.
-
-...
-
-[Data](articles/d99bb097.json)
-
-[Extended Data](ext_articles/d99bb097.ext.json)
 
 ---

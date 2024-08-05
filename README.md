@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 16:53:34**
+As of **2024-08-05 17:06:03**
 
 ## Newspaper Stats
 
-*Scraped **39,095** Articles*
+*Scraped **39,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,140 @@ colombotelegraphcom | 371
 islandlk | 2,251
 economynextcom | 2,357
 dailyftlk | 2,506
-adalk | 3,587
-adaderanalk | 4,537
+adalk | 3,588
+adaderanalk | 4,539
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,892
+tamilmirrorlk | 4,895
 virakesarilk | 6,184
-adaderanasinhalalk | 6,608
+adaderanasinhalalk | 6,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,093 (100.0%) of 39,095 articles have been extended.
+39,095 (100.0%) of 39,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් යළි රිමාන්ඩ්
+### ආසියානු ක්‍රිකට් ශූරියන් තිදෙනාට අනුලා විද්‍යාලයෙන් හරසර
+
+*2024-08-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199592) · `si`
+
+කාන්තා ආසියානු ශූරියන් ලෙස කිරුළු පැළඳු ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩිකාවන් තිදෙනෙක් සඳහා පිළිගැනීමේ උත්සවයක් අද (05) නුගේගොඩ අනුලා විද්‍යාලයේ දී පැවැත්වුණි.
+
+ඒ නුගේගොඩ අනුලා විද්‍යාලයෙන් සිප් සතර හැදෑරු හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා සහ කෞෂිනී සෙනවිරත්න යන ක්‍රීඩිකාවන් සඳහා ය.
+
+නුගේගොඩ නගරයේ සිට රථ පෙළ පෙළපාලියකින් අනුලා විද්‍යාලය දක්වා එම ක්‍රිඩිකාවන් තිදෙනාව රැගෙන එනු ලැබීය.
+
+පාසලේ විදුහල්පතිතුමිය සහ ගුරුබවතුන්, ශිෂ්‍යාවන් සහ ආදි සිසුවියන් පාසල ඉදිරි අපිට දී මහත්හරිසරයෙන් එම ක්‍රීඩිකාවන් පිළිගනු ලැබීය.
+
+අනතුරුව මෙම ක්‍රීඩිකාවන් තිදෙනාව ඇගයීම වෙනුවෙන් කුසලාන ප්‍රදානයක් ද මෙහිදි සිදුවුණි.
+
+◼️
+
+[Data](articles/f8e21564.json)
+
+---
+
+### ‘Club Wasantha’ murder suspects further remanded
+
+*2024-08-05 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101014/club-wasantha-murder-suspects-further-remanded-) · `en`
+
+All ten suspects, including the tattoo studio owner, arrested in connection with the murder of two persons including Surendra Wasantha Perera alias ‘Club Wasantha,’ have been further remanded until August 20 by the Kaduwela Magistrate’s Court, Ada Derana reporter said.
+
+The son of the murdered businessman, the OIC of the Western Province South Crimes Division, representatives from the Attorney General’s Department and the individual who took charge of Wasantha’s body had also appeared before the court for today, as per summons issued by court.
+
+In the meantime, Sri Lanka Police has sought public assistance in tracking down three suspects in relation to the incident. Police have also released photographs and details of the three suspects in question.
+
+Police have arrested ten suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
+
+◼️
+
+[Data](articles/5254525d.json)
+
+---
+
+### Supreme Court dismisses contempt petition against Diana Gamage
+
+*2024-08-05 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101013/supreme-court-dismisses-contempt-petition-against-diana-gamage) · `en`
+
+The Supreme Court today (05) dismissed a contempt of court petition filed against former state minister Diana Gamage.
+
+The petition was taken up before a three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda and Shiran Gunaratne.
+
+However, the court decided to dismiss the petition in a majority decision by the judge bench, Ada Derana reporter said.
+
+The petition, filed by the former chairman of the Weligama Urban Council Rehan Jayawickrema, had accused  Gamage of contempt for the comments made by her during a press conference following the Supreme Court’s judgment disqualifying her from holding the position as a Member of Parliament.
+
+◼️
+
+[Data](articles/62d5b2d1.json)
+
+---
+
+### Club spring murder suspects further remanded
 
 *2024-08-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199591) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ ආයතනයේ හිමිකරු සැකකරුවන් දසදෙනා අගෝස්තු 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Tative Institute residents arrested for Club Wasantha Perera incident have been remanded till August 20th after appearing in Kaduwela Magistrate's Court.
 
-අද (05) දහවල් එම සැකකරුවන්ව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය ලබා දී ඇත.
+🟩
+
+The residents of the Tative Institute who was arrested in connection with Club Wasantha Perera have been remanded until August 20.
+
+The suspects were produced before the Kaduwela Magistrate's Court today (05).
 
 ◼️
 
 [Data](articles/fc352c6a.json)
 
+[Extended Data](ext_articles/fc352c6a.ext.json)
+
 ---
 
-### ජොකොවිච් ලැබූ විශිෂ්ට ජය
+### Great win to Jakovich
 
 *2024-08-05 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199590) · `si`
 
-ලෝක ටෙනිස් ඉතිහාසයේ සාර්ථකම ක්‍රීඩකයා බවට පත්වෙමින් මෙවර පැරිස් ඔලිම්පික් උලෙළේ පිරිමි කේවළ ටෙනිස් ඉසව්වේ රන් පදක්කම හිමිකර ගැනීමට ලොව සුපිරි ටෙනිස් ක්‍රීඩක සර්බියාවේ නොවැක් ජොකොවිච් ඊයේ (04) සමත් විය.
+Jakovich, a 37-year-old unemployed player, made history by winning the gold medal in the World Successary Sarbawala, becoming the most successful player in World Tennis history. He defeated Carlos Alchoras in the men's singles final, showcasing his experience against Alchoras' youth. This victory, achieved after five attempts, highlights Jakovich's determination and skill, marking a significant moment in tennis history.
 
-ඒ පිරිමි කේවල ටෙනිස් අවසන් තරගයේදී ස්පාඤ්ඤයේ කාලෝස් අල්කරාස් පරාජයට පත්කරමිනි.
+🟩
 
-37 හැවිරිදි නොවැක් ජොකොවිච් සහ 21 හැවිරිදි කාලෝස් අල්කරාස් පිරිමි කේවල ටෙනිස් අවසන් සටනට පිවිසුණේ ඔලිම්පික් ඉතිහාසයේ එම ඉසව්වේ අවසන් තරගයට සහභාගී වූ වයස්ගතම සහ ළාබාලතම ක්‍රීඩකයින් දෙදෙනා ලෙසය.
+In the world, Jakovich, the World's Super Tennis at the World Successary Sarbawala, becoming the most successful player in World Tennis history, won the gold medal in the Tennis event.
 
-අවසන් මහා තරගය අතිශය තියුණු මුහුණුවරක් ගත්තද අත්දැකීම් බහුල ජොකොවිච් පළමු වට දෙක ලකුණු 7-6ක් සහ 7-6ක් ලෙස ජයගනිමින් සිය වසර 21ක ටෙනිස් දිවියේ විශාලතම සිහිනය වූ ඔලිම්පික් රන් පදක්කම දිනාගැනීමට සමත් වුණි.
+In the men's singles, Carlos alchoras defeated in the tennis finals.
 
-ග්‍රෑන්ඩ් ස්ලෑම් ටෙනිස් ශූරතා 24ක් ජයගෙන ඇති ජොකොවිච් සිය ජයග්‍රහණ ගොන්නට ඔලිම්පික් රන් පදක්කමක්ද එක්කර ගනිමින් ටෙනිස් ඉතිහාසයේ සාර්ථකම ක්‍රීඩකයා බවට පත්වුණි.
+The 37-year-old unemployed Jookuvich and 21-year-old Carlos Alkerz Boy Tennis was diagnosed with the oldest and young players who participated in the finals of the Olympic history.
 
-ඔහු මෙම රන් පදක්කම දිනා ගත්තේ පස්වැනි උත්සාහයෙන් වීම විශේෂයකි. තරගයෙන් අනතුරුව ජොකොවිච් පැවසුවේ සිය ක්‍රීඩා දිවියේ විශාලතම ජයග්‍රහණය මෙම රන් පදක්කම බවය.
+Although the finals took a highly shaken, experienced Jokovich won the first two marks and won the largest dream of ten years and 7-6 years.
+
+The Olympic gold medal, which won 24 Grand Slam Tennis Championships, became successful in tennis history.
+
+He won the gold medal with a fifth attempt. After the match, Jakovich said the gold medal was the biggest victory.
 
 ◼️
 
 [Data](articles/4e99fd0e.json)
+
+[Extended Data](ext_articles/4e99fd0e.ext.json)
+
+---
+
+### வைத்தியர் அர்ச்சுனாவுக்கு பிணை நிராகரிப்பு
+
+*2024-08-05 16:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை-நிராகரிப்பு/72-341634) · `ta`
+
+மன்னார் பொது வைத்தியசாலைக்கு அனுமதியின்றி நுழைந்து முரண்பாட்டில் ஈடுபட்டதுடன் மகபேற்று வைத்தியர் அறைக்குள் நுழைந்து புகைப்படம் மற்றும் காணொளி எடுத்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள வைத்தியர் அர்ச்சுனாவை தொடர்ந்து விளக்கமறியலில் வைக்க மன்னார் நீதவான்  திங்கட்கிழமை( 05) உத்தரவிட்டுள்ளார்.
+
+வைத்தியர் அர்ச்சுனாவுக்கு எதிரான வழக்கு, நகர்த்தல் பத்திரம் ஊடாக  திங்கட்கிழமை (5 விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது. அப்போது தாக்கல் செய்யப்பட்ட பிணை மனு நிராகரிக்கப்பட்டு தொடர்ந்து விளக்கமறியல நீடித்து, மன்னார் நீதவான்   உத்தரவிட்டுள்ளார்.
+
+அதே நேரம் அனுமதி இன்றி   வைத்தியசாலைக்குள்  நுழைந்து வைத்தியருடன்  காணொளி பதிவுகளை மேற்கொண்ட இருவரையும் விசாரணைக்கு உட்படுத்துமாறு   பொலிஸாருக்கு  நீதவான் உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/e84abb60.json)
 
 ---
 
@@ -101,6 +185,24 @@ However, the protesters took the goods in the prime minister's official residenc
 [Data](articles/e442ef84.json)
 
 [Extended Data](ext_articles/e442ef84.ext.json)
+
+---
+
+### பங்களாதேஷில் இராணுவ ஆட்சி
+
+*2024-08-05 15:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-இராணுவ-ஆட்சி/50-341633) · `ta`
+
+பங்களாதேசில் ஆட்சியை அந்நாட்டு இராணுவம் கைப்பற்றிய நிலையில், அந்நாட்டில் இராணுவ ஆட்சி அமலுக்கு வருவதாக இராணுவ தளபதி வாக்கர் உஸ்-ஜமான் அறிவித்துள்ளார்.
+
+பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா இன்று தனது பதவியை இராஜினாமா செய்த நிலையில், தலைநகரான டாக்காவை விட்டு வெளியேறினார். இதனைத் தொடர்ந்து இங்கு இராணுவ ஆட்சி பிரகடனம் செய்யப்படும் என தெரிவிக்கப்பட்டிருந்தது.
+
+மேலும், அனைத்து பாடசாலை, கல்லூரிகள் மற்றும் பல்கலைக்கழங்கள் மூடப்பட்டன. சமூக வலைதளங்களுக்கும் தடை விதிக்கப்பட்டுள்ளது.
+
+இதற்கிடையே, அந்நாட்டில் இடைக்கால அரசை இராணுவம் அமைப்பதாக இராணுவ தளபதி வக்கார் உஸ்-ஜமான் அறிவித்துள்ளார். மேலும், சட்டம் ஒழுங்கை நிலைநிறுத்துவோம். கடினமான சூழலில் பொதுமக்களின் ஒத்துழைப்பு அவசியம் என்று அவர் மேலும் தெரிவித்தார்.S
+
+◼️
+
+[Data](articles/4c2a2661.json)
 
 ---
 
@@ -149,6 +251,24 @@ The Israeli prime minister has confirmed the incident in Heleon at a cabinet mee
 [Data](articles/31a5d64b.json)
 
 [Extended Data](ext_articles/31a5d64b.ext.json)
+
+---
+
+### செந்திலிடம் கிழக்கில் ஆதரவு கோரினார் ஜனாதிபதி
+
+*2024-08-05 15:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செந்திலிடம்-கிழக்கில்-ஆதரவு-கோரினார்-ஜனாதிபதி/73-341631) · `ta`
+
+இராஜாங்க அமைச்சர் வியாழேந்திரனின் ஏற்பாட்டில் மட்டக்களப்பில் இளைஞர் வலுவூட்டல் நிகழ்ச்சி ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில், ஞாயிற்றுக்கிழமை (05) இடம்பெற்றது.
+
+மட்டக்களப்பு மாவட்ட இளைஞர்களிடம் நாட்டை கட்டியெழுப்ப ஜனாதிபதி வைத்துள்ள எதிர்கால திட்டங்கள் என்ன என்பதை தெளிவூட்டியதுடன், நாட்டை கட்டியெழுப்புவதற்கான ஆலோசனைகள் மற்றும் இளைஞர்களின் எதிர்பார்ப்புகள் என்னவென்று கேட்டறிந்தார்.
+
+மேலும் இளைஞர்கள் வேலைவாய்ப்பு இன்றி நாட்டை விட்டு வெளியேறியுள்ளனர். எதிர்காலத்தில் இளைஞர்களுக்கான வேலைவாய்ப்பை அதிகரிப்பதாகவும், IMF கடன் மறுசீரமைப்பின் ஊடாக 2035 ஆம் ஆண்டு வரை மேற்கொள்ளப்பட உள்ள வேலைத்திட்டங்கள் குறித்து  தெளிவூட்டினார்.
+
+இக்கலந்துரையாடல் நிறைவின் போது இலங்கை தொழிலாளர் காங்கிரஸின் தலைவரும் கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமானிடம் கிழக்கிலும் மலையகத்திலும் ஆதரவு கோரினார். மலையகத்தை தாண்டி மலையக தலைவர் ஒருவரிடம் ஜனாதிபதி ஆதரவு கோரியது இதுவே  முதல் முறை என்பது குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/4a91e8ab.json)
 
 ---
 
@@ -719,6 +839,24 @@ Gaza’s Civil Emergency Service said dozens were wounded in addition to the fat
 [Data](articles/101b2484.json)
 
 [Extended Data](ext_articles/101b2484.ext.json)
+
+---
+
+### රු. කෝටි 8ක කේරළ ගංජා නාවික හමුදා භාරයට
+
+*2024-08-05 13:10:05* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-8ක-කේරළ-ගංජා-නාවික-හමුදා-භාරයට/11-411204) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව, කිලිනොච්චිය, ඉරණතිව් දූපතේ 2024 අගෝස්තු මස 04 වන දින සිදුකල සෝදිසි මෙහෙයුමකදී, එම දූපතේ ලඳු කැලෑවක් තුල සඟවා තිබූ කේරළ ගංජා කිලෝග්‍රෑම් දෙසිය හතකට (207) අධික තොගයක් නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+
+ශ්‍රී ලංකාවට අයත් මුහුද සහ වෙරළ කලාපය ඔස්සේ සිදුකෙරෙන නීති විරෝධී කටයුතු මැඩපැවැත්වීම සඳහා නාවික හමුදාව නිරන්තර අවධානයෙන් සිටිමින් මෙහෙයුම් ක්‍රියාත්මක කරනු ලබයි.
+
+ඒ අනුව, බටහිර  නාවික විධානය වෙතින් ලබාදුන් තොරතුරකට අනුව, උතුරු මැද නාවික විධානයට අයත් ශ්‍රී ලංකා නාවික නෞකා බුවනෙක ආයතනය, ක්‍ෂණික ක්‍රියාකාරී යාත්‍රා  බලඝණය හා එක්ව  2024 අගෝස්තු මස 04 වන දින කිලිනොච්චිය ඉරණතිව් දූපතේ සිදුකල මෙම විශේෂ සෝදිසි මෙහෙයුමේදී, ‍එම දූපතේ ලඳු කැළෑවක් තුළ සඟවා තිබූ සැකකටයුතු උර හයක් (06) පරීක්‍ෂාවට ලක්කෙරිණි. එහිදී එම උර තුල පාර්සල් අනූ නවයක (99)  අසුරන ලද කේරළ ගංජා කිලෝ 207 ග්‍රෑම් 020  ක තොගයක් මෙලෙස නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+
+මෙම මෙහෙයුම මඟින් නාවික හමුදා භාරයට ගත් කේරළ ගංජා තොගයේ දළ වීථි වටිනාකම රුපියල් මිලියන අසූ දෙකකට (82) අධික වෙතැයි විශ්වාස කෙරේ.
+
+...
+
+[Data](articles/9057d93f.json)
 
 ---
 
@@ -2125,165 +2263,5 @@ The SLPP stalwart said the decision was a difficult one and was not made in oppo
 [Data](articles/7ffc8295.json)
 
 [Extended Data](ext_articles/7ffc8295.ext.json)
-
----
-
-### SLMC offers conditional support to Sajith
-
-*2024-08-05 02:38:06* · [`dailyftlk`](https://www.ft.lk/news/SLMC-offers-conditional-support-to-Sajith/56-765158) · `en`
-
-The Sri Lanka Muslim Congress (SLMC) has decided to extend conditional support to Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
-
-Speaking to the media, SLMC leader Rauff Hakeem said the decision to support Premadasa was taken by the party’s Supreme Council during a meeting held yesterday.
-
-However, Hakeem said the party’s support for Premadasa will be contingent upon certain conditions. He mentioned that the SLMC will soon engage in discussions with Premadasa to aim for an agreement on specific issues during those talks.
-
-However, Hakeem said the SLMC will not align with any other political party and will not seek ministerial or other positions following the upcoming Presidential Election in return for supporting the Samagi Jana Balawegaya led by Premadasa.
-
-◼️
-
-[Data](articles/912efcf4.json)
-
-[Extended Data](ext_articles/912efcf4.ext.json)
-
----
-
-### More than 200 kg of cannabis recovery in Kilinochchi
-
-*2024-08-05 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190284) · `ta`
-
-In Kilinochchi, over 200 kg of cannabis was seized, marking a significant drug recovery effort.
-
-🟩
-
-◼️
-
-[Data](articles/88bdc068.json)
-
-[Extended Data](ext_articles/88bdc068.ext.json)
-
----
-
-### A brutal attack on a young man who went to celebrate his birthday
-
-*2024-08-05 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190283) · `ta`
-
-On his birthday, a young man celebrating with friends was brutally attacked by a gang wielding swords in Arali. He was hospitalized after the assault. The victim had recently been romantically involved with a local woman whose family disapproved, leading to the violent confrontation.
-
-🟩
-
-A gang has threatened a sword and attacked a young man who returned home after going to a birthday party on Saturday, 3rd in Arali.
-
-The young man is admitted to the Chavakachcheri Resource Hospital after being injured.. When it comes to the incident,
-
-While the young man and his friends from Chavakachcheri were returning home in a Hiyas vehicle, a gang that came with a sword in the midst of a sword has dragged the young man out.
-
-The injured youth is admitted to the Chavakachcheri Resource Hospital and receiving treatment.
-
-The young man fell in love with a woman from Arali. The mother of the young woman initially shows the green flag. The woman has cut off contact with the young man since the fourth month.
-
-When the young man came to the Arali area yesterday, the attack was carried out by the father of the Yuvati's father, the brothers, the brothers and relatives of the woman.
-
-◼️
-
-[Data](articles/f1f8a8d6.json)
-
-[Extended Data](ext_articles/f1f8a8d6.ext.json)
-
----
-
-### Sunshine Holdings sustains growth momentum in 1QFY25
-
-*2024-08-05 02:28:09* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-sustains-growth-momentum-in-1QFY25/34-765157) · `en`
-
-Diversified conglomerate Sunshine Holdings PLC continued demonstrating resilience amidst prevailing macroeconomic conditions, reporting a topline growth of 6.5% YoY.
-
-The Group recorded a consolidated revenue of Rs. 14.2 billion during the first quarter of the current financial year (1QFY25), with Profit After Tax (PAT) contracting by 3.6% YoY to Rs. 1.4 billion. The revenue increase was due to robust revenue growth in healthcare, despite contraction in both consumer and agri sectors.
-
-The Group’s healthcare sector emerged as the largest contributor to Sunshine’s topline, accounting for 53.1% of total revenue, followed by consumer at 32.4% and agribusiness at 14.5%.
-
-...
-
-[Data](articles/dae7c048.json)
-
-[Extended Data](ext_articles/dae7c048.ext.json)
-
----
-
-### I will create an environment where Sri Lankans live in honor;Dilith Jayaweera should be united by all people without ethnic, religious and religion
-
-*2024-08-05 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190282) · `ta`
-
-Dilith Jayaweera aims to unite Sri Lanka by eliminating ethnic and religious divisions, promising a more efficient political system. He emphasizes the importance of addressing the nation's economic challenges and improving public services. Jayaweera criticizes past governments for failing to resolve basic issues, highlighting the need for cooperation from Sri Lankans worldwide to help the country progress.
-
-🟩
-
-I will create a better efficient political structure with no ethnic and religious differences.
-
-"This week I will publicize the policy of recovery," said Dilith Jayaweera, the presidential candidate of the power, "said Dilith Jayaweera.
-
-The Sarvana Shakti Conference was held on Sunday (4) at the Sugathadasa Indoor Stadium in Colombo.
-
-In this case, I have been working for the country in a state of crisis.
-
-In the 2019 presidential election, Gotabhaya Rajapaksa was fully cooperated. The people of the country made him the president for massive expectations and systems. His brothers and family would chase him away.
-
-My main goal is to create a better state administrative structure to ensure that there are no ethnic and religious differences in the country.
-
-My main policy is to create an environment where everyone accepts that the state administration is efficient and the public service is efficient.
-
-...
-
-[Data](articles/c7b065bf.json)
-
-[Extended Data](ext_articles/c7b065bf.ext.json)
-
----
-
-### May appeal if the laws violate
-
-*2024-08-05 02:26:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டங்களை-மீறினால்-முறையிடலாம்/175-341600) · `ta`
-
-The Sri Lanka Human Rights Commission has launched a hotline (0767914696) and fax service (0112505566) for reporting election law violations ahead of the presidential election. This initiative aims to ensure transparency and fairness in the electoral process, with guidelines also distributed to government officials, including police.
-
-🟩
-
-The Sri Lanka Human Rights Commission has announced telephone numbers to announce complaints about violating election laws during the presidential election.
-
-Accordingly, complaints can be submitted to 0767914696 or a fax number 0112505566.
-
-The move was aimed at holding an independent and fair election. In this regard, the Sri Lanka Human Rights Commission has recently issued a guidelines to government officials, including police officers.
-
-◼️
-
-[Data](articles/9a9cf544.json)
-
-[Extended Data](ext_articles/9a9cf544.ext.json)
-
----
-
-### Everyone should unite in the upcoming presidential election to protect the government's plan to build the country's economy
-
-*2024-08-05 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190281) · `ta`
-
-In the lead-up to the presidential election, unity is crucial to support the government's economic growth plan. Despite differing opinions on education, constitution, and devolution, President Ranil Wickremesinghe emphasizes the necessity of this support. He highlights his efforts to boost tourism in Trincomalee, aiming to double the number of visitors and enhance tourist facilities. The President also met with the Trincomalee District Lawyers Association, securing their backing for his economic stabilization goals.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that although there are different views on issues such as education, constitution and devolution, there is no alternative except for the current government's program to improve the country's economy.
-
-The President said that everyone should come forward in the upcoming presidential election to protect the program.
-
-President Ranil Wickremesinghe, who attended the meeting held at the Peach Resort Hotel in Trincomalee on Sunday (04) organized by the Hotel Association of Trincomalee.
-
-The President explained the steps taken to develop Trincomalee as a tourist attraction, and explained the strategic plans to increase the number of tourists coming to the country from 25 lakh to 50 lakhs.
-
-The President also discussed the role of hotel associations in the construction of massive hotels to expand the amenities of tourists and to make Trincomalee a tourist destination.
-
-...
-
-[Data](articles/da9f0372.json)
-
-[Extended Data](ext_articles/da9f0372.ext.json)
 
 ---

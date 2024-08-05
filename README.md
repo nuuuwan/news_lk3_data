@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 05:38:43**
+As of **2024-08-05 06:04:37**
 
 ## Newspaper Stats
 
-*Scraped **38,997** Articles*
+*Scraped **39,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 336
 newsfirstlk | 363
 colombotelegraphcom | 370
 bbccomsinhala | 370
-islandlk | 2,239
+islandlk | 2,250
 economynextcom | 2,352
 dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,869
+tamilmirrorlk | 4,870
 virakesarilk | 6,176
 adaderanasinhalalk | 6,588
 
@@ -26,11 +26,103 @@ adaderanasinhalalk | 6,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,997 (100.0%) of 38,997 articles have been extended.
+39,005 (100.0%) of 39,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### Famous astrologer announced the date of World War 3
+
+*2024-08-05 05:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ம்-உலக-போருக்கான-திகதியை-அறிவித்தார்-பிரபல-ஜோதிடர்/175-341601) · `ta`
+
+Kushal Kumar, an Indian astrologer, predicted World War 3 would start on August 4th or 5th, following previous incorrect predictions. His forecasts have impacted global events, including conflicts and economic issues, particularly affecting less powerful nations like those in Africa post-COVID recovery. Despite skepticism, his latest prophecy has garnered attention, highlighting the influence of such predictions on international affairs and public sentiment.
+
+🟩
+
+Kushal Kumar is known as the famous astrologer of India, New Delhi. Nastradamus. Before that Russia and Ukraine
+
+The one who predicted the war between nations. The war between Israel and the Hamas organization prematurely declared
+
+These wars caused the world's fuel shortage, prices, and food shortages. In the context of the world recovered from the Corona Great, these wars have been greatly affected by unpopular countries like Africa.
+
+In the meantime, Kushal has announced the date of World War 3. According to his prediction, this war will begin today or tomorrow
+
+He said the war will begin on August 4 or August 5. According to his prediction, that day begins today
+
+But it will only be revealed after the possibilities of real. He has also announced the date of the start of World War 3 several times
+
+...
+
+[Data](articles/a51ede2f.json)
+
+[Extended Data](ext_articles/a51ede2f.ext.json)
+
+---
+
+### Hayleys Group reports economic value creation of Rs. 150 billion
+
+*2024-08-05 03:41:00* · [`islandlk`](http://island.lk/hayleys-group-reports-economic-value-creation-of-rs-150-billion/) · `en`
+
+Hayleys PLC, Sri Lanka’s largest public-listed diversified conglomerate, reported an economic value creation of Rs. 150 billion, parallel to delivering progress on its sustainability targets over the last financial year (FY2023-24).Accounting for a total of 5% of Sri Lanka’s total export income, during the period in review, Hayleys earned USD 591 Mn foreign exchange income. As a net exporter, 54% of group revenue was generated from exports.
+
+The Group distributed Rs. 138.6 billion in cumulative economic value towards all stakeholders, including supplier development, government taxes, employee payments, lenders of capital and to shareholders – a 6.7% YoY increase.
+
+...
+
+[Data](articles/09c5201c.json)
+
+[Extended Data](ext_articles/09c5201c.ext.json)
+
+---
+
+### Unidil recognised at National Convention on Quality & Productivity Awards 2024
+
+*2024-08-05 03:39:00* · [`islandlk`](http://island.lk/unidil-recognised-at-national-convention-on-quality-productivity-awards-2024/) · `en`
+
+The Unidil Group of Companies, the packaging arm of Vallibel One PLC and the leader in packaging solutions for local and export industries in Sri Lanka, has once again demonstrated its excellence by winning Ten Gold Awards at the National Convention on Quality & Productivity (NCQP) 2024.
+
+Specializing in corrugated cartons and paper sacks, Unidil continues to set the standard in quality, productivity, and innovation. The prestigious event took place on June 25, 2024, at Hotel Mount Lavinia, featuring participation from leading organizations across the country. Organized by the Sri Lanka Association for the Advancement of Quality & Productivity (SLAAQP), the annual NCQP event provides a significant platform for employers from various sectors to showcase their success stories and achievements in team-based improvement initiatives.
+
+Hayleys Group reports economic value creation of Rs. 150 billion
+
+...
+
+[Data](articles/be152899.json)
+
+[Extended Data](ext_articles/be152899.ext.json)
+
+---
+
+### Sri Lanka College of Cardiologists receives Blood Pressure Monitors
+
+*2024-08-05 03:38:00* · [`islandlk`](http://island.lk/sri-lanka-college-of-cardiologists-receives-blood-pressure-monitors/) · `en`
+
+Terumo Corporation, together with its distribution partner Hemas Surgicals & Diagnostics (Pvt) Ltd, announced the donation of Nissei DS-11 Blood Pressure Monitors to the Sri Lanka College of Cardiologists. The initiative underscores a commitment to advancing cardiovascular health and empowering communities through innovative medical solutions.
+
+...
+
+[Data](articles/77a120b4.json)
+
+[Extended Data](ext_articles/77a120b4.ext.json)
+
+---
+
+### HNB Assurance partners University of Colombo to launch Aspire Programme for top achievers
+
+*2024-08-05 03:37:00* · [`islandlk`](http://island.lk/hnb-assurance-partners-university-of-colombo-to-launch-aspire-programme-for-top-achievers/) · `en`
+
+HNB Assurance PLC entered a strategic partnership with the Faculty of Management and Finance at the University of Colombo, Sri Lanka, to introduce the HNB Assurance Aspire program. This initiative aims to provide selected high-performing Advisors, Leaders, and Bancassurance Officers with an opportunity to enhance their professional and business skills.
+
+Through the HNB Assurance Aspire program, candidates will have the opportunity to obtain a Diploma in Professional and Business Skills (DPBS) from the University of Colombo, with a pathway extending to a degree.
+
+...
+
+[Data](articles/21989d8f.json)
+
+[Extended Data](ext_articles/21989d8f.ext.json)
+
+---
 
 ### G.L. announces launch of major political alliance on 8 Aug. to support Sajith Premadasa
 
@@ -2185,119 +2277,5 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
 [Data](articles/f64a66ef.json)
 
 [Extended Data](ext_articles/f64a66ef.ext.json)
-
----
-
-### The kilo of paddy is Rs. 150 asking
-
-*2024-08-04 14:18:35* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝවට-රු--150ක්-ඉල්ලයි/11-411185) · `si`
-
-Farmers in Mahaweli BG, including Polonnaruwa, criticize government intervention in paddy buying, accusing mill owners of exploiting lack of state support. Former VP WG Thilakarana highlights issues with paddy sales outlets and the need for government action to prevent paddy farming from becoming unsustainable. Nearly 6,000 acres are cultivated, with concerns about loans and future elections reflecting farmer dissatisfaction.
-
-🟩
-
-A group of farmer organizations in the Mahaweli Bg, including Polonnaruwa, said that the government intervenes to purchase a certificate of Rs.
-
-The farmers accused the three large scale mill owners of Polonnaruwa due to the lack of government paddy purchasing program.
-
-Former Vice President of the Mahaweli B zon, WG Thilakarana, who is not able to obtain a packet of salt and the farmer's buyer is not available.Did.
-
-Tilakarana said that although the Paddy sales outlet of the Mahaweli B and the Mahaweli B and the Mahaweli B and the Mahaweli B and the Mahaweli B and the Yala season.
-
-It is vital that the paddy is a farming has become a white elephant, but nowadays that the paddy is currently over to Rs.Former Chairman of the Senapura Divisional Farmers Farmer Organization, Kapila Cyril Pathiran said.
-
-...
-
-[Data](articles/e05a8116.json)
-
-[Extended Data](ext_articles/e05a8116.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-08-04 14:10:52* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-411184) · `si`
-
-Sri Lanka's captain Charith Asalanka gained an upper hand in the second ODI against India, potentially benefiting his team's performance.
-
-🟩
-
-Sri Lanka captain Charith was able to gain advantage of the second ODI match against the tourist Indian team.
-
-◼️
-
-[Data](articles/5e70aa5c.json)
-
-[Extended Data](ext_articles/5e70aa5c.ext.json)
-
----
-
-### Sri Lanka - two different changes to the coin
-
-*2024-08-04 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199549) · `si`
-
-Sri Lanka made two changes to its coin design and cricket team lineup for today's match against India at the Colombo District Stadium. The Sri Lankan leader, Charith, won the toss and chose to use the new coin design. In the cricket match, fast bowler Mohamed Shiraz was replaced due to unspecified reasons.
-
-🟩
-
-Sri Lanka and India will be held today (04).
-
-Sri Lanka Leader Charith won the toss and win the coin of the match at the Colombo District Stadium in Colombo.
-
-Two changes in the Sri Lankan team have been conducted for the match.
-
-The match has been called for the match instead of fast bowler Mohamed Shiraz and the Fourth.
-
-◼️
-
-[Data](articles/2e78fb8e.json)
-
-[Extended Data](ext_articles/2e78fb8e.ext.json)
-
----
-
-### Govt. Tomorrow Tomorrow to stop online visa
-
-*2024-08-04 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199548) · `si`
-
-The government plans to halt online visa issuance for tourists, pending a decision by defense ministry officials. This comes after a Supreme Court injunction against implementing e-visas for two foreign firms. Visa services have been suspended since the 2nd night, with temporary website downtime and measures to refund affected applicants. Tourist arrivals may face delays as a result.
-
-🟩
-
-The Ministry of Defense states that the issuance of visas for tourist arrivals will be decided tomorrow (05).
-
-The Ministry of the Ministry has discussed a final decision on the Immigration and Emigration Department officials.
-
-The Supreme Court recently issued an interim injunction to prevent the implementation of e-time to provide electronic vischolics to two foreign companies.
-
-Accordingly, the Department of Immigration and Emigration (Immigration and Emigration Department) had announced that the issuance of visas were suspended from the 2nd night.
-
-The website has been temporarily suspended and steps have been taken to provide the relevant money to the people who were paid payments to obtain visa.
-
-Accordingly, on the airport will be released at the airport at the airport for tourist arrivals.
-
-◼️
-
-[Data](articles/9fea8dcd.json)
-
-[Extended Data](ext_articles/9fea8dcd.ext.json)
-
----
-
-### Four Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-08-04 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100986/four-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A total of four Indian fishermen have been apprehended along with a fishing trawler while illegally poaching in Sri Lankan waters off Kovilan Lighthouse, Jaffna.
-
-Sri Lanka Navy said that they were arrested during a special operation carried out by navy personnel together with Sri Lanka Coast Guard.
-
-The seized trawler together with four Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
-
-◼️
-
-[Data](articles/2f00b9a0.json)
-
-[Extended Data](ext_articles/2f00b9a0.ext.json)
 
 ---

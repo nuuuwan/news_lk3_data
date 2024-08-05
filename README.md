@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 15:55:12**
+As of **2024-08-05 16:08:23**
 
 ## Newspaper Stats
 
-*Scraped **39,088** Articles*
+*Scraped **39,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,536
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,892
 virakesarilk | 6,183
-adaderanasinhalalk | 6,604
+adaderanasinhalalk | 6,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,086 (100.0%) of 39,088 articles have been extended.
+39,088 (100.0%) of 39,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-08-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199588) · `si`
+
+ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+අද (05) පස්වරු 2.30ට නිකුත්කරන ලද එම නිවේදනය රාත්‍රී 11.30 දක්වා වලංගුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව සහ බදුල්ල දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි හැකියාවක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/5e0f3a86.json)
+
+---
 
 ### Mother arrested after infant brutally beaten to death in Jaffna
 
@@ -53,6 +71,8 @@ The 33-year-old mother has been arrested by Tellippalai Police who are conductin
 ◼️
 
 [Data](articles/969567bc.json)
+
+[Extended Data](ext_articles/969567bc.ext.json)
 
 ---
 
@@ -278,17 +298,23 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 
 ---
 
-### ධීවර සමුළුවක්
+### A Fisheries Summit
 
 *2024-08-05 14:08:24* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සමුළුවක්/11-411206) · `si`
 
-මෙරට කරදිය ධීවර දිස්ත්‍රික්ක 15 සහ මිරිදිය දිස්තික්ක 07 ඇතුලු දිස්ත්‍රික්ක 22 ක කරදිය සහ මිරිදිය ධීවරයන්ට වාර්තමානයේ බලපාන ගැටලු පිළිබඳව හා ඔවුන්ගේ අවශ්‍යතාවයන් සොයා බැලිම සඳහා ජාතික ධීවර මහා සම්මේලනය විසින් ජනාධිපතිවරයාගෙන් කරන ලද ඉල්ලිමකට අනුව ධීවර සමුළුවක් පැවැත්වීමට කටයුතු සංවිධානය කර ඇත.
+The National Fisheries Conference, responding to a request from 15 districts and freshwater regions in Sri Lanka, will host a summit at the Exhibition and Conference Center near Lake House at 2 pm.
 
-දිස්ත්‍රික්ක 22හි ධීවර සමිති නියෝජිතයන් 5000 ට අධික පිරිසකගේ සහභාගීත්වයෙන් අගෝස්තු මස 09 වනදා සවස 2 ට කොළඹ ලේක්හවුස් ආයතනය ඉදිරිපිට ප්‍රදර්ශන හා සම්මේලන මධ්‍යස්ථානයේදි මෙම මහා ධීවර සමුළුව පැවැත්විමට සියලු කටයුතු සැලසුම් කර ඇත.
+🟩
+
+The National Fisheries Conference has also organized a fisheries conference on a request made by the National Fisheries Conference on 15 districts and inland marriages in Sri Lanka, including 15 districts and fresh water districts.
+
+All arrangements are made to conduct the Fisheries Summit at the Exhibition Center in front of Lake House at the Exhibition Center in front of Lake House at the Exhibition and Conference Center in front of Lake House at 2 pm.
 
 ◼️
 
 [Data](articles/cd206b82.json)
+
+[Extended Data](ext_articles/cd206b82.ext.json)
 
 ---
 
@@ -2237,27 +2263,5 @@ He said the current government is carrying out a massive attack on the judiciary
 [Data](articles/e9f0d5f7.json)
 
 [Extended Data](ext_articles/e9f0d5f7.ext.json)
-
----
-
-### Kandy Organizer Durai Mathiyagaraja
-
-*2024-08-05 01:42:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-அமைப்பாளர்-துரை-மதியுகராஜா/175-341596) · `ta`
-
-Durai Mathiyagaraja, a key figure in Sri Lanka's political landscape, recently switched from the Ceylon Workers Congress to the United People's Power. He was appointed as the UPFA district organizer and has a long history of leadership roles, including being the Senior Vice Chancellor of the Ceylon Workers Congress and its chief organizer for over two decades.
-
-🟩
-
-Senior Deputy Chairman of the Ceylon Workers Congress, who joined the United People's Power, has been appointed as the UPFA district organizer.
-
-The United People's Power Agricultural Conference was held on Sunday (04) at Nuwara Eliya. By then, this appointment was granted.
-
-Durai Mathiyagaraja, who joined the United People's Power, has been the vice president of the Central Provincial Council and as the Chairman.He is the Senior Vice Chancellor of the Ceylon Workers Congress and has been the chief organizer of the Ceylon Workers Congress for over 25 years.
-
-◼️
-
-[Data](articles/5c0a9f27.json)
-
-[Extended Data](ext_articles/5c0a9f27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 19:20:53**
+As of **2024-08-05 19:36:12**
 
 ## Newspaper Stats
 
-*Scraped **39,120** Articles*
+*Scraped **39,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ dailyftlk | 2,506
 adalk | 3,591
 adaderanalk | 4,543
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,898
+tamilmirrorlk | 4,899
 virakesarilk | 6,185
-adaderanasinhalalk | 6,612
+adaderanasinhalalk | 6,613
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,118 (100.0%) of 39,120 articles have been extended.
+39,120 (100.0%) of 39,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### සේමසිංහ පොහොට්ටුවේ මහලේකම් ලියයි
+
+*2024-08-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199596) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් සාගර කාරියවසම් මහතා පසුගියදා යොමුකළ ලිපියට ප්‍රතිචාර දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඔහු වෙත ලිපියක් යොමුකර තිබේ.
+
+එමඟින් ඔහු පෙන්වා දී ඇත්තේ පක්ෂයේ දේශපාලන මණ්ඩලය ජුලි 29 වැනිදා සම්මත කරගත් යෝජනාවට පාක්ෂිකයින් සහ තමා බැඳී නොසිටින බවය.
+
+එබැවින් ගනු ලබන විනය ක්‍රියාමාර්ගවලට විරුද්ධව කටයුතු කරන බවටත්, රට හමුවේ පවතින අභියෝගය හමුවේ නිවැරදි තීන්දු තීරණ ගැනීමට පසුබට නොවන බවත් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සිය ලිපියෙන් වැඩිදුරටත් දන්වා තිබේ.
+
+◼️
+
+[Data](articles/1adf8b05.json)
+
+---
 
 ### 17 presidential candidates place deposits thus far
 
@@ -50,11 +66,13 @@ Earlier, deposits had been placed on behalf of the independent candidates Presid
 
 [Data](articles/4fc7357e.json)
 
+[Extended Data](ext_articles/4fc7357e.ext.json)
+
 ---
 
 ### வங்கதேச பிரதமர் மாளிகையை சூறை: படங்கள் இணைப்பு
 
-*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறையாடியனர்/50-341637) · `ta`
+*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறை-படங்கள்-இணைப்பு/50-341637) · `ta`
 
 வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்தில் நுழைந்த போராட்டக்காரர்கள், பிரதமர் மாளிகையில் சூறையாடியாதால் பெரும் பதற்றம் ஏற்பட்டது.
 
@@ -64,7 +82,31 @@ Earlier, deposits had been placed on behalf of the independent candidates Presid
 
 ...
 
+[Data](articles/068f8df9.json)
+
+---
+
+### Bangladesh Prime Minister's House
+
+*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறையாடியனர்/50-341637) · `ta`
+
+Protesters stormed Bangladesh PM Sheikh Hasina's residence in Dhaka, leading to her resignation and departure. The Bangladesh National Party announced Salimullah Khan, a renowned writer and professor, as the head of the interim government. Protesters violated security, taking photos, eating, and looting, with incidents captured and shared online.
+
+🟩
+
+The protesters entered the Prime Minister's official residence in the Bangladesh capital, Dhaka, and there was great tension in the Prime Minister's House.
+
+As a result of the students' protest, Bangladesh Prime Minister Sheikh Hasina has resigned from his post and left the country.. In this context, the Bangladesh National Party has said that the interim government in Bangladesh will be headed by famous writer and professor Salimullah Khan.
+
+Amidst subsequent political moves, the protesters entered the Prime Minister's official residence in the Bangladesh capital Dhaka and looted. When Sheikh Hasina left the country by military plane from Dhaka, he resigned from the post of Prime Minister and entered the prime minister's official residence and took some files.
+
+Views of the protesters who entered the Prime Minister's house in violation of the safety of the officers in their hands, the rabbit, rabbit and ducks have been revealed.. Some sat in the Prime Minister's chair and photographed.
+
+...
+
 [Data](articles/1af1c4d6.json)
+
+[Extended Data](ext_articles/1af1c4d6.ext.json)
 
 ---
 
@@ -2261,49 +2303,5 @@ Aseni and Sarath Mahatthaya are continuing their interactive conversation on deb
 [Data](articles/122b5e71.json)
 
 [Extended Data](ext_articles/122b5e71.ext.json)
-
----
-
-### Lice on the woman's head: the plane is hurriedly landing
-
-*2024-08-05 09:12:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பெண்ணின்-தலையில்-பேன்-விமானம்-அவசரமாக-தரையிறக்கம்/53-341604) · `ta`
-
-A U.S. flight from LA to NY unexpectedly landed in Phoenix due to a medical emergency. A viral video explains that the sudden landing was triggered by two passengers accusing a third of having lice, causing panic among the crew and prompting the emergency landing. Despite the incident, the plane resumed its journey within 12 hours, offering the same seats to the passengers involved in the accusation.
-
-🟩
-
-There was an incident in the United States that a flight landed in a hurry after 12 hours after the woman had a lice on the head.
-
-A plane from Los Angeles in the United States to New York, suddenly landed in Phoenix in a hurry. In an explanation of the incident, which took place on the 15th of last month, the aircraft was reportedly landing for medical reasons.
-
-In the meantime, a video released in the US -based Etan Judalson on the incident is now going viral. In the video, he said that he was also traveling on the plane during the incident and that the airline did not release the full details of the plane's emergency landing.
-
-Also in the video, “There was no terrible event on the plane. Nobody is unconscious, no one is nervous. But when the plane landed, a woman ran fast to the front of the plane.
-
-...
-
-[Data](articles/8dfe8f76.json)
-
-[Extended Data](ext_articles/8dfe8f76.ext.json)
-
----
-
-### Special traffic plan for the cremation of the little monkey
-
-*2024-08-05 09:06:19* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-හාමුදුරුවන්ගේ-ආදාහන-පූජෝත්සවයට-විශේෂ-රථ-වාහන-සැලැස්මක්/11-411196) · `si`
-
-A special traffic plan is in effect today from 2:00 pm to 8:00 pm due to the funeral of the Most Venerable Galaboda Gnanissara Thera. The Sri Lanka Police have made this announcement.
-
-🟩
-
-A special traffic plan is being implemented for the funeral of the Most Venerable Galaboda Gnanissara Thera.
-
-The Sri Lanka Police has announced that a special traffic plan will be implemented today from 2.00 pm to 8.00 pm today (05).
-
-◼️
-
-[Data](articles/7c9fc6c2.json)
-
-[Extended Data](ext_articles/7c9fc6c2.ext.json)
 
 ---

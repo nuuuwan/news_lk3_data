@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 20:21:04**
+As of **2024-08-05 20:36:18**
 
 ## Newspaper Stats
 
-*Scraped **39,128** Articles*
+*Scraped **39,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,592
+adalk | 3,593
 adaderanalk | 4,544
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,902
 virakesarilk | 6,185
-adaderanasinhalalk | 6,614
+adaderanasinhalalk | 6,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,128 (100.0%) of 39,128 articles have been extended.
+39,128 (100.0%) of 39,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ඩකා ගුවන්තොටුපොළ තාවකාලිකව වැසෙයි
+
+*2024-08-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199598) · `si`
+
+බංග්ලාදේශ හමුදාව පවසන්නේ, ගුවන් තොටුපොළ පැය හයකට වසා දමා ඇති බවය.
+
+ගුවන් තොටුපොළ වසා දැමීම හේතුවෙන් බංග්ලාදේශ වෙත පැමිණෙ ඇතැමි ගුවන් යානා ඉන්දියාව වෙත හරවා යවා ඇති බව වාර්තා වෙයි.
+
+ඩකා හි ඇති වූ නොසන්සුන්තාව හේතුවෙන් එම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/cdeb37af.json)
+
+---
 
 ### The little monk goes out
 
@@ -243,6 +259,22 @@ Amid subsequent political moves, the protesters entered the Prime Minister's off
 [Data](articles/cc36e724.json)
 
 [Extended Data](ext_articles/cc36e724.ext.json)
+
+---
+
+### රාජපක්ෂලාගේ හා සජිත්ගේ කුමන්ත්‍රණයක් හැරිසන් හෙළි කරයි
+
+*2024-08-05 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂලාගේ-හා-සජිත්ගේ-කුමන්ත්‍රණයක්-හැරිසන්-හෙළි-කරයි/11-411212) · `si`
+
+රාජ කුමාරවරු මේ රටේ නායකයන් බවට පත් කිරීම සඳහා පොහොට්ටුවේ මන්ත්‍රීවරුන් තවදුරටත් සූදානම් නොමැති බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී පී.හැරිසන් මහතා බකමූණ නගරයේ පැවැති ජන හමුවකදීපැවසීය .
+
+ඔහු මේ බව පැවසුවේ  එක්සත් ජාතික පක්ෂයේ බකමූණ මෙහෙයුම් කාර්යාලය විවෘත කිරීමේ උත්සවයේදීය.
+
+"මේ රටේ තවදුරටත් පක්ෂ දේශපාලනය නෑ.පක්ෂ දේශපාලනය තිබුණා නම් රටේ අගමැති වෙන්නත් ජනාධිපති වෙන්නත් රනිල් වික්‍රමසිංහට බෑ.ඒ නිසා රාජපක්ෂවරු ඇරුණහම පොහොට්ටුවේ මන්ත්‍රීවරු 130ක පිරිසක් රනිල් වික්‍රමසිංහට සහයෝගය දක්වන්න මේ වනවිට ඉදිරිපත්වෙලා ඉන්නවා.මේ වනවිට සජිත් ප්‍රේමදාසත් රාජපක්ෂ පවුලත් එකතුවෙලා සිදු කරපු කුමන්ත්‍රණයක් එළිවෙලා තියෙනවා.
+
+...
+
+[Data](articles/d0a5b110.json)
 
 ---
 
@@ -2279,57 +2311,5 @@ Therefore, the Election Commission will announce to all the media that the offic
 [Data](articles/886c3e86.json)
 
 [Extended Data](ext_articles/886c3e86.ext.json)
-
----
-
-### Hashan Tilakaratne and Apsari Thilakaratne
-
-*2024-08-05 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199575) · `si`
-
-Hashan Tilakaratne, a former Sri Lankan cricketer and now coach of Bangladesh's women's cricket team, supports opposition leader Sajith Premadasa alongside his wife, Apsari Thilakaratne.
-
-🟩
-
-The former Sri Lankan cricketer, Hashan Thilakaratne, who represented the Sri Lankan cricket team, joined the opposition leader Sajith Premadasa to support the opposition leader Sajith Premadasa.
-
-Tillakaratne is also the current coach of the women's cricket team in Bangladesh.
-
-In addition to Thilakarathna, his wife, Apsari Thilakaratne and Mrs. Apsy Tillekeratne were also supported by the reconciliation.
-
-◼️
-
-[Data](articles/0b855db7.json)
-
-[Extended Data](ext_articles/0b855db7.ext.json)
-
----
-
-### Timeline for postal voting applications
-
-*2024-08-05 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190287) · `ta`
-
-The Elections Commission announced today (05) that the deadline for postal voting applications for the presidential election is complete. Applications must be submitted before 12 midnight to be valid. Social media claims about extending this deadline are false. Postal voters can find information on www.elections.gov.lk. The election is scheduled for September 21, 2024, with a final restoration deadline at 12 noon on the 14th.
-
-🟩
-
-The Elections Commission said that the deadline for accepting applications for postal voting for the presidential election will be completed today (05).
-
-The Elections Commission further stated that applications for postal voting should be submitted to the relevant election officials before 12 midnight.
-
-Applications sent by post today are not valid, the Election Commission said.
-
-Meanwhile, various information spreading on social media is completely false, the date of acceptance of applications for postal voting has been extended.
-
-The Elections Commission said that accepting applications for postal voting will be completed today and that it will not be postponed for any reason.
-
-Postal voters and other voters can get information on the website www.elections.gov.lk.
-
-With the presidential election to be held on September 21, 2024, the deadline for the restoration of it will be completed at 12 noon on the 14th.
-
-◼️
-
-[Data](articles/737d0713.json)
-
-[Extended Data](ext_articles/737d0713.ext.json)
 
 ---

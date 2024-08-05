@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 21:20:54**
+As of **2024-08-05 21:36:37**
 
 ## Newspaper Stats
 
-*Scraped **39,132** Articles*
+*Scraped **39,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,594
+adalk | 3,595
 adaderanalk | 4,544
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,903
 virakesarilk | 6,185
-adaderanasinhalalk | 6,615
+adaderanasinhalalk | 6,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,132 (100.0%) of 39,132 articles have been extended.
+39,132 (100.0%) of 39,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ක්‍රිකට් ශූරියන්ට යුද හමුදාවෙන් තෑග්ගක්
+
+*2024-08-05 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199599) · `si`
+
+ආසියානු කාන්තා ක්‍රිකට් ශුරතාවලියේ ශූරතාවය හිමිකරගත් ශ්‍රී ලංකා කණ්ඩායම නියෝජනය කළ ශ්‍රී ලංකා යුද හමුදා ක්‍රීඩිකාවන් වෙත දිරිදීමනාවක් ලබාදී තිබේ.
+
+අද (05) දින යුද හමුදා මුලස්ථානයේදී යුද හමුදාධිපති ලුතිනන් ජෙනරාල් විකුම් ලියනගේ විසින් එම මුල්‍ය ආධාර ලබාදී ඇත.
+
+එලෙස දිරිදීමනාව ලබාදී තිබුණේ සැරයන් ඩි.එම්.එස්.එම්.කේ දසනායක, සැරයන් ඩබ්.ජී.එස්.කේ කුලසුරිය, සැරයන් එන්.එන්.ඩී සිල්වා සහ ලාන්ස් කෝප්‍රල් එම්.ඒ.ඒ සංජීවනි යන ක්‍රීඩිකාවන් වෙතය.
+
+එහිදී යුද්ධ හමුදාධිපතිතුමන් විසින් එම ක්‍රිඩිකාවන්ට ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් සුබ පැතුම් එක්කළ අතර, එම තරගාවලියේදි ඔවුන් දැක්වූ විශිෂ්ට දස්කම් සහ කැපවීම ඇගයීමට ලක් කළේය.
+
+◼️
+
+[Data](articles/15bc0f55.json)
+
+---
 
 ### The man arrested for dragging the boy into the street
 
@@ -73,6 +91,20 @@ Foreign media reports that the steps have been taken due to the unrest in Dhaka.
 [Data](articles/cdeb37af.json)
 
 [Extended Data](ext_articles/cdeb37af.ext.json)
+
+---
+
+### ගංඟාරාම පොඩි හාමුදුරුවෝ දැයෙන් සමුගනිති
+
+*2024-08-05 20:06:13* · [`adalk`](https://www.ada.lk/picture_story/ගංඟාරාම-පොඩි-හාමුදුරුවෝ-දැයෙන්-සමුගනිති/10-411218) · `si`
+
+අපවත් වී වදාළ කොළඹ නව කෝරළයේ ප්‍රධාන සංඝනායක හුණුපිටිය ගංගාරාමාධිපති ආචාර්ය පූජ්‍ය ගලබොඩ ඤාණිස්සර හිමියන්ගේ දේහය පිළිබඳ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව අද (05) පස්වරුවේ සිදුකෙරුණි.
+
+ඒ විහාරස්ථානය ඉදිරිපිට පරිශ්‍රයේ සකස්කළ ආදාහන මළුවේදීය.උන්වහන්සේ කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අගෝස්තු දෙවැනිදා අපවත් වන විට 81 වැනි වියෙහි පසුවූහ.
+
+◼️
+
+[Data](articles/91826ad9.json)
 
 ---
 
@@ -2275,55 +2307,5 @@ He is the second, reporting his personal best time. 9.81 was able to give a skil
 [Data](articles/e55c9098.json)
 
 [Extended Data](ext_articles/e55c9098.ext.json)
-
----
-
-### Two persons including a boy who stole 5 shops and temple bundles in Mullaitivu
-
-*2024-08-05 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190288) · `ta`
-
-Two individuals, including a 14-year-old boy and a 24-year-old man, were arrested by the Pudukkudiyiruppu police for allegedly stealing from five shops and a temple in Mullaitivu. The thefts occurred recently across various locations, leading to public concern and heightened security measures in the area.
-
-🟩
-
-Two persons have been arrested by the Pudukkudiyiruppu police on Sunday (04) for allegedly stealing five shops and temple in Pudukkudiyiruppu in Mullaitivu.
-
-In the recent past, there have been a series of incidents that have been stolen by shops and temple bundles in the Pudukkudiyiruppu police division.
-
-A shop located in front of the Mullaitivu Pudukkudiyiruppu junction, a shop in front of the hospital, a shop in Mantuvil, a shop near Mantuvil, a shop near the Commons, a shop in Semmankundi, and the bundle of the Pudukkudiyiruppu Nagathambran temple has been broken and stolen.
-
-The police, led by MPR Herath, in charge of the Pudukkudiyiruppu Police Station, were arrested on the complaint made to the Pudukkudiyiruppu police.
-
-46,230 cash and stolen goods were seized from the arrested suspects.
-
-A 14 -year -old boy from the Pudukkudiyirupu 10th region and a 24 -year -old youth from Manduvilla have been arrested.
-
-...
-
-[Data](articles/47314b22.json)
-
-[Extended Data](ext_articles/47314b22.ext.json)
-
----
-
-### Completed today
-
-*2024-08-05 10:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-நிறைவு/175-341610) · `ta`
-
-Today, the Elections Commission announced the completion of postal voting application acceptance for the presidential election. Eligible voters must submit their applications to District Election Officers. Applications are available for free at voter display locations and district offices.
-
-🟩
-
-The Elections Commission said that the acceptance of postal voting applications for the presidential election has been completed today.
-
-The Commission also said that all voters eligible to apply for postal voting should submit their postal voting applications to the District Election Officers.
-
-Postal voting applications can be obtained free of charge from where the voter list is displayed and the district election offices.
-
-◼️
-
-[Data](articles/a2446b8f.json)
-
-[Extended Data](ext_articles/a2446b8f.ext.json)
 
 ---

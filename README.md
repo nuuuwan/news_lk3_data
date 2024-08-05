@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 18:28:49**
+As of **2024-08-05 18:38:49**
 
 ## Newspaper Stats
 
@@ -36,11 +36,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-05 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101016/chamari-nominated-for-icc-womens-player-of-the-month-for-july) · `en`
 
-Sri Lankan all-rounder and Women’s Team captain  Chamari Athapaththu has been nominated for ICC Women’s Player of the Month for July 2024 after leading her country to a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India.
+Sri Lankan all-rounder and Women’s Team captain Chamari Athapaththu has been nominated for ICC Women’s Player of the Month for July 2024 after leading her country to a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India.
 
 Athapaththu has been nominated alongside the Indian duo of Smriti Mandhana and Shafali Verma.
 
-Sri Lanka stalwart Chamari Athapaththu added another feather to her crown with a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India in July. This triumph was yet another feat under her leadership in the last 12 months, a period in which Sri Lanka have set several milestones, including first-ever T20I series wins against England and South Africa and securing their qualification for the ICC Women’s T20 World Cup 2024.
+Sri Lanka stalwart Chamari Athapaththu added another feather to her crown with a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India in July. This triumph was yet another feat under her leadership in the last 12 months, a period in which Sri Lanka have set several milestones, including first-ever T20I series wins against England and South Africa and securing their qualification for the ICC Women’s T20 World Cup 2024..
 
 ...
 

@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 14:55:13**
+As of **2024-08-05 15:06:12**
 
 ## Newspaper Stats
 
-*Scraped **39,072** Articles*
+*Scraped **39,081** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
-colombotelegraphcom | 370
 bbccomsinhala | 370
+colombotelegraphcom | 371
 islandlk | 2,251
-economynextcom | 2,354
+economynextcom | 2,357
 dailyftlk | 2,506
-adalk | 3,584
+adalk | 3,585
 adaderanalk | 4,533
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,890
-virakesarilk | 6,180
-adaderanasinhalalk | 6,602
+virakesarilk | 6,183
+adaderanasinhalalk | 6,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,070 (100.0%) of 39,072 articles have been extended.
+39,072 (100.0%) of 39,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### மகிழ்ச்சியைக் கொண்டாட சக நண்பர்களுடன் சென்றவர் நீரில் மூழ்கி உயிரிழப்பு !
+
+*2024-08-05 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190300) · `ta`
+
+மகிழ்ச்சியைக் கொண்டாட சமனலவெவ வாவி அருகிற்கு சென்ற இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+கொரிய நாட்டிற்கு செல்வதற்கு பாடநெறியினை மேற்கொண்டு பரீட்சையில் சித்தியடைந்த 8 இளைஞர்களை கொண்ட குழுவொன்று தமது ஆசிரியருடன் நேற்று பம்பஹின்ன சமனலவெவ வாவியின் வான் கதவிற்கு அருகில் சென்று பரீட்சையில் சித்தியடைந்த மகிழ்ச்சியை கொண்டாடியுள்ளனர்.
+
+கஹவத்த,வெலிகேபொல, பின்னவல,கொடகேவல பிரதேசத்தில் வசிக்கும் 8 இளைஞர்கள் நேற்று தமது ஆசிரியருடன் குறித்த பகுதிக்கு சென்றுள்ளனர்.
+
+அங்கு சென்றிருந்த ஒன்பது பேரில் மூன்று பேர் அந்த இடத்தில் முதல் முறையாக நீராடச் சென்றதாகவும், மற்றைய நபர்கள்  நீராட  செல்லவில்லை எனவும் விசாரணையில் தெரியவந்தது.
+
+நேற்று ஞாயிற்றுக்கிழமை (04) பிற்பகல் 2 மணியளவில் இந்த சம்பவம் பதிவாகியுள்ளதாக சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/689df155.json)
+
+---
+
+### ඩයනා ගමගේ ට එරෙහි පෙත්සමක් නිෂ්ප්‍රභ කෙරෙයි
+
+*2024-08-05 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199586) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට එරෙහිව ගොනු තිබූ පෙත්සමක් නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (05) තීන්දු කළේය.
+
+මෙම පෙත්සම ප්‍රීති පද්මන් සූරසේන, යසන්ත කෝදාගොඩ සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබුවේය.
+
+ඉන් අනතුරුව අදාළ පෙත්සම ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ලේ බහුතර විනිසුරුන්ගේ එකඟත්වය මත නිෂ්ප්‍රභ කිරීමට තීන්දු කළේය.
+
+වැලිගම හිටපු නගරාධිපති රෙහාන් ජයවික්‍රම මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/4e0c57d1.json)
+
+---
+
+### ෆොන්සේකා ජනාධිපතිවරණයට - ඇප මුදල් තැන්පත් කරයි
+
+*2024-08-05 14:38:11* · [`adalk`](https://www.ada.lk/breaking_news/ෆොන්සේකා-ජනාධිපතිවරණයට---ඇප-මුදල්-තැන්පත්-කරයි/11-411208) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+
+අද(05දා) පෙරවරුවේ මෙලෙස සරත් ෆොන්සේකා මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/c27c66a6.json)
+
+---
 
 ### Former MP also competition
 
@@ -51,6 +103,26 @@ Amarasinghe, the 15th person who deposited the control of the presidential elect
 [Data](articles/50681f75.json)
 
 [Extended Data](ext_articles/50681f75.ext.json)
+
+---
+
+### Sri Lanka’s Browns wraps up Kenya, Rwanda Lipton purchases
+
+*2024-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-buys-lipton-in-kenya-and-rwanda-175234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Browns Investments said it had completed the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands based parents.
+
+“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates,” the company said in a stock exchange filing.
+
+The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is still pending due to the outstanding approval from the Fair Competition Commission of Tanzania, the company said.
+
+It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in May.
+
+Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
+
+...
+
+[Data](articles/3ca0acca.json)
 
 ---
 
@@ -106,21 +178,29 @@ This includes six independent candidates whose names have been nominated by a vo
 
 ---
 
-### ගම්පහ පොහොට්ටු මන්ත්‍රීවරුන් 13 දෙනාගෙන් 9 ක්ම ජනපති රනිල්ට
+### Nine of the 13 MPs Gampaha buds to Ranil
 
 *2024-08-05 14:00:52* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-පොහොට්ටු-මන්ත්‍රීවරුන්-13-දෙනාගෙන්-9-ක්ම-ජනපති-රනිල්ට/11-411205) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට කැප වන බවට ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු,පළාත් සභා හා පළාත් පාලන මන්ත්‍රීවරුන්  ප්‍රතිඥා දෙති.
+Nine out of 13 MPs from the Gampaha district have pledged support for President Ranil Wickremesinghe ahead of the upcoming presidential election. This includes notable figures like Nalaka Godahewa, who recently joined the reconciliation effort, and Minister Nalin Fernando, who has switched allegiance from the Sri Lanka General Front to backing the President. Additionally, several local council representatives and former provincial councilors have expressed their support, indicating a broad base of backing for Wickremesinghe in the region.
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උඩුගම්පොළ, කාර්යාලයේ ඊයේ (4) පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිස්ත්‍රික් බල මණ්ඩල රැස්වීමේදි මෙම පිරිස මෙම ප්‍රතිඥාව ලබා දුන්හ.
+🟩
 
-ඉකුත් මහා මැතිවරණයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පාර්ලිමේන්තුවට තේරීපත්වූ මන්ත්‍රීවරුන් 13 දෙනෙකු තේරී පත්විය. ඉන් මන්ත්‍රීවරුන් 09 දෙනෙකු ජනාධිපතිවරයාගේ ජයග්‍රහණය වෙනුවෙන් කැප වන බවට දැනටමත් ප්‍රකාශ කර තිබේ.
+PSC and local councils representing the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment of the Gampaha District are committed to the victory of President Ranil Wickremesinghe in the next presidential election.
 
-රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරමින් ගම්පහ දිස්ත්‍රික්කයෙන්  පාර්ලිමේන්තුවට පත්වූ නාලක ගොඩහේවා මහතා මීට මාස කීපයකට ඉහත දී සමඟි ජනබලවේඟයට එක්විය.
+The group made this pledge from the District Board of Udugampola, the Udugampola, Office of the Government Prasanampola, Prasanmatunga, Minister Prasanampola and office yesterday (4).
+
+13 MPs elected to Parliament be elected at the Sri Lanka General Election last general election. Nine MPs have already said that they were committed to the President's victory.
+
+Nalaka Godahewa, who was in the Gampaha District representing the Ceylon General Front, joined the reconciliation a few months ago.
+
+Also, the decision of the Prasanna Ranaweera and Indika Anuruddha party, the stand of Mrs. Sudarshani Fernandopulle is still not clear. But her close friends say that she is ready to support the president.
 
 ...
 
 [Data](articles/17423eac.json)
+
+[Extended Data](ext_articles/17423eac.ext.json)
 
 ---
 
@@ -169,6 +249,24 @@ The 33-year-old mother has been arrested regarding the death and the Tiilipple P
 [Data](articles/f53954ea.json)
 
 [Extended Data](ext_articles/f53954ea.ext.json)
+
+---
+
+### Ninety Sri Lankan legislators yet to reveal asset, liability details to CIABOC
+
+*2024-08-05 13:41:00* · [`economynextcom`](https://economynext.com/ninety-sri-lankan-legislators-yet-to-reveal-asset-liability-details-to-ciaboc-175235/) · `en`
+
+ECONOMYNEXT – At least 90 out of the total 225 Sri Lankan legislators are yet to provide their assets and liability details to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) in line with the latest Anti-Corruption Act, official documents show.
+
+A recent amendment to the Anti-Corruption Act has mandated the President, Prime Minister, Members of Parliament, Provincial Governors, Provincial Council Members, and officers of the Provincial Public Service, elected representatives, and officers of Local Government bodies, as well as judges and government officials appointed by the President, to disclose their assets and liabilities.
+
+The CIABOC has made details of all the assets and liabilities of public officials it has received in its official website under ‘Declaration of Assets’ sub category.
+
+According to the details provided in the official CIABOC website, only 135 MPs have declared their assets and liabilities so far.
+
+...
+
+[Data](articles/38abc599.json)
 
 ---
 
@@ -354,6 +452,18 @@ Investigations conducted by the police to the arrested Samal revealed shocking r
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-05 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190312) · `ta`
+
+இன்று திங்கட்கிழமை (ஆகஸ்ட் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.65  ஆகவும் கொள்வனவு விலை ரூபா 297.33 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/647f8661.json)
+
+---
+
 ### EC refutes reports claiming voters can cast votes at any polling station
 
 *2024-08-05 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101004/ec-refutes-reports-claiming-voters-can-cast-votes-at-any-polling-station-) · `en`
@@ -400,17 +510,59 @@ The arrested suspects are workers between the ages of 22 and 29 living in Ratmal
 
 ---
 
-### මැතිවරණ කොමිෂමෙන් විශේෂ නිවේදනයක්
+### Elections Commission is a special announcement
 
 *2024-08-05 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිෂමෙන්-විශේෂ-නිවේදනයක්/11-411203) · `si`
 
-ජනාධිපතිවරණයේ දී ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්ද හිමියන්ට දිවයිනේ ඕනෑම ඡන්ද පොළකින් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ඇතැයි යනුවෙන් මැතිවරණ කොමිෂන් සභාවේ කිසිඳු නිල තීරණයක් නොවන සම්පුර්ණ අසත්‍ය කරුණු ඇතුළත් සාවද්‍ය ප්‍රවෘත්තියක් මාධ්‍ය හා සමාජ මාධ්‍ය තුළ සංසරණය වන බවට මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කර තිබේ.
+The Elections Commission announced that voters can only cast ballots for their registered parties, emphasizing no decisions have been made yet regarding the election results.
 
-එවැනි කිසිඳු තීරණයක් ගෙන නොමැති බවත් ඡන්ද හිමියන්ට ඡන්දය ප්‍රකාශ කළ හැක්කේ තමන් ලියාපදිංචි ජන්ද මධ්‍යස්ථානයෙන් පමණක් බවත් මැතිවරණය කොමිෂන් සභාව වැඩිදුරටත් නිවේදනය කරයි.
+🟩
+
+The Elections Commission has issued an announcement in the media and social media that registered votes in the election list of the electoral regions in the presidential election.
+
+No decision has been taken and that they can vote can only vote for the votes by their registered party and further announced the election commission.
 
 ◼️
 
 [Data](articles/940fb22d.json)
+
+[Extended Data](ext_articles/940fb22d.ext.json)
+
+---
+
+### Bangladesh protests kill 90, apparel factories shut, amid IMF backed crawling peg
+
+*2024-08-05 12:28:00* · [`economynextcom`](https://economynext.com/bangladesh-protests-kill-90-apparel-factories-shut-amid-imf-backed-crawling-peg-175227/) · `en`
+
+ECONOMYNEXT – Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation in the middle of an International Monetary Fund deal.
+
+At least 13 policemen were beaten to death and 6 Awami League men were also among the dead, Bangladesh’s Financial Express newspaper reported.
+
+With internet access cut, some newspapers are not online, while others are uploading pdf versions of their editions online.
+
+Bangladesh’s Taka has been under pressure since the economy started to recover after Covid and the central bank did not allow rates to go up amid a strong recovery.
+
+The Bangladesh Taka which was around 84 to the US dollar during the crisis but started to slide as the economy recovered strongly.
+
+...
+
+[Data](articles/03ca85ff.json)
+
+---
+
+### அம்பலாங்கொடையில் தீ வைத்து எரிக்கப்பட்ட நிலையில் மோட்டார் சைக்கிள் மீட்பு !
+
+*2024-08-05 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190292) · `ta`
+
+அம்பலாங்கொடை, விஹாரகொட பகுதியில் உள்ள கறுவாத்தோட்டமொன்றில் சந்தேகத்திற்கிடமான முறையில் தீ வைத்து எரிக்கப்பட்ட நிலையில் மோட்டார் சைக்கிள் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்துள்ளனர்.
+
+அம்பலாங்கொடை பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சோதனையில், விஹாரகொட பிரதேசத்தில் உள்ள விகாரையொன்றிற்கு அருகிலுள்ள கறுவாத்தோட்டத்திலிருந்து இந்த மோட்டார் சைக்கிள் கண்டெடுக்கப்பட்டுள்ளது.
+
+மேலும், அம்பலாங்கொடை பகுதியில் கடந்த நாட்களில் இடம்பெற்ற குற்றச் செயல்களுக்கு இந்த மோட்டார் சைக்கிள் பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/a09d0b93.json)
 
 ---
 
@@ -1155,6 +1307,18 @@ I could see the elephant's eyes off when the sun rose. He said this was an unfor
 [Data](articles/4ed1f7ae.json)
 
 [Extended Data](ext_articles/4ed1f7ae.ext.json)
+
+---
+
+### Child’s Guide To Debt & Debt Restructuring – Part V
+
+*2024-08-05 09:19:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-v/) · `en`
+
+Aseni and Sarath Mahatthaya are continuing their interactive conversation on debt and debt restructuring. They have concluded that a country should borrow from foreign sources – savings made by people in other countries by curtailing their consumption – to finance the high investments which cannot be met through inadequate domestic savings. In the case of Sri Lanka, the savings made by the private sector have been reduced by dissaving made by the Government by consuming more than the revenue. That latter dissaving had been about 1% of GDP in the post-independence period and about 7% of GDP in the recent years.
+
+...
+
+[Data](articles/122b5e71.json)
 
 ---
 
@@ -2057,239 +2221,5 @@ The array of the festival of the five round. 44.999, the match was completed and
 [Data](articles/a0045d35.json)
 
 [Extended Data](ext_articles/a0045d35.ext.json)
-
----
-
-### England Test squad facing Sri Lanka
-
-*2024-08-04 23:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199566) · `si`
-
-England's Test squad for the series against Sri Lanka includes replacements after Zac Croly was injured. The series starts on June 21st in Manchester, with Ben Stokes leading the team.
-
-🟩
-
-England, England, who participated in the three-match Test series against Sri Lanka, was named this afternoon.
-
-The opener Zac Croly has been removed from the squad of 14 people published by the England Cricket Selection Committee.
-
-Tourist bi. Croivege's right hand was hit by a finger at the third Test match against West Indies, and as a result, he lost the Sri Lankan tournament.
-
-Accordingly, the 23-year-old Jordan Cowks, a 23-year-old batsman, has been called for a new batsman of the House.
-
-The first match of the three-match Sri Lanka Test series will be held on the 21st of this month at Manchester.
-
-Ben Stokes (Leader), Trees Atkinson, Harry Broorence, Jamie Smith, Jamie Smith, Ollie Smith, Mark Wood, Mark Wood, Mark Wood, Mark Vol
-
-◼️
-
-[Data](articles/459da1e7.json)
-
-[Extended Data](ext_articles/459da1e7.ext.json)
-
----
-
-### Sri Lanka won India by 32 runs with the help of Vendase's 6 wickets.Infinite in the series
-
-*2024-08-04 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190279) · `ta`
-
-In the 2nd ODI match, Sri Lanka beat India by 32 runs, thanks to Jevri Vendasee's impressive 6-wicket haul. Leading the 3-match series 1-0, Sri Lanka posted 240/9 in 50 overs, with key contributions from Avishka Fernando and Kusal Mendis. In reply, India fell short at 208 all out in 42.2 overs, despite a promising start by Rohit Sharma and Shubman Gill.
-
-🟩
-
-Colombo, r. Sri Lanka won India by 32 runs in the 2nd ODI match held at Premadasa Stadium on Sunday (04).
-
-Jevri Vendasee accurately registered a bowling 6 wicket pile and registered his fantastic bowling.
-
-Sri Lanka is leading the 1 - 0 in the 3 -match international ODI series by winning the second match.
-
-Sri Lanka decided to bat first and scored 240 runs for the loss of 9 wickets in 50 overs.
-
-Although the opening player Beth and Nissank lost the first ball, Avishka Bernando and Kusal Mendis shared 74 runs in the 2nd wicket.
-
-They were followed by Sadheera Samarawickrama (14), Janith Liyanage (12) and Sarit Asalanka (25).
-
-However, Dunit Vellalake scored 39 runs and shared 72 runs in the 7th wicket with Kamundu Mendis.
-
-Washington Sundar took 3 wickets for 30 runs while Kuldeep Yadav took 2 wickets for 33 runs.
-
-In response to 241 runs, India lost all the wickets in 42.2 overs and lost 208 runs.
-
-...
-
-[Data](articles/dfc360b5.json)
-
-[Extended Data](ext_articles/dfc360b5.ext.json)
-
----
-
-### Sri Lanka won India
-
-*2024-08-04 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வென்ற-இலங்கை/44-341594) · `ta`
-
-In a cricket match, Sri Lanka defeated India, marking a significant victory for the team.
-
-🟩
-
-◼️
-
-[Data](articles/cc7f5100.json)
-
-[Extended Data](ext_articles/cc7f5100.ext.json)
-
----
-
-### Sri Lanka beat India by 32 runs to take lead in ODI series
-
-*2024-08-04 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100995/sri-lanka-beat-india-by-32-runs-to-take-lead-in-odi-series) · `en`
-
-Sri Lanka registered a memorable comeback 32-run win in the second ODI against India in Colombo on Sunday, August 4.
-
-The hosts also claimed their first ODI win against the world no.1 India after 1,108 days with a 1-0 lead in three three-match series.
-
-Kamindu Mendis and Avishka Fernando helped Sri Lanka post a challenging total of 240 while batting first and then the experienced spinner Jeffrey Vandersy picked six wickets to bowl out India to 28 in 42.2 overs.
-
-Rohit Sharma scored another quick fifty to give India a stunning start while chasing a manageable target at R Premadasa Stadium. But the Men in Blues witnessed an embarrassing collapse from 97/0 to 147/6 with Vandersay claiming all first six wickets in one of the best ODI spells in Sri Lanka cricket history.
-
-...
-
-[Data](articles/418e9eea.json)
-
-[Extended Data](ext_articles/418e9eea.ext.json)
-
----
-
-### Sri Lanka wins second ODI
-
-*2024-08-04 22:05:41* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-එක්දින-තරගය-ලංකාව-ජය-ගනියි/9-411193) · `si`
-
-In the second ODI match, Sri Lanka triumphed over India by 32 runs on the Premadasa Ground, taking a 1-0 lead in the series. Sri Lanka's score was 240, while India managed 208 runs. Jeffry Vandesi starred with 6 wickets, supported by Charry with 3.
-
-🟩
-
-Tourist arrivals by 32 runs in Colombo. The Care Sri Lanka won the second ODI match on Premadasa Ground.
-
-Sri Lanka is ahead of 1-0. The first match ended with marks.
-
-The Sri Lankan team first scored 240 runs while the Indian team was bowled out for 208 runs.
-
-Jeffry Vandesi took 6 wickets. Charry took 3 wickets.
-
-◼️
-
-[Data](articles/b7ef205a.json)
-
-[Extended Data](ext_articles/b7ef205a.ext.json)
-
----
-
-### Controversy over the arbitration judgment;Request to re -hold the Divisional Level Group Dance Competition
-
-*2024-08-04 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190278) · `ta`
-
-The controversy surrounds the Divisional Level Group Dance Competition held on June 22, 2024, where parents and students express dissatisfaction due to insufficient referees and delayed result announcements. Despite concerns raised, no action was taken against the organizers, leading to calls for a rerun of the competition to ensure fairness.
-
-🟩
-
-The affected school community has requested that the Divisional Level and Open Division Group dancers held between the Attan Education Zone schools at the All Ceylon Tamil Day competitions.
-
-Parents have expressed their pain that their children are also depressed.
-
-It is revealed that the Divisional Level Group Dance Tournament (Open) was held on Saturday 22/06/2024 at the Kuilvatam TMC.
-
-Students from three schools participate in a group of dancers. Although the principle of five referees should be appointed to the group dance, only one referee has been appointed in the competition.
-
-It is reported that those responsible have been asked about this, but the correct answers are not given. Though the matches ended at 2 pm, the results were not displayed until five o'clock in the evening.
-
-...
-
-[Data](articles/4c2becf8.json)
-
-[Extended Data](ext_articles/4c2becf8.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka 32 runs
-
-*2024-08-04 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199565) · `si`
-
-In a thrilling cricket match, Sri Lanka convincingly won against India by 32 runs in the second ODI. The standout performance came from Sri Lanka's bowlers, especially Jeffrey Vandersay with 6 wickets for 33 runs, and Muttiah Muralitharan with 7/30. Despite India's strong start, losing their first wicket early, they couldn't maintain momentum with top scorers Virat Kohli (64), Nissar Patel (44), and Shubman Gill (35). Sri Lanka's batting also contributed significantly, led by young talent Kusal Mendis with 39 runs off 35 balls, alongside Kamindu Mendis and Asitha Fernando scoring 40 each. This victory secured Sri Lanka's lead in the three-match series.
-
-🟩
-
-The hospital was able to win the second ODIs against the tourist Indian team due to the exceptional bowling of Jeffrey Veshanter.
-
-Colombo. In response to a target of 241 runs in the Premadasa Stadium, the Sri Lankan batsmen were able to assemble 241 runs in 42.2 overs.
-
-India was defeated when they were the first wicket in 13.3 overs.
-
-The leader of the Indian innings scored 64 runs in the attack.His innings included four sixes and five fours.
-
-In addition, Nissar Patgal scored 44 runs and Gill scored 35 runs.
-
-Jeffrey Vander, who had the full weight of the Indian innings, was taken to Sri Lanka.
-
-The Superior Bowling, who was sent by 6 wickets for 33 runs.
-
-Muttiah Muralitharan (7/30) is the best bowler against India.
-
-In addition to Vandarer, the leader Charith was often in a talented bowler with three wickets in Sri Lanka.
-
-Batting first Sri Lanka scored 240 runs for the loss of 9 wickets in the 50 overs.
-
-Young women scored 39 runs in 35 balls with 35 off 35 balls.
-
-...
-
-[Data](articles/1bc092d7.json)
-
-[Extended Data](ext_articles/1bc092d7.ext.json)
-
----
-
-### Meets a burning motorcycle
-
-*2024-08-04 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199564) · `si`
-
-Ambalangoda Police discovered a burnt motorcycle near a cinnamon plantation, suspected of being linked to criminal activities in the vicinity.
-
-🟩
-
-Ambalangoda Police has recovered a motorcycle that was burned to doubt on the cinnamon land of Viharajana, Ambalangoda.
-
-The motorcycle was found in a cinnamon land adjacent to the wall of Viharagoda and the Viharaya.
-
-Ambalangoda Police suspect whether this motorcycle was used for a crime in the area.
-
-◼️
-
-[Data](articles/dcf84d61.json)
-
-[Extended Data](ext_articles/dcf84d61.ext.json)
-
----
-
-### Special security for Presidential candidates
-
-*2024-08-04 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199563) · `si`
-
-A special security program for presidential election candidates is being implemented by a committee, as announced by the Defense Ministry's Secretary, Vanii Gunatilake. This includes transferring the Inspector General of Police's powers to ensure security during the election period. The Secretary to the President has notified the Elections Commission about these measures.
-
-🟩
-
-The committee appointed to implement a special security program for candidates contesting the presidential election.
-
-According to the Secretary Defense Ministry Vanii Gunatilake, the Committee has planned to implement a special security program for all candidates after handing over the nominations for the presidential election.
-
-Meanwhile, all the powers of the Inspector General of Police Vani Gunatilake have been handed over to the implementation of the security program for the presidential election due to the issue of the police.
-
-The Secretary to the President has also informed the Elections Commission in writing.
-
-Accordingly, all orders issued by the IGP in the election duration and the arrangement of arrangements for election duties and meet the transportation of meetings, meet the transport needs and payments.
-
-◼️
-
-[Data](articles/de47c825.json)
-
-[Extended Data](ext_articles/de47c825.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 00:36:07**
+As of **2024-08-06 00:54:20**
 
 ## Newspaper Stats
 
-*Scraped **39,162** Articles*
+*Scraped **39,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 370
 colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,363
-dailyftlk | 2,506
+dailyftlk | 2,510
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
@@ -26,9 +26,25 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,162 (100.0%) of 39,162 articles have been extended.
+39,162 (100.0%) of 39,166 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-06 (Tuesday)
+
+### Empowering entrepreneurs: Expert Insights from the Human Capital Summit 2024
+
+*2024-08-06 00:36:11* · [`dailyftlk`](https://www.ft.lk/business/Empowering-entrepreneurs-Expert-Insights-from-the-Human-Capital-Summit-2024/34-765192) · `en`
+
+With a focus on navigating the complexities of launching and scaling new ventures, the Start-ups Pillar of the Human Capital Summit 2024 offered invaluable insights into the strategies, challenges, and opportunities of the entrepreneurial landscape.
+
+This pillar, headlined by influential figures such as Invest India former Managing Director and CEO Deepak Bagla, and Art Dane Finch, a notable South African-American entrepreneur and investor, tech consultant, and Founder of the Yung Drung Export Hub, highlighted the critical elements of successful startups, from securing funding and supporting innovation to building resilient teams and creating impactful customer experiences.
+
+...
+
+[Data](articles/9cff804f.json)
+
+---
 
 ### 2024-08-05 (Monday)
 
@@ -206,6 +222,20 @@ Speaking further the public minister said that the vehicle license and insurance
 
 ---
 
+### WISTA hosts Karen Leong for keynote on transformative leadership on 13 Aug.
+
+*2024-08-05 22:11:12* · [`dailyftlk`](https://www.ft.lk/business/WISTA-hosts-Karen-Leong-for-keynote-on-transformative-leadership-on-13-Aug/34-765185) · `en`
+
+In a rapidly evolving world marked by technological advancements, geopolitical uncertainties, shifting customer expectations, and significant workplace transformations, the need for transformative leadership has never been more critical.
+
+The Women’s International Shipping and Trading Association (WISTA) Sri Lanka, celebrating its 10th anniversary, is set to address these pressing challenges with a significant event titled “Charting the Course of Success in a Disruptive World”. Scheduled for 13 August 2024, at the Oak Room, Cinnamon Grand Colombo, this event features the esteemed Karen Leong, a globally recognised thought leader in sustainable transformation.
+
+...
+
+[Data](articles/904f3623.json)
+
+---
+
 ### First special course for SL foreign service officers inaugurated at SSIFS in New Delhi
 
 *2024-08-05 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101023/first-special-course-for-sl-foreign-service-officers-inaugurated-at-ssifs-in-new-delhi) · `en`
@@ -225,6 +255,36 @@ An initial batch of 10 new SLFS recruits as well as other officials from governm
 [Data](articles/d5a3c14b.json)
 
 [Extended Data](ext_articles/d5a3c14b.ext.json)
+
+---
+
+### Who holds Sri Lanka’s external debt and how China is assisting Sri Lanka
+
+*2024-08-05 21:47:37* · [`dailyftlk`](https://www.ft.lk/columns/Who-holds-Sri-Lanka-s-external-debt-and-how-China-is-assisting-Sri-Lanka/4-765176) · `en`
+
+Aerial photo taken on 26 Nov. 2021 shows a panoramic view of Colombo Port City in Sri Lanka (China’s CHEC Port City Colombo/Handout via Xinhua)
+
+Aerial photo taken on 6 May 2021 shows a view of Sri Lanka’s Hambantota International Port (Photo by Liu Hongru/Xinhua)
+
+Sri Lanka reached a debt restructuring agreement with commercial creditors in July 2024 to restructure $ 12.5 billion in the country’s outstanding International Sovereign Bonds (ISBs). The parties agreed on core financial terms of restructuring the ISBs, which are now embodied in a joint working debt treatment framework (the Joint Working Framework). The framework proposes a 28% cut on the face value, an 11% reduction on past interest, with interest payments commencing in September.
+
+...
+
+[Data](articles/81ea4c7d.json)
+
+---
+
+### Embracing change: Economic Transformation Bill
+
+*2024-08-05 21:40:17* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-change-Economic-Transformation-Bill/4-765175) · `en`
+
+It is true that the goals and policies reflected in the Bill appear quite broad; however, it is crucial to recognise that no law is perfect or capable of achieving all its outcomes – Pic by Lasantha Kumara
+
+The specialised bodies proposed to be set up by the Bill will be able to facilitate these industries by providing incentives for businesses operating within the zones, such as tax breaks, grants, and easier access to funding along with investment ready infrastructure such as innovation hubs, grants for research activities and streamlined processes for hiring skilled foreign workers and incentives for local talent development. These differences suggest a more dynamic and targeted approach compared to the existing laws and it is the role of the private sector to now embrace these changes and actively participate in driving economic transformation
+
+...
+
+[Data](articles/d78290bf.json)
 
 ---
 
@@ -2269,95 +2329,5 @@ The deceased young man has been studying from Kahawatta, to stay at his Siddhapp
 [Data](articles/7fb25deb.json)
 
 [Extended Data](ext_articles/7fb25deb.ext.json)
-
----
-
-### Notification for Election Commission
-
-*2024-08-05 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199581) · `si`
-
-The Election Commission warns that the number of registered voters in the Naming Region for the Presidential Election may be incorrect. They clarify that voting can only occur at designated polling booths within the office of the post, not elsewhere. Additionally, postal voting is available for those who cannot attend in person, but it requires verification from an assurance officer. Voters will receive official notices with their names and assigned polling stations. The Commission reiterates that voting outside designated areas is prohibited.
-
-🟩
-
-The Elections Commission emphasizes that the number of registered votes in the election list of the Naming Region to the Presidential Election will be false.
-
-The Electoral Commission issues an announcement, no one has the polling booth to vote on the polling fair in the office of post.
-
-In addition, a post-postal voting entitlement is the potential to vote in his assurance officer.
-
-The official notice of the voter's name, voter polling station will be sent by the name of the voter turnout of the voter registered voters in the electoral registered lists.
-
-The Elections Commission emphasizes that no one can vote at the polling fair.
-
-◼️
-
-[Data](articles/2735af9c.json)
-
-[Extended Data](ext_articles/2735af9c.ext.json)
-
----
-
-### Marriage with 5 women: 49 women contact
-
-*2024-08-05 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பெண்களுடன்-திருமணம்-49-பெண்களிடம்-தொடர்பு/175-341620) · `ta`
-
-A man from Odisha, Satyajit Samal, married five women under false pretenses, claiming to be a police officer. He cheated them out of significant sums, leading to his arrest after two victims reported him. Investigations uncovered he targeted young widows and divorced women via matrimonial sites, forcing them into marriage and extracting money and gifts. His lavish lifestyle was funded by these scams, until his arrest, which included seizing assets and freezing his bank accounts.
-
-🟩
-
-A person who married five women has been found to be in touch with 49 women. The man has been arrested on charges of marrying women and cheating on them.
-
-Satyajit Samal hails from Jajpur district of Odisha State. The 34 -year -old is married to 5 women who cheated as a police officer. He has been living a luxury life from them.
-
-Two women who were cheated by Samal filed separate complaints at the police station. Based on the complaint, the police investigated and arrested Samalai. In particular, Samalai arrests
-
-Yya police trapped using a female officer. When Samal came to meet the woman, she was arrested by the police.
-
-Investigations conducted by the police to the arrested Samal revealed shocking reports. That is, Samal has spoken to them as a police officer targeting young widows and divorce through marriage sites.
-
-...
-
-[Data](articles/301621b3.json)
-
-[Extended Data](ext_articles/301621b3.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-05 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190312) · `ta`
-
-I'm unable to provide real-time data or updates such as today's currency exchange rates directly. However, I can help summarize information or answer questions based on historical data or general knowledge. If you have specific details about the currency exchange rate between the US dollar and another currency, please share them, and I'll do my best to provide a summary within the character limit.
-
-🟩
-
-The US dollar sales price was Rs.
-
-◼️
-
-[Data](articles/647f8661.json)
-
-[Extended Data](ext_articles/647f8661.ext.json)
-
----
-
-### EC refutes reports claiming voters can cast votes at any polling station
-
-*2024-08-05 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101004/ec-refutes-reports-claiming-voters-can-cast-votes-at-any-polling-station-) · `en`
-
-The Election Commission emphasizes that false information is circulating alleging that the voters registered in the voter’s list will be facilitated to cast their vote at any polling station in the island.
-
-Issuing a statement, the election regulatory body refuted these reports and said that the voters must vote at the polling station assigned to their registered constituency only, as per election regulations.
-
-Additionally, postal voters retain the option to cast their vote in the presence of their Certifying Officer, providing a measure of convenience for those unable to visit their designated polling station, the statement added.
-
-In preparation for the upcoming election, the Commission will send official ballot notices to registered voters. These notices will include the voter’s name, the address of the polling station where they are eligible to vote, and detailed voting instructions, the commission said.
-
-...
-
-[Data](articles/dc858e36.json)
-
-[Extended Data](ext_articles/dc858e36.ext.json)
 
 ---

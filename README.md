@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 12:36:17**
+As of **2024-08-05 12:54:18**
 
 ## Newspaper Stats
 
-*Scraped **39,050** Articles*
+*Scraped **39,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,250
 economynextcom | 2,354
 dailyftlk | 2,506
 adalk | 3,579
-adaderanalk | 4,528
+adaderanalk | 4,529
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,884
+tamilmirrorlk | 4,885
 virakesarilk | 6,180
 adaderanasinhalalk | 6,597
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,049 (100.0%) of 39,050 articles have been extended.
+39,050 (100.0%) of 39,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### EC refutes reports claiming voters can cast votes at any polling station
+
+*2024-08-05 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101004/ec-refutes-reports-claiming-voters-can-cast-votes-at-any-polling-station-) · `en`
+
+The Election Commission emphasizes that false information is circulating alleging that the voters registered in the voter’s list will be facilitated to cast their vote at any polling station in the island.
+
+Issuing a statement, the election regulatory body refuted these reports and said that the voters must vote at the polling station assigned to their registered constituency only, as per election regulations.
+
+Additionally, postal voters retain the option to cast their vote in the presence of their Certifying Officer, providing a measure of convenience for those unable to visit their designated polling station, the statement added.
+
+In preparation for the upcoming election, the Commission will send official ballot notices to registered voters. These notices will include the voter’s name, the address of the polling station where they are eligible to vote, and detailed voting instructions, the commission said.
+
+...
+
+[Data](articles/dc858e36.json)
+
+---
+
+### ‘திருகு’ திருடிய ஐவர் கைது
+
+*2024-08-05 12:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகு-திருடிய-ஐவர்-கைது/175-341619) · `ta`
+
+ரயில் நிலையங்களுக்கு அண்மையில் நிறுத்திவைக்கப்படும் ரயில் பெட்டிகளில், திருகு இணைப்புகளைத் திருடினர் என்ற குற்றச்சாட்டில் ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+
+இரத்மலானை ரயில் தண்டவாளத்தில், நிறுத்தி வைக்கப்பட்டிருந்த புகையிரத பெட்டிகளில் இருந்து சுமார் 4 லட்சம் ரூபாய் பெறுமதியான இரும்புத் தொகுதிகளை திருடிச் சென்ற குற்றச்சாட்டில் இவர்கள் ஐவர் கைது செய்யப்பட்டுள்ளதாக கல்கிஸை தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+இரண்டு இரும்பு சாதனங்களுடன் இருவரை புகையிரத பாதுகாப்பு அதிகாரிகள்  கைது செய்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+சந்தேக நபர்கள் இரண்டு ரயில் பெட்டிகளை இணைக்கப் பயன்படுத்தப்படும் இரண்டு திருகு இணைப்புகளைத் திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் இரத்மலானை, பிலியந்தல  ஆகிய பிரதேசங்களில் வசிக்கும் 22 மற்றும் 29 வயதுக்குட்பட்ட தொழிலாளர்களாவர்.
+
+◼️
+
+[Data](articles/7ee17699.json)
+
+---
 
 ### Club Wasantha’s son summoned before court
 
@@ -47,6 +85,8 @@ Police have arrested ten suspects including the owner of the tattoo studio in At
 ...
 
 [Data](articles/9d15a3d4.json)
+
+[Extended Data](ext_articles/9d15a3d4.ext.json)
 
 ---
 
@@ -2265,53 +2305,5 @@ Colombo R. Sri Lanka scored 240 runs for the loss of 9 wickets in the 50 overs.
 [Data](articles/3ebfd456.json)
 
 [Extended Data](ext_articles/3ebfd456.ext.json)
-
----
-
-### Bangladesh protesters demand PM’s resignation: 23 killed, nearly 200 injured as protests turn deadly
-
-*2024-08-04 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100991/bangladesh-protesters-demand-pms-resignation-23-killed-nearly-200-injured-as-protests-turn-deadly) · `en`
-
-At least 23 people have been killed in Bangladesh as clashes erupted between police and anti-government protesters who are demanding that Prime Minister Sheikh Hasina step down.
-
-The latest round of tension comes as the student leaders have declared a campaign of civil disobedience against the government.
-
-Police have used tear gas and rubber bullets to disperse demonstrators in several parts of Bangladesh. Around 200 people have been injured.
-
-In the capital, Dhaka, access to internet on mobile devices has been suspended, with some providers telling local media they received orders from the government.
-
-An official from the Bangladesh Telecommunication Regulatory Commission (BTRC) official told BBC Bengali that 4G internet service in the Dhaka city area had stopped for now, but broadband services would continue.
-
-Without 4G and 3G people cannot communicate using the internet on their mobile devices. The source did not say when internet services would return to normal.
-
-...
-
-[Data](articles/d8dcf0ea.json)
-
-[Extended Data](ext_articles/d8dcf0ea.ext.json)
-
----
-
-### Presidential candidate of the universal power Dilith Jayaweera
-
-*2024-08-04 17:52:46* · [`adalk`](https://www.ada.lk/breaking_news/සර්වජන-බලයේ-ජනාධිපති-අපේක්ෂකත්වය-දිලිත්-ජයවීරට/11-411188) · `si`
-
-Dilith Jayaweera, nominated as the presidential candidate of the Universal Power, stated his exemption aims to safeguard Sri Lanka. This announcement came during his nomination at the Sugathadasa Indoor Stadium, supported by the National Freedom Front's unanimous decision. Present were key figures including Wimal Weerawansa, Udaya Gammanpila, and former Governor Anuradha Jayampath, among others.
-
-🟩
-
-The presidential election entrepreneur of the presidential election, Dilith Jayaweera said that the exempt was created to protect Sri Lanka.
-
-He was speaking at the Sugathadasa Indoor Stadium today (04) after being nominated at the Sugathadasa Indoor Stadium today (04).
-
-The Leader of the National Freedom Front Wimal Weerawansa said that the executive council was unanimously decided to name the Entrepreneur Dilith Jayaweera as the presidential candidate of the universal power.
-
-Members of Parliament Wimal Weeradesh, Udaya Gammanpila, Udaya Gammanpila, Udaya Gammanpila, Udaya Gammanpila, Weeramana Weerasinghe, Gamini Walaboda and former Governor Anuradha Jayampath, and Aros Chanmpathu were also present.
-
-◼️
-
-[Data](articles/8448265d.json)
-
-[Extended Data](ext_articles/8448265d.ext.json)
 
 ---

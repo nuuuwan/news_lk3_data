@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 19:06:24**
+As of **2024-08-05 19:20:53**
 
 ## Newspaper Stats
 
-*Scraped **39,118** Articles*
+*Scraped **39,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
 adalk | 3,591
-adaderanalk | 4,542
+adaderanalk | 4,543
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,897
+tamilmirrorlk | 4,898
 virakesarilk | 6,185
 adaderanasinhalalk | 6,612
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,116 (100.0%) of 39,118 articles have been extended.
+39,118 (100.0%) of 39,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### 17 presidential candidates place deposits thus far
+
+*2024-08-05 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101020/17-presidential-candidates-place-deposits-thus-far) · `en`
+
+Three more candidates have placed their deposits today (Aug 05) in order to contest the 2024 Presidential Election, the Election Commission said.
+
+Accordingly, 17 candidates in total have placed their deposits with the Election Commission thus far.
+
+This includes seven independent candidates whose names have been nominated by a voter, nine candidates from recognized political parties and one candidate from other political parties.
+
+The independent candidates who have placed bonds today are Field Marshal Sarath Fonseka and Siripala Amarasinghe while K.R. Krishan of ‘Arunalu Janatha Peramuna’ has also placed deposits with the elections regulatory body.
+
+Earlier, deposits had been placed on behalf of the independent candidates President Ranil Wickremesinghe, K. Ananda Kularatne, Ven. Akmeemana Dayaratane Thero and former MP Sarath Keerthirathne while 13 others placed their bonds from recognized and other political parties.
+
+...
+
+[Data](articles/4fc7357e.json)
+
+---
+
+### வங்கதேச பிரதமர் மாளிகையை சூறை: படங்கள் இணைப்பு
+
+*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறையாடியனர்/50-341637) · `ta`
+
+வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்தில் நுழைந்த போராட்டக்காரர்கள், பிரதமர் மாளிகையில் சூறையாடியாதால் பெரும் பதற்றம் ஏற்பட்டது.
+
+மாணவர்கள் போராட்டத்தின் எதிரொலியாக, வங்கதேச பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்துவிட்டு நாட்டை விட்டுச் வெளியேறிச் சென்ற நிலையில், ‘இடைக்கால அரசு விரைவாக அமைக்கப்படும்’ என்று அந்நாட்டு ராணுவம் தெரிவித்துள்ளது. இச்சூழலில், புகழ்பெற்ற எழுத்தாளரும், பேராசிரியருமான சலிமுல்லா கான் தலைமையில், வங்கதேசத்தில் இடைக்கால அரசு அமையும் என்று வங்கதேச தேசிய கட்சி தெரிவித்துள்ளது.
+
+அடுத்தடுத்த அரசியல் நகர்வுகளுக்கு மத்தியில், போராட்டக்காரர்கள் வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து சூறையாடினர். பிரதமர் பதவியை ராஜினாமா செய்து டாக்காவில் இருந்து ராணுவ விமானம் மூலம் நாட்டை விட்டு ஷேக் ஹசீனா வெளியேறிய நிலையில், பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து கையில் சிக்குவதை எடுத்துக்கொண்டும், சிலர் கோப்புகளை கிழித்தனர்.
+
+...
+
+[Data](articles/1af1c4d6.json)
+
+---
 
 ### Deadline for postal voting applications extended
 
@@ -102,23 +138,29 @@ Also, its secretary Dr. Kr K.R for the Arunal People's Front. Mr. Kishan has als
 
 ---
 
-### මාතර බන්ධනාගාරයේ කළ විශේෂ මෙහෙයුම
+### Special operation at Matara Prison
 
 *2024-08-05 17:56:22* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-බන්ධනාගාරයේ-කළ-විශේෂ-මෙහෙයුම/11-411210) · `si`
 
-මාතර බන්ධනාගාරය තුල ඊයේ (04) සිදු කල විශේෂ සෝදිසි මෙහෙයුමකදී රැදවියන් සගවා ගෙන තිබු බව කියන ජංගම දුරකතන 19 ක් හා උපාංගද අයිස් මත්ද්‍රව්‍ය පැකට් 07 ක්ද සොයාගත් බව බන්ධනාගාර ප්‍රකාශකයකු පැවසීය.
+In a surprise search at Matara Prison, authorities discovered contraband items including mobile batteries and SIM cards in three wards. This follows a tip-off leading to a broader investigation into drug-related activities within the prison. The operation was successful due to its covert nature, allowing for the seizure of 18 mobile batteries and nine SIM cards without prior notice. Further inquiries are being conducted by the Colombo Prison Headquarters to address the issue.
 
-බන්ධනාගාරයේ වාට්ටු තුනක තිබී ඒවා හමුවී ඇත. ඊට අමතරව ජංගම දුරකතන බැටරි 18 ක් සිම්පත් 09 ක්ද සොයා ගෙන තිබේ.
+🟩
 
-මාතර බන්ධනාගාරයේ අධිකාරී මංගල වැලිවිටිය මහතාගේ දැනුම්දීම මත කොලඹ බන්ධනාගාර මූලස්ථානයේ විශේෂ විමර්ශන කණ්ඩායමක් පැමිණ මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කර තිබෙන බව දැනගන්නට ඇත.
+A prison said that the detainees were found in a special search operation conducted in the Matara Prison yesterday (04).
 
-කිසිවෙකුටත් නොදන්වා ක්ෂණිකව මෙම සෝදිසිය සිදු කිරීම නිසා එය සාර්ථකවු බව කියති.
+They were found in three wards of the prison. In addition, 18 mobile batteries have also recovered nine SIM.
 
-එම ජංගම දුරකථන හා උපාංගද මත්ද්‍රව්‍ය පැකට් බන්ධනාගාරය තුලට රැගෙන ආ ආකාරය සෙවීම සදහා පුළුල් විමර්ශනයක් ආරම්භ කර තිබේ.
+It is learned that a special investigation at the Colombo Prison Headquarters has been conducting further investigations on the notification of the superintendent of Matara Prison.
+
+It is said that it was a success of this search because of the success of this search without informing anyone.
+
+A wider investigation has been launched to find the mobile phones and accessories to the prison in the drug.
 
 ◼️
 
 [Data](articles/2780e09d.json)
+
+[Extended Data](ext_articles/2780e09d.ext.json)
 
 ---
 
@@ -1352,6 +1394,8 @@ Anura Kumara Dissanayake’s exceptional delivery during the 2024 Presidential E
 
 [Data](articles/bcef3b71.json)
 
+[Extended Data](ext_articles/bcef3b71.ext.json)
+
 ---
 
 ### Elections Commission is a special announcement
@@ -2261,49 +2305,5 @@ The Sri Lanka Police has announced that a special traffic plan will be implement
 [Data](articles/7c9fc6c2.json)
 
 [Extended Data](ext_articles/7c9fc6c2.ext.json)
-
----
-
-### The Kandy Esala Perahera commences today
-
-*2024-08-05 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199574) · `si`
-
-The Kandy Esala Perahera begins today, marking the start of festivities after the planting of the 'cup' at the Maha Devalayas of Natha, Vishnu, Kataragama, and Pattini. The event includes a feast and the first pottery Perahera, which will commence on the 10th, lasting for 10 days.
-
-🟩
-
-After planting the cup of four general temple, the Kandy Esala Perahera today (05).
-
-The cup planting feast was held at the Maha Devalays of Natha, Vishnu, Kataragama and Pattini.
-
-Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame on the 10th of this month, the first pottery Perahera will visit the 10 days of the Devalaya Perahera on the 10th of this month.
-
-◼️
-
-[Data](articles/dfadcad0.json)
-
-[Extended Data](ext_articles/dfadcad0.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-05 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100997/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Several spells of showers may occur in North-western province, it said.
-
-Showers or thundershowers may occur at several places elsewhere in the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places, the department said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/4f4fa92a.json)
-
-[Extended Data](ext_articles/4f4fa92a.ext.json)
 
 ---

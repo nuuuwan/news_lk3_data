@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 15:06:12**
+As of **2024-08-05 15:20:43**
 
 ## Newspaper Stats
 
-*Scraped **39,081** Articles*
+*Scraped **39,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,121 @@ islandlk | 2,251
 economynextcom | 2,357
 dailyftlk | 2,506
 adalk | 3,585
-adaderanalk | 4,533
+adaderanalk | 4,534
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,890
 virakesarilk | 6,183
-adaderanasinhalalk | 6,603
+adaderanasinhalalk | 6,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,072 (100.0%) of 39,081 articles have been extended.
+39,081 (100.0%) of 39,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### மகிழ்ச்சியைக் கொண்டாட சக நண்பர்களுடன் சென்றவர் நீரில் மூழ்கி உயிரிழப்பு !
+### බංග්ලාදේශ අරගලය - අගමැතිනිය අගනුවරින් යයි
+
+*2024-08-05 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199587) · `si`
+
+බංග්ලාදේශ අගමැතිනී ෂෙයික් හසීනා එරට අගනුවර වන ඩකා නුවරින් ඉවත්වී ඇති බවට වාර්තා පළවන බව බී බී සී පුවත් සේවය වාර්තා කළේය.
+
+මේ වනවිට බංග්ලාදේශයේ විරෝධතා උත්සන්න වී ඇති අතර විරෝධතාකරුවන් ඉල්ලා සිටින්නේ අගමැතිනිය එම තනතුරින් ඉල්ලා අස්විය යුතු බවයි.
+
+පසුගිය දින කිහිපය පුරා එරට පැවති කලබලකාරී තත්ත්වයේදී 100කට අධික පිරිසක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මේ අතර විරෝධතාකරුවන් අගමැතිනියගේ නිල නිවසට ඇතුළුවී ඇති බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/0dea6a97.json)
+
+---
+
+### Bangladesh PM has left Dhaka palace for ‘safer place’: Report
+
+*2024-08-05 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101009/bangladesh-pm-has-left-dhaka-palace-for-safer-place-report) · `en`
+
+Bangladesh’s Prime Minister Sheikh Hasina has left the capital Dhaka in the face of mass protests demanding her resignation, a source close to the embattled leader told AFP on Monday.
+
+“She and her sister have left Ganabhaban (the premier’s official residence) for a safer place,” the source told AFP. “She wanted to record a speech. But she could not get an opportunity to do that.”
+
+This comes as Bangladesh’s army chief Waker-Uz-Zaman is set to address the nation after 98 people were killed in fierce clashes yesterday, taking the death count since protests erupted last month to over 300.
+
+◼️
+
+[Data](articles/896b1843.json)
+
+---
+
+### The man who went with his friends to celebrate the joy of drowning in the water!
 
 *2024-08-05 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190300) · `ta`
 
-மகிழ்ச்சியைக் கொண்டாட சமனலவெவ வாவி அருகிற்கு சென்ற இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+A young man who was near Samanalaweva Vavi to celebrate his happiness has drowned.
 
-கொரிய நாட்டிற்கு செல்வதற்கு பாடநெறியினை மேற்கொண்டு பரீட்சையில் சித்தியடைந்த 8 இளைஞர்களை கொண்ட குழுவொன்று தமது ஆசிரியருடன் நேற்று பம்பஹின்ன சமனலவெவ வாவியின் வான் கதவிற்கு அருகில் சென்று பரீட்சையில் சித்தியடைந்த மகிழ்ச்சியை கொண்டாடியுள்ளனர்.
+A group of eight youths who have passed the examination to go to Korea and passed the exam yesterday with their teacher and celebrated the happiness of passing the examination of Bambahinna Samanalawewa Wavi yesterday.
 
-கஹவத்த,வெலிகேபொல, பின்னவல,கொடகேவல பிரதேசத்தில் வசிக்கும் 8 இளைஞர்கள் நேற்று தமது ஆசிரியருடன் குறித்த பகுதிக்கு சென்றுள்ளனர்.
+Eight youths living in Kahawatta, Welikepola, Pinnawala and Kodagewala area went to the area yesterday with their teacher.
 
-அங்கு சென்றிருந்த ஒன்பது பேரில் மூன்று பேர் அந்த இடத்தில் முதல் முறையாக நீராடச் சென்றதாகவும், மற்றைய நபர்கள்  நீராட  செல்லவில்லை எனவும் விசாரணையில் தெரியவந்தது.
+Investigations revealed that three of the nine people had gone to the spot for the first time and the other people did not go to the water.
 
-நேற்று ஞாயிற்றுக்கிழமை (04) பிற்பகல் 2 மணியளவில் இந்த சம்பவம் பதிவாகியுள்ளதாக சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+The incident was reported at around 2 pm on Sunday (04), Samanalawewa police said.
+
+The other two have tried to rescue him after one of the three men drowned. Their effort did not benefit. With the help of the other two people who were traveling along the road, the drowning youth has been rescued and allowed to be allowed to the Bambahina Pradeshiya Hospital, and later transferred to the Balangoda Hospital.
 
 ...
 
 [Data](articles/689df155.json)
 
+[Extended Data](ext_articles/689df155.ext.json)
+
 ---
 
-### ඩයනා ගමගේ ට එරෙහි පෙත්සමක් නිෂ්ප්‍රභ කෙරෙයි
+### Petition against Diana Gamage is dismissed
 
 *2024-08-05 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199586) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට එරෙහිව ගොනු තිබූ පෙත්සමක් නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (05) තීන්දු කළේය.
+A petition against former State Minister Diana Gamage was dismissed by the Supreme Court of Sri Lanka, led by Justices Yasantha Kodagoda and Shiran Gunaratne. The court rejected the case brought forward by Mr. Rehan Jayawickrama from Weligama, upholding the decision of the three-member panel.
 
-මෙම පෙත්සම ප්‍රීති පද්මන් සූරසේන, යසන්ත කෝදාගොඩ සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබුවේය.
+🟩
 
-ඉන් අනතුරුව අදාළ පෙත්සම ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ලේ බහුතර විනිසුරුන්ගේ එකඟත්වය මත නිෂ්ප්‍රභ කිරීමට තීන්දු කළේය.
+The Supreme Court today (05) to refute the files filed against former State Minister Diana Gamage.
 
-වැලිගම හිටපු නගරාධිපති රෙහාන් ජයවික්‍රම මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+The petition was summoned before the Supreme Court Judge of Sri Lanka, Yasantha Kodagoda and Shiran Gunaratne.
+
+The petition then decided to refute the three-member Supreme Court judge's agreement on the agreeable judges.
+
+The petition was presented by Mr. Rehan Jayawickrama, Weligama.
 
 ◼️
 
 [Data](articles/4e0c57d1.json)
 
+[Extended Data](ext_articles/4e0c57d1.ext.json)
+
 ---
 
-### ෆොන්සේකා ජනාධිපතිවරණයට - ඇප මුදල් තැන්පත් කරයි
+### Fonseka deposits Presidential election
 
 *2024-08-05 14:38:11* · [`adalk`](https://www.ada.lk/breaking_news/ෆොන්සේකා-ජනාධිපතිවරණයට---ඇප-මුදල්-තැන්පත්-කරයි/11-411208) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+Field Marshal Sarath Fonseka, a parliamentarian, has posted bail and will run in the upcoming presidential election.
 
-අද(05දා) පෙරවරුවේ මෙලෙස සරත් ෆොන්සේකා මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කර ඇත.
+🟩
+
+Parliamentarian Field Marshal Sarath Fonseka has been deposited for the next presidential election.
+
+The bail of Sarath Fonseka has been deposited this morning.
 
 ◼️
 
 [Data](articles/c27c66a6.json)
+
+[Extended Data](ext_articles/c27c66a6.ext.json)
 
 ---
 
@@ -123,6 +173,8 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 ...
 
 [Data](articles/3ca0acca.json)
+
+[Extended Data](ext_articles/3ca0acca.ext.json)
 
 ---
 
@@ -267,6 +319,8 @@ According to the details provided in the official CIABOC website, only 135 MPs h
 ...
 
 [Data](articles/38abc599.json)
+
+[Extended Data](ext_articles/38abc599.ext.json)
 
 ---
 
@@ -452,15 +506,21 @@ Investigations conducted by the police to the arrested Samal revealed shocking r
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-05 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190312) · `ta`
 
-இன்று திங்கட்கிழமை (ஆகஸ்ட் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.65  ஆகவும் கொள்வனவு விலை ரூபா 297.33 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+I'm unable to provide real-time data or updates such as today's currency exchange rates directly. However, I can help summarize information or answer questions based on historical data or general knowledge. If you have specific details about the currency exchange rate between the US dollar and another currency, please share them, and I'll do my best to provide a summary within the character limit.
+
+🟩
+
+The US dollar sales price was Rs.
 
 ◼️
 
 [Data](articles/647f8661.json)
+
+[Extended Data](ext_articles/647f8661.ext.json)
 
 ---
 
@@ -548,21 +608,29 @@ The Bangladesh Taka which was around 84 to the US dollar during the crisis but s
 
 [Data](articles/03ca85ff.json)
 
+[Extended Data](ext_articles/03ca85ff.ext.json)
+
 ---
 
-### அம்பலாங்கொடையில் தீ வைத்து எரிக்கப்பட்ட நிலையில் மோட்டார் சைக்கிள் மீட்பு !
+### Motorcycle Rescue
 
 *2024-08-05 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190292) · `ta`
 
-அம்பலாங்கொடை, விஹாரகொட பகுதியில் உள்ள கறுவாத்தோட்டமொன்றில் சந்தேகத்திற்கிடமான முறையில் தீ வைத்து எரிக்கப்பட்ட நிலையில் மோட்டார் சைக்கிள் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்துள்ளனர்.
+A suspicious fire in a cinnamon garden led to the discovery of a burned motorcycle in Ambalangoda. Police suspect it might have been used in local crimes.
 
-அம்பலாங்கொடை பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சோதனையில், விஹாரகொட பிரதேசத்தில் உள்ள விகாரையொன்றிற்கு அருகிலுள்ள கறுவாத்தோட்டத்திலிருந்து இந்த மோட்டார் சைக்கிள் கண்டெடுக்கப்பட்டுள்ளது.
+🟩
 
-மேலும், அம்பலாங்கொடை பகுதியில் கடந்த நாட்களில் இடம்பெற்ற குற்றச் செயல்களுக்கு இந்த மோட்டார் சைக்கிள் பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+Ambalangoda police said that a motorcycle has been found in a suspicious burning at a cinnamon garden in Viharagoda, Ambalangoda.
+
+The motorcycle was found from the Cinnamon Garden near a Viharakoda area in Viharakoda area on information received by the Ambalangoda police.
+
+In addition, police suspect that the motorcycle may have been used for crimes in the Ambalangoda area.
 
 ◼️
 
 [Data](articles/a09d0b93.json)
+
+[Extended Data](ext_articles/a09d0b93.ext.json)
 
 ---
 
@@ -1319,6 +1387,8 @@ Aseni and Sarath Mahatthaya are continuing their interactive conversation on deb
 ...
 
 [Data](articles/122b5e71.json)
+
+[Extended Data](ext_articles/122b5e71.ext.json)
 
 ---
 
@@ -2177,49 +2247,5 @@ Since debt is a complex subject not understood by ordinary citizens, people do n
 [Data](articles/f400e237.json)
 
 [Extended Data](ext_articles/f400e237.ext.json)
-
----
-
-### Paris Olympics: Sri Lanka’s Aruna Darshana advances to 400m semi-finals
-
-*2024-08-04 23:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100996/paris-olympics-sri-lankas-aruna-darshana-advances-to-400m-semi-finals) · `en`
-
-Sri Lankan sprinter Aruna Darshana has qualified for the semifinals of the Men’s 400m event at the 2024 Paris Olympic Games after finishing third in the Heat race.
-
-Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, his personal best, and qualified for the semifinals which are scheduled to be held on Tuesday (Aug. 06).
-
-Kirani James (44.78) of Grenada placed first in Heat 5 while Canada’s Christopher Morales-Williams came second with a time of 44.96 seconds.
-
-Aruna Darshana recently showcased his exceptional speed and skill on the track achieving an impressive first-place finish in the Men’s 400m event at the 2nd Belt and Road Invitational Athletics Championship held in China.
-
-He has been tipped by many to follow in the footsteps of former Sri Lankan athlete Sugath Thilakaratne. Darshana won the men’s 400m event during the 2018 National Athletics Championships by clocking a time of 46.16 seconds.
-
-◼️
-
-[Data](articles/b2f0725d.json)
-
-[Extended Data](ext_articles/b2f0725d.ext.json)
-
----
-
-### Aruna footage in the semi-finals
-
-*2024-08-04 23:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199567) · `si`
-
-In the Paris Olympics, Aruna from Sri Lanka qualified for the 400m final after a strong performance in the semi-finals. Competing in the fifth heat, Aruna clocked 44.999 seconds, securing the third position.
-
-🟩
-
-The Aruna footage of Sri Lanka's 400m event at the Paris Olympics was able to qualify for its final semi-final.
-
-The match was held at 11.15 pm today (04).
-
-The array of the festival of the five round. 44.999, the match was completed and won the third place.
-
-◼️
-
-[Data](articles/a0045d35.json)
-
-[Extended Data](ext_articles/a0045d35.ext.json)
 
 ---

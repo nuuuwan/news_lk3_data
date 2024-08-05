@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 15:36:15**
+As of **2024-08-05 15:55:12**
 
 ## Newspaper Stats
 
-*Scraped **39,086** Articles*
+*Scraped **39,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 371
 islandlk | 2,251
 economynextcom | 2,357
 dailyftlk | 2,506
-adalk | 3,585
-adaderanalk | 4,535
+adalk | 3,586
+adaderanalk | 4,536
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,892
 virakesarilk | 6,183
@@ -26,23 +26,53 @@ adaderanasinhalalk | 6,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,083 (100.0%) of 39,086 articles have been extended.
+39,086 (100.0%) of 39,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ஷேக் ஹசீனா  இராஜினாமா
+### Mother arrested after infant brutally beaten to death in Jaffna
+
+*2024-08-05 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101011/mother-arrested-after-infant-brutally-beaten-to-death-in-jaffna) · `en`
+
+A forty-two-day-old infant has tragically passed away after allegedly being inhumanely beaten by the child’s mother in the Alaveddy area in Jaffna.
+
+Police said that the infant had sustained fatal injuries, including bruises to the head and other parts of the body.
+
+The mother had initially admitted the baby to the Alaveddy Divisional Hospital, claiming the infant had lost consciousness after breastfeeding. The child has been subsequently transferred to Tellippalai Base Hospital.
+
+However, the post-mortem examination has confirmed that the infant’s death resulted from a severe head injury.
+
+Furthermore, it has been revealed that one of the child’s arms has been bruised and a leg fractured.
+
+Preliminary police investigations have uncovered that the incident occurred after the baby refused breast milk.
+
+The 33-year-old mother has been arrested by Tellippalai Police who are conducting further investigations.
+
+◼️
+
+[Data](articles/969567bc.json)
+
+---
+
+### Sheikh Hasina resigns
 
 *2024-08-05 15:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-இராஜினாமா/50-341630) · `ta`
 
-பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துள்ளார்.  பதவியை இராஜினாமா செய்துவிட்டு நாட்டிலிருந்து வெளியேறியுள்ளார்.
+Bangladesh PM Sheikh Hasina resigns amid student protests in Dhaka.
 
-மாணவர்கள் ஆயிரக்கணக்கில் தலைநகர் டாக்காவை நோக்கி  பேரணியாக சென்றுகொண்டுள்ள நிலையில் இந்த தகவல்  வெளியாகியுள்ளது.
+🟩
+
+Bangladesh Prime Minister Sheikh Hasina has resigned from his post.He has resigned from the country and left the country.
+
+The information has been revealed as thousands of students march to the capital, Dhaka.
 
 ◼️
 
 [Data](articles/0463e49a.json)
+
+[Extended Data](ext_articles/0463e49a.ext.json)
 
 ---
 
@@ -66,19 +96,27 @@ At least six people were reportedly killed in clashes between police and protest
 
 [Data](articles/e4abb104.json)
 
+[Extended Data](ext_articles/e4abb104.ext.json)
+
 ---
 
-### கட்டுப்பணம் செலுத்தினார் பொன்சேகா
+### Fonseka paid control
 
 *2024-08-05 15:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-பொன்சேகா/175-341628) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா, ஜனாதிபதி தேர்தலில் சுயாதீன வேட்பாளராக போட்டியிட கட்டுப்பணம் செலுத்தியுள்ளார்.
+Field Marshal Sarath Fonseka, a United People's Power MP, was prevented from running as an independent presidential candidate by the Elections Commission in Rajagiriya.
 
-இராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் ஆணைக்குழுவில் அவரது சார்பாக திங்கட்கிழமை (05) கட்டுப்பணம் செலுத்தப்பட்டுள்ளது.
+🟩
+
+United People's Power Member of Parliament Field Marshal Sarath Fonseka has been restricted to contest the presidential election as an independent candidate.
+
+The Elections Commission in Rajagiriya has been restricted on Monday (05) on his behalf.
 
 ◼️
 
 [Data](articles/5e32af54.json)
+
+[Extended Data](ext_articles/5e32af54.ext.json)
 
 ---
 
@@ -237,6 +275,20 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 [Data](articles/3ca0acca.json)
 
 [Extended Data](ext_articles/3ca0acca.ext.json)
+
+---
+
+### ධීවර සමුළුවක්
+
+*2024-08-05 14:08:24* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සමුළුවක්/11-411206) · `si`
+
+මෙරට කරදිය ධීවර දිස්ත්‍රික්ක 15 සහ මිරිදිය දිස්තික්ක 07 ඇතුලු දිස්ත්‍රික්ක 22 ක කරදිය සහ මිරිදිය ධීවරයන්ට වාර්තමානයේ බලපාන ගැටලු පිළිබඳව හා ඔවුන්ගේ අවශ්‍යතාවයන් සොයා බැලිම සඳහා ජාතික ධීවර මහා සම්මේලනය විසින් ජනාධිපතිවරයාගෙන් කරන ලද ඉල්ලිමකට අනුව ධීවර සමුළුවක් පැවැත්වීමට කටයුතු සංවිධානය කර ඇත.
+
+දිස්ත්‍රික්ක 22හි ධීවර සමිති නියෝජිතයන් 5000 ට අධික පිරිසකගේ සහභාගීත්වයෙන් අගෝස්තු මස 09 වනදා සවස 2 ට කොළඹ ලේක්හවුස් ආයතනය ඉදිරිපිට ප්‍රදර්ශන හා සම්මේලන මධ්‍යස්ථානයේදි මෙම මහා ධීවර සමුළුව පැවැත්විමට සියලු කටයුතු සැලසුම් කර ඇත.
+
+◼️
+
+[Data](articles/cd206b82.json)
 
 ---
 
@@ -2207,57 +2259,5 @@ Durai Mathiyagaraja, who joined the United People's Power, has been the vice pre
 [Data](articles/5c0a9f27.json)
 
 [Extended Data](ext_articles/5c0a9f27.ext.json)
-
----
-
-### Sri Lankans opportunity for a change in Tamil Nadu
-
-*2024-08-05 01:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-ஏற்படும்-மாற்றத்தால்-இலங்கையர்களுக்கு-வாய்ப்பு/175-341595) · `ta`
-
-President Ranil Wickremesinghe addresses the economic and political challenges faced by Sri Lanka, particularly the Northern Province, highlighting the need for national economic development and equal treatment of all ethnic and religious groups. He emphasizes the importance of resolving ethnic issues, promoting linguistic diversity, and ensuring gender equality. The President calls for contributions from academics, professionals, and entrepreneurs to build a new economic and political system, avoiding past mistakes like reducing taxes based on election promises.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the people of the Northern Province, including Jaffna, have long been facing economic crises, but the government is planning to use the opportunity to use the entire country for the economic development of the entire country, including the Northern Province.
-
-There is no proper representation in Parliament for women who are a person in the country. We have to settle for this. We must encourage Sinhala and Tamil. He said that the economic growth of Tamil Nadu in the future will provide Tamil -speaking Sri Lankans opportunities for others.
-
-The President made this statement at a meeting with the Jaffna Mawatha academics, professionals and entrepreneurs held at the Walamburi Hotel in Jaffna on Wednesday (02).
-
-...
-
-[Data](articles/60b88031.json)
-
-[Extended Data](ext_articles/60b88031.ext.json)
-
----
-
-### Aruna Darshana is the first Sri Lankan to advance to the 400m semi -finals in Olympic history
-
-*2024-08-05 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190280) · `ta`
-
-Aruna Darshana made history as the first Sri Lankan to qualify for the 400m semi-finals in the Olympics, setting a record at the 2024 Sports Festival in France. Competing in the 5th qualifying round, he clocked 44.99 seconds, finishing third behind Granny James and Christopher Morales Williams. Despite ranking 14th among 18 qualifiers, three runners posted faster times for the second chance.
-
-🟩
-
-Aruna Darshana qualified for the 400m semi -finals for men at the Olympic 2024 Sports Festival held at the France Stadium (04).
-
-Aruna Darshana set the record of being the first player to advance to the semi -finals in the men's 400m race in Olympic history.
-
-Aruna Darshana, who competed in the 5th match of the 400m qualifying round, finished the match in 44.99 seconds and finished 3rd.
-
-Greeneda player Granny James (44.78 Sec) came first and Canadian player Christopher Morales Williams (44.96 Sec) second.
-
-Americans, Michael Norman (44.10 Seg) and Quinci Hole (44.28 Sec) won first place in their qualifying competitions.
-
-A total of 44 players participated in the qualifying round.Aruna Darshana was ranked 14th of the 18 players qualified for the semi -finals.
-
-However, 3 players who will participate in the second chance have recorded better time receiving than Aruna Darshana.
-
-◼️
-
-[Data](articles/6ca44f65.json)
-
-[Extended Data](ext_articles/6ca44f65.ext.json)
 
 ---

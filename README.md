@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 01:20:52**
+As of **2024-08-06 01:36:20**
 
 ## Newspaper Stats
 
-*Scraped **39,170** Articles*
+*Scraped **39,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 370
 colombotelegraphcom | 373
 islandlk | 2,251
 economynextcom | 2,363
-dailyftlk | 2,513
+dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
@@ -26,11 +26,107 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,169 (100.0%) of 39,170 articles have been extended.
+39,170 (100.0%) of 39,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### SL’s pharmaceutical sector taps increasing potential to penetrate Vietnamese market
+
+*2024-08-06 01:00:41* · [`dailyftlk`](https://www.ft.lk/business/SL-s-pharmaceutical-sector-taps-increasing-potential-to-penetrate-Vietnamese-market/34-765203) · `en`
+
+The Embassy of Sri Lanka in collaboration with Export Development Board (EDB) organised a webinar on “Sri Lankan Pharmaceutical Industry” for Vietnamese pharmaceutical companies a couple of days before the Medipharm Expo 2024 in Ho Chi Minh (HCM) city.
+
+This was organised in order to raise the awareness as well as the potential of Sri Lankan pharma sector to leading importers and manufacturers of pharma in Viet Nam. The webinar was attended by over 100 pharma companies in Viet Nam, Drug Authority of Viet Nam and Viet Nam Pharmaceutical Association along with the Sri Lankan pharma companies which are participating at the aforementioned Medipharma Expo 2024.
+
+...
+
+[Data](articles/fb7d24a8.json)
+
+---
+
+### Eran raises concerns over $ 100 m mineral sector investment hindrance
+
+*2024-08-06 00:59:25* · [`dailyftlk`](https://www.ft.lk/business/Eran-raises-concerns-over-100-m-mineral-sector-investment-hindrance/34-765202) · `en`
+
+SJB MP Eran Wickramaratne raises questions on why Puttalam Ilmenite is being denied access to SLCC land
+
+Questions SLCC’s agreement with Asha Minerals, which allegedly violates the Mines and Minerals Act and Intellectual Property Act
+
+Seeks explanations for the Ministry of Finance’s instructions to SLCC not being followed and how compliance is enforced
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne this week raised critical questions in Parliament regarding the denial of access to Sri Lanka Cement Corporation (SLCC) land to Puttalam Ilmenite Ltd. (PIL), which has invested over $ 20 million over the past decade.
+
+Wickramaratne pointed out that this obstruction is hindering the realisation of a $ 100 million investment, the largest ever in the country’s mineral sector and a significant boost to Foreign Direct Investment (FDI) at this crucial time.
+
+...
+
+[Data](articles/2539c170.json)
+
+---
+
+### Roshan Williams honoured for Master Printer Status
+
+*2024-08-06 00:57:22* · [`dailyftlk`](https://www.ft.lk/business/Roshan-Williams-honoured-for-Master-Printer-Status/34-765201) · `en`
+
+Roshan Williams, who was recently awarded the prestigious Master Printer Status in Digital Printing by the Ingrin Printing and Graphics Academy, met with High Commissioner for New Zealand David Pine, in Sri Lanka, with Ingrin Academy CEO and Managing Director Ananda Wickramaratne.
+
+Williams’ wife, Deepa Samarasinghe, was also present. Their meeting was a proud moment as Pine admired the Ingrin Academy’s qualifications, noting that the New Zealand Qualifications Authority has recognised its Higher Diploma in Printing and Graphics as equivalent to the National Diploma in Print Industry Management Level 5 on the NZ Register of Quality Assured Qualifications, a testament to its global recognition.
+
+◼️
+
+[Data](articles/a6859803.json)
+
+---
+
+### SL, New Zealand discuss boosting bilateral trade
+
+*2024-08-06 00:55:33* · [`dailyftlk`](https://www.ft.lk/business/SL-New-Zealand-discuss-boosting-bilateral-trade/34-765200) · `en`
+
+Trade Minister Nalin Fernando met with New Zealand High Commissioner David Pine yesterday at the Trade Ministry premises.
+
+The Trade Minister said that Sri Lanka is making all efforts to diversify its exports by encouraging the SME sector. He further emphasised the need to increase Sri Lankan exports to the New Zealand market to address the wide trade gap between the two countries.
+
+The High Commissioner said that as a country rich with cultural heritage and great history Sri Lanka has enormous opportunities in the tourism sector. In this regard, the High Commissioner actively engaged in creating connections between the relevant stakeholders in the two countries he further added.
+
+...
+
+[Data](articles/6f63382f.json)
+
+---
+
+### Nex-Gen Engineering Studio opens new corporate office
+
+*2024-08-06 00:53:50* · [`dailyftlk`](https://www.ft.lk/business/Nex-Gen-Engineering-Studio-opens-new-corporate-office/34-765199) · `en`
+
+Nex-Gen Engineering Studio’s growth chapter and recent wins at the National Business Excellence Awards 2024
+
+Nex-Gen Engineering Studio has expanded to No. 100, Vinayalankara Mawatha, Colombo 10, to a newly dedicated corporate space.
+
+This is a significant milestone for the Nex-Gen Engineering team as they continue to expand and broaden their presence in the country. With hundreds of active projects and several prestigious international ventures, Nex-Gen Engineering Studio is establishing itself as an industry leader in design visualisation solutions.
+
+...
+
+[Data](articles/7a2bab0f.json)
+
+---
+
+### Unidil stands tall with 10 Gold Awards at National Convention on Quality and Productivity Awards 2024
+
+*2024-08-06 00:52:00* · [`dailyftlk`](https://www.ft.lk/business/Unidil-stands-tall-with-10-Gold-Awards-at-National-Convention-on-Quality-and-Productivity-Awards-2024/34-765198) · `en`
+
+The Unidil Group of Companies, the packaging arm of Vallibel One PLC and the leader in packaging solutions for local and export industries, has once again demonstrated its excellence by winning 10 Gold Awards at the National Convention on Quality and Productivity (NCQP) 2024.
+
+Specialising in corrugated cartons and paper sacks, Unidil continues to set the standard in quality, productivity, and innovation. The prestigious event took place recently Hotel Mount Lavinia, featuring participation from leading organisations across the country.
+
+Organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), the annual NCQP event provides a significant platform for employers from various sectors to showcase their success stories and achievements in team-based improvement initiatives.
+
+...
+
+[Data](articles/827d3fe5.json)
+
+---
 
 ### Majority of SLFP backs President Wickremesinghe claims Lasantha Alagiyawanna
 
@@ -733,6 +829,8 @@ The indomitable spirit shown by Janatha Vimukthi Peramuna commonly known as JVP 
 ...
 
 [Data](articles/7c7aa8ed.json)
+
+[Extended Data](ext_articles/7c7aa8ed.ext.json)
 
 ---
 
@@ -2177,135 +2275,5 @@ Also, the decision of the Prasanna Ranaweera and Indika Anuruddha party, the sta
 [Data](articles/17423eac.json)
 
 [Extended Data](ext_articles/17423eac.ext.json)
-
----
-
-### SF bids
-
-*2024-08-05 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199585) · `si`
-
-Funds for 2024 Presidential candidate Field Marshal Sarath Fonseka were deposited today, as was bail money by Dhammika Ratnayake.
-
-🟩
-
-The 2024 Presidential Candidate for the Presidential Election The funds have been deposited for Fild Marshal Sarath Fonseka today (05).
-
-Dhammika Ratnayake has deposited the bail before a short while ago.
-
-◼️
-
-[Data](articles/9d475edb.json)
-
-[Extended Data](ext_articles/9d475edb.ext.json)
-
----
-
-### 42 day old girl killed in a mother's attack
-
-*2024-08-05 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199584) · `si`
-
-In Allaveddi, Jaffna, a 42-day-old girl died from severe injuries inflicted by her mother, including bruises and fractures. The mother claimed the baby was unresponsive after refusing breastmilk but medical reports showed signs of physical abuse. She was arrested, and further investigations are ongoing.
-
-🟩
-
-A 42 day old was killed by a mother attack in Allaveddi, Jaffna.
-
-The police said that the assault and bruising had caused to the infant's head and several other parts of the body were caused by death.
-
-The mother had been admitted to the Allaveddi Regional Hospital, claiming that the baby was unconscious after the mother milk was unconscious.
-
-However, the medical report has confirmed that a hand assault, a hand grind and a fracture of the leg.
-
-Investigations carried out in the Tiilipple police have revealed that the baby was assaulted by the mother due to rejection of breastfeed drinks.
-
-The 33-year-old mother has been arrested regarding the death and the Tiilipple Police has commenced further investigations.
-
-◼️
-
-[Data](articles/f53954ea.json)
-
-[Extended Data](ext_articles/f53954ea.ext.json)
-
----
-
-### Ninety Sri Lankan legislators yet to reveal asset, liability details to CIABOC
-
-*2024-08-05 13:41:00* · [`economynextcom`](https://economynext.com/ninety-sri-lankan-legislators-yet-to-reveal-asset-liability-details-to-ciaboc-175235/) · `en`
-
-ECONOMYNEXT – At least 90 out of the total 225 Sri Lankan legislators are yet to provide their assets and liability details to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) in line with the latest Anti-Corruption Act, official documents show.
-
-A recent amendment to the Anti-Corruption Act has mandated the President, Prime Minister, Members of Parliament, Provincial Governors, Provincial Council Members, and officers of the Provincial Public Service, elected representatives, and officers of Local Government bodies, as well as judges and government officials appointed by the President, to disclose their assets and liabilities.
-
-The CIABOC has made details of all the assets and liabilities of public officials it has received in its official website under ‘Declaration of Assets’ sub category.
-
-According to the details provided in the official CIABOC website, only 135 MPs have declared their assets and liabilities so far.
-
-...
-
-[Data](articles/38abc599.json)
-
-[Extended Data](ext_articles/38abc599.ext.json)
-
----
-
-### Minister Prasanna Ranatunga assures govt’s stability
-
-*2024-08-05 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101006/minister-prasanna-ranatunga-assures-govts-stability) · `en`
-
-The Chief Government Whip, Minister of Housing and Urban Development Prasanna Ranatunga states that the government, which holds a simple majority, will not face issues in governance over the next two or three months.
-
-He emphasized that the Sri Lanka Podujana Peramuna (SLPP) risks being reduced to only two or three members if the party fails to make the right decisions.
-
-The minister made these remarks while speaking to the media following an event held in the Divulapitiya area on Sunday (04).
-
-◼️
-
-[Data](articles/4f267edf.json)
-
-[Extended Data](ext_articles/4f267edf.ext.json)
-
----
-
-### Former JVP member also fights
-
-*2024-08-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199583) · `si`
-
-Siripala Amarasinghe, a former JVP parliamentarian, submitted his candidacy for the upcoming presidential election, bringing the total number of candidates to 15, including nine party-affiliated and six independents.
-
-🟩
-
-Former Parliamentarian Siripala Amarasinghe was deposited for the next presidential election today (05).
-
-He is also a former parliamentarian in the JVP in the JVP.
-
-Accordingly, the total number of candidates have handed over to date is 15.
-
-Among them are nine candidates and six as independent candidates, six.
-
-◼️
-
-[Data](articles/ca3f4816.json)
-
-[Extended Data](ext_articles/ca3f4816.ext.json)
-
----
-
-### Indian High Commissioner met Prime Minister
-
-*2024-08-05 13:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரை-சந்தித்தார்-இந்திய-உயர்ஸ்தானிகர்/175-341622) · `ta`
-
-Santosh Ja, India's High Commissioner to Sri Lanka, met PM Dinesh Gunawardena to enhance bilateral ties, focusing on economic and cultural exchanges.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja met Prime Minister Dinesh Gunawardena today (05).
-
-The Prime Minister's Office said that the two had discussed ways and methods to further strengthen bilateral relations and economic and artistic relations.
-
-◼️
-
-[Data](articles/b85381ad.json)
-
-[Extended Data](ext_articles/b85381ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 17:36:37**
+As of **2024-08-05 17:57:09**
 
 ## Newspaper Stats
 
-*Scraped **39,108** Articles*
+*Scraped **39,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ colombotelegraphcom | 371
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,588
+adalk | 3,589
 adaderanalk | 4,540
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,896
+tamilmirrorlk | 4,897
 virakesarilk | 6,185
-adaderanasinhalalk | 6,609
+adaderanasinhalalk | 6,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,106 (100.0%) of 39,108 articles have been extended.
+39,108 (100.0%) of 39,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### චමරිට ලැබුණු අලුත්ම තැන
+
+*2024-08-05 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199593) · `si`
+
+ICC ජූලි මාසයේ ක්‍රිකට් ක්‍රීඩිකාව සඳහා නිර්දේශ නාම 03 අතරට ශ්‍රී ලංකා කණ්ඩායමේ නායිකා චමරි අතපත්තු ඇතුළත් වී තිබේ.
+
+◼️
+
+[Data](articles/c6539ab3.json)
+
+---
 
 ### Bangladesh army chief says interim government will be formed
 
@@ -56,19 +68,29 @@ He said no members of the Awami League were present at the meeting with the poli
 
 ---
 
-### அகர்தலாவில்  ஷேக் ஹசீனா
+### Sheikh Hasina in Agartala
 
 *2024-08-05 16:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகர்தலாவில்-ஷேக்-ஹசீனா/175-341636) · `ta`
 
-பங்களாதேசிலிருந்து ஹெலிகொப்டர் மூலம் தப்பிய ஷேக் ஹசீனா, இந்தியாவை சென்றடைந்ததாக அதிகாரப்பூர்வ தகவல் வெளியாகிய நிலையில், அவர் அங்கிருந்து லண்டன் தப்பிச் செல்ல இருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+Sheikh Hasina, after escaping Bangladesh via helicopter, reportedly fled to India amidst protests over the cancellation of a 30% reservation for freedom fighters' heirs. Riots ensued, leading to over 100 deaths. Students demanded her resignation, continuing their struggle despite negotiations. Meanwhile, international media reported her departure from Bangladesh to Agartala, India, in a military helicopter, coinciding with the army commander announcing a military regime in Bangladesh.
 
-பங்களாதேசில் சுதந்திர போராட்ட தியாகிகளின் வாரிசுகளுக்கு வழங்கப்படும் 30 சதவீத இட ஒதுக்கீட்டால் ஏற்கனவே கலவரம் வெடித்த நிலையில் உச்சநீதிமன்றம் அந்த இடஒதுக்கீடு இரத்து செய்யப்படும் என்று அறிவித்ததைத் தொடர்ந்து கலவரம் நின்றது.
+🟩
 
-இதற்கிடையில் நேற்று பிரதமர் ஷேக் ஹசீனா இடஒதுக்கீடு தொடர்பாக பேச்சுவார்த்தை நடத்த அழைத்ததால் மீண்டும் மாணவர்கள் அமைப்பினர் போராட்டத்தில் ஈடுபட்டனர். இவர்களுக்கு எதிர்ப்பு தெரிவித்து ஆளும் கட்சியினரும் போராட்டத்தில் ஈடுபட்ட நிலையில் இருதரப்பினருக்கும் இடையே கலவரம் ஏற்பட்டது. இதில் 100க்கும் மேற்பட்டோர் உயிரிழந்தனர். போராட்டக்காரர்கள் பிரதமர் பதவியை இராஜினாமா செய்யும் வரை போராட்டத்தை நிறுத்த மாட்டோம் என்று அறிவித்தனர்.
+Sheikh Hasina, who escaped from Bangladesh by helicopter, is reported to have escaped from London as he has arrived in India.
 
-...
+The riots were following the announcement that the Supreme Court would cancel the reservation as the 30 per cent reservation for the heirs of freedom fighters in Bangladesh had already erupted.
+
+Meanwhile, the students were protesting again as Prime Minister Sheikh Hasina called for a negotiations on the reservation yesterday.. There was a riot between the two sides as the ruling party and the protest. More than 100 people died. The protesters declared that they would not stop the struggle until the Prime Minister resigned.
+
+In the meantime, the international media has reported that she is leaving the country in a military helicopter and reached India's Agartala.
+
+At the same time, Army Commander Walker Us-Jaman has announced that the military regime is coming into effect in Bangladesh.
+
+◼️
 
 [Data](articles/b02f5ca4.json)
+
+[Extended Data](ext_articles/b02f5ca4.ext.json)
 
 ---
 
@@ -212,21 +234,31 @@ The doctor was arrested by the Mannar Police on Saturday (03) and produced befor
 
 ---
 
-### அரசியல் கட்சிகளை பிளவுபடுத்துவதில் ஜனாதிபதி திறமையானவர் - நாமல் ராஜபக்ஷ
+### President is talented in dividing political parties - Namal Rajapaksa
 
 *2024-08-05 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190315) · `ta`
 
-அரசியல் கட்சிகளை பிளவுபடுத்துவதில் ஜனாதிபதி ரணில் விக்கிரமசிங்க சிறந்தவர். ஜனாதிபதிக்கும், எமக்கும் ,இடையில் எவ்வித டீல் அரசியலும் கிடையாது. கட்சியை பாதுகாத்துக் கொள்வதற்காகவே சிறந்த தீர்மானத்தை எடுத்தோம் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa praises President Ranil Wickremesinghe for effectively dividing political parties, emphasizing a lack of deal politics within their ranks. Despite the party's executive committee protesting a recent decision, Rajapaksa assures unity and hints at former President Mahinda Rajapaksa's return, promising to announce a presidential candidate soon.
 
-பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி மன்ற உறுப்பினர்களுக்கு ,இடையில் திங்கட்கிழமை (05) பொதுஜன பெரமுனவின் காரியாலயத்தில் , இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கட்சியின் நிறைவேற்றுக் குழு ஏகமனதாக எடுத்த தீர்மானத்துக்கு எதிர்ப்பு தெரிவித்து கட்சியின் உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்குவதாக குறிப்பிடுகிறார்கள்.நிறைவேற்றுக் குழு கூட்டத்தில் முன்வைக்கப்பட்ட யோசனைக்கு ஆதரவு வழங்கி விட்டு மக்கள் மத்தியில் பொய்யான விமர்சிப்பது பயனற்றது.
+President Ranil Wickremesinghe is the best in splitting political parties. The president, us, have no deal politics. The National Organizer of the PA, Namal Rajapaksa, said that we made a better decision to protect the party.
 
-பொதுஜன பெரமுனவை விட்டு சென்றுள்ளவர்கள் மீண்டும் எம்முடன் ஒன்றிணைவார்கள்.முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ 'சலூன் கதவு' திறந்துள்ளது என்று குறிப்பிடுவார்.ஆகவே விலகிச் செல்பவர்களை பலவந்தமாக தடுத்து வைக்க முடியாது.
+He was speaking to the media after a meeting at the PA at the PA at the PA at the office of the PA on Monday (05) to the former members of the PA.
 
-...
+The party's executive committee unanimously protests against the decision taken by the party.
+
+Those who have left the PA will reunite with us. Former President Mahinda Rajapaksa will mention that the 'saloon door has opened'.
+
+President Ranil Wickremesinghe is capable of dividing political parties.
+
+The President and we have no deal politics in the party. We have decided to make a decision in accordance with the policy of the party.. We will announce our presidential candidate tomorrow.
+
+◼️
 
 [Data](articles/6e8cbff5.json)
+
+[Extended Data](ext_articles/6e8cbff5.ext.json)
 
 ---
 
@@ -657,6 +689,22 @@ The bail of Sarath Fonseka has been deposited this morning.
 [Data](articles/c27c66a6.json)
 
 [Extended Data](ext_articles/c27c66a6.ext.json)
+
+---
+
+### முன்னாள் எம்.பியும் போட்டி
+
+*2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-எம்-பியும்-போட்டி/150-341624) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர்  சிறிபால அமரசிங்க கட்டுப்பணத்தை திங்கள்கிழமை  (5) காலை வைப்பிலிட்டுள்ளார்.
+
+இவர், மக்கள் விடுதலை முன்னணியின் கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஆவார்.
+
+இம்முறை ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை பணத்தை வைப்பிலிட்ட 15ஆவது நபரான  அமரசிங்க,  ஆறாவது சுயேச்சை வேட்பாளரும் ஆவார்.
+
+◼️
+
+[Data](articles/0ce69f91.json)
 
 ---
 
@@ -1211,6 +1259,20 @@ The Bangladesh Taka which was around 84 to the US dollar during the crisis but s
 [Data](articles/03ca85ff.json)
 
 [Extended Data](ext_articles/03ca85ff.ext.json)
+
+---
+
+### ජනපතිවරණයට ඡන්දය දෙන්න 17 140 354ක් සුදුසුකම් ලබති
+
+*2024-08-05 12:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-ඡන්දය-දෙන්න-17-140-354ක්-සුදුසුකම්-ලබති/11-411202) · `si`
+
+මෙවර ජනපතිවරණය සඳහා ඡන්දය  ප්‍රකාශ කිරීමට ඡන්ද දායකයන් 1 71 40 354ක් සුදුසුකම් ලබා ඇති බව මැතිවරණ කොමිෂන් සභාව දන්වා සිටියි.
+
+දිස්ත්‍රික්කයක් ලෙස වැඩිම ඡන්ද දායකයන් පිරිසක් සිටින්නේ ගම්පහ දිස්ත්‍රික්කයෙන් වන අතර එම සංඛ්‍යාව 1 881 129 කි. අඩුම ඡන්ද දායකයන් ප්‍රමාණයක් සිටින්නේ වන්නි දිස්ත්‍රික්ක යෙන් වන අතර ඒම අගය 306 081කි.
+
+◼️
+
+[Data](articles/c7acec2c.json)
 
 ---
 
@@ -2249,67 +2311,5 @@ The Meteorological Department further stated that steps have been taken to reduc
 [Data](articles/8cdbcd6d.json)
 
 [Extended Data](ext_articles/8cdbcd6d.ext.json)
-
----
-
-### Famous astrologer announced the date of World War 3
-
-*2024-08-05 05:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ம்-உலக-போருக்கான-திகதியை-அறிவித்தார்-பிரபல-ஜோதிடர்/175-341601) · `ta`
-
-Kushal Kumar, an Indian astrologer, predicted World War 3 would start on August 4th or 5th, following previous incorrect predictions. His forecasts have impacted global events, including conflicts and economic issues, particularly affecting less powerful nations like those in Africa post-COVID recovery. Despite skepticism, his latest prophecy has garnered attention, highlighting the influence of such predictions on international affairs and public sentiment.
-
-🟩
-
-Kushal Kumar is known as the famous astrologer of India, New Delhi. Nastradamus. Before that Russia and Ukraine
-
-The one who predicted the war between nations. The war between Israel and the Hamas organization prematurely declared
-
-These wars caused the world's fuel shortage, prices, and food shortages. In the context of the world recovered from the Corona Great, these wars have been greatly affected by unpopular countries like Africa.
-
-In the meantime, Kushal has announced the date of World War 3. According to his prediction, this war will begin today or tomorrow
-
-He said the war will begin on August 4 or August 5. According to his prediction, that day begins today
-
-But it will only be revealed after the possibilities of real. He has also announced the date of the start of World War 3 several times
-
-...
-
-[Data](articles/a51ede2f.json)
-
-[Extended Data](ext_articles/a51ede2f.ext.json)
-
----
-
-### Hayleys Group reports economic value creation of Rs. 150 billion
-
-*2024-08-05 03:41:00* · [`islandlk`](http://island.lk/hayleys-group-reports-economic-value-creation-of-rs-150-billion/) · `en`
-
-Hayleys PLC, Sri Lanka’s largest public-listed diversified conglomerate, reported an economic value creation of Rs. 150 billion, parallel to delivering progress on its sustainability targets over the last financial year (FY2023-24).Accounting for a total of 5% of Sri Lanka’s total export income, during the period in review, Hayleys earned USD 591 Mn foreign exchange income. As a net exporter, 54% of group revenue was generated from exports.
-
-The Group distributed Rs. 138.6 billion in cumulative economic value towards all stakeholders, including supplier development, government taxes, employee payments, lenders of capital and to shareholders – a 6.7% YoY increase.
-
-...
-
-[Data](articles/09c5201c.json)
-
-[Extended Data](ext_articles/09c5201c.ext.json)
-
----
-
-### Unidil recognised at National Convention on Quality & Productivity Awards 2024
-
-*2024-08-05 03:39:00* · [`islandlk`](http://island.lk/unidil-recognised-at-national-convention-on-quality-productivity-awards-2024/) · `en`
-
-The Unidil Group of Companies, the packaging arm of Vallibel One PLC and the leader in packaging solutions for local and export industries in Sri Lanka, has once again demonstrated its excellence by winning Ten Gold Awards at the National Convention on Quality & Productivity (NCQP) 2024.
-
-Specializing in corrugated cartons and paper sacks, Unidil continues to set the standard in quality, productivity, and innovation. The prestigious event took place on June 25, 2024, at Hotel Mount Lavinia, featuring participation from leading organizations across the country. Organized by the Sri Lanka Association for the Advancement of Quality & Productivity (SLAAQP), the annual NCQP event provides a significant platform for employers from various sectors to showcase their success stories and achievements in team-based improvement initiatives.
-
-Hayleys Group reports economic value creation of Rs. 150 billion
-
-...
-
-[Data](articles/be152899.json)
-
-[Extended Data](ext_articles/be152899.ext.json)
 
 ---

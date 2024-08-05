@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 21:36:37**
+As of **2024-08-05 21:55:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,132 (100.0%) of 39,134 articles have been extended.
+39,134 (100.0%) of 39,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ක්‍රිකට් ශූරියන්ට යුද හමුදාවෙන් තෑග්ගක්
+### Army's gift for cricket chaomers
 
 *2024-08-05 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199599) · `si`
 
-ආසියානු කාන්තා ක්‍රිකට් ශුරතාවලියේ ශූරතාවය හිමිකරගත් ශ්‍රී ලංකා කණ්ඩායම නියෝජනය කළ ශ්‍රී ලංකා යුද හමුදා ක්‍රීඩිකාවන් වෙත දිරිදීමනාවක් ලබාදී තිබේ.
+The Sri Lanka Army cricket team won the Asia Championship, receiving awards from the Army Commander, including the WGS Kularship, NND Silva Scholarship, and MA Sanjani Award. The Commander praised their skills and dedication.
 
-අද (05) දින යුද හමුදා මුලස්ථානයේදී යුද හමුදාධිපති ලුතිනන් ජෙනරාල් විකුම් ලියනගේ විසින් එම මුල්‍ය ආධාර ලබාදී ඇත.
+🟩
 
-එලෙස දිරිදීමනාව ලබාදී තිබුණේ සැරයන් ඩි.එම්.එස්.එම්.කේ දසනායක, සැරයන් ඩබ්.ජී.එස්.කේ කුලසුරිය, සැරයන් එන්.එන්.ඩී සිල්වා සහ ලාන්ස් කෝප්‍රල් එම්.ඒ.ඒ සංජීවනි යන ක්‍රීඩිකාවන් වෙතය.
+Sri Lanka Army Army, who represented the Sri Lankan team won the Championship of Asia, winning the Championship Championship.
 
-එහිදී යුද්ධ හමුදාධිපතිතුමන් විසින් එම ක්‍රිඩිකාවන්ට ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් සුබ පැතුම් එක්කළ අතර, එම තරගාවලියේදි ඔවුන් දැක්වූ විශිෂ්ට දස්කම් සහ කැපවීම ඇගයීමට ලක් කළේය.
+The Commander of the Army Lieutenant General's Visit has been provided by the Commander of the Army (05).
+
+Such incentives were given incentives, Sergeant WGS Kularship, Sergeant NND Silva and Lance Corporal MA Sanjani.
+
+The Commander of the Army, the Commander of the Army congratulated the Asian Trophy and evaluated their excellent skills and commitment to the tournament.
 
 ◼️
 
 [Data](articles/15bc0f55.json)
+
+[Extended Data](ext_articles/15bc0f55.ext.json)
 
 ---
 
@@ -94,17 +100,23 @@ Foreign media reports that the steps have been taken due to the unrest in Dhaka.
 
 ---
 
-### ගංඟාරාම පොඩි හාමුදුරුවෝ දැයෙන් සමුගනිති
+### The ripening of the ripening of the river
 
 *2024-08-05 20:06:13* · [`adalk`](https://www.ada.lk/picture_story/ගංඟාරාම-පොඩි-හාමුදුරුවෝ-දැයෙන්-සමුගනිති/10-411218) · `si`
 
-අපවත් වී වදාළ කොළඹ නව කෝරළයේ ප්‍රධාන සංඝනායක හුණුපිටිය ගංගාරාමාධිපති ආචාර්ය පූජ්‍ය ගලබොඩ ඤාණිස්සර හිමියන්ගේ දේහය පිළිබඳ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව අද (05) පස්වරුවේ සිදුකෙරුණි.
+The cremation of Mawan Gangarakaramaya Hunupitiya Renayakara Thero took place today, conducted in a specially prepared area. The ceremony involved rituals traditionally associated with Buddhist monks' funerals, emphasizing the importance of the event and the respect for the deceased's final rites.
 
-ඒ විහාරස්ථානය ඉදිරිපිට පරිශ්‍රයේ සකස්කළ ආදාහන මළුවේදීය.උන්වහන්සේ කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අගෝස්තු දෙවැනිදා අපවත් වන විට 81 වැනි වියෙහි පසුවූහ.
+🟩
+
+The cremation of the body of the remains of the remains of the Mawan Gangarakaramaya Hunupitiya Renayakara Thero (05) was held this afternoon.
+
+In the premises prepared at the premises of the premises, the Generagala which was admitted to a second second time when we were in a private hospital.
 
 ◼️
 
 [Data](articles/91826ad9.json)
+
+[Extended Data](ext_articles/91826ad9.ext.json)
 
 ---
 

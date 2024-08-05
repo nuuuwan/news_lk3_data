@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 11:07:39**
+As of **2024-08-05 11:20:55**
 
 ## Newspaper Stats
 
-*Scraped **39,034** Articles*
+*Scraped **39,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ adaderanalk | 4,524
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,882
 virakesarilk | 6,178
-adaderanasinhalalk | 6,593
+adaderanasinhalalk | 6,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,031 (100.0%) of 39,034 articles have been extended.
+39,034 (100.0%) of 39,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### குகதாசனுடன் மக்களை சந்தித்த ஜனாதிபதி
+### බ්‍රිතාන්‍ය යුද පිටියක් වෙයි
+
+*2024-08-05 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199577) · `si`
+
+එංගලන්තය පුරා පැතිරයන කෝලාහල සම්බන්ධයෙන් ගතයුතු පියවර සාකච්ඡා කිරීම සඳහා අද (05) බ්‍රිතාන්‍ය අගමැති කාර්යාලයේදී විශේෂ හමුවක් කැඳවා ඇති බව එරට මාධ්‍ය වාර්තා කරයි.
+
+සංක්‍රමණික ජන කොටස් වලට එරෙහිව සති අන්තයේ එරට ප්‍රදේශ කිහිපයක විරෝධතා පැවති අතර එහිදී පොලිස් නිලධාරීන් සමග ගැටුම් ඇතිකරගත් 150 දෙනෙක් පමණ අත්අඩංගුවට ගෙන තිබේ.
+
+මීට දින කිහිපයකට ඉහතදී 17 හැවිරිදි තරුණයෙක් විසින් පිහියකින් ඇන කුඩා ගැහැණු දරුවන් තිදෙනෙක් ඝාතනය කර තිබූ අතර එම සිද්ධියෙන් අනතුරුව එරට තුළ දැඩි මුස්ලිම් විරෝධයක් මතුවෙමින් පවතී.
+
+විරෝධතාකරුවන් විසින් සරණාගතයින් පිරිසක් රඳවා සිටින රොතර්හැම් හි හෝටලයකට ප්‍රහාරයක් එල්ලකර තිබුණි.
+
+ටැම්වර්ත්, මිඩ්ල්ස්බ්‍රො, බෝල්ටන්, හල් සහ වේමවුත් යන ප්‍රදේශවලද කෝලාහල ඇතිවූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/cd070de6.json)
+
+---
+
+### President met people with Kukadasan
 
 *2024-08-05 10:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/குகதாசனுடன்-மக்களை-சந்தித்த-ஜனாதிபதி/75-341614) · `ta`
 
-திருகோணமலை மக்களுக்கும் ஜனாதிபதிக்கும் இடையில் சந்திப்பொன்று இடம் பெற்றது. குறித்த சந்திப்பு திருகோணமலை நகராட்சி மன்ற பிரதான மண்டபத்தில்  ஞாயிற்றுக்கிழமை மதியம் (04) இடம் பெற்றது.
+In a meeting at Trincomalee's municipal council, President discussed issues like the Thirukoneswara Temple, land releases, McCaysar sports theater, and development projects with over 400 attendees, including Eastern Province Governor Senthil Thondaman and TNA parliamentarian Shanmugam Kukadasan.
 
-இதன் போது வரலாற்று சிறப்பு மிக்க திருக்கோணேஸ்வர ஆலய விவகாரம்,  மக்களுடைய காணிகள் விடுவிப்பு,  மக்கெய்சர் விளையாட்டு அரங்கு தொடர்பான பல பிரச்சினைகள் மற்றும் அபிவிருத்தித் திட்டங்கள் பற்றிய பல விடயங்கள் கலந்துரையாடப்பட்டுள்ளன.
+🟩
 
-அத்துடன் இக் கலந்துரையாடலில் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்,  திருகோணமலை மாவட்ட தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சண்முகம் குகதாசன் மற்றும் அரசியல் பிரமுகர்கள் உட்பட 400 க்கும் மேற்பட்ட மக்கள் கலந்து கொண்டனர்.
+A meeting between the people and the president of Trincomalee. The meeting was held at the Trincomalee Municipal Council main hall on Sunday afternoon (04).
+
+During this time, a number of issues have been discussed on the issue of the historic Thirukoneswara Temple, the release of the people's lands, the issues related to the McCaysar sports theater and the development projects.
+
+More than 400 people including Eastern Province Governor Senthil Thondaman, Trincomalee District Tamil National Alliance (TNA) parliamentarian Shanmugam Kukadasan and political dignitaries participated in the discussion.
 
 ◼️
 
 [Data](articles/932bc94c.json)
+
+[Extended Data](ext_articles/932bc94c.ext.json)
 
 ---
 
@@ -62,25 +88,33 @@ Meanwhile, his wife Apsari Thilakaratne has also joined the SJB. She is the Conv
 
 [Data](articles/952b55fa.json)
 
+[Extended Data](ext_articles/952b55fa.ext.json)
+
 ---
 
-### அரசாங்கத்துக்கு எதிராக நம்பிக்கையில்லா பிரேரணை?
+### A no -confidence motion against the government?
 
 *2024-08-05 10:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்துக்கு-எதிராக-நம்பிக்கையில்லா-பிரேரணை/175-341612) · `ta`
 
-ஆளும் கட்சிக்கு எதிராக பாராளுமன்றத்தில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வர எதிர்க்கட்சிகள் தயாராகி வருவதாக தகவல்கள் கசிந்துள்ளன.
+Opposition parties plan a no-confidence vote against the Sri Lankan government, citing internal splits reducing its majority. Despite President Ranil Wickremesinghe's support from over a hundred MPs, a significant portion of the ruling party may defect, potentially leading to a shift in power.
 
-ஸ்ரீ  லங்கா பொதுஜன பெரமுனவிற்குள் ஏற்பட்ட பிளவு காரணமாக ஆளும் கட்சி பெரும்பான்மையை இழந்துள்ளது.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக நூற்றுக்கும் மேற்பட்ட எம்.பி.க்கள் தற்போது,  உள்ளனர், இதற்கு முன்னர், கிட்டத்தட்ட நூற்றி இருபது எம்.பி.க்கள் அரசாங்கத்துக்கு ஆதரவளித்தனர்.
+There are reports that the opposition parties are preparing to bring a no -confidence motion in parliament against the ruling party.
 
-எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுனவில் ஏற்பட்டுள்ள பிளவு காரணமாக, நாமல் ராஜபக்ச உள்ளிட்ட குழுவினருக்கு எதிரணியில் அமர்வதற்கான வாய்ப்பு அதிகமென தகவல்கள் தெரிவிக்கின்றன.
+The ruling party has lost a majority due to the split within the Sri Lanka PA.
 
-இந்த நிலையில், ஆளும் கட்சியின் பெரும்பான்மை பலத்திற்கு சவால் விடுக்கப்பட்டுள்ள நிலையில்,  அமைச்சர்கள் பலரும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கருத்தோடு இருப்பதால், எதிர்க்கட்சியில் அமர்ந்தால், அமைச்சர் பொறுப்புகளில் இருந்து விட்டு விலக நேரிடும் என்றும் தகவல்கள் தெரிவிக்கின்றன.
+There are more than one hundred MPs in support of President Ranil Wickremesinghe, and before that, nearly twenty -twenty MPs supported the government.
+
+However, due to the split in the PA in the PA, there is a high chance of sitting in opposition to a group of Namal Rajapaksa.
+
+As the majority of the ruling party has been challenged, many ministers are in the opinion of the Sri Lanka PA, and if the opposition is sitting in the opposition, the minister will leave the responsibilities.
 
 ◼️
 
 [Data](articles/4e1daf92.json)
+
+[Extended Data](ext_articles/4e1daf92.ext.json)
 
 ---
 
@@ -2269,27 +2303,5 @@ Veluchami Radhakrishnan, the leader of the Upcountry People's Front, made the an
 [Data](articles/56029f04.json)
 
 [Extended Data](ext_articles/56029f04.ext.json)
-
----
-
-### Dilith Jayaweera as the presidential candidate of universal power
-
-*2024-08-04 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190257) · `ta`
-
-Businessman Dilith Jayaweera, leader of Mawpima Janata Party, has been named the presidential candidate for the universal power. The announcement took place at a themed event, "Awakened Nation - Happy Nation," held at the Sugathadasa Indoor Stadium in Colombo.
-
-🟩
-
-It has been officially announced that businessman Dilith Jayaweera is contesting as the presidential candidate of the universal power in the presidential election.
-
-Mawpima Janata Party leader Dilith Jayaweera has been appointed as the presidential candidate of the universal power.
-
-The announcement was made at a function held at the Sugathadasa Indoor Stadium in Colombo under the theme "Awakened Nation - Happy Nation".
-
-◼️
-
-[Data](articles/88f6778f.json)
-
-[Extended Data](ext_articles/88f6778f.ext.json)
 
 ---

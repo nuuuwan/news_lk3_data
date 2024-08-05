@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 19:36:12**
+As of **2024-08-05 19:54:35**
 
 ## Newspaper Stats
 
-*Scraped **39,122** Articles*
+*Scraped **39,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,591
-adaderanalk | 4,543
+adalk | 3,592
+adaderanalk | 4,544
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,899
+tamilmirrorlk | 4,902
 virakesarilk | 6,185
 adaderanasinhalalk | 6,613
 
@@ -26,25 +26,83 @@ adaderanasinhalalk | 6,613
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,120 (100.0%) of 39,122 articles have been extended.
+39,122 (100.0%) of 39,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### සේමසිංහ පොහොට්ටුවේ මහලේකම් ලියයි
+### Dhaka’s International Airport temporarily closed amid violence
+
+*2024-08-05 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101021/dhakas-international-airport-temporarily-closed-amid-violence) · `en`
+
+Bangladesh’ International Airport in Dhaka has been closed for six hours following violent protest which forced former PM Sheikh Hasina to resign and flee the country, said Bangladesh Army.
+
+Dhaka airport closed for commercial flight movement till 11.30 p.m. on Monday, according to reports.
+
+A flight 6E 1113 was diverted to Kolkata in India due to unrest in Dhaka.
+
+Bangladesh has been engulfed by protests and violence since last month, following student groups’ demands to scrap a controversial quota system in government jobs.
+
+Air India cancelled its scheduled flights to and from Dhaka, with immediate effect on Monday due to the emerging situation in the wake of Bangladesh Prime Minister Sheikh Hasina resigning amid unprecedented anti-government protests, foreign media reported.
+
+...
+
+[Data](articles/77cbbac0.json)
+
+---
+
+### ஷேக் ஹசீனா விமானம் ஹிண்டனில் இறங்கியது
+
+*2024-08-05 19:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-விமானம்-ஹிண்டனில்-இறங்கியது/50-341641) · `ta`
+
+பிரதமர் பதவியை ராஜினாமா செய்துவிட்டு டாக்காவில் இருந்து ராணுவ விமானத்தில் நாட்டை விட்டு வெளியேறிய ஷேக் ஹசீனா, டெல்லி அருகே ஹிண்டன் விமானப்படை தளத்தில் தரையிறங்கினார். இங்கிலாந்து அரசிடம் அவர் தஞ்சம் கோருவதாக தகவல் வெளியாகி உள்ளது.
+
+வங்கதேச பிரதமராக இருந்த ஷேக் ஹசீனா, மாணவர்களின் போராட்டம் தீவிரமடைந்ததை அடுத்து இன்று மதியம் தனது பதவியை ராஜினாமா செய்தார். இதையடுத்து, வங்கதேசத்தில் இருந்து மதியம் 2.30 மணிக்கு அந்நாட்டு ராணுவ விமானத்தில் தனது சகோதரி ஹேக் ரேஹானாவுடன் பிரதமர் மாளிகையான கனபாபனில் இருந்து புறப்பட்டார்.
+
+அவர்கள் புறப்பட்ட விமானம் புதுடெல்லி அருகே ஹிண்டன் விமானப்படை தளத்தில் தரையிறங்கியது. அவர்கள் இங்கிலாந்து செல்ல உள்ளதாகவும், இங்கிலாந்து அரசிடம் ஷேக் ஹசீனா தஞ்சம் கோரியுள்ளதாகவும் தகவல் வெளியாகி உள்ளது. ஷேக் ரேஹானா இங்கிலாந்து குடியுரிமை பெற்றவர் என்றும் எனவே, அவரோடு ஷேக் ஹசீனா லண்டலின் தங்க முடிவு செய்துள்ளதாகவும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/8bb10577.json)
+
+---
+
+### ஷேக் ஹசீனாவின் சேலையை கட்டி ஆட்டம்
+
+*2024-08-05 19:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனாவின்-சேலையை-கட்டி-ஆட்டம்/50-341639) · `ta`
+
+மக்கள் கிளர்ச்சியின் எதிரொலியாக, வங்கதேச பிரதமர் பதவியை ராஜினாமா செய்த ஷேக் ஹசீனா லண்டனுக்கு புறப்பட்டுள்ளதாக செய்தி வெளியாகி உள்ளது.
+
+வங்கதேச பிரதமராக இருந்த ஷேக் ஹசீனா, மாணவர்களின் போராட்டம் தீவிரமடைந்ததை அடுத்து இன்று மதியம் தனது பதவியை ராஜினாமா செய்தார். இதையடுத்து, வங்கதேசத்தில் இருந்து மதியம் 2.30 மணிக்கு அந்நாட்டு ராணுவ விமானத்தில் தனது சகோதரி ஹேக் ரேஹானாவுடன் கனபாபன் என்ற இடத்தில் இருந்து புறப்பட்டார். அவர்கள் புறப்பட்ட விமானம் திரிபுரா வழியாக புதுடெல்லி நோக்கி சென்றதாக தகவல் வெளியானது. இந்நிலையில், அவர்கள் இங்கிலாந்து தலைநகர் லண்டனுக்கு புறப்பட்டுச் சென்றதாக பிடிஐ செய்தி நிறுவனம் செய்தி வெளியிட்டுள்ளது.
+
+ஷேக் ஹசீனாவும் அவரது சகோதரியும் புதுடெல்லி வந்து பின்னர் அங்கிருந்து லண்டன் செல்லலாம் அல்லது புதுடெல்லியிலேயே தங்கலாம் என்றும் தகவல் வெளியாகி உள்ளது. இங்கிலாந்து அரசிடம் ஷேக் ஹசீனா அடைக்கலம் கோரியுள்ளதாக தகவல் வெளியாகி உள்ளது. ஷேக் ரேஹானா இங்கிலாந்து குடியுரிமை பெற்றவர் என்றும் எனவே, அவரோடு ஷேக் ஹசீனா லண்டலின் தங்க முடிவு செய்துள்ளதாகவும் கூறப்படுகிறது.
+
+...
+
+[Data](articles/5ade8911.json)
+
+---
+
+### Secretary to the Secretary-General in Semasinghe
 
 *2024-08-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199596) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් සාගර කාරියවසම් මහතා පසුගියදා යොමුකළ ලිපියට ප්‍රතිචාර දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ඔහු වෙත ලිපියක් යොමුකර තිබේ.
+State Minister Shehan Semasinghe responded to a letter from the Sri Lanka General Front, clarifying that his party and its members are not bound by a proposal made by their political board on July 29. He assured State Secretary Mr. Shi Jahan Semasinghe that despite facing challenges, he remains committed to making necessary decisions for the country.
 
-එමඟින් ඔහු පෙන්වා දී ඇත්තේ පක්ෂයේ දේශපාලන මණ්ඩලය ජුලි 29 වැනිදා සම්මත කරගත් යෝජනාවට පාක්ෂිකයින් සහ තමා බැඳී නොසිටින බවය.
+🟩
 
-එබැවින් ගනු ලබන විනය ක්‍රියාමාර්ගවලට විරුද්ධව කටයුතු කරන බවටත්, රට හමුවේ පවතින අභියෝගය හමුවේ නිවැරදි තීන්දු තීරණ ගැනීමට පසුබට නොවන බවත් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සිය ලිපියෙන් වැඩිදුරටත් දන්වා තිබේ.
+State Minister of State Shehan Semasinghe has written to him Mr. Shi Jahan Semasinghe responding to the recent letter of the Sri Lanka General Front.
+
+It has pointed out that the party and her party members are not obliged to the proposal to be adopted by the party's political board on July 29.
+
+He has told State Shehan Semasinghe said that the disciplinary action is taken and the challenge of the country is not hesitant to make proper decisions.
 
 ◼️
 
 [Data](articles/1adf8b05.json)
+
+[Extended Data](ext_articles/1adf8b05.ext.json)
 
 ---
 
@@ -70,19 +128,25 @@ Earlier, deposits had been placed on behalf of the independent candidates Presid
 
 ---
 
-### வங்கதேச பிரதமர் மாளிகையை சூறை: படங்கள் இணைப்பு
+### Bangladesh Prime Minister's House
 
 *2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறை-படங்கள்-இணைப்பு/50-341637) · `ta`
 
-வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்தில் நுழைந்த போராட்டக்காரர்கள், பிரதமர் மாளிகையில் சூறையாடியாதால் பெரும் பதற்றம் ஏற்பட்டது.
+Protesters stormed Bangladesh PM Sheikh Hasina's residence in Dhaka, leading to her resignation and departure. The Bangladesh National Party announced writer and professor Salimullah Khan as the head of the interim government. Protesters vandalized the residence, sharing images online.
 
-மாணவர்கள் போராட்டத்தின் எதிரொலியாக, வங்கதேச பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்துவிட்டு நாட்டை விட்டுச் வெளியேறிச் சென்ற நிலையில், ‘இடைக்கால அரசு விரைவாக அமைக்கப்படும்’ என்று அந்நாட்டு ராணுவம் தெரிவித்துள்ளது. இச்சூழலில், புகழ்பெற்ற எழுத்தாளரும், பேராசிரியருமான சலிமுல்லா கான் தலைமையில், வங்கதேசத்தில் இடைக்கால அரசு அமையும் என்று வங்கதேச தேசிய கட்சி தெரிவித்துள்ளது.
+🟩
 
-அடுத்தடுத்த அரசியல் நகர்வுகளுக்கு மத்தியில், போராட்டக்காரர்கள் வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து சூறையாடினர். பிரதமர் பதவியை ராஜினாமா செய்து டாக்காவில் இருந்து ராணுவ விமானம் மூலம் நாட்டை விட்டு ஷேக் ஹசீனா வெளியேறிய நிலையில், பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து கையில் சிக்குவதை எடுத்துக்கொண்டும், சிலர் கோப்புகளை கிழித்தனர்.
+The protesters entered the Prime Minister's official residence in the Bangladesh capital, Dhaka, and there was great tension in the Prime Minister's House.
+
+As a result of the students' protest, Bangladesh Prime Minister Sheikh Hasina has resigned from his post and left the country.. In this context, the Bangladesh National Party has said that the interim government in Bangladesh will be led by a renowned writer and professor Salimullah Khan.
+
+Amid subsequent political moves, the protesters entered the Prime Minister's official residence in the Bangladesh capital Dhaka and looted. When Sheikh Hasina left the country by military plane from Dhaka from Dhaka, he left the Prime Minister's post, leaving the Prime Minister's official residence and taking over his hand, and some tore the files.
 
 ...
 
 [Data](articles/068f8df9.json)
+
+[Extended Data](ext_articles/068f8df9.ext.json)
 
 ---
 
@@ -107,6 +171,22 @@ Views of the protesters who entered the Prime Minister's house in violation of t
 [Data](articles/1af1c4d6.json)
 
 [Extended Data](ext_articles/1af1c4d6.ext.json)
+
+---
+
+### வங்கதேச பிரதமர் மாளிகை சூறை: படங்கள் இணைப்பு
+
+*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகை-சூறை-படங்கள்-இணைப்பு/46-341637) · `ta`
+
+வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்தில் நுழைந்த போராட்டக்காரர்கள், பிரதமர் மாளிகையில் சூறையாடியாதால் பெரும் பதற்றம் ஏற்பட்டது.
+
+மாணவர்கள் போராட்டத்தின் எதிரொலியாக, வங்கதேச பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்துவிட்டு நாட்டை விட்டுச் வெளியேறிச் சென்ற நிலையில், ‘இடைக்கால அரசு விரைவாக அமைக்கப்படும்’ என்று அந்நாட்டு ராணுவம் தெரிவித்துள்ளது. இச்சூழலில், புகழ்பெற்ற எழுத்தாளரும், பேராசிரியருமான சலிமுல்லா கான் தலைமையில், வங்கதேசத்தில் இடைக்கால அரசு அமையும் என்று வங்கதேச தேசிய கட்சி தெரிவித்துள்ளது.
+
+அடுத்தடுத்த அரசியல் நகர்வுகளுக்கு மத்தியில், போராட்டக்காரர்கள் வங்கதேச தலைநகர் டாக்காவில் உள்ள பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து சூறையாடினர். பிரதமர் பதவியை ராஜினாமா செய்து டாக்காவில் இருந்து ராணுவ விமானம் மூலம் நாட்டை விட்டு ஷேக் ஹசீனா வெளியேறிய நிலையில், பிரதமரின் அதிகாரபூர்வ இல்லத்துக்குள் நுழைந்து கையில் சிக்குவதை எடுத்துக்கொண்டும், சிலர் கோப்புகளை கிழித்தனர்.
+
+...
+
+[Data](articles/cc36e724.json)
 
 ---
 
@@ -151,6 +231,24 @@ It is best to bring the postal voting applications to the District Election Offi
 [Data](articles/69c0ce30.json)
 
 [Extended Data](ext_articles/69c0ce30.ext.json)
+
+---
+
+### ජනපතිගේ පෝස්ටර් දිහා ජනතාව හූල්ලමින් බලාගෙන ඉන්නවා
+
+*2024-08-05 18:30:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-පෝස්ටර්-දිහා-ජනතාව-හූල්ලමින්-බලාගෙන-ඉන්නවා/11-411211) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් අධික වියදමක් යොදා ගසනු ලබන පෝස්ටර් දෙස වේලක් ඇර වේලක් ආහාරය ගන්නා ජනතාව හූල්ලමින් බලා සිටින බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා පැවසීය.
+
+පිටකෝට්ටේ සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (05දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“දැන් පෝස්ටර් ගහලා තියෙනවා ජනාධිපති රනිල් තමයි කියලා. අපි දැක්කා ජනතාව ප්‍රතිචාර දක්වන විදිය. සමහර තැන්වල ජනාධිපති රනිල් තමයි කියන පෝස්ටර්වලට යටින් මහජනයා ලියලා තියෙනවා 21වැනිදා වෙනකන් විතරයි කියලා. දිනපතාම දැවැන්ත මුදල් කන්දරාවක් යොදාගෙන මාගල් වගේ පෝස්ටර් අසීමිත වියදමක් දරලා තාප්පවල ප්‍රදර්ශනය කරනවා. වේලක් ඇර වේලක් කන ජනතාව බදු බරින්, ජීවන බරින් මිරිකෙමින් සිටින ජනතාව හූල්ලමින් ඒ දිහා බලාගෙන ඉන්නවා.
+
+...
+
+[Data](articles/ad233e40.json)
 
 ---
 
@@ -2189,119 +2287,5 @@ She is currently serving as coach of the Bangladesh Cricket Women's Team. Mrs. A
 [Data](articles/e6bfdf37.json)
 
 [Extended Data](ext_articles/e6bfdf37.ext.json)
-
----
-
-### Four persons including teacher
-
-*2024-08-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190286) · `ta`
-
-In Tissamaharama, four individuals, including a school teacher from Wellawaya, were arrested for possessing two pearls. The others come from Budhala, Wellawaya, and Kalgamuwa. They were detained while attempting to sell the pearls. Further inquiries are ongoing as they are set to appear in court.
-
-🟩
-
-Tissamaharama police have said that four people have been arrested for holding two pearls in the Tissamaharama area.
-
-Police said that the four arrested school teacher from the Wellawaya area is also found.
-
-The other three are from the Budhala, Wellawaya and Kalgamuwa areas, police said.
-
-The suspects were arrested during visiting Tissamaharama for selling pearls, police said.
-
-Also, as the suspects are to be produced before the Tissamaharama Magistrate's Court, Tissamaharama police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/7b018af6.json)
-
-[Extended Data](ext_articles/7b018af6.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 301.90/302.10 to US dollar
-
-*2024-08-05 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-301-90-302-10-to-us-dollar-175215/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.90/302.10 to the US dollar on Monday, dealers said. Bond yields were up, they said, and stocks opened up 0.09 percent.
-
-In the secondary market, treasury bond yields were marginally up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.65/75 percent, up from 10.45/60 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, up from 12.00/10 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.20/40 percent, up from 12.20/35 percent.
-
-In equities, Colombo’s All Share Price Index opened 10.67 points higher at 11,453, while the S&P SL20 of more liquid stocks opened up at 0.36 percent or 11.80 points to 3,301.
-
-◼️
-
-[Data](articles/58ee72ba.json)
-
-[Extended Data](ext_articles/58ee72ba.ext.json)
-
----
-
-### Sri Lanka online tourist visa re-starting decision soon
-
-*2024-08-05 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-tourist-visa-re-starting-decision-soon-175217/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Immigration will soon take a decision on providing e-visas after the service provided by IVS-GBS and VFS Global, a private consortium was suspended by court, media reports said.
-
-Sri Lanka’s Aruna newspaper quoted Controller General of Immigration Harsha Illukpitiya as saying that the court order was officially expected to reach him on Monday and a decision will be taken after that.
-
-State-run Dinamina newspaper said the Ministry of Public Security will take a decision on the matter on August 06.
-
-The old website was suspended Friday after Supreme Court decision.
-
-Sri Lanka’s Supreme Court suspended a cabinet decision awarding the online visa contract to the private consortium and asked that the previous status be restored pending the conclusion of several public interest petitions.
-
-The controversial deal was awarded without public tender and led to higher fees being charged for visas on top of government fees.
-
-...
-
-[Data](articles/95755077.json)
-
-[Extended Data](ext_articles/95755077.ext.json)
-
----
-
-### Elephant crowd that saved the family
-
-*2024-08-05 09:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முண்டகை-நிலச்சரிவு-குடும்பத்தை-காப்பாற்றிய-யானை-கூட்டம்/175-341605) · `ta`
-
-During heavy rains, Sujata Ani Nanjira and her family sought shelter from flooding waters under a cliff, only to find themselves surrounded by a herd of elephants. Despite the danger, the elephants did not harm them, allowing the family to spend a tense night in close proximity. The next morning, rescue teams arrived, marking an unforgettable experience for the family.
-
-🟩
-
-Sujata Ani Nanjira has been working for 18 years at the Harrison Tea Estate in Mundaga. He lives with her daughter Sujita, son -in -law Kuttan, grandchildren Suraj and Mridula Akir.
-
-When the heavy rains began last Monday night, they started the house around the house. From there he said that we escaped to the nearby cliff. But the elephants were also asylum in the cliff covered with coffee trees.
-
-We had an elephant crowd just a few inches. It was between its feet, we spent the night in fear, ”he said.
-
-Seeing the elephant's eyes seemed to understand our embarrassment. He said that the elephant crowd was outraged and that the elephants were standing there until the rescue crews came to us in the morning.
-
-I could see the elephant's eyes off when the sun rose. He said this was an unforgettable incident of my life.
-
-◼️
-
-[Data](articles/4ed1f7ae.json)
-
-[Extended Data](ext_articles/4ed1f7ae.ext.json)
-
----
-
-### Child’s Guide To Debt & Debt Restructuring – Part V
-
-*2024-08-05 09:19:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-v/) · `en`
-
-Aseni and Sarath Mahatthaya are continuing their interactive conversation on debt and debt restructuring. They have concluded that a country should borrow from foreign sources – savings made by people in other countries by curtailing their consumption – to finance the high investments which cannot be met through inadequate domestic savings. In the case of Sri Lanka, the savings made by the private sector have been reduced by dissaving made by the Government by consuming more than the revenue. That latter dissaving had been about 1% of GDP in the post-independence period and about 7% of GDP in the recent years.
-
-...
-
-[Data](articles/122b5e71.json)
-
-[Extended Data](ext_articles/122b5e71.ext.json)
 
 ---

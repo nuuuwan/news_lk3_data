@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 18:38:49**
+As of **2024-08-05 18:55:33**
 
 ## Newspaper Stats
 
-*Scraped **39,113** Articles*
+*Scraped **39,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
 adalk | 3,590
-adaderanalk | 4,541
+adaderanalk | 4,542
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,897
 virakesarilk | 6,185
-adaderanasinhalalk | 6,610
+adaderanasinhalalk | 6,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,113 (100.0%) of 39,113 articles have been extended.
+39,113 (100.0%) of 39,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### Deadline for postal voting applications extended
+
+*2024-08-05 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101018/deadline-for-postal-voting-applications-extended) · `en`
+
+The deadline to accept postal voting applications, which was scheduled to end at midnight today (05), has been extended, the Commissioner General of Elections Saman Sri Ratnayake said.
+
+Accordingly, the relevant deadline has been extended until 12.00 midnight on August 09 (Friday).
+
+The Elections Commissioner General said that this decision was made in consideration of the possible postal delays and several requests made by the public to the commission.
+
+Furthermore, the election regulatory body highlighted that the deadline for accepting the relevant applications will not be extended further under any circumstances.
+
+◼️
+
+[Data](articles/ff2d2c58.json)
+
+---
+
+### තැපැල් ඡන්ද අයදුම්පත් භාරගන්නා කාලය දීර්ඝ කෙරේ
+
+*2024-08-05 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199595) · `si`
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමත් සමග තැපැල් ඡන්දය සඳහා අයදුම්පත් කැඳවීමේ කාල සීමාව දීර්ඝ කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමසාරිස් ජනරාල්, සමන් ශ්‍රී රත්නායක මහතා සඳහන් කර ඇත්තේ, අද (05) මධ්‍යම රාත්‍රී 12න් අවසන් වීමට තිබූ තැපැල් ඡන්ද අයදුම්පත් භාරගැනීමේ කාලය අගෝස්තු මස 9 වන සිකුරාදා මධ්‍යම රාත්‍රී 12 තෙක් දීර්ඝ කර ඇති බවය.
+
+ඒ අනුව අයදුම්පත් අගෝස්තු 9 වනදා මධ්‍යම රාත්‍රී 12ට පෙර දිස්ත්‍රික් මැතිවරණ කාර්යාලය වෙත ලැබීය යුතු වේ.
+
+අයදුම්පත් ලැබීමේ දී සිදුවිය හැකි ප්‍රමාදය වළක්වා ගැනීම සඳහා අගෝස්තු 8 සහ 9 යන දෙදින තුළ සම්පූර්ණ කරන තැපැල් ඡන්ද අයදුම්පත් තැපෑලට භාරදීමෙන් වැළකී ඒවා එක් එක් දිස්ත්‍රික්කය අනුව වෙන්කර වෙන වෙනම කවරවල බහා සහතික කිරීමේ නිලධාරී කාර්යාලය පිහිටි දිස්ත්‍රික්කයේ දිස්ත්‍රික් මැතිවරණ කාර්යාලයට අතින් ගෙනැවිත් භාරදීමට කටයුතු කිරීම වඩාත් යෝග්‍ය බවද මැතිවරණ කොමසාරිස් ජනරාල්වරයා නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/69c0ce30.json)
+
+---
+
+### ඇප තැබූ පිරිස 17ක් දක්වා ඉහළට
+
+*2024-08-05 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199594) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 17 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස, පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක, විජයදාස රාජපක්ෂ, කේ.කේ. පියදාස, සිරිතුංග ජයසූරිය, අජන්ත ද සොයිසා, කේ. ආනන්ද කුලරත්න, සරත් මනමේන්ද්‍ර, පූජ්‍ය බත්තරමුල්ලේ සීලරතන හිමි සහ අක්මීමන දයාරතන හිමි යන අය විසින් මෙලෙස ඇප මුදල් තැන්පත් කර ඇත.
+
+මේ අතර ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ස්වාධීන අපේක්ෂකයෙකු ලෙස අද (05) දහවල් ඇප මුදල් තැන්පත් කළේය.
+
+ඒකාබද්ධ ස්වාධීන වෘත්තීය සමිති කේන්ද්‍රය නියෝජනය කරමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන සිරිපාල අමරසිංහ මහතා ද ස්වාධීන අපේක්ෂකයෙකු ලෙස අද ඇප මුදල් තැන්පත් කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+එමෙන්ම අරුණළු ජනතා පෙරමුණ වෙනුවෙන් එහි ලේකම් වෛද්‍ය කේ.ආර්. කිෂාන් මහතා ද ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/093d8703.json)
+
+---
 
 ### Chamari nominated for ICC Women’s Player of the Month for July
 
@@ -2251,73 +2307,5 @@ Darshana qualified for the semifinals in the qualifying round of the qualifying 
 [Data](articles/62fbe661.json)
 
 [Extended Data](ext_articles/62fbe661.ext.json)
-
----
-
-### Paris 2024: Aruna Darshana qualifies for semifinals
-
-*2024-08-05 08:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அருண-தர்ஷன-அரையிறுதிக்கு-தகுதி/44-341603) · `ta`
-
-Aruna Darshana made it to the 2024 Paris Olympics Men's 400-meter run semifinals after clocking 44.99 seconds in the qualifying round.
-
-🟩
-
-Aruna Darshana has qualified for the semifinals of the Men's Men's Men's 400 -meter run in the 2024 Olympics in France.
-
-Darshana qualified for the semifinals in the qualifying round of the qualifying round on Sunday (04) in 44 seconds and 99 ml seconds.
-
-◼️
-
-[Data](articles/d32e7565.json)
-
-[Extended Data](ext_articles/d32e7565.ext.json)
-
----
-
-### The Treek's target that shot from the window was once
-
-*2024-08-05 08:43:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනේලයෙන්-වෙඩි-තබා-ගිය-වෙඩික්කරුගේ-ඉලක්කය-වරදී/11-411194) · `si`
-
-A shooting incident occurred in the Sevanagala area, where a 39-year-old resident of the Kiriibbanara Ayurvedic Hospital was injured. The shooter, who had been living alone in the house, fired several shots through an open window after dinner. Despite causing serious damage, the shooter failed to kill the intended target. The victim was taken to Embilipitiya Hospital for treatment, and police continue their investigation.
-
-🟩
-
-Sevagala Police said that a house was opened and shot dead at Sevanagala area.
-
-The 39 year old resident of the Kiriibbanara Ayurvedic Hospital has been injured in the shooting nearly three.
-
-The shooting person has been at home and has been working alone in a household, the house in another house, which has been spent on the house, and opened the window in the house after dinner..
-
-The shooting was seriously damaged in Kuelilla, while the shooting was not carried out by the target error, but the shot is not able to kill the target mistake.
-
-The injured person was admitted to Embilipitiya Hospital while the injured were being treated at the Embilipitiya Hospital while the police are conducting further investigations.
-
-◼️
-
-[Data](articles/99973178.json)
-
-[Extended Data](ext_articles/99973178.ext.json)
-
----
-
-### 9 children killed when wall collapsed
-
-*2024-08-05 08:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவர்-இடிந்து-விழுந்ததில்-9-குழந்தைகள்-பலி/175-341602) · `ta`
-
-In Madhya Pradesh, nine children aged 10 to 15 died when a wall collapsed during the Harm Baba religious event in Sagar district.
-
-🟩
-
-Nine children were killed when a religious event collapsed in Madhya Pradesh. The incident took place in Shapur village in Sagar district of Madhya Pradesh.
-
-Sagar area police commissioner Virendra Singh Rawat said in this regard.
-
-The accident occurred when the Harm Baba religious event in Sagar district, which was held in Sagar district, collapsed.. The death of 9 children so far. They said they were all over 10 to 15 years of age. (A)
-
-◼️
-
-[Data](articles/33e12f22.json)
-
-[Extended Data](ext_articles/33e12f22.ext.json)
 
 ---

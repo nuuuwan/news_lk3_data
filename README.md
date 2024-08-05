@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 16:20:42**
+As of **2024-08-05 16:36:04**
 
 ## Newspaper Stats
 
-*Scraped **39,089** Articles*
+*Scraped **39,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 371
 islandlk | 2,251
 economynextcom | 2,357
 dailyftlk | 2,506
-adalk | 3,586
-adaderanalk | 4,536
+adalk | 3,587
+adaderanalk | 4,537
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,892
-virakesarilk | 6,183
-adaderanasinhalalk | 6,605
+virakesarilk | 6,184
+adaderanasinhalalk | 6,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,089 (100.0%) of 39,089 articles have been extended.
+39,089 (100.0%) of 39,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### අගමැතිවරිය නෙරපූ අරගලය
+
+*2024-08-05 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199589) · `si`
+
+බංග්ලාදේශයේ අන්තර්වාර පාලනයක් ස්ථාපිත කරන බව එරට හමුදාපතිවරයා පවසා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඒ එරට අගමැතිනී, ෂෙයික් හසීනා සිය ධුරයෙන් ඉවත්වී ඉන්දියාවට පළායාම හේතුවෙනි.
+
+හමුදාපති ජෙනරාල් වෙකර් උස් - සමාන් පවසන්නේ, විරෝධතා පවත්වන සිසුන් දැන් සිය නිවෙස් වෙත යා යුතු බවය.
+
+මාධ්‍ය වාර්තා සඳහන් කරන්නේ හසීනා සහ ඇයගේ සහෝදරිය රැගත් හෙලිකොප්ටර් යානය ඉන්දියාවේ අගාර්තාලා නගරය වෙත ළඟා වූ බවයි.
+
+1971 බංග්ලාදේශ නිදහස් සටනට එක්වූ යුද විරුවන්ගේ ඥාතීන්ට රජයේ රැකියාවලින් 30%ක් දීමට හසීනා රජය සැරසීමත් සමගම ඊට එරෙහිව ශිෂ්‍යයින් උද්ඝෝෂණ ඇරඹීය.
+
+එම උද්ඝෝෂණ පාලනයට රජය බලය පාවිච්චි කළ අතර ඉන් විශාල පිරිසක් මරණයට පත්විය.
+
+අනතුරුව එරට තුළ උද්ඝෝෂණ අඩු වුවද පසුගිය සතියේ උද්ඝෝෂණ නැවතත් ආරම්භ වූයේ දේශපාලන මුහුණුවරකිනි.
+
+ඊයේ බංග්ලාදේශය පුරා නැවත දැනුම්දෙන තුරු ඇඳිරි නීතිය පැනවූ අතර නමුත් විරෝධතාකරුවන් එය නොසලකා හරිමින් ඩකා අගනුවරට එක්රැස් විය.
+
+උද්ඝෝෂකයින් පැමිණීමට පෙර අගමැතිවරිය එම ස්ථානයෙන් ඉවත් කිරීමට ආරක්ෂක අංශ සමත්විය.
+
+...
+
+[Data](articles/e442ef84.json)
+
+---
+
+### Advisory issued for thundershowers and severe lightning
+
+*2024-08-05 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101012/advisory-issued-for-thundershowers-and-severe-lightning) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Northern and Eastern provinces and in Polonnaruwa and Badulla districts.
+
+There may be temporary localized strong winds during thundershowers, the department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/3a416613.json)
+
+---
+
+### இஸ்ரேலில் கத்திகுத்து தாக்குதல் - இருவர் பலி
+
+*2024-08-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190338) · `ta`
+
+மேற்குகரையை சேர்ந்த நபர் ஒருவரே இந்த கத்திக்குத்து தாக்குதலை மேற்கொண்டார் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+66வயது யூத பெண் ஒருவரும் 80 வயது ஆணும் கொல்லப்பட்டுள்ளனர் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+நான் எனது நாயுடன் நடந்துசென்றுகொண்டிருந்தவேளை நபர் ஒருவர் ஒடிவந்து முதுகில் கத்தியால் குத்தினார் என காயமடைந்த 26 வயது நபர் தெரிவித்துள்ளார்.
+
+நான் பேருந்து தரிப்பிடத்தை நோக்கி தப்பிச்சென்றேன் கத்திக்குத்திற்கு மேலும் பலர் இலக்கானது அதன் பின்னரே எனக்கு தெரியவந்தது என அந்த நபர் தெரிவித்துள்ளார்.
+
+ஹெலொனில் சம்பவம் ஒன்று இடம்பெற்றதை இஸ்ரேலிய பிரதமர் அமைச்சரவை கூட்டத்தில் உறுதி செய்துள்ளார்.
+
+◼️
+
+[Data](articles/31a5d64b.json)
+
+---
 
 ### An announcement of the weather
 
@@ -79,6 +147,22 @@ The 33-year-old mother has been arrested by Tellippalai Police who are conductin
 [Data](articles/969567bc.json)
 
 [Extended Data](ext_articles/969567bc.ext.json)
+
+---
+
+### අගමැති හසීනා බංග්ලාදේශයෙන් පළා යයි
+
+*2024-08-05 15:20:56* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හසීනා-බංග්ලාදේශයෙන්-පළා-යයි/11-411209) · `si`
+
+බංග්ලාදේශ අගමැති ෂෙයික් හසීනා විරෝධතා කරුවන්ගේ විරෝධය හමුවේ අගමැති ධුරය අතහැර පළාගොස් තිබේ.
+
+She has left Dhaka in a military helicopter after thousands broke into her residence in Dhaka. Reports claim Hasina is headed to Bengal, India!
+
+Hasina is likely to tender her official resignation amid the… pic.twitter.com/T3pA9UCpT5
+
+◼️
+
+[Data](articles/125e55bc.json)
 
 ---
 
@@ -2177,97 +2261,5 @@ Adani Power Ltd. (“APL”), a part of Adani portfolio companies, recently anno
 [Data](articles/211067f1.json)
 
 [Extended Data](ext_articles/211067f1.ext.json)
-
----
-
-### Kosala Wickramanayake honoured with Japan’s “Order of the Rising Sun, Gold Rays with Rosette”
-
-*2024-08-05 02:11:31* · [`dailyftlk`](https://www.ft.lk/business/Kosala-Wickramanayakehonouredwith-Japan-s-Order-of-the-Rising-Sun-Gold-Rays-with-Rosette/34-765154) · `en`
-
-Ambassador of Japan to Sri Lanka Mizukoshi Hideaki last week conferred the “Order of the Rising Sun, Gold Rays with Rosette” on Kosala Rohana Wickramanayake, former President of the Lanka Japan Friendship Society and former President of the Federation of Chambers of Commerce and Industry of Sri Lanka, in recognition of his outstanding contribution to promoting friendly relations, mutual understanding and economic exchange between Japan and Sri Lanka.
-
-Ambassador Mizukoshi praised Wickramanayake for his tireless efforts in deepening friendly relations and promoting mutual understanding between Japan and Sri Lanka, particularly during his tenure as President of the Lanka Japan Friendship Society in 2011-2012.
-
-...
-
-[Data](articles/86d4311b.json)
-
-[Extended Data](ext_articles/86d4311b.ext.json)
-
----
-
-### Darkness in the time of death: fertile dawn
-
-*2024-08-05 02:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறந்தகாலத்திடம்-இருள்-வளமான-விடியல்-வரும்/175-341599) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, calls for a government focused on empowering the disabled and marginalized, emphasizing the need for inclusivity and equality. He criticizes past regimes for neglecting these groups, promising a brighter future through policy reforms inspired by international standards.
-
-🟩
-
-The leader of the National People's Power, Anura Kumara Dissanayake, said that the darkness can be handed over to the time of the death of our country.
-
-Release the National Policy and Program of the National People's Power on the Disabled Persons (Workplace). He said this while addressing it.
-
-Those who have eyes -visible, listening to the ears, and the right moves have long ruled our country. Its troubles are the overall community. When you look at you and listen to your speeches, we feel that we have so much delayed when your talents are revealed. We have the hope that we can hand over this darkness to the time of the dead and create a prosperous dawn of our country.
-
-Today we think the eyes are wide. We call for the establishment of a government of the national people's power for us. He said, "We have sought the minds of God as the will of God or the Prophet."
-
-...
-
-[Data](articles/5eea2170.json)
-
-[Extended Data](ext_articles/5eea2170.ext.json)
-
----
-
-### Those who support Ranil "do not split up"
-
-*2024-08-05 01:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவு-தெரிவித்தவர்கள்-மொட்டை-பிளக்கவில்லை/175-341598) · `ta`
-
-Prasanna Ranatunga defends Ranil Wickremesinghe, stating the Sri Lanka PA hasn't split due to personal interests but rather betrayal for money. He addresses concerns about his decisions, including potential loss of posts, and emphasizes unity and national interest over individual politics.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga has said that the Sri Lanka PA has not been divided by President Ranil Wickremesinghe and a small group of people standing for their personal interests of the party.
-
-He pointed out that some of these people who did not care about party members have betrayed the party for money.
-
-Responding to questions raised by journalists after a discussion held on Saturday (03) with the Ratnapura District Local Government Representatives, the Minister said this.
-
-Question - There is an allegation that you have broken the party. Why did the party broke?
-
-Answer - I am trying to make this trip united. Those who broke up should have appointed Dallas in 2022 without appointing Ranil.
-
-Question - You're going to lose the volume organizer post. Isn't that worried to you?You take the risk.What if Ranil Wickremesinghe loses?
-
-...
-
-[Data](articles/f5150fdb.json)
-
-[Extended Data](ext_articles/f5150fdb.ext.json)
-
----
-
-### Life completed in 46 days
-
-*2024-08-05 01:47:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-நாட்களில்-ஆயுள்-நிறைவு/175-341597) · `ta`
-
-Professor Xi predicts the current government will last only 46 days due to losing parliamentary majority. A new coalition is expected to form soon, amid criticism from President over judicial attacks.
-
-🟩
-
-Parliamentarian Professor Xi said that the current president, elected by 134 votes in Parliament two years ago, has the support of 92 MPs and the government has lost a majority.. L. Peiris said on Sunday (04).
-
-Peiris said the current government's lifetime would end in 46 days, adding that the massive coalition would be formed on the 8th of this month.
-
-Professor G. at a press conference held in Colombo on Sunday (04). L. Peiris said so.
-
-He said the current government is carrying out a massive attack on the judiciary and that the current president is publicly criticizing the judges of the judiciary.
-
-◼️
-
-[Data](articles/e9f0d5f7.json)
-
-[Extended Data](ext_articles/e9f0d5f7.ext.json)
 
 ---

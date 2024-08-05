@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 20:07:02**
+As of **2024-08-05 20:21:04**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 6,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,127 (100.0%) of 39,128 articles have been extended.
+39,128 (100.0%) of 39,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### පොඩි හාමුදුරුවෝ නික්ම යති
+### The little monk goes out
 
 *2024-08-05 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199597) · `si`
 
-අපවත් වී වදාළ කොළඹ නව කෝරළයේ ප්‍රධාන සංඝනායක හුණුපිටිය ගංගාරාමාධිපති ආචාර්ය පූජ්‍ය ගලබොඩ ඤාණිස්සර හිමියන්ගේ දේහය පිළිබඳ ආදාහන පූජෝත්සවය රාජ්‍ය අනුග්‍රහය සහිතව අද (05) පස්වරුවේ සිදුකෙරුණි.
+The cremation of Mawan Gangarakaramaya Hunupitiya Renayakara Thero, a neutralist and social supporter, took place today. Known as Galaboda Galanisara Thero, he passed away at 81 while receiving treatment in Colombo. His remains were interred at the Gangaramaya of Hunupitiya last Saturday, attended by the Maha Sangha, religious leaders, ministers, MPs, and the Sri Lanka Cricket team led by Chief Coach Sanath Jayasuriya.
 
-මෙරට ශාසනික සහ සාමාජයීය උන්නතිය වෙනුවෙන් අනුපමේය මෙහෙවරක නියැලි යතීන්ද්‍රයන් වහන්සේ නමක් වූ හුණුපිටිය ගංගාරාමාධිපති ආචාර්ය පූජ්‍ය පූජ්‍ය ගලබොඩ ඤාණිස්සර හිමියන් කා අතරත් ප්‍රසිද්ධව සිටියේ ගංගාරාමේ පොඩි හාමුදුරුවන් ලෙසය.
+🟩
 
-උන්වහන්සේ කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අගෝස්තු දෙවැනිදා අපවත් වුණි.
+The cremation of the body of the remains of the remains of the Mawan Gangarakaramaya Hunupitiya Renayakara Thero (05) was held this afternoon.
 
-සිය ශාසනික චාරිකාව නිමාකරන විට පොඩි හාමුදුරුවන් 81 වැනි වියෙහි පසුවුණි.
+Hunupitiya Rangaramara Thero was known as the Galaboda Galanisara Thero, a nutralist and social support of the country.
 
-මහජනතාවට උන්වහන්සේට අවසන් බුහුමන් පුදකිරීම සඳහා දේහය හුණුපිටිය ගංගාරාමයේ තැන්පත් කෙරුණේ පසුගිය සෙනසුරාදාය.
+As he was receiving treatment at a private hospital in Colombo, we were second day.
 
-මහා සංඝරත්නය, ආගමික නියෝජිතයින්, මැති ඇමතිවරුන් ඇතුළු බොහෝ පිරිසක් පසුගිය දින දෙකේ මෙන්ම අද උදෑසන සිටත් දිවයිනේ නන්දෙසින් එහි පැමිණෙමින් ගංගාරාමයේ පොඩි හාමුදුුරුවන්ට අවසන් ගෞරව පුදකළේය.
+Little Suravan was 81, when he finished their chapter.
 
-ශ්‍රී ලංකා ක්‍රිකට් ප්‍රධාන පුහුණුකරු සනත් ජයසූරිය මහතා සහ ජාතික ක්‍රිකට් කණ්ඩායමද අද දහවල් පැමිණ දේහයට අවසන් ගෞරව දැක්වුවේය.
+The body was buried in the Gangaramaya of Hunupitiya last Saturday.
+
+The Maha Sangha, religious representatives, ministers and MPs and returned from the island's Nandesin from the country this morning.
+
+Sri Lanka Cricket Chief Coach Sanath Jayasuriya and the National Cricket Team came to the remains of the afternoon.
+
+Crematomy Perahera Hunupitiya Round. The cremation court arrived in front of Ramayaka Mawatha, Sir James Peries Mawatha, Jinaratana Mawatha.
+
+The grant of the creed voluition began with the participation of the Trincomalee General Assembly at about 4.30 pm.
 
 ...
 
 [Data](articles/a608bd7a.json)
+
+[Extended Data](ext_articles/a608bd7a.ext.json)
 
 ---
 

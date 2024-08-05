@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 10:55:14**
+As of **2024-08-05 11:07:39**
 
 ## Newspaper Stats
 
-*Scraped **39,031** Articles*
+*Scraped **39,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,250
 economynextcom | 2,352
 dailyftlk | 2,506
 adalk | 3,577
-adaderanalk | 4,523
+adaderanalk | 4,524
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,880
+tamilmirrorlk | 4,882
 virakesarilk | 6,178
 adaderanasinhalalk | 6,593
 
@@ -26,31 +26,89 @@ adaderanasinhalalk | 6,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,029 (100.0%) of 39,031 articles have been extended.
+39,031 (100.0%) of 39,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ඔලිම්පික් උලෙළේ මීටර 100 ඉසව්වේ රන් පදක්කම ඇමරිකාවට
+### குகதாசனுடன் மக்களை சந்தித்த ஜனாதிபதி
+
+*2024-08-05 10:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/குகதாசனுடன்-மக்களை-சந்தித்த-ஜனாதிபதி/75-341614) · `ta`
+
+திருகோணமலை மக்களுக்கும் ஜனாதிபதிக்கும் இடையில் சந்திப்பொன்று இடம் பெற்றது. குறித்த சந்திப்பு திருகோணமலை நகராட்சி மன்ற பிரதான மண்டபத்தில்  ஞாயிற்றுக்கிழமை மதியம் (04) இடம் பெற்றது.
+
+இதன் போது வரலாற்று சிறப்பு மிக்க திருக்கோணேஸ்வர ஆலய விவகாரம்,  மக்களுடைய காணிகள் விடுவிப்பு,  மக்கெய்சர் விளையாட்டு அரங்கு தொடர்பான பல பிரச்சினைகள் மற்றும் அபிவிருத்தித் திட்டங்கள் பற்றிய பல விடயங்கள் கலந்துரையாடப்பட்டுள்ளன.
+
+அத்துடன் இக் கலந்துரையாடலில் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்,  திருகோணமலை மாவட்ட தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சண்முகம் குகதாசன் மற்றும் அரசியல் பிரமுகர்கள் உட்பட 400 க்கும் மேற்பட்ட மக்கள் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/932bc94c.json)
+
+---
+
+### Ex-cricketer Hashan Thilakaratne and wife join SJB
+
+*2024-08-05 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100999/ex-cricketer-hashan-thilakaratne-and-wife-join-sjb) · `en`
+
+Former Sri Lankan cricketer Hashan Thilakaratne has joined the Samagi Jana Balawegaya (SJB) in order to support Opposition Leader Sajith Premadasa during the upcoming Presidential Election.
+
+Thilakaratne, who was once the Head Coach of Sri Lankan women’s cricket team, is the current Head Coach of the Bangladesh women’s team.
+
+Meanwhile, his wife Apsari Thilakaratne has also joined the SJB. She is the Convenor of Women’s Cricket in Sri Lanka.
+
+◼️
+
+[Data](articles/952b55fa.json)
+
+---
+
+### அரசாங்கத்துக்கு எதிராக நம்பிக்கையில்லா பிரேரணை?
+
+*2024-08-05 10:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்துக்கு-எதிராக-நம்பிக்கையில்லா-பிரேரணை/175-341612) · `ta`
+
+ஆளும் கட்சிக்கு எதிராக பாராளுமன்றத்தில் நம்பிக்கையில்லா பிரேரணையை கொண்டு வர எதிர்க்கட்சிகள் தயாராகி வருவதாக தகவல்கள் கசிந்துள்ளன.
+
+ஸ்ரீ  லங்கா பொதுஜன பெரமுனவிற்குள் ஏற்பட்ட பிளவு காரணமாக ஆளும் கட்சி பெரும்பான்மையை இழந்துள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக நூற்றுக்கும் மேற்பட்ட எம்.பி.க்கள் தற்போது,  உள்ளனர், இதற்கு முன்னர், கிட்டத்தட்ட நூற்றி இருபது எம்.பி.க்கள் அரசாங்கத்துக்கு ஆதரவளித்தனர்.
+
+எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுனவில் ஏற்பட்டுள்ள பிளவு காரணமாக, நாமல் ராஜபக்ச உள்ளிட்ட குழுவினருக்கு எதிரணியில் அமர்வதற்கான வாய்ப்பு அதிகமென தகவல்கள் தெரிவிக்கின்றன.
+
+இந்த நிலையில், ஆளும் கட்சியின் பெரும்பான்மை பலத்திற்கு சவால் விடுக்கப்பட்டுள்ள நிலையில்,  அமைச்சர்கள் பலரும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கருத்தோடு இருப்பதால், எதிர்க்கட்சியில் அமர்ந்தால், அமைச்சர் பொறுப்புகளில் இருந்து விட்டு விலக நேரிடும் என்றும் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/4e1daf92.json)
+
+---
+
+### Gold Medal to USA in 100 meters of Olympics
 
 *2024-08-05 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199576) · `si`
 
-ලොව වේගවත්ම මිනිසා බවට පත්වෙමින් මෙවර පැරිස් ඔලිම්පික් උලෙළේ මීටර 100 ඉසව්වේ රන් පදක්කම දිනාගැනීමට ඇමරිකාවේ නෝවා ලයිල්ස් සමත් විය.
+Noah Liles from the USA won the gold medal in the 100-meter dash at the Olympics, setting a record time of 9.79 seconds. Despite Jamaica's silver medalist Kishan Thompson being only 0.005 seconds behind, critics suggest he might have won if the race were shorter. The bronze went to American Fred Karley, achieving a personal best of 9.81 seconds.
 
-පිරිමි මීටර 100 ඉසව්වේ අවසන් තරගය මෙරට වේලාවෙන් ඊයේ (04) රාත්‍රියේදී පැවති අතර, එහිදී නෝවා ලයිල්ස් තරගය අවසන් කිරීම සඳහා තත්පර 9.79ක කාලයක් වාර්තා කළේය.
+🟩
 
-කෙසේ නමුත් මෙහි රිදී පදක්කම දිනාගත් ජැමෙයිකාවේ කිෂාන් තොම්සන්ද තත්පර 9.79 කාලයක් වාර්තා කළ අතර, ඔහු හා ලයිල්ස් අතර වෙනස දැක්වූයේ  තත්පර 0.005ක් ලෙසිනි.
+In the United States, Noah Liles won the gold medal in the 100 meters of the Olympics this year, becoming the fastest man in the world.
 
-ඒ අනුව තරගයෙන් අනතුරුව ක්‍රීඩා විචාරකයන් පවසා සිටියේ, තරගය මීටර් 99කින් අවසන් වූවානම්, කිෂාන් තොම්සන් රන් පදක්කමේ හිමිකරුවා වනු ඇති  බවයි.
+The last 100th Event event was held in Sri Lanka yesterday (04), where Noah was 9.79 seconds to end the match.
 
-මේ අතර මෙහි ලෝකඩ පදක්කම දිනාගනු ලැබුවේද අමෙරිකානු ක්‍රීඩකයෙකු වන ෆ්රෙඩ් කර්ලි විසින්ය.
+However, Jamaica, who won the silver and recorded the silver, was reported to 9.79 seconds, and was 0.005 seconds.
 
-ඔහුද සිය පෞද්ගලික හොඳම කාලය වාර්තා කරමින් තත්. 9.81ක දක්ෂතාවක් දැක්වීමට සමත් විය.
+Accordingly, Sports Critics said that if the match was up 99 meters, Kishan Thompson would be the owner of gold medal.
+
+Meanwhile, the bronze medal was also won by the American player Fred Karley.
+
+He is the second, reporting his personal best time. 9.81 was able to give a skill.
 
 ◼️
 
 [Data](articles/e55c9098.json)
+
+[Extended Data](ext_articles/e55c9098.ext.json)
 
 ---
 
@@ -314,23 +372,33 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### ප්‍රධාන ප්‍රශ්නය ජුනි මාසයේදී විසඳා ගත්තා
+### The main question was resolved in June
 
 *2024-08-05 08:51:16* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-ප්‍රශ්නය-ජුනි-මාසයේදී-විසඳා-ගත්තා/11-411195) · `si`
 
-ජනවාර්ගික ගැටළුවට ස්ථිර විසඳුමක් අවශ්‍ය බව තමන්ද පිළිගන්නා නමුත් මේ අවස්ථාවේ කළ යුතුව ඇත්තේ ජාති, ආගම් බේදයෙන් තොරව රට ගොඩනැගීමේ වැඩපිළිවෙළට ශ්‍රී ලාංකිකයන් ලෙස සියලුදෙනා එක්වීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In June, President Ranil Wickremesinghe addressed the ethnic issue, stating it had been permanently solved. He spoke at a Uthayan newspaper meeting in Jaffna, where he also engaged in a friendly discussion with journalists. The President highlighted resolving the country's financial crisis as a significant achievement. He emphasized unity among young people in the North and South, aiming to bolster provincial councils' strength.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ යාපනය උදයන් පුවත්පතේ කාර්යාලයේදී එහි කාර්ය මණ්ඩලය සමඟ හමුවකට එක් වෙමිනි. පළාතේ සෙසු මාධ්‍යවේදින් පිරිසක් ද මෙම අවස්ථාවට එක්ව සිටියහ.
+🟩
 
-යාපනයේ සංචාරයක නිරත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම සංචාරය අතරතුර දී මෙම හමුවට එක් විය.
+President Ranil Wickremesinghe said that the ethnic problem was awarded to a permanent solution to the ethnic problem, President Ranil Wickremesinghe said.
 
-එහිදී උදයන් පුවත්පතේ ප්‍රධාන විධායක නිළධාරි පාර්ලිමේන්තු මන්ත්‍රී ඊ. සරවනභවන්, ප්‍රධාන කර්තෘ තා. ප්‍රභාකරන් යන මහත්වරුන් ඇතුළු කාර්ය මණ්ඩලය ජනාධිපතිවරයාව ගෞරවයෙන් යුතුව පිළිගනු ලැබීය.
+The President was speaking at a meeting with the staff at Uthayan newspaper in Jaffna. A group of other journalists in the province were also present.
 
-අනතුරුව මාධ්‍යවේදින් සමඟ සුහද කථා බහකට එක්වූ ජනාධිපතිවරයා ඔවුන් මතු කළ ප්‍රශ්න කිහිපයකට ද සාධනීය පිළිතුරු ලබා දුන්නේය.
+President Ranil Wickremesinghe joined the visit to the visit.
+
+The Chief Executive Officer of Uthayan newspaper MP E. Solisan and Chief Author. The presidential election including Prabhakaran was honored with respect.
+
+The President then joined a friendly speech with journalists, the President also gave positive answers to several questions they raised.
+
+The President has said that the main problem of the country was able to resolve the country from bankruptcy in June, he said.
+
+The President said that the primary demands of the youth who met the visit to Jaffna over the past two days is not a difference in the expectations of young people in the North and South.
 
 ...
 
 [Data](articles/6ad8990a.json)
+
+[Extended Data](ext_articles/6ad8990a.ext.json)
 
 ---
 
@@ -2223,73 +2291,5 @@ The announcement was made at a function held at the Sugathadasa Indoor Stadium i
 [Data](articles/88f6778f.json)
 
 [Extended Data](ext_articles/88f6778f.ext.json)
-
----
-
-### The Presidential candidate announced
-
-*2024-08-04 17:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வ-ஜன-பலய-ஜனாதிபதி-வேட்பாளர்-அறிவிக்கப்பட்டார்/175-341568) · `ta`
-
-Dilith Jayaweera, leader of Mawpima Janata Party, is now the presidential candidate for the All Jana Balaya Political Alliance. This news was shared at the Sugathadasa Indoor Stadium in Colombo during the "Awakened Nation - Happy Nation" event. Key figures like MPs Wimal Weerawansa and Udaya Kammanpila, businessman Dilith Jayaweera himself, and MP Kevindu Kumaratunga were present.
-
-🟩
-
-Mawpima Janata Party leader Dilith Jayaweera has been appointed as the presidential candidate of the All Jana Balaya Political Alliance.
-
-The announcement was made at the ongoing event at the Sugathadasa Indoor Stadium in Colombo under the theme "Awakened Nation - Happy Nation".
-
-Member of Parliament Wimal Weerawansa, Member of Parliament Udaya Kammanpila, businessman Dilith Jayaweera and Parliamentarian Kevindu Kumaratunga and many key members of the 'Sarvajana Balaya' alliance participated in the event.. Remble
-
-◼️
-
-[Data](articles/50a87ea3.json)
-
-[Extended Data](ext_articles/50a87ea3.ext.json)
-
----
-
-### Police Chancellor affair;Speaker
-
-*2024-08-04 16:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-விவகாரம்-மறுப்பு-தெரிவித்தார்-சபாநாயகர்/175-341566) · `ta`
-
-Speaker Mahinda Yapa Abeywardena refuses to discuss the Police Chancellor affair with the Chief Justice, citing lack of legal basis. The Supreme Court issued an interim order against the police chief, prompting the President to suggest negotiations between the Chief Justice and the Speaker regarding the Inspector General of Police.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has said that he will not discuss the matter with the Chief Justice.
-
-The Speaker further stressed that there is no legal basis to discuss the matter with the Chief Justice, adding that he would not be involved in any discussion in such a situation.
-
-The Supreme Court recently issued an interim order to prevent the serving of the Tennakoon police chief.
-
-Following this, the President said that the issue of the Inspector General of Police should negotiate between the Chief Justice and the Speaker.
-
-Speaker Mahinda Yapa Abeywardena has said that he will not discuss the matter with the Chief Justice on the issue of the Inspector General of Police.. Remble
-
-◼️
-
-[Data](articles/978ec07a.json)
-
-[Extended Data](ext_articles/978ec07a.ext.json)
-
----
-
-### Dilith Jayaweera was the presidential candidate of the universal power
-
-*2024-08-04 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199557) · `si`
-
-Dilith Jayaweera, representing the Universal Power, faced criticism from Mr. Wimal Weerawansa, who claimed Dilith was mistakenly introduced as the Norgeon Power's candidate during a speech at the GCE High Commission in Colombo's Sugathadasa Indoor Stadium.
-
-🟩
-
-Mr. Wimal Weerawansa said that the presidential candidate of the Norgeon Power was presented as the presidential candidate of the presidential election.
-
-He was speaking at the GCE High Commission in the Sugathadasa Indoor Stadium in Colombo.
-
-◼️
-
-[Data](articles/eaf23e8b.json)
-
-[Extended Data](ext_articles/eaf23e8b.ext.json)
 
 ---

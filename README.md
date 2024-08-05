@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 01:36:20**
+As of **2024-08-06 01:54:57**
 
 ## Newspaper Stats
 
-*Scraped **39,176** Articles*
+*Scraped **39,179** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
-colombotelegraphcom | 373
+colombotelegraphcom | 375
 islandlk | 2,251
 economynextcom | 2,363
 dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,906
+tamilmirrorlk | 4,907
 virakesarilk | 6,201
 adaderanasinhalalk | 6,618
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,170 (100.0%) of 39,176 articles have been extended.
+39,176 (100.0%) of 39,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### இந்திய மீனவர்கள் 22 பேர் கைது
+
+*2024-08-06 01:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-22-பேர்-கைது/175-341659) · `ta`
+
+இலங்கைக் கடற்பரப்புக்குள் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 22 இந்திய மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இரண்டு படகுகளில் தமிழகம் - தூத்துக்குடியில் இருந்து வந்த மீனவர்களே கைது செய்யப்பட்டுள்ளனர்.
+
+மன்னார் தெற்கு கடல் பகுதியில் மீன்பிடித்துக் கொண்டிருந்தபோதே இந்த 22 பேரும் கைது செய்யப்பட்டதுடன்  இரண்டு படகுகளும் கடற்படையினரால் கையகப்படுத்தப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/283fab40.json)
+
+---
 
 ### SL’s pharmaceutical sector taps increasing potential to penetrate Vietnamese market
 
@@ -43,6 +59,8 @@ This was organised in order to raise the awareness as well as the potential of S
 ...
 
 [Data](articles/fb7d24a8.json)
+
+[Extended Data](ext_articles/fb7d24a8.ext.json)
 
 ---
 
@@ -64,6 +82,8 @@ Wickramaratne pointed out that this obstruction is hindering the realisation of 
 
 [Data](articles/2539c170.json)
 
+[Extended Data](ext_articles/2539c170.ext.json)
+
 ---
 
 ### Roshan Williams honoured for Master Printer Status
@@ -77,6 +97,8 @@ Williams’ wife, Deepa Samarasinghe, was also present. Their meeting was a prou
 ◼️
 
 [Data](articles/a6859803.json)
+
+[Extended Data](ext_articles/a6859803.ext.json)
 
 ---
 
@@ -94,6 +116,8 @@ The High Commissioner said that as a country rich with cultural heritage and gre
 
 [Data](articles/6f63382f.json)
 
+[Extended Data](ext_articles/6f63382f.ext.json)
+
 ---
 
 ### Nex-Gen Engineering Studio opens new corporate office
@@ -110,6 +134,8 @@ This is a significant milestone for the Nex-Gen Engineering team as they continu
 
 [Data](articles/7a2bab0f.json)
 
+[Extended Data](ext_articles/7a2bab0f.ext.json)
+
 ---
 
 ### Unidil stands tall with 10 Gold Awards at National Convention on Quality and Productivity Awards 2024
@@ -125,6 +151,8 @@ Organised by the Sri Lanka Association for the Advancement of Quality and Produc
 ...
 
 [Data](articles/827d3fe5.json)
+
+[Extended Data](ext_articles/827d3fe5.ext.json)
 
 ---
 
@@ -736,6 +764,18 @@ In the premises prepared at the premises of the premises, the Generagala which w
 
 ---
 
+### Expats Right To Vote
+
+*2024-08-05 20:05:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/expats-right-to-vote/) · `en`
+
+Gazette for Presidential Elections 2024 has been published and the political actors are busy in preparations for nominations, negotiations, making strategies for winning the election and campaigning. Businesses are looking for supporting their most favorable candidate. Political analysts are busy in listing their wish lists and few predicting who might win or lose. Journalist are having field days, getting busy promoting their perspectives of the prospective candidate(s). The public are getting ready for the mega entertainment without properly understanding impact/implications their vote may lead to the future of this nation. These are all necessities for reminding us that Sri Lanka is a democratic nation.
+
+...
+
+[Data](articles/531f247c.json)
+
+---
+
 ### Most of the Sri Lanka Freedom Party (SLFP) supports President Ranil Wickremesinghe - Lasantha Alagavanna
 
 *2024-08-05 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190367) · `ta`
@@ -757,6 +797,20 @@ Transport Minister Lasantha Alagiyavanna said this while addressing a press conf
 [Data](articles/75656697.json)
 
 [Extended Data](ext_articles/75656697.ext.json)
+
+---
+
+### Sri Lanka’s Quest For A Man For All Season
+
+*2024-08-05 19:42:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-quest-for-a-man-for-all-season/) · `en`
+
+Sri Lanka people will be voting to elect their next President on September 21. The Election Commission’s announcement on the election sets to rest all the speculation about political moves to postpone it.
+
+The month ended with six presidential aspirants in the fray. According to the Election Commission of Sri Lanka (ECS) six candidates who deposited the money required to contest the presidential election included two independents and four representing political parties or formations. President Ranil Wickremesinghe and former MP Sarath Keerthirathne are contesting as independents. The four candidates representing political parties/groupings – opposition leader Sajith Premadasa (Samagi Jana Balawegaya -SJB), social activist Oshala Herath (New Independent Front), ASP Liyanage (Sri Lanka Labour Party) and PWSK Bandaranayake (Jathika Sanwardhana Peramuna).
+
+...
+
+[Data](articles/b6dfc02c.json)
 
 ---
 
@@ -2211,69 +2265,5 @@ A decorated military officer, Fonseka was the eighteenth Commander of the Sri La
 [Data](articles/51ee96b2.json)
 
 [Extended Data](ext_articles/51ee96b2.ext.json)
-
----
-
-### The number of voters has been released
-
-*2024-08-05 14:05:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்களின்-எண்ணிக்கை-வெளியானது/175-341623) · `ta`
-
-The 2024 Elections Commission announced the voter count for each electoral district on Monday, revealing the total number of registered voters.
-
-🟩
-
-According to the 2024 Elections Commission on Monday (05), the number of registered chariots (voters) of each electoral district was released.
-
-◼️
-
-[Data](articles/ebdf9b8c.json)
-
-[Extended Data](ext_articles/ebdf9b8c.ext.json)
-
----
-
-### Ex-JVP MP places deposit for Presidential Election
-
-*2024-08-05 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101007/ex-jvp-mp-places-deposit-for-presidential-election) · `en`
-
-Former Janatha Vimukthi Peramuna (JVP) Parliamentarian Siripala Amarasinghe has placed bonds today (05) to contest in the forthcoming Presidential Election as an independent candidate.
-
-Amarasinghe is a former Member of Parliament from Gampaha District representing the JVP.
-
-Accordingly, 15 candidates in total have placed their deposits with the Election Commission to contest for the presidency thus far.
-
-This includes six independent candidates whose names have been nominated by a voter, eight candidates from recognized political parties and one candidate from other political parties.
-
-◼️
-
-[Data](articles/5d5e9e5b.json)
-
-[Extended Data](ext_articles/5d5e9e5b.ext.json)
-
----
-
-### Nine of the 13 MPs Gampaha buds to Ranil
-
-*2024-08-05 14:00:52* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-පොහොට්ටු-මන්ත්‍රීවරුන්-13-දෙනාගෙන්-9-ක්ම-ජනපති-රනිල්ට/11-411205) · `si`
-
-Nine out of 13 MPs from the Gampaha district have pledged support for President Ranil Wickremesinghe ahead of the upcoming presidential election. This includes notable figures like Nalaka Godahewa, who recently joined the reconciliation effort, and Minister Nalin Fernando, who has switched allegiance from the Sri Lanka General Front to backing the President. Additionally, several local council representatives and former provincial councilors have expressed their support, indicating a broad base of backing for Wickremesinghe in the region.
-
-🟩
-
-PSC and local councils representing the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment of the Gampaha District are committed to the victory of President Ranil Wickremesinghe in the next presidential election.
-
-The group made this pledge from the District Board of Udugampola, the Udugampola, Office of the Government Prasanampola, Prasanmatunga, Minister Prasanampola and office yesterday (4).
-
-13 MPs elected to Parliament be elected at the Sri Lanka General Election last general election. Nine MPs have already said that they were committed to the President's victory.
-
-Nalaka Godahewa, who was in the Gampaha District representing the Ceylon General Front, joined the reconciliation a few months ago.
-
-Also, the decision of the Prasanna Ranaweera and Indika Anuruddha party, the stand of Mrs. Sudarshani Fernandopulle is still not clear. But her close friends say that she is ready to support the president.
-
-...
-
-[Data](articles/17423eac.json)
-
-[Extended Data](ext_articles/17423eac.ext.json)
 
 ---

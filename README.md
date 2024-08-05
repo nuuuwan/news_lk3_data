@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 14:36:09**
+As of **2024-08-05 14:55:13**
 
 ## Newspaper Stats
 
-*Scraped **39,070** Articles*
+*Scraped **39,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,251
 economynextcom | 2,354
 dailyftlk | 2,506
-adalk | 3,582
+adalk | 3,584
 adaderanalk | 4,533
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,890
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,068 (100.0%) of 39,070 articles have been extended.
+39,070 (100.0%) of 39,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### முன்னாள் எம்.பியும் போட்டி
+### Former MP also competition
 
 *2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பியும்-போட்டி/175-341624) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர்  சிறிபால அமரசிங்க கட்டுப்பணத்தை திங்கள்கிழமை  (5) காலை வைப்பிலிட்டுள்ளார்.
+Siripala Amarasinghe, a former Gampaha District MP from the People's Liberation Front, became the 6th independent candidate and the 15th individual to submit nomination papers for the upcoming presidential election.
 
-இவர், மக்கள் விடுதலை முன்னணியின் கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஆவார்.
+🟩
 
-இம்முறை ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை பணத்தை வைப்பிலிட்ட 15ஆவது நபரான  அமரசிங்க,  ஆறாவது சுயேச்சை வேட்பாளரும் ஆவார்.
+Former Gampala district parliamentarian Siripala Amarasinghe has placed control of the upcoming presidential election on Monday morning.
+
+He is a former Member of Parliament of the Gampaha District of the People's Liberation Front.
+
+Amarasinghe, the 15th person who deposited the control of the presidential election, is the sixth independent candidate.
 
 ◼️
 
 [Data](articles/50681f75.json)
+
+[Extended Data](ext_articles/50681f75.ext.json)
 
 ---
 
@@ -62,15 +68,21 @@ Bonds have been placed on behalf of Field Marshal Sarath Fonseka today (05), to 
 
 ---
 
-### வாக்காளர்களின் எண்ணிக்கை வெளியானது
+### The number of voters has been released
 
 *2024-08-05 14:05:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்களின்-எண்ணிக்கை-வெளியானது/175-341623) · `ta`
 
-2024 தேருநர் இடாப்பின்படி ஒவ்வொரு தேர்தல் மாவட்டத்தினதும் பதிவுசெய்யப்பட்ட தேருநர்களின் (வாக்காளர்களின்) எண்ணிக்கையை தேர்தல்கள் ஆணைக்குழு திங்கட்கிழமை (05) வெளியிட்டுள்ளது.
+The 2024 Elections Commission announced the voter count for each electoral district on Monday, revealing the total number of registered voters.
+
+🟩
+
+According to the 2024 Elections Commission on Monday (05), the number of registered chariots (voters) of each electoral district was released.
 
 ◼️
 
 [Data](articles/ebdf9b8c.json)
+
+[Extended Data](ext_articles/ebdf9b8c.ext.json)
 
 ---
 
@@ -91,6 +103,24 @@ This includes six independent candidates whose names have been nominated by a vo
 [Data](articles/5d5e9e5b.json)
 
 [Extended Data](ext_articles/5d5e9e5b.ext.json)
+
+---
+
+### ගම්පහ පොහොට්ටු මන්ත්‍රීවරුන් 13 දෙනාගෙන් 9 ක්ම ජනපති රනිල්ට
+
+*2024-08-05 14:00:52* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-පොහොට්ටු-මන්ත්‍රීවරුන්-13-දෙනාගෙන්-9-ක්ම-ජනපති-රනිල්ට/11-411205) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට කැප වන බවට ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු,පළාත් සභා හා පළාත් පාලන මන්ත්‍රීවරුන්  ප්‍රතිඥා දෙති.
+
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උඩුගම්පොළ, කාර්යාලයේ ඊයේ (4) පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිස්ත්‍රික් බල මණ්ඩල රැස්වීමේදි මෙම පිරිස මෙම ප්‍රතිඥාව ලබා දුන්හ.
+
+ඉකුත් මහා මැතිවරණයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පාර්ලිමේන්තුවට තේරීපත්වූ මන්ත්‍රීවරුන් 13 දෙනෙකු තේරී පත්විය. ඉන් මන්ත්‍රීවරුන් 09 දෙනෙකු ජනාධිපතිවරයාගේ ජයග්‍රහණය වෙනුවෙන් කැප වන බවට දැනටමත් ප්‍රකාශ කර තිබේ.
+
+රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරමින් ගම්පහ දිස්ත්‍රික්කයෙන්  පාර්ලිමේන්තුවට පත්වූ නාලක ගොඩහේවා මහතා මීට මාස කීපයකට ඉහත දී සමඟි ජනබලවේඟයට එක්විය.
+
+...
+
+[Data](articles/17423eac.json)
 
 ---
 
@@ -367,6 +397,20 @@ The arrested suspects are workers between the ages of 22 and 29 living in Ratmal
 [Data](articles/7ee17699.json)
 
 [Extended Data](ext_articles/7ee17699.ext.json)
+
+---
+
+### මැතිවරණ කොමිෂමෙන් විශේෂ නිවේදනයක්
+
+*2024-08-05 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිෂමෙන්-විශේෂ-නිවේදනයක්/11-411203) · `si`
+
+ජනාධිපතිවරණයේ දී ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්ද හිමියන්ට දිවයිනේ ඕනෑම ඡන්ද පොළකින් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ඇතැයි යනුවෙන් මැතිවරණ කොමිෂන් සභාවේ කිසිඳු නිල තීරණයක් නොවන සම්පුර්ණ අසත්‍ය කරුණු ඇතුළත් සාවද්‍ය ප්‍රවෘත්තියක් මාධ්‍ය හා සමාජ මාධ්‍ය තුළ සංසරණය වන බවට මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කර තිබේ.
+
+එවැනි කිසිඳු තීරණයක් ගෙන නොමැති බවත් ඡන්ද හිමියන්ට ඡන්දය ප්‍රකාශ කළ හැක්කේ තමන් ලියාපදිංචි ජන්ද මධ්‍යස්ථානයෙන් පමණක් බවත් මැතිවරණය කොමිෂන් සභාව වැඩිදුරටත් නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/940fb22d.json)
 
 ---
 
@@ -2247,57 +2291,5 @@ Accordingly, all orders issued by the IGP in the election duration and the arran
 [Data](articles/de47c825.json)
 
 [Extended Data](ext_articles/de47c825.ext.json)
-
----
-
-### Demonstrations against government in Bangladesh - violence - more than 50 killed
-
-*2024-08-04 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190277) · `ta`
-
-Clashes in Bangladesh between anti-government protesters and police resulted in over 60 deaths. The unrest began as student-led demonstrations against the government's handling of job allocations, escalating into widespread protests. Police responded with tear gas and imposed a nighttime curfew. Violence also occurred between government supporters and anti-state groups, with thousands setting fire to vehicles near a hospital.
-
-🟩
-
-In Bangladesh, 60 people have been killed in clashes between anti -government supporters and police today.
-
-The violence has taken place as students have launched a non -cooperation struggle against Prime Minister Sheikh Hasina's government.
-
-Demonstrations on employment allocation have now become widespread protests against the government.
-
-Police have used tear gas to dissolve the demonstrators and have announced nighttime curfew.
-
-There are clashes between government supporters and anti -state demonstrators in some areas.
-
-Thousands of demonstrators have set fire to vehicles outside the hospital, a police officer told AVP.
-
-◼️
-
-[Data](articles/53d57ba5.json)
-
-[Extended Data](ext_articles/53d57ba5.ext.json)
-
----
-
-### Bangladesh declares three-day general holiday amid ongoing unrest
-
-*2024-08-04 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100994/bangladesh-declares-three-day-general-holiday-amid-ongoing-unrest) · `en`
-
-The government has declared a three-day general holiday starting Monday as unrest continues to rock Bangladesh.
-
-The general holiday comes amid the imposition of an indefinite curfew.
-
-The holiday will last from Monday to Wednesday, and the authorities will make further decisions based on the evolving situation, Shibli Sadiq, a spokesperson for the Ministry of Public Administration, said on Sunday.
-
-The first day of the nationwide non-cooperation movement, called by the Anti-Discrimination Student Movement demanding the government’s resignation, has triggered deadly violence in various parts of the country.
-
-In light of the clashes and fatalities, the government announced a curfew from 6pm on Sunday.
-
-“A night curfew has been enforced in all divisional city areas, city corporations, municipalities, industrial areas, district Sadar areas, and Upazila Sadar areas from 6pm on Sunday,” Md Sharif Mahmud Apu, senior information officer at the Ministry of Home Affairs, said in a statement on Sunday.
-
-◼️
-
-[Data](articles/5a125349.json)
-
-[Extended Data](ext_articles/5a125349.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 15:20:43**
+As of **2024-08-05 15:36:15**
 
 ## Newspaper Stats
 
-*Scraped **39,083** Articles*
+*Scraped **39,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,251
 economynextcom | 2,357
 dailyftlk | 2,506
 adalk | 3,585
-adaderanalk | 4,534
+adaderanalk | 4,535
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,890
+tamilmirrorlk | 4,892
 virakesarilk | 6,183
 adaderanasinhalalk | 6,604
 
@@ -26,27 +26,83 @@ adaderanasinhalalk | 6,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,081 (100.0%) of 39,083 articles have been extended.
+39,083 (100.0%) of 39,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### බංග්ලාදේශ අරගලය - අගමැතිනිය අගනුවරින් යයි
+### ஷேக் ஹசீனா  இராஜினாமா
+
+*2024-08-05 15:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-இராஜினாமா/50-341630) · `ta`
+
+பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துள்ளார்.  பதவியை இராஜினாமா செய்துவிட்டு நாட்டிலிருந்து வெளியேறியுள்ளார்.
+
+மாணவர்கள் ஆயிரக்கணக்கில் தலைநகர் டாக்காவை நோக்கி  பேரணியாக சென்றுகொண்டுள்ள நிலையில் இந்த தகவல்  வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/0463e49a.json)
+
+---
+
+### Bangladeshi PM Hasina resigns and flees country
+
+*2024-08-05 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101010/bangladeshi-pm-hasina-resigns-and-flees-country) · `en`
+
+Sheikh Hasina has flown to India on a military helicopter amid widespread protests which have seen the deaths of almost 300 people over the past month.
+
+Bangladesh’s prime minister has resigned and fled to India, the army has said, following weeks of deadly protests in the country.
+
+Sheikh Hasina and her sister have taken a military helicopter to India, according to the country’s leading national paper.
+
+They are taking “safe shelter” away from her official residence, the news agency Reuters reports.
+
+At least 95 people, including at least 14 police officers, died in clashes in the capital on Sunday, according to local news, while hundreds more were injured.
+
+At least six people were reportedly killed in clashes between police and protesters in the Jatrabari and Dhaka Medical College areas on Monday.
+
+...
+
+[Data](articles/e4abb104.json)
+
+---
+
+### கட்டுப்பணம் செலுத்தினார் பொன்சேகா
+
+*2024-08-05 15:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-பொன்சேகா/175-341628) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா, ஜனாதிபதி தேர்தலில் சுயாதீன வேட்பாளராக போட்டியிட கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+இராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் ஆணைக்குழுவில் அவரது சார்பாக திங்கட்கிழமை (05) கட்டுப்பணம் செலுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5e32af54.json)
+
+---
+
+### Bangladesh struggle - Prime Minister goes to capital
 
 *2024-08-05 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199587) · `si`
 
-බංග්ලාදේශ අගමැතිනී ෂෙයික් හසීනා එරට අගනුවර වන ඩකා නුවරින් ඉවත්වී ඇති බවට වාර්තා පළවන බව බී බී සී පුවත් සේවය වාර්තා කළේය.
+Sheikh Hasina, Bangladesh's PM, has fled Dhaka amid escalating protests demanding her resignation. Over 100 deaths occurred in clashes, with protester forces occupying her official residence.
 
-මේ වනවිට බංග්ලාදේශයේ විරෝධතා උත්සන්න වී ඇති අතර විරෝධතාකරුවන් ඉල්ලා සිටින්නේ අගමැතිනිය එම තනතුරින් ඉල්ලා අස්විය යුතු බවයි.
+🟩
 
-පසුගිය දින කිහිපය පුරා එරට පැවති කලබලකාරී තත්ත්වයේදී 100කට අධික පිරිසක් ජීවිතක්ෂයට පත්ව තිබේ.
+The BBC reported that Sheikh Hasina had left the Prime Minister of Bangladesh, Dhaka, the capital of the country.
 
-මේ අතර විරෝධතාකරුවන් අගමැතිනියගේ නිල නිවසට ඇතුළුවී ඇති බවත් වාර්තා වෙයි.
+Protests in Bangladesh have escalated and the protesters demands that the Prime Minister should resign from the post.
+
+Over 100 people have died in the launches over the past few days.
+
+Meanwhile, troops of the protesters have entered the Prime Minister's official residence.
 
 ◼️
 
 [Data](articles/0dea6a97.json)
+
+[Extended Data](ext_articles/0dea6a97.ext.json)
 
 ---
 
@@ -64,11 +120,17 @@ This comes as Bangladesh’s army chief Waker-Uz-Zaman is set to address the nat
 
 [Data](articles/896b1843.json)
 
+[Extended Data](ext_articles/896b1843.ext.json)
+
 ---
 
 ### The man who went with his friends to celebrate the joy of drowning in the water!
 
 *2024-08-05 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190300) · `ta`
+
+A group of eight students from Kahawatta, celebrating their success in exams to study in Korea, drowned one of their members during a celebration at Samanalawewa. Three were first-time visitors to the site. The incident occurred around 2 pm on Sunday, with attempts to rescue the drowning victim unsuccessful until two others helped, leading to his hospitalization.
+
+🟩
 
 A young man who was near Samanalaweva Vavi to celebrate his happiness has drowned.
 
@@ -184,7 +246,15 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 
 Bonds have been placed on behalf of Field Marshal Sarath Fonseka today (05), to contest in the 2024 Presidential Election as an independent candidate.
 
-◼️
+Dhammika Ratnayake has paced the cash deposit on behalf of Fonseka.
+
+On July 25, Fonseka officially announced his presidential candidacy stating that, “A lot of people have asked me to contest for the presidential election and I am looking forward to accepting the call of the people of Sri Lanka.”
+
+The former Army Commander, who contested the 2010 presidential election as the common opposition candidate, invited every Sri Lankan to join him “to take Sri Lanka forward.”
+
+A decorated military officer, Fonseka was the eighteenth Commander of the Sri Lankan Army, and under his command the Sri Lankan Army ended the 26-year war against the LTTE in 2009. He thereafter briefly served as the Chief of Defence Staff.
+
+...
 
 [Data](articles/51ee96b2.json)
 
@@ -2189,63 +2259,5 @@ However, 3 players who will participate in the second chance have recorded bette
 [Data](articles/6ca44f65.json)
 
 [Extended Data](ext_articles/6ca44f65.ext.json)
-
----
-
-### Human Capital Summit 2024: Building future-ready public institutions
-
-*2024-08-05 00:19:05* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Capital-Summit-2024-Building-future-ready-public-institutions/14-765128) · `en`
-
-The public sector, with its 2 million employees for a population of 22 million, is unsustainable. We aim to reduce the workforce to 1 million by 2030
-
-– Secretary to Prime Minister of Sri Lanka Anura Dissanayake –
-
-The introduction of the National Technology Framework and the implementation of a regulatory sandbox allows new innovative products to be submitted and assessed for feasibility while ensuring public interest and safeguarding public money
-
-- Central Bank of Sri Lanka Governor Dr. Nandalal Weerasinghe -
-
-These transformations are essential to developing future-ready human resources for Sri Lanka
-
-Despite the challenges we face, the progress we’ve made is a significant achievement for Sri Lanka’s higher education sector
-
-- University Grants Commission of Sri Lanka Chairman Prof. Sampath Amaratunge -
-
-...
-
-[Data](articles/f054b417.json)
-
-[Extended Data](ext_articles/f054b417.ext.json)
-
----
-
-### Memories of mentoring: Celebrating two special lives
-
-*2024-08-05 00:05:51* · [`dailyftlk`](https://www.ft.lk/columns/Memories-of-mentoring-Celebrating-two-special-lives/4-765125) · `en`
-
-Time has flown so rapidly. It has been nine years since the demise of my “revered mentor.” It has been eight years since the demise of by “reverse mentor.” Prof. Uditha Liyanage, a sage of our age, in touching many minds as a marketing maestro, left us on 10 August 2015 at the age of 61. Nadeepa Dharmasiri, a precious prodigy, in touching many hearts as a loving son, left us on 8 August 2016, at the age of 13. As Seneka (the younger) said, “Time discovers truth; time heals what reason cannot.” Today’s column is a heart-felt reflection of the mentoring insights involving a superior and a son, in celebrating two special lives.
-
-...
-
-[Data](articles/247a3c2c.json)
-
-[Extended Data](ext_articles/247a3c2c.ext.json)
-
----
-
-### 2024-08-04 (Sunday)
-
-### Child’s guide to debt and debt restructuring – Part V
-
-*2024-08-04 23:54:31* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-V/4-765123) · `en`
-
-The Debt Justice group has sprung up to meet an unmet need of the day
-
-Since debt is a complex subject not understood by ordinary citizens, people do not know what they gain when their governments borrow abroad and what sacrifice they should make if those governments default debt. They become voiceless being unable to say yes or no. Hence, Debt Justice seeks to represent those voiceless people in matters relating to debt issues. They seek to build a collective power of the people most affected by debt in what they call exploited countries. Those people are exploited by their own rulers who exercise authoritative powers and by global players who are there to flood them with debt under unfair conditions. In that sense, they produce a global public good and their cry should not be dismissed outrightly
-
-...
-
-[Data](articles/f400e237.json)
-
-[Extended Data](ext_articles/f400e237.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 11:36:17**
+As of **2024-08-05 11:56:12**
 
 ## Newspaper Stats
 
-*Scraped **39,037** Articles*
+*Scraped **39,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,80 @@ newsfirstlk | 363
 colombotelegraphcom | 370
 bbccomsinhala | 370
 islandlk | 2,250
-economynextcom | 2,352
+economynextcom | 2,354
 dailyftlk | 2,506
-adalk | 3,577
+adalk | 3,578
 adaderanalk | 4,526
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,882
+tamilmirrorlk | 4,883
 virakesarilk | 6,178
-adaderanasinhalalk | 6,594
+adaderanasinhalalk | 6,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,035 (100.0%) of 39,037 articles have been extended.
+39,037 (100.0%) of 39,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ආණ්ඩුවේ ස්ථාවරත්වය ගැන ඇමති ප්‍රසන්නගෙන් ප්‍රකාශයක්
+
+*2024-08-05 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199579) · `si`
+
+ආණ්ඩුවට සරල බහුතරය තිබෙන බැවින් ඉදිරි මාස දෙක, තුන කාලය තුළ රජය පවත්වාගෙන යාම ගැටලුවක් නොවන බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නේ පක්ෂය නිවැරදි තීන්දු නොගතහොත් ශ්‍රී ලංකා පොදුජන පෙරමුණට දෙතුන් දෙනෙකු පමණක් ඉතිරි විය හැකි බවයි.
+
+දිවුලපිටිය ආසනයේ ඊයේ (4) පැවති උත්සවයකින් පසුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c111af32.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් දැඩි ආරක්ෂාවක් මැද අධිකරණයට
+
+*2024-08-05 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199578) · `si`
+
+ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකාරිය ඇතුළු සැකකරුවන් දස දෙනා අද (05) යළි කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආවේය.
+
+ඉකුත් නඩු දිනයේදී මහෙස්ත්‍රාත් චානිමා විජේබණ්ඩාර මහත්මියගේ නියෝගය පරිදි අද දිනයේදී අදාළ නඩුව සම්බන්ධයෙන් බස්නාහිර දකුණ අපරාධ කොට්ඨාසයේ ස්ථානාධිපතිවරයා, නීතිපති දෙපාර්තමේන්තුව සහ ඝාතනයට ලක් වූ සු⁣රේන්ද්‍ර වසන්ත පෙරේරා ගේ පුතු සහ ඔහුගේ දේහය භාරගත් තැනැත්තා නීති කෘත්‍යය සඳහා අධිකරණයෙහි පෙනී සිටීමට නියමිත වේ.
+
+මේ අතර, ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා තිබුණි.
+
+පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත සහ තවත් අයෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
+
+මෙම අපරාධය සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු විමර්ශන නිලධාරීන් විසින් හඳුනාගෙන ඇති අතර සැකකරුවන්ගේ ඡායාරූප 03 පොලීසිය විසින් මාධ්‍ය වෙත නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/fde780af.json)
+
+---
+
+### “தாயின் அறிவுரையை கேட்டேன்:ரோஹித
+
+*2024-08-05 11:25:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாயின்-அறிவுரையை-கேட்டேன்-ரோஹித/175-341615) · `ta`
+
+தனது தாய் கூறியதன் காரணமாகவே எதிர்வரும் ஜனாதிபதி தேர்தலில், ரணில் விக்கிரமசிங்கவை ஆதரிக்க முடிவெடுத்தாக மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஜனாதிபதி தேர்தலில் ஆதரிப்பதில்லை என தீர்மானம் எடுக்கப்பட்ட கூட்டத்தில் பங்கேற்றிருந்த  பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன ஜனாதிபதி ரணிலை ஆதரிப்பதாக  அறிவித்திருந்தார்.
+
+தனது இந்த முடிவுக்கான காரணத்தையும் அவர் வெளிப்படுத்தியுள்ளார். களுத்துறையில் இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு பேசிய அவர் இதனை குறிப்பிட்டுள்ளார்.
+
+“என் அம்மாவுக்கு 87 வயது. மகனே, மிஸ்டர் மஹிந்தவை விட்டுவிட்டு வீட்டுக்கு வராதே என்று 2015ஆம் ஆண்டு அவர் சொல்லியிருந்தார்.
+
+ஆனால் இந்த முறை, மகனே, போய் ரணிலை ஜனாதிபதியாக வெற்றிபெற செய்வதற்கான வேலையைச் செய்யுமாறு கூறினார். அதனால்தான் இந்த முடிவை எடுத்தேன் என்றார்.
+
+◼️
+
+[Data](articles/5a60d31c.json)
+
+---
 
 ### Accepting postal voting applications ends tonight
 
@@ -50,6 +106,8 @@ The applications received after the deadline will be rejected without considerat
 
 [Data](articles/155ab3de.json)
 
+[Extended Data](ext_articles/155ab3de.ext.json)
+
 ---
 
 ### Kandy Esala Perahera commences
@@ -65,6 +123,8 @@ The first Kumbal Perahera is slated to take to streets on August 10, following t
 ◼️
 
 [Data](articles/e20a2a30.json)
+
+[Extended Data](ext_articles/e20a2a30.ext.json)
 
 ---
 
@@ -354,6 +414,50 @@ Also, as the suspects are to be produced before the Tissamaharama Magistrate's C
 
 ---
 
+### Sri Lanka rupee opens stronger at 301.90/302.10 to US dollar
+
+*2024-08-05 09:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-301-90-302-10-to-us-dollar-175215/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.90/302.10 to the US dollar on Monday, dealers said. Bond yields were up, they said, and stocks opened up 0.09 percent.
+
+In the secondary market, treasury bond yields were marginally up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.65/75 percent, up from 10.45/60 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, up from 12.00/10 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.20/40 percent, up from 12.20/35 percent.
+
+In equities, Colombo’s All Share Price Index opened 10.67 points higher at 11,453, while the S&P SL20 of more liquid stocks opened up at 0.36 percent or 11.80 points to 3,301.
+
+◼️
+
+[Data](articles/58ee72ba.json)
+
+---
+
+### Sri Lanka online tourist visa re-starting decision soon
+
+*2024-08-05 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-tourist-visa-re-starting-decision-soon-175217/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Immigration will soon take a decision on providing e-visas after the service provided by IVS-GBS and VFS Global, a private consortium was suspended by court, media reports said.
+
+Sri Lanka’s Aruna newspaper quoted Controller General of Immigration Harsha Illukpitiya as saying that the court order was officially expected to reach him on Monday and a decision will be taken after that.
+
+State-run Dinamina newspaper said the Ministry of Public Security will take a decision on the matter on August 06.
+
+The old website was suspended Friday after Supreme Court decision.
+
+Sri Lanka’s Supreme Court suspended a cabinet decision awarding the online visa contract to the private consortium and asked that the previous status be restored pending the conclusion of several public interest petitions.
+
+The controversial deal was awarded without public tender and led to higher fees being charged for visas on top of government fees.
+
+...
+
+[Data](articles/95755077.json)
+
+---
+
 ### Elephant crowd that saved the family
 
 *2024-08-05 09:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முண்டகை-நிலச்சரிவு-குடும்பத்தை-காப்பாற்றிய-யானை-கூட்டம்/175-341605) · `ta`
@@ -401,6 +505,20 @@ Also in the video, “There was no terrible event on the plane. Nobody is uncons
 [Data](articles/8dfe8f76.json)
 
 [Extended Data](ext_articles/8dfe8f76.ext.json)
+
+---
+
+### පොඩි හාමුදුරුවන්ගේ ආදාහන පූජෝත්සවයට විශේෂ රථ වාහන සැලැස්මක්
+
+*2024-08-05 09:06:19* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-හාමුදුරුවන්ගේ-ආදාහන-පූජෝත්සවයට-විශේෂ-රථ-වාහන-සැලැස්මක්/11-411196) · `si`
+
+අතිපූජ්‍ය ගලබොඩ ඥාණිස්සර නාහිමිපාණන්ගේ අවමංගල පූජෝත්සවය වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය දන්වයි.
+
+මෙම ආදාහන පූජෝත්සවය සඳහා විශාල ජනකායක් සහභාගී වනු ඇතැයි අපේක්ෂා කරන හෙයින් ආදාහන පූජෝත්සවය පැවැත්වෙන අද (05) දිනයේ පස්වරු 2.00 සිට රාත්‍රී 8.00 දක්වා කාලය තුළ විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කෙරෙන බව ශ්‍රී ලංකා පොලීසිය මහජනතාව වෙත නිවේදනය කර සිටී.
+
+◼️
+
+[Data](articles/7c9fc6c2.json)
 
 ---
 
@@ -2177,133 +2295,5 @@ Jaiyyagan left the leader's decision, shook hands with him and exemplary.
 [Data](articles/7d67ebaf.json)
 
 [Extended Data](ext_articles/7d67ebaf.ext.json)
-
----
-
-### Deputy Treasurer Exodus
-
-*2024-08-04 17:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-உயர்பீடத்தில்-இருந்து-பிரதிப்-பொருளாளர்-வெளியேற்றம்/175-341570) · `ta`
-
-In a high-level meeting of the Sri Lanka Muslim Congress, leader Rauf Hakeem announced his expulsion over Facebook picture allegations, deciding not to attend upcoming meetings.
-
-🟩
-
-The Sri Lanka Muslim Congress's high -level meeting was held on Sunday (4) in Darussalat, the party headquarters.
-
-Party leader Rauf Hakeem has announced that he will be expelled from the crowd due to allegations of uploading the pictures on the Facebook page.
-
-Party leader Hakeem said he would not participate in the two sessions of the high -level meeting and the next high -level meeting of Yahihan as an immediate move.
-
-The leader said that the party was praised for the role of Yahoo!
-
-Jaiyyagan left the leader's decision, shook hands with him and exemplary.
-
-◼️
-
-[Data](articles/cae1a9d4.json)
-
-[Extended Data](ext_articles/cae1a9d4.ext.json)
-
----
-
-### Corruption will freeze progress in developing countries
-
-*2024-08-04 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190256) · `ta`
-
-Corruption hinders development in poorer nations, but it's conquerable through comprehensive strategies. A thriving economy isn't built on corruption; instead, it requires advanced services and equitable communities. Fighting corruption unlocks a nation's true potential, ensuring a brighter future for all citizens, particularly the vulnerable.
-
-🟩
-
-Corruption is a strong enemy but it is not invincible. By making a complete approach, developing countries may be free from its bundles. A prosperous economy is a corrupt future. Advanced Service Supply and Ensure a Most Equivalent Community that has a reasonable view of prosperity. Eradication of corruption is not just dick in the box. This is to open the real potential of a nation and ensure the bright future for all its citizens, especially for the most vulnerable.
-
-◼️
-
-[Data](articles/9499907b.json)
-
-[Extended Data](ext_articles/9499907b.ext.json)
-
----
-
-### Is the politics of the diaspora?Weak?
-
-*2024-08-04 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190230) · `ta`
-
-The Tamil general candidate focuses on national development, criticizing the absence of integrated Tamil politics within parties, the neglect of Tamil national scholarship, and the failures in war and eastern development due to Colombo elite influence.
-
-🟩
-
-The main target of the Tamil general candidate is to build the nation. It is only during this. We have been investigating this for the past several weeks. We have seen the suburbs in detail. We have seen about the lack of integrated politics in the country, the lack of Tamil national politics in the politics of the party, the lack of the scholarship of Tamil national politics, the failure of the war, the penetration of the Colombo elite, the upliftment of the east, and the failure of the East.
-
-◼️
-
-[Data](articles/ac794ca9.json)
-
-[Extended Data](ext_articles/ac794ca9.ext.json)
-
----
-
-### Elections
-
-*2024-08-04 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190228) · `ta`
-
-In a rare occurrence, foreign ambassadors welcomed and commented on the presidential election, highlighting its significance despite the usual silence during such announcements.
-
-🟩
-
-The first verse in this post realized that the presidential election was held or not. Usually when an election announcement is made, it is rare that the ambassadors of other countries welcome it and make comments.
-
-◼️
-
-[Data](articles/c40a04c4.json)
-
-[Extended Data](ext_articles/c40a04c4.ext.json)
-
----
-
-### Saruma buddhu empire?
-
-*2024-08-04 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190221) · `ta`
-
-The Rajapakse party lacks strength to assert its support base and seize power.
-
-🟩
-
-The Rajapakse party is not strong enough to highlight his supporters within the party and take control of it.
-
-◼️
-
-[Data](articles/4cb061ed.json)
-
-[Extended Data](ext_articles/4cb061ed.ext.json)
-
----
-
-### Three missing students missing from Talawalwa and student found in Galle
-
-*2024-08-04 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199558) · `si`
-
-Four students from Talawakele went to work at a factory in Meetiyagoda without official recruitment. One was later found employed there but all stayed in the factory hostel for a month. The Talawakele police identified them and they were handed over to the Nuwara Eliya Magistrate's Court. Residents mentioned economic hardships as a reason for their escape.
-
-🟩
-
-Talawakele Police OIC Talawakele Police OIC Talawakele Police OIC Talawakele Police OIC Talawakele Police (04)
-
-The OIC said that the four students had gone to work at a factory in Meetiyagoda area and had not been recruited by the factory administrative authority.
-
-One relaidation from the four disappeared has been employed in the cinnamon factory and has gone to work at this cinnamon factory.
-
-However, the four were not employed, however, the four were stayed for nearly a month in the factory hostel.
-
-A group of officers of Talawakele police were able to identify the lack of hiding at the three girls and the student.
-
-Accordingly, the four have been submitted to the Nuwara Eliya Magistrate's Court and refer to Talawakele police said.
-
-The residents of the estate said that the residents of the estate said that the three students and the economic hardship of the student's home have escaped home.
-
-◼️
-
-[Data](articles/8120cc54.json)
-
-[Extended Data](ext_articles/8120cc54.ext.json)
 
 ---

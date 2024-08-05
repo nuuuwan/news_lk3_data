@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 07:02:41**
+As of **2024-08-05 07:30:24**
 
 ## Newspaper Stats
 
-*Scraped **39,009** Articles*
+*Scraped **39,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,521
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,870
 virakesarilk | 6,176
-adaderanasinhalalk | 6,588
+adaderanasinhalalk | 6,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,007 (100.0%) of 39,009 articles have been extended.
+39,009 (100.0%) of 39,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2024-08-05 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199568) · `si`
+
+කාලගුණ විද්‍යා දෙපර්තමේන්තුව විසින් අද (05) උදෑසන 05.30 නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුව බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ දක්වා තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපර්තමේන්තුව වැඩිදුරටත් දන්වා තිබේ.
+
+◼️
+
+[Data](articles/8cdbcd6d.json)
+
+---
 
 ### Famous astrologer announced the date of World War 3
 
@@ -2249,33 +2265,5 @@ The Sri Lankan team, which won the currency spin, will be the first to bat in th
 [Data](articles/491667fd.json)
 
 [Extended Data](ext_articles/491667fd.ext.json)
-
----
-
-### More information about Tripal murders
-
-*2024-08-04 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199550) · `si`
-
-In Inginiyagala, three individuals including a police officer were killed in two separate shootings. The suspect, a police constable from the Moneragala station, later committed suicide at the Kalalla police premises. Investigations suggest disputes over land and the motive behind another constable's death remain unclear. Further inquiries are ongoing.
-
-🟩
-
-Three persons including a police officer killed in two shootings carried out by Inginiyagala.
-
-Investigations have revealed that the victim and the suspect was reported between the victim and the suspect's police constable today (04).
-
-The suspect was an appointment of the subspa, attached to the crankial police station, Moneragala.
-
-He had committed suicide in a T-56 firearm at the Kalalla police premises this morning.
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara expressed these incidents.
-
-"The police officer who suspects suicide near the house of the victim and her daughter, have been residenced. And there is a dispute over a land. And the reason for the assassination of the other constable is yet to be ascertained. The Ampara Magistrate's Court on Tri-Magistrate's Court in Inginiyagala Police have taken measures to overcome the incident in the Karandgala area. Magistrates are scheduled to be held. All these killings are conducting further investigations. "
-
-...
-
-[Data](articles/f64a66ef.json)
-
-[Extended Data](ext_articles/f64a66ef.ext.json)
 
 ---

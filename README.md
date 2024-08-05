@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 18:16:34**
+As of **2024-08-05 18:28:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,111 (100.0%) of 39,113 articles have been extended.
+39,113 (100.0%) of 39,113 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Sri Lanka stalwart Chamari Athapaththu added another feather to her crown with a
 ...
 
 [Data](articles/9b5fc7f4.json)
+
+[Extended Data](ext_articles/9b5fc7f4.ext.json)
 
 ---
 
@@ -1372,19 +1374,25 @@ Surestra Wasantha alias Kib Wasantha alias murder were taken to courts in the mi
 
 ---
 
-### අනුරාධපුරයේ බිත්තර කුකුළු පාලන ව්‍යාපෘතියේ සාර්ථකත්වය බැලීමට ලාඕසයෙන් එයි
+### Laos arrives at the success of the eggs in Anuradhapura
 
 *2024-08-05 12:08:41* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුරයේ-බිත්තර-කුකුළු-පාලන-ව්‍යාපෘතියේ-සාර්ථකත්වය-බැලීමට-ලාඕසයෙන්-එයි/11-411200) · `si`
 
-ලෝක අහාර සංවිධානයේ දායකත්වයෙන් අනුරාධපුර දිස්ත්‍රික්කයේ ක්‍රියාත්මක වන බිත්තර කුකුළු පාලන ව්‍යාපෘතිය නිරීක්ෂණය කිරීම සදහා ලාඕසයෙහි නිලධාරීන් පිරිසක් පසුගිය දා අනුරධපුරයේ සංචාරයක නිරත විය. මෙම බිත්තර නිෂ්පාදන ව්‍යාපෘතිය අනුරාධපුර දිස්ත්‍රික්කය තුළ සාර්ථකව ක්‍රියාත්මක වන බව ලෝක ආහාර සංවිධානය හදුනාගෙන ඇත.
+Laos officials partnered with the World Food Organization to launch an egg production project in Sri Lanka's Anuradhapura District, investing Rs. 600,000 per chicken unit. The initiative, starting in 2023, aims to boost local egg supply, with each unit producing around 50 eggs daily. Beneficiaries, expected to receive about 1,500 eggs monthly, could potentially earn around 60,000 rupees monthly from the project.
 
-දිස්ත්‍රික්කය තුළ ප්‍රාදේශිය ලේකම් කොට්ඨාස 16 ක  කුකුළු පාලන ඒකක 163 ක් ක්‍රියාත්මක කොට තිබේ. ඒ අනුව කහටගස්දිගිලිය හා මධ්‍යම නුවරගම් පලාත ප්‍රාදේශීය ලේකම් කොට්ඨාශ තුළ ක්‍රියාත්මක කුකුලු පාලන ව්‍යාපෘති කිහිපයක් මෙසේ ලාඕස නිලධාරින් පිරිසෙහි නිරික්ෂණයට ලක්විය.
+🟩
 
-මෙම එක් කුකුල් පාලන ඒකකයක් සදහා ලෝක ආහාර සංවිධානය මගින් වැයකර ඇති මුදල රුපියල් ලක්ෂ හයකට අධික වේ. එක් පාලන ඒකකයකට කුකුළු පැටවුන් 55 දෙනෙකු බැගින් ලබා දී ව්‍යාපෘතිය ආරම්භ කර තිබේ. එමගින් දිනකට බිත්තර 50 ක පමණ අස්වැන්නක් ලබාගන්නා බව මෙම නිරීක්ෂණයේ දී තොරතුරු හෙලිවී තිබේ.
+Laous officials visited the Egg Poultry Program in the Anuradhapura District with the contribution of the World Food Food Audio.. The World Food Organization has identified that the Eggs Production Project will be effective in the Anuradhapura District.
+
+163 chicken units in 16 Divisional Secretariat Divisions have been implemented. Accordingly, some of the chick governors implemented in Kahatagasdigiliya and Central Nuwaragam Provincial Division have been observed.
+
+The World Food Organization has spent Rs. 600,000 for one chicken unit. The project has been launched by 55 chicks per unit of governance. This observation has revealed that this is about 50 eggs a day.
 
 ...
 
 [Data](articles/1d814840.json)
+
+[Extended Data](ext_articles/1d814840.ext.json)
 
 ---
 

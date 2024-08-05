@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 13:20:43**
+As of **2024-08-05 13:36:29**
 
 ## Newspaper Stats
 
-*Scraped **39,055** Articles*
+*Scraped **39,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ bbccomsinhala | 370
 islandlk | 2,251
 economynextcom | 2,354
 dailyftlk | 2,506
-adalk | 3,581
-adaderanalk | 4,529
+adalk | 3,582
+adaderanalk | 4,530
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,885
+tamilmirrorlk | 4,888
 virakesarilk | 6,180
-adaderanasinhalalk | 6,597
+adaderanasinhalalk | 6,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,055 (100.0%) of 39,055 articles have been extended.
+39,055 (100.0%) of 39,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### பிரதமரை சந்தித்தார் இந்திய உயர்ஸ்தானிகர்
+
+*2024-08-05 13:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரை-சந்தித்தார்-இந்திய-உயர்ஸ்தானிகர்/175-341622) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தனவை இன்று (05) சந்தித்தார்.
+
+இருவரும் இருதரப்பு உறவுகள் மற்றும் பொருளாதார மற்றும் கலா சார உறவுகளை மேலும் வலுப்படுத்துவதற்கான வழிகள் மற்றும் வழிமுறைகள் குறித்து கலந்துரையாடினர் என்று பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b85381ad.json)
+
+---
+
+### එංගලන්ත හිටපු  ක්‍රීඩක ග්‍රැහැම් තෝර්ප් අභාවප්‍රාප්ත වෙයි
+
+*2024-08-05 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199582) · `si`
+
+එංගලන්ත ක්‍රිකට් කණ්ඩායමේ හිටපු පිතිකරුවෙකු වන ග්‍රැහැම් තෝර්ප් අද (05)  අභාවප්‍රාප්ත විය.
+
+එංගලන්තයෙන් බිහිවූ විශිෂ්ට පිතිකරුවෙකු වන තෝර්ප්, වසර දහයකට වැඩි කාලයක් එරට වෙනුවෙන් ටෙස්ට් හා එක්දින කණ්ඩායම් නියෝජනය කර සිටියේය.
+
+◼️
+
+[Data](articles/f4809b9c.json)
+
+---
+
+### Israeli strikes hit Gaza schools, hospital compound after talks fail
+
+*2024-08-05 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101005/israeli-strikes-hit-gaza-schools-hospital-compound-after-talks-fail) · `en`
+
+An Israeli airstrike hit two schools in Gaza City on Sunday, killing at least 30 people, Palestinian officials said, while the Israeli military said it struck a Hamas military compound embedded in the schools.
+
+An Israeli airstrike hit a tent camp inside a hospital in central Gaza earlier in the day. Gaza health officials said a total of at least 44 Palestinians were killed on Sunday, the day after a round of talks in Cairo ended without result.
+
+Footage circulated on Palestinian media showed bodies scattered inside the yard of one of two blast-wrecked schools as residents rushed to carry casualties, including children, and loaded them into ambulance vehicles that took them to at least two nearby hospitals.
+
+Gaza’s Civil Emergency Service said dozens were wounded in addition to the fatalities in the schools of Hassan Salama and Al-Nasser, which housed Palestinian displaced families.
+
+...
+
+[Data](articles/101b2484.json)
+
+---
+
+### பறக்கும் மகிழ்ச்சி சோகத்தில் முடிந்தது
+
+*2024-08-05 13:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பறக்கும்-மகிழ்ச்சி-சோகத்தில்-முடிந்தது/76-341621) · `ta`
+
+கொரியா நாட்டிற்கு செல்வதற்கு பாடநெறியினை  மேற்கொண்டு பரீட்சையில் சித்தியடைந்த 8 இளைஞர்களை கொண்ட குழுவொன்று தமது ஆசிரியருடன், பலாங்கொடை பம்பஹின்ன சமனலவெவ வாவியின் வான் கதவு அருகில் சென்று பரீட்சையில் சித்தியடைந்த மகிழ்ச்சியை ஞாயிற்றுக்கிழமை (04)  கொண்டாடியுள்ளனர்.
+
+கஹவத்த,வெலிகே பொல, பின்னவல,கொடகேவல பிரதேசத்தில் வசிக்கும் 8 இளைஞர்கள்   தமது ஆசிரியருடன் குறித்த பகுதிக்கு ஞாயிற்றுக்கிழமை (04) பிற்பகல் 2 மணியளவில்   சென்றுள்ளனர்.
+
+அப்போது வென்னப்புவ பிரதேசத்தைச் சேர்ந்த 29 வயதுடைய யூ.எம்.கமல் பிரசங்க  நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+அங்கு சென்றிருந்த ஒன்பது பேரில் மூன்று பேர் அந்த இடத்தில் முதல் முறையாக நீராடச் சென்றதாகவும், மற்றைய நபர்கள்  நீராட  செல்லவில்லை என்று விசாரணையில் தெரியவந்தது  என  சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/7fb25deb.json)
+
+---
+
+### මැතිවරණ කොමිසමෙන් ඡන්දහිමියන්ට දැනුම්දීමක්
+
+*2024-08-05 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199581) · `si`
+
+මෙවර ජනාධිපතිවරණයේදී ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්දහිමියන්ට දිවයිනේ ඕනෑම ඡන්ද මධ්‍යස්ථානයකින් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ඇතැයි යනුවෙන් සංසරණය වන පුවත අසත්‍ය බව මැතිවරණ කොමිෂන් සභාව අවධාරණය කරයි.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිසම පවසන්නේ, ඡන්දහිමියාට ඉදිරියේදී තැපෑලෙන් ලැබීමට නියමිත නිල ඡන්ද දැන්වීම්පතෙහි සඳහන් ඡන්ද පොළට පරිබාහිර ඡන්ද පොළකදී ඡන්දය ප්‍රකාශ කිරීමට කිසිවෙකුටත් අවකාශ නොමැති බවය.
+
+මීට අමතරව තැපැල් ඡන්ද හිමිකම ඇති අයෙකුට තමාගේ සහතික කිරීමේ නිලධාරියාගේ කාර්යාලයේදී ඔහු ඉදිරියේ සිය ඡන්දය ප්‍රකාශ කිරීමේ හැකියාව පවතී.
+
+2024 ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්දහිමියන්ගේ ලිපිනය වෙත ඡන්දහිමියාගේ නම, ඡන්දය ප්‍රකාශ කළ හැකි ඡන්ද මධ්‍යස්ථානය සඳහන් කර නිල ඡන්ද දැන්වීම්පතක් තැපෑලෙන් ලැබෙනු ඇතැයි එහි සඳහන්ය.
+
+එහි සඳහන් ඡන්ද පොළට පරිබාහිර ඡන්ද පොළකදී ඡන්දය ප්‍රකාශ කිරීමට කිසිවෙකුටත් අවකාශ නොමැති බව මැතිවරණ කොමිසම අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/2735af9c.json)
+
+---
+
+### 5 பெண்களுடன் திருமணம்: 49 பெண்களிடம் தொடர்பு
+
+*2024-08-05 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பெண்களுடன்-திருமணம்-49-பெண்களிடம்-தொடர்பு/175-341620) · `ta`
+
+ஐந்து பெண்களை திருமணம் செய்த நபரொருவர், 49 பெண்களுடன் தொடர்பில் இருப்பது கண்டறியப்பட்டுள்ளது. பெண்களை திருமணம் செய்து  அவர்களை ஏமாற்றி மோசடியில் ஈடுபட்டார் என்றக் குற்றச்சாட்டில் அந்த நபர் கைது செய்யப்பட்டுள்ளார்.
+
+ஒடிசா மாநிலம் ஜாஜ்பூர் மாவட்டத்தைச் சேர்ந்தவர் சத்யஜித் சமால். 34 வயதான இவர், தான் ஒரு பொலிஸ் அதிகாரி என ஏமாற்றி 5 பெண்களை திருமணம் செய்துள்ளார். அவர்களிடமிருந்து லட்சக்கணக்கில் பணம் வாங்கி சொகுசு வாழ்க்கை வாழ்ந்து வந்துள்ளார்.
+
+சமாலால் ஏமாற்றப்பட்ட இரு பெண்கள், காவல் நிலையத்தில் தனித்தனி புகார் அளித்தனர். இந்த புகாரின் அடிப்படையில் பொலிஸார் விசாரணை நடத்தி சமாலை கைதுசெய்தனர். குறிப்பாக, சமாலை கைதுசெ
+
+ய்ய பொலிஸார், ஒரு பெண் அதிகாரியை பயன்படுத்தி பொறி வைத்தனர். அந்த பெண் அதிகாரியை திருமணம் தொடர்பாக சமால் சந்திக்க வந்தபோது அவரை பொலிஸார் கைதுசெய்தனர்.
+
+...
+
+[Data](articles/301621b3.json)
+
+---
 
 ### EC refutes reports claiming voters can cast votes at any polling station
 
@@ -345,6 +447,26 @@ The first Kumbal Perahera is slated to take to streets on August 10, following t
 [Data](articles/e20a2a30.json)
 
 [Extended Data](ext_articles/e20a2a30.ext.json)
+
+---
+
+### ආණ්ඩුවට සරල බහුතරය තිබෙනවා
+
+*2024-08-05 11:05:30* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-සරල-බහුතරය-තිබෙනවා/11-411198) · `si`
+
+ආණ්ඩුවට සරල බහුතරය තිබෙන බැවින් ඉදිරි මාස දෙක,තුන  රජය පවත්වාගෙන යාම ගැටලුවක් නොවන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+එමෙන්ම අමාත්‍යවරයා අවධාරණය කරන්නේ පක්ෂය නිවැරදි තීන්දුව නොගතහොත් ශ්‍රී ලංකා පොදුජන පෙරමුණට දෙතුන් දෙනෙකු පමණක් ඉතිරි වනු ඇති බවයි.
+
+දිවුලපිටිය ආසනයේ ඊයේ (4) පැවති උත්සවයකින් පසුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+පිළිතුර- මම දන්න විදියට මාව දිස්ත්‍රික්කයේ මැතිවරණ මෙහෙයුමෙන් ඉවත්කර තිබෙනවා.ඒක සාධාරණයි. මොකද  අපි පොහොට්ටුවේ අපේක්ෂකයාට සහය දෙන්න නෑ.  මම රට ගැන හිතල  තීන්දුවක් ගත්තා. මම මගේ තීන්දුවේ ඉන්නවා.
+
+පිළිතුර- තම තමන්ගේ පුද්ගලික න්‍යාය පත්‍රවලට වැඩ කරන කොට රට ගැන හිතන්න බැහැ.අද පක්ෂයට වෙලා තියෙන්නේ එහෙම දෙයක්. රට ගැන කැක්කුමක් තිබුණනම් 2022දි පක්ෂයේ නායකත්වය වෙන කෙනෙක්ට දෙන්න තිබුණා. ඩලස් අලහප්පෙරුම ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් වෙනකොට අපේ නායකයෝ එයාට සහය දුන්නේ නෑ. මොකද ඔහුට ඒ අත්දැකීම නැති නිසා. ඒ නිසා රනිල් වික්‍රමසිංහ මහතාට සහය දෙන්න තීරණය කළේ අපේ නායකයන්.
+
+...
+
+[Data](articles/15f35c70.json)
 
 ---
 
@@ -2155,157 +2277,5 @@ The car was collapsed on the road of a roadside road near the Badulla Keppipola 
 [Data](articles/b78c2d8f.json)
 
 [Extended Data](ext_articles/b78c2d8f.ext.json)
-
----
-
-### Sri Lanka committed to reduce trade barriers - PM
-
-*2024-08-04 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100993/sri-lanka-committed-to-reduce-trade-barriers-pm) · `en`
-
-Prime Minister Dinesh Gunawardena says that Sri Lanka is committed to reducing trade barriers as much as possible in a bid to improve cooperation, trade, and investment within the South Asian region.
-
-Addressing the South Asian Trade Fair 2024, the Premier invited private sector businesses in the region to enter into the renewable energy trade, which possesses huge economic potential.
-
-The South Asian Trade Fair 2024, organised by the Federation of Chambers of Commerce and Industry of Sri Lanka and the SAARC Chamber of Commerce, commenced recently in Colombo.
-
-The event was graced by Prime Minister Dinesh Gunawardena and officials including SAARC Secretary General Golam Sarwar, SAARC Chamber of Commerce President Jashim Uddin, FCCI President Keerthi Gunawardane, members of other business chambers, and High Commissioners and Ambassadors of the South Asian countries.
-
-...
-
-[Data](articles/30fc4304.json)
-
-[Extended Data](ext_articles/30fc4304.ext.json)
-
----
-
-### A struggle in Bangladesh spreads
-
-*2024-08-04 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199561) · `si`
-
-In Bangladesh, 27 died as unrest escalated. PM Sheikh Haseena led protests against the violence. Police used force to quell demonstrators. Authorities imposed a curfew to restore order.
-
-🟩
-
-According to the Reuters, 27 people have been killed today due to the manner in Bangladesh.
-
-Prime Minister Sheikh Haseani is conducting protests and protests in the conflict.
-
-The police had used gander and slades to control the protesters.
-
-Authorities have taken measures to impose the curfew without re-informed to control the situation.
-
-◼️
-
-[Data](articles/2edd9176.json)
-
-[Extended Data](ext_articles/2edd9176.ext.json)
-
----
-
-### Get the attention of the presidential candidates?
-
-*2024-08-04 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190264) · `ta`
-
-For 16 years, a group has fought for justice after their son was abducted by state forces in 2008. Despite UN investigations lacking results, they demand international inquiries and protest across eight districts, highlighting the inefficacy of local mechanisms like the Office on Missing Persons (OMP).
-
-🟩
-
-“We have been engaged in a continuous struggle for 16 years. The Sri Lankan government did not provide a solution. We are demanding justice for us through the international community. Justice is not required for funds. The United Nations did not provide justice through any investigation. My son was abducted and disappeared by the State Force on 19.03.2008. We are carrying out protests on the basis of justice for us in eight districts. The OMP for the missing is just an eye. My request is to need an international inquiry. ”
-
-◼️
-
-[Data](articles/3b190cf6.json)
-
-[Extended Data](ext_articles/3b190cf6.ext.json)
-
----
-
-### Sajith decided to offer SLMC support subject to several conditions
-
-*2024-08-04 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/කොන්දේසි-කිහිපයකට-යටත්ව-මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට-දීමට-තීරණයක්/11-411190) · `si`
-
-The leader of the Sri Lanka Muslim Congress (SLMC) will support Sajith Premadasa, but only after he meets certain conditions. This decision was made after extensive discussions within the party, including MP Rauff Hakeem. The conditions must be agreed upon within the next 42 hours for Sajith Premadasa to receive the support.
-
-🟩
-
-Leader of the Sri Lanka Muslim Congress (SLMC) has decided to hand over the support of the SLMC assistance to Sajith Premadasa subject to several conditions.
-
-Speaking to the media, he said that the party's supremacy has been supported by the Opposition (04).
-
-Speaking further MP Rauff Hakeem said so.
-
-"Today our party's supreme discussion has a long discussion. We were also revealed about the conditions that were appointed as the president before the President. If you agree to these conditions, our Supreme Council unanimously decided that Sajith Premadasa should support Mr. Premadasa. I discuss with him in the next 42 hours. "
-
-◼️
-
-[Data](articles/d29cb29e.json)
-
-[Extended Data](ext_articles/d29cb29e.ext.json)
-
----
-
-### Kandy Esala Perahera begins
-
-*2024-08-04 18:38:47* · [`adalk`](https://www.ada.lk/religion/නුවර-ඇසළ-පෙරහර-මංගල්‍ය-ඇරඹෙයි/4-411189) · `si`
-
-The Kandy Esala Perahera festival began with the resolution of grievances between old and new temples. The ceremony involved rituals led by elephants, including the Sri Dasasadagala and Sri Dasasara Sinharajahha, followed by the distribution of cotton to deities Natha, Vishnu, Kataragama, and Pattini. The Devalaya Perahera procession will commence after this.
-
-🟩
-
-The grievances of the four general temples were conducted by the presence of the new temples from the Festival of the Mount Kandy Perahera yesterday (04) at 3.58 pm yesterday.
-
-The tree was operated by the Sri Dasasadagala elephant by the Sri Dasasara Sinharajahha elephant after the ritual was incorporated by the Indian Tree.
-
-Thereafter, the cotton was distributed to the cotton greets of Natha, Vishnu, Kataragama and Pattini.
-
-The Devalaya Perahera will begin after planting in four parts of four parts.
-
-◼️
-
-[Data](articles/09b500a6.json)
-
-[Extended Data](ext_articles/09b500a6.ext.json)
-
----
-
-### Will India reach the target of 241?
-
-*2024-08-04 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190274) · `ta`
-
-India aims to surpass Sri Lanka's 241-run target in their Colombo match, despite Sri Lanka's strong start, scoring 240/9 in 50 overs. Key contributors for Sri Lanka were Avishka Fernando with 40, Tunit Vellalake and Kamindu Mendis with 39 each, Kusal Mendis with 30, and Sarid Asalan with 25.
-
-🟩
-
-Colombo against India. Sri Lanka, which decided to bat first at the Premadasa Stadium on Sunday (04), won by 9 wickets in 50 overs and scored 240 runs for the loss of 9 wickets.
-
-Avishka Fernando scored 40 runs, Tunit Vellalake and Kamindu Mendis scored 39 runs, Kusal Mendis 30 runs and Sarid Asalan 25 runs.
-
-◼️
-
-[Data](articles/325bde85.json)
-
-[Extended Data](ext_articles/325bde85.ext.json)
-
----
-
-### We have stopped the agreement that caused the loss of $ 1.2 billion through the court - Sajith Premadasa
-
-*2024-08-04 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190273) · `ta`
-
-The High Court halted illegal online visa transactions, costing $1.2 billion, and upheld arguments against it. Opposition Leader Sajith Premadasa praised the decision, criticizing the government's handling of the situation and calling for transparency and accountability. He also addressed issues like malnutrition, highlighting the government's failure to address basic needs despite allocating funds for luxury expenses. Premadasa emphasized the need for a change in leadership to prioritize the welfare of ordinary citizens over personal gain.
-
-🟩
-
-The High Court has banned another illegal transactions in the country. We have lost $ 1.2 billion due to the action taken by foreign companies to change the existing system on the Internet visa service, without a costly demanding VFS.. The Leader of the Opposition said that the theft could have been used to use this money and provide skills classrooms to schools.
-
-These thieves carried out their own interests through vfs giving. The High Court has accepted the strong arguments of Rauf Hakeem, Sumanthiran, Sampika Ranawaka, Ashok Abeysinghe, Ranjith Mathuma Bandara and other lawyers led by President Attorney Upul Jayasuriya.. Opposition leader Sajith Premadasa said that I would like to thank the High Court for such a ruling.
-
-The United People's Power Nuwarali District Farmers Conference was held on Sunday (04) at Hangurante. Opposition Leader Sajith Premadasa said this while addressing the gathering.
-
-...
-
-[Data](articles/7c950586.json)
-
-[Extended Data](ext_articles/7c950586.ext.json)
 
 ---

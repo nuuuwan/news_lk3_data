@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 21:55:56**
+As of **2024-08-05 22:09:22**
 
 ## Newspaper Stats
 
-*Scraped **39,134** Articles*
+*Scraped **39,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,48 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 372
 islandlk | 2,251
-economynextcom | 2,360
+economynextcom | 2,363
 dailyftlk | 2,506
 adalk | 3,595
 adaderanalk | 4,544
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,903
 virakesarilk | 6,185
-adaderanasinhalalk | 6,616
+adaderanasinhalalk | 6,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,134 (100.0%) of 39,134 articles have been extended.
+39,134 (100.0%) of 39,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### ප්‍රබල අගමැතිනිය බලයෙන් පහකළ මාර්ච් ටු ඩකා
+
+*2024-08-05 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199600) · `si`
+
+දින ගණනක් පුරා රජයට එරෙහිව පැවති විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගනිද්දී බංග්ලාදේශ අගමැතිනි ෂෙයික් හසීනා අද (05) සිය ධුරයෙන් ඉල්ලා අස්වී රටින් පළා ගියාය.
+
+බංග්ලාදේශ හමුදා ප්‍රධානියා ජාතිය අමතමින් අද නිවේදනය කළේ රට තුළ කඩිනමින් අන්තර්වාර රජයක් පිහිටුවන බවය.
+
+බංග්ලාදේශ සරසවි සිසුන් ගෙවුණු ජූලි මාසයේ දී දැවැන්ත විරෝධතාවක් ආරම්භ කළේ රජයේ රැකියා කෝටා ක්‍රමවේදයට විරෝධය පළකරමිනි.
+
+ඩකා අගනුවර කේන්ද්‍ර කරගෙන රට පුරා පැතිර ගිය එම විරෝධතා අතරතුරදී 300කට ආසන්න පිරිසක් මරණයට පත්වුණි.
+
+අර්බුදයට තුඩුදුන් රැකියා කෝටා ක්‍රමවේදය අවලංගු කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කළේ විරෝධතා පාලනයට රජය අනුගමනය කළ එම දැඩි මර්දනකාරී පිළිවෙතට ජාත්‍යන්තරයෙන් පවා එල්ලවූ විවේචන හමුවේ ය.
+
+නමුත් ඉන් නොනැවතුණු ශිෂ්‍ය ක්‍රියාකාරීන් රැකියා කෝටාවට එරෙහි විරෝධතාව රජයට එරෙහි දැවැන්ත විරෝධතාවක් බවට පරිවර්තනය කරමින් යළි උද්ඝෝෂණ ආරම්භ කළේ මීට දින කිහිපයකට පෙරාතුවය.
+
+ඒ, පෙර විරෝධතා අතරතුර මියගිය පිරිසට යුක්තිය ඉටුකර ධුරයෙන් ඉවත්වන්නැයි අගමැතිනි ෂෙයික් හසීනාට බල කරමිනි.
+
+...
+
+[Data](articles/00c6ff27.json)
+
+---
 
 ### Army's gift for cricket chaomers
 
@@ -540,6 +564,50 @@ The Sri Lankan team leader Chamari, Atapattu, is among the three recommendations
 
 ---
 
+### Sri Lanka rupee closes weaker at 302.30/43 to US dollar
+
+*2024-08-05 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-30-43-to-us-dollar-175324/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.30/43 to the US dollar on Monday, from 301.90/302.05 to the US dollar on Friday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.75/80 percent, up from 10.45/60 percent.
+
+A bond maturing on 15.12.2027 closed at 11.80/12.05 percent, up from 11.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 12.45/55 percent, up from 12.20/35 percent.
+
+A bond maturing on 15.10.2030 closed at 12.75/85 percent, up from 12.70/85 percent. (Colombo/Aug5/2024)
+
+◼️
+
+[Data](articles/b51900cd.json)
+
+---
+
+### Sri Lanka stocks close down, amid continued election uncertainty
+
+*2024-08-05 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-continued-election-uncertainty-175316/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 1.67 percent, or 191.01 points, at 11,251; while the more liquid S&P SL20 Index closed down 2.30 percent, or 75.77 points, at 3,214.
+
+“We feel that speculation due to rumours and various polls on the outcome of the upcoming presidential election is hindering sentiment,” Softlogic Stockbrokers said. “This is despite positive signals like the IMF response, fiscals on track, and numbers looking good.”
+
+“People feel if there is a policy change it will be a definite blow.”
+
+Market participants thought the trend might continue despite several corporates posting interim results.
+
+Foreign buying was seen on Ceylon Cols Stores (down at 55.50), Chevron Lubricants Lanka (down at 121.75), People’s Leasing and Finance Plc (down at 12.20), and ACL Cables Plc (down at 82.50).
+
+Foreign selling was seen on Nations Trust Bank (down at 120.00), and LOLC Holdings (down at 403.25).
+
+...
+
+[Data](articles/c47be21f.json)
+
+---
+
 ### Bangladesh army chief says interim government will be formed
 
 *2024-08-05 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101015/bangladesh-army-chief-says-interim-government-will-be-formed) · `en`
@@ -961,6 +1029,28 @@ Hasina Is Likeley To Tender Herger Herger Herrner Resignation Amid The ... Pic.t
 [Data](articles/125e55bc.json)
 
 [Extended Data](ext_articles/125e55bc.ext.json)
+
+---
+
+### Bangladesh PM Hasina resigns, flees to India after deadly protests: Media reports
+
+*2024-08-05 15:19:00* · [`economynextcom`](https://economynext.com/bangladesh-pm-hasina-resigns-flees-to-india-after-deadly-protests-media-reports-175256/) · `en`
+
+ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina has resigned and fled the country on Monday after weeks of deadly protests that saw over 300 being killed, foreign media reported.
+
+Sky News, citing a leading national paper in Bangladesh, said Hasina and her sister took a military helicopter to India.
+
+Reuters reported: “They are taking “safe shelter” away from her official residence”.
+
+Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation.
+
+The demonstrations began with students seeking to end a quota system for government jobs, but clashes with police and pro-government activists escalated into violence that left more than 200 dead last month.
+
+Bangladesh protesters gave the government 48 hours to meet a new set of demands including accountability from the government, which have grown into calls for Hasina, who has been leading the country since 2009, to step down.
+
+...
+
+[Data](articles/43116054.json)
 
 ---
 
@@ -2225,99 +2315,5 @@ The Minister said that he had discussed the matter with the Joint Public Servant
 [Data](articles/132841a0.json)
 
 [Extended Data](ext_articles/132841a0.ext.json)
-
----
-
-### President met people with Kukadasan
-
-*2024-08-05 10:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/குகதாசனுடன்-மக்களை-சந்தித்த-ஜனாதிபதி/75-341614) · `ta`
-
-In a meeting at Trincomalee's municipal council, President discussed issues like the Thirukoneswara Temple, land releases, McCaysar sports theater, and development projects with over 400 attendees, including Eastern Province Governor Senthil Thondaman and TNA parliamentarian Shanmugam Kukadasan.
-
-🟩
-
-A meeting between the people and the president of Trincomalee. The meeting was held at the Trincomalee Municipal Council main hall on Sunday afternoon (04).
-
-During this time, a number of issues have been discussed on the issue of the historic Thirukoneswara Temple, the release of the people's lands, the issues related to the McCaysar sports theater and the development projects.
-
-More than 400 people including Eastern Province Governor Senthil Thondaman, Trincomalee District Tamil National Alliance (TNA) parliamentarian Shanmugam Kukadasan and political dignitaries participated in the discussion.
-
-◼️
-
-[Data](articles/932bc94c.json)
-
-[Extended Data](ext_articles/932bc94c.ext.json)
-
----
-
-### Ex-cricketer Hashan Thilakaratne and wife join SJB
-
-*2024-08-05 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100999/ex-cricketer-hashan-thilakaratne-and-wife-join-sjb) · `en`
-
-Former Sri Lankan cricketer Hashan Thilakaratne has joined the Samagi Jana Balawegaya (SJB) in order to support Opposition Leader Sajith Premadasa during the upcoming Presidential Election.
-
-Thilakaratne, who was once the Head Coach of Sri Lankan women’s cricket team, is the current Head Coach of the Bangladesh women’s team.
-
-Meanwhile, his wife Apsari Thilakaratne has also joined the SJB. She is the Convenor of Women’s Cricket in Sri Lanka.
-
-◼️
-
-[Data](articles/952b55fa.json)
-
-[Extended Data](ext_articles/952b55fa.ext.json)
-
----
-
-### A no -confidence motion against the government?
-
-*2024-08-05 10:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்துக்கு-எதிராக-நம்பிக்கையில்லா-பிரேரணை/175-341612) · `ta`
-
-Opposition parties plan a no-confidence vote against the Sri Lankan government, citing internal splits reducing its majority. Despite President Ranil Wickremesinghe's support from over a hundred MPs, a significant portion of the ruling party may defect, potentially leading to a shift in power.
-
-🟩
-
-There are reports that the opposition parties are preparing to bring a no -confidence motion in parliament against the ruling party.
-
-The ruling party has lost a majority due to the split within the Sri Lanka PA.
-
-There are more than one hundred MPs in support of President Ranil Wickremesinghe, and before that, nearly twenty -twenty MPs supported the government.
-
-However, due to the split in the PA in the PA, there is a high chance of sitting in opposition to a group of Namal Rajapaksa.
-
-As the majority of the ruling party has been challenged, many ministers are in the opinion of the Sri Lanka PA, and if the opposition is sitting in the opposition, the minister will leave the responsibilities.
-
-◼️
-
-[Data](articles/4e1daf92.json)
-
-[Extended Data](ext_articles/4e1daf92.ext.json)
-
----
-
-### Gold Medal to USA in 100 meters of Olympics
-
-*2024-08-05 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199576) · `si`
-
-Noah Liles from the USA won the gold medal in the 100-meter dash at the Olympics, setting a record time of 9.79 seconds. Despite Jamaica's silver medalist Kishan Thompson being only 0.005 seconds behind, critics suggest he might have won if the race were shorter. The bronze went to American Fred Karley, achieving a personal best of 9.81 seconds.
-
-🟩
-
-In the United States, Noah Liles won the gold medal in the 100 meters of the Olympics this year, becoming the fastest man in the world.
-
-The last 100th Event event was held in Sri Lanka yesterday (04), where Noah was 9.79 seconds to end the match.
-
-However, Jamaica, who won the silver and recorded the silver, was reported to 9.79 seconds, and was 0.005 seconds.
-
-Accordingly, Sports Critics said that if the match was up 99 meters, Kishan Thompson would be the owner of gold medal.
-
-Meanwhile, the bronze medal was also won by the American player Fred Karley.
-
-He is the second, reporting his personal best time. 9.81 was able to give a skill.
-
-◼️
-
-[Data](articles/e55c9098.json)
-
-[Extended Data](ext_articles/e55c9098.ext.json)
 
 ---

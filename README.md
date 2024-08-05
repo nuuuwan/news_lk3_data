@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 22:09:22**
+As of **2024-08-05 22:20:57**
 
 ## Newspaper Stats
 
-*Scraped **39,138** Articles*
+*Scraped **39,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,251
 economynextcom | 2,363
 dailyftlk | 2,506
 adalk | 3,595
-adaderanalk | 4,544
+adaderanalk | 4,546
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,903
 virakesarilk | 6,185
@@ -26,33 +26,81 @@ adaderanasinhalalk | 6,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,134 (100.0%) of 39,138 articles have been extended.
+39,138 (100.0%) of 39,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ප්‍රබල අගමැතිනිය බලයෙන් පහකළ මාර්ච් ටු ඩකා
+### First special course for SL foreign service officers inaugurated at SSIFS in New Delhi
+
+*2024-08-05 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101023/first-special-course-for-sl-foreign-service-officers-inaugurated-at-ssifs-in-new-delhi) · `en`
+
+The first special course for Diplomats and Officers from Sri Lanka was inaugurated by the Dean of the Sushma Swaraj Institute of Foreign Service (SSIFS) Shri Sanjiv Ranjan on Monday (05) at the SSIFS in New Delhi.
+
+The inauguration of the programme, which is attended by 23 Sri Lankan officers, was held in the presence of the High Commissioner of Sri Lanka to India Kshenuka Senewiratne, the SSIFS said.
+
+The customized short-term training programme, intended for the latest batch of Sri Lanka Foreign Service (SLFS) officers, is offered by the Government of India.
+
+This is the first tailor-made course for Sri Lankan diplomats to be held at the Sushma Swaraj Institute of Foreign Service, New Delhi, according to Sri Lanka’s Ministry of Foreign Affairs.
+
+An initial batch of 10 new SLFS recruits as well as other officials from government agencies will attend this course from 05 -13 August 2024 in New Delhi.
+
+◼️
+
+[Data](articles/d5a3c14b.json)
+
+---
+
+### Marchet Tu Dhaka, who has passed the Prime Minister of Prime Minister
 
 *2024-08-05 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199600) · `si`
 
-දින ගණනක් පුරා රජයට එරෙහිව පැවති විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගනිද්දී බංග්ලාදේශ අගමැතිනි ෂෙයික් හසීනා අද (05) සිය ධුරයෙන් ඉල්ලා අස්වී රටින් පළා ගියාය.
+Following widespread protests and violence against the government, Bangladesh's Prime Minister Sheikh Hasina resigned. The unrest, which began with student demonstrations over job opportunities, escalated, leading to hundreds of deaths nationwide. The Supreme Court invalidated the controversial "Kota Methodology," further fueling the protests. Amidst the turmoil, the army chief assumed leadership, promising an interim administration. This period marks the largest protest during Sheikh Hasina's 15-year rule, characterized by mass arrests, internet shutdowns, and property damage.
 
-බංග්ලාදේශ හමුදා ප්‍රධානියා ජාතිය අමතමින් අද නිවේදනය කළේ රට තුළ කඩිනමින් අන්තර්වාර රජයක් පිහිටුවන බවය.
+🟩
 
-බංග්ලාදේශ සරසවි සිසුන් ගෙවුණු ජූලි මාසයේ දී දැවැන්ත විරෝධතාවක් ආරම්භ කළේ රජයේ රැකියා කෝටා ක්‍රමවේදයට විරෝධය පළකරමිනි.
+Bangladesh Prime Minister Sheikh Husani resigned from his post, taking violence against the government over the days.
 
-ඩකා අගනුවර කේන්ද්‍ර කරගෙන රට පුරා පැතිර ගිය එම විරෝධතා අතරතුරදී 300කට ආසන්න පිරිසක් මරණයට පත්වුණි.
+The Bangladesh army chief announced the race and was announced today.
 
-අර්බුදයට තුඩුදුන් රැකියා කෝටා ක්‍රමවේදය අවලංගු කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කළේ විරෝධතා පාලනයට රජය අනුගමනය කළ එම දැඩි මර්දනකාරී පිළිවෙතට ජාත්‍යන්තරයෙන් පවා එල්ලවූ විවේචන හමුවේ ය.
+The Bangladesh University students launched a massive protest in July, protesting to the government's jobs.
 
-නමුත් ඉන් නොනැවතුණු ශිෂ්‍ය ක්‍රියාකාරීන් රැකියා කෝටාවට එරෙහි විරෝධතාව රජයට එරෙහි දැවැන්ත විරෝධතාවක් බවට පරිවර්තනය කරමින් යළි උද්ඝෝෂණ ආරම්භ කළේ මීට දින කිහිපයකට පෙරාතුවය.
+Nearly 300 people were killed during the protests that have spread across the country with the centered in the capital city of Dhaka.
 
-ඒ, පෙර විරෝධතා අතරතුර මියගිය පිරිසට යුක්තිය ඉටුකර ධුරයෙන් ඉවත්වන්නැයි අගමැතිනි ෂෙයික් හසීනාට බල කරමිනි.
+The Supreme Court ordered the Supreme Court to cancel the Kota Methodology for the crisis.
+
+However, student activists were converted into a massive protest against the state of employment moths into a massive protest against the government and resumed a few days ago.
+
+The Prime Minister Sheikh Haseani forcing Prime Minister Sheikh Husani to resign from the post to the deceased.
+
+Student activists were protesting in many cities with the assistance of Bangladesh National Party, the main opposition of the country.
 
 ...
 
 [Data](articles/00c6ff27.json)
+
+[Extended Data](ext_articles/00c6ff27.ext.json)
+
+---
+
+### SLPP to reveal presidential candidate on Wednesday
+
+*2024-08-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101022/slpp-to-reveal-presidential-candidate-on-wednesday) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) says that its presidential candidate will be announced on Wednesday (Aug 07).
+
+However, many constituency meetings of the SLPP are passing resolutions in order to back incumbent President Ranil Wickremesinghe during the 2024 presidential election.
+
+In the meantime, State Minister of Finance Shehan Semasinghe has responded to the letter issued by the party’s General Secretary Sagara Kariyawasam stating that disciplinary action will be taken against SLPP members who defy the decision reached by its politburo regarding the upcoming election.
+
+Semasinghe has pointed out, in writing, that neither he nor the supporters of the SLPP are bound by the resolution passed by the party’s politburo on July 29.
+
+He has also stated that accordingly, actions will be taken against any disciplinary action that the party would seek against them and that they will not hesitate to make the right decisions in the face of the challenges that the country is currently facing.
+
+◼️
+
+[Data](articles/6a534483.json)
 
 ---
 
@@ -582,6 +630,8 @@ A bond maturing on 15.10.2030 closed at 12.75/85 percent, up from 12.70/85 perce
 
 [Data](articles/b51900cd.json)
 
+[Extended Data](ext_articles/b51900cd.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, amid continued election uncertainty
@@ -605,6 +655,8 @@ Foreign selling was seen on Nations Trust Bank (down at 120.00), and LOLC Holdin
 ...
 
 [Data](articles/c47be21f.json)
+
+[Extended Data](ext_articles/c47be21f.ext.json)
 
 ---
 
@@ -1051,6 +1103,8 @@ Bangladesh protesters gave the government 48 hours to meet a new set of demands 
 ...
 
 [Data](articles/43116054.json)
+
+[Extended Data](ext_articles/43116054.ext.json)
 
 ---
 
@@ -2269,51 +2323,5 @@ The US presidential election, the campaign for which has been going on forever, 
 [Data](articles/82ae0d1e.json)
 
 [Extended Data](ext_articles/82ae0d1e.ext.json)
-
----
-
-### Monster assembled from human flaws? Frankenstein would make a Trump
-
-*2024-08-05 10:57:00* · [`islandlk`](http://island.lk/monster-assembled-from-human-flaws-frankenstein-would-make-a-trump/) · `en`
-
-Someone asked “Why do some British people not like Donald Trump?” Nate White, an articulate and witty writer from England wrote the following response:A few things spring to mind. Trump lacks certain qualities which the British traditionally esteem. For instance, he has no class, no charm, no coolness, no credibility, no compassion, no wit, no warmth, no wisdom, no subtlety, no sensitivity, no self-awareness, no humility, no honour and no grace – all qualities, funnily enough, with which his predecessor Mr. Obama was generously blessed.
-
-So for us, the stark contrast does rather throw Trump’s limitations into embarrassingly sharp relief.
-
-Plus, we like a laugh. And while Trump may be laughable, he has never once said anything wry, witty or even faintly amusing – not once, ever.
-
-I don’t say that rhetorically, I mean it quite literally: not once, not ever. And that fact is particularly disturbing to the British sensibility – for us, to lack humour is almost inhuman.
-
-...
-
-[Data](articles/bd3da513.json)
-
-[Extended Data](ext_articles/bd3da513.ext.json)
-
----
-
-### President visits to resolve the salary anomalies of pensioners
-
-*2024-08-05 10:52:02* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ගේ-වැටුප්-විෂමතා-විසඳීමට-අදාළ-වාර්තාව-ජනපතිට/11-411197) · `si`
-
-President addresses salary issues affecting 100,000 retirees from public service (2016-2020). State Minister Dr. Ranjith Siyambalapitiya mentions a report on anomalies and a specialist committee led by the President to expedite solutions. The minister emphasizes the need to rectify injustices faced by retirees since 2016, highlighting discussions with the Joint Public Servants' Joint Organization and the submission of a finance ministry report to the President.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that the report prepared by the Salary Anomalies of Retired Public Workers.
-
-The Minister pointed out that there are about 100,000 employees who have retired from the public service between the 2016 -2020, the Minister removes all of these retired public servants' salary anomalyIt was stated that he is expected to provide the permanent expeditious solutions to do.
-
-The Minister further pointed out that the specialist committee headed by the President on the instructions of the President.
-
-The Minister pointed out that the retired public servants who have had the tremendous injustice of retired public servants in the year 2016-2016 that the retired public servants had been retired over the year 2016.
-
-The Minister said that he had discussed the matter with the Joint Public Servants' Joint Organization and the President said that the President had made a report from the Ministry of Finance and sent the report to the President.
-
-◼️
-
-[Data](articles/132841a0.json)
-
-[Extended Data](ext_articles/132841a0.ext.json)
 
 ---

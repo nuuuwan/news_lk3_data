@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 21:06:08**
+As of **2024-08-05 21:20:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,131 (100.0%) of 39,132 articles have been extended.
+39,132 (100.0%) of 39,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,21 +178,27 @@ At this juncture, a photo of a man built by a fighting car for former Bangladesh
 
 ---
 
-### ෂෙහාන්ගෙන් පොහොට්ටු මහ ලේකම්ට ලිපියක්
+### Shehan from buds to Secretary to the Secretary General
 
 *2024-08-05 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/ෂෙහාන්ගෙන්-පොහොට්ටු-මහ-ලේකම්ට-ලිපියක්/11-411216) · `si`
 
-තමන් රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීම පිළිබඳව ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් විනය ක්‍රියාමර්ග ගන්නේ නම් ඊට විරුද්ධව කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+Shehan Semasinghe, Minister of State, supports Ranil Wickremesinghe, stating all party members backed him during the 2022 economic crisis. This stance was communicated in a letter to the SLPF General Secretary, emphasizing individual freedom regarding party decisions.
 
-ශ්‍රී ලංකා පෙදුජන පෙරමුණේ මහලේකම් සාගර කාරියවසම් මහතාට ලිපියක් යොමු කරමින් මේ බව සඳහන් කර තිබේ. 2022 වසරේ පැවති ආර්ථික අර්බුදයේ දී ගනු ලැබූ තීන්දුවක් මත පක්ෂයේ සියලු මන්ත්‍රීවරු රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වූ බවත්, එසේ තිබිය දී මෙවර තීන්දු ගැනීමේ දී පක්ෂ අභ්‍යන්තර ප්‍රජාතන්ත්‍රවාදයට අනුකූල නොවන ආකාරයෙන් තීරණ ගෙන ඇති බව ද ඔහු සඳහන් කරයි.
+🟩
 
-එම තීන්දුව ගෙන ඇත්තේ අත්තනෝමතික ලෙස තෝරාපත් කරගත් දේශපාලන මණ්ඩලයක් විසින් යැයි ද සේමසිංහ මහතා පවසයි.
+Minister of State Shehan Semasinghe said that if the Sri Lanka General Front is taking action to support Mr. Ranil Wickremesinghe, he said.
 
-පක්ෂයේ කිහිප දෙනෙකුගේ පෞද්ගලික අරමුණු වෙනුවෙන් ගනු ලැබූ තීරණයක් වෙනුවෙන් තමන් හෝ පාක්ෂිකයන් බැඳී නොමැති බව ද හෙතෙම අදාළ ලිපිය ඔස්සේ සඳහන් කරයි.
+This is stated in a letter to the Sri Lanka Penuparangama Front (SLPF) General Secretary Sagara Kariyawasam. He also said that all members of the party supported Ranil Wickremesinghe in the 2322 economic crisis in the year-ended economic crisis.
+
+The verdict has taken the verdict by Mr. Semasinghe said.
+
+He said he or his supporters were not obliged to a decision taken by several party members.
 
 ◼️
 
 [Data](articles/35859980.json)
+
+[Extended Data](ext_articles/35859980.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 13:36:29**
+As of **2024-08-05 13:55:48**
 
 ## Newspaper Stats
 
-*Scraped **39,062** Articles*
+*Scraped **39,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,73 @@ adaderanalk | 4,530
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,888
 virakesarilk | 6,180
-adaderanasinhalalk | 6,599
+adaderanasinhalalk | 6,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,055 (100.0%) of 39,062 articles have been extended.
+39,062 (100.0%) of 39,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### பிரதமரை சந்தித்தார் இந்திய உயர்ஸ்தானிகர்
+### හිටපු JVP සාමාජිකයෙකුත් ජනපති සටනට
+
+*2024-08-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199583) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයකු ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී සිරිපාල අමරසිංහ මහතා වෙනුවෙන් අද (05) ඇප මුදල් තැන්පත් කෙරුණි.
+
+ඔහු ජනතා විමුක්ති පෙරමුණේ ගම්පහ දිස්ත්‍රික්කයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ද වේ.
+
+ඒ අනුව මේ දක්වා ඇප මුදල් භාරදී ඇති මුළු අපේක්ෂකයින් සංඛ්‍යාව 15කි.
+
+ඒ අතරින් දේශපාලන පක්ෂ මඟින් අපේක්ෂකයින් 9 දෙනෙක්ද, ස්වාධීන අපේක්ෂකයින් ලෙස 6 දෙනෙකුද ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/ca3f4816.json)
+
+---
+
+### Indian High Commissioner met Prime Minister
 
 *2024-08-05 13:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரை-சந்தித்தார்-இந்திய-உயர்ஸ்தானிகர்/175-341622) · `ta`
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, அலரிமாளிகையில் பிரதமர் தினேஷ் குணவர்தனவை இன்று (05) சந்தித்தார்.
+Santosh Ja, India's High Commissioner to Sri Lanka, met PM Dinesh Gunawardena to enhance bilateral ties, focusing on economic and cultural exchanges.
 
-இருவரும் இருதரப்பு உறவுகள் மற்றும் பொருளாதார மற்றும் கலா சார உறவுகளை மேலும் வலுப்படுத்துவதற்கான வழிகள் மற்றும் வழிமுறைகள் குறித்து கலந்துரையாடினர் என்று பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja met Prime Minister Dinesh Gunawardena today (05).
+
+The Prime Minister's Office said that the two had discussed ways and methods to further strengthen bilateral relations and economic and artistic relations.
 
 ◼️
 
 [Data](articles/b85381ad.json)
 
+[Extended Data](ext_articles/b85381ad.ext.json)
+
 ---
 
-### එංගලන්ත හිටපු  ක්‍රීඩක ග්‍රැහැම් තෝර්ප් අභාවප්‍රාප්ත වෙයි
+### England players Graham Turp passes away
 
 *2024-08-05 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199582) · `si`
 
-එංගලන්ත ක්‍රිකට් කණ්ඩායමේ හිටපු පිතිකරුවෙකු වන ග්‍රැහැම් තෝර්ප් අද (05)  අභාවප්‍රාප්ත විය.
+Graham Thorpe, a renowned English cricketer known for his batting skills, has tragically passed away. He served both the Test and one-day teams for over a decade, leaving behind a legacy in the sport.
 
-එංගලන්තයෙන් බිහිවූ විශිෂ්ට පිතිකරුවෙකු වන තෝර්ප්, වසර දහයකට වැඩි කාලයක් එරට වෙනුවෙන් ටෙස්ට් හා එක්දින කණ්ඩායම් නියෝජනය කර සිටියේය.
+🟩
+
+Graham Turp, a batsman of the England cricket team has passed away today (05).
+
+Thorp, an excellent batsman from England, represented Test and one-day groups for more than ten years.
 
 ◼️
 
 [Data](articles/f4809b9c.json)
+
+[Extended Data](ext_articles/f4809b9c.ext.json)
 
 ---
 
@@ -76,61 +106,87 @@ Gaza’s Civil Emergency Service said dozens were wounded in addition to the fat
 
 [Data](articles/101b2484.json)
 
+[Extended Data](ext_articles/101b2484.ext.json)
+
 ---
 
-### பறக்கும் மகிழ்ச்சி சோகத்தில் முடிந்தது
+### Flying happiness ended in sadness
 
 *2024-08-05 13:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பறக்கும்-மகிழ்ச்சி-சோகத்தில்-முடிந்தது/76-341621) · `ta`
 
-கொரியா நாட்டிற்கு செல்வதற்கு பாடநெறியினை  மேற்கொண்டு பரீட்சையில் சித்தியடைந்த 8 இளைஞர்களை கொண்ட குழுவொன்று தமது ஆசிரியருடன், பலாங்கொடை பம்பஹின்ன சமனலவெவ வாவியின் வான் கதவு அருகில் சென்று பரீட்சையில் சித்தியடைந்த மகிழ்ச்சியை ஞாயிற்றுக்கிழமை (04)  கொண்டாடியுள்ளனர்.
+A group of eight youths celebrating their success to study in Korea turned tragic when one of them, a 29-year-old named UM Kamal, drowned while swimming in the Bambahinnalawewa Wawy of Balangoda. Despite rescue attempts, he could not be saved. The incident occurred during a celebratory visit to the area with their teacher.
 
-கஹவத்த,வெலிகே பொல, பின்னவல,கொடகேவல பிரதேசத்தில் வசிக்கும் 8 இளைஞர்கள்   தமது ஆசிரியருடன் குறித்த பகுதிக்கு ஞாயிற்றுக்கிழமை (04) பிற்பகல் 2 மணியளவில்   சென்றுள்ளனர்.
+🟩
 
-அப்போது வென்னப்புவ பிரதேசத்தைச் சேர்ந்த 29 வயதுடைய யூ.எம்.கமல் பிரசங்க  நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+A group of eight youths who have passed the exam to go to Korea and passed the exam, with their teacher, celebrated the joy of passing the air door of the Bambahinnalawewa Wawy of Balangoda on Sunday (04).
 
-அங்கு சென்றிருந்த ஒன்பது பேரில் மூன்று பேர் அந்த இடத்தில் முதல் முறையாக நீராடச் சென்றதாகவும், மற்றைய நபர்கள்  நீராட  செல்லவில்லை என்று விசாரணையில் தெரியவந்தது  என  சமனலவெவ பொலிஸார் தெரிவித்தனர்.
+Eight youths living in Kahawatta, Welige Pol, Pinnawala and Kodagewewala area have visited the area with their teacher at around 2 pm on Sunday (04).
+
+At the time, 29 -year -old UM Kamal from Wennappuwa area was drowned.
+
+Samanalawewa police said that three of the nine people who had gone there had gone to the spot for the first time and that the other people did not go to the water.
+
+The other two tried to rescue him after one of the three drowned and their efforts were not worth it. With the help of the other two people who were traveling through the road, the youth was rescued and allowed to be taken to the Bambahinna area.
+
+The deceased young man has been studying from Kahawatta, to stay at his Siddhappa's home in Kodagewewala, Ratagewewala, to go to Korea.
 
 ...
 
 [Data](articles/7fb25deb.json)
 
+[Extended Data](ext_articles/7fb25deb.ext.json)
+
 ---
 
-### මැතිවරණ කොමිසමෙන් ඡන්දහිමියන්ට දැනුම්දීමක්
+### Notification for Election Commission
 
 *2024-08-05 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199581) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්දහිමියන්ට දිවයිනේ ඕනෑම ඡන්ද මධ්‍යස්ථානයකින් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ඇතැයි යනුවෙන් සංසරණය වන පුවත අසත්‍ය බව මැතිවරණ කොමිෂන් සභාව අවධාරණය කරයි.
+The Election Commission warns that the number of registered voters in the Naming Region for the Presidential Election may be incorrect. They clarify that voting can only occur at designated polling booths within the office of the post, not elsewhere. Additionally, postal voting is available for those who cannot attend in person, but it requires verification from an assurance officer. Voters will receive official notices with their names and assigned polling stations. The Commission reiterates that voting outside designated areas is prohibited.
 
-නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිසම පවසන්නේ, ඡන්දහිමියාට ඉදිරියේදී තැපෑලෙන් ලැබීමට නියමිත නිල ඡන්ද දැන්වීම්පතෙහි සඳහන් ඡන්ද පොළට පරිබාහිර ඡන්ද පොළකදී ඡන්දය ප්‍රකාශ කිරීමට කිසිවෙකුටත් අවකාශ නොමැති බවය.
+🟩
 
-මීට අමතරව තැපැල් ඡන්ද හිමිකම ඇති අයෙකුට තමාගේ සහතික කිරීමේ නිලධාරියාගේ කාර්යාලයේදී ඔහු ඉදිරියේ සිය ඡන්දය ප්‍රකාශ කිරීමේ හැකියාව පවතී.
+The Elections Commission emphasizes that the number of registered votes in the election list of the Naming Region to the Presidential Election will be false.
 
-2024 ඡන්දහිමි නාමලේඛනයේ ලියාපදිංචි ඡන්දහිමියන්ගේ ලිපිනය වෙත ඡන්දහිමියාගේ නම, ඡන්දය ප්‍රකාශ කළ හැකි ඡන්ද මධ්‍යස්ථානය සඳහන් කර නිල ඡන්ද දැන්වීම්පතක් තැපෑලෙන් ලැබෙනු ඇතැයි එහි සඳහන්ය.
+The Electoral Commission issues an announcement, no one has the polling booth to vote on the polling fair in the office of post.
 
-එහි සඳහන් ඡන්ද පොළට පරිබාහිර ඡන්ද පොළකදී ඡන්දය ප්‍රකාශ කිරීමට කිසිවෙකුටත් අවකාශ නොමැති බව මැතිවරණ කොමිසම අවධාරණය කරයි.
+In addition, a post-postal voting entitlement is the potential to vote in his assurance officer.
+
+The official notice of the voter's name, voter polling station will be sent by the name of the voter turnout of the voter registered voters in the electoral registered lists.
+
+The Elections Commission emphasizes that no one can vote at the polling fair.
 
 ◼️
 
 [Data](articles/2735af9c.json)
 
+[Extended Data](ext_articles/2735af9c.ext.json)
+
 ---
 
-### 5 பெண்களுடன் திருமணம்: 49 பெண்களிடம் தொடர்பு
+### Marriage with 5 women: 49 women contact
 
 *2024-08-05 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பெண்களுடன்-திருமணம்-49-பெண்களிடம்-தொடர்பு/175-341620) · `ta`
 
-ஐந்து பெண்களை திருமணம் செய்த நபரொருவர், 49 பெண்களுடன் தொடர்பில் இருப்பது கண்டறியப்பட்டுள்ளது. பெண்களை திருமணம் செய்து  அவர்களை ஏமாற்றி மோசடியில் ஈடுபட்டார் என்றக் குற்றச்சாட்டில் அந்த நபர் கைது செய்யப்பட்டுள்ளார்.
+A man from Odisha, Satyajit Samal, married five women under false pretenses, claiming to be a police officer. He cheated them out of significant sums, leading to his arrest after two victims reported him. Investigations uncovered he targeted young widows and divorced women via matrimonial sites, forcing them into marriage and extracting money and gifts. His lavish lifestyle was funded by these scams, until his arrest, which included seizing assets and freezing his bank accounts.
 
-ஒடிசா மாநிலம் ஜாஜ்பூர் மாவட்டத்தைச் சேர்ந்தவர் சத்யஜித் சமால். 34 வயதான இவர், தான் ஒரு பொலிஸ் அதிகாரி என ஏமாற்றி 5 பெண்களை திருமணம் செய்துள்ளார். அவர்களிடமிருந்து லட்சக்கணக்கில் பணம் வாங்கி சொகுசு வாழ்க்கை வாழ்ந்து வந்துள்ளார்.
+🟩
 
-சமாலால் ஏமாற்றப்பட்ட இரு பெண்கள், காவல் நிலையத்தில் தனித்தனி புகார் அளித்தனர். இந்த புகாரின் அடிப்படையில் பொலிஸார் விசாரணை நடத்தி சமாலை கைதுசெய்தனர். குறிப்பாக, சமாலை கைதுசெ
+A person who married five women has been found to be in touch with 49 women. The man has been arrested on charges of marrying women and cheating on them.
 
-ய்ய பொலிஸார், ஒரு பெண் அதிகாரியை பயன்படுத்தி பொறி வைத்தனர். அந்த பெண் அதிகாரியை திருமணம் தொடர்பாக சமால் சந்திக்க வந்தபோது அவரை பொலிஸார் கைதுசெய்தனர்.
+Satyajit Samal hails from Jajpur district of Odisha State. The 34 -year -old is married to 5 women who cheated as a police officer. He has been living a luxury life from them.
+
+Two women who were cheated by Samal filed separate complaints at the police station. Based on the complaint, the police investigated and arrested Samalai. In particular, Samalai arrests
+
+Yya police trapped using a female officer. When Samal came to meet the woman, she was arrested by the police.
+
+Investigations conducted by the police to the arrested Samal revealed shocking reports. That is, Samal has spoken to them as a police officer targeting young widows and divorce through marriage sites.
 
 ...
 
 [Data](articles/301621b3.json)
+
+[Extended Data](ext_articles/301621b3.ext.json)
 
 ---
 
@@ -450,23 +506,27 @@ The first Kumbal Perahera is slated to take to streets on August 10, following t
 
 ---
 
-### ආණ්ඩුවට සරල බහුතරය තිබෙනවා
+### The government has a simple majority
 
 *2024-08-05 11:05:30* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-සරල-බහුතරය-තිබෙනවා/11-411198) · `si`
 
-ආණ්ඩුවට සරල බහුතරය තිබෙන බැවින් ඉදිරි මාස දෙක,තුන  රජය පවත්වාගෙන යාම ගැටලුවක් නොවන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+The government, led by Urban Development and Housing Minister Prasanna Ranatunga, claims a simple majority for the next two months. He emphasizes the importance of making correct decisions to avoid leaving the party only two to three times. The minister criticizes focusing on personal agendas over national concerns, highlighting the party's support for Ranil Wickremesinghe over Dullas Alahapperuma due to lack of experience. He expresses concern over the potential consequences of experimenting with inexperienced candidates, suggesting that such moves could lead to unrest. The minister also discusses the party's history, its connection to Mr. Mahinda Rajapaksa, and the challenges of navigating a new political landscape without compromising the party's principles.
 
-එමෙන්ම අමාත්‍යවරයා අවධාරණය කරන්නේ පක්ෂය නිවැරදි තීන්දුව නොගතහොත් ශ්‍රී ලංකා පොදුජන පෙරමුණට දෙතුන් දෙනෙකු පමණක් ඉතිරි වනු ඇති බවයි.
+🟩
 
-දිවුලපිටිය ආසනයේ ඊයේ (4) පැවති උත්සවයකින් පසුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+The Chief Organizer of the Government Whip Prasanna Ranatunga says that the government has a simple majority of the majority of the next two months, the government organizer, Urban Development and Housing Minister Prasanna Ranatunga.
 
-පිළිතුර- මම දන්න විදියට මාව දිස්ත්‍රික්කයේ මැතිවරණ මෙහෙයුමෙන් ඉවත්කර තිබෙනවා.ඒක සාධාරණයි. මොකද  අපි පොහොට්ටුවේ අපේක්ෂකයාට සහය දෙන්න නෑ.  මම රට ගැන හිතල  තීන්දුවක් ගත්තා. මම මගේ තීන්දුවේ ඉන්නවා.
+The Minister emphasizes that the party will leave only two to three times if the party does not take the correct decision.
 
-පිළිතුර- තම තමන්ගේ පුද්ගලික න්‍යාය පත්‍රවලට වැඩ කරන කොට රට ගැන හිතන්න බැහැ.අද පක්ෂයට වෙලා තියෙන්නේ එහෙම දෙයක්. රට ගැන කැක්කුමක් තිබුණනම් 2022දි පක්ෂයේ නායකත්වය වෙන කෙනෙක්ට දෙන්න තිබුණා. ඩලස් අලහප්පෙරුම ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් වෙනකොට අපේ නායකයෝ එයාට සහය දුන්නේ නෑ. මොකද ඔහුට ඒ අත්දැකීම නැති නිසා. ඒ නිසා රනිල් වික්‍රමසිංහ මහතාට සහය දෙන්න තීරණය කළේ අපේ නායකයන්.
+Speaking to the media after a function held in the Divulapitiya electorate, the minister said.
+
+Answer: I know, I have been removed from the election campaign in the district.. Because we do not support the candidate in the pointer.I took a verdict on the country. I'm on my verdict.
 
 ...
 
 [Data](articles/15f35c70.json)
+
+[Extended Data](ext_articles/15f35c70.ext.json)
 
 ---
 
@@ -2257,25 +2317,5 @@ Students jumped into the struggle, demanding the selection of government employe
 [Data](articles/d99bb097.json)
 
 [Extended Data](ext_articles/d99bb097.ext.json)
-
----
-
-### A wooden fell on the car
-
-*2024-08-04 19:27:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரமொன்று-காரின்-மீது-விழுந்தது/76-341579) · `ta`
-
-On Sunday afternoon, a large tree fell onto a car parked on a roadside in Badulla, causing it to collapse but leaving the occupants uninjured.
-
-🟩
-
-Badulla police said that a massive tree fell on the car on Sunday afternoon (04) in the city of Badulla, Badulla.
-
-The car was collapsed on the road of a roadside road near the Badulla Keppipola Mawatha road in Badulla on Sunday afternoon (04) and no one was injured in the car.
-
-◼️
-
-[Data](articles/b78c2d8f.json)
-
-[Extended Data](ext_articles/b78c2d8f.ext.json)
 
 ---

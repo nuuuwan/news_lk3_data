@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 08:17:27**
+As of **2024-08-05 08:25:31**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,590
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,010 (100.0%) of 39,011 articles have been extended.
+39,011 (100.0%) of 39,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අදින් අවසන්
+### Postal voting applications relating to presidential election is over
 
 *2024-08-05 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199573) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමත් සමග තැපැල් ඡන්දය සඳහා අයදුම්පත් කැදවීමේ චක්‍රලේඛය මැතිවරණ කොමිසන් සභාව විසින් ප්‍රකාශයට පත් කර ඇත.
+The deadline for postal voting applications in the upcoming presidential election has passed. Despite rumors spread via social media about an extension, the Elections Commission confirms that postal voting concludes today and will not be delayed further. Voters seeking information should visit www.elections.gov.lk. Additionally, media heads were summoned to a meeting at the Election Commission office in Rajagiriya today, following a special discussion held last Saturday.
 
-මැතිවරණ කොමිසන් සභාවේ නිල වෙබ් අඩවියේ තමන්ගේ ලියාපදිංචියට අදාළ තොරතුරුවලට අනුව තැපැල් ඡන්ද අයදුම්පත් සම්පූර්ණ කර ස්වකීය ආයතනයේ සහතික කිරීමේ නිලධාරියා මගින් අද දිනට ප්‍රථම ඡන්ද හිමි නාමලේකනයේ නම සදහන් දිස්ත්‍රික්කයේ, දිස්ත්‍රික් මැතිවරණ කාර්යාලය වෙත යොමු කරන ලෙස මැතිවරණ කොමිසන් සභාව සදහන් කර තිබුණි.
+🟩
 
-කෙසේවෙතත් තැපැල් ඡන්ද අයදුම්පත් භාර ගැනීමේ දිනය දීර්ඝ කර ඇති බවට සමාජ මාධ්‍ය ඔස්සේ විවිධ තොරතුරු සංසරණය වූ අතර ඒවා සම්පූර්ණයෙන්ම අසත්‍ය බව ද කොමිසම වැඩිදුරටත් දන්වා සිටියි.
+With the announcing the presidential election, the Elections Commission has published the current circular for postal voting applications.
 
-ඒ අනුව තැපැල් ඡන්ද භාර ගැනීම අදින් අවසන් වන අතර, කිසිදු හේතුවක් මත එය කල් නොදැමෙන බව ද මැතිවරණ කොමිසම පවසයි.
+The Elections Commission states that the Election Commission (Elections Commission) has to address the District Election Office to the District Election Office today to complete the name of postal voting applications.
 
-තැපැල් ඡන්ද අයදුම්කරුවන්ට හා අනෙකුත් ඡන්ද දායකයින්ට www..elections.gov.lk වෙබ් අඩවියට පිවිසීමෙන් තොරතුරු ලබා ගත හැකිය.
+However, the Commission has circulated various information through social media that the postal voting application date has been extended.
 
-මේ අතර එළඹෙන ජනාධිපතිවරණයට අදාළ ව මාධ්‍ය ආයතන ප්‍රධානීන් අද මැතිවරණ කොමිසම වෙත කැඳවා තිබේ.
+Accordingly, the postal voting is concluded today and the Elections Commission says that it will not be postponed for any reason.
+
+Postal voting candidates and other voters can obtain information by visiting www.elections.gov.lk
+
+Meanwhile, the heads of media institutions have been summoned to the Election Commission today.
+
+The meeting is scheduled to be held at the Elections Commission Office at Rajagiriya this morning.
 
 ...
 
 [Data](articles/fce88692.json)
+
+[Extended Data](ext_articles/fce88692.ext.json)
 
 ---
 

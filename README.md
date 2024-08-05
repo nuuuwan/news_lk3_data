@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 23:56:03**
+As of **2024-08-06 00:09:23**
 
 ## Newspaper Stats
 
-*Scraped **39,159** Articles*
+*Scraped **39,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 2,506
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,905
-virakesarilk | 6,199
+tamilmirrorlk | 4,906
+virakesarilk | 6,201
 adaderanasinhalalk | 6,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,158 (100.0%) of 39,159 articles have been extended.
+39,159 (100.0%) of 39,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### தேர்தல் சட்டம் மீறல் தொடர்பில் அதுவரை 60முறைப்பாடுகள் பதிவாகியுள்ளன - பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி
+
+*2024-08-05 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190373) · `ta`
+
+ஜனாதிபதி தேர்தல் தொடர்பில் சுமார்  60 முறைப்பாடுகள் இதுவரை கிடைக்கப்பெற்றுள்ளன. இவற்றில் அநேகமானவை, அரச அதிகாரம் மற்றும் அரச சொத்துக்களை துஷ்பிரயோகம் செய்துவருகின்றமை தொடர்பானவையாகும் என பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டது முதல் இதுவரை கிடைக்கப்பெற்றுள்ள தேர்தல் சட்ட மீறல் தொடர்பான முறைப்பாடுகள் தொடர்பில் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தல் தொடர்பில் சுமார்  60 முறைப்பாடுகள் இதுவரை கிடைக்கப்பெற்றுள்ளன. இந்த முறைப்பாடுகளில் அநேகமானவை, அரச அதிகாரம் மற்றும் அரச சொத்துக்களை துஷ்பிரயோகம் செய்துவருகின்றமை தொடர்பானவையாகும். இந்த முறைப்பாடுகள் பொதுவாக அனைத்து தரப்பினருக்கும் பாதிப்பை ஏற்படுத்தும் சம்பவங்களாகும்.
+
+அதேபோன்று மக்களுக்கு விநியோக நடவடிக்கை, நியமனம் வழங்கல் மற்றும் இடமாற்றத்துக்கு மேலதிகமாக அரசியல் நோக்கில் சில நிறுவனங்களில் தலைவர்கள், கூட்டுத்தாபனங்களின் பிரதானிகள் நீக்கப்பட்டுள்ளமை தொடர்பிலும் எமக்கு முறைப்பாடு கிடைக்கப்பெற்றுள்ளது.
+
+...
+
+[Data](articles/0b0d10ec.json)
+
+---
+
+### ரணிலின் வெற்றிக்காக தீவிரமான செயற்படுகள் ஆரம்பம்
+
+*2024-08-05 23:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றிக்காக-தீவிரமான-செயற்படுகள்-ஆரம்பம்/175-341658) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி உத்தியோகபூர்வமாக தீர்மானித்துள்ளது. அந்த தீர்மானத்தை எமது கட்சியின் தலைவர் நிமல் சிறிபால டி சில்வா மற்றும் செயலாளர் நாயகம் பாராளுமன்ற உறுப்பினர் துமிந்த சில்வா உட்பட கட்சியின் அதிகாரிகள் மட்டுமன்றி சு.கவை பிரதிநிதித்துவப்படுத்தி பொதுஜன பெரமுனவின் கீழ் பாராளுமன்றத்திற்கு தெரிவான 14 உறுப்பினர்களில் 08 உறுப்பினர்கள் இந்த தீர்மானத்திற்கு இணக்கம் தெரிவித்துள்ளதாக போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+
+அத்தோடு அகில இலங்கை நிறைவேற்று சபையிலுள்ள 90% உடன்பாட்டுடன் இந்த முடிவு எடுக்கப்பட்டது . எனவே ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பலமான ஏற்பாட்டு வலையமைப்பு தற்போதே தீவிரமாக செயற்பட ஆரம்பித்துள்ளது” என்றும் அவர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (05) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண இதனைக் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/c12e05d8.json)
+
+---
+
+### வேட்புமனு தாக்கலின் பின் வேட்பாளர்களுக்கு விசேட பாதுகாப்பு - பொதுமக்கள் பாதுகாப்பு அமைச்சு
+
+*2024-08-05 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190372) · `ta`
+
+...
+
+[Data](articles/f3a4016c.json)
+
+---
 
 ### Umachandra Prakash appointed as the Chief Organizer of the Northern Province of the United People's Power
 
@@ -764,21 +808,27 @@ Amid subsequent political moves, the protesters entered the Prime Minister's off
 
 ---
 
-### වතු කම්කරු වැටුප් වැඩි කිරීමට එරෙහි පෙත්සම විභාගයට
+### Petition against increasing plantation workers' salaries
 
 *2024-08-05 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-කිරීමට-එරෙහි-පෙත්සම-විභාගයට/11-411215) · `si`
 
-වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට රජයේ තීරණයට එරෙහිව වතු සමාගම් ගොනු කර ඇති පෙත්සම විභාග කිරීමට අභියාචනාධිකරණය අද (05දා) තීරණය කළේය.
+The Court of Appeal will review a petition challenging the government's decision to raise plantation workers' salaries. The petitioners, including Balangoda Plantations and 21 Estate Companies, argue against the salary hike. The Minister of Labor is named as a respondent. Despite the withdrawal of the gazette notification related to the salary increase, the court has agreed to consider the petition, ensuring both sides have a chance to present their arguments.
 
-වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් නිකුත් කළ ගැසට් නිවේදනය ඉවත් කර ඇති හෙයින් පෙත්සම පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් නැතැයි කම්කරු අමාත්‍යවරයා වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දුන්නත් බලන්ගොඩ වැවිලි සමාගම ඇතුළු වතු සමාගම් 21 වෙනුවෙන් පෙනී සිටි නීතිඥවරයා ගැසට් නිවේදනය ඉල්ලා අස්කර ගත්තත් ඒ සම්බන්ධයෙන් තවත් නඩු ගණනාවක් ඇති හෙයින් අදාළ ගැසට් නිවේදනය බලරහිත කරන්නැයි කළ ඉල්ලීමක් පිළිගනිමින් පෙත්සම විභාග කිරීමට අභියාචනාධිකරණය තීරණය කළේය.
+🟩
 
-බලන්ගොඩ වැවිලි සමාගම ඇතුළු වතු සමාගම් 21 ගොනු කර තිබූ පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් කම්කරු අමාත්‍යවරයා ඇතුළු පිරිසන් නම් කර ඇත.
+The Court of Appeal today (05), the Court of Appeal has decided to hear the petition filed against the government decision to increase the salaries of plantation workers.
 
-පෙත්සම කැඳවූ අවස්ථාවේදී කම්කරු අමාත්‍යවරයා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා කරුණු දක්වමින් වතු කම්කරුවන්ගේ වැටුප් වැඩි කරමින් නිකුත් කළ ගැසට් නිවේදනය මේ වන විට ඉවත් කර ඇති බවත් ඒ අනුව පෙත්සම ඉදිරියට පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් නොමැති බවත් කීය.
+The Gazette notification that the gazette notified of plantation workers were removed, the lawyer who appeared to the court was not informed of the petition, the lawyer who appeared on behalf of the 21 estate companies, the lawyer who appeared for the 21 estate companies withdrawn because there were many other cases on the gazette notificationThe Court of Appeal decided to examine the petition, accepting a request made to pose a request to pose a demand for the relevant gazette notification.
+
+The Minister of Labor has been named as respondents in the petitions filed by Balangoda Plantations and 21 Estate Companies.
+
+Attorney-at-Law Faizer Mustapha that appeared on behalf of the Minister of Labor Faizer, said that the petition was taken up when the petition was taken up.
 
 ...
 
 [Data](articles/1a9dfedc.json)
+
+[Extended Data](ext_articles/1a9dfedc.ext.json)
 
 ---
 
@@ -2287,67 +2337,5 @@ In preparation for the upcoming election, the Commission will send official ball
 [Data](articles/dc858e36.json)
 
 [Extended Data](ext_articles/dc858e36.ext.json)
-
----
-
-### Ivar arrested for stealing
-
-*2024-08-05 12:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகு-திருடிய-ஐவர்-கைது/175-341619) · `ta`
-
-In Ratmalana and Piliyandala, five individuals aged 22-29 were arrested for stealing iron blocks and screw connections worth Rs 4 lakh from parked trains. Railway security apprehended two more for possessing stolen iron equipment.
-
-🟩
-
-Five people have been arrested on charges of stealing screw connections in recently parked train compartments to railway stations.
-
-The headquarters of Kalkis said that five persons have been arrested on charges of stealing iron blocks worth Rs 4 lakh from the railway boxes parked on the Ratmalana railway track.
-
-Railway security officers arrested two iron equipment and handed over to the police.
-
-Police said the suspects had stolen two screws used to connect two train compartments.
-
-The arrested suspects are workers between the ages of 22 and 29 living in Ratmalana and Piliyandala areas.
-
-◼️
-
-[Data](articles/7ee17699.json)
-
-[Extended Data](ext_articles/7ee17699.ext.json)
-
----
-
-### AKD’s Visionary Address At The 2024 National Teachers’ Convention
-
-*2024-08-05 12:30:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-visionary-address-at-the-2024-national-teachers-convention/) · `en`
-
-This was the Annual Convention of the Government Teachers and Principals Association, which was held at the P.D. Sirisena Stadium, Maligawatta in Colombo. It was a massive gathering of over 15,000 teachers from across the island, making it probably the largest crowd in Sri Lankan history.
-
-Anura Kumara Dissanayake’s exceptional delivery during the 2024 Presidential Election emphasized many vital issues related to the country’s development, particularly focusing on the importance of improving the state education system, which is currently on the verge of deteriorating. The full speech lasted nearly an hour, and he demonstrated his unique talent for delivering speeches by merely referring to footnotes—an ability that many politicians lack. A notable aspect of his delivery was that he did not politically antagonize anyone.
-
-...
-
-[Data](articles/bcef3b71.json)
-
-[Extended Data](ext_articles/bcef3b71.ext.json)
-
----
-
-### Elections Commission is a special announcement
-
-*2024-08-05 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිෂමෙන්-විශේෂ-නිවේදනයක්/11-411203) · `si`
-
-The Elections Commission announced that voters can only cast ballots for their registered parties, emphasizing no decisions have been made yet regarding the election results.
-
-🟩
-
-The Elections Commission has issued an announcement in the media and social media that registered votes in the election list of the electoral regions in the presidential election.
-
-No decision has been taken and that they can vote can only vote for the votes by their registered party and further announced the election commission.
-
-◼️
-
-[Data](articles/940fb22d.json)
-
-[Extended Data](ext_articles/940fb22d.ext.json)
 
 ---

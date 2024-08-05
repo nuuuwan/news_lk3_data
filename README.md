@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 13:55:48**
+As of **2024-08-05 14:08:31**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,062 (100.0%) of 39,063 articles have been extended.
+39,063 (100.0%) of 39,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### හිටපු JVP සාමාජිකයෙකුත් ජනපති සටනට
+### Former JVP member also fights
 
 *2024-08-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199583) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයකු ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී සිරිපාල අමරසිංහ මහතා වෙනුවෙන් අද (05) ඇප මුදල් තැන්පත් කෙරුණි.
+Siripala Amarasinghe, a former JVP parliamentarian, submitted his candidacy for the upcoming presidential election, bringing the total number of candidates to 15, including nine party-affiliated and six independents.
 
-ඔහු ජනතා විමුක්ති පෙරමුණේ ගම්පහ දිස්ත්‍රික්කයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ද වේ.
+🟩
 
-ඒ අනුව මේ දක්වා ඇප මුදල් භාරදී ඇති මුළු අපේක්ෂකයින් සංඛ්‍යාව 15කි.
+Former Parliamentarian Siripala Amarasinghe was deposited for the next presidential election today (05).
 
-ඒ අතරින් දේශපාලන පක්ෂ මඟින් අපේක්ෂකයින් 9 දෙනෙක්ද, ස්වාධීන අපේක්ෂකයින් ලෙස 6 දෙනෙකුද ඇප මුදල් තැන්පත් කර තිබේ.
+He is also a former parliamentarian in the JVP in the JVP.
+
+Accordingly, the total number of candidates have handed over to date is 15.
+
+Among them are nine candidates and six as independent candidates, six.
 
 ◼️
 
 [Data](articles/ca3f4816.json)
+
+[Extended Data](ext_articles/ca3f4816.ext.json)
 
 ---
 

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 18:55:33**
+As of **2024-08-05 19:06:24**
 
 ## Newspaper Stats
 
-*Scraped **39,116** Articles*
+*Scraped **39,118** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
-colombotelegraphcom | 371
+colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,590
+adalk | 3,591
 adaderanalk | 4,542
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,897
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,113 (100.0%) of 39,116 articles have been extended.
+39,116 (100.0%) of 39,118 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,43 +48,77 @@ Furthermore, the election regulatory body highlighted that the deadline for acce
 
 [Data](articles/ff2d2c58.json)
 
+[Extended Data](ext_articles/ff2d2c58.ext.json)
+
 ---
 
-### තැපැල් ඡන්ද අයදුම්පත් භාරගන්නා කාලය දීර්ඝ කෙරේ
+### Postal voting applications extended
 
 *2024-08-05 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199595) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමත් සමග තැපැල් ඡන්දය සඳහා අයදුම්පත් කැඳවීමේ කාල සීමාව දීර්ඝ කර තිබේ.
+The deadline for postal voting applications has been extended until midnight today due to the upcoming presidential election. Applications must be submitted to the District Election Office by August 9th. It's advised to submit them in person to ensure timely processing.
 
-නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමසාරිස් ජනරාල්, සමන් ශ්‍රී රත්නායක මහතා සඳහන් කර ඇත්තේ, අද (05) මධ්‍යම රාත්‍රී 12න් අවසන් වීමට තිබූ තැපැල් ඡන්ද අයදුම්පත් භාරගැනීමේ කාලය අගෝස්තු මස 9 වන සිකුරාදා මධ්‍යම රාත්‍රී 12 තෙක් දීර්ඝ කර ඇති බවය.
+🟩
 
-ඒ අනුව අයදුම්පත් අගෝස්තු 9 වනදා මධ්‍යම රාත්‍රී 12ට පෙර දිස්ත්‍රික් මැතිවරණ කාර්යාලය වෙත ලැබීය යුතු වේ.
+With the announcing the presidential election, the time period for postal voting has been extended.
 
-අයදුම්පත් ලැබීමේ දී සිදුවිය හැකි ප්‍රමාදය වළක්වා ගැනීම සඳහා අගෝස්තු 8 සහ 9 යන දෙදින තුළ සම්පූර්ණ කරන තැපැල් ඡන්ද අයදුම්පත් තැපෑලට භාරදීමෙන් වැළකී ඒවා එක් එක් දිස්ත්‍රික්කය අනුව වෙන්කර වෙන වෙනම කවරවල බහා සහතික කිරීමේ නිලධාරී කාර්යාලය පිහිටි දිස්ත්‍රික්කයේ දිස්ත්‍රික් මැතිවරණ කාර්යාලයට අතින් ගෙනැවිත් භාරදීමට කටයුතු කිරීම වඩාත් යෝග්‍ය බවද මැතිවරණ කොමසාරිස් ජනරාල්වරයා නිවේදනය කරයි.
+Elections Commissioner General of Elections, Saman Sri Ratnayake, has been extended to the 12 midnight in midnight today (05).
+
+Applications should be paid to the District Election Office before the 9th of August.
+
+It is best to bring the postal voting applications to the District Election Office in the district of each district to avoid the delay in the receipt of applications.The Commissioner General of Elections Announced.
 
 ◼️
 
 [Data](articles/69c0ce30.json)
 
+[Extended Data](ext_articles/69c0ce30.ext.json)
+
 ---
 
-### ඇප තැබූ පිරිස 17ක් දක්වා ඉහළට
+### 17 suspects up to 17
 
 *2024-08-05 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199594) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 17 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission confirmed 17 candidates for the upcoming Presidential election, including Ranil Wickremesinghe, Sarath Keerthirath, and others who have posted bail. Additionally, Field Marshal Sarath Fonseka, a former parliamentarian, and Dr. Kr K.R from the Arunal People's Front have also submitted bail to run as independent candidates.
 
-ඒ අනුව මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස, පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක, විජයදාස රාජපක්ෂ, කේ.කේ. පියදාස, සිරිතුංග ජයසූරිය, අජන්ත ද සොයිසා, කේ. ආනන්ද කුලරත්න, සරත් මනමේන්ද්‍ර, පූජ්‍ය බත්තරමුල්ලේ සීලරතන හිමි සහ අක්මීමන දයාරතන හිමි යන අය විසින් මෙලෙස ඇප මුදල් තැන්පත් කර ඇත.
+🟩
 
-මේ අතර ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ස්වාධීන අපේක්ෂකයෙකු ලෙස අද (05) දහවල් ඇප මුදල් තැන්පත් කළේය.
+The Elections Commission announced that 17 candidates have been paid to the Presidential election.
 
-ඒකාබද්ධ ස්වාධීන වෘත්තීය සමිති කේන්ද්‍රය නියෝජනය කරමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන සිරිපාල අමරසිංහ මහතා ද ස්වාධීන අපේක්ෂකයෙකු ලෙස අද ඇප මුදල් තැන්පත් කළ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa, P. W. S. K. Bandaranaike, Wijeyadasa Rajapakse, KK. Piyadasa, Sirithunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Ven. Battaramulla Seelarathana Thera and Akmeemana Dayaratana Thera were bailed.
 
-එමෙන්ම අරුණළු ජනතා පෙරමුණ වෙනුවෙන් එහි ලේකම් වෛද්‍ය කේ.ආර්. කිෂාන් මහතා ද ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+Meanwhile, Field Marshal Sarath Fonseka lodged a bail afternoon as an independent candidate today (05).
+
+Former parliamentarian representing the Joint Independent Trade Union Center, a former parliamentarian, deposited as an independent candidate, "Ada Derana reporter said.
+
+Also, its secretary Dr. Kr K.R for the Arunal People's Front. Mr. Kishan has also deposited bail to contest the presidential election.
 
 ◼️
 
 [Data](articles/093d8703.json)
+
+[Extended Data](ext_articles/093d8703.ext.json)
+
+---
+
+### මාතර බන්ධනාගාරයේ කළ විශේෂ මෙහෙයුම
+
+*2024-08-05 17:56:22* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-බන්ධනාගාරයේ-කළ-විශේෂ-මෙහෙයුම/11-411210) · `si`
+
+මාතර බන්ධනාගාරය තුල ඊයේ (04) සිදු කල විශේෂ සෝදිසි මෙහෙයුමකදී රැදවියන් සගවා ගෙන තිබු බව කියන ජංගම දුරකතන 19 ක් හා උපාංගද අයිස් මත්ද්‍රව්‍ය පැකට් 07 ක්ද සොයාගත් බව බන්ධනාගාර ප්‍රකාශකයකු පැවසීය.
+
+බන්ධනාගාරයේ වාට්ටු තුනක තිබී ඒවා හමුවී ඇත. ඊට අමතරව ජංගම දුරකතන බැටරි 18 ක් සිම්පත් 09 ක්ද සොයා ගෙන තිබේ.
+
+මාතර බන්ධනාගාරයේ අධිකාරී මංගල වැලිවිටිය මහතාගේ දැනුම්දීම මත කොලඹ බන්ධනාගාර මූලස්ථානයේ විශේෂ විමර්ශන කණ්ඩායමක් පැමිණ මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කර තිබෙන බව දැනගන්නට ඇත.
+
+කිසිවෙකුටත් නොදන්වා ක්ෂණිකව මෙම සෝදිසිය සිදු කිරීම නිසා එය සාර්ථකවු බව කියති.
+
+එම ජංගම දුරකථන හා උපාංගද මත්ද්‍රව්‍ය පැකට් බන්ධනාගාරය තුලට රැගෙන ආ ආකාරය සෙවීම සදහා පුළුල් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/2780e09d.json)
 
 ---
 
@@ -1306,6 +1340,20 @@ The arrested suspects are workers between the ages of 22 and 29 living in Ratmal
 
 ---
 
+### AKD’s Visionary Address At The 2024 National Teachers’ Convention
+
+*2024-08-05 12:30:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-visionary-address-at-the-2024-national-teachers-convention/) · `en`
+
+This was the Annual Convention of the Government Teachers and Principals Association, which was held at the P.D. Sirisena Stadium, Maligawatta in Colombo. It was a massive gathering of over 15,000 teachers from across the island, making it probably the largest crowd in Sri Lankan history.
+
+Anura Kumara Dissanayake’s exceptional delivery during the 2024 Presidential Election emphasized many vital issues related to the country’s development, particularly focusing on the importance of improving the state education system, which is currently on the verge of deteriorating. The full speech lasted nearly an hour, and he demonstrated his unique talent for delivering speeches by merely referring to footnotes—an ability that many politicians lack. A notable aspect of his delivery was that he did not politically antagonize anyone.
+
+...
+
+[Data](articles/bcef3b71.json)
+
+---
+
 ### Elections Commission is a special announcement
 
 *2024-08-05 12:28:54* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිෂමෙන්-විශේෂ-නිවේදනයක්/11-411203) · `si`
@@ -2257,55 +2305,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/4f4fa92a.json)
 
 [Extended Data](ext_articles/4f4fa92a.ext.json)
-
----
-
-### The main question was resolved in June
-
-*2024-08-05 08:51:16* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-ප්‍රශ්නය-ජුනි-මාසයේදී-විසඳා-ගත්තා/11-411195) · `si`
-
-In June, President Ranil Wickremesinghe addressed the ethnic issue, stating it had been permanently solved. He spoke at a Uthayan newspaper meeting in Jaffna, where he also engaged in a friendly discussion with journalists. The President highlighted resolving the country's financial crisis as a significant achievement. He emphasized unity among young people in the North and South, aiming to bolster provincial councils' strength.
-
-🟩
-
-President Ranil Wickremesinghe said that the ethnic problem was awarded to a permanent solution to the ethnic problem, President Ranil Wickremesinghe said.
-
-The President was speaking at a meeting with the staff at Uthayan newspaper in Jaffna. A group of other journalists in the province were also present.
-
-President Ranil Wickremesinghe joined the visit to the visit.
-
-The Chief Executive Officer of Uthayan newspaper MP E. Solisan and Chief Author. The presidential election including Prabhakaran was honored with respect.
-
-The President then joined a friendly speech with journalists, the President also gave positive answers to several questions they raised.
-
-The President has said that the main problem of the country was able to resolve the country from bankruptcy in June, he said.
-
-The President said that the primary demands of the youth who met the visit to Jaffna over the past two days is not a difference in the expectations of young people in the North and South.
-
-...
-
-[Data](articles/6ad8990a.json)
-
-[Extended Data](ext_articles/6ad8990a.ext.json)
-
----
-
-### Paris 2024: Aruna Darshana qualified for the semifinals
-
-*2024-08-05 08:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதி-பெற்ற-அருண-தர்ஷன/44-341603) · `ta`
-
-Aruna Darshana advanced to the 400-meter run semifinals at the 2024 Paris Olympics, clocking 44.99 seconds in the qualifying round.
-
-🟩
-
-Aruna Darshana has qualified for the semifinals of the Men's Men's Men's 400 -meter run in the 2024 Olympics in France.
-
-Darshana qualified for the semifinals in the qualifying round of the qualifying round on Sunday (04) in 44 seconds and 99 ml seconds.
-
-◼️
-
-[Data](articles/62fbe661.json)
-
-[Extended Data](ext_articles/62fbe661.ext.json)
 
 ---

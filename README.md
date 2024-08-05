@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 00:09:23**
+As of **2024-08-06 00:20:57**
 
 ## Newspaper Stats
 
@@ -26,53 +26,75 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,159 (100.0%) of 39,162 articles have been extended.
+39,162 (100.0%) of 39,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### தேர்தல் சட்டம் மீறல் தொடர்பில் அதுவரை 60முறைப்பாடுகள் பதிவாகியுள்ளன - பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி
+### 60 complaints have been reported on the violation of the election law - the Executive Director of the February Organization
 
 *2024-08-05 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190373) · `ta`
 
-ஜனாதிபதி தேர்தல் தொடர்பில் சுமார்  60 முறைப்பாடுகள் இதுவரை கிடைக்கப்பெற்றுள்ளன. இவற்றில் அநேகமானவை, அரச அதிகாரம் மற்றும் அரச சொத்துக்களை துஷ்பிரயோகம் செய்துவருகின்றமை தொடர்பானவையாகும் என பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்தார்.
+Rohana Hettiarachchi, the Executive Director of the February Organization, revealed that approximately 60 complaints have been lodged concerning violations of election laws during the presidential election. These complaints primarily revolve around the misuse of state authority and resources. Additionally, there were issues related to the removal of leaders from certain institutions, the initiation of development projects, and the reassignment of personnel, which could potentially influence political parties or candidates unfairly. Hettiarachchi emphasized the importance of public servants refraining from engaging in political activities while still employed, highlighting the need for adherence to electoral laws.
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டது முதல் இதுவரை கிடைக்கப்பெற்றுள்ள தேர்தல் சட்ட மீறல் தொடர்பான முறைப்பாடுகள் தொடர்பில் குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி தேர்தல் தொடர்பில் சுமார்  60 முறைப்பாடுகள் இதுவரை கிடைக்கப்பெற்றுள்ளன. இந்த முறைப்பாடுகளில் அநேகமானவை, அரச அதிகாரம் மற்றும் அரச சொத்துக்களை துஷ்பிரயோகம் செய்துவருகின்றமை தொடர்பானவையாகும். இந்த முறைப்பாடுகள் பொதுவாக அனைத்து தரப்பினருக்கும் பாதிப்பை ஏற்படுத்தும் சம்பவங்களாகும்.
+About 60 complaints have been received so far regarding the presidential election. The Executive Director of the February, Rohana Hettiarachchi said that many of these are related to the abuse of state authority and state property.
 
-அதேபோன்று மக்களுக்கு விநியோக நடவடிக்கை, நியமனம் வழங்கல் மற்றும் இடமாற்றத்துக்கு மேலதிகமாக அரசியல் நோக்கில் சில நிறுவனங்களில் தலைவர்கள், கூட்டுத்தாபனங்களின் பிரதானிகள் நீக்கப்பட்டுள்ளமை தொடர்பிலும் எமக்கு முறைப்பாடு கிடைக்கப்பெற்றுள்ளது.
+He said this in the complaints regarding the violation of election law since the presidential election was announced.
+
+About 60 complaints have been received so far regarding the presidential election. Most of these complaints are related to the abuse of state authority and state property. These complaints are usually affected by all sides.
+
+Similarly, we have also received a complaint about the removal of leaders and corporations in some institutions in addition to distribution, appointment and transfer of the people.
+
+Similarly, we have received information on the launch of various development projects, the foundation and the opening of some uninhabited development projects.. This makes it possible for the political party to be directly impressed.
 
 ...
 
 [Data](articles/0b0d10ec.json)
 
+[Extended Data](ext_articles/0b0d10ec.ext.json)
+
 ---
 
-### ரணிலின் வெற்றிக்காக தீவிரமான செயற்படுகள் ஆரம்பம்
+### Ranil's success is the beginning of serious actions
 
 *2024-08-05 23:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றிக்காக-தீவிரமான-செயற்படுகள்-ஆரம்பம்/175-341658) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி உத்தியோகபூர்வமாக தீர்மானித்துள்ளது. அந்த தீர்மானத்தை எமது கட்சியின் தலைவர் நிமல் சிறிபால டி சில்வா மற்றும் செயலாளர் நாயகம் பாராளுமன்ற உறுப்பினர் துமிந்த சில்வா உட்பட கட்சியின் அதிகாரிகள் மட்டுமன்றி சு.கவை பிரதிநிதித்துவப்படுத்தி பொதுஜன பெரமுனவின் கீழ் பாராளுமன்றத்திற்கு தெரிவான 14 உறுப்பினர்களில் 08 உறுப்பினர்கள் இந்த தீர்மானத்திற்கு இணக்கம் தெரிவித்துள்ளதாக போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, marking a significant step towards his re-election. The decision was reached with a 90% consensus among the All Ceylon Executive Council, indicating a strong backing from within the party. The SLFP's extensive organizational network is now actively working to secure Wickremesinghe's victory.
 
-அத்தோடு அகில இலங்கை நிறைவேற்று சபையிலுள்ள 90% உடன்பாட்டுடன் இந்த முடிவு எடுக்கப்பட்டது . எனவே ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பலமான ஏற்பாட்டு வலையமைப்பு தற்போதே தீவிரமாக செயற்பட ஆரம்பித்துள்ளது” என்றும் அவர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (05) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண இதனைக் குறிப்பிட்டார். R
+Sri Lanka Freedom Party (SLFP) officially decided to support President Ranil Wickremesinghe in the upcoming presidential election. Transport Minister Nimal Siripala de Silva and Secretary General of Parliament Duminda Silva, including our party leader Nimal Siripala de Silva, have represented the SLFP and said that 8 of the 14 members elected to the parliament under the PA had complied with the resolution.
+
+The decision was taken with a 90% agreement in the All Ceylon Executive Council. Therefore, the SLFP's strong arrangement network has already begun to actively ensure the victory of President Ranil Wickremesinghe, ”he said.
+
+Speaking at a press conference held at the Presidential Media Center today (05). Remble
 
 ◼️
 
 [Data](articles/c12e05d8.json)
 
+[Extended Data](ext_articles/c12e05d8.ext.json)
+
 ---
 
-### வேட்புமனு தாக்கலின் பின் வேட்பாளர்களுக்கு விசேட பாதுகாப்பு - பொதுமக்கள் பாதுகாப்பு அமைச்சு
+### Special protection for candidates after nomination - Ministry of Public Security
 
 *2024-08-05 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190372) · `ta`
 
-...
+Following the attack on former US President Donald Trump during his campaign, Sri Lanka's Ministry of Public Security has enhanced security measures for its Presidential candidates since the 15th of this month. A committee, led by the Ministry's Secretary, includes top officials like the Chief of Security Forces and the Inspector General of Police, to ensure candidate safety during the upcoming elections.
+
+🟩
+
+The Ministry of Public Security has said that steps have been taken to provide special security to the Presidential candidates from the 15th of this month.A cabinet paper was submitted by Ranil Wickremesinghe. The former presidential candidates were aimed at ensuring the personal security of the candidates who contested the proposed presidential election in Sri Lanka, considering that former President Donald Trump was attacked at the presidential election campaign in Butler's election campaign in Pennsylvania, USA.The committee has been appointed under the leadership of the Secretary of the Ministry of Public Security to oversee the security arrangements. The Chief of the Security Forces, the Inspector General of Police, the Director of the National Investigation Division and the Senior Deputy Inspector General of Police (Elections) are the other members of the committee.
+
+◼️
 
 [Data](articles/f3a4016c.json)
+
+[Extended Data](ext_articles/f3a4016c.ext.json)
 
 ---
 

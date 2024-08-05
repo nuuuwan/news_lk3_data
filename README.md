@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 09:23:04**
+As of **2024-08-05 09:07:19**
 
 ## Newspaper Stats
 
-*Scraped **39,015** Articles*
+*Scraped **39,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 370
 islandlk | 2,250
 economynextcom | 2,352
 dailyftlk | 2,506
-adalk | 3,575
-adaderanalk | 4,522
+adalk | 3,574
+adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,872
+tamilmirrorlk | 4,871
 virakesarilk | 6,176
 adaderanasinhalalk | 6,590
 
@@ -26,45 +26,11 @@ adaderanasinhalalk | 6,590
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,012 (100.0%) of 39,015 articles have been extended.
+39,012 (100.0%) of 39,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-05 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100997/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Several spells of showers may occur in North-western province, it said.
-
-Showers or thundershowers may occur at several places elsewhere in the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places, the department said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/4f4fa92a.json)
-
----
-
-### பரிஸ் 2024: அரையிறுதிக்கு தகுதி பெற்ற அருண தர்ஷன
-
-*2024-08-05 08:43:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதி-பெற்ற-அருண-தர்ஷன/44-341603) · `ta`
-
-பிரான்ஸில் நடைபெற்று வரும் பரிஸ் 2024 ஒலிம்பிக்கின் ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியின் அரையிறுதிப் போட்டிகளுக்கு அருண தர்ஷன தகுதி பெற்றுள்ளார்.
-
-ஞாயிற்றுக்கிழமை (04) நடைபெற்ற தகுதிகாண் சுற்று ஐந்தில் போட்டித் தூரத்தை 44 செக்கன்கள் 99 மில்லி செக்கன்களில் கடந்து தனது சிறந்த அடைவை அடைந்து மூன்றாமிடம் பெற்ற நிலையிலேயே அரையிறுதிப் போட்டிகளுக்கு தர்ஷன தகுதி பெற்றுள்ளார்.
-
-◼️
-
-[Data](articles/62fbe661.json)
-
----
 
 ### 9 children killed when wall collapsed
 
@@ -879,24 +845,6 @@ Rohit Sharma scored another quick fifty to give India a stunning start while cha
 [Data](articles/418e9eea.json)
 
 [Extended Data](ext_articles/418e9eea.ext.json)
-
----
-
-### දෙවැනි එක්දින තරගය ලංකාව ජය ගනියි
-
-*2024-08-04 22:05:41* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-එක්දින-තරගය-ලංකාව-ජය-ගනියි/9-411193) · `si`
-
-සංචාරක ඉන්දිය කණ්ඩායම ලකුණු 32කින් පරාජය කරමින් දෙරට අතර කොළඹ ආර්. ප්‍රේමදාස පිටියේ පැවැති දෙවැනි එක්දින තරගය ජයගැනිමට සත්කාරක ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
-
-ඒ අනුව තරග තුනකින් සමන්විත එක්දින තරගාවලිය 1-0ක් ලෙස ශ්‍රී ලංකාව ඉදිරියෙන් පසුවෙයි. පළමු තරගය ලකුණු සමවිමෙන් අවසන් විය.
-
-මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 240ක් රැස් කළ අතර පිලිතුරු ඉනිම ක්‍රිඩා කළ ඉන්දීය කණ්ඩායමට සියලු දෙනා දැවී රැස් කළ හැකිවූයේ ලකුණු 208ක් පමණි.
-
-ජෙෆ්රි වැන්ඩසේ කඩුලු 6ක් දවා ගැනිමට සමත්විය. නායක චරිත් අසලංක කඩුලු 3ක් දවා ගත්තේය.
-
-◼️
-
-[Data](articles/b7ef205a.json)
 
 ---
 
@@ -2249,5 +2197,81 @@ S.W.. RD Pandaranaike, JR Jayawardena, R. Premadasa, Chandrika Bandaranaike and 
 [Data](articles/8b8dfa64.json)
 
 [Extended Data](ext_articles/8b8dfa64.ext.json)
+
+---
+
+### A minor father was sentenced to 60 years in prison
+
+*2024-08-04 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199552) · `si`
+
+In a landmark case, a minor father was sentenced to 60 years in prison after impregnating an 11-year-old girl, marking the first instance of such a severe punishment. The Kandy High Court Judge Wimalasiri made this decision, emphasizing the gravity of the crime. The defendant was also ordered to pay substantial fines and compensation, reflecting the court's stance against such heinous acts.
+
+🟩
+
+Kandy High Court Judge Wimalasiri decided to impose an 11-year-old daughter in the first marriage of his wife and giving birth to a child.
+
+This is the first time a corporator has been sentenced to a sixty-one year prison for such a mistake.
+
+The High Court judge ordered the defendant to pay the fine for all over Rs.
+
+The High Court judge also ordered the victim to pay a compensation of Rs.
+
+The debapoon had been indicted in three cases of this defendant on three occasions on three occasions in the Kandy High Court on January 21, 2016.
+
+The child who gave birth to the victim girl was a child born to the defendant. Confirmed by an investigation.
+
+◼️
+
+[Data](articles/f4967dcb.json)
+
+[Extended Data](ext_articles/f4967dcb.ext.json)
+
+---
+
+### One arrested with foreign cigarettes
+
+*2024-08-04 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199551) · `si`
+
+A person was arrested in Sri Lanka for smuggling 12,000 cigarettes hidden in 60 cartons. The suspect, detained by local police, had been smuggled into the country illegally from Bahrain.
+
+🟩
+
+A person who was taken to Sri Lanka illegally who had been illegally brought to Sri Lanka in external cigarettes worth around Rs.
+
+The suspect was arrested by the police from Bahrain from Bahrain this morning (04).
+
+In his luggage, 60 crots containing 12,000 cigarettes have been found.
+
+◼️
+
+[Data](articles/01ee5810.json)
+
+[Extended Data](ext_articles/01ee5810.ext.json)
+
+---
+
+### IPL Action for Half of Players
+
+*2024-08-04 14:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாதி-வீரர்களுக்கு-ஆப்பு-ஐபிஎல்-அதிரடி/44-341558) · `ta`
+
+IPL team owners want to ban foreign players from the next two seasons due to concerns over high costs affecting team composition and planning. They argue against participation in mini auctions, citing issues like players leaving for personal reasons or being undervalued. This stance is supported by 10 team owners, highlighting a shift towards prioritizing domestic talent and budget management.
+
+🟩
+
+The IPL team owners have urged the IPL committee to ban foreign players from playing in the series for 2 years after the Indian Premier League (IPL) auctioned off the series without a reasonable reason.
+
+As well as foreign players to register their names for the mega auction. IPL owners have demanded that the mini auction be prevented from participating in the mini auction.
+
+The ESPN Giric Info news report states that the owners of 10 teams were firm in the same regard.
+
+IPL owners feel that after the high cost of foreign players, they are affecting many things, including the combination of IPL team's enrollment and planning.
+
+But the owners who think that if a player is demanding that he quit the country in international cricket, he can be allowed to quit because he is not able to quit, or family obligations, but it is good for the auction.
+
+...
+
+[Data](articles/6b7f342e.json)
+
+[Extended Data](ext_articles/6b7f342e.ext.json)
 
 ---

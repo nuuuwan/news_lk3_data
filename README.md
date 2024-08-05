@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 14:20:48**
+As of **2024-08-05 14:36:09**
 
 ## Newspaper Stats
 
-*Scraped **39,068** Articles*
+*Scraped **39,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,506
 adalk | 3,582
 adaderanalk | 4,533
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,888
+tamilmirrorlk | 4,890
 virakesarilk | 6,180
 adaderanasinhalalk | 6,602
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,063 (100.0%) of 39,068 articles have been extended.
+39,068 (100.0%) of 39,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### முன்னாள் எம்.பியும் போட்டி
+
+*2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பியும்-போட்டி/175-341624) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர்  சிறிபால அமரசிங்க கட்டுப்பணத்தை திங்கள்கிழமை  (5) காலை வைப்பிலிட்டுள்ளார்.
+
+இவர், மக்கள் விடுதலை முன்னணியின் கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஆவார்.
+
+இம்முறை ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை பணத்தை வைப்பிலிட்ட 15ஆவது நபரான  அமரசிங்க,  ஆறாவது சுயேச்சை வேட்பாளரும் ஆவார்.
+
+◼️
+
+[Data](articles/50681f75.json)
+
+---
 
 ### Presidential Election 2024: Sarath Fonseka places deposit
 
@@ -41,6 +57,20 @@ Bonds have been placed on behalf of Field Marshal Sarath Fonseka today (05), to 
 ◼️
 
 [Data](articles/51ee96b2.json)
+
+[Extended Data](ext_articles/51ee96b2.ext.json)
+
+---
+
+### வாக்காளர்களின் எண்ணிக்கை வெளியானது
+
+*2024-08-05 14:05:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்களின்-எண்ணிக்கை-வெளியானது/175-341623) · `ta`
+
+2024 தேருநர் இடாப்பின்படி ஒவ்வொரு தேர்தல் மாவட்டத்தினதும் பதிவுசெய்யப்பட்ட தேருநர்களின் (வாக்காளர்களின்) எண்ணிக்கையை தேர்தல்கள் ஆணைக்குழு திங்கட்கிழமை (05) வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/ebdf9b8c.json)
 
 ---
 
@@ -60,41 +90,55 @@ This includes six independent candidates whose names have been nominated by a vo
 
 [Data](articles/5d5e9e5b.json)
 
+[Extended Data](ext_articles/5d5e9e5b.ext.json)
+
 ---
 
-### SF ඇප තියයි
+### SF bids
 
 *2024-08-05 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199585) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා වෙනුවෙන් අද (05) ඇප මුදල් තැන්පත් කර තිබේ.
+Funds for 2024 Presidential candidate Field Marshal Sarath Fonseka were deposited today, as was bail money by Dhammika Ratnayake.
 
-වෘත්තීයවේ දී ධම්මික රත්නායක මහතා විසින් මීට සුළු වේලාවකට පෙර එම ඇප මුදල් තැන්පත් කර ඇත.
+🟩
+
+The 2024 Presidential Candidate for the Presidential Election The funds have been deposited for Fild Marshal Sarath Fonseka today (05).
+
+Dhammika Ratnayake has deposited the bail before a short while ago.
 
 ◼️
 
 [Data](articles/9d475edb.json)
 
+[Extended Data](ext_articles/9d475edb.ext.json)
+
 ---
 
-### මවකගේ පහරදීමකින් දින 42ක් වයසැති බිළිඳෙකු මරුට
+### 42 day old girl killed in a mother's attack
 
 *2024-08-05 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199584) · `si`
 
-යාපනය අලවෙඩ්ඩි ප්‍රදේශයේ දී මවක් විසින් සිදුකළ පහරදීමකින් දින 42ක් වයසැති බිළිඳෙකු මියගොස් ඇත.
+In Allaveddi, Jaffna, a 42-day-old girl died from severe injuries inflicted by her mother, including bruises and fractures. The mother claimed the baby was unresponsive after refusing breastmilk but medical reports showed signs of physical abuse. She was arrested, and further investigations are ongoing.
 
-පොලීසිය ප්‍රකාශ කළේ බිළිඳාගේ හිසට සහ ශරීරයේ තවත් ප්‍රදේශ කිහිපයකට සිදුව ඇති පහරදීම් සහ තැලීම් හේතුවෙන් මරණය සිදුව ඇති බවයි.
+🟩
 
-මව් කිරි ලබා දීමෙන් අනතුරුව බිළිඳා සිහිසුන් වූ බව පවසමින් මව විසින් බිළිදා ව අලවෙඩ්ඩි ප්‍රාදේශීය රෝහලට ඇතුළු කර ඇති අතර පසුව වැඩිදුර ප්‍රතිකාර සඳහා තෙලිප්පලේ රෝහලට මාරුකර යවා තිබුණි.
+A 42 day old was killed by a mother attack in Allaveddi, Jaffna.
 
-කෙසේ වෙතත් හිසට සිදුවූ පහරදීමක්, අත අඹරවා සිදුකරන ලද තැලීමක් සහ කකුලේ අස්ථි බිඳීමක් සිදුව ඇති බවට වෛද්‍ය වාර්තාවෙන් තහවුරු වී ඇති අතර හිසට සිදුව ඇති පහරදීම හේතුවෙන් බිළිඳා මියගොස් ඇති බව සිදුකළ පශ්චාත් මරණ පරීක්ෂණයෙන් අනාවරණය වී ඇත.
+The police said that the assault and bruising had caused to the infant's head and several other parts of the body were caused by death.
 
-ඒ අනුව මේ සම්බන්ධයෙන් තෙලිප්පලේ පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත්තේ බිළිඳා මව්කිරි බීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් මව විසින් පහරදීම සිදුකර ඇති බවයි.
+The mother had been admitted to the Allaveddi Regional Hospital, claiming that the baby was unconscious after the mother milk was unconscious.
 
-එම මරණය සම්බන්ධයෙන් 33 හැවිරිදි මව අත්අඩංගුවට ගෙන ඇති අතර තෙලිප්පලේ පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර ඇත.
+However, the medical report has confirmed that a hand assault, a hand grind and a fracture of the leg.
+
+Investigations carried out in the Tiilipple police have revealed that the baby was assaulted by the mother due to rejection of breastfeed drinks.
+
+The 33-year-old mother has been arrested regarding the death and the Tiilipple Police has commenced further investigations.
 
 ◼️
 
 [Data](articles/f53954ea.json)
+
+[Extended Data](ext_articles/f53954ea.ext.json)
 
 ---
 
@@ -111,6 +155,8 @@ The minister made these remarks while speaking to the media following an event h
 ◼️
 
 [Data](articles/4f267edf.json)
+
+[Extended Data](ext_articles/4f267edf.ext.json)
 
 ---
 
@@ -2253,43 +2299,5 @@ In light of the clashes and fatalities, the government announced a curfew from 6
 [Data](articles/5a125349.json)
 
 [Extended Data](ext_articles/5a125349.ext.json)
-
----
-
-### Bangladesh declares three-day general holiday, indefinite curfew amid ongoing unrest
-
-*2024-08-04 20:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100994/bangladesh-declares-three-day-general-holiday-indefinite-curfew-amid-ongoing-unrest) · `en`
-
-(Reuters) - At least 73 people were killed and hundreds injured in clashes in Bangladesh on Sunday, as police fired tear gas and rubber bullets to disperse tens of thousands of protesters calling for Prime Minister Sheikh Hasina to resign.
-
-The government declared an indefinite nationwide curfew starting at 6 p.m. (1200 GMT) on Sunday, the first time it has taken such a step during the current protests that began last month. It also announced a three-day general holiday starting from Monday.
-
-The unrest, which has prompted the government to shut down internet services, is Hasina’s biggest test in her 20-year regime after she won a fourth straight term in elections that were boycotted by the main opposition Bangladesh Nationalist Party.
-
-Critics of Hasina, along with human rights groups, have accused her government of using excessive force against protesters, a charge she and her ministers deny.
-
-...
-
-[Data](articles/c9dc537f.json)
-
-[Extended Data](ext_articles/c9dc537f.ext.json)
-
----
-
-### Container wheel is banned from the sergeant's work
-
-*2024-08-04 20:45:51* · [`adalk`](https://www.ada.lk/breaking_news/කන්ටේනර්-රෝදයේ-හුළං-ඇරිය-සැරයන්වරයාගේ-වැඩ-තහනම්/11-411191) · `si`
-
-In Wattala, police sergeants have been prohibited from using container wheels in their vehicles due to safety concerns, especially after an incident involving a front wheel accident in the Mabola area in June. This decision was made based on video evidence showing potential risks associated with the use of such wheels.
-
-🟩
-
-Police sergeant in Wattala police vehicles were banned by the acting proceedings of the front wheel, according to the actual action of the front wheel of the June of the Mabola area.said. The sergeant circulated a videos showing the window of the winds.
-
-◼️
-
-[Data](articles/c65da273.json)
-
-[Extended Data](ext_articles/c65da273.ext.json)
 
 ---

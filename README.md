@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 01:54:57**
+As of **2024-08-06 02:05:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,176 (100.0%) of 39,179 articles have been extended.
+39,179 (100.0%) of 39,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### இந்திய மீனவர்கள் 22 பேர் கைது
+### 22 Indian fishermen arrested
 
 *2024-08-06 01:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-22-பேர்-கைது/175-341659) · `ta`
 
-இலங்கைக் கடற்பரப்புக்குள் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 22 இந்திய மீனவர்கள் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+22 Indian fishermen from Tamil Nadu's Thoothukudi were arrested by the Sri Lankan Navy for fishing in the South Sea of Mannar.
 
-இரண்டு படகுகளில் தமிழகம் - தூத்துக்குடியில் இருந்து வந்த மீனவர்களே கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-மன்னார் தெற்கு கடல் பகுதியில் மீன்பிடித்துக் கொண்டிருந்தபோதே இந்த 22 பேரும் கைது செய்யப்பட்டதுடன்  இரண்டு படகுகளும் கடற்படையினரால் கையகப்படுத்தப்பட்டுள்ளன. (a)
+22 Indian fishermen have been arrested by the Navy for allegedly fishing across the Sri Lankan waters.
+
+Fishermen from Tamil Nadu - Thoothukudi have been arrested in two boats.
+
+The 22 persons were arrested and two boats were acquired by the Navy while fishing in the South Sea of ​​Mannar.. (A)
 
 ◼️
 
 [Data](articles/283fab40.json)
+
+[Extended Data](ext_articles/283fab40.ext.json)
 
 ---
 
@@ -774,6 +780,8 @@ Gazette for Presidential Elections 2024 has been published and the political act
 
 [Data](articles/531f247c.json)
 
+[Extended Data](ext_articles/531f247c.ext.json)
+
 ---
 
 ### Most of the Sri Lanka Freedom Party (SLFP) supports President Ranil Wickremesinghe - Lasantha Alagavanna
@@ -811,6 +819,8 @@ The month ended with six presidential aspirants in the fray. According to the El
 ...
 
 [Data](articles/b6dfc02c.json)
+
+[Extended Data](ext_articles/b6dfc02c.ext.json)
 
 ---
 

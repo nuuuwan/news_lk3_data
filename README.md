@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 16:36:04**
+As of **2024-08-05 16:53:34**
 
 ## Newspaper Stats
 
-*Scraped **39,093** Articles*
+*Scraped **39,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,87 @@ adaderanalk | 4,537
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,892
 virakesarilk | 6,184
-adaderanasinhalalk | 6,606
+adaderanasinhalalk | 6,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,089 (100.0%) of 39,093 articles have been extended.
+39,093 (100.0%) of 39,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### අගමැතිවරිය නෙරපූ අරගලය
+### ක්ලබ් වසන්ත ඝාතන සැකකරුවන් යළි රිමාන්ඩ්
+
+*2024-08-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199591) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටැටූ ආයතනයේ හිමිකරු සැකකරුවන් දසදෙනා අගෝස්තු 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අද (05) දහවල් එම සැකකරුවන්ව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/fc352c6a.json)
+
+---
+
+### ජොකොවිච් ලැබූ විශිෂ්ට ජය
+
+*2024-08-05 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199590) · `si`
+
+ලෝක ටෙනිස් ඉතිහාසයේ සාර්ථකම ක්‍රීඩකයා බවට පත්වෙමින් මෙවර පැරිස් ඔලිම්පික් උලෙළේ පිරිමි කේවළ ටෙනිස් ඉසව්වේ රන් පදක්කම හිමිකර ගැනීමට ලොව සුපිරි ටෙනිස් ක්‍රීඩක සර්බියාවේ නොවැක් ජොකොවිච් ඊයේ (04) සමත් විය.
+
+ඒ පිරිමි කේවල ටෙනිස් අවසන් තරගයේදී ස්පාඤ්ඤයේ කාලෝස් අල්කරාස් පරාජයට පත්කරමිනි.
+
+37 හැවිරිදි නොවැක් ජොකොවිච් සහ 21 හැවිරිදි කාලෝස් අල්කරාස් පිරිමි කේවල ටෙනිස් අවසන් සටනට පිවිසුණේ ඔලිම්පික් ඉතිහාසයේ එම ඉසව්වේ අවසන් තරගයට සහභාගී වූ වයස්ගතම සහ ළාබාලතම ක්‍රීඩකයින් දෙදෙනා ලෙසය.
+
+අවසන් මහා තරගය අතිශය තියුණු මුහුණුවරක් ගත්තද අත්දැකීම් බහුල ජොකොවිච් පළමු වට දෙක ලකුණු 7-6ක් සහ 7-6ක් ලෙස ජයගනිමින් සිය වසර 21ක ටෙනිස් දිවියේ විශාලතම සිහිනය වූ ඔලිම්පික් රන් පදක්කම දිනාගැනීමට සමත් වුණි.
+
+ග්‍රෑන්ඩ් ස්ලෑම් ටෙනිස් ශූරතා 24ක් ජයගෙන ඇති ජොකොවිච් සිය ජයග්‍රහණ ගොන්නට ඔලිම්පික් රන් පදක්කමක්ද එක්කර ගනිමින් ටෙනිස් ඉතිහාසයේ සාර්ථකම ක්‍රීඩකයා බවට පත්වුණි.
+
+ඔහු මෙම රන් පදක්කම දිනා ගත්තේ පස්වැනි උත්සාහයෙන් වීම විශේෂයකි. තරගයෙන් අනතුරුව ජොකොවිච් පැවසුවේ සිය ක්‍රීඩා දිවියේ විශාලතම ජයග්‍රහණය මෙම රන් පදක්කම බවය.
+
+◼️
+
+[Data](articles/4e99fd0e.json)
+
+---
+
+### The struggle that sacked the Prime Minister
 
 *2024-08-05 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199589) · `si`
 
-බංග්ලාදේශයේ අන්තර්වාර පාලනයක් ස්ථාපිත කරන බව එරට හමුදාපතිවරයා පවසා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+In Bangladesh, the Prime Minister resigned amid protests, moving to India. The military urged calm as authorities cracked down on demonstrations, leading to deaths. Protests resumed, defying a curfew, and the PM's residence was stormed.
 
-ඒ එරට අගමැතිනී, ෂෙයික් හසීනා සිය ධුරයෙන් ඉවත්වී ඉන්දියාවට පළායාම හේතුවෙනි.
+🟩
 
-හමුදාපති ජෙනරාල් වෙකර් උස් - සමාන් පවසන්නේ, විරෝධතා පවත්වන සිසුන් දැන් සිය නිවෙස් වෙත යා යුතු බවය.
+The Army Commander reported that intersts of interim administration in Bangladesh is established.
 
-මාධ්‍ය වාර්තා සඳහන් කරන්නේ හසීනා සහ ඇයගේ සහෝදරිය රැගත් හෙලිකොප්ටර් යානය ඉන්දියාවේ අගාර්තාලා නගරය වෙත ළඟා වූ බවයි.
+Prime Minister, Sheikh Haseanna left his post and flends India.
 
-1971 බංග්ලාදේශ නිදහස් සටනට එක්වූ යුද විරුවන්ගේ ඥාතීන්ට රජයේ රැකියාවලින් 30%ක් දීමට හසීනා රජය සැරසීමත් සමගම ඊට එරෙහිව ශිෂ්‍යයින් උද්ඝෝෂණ ඇරඹීය.
+Army Commander General Vacker Highs - Says Sanan, the protest students should now go to their homes.
 
-එම උද්ඝෝෂණ පාලනයට රජය බලය පාවිච්චි කළ අතර ඉන් විශාල පිරිසක් මරණයට පත්විය.
+According to media reports, the helicopter carrying Husanina and her sister had reached the city of India.
 
-අනතුරුව එරට තුළ උද්ඝෝෂණ අඩු වුවද පසුගිය සතියේ උද්ඝෝෂණ නැවතත් ආරම්භ වූයේ දේශපාලන මුහුණුවරකිනි.
+The relatives of the Bangladesh exports of war heroes were decorated with the government of the Bangladesh free battle.
 
-ඊයේ බංග්ලාදේශය පුරා නැවත දැනුම්දෙන තුරු ඇඳිරි නීතිය පැනවූ අතර නමුත් විරෝධතාකරුවන් එය නොසලකා හරිමින් ඩකා අගනුවරට එක්රැස් විය.
+The government used power to control the protest, and a large number of people died.
 
-උද්ඝෝෂකයින් පැමිණීමට පෙර අගමැතිවරිය එම ස්ථානයෙන් ඉවත් කිරීමට ආරක්ෂක අංශ සමත්විය.
+After reducing protests in the country, the protesters again began last week with a political face.
 
-...
+The curfew was imposed on the Bangladesh yesterday, but the protesters were ignored and covered Dhaka capital.
+
+Prior to the arrival of the protesters, the PM was removed from the site.
+
+However, the protesters took the goods in the prime minister's official residence, foreign media reports.
+
+◼️
 
 [Data](articles/e442ef84.json)
+
+[Extended Data](ext_articles/e442ef84.ext.json)
 
 ---
 
@@ -78,25 +122,33 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 [Data](articles/3a416613.json)
 
+[Extended Data](ext_articles/3a416613.ext.json)
+
 ---
 
-### இஸ்ரேலில் கத்திகுத்து தாக்குதல் - இருவர் பலி
+### Israeli attack - two killed
 
 *2024-08-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190338) · `ta`
 
-மேற்குகரையை சேர்ந்த நபர் ஒருவரே இந்த கத்திக்குத்து தாக்குதலை மேற்கொண்டார் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+In Hebron, a knife attack resulted in the deaths of a 66-year-old Jewish woman and an 80-year-old man. The assailant, from the West Bank, targeted victims while they were walking. A 26-year-old man witnessed the attack and fled towards the bus station. The Israeli Prime Minister confirmed the incident during a cabinet meeting.
 
-66வயது யூத பெண் ஒருவரும் 80 வயது ஆணும் கொல்லப்பட்டுள்ளனர் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+🟩
 
-நான் எனது நாயுடன் நடந்துசென்றுகொண்டிருந்தவேளை நபர் ஒருவர் ஒடிவந்து முதுகில் கத்தியால் குத்தினார் என காயமடைந்த 26 வயது நபர் தெரிவித்துள்ளார்.
+Israeli officials have said that a person from the West Corporation carried out the knife attack.
 
-நான் பேருந்து தரிப்பிடத்தை நோக்கி தப்பிச்சென்றேன் கத்திக்குத்திற்கு மேலும் பலர் இலக்கானது அதன் பின்னரே எனக்கு தெரியவந்தது என அந்த நபர் தெரிவித்துள்ளார்.
+A 66 -year -old Jewish woman and an 80 -year -old man have been killed, Israeli officials said.
 
-ஹெலொனில் சம்பவம் ஒன்று இடம்பெற்றதை இஸ்ரேலிய பிரதமர் அமைச்சரவை கூட்டத்தில் உறுதி செய்துள்ளார்.
+While I was walking with my dog, a 26 -year -old man said that a person was stabbed with a knife on his back.
+
+I escaped towards the bus station.
+
+The Israeli prime minister has confirmed the incident in Heleon at a cabinet meeting.
 
 ◼️
 
 [Data](articles/31a5d64b.json)
+
+[Extended Data](ext_articles/31a5d64b.ext.json)
 
 ---
 
@@ -150,19 +202,25 @@ The 33-year-old mother has been arrested by Tellippalai Police who are conductin
 
 ---
 
-### අගමැති හසීනා බංග්ලාදේශයෙන් පළා යයි
+### Prime Minister Hasena escapes Bangladesh
 
 *2024-08-05 15:20:56* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හසීනා-බංග්ලාදේශයෙන්-පළා-යයි/11-411209) · `si`
 
-බංග්ලාදේශ අගමැති ෂෙයික් හසීනා විරෝධතා කරුවන්ගේ විරෝධය හමුවේ අගමැති ධුරය අතහැර පළාගොස් තිබේ.
+Bangladesh's PM Hasina has escaped Dhaka amid protests, likely heading to India. Reports suggest she may resign amidst ongoing political turmoil.
 
-She has left Dhaka in a military helicopter after thousands broke into her residence in Dhaka. Reports claim Hasina is headed to Bengal, India!
+🟩
 
-Hasina is likely to tender her official resignation amid the… pic.twitter.com/T3pA9UCpT5
+The Prime Minister of Bangladesh has fled the prime minister in the opposition of Haseana protesters.
+
+She HAS LEFT DHAKA IN AFPEDS BROODS BROOKE INTO HER Residence in Dhaka. REPORTS CLAIM MASINA IS Headed To Beengal, India!
+
+Hasina Is Likeley To Tender Herger Herger Herrner Resignation Amid The ... Pic.twittern.com/t3pa9ucppt5
 
 ◼️
 
 [Data](articles/125e55bc.json)
+
+[Extended Data](ext_articles/125e55bc.ext.json)
 
 ---
 
@@ -2227,39 +2285,5 @@ The President also discussed the role of hotel associations in the construction 
 [Data](articles/da9f0372.json)
 
 [Extended Data](ext_articles/da9f0372.ext.json)
-
----
-
-### Sunshine Holdings to amalgamate Sunshine Packaging
-
-*2024-08-05 02:21:07* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-to-amalgamate-Sunshine-Packaging/34-765156) · `en`
-
-The Board of Directors of Sunshine Holdings PLC has resolved to amalgamate with its fully owned subsidiary Sunshine Packaging Lanka Ltd.
-
-This amalgamation will be carried out in terms of section 242 (1) of the Companies Act No. 7 of 2007 and the amalgamation is expected to take effect on 1 October 2024.
-
-By the terms of this amalgamation, Sunshine Holdings PLC will amalgamate all assets and liabilities of Sunshine Packaging Lanka Ltd., and the amalgamated company will be Sunshine Holdings PLC.
-
-The current Directors of Sunshine Holdings PLC will remain as directors of the amalgamated company after the amalgamation.
-
-◼️
-
-[Data](articles/90a25316.json)
-
-[Extended Data](ext_articles/90a25316.ext.json)
-
----
-
-### Adani Power announces Q1 performance
-
-*2024-08-05 02:13:46* · [`dailyftlk`](https://www.ft.lk/business/Adani-Power-announces-Q1-performance/34-765155) · `en`
-
-Adani Power Ltd. (“APL”), a part of Adani portfolio companies, recently announced the company’s performance for the first quarter ended 30 June 2024.
-
-...
-
-[Data](articles/211067f1.json)
-
-[Extended Data](ext_articles/211067f1.ext.json)
 
 ---

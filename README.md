@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 16:08:23**
+As of **2024-08-05 16:20:42**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,088 (100.0%) of 39,089 articles have been extended.
+39,089 (100.0%) of 39,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+### An announcement of the weather
 
 *2024-08-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199588) · `si`
 
-ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+The Department of Meteorology announced strong lightning activity, particularly in the North, East, Polonnaruwa, and Badulla districts, advising the public to take precautions against potential wind and lightning-related accidents.
 
-අද (05) පස්වරු 2.30ට නිකුත්කරන ලද එම නිවේදනය රාත්‍රී 11.30 දක්වා වලංගුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-උතුරු සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව සහ බදුල්ල දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇති වීමේ වැඩි හැකියාවක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Meteorology has issued an announcement of strong lightning.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Meteorological Department says that the announcement was issued at 2.30 pm today.
+
+The Meteorology Department states that there is an increase in lightning with thundershowers in the North and East and Polonnaruwa and Badulla districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/5e0f3a86.json)
+
+[Extended Data](ext_articles/5e0f3a86.ext.json)
 
 ---
 

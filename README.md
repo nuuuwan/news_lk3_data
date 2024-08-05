@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 22:55:34**
+As of **2024-08-05 23:07:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,152 (100.0%) of 39,156 articles have been extended.
+39,156 (100.0%) of 39,156 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ Sheikh Hasina’s critics accused her not just of corruption and nepotism but al
 
 [Data](articles/a8a6dc55.json)
 
+[Extended Data](ext_articles/a8a6dc55.ext.json)
+
 ---
 
-### அரசாங்கத்தின் முக்கிய 2  திட்டங்களை நிறுத்தியது தேர்தல் ஆணையம்
+### The Election Commission has stopped the government's main two projects
 
 *2024-08-05 22:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-முக்கிய-2-திட்டங்களை-நிறுத்தியது-தேர்தல்-ஆணையம்/175-341657) · `ta`
 
-சுரக்ஷா மாணவர் காப்புறுதித் திட்டம் மற்றும் உறுமய காணி உறுதித் திட்டம் ஆகிய இரண்டு முக்கிய அரசாங்கத் திட்டங்களைத் தற்காலிகமாக நிறுத்துவதற்கு இலங்கை தேர்தல் ஆணையம் உத்தரவு பிறப்பித்துள்ளது.
+The Sri Lanka Election Commission suspended two key government initiatives: the Suraksha Student Insurance Scheme and the Urumaya Land Recognition Program, due to a written request from the president's secretary, pending the outcome of the upcoming presidential election.
 
-ஜனாதிபதித் தேர்தல் முடியும் வரை இந்த வேலைத்திட்டத்தை தற்காலிகமாக இடைநிறுத்துமாறு ஜனாதிபதியின் செயலாளருக்கு எழுத்து மூலம் அறிவிக்கப்பட்டதாக நாட்டின் தேர்தல் பிரதம அதிகாரி தெரிவித்தார். R
+🟩
+
+The Sri Lanka Election Commission has ordered the suspension of two major government schemes, such as the Suraksha Student Insurance Scheme and the Urumaya Land Recognition Program.
+
+The country's election chief said that the president's secretary was in writing to temporarily suspend this program until the presidential election is over.. Remble
 
 ◼️
 
 [Data](articles/4382c9a7.json)
+
+[Extended Data](ext_articles/4382c9a7.ext.json)
 
 ---
 
@@ -530,19 +538,25 @@ Their departed flight landed at the Hindon Air Force Base near New Delhi. It is 
 
 ---
 
-### கால அவகாசம் நீடிப்பு
+### Extension
 
 *2024-08-05 19:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-நீடிப்பு/175-341640) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள நிலையில், தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் நீடிக்கப்பட்டுள்ளது.
+Due to delays in postal services and public requests, the deadline for postal voting application submissions has been extended to August 9th, as announced by Election Commissioner Saman Sri Ratnayake.
 
-அதன்படி, இன்று (05) நள்ளிரவு 12 மணியுடன் முடிவடைய இருந்த தபால் மூல வாக்களிப்பு விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் ஆகஸ்ட் மாதம் 9 ஆம் திகதி வெள்ளிக்கிழமை நள்ளிரவு 12 மணி வரை நீடிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-தபாலில் ஏற்படக்கூடிய தாமதம் மற்றும் ஆணைக்குழுவிடம் விடுக்கப்பட்ட கோரிக்கையை கருத்தில் கொண்டு இந்த முடிவு எடுக்கப்பட்டுள்ளது. R
+As the presidential election has been announced, the deadline for submitting applications for postal voting has been extended.
+
+According to the Commissioner General of Elections Saman Sri Ratnayake, the deadline for accepting postal voting applications, which will be completed at 12 midnight today (05), will be extended till August 9th.
+
+The decision has been taken in view of the delay in the postal and the request issued to the Commission. Remble
 
 ◼️
 
 [Data](articles/be743717.json)
+
+[Extended Data](ext_articles/be743717.ext.json)
 
 ---
 
@@ -1086,21 +1100,27 @@ Thereafter a cup was awarded to evaluating these three athletes.
 
 ---
 
-### கம்பஹா மாவட்டத்தைப் பிரதிநிதித்துவப்படுத்தும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற, மாகாண சபை, உள்ளூராட்சி உறுப்பினர்கள் ரணிலுக்கு ஆதரவாக உறுதிமொழி
+### Sri Lanka PA
 
 *2024-08-05 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190346) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றியை உறுதி செய்வதாக கம்பஹா மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற, மாகாண சபை மற்றும் உள்ளூராட்சி உறுப்பினர்கள் உறுதிமொழி எடுத்துள்ளனர்.
+Members of the Sri Lanka PA representing the Gampaha district have pledged support for President Ranil Wickremesinghe ahead of the upcoming presidential election. Key figures within the party, including several parliamentarians and local government officials, have expressed their commitment to ensuring the president's victory. Despite internal dynamics and recent shifts in party affiliations, the collective sentiment among these officials is focused on backing the current administration.
 
-ஆளும் கட்சியின் பிரதம அமைப்பாளரான நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க உடுகம்பொல அலுவலகத்தில் நேற்று ஞாயிற்றுக்கிழமை  (4) நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் மாவட்டச் சபைக் கூட்டத்தில் இந்தக் குழு இந்த உறுதிமொழியை வழங்கியது.
+🟩
 
-கடந்த பொதுத் தேர்தலில் ஸ்ரீ லங்கா பொதுஜன பெரமுனவில் இருந்து 13 பாராளுமன்ற உறுப்பினர்கள் பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டனர். அந்த பாராளுமன்ற உறுப்பினர்களுள் 09 பேர் ஜனாதிபதியின் வெற்றிக்காக தம்மை அர்ப்பணிப்பதாக ஏற்கனவே அறிவித்துள்ளனர்.
+The Parliament, Provincial Council and local government members of the Sri Lanka PA, who represents the Gampaha district, have pledged to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தி கம்பஹா மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவான நாலக கொடஹேவா சில மாதங்களுக்கு முன்னர் ஐக்கிய மக்கள் கட்சியில் இணைந்துகொண்டார்.
+The committee presented the pledge at the District Council of the Sri Lanka Peoples Alliance (PA) at the Udugampola office held at the Udugampola office at Udugampola office on Sunday (4).
+
+In the last general election, 13 MPs from the Sri Lanka PA were elected to Parliament. Nine of those parliamentarians have already announced that they will dedicate themselves to the president's victory.
+
+Nalaka Kodaheva, who was elected to Parliament from the Gampaha district, represented the Sri Lanka PA, joined the United People's Party a few months ago.
 
 ...
 
 [Data](articles/bce48706.json)
+
+[Extended Data](ext_articles/bce48706.ext.json)
 
 ---
 

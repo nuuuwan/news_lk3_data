@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 17:06:03**
+As of **2024-08-05 17:21:03**
 
 ## Newspaper Stats
 
-*Scraped **39,102** Articles*
+*Scraped **39,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 371
 islandlk | 2,251
-economynextcom | 2,357
+economynextcom | 2,360
 dailyftlk | 2,506
 adalk | 3,588
-adaderanalk | 4,539
+adaderanalk | 4,540
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,895
 virakesarilk | 6,184
@@ -26,29 +26,57 @@ adaderanasinhalalk | 6,609
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,095 (100.0%) of 39,102 articles have been extended.
+39,102 (100.0%) of 39,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### ආසියානු ක්‍රිකට් ශූරියන් තිදෙනාට අනුලා විද්‍යාලයෙන් හරසර
+### Bangladesh army chief says interim government will be formed
+
+*2024-08-05 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101015/bangladesh-army-chief-says-interim-government-will-be-formed) · `en`
+
+Chief of Army Staff General Waker-Uz-Zaman has announced that an interim government, with the participation of all parties, will be formed soon after Prime Minister Shiekh Hasina resigns from her post.
+
+He said: “After holding a fruitful discussion with all political parties, we have decided to form an interim government. We will speak with President Mohammed Shahabuddin now to resolve the situation.”
+
+He called for a halt to all violence in the name of protest and promised that the new government will ensure justice for all the deaths that took place during the Anti-Discriminatory Student Movement.
+
+Professor Asif Nazrul from the Law Department of Dhaka University has been asked to issue a statement to request the students to call off the protest.
+
+General Waker said Sheikh Hasina left the country after resigning from her post.
+
+He said no members of the Awami League were present at the meeting with the political parties at the army headquarters.
+
+...
+
+[Data](articles/eb7345bd.json)
+
+---
+
+### Thirteen Asian Cricket Tournament
 
 *2024-08-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199592) · `si`
 
-කාන්තා ආසියානු ශූරියන් ලෙස කිරුළු පැළඳු ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩිකාවන් තිදෙනෙක් සඳහා පිළිගැනීමේ උත්සවයක් අද (05) නුගේගොඩ අනුලා විද්‍යාලයේ දී පැවැත්වුණි.
+A welcome ceremony for athletes from Hula Vidyalaya and the University of Halula took place at Anula Vidyalaya, Nugegoda. Three players from the Nugegoda Troops were honored, with the Principal and alumni welcoming them. A trophy was presented to evaluate these athletes' performances.
 
-ඒ නුගේගොඩ අනුලා විද්‍යාලයෙන් සිප් සතර හැදෑරු හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා සහ කෞෂිනී සෙනවිරත්න යන ක්‍රීඩිකාවන් සඳහා ය.
+🟩
 
-නුගේගොඩ නගරයේ සිට රථ පෙළ පෙළපාලියකින් අනුලා විද්‍යාලය දක්වා එම ක්‍රිඩිකාවන් තිදෙනාව රැගෙන එනු ලැබීය.
+A welcome ceremony was held at Anula Vidyalaya, Nugegoda today (05).
 
-පාසලේ විදුහල්පතිතුමිය සහ ගුරුබවතුන්, ශිෂ්‍යාවන් සහ ආදි සිසුවියන් පාසල ඉදිරි අපිට දී මහත්හරිසරයෙන් එම ක්‍රීඩිකාවන් පිළිගනු ලැබීය.
+That was for the athletes of Hula Vidyalaya, Hula Vidyalaya, University of Halula.
 
-අනතුරුව මෙම ක්‍රීඩිකාවන් තිදෙනාව ඇගයීම වෙනුවෙන් කුසලාන ප්‍රදානයක් ද මෙහිදි සිදුවුණි.
+From Nugegoda Troops, the three players were brought to Anula Vidyalaya.
+
+The Principal of the school and the schools and the alumni of the school were welcomed by the school in the future.
+
+Thereafter a cup was awarded to evaluating these three athletes.
 
 ◼️
 
 [Data](articles/f8e21564.json)
+
+[Extended Data](ext_articles/f8e21564.ext.json)
 
 ---
 
@@ -68,6 +96,8 @@ Police have arrested ten suspects including the owner of the tattoo studio in At
 
 [Data](articles/5254525d.json)
 
+[Extended Data](ext_articles/5254525d.ext.json)
+
 ---
 
 ### Supreme Court dismisses contempt petition against Diana Gamage
@@ -85,6 +115,8 @@ The petition, filed by the former chairman of the Weligama Urban Council Rehan J
 ◼️
 
 [Data](articles/62d5b2d1.json)
+
+[Extended Data](ext_articles/62d5b2d1.ext.json)
 
 ---
 
@@ -136,19 +168,29 @@ He won the gold medal with a fifth attempt. After the match, Jakovich said the g
 
 ---
 
-### வைத்தியர் அர்ச்சுனாவுக்கு பிணை நிராகரிப்பு
+### Doctor's bail rejected for Archana
 
 *2024-08-05 16:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை-நிராகரிப்பு/72-341634) · `ta`
 
-மன்னார் பொது வைத்தியசாலைக்கு அனுமதியின்றி நுழைந்து முரண்பாட்டில் ஈடுபட்டதுடன் மகபேற்று வைத்தியர் அறைக்குள் நுழைந்து புகைப்படம் மற்றும் காணொளி எடுத்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள வைத்தியர் அர்ச்சுனாவை தொடர்ந்து விளக்கமறியலில் வைக்க மன்னார் நீதவான்  திங்கட்கிழமை( 05) உத்தரவிட்டுள்ளார்.
+Doctor Archana's bail request was denied after she was accused of entering Mannar General Hospital without permission and recording videos. The magistrate also instructed the police to investigate two other individuals who did the same. Archana was arrested and remanded until the 7th.
 
-வைத்தியர் அர்ச்சுனாவுக்கு எதிரான வழக்கு, நகர்த்தல் பத்திரம் ஊடாக  திங்கட்கிழமை (5 விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது. அப்போது தாக்கல் செய்யப்பட்ட பிணை மனு நிராகரிக்கப்பட்டு தொடர்ந்து விளக்கமறியல நீடித்து, மன்னார் நீதவான்   உத்தரவிட்டுள்ளார்.
+🟩
 
-அதே நேரம் அனுமதி இன்றி   வைத்தியசாலைக்குள்  நுழைந்து வைத்தியருடன்  காணொளி பதிவுகளை மேற்கொண்ட இருவரையும் விசாரணைக்கு உட்படுத்துமாறு   பொலிஸாருக்கு  நீதவான் உத்தரவிட்டுள்ளார்.
+The Mannar Magistrate on Monday (05) has ordered the doctor Archana, who has been interrogated by the Mannar General Hospital without permission, and entered the doctor's room and the photo and video taken.
 
-...
+The case against the doctor Archana was taken up for hearing on Monday (5) through the move deed. The Mannar Magistrate has ordered that the bail plea filed at the time was rejected and continued to be interrogated.
+
+At the same time, the magistrate has ordered the police to investigate the two men who had entered the hospital without permission and made video recordings with the doctor.
+
+A complaint was lodged with the Mannar police against the doctor Archana about taking photos and video without permission to enter the Mannar General Hospital last Friday night (02) without permission.
+
+The doctor was arrested by the Mannar Police on Saturday (03) and produced before the Mannar Magistrate. The magistrate had ordered him to be remanded until the 7th.
+
+◼️
 
 [Data](articles/e84abb60.json)
+
+[Extended Data](ext_articles/e84abb60.ext.json)
 
 ---
 
@@ -188,21 +230,27 @@ However, the protesters took the goods in the prime minister's official residenc
 
 ---
 
-### பங்களாதேஷில் இராணுவ ஆட்சி
+### Bangladesh
 
 *2024-08-05 15:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-இராணுவ-ஆட்சி/50-341633) · `ta`
 
-பங்களாதேசில் ஆட்சியை அந்நாட்டு இராணுவம் கைப்பற்றிய நிலையில், அந்நாட்டில் இராணுவ ஆட்சி அமலுக்கு வருவதாக இராணுவ தளபதி வாக்கர் உஸ்-ஜமான் அறிவித்துள்ளார்.
+In Bangladesh, the military has seized power after PM Sheikh Hasina resigned and left Dhaka. Schools, colleges, and universities are closed, and social media is blocked. Army Commander Wakar Us-Jaman announced military rule, promising to restore law and order with public support.
 
-பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா இன்று தனது பதவியை இராஜினாமா செய்த நிலையில், தலைநகரான டாக்காவை விட்டு வெளியேறினார். இதனைத் தொடர்ந்து இங்கு இராணுவ ஆட்சி பிரகடனம் செய்யப்படும் என தெரிவிக்கப்பட்டிருந்தது.
+🟩
 
-மேலும், அனைத்து பாடசாலை, கல்லூரிகள் மற்றும் பல்கலைக்கழங்கள் மூடப்பட்டன. சமூக வலைதளங்களுக்கும் தடை விதிக்கப்பட்டுள்ளது.
+Army Commander Walker Us-Jaman has announced that the military regime is in effect in the country as the military has taken over the regime in Bangladesh.
 
-இதற்கிடையே, அந்நாட்டில் இடைக்கால அரசை இராணுவம் அமைப்பதாக இராணுவ தளபதி வக்கார் உஸ்-ஜமான் அறிவித்துள்ளார். மேலும், சட்டம் ஒழுங்கை நிலைநிறுத்துவோம். கடினமான சூழலில் பொதுமக்களின் ஒத்துழைப்பு அவசியம் என்று அவர் மேலும் தெரிவித்தார்.S
+Bangladesh Prime Minister Sheikh Hasina resigned from his post today, leaving the capital, Dhaka. Following this, it was announced that the military rule would be declared here.
+
+Also, all schools, colleges and universities closed. Social networks are also banned.
+
+Meanwhile, Army Commander Wakar Us-Jaman has announced that the army will form an interim state in the country. Also, we will establish law and order. He added that public cooperation is essential in a difficult environment.
 
 ◼️
 
 [Data](articles/4c2a2661.json)
+
+[Extended Data](ext_articles/4c2a2661.ext.json)
 
 ---
 
@@ -254,21 +302,29 @@ The Israeli prime minister has confirmed the incident in Heleon at a cabinet mee
 
 ---
 
-### செந்திலிடம் கிழக்கில் ஆதரவு கோரினார் ஜனாதிபதி
+### The president sought support in the east of Senthil
 
 *2024-08-05 15:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செந்திலிடம்-கிழக்கில்-ஆதரவு-கோரினார்-ஜனாதிபதி/73-341631) · `ta`
 
-இராஜாங்க அமைச்சர் வியாழேந்திரனின் ஏற்பாட்டில் மட்டக்களப்பில் இளைஞர் வலுவூட்டல் நிகழ்ச்சி ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில், ஞாயிற்றுக்கிழமை (05) இடம்பெற்றது.
+President Ranil Wickremesinghe addressed the Youth Eradication program in Batticaloa, discussing future development plans and seeking advice from the youth. He highlighted the need for support from Senthil Thondaman, a leader in the hill country, marking the first time a president has sought backing from outside the region. Despite initial protests over Senthil Thondaman's appointment as governor due to community tensions, his leadership has gained widespread acceptance, especially among the Sinhalese and Muslim communities. His efforts to support various cultural and developmental programs for the Tamil community have also been well-received, solidifying his position as a unifying figure across ethnic lines.
 
-மட்டக்களப்பு மாவட்ட இளைஞர்களிடம் நாட்டை கட்டியெழுப்ப ஜனாதிபதி வைத்துள்ள எதிர்கால திட்டங்கள் என்ன என்பதை தெளிவூட்டியதுடன், நாட்டை கட்டியெழுப்புவதற்கான ஆலோசனைகள் மற்றும் இளைஞர்களின் எதிர்பார்ப்புகள் என்னவென்று கேட்டறிந்தார்.
+🟩
 
-மேலும் இளைஞர்கள் வேலைவாய்ப்பு இன்றி நாட்டை விட்டு வெளியேறியுள்ளனர். எதிர்காலத்தில் இளைஞர்களுக்கான வேலைவாய்ப்பை அதிகரிப்பதாகவும், IMF கடன் மறுசீரமைப்பின் ஊடாக 2035 ஆம் ஆண்டு வரை மேற்கொள்ளப்பட உள்ள வேலைத்திட்டங்கள் குறித்து  தெளிவூட்டினார்.
+The Youth Eradication program in Batticaloa was held on Sunday (05) under the patronage of President Ranil Wickremesinghe.
 
-இக்கலந்துரையாடல் நிறைவின் போது இலங்கை தொழிலாளர் காங்கிரஸின் தலைவரும் கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமானிடம் கிழக்கிலும் மலையகத்திலும் ஆதரவு கோரினார். மலையகத்தை தாண்டி மலையக தலைவர் ஒருவரிடம் ஜனாதிபதி ஆதரவு கோரியது இதுவே  முதல் முறை என்பது குறிப்பிடத்தக்கது.
+The President made it clear what the president had to build the country to the youth of the Batticaloa district, and asked what the advice of building the country and the expectations of the youth.
+
+More young people have left the country without employment. He clarified the programs to be carried out in the future until 2035 through the IMF credit restructuring.
+
+At the conclusion of the meeting, the President of the Ceylon Workers Congress and the Governor of the Eastern Province sought support from Senthil Thondaman in the east and the hill country.. This is the first time that the president has sought support from a hill country leader beyond the hill country.
+
+Of the three people in the East, there were fierce conflicts between one community and another society, with a fierce protest against Senthil Thondaman's appointment not to be appointed as governor.
 
 ...
 
 [Data](articles/4a91e8ab.json)
+
+[Extended Data](ext_articles/4a91e8ab.ext.json)
 
 ---
 
@@ -344,6 +400,28 @@ Hasina Is Likeley To Tender Herger Herger Herrner Resignation Amid The ... Pic.t
 
 ---
 
+### Bangladesh PM Hasina resigns, flees to India after deadly protests: Media reports
+
+*2024-08-05 15:19:00* · [`economynextcom`](https://economynext.com/bangladesh-pm-hasina-resigns-heads-to-india-media-reports-175256/) · `en`
+
+ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina has resigned and fled the country on Monday after weeks of deadly protests that saw over 300 being killed, foreign media reported.
+
+Sky News, citing a leading national paper in Bangladesh, said Hasina and her sister took a military helicopter to India.
+
+Reuters reported: “They are taking “safe shelter” away from her official residence”.
+
+Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation.
+
+The demonstrations began with students seeking to end a quota system for government jobs, but clashes with police and pro-government activists escalated into violence that left more than 200 dead last month.
+
+Bangladesh protesters gave the government 48 hours to meet a new set of demands including accountability from the government, which have grown into calls for Hasina, who has been leading the country since 2009, to step down.
+
+...
+
+[Data](articles/74a67b9a.json)
+
+---
+
 ### Sheikh Hasina resigns
 
 *2024-08-05 15:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-இராஜினாமா/50-341630) · `ta`
@@ -405,6 +483,26 @@ The Elections Commission in Rajagiriya has been restricted on Monday (05) on his
 [Data](articles/5e32af54.json)
 
 [Extended Data](ext_articles/5e32af54.ext.json)
+
+---
+
+### Less than 1 million new Sri Lanka voters registered at presidential poll
+
+*2024-08-05 15:03:00* · [`economynextcom`](https://economynext.com/less-than-1-million-new-sri-lanka-voters-registered-at-presidential-poll-175254/) · `en`
+
+ECONOMYNEXT – Sri Lanka will see 876,469 newly registered voters for the upcoming September 21 presidential poll, Election Commission data showed, with political parties campaigning for “system change” have been targeting the first time voters.
+
+The island nation’s Election Commission on Monday said 17,140,354 people have registered for voting at the presidential poll this year, 876,469 higher than the voters registered in the 2020 parliamentary election.
+
+Political analysts say most new voters are tech-savvy youth and have been active in new or social media which might influence their voting pattern.
+
+A campaign for a “system change” has already been started by political parties to win first time voters.
+
+Since Sri Lanka got independence in 1948 from the British colonial rulers, it has been ruled by two key political groups with different economic policies with rampant corruption, analysts say.
+
+...
+
+[Data](articles/bc022614.json)
 
 ---
 
@@ -563,6 +661,26 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 [Data](articles/3ca0acca.json)
 
 [Extended Data](ext_articles/3ca0acca.ext.json)
+
+---
+
+### Sri Lanka’s Browns wraps up Kenya, Rwanda Lipton purchases
+
+*2024-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-wraps-up-kenya-rwanda-lipton-purchases-175234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Browns Investments said it had completed the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands based parents.
+
+“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates,” the company said in a stock exchange filing.
+
+The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is still pending due to the outstanding approval from the Fair Competition Commission of Tanzania, the company said.
+
+It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in May.
+
+Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
+
+...
+
+[Data](articles/d4a994a8.json)
 
 ---
 
@@ -842,21 +960,29 @@ Gaza’s Civil Emergency Service said dozens were wounded in addition to the fat
 
 ---
 
-### රු. කෝටි 8ක කේරළ ගංජා නාවික හමුදා භාරයට
+### Rs. Heavy cannabis in the Kerala Cannabis
 
 *2024-08-05 13:10:05* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-8ක-කේරළ-ගංජා-නාවික-හමුදා-භාරයට/11-411204) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව, කිලිනොච්චිය, ඉරණතිව් දූපතේ 2024 අගෝස්තු මස 04 වන දින සිදුකල සෝදිසි මෙහෙයුමකදී, එම දූපතේ ලඳු කැලෑවක් තුල සඟවා තිබූ කේරළ ගංජා කිලෝග්‍රෑම් දෙසිය හතකට (207) අධික තොගයක් නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+On August 4, 2024, the Sri Lankan Navy intercepted a heavy cannabis shipment off the coast of Kilinochchi, arresting six suspects. The operation, involving the Western Naval Ship Buvana Buwaneka Buwane, targeted illegal activities along the coast.
 
-ශ්‍රී ලංකාවට අයත් මුහුද සහ වෙරළ කලාපය ඔස්සේ සිදුකෙරෙන නීති විරෝධී කටයුතු මැඩපැවැත්වීම සඳහා නාවික හමුදාව නිරන්තර අවධානයෙන් සිටිමින් මෙහෙයුම් ක්‍රියාත්මක කරනු ලබයි.
+🟩
 
-ඒ අනුව, බටහිර  නාවික විධානය වෙතින් ලබාදුන් තොරතුරකට අනුව, උතුරු මැද නාවික විධානයට අයත් ශ්‍රී ලංකා නාවික නෞකා බුවනෙක ආයතනය, ක්‍ෂණික ක්‍රියාකාරී යාත්‍රා  බලඝණය හා එක්ව  2024 අගෝස්තු මස 04 වන දින කිලිනොච්චිය ඉරණතිව් දූපතේ සිදුකල මෙම විශේෂ සෝදිසි මෙහෙයුමේදී, ‍එම දූපතේ ලඳු කැළෑවක් තුළ සඟවා තිබූ සැකකටයුතු උර හයක් (06) පරීක්‍ෂාවට ලක්කෙරිණි. එහිදී එම උර තුල පාර්සල් අනූ නවයක (99)  අසුරන ලද කේරළ ගංජා කිලෝ 207 ග්‍රෑම් 020  ක තොගයක් මෙලෙස නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+Investigation operation conducted on August 04, Kilinochchi, Iravuvuvuvuvuvulavuvuvila, Kilinochchi, was taken into custody by the Navy.
 
-මෙම මෙහෙයුම මඟින් නාවික හමුදා භාරයට ගත් කේරළ ගංජා තොගයේ දළ වීථි වටිනාකම රුපියල් මිලියන අසූ දෙකකට (82) අධික වෙතැයි විශ්වාස කෙරේ.
+Navy operates in constant attention to suppress the illegal activities of Sri Lanka and the coastal zone.
 
-...
+Accordingly, the Western Naval Ship Buvana Buwaneka Buwane, Sri Lanka Naval Ship Buwaneka Buwane, the immediate active vessel, is hidden in the Iranathivu Padium in Kilinochchi on 04 August 2024 at the Iranathivatu Island of Kilinochchi on June 4, 202.Six (06) suspects were inspected. He was taken into custody by navy coordinating Rs.
+
+Gross Streets of Kerala cannabis are believed to be over Rs.
+
+The operation was also taken into custody by the Navy in the Navy.
+
+◼️
 
 [Data](articles/9057d93f.json)
+
+[Extended Data](ext_articles/9057d93f.ext.json)
 
 ---
 
@@ -2173,95 +2299,5 @@ Through the HNB Assurance Aspire program, candidates will have the opportunity t
 [Data](articles/21989d8f.json)
 
 [Extended Data](ext_articles/21989d8f.ext.json)
-
----
-
-### G.L. announces launch of major political alliance on 8 Aug. to support Sajith Premadasa
-
-*2024-08-05 02:49:04* · [`dailyftlk`](https://www.ft.lk/news/G-L-announces-launch-of-major-political-alliance-on-8-Aug-to-support-Sajith-Premadasa/56-765162) · `en`
-
-FPC member MP G.L. Peiris says current Govt.’s term will last a mere 46 days
-
-Says with only 92 MPs now supporting President Ranil Wickremesinghe, Govt. has lost its simple majority in Parliament
-
-Criticises current administration for what he described as an unprecedented assault on the judiciary
-
-Accuses President of facilitating widespread fraud and corruption to bolster own political prospects
-
-Freedom People’s Congress member MP Prof. G.L. Peiris has announced that the broadest political alliance in recent times will be formed on 8 August in support of Opposition Leader Sajith Premadasa’s candidacy at the upcoming election.
-
-Addressing a press conference in Colombo, MP Prof. G.L. Peiris said while the current Government’s term will conclude in 46 days, that only 92 MPs are now supporting the President, who was elected with 134 Parliamentary votes. According to Peiris, this reduction in support signifies that the Government has lost its simple majority in Parliament.
-
-...
-
-[Data](articles/8c079f03.json)
-
-[Extended Data](ext_articles/8c079f03.ext.json)
-
----
-
-### Dilith announced Sarvajana Balaya Presidential Candidate
-
-*2024-08-05 02:46:50* · [`dailyftlk`](https://www.ft.lk/news/Dilith-announced-Sarvajana-Balaya-Presidential-Candidate/56-765161) · `en`
-
-Businessman Dilith Jayaweera has been selected as the Presidential Candidate of the Sarvajana Balaya political alliance for the upcoming Presidential Election.
-
-The announcement was made by National Freedom Front (NFF) leader MP Wimal Weerawansa at the Sarvajana Balaya convention held at the Sugathadasa Indoor Stadium in Colombo yesterday.
-
-Addressing the event, Weerawansa emphasised the need for a political force that is genuinely patriotic and committed to the country. He said as a result, the party’s Executive Council has unanimously decided to nominate Dilith Jayaweera as the alliance’s Presidential Candidate.
-
-The Sarvajana Balaya, a newly formed political coalition launched in May this year, includes Jayaweera’s Mawbima Janatha Party (MJP), MP Wimal Weerawansa’s National Freedom Front (NFF), and MP Udaya Gammanpila’s Pivithuru Hela Urumaya (JHU), among other parties.
-
-...
-
-[Data](articles/e9c82eac.json)
-
-[Extended Data](ext_articles/e9c82eac.ext.json)
-
----
-
-### SLPP MPs stand firm in support of President as new district leaders announced
-
-*2024-08-05 02:44:58* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MPs-stand-firm-in-support-of-President-as-new-district-leaders-announced/56-765160) · `en`
-
-SLPP decides to replace district leaders who extended support to President Ranil Wickremesinghe
-
-SLPP’s Kanchana Wijesekera says, despite being stripped of posts, they will not withdraw support for Ranil Wickremesinghe
-
-Claims more MPs are likely to announce decision to support Wickremesinghe in coming days
-
-Urges party leadership to reconsider decision to field a different candidate or risk losing support of its members
-
-Sri Lanka Podujana Peramuna (SLPP) MPs who extended their support to President Ranil Wickremesinghe recently have refused to withdraw their support, despite the party taking steps to replace some of its district leaders due to their backing of Wickremesinghe.
-
-The party appointed several new district leaders yesterday to replace those who announced their support to the President, in defiance of the SLPP’s decision to field its own candidate at the 21 September election.
-
-...
-
-[Data](articles/6f3106a4.json)
-
-[Extended Data](ext_articles/6f3106a4.ext.json)
-
----
-
-### SLPP National Convenor Rohitha to support President
-
-*2024-08-05 02:40:59* · [`dailyftlk`](https://www.ft.lk/news/SLPP-National-Convenor-Rohitha-to-support-President/56-765159) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) National Convenor Rohitha Abeygunawardena has declared his support for President Ranil Wickremesinghe’s candidacy in the upcoming elections.
-
-Speaking at a public meeting in Kalutara yesterday, Abeygunawardena explained that his decision was made in response to the requests of party supporters.
-
-Abeygunawardena said, despite his decision to support Wickremesinghe at this time, his loyalty to former President Mahinda Rajapaksa, whom he regards as his political leader, and Basil Rajapaksa, whom he considers his political mentor, remains unwavering.
-
-The SLPP stalwart said the decision was a difficult one and was not made in opposition to Mahinda Rajapaksa or the SLPP.
-
-“We know that in politics, there are no permanent friends or enemies. Therefore, after listening to the people and considering the country’s situation, I have decided to support Ranil Wickremesinghe for the presidency,” he said.
-
-...
-
-[Data](articles/7ffc8295.json)
-
-[Extended Data](ext_articles/7ffc8295.ext.json)
 
 ---

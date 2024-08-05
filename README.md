@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 04:20:53**
+As of **2024-08-06 04:36:28**
 
 ## Newspaper Stats
 
-*Scraped **39,181** Articles*
+*Scraped **39,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,98 @@ adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,907
-virakesarilk | 6,203
+virakesarilk | 6,205
 adaderanasinhalalk | 6,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,179 (100.0%) of 39,181 articles have been extended.
+39,181 (100.0%) of 39,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### பொலிஸ்மா அதிபர் விவகாரத்தில் சட்டமா அதிபரிடம் அபிப்பிராயம் கோரினார் சபாநாயகர்
+### மஹிந்தவின் ஆலோசனைக்கமையவே ஜனாதிபதிக்கு ஆதரவு வழங்கினோம் - பிரசன்ன ரணதுங்க
+
+*2024-08-06 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190381) · `ta`
+
+2022 மே 09 வன்முறை சம்பவத்துக்கு பொறுப்புக்கூற வேண்டியவர்கள், வன்முறை சரி என்று தற்போது குறிப்பிடுவது வேடிக்கையாகவுள்ளது. கட்சியின் உறுப்பினரை வேட்பாளராக அறிவிப்பதாக இருந்தால் சுயாதீனமாக தீர்மானங்களை எடுத்துக் கொள்ளுங்கள் என்று மஹிந்த ராஜபக்ஷ எம்மிடம் குறிப்பிட்டார்.
+
+அதற்கமைவாகவே ஜனாதிபதிக்கு ஆதரவு வழங்கினோம் என வீடமைப்பு மற்றும் நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+
+கம்பஹா – உடுகம்பொல பகுதியில் திங்கட்கிழமை (5) இடம்பெற்ற பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2022 மே 09 வன்முறை சம்பவம் பற்றி தற்போது பேசப்படுகிறது. அலரிமாளிகையில் அரசியல் கூட்டத்தை நடத்த வேண்டாம் என்று 2022.05.08 ஆம் திகதி அப்போதைய பிரதமர் மஹிந்த ராஜபக்ஷவிடம் வலியுறுத்தினேன். முறையற்ற வகையில் ஏற்பாடு செய்யும் கூட்டத்தில் கலந்துக் கொள்ள போவதில்லை என்று நான் குறிப்பிட்டேன்.
+
+...
+
+[Data](articles/b09b14b4.json)
+
+---
+
+### நாட்டை கட்டியெழுப்ப அனைத்து கட்சிகளும் ஒன்றிணையவே ஜனாதிபதி சுயாதீன வேட்பாளராக களமிறங்கியுள்ளார் - வஜிர அபேவர்த்தன
+
+*2024-08-06 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190380) · `ta`
+
+ஜனாதிபதி எந்த கட்சியையும் பிளவு படுத்தவில்லை. ஆனால் அந்த கட்சிகள் பிளவு பட்டிருந்த காலகட்டத்திலேயே ஜனாதிபதி நாட்டை பொறுப்பேற்றிருந்தார். தற்போதும் அனைத்து அரசியல் கட்சிகளும் ஒன்றிணைந்து செயற்படுவதற்கு சந்தர்ப்பம் வழங்கும் வகையிலேயே ஜனாபதி ரணில் விக்ரமசிங்க தேர்தலில் சுயாதீன வேட்பாளராக களமிறங்கியுள்ளார் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+
+எமது நாட்டில் கடந்த வருடங்களில் இருந்துவந்த பொருளாதார நெருக்கடி நிலை காரணமாக இளைஞர் சமூகம் முழுமையாக வீழ்ச்சியடைந்தது. சில இளைஞர்கள் நாட்டை விட்டு சென்றனர். இந்த நிலை தொடர்ந்து அவ்வாறு இருக்க முடியாது. நாங்கள் இந்த நாட்டை புதிய திசைக்கு கொண்டு செல்ல வேண்டும்.இதற்கு இளைஞர்களின் கருத்துக்கள் ஆலாேசனைகள் தேவையாகும்.
+
+...
+
+[Data](articles/208c6f02.json)
+
+---
+
+### Speaker sought opinion on Attorney General
 
 *2024-08-06 04:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190379) · `ta`
 
-சர்ச்சைக்குரிய பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சட்டமா அதிபர் பரிந்த ரணசிங்கவிடம் அபிப்பிராயம் கோரியுள்ளார்.
+Mahinda Yapa Abeywardena, the Speaker, has requested Attorney General Parinda Ranasinghe's advice on the contentious police chief appointment. The High Court suggested the President appoint a police chief but was rebuffed due to the President's candidacy status. The Prime Minister argued the Supreme Court couldn't challenge constitutional decisions. The Speaker has asked the President to consult with him and the Chief Justice, while the Attorney General is preparing a report on resolving the situation.
 
-அண்மையில் தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராகக் கடமையாற்றுவதற்கு இடைக்காலத்தடைவிதித்து உத்தரவு பிறப்பித்த உயர்நீதிமன்றம், பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிக்குமாறு ஜனாதிபதிக்கு ஆலோசனை வழங்கியிருந்தது.
+🟩
 
-இருப்பினும் எதிர்வரும் ஜனாதிபதித்தேர்தலில் தானும் ஒரு வேட்பாளராகக் களமிறங்குவதால் பதில் பொலிஸ்மா அதிபரை நியமிப்பதிலிருந்து விலகியிருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்திருந்தார்.
+Speaker Mahinda Yapa Abeywardena has appealed to Attorney General Parinda Ranasinghe over the controversial police chief.
 
-அதேபோன்று அரசியலமைப்புப்பேரவையினால் மேற்கொள்ளப்பட்ட தீர்மானத்தை உயர்நீதிமன்றத்தினால் கேள்விக்குட்படுத்தமுடியாது எனவும், ஆகவே இவ்விவகாரத்தில் நீதிமன்றம் பிறப்பித்த உத்தரவுக்கு எவ்வித சட்டவலுவும் இல்லை எனவும் பிரதமர் தினேஷ் குணவர்தன பாராளுமன்றத்தில் ஆற்றிய உரையில் குறிப்பிட்டிருந்தார்.
+The High Court recently issued an interim order to serve as the Tennakoon Police Inspector General of Police, and advised the President to appoint a police chief.
+
+However, President Ranil Wickremesinghe has stated that he has quit the appointment of the Inspector General of Police as he is a candidate in the upcoming presidential election.
+
+Similarly, Prime Minister Dinesh Gunawardena said in a speech in Parliament that the Supreme Court could not question the decision made by the Constitutional Constitution and therefore had no legal law in this regard.
+
+Speaker Mahinda Yapa Abeywardena has said that the President has urged the Speaker and the Chief Justice to discuss the matter in this context.
+
+However, Speaker Binda Ranasinghe has appealed to the Speaker Binda Ranasinghe regarding the legal techniques to address the issue of the police chief.
 
 ...
 
 [Data](articles/d3e5cebf.json)
 
+[Extended Data](ext_articles/d3e5cebf.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் போட்டியில் 17 பேர் கட்டுப்பணம் செலுத்தல் - தேர்தல்கள் ஆணைக்குழு
+### 17 candidates in the presidential election - Elections Commission
 
 *2024-08-06 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190374) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை  (05ஆம் திகதி திங்கட்கிழமை) 17 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட 9 வேட்பாளர்களும்,வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சையாக போட்டியிட 7  வேட்பாளர்களும் இவ்வாறு கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+In the upcoming presidential election, there are 17 candidates: 9 from authorized political parties, 1 from other parties, and 7 independents. Candidates can submit their applications from 9 am to 11.30 am on Thursday, 15th, with the deadline being Wednesday, 14th. Notable candidates include Osala Herath, ASP Liagke, Sajith Premadasa, SK Pandaranaike, Vijayadasa Rajapakse, Sarath Manamendra, Battaramulla Seelaratne Thera, KR Kishan, Ajantha The Soyza, Ranil Wickremesinghe, Sarath Keerthi Ratna, KK Piyadasa, Ananda Kularatne, Akmeemana Taru Siripala Amarasinghe, and Sarath Fonseka.
 
-ஜனாதிபதி தேர்தலுக்காக கட்டுப்பணம் செலுத்தல் எதிர்வரும் 14 ஆம் திகதி  புதன்கிழமை  வரை ஏற்றுக்கொள்ளப்படவுள்ள நிலையில் எதிர்வரும் 15 ஆம் திகதி வியாழக்கிழமை காலை 9 மணி முதல் 11.30 மணிவரையான காலப்பகுதியில்  வேட்பு மனுக்கள் ஏற்றுக்கொள்ளப்படவுள்ளது.தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் காலவகாசம் நேற்றுடன் முடிவடைந்தது.
+🟩
+
+17 candidates have controlled the presidential election so far (Monday 05). The Elections Commission has announced that 9 candidates to contest on behalf of authorized political parties, 1 candidates to contest on behalf of other political parties and 7 candidates to contest independently.
+
+Candidates will be accepted from 9 am to 11.30 am on Thursday, 15th, as the Presidential Elections will be accepted until Wednesday, the 14th.
+
+Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party, Battaramulla Seelaratne Thera on behalf of the Janasena Front, and KR Kishan on behalf of the Arunulu People's Front have been controlled as recognized political parties.
 
 ...
 
 [Data](articles/ac729e25.json)
+
+[Extended Data](ext_articles/ac729e25.ext.json)
 
 ---
 
@@ -2221,49 +2271,5 @@ Amarasinghe, the 15th person who deposited the control of the presidential elect
 [Data](articles/50681f75.json)
 
 [Extended Data](ext_articles/50681f75.ext.json)
-
----
-
-### Sri Lanka’s Browns wraps up Kenya, Rwanda Lipton purchases
-
-*2024-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-buys-lipton-in-kenya-and-rwanda-175234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Browns Investments said it had completed the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands based parents.
-
-“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates,” the company said in a stock exchange filing.
-
-The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is still pending due to the outstanding approval from the Fair Competition Commission of Tanzania, the company said.
-
-It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in May.
-
-Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
-
-...
-
-[Data](articles/3ca0acca.json)
-
-[Extended Data](ext_articles/3ca0acca.ext.json)
-
----
-
-### Sri Lanka’s Browns wraps up Kenya, Rwanda Lipton purchases
-
-*2024-08-05 14:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-wraps-up-kenya-rwanda-lipton-purchases-175234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Browns Investments said it had completed the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands based parents.
-
-“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates,” the company said in a stock exchange filing.
-
-The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is still pending due to the outstanding approval from the Fair Competition Commission of Tanzania, the company said.
-
-It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in May.
-
-Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
-
-...
-
-[Data](articles/d4a994a8.json)
-
-[Extended Data](ext_articles/d4a994a8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 17:57:09**
+As of **2024-08-05 18:16:34**
 
 ## Newspaper Stats
 
-*Scraped **39,111** Articles*
+*Scraped **39,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 371
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,589
-adaderanalk | 4,540
+adalk | 3,590
+adaderanalk | 4,541
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,897
 virakesarilk | 6,185
@@ -26,21 +26,43 @@ adaderanasinhalalk | 6,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,108 (100.0%) of 39,111 articles have been extended.
+39,111 (100.0%) of 39,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### චමරිට ලැබුණු අලුත්ම තැන
+### Chamari nominated for ICC Women’s Player of the Month for July
+
+*2024-08-05 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101016/chamari-nominated-for-icc-womens-player-of-the-month-for-july) · `en`
+
+Sri Lankan all-rounder and Women’s Team captain  Chamari Athapaththu has been nominated for ICC Women’s Player of the Month for July 2024 after leading her country to a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India.
+
+Athapaththu has been nominated alongside the Indian duo of Smriti Mandhana and Shafali Verma.
+
+Sri Lanka stalwart Chamari Athapaththu added another feather to her crown with a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India in July. This triumph was yet another feat under her leadership in the last 12 months, a period in which Sri Lanka have set several milestones, including first-ever T20I series wins against England and South Africa and securing their qualification for the ICC Women’s T20 World Cup 2024.
+
+...
+
+[Data](articles/9b5fc7f4.json)
+
+---
+
+### Chamari's latest
 
 *2024-08-05 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199593) · `si`
 
-ICC ජූලි මාසයේ ක්‍රිකට් ක්‍රීඩිකාව සඳහා නිර්දේශ නාම 03 අතරට ශ්‍රී ලංකා කණ්ඩායමේ නායිකා චමරි අතපත්තු ඇතුළත් වී තිබේ.
+Sri Lanka's Chamari Atapattu is one of three nominees for the ICC Cricketer of the Month award.
+
+🟩
+
+The Sri Lankan team leader Chamari, Atapattu, is among the three recommendations for the cricketer of the month of ICC.
 
 ◼️
 
 [Data](articles/c6539ab3.json)
+
+[Extended Data](ext_articles/c6539ab3.ext.json)
 
 ---
 
@@ -692,19 +714,25 @@ The bail of Sarath Fonseka has been deposited this morning.
 
 ---
 
-### முன்னாள் எம்.பியும் போட்டி
+### Former MP also competition
 
 *2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-எம்-பியும்-போட்டி/150-341624) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர்  சிறிபால அமரசிங்க கட்டுப்பணத்தை திங்கள்கிழமை  (5) காலை வைப்பிலிட்டுள்ளார்.
+Siripala Amarasinghe, a former MP from the Gampaha District and member of the Janatha Vimukthi Peramuna, became the 15th candidate to enter the presidential race as an independent contender.
 
-இவர், மக்கள் விடுதலை முன்னணியின் கம்பஹா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஆவார்.
+🟩
 
-இம்முறை ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை பணத்தை வைப்பிலிட்ட 15ஆவது நபரான  அமரசிங்க,  ஆறாவது சுயேச்சை வேட்பாளரும் ஆவார்.
+Former MP Siripala Amarasinghe, former MP Siripala Amarasinghe, has placed control of the upcoming presidential election on Monday morning.
+
+He is a former Member of Parliament of the Gampaha District of the Janatha Vimukthi Peramuna.
+
+Amarasinghe, the 15th person who deposited the control of the presidential election, is the sixth independent candidate.
 
 ◼️
 
 [Data](articles/0ce69f91.json)
+
+[Extended Data](ext_articles/0ce69f91.ext.json)
 
 ---
 
@@ -1248,6 +1276,8 @@ ECONOMYNEXT – Over 90 people were killed in clashes over the weekend in Bangla
 
 At least 13 policemen were beaten to death and 6 Awami League men were also among the dead, Bangladesh’s Financial Express newspaper reported.
 
+Prime Minister Sheik Hasina, has called for calm as protestors called for her ouster.
+
 With internet access cut, some newspapers are not online, while others are uploading pdf versions of their editions online.
 
 Bangladesh’s Taka has been under pressure since the economy started to recover after Covid and the central bank did not allow rates to go up amid a strong recovery.
@@ -1262,17 +1292,23 @@ The Bangladesh Taka which was around 84 to the US dollar during the crisis but s
 
 ---
 
-### ජනපතිවරණයට ඡන්දය දෙන්න 17 140 354ක් සුදුසුකම් ලබති
+### 140 354 qualify to vote for the presidential election
 
 *2024-08-05 12:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-ඡන්දය-දෙන්න-17-140-354ක්-සුදුසුකම්-ලබති/11-411202) · `si`
 
-මෙවර ජනපතිවරණය සඳහා ඡන්දය  ප්‍රකාශ කිරීමට ඡන්ද දායකයන් 1 71 40 354ක් සුදුසුකම් ලබා ඇති බව මැතිවරණ කොමිෂන් සභාව දන්වා සිටියි.
+The Elections Commission reports 1,754 voters have qualified for the upcoming presidential election, with the highest voter count in Gampaha and the lowest in Vanni districts.
 
-දිස්ත්‍රික්කයක් ලෙස වැඩිම ඡන්ද දායකයන් පිරිසක් සිටින්නේ ගම්පහ දිස්ත්‍රික්කයෙන් වන අතර එම සංඛ්‍යාව 1 881 129 කි. අඩුම ඡන්ද දායකයන් ප්‍රමාණයක් සිටින්නේ වන්නි දිස්ත්‍රික්ක යෙන් වන අතර ඒම අගය 306 081කි.
+🟩
+
+The Elections Commission (EPL) has informed that 1,754 voters qualified to vote for the presidential election.
+
+The highest number of voters in the Gampaha district are the highest number of voters as a district. The lowest number of voters are in the Vanni districts, and 30681201.
 
 ◼️
 
 [Data](articles/c7acec2c.json)
+
+[Extended Data](ext_articles/c7acec2c.ext.json)
 
 ---
 
@@ -1333,6 +1369,22 @@ Surestra Wasantha alias Kib Wasantha alias murder were taken to courts in the mi
 [Data](articles/543caa92.json)
 
 [Extended Data](ext_articles/543caa92.ext.json)
+
+---
+
+### අනුරාධපුරයේ බිත්තර කුකුළු පාලන ව්‍යාපෘතියේ සාර්ථකත්වය බැලීමට ලාඕසයෙන් එයි
+
+*2024-08-05 12:08:41* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුරයේ-බිත්තර-කුකුළු-පාලන-ව්‍යාපෘතියේ-සාර්ථකත්වය-බැලීමට-ලාඕසයෙන්-එයි/11-411200) · `si`
+
+ලෝක අහාර සංවිධානයේ දායකත්වයෙන් අනුරාධපුර දිස්ත්‍රික්කයේ ක්‍රියාත්මක වන බිත්තර කුකුළු පාලන ව්‍යාපෘතිය නිරීක්ෂණය කිරීම සදහා ලාඕසයෙහි නිලධාරීන් පිරිසක් පසුගිය දා අනුරධපුරයේ සංචාරයක නිරත විය. මෙම බිත්තර නිෂ්පාදන ව්‍යාපෘතිය අනුරාධපුර දිස්ත්‍රික්කය තුළ සාර්ථකව ක්‍රියාත්මක වන බව ලෝක ආහාර සංවිධානය හදුනාගෙන ඇත.
+
+දිස්ත්‍රික්කය තුළ ප්‍රාදේශිය ලේකම් කොට්ඨාස 16 ක  කුකුළු පාලන ඒකක 163 ක් ක්‍රියාත්මක කොට තිබේ. ඒ අනුව කහටගස්දිගිලිය හා මධ්‍යම නුවරගම් පලාත ප්‍රාදේශීය ලේකම් කොට්ඨාශ තුළ ක්‍රියාත්මක කුකුලු පාලන ව්‍යාපෘති කිහිපයක් මෙසේ ලාඕස නිලධාරින් පිරිසෙහි නිරික්ෂණයට ලක්විය.
+
+මෙම එක් කුකුල් පාලන ඒකකයක් සදහා ලෝක ආහාර සංවිධානය මගින් වැයකර ඇති මුදල රුපියල් ලක්ෂ හයකට අධික වේ. එක් පාලන ඒකකයකට කුකුළු පැටවුන් 55 දෙනෙකු බැගින් ලබා දී ව්‍යාපෘතිය ආරම්භ කර තිබේ. එමගින් දිනකට බිත්තර 50 ක පමණ අස්වැන්නක් ලබාගන්නා බව මෙම නිරීක්ෂණයේ දී තොරතුරු හෙලිවී තිබේ.
+
+...
+
+[Data](articles/1d814840.json)
 
 ---
 
@@ -2259,57 +2311,5 @@ The accident occurred when the Harm Baba religious event in Sagar district, whic
 [Data](articles/33e12f22.json)
 
 [Extended Data](ext_articles/33e12f22.ext.json)
-
----
-
-### Postal voting applications relating to presidential election is over
-
-*2024-08-05 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199573) · `si`
-
-The deadline for postal voting applications in the upcoming presidential election has passed. Despite rumors spread via social media about an extension, the Elections Commission confirms that postal voting concludes today and will not be delayed further. Voters seeking information should visit www.elections.gov.lk. Additionally, media heads were summoned to a meeting at the Election Commission office in Rajagiriya today, following a special discussion held last Saturday.
-
-🟩
-
-With the announcing the presidential election, the Elections Commission has published the current circular for postal voting applications.
-
-The Elections Commission states that the Election Commission (Elections Commission) has to address the District Election Office to the District Election Office today to complete the name of postal voting applications.
-
-However, the Commission has circulated various information through social media that the postal voting application date has been extended.
-
-Accordingly, the postal voting is concluded today and the Elections Commission says that it will not be postponed for any reason.
-
-Postal voting candidates and other voters can obtain information by visiting www.elections.gov.lk
-
-Meanwhile, the heads of media institutions have been summoned to the Election Commission today.
-
-The meeting is scheduled to be held at the Elections Commission Office at Rajagiriya this morning.
-
-...
-
-[Data](articles/fce88692.json)
-
-[Extended Data](ext_articles/fce88692.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-08-05 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199568) · `si`
-
-Today, showers are expected in the Western and Sabaragamuwa provinces, with potential heavy rains in over 50% areas. The Meteorological Department is taking measures to minimize strong winds and lightning risks from thunderstorms, also predicting evening or night showers across the island.
-
-🟩
-
-Showers will occur in the Western and Sabaragamuwa provinces today (05), according to the weather forecast issued by the Department of Meteorological and Sabaragamuwa provinces.
-
-Showers or thundershowers during the evening or night in other parts of the island. Heavy rains can occur in more than 50.
-
-The Meteorological Department further stated that steps have been taken to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/8cdbcd6d.json)
-
-[Extended Data](ext_articles/8cdbcd6d.ext.json)
 
 ---

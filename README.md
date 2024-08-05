@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 09:36:10**
+As of **2024-08-05 09:55:33**
 
 ## Newspaper Stats
 
-*Scraped **39,016** Articles*
+*Scraped **39,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 370
 islandlk | 2,250
 economynextcom | 2,352
 dailyftlk | 2,506
-adalk | 3,575
+adalk | 3,576
 adaderanalk | 4,522
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,872
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,015 (100.0%) of 39,016 articles have been extended.
+39,016 (100.0%) of 39,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### මහනුවර ඇසළ පෙරහර මංගල්‍යය අද ආරම්භ වේ
+### The Kandy Esala Perahera commences today
 
 *2024-08-05 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199574) · `si`
 
-සතර මහා දේවාලයන්හි කප් සිටුවීමෙන් අනතුරුව මහනුවර ඇසළ පෙරහර මංගල්‍යයේ කටයුතු අද (05) ආරම්භ කෙරේ.
+The Kandy Esala Perahera begins today, marking the start of festivities after the planting of the 'cup' at the Maha Devalayas of Natha, Vishnu, Kataragama, and Pattini. The event includes a feast and the first pottery Perahera, which will commence on the 10th, lasting for 10 days.
 
-නාථ, විෂ්ණු, කතරගම හා පත්තිනි යන සතර මහා දේවාලයන්හි දී කප් සිටුවීමේ මංගල්‍යය අද පෙරවරු 4.10ට යෙදී තිබු සුභ මොහොතින් සිදුවිය.
+🟩
 
-කප් සිටුවීමෙන් අනතුරුව දින පහක් දේවාල අභ්‍යන්තර පෙරහර පවත්වා ප්‍රථම කුඹල් පෙරහර මේ මස 10 වනදා වීථි සංචාරය කිරීමට නියමිත බව ශ්‍රී දළදා මාළිගාවේ දියවඩන නිලමේ ප්‍රදිප් නිලංග දෑල මහතා සඳහන් කළේය.
+After planting the cup of four general temple, the Kandy Esala Perahera today (05).
+
+The cup planting feast was held at the Maha Devalays of Natha, Vishnu, Kataragama and Pattini.
+
+Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame on the 10th of this month, the first pottery Perahera will visit the 10 days of the Devalaya Perahera on the 10th of this month.
 
 ◼️
 
 [Data](articles/dfadcad0.json)
+
+[Extended Data](ext_articles/dfadcad0.ext.json)
 
 ---
 
@@ -87,6 +93,26 @@ Darshana qualified for the semifinals in the qualifying round of the qualifying 
 [Data](articles/62fbe661.json)
 
 [Extended Data](ext_articles/62fbe661.ext.json)
+
+---
+
+### ජනේලයෙන් වෙඩි තබා ගිය වෙඩික්කරුගේ ඉලක්කය වරදී
+
+*2024-08-05 08:43:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනේලයෙන්-වෙඩි-තබා-ගිය-වෙඩික්කරුගේ-ඉලක්කය-වරදී/11-411194) · `si`
+
+සෙවනගල ප්‍රදේශයේ නිවසක නිදා සිටි පුද්ගලයෙකුට ඊයේ (04) අලුයම නිවසේ ජනේලයක් විවෘත කර වෙඩි තබා ඇති බව සෙවනගල පොලිසිය පවසයි.
+
+අලුයම තුනට පමණ සිදු වූ වෙඩි පහරින් තුවාල ලබා ඇත්තේ කිරිඉබ්බන්ආර ආයුර්වේද රෝහල අසල පදිංචි 39 හැවිරිදි තිදරු පියෙකු බව පොලීසිය කියයි.
+
+මෙලෙස වෙඩි පහරට ලක් වූ පුද්ගලයා පවුල් ආරවුලක් හේතුවෙන් ටික දිනක සිට නිවසේ නොසිට,  නිවසට මද දුරක් පිහිටි වෙනත් අයකුට අයත් නිවසක රාත්‍රී කාලය තනිව ගත කර ඇති බවත් රාත්‍රී ආහාර ගැනීමෙන් පසු නිවසේ ජනේලයක් විවෘත කර නිදාසිටියදී අද විවෘත කර තිබූ ජනේලයෙන් වෙඩි තබා ඇති බවත් පොලීසිය පවසයි.
+
+වෙඩි තැබීමෙන් ඔහුගේ අතෙහි කිහිල්ල ප්‍රදේශයට බරපතල ලෙස හානි සිදු වී ඇති අතර පොලිසිය සැක පල කරන්නේ ,ඔහු ඝාතනය කිරීමට සිතා වෙඩි තැබීම සිදු කළ ද වෙඩික්කරුට ඉලක්කය වැරදීම හේතුවෙන් මෙම ඝාතනය සිදුකරගැනීමට නොහැකි වී ඇති බවයි.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු තුවාලකරු ඇඹිලිපිටිය රෝහලේ ප්‍රතිකාර ලබන අතර සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/99973178.json)
 
 ---
 
@@ -2237,29 +2263,5 @@ When the two sides representing the Sinhalese people, when they are united for a
 [Data](articles/cf3eb229.json)
 
 [Extended Data](ext_articles/cf3eb229.ext.json)
-
----
-
-### "I refused to drink milk"
-
-*2024-08-04 15:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பால்-குடிக்க-மறுத்ததால்-திருகினேன்/71-341562) · `ta`
-
-A child's refusal to drink milk led to an investigation into its death, involving the arrest of the mother, father, and a caretaker. The child's body will be released upon completing an autopsy.
-
-🟩
-
-The mother said in an early inquiry that the baby had refused to drink milk and had twisted the baby's legs.
-
-Sasirupan Nikas, a native of Alavetti, Jaffna, was carrying out an investigation into the death of a child and a child, saying, "The child's mother refused to drink milk.. But I did not kill my child. ”
-
-The mother has arrested the mother and the child's father and a woman who came home to care for the baby have been carried out in police custody.
-
-In addition, the body of the child will be handed over to the court order after the child's anatomical examination report.
-
-◼️
-
-[Data](articles/477a963e.json)
-
-[Extended Data](ext_articles/477a963e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 20:55:02**
+As of **2024-08-05 21:06:08**
 
 ## Newspaper Stats
 
-*Scraped **39,131** Articles*
+*Scraped **39,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,360
 dailyftlk | 2,506
-adalk | 3,593
+adalk | 3,594
 adaderanalk | 4,544
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,903
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,128 (100.0%) of 39,131 articles have been extended.
+39,131 (100.0%) of 39,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### சிறுவனை வீதியில் இழுத்துச் சென்று தாக்கிய நபர் கைது
+### The man arrested for dragging the boy into the street
 
 *2024-08-05 20:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-வீதியில்-இழுத்துச்-சென்று-தாக்கிய-நபர்-கைது/175-341643) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட கொழும்பு வீதி நாவலடி பகுதியில் நேற்று சிறுவன் ஒருவனை காபர்ட் வீதியில் இழுத்துச் சென்று தாக்கிய குற்றச்சாட்டில் நபரொருவர் இன்று (5) கைது செய்யப்பட்டுள்ளார்.
+A man was arrested for allegedly assaulting a boy on Gopard Road, Colombo, after a bystander filmed the incident and shared it on social media. The victim is hospitalized.
 
-கரேஜ் நடத்தும் உரிமையாளர் ஒருவர் அவரது கரேஜ்ஜில் சிறுவன் திருடியதாக குற்றம் சுமத்தி இரும்புக் கம்பியை கையில் வைத்தவாறு சிறுவனை காபர்ட் வீதியால் இழுத்துச் செல்லும் காட்சியை அவ் வீதியால் வந்த நபரொருவர் கைபேசியில் வீடியோ எடுத்து சமூக வலைத்தளங்களில் பதிவேற்றம் செய்துள்ளார்.
+🟩
 
-இந்நிலையில், சிறுவன் சிகிச்சைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், சிறுவனை தாக்கிய குற்றச்சாட்டில் கிரேஜ் உரிமையாளர் வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். R
+A man has been arrested today (5) for allegedly assaulting a boy on Gopard Road in Nawaladi, Colombo Road, Colombo, belonging to the Valaichenai police division.
+
+A man who came by the street was taken by a person who had taken a video on the cell phone and uploaded a video on social networks by holding the boy's handwriting in his hand.
+
+In this case, the boy has been admitted to the Valaichenai Resource Hospital for treatment.. Remble
 
 ◼️
 
 [Data](articles/89d4c690.json)
 
+[Extended Data](ext_articles/89d4c690.ext.json)
+
 ---
 
-### ඩකා ගුවන්තොටුපොළ තාවකාලිකව වැසෙයි
+### Dhaka airport closes
 
 *2024-08-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199598) · `si`
 
-බංග්ලාදේශ හමුදාව පවසන්නේ, ගුවන් තොටුපොළ පැය හයකට වසා දමා ඇති බවය.
+Dhaka airport was closed for six hours, causing flights to be diverted to India. The closure was due to unrest in the city, as reported by foreign media.
 
-ගුවන් තොටුපොළ වසා දැමීම හේතුවෙන් බංග්ලාදේශ වෙත පැමිණෙ ඇතැමි ගුවන් යානා ඉන්දියාව වෙත හරවා යවා ඇති බව වාර්තා වෙයි.
+🟩
 
-ඩකා හි ඇති වූ නොසන්සුන්තාව හේතුවෙන් එම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Bangladesh says the airport has been closed for six hours.
+
+It is reported that the aircraft has been diverted to India since the closure of the airport.
+
+Foreign media reports that the steps have been taken due to the unrest in Dhaka.
 
 ◼️
 
 [Data](articles/cdeb37af.json)
+
+[Extended Data](ext_articles/cdeb37af.ext.json)
 
 ---
 
@@ -163,6 +175,24 @@ At this juncture, a photo of a man built by a fighting car for former Bangladesh
 [Data](articles/5ade8911.json)
 
 [Extended Data](ext_articles/5ade8911.ext.json)
+
+---
+
+### ෂෙහාන්ගෙන් පොහොට්ටු මහ ලේකම්ට ලිපියක්
+
+*2024-08-05 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/ෂෙහාන්ගෙන්-පොහොට්ටු-මහ-ලේකම්ට-ලිපියක්/11-411216) · `si`
+
+තමන් රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීම පිළිබඳව ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් විනය ක්‍රියාමර්ග ගන්නේ නම් ඊට විරුද්ධව කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+ශ්‍රී ලංකා පෙදුජන පෙරමුණේ මහලේකම් සාගර කාරියවසම් මහතාට ලිපියක් යොමු කරමින් මේ බව සඳහන් කර තිබේ. 2022 වසරේ පැවති ආර්ථික අර්බුදයේ දී ගනු ලැබූ තීන්දුවක් මත පක්ෂයේ සියලු මන්ත්‍රීවරු රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වූ බවත්, එසේ තිබිය දී මෙවර තීන්දු ගැනීමේ දී පක්ෂ අභ්‍යන්තර ප්‍රජාතන්ත්‍රවාදයට අනුකූල නොවන ආකාරයෙන් තීරණ ගෙන ඇති බව ද ඔහු සඳහන් කරයි.
+
+එම තීන්දුව ගෙන ඇත්තේ අත්තනෝමතික ලෙස තෝරාපත් කරගත් දේශපාලන මණ්ඩලයක් විසින් යැයි ද සේමසිංහ මහතා පවසයි.
+
+පක්ෂයේ කිහිප දෙනෙකුගේ පෞද්ගලික අරමුණු වෙනුවෙන් ගනු ලැබූ තීරණයක් වෙනුවෙන් තමන් හෝ පාක්ෂිකයන් බැඳී නොමැති බව ද හෙතෙම අදාළ ලිපිය ඔස්සේ සඳහන් කරයි.
+
+◼️
+
+[Data](articles/35859980.json)
 
 ---
 
@@ -278,19 +308,27 @@ Amid subsequent political moves, the protesters entered the Prime Minister's off
 
 ---
 
-### රාජපක්ෂලාගේ හා සජිත්ගේ කුමන්ත්‍රණයක් හැරිසන් හෙළි කරයි
+### Harason reveals the Rajapaksas and Sajith's conspiracy
 
 *2024-08-05 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂලාගේ-හා-සජිත්ගේ-කුමන්ත්‍රණයක්-හැරිසන්-හෙළි-කරයි/11-411212) · `si`
 
-රාජ කුමාරවරු මේ රටේ නායකයන් බවට පත් කිරීම සඳහා පොහොට්ටුවේ මන්ත්‍රීවරුන් තවදුරටත් සූදානම් නොමැති බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී පී.හැරිසන් මහතා බකමූණ නගරයේ පැවැති ජන හමුවකදීපැවසීය .
+P. Harrison accuses Rajapaksas and Sajith Premadasa of conspiring against the people's will, claiming they're pushing for Ranil Wickremesinghe as PM, despite public opposition. He alleges a secret pact between Sajith Premadasa and Namal Rajapaksa to bolster Wickremesinghe's power, arguing the public is not ready for such political maneuverings.
 
-ඔහු මේ බව පැවසුවේ  එක්සත් ජාතික පක්ෂයේ බකමූණ මෙහෙයුම් කාර්යාලය විවෘත කිරීමේ උත්සවයේදීය.
+🟩
 
-"මේ රටේ තවදුරටත් පක්ෂ දේශපාලනය නෑ.පක්ෂ දේශපාලනය තිබුණා නම් රටේ අගමැති වෙන්නත් ජනාධිපති වෙන්නත් රනිල් වික්‍රමසිංහට බෑ.ඒ නිසා රාජපක්ෂවරු ඇරුණහම පොහොට්ටුවේ මන්ත්‍රීවරු 130ක පිරිසක් රනිල් වික්‍රමසිංහට සහයෝගය දක්වන්න මේ වනවිට ඉදිරිපත්වෙලා ඉන්නවා.මේ වනවිට සජිත් ප්‍රේමදාසත් රාජපක්ෂ පවුලත් එකතුවෙලා සිදු කරපු කුමන්ත්‍රණයක් එළිවෙලා තියෙනවා.
+Former Parliamentarian P. Harrison was a meeting of the Group in Bakamuna that the MPs were no longer prepared to make the Rajitals of this country.
 
-...
+He was speaking at a ceremony to open the owner of the UNP.
+
+"If the people in this country has no longer has the Prime Minister of the country, Ranil Wickremesinghe has been submitted to support Ranil Wickremesinghe..
+
+This is the conspiratory that Sajith Premadthipiya and Namal Rajapaksa joined the re-power of Ranil Wickremesinghe.Joined the support of Mr. Wickremesinghe. The people of this country are no longer ready to make princes to be king. Ranil Wickremesinghe is being released from this election.
+
+◼️
 
 [Data](articles/d0a5b110.json)
+
+[Extended Data](ext_articles/d0a5b110.ext.json)
 
 ---
 
@@ -2281,25 +2319,5 @@ Postal voting applications can be obtained free of charge from where the voter l
 [Data](articles/a2446b8f.json)
 
 [Extended Data](ext_articles/a2446b8f.ext.json)
-
----
-
-### Bangladesh protesters call for PM Hasina’s resignation as death toll rises to 91
-
-*2024-08-05 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100998/bangladesh-protesters-call-for-pm-hasinas-resignation-as-death-toll-rises-to-91) · `en`
-
-At least 91 people were killed and hundreds injured in clashes in Bangladesh on Sunday as police fired tear gas and rubber bullets to disperse tens of thousands of protesters calling for Prime Minister Sheikh Hasina to resign.
-
-The death toll, which includes at least 13 policemen, was the highest for a single day from any protests in Bangladesh’s recent history, surpassing the 67 deaths reported on July 19 when students took to the streets to demand the scrapping of quotas for government jobs.
-
-The government declared an indefinite nationwide curfew starting at 6 p.m. (1200 GMT) on Sunday, the first time it has taken such a step during the current protests that began last month. It also announced a three-day general holiday starting from Monday.
-
-The unrest, which has prompted the government to shut down internet services, is Hasina’s biggest test in her 20-year regime after she won a fourth straight term in elections that were boycotted by the main opposition Bangladesh Nationalist Party.
-
-...
-
-[Data](articles/a2a9400e.json)
-
-[Extended Data](ext_articles/a2a9400e.ext.json)
 
 ---

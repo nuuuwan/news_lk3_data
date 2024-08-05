@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 12:54:18**
+As of **2024-08-05 13:06:10**
 
 ## Newspaper Stats
 
-*Scraped **39,052** Articles*
+*Scraped **39,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ dbsjeyarajcom | 336
 newsfirstlk | 363
 colombotelegraphcom | 370
 bbccomsinhala | 370
-islandlk | 2,250
+islandlk | 2,251
 economynextcom | 2,354
 dailyftlk | 2,506
-adalk | 3,579
+adalk | 3,581
 adaderanalk | 4,529
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,885
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,050 (100.0%) of 39,052 articles have been extended.
+39,052 (100.0%) of 39,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ In preparation for the upcoming election, the Commission will send official ball
 
 [Data](articles/dc858e36.json)
 
+[Extended Data](ext_articles/dc858e36.ext.json)
+
 ---
 
-### ‘திருகு’ திருடிய ஐவர் கைது
+### Ivar arrested for stealing
 
 *2024-08-05 12:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகு-திருடிய-ஐவர்-கைது/175-341619) · `ta`
 
-ரயில் நிலையங்களுக்கு அண்மையில் நிறுத்திவைக்கப்படும் ரயில் பெட்டிகளில், திருகு இணைப்புகளைத் திருடினர் என்ற குற்றச்சாட்டில் ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+In Ratmalana and Piliyandala, five individuals aged 22-29 were arrested for stealing iron blocks and screw connections worth Rs 4 lakh from parked trains. Railway security apprehended two more for possessing stolen iron equipment.
 
-இரத்மலானை ரயில் தண்டவாளத்தில், நிறுத்தி வைக்கப்பட்டிருந்த புகையிரத பெட்டிகளில் இருந்து சுமார் 4 லட்சம் ரூபாய் பெறுமதியான இரும்புத் தொகுதிகளை திருடிச் சென்ற குற்றச்சாட்டில் இவர்கள் ஐவர் கைது செய்யப்பட்டுள்ளதாக கல்கிஸை தலைமையக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இரண்டு இரும்பு சாதனங்களுடன் இருவரை புகையிரத பாதுகாப்பு அதிகாரிகள்  கைது செய்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+Five people have been arrested on charges of stealing screw connections in recently parked train compartments to railway stations.
 
-சந்தேக நபர்கள் இரண்டு ரயில் பெட்டிகளை இணைக்கப் பயன்படுத்தப்படும் இரண்டு திருகு இணைப்புகளைத் திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The headquarters of Kalkis said that five persons have been arrested on charges of stealing iron blocks worth Rs 4 lakh from the railway boxes parked on the Ratmalana railway track.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் இரத்மலானை, பிலியந்தல  ஆகிய பிரதேசங்களில் வசிக்கும் 22 மற்றும் 29 வயதுக்குட்பட்ட தொழிலாளர்களாவர்.
+Railway security officers arrested two iron equipment and handed over to the police.
+
+Police said the suspects had stolen two screws used to connect two train compartments.
+
+The arrested suspects are workers between the ages of 22 and 29 living in Ratmalana and Piliyandala areas.
 
 ◼️
 
 [Data](articles/7ee17699.json)
+
+[Extended Data](ext_articles/7ee17699.ext.json)
 
 ---
 
@@ -87,6 +95,18 @@ Police have arrested ten suspects including the owner of the tattoo studio in At
 [Data](articles/9d15a3d4.json)
 
 [Extended Data](ext_articles/9d15a3d4.ext.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් අධිකරණවයට රැගෙන එයි
+
+*2024-08-05 12:13:01* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-සැකකරුවන්-අධිකරණවයට-රැගෙන-එයි/11-411201) · `si`
+
+සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්තගේ ඝාතනයේ සැකකරුවන් දැඩි ආරක්ෂාව මැද අධිකරණයට රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/543caa92.json)
 
 ---
 
@@ -143,6 +163,20 @@ The violence has taken place as students have launched a non -cooperation strugg
 [Data](articles/62bdb221.json)
 
 [Extended Data](ext_articles/62bdb221.ext.json)
+
+---
+
+### ක්‍රිකට් ක්‍රීඩකයෙකු සජබය සමග එක්වෙයි
+
+*2024-08-05 11:41:24* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-ක්‍රීඩකයෙකු-සජබය-සමග-එක්වෙයි/11-411199) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම නියෝජනය කළ හිටපු ක්‍රිකට් ක්‍රීඩක හෂාන් තිලකරත්න මහතා සහ ඔහුගේ බිරිඳ අප්සරා තිලකරත්න මහත්මිය සමගි ජන බලවේගය සමග එක්ව තිබේ.
+
+සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා හමුවී මෙලෙස පක්ෂය සමග එක්ව ඇත.
+
+◼️
+
+[Data](articles/363b633a.json)
 
 ---
 
@@ -325,6 +359,40 @@ Talksbrow, Middlesbro, Middlesbrows, had also occurred in Middlesbro, Balton, Ha
 [Data](articles/cd070de6.json)
 
 [Extended Data](ext_articles/cd070de6.ext.json)
+
+---
+
+### Come September!
+
+*2024-08-05 10:58:00* · [`islandlk`](http://island.lk/come-september/) · `en`
+
+Of all the presidential contenders for the September 21 election, Ranil Wickremesinghe might be the only one who would have seen and possibly remember the 1961 movie “Come September,” a popular lighthearted comedy that starred Rock Hudson and Gina Lollobrigida. Come September – it will be for Sri Lankan voters as it is now confirmed that they will have their chance to vote and elect their next president on Saturday, September 21. A countdown of 49 days starting on Sunday, August 4.
+
+The US presidential election, the campaign for which has been going on forever, is scheduled for November 5, the canonical Tuesday after the first Monday of November. To continue where I left last week, Kamala Harris is till riding high, and Donald Trump is finally being exposed for his crass limitations. But with 94 days to go there is plenty of time left for twists and turns, and ups and downs.
+
+...
+
+[Data](articles/82ae0d1e.json)
+
+[Extended Data](ext_articles/82ae0d1e.ext.json)
+
+---
+
+### Monster assembled from human flaws? Frankenstein would make a Trump
+
+*2024-08-05 10:57:00* · [`islandlk`](http://island.lk/monster-assembled-from-human-flaws-frankenstein-would-make-a-trump/) · `en`
+
+Someone asked “Why do some British people not like Donald Trump?” Nate White, an articulate and witty writer from England wrote the following response:A few things spring to mind. Trump lacks certain qualities which the British traditionally esteem. For instance, he has no class, no charm, no coolness, no credibility, no compassion, no wit, no warmth, no wisdom, no subtlety, no sensitivity, no self-awareness, no humility, no honour and no grace – all qualities, funnily enough, with which his predecessor Mr. Obama was generously blessed.
+
+So for us, the stark contrast does rather throw Trump’s limitations into embarrassingly sharp relief.
+
+Plus, we like a laugh. And while Trump may be laughable, he has never once said anything wry, witty or even faintly amusing – not once, ever.
+
+I don’t say that rhetorically, I mean it quite literally: not once, not ever. And that fact is particularly disturbing to the British sensibility – for us, to lack humour is almost inhuman.
+
+...
+
+[Data](articles/bd3da513.json)
 
 ---
 
@@ -2225,85 +2293,5 @@ The United People's Power Nuwarali District Farmers Conference was held on Sunda
 [Data](articles/7c950586.json)
 
 [Extended Data](ext_articles/7c950586.ext.json)
-
----
-
-### Distrust
-
-*2024-08-04 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190252) · `ta`
-
-Following the presidential election announcement, MP Sumanthiran declared the Tamil government wouldn't nominate a candidate, ensuring no Tamil-backed candidate would be supported due to a lack of opposition halt during the election.
-
-🟩
-
-After the presidential election was announced, MP Sumanthiran had decided that the Tamil government would not field a candidate in the election- and that in the presidential election, the candidate did not support the Tamil candidate on the basis of not to stop the candidate in the presidential election.
-
-◼️
-
-[Data](articles/08a9d579.json)
-
-[Extended Data](ext_articles/08a9d579.ext.json)
-
----
-
-### Durai Mathiyagarajah appointed as UNP Kandy District Organizer
-
-*2024-08-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190272) · `ta`
-
-Durai Mathiyagarajah, with over 25 years of experience in the Ceylon Workers Congress in Kandy, has been appointed by Sajith Premadasa as the United People's Power Kandy District Organizer. This appointment follows the party's recent entry into the Central Provincial Council.
-
-🟩
-
-When the United People's Power Agricultural Conference was held on Sunday (04) at Nuwaralya - Hanguurangetta, the United People's Power Recently joined the Central Provincial Council, the Chairman of the Central Provincial Council, the Senior Vice Chancellor of the Ceylon Workers Congress and the Chief Organization of the Ceylon Workers Congress in Kandy for over 25 years.Durai Mathiyagarajah was appointed by Sajith Premadasa as the United People's Power Kandy District Organizer.
-
-◼️
-
-[Data](articles/1a40cfdc.json)
-
-[Extended Data](ext_articles/1a40cfdc.ext.json)
-
----
-
-### Ranil Wickremesinghe supports the presidential election;A. Aravindakumar
-
-*2024-08-04 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190271) · `ta`
-
-The United Workers Front endorses President Ranil Wickremesinghe for re-election, citing his leadership and addressing issues like worker wages and land ownership. Arunachalam Aravindakumar, the group's leader, dismisses rumors of election postponement, assuring transparency and progress under Wickremesinghe's presidency.
-
-🟩
-
-The United Workers Front has decided to support the current President Ranil Wickremesinghe in the upcoming presidential election, said its leader and state minister Arunachalam Aravindakumar.
-
-“Opponents spread fake information that the government is trying to postpone the presidential election. Currently announced the election date. The president has also paid control. Therefore, it is now certain that the allegations of the opponents are fake.
-
-We decided to support President Ranil Wickremesinghe, the leader of the presidential election and brought the country forward. He will be president on September 21st.
-
-We have talks with the president on the pay issue of plantation workers. The President has promised to benefit workers.
-
-Land and home ownership demand also made by us. He also accepted that request. ”Aravindakumar added.
-
-◼️
-
-[Data](articles/5a2311a8.json)
-
-[Extended Data](ext_articles/5a2311a8.ext.json)
-
----
-
-### India target 241 runs
-
-*2024-08-04 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199560) · `si`
-
-In a cricket match, India set a target of 241 runs for Colombo, Sri Lanka, who responded with 240 runs but lost 9 wickets in 50 overs.
-
-🟩
-
-Colombo R. Sri Lanka scored 240 runs for the loss of 9 wickets in the 50 overs.
-
-◼️
-
-[Data](articles/3ebfd456.json)
-
-[Extended Data](ext_articles/3ebfd456.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 10:20:47**
+As of **2024-08-05 10:36:14**
 
 ## Newspaper Stats
 
-*Scraped **39,027** Articles*
+*Scraped **39,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ dailyftlk | 2,506
 adalk | 3,576
 adaderanalk | 4,523
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,879
+tamilmirrorlk | 4,880
 virakesarilk | 6,178
-adaderanasinhalalk | 6,591
+adaderanasinhalalk | 6,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,023 (100.0%) of 39,027 articles have been extended.
+39,027 (100.0%) of 39,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### இன்றுடன் நிறைவு
+
+*2024-08-05 10:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-நிறைவு/175-341610) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான தபால் மூல வாக்களிப்பு விண்ணப்பங்களை ஏற்றுக்கொள்வது இன்றுடன் நிறைவடைந்துள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+தபால் மூல வாக்களிப்புக்கு விண்ணப்பிக்க தகுதியுடைய அனைத்து வாக்காளர்களும் தங்களது தபால் மூல வாக்களிப்பு விண்ணப்பங்களை மாவட்ட தேர்தல் அத்தாட்சி அதிகாரிகளிடம் சமர்ப்பிக்க வேண்டும் என்றும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+வாக்காளர் பட்டியல் காட்சிப்படுத்தப்பட்டுள்ள இடங்களிலிருந்தும், மாவட்ட தேர்தல் அலுவலகங்களிலிருந்தும் தபால் மூல வாக்களிப்பு விண்ணப்பங்களை இலவசமாகப் பெற்றுக்கொள்ள முடியும் எனவும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a2446b8f.json)
+
+---
 
 ### Bangladesh protesters call for PM Hasina’s resignation as death toll rises to 91
 
@@ -48,43 +64,79 @@ The unrest, which has prompted the government to shut down internet services, is
 
 [Data](articles/a2a9400e.json)
 
+[Extended Data](ext_articles/a2a9400e.ext.json)
+
 ---
 
-### தேர்தல் ஆணைக்குழு அதிரடி : கவனமாக வாசியுங்கள்
+### Election Commission Action: Read carefully
 
 *2024-08-05 10:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-அதிரடி-கவனமாக-வாசியுங்கள்/175-341608) · `ta`
 
-2024.09.21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலின்போது தேருநர் இடாப்பில் பதிவுசெய்யப்பட்டுள்ள தேருநர்களுக்கு நாட்டின் எந்தவொரு வாக்கெடுப்பு நிலையத்திலும் வாக்களிப்பதற்குரிய வசதி செய்யப்பட்டுள்ளது என்று தேர்தல் ஆணைக்குழுவின் எந்தவொரு உத்தியோகபூர்வ தீர்மானமும் அல்லாத, முற்றிலும் உண்மைக்குப் புறம்பான விடயங்களை உள்ளடக்கிய பிழையான ஒரு செய்தி ஊடகங்களிலும் சமூக ஊடகங்களிலும் வலம் வருகிறது.
+The Election Commission warns against false reports about voting procedures. Voters must use their designated polling stations as listed on their official voter cards. The commission urges the public to ignore misleading information and to vote responsibly at their assigned polling locations.
 
-தான் தேருநர் ஒருவராக தேருநர் இடாப்பில் பதிவுசெய்யப்பட்டுள்ள வாக்கெடுப்பு மாவட்டத்திற்குரிய வாக்கெடுப்பு நிலையத்திற்கு வருவதன் மூலமும், அஞ்சல் வாக்கு உரித்துடையவர்களுக்கு தமது அத்தாட்சிப்படுத்தும் அலுவலர் அலுவலகத்தில் அவரது முன்னிலையில் தனது வாக்கை அளிப்பதன் மூலமும் தேர்தல் சட்டதிட்டங்களின்படி வாக்கெடுப்புகளின்போது வாக்களிக்க முடியும்.
+🟩
 
-2024 ஆம் ஆண்டிற்கான தேருநர் இடாப்பில் பதிவுசெய்யப்பட்டுள்ள தேருநர்களின் முகவரிக்கு தேருநரின் பெயர், வாக்களிக்கக்கூடிய வாக்கெடுப்பு நிலையம், தேர்தல் நடைபெறும் திகதி, நேரம் என்ற விபரங்கள் குறிப்பிடப்பட்ட உத்தியோகபூர்வ வாக்காளர் அட்டையொன்று அஞ்சல் மூலம் கிடைக்கும்.
+During the presidential election on 21.09.2012, there is an erroneous media and social media that includes any official resolution of the Election Commission, which has been able to vote at any polling station in the country.
 
-...
+He can vote during the referendum by coming to the polling station, which is registered in the voting of the polling district, and by promoting his vote in the office of the Postal Voting Officer's Office.
+
+An official voter card mentioned in the name of the charioteer's name, voting vote, the date of the election, the date and the time of the election.
+
+There will be no chance of voting at a polling station at the referendum mentioned in it,
+
+Therefore, the Election Commission will announce to all the media that the official announcement of the Election Commission is to be released to all the media and all the voters to go to the polling station mentioned on its official voter card, rather than cheating on such unrealistic news.
+
+◼️
 
 [Data](articles/886c3e86.json)
 
+[Extended Data](ext_articles/886c3e86.ext.json)
+
 ---
 
-### தபால் மூல வாக்களிப்பு விண்ணப்பங்களுக்கான கால அவகாசம் நிறைவு
+### හෂාන් තිලකරත්නත් සහ අප්සාරි තිලකරත්න සජබය ට
+
+*2024-08-05 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199575) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම නියෝජනය කළ හිටපු ක්‍රිකට් ක්‍රීඩකයකු වන හෂාන් තිලකරත්න මහතා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීම සඳහා සමගි ජන බලවේගය හා එක්විය.
+
+තිලකරත්න මහතා බංග්ලාදේශයේ කාන්තා ක්‍රිකට් කණ්ඩායමේ වත්මන් පුහුණුකරු ලෙස ද කටයුතු කරනු ලබයි.
+
+තිලකරත්න මහාතට අමතරව ඔහුගේ බිරිඳ වන අප්සාරි තිලකරත්න මහත්මියද සමගි ජන බලවේගයට සහාය පළ කිරීමට එක්වූවාය.
+
+◼️
+
+[Data](articles/0b855db7.json)
+
+---
+
+### Timeline for postal voting applications
 
 *2024-08-05 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190287) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வதற்கான கால அவகாசம்  இன்று திங்கட்கிழமையுடன் (05)  நிறைவடைவதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission announced today (05) that the deadline for postal voting applications for the presidential election is complete. Applications must be submitted before 12 midnight to be valid. Social media claims about extending this deadline are false. Postal voters can find information on www.elections.gov.lk. The election is scheduled for September 21, 2024, with a final restoration deadline at 12 noon on the 14th.
 
-தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை இன்று நள்ளிரவு 12 மணிக்கு முன்னதாக உரிய தேர்தல் தெரிவத்தாட்சி அலுவலர்களிடம் சமர்ப்பிக்குமாறு தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+🟩
 
-இன்றைய தினம் தபால் மூலம் அனுப்பி வைக்கப்படும் விண்ணப்பங்கள் செல்லுபடியாகாது எனவும் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission said that the deadline for accepting applications for postal voting for the presidential election will be completed today (05).
 
-இதேவேளை, தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் திகதி நீடிக்கப்பட்டுள்ளதாக சமூக ஊடகங்களில் பரப்பப்படும் பல்வேறு தகவல்கள் முற்றிலும் பொய்யானவை என ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission further stated that applications for postal voting should be submitted to the relevant election officials before 12 midnight.
 
-தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது இன்றுடன் நிறைவடைவதோடு, எக்காரணம் கொண்டும் அது ஒத்திவைக்கப்பட மாட்டாது எனவும் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Applications sent by post today are not valid, the Election Commission said.
 
-www.elections.gov.lk என்ற இணையத்தளத்திற்குச் சென்று தபால் வாக்கு விண்ணப்பதாரர்கள் மற்றும் ஏனைய வாக்காளர்கள் தகவல்களைப் பெற்றுக்கொள்ள முடியும்.
+Meanwhile, various information spreading on social media is completely false, the date of acceptance of applications for postal voting has been extended.
 
-...
+The Elections Commission said that accepting applications for postal voting will be completed today and that it will not be postponed for any reason.
+
+Postal voters and other voters can get information on the website www.elections.gov.lk.
+
+With the presidential election to be held on September 21, 2024, the deadline for the restoration of it will be completed at 12 noon on the 14th.
+
+◼️
 
 [Data](articles/737d0713.json)
+
+[Extended Data](ext_articles/737d0713.ext.json)
 
 ---
 
@@ -108,23 +160,29 @@ She is currently serving as coach of the Bangladesh Cricket Women's Team. Mrs. A
 
 ---
 
-### கஜ முத்துக்களுடன் ஆசிரியை உள்ளிட்ட நால்வர் கைது !
+### Four persons including teacher
 
 *2024-08-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190286) · `ta`
 
-திஸ்ஸமஹாராம பகுதியில்  விலை மதிப்பற்ற இரண்டு கஜ முத்துக்களை வைத்திருந்த நால்வர் கைது செய்யப்பட்டுள்ளதாக திஸ்ஸமஹாராம பொலிஸார் தெரிவித்துள்ளனர்.
+In Tissamaharama, four individuals, including a school teacher from Wellawaya, were arrested for possessing two pearls. The others come from Budhala, Wellawaya, and Kalgamuwa. They were detained while attempting to sell the pearls. Further inquiries are ongoing as they are set to appear in court.
 
-கைதுசெய்யப்பட்ட நால்வரில் வெல்லவாய பிரதேசத்தை சேர்ந்த பாடசாலை ஆசிரியையும் காணப்படுவதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மற்றைய மூவரும் புத்தல, வெல்லவாய மற்றும் கல்கமுவ பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்துள்ளனர்.
+Tissamaharama police have said that four people have been arrested for holding two pearls in the Tissamaharama area.
 
-சந்தேகநபர்கள் கஜ முத்துக்களை விற்பனை செய்வதற்காக திஸ்ஸமஹாராம பிரதேசத்திற்கு வருகை தந்த போது கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that the four arrested school teacher from the Wellawaya area is also found.
 
-மேலும், சந்தேகநபர்கள் திஸ்ஸமஹாராம நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவிருந்த நிலையில், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை திஸ்ஸமஹாராம பொலிஸார் மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+The other three are from the Budhala, Wellawaya and Kalgamuwa areas, police said.
+
+The suspects were arrested during visiting Tissamaharama for selling pearls, police said.
+
+Also, as the suspects are to be produced before the Tissamaharama Magistrate's Court, Tissamaharama police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/7b018af6.json)
+
+[Extended Data](ext_articles/7b018af6.ext.json)
 
 ---
 
@@ -2219,61 +2277,5 @@ Speaking to the media after the discussion, Muslim Congress leader Rauf Hakeem s
 [Data](articles/60933075.json)
 
 [Extended Data](ext_articles/60933075.ext.json)
-
----
-
-### Prime Minister Shaikh is forced to go to Husanina
-
-*2024-08-04 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199556) · `si`
-
-In Bangladesh, clashes erupted as Prime Minister Shaikh enforced a deceptive policy, leading to protests. Police used tear gas and stun grenades, resulting in deaths. Authorities suspended internet access to control the situation.
-
-🟩
-
-International media reports that Prime Minister Shaikladesh has begun deception in Bangladesh, forcing Sheikh Haseani.
-
-The police had tear gas attacks and the "Ston Hand Grenada".
-
-The clashes between police and the protesters have been killed.
-
-The authorities had also had to suspend Internet access due to this lack of rush.
-
-◼️
-
-[Data](articles/8c615cdc.json)
-
-[Extended Data](ext_articles/8c615cdc.ext.json)
-
----
-
-### Talawakelle students rescue in four students
-
-*2024-08-04 16:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தலவாக்கலை-மாணவர்கள்-நால்வரும்-காலியில்-மீட்பு/76-341563) · `ta`
-
-Four students from the Talawakelle area, including three girls aged 16 and a boy aged 15, went missing from the Luza section of the Graceveston estate on June 14th. They were found in Galle Mittiyagoda and taken into police custody. Their parents had reported them missing and asked for anyone with information to contact specific numbers.
-
-🟩
-
-Three of the missing school students and students have been found in Galle area in the Talawakelle area.
-
-The Luza section of the Graceveston estate, which belongs to the Talawakelle Police Division, was missing from June (14).
-
-Talawakelle Police Commander Samantha Perera said on Sunday (04) that the trio were placed in police custody.
-
-They have been rescued while staying at a hostel in Galle Mittiyagoda.
-
-Muralikrishnan Lakshika (age 16), Rajaguru Mithusha (16), Sundarraj Darshini (age 16) and boy Rajakuru Gopisagar (15) were missing.
-
-Those who left their homes on Sunday evening (14) have lodged a complaint at the Talawakelle Police Station by their parents on Monday (15).
-
-Parents complained that the girls, including the child, went out of the house without telling their parents.
-
-At the same time, the parents have requested that they contact the number 0764612289 and 0771546724 if they are informed.
-
-◼️
-
-[Data](articles/4ad58521.json)
-
-[Extended Data](ext_articles/4ad58521.ext.json)
 
 ---

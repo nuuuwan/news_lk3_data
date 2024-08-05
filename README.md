@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 08:25:31**
+As of **2024-08-05 08:36:15**
 
 ## Newspaper Stats
 
-*Scraped **39,011** Articles*
+*Scraped **39,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,506
 adalk | 3,574
 adaderanalk | 4,521
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,870
+tamilmirrorlk | 4,871
 virakesarilk | 6,176
 adaderanasinhalalk | 6,590
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,590
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,011 (100.0%) of 39,011 articles have been extended.
+39,011 (100.0%) of 39,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
+
+### சுவர் இடிந்து விழுந்ததில் 9 குழந்தைகள் பலி
+
+*2024-08-05 08:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவர்-இடிந்து-விழுந்ததில்-9-குழந்தைகள்-பலி/175-341602) · `ta`
+
+மத்தியப் பிரதேசத்தில் மத நிகழ்வில் சுற்றுச்சுவர் இடிந்து விழுந்ததில் 9 குழந்தைகள் உயிரிழந்தனர். மத்தியப் பிரதேச மாநிலம் சாகர் மாவட்டம் ஷாபூர் கிராமத்தில் இத்துயரச் சம்பவம் நடந்துள்ளது.
+
+இது தொடர்பாக சாகர் பகுதி பொலிஸ்  ஆணையர் வீரேந்திரா சிங் ராவத் கூறுகையில்,
+
+எங்களுக்குக் கிடைத்த தவலின்படி சாகர் மாவட்டம் ஷாபூரில் நடந்த ஹர்தல் பாபா மத நிகழ்வின்போது நிகழ்ச்சி நடந்த அரங்கின் சுற்றுச்சுவர் இடிந்து விழுந்ததில் இந்த விபத்து நடந்துள்ளது. இதுவரை 9 குழந்தைகள் உயிரிழந்ததும் உறுதியாகியுள்ளது. அவர்கள் அனைவரும் 10 முதல் 15 வயதுக்கு உட்பட்டவர்களாவர் என்றார். (a)
+
+◼️
+
+[Data](articles/33e12f22.json)
+
+---
 
 ### Postal voting applications relating to presidential election is over
 
@@ -2251,35 +2267,5 @@ But the owners who think that if a player is demanding that he quit the country 
 [Data](articles/6b7f342e.json)
 
 [Extended Data](ext_articles/6b7f342e.ext.json)
-
----
-
-### Mysterious
-
-*2024-08-04 14:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-முறையில்-சிசு-மரணம்/71-341557) · `ta`
-
-In Jaffna, an infant suffered severe physical abuse, including fractured limbs and head trauma, leading to their death after two months. The child's mother discovered the injuries and sought medical help, but it was too late. An autopsy confirmed the death was not from natural causes. The infant's father was absent during this period, leaving the mother as the sole caregiver. Police are investigating, providing protection to the mother while continuing their inquiries.
-
-🟩
-
-The infant has died in Jaffna after one and a half months of fetus and legs were broken, tortured, tortured and hit his head.
-
-Sasi Reuben Nikas, a native of Alavetti, died of one and a half months.
-
-The baby's mother was taken to the Alavetti Hospital on Saturday (03) that the baby was immobile after breastfeeding the baby.
-
-Due to the body's body injuries, the infertile examination was carried out on Sunday (04), the body's hands and legs were found, the head of the head, the thin rod, the signs of the ear and the signs of the ear were detected.
-
-The anatomical examination report noted that the death of the fetus is not a natural death.
-
-Police investigations have revealed that the infant's father was staying outside the infantry and that the baby was under the care of her mother.
-
-Tellippalai police, who are conducting further investigations into the incident, have taken the infant's mother to the police protection.
-
-◼️
-
-[Data](articles/fd2c67e5.json)
-
-[Extended Data](ext_articles/fd2c67e5.ext.json)
 
 ---

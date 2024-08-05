@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 22:36:08**
+As of **2024-08-05 22:55:34**
 
 ## Newspaper Stats
 
-*Scraped **39,153** Articles*
+*Scraped **39,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,251
 economynextcom | 2,363
 dailyftlk | 2,506
 adalk | 3,595
-adaderanalk | 4,546
+adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,903
+tamilmirrorlk | 4,905
 virakesarilk | 6,197
 adaderanasinhalalk | 6,618
 
@@ -26,27 +26,65 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,140 (100.0%) of 39,153 articles have been extended.
+39,152 (100.0%) of 39,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-05 (Monday)
 
-### වාහන හිමිකරුවන්ට අලුත් ආරංචියක්
+### Sheikh Hasina may not return to politics, says son
+
+*2024-08-05 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101024/sheikh-hasina-may-not-return-to-politics-says-son) · `en`
+
+Sheikh Hasina, who stepped down from the post of the Prime Minister of Bangladesh and fled the turmoil-hit nation today, may not return to politics, her son and former Chief Advisor has said. Disappointed by the strong public sentiment against her government despite her efforts to transform the country, she has decided to quit, Sajeeb Wajed Joy said at BBC’s World Service’s Newshour program.
+
+“She has turned Bangladesh around. When she took over power it was considered a failing state. It was a poor country. Until today it was considered one of the rising tigers of Asia,” Mr Joy said.
+
+Over the last month, more than 300 people died in Bangladesh amid violent protests, which though started over quota, shortly transformed into a call for the Prime Minister to step down.
+
+Sheikh Hasina’s critics accused her not just of corruption and nepotism but also high-handedness and curtailing of civil liberties. These, many alleged, overshadowed the economic progress and development she had brought about.
+
+...
+
+[Data](articles/a8a6dc55.json)
+
+---
+
+### அரசாங்கத்தின் முக்கிய 2  திட்டங்களை நிறுத்தியது தேர்தல் ஆணையம்
+
+*2024-08-05 22:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-முக்கிய-2-திட்டங்களை-நிறுத்தியது-தேர்தல்-ஆணையம்/175-341657) · `ta`
+
+சுரக்ஷா மாணவர் காப்புறுதித் திட்டம் மற்றும் உறுமய காணி உறுதித் திட்டம் ஆகிய இரண்டு முக்கிய அரசாங்கத் திட்டங்களைத் தற்காலிகமாக நிறுத்துவதற்கு இலங்கை தேர்தல் ஆணையம் உத்தரவு பிறப்பித்துள்ளது.
+
+ஜனாதிபதித் தேர்தல் முடியும் வரை இந்த வேலைத்திட்டத்தை தற்காலிகமாக இடைநிறுத்துமாறு ஜனாதிபதியின் செயலாளருக்கு எழுத்து மூலம் அறிவிக்கப்பட்டதாக நாட்டின் தேர்தல் பிரதம அதிகாரி தெரிவித்தார். R
+
+◼️
+
+[Data](articles/4382c9a7.json)
+
+---
+
+### New news for vehicle owners
 
 *2024-08-05 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199601) · `si`
 
-මෙරට වාර්ෂිකව සිදුකෙරෙන වාහන දුම් පරීක්ෂණ අතරින් වාහන සියයට 20ක් අසමත් වන බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පවසයි.
+Transport Minister Lasantha Alagiyawanna announced that many vehicles fail annual emission tests due to non-compliance with standards. He also mentioned a new system to streamline vehicle licensing and insurance processes, reducing the need for customers to visit multiple locations. This initiative, set to roll out nationwide within two months, aims to simplify procedures and enhance service efficiency.
 
-ඔහු පෙන්වා දෙන්නේ අදාළ වාහන නියමිත ප්‍රමිතියට අනුකූල නොවන බවය.
+🟩
 
-ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (05) පැවති මාධ්‍ය හමුවකට එක්වෙමින් රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා එම අදහස් පළ කළේය.
+The Minister of Transport Lasantha Alagiyawanna stated that out of the annual vehicle emission tests in the country, the private minister of Transport Lasantha Alagiyawanna said.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ, වාහන දුම් පරීක්ෂා සහතිකය ලබා ගැනීමත් සමගම වාහන බලපත්‍රයත් රක්ෂණාවරණයත් එකම ස්ථානයකින් ලබාගැනීමට අවශ්‍ය වැඩපිළිවෙළ සකස් කරන බවය.
+He points out that the vehicles are not in accordance with the due standard.
+
+Addressing a media briefing held at the Presidential Media Center today (05), State Minister Lasantha Alagiyawanna made these comments.
+
+Speaking further the public minister said that the vehicle license and insurance cover will be prepared with the same location.
 
 ...
 
 [Data](articles/89039c83.json)
+
+[Extended Data](ext_articles/89039c83.ext.json)
 
 ---
 
@@ -150,19 +188,25 @@ The Commander of the Army, the Commander of the Army congratulated the Asian Tro
 
 ---
 
-### யாழில் கசிப்பு மற்றும் கசிப்பு காய்ச்சும் உபகரணங்களுடன் சந்தேக நபர் ஒருவர் கைது
+### A suspect arrested in Jaffna with leakage and leakage equipment
 
 *2024-08-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190369) · `ta`
 
-யாழ்ப்பாணம் மானிப்பாய் பகுதியில் கசிப்பு மற்றும் கசிப்பு காய்ச்சும் உபகரணங்கள் கைப்பற்றப்பட்டதுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டார்.
+In Jaffna, a suspect was arrested in Manipay with leak detection equipment, valued over one lakh rupees, during a raid by the Jaffna District Criminal Investigation Division.
 
-யாழ்ப்பாண மாவட்ட குற்றத் தடுப்புப்பிரிவு பொலிஸாரால் நேற்றையதினம் குறித்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+🟩
 
-இதன்போது கைப்பற்றப்பட்ட பொருட்கள் ஒரு இலட்சம் ரூபாய்க்கு மேற்பட்ட பெறுமதியானவை என பொலிஸார் தெரிவித்தனர்.
+A suspect has been arrested and a suspect has been arrested in Manipay area in Jaffna.
+
+The arrest of the Jaffna District Criminal Investigation Division was carried out yesterday.
+
+The items seized at the time are worth more than one lakh rupees, police said.
 
 ◼️
 
 [Data](articles/eaeee9a5.json)
+
+[Extended Data](ext_articles/eaeee9a5.ext.json)
 
 ---
 
@@ -188,89 +232,131 @@ In this case, the boy has been admitted to the Valaichenai Resource Hospital for
 
 ---
 
-### விஜய் நடிக்கும் 'கோட்- GOAT' திரைப்படத்தின் புதிய பாடல் வெளியீடு
+### Vijay starrer 'Goat-Goat' new song release
 
 *2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190355) · `ta`
 
-தமிழ் சினிமாவில் மில்லியன் கணக்கிலான ரசிகர்களை கொண்டிருக்கும் நடிகர் விஜய் கதையின் நாயகனாக இரட்டை வேடத்தில் நடித்திருக்கும் 'கோட் - GOAT' எனும் திரைப்படத்தில் இடம் பெற்ற 'ஸ்பார்க்..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+"Actor Vijay stars in 'Goat-Goat,' directed by Venkat Prabhu, featuring dual roles and a hit song 'Spark.' The film, also starring Prashant, Prabhu Deva, and others, is produced by Kalpathi siblings and released in multiple languages. The song, penned by Gangai Amaran and sung by Yuvan Shankar Raja and Varusha Balu, has garnered over eight million views, despite some criticism of Vijay's youthful look."
 
-இயக்குநரும், நடிகருமான வெங்கட் பிரபு இயக்கத்தில் உருவாகி வரும் 'கோட் - GOAT' திரைப்படத்தில் விஜய், பிரசாந்த், பிரபுதேவா, மோகன், ஜெயராம், சினேகா, லைலா, அஜ்மல், மீனாட்சி சவுத்ரி, வைபவ், யோகி பாபு, பிரேம்ஜி அமரன், யுகேந்திரன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌
+🟩
 
-சித்தார்த்த நூனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை ஏ ஜி எஸ் என்டர்டெய்ன்மென்ட் பிரைவேட் லிமிடெட் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் கல்பாத்தி எஸ். அகோரம்- கல்பாத்தி எஸ். கணேஷ் - கல்பாத்தி எஸ். சுரேஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Actor Vijay, who has millions of fans in Tamil cinema, has been released as a double role in the movie 'Got - Goat' and a song called 'Spark ..' and the lyrical video for the song.
+
+Directed by director and actor Venkat Prabhu, Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Sneha, Laila, Ajmal, Meenakshi Chaudhry, Vaibhav, Yogi Babu, Premji Amaran, Yukendran.
+
+Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni. Producer Kalpathi S. Akoram- Kalpati S. Ganesh - Kalpathi S. Suresh has co -produced.
+
+The film, which was released in various languages ​​including Tamil in Tamil film mansions, has been released on September 5, and a song will be released as 'Ava Kannala Parthta ..' and a song for the song.
+
+The song is written by songwriter Gangai Amaran, composer and playback singer Yuvan Shankar Raja and playback singer Varusha Balu.
 
 ...
 
 [Data](articles/2f2e3eff.json)
 
+[Extended Data](ext_articles/2f2e3eff.ext.json)
+
 ---
 
-### சாந்தினி தமிழரசன் நடித்திருக்கும் 'அமீகோ' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### The announcement of the release date of 'Aamo' starring Santini Thamilarasan
 
 *2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190358) · `ta`
 
-நடிகை சாந்தினி தமிழரசன் நடிப்பில், இந்தியாவில் முதன்முறையாக சைபர் ஃபேண்டஸி ஹாரர் திரில்லர் ஜேனரிலான 'அமீகோ' திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக புகைப்படத்துடன் அறிவிக்கப்பட்டிருக்கிறது. .‌
+"Aamo," starring Santini Thamilarasan, announces its release date with a global photo reveal on the 23rd of this month. Directed by Praveen Kumar, it features a star-studded cast including Arjun Somayajula, Suvita Rajendran, and more. The film, produced by Pratyagra Mosque Pictures, has generated high anticipation among audiences.
 
-அறிமுக இயக்குநர் பி. பிரவீண் குமார் இயக்கத்தில் உருவாகி இருக்கும் 'அமீகோ' எனும் திரைப்படத்தில் சாந்தினி தமிழரசன், அர்ஜுன் சோமையாஜுலா, சுவிதா ராஜேந்திரன், பிரவீன் இளங்கோ, வத்சன் சக்கரவர்த்தி, வெக்கே, மனிஷா ஜஷ்னானி, பிரக்யா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-வாஞ்சிநாதன் முருகேசன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரேவா இசையமைத்திருக்கிறார். சைபர் ஃபேண்டஸி ஹாரர் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பிரத்யாக்ரா மோசன் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பி. கிரிஜா தயாரித்திருக்கிறார்.
+Actress Santini Thamilarasan, for the first time in India, has been officially announced with a special photo of Cyber ​​Fantasy Horror Thriller Janer.. ..
 
-இந்த படத்தின் முன்னோட்டம் வெளியாகி, மில்லியன் கணக்கிலான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது. அத்துடன் இப்படத்தின் வெளியீடு குறித்த எதிர்பார்ப்பையும் ஏற்படுத்தியது.
+Introducing Director B. Santini Thamilarasan, Arjun Somayajula, Suvita Rajendran, Praveen Ilango, Vatson Emperor, Wakes, Manisha Jashnani, Pragya and many others star in the film 'Aamiko' directed by Praveen Kumar.
 
-...
+Vanjinathan Murukesan has composed the film for the film. Producer P Pratyagra Mosque on behalf of Pratyagra Mosque Pictures. Produced by Girija.
+
+The preview of the film has been released and has been visited by millions of audiences. It also created expectations for the release of the film.
+
+In this case, the film crew has announced a special photo that will be released worldwide on the 23rd of this month.
+
+In the meantime, the Iron Curtain, which is released in Tamil, the eyes and the eyes of the cybercrime thriller, have been a huge welcome, and a similar type of horror is added to the horror.
+
+◼️
 
 [Data](articles/53f06835.json)
 
+[Extended Data](ext_articles/53f06835.ext.json)
+
 ---
 
-### நடிகர் ராம் நடிக்கும் 'டபுள் ஐ ஸ்மார்ட்' படத்தின் முன்னோட்டம் வெளியீடு
+### Preview release of 'Double I Smart' starring actor Ram
 
 *2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190354) · `ta`
 
-'தி வாரியர்' எனும் படத்தின் மூலம் தமிழ் ரசிகர்களுக்கும் அறிமுகமான தெலுங்கின் முன்னணி நட்சத்திர நடிகரான ராம் நடிப்பில் தயாராகி இருக்கும் 'டபுள் ஐ ஸ்மார்ட்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Ram, known for 'The Warrior,' debuts in Tamil cinema with 'Double i Smart.' Directed by Puri Jegannath, it features Sanjay Dutt, Kaviya Thapar, and more. The movie, releasing in five languages, promises a mix of romance, comedy, sentiment, and entertainment."
 
-இயக்குநர் பூரி ஜெகன்நாத் இயக்கத்தில் உருவாகி இருக்கும் 'டபுள் ஐ ஸ்மார்ட்' எனும் திரைப்படத்தில் ராம், சஞ்சய் தத், காவியா தாப்பர், பாணி,  ஆலி,  கெட்டப் சீனு,  ஷாயாஜி ஷிண்டே, 'டெம்பர்' வம்சி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-சாம் கே. நாயுடு மற்றும் கியானி ‌ஜியானெல்லி ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மணி ஷர்மா இசையமைத்திருக்கிறார்.
+'Double i Smart' has been released by Telugu star actor Ram, who is also a Telugu star actor, who has made his debut for Tamil fans through the film 'The Warrior'.
 
-முழு நீள ஆக்சன் என்டர்டெய்னர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பூரி கனெக்ட்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் பூரி ஜெகன்னாத் மற்றும் சார்மி கவுர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Directed by director Puri Jegannath, 'Double i Smart', Ram, Sanjay Dutt, Kavia Thapar, Pani, Ali, Ketab Seanu, Shayaji Shinde, 'Temper' Vamsi and many others.
 
-எதிர்வரும் 15 ஆம் திகதியன்று உலகம் முழுவதும் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் பட மாளிகைகளில் வெளியாக இருக்கும் இந்த திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Sam K.. Mani Sharma has composed music for the film, which is being recorded by Naidu and Gianni Jianelli.
 
-...
+The film is being produced by Puri Jeganath and Charmi Kaur on behalf of Puri Connects.
+
+The film has been released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 15th of this month.
+
+This includes the anticipation of the image, as there are scenes of entertainment and entertainment, such as romantic + comedy + sentimental + entertainment.
+
+◼️
 
 [Data](articles/f78c3e00.json)
 
+[Extended Data](ext_articles/f78c3e00.ext.json)
+
 ---
 
-### அருள்நிதி நடிக்கும் 'டிமான்டி காலனி 2' படத்தின் ஓடியோ வெளியீடு
+### Oudio release of 'Demandi Colony 2' starring Arulnidhi
 
 *2024-08-05 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190360) · `ta`
 
-தமிழ் சினிமாவில் பட மாளிகை, டிஜிட்டல் தளம், தொலைக்காட்சி ஆகிய அனைத்து வித திரை சந்தைகளிலும் வணிக மதிப்பு கொண்ட நட்சத்திர நடிகர் அருள்நிதி கதையின் நாயகனாக நடித்திருக்கும் 'டிமான்டி காலனி 2' படத்தின் ஓடியோ வெளியிடப்பட்டிருக்கிறது.
+"Demandy Colony 2," directed by Ajay Gnanamuthu, stars Arulnidhi and Priya Bhavani Shankar among others. It's produced by BTG Universal and features music by Sam C.S., released by Think Music. The film, set for release on the 15th, promises a mix of horror and thrill, with five songs that have garnered positive reviews from music lovers."
 
-இயக்குநர் அஜய் ஞானமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'டிமான்டி காலனி 2' எனும் திரைப்படத்தில் அருள்நிதி, பிரியா பவானி சங்கர், அருண் பாண்டியன், முத்துக்குமார், மீனாட்சி கோவிந்தராஜன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஹரிஷ் கண்ணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைத்திருக்கிறார்.
+🟩
 
-ஹாரர் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் பாபி பாலச்சந்திரன்- விஜய் சுப்பிரமணியன்- ஆர் சி ராஜ்குமார்- ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+In Tamil cinema, the film 'Demandy Colony 2' has been released in Tamil cinema, starring star Arulnidhi's story in all kinds of screen markets in the film House, Digital Site and Television.
 
-இம்மாதம் 15 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் ஓடியோவும், தீம் மியூசிக்கும் வெளியிடப்பட்டிருக்கிறது.
+Directed by Ajay Gnanamuthu, 'Demandi Colony 2' stars Arulnidhi, Priya Bhavani Shankar, Arun Pandiyan, Muthukumar, Meenakshi Govindarajan and many others.. Harish Kannan has recorded the cinematography by Sam C. S.. Has composed.
 
-...
+The film is being produced by Bobi Balachandran- Vijay Subramanian-RC Rajkumar on behalf of BTG Universal Company.
+
+The film will be released on the 15th of this month at the film House, the film's film and the theme music.
+
+The film has five songs. Sam c. S.. The song and the background music of the film, which is composed by the film, has been released by Think Music Company. The music fans are getting a lot of welcome as the songs are all enjoyable, different and horror thriller feels.
+
+◼️
 
 [Data](articles/b60c4909.json)
 
+[Extended Data](ext_articles/b60c4909.ext.json)
+
 ---
 
-### டாக்கா சர்வதேச விமான நிலையம் தற்காலிகமாக மூடப்பட்டுள்ளது
+### Dhaka International Airport is temporarily closed
 
 *2024-08-05 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190368) · `ta`
 
-விமான நிலையம் மூடப்பட்டுள்ளதால், வங்கதேசம் வரும் சில விமானங்கள் இந்தியாவுக்கு திருப்பி விடப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Due to unrest, Dhaka International Airport is temporarily closed, diverting Bangladeshi flights to India.
 
-டாக்காவில் ஏற்பட்ட அமைதியின்மை காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றமை குறிப்பிடத்தக்கது
+🟩
+
+It is reported that some of the flights of Bangladesh have been diverted to India as the airport has been closed.
+
+Foreign media reports that the move has been taken due to unrest in Dhaka
 
 ◼️
 
 [Data](articles/4b65d107.json)
+
+[Extended Data](ext_articles/4b65d107.ext.json)
 
 ---
 
@@ -316,37 +402,53 @@ In the premises prepared at the premises of the premises, the Generagala which w
 
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பெரும்பான்மையானோர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரிக்கின்றனர் – லசந்த அழகியவன்ன
+### Most of the Sri Lanka Freedom Party (SLFP) supports President Ranil Wickremesinghe - Lasantha Alagavanna
 
 *2024-08-05 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190367) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி உத்தியோகபூர்வமாக தீர்மானித்துள்ளதாகவும், சுதந்திரக் கட்சியைப் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்கள் உட்பட நிறைவேற்று சபையின் 90% பேரின் இணக்கப்பாட்டுடன் இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+The Sri Lanka Freedom Party (SLFP), with 90% approval from its Executive Council, has endorsed President Ranil Wickremesinghe for the upcoming presidential election. This move aligns with the majority of parliamentarians' support. Additionally, the government is implementing measures to combat environmental pollution from the transport sector, including issuing smoke test certificates and centralizing data on emissions for public viewing. Efforts to reduce road accidents through technological upgrades and driver education are also underway.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் வகையில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பலமான வலையமைப்பு ஏற்கனவே செயற்பட ஆரம்பித்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (05) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண இதனைக் குறிப்பிட்டார்.
+Transport Minister Lasantha Alagiyawanna said that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming presidential election and that the decision has been taken with the compliance of 90% of the Executive Council, including the majority of parliamentarians, and that the decision has been taken.
 
-”போக்குவரத்துத் துறையினால் சுற்றுச்சூழல் கட்டமைப்புக்கு பல சேதங்கள் ஏற்படுகின்றன. அவற்றில் வாகனங்களில் இருந்து வெளிப்படும் புகை பிரதானமானது. இதற்கு தீர்வாக, புகை பரிசோதனைச் சான்றிதழ் வழங்கப்படுகிறது. அதன்படி, நாட்டின் வளிமண்டலத்தின் தரத்தை நல்ல நிலையில் பராமரிக்க முடிந்துள்ளது.
+The Minister of State has noted that the strong network of the Sri Lanka Freedom Party has already begun to ensure the victory of President Ranil Wickremesinghe.
+
+Transport Minister Lasantha Alagiyavanna said this while addressing a press conference held at the Presidential Media Center on Monday (05).
+
+“There are many damage to the environmental structure by the transport sector. The smoke emanating from the vehicles is the main. As a solution to this, smoke test certificate is issued. Accordingly, the quality of the country's atmosphere has been maintained in good condition.
 
 ...
 
 [Data](articles/75656697.json)
 
+[Extended Data](ext_articles/75656697.ext.json)
+
 ---
 
-### தபால்மூல வாக்களிப்பு விண்ணப்பங்களை 9 ஆம் திகதி வரை சமர்ப்பிக்க அவகாசம் - தேர்தல்கள் ஆணைக்குழு
+### Time to submit postal voting applications till the 9th - Elections Commission
 
 *2024-08-05 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190366) · `ta`
 
-விண்ணப்பங்களை அஞ்சலி டும் போது ஏற்படும் தாமதம்,ஆணைக்குழுவுக்கு விடுக்கப்பட்ட கோரிக்கை ஆகியவற்றை கருத்திற் கொண்டு தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் காலவகாசம் எதிர்வரும் வெள்ளிக்கிழமை (9)  வரை நீடிக்கப்பட்டுள்ளது என தேர்தல்கள் ஆணைக்குழு அறிவுறுத்தியுள்ளது.
+The Elections Commission has extended the deadline for postal voting applications until the 9th due to payment and processing delays. Applications must reach the District Election Office by midnight on the last acceptance day. To prevent further delays, applications should be posted today (8) or next Friday (9). It's recommended to deliver them directly to the District Elections Office in separate envelopes.
 
-ஜனாதிபதித் தேர்தலுக்கு தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக் கொள்வது நேற்று (திங்கட்கிழமை) நிறைவடையவிருந்த நிலையில் விண்ணப்பங்களை அஞ்சலிடும் போது ஏற்படும் தாமதம் மற்றும் ஆணைக்குழுவுக்கு விடுக்கப்பட்ட கோரிக்கை ஆகியவற்றை கருத்திற் கொண்டு விண்ணப்பங்களை பொறுப்பேற்கும் திகதி எதிர்வரும் 9 ஆம் திகதி வரை நீட்டிக்கப்பட்டுள்ளது.
+🟩
 
-விண்ணப்பங்களை ஏற்றுக்கொள்ளும் இறுதி திகதியன்று அதாவது எதிர்வரும் வெள்ளிக்கிழமை நள்ளிரவு 12 மணிக்கு முன்னர் விண்ணப்பங்கள் பொறுப்பான மாவட்ட தேர்தல்கள் அலுவலகங்களை வந்தடைய வேண்டும்.
+The Elections Commission has advised that the deadline for postal voting applications for postal voting has been extended till Friday (9).
 
-...
+Applications for postal voting for the presidential election have been extended till the 9th of this month, with the delay in paying the applications and the delay in the Commission.
+
+Applications should be reached in charge of the District Elections in charge of the applications before 12 midnight on the final date of accepting applications.
+
+To avoid delays when applications are available, the postal voting applications will be taken to the post tomorrow (8) and next Friday (9).
+
+We are saying that it is best to divide them in each district and hand over them to the District Elections Office in the district where the office is located in other envelopes.
+
+◼️
 
 [Data](articles/00b370b3.json)
+
+[Extended Data](ext_articles/00b370b3.ext.json)
 
 ---
 
@@ -425,6 +527,22 @@ Their departed flight landed at the Hindon Air Force Base near New Delhi. It is 
 [Data](articles/8bb10577.json)
 
 [Extended Data](ext_articles/8bb10577.ext.json)
+
+---
+
+### கால அவகாசம் நீடிப்பு
+
+*2024-08-05 19:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-நீடிப்பு/175-341640) · `ta`
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள நிலையில், தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் நீடிக்கப்பட்டுள்ளது.
+
+அதன்படி, இன்று (05) நள்ளிரவு 12 மணியுடன் முடிவடைய இருந்த தபால் மூல வாக்களிப்பு விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் ஆகஸ்ட் மாதம் 9 ஆம் திகதி வெள்ளிக்கிழமை நள்ளிரவு 12 மணி வரை நீடிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+
+தபாலில் ஏற்படக்கூடிய தாமதம் மற்றும் ஆணைக்குழுவிடம் விடுக்கப்பட்ட கோரிக்கையை கருத்தில் கொண்டு இந்த முடிவு எடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/be743717.json)
 
 ---
 
@@ -588,21 +706,29 @@ Amid subsequent political moves, the protesters entered the Prime Minister's off
 
 ---
 
-### தமிழ் பொது வேட்பாளர் யார் என்பது இன்றைய தினமும் அறிவிக்கப்படவில்லை
+### Who is the Tamil general candidate not announced today
 
 *2024-08-05 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190364) · `ta`
 
-சிவில் அமைப்புகளின் ஒருங்கிணைவுடன் உருவாக்கப்பட்ட தமிழ் மக்கள் பொதுச்சபையின் ஏழு பிரதிநிதிகளும் தமிழ்த் தேசிய அரசியல்கட்சிகள் ஏழினது பிரதிநிதிகளும் கூட்டிணைந்து தமிழ்த் தேசியப் பொதுக்கட்டமைப்பை உருவாக்கியிருந்தனர்.
+The Tamil People's General Assembly, along with Tamil National Political Parties, met in Jaffna but did not announce the Tamil general candidate today. The announcement is expected before this coming Thursday. Notable figures like P. Ariyanendran and Chandraneru Chandrakanthan are speculated to be on the shortlist.
 
-அவ்வாறு உருவாக்கப்பட்ட தமிழ்த் தேசியப் பொதுக்கட்டமைப்பின் சந்திப்பு யாழ்ப்பாணத்தில் திங்கட்கிழமை (05) யாழ்ப்பாணத்தில் உள்ளதனியார் விடுதி ஒன்றில் இடம்பெற்றது.
+🟩
 
-மதியம் ஒரு மணியளவில் ஆரம்பமான கூட்டம் மாலை 5 மணி வரையிலான சுமார் 04 மணி நேரத்திற்கு மேலாக கூட்டம் இடம்பெற்ற நிலையில் முடிவுகள் எதுவும் எட்டப்படாத நிலையில் சந்திப்பு நிறைவுற்றுள்ளது.
+Seven representatives of the Tamil People's General Assembly, which was formed with the coordination of civil organizations, and the representatives of the Tamil National Political Parties, the Tamil National Alliance.
 
-எதிர்வரும் வியாழக்கிழமைக்கு முன்னர் தமிழ் பொது வேட்பாளரின் பெயர் அறிவிக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+The meeting of the Tamil National Alliance (TNA) was held on Monday (05) in Jaffna at a hostel in Jaffna.
 
-...
+The meeting, which began at one o'clock in the afternoon, was held for more than 4 hours until the meeting was held for more than 4 pm.
+
+The name of the Tamil common candidate will be announced before the upcoming Thursday.
+
+Meanwhile, former Member of Parliament of the Batticaloa District of the Sri Lanka Tamil Nadu Party, P. Ariyanendran. The names of Chandraneru Chandrakanthan, a former member of the Tamil National Alliance (TNA), are said to be on the final list.
+
+◼️
 
 [Data](articles/67db8274.json)
+
+[Extended Data](ext_articles/67db8274.ext.json)
 
 ---
 
@@ -752,21 +878,29 @@ A wider investigation has been launched to find the mobile phones and accessorie
 
 ---
 
-### ஜனாதிபதியுடனான சந்திப்பு பரகசியமானதே - அனந்தி சசிதரன்
+### Meeting with the President is confidential - Ananthi Sasitharan
 
 *2024-08-05 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190362) · `ta`
 
-நான் ஜனாதிபதியுடன் ரகசியமான சந்திப்பில் ஈடுபடவில்லை. பரகசியமான சந்திப்பிலேயே ஈடுபட்டேன் என வடக்கு மாகாண சபையின் முன்னாள் அமைச்சரும் ஈழ மக்கள் சுயாட்சிக் கழகத்தின் செயலாளர் நாயகமான ஆனந்தி சசிதரன் தெரிவித்துள்ளார்.
+Anandi Sasitharan, former minister and Secretary-General of the Eelam People's Autonomy, clarified that his meetings with presidential candidates were public, not secret. He discussed their stances on issues affecting the North and East during these encounters, emphasizing transparency and seeking solutions for victims as outlined in their election manifestos.
 
-ஞாயிற்றுக்கிழமை (4) அவரது இல்லத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஜனாதிபதி வேட்பாளர்கள் என்ற வகையில் கடந்த மாதம் சஜித் பிரேமதாச அவர்களை சந்தித்து இருந்தேன். வடக்கு கிழக்கு மக்கள் தொடர்பான அவர்களுடைய நிலைப்பாடு என்ன என்பதை நான் கேட்டுக் கொண்டேன்.
+I am not engaged in a secret meeting with the president. The former minister of the Northern Provincial Council and the Secretary -General of the Eelam People's Autonomy, Anandi Sasitharan said that he was engaged in a secret meeting.
 
-அதேபோல ஜனாதிபதி ரணில் விக்ரமசிங்க அவர்களையும் நான் சந்தித்திருந்தேன். நான் ஏற்கனவே வடக்கு மாகாண சபையின் உறுப்பினராகவும் அமைச்சராகவும் இருந்துகின்றேன். தற்பொழுது ஈழத் தமிழர் சிவாஜி கழகத்தினுடைய செயலாளர் நாயகமாகவும் பணியாற்றுகின்றேன்.
+He said this at a media briefing held at his residence on Sunday (4). There he said more,
+
+I met Sajith Premadasa last month as presidential candidates. I asked what their position on the people of the North and East was.
+
+I also met President Ranil Wickremesinghe. I am already a member and minister of the Northern Provincial Council. I am currently working as the Secretary General of the Eelam Tamil Shivaji Association.
+
+I meet the presidential candidate for the sake of an honor. At that meeting, what is his position on the affected people?I made this meeting as he was asked about the solutions to the victims in his election manifesto.
 
 ...
 
 [Data](articles/e79702d9.json)
+
+[Extended Data](ext_articles/e79702d9.ext.json)
 
 ---
 
@@ -806,19 +940,25 @@ The Sri Lankan team leader Chamari, Atapattu, is among the three recommendations
 
 ---
 
-### யாழில் குற்றச் செயலை மேற்கொள்வதற்காக மறைத்து வைக்கப்பட்டிருந்த வாள்கள் மீட்பு!
+### Hidden swords rescued for committing crime in Jaffna!
 
 *2024-08-05 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190349) · `ta`
 
-யாழில் குற்றச்செயலினை மேற்கொள்வதற்காக பற்றைக்குள் மறைத்து வைத்திருந்த 3 வாள்கள், காலணிகள், முகமூடிகள் மற்றும் மேல் அங்கிகள் என்பன இன்று திங்கட்கிழமை (05) மீட்கப்பட்டுள்ளன.
+In Jaffna, three swords, shoes, masks, and robes were seized from a paddy field, believed to be linked to criminal activities. The discovery was made possible through confidential intel received by the Chunnakam police, who continue their investigation.
 
-ஏழாலை மேற்கு , ஏழாலை, புளியங்கிணற்றடி என்ற இடத்தில் உள்ள பற்றைக்குள் இருந்தே மேற்குறித்த பொருட்கள் மீட்கப்பட்டுள்ளன.
+🟩
 
-சுன்னாகம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் இந்த மீட்பு நடவடிக்கை மேற்கொள்ளப்பட்டது. இது குறித்து மேலதிக விசாரணைகளை சுன்னாகம் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Three swords, shoes, masks and top robes were recovered on Monday (05).
+
+Western items have been recovered from the paddy field at Ezhali West, Ezhalaya and Puliyanginadi.
+
+The rescue operation was based on confidential information received by the Chunnakam police. Chunnakam police are conducting further investigations.
 
 ◼️
 
 [Data](articles/edf117cb.json)
+
+[Extended Data](ext_articles/edf117cb.ext.json)
 
 ---
 
@@ -2193,65 +2333,5 @@ In addition, police suspect that the motorcycle may have been used for crimes in
 [Data](articles/a09d0b93.json)
 
 [Extended Data](ext_articles/a09d0b93.ext.json)
-
----
-
-### Club Wasantha’s son summoned before court
-
-*2024-08-05 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101003/club-wasanthas-son-summoned-before-court) · `en`
-
-The ten suspects who were arrested in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been produced before the Kaduwela Magistrate’s Court today (05).
-
-Meanwhile, the son of the murdered businessman, the OIC of the Western Province South Crimes Division, representatives from the Attorney General’s Department and the individual who took charge of Wasantha’s body are scheduled to appear before the court for legal proceedings, as per a court order.
-
-In the meantime, Sri Lanka Police has sought public assistance in tracking down three suspects in relation to the incident. Police have also released photographs and details of the three suspects in question.
-
-Police have arrested ten suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-...
-
-[Data](articles/9d15a3d4.json)
-
-[Extended Data](ext_articles/9d15a3d4.ext.json)
-
----
-
-### Club spring murder suspect herself to court
-
-*2024-08-05 12:13:01* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-සැකකරුවන්-අධිකරණවයට-රැගෙන-එයි/11-411201) · `si`
-
-Under heavy security, Surestra Wasantha, also known as Kib Wasantha, was brought to court as a suspect in a spring club murder case.
-
-🟩
-
-Surestra Wasantha alias Kib Wasantha alias murder were taken to courts in the midst of heavy security.
-
-◼️
-
-[Data](articles/543caa92.json)
-
-[Extended Data](ext_articles/543caa92.ext.json)
-
----
-
-### Laos arrives at the success of the eggs in Anuradhapura
-
-*2024-08-05 12:08:41* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුරයේ-බිත්තර-කුකුළු-පාලන-ව්‍යාපෘතියේ-සාර්ථකත්වය-බැලීමට-ලාඕසයෙන්-එයි/11-411200) · `si`
-
-Laos officials partnered with the World Food Organization to launch an egg production project in Sri Lanka's Anuradhapura District, investing Rs. 600,000 per chicken unit. The initiative, starting in 2023, aims to boost local egg supply, with each unit producing around 50 eggs daily. Beneficiaries, expected to receive about 1,500 eggs monthly, could potentially earn around 60,000 rupees monthly from the project.
-
-🟩
-
-Laous officials visited the Egg Poultry Program in the Anuradhapura District with the contribution of the World Food Food Audio.. The World Food Organization has identified that the Eggs Production Project will be effective in the Anuradhapura District.
-
-163 chicken units in 16 Divisional Secretariat Divisions have been implemented. Accordingly, some of the chick governors implemented in Kahatagasdigiliya and Central Nuwaragam Provincial Division have been observed.
-
-The World Food Organization has spent Rs. 600,000 for one chicken unit. The project has been launched by 55 chicks per unit of governance. This observation has revealed that this is about 50 eggs a day.
-
-...
-
-[Data](articles/1d814840.json)
-
-[Extended Data](ext_articles/1d814840.ext.json)
 
 ---

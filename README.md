@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 17:21:03**
+As of **2024-08-05 17:36:37**
 
 ## Newspaper Stats
 
-*Scraped **39,106** Articles*
+*Scraped **39,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 2,506
 adalk | 3,588
 adaderanalk | 4,540
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,895
-virakesarilk | 6,184
+tamilmirrorlk | 4,896
+virakesarilk | 6,185
 adaderanasinhalalk | 6,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,102 (100.0%) of 39,106 articles have been extended.
+39,106 (100.0%) of 39,108 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,24 @@ He said no members of the Awami League were present at the meeting with the poli
 ...
 
 [Data](articles/eb7345bd.json)
+
+[Extended Data](ext_articles/eb7345bd.ext.json)
+
+---
+
+### அகர்தலாவில்  ஷேக் ஹசீனா
+
+*2024-08-05 16:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகர்தலாவில்-ஷேக்-ஹசீனா/175-341636) · `ta`
+
+பங்களாதேசிலிருந்து ஹெலிகொப்டர் மூலம் தப்பிய ஷேக் ஹசீனா, இந்தியாவை சென்றடைந்ததாக அதிகாரப்பூர்வ தகவல் வெளியாகிய நிலையில், அவர் அங்கிருந்து லண்டன் தப்பிச் செல்ல இருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+பங்களாதேசில் சுதந்திர போராட்ட தியாகிகளின் வாரிசுகளுக்கு வழங்கப்படும் 30 சதவீத இட ஒதுக்கீட்டால் ஏற்கனவே கலவரம் வெடித்த நிலையில் உச்சநீதிமன்றம் அந்த இடஒதுக்கீடு இரத்து செய்யப்படும் என்று அறிவித்ததைத் தொடர்ந்து கலவரம் நின்றது.
+
+இதற்கிடையில் நேற்று பிரதமர் ஷேக் ஹசீனா இடஒதுக்கீடு தொடர்பாக பேச்சுவார்த்தை நடத்த அழைத்ததால் மீண்டும் மாணவர்கள் அமைப்பினர் போராட்டத்தில் ஈடுபட்டனர். இவர்களுக்கு எதிர்ப்பு தெரிவித்து ஆளும் கட்சியினரும் போராட்டத்தில் ஈடுபட்ட நிலையில் இருதரப்பினருக்கும் இடையே கலவரம் ஏற்பட்டது. இதில் 100க்கும் மேற்பட்டோர் உயிரிழந்தனர். போராட்டக்காரர்கள் பிரதமர் பதவியை இராஜினாமா செய்யும் வரை போராட்டத்தை நிறுத்த மாட்டோம் என்று அறிவித்தனர்.
+
+...
+
+[Data](articles/b02f5ca4.json)
 
 ---
 
@@ -191,6 +209,24 @@ The doctor was arrested by the Mannar Police on Saturday (03) and produced befor
 [Data](articles/e84abb60.json)
 
 [Extended Data](ext_articles/e84abb60.ext.json)
+
+---
+
+### அரசியல் கட்சிகளை பிளவுபடுத்துவதில் ஜனாதிபதி திறமையானவர் - நாமல் ராஜபக்ஷ
+
+*2024-08-05 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190315) · `ta`
+
+அரசியல் கட்சிகளை பிளவுபடுத்துவதில் ஜனாதிபதி ரணில் விக்கிரமசிங்க சிறந்தவர். ஜனாதிபதிக்கும், எமக்கும் ,இடையில் எவ்வித டீல் அரசியலும் கிடையாது. கட்சியை பாதுகாத்துக் கொள்வதற்காகவே சிறந்த தீர்மானத்தை எடுத்தோம் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி மன்ற உறுப்பினர்களுக்கு ,இடையில் திங்கட்கிழமை (05) பொதுஜன பெரமுனவின் காரியாலயத்தில் , இடம்பெற்ற சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கட்சியின் நிறைவேற்றுக் குழு ஏகமனதாக எடுத்த தீர்மானத்துக்கு எதிர்ப்பு தெரிவித்து கட்சியின் உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்குவதாக குறிப்பிடுகிறார்கள்.நிறைவேற்றுக் குழு கூட்டத்தில் முன்வைக்கப்பட்ட யோசனைக்கு ஆதரவு வழங்கி விட்டு மக்கள் மத்தியில் பொய்யான விமர்சிப்பது பயனற்றது.
+
+பொதுஜன பெரமுனவை விட்டு சென்றுள்ளவர்கள் மீண்டும் எம்முடன் ஒன்றிணைவார்கள்.முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ 'சலூன் கதவு' திறந்துள்ளது என்று குறிப்பிடுவார்.ஆகவே விலகிச் செல்பவர்களை பலவந்தமாக தடுத்து வைக்க முடியாது.
+
+...
+
+[Data](articles/6e8cbff5.json)
 
 ---
 
@@ -420,6 +456,8 @@ Bangladesh protesters gave the government 48 hours to meet a new set of demands 
 
 [Data](articles/74a67b9a.json)
 
+[Extended Data](ext_articles/74a67b9a.ext.json)
+
 ---
 
 ### Sheikh Hasina resigns
@@ -503,6 +541,8 @@ Since Sri Lanka got independence in 1948 from the British colonial rulers, it ha
 ...
 
 [Data](articles/bc022614.json)
+
+[Extended Data](ext_articles/bc022614.ext.json)
 
 ---
 
@@ -681,6 +721,8 @@ Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
 ...
 
 [Data](articles/d4a994a8.json)
+
+[Extended Data](ext_articles/d4a994a8.ext.json)
 
 ---
 
@@ -2269,35 +2311,5 @@ Hayleys Group reports economic value creation of Rs. 150 billion
 [Data](articles/be152899.json)
 
 [Extended Data](ext_articles/be152899.ext.json)
-
----
-
-### Sri Lanka College of Cardiologists receives Blood Pressure Monitors
-
-*2024-08-05 03:38:00* · [`islandlk`](http://island.lk/sri-lanka-college-of-cardiologists-receives-blood-pressure-monitors/) · `en`
-
-Terumo Corporation, together with its distribution partner Hemas Surgicals & Diagnostics (Pvt) Ltd, announced the donation of Nissei DS-11 Blood Pressure Monitors to the Sri Lanka College of Cardiologists. The initiative underscores a commitment to advancing cardiovascular health and empowering communities through innovative medical solutions.
-
-...
-
-[Data](articles/77a120b4.json)
-
-[Extended Data](ext_articles/77a120b4.ext.json)
-
----
-
-### HNB Assurance partners University of Colombo to launch Aspire Programme for top achievers
-
-*2024-08-05 03:37:00* · [`islandlk`](http://island.lk/hnb-assurance-partners-university-of-colombo-to-launch-aspire-programme-for-top-achievers/) · `en`
-
-HNB Assurance PLC entered a strategic partnership with the Faculty of Management and Finance at the University of Colombo, Sri Lanka, to introduce the HNB Assurance Aspire program. This initiative aims to provide selected high-performing Advisors, Leaders, and Bancassurance Officers with an opportunity to enhance their professional and business skills.
-
-Through the HNB Assurance Aspire program, candidates will have the opportunity to obtain a Diploma in Professional and Business Skills (DPBS) from the University of Colombo, with a pathway extending to a degree.
-
-...
-
-[Data](articles/21989d8f.json)
-
-[Extended Data](ext_articles/21989d8f.ext.json)
 
 ---

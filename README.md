@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 01:06:21**
+As of **2024-08-06 01:20:52**
 
 ## Newspaper Stats
 
-*Scraped **39,169** Articles*
+*Scraped **39,170** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
-colombotelegraphcom | 372
+colombotelegraphcom | 373
 islandlk | 2,251
 economynextcom | 2,363
 dailyftlk | 2,513
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,165 (100.0%) of 39,169 articles have been extended.
+39,169 (100.0%) of 39,170 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ At a press briefing titled “Collective Path to a Stable Country” at the Pres
 
 [Data](articles/cfac4b93.json)
 
+[Extended Data](ext_articles/cfac4b93.ext.json)
+
 ---
 
 ### SF places deposit to enter election fray
@@ -64,6 +66,8 @@ Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajit
 
 [Data](articles/b7d5f93e.json)
 
+[Extended Data](ext_articles/b7d5f93e.ext.json)
+
 ---
 
 ### EC extends deadline for postal voting applications
@@ -75,6 +79,8 @@ The deadline for submitting postal voting applications, originally set to expire
 ◼️
 
 [Data](articles/4e65f777.json)
+
+[Extended Data](ext_articles/4e65f777.ext.json)
 
 ---
 
@@ -337,6 +343,8 @@ The specialised bodies proposed to be set up by the Bill will be able to facilit
 ...
 
 [Data](articles/d78290bf.json)
+
+[Extended Data](ext_articles/d78290bf.ext.json)
 
 ---
 
@@ -713,6 +721,18 @@ The grant of the creed voluition began with the participation of the Trincomalee
 [Data](articles/a608bd7a.json)
 
 [Extended Data](ext_articles/a608bd7a.ext.json)
+
+---
+
+### India & The Military: Two Factors That May Affect JVP’s Rise To Power
+
+*2024-08-05 19:33:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-the-military-two-factors-that-may-affect-jvps-rise-to-power/) · `en`
+
+The indomitable spirit shown by Janatha Vimukthi Peramuna commonly known as JVP since its inception, even after the total eclipse of its initial political leadership is remarkable. Unlike many of the leftist political parties swayed and assimilated into the mainstream spectrum of party politics in Sri Lanka, JVP survived and flourished. After a half-century of its survival before two insurrections, JVP stands as a catalyst factor in the coming presidential election of Sri Lanka. Embittered by the cascade of failures attributed to the major political parties, essentially the nepotism of the Rajapaksa regime until the ousting of Gotabaya in 2022, the people seem to have developed a trust towards JVP’s charismatic leader Mr. Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/7c7aa8ed.json)
 
 ---
 
@@ -2287,25 +2307,5 @@ The Prime Minister's Office said that the two had discussed ways and methods to 
 [Data](articles/b85381ad.json)
 
 [Extended Data](ext_articles/b85381ad.ext.json)
-
----
-
-### England players Graham Turp passes away
-
-*2024-08-05 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199582) · `si`
-
-Graham Thorpe, a renowned English cricketer known for his batting skills, has tragically passed away. He served both the Test and one-day teams for over a decade, leaving behind a legacy in the sport.
-
-🟩
-
-Graham Turp, a batsman of the England cricket team has passed away today (05).
-
-Thorp, an excellent batsman from England, represented Test and one-day groups for more than ten years.
-
-◼️
-
-[Data](articles/f4809b9c.json)
-
-[Extended Data](ext_articles/f4809b9c.ext.json)
 
 ---

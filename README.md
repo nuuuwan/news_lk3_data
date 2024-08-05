@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-05 13:06:10**
+As of **2024-08-05 13:20:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,052 (100.0%) of 39,055 articles have been extended.
+39,055 (100.0%) of 39,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,15 +98,21 @@ Police have arrested ten suspects including the owner of the tattoo studio in At
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් අධිකරණවයට රැගෙන එයි
+### Club spring murder suspect herself to court
 
 *2024-08-05 12:13:01* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-සැකකරුවන්-අධිකරණවයට-රැගෙන-එයි/11-411201) · `si`
 
-සුරේන්ද්‍ර වසන්ත නොහොත් ක්ලබ් වසන්තගේ ඝාතනයේ සැකකරුවන් දැඩි ආරක්ෂාව මැද අධිකරණයට රැගෙනවිත් තිබේ.
+Under heavy security, Surestra Wasantha, also known as Kib Wasantha, was brought to court as a suspect in a spring club murder case.
+
+🟩
+
+Surestra Wasantha alias Kib Wasantha alias murder were taken to courts in the midst of heavy security.
 
 ◼️
 
 [Data](articles/543caa92.json)
+
+[Extended Data](ext_articles/543caa92.ext.json)
 
 ---
 
@@ -166,17 +172,23 @@ The violence has taken place as students have launched a non -cooperation strugg
 
 ---
 
-### ක්‍රිකට් ක්‍රීඩකයෙකු සජබය සමග එක්වෙයි
+### A cricketer joins with education
 
 *2024-08-05 11:41:24* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-ක්‍රීඩකයෙකු-සජබය-සමග-එක්වෙයි/11-411199) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම නියෝජනය කළ හිටපු ක්‍රිකට් ක්‍රීඩක හෂාන් තිලකරත්න මහතා සහ ඔහුගේ බිරිඳ අප්සරා තිලකරත්න මහත්මිය සමගි ජන බලවේගය සමග එක්ව තිබේ.
+Hashan Tilakaratne, a former Sri Lankan cricketer, along with his wife Apsara, have joined the reconciliation efforts led by Opposition Leader Sajith Premadasa from the Samagi Power party.
 
-සමගි ජන බලවේගයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා හමුවී මෙලෙස පක්ෂය සමග එක්ව ඇත.
+🟩
+
+Former Sri Lankan cricketer Hashan Tilakaratne and his wife Apsara Tilakaratne has joined the reconciliation of the reconciliation.
+
+Opposition Leader Leader, Leader of the Samagi Power and the Opposition Leader Sajith Premadasa and joined the party.
 
 ◼️
 
 [Data](articles/363b633a.json)
+
+[Extended Data](ext_articles/363b633a.ext.json)
 
 ---
 
@@ -393,6 +405,8 @@ I don’t say that rhetorically, I mean it quite literally: not once, not ever. 
 ...
 
 [Data](articles/bd3da513.json)
+
+[Extended Data](ext_articles/bd3da513.ext.json)
 
 ---
 

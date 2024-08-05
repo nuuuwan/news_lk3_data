@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 00:54:20**
+As of **2024-08-06 01:06:21**
 
 ## Newspaper Stats
 
-*Scraped **39,166** Articles*
+*Scraped **39,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 370
 colombotelegraphcom | 372
 islandlk | 2,251
 economynextcom | 2,363
-dailyftlk | 2,510
+dailyftlk | 2,513
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
@@ -26,11 +26,57 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,162 (100.0%) of 39,166 articles have been extended.
+39,165 (100.0%) of 39,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Majority of SLFP backs President Wickremesinghe claims Lasantha Alagiyawanna
+
+*2024-08-06 00:49:05* · [`dailyftlk`](https://www.ft.lk/news/Majority-of-SLFP-backs-President-Wickremesinghe-claims-Lasantha-Alagiyawanna/56-765197) · `en`
+
+State Minister for Trans-port Lasantha Alagiyawanna yesterday announced that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming Presidential election, with 90% of the executive council and a majority of the party’s MPs agreeing to this decision.
+
+He also highlighted that the SLFP’s robust organisational network has already started efforts to secure President Wickremesinghe’s victory.
+
+At a press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre (PMC), the State Minister highlighted the significant impact of the transportation sector on ecosystems globally and locally, with vehicle emissions as a major factor. To tackle this issue, smoke certificates are being issued to maintain air quality and reduce lung-related diseases.
+
+...
+
+[Data](articles/cfac4b93.json)
+
+---
+
+### SF places deposit to enter election fray
+
+*2024-08-06 00:47:21* · [`dailyftlk`](https://www.ft.lk/news/SF-places-deposit-to-enter-election-fray/56-765196) · `en`
+
+Field Marshal Sarath Fonseka submitted the necessary cash deposit yesterday to enter the Presidential election as an independent candidate.
+
+Fonseka also contested at the 2010 Presidential election but was defeated by former President Mahinda Rajapaksa.
+
+In a related development former Janatha Vimukthi Peramuna (JVP) MP Siripala Amarasinghe also submitted bonds to run as an independent candidate yesterday, bringing the total number of candidates to 17. Among these candidates, eight represent recognised political parties, while the other eight are from minor political parties or are independent candidates.
+
+Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Sarath Keerthirathne, Oshala Herath, A.S.P. Liyanage, P.W.S.K. Bandaranayake, Wijeyadasa Rajapakshe, K.K. Piyadasa, Siritunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Akmeemana Dayaratna Thera, Battaramulle Seelaratne Thera and Siripala Amarasinghe.
+
+...
+
+[Data](articles/b7d5f93e.json)
+
+---
+
+### EC extends deadline for postal voting applications
+
+*2024-08-06 00:45:35* · [`dailyftlk`](https://www.ft.lk/news/EC-extends-deadline-for-postal-voting-applications/56-765195) · `en`
+
+The deadline for submitting postal voting applications, originally set to expire at midnight today, has been extended, the Commissioner General of Elections Saman Sri Ratnayake said yesterday. Voters now have until 12 midnight on Friday, 9 August to submit their applications.  This extension comes in response to concerns over potential postal delays and numerous public requests for additional time.
+
+◼️
+
+[Data](articles/4e65f777.json)
+
+---
 
 ### Empowering entrepreneurs: Expert Insights from the Human Capital Summit 2024
 
@@ -43,6 +89,8 @@ This pillar, headlined by influential figures such as Invest India former Managi
 ...
 
 [Data](articles/9cff804f.json)
+
+[Extended Data](ext_articles/9cff804f.ext.json)
 
 ---
 
@@ -234,6 +282,8 @@ The Women’s International Shipping and Trading Association (WISTA) Sri Lanka, 
 
 [Data](articles/904f3623.json)
 
+[Extended Data](ext_articles/904f3623.ext.json)
+
 ---
 
 ### First special course for SL foreign service officers inaugurated at SSIFS in New Delhi
@@ -271,6 +321,8 @@ Sri Lanka reached a debt restructuring agreement with commercial creditors in Ju
 ...
 
 [Data](articles/81ea4c7d.json)
+
+[Extended Data](ext_articles/81ea4c7d.ext.json)
 
 ---
 
@@ -2255,79 +2307,5 @@ Thorp, an excellent batsman from England, represented Test and one-day groups fo
 [Data](articles/f4809b9c.json)
 
 [Extended Data](ext_articles/f4809b9c.ext.json)
-
----
-
-### Israeli strikes hit Gaza schools, hospital compound after talks fail
-
-*2024-08-05 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101005/israeli-strikes-hit-gaza-schools-hospital-compound-after-talks-fail) · `en`
-
-An Israeli airstrike hit two schools in Gaza City on Sunday, killing at least 30 people, Palestinian officials said, while the Israeli military said it struck a Hamas military compound embedded in the schools.
-
-An Israeli airstrike hit a tent camp inside a hospital in central Gaza earlier in the day. Gaza health officials said a total of at least 44 Palestinians were killed on Sunday, the day after a round of talks in Cairo ended without result.
-
-Footage circulated on Palestinian media showed bodies scattered inside the yard of one of two blast-wrecked schools as residents rushed to carry casualties, including children, and loaded them into ambulance vehicles that took them to at least two nearby hospitals.
-
-Gaza’s Civil Emergency Service said dozens were wounded in addition to the fatalities in the schools of Hassan Salama and Al-Nasser, which housed Palestinian displaced families.
-
-...
-
-[Data](articles/101b2484.json)
-
-[Extended Data](ext_articles/101b2484.ext.json)
-
----
-
-### Rs. Heavy cannabis in the Kerala Cannabis
-
-*2024-08-05 13:10:05* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-8ක-කේරළ-ගංජා-නාවික-හමුදා-භාරයට/11-411204) · `si`
-
-On August 4, 2024, the Sri Lankan Navy intercepted a heavy cannabis shipment off the coast of Kilinochchi, arresting six suspects. The operation, involving the Western Naval Ship Buvana Buwaneka Buwane, targeted illegal activities along the coast.
-
-🟩
-
-Investigation operation conducted on August 04, Kilinochchi, Iravuvuvuvuvuvulavuvuvila, Kilinochchi, was taken into custody by the Navy.
-
-Navy operates in constant attention to suppress the illegal activities of Sri Lanka and the coastal zone.
-
-Accordingly, the Western Naval Ship Buvana Buwaneka Buwane, Sri Lanka Naval Ship Buwaneka Buwane, the immediate active vessel, is hidden in the Iranathivu Padium in Kilinochchi on 04 August 2024 at the Iranathivatu Island of Kilinochchi on June 4, 202.Six (06) suspects were inspected. He was taken into custody by navy coordinating Rs.
-
-Gross Streets of Kerala cannabis are believed to be over Rs.
-
-The operation was also taken into custody by the Navy in the Navy.
-
-◼️
-
-[Data](articles/9057d93f.json)
-
-[Extended Data](ext_articles/9057d93f.ext.json)
-
----
-
-### Flying happiness ended in sadness
-
-*2024-08-05 13:05:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பறக்கும்-மகிழ்ச்சி-சோகத்தில்-முடிந்தது/76-341621) · `ta`
-
-A group of eight youths celebrating their success to study in Korea turned tragic when one of them, a 29-year-old named UM Kamal, drowned while swimming in the Bambahinnalawewa Wawy of Balangoda. Despite rescue attempts, he could not be saved. The incident occurred during a celebratory visit to the area with their teacher.
-
-🟩
-
-A group of eight youths who have passed the exam to go to Korea and passed the exam, with their teacher, celebrated the joy of passing the air door of the Bambahinnalawewa Wawy of Balangoda on Sunday (04).
-
-Eight youths living in Kahawatta, Welige Pol, Pinnawala and Kodagewewala area have visited the area with their teacher at around 2 pm on Sunday (04).
-
-At the time, 29 -year -old UM Kamal from Wennappuwa area was drowned.
-
-Samanalawewa police said that three of the nine people who had gone there had gone to the spot for the first time and that the other people did not go to the water.
-
-The other two tried to rescue him after one of the three drowned and their efforts were not worth it. With the help of the other two people who were traveling through the road, the youth was rescued and allowed to be taken to the Bambahinna area.
-
-The deceased young man has been studying from Kahawatta, to stay at his Siddhappa's home in Kodagewewala, Ratagewewala, to go to Korea.
-
-...
-
-[Data](articles/7fb25deb.json)
-
-[Extended Data](ext_articles/7fb25deb.ext.json)
 
 ---

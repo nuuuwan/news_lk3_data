@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 04:36:28**
+As of **2024-08-06 04:55:09**
 
 ## Newspaper Stats
 
@@ -26,41 +26,57 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,181 (100.0%) of 39,183 articles have been extended.
+39,183 (100.0%) of 39,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### மஹிந்தவின் ஆலோசனைக்கமையவே ஜனாதிபதிக்கு ஆதரவு வழங்கினோம் - பிரசன்ன ரணதுங்க
+### We supported the President on the advice of Mahinda - Prasanna Ranatunga
 
 *2024-08-06 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190381) · `ta`
 
-2022 மே 09 வன்முறை சம்பவத்துக்கு பொறுப்புக்கூற வேண்டியவர்கள், வன்முறை சரி என்று தற்போது குறிப்பிடுவது வேடிக்கையாகவுள்ளது. கட்சியின் உறுப்பினரை வேட்பாளராக அறிவிப்பதாக இருந்தால் சுயாதீனமாக தீர்மானங்களை எடுத்துக் கொள்ளுங்கள் என்று மஹிந்த ராஜபக்ஷ எம்மிடம் குறிப்பிட்டார்.
+Prasanna Ranatunga, Minister of Housing and Urban Development, announced support for the President, citing advice from Mahinda Rajapakse. He criticized those involved in a violent incident on May 9, 2022, for now discussing violence. Despite concerns over a poorly organized political meeting that led to assaults and ridicule of supporters, including the murder of Athukorala by MP Amarakirthi, the group decided to back the President based on Rajapakse's guidance. This move aims to strengthen the party amidst internal conflicts and external challenges.
 
-அதற்கமைவாகவே ஜனாதிபதிக்கு ஆதரவு வழங்கினோம் என வீடமைப்பு மற்றும் நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+🟩
 
-கம்பஹா – உடுகம்பொல பகுதியில் திங்கட்கிழமை (5) இடம்பெற்ற பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+It is funny that those who are responsible for the violence incident, 2022 May 09, are currently referring to violence. Mahinda Rajapakse told us that if he is to declare the party member as a candidate, take resolutions independently.
 
-2022 மே 09 வன்முறை சம்பவம் பற்றி தற்போது பேசப்படுகிறது. அலரிமாளிகையில் அரசியல் கூட்டத்தை நடத்த வேண்டாம் என்று 2022.05.08 ஆம் திகதி அப்போதைய பிரதமர் மஹிந்த ராஜபக்ஷவிடம் வலியுறுத்தினேன். முறையற்ற வகையில் ஏற்பாடு செய்யும் கூட்டத்தில் கலந்துக் கொள்ள போவதில்லை என்று நான் குறிப்பிட்டேன்.
+The Minister of Housing and Urban Development Prasanna Ranatunga said that we supported the President.
+
+He was speaking at a meeting of the organizer of the PA, which was held on Monday (5) in the Gampaha - Udugampola area.
+
+2022 May 09 is currently talking about the violent incident. I urged the then Prime Minister Mahinda Rajapaksa on 08.05.2012 not to hold a political meeting at the Allaimalai.. I mentioned that he was not going to attend the meeting of improperly organizing.
+
+The meeting was held against our suggestions. Thus our supporters were ridiculed and assaulted by MP Amarakirthi assassinated Athukorala. It is funny to note that those who are responsible for violence are now correct and that the homes of politicians have been set on fire.
 
 ...
 
 [Data](articles/b09b14b4.json)
 
+[Extended Data](ext_articles/b09b14b4.ext.json)
+
 ---
 
-### நாட்டை கட்டியெழுப்ப அனைத்து கட்சிகளும் ஒன்றிணையவே ஜனாதிபதி சுயாதீன வேட்பாளராக களமிறங்கியுள்ளார் - வஜிர அபேவர்த்தன
+### All parties are united to build the country as an independent candidate - Vajira Abeywardena
 
 *2024-08-06 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190380) · `ta`
 
-ஜனாதிபதி எந்த கட்சியையும் பிளவு படுத்தவில்லை. ஆனால் அந்த கட்சிகள் பிளவு பட்டிருந்த காலகட்டத்திலேயே ஜனாதிபதி நாட்டை பொறுப்பேற்றிருந்தார். தற்போதும் அனைத்து அரசியல் கட்சிகளும் ஒன்றிணைந்து செயற்படுவதற்கு சந்தர்ப்பம் வழங்கும் வகையிலேயே ஜனாபதி ரணில் விக்ரமசிங்க தேர்தலில் சுயாதீன வேட்பாளராக களமிறங்கியுள்ளார் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+Vajira Abeywardena highlights unity among political parties under President Ranil Wickremesinghe's leadership, emphasizing the need for collaboration to address Sri Lanka's economic crisis and move the country forward. Wickremesinghe's extensive political experience aims to stabilize the nation, likening it to treating a patient in critical condition. He cautions against political deception, urging parties to prioritize national interests and avoid divisive tactics.
 
-எமது நாட்டில் கடந்த வருடங்களில் இருந்துவந்த பொருளாதார நெருக்கடி நிலை காரணமாக இளைஞர் சமூகம் முழுமையாக வீழ்ச்சியடைந்தது. சில இளைஞர்கள் நாட்டை விட்டு சென்றனர். இந்த நிலை தொடர்ந்து அவ்வாறு இருக்க முடியாது. நாங்கள் இந்த நாட்டை புதிய திசைக்கு கொண்டு செல்ல வேண்டும்.இதற்கு இளைஞர்களின் கருத்துக்கள் ஆலாேசனைகள் தேவையாகும்.
+🟩
+
+The president does not split any party. But when the parties were split, the president was in charge of the country. United National Party (UNP) MP Vajira Abeywardena said that President Ranil Wickremesinghe has fielded the election as an independent candidate in order to give all political parties an opportunity to work together.
+
+The youth community has fallen completely due to the economic crisis in our country over the past years. Some young people left the country. This condition cannot be continuously so. We need to take this country in a new direction.
+
+Ranil Wickremesinghe's 42 -year political experience was due to the country's bankruptcy to normalize the country within two years.. The task has not yet been completed though. Sri Lanka has been in the intensive care unit for the past two years. For the past two years, a specialist, Ranil Wickremesinghe, a specialist, has been treated.
 
 ...
 
 [Data](articles/208c6f02.json)
+
+[Extended Data](ext_articles/208c6f02.ext.json)
 
 ---
 

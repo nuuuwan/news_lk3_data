@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 16:53:24**
+As of **2024-08-06 17:05:56**
 
 ## Newspaper Stats
 
-*Scraped **39,297** Articles*
+*Scraped **39,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
 adalk | 3,610
-adaderanalk | 4,564
+adaderanalk | 4,566
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,925
 virakesarilk | 6,216
@@ -26,69 +26,133 @@ adaderanasinhalalk | 6,650
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,292 (100.0%) of 39,297 articles have been extended.
+39,297 (100.0%) of 39,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### බංග්ලාදේශයේ මීළඟ පියවර
+### Next Step in Bangladesh
 
 *2024-08-06 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199634) · `si`
 
-සාධාරණ රැකියා කෝටා ක්‍රමයක් වෙනුවෙන් ආරම්භ වී පසුව ආණ්ඩු විරෝධී ජනතා රැල්ලක් බවට පත්වූ බංග්ලාදේශයේ විරෝධතාවේ අවසානය සලකුණු වුයේ අගමැතිනි ෂෙයික් හසීනා ඉල්ලා අස්වී රටින් පිටව යෑමෙනි.
+The Bangladesh protest ended with a reasonable job quota agreement. Prime Minister Sheikh Hasina fled to India after a military helicopter escape, later landing in Delhi. The Bangladesh army announced an interim government due to civil unrest, promising justice and peace. Curfews lifted, allowing schools, factories, and universities to reopen. This marks the second time since 2007 that Bangladesh has seen an interim government, following mass protests and political instability.
 
-අගමැතිනි ෂෙයික් හසීනාට ඉල්ලා අස්වන ලෙස බලකරමින් බංග්ලාදේශ ශිෂ්‍ය විරෝධතාකරුවන් ඊයේ (05) 'මාච් ටු ඩකා' නමින් අගනුවර දැවැන්ත පාගමනක් ආරම්භ කර තිබුණේ ඒ අනුවය.
+🟩
 
-දස දහස් සංඛ්‍යා විරෝධතාකරුවන් අගමැතිනියගේ නිල නිවහනට ඇතුළු වී එහි තිබූ ගෘහ භාණ්ඩ, රූපවාහිනී සහ විද්‍යුත් උපකරණ, බුමුතුරුණු, මල් බඳුන් පමණක් නොව ජල තටාකයේ සිටි මසුන් පවා විරෝධතාකරුවන් රැගෙන යන ආකාරය මෙන්ම එහි තිබූ බොහෝ දෑ කොල්ලකෑමටත්, පාරිභෝජනය කිරීමටත් කටයුතු කළ අයුරු බංග්ලාදේශ රූපවාහිනී සේවා මගින් විකාශය කෙරුණි.
+The end of Bangladesh protest was marked by a reasonable job quota.
 
-ඩකා නගර මධ්‍යයේ පිහිටි ෂෙයික් හසීනාගේ පියා වූ බංග්ලාදේශයේ නිර්මාතෘ ෂෙයික් මුජිබර් රහමන්ගේ දැවැන්ත ලෝහමය ප්‍රතිමාව මත නැඟ එහි හිසට පොරෝ පහරක් එල්ල කළේ එම ඉතිහාසය නොදන්නා පුද්ගලයන් ලෙසිනි.
+The Bangladesh student protesters had commenced a huge march called 'Machi Dhaka' yesterday (05), demanding Prime Minister Sheikh Haseani.
 
-මෙම තත්ත්වය උදාවීමට මොහොතකට පෙර අගමැතිනි ෂෙයික් හසීනා සිය සොහොයුරිය සමඟ හමුදා හෙලිකොප්ටර් යානයක නැගී ඉන්දියාවට පළාගොස් තිබුණි.
+Tens of thousands of protesters were taken to the Prime Minister's official quarters, but also the furniture, tyles, flowers, flowers, but also by Bangladesh television servicesBroadcast.
+
+Sheikh Hasean's founder, Bangladesh, Bangladesh found in the city of Dhaka, was hit by the huge metallic statue of Sheikh Mujiber Rahaman.
+
+Prime Minister Sheikh Haseanna had fled a military helicopter with his sister with his sister.
+
+Sheikh Hasana, who came to the Eastern border of Bangladesh, was later landed in an Indian Air Force base near the capital city of Delhi at a C-130 cargo.
+
+Indian National Security Advisor Ajith Dowal Sheikh Haseana had met India at the Hindon Air Force near New Delhi.
+
+However, the 'Times Num' had stated that Sheikh Hasana was going to London today (06).
 
 ...
 
 [Data](articles/eea30493.json)
 
+[Extended Data](ext_articles/eea30493.ext.json)
+
 ---
 
-### மன்னாரில் மக்களின் காணிகள் அபகரிக்கப்பட்டு வருகின்ற போதும் இது வரை பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் கிடைக்கவில்லை - அருட்தந்தை எஸ்.மார்க்கஸ்
+### Though the land of the people in Mannar is being taken away
 
 *2024-08-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190425) · `ta`
 
-மன்னார் மாவட்டத்தில் பல்வேறு கோணங்களில் மக்களின் காணிகள் அபகரிக்கப்பட்டு வருகின்ற போதும்,இது வரை பாதிக்கப்பட்ட மக்களுக்கு உரிய நிவாரணம் கிடைக்கவில்லை. எனவே மாவட்ட மக்கள் எதிர்நோக்கும் சகல விதமான பிரச்சனைகளுக்கும் நாட்டின் ஜனாதிபதி உரிய தீர்வை பெற்றுக் கொடுக்க வேண்டும் என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மார்க்கஸ் அடிகளார் தெரிவித்தார்.
+In Mannar district, locals face land seizures and lack relief despite protests. Efforts to halt heavy sand excavation have been met with resistance from state agencies. Concerns also arise from the Mannar District General Hospital, where a postpartum woman died due to high blood loss, prompting calls for accountability and transparency. Additionally, thousands of families struggle for land ownership, with applications for small businesses ignored, highlighting broader issues of land distribution and economic opportunity.
 
-மன்னார் மாவட்ட மக்கள் எதிர்கொள்ளும் பல்வேறு பிரச்சினைகள் குறித்து விசேட ஊடக சந்திப்பு இன்றைய தினம் செவ்வாய்க்கிழமை (06) மதியம் மன்னார் பிரஜைகள் குழு அலுவலகத்தில் இடம்பெற்றது.
+🟩
 
-மன்னார் மாவட்டத்தில் கடந்த 5 வருடங்களுக்கு மேலாக கனிய மணல் அகழ்வு திட்டத்தை முன்னெடுப்பதற்கான பாரிய முயற்சிகள் இடம்பெற்று வருகின்றது.
+Though the lands of the people are being taken away from various angles in Mannar district, the victims have not received relief.The President of the Mannar Citizens Committee, Aruttandai S. Markas Adikallar, said that the country's president should provide a proper solution to all the problems faced by the people of the district.
 
-பல்வேறு கம்பனிகளால் பாரிய முயற்சிகள் இடம்பெற்ற போதும் இறுதியில் கம்பெனி ஒன்று கனிய மணல் அகழ்வுக்காக மன்னார் மாவட்டத்தில் கால் பதித்துள்ளது.
+A special media briefing on various issues faced by the people of Mannar district was held on Tuesday (06) at the Mannar Citizens Committee Office.
 
-குறித்த கம்பெனி குறித்த இடத்தை கையகப்படுத்திக் கொள்ள அனுமதி வழங்க பல்வேறு நடவடிக்கைகள் இடம் பெற்று வருகிறது.
+In the Mannar district, there have been massive efforts to carry out a heavy sand excavation program over the past five years.
+
+Despite massive efforts by various companies, the company has finally set foot in the Mannar district for a heavy sand excavation.
+
+Various measures are being taken to grant permission to acquire the location of the company.
+
+Although we are protesting on behalf of the public, the work plans are being carried out with the efforts of various state agencies to implement the action.
 
 ...
 
 [Data](articles/6d117538.json)
 
+[Extended Data](ext_articles/6d117538.ext.json)
+
 ---
 
-### பங்களாதேஷ் பாராளுமன்றம் கலைப்பு
+### Body of missing Dematagoda Railway Yard employee found inside unguarded well
+
+*2024-08-06 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101042/body-of-missing-dematagoda-railway-yard-employee-found-inside-unguarded-well) · `en`
+
+The body of the missing employee at the Dematagoda Railway Yard has been discovered from an unguarded well within the compound.
+
+Earlier today, the train services from Colombo Fort had been temporarily disrupted due to workers at the Dematagoda Yard withdrawing from duties on claims that proper action was not being taken to find a fellow employee who had gone missing.
+
+As a result, the ‘Podi Menike’ and ‘Badulla Odyssey’ trains, which were scheduled to depart from Colombo Fort to Badulla this morning, did not operate.
+
+◼️
+
+[Data](articles/0ffd6f04.json)
+
+---
+
+### Arson suspected as police question student over fire that destroyed school music room
+
+*2024-08-06 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101041/arson-suspected-as-police-question-student-over-fire-that-destroyed-school-music-room) · `en`
+
+Police have questioned a Grade 8 student concerning a recent incident in which the music room at his school in Anamaduwa was almost completely destroyed in a fire.
+
+In addition to this student, another student from the same school is also suspected of being involved in the suspected arson incident.
+
+The music room of the school was gutted in a fire which broke out on August 04 while the principal and several other teachers from the school had managed to control the fire and prevent it from spreading further to other buildings.
+
+Police have initiated an investigation to determine whether the fire was caused by electrical short or if it was the result of an act of arson.
+
+It has then been revealed that a student had entered the school premises through the fence at the back of the school in the afternoon on that day.
+
+Further interrogation of the student in question have revealed that a window of the music room was accidently broken by a stone thrown at a wood apple tree.
+
+...
+
+[Data](articles/823e9c54.json)
+
+---
+
+### Dissolve of Bangladesh Parliament
 
 *2024-08-06 16:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-பாராளுமன்றம்-கலைப்பு/50-341696) · `ta`
 
-பங்களாதேஷ் பாராளுமன்றம் கலைக்கப்பட்டுள்ளதாக பங்களாதேஷ் ஜனாதிபதி அலுவலகத்தை மேற்கோளிட்டு வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Bangladesh's parliament has been dissolved after PM Sheikh Hasina's resignation, amid demands from students for her replacement by Nobel laureate Muhammad Yunus, known for his work in microfinance. The move comes without any agreement with the military regime, highlighting a shift in leadership and potential changes in governance.
 
-பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா ராஜினாமா செய்ததைத் தொடர்ந்து, பங்களாதேஷின் மாணவர் அமைப்பினர் பாராளுமன்றத்தை கலைக்குமாறு கோரிக்கை விடுத்திருந்தனர். அதன்படி, இன்று பிற்பகல் 3 மணி வரை காலக்கெடு விதித்திருந்தனர்.
+🟩
 
-இதேவேளை, பங்களாதேஷில் அமையவுள்ள இடைக்கால அரசாங்கத்திற்கு நோபல் பரிசு பெற்ற முஹம்மது யூனுஸ் தலைமை தாங்க மாணவர் அமைப்பினர் அழைப்பு விடுத்துள்ளனர்.
+Foreign media has reported that the Bangladesh parliament has been dissolved.
 
-ஷேக் ஹசீனாவின் அரசியல் போட்டியாளரான முஹம்மது யூனுஸ், மைக்ரோ கிரெடிட் மற்றும் மைக்ரோ ஃபைனான்ஸ் ஆகிய கருத்துக்களுக்கு முன்னோடியாக 2006 இல் அமைதிக்கான நோபல் பரிசை வென்றார்.
+Following the resignation of Bangladesh Prime Minister Sheikh Hasina, Bangladesh's student body demanded the dissolution of parliament. Accordingly, the deadline was imposed till 3 pm today.
 
-மேலும் இராணுவ ஆட்சியில் தங்களுக்கு உடன்பாடு இல்லை என்று மாணவர் அமைப்பு  வலியுறுத்தியுள்ளது.
+Meanwhile, Student Organizations have called for the Nobel Peace Prize -winning Muhammad Yunus for the interim government in Bangladesh.
+
+Sheikh Hasina's political rival Muhammad Yunus won the Nobel Prize in 2006 as a pioneer of Micro Credit and Micro Finance.
+
+Moreover, the student body has insisted that they have no agreement with the military regime.
 
 ◼️
 
 [Data](articles/5fd306c6.json)
+
+[Extended Data](ext_articles/5fd306c6.ext.json)
 
 ---
 
@@ -148,15 +212,21 @@ The International Media reported that America Naval Infrastructure has been incl
 
 ---
 
-### வரலாற்றில் இன்று : ஹிரோஷிமாவில் 'குட்டிப் பையனின்' கோரத் தாண்டவம்
+### Today in History: Hiroshima
 
 *2024-08-06 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190423) · `ta`
 
-1945இல் அமெரிக்கா வீசிய குட்டிப் பையன் (Little Boy) அணுகுண்டு, ஜப்பான் நாட்டின் ஹிரோஷிமா நகரில் பயங்கர அழிவை ஏற்படுத்திய தினம் இதே திகதியான ஆகஸ்ட் 6 ஆகும்.
+On this day in 1945, the atomic bomb "Little Boy," dropped by the U.S., devastated Hiroshima, marking a horrific start to nuclear warfare.
+
+🟩
+
+The same date is the day when the Little Boy, the US -threatened bomb in 1945, caused the destruction of horror in Hiroshima, Japan.
 
 ◼️
 
 [Data](articles/e126bea1.json)
+
+[Extended Data](ext_articles/e126bea1.ext.json)
 
 ---
 
@@ -184,23 +254,29 @@ Accordingly, the court recorded the review was ordered to comply with the impeac
 
 ---
 
-### பங்களாதேஸ் நாடாளுமன்றம் கலைப்பு - ஹோட்டலிற்கு தீ மூட்டிய ஆர்ப்பாட்டக்காரர்கள் - 22 பேர் பலி
+### Bangladesh Parliament dissolve - Demonstrators who set fire to hotel - 22 killed
 
 *2024-08-06 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190419) · `ta`
 
-நாடாளுமன்றத்தை கலைக்கவேண்டும் என்பது மாணவ ஆர்ப்பாட்டக்காரர்களின் முக்கிய கோரிக்கைகளில் ஒன்றாக காணப்பட்டமை குறிப்பிடத்தக்கது.
+In Bangladesh, protests led to the dissolution of Parliament, while a fire at a government-sponsored hotel in Jessore, owned by the Awami League General Secretary, resulted in 22 deaths. The blaze, which took firefighters 12 hours to control, occurred amidst demonstrations where students demanded parliamentary dissolution.
 
-இதேவேளை திங்கட்கிழமை அரசாங்க ஆதரவாளரின் ஜபீர் இன்டநஷனல் ஹோட்டலிற்கு ஆர்ப்பாட்டக்காராகள் தீ மூட்டியதில் 22 பேர் கொல்லப்பட்டுள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-12 மணித்தியால போராட்டத்தின் பின்னர் தீயணைப்பு படைவீரர்கள் தீயை கட்டுப்பாட்டின் கீழ் கொண்டுவந்துள்ளனர்.
+It is noteworthy that one of the main demands of student demonstrators was to dissolve parliament.
 
-ஆர்ப்பாட்டக்காரர்கள் தடுத்தமமையால் தீயை கட்டுப்படுத்த முடியாத நிலை காணப்பட்டதாக தீயணைப்பு வீரர்கள் தெரிவித்துள்ளனர்.
+Meanwhile, 22 people have been killed in a fire at a government -sponsored Jabir International Hotel on Monday.
 
-பங்களாதேஸின் வடமேற்கு நகரான ஜெசூரில் காணப்பட்ட இந்த ஹோட்டல் -ஆளும் அவாமி லீக்கின்பொதுசெயலாளருக்கு சொந்தமானது.
+After the 12 -hour struggle, firefighters have brought the fire under control.
+
+Firefighters said the fire was unable to control the fire.
+
+The hotel, found in the northwestern city of Bangladesh, Jessur, belongs to the Awami League General Secretary.
 
 ◼️
 
 [Data](articles/508b9a54.json)
+
+[Extended Data](ext_articles/508b9a54.ext.json)
 
 ---
 
@@ -2209,49 +2285,5 @@ However, Speaker Binda Ranasinghe has appealed to the Speaker Binda Ranasinghe r
 [Data](articles/d3e5cebf.json)
 
 [Extended Data](ext_articles/d3e5cebf.ext.json)
-
----
-
-### 17 candidates in the presidential election - Elections Commission
-
-*2024-08-06 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190374) · `ta`
-
-In the upcoming presidential election, there are 17 candidates: 9 from authorized political parties, 1 from other parties, and 7 independents. Candidates can submit their applications from 9 am to 11.30 am on Thursday, 15th, with the deadline being Wednesday, 14th. Notable candidates include Osala Herath, ASP Liagke, Sajith Premadasa, SK Pandaranaike, Vijayadasa Rajapakse, Sarath Manamendra, Battaramulla Seelaratne Thera, KR Kishan, Ajantha The Soyza, Ranil Wickremesinghe, Sarath Keerthi Ratna, KK Piyadasa, Ananda Kularatne, Akmeemana Taru Siripala Amarasinghe, and Sarath Fonseka.
-
-🟩
-
-17 candidates have controlled the presidential election so far (Monday 05). The Elections Commission has announced that 9 candidates to contest on behalf of authorized political parties, 1 candidates to contest on behalf of other political parties and 7 candidates to contest independently.
-
-Candidates will be accepted from 9 am to 11.30 am on Thursday, 15th, as the Presidential Elections will be accepted until Wednesday, the 14th.
-
-Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party, Battaramulla Seelaratne Thera on behalf of the Janasena Front, and KR Kishan on behalf of the Arunulu People's Front have been controlled as recognized political parties.
-
-...
-
-[Data](articles/ac729e25.json)
-
-[Extended Data](ext_articles/ac729e25.ext.json)
-
----
-
-### 60 complaints register
-
-*2024-08-06 01:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-முறைப்பாடுகள்-பதிவு/175-341661) · `ta`
-
-February Organization reports 60 election law violations, including misuse of state power and improper asset use. Complaints also target political changes in state institution leadership and uncontrolled development projects.
-
-🟩
-
-According to the February organization, 60 complaints have been received so far in violation of election laws.
-
-Its Director Rohana Hettiarachchi said that the abuse of state power and the use of assets inappropriately.
-
-He added that various complaints have been made, including the change in the senior positions of some state institutions for political purposes, and the launching of unstoppable development programs.. (A)
-
-◼️
-
-[Data](articles/a6c490da.json)
-
-[Extended Data](ext_articles/a6c490da.ext.json)
 
 ---

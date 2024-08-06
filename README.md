@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 17:57:13**
+As of **2024-08-06 18:16:07**
 
 ## Newspaper Stats
 
-*Scraped **39,319** Articles*
+*Scraped **39,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 3,613
 adaderanalk | 4,567
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
-virakesarilk | 6,216
+virakesarilk | 6,219
 adaderanasinhalalk | 6,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,314 (100.0%) of 39,319 articles have been extended.
+39,319 (100.0%) of 39,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### මත්පැන් හල් බලපත්‍ර සම්බන්ධයෙන් අධිකරණ නියෝගයක්
+### நிலையான அபிவிருத்தி இலக்குகளை அடைவதற்கும் 2040 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய கார்பன் உமிழ்வை அடைவதற்கும் இலங்கை உறுதிபூண்டுள்ளது - ஜனாதிபதி
 
-*2024-08-06 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199637) · `si`
+*2024-08-06 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190444) · `ta`
 
-සුරාබදු රෙගුලාසිවලට පටහැනි ආකාරයට මත්පැන් හල් බලපත්‍ර නිකුත් කිරීම සඳහා අයදුම්පත් භාරගැනීම සහ බලපත්‍ර නිකුත් කිරීම වළක්වමින් නිකුත් කර තිබූ අතුරු තහනම් නියෝගය දීර්ඝ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (06) තීන්දු කළේය.
+புதுப்பிக்கத்தக்க எரிசக்தி ஆற்றல்களைப் பயன்படுத்துதல், விவசாயத்தை நவீனப்படுத்துதல் மற்றும் நீர்ப் பற்றாக்குறைக்குத் தீர்வு வழங்குதல் போன்ற துரித முறைகள் மூலம் 2040 ஆம் ஆண்டளவில் நிலையான அபிவிருத்தி இலக்குகளை அடைவதற்கும் நிகர பூஜ்ஜிய கார்பன் உமிழ்வை அடைவதற்கும் இலங்கை செயற்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
 
-සුරාබදු රෙගුලාසිවලට පටහැනිව නිකුත් කර තිබෙන මත්පැන් බලපත්‍ර අභියෝගයට ලක් කරමින් මත්පැන් හල්හිමියන් පිරිසක් විසින් ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් 04ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය එම නියෝගය නිකුත් කර ඇත.
+அதற்காக வர்த்தக முதலீடுகள் ஊடாக உலகளாவிய நிதி வசதிகளை ஈர்ப்பதுடன், பெருந்தோட்டத் துறையை பெருந்தோட்டத் தொழிலில் இருந்து விவசாய வணிகமாக மாற்றுவது, நிலையான சுற்றுலாத்துறை ஊக்குவிப்பு மற்றும் உற்பத்திகளை மேம்படுத்துதல் மற்றும் டிஜிட்டல் மயமாக்கல் என்பன இதன் பிரதான வேலைத் திட்டங்களாகும் என ஜனாதிபதி குறிப்பிட்டார்.
 
-මෙම අතුරු තහනම් පෙත්සම් විභාගය අවසන් වන තෙක් බල පැවැත්වෙන බවත් නියෝගයේ සඳහන් ය.
-
-ඒ අනුව අදාළ පෙත්සම්වල වගඋත්තරකරුවන් ලෙස නම්කර තිබූ මුදල් අමාත්‍යවරයා, සුරාබදු කොමසාරිස් ජනරාලරයා ඇතුළු පිරිසකට එරෙහිව නඩු විභාගයක් පැවැත්වීමට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මෙම පෙත්සම්වලට අදාළ විරෝධතා ඇත්නම්  ඒවා සති හයක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් වගඋත්තරකරුවන්ට නියෝග කෙරුණි.
-
-ප්‍රතිවිරෝධතා තිබේ නම් ඒවා සති හතරක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් පෙත්සම්කාර පාර්ශ්වයට අධිකරණය විසින් නියෝග කළේය.
+கொழும்பு சினமன் கிரேண்ட் ஹோட்டலில் செவ்வாய்க்கிழமை (06) முற்பகல் ஆரம்பமான 2024 ஆம் ஆண்டுக்கான சுற்றாடல், சமூக மற்றும் ஆளுகை (ESG) மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
 
 ...
 
+[Data](articles/b38d132c.json)
+
+---
+
+### Court order for alcohol licenses
+
+*2024-08-06 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199637) · `si`
+
+The Supreme Court extended an interim injunction against Excise Regulations and issued permits to challenge four fundamental rights petitions filed by liquor license holders. The interim orders remain effective until the conclusion of the examination. The court will also conduct a trial involving the Minister of Finance, the Commissioner General of Excise, and others named in the petitions. Petitioners must submit any contradictions within four weeks; hearings are scheduled for February 6th next year.
+
+🟩
+
+The Supreme Court today (06) to extend the interim injunction issued in order to contradict Excise Regulations and the interim order issued by issuing permits.
+
+The Supreme Court has issued the order permits to challenge four fundamental rights petitions filed by a group of liquor licenses against Excise regils.
+
+It is stated that the interim bundled petitions will be in force until the end of the examination.
+
+The Supreme Court decided to conduct a trial against the Minister of Finance, the Commissioner General of Excise and a group of persons named the petitions.
+
+If the contradictions are available, the court ordered the petitioner to file them in four weeks.
+
+The court was appointed by the courts on the 6th of February next year.
+
+◼️
+
 [Data](articles/b7d5d5fd.json)
+
+[Extended Data](ext_articles/b7d5d5fd.ext.json)
 
 ---
 
@@ -372,6 +396,24 @@ Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), 
 
 ---
 
+### பங்களாதேஷ் நாட்டின் நிலைமையை சிறந்த படிப்பினையாக கொள்ள வேண்டும்    - பிரேம்நாத்.சி தொலவத்த
+
+*2024-08-06 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190427) · `ta`
+
+மக்களாணையுடன் ஆட்சிக்கு வர முடியாத தரப்பினர் ஜனநாயகம் என்று குறிப்பிட்டுக் கொண்டு  பாசிசவாத கொள்கையுடன் செயற்படுகிறார்கள். பங்களாதேஷ் நாட்டின் தற்போதைய நிலைமையை அனைவரும் ஒரு படிப்பினையாக கொள்ள வேண்டும் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் .சி தொலவத்த தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை' தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஆசிய வலய நாடுகளில் அரசியல் நிலை அவதான நிலையில் காணப்படுகிறது.2022 ஆம் ஆண்டு காலப்பகுதியில் இலங்கையின் நிலை தற்போது பங்களாதேஷ் நாட்டில் காணப்படுகிறது.போராட்டங்களுக்கு மத்தியில் பங்களாதேஸ் நாட்டின் பிரதமர்  பதவி விலகி நாட்டை விட்டு வெளியேறியுள்ளார்.
+
+எமது அரசாங்கத்தின் ஒருசில தவறான தீர்மானங்களினால் 2022 ஆம் ஆண்டு காலப்பகுதியில் போராட்டங்கள் தோற்றம் பெற்றன. பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட மக்கள் அரசாங்கத்துக்கு எதிர்ப்பு தெரிவித்து ஜனநாயக வழியில் போராட்டங்களில் ஈடுபட்டார்கள்.
+
+...
+
+[Data](articles/bbceb4f7.json)
+
+---
+
 ### Dissolve of Bangladesh Parliament
 
 *2024-08-06 16:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-பாராளுமன்றம்-கலைப்பு/50-341696) · `ta`
@@ -415,6 +457,22 @@ France has identified Sri Lanka as the most suitable location for the study and 
 [Data](articles/777a518a.json)
 
 [Extended Data](ext_articles/777a518a.ext.json)
+
+---
+
+### மாகாணசபை தேர்தல்கள் (திருத்தச்) சட்டமூலம் : தமிழர்களின் வாக்குகளை பெறும் குண்டு - விமல்
+
+*2024-08-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190412) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு முன்னர் தமிழ் தேசிய கூட்டமைப்பின் ஒத்துழைப்பை பெற்றுக்கொள்வதற்காகவே மாகாணசபை தேர்தல்கள் (திருத்தச்) சட்டமூலம் வாக்கு குண்டாக கொண்டு வரப்பட்டுள்ளது.இந்த சட்டமூலத்தால் வடக்கில் வாழும் சிங்கள,முஸ்லிம் சமூகத்தினர் பாதிக்கப்படுவார்கள் என பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற அமர்வின் போது தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக  சபைக்கு சமர்ப்பித்தார்.
+
+மாகாண சபைத் தேர்தலை நல்லாட்சி அரசாங்கமே காலவரையறையின்றி பிற்போட்டது.ஜனாதிபதித் தேர்தலுக்கு திகதி அறிவிக்கப்பட்டு தேர்தல் இடம்பெறவுள்ளது.இவ்வாறான நிலையில் மாகாண சபைத் தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை கொண்டு வருவதன் உண்மை நோக்கம் என்ன ?
+
+...
+
+[Data](articles/ceb3169e.json)
 
 ---
 
@@ -916,6 +974,8 @@ Pension anomalies of 83,000 retirees would also be solved, he said. The cost to 
 
 [Data](articles/f7109d5b.json)
 
+[Extended Data](ext_articles/f7109d5b.ext.json)
+
 ---
 
 ### Petition against minimum daily wage of plantation workers withdrawn
@@ -992,21 +1052,29 @@ District Election Complaints Management Centres had received 68 complaints for t
 
 [Data](articles/250c43ae.json)
 
+[Extended Data](ext_articles/250c43ae.ext.json)
+
 ---
 
-### රුපියල් මිලියන 155 ,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+### 155,000 million Treasury billing auction
 
 *2024-08-06 13:09:09* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-155--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411229) · `si`
 
-රුපියල්  මිලියන 155,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අගෝස්තු 07 දා පැවැත්වීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු යොදා තිබේ.
+The Central Bank of Sri Lanka is holding a Treasury bill auction worth Rs. 155,000 million, with payments due on August 09. The auction includes Treasury bills ranging from Rs 55,000 million.
 
-මෙහිදී දින 91 න් කල් පිරෙන රුපියල් මිලියන 55000 ක භාණ්ඩාගාර බිල්පත් ද දින 182 න් කල් පිරෙන රුපියල් මිලියන 55000 ක භාණ්ඩාගාර බිල්පත්ද දින 364 න් කල් පිරෙන රුපියල් මිලියන 45000 ක භාණ්ඩාගාර බිල්පත්ද නිකුත් කරන බව මහ බැංකුව පවසයි.
+🟩
 
-මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා මුදල් ගෙවීමේ කටයුතු අගෝස්තු 09 දා සිදුකිරීමට නියමිතය.
+The Central Bank of Sri Lanka has taken measures to hold a Treasury bill auction in Rs. 155,000 million.
+
+The Central Bank says that the Treasury of Rs 55,000 million to Rs
+
+The Treasury billing and payment of payments will be made on August 09.
 
 ◼️
 
 [Data](articles/741699ec.json)
+
+[Extended Data](ext_articles/741699ec.ext.json)
 
 ---
 
@@ -1483,6 +1551,8 @@ Sri Lanka has already signed a free trade deal with Thailand and Singapore, whic
 ◼️
 
 [Data](articles/311a455d.json)
+
+[Extended Data](ext_articles/311a455d.ext.json)
 
 ---
 
@@ -2153,79 +2223,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/dc2ac36e.json)
 
 [Extended Data](ext_articles/dc2ac36e.ext.json)
-
----
-
-### A proposal to introduce the provincial council election
-
-*2024-08-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199612) · `si`
-
-A proposal for provincial council elections, initially set for today (6th), is now expected to be presented to Parliament by TNA MP MA Sumanthiran. Additionally, the Government Communications Department announced a meeting about the 'Mid Fiscal Status' Report scheduled for tomorrow (7th). On August 8, there will be a second reading debate on two medical amendments.
-
-🟩
-
-A proposal that the ancient system should be held today (6th) proposal to conduct the provincial council election.
-
-The proposal to TNA MP MA Sumanthiran is due to be presented to Parliament as a private member proposal.
-
-Meanwhile, the Government Communications Department said that the church adjourning the meeting regarding the 'Mid Fiscal Status' Report on the Mid Year Fiscal' Report will be held tomorrow (07).
-
-On August 8, two medical amendments will be held in the second reading debate.
-
-◼️
-
-[Data](articles/48e36003.json)
-
-[Extended Data](ext_articles/48e36003.ext.json)
-
----
-
-### Poulty candidate knok tomorrow
-
-*2024-08-06 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199611) · `si`
-
-Tomorrow, the Sri Lanka General Front will announce its presidential candidate, marking a significant step in the country's political landscape. This announcement comes amidst internal party dynamics, including a decision to back President Ranil Wickremesinghe and efforts to reorganize at the district level. The UNP General Secretary hinted at the candidate reveal during a special event, highlighting the anticipation and potential shifts in political alliances.
-
-🟩
-
-The Presidency of the Sri Lanka General Front is scheduled to be announced tomorrow (07).
-
-UNP General Secretary Sagar Kariyawasam stated that the party's presidential candidate is declared tomorrow morning.
-
-The presidential candidate is to be announced at a special event at the main party office at Nelum Road, Sri Lanka General Peramuna.
-
-The party's Politburo was recently declared to announce a separate candidate for the next presidential election.
-
-With that decision, a group of party members decided to support President Ranil Wickremesinghe and the Sri Lankan general public has already taken steps to remove the electoral organizer of the MPs who have supported the President.
-
-Accordingly, the new organizers are working to enable the organizational activities of the Sri Lanka General Mannel at district level.
-
-...
-
-[Data](articles/d7c649e0.json)
-
-[Extended Data](ext_articles/d7c649e0.ext.json)
-
----
-
-### Train services from Colombo Fort disrupted
-
-*2024-08-06 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101025/train-services-from-colombo-fort-disrupted) · `en`
-
-The Railway Department says that train services from Colombo Fort have been temporarily disrupted due to workers at the Dematagoda Yard withdrawing from duties.
-
-The department says that employees at the Dematagoda Yard have stopped work on claims that proper action is not being taken to find a fellow employee who has gone missing.
-
-Accordingly, this is expected to likely result in some train cancellations and delays in relevant services from the Colombo Fort railway station.
-
-Deputy General Manager (Operations) of the Railway Department, Mr. N.J. Idipolage said that due to this, the Podi Menike and Badulla Odyssey trains, which were scheduled to depart from Colombo Fort to Badulla this morning, have not been able to operate so far.
-
-He also mentioned that several train journeys will likely have to be canceled owing to the current situation.
-
-◼️
-
-[Data](articles/7cc47471.json)
-
-[Extended Data](ext_articles/7cc47471.ext.json)
 
 ---

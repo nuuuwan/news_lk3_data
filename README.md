@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 08:24:45**
+As of **2024-08-06 08:36:19**
 
 ## Newspaper Stats
 
-*Scraped **39,213** Articles*
+*Scraped **39,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,103 @@ islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
 adalk | 3,596
-adaderanalk | 4,547
+adaderanalk | 4,548
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,912
 virakesarilk | 6,208
-adaderanasinhalalk | 6,626
+adaderanasinhalalk | 6,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,210 (100.0%) of 39,213 articles have been extended.
+39,213 (100.0%) of 39,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### දුම්රිය ධාවනයට බාධා
+### පොහොට්ටු අපේක්ෂකයා හෙට කලඑළි බසී
+
+*2024-08-06 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199611) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා හෙට (07) දිනයේ ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+
+හෙට පෙරවරුවේ සුබමොහොතින් සිය පක්ෂයේ ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කරන බව එම පක්ෂයේ මහලේකම් නීතීඥ සාගර කාරියවසම් මහතා ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ නෙළුම් මාවතේ පිහිටි ප්‍රධාන පක්ෂ කාර්යාලයේ පැවැත්වෙන විශේෂ උත්සවයක දී ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+
+ඉදිරි ජනාධිපතිවරණය සදහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් වෙනම අපේක්ෂකයෙකු ප්‍රකාශයට පත්කිරීමට එම පක්ෂයේ දේශපාලන මණ්ඩලය පසුගියදා පියවර ගනු ලැබීය.
+
+එම තීරණයත් සමග පක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළකිරීමට තීරණය කළ අතර එලෙස ජනාධිපතිවරයාට සහය පළකිරීමට ඉදිරිපත් වූ මන්ත්‍රීවරුන්ගේ ආසන සංවිධායක ධුර ද ඉවත් කිරීමට ශ්‍රී ලංකා පොදුජන මේ වන විට කටයුතු කර තිබේ.
+
+ඒ අනුව නව සංවිධායකවරුන් යටතේ දිස්ත්‍රික් මට්ටමින් ශ්‍රී ලංකා පොදුජන පෙරමුණේ සංවිධාන කටයුතු සක්‍රීය කිරීමට කටයුතු කරමින් සිටින බව වාර්තා වේ.
+
+...
+
+[Data](articles/d7c649e0.json)
+
+---
+
+### Train services from Colombo Fort disrupted
+
+*2024-08-06 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101025/train-services-from-colombo-fort-disrupted) · `en`
+
+The Railway Department says that train services from Colombo Fort have been temporarily disrupted due to workers at the Dematagoda Yard withdrawing from duties.
+
+The department says that employees at the Dematagoda Yard have stopped work on claims that proper action is not being taken to find a fellow employee who has gone missing.
+
+Accordingly, this is expected to likely result in some train cancellations and delays in relevant services from the Colombo Fort railway station.
+
+◼️
+
+[Data](articles/7cc47471.json)
+
+---
+
+### Train interrupts
 
 *2024-08-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199610) · `si`
 
-දෙමටගොඩ ධාවනාගාරයේ සේවකයින් රාජකාරී කටයුතුවලින් ඉවත් වීම හේතුවෙන් දුම්රිය ගමනාගමන කටයුතුවලට බාධා එල්ල වී තිබේ.
+Due to employee dismissals over a missing colleague investigation, railway traffic is disrupted, causing delays and cancellations, especially affecting the Smalli and Badulla Odyssey trains from Colombo Fort to Badulla.
 
-දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේ, මේ හේතුවෙන් කොළඹ කොටුවෙන් ගමන් ආරම්භ කරනු ලබන දුම්රියවල ප්‍රමාදයන් සහ අවලංගු වීම් සිදුවනු ඇති බවය.
+🟩
 
-දෙමටගොඩ ධාවනාගාරයේ සේවකයෙකු අතුරුදන්වීම සම්බන්ධයෙන් සිදුකරන විමර්ශන නිසි අකාරයෙන් ක්‍රියාත්මක නොවීමට විරෝධය පළකරමින් එහි සේවකයින් මේ වනවිට සේවා කටයුතුවලින් ඉවත් වී තිබේ.
+Railway traffic has been interrupted due to the dismissal of employees in Dematagoda.
 
-දුම්රිය ගමනාගමන නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.ජේ.ඉදිපොලගේ මහතා පැවසුවේ මේ හේතුවෙන් උදෑසන කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වීමට නියමිතව තිබූ පොඩි මැණිකේ දුම්රිය සහ බදුල්ල ඔඩිසි යන දුම්රියන් මෙතෙක් ධාවනය කිරීමට නොහැකි වී ඇති බවය.
+The Department of Railways said that delays and cancels will be renewed by the Colombo Fort.
 
-පවතින තත්ත්වය හමුවේ දුම්රිය ගමන්වාර කිහිපයක් අවලංගු කිරීමට සිදුවනු ඇති බව ද ඉදිපොළගේ මහතා සඳහන් කළේය.
+Employees have already left the service, protesting the investigations into the disappearance of an employee in Dematagoda.
+
+The Deputy General Manager NJDipoli said that due to this, the Smalli train and Badulla Odyssey of Badulla has been unable to run from Colombo Fort to Badulla.
+
+The number of train travel will have to be canceled in the face of the situation.
 
 ◼️
 
 [Data](articles/b469567e.json)
 
+[Extended Data](ext_articles/b469567e.ext.json)
+
 ---
 
-### 15க்கு பின் பலத்த பாதுகாப்பு
+### Strong safety after 15
 
 *2024-08-06 08:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15க்கு-பின்-பலத்த-பாதுகாப்பு/175-341665) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கு ஆயத்தமாக ஆகஸ்ட் 15ஆம் திகதிக்கு பின்னர் நாடு முழுவதும் பாதுகாப்பு பலப்படுத்தப்படும் என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+After August 15, national security will enhance, as per the Ministry of Public Security. In the Inspector General's absence, Viani Gunathilaka now leads security preparations for the election.
 
-பொலிஸ் மா அதிபர் இல்லாத நிலையில், பொது பாதுகாப்பு அமைச்சின் செயலாளர் வியானி குணதிலக்கவுக்கு தேர்தலுக்கான பாதுகாப்பு ஏற்பாடுகளை மேற்பார்வை செய்யும் முழு அதிகாரம் வழங்கப்பட்டுள்ளது
+🟩
+
+Security will be strengthened across the country after August 15, the Ministry of Public Security said.
+
+In the absence of the Inspector General of Police, the Secretary to the Ministry of Public Safety Viani Gunathilaka has been given the full authority to oversee the security arrangements for the election.
 
 ◼️
 
 [Data](articles/9c3350b6.json)
+
+[Extended Data](ext_articles/9c3350b6.ext.json)
 
 ---
 
@@ -234,21 +284,27 @@ External Affairs Minister Ali Sabri pointed out that peace and stability will re
 
 ---
 
-### மாணவர்கள் கோரிக்கையை நிறைவேற்றினார் ஜனாதிபதி
+### The president fulfilled the request of the students
 
 *2024-08-06 07:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-கோரிக்கையை-நிறைவேற்றினார்-ஜனாதிபதி/175-341663) · `ta`
 
-தமது பாடசாலைக்கு ஸ்மார்ட் வகுப்பறையொன்றைப் பெற்றுத் தருமாறும் விளையாட்டு மைதானத்தை நவீனமயப்படுத்துமாறும் கண்டி, மெனிக்திவெல மத்திய கல்லூரி மாணவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் முன்வைத்த கோரிக்கையை உடனடியாக நிறைவேற்ற ஜனாதிபதி நடவடிக்கை எடுத்தார்.
+President Ranil Wickremesinghe facilitated a visit for 570 students from Kandy and Menikdiwala Central Colleges to Colombo, including the President's House and Presidential Office. They discussed educational improvements, such as a smart classroom and playground modernization, which the President directed to be expedited, involving military assistance.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவின் பிரகாரம் ஜனாதிபதி செயலகம், ஜனாதிபதி மாளிகை, துறைமுக நகரம், மத்திய வங்கி, நாடாளுமன்றம் உள்ளிட்ட கொழும்பை சுற்றியுள்ள கல்வியுடன் முக்கிய தொடர்புள்ள விசேட இடங்களை பார்வையிடும் வாய்ப்பு பாடசாலை மாணவர்களுக்கு வழங்கப்பட்டு வருகிறது.
+🟩
 
-மெனிக்திவெல மத்திய கல்லூரியில் கல்வி கற்கும் சுமார் 570 மாணவர்கள் நேற்று களப்பயணத்தில் இணைந்திருந்ததோடு அவர்களுக்கு ஜனாதிபதி மாளிகையை பார்வையிடவும் சந்தர்ப்பம் கிடைத்தது. அதனைத் தொடர்ந்து ஜனாதிபதி அலுவலகத்திற்கு வருகை தந்ததோடு தங்களுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்திக்க வாய்ப்பளிக்குமாறு கோரினர்.
+The President took immediate steps to fulfill the request of President Ranil Wickremesinghe, the students of the Kandy and Menikdiwala Central College, to provide a smart classroom for their school and modernize the playground.
 
-அவர்களைச் சந்தித்த ஜனாதிபதி, அவர்களுடன் சிநேகபூர்வமாக உரையாடியதுடன் மாணவர்களின் கல்வி நடவடிக்கைகள் குறித்தும் கேட்டறிந்தார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+According to President Ranil Wickremesinghe, the President's Secretariat, the Presidential Secretariat, the Port City, the Central Bank and the Parliament, are being given the opportunity to visit special places in Colombo.
+
+About 570 students attended the field yesterday at the Menikthiwela Central College and had the opportunity to visit the President's House.. Subsequently, they visited the Presidential Office and demanded that they be given the opportunity to meet President Ranil Wickremesinghe.
+
+The President met them and spoke with them and heard about the educational activities of the students, the Presidential Media Division said.
 
 ...
 
 [Data](articles/d3d1c8b4.json)
+
+[Extended Data](ext_articles/d3d1c8b4.ext.json)
 
 ---
 
@@ -2163,49 +2219,5 @@ Thereafter a cup was awarded to evaluating these three athletes.
 [Data](articles/f8e21564.json)
 
 [Extended Data](ext_articles/f8e21564.ext.json)
-
----
-
-### Sri Lanka PA
-
-*2024-08-05 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190346) · `ta`
-
-Members of the Sri Lanka PA representing the Gampaha district have pledged support for President Ranil Wickremesinghe ahead of the upcoming presidential election. Key figures within the party, including several parliamentarians and local government officials, have expressed their commitment to ensuring the president's victory. Despite internal dynamics and recent shifts in party affiliations, the collective sentiment among these officials is focused on backing the current administration.
-
-🟩
-
-The Parliament, Provincial Council and local government members of the Sri Lanka PA, who represents the Gampaha district, have pledged to ensure the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-The committee presented the pledge at the District Council of the Sri Lanka Peoples Alliance (PA) at the Udugampola office held at the Udugampola office at Udugampola office on Sunday (4).
-
-In the last general election, 13 MPs from the Sri Lanka PA were elected to Parliament. Nine of those parliamentarians have already announced that they will dedicate themselves to the president's victory.
-
-Nalaka Kodaheva, who was elected to Parliament from the Gampaha district, represented the Sri Lanka PA, joined the United People's Party a few months ago.
-
-...
-
-[Data](articles/bce48706.json)
-
-[Extended Data](ext_articles/bce48706.ext.json)
-
----
-
-### ‘Club Wasantha’ murder suspects further remanded
-
-*2024-08-05 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101014/club-wasantha-murder-suspects-further-remanded-) · `en`
-
-All ten suspects, including the tattoo studio owner, arrested in connection with the murder of two persons including Surendra Wasantha Perera alias ‘Club Wasantha,’ have been further remanded until August 20 by the Kaduwela Magistrate’s Court, Ada Derana reporter said.
-
-The son of the murdered businessman, the OIC of the Western Province South Crimes Division, representatives from the Attorney General’s Department and the individual who took charge of Wasantha’s body had also appeared before the court for today, as per summons issued by court.
-
-In the meantime, Sri Lanka Police has sought public assistance in tracking down three suspects in relation to the incident. Police have also released photographs and details of the three suspects in question.
-
-Police have arrested ten suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place on July 08 and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-◼️
-
-[Data](articles/5254525d.json)
-
-[Extended Data](ext_articles/5254525d.ext.json)
 
 ---

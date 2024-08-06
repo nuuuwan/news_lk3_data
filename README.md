@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 21:55:38**
+As of **2024-08-06 22:09:08**
 
 ## Newspaper Stats
 
-*Scraped **39,341** Articles*
+*Scraped **39,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 4,571
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,931
 virakesarilk | 6,219
-adaderanasinhalalk | 6,660
+adaderanasinhalalk | 6,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,339 (100.0%) of 39,341 articles have been extended.
+39,339 (100.0%) of 39,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### මැතිවරණ පැමිණිලි සියය ඉක්මවයි
+
+*2024-08-06 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199646) · `si`
+
+ජනාධිපතිවරණයට අදාළව මැතිවරණ පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් ඇතැයි මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පවසන්නේ ජුලි 31 වනදා සිට මේ දක්වා මැතිවරණ පැමිණිලි 121ක් වාර්තා වී ඇති බවය.
+
+◼️
+
+[Data](articles/7f2d730d.json)
+
+---
+
+### තවත් වෙඩිතැබීමක් ගම්පහ
+
+*2024-08-06 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199645) · `si`
+
+අද (06) රාත්‍රී කාලයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු ඉලක්ක කර තවත් යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර පළාගොස් ඇත.
+
+වෙඩිවැදුණු 29 හැවිරිදි පුද්ගලයා ප්‍රතිකාර සඳහා ගම්පහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/8df37bb7.json)
+
+---
 
 ### ධම්මික බැහැ කියයි - නාමල් එයි ද ?
 
@@ -2193,55 +2221,5 @@ Cabinet approval has been approved to increase the interest rate to 10% on the f
 [Data](articles/1374c469.json)
 
 [Extended Data](ext_articles/1374c469.ext.json)
-
----
-
-### Four injured in jackfruit tree
-
-*2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199618) · `si`
-
-During the rainy season, a massive jackfruit tree collapsed onto a house in Padukka Poregedara, injuring four people including a ten-year-old child. The incident occurred yesterday, causing significant damage to the house and a nearby van. The victims were hospitalized for treatment.
-
-🟩
-
-With the rainy season, a large wage tree collapses on a house in Padukka Poregedara, Padukka Paragedara, has been injured.
-
-Our correspondent said that yesterday (05) was hospitalized yesterday (05).
-
-The house was completely destroyed by the collapse of the tree and a van near the house has been severely damaged.
-
-The large jackfruit has the first jackfruit due to strong winds.
-
-A ten-year-old child who was injured in the accident have been admitted to the Homagama Base Hospital for further treatment.
-
-◼️
-
-[Data](articles/65a6b786.json)
-
-[Extended Data](ext_articles/65a6b786.ext.json)
-
----
-
-### Emergency notice to Sri Lankans in Israel
-
-*2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199617) · `si`
-
-An emergency notice advises Sri Lankans in Israel, including foreign workers, not to worry. The Sri Lankan Ambassador assures safety, noting 11,000 Sri Lankans work there, mostly in healthcare (70%) and agriculture/construction (30%).
-
-🟩
-
-There are several telephone numbers and guidelines for all Sri Lankans and all Sri Lankans in Israel and all Sri Lankans in Israel and all foreign workers.
-
-Sri Lanka's Ambassador to Israel, "Ada Derana" stated that 11,000 Sri Lankans are working in Israel and about 70% of them are nursing.
-
-The remaining 30% serving in agricultural and construction areas, Nimal Bandara said.
-
-Sri Lanka's Embassy of Sri Lanka not to fear for Sri Lankans in Israel.
-
-◼️
-
-[Data](articles/81ee93b1.json)
-
-[Extended Data](ext_articles/81ee93b1.ext.json)
 
 ---

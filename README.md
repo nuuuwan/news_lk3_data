@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 12:36:24**
+As of **2024-08-06 12:54:47**
 
 ## Newspaper Stats
 
-*Scraped **39,253** Articles*
+*Scraped **39,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
-economynextcom | 2,366
+economynextcom | 2,370
 dailyftlk | 2,519
-adalk | 3,601
+adalk | 3,604
 adaderanalk | 4,557
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,922
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,252 (100.0%) of 39,253 articles have been extended.
+39,253 (100.0%) of 39,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Sri Lanka seeks PPPs to build futsal courts, Pakistan grant to build court in Torrington
+
+*2024-08-06 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ppps-to-build-futsal-courts-pakistan-grant-to-build-court-in-torrington-175404/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking for private investors to build futsal courts within government building premises, with grant money from Pakistan to be used to build two courts in the Torrington and Sugathadasa complexes, Cabinet spokesman minister Bandula Gunawardena said.
+
+“There are several futsal indoor stadiums in urban areas,” Gunawardena told reporters on Tuesday. And since there is a higher attraction for this sport, there was need to “expand the game”.
+
+The government plans to establish more indoor futsal stadiums at a commercial level, he said, and is looking for private investors for constructing them in “identified government lands and sports complex premises”.
+
+The state will provide the property for the playground premises on an 80-year-lease basis, to a private investor under a public-private partnership, the minister said.
+
+...
+
+[Data](articles/c7dbefeb.json)
+
+---
 
 ### Paris Olympics: Sri Lanka’s Aruna Darshana to compete in semi-finals tonight
 
@@ -49,6 +67,22 @@ The 25-year-old qualified for the semifinals on Sunday (04), after finishing thi
 ...
 
 [Data](articles/be7e25d1.json)
+
+[Extended Data](ext_articles/be7e25d1.ext.json)
+
+---
+
+### විශ්‍රාමිකයින්ට සුබ ආරංචියක්
+
+*2024-08-06 12:08:55* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයින්ට-සුබ-ආරංචියක්/11-411224) · `si`
+
+විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීම සඳහා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ කැබිනට් පත්‍රිකාව ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/0f807783.json)
 
 ---
 
@@ -87,6 +121,60 @@ He said that as there is a high attraction for this sport, it is expected that u
 [Data](articles/81d34f34.json)
 
 [Extended Data](ext_articles/81d34f34.ext.json)
+
+---
+
+### Sri Lanka cabinet nod for Indonesia trade agreement to be signed in March 2025
+
+*2024-08-06 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-indonesia-trade-agreement-to-be-signed-in-march-2025-175417/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to finalise a draft Indonesia-Sri Lanka Preferential Trade Agreement (ISLPTA) in December 2024, to be signed in March 2025.
+
+A statement from the Government Information Department said on Tuesday August 06 that, consequent to the second trade discussion committee meeting on the proposed agreement was held on 15 and 16 July in Colombo, the cabinet has considered the matters pertaining to the agreement presented by President Ranil Wickremesinghe.
+
+Wickremesinghe has proposed that the draft ISLPTA be finalised in December. Both parties have agreed to sign the agreement in March 2025, the statement said.
+
+In July, Sri Lanka’s private sector trade body was in negotiations with Indonesian officials on a preferential trade agreement, which it hoped would increase exports to the Southeast Asian archipelago.
+
+...
+
+[Data](articles/52980d91.json)
+
+---
+
+### Sri Lanka Plans Preferential Trade Agreement with Indonesia next March
+
+*2024-08-06 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-preferential-trade-agreement-with-indonesia-next-march-175418/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to sign a preferential trade agreement in March 2025, to boost the country’s export potential, Cabinet spokesman Bandula Gunawardana said.
+
+Negotiators from the two countries had met in Colombo on July 15 and 16 and agreed to finalized talks by December 2024.
+
+Sri Lanka has already signed a free trade deal with Thailand and Singapore, which will progressively liberalize trade over a number of years.
+
+◼️
+
+[Data](articles/0d736930.json)
+
+---
+
+### Presidential election deposit paid for Sri Lanka’s Anura Dissanayake
+
+*2024-08-06 11:29:00* · [`economynextcom`](https://economynext.com/presidential-election-deposit-paid-for-sri-lankas-anura-dissanayake-175412/) · `en`
+
+ECONOMYNEXT — The leftist National People’s Power (NPP) has paid the cash deposit for the candidature of party leader Anura Kumara Dissanayake at Sri Lanka’s 2024 presidential election.
+
+News footage showed that NPP parliamentarians Harini Amarasuriya and Vijitha Herath and attorney-at-law Sunil Watagala and others arrive at the premises of the Election Commission Tuesday August 06 morning to pay the deposit.
+
+Seventeen contestants have paid their deposit for the upcoming election which is scheduled to be held on September 21.
+
+As per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
+
+These amounts have not been revised in 43 years, opposition MP Dullas Alahapperuma recently told parliament.
+
+...
+
+[Data](articles/2bdf44a5.json)
 
 ---
 
@@ -131,6 +219,40 @@ PA Vijitha Herath, Dr. Harini Amarasuriya and Attorney Sunil Vattakala visited t
 [Data](articles/61b412df.json)
 
 [Extended Data](ext_articles/61b412df.ext.json)
+
+---
+
+### දුන්න අත සපා කෑ වඳුරා
+
+*2024-08-06 11:07:07* · [`adalk`](https://www.ada.lk/breaking_news/දුන්න-අත-සපා-කෑ-වඳුරා/11-411222) · `si`
+
+විල්පත්තුව ජාතික වනෝද්‍යානයේ සංචාරයක නිරත ඉතාලි ජාතික කාන්තාවකගේ අතක්, වඳුරෙකු සපා කෑම හේතුවෙන්  තුවාල ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව වාර්තාවේ.
+
+එම විදෙස් කාන්තාව  සංචාරයේ නිරත වෙමින් සිටියදී අතේ තිබූ කෙසෙල් ගෙඩියක් අඳුරෙකු විසින් උදුරා ගැනීමට යාමේදී මෙලෙස තුවාල ලබා ඇති බව පොලිසිය සඳහන් කළේය.
+
+අනුරාධපුර රෝහලේ හතරවන වාට්ටුවේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටි මෙම ඉතාලි ජාතික කාන්තාව සිය කැමැත්තෙන් රෝහලෙන් පෙරේදා හතරදා හිටව ගිය බවද පොලිසියේ වැඩි දුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/81b32ea9.json)
+
+---
+
+### නිදහස් පක්ෂයේ බහුතරය රනිල්ටලු
+
+*2024-08-06 10:55:52* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-බහුතරය-රනිල්ටලු/11-411221) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමට ශ්‍රී ලංකා නිදහස් පක්ෂය නිල වශයෙන් තීන්දු කල බවත් එම තීරණය පක්ෂය නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් බහුතරය ඇතුළු සමස්ත විධායක සභාවේ 90%ක එකඟතාවයෙන් ගනු ලැබූ බවත් ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් මේ වන විටත් ශ්‍රී ලංකා නිදහස් පක්ෂය සතු ශක්තිමත් සංවිධාන ජාලය ක්‍රියාකාරීව කටයුතු ආරම්භ කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+"ප්‍රවාහන ක්ෂේත්‍රය නිසා ලෝකයේ මෙන්ම අප රටේ ද පරිසර පද්ධතියට හානි රැසක් සිදුවනවා. වාහනවලින් පිටවන දුමාරය ඒ අතර විශේෂයි. ඊට විසඳුමක් ලෙස අප විසින් දුම් සහතික නිකුත් කිරීම සිදු කරනවා. ඒ අනුව අප රටේ වායුගෝලයේ ගුණාත්මක භාවය හොඳ තත්ත්වයකින් පවත්වාගෙන යාමට සමත්ව තිබෙනවා. එමඟින් පෙනහළු ආශ්‍රිත රෝග අවම කිරීමට මෙම වැඩ පිළිවෙල සහාය වනවා.
+
+...
+
+[Data](articles/229f1ddf.json)
 
 ---
 
@@ -2011,177 +2133,5 @@ The Commander of the Army, the Commander of the Army congratulated the Asian Tro
 [Data](articles/15bc0f55.json)
 
 [Extended Data](ext_articles/15bc0f55.ext.json)
-
----
-
-### A suspect arrested in Jaffna with leakage and leakage equipment
-
-*2024-08-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190369) · `ta`
-
-In Jaffna, a suspect was arrested in Manipay with leak detection equipment, valued over one lakh rupees, during a raid by the Jaffna District Criminal Investigation Division.
-
-🟩
-
-A suspect has been arrested and a suspect has been arrested in Manipay area in Jaffna.
-
-The arrest of the Jaffna District Criminal Investigation Division was carried out yesterday.
-
-The items seized at the time are worth more than one lakh rupees, police said.
-
-◼️
-
-[Data](articles/eaeee9a5.json)
-
-[Extended Data](ext_articles/eaeee9a5.ext.json)
-
----
-
-### The man arrested for dragging the boy into the street
-
-*2024-08-05 20:27:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-வீதியில்-இழுத்துச்-சென்று-தாக்கிய-நபர்-கைது/175-341643) · `ta`
-
-A man was arrested for allegedly assaulting a boy on Gopard Road, Colombo, after a bystander filmed the incident and shared it on social media. The victim is hospitalized.
-
-🟩
-
-A man has been arrested today (5) for allegedly assaulting a boy on Gopard Road in Nawaladi, Colombo Road, Colombo, belonging to the Valaichenai police division.
-
-A man who came by the street was taken by a person who had taken a video on the cell phone and uploaded a video on social networks by holding the boy's handwriting in his hand.
-
-In this case, the boy has been admitted to the Valaichenai Resource Hospital for treatment.. Remble
-
-◼️
-
-[Data](articles/89d4c690.json)
-
-[Extended Data](ext_articles/89d4c690.ext.json)
-
----
-
-### Vijay starrer 'Goat-Goat' new song release
-
-*2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190355) · `ta`
-
-"Actor Vijay stars in 'Goat-Goat,' directed by Venkat Prabhu, featuring dual roles and a hit song 'Spark.' The film, also starring Prashant, Prabhu Deva, and others, is produced by Kalpathi siblings and released in multiple languages. The song, penned by Gangai Amaran and sung by Yuvan Shankar Raja and Varusha Balu, has garnered over eight million views, despite some criticism of Vijay's youthful look."
-
-🟩
-
-Actor Vijay, who has millions of fans in Tamil cinema, has been released as a double role in the movie 'Got - Goat' and a song called 'Spark ..' and the lyrical video for the song.
-
-Directed by director and actor Venkat Prabhu, Vijay, Prashant, Prabhu Deva, Mohan, Jayaram, Sneha, Laila, Ajmal, Meenakshi Chaudhry, Vaibhav, Yogi Babu, Premji Amaran, Yukendran.
-
-Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni. Producer Kalpathi S. Akoram- Kalpati S. Ganesh - Kalpathi S. Suresh has co -produced.
-
-The film, which was released in various languages ​​including Tamil in Tamil film mansions, has been released on September 5, and a song will be released as 'Ava Kannala Parthta ..' and a song for the song.
-
-The song is written by songwriter Gangai Amaran, composer and playback singer Yuvan Shankar Raja and playback singer Varusha Balu.
-
-...
-
-[Data](articles/2f2e3eff.json)
-
-[Extended Data](ext_articles/2f2e3eff.ext.json)
-
----
-
-### The announcement of the release date of 'Aamo' starring Santini Thamilarasan
-
-*2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190358) · `ta`
-
-"Aamo," starring Santini Thamilarasan, announces its release date with a global photo reveal on the 23rd of this month. Directed by Praveen Kumar, it features a star-studded cast including Arjun Somayajula, Suvita Rajendran, and more. The film, produced by Pratyagra Mosque Pictures, has generated high anticipation among audiences.
-
-🟩
-
-Actress Santini Thamilarasan, for the first time in India, has been officially announced with a special photo of Cyber ​​Fantasy Horror Thriller Janer.. ..
-
-Introducing Director B. Santini Thamilarasan, Arjun Somayajula, Suvita Rajendran, Praveen Ilango, Vatson Emperor, Wakes, Manisha Jashnani, Pragya and many others star in the film 'Aamiko' directed by Praveen Kumar.
-
-Vanjinathan Murukesan has composed the film for the film. Producer P Pratyagra Mosque on behalf of Pratyagra Mosque Pictures. Produced by Girija.
-
-The preview of the film has been released and has been visited by millions of audiences. It also created expectations for the release of the film.
-
-In this case, the film crew has announced a special photo that will be released worldwide on the 23rd of this month.
-
-In the meantime, the Iron Curtain, which is released in Tamil, the eyes and the eyes of the cybercrime thriller, have been a huge welcome, and a similar type of horror is added to the horror.
-
-◼️
-
-[Data](articles/53f06835.json)
-
-[Extended Data](ext_articles/53f06835.ext.json)
-
----
-
-### Preview release of 'Double I Smart' starring actor Ram
-
-*2024-08-05 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190354) · `ta`
-
-"Ram, known for 'The Warrior,' debuts in Tamil cinema with 'Double i Smart.' Directed by Puri Jegannath, it features Sanjay Dutt, Kaviya Thapar, and more. The movie, releasing in five languages, promises a mix of romance, comedy, sentiment, and entertainment."
-
-🟩
-
-'Double i Smart' has been released by Telugu star actor Ram, who is also a Telugu star actor, who has made his debut for Tamil fans through the film 'The Warrior'.
-
-Directed by director Puri Jegannath, 'Double i Smart', Ram, Sanjay Dutt, Kavia Thapar, Pani, Ali, Ketab Seanu, Shayaji Shinde, 'Temper' Vamsi and many others.
-
-Sam K.. Mani Sharma has composed music for the film, which is being recorded by Naidu and Gianni Jianelli.
-
-The film is being produced by Puri Jeganath and Charmi Kaur on behalf of Puri Connects.
-
-The film has been released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 15th of this month.
-
-This includes the anticipation of the image, as there are scenes of entertainment and entertainment, such as romantic + comedy + sentimental + entertainment.
-
-◼️
-
-[Data](articles/f78c3e00.json)
-
-[Extended Data](ext_articles/f78c3e00.ext.json)
-
----
-
-### Oudio release of 'Demandi Colony 2' starring Arulnidhi
-
-*2024-08-05 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190360) · `ta`
-
-"Demandy Colony 2," directed by Ajay Gnanamuthu, stars Arulnidhi and Priya Bhavani Shankar among others. It's produced by BTG Universal and features music by Sam C.S., released by Think Music. The film, set for release on the 15th, promises a mix of horror and thrill, with five songs that have garnered positive reviews from music lovers."
-
-🟩
-
-In Tamil cinema, the film 'Demandy Colony 2' has been released in Tamil cinema, starring star Arulnidhi's story in all kinds of screen markets in the film House, Digital Site and Television.
-
-Directed by Ajay Gnanamuthu, 'Demandi Colony 2' stars Arulnidhi, Priya Bhavani Shankar, Arun Pandiyan, Muthukumar, Meenakshi Govindarajan and many others.. Harish Kannan has recorded the cinematography by Sam C. S.. Has composed.
-
-The film is being produced by Bobi Balachandran- Vijay Subramanian-RC Rajkumar on behalf of BTG Universal Company.
-
-The film will be released on the 15th of this month at the film House, the film's film and the theme music.
-
-The film has five songs. Sam c. S.. The song and the background music of the film, which is composed by the film, has been released by Think Music Company. The music fans are getting a lot of welcome as the songs are all enjoyable, different and horror thriller feels.
-
-◼️
-
-[Data](articles/b60c4909.json)
-
-[Extended Data](ext_articles/b60c4909.ext.json)
-
----
-
-### Dhaka International Airport is temporarily closed
-
-*2024-08-05 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190368) · `ta`
-
-Due to unrest, Dhaka International Airport is temporarily closed, diverting Bangladeshi flights to India.
-
-🟩
-
-It is reported that some of the flights of Bangladesh have been diverted to India as the airport has been closed.
-
-Foreign media reports that the move has been taken due to unrest in Dhaka
-
-◼️
-
-[Data](articles/4b65d107.json)
-
-[Extended Data](ext_articles/4b65d107.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 04:21:05**
+As of **2024-08-07 04:36:59**
 
 ## Newspaper Stats
 
-*Scraped **39,385** Articles*
+*Scraped **39,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,535
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,939
+tamilmirrorlk | 4,940
 virakesarilk | 6,231
 adaderanasinhalalk | 6,663
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,382 (100.0%) of 39,385 articles have been extended.
+39,385 (100.0%) of 39,386 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -210,6 +210,8 @@ Following this meeting, the group insisted at a separate party meeting that it w
 
 [Data](articles/b24361ca.json)
 
+[Extended Data](ext_articles/b24361ca.ext.json)
+
 ---
 
 ### GMOA meets AKD
@@ -223,6 +225,26 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 ◼️
 
 [Data](articles/3633297b.json)
+
+[Extended Data](ext_articles/3633297b.ext.json)
+
+---
+
+### ’மீட்சியாளர் அல்லர்; ரணில் பங்குதாரர்’
+
+*2024-08-07 02:36:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்சியாளர்-அல்லர்-ரணில்-பங்குதாரர்/175-341726) · `ta`
+
+இம்முறை ஜனாதிபதி தேர்தல் ஏனைய ஜனாதிபதி தேர்தல்களை விட மிக முக்கிய தருணத்தைக் கொண்டமைகிறது என பாராளுமன்ற உறுப்பினர் பேராசிரியர் சரித ஹேரத் தெரிவித்தார்.
+
+நாட்டில் பல்பரிமாண மாற்றம் ஒன்றை நாடு வேண்டியிருக்கும் வேளையில் இந்த ஜனாதிபதி தேர்தல் நடக்கிறது.  மறுபுறம் நான் தான் இந்த நிலையில் இருந்து காப்பாற்றினேன் என்று பொய்களை சமூகமயப்படுத்தும் போக்கை ரணில் விக்ரமசிங்க முன்னெடுத்து வருகிறார்.
+
+பிடகோட்டையில் அமைந்துள்ள ஐக்கிய மக்கள் சக்தியின் தலமைமை அலுவலகத்தில், செவ்வாய்க்கிழமை (06)  இடம்பெற்ற  ஊடக சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+பொருளாதார மீட்சி தொடர்பான பொய்யான விடயங்களை சமூகத்துக்கு காண்பிக்கிறார்.   அவர் மீட்சியாளர் அல்ல. அவரும் இந்த பொருளாதார பிரச்சினையின் பங்குதாரர் தான் என்றார்.
+
+...
+
+[Data](articles/2e92f288.json)
 
 ---
 
@@ -268,25 +290,33 @@ KONKA, is a globally recognised brand known for its superior and innovative cons
 
 ---
 
-### ’ மொட்டை வாடகைக்கு விட முடியாது”
+### The model cannot be rented ”
 
 *2024-08-07 01:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டை-வாடகைக்கு-விட-முடியாது/175-341724) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவை இரண்டாக பிளவுபடுத்துவதற்கு ரணில் விக்கிரமசிங்க ஒருபோதும் முயற்சிக்கவில்லை என ஆளும் கட்சியின் பிரதான அமைப்பாளர், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Ruling party's chief organizer denies claims that President Ranil Wickremesinghe aims to split the Sri Lanka PA, emphasizing unity and the importance of working together. A meeting of MPs supporting the President highlighted the focus on grassroots programs. Critics argue the President's actions are inconsistent, questioning his commitment to the party's principles.
 
-கட்சியாக இணைந்து செயற்பட வேண்டும் என ஜனாதிபதி எப்போதும் கூறியுள்ளதாக அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்களின் விசேட கலந்துரையாடல் பத்தரமுல்லையில் உள்ள ஹோட்டல் ஒன்றில் திங்கட்கிழமை (05)  நடைபெற்றது.
+Ranil Wickremesinghe has never attempted to split the Sri Lanka PA, said the ruling party's chief organizer, Urban Development and Housing Minister Prasanna Ranatunga.
 
-இந்த கலந்துரையாடலில் அமைச்சர்களான பிரசன்ன ரணதுங்க, காஞ்சன விஜேசேகர, ரமேஷ் பத்திரன, அலி சப்ரி மற்றும் அமைச்சர்கள் பலர் கலந்துகொண்டனர்.
+The Minister said that the President has always said that the party should work together.
 
-இக்கலந்துரையாடலில் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக மாவட்ட மட்டத்தில் மக்களை தெளிவுபடுத்தும் வேலைத்திட்டம் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+A special discussion of MPs representing the Sri Lanka PA, which supports President Ranil Wickremesinghe, was held on Monday (05) at a hotel in Battaramulla.
 
-கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த அமைச்சர் பிரசன்ன ரணதுங்க மேலும் கூறியதாவது,
+Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ramesh Pathrana, Ali Sabri and many other ministers were present at the discussion.
+
+Ranil Wickremesinghe's victory in the presidential election was focused on the program to clarify the people at the district level.
+
+Minister Prasanna Ranatunga added to the media after the discussion.
+
+Question - The President is accused of splitting the Sri Lankan PA. What do you want to say about it?
 
 ...
 
 [Data](articles/7bb0ec6f.json)
+
+[Extended Data](ext_articles/7bb0ec6f.ext.json)
 
 ---
 
@@ -2231,23 +2261,5 @@ The current number of MPs who were elected to the Colombo district at the last p
 [Data](articles/54366ea2.json)
 
 [Extended Data](ext_articles/54366ea2.ext.json)
-
----
-
-### Nearly 100 complaints of election law violations received thus far
-
-*2024-08-06 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101038/nearly-100-complaints-of-election-law-violations-received-thus-far-) · `en`
-
-The Election Commission says that a total of 99 complaints have been received as of 05.00 p.m. on Monday (Aug 05), pertaining to the 2024 Presidential Election.
-
-The election regulatory body said that this includes 68 complaints received by the National Centre for Election Complaint Management and 31 complaints received by the District Centres for Election Complaint Management
-
-All complaints received thus far are related to breaches of election laws, according to the commission.
-
-◼️
-
-[Data](articles/a94c3abf.json)
-
-[Extended Data](ext_articles/a94c3abf.ext.json)
 
 ---

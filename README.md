@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 03:36:30**
+As of **2024-08-07 03:54:45**
 
 ## Newspaper Stats
 
-*Scraped **39,370** Articles*
+*Scraped **39,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,525
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,934
+tamilmirrorlk | 4,938
 virakesarilk | 6,231
 adaderanasinhalalk | 6,663
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,370 (100.0%) of 39,370 articles have been extended.
+39,370 (100.0%) of 39,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### பங்களாதேஷின் கிரிக்கெட் வீரர் வீட்டிற்கு தீ வைப்பு
+
+*2024-08-07 02:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷின்-கிரிக்கெட்-வீரர்-வீட்டிற்கு-தீ-வைப்பு/50-341725) · `ta`
+
+பங்களாதேஷ் முன்னாள் கிரிக்கெட் வீரரும் நாடாளுமன்ற உறுப்பினருமான மோர்டாசாவின் வீட்டுக்கு போராட்டக்காரர்கள் தீ வைத்தனர்.
+
+முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியான பங்களாதேஷ் அவமி லீக் சார்பில் போட்டியிட்டு நாடாளுமன்ற உறுப்பினராக தேர்வான இவர், கட்சியின் கொறடாவாக செயல்பட்டு வந்துள்ளார்.
+
+இந்த சூழலில் மோர்டாசாவின் வீட்டுக்குள் சென்ற போராட்டக்காரர்கள் அங்குள்ள பொருட்களை தீ வைத்து கொளுத்தினர்.
+
+இந்த தீ வைப்பு சம்பவம் அந்த பகுதியில் பதற்றத்தை ஏற்படுத்தி உள்ளது. (a)
+
+◼️
+
+[Data](articles/848aa780.json)
+
+---
 
 ### World-renowned consumer electronics brand KONKA returns to Sri Lanka in partnership with FLiCo
 
@@ -85,6 +103,54 @@ The grand opening was made even more special with the esteemed presence of Sony 
 [Data](articles/d48e8d17.json)
 
 [Extended Data](ext_articles/d48e8d17.ext.json)
+
+---
+
+### தேர்தல் திருத்தச் சட்டமூலம் தேர்தல் குண்டா?
+
+*2024-08-07 01:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திருத்தச்-சட்டமூலம்-தேர்தல்-குண்டா/175-341723) · `ta`
+
+மாகாண சபைகள் தேர்தல் திருத்தச் சட்டமூலத்தை தமிழ்த் தேசியக் கூட்டமைப்பினரின் வாக்குகளை பெற்றுக்கொள்ளும் நோக்கத்தை கொண்ட தேர்தல் குண்டாகவே தாம் கருதுகின்றோம் என்று தேசிய சுதந்திர முன்னணி பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்.
+
+பாராளுமன்றம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில், செவ்வாய்க்கிழமை (06) காலை 9.30க்கு கூடியது. சபையின் பிரதான நடவடிக்கைள் நிறைவடைந்தன் பின்னர்  ஒழுங்கு பிரச்சினையை எழுப்பியே இவ்வாறு தெரிவித்தார்.
+
+கடந்த நல்லாட்சி அரசாங்கமே மாகாண சபைகள் தேர்தலை கால வரையறையின்றி ஒத்திவைத்தது. இப்போது ஜனாதிபதித் தேர்தல் அறிவிக்கப்பட்டு கூடிய விரைவில் அந்தத் தேர்தல் நடத்தப்படவுள்ளது. இந்நிலையில் குறுகிய காலத்திற்குள் மாகாண சபைகள் தேர்தல் திருத்தச் சட்டமூலத்தை கொண்டுவருவதன் நோக்கம் என்ன? என்று வினவினார்.
+
+...
+
+[Data](articles/24a22d82.json)
+
+---
+
+### 99 முறைபாடுகள்
+
+*2024-08-07 01:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/99-முறைபாடுகள்/175-341722) · `ta`
+
+ஜூலை 31ஆம் திகதி முதல், ஓகஸ்ட் 5 ஆம் திகதி பிற்பகல் 5 மணிவரை, சட்டத்தை மீறியமை தொடர்பிலான தேர்தல் முறைப்பாடுகள் 99 கிடைத்துள்ளன என தேர்தல்கள்  ஆணைக்குழு அறிவித்துள்ளது.
+
+அதில், தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்துக்கு 68 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்துக்கு 31 முறைப்பாடுகளும் கிடைத்துள்ளன.
+
+◼️
+
+[Data](articles/1ecdc082.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் புதன், வியாழன் முடிவு
+
+*2024-08-07 01:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-புதன்-வியாழன்-முடிவு/175-341721) · `ta`
+
+ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளராக போட்டியிட தெரிவு செய்யப்பட்ட இரு வேட்பாளர்களில் இறுதியாக ஒருவரின் பெயரை தெரிவு செய்வதில், திங்கட்கிழமை (05) நீண்டநேரம் விவாதம் இடம்பெற்ற நிலையில் பொதுவேட்பாளர் தொடர்பான இறுதிமுடிவு  புதன்கிழமை அல்லது வியாழக்கிழமை அறிவிக்கப்படும் என தமிழ் பொதுச்சபையின் பிரதிநிதிகள் அறிவித்தனர்.
+
+யாழ்ப்பாணத்தில் உள்ள தனியார் விடுதியில், திங்கட்கிழமை (05) இடம்பெற்ற கலந்துரையாடலுக்கு பின்னர் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணத்தில்  கூடிய தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு, தமிழ் பொது வேட்பாளரை இறுதி செய்யும் கலந்துரையாடல்களில் ஈடுபட்டது.
+
+தமிழ் பொதுவேட்பாளராகக் களமிறக்குவதற்குப் பரிந்துரைக்கப்பட்டவர்களில் இருந்து ஒருவரைத் தெரிவு செய்வதற்காக பல மணிநேரமாக தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு ஆலோசனை நடத்தியபோதும், பொதுவேட்பாளரை இறுதி செய்ய முடியவில்லை என அறிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/6bf32168.json)
 
 ---
 
@@ -2165,103 +2231,5 @@ Foundation is scheduled to be dissolved today (06) in the crisis today (06).
 [Data](articles/e2d9ed1f.json)
 
 [Extended Data](ext_articles/e2d9ed1f.ext.json)
-
----
-
-### Olympic medal received from an appeal
-
-*2024-08-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199623) · `si`
-
-In the Paris Olympics, the women's 5000m event saw Kenya win gold and Siphana Hasan of the Netherlands take bronze. However, Fieth Kipyegon lost her silver medal due to a lane violation. Kenya's Athletics Association appealed this decision to the International Athletics Union, leading to a review where Kipyegon was awarded the silver medal after all.
-
-🟩
-
-The 5000 mem mem day event, the 5000 meters of women in the Paris Olympics was elected yesterday (05).
-
-The event was held in Kenya, Kenya, who was completed for 14 minutes and 28.56 seconds.
-
-The silver medal was won by Kenya, Kenya, and won the bronze medal by Siphan Hasan, the Netherlands.
-
-However, Manaif Segai, claimed to the world's record of the 5000 meter event, was over the end of the race.
-
-Fieth KiPygia, a member of the Commonwealth, decided to lose the silver medal by violating the lane law and interrupting the lane law.
-
-However, Kenya Athletics Association has appealed to the International Athletics Union, who challenged the decision again.
-
-The International Athletics Association, which was conducted by the International Athletics Association, which was conducted by the International Athletic Association has not made any mistake of the incident, has reportedly stated that he has not faced a silver medal.
-
-◼️
-
-[Data](articles/a77ffd8d.json)
-
-[Extended Data](ext_articles/a77ffd8d.ext.json)
-
----
-
-### Supply of electricity and petroleum are essential
-
-*2024-08-06 12:56:36* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-හා-ඛනිජ-තෙල්-සැපයීම--අත්‍යවශ්‍ය-සේවා-කරයි/11-411228) · `si`
-
-President Ranil Wickremesinghe has made the supply of electricity and petroleum essential services, ensuring transparency in their production and delivery. This decision, outlined in a gazette notification, applies to all government corporations, departments, local authorities, and cooperatives involved in these sectors.
-
-🟩
-
-All services and supply of petroleum production and supply of petroleum production and supply of petroleum production and delivery of petroleum production and delivery will be made public by President Ranil Wickremesinghe.
-
-The gazette notification that was essential to the essential services was issued by the President EMSBA yesterday (05).
-
-The President has declared this essential service provision of any government corporation, department, a local authority, cooperative society or branch.
-
-◼️
-
-[Data](articles/1afa5303.json)
-
-[Extended Data](ext_articles/1afa5303.ext.json)
-
----
-
-### Gampaha Amongmated
-
-*2024-08-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199622) · `si`
-
-The 2024 electoral register shows 17,143,354 registrations for the presidential election, with Gampaha having the highest voter count. Colombo follows with over 1.7 million voters, and Kurunegala ranks third. The lowest registration, 86,889, is in Mullaitivu, Wanni.
-
-🟩
-
-The number of registration elections is 17,143,354, according to the 2024 electoral register for the presidential election.
-
-The highest number of voters are registered.
-
-The second place has won the Colombo district with more than 17 lakh electorates and the third place has the highest number of voters in the Kurunegala district.
-
-There are 86,889 people of the minimum registered volallies in the Mullaitivu district of the Wanni Election.
-
-◼️
-
-[Data](articles/4d413b70.json)
-
-[Extended Data](ext_articles/4d413b70.ext.json)
-
----
-
-### How did naked photos release?
-
-*2024-08-06 12:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-வெளியானது-எப்படி/175-341690) · `ta`
-
-Police in Arthurugiriya stated that around 30 witnesses were interviewed at Homagama Base Hospital concerning the circulation of nude photos of Surendra Vasantha Perera, a trader killed at Atukuriya Tattoo Punching Center. These photos, allegedly taken during his autopsy involving medical students, surfaced on social media. Additionally, it was mentioned that local journalists covering the murder scene shared information and video footage.
-
-🟩
-
-Athurugiriya police have said that about 30 witnesses have been recorded at the Homagama Base Hospital regarding the release of naked photos of the body of Surendra Vasantha Perera, a trader, club Vasantha, who was shot dead at the Atukuriya Tattoo Punching Center.
-
-When the autopsy of the body was carried out, medical students were joined. Police said that photos of them have been revealed on social media.
-
-In addition, police said that the local journalists who were working on the video footage of the murder had taken tips and facts.
-
-◼️
-
-[Data](articles/734d9866.json)
-
-[Extended Data](ext_articles/734d9866.ext.json)
 
 ---

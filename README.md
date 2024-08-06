@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 18:27:57**
+As of **2024-08-06 18:38:41**
 
 ## Newspaper Stats
 
-*Scraped **39,323** Articles*
+*Scraped **39,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,613
+adalk | 3,614
 adaderanalk | 4,567
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,322 (100.0%) of 39,323 articles have been extended.
+39,323 (100.0%) of 39,324 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,11 +36,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-06 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199638) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 18 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission has released 18 candidates from bail so far.
+
+🟩
+
+The Elections Commission announced that 18 candidates have been bailed to date.
 
 ◼️
 
 [Data](articles/4288ae9a.json)
+
+[Extended Data](ext_articles/4288ae9a.ext.json)
 
 ---
 
@@ -998,6 +1004,24 @@ Speaking to the media, MP Ganesan said that they have reached a Memorandum of Un
 
 ---
 
+### මැතිවරණ නිසා අයි.එම්.එෆ්. ගිවිසුම වෙනස් වෙන්නේ නෑ
+
+*2024-08-06 13:21:37* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිසා-අයි-එම්-එෆ්--ගිවිසුම-වෙනස්-වෙන්නේ-නෑ/11-411230) · `si`
+
+මැතිවරණ හෝ වෙනත් කරුණු හේතුවෙන් නොවෙනස්ව 2027 වසර තෙක් ජාත්‍යන්තර මූල්‍ය අරමුදල සමග පවත්නා ණය ගිවිසුම ඒ ආකාරයෙන්ම ක්‍රියාත්මක වන බව කැබිනට් ප්‍රකාශක ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+කැබිනට් ප්‍රකාශකවරයා මේ බව පැවසුවේ අද (06) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+
+තවත් මාස කිහිපයකින් මෙරට කවුරුන් ජනාධිපති වුවද, කවුරුන් ආණ්ඩුව කළද ඇතිකර ගත් ණය ගිවිසුම වෙනසක් සිදුවුවහොත් 2025 අයවැය සෑදීමට නොහැකි බවද, අයවැය ලේඛනය සම්මත කරගැනීමට දැනට සිටින මුදල් අමාත්‍යවරයා හා මුදල් අමාත්‍යංශය ජාත්‍යන්තර මූල්‍ය අරමුදලේ අත්සන් කර ඇති ගිවිසුම අනූව 2025ට ඇමරිකානු ඩොලර් මිලියන 5018ක විදේශ සම්පත් පරතරයක් ඇතිවීම සම්බන්ධව ඇස්තමේන්තු කර ඇතැයිද ඉන් මූල්‍ය අරමුදල මිලියන 663ක් ලබාදීමට පොරොන්දු වී ඇතැයිද පැවසුවේය.
+
+2025 අයවැය ලේඛනය සකස් කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදල ඇමරිකානු ඩොලර් මිලියන 700ක් ද, ලෝක බැංකුව 400ක් ද ආසියානු සංවර්ධන බැංකුව 300ක් ද වශයෙන් ලබා දීමට පොරොන්දු වී ඇතැයි පැවසූ අමාත්‍යවරයා 3855ක සහනයක් හිමිවන බවද සඳහන් කළේය.
+
+◼️
+
+[Data](articles/046b28c3.json)
+
+---
+
 ### Sri Lanka to re-start subsidy to keep senior citizen deposit rate at 10-pct
 
 *2024-08-06 13:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-re-start-subsidy-to-keep-senior-citizen-deposit-rate-at-10-pct-175433/) · `en`
@@ -1294,7 +1318,11 @@ Accordingly, this also creates history as the first-ever track kit worn by a Sri
 
 The handing over of autographed kit to the International Olympic Committee officials was carried out during a special ceremony held in the Paris Olympics village.
 
-◼️
+The handing over of the autographed kit to the International Olympic Committee officials was carried out during a special ceremony held in the Paris Olympics village.
+
+The kit was presented to Ms. Anne Jaccard, Senior Manager of Exhibits and Programs at the IOC Museum.
+
+...
 
 [Data](articles/118ee7a1.json)
 
@@ -2227,27 +2255,5 @@ The damaged Indian Cultural Center contained 21 thousand books and various histo
 [Data](articles/adafd891.json)
 
 [Extended Data](ext_articles/adafd891.ext.json)
-
----
-
-### Delay in train services departing from Fort
-
-*2024-08-06 08:58:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டையிலிருந்து-புறப்படும்-ரயில்-சேவைகளில்-தாமதம்/175-341666) · `ta`
-
-Train delays and cancellations from Colombo Fort due to railway staff strike over unaddressed inquiry into colleague's disappearance.
-
-🟩
-
-The train service has been affected as the employees of the Dematagoda railway station have ignored their duties.
-
-Due to this, delays and trains will be canceled in the train services departing from Colombo Fort, the Railway Department said.
-
-Employees are now quitting their work, protesting that an inquiry into the disappearance of a Dematagoda Raseway employee has not been properly investigated.. Remble
-
-◼️
-
-[Data](articles/d6d8e580.json)
-
-[Extended Data](ext_articles/d6d8e580.ext.json)
 
 ---

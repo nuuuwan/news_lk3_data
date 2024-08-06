@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 09:20:50**
+As of **2024-08-06 09:36:24**
 
 ## Newspaper Stats
 
-*Scraped **39,219** Articles*
+*Scraped **39,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
-adalk | 3,597
+adalk | 3,598
 adaderanalk | 4,549
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,912
+tamilmirrorlk | 4,917
 virakesarilk | 6,209
-adaderanasinhalalk | 6,628
+adaderanasinhalalk | 6,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,218 (100.0%) of 39,219 articles have been extended.
+39,219 (100.0%) of 39,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### අරුණ දර්ශනගේ අවසන් පූර්ව වටය අද රාත්‍රියේ
+
+*2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199613) · `si`
+
+මෙවර ඔලිම්පික් උළෙලේ පිරිමි මීටර් 400 ඉසව්වේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබූ අරුණ දර්ශන සහභාගී වන තරගය අද (06) පැවැත්වීමට නියමිතව තිබේ.
+
+අද රාත්‍රී ශ්‍රී ලංකා වේලාවෙන් රාත්‍රී 11.5ට පමණ අරුණ දර්ශන සහභාගී වන තරගය පැවැත්වීමට නියමිත බව වාර්තා වේ.
+
+මීටර් 400 ඉසව්වේ මූලික වටයේ 5 වෙනි තරගයට සහභාගී වූ අරුණ දර්ශන එහිදී තෙවන ස්ථානය හිමිකරගනු ලැබීය.
+
+එහිදී අරුණ දර්ශන තත්ත්පර 44 දශම 9.9කින් තරගය අවසන් කළ අතර එය ඔහුගේ පෞද්ගලික හොඳම කාලය ලෙස සැලකේ.
+
+◼️
+
+[Data](articles/ae986000.json)
+
+---
+
+### බංග්ලාදේශ හිටපු අගමැතිනී ඇතුළු පිරිසකට නිදහස
+
+*2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199614) · `si`
+
+බන්ධනාගාරගතව සිටි බංග්ලාදේශයේ හිටලු අග්‍රාමාත්‍ය ඛලීඩා ෂියා නිදහස් කිරීමට එරට ජනාධිපතිවරයා පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/b8ef5f80.json)
+
+---
+
+### கையை தேடுகிறார் ஆணைக்குழு தவிசாளர்
+
+*2024-08-06 09:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341670) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான நடவடிக்கைகள் சூடுபிடித்துள்ள நிலையில், தேர்தல்கள் ஆணைக்குழுவின் செயற்பாடுகளும் தீவிரப்படுத்தப்பட்டுள்ளன. இந்நிலையில், பத்திரிகைகளின் பிரதம ஆசிரியர்களை, தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர், செவ்வாய்க்கிழமை (06) சந்திக்கின்றார்.
+
+இவ்வாறான நிலையிலேயே  ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்த பிரிவை கையாள வேண்டும் என தேர்தல்கள் ஆணைக்குழு, சட்டமா அதிபரிடம் எழுத்து மூலம் கேட்டுள்ளது.
+
+இதனால், சட்டமா அதிபரிடமிருந்து தீர்மானம் கிடைத்தவுடன் ஆணைக்குழு கூடி இவ்விடயம் தொடர்பில் முடிவெடுக்கும் என தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+எதிர்வரும் தேர்தல் கடமைகளில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்தப் பக்கத்தை ஏற்றுக்கொள்ள வேண்டும் என்ற பிரச்சினை எழுந்துள்ள நிலையில், சட்டமா அதிபரிடம் பின்வருமாறு கருத்துக் கேட்பதற்கு ஆணைக்குழு தீர்மானித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி தற்போது மைத்திரிபால சிறிசேன அணி, அமைச்சர் நிமல் சிறிபால டி சில்வா அணி, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர அணி என மூன்று அணிகளாக பிளவுபட்டுள்ளது.
+
+...
+
+[Data](articles/677b2212.json)
+
+---
+
+### ’உள்ளாடைகளை’ அள்ளிய வன்முறையாளர்கள்
+
+*2024-08-06 09:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உள்ளாடைகளை-அள்ளிய-வன்முறையாளர்கள்/50-341669) · `ta`
+
+வங்கதேச முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் மாளிகையை சூறையாடிய வன்முறைக் கும்பல் அவரது வீட்டில் இருந்த உள்ளாடைகளையும் கூட அள்ளிச் சென்றது. ஒரு சிலரோ ஷேக் ஹசீனா வீட்டில் கொள்ளையடித்த சேலைகளை அங்கேயே அணிந்து போட்டோக்களுக்கு போஸ் கொடுத்த சம்பவங்களும் நிகழ்ந்துள்ளன.
+
+இடஒதுக்கீட்டை எதிர்த்து போராடிய மாணவர்கள் பெயரிலான கும்பல்தான் இத்தகைய அட்டூழியங்களை செய்ததாக வங்கதேச ஊடகங்கள் தெரிவித்துள்ளன.
+
+வங்கதேசத்தின் தந்தை முஜிபுர் ரஹ்மானின் மகள் ஷேக் ஹசீனா , 16 ஆண்டுகள் அந்த நாட்டின் பிரதமராக பதவி வகித்தார். வங்கதேச விடுதலைக்கு போராடியவர்களுக்கு இடஒதுக்கீடு வழங்கியதற்கு மாணவர்களின் பெயரில் பெரும் புரட்சி ஏற்பட்டது. இந்த புரட்சிதான் ஷேக் ஹசீனாவின் ஆட்சியையே கவிழ்த்துவிட்டது.
+
+கடந்த சில மாதங்களாக மாணவர்கள் நடத்திய போராட்டம் மிகப் பெரும் வன்முறையாக வெடித்தது. பாதுகாப்புத் தரப்பில் பலர் கொல்லப்பட்டதால் ஈவு இரக்கமே இல்லாமல் துப்பாக்கிச் சூட்டு சம்பவங்கள் நிகழ்த்தப்பட்டன. இதில் 300க்கும் மேற்பட்டோர் கொல்லப்பட்டனர்.
+
+...
+
+[Data](articles/b22aafd1.json)
+
+---
+
+### வங்கதேசத்தில் தொடரும் பதற்றம்:  கோயில்கள் மீது தாக்குதல்
+
+*2024-08-06 09:02:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தொடரும்-பதற்றம்-கோயில்கள்-மீது-தாக்குதல்/50-341668) · `ta`
+
+வங்கதேச தலைநகர் டாக்காவில் இந்திய கலாச்சார மையம் போராட்டக்காரர்களால் சேதப்படுத்தப்பட்டுள்ளது. மேலும் நாடு முழுவதும் இதுவரை 4 இந்து கோவில்கள் சேதமடைந்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+இது குறித்து தெரிவித்துள்ள இந்து பௌத்த கிறிஸ்தவ ஒற்றுமை கவுன்சில் தலைவர் கஜோல் தேவ்நாத், டாக்காவின் தன்மோந்தி பகுதியில் அமைந்துள்ள இந்திரா காந்தி கலாச்சார மையம் வன்முறை கும்பலால் சேதப்படுத்தப்பட்டதாக தெரிவித்தார். மேலும் 4 இந்து கோயில்கள் சிறிய அளவில் சேதமடைந்துள்ளதாகவும் தெரிவித்தார்.
+
+இது தவிர டாக்காவில் உள்ள பங்கபந்து நினைவு அருங்காட்சியகம் உட்பட பல்வேறு முக்கிய கட்டிடங்கள் தீவைத்து கொளுத்தப்பட்டுள்ளன. பங்கபந்து அருங்காட்சியகம், 1975ஆம் ஆண்டு படுகொலை செய்யப்பட்ட முன்னாள் வங்கதேச அதிபர் ஷேக் முஜிபுர் ரஹ்மான் (ஷேக் ஹசீனாவின் தந்தை) நினைவாக கட்டப்பட்டது.
+
+சேதமடைந்த இந்திய கலாச்சார மையத்தில் 21 ஆயிரம் புத்தகங்கள், பல்வேறு வரலாற்று ஆவணங்கள் இருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/adafd891.json)
+
+---
+
+### கோட்டையிலிருந்து புறப்படும் ரயில் சேவைகளில் தாமதம்
+
+*2024-08-06 08:58:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டையிலிருந்து-புறப்படும்-ரயில்-சேவைகளில்-தாமதம்/175-341666) · `ta`
+
+தெமட்டகொட ரயில் நிலைய ஊழியர்கள் தமது கடமைகளை புறக்கணித்துள்ளதால் ரயில்  சேவை பாதிக்கப்பட்டுள்ளது.
+
+இதன் காரணமாக கொழும்பு கோட்டையிலிருந்து புறப்படும் ரயில் சேவைகளில் தாமதங்கள் மற்றும் ரயில்கள் இரத்துச் செய்யப்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+தெமட்டகொட ரேஸ்வே ஊழியர் ஒருவர் காணாமற் போனமை தொடர்பிலான விசாரணைகள் உரிய முறையில் மேற்கொள்ளப்படவில்லை என எதிர்ப்புத் தெரிவித்து ஊழியர்கள் தற்போது தமது பணிகளில் இருந்து விலகியுள்ளனர். R
+
+◼️
+
+[Data](articles/d6d8e580.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -47,6 +149,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/dc2ac36e.json)
+
+[Extended Data](ext_articles/dc2ac36e.ext.json)
 
 ---
 
@@ -311,6 +415,20 @@ Veerakesari, who is the highest identity of Sri Lanka's first national Tamil new
 [Data](articles/a482d233.json)
 
 [Extended Data](ext_articles/a482d233.ext.json)
+
+---
+
+### ’சு.க. பெரும்பான்மையானோர் ஜனாதிபதிக்கு ஆதரவு’
+
+*2024-08-06 07:33:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-பெரும்பான்மையானோர்-ஜனாதிபதிக்கு-ஆதரவு/175-341664) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி உத்தியோகபூர்வமாக தீர்மானித்துள்ள எனவும்  சுதந்திரக் கட்சியைப் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்கள் உட்பட நிறைவேற்று சபையின் 90 வீதமானோரின் இணக்கப்பாட்டுடன் இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளது எனவும் போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே  இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/0624e3a9.json)
 
 ---
 
@@ -1948,6 +2066,22 @@ Attorney-at-Law Faizer Mustapha that appeared on behalf of the Minister of Labor
 
 ---
 
+### පොලිස් කොස්තාපල් තනතුරු 29091ක හිඟයක්
+
+*2024-08-05 18:48:45* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්-තනතුරු-29091ක-හිඟයක්/11-411213) · `si`
+
+ශ්‍රී ලංකා පොලිස් දෙපාර්තමේන්තුවට අයත් පොලිස් කොස්තාපල් තනතුරු 29,091ක සහ කාන්තා පොලිස් කොස්තාපල් තනතුරු 4020 ක පුරප්පාඩු  ඇති බව ජාතික විගණන කාර්යාලය මගින් අගෝස්තු මස 04 වැනි දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+පොලීසියේ අනුමත පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාව 60000 කි. 2023 වර්ෂය අවසන් වන විට සිටි පොලිස් කොස්තාපල් වරු සංඛ්‍යාව 309,09 කි. ඒ අනුව පොලිස් කොස්තාපල් වරුන්ගේ පුරප්පාඩු 29,091 ක් ලෙස පැවතුණි. එසේ වුවද 2019 හා 2020 යන වර්ෂවල දී අනුමත සංඛ්‍යාව නොසලකා උසස් වීම් ලබා දීම නිසා පොලිස් සැරයන් තනතුරේ 10,900 ක අතිරික්ත පොලිස් නිලධාරීන් සංඛ්‍යාවක් සිටින බවද එම විගණන වාර්තාවේ සඳහන්වේ.
+
+එම අතිරික්ත පොලිස් සැරයන් තනතුරු සංඛ්‍යාව පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාවෙන් අඩු කළද තවදුරටත්  පුරප්පාඩුවී පවතින කොස්තාපල් තනතුරු සංඛ්‍යාව 18,190 ක් වන අතර අනුමත පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාවෙන් 30% ක පමණ පුරප්පාඩු සංඛ්‍යාවක් පැවතීම මහජන සේවා පවත්වාගෙන යෑමේ දී ගැටලු රැසක් නිර්මාණය කර ඇති බවද එම විගණනය මගින් අනාවරණය කර ඇත.
+
+...
+
+[Data](articles/98f99c21.json)
+
+---
+
 ### Who is the Tamil general candidate not announced today
 
 *2024-08-05 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190364) · `ta`
@@ -2039,189 +2173,5 @@ It is best to bring the postal voting applications to the District Election Offi
 [Data](articles/69c0ce30.json)
 
 [Extended Data](ext_articles/69c0ce30.ext.json)
-
----
-
-### People look forward to posters of President's posters
-
-*2024-08-05 18:30:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-පෝස්ටර්-දිහා-ජනතාව-හූල්ලමින්-බලාගෙන-ඉන්නවා/11-411211) · `si`
-
-MP Gayantha Karunathilaka discussed the public reception of President Ranil Wickremesinghe's posters, noting mixed reactions. He highlighted concerns over the cost of the poster campaign and the varying messages presented by Wickremesinghe during different elections, including promises of free WiFi, health bracelets, and affordable cars, alongside addressing issues like the price of rice.
-
-🟩
-
-MP Gayantha Karunathilaka said that he was looking at the poorest of the posters for the posters for the posters of Ranil Wickremesinghe.
-
-He was speaking at a media briefing held at the Head Office of Pitakotte today (05).
-
-Speaking further MP Gayantha Karunatileka said so.
-
-"Now the posters have been published in Ranil. We saw how people responded. In some areas, the public was written by the posters that Ranil is 21st. The daily money is used in the walls of posters like margal, using a huge money on every day. The time at the time of the time, people are looking at taxes and the goting of the people of living.
-
-Ranil Wickremesinghe speaks different things in different elections. Although we did, they were in the election campaign. He shows various views. Talking about Free WiFi at times. Talk to the Bracelet at all times. We remember how he had a little car for every family in recent years. Indeed, we are truly sorry for the loss of 2 kg of rice. "
-
-◼️
-
-[Data](articles/ad233e40.json)
-
-[Extended Data](ext_articles/ad233e40.ext.json)
-
----
-
-### 17 suspects up to 17
-
-*2024-08-05 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199594) · `si`
-
-The Elections Commission confirmed 17 candidates for the upcoming Presidential election, including Ranil Wickremesinghe, Sarath Keerthirath, and others who have posted bail. Additionally, Field Marshal Sarath Fonseka, a former parliamentarian, and Dr. Kr K.R from the Arunal People's Front have also submitted bail to run as independent candidates.
-
-🟩
-
-The Elections Commission announced that 17 candidates have been paid to the Presidential election.
-
-Accordingly, Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa, P. W. S. K. Bandaranaike, Wijeyadasa Rajapakse, KK. Piyadasa, Sirithunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Ven. Battaramulla Seelarathana Thera and Akmeemana Dayaratana Thera were bailed.
-
-Meanwhile, Field Marshal Sarath Fonseka lodged a bail afternoon as an independent candidate today (05).
-
-Former parliamentarian representing the Joint Independent Trade Union Center, a former parliamentarian, deposited as an independent candidate, "Ada Derana reporter said.
-
-Also, its secretary Dr. Kr K.R for the Arunal People's Front. Mr. Kishan has also deposited bail to contest the presidential election.
-
-◼️
-
-[Data](articles/093d8703.json)
-
-[Extended Data](ext_articles/093d8703.ext.json)
-
----
-
-### Special operation at Matara Prison
-
-*2024-08-05 17:56:22* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-බන්ධනාගාරයේ-කළ-විශේෂ-මෙහෙයුම/11-411210) · `si`
-
-In a surprise search at Matara Prison, authorities discovered contraband items including mobile batteries and SIM cards in three wards. This follows a tip-off leading to a broader investigation into drug-related activities within the prison. The operation was successful due to its covert nature, allowing for the seizure of 18 mobile batteries and nine SIM cards without prior notice. Further inquiries are being conducted by the Colombo Prison Headquarters to address the issue.
-
-🟩
-
-A prison said that the detainees were found in a special search operation conducted in the Matara Prison yesterday (04).
-
-They were found in three wards of the prison. In addition, 18 mobile batteries have also recovered nine SIM.
-
-It is learned that a special investigation at the Colombo Prison Headquarters has been conducting further investigations on the notification of the superintendent of Matara Prison.
-
-It is said that it was a success of this search because of the success of this search without informing anyone.
-
-A wider investigation has been launched to find the mobile phones and accessories to the prison in the drug.
-
-◼️
-
-[Data](articles/2780e09d.json)
-
-[Extended Data](ext_articles/2780e09d.ext.json)
-
----
-
-### Meeting with the President is confidential - Ananthi Sasitharan
-
-*2024-08-05 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190362) · `ta`
-
-Anandi Sasitharan, former minister and Secretary-General of the Eelam People's Autonomy, clarified that his meetings with presidential candidates were public, not secret. He discussed their stances on issues affecting the North and East during these encounters, emphasizing transparency and seeking solutions for victims as outlined in their election manifestos.
-
-🟩
-
-I am not engaged in a secret meeting with the president. The former minister of the Northern Provincial Council and the Secretary -General of the Eelam People's Autonomy, Anandi Sasitharan said that he was engaged in a secret meeting.
-
-He said this at a media briefing held at his residence on Sunday (4). There he said more,
-
-I met Sajith Premadasa last month as presidential candidates. I asked what their position on the people of the North and East was.
-
-I also met President Ranil Wickremesinghe. I am already a member and minister of the Northern Provincial Council. I am currently working as the Secretary General of the Eelam Tamil Shivaji Association.
-
-I meet the presidential candidate for the sake of an honor. At that meeting, what is his position on the affected people?I made this meeting as he was asked about the solutions to the victims in his election manifesto.
-
-...
-
-[Data](articles/e79702d9.json)
-
-[Extended Data](ext_articles/e79702d9.ext.json)
-
----
-
-### Chamari nominated for ICC Women’s Player of the Month for July
-
-*2024-08-05 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101016/chamari-nominated-for-icc-womens-player-of-the-month-for-july) · `en`
-
-Sri Lankan all-rounder and Women’s Team captain Chamari Athapaththu has been nominated for ICC Women’s Player of the Month for July 2024 after leading her country to a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India.
-
-Athapaththu has been nominated alongside the Indian duo of Smriti Mandhana and Shafali Verma.
-
-Sri Lanka stalwart Chamari Athapaththu added another feather to her crown with a historic maiden win in the Women’s Asia Cup 2024 over seven-time champions India in July. This triumph was yet another feat under her leadership in the last 12 months, a period in which Sri Lanka have set several milestones, including first-ever T20I series wins against England and South Africa and securing their qualification for the ICC Women’s T20 World Cup 2024..
-
-...
-
-[Data](articles/9b5fc7f4.json)
-
-[Extended Data](ext_articles/9b5fc7f4.ext.json)
-
----
-
-### Chamari's latest
-
-*2024-08-05 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199593) · `si`
-
-Sri Lanka's Chamari Atapattu is one of three nominees for the ICC Cricketer of the Month award.
-
-🟩
-
-The Sri Lankan team leader Chamari, Atapattu, is among the three recommendations for the cricketer of the month of ICC.
-
-◼️
-
-[Data](articles/c6539ab3.json)
-
-[Extended Data](ext_articles/c6539ab3.ext.json)
-
----
-
-### Hidden swords rescued for committing crime in Jaffna!
-
-*2024-08-05 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190349) · `ta`
-
-In Jaffna, three swords, shoes, masks, and robes were seized from a paddy field, believed to be linked to criminal activities. The discovery was made possible through confidential intel received by the Chunnakam police, who continue their investigation.
-
-🟩
-
-Three swords, shoes, masks and top robes were recovered on Monday (05).
-
-Western items have been recovered from the paddy field at Ezhali West, Ezhalaya and Puliyanginadi.
-
-The rescue operation was based on confidential information received by the Chunnakam police. Chunnakam police are conducting further investigations.
-
-◼️
-
-[Data](articles/edf117cb.json)
-
-[Extended Data](ext_articles/edf117cb.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.30/43 to US dollar
-
-*2024-08-05 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-30-43-to-us-dollar-175324/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.30/43 to the US dollar on Monday, from 301.90/302.05 to the US dollar on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.75/80 percent, up from 10.45/60 percent.
-
-A bond maturing on 15.12.2027 closed at 11.80/12.05 percent, up from 11.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 12.45/55 percent, up from 12.20/35 percent.
-
-A bond maturing on 15.10.2030 closed at 12.75/85 percent, up from 12.70/85 percent. (Colombo/Aug5/2024)
-
-◼️
-
-[Data](articles/b51900cd.json)
-
-[Extended Data](ext_articles/b51900cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 03:54:45**
+As of **2024-08-07 04:07:16**
 
 ## Newspaper Stats
 
-*Scraped **39,374** Articles*
+*Scraped **39,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,383
-dailyftlk | 2,525
+dailyftlk | 2,535
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,938
+tamilmirrorlk | 4,939
 virakesarilk | 6,231
 adaderanasinhalalk | 6,663
 
@@ -26,27 +26,211 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,370 (100.0%) of 39,374 articles have been extended.
+39,374 (100.0%) of 39,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### பங்களாதேஷின் கிரிக்கெட் வீரர் வீட்டிற்கு தீ வைப்பு
+### Ceylon Chamber launches ‘Vision 2030’ policy document
+
+*2024-08-07 03:33:11* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-Vision-2030-policy-document/34-765248) · `en`
+
+Designed to encourage bipartisan approach towards sustainable and inclusive development
+
+The Ceylon Chamber of Commerce launched its landmark policy document, ‘Vision 2030,’ designed to steer Sri Lanka towards sustainable and inclusive development by 2030.
+
+The inaugural copy of this comprehensive economic plan was presented to President Ranil Wickremesinghe. The document will also be distributed to political party leaders, the Central Bank Governor, and the Treasury Secretary, to promote a bipartisan approach towards prioritising the national economy and public welfare.
+
+‘Vision 2030’ sets forth a Five-Year Economic Plan focusing on various sectors, each with targeted goals and strategic policy interventions aimed at transforming Sri Lanka’s economic landscape. Among the critical sectors it addresses are healthcare, agriculture, education, and logistics, while also emphasising key enablers like tax reforms, trade reforms, digitalisation, and power and energy reforms
+
+...
+
+[Data](articles/d9667c8a.json)
+
+---
+
+### Sri Lanka and France to establish Regional Centre for Maritime Studies
+
+*2024-08-07 03:31:45* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-France-to-establish-Regional-Centre-for-Maritime-Studies/34-765247) · `en`
+
+The Cabinet of Ministers at its meeting on Monday approved establishing a ‘Regional Centre for Maritime Studies’ through a bilateral agreement between the Government of Sri Lanka and the Government of France.
+
+The French Government has identified Sri Lanka as the most suitable location for this centre, recognising the country’s proactive initiatives in maritime protection as a member of the Association of Indian Ocean countries.
+
+The proposed centre will be set up at the General Sir John Kotelawala Defence University, with additional support and infrastructure provided by the Trincomalee Naval and Maritime Academy.
+
+This strategic placement leverages Sri Lanka’s geographic and academic strengths to foster regional maritime studies and collaborations.
+
+“The centre aims to disseminate knowledge and coordinate actions based on joint studies, enhancing regional maritime security and cooperation,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
+
+...
+
+[Data](articles/e48f056c.json)
+
+---
+
+### EY’s experts-led discussion on Economic Transformation Bill
+
+*2024-08-07 03:31:06* · [`dailyftlk`](https://www.ft.lk/business/EY-s-experts-led-discussion-on-Economic-Transformation-Bill/34-765246) · `en`
+
+EY Sri Lanka is set to host a pivotal webinar on the recently passed ‘Economic Transformation Bill’ led by the Tax Division on 9 August at 10 a.m.
+
+EY Sri Lanka and Maldives Country Managing Partner Duminda Hulangamuwa and Partner, Head of Tax Sulaiman Nishtar will be joined by esteemed guest speakers Senior Economic Advisor to the President Dr. R.S.H. Samaratunga, and Oversight Committee for the Economic Transformation Act Member Mangala Yapa, to share their valuable insights on the new legislation and its impact on the Sri Lankan economic landscape. Additionally, Shehani Paranavitane and Shakthivel Velauthapillai, both Principals in Tax at EY Sri Lanka, will also contribute to an extensive discussion on the importance of this legislation.
+
+...
+
+[Data](articles/b2cce7c0.json)
+
+---
+
+### Luminex gets cleaning project of Kankasanthurei cement factory
+
+*2024-08-07 03:30:32* · [`dailyftlk`](https://www.ft.lk/business/Luminex-gets-cleaning-project-of-Kankasanthurei-cement-factory/34-765245) · `en`
+
+The Cabinet of Ministers on Monday approved awarding the project for cleaning and collecting iron and other metal parts scattered in the Kankasanthurei cement factory complex to Luminex PLC.
+
+The move follows a national competitive procurement methodology, with bids called under the direct supervision of the Ministry of Industries.
+
+“Six bidders submitted their proposals for this procurement, but three were disqualified based on the bid documents. After thorough evaluation, the contract was awarded to Luminex PLC, the substantially responsive bidder deemed eligible according to the recommendations of the procurement committee appointed by the Cabinet of Ministers,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
+
+Speaking at the weekly post-Cabinet meeting media briefing yesterday, he said the decision marks a significant step toward revitalising the factory complex and ensuring efficient cleanup operations.
+
+...
+
+[Data](articles/cca21e77.json)
+
+---
+
+### CDASL celebrates decade of excellence at 10th AGM
+
+*2024-08-07 03:30:00* · [`dailyftlk`](https://www.ft.lk/business/CDASL-celebrates-decade-of-excellence-at-10th-AGM/34-765244) · `en`
+
+From left: Committee members Inoke Perera, Roderick David, Aelian Gunawardene, Dhammike Wasanthakumara, Nalin Herath, Dasun Wickramaratna, Treasurer Sivarajah Thumilan, Secretary Prasanna De Zoysa, Chairman Pinsiri Fernando, Committee members Pradeep Moraes and Kishore Reddy
+
+The Condominium Developers Association of Sri Lanka (CDASL) successfully held its 10th Annual General Meeting (AGM) on 24 July at the Board Room of The Ceylon Chamber of
+
+Commerce. This significant event marked a decade of dedication to promoting excellence in the condominium development sector across the nation.
+
+...
+
+[Data](articles/8adbcc49.json)
+
+---
+
+### AKD places deposit to contest Presidential Election
+
+*2024-08-07 03:27:53* · [`dailyftlk`](https://www.ft.lk/news/AKD-places-deposit-to-contest-Presidential-Election/56-765243) · `en`
+
+NPP MP Vijitha Herath says party’s goal is to secure victory of political agenda focused on rebuilding SL with commitment to policies and clean governance
+
+Emphasises need to defeat corrupt and detrimental politics that have economically devastated SL
+
+Claims citizens are now ready to entrust SL to Anura, who has clear vision and capability to uplift SL
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake officially entered the Presidential Election fray after cash deposits on his behalf were placed at the Election Commission of Sri Lanka (ECSL) yesterday.
+
+The deposit was placed by NPP MP Harini Amarasuriya, MP Vijitha Herath, Eranga Gunasekara, Attorney at Law Sunil Watagala and several others.
+
+...
+
+[Data](articles/66bfacf5.json)
+
+---
+
+### Charitha Herath accuses President of contributing to SL’s economic crisis
+
+*2024-08-07 03:25:49* · [`dailyftlk`](https://www.ft.lk/news/Charitha-Herath-accuses-President-of-contributing-to-SL-s-economic-crisis/56-765242) · `en`
+
+MP Prof. Charitha Herath says economic and political reforms cannot be brought about through rhetoric alone
+
+Stresses SL’s Presidential Election discourse must be rescued from myth-making and boastful politics of Ranil Wickremesinghe
+
+Accuses Wickremesinghe of contributing to disseminating misinformation on upcoming polls
+
+Expresses belief that Sajith Premadasa is key figure able to rebuild and unify SL
+
+Parliamentarian Prof. Charitha Herath has said President Ranil Wickrmeesinghe is part of the crisis and not part of the solution.
+
+Addressing a press conference yesterday at the Samagi Jana Balawegaya (SJB) head office Herath said economic and political reforms cannot be brought about through rhetoric alone.
+
+...
+
+[Data](articles/32dc6da6.json)
+
+---
+
+### TPA led by Mano Ganesan to support Sajith
+
+*2024-08-07 03:23:27* · [`dailyftlk`](https://www.ft.lk/news/TPA-led-by-Mano-Ganesan-to-support-Sajith/56-765241) · `en`
+
+Tamil Progressive Alliance (TPA) led by MP Mano Ganesan has extended their support to Opposition Leader Sajith Premadasa’s candidacy at the upcoming Presidential Election.
+
+Adressing a press conference yesterday, Ganesan announced that all parties to the alliance, including the Democratic People’s Front (DPF), National Union of Workers (NUW) and the Up-Country People’s Front (UCPF) representing Sri Lanka’s Malaiyaha Tamil community have agreed to support Premadasa.
+
+“The politburo of the TPA have decided to extend our fullest support to the Samagi Jana Sandhanaya leader Sajith Premadasa. We have come to an agreement with the Samagi Jana Sandhanaya. We are not asking for the moon nor stars. We are only asking for better lives as Sri Lankan citizens for the 800,000 people living in the estates,” he said.
+
+Also addressing the press conference, TPA Deputy Leader Palani Digambaram said Premadasa is the only honest leader in the country.
+
+...
+
+[Data](articles/44696391.json)
+
+---
+
+### SLPP Ministers sought Mahinda Rajapaksa’s blessing to support President Wickremesinghe: Bandula
+
+*2024-08-07 03:22:53* · [`dailyftlk`](https://www.ft.lk/news/SLPP-Ministers-sought-Mahinda-Rajapaksa-s-blessing-to-support-President-Wickremesinghe-Bandula/56-765240) · `en`
+
+Minister and Sri Lanka Podujana Peramuna (SLPP) member Bandula Gunawardena confirmed yesterday that MPs who have announced their support for President Ranil Wickremesinghe in the upcoming Presidential polls did so after seeking the blessings of former President and SLPP leader Mahinda Rajapaksa.
+
+Responding to queries posted at the post-Cabinet meeting media briefing yesterday, he stated that a group of SLPP Ministers and State Ministers had a discussion with Rajapaksa at the Parliament complex, securing his approval before making their support public.
+
+Following this meeting, the group insisted at a separate party meeting that it was in the best interest of the SLPP to back Wickremesinghe rather than fielding a new candidate for the presidential election.
+
+“There is no division within the SLPP camp. All we do is support the national framework to overcome the ongoing economic crisis under Wickremesinghe’s leadership,” Gunawardena elaborated.
+
+...
+
+[Data](articles/b24361ca.json)
+
+---
+
+### GMOA meets AKD
+
+*2024-08-07 03:21:47* · [`dailyftlk`](https://www.ft.lk/news/GMOA-meets-AKD/56-765239) · `en`
+
+A meeting between the Government Medical Officers Association (GMOA) and NPP leader and Presidential candidate Anura Kumara Dissanayake was held yesterday afternoon at the Janatha Vimukthi Peramuna (JVP) Head Office.
+
+During the meeting, President of the GMOA  Dr. Darshana Sirisena and other officials including Dr Sanjeewa Thennakoon presented the issues faced by doctors in Sri Lanka and outlined their proposals for addressing these challenges to the NPP.
+
+◼️
+
+[Data](articles/3633297b.json)
+
+---
+
+### Bangladesh's cricketer's house fire
 
 *2024-08-07 02:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷின்-கிரிக்கெட்-வீரர்-வீட்டிற்கு-தீ-வைப்பு/50-341725) · `ta`
 
-பங்களாதேஷ் முன்னாள் கிரிக்கெட் வீரரும் நாடாளுமன்ற உறுப்பினருமான மோர்டாசாவின் வீட்டுக்கு போராட்டக்காரர்கள் தீ வைத்தனர்.
+Protesters set fire to the home of former Bangladesh cricket star and MP Mortaza, causing local unrest.
 
-முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியான பங்களாதேஷ் அவமி லீக் சார்பில் போட்டியிட்டு நாடாளுமன்ற உறுப்பினராக தேர்வான இவர், கட்சியின் கொறடாவாக செயல்பட்டு வந்துள்ளார்.
+🟩
 
-இந்த சூழலில் மோர்டாசாவின் வீட்டுக்குள் சென்ற போராட்டக்காரர்கள் அங்குள்ள பொருட்களை தீ வைத்து கொளுத்தினர்.
+The protesters set fire to the house of former Bangladesh cricketer and parliamentarian Mortaza.
 
-இந்த தீ வைப்பு சம்பவம் அந்த பகுதியில் பதற்றத்தை ஏற்படுத்தி உள்ளது. (a)
+He has been elected as a Member of Parliament for the former Prime Minister Sheikh Hasina's party, Bangladesh Awamy League.
+
+In this context, the protesters who went into Mordasa's house set fire to the goods.
+
+The fire has caused tension in the area. (A)
 
 ◼️
 
 [Data](articles/848aa780.json)
+
+[Extended Data](ext_articles/848aa780.ext.json)
 
 ---
 
@@ -65,6 +249,28 @@ KONKA, is a globally recognised brand known for its superior and innovative cons
 [Data](articles/4af026b5.json)
 
 [Extended Data](ext_articles/4af026b5.ext.json)
+
+---
+
+### ’ மொட்டை வாடகைக்கு விட முடியாது”
+
+*2024-08-07 01:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டை-வாடகைக்கு-விட-முடியாது/175-341724) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவை இரண்டாக பிளவுபடுத்துவதற்கு ரணில் விக்கிரமசிங்க ஒருபோதும் முயற்சிக்கவில்லை என ஆளும் கட்சியின் பிரதான அமைப்பாளர், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+கட்சியாக இணைந்து செயற்பட வேண்டும் என ஜனாதிபதி எப்போதும் கூறியுள்ளதாக அமைச்சர் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்களின் விசேட கலந்துரையாடல் பத்தரமுல்லையில் உள்ள ஹோட்டல் ஒன்றில் திங்கட்கிழமை (05)  நடைபெற்றது.
+
+இந்த கலந்துரையாடலில் அமைச்சர்களான பிரசன்ன ரணதுங்க, காஞ்சன விஜேசேகர, ரமேஷ் பத்திரன, அலி சப்ரி மற்றும் அமைச்சர்கள் பலர் கலந்துகொண்டனர்.
+
+இக்கலந்துரையாடலில் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக மாவட்ட மட்டத்தில் மக்களை தெளிவுபடுத்தும் வேலைத்திட்டம் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+
+கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த அமைச்சர் பிரசன்ன ரணதுங்க மேலும் கூறியதாவது,
+
+...
+
+[Data](articles/7bb0ec6f.json)
 
 ---
 
@@ -106,51 +312,73 @@ The grand opening was made even more special with the esteemed presence of Sony 
 
 ---
 
-### தேர்தல் திருத்தச் சட்டமூலம் தேர்தல் குண்டா?
+### Election Amendment Bill?
 
 *2024-08-07 01:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திருத்தச்-சட்டமூலம்-தேர்தல்-குண்டா/175-341723) · `ta`
 
-மாகாண சபைகள் தேர்தல் திருத்தச் சட்டமூலத்தை தமிழ்த் தேசியக் கூட்டமைப்பினரின் வாக்குகளை பெற்றுக்கொள்ளும் நோக்கத்தை கொண்ட தேர்தல் குண்டாகவே தாம் கருதுகின்றோம் என்று தேசிய சுதந்திர முன்னணி பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்.
+Wimal Weerawansa criticizes the proposed Election Amendment Bill, suggesting it aims to manipulate the Tamil National Alliance's support for provincial councils ahead of the presidential election. He argues this could unfairly impact Tamils, Sinhalese, and Muslims in the North, urging caution against what he sees as an electoral tactic.
 
-பாராளுமன்றம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில், செவ்வாய்க்கிழமை (06) காலை 9.30க்கு கூடியது. சபையின் பிரதான நடவடிக்கைள் நிறைவடைந்தன் பின்னர்  ஒழுங்கு பிரச்சினையை எழுப்பியே இவ்வாறு தெரிவித்தார்.
+🟩
 
-கடந்த நல்லாட்சி அரசாங்கமே மாகாண சபைகள் தேர்தலை கால வரையறையின்றி ஒத்திவைத்தது. இப்போது ஜனாதிபதித் தேர்தல் அறிவிக்கப்பட்டு கூடிய விரைவில் அந்தத் தேர்தல் நடத்தப்படவுள்ளது. இந்நிலையில் குறுகிய காலத்திற்குள் மாகாண சபைகள் தேர்தல் திருத்தச் சட்டமூலத்தை கொண்டுவருவதன் நோக்கம் என்ன? என்று வினவினார்.
+National Freedom Front Parliamentarian Wimal Weerawansa said that he considers the provincial councils to get the votes of the Tamil National Alliance (TNA) as an election bomb.
+
+Parliament will meet Speaker Mahinda Yapa Abeywardena at 9.30 am on Tuesday (06). He said the issue of order after the main action of the council was completed.
+
+The last good government has adjourned the election of provincial councils without definition. The election will be held as soon as the presidential election is announced. What is the purpose of the provincial councils to bring in the Election Amendment Bill within a short period of time?He asked.
+
+If the appointment of the Chief Minister of the Provincial Chief Minister, the police declaration, the Environment Declaration and the Land Declaration can be fulfilled in bulk. However, JR Jayawardene accused the provincial councils of the amendment to the amendment.
 
 ...
 
 [Data](articles/24a22d82.json)
 
+[Extended Data](ext_articles/24a22d82.ext.json)
+
 ---
 
-### 99 முறைபாடுகள்
+### 99 complaints
 
 *2024-08-07 01:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/99-முறைபாடுகள்/175-341722) · `ta`
 
-ஜூலை 31ஆம் திகதி முதல், ஓகஸ்ட் 5 ஆம் திகதி பிற்பகல் 5 மணிவரை, சட்டத்தை மீறியமை தொடர்பிலான தேர்தல் முறைப்பாடுகள் 99 கிடைத்துள்ளன என தேர்தல்கள்  ஆணைக்குழு அறிவித்துள்ளது.
+From July 31 to August 5, 99 election complaints were filed: 68 to the National Election Complaint Management Center and 31 to the District center.
 
-அதில், தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்துக்கு 68 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்துக்கு 31 முறைப்பாடுகளும் கிடைத்துள்ளன.
+🟩
+
+The Elections Commission has announced that 99 election complaints have been received from July 31 to 5 pm on August 5, 5 pm.
+
+Of these, 68 complaints have been received for the National Election Complaint Management Center and 31 to the District Election Complaint Management Center.
 
 ◼️
 
 [Data](articles/1ecdc082.json)
 
+[Extended Data](ext_articles/1ecdc082.ext.json)
+
 ---
 
-### தமிழ் பொது வேட்பாளர் புதன், வியாழன் முடிவு
+### Tamil General Candidate Wednesday, Thursday
 
 *2024-08-07 01:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-புதன்-வியாழன்-முடிவு/175-341721) · `ta`
 
-ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளராக போட்டியிட தெரிவு செய்யப்பட்ட இரு வேட்பாளர்களில் இறுதியாக ஒருவரின் பெயரை தெரிவு செய்வதில், திங்கட்கிழமை (05) நீண்டநேரம் விவாதம் இடம்பெற்ற நிலையில் பொதுவேட்பாளர் தொடர்பான இறுதிமுடிவு  புதன்கிழமை அல்லது வியாழக்கிழமை அறிவிக்கப்படும் என தமிழ் பொதுச்சபையின் பிரதிநிதிகள் அறிவித்தனர்.
+The Tamil General Assembly plans to announce the final candidate for the presidential election on Monday, after discussions involving the Tamil National Alliance in Jaffna. The decision comes from a meeting held on Monday, where the TNA discussed and consulted for several hours to select the candidate from those recommended. The announcement of the selected candidate is expected within two days.
 
-யாழ்ப்பாணத்தில் உள்ள தனியார் விடுதியில், திங்கட்கிழமை (05) இடம்பெற்ற கலந்துரையாடலுக்கு பின்னர் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-யாழ்ப்பாணத்தில்  கூடிய தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு, தமிழ் பொது வேட்பாளரை இறுதி செய்யும் கலந்துரையாடல்களில் ஈடுபட்டது.
+Representatives of the Tamil General Assembly announced that the general candidate's final on Wednesday or Thursday will be announced on Monday (05), with the two candidates who have been elected as the Tamil General candidate for the presidential election.
 
-தமிழ் பொதுவேட்பாளராகக் களமிறக்குவதற்குப் பரிந்துரைக்கப்பட்டவர்களில் இருந்து ஒருவரைத் தெரிவு செய்வதற்காக பல மணிநேரமாக தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு ஆலோசனை நடத்தியபோதும், பொதுவேட்பாளரை இறுதி செய்ய முடியவில்லை என அறிவிக்கப்பட்டுள்ளது.
+This was reported at a media briefing held after a discussion held on Monday (05) at a private hotel in Jaffna.
 
-...
+The Tamil National Alliance (TNA) in Jaffna engaged in discussions to finalize the Tamil general candidate.
+
+It has been announced that the Tamil National Alliance has been consulted for several hours to select one of those who have been recommended to be a Tamil general candidate.
+
+In this case, who is the Tamil general candidate?Members of the Tamil National Alliance have said that it will be finalized and announced in two days.
+
+◼️
 
 [Data](articles/6bf32168.json)
+
+[Extended Data](ext_articles/6bf32168.ext.json)
 
 ---
 
@@ -2005,231 +2233,5 @@ All complaints received thus far are related to breaches of election laws, accor
 [Data](articles/a94c3abf.json)
 
 [Extended Data](ext_articles/a94c3abf.ext.json)
-
----
-
-### Election Complaints
-
-*2024-08-06 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199627) · `si`
-
-The Elections Commission reported receiving 99 election complaints from July 31 to 5 pm yesterday, all related to the presidential election.
-
-🟩
-
-The Elections Commission says that 99 election complaints have been received regarding the presidential election.
-
-The Commission said that the complaints were reported from July 31 to 5 pm yesterday (05).
-
-◼️
-
-[Data](articles/4b61f6df.json)
-
-[Extended Data](ext_articles/4b61f6df.ext.json)
-
----
-
-### Rocket attack targeting US Air Force Base in Iraq- Many injured
-
-*2024-08-06 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190400) · `ta`
-
-A rocket attack on a US Air Force base in Iraq injured many soldiers. The incident follows concerns about potential retaliation from Iran and Hezbollah over the killing of a Hamas leader. US officials are evaluating the damage at Al Asad Air Force Base.
-
-🟩
-
-Many US soldiers were injured in a rocket attack on the US military in Iraq.
-
-The attack took place in the wake of fears that Iran and Hzbullah could carry out an attack to avenge the murder of Hamas leader Hzbullah.
-
-US officials said they were assessing the damage caused by Al Asad Air Force.
-
-◼️
-
-[Data](articles/85300b51.json)
-
-[Extended Data](ext_articles/85300b51.ext.json)
-
----
-
-### Tamil Progressive Alliance to back Sajith in Presidential Poll
-
-*2024-08-06 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101037/tamil-progressive-alliance-to-back-sajith-in-presidential-poll-) · `en`
-
-The Tamil Progressive Alliance (TPA) led by MP Mano Ganesan has decided to support Opposition Leader Sajith Premadasa at the upcoming Presidential Election.
-
-Speaking to the media, MP Ganesan said that they have reached a Memorandum of Understanding (MoU) with the ‘Samagi Jana Sandhanaya’ led by the Opposition Leader, to pledge their support in the 2024 Presidential Poll.
-
-◼️
-
-[Data](articles/9e0a7010.json)
-
-[Extended Data](ext_articles/9e0a7010.ext.json)
-
----
-
-### IMF due to elections. The agreement will not change
-
-*2024-08-06 13:21:37* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිසා-අයි-එම්-එෆ්--ගිවිසුම-වෙනස්-වෙන්නේ-නෑ/11-411230) · `si`
-
-The IMF credit coalition, operational till 2027, remains unaffected by elections. Despite potential budget issues post-elections, the IMF has pledged 663 million rupees and will assist in budget preparation.
-
-🟩
-
-Cabinet Spokesperson Dr. Bandula Gunawardena says that the credit coalition with the International Monetary Fund is in operation until 2027 due to election or other matters.
-
-The Cabinet spokesman said this at a press briefing in the Government Information Department today (06).
-
-One of the president's government in another few months, the government is not able to make the budget, and the Ministry of Finance and the Ministry of Finance (IMF) has a foreign resource gap in 2025It is estimated that estimated on the occurrence and the IMF has promised to provide 663 million rupees.
-
-The IMF also promised to prepare the budget of the budget.
-
-◼️
-
-[Data](articles/046b28c3.json)
-
-[Extended Data](ext_articles/046b28c3.ext.json)
-
----
-
-### Sri Lanka to re-start subsidy to keep senior citizen deposit rate at 10-pct
-
-*2024-08-06 13:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-re-start-subsidy-to-keep-senior-citizen-deposit-rate-at-10-pct-175433/) · `en`
-
-ECONOMYNEXT – Sri Lanka will re-start and subsidy scheme for senior citizens to keep fixed deposit returns at 10 percent a year, Minister Bandula Gunawardana said.
-
-Market rates are now starting to fall and the government will top up the rate to keep interest yield at 10 percent, he said.
-
-The subsidies are being promised ahead of elections in September.
-
-The subsidy would apply to deposits of up to one million rupees for two years, according to a statement.
-
-The budget impact was not known but if the fixed deposit rate fell to 8.5-pct the balance would be topped up by the subsidy, he said.
-
-Sri Lanka started interest subsidies to keep rates at 15 percent but terminated them after rates cuts triggered currency trouble and stabilization required very high rates.
-
-Pension anomalies of 83,000 retirees would also be solved, he said. The cost to the tax payers is not known. (Colombo/Aug05/2024)
-
-◼️
-
-[Data](articles/f7109d5b.json)
-
-[Extended Data](ext_articles/f7109d5b.ext.json)
-
----
-
-### Petition against minimum daily wage of plantation workers withdrawn
-
-*2024-08-06 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101036/petition-against-minimum-daily-wage-of-plantation-workers-withdrawn) · `en`
-
-The petition filed by plantation companies against the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers has been withdrawn.
-
-Accordingly, the Court of Appeal has decided to conclude the proceedings related to the case today (06), Ada Derana reporter said.
-
-The petition had been filed by 21 plantation companies including Agarapatana Plantations Ltd. seeking a writ order invalidating the recent gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
-
-The petitioners had claimed that the decision taken by the Minister of Labor without consulting them regarding the matter, violates the legal principle of natural justice.
-
-Accordingly, the petitioners had sought an order invalidating the decision, claiming that the decision was made arbitrarily by the government.
-
-...
-
-[Data](articles/87039f47.json)
-
-[Extended Data](ext_articles/87039f47.ext.json)
-
----
-
-### Sajith to support Psycholant Alliance
-
-*2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199625) · `si`
-
-Opposition Leader Sajith Premadasa will back Tamil political parties under the Tamil Progressive Alliance, marking a significant move in Sri Lanka's political landscape.
-
-🟩
-
-Opposition Leader Sajith Premadasa has decided to hand over the support of the Tamil Pravicy Alliance led Tamil political parties.
-
-◼️
-
-[Data](articles/814dfb09.json)
-
-[Extended Data](ext_articles/814dfb09.ext.json)
-
----
-
-### Will Bangladesh lose their 20 womens and the World Cup?
-
-*2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199626) · `si`
-
-The ICC suggests Bangladesh might not host the Women's T20 World Cup due to uncertainty, with potential alternatives being the UAE, India, or Sri Lanka.
-
-🟩
-
-In October, the 20 women's 20 World Cup cricket tournament is uncertain.
-
-The International Cricket Council says that if the women's 20-20 World Cup will be held in Bangladesh, the United Arab Emirates, India or Sri Lanka will be held at the three countries.
-
-◼️
-
-[Data](articles/bb756c4a.json)
-
-[Extended Data](ext_articles/bb756c4a.ext.json)
-
----
-
-### Sri Lanka receives 99 complaints on violation of election laws
-
-*2024-08-06 13:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-receives-99-complaints-on-violation-of-election-laws-175438/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commissioner General of Elections has said that the office has received 99 complaints on  violations of election laws so far.
-
-The National Election Complaints Management Centre had received 68 complaints from July 31 to August 5, Saman Sri Ratnayake said in a statement.
-
-District Election Complaints Management Centres had received 68 complaints for the same period. (Colombo/Aug6/2024)
-
-◼️
-
-[Data](articles/250c43ae.json)
-
-[Extended Data](ext_articles/250c43ae.ext.json)
-
----
-
-### 155,000 million Treasury billing auction
-
-*2024-08-06 13:09:09* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-155--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411229) · `si`
-
-The Central Bank of Sri Lanka is holding a Treasury bill auction worth Rs. 155,000 million, with payments due on August 09. The auction includes Treasury bills ranging from Rs 55,000 million.
-
-🟩
-
-The Central Bank of Sri Lanka has taken measures to hold a Treasury bill auction in Rs. 155,000 million.
-
-The Central Bank says that the Treasury of Rs 55,000 million to Rs
-
-The Treasury billing and payment of payments will be made on August 09.
-
-◼️
-
-[Data](articles/741699ec.json)
-
-[Extended Data](ext_articles/741699ec.ext.json)
-
----
-
-### An interim government to Bangladesh
-
-*2024-08-06 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199624) · `si`
-
-Bangladesh's interim government, established during a crisis, is set to dissolve today.
-
-🟩
-
-Foundation is scheduled to be dissolved today (06) in the crisis today (06).
-
-◼️
-
-[Data](articles/e2d9ed1f.json)
-
-[Extended Data](ext_articles/e2d9ed1f.ext.json)
 
 ---

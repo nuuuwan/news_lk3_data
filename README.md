@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 04:36:59**
+As of **2024-08-07 04:54:56**
 
 ## Newspaper Stats
 
-*Scraped **39,386** Articles*
+*Scraped **39,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,940
-virakesarilk | 6,231
+virakesarilk | 6,232
 adaderanasinhalalk | 6,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,385 (100.0%) of 39,386 articles have been extended.
+39,386 (100.0%) of 39,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -230,21 +230,43 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 
 ---
 
-### ’மீட்சியாளர் அல்லர்; ரணில் பங்குதாரர்’
+### மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலய ஆடிப் பூர வருடாந்த உற்சவம்
+
+*2024-08-07 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190456) · `ta`
+
+மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலய ஆடிப் பூர வருடாந்த உற்சவத்தில், 07ஆம் திகதி புதன்கிழமை காலை 06.30 மணிக்கு பம்பலப்பிட்டி மாணிக்கப்பிள்ளையார் ஆலயத்தில் வசந்தமண்டப பூஜை இடம்பெறும்.
+
+லோரன்ஸ் வீதி, அமரசேகர மாவத்தை மற்றும் ஹவ்லொக் வீதி வழியாக மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயிலை வந்தடையும்.
+
+◼️
+
+[Data](articles/82c59eda.json)
+
+---
+
+### The telephone is not a restoring;Ranil Partner
 
 *2024-08-07 02:36:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்சியாளர்-அல்லர்-ரணில்-பங்குதாரர்/175-341726) · `ta`
 
-இம்முறை ஜனாதிபதி தேர்தல் ஏனைய ஜனாதிபதி தேர்தல்களை விட மிக முக்கிய தருணத்தைக் கொண்டமைகிறது என பாராளுமன்ற உறுப்பினர் பேராசிரியர் சரித ஹேரத் தெரிவித்தார்.
+In a recent media briefing, MP Professor Saritha Herath emphasized the significance of the upcoming presidential election, stating it's crucial for the country's multidimensional change. She criticized Ranil Wickremesinghe for spreading false narratives about economic recovery and not offering viable solutions. Herath argued that true economic growth benefits all people, contrasting this with Wickremesinghe's approach. She supported the United People's Power Leader Alliance, highlighting its focus on leadership, programs, and a strong team as key to national development.
 
-நாட்டில் பல்பரிமாண மாற்றம் ஒன்றை நாடு வேண்டியிருக்கும் வேளையில் இந்த ஜனாதிபதி தேர்தல் நடக்கிறது.  மறுபுறம் நான் தான் இந்த நிலையில் இருந்து காப்பாற்றினேன் என்று பொய்களை சமூகமயப்படுத்தும் போக்கை ரணில் விக்ரமசிங்க முன்னெடுத்து வருகிறார்.
+🟩
 
-பிடகோட்டையில் அமைந்துள்ள ஐக்கிய மக்கள் சக்தியின் தலமைமை அலுவலகத்தில், செவ்வாய்க்கிழமை (06)  இடம்பெற்ற  ஊடக சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+This time the presidential election is more important than other presidential elections, said MP Professor Saritha Herath.
 
-பொருளாதார மீட்சி தொடர்பான பொய்யான விடயங்களை சமூகத்துக்கு காண்பிக்கிறார்.   அவர் மீட்சியாளர் அல்ல. அவரும் இந்த பொருளாதார பிரச்சினையின் பங்குதாரர் தான் என்றார்.
+The presidential election is being held when the country needs to have a multi -dimensional change in the country.Ranil Wickremesinghe, on the other hand, is leading the tendency to socialize lies that I have saved from this position.
+
+He said this at a media briefing held at the United People's Power Headquarters Office in Bidakottai on Tuesday (06).
+
+He shows false issues on economic recovery.He is not the rest of the. He said he was a partner of this economic problem.
+
+No one else has come forward to accept. So it is absolutely wrong to say that I accepted the post of Prime Minister. Sajith sent a letter with conditions. It doesn't matter. Sarath Fonseka expressed his choice. The last government did not listen. That's why he automatically accepted their post.
 
 ...
 
 [Data](articles/2e92f288.json)
+
+[Extended Data](ext_articles/2e92f288.ext.json)
 
 ---
 
@@ -2231,35 +2253,5 @@ Accordingly, he has a vacancy at the post of Chairman on his resignation.
 [Data](articles/94e77017.json)
 
 [Extended Data](ext_articles/94e77017.ext.json)
-
----
-
-### 102 MPs to assist President
-
-*2024-08-06 13:51:02* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරු-102ක්-ජනපතිගේ-සහායට/11-411231) · `si`
-
-Dhammika Perera, nominated as the presidential candidate for the Sri Lanka Civil Front, is expected to receive support from 102 MPs across various fronts, including the Sri Lanka General Front and the United People's Front. Negotiations are reportedly complete, with key figures like President Ranil Wickremesinghe and several district representatives pledging allegiance. This move signifies a significant shift in political alliances ahead of the upcoming elections.
-
-🟩
-
-After the nomination of Parliamentarian Dhammika Perera, MP Dhammika Perera will be appointed to the presidential candidate of the Sri Lanka Civil Front.
-
-Accordingly, the MPs of the Sri Lanka General Front, representing the Ratnapura, Polonnaruwa and Ampara, is due to join the same.
-
-Political sources say that the basic negotiations are already over.
-
-The Member of the Sri Lanka General Front is due to be held tomorrow (7).
-
-According to political sources, President Ranil Wickremesinghe has decided to support President Ranil Wickremesinghe in the last general election.
-
-70 of these are the United People's United Front representatives. Thamil Mekkal Colonylai Philmana Philuwe, the Ven.. There are 13 Members of Parliament representing the party.
-
-The current number of MPs who were elected to the Colombo district at the last parliamentary election were 12 MPs. Eight of them have already come to support Ranil Wickremesinghe.
-
-...
-
-[Data](articles/54366ea2.json)
-
-[Extended Data](ext_articles/54366ea2.ext.json)
 
 ---

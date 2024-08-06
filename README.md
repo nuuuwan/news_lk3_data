@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 12:10:11**
+As of **2024-08-06 12:21:26**
 
 ## Newspaper Stats
 
-*Scraped **39,249** Articles*
+*Scraped **39,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
 adalk | 3,601
-adaderanalk | 4,554
+adaderanalk | 4,556
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,921
+tamilmirrorlk | 4,922
 virakesarilk | 6,209
 adaderanasinhalalk | 6,637
 
@@ -26,27 +26,81 @@ adaderanasinhalalk | 6,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,248 (100.0%) of 39,249 articles have been extended.
+39,249 (100.0%) of 39,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### රාජ්‍ය සේවක විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීමට අනුමැතිය
+### Cabinet nod to eliminate salary anomalies of public service pensioners
+
+*2024-08-06 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101032/cabinet-nod-to-eliminate-salary-anomalies-of-public-service-pensioners) · `en`
+
+The approval of the Cabinet of Ministers has been received for the elimination of anomalies in pensions in the government service.
+
+Issuing a statement in this regard, the Department of Government Information (DGI) said that certain groups of pensioners have experienced anomalies in their pensions due to various policy decisions taken by the Cabinet of Ministers as well as the salary revisions carried out from time to time by the government.
+
+Accordingly, it has been observed that the government officers who retired from 01 January 2016 to 01 January 2020 have confronted this injustice and that relief can be bestowed for around 83,000 retired government officials by eliminating that salary anomaly, it added.
+
+...
+
+[Data](articles/2c65ee99.json)
+
+---
+
+### Govt approves private investment for commercial Futsal courts in public sports complexes
+
+*2024-08-06 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101031/govt-approves-private-investment-for-commercial-futsal-courts-in-public-sports-complexes) · `en`
+
+The Cabinet of Minister has approved a proposal to allow a selected private investor for the construction of Futsal courts within the identified government lands and sports complexes under a public-private partnership method.
+
+Announcing the decisions arrived at by the Cabinet of Ministers during yesterday’s meeting, Cabinet Spokesman stated that Futsal - a football-based sport played on an artificial field, and an indoor court of 40x20 meters and 4 meters height has a high attraction of the public.
+
+At present, several futsal indoor stadiums have been built around the urban areas of Sri Lanka, Gunawardena added.
+
+He said that as there is a high attraction for this sport, it is expected that under a public private partnership system, a private investor will be given selected government lands and Sports Complexes on lease basis to construct Futsal courts.
+
+...
+
+[Data](articles/81d34f34.json)
+
+---
+
+### Approval to remove public servants' pension anomalies
 
 *2024-08-06 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199621) · `si`
 
-රාජ්‍ය සේවයෙහි පවතින විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීම සඳහා ජනාධිපතිවරයා විසින් ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩලය අනුමැතිය හිමිවී තිබේ.
+The President has approved a proposal to rectify pension discrepancies affecting public servants who retired between specific dates. These anomalies were caused by past government policies, leading to unfair treatment of certain retirees. The decision aims to address this issue, benefiting approximately 83,000 former public officers, aligning with financial stability and national policy objectives outlined in Public Administration Circular No. 03/2018.
 
-රජය විසින් වරින්වර සිදුකරන ලද වැටුප් සංශෝධන මෙන්ම අමාත්‍ය මණ්ඩලය විසින් ගන්නා ලද විවිධ ප්‍රතිපත්තිය තීරණ හේතුවෙන් ඇතැම් විශ්‍රාමික කණ්ඩායම්හට විශ්‍රාම වැටුප් විෂමතා නිර්මාණය වී ඇත.
+🟩
 
-ඒ අනුව, 2016-01-01 දින සිට 2020-01-01 දින දක්වා විශ්‍රාම ගන්නා ලද රාජ්‍ය නිලධාරින්ට යම් අසාධාරණයක් සිදු වී ඇති බව නිරීක්ෂණය වී ඇති අතර, එකී වැටුප් විෂමතාව ඉවත් කිරීම තුළින් විශ්‍රාමික රාජ්‍ය නිලධාරීන් 83,000ක පමණ පිරිසකට සහනයක් ලබා දීමට හැකි වේ.
+The President has approved the proposal made by the President to remove the pension anomalies in the Public Service.
 
-එම විශ්‍රාමික නිලධරයන්ගේ විශ්‍රාම වැටුප, 2018-02-25 දිනැති රාජ්‍ය පරිපාලන චක්‍රලේඛ අංක 03/2016හි උපලේඛන අංක 1 අනුව සම්පුර්ණ වැටුප පදනම් කර ගනිමින් උපරිම රුපියල් 2,500ක වැඩිවීමක් ලැබෙන පරිදි සංශෝධනය කිරීම පිණිස මුදල්, ආර්ථික ස්ථායී කරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+Pension anomalies have been created due to various policy decisions taken by the government by the government.
+
+Accordingly, there is an injustice to state officials who retired from 01-101-2016 to 20-101.0101, the removal of the salary anomalies can be relieved in 83,000 retired public officersIs.
+
+Pension of those pension officers, as per Public Administration Circular No. 03/2018, President presented the financial stable and national policy to amend the maximum wage 1.The proposal was approved by the Cabinet.
 
 ◼️
 
 [Data](articles/34d003b0.json)
+
+[Extended Data](ext_articles/34d003b0.ext.json)
+
+---
+
+### கட்டுப்பணத்தை செலுத்தினார் அநுர
+
+*2024-08-06 11:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-அநுர/175-341686) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க 2024 ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக செவ்வாய்க்கிழமை (06) கட்டுப்பணம் செலுத்தியுள்ளார்.
+
+அநுரகுமார திஸாநாயக்கவின் சார்பில் கட்டுப்பணத்தை செலுத்துவதற்காக பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், கலாநிதி ஹரிணி அமரசூரிய மற்றும் சட்டத்தரணி சுனில் வட்டகல ஆகியோர் தேர்தல்கள் ஆணைக்குழுவிற்கு வருகை தந்தனர்.
+
+◼️
+
+[Data](articles/61b412df.json)
 
 ---
 
@@ -2121,63 +2175,5 @@ Foreign media reports that the steps have been taken due to the unrest in Dhaka.
 [Data](articles/cdeb37af.json)
 
 [Extended Data](ext_articles/cdeb37af.ext.json)
-
----
-
-### The ripening of the ripening of the river
-
-*2024-08-05 20:06:13* · [`adalk`](https://www.ada.lk/picture_story/ගංඟාරාම-පොඩි-හාමුදුරුවෝ-දැයෙන්-සමුගනිති/10-411218) · `si`
-
-The cremation of Mawan Gangarakaramaya Hunupitiya Renayakara Thero took place today, conducted in a specially prepared area. The ceremony involved rituals traditionally associated with Buddhist monks' funerals, emphasizing the importance of the event and the respect for the deceased's final rites.
-
-🟩
-
-The cremation of the body of the remains of the remains of the Mawan Gangarakaramaya Hunupitiya Renayakara Thero (05) was held this afternoon.
-
-In the premises prepared at the premises of the premises, the Generagala which was admitted to a second second time when we were in a private hospital.
-
-◼️
-
-[Data](articles/91826ad9.json)
-
-[Extended Data](ext_articles/91826ad9.ext.json)
-
----
-
-### Expats Right To Vote
-
-*2024-08-05 20:05:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/expats-right-to-vote/) · `en`
-
-Gazette for Presidential Elections 2024 has been published and the political actors are busy in preparations for nominations, negotiations, making strategies for winning the election and campaigning. Businesses are looking for supporting their most favorable candidate. Political analysts are busy in listing their wish lists and few predicting who might win or lose. Journalist are having field days, getting busy promoting their perspectives of the prospective candidate(s). The public are getting ready for the mega entertainment without properly understanding impact/implications their vote may lead to the future of this nation. These are all necessities for reminding us that Sri Lanka is a democratic nation.
-
-...
-
-[Data](articles/531f247c.json)
-
-[Extended Data](ext_articles/531f247c.ext.json)
-
----
-
-### Most of the Sri Lanka Freedom Party (SLFP) supports President Ranil Wickremesinghe - Lasantha Alagavanna
-
-*2024-08-05 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190367) · `ta`
-
-The Sri Lanka Freedom Party (SLFP), with 90% approval from its Executive Council, has endorsed President Ranil Wickremesinghe for the upcoming presidential election. This move aligns with the majority of parliamentarians' support. Additionally, the government is implementing measures to combat environmental pollution from the transport sector, including issuing smoke test certificates and centralizing data on emissions for public viewing. Efforts to reduce road accidents through technological upgrades and driver education are also underway.
-
-🟩
-
-Transport Minister Lasantha Alagiyawanna said that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming presidential election and that the decision has been taken with the compliance of 90% of the Executive Council, including the majority of parliamentarians, and that the decision has been taken.
-
-The Minister of State has noted that the strong network of the Sri Lanka Freedom Party has already begun to ensure the victory of President Ranil Wickremesinghe.
-
-Transport Minister Lasantha Alagiyavanna said this while addressing a press conference held at the Presidential Media Center on Monday (05).
-
-“There are many damage to the environmental structure by the transport sector. The smoke emanating from the vehicles is the main. As a solution to this, smoke test certificate is issued. Accordingly, the quality of the country's atmosphere has been maintained in good condition.
-
-...
-
-[Data](articles/75656697.json)
-
-[Extended Data](ext_articles/75656697.ext.json)
 
 ---

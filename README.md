@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 04:07:16**
+As of **2024-08-07 04:21:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,374 (100.0%) of 39,385 articles have been extended.
+39,382 (100.0%) of 39,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The inaugural copy of this comprehensive economic plan was presented to Presiden
 
 [Data](articles/d9667c8a.json)
 
+[Extended Data](ext_articles/d9667c8a.ext.json)
+
 ---
 
 ### Sri Lanka and France to establish Regional Centre for Maritime Studies
@@ -68,6 +70,8 @@ This strategic placement leverages Sri Lanka’s geographic and academic strengt
 
 [Data](articles/e48f056c.json)
 
+[Extended Data](ext_articles/e48f056c.ext.json)
+
 ---
 
 ### EY’s experts-led discussion on Economic Transformation Bill
@@ -81,6 +85,8 @@ EY Sri Lanka and Maldives Country Managing Partner Duminda Hulangamuwa and Partn
 ...
 
 [Data](articles/b2cce7c0.json)
+
+[Extended Data](ext_articles/b2cce7c0.ext.json)
 
 ---
 
@@ -100,6 +106,8 @@ Speaking at the weekly post-Cabinet meeting media briefing yesterday, he said th
 
 [Data](articles/cca21e77.json)
 
+[Extended Data](ext_articles/cca21e77.ext.json)
+
 ---
 
 ### CDASL celebrates decade of excellence at 10th AGM
@@ -115,6 +123,8 @@ Commerce. This significant event marked a decade of dedication to promoting exce
 ...
 
 [Data](articles/8adbcc49.json)
+
+[Extended Data](ext_articles/8adbcc49.ext.json)
 
 ---
 
@@ -135,6 +145,8 @@ The deposit was placed by NPP MP Harini Amarasuriya, MP Vijitha Herath, Eranga G
 ...
 
 [Data](articles/66bfacf5.json)
+
+[Extended Data](ext_articles/66bfacf5.ext.json)
 
 ---
 
@@ -158,6 +170,8 @@ Addressing a press conference yesterday at the Samagi Jana Balawegaya (SJB) head
 
 [Data](articles/32dc6da6.json)
 
+[Extended Data](ext_articles/32dc6da6.ext.json)
+
 ---
 
 ### TPA led by Mano Ganesan to support Sajith
@@ -175,6 +189,8 @@ Also addressing the press conference, TPA Deputy Leader Palani Digambaram said P
 ...
 
 [Data](articles/44696391.json)
+
+[Extended Data](ext_articles/44696391.ext.json)
 
 ---
 

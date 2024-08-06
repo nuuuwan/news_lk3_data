@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 20:55:27**
+As of **2024-08-06 21:06:33**
 
 ## Newspaper Stats
 
-*Scraped **39,334** Articles*
+*Scraped **39,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,616
+adalk | 3,617
 adaderanalk | 4,570
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,930
 virakesarilk | 6,219
-adaderanasinhalalk | 6,657
+adaderanasinhalalk | 6,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,334 (100.0%) of 39,334 articles have been extended.
+39,334 (100.0%) of 39,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### ජා-ඇළ වෙඩිතැබීමක්
+
+*2024-08-06 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199643) · `si`
+
+පොලීසිය සඳහන් කළේ සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට කණ්ඩායමක් පිටත් කළ බවය.
+
+◼️
+
+[Data](articles/01c998f3.json)
+
+---
+
+### ශෙයික් හසීනා ගැන ඉන්දියාවෙන් ප්‍රකාශයක්
+
+*2024-08-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199642) · `si`
+
+ජනතා විරෝධය මැද ඉන්දියාවට පළාගිය බංග්ලාදේශ හිටපු අගමැතිනි ශෙයික් හසීනා සම්බන්ධයෙන් අද ඉන්දියාව ප්‍රකාශයක් සිදු කළේය.
+
+ඒ අනුව ඔහු පවසා ඇත්තේ බංග්ලාදේශයේ නීතිය සහ සාමය යළි ස්ථාපනය වන තෙක් ඉන්දියාව අවධානයෙන් පසුවන බවය.
+
+"ඉතාම කෙටි දැනුම්දීමකින් ඇය කෙටි කාලයක් සඳහා ඉන්දියාවට පැමිණීමට අවසර ඉල්ලුවා. ඒ සමගම ගුවන් කලාපය නිදහස් කරන ලෙසත් බංග්ලාදේශ බලධාරීන් ඉල්ලා සිටියා. ඇය දිල්ලි වෙත ළඟා වුණේ ඊයේ පස්වරුවේයි. බංග්ලාදේශයේ නීතිය සහ සාමය යළි ස්ථාපනය වන තෙක් අපි අවධානයෙන් සිටිනවා."
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා බංග්ලාදේශයේ තත්ත්වය පිළිබඳව සර්ව පාක්ෂික රැස්වීමක් ද කැඳවා දැනුවත් කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එම රැස්වීමෙන් අනතුරුව එස්. ජෙයිශංකර් සිය X ගිණුමේ සටහනක් ද තබා තිබුණි.
+
+ජනතා විරෝධය මැද පළාගිය ශෙයික් හසීනා දැනට ඉන්දියාවේ නවදිල්ලි නුවර ගුවන් හමුදා කඳවුරක රැඳී සිටී.
+
+ශෙයික් හසීනා ඉන්දීය ජාතික ආරක්ෂක උපදේශක අජිත් දොවාල් ද හමුවී තිබුණි.
+
+බංග්ලාදේශ නිදහස් සටනේ පුරෝගාමිය ලෙස හැඳින්වෙන ෂෙයික් හසීනාගේ පියාද වූ මුජිබර් රහ්මාන් 1975 වසරේ දී ඝාතනය වූ අවස්ථාවේදීත් හසීනා පළාගොස් තිබුණේ ඉන්දියාවටය.
+
+...
+
+[Data](articles/574d2228.json)
+
+---
 
 ### What happened to Kuwait 'Vacancy
 
@@ -171,6 +209,24 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 [Data](articles/df490f7b.json)
 
 [Extended Data](ext_articles/df490f7b.ext.json)
+
+---
+
+### ජනපතිතුමා අපිට හොඳටම සැලකුවා
+
+*2024-08-06 18:50:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිතුමා-අපිට-හොඳටම-සැලකුවා/11-411237) · `si`
+
+රනිල් වික්‍රමසිංහ  ජනාධිපතිතුමාට නැවත  එජාපය  හැදිමට  අවශ්‍ය නම්  කිරිමට  තිබුණේ සමගිජනබලවේගය කඩා එජාපය හදන එක බවත්  නමුත් ජනාධිපතිතුමා කළේ පොහොට්ටුව  කඩා එජාපය  ගොඩනැගිමේ  කටයුතු සිදුකිරිම බව ශ්‍රිලංකා පොදුජන පෙරමුණේ මහලේකම් නිතිඥ සාගර කාරියවසම් මහතා පවසයි.
+
+ජනාධිපතිතුමා ඉතාම හොදට ශ්‍රි ලංකා පොදුජනපෙරමුණට කළගුණ සැලකුවා. යැයිද  සාගර කාරියවසම් මහතා සදහන් කළේය. ශ්‍රිලංකා පොදුජන පෙරමුණේ රත්ගම ආසන බල මණ්ඩල රැස්විමට එක්වෙමින්  හෙතෙම මෙසේද කිවේය.
+
+“ජනාධිපතිතුමා ඉතාම හොදට අපිට කළගුණ සැලකුවා. සමගි ජනබලවේගය කඩලා එජාපය හදනවා වෙනුවට පොහොට්ටුවෙ අපේ මන්ත්‍රිවරුන්ට වරදාන වරප්‍රසාද දිලා කඩලා අරගෙන අද  එජාපය ගොඩනැගිමේ කාර්යයයේ එතුමා යෙදිලා ඉන්නවා. මේ රටේ ජනතාව අපේ පක්ෂය  එක්ක එකතුවුනේ එජාපය ගොඩනගන්න නෙවෙයි.
+
+ඔවුන් පක්ෂය සමග එකතුවුනේ  රටේ එකියභාවය ආරක්ෂා කරන්න.  රටේ අනාගතය වෙනුවෙන් රටේ හෙට දිනය වෙනුවෙන්  අපේ දරුවන්ගේ හෙට දිනය වෙනුවෙන්  මේ රට සුරක්ෂිත කරණ  බලාපොරොත්තුවෙන් තමයි  එකතුවුනේ. ජනතාව ඉන්නේ  පොහොට්ටුව සමගයි.. උඩින් ඔලුගෙඩි මාරුවුනාට  මහජන නියෝජිතයින් මාරුවුනාට  අපේ පාක්ෂිකයින් පක්ෂය අත්හැරගොස් නැහැ.
+
+...
+
+[Data](articles/3ebbcd42.json)
 
 ---
 
@@ -2173,89 +2229,5 @@ That the Fed printed money and delayed rate hikes to claiming inflation was due 
 [Data](articles/599473a6.json)
 
 [Extended Data](ext_articles/599473a6.ext.json)
-
----
-
-### Parrot that saved the lives of many in the landslide!
-
-*2024-08-06 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலச்சரிவில்-பலரின்-உயிரை-காப்பாற்றிய-கிளி/175-341677) · `ta`
-
-In Kerala, a raised parrot named Kingini warned its owner, Vinod, about an impending landslide, saving many lives. Over 400 deaths occurred due to landslides in Kerala, with rescue operations ongoing. Animals' awareness of natural disasters was highlighted by Kingini's actions, surprising locals including Vinod's family, friends, and neighbors who heeded the warning and evacuated safely.
-
-🟩
-
-The warning of a youth -raised parrot in Suramalai has caused many families to escape the landslide.
-
-More than 400 landslides have been killed in the state of Kerala, Mundakai, Sulmalai and Mapadi, Kerala.. With more than 150 body parts recovered, the rescue operation continues.
-
-Usually birds and animals are capable of aware of natural disasters. Thus, the incident of Kingini, a youth -raised pet of Wayanad, has been surprised by the landslide, not only his family, but also his friend and neighbors who survived the landslide.
-
-Vinod hails from Suramalai, Wayanad district. He is raising a pet clip called Kingini. Vinod and his family visited her sister's house in Colony Road before the landslide.
-
-By then, their pet had taken the Kingini with them. The next morning, Kingini suddenly caused a bustle into its cage. More. In this, the feathers of the parrot have begun to fall.
-
-...
-
-[Data](articles/8b50c595.json)
-
-[Extended Data](ext_articles/8b50c595.ext.json)
-
----
-
-### Cabinet approval for digitalization of state institutions
-
-*2024-08-06 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199616) · `si`
-
-Cabinet approves digitalization of state institutions to enhance efficiency and service quality. President Wickremesinghe presents a plan for managing information and technology across all government agencies. Measures include simplifying identification processes for citizens and foreigners, mandating passport numbers for non-citizens, and ensuring data standardization for interoperability among institutions.
-
-🟩
-
-Cabinet approval has been granted to integrate public sector IT systems to improve the efficiency and quality of public servants.
-
-Accordingly, President Ranil Wickremesinghe has presented a special memorandum to deal with the information, technology systems and data regulated by all government agencies.
-
-All government agencies are due to be made under the digitization of all government agencies and it has been approved by the Cabinet.
-
-* To downgrade the National Immediate period to identify a Sri Lankan citizen over 15 years.
-
-* Second, it is compulsory to use his passport number to identify a foreign person.
-
-* The National Identity Card number and foreign members of the local members of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners.
-
-• The data standardization is due to be able to exchange the relevant data with other institutions.
-
-◼️
-
-[Data](articles/c1462a92.json)
-
-[Extended Data](ext_articles/c1462a92.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 302.30/50 to US dollar
-
-*2024-08-06 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-302-30-50-to-us-dollar-175382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 302.30/50 to the US dollar on Tuesday, dealers said. Bond yields were steady, they said, and stocks opened up 0.02 percent.
-
-In the secondary market, treasury bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.70/80 percent, down from 10.75/80 percent.
-
-A bond maturing on 15.12.2027 was quoted at 12.00/15 percent, up from 11.80/12.05 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.35/45 percent, up from 12.30/45 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.45/50 percent, down from 12.45/55 percent.
-
-A bond maturing on 15.10.2030 was quoted at 12.75/80 percent, down from 12.75/85 percent.
-
-In equities, Colombo’s All Share Price Index opened 2.73 points higher at 11,254, while the S&P SL20 of more liquid stocks opened up at 0.09 percent or 2.86 points to 3,217.
-
-◼️
-
-[Data](articles/f5eb98ac.json)
-
-[Extended Data](ext_articles/f5eb98ac.ext.json)
 
 ---

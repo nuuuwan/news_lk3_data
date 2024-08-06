@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 10:20:50**
+As of **2024-08-06 10:36:18**
 
 ## Newspaper Stats
 
-*Scraped **39,237** Articles*
+*Scraped **39,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
-adalk | 3,598
+adalk | 3,599
 adaderanalk | 4,551
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,920
+tamilmirrorlk | 4,921
 virakesarilk | 6,209
-adaderanasinhalalk | 6,632
+adaderanasinhalalk | 6,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,232 (100.0%) of 39,237 articles have been extended.
+39,237 (100.0%) of 39,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර තැන්පතු සඳහා විශේෂ පොලී අනුපාතිකයක්
+
+*2024-08-06 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199619) · `si`
+
+වයස අවුරුදු 60ට වැඩි ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර තැන්පතු සඳහා පොලී අනුපාතිකය 10% දක්වා වැඩිකිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/1374c469.json)
+
+---
+
+### කොස් ගසක් කඩා වැටී දරුවෙක් ඇතුළු සිව්දෙනෙකුට තුවාල
+
+*2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199618) · `si`
+
+පැවති වර්ෂාවත් සමඟ හැමූ දැඩි සුළඟකින් පාදුක්ක පෝරේගෙදර ප්‍රදේශයේ නිවසක් මතට විශාල කොස් ගසක් කඩා වැටීමෙන් දරුවෙකු ඇතුළු සිව්දෙනෙකු තුවාල ලබා තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, ඊයේ (05) දින සවස් කාලයේ රෝහල්ගත කළ බව පාදුක්ක පොලීසිය පවසයි.
+
+ගස කඩා වැටීමෙන් අදාළ නිවස සම්පූර්ණයෙන්ම විනාශ වී ඇති අතර නිවස අසල නවතා තිබූ වෑන් රථයකටද දැඩි ලෙස හානි වී ඇතැයි පොලීසිය සඳහන් කරයි.
+
+හමාගිය දැඩි සුළං තත්ත්වය නිසාවෙන් විශාල කොස් ගස මුලින්ම ඉදිරි වැටී තිබේ.
+
+අනතුරින් තුවාල ලැබූ දස හැවිරිදි දරුවෙකු අඹුසැමි යුවළක් සහ අසල්වාසී කාන්තාවක් පාදුක්ක දිසාරෝහලට ඇතුළත් කිරීමෙන් පසු දෙදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කර බව ද පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/65a6b786.json)
+
+---
 
 ### Emergency guidelines and phone numbers issued for immigrant workers in Israel
 
@@ -43,6 +75,24 @@ The guidelines are issued for use in emergencies, including possible attacks und
 ◼️
 
 [Data](articles/9eeb4c12.json)
+
+[Extended Data](ext_articles/9eeb4c12.ext.json)
+
+---
+
+### மூத்த பிரஜைகளுக்கு சந்தோஷமான செய்தி
+
+*2024-08-06 09:57:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-பிரஜைகளுக்கு-சந்தோஷமான-செய்தி/175-341679) · `ta`
+
+நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சராக  ஜனாதிபதி   சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+சமகாலத்தில் நிலையான வைப்புக்களுக்கான வட்டிவீதம் 8.5  சதவீதமாகக் குறிப்பிடத்தக்களவு குறைந்துள்ளது. அதனால், அதிகமான மூத்த பிரஜைகளின் வைப்புக்களிலிருந்து பணத்தை மீளப் பெற்றுள்ளனர் என்பது கண்டறியப்பட்டுள்ளது.
+
+அதனடிப்படையில், 60 வயதுக்கு மேற்பட்ட மூத்த பிரஜைகளின் உயர்ந்தபட்சம் ஒரு மில்லியன் ரூபாய்  வரைக்குமான நிலையான வைப்புக்களுக்கான வருடாந்த வட்டிவீதத்தை 10   சதவீதமாக இரண்டு வருடங்களுக்கு வழங்குவதற்கு அங்கிகாரம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/108dff61.json)
 
 ---
 
@@ -61,6 +111,8 @@ That the Fed printed money and delayed rate hikes to claiming inflation was due 
 ...
 
 [Data](articles/599473a6.json)
+
+[Extended Data](ext_articles/599473a6.ext.json)
 
 ---
 
@@ -144,6 +196,8 @@ In equities, Colombo’s All Share Price Index opened 2.73 points higher at 11,2
 
 [Data](articles/f5eb98ac.json)
 
+[Extended Data](ext_articles/f5eb98ac.ext.json)
+
 ---
 
 ### Umachandra Prakash as the Chief Organizer of the Northern Province
@@ -200,6 +254,8 @@ The communiqué was published in accordance with the powers vested in the Presid
 
 [Data](articles/bfa5b552.json)
 
+[Extended Data](ext_articles/bfa5b552.ext.json)
+
 ---
 
 ### Parliamentary Council begins
@@ -215,6 +271,20 @@ The Parliamentary Council has started its session, focusing on legislative discu
 [Data](articles/63b136d3.json)
 
 [Extended Data](ext_articles/63b136d3.ext.json)
+
+---
+
+### දුම්රිය ධාවනයට බාධා
+
+*2024-08-06 09:22:34* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ධාවනයට-බාධා/11-411219) · `si`
+
+කොළඹ කොටුව දුම්රිය ස්ථානයෙන් ආරම්භ කරනු ලබන දුම්රියන් හී ප්‍රමාදයක් සහ දුම්රිය අවලංගු කිරීමක් සිදුව තිබේ.
+
+දෙමටගොඩ ධාවනාගාරයේ සේවකයන් රාජකාරී කටයුතු වලින් ඉවත්වීම හේතුවෙන් මෙලෙස දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව දුම්රිය පාලක මැදිරිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a6a4dffb.json)
 
 ---
 
@@ -805,6 +875,8 @@ Markets were buoyed by claims that upcoming rate cuts by the Fed would lead to l
 ...
 
 [Data](articles/3c8839d7.json)
+
+[Extended Data](ext_articles/3c8839d7.ext.json)
 
 ---
 
@@ -2109,97 +2181,5 @@ Their departed flight landed at the Hindon Air Force Base near New Delhi. It is 
 [Data](articles/8bb10577.json)
 
 [Extended Data](ext_articles/8bb10577.ext.json)
-
----
-
-### Extension
-
-*2024-08-05 19:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-நீடிப்பு/175-341640) · `ta`
-
-Due to delays in postal services and public requests, the deadline for postal voting application submissions has been extended to August 9th, as announced by Election Commissioner Saman Sri Ratnayake.
-
-🟩
-
-As the presidential election has been announced, the deadline for submitting applications for postal voting has been extended.
-
-According to the Commissioner General of Elections Saman Sri Ratnayake, the deadline for accepting postal voting applications, which will be completed at 12 midnight today (05), will be extended till August 9th.
-
-The decision has been taken in view of the delay in the postal and the request issued to the Commission. Remble
-
-◼️
-
-[Data](articles/be743717.json)
-
-[Extended Data](ext_articles/be743717.ext.json)
-
----
-
-### Sheikh Hasina's saree tied up
-
-*2024-08-05 19:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனாவின்-சேலையை-கட்டி-ஆட்டம்/50-341639) · `ta`
-
-Sheikh Hasina, former PM of Bangladesh, resigned amid public unrest and left for London via New Delhi, seeking asylum. Her departure sparked speculation about her future plans and safety.
-
-🟩
-
-It is reported that Sheikh Hasina has left London, who resigned as Prime Minister of Bangladesh as a result of the popular rebellion.
-
-Sheikh Hasina, who was the Prime Minister of Bangladesh, resigned from his post this afternoon. Subsequently, he departed from Kanababan with his sister Hack Rayana on a military flight from Bangladesh at 2.30 pm. It was reported that their departed flight was heading to New Delhi via Tripura. The PDI news agency reported that they left for the UK capital London.
-
-It has been reported that Sheikh Hasina and her sister can come to New Delhi and then go to London or stay in New Delhi.. It is reported that Sheikh Hasina has sought refuge with the UK government. Sheikh Rahana is said to be a UK citizen and therefore, Sheikh Hasina has decided to stay with London.
-
-At this juncture, a photo of a man built by a fighting car for former Bangladesh Prime Minister Sheikh Hasina has gone viral on social media.
-
-◼️
-
-[Data](articles/5ade8911.json)
-
-[Extended Data](ext_articles/5ade8911.ext.json)
-
----
-
-### Shehan from buds to Secretary to the Secretary General
-
-*2024-08-05 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/ෂෙහාන්ගෙන්-පොහොට්ටු-මහ-ලේකම්ට-ලිපියක්/11-411216) · `si`
-
-Shehan Semasinghe, Minister of State, supports Ranil Wickremesinghe, stating all party members backed him during the 2022 economic crisis. This stance was communicated in a letter to the SLPF General Secretary, emphasizing individual freedom regarding party decisions.
-
-🟩
-
-Minister of State Shehan Semasinghe said that if the Sri Lanka General Front is taking action to support Mr. Ranil Wickremesinghe, he said.
-
-This is stated in a letter to the Sri Lanka Penuparangama Front (SLPF) General Secretary Sagara Kariyawasam. He also said that all members of the party supported Ranil Wickremesinghe in the 2322 economic crisis in the year-ended economic crisis.
-
-The verdict has taken the verdict by Mr. Semasinghe said.
-
-He said he or his supporters were not obliged to a decision taken by several party members.
-
-◼️
-
-[Data](articles/35859980.json)
-
-[Extended Data](ext_articles/35859980.ext.json)
-
----
-
-### Secretary to the Secretary-General in Semasinghe
-
-*2024-08-05 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199596) · `si`
-
-State Minister Shehan Semasinghe responded to a letter from the Sri Lanka General Front, clarifying that his party and its members are not bound by a proposal made by their political board on July 29. He assured State Secretary Mr. Shi Jahan Semasinghe that despite facing challenges, he remains committed to making necessary decisions for the country.
-
-🟩
-
-State Minister of State Shehan Semasinghe has written to him Mr. Shi Jahan Semasinghe responding to the recent letter of the Sri Lanka General Front.
-
-It has pointed out that the party and her party members are not obliged to the proposal to be adopted by the party's political board on July 29.
-
-He has told State Shehan Semasinghe said that the disciplinary action is taken and the challenge of the country is not hesitant to make proper decisions.
-
-◼️
-
-[Data](articles/1adf8b05.json)
-
-[Extended Data](ext_articles/1adf8b05.ext.json)
 
 ---

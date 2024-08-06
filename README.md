@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 13:55:37**
+As of **2024-08-06 14:07:40**
 
 ## Newspaper Stats
 
-*Scraped **39,272** Articles*
+*Scraped **39,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
-adalk | 3,605
-adaderanalk | 4,561
+adalk | 3,606
+adaderanalk | 4,562
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,923
 virakesarilk | 6,209
-adaderanasinhalalk | 6,642
+adaderanasinhalalk | 6,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,272 (100.0%) of 39,272 articles have been extended.
+39,272 (100.0%) of 39,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Nearly 100 complaints of election law violations received thus far
+
+*2024-08-06 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101038/nearly-100-complaints-of-election-law-violations-received-thus-far-) · `en`
+
+The Election Commission says that a total of 99 complaints have been received as of 05.00 p.m. on Monday (Aug 05), pertaining to the 2024 Presidential Election.
+
+The election regulatory body said that this includes 68 complaints received by the National Centre for Election Complaint Management and 31 complaints received by the District Centres for Election Complaint Management
+
+All complaints received thus far are related to breaches of election laws, according to the commission.
+
+◼️
+
+[Data](articles/a94c3abf.json)
+
+---
+
+### මැතිවරණ පැමිණිලි තවත් ඉහළට
+
+*2024-08-06 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199627) · `si`
+
+ජනාධිපතිවරණයට අදාළව මැතිවරණ පැමිණිලි 99ක් මේ වනවිට ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එම කොමිසම සඳහන් කරන්නේ, ජුලි 31 වනදා සිට ඊයේ (05) පස්වරු 05 දක්වා එම පැමිණිලි වාර්තා වූ බවය.
+
+◼️
+
+[Data](articles/4b61f6df.json)
+
+---
 
 ### Tamil Progressive Alliance to back Sajith in Presidential Poll
 
@@ -366,6 +396,20 @@ Accordingly, it has been observed that the government officers who retired from 
 
 ---
 
+### වාණිජ පුපුරණ ද්‍රව්‍ය ‍තොගයක් නාවික හමුදා භාරයට
+
+*2024-08-06 11:58:49* · [`adalk`](https://www.ada.lk/breaking_news/වාණිජ-පුපුරණ-ද්‍රව්‍ය-‍තොගයක්-නාවික-හමුදා-භාරයට/11-411223) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව මන්නාරම සවුත්බාර් ප්‍රදේශයේ 2024 අගෝස්තු මස 05 වන දින සිදුකළ සෝදිසි මෙහෙයුමකදී, එම ප්‍රදේශයේ සඟවා තිබූ ජෙලට්නයිට් නමැති වාණිජ පුපුරණ ද්‍රව්‍ය කූරු හැටක් (60), විදුලි නොවන ඩෙට‍නේටර් තිහක් (30), C4 වර්ගයේ පුපුරණ ද්‍රව්‍ය ග්‍රෑම් තුන්සියය පනහක ප්‍රමාණයක් (350g) සමඟ එම පුපුරණ ද්‍රව්‍ය ප්‍රවාහනය කල බවට සැකකෙරෙන කැබ් රථයක් (01) නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+
+පුපුරණ ද්‍රව්‍ය භාවිතයෙන් සිදු කරනු ලබන නීති විරෝධී ධීවර කර්මාන්තය හේතුවෙන් සාගරික පරිසර පද්ධතියට සිදුවන හානිය වැළැක්වීම සඳහා නාවික හමුදාව නිරන්තර අවධානයෙන් සිටිමින් සෝදිසි මෙහෙයුම් සිදු කරනු ලබයි.
+
+...
+
+[Data](articles/81b42d53.json)
+
+---
+
 ### Govt approves private investment for commercial Futsal courts in public sports complexes
 
 *2024-08-06 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101031/govt-approves-private-investment-for-commercial-futsal-courts-in-public-sports-complexes) · `en`
@@ -406,7 +450,7 @@ In July, Sri Lanka’s private sector trade body was in negotiations with Indone
 
 ---
 
-### Sri Lanka Plans Preferential Trade Agreement with Indonesia next March
+### Sri Lanka plans to ink Preferential Trade Agreement with Indonesia next March
 
 *2024-08-06 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-preferential-trade-agreement-with-indonesia-next-march-175418/) · `en`
 
@@ -2111,61 +2155,5 @@ The 2024 Geoffrey Bawa Memorial Lecture will be delivered by architect and educa
 [Data](articles/eb59e90e.json)
 
 [Extended Data](ext_articles/eb59e90e.ext.json)
-
----
-
-### Hatch appoints Dilhan Fernando as chairman
-
-*2024-08-05 22:34:00* · [`islandlk`](http://island.lk/hatch-appoints-dilhan-fernando-as-chairman/) · `en`
-
-Hatch has officially announced the appointment of Dilhan Fernando as their new Chairman, marking a significant milestone for the organization. Dilhan, who is also the Chairman, CEO, and Executive Director of Dilmah Tea, brings a wealth of experience and a strong commitment to sustainability and innovation, which have been instrumental in maintaining Dilmah’s leadership in the global tea industry.
-
-Under Dilhan’s guidance, Dilmah has not only excelled in growing a globally renowned high-quality tea brand but has also prioritized social and environmental initiatives through the MJF Charitable Foundation and Dilmah Conservation. His dedication to community welfare and environmental stewardship reflects a deep-rooted commitment to making a positive impact beyond business.
-
-...
-
-[Data](articles/06fc2bc4.json)
-
-[Extended Data](ext_articles/06fc2bc4.ext.json)
-
----
-
-### Mimi Nicklin live in Colombo: ‘Understand the Power of Emotional Intelligence in Leadership’
-
-*2024-08-05 22:33:00* · [`islandlk`](http://island.lk/mimi-nicklin-live-in-colombo-understand-the-power-of-emotional-intelligence-in-leadership/) · `en`
-
-Mimi Nicklin, the acclaimed author, CEO, and multi-award-winning founder of Empathy Everywhere, will be presenting a LIVE masterclass in Colombo on the 15th of August 2024.
-
-This highly anticipated masterclass titled “Embrace the Power of Emotional Intelligence in Leadership” follows her previously sold out masterclass in June this year. The masterclass will take place at the Galadari Hotel Colombo, in partnership with Sri Lanka’s leading training organisation, RH Training, from 9am to 1pm. Participants will have the opportunity to learn from Mimi, who is one of the foremost experts on global leadership, and understand why emotional intelligence is the most valuable dataset in the 21st century.
-
-...
-
-[Data](articles/1d6f4bab.json)
-
-[Extended Data](ext_articles/1d6f4bab.ext.json)
-
----
-
-### Even though Relo supports the Tamil general candidate, my support is not:
-
-*2024-08-05 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190370) · `ta`
-
-Relo supports the Tamil general candidate but opposes the idea due to lack of support among the Vanni people. The Tamil National Party, including the Tamil National Alliance (TNA), receives support, but the Tamil vote is divided, potentially affecting the general candidate's success.
-
-🟩
-
-Relo supports the Tamil public author. Vannodharadalingam of the Tamil Eelam Liberation Movement (Relo) of the Tamil Eelam Liberation Movement (Relo) said that this decision was the decision of the people of the Vanni people.
-
-He said this while responding to a question raised by a journalist on Monday (05.08) as to what their position was about the Tamil general candidate.. As he continues,
-
-Relo party supports common candidate. But I do not agree. It is a sapling exam. I have heard the views of the Vanni people. Their position is my position. The general candidate has no support in the Vanni.
-
-The general candidate is not going to win. The Tamil people, including Samasti, praise the aspirations of the Tamil people. But when he gets less votes, there will be a look that the aspirations of the people are not recognized by the Tamil people.
-
-...
-
-[Data](articles/0ec67436.json)
-
-[Extended Data](ext_articles/0ec67436.ext.json)
 
 ---

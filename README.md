@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 22:09:08**
+As of **2024-08-06 22:20:46**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 6,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,339 (100.0%) of 39,343 articles have been extended.
+39,343 (100.0%) of 39,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### මැතිවරණ පැමිණිලි සියය ඉක්මවයි
+### Election complaints exceeding 100
 
 *2024-08-06 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199646) · `si`
 
-ජනාධිපතිවරණයට අදාළව මැතිවරණ පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් ඇතැයි මැතිවරණ කොමිෂන් සභාව පවසයි.
+The number of election-related complaints has risen significantly since the last presidential election, according to the Elections Commission. From July 31, there have been 121 such complaints filed.
 
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පවසන්නේ ජුලි 31 වනදා සිට මේ දක්වා මැතිවරණ පැමිණිලි 121ක් වාර්තා වී ඇති බවය.
+🟩
+
+The number of elections complaints have increased in relation to the presidential election, says the Elections Commission.
+
+In a statement, 121 election related complaints have been reported from 31st July 31.
 
 ◼️
 
 [Data](articles/7f2d730d.json)
 
+[Extended Data](ext_articles/7f2d730d.ext.json)
+
 ---
 
-### තවත් වෙඩිතැබීමක් ගම්පහ
+### Another shot of shooting Gampaha
 
 *2024-08-06 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199645) · `si`
 
+A 29-year-old man was shot twice in Gampaha last night by two unknown individuals who approached him while he was driving. He was taken to the hospital for treatment.
+
+🟩
+
 අද (06) රාත්‍රී කාලයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු ඉලක්ක කර තවත් යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර පළාගොස් ඇත.
 
-වෙඩිවැදුණු 29 හැවිරිදි පුද්ගලයා ප්‍රතිකාර සඳහා ගම්පහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+The 29-year-old man was admitted to the Gampaha Hospital for treatment.
 
 ◼️
 
 [Data](articles/8df37bb7.json)
+
+[Extended Data](ext_articles/8df37bb7.ext.json)
 
 ---
 
@@ -64,15 +76,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-06 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199644) · `si`
 
+Dhammika Perera opposes Sri Lanka Podujana Peramuna's choice for the upcoming presidential election, reportedly rejecting the proposed candidate. Political insiders suggest Namal Rajapaksa may be considered instead.
+
+🟩
+
 මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකත්වය භාර ගැනීම ධම්මික පෙරේරා මහතා විසින් ප්‍රතික්ෂේප කර ඇති බවට දේශපාලන ආරංචි මාර්ග පවසයි.
 
-ඒ අනුව ජනාධිපති අපේක්ෂකත්වය භාර නොගන්නා බවට දන්වමින් පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා පක්ෂයට ලිපියක් යොමු කර ඇති බවද වාර්තා වෙයි.
+It is reported that MP Dhammika Perera has sent a letter to the party informing that the presidential candidate is not accepted.
 
-දේශපාලන ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ පවතින තත්ත්වය තුළ ඉදිරි ජනාධිපතිවරණයේ පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ නම් කිරීමට සාකච්ඡා කරමින් ඇති බවය.
+Political sources further stated that Namal Rajapaksa is being tabled as the candidate of the next presidential election.
 
 ◼️
 
 [Data](articles/35ba6920.json)
+
+[Extended Data](ext_articles/35ba6920.ext.json)
 
 ---
 
@@ -248,19 +266,27 @@ It is noteworthy that the railway staff engaged in the workplace as the employee
 
 ---
 
-### කැලණිවැලි කෝච්චි පාර දෙපැත්තේ අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවලට
+### Kelanii Kachchi road roads on two sides of unauthorized occupants to other places
 
 *2024-08-06 19:13:06* · [`adalk`](https://www.ada.lk/breaking_news/කැලණිවැලි-කෝච්චි-පාර-දෙපැත්තේ-අනවසර-පදිංචිකරුවන්-වෙනත්-ස්ථානවලට/11-411240) · `si`
 
-පැඟිරිවත්ත දුම්රිය ස්ථානයේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා කැලණිවැලි දුම්රිය මාර්ග රක්ෂිතයේ පදිංචිව සිටින අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවල පදිංචි කරවීම සඳහා කැබිනට් අනුමැතිය ලබාදී තිබේ.
+Unauthorized settlers from the Maligawatta area, using local funds, have been relocated from the Colombo District Railway Station to other areas. The government plans to provide housing facilities through the Urban Development Authority and the Railway Harbana Project, aiming to resettle around 350 families affected by this relocation.
 
-කොළඹ තදාසන්න දුම්රිය මාර්ග ව්‍යාපෘතිය යටතේ දේශීය අරමුදල් යොදා ගනිමින් මාළිගාවත්ත ලොකෝ මංසන්ධියේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා දුම්රිය මාර්ග රක්ෂිතයේ අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවල පදිංචි කරන අතර මේ වන විට කිරුළපන දුම්රිය ස්ථානය දක්වා වන කොටසේ අනවසර පදිංචිකරුවන් ප්‍රතිස්ථාපන කටයුතු අවසන් කර ඇති බව රජය පවසයි.
+🟩
 
-පැඟිරිවත්ත දුම්රිය ස්ථානයේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා කොටසෙහි දුම්රිය රක්ෂිතයේ පදිංචිකරුවන්ගෙන් වැඩි ප්‍රතිශතයක් වසර 30 කට අධික කාලයක් දුම්රිය රක්ෂිතයේ අනාරක්ෂිත ලෙස අනවසරයෙන් ජීවත් වන අතර, ඔවුන්ගෙන් පවුල් 350 ක් පමණ නැවත පදිංචි කිරීම සඳහා හඳුනා ගෙන ඇත.
+From Piyanuwewa Railway Station from Piyadukka to Padukka
 
-...
+U unauthorized residents of the Maligawatta Local Funds have been settled in other places using local funds from the Colombo District Railway Station.
+
+A large percentage of the residents of the Railway Residents from the Piyukka Railway Station from Padukka to Padukka are unafe and have been identified to resettle from 350 families.
+
+Accordingly, the Cabinet of Transport and Highways has been approved by the Cabinet of Transport and Highways to facilitate housing facilities in the Colombo Mawatha of Urban Development Authority and Railway Harvana Project..
+
+◼️
 
 [Data](articles/f048a845.json)
+
+[Extended Data](ext_articles/f048a845.ext.json)
 
 ---
 

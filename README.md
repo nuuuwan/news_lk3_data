@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 19:36:12**
+As of **2024-08-06 19:54:44**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,328 (100.0%) of 39,330 articles have been extended.
+39,330 (100.0%) of 39,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### காணாமல் போன ரயில் ஊழியர் சடலமாக மீட்பு
+### Recovery of missing train employee
 
 *2024-08-06 19:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-ரயில்-ஊழியர்-சடலமாக-மீட்பு/175-341700) · `ta`
 
-முற்ற வளாகத்தில் அமைந்துள்ள பாதுகாப்பற்ற கிணறு ஒன்றில் இருந்து அவரது சடலம் கண்டு பிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+A train employee was found dead in a well on the station grounds. Despite the railway staff's lack of immediate action after his disappearance, his body was eventually discovered in the unsafe well.
 
-குறித்த ஊழியர் காணாமல் போன நிலையில், அவரை கண்டுபிடிப்பதற்கான நடவடிக்கைகளை அரசாங்கம் எடுக்காத நிலையில், குறித்த ரயில் நிலைய ஊழியர்கள் பணிப்புறக்கணிப்பில் ஈடுபட்டமை குறிப்பிடத்தக்கது. R
+🟩
+
+It is reported that his body has been found from an unsafe well located on the courtyard.
+
+It is noteworthy that the railway staff engaged in the workplace as the employee did not take steps to find him in the wake of the disappearance of the employee.. Remble
 
 ◼️
 
 [Data](articles/67181ae1.json)
+
+[Extended Data](ext_articles/67181ae1.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 ...
 
 [Data](articles/bbbcb063.json)
+
+[Extended Data](ext_articles/bbbcb063.ext.json)
 
 ---
 

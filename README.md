@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 00:09:38**
+As of **2024-08-07 00:21:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,358 (100.0%) of 39,361 articles have been extended.
+39,361 (100.0%) of 39,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,8 @@ Most ethnic minority parties in Sri Lanka usually demand cabinet portfolio to pl
 ...
 
 [Data](articles/9227752f.json)
+
+[Extended Data](ext_articles/9227752f.ext.json)
 
 ---
 
@@ -222,19 +224,31 @@ Two persons were injured in two different shootings reported today in Gampaha an
 
 ---
 
-### தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடி நிலையே ஏற்படும் -  அமைச்சர் ஜீவன்
+### The crisis will be again in the wrong decisions - Minister Jeevan
 
 *2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190435) · `ta`
 
-நாட்டில் கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார். தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை  அனைவரும் புரிந்து கொள்ள வேண்டும் என அமைச்சர் ஜீவன் தொண்டமான்  தெரிவித்தார்.
+Minister Jeevan warns of future crises due to poor decisions, despite President Wickremesinghe's efforts to improve the economy. The nation remains skeptical about recovery post-pandemic, with concerns also extending to external issues like the situation in Bangladesh.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (6) இடம்பெற்ற மாத்தறை நில்வலா கங்கையை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு திட்டம் மூலமான சிக்கல் தொடர்பில் சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார். தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை  அனைவரும் புரிந்து கொள்ள வேண்டும்.
+No one believes that the country can recover from the past two years. However, President Ranil Wickremesinghe has brought the country's economy to better. Minister Jeevan Thondaman said that everyone should understand that the wrong decisions will occur again.
+
+He said this while addressing the issue of adjournment issue on the issue of the construction of the Matara Nilwala Ganga, which was held in Parliament on Tuesday (6).
+
+No one believes that the country can recover from the past two years. However, President Ranil Wickremesinghe has brought the country's economy to better. Everyone must understand that the wrong decisions will occur again.
+
+The belief that we can get better than that before it is before it
+
+President Ranil Wickremesinghe has done the same thing to think and act without feelings of feelings.
+
+Think about the situation and think about where we are at present. It is not only a solution to the problems but the lack of stability.
 
 ...
 
 [Data](articles/c44da182.json)
+
+[Extended Data](ext_articles/c44da182.ext.json)
 
 ---
 
@@ -735,6 +749,8 @@ Mano Ganeshan, the leader of TPA said the party decided unanimously “to extend
 ...
 
 [Data](articles/5cc7fc0f.json)
+
+[Extended Data](ext_articles/5cc7fc0f.ext.json)
 
 ---
 

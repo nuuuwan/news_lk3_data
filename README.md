@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 21:21:20**
+As of **2024-08-06 21:36:07**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,337 (100.0%) of 39,339 articles have been extended.
+39,339 (100.0%) of 39,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### தம்மிக்க கடிதம் எழுதினார்
+### Wrote the letter of Tammika
 
 *2024-08-06 21:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்மிக்க-கடிதம்-எழுதினார்/175-341716) · `ta`
 
-தான்  ஜனாதிபதி தேர்தலில் போட்டியிடவில்லை என நாடாளுமன்ற உறுப்பினர் தம்மிக்க பெரேரா  பொதுஜன பெரமுனவின் செயலாளர் சாகர காரியவசத்திற்கு  கடிதம் எழுதியுள்ளார்.
+Parliamentarian Dhammika Perera wrote to Sagara Kariyawasam's secretary regarding an unspecified matter.
+
+🟩
+
+Parliamentarian Dhammika Perera has written to Sagara Kariyawasam's secretary of the PA.
 
 ◼️
 
 [Data](articles/609111bf.json)
+
+[Extended Data](ext_articles/609111bf.ext.json)
 
 ---
 
@@ -77,6 +83,8 @@ The Program will support the establishment of independent and financially sustai
 ...
 
 [Data](articles/c71c38e8.json)
+
+[Extended Data](ext_articles/c71c38e8.ext.json)
 
 ---
 

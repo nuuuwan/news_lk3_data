@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 09:36:24**
+As of **2024-08-06 09:55:38**
 
 ## Newspaper Stats
 
-*Scraped **39,227** Articles*
+*Scraped **39,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,117 +20,163 @@ adaderanalk | 4,549
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,917
 virakesarilk | 6,209
-adaderanasinhalalk | 6,630
+adaderanasinhalalk | 6,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,219 (100.0%) of 39,227 articles have been extended.
+39,227 (100.0%) of 39,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### අරුණ දර්ශනගේ අවසන් පූර්ව වටය අද රාත්‍රියේ
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-08-06 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199615) · `si`
+
+◼️
+
+[Data](articles/63b136d3.json)
+
+---
+
+### Aruna footage's final round
 
 *2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199613) · `si`
 
-මෙවර ඔලිම්පික් උළෙලේ පිරිමි මීටර් 400 ඉසව්වේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබූ අරුණ දර්ශන සහභාගී වන තරගය අද (06) පැවැත්වීමට නියමිතව තිබේ.
+Aruna Footage advances to the semi-finals of the 400m event at this year's Olympics, setting a personal best time of 44 seconds. The competition takes place in Sri Lanka tonight at 11:30 pm, following his performance in the 500m event earlier.
 
-අද රාත්‍රී ශ්‍රී ලංකා වේලාවෙන් රාත්‍රී 11.5ට පමණ අරුණ දර්ශන සහභාගී වන තරගය පැවැත්වීමට නියමිත බව වාර්තා වේ.
+🟩
 
-මීටර් 400 ඉසව්වේ මූලික වටයේ 5 වෙනි තරගයට සහභාගී වූ අරුණ දර්ශන එහිදී තෙවන ස්ථානය හිමිකරගනු ලැබීය.
+This year's Olympic Games, the participation of Aruna footage is scheduled to be played to the semi-finals of the 400m event today.
 
-එහිදී අරුණ දර්ශන තත්ත්පර 44 දශම 9.9කින් තරගය අවසන් කළ අතර එය ඔහුගේ පෞද්ගලික හොඳම කාලය ලෙස සැලකේ.
+It is reported that the Aruna footage will be held at Sri Lanka at about 11.5 pm today.
+
+The third scene was held at the 500m event.
+
+The Aruna scenes ended up to 44 decimals, and it is considered to be his personal best time.
 
 ◼️
 
 [Data](articles/ae986000.json)
 
+[Extended Data](ext_articles/ae986000.ext.json)
+
 ---
 
-### බංග්ලාදේශ හිටපු අගමැතිනී ඇතුළු පිරිසකට නිදහස
+### Bangladesh Prime Minister and others released
 
 *2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199614) · `si`
 
-බන්ධනාගාරගතව සිටි බංග්ලාදේශයේ හිටලු අග්‍රාමාත්‍ය ඛලීඩා ෂියා නිදහස් කිරීමට එරට ජනාධිපතිවරයා පියවර ගෙන තිබේ.
+Bangladesh's President has ordered the release of imprisoned Prime Minister Khaleda Zia, marking a significant political move.
+
+🟩
+
+The President has taken steps to release Prime Minister Khaleda Shia in Bangladesh, who was in prison.
 
 ◼️
 
 [Data](articles/b8ef5f80.json)
 
+[Extended Data](ext_articles/b8ef5f80.ext.json)
+
 ---
 
-### கையை தேடுகிறார் ஆணைக்குழு தவிசாளர்
+### The Commission is looking for the hand
 
 *2024-08-06 09:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341670) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான நடவடிக்கைகள் சூடுபிடித்துள்ள நிலையில், தேர்தல்கள் ஆணைக்குழுவின் செயற்பாடுகளும் தீவிரப்படுத்தப்பட்டுள்ளன. இந்நிலையில், பத்திரிகைகளின் பிரதம ஆசிரியர்களை, தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர், செவ்வாய்க்கிழமை (06) சந்திக்கின்றார்.
+The Elections Commission intensifies efforts post-presidential election, seeking guidance from the Attorney General on handling factions within the Sri Lanka Freedom Party (SLFP). The SLFP has divided into three groups, each backing different candidates for the upcoming elections. The Commission awaits the Attorney General's advice on which group to engage with, highlighting the significance of the "hand" symbol of the SLFP in this context.
 
-இவ்வாறான நிலையிலேயே  ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்த பிரிவை கையாள வேண்டும் என தேர்தல்கள் ஆணைக்குழு, சட்டமா அதிபரிடம் எழுத்து மூலம் கேட்டுள்ளது.
+🟩
 
-இதனால், சட்டமா அதிபரிடமிருந்து தீர்மானம் கிடைத்தவுடன் ஆணைக்குழு கூடி இவ்விடயம் தொடர்பில் முடிவெடுக்கும் என தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+With the election of the presidential election, the activities of the Elections Commission have been intensified. In this case, the Chairman of the Elections Commission will meet the editors of the newspapers on Tuesday (06).
 
-எதிர்வரும் தேர்தல் கடமைகளில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்தப் பக்கத்தை ஏற்றுக்கொள்ள வேண்டும் என்ற பிரச்சினை எழுந்துள்ள நிலையில், சட்டமா அதிபரிடம் பின்வருமாறு கருத்துக் கேட்பதற்கு ஆணைக்குழு தீர்மானித்துள்ளது.
+It is in this context that the Elections Commission has asked the Attorney General to hand over which section of the Sri Lanka Freedom Party to handle.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சி தற்போது மைத்திரிபால சிறிசேன அணி, அமைச்சர் நிமல் சிறிபால டி சில்வா அணி, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர அணி என மூன்று அணிகளாக பிளவுபட்டுள்ளது.
+The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the Commission would convene on the issue once the decision was received from the Attorney General.
+
+The Commission has decided to comment to the Attorney General as the issue of which side of the Sri Lanka Freedom Party (SLFP) should be accepted in the upcoming election duties.
+
+The Sri Lanka Freedom Party (SLFP) has now split into three teams: Maithripala Sirisena, Minister Nimal Siripala de Silva and Member of Parliament Dayasiri Jayasekara.
 
 ...
 
 [Data](articles/677b2212.json)
 
+[Extended Data](ext_articles/677b2212.ext.json)
+
 ---
 
-### ’உள்ளாடைகளை’ அள்ளிய வன்முறையாளர்கள்
+### Violence of the model underwear
 
 *2024-08-06 09:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உள்ளாடைகளை-அள்ளிய-வன்முறையாளர்கள்/50-341669) · `ta`
 
-வங்கதேச முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் மாளிகையை சூறையாடிய வன்முறைக் கும்பல் அவரது வீட்டில் இருந்த உள்ளாடைகளையும் கூட அள்ளிச் சென்றது. ஒரு சிலரோ ஷேக் ஹசீனா வீட்டில் கொள்ளையடித்த சேலைகளை அங்கேயே அணிந்து போட்டோக்களுக்கு போஸ் கொடுத்த சம்பவங்களும் நிகழ்ந்துள்ளன.
+A violent mob stormed Sheikh Hasina's palace, looting her underwear among other items, after she was ousted from power by student-led protests advocating for reservation rights. The unrest resulted in over 300 deaths and forced Hasina to flee to India.
 
-இடஒதுக்கீட்டை எதிர்த்து போராடிய மாணவர்கள் பெயரிலான கும்பல்தான் இத்தகைய அட்டூழியங்களை செய்ததாக வங்கதேச ஊடகங்கள் தெரிவித்துள்ளன.
+🟩
 
-வங்கதேசத்தின் தந்தை முஜிபுர் ரஹ்மானின் மகள் ஷேக் ஹசீனா , 16 ஆண்டுகள் அந்த நாட்டின் பிரதமராக பதவி வகித்தார். வங்கதேச விடுதலைக்கு போராடியவர்களுக்கு இடஒதுக்கீடு வழங்கியதற்கு மாணவர்களின் பெயரில் பெரும் புரட்சி ஏற்பட்டது. இந்த புரட்சிதான் ஷேக் ஹசீனாவின் ஆட்சியையே கவிழ்த்துவிட்டது.
+The violent mob looted the palace of former Bangladeshi Prime Minister Sheikh Hasina and even took off his home underwear. There have also been incidents of a few people who have been robbed at Sheikh Hasina's house and posed for photos.
 
-கடந்த சில மாதங்களாக மாணவர்கள் நடத்திய போராட்டம் மிகப் பெரும் வன்முறையாக வெடித்தது. பாதுகாப்புத் தரப்பில் பலர் கொல்லப்பட்டதால் ஈவு இரக்கமே இல்லாமல் துப்பாக்கிச் சூட்டு சம்பவங்கள் நிகழ்த்தப்பட்டன. இதில் 300க்கும் மேற்பட்டோர் கொல்லப்பட்டனர்.
+The Bangladeshi media has reported that such atrocities have been done by the mob in the name of students who fought against the reservation.
+
+Sheikh Hasina, daughter of Bangladesh's father Mujibur Rahman, has been the Prime Minister of the country for 16 years. There was a great revolution in the name of students for reservation for those who fought for liberation of Bangladesh. It was this revolution that toppled the rule of Sheikh Hasina.
+
+The struggle of the students over the past few months erupted in a huge violent violence. Since many were killed in the security side, the incident took place without mercy. More than 300 people were killed.
 
 ...
 
 [Data](articles/b22aafd1.json)
 
+[Extended Data](ext_articles/b22aafd1.ext.json)
+
 ---
 
-### வங்கதேசத்தில் தொடரும் பதற்றம்:  கோயில்கள் மீது தாக்குதல்
+### Continuing tension in Bangladesh: Attack on temples
 
 *2024-08-06 09:02:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தொடரும்-பதற்றம்-கோயில்கள்-மீது-தாக்குதல்/50-341668) · `ta`
 
-வங்கதேச தலைநகர் டாக்காவில் இந்திய கலாச்சார மையம் போராட்டக்காரர்களால் சேதப்படுத்தப்பட்டுள்ளது. மேலும் நாடு முழுவதும் இதுவரை 4 இந்து கோவில்கள் சேதமடைந்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+In Bangladesh, tensions escalated as protesters attacked the Indian Cultural Center in Dhaka, damaging it along with four Hindu temples nationwide. The violence also targeted significant structures like the Pangapandu Museum, dedicated to Sheikh Mujibur Rahman. This incident highlights the ongoing unrest affecting cultural and historical sites.
 
-இது குறித்து தெரிவித்துள்ள இந்து பௌத்த கிறிஸ்தவ ஒற்றுமை கவுன்சில் தலைவர் கஜோல் தேவ்நாத், டாக்காவின் தன்மோந்தி பகுதியில் அமைந்துள்ள இந்திரா காந்தி கலாச்சார மையம் வன்முறை கும்பலால் சேதப்படுத்தப்பட்டதாக தெரிவித்தார். மேலும் 4 இந்து கோயில்கள் சிறிய அளவில் சேதமடைந்துள்ளதாகவும் தெரிவித்தார்.
+🟩
 
-இது தவிர டாக்காவில் உள்ள பங்கபந்து நினைவு அருங்காட்சியகம் உட்பட பல்வேறு முக்கிய கட்டிடங்கள் தீவைத்து கொளுத்தப்பட்டுள்ளன. பங்கபந்து அருங்காட்சியகம், 1975ஆம் ஆண்டு படுகொலை செய்யப்பட்ட முன்னாள் வங்கதேச அதிபர் ஷேக் முஜிபுர் ரஹ்மான் (ஷேக் ஹசீனாவின் தந்தை) நினைவாக கட்டப்பட்டது.
+Indian Cultural Center has been damaged by protesters in the Bangladesh capital Dhaka. It has been reported that 4 Hindu temples have been damaged across the country.
 
-சேதமடைந்த இந்திய கலாச்சார மையத்தில் 21 ஆயிரம் புத்தகங்கள், பல்வேறு வரலாற்று ஆவணங்கள் இருந்தது குறிப்பிடத்தக்கது.
+Kajol Devnath, president of the Hindu Buddhist Christian Unity Council, said that the Indira Gandhi Cultural Center, located in Tanumanthi, Dhaka, was damaged by the violent mob.. He also said that 4 Hindu temples have been damaged.
+
+Apart from this, various major buildings, including the Pangapandu Museum in Dhaka, have been set on fire. The Museum was built in memory of former Bangladeshi President Sheikh Mujibur Rahman (father of Sheikh Hasina), who was assassinated in 1975.
+
+The damaged Indian Cultural Center contained 21 thousand books and various historical documents.
 
 ◼️
 
 [Data](articles/adafd891.json)
 
+[Extended Data](ext_articles/adafd891.ext.json)
+
 ---
 
-### கோட்டையிலிருந்து புறப்படும் ரயில் சேவைகளில் தாமதம்
+### Delay in train services departing from Fort
 
 *2024-08-06 08:58:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டையிலிருந்து-புறப்படும்-ரயில்-சேவைகளில்-தாமதம்/175-341666) · `ta`
 
-தெமட்டகொட ரயில் நிலைய ஊழியர்கள் தமது கடமைகளை புறக்கணித்துள்ளதால் ரயில்  சேவை பாதிக்கப்பட்டுள்ளது.
+Train delays and cancellations from Colombo Fort due to railway staff strike over unaddressed inquiry into colleague's disappearance.
 
-இதன் காரணமாக கொழும்பு கோட்டையிலிருந்து புறப்படும் ரயில் சேவைகளில் தாமதங்கள் மற்றும் ரயில்கள் இரத்துச் செய்யப்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-தெமட்டகொட ரேஸ்வே ஊழியர் ஒருவர் காணாமற் போனமை தொடர்பிலான விசாரணைகள் உரிய முறையில் மேற்கொள்ளப்படவில்லை என எதிர்ப்புத் தெரிவித்து ஊழியர்கள் தற்போது தமது பணிகளில் இருந்து விலகியுள்ளனர். R
+The train service has been affected as the employees of the Dematagoda railway station have ignored their duties.
+
+Due to this, delays and trains will be canceled in the train services departing from Colombo Fort, the Railway Department said.
+
+Employees are now quitting their work, protesting that an inquiry into the disappearance of a Dematagoda Raseway employee has not been properly investigated.. Remble
 
 ◼️
 
 [Data](articles/d6d8e580.json)
+
+[Extended Data](ext_articles/d6d8e580.ext.json)
 
 ---
 
@@ -418,17 +464,25 @@ Veerakesari, who is the highest identity of Sri Lanka's first national Tamil new
 
 ---
 
-### ’சு.க. பெரும்பான்மையானோர் ஜனாதிபதிக்கு ஆதரவு’
+### Model. The majority support the president
 
 *2024-08-06 07:33:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-பெரும்பான்மையானோர்-ஜனாதிபதிக்கு-ஆதரவு/175-341664) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க ஸ்ரீலங்கா சுதந்திரக் கட்சி உத்தியோகபூர்வமாக தீர்மானித்துள்ள எனவும்  சுதந்திரக் கட்சியைப் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்கள் உட்பட நிறைவேற்று சபையின் 90 வீதமானோரின் இணக்கப்பாட்டுடன் இந்தத் தீர்மானம் எடுக்கப்பட்டுள்ளது எனவும் போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, with 90% approval from its Executive Council, including most parliamentarians. This decision was made with the full support of party leaders and officials, signaling a unified effort to secure Wickremesinghe's victory.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே  இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
+
+Transport Minister Lasantha Alagiyawanna said that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming presidential election and that the decision has been taken with the compliance of 90 percent of the Executive Council, including the majority of parliamentarians, and that the decision was taken.
+
+Speaking at a press conference held at the Presidential Media Center yesterday. As he further stated,
+
+Sri Lanka Freedom Party (SLFP) officially decided to support President Ranil Wickremesinghe in the upcoming presidential election. Not only the party officials, including our party leader Nimal Siripala de Silva and Secretary General of Parliament Duminda Silva, have represented the SLFP and agreed to the resolution.
 
 ...
 
 [Data](articles/0624e3a9.json)
+
+[Extended Data](ext_articles/0624e3a9.ext.json)
 
 ---
 
@@ -2066,19 +2120,25 @@ Attorney-at-Law Faizer Mustapha that appeared on behalf of the Minister of Labor
 
 ---
 
-### පොලිස් කොස්තාපල් තනතුරු 29091ක හිඟයක්
+### There is a dearth of 29091 constable posts
 
 *2024-08-05 18:48:45* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්-තනතුරු-29091ක-හිඟයක්/11-411213) · `si`
 
-ශ්‍රී ලංකා පොලිස් දෙපාර්තමේන්තුවට අයත් පොලිස් කොස්තාපල් තනතුරු 29,091ක සහ කාන්තා පොලිස් කොස්තාපල් තනතුරු 4020 ක පුරප්පාඩු  ඇති බව ජාතික විගණන කාර්යාලය මගින් අගෝස්තු මස 04 වැනි දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+A recent audit revealed a significant shortage of 29,091 police constable positions, including 4,020 for women, despite having 309,090 constables by the end of 2023. Additionally, there are 10,900 surplus sergeants. This situation highlights a critical need for recruitment and redistribution within the police force.
 
-පොලීසියේ අනුමත පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාව 60000 කි. 2023 වර්ෂය අවසන් වන විට සිටි පොලිස් කොස්තාපල් වරු සංඛ්‍යාව 309,09 කි. ඒ අනුව පොලිස් කොස්තාපල් වරුන්ගේ පුරප්පාඩු 29,091 ක් ලෙස පැවතුණි. එසේ වුවද 2019 හා 2020 යන වර්ෂවල දී අනුමත සංඛ්‍යාව නොසලකා උසස් වීම් ලබා දීම නිසා පොලිස් සැරයන් තනතුරේ 10,900 ක අතිරික්ත පොලිස් නිලධාරීන් සංඛ්‍යාවක් සිටින බවද එම විගණන වාර්තාවේ සඳහන්වේ.
+🟩
 
-එම අතිරික්ත පොලිස් සැරයන් තනතුරු සංඛ්‍යාව පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාවෙන් අඩු කළද තවදුරටත්  පුරප්පාඩුවී පවතින කොස්තාපල් තනතුරු සංඛ්‍යාව 18,190 ක් වන අතර අනුමත පොලිස් කොස්තාපල් තනතුරු සංඛ්‍යාවෙන් 30% ක පමණ පුරප්පාඩු සංඛ්‍යාවක් පැවතීම මහජන සේවා පවත්වාගෙන යෑමේ දී ගැටලු රැසක් නිර්මාණය කර ඇති බවද එම විගණනය මගින් අනාවරණය කර ඇත.
+A recent audit report issued by the National Audit Office of 29,091 police constable positions and 4020 women constable positions belonging to the Police Department and 4020 women constable posts have been vacant.
+
+Police approved police constable positions is 600,000. By the end of the year 2023, the number of police constable was 309,09. Accordingly, 29,091 were vacancies in the police constable. However, the audit reports say that there are 10,900 excess cops in the post of police sergeant due to the approved number in 2019 and 2020.
+
+The number of additional constable positions in the number of police constable positions is 18,190 and the number of vacancies in the number of approved police constable positions is 18,190, and the total number of vacancies has been created by about 30% of the approved police constable positions.has.
 
 ...
 
 [Data](articles/98f99c21.json)
+
+[Extended Data](ext_articles/98f99c21.ext.json)
 
 ---
 
@@ -2149,29 +2209,5 @@ Furthermore, the election regulatory body highlighted that the deadline for acce
 [Data](articles/ff2d2c58.json)
 
 [Extended Data](ext_articles/ff2d2c58.ext.json)
-
----
-
-### Postal voting applications extended
-
-*2024-08-05 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199595) · `si`
-
-The deadline for postal voting applications has been extended until midnight today due to the upcoming presidential election. Applications must be submitted to the District Election Office by August 9th. It's advised to submit them in person to ensure timely processing.
-
-🟩
-
-With the announcing the presidential election, the time period for postal voting has been extended.
-
-Elections Commissioner General of Elections, Saman Sri Ratnayake, has been extended to the 12 midnight in midnight today (05).
-
-Applications should be paid to the District Election Office before the 9th of August.
-
-It is best to bring the postal voting applications to the District Election Office in the district of each district to avoid the delay in the receipt of applications.The Commissioner General of Elections Announced.
-
-◼️
-
-[Data](articles/69c0ce30.json)
-
-[Extended Data](ext_articles/69c0ce30.ext.json)
 
 ---

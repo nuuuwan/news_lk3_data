@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 01:36:05**
+As of **2024-08-07 01:54:34**
 
 ## Newspaper Stats
 
-*Scraped **39,364** Articles*
+*Scraped **39,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,521
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,932
+tamilmirrorlk | 4,934
 virakesarilk | 6,231
 adaderanasinhalalk | 6,663
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,363 (100.0%) of 39,364 articles have been extended.
+39,364 (100.0%) of 39,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### கையை தேடுகிறார் ஆணைக்குழு தவிசாளர்
+
+*2024-08-07 01:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341720) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்த பிரிவை கையாள வேண்டும் என தேர்தல்கள் ஆணைக்குழு, சட்டமா அதிபரிடம் எழுத்து மூலம் கேட்டுள்ளது.
+
+இதனால், சட்டமா அதிபரிடமிருந்து தீர்மானம் கிடைத்தவுடன் ஆணைக்குழு கூடி இவ்விடயம் தொடர்பில் முடிவெடுக்கும் என தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+எதிர்வரும் தேர்தல் கடமைகளில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்தப் பக்கத்தை ஏற்றுக்கொள்ள வேண்டும் என்ற பிரச்சினை எழுந்துள்ள நிலையில், சட்டமா அதிபரிடம் பின்வருமாறு கருத்துக் கேட்பதற்கு ஆணைக்குழு தீர்மானித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி தற்போது மைத்திரிபால சிறிசேன அணி, அமைச்சர் நிமல் சிறிபால டி சில்வா அணி, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர அணி என மூன்று அணிகளாக பிளவுபட்டுள்ளது.
+
+ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மைத்திரிபால சிறிசேனவின் கட்சி தனி வேட்பாளரை முன்வைக்கும் அதே வேளையில் அமைச்சர் நிமல் சிறிபால டி சில்வாவின் கட்சி ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்து வருகின்றது.
+
+...
+
+[Data](articles/406b4710.json)
+
+---
+
+### மின்சாரம், எரிபொருள் அத்தியாவசிய சேவை
+
+*2024-08-07 01:23:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-எரிபொருள்-அத்தியாவசிய-சேவை/175-341719) · `ta`
+
+மின்சாரம் மற்றும் எரிபொருள் விநியோகம் ஆகியவற்றை அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தி அதி விசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+ஜனாதிபதியின் யோசனைக்கு அமைவாக ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவின் கையொப்பத்துடன் இந்த வர்த்தமானி வெளியாகியுள்ளது.
+
+மின் விநியோகம், பெற்றோலிய உற்பத்தி, எரிபொருள் விநியோகம் ஆகியன அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தப்பட்டுள்ளன.
+
+இந்த வர்த்தமானிக்கு அமைவாக எந்தவொரு அரச கூட்டுத்தாபனம், அரச திணைக்களம், உள்ளூராட்சி மன்றம்,  கூட்டுறவுச் சங்கம் அல்லது அவற்றின் கிளை மூலம் வழங்கப்படும் சேவைகள் சாதாரண மக்களின் அன்றாட வாழ்விற்கான அத்தியாவசிய சேவைகள் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8f4ff128.json)
+
+---
 
 ### Demise of Rajapaksa power and triumph of Rajapaksaism
 
@@ -45,6 +83,8 @@ Most of the courtiers who pledged eternal fealty to High King Mahinda during tha
 ...
 
 [Data](articles/b675a0be.json)
+
+[Extended Data](ext_articles/b675a0be.ext.json)
 
 ---
 
@@ -2229,47 +2269,5 @@ Addressing the gathering, Ranil Wickremesinghe said that Ranil Wickremesinghe is
 [Data](articles/2a772b86.json)
 
 [Extended Data](ext_articles/2a772b86.ext.json)
-
----
-
-### Sri Lanka to seek PPPs for futsal courts, Pakistan help for two
-
-*2024-08-06 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-ppps-for-futsal-courts-pakistan-help-for-two-175404/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking for private investors to build futsal courts within government building premises, with a Pakistan grant to be used to install two courts in the Torrington and Sugathadasa complexes, Cabinet spokesman minister Bandula Gunawardena said.
-
-“There are several futsal indoor stadiums in urban areas,” Gunawardena told reporters on Tuesday. And since there is a higher attraction for this sport, there was need to “expand the game”.
-
-The government plans to establish more indoor futsal stadiums at a commercial level, he said, and is looking for private investors for constructing them in “identified government lands and sports complex premises”.
-
-The state will provide the property on an 80-year-lease basis, to a private investor under a public-private partnership, the minister said.
-
-A Pakistan Government grant will be used to install two courts in the Torrington and Sugathadasa sports complexes, Gunawardena said.
-
-...
-
-[Data](articles/84608e91.json)
-
-[Extended Data](ext_articles/84608e91.ext.json)
-
----
-
-### Sri Lanka seeks PPPs to build futsal courts, Pakistan grant to build court in Torrington
-
-*2024-08-06 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ppps-to-build-futsal-courts-pakistan-grant-to-build-court-in-torrington-175404/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking for private investors to build futsal courts within government building premises, with grant money from Pakistan to be used to build two courts in the Torrington and Sugathadasa complexes, Cabinet spokesman minister Bandula Gunawardena said.
-
-“There are several futsal indoor stadiums in urban areas,” Gunawardena told reporters on Tuesday. And since there is a higher attraction for this sport, there was need to “expand the game”.
-
-The government plans to establish more indoor futsal stadiums at a commercial level, he said, and is looking for private investors for constructing them in “identified government lands and sports complex premises”.
-
-The state will provide the property for the playground premises on an 80-year-lease basis, to a private investor under a public-private partnership, the minister said.
-
-...
-
-[Data](articles/c7dbefeb.json)
-
-[Extended Data](ext_articles/c7dbefeb.ext.json)
 
 ---

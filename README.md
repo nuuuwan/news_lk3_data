@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 19:54:44**
+As of **2024-08-06 20:06:57**
 
 ## Newspaper Stats
 
-*Scraped **39,330** Articles*
+*Scraped **39,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,519
 adalk | 3,615
 adaderanalk | 4,570
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,929
+tamilmirrorlk | 4,930
 virakesarilk | 6,219
-adaderanasinhalalk | 6,655
+adaderanasinhalalk | 6,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,330 (100.0%) of 39,330 articles have been extended.
+39,330 (100.0%) of 39,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### விலகினார் நாமல்
+
+*2024-08-06 19:34:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலகினார்-நாமல்/175-341701) · `ta`
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ சர்வதேச தொடர்புகள் குறித்த பாராளுமன்ற துறைசார் மேற்பார்வை குழுவிலிருந்து விலகியுள்ளார் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன   அறிவித்துள்ளார்.
+
+நாமல் ராஜபக்ஷ விலகியதால் ஏற்பட்ட வெற்றிடத்திற்காக, பாராளுமன்ற உறுப்பினர் பிரேமநாத் சீ தொலவத்த நியமிக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/d2078f62.json)
+
+---
+
+### ජාතික පාසල් ගැන නිවේදනයක්
+
+*2024-08-06 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199640) · `si`
+
+2024 වර්ෂය සඳහා ජාතික පාසල්වල අතරමැදි පන්තිවලට චක්‍රලේඛය අනුව ළමුන් ඇතුළත් කිරීම අවසන් කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් අමාත්‍යාංශය පවසන්නේ පසුගිය මස 26 වනදා ජනාධිපති මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු අධ්‍යාපන අමාත්‍යාංශය මගින් ළමුන් ඇතුළත් කිරීමට ලිපි නිකුත් කිරීම හෝ නිලධාරීන් ස්ථාන මාරු කිරීම් අත්හිටුවා ඇති බවය.
+
+අධ්‍යාපන ක්ෂේත්‍රයේ වෘත්තීය සමිති නියෝජිතයෙකු යැයි හඳුන්වා ගන්නා පුද්ගලයෙකු විසින් ඉහත තොරතුරු සම්බන්ධයෙන් අසත්‍ය ප්‍රචාර සිදුකරමින් පවතින බවට අමාත්‍යාංශයට පැමිණිලි ලැබී ඇති බවත් එම නිවේදනයේ සඳහන් ය.
+
+◼️
+
+[Data](articles/da6178df.json)
+
+---
 
 ### Recovery of missing train employee
 
@@ -2211,39 +2241,5 @@ Parliament will meet Speaker Mahinda Yapa Abeywardena at 9.30 am on Tuesday (07)
 [Data](articles/6ede26fb.json)
 
 [Extended Data](ext_articles/6ede26fb.ext.json)
-
----
-
-### Electricity and petroleum supply gazetted as essential services
-
-*2024-08-06 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101027/electricity-and-petroleum-supply-gazetted-as-essential-services) · `en`
-
-A special gazette notification has been issued declaring the supply of electricity and all related services, the supply or distribution of petroleum products and fuel, as essential services.
-
-Presidential Secretary Saman Ekanayake has issued the communiqué yesterday (05) on the directives of President Ranil Wickremesinghe.
-
-The communiqué was published in accordance with the powers vested in the President under Section 2 of the Essential Public Services Act No. 61 of 1979.
-
-◼️
-
-[Data](articles/bfa5b552.json)
-
-[Extended Data](ext_articles/bfa5b552.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-08-06 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199615) · `si`
-
-The Parliamentary Council has started its session, focusing on legislative discussions and decisions.
-
-🟩
-
-◼️
-
-[Data](articles/63b136d3.json)
-
-[Extended Data](ext_articles/63b136d3.ext.json)
 
 ---

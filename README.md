@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 10:36:18**
+As of **2024-08-06 10:54:47**
 
 ## Newspaper Stats
 
-*Scraped **39,241** Articles*
+*Scraped **39,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
 adalk | 3,599
-adaderanalk | 4,551
+adaderanalk | 4,553
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,921
 virakesarilk | 6,209
@@ -26,41 +26,81 @@ adaderanasinhalalk | 6,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,237 (100.0%) of 39,241 articles have been extended.
+39,241 (100.0%) of 39,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර තැන්පතු සඳහා විශේෂ පොලී අනුපාතිකයක්
+### Cabinet approval to increase FD interest rates of senior citizens
+
+*2024-08-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101029/cabinet-approval-to-increase-fd-interest-rates-of-senior-citizens) · `en`
+
+The Cabinet of Ministers has approved the proposal to increase the annual interest rates of fixed deposits of senior citizens aged 60 years and above.
+
+Accordingly, the interest rates are to be increased from the current 8.5% to 10% for fixed deposits up to Rs. 01 million for a period of two years, the Cabinet Spokesman said.
+
+◼️
+
+[Data](articles/bebe81f7.json)
+
+---
+
+### Special interest rate for fixed deposits of senior citizens
 
 *2024-08-06 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199619) · `si`
 
-වයස අවුරුදු 60ට වැඩි ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර තැන්පතු සඳහා පොලී අනුපාතිකය 10% දක්වා වැඩිකිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The government has increased the interest rate to 10% for fixed deposits made by senior citizens aged 60 and above, following cabinet approval.
+
+🟩
+
+Cabinet approval has been approved to increase the interest rate to 10% on the fixed deposits of senior citizens over 60 years of age.
 
 ◼️
 
 [Data](articles/1374c469.json)
 
+[Extended Data](ext_articles/1374c469.ext.json)
+
 ---
 
-### කොස් ගසක් කඩා වැටී දරුවෙක් ඇතුළු සිව්දෙනෙකුට තුවාල
+### Four injured in jackfruit tree
 
 *2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199618) · `si`
 
-පැවති වර්ෂාවත් සමඟ හැමූ දැඩි සුළඟකින් පාදුක්ක පෝරේගෙදර ප්‍රදේශයේ නිවසක් මතට විශාල කොස් ගසක් කඩා වැටීමෙන් දරුවෙකු ඇතුළු සිව්දෙනෙකු තුවාල ලබා තිබේ.
+During the rainy season, a massive jackfruit tree collapsed onto a house in Padukka Poregedara, injuring four people including a ten-year-old child. The incident occurred yesterday, causing significant damage to the house and a nearby van. The victims were hospitalized for treatment.
 
-අප වාර්තාකරු පැවසුවේ, ඊයේ (05) දින සවස් කාලයේ රෝහල්ගත කළ බව පාදුක්ක පොලීසිය පවසයි.
+🟩
 
-ගස කඩා වැටීමෙන් අදාළ නිවස සම්පූර්ණයෙන්ම විනාශ වී ඇති අතර නිවස අසල නවතා තිබූ වෑන් රථයකටද දැඩි ලෙස හානි වී ඇතැයි පොලීසිය සඳහන් කරයි.
+With the rainy season, a large wage tree collapses on a house in Padukka Poregedara, Padukka Paragedara, has been injured.
 
-හමාගිය දැඩි සුළං තත්ත්වය නිසාවෙන් විශාල කොස් ගස මුලින්ම ඉදිරි වැටී තිබේ.
+Our correspondent said that yesterday (05) was hospitalized yesterday (05).
 
-අනතුරින් තුවාල ලැබූ දස හැවිරිදි දරුවෙකු අඹුසැමි යුවළක් සහ අසල්වාසී කාන්තාවක් පාදුක්ක දිසාරෝහලට ඇතුළත් කිරීමෙන් පසු දෙදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කර බව ද පොලීසිය වැඩිදුරටත් පවසයි.
+The house was completely destroyed by the collapse of the tree and a van near the house has been severely damaged.
+
+The large jackfruit has the first jackfruit due to strong winds.
+
+A ten-year-old child who was injured in the accident have been admitted to the Homagama Base Hospital for further treatment.
 
 ◼️
 
 [Data](articles/65a6b786.json)
+
+[Extended Data](ext_articles/65a6b786.ext.json)
+
+---
+
+### Emergency guidelines and phone numbers issued for immigrant workers in Israel
+
+*2024-08-06 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101028/emergency-guidelines-and-phone-numbers-issued-for-immigrant-workers-in-israel) · `en`
+
+The Foreign Workers’ Authority of Israel has issued guidelines and phone numbers of Israeli authorities for immigrant workers, including Sri Lankans, who are employed in the country.
+
+The guidelines are issued to be followed in case of any emergencies, including possible attacks under the prevailing situation.
+
+◼️
+
+[Data](articles/17b81b61.json)
 
 ---
 
@@ -80,19 +120,25 @@ The guidelines are issued for use in emergencies, including possible attacks und
 
 ---
 
-### மூத்த பிரஜைகளுக்கு சந்தோஷமான செய்தி
+### Happy message to senior citizens
 
 *2024-08-06 09:57:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-பிரஜைகளுக்கு-சந்தோஷமான-செய்தி/175-341679) · `ta`
 
-நிதி, பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் அமைச்சராக  ஜனாதிபதி   சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The government has approved a financial stability plan benefiting senior citizens aged over 60, allowing them to make sustainable deposits of up to one million rupees for two years, with interest rates reduced to 8.5 percent.
 
-சமகாலத்தில் நிலையான வைப்புக்களுக்கான வட்டிவீதம் 8.5  சதவீதமாகக் குறிப்பிடத்தக்களவு குறைந்துள்ளது. அதனால், அதிகமான மூத்த பிரஜைகளின் வைப்புக்களிலிருந்து பணத்தை மீளப் பெற்றுள்ளனர் என்பது கண்டறியப்பட்டுள்ளது.
+🟩
 
-அதனடிப்படையில், 60 வயதுக்கு மேற்பட்ட மூத்த பிரஜைகளின் உயர்ந்தபட்சம் ஒரு மில்லியன் ரூபாய்  வரைக்குமான நிலையான வைப்புக்களுக்கான வருடாந்த வட்டிவீதத்தை 10   சதவீதமாக இரண்டு வருடங்களுக்கு வழங்குவதற்கு அங்கிகாரம் வழங்கப்பட்டுள்ளது.
+The Cabinet has approved the proposal submitted by the President as Minister of Finance, Economic Stability and National Policies.
+
+Interest for standard deposits in the contemporary has declined to 8.5 percent. It has been found that the money has been recovered from the deposits of more senior citizens.
+
+Accordingly, the highest number of senior citizens over 60 years of age has been approved for two years for two years for sustainable deposits for up to a million rupees.
 
 ◼️
 
 [Data](articles/108dff61.json)
+
+[Extended Data](ext_articles/108dff61.ext.json)
 
 ---
 
@@ -274,17 +320,23 @@ The Parliamentary Council has started its session, focusing on legislative discu
 
 ---
 
-### දුම්රිය ධාවනයට බාධා
+### Train interrupts
 
 *2024-08-06 09:22:34* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ධාවනයට-බාධා/11-411219) · `si`
 
-කොළඹ කොටුව දුම්රිය ස්ථානයෙන් ආරම්භ කරනු ලබන දුම්රියන් හී ප්‍රමාදයක් සහ දුම්රිය අවලංගු කිරීමක් සිදුව තිබේ.
+Due to employee duty issues at Dematagoda Rate, several train services from Colombo Fort Railway Station were delayed and one was canceled.
 
-දෙමටගොඩ ධාවනාගාරයේ සේවකයන් රාජකාරී කටයුතු වලින් ඉවත්වීම හේතුවෙන් මෙලෙස දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව දුම්රිය පාලක මැදිරිය සඳහන් කළේය.
+🟩
+
+A delay and a train has been canceled in trains starting from Colombo Fort Railway Station.
+
+The Railway Control Room stated that the train services have been disrupted due to the duties of the employees of the Dematagoda Rate.
 
 ◼️
 
 [Data](articles/a6a4dffb.json)
+
+[Extended Data](ext_articles/a6a4dffb.ext.json)
 
 ---
 
@@ -2137,49 +2189,5 @@ The indomitable spirit shown by Janatha Vimukthi Peramuna commonly known as JVP 
 [Data](articles/7c7aa8ed.json)
 
 [Extended Data](ext_articles/7c7aa8ed.ext.json)
-
----
-
-### Dhaka’s International Airport temporarily closed amid violence
-
-*2024-08-05 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101021/dhakas-international-airport-temporarily-closed-amid-violence) · `en`
-
-Bangladesh’ International Airport in Dhaka has been closed for six hours following violent protest which forced former PM Sheikh Hasina to resign and flee the country, said Bangladesh Army.
-
-Dhaka airport closed for commercial flight movement till 11.30 p.m. on Monday, according to reports.
-
-A flight 6E 1113 was diverted to Kolkata in India due to unrest in Dhaka.
-
-Bangladesh has been engulfed by protests and violence since last month, following student groups’ demands to scrap a controversial quota system in government jobs.
-
-Air India cancelled its scheduled flights to and from Dhaka, with immediate effect on Monday due to the emerging situation in the wake of Bangladesh Prime Minister Sheikh Hasina resigning amid unprecedented anti-government protests, foreign media reported.
-
-...
-
-[Data](articles/77cbbac0.json)
-
-[Extended Data](ext_articles/77cbbac0.ext.json)
-
----
-
-### Sheikh Hasina's flight descended on Hindan
-
-*2024-08-05 19:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-விமானம்-ஹிண்டனில்-இறங்கியது/50-341641) · `ta`
-
-Sheikh Hasina, former PM of Bangladesh, resigned and fled to India before seeking asylum in the UK. His sister, Hak Rayana, a UK citizen, accompanied him. Their flight landed at Hindon Air Force Base near Delhi en route to London.
-
-🟩
-
-Sheikh Hasina landed on the Hindon Air Force Base near Delhi after leaving the country on a military flight from Dhaka after resigning as Prime Minister. It is reported that he is seeking asylum to the UK government.
-
-Sheikh Hasina, who was the Prime Minister of Bangladesh, resigned from his post this afternoon. Subsequently, he departed from Bangladesh at 2.30 pm with her sister Hack Rayana on a military flight from Kanababan.
-
-Their departed flight landed at the Hindon Air Force Base near New Delhi. It is reported that they are going to England and Sheikh Hasina has sought asylum to the UK government. Sheikh Rahana is said to be a UK citizen and therefore, Sheikh Hasina has decided to stay with London.
-
-◼️
-
-[Data](articles/8bb10577.json)
-
-[Extended Data](ext_articles/8bb10577.ext.json)
 
 ---

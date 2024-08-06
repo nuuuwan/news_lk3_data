@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 16:36:02**
+As of **2024-08-06 16:53:24**
 
 ## Newspaper Stats
 
-*Scraped **39,292** Articles*
+*Scraped **39,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ dailyftlk | 2,519
 adalk | 3,610
 adaderanalk | 4,564
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,924
-virakesarilk | 6,213
-adaderanasinhalalk | 6,649
+tamilmirrorlk | 4,925
+virakesarilk | 6,216
+adaderanasinhalalk | 6,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,292 (100.0%) of 39,292 articles have been extended.
+39,292 (100.0%) of 39,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### බංග්ලාදේශයේ මීළඟ පියවර
+
+*2024-08-06 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199634) · `si`
+
+සාධාරණ රැකියා කෝටා ක්‍රමයක් වෙනුවෙන් ආරම්භ වී පසුව ආණ්ඩු විරෝධී ජනතා රැල්ලක් බවට පත්වූ බංග්ලාදේශයේ විරෝධතාවේ අවසානය සලකුණු වුයේ අගමැතිනි ෂෙයික් හසීනා ඉල්ලා අස්වී රටින් පිටව යෑමෙනි.
+
+අගමැතිනි ෂෙයික් හසීනාට ඉල්ලා අස්වන ලෙස බලකරමින් බංග්ලාදේශ ශිෂ්‍ය විරෝධතාකරුවන් ඊයේ (05) 'මාච් ටු ඩකා' නමින් අගනුවර දැවැන්ත පාගමනක් ආරම්භ කර තිබුණේ ඒ අනුවය.
+
+දස දහස් සංඛ්‍යා විරෝධතාකරුවන් අගමැතිනියගේ නිල නිවහනට ඇතුළු වී එහි තිබූ ගෘහ භාණ්ඩ, රූපවාහිනී සහ විද්‍යුත් උපකරණ, බුමුතුරුණු, මල් බඳුන් පමණක් නොව ජල තටාකයේ සිටි මසුන් පවා විරෝධතාකරුවන් රැගෙන යන ආකාරය මෙන්ම එහි තිබූ බොහෝ දෑ කොල්ලකෑමටත්, පාරිභෝජනය කිරීමටත් කටයුතු කළ අයුරු බංග්ලාදේශ රූපවාහිනී සේවා මගින් විකාශය කෙරුණි.
+
+ඩකා නගර මධ්‍යයේ පිහිටි ෂෙයික් හසීනාගේ පියා වූ බංග්ලාදේශයේ නිර්මාතෘ ෂෙයික් මුජිබර් රහමන්ගේ දැවැන්ත ලෝහමය ප්‍රතිමාව මත නැඟ එහි හිසට පොරෝ පහරක් එල්ල කළේ එම ඉතිහාසය නොදන්නා පුද්ගලයන් ලෙසිනි.
+
+මෙම තත්ත්වය උදාවීමට මොහොතකට පෙර අගමැතිනි ෂෙයික් හසීනා සිය සොහොයුරිය සමඟ හමුදා හෙලිකොප්ටර් යානයක නැගී ඉන්දියාවට පළාගොස් තිබුණි.
+
+...
+
+[Data](articles/eea30493.json)
+
+---
+
+### மன்னாரில் மக்களின் காணிகள் அபகரிக்கப்பட்டு வருகின்ற போதும் இது வரை பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் கிடைக்கவில்லை - அருட்தந்தை எஸ்.மார்க்கஸ்
+
+*2024-08-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190425) · `ta`
+
+மன்னார் மாவட்டத்தில் பல்வேறு கோணங்களில் மக்களின் காணிகள் அபகரிக்கப்பட்டு வருகின்ற போதும்,இது வரை பாதிக்கப்பட்ட மக்களுக்கு உரிய நிவாரணம் கிடைக்கவில்லை. எனவே மாவட்ட மக்கள் எதிர்நோக்கும் சகல விதமான பிரச்சனைகளுக்கும் நாட்டின் ஜனாதிபதி உரிய தீர்வை பெற்றுக் கொடுக்க வேண்டும் என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மார்க்கஸ் அடிகளார் தெரிவித்தார்.
+
+மன்னார் மாவட்ட மக்கள் எதிர்கொள்ளும் பல்வேறு பிரச்சினைகள் குறித்து விசேட ஊடக சந்திப்பு இன்றைய தினம் செவ்வாய்க்கிழமை (06) மதியம் மன்னார் பிரஜைகள் குழு அலுவலகத்தில் இடம்பெற்றது.
+
+மன்னார் மாவட்டத்தில் கடந்த 5 வருடங்களுக்கு மேலாக கனிய மணல் அகழ்வு திட்டத்தை முன்னெடுப்பதற்கான பாரிய முயற்சிகள் இடம்பெற்று வருகின்றது.
+
+பல்வேறு கம்பனிகளால் பாரிய முயற்சிகள் இடம்பெற்ற போதும் இறுதியில் கம்பெனி ஒன்று கனிய மணல் அகழ்வுக்காக மன்னார் மாவட்டத்தில் கால் பதித்துள்ளது.
+
+குறித்த கம்பெனி குறித்த இடத்தை கையகப்படுத்திக் கொள்ள அனுமதி வழங்க பல்வேறு நடவடிக்கைகள் இடம் பெற்று வருகிறது.
+
+...
+
+[Data](articles/6d117538.json)
+
+---
+
+### பங்களாதேஷ் பாராளுமன்றம் கலைப்பு
+
+*2024-08-06 16:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-பாராளுமன்றம்-கலைப்பு/50-341696) · `ta`
+
+பங்களாதேஷ் பாராளுமன்றம் கலைக்கப்பட்டுள்ளதாக பங்களாதேஷ் ஜனாதிபதி அலுவலகத்தை மேற்கோளிட்டு வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா ராஜினாமா செய்ததைத் தொடர்ந்து, பங்களாதேஷின் மாணவர் அமைப்பினர் பாராளுமன்றத்தை கலைக்குமாறு கோரிக்கை விடுத்திருந்தனர். அதன்படி, இன்று பிற்பகல் 3 மணி வரை காலக்கெடு விதித்திருந்தனர்.
+
+இதேவேளை, பங்களாதேஷில் அமையவுள்ள இடைக்கால அரசாங்கத்திற்கு நோபல் பரிசு பெற்ற முஹம்மது யூனுஸ் தலைமை தாங்க மாணவர் அமைப்பினர் அழைப்பு விடுத்துள்ளனர்.
+
+ஷேக் ஹசீனாவின் அரசியல் போட்டியாளரான முஹம்மது யூனுஸ், மைக்ரோ கிரெடிட் மற்றும் மைக்ரோ ஃபைனான்ஸ் ஆகிய கருத்துக்களுக்கு முன்னோடியாக 2006 இல் அமைதிக்கான நோபல் பரிசை வென்றார்.
+
+மேலும் இராணுவ ஆட்சியில் தங்களுக்கு உடன்பாடு இல்லை என்று மாணவர் அமைப்பு  வலியுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/5fd306c6.json)
+
+---
 
 ### The ban on the SLFP office extended
 
@@ -88,6 +148,18 @@ The International Media reported that America Naval Infrastructure has been incl
 
 ---
 
+### வரலாற்றில் இன்று : ஹிரோஷிமாவில் 'குட்டிப் பையனின்' கோரத் தாண்டவம்
+
+*2024-08-06 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190423) · `ta`
+
+1945இல் அமெரிக்கா வீசிய குட்டிப் பையன் (Little Boy) அணுகுண்டு, ஜப்பான் நாட்டின் ஹிரோஷிமா நகரில் பயங்கர அழிவை ஏற்படுத்திய தினம் இதே திகதியான ஆகஸ்ட் 6 ஆகும்.
+
+◼️
+
+[Data](articles/e126bea1.json)
+
+---
+
 ### Ravi's insulting case against Kokila
 
 *2024-08-06 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199631) · `si`
@@ -109,6 +181,26 @@ Accordingly, the court recorded the review was ordered to comply with the impeac
 [Data](articles/ee608270.json)
 
 [Extended Data](ext_articles/ee608270.ext.json)
+
+---
+
+### பங்களாதேஸ் நாடாளுமன்றம் கலைப்பு - ஹோட்டலிற்கு தீ மூட்டிய ஆர்ப்பாட்டக்காரர்கள் - 22 பேர் பலி
+
+*2024-08-06 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190419) · `ta`
+
+நாடாளுமன்றத்தை கலைக்கவேண்டும் என்பது மாணவ ஆர்ப்பாட்டக்காரர்களின் முக்கிய கோரிக்கைகளில் ஒன்றாக காணப்பட்டமை குறிப்பிடத்தக்கது.
+
+இதேவேளை திங்கட்கிழமை அரசாங்க ஆதரவாளரின் ஜபீர் இன்டநஷனல் ஹோட்டலிற்கு ஆர்ப்பாட்டக்காராகள் தீ மூட்டியதில் 22 பேர் கொல்லப்பட்டுள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+12 மணித்தியால போராட்டத்தின் பின்னர் தீயணைப்பு படைவீரர்கள் தீயை கட்டுப்பாட்டின் கீழ் கொண்டுவந்துள்ளனர்.
+
+ஆர்ப்பாட்டக்காரர்கள் தடுத்தமமையால் தீயை கட்டுப்படுத்த முடியாத நிலை காணப்பட்டதாக தீயணைப்பு வீரர்கள் தெரிவித்துள்ளனர்.
+
+பங்களாதேஸின் வடமேற்கு நகரான ஜெசூரில் காணப்பட்ட இந்த ஹோட்டல் -ஆளும் அவாமி லீக்கின்பொதுசெயலாளருக்கு சொந்தமானது.
+
+◼️
+
+[Data](articles/508b9a54.json)
 
 ---
 
@@ -850,17 +942,19 @@ He said that as there is a high attraction for this sport, it is expected that u
 
 ---
 
-### Sri Lanka cabinet nod for Indonesia trade agreement to be signed in March 2025
+### Sri Lanka’s LB Finance merges Multi Finance Plc
 
 *2024-08-06 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-indonesia-trade-agreement-to-be-signed-in-march-2025-175417/) · `en`
 
-ECONOMYNEXT — Sri Lanka’s cabinet of ministers has approved a proposal to finalise a draft Indonesia-Sri Lanka Preferential Trade Agreement (ISLPTA) in December 2024, to be signed in March 2025.
+ECONOMYNEXT – Sri Lanka’s LB Finance said it had merged Kandy-based licensed finance company Multi Finance Plc.
 
-A statement from the Government Information Department said on Tuesday August 06 that, consequent to the second trade discussion committee meeting on the proposed agreement was held on 15 and 16 July in Colombo, the cabinet has considered the matters pertaining to the agreement presented by President Ranil Wickremesinghe.
+After passing a special resolution to amalgamate Multi Finance PLC with LB Finance PLC at an Extraordinary General Meeting held on June 28, “necessary steps were duly taken by the Company to register the said amalgamation with the Department of Registrar General of Companies (DRGOC),” the company said in a stock exchange filing.
 
-Wickremesinghe has proposed that the draft ISLPTA be finalised in December. Both parties have agreed to sign the agreement in March 2025, the statement said.
+“The DRGOC having validated the accuracy of the process we have adopted for the said amalgamation in terms of the provisions of the Companies Act No. 07 of 2007, issued us the “Certificate of Amalgamation Issued to a Limited Company” today.”
 
-In July, Sri Lanka’s private sector trade body was in negotiations with Indonesian officials on a preferential trade agreement, which it hoped would increase exports to the Southeast Asian archipelago.
+Fairway Holdings was the previous largest shareholder of Multi Finance following an acquisition in 2017.
+
+In 2022, LB Finance bought a 64 percent stake in Mutli Finance for 400 million rupees.
 
 ...
 
@@ -2159,101 +2253,5 @@ He added that various complaints have been made, including the change in the sen
 [Data](articles/a6c490da.json)
 
 [Extended Data](ext_articles/a6c490da.ext.json)
-
----
-
-### Action to provide free fertilizer
-
-*2024-08-06 01:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-உரம்-வழங்க-நடவடிக்கை/175-341660) · `ta`
-
-Steps have been initiated to offer free fertilizer to vegetable farmers in Kurunegala, Matale, and Moneragala districts, benefiting 3,476 farmers.
-
-🟩
-
-Steps have been taken to provide free fertilizer for vegetables from three districts.
-
-Free fertilizer will be provided to 3,476 farmers in three districts - Kurunegala, Matale and Moneragala.
-
-◼️
-
-[Data](articles/058c26ec.json)
-
-[Extended Data](ext_articles/058c26ec.ext.json)
-
----
-
-### 22 Indian fishermen arrested
-
-*2024-08-06 01:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-22-பேர்-கைது/175-341659) · `ta`
-
-22 Indian fishermen from Tamil Nadu's Thoothukudi were arrested by the Sri Lankan Navy for fishing in the South Sea of Mannar.
-
-🟩
-
-22 Indian fishermen have been arrested by the Navy for allegedly fishing across the Sri Lankan waters.
-
-Fishermen from Tamil Nadu - Thoothukudi have been arrested in two boats.
-
-The 22 persons were arrested and two boats were acquired by the Navy while fishing in the South Sea of ​​Mannar.. (A)
-
-◼️
-
-[Data](articles/283fab40.json)
-
-[Extended Data](ext_articles/283fab40.ext.json)
-
----
-
-### SL’s pharmaceutical sector taps increasing potential to penetrate Vietnamese market
-
-*2024-08-06 01:00:41* · [`dailyftlk`](https://www.ft.lk/business/SL-s-pharmaceutical-sector-taps-increasing-potential-to-penetrate-Vietnamese-market/34-765203) · `en`
-
-The Embassy of Sri Lanka in collaboration with Export Development Board (EDB) organised a webinar on “Sri Lankan Pharmaceutical Industry” for Vietnamese pharmaceutical companies a couple of days before the Medipharm Expo 2024 in Ho Chi Minh (HCM) city.
-
-This was organised in order to raise the awareness as well as the potential of Sri Lankan pharma sector to leading importers and manufacturers of pharma in Viet Nam. The webinar was attended by over 100 pharma companies in Viet Nam, Drug Authority of Viet Nam and Viet Nam Pharmaceutical Association along with the Sri Lankan pharma companies which are participating at the aforementioned Medipharma Expo 2024.
-
-...
-
-[Data](articles/fb7d24a8.json)
-
-[Extended Data](ext_articles/fb7d24a8.ext.json)
-
----
-
-### Eran raises concerns over $ 100 m mineral sector investment hindrance
-
-*2024-08-06 00:59:25* · [`dailyftlk`](https://www.ft.lk/business/Eran-raises-concerns-over-100-m-mineral-sector-investment-hindrance/34-765202) · `en`
-
-SJB MP Eran Wickramaratne raises questions on why Puttalam Ilmenite is being denied access to SLCC land
-
-Questions SLCC’s agreement with Asha Minerals, which allegedly violates the Mines and Minerals Act and Intellectual Property Act
-
-Seeks explanations for the Ministry of Finance’s instructions to SLCC not being followed and how compliance is enforced
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne this week raised critical questions in Parliament regarding the denial of access to Sri Lanka Cement Corporation (SLCC) land to Puttalam Ilmenite Ltd. (PIL), which has invested over $ 20 million over the past decade.
-
-Wickramaratne pointed out that this obstruction is hindering the realisation of a $ 100 million investment, the largest ever in the country’s mineral sector and a significant boost to Foreign Direct Investment (FDI) at this crucial time.
-
-...
-
-[Data](articles/2539c170.json)
-
-[Extended Data](ext_articles/2539c170.ext.json)
-
----
-
-### Roshan Williams honoured for Master Printer Status
-
-*2024-08-06 00:57:22* · [`dailyftlk`](https://www.ft.lk/business/Roshan-Williams-honoured-for-Master-Printer-Status/34-765201) · `en`
-
-Roshan Williams, who was recently awarded the prestigious Master Printer Status in Digital Printing by the Ingrin Printing and Graphics Academy, met with High Commissioner for New Zealand David Pine, in Sri Lanka, with Ingrin Academy CEO and Managing Director Ananda Wickramaratne.
-
-Williams’ wife, Deepa Samarasinghe, was also present. Their meeting was a proud moment as Pine admired the Ingrin Academy’s qualifications, noting that the New Zealand Qualifications Authority has recognised its Higher Diploma in Printing and Graphics as equivalent to the National Diploma in Print Industry Management Level 5 on the NZ Register of Quality Assured Qualifications, a testament to its global recognition.
-
-◼️
-
-[Data](articles/a6859803.json)
-
-[Extended Data](ext_articles/a6859803.ext.json)
 
 ---

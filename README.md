@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 23:20:50**
+As of **2024-08-06 23:36:37**
 
 ## Newspaper Stats
 
-*Scraped **39,354** Articles*
+*Scraped **39,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,932
-virakesarilk | 6,226
-adaderanasinhalalk | 6,662
+virakesarilk | 6,228
+adaderanasinhalalk | 6,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,354 (100.0%) of 39,354 articles have been extended.
+39,354 (100.0%) of 39,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### අරුණ දර්ශන ට 5වන තැන
+
+*2024-08-06 23:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199647) · `si`
+
+පැරිස් ඔලිම්පික් උළෙලේ පිරිමි මීටර් 400 ඉසව්වේ අවසන් පූර්ව තරගයට අද (06) සහභාගී වූ ශ්‍රී ලංකාවේ අරුණ දර්ශන එහි 05වන ස්ථානය හිමි විය.
+
+අරුණ තත්පර 44යි දශම 7යි 5කින් එම ඉසව්ව නිමකළේ සිය පෞද්ගලික හොඳම දක්ෂතාවද වාර්තා කරමින්.
+
+◼️
+
+[Data](articles/3ae9e9ab.json)
+
+---
+
+### கம்பஹாவில் மற்றுமொரு துப்பாக்கிச் சூடு!
+
+*2024-08-06 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190454) · `ta`
+
+குறித்த துப்பாக்கிச் சூட்டு சம்பவம் 06ஆம் திகதி இரவு இடம்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கான நபர் மோட்டார் சைக்கிளில் பயணித்த போது, மற்றுமொரு மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளனர்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கான 29 வயதுடைய நபர் சிகிச்சைக்காக கம்பஹா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7c061c22.json)
+
+---
 
 ### Two injured in separate shootings in Ja-ela and Gampaha
 
@@ -89,6 +119,22 @@ Ravi Karunanayake, who has made it clear to the Fact Seeker, said that he had no
 [Data](articles/04a76450.json)
 
 [Extended Data](ext_articles/04a76450.ext.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் விவகாரம் நேரத்தை வீணடிக்கும் செயல்  - சிவனேசதுறை சந்திரகாந்தன்
+
+*2024-08-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190440) · `ta`
+
+வடக்கு, கிழக்கில் நடைமுறை சாத்தியமற்ற தீர்மானங்களுக்காக சில தலைவர்கள் நேரத்தை வீணடித்துக் கொண்டிருக்கின்றார்கள். தமிழ் பொது வேட்பாளர் விவகாரமும் அவ்வாறு நேரத்தை வீணடிக்கும் செயற்பாடே. ஜனாதிபதி ரணில் விக்கிரமசிங்க மீது தமிழ் மக்களின் நம்பிக்கை மேலெழுந்துள்ளதாக கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவனேசதுறை சந்திரகாந்தன் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்கிழமை (06) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நீதிமன்றத்துக்கு செல்ல வேண்டிய நிலைமையில் தான் இன்று தமிழரசு கட்சி காணப்படுகிறது. ஒரு சிலர் வடக்கு, கிழக்கில் பொது வேட்பாளர் களமிறக்கப்பட வேண்டும் என்று பேசிக் கொண்டிருக்கின்றார்கள். சில தலைவர்கள் அவர்களது சித்தாந்தத்தின் அடிப்படையில் நாட்டை குழப்பும் வகையில் செயற்பட்டுக் கொண்டிருக்கின்றனர்.
+
+...
+
+[Data](articles/797f9ace.json)
 
 ---
 
@@ -2205,65 +2251,5 @@ It is believed to be hidden in the Southbar to use explosives for illegal fishin
 [Data](articles/81b42d53.json)
 
 [Extended Data](ext_articles/81b42d53.ext.json)
-
----
-
-### Govt approves private investment for commercial Futsal courts in public sports complexes
-
-*2024-08-06 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101031/govt-approves-private-investment-for-commercial-futsal-courts-in-public-sports-complexes) · `en`
-
-The Cabinet of Minister has approved a proposal to allow a selected private investor for the construction of Futsal courts within the identified government lands and sports complexes under a public-private partnership method.
-
-Announcing the decisions arrived at by the Cabinet of Ministers during yesterday’s meeting, Cabinet Spokesman stated that Futsal - a football-based sport played on an artificial field, and an indoor court of 40x20 meters and 4 meters height has a high attraction of the public.
-
-At present, several futsal indoor stadiums have been built around the urban areas of Sri Lanka, Gunawardena added.
-
-He said that as there is a high attraction for this sport, it is expected that under a public private partnership system, a private investor will be given selected government lands and Sports Complexes on lease basis to construct Futsal courts.
-
-...
-
-[Data](articles/81d34f34.json)
-
-[Extended Data](ext_articles/81d34f34.ext.json)
-
----
-
-### Sri Lanka’s LB Finance merges Multi Finance Plc
-
-*2024-08-06 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-for-indonesia-trade-agreement-to-be-signed-in-march-2025-175417/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LB Finance said it had merged Kandy-based licensed finance company Multi Finance Plc.
-
-After passing a special resolution to amalgamate Multi Finance PLC with LB Finance PLC at an Extraordinary General Meeting held on June 28, “necessary steps were duly taken by the Company to register the said amalgamation with the Department of Registrar General of Companies (DRGOC),” the company said in a stock exchange filing.
-
-“The DRGOC having validated the accuracy of the process we have adopted for the said amalgamation in terms of the provisions of the Companies Act No. 07 of 2007, issued us the “Certificate of Amalgamation Issued to a Limited Company” today.”
-
-Fairway Holdings was the previous largest shareholder of Multi Finance following an acquisition in 2017.
-
-In 2022, LB Finance bought a 64 percent stake in Mutli Finance for 400 million rupees.
-
-...
-
-[Data](articles/52980d91.json)
-
-[Extended Data](ext_articles/52980d91.ext.json)
-
----
-
-### Sri Lanka plans to ink Preferential Trade Agreement with Indonesia next March
-
-*2024-08-06 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-preferential-trade-agreement-with-indonesia-next-march-175418/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to sign a preferential trade agreement in March 2025, to boost the country’s export potential, Cabinet spokesman Bandula Gunawardana said.
-
-Negotiators from the two countries had met in Colombo on July 15 and 16 and agreed to finalized talks by December 2024.
-
-Sri Lanka has already signed a free trade deal with Thailand and Singapore, which will progressively liberalize trade over a number of years.
-
-◼️
-
-[Data](articles/0d736930.json)
-
-[Extended Data](ext_articles/0d736930.ext.json)
 
 ---

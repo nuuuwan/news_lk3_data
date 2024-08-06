@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 11:20:53**
+As of **2024-08-06 11:37:01**
 
 ## Newspaper Stats
 
-*Scraped **39,247** Articles*
+*Scraped **39,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 4,554
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,921
 virakesarilk | 6,209
-adaderanasinhalalk | 6,635
+adaderanasinhalalk | 6,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,243 (100.0%) of 39,247 articles have been extended.
+39,247 (100.0%) of 39,248 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,29 +50,43 @@ This total includes 7 independent candidates whose names have been nominated by 
 
 [Data](articles/42c0eb56.json)
 
+[Extended Data](ext_articles/42c0eb56.ext.json)
+
 ---
 
-### අනුරත් ඇප තියයි
+### Anura is bailed
 
 *2024-08-06 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199620) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා ජාතික ජන බලවේගයේ අපේක්ෂකයා ලෙස අනුර කුමාර දිසානායක මහතා වෙනුවෙන් අද (06) ඇප මුදල් තැන්පත් කර තිබේ.
+Anura Kumara Dissanayake, a candidate for the Presidential Election, was bailed out today (06).
+
+🟩
+
+Anura Kumara Dissanayake has deposited for the Presidential Election today (06) as candidate for the Presidential Election.
 
 ◼️
 
 [Data](articles/1e81c7b1.json)
 
+[Extended Data](ext_articles/1e81c7b1.ext.json)
+
 ---
 
-### අනුරත් ඇප මුදල් තැන්පත් කරයි
+### Anurath deposits bail
 
 *2024-08-06 10:39:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරත්-ඇප-මුදල්-තැන්පත්-කරයි/11-411220) · `si`
 
-ජාතික ජන බලවේයේ නායක, පාර්ලිමේන්තු මන්ත්‍රී අනුර  කුමාර දිසානායක මහතා වෙනුවෙන් ඉදිරි ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+Anura Kumara Dissanayake, a candidate for the upcoming presidential election, has been deposited as the leader of the National Jone Society.
+
+🟩
+
+The leader of the National Jone Society is deposited for the next presidential election for MP Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/158a33af.json)
+
+[Extended Data](ext_articles/158a33af.ext.json)
 
 ---
 
@@ -133,6 +147,24 @@ A ten-year-old child who was injured in the accident have been admitted to the H
 [Data](articles/65a6b786.json)
 
 [Extended Data](ext_articles/65a6b786.ext.json)
+
+---
+
+### ඊශ්‍රායලයේ සිටින ලාංකිකයින්ට හදිසි දැනුම්දීමක්
+
+*2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199617) · `si`
+
+ඊශ්‍රායලයේ පවතින ගැටුම්කාරී තත්ත්වය හමුවේ එරට සිටින සියලු ශ්‍රී ලාංකිකයන්ට සහ සියලු විදෙස් ශ්‍රමිකයන් සඳහා හදිසි අවස්තාවක් ඇති වූවහොත් ක්‍රියාකිරීම සඳහා දුරකථන අංක කිහිපයක් සහ මාර්ගෝපදේශ නිකුත් කර තිබේ.
+
+මේ සම්බන්ධයෙන් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බන්ඩාර මහතාගෙන් "අද දෙරණ" කළ විමසීමකදී ඔහු ප්‍රකාශ කළේ, මේ වන විට ශ්‍රී ලංකිකයින් 11,000ක් පමණ ඊශ්‍රායලයේ සේවය කරන බවත් ඉන් 70%ක් පමණ සාත්තු සේවකයන් ලෙස සේවය කරන්නන් බවත්ය.
+
+ඉතිරි 30% කෘෂිකාර්මික සහ ඉදිකිරීම් අංශයන්හි සේවය කරන බව නිමල් බණ්ඩාර මහතා සඳහන් කළේය.
+
+මේ අතර ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් අනියත බියක් ඇති නොගන්නා ලෙස එරට ශ්‍රී ලංකා තානාපති කාර්යාලය දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/81ee93b1.json)
 
 ---
 
@@ -2149,21 +2181,5 @@ The Helaippalai police are arrested on suspect with the influence of the infant.
 [Data](articles/6d681a5e.json)
 
 [Extended Data](ext_articles/6d681a5e.ext.json)
-
----
-
-### Sri Lanka’s Quest For A Man For All Season
-
-*2024-08-05 19:42:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-quest-for-a-man-for-all-season/) · `en`
-
-Sri Lanka people will be voting to elect their next President on September 21. The Election Commission’s announcement on the election sets to rest all the speculation about political moves to postpone it.
-
-The month ended with six presidential aspirants in the fray. According to the Election Commission of Sri Lanka (ECS) six candidates who deposited the money required to contest the presidential election included two independents and four representing political parties or formations. President Ranil Wickremesinghe and former MP Sarath Keerthirathne are contesting as independents. The four candidates representing political parties/groupings – opposition leader Sajith Premadasa (Samagi Jana Balawegaya -SJB), social activist Oshala Herath (New Independent Front), ASP Liyanage (Sri Lanka Labour Party) and PWSK Bandaranayake (Jathika Sanwardhana Peramuna).
-
-...
-
-[Data](articles/b6dfc02c.json)
-
-[Extended Data](ext_articles/b6dfc02c.ext.json)
 
 ---

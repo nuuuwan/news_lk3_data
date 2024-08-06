@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 15:21:09**
+As of **2024-08-06 15:36:45**
 
 ## Newspaper Stats
 
-*Scraped **39,282** Articles*
+*Scraped **39,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,103 @@ islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
 adalk | 3,608
-adaderanalk | 4,563
+adaderanalk | 4,564
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,924
-virakesarilk | 6,209
+virakesarilk | 6,213
 adaderanasinhalalk | 6,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,279 (100.0%) of 39,282 articles have been extended.
+39,282 (100.0%) of 39,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### බංග්ලාදේශයේ පාර්ලිමේන්තුව විසුරුවා හරී
+### Bangladesh Parliament dissolved by President amid ultimatum from student protesters
+
+*2024-08-06 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101040/bangladesh-parliament-dissolved-by-president-amid-ultimatum-from-student-protesters) · `en`
+
+Bangladesh’s parliament was dissolved on Tuesday, the president’s office said in a statement, a day after Prime Minister Sheikh Hasina resigned and fled the country following violent protests demanding her ouster.
+
+The announcement came hours after protesting student leaders set a deadline to dissolve parliament and warned a “strict programme” would be launched if their deadline is not met.
+
+◼️
+
+[Data](articles/0cfe539c.json)
+
+---
+
+### Parliament dissolved parliament in Bangladesh
 
 *2024-08-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199630) · `si`
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ බංග්ලාදේශ ජනාධිපති කාර්යාලය ඒ බව නිවේදනය කර ඇති බවය.
+Bangladesh's Parliament has been dissolved, as reported by foreign media, with the announcement coming from the President's office.
+
+🟩
+
+Foreign media reports that this was announced that the Bangladesh president's office was announced.
 
 ◼️
 
 [Data](articles/4ad3ff0d.json)
 
+[Extended Data](ext_articles/4ad3ff0d.ext.json)
+
 ---
 
-### පාසලේ සංගීත කාමරයට ගිනි තැබුවේ කවුද ?
+### Who set fire to the school's music room?
 
 *2024-08-06 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199629) · `si`
 
-ආණමඩුව ප්‍රදේශයේ විදුහලක සංගීත කාමරය ගිනි තබා විනාශ කිරීමේ සිද්ධිය සම්බන්ධයෙන් එම පාසලේම 8වන ශ්‍රේණියේ සිසුවෙකුගෙන් පොලීසිය ප්‍රශ්න කර තිබේ.
+A fire in a school's music room in Anamaduwa was caused by two students, including an 8th grader. The blaze was contained, preventing spread to other buildings. Investigations are ongoing to determine the cause, with one theory suggesting a stone thrown through a window started the fire.
 
-මෙම ගිනිතැබීම සඳහා එම සිසුවාට අමතරව තවත් සිසුවෙකු ද සම්බන්ධ වී ඇති බවට සැක කෙරෙයි.
+🟩
 
-පසුගිය 04 වනදා මෙම විදුහලේ සංගීත ඒකකය ගිනි ගැනීමකින් විනාශවී තිබූ අතර එය අනෙක් ගොඩනැගිලි වෙත පැතිර යාම වැළැක්වීම සඳහා විදුහල්පතිවරයා සහ ගුරුවන් පිරිසක් සමත්වී තිබුණි.
+The police have questioned a student of a 8th grade student in the same school regarding the burn of a school room in Anamaduwa area.
 
-අදාළ ගිනිගැනීම විදුලි කාන්දුවක්ද නැතහොත් ගිනි තැබීමක්ද යන්න සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කළේය.
+In addition to the student, another student was also involved in the student.
 
-එහිදී හෙළිවී ඇත්තේ පාසල් සිසුවෙකු දහවල් කාලයේ පාසල පිටුපස ආරක්ෂිත වැටෙන් පාසල් භූමිය වෙත පැමිණ ඇති බවය.
+The music unit of this school had been destroyed by a fire which was able to prevent it from spreading it to other buildings.
 
-මෙහිදී අදාළ සිසුවාගෙන් පොලිස් බුද්ධි අංශ නිලධාරීන් විසින් සිදුකළ වැඩිදුර ප්‍රශ්න කිරීම් හමුවේ තොරතුරු ලැබී ඇත්තේ දිවුල් කැඩීමට ගසට ගැසූ ගලකින් සංගීත කාමරයේ වීදුරුවක් බිඳී ගිය බවය.
+Police also commenced investigations into whether the fire would be a burst or a fire.
 
-අද දෙරණ මේ සම්බන්ධයෙන් ආණමඩුව පොලීසියේ උසස් නිලධාරියෙකුගෙන් කළ විමසීමේදී ඔහු සඳහන් කළේ අදාළ සිද්ධිය සම්බන්ධයෙන් සිසුවෙකුගෙන් ප්‍රශ්න කරමින් සිටින බවය.
+It is revealed that a schoolgirl had come to the school premises behind the safe fence behind the school.
+
+Further information made by the police intelligence officers from the student was found that the bread was broken down by a stone room in the music.
+
+When inquired by a high-ranking official of the Anamaduwa police, he said that the incident was being questioned about the incident.
+
+Anamaduwa Police officers are due to be taken to court today (06) to seek advice from the Judiciary before the suspected student and his friend.
+
+◼️
+
+[Data](articles/6d7a29c1.json)
+
+[Extended Data](ext_articles/6d7a29c1.ext.json)
+
+---
+
+### ஏதேச்சதிகாரியாக மாறிய ஜனநாயகத்தின் சின்னம் - ஷேக் ஹசீனா
+
+*2024-08-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190403) · `ta`
+
+மாணவர்களின் பல வாரப்போராட்டம் உயிரிழப்புகள் மிகுந்த தேசியரீதியிலான அமைதியின்மையாக மாறியதை தொடர்ந்து ஷேக் ஹசீனா பதவியை இராஜினாமா செய்துவிட்டு நாட்டிலிருந்து வெளியேறியுள்ளார்.
+
+76 வயது ஷேக் ஹசீனா ஹெலிக்கொப்டரில் இந்தியாவிற்கு தப்பிச்சென்றுள்ளார் என அறிக்கைகள் தெரிவிக்கின்றன.
+
+தலைநகர் டாக்காவில் உள்ள அவரது உத்தியோகபூர்வ வாசல்ஸதலத்தை ஆயிரக்கணக்கான பொதுமக்கள் முற்றுகையிட்டவேளை இது இடம்பெற்றது.
+
+இது பங்களாதேசின் மிக நீண்டகாலம் ஆட்சிபுரிந்த பிரதமரின் ஆட்சியை  எதிர்பாராத விதத்தில் முடிவிற்கு கொண்டுவந்துள்ளது. பிரதமர் ஹசீனா 2009 முதல் பதவியிலிருந்து வந்துள்ளதுடன் ,20 வருடங்களிற்கு மேல் நாட்டை ஆண்டுள்ளார்.
+
+சமீபவருடங்களில் தென்னாசிய நாட்டின் பொருளாதார வளர்ச்சிக்கு காரணமானவர் என்ற பெருமை இவருக்குள்ளது, ஹசீனா  ஒரு ஜனநாயக போராளியாக அதற்கான அடையாளமாக தனது அரசியல் வாழ்க்கையை ஆரம்பித்தார்.
 
 ...
 
-[Data](articles/6d7a29c1.json)
+[Data](articles/b17c371a.json)
 
 ---
 
@@ -86,23 +134,29 @@ The Tamil Progressive Alliance has decided to support the presidential candidate
 
 ---
 
-### වතු සේවක වැටුප් වැඩි කිරීමට එරෙහි පෙත්සම ඉල්ලා අස් කරගනී
+### Petition against the increase in the estate workers
 
 *2024-08-06 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199628) · `si`
 
-වතු සමාගම් 21ක් විසින් ගොනුකර තිබූ රිට් පෙත්සමක් අද (06) අභියාචනාධිකරණය හමුවේ ඉල්ලා අස්කර ගනු ලැබීය.
+Estate companies withdrew a petition against a labor minister's gazette notification increasing estate workers' wages. The case was heard by the Court of Appeal, where it was represented by Romesh de Silva on behalf of 21 plantation companies.
 
-වතු කම්කරු වටුප් වැඩිකරමින් කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතා විසින් නිකුත් කළ ගැසට් නිවේදනය බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම් ගොනුකර තිබුණි.
+🟩
 
-මෙම නඩුව අද සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවීය.
+A Rit petition filed by 21 estate companies withdrawn before the Court of Appeal today (06).
 
-එම අවස්ථාවේදී පෙත්සම ඉදිරිපත් කළ ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21ක් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙස ඉල්ලා සිටියේය.
+The petitions were filed demanding a decomposition of the gazette notification issued by Labor Minister Manusha Nanayakkara by increasing the estate workers' waves.
 
-වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට අදාළව නිකුත් කළ ගැසට් නිවේදනය කම්කරු අමාත්‍යවරයා විසින් ඉවත් කරගෙන තිබෙන බව ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාෆා මහතා මීට පෙර අධිකරණයට දැනුම්දී තිබුණි.
+The case was called before the Court of Appeal Judge of Sobhuthya today.
+
+Romesh de Silva, who appeared in the court, appeared before the court and 21 plantation companies, asking for 21 plantation companies.
+
+President's Counsel Faizer Mustafa had previously informed him that the Assistant Minister of Labor had been removed by the Labor Notification issued by the Minister of Plantation Workers.
 
 ◼️
 
 [Data](articles/d64a0806.json)
+
+[Extended Data](ext_articles/d64a0806.ext.json)
 
 ---
 
@@ -183,6 +237,22 @@ The Commission said that the complaints were reported from July 31 to 5 pm yeste
 [Data](articles/4b61f6df.json)
 
 [Extended Data](ext_articles/4b61f6df.ext.json)
+
+---
+
+### ஈராக்கில் உள்ள அமெரிக்க விமானப்படை தளத்தை இலக்குவைத்து ரொக்கட் தாக்குதல்- பலர் காயம்
+
+*2024-08-06 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190400) · `ta`
+
+ஈராக்கில் உள்ள அமெரிக்க இராணுவதளம் மீது மேற்கொள்ளப்பட்ட ரொக்கட் தாக்குதலில் அமெரிக்க இராணுவவீரர்கள் பலர் காயமடைந்துள்ளனர்.
+
+ஹமாஸ் தலைவர் ஹெஸ்புல்லா அமைப்பின் தளபதி ஆகியோர் கொலை செய்யப்பட்டமைக்கு பழிவாங்கும் விதத்தில் ஈரானும் ஹெஸ்புல்லா அமைப்பும் தாக்குதலை மேற்கொள்ளக்கூடும் என்ற அச்சத்தின் மத்தியிலேயே இந்த தாக்குதல் இடம்பெற்றுள்ளது.
+
+அல் அசாத் விமானப்படைதளத்தில் ஏற்பட்டுள்ள சேதங்கள் குறித்து மதிப்பிட்டு வருவதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/85300b51.json)
 
 ---
 
@@ -356,6 +426,18 @@ In addition, police said that the local journalists who were working on the vide
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-06 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190393) · `ta`
+
+இன்று செவ்வாய்க்கிழமை  (ஆகஸ்ட் 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.9872  ஆகவும் கொள்வனவு விலை ரூபா 297.6981 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b4902941.json)
+
+---
+
 ### Tharushi Karunaratne’s track kit to feature in Switzerland’s Olympic Museum
 
 *2024-08-06 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101035/tharushi-karunaratnes-track-kit-to-feature-in-switzerlands-olympic-museum) · `en`
@@ -373,6 +455,22 @@ The handing over of autographed kit to the International Olympic Committee offic
 [Data](articles/118ee7a1.json)
 
 [Extended Data](ext_articles/118ee7a1.ext.json)
+
+---
+
+### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் அகில சாலிய எல்லாவல ரணில் விக்ரமசிங்கவிற்கு ஆதரவு !
+
+*2024-08-06 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190396) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் அகில சாலிய எல்லாவல மற்றும் பலாங்கொடை தொகுதியில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி பிரதிநிதிகள் ரணில் விக்ரமசிங்கவை ஜனாதிபதியாக்க ஏகமனதாக தெரிவு செய்தனர்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உருப்பினரும் இரத்தினபுரி மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவருமான அகில சாலிய எல்லாவல அவர்களின் பலாங்கொடை அலுவலகத்தில்  திங்கட்கிழமை (05) மாலை நடைபெற்ற கலந்துரையாடலின் போது ஜனாதிபதி தேர்தலின் போது ரணில் விக்ரமசிங்கவின் வெற்றிக்காக பாடுபடவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி பிரதிநிதிகளும் பலாங்கொடை தேர்தல் தொகுதியின் பிரதேச அமைப்பாளர்களும் தெரிவித்தனர்.
+
+பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் உள்ளூராட்சி பிரதிநிதிகளும் பிரதேச அமைப்பாளர்களும் கைகளை உயர்த்தி ரணில் விக்ரமசிங்கவிற்கு ஆதரவு தெரிவிப்பதாக உருதிபடுத்தினார்கள்.
+
+...
+
+[Data](articles/2a772b86.json)
 
 ---
 
@@ -2091,105 +2189,5 @@ Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajit
 [Data](articles/b7d5f93e.json)
 
 [Extended Data](ext_articles/b7d5f93e.ext.json)
-
----
-
-### EC extends deadline for postal voting applications
-
-*2024-08-06 00:45:35* · [`dailyftlk`](https://www.ft.lk/news/EC-extends-deadline-for-postal-voting-applications/56-765195) · `en`
-
-The deadline for submitting postal voting applications, originally set to expire at midnight today, has been extended, the Commissioner General of Elections Saman Sri Ratnayake said yesterday. Voters now have until 12 midnight on Friday, 9 August to submit their applications.  This extension comes in response to concerns over potential postal delays and numerous public requests for additional time.
-
-◼️
-
-[Data](articles/4e65f777.json)
-
-[Extended Data](ext_articles/4e65f777.ext.json)
-
----
-
-### Empowering entrepreneurs: Expert Insights from the Human Capital Summit 2024
-
-*2024-08-06 00:36:11* · [`dailyftlk`](https://www.ft.lk/business/Empowering-entrepreneurs-Expert-Insights-from-the-Human-Capital-Summit-2024/34-765192) · `en`
-
-Addressing brain drain and economic stability in Sri Lanka requires attracting global companies and leveraging the skills of expatriates. Expatriates, while contributing to brain drain, hold the key to reversing this trend by bringing in capital, expertise, and international companies. To build a sustainable economy, we must create a stable environment with supportive legal and structural changes that facilitate the return of skilled professionals and bolster the startup ecosystem
-
-– Australia Gateway Chairman and Principal Lawyer, Barrister and Solicitor Don Susantha Katugampala
-
-...
-
-[Data](articles/9cff804f.json)
-
-[Extended Data](ext_articles/9cff804f.ext.json)
-
----
-
-### Decolonizing History & Fiction In Post-Ethnic Sri Lanka
-
-*2024-08-06 00:23:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/decolonizing-history-fiction-in-post-ethnic-sri-lanka/) · `en`
-
-“Fair is foul and foul is fair” ~ William Shakespeare, Macbeth
-
-Why are there no Booker Prize-winning novels about mundane multicultural families that inter-married for generations, shared religion/s, language/s, histories, and co-existed for centuries, while living in relative harmony in Ceylon/ Sri Lanka?
-
-Is the trope of ‘dark natives’ engaged in endless, chaotic violence an international literature prize-winning bestseller that masks white mischief, including sanitized, techno-scientific AI guided hybrid warfare in a post-Truth world awash in distracting Culture Wars?
-
-Susan William’s brilliant and brave book “White Malice” is subtitled “The CIA and the Covert Recolonization of Africa’. Her analysis may well apply to Eurobond debt trapped Sri Lanka, Pakistan and other Afro-Asian post/colonies, where National Endowment for Democracy (NED), funded protests and regime change operations have unfolded recently. NED is known as the second Central Intelligence Agency (CIA).
-
-...
-
-[Data](articles/b19e9a6c.json)
-
-[Extended Data](ext_articles/b19e9a6c.ext.json)
-
----
-
-### 2024-08-05 (Monday)
-
-### 60 complaints have been reported on the violation of the election law - the Executive Director of the February Organization
-
-*2024-08-05 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190373) · `ta`
-
-Rohana Hettiarachchi, the Executive Director of the February Organization, revealed that approximately 60 complaints have been lodged concerning violations of election laws during the presidential election. These complaints primarily revolve around the misuse of state authority and resources. Additionally, there were issues related to the removal of leaders from certain institutions, the initiation of development projects, and the reassignment of personnel, which could potentially influence political parties or candidates unfairly. Hettiarachchi emphasized the importance of public servants refraining from engaging in political activities while still employed, highlighting the need for adherence to electoral laws.
-
-🟩
-
-About 60 complaints have been received so far regarding the presidential election. The Executive Director of the February, Rohana Hettiarachchi said that many of these are related to the abuse of state authority and state property.
-
-He said this in the complaints regarding the violation of election law since the presidential election was announced.
-
-About 60 complaints have been received so far regarding the presidential election. Most of these complaints are related to the abuse of state authority and state property. These complaints are usually affected by all sides.
-
-Similarly, we have also received a complaint about the removal of leaders and corporations in some institutions in addition to distribution, appointment and transfer of the people.
-
-Similarly, we have received information on the launch of various development projects, the foundation and the opening of some uninhabited development projects.. This makes it possible for the political party to be directly impressed.
-
-...
-
-[Data](articles/0b0d10ec.json)
-
-[Extended Data](ext_articles/0b0d10ec.ext.json)
-
----
-
-### Ranil's success is the beginning of serious actions
-
-*2024-08-05 23:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வெற்றிக்காக-தீவிரமான-செயற்படுகள்-ஆரம்பம்/175-341658) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, marking a significant step towards his re-election. The decision was reached with a 90% consensus among the All Ceylon Executive Council, indicating a strong backing from within the party. The SLFP's extensive organizational network is now actively working to secure Wickremesinghe's victory.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) officially decided to support President Ranil Wickremesinghe in the upcoming presidential election. Transport Minister Nimal Siripala de Silva and Secretary General of Parliament Duminda Silva, including our party leader Nimal Siripala de Silva, have represented the SLFP and said that 8 of the 14 members elected to the parliament under the PA had complied with the resolution.
-
-The decision was taken with a 90% agreement in the All Ceylon Executive Council. Therefore, the SLFP's strong arrangement network has already begun to actively ensure the victory of President Ranil Wickremesinghe, ”he said.
-
-Speaking at a press conference held at the Presidential Media Center today (05). Remble
-
-◼️
-
-[Data](articles/c12e05d8.json)
-
-[Extended Data](ext_articles/c12e05d8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 22:54:44**
+As of **2024-08-06 23:07:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,344 (100.0%) of 39,354 articles have been extended.
+39,354 (100.0%) of 39,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Meanwhile, in a separate incident, a 29-year-old person was injured in a shootin
 
 [Data](articles/aeac9879.json)
 
+[Extended Data](ext_articles/aeac9879.ext.json)
+
 ---
 
 ### Ayurveda & Buildings departments are lowest performing, revealed before COPA
@@ -60,53 +62,79 @@ As a result, it was decided to summon both these institutions before the Committ
 
 [Data](articles/e1f92404.json)
 
+[Extended Data](ext_articles/e1f92404.ext.json)
+
 ---
 
-### ரணில் ஜனாதிபதியானால் நானே பிரதமர்  - ரவி கருணாநாயக்க கூறியதாக வெளியான பதிவுகள்  உண்மைக்குப் புறம்பானவை என தரவு சரிபார்த்தலில் கண்டறிவு
+### If Ranil is the President, I am the Prime Minister - Ravi Karunanayake has said that the records are untrue.
 
 *2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190443) · `ta`
 
-எதிர்வரும் ஜனாதிபதித்தேர்தலில் ரணில் விக்ரமசிங்க ஜனாதிபதியாகத் தெரிவானதன் பின்னர், தான் பிரதமராகப் பதவியேற்கவிருப்பதாக ஐக்கிய தேசியக்கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்திருப்பதாக சமூக வலைத்தளங்களில் பகிரப்பட்டுவரும் செய்தியில் எவ்வித உண்மையும் இல்லை என தரவு சரிபார்த்தலில் உறுதிப்படுத்தப்பட்டுள்ளது.
+Ravi Karunanayake denies making claims about becoming PM under Ranil Wickremesinghe's presidency, stating the reports circulating on social media are untrue.
 
-எதிர்வரும் ஜனாதிபதித்தேர்தலில் ரணில் விக்ரமசிங்க ஜனாதிபதியாகத் தெரிவுசெய்யப்பட்டதன் பின்னர், தான் பிரதமராகப் பதவியேற்கவிருப்பதாக ஐக்கிய தேசியக்கட்சியின் உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்திருப்பதாக சமூகவலைத்தளங்களில் பதிவொன்று பகிரப்பட்டவருகின்றது.
+🟩
 
-”ரணில் ஜனாதிபதியானதன் பின்னர் நானே பிரதமர் - ரவி கருணாநாயக்க கூறுகிறார்” என்ற தலைப்புடன், சிங்கள தேசிய பத்திரிகை ஒன்றின் முதற்பக்கத்தை ஒத்ததாக வடிவமைக்கப்பட்டு மேற்குறிப்பிட்ட பதிவு பகிரப்பட்டுவருகின்றது.
+Former United National Party (UNP) parliamentarian Ravi Karunanayake has said that he will be sworn in as the prime minister after Ranil Wickremesinghe was elected president in the upcoming presidential election.
 
-இந்நிலையில் இப்பதிவின் உண்மைத்தன்மை குறித்து இலங்கைப் பத்திரிகை ஸ்தாபனத்தைத் தளமாகக்கொண்டு இயங்கிவரும் Fact Seeker ஆராய்ந்து பார்த்ததில், அப்பதிவில் எவ்வித உண்மையும் இல்லை என உறுதிப்படுத்தப்பட்டுள்ளது.
+United National Party (UNP) member Ravi Karunanayake has said that he will be sworn in as prime minister after Ranil Wickremesinghe was elected president in the upcoming presidential election.
 
-...
+With the topic of "I am the Prime Minister - Ravi Karunanayake after Ranil became President," the above record is shared as a similar to the Sinhala national newspaper.
+
+In this case, the fact that the Sri Lankan newspaper is based on the veracity of the article has been confirmed that there is no truth.
+
+Ravi Karunanayake, who has made it clear to the Fact Seeker, said that he had not made any such comments and that the record being shared on social networks would include completely false information.
+
+◼️
 
 [Data](articles/04a76450.json)
 
+[Extended Data](ext_articles/04a76450.ext.json)
+
 ---
 
-### 2 துப்பாக்கிச் சூட்டில் இருவர் காயம்
+### 2 injured in 2 shootings
 
 *2024-08-06 22:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-துப்பாக்கிச்-சூட்டில்-இருவர்-காயம்/175-341718) · `ta`
 
-கம்பஹா மற்றும் ஜா-எல ஆகிய இடங்களில் இன்று பதிவான இரண்டு வெவ்வேறு துப்பாக்கிச் சூட்டு சம்பவங்களில் இருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். முதலாவது சம்பவம் ஜா-எல, மகேவிட்டவில் இடம்பெற்றுள்ளது, இதில் கடவத்தையைச் சேர்ந்த 43 வயதுடைய ஒருவர் காயமடைந்துள்ளார். இரண்டாவது சம்பவம் கம்பஹா, தம்மிதவில் இடம்பெற்றுள்ளது, இதில் உடுகம்பொல பகுதியைச் சேர்ந்த 29 வயதுடைய இளைஞரே துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார். சந்தேகநபர்கள் தலைமறைவாக உள்ள நிலையில், மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன
+In separate incidents in Gampaha and Ja-Ela, two individuals were shot, including a 43-year-old from Kadawatha and a 29-year-old from Udugampola. Investigations continue as suspects remain at large.
+
+🟩
+
+Two persons were injured in two different shootings reported today in Gampaha and Ja-Ela.. The first incident took place in Ja-Ela, Mahevita, in which a 43-year-old man from Kadawatha was injured. The second incident took place in Gampaha, Dammithi, in which the 29 -year -old youth from Udugampola was targeted for the shooting.. Further investigations are underway as the suspects are hiding
 
 ◼️
 
 [Data](articles/2371da38.json)
 
+[Extended Data](ext_articles/2371da38.ext.json)
+
 ---
 
-### மாகாணசபை தேர்தல்கள் (திருத்தச் )சட்டமூலம் இரண்டாம் வாசிப்புக்காக சமர்ப்பிப்பு - விமல் வீரவன்ச கடும் எதிர்ப்பு
+### Provincial Council Elections (Amendment) Bill for Second Reading - Wimal Weerawansa
 
 *2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190438) · `ta`
 
-மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்  எம்.ஏ.சுமந்திரன்  சபைக்கு சமர்ப்பித்தார்.
+The Tamil National Alliance MP MA Sumanthiran introduced the Provincial Council Elections (Amendment) Bill for its second reading in Parliament. Wimal Weerawansa criticized it, fearing negative impacts on the Muslim and Sinhala communities in the North. The bill is viewed as potentially destabilizing the federation's electoral system.
 
-தமிழ் தேசிய கூட்டமைப்பின் வாக்குகளை பெறுவதற்காகவே  மாகாண சபை சட்டமூலம் கொண்டு வரப்பட்டுள்ளது.இந்த சட்டமூலத்தினால் வடக்கில் வாழும் முஸ்லிம் ,சிங்கள சமூகத்தினர் பாதிக்கப்படுவார்கள் என பாராளுமன்ற உறுப்பினர் விமல்  வீரவன்ச கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற அமர்வின் போது கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சுமந்திரன் மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக சபைக்கு சமர்ப்பித்தார்.
+The Tamil National Alliance (TNA) MP MA Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the Second Reading.
 
-இதன்போது எழுந்து உரையாற்றிய பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச,ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் அவசரமாக ஏன் தற்போது மாகாண சபை தேர்தல்கள் திருத்தச் சட்டமூலத்தை கொண்டு வர வேண்டும்.இதன் உண்மை தன்மை என்ன?
+Parliamentarian Wimal Weerawansa expressed fierce opposition that the Muslim and Sinhala community in the North will be affected by the Bill.
 
-...
+During the session in Parliament on Tuesday (06), the Member of Parliament Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the House for a second reading.
+
+Speaking at the event, MP Wimal Weerawansa said that the presidential election is to be held in an urgent provincial council election amendment. What is the reality?
+
+The amendment bill is seen as a bomb of the federation's vote.
+
+Speaking at the event, Chief Minister Susil Premajayantha said that the Provincial Council Elections Amendment Bill has been submitted only for the second reading.
+
+◼️
 
 [Data](articles/d2527a49.json)
+
+[Extended Data](ext_articles/d2527a49.ext.json)
 
 ---
 
@@ -152,17 +180,23 @@ In a statement, 121 election related complaints have been reported from 31st Jul
 
 ---
 
-### ஜா-எலயில் துப்பாக்கிச் சூடு; ஒருவர் காயம்
+### Shooting in Ja-Ela;One injury
 
 *2024-08-06 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190453) · `ta`
 
-குறித்த துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாகவும்,  துப்பாக்கிச்சூடு நடத்தியவர்கள் தப்பிச் சென்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+In Ja-Ela, a shooting resulted in one injury. The victim, a 43-year-old from Kadavad, is hospitalized at Gampaha Hospital.
 
-கடவட பிரதேசத்தில் வசிக்கும் 43 வயதுடைய நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார். அவர் கம்பஹா வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
+
+One person was injured in the shooting and the shooters fled, police said.
+
+A 43 -year -old man lives in Kadavad area. He is being treated at the Gampaha Hospital, police said.
 
 ◼️
 
 [Data](articles/f0c27dfa.json)
+
+[Extended Data](ext_articles/f0c27dfa.ext.json)
 
 ---
 
@@ -298,37 +332,49 @@ This time she is looking forward to the refuge of England and staying in India.
 
 ---
 
-### 19 இந்திய மீனவர்கள் விடுதலை ; 9 பேருக்கு தொடர்ந்தும் விளக்கமறியல்!
+### 19 Indian fishermen released;Continue to explain 9 people!
 
 *2024-08-06 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/190451) · `ta`
 
-31 இந்திய மீனவர்களுக்கு எதிரான வழக்கு 06ஆம் திகதி செவ்வாய்க்கிழமை ஊர்காவற்துறை நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+19 Indian fishermen were released after serving part of a six-year prison sentence, while 9 others face charges with a possibility of one-year rigorous imprisonment.
 
-இதன்போது ஜூன் 22ஆம் திகதி 3 படகுகளில் எல்லை தாண்டி வந்து கைதான 22 மீனவர்களில் 19 பேர், ஆறு வருடங்கள் ஒத்திவைக்கப்பட்ட 24 மாத சிறைத் தண்டனை என்ற அடிப்படையில் விடுதலை செய்யப்பட்டனர்.
+🟩
 
-அத்துடன் படகோட்டிகள் மூவரும் தலா 40 இலட்சம் ரூபா தண்டப்பணம் செலுத்தவேண்டும். இல்லாவிட்டால் 1 வருட கடூழிய சிறை தண்டனையை அனுபவிக்க வேண்டும் என்று தீர்ப்பளிக்கப்பட்டது.
+The case against 31 Indian fishermen was taken up for hearing at the Kayts Court on Tuesday, 6th.
 
-அடுத்ததாக ஜூலை 23ஆம் திகதி கைதான 9 மீனவர்கள் ஏற்கனவே ஒருதடவை விளக்கமறியலில் வைக்கப்பட்ட நிலையில், குற்றப்பத்திரிகை இரண்டாவது தடவையாகவும் தாக்கல் செய்யப்பட்ட நிலையில் தொடர்ந்தும் இம்மாதம் 20ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+On June 22, 19 of the 22 fishermen who crossed the border in 3 boats were released on the basis of a six -year postponed 24 -month prison sentence.
+
+In addition, the three sailors have to pay Rs.. Otherwise, it was ruled that a 1 year rigorous imprisonment should be served.
+
+Next, 9 fishermen arrested on July 23 have already been submitted to the second time, and the indictment has been filed for the second time.
 
 ◼️
 
 [Data](articles/4b9972a6.json)
 
+[Extended Data](ext_articles/4b9972a6.ext.json)
+
 ---
 
-### காணாமல்போன ரயில்வே ஊழியர் சடலமாக மீட்பு!
+### Recovery of missing railway employee
 
 *2024-08-06 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190449) · `ta`
 
-காணாமல் போன ரயில்வே ஊழியரின் சடலம் மாளிகாவத்தை ரயில்வே பாதையிலுள்ள உள்ள கிணற்றில் இருந்து கண்டெடுக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+The body of a missing railway employee was discovered in a well near the Maligawatta railway line. A wallet, mobile phone, and shoes were also found nearby. Despite inadequate intervention from railway officials and police, the search continued, causing a blockage of railway traffic on Monday morning.
 
-இவருடன் பணிபுரியும் ஏனையவர்கள் மேற்கொண்ட தேடுதலின் போது தெமட்டகொட புகையிரத நிலையத்தில் உள்ள கிணறு ஒன்றிற்கு அருகில் அவரது என சந்தேகிக்கப்படும் பணப்பை, கையடக்க தொலைபேசி மற்றும் ஒரு ஜோடி காலணிகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+🟩
 
-இவ்வாறானதொரு பின்னணியில் குறித்த நபரை தேடும் நடவடிக்கையில் ரயில்வே அதிகாரிகளும் பொலிஸாரும் போதிய தலையீடுகளை மேற்கொள்ளவில்லை என தெரிவித்து புகையிரத ஊழியர்கள் 05ஆம் திகதி திங்கட்கிழமை காலை தமது கடமைகளை விட்டு வெளியேறியதையடுத்து ரயில் போக்குவரத்து தடைப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The body of the missing railway employee has been found from the well on the Maligawatta railway line, a top official of the Railway Department said.
+
+During the search by others working with him, a wallet, mobile phone and a pair of shoes were found near a well at the Dematagoda railway station.
+
+In this context, the railway officials and the police have not made adequate interference in the search for the person in this context, and the railway traffic has been blocked on Monday morning.
 
 ◼️
 
 [Data](articles/d00b9436.json)
+
+[Extended Data](ext_articles/d00b9436.ext.json)
 
 ---
 
@@ -1034,17 +1080,29 @@ Moreover, the student body has insisted that they have no agreement with the mil
 
 ---
 
-### பிரதேச ஊடகவியலாளர்களுக்கு 5000 ரூபா வழங்கவில்லை - தொலவத்த மற்றும்  கிரியெல்லவுக்கிடையில் தர்க்கம்
+### 5000 rupees to regional journalists - logic between Tolawatta and Kiriella
 
 *2024-08-06 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190431) · `ta`
 
-பிரதேச ஊடகவியலாளர்களை ஜனாதிபதி செயலகம் கொழும்புக்கு அழைத்து வந்ததாகவும், அவர்களுக்கு 5000 ரூபா வவுச்சர் வழங்குவதாகவும் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல குறிப்பிட்ட கருத்து முற்றிலும் பொய்யானது. இதனை நான் நிராகரிக்கிறேன் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி.தொலவத்த குறிப்பிட்டார்.
+Lakshman Kiriella, opposition leader, claimed the Presidential Secretariat funded a trip for regional journalists to Colombo, offering them 5,000 rupees vouchers. This was denied by Premnath C. Thelawatta, a ruling party MP, who insisted he wasn't lying about the journalists' visit organized by Minister Manusha Nanayakkara. The controversy arose during a parliamentary debate on underworld activities, with both sides accusing each other of misinformation and political maneuvering.
 
-அமைச்சர் மனுஷ நாணயக்காரவின் ஏற்பாட்டில் தான் பிரதேச ஊடகவியலாளர்கள் கொழும்புக்கு அழைக்கப்பட்டுள்ளார்கள்.நான் பொய்யுரைக்கவில்லை.உண்மையை குறிப்பிடுகிறேன் என எதிர்க்கட்சியின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல குறிப்பிட்டார்.
+🟩
+
+Lakshman Kiriella, the chief of the opposition parties, said that the Presidential Secretariat had brought the regional journalists to Colombo and would provide them with a voucher of Rs 5,000.. "I reject this," said Premnath C. Thelawatta, a ruling parliamentarian.
+
+Divisional journalists have been invited to Colombo under the auspices of Minister Manusha Nanayakkara. I am not lying.
+
+The Member of Parliament, Lakshman Kriella, had brought the relevant to Colombo, a member of the Rule of the Ruling Council, Premnath Tolawatta, a member of the ruling party, who was speaking at the adjournment debate on the issue of the Underworld.I urge the journalists to avoid estimating 5000 rupees.
+
+The activities of the Colombo Regional Journalists were carried out through my office.
+
+Opposition member Rohana Bandara said, "You are lying. Lakshman Kiriella mentioned that it was true that regional journalists were invited to Colombo through the Presidential Secretariat.
 
 ...
 
 [Data](articles/763c8a44.json)
+
+[Extended Data](ext_articles/763c8a44.ext.json)
 
 ---
 
@@ -1170,19 +1228,27 @@ The same date is the day when the Little Boy, the US -threatened bomb in 1945, c
 
 ---
 
-### ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கான 15 வீத வட்டி வீதத்தை வழங்குவதாக அளித்த வாக்குறுதியை நிறைவேற்றுங்கள் -  எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் கோரிக்கை
+### Fulfill the promise of 15 percent interest rate for pensioners and elderly - Opposition Leader requests government
 
 *2024-08-06 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190417) · `ta`
 
-ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கான விசேட 15வீத வட்டி வீதத்தை பெற்றுக்கொடுப்பதாக அரசாங்கம் பல தடவைகள் தெரிவித்திருந்தபோதும் இதுவரை அதனை வழங்க தவறி இருக்கிறது. அதனால் அரசாங்கம் இவர்களுக்கு அளித்த வாக்குறுதியை நிறைவேற்ற நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa urges the government to honor its pledge of a 15% interest rate for pensioners and the elderly, highlighting the failure to implement this despite previous commitments. The issue has sparked concern over the financial well-being of the elderly, some of whom have resorted to drastic measures due to insufficient funds.
 
-ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கு வழங்கப்பட்டுவந்த விசேட 15வீத வட்டி வீதத்தை குறைத்து அதனை 7.15வீதம் வழங்க நடவடிக்கை எடுத்திருந்தது. 2016இல் இருந்து 2020வரை இதனை செயற்படுத்துவதாகவும் அரசாங்கம் தெரிவித்திருந்தது. இருந்தபோதும் இந்த வட்டி வீதத்தை மீண்டும் 15வீதமாக அதிகரி்த்துக்கொடுக்க அரசாங்கம் தவறி இருக்கிறது.
+🟩
 
-முதியோர்கள் மிகவும் கஷ்டத்துக்கு மத்தியில் வங்கிகளில் சேமிக்கும் பணத்துக்கு கிடைக்கப்பெறும் வட்டியை கொண்டே தங்களின் வாழ்க்கையை கொண்டு செல்கின்றனர். அவர்களின் இந்த 15வீத வட்டி வீதத்தை வழங்குவதாக அரசாங்கம் இந்த சபையில் பல தடவைகள் தெரிவித்திருக்கிறது. ஆனால் செயற்படுத்துவதில்லை. அமைச்சர் ஒருவர் இந்த சபையில் பொறுப்புடன் ஒரு விடயத்தை தெரிவித்தால், அதனை செயற்படுத்த வேண்டும்.
+The government has repeatedly stated that it will receive a special interest rate of pensioners and the elderly.. Opposition leader Sajith Premadasa said the government should take steps to fulfill their promise.
+
+Steps have been taken to reduce the special 15 percent interest rate for pensioners and the elderly.. The government also said it was implementing it from 2016 to 2020. However, the government has failed to increase the interest rate by 15 %.
+
+Elderly people take their lives with the interest available for the money saving in the banks amidst great difficulty. The government has repeatedly stated in the House that they will pay their 15 percent interest rate. But not implementing. If a minister is responsible for this council, it should be implemented.
+
+The first resolution after the Gotabhaya Rajapaksa government came to power would be a reduction in the interest rate of one million 21 thousand pensioners from 2016 to 2020.. Some of these pensioners are currently not alive.
 
 ...
 
 [Data](articles/fdb9c0dc.json)
+
+[Extended Data](ext_articles/fdb9c0dc.ext.json)
 
 ---
 

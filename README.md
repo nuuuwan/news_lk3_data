@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 11:06:45**
+As of **2024-08-06 11:20:53**
 
 ## Newspaper Stats
 
-*Scraped **39,245** Articles*
+*Scraped **39,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
-adalk | 3,599
+adalk | 3,601
 adaderanalk | 4,554
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,921
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,243 (100.0%) of 39,245 articles have been extended.
+39,243 (100.0%) of 39,247 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,7 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101030/akd-places-deposits-to-contest-presidential-election) · `en`
 
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayake has placed deposits this morning (06) to contest the upcoming Presidential Election.
+Leader of the National People’s Power (NPP) MP Anura Kumara Dissanayake has placed deposits at the Election Commission this morning (06) to contest the upcoming Presidential Election.
+
+The NPP placed the deposit on behalf of Dissanayake to contest the presidential poll as its candidate, MP Vijitha Herath said, adding that they are ready to submit nominations for Dissanayake on August 15 accordingly.
+
+Speaking to the media, he expressed: “The people of the country are ready to hand over the country’s power to Anura, so we laid the foundation for that.”
+
+A total of 18 candidates including incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa, Field Marshal Sarath Fonseka and Wijeyadasa Rajapakshe have placed their deposits with the Election Commission thus far.
+
+This total includes 7 independent candidates whose names have been nominated by a voter, 10 candidates from recognized political parties and one candidate from other political parties.
 
 ◼️
 
@@ -53,6 +61,18 @@ Leader of the National People’s Power (NPP) Anura Kumara Dissanayake has place
 ◼️
 
 [Data](articles/1e81c7b1.json)
+
+---
+
+### අනුරත් ඇප මුදල් තැන්පත් කරයි
+
+*2024-08-06 10:39:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරත්-ඇප-මුදල්-තැන්පත්-කරයි/11-411220) · `si`
+
+ජාතික ජන බලවේයේ නායක, පාර්ලිමේන්තු මන්ත්‍රී අනුර  කුමාර දිසානායක මහතා වෙනුවෙන් ඉදිරි ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/158a33af.json)
 
 ---
 
@@ -123,6 +143,8 @@ A ten-year-old child who was injured in the accident have been admitted to the H
 The Foreign Workers’ Authority of Israel has issued guidelines and phone numbers of Israeli authorities for immigrant workers, including Sri Lankans, who are employed in the country.
 
 The guidelines are issued to be followed in case of any emergencies, including possible attacks under the prevailing situation.
+
+Accordingly, the following contact details of the Embassy of Sri Lanka in the State of Israel have been given to the Sri Lankan community to communicate with the embassy if there is any emergency.
 
 ◼️
 
@@ -2143,31 +2165,5 @@ The month ended with six presidential aspirants in the fray. According to the El
 [Data](articles/b6dfc02c.json)
 
 [Extended Data](ext_articles/b6dfc02c.ext.json)
-
----
-
-### Time to submit postal voting applications till the 9th - Elections Commission
-
-*2024-08-05 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190366) · `ta`
-
-The Elections Commission has extended the deadline for postal voting applications until the 9th due to payment and processing delays. Applications must reach the District Election Office by midnight on the last acceptance day. To prevent further delays, applications should be posted today (8) or next Friday (9). It's recommended to deliver them directly to the District Elections Office in separate envelopes.
-
-🟩
-
-The Elections Commission has advised that the deadline for postal voting applications for postal voting has been extended till Friday (9).
-
-Applications for postal voting for the presidential election have been extended till the 9th of this month, with the delay in paying the applications and the delay in the Commission.
-
-Applications should be reached in charge of the District Elections in charge of the applications before 12 midnight on the final date of accepting applications.
-
-To avoid delays when applications are available, the postal voting applications will be taken to the post tomorrow (8) and next Friday (9).
-
-We are saying that it is best to divide them in each district and hand over them to the District Elections Office in the district where the office is located in other envelopes.
-
-◼️
-
-[Data](articles/00b370b3.json)
-
-[Extended Data](ext_articles/00b370b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 14:55:07**
+As of **2024-08-06 15:05:54**
 
 ## Newspaper Stats
 
-*Scraped **39,277** Articles*
+*Scraped **39,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
-adalk | 3,607
+adalk | 3,608
 adaderanalk | 4,563
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,923
+tamilmirrorlk | 4,924
 virakesarilk | 6,209
 adaderanasinhalalk | 6,643
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,276 (100.0%) of 39,277 articles have been extended.
+39,277 (100.0%) of 39,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### மனோ அணி சஜித்துக்கு ஆதரவு
+
+*2024-08-06 14:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-அணி-சஜித்துக்கு-ஆதரவு/175-341692) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாஸவிற்கு ஆதரவு வழங்க தமிழ் முற்போக்கு கூட்டணி தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/336d65fa.json)
+
+---
 
 ### Govt. to integrate public sector IT systems to enhance efficiency
 
@@ -45,6 +57,26 @@ Accordingly, the Cabinet of Ministers has approved the proposal furnished by Pre
 ...
 
 [Data](articles/06f96629.json)
+
+[Extended Data](ext_articles/06f96629.ext.json)
+
+---
+
+### නාමල් ඉල්ලා අස්වෙයි
+
+*2024-08-06 13:57:52* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ඉල්ලා-අස්වෙයි/11-411232) · `si`
+
+ජාත්‍යන්තර සබඳතා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සමාජිකත්වයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ඉල්ලා අස්වී ඇති බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (06දා) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+ඒ අනුව එම පුරප්පාඩුව සඳහා ස්ථාවර නියෝග 130(3) හි විධිවිධාන අනුව 2024 අගෝස්තු 02 වැනිදා තේරීම් කාරක සභාව විසින් පාර්ලිමේන්තු මන්ත්‍රී නීතීඥ ප්‍රේම්නාත් සී දොලවත්ත නම් කර ඇති බවද හෙතෙම සඳහන් කළේය.
+
+ජාත්‍යන්තර සබඳතා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ලෙස නාමල් රාජපක්ෂ මන්ත්‍රීවරයා කටයුතු කරනු ලැබිණි.
+
+ඒ අනුව ඔහුගේ ඉල්ලා අස්වීම මත සභාපති ධුරයේදී පුරප්පාඩුවක් ඇතිව තිබේ.
+
+◼️
+
+[Data](articles/94e77017.json)
 
 ---
 
@@ -2155,33 +2187,5 @@ Accordingly, Umachandra Prakash has been given the responsibility and responsibi
 [Data](articles/d863cb1d.json)
 
 [Extended Data](ext_articles/d863cb1d.ext.json)
-
----
-
-### Defeating Divisions: Making public university a place of cooperation
-
-*2024-08-05 22:52:00* · [`islandlk`](http://island.lk/defeating-divisions-making-public-university-a-place-of-cooperation/) · `en`
-
-...
-
-[Data](articles/5dbe152c.json)
-
-[Extended Data](ext_articles/5dbe152c.ext.json)
-
----
-
-### CameraLK unveils new Sony Service Center with specialized repair solutions
-
-*2024-08-05 22:41:00* · [`islandlk`](http://island.lk/cameralk-unveils-new-sony-service-center-with-specialized-repair-solutions/) · `en`
-
-CameraLK, Sri Lanka’s leading camera retail giant, recently unveiled its brand-new CameraLK Service Center at 244 High Level Rd, Colombo 05. This state-of-the-art facility is dedicated to servicing and repairing Sony cameras, lenses, drones, and accessories, further solidifying CameraLK’s position as the premier destination for photography enthusiasts in the country.
-
-The grand opening was made even more special with the esteemed presence of Kanta Yamamoto, Director and Head of the Digital Imaging Division at Sony, and Kairo Suda, Assistant General Manager of the Digital Imaging Division. This visit marks their first to Sri Lanka, highlighting the importance of this new venture for both CameraLK and Sony.
-
-...
-
-[Data](articles/bb84ffba.json)
-
-[Extended Data](ext_articles/bb84ffba.ext.json)
 
 ---

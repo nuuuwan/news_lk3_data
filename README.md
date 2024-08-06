@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 23:56:13**
+As of **2024-08-07 00:09:38**
 
 ## Newspaper Stats
 
-*Scraped **39,358** Articles*
+*Scraped **39,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
-economynextcom | 2,381
+economynextcom | 2,383
 dailyftlk | 2,519
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,932
-virakesarilk | 6,229
+virakesarilk | 6,230
 adaderanasinhalalk | 6,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,357 (100.0%) of 39,358 articles have been extended.
+39,358 (100.0%) of 39,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Aruna completes 44 seconds and 7 summories, reporting their personal best talent
 [Data](articles/3ae9e9ab.json)
 
 [Extended Data](ext_articles/3ae9e9ab.ext.json)
+
+---
+
+### Sri Lanka’s TPA says ‘many’ of its MPs will be cabinet ministers under Premadasa govt
+
+*2024-08-06 22:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-tpa-says-many-of-its-mps-will-be-cabinet-ministers-under-premadasa-govt-175629/) · `en`
+
+ECONOMYNEXT – Tamil Progressive Alliance (TPA), one of Sri Lanka’s key Tamil political coalition said many of its legislators will be cabinet ministers under a future government, if opposition leader Sajith Premadasa wins the September 21 presidency.
+
+Ethnic minority TPA on Tuesday (06) pledged support to opposition leader Sajith Premadasa in the upcoming presidential poll, but declined to elaborate the conditions Premadasa has agreed with the party.
+
+“Many of us will be part of our cabinet and his administration,” TPA leader Mano Ganeshan told reporters at a media briefing in Colombo, referring to four legislators including him who addressed media.
+
+However, he said the party has not demanded “the Sun and the Moon” and admitted that the party’s support is “not unconditional”.
+
+Most ethnic minority parties in Sri Lanka usually demand cabinet portfolio to pledge support before national elections.
+
+...
+
+[Data](articles/9227752f.json)
 
 ---
 
@@ -134,23 +154,29 @@ Ravi Karunanayake, who has made it clear to the Fact Seeker, said that he had no
 
 ---
 
-### அலங்கார மீன் ஏற்றுமதி மூலம் அரசுக்கு 25,267.2 மில்லியன் ரூபா வருமானம் - அமைச்சர் டக்ளஸ்
+### 25,267.2 million rupees to the government with decorative fish exports - Minister Douglas
 
 *2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190442) · `ta`
 
-2019ஆம் ஆண்டு முதல் இவ்வரு டத்தின் கடந்த ஜூன் மாதம் வரையான காலப்பகுதியில் அலங்கார மீன்கள்  ஏற்றுமதி மூலம் 25,267.2  மில்லியன் ரூபாவை வருமானமாக பெற்றுக் கொண்டுள்ளோம் என கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Fisheries Minister Douglas announced that from 2019 to June 2023, Sri Lanka earned 25,267.2 million rupees from decorative fish exports, benefiting 7,974 individuals. In 2019 alone, 5,484.8 metric tonnes were exported, earning 2,908.3 million rupees, followed by 2,408.7 million in 2020 and 4,183.6 million in 2021, with an additional 2 million rupees earned recently.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) வாய்மூல விடைக்கான கேள்வி நேரத்தில்  மிலான் ஜயதிலக எம்பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் 7974 பேர் அலங்கார மீன் தொழில் மற்றும் அது சம்பந்தமான நடவடிக்கைகளில் ஈடுபட்டுள்ளனர். அவர்களுக்கான அனைத்து சலுகைகள் ஊக்குவிப்புகளும் வழங்கப்படுகின்றன.
+Fisheries Minister Douglas Devananda said that we have earned 25,267.2 million rupees from the export of decorative fish from 2019 to June 2019.
 
-அந்த வகையில் 2019 ஆம் ஆண்டு 548.8 மெற்றிக் தொன் அலங்கார மீன்கள் ஏற்றுமதி செய்யப்பட்டுள்ளன. அதன் மூலம் 2908 .3 மில்லியன் ரூபா வருமானமாக பெற்றுக்கொள்ளப்பட்டுள்ளது.
+He said this while responding to a question raised by Milan Jayatilaka MP at the time of the oral answer in Parliament on Tuesday (06).
 
-அத்துடன் 2020 ஆம் ஆண்டில் 2408.7 மில்லியன் ரூபா, 2021 ஆம் ஆண்டில் 4183.6 .மில்லியன் ரூபா ,2022 ஆம் ஆண்டில் 7135 .5 மில்லியன் ரூபா, 2023 ஆம் ஆண்டில் 8631.1 மில்லியன் ரூபா  மற்றும் இந்த ஆண்டில் கடந்த ஆறு மாதங்களில் 3236. 2 மில்லியன் ரூபாவும் வருமானமாக பெற்றுக் கொள்ளப்பட்டுள்ளது என்றார்.
+7974 people in the country are involved in decorative fish industry and related activities. All offers and promotions are provided.
+
+548.8 metric tonnes of decorative fish in 2019 have been exported. 2908 .3 million has been earned.
+
+As well as 2408.7 million rupees in 2020, 4183.6 in 2021.. He said 2 million rupees had been earned.
 
 ◼️
 
 [Data](articles/3b0e79c2.json)
+
+[Extended Data](ext_articles/3b0e79c2.ext.json)
 
 ---
 
@@ -193,6 +219,22 @@ Two persons were injured in two different shootings reported today in Gampaha an
 [Data](articles/2371da38.json)
 
 [Extended Data](ext_articles/2371da38.ext.json)
+
+---
+
+### தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடி நிலையே ஏற்படும் -  அமைச்சர் ஜீவன்
+
+*2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190435) · `ta`
+
+நாட்டில் கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார். தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை  அனைவரும் புரிந்து கொள்ள வேண்டும் என அமைச்சர் ஜீவன் தொண்டமான்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (6) இடம்பெற்ற மாத்தறை நில்வலா கங்கையை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு திட்டம் மூலமான சிக்கல் தொடர்பில் சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார். தவறான தீர்மானங்கள் மூலம் மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை  அனைவரும் புரிந்து கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/c44da182.json)
 
 ---
 
@@ -673,6 +715,26 @@ Later, the relevant petitions were ordered to be taken up for hearing on Februar
 [Data](articles/8794ab09.json)
 
 [Extended Data](ext_articles/8794ab09.ext.json)
+
+---
+
+### Sri Lanka’s key Tamil group backs opposition leader at presidency, wants to remove ‘Indian’ label
+
+*2024-08-06 18:23:00* · [`economynextcom`](https://economynext.com/sri-lankas-key-tamil-group-backs-opposition-leader-at-presidency-wants-to-remove-indian-label-175625/) · `en`
+
+ECONOMYNEXT – Tamil Progressive Alliance (TPA), one of Sri Lanka’s key Tamil political coalition pledged support to opposition leader Sajith Premadasa in the upcoming September 21 presidential poll after both parties agreed on a set of conditions of memorandum of understanding (MOU), TPA officials said.
+
+The TPA also wants to recognise them as Sri Lankans and remove the ‘Indian Origin’ label from up country Tamils.
+
+TPA, which has never contested alone in any election up to now, has six legislators in the 225-member parliament after contesting under Premadasa-led center-right Samagi Jana Balawegaya in the 2020 general election.  Since then, TPA has been within the opposition led by Premadasa.
+
+Mano Ganeshan, the leader of TPA said the party decided unanimously “to extend or reaffirm” support to Premadasa.
+
+“The MOU does not demand the Sun and Moon. All that we need is we want to be recognized as more and more Sri Lankans,” Ganeshan told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/5cc7fc0f.json)
 
 ---
 
@@ -2207,65 +2269,5 @@ Army chief General Waker-Uz-Zaman announced Monday that Hasina had resigned afte
 [Data](articles/e27a4942.json)
 
 [Extended Data](ext_articles/e27a4942.ext.json)
-
----
-
-### Paris Olympics: Sri Lanka’s Aruna Darshana to compete in semi-finals tonight
-
-*2024-08-06 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101033/paris-olympics-sri-lankas-aruna-darshana-to-compete-in-semi-finals-tonight) · `en`
-
-As Sri Lankans await the country’s first medal at the ‘Paris 2024’ Olympics, a key athlete for the island nation in this year’s Olympic Games, Aruna Darshana is set to take part in the Men’s 400m semi-finals tonight (06).
-
-Darshana will take part in the semi-final 02 of the event, which is set to commence at 11.12 p.m. (IST) today.
-
-Athletes from Argentina, South Africa, Italy, Zambia, United States, Botswana and Grenada are set to race in the semi-final 02 alongside Aruna Darshana.
-
-The first two athletes in each semi-final heat and next 2 fastest athletes in overall semi-finals will advance to the Final of the event, according to the International Olympic Committee.
-
-The 25-year-old qualified for the semifinals on Sunday (04), after finishing third in the Heat race. Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, which is his personal best.
-
-...
-
-[Data](articles/be7e25d1.json)
-
-[Extended Data](ext_articles/be7e25d1.ext.json)
-
----
-
-### Good news to pensioners
-
-*2024-08-06 12:08:55* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයින්ට-සුබ-ආරංචියක්/11-411224) · `si`
-
-Pension anomalies removal approved: President Ranil Wickremesinghe presents cabinet paper.
-
-🟩
-
-The Cabinet approval has been given to remove pension anomalies.
-
-President Ranil Wickremesinghe has presented the cabinet paper.
-
-◼️
-
-[Data](articles/0f807783.json)
-
-[Extended Data](ext_articles/0f807783.ext.json)
-
----
-
-### Cabinet nod to eliminate salary anomalies of public service pensioners
-
-*2024-08-06 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101032/cabinet-nod-to-eliminate-salary-anomalies-of-public-service-pensioners) · `en`
-
-The approval of the Cabinet of Ministers has been received for the elimination of anomalies in pensions in the government service.
-
-Issuing a statement in this regard, the Department of Government Information (DGI) said that certain groups of pensioners have experienced anomalies in their pensions due to various policy decisions taken by the Cabinet of Ministers as well as the salary revisions carried out from time to time by the government.
-
-Accordingly, it has been observed that the government officers who retired from 01 January 2016 to 01 January 2020 have confronted this injustice and that relief can be bestowed for around 83,000 retired government officials by eliminating that salary anomaly, it added.
-
-...
-
-[Data](articles/2c65ee99.json)
-
-[Extended Data](ext_articles/2c65ee99.ext.json)
 
 ---

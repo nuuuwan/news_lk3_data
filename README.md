@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 02:20:42**
+As of **2024-08-07 02:36:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,366 (100.0%) of 39,370 articles have been extended.
+39,370 (100.0%) of 39,370 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ KONKA, is a globally recognised brand known for its superior and innovative cons
 
 [Data](articles/4af026b5.json)
 
+[Extended Data](ext_articles/4af026b5.ext.json)
+
 ---
 
 ### Singhagiri introduces CANDY washing machines and refrigerators
@@ -61,6 +63,8 @@ Unlike other household appliances that are available in the market, CANDY offers
 ...
 
 [Data](articles/07a6db7c.json)
+
+[Extended Data](ext_articles/07a6db7c.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ The grand opening was made even more special with the esteemed presence of Sony 
 
 [Data](articles/d48e8d17.json)
 
+[Extended Data](ext_articles/d48e8d17.ext.json)
+
 ---
 
 ### Presidential elections and Ranil’s crusade for economic revival
@@ -93,6 +99,8 @@ Sri Lankan electors are awaiting a change from the status quo of a sluggish and 
 ...
 
 [Data](articles/4c4a99c4.json)
+
+[Extended Data](ext_articles/4c4a99c4.ext.json)
 
 ---
 

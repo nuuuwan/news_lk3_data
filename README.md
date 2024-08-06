@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 01:54:34**
+As of **2024-08-07 02:06:04**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,364 (100.0%) of 39,366 articles have been extended.
+39,366 (100.0%) of 39,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### கையை தேடுகிறார் ஆணைக்குழு தவிசாளர்
+### The Commission is looking for the hand
 
 *2024-08-07 01:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341720) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்த பிரிவை கையாள வேண்டும் என தேர்தல்கள் ஆணைக்குழு, சட்டமா அதிபரிடம் எழுத்து மூலம் கேட்டுள்ளது.
+The Elections Commission of Sri Lanka has requested guidance from the Attorney General on how to proceed with the divided Sri Lanka Freedom Party (SLFP), which has split into factions backing different candidates for the upcoming elections. The SLFP's symbol, the hand, adds significance to this matter.
 
-இதனால், சட்டமா அதிபரிடமிருந்து தீர்மானம் கிடைத்தவுடன் ஆணைக்குழு கூடி இவ்விடயம் தொடர்பில் முடிவெடுக்கும் என தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-எதிர்வரும் தேர்தல் கடமைகளில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் எந்தப் பக்கத்தை ஏற்றுக்கொள்ள வேண்டும் என்ற பிரச்சினை எழுந்துள்ள நிலையில், சட்டமா அதிபரிடம் பின்வருமாறு கருத்துக் கேட்பதற்கு ஆணைக்குழு தீர்மானித்துள்ளது.
+The Elections Commission has asked the Attorney General in writing to which section of the Sri Lanka Freedom Party should handle.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சி தற்போது மைத்திரிபால சிறிசேன அணி, அமைச்சர் நிமல் சிறிபால டி சில்வா அணி, பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர அணி என மூன்று அணிகளாக பிளவுபட்டுள்ளது.
+The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the Commission would convene on the issue once the decision was received from the Attorney General.
 
-ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மைத்திரிபால சிறிசேனவின் கட்சி தனி வேட்பாளரை முன்வைக்கும் அதே வேளையில் அமைச்சர் நிமல் சிறிபால டி சில்வாவின் கட்சி ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்து வருகின்றது.
+The Commission has decided to comment to the Attorney General as the issue of which side of the Sri Lanka Freedom Party (SLFP) should be accepted in the upcoming election duties.
+
+The Sri Lanka Freedom Party (SLFP) has now split into three teams: Maithripala Sirisena, Minister Nimal Siripala de Silva and Member of Parliament Dayasiri Jayasekara.
+
+While the party of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena is presenting a separate candidate in the presidential election, Minister Nimal Siripala de Silva's party is supporting President Ranil Wickremesinghe.
+
+Councilor Dayasiri Jayasekara's party has decided to support opposition leader Sajith Premadasa.
 
 ...
 
 [Data](articles/406b4710.json)
 
+[Extended Data](ext_articles/406b4710.ext.json)
+
 ---
 
-### மின்சாரம், எரிபொருள் அத்தியாவசிய சேவை
+### Electricity, fuel essential service
 
 *2024-08-07 01:23:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-எரிபொருள்-அத்தியாவசிய-சேவை/175-341719) · `ta`
 
-மின்சாரம் மற்றும் எரிபொருள் விநியோகம் ஆகியவற்றை அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தி அதி விசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+Electricity and fuel supplies are now deemed essential services, as declared in a special gazette signed by President Saman Ekanayake. This includes power supply, petroleum production, and fuel distribution, ensuring their continuity for daily life essentials.
 
-ஜனாதிபதியின் யோசனைக்கு அமைவாக ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவின் கையொப்பத்துடன் இந்த வர்த்தமானி வெளியாகியுள்ளது.
+🟩
 
-மின் விநியோகம், பெற்றோலிய உற்பத்தி, எரிபொருள் விநியோகம் ஆகியன அத்தியாவசிய சேவைகளாக பிரகடனப்படுத்தப்பட்டுள்ளன.
+A special gazette has been published to declare electricity and fuel supply as essential services.
 
-இந்த வர்த்தமானிக்கு அமைவாக எந்தவொரு அரச கூட்டுத்தாபனம், அரச திணைக்களம், உள்ளூராட்சி மன்றம்,  கூட்டுறவுச் சங்கம் அல்லது அவற்றின் கிளை மூலம் வழங்கப்படும் சேவைகள் சாதாரண மக்களின் அன்றாட வாழ்விற்கான அத்தியாவசிய சேவைகள் என அறிவிக்கப்பட்டுள்ளது.
+The gazette has been released with the signature of President Saman Ekanayake in accordance with the President's idea.
+
+Power supply, petroleum production and fuel supply have been declared as essential services.
+
+In accordance with this gazette, any state corporation, state department, local government, co -operative society or their branch has been declared as essential services for the daily life of the people.
 
 ◼️
 
 [Data](articles/8f4ff128.json)
+
+[Extended Data](ext_articles/8f4ff128.ext.json)
 
 ---
 

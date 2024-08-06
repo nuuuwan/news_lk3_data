@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 01:05:56**
+As of **2024-08-07 01:20:54**
 
 ## Newspaper Stats
 
-*Scraped **39,361** Articles*
+*Scraped **39,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,55 @@ bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,383
-dailyftlk | 2,519
+dailyftlk | 2,520
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,932
-virakesarilk | 6,230
+virakesarilk | 6,231
 adaderanasinhalalk | 6,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,361 (100.0%) of 39,361 articles have been extended.
+39,361 (100.0%) of 39,363 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-07 (Wednesday)
+
+### College of General Practitioners of Sri Lanka celebrates 50 years
+
+*2024-08-07 01:00:29* · [`dailyftlk`](https://www.ft.lk/columns/College-of-General-Practitioners-of-Sri-Lanka-celebrates-50-years/4-765214) · `en`
+
+Look forward to knowledge but do not forget to look back for wisdom
+
+A Western medical doctor who has undergone further training to deliver medical care at primary care level based on concepts and principles of Family Medicine/General Practice is a General Practitioner/Family Physician. Family Medicine/General practice is the medical specialty which provides continuing and comprehensive care for the individual and the family. General Practitioners deal with physical, mental and social signs and symptoms in individuals, their families and the community to deliver quality promotive, preventive, curative, rehabilitative and palliative care in an ethical and professional manner based on the principles of family medicine which is the academic discipline which underpins general practice. It integrates biological, clinical and behavioural sciences to deliver healthcare in holistic manner.
+
+...
+
+[Data](articles/d454577d.json)
+
+---
+
+### ஒலிம்பிக் 400 மீற்றரில் TR 17.2.3 விதியை மீறியதால் தகுதிநீக்கம் செய்யப்பட்டார் அருண தர்ஷன
+
+*2024-08-07 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190455) · `ta`
+
+பிரான்ஸில் நடைபெற்றுவரும் பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவில் ஆண்களுக்கான 400 மீற்றர் 2ஆவது அரை இறுதிப் போட்டியில் பங்குபற்றிய இலங்கை வீரர் அருண தர்ஷன தகுதிநீக்கம் செய்யப்பட்டார்.
+
+ஸ்டேட் டி பிரான்ஸ் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (06) இரவு நடைபெற்ற ஆண்களுக்கான 400 மீற்றர் 2ஆவது அரை இறுதிப் போட்டியில் பங்குபற்றிய அருண தர்ஷன, அப் போட்டியை 44.75 செக்கன்களில் ஓடி முடித்து 5ஆம் இடத்தைப் பெற்றார்.
+
+ஆனால் மூன்று அரை இறுதிப் போட்டிகள் முடிவில் அருண தர்ஷன TR 17.2.3 விதியை மீறும் வகையில் மற்றைய தடத்தில் கால் பதித்தார் என்பது கண்டுபிடிக்கப்பட்டதை அடுத்து தகுதி நீக்கம் செய்யப்பட்டார்.
+
+மூன்று அரை இறுதிப் போட்டிகளில் முதல் இரண்டு இடங்களைப் பெற்ற 6 வீரர்களும் அடுத்த அதிசிறந்த நேரங்களைப் பதிவுசெய்த இருவருமாக 8 வீரர்கள் இறுதிப் போட்டியில் பங்குபற்ற தகுதிபெற்றனர்.
+
+...
+
+[Data](articles/b3f2cb65.json)
+
+---
 
 ### 2024-08-06 (Tuesday)
 
@@ -2243,47 +2277,5 @@ Q. There is an allegation that the President has split the Sri Lanka Civil Arama
 [Data](articles/0754451f.json)
 
 [Extended Data](ext_articles/0754451f.ext.json)
-
----
-
-### Kiriella reveals about violating election laws
-
-*2024-08-06 12:24:01* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති-උල්ලංඝණය-කිරීමක්-ගැන-කිරිඇල්ලගෙන්-අනාවරණයක්/11-411225) · `si`
-
-MP Lakshman Kiriella, the Chief Opposition organizer, was summoned to discuss violations of the Constitution and election laws at the Waters Edge Hotel in Battaramulla. Reporters were called from the Presidential Secretariat to aid the election process, highlighting concerns over potential violations.
-
-🟩
-
-The Chief Opposition organizer MP Lakshman Kiriella has been summoned to the Waters Age Hotel in Battaramulla today (06).
-
-There is a violation of the Constitution. I also focus on the Speaker of the violation of election law. Regional Reports in Sri Lanka this evening called to the Waters Age Hotel. Talking from the Presidential Secretariat. These regional reporters were called to assist the election. Kandy leaves two buses today. It is said that the visitors will also too a voucher of Rs. This is clearly a violation of election laws.
-
-◼️
-
-[Data](articles/199bcc88.json)
-
-[Extended Data](ext_articles/199bcc88.ext.json)
-
----
-
-### Ex-PM Zia and other political prisoners freed in Bangladesh after Hasina flees
-
-*2024-08-06 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101034/ex-pm-zia-and-other-political-prisoners-freed-in-bangladesh-after-hasina-flees) · `en`
-
-Families of political prisoners secretly jailed in Bangladesh under the autocratic rule of ousted premier Sheikh Hasina waited desperately Tuesday for news of their relatives, as some of those missing were released.
-
-“We need answers,” said Sanjida Islam Tulee, a coordinator of Mayer Daak, meaning “The Call of the Mothers”, a group campaigning for the release of people detained by Hasina’s security forces.
-
-Rights groups accused Hasina’s security forces of abducting and disappearing some 600 people -- including many from the main opposition Bangladesh Nationalist Party and the banned Jamaat-e-Islami, the country’s largest Islamist party.
-
-Tulee told AFP that at least 20 families gathered outside a military intelligence force building in a northern Dhaka neighbourhood, waiting for news of their relatives.
-
-Army chief General Waker-Uz-Zaman announced Monday that Hasina had resigned after weeks of deadly protests, and the military would form a caretaker government.
-
-...
-
-[Data](articles/e27a4942.json)
-
-[Extended Data](ext_articles/e27a4942.ext.json)
 
 ---

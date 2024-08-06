@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 21:06:33**
+As of **2024-08-06 21:21:20**
 
 ## Newspaper Stats
 
-*Scraped **39,337** Articles*
+*Scraped **39,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,617
-adaderanalk | 4,570
+adaderanalk | 4,571
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,930
+tamilmirrorlk | 4,931
 virakesarilk | 6,219
 adaderanasinhalalk | 6,659
 
@@ -26,47 +26,91 @@ adaderanasinhalalk | 6,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,334 (100.0%) of 39,337 articles have been extended.
+39,337 (100.0%) of 39,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### ජා-ඇළ වෙඩිතැබීමක්
+### தம்மிக்க கடிதம் எழுதினார்
+
+*2024-08-06 21:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்மிக்க-கடிதம்-எழுதினார்/175-341716) · `ta`
+
+தான்  ஜனாதிபதி தேர்தலில் போட்டியிடவில்லை என நாடாளுமன்ற உறுப்பினர் தம்மிக்க பெரேரா  பொதுஜன பெரமுனவின் செயலாளர் சாகர காரியவசத்திற்கு  கடிதம் எழுதியுள்ளார்.
+
+◼️
+
+[Data](articles/609111bf.json)
+
+---
+
+### A shooting Ja-Canal
 
 *2024-08-06 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199643) · `si`
 
-පොලීසිය සඳහන් කළේ සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට කණ්ඩායමක් පිටත් කළ බවය.
+A shooting occurred at Ja-Canal; police dispatched a team to investigate.
+
+🟩
+
+Police said that a team left for the incident.
 
 ◼️
 
 [Data](articles/01c998f3.json)
 
+[Extended Data](ext_articles/01c998f3.ext.json)
+
 ---
 
-### ශෙයික් හසීනා ගැන ඉන්දියාවෙන් ප්‍රකාශයක්
+### Sri Lanka signs agreement with ADB for USD 300 million loan
 
-*2024-08-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199642) · `si`
+*2024-08-06 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101048/sri-lanka-signs-agreement-with-adb-for-usd-300-million-loan) · `en`
 
-ජනතා විරෝධය මැද ඉන්දියාවට පළාගිය බංග්ලාදේශ හිටපු අගමැතිනි ශෙයික් හසීනා සම්බන්ධයෙන් අද ඉන්දියාව ප්‍රකාශයක් සිදු කළේය.
+The agreement for obtaining USD 300 million loan from the Asian Development Bank (ADB) for the implementation of power sector reforms and financial sustainability program has been signed by the Government of Sri Lanka and the ADB.
 
-ඒ අනුව ඔහු පවසා ඇත්තේ බංග්ලාදේශයේ නීතිය සහ සාමය යළි ස්ථාපනය වන තෙක් ඉන්දියාව අවධානයෙන් පසුවන බවය.
+The Government of Sri Lanka had discussions with the Asian Development Bank (ADB) to mobilize three policy-based loans (PBL) amounting to USD 300 million to implement the Power Sector Reforms and Financial Sustainability Program.
 
-"ඉතාම කෙටි දැනුම්දීමකින් ඇය කෙටි කාලයක් සඳහා ඉන්දියාවට පැමිණීමට අවසර ඉල්ලුවා. ඒ සමගම ගුවන් කලාපය නිදහස් කරන ලෙසත් බංග්ලාදේශ බලධාරීන් ඉල්ලා සිටියා. ඇය දිල්ලි වෙත ළඟා වුණේ ඊයේ පස්වරුවේයි. බංග්ලාදේශයේ නීතිය සහ සාමය යළි ස්ථාපනය වන තෙක් අපි අවධානයෙන් සිටිනවා."
+The relevant Power Sector Reforms and Financial Sustainability Program, consists of three subprograms and a loan of USD 100 million will be mobilized once the policy actions relevant for each of the subprograms are completed, according to the ADB.
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා බංග්ලාදේශයේ තත්ත්වය පිළිබඳව සර්ව පාක්ෂික රැස්වීමක් ද කැඳවා දැනුවත් කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
-
-එම රැස්වීමෙන් අනතුරුව එස්. ජෙයිශංකර් සිය X ගිණුමේ සටහනක් ද තබා තිබුණි.
-
-ජනතා විරෝධය මැද පළාගිය ශෙයික් හසීනා දැනට ඉන්දියාවේ නවදිල්ලි නුවර ගුවන් හමුදා කඳවුරක රැඳී සිටී.
-
-ශෙයික් හසීනා ඉන්දීය ජාතික ආරක්ෂක උපදේශක අජිත් දොවාල් ද හමුවී තිබුණි.
-
-බංග්ලාදේශ නිදහස් සටනේ පුරෝගාමිය ලෙස හැඳින්වෙන ෂෙයික් හසීනාගේ පියාද වූ මුජිබර් රහ්මාන් 1975 වසරේ දී ඝාතනය වූ අවස්ථාවේදීත් හසීනා පළාගොස් තිබුණේ ඉන්දියාවටය.
+The Program will support the establishment of independent and financially sustainable electricity utilities. Also, it will support streamlined and accelerated development of renewable energy sources for electricity generation under the reform areas.
 
 ...
 
+[Data](articles/c71c38e8.json)
+
+---
+
+### India's statement from India
+
+*2024-08-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199642) · `si`
+
+India has expressed its focus on restoring law and order in Bangladesh, following a request from Sheikh Hasina, the former Bangladesh PM, for a brief visit to India. Indian authorities have facilitated her arrival and are committed to ensuring peace and stability in Bangladesh. An all-party meeting has been convened to discuss the situation in Bangladesh, highlighting India's support and engagement in the region's affairs.
+
+🟩
+
+India has made a statement regarding former Bangladesh Prime Minister Prime Minister Prime Minister, Bangladesh.
+
+Accordingly, he has said that India was focusing until Bangladesh's law and order is re-established.
+
+"She asked for permission to come to India for a short time in a very short notice. The Bangladesh authorities also asked for the release of the airroll. She reached Delhi last evening. We are focused on Bangladesh's law and peace. "
+
+Indian Foreign Minister has summoned an all-party meeting with the condition of Bangladesh.
+
+After that meeting S. Jeeashnk was also given a note in his X account.
+
+Shayik Husanna, who wires in the face of public opposition, currently states in a SLAF base in New Delhi, India.
+
+Mr. Shaik Hasthana Advisor Ajith DhoWal was also found.
+
+Sheikh Haseanuge, who is known as the pioneer of the Bangladesh Independence Battle, was the father of Mujibur Rahina.
+
+This time she is looking forward to the refuge of England and staying in India.
+
+◼️
+
 [Data](articles/574d2228.json)
+
+[Extended Data](ext_articles/574d2228.ext.json)
 
 ---
 
@@ -212,21 +256,27 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 
 ---
 
-### ජනපතිතුමා අපිට හොඳටම සැලකුවා
+### The President treated us very well
 
 *2024-08-06 18:50:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිතුමා-අපිට-හොඳටම-සැලකුවා/11-411237) · `si`
 
-රනිල් වික්‍රමසිංහ  ජනාධිපතිතුමාට නැවත  එජාපය  හැදිමට  අවශ්‍ය නම්  කිරිමට  තිබුණේ සමගිජනබලවේගය කඩා එජාපය හදන එක බවත්  නමුත් ජනාධිපතිතුමා කළේ පොහොට්ටුව  කඩා එජාපය  ගොඩනැගිමේ  කටයුතු සිදුකිරිම බව ශ්‍රිලංකා පොදුජන පෙරමුණේ මහලේකම් නිතිඥ සාගර කාරියවසම් මහතා පවසයි.
+Ranil Wickremesinghe resumed the UNP, focusing on its privileges rather than splitting it. Sagara Kariyawasam praised the President for treating the Sri Lankan public well, emphasizing unity and national progress. Despite challenges, including economic struggles and leadership changes, the narrative highlights efforts to improve the country's future.
 
-ජනාධිපතිතුමා ඉතාම හොදට ශ්‍රි ලංකා පොදුජනපෙරමුණට කළගුණ සැලකුවා. යැයිද  සාගර කාරියවසම් මහතා සදහන් කළේය. ශ්‍රිලංකා පොදුජන පෙරමුණේ රත්ගම ආසන බල මණ්ඩල රැස්විමට එක්වෙමින්  හෙතෙම මෙසේද කිවේය.
+🟩
 
-“ජනාධිපතිතුමා ඉතාම හොදට අපිට කළගුණ සැලකුවා. සමගි ජනබලවේගය කඩලා එජාපය හදනවා වෙනුවට පොහොට්ටුවෙ අපේ මන්ත්‍රිවරුන්ට වරදාන වරප්‍රසාද දිලා කඩලා අරගෙන අද  එජාපය ගොඩනැගිමේ කාර්යයයේ එතුමා යෙදිලා ඉන්නවා. මේ රටේ ජනතාව අපේ පක්ෂය  එක්ක එකතුවුනේ එජාපය ගොඩනගන්න නෙවෙයි.
+Ranil Wickremesinghe had to resume the UNP to build the UNP to build the UNP, but the Secretary General of Attorneys General Secretary Sagar Kariyawasam says that the resident of the Sri Lanka Knowledge.
 
-ඔවුන් පක්ෂය සමග එකතුවුනේ  රටේ එකියභාවය ආරක්ෂා කරන්න.  රටේ අනාගතය වෙනුවෙන් රටේ හෙට දිනය වෙනුවෙන්  අපේ දරුවන්ගේ හෙට දිනය වෙනුවෙන්  මේ රට සුරක්ෂිත කරණ  බලාපොරොත්තුවෙන් තමයි  එකතුවුනේ. ජනතාව ඉන්නේ  පොහොට්ටුව සමගයි.. උඩින් ඔලුගෙඩි මාරුවුනාට  මහජන නියෝජිතයින් මාරුවුනාට  අපේ පාක්ෂිකයින් පක්ෂය අත්හැරගොස් නැහැ.
+The President was very grateful to the Sri Lankan general public. Sagara Kariyawasam said. He said:
+
+"The President treated us very well. Instead of breaking up the UNP, he is carrying out the privileges of the UNP today and has the privileges of the powe.. The people of this country joined our party not to build the UNP.
+
+They were associated with the party protect the country's judgment.The country was hoping for the country tomorrow for the future of the country tomorrow. The people are with the quarter.. Olding, the transfer of the people's representatives, have not left the party.
 
 ...
 
 [Data](articles/3ebbcd42.json)
+
+[Extended Data](ext_articles/3ebbcd42.ext.json)
 
 ---
 
@@ -2187,47 +2237,5 @@ The guidelines are issued for use in emergencies, including possible attacks und
 [Data](articles/9eeb4c12.json)
 
 [Extended Data](ext_articles/9eeb4c12.ext.json)
-
----
-
-### Happy message to senior citizens
-
-*2024-08-06 09:57:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-பிரஜைகளுக்கு-சந்தோஷமான-செய்தி/175-341679) · `ta`
-
-The government has approved a financial stability plan benefiting senior citizens aged over 60, allowing them to make sustainable deposits of up to one million rupees for two years, with interest rates reduced to 8.5 percent.
-
-🟩
-
-The Cabinet has approved the proposal submitted by the President as Minister of Finance, Economic Stability and National Policies.
-
-Interest for standard deposits in the contemporary has declined to 8.5 percent. It has been found that the money has been recovered from the deposits of more senior citizens.
-
-Accordingly, the highest number of senior citizens over 60 years of age has been approved for two years for two years for sustainable deposits for up to a million rupees.
-
-◼️
-
-[Data](articles/108dff61.json)
-
-[Extended Data](ext_articles/108dff61.ext.json)
-
----
-
-### How ‘full employment’ policies trigger social unrest in Sri Lanka to Bangladesh
-
-*2024-08-06 09:55:00* · [`economynextcom`](https://economynext.com/how-full-employment-policies-trigger-social-unrest-in-sri-lanka-to-bangladesh-175361/) · `en`
-
-ECONOMYNEXT  – US markets tumbled, initially spooked by tech stock layoffs, amid what is claimed as fears of jobs losses and a recession, are outcomes that economists have shown to be the automatic consequences of full employment policies.
-
-On Monday, the Dow Jones Industrial Average fell 1,033 points, which is only 2.6 percent, and the S&P 500 lost 3 percent and the Nasdaq composite 3.43 percent on top of losses last week as fears of unemployment rose.
-
-Though financial media is portraying the fall as a failure of the Fed to cut rates in time, non-macroeconomists have long pointed out that the manufacture of unemployment by the Fed is an automatic consequence of full employment policies favored by ‘economists’ since Keynes.
-
-That the Fed printed money and delayed rate hikes to claiming inflation was due to supply chain blocks and Putin is forgotten.
-
-...
-
-[Data](articles/599473a6.json)
-
-[Extended Data](ext_articles/599473a6.ext.json)
 
 ---

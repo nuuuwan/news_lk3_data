@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 18:38:41**
+As of **2024-08-06 18:55:43**
 
 ## Newspaper Stats
 
-*Scraped **39,324** Articles*
+*Scraped **39,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,614
-adaderanalk | 4,567
+adaderanalk | 4,568
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
 virakesarilk | 6,219
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,323 (100.0%) of 39,324 articles have been extended.
+39,324 (100.0%) of 39,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Court order over issuance of liquor licenses extended
+
+*2024-08-06 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101046/court-order-over-issuance-of-liquor-licenses-extended-) · `en`
+
+The Supreme Court has extended the interim order that was issued preventing the acceptance of applications for the issuance of liquor licenses in a manner contrary to the excise regulations.
+
+This order was issued today (06)while granting leave for the hearing of 04 Fundamental Rights petitions filed by a group of wine shops owners challenging the liquor licenses issued against the excise regulations.
+
+Accordingly, the Supreme Court also decided to hold a trial against the Minister of Finance and the Commissioner General of Excise, who were named as respondents in the relevant petitions.
+
+The court has further directed the petitioners to file counter objections within four weeks.
+
+Later, the relevant petitions were ordered to be taken up for hearing on February 06, 2025.
+
+◼️
+
+[Data](articles/8794ab09.json)
+
+---
 
 ### ජනපතිවරණයට ඇප තැබූ පිරිස 18 දක්වා ඉහළට
 
@@ -1004,21 +1024,27 @@ Speaking to the media, MP Ganesan said that they have reached a Memorandum of Un
 
 ---
 
-### මැතිවරණ නිසා අයි.එම්.එෆ්. ගිවිසුම වෙනස් වෙන්නේ නෑ
+### IMF due to elections. The agreement will not change
 
 *2024-08-06 13:21:37* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිසා-අයි-එම්-එෆ්--ගිවිසුම-වෙනස්-වෙන්නේ-නෑ/11-411230) · `si`
 
-මැතිවරණ හෝ වෙනත් කරුණු හේතුවෙන් නොවෙනස්ව 2027 වසර තෙක් ජාත්‍යන්තර මූල්‍ය අරමුදල සමග පවත්නා ණය ගිවිසුම ඒ ආකාරයෙන්ම ක්‍රියාත්මක වන බව කැබිනට් ප්‍රකාශක ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+The IMF credit coalition, operational till 2027, remains unaffected by elections. Despite potential budget issues post-elections, the IMF has pledged 663 million rupees and will assist in budget preparation.
 
-කැබිනට් ප්‍රකාශකවරයා මේ බව පැවසුවේ අද (06) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+🟩
 
-තවත් මාස කිහිපයකින් මෙරට කවුරුන් ජනාධිපති වුවද, කවුරුන් ආණ්ඩුව කළද ඇතිකර ගත් ණය ගිවිසුම වෙනසක් සිදුවුවහොත් 2025 අයවැය සෑදීමට නොහැකි බවද, අයවැය ලේඛනය සම්මත කරගැනීමට දැනට සිටින මුදල් අමාත්‍යවරයා හා මුදල් අමාත්‍යංශය ජාත්‍යන්තර මූල්‍ය අරමුදලේ අත්සන් කර ඇති ගිවිසුම අනූව 2025ට ඇමරිකානු ඩොලර් මිලියන 5018ක විදේශ සම්පත් පරතරයක් ඇතිවීම සම්බන්ධව ඇස්තමේන්තු කර ඇතැයිද ඉන් මූල්‍ය අරමුදල මිලියන 663ක් ලබාදීමට පොරොන්දු වී ඇතැයිද පැවසුවේය.
+Cabinet Spokesperson Dr. Bandula Gunawardena says that the credit coalition with the International Monetary Fund is in operation until 2027 due to election or other matters.
 
-2025 අයවැය ලේඛනය සකස් කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදල ඇමරිකානු ඩොලර් මිලියන 700ක් ද, ලෝක බැංකුව 400ක් ද ආසියානු සංවර්ධන බැංකුව 300ක් ද වශයෙන් ලබා දීමට පොරොන්දු වී ඇතැයි පැවසූ අමාත්‍යවරයා 3855ක සහනයක් හිමිවන බවද සඳහන් කළේය.
+The Cabinet spokesman said this at a press briefing in the Government Information Department today (06).
+
+One of the president's government in another few months, the government is not able to make the budget, and the Ministry of Finance and the Ministry of Finance (IMF) has a foreign resource gap in 2025It is estimated that estimated on the occurrence and the IMF has promised to provide 663 million rupees.
+
+The IMF also promised to prepare the budget of the budget.
 
 ◼️
 
 [Data](articles/046b28c3.json)
+
+[Extended Data](ext_articles/046b28c3.ext.json)
 
 ---
 
@@ -2231,29 +2257,5 @@ The struggle of the students over the past few months erupted in a huge violent 
 [Data](articles/b22aafd1.json)
 
 [Extended Data](ext_articles/b22aafd1.ext.json)
-
----
-
-### Continuing tension in Bangladesh: Attack on temples
-
-*2024-08-06 09:02:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தொடரும்-பதற்றம்-கோயில்கள்-மீது-தாக்குதல்/50-341668) · `ta`
-
-In Bangladesh, tensions escalated as protesters attacked the Indian Cultural Center in Dhaka, damaging it along with four Hindu temples nationwide. The violence also targeted significant structures like the Pangapandu Museum, dedicated to Sheikh Mujibur Rahman. This incident highlights the ongoing unrest affecting cultural and historical sites.
-
-🟩
-
-Indian Cultural Center has been damaged by protesters in the Bangladesh capital Dhaka. It has been reported that 4 Hindu temples have been damaged across the country.
-
-Kajol Devnath, president of the Hindu Buddhist Christian Unity Council, said that the Indira Gandhi Cultural Center, located in Tanumanthi, Dhaka, was damaged by the violent mob.. He also said that 4 Hindu temples have been damaged.
-
-Apart from this, various major buildings, including the Pangapandu Museum in Dhaka, have been set on fire. The Museum was built in memory of former Bangladeshi President Sheikh Mujibur Rahman (father of Sheikh Hasina), who was assassinated in 1975.
-
-The damaged Indian Cultural Center contained 21 thousand books and various historical documents.
-
-◼️
-
-[Data](articles/adafd891.json)
-
-[Extended Data](ext_articles/adafd891.ext.json)
 
 ---

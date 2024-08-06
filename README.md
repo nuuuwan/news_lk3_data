@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 12:54:47**
+As of **2024-08-06 13:05:49**
 
 ## Newspaper Stats
 
-*Scraped **39,260** Articles*
+*Scraped **39,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,370
 dailyftlk | 2,519
-adalk | 3,604
-adaderanalk | 4,557
+adalk | 3,605
+adaderanalk | 4,559
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,922
+tamilmirrorlk | 4,923
 virakesarilk | 6,209
-adaderanasinhalalk | 6,637
+adaderanasinhalalk | 6,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,253 (100.0%) of 39,260 articles have been extended.
+39,260 (100.0%) of 39,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### වාර්තා අතරට එක් වූ ගම්පහ
+
+*2024-08-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199622) · `si`
+
+මෙවර ජනාධිපතිවරණය සඳහා 2024 ඡන්ද හිමි නාමලේඛනයට අනුව ලියාපදංචි ඡන්ද හිමියන් සංඛ්‍යාව 17,143,354කි.
+
+ඉන් වැඩිම ඡන්ද හිමියන් ලියාපදිංචි වී ඇති දිස්ත්‍රික්කය වන්නේ ගම්පහයි.
+
+දෙවන ස්ථානය ඡන්ද හිමියන් ලක්ෂ 17කට වැඩි පිරිසක් සිටින කොළඹ දිස්ත්‍රික්කයට හිමිව ඇති අතර , තෙවන ස්ථානයට වැඩිම ඡන්ද හිමියන් සංඛ්‍යාවක් සිටින්නේ කුරුණෑගල දිස්ත්‍රික්කයේය.
+
+අවම ලියාපදිංචි ඡන්ද හිමියන් සංඛ්‍යාව වන 86,889 දෙනෙකු සිටින්නේ වන්නි මැතිවරණ කොට්ඨාසයේ මුලතිව් දිස්ත්‍රික්කයේය.
+
+◼️
+
+[Data](articles/4d413b70.json)
+
+---
+
+### நிர்வாண புகைப்படங்கள் வெளியானது எப்படி?
+
+*2024-08-06 12:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-வெளியானது-எப்படி/175-341690) · `ta`
+
+அதுருகிரிய பச்சை குத்தும் மையத்தில் சுட்டுக்கொல்லப்பட்ட கிளப் வசந்த என்ற வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் சடலத்தின் நிர்வாண புகைப்படங்கள் சமூக வலைதளங்களில் வெளியானது தொடர்பாக ஹோமாகம ஆதார வைத்தியசாலையில் சுமார் 30 பேரிடம் சாட்சியங்களை பதிவு செய்துள்ளதாக அத்துருகிரிய பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த சடலத்தின் பிரேத பரிசோதனைகள் முன்னெடுக்கப்பட்டபோது,  மருத்துவ மாணவர்களும் இணைந்திருந்தனர். அவர்களின் ஊடாக குறித்த புகைப்படங்கள் சமூக வலைத்தளங்களில் வெளியாகியுள்ளதாக தெரியவந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், கொலைச் சம்பவம் தொடர்பான காணொளி காட்சிகளை வெளியிடும் பணியில் ஈடுபட்டிருந்த உள்ளூர் ஊடகவியலாளர்களிடம் இருந்தும் குறிப்புகள் மற்றும் உண்மைகளை எடுத்துக் கொண்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/734d9866.json)
+
+---
+
+### Tharushi Karunaratne’s track kit to feature in Switzerland’s Olympic Museum
+
+*2024-08-06 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101035/tharushi-karunaratnes-track-kit-to-feature-in-switzerlands-olympic-museum) · `en`
+
+The track kit worn by Sri Lankan athlete Tharushi Karunaratne has been donated to be displayed at the Olympic Museum in Lausanne, Switzerland.
+
+The kit, autographed by 19-year-old Karunaratne is slated to be displayed in the Olympic Museum in honour of being the youngest athlete who represented the Asian region in the Women’s 800m event.
+
+Accordingly, this also creates history as the first-ever track kit worn by a Sri Lankan athlete to be featured in the Olympic Museum.
+
+The handing over of autographed kit to the International Olympic Committee officials was carried out during a special ceremony held in the Paris Olympics village.
+
+◼️
+
+[Data](articles/118ee7a1.json)
+
+---
 
 ### Sri Lanka seeks PPPs to build futsal courts, Pakistan grant to build court in Torrington
 
@@ -47,6 +99,42 @@ The state will provide the property for the playground premises on an 80-year-le
 ...
 
 [Data](articles/c7dbefeb.json)
+
+[Extended Data](ext_articles/c7dbefeb.ext.json)
+
+---
+
+### මැතිවරණ නීති උල්ලංඝණය කිරීමක් ගැන කිරිඇල්ලගෙන් අනාවරණයක්
+
+*2024-08-06 12:24:01* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති-උල්ලංඝණය-කිරීමක්-ගැන-කිරිඇල්ලගෙන්-අනාවරණයක්/11-411225) · `si`
+
+මැතිවරණ නීති උල්ලංඝණය කරමින් අද(06දා) ‌දිවයිනේ සියලුම ප්‍රාදේශීය මාධ්‍යවේදීන් ‌‌බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයට කැඳවා ඇති බව විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා අද පාර්ලිමේන්තුවේදී පැවසීය.
+
+ව්‍යවස්ථාව උල්ලංඝණය කිරීමක් සිදු වෙනවා. ඒ වගේම රටේ මැතිවරණ නීතිය උල්ලංඝණය වීම ගැන මම කථානායකතුමාගේ අවධානය යොමු කරනවා. අද සවස මුළු ලංකාවේම ඉන්න ප්‍රාදේශීය වාර්තා කරුවන් වොටර්ස් ඒජ් හෝටලයට කැඳවලා තියෙනවා. ජනාධිපති ලේකම් කාර්යාලයෙන් කතා කරලා තියෙන්නේ. මේ ප්‍රාදේශීය වාර්තා කරුවන් කැඳවලා තියෙන්නේ මැතිවරණයට සහය ලබා ගැනීම සඳහා. මහනුවර මාකට් එක ගාවින් අද බස් දෙකක් පිටත් වෙනවා. මේ එන අයට රුපියල් 5,000ක වවුචරයකුත් දෙනවා කියනවා. මේක පැහැදිලිවම මැතිවරණ නීති උල්ලංඝණය කිරීමක්.
+
+◼️
+
+[Data](articles/199bcc88.json)
+
+---
+
+### Ex-PM Zia and other political prisoners freed in Bangladesh after Hasina flees
+
+*2024-08-06 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101034/ex-pm-zia-and-other-political-prisoners-freed-in-bangladesh-after-hasina-flees) · `en`
+
+Families of political prisoners secretly jailed in Bangladesh under the autocratic rule of ousted premier Sheikh Hasina waited desperately Tuesday for news of their relatives, as some of those missing were released.
+
+“We need answers,” said Sanjida Islam Tulee, a coordinator of Mayer Daak, meaning “The Call of the Mothers”, a group campaigning for the release of people detained by Hasina’s security forces.
+
+Rights groups accused Hasina’s security forces of abducting and disappearing some 600 people -- including many from the main opposition Bangladesh Nationalist Party and the banned Jamaat-e-Islami, the country’s largest Islamist party.
+
+Tulee told AFP that at least 20 families gathered outside a military intelligence force building in a northern Dhaka neighbourhood, waiting for news of their relatives.
+
+Army chief General Waker-Uz-Zaman announced Monday that Hasina had resigned after weeks of deadly protests, and the military would form a caretaker government.
+
+...
+
+[Data](articles/e27a4942.json)
 
 ---
 
@@ -72,17 +160,23 @@ The 25-year-old qualified for the semifinals on Sunday (04), after finishing thi
 
 ---
 
-### විශ්‍රාමිකයින්ට සුබ ආරංචියක්
+### Good news to pensioners
 
 *2024-08-06 12:08:55* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයින්ට-සුබ-ආරංචියක්/11-411224) · `si`
 
-විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීම සඳහා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+Pension anomalies removal approved: President Ranil Wickremesinghe presents cabinet paper.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ කැබිනට් පත්‍රිකාව ඉදිරිපත් කර ඇත.
+🟩
+
+The Cabinet approval has been given to remove pension anomalies.
+
+President Ranil Wickremesinghe has presented the cabinet paper.
 
 ◼️
 
 [Data](articles/0f807783.json)
+
+[Extended Data](ext_articles/0f807783.ext.json)
 
 ---
 
@@ -140,6 +234,8 @@ In July, Sri Lanka’s private sector trade body was in negotiations with Indone
 
 [Data](articles/52980d91.json)
 
+[Extended Data](ext_articles/52980d91.ext.json)
+
 ---
 
 ### Sri Lanka Plans Preferential Trade Agreement with Indonesia next March
@@ -155,6 +251,8 @@ Sri Lanka has already signed a free trade deal with Thailand and Singapore, whic
 ◼️
 
 [Data](articles/0d736930.json)
+
+[Extended Data](ext_articles/0d736930.ext.json)
 
 ---
 
@@ -175,6 +273,8 @@ These amounts have not been revised in 43 years, opposition MP Dullas Alahapperu
 ...
 
 [Data](articles/2bdf44a5.json)
+
+[Extended Data](ext_articles/2bdf44a5.ext.json)
 
 ---
 
@@ -222,37 +322,49 @@ PA Vijitha Herath, Dr. Harini Amarasuriya and Attorney Sunil Vattakala visited t
 
 ---
 
-### දුන්න අත සපා කෑ වඳුරා
+### The monkey biting the bow hand
 
 *2024-08-06 11:07:07* · [`adalk`](https://www.ada.lk/breaking_news/දුන්න-අත-සපා-කෑ-වඳුරා/11-411222) · `si`
 
-විල්පත්තුව ජාතික වනෝද්‍යානයේ සංචාරයක නිරත ඉතාලි ජාතික කාන්තාවකගේ අතක්, වඳුරෙකු සපා කෑම හේතුවෙන්  තුවාල ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව වාර්තාවේ.
+An Italian tourist bitten by a monkey during a visit to Sri Lanka's Wilpattu National Park was hospitalized in Anuradhapura. The incident occurred when she tried to feed bananas to the animal, which then bit her hand.
 
-එම විදෙස් කාන්තාව  සංචාරයේ නිරත වෙමින් සිටියදී අතේ තිබූ කෙසෙල් ගෙඩියක් අඳුරෙකු විසින් උදුරා ගැනීමට යාමේදී මෙලෙස තුවාල ලබා ඇති බව පොලිසිය සඳහන් කළේය.
+🟩
 
-අනුරාධපුර රෝහලේ හතරවන වාට්ටුවේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටි මෙම ඉතාලි ජාතික කාන්තාව සිය කැමැත්තෙන් රෝහලෙන් පෙරේදා හතරදා හිටව ගිය බවද පොලිසියේ වැඩි දුරටත් සඳහන් කළේය.
+It is reported that an Italian woman who is on a tour of the Wilpattu National National Park has been admitted to the Anuradhapura Teaching Hospital due to biting a monkey.
+
+The police said that the police said that the banana had been injured in a hand was taken away by a knee.
+
+The Italian woman, who was receiving treatment at Ward 4 of the Anuradhapura Hospital, said the police said.
 
 ◼️
 
 [Data](articles/81b32ea9.json)
 
+[Extended Data](ext_articles/81b32ea9.ext.json)
+
 ---
 
-### නිදහස් පක්ෂයේ බහුතරය රනිල්ටලු
+### The majority of the free party Ranil
 
 *2024-08-06 10:55:52* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-බහුතරය-රනිල්ටලු/11-411221) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමට ශ්‍රී ලංකා නිදහස් පක්ෂය නිල වශයෙන් තීන්දු කල බවත් එම තීරණය පක්ෂය නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් බහුතරය ඇතුළු සමස්ත විධායක සභාවේ 90%ක එකඟතාවයෙන් ගනු ලැබූ බවත් ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, with 90% of its executive council participating in the decision. The party has initiated efforts to secure his victory. Additionally, the Ministry of Transport announced plans to mitigate environmental impact through stricter vehicle emissions standards, issuing certificates, and increasing monitoring centers. These measures aim to improve air quality and reduce lung-related diseases, with programs for obtaining these certificates and licenses set to roll out nationwide soon.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීම වෙනුවෙන් මේ වන විටත් ශ්‍රී ලංකා නිදහස් පක්ෂය සතු ශක්තිමත් සංවිධාන ජාලය ක්‍රියාකාරීව කටයුතු ආරම්භ කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+The Sri Lanka Freedom Party officially decided to support President Ranil Wickremesinghe in the next presidential election and that 90% of the executive council participated in the entire executive council, said he said.
 
-"ප්‍රවාහන ක්ෂේත්‍රය නිසා ලෝකයේ මෙන්ම අප රටේ ද පරිසර පද්ධතියට හානි රැසක් සිදුවනවා. වාහනවලින් පිටවන දුමාරය ඒ අතර විශේෂයි. ඊට විසඳුමක් ලෙස අප විසින් දුම් සහතික නිකුත් කිරීම සිදු කරනවා. ඒ අනුව අප රටේ වායුගෝලයේ ගුණාත්මක භාවය හොඳ තත්ත්වයකින් පවත්වාගෙන යාමට සමත්ව තිබෙනවා. එමඟින් පෙනහළු ආශ්‍රිත රෝග අවම කිරීමට මෙම වැඩ පිළිවෙල සහාය වනවා.
+The Sri Lanka Freedom Party (SLFP) has already begun to ensure the victory of President Ranil Wickremesinghe's victory.
+
+Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference at the Presidential Media Center.
+
+"Due to the transportation of the transport, there is a lot of damage to the ecosystem and our ecosystem. The smoke eating vehicles is special among. As a solution, we issue smoking certificates. Accordingly, our country's atmosphere is in good condition. This helps to minimize lungs related diseases.
 
 ...
 
 [Data](articles/229f1ddf.json)
+
+[Extended Data](ext_articles/229f1ddf.ext.json)
 
 ---
 
@@ -2021,117 +2133,5 @@ An initial batch of 10 new SLFS recruits as well as other officials from governm
 [Data](articles/d5a3c14b.json)
 
 [Extended Data](ext_articles/d5a3c14b.ext.json)
-
----
-
-### Who holds Sri Lanka’s external debt and how China is assisting Sri Lanka
-
-*2024-08-05 21:47:37* · [`dailyftlk`](https://www.ft.lk/columns/Who-holds-Sri-Lanka-s-external-debt-and-how-China-is-assisting-Sri-Lanka/4-765176) · `en`
-
-Aerial photo taken on 26 Nov. 2021 shows a panoramic view of Colombo Port City in Sri Lanka (China’s CHEC Port City Colombo/Handout via Xinhua)
-
-Aerial photo taken on 6 May 2021 shows a view of Sri Lanka’s Hambantota International Port (Photo by Liu Hongru/Xinhua)
-
-Sri Lanka reached a debt restructuring agreement with commercial creditors in July 2024 to restructure $ 12.5 billion in the country’s outstanding International Sovereign Bonds (ISBs). The parties agreed on core financial terms of restructuring the ISBs, which are now embodied in a joint working debt treatment framework (the Joint Working Framework). The framework proposes a 28% cut on the face value, an 11% reduction on past interest, with interest payments commencing in September.
-
-...
-
-[Data](articles/81ea4c7d.json)
-
-[Extended Data](ext_articles/81ea4c7d.ext.json)
-
----
-
-### Embracing change: Economic Transformation Bill
-
-*2024-08-05 21:40:17* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-change-Economic-Transformation-Bill/4-765175) · `en`
-
-It is true that the goals and policies reflected in the Bill appear quite broad; however, it is crucial to recognise that no law is perfect or capable of achieving all its outcomes – Pic by Lasantha Kumara
-
-The specialised bodies proposed to be set up by the Bill will be able to facilitate these industries by providing incentives for businesses operating within the zones, such as tax breaks, grants, and easier access to funding along with investment ready infrastructure such as innovation hubs, grants for research activities and streamlined processes for hiring skilled foreign workers and incentives for local talent development. These differences suggest a more dynamic and targeted approach compared to the existing laws and it is the role of the private sector to now embrace these changes and actively participate in driving economic transformation
-
-...
-
-[Data](articles/d78290bf.json)
-
-[Extended Data](ext_articles/d78290bf.ext.json)
-
----
-
-### Marchet Tu Dhaka, who has passed the Prime Minister of Prime Minister
-
-*2024-08-05 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199600) · `si`
-
-Following widespread protests and violence against the government, Bangladesh's Prime Minister Sheikh Hasina resigned. The unrest, which began with student demonstrations over job opportunities, escalated, leading to hundreds of deaths nationwide. The Supreme Court invalidated the controversial "Kota Methodology," further fueling the protests. Amidst the turmoil, the army chief assumed leadership, promising an interim administration. This period marks the largest protest during Sheikh Hasina's 15-year rule, characterized by mass arrests, internet shutdowns, and property damage.
-
-🟩
-
-Bangladesh Prime Minister Sheikh Husani resigned from his post, taking violence against the government over the days.
-
-The Bangladesh army chief announced the race and was announced today.
-
-The Bangladesh University students launched a massive protest in July, protesting to the government's jobs.
-
-Nearly 300 people were killed during the protests that have spread across the country with the centered in the capital city of Dhaka.
-
-The Supreme Court ordered the Supreme Court to cancel the Kota Methodology for the crisis.
-
-However, student activists were converted into a massive protest against the state of employment moths into a massive protest against the government and resumed a few days ago.
-
-The Prime Minister Sheikh Haseani forcing Prime Minister Sheikh Husani to resign from the post to the deceased.
-
-Student activists were protesting in many cities with the assistance of Bangladesh National Party, the main opposition of the country.
-
-...
-
-[Data](articles/00c6ff27.json)
-
-[Extended Data](ext_articles/00c6ff27.ext.json)
-
----
-
-### SLPP to reveal presidential candidate on Wednesday
-
-*2024-08-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101022/slpp-to-reveal-presidential-candidate-on-wednesday) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) says that its presidential candidate will be announced on Wednesday (Aug 07).
-
-However, many constituency meetings of the SLPP are passing resolutions in order to back incumbent President Ranil Wickremesinghe during the 2024 presidential election.
-
-In the meantime, State Minister of Finance Shehan Semasinghe has responded to the letter issued by the party’s General Secretary Sagara Kariyawasam stating that disciplinary action will be taken against SLPP members who defy the decision reached by its politburo regarding the upcoming election.
-
-Semasinghe has pointed out, in writing, that neither he nor the supporters of the SLPP are bound by the resolution passed by the party’s politburo on July 29.
-
-He has also stated that accordingly, actions will be taken against any disciplinary action that the party would seek against them and that they will not hesitate to make the right decisions in the face of the challenges that the country is currently facing.
-
-◼️
-
-[Data](articles/6a534483.json)
-
-[Extended Data](ext_articles/6a534483.ext.json)
-
----
-
-### Army's gift for cricket chaomers
-
-*2024-08-05 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199599) · `si`
-
-The Sri Lanka Army cricket team won the Asia Championship, receiving awards from the Army Commander, including the WGS Kularship, NND Silva Scholarship, and MA Sanjani Award. The Commander praised their skills and dedication.
-
-🟩
-
-Sri Lanka Army Army, who represented the Sri Lankan team won the Championship of Asia, winning the Championship Championship.
-
-The Commander of the Army Lieutenant General's Visit has been provided by the Commander of the Army (05).
-
-Such incentives were given incentives, Sergeant WGS Kularship, Sergeant NND Silva and Lance Corporal MA Sanjani.
-
-The Commander of the Army, the Commander of the Army congratulated the Asian Trophy and evaluated their excellent skills and commitment to the tournament.
-
-◼️
-
-[Data](articles/15bc0f55.json)
-
-[Extended Data](ext_articles/15bc0f55.ext.json)
 
 ---

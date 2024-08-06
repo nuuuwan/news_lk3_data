@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 01:20:54**
+As of **2024-08-07 01:36:05**
 
 ## Newspaper Stats
 
-*Scraped **39,363** Articles*
+*Scraped **39,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,383
-dailyftlk | 2,520
+dailyftlk | 2,521
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,361 (100.0%) of 39,363 articles have been extended.
+39,363 (100.0%) of 39,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Demise of Rajapaksa power and triumph of Rajapaksaism
+
+*2024-08-07 01:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Demise-of-Rajapaksa-power-and-triumph-of-Rajapaksaism/4-765215) · `en`
+
+– (Traditional proclamation made following the death of a monarch indicating the continuity of the monarchy)
+
+Mahinda Rajapaksa’s second presidential investiture was held two days after his 65th birthday, the twin occasions marked by grandiose displays of Rajapaksa power. The highlights of this political spectacle included a shipload of Buddhist monks voyaging from Galle to the Hambantota Rajapaksa Port, chanting the ‘Sagara Piritha’, and the cooking of world’s largest milk-rice weighting 4,000 kg by 300+ chefs (relayed live on TV). Tuition-guru turned Education Minister Bandula Gunwardane ordered all school children to listen to President Rajapaksa’s ‘Address to the Nation’.
+
+Most of the courtiers who pledged eternal fealty to High King Mahinda during that spectacular week in 2010 are unlikely to grace his 79th birthday in 2024.
+
+...
+
+[Data](articles/b675a0be.json)
+
+---
 
 ### College of General Practitioners of Sri Lanka celebrates 50 years
 
@@ -44,23 +60,31 @@ A Western medical doctor who has undergone further training to deliver medical c
 
 [Data](articles/d454577d.json)
 
+[Extended Data](ext_articles/d454577d.ext.json)
+
 ---
 
-### ஒலிம்பிக் 400 மீற்றரில் TR 17.2.3 விதியை மீறியதால் தகுதிநீக்கம் செய்யப்பட்டார் அருண தர்ஷன
+### Aruna Darshana was disqualified after violating Rule of TR 17.2.3 in Olympic 400 meters
 
 *2024-08-07 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190455) · `ta`
 
-பிரான்ஸில் நடைபெற்றுவரும் பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவில் ஆண்களுக்கான 400 மீற்றர் 2ஆவது அரை இறுதிப் போட்டியில் பங்குபற்றிய இலங்கை வீரர் அருண தர்ஷன தகுதிநீக்கம் செய்யப்பட்டார்.
+Aruna Darshana, a Sri Lankan athlete, was disqualified from the 400m 2nd semi-finals at the Paris 2024 Olympics for violating Rule 17.2.3 by stepping on another track. Despite finishing fifth in 44.75 seconds, his disqualification ended his participation in the finals.
 
-ஸ்டேட் டி பிரான்ஸ் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (06) இரவு நடைபெற்ற ஆண்களுக்கான 400 மீற்றர் 2ஆவது அரை இறுதிப் போட்டியில் பங்குபற்றிய அருண தர்ஷன, அப் போட்டியை 44.75 செக்கன்களில் ஓடி முடித்து 5ஆம் இடத்தைப் பெற்றார்.
+🟩
 
-ஆனால் மூன்று அரை இறுதிப் போட்டிகள் முடிவில் அருண தர்ஷன TR 17.2.3 விதியை மீறும் வகையில் மற்றைய தடத்தில் கால் பதித்தார் என்பது கண்டுபிடிக்கப்பட்டதை அடுத்து தகுதி நீக்கம் செய்யப்பட்டார்.
+Sri Lankan player Aruna Darshana was disqualified in the 400m 2nd semi -finals for the Men's 400m at the Paris 2024 Olympic Games in France.
 
-மூன்று அரை இறுதிப் போட்டிகளில் முதல் இரண்டு இடங்களைப் பெற்ற 6 வீரர்களும் அடுத்த அதிசிறந்த நேரங்களைப் பதிவுசெய்த இருவருமாக 8 வீரர்கள் இறுதிப் போட்டியில் பங்குபற்ற தகுதிபெற்றனர்.
+Aruna Darshana, who participated in the 400m 2nd semi -finals for the men's 400m 2nd semi -finals held on Tuesday night at the State de France Stadium, finished the 5th and finished 5th in 44.75 seconds.
+
+But at the end of the three semi -finals, Aruna Darshana was disqualified following the discovery that he had set foot on the other track in violation of Rule 17.2.3.
+
+Six players who won the top two in the three semi -finals and the next excellent times were eligible for 8 players to participate in the final.
 
 ...
 
 [Data](articles/b3f2cb65.json)
+
+[Extended Data](ext_articles/b3f2cb65.ext.json)
 
 ---
 
@@ -2247,35 +2271,5 @@ The state will provide the property for the playground premises on an 80-year-le
 [Data](articles/c7dbefeb.json)
 
 [Extended Data](ext_articles/c7dbefeb.ext.json)
-
----
-
-### The President did not act to break the powder
-
-*2024-08-06 12:24:32* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-කඩන්න-ජනාධිපතිතුමා-කිසිම-අවස්ථාවක-කටයුතු-කළේ-නෑ/11-411226) · `si`
-
-President Ranil Wickremesinghe denies taking steps to split the Sri Lanka Civil Appointment, Urban Development and Housing Minister Prasanna Ranatunga's statement. A meeting focused on public support for Wickremesinghe in the Presidential Election, with allegations of division within the Sri Lanka Civil Front addressed by Ranatunga, stating no action has been taken against them.
-
-🟩
-
-President Ranil Wickremesinghe has stated that he has not taken steps to divide the Sri Lanka Civil Appointment, Urban Development and Housing Minister Prasanna Ranatunga.
-
-The Minister always said that as a party, the President always said.
-
-A special discussion of the Sri Lanka Civil Front, who represents President Ranil Wickremesinghe, was held at a hotel in Battaramulla last night.
-
-Ministers Prasanna Ranatunga, Kananna Ranatunga, Kananna Ranatunga, Kananna Wijesara, Ramesh Wijesarana, Ali Sabri and other ministers were present.
-
-The discussion focuses on the discussion of the public at district level for the victory of Ranil Wickremesinghe at the Presidential Election.
-
-Speaking to the media after the discussion, Minister Prasanna Ranatunga said,
-
-Q. There is an allegation that the President has split the Sri Lanka Civil Aramaker Front. What about that?
-
-...
-
-[Data](articles/0754451f.json)
-
-[Extended Data](ext_articles/0754451f.ext.json)
 
 ---

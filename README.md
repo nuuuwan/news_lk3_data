@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 22:20:46**
+As of **2024-08-06 22:36:16**
 
 ## Newspaper Stats
 
-*Scraped **39,343** Articles*
+*Scraped **39,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,618
-adaderanalk | 4,571
+adaderanalk | 4,572
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,931
 virakesarilk | 6,219
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,343 (100.0%) of 39,343 articles have been extended.
+39,343 (100.0%) of 39,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Namal tipped to be named SLPP presidential candidate as Dhammika Perera pulls out
+
+*2024-08-06 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101049/namal-tipped-to-be-named-slpp-presidential-candidate-as-dhammika-perera-pulls-out-) · `en`
+
+Sri Lanka Podujana Peramuna ( SLPP ) MP Dhammika Perera has informed the party that he will not contest the 2024 Presidential Election as the SLPP candidate due to personal reasons, sources said.
+
+Hence, the party leadership has decided to name an alternate candidate.
+
+Meanwhile, SLPP National Organiser Namal Rajapaksa is tipped to be named as the party’s presidential candidate, according to SLPP sources.
+
+However, SLPP is slated to officially announce its Presidential Candidate tomorrow morning (07).
+
+Namal Rakapaksa will be the youngest candidate of this presidential poll if he contests.
+
+◼️
+
+[Data](articles/3c183b08.json)
+
+---
 
 ### Election complaints exceeding 100
 
@@ -2229,23 +2249,5 @@ Thus, the proposal submitted by President Ranil Wickremesinghe as the Minister o
 [Data](articles/bebe81f7.json)
 
 [Extended Data](ext_articles/bebe81f7.ext.json)
-
----
-
-### Special interest rate for fixed deposits of senior citizens
-
-*2024-08-06 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199619) · `si`
-
-The government has increased the interest rate to 10% for fixed deposits made by senior citizens aged 60 and above, following cabinet approval.
-
-🟩
-
-Cabinet approval has been approved to increase the interest rate to 10% on the fixed deposits of senior citizens over 60 years of age.
-
-◼️
-
-[Data](articles/1374c469.json)
-
-[Extended Data](ext_articles/1374c469.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 07:50:09**
+As of **2024-08-06 08:24:45**
 
 ## Newspaper Stats
 
-*Scraped **39,205** Articles*
+*Scraped **39,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,237 @@ dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,910
-virakesarilk | 6,205
-adaderanasinhalalk | 6,623
+tamilmirrorlk | 4,912
+virakesarilk | 6,208
+adaderanasinhalalk | 6,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,200 (100.0%) of 39,205 articles have been extended.
+39,210 (100.0%) of 39,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### මහින්දගේ කැමැත්ත ගැන දිලුම්ගෙන් හෙළිදරව්වක්
+### දුම්රිය ධාවනයට බාධා
+
+*2024-08-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199610) · `si`
+
+දෙමටගොඩ ධාවනාගාරයේ සේවකයින් රාජකාරී කටයුතුවලින් ඉවත් වීම හේතුවෙන් දුම්රිය ගමනාගමන කටයුතුවලට බාධා එල්ල වී තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේ, මේ හේතුවෙන් කොළඹ කොටුවෙන් ගමන් ආරම්භ කරනු ලබන දුම්රියවල ප්‍රමාදයන් සහ අවලංගු වීම් සිදුවනු ඇති බවය.
+
+දෙමටගොඩ ධාවනාගාරයේ සේවකයෙකු අතුරුදන්වීම සම්බන්ධයෙන් සිදුකරන විමර්ශන නිසි අකාරයෙන් ක්‍රියාත්මක නොවීමට විරෝධය පළකරමින් එහි සේවකයින් මේ වනවිට සේවා කටයුතුවලින් ඉවත් වී තිබේ.
+
+දුම්රිය ගමනාගමන නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.ජේ.ඉදිපොලගේ මහතා පැවසුවේ මේ හේතුවෙන් උදෑසන කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වීමට නියමිතව තිබූ පොඩි මැණිකේ දුම්රිය සහ බදුල්ල ඔඩිසි යන දුම්රියන් මෙතෙක් ධාවනය කිරීමට නොහැකි වී ඇති බවය.
+
+පවතින තත්ත්වය හමුවේ දුම්රිය ගමන්වාර කිහිපයක් අවලංගු කිරීමට සිදුවනු ඇති බව ද ඉදිපොළගේ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b469567e.json)
+
+---
+
+### 15க்கு பின் பலத்த பாதுகாப்பு
+
+*2024-08-06 08:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15க்கு-பின்-பலத்த-பாதுகாப்பு/175-341665) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு ஆயத்தமாக ஆகஸ்ட் 15ஆம் திகதிக்கு பின்னர் நாடு முழுவதும் பாதுகாப்பு பலப்படுத்தப்படும் என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+பொலிஸ் மா அதிபர் இல்லாத நிலையில், பொது பாதுகாப்பு அமைச்சின் செயலாளர் வியானி குணதிலக்கவுக்கு தேர்தலுக்கான பாதுகாப்பு ஏற்பாடுகளை மேற்பார்வை செய்யும் முழு அதிகாரம் வழங்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/9c3350b6.json)
+
+---
+
+### Veerakesari - President Ranil Wickremesinghe Greetings
+
+*2024-08-06 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190378) · `ta`
+
+President Ranil Wickremesinghe congratulates Weerakesari, Sri Lanka's pioneering Tamil newspaper, on its 94th anniversary. He highlights its role in educating the Tamil-speaking community, promoting development, and fostering ethnic harmony. Acknowledging its dedication to editorial integrity, he commends Weerakesari for being a trusted voice and a unifying force within the community.
+
+🟩
+
+President Ranil Wickremesinghe said in a congratulatory message to the Express Newspapers, which publishes the magazine at this moment of celebrating the 94th anniversary of Weerakesari.
+
+The pioneer Tamil newspaper in Sri Lanka has reached a significant milestone in our media structure, reflecting its prolonged presence and influence.
+
+For the past 94 years. The dedication to its editorial integrity is not only in communicating and enlightening to the Tamil -speaking community, but also in promoting development strategies, promoting ethnic harmony and referring to many other major issues in Sri Lanka.
+
+Due to the dedication of the Weerakesari magazine on these values, it has earned the confidence and respect of its readers and maintains its identity as an independent voice of the Tamil media.
+
+...
+
+[Data](articles/3c80862e.json)
+
+[Extended Data](ext_articles/3c80862e.ext.json)
+
+---
+
+### Presidential criteria released
+
+*2024-08-06 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199609) · `si`
+
+The Media Subject to the Presidential Election Committee has been announced, affecting election reporting and political programs. A delegation will enforce and recommend media criteria. The Elections Commission has outlined media standards for various platforms, including extending postal voting application deadlines. Complaints will be investigated through a newly established unit at both district and national levels.
+
+🟩
+
+The Media Subject to the Presidential Election Committee has been announced.
+
+In the presidential election, the Elections Commission has informed the election reporting, other reports, political programs and propaganda.
+
+Accordingly, a delegation committee is to be appointed to enforce and recommend media criteria.
+
+The Elections Commission has also been announced by the Elections as well as the media criteria and print media for electronic media institutions, internet websites and social media websites.
+
+Meanwhile, the Elections Commission has decided to extend the postal voting applications for the presidential election to midnight on the 9th.
+
+The Elections Commission states that the decision was taken following the demands carried out by the post yesterday (05).
+
+Meanwhile, the Elections Commission says the complaints have been taken to investigate the complaints received by the Elections Commission to investigate the presidential election.
+
+...
+
+[Data](articles/b9adc817.json)
+
+[Extended Data](ext_articles/b9adc817.ext.json)
+
+---
+
+### Supporters of two parties in a guttb
+
+*2024-08-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199608) · `si`
+
+In Vanathawilluwa, clashes erupted between supporters of two political parties over a poster dispute near a junction. Two individuals were injured and hospitalized. Authorities plan to arrest them and bring them to court.
+
+🟩
+
+Two supporters of two political parties have occurred in Vanathavilluwa.
+
+The clash had occurred to ripen a poster with a poster pasted at a Milankulam Junction in the Vanathawilluwa Police area.
+
+Two injured in the confrontation have been admitted to the Puttalam Hospital for treatment.
+
+They will be arrested and produced before courts.
+
+◼️
+
+[Data](articles/20e3b816.json)
+
+[Extended Data](ext_articles/20e3b816.ext.json)
+
+---
+
+### Example of the uniqueness and sides
+
+*2024-08-06 07:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190376) · `ta`
+
+Sajith Premadasa congratulates Veerakesari, Sri Lanka's oldest Tamil newspaper, on its 94th anniversary, highlighting its role in democracy, representing Tamil and Muslim voices, and evolving into a platform for social communication and community engagement.
+
+🟩
+
+Traveling towards a century highlights the uniqueness and sides of the newspaper.Opposition leader Sajith Premadasa said in the news.
+
+Opposition Leader Sajith Premadasa Weerakeri has further stated in a greeting message sent to the 94th.
+
+The media is considered the fourth pillar of democracy. In the case of Sri Lanka, Subramanian Chettiar, which was launched on August 6, 1930, was the right to the people of Indian origin in the early days, and later acts as the voice of the Tamil and Muslim people in Sri Lanka to express the sentiments of the Tamil and Muslim people in Sri Lanka.. The presence of the Weerakesari magazine in the history of Sri Lankan Tamil print media is of historical significance.
+
+Veerakesari, who is the highest identity of Sri Lanka's first national Tamil newspaper, is traveling to the century with the crown of "Clear Information in the Quality way". I am proud to congratulate the Weerakesari magazine on celebrating the 94th day of the 94th.
+
+...
+
+[Data](articles/1543072c.json)
+
+[Extended Data](ext_articles/1543072c.ext.json)
+
+---
+
+### M. Veerakesari forever you stand!
+
+*2024-08-06 07:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190375) · `ta`
+
+"An enduring tribute to M. Veerakesari, symbolizing lasting impact."
+
+🟩
+
+◼️
+
+[Data](articles/a482d233.json)
+
+[Extended Data](ext_articles/a482d233.ext.json)
+
+---
+
+### Dilum of Mahinda's consent is revealed
 
 *2024-08-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199607) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරණය සඳහා වෙනම අපේක්ෂකයෙකු පත්කිරීමේ තීරණයට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ කැමැත්තක් නොතිබූ බව රාජ්‍ය  අමාත්‍ය දිලුම් අමුණුගම මහතා සඳහන් කළේය.
+Mahinda Rajapaksa cannot appoint a separate presidential candidate due to lack of consent, according to Dilum Amunugama. This revelation came during a TV Derana program where it was discussed that party members had previously consulted with Rajapaksa about potential candidates. Despite this, the General Secretary and the Secretary-General of the Political Policy Council stated that there would be no independent candidate selection, aligning with the party's decision.
 
-ඊයේ රාත්‍රී ටීවී දෙරණ ඔස්සේ විකාශය වූ 360 කාලීන වැඩසටහන සමග එක්වෙමින් දිලුම් අමුණුගම රාජ්‍ය අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-"මහින්ද රාජපක්ෂ මහතා පක්ෂය අභ්‍යන්තරයේ හිටපු සාකච්ඡාවලට අපි ඉඳලා තියෙනවා. අදටත් ඔය කියන දේශපාලන මණ්ඩල රැස්වීමට දවස් දෙකකට කලින් පොහොට්ටුවේ මන්ත්‍රීවරු 30දෙනෙක් මහින්ද රාජපක්ෂ මහතා එක්ක සාකච්ඡා කරපුවාම, එතුමා කිව්වේ මම සහමුලින් විරුද්ධයි වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කරනවාට අපි රනිල්ට සහාය දිය යුතුයි එතුමා මේ කරගෙන යන වැඩපිළිවෙළට ඒ නිසා පක්ෂයෙන් අපේක්ෂයෙක් ඉදිරිපත් කරන්නේ නැහැ කියන එක තමයි එතුමා කිව්වේ... මම විතරක් නෙමෙයි සාක්ෂියට තව 29 දෙනෙක් ඉන්නවා."
+Former President Mahinda Rajapaksa has no consent to appoint a separate candidate for the Presidential election.
 
-ප්‍රශ්නය - ඇත්තටම පොහොට්ටුවෙන් වෙනත් අපේක්ෂයෙක් දාන්න ඕනේ වුණේ කාටද ?
+Dilum Amunugama was speaking at the 3010-time program that was broadcast on TV Derana last night.
 
-"දැන් කියන දේවල්වල හැටියට සහ එදා දේශපාලන මණ්ඩලයේදී මහ ලේකම්තුමා ප්‍රකාශ කළ විදිහට මහ ලේකම්තුමා තමයි ඒක ප්‍රකාශ කරන්නේ. හැබැයි එතුමාගේ තනි වුවමනාව වෙන්න විදිහක් නැහැ."
+"We have occasionally former discussions in the party. He said that if the party members were discussing with Mahinda Rajapaksa two days before the party's meeting with Mahinda Rajapaksa, two MPs in the Pohol meeting today before Mahinda Rajapaksa.... I'm just 29 more evidence. "
+
+Q. Who wants to put another candidate from the poush?
+
+"The General Secretary declares that as" as well as the Secretary-General of the Politic Policy Council then declared that. But there is no way to make his own desire. "
 
 ◼️
 
 [Data](articles/9488e7aa.json)
 
+[Extended Data](ext_articles/9488e7aa.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ විපතට පත් ජනතාවට ශ්‍රී ලංකා රජයේ කනගාටුව
+### The Sri Lankan government regret the people affected by Bangladesh
 
 *2024-08-06 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199606) · `si`
 
-බංග්ලාදේශයේ පවතින නොසන්සුන්තාවයෙන් විපතට පත්වූවන්ගේ පවුල්වලට සහ පීඩාවට පත්වූ සියලුදෙනාට බලවත් සංවේගය පළකරන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ අලී සබ්රි මහතා පවසයි.
+The Sri Lankan government expresses regret over the unrest in Bangladesh, offering support to victims. External Affairs Minister Ali Sabri emphasizes solidarity and hopes for peace and stability in Bangladesh, highlighting the strong bond between the two nations.
 
-සිය එක්ස් ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පෙන්වා දෙන්නේ, මෙම අභියෝගාත්මක අවස්ථාවේ දී බංග්ලාදේශ ජනතාව සමග හදවතින් බැඳීසිටින බවය.
+🟩
 
-ශ්‍රී ලංකාව, බංග්ලාදේශය සමග පවතින මිත්‍රත්වය අගය කරන අතර එහි ජනතාව සමග සහයෝගයෙන් කටයුතු කරන බව විදේශ කටයුතු අමාත්‍යවරයා පෙන්වා දෙයි.
+External Affairs Minister Ali Sabri says that the most powerful companions of the victims of the unrest in Bangladesh and all affected people will be expressed.
 
-බංග්ලාදේශයට සාමය සහ ස්ථාවරත්වය කඩිනමින් නැවත පැමිණෙනු ඇතැයි බලාපොරොත්තු වන අතර ඒ සඳහා ශක්තිය ප්‍රාර්ථනා කරන බව විදේශ කටයුතු අමාත්‍ය අලී සබ්රි මහතා සිය එක්ස් සටහනෙන් පෙන්වා දී ඇත.
+Speaking on his X account note, the Minister pointed out that the Bangladesh is obliged with the people of Bangladesh at this challenging.
+
+Sri Lanka appreciates the friendship with Bangladesh and collaborates with its people.
+
+External Affairs Minister Ali Sabri pointed out that peace and stability will return to Bangladesh and wishing the strength.
 
 ◼️
 
 [Data](articles/bf7db7ea.json)
+
+[Extended Data](ext_articles/bf7db7ea.ext.json)
+
+---
+
+### மாணவர்கள் கோரிக்கையை நிறைவேற்றினார் ஜனாதிபதி
+
+*2024-08-06 07:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-கோரிக்கையை-நிறைவேற்றினார்-ஜனாதிபதி/175-341663) · `ta`
+
+தமது பாடசாலைக்கு ஸ்மார்ட் வகுப்பறையொன்றைப் பெற்றுத் தருமாறும் விளையாட்டு மைதானத்தை நவீனமயப்படுத்துமாறும் கண்டி, மெனிக்திவெல மத்திய கல்லூரி மாணவர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் முன்வைத்த கோரிக்கையை உடனடியாக நிறைவேற்ற ஜனாதிபதி நடவடிக்கை எடுத்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவின் பிரகாரம் ஜனாதிபதி செயலகம், ஜனாதிபதி மாளிகை, துறைமுக நகரம், மத்திய வங்கி, நாடாளுமன்றம் உள்ளிட்ட கொழும்பை சுற்றியுள்ள கல்வியுடன் முக்கிய தொடர்புள்ள விசேட இடங்களை பார்வையிடும் வாய்ப்பு பாடசாலை மாணவர்களுக்கு வழங்கப்பட்டு வருகிறது.
+
+மெனிக்திவெல மத்திய கல்லூரியில் கல்வி கற்கும் சுமார் 570 மாணவர்கள் நேற்று களப்பயணத்தில் இணைந்திருந்ததோடு அவர்களுக்கு ஜனாதிபதி மாளிகையை பார்வையிடவும் சந்தர்ப்பம் கிடைத்தது. அதனைத் தொடர்ந்து ஜனாதிபதி அலுவலகத்திற்கு வருகை தந்ததோடு தங்களுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்திக்க வாய்ப்பளிக்குமாறு கோரினர்.
+
+அவர்களைச் சந்தித்த ஜனாதிபதி, அவர்களுடன் சிநேகபூர்வமாக உரையாடியதுடன் மாணவர்களின் கல்வி நடவடிக்கைகள் குறித்தும் கேட்டறிந்தார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/d3d1c8b4.json)
 
 ---
 
@@ -268,19 +450,25 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 
 ---
 
-### 60 முறைப்பாடுகள் பதிவு
+### 60 complaints register
 
 *2024-08-06 01:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-முறைப்பாடுகள்-பதிவு/175-341661) · `ta`
 
-தேர்தல் சட்டங்களை மீறியமை தொடர்பில் இதுவரையில் 60 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன என பெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+February Organization reports 60 election law violations, including misuse of state power and improper asset use. Complaints also target political changes in state institution leadership and uncontrolled development projects.
 
-அரச அதிகார துஷ்பிரயோகம் மற்றும் சொத்துக்களை முறையற்ற விதத்தில் பயன்படுத்திய குற்றச்சாட்டுகள் தொடர்பிலேயே அதிகளவான முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன என அதன் பணிப்பாளர் ரோஹண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
 
-அரசியல் நோக்கங்களுக்காக சில அரச நிறுவனங்களின் சிரேஷ்ட பதவி நிலைகளில் மாற்றங்களை ஏற்படுத்தியமை, பூரணப்படுத்தப்படாத அபிவிருத்தி வேலைத்திட்டங்களை அங்குரார்ப்பணம் செய்தமை உள்ளிட்ட பல்வேறு முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன என அவர் குறிப்பிட்டுள்ளார். (a)
+According to the February organization, 60 complaints have been received so far in violation of election laws.
+
+Its Director Rohana Hettiarachchi said that the abuse of state power and the use of assets inappropriately.
+
+He added that various complaints have been made, including the change in the senior positions of some state institutions for political purposes, and the launching of unstoppable development programs.. (A)
 
 ◼️
 
 [Data](articles/a6c490da.json)
+
+[Extended Data](ext_articles/a6c490da.ext.json)
 
 ---
 
@@ -2019,209 +2207,5 @@ Police have arrested ten suspects including the owner of the tattoo studio in At
 [Data](articles/5254525d.json)
 
 [Extended Data](ext_articles/5254525d.ext.json)
-
----
-
-### Supreme Court dismisses contempt petition against Diana Gamage
-
-*2024-08-05 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101013/supreme-court-dismisses-contempt-petition-against-diana-gamage) · `en`
-
-The Supreme Court today (05) dismissed a contempt of court petition filed against former state minister Diana Gamage.
-
-The petition was taken up before a three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda and Shiran Gunaratne.
-
-However, the court decided to dismiss the petition in a majority decision by the judge bench, Ada Derana reporter said.
-
-The petition, filed by the former chairman of the Weligama Urban Council Rehan Jayawickrema, had accused  Gamage of contempt for the comments made by her during a press conference following the Supreme Court’s judgment disqualifying her from holding the position as a Member of Parliament.
-
-◼️
-
-[Data](articles/62d5b2d1.json)
-
-[Extended Data](ext_articles/62d5b2d1.ext.json)
-
----
-
-### Club spring murder suspects further remanded
-
-*2024-08-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199591) · `si`
-
-Tative Institute residents arrested for Club Wasantha Perera incident have been remanded till August 20th after appearing in Kaduwela Magistrate's Court.
-
-🟩
-
-The residents of the Tative Institute who was arrested in connection with Club Wasantha Perera have been remanded until August 20.
-
-The suspects were produced before the Kaduwela Magistrate's Court today (05).
-
-◼️
-
-[Data](articles/fc352c6a.json)
-
-[Extended Data](ext_articles/fc352c6a.ext.json)
-
----
-
-### Great win to Jakovich
-
-*2024-08-05 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199590) · `si`
-
-Jakovich, a 37-year-old unemployed player, made history by winning the gold medal in the World Successary Sarbawala, becoming the most successful player in World Tennis history. He defeated Carlos Alchoras in the men's singles final, showcasing his experience against Alchoras' youth. This victory, achieved after five attempts, highlights Jakovich's determination and skill, marking a significant moment in tennis history.
-
-🟩
-
-In the world, Jakovich, the World's Super Tennis at the World Successary Sarbawala, becoming the most successful player in World Tennis history, won the gold medal in the Tennis event.
-
-In the men's singles, Carlos alchoras defeated in the tennis finals.
-
-The 37-year-old unemployed Jookuvich and 21-year-old Carlos Alkerz Boy Tennis was diagnosed with the oldest and young players who participated in the finals of the Olympic history.
-
-Although the finals took a highly shaken, experienced Jokovich won the first two marks and won the largest dream of ten years and 7-6 years.
-
-The Olympic gold medal, which won 24 Grand Slam Tennis Championships, became successful in tennis history.
-
-He won the gold medal with a fifth attempt. After the match, Jakovich said the gold medal was the biggest victory.
-
-◼️
-
-[Data](articles/4e99fd0e.json)
-
-[Extended Data](ext_articles/4e99fd0e.ext.json)
-
----
-
-### Doctor's bail rejected for Archana
-
-*2024-08-05 16:18:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை-நிராகரிப்பு/72-341634) · `ta`
-
-Doctor Archana's bail request was denied after she was accused of entering Mannar General Hospital without permission and recording videos. The magistrate also instructed the police to investigate two other individuals who did the same. Archana was arrested and remanded until the 7th.
-
-🟩
-
-The Mannar Magistrate on Monday (05) has ordered the doctor Archana, who has been interrogated by the Mannar General Hospital without permission, and entered the doctor's room and the photo and video taken.
-
-The case against the doctor Archana was taken up for hearing on Monday (5) through the move deed. The Mannar Magistrate has ordered that the bail plea filed at the time was rejected and continued to be interrogated.
-
-At the same time, the magistrate has ordered the police to investigate the two men who had entered the hospital without permission and made video recordings with the doctor.
-
-A complaint was lodged with the Mannar police against the doctor Archana about taking photos and video without permission to enter the Mannar General Hospital last Friday night (02) without permission.
-
-The doctor was arrested by the Mannar Police on Saturday (03) and produced before the Mannar Magistrate. The magistrate had ordered him to be remanded until the 7th.
-
-◼️
-
-[Data](articles/e84abb60.json)
-
-[Extended Data](ext_articles/e84abb60.ext.json)
-
----
-
-### President is talented in dividing political parties - Namal Rajapaksa
-
-*2024-08-05 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190315) · `ta`
-
-Namal Rajapaksa praises President Ranil Wickremesinghe for effectively dividing political parties, emphasizing a lack of deal politics within their ranks. Despite the party's executive committee protesting a recent decision, Rajapaksa assures unity and hints at former President Mahinda Rajapaksa's return, promising to announce a presidential candidate soon.
-
-🟩
-
-President Ranil Wickremesinghe is the best in splitting political parties. The president, us, have no deal politics. The National Organizer of the PA, Namal Rajapaksa, said that we made a better decision to protect the party.
-
-He was speaking to the media after a meeting at the PA at the PA at the PA at the office of the PA on Monday (05) to the former members of the PA.
-
-The party's executive committee unanimously protests against the decision taken by the party.
-
-Those who have left the PA will reunite with us. Former President Mahinda Rajapaksa will mention that the 'saloon door has opened'.
-
-President Ranil Wickremesinghe is capable of dividing political parties.
-
-The President and we have no deal politics in the party. We have decided to make a decision in accordance with the policy of the party.. We will announce our presidential candidate tomorrow.
-
-◼️
-
-[Data](articles/6e8cbff5.json)
-
-[Extended Data](ext_articles/6e8cbff5.ext.json)
-
----
-
-### The struggle that sacked the Prime Minister
-
-*2024-08-05 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199589) · `si`
-
-In Bangladesh, the Prime Minister resigned amid protests, moving to India. The military urged calm as authorities cracked down on demonstrations, leading to deaths. Protests resumed, defying a curfew, and the PM's residence was stormed.
-
-🟩
-
-The Army Commander reported that intersts of interim administration in Bangladesh is established.
-
-Prime Minister, Sheikh Haseanna left his post and flends India.
-
-Army Commander General Vacker Highs - Says Sanan, the protest students should now go to their homes.
-
-According to media reports, the helicopter carrying Husanina and her sister had reached the city of India.
-
-The relatives of the Bangladesh exports of war heroes were decorated with the government of the Bangladesh free battle.
-
-The government used power to control the protest, and a large number of people died.
-
-After reducing protests in the country, the protesters again began last week with a political face.
-
-The curfew was imposed on the Bangladesh yesterday, but the protesters were ignored and covered Dhaka capital.
-
-Prior to the arrival of the protesters, the PM was removed from the site.
-
-However, the protesters took the goods in the prime minister's official residence, foreign media reports.
-
-◼️
-
-[Data](articles/e442ef84.json)
-
-[Extended Data](ext_articles/e442ef84.ext.json)
-
----
-
-### Bangladesh
-
-*2024-08-05 15:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-இராணுவ-ஆட்சி/50-341633) · `ta`
-
-In Bangladesh, the military has seized power after PM Sheikh Hasina resigned and left Dhaka. Schools, colleges, and universities are closed, and social media is blocked. Army Commander Wakar Us-Jaman announced military rule, promising to restore law and order with public support.
-
-🟩
-
-Army Commander Walker Us-Jaman has announced that the military regime is in effect in the country as the military has taken over the regime in Bangladesh.
-
-Bangladesh Prime Minister Sheikh Hasina resigned from his post today, leaving the capital, Dhaka. Following this, it was announced that the military rule would be declared here.
-
-Also, all schools, colleges and universities closed. Social networks are also banned.
-
-Meanwhile, Army Commander Wakar Us-Jaman has announced that the army will form an interim state in the country. Also, we will establish law and order. He added that public cooperation is essential in a difficult environment.
-
-◼️
-
-[Data](articles/4c2a2661.json)
-
-[Extended Data](ext_articles/4c2a2661.ext.json)
-
----
-
-### Advisory issued for thundershowers and severe lightning
-
-*2024-08-05 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101012/advisory-issued-for-thundershowers-and-severe-lightning) · `en`
-
-The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Northern and Eastern provinces and in Polonnaruwa and Badulla districts.
-
-There may be temporary localized strong winds during thundershowers, the department said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/3a416613.json)
-
-[Extended Data](ext_articles/3a416613.ext.json)
 
 ---

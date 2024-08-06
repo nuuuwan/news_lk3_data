@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 10:54:47**
+As of **2024-08-06 11:06:45**
 
 ## Newspaper Stats
 
-*Scraped **39,243** Articles*
+*Scraped **39,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
 adalk | 3,599
-adaderanalk | 4,553
+adaderanalk | 4,554
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,921
 virakesarilk | 6,209
-adaderanasinhalalk | 6,634
+adaderanasinhalalk | 6,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,241 (100.0%) of 39,243 articles have been extended.
+39,243 (100.0%) of 39,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### AKD places deposits to contest Presidential Election
+
+*2024-08-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101030/akd-places-deposits-to-contest-presidential-election) · `en`
+
+Leader of the National People’s Power (NPP) Anura Kumara Dissanayake has placed deposits this morning (06) to contest the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/42c0eb56.json)
+
+---
+
+### අනුරත් ඇප තියයි
+
+*2024-08-06 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199620) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා ජාතික ජන බලවේගයේ අපේක්ෂකයා ලෙස අනුර කුමාර දිසානායක මහතා වෙනුවෙන් අද (06) ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/1e81c7b1.json)
+
+---
 
 ### Cabinet approval to increase FD interest rates of senior citizens
 
@@ -43,6 +67,8 @@ Accordingly, the interest rates are to be increased from the current 8.5% to 10%
 ◼️
 
 [Data](articles/bebe81f7.json)
+
+[Extended Data](ext_articles/bebe81f7.ext.json)
 
 ---
 
@@ -101,6 +127,8 @@ The guidelines are issued to be followed in case of any emergencies, including p
 ◼️
 
 [Data](articles/17b81b61.json)
+
+[Extended Data](ext_articles/17b81b61.ext.json)
 
 ---
 
@@ -2141,53 +2169,5 @@ We are saying that it is best to divide them in each district and hand over them
 [Data](articles/00b370b3.json)
 
 [Extended Data](ext_articles/00b370b3.ext.json)
-
----
-
-### The little monk goes out
-
-*2024-08-05 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199597) · `si`
-
-The cremation of Mawan Gangarakaramaya Hunupitiya Renayakara Thero, a neutralist and social supporter, took place today. Known as Galaboda Galanisara Thero, he passed away at 81 while receiving treatment in Colombo. His remains were interred at the Gangaramaya of Hunupitiya last Saturday, attended by the Maha Sangha, religious leaders, ministers, MPs, and the Sri Lanka Cricket team led by Chief Coach Sanath Jayasuriya.
-
-🟩
-
-The cremation of the body of the remains of the remains of the Mawan Gangarakaramaya Hunupitiya Renayakara Thero (05) was held this afternoon.
-
-Hunupitiya Rangaramara Thero was known as the Galaboda Galanisara Thero, a nutralist and social support of the country.
-
-As he was receiving treatment at a private hospital in Colombo, we were second day.
-
-Little Suravan was 81, when he finished their chapter.
-
-The body was buried in the Gangaramaya of Hunupitiya last Saturday.
-
-The Maha Sangha, religious representatives, ministers and MPs and returned from the island's Nandesin from the country this morning.
-
-Sri Lanka Cricket Chief Coach Sanath Jayasuriya and the National Cricket Team came to the remains of the afternoon.
-
-Crematomy Perahera Hunupitiya Round. The cremation court arrived in front of Ramayaka Mawatha, Sir James Peries Mawatha, Jinaratana Mawatha.
-
-The grant of the creed voluition began with the participation of the Trincomalee General Assembly at about 4.30 pm.
-
-...
-
-[Data](articles/a608bd7a.json)
-
-[Extended Data](ext_articles/a608bd7a.ext.json)
-
----
-
-### India & The Military: Two Factors That May Affect JVP’s Rise To Power
-
-*2024-08-05 19:33:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/india-the-military-two-factors-that-may-affect-jvps-rise-to-power/) · `en`
-
-The indomitable spirit shown by Janatha Vimukthi Peramuna commonly known as JVP since its inception, even after the total eclipse of its initial political leadership is remarkable. Unlike many of the leftist political parties swayed and assimilated into the mainstream spectrum of party politics in Sri Lanka, JVP survived and flourished. After a half-century of its survival before two insurrections, JVP stands as a catalyst factor in the coming presidential election of Sri Lanka. Embittered by the cascade of failures attributed to the major political parties, essentially the nepotism of the Rajapaksa regime until the ousting of Gotabaya in 2022, the people seem to have developed a trust towards JVP’s charismatic leader Mr. Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/7c7aa8ed.json)
-
-[Extended Data](ext_articles/7c7aa8ed.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 18:16:07**
+As of **2024-08-06 18:27:57**
 
 ## Newspaper Stats
 
-*Scraped **39,322** Articles*
+*Scraped **39,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adaderanalk | 4,567
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
 virakesarilk | 6,219
-adaderanasinhalalk | 6,653
+adaderanasinhalalk | 6,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,319 (100.0%) of 39,322 articles have been extended.
+39,322 (100.0%) of 39,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### நிலையான அபிவிருத்தி இலக்குகளை அடைவதற்கும் 2040 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய கார்பன் உமிழ்வை அடைவதற்கும் இலங்கை உறுதிபூண்டுள்ளது - ஜனாதிபதி
+### ජනපතිවරණයට ඇප තැබූ පිරිස 18 දක්වා ඉහළට
+
+*2024-08-06 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199638) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 18 දෙනෙකු මේ දක්වා ඇප මුදල් තැන්පත් කර ඇතැයි මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/4288ae9a.json)
+
+---
+
+### Sri Lanka is committed to achieving standard development goals and net zero carbon emission by 2040 - President
 
 *2024-08-06 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190444) · `ta`
 
-புதுப்பிக்கத்தக்க எரிசக்தி ஆற்றல்களைப் பயன்படுத்துதல், விவசாயத்தை நவீனப்படுத்துதல் மற்றும் நீர்ப் பற்றாக்குறைக்குத் தீர்வு வழங்குதல் போன்ற துரித முறைகள் மூலம் 2040 ஆம் ஆண்டளவில் நிலையான அபிவிருத்தி இலக்குகளை அடைவதற்கும் நிகர பூஜ்ஜிய கார்பன் உமிழ்வை அடைவதற்கும் இலங்கை செயற்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Sri Lanka aims to reach standard development goals and achieve net-zero carbon emissions by 2040 through renewable energy, agricultural modernization, and addressing water scarcity. This initiative includes attracting global financial support, transforming the plantation sector into an agricultural business, promoting sustainable tourism, enhancing manufacturing, and digitalization. The President emphasized the importance of ESG principles during a conference, highlighting the need for innovation and sustainability in the face of geopolitical challenges and economic uncertainties.
 
-அதற்காக வர்த்தக முதலீடுகள் ஊடாக உலகளாவிய நிதி வசதிகளை ஈர்ப்பதுடன், பெருந்தோட்டத் துறையை பெருந்தோட்டத் தொழிலில் இருந்து விவசாய வணிகமாக மாற்றுவது, நிலையான சுற்றுலாத்துறை ஊக்குவிப்பு மற்றும் உற்பத்திகளை மேம்படுத்துதல் மற்றும் டிஜிட்டல் மயமாக்கல் என்பன இதன் பிரதான வேலைத் திட்டங்களாகும் என ஜனாதிபதி குறிப்பிட்டார்.
+🟩
 
-கொழும்பு சினமன் கிரேண்ட் ஹோட்டலில் செவ்வாய்க்கிழமை (06) முற்பகல் ஆரம்பமான 2024 ஆம் ஆண்டுக்கான சுற்றாடல், சமூக மற்றும் ஆளுகை (ESG) மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said Sri Lanka is working on achieving standard development targets by 2040 by rapid methods such as the use of renewable energy energy, modernization of agriculture and resolving water shortage.
+
+For this purpose, the President said that it is the main programs that attract global financial facilities through trade investments and convert the plantation sector into agricultural business, promote sustainable tourism, promote and improve production and digitalization.
+
+President Ranil Wickremesinghe made this statement while addressing the Environment, Social and Governance (ESG) conference for 2024 at the Chinaman Grand Hotel in Colombo on Tuesday (06).
+
+The conference, organized by the Association of Business Administration Graduates, Colombo University, under the theme of 'Sustainable Path for a Bright Future', was held throughout the day.
 
 ...
 
 [Data](articles/b38d132c.json)
+
+[Extended Data](ext_articles/b38d132c.ext.json)
 
 ---
 
@@ -396,21 +416,35 @@ Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), 
 
 ---
 
-### பங்களாதேஷ் நாட்டின் நிலைமையை சிறந்த படிப்பினையாக கொள்ள வேண்டும்    - பிரேம்நாத்.சி தொலவத்த
+### The situation of Bangladesh should be a great lesson - Premnath.C.
 
 *2024-08-06 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190427) · `ta`
 
-மக்களாணையுடன் ஆட்சிக்கு வர முடியாத தரப்பினர் ஜனநாயகம் என்று குறிப்பிட்டுக் கொண்டு  பாசிசவாத கொள்கையுடன் செயற்படுகிறார்கள். பங்களாதேஷ் நாட்டின் தற்போதைய நிலைமையை அனைவரும் ஒரு படிப்பினையாக கொள்ள வேண்டும் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் .சி தொலவத்த தெரிவித்தார்.
+Bangladesh's current situation serves as a cautionary tale for Sri Lanka. In 2022, Bangladesh faced economic crises leading to widespread protests. However, these protests were hijacked by political parties for their gain, adopting fascist policies instead of addressing the people's needs democratically. This scenario mirrors Sri Lanka's current challenges, where the government's handling of the Matara Nilwala Ganga construction issue and the subsequent water problems have sparked debates about democracy and governance.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை' தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஆசிய வலய நாடுகளில் அரசியல் நிலை அவதான நிலையில் காணப்படுகிறது.2022 ஆம் ஆண்டு காலப்பகுதியில் இலங்கையின் நிலை தற்போது பங்களாதேஷ் நாட்டில் காணப்படுகிறது.போராட்டங்களுக்கு மத்தியில் பங்களாதேஸ் நாட்டின் பிரதமர்  பதவி விலகி நாட்டை விட்டு வெளியேறியுள்ளார்.
+People who cannot rule with the people are referring to democracy and act with fascist policy. The ruling party parliamentarian Premnath.
 
-எமது அரசாங்கத்தின் ஒருசில தவறான தீர்மானங்களினால் 2022 ஆம் ஆண்டு காலப்பகுதியில் போராட்டங்கள் தோற்றம் பெற்றன. பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட மக்கள் அரசாங்கத்துக்கு எதிர்ப்பு தெரிவித்து ஜனநாயக வழியில் போராட்டங்களில் ஈடுபட்டார்கள்.
+Speaking at the adjournment debate on the issue of the construction of the Matara Nilwala Ganga, which was held on Tuesday (06) in Parliament, the problem caused by the resistant water prevention.
+
+Sri Lanka's condition is now found in Bangladesh in 20122.
+
+With a few misconceptions of our government, the protests originated in 2022. The people affected by the economic crisis protested the government in a democratic way.
+
+A political party has used the people's struggle for their politics with fascist policy.
+
+It was against this backdrop that Ranil Wickremesinghe was elected president.
+
+President Ranil Wickremesinghe made tough decisions in 2022 to ensure the country's legislative.
+
+The people of the country are well aware that the country has recovered from the economic crisis because it has done so.
 
 ...
 
 [Data](articles/bbceb4f7.json)
+
+[Extended Data](ext_articles/bbceb4f7.ext.json)
 
 ---
 
@@ -460,19 +494,31 @@ France has identified Sri Lanka as the most suitable location for the study and 
 
 ---
 
-### மாகாணசபை தேர்தல்கள் (திருத்தச்) சட்டமூலம் : தமிழர்களின் வாக்குகளை பெறும் குண்டு - விமல்
+### Provincial Council Elections (Amendment) Bill
 
 *2024-08-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190412) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கு முன்னர் தமிழ் தேசிய கூட்டமைப்பின் ஒத்துழைப்பை பெற்றுக்கொள்வதற்காகவே மாகாணசபை தேர்தல்கள் (திருத்தச்) சட்டமூலம் வாக்கு குண்டாக கொண்டு வரப்பட்டுள்ளது.இந்த சட்டமூலத்தால் வடக்கில் வாழும் சிங்கள,முஸ்லிம் சமூகத்தினர் பாதிக்கப்படுவார்கள் என பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்தார்
+The Tamil National Alliance (TNA) proposed the Provincial Council Elections (Amendment) Bill for a second reading in Parliament, aiming to amend how Provincial Councils operate, including governance appointments and law enforcement. This move comes after the government indefinitely postponed provincial council elections, potentially impacting the Sinhalese and Muslim communities in the North. The bill was introduced prior to the presidential election, possibly to secure TNA support.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற அமர்வின் போது தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக  சபைக்கு சமர்ப்பித்தார்.
+🟩
 
-மாகாண சபைத் தேர்தலை நல்லாட்சி அரசாங்கமே காலவரையறையின்றி பிற்போட்டது.ஜனாதிபதித் தேர்தலுக்கு திகதி அறிவிக்கப்பட்டு தேர்தல் இடம்பெறவுள்ளது.இவ்வாறான நிலையில் மாகாண சபைத் தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை கொண்டு வருவதன் உண்மை நோக்கம் என்ன ?
+Prior to the presidential election, the TNA elections (Amendment) Bill had been brought into the voting of the TNA.
 
-...
+During the session held in Parliament on Tuesday (06), the Tamil National Alliance (TNA) parliamentarian MA Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the House for a second reading.
+
+The Good Governance Government has indefinitely dismissed the provincial council election.
+
+If the Chief Minister of the Provincial Councils appoints the Governor of the Provincial Councils, the police, land and environmental canon can be enacted.
+
+The Provincial Council Elections Bill has been introduced before the presidential election in order to gain the cooperation of the TNA.
+
+The Sinhalese and Muslim community living in the North will be affected as a vote bomb.
+
+◼️
 
 [Data](articles/ceb3169e.json)
+
+[Extended Data](ext_articles/ceb3169e.ext.json)
 
 ---
 
@@ -2203,25 +2249,5 @@ Employees are now quitting their work, protesting that an inquiry into the disap
 [Data](articles/d6d8e580.json)
 
 [Extended Data](ext_articles/d6d8e580.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-08-06 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101026/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places, the department said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/dc2ac36e.json)
-
-[Extended Data](ext_articles/dc2ac36e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 14:20:48**
+As of **2024-08-06 14:36:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,275 (100.0%) of 39,276 articles have been extended.
+39,276 (100.0%) of 39,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -302,27 +302,33 @@ The state will provide the property for the playground premises on an 80-year-le
 
 ---
 
-### පොහොට්ටුව කඩන්න ජනාධිපතිතුමා කිසිම අවස්ථාවක කටයුතු කළේ නෑ
+### The President did not act to break the powder
 
 *2024-08-06 12:24:32* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-කඩන්න-ජනාධිපතිතුමා-කිසිම-අවස්ථාවක-කටයුතු-කළේ-නෑ/11-411226) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කිසිඳු අවස්ථාවක ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ කිරීමට කටයුතු නොකළ බව තමන් ඉතාම වගකීමෙන් ප්‍රකාශ කරන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+President Ranil Wickremesinghe denies taking steps to split the Sri Lanka Civil Appointment, Urban Development and Housing Minister Prasanna Ranatunga's statement. A meeting focused on public support for Wickremesinghe in the Presidential Election, with allegations of division within the Sri Lanka Civil Front addressed by Ranatunga, stating no action has been taken against them.
 
-අමාත්‍යවරයා පවසන්නේ පක්ෂයක් ලෙස එකට එක්වී කටයුතු කළ යුතු බව ජනාධිපතිවරයා සෑම විටම පැවසූ බවයි.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මන්ත්‍රීවරුන්ගේ විශේෂ සාකච්ඡාවක් ඊයේ (05) රාත්‍රී බත්තරමුල්ලේ පිහිටි හෝටලයකදී පැවැත්විණ.
+President Ranil Wickremesinghe has stated that he has not taken steps to divide the Sri Lanka Civil Appointment, Urban Development and Housing Minister Prasanna Ranatunga.
 
-මෙම සාකච්ඡාව සඳහා අමාත්‍යවරුන් වන ප්‍රසන්න රණතුංග, කංචන විජේසේකර, රමේෂ් පතිරණ, අලි සබ්රි ඇතුළු මැති ඇමතිවරුන් රැසක් සහභාගී වූහ.
+The Minister always said that as a party, the President always said.
 
-ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය සඳහා දිස්ත්‍රික් මට්ටමින් ජනතාව දැනුවත් කිරීමේ වැඩපිළිවෙළ පිළිබඳව මෙම සාකච්ඡාවේ දී අවධානය යොමුව තිබේ.
+A special discussion of the Sri Lanka Civil Front, who represents President Ranil Wickremesinghe, was held at a hotel in Battaramulla last night.
 
-සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය,
+Ministers Prasanna Ranatunga, Kananna Ranatunga, Kananna Ranatunga, Kananna Wijesara, Ramesh Wijesarana, Ali Sabri and other ministers were present.
 
-ප්‍රශ්නය - ජනාධිපතිවරයා ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ කළ බවට චෝදනාවක් තිබෙනවා. ඒ ගැන මොකද කියන්නේ?
+The discussion focuses on the discussion of the public at district level for the victory of Ranil Wickremesinghe at the Presidential Election.
+
+Speaking to the media after the discussion, Minister Prasanna Ranatunga said,
+
+Q. There is an allegation that the President has split the Sri Lanka Civil Aramaker Front. What about that?
 
 ...
 
 [Data](articles/0754451f.json)
+
+[Extended Data](ext_articles/0754451f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 10:08:10**
+As of **2024-08-06 10:20:50**
 
 ## Newspaper Stats
 
-*Scraped **39,232** Articles*
+*Scraped **39,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
-economynextcom | 2,363
+economynextcom | 2,366
 dailyftlk | 2,519
 adalk | 3,598
-adaderanalk | 4,549
+adaderanalk | 4,551
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,920
 virakesarilk | 6,209
@@ -26,87 +26,195 @@ adaderanasinhalalk | 6,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,227 (100.0%) of 39,232 articles have been extended.
+39,232 (100.0%) of 39,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### நிலச்சரிவில் பலரின் உயிரை  காப்பாற்றிய கிளி!
+### Emergency guidelines and phone numbers issued for immigrant workers in Israel
+
+*2024-08-06 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101028/emergency-guidelines-and-phone-numbers-issued-for-immigrant-workers-in-israel-) · `en`
+
+The Foreign Workers’ Authority of Israel has issued guidelines and phone numbers of Israeli authorities for immigrant workers, including Sri Lankans.
+
+The guidelines are issued for use in emergencies, including possible attacks under the prevailing situation.
+
+◼️
+
+[Data](articles/9eeb4c12.json)
+
+---
+
+### How ‘full employment’ policies trigger social unrest in Sri Lanka to Bangladesh
+
+*2024-08-06 09:55:00* · [`economynextcom`](https://economynext.com/how-full-employment-policies-trigger-social-unrest-in-sri-lanka-to-bangladesh-175361/) · `en`
+
+ECONOMYNEXT  – US markets tumbled, initially spooked by tech stock layoffs, amid what is claimed as fears of jobs losses and a recession, are outcomes that economists have shown to be the automatic consequences of full employment policies.
+
+On Monday, the Dow Jones Industrial Average fell 1,033 points, which is only 2.6 percent, and the S&P 500 lost 3 percent and the Nasdaq composite 3.43 percent on top of losses last week as fears of unemployment rose.
+
+Though financial media is portraying the fall as a failure of the Fed to cut rates in time, non-macroeconomists have long pointed out that the manufacture of unemployment by the Fed is an automatic consequence of full employment policies favored by ‘economists’ since Keynes.
+
+That the Fed printed money and delayed rate hikes to claiming inflation was due to supply chain blocks and Putin is forgotten.
+
+...
+
+[Data](articles/599473a6.json)
+
+---
+
+### Parrot that saved the lives of many in the landslide!
 
 *2024-08-06 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலச்சரிவில்-பலரின்-உயிரை-காப்பாற்றிய-கிளி/175-341677) · `ta`
 
-சூரல்மலையில் இளைஞர் வளர்த்து வந்த கிளியின் எச்சரிக்கையால் பல குடும்பங்கள் நிலச்சரிவில் இருந்து தப்பித்த சம்பவம் நெகிழ்ச்சியை ஏற்படுத்தியுள்ளது.
+In Kerala, a raised parrot named Kingini warned its owner, Vinod, about an impending landslide, saving many lives. Over 400 deaths occurred due to landslides in Kerala, with rescue operations ongoing. Animals' awareness of natural disasters was highlighted by Kingini's actions, surprising locals including Vinod's family, friends, and neighbors who heeded the warning and evacuated safely.
 
-கேரள மாநிலம், வயநாடு மாவட்டத்தின் முண்டக்கை, சூரல்மலை, மேப்பாடி உள்ளிட்ட இடங்களில் அடுத்தடுத்து அதிபயங்கர நிலச்சரிவு 400க்கும் மேற்பட்டோர் பலியாகி உள்ளனர். 150க்கும் மேற்பட்ட உடல் பாகங்கள் மீட்கப்பட்டுள்ள நிலையில், மீட்பு பணி தொடர்ந்துவருகின்றது.
+🟩
 
-பொதுவாக பறவைகள் மற்றும் விலங்குகள் இயற்கை பேரிடர்களை முன்கூட்டியே அறிந்துகொள்ளும் திறன்கொண்டவை. அந்த வகையில், வயநாட்டைச் சேர்ந்த இளைஞர் வளர்த்து வந்த செல்லப்பிராணியான கிங்கினி என்ற கிளி எச்சரிக்கை செய்ததால் நிலச்சரிவில் இருந்து அவரது குடும்பம் மட்டுமல்லாமல், அவரது நண்பர் மற்றும் அண்டை வீட்டாரின் குடும்பமும் நிலச்சரிவில் இருந்து தப்பிய சம்பவம் ஆச்சரியத்தை ஏற்படுத்தியுள்ளது.
+The warning of a youth -raised parrot in Suramalai has caused many families to escape the landslide.
+
+More than 400 landslides have been killed in the state of Kerala, Mundakai, Sulmalai and Mapadi, Kerala.. With more than 150 body parts recovered, the rescue operation continues.
+
+Usually birds and animals are capable of aware of natural disasters. Thus, the incident of Kingini, a youth -raised pet of Wayanad, has been surprised by the landslide, not only his family, but also his friend and neighbors who survived the landslide.
+
+Vinod hails from Suramalai, Wayanad district. He is raising a pet clip called Kingini. Vinod and his family visited her sister's house in Colony Road before the landslide.
+
+By then, their pet had taken the Kingini with them. The next morning, Kingini suddenly caused a bustle into its cage. More. In this, the feathers of the parrot have begun to fall.
 
 ...
 
 [Data](articles/8b50c595.json)
 
+[Extended Data](ext_articles/8b50c595.ext.json)
+
 ---
 
-### රාජ්‍ය ආයතන ඩිජිටල්කරණයට අදාළ ජනපතිගේ තීරණයට කැබිනට් අනුමැතිය
+### Cabinet approval for digitalization of state institutions
 
 *2024-08-06 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199616) · `si`
 
-රාජ්‍ය සේවකයින්ගේ කාර්යක්ෂමතාව හා ගුණාත්මකභාවය වැඩිදියුණු කිරීමට රාජ්‍ය අංශයේ තොරතුරු තාක්ෂණ පද්ධති ඒකාබද්ධ කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approves digitalization of state institutions to enhance efficiency and service quality. President Wickremesinghe presents a plan for managing information and technology across all government agencies. Measures include simplifying identification processes for citizens and foreigners, mandating passport numbers for non-citizens, and ensuring data standardization for interoperability among institutions.
 
-ඒ අනුව සියලුම රාජ්‍ය ආයතන මඟින් නියාමනය කරනු ලබන තොරතුරු, තාක්ෂණ පද්ධති සහ දත්ත ඇතුළත් කිරීමෙන් කරුණු 4ක් යටතේ කටයුතු කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විශේෂ සංදේශයක් ඉදිරිපත් කර ඇත.
+🟩
 
-සියලුම රාජ්‍ය ආයතන ඩිජිටල්කරණය යටතේ මෙම කටයුත්ත සිදුකිරීමට නියමිත අතර එයට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approval has been granted to integrate public sector IT systems to improve the efficiency and quality of public servants.
 
-* අවුරුදු 15ට වැඩි ශ්‍රී ලාංකික පුරවැසියෙකු හඳුනාගැනීම සඳහා ජාතික හැඳුම්පත් අංකය භාවිත කිරීම අනිවාර්ය කිරීම.
+Accordingly, President Ranil Wickremesinghe has presented a special memorandum to deal with the information, technology systems and data regulated by all government agencies.
 
-* දෙවනුව විදේශ පුද්ගලයෙකු හඳුනාගැනීම සඳහා ඔහුගේ විදේශ ගමන්බලපත්‍ර අංකය භාවිත කිරීම අනිවාර්ය කිරීම.
+All government agencies are due to be made under the digitization of all government agencies and it has been approved by the Cabinet.
 
-*ආයතන අනෝන්‍ය වශයෙන් හඳුනාගැනීම සඳහා ව්‍යාපාර ලියාපදිංචි අංකය සහ එම ආයතන හිමිකරුවන්ගේ අධ්‍යක්ෂ මණ්ඩලවල දේශීය සාමාජිකයින්ගේ ජාතික හැඳුම්පත් අංකය හා විදේශ සාමාජිකයින්ගේ විදේශ ගමන් බලපත්‍රය අනිවාර්ය කෙරේ.
+* To downgrade the National Immediate period to identify a Sri Lankan citizen over 15 years.
 
-*අදාළ දත්ත විධිමත් පරිදි අනෙකුත් ආයතන සමග හුවමාරු කිරීමට හැකිවන පරිදි දත්ත ප්‍රමිතිකරණය සිදුකිරීම නියමිතයි.
+* Second, it is compulsory to use his passport number to identify a foreign person.
+
+* The National Identity Card number and foreign members of the local members of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners of the owners.
+
+• The data standardization is due to be able to exchange the relevant data with other institutions.
 
 ◼️
 
 [Data](articles/c1462a92.json)
 
+[Extended Data](ext_articles/c1462a92.ext.json)
+
 ---
 
-### வட மாகாண பிரதான அமைப்பாளராக உமாச்சந்திரா பிரகாஷ்
+### Sri Lanka rupee opens weaker at 302.30/50 to US dollar
+
+*2024-08-06 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-302-30-50-to-us-dollar-175382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 302.30/50 to the US dollar on Tuesday, dealers said. Bond yields were steady, they said, and stocks opened up 0.02 percent.
+
+In the secondary market, treasury bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.70/80 percent, down from 10.75/80 percent.
+
+A bond maturing on 15.12.2027 was quoted at 12.00/15 percent, up from 11.80/12.05 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.35/45 percent, up from 12.30/45 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.45/50 percent, down from 12.45/55 percent.
+
+A bond maturing on 15.10.2030 was quoted at 12.75/80 percent, down from 12.75/85 percent.
+
+In equities, Colombo’s All Share Price Index opened 2.73 points higher at 11,254, while the S&P SL20 of more liquid stocks opened up at 0.09 percent or 2.86 points to 3,217.
+
+◼️
+
+[Data](articles/f5eb98ac.json)
+
+---
+
+### Umachandra Prakash as the Chief Organizer of the Northern Province
 
 *2024-08-06 09:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-பிரதான-அமைப்பாளராக-உமாச்சந்திரா-பிரகாஷ்/175-341676) · `ta`
 
-2024 ஆம் ஆண்டிற்கான ஐக்கிய மக்கள் சக்தியின் வட மாகாண பிரதான அமைப்பாளராக உமாசந்திரா பிரகாஷ் நியமிக்கப்பட்டுள்ளார்.
+Umasandra Prakash named Chief Organizer of the Northern Province for the United People's Power for 2024, receiving his appointment from Opposition Leader Sajith Premadasa in Colombo on Monday.
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவருக்கான நியமனக் கடிதத்தை திங்கட்கிழமை (05) கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து வழங்கினார்.
+🟩
+
+Umasandra Prakash has been appointed as the Chief Organizer of the Northern Province of the United People's Power for 2024.
+
+Opposition Leader Sajith Premadasa handed over his appointment letter to the Opposition Leader's Office in Colombo on Monday (05).
 
 ◼️
 
 [Data](articles/afb90f06.json)
 
+[Extended Data](ext_articles/afb90f06.ext.json)
+
 ---
 
-### நாமல் ராஜபக்ஷ இராஜினாமா
+### Namal Rajapaksa resigns
 
 *2024-08-06 09:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷ-இராஜினாமா/175-341674) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினரும், தேசிய அமைப்பாளருமான நாமல் ராஜபக்ஷ, சர்வதேச தொடர்புகள் கண்காணிப்பு குழுவின் உறுப்பினர் பதவியில் இருந்து இராஜினாமா செய்துள்ளார் என்று சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, பாராளுமன்றத்துக்கு இன்று (06) அறிவித்தார்.
+Namal Rajapaksa, a Sri Lanka PA parliamentarian, resigned as the International Communications Monitoring Committee's national organizer. This news was announced by Speaker Mahinda Yapa Abeywardena in Parliament, setting a meeting for 9:30 am on Tuesday (07).
 
-பாராளுமன்றம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில், செவ்வாய்க்கிழமை (07) காலை 9.30க்கு கூடியது. சபாநாயகர் அறிவிப்பின் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Speaker Mahinda Yapa Abeywardena today announced to Parliament that Namal Rajapaksa, a parliamentarian and national organizer of the Sri Lanka PA, has resigned from the post of International Communications Monitoring Committee.
+
+Parliament will meet Speaker Mahinda Yapa Abeywardena at 9.30 am on Tuesday (07). The Speaker said this during the announcement.
 
 ◼️
 
 [Data](articles/6ede26fb.json)
 
+[Extended Data](ext_articles/6ede26fb.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Electricity and petroleum supply gazetted as essential services
+
+*2024-08-06 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101027/electricity-and-petroleum-supply-gazetted-as-essential-services) · `en`
+
+A special gazette notification has been issued declaring the supply of electricity and all related services, the supply or distribution of petroleum products and fuel, as essential services.
+
+Presidential Secretary Saman Ekanayake has issued the communiqué yesterday (05) on the directives of President Ranil Wickremesinghe.
+
+The communiqué was published in accordance with the powers vested in the President under Section 2 of the Essential Public Services Act No. 61 of 1979.
+
+◼️
+
+[Data](articles/bfa5b552.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-08-06 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199615) · `si`
+
+The Parliamentary Council has started its session, focusing on legislative discussions and decisions.
+
+🟩
 
 ◼️
 
 [Data](articles/63b136d3.json)
+
+[Extended Data](ext_articles/63b136d3.ext.json)
 
 ---
 
@@ -675,6 +783,28 @@ Minister Prasanna Ranatunga was also commented on the discussion.
 [Data](articles/772ef81c.json)
 
 [Extended Data](ext_articles/772ef81c.ext.json)
+
+---
+
+### US markets extend falls, steep fall in Japan
+
+*2024-08-06 06:07:00* · [`economynextcom`](https://economynext.com/us-markets-extend-falls-steep-fall-in-japan-175340/) · `en`
+
+ECONOMYNEXT – The US markets extended losses extending rout started last week, while Asian markets also fell with Japan, a country with very low interest rates.
+
+On Monday, the Dow Jones Industrial Average fell 1,033 points, which is about 2.6 percent,  S&P 500 lost 3 percent and the Nasdaq composite 3.43 percent on top of losses last week as fears of unemployment rose.
+
+The biggest fall was in Japan, which has the central bank with the lowest nominal interest rates with the Nikkei falling 12.4 percent.
+
+The Yen has been falling against the US dollar for some time.
+
+US markets have been skating on thin ice for some time, with the US broad money supply shrinking in absolute terms and banks credit also falling.
+
+Markets were buoyed by claims that upcoming rate cuts by the Fed would lead to lower rates, despite classical economists who were watching money supply data warning that a recession was ‘baked in the cake’ not due to earlier rate cuts that fired artificial demand.
+
+...
+
+[Data](articles/3c8839d7.json)
 
 ---
 
@@ -2071,119 +2201,5 @@ He has told State Shehan Semasinghe said that the disciplinary action is taken a
 [Data](articles/1adf8b05.json)
 
 [Extended Data](ext_articles/1adf8b05.ext.json)
-
----
-
-### 17 presidential candidates place deposits thus far
-
-*2024-08-05 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101020/17-presidential-candidates-place-deposits-thus-far) · `en`
-
-Three more candidates have placed their deposits today (Aug 05) in order to contest the 2024 Presidential Election, the Election Commission said.
-
-Accordingly, 17 candidates in total have placed their deposits with the Election Commission thus far.
-
-This includes seven independent candidates whose names have been nominated by a voter, nine candidates from recognized political parties and one candidate from other political parties.
-
-The independent candidates who have placed bonds today are Field Marshal Sarath Fonseka and Siripala Amarasinghe while K.R. Krishan of ‘Arunalu Janatha Peramuna’ has also placed deposits with the elections regulatory body.
-
-Earlier, deposits had been placed on behalf of the independent candidates President Ranil Wickremesinghe, K. Ananda Kularatne, Ven. Akmeemana Dayaratane Thero and former MP Sarath Keerthirathne while 13 others placed their bonds from recognized and other political parties.
-
-...
-
-[Data](articles/4fc7357e.json)
-
-[Extended Data](ext_articles/4fc7357e.ext.json)
-
----
-
-### Bangladesh Prime Minister's House
-
-*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறை-படங்கள்-இணைப்பு/50-341637) · `ta`
-
-Protesters stormed Bangladesh PM Sheikh Hasina's residence in Dhaka, leading to her resignation and departure. The Bangladesh National Party announced writer and professor Salimullah Khan as the head of the interim government. Protesters vandalized the residence, sharing images online.
-
-🟩
-
-The protesters entered the Prime Minister's official residence in the Bangladesh capital, Dhaka, and there was great tension in the Prime Minister's House.
-
-As a result of the students' protest, Bangladesh Prime Minister Sheikh Hasina has resigned from his post and left the country.. In this context, the Bangladesh National Party has said that the interim government in Bangladesh will be led by a renowned writer and professor Salimullah Khan.
-
-Amid subsequent political moves, the protesters entered the Prime Minister's official residence in the Bangladesh capital Dhaka and looted. When Sheikh Hasina left the country by military plane from Dhaka from Dhaka, he left the Prime Minister's post, leaving the Prime Minister's official residence and taking over his hand, and some tore the files.
-
-...
-
-[Data](articles/068f8df9.json)
-
-[Extended Data](ext_articles/068f8df9.ext.json)
-
----
-
-### Bangladesh Prime Minister's House
-
-*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகையை-சூறையாடியனர்/50-341637) · `ta`
-
-Protesters stormed Bangladesh PM Sheikh Hasina's residence in Dhaka, leading to her resignation and departure. The Bangladesh National Party announced Salimullah Khan, a renowned writer and professor, as the head of the interim government. Protesters violated security, taking photos, eating, and looting, with incidents captured and shared online.
-
-🟩
-
-The protesters entered the Prime Minister's official residence in the Bangladesh capital, Dhaka, and there was great tension in the Prime Minister's House.
-
-As a result of the students' protest, Bangladesh Prime Minister Sheikh Hasina has resigned from his post and left the country.. In this context, the Bangladesh National Party has said that the interim government in Bangladesh will be headed by famous writer and professor Salimullah Khan.
-
-Amidst subsequent political moves, the protesters entered the Prime Minister's official residence in the Bangladesh capital Dhaka and looted. When Sheikh Hasina left the country by military plane from Dhaka, he resigned from the post of Prime Minister and entered the prime minister's official residence and took some files.
-
-Views of the protesters who entered the Prime Minister's house in violation of the safety of the officers in their hands, the rabbit, rabbit and ducks have been revealed.. Some sat in the Prime Minister's chair and photographed.
-
-...
-
-[Data](articles/1af1c4d6.json)
-
-[Extended Data](ext_articles/1af1c4d6.ext.json)
-
----
-
-### Bangladesh Prime Minister's House Suraku: Pictures Link
-
-*2024-08-05 19:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/வங்கதேச-பிரதமர்-மாளிகை-சூறை-படங்கள்-இணைப்பு/46-341637) · `ta`
-
-Protesters stormed Bangladesh PM Sheikh Hasina's residence in Dhaka, leading to her resignation and departure. The Bangladesh National Party announced writer Salimullah Khan as the interim leader. Protesters looted the residence, shared photos and videos online, highlighting tensions and chaos.
-
-🟩
-
-The protesters entered the Prime Minister's official residence in the Bangladesh capital, Dhaka, and there was great tension in the Prime Minister's House.
-
-As a result of the students' protest, Bangladesh Prime Minister Sheikh Hasina has resigned from his post and left the country.. In this context, the Bangladesh National Party has said that the interim government in Bangladesh will be led by a renowned writer and professor Salimullah Khan.
-
-Amid subsequent political moves, the protesters entered the Prime Minister's official residence in the Bangladesh capital Dhaka and looted. When Sheikh Hasina left the country by military plane from Dhaka from Dhaka, he left the Prime Minister's post, leaving the Prime Minister's official residence and taking over his hand, and some tore the files.
-
-...
-
-[Data](articles/cc36e724.json)
-
-[Extended Data](ext_articles/cc36e724.ext.json)
-
----
-
-### Petition against increasing plantation workers' salaries
-
-*2024-08-05 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-කිරීමට-එරෙහි-පෙත්සම-විභාගයට/11-411215) · `si`
-
-The Court of Appeal will review a petition challenging the government's decision to raise plantation workers' salaries. The petitioners, including Balangoda Plantations and 21 Estate Companies, argue against the salary hike. The Minister of Labor is named as a respondent. Despite the withdrawal of the gazette notification related to the salary increase, the court has agreed to consider the petition, ensuring both sides have a chance to present their arguments.
-
-🟩
-
-The Court of Appeal today (05), the Court of Appeal has decided to hear the petition filed against the government decision to increase the salaries of plantation workers.
-
-The Gazette notification that the gazette notified of plantation workers were removed, the lawyer who appeared to the court was not informed of the petition, the lawyer who appeared on behalf of the 21 estate companies, the lawyer who appeared for the 21 estate companies withdrawn because there were many other cases on the gazette notificationThe Court of Appeal decided to examine the petition, accepting a request made to pose a request to pose a demand for the relevant gazette notification.
-
-The Minister of Labor has been named as respondents in the petitions filed by Balangoda Plantations and 21 Estate Companies.
-
-Attorney-at-Law Faizer Mustapha that appeared on behalf of the Minister of Labor Faizer, said that the petition was taken up when the petition was taken up.
-
-...
-
-[Data](articles/1a9dfedc.json)
-
-[Extended Data](ext_articles/1a9dfedc.ext.json)
 
 ---

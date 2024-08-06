@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 19:07:21**
+As of **2024-08-06 19:21:12**
 
 ## Newspaper Stats
 
-*Scraped **39,326** Articles*
+*Scraped **39,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,615
-adaderanalk | 4,568
+adaderanalk | 4,569
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
 virakesarilk | 6,219
-adaderanasinhalalk | 6,654
+adaderanasinhalalk | 6,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,325 (100.0%) of 39,326 articles have been extended.
+39,326 (100.0%) of 39,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### කමලා හැරිස්ගේ තෝරා ගැනීම Tim Walz
+
+*2024-08-06 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199639) · `si`
+
+2024 අමෙරිකානු ජනාධිපතිවරණයේදී මිනසෝටා ආණ්ඩුකාර Tim Walz සිය උප ජනාධිපති අපේක්ෂකයා ලෙස නම් කිරීමට ඩිමොක්‍රටික් පක්ෂයේ අපේක්ෂක කමලා හැරිස් පියවර ගෙන තිබේ.
+
+කමලා හැරිස් මේ වනවිට අමෙරිකානු උප ජනාධිපතිනිය ලෙස කටයුතු කරයි.
+
+◼️
+
+[Data](articles/71b350ea.json)
+
+---
+
+### Tim Walz: Kamala Harris picks Minnesota governor for vice president
+
+*2024-08-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101047/tim-walz-kamala-harris-picks-minnesota-governor-for-vice-president) · `en`
+
+Democratic presidential candidate Kamala Harris selected Minnesota Governor Tim Walz to be her running mate on Tuesday, choosing a progressive policy champion and a plain speaker from America’s heartland to help win over rural, white voters, said people familiar with the matter.
+
+Walz, a 60-year-old U.S. Army National Guard veteran and former teacher, was elected to a Republican-leaning district in the U.S. House of Representatives in 2006 and served 12 years before being elected governor of Minnesota in 2018.
+
+As governor, Walz has pushed a progressive agenda that includes free school meals, goals for tackling climate change, tax cuts for the middle class and expanded paid leave for Minnesota workers.
+
+Walz has long advocated for women’s reproductive rights but also displayed a conservative bent while representing a rural district in the U.S. House, defending agricultural interests and backing gun rights.
+
+...
+
+[Data](articles/df490f7b.json)
+
+---
 
 ### Court order over issuance of liquor licenses extended
 
@@ -54,15 +86,21 @@ Later, the relevant petitions were ordered to be taken up for hearing on Februar
 
 ---
 
-### 2024 ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීම අවසන්
+### 2024 The admission of students to intermediate series of national schools is over
 
 *2024-08-06 18:11:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජාතික-පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීම-අවසන්/11-411234) · `si`
 
-2024 වර්ෂය සඳහා ජාතික පාසල්වල අතරමැදි පන්තිවලට චක්‍රලේඛය අනුව ළමුන් ඇතුළත් කිරීම අවසන් කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය දන්වයි. 2024-07-26 දින ජනාධිපති මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු අධ්‍යාපන අමාත්‍යාංශය මඟින් ළමුන් ඇතුළත් කිරීමට ලිපි නිකුත් කිරීම හෝ නිලධාරීන් ස්ථාන මාරු කිරීම අත්හිටුවා ඇතැයිද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+After the presidential election announcement, the Ministry of Education focused on admitting children based on their grades for the 2024 school year. They also addressed issues related to suspended officers.
+
+🟩
+
+Ministry of Education emphasizes the admission of children according to the intermediate classes of national schools for the year 2024. After the presidential election was announced on a presidential election, the Ministry of Education has issued letters or suspended officers have been suspended.
 
 ◼️
 
 [Data](articles/fd5492d3.json)
+
+[Extended Data](ext_articles/fd5492d3.ext.json)
 
 ---
 
@@ -2203,49 +2241,5 @@ The Aruna scenes ended up to 44 decimals, and it is considered to be his persona
 [Data](articles/ae986000.json)
 
 [Extended Data](ext_articles/ae986000.ext.json)
-
----
-
-### Bangladesh Prime Minister and others released
-
-*2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199614) · `si`
-
-Bangladesh's President has ordered the release of imprisoned Prime Minister Khaleda Zia, marking a significant political move.
-
-🟩
-
-The President has taken steps to release Prime Minister Khaleda Shia in Bangladesh, who was in prison.
-
-◼️
-
-[Data](articles/b8ef5f80.json)
-
-[Extended Data](ext_articles/b8ef5f80.ext.json)
-
----
-
-### The Commission is looking for the hand
-
-*2024-08-06 09:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341670) · `ta`
-
-The Elections Commission intensifies efforts post-presidential election, seeking guidance from the Attorney General on handling factions within the Sri Lanka Freedom Party (SLFP). The SLFP has divided into three groups, each backing different candidates for the upcoming elections. The Commission awaits the Attorney General's advice on which group to engage with, highlighting the significance of the "hand" symbol of the SLFP in this context.
-
-🟩
-
-With the election of the presidential election, the activities of the Elections Commission have been intensified. In this case, the Chairman of the Elections Commission will meet the editors of the newspapers on Tuesday (06).
-
-It is in this context that the Elections Commission has asked the Attorney General to hand over which section of the Sri Lanka Freedom Party to handle.
-
-The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the Commission would convene on the issue once the decision was received from the Attorney General.
-
-The Commission has decided to comment to the Attorney General as the issue of which side of the Sri Lanka Freedom Party (SLFP) should be accepted in the upcoming election duties.
-
-The Sri Lanka Freedom Party (SLFP) has now split into three teams: Maithripala Sirisena, Minister Nimal Siripala de Silva and Member of Parliament Dayasiri Jayasekara.
-
-...
-
-[Data](articles/677b2212.json)
-
-[Extended Data](ext_articles/677b2212.ext.json)
 
 ---

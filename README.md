@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 08:55:24**
+As of **2024-08-06 09:07:10**
 
 ## Newspaper Stats
 
-*Scraped **39,216** Articles*
+*Scraped **39,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,62 @@ adalk | 3,597
 adaderanalk | 4,548
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,912
-virakesarilk | 6,208
-adaderanasinhalalk | 6,627
+virakesarilk | 6,209
+adaderanasinhalalk | 6,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,213 (100.0%) of 39,216 articles have been extended.
+39,216 (100.0%) of 39,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### පොහොට්ටු අපේක්ෂකයා හෙට කලඑළි බසී
+### පළාත් සභා මැතිවරණය පැරණි ක්‍රමයට තියන්න යෝජනාවක් පාර්ලිමේන්තුවට
+
+*2024-08-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199612) · `si`
+
+පළාත් සභා මැතිවරණය පැරණි ක්‍රමයට පැවැත්විය යුතු බවට වන යෝජනාවක් අද (06) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+
+පෞද්ගලික මන්ත්‍රී යෝජනාවක් ලෙස දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී එම්.ඒ සුමන්තිරන් මහතා විසින් අදාළ යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+මේ අතර හෙට (07) දිනයේ ආණ්ඩු පාර්ශ්වය විසින් ‘වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව’ සම්බන්ධයෙන් සභාව කල්තැබීමේ විවාදය පැවැත්වීමට නියමිත ඇති බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+
+අගෝස්තු 8 වනදා වෛද්‍ය සංශෝධන පනත් කෙටුම්පත් දෙකක් දෙවැනවර කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/48e36003.json)
+
+---
+
+### Poulty candidate knok tomorrow
 
 *2024-08-06 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199611) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා හෙට (07) දිනයේ ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+Tomorrow, the Sri Lanka General Front will announce its presidential candidate, marking a significant step in the country's political landscape. This announcement comes amidst internal party dynamics, including a decision to back President Ranil Wickremesinghe and efforts to reorganize at the district level. The UNP General Secretary hinted at the candidate reveal during a special event, highlighting the anticipation and potential shifts in political alliances.
 
-හෙට පෙරවරුවේ සුබමොහොතින් සිය පක්ෂයේ ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කරන බව එම පක්ෂයේ මහලේකම් නීතීඥ සාගර කාරියවසම් මහතා ප්‍රකාශ කළේය.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නෙළුම් මාවතේ පිහිටි ප්‍රධාන පක්ෂ කාර්යාලයේ පැවැත්වෙන විශේෂ උත්සවයක දී ජනාධිපති අපේක්ෂකයා ප්‍රකාශයට පත්කිරීමට නියමිතව තිබේ.
+The Presidency of the Sri Lanka General Front is scheduled to be announced tomorrow (07).
 
-ඉදිරි ජනාධිපතිවරණය සදහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් වෙනම අපේක්ෂකයෙකු ප්‍රකාශයට පත්කිරීමට එම පක්ෂයේ දේශපාලන මණ්ඩලය පසුගියදා පියවර ගනු ලැබීය.
+UNP General Secretary Sagar Kariyawasam stated that the party's presidential candidate is declared tomorrow morning.
 
-එම තීරණයත් සමග පක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළකිරීමට තීරණය කළ අතර එලෙස ජනාධිපතිවරයාට සහය පළකිරීමට ඉදිරිපත් වූ මන්ත්‍රීවරුන්ගේ ආසන සංවිධායක ධුර ද ඉවත් කිරීමට ශ්‍රී ලංකා පොදුජන මේ වන විට කටයුතු කර තිබේ.
+The presidential candidate is to be announced at a special event at the main party office at Nelum Road, Sri Lanka General Peramuna.
 
-ඒ අනුව නව සංවිධායකවරුන් යටතේ දිස්ත්‍රික් මට්ටමින් ශ්‍රී ලංකා පොදුජන පෙරමුණේ සංවිධාන කටයුතු සක්‍රීය කිරීමට කටයුතු කරමින් සිටින බව වාර්තා වේ.
+The party's Politburo was recently declared to announce a separate candidate for the next presidential election.
+
+With that decision, a group of party members decided to support President Ranil Wickremesinghe and the Sri Lankan general public has already taken steps to remove the electoral organizer of the MPs who have supported the President.
+
+Accordingly, the new organizers are working to enable the organizational activities of the Sri Lanka General Mannel at district level.
 
 ...
 
 [Data](articles/d7c649e0.json)
+
+[Extended Data](ext_articles/d7c649e0.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ He also mentioned that several train journeys will likely have to be canceled ow
 ◼️
 
 [Data](articles/7cc47471.json)
+
+[Extended Data](ext_articles/7cc47471.ext.json)
 
 ---
 
@@ -117,6 +143,24 @@ In the absence of the Inspector General of Police, the Secretary to the Ministry
 [Data](articles/9c3350b6.json)
 
 [Extended Data](ext_articles/9c3350b6.ext.json)
+
+---
+
+### இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத பணியை ஆற்றி வருகின்றது வீரகேசரி - பிரதமர் தினேஷ் குணவர்தன வாழ்த்து
+
+*2024-08-06 08:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190377) · `ta`
+
+வீரகேசரி பத்திரிகையானது இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத நம்பகமான செய்திகள் மற்றும் தகவல்கள், அறிக்கைகள் மற்றும் கருத்துக்களை வாசகர்களுக்கு கொண்டு செல்வதில் பல ஆண்டுகளாக பாராட்டத்தக்க பணியை ஆற்றி வருகின்றது என  வீரகேசரியின் ஆண்டு விழாவை முன்னிட்டு பிரதமர் தினேஷ் குணவர்தன அனுப்பி வைத்துள்ள வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+
+பிரதமர் தினேஷ் குணவர்தன வீரகேரியின் 94 ஆவது அகவையை முன்னிட்டு அனுப்பி வைத்துள்ள வாழ்த்தில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+
+எக்ஸ்பிரஸ் நியூஸ்பேப்பர்ஸ் சிலோன் பிரைவேட் லிமிட்டட் நிறுவனத்தினால் வெளியிடப்படும் இலங்கையின் முன்னணி தமிழ் நாளிதழ்களில் ஒன்றான வீரகேசரி பத்திரிகையின் 94 ஆவது அகவையை முன்னிட்டு அதன் முகாமைத்துவம், ஆசிரியர்கள் மற்றும் பணிக்குழாமினருக்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கின்றேன்.
+
+வீரகேசரி பத்திரிகையானது இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத நம்பகமான செய்திகள் மற்றும் தகவல்கள், அறிக்கைகள் மற்றும் கருத்துக்களை வாசகர்களுக்கு கொண்டு செல்வதில் பல ஆண்டுகளாக பாராட்டத்தக்க பணியை ஆற்றி வருகின்றது.
+
+...
+
+[Data](articles/baa00152.json)
 
 ---
 
@@ -1506,21 +1550,29 @@ Transport Minister Lasantha Alagiyavanna said this while addressing a press conf
 
 ---
 
-### මාස එකහමාරක බිළිඳා පහරදී ඝාතනය කළැයි මව සැක පිට අත්අඩංගුවට
+### Mother arrested for suspicion that baby and murdered
 
 *2024-08-05 19:47:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-එකහමාරක-බිළිඳා-පහරදී-ඝාතනය-කළැයි-මව-සැක-පිට-අත්අඩංගුවට/11-411217) · `si`
 
-යාපනය තෙලිප්පලෙයි පොලිස් වසමේ අලවෙඩ්ඩි ප්‍රදෙශයේදී මස එකහමාරක් වයදසැති බිළිඳෙකු රෝහලගත කිරීමෙන් අනතුරුව මිය යාම හේතුවෙන් බිළිඳාගේ මව අද (05) දින සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+A mother was arrested for suspected murder of her infant, who died from head injuries and bruises a month and a half ago. The baby was initially treated at Alaveddi Regional Hospital before being transferred to Tippalai Hospital for further care. An autopsy conducted at Jaffna Teaching Hospital confirmed the cause of death as assault. The Helaippalai police have made an arrest in this case.
 
-බිළිඳාගේ මව විසින් බිළිඳාට මවකිරී දීමෙන් පසුව මව්කිරි සිරවී සිහිමුර්ජා වූ බව පවසමින් අලවෙඩ්ඩි ප්‍රාදේශීය රෝහලට ඊයේ (04) දින ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා තෙලිප්පලෙයි රෝහලට කුඩා බිළිඳා මාරු කොට යැවීමට රෝහල් කාර්ය මණ්ඩලය විසින් පියවර ගෙන තිබුණි.
+🟩
 
-කෙසේ වෙතත් තෙලිප්පලයෙි රෝහලේදී අදාල බිළිඳා මිය ගොස් තිබූ අතර බිළිඳාගේ සිරුරේ සහ හිසේ කුඩා තුවාල සහ තැලුම් තිබීම් හේතුවෙන් ඒ පිළිබඳව සැක පහල වී පශ්චාත් මරණ පරික්ෂණයක් සිදුකිරීමට පියවර ගනු ලැබීය.
+The baby's mother was arrested on suspicion of a month and a half after the death of a month and a half after the death of a month and a half after the death of a monthly infant.
 
-මෙලෙස මිය ගිය මාස එකහමාරක් වයසැති සසිරූබන් නිකාස් බිළිඳගේ සිරුර යාපනය ශික්ෂණ රෝහලට රැගෙන ගොස් සිදුකරන ලද ශාරීරක මරණ පරික්ෂණයේදී හෙලි වී ඇත්තේ බිළිඳාගේ හිසට එල්ල වූ පහරදීමක් හේතුවෙන් අභ්‍යන්තර ලේ ගැලීමකින් මෙම මරණය සිදුව ඇති බවටය. ඊට අමතරව බිළිඳාගේ සිරුරේ ස්ථාන කිහිපයකටද පහරදී ඇති බවට අනාවරනය වී ඇති බවටයි.
+The Alaveddi Regional Hospital was admitted to the Tippalai Hospital for further treatment yesterday (4).
 
-...
+However, the baby was dead at the Thelappalai Hospital and the infant's body and head injuries and bruising and bruises were taken to conduct a post mortem examination.
+
+The death of the baby's head to the Jaffna Teaching Hospital, the death was caused by an assault on the infant's head to the Jaffna Teaching Hospital.. It was revealed that he had assaulted several places in the infant.
+
+The Helaippalai police are arrested on suspect with the influence of the infant.
+
+◼️
 
 [Data](articles/6d681a5e.json)
+
+[Extended Data](ext_articles/6d681a5e.ext.json)
 
 ---
 
@@ -2165,55 +2217,5 @@ Foreign selling was seen on Nations Trust Bank (down at 120.00), and LOLC Holdin
 [Data](articles/c47be21f.json)
 
 [Extended Data](ext_articles/c47be21f.ext.json)
-
----
-
-### Bangladesh army chief says interim government will be formed
-
-*2024-08-05 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101015/bangladesh-army-chief-says-interim-government-will-be-formed) · `en`
-
-Chief of Army Staff General Waker-Uz-Zaman has announced that an interim government, with the participation of all parties, will be formed soon after Prime Minister Shiekh Hasina resigns from her post.
-
-He said: “After holding a fruitful discussion with all political parties, we have decided to form an interim government. We will speak with President Mohammed Shahabuddin now to resolve the situation.”
-
-He called for a halt to all violence in the name of protest and promised that the new government will ensure justice for all the deaths that took place during the Anti-Discriminatory Student Movement.
-
-Professor Asif Nazrul from the Law Department of Dhaka University has been asked to issue a statement to request the students to call off the protest.
-
-General Waker said Sheikh Hasina left the country after resigning from her post.
-
-He said no members of the Awami League were present at the meeting with the political parties at the army headquarters.
-
-...
-
-[Data](articles/eb7345bd.json)
-
-[Extended Data](ext_articles/eb7345bd.ext.json)
-
----
-
-### Sheikh Hasina in Agartala
-
-*2024-08-05 16:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகர்தலாவில்-ஷேக்-ஹசீனா/175-341636) · `ta`
-
-Sheikh Hasina, after escaping Bangladesh via helicopter, reportedly fled to India amidst protests over the cancellation of a 30% reservation for freedom fighters' heirs. Riots ensued, leading to over 100 deaths. Students demanded her resignation, continuing their struggle despite negotiations. Meanwhile, international media reported her departure from Bangladesh to Agartala, India, in a military helicopter, coinciding with the army commander announcing a military regime in Bangladesh.
-
-🟩
-
-Sheikh Hasina, who escaped from Bangladesh by helicopter, is reported to have escaped from London as he has arrived in India.
-
-The riots were following the announcement that the Supreme Court would cancel the reservation as the 30 per cent reservation for the heirs of freedom fighters in Bangladesh had already erupted.
-
-Meanwhile, the students were protesting again as Prime Minister Sheikh Hasina called for a negotiations on the reservation yesterday.. There was a riot between the two sides as the ruling party and the protest. More than 100 people died. The protesters declared that they would not stop the struggle until the Prime Minister resigned.
-
-In the meantime, the international media has reported that she is leaving the country in a military helicopter and reached India's Agartala.
-
-At the same time, Army Commander Walker Us-Jaman has announced that the military regime is coming into effect in Bangladesh.
-
-◼️
-
-[Data](articles/b02f5ca4.json)
-
-[Extended Data](ext_articles/b02f5ca4.ext.json)
 
 ---

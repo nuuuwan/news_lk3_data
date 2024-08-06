@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 15:36:45**
+As of **2024-08-06 15:55:18**
 
 ## Newspaper Stats
 
-*Scraped **39,287** Articles*
+*Scraped **39,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,564
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,924
 virakesarilk | 6,213
-adaderanasinhalalk | 6,646
+adaderanasinhalalk | 6,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,282 (100.0%) of 39,287 articles have been extended.
+39,287 (100.0%) of 39,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### කෝකිලාට එරෙහිව රවීගේ අපහාස නඩුව සමත වෙයි
+
+*2024-08-06 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199631) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රිනී කෝකිලා ගුණවර්ධන විසින් සිදුකළ ප්‍රකාශයක් හේතුවෙත් තමන්ට අපහාසයක් සිදුවී ඇතැයි කියමින් රුපියල් මිලියන 500ක වන්දියක් අය කරදෙන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා විසින් ගොනු කළ නඩුව අද (06) කොළඹ දිසා අධිකරණයේදී සමථයට පත්වී තිබේ.
+
+එම නඩුව අද කොළඹ දිසා අධිකරණයේදී කැඳවූ අවස්ථාවේදී මන්ත්‍රීවරිය සිය නීතීඥවරුන් මාර්ගයෙන් අධිකරණයට දැනුම්දී ඇත්තේ තමන් සිදුකළ ප්‍රකාශය වැරදි සහගත බැවින් ඒ සම්බන්ධයෙන් පැමිණිලිකාර පාර්ශ්වයෙන් කොන්දේසි විරහිතව සමාව අයැද සිටින බවය.
+
+මීට අමතරව රුපියල් දස දහසක මුදලක් ලංකා පිළිකා අරමුදලට පරිත්‍යාග කරන බවත් මෙහිදි ඇය වෙනුවෙන් පෙනී සිටි නීතීඥවරයා අධිකණයේදී පවසනු ලැබීය.
+
+ඒ අනුව අදාළ සමථය සටහන් කරගත් අධිකරණය සමථ කොන්දේසි අනුව කටයුතු කරන ලෙස දෙපාර්ශ්වකරුවන්ට නියෝග කෙරිණි.
+
+◼️
+
+[Data](articles/ee608270.json)
+
+---
 
 ### Bangladesh Parliament dissolved by President amid ultimatum from student protesters
 
@@ -43,6 +61,8 @@ The announcement came hours after protesting student leaders set a deadline to d
 ◼️
 
 [Data](articles/0cfe539c.json)
+
+[Extended Data](ext_articles/0cfe539c.ext.json)
 
 ---
 
@@ -96,23 +116,33 @@ Anamaduwa Police officers are due to be taken to court today (06) to seek advice
 
 ---
 
-### ஏதேச்சதிகாரியாக மாறிய ஜனநாயகத்தின் சின்னம் - ஷேக் ஹசீனா
+### Sheikh Hasina - the symbol of democracy - became aotalist
 
 *2024-08-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190403) · `ta`
 
-மாணவர்களின் பல வாரப்போராட்டம் உயிரிழப்புகள் மிகுந்த தேசியரீதியிலான அமைதியின்மையாக மாறியதை தொடர்ந்து ஷேக் ஹசீனா பதவியை இராஜினாமா செய்துவிட்டு நாட்டிலிருந்து வெளியேறியுள்ளார்.
+Sheikh Hasina, a symbol of democracy in Bangladesh, resigned amid national unrest following student deaths. Fleeing to India, her rule unexpectedly ended after being besieged in Dhaka. Known for economic development but criticized for authoritarianism and human rights abuses, Hasina leaves a mixed legacy.
 
-76 வயது ஷேக் ஹசீனா ஹெலிக்கொப்டரில் இந்தியாவிற்கு தப்பிச்சென்றுள்ளார் என அறிக்கைகள் தெரிவிக்கின்றன.
+🟩
 
-தலைநகர் டாக்காவில் உள்ள அவரது உத்தியோகபூர்வ வாசல்ஸதலத்தை ஆயிரக்கணக்கான பொதுமக்கள் முற்றுகையிட்டவேளை இது இடம்பெற்றது.
+Sheikh Hasina has resigned from the country after the deaths of students have become very nationally unrest.
 
-இது பங்களாதேசின் மிக நீண்டகாலம் ஆட்சிபுரிந்த பிரதமரின் ஆட்சியை  எதிர்பாராத விதத்தில் முடிவிற்கு கொண்டுவந்துள்ளது. பிரதமர் ஹசீனா 2009 முதல் பதவியிலிருந்து வந்துள்ளதுடன் ,20 வருடங்களிற்கு மேல் நாட்டை ஆண்டுள்ளார்.
+76 -year -old Sheikh Hasina has fled to India in a helicopter, reports say.
 
-சமீபவருடங்களில் தென்னாசிய நாட்டின் பொருளாதார வளர்ச்சிக்கு காரணமானவர் என்ற பெருமை இவருக்குள்ளது, ஹசீனா  ஒரு ஜனநாயக போராளியாக அதற்கான அடையாளமாக தனது அரசியல் வாழ்க்கையை ஆரம்பித்தார்.
+It took place when thousands of civilians besieged his official gate in the capital, Dhaka.
+
+This has unexpectedly ended the Prime Minister's rule of Bangladesh. Prime Minister Hasina has been in office since 2009 and has ruled the country for more than 20 years.
+
+He is proud to have been responsible for the economic development of the South Asian country in recent years, and Hasina began her political career as a symbol of a democratic fighter.
+
+However, for the past few years, he has been becoming an author of the authority and has been accused of suppressing any opposition against his regime.. Her regime has increased many abuse, including political -purpose arrests, disappearance, and illegal assassinations.
+
+He won for the fourth time in the election in January and conquered Aadi.
 
 ...
 
 [Data](articles/b17c371a.json)
+
+[Extended Data](ext_articles/b17c371a.ext.json)
 
 ---
 
@@ -240,19 +270,25 @@ The Commission said that the complaints were reported from July 31 to 5 pm yeste
 
 ---
 
-### ஈராக்கில் உள்ள அமெரிக்க விமானப்படை தளத்தை இலக்குவைத்து ரொக்கட் தாக்குதல்- பலர் காயம்
+### Rocket attack targeting US Air Force Base in Iraq- Many injured
 
 *2024-08-06 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190400) · `ta`
 
-ஈராக்கில் உள்ள அமெரிக்க இராணுவதளம் மீது மேற்கொள்ளப்பட்ட ரொக்கட் தாக்குதலில் அமெரிக்க இராணுவவீரர்கள் பலர் காயமடைந்துள்ளனர்.
+A rocket attack on a US Air Force base in Iraq injured many soldiers. The incident follows concerns about potential retaliation from Iran and Hezbollah over the killing of a Hamas leader. US officials are evaluating the damage at Al Asad Air Force Base.
 
-ஹமாஸ் தலைவர் ஹெஸ்புல்லா அமைப்பின் தளபதி ஆகியோர் கொலை செய்யப்பட்டமைக்கு பழிவாங்கும் விதத்தில் ஈரானும் ஹெஸ்புல்லா அமைப்பும் தாக்குதலை மேற்கொள்ளக்கூடும் என்ற அச்சத்தின் மத்தியிலேயே இந்த தாக்குதல் இடம்பெற்றுள்ளது.
+🟩
 
-அல் அசாத் விமானப்படைதளத்தில் ஏற்பட்டுள்ள சேதங்கள் குறித்து மதிப்பிட்டு வருவதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+Many US soldiers were injured in a rocket attack on the US military in Iraq.
+
+The attack took place in the wake of fears that Iran and Hzbullah could carry out an attack to avenge the murder of Hamas leader Hzbullah.
+
+US officials said they were assessing the damage caused by Al Asad Air Force.
 
 ◼️
 
 [Data](articles/85300b51.json)
+
+[Extended Data](ext_articles/85300b51.ext.json)
 
 ---
 
@@ -426,15 +462,21 @@ In addition, police said that the local journalists who were working on the vide
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-06 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190393) · `ta`
 
-இன்று செவ்வாய்க்கிழமை  (ஆகஸ்ட் 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.9872  ஆகவும் கொள்வனவு விலை ரூபா 297.6981 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On August 6, the US dollar sold for Rs 306.9872 and bought for Rs 297.6981 according to the Central Bank's rates.
+
+🟩
+
+The US dollar sales price was Rs 306.9872 and the purchase price was Rs 297.6981 based on the Central Bank's coinage rate on Tuesday (August 06).
 
 ◼️
 
 [Data](articles/b4902941.json)
+
+[Extended Data](ext_articles/b4902941.ext.json)
 
 ---
 
@@ -458,19 +500,27 @@ The handing over of autographed kit to the International Olympic Committee offic
 
 ---
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் அகில சாலிய எல்லாவல ரணில் விக்ரமசிங்கவிற்கு ஆதரவு !
+### Ratnapura District Member of Parliament of Sri Lanka PA
 
 *2024-08-06 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190396) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினர் அகில சாலிய எல்லாவல மற்றும் பலாங்கொடை தொகுதியில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி பிரதிநிதிகள் ரணில் விக்ரமசிங்கவை ஜனாதிபதியாக்க ஏகமனதாக தெரிவு செய்தனர்.
+In Sri Lanka's Ratnapura district, members of the Sri Lanka People's Freedom Alliance (PA) have unanimously chosen Ranil Wickremasinghe as their president. The PA has been actively supporting Wickremasinghe's candidacy for the presidency, with local government representatives and regional organizers pledging their support. Despite this, Wickremasinghe acknowledged Mahinda Rajapaksa as the current president of the country.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் இரத்தினபுரி மாவட்ட பாராளுமன்ற உருப்பினரும் இரத்தினபுரி மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவருமான அகில சாலிய எல்லாவல அவர்களின் பலாங்கொடை அலுவலகத்தில்  திங்கட்கிழமை (05) மாலை நடைபெற்ற கலந்துரையாடலின் போது ஜனாதிபதி தேர்தலின் போது ரணில் விக்ரமசிங்கவின் வெற்றிக்காக பாடுபடவுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் உள்ளூராட்சி பிரதிநிதிகளும் பலாங்கொடை தேர்தல் தொகுதியின் பிரதேச அமைப்பாளர்களும் தெரிவித்தனர்.
+🟩
 
-பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் உள்ளூராட்சி பிரதிநிதிகளும் பிரதேச அமைப்பாளர்களும் கைகளை உயர்த்தி ரணில் விக்ரமசிங்கவிற்கு ஆதரவு தெரிவிப்பதாக உருதிபடுத்தினார்கள்.
+Former local government representatives of the Sri Lanka Peoples Freedom Alliance (PA) in the Ratnapura district of Sri Lanka's Ratnapura district of Sri Lanka's Ratnapura district, Akala Saliya Ellawala and Balangoda constituency, unanimously elected Ranil Wickremasinghe to be president.
 
-...
+The Sri Lanka PA has been working for the victory of Ranil Wickremesinghe during the presidential election held at the Balangoda office of the Balangoda office of the Ratnapura District Coordinating Committee of the Ratnapura District of the Sri Lanka PA.
+
+Local government representatives and regional organizers representing the PA raised their hands and promised to support Ranil Wickremesinghe.
+
+Addressing the gathering, Ranil Wickremesinghe said that Ranil Wickremesinghe is the President of the country, Mahinda Rajapaksa, who is still the leader of the Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/2a772b86.json)
+
+[Extended Data](ext_articles/2a772b86.ext.json)
 
 ---
 
@@ -2169,25 +2219,5 @@ At a press briefing titled “Collective Path to a Stable Country” at the Pres
 [Data](articles/cfac4b93.json)
 
 [Extended Data](ext_articles/cfac4b93.ext.json)
-
----
-
-### SF places deposit to enter election fray
-
-*2024-08-06 00:47:21* · [`dailyftlk`](https://www.ft.lk/news/SF-places-deposit-to-enter-election-fray/56-765196) · `en`
-
-Field Marshal Sarath Fonseka submitted the necessary cash deposit yesterday to enter the Presidential election as an independent candidate.
-
-Fonseka also contested at the 2010 Presidential election but was defeated by former President Mahinda Rajapaksa.
-
-In a related development former Janatha Vimukthi Peramuna (JVP) MP Siripala Amarasinghe also submitted bonds to run as an independent candidate yesterday, bringing the total number of candidates to 17. Among these candidates, eight represent recognised political parties, while the other eight are from minor political parties or are independent candidates.
-
-Candidates who placed deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Sarath Keerthirathne, Oshala Herath, A.S.P. Liyanage, P.W.S.K. Bandaranayake, Wijeyadasa Rajapakshe, K.K. Piyadasa, Siritunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Akmeemana Dayaratna Thera, Battaramulle Seelaratne Thera and Siripala Amarasinghe.
-
-...
-
-[Data](articles/b7d5f93e.json)
-
-[Extended Data](ext_articles/b7d5f93e.ext.json)
 
 ---

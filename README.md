@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 14:36:19**
+As of **2024-08-06 14:55:07**
 
 ## Newspaper Stats
 
-*Scraped **39,276** Articles*
+*Scraped **39,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
 adalk | 3,607
-adaderanalk | 4,562
+adaderanalk | 4,563
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,923
 virakesarilk | 6,209
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,276 (100.0%) of 39,276 articles have been extended.
+39,276 (100.0%) of 39,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Govt. to integrate public sector IT systems to enhance efficiency
+
+*2024-08-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101039/govt-to-integrate-public-sector-it-systems-to-enhance-efficiency) · `en`
+
+Cabinet approval has been granted for the integration of public sector information technology systems to enhance the efficiency and the quality of the public service.
+
+Issuing a statement, the Department of Government Information (DGI) said that it has been recognised that it is necessary to integrate information technology systems existing in the public institutions including corporations and Statutory Boards to perform the functions effectively and optimistically through the verification of information and minimization of duplication of data with the objective of enhancement of efficiency and quality of the public service.
+
+Accordingly, the Cabinet of Ministers has approved the proposal furnished by President Ranil Wickremesinghe as the Minister of Finance, Economic Stabilization and National Policies to address four key issues which include the integration of information technology systems and data management across all government institutions.
+
+...
+
+[Data](articles/06f96629.json)
+
+---
 
 ### Nearly 100 complaints of election law violations received thus far
 
@@ -1996,6 +2012,10 @@ The deadline for submitting postal voting applications, originally set to expire
 
 *2024-08-06 00:36:11* · [`dailyftlk`](https://www.ft.lk/business/Empowering-entrepreneurs-Expert-Insights-from-the-Human-Capital-Summit-2024/34-765192) · `en`
 
+Addressing brain drain and economic stability in Sri Lanka requires attracting global companies and leveraging the skills of expatriates. Expatriates, while contributing to brain drain, hold the key to reversing this trend by bringing in capital, expertise, and international companies. To build a sustainable economy, we must create a stable environment with supportive legal and structural changes that facilitate the return of skilled professionals and bolster the startup ecosystem
+
+– Australia Gateway Chairman and Principal Lawyer, Barrister and Solicitor Don Susantha Katugampala
+
 ...
 
 [Data](articles/9cff804f.json)
@@ -2163,27 +2183,5 @@ The grand opening was made even more special with the esteemed presence of Kanta
 [Data](articles/bb84ffba.json)
 
 [Extended Data](ext_articles/bb84ffba.ext.json)
-
----
-
-### Classic Car Club of Ceylon celebrates successful year at Annual General Meeting
-
-*2024-08-05 22:40:00* · [`islandlk`](http://island.lk/classic-car-club-of-ceylon-celebrates-successful-year-at-annual-general-meeting/) · `en`
-
-The Classic Car Club of Ceylon (CCCC) held its Annual General Meeting on the 25th of June at the Kingsbury Hotel Colombo.
-
-It brought to a close yet another successful year for the club with many memorable events such as British Car Day, Classic Christmas, and the Mana Jayawardena Memorial Rally to name a few. Sanjiv Alles was re-elected as president for a second term and the new committee was well received by the large number of members in attendance. In his acceptance speech, he reiterated the Club’s commitment to innovate and promote classic car culture through events and digital activations and encouraged the membership to continue to participate in all club activities.
-
-CameraLK unveils new Sony Service Center with specialized repair solutions
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1955720d.json)
-
-[Extended Data](ext_articles/1955720d.ext.json)
 
 ---

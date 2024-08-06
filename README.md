@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 05:38:40**
+As of **2024-08-06 06:05:15**
 
 ## Newspaper Stats
 
-*Scraped **39,183** Articles*
+*Scraped **39,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 375
-islandlk | 2,251
+islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,907
+tamilmirrorlk | 4,908
 virakesarilk | 6,205
 adaderanasinhalalk | 6,618
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,183 (100.0%) of 39,183 articles have been extended.
+39,183 (100.0%) of 39,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### 6 வருட சிறைவாசத்துக்கு பின்  காலிதா விடுதலை
+
+*2024-08-06 05:30:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/6-வருட-சிறைவாசத்துக்கு-பின்-காலிதா-விடுதலை/50-341662) · `ta`
+
+பங்களாதேஷின் ஏதிர்க்கட்சி தலைவியாக இருந்த 78 வயதான கலிதா ஸியா தற்பொழுது சிறையில் இருக்கிறார்
+
+காலிதா ஸியாவை ஊழல் வழக்கொன்றில் 17 வருட சிறைத்தண்டனை விதித்து 2018ல் சிறையில் அடைத்தார் பிரதமர் ஷேக் ஹஸீனா.
+
+1977 முதல் 1981 வரை பங்களாதேஷின் ஜனாதிபதியாக இருந்த காலிதா ஸியாவின் கணவர் ஸியாவுர் ரஹ்மான் படுகொலை செய்யப்பட்ட பின்னர் காலிதா ஸியாவின் அரசியல் வாழ்க்கை ஆரம்பமானது.
+
+1978 இல் பங்களாதேஷ் தேசிய வாதக் கட்சியை நிறுவினார். அதனூடாக அவர் 1991 இல் பங்களாதேஷின் முதல் பெண் பிரதமரானார்.
+
+உலகின் #முதலாவது முஸ்லிம் பெண் பிரதமர் -  பேகம் காலிதா ஸியா என்பது குறிப்பிடத்தக்கது.
+
+கடுமையான உடல் நலக்குறைவால் பாதிக்கப்பட்டுள்ள நிலையில் சிறையில் இருக்கும் அவரை உடனடியாக விடுவிக்குமாறு ஜனாதிபதி சஹாப்தீன் அதிகாரிகளை பணித்துள்ளார்
+
+◼️
+
+[Data](articles/265a4843.json)
+
+---
 
 ### We supported the President on the advice of Mahinda - Prasanna Ranatunga
 
@@ -396,6 +418,30 @@ The Ministry of Public Security has said that steps have been taken to provide s
 
 ---
 
+### Active in Dubai
+
+*2024-08-05 23:11:00* · [`islandlk`](http://island.lk/active-in-dubai/) · `en`
+
+Seven Notes, made up of Sri Lankan musicians, based in Dubai, are doing exceptionally well in the scene over there, with work coming their way on a regular basis.
+
+On August 3rd, 2024, the band was at the Golden Mercury Hotel’s V Club performing at ‘Mandakini Chapter 2.’
+
+Presented by Seven Notes themselves, the night, I’m told, featured a stellar lineup of artistes, including Sirasa TV’s The Voice Teen sensation, Yenuli Neriah, and Dubai’s renowned vocalist, Pasindu Udayanga, as well as talented performers Rishi and Rajith.
+
+This event was organized by Seven Notes bassist Niluk Uswaththa.
+
+Seven Notes will also be seen in action at more events, coming up in September.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/ce655942.json)
+
+---
+
 ### Umachandra Prakash appointed as the Chief Organizer of the Northern Province of the United People's Power
 
 *2024-08-05 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190371) · `ta`
@@ -413,6 +459,90 @@ Accordingly, Umachandra Prakash has been given the responsibility and responsibi
 [Data](articles/d863cb1d.json)
 
 [Extended Data](ext_articles/d863cb1d.ext.json)
+
+---
+
+### Defeating Divisions: Making public university a place of cooperation
+
+*2024-08-05 22:52:00* · [`islandlk`](http://island.lk/defeating-divisions-making-public-university-a-place-of-cooperation/) · `en`
+
+...
+
+[Data](articles/5dbe152c.json)
+
+---
+
+### CameraLK unveils new Sony Service Center with specialized repair solutions
+
+*2024-08-05 22:41:00* · [`islandlk`](http://island.lk/cameralk-unveils-new-sony-service-center-with-specialized-repair-solutions/) · `en`
+
+CameraLK, Sri Lanka’s leading camera retail giant, recently unveiled its brand-new CameraLK Service Center at 244 High Level Rd, Colombo 05. This state-of-the-art facility is dedicated to servicing and repairing Sony cameras, lenses, drones, and accessories, further solidifying CameraLK’s position as the premier destination for photography enthusiasts in the country.
+
+The grand opening was made even more special with the esteemed presence of Kanta Yamamoto, Director and Head of the Digital Imaging Division at Sony, and Kairo Suda, Assistant General Manager of the Digital Imaging Division. This visit marks their first to Sri Lanka, highlighting the importance of this new venture for both CameraLK and Sony.
+
+...
+
+[Data](articles/bb84ffba.json)
+
+---
+
+### Classic Car Club of Ceylon celebrates successful year at Annual General Meeting
+
+*2024-08-05 22:40:00* · [`islandlk`](http://island.lk/classic-car-club-of-ceylon-celebrates-successful-year-at-annual-general-meeting/) · `en`
+
+The Classic Car Club of Ceylon (CCCC) held its Annual General Meeting on the 25th of June at the Kingsbury Hotel Colombo.
+
+It brought to a close yet another successful year for the club with many memorable events such as British Car Day, Classic Christmas, and the Mana Jayawardena Memorial Rally to name a few. Sanjiv Alles was re-elected as president for a second term and the new committee was well received by the large number of members in attendance. In his acceptance speech, he reiterated the Club’s commitment to innovate and promote classic car culture through events and digital activations and encouraged the membership to continue to participate in all club activities.
+
+CameraLK unveils new Sony Service Center with specialized repair solutions
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/1955720d.json)
+
+---
+
+### 21st Annual Geoffrey Bawa Memorial Lecture by Anupama Kundoo
+
+*2024-08-05 22:36:00* · [`islandlk`](http://island.lk/21st-annual-geoffrey-bawa-memorial-lecture-by-anupama-kundoo/) · `en`
+
+The 2024 Geoffrey Bawa Memorial Lecture will be delivered by architect and educator Anupama Kundoo at 6:30 p.m. on 9th August at the Sri Lanka Foundation Institute (No.100, Sri Lanka Padanama Mawatha, Independence Square, Colombo 7). Her talk is titled “Rethinking Material Resources alongside Human Resourcefulness.”
+
+...
+
+[Data](articles/eb59e90e.json)
+
+---
+
+### Hatch appoints Dilhan Fernando as chairman
+
+*2024-08-05 22:34:00* · [`islandlk`](http://island.lk/hatch-appoints-dilhan-fernando-as-chairman/) · `en`
+
+Hatch has officially announced the appointment of Dilhan Fernando as their new Chairman, marking a significant milestone for the organization. Dilhan, who is also the Chairman, CEO, and Executive Director of Dilmah Tea, brings a wealth of experience and a strong commitment to sustainability and innovation, which have been instrumental in maintaining Dilmah’s leadership in the global tea industry.
+
+Under Dilhan’s guidance, Dilmah has not only excelled in growing a globally renowned high-quality tea brand but has also prioritized social and environmental initiatives through the MJF Charitable Foundation and Dilmah Conservation. His dedication to community welfare and environmental stewardship reflects a deep-rooted commitment to making a positive impact beyond business.
+
+...
+
+[Data](articles/06fc2bc4.json)
+
+---
+
+### Mimi Nicklin live in Colombo: ‘Understand the Power of Emotional Intelligence in Leadership’
+
+*2024-08-05 22:33:00* · [`islandlk`](http://island.lk/mimi-nicklin-live-in-colombo-understand-the-power-of-emotional-intelligence-in-leadership/) · `en`
+
+Mimi Nicklin, the acclaimed author, CEO, and multi-award-winning founder of Empathy Everywhere, will be presenting a LIVE masterclass in Colombo on the 15th of August 2024.
+
+This highly anticipated masterclass titled “Embrace the Power of Emotional Intelligence in Leadership” follows her previously sold out masterclass in June this year. The masterclass will take place at the Galadari Hotel Colombo, in partnership with Sri Lanka’s leading training organisation, RH Training, from 9am to 1pm. Participants will have the opportunity to learn from Mimi, who is one of the foremost experts on global leadership, and understand why emotional intelligence is the most valuable dataset in the 21st century.
+
+...
+
+[Data](articles/1d6f4bab.json)
 
 ---
 
@@ -437,6 +567,38 @@ The general candidate is not going to win. The Tamil people, including Samasti, 
 [Data](articles/0ec67436.json)
 
 [Extended Data](ext_articles/0ec67436.ext.json)
+
+---
+
+### Unlocking the power of migration towards Sustainable Development in Sri Lanka
+
+*2024-08-05 22:31:00* · [`islandlk`](http://island.lk/unlocking-the-power-of-migration-towards-sustainable-development-in-sri-lanka/) · `en`
+
+With the Government of Sri Lanka adopting the 2030 Agenda for Sustainable Development in 2015 and the Global Compact for Safe, Orderly and Regular Migration (GCM) in 2018, the need for monitoring and assessing the contribution of migration is stronger than ever. Harnessing the synergy between the Sustainable Development Goals (SDGs) and the GCM is crucial to propel the country forward. By aligning the SDGs and the GCM, Sri Lanka can create a holistic approach to sustainable development that acknowledges the multifaceted role of migration.
+
+The Sustainable Development Council (SDC) and International Organization for Migration (IOM) successfully wrapped up a Sensitization Workshop on the Correlation between Migration and the SDGs on 31st July. The workshop primarily focused on ways and means to address gaps in migration-related data in order to develop a national framework for monitoring and assessing the contribution of migration towards the SDGs.
+
+...
+
+[Data](articles/dc9f382d.json)
+
+---
+
+### Middle East tensions take toll on bourse despite Browns Investments’ overseas acquisitions
+
+*2024-08-05 22:30:00* · [`islandlk`](http://island.lk/middle-east-tensions-take-toll-on-bourse-despite-browns-investments-overseas-acquisitions/) · `en`
+
+The stock market yesterday witnessed an acute dip due to external and internal uncertainties. Most global stock markets also fell due to tensions in the Middle East, coupled with volatile political and economic situations in countries, market analysts said.
+
+Further, the local stock market did not react positively despite Browns Investments completing the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands- based parents.
+
+“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates, the company said.
+
+The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is pending due to outstanding approval from the Fair Competition Commission of Tanzania, the company added.
+
+...
+
+[Data](articles/ebe4b521.json)
 
 ---
 
@@ -2063,229 +2225,5 @@ The information has been revealed as thousands of students march to the capital,
 [Data](articles/0463e49a.json)
 
 [Extended Data](ext_articles/0463e49a.ext.json)
-
----
-
-### Bangladeshi PM Hasina resigns and flees country
-
-*2024-08-05 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101010/bangladeshi-pm-hasina-resigns-and-flees-country) · `en`
-
-Sheikh Hasina has flown to India on a military helicopter amid widespread protests which have seen the deaths of almost 300 people over the past month.
-
-Bangladesh’s prime minister has resigned and fled to India, the army has said, following weeks of deadly protests in the country.
-
-Sheikh Hasina and her sister have taken a military helicopter to India, according to the country’s leading national paper.
-
-They are taking “safe shelter” away from her official residence, the news agency Reuters reports.
-
-At least 95 people, including at least 14 police officers, died in clashes in the capital on Sunday, according to local news, while hundreds more were injured.
-
-At least six people were reportedly killed in clashes between police and protesters in the Jatrabari and Dhaka Medical College areas on Monday.
-
-...
-
-[Data](articles/e4abb104.json)
-
-[Extended Data](ext_articles/e4abb104.ext.json)
-
----
-
-### Fonseka paid control
-
-*2024-08-05 15:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-பொன்சேகா/175-341628) · `ta`
-
-Field Marshal Sarath Fonseka, a United People's Power MP, was prevented from running as an independent presidential candidate by the Elections Commission in Rajagiriya.
-
-🟩
-
-United People's Power Member of Parliament Field Marshal Sarath Fonseka has been restricted to contest the presidential election as an independent candidate.
-
-The Elections Commission in Rajagiriya has been restricted on Monday (05) on his behalf.
-
-◼️
-
-[Data](articles/5e32af54.json)
-
-[Extended Data](ext_articles/5e32af54.ext.json)
-
----
-
-### Less than 1 million new Sri Lanka voters registered at presidential poll
-
-*2024-08-05 15:03:00* · [`economynextcom`](https://economynext.com/less-than-1-million-new-sri-lanka-voters-registered-at-presidential-poll-175254/) · `en`
-
-ECONOMYNEXT – Sri Lanka will see 876,469 newly registered voters for the upcoming September 21 presidential poll, Election Commission data showed, with political parties campaigning for “system change” have been targeting the first time voters.
-
-The island nation’s Election Commission on Monday said 17,140,354 people have registered for voting at the presidential poll this year, 876,469 higher than the voters registered in the 2020 parliamentary election.
-
-Political analysts say most new voters are tech-savvy youth and have been active in new or social media which might influence their voting pattern.
-
-A campaign for a “system change” has already been started by political parties to win first time voters.
-
-Since Sri Lanka got independence in 1948 from the British colonial rulers, it has been ruled by two key political groups with different economic policies with rampant corruption, analysts say.
-
-...
-
-[Data](articles/bc022614.json)
-
-[Extended Data](ext_articles/bc022614.ext.json)
-
----
-
-### Bangladesh struggle - Prime Minister goes to capital
-
-*2024-08-05 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199587) · `si`
-
-Sheikh Hasina, Bangladesh's PM, has fled Dhaka amid escalating protests demanding her resignation. Over 100 deaths occurred in clashes, with protester forces occupying her official residence.
-
-🟩
-
-The BBC reported that Sheikh Hasina had left the Prime Minister of Bangladesh, Dhaka, the capital of the country.
-
-Protests in Bangladesh have escalated and the protesters demands that the Prime Minister should resign from the post.
-
-Over 100 people have died in the launches over the past few days.
-
-Meanwhile, troops of the protesters have entered the Prime Minister's official residence.
-
-◼️
-
-[Data](articles/0dea6a97.json)
-
-[Extended Data](ext_articles/0dea6a97.ext.json)
-
----
-
-### Bangladesh PM has left Dhaka palace for ‘safer place’: Report
-
-*2024-08-05 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101009/bangladesh-pm-has-left-dhaka-palace-for-safer-place-report) · `en`
-
-Bangladesh’s Prime Minister Sheikh Hasina has left the capital Dhaka in the face of mass protests demanding her resignation, a source close to the embattled leader told AFP on Monday.
-
-“She and her sister have left Ganabhaban (the premier’s official residence) for a safer place,” the source told AFP. “She wanted to record a speech. But she could not get an opportunity to do that.”
-
-This comes as Bangladesh’s army chief Waker-Uz-Zaman is set to address the nation after 98 people were killed in fierce clashes yesterday, taking the death count since protests erupted last month to over 300.
-
-◼️
-
-[Data](articles/896b1843.json)
-
-[Extended Data](ext_articles/896b1843.ext.json)
-
----
-
-### The man who went with his friends to celebrate the joy of drowning in the water!
-
-*2024-08-05 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190300) · `ta`
-
-A group of eight students from Kahawatta, celebrating their success in exams to study in Korea, drowned one of their members during a celebration at Samanalawewa. Three were first-time visitors to the site. The incident occurred around 2 pm on Sunday, with attempts to rescue the drowning victim unsuccessful until two others helped, leading to his hospitalization.
-
-🟩
-
-A young man who was near Samanalaweva Vavi to celebrate his happiness has drowned.
-
-A group of eight youths who have passed the examination to go to Korea and passed the exam yesterday with their teacher and celebrated the happiness of passing the examination of Bambahinna Samanalawewa Wavi yesterday.
-
-Eight youths living in Kahawatta, Welikepola, Pinnawala and Kodagewala area went to the area yesterday with their teacher.
-
-Investigations revealed that three of the nine people had gone to the spot for the first time and the other people did not go to the water.
-
-The incident was reported at around 2 pm on Sunday (04), Samanalawewa police said.
-
-The other two have tried to rescue him after one of the three men drowned. Their effort did not benefit. With the help of the other two people who were traveling along the road, the drowning youth has been rescued and allowed to be allowed to the Bambahina Pradeshiya Hospital, and later transferred to the Balangoda Hospital.
-
-...
-
-[Data](articles/689df155.json)
-
-[Extended Data](ext_articles/689df155.ext.json)
-
----
-
-### Petition against Diana Gamage is dismissed
-
-*2024-08-05 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199586) · `si`
-
-A petition against former State Minister Diana Gamage was dismissed by the Supreme Court of Sri Lanka, led by Justices Yasantha Kodagoda and Shiran Gunaratne. The court rejected the case brought forward by Mr. Rehan Jayawickrama from Weligama, upholding the decision of the three-member panel.
-
-🟩
-
-The Supreme Court today (05) to refute the files filed against former State Minister Diana Gamage.
-
-The petition was summoned before the Supreme Court Judge of Sri Lanka, Yasantha Kodagoda and Shiran Gunaratne.
-
-The petition then decided to refute the three-member Supreme Court judge's agreement on the agreeable judges.
-
-The petition was presented by Mr. Rehan Jayawickrama, Weligama.
-
-◼️
-
-[Data](articles/4e0c57d1.json)
-
-[Extended Data](ext_articles/4e0c57d1.ext.json)
-
----
-
-### Fonseka deposits Presidential election
-
-*2024-08-05 14:38:11* · [`adalk`](https://www.ada.lk/breaking_news/ෆොන්සේකා-ජනාධිපතිවරණයට---ඇප-මුදල්-තැන්පත්-කරයි/11-411208) · `si`
-
-Field Marshal Sarath Fonseka, a parliamentarian, has posted bail and will run in the upcoming presidential election.
-
-🟩
-
-Parliamentarian Field Marshal Sarath Fonseka has been deposited for the next presidential election.
-
-The bail of Sarath Fonseka has been deposited this morning.
-
-◼️
-
-[Data](articles/c27c66a6.json)
-
-[Extended Data](ext_articles/c27c66a6.ext.json)
-
----
-
-### Former MP also competition
-
-*2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-எம்-பியும்-போட்டி/150-341624) · `ta`
-
-Siripala Amarasinghe, a former MP from the Gampaha District and member of the Janatha Vimukthi Peramuna, became the 15th candidate to enter the presidential race as an independent contender.
-
-🟩
-
-Former MP Siripala Amarasinghe, former MP Siripala Amarasinghe, has placed control of the upcoming presidential election on Monday morning.
-
-He is a former Member of Parliament of the Gampaha District of the Janatha Vimukthi Peramuna.
-
-Amarasinghe, the 15th person who deposited the control of the presidential election, is the sixth independent candidate.
-
-◼️
-
-[Data](articles/0ce69f91.json)
-
-[Extended Data](ext_articles/0ce69f91.ext.json)
-
----
-
-### Former MP also competition
-
-*2024-08-05 14:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பியும்-போட்டி/175-341624) · `ta`
-
-Siripala Amarasinghe, a former Gampaha District MP from the People's Liberation Front, became the 6th independent candidate and the 15th individual to submit nomination papers for the upcoming presidential election.
-
-🟩
-
-Former Gampala district parliamentarian Siripala Amarasinghe has placed control of the upcoming presidential election on Monday morning.
-
-He is a former Member of Parliament of the Gampaha District of the People's Liberation Front.
-
-Amarasinghe, the 15th person who deposited the control of the presidential election, is the sixth independent candidate.
-
-◼️
-
-[Data](articles/50681f75.json)
-
-[Extended Data](ext_articles/50681f75.ext.json)
 
 ---

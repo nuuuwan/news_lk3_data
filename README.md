@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 04:54:56**
+As of **2024-08-07 05:06:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,386 (100.0%) of 39,387 articles have been extended.
+39,387 (100.0%) of 39,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -230,17 +230,23 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 
 ---
 
-### மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலய ஆடிப் பூர வருடாந்த உற்சவம்
+### Mayurapathi Sri Patrakali Amman Temple
 
 *2024-08-07 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190456) · `ta`
 
-மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலய ஆடிப் பூர வருடாந்த உற்சவத்தில், 07ஆம் திகதி புதன்கிழமை காலை 06.30 மணிக்கு பம்பலப்பிட்டி மாணிக்கப்பிள்ளையார் ஆலயத்தில் வசந்தமண்டப பூஜை இடம்பெறும்.
+The Vasanthamandapa Pooja, part of the annual festival of the Mayurapathi Sri Patrakali Amman Temple, will take place at the Bambalapitiya Manikapillaiar Temple at 06:30 am. The temple is accessible via Lawrence Street, Amarasekara Mawatha, and Hawlok Road.
 
-லோரன்ஸ் வீதி, அமரசேகர மாவத்தை மற்றும் ஹவ்லொக் வீதி வழியாக மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயிலை வந்தடையும்.
+🟩
+
+The Vasanthamandapa Pooja will be held at the Bambalapitiya Manikapillaiar Temple at Bambalapitiya at 06.30 am at the Annual Festival of the Mayurapathi Sri Patrakali Amman Temple.
+
+The Mayurapathi Sri Patrakali Amman Temple will be reached via Lawrence Street, Amarasekara Mawatha and Hawlok Road.
 
 ◼️
 
 [Data](articles/82c59eda.json)
+
+[Extended Data](ext_articles/82c59eda.ext.json)
 
 ---
 

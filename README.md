@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 02:06:04**
+As of **2024-08-07 02:20:42**
 
 ## Newspaper Stats
 
-*Scraped **39,366** Articles*
+*Scraped **39,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,383
-dailyftlk | 2,521
+dailyftlk | 2,525
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
@@ -26,11 +26,75 @@ adaderanasinhalalk | 6,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,366 (100.0%) of 39,366 articles have been extended.
+39,366 (100.0%) of 39,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### World-renowned consumer electronics brand KONKA returns to Sri Lanka in partnership with FLiCo
+
+*2024-08-07 01:53:34* · [`dailyftlk`](https://www.ft.lk/business/World-renowned-consumer-electronics-brand-KONKA-returns-to-Sri-Lanka-in-partnership-with-FLiCo/34-765225) · `en`
+
+From left: Future Life Holdings Chief Operations Officer Sanjaya Jayaweera, Chief Admin and Marketing Officer Kasun Perera, Konka Overseas Brand Development Senior Manager You Shanshan (Fiona You), Konka Regional Director Lu Wei (Reed Lu) and Future Life Holdings CEO Danushka Udugama at the Konka Flico partnership in Colombo – Pic by Daminda Harsha Perera
+
+World-renowned Chinese consumer electronics brand KONKA is returning to the local market in partnership with the new distribution agent in Sri Lanka FLiCo, a Future Life Holdings subsidiary.
+
+KONKA, is a globally recognised brand known for its superior and innovative consumer electronics products. Through the FLiCo network, a wide range of KONKA’s products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers across the country.
+
+...
+
+[Data](articles/4af026b5.json)
+
+---
+
+### Singhagiri introduces CANDY washing machines and refrigerators
+
+*2024-08-07 01:51:23* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-introduces-CANDY-washing-machines-and-refrigerators/34-765224) · `en`
+
+CANDY smart 12.5kg washer dryer and CANDY side by side refrigerators (518L)
+
+Singhagiri Ltd. a leading company in Sri Lanka for consumer durables, with a heritage of over 50 years, is excited to announce that the addition of CANDY products to its portfolio. CANDY is a leading European appliance brand, whose refrigerators and washing machines will be sold exclusively by Singhagiri.
+
+Unlike other household appliances that are available in the market, CANDY offers a host of unique and smart features at affordable prices, to help simplify one’s home and daily lifestyle. Designed with a meticulous attention to detail, this luxurious Italian brand, allows users to communicate with appliances, through mobile devices or via digital assistance via the CANDY App (Simplify App).
+
+...
+
+[Data](articles/07a6db7c.json)
+
+---
+
+### CameraLK unveils new Sony service centre with specialised repair solutions
+
+*2024-08-07 01:49:05* · [`dailyftlk`](https://www.ft.lk/business/CameraLK-unveils-new-Sony-service-centre-with-specialised-repair-solutions/34-765223) · `en`
+
+Sony Director and Digital Imaging Division Head Kanta Yamamoto with CameraLK Managing Director Anushka Gunasinghe
+
+CameraLK, Sri Lanka’s leading camera retail giant, recently unveiled its brand new CameraLK service centre at No. 244, High Level Rd., Colombo 5.
+
+This state-of-the-art facility is dedicated to servicing and repairing Sony cameras, lenses, drones, and accessories, further solidifying CameraLK’s position as the premier destination for photography enthusiasts in the country.
+
+The grand opening was made even more special with the esteemed presence of Sony Director and Digital Imaging Division Head Kanta Yamamoto and Sony Digital Imaging Division Assistant General Manager Kairo Suda. This visit marks their first to Sri Lanka, highlighting the importance of this new venture for both CameraLK and Sony.
+
+...
+
+[Data](articles/d48e8d17.json)
+
+---
+
+### Presidential elections and Ranil’s crusade for economic revival
+
+*2024-08-07 01:33:47* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-elections-and-Ranil-s-crusade-for-economic-revival/4-765217) · `en`
+
+While it is too far-fetched for us to imagine reaching Indian standards, it consoles us to see RW taking some such initiatives in the current context under all odds he is handicapped with
+
+Sri Lankan electors are awaiting a change from the status quo of a sluggish and slow-moving economy towards a more seriously planned progress. With fresh memories of extreme hard time sufferings of the recent past, only palliatively handled with haphazard responses to meet emergency situations, the body politic is hopeful of a dawn of an economy progressing under a planned pursuit of a clear vision.
+
+...
+
+[Data](articles/4c4a99c4.json)
+
+---
 
 ### The Commission is looking for the hand
 
@@ -2193,95 +2257,5 @@ In addition, police said that the local journalists who were working on the vide
 [Data](articles/734d9866.json)
 
 [Extended Data](ext_articles/734d9866.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-06 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190393) · `ta`
-
-On August 6, the US dollar sold for Rs 306.9872 and bought for Rs 297.6981 according to the Central Bank's rates.
-
-🟩
-
-The US dollar sales price was Rs 306.9872 and the purchase price was Rs 297.6981 based on the Central Bank's coinage rate on Tuesday (August 06).
-
-◼️
-
-[Data](articles/b4902941.json)
-
-[Extended Data](ext_articles/b4902941.ext.json)
-
----
-
-### We have not betrayed our policies to the positive
-
-*2024-08-06 12:38:38* · [`adalk`](https://www.ada.lk/breaking_news/තනතුරු-පොදියට-ධන-කුට්ටියට-අපේ-ප්‍රතිපත්ති-පාවා-දීලා-නැහැ/11-411227) · `si`
-
-In a press conference, Wimal Weerawansa criticized political shifts post-presidential nominations, highlighting the changing allegiances among politicians. He mentioned Dilith Jayaweera's alignment with nationalist, progressive policies and the commitment to national goals without compromising their own principles.
-
-🟩
-
-The National Freedom Front Leader of the National Freedom Front Executive Committee, Member of the National Freedom Front (Executive Member of the National Freedom Front Executive Committee, Executive Member of the National Freedom Front, Executive Committee, has never been given his policies..
-
-He further said, 'The JVP' and since the 'war victory' was a long-standing idea, 'The only political view.'Dilith Jayaweera, who believes as a nationalist, left-progressive policies, has presented its camp candidate this time.
-
-At a press conference held at the Headquarters in Borella, Mr. Wimal Weerawansa stressed:
-
-"The planetary transfers are now happening after the presidential nominations were called for the nomination. Look at the queth. What happens to this today?Mahinda's lack of 'Achgo' laboreck, Mahinda is now jumping into the lap of Mahinda Apho-braffry.. Basil Rajapaksa, Rohitha Abeygunawardena, S. M. Even Chandrasena has even jumped on the other side.
-
-...
-
-[Data](articles/ae6ae42a.json)
-
-[Extended Data](ext_articles/ae6ae42a.ext.json)
-
----
-
-### Tharushi Karunaratne’s track kit to feature in Switzerland’s Olympic Museum
-
-*2024-08-06 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101035/tharushi-karunaratnes-track-kit-to-feature-in-switzerlands-olympic-museum) · `en`
-
-The track kit worn by Sri Lankan athlete Tharushi Karunaratne has been donated to be displayed at the Olympic Museum in Lausanne, Switzerland.
-
-The kit, autographed by 19-year-old Karunaratne is slated to be displayed in the Olympic Museum in honour of being the youngest athlete who represented the Asian region in the Women’s 800m event.
-
-Accordingly, this also creates history as the first-ever track kit worn by a Sri Lankan athlete to be featured in the Olympic Museum.
-
-The handing over of autographed kit to the International Olympic Committee officials was carried out during a special ceremony held in the Paris Olympics village.
-
-The handing over of the autographed kit to the International Olympic Committee officials was carried out during a special ceremony held in the Paris Olympics village.
-
-The kit was presented to Ms. Anne Jaccard, Senior Manager of Exhibits and Programs at the IOC Museum.
-
-...
-
-[Data](articles/118ee7a1.json)
-
-[Extended Data](ext_articles/118ee7a1.ext.json)
-
----
-
-### Ratnapura District Member of Parliament of Sri Lanka PA
-
-*2024-08-06 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190396) · `ta`
-
-In Sri Lanka's Ratnapura district, members of the Sri Lanka People's Freedom Alliance (PA) have unanimously chosen Ranil Wickremasinghe as their president. The PA has been actively supporting Wickremasinghe's candidacy for the presidency, with local government representatives and regional organizers pledging their support. Despite this, Wickremasinghe acknowledged Mahinda Rajapaksa as the current president of the country.
-
-🟩
-
-Former local government representatives of the Sri Lanka Peoples Freedom Alliance (PA) in the Ratnapura district of Sri Lanka's Ratnapura district of Sri Lanka's Ratnapura district, Akala Saliya Ellawala and Balangoda constituency, unanimously elected Ranil Wickremasinghe to be president.
-
-The Sri Lanka PA has been working for the victory of Ranil Wickremesinghe during the presidential election held at the Balangoda office of the Balangoda office of the Ratnapura District Coordinating Committee of the Ratnapura District of the Sri Lanka PA.
-
-Local government representatives and regional organizers representing the PA raised their hands and promised to support Ranil Wickremesinghe.
-
-Addressing the gathering, Ranil Wickremesinghe said that Ranil Wickremesinghe is the President of the country, Mahinda Rajapaksa, who is still the leader of the Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/2a772b86.json)
-
-[Extended Data](ext_articles/2a772b86.ext.json)
 
 ---

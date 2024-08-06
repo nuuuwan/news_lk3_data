@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 20:06:57**
+As of **2024-08-06 20:20:54**
 
 ## Newspaper Stats
 
-*Scraped **39,332** Articles*
+*Scraped **39,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,76 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,615
+adalk | 3,616
 adaderanalk | 4,570
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,930
 virakesarilk | 6,219
-adaderanasinhalalk | 6,656
+adaderanasinhalalk | 6,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,330 (100.0%) of 39,332 articles have been extended.
+39,332 (100.0%) of 39,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### விலகினார் நாமல்
+### කුවේට් ගිය වාසනාට සිදුවූ දේ
+
+*2024-08-06 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199641) · `si`
+
+කුවේට් රාජ්‍යයේ ගෘහ සේවය සඳහා මීට මාස තුනකට පමණ ඉහතදී පිටත්ව ගිය දඹුල්ල වෑවලවැව හුඹස්ගමුව ප්‍රදේශයේ 48 හැවිරිදි චාමිනී වාසනා නම් එක්දරු මවක් සිහිවිකල්ව අසාධ්‍ය තත්ත්වයෙන් යළි ලංකාවට එවීමේ පුවතක් වාර්තා වෙයි.
+
+ඇයගේ ඥාතීන් සඳහන් කළේ, දඹුල්ල මූලික රෝහලේ අධි සත්කාර ඒකකයේ මේ වනවිට ප්‍රතිකාර ලබන ඇය කන්තලේ මූලික රෝහලේ දැඩි සත්කාර ඒකකය වෙත යොමු කිරීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/c48c5894.json)
+
+---
+
+### Namal
 
 *2024-08-06 19:34:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலகினார்-நாமல்/175-341701) · `ta`
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ சர்வதேச தொடர்புகள் குறித்த பாராளுமன்ற துறைசார் மேற்பார்வை குழுவிலிருந்து விலகியுள்ளார் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன   அறிவித்துள்ளார்.
+Mahinda Yapa Abeywardena announced Namal Rajapaksa's withdrawal from the Parliamentary Supervisory Committee on international relations. Premanath See Tolawatta fills the vacancy.
 
-நாமல் ராஜபக்ஷ விலகியதால் ஏற்பட்ட வெற்றிடத்திற்காக, பாராளுமன்ற உறுப்பினர் பிரேமநாத் சீ தொலவத்த நியமிக்கப்பட்டுள்ளார். R
+🟩
+
+Speaker Mahinda Yapa Abeywardena has announced that Parliamentarian Namal Rajapaksa has withdrawn from the Parliamentary Supervisory Committee on international relations.
+
+Parliamentarian Premanath See Tolawatta has been appointed for the vacancy caused by Namal Rajapaksa's quit. Remble
 
 ◼️
 
 [Data](articles/d2078f62.json)
 
+[Extended Data](ext_articles/d2078f62.ext.json)
+
 ---
 
-### ජාතික පාසල් ගැන නිවේදනයක්
+### Announcement about national schools
 
 *2024-08-06 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199640) · `si`
 
-2024 වර්ෂය සඳහා ජාතික පාසල්වල අතරමැදි පන්තිවලට චක්‍රලේඛය අනුව ළමුන් ඇතුළත් කිරීම අවසන් කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Ministry of Education announced that children have finished the intermediate classes of national schools for 2024. They've also addressed complaints about false propaganda by an unnamed individual in the education sector, stating they've suspended transfers related to this issue.
 
-නිවේදනයක් නිකුත් කරමින් අමාත්‍යාංශය පවසන්නේ පසුගිය මස 26 වනදා ජනාධිපති මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු අධ්‍යාපන අමාත්‍යාංශය මගින් ළමුන් ඇතුළත් කිරීමට ලිපි නිකුත් කිරීම හෝ නිලධාරීන් ස්ථාන මාරු කිරීම් අත්හිටුවා ඇති බවය.
+🟩
 
-අධ්‍යාපන ක්ෂේත්‍රයේ වෘත්තීය සමිති නියෝජිතයෙකු යැයි හඳුන්වා ගන්නා පුද්ගලයෙකු විසින් ඉහත තොරතුරු සම්බන්ධයෙන් අසත්‍ය ප්‍රචාර සිදුකරමින් පවතින බවට අමාත්‍යාංශයට පැමිණිලි ලැබී ඇති බවත් එම නිවේදනයේ සඳහන් ය.
+According to the Ministry of Education, children have been completed according to the intermediate classes of national schools for the year 2024.
+
+Issuing a statement saying that the Ministry of Education has issued letters or suspended the transfers to include children by the Ministry of Education on the 26th of the 26th.
+
+The Ministry said that the Ministry has received complaints that false propaganda is being carried out by a person known as a trade union representative in the education sector.
 
 ◼️
 
 [Data](articles/da6178df.json)
+
+[Extended Data](ext_articles/da6178df.ext.json)
 
 ---
 
@@ -161,6 +187,24 @@ Later, the relevant petitions were ordered to be taken up for hearing on Februar
 [Data](articles/8794ab09.json)
 
 [Extended Data](ext_articles/8794ab09.ext.json)
+
+---
+
+### ඉහළ වැටුප් සහිත ඊශ්‍රායලයේ ඉදිකිරීම් රැකියා වරම් ලාංකිකයින්ට
+
+*2024-08-06 18:21:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-වැටුප්-සහිත-ඊශ්‍රායලයේ-ඉදිකිරීම්-රැකියා-වරම්-ලාංකිකයින්ට/11-411235) · `si`
+
+ඊශ්‍රායලයේ ඉදිකිරීම් ක්ෂේත්‍රයේ රැකියා අවස්ථා ශ්‍රි ලාංකික ශ්‍රමිකයින්ට ලබාගැනීමේ අවස්ථාව තවදුරටත් පුළුල් කරමින්, බඳවාගැනීමේ පූර්ව පරීක්ෂණ දැන් ආරම්භ කර ඇති බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+
+ඒ අනුව ෂටරින් කාපෙන්ටර්, ටයිල් අතුරන්නන්, කම්බි බඳින්නන් හා කපරාදුකරුවන්ට මේ සඳහා අවස්ථාව උදාවී තිබේ.
+
+වයස අවුරුදු 25-44 අතර ඉදිකිරීම් ක්ෂේත්‍රයේ ඉහත රැකියාවන්ට අදාළ පළපුරුද්ද සහිත පිරිමි ශ්‍රමිකයින්ට මෙම පරීක්ෂණයන් සඳහා සෘජුවම පෙනී සිටීමට අවස්ථාව හිමිවේ. මෙම රැකියාවන්ට අදාළ පූර්ව පරීක්ෂණ අගෝස්තු මස 13 වෙනිදා දක්වා පෙරවරු 8.00 සිට මොරටුව, කටුබැද්ද NAITA ආයතනයේදී පැවැත්වේ.
+
+පූර්ව පරීක්ෂණ සඳහා පෙනී සිටීමට රු.6000.00 ක මුදලක් අයකරනු ලබන අතර, මේ සඳහා පෙනී සිටීමට බලාපොරොත්තු වන අයදුම්කරුවන් තමන් යොමුවීමට බලාපොරොත්තු වන රැකියාවට අවශ්‍යවන මෙවලම් හා උපකරණ මෙන්ම විදේශ ගමන් බලපත්‍රයද රැගෙන පැමිණිය යුතුවේ.
+
+◼️
+
+[Data](articles/74c97b22.json)
 
 ---
 
@@ -2201,45 +2245,5 @@ In equities, Colombo’s All Share Price Index opened 2.73 points higher at 11,2
 [Data](articles/f5eb98ac.json)
 
 [Extended Data](ext_articles/f5eb98ac.ext.json)
-
----
-
-### Umachandra Prakash as the Chief Organizer of the Northern Province
-
-*2024-08-06 09:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-பிரதான-அமைப்பாளராக-உமாச்சந்திரா-பிரகாஷ்/175-341676) · `ta`
-
-Umasandra Prakash named Chief Organizer of the Northern Province for the United People's Power for 2024, receiving his appointment from Opposition Leader Sajith Premadasa in Colombo on Monday.
-
-🟩
-
-Umasandra Prakash has been appointed as the Chief Organizer of the Northern Province of the United People's Power for 2024.
-
-Opposition Leader Sajith Premadasa handed over his appointment letter to the Opposition Leader's Office in Colombo on Monday (05).
-
-◼️
-
-[Data](articles/afb90f06.json)
-
-[Extended Data](ext_articles/afb90f06.ext.json)
-
----
-
-### Namal Rajapaksa resigns
-
-*2024-08-06 09:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷ-இராஜினாமா/175-341674) · `ta`
-
-Namal Rajapaksa, a Sri Lanka PA parliamentarian, resigned as the International Communications Monitoring Committee's national organizer. This news was announced by Speaker Mahinda Yapa Abeywardena in Parliament, setting a meeting for 9:30 am on Tuesday (07).
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena today announced to Parliament that Namal Rajapaksa, a parliamentarian and national organizer of the Sri Lanka PA, has resigned from the post of International Communications Monitoring Committee.
-
-Parliament will meet Speaker Mahinda Yapa Abeywardena at 9.30 am on Tuesday (07). The Speaker said this during the announcement.
-
-◼️
-
-[Data](articles/6ede26fb.json)
-
-[Extended Data](ext_articles/6ede26fb.ext.json)
 
 ---

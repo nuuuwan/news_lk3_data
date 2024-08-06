@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 09:07:10**
+As of **2024-08-06 09:20:50**
 
 ## Newspaper Stats
 
-*Scraped **39,218** Articles*
+*Scraped **39,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
 adalk | 3,597
-adaderanalk | 4,548
+adaderanalk | 4,549
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,912
 virakesarilk | 6,209
@@ -26,27 +26,51 @@ adaderanasinhalalk | 6,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,216 (100.0%) of 39,218 articles have been extended.
+39,218 (100.0%) of 39,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### පළාත් සභා මැතිවරණය පැරණි ක්‍රමයට තියන්න යෝජනාවක් පාර්ලිමේන්තුවට
+### Fairly heavy showers expected in parts of the country
+
+*2024-08-06 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101026/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places, the department said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/dc2ac36e.json)
+
+---
+
+### A proposal to introduce the provincial council election
 
 *2024-08-06 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199612) · `si`
 
-පළාත් සභා මැතිවරණය පැරණි ක්‍රමයට පැවැත්විය යුතු බවට වන යෝජනාවක් අද (06) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබේ.
+A proposal for provincial council elections, initially set for today (6th), is now expected to be presented to Parliament by TNA MP MA Sumanthiran. Additionally, the Government Communications Department announced a meeting about the 'Mid Fiscal Status' Report scheduled for tomorrow (7th). On August 8, there will be a second reading debate on two medical amendments.
 
-පෞද්ගලික මන්ත්‍රී යෝජනාවක් ලෙස දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී එම්.ඒ සුමන්තිරන් මහතා විසින් අදාළ යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+🟩
 
-මේ අතර හෙට (07) දිනයේ ආණ්ඩු පාර්ශ්වය විසින් ‘වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව’ සම්බන්ධයෙන් සභාව කල්තැබීමේ විවාදය පැවැත්වීමට නියමිත ඇති බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+A proposal that the ancient system should be held today (6th) proposal to conduct the provincial council election.
 
-අගෝස්තු 8 වනදා වෛද්‍ය සංශෝධන පනත් කෙටුම්පත් දෙකක් දෙවැනවර කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+The proposal to TNA MP MA Sumanthiran is due to be presented to Parliament as a private member proposal.
+
+Meanwhile, the Government Communications Department said that the church adjourning the meeting regarding the 'Mid Fiscal Status' Report on the Mid Year Fiscal' Report will be held tomorrow (07).
+
+On August 8, two medical amendments will be held in the second reading debate.
 
 ◼️
 
 [Data](articles/48e36003.json)
+
+[Extended Data](ext_articles/48e36003.ext.json)
 
 ---
 
@@ -146,21 +170,29 @@ In the absence of the Inspector General of Police, the Secretary to the Ministry
 
 ---
 
-### இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத பணியை ஆற்றி வருகின்றது வீரகேசரி - பிரதமர் தினேஷ் குணவர்தன வாழ்த்து
+### Veerakesari - Prime Minister Dinesh Gunawardena congratulates
 
 *2024-08-06 08:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190377) · `ta`
 
-வீரகேசரி பத்திரிகையானது இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத நம்பகமான செய்திகள் மற்றும் தகவல்கள், அறிக்கைகள் மற்றும் கருத்துக்களை வாசகர்களுக்கு கொண்டு செல்வதில் பல ஆண்டுகளாக பாராட்டத்தக்க பணியை ஆற்றி வருகின்றது என  வீரகேசரியின் ஆண்டு விழாவை முன்னிட்டு பிரதமர் தினேஷ் குணவர்தன அனுப்பி வைத்துள்ள வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena congratulated Veerakesari magazine on its 94th anniversary, praising it for providing essential, reliable news and reports in today's media era. He highlighted its significant role in disseminating domestic and international news, as well as promoting social and cultural development in Sri Lanka. The Prime Minister expressed his hope for the magazine to continue enhancing its services to the Sri Lankan people and the Tamil-speaking community.
 
-பிரதமர் தினேஷ் குணவர்தன வீரகேரியின் 94 ஆவது அகவையை முன்னிட்டு அனுப்பி வைத்துள்ள வாழ்த்தில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+🟩
 
-எக்ஸ்பிரஸ் நியூஸ்பேப்பர்ஸ் சிலோன் பிரைவேட் லிமிட்டட் நிறுவனத்தினால் வெளியிடப்படும் இலங்கையின் முன்னணி தமிழ் நாளிதழ்களில் ஒன்றான வீரகேசரி பத்திரிகையின் 94 ஆவது அகவையை முன்னிட்டு அதன் முகாமைத்துவம், ஆசிரியர்கள் மற்றும் பணிக்குழாமினருக்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கின்றேன்.
+In a congratulatory message sent by Prime Minister Dinesh Gunawardena on the occasion of Weerakesari's anniversary, he said that the Veerakesari magazine has been doing the most essential reliable news, reports, reports and comments in today's media era.
 
-வீரகேசரி பத்திரிகையானது இன்றைய ஊடக யுகத்தில் மிகவும் இன்றியமையாத நம்பகமான செய்திகள் மற்றும் தகவல்கள், அறிக்கைகள் மற்றும் கருத்துக்களை வாசகர்களுக்கு கொண்டு செல்வதில் பல ஆண்டுகளாக பாராட்டத்தக்க பணியை ஆற்றி வருகின்றது.
+Prime Minister Dinesh Gunawardena has further stated in the congratulations sent by the Weerakeri's 94th August.
+
+I convey my heartfelt congratulations to its management, authors and workmakers in the presence of the 94th of the Weerakesari magazine, one of Sri Lanka's leading Tamil newspapers published by Express Newspapers Ceylon Pvt.
+
+The Weerakesari magazine has been making a commendable task for many years in bringing readers to readers in today's media era.
+
+In the print media industry of Sri Lanka, the Weerakesari magazine is the best vehicle for spreading new information on domestic and international news and social and cultural development.
 
 ...
 
 [Data](articles/baa00152.json)
+
+[Extended Data](ext_articles/baa00152.ext.json)
 
 ---
 
@@ -2191,31 +2223,5 @@ A bond maturing on 15.10.2030 closed at 12.75/85 percent, up from 12.70/85 perce
 [Data](articles/b51900cd.json)
 
 [Extended Data](ext_articles/b51900cd.ext.json)
-
----
-
-### Sri Lanka stocks close down, amid continued election uncertainty
-
-*2024-08-05 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-continued-election-uncertainty-175316/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 1.67 percent, or 191.01 points, at 11,251; while the more liquid S&P SL20 Index closed down 2.30 percent, or 75.77 points, at 3,214.
-
-“We feel that speculation due to rumours and various polls on the outcome of the upcoming presidential election is hindering sentiment,” Softlogic Stockbrokers said. “This is despite positive signals like the IMF response, fiscals on track, and numbers looking good.”
-
-“People feel if there is a policy change it will be a definite blow.”
-
-Market participants thought the trend might continue despite several corporates posting interim results.
-
-Foreign buying was seen on Ceylon Cols Stores (down at 55.50), Chevron Lubricants Lanka (down at 121.75), People’s Leasing and Finance Plc (down at 12.20), and ACL Cables Plc (down at 82.50).
-
-Foreign selling was seen on Nations Trust Bank (down at 120.00), and LOLC Holdings (down at 403.25).
-
-...
-
-[Data](articles/c47be21f.json)
-
-[Extended Data](ext_articles/c47be21f.ext.json)
 
 ---

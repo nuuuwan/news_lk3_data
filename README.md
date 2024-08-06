@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 16:20:53**
+As of **2024-08-06 16:36:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 6,649
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,291 (100.0%) of 39,292 articles have been extended.
+39,292 (100.0%) of 39,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### ශ්‍රීලනිප කාර්යාලය සම්බන්ධයෙන් වූ තහනම් නියෝගය දීර්ඝ කෙරේ
+### The ban on the SLFP office extended
 
 *2024-08-06 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199633) · `si`
 
-ශ්‍රී ලංකා නිදහස්  පක්ෂ කාර්යාලයේ අර්බුදයක් සම්බන්ධයෙන් එක්සත් ජනතා නිදහස් සන්ධානයේ මහලේකම් තිලංග සුමතිපාල මහතා විසින් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාට එරෙහිව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර තිබෙන පෞද්ගලික පැමිණිල්ල ඉදිරියට විභාග කිරීම වළක්වාලමින් නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය සැප්තැම්බර් මස 06 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය නියෝග කර තිබේ.
+The ban on the SLFP office was extended due to a dispute involving Thilanga Sumathipala and Minister Nimal Sumathipala, which led to legal action. The Court of Appeal ordered the recall of a petition filed by Minister Nimal Siripala de Silva and directed respondents to file documents by September 6. The case involves allegations of criminal conduct and a request for an interim injunction.
 
-මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේ තීරණයට එරෙහිව අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් ගොනු කර තිබෙන පෙත්සම අද අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් තාහීර් මහතා ඉදිරියේ යළි කැඳවනු ලැබීය.
+🟩
 
-එහිදී විරෝධතා තිබේනම් ඒවා සැප්තැම්බර් මස 06 වනදා ගොනුකරන ලෙසත් අධිකරණය විසින් වගඋත්තරකාර තිලංග සුමතිපාල මහතාට නියෝග කර ඇත.
+UPFA General Secretary General of UPFA general secretary Thilanga Sumathipala against Minister Nimal Sumathipala has been extended to Minister Nimal Sumathipala to proceed to Minister Nimal Siripala de Silva.The Court of Appeal has been ordered.
+
+The petition filed by Minister Nimal Siripala de Silva, Minister Nimal Siripala de Silva has been recalled before the Court of Appeal Judge Mohamed Laifar Thaharper.
+
+The court also ordered the respondents to file them on September 6.
+
+Petitioquor Nimal Siripala de Silva, Secretary to the United Front, said Thilanga Sumathipala, Colombo. B. He had lodged a private complaint before the Maligakanda Magistrate's Court that two security personnel had come to the door to the doors.
+
+The petition states that the private complaint has already lodged a private complaint under the Criminal Procedure of the Criminal Procedure, including misdemeanion.
 
 ...
 
 [Data](articles/7e3dcb3b.json)
+
+[Extended Data](ext_articles/7e3dcb3b.ext.json)
 
 ---
 

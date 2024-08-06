@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 17:05:56**
+As of **2024-08-06 17:20:50**
 
 ## Newspaper Stats
 
-*Scraped **39,299** Articles*
+*Scraped **39,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
 adalk | 3,610
-adaderanalk | 4,566
+adaderanalk | 4,567
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,925
+tamilmirrorlk | 4,926
 virakesarilk | 6,216
-adaderanasinhalalk | 6,650
+adaderanasinhalalk | 6,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,297 (100.0%) of 39,299 articles have been extended.
+39,299 (100.0%) of 39,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### “If Sheikh Hasina had done it long ago, she would still be PM” – President Ranil on Bangladesh crisis
+
+*2024-08-06 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101044/if-sheikh-hasina-had-done-it-long-ago-she-would-still-be-pm-president-ranil-on-bangladesh-crisis) · `en`
+
+President Ranil Wickremesinghe says that if ousted Bangladeshi Prime Minister Sheikh Hasina had released former PM Khalida Zia from jail long ago, she would still be the country’s Prime Minister.
+
+Addressing the Environmental, Social and Governance (ESG) Summit 2024 held in Colombo today (06), Wickremesinghe stated that he welcomes the fact that Khalida Zia had been released from jail.
+
+However, the Sri Lankan leader did offer some words of praise to Hasina, who has now fled the country, as she had offered assistance to Sri Lanka during the financial crisis.
+
+Speaking further he said: “Just think of the countries that are worse off than us. Think of a country like Bangladesh, which is in turmoil. I don’t want to speak about the politics of Bangladesh, a friendly country, but it had to erupt at some time.
+
+“While Sheikh Hasina has left, I still remember her because she gave us $200 million when we were really in need of money.”
+
+...
+
+[Data](articles/dde7148a.json)
+
+---
+
+### திருக்கோணேச்சர பிரச்சினையை தீர்க்கவும்: குகதாசன் எம்.பி
+
+*2024-08-06 16:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருக்கோணேச்சர-பிரச்சினையை-தீர்க்கவும்-குகதாசன்-எம்-பி/175-341697) · `ta`
+
+திருக்கோணேச்சர ஆலய சூழலில்    சட்ட விரோதமாகக் கட்டப்பட்ட கடைகளினால் கோயிலின் புனிதத் தன்மை கெடுவதோடு இங்கு சில சமூக விரோதச் செயல்பாடுகளும் இடம் பெறுகின்றன. எனவே இக்கடைகளை வேறு ஒரு தகுந்த இடத்திற்கு மாற்ற வேண்டும் என 2019 மாவட்ட ஒருங்கிணைப்பு குழுக் கூட்டத்தில் ஒருமனதாக முடிவு எடுக்கப் பட்டது எனினும் இம்முடிவு இது வரையிலும்  செயற்படுத்தப்பட வில்லை என விசனம் தெரிவித்த இலங்கை தமிழரசுக்கட்சியின் திருகோணமலை மாவட்ட எம்.பி.யான கே.எஸ். குகதாசன் இந்த முடிவை விரைந்து செயற்படுத்துமாறும் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06)இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை' தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில்  கன்னியுரையாற்றுகையிலேயே  இவ்வாறு வலியுறுத்திய அவர் மேலும் பேசுகையில்,
+
+...
+
+[Data](articles/385eb138.json)
+
+---
+
+### අතුරුදන්වී සිටි දුම්රිය සේවකයාගේ සිරුර හමුවෙයි
+
+*2024-08-06 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199635) · `si`
+
+දෙමටගොඩ දුම්රිය අංගනයේ අතුරුදන් වී සිටි සේවකයාගේ සිරුර සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/f2ee96d4.json)
+
+---
 
 ### Next Step in Bangladesh
 
@@ -106,6 +152,8 @@ As a result, the ‘Podi Menike’ and ‘Badulla Odyssey’ trains, which were 
 
 [Data](articles/0ffd6f04.json)
 
+[Extended Data](ext_articles/0ffd6f04.ext.json)
+
 ---
 
 ### Arson suspected as police question student over fire that destroyed school music room
@@ -127,6 +175,8 @@ Further interrogation of the student in question have revealed that a window of 
 ...
 
 [Data](articles/823e9c54.json)
+
+[Extended Data](ext_articles/823e9c54.ext.json)
 
 ---
 
@@ -2209,81 +2259,5 @@ President Sahabdeen has been asked to release him immediately after being infect
 [Data](articles/265a4843.json)
 
 [Extended Data](ext_articles/265a4843.ext.json)
-
----
-
-### We supported the President on the advice of Mahinda - Prasanna Ranatunga
-
-*2024-08-06 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190381) · `ta`
-
-Prasanna Ranatunga, Minister of Housing and Urban Development, announced support for the President, citing advice from Mahinda Rajapakse. He criticized those involved in a violent incident on May 9, 2022, for now discussing violence. Despite concerns over a poorly organized political meeting that led to assaults and ridicule of supporters, including the murder of Athukorala by MP Amarakirthi, the group decided to back the President based on Rajapakse's guidance. This move aims to strengthen the party amidst internal conflicts and external challenges.
-
-🟩
-
-It is funny that those who are responsible for the violence incident, 2022 May 09, are currently referring to violence. Mahinda Rajapakse told us that if he is to declare the party member as a candidate, take resolutions independently.
-
-The Minister of Housing and Urban Development Prasanna Ranatunga said that we supported the President.
-
-He was speaking at a meeting of the organizer of the PA, which was held on Monday (5) in the Gampaha - Udugampola area.
-
-2022 May 09 is currently talking about the violent incident. I urged the then Prime Minister Mahinda Rajapaksa on 08.05.2012 not to hold a political meeting at the Allaimalai.. I mentioned that he was not going to attend the meeting of improperly organizing.
-
-The meeting was held against our suggestions. Thus our supporters were ridiculed and assaulted by MP Amarakirthi assassinated Athukorala. It is funny to note that those who are responsible for violence are now correct and that the homes of politicians have been set on fire.
-
-...
-
-[Data](articles/b09b14b4.json)
-
-[Extended Data](ext_articles/b09b14b4.ext.json)
-
----
-
-### All parties are united to build the country as an independent candidate - Vajira Abeywardena
-
-*2024-08-06 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190380) · `ta`
-
-Vajira Abeywardena highlights unity among political parties under President Ranil Wickremesinghe's leadership, emphasizing the need for collaboration to address Sri Lanka's economic crisis and move the country forward. Wickremesinghe's extensive political experience aims to stabilize the nation, likening it to treating a patient in critical condition. He cautions against political deception, urging parties to prioritize national interests and avoid divisive tactics.
-
-🟩
-
-The president does not split any party. But when the parties were split, the president was in charge of the country. United National Party (UNP) MP Vajira Abeywardena said that President Ranil Wickremesinghe has fielded the election as an independent candidate in order to give all political parties an opportunity to work together.
-
-The youth community has fallen completely due to the economic crisis in our country over the past years. Some young people left the country. This condition cannot be continuously so. We need to take this country in a new direction.
-
-Ranil Wickremesinghe's 42 -year political experience was due to the country's bankruptcy to normalize the country within two years.. The task has not yet been completed though. Sri Lanka has been in the intensive care unit for the past two years. For the past two years, a specialist, Ranil Wickremesinghe, a specialist, has been treated.
-
-...
-
-[Data](articles/208c6f02.json)
-
-[Extended Data](ext_articles/208c6f02.ext.json)
-
----
-
-### Speaker sought opinion on Attorney General
-
-*2024-08-06 04:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190379) · `ta`
-
-Mahinda Yapa Abeywardena, the Speaker, has requested Attorney General Parinda Ranasinghe's advice on the contentious police chief appointment. The High Court suggested the President appoint a police chief but was rebuffed due to the President's candidacy status. The Prime Minister argued the Supreme Court couldn't challenge constitutional decisions. The Speaker has asked the President to consult with him and the Chief Justice, while the Attorney General is preparing a report on resolving the situation.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has appealed to Attorney General Parinda Ranasinghe over the controversial police chief.
-
-The High Court recently issued an interim order to serve as the Tennakoon Police Inspector General of Police, and advised the President to appoint a police chief.
-
-However, President Ranil Wickremesinghe has stated that he has quit the appointment of the Inspector General of Police as he is a candidate in the upcoming presidential election.
-
-Similarly, Prime Minister Dinesh Gunawardena said in a speech in Parliament that the Supreme Court could not question the decision made by the Constitutional Constitution and therefore had no legal law in this regard.
-
-Speaker Mahinda Yapa Abeywardena has said that the President has urged the Speaker and the Chief Justice to discuss the matter in this context.
-
-However, Speaker Binda Ranasinghe has appealed to the Speaker Binda Ranasinghe regarding the legal techniques to address the issue of the police chief.
-
-...
-
-[Data](articles/d3e5cebf.json)
-
-[Extended Data](ext_articles/d3e5cebf.ext.json)
 
 ---

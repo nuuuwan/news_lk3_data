@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 21:36:07**
+As of **2024-08-06 21:55:38**
 
 ## Newspaper Stats
 
-*Scraped **39,339** Articles*
+*Scraped **39,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,617
+adalk | 3,618
 adaderanalk | 4,571
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,931
 virakesarilk | 6,219
-adaderanasinhalalk | 6,659
+adaderanasinhalalk | 6,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,339 (100.0%) of 39,339 articles have been extended.
+39,339 (100.0%) of 39,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### ධම්මික බැහැ කියයි - නාමල් එයි ද ?
+
+*2024-08-06 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199644) · `si`
+
+මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකත්වය භාර ගැනීම ධම්මික පෙරේරා මහතා විසින් ප්‍රතික්ෂේප කර ඇති බවට දේශපාලන ආරංචි මාර්ග පවසයි.
+
+ඒ අනුව ජනාධිපති අපේක්ෂකත්වය භාර නොගන්නා බවට දන්වමින් පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා පක්ෂයට ලිපියක් යොමු කර ඇති බවද වාර්තා වෙයි.
+
+දේශපාලන ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ පවතින තත්ත්වය තුළ ඉදිරි ජනාධිපතිවරණයේ පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ නම් කිරීමට සාකච්ඡා කරමින් ඇති බවය.
+
+◼️
+
+[Data](articles/35ba6920.json)
+
+---
 
 ### Wrote the letter of Tammika
 
@@ -201,6 +217,22 @@ It is noteworthy that the railway staff engaged in the workplace as the employee
 [Data](articles/67181ae1.json)
 
 [Extended Data](ext_articles/67181ae1.ext.json)
+
+---
+
+### කැලණිවැලි කෝච්චි පාර දෙපැත්තේ අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවලට
+
+*2024-08-06 19:13:06* · [`adalk`](https://www.ada.lk/breaking_news/කැලණිවැලි-කෝච්චි-පාර-දෙපැත්තේ-අනවසර-පදිංචිකරුවන්-වෙනත්-ස්ථානවලට/11-411240) · `si`
+
+පැඟිරිවත්ත දුම්රිය ස්ථානයේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා කැලණිවැලි දුම්රිය මාර්ග රක්ෂිතයේ පදිංචිව සිටින අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවල පදිංචි කරවීම සඳහා කැබිනට් අනුමැතිය ලබාදී තිබේ.
+
+කොළඹ තදාසන්න දුම්රිය මාර්ග ව්‍යාපෘතිය යටතේ දේශීය අරමුදල් යොදා ගනිමින් මාළිගාවත්ත ලොකෝ මංසන්ධියේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා දුම්රිය මාර්ග රක්ෂිතයේ අනවසර පදිංචිකරුවන් වෙනත් ස්ථානවල පදිංචි කරන අතර මේ වන විට කිරුළපන දුම්රිය ස්ථානය දක්වා වන කොටසේ අනවසර පදිංචිකරුවන් ප්‍රතිස්ථාපන කටයුතු අවසන් කර ඇති බව රජය පවසයි.
+
+පැඟිරිවත්ත දුම්රිය ස්ථානයේ සිට පාදුක්ක දුම්රිය ස්ථානය දක්වා කොටසෙහි දුම්රිය රක්ෂිතයේ පදිංචිකරුවන්ගෙන් වැඩි ප්‍රතිශතයක් වසර 30 කට අධික කාලයක් දුම්රිය රක්ෂිතයේ අනාරක්ෂිත ලෙස අනවසරයෙන් ජීවත් වන අතර, ඔවුන්ගෙන් පවුල් 350 ක් පමණ නැවත පදිංචි කිරීම සඳහා හඳුනා ගෙන ඇත.
+
+...
+
+[Data](articles/f048a845.json)
 
 ---
 
@@ -2211,39 +2243,5 @@ Sri Lanka's Embassy of Sri Lanka not to fear for Sri Lankans in Israel.
 [Data](articles/81ee93b1.json)
 
 [Extended Data](ext_articles/81ee93b1.ext.json)
-
----
-
-### Emergency guidelines and phone numbers issued for immigrant workers in Israel
-
-*2024-08-06 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101028/emergency-guidelines-and-phone-numbers-issued-for-immigrant-workers-in-israel) · `en`
-
-The Foreign Workers’ Authority of Israel has issued guidelines and phone numbers of Israeli authorities for immigrant workers, including Sri Lankans, who are employed in the country.
-
-The guidelines are issued to be followed in case of any emergencies, including possible attacks under the prevailing situation.
-
-Accordingly, the following contact details of the Embassy of Sri Lanka in the State of Israel have been given to the Sri Lankan community to communicate with the embassy if there is any emergency.
-
-◼️
-
-[Data](articles/17b81b61.json)
-
-[Extended Data](ext_articles/17b81b61.ext.json)
-
----
-
-### Emergency guidelines and phone numbers issued for immigrant workers in Israel
-
-*2024-08-06 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101028/emergency-guidelines-and-phone-numbers-issued-for-immigrant-workers-in-israel-) · `en`
-
-The Foreign Workers’ Authority of Israel has issued guidelines and phone numbers of Israeli authorities for immigrant workers, including Sri Lankans.
-
-The guidelines are issued for use in emergencies, including possible attacks under the prevailing situation.
-
-◼️
-
-[Data](articles/9eeb4c12.json)
-
-[Extended Data](ext_articles/9eeb4c12.ext.json)
 
 ---

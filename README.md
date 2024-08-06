@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 15:55:18**
+As of **2024-08-06 16:08:56**
 
 ## Newspaper Stats
 
-*Scraped **39,288** Articles*
+*Scraped **39,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
-adalk | 3,608
+adalk | 3,610
 adaderanalk | 4,564
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,924
 virakesarilk | 6,213
-adaderanasinhalalk | 6,647
+adaderanasinhalalk | 6,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,287 (100.0%) of 39,288 articles have been extended.
+39,287 (100.0%) of 39,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### චීනයට එරෙහිව ගොඩනැගෙන බලය
+
+*2024-08-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199632) · `si`
+
+අමෙරිකාව මෙන්ම අග්නිදිග ආසියාතික කලාපයේ අමෙරිකානු හිතවාදී රටවල් විසින් චීනය ආර්ථික බලවතෙකු මෙන්ම කලාපීය සන්නද්ධ බලවතෙකු වීම ​සම්බන්ධයෙන් නුරුස්සන ස්වභායක් පෙන්නුම් කරයි.
+
+එමනිසා විශේෂයෙන් ඉන්දීය සාගරය කේන්ද්‍ර කොටගෙන නව නාවික බලමුළුවක් නිර්මාණය කිරීමට අමෙරිකානු ආරක්ෂක අංශ සැලසුම් සකස් කරන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඒ සඳහා පිලිපීනය, නැගෙනහිර ටිමෝරය සහ පැපුවා නිව්ගිනියා රාජ්‍යය මෙන්ම ඔස්ට්‍රේලියාවට අයත් දිවයින් පෙළක් පිළිබඳව අවධානය යොමුවී ඇති බව වාර්තා වී තිබේ.
+
+ඔස්ට්‍රේලියානු මව් භූමියේ සිට කිලෝමීටර 3000ක් පමණ බටහිර දෙසින් පිහිටි කොකෝස් දිවයින් මේ ආකාරයට අමෙරිකාවේ නව නාවික බලමුළුව සඳහා යෝජනාවී ඇති දිවයින් පෙළ බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරයි.
+
+600ක පමණ ජනගහණයක් සහිත මේ දිවයින් පෙළ ඉන්දීය සාගරයේ රහස්‍ය තොරතුරු ගවේෂණයට වැදගත් වන බව ඔස්ට්‍රේලියාවේ ද අදහසය.
+
+විශේෂයෙන් ඉන්දීය සාගරයේ චීන සබ්මැරීන ක්‍රියාකාරකම් ඉහළයෑම සමඟ එහි වැදගත්කම ඉහළ ගොස් ඇති බව ඔස්ට්‍රේලියානු බලධාරීන් පෙන්වා දී තිබේ.
+
+...
+
+[Data](articles/d3754df1.json)
+
+---
 
 ### කෝකිලාට එරෙහිව රවීගේ අපහාස නඩුව සමත වෙයි
 
@@ -416,6 +438,22 @@ The International Athletics Association, which was conducted by the Internationa
 
 ---
 
+### විදුලිය හා ඛනිජ තෙල් සැපයීම  අත්‍යවශ්‍ය සේවා කරයි
+
+*2024-08-06 12:56:36* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-හා-ඛනිජ-තෙල්-සැපයීම--අත්‍යවශ්‍ය-සේවා-කරයි/11-411228) · `si`
+
+විදුලි බල සැපයීම  සම්බන්ධ සියලු සේවා  සහ ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම   ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ.
+
+මෙකී සේවා අත්‍යවශ්‍ය සේවා බවට පත් කළ ගැසට් නිවේදනය ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් ඊයේ (05) දිනෙන් නිකුත් කරනු ලැබීය.
+
+ඕනෑම රාජ්‍ය සංස්ථාවකින්,දෙපාර්තමේන්තුවකින්,පළාත් පාලන ආයතනයකින්,සමුපකාර සමිතියකින් හෝ ඒවායේ ශාඛාවකින් සපයනු ලබන මෙකී සේවාවන් සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යවශ්‍ය බව  හා එකී සේවාවට බාධාවක් හෝ අවහිරතාවයක් ඇතිවියහැකි බව  සැලකිල්ලට ගනිම්න් ජනාධිපතිවරයා  මෙම අත්‍යාවශ්‍ය සේවා නියමයන් ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/1afa5303.json)
+
+---
+
 ### Gampaha Amongmated
 
 *2024-08-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199622) · `si`
@@ -477,6 +515,22 @@ The US dollar sales price was Rs 306.9872 and the purchase price was Rs 297.6981
 [Data](articles/b4902941.json)
 
 [Extended Data](ext_articles/b4902941.ext.json)
+
+---
+
+### තනතුරු පොදියට ධන කුට්ටියට අපේ ප්‍රතිපත්ති පාවා දීලා නැහැ
+
+*2024-08-06 12:38:38* · [`adalk`](https://www.ada.lk/breaking_news/තනතුරු-පොදියට-ධන-කුට්ටියට-අපේ-ප්‍රතිපත්ති-පාවා-දීලා-නැහැ/11-411227) · `si`
+
+තමන්ට ද එක් එක් "අප්පොච්චිලා" "ඇමතිකම්-තාන්නමාන්න" සඳහා ඇරයුම් එවා ඇති නමුත් තමන් කිසිවිටෙකත් "තනතුරු පොදියට- ධන කුට්ටියට" රස වැටී තම ප්‍රතිපත්ති පාවා දී නොමැති බව ජාතික නිදහස් පෙරමුණේ නායක, සර්වජන බලය විධායක සභික, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා පවසයි.
+
+ජනතා විමුක්ති පෙරමුණේ 'සිටියදීත්- ඉන්පසුවත්' යුද ජයග්‍රහණයට 'පෙරත්-ඉන්පසුවත්' 'එදත්-අදත්' තමන් 'එකම ප්‍රතිපත්තියක්-එකම අරමුණක්-එකම දේශපාලන මතයක්' වෙනුවෙන් පෙනී සිටි බව වැඩිදුරටත් පැවසූ ඒ මහතා, තමන් දිගු කලක් තිස්සේ නියෝජනය කළ දෑහිතකාමී, දේශහිතෛෂී, ජාතිකවාදී, වාම-ප්‍රගතිශීලි ප්‍රතිපත්ති සමග ඉතාම සමානව ගමන් කළ හැකි අයකු ලෙස විශ්වාස කරන දිලිත් ජයවීර මැතිතුමන් තම කඳවුර මෙවර ජනාධිපතිවරණ අපේක්ෂකයා ලෙස ඉදිරිපත් කර ඇති බව අවධාරණය කළේය.
+
+බොරැල්ල පිහිටි සර්වජන බලය මූලස්ථානයේදී පැවති මාධ්‍ය හමුවකදී විමල් වීරවංශ මහතා මෙසේ අවධාරණය කළේ ය.
+
+...
+
+[Data](articles/ae6ae42a.json)
 
 ---
 
@@ -2165,59 +2219,5 @@ The High Commissioner said that as a country rich with cultural heritage and gre
 [Data](articles/6f63382f.json)
 
 [Extended Data](ext_articles/6f63382f.ext.json)
-
----
-
-### Nex-Gen Engineering Studio opens new corporate office
-
-*2024-08-06 00:53:50* · [`dailyftlk`](https://www.ft.lk/business/Nex-Gen-Engineering-Studio-opens-new-corporate-office/34-765199) · `en`
-
-Nex-Gen Engineering Studio’s growth chapter and recent wins at the National Business Excellence Awards 2024
-
-Nex-Gen Engineering Studio has expanded to No. 100, Vinayalankara Mawatha, Colombo 10, to a newly dedicated corporate space.
-
-This is a significant milestone for the Nex-Gen Engineering team as they continue to expand and broaden their presence in the country. With hundreds of active projects and several prestigious international ventures, Nex-Gen Engineering Studio is establishing itself as an industry leader in design visualisation solutions.
-
-...
-
-[Data](articles/7a2bab0f.json)
-
-[Extended Data](ext_articles/7a2bab0f.ext.json)
-
----
-
-### Unidil stands tall with 10 Gold Awards at National Convention on Quality and Productivity Awards 2024
-
-*2024-08-06 00:52:00* · [`dailyftlk`](https://www.ft.lk/business/Unidil-stands-tall-with-10-Gold-Awards-at-National-Convention-on-Quality-and-Productivity-Awards-2024/34-765198) · `en`
-
-The Unidil Group of Companies, the packaging arm of Vallibel One PLC and the leader in packaging solutions for local and export industries, has once again demonstrated its excellence by winning 10 Gold Awards at the National Convention on Quality and Productivity (NCQP) 2024.
-
-Specialising in corrugated cartons and paper sacks, Unidil continues to set the standard in quality, productivity, and innovation. The prestigious event took place recently Hotel Mount Lavinia, featuring participation from leading organisations across the country.
-
-Organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), the annual NCQP event provides a significant platform for employers from various sectors to showcase their success stories and achievements in team-based improvement initiatives.
-
-...
-
-[Data](articles/827d3fe5.json)
-
-[Extended Data](ext_articles/827d3fe5.ext.json)
-
----
-
-### Majority of SLFP backs President Wickremesinghe claims Lasantha Alagiyawanna
-
-*2024-08-06 00:49:05* · [`dailyftlk`](https://www.ft.lk/news/Majority-of-SLFP-backs-President-Wickremesinghe-claims-Lasantha-Alagiyawanna/56-765197) · `en`
-
-State Minister for Trans-port Lasantha Alagiyawanna yesterday announced that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming Presidential election, with 90% of the executive council and a majority of the party’s MPs agreeing to this decision.
-
-He also highlighted that the SLFP’s robust organisational network has already started efforts to secure President Wickremesinghe’s victory.
-
-At a press briefing titled “Collective Path to a Stable Country” at the Presidential Media Centre (PMC), the State Minister highlighted the significant impact of the transportation sector on ecosystems globally and locally, with vehicle emissions as a major factor. To tackle this issue, smoke certificates are being issued to maintain air quality and reduce lung-related diseases.
-
-...
-
-[Data](articles/cfac4b93.json)
-
-[Extended Data](ext_articles/cfac4b93.ext.json)
 
 ---

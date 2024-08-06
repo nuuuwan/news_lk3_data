@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 16:08:56**
+As of **2024-08-06 16:20:53**
 
 ## Newspaper Stats
 
-*Scraped **39,291** Articles*
+*Scraped **39,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,85 @@ adaderanalk | 4,564
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,924
 virakesarilk | 6,213
-adaderanasinhalalk | 6,648
+adaderanasinhalalk | 6,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,287 (100.0%) of 39,291 articles have been extended.
+39,291 (100.0%) of 39,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### චීනයට එරෙහිව ගොඩනැගෙන බලය
+### ශ්‍රීලනිප කාර්යාලය සම්බන්ධයෙන් වූ තහනම් නියෝගය දීර්ඝ කෙරේ
+
+*2024-08-06 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199633) · `si`
+
+ශ්‍රී ලංකා නිදහස්  පක්ෂ කාර්යාලයේ අර්බුදයක් සම්බන්ධයෙන් එක්සත් ජනතා නිදහස් සන්ධානයේ මහලේකම් තිලංග සුමතිපාල මහතා විසින් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාට එරෙහිව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ ගොනු කර තිබෙන පෞද්ගලික පැමිණිල්ල ඉදිරියට විභාග කිරීම වළක්වාලමින් නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය සැප්තැම්බර් මස 06 වනදා දක්වා දීර්ඝ කරන ලෙස අභියාචනාධිකරණය නියෝග කර තිබේ.
+
+මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයේ තීරණයට එරෙහිව අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් ගොනු කර තිබෙන පෙත්සම අද අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් තාහීර් මහතා ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+එහිදී විරෝධතා තිබේනම් ඒවා සැප්තැම්බර් මස 06 වනදා ගොනුකරන ලෙසත් අධිකරණය විසින් වගඋත්තරකාර තිලංග සුමතිපාල මහතාට නියෝග කර ඇත.
+
+...
+
+[Data](articles/7e3dcb3b.json)
+
+---
+
+### Power to build up against China
 
 *2024-08-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199632) · `si`
 
-අමෙරිකාව මෙන්ම අග්නිදිග ආසියාතික කලාපයේ අමෙරිකානු හිතවාදී රටවල් විසින් චීනය ආර්ථික බලවතෙකු මෙන්ම කලාපීය සන්නද්ධ බලවතෙකු වීම ​සම්බන්ධයෙන් නුරුස්සන ස්වභායක් පෙන්නුම් කරයි.
+The US and its allies in Southeast Asia are bolstering their naval presence in the Indian Ocean, particularly around the Philippines, East Timor, Papua New Guinea, and Australian territories. This move comes amid concerns over China's growing influence in the region. The US is reportedly planning a new naval force and enhancing its military infrastructure, including bases in Northern Australia and the Darwin area. Additionally, there's focus on the strategic importance of the Kokos Islands and the Malacca Strait, which are crucial for China's oil supply. These actions signal a broader strategy to counterbalance China's economic and military might in the region.
 
-එමනිසා විශේෂයෙන් ඉන්දීය සාගරය කේන්ද්‍ර කොටගෙන නව නාවික බලමුළුවක් නිර්මාණය කිරීමට අමෙරිකානු ආරක්ෂක අංශ සැලසුම් සකස් කරන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+🟩
 
-ඒ සඳහා පිලිපීනය, නැගෙනහිර ටිමෝරය සහ පැපුවා නිව්ගිනියා රාජ්‍යය මෙන්ම ඔස්ට්‍රේලියාවට අයත් දිවයින් පෙළක් පිළිබඳව අවධානය යොමුවී ඇති බව වාර්තා වී තිබේ.
+Like the US and the US-in-law of the Southeast Asian, the American favorable countries of the Southeast Asian, showcase an ineffective nature of being an economic power and regional armed power.
 
-ඔස්ට්‍රේලියානු මව් භූමියේ සිට කිලෝමීටර 3000ක් පමණ බටහිර දෙසින් පිහිටි කොකෝස් දිවයින් මේ ආකාරයට අමෙරිකාවේ නව නාවික බලමුළුව සඳහා යෝජනාවී ඇති දිවයින් පෙළ බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරයි.
+International media reports that US security forces will create plans to create a new naval force in the Indian Ocean, especially.
 
-600ක පමණ ජනගහණයක් සහිත මේ දිවයින් පෙළ ඉන්දීය සාගරයේ රහස්‍ය තොරතුරු ගවේෂණයට වැදගත් වන බව ඔස්ට්‍රේලියාවේ ද අදහසය.
+It has been reported that the Philippines, East Timor and Papua New Gueria and a range of islands belonging to Australia.
 
-විශේෂයෙන් ඉන්දීය සාගරයේ චීන සබ්මැරීන ක්‍රියාකාරකම් ඉහළයෑම සමඟ එහි වැදගත්කම ඉහළ ගොස් ඇති බව ඔස්ට්‍රේලියානු බලධාරීන් පෙන්වා දී තිබේ.
+According to foreign media, the island of the United States of America, the Kookos, the Australian motherland to be resented by the US Naval Forum in the United States.
+
+It is also in Australia that these islands with a population of about 600 people in the Indian Ocean's confidential information.
+
+Australian authorities have shown that the importance of Chinese submarine operations in the Indian Ocean has increased.
+
+The International Media reported that America Naval Infrastructure has been included in the new Navy infrastructure development plan.
 
 ...
 
 [Data](articles/d3754df1.json)
 
+[Extended Data](ext_articles/d3754df1.ext.json)
+
 ---
 
-### කෝකිලාට එරෙහිව රවීගේ අපහාස නඩුව සමත වෙයි
+### Ravi's insulting case against Kokila
 
 *2024-08-06 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199631) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රිනී කෝකිලා ගුණවර්ධන විසින් සිදුකළ ප්‍රකාශයක් හේතුවෙත් තමන්ට අපහාසයක් සිදුවී ඇතැයි කියමින් රුපියල් මිලියන 500ක වන්දියක් අය කරදෙන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා විසින් ගොනු කළ නඩුව අද (06) කොළඹ දිසා අධිකරණයේදී සමථයට පත්වී තිබේ.
+MP Ravi Karunanayake settled an insult case against Kokila, claiming recovery of Rs. 500 million in Colombo District Court. The plaintiff pardoned the complainant unconditionally, and the court ordered compliance with impeachment conditions.
 
-එම නඩුව අද කොළඹ දිසා අධිකරණයේදී කැඳවූ අවස්ථාවේදී මන්ත්‍රීවරිය සිය නීතීඥවරුන් මාර්ගයෙන් අධිකරණයට දැනුම්දී ඇත්තේ තමන් සිදුකළ ප්‍රකාශය වැරදි සහගත බැවින් ඒ සම්බන්ධයෙන් පැමිණිලිකාර පාර්ශ්වයෙන් කොන්දේසි විරහිතව සමාව අයැද සිටින බවය.
+🟩
 
-මීට අමතරව රුපියල් දස දහසක මුදලක් ලංකා පිළිකා අරමුදලට පරිත්‍යාග කරන බවත් මෙහිදි ඇය වෙනුවෙන් පෙනී සිටි නීතීඥවරයා අධිකණයේදී පවසනු ලැබීය.
+The case has been settled by MP Ravi Karunanayake, who has claimed to recover a number of Rs. 500 million in the Colombo District Court today (06).
 
-ඒ අනුව අදාළ සමථය සටහන් කරගත් අධිකරණය සමථ කොන්දේසි අනුව කටයුතු කරන ලෙස දෙපාර්ශ්වකරුවන්ට නියෝග කෙරිණි.
+When the case was summoned in the Colombo District Court today, the MP had informed the court through his lawyers, as they were wrong, the complainant was unconditionally pardoned by the plaintiff.
+
+In addition, the lawyer who appeared for the Cancer Fund in the Rs.
+
+Accordingly, the court recorded the review was ordered to comply with the impeachment conditions.
 
 ◼️
 
 [Data](articles/ee608270.json)
+
+[Extended Data](ext_articles/ee608270.ext.json)
 
 ---
 
@@ -438,19 +468,25 @@ The International Athletics Association, which was conducted by the Internationa
 
 ---
 
-### විදුලිය හා ඛනිජ තෙල් සැපයීම  අත්‍යවශ්‍ය සේවා කරයි
+### Supply of electricity and petroleum are essential
 
 *2024-08-06 12:56:36* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-හා-ඛනිජ-තෙල්-සැපයීම--අත්‍යවශ්‍ය-සේවා-කරයි/11-411228) · `si`
 
-විදුලි බල සැපයීම  සම්බන්ධ සියලු සේවා  සහ ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම   ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අත්‍යවශ්‍ය සේවා බවට පත් කෙරේ.
+President Ranil Wickremesinghe has made the supply of electricity and petroleum essential services, ensuring transparency in their production and delivery. This decision, outlined in a gazette notification, applies to all government corporations, departments, local authorities, and cooperatives involved in these sectors.
 
-මෙකී සේවා අත්‍යවශ්‍ය සේවා බවට පත් කළ ගැසට් නිවේදනය ජනාධිපති ලේකම් ඊ.එම්.එස්.බී.ඒකනායක මහතා විසින් ඊයේ (05) දිනෙන් නිකුත් කරනු ලැබීය.
+🟩
 
-ඕනෑම රාජ්‍ය සංස්ථාවකින්,දෙපාර්තමේන්තුවකින්,පළාත් පාලන ආයතනයකින්,සමුපකාර සමිතියකින් හෝ ඒවායේ ශාඛාවකින් සපයනු ලබන මෙකී සේවාවන් සාමාන්‍ය ජන ජීවිතය පවත්වාගෙන යාමට අත්‍යවශ්‍ය බව  හා එකී සේවාවට බාධාවක් හෝ අවහිරතාවයක් ඇතිවියහැකි බව  සැලකිල්ලට ගනිම්න් ජනාධිපතිවරයා  මෙම අත්‍යාවශ්‍ය සේවා නියමයන් ප්‍රකාශයට පත්කර තිබේ.
+All services and supply of petroleum production and supply of petroleum production and supply of petroleum production and delivery of petroleum production and delivery will be made public by President Ranil Wickremesinghe.
+
+The gazette notification that was essential to the essential services was issued by the President EMSBA yesterday (05).
+
+The President has declared this essential service provision of any government corporation, department, a local authority, cooperative society or branch.
 
 ◼️
 
 [Data](articles/1afa5303.json)
+
+[Extended Data](ext_articles/1afa5303.ext.json)
 
 ---
 
@@ -518,19 +554,27 @@ The US dollar sales price was Rs 306.9872 and the purchase price was Rs 297.6981
 
 ---
 
-### තනතුරු පොදියට ධන කුට්ටියට අපේ ප්‍රතිපත්ති පාවා දීලා නැහැ
+### We have not betrayed our policies to the positive
 
 *2024-08-06 12:38:38* · [`adalk`](https://www.ada.lk/breaking_news/තනතුරු-පොදියට-ධන-කුට්ටියට-අපේ-ප්‍රතිපත්ති-පාවා-දීලා-නැහැ/11-411227) · `si`
 
-තමන්ට ද එක් එක් "අප්පොච්චිලා" "ඇමතිකම්-තාන්නමාන්න" සඳහා ඇරයුම් එවා ඇති නමුත් තමන් කිසිවිටෙකත් "තනතුරු පොදියට- ධන කුට්ටියට" රස වැටී තම ප්‍රතිපත්ති පාවා දී නොමැති බව ජාතික නිදහස් පෙරමුණේ නායක, සර්වජන බලය විධායක සභික, පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා පවසයි.
+In a press conference, Wimal Weerawansa criticized political shifts post-presidential nominations, highlighting the changing allegiances among politicians. He mentioned Dilith Jayaweera's alignment with nationalist, progressive policies and the commitment to national goals without compromising their own principles.
 
-ජනතා විමුක්ති පෙරමුණේ 'සිටියදීත්- ඉන්පසුවත්' යුද ජයග්‍රහණයට 'පෙරත්-ඉන්පසුවත්' 'එදත්-අදත්' තමන් 'එකම ප්‍රතිපත්තියක්-එකම අරමුණක්-එකම දේශපාලන මතයක්' වෙනුවෙන් පෙනී සිටි බව වැඩිදුරටත් පැවසූ ඒ මහතා, තමන් දිගු කලක් තිස්සේ නියෝජනය කළ දෑහිතකාමී, දේශහිතෛෂී, ජාතිකවාදී, වාම-ප්‍රගතිශීලි ප්‍රතිපත්ති සමග ඉතාම සමානව ගමන් කළ හැකි අයකු ලෙස විශ්වාස කරන දිලිත් ජයවීර මැතිතුමන් තම කඳවුර මෙවර ජනාධිපතිවරණ අපේක්ෂකයා ලෙස ඉදිරිපත් කර ඇති බව අවධාරණය කළේය.
+🟩
 
-බොරැල්ල පිහිටි සර්වජන බලය මූලස්ථානයේදී පැවති මාධ්‍ය හමුවකදී විමල් වීරවංශ මහතා මෙසේ අවධාරණය කළේ ය.
+The National Freedom Front Leader of the National Freedom Front Executive Committee, Member of the National Freedom Front (Executive Member of the National Freedom Front Executive Committee, Executive Member of the National Freedom Front, Executive Committee, has never been given his policies..
+
+He further said, 'The JVP' and since the 'war victory' was a long-standing idea, 'The only political view.'Dilith Jayaweera, who believes as a nationalist, left-progressive policies, has presented its camp candidate this time.
+
+At a press conference held at the Headquarters in Borella, Mr. Wimal Weerawansa stressed:
+
+"The planetary transfers are now happening after the presidential nominations were called for the nomination. Look at the queth. What happens to this today?Mahinda's lack of 'Achgo' laboreck, Mahinda is now jumping into the lap of Mahinda Apho-braffry.. Basil Rajapaksa, Rohitha Abeygunawardena, S. M. Even Chandrasena has even jumped on the other side.
 
 ...
 
 [Data](articles/ae6ae42a.json)
+
+[Extended Data](ext_articles/ae6ae42a.ext.json)
 
 ---
 
@@ -2201,23 +2245,5 @@ Williams’ wife, Deepa Samarasinghe, was also present. Their meeting was a prou
 [Data](articles/a6859803.json)
 
 [Extended Data](ext_articles/a6859803.ext.json)
-
----
-
-### SL, New Zealand discuss boosting bilateral trade
-
-*2024-08-06 00:55:33* · [`dailyftlk`](https://www.ft.lk/business/SL-New-Zealand-discuss-boosting-bilateral-trade/34-765200) · `en`
-
-Trade Minister Nalin Fernando met with New Zealand High Commissioner David Pine yesterday at the Trade Ministry premises.
-
-The Trade Minister said that Sri Lanka is making all efforts to diversify its exports by encouraging the SME sector. He further emphasised the need to increase Sri Lankan exports to the New Zealand market to address the wide trade gap between the two countries.
-
-The High Commissioner said that as a country rich with cultural heritage and great history Sri Lanka has enormous opportunities in the tourism sector. In this regard, the High Commissioner actively engaged in creating connections between the relevant stakeholders in the two countries he further added.
-
-...
-
-[Data](articles/6f63382f.json)
-
-[Extended Data](ext_articles/6f63382f.ext.json)
 
 ---

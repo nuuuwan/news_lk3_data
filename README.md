@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 09:55:38**
+As of **2024-08-06 10:08:10**
 
 ## Newspaper Stats
 
-*Scraped **39,228** Articles*
+*Scraped **39,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 2,519
 adalk | 3,598
 adaderanalk | 4,549
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,917
+tamilmirrorlk | 4,920
 virakesarilk | 6,209
-adaderanasinhalalk | 6,631
+adaderanasinhalalk | 6,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,227 (100.0%) of 39,228 articles have been extended.
+39,227 (100.0%) of 39,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### நிலச்சரிவில் பலரின் உயிரை  காப்பாற்றிய கிளி!
+
+*2024-08-06 09:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலச்சரிவில்-பலரின்-உயிரை-காப்பாற்றிய-கிளி/175-341677) · `ta`
+
+சூரல்மலையில் இளைஞர் வளர்த்து வந்த கிளியின் எச்சரிக்கையால் பல குடும்பங்கள் நிலச்சரிவில் இருந்து தப்பித்த சம்பவம் நெகிழ்ச்சியை ஏற்படுத்தியுள்ளது.
+
+கேரள மாநிலம், வயநாடு மாவட்டத்தின் முண்டக்கை, சூரல்மலை, மேப்பாடி உள்ளிட்ட இடங்களில் அடுத்தடுத்து அதிபயங்கர நிலச்சரிவு 400க்கும் மேற்பட்டோர் பலியாகி உள்ளனர். 150க்கும் மேற்பட்ட உடல் பாகங்கள் மீட்கப்பட்டுள்ள நிலையில், மீட்பு பணி தொடர்ந்துவருகின்றது.
+
+பொதுவாக பறவைகள் மற்றும் விலங்குகள் இயற்கை பேரிடர்களை முன்கூட்டியே அறிந்துகொள்ளும் திறன்கொண்டவை. அந்த வகையில், வயநாட்டைச் சேர்ந்த இளைஞர் வளர்த்து வந்த செல்லப்பிராணியான கிங்கினி என்ற கிளி எச்சரிக்கை செய்ததால் நிலச்சரிவில் இருந்து அவரது குடும்பம் மட்டுமல்லாமல், அவரது நண்பர் மற்றும் அண்டை வீட்டாரின் குடும்பமும் நிலச்சரிவில் இருந்து தப்பிய சம்பவம் ஆச்சரியத்தை ஏற்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/8b50c595.json)
+
+---
+
+### රාජ්‍ය ආයතන ඩිජිටල්කරණයට අදාළ ජනපතිගේ තීරණයට කැබිනට් අනුමැතිය
+
+*2024-08-06 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199616) · `si`
+
+රාජ්‍ය සේවකයින්ගේ කාර්යක්ෂමතාව හා ගුණාත්මකභාවය වැඩිදියුණු කිරීමට රාජ්‍ය අංශයේ තොරතුරු තාක්ෂණ පද්ධති ඒකාබද්ධ කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව සියලුම රාජ්‍ය ආයතන මඟින් නියාමනය කරනු ලබන තොරතුරු, තාක්ෂණ පද්ධති සහ දත්ත ඇතුළත් කිරීමෙන් කරුණු 4ක් යටතේ කටයුතු කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විශේෂ සංදේශයක් ඉදිරිපත් කර ඇත.
+
+සියලුම රාජ්‍ය ආයතන ඩිජිටල්කරණය යටතේ මෙම කටයුත්ත සිදුකිරීමට නියමිත අතර එයට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+* අවුරුදු 15ට වැඩි ශ්‍රී ලාංකික පුරවැසියෙකු හඳුනාගැනීම සඳහා ජාතික හැඳුම්පත් අංකය භාවිත කිරීම අනිවාර්ය කිරීම.
+
+* දෙවනුව විදේශ පුද්ගලයෙකු හඳුනාගැනීම සඳහා ඔහුගේ විදේශ ගමන්බලපත්‍ර අංකය භාවිත කිරීම අනිවාර්ය කිරීම.
+
+*ආයතන අනෝන්‍ය වශයෙන් හඳුනාගැනීම සඳහා ව්‍යාපාර ලියාපදිංචි අංකය සහ එම ආයතන හිමිකරුවන්ගේ අධ්‍යක්ෂ මණ්ඩලවල දේශීය සාමාජිකයින්ගේ ජාතික හැඳුම්පත් අංකය හා විදේශ සාමාජිකයින්ගේ විදේශ ගමන් බලපත්‍රය අනිවාර්ය කෙරේ.
+
+*අදාළ දත්ත විධිමත් පරිදි අනෙකුත් ආයතන සමග හුවමාරු කිරීමට හැකිවන පරිදි දත්ත ප්‍රමිතිකරණය සිදුකිරීම නියමිතයි.
+
+◼️
+
+[Data](articles/c1462a92.json)
+
+---
+
+### வட மாகாண பிரதான அமைப்பாளராக உமாச்சந்திரா பிரகாஷ்
+
+*2024-08-06 09:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-பிரதான-அமைப்பாளராக-உமாச்சந்திரா-பிரகாஷ்/175-341676) · `ta`
+
+2024 ஆம் ஆண்டிற்கான ஐக்கிய மக்கள் சக்தியின் வட மாகாண பிரதான அமைப்பாளராக உமாசந்திரா பிரகாஷ் நியமிக்கப்பட்டுள்ளார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவருக்கான நியமனக் கடிதத்தை திங்கட்கிழமை (05) கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து வழங்கினார்.
+
+◼️
+
+[Data](articles/afb90f06.json)
+
+---
+
+### நாமல் ராஜபக்ஷ இராஜினாமா
+
+*2024-08-06 09:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷ-இராஜினாமா/175-341674) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினரும், தேசிய அமைப்பாளருமான நாமல் ராஜபக்ஷ, சர்வதேச தொடர்புகள் கண்காணிப்பு குழுவின் உறுப்பினர் பதவியில் இருந்து இராஜினாமா செய்துள்ளார் என்று சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, பாராளுமன்றத்துக்கு இன்று (06) அறிவித்தார்.
+
+பாராளுமன்றம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில், செவ்வாய்க்கிழமை (07) காலை 9.30க்கு கூடியது. சபாநாயகர் அறிவிப்பின் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6ede26fb.json)
+
+---
 
 ### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
 
@@ -2117,97 +2185,5 @@ Attorney-at-Law Faizer Mustapha that appeared on behalf of the Minister of Labor
 [Data](articles/1a9dfedc.json)
 
 [Extended Data](ext_articles/1a9dfedc.ext.json)
-
----
-
-### There is a dearth of 29091 constable posts
-
-*2024-08-05 18:48:45* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්-තනතුරු-29091ක-හිඟයක්/11-411213) · `si`
-
-A recent audit revealed a significant shortage of 29,091 police constable positions, including 4,020 for women, despite having 309,090 constables by the end of 2023. Additionally, there are 10,900 surplus sergeants. This situation highlights a critical need for recruitment and redistribution within the police force.
-
-🟩
-
-A recent audit report issued by the National Audit Office of 29,091 police constable positions and 4020 women constable positions belonging to the Police Department and 4020 women constable posts have been vacant.
-
-Police approved police constable positions is 600,000. By the end of the year 2023, the number of police constable was 309,09. Accordingly, 29,091 were vacancies in the police constable. However, the audit reports say that there are 10,900 excess cops in the post of police sergeant due to the approved number in 2019 and 2020.
-
-The number of additional constable positions in the number of police constable positions is 18,190 and the number of vacancies in the number of approved police constable positions is 18,190, and the total number of vacancies has been created by about 30% of the approved police constable positions.has.
-
-...
-
-[Data](articles/98f99c21.json)
-
-[Extended Data](ext_articles/98f99c21.ext.json)
-
----
-
-### Who is the Tamil general candidate not announced today
-
-*2024-08-05 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190364) · `ta`
-
-The Tamil People's General Assembly, along with Tamil National Political Parties, met in Jaffna but did not announce the Tamil general candidate today. The announcement is expected before this coming Thursday. Notable figures like P. Ariyanendran and Chandraneru Chandrakanthan are speculated to be on the shortlist.
-
-🟩
-
-Seven representatives of the Tamil People's General Assembly, which was formed with the coordination of civil organizations, and the representatives of the Tamil National Political Parties, the Tamil National Alliance.
-
-The meeting of the Tamil National Alliance (TNA) was held on Monday (05) in Jaffna at a hostel in Jaffna.
-
-The meeting, which began at one o'clock in the afternoon, was held for more than 4 hours until the meeting was held for more than 4 pm.
-
-The name of the Tamil common candidate will be announced before the upcoming Thursday.
-
-Meanwhile, former Member of Parliament of the Batticaloa District of the Sri Lanka Tamil Nadu Party, P. Ariyanendran. The names of Chandraneru Chandrakanthan, a former member of the Tamil National Alliance (TNA), are said to be on the final list.
-
-◼️
-
-[Data](articles/67db8274.json)
-
-[Extended Data](ext_articles/67db8274.ext.json)
-
----
-
-### Harason reveals the Rajapaksas and Sajith's conspiracy
-
-*2024-08-05 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂලාගේ-හා-සජිත්ගේ-කුමන්ත්‍රණයක්-හැරිසන්-හෙළි-කරයි/11-411212) · `si`
-
-P. Harrison accuses Rajapaksas and Sajith Premadasa of conspiring against the people's will, claiming they're pushing for Ranil Wickremesinghe as PM, despite public opposition. He alleges a secret pact between Sajith Premadasa and Namal Rajapaksa to bolster Wickremesinghe's power, arguing the public is not ready for such political maneuverings.
-
-🟩
-
-Former Parliamentarian P. Harrison was a meeting of the Group in Bakamuna that the MPs were no longer prepared to make the Rajitals of this country.
-
-He was speaking at a ceremony to open the owner of the UNP.
-
-"If the people in this country has no longer has the Prime Minister of the country, Ranil Wickremesinghe has been submitted to support Ranil Wickremesinghe..
-
-This is the conspiratory that Sajith Premadthipiya and Namal Rajapaksa joined the re-power of Ranil Wickremesinghe.Joined the support of Mr. Wickremesinghe. The people of this country are no longer ready to make princes to be king. Ranil Wickremesinghe is being released from this election.
-
-◼️
-
-[Data](articles/d0a5b110.json)
-
-[Extended Data](ext_articles/d0a5b110.ext.json)
-
----
-
-### Deadline for postal voting applications extended
-
-*2024-08-05 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101018/deadline-for-postal-voting-applications-extended) · `en`
-
-The deadline to accept postal voting applications, which was scheduled to end at midnight today (05), has been extended, the Commissioner General of Elections Saman Sri Ratnayake said.
-
-Accordingly, the relevant deadline has been extended until 12.00 midnight on August 09 (Friday).
-
-The Elections Commissioner General said that this decision was made in consideration of the possible postal delays and several requests made by the public to the commission.
-
-Furthermore, the election regulatory body highlighted that the deadline for accepting the relevant applications will not be extended further under any circumstances.
-
-◼️
-
-[Data](articles/ff2d2c58.json)
-
-[Extended Data](ext_articles/ff2d2c58.ext.json)
 
 ---

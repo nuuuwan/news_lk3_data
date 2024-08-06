@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 22:36:16**
+As of **2024-08-06 22:54:44**
 
 ## Newspaper Stats
 
-*Scraped **39,344** Articles*
+*Scraped **39,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,618
-adaderanalk | 4,572
+adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,931
-virakesarilk | 6,219
+tamilmirrorlk | 4,932
+virakesarilk | 6,226
 adaderanasinhalalk | 6,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,343 (100.0%) of 39,344 articles have been extended.
+39,344 (100.0%) of 39,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Two injured in separate shootings in Ja-ela and Gampaha
+
+*2024-08-06 22:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101051/two-injured-in-separate-shootings-in-ja-ela-and-gampaha) · `en`
+
+A 43-year-old person has been injured in a shooting incident in the Makewita area of Ja-ela, a short while ago.
+
+Meanwhile, in a separate incident, a 29-year-old person was injured in a shooting at Thammita, Gampaha this evening, the police said.
+
+◼️
+
+[Data](articles/aeac9879.json)
+
+---
+
+### Ayurveda & Buildings departments are lowest performing, revealed before COPA
+
+*2024-08-06 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101050/-ayurveda-buildings-departments-are-lowest-performing-revealed-before-copa) · `en`
+
+The Committee on Public Accounts (COPA) has expressed its displeasure over the performance of the Buildings Department and Ayurveda Department, when the committee met in Parliament recently under the Chairmanship of the State Minister Lasantha Alagiyawanna.
+
+The Committee Chair has pointed out during the meeting that COPA maintains a data system regarding the performance of government institutions under its purview and according to that data, the Building Department and the Ayurveda Department have been identified as the two institutions with the lowest performance.
+
+As a result, it was decided to summon both these institutions before the Committee on one day, the Committee Chair further mentioned, the Parliamentary Communications Department said.
+
+...
+
+[Data](articles/e1f92404.json)
+
+---
+
+### ரணில் ஜனாதிபதியானால் நானே பிரதமர்  - ரவி கருணாநாயக்க கூறியதாக வெளியான பதிவுகள்  உண்மைக்குப் புறம்பானவை என தரவு சரிபார்த்தலில் கண்டறிவு
+
+*2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190443) · `ta`
+
+எதிர்வரும் ஜனாதிபதித்தேர்தலில் ரணில் விக்ரமசிங்க ஜனாதிபதியாகத் தெரிவானதன் பின்னர், தான் பிரதமராகப் பதவியேற்கவிருப்பதாக ஐக்கிய தேசியக்கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்திருப்பதாக சமூக வலைத்தளங்களில் பகிரப்பட்டுவரும் செய்தியில் எவ்வித உண்மையும் இல்லை என தரவு சரிபார்த்தலில் உறுதிப்படுத்தப்பட்டுள்ளது.
+
+எதிர்வரும் ஜனாதிபதித்தேர்தலில் ரணில் விக்ரமசிங்க ஜனாதிபதியாகத் தெரிவுசெய்யப்பட்டதன் பின்னர், தான் பிரதமராகப் பதவியேற்கவிருப்பதாக ஐக்கிய தேசியக்கட்சியின் உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்திருப்பதாக சமூகவலைத்தளங்களில் பதிவொன்று பகிரப்பட்டவருகின்றது.
+
+”ரணில் ஜனாதிபதியானதன் பின்னர் நானே பிரதமர் - ரவி கருணாநாயக்க கூறுகிறார்” என்ற தலைப்புடன், சிங்கள தேசிய பத்திரிகை ஒன்றின் முதற்பக்கத்தை ஒத்ததாக வடிவமைக்கப்பட்டு மேற்குறிப்பிட்ட பதிவு பகிரப்பட்டுவருகின்றது.
+
+இந்நிலையில் இப்பதிவின் உண்மைத்தன்மை குறித்து இலங்கைப் பத்திரிகை ஸ்தாபனத்தைத் தளமாகக்கொண்டு இயங்கிவரும் Fact Seeker ஆராய்ந்து பார்த்ததில், அப்பதிவில் எவ்வித உண்மையும் இல்லை என உறுதிப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/04a76450.json)
+
+---
+
+### 2 துப்பாக்கிச் சூட்டில் இருவர் காயம்
+
+*2024-08-06 22:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-துப்பாக்கிச்-சூட்டில்-இருவர்-காயம்/175-341718) · `ta`
+
+கம்பஹா மற்றும் ஜா-எல ஆகிய இடங்களில் இன்று பதிவான இரண்டு வெவ்வேறு துப்பாக்கிச் சூட்டு சம்பவங்களில் இருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். முதலாவது சம்பவம் ஜா-எல, மகேவிட்டவில் இடம்பெற்றுள்ளது, இதில் கடவத்தையைச் சேர்ந்த 43 வயதுடைய ஒருவர் காயமடைந்துள்ளார். இரண்டாவது சம்பவம் கம்பஹா, தம்மிதவில் இடம்பெற்றுள்ளது, இதில் உடுகம்பொல பகுதியைச் சேர்ந்த 29 வயதுடைய இளைஞரே துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார். சந்தேகநபர்கள் தலைமறைவாக உள்ள நிலையில், மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன
+
+◼️
+
+[Data](articles/2371da38.json)
+
+---
+
+### மாகாணசபை தேர்தல்கள் (திருத்தச் )சட்டமூலம் இரண்டாம் வாசிப்புக்காக சமர்ப்பிப்பு - விமல் வீரவன்ச கடும் எதிர்ப்பு
+
+*2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190438) · `ta`
+
+மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்  எம்.ஏ.சுமந்திரன்  சபைக்கு சமர்ப்பித்தார்.
+
+தமிழ் தேசிய கூட்டமைப்பின் வாக்குகளை பெறுவதற்காகவே  மாகாண சபை சட்டமூலம் கொண்டு வரப்பட்டுள்ளது.இந்த சட்டமூலத்தினால் வடக்கில் வாழும் முஸ்லிம் ,சிங்கள சமூகத்தினர் பாதிக்கப்படுவார்கள் என பாராளுமன்ற உறுப்பினர் விமல்  வீரவன்ச கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) இடம்பெற்ற அமர்வின் போது கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சுமந்திரன் மாகாண சபை தேர்தல்கள் (திருத்தச்) சட்டமூலத்தை இரண்டாம் வாசிப்புக்காக சபைக்கு சமர்ப்பித்தார்.
+
+இதன்போது எழுந்து உரையாற்றிய பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச,ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் அவசரமாக ஏன் தற்போது மாகாண சபை தேர்தல்கள் திருத்தச் சட்டமூலத்தை கொண்டு வர வேண்டும்.இதன் உண்மை தன்மை என்ன?
+
+...
+
+[Data](articles/d2527a49.json)
+
+---
 
 ### Namal tipped to be named SLPP presidential candidate as Dhammika Perera pulls out
 
@@ -49,6 +127,8 @@ Namal Rakapaksa will be the youngest candidate of this presidential poll if he c
 ◼️
 
 [Data](articles/3c183b08.json)
+
+[Extended Data](ext_articles/3c183b08.ext.json)
 
 ---
 
@@ -69,6 +149,20 @@ In a statement, 121 election related complaints have been reported from 31st Jul
 [Data](articles/7f2d730d.json)
 
 [Extended Data](ext_articles/7f2d730d.ext.json)
+
+---
+
+### ஜா-எலயில் துப்பாக்கிச் சூடு; ஒருவர் காயம்
+
+*2024-08-06 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190453) · `ta`
+
+குறித்த துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாகவும்,  துப்பாக்கிச்சூடு நடத்தியவர்கள் தப்பிச் சென்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+கடவட பிரதேசத்தில் வசிக்கும் 43 வயதுடைய நபரே துப்பாக்கிச் சூட்டுக்கு இலக்காகியுள்ளார். அவர் கம்பஹா வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f0c27dfa.json)
 
 ---
 
@@ -201,6 +295,40 @@ This time she is looking forward to the refuge of England and staying in India.
 [Data](articles/574d2228.json)
 
 [Extended Data](ext_articles/574d2228.ext.json)
+
+---
+
+### 19 இந்திய மீனவர்கள் விடுதலை ; 9 பேருக்கு தொடர்ந்தும் விளக்கமறியல்!
+
+*2024-08-06 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/190451) · `ta`
+
+31 இந்திய மீனவர்களுக்கு எதிரான வழக்கு 06ஆம் திகதி செவ்வாய்க்கிழமை ஊர்காவற்துறை நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இதன்போது ஜூன் 22ஆம் திகதி 3 படகுகளில் எல்லை தாண்டி வந்து கைதான 22 மீனவர்களில் 19 பேர், ஆறு வருடங்கள் ஒத்திவைக்கப்பட்ட 24 மாத சிறைத் தண்டனை என்ற அடிப்படையில் விடுதலை செய்யப்பட்டனர்.
+
+அத்துடன் படகோட்டிகள் மூவரும் தலா 40 இலட்சம் ரூபா தண்டப்பணம் செலுத்தவேண்டும். இல்லாவிட்டால் 1 வருட கடூழிய சிறை தண்டனையை அனுபவிக்க வேண்டும் என்று தீர்ப்பளிக்கப்பட்டது.
+
+அடுத்ததாக ஜூலை 23ஆம் திகதி கைதான 9 மீனவர்கள் ஏற்கனவே ஒருதடவை விளக்கமறியலில் வைக்கப்பட்ட நிலையில், குற்றப்பத்திரிகை இரண்டாவது தடவையாகவும் தாக்கல் செய்யப்பட்ட நிலையில் தொடர்ந்தும் இம்மாதம் 20ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/4b9972a6.json)
+
+---
+
+### காணாமல்போன ரயில்வே ஊழியர் சடலமாக மீட்பு!
+
+*2024-08-06 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190449) · `ta`
+
+காணாமல் போன ரயில்வே ஊழியரின் சடலம் மாளிகாவத்தை ரயில்வே பாதையிலுள்ள உள்ள கிணற்றில் இருந்து கண்டெடுக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இவருடன் பணிபுரியும் ஏனையவர்கள் மேற்கொண்ட தேடுதலின் போது தெமட்டகொட புகையிரத நிலையத்தில் உள்ள கிணறு ஒன்றிற்கு அருகில் அவரது என சந்தேகிக்கப்படும் பணப்பை, கையடக்க தொலைபேசி மற்றும் ஒரு ஜோடி காலணிகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+இவ்வாறானதொரு பின்னணியில் குறித்த நபரை தேடும் நடவடிக்கையில் ரயில்வே அதிகாரிகளும் பொலிஸாரும் போதிய தலையீடுகளை மேற்கொள்ளவில்லை என தெரிவித்து புகையிரத ஊழியர்கள் 05ஆம் திகதி திங்கட்கிழமை காலை தமது கடமைகளை விட்டு வெளியேறியதையடுத்து ரயில் போக்குவரத்து தடைப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d00b9436.json)
 
 ---
 
@@ -906,6 +1034,20 @@ Moreover, the student body has insisted that they have no agreement with the mil
 
 ---
 
+### பிரதேச ஊடகவியலாளர்களுக்கு 5000 ரூபா வழங்கவில்லை - தொலவத்த மற்றும்  கிரியெல்லவுக்கிடையில் தர்க்கம்
+
+*2024-08-06 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190431) · `ta`
+
+பிரதேச ஊடகவியலாளர்களை ஜனாதிபதி செயலகம் கொழும்புக்கு அழைத்து வந்ததாகவும், அவர்களுக்கு 5000 ரூபா வவுச்சர் வழங்குவதாகவும் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல குறிப்பிட்ட கருத்து முற்றிலும் பொய்யானது. இதனை நான் நிராகரிக்கிறேன் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி.தொலவத்த குறிப்பிட்டார்.
+
+அமைச்சர் மனுஷ நாணயக்காரவின் ஏற்பாட்டில் தான் பிரதேச ஊடகவியலாளர்கள் கொழும்புக்கு அழைக்கப்பட்டுள்ளார்கள்.நான் பொய்யுரைக்கவில்லை.உண்மையை குறிப்பிடுகிறேன் என எதிர்க்கட்சியின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல குறிப்பிட்டார்.
+
+...
+
+[Data](articles/763c8a44.json)
+
+---
+
 ### Regional Centre for Maritime Studies in Sri Lanka with French support
 
 *2024-08-06 16:12:00* · [`economynextcom`](https://economynext.com/regional-centre-for-maritime-studies-in-sri-lanka-with-french-support-175505/) · `en`
@@ -1025,6 +1167,22 @@ The same date is the day when the Little Boy, the US -threatened bomb in 1945, c
 [Data](articles/e126bea1.json)
 
 [Extended Data](ext_articles/e126bea1.ext.json)
+
+---
+
+### ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கான 15 வீத வட்டி வீதத்தை வழங்குவதாக அளித்த வாக்குறுதியை நிறைவேற்றுங்கள் -  எதிர்க்கட்சித் தலைவர் அரசாங்கத்திடம் கோரிக்கை
+
+*2024-08-06 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190417) · `ta`
+
+ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கான விசேட 15வீத வட்டி வீதத்தை பெற்றுக்கொடுப்பதாக அரசாங்கம் பல தடவைகள் தெரிவித்திருந்தபோதும் இதுவரை அதனை வழங்க தவறி இருக்கிறது. அதனால் அரசாங்கம் இவர்களுக்கு அளித்த வாக்குறுதியை நிறைவேற்ற நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+ஓய்வூதியர்கள் மற்றும் முதியோர்களுக்கு வழங்கப்பட்டுவந்த விசேட 15வீத வட்டி வீதத்தை குறைத்து அதனை 7.15வீதம் வழங்க நடவடிக்கை எடுத்திருந்தது. 2016இல் இருந்து 2020வரை இதனை செயற்படுத்துவதாகவும் அரசாங்கம் தெரிவித்திருந்தது. இருந்தபோதும் இந்த வட்டி வீதத்தை மீண்டும் 15வீதமாக அதிகரி்த்துக்கொடுக்க அரசாங்கம் தவறி இருக்கிறது.
+
+முதியோர்கள் மிகவும் கஷ்டத்துக்கு மத்தியில் வங்கிகளில் சேமிக்கும் பணத்துக்கு கிடைக்கப்பெறும் வட்டியை கொண்டே தங்களின் வாழ்க்கையை கொண்டு செல்கின்றனர். அவர்களின் இந்த 15வீத வட்டி வீதத்தை வழங்குவதாக அரசாங்கம் இந்த சபையில் பல தடவைகள் தெரிவித்திருக்கிறது. ஆனால் செயற்படுத்துவதில்லை. அமைச்சர் ஒருவர் இந்த சபையில் பொறுப்புடன் ஒரு விடயத்தை தெரிவித்தால், அதனை செயற்படுத்த வேண்டும்.
+
+...
+
+[Data](articles/fdb9c0dc.json)
 
 ---
 
@@ -2041,213 +2199,5 @@ Sri Lanka has already signed a free trade deal with Thailand and Singapore, whic
 [Data](articles/0d736930.json)
 
 [Extended Data](ext_articles/0d736930.ext.json)
-
----
-
-### Sri Lanka plans to ink Preferential Trade Agreement with Indonesia next March
-
-*2024-08-06 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-ink-preferential-trade-agreement-with-indonesia-next-march-175418/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to sign a preferential trade agreement in March 2025, to boost the country’s export potential, Cabinet spokesman Bandula Gunawardana said.
-
-Negotiators from the two countries had met in Colombo on July 15 and 16 and agreed to finalized talks by December 2024.
-
-Sri Lanka has already signed a free trade deal with Thailand and Singapore, which will progressively liberalize trade over a number of years.
-
-◼️
-
-[Data](articles/311a455d.json)
-
-[Extended Data](ext_articles/311a455d.ext.json)
-
----
-
-### Presidential election deposit paid for Sri Lanka’s Anura Dissanayake
-
-*2024-08-06 11:29:00* · [`economynextcom`](https://economynext.com/presidential-election-deposit-paid-for-sri-lankas-anura-dissanayake-175412/) · `en`
-
-ECONOMYNEXT — The leftist National People’s Power (NPP) has paid the cash deposit for the candidature of party leader Anura Kumara Dissanayake at Sri Lanka’s 2024 presidential election.
-
-News footage showed that NPP parliamentarians Harini Amarasuriya and Vijitha Herath and attorney-at-law Sunil Watagala and others arrive at the premises of the Election Commission Tuesday August 06 morning to pay the deposit.
-
-Seventeen contestants have paid their deposit for the upcoming election which is scheduled to be held on September 21.
-
-As per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
-
-These amounts have not been revised in 43 years, opposition MP Dullas Alahapperuma recently told parliament.
-
-...
-
-[Data](articles/2bdf44a5.json)
-
-[Extended Data](ext_articles/2bdf44a5.ext.json)
-
----
-
-### Approval to remove public servants' pension anomalies
-
-*2024-08-06 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199621) · `si`
-
-The President has approved a proposal to rectify pension discrepancies affecting public servants who retired between specific dates. These anomalies were caused by past government policies, leading to unfair treatment of certain retirees. The decision aims to address this issue, benefiting approximately 83,000 former public officers, aligning with financial stability and national policy objectives outlined in Public Administration Circular No. 03/2018.
-
-🟩
-
-The President has approved the proposal made by the President to remove the pension anomalies in the Public Service.
-
-Pension anomalies have been created due to various policy decisions taken by the government by the government.
-
-Accordingly, there is an injustice to state officials who retired from 01-101-2016 to 20-101.0101, the removal of the salary anomalies can be relieved in 83,000 retired public officersIs.
-
-Pension of those pension officers, as per Public Administration Circular No. 03/2018, President presented the financial stable and national policy to amend the maximum wage 1.The proposal was approved by the Cabinet.
-
-◼️
-
-[Data](articles/34d003b0.json)
-
-[Extended Data](ext_articles/34d003b0.ext.json)
-
----
-
-### Payment of control
-
-*2024-08-06 11:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-அநுர/175-341686) · `ta`
-
-Anura Kumara Dissanayake, National People's Power Leader, was authorized by PA Vijitha Herath, Dr. Harini Amarasuriya, and Attorney Sunil Vattakala to run in the 2024 presidential election. They officially submitted his candidacy to the Election Commission on Tuesday (06).
-
-🟩
-
-National People's Power Leader Anura Kumara Dissanayake has been controlled on Tuesday (06) to contest the 2024 presidential election.
-
-PA Vijitha Herath, Dr. Harini Amarasuriya and Attorney Sunil Vattakala visited the Election Commission to pay control on behalf of Anuragumara Dissanayake.
-
-◼️
-
-[Data](articles/61b412df.json)
-
-[Extended Data](ext_articles/61b412df.ext.json)
-
----
-
-### The monkey biting the bow hand
-
-*2024-08-06 11:07:07* · [`adalk`](https://www.ada.lk/breaking_news/දුන්න-අත-සපා-කෑ-වඳුරා/11-411222) · `si`
-
-An Italian tourist bitten by a monkey during a visit to Sri Lanka's Wilpattu National Park was hospitalized in Anuradhapura. The incident occurred when she tried to feed bananas to the animal, which then bit her hand.
-
-🟩
-
-It is reported that an Italian woman who is on a tour of the Wilpattu National National Park has been admitted to the Anuradhapura Teaching Hospital due to biting a monkey.
-
-The police said that the police said that the banana had been injured in a hand was taken away by a knee.
-
-The Italian woman, who was receiving treatment at Ward 4 of the Anuradhapura Hospital, said the police said.
-
-◼️
-
-[Data](articles/81b32ea9.json)
-
-[Extended Data](ext_articles/81b32ea9.ext.json)
-
----
-
-### The majority of the free party Ranil
-
-*2024-08-06 10:55:52* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-බහුතරය-රනිල්ටලු/11-411221) · `si`
-
-The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, with 90% of its executive council participating in the decision. The party has initiated efforts to secure his victory. Additionally, the Ministry of Transport announced plans to mitigate environmental impact through stricter vehicle emissions standards, issuing certificates, and increasing monitoring centers. These measures aim to improve air quality and reduce lung-related diseases, with programs for obtaining these certificates and licenses set to roll out nationwide soon.
-
-🟩
-
-The Sri Lanka Freedom Party officially decided to support President Ranil Wickremesinghe in the next presidential election and that 90% of the executive council participated in the entire executive council, said he said.
-
-The Sri Lanka Freedom Party (SLFP) has already begun to ensure the victory of President Ranil Wickremesinghe's victory.
-
-Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference at the Presidential Media Center.
-
-"Due to the transportation of the transport, there is a lot of damage to the ecosystem and our ecosystem. The smoke eating vehicles is special among. As a solution, we issue smoking certificates. Accordingly, our country's atmosphere is in good condition. This helps to minimize lungs related diseases.
-
-...
-
-[Data](articles/229f1ddf.json)
-
-[Extended Data](ext_articles/229f1ddf.ext.json)
-
----
-
-### AKD places deposits to contest Presidential Election
-
-*2024-08-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101030/akd-places-deposits-to-contest-presidential-election) · `en`
-
-Leader of the National People’s Power (NPP) MP Anura Kumara Dissanayake has placed deposits at the Election Commission this morning (06) to contest the upcoming Presidential Election.
-
-The NPP placed the deposit on behalf of Dissanayake to contest the presidential poll as its candidate, MP Vijitha Herath said, adding that they are ready to submit nominations for Dissanayake on August 15 accordingly.
-
-Speaking to the media, he expressed: “The people of the country are ready to hand over the country’s power to Anura, so we laid the foundation for that.”
-
-A total of 18 candidates including incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa, Field Marshal Sarath Fonseka and Wijeyadasa Rajapakshe have placed their deposits with the Election Commission thus far.
-
-This total includes 7 independent candidates whose names have been nominated by a voter, 10 candidates from recognized political parties and one candidate from other political parties.
-
-◼️
-
-[Data](articles/42c0eb56.json)
-
-[Extended Data](ext_articles/42c0eb56.ext.json)
-
----
-
-### Anura is bailed
-
-*2024-08-06 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199620) · `si`
-
-Anura Kumara Dissanayake, a candidate for the Presidential Election, was bailed out today (06).
-
-🟩
-
-Anura Kumara Dissanayake has deposited for the Presidential Election today (06) as candidate for the Presidential Election.
-
-◼️
-
-[Data](articles/1e81c7b1.json)
-
-[Extended Data](ext_articles/1e81c7b1.ext.json)
-
----
-
-### Anurath deposits bail
-
-*2024-08-06 10:39:54* · [`adalk`](https://www.ada.lk/breaking_news/අනුරත්-ඇප-මුදල්-තැන්පත්-කරයි/11-411220) · `si`
-
-Anura Kumara Dissanayake, a candidate for the upcoming presidential election, has been deposited as the leader of the National Jone Society.
-
-🟩
-
-The leader of the National Jone Society is deposited for the next presidential election for MP Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/158a33af.json)
-
-[Extended Data](ext_articles/158a33af.ext.json)
-
----
-
-### Cabinet approval to increase FD interest rates of senior citizens
-
-*2024-08-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101029/cabinet-approval-to-increase-fd-interest-rates-of-senior-citizens) · `en`
-
-The Cabinet of Ministers has approved the proposal to increase the annual interest rates of fixed deposits of senior citizens aged 60 years and above.
-
-Accordingly, the interest rates are to be increased from the current 8.5% to 10% for fixed deposits up to Rs. 01 million for a period of two years, the Cabinet Spokesman said.
-
-Speaking at the Cabinet press briefing held today (06), Minister Gunawardena stated that as the relevant interest rate has depreciated significantly to 8.5%, the senior citizen account holders have withdrawn their deposits.
-
-Thus, the proposal submitted by President Ranil Wickremesinghe as the Minister of Finance to increase the annual interest rates of fixed deposits of senior citizens was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/bebe81f7.json)
-
-[Extended Data](ext_articles/bebe81f7.ext.json)
 
 ---

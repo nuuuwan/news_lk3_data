@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 13:20:50**
+As of **2024-08-06 13:36:17**
 
 ## Newspaper Stats
 
-*Scraped **39,266** Articles*
+*Scraped **39,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,124 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
-economynextcom | 2,370
+economynextcom | 2,371
 dailyftlk | 2,519
 adalk | 3,605
-adaderanalk | 4,559
+adaderanalk | 4,561
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,923
 virakesarilk | 6,209
-adaderanasinhalalk | 6,639
+adaderanasinhalalk | 6,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,265 (100.0%) of 39,266 articles have been extended.
+39,266 (100.0%) of 39,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### අභියාචනයකින් ලැබුණු ඔලිම්පික් පදක්කම
+### Tamil Progressive Alliance to back Sajith in Presidential Poll
 
-*2024-08-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199623) · `si`
+*2024-08-06 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101037/tamil-progressive-alliance-to-back-sajith-in-presidential-poll-) · `en`
 
-පැරිස් ඔලිම්පික් උලෙළේ ඊයේ (05) රාත්‍රීයේ පැවති කාන්තා මීටර 5000 ඉසව්ව ඉතා ආන්දෝලනාත්මක තරඟ ඉසව්වක් බවට පත්වුණි.
+The Tamil Progressive Alliance (TPA) led by MP Mano Ganesan has decided to support Opposition Leader Sajith Premadasa at the upcoming Presidential Election.
 
-එම ඉසව්ව මිනිත්තු 14යි තත්පර 28.56කින් නිමකළ කෙන්යාවේ බියට්‍රිස් චෙබට් රන් පදක්කම හිමිකර ගෙන තිබුණි.
+Speaking to the media, MP Ganesan said that they have reached a Memorandum of Understanding (MoU) with the ‘Samagi Jana Sandhanaya’ led by the Opposition Leader, to pledge their support in the 2024 Presidential Poll.
 
-රිදී පදක්කම කෙන්යාවේ ෆේත් කිප්යෙගෝන් හිමිකරගත් අතර ලෝකඩ පදක්කම හිමිකර ගත්තේ නෙදර්ලන්තයේ සිෆාන් හසන් විසිනි.
+◼️
 
-කෙසේ වෙතත් රිදී පදක්කම දිනූ ෆේත් කිප්යෙගෝන්,  කාන්තා මීටර 5000 ඉසව්වේ ලෝක වාර්තාවට හිමිකම් කියන ගුදාෆ් සෙගායිගේ ධාවනයට බාධා කළ බව පවසමින් ගුදාෆ් සෙගායි විසින් විරෝධතාවක් ගොනුකර තිබූයේ තරගය අවසන් වීමෙන් අනතුරුවය.
+[Data](articles/9e0a7010.json)
 
-එම විරෝධතාව සලකා බැලූ තරග සංවිධායකින් ෆේත් කිප්යෙගෝන්ට රිදී පදක්කම අහිමි කිරීමට තීරණය කර තිබුණේ මංතීරු නීතිය උල්ලංඝනය කිරීම සහ ධාවනයට බාධා එල්ල කිරීම යන සාධක පදකම් කරගනිමිනි.
+---
 
-නමුත් කෙන්යා මලල ක්‍රීඩා සංගමය නැවතත් එම තීරණය අභියෝගයට ලක්කරමින් ජාත්‍යන්තර මලල ක්‍රීඩා සංගමයට අභියාචනයක් ඉදිරිපත් කර තිබුණි.
+### Petition against minimum daily wage of plantation workers withdrawn
+
+*2024-08-06 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101036/petition-against-minimum-daily-wage-of-plantation-workers-withdrawn) · `en`
+
+The petition filed by plantation companies against the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers has been withdrawn.
+
+Accordingly, the Court of Appeal has decided to conclude the proceedings related to the case today (06), Ada Derana reporter said.
+
+The petition had been filed by 21 plantation companies including Agarapatana Plantations Ltd. seeking a writ order invalidating the recent gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
+
+The petitioners had claimed that the decision taken by the Minister of Labor without consulting them regarding the matter, violates the legal principle of natural justice.
+
+Accordingly, the petitioners had sought an order invalidating the decision, claiming that the decision was made arbitrarily by the government.
 
 ...
 
+[Data](articles/87039f47.json)
+
+---
+
+### මනෝ ප්‍රමුඛ සන්ධානයේ සහාය සජිත්ට
+
+*2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199625) · `si`
+
+දෙමළ ප්‍රගතිශීලි සන්ධානය ප්‍රමුඛ දෙමළ දේශපාලන පක්ෂවල සහාය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට ලබාදීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/814dfb09.json)
+
+---
+
+### කාන්තා 20යි 20 ලෝක කුසලාන බංග්ලාදේශයට අහිමි වෙයිද ?
+
+*2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199626) · `si`
+
+ඔක්තෝබර් මාසයේ බංග්ලාදේශයේ පැවැත්වීමට නියමිත කාන්තා 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සම්බන්ධයෙන් ද මතුව ඇත්තේ අවිනිශ්චිත තත්ත්වයකි.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පවසන්නේ, කාන්තා 20-20 ලෝක කුසලාන තරගාවලිය බංග්ලාදේශයේ පැවැත්වීමට නොහැකි වුවහොත් එක්සත් අරාබි එමීර් රාජ්‍යය, ඉන්දියාව හෝ ශ්‍රී ලංකාව යන රටවල් තුනෙන් එකකදී පැවැත්වීමට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/bb756c4a.json)
+
+---
+
+### බංග්ලාදේශයට අන්තර්වාර රජයක්
+
+*2024-08-06 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199624) · `si`
+
+අර්බුදයට තුඩුදී තිබෙන බංග්ලාදේශයේ වත්මන් පාර්ලිමේන්තුව විසුරුවා අද (06) අන්තර්වාර රජයක් පත්කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/e2d9ed1f.json)
+
+---
+
+### Olympic medal received from an appeal
+
+*2024-08-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199623) · `si`
+
+In the Paris Olympics, the women's 5000m event saw Kenya win gold and Siphana Hasan of the Netherlands take bronze. However, Fieth Kipyegon lost her silver medal due to a lane violation. Kenya's Athletics Association appealed this decision to the International Athletics Union, leading to a review where Kipyegon was awarded the silver medal after all.
+
+🟩
+
+The 5000 mem mem day event, the 5000 meters of women in the Paris Olympics was elected yesterday (05).
+
+The event was held in Kenya, Kenya, who was completed for 14 minutes and 28.56 seconds.
+
+The silver medal was won by Kenya, Kenya, and won the bronze medal by Siphan Hasan, the Netherlands.
+
+However, Manaif Segai, claimed to the world's record of the 5000 meter event, was over the end of the race.
+
+Fieth KiPygia, a member of the Commonwealth, decided to lose the silver medal by violating the lane law and interrupting the lane law.
+
+However, Kenya Athletics Association has appealed to the International Athletics Union, who challenged the decision again.
+
+The International Athletics Association, which was conducted by the International Athletics Association, which was conducted by the International Athletic Association has not made any mistake of the incident, has reportedly stated that he has not faced a silver medal.
+
+◼️
+
 [Data](articles/a77ffd8d.json)
+
+[Extended Data](ext_articles/a77ffd8d.ext.json)
 
 ---
 
@@ -117,6 +197,26 @@ The handing over of autographed kit to the International Olympic Committee offic
 [Data](articles/118ee7a1.json)
 
 [Extended Data](ext_articles/118ee7a1.ext.json)
+
+---
+
+### Sri Lanka to seek PPPs for futsal courts, Pakistan help for two
+
+*2024-08-06 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-ppps-for-futsal-courts-pakistan-help-for-two-175404/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking for private investors to build futsal courts within government building premises, with a Pakistan grant to be used to install two courts in the Torrington and Sugathadasa complexes, Cabinet spokesman minister Bandula Gunawardena said.
+
+“There are several futsal indoor stadiums in urban areas,” Gunawardena told reporters on Tuesday. And since there is a higher attraction for this sport, there was need to “expand the game”.
+
+The government plans to establish more indoor futsal stadiums at a commercial level, he said, and is looking for private investors for constructing them in “identified government lands and sports complex premises”.
+
+The state will provide the property on an 80-year-lease basis, to a private investor under a public-private partnership, the minister said.
+
+A Pakistan Government grant will be used to install two courts in the Torrington and Sugathadasa sports complexes, Gunawardena said.
+
+...
+
+[Data](articles/84608e91.json)
 
 ---
 
@@ -477,6 +577,10 @@ The leader of the National Jone Society is deposited for the next presidential e
 The Cabinet of Ministers has approved the proposal to increase the annual interest rates of fixed deposits of senior citizens aged 60 years and above.
 
 Accordingly, the interest rates are to be increased from the current 8.5% to 10% for fixed deposits up to Rs. 01 million for a period of two years, the Cabinet Spokesman said.
+
+Speaking at the Cabinet press briefing held today (06), Minister Gunawardena stated that as the relevant interest rate has depreciated significantly to 8.5%, the senior citizen account holders have withdrawn their deposits.
+
+Thus, the proposal submitted by President Ranil Wickremesinghe as the Minister of Finance to increase the annual interest rates of fixed deposits of senior citizens was approved by the Cabinet of Ministers.
 
 ◼️
 
@@ -2039,121 +2143,5 @@ The general candidate is not going to win. The Tamil people, including Samasti, 
 [Data](articles/0ec67436.json)
 
 [Extended Data](ext_articles/0ec67436.ext.json)
-
----
-
-### Unlocking the power of migration towards Sustainable Development in Sri Lanka
-
-*2024-08-05 22:31:00* · [`islandlk`](http://island.lk/unlocking-the-power-of-migration-towards-sustainable-development-in-sri-lanka/) · `en`
-
-With the Government of Sri Lanka adopting the 2030 Agenda for Sustainable Development in 2015 and the Global Compact for Safe, Orderly and Regular Migration (GCM) in 2018, the need for monitoring and assessing the contribution of migration is stronger than ever. Harnessing the synergy between the Sustainable Development Goals (SDGs) and the GCM is crucial to propel the country forward. By aligning the SDGs and the GCM, Sri Lanka can create a holistic approach to sustainable development that acknowledges the multifaceted role of migration.
-
-The Sustainable Development Council (SDC) and International Organization for Migration (IOM) successfully wrapped up a Sensitization Workshop on the Correlation between Migration and the SDGs on 31st July. The workshop primarily focused on ways and means to address gaps in migration-related data in order to develop a national framework for monitoring and assessing the contribution of migration towards the SDGs.
-
-...
-
-[Data](articles/dc9f382d.json)
-
-[Extended Data](ext_articles/dc9f382d.ext.json)
-
----
-
-### Middle East tensions take toll on bourse despite Browns Investments’ overseas acquisitions
-
-*2024-08-05 22:30:00* · [`islandlk`](http://island.lk/middle-east-tensions-take-toll-on-bourse-despite-browns-investments-overseas-acquisitions/) · `en`
-
-The stock market yesterday witnessed an acute dip due to external and internal uncertainties. Most global stock markets also fell due to tensions in the Middle East, coupled with volatile political and economic situations in countries, market analysts said.
-
-Further, the local stock market did not react positively despite Browns Investments completing the acquisition of Lipton tea companies in Kenya and Rwanda from their UK and Netherlands- based parents.
-
-“This acquisition was executed through our wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates, the company said.
-
-The acquisition of Lipton Teas and Infusions Tanzania Limited, another target company, is pending due to outstanding approval from the Fair Competition Commission of Tanzania, the company added.
-
-...
-
-[Data](articles/ebe4b521.json)
-
-[Extended Data](ext_articles/ebe4b521.ext.json)
-
----
-
-### Sheikh Hasina may not return to politics, says son
-
-*2024-08-05 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101024/sheikh-hasina-may-not-return-to-politics-says-son) · `en`
-
-Sheikh Hasina, who stepped down from the post of the Prime Minister of Bangladesh and fled the turmoil-hit nation today, may not return to politics, her son and former Chief Advisor has said. Disappointed by the strong public sentiment against her government despite her efforts to transform the country, she has decided to quit, Sajeeb Wajed Joy said at BBC’s World Service’s Newshour program.
-
-“She has turned Bangladesh around. When she took over power it was considered a failing state. It was a poor country. Until today it was considered one of the rising tigers of Asia,” Mr Joy said.
-
-Over the last month, more than 300 people died in Bangladesh amid violent protests, which though started over quota, shortly transformed into a call for the Prime Minister to step down.
-
-Sheikh Hasina’s critics accused her not just of corruption and nepotism but also high-handedness and curtailing of civil liberties. These, many alleged, overshadowed the economic progress and development she had brought about.
-
-...
-
-[Data](articles/a8a6dc55.json)
-
-[Extended Data](ext_articles/a8a6dc55.ext.json)
-
----
-
-### The Election Commission has stopped the government's main two projects
-
-*2024-08-05 22:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-முக்கிய-2-திட்டங்களை-நிறுத்தியது-தேர்தல்-ஆணையம்/175-341657) · `ta`
-
-The Sri Lanka Election Commission suspended two key government initiatives: the Suraksha Student Insurance Scheme and the Urumaya Land Recognition Program, due to a written request from the president's secretary, pending the outcome of the upcoming presidential election.
-
-🟩
-
-The Sri Lanka Election Commission has ordered the suspension of two major government schemes, such as the Suraksha Student Insurance Scheme and the Urumaya Land Recognition Program.
-
-The country's election chief said that the president's secretary was in writing to temporarily suspend this program until the presidential election is over.. Remble
-
-◼️
-
-[Data](articles/4382c9a7.json)
-
-[Extended Data](ext_articles/4382c9a7.ext.json)
-
----
-
-### New news for vehicle owners
-
-*2024-08-05 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199601) · `si`
-
-Transport Minister Lasantha Alagiyawanna announced that many vehicles fail annual emission tests due to non-compliance with standards. He also mentioned a new system to streamline vehicle licensing and insurance processes, reducing the need for customers to visit multiple locations. This initiative, set to roll out nationwide within two months, aims to simplify procedures and enhance service efficiency.
-
-🟩
-
-The Minister of Transport Lasantha Alagiyawanna stated that out of the annual vehicle emission tests in the country, the private minister of Transport Lasantha Alagiyawanna said.
-
-He points out that the vehicles are not in accordance with the due standard.
-
-Addressing a media briefing held at the Presidential Media Center today (05), State Minister Lasantha Alagiyawanna made these comments.
-
-Speaking further the public minister said that the vehicle license and insurance cover will be prepared with the same location.
-
-...
-
-[Data](articles/89039c83.json)
-
-[Extended Data](ext_articles/89039c83.ext.json)
-
----
-
-### WISTA hosts Karen Leong for keynote on transformative leadership on 13 Aug.
-
-*2024-08-05 22:11:12* · [`dailyftlk`](https://www.ft.lk/business/WISTA-hosts-Karen-Leong-for-keynote-on-transformative-leadership-on-13-Aug/34-765185) · `en`
-
-In a rapidly evolving world marked by technological advancements, geopolitical uncertainties, shifting customer expectations, and significant workplace transformations, the need for transformative leadership has never been more critical.
-
-The Women’s International Shipping and Trading Association (WISTA) Sri Lanka, celebrating its 10th anniversary, is set to address these pressing challenges with a significant event titled “Charting the Course of Success in a Disruptive World”. Scheduled for 13 August 2024, at the Oak Room, Cinnamon Grand Colombo, this event features the esteemed Karen Leong, a globally recognised thought leader in sustainable transformation.
-
-...
-
-[Data](articles/904f3623.json)
-
-[Extended Data](ext_articles/904f3623.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 14:07:40**
+As of **2024-08-06 14:20:48**
 
 ## Newspaper Stats
 
-*Scraped **39,275** Articles*
+*Scraped **39,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,371
 dailyftlk | 2,519
-adalk | 3,606
+adalk | 3,607
 adaderanalk | 4,562
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,923
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,272 (100.0%) of 39,275 articles have been extended.
+39,275 (100.0%) of 39,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ All complaints received thus far are related to breaches of election laws, accor
 
 [Data](articles/a94c3abf.json)
 
+[Extended Data](ext_articles/a94c3abf.ext.json)
+
 ---
 
-### මැතිවරණ පැමිණිලි තවත් ඉහළට
+### Election Complaints
 
 *2024-08-06 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199627) · `si`
 
-ජනාධිපතිවරණයට අදාළව මැතිවරණ පැමිණිලි 99ක් මේ වනවිට ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Elections Commission reported receiving 99 election complaints from July 31 to 5 pm yesterday, all related to the presidential election.
 
-එම කොමිසම සඳහන් කරන්නේ, ජුලි 31 වනදා සිට ඊයේ (05) පස්වරු 05 දක්වා එම පැමිණිලි වාර්තා වූ බවය.
+🟩
+
+The Elections Commission says that 99 election complaints have been received regarding the presidential election.
+
+The Commission said that the complaints were reported from July 31 to 5 pm yesterday (05).
 
 ◼️
 
 [Data](articles/4b61f6df.json)
+
+[Extended Data](ext_articles/4b61f6df.ext.json)
 
 ---
 
@@ -294,6 +302,30 @@ The state will provide the property for the playground premises on an 80-year-le
 
 ---
 
+### පොහොට්ටුව කඩන්න ජනාධිපතිතුමා කිසිම අවස්ථාවක කටයුතු කළේ නෑ
+
+*2024-08-06 12:24:32* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-කඩන්න-ජනාධිපතිතුමා-කිසිම-අවස්ථාවක-කටයුතු-කළේ-නෑ/11-411226) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කිසිඳු අවස්ථාවක ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ කිරීමට කටයුතු නොකළ බව තමන් ඉතාම වගකීමෙන් ප්‍රකාශ කරන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා පවසන්නේ පක්ෂයක් ලෙස එකට එක්වී කටයුතු කළ යුතු බව ජනාධිපතිවරයා සෑම විටම පැවසූ බවයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මන්ත්‍රීවරුන්ගේ විශේෂ සාකච්ඡාවක් ඊයේ (05) රාත්‍රී බත්තරමුල්ලේ පිහිටි හෝටලයකදී පැවැත්විණ.
+
+මෙම සාකච්ඡාව සඳහා අමාත්‍යවරුන් වන ප්‍රසන්න රණතුංග, කංචන විජේසේකර, රමේෂ් පතිරණ, අලි සබ්රි ඇතුළු මැති ඇමතිවරුන් රැසක් සහභාගී වූහ.
+
+ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය සඳහා දිස්ත්‍රික් මට්ටමින් ජනතාව දැනුවත් කිරීමේ වැඩපිළිවෙළ පිළිබඳව මෙම සාකච්ඡාවේ දී අවධානය යොමුව තිබේ.
+
+සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය,
+
+ප්‍රශ්නය - ජනාධිපතිවරයා ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ කළ බවට චෝදනාවක් තිබෙනවා. ඒ ගැන මොකද කියන්නේ?
+
+...
+
+[Data](articles/0754451f.json)
+
+---
+
 ### Kiriella reveals about violating election laws
 
 *2024-08-06 12:24:01* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති-උල්ලංඝණය-කිරීමක්-ගැන-කිරිඇල්ලගෙන්-අනාවරණයක්/11-411225) · `si`
@@ -396,17 +428,27 @@ Accordingly, it has been observed that the government officers who retired from 
 
 ---
 
-### වාණිජ පුපුරණ ද්‍රව්‍ය ‍තොගයක් නාවික හමුදා භාරයට
+### Navy bears commercial explosives
 
 *2024-08-06 11:58:49* · [`adalk`](https://www.ada.lk/breaking_news/වාණිජ-පුපුරණ-ද්‍රව්‍ය-‍තොගයක්-නාවික-හමුදා-භාරයට/11-411223) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව මන්නාරම සවුත්බාර් ප්‍රදේශයේ 2024 අගෝස්තු මස 05 වන දින සිදුකළ සෝදිසි මෙහෙයුමකදී, එම ප්‍රදේශයේ සඟවා තිබූ ජෙලට්නයිට් නමැති වාණිජ පුපුරණ ද්‍රව්‍ය කූරු හැටක් (60), විදුලි නොවන ඩෙට‍නේටර් තිහක් (30), C4 වර්ගයේ පුපුරණ ද්‍රව්‍ය ග්‍රෑම් තුන්සියය පනහක ප්‍රමාණයක් (350g) සමඟ එම පුපුරණ ද්‍රව්‍ය ප්‍රවාහනය කල බවට සැකකෙරෙන කැබ් රථයක් (01) නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+Sri Lanka Navy investigated a cab transporting commercial explosives in Mannar, suspecting it for the illegal fishing industry. They took custody of a non-electric detonator from the ship Gaja, aiming to prevent ecological damage. The case was handed over to the Mannar Police Station.
 
-පුපුරණ ද්‍රව්‍ය භාවිතයෙන් සිදු කරනු ලබන නීති විරෝධී ධීවර කර්මාන්තය හේතුවෙන් සාගරික පරිසර පද්ධතියට සිදුවන හානිය වැළැක්වීම සඳහා නාවික හමුදාව නිරන්තර අවධානයෙන් සිටිමින් සෝදිසි මෙහෙයුම් සිදු කරනු ලබයි.
+🟩
 
-...
+Investigation operations conducted by the Sri Lanka Navy in Mannar.Steps were taken to obtain a cab (01) a cab suspected to transport the explosives.
+
+Due to explosives, the Navy is conducting further attention to prevent the damage to the ocean ecosystem.
+
+Accordingly, Sri Lanka Naval Ship Gaja belonging to the North Central Marine Directiva, a non-electrification detonator (30)(Colombo-Lankapuvath) The Navy was taken into custody with a cab suspect that the explosives were transported with Rs. 350G.
+
+It is believed to be hidden in the Southbar to use explosives for illegal fishing industry.Steps were handed over to the Mannar Police Station.
+
+◼️
 
 [Data](articles/81b42d53.json)
+
+[Extended Data](ext_articles/81b42d53.ext.json)
 
 ---
 
@@ -1948,10 +1990,6 @@ The deadline for submitting postal voting applications, originally set to expire
 
 *2024-08-06 00:36:11* · [`dailyftlk`](https://www.ft.lk/business/Empowering-entrepreneurs-Expert-Insights-from-the-Human-Capital-Summit-2024/34-765192) · `en`
 
-With a focus on navigating the complexities of launching and scaling new ventures, the Start-ups Pillar of the Human Capital Summit 2024 offered invaluable insights into the strategies, challenges, and opportunities of the entrepreneurial landscape.
-
-This pillar, headlined by influential figures such as Invest India former Managing Director and CEO Deepak Bagla, and Art Dane Finch, a notable South African-American entrepreneur and investor, tech consultant, and Founder of the Yung Drung Export Hub, highlighted the critical elements of successful startups, from securing funding and supporting innovation to building resilient teams and creating impactful customer experiences.
-
 ...
 
 [Data](articles/9cff804f.json)
@@ -2141,19 +2179,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/1955720d.json)
 
 [Extended Data](ext_articles/1955720d.ext.json)
-
----
-
-### 21st Annual Geoffrey Bawa Memorial Lecture by Anupama Kundoo
-
-*2024-08-05 22:36:00* · [`islandlk`](http://island.lk/21st-annual-geoffrey-bawa-memorial-lecture-by-anupama-kundoo/) · `en`
-
-The 2024 Geoffrey Bawa Memorial Lecture will be delivered by architect and educator Anupama Kundoo at 6:30 p.m. on 9th August at the Sri Lanka Foundation Institute (No.100, Sri Lanka Padanama Mawatha, Independence Square, Colombo 7). Her talk is titled “Rethinking Material Resources alongside Human Resourcefulness.”
-
-...
-
-[Data](articles/eb59e90e.json)
-
-[Extended Data](ext_articles/eb59e90e.ext.json)
 
 ---

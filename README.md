@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 17:36:52**
+As of **2024-08-06 17:57:13**
 
 ## Newspaper Stats
 
-*Scraped **39,318** Articles*
+*Scraped **39,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ adaderanalk | 4,567
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
 virakesarilk | 6,216
-adaderanasinhalalk | 6,652
+adaderanasinhalalk | 6,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,301 (100.0%) of 39,318 articles have been extended.
+39,314 (100.0%) of 39,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### பங்களாதேசின் முன்னாள்  அமைச்சர் கைது
+### මත්පැන් හල් බලපත්‍ර සම්බන්ධයෙන් අධිකරණ නියෝගයක්
+
+*2024-08-06 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199637) · `si`
+
+සුරාබදු රෙගුලාසිවලට පටහැනි ආකාරයට මත්පැන් හල් බලපත්‍ර නිකුත් කිරීම සඳහා අයදුම්පත් භාරගැනීම සහ බලපත්‍ර නිකුත් කිරීම වළක්වමින් නිකුත් කර තිබූ අතුරු තහනම් නියෝගය දීර්ඝ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (06) තීන්දු කළේය.
+
+සුරාබදු රෙගුලාසිවලට පටහැනිව නිකුත් කර තිබෙන මත්පැන් බලපත්‍ර අභියෝගයට ලක් කරමින් මත්පැන් හල්හිමියන් පිරිසක් විසින් ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් 04ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය එම නියෝගය නිකුත් කර ඇත.
+
+මෙම අතුරු තහනම් පෙත්සම් විභාගය අවසන් වන තෙක් බල පැවැත්වෙන බවත් නියෝගයේ සඳහන් ය.
+
+ඒ අනුව අදාළ පෙත්සම්වල වගඋත්තරකරුවන් ලෙස නම්කර තිබූ මුදල් අමාත්‍යවරයා, සුරාබදු කොමසාරිස් ජනරාලරයා ඇතුළු පිරිසකට එරෙහිව නඩු විභාගයක් පැවැත්වීමට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මෙම පෙත්සම්වලට අදාළ විරෝධතා ඇත්නම්  ඒවා සති හයක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් වගඋත්තරකරුවන්ට නියෝග කෙරුණි.
+
+ප්‍රතිවිරෝධතා තිබේ නම් ඒවා සති හතරක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් පෙත්සම්කාර පාර්ශ්වයට අධිකරණය විසින් නියෝග කළේය.
+
+...
+
+[Data](articles/b7d5d5fd.json)
+
+---
+
+### Former minister of Bangladesh
 
 *2024-08-06 17:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேசின்-முன்னாள்-அமைச்சர்-கைது/50-341699) · `ta`
 
-பங்களாதேஷின் முன்னாள் அமைச்சரும், அவாமி லீக் கட்சியின் தலைவருமான ஜூனைத் அஹமதுவை இராணுவம் கைது செய்தது.
+Junaid Ahmed, ex-minister and Awami League leader, was arrested by the Bangladeshi army after PM Sheikh Hasina resigned amid student protests. President Shahabuddin ordered the release of those arrested between July 1st and August 5th, including former PM Kalithajia on corruption charges.
 
-பங்களாதேசில் ஒரு மாதமாக நடந்த மாணவர் போராட்டங்களில், 300க்கும் மேற்பட்டோர் உயிரிழந்த நிலையில், பிரதமர் ஷேக் ஹசீனா நேற்று தன் பதவியை இராஜினாமா செய்து, நாட்டை விட்டு வெளியேறினார். அங்கு ஆட்சியை இராணுவம் கையில் எடுத்தது.
+🟩
 
-இந்நிலையில், அந்நாட்டு பாராளுமன்றத்தைக் கலைத்த ஜனாதிபதி ஷஹாபுதீன், ஜூலை 1 முதல் ஆக.,5 வரை கைதான அனைவரையும் விடுதலை செய்யவும் உத்தரவிட்டுள்ளார்.
+The army arrested Junaid Ahmed, the former minister of Bangladesh and leader of the Awami League.
 
-மேலும், ஊழல் வழக்கில் கைதாகி சிறையில் இந்த முன்னாள் பிரதமர் கலிதாஜியாவை விடுதலை செய்ய ஜனாதிபதி நேற்று உத்தரவிட்டார். இதனையடுத்து இன்று அவர் விடுதலை செய்யப்பட்டார்.
+Prime Minister Sheikh Hasina resigned from his post yesterday and left the country in a one -month student protests in Bangladesh.. The army took the regime there.
 
-இதற்கிடையே, ஹசீனா அமைச்சரவையில் தகவல் தொழில்நுட்பத்துறை அமைச்சராக பதவி வகித்தவரும், அவாமி லீக் கட்சி தலைவருமான ஜூனைத் அஹமதுவை பொலிஸார் கைது செய்தனர்.
+President Shahabuddin, who dissolved the country's parliament, has ordered the release of all arrested from July 1 to August 5.
+
+Moreover, the President yesterday ordered the release of the former Prime Minister Kalithajia in the case of corruption. He was released today.
+
+Meanwhile, the police have arrested Junaid Ahmed, the leader of the Awami League Party, who was the Minister of Information Technology in the Hasina Cabinet.
 
 ◼️
 
 [Data](articles/3dd33e8a.json)
+
+[Extended Data](ext_articles/3dd33e8a.ext.json)
 
 ---
 
@@ -70,35 +96,49 @@ In 2022, LB Finance bought a 64 percent stake in Mutli Finance for 400 million r
 
 [Data](articles/23ed6b09.json)
 
+[Extended Data](ext_articles/23ed6b09.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ තත්ත්වය ගැන ජනපතිගෙන් හෙළිදරව්වක්
+### President reveals about Bangladesh situation
 
 *2024-08-06 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199636) · `si`
 
-ෂෙයික් හසීනා මීට පෙර එක් පියවරක් අනුගමනය කර තිබුණේ නම් අද බංග්ලාදේශය තුළ මෙවැනි තත්ත්වයක් ඇති නොවන්නට ඉඩ තිබූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe praised Sheikh Hasina for her financial aid during a tough time, suggesting her actions could have prevented current issues in Bangladesh. He also highlighted Sri Lanka's commitment to supporting Bangladesh economically and environmentally, aiming for sustainable development by 2040 despite global challenges.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (06) පෙරවරුවේ කොළඹ සිනමන් ග්‍රෑන්ඩ් හෝටලයේදී ආරම්භ කෙරුණු 2024 පරිසර, සමාජීය හා පාලනය (ESG) පිළිබඳ සමුළුව අමතමිනි.
+🟩
 
-"අපගේ මිත්‍ර රටක් වන බංගලාදේශයේ දේශපාලනය පිළිබඳ කතා කිරීමට මා අදහස් නොකරන නමුත් ඒ පිළිබඳ යමක් සඳහන් කළයුතුයි. ෂෙයික් හසීනා මහත්මිය අග්‍රාමාත්‍ය ධුරයෙන් ඉවත්ව ගියත්, අප ඉතා අසීරු අවස්ථාවක සිටිදී ඇය අපේ රටට ඩොලර් මිලියන 200ක් ලබා දුන් බව මම සිහිපත් කළ යුතුයි."
+President Ranil Wickremesinghe says that if Sheikh Hasina had previously followed a similar step, it would have been in Bangladesh today.
+
+President Ranil Wickremesinghe made this statement addressing the conference on 2024 Environment, Social and Control (ESG).
+
+"I do not intend to talk about politics in Bangladesh, our friendly country, but something about it should be mentioned. Although Mrs. Sheikh Hasana left the post of Prime Minister, but I should recall that she gave US $ 200 million in a very difficult time. "
 
 ...
 
 [Data](articles/4184e79a.json)
 
+[Extended Data](ext_articles/4184e79a.ext.json)
+
 ---
 
-### கல்வி அமைச்சு அதிரடி அறிவிப்பு
+### Ministry of Education
 
 *2024-08-06 17:09:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-அதிரடி-அறிவிப்பு/175-341698) · `ta`
 
-2024 ஆம் ஆண்டுக்கான சுற்றறிக்கையின் பிரகாரம் தேசிய பாடசாலைகளின் இடைநிலை வகுப்புகளுக்கு பிள்ளைகளை அனுமதிப்பது நிறைவடைந்துள்ளது. 26-07-2024 அன்று ஜனாதிபதித் தேர்தல் அறிவிக்கப்பட்ட பின்னர், பிள்ளைகளை அனுமதிப்பதற்கான கடிதங்கள் வழங்குவதையோ அல்லது அதிகாரிகளை இடமாற்றுவதையோ கல்வி அமைச்சு இடைநிறுத்தியுள்ளது.
+The Ministry of Education has halted issuing admission letters post-presidential elections due to complaints about misinformation from a self-proclaimed education trade union rep.
 
-கல்வித் துறையில் தொழிற்சங்கப் பிரதிநிதி என்று கூறிக்கொள்ளும் ஒருவர் மேற்படி தகவல் தொடர்பில் பொய்யான தகவல்களைப் பரப்பி வருவதாக அமைச்சுக்கு முறைப்பாடுகள் கிடைத்துள்ளன என்றும் அமைச்சு அறிவித்துள்ளது.
+🟩
+
+According to the circular 2024, the admission of children to the intermediate classes of national schools has been completed. After the presidential election on 26-07-2024, the Ministry of Education has suspended the issuance of letters to allow children or the transfer of officials.
+
+The Ministry has received complaints that a person who claims to be a trade union representative in the field of education is spreading false information on the information.
 
 ◼️
 
 [Data](articles/6f8a7e08.json)
+
+[Extended Data](ext_articles/6f8a7e08.ext.json)
 
 ---
 
@@ -142,6 +182,8 @@ A bond maturing on 15.10.2030 closed at 12.80/90 percent, up from 12.75/85 perce
 
 [Data](articles/43406b26.json)
 
+[Extended Data](ext_articles/43406b26.ext.json)
+
 ---
 
 ### Solve the Trincomalee Problem: Kukadasan MP
@@ -166,15 +208,21 @@ Thirukonacharam is a historic sacred place where a large number of tourists come
 
 ---
 
-### අතුරුදන්වී සිටි දුම්රිය සේවකයාගේ සිරුර හමුවෙයි
+### The body of the missing railway worker found
 
 *2024-08-06 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199635) · `si`
 
-දෙමටගොඩ දුම්රිය අංගනයේ අතුරුදන් වී සිටි සේවකයාගේ සිරුර සොයාගෙන තිබේ.
+The bodies of two railway workers from Dematagoda were discovered.
+
+🟩
+
+The body of the employees of the Dematagoda was found.
 
 ◼️
 
 [Data](articles/f2ee96d4.json)
+
+[Extended Data](ext_articles/f2ee96d4.ext.json)
 
 ---
 
@@ -280,15 +328,21 @@ Further interrogation of the student in question have revealed that a window of 
 
 ---
 
-### පාරිභෝගික නීති කැඩූ ගම්පහ වෙළඳුන් 146ක්  ලක්ෂ 18 දඩ
+### 146 Gampaha traders broke consumer laws
 
 *2024-08-06 16:30:26* · [`adalk`](https://www.ada.lk/breaking_news/පාරිභෝගික-නීති-කැඩූ-ගම්පහ-වෙළඳුන්-146ක්--ලක්ෂ-18-දඩ/11-411233) · `si`
 
-පාරිභොගික කටයුතු අධිකාරිය යේ ගම්පහ දිස්ත්‍රික් කාර්යාලය මගින් දිස්ත්‍රික්කය පුරා සිදු කල වැටලීම වලින් වෙළඳුන් 146 දෙනෙකුට නඩු පවරා ලක්ෂ 18ක දඩ නියම කර ඇත. මේඅතර ප්‍රධාන සුපිරි වෙළෙඳසල් 6ක් ඇතුලත් බව වාර්ථාවෙයි. මෙම වැටලීම් අතර සහල් විකිණීම සම්බන්ධයෙන් වැටලීම් 43ක් අන්තර්ගතවන බව ඔවුන් පවසයි. සහල් වැඩි මිලට විකිණිම , කල් ඉකුත්වන දින හා නිශ්පාදිත දිනයන් සඳහන් නොකල සහල් ඇසුරුම් සහිතව විකිණිම ආදිය මේ අතර වෙයි.
+In Gampaha, 146 traders were fined Rs 18 lakh by the Consumer Affairs Authority for violating consumer laws during raids, including price gouging and selling expired goods.
+
+🟩
+
+Consumer Affairs Authority has filed 146 merchants from the Gampaha district's raid over the Gampaha District Office and fined Rs 18 lakhs. It is reported that there are six main supermarkets. These raids include 43 raids regarding the sale of rice. Selling rice to higher prices, the sale is the sale of rice packing, the expiry date and dates.
 
 ◼️
 
 [Data](articles/be9ef44c.json)
+
+[Extended Data](ext_articles/be9ef44c.ext.json)
 
 ---
 
@@ -313,6 +367,8 @@ Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), 
 ...
 
 [Data](articles/38e6649d.json)
+
+[Extended Data](ext_articles/38e6649d.ext.json)
 
 ---
 
@@ -357,6 +413,8 @@ France has identified Sri Lanka as the most suitable location for the study and 
 ◼️
 
 [Data](articles/777a518a.json)
+
+[Extended Data](ext_articles/777a518a.ext.json)
 
 ---
 
@@ -518,6 +576,8 @@ The reforms support independent and financially sustainable electricity utilitie
 
 [Data](articles/0970e86a.json)
 
+[Extended Data](ext_articles/0970e86a.ext.json)
+
 ---
 
 ### Parliament dissolved parliament in Bangladesh
@@ -583,6 +643,8 @@ Opposition Tamil National Alliance (TNA) parliamentarian M A Sumanthiran, who pr
 ◼️
 
 [Data](articles/9f909582.json)
+
+[Extended Data](ext_articles/9f909582.ext.json)
 
 ---
 
@@ -680,6 +742,8 @@ The SLPP general secretary also commented on his colleagues who have decided to 
 
 [Data](articles/a7480d5d.json)
 
+[Extended Data](ext_articles/a7480d5d.ext.json)
+
 ---
 
 ### Govt. to integrate public sector IT systems to enhance efficiency
@@ -724,23 +788,33 @@ Accordingly, he has a vacancy at the post of Chairman on his resignation.
 
 ---
 
-### පොහොට්ටු මන්ත්‍රීවරු 102ක් ජනපතිගේ සහායට
+### 102 MPs to assist President
 
 *2024-08-06 13:51:02* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරු-102ක්-ජනපතිගේ-සහායට/11-411231) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙ ජනාධිපති අපේක්ෂකත්වය සඳහා පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා නම් කිරීමෙන් පසුව එම පක්ෂයේ තවත් මන්ත්‍රීවරුන් කිහිප දෙනෙකුම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට එක්වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+Dhammika Perera, nominated as the presidential candidate for the Sri Lanka Civil Front, is expected to receive support from 102 MPs across various fronts, including the Sri Lanka General Front and the United People's Front. Negotiations are reportedly complete, with key figures like President Ranil Wickremesinghe and several district representatives pledging allegiance. This move signifies a significant shift in political alliances ahead of the upcoming elections.
 
-ඒ අනුව රත්නපුර, පොළොන්නරුව හා අම්පාර ඇතුළු තවත් දිස්ත්‍රික්ක නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන් එලෙස එක්වීමට නියමිතව ඇත.
+🟩
 
-දේශපාලන ආරංචි මාර්ග සඳහන් කරන්නේ මේ වනවිටත් ඒ සම්බන්ධයෙන් වන මූලික සාකච්ඡා අවසන්ව ඇති බවයි.
+After the nomination of Parliamentarian Dhammika Perera, MP Dhammika Perera will be appointed to the presidential candidate of the Sri Lanka Civil Front.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නම් කිරීම හෙට (7) දිනයේදී සිදු කිරීමට නියමිතය.
+Accordingly, the MPs of the Sri Lanka General Front, representing the Ratnapura, Polonnaruwa and Ampara, is due to join the same.
 
-ඉකුත් මහ මැතිවරණයේදී පාර්ලිමේන්තුවට තේරී පත්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණ ඇතුළු පක්ෂ 09ක මන්ත්‍රිවරුන් 102ක සහය ඉදිරි ජනාධිපතිවරණයේදී , ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය ලබා දීමට මේ වන විට තීරණය කර ඇතැයි දේශපාලන ආරංචි මාර්ග කියයි.
+Political sources say that the basic negotiations are already over.
+
+The Member of the Sri Lanka General Front is due to be held tomorrow (7).
+
+According to political sources, President Ranil Wickremesinghe has decided to support President Ranil Wickremesinghe in the last general election.
+
+70 of these are the United People's United Front representatives. Thamil Mekkal Colonylai Philmana Philuwe, the Ven.. There are 13 Members of Parliament representing the party.
+
+The current number of MPs who were elected to the Colombo district at the last parliamentary election were 12 MPs. Eight of them have already come to support Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/54366ea2.json)
+
+[Extended Data](ext_articles/54366ea2.ext.json)
 
 ---
 
@@ -2153,31 +2227,5 @@ He also mentioned that several train journeys will likely have to be canceled ow
 [Data](articles/7cc47471.json)
 
 [Extended Data](ext_articles/7cc47471.ext.json)
-
----
-
-### Train interrupts
-
-*2024-08-06 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199610) · `si`
-
-Due to employee dismissals over a missing colleague investigation, railway traffic is disrupted, causing delays and cancellations, especially affecting the Smalli and Badulla Odyssey trains from Colombo Fort to Badulla.
-
-🟩
-
-Railway traffic has been interrupted due to the dismissal of employees in Dematagoda.
-
-The Department of Railways said that delays and cancels will be renewed by the Colombo Fort.
-
-Employees have already left the service, protesting the investigations into the disappearance of an employee in Dematagoda.
-
-The Deputy General Manager NJDipoli said that due to this, the Smalli train and Badulla Odyssey of Badulla has been unable to run from Colombo Fort to Badulla.
-
-The number of train travel will have to be canceled in the face of the situation.
-
-◼️
-
-[Data](articles/b469567e.json)
-
-[Extended Data](ext_articles/b469567e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 07:28:58**
+As of **2024-08-06 07:50:09**
 
 ## Newspaper Stats
 
-*Scraped **39,202** Articles*
+*Scraped **39,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,105 @@ dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,909
+tamilmirrorlk | 4,910
 virakesarilk | 6,205
-adaderanasinhalalk | 6,621
+adaderanasinhalalk | 6,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,197 (100.0%) of 39,202 articles have been extended.
+39,200 (100.0%) of 39,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### ජනපතිගෙන් තවත් ගැසට්ටුවක්
+### මහින්දගේ කැමැත්ත ගැන දිලුම්ගෙන් හෙළිදරව්වක්
+
+*2024-08-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199607) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරණය සඳහා වෙනම අපේක්ෂකයෙකු පත්කිරීමේ තීරණයට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ කැමැත්තක් නොතිබූ බව රාජ්‍ය  අමාත්‍ය දිලුම් අමුණුගම මහතා සඳහන් කළේය.
+
+ඊයේ රාත්‍රී ටීවී දෙරණ ඔස්සේ විකාශය වූ 360 කාලීන වැඩසටහන සමග එක්වෙමින් දිලුම් අමුණුගම රාජ්‍ය අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+"මහින්ද රාජපක්ෂ මහතා පක්ෂය අභ්‍යන්තරයේ හිටපු සාකච්ඡාවලට අපි ඉඳලා තියෙනවා. අදටත් ඔය කියන දේශපාලන මණ්ඩල රැස්වීමට දවස් දෙකකට කලින් පොහොට්ටුවේ මන්ත්‍රීවරු 30දෙනෙක් මහින්ද රාජපක්ෂ මහතා එක්ක සාකච්ඡා කරපුවාම, එතුමා කිව්වේ මම සහමුලින් විරුද්ධයි වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කරනවාට අපි රනිල්ට සහාය දිය යුතුයි එතුමා මේ කරගෙන යන වැඩපිළිවෙළට ඒ නිසා පක්ෂයෙන් අපේක්ෂයෙක් ඉදිරිපත් කරන්නේ නැහැ කියන එක තමයි එතුමා කිව්වේ... මම විතරක් නෙමෙයි සාක්ෂියට තව 29 දෙනෙක් ඉන්නවා."
+
+ප්‍රශ්නය - ඇත්තටම පොහොට්ටුවෙන් වෙනත් අපේක්ෂයෙක් දාන්න ඕනේ වුණේ කාටද ?
+
+"දැන් කියන දේවල්වල හැටියට සහ එදා දේශපාලන මණ්ඩලයේදී මහ ලේකම්තුමා ප්‍රකාශ කළ විදිහට මහ ලේකම්තුමා තමයි ඒක ප්‍රකාශ කරන්නේ. හැබැයි එතුමාගේ තනි වුවමනාව වෙන්න විදිහක් නැහැ."
+
+◼️
+
+[Data](articles/9488e7aa.json)
+
+---
+
+### බංග්ලාදේශයේ විපතට පත් ජනතාවට ශ්‍රී ලංකා රජයේ කනගාටුව
+
+*2024-08-06 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199606) · `si`
+
+බංග්ලාදේශයේ පවතින නොසන්සුන්තාවයෙන් විපතට පත්වූවන්ගේ පවුල්වලට සහ පීඩාවට පත්වූ සියලුදෙනාට බලවත් සංවේගය පළකරන බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ අලී සබ්රි මහතා පවසයි.
+
+සිය එක්ස් ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පෙන්වා දෙන්නේ, මෙම අභියෝගාත්මක අවස්ථාවේ දී බංග්ලාදේශ ජනතාව සමග හදවතින් බැඳීසිටින බවය.
+
+ශ්‍රී ලංකාව, බංග්ලාදේශය සමග පවතින මිත්‍රත්වය අගය කරන අතර එහි ජනතාව සමග සහයෝගයෙන් කටයුතු කරන බව විදේශ කටයුතු අමාත්‍යවරයා පෙන්වා දෙයි.
+
+බංග්ලාදේශයට සාමය සහ ස්ථාවරත්වය කඩිනමින් නැවත පැමිණෙනු ඇතැයි බලාපොරොත්තු වන අතර ඒ සඳහා ශක්තිය ප්‍රාර්ථනා කරන බව විදේශ කටයුතු අමාත්‍ය අලී සබ්රි මහතා සිය එක්ස් සටහනෙන් පෙන්වා දී ඇත.
+
+◼️
+
+[Data](articles/bf7db7ea.json)
+
+---
+
+### President wins more
 
 *2024-08-06 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199605) · `si`
 
-විදුලිබල සැපයීම සම්බන්ධ සියලුම සේවා සහ ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම අත්‍යවශ්‍ය සේවා බවට පත් කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+President Ranil Wickremesinghe, through his Secretary Saman Ekanayake, declared all petroleum-related services as essential, ensuring their continuity amidst any disruptions.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් ඊයේ (05) එම ගැසට් නිවේදනය නිකුත් කර ඇති බව වාර්තා වේ.
+🟩
+
+All services and petroleum products and supply of petroleum related services and supply of petroleum production and delivery are essential services have been issued.
+
+The gazette notification has been issued by President's Secretary to the President Saman Ekanayake yesterday (05) on the instructions of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/8c8dc77d.json)
 
+[Extended Data](ext_articles/8c8dc77d.ext.json)
+
 ---
 
-### ජනපතිට සහාය පළ කළ පොහොට්ටුවේ මන්ත්‍රීවරු විශේෂ සාකච්ඡාවක
+### Members of Parliament who supported President
 
 *2024-08-06 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199604) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මන්ත්‍රීවරුන්ගේ විශේෂ සාකච්ඡාවක් ඊයේ (05) රාත්‍රී පවත්වා තිබේ.
+Sri Lanka Civil Front members support President Ranil Wickremesinghe, focusing on public engagement at the district level for his presidential election victory. A meeting in Battaramulla included ministers discussing district meetings, election office setups, and damage control programs. Minister Prasanna Ranatunga emphasized unity and the importance of public opinion in supporting Wickremesinghe.
 
-බත්තරමුල්ලේ පිහිටි හෝටලයකදී මෙම සාකච්ඡාව පවත්වා ඇති බව වාර්තා වේ.
+🟩
 
-සාකච්ඡාව සඳහා අමාත්‍යවරුන් වන ප්‍රසන්න රණතුංග, කංචන විජේසේකර, රමේෂ් පතිරණ, අලි සබ්රි ඇතුළු මැති ඇමතිවරුන් රැසක් සහභාගී වී සිට ඇති බව සඳහන්ය.
+A special discussion of the Sri Lanka Civil Front (05)) has held a special discussion of the Sri Lanka Civil Front who supports President Ranil Wickremesinghe.
 
-ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය සඳහා දිස්ත්‍රික් මට්ටමින් ජනතාව දැනුවත් කිරීමේ වැඩපිළිවෙළ පිළිබඳව මෙම සාකච්ඡාවේ දී අවධානය යොමුව තිබේ.
+The discussion has been held at a hotel in Battaramulla.
 
-සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී එස්.බී. දිසානායක මහතා,
+Ministers Prasanna Ranatunga, Kananna Ranatunga, Kananna Wijesara, Ramesesan Wijesara, Ramesh Wijesarana, Ali Sabri and other ministers were present.
 
-"අද සාකච්ඡාව දිස්ත්‍රික් රැස්වීම් පැවැත්වීම, දිස්ත්‍රික් මැතිවරණ කාර්යාල පිහිටුවීම, ආසන රැස්වීම් පැවැත්වීම, ජනාධිපතිතුමාගේ නාමයෝජනා භාරදීමේ දිනයේ වැඩසටහන සහ ප්‍රචාරක වැඩසටහන යන සියල්ල කතා කළා. අපේ මන්ත්‍රීවරු 91ක් හිටියා. තව කිහිපදෙනෙක් ඉන්නවා හෙට අනිද්දා වෙද්දි නම් හෙළිවෙයි."
+The discussion focuses on the discussion of the public at district level for the victory of Ranil Wickremesinghe at the Presidential Election.
 
-සාකච්ඡාවට එක්වූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ද මෙසේ අදහස් පළ කළේය.
+Member of Parliament Speaking to the media After the discussion. Mr. Dissanayake,
+
+"The discussion is held to hold district meetings, establishment of district election offices and holding seating meetings, and the Damage Program of the President's nomination day and the propaganda program.. There were 91 of our members. There are over more people when they are still following tomorrow. "
+
+Minister Prasanna Ranatunga was also commented on the discussion.
 
 ...
 
 [Data](articles/772ef81c.json)
+
+[Extended Data](ext_articles/772ef81c.ext.json)
 
 ---
 
@@ -215,6 +265,22 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 [Data](articles/ac729e25.json)
 
 [Extended Data](ext_articles/ac729e25.ext.json)
+
+---
+
+### 60 முறைப்பாடுகள் பதிவு
+
+*2024-08-06 01:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/60-முறைப்பாடுகள்-பதிவு/175-341661) · `ta`
+
+தேர்தல் சட்டங்களை மீறியமை தொடர்பில் இதுவரையில் 60 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன என பெப்ரல் அமைப்பு தெரிவித்துள்ளது.
+
+அரச அதிகார துஷ்பிரயோகம் மற்றும் சொத்துக்களை முறையற்ற விதத்தில் பயன்படுத்திய குற்றச்சாட்டுகள் தொடர்பிலேயே அதிகளவான முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன என அதன் பணிப்பாளர் ரோஹண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+அரசியல் நோக்கங்களுக்காக சில அரச நிறுவனங்களின் சிரேஷ்ட பதவி நிலைகளில் மாற்றங்களை ஏற்படுத்தியமை, பூரணப்படுத்தப்படாத அபிவிருத்தி வேலைத்திட்டங்களை அங்குரார்ப்பணம் செய்தமை உள்ளிட்ட பல்வேறு முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன என அவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/a6c490da.json)
 
 ---
 
@@ -2157,81 +2223,5 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/3a416613.json)
 
 [Extended Data](ext_articles/3a416613.ext.json)
-
----
-
-### Israeli attack - two killed
-
-*2024-08-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190338) · `ta`
-
-In Hebron, a knife attack resulted in the deaths of a 66-year-old Jewish woman and an 80-year-old man. The assailant, from the West Bank, targeted victims while they were walking. A 26-year-old man witnessed the attack and fled towards the bus station. The Israeli Prime Minister confirmed the incident during a cabinet meeting.
-
-🟩
-
-Israeli officials have said that a person from the West Corporation carried out the knife attack.
-
-A 66 -year -old Jewish woman and an 80 -year -old man have been killed, Israeli officials said.
-
-While I was walking with my dog, a 26 -year -old man said that a person was stabbed with a knife on his back.
-
-I escaped towards the bus station.
-
-The Israeli prime minister has confirmed the incident in Heleon at a cabinet meeting.
-
-◼️
-
-[Data](articles/31a5d64b.json)
-
-[Extended Data](ext_articles/31a5d64b.ext.json)
-
----
-
-### The president sought support in the east of Senthil
-
-*2024-08-05 15:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செந்திலிடம்-கிழக்கில்-ஆதரவு-கோரினார்-ஜனாதிபதி/73-341631) · `ta`
-
-President Ranil Wickremesinghe addressed the Youth Eradication program in Batticaloa, discussing future development plans and seeking advice from the youth. He highlighted the need for support from Senthil Thondaman, a leader in the hill country, marking the first time a president has sought backing from outside the region. Despite initial protests over Senthil Thondaman's appointment as governor due to community tensions, his leadership has gained widespread acceptance, especially among the Sinhalese and Muslim communities. His efforts to support various cultural and developmental programs for the Tamil community have also been well-received, solidifying his position as a unifying figure across ethnic lines.
-
-🟩
-
-The Youth Eradication program in Batticaloa was held on Sunday (05) under the patronage of President Ranil Wickremesinghe.
-
-The President made it clear what the president had to build the country to the youth of the Batticaloa district, and asked what the advice of building the country and the expectations of the youth.
-
-More young people have left the country without employment. He clarified the programs to be carried out in the future until 2035 through the IMF credit restructuring.
-
-At the conclusion of the meeting, the President of the Ceylon Workers Congress and the Governor of the Eastern Province sought support from Senthil Thondaman in the east and the hill country.. This is the first time that the president has sought support from a hill country leader beyond the hill country.
-
-Of the three people in the East, there were fierce conflicts between one community and another society, with a fierce protest against Senthil Thondaman's appointment not to be appointed as governor.
-
-...
-
-[Data](articles/4a91e8ab.json)
-
-[Extended Data](ext_articles/4a91e8ab.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-08-05 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199588) · `si`
-
-The Department of Meteorology announced strong lightning activity, particularly in the North, East, Polonnaruwa, and Badulla districts, advising the public to take precautions against potential wind and lightning-related accidents.
-
-🟩
-
-The Department of Meteorology has issued an announcement of strong lightning.
-
-The Meteorological Department says that the announcement was issued at 2.30 pm today.
-
-The Meteorology Department states that there is an increase in lightning with thundershowers in the North and East and Polonnaruwa and Badulla districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/5e0f3a86.json)
-
-[Extended Data](ext_articles/5e0f3a86.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 12:21:26**
+As of **2024-08-06 12:36:24**
 
 ## Newspaper Stats
 
-*Scraped **39,252** Articles*
+*Scraped **39,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,264
 economynextcom | 2,366
 dailyftlk | 2,519
 adalk | 3,601
-adaderanalk | 4,556
+adaderanalk | 4,557
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,922
 virakesarilk | 6,209
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,249 (100.0%) of 39,252 articles have been extended.
+39,252 (100.0%) of 39,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### Paris Olympics: Sri Lanka’s Aruna Darshana to compete in semi-finals tonight
+
+*2024-08-06 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101033/paris-olympics-sri-lankas-aruna-darshana-to-compete-in-semi-finals-tonight) · `en`
+
+As Sri Lankans await the country’s first medal at the ‘Paris 2024’ Olympics, a key athlete for the island nation in this year’s Olympic Games, Aruna Darshana is set to take part in the Men’s 400m semi-finals tonight (06).
+
+Darshana will take part in the semi-final 02 of the event, which is set to commence at 11.12 p.m. (IST) today.
+
+Athletes from Argentina, South Africa, Italy, Zambia, United States, Botswana and Grenada are set to race in the semi-final 02 alongside Aruna Darshana.
+
+The first two athletes in each semi-final heat and next 2 fastest athletes in overall semi-finals will advance to the Final of the event, according to the International Olympic Committee.
+
+The 25-year-old qualified for the semifinals on Sunday (04), after finishing third in the Heat race. Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, which is his personal best.
+
+...
+
+[Data](articles/be7e25d1.json)
+
+---
 
 ### Cabinet nod to eliminate salary anomalies of public service pensioners
 
@@ -45,6 +65,8 @@ Accordingly, it has been observed that the government officers who retired from 
 ...
 
 [Data](articles/2c65ee99.json)
+
+[Extended Data](ext_articles/2c65ee99.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ He said that as there is a high attraction for this sport, it is expected that u
 ...
 
 [Data](articles/81d34f34.json)
+
+[Extended Data](ext_articles/81d34f34.ext.json)
 
 ---
 
@@ -90,17 +114,23 @@ Pension of those pension officers, as per Public Administration Circular No. 03/
 
 ---
 
-### கட்டுப்பணத்தை செலுத்தினார் அநுர
+### Payment of control
 
 *2024-08-06 11:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-அநுர/175-341686) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க 2024 ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக செவ்வாய்க்கிழமை (06) கட்டுப்பணம் செலுத்தியுள்ளார்.
+Anura Kumara Dissanayake, National People's Power Leader, was authorized by PA Vijitha Herath, Dr. Harini Amarasuriya, and Attorney Sunil Vattakala to run in the 2024 presidential election. They officially submitted his candidacy to the Election Commission on Tuesday (06).
 
-அநுரகுமார திஸாநாயக்கவின் சார்பில் கட்டுப்பணத்தை செலுத்துவதற்காக பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத், கலாநிதி ஹரிணி அமரசூரிய மற்றும் சட்டத்தரணி சுனில் வட்டகல ஆகியோர் தேர்தல்கள் ஆணைக்குழுவிற்கு வருகை தந்தனர்.
+🟩
+
+National People's Power Leader Anura Kumara Dissanayake has been controlled on Tuesday (06) to contest the 2024 presidential election.
+
+PA Vijitha Herath, Dr. Harini Amarasuriya and Attorney Sunil Vattakala visited the Election Commission to pay control on behalf of Anuragumara Dissanayake.
 
 ◼️
 
 [Data](articles/61b412df.json)
+
+[Extended Data](ext_articles/61b412df.ext.json)
 
 ---
 
@@ -2153,27 +2183,5 @@ Foreign media reports that the move has been taken due to unrest in Dhaka
 [Data](articles/4b65d107.json)
 
 [Extended Data](ext_articles/4b65d107.ext.json)
-
----
-
-### Dhaka airport closes
-
-*2024-08-05 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199598) · `si`
-
-Dhaka airport was closed for six hours, causing flights to be diverted to India. The closure was due to unrest in the city, as reported by foreign media.
-
-🟩
-
-Bangladesh says the airport has been closed for six hours.
-
-It is reported that the aircraft has been diverted to India since the closure of the airport.
-
-Foreign media reports that the steps have been taken due to the unrest in Dhaka.
-
-◼️
-
-[Data](articles/cdeb37af.json)
-
-[Extended Data](ext_articles/cdeb37af.ext.json)
 
 ---

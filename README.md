@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 13:36:17**
+As of **2024-08-06 13:55:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,266 (100.0%) of 39,272 articles have been extended.
+39,272 (100.0%) of 39,272 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Speaking to the media, MP Ganesan said that they have reached a Memorandum of Un
 ◼️
 
 [Data](articles/9e0a7010.json)
+
+[Extended Data](ext_articles/9e0a7010.ext.json)
 
 ---
 
@@ -64,43 +66,63 @@ Accordingly, the petitioners had sought an order invalidating the decision, clai
 
 [Data](articles/87039f47.json)
 
+[Extended Data](ext_articles/87039f47.ext.json)
+
 ---
 
-### මනෝ ප්‍රමුඛ සන්ධානයේ සහාය සජිත්ට
+### Sajith to support Psycholant Alliance
 
 *2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199625) · `si`
 
-දෙමළ ප්‍රගතිශීලි සන්ධානය ප්‍රමුඛ දෙමළ දේශපාලන පක්ෂවල සහාය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට ලබාදීමට තීරණය කර තිබේ.
+Opposition Leader Sajith Premadasa will back Tamil political parties under the Tamil Progressive Alliance, marking a significant move in Sri Lanka's political landscape.
+
+🟩
+
+Opposition Leader Sajith Premadasa has decided to hand over the support of the Tamil Pravicy Alliance led Tamil political parties.
 
 ◼️
 
 [Data](articles/814dfb09.json)
 
+[Extended Data](ext_articles/814dfb09.ext.json)
+
 ---
 
-### කාන්තා 20යි 20 ලෝක කුසලාන බංග්ලාදේශයට අහිමි වෙයිද ?
+### Will Bangladesh lose their 20 womens and the World Cup?
 
 *2024-08-06 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199626) · `si`
 
-ඔක්තෝබර් මාසයේ බංග්ලාදේශයේ පැවැත්වීමට නියමිත කාන්තා 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සම්බන්ධයෙන් ද මතුව ඇත්තේ අවිනිශ්චිත තත්ත්වයකි.
+The ICC suggests Bangladesh might not host the Women's T20 World Cup due to uncertainty, with potential alternatives being the UAE, India, or Sri Lanka.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පවසන්නේ, කාන්තා 20-20 ලෝක කුසලාන තරගාවලිය බංග්ලාදේශයේ පැවැත්වීමට නොහැකි වුවහොත් එක්සත් අරාබි එමීර් රාජ්‍යය, ඉන්දියාව හෝ ශ්‍රී ලංකාව යන රටවල් තුනෙන් එකකදී පැවැත්වීමට කටයුතු කරන බවය.
+🟩
+
+In October, the 20 women's 20 World Cup cricket tournament is uncertain.
+
+The International Cricket Council says that if the women's 20-20 World Cup will be held in Bangladesh, the United Arab Emirates, India or Sri Lanka will be held at the three countries.
 
 ◼️
 
 [Data](articles/bb756c4a.json)
 
+[Extended Data](ext_articles/bb756c4a.ext.json)
+
 ---
 
-### බංග්ලාදේශයට අන්තර්වාර රජයක්
+### An interim government to Bangladesh
 
 *2024-08-06 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199624) · `si`
 
-අර්බුදයට තුඩුදී තිබෙන බංග්ලාදේශයේ වත්මන් පාර්ලිමේන්තුව විසුරුවා අද (06) අන්තර්වාර රජයක් පත්කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Bangladesh's interim government, established during a crisis, is set to dissolve today.
+
+🟩
+
+Foundation is scheduled to be dissolved today (06) in the crisis today (06).
 
 ◼️
 
 [Data](articles/e2d9ed1f.json)
+
+[Extended Data](ext_articles/e2d9ed1f.ext.json)
 
 ---
 
@@ -217,6 +239,8 @@ A Pakistan Government grant will be used to install two courts in the Torrington
 ...
 
 [Data](articles/84608e91.json)
+
+[Extended Data](ext_articles/84608e91.ext.json)
 
 ---
 

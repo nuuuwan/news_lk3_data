@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 02:54:35**
+As of **2024-08-07 03:05:50**
 
 ## Newspaper Stats
 
@@ -160,11 +160,9 @@ In accordance with this gazette, any state corporation, state department, local 
 
 *2024-08-07 01:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Demise-of-Rajapaksa-power-and-triumph-of-Rajapaksaism/4-765215) · `en`
 
+The Rajapaksas have nothing to gain from a Ranil Wickremesinghe victory. He was never a Rajapaksa creature. He saved the Rajapaksas from popular fury and used their backing to implement his own politico-economic agenda. If he wins the Presidential election, he would go his way, irrespective of whether the Rajapaksas back him or not. So the Rajapaksas decided to cut their losses, a decision that makes sense from the perspective of familial power. For them, defeat and a stint in the opposition would be less ruinous than growing irrelevance under a victorious President Wickremesinghe. Their only way out was persuading President Wickremesinghe to publicly anoint Namal Rajapaksa as the next prime minister. They made the demand and he refused, because he is not Ranil Rajapaksa. With that correct refusal, the raison d’être of the Wickremesinghe-Rajapaksa alliance vanished
+
 – (Traditional proclamation made following the death of a monarch indicating the continuity of the monarchy)
-
-Mahinda Rajapaksa’s second presidential investiture was held two days after his 65th birthday, the twin occasions marked by grandiose displays of Rajapaksa power. The highlights of this political spectacle included a shipload of Buddhist monks voyaging from Galle to the Hambantota Rajapaksa Port, chanting the ‘Sagara Piritha’, and the cooking of world’s largest milk-rice weighting 4,000 kg by 300+ chefs (relayed live on TV). Tuition-guru turned Education Minister Bandula Gunwardane ordered all school children to listen to President Rajapaksa’s ‘Address to the Nation’.
-
-Most of the courtiers who pledged eternal fealty to High King Mahinda during that spectacular week in 2010 are unlikely to grace his 79th birthday in 2024.
 
 ...
 
@@ -178,9 +176,9 @@ Most of the courtiers who pledged eternal fealty to High King Mahinda during tha
 
 *2024-08-07 01:00:29* · [`dailyftlk`](https://www.ft.lk/columns/College-of-General-Practitioners-of-Sri-Lanka-celebrates-50-years/4-765214) · `en`
 
-Look forward to knowledge but do not forget to look back for wisdom
+As the apex professional and academic organisation of general practitioners in Sri Lanka the CGPSL must always strive to be relevant to our profession and members to equip ourselves with the knowledge, skills and attitudes to provide quality primary curative care to our patients. The key point to remember in our progression towards our centenary is we must not revolve as a scientific discipline but must evolve for the benefit of our patients
 
-A Western medical doctor who has undergone further training to deliver medical care at primary care level based on concepts and principles of Family Medicine/General Practice is a General Practitioner/Family Physician. Family Medicine/General practice is the medical specialty which provides continuing and comprehensive care for the individual and the family. General Practitioners deal with physical, mental and social signs and symptoms in individuals, their families and the community to deliver quality promotive, preventive, curative, rehabilitative and palliative care in an ethical and professional manner based on the principles of family medicine which is the academic discipline which underpins general practice. It integrates biological, clinical and behavioural sciences to deliver healthcare in holistic manner.
+Look forward to knowledge but do not forget to look back for wisdom
 
 ...
 

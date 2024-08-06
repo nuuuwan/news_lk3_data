@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 18:55:43**
+As of **2024-08-06 19:07:21**
 
 ## Newspaper Stats
 
-*Scraped **39,325** Articles*
+*Scraped **39,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,614
+adalk | 3,615
 adaderanalk | 4,568
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,928
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,324 (100.0%) of 39,325 articles have been extended.
+39,325 (100.0%) of 39,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,20 @@ Later, the relevant petitions were ordered to be taken up for hearing on Februar
 ◼️
 
 [Data](articles/8794ab09.json)
+
+[Extended Data](ext_articles/8794ab09.ext.json)
+
+---
+
+### 2024 ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීම අවසන්
+
+*2024-08-06 18:11:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජාතික-පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීම-අවසන්/11-411234) · `si`
+
+2024 වර්ෂය සඳහා ජාතික පාසල්වල අතරමැදි පන්තිවලට චක්‍රලේඛය අනුව ළමුන් ඇතුළත් කිරීම අවසන් කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය දන්වයි. 2024-07-26 දින ජනාධිපති මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් පසු අධ්‍යාපන අමාත්‍යාංශය මඟින් ළමුන් ඇතුළත් කිරීමට ලිපි නිකුත් කිරීම හෝ නිලධාරීන් ස්ථාන මාරු කිරීම අත්හිටුවා ඇතැයිද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/fd5492d3.json)
 
 ---
 
@@ -2233,29 +2247,5 @@ The Sri Lanka Freedom Party (SLFP) has now split into three teams: Maithripala S
 [Data](articles/677b2212.json)
 
 [Extended Data](ext_articles/677b2212.ext.json)
-
----
-
-### Violence of the model underwear
-
-*2024-08-06 09:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உள்ளாடைகளை-அள்ளிய-வன்முறையாளர்கள்/50-341669) · `ta`
-
-A violent mob stormed Sheikh Hasina's palace, looting her underwear among other items, after she was ousted from power by student-led protests advocating for reservation rights. The unrest resulted in over 300 deaths and forced Hasina to flee to India.
-
-🟩
-
-The violent mob looted the palace of former Bangladeshi Prime Minister Sheikh Hasina and even took off his home underwear. There have also been incidents of a few people who have been robbed at Sheikh Hasina's house and posed for photos.
-
-The Bangladeshi media has reported that such atrocities have been done by the mob in the name of students who fought against the reservation.
-
-Sheikh Hasina, daughter of Bangladesh's father Mujibur Rahman, has been the Prime Minister of the country for 16 years. There was a great revolution in the name of students for reservation for those who fought for liberation of Bangladesh. It was this revolution that toppled the rule of Sheikh Hasina.
-
-The struggle of the students over the past few months erupted in a huge violent violence. Since many were killed in the security side, the incident took place without mercy. More than 300 people were killed.
-
-...
-
-[Data](articles/b22aafd1.json)
-
-[Extended Data](ext_articles/b22aafd1.ext.json)
 
 ---

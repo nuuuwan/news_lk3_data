@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 13:05:49**
+As of **2024-08-06 13:20:50**
 
 ## Newspaper Stats
 
-*Scraped **39,265** Articles*
+*Scraped **39,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,83 @@ adaderanalk | 4,559
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,923
 virakesarilk | 6,209
-adaderanasinhalalk | 6,638
+adaderanasinhalalk | 6,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,260 (100.0%) of 39,265 articles have been extended.
+39,265 (100.0%) of 39,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### වාර්තා අතරට එක් වූ ගම්පහ
+### අභියාචනයකින් ලැබුණු ඔලිම්පික් පදක්කම
+
+*2024-08-06 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199623) · `si`
+
+පැරිස් ඔලිම්පික් උලෙළේ ඊයේ (05) රාත්‍රීයේ පැවති කාන්තා මීටර 5000 ඉසව්ව ඉතා ආන්දෝලනාත්මක තරඟ ඉසව්වක් බවට පත්වුණි.
+
+එම ඉසව්ව මිනිත්තු 14යි තත්පර 28.56කින් නිමකළ කෙන්යාවේ බියට්‍රිස් චෙබට් රන් පදක්කම හිමිකර ගෙන තිබුණි.
+
+රිදී පදක්කම කෙන්යාවේ ෆේත් කිප්යෙගෝන් හිමිකරගත් අතර ලෝකඩ පදක්කම හිමිකර ගත්තේ නෙදර්ලන්තයේ සිෆාන් හසන් විසිනි.
+
+කෙසේ වෙතත් රිදී පදක්කම දිනූ ෆේත් කිප්යෙගෝන්,  කාන්තා මීටර 5000 ඉසව්වේ ලෝක වාර්තාවට හිමිකම් කියන ගුදාෆ් සෙගායිගේ ධාවනයට බාධා කළ බව පවසමින් ගුදාෆ් සෙගායි විසින් විරෝධතාවක් ගොනුකර තිබූයේ තරගය අවසන් වීමෙන් අනතුරුවය.
+
+එම විරෝධතාව සලකා බැලූ තරග සංවිධායකින් ෆේත් කිප්යෙගෝන්ට රිදී පදක්කම අහිමි කිරීමට තීරණය කර තිබුණේ මංතීරු නීතිය උල්ලංඝනය කිරීම සහ ධාවනයට බාධා එල්ල කිරීම යන සාධක පදකම් කරගනිමිනි.
+
+නමුත් කෙන්යා මලල ක්‍රීඩා සංගමය නැවතත් එම තීරණය අභියෝගයට ලක්කරමින් ජාත්‍යන්තර මලල ක්‍රීඩා සංගමයට අභියාචනයක් ඉදිරිපත් කර තිබුණි.
+
+...
+
+[Data](articles/a77ffd8d.json)
+
+---
+
+### Gampaha Amongmated
 
 *2024-08-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199622) · `si`
 
-මෙවර ජනාධිපතිවරණය සඳහා 2024 ඡන්ද හිමි නාමලේඛනයට අනුව ලියාපදංචි ඡන්ද හිමියන් සංඛ්‍යාව 17,143,354කි.
+The 2024 electoral register shows 17,143,354 registrations for the presidential election, with Gampaha having the highest voter count. Colombo follows with over 1.7 million voters, and Kurunegala ranks third. The lowest registration, 86,889, is in Mullaitivu, Wanni.
 
-ඉන් වැඩිම ඡන්ද හිමියන් ලියාපදිංචි වී ඇති දිස්ත්‍රික්කය වන්නේ ගම්පහයි.
+🟩
 
-දෙවන ස්ථානය ඡන්ද හිමියන් ලක්ෂ 17කට වැඩි පිරිසක් සිටින කොළඹ දිස්ත්‍රික්කයට හිමිව ඇති අතර , තෙවන ස්ථානයට වැඩිම ඡන්ද හිමියන් සංඛ්‍යාවක් සිටින්නේ කුරුණෑගල දිස්ත්‍රික්කයේය.
+The number of registration elections is 17,143,354, according to the 2024 electoral register for the presidential election.
 
-අවම ලියාපදිංචි ඡන්ද හිමියන් සංඛ්‍යාව වන 86,889 දෙනෙකු සිටින්නේ වන්නි මැතිවරණ කොට්ඨාසයේ මුලතිව් දිස්ත්‍රික්කයේය.
+The highest number of voters are registered.
+
+The second place has won the Colombo district with more than 17 lakh electorates and the third place has the highest number of voters in the Kurunegala district.
+
+There are 86,889 people of the minimum registered volallies in the Mullaitivu district of the Wanni Election.
 
 ◼️
 
 [Data](articles/4d413b70.json)
 
+[Extended Data](ext_articles/4d413b70.ext.json)
+
 ---
 
-### நிர்வாண புகைப்படங்கள் வெளியானது எப்படி?
+### How did naked photos release?
 
 *2024-08-06 12:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-வெளியானது-எப்படி/175-341690) · `ta`
 
-அதுருகிரிய பச்சை குத்தும் மையத்தில் சுட்டுக்கொல்லப்பட்ட கிளப் வசந்த என்ற வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் சடலத்தின் நிர்வாண புகைப்படங்கள் சமூக வலைதளங்களில் வெளியானது தொடர்பாக ஹோமாகம ஆதார வைத்தியசாலையில் சுமார் 30 பேரிடம் சாட்சியங்களை பதிவு செய்துள்ளதாக அத்துருகிரிய பொலிஸார் தெரிவித்துள்ளனர்.
+Police in Arthurugiriya stated that around 30 witnesses were interviewed at Homagama Base Hospital concerning the circulation of nude photos of Surendra Vasantha Perera, a trader killed at Atukuriya Tattoo Punching Center. These photos, allegedly taken during his autopsy involving medical students, surfaced on social media. Additionally, it was mentioned that local journalists covering the murder scene shared information and video footage.
 
-குறித்த சடலத்தின் பிரேத பரிசோதனைகள் முன்னெடுக்கப்பட்டபோது,  மருத்துவ மாணவர்களும் இணைந்திருந்தனர். அவர்களின் ஊடாக குறித்த புகைப்படங்கள் சமூக வலைத்தளங்களில் வெளியாகியுள்ளதாக தெரியவந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், கொலைச் சம்பவம் தொடர்பான காணொளி காட்சிகளை வெளியிடும் பணியில் ஈடுபட்டிருந்த உள்ளூர் ஊடகவியலாளர்களிடம் இருந்தும் குறிப்புகள் மற்றும் உண்மைகளை எடுத்துக் கொண்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+Athurugiriya police have said that about 30 witnesses have been recorded at the Homagama Base Hospital regarding the release of naked photos of the body of Surendra Vasantha Perera, a trader, club Vasantha, who was shot dead at the Atukuriya Tattoo Punching Center.
+
+When the autopsy of the body was carried out, medical students were joined. Police said that photos of them have been revealed on social media.
+
+In addition, police said that the local journalists who were working on the video footage of the murder had taken tips and facts.
 
 ◼️
 
 [Data](articles/734d9866.json)
+
+[Extended Data](ext_articles/734d9866.ext.json)
 
 ---
 
@@ -81,6 +115,8 @@ The handing over of autographed kit to the International Olympic Committee offic
 ◼️
 
 [Data](articles/118ee7a1.json)
+
+[Extended Data](ext_articles/118ee7a1.ext.json)
 
 ---
 
@@ -104,17 +140,23 @@ The state will provide the property for the playground premises on an 80-year-le
 
 ---
 
-### මැතිවරණ නීති උල්ලංඝණය කිරීමක් ගැන කිරිඇල්ලගෙන් අනාවරණයක්
+### Kiriella reveals about violating election laws
 
 *2024-08-06 12:24:01* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති-උල්ලංඝණය-කිරීමක්-ගැන-කිරිඇල්ලගෙන්-අනාවරණයක්/11-411225) · `si`
 
-මැතිවරණ නීති උල්ලංඝණය කරමින් අද(06දා) ‌දිවයිනේ සියලුම ප්‍රාදේශීය මාධ්‍යවේදීන් ‌‌බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයට කැඳවා ඇති බව විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා අද පාර්ලිමේන්තුවේදී පැවසීය.
+MP Lakshman Kiriella, the Chief Opposition organizer, was summoned to discuss violations of the Constitution and election laws at the Waters Edge Hotel in Battaramulla. Reporters were called from the Presidential Secretariat to aid the election process, highlighting concerns over potential violations.
 
-ව්‍යවස්ථාව උල්ලංඝණය කිරීමක් සිදු වෙනවා. ඒ වගේම රටේ මැතිවරණ නීතිය උල්ලංඝණය වීම ගැන මම කථානායකතුමාගේ අවධානය යොමු කරනවා. අද සවස මුළු ලංකාවේම ඉන්න ප්‍රාදේශීය වාර්තා කරුවන් වොටර්ස් ඒජ් හෝටලයට කැඳවලා තියෙනවා. ජනාධිපති ලේකම් කාර්යාලයෙන් කතා කරලා තියෙන්නේ. මේ ප්‍රාදේශීය වාර්තා කරුවන් කැඳවලා තියෙන්නේ මැතිවරණයට සහය ලබා ගැනීම සඳහා. මහනුවර මාකට් එක ගාවින් අද බස් දෙකක් පිටත් වෙනවා. මේ එන අයට රුපියල් 5,000ක වවුචරයකුත් දෙනවා කියනවා. මේක පැහැදිලිවම මැතිවරණ නීති උල්ලංඝණය කිරීමක්.
+🟩
+
+The Chief Opposition organizer MP Lakshman Kiriella has been summoned to the Waters Age Hotel in Battaramulla today (06).
+
+There is a violation of the Constitution. I also focus on the Speaker of the violation of election law. Regional Reports in Sri Lanka this evening called to the Waters Age Hotel. Talking from the Presidential Secretariat. These regional reporters were called to assist the election. Kandy leaves two buses today. It is said that the visitors will also too a voucher of Rs. This is clearly a violation of election laws.
 
 ◼️
 
 [Data](articles/199bcc88.json)
+
+[Extended Data](ext_articles/199bcc88.ext.json)
 
 ---
 
@@ -135,6 +177,8 @@ Army chief General Waker-Uz-Zaman announced Monday that Hasina had resigned afte
 ...
 
 [Data](articles/e27a4942.json)
+
+[Extended Data](ext_articles/e27a4942.ext.json)
 
 ---
 
@@ -2111,27 +2155,5 @@ The Women’s International Shipping and Trading Association (WISTA) Sri Lanka, 
 [Data](articles/904f3623.json)
 
 [Extended Data](ext_articles/904f3623.ext.json)
-
----
-
-### First special course for SL foreign service officers inaugurated at SSIFS in New Delhi
-
-*2024-08-05 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101023/first-special-course-for-sl-foreign-service-officers-inaugurated-at-ssifs-in-new-delhi) · `en`
-
-The first special course for Diplomats and Officers from Sri Lanka was inaugurated by the Dean of the Sushma Swaraj Institute of Foreign Service (SSIFS) Shri Sanjiv Ranjan on Monday (05) at the SSIFS in New Delhi.
-
-The inauguration of the programme, which is attended by 23 Sri Lankan officers, was held in the presence of the High Commissioner of Sri Lanka to India Kshenuka Senewiratne, the SSIFS said.
-
-The customized short-term training programme, intended for the latest batch of Sri Lanka Foreign Service (SLFS) officers, is offered by the Government of India.
-
-This is the first tailor-made course for Sri Lankan diplomats to be held at the Sushma Swaraj Institute of Foreign Service, New Delhi, according to Sri Lanka’s Ministry of Foreign Affairs.
-
-An initial batch of 10 new SLFS recruits as well as other officials from government agencies will attend this course from 05 -13 August 2024 in New Delhi.
-
-◼️
-
-[Data](articles/d5a3c14b.json)
-
-[Extended Data](ext_articles/d5a3c14b.ext.json)
 
 ---

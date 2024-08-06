@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 07:02:29**
+As of **2024-08-06 07:28:58**
 
 ## Newspaper Stats
 
-*Scraped **39,200** Articles*
+*Scraped **39,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,75 @@ adaderanalk | 4,547
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,909
 virakesarilk | 6,205
-adaderanasinhalalk | 6,619
+adaderanasinhalalk | 6,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,192 (100.0%) of 39,200 articles have been extended.
+39,197 (100.0%) of 39,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### අද කාලගුණය
+### ජනපතිගෙන් තවත් ගැසට්ටුවක්
+
+*2024-08-06 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199605) · `si`
+
+විදුලිබල සැපයීම සම්බන්ධ සියලුම සේවා සහ ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම අත්‍යවශ්‍ය සේවා බවට පත් කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් ඊයේ (05) එම ගැසට් නිවේදනය නිකුත් කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8c8dc77d.json)
+
+---
+
+### ජනපතිට සහාය පළ කළ පොහොට්ටුවේ මන්ත්‍රීවරු විශේෂ සාකච්ඡාවක
+
+*2024-08-06 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199604) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මන්ත්‍රීවරුන්ගේ විශේෂ සාකච්ඡාවක් ඊයේ (05) රාත්‍රී පවත්වා තිබේ.
+
+බත්තරමුල්ලේ පිහිටි හෝටලයකදී මෙම සාකච්ඡාව පවත්වා ඇති බව වාර්තා වේ.
+
+සාකච්ඡාව සඳහා අමාත්‍යවරුන් වන ප්‍රසන්න රණතුංග, කංචන විජේසේකර, රමේෂ් පතිරණ, අලි සබ්රි ඇතුළු මැති ඇමතිවරුන් රැසක් සහභාගී වී සිට ඇති බව සඳහන්ය.
+
+ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය සඳහා දිස්ත්‍රික් මට්ටමින් ජනතාව දැනුවත් කිරීමේ වැඩපිළිවෙළ පිළිබඳව මෙම සාකච්ඡාවේ දී අවධානය යොමුව තිබේ.
+
+සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ පාර්ලිමේන්තු මන්ත්‍රී එස්.බී. දිසානායක මහතා,
+
+"අද සාකච්ඡාව දිස්ත්‍රික් රැස්වීම් පැවැත්වීම, දිස්ත්‍රික් මැතිවරණ කාර්යාල පිහිටුවීම, ආසන රැස්වීම් පැවැත්වීම, ජනාධිපතිතුමාගේ නාමයෝජනා භාරදීමේ දිනයේ වැඩසටහන සහ ප්‍රචාරක වැඩසටහන යන සියල්ල කතා කළා. අපේ මන්ත්‍රීවරු 91ක් හිටියා. තව කිහිපදෙනෙක් ඉන්නවා හෙට අනිද්දා වෙද්දි නම් හෙළිවෙයි."
+
+සාකච්ඡාවට එක්වූ අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ද මෙසේ අදහස් පළ කළේය.
+
+...
+
+[Data](articles/772ef81c.json)
+
+---
+
+### Weather today
 
 *2024-08-06 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199603) · `si`
 
-අද (06) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers in Western, Sabaragamuwa, and North Western provinces today. Thunderstorms may bring heavy rain in over 50% areas tonight. The Meteorology Department advises caution against wind and lightning risks due to thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ, දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces today (06).
+
+The department stated that showers or thundershowers during the evening or night in other parts of the island have occurred.. Heavy rains can occur in more than 50.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1933fece.json)
+
+[Extended Data](ext_articles/1933fece.ext.json)
 
 ---
 
@@ -174,17 +218,23 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 
 ---
 
-### இலவச உரம் வழங்க நடவடிக்கை
+### Action to provide free fertilizer
 
 *2024-08-06 01:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-உரம்-வழங்க-நடவடிக்கை/175-341660) · `ta`
 
-மூன்று மாவட்டங்களை சேர்ந்த மரக்கறி செய்கையாளர்களுக்காக இலவசமாக உரம் வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Steps have been initiated to offer free fertilizer to vegetable farmers in Kurunegala, Matale, and Moneragala districts, benefiting 3,476 farmers.
 
-குருணாகல், மாத்தளை மற்றும் மொனராகலை ஆகிய 3 மாவட்டங்களிலுள்ள 3,476 விவசாயிகளுக்கு இலவச உரம் வழங்கப்படவுள்ளது.
+🟩
+
+Steps have been taken to provide free fertilizer for vegetables from three districts.
+
+Free fertilizer will be provided to 3,476 farmers in three districts - Kurunegala, Matale and Moneragala.
 
 ◼️
 
 [Data](articles/058c26ec.json)
+
+[Extended Data](ext_articles/058c26ec.ext.json)
 
 ---
 
@@ -401,6 +451,8 @@ Susan William’s brilliant and brave book “White Malice” is subtitled “Th
 ...
 
 [Data](articles/b19e9a6c.json)
+
+[Extended Data](ext_articles/b19e9a6c.ext.json)
 
 ---
 
@@ -669,6 +721,8 @@ The acquisition of Lipton Teas and Infusions Tanzania Limited, another target co
 ...
 
 [Data](articles/ebe4b521.json)
+
+[Extended Data](ext_articles/ebe4b521.ext.json)
 
 ---
 
@@ -2179,53 +2233,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/5e0f3a86.json)
 
 [Extended Data](ext_articles/5e0f3a86.ext.json)
-
----
-
-### Mother arrested after infant brutally beaten to death in Jaffna
-
-*2024-08-05 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101011/mother-arrested-after-infant-brutally-beaten-to-death-in-jaffna) · `en`
-
-A forty-two-day-old infant has tragically passed away after allegedly being inhumanely beaten by the child’s mother in the Alaveddy area in Jaffna.
-
-Police said that the infant had sustained fatal injuries, including bruises to the head and other parts of the body.
-
-The mother had initially admitted the baby to the Alaveddy Divisional Hospital, claiming the infant had lost consciousness after breastfeeding. The child has been subsequently transferred to Tellippalai Base Hospital.
-
-However, the post-mortem examination has confirmed that the infant’s death resulted from a severe head injury.
-
-Furthermore, it has been revealed that one of the child’s arms has been bruised and a leg fractured.
-
-Preliminary police investigations have uncovered that the incident occurred after the baby refused breast milk.
-
-The 33-year-old mother has been arrested by Tellippalai Police who are conducting further investigations.
-
-◼️
-
-[Data](articles/969567bc.json)
-
-[Extended Data](ext_articles/969567bc.ext.json)
-
----
-
-### Prime Minister Hasena escapes Bangladesh
-
-*2024-08-05 15:20:56* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-හසීනා-බංග්ලාදේශයෙන්-පළා-යයි/11-411209) · `si`
-
-Bangladesh's PM Hasina has escaped Dhaka amid protests, likely heading to India. Reports suggest she may resign amidst ongoing political turmoil.
-
-🟩
-
-The Prime Minister of Bangladesh has fled the prime minister in the opposition of Haseana protesters.
-
-She HAS LEFT DHAKA IN AFPEDS BROODS BROOKE INTO HER Residence in Dhaka. REPORTS CLAIM MASINA IS Headed To Beengal, India!
-
-Hasina Is Likeley To Tender Herger Herger Herrner Resignation Amid The ... Pic.twittern.com/t3pa9ucppt5
-
-◼️
-
-[Data](articles/125e55bc.json)
-
-[Extended Data](ext_articles/125e55bc.ext.json)
 
 ---

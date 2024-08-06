@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 23:36:37**
+As of **2024-08-06 23:56:13**
 
 ## Newspaper Stats
 
-*Scraped **39,357** Articles*
+*Scraped **39,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,58 @@ adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,932
-virakesarilk | 6,228
+virakesarilk | 6,229
 adaderanasinhalalk | 6,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,354 (100.0%) of 39,357 articles have been extended.
+39,357 (100.0%) of 39,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### අරුණ දර්ශන ට 5වන තැන
+### The Aruna Views is 5th
 
 *2024-08-06 23:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199647) · `si`
 
-පැරිස් ඔලිම්පික් උළෙලේ පිරිමි මීටර් 400 ඉසව්වේ අවසන් පූර්ව තරගයට අද (06) සහභාගී වූ ශ්‍රී ලංකාවේ අරුණ දර්ශන එහි 05වන ස්ථානය හිමි විය.
+Aruna Visions from Sri Lanka reached the semi-finals in the Paris Olympics, achieving a personal best time of 44 seconds and 7 summories.
 
-අරුණ තත්පර 44යි දශම 7යි 5කින් එම ඉසව්ව නිමකළේ සිය පෞද්ගලික හොඳම දක්ෂතාවද වාර්තා කරමින්.
+🟩
+
+Sri Lanka's Aruna Visions participated in the semi-finals of the Paris Olympics.
+
+Aruna completes 44 seconds and 7 summories, reporting their personal best talent.
 
 ◼️
 
 [Data](articles/3ae9e9ab.json)
 
+[Extended Data](ext_articles/3ae9e9ab.ext.json)
+
 ---
 
-### கம்பஹாவில் மற்றுமொரு துப்பாக்கிச் சூடு!
+### Another firing in Gampaha!
 
 *2024-08-06 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190454) · `ta`
 
-குறித்த துப்பாக்கிச் சூட்டு சம்பவம் 06ஆம் திகதி இரவு இடம்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+In Gampaha, a shooting occurred on the night of the 6th, targeting a 29-year-old man. Two suspects on a motorbike fled the scene. The victim is now hospitalized.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்கான நபர் மோட்டார் சைக்கிளில் பயணித்த போது, மற்றுமொரு மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளனர்.
+🟩
 
-துப்பாக்கிச் சூட்டுக்கு இலக்கான 29 வயதுடைய நபர் சிகிச்சைக்காக கம்பஹா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The police media unit said that the shooting incident took place on the night of the 6th.
+
+Two people on a motorbike fled after they were traveling on a motorbike.
+
+A 29 -year -old man who was targeted for the shooting has been admitted to the Gampaha Hospital for treatment, police said.
 
 ◼️
 
 [Data](articles/7c061c22.json)
+
+[Extended Data](ext_articles/7c061c22.ext.json)
 
 ---
 
@@ -122,19 +134,47 @@ Ravi Karunanayake, who has made it clear to the Fact Seeker, said that he had no
 
 ---
 
-### தமிழ் பொது வேட்பாளர் விவகாரம் நேரத்தை வீணடிக்கும் செயல்  - சிவனேசதுறை சந்திரகாந்தன்
+### அலங்கார மீன் ஏற்றுமதி மூலம் அரசுக்கு 25,267.2 மில்லியன் ரூபா வருமானம் - அமைச்சர் டக்ளஸ்
+
+*2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190442) · `ta`
+
+2019ஆம் ஆண்டு முதல் இவ்வரு டத்தின் கடந்த ஜூன் மாதம் வரையான காலப்பகுதியில் அலங்கார மீன்கள்  ஏற்றுமதி மூலம் 25,267.2  மில்லியன் ரூபாவை வருமானமாக பெற்றுக் கொண்டுள்ளோம் என கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) வாய்மூல விடைக்கான கேள்வி நேரத்தில்  மிலான் ஜயதிலக எம்பி எழுப்பிய கேள்வி ஒன்றுக்கு பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்தார்.
+
+நாட்டில் 7974 பேர் அலங்கார மீன் தொழில் மற்றும் அது சம்பந்தமான நடவடிக்கைகளில் ஈடுபட்டுள்ளனர். அவர்களுக்கான அனைத்து சலுகைகள் ஊக்குவிப்புகளும் வழங்கப்படுகின்றன.
+
+அந்த வகையில் 2019 ஆம் ஆண்டு 548.8 மெற்றிக் தொன் அலங்கார மீன்கள் ஏற்றுமதி செய்யப்பட்டுள்ளன. அதன் மூலம் 2908 .3 மில்லியன் ரூபா வருமானமாக பெற்றுக்கொள்ளப்பட்டுள்ளது.
+
+அத்துடன் 2020 ஆம் ஆண்டில் 2408.7 மில்லியன் ரூபா, 2021 ஆம் ஆண்டில் 4183.6 .மில்லியன் ரூபா ,2022 ஆம் ஆண்டில் 7135 .5 மில்லியன் ரூபா, 2023 ஆம் ஆண்டில் 8631.1 மில்லியன் ரூபா  மற்றும் இந்த ஆண்டில் கடந்த ஆறு மாதங்களில் 3236. 2 மில்லியன் ரூபாவும் வருமானமாக பெற்றுக் கொள்ளப்பட்டுள்ளது என்றார்.
+
+◼️
+
+[Data](articles/3b0e79c2.json)
+
+---
+
+### Sivanesathurai Chandrakanthan
 
 *2024-08-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190440) · `ta`
 
-வடக்கு, கிழக்கில் நடைமுறை சாத்தியமற்ற தீர்மானங்களுக்காக சில தலைவர்கள் நேரத்தை வீணடித்துக் கொண்டிருக்கின்றார்கள். தமிழ் பொது வேட்பாளர் விவகாரமும் அவ்வாறு நேரத்தை வீணடிக்கும் செயற்பாடே. ஜனாதிபதி ரணில் விக்கிரமசிங்க மீது தமிழ் மக்களின் நம்பிக்கை மேலெழுந்துள்ளதாக கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவனேசதுறை சந்திரகாந்தன் தெரிவித்தார்.
+Minister Sivanesathurai Chandrakanthan criticizes leaders for focusing on impractical solutions in Sri Lanka's North and East, including the Tamil general candidate. He expresses concern over the Tamil community's dwindling trust in President Ranil Wickremesinghe. The Tamil National Party may consider legal action, highlighting ideological divisions and ineffective leadership. Wickremesinghe, despite past failures, is expected to address national issues post-elections, potentially regaining popularity among Tamils if he fulfills his promises.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்கிழமை (06) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நீதிமன்றத்துக்கு செல்ல வேண்டிய நிலைமையில் தான் இன்று தமிழரசு கட்சி காணப்படுகிறது. ஒரு சிலர் வடக்கு, கிழக்கில் பொது வேட்பாளர் களமிறக்கப்பட வேண்டும் என்று பேசிக் கொண்டிருக்கின்றார்கள். சில தலைவர்கள் அவர்களது சித்தாந்தத்தின் அடிப்படையில் நாட்டை குழப்பும் வகையில் செயற்பட்டுக் கொண்டிருக்கின்றனர்.
+Some leaders are wasting time for practical impossible resolutions in the North and East. The Tamil general candidate is also a waste of time. Minister of Rural Roads Development Sivanesathurai Chandrakanthan said that the Tamil people's confidence in President Ranil Wickremesinghe is over.
+
+He further stated this at a press conference held at the Presidential Media Center on Tuesday (06).
+
+The Tamil National Party is seen today in a position to go to court. A few are talking about the general candidate in the North and East. Some leaders are working to confuse the country based on their ideology.
+
+They are wasting time in the thoughts that are practical impossible, and repeatedly failed. So their thoughts are impossible. But people are wise to make the best decision.
 
 ...
 
 [Data](articles/797f9ace.json)
+
+[Extended Data](ext_articles/797f9ace.ext.json)
 
 ---
 
@@ -2227,29 +2267,5 @@ Accordingly, it has been observed that the government officers who retired from 
 [Data](articles/2c65ee99.json)
 
 [Extended Data](ext_articles/2c65ee99.ext.json)
-
----
-
-### Navy bears commercial explosives
-
-*2024-08-06 11:58:49* · [`adalk`](https://www.ada.lk/breaking_news/වාණිජ-පුපුරණ-ද්‍රව්‍ය-‍තොගයක්-නාවික-හමුදා-භාරයට/11-411223) · `si`
-
-Sri Lanka Navy investigated a cab transporting commercial explosives in Mannar, suspecting it for the illegal fishing industry. They took custody of a non-electric detonator from the ship Gaja, aiming to prevent ecological damage. The case was handed over to the Mannar Police Station.
-
-🟩
-
-Investigation operations conducted by the Sri Lanka Navy in Mannar.Steps were taken to obtain a cab (01) a cab suspected to transport the explosives.
-
-Due to explosives, the Navy is conducting further attention to prevent the damage to the ocean ecosystem.
-
-Accordingly, Sri Lanka Naval Ship Gaja belonging to the North Central Marine Directiva, a non-electrification detonator (30)(Colombo-Lankapuvath) The Navy was taken into custody with a cab suspect that the explosives were transported with Rs. 350G.
-
-It is believed to be hidden in the Southbar to use explosives for illegal fishing industry.Steps were handed over to the Mannar Police Station.
-
-◼️
-
-[Data](articles/81b42d53.json)
-
-[Extended Data](ext_articles/81b42d53.ext.json)
 
 ---

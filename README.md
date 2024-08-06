@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 11:37:01**
+As of **2024-08-06 11:56:15**
 
 ## Newspaper Stats
 
-*Scraped **39,248** Articles*
+*Scraped **39,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,554
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,921
 virakesarilk | 6,209
-adaderanasinhalalk | 6,636
+adaderanasinhalalk | 6,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,247 (100.0%) of 39,248 articles have been extended.
+39,248 (100.0%) of 39,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### රාජ්‍ය සේවක විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීමට අනුමැතිය
+
+*2024-08-06 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199621) · `si`
+
+රාජ්‍ය සේවයෙහි පවතින විශ්‍රාම වැටුප් විෂමතා ඉවත් කිරීම සඳහා ජනාධිපතිවරයා විසින් ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩලය අනුමැතිය හිමිවී තිබේ.
+
+රජය විසින් වරින්වර සිදුකරන ලද වැටුප් සංශෝධන මෙන්ම අමාත්‍ය මණ්ඩලය විසින් ගන්නා ලද විවිධ ප්‍රතිපත්තිය තීරණ හේතුවෙන් ඇතැම් විශ්‍රාමික කණ්ඩායම්හට විශ්‍රාම වැටුප් විෂමතා නිර්මාණය වී ඇත.
+
+ඒ අනුව, 2016-01-01 දින සිට 2020-01-01 දින දක්වා විශ්‍රාම ගන්නා ලද රාජ්‍ය නිලධාරින්ට යම් අසාධාරණයක් සිදු වී ඇති බව නිරීක්ෂණය වී ඇති අතර, එකී වැටුප් විෂමතාව ඉවත් කිරීම තුළින් විශ්‍රාමික රාජ්‍ය නිලධාරීන් 83,000ක පමණ පිරිසකට සහනයක් ලබා දීමට හැකි වේ.
+
+එම විශ්‍රාමික නිලධරයන්ගේ විශ්‍රාම වැටුප, 2018-02-25 දිනැති රාජ්‍ය පරිපාලන චක්‍රලේඛ අංක 03/2016හි උපලේඛන අංක 1 අනුව සම්පුර්ණ වැටුප පදනම් කර ගනිමින් උපරිම රුපියල් 2,500ක වැඩිවීමක් ලැබෙන පරිදි සංශෝධනය කිරීම පිණිස මුදල්, ආර්ථික ස්ථායී කරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+
+◼️
+
+[Data](articles/34d003b0.json)
+
+---
 
 ### AKD places deposits to contest Presidential Election
 
@@ -150,21 +168,27 @@ A ten-year-old child who was injured in the accident have been admitted to the H
 
 ---
 
-### ඊශ්‍රායලයේ සිටින ලාංකිකයින්ට හදිසි දැනුම්දීමක්
+### Emergency notice to Sri Lankans in Israel
 
 *2024-08-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199617) · `si`
 
-ඊශ්‍රායලයේ පවතින ගැටුම්කාරී තත්ත්වය හමුවේ එරට සිටින සියලු ශ්‍රී ලාංකිකයන්ට සහ සියලු විදෙස් ශ්‍රමිකයන් සඳහා හදිසි අවස්තාවක් ඇති වූවහොත් ක්‍රියාකිරීම සඳහා දුරකථන අංක කිහිපයක් සහ මාර්ගෝපදේශ නිකුත් කර තිබේ.
+An emergency notice advises Sri Lankans in Israel, including foreign workers, not to worry. The Sri Lankan Ambassador assures safety, noting 11,000 Sri Lankans work there, mostly in healthcare (70%) and agriculture/construction (30%).
 
-මේ සම්බන්ධයෙන් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බන්ඩාර මහතාගෙන් "අද දෙරණ" කළ විමසීමකදී ඔහු ප්‍රකාශ කළේ, මේ වන විට ශ්‍රී ලංකිකයින් 11,000ක් පමණ ඊශ්‍රායලයේ සේවය කරන බවත් ඉන් 70%ක් පමණ සාත්තු සේවකයන් ලෙස සේවය කරන්නන් බවත්ය.
+🟩
 
-ඉතිරි 30% කෘෂිකාර්මික සහ ඉදිකිරීම් අංශයන්හි සේවය කරන බව නිමල් බණ්ඩාර මහතා සඳහන් කළේය.
+There are several telephone numbers and guidelines for all Sri Lankans and all Sri Lankans in Israel and all Sri Lankans in Israel and all foreign workers.
 
-මේ අතර ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් අනියත බියක් ඇති නොගන්නා ලෙස එරට ශ්‍රී ලංකා තානාපති කාර්යාලය දැනුම්දෙයි.
+Sri Lanka's Ambassador to Israel, "Ada Derana" stated that 11,000 Sri Lankans are working in Israel and about 70% of them are nursing.
+
+The remaining 30% serving in agricultural and construction areas, Nimal Bandara said.
+
+Sri Lanka's Embassy of Sri Lanka not to fear for Sri Lankans in Israel.
 
 ◼️
 
 [Data](articles/81ee93b1.json)
+
+[Extended Data](ext_articles/81ee93b1.ext.json)
 
 ---
 
@@ -2155,31 +2179,5 @@ Transport Minister Lasantha Alagiyavanna said this while addressing a press conf
 [Data](articles/75656697.json)
 
 [Extended Data](ext_articles/75656697.ext.json)
-
----
-
-### Mother arrested for suspicion that baby and murdered
-
-*2024-08-05 19:47:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-එකහමාරක-බිළිඳා-පහරදී-ඝාතනය-කළැයි-මව-සැක-පිට-අත්අඩංගුවට/11-411217) · `si`
-
-A mother was arrested for suspected murder of her infant, who died from head injuries and bruises a month and a half ago. The baby was initially treated at Alaveddi Regional Hospital before being transferred to Tippalai Hospital for further care. An autopsy conducted at Jaffna Teaching Hospital confirmed the cause of death as assault. The Helaippalai police have made an arrest in this case.
-
-🟩
-
-The baby's mother was arrested on suspicion of a month and a half after the death of a month and a half after the death of a month and a half after the death of a monthly infant.
-
-The Alaveddi Regional Hospital was admitted to the Tippalai Hospital for further treatment yesterday (4).
-
-However, the baby was dead at the Thelappalai Hospital and the infant's body and head injuries and bruising and bruises were taken to conduct a post mortem examination.
-
-The death of the baby's head to the Jaffna Teaching Hospital, the death was caused by an assault on the infant's head to the Jaffna Teaching Hospital.. It was revealed that he had assaulted several places in the infant.
-
-The Helaippalai police are arrested on suspect with the influence of the infant.
-
-◼️
-
-[Data](articles/6d681a5e.json)
-
-[Extended Data](ext_articles/6d681a5e.ext.json)
 
 ---

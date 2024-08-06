@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 15:05:54**
+As of **2024-08-06 15:21:09**
 
 ## Newspaper Stats
 
-*Scraped **39,279** Articles*
+*Scraped **39,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,89 @@ adaderanalk | 4,563
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,924
 virakesarilk | 6,209
-adaderanasinhalalk | 6,643
+adaderanasinhalalk | 6,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,277 (100.0%) of 39,279 articles have been extended.
+39,279 (100.0%) of 39,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### மனோ அணி சஜித்துக்கு ஆதரவு
+### බංග්ලාදේශයේ පාර්ලිමේන්තුව විසුරුවා හරී
+
+*2024-08-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199630) · `si`
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ බංග්ලාදේශ ජනාධිපති කාර්යාලය ඒ බව නිවේදනය කර ඇති බවය.
+
+◼️
+
+[Data](articles/4ad3ff0d.json)
+
+---
+
+### පාසලේ සංගීත කාමරයට ගිනි තැබුවේ කවුද ?
+
+*2024-08-06 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199629) · `si`
+
+ආණමඩුව ප්‍රදේශයේ විදුහලක සංගීත කාමරය ගිනි තබා විනාශ කිරීමේ සිද්ධිය සම්බන්ධයෙන් එම පාසලේම 8වන ශ්‍රේණියේ සිසුවෙකුගෙන් පොලීසිය ප්‍රශ්න කර තිබේ.
+
+මෙම ගිනිතැබීම සඳහා එම සිසුවාට අමතරව තවත් සිසුවෙකු ද සම්බන්ධ වී ඇති බවට සැක කෙරෙයි.
+
+පසුගිය 04 වනදා මෙම විදුහලේ සංගීත ඒකකය ගිනි ගැනීමකින් විනාශවී තිබූ අතර එය අනෙක් ගොඩනැගිලි වෙත පැතිර යාම වැළැක්වීම සඳහා විදුහල්පතිවරයා සහ ගුරුවන් පිරිසක් සමත්වී තිබුණි.
+
+අදාළ ගිනිගැනීම විදුලි කාන්දුවක්ද නැතහොත් ගිනි තැබීමක්ද යන්න සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කළේය.
+
+එහිදී හෙළිවී ඇත්තේ පාසල් සිසුවෙකු දහවල් කාලයේ පාසල පිටුපස ආරක්ෂිත වැටෙන් පාසල් භූමිය වෙත පැමිණ ඇති බවය.
+
+මෙහිදී අදාළ සිසුවාගෙන් පොලිස් බුද්ධි අංශ නිලධාරීන් විසින් සිදුකළ වැඩිදුර ප්‍රශ්න කිරීම් හමුවේ තොරතුරු ලැබී ඇත්තේ දිවුල් කැඩීමට ගසට ගැසූ ගලකින් සංගීත කාමරයේ වීදුරුවක් බිඳී ගිය බවය.
+
+අද දෙරණ මේ සම්බන්ධයෙන් ආණමඩුව පොලීසියේ උසස් නිලධාරියෙකුගෙන් කළ විමසීමේදී ඔහු සඳහන් කළේ අදාළ සිද්ධිය සම්බන්ධයෙන් සිසුවෙකුගෙන් ප්‍රශ්න කරමින් සිටින බවය.
+
+...
+
+[Data](articles/6d7a29c1.json)
+
+---
+
+### Psychic team support for Sajith
 
 *2024-08-06 14:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-அணி-சஜித்துக்கு-ஆதரவு/175-341692) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாஸவிற்கு ஆதரவு வழங்க தமிழ் முற்போக்கு கூட்டணி தீர்மானித்துள்ளது.
+The Tamil Progressive Alliance endorses Sajith Premadasa for president, signaling significant support ahead of the election.
+
+🟩
+
+The Tamil Progressive Alliance has decided to support the presidential candidate Sajith Premadasa in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/336d65fa.json)
+
+[Extended Data](ext_articles/336d65fa.ext.json)
+
+---
+
+### වතු සේවක වැටුප් වැඩි කිරීමට එරෙහි පෙත්සම ඉල්ලා අස් කරගනී
+
+*2024-08-06 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199628) · `si`
+
+වතු සමාගම් 21ක් විසින් ගොනුකර තිබූ රිට් පෙත්සමක් අද (06) අභියාචනාධිකරණය හමුවේ ඉල්ලා අස්කර ගනු ලැබීය.
+
+වතු කම්කරු වටුප් වැඩිකරමින් කම්කරු අමාත්‍ය මනුෂ නානායක්කාර මහතා විසින් නිකුත් කළ ගැසට් නිවේදනය බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම් ගොනුකර තිබුණි.
+
+මෙම නඩුව අද සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවීය.
+
+එම අවස්ථාවේදී පෙත්සම ඉදිරිපත් කළ ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21ක් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙස ඉල්ලා සිටියේය.
+
+වතු කම්කරුවන්ගේ වැටුප් වැඩි කිරීමට අදාළව නිකුත් කළ ගැසට් නිවේදනය කම්කරු අමාත්‍යවරයා විසින් ඉවත් කරගෙන තිබෙන බව ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාෆා මහතා මීට පෙර අධිකරණයට දැනුම්දී තිබුණි.
+
+◼️
+
+[Data](articles/d64a0806.json)
 
 ---
 
@@ -62,21 +124,27 @@ Accordingly, the Cabinet of Ministers has approved the proposal furnished by Pre
 
 ---
 
-### නාමල් ඉල්ලා අස්වෙයි
+### Namal resigns
 
 *2024-08-06 13:57:52* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ඉල්ලා-අස්වෙයි/11-411232) · `si`
 
-ජාත්‍යන්තර සබඳතා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සමාජිකත්වයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ඉල්ලා අස්වී ඇති බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (06දා) පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+Namal Rajapaksa resigns as Chairman of the Sectoral Oversight Committee on International Relations. Mahinda Yapa Abeywardena announces this in Parliament, stating that due to his resignation, there's a vacancy for the position. The Select Committee nominates an attorney to fill this gap under Standing Order 130(3).
 
-ඒ අනුව එම පුරප්පාඩුව සඳහා ස්ථාවර නියෝග 130(3) හි විධිවිධාන අනුව 2024 අගෝස්තු 02 වැනිදා තේරීම් කාරක සභාව විසින් පාර්ලිමේන්තු මන්ත්‍රී නීතීඥ ප්‍රේම්නාත් සී දොලවත්ත නම් කර ඇති බවද හෙතෙම සඳහන් කළේය.
+🟩
 
-ජාත්‍යන්තර සබඳතා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ලෙස නාමල් රාජපක්ෂ මන්ත්‍රීවරයා කටයුතු කරනු ලැබිණි.
+Speaker Mahinda Yapa Abeywardena informed Parliament today (06) that MP Namal Rajapaksa has resigned from the Sectoral Oversight Committee on International Relations.
 
-ඒ අනුව ඔහුගේ ඉල්ලා අස්වීම මත සභාපති ධුරයේදී පුරප්පාඩුවක් ඇතිව තිබේ.
+Accordingly, on August 2, 202, on August 2, 202, has been nominated by the Select Committee of Parliamentarian Attorney at the provisions of the Standing Orders 130 (3) for the aforesaid vacancy.
+
+MP Namal Rajapaksa was the Chairman of the Sectoral Oversight Committee on International Relations.
+
+Accordingly, he has a vacancy at the post of Chairman on his resignation.
 
 ◼️
 
 [Data](articles/94e77017.json)
+
+[Extended Data](ext_articles/94e77017.ext.json)
 
 ---
 
@@ -2123,69 +2191,5 @@ Speaking at a press conference held at the Presidential Media Center today (05).
 [Data](articles/c12e05d8.json)
 
 [Extended Data](ext_articles/c12e05d8.ext.json)
-
----
-
-### Special protection for candidates after nomination - Ministry of Public Security
-
-*2024-08-05 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190372) · `ta`
-
-Following the attack on former US President Donald Trump during his campaign, Sri Lanka's Ministry of Public Security has enhanced security measures for its Presidential candidates since the 15th of this month. A committee, led by the Ministry's Secretary, includes top officials like the Chief of Security Forces and the Inspector General of Police, to ensure candidate safety during the upcoming elections.
-
-🟩
-
-The Ministry of Public Security has said that steps have been taken to provide special security to the Presidential candidates from the 15th of this month.A cabinet paper was submitted by Ranil Wickremesinghe. The former presidential candidates were aimed at ensuring the personal security of the candidates who contested the proposed presidential election in Sri Lanka, considering that former President Donald Trump was attacked at the presidential election campaign in Butler's election campaign in Pennsylvania, USA.The committee has been appointed under the leadership of the Secretary of the Ministry of Public Security to oversee the security arrangements. The Chief of the Security Forces, the Inspector General of Police, the Director of the National Investigation Division and the Senior Deputy Inspector General of Police (Elections) are the other members of the committee.
-
-◼️
-
-[Data](articles/f3a4016c.json)
-
-[Extended Data](ext_articles/f3a4016c.ext.json)
-
----
-
-### Active in Dubai
-
-*2024-08-05 23:11:00* · [`islandlk`](http://island.lk/active-in-dubai/) · `en`
-
-Seven Notes, made up of Sri Lankan musicians, based in Dubai, are doing exceptionally well in the scene over there, with work coming their way on a regular basis.
-
-On August 3rd, 2024, the band was at the Golden Mercury Hotel’s V Club performing at ‘Mandakini Chapter 2.’
-
-Presented by Seven Notes themselves, the night, I’m told, featured a stellar lineup of artistes, including Sirasa TV’s The Voice Teen sensation, Yenuli Neriah, and Dubai’s renowned vocalist, Pasindu Udayanga, as well as talented performers Rishi and Rajith.
-
-This event was organized by Seven Notes bassist Niluk Uswaththa.
-
-Seven Notes will also be seen in action at more events, coming up in September.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/ce655942.json)
-
-[Extended Data](ext_articles/ce655942.ext.json)
-
----
-
-### Umachandra Prakash appointed as the Chief Organizer of the Northern Province of the United People's Power
-
-*2024-08-05 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/190371) · `ta`
-
-Umachandra Prakash, appointed by Sajith Premadasa, will lead the United People's Power Party's efforts in the Northern Province.
-
-🟩
-
-Umachandra Prakash has been appointed as the Chief Organizer of the United People's Power by Sajith Premadasa on Monday (5).
-
-Accordingly, Umachandra Prakash has been given the responsibility and responsibility of the United People's Power Party's structure for the Northern Province.
-
-◼️
-
-[Data](articles/d863cb1d.json)
-
-[Extended Data](ext_articles/d863cb1d.ext.json)
 
 ---

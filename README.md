@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 17:20:50**
+As of **2024-08-06 17:36:52**
 
 ## Newspaper Stats
 
-*Scraped **39,302** Articles*
+*Scraped **39,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,94 @@ newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
 islandlk | 2,264
-economynextcom | 2,371
+economynextcom | 2,381
 dailyftlk | 2,519
-adalk | 3,610
+adalk | 3,613
 adaderanalk | 4,567
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,926
+tamilmirrorlk | 4,928
 virakesarilk | 6,216
-adaderanasinhalalk | 6,651
+adaderanasinhalalk | 6,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,299 (100.0%) of 39,302 articles have been extended.
+39,301 (100.0%) of 39,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
+
+### பங்களாதேசின் முன்னாள்  அமைச்சர் கைது
+
+*2024-08-06 17:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேசின்-முன்னாள்-அமைச்சர்-கைது/50-341699) · `ta`
+
+பங்களாதேஷின் முன்னாள் அமைச்சரும், அவாமி லீக் கட்சியின் தலைவருமான ஜூனைத் அஹமதுவை இராணுவம் கைது செய்தது.
+
+பங்களாதேசில் ஒரு மாதமாக நடந்த மாணவர் போராட்டங்களில், 300க்கும் மேற்பட்டோர் உயிரிழந்த நிலையில், பிரதமர் ஷேக் ஹசீனா நேற்று தன் பதவியை இராஜினாமா செய்து, நாட்டை விட்டு வெளியேறினார். அங்கு ஆட்சியை இராணுவம் கையில் எடுத்தது.
+
+இந்நிலையில், அந்நாட்டு பாராளுமன்றத்தைக் கலைத்த ஜனாதிபதி ஷஹாபுதீன், ஜூலை 1 முதல் ஆக.,5 வரை கைதான அனைவரையும் விடுதலை செய்யவும் உத்தரவிட்டுள்ளார்.
+
+மேலும், ஊழல் வழக்கில் கைதாகி சிறையில் இந்த முன்னாள் பிரதமர் கலிதாஜியாவை விடுதலை செய்ய ஜனாதிபதி நேற்று உத்தரவிட்டார். இதனையடுத்து இன்று அவர் விடுதலை செய்யப்பட்டார்.
+
+இதற்கிடையே, ஹசீனா அமைச்சரவையில் தகவல் தொழில்நுட்பத்துறை அமைச்சராக பதவி வகித்தவரும், அவாமி லீக் கட்சி தலைவருமான ஜூனைத் அஹமதுவை பொலிஸார் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/3dd33e8a.json)
+
+---
+
+### Sri Lanka’s LB Finance merges Multi Finance Plc
+
+*2024-08-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-lb-finance-merges-multi-finance-plc-175417/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s LB Finance said it had merged Kandy-based licensed finance company Multi Finance Plc.
+
+After passing a special resolution to amalgamate Multi Finance PLC with LB Finance PLC at an Extraordinary General Meeting held on June 28, “necessary steps were duly taken by the Company to register the said amalgamation with the Department of Registrar General of Companies (DRGOC),” the company said in a stock exchange filing.
+
+“The DRGOC having validated the accuracy of the process we have adopted for the said amalgamation in terms of the provisions of the Companies Act No. 07 of 2007, issued us the “Certificate of Amalgamation Issued to a Limited Company” today.”
+
+Fairway Holdings was the previous largest shareholder of Multi Finance following an acquisition in 2017.
+
+In 2022, LB Finance bought a 64 percent stake in Mutli Finance for 400 million rupees.
+
+...
+
+[Data](articles/23ed6b09.json)
+
+---
+
+### බංග්ලාදේශයේ තත්ත්වය ගැන ජනපතිගෙන් හෙළිදරව්වක්
+
+*2024-08-06 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199636) · `si`
+
+ෂෙයික් හසීනා මීට පෙර එක් පියවරක් අනුගමනය කර තිබුණේ නම් අද බංග්ලාදේශය තුළ මෙවැනි තත්ත්වයක් ඇති නොවන්නට ඉඩ තිබූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (06) පෙරවරුවේ කොළඹ සිනමන් ග්‍රෑන්ඩ් හෝටලයේදී ආරම්භ කෙරුණු 2024 පරිසර, සමාජීය හා පාලනය (ESG) පිළිබඳ සමුළුව අමතමිනි.
+
+"අපගේ මිත්‍ර රටක් වන බංගලාදේශයේ දේශපාලනය පිළිබඳ කතා කිරීමට මා අදහස් නොකරන නමුත් ඒ පිළිබඳ යමක් සඳහන් කළයුතුයි. ෂෙයික් හසීනා මහත්මිය අග්‍රාමාත්‍ය ධුරයෙන් ඉවත්ව ගියත්, අප ඉතා අසීරු අවස්ථාවක සිටිදී ඇය අපේ රටට ඩොලර් මිලියන 200ක් ලබා දුන් බව මම සිහිපත් කළ යුතුයි."
+
+...
+
+[Data](articles/4184e79a.json)
+
+---
+
+### கல்வி அமைச்சு அதிரடி அறிவிப்பு
+
+*2024-08-06 17:09:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-அதிரடி-அறிவிப்பு/175-341698) · `ta`
+
+2024 ஆம் ஆண்டுக்கான சுற்றறிக்கையின் பிரகாரம் தேசிய பாடசாலைகளின் இடைநிலை வகுப்புகளுக்கு பிள்ளைகளை அனுமதிப்பது நிறைவடைந்துள்ளது. 26-07-2024 அன்று ஜனாதிபதித் தேர்தல் அறிவிக்கப்பட்ட பின்னர், பிள்ளைகளை அனுமதிப்பதற்கான கடிதங்கள் வழங்குவதையோ அல்லது அதிகாரிகளை இடமாற்றுவதையோ கல்வி அமைச்சு இடைநிறுத்தியுள்ளது.
+
+கல்வித் துறையில் தொழிற்சங்கப் பிரதிநிதி என்று கூறிக்கொள்ளும் ஒருவர் மேற்படி தகவல் தொடர்பில் பொய்யான தகவல்களைப் பரப்பி வருவதாக அமைச்சுக்கு முறைப்பாடுகள் கிடைத்துள்ளன என்றும் அமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6f8a7e08.json)
+
+---
 
 ### “If Sheikh Hasina had done it long ago, she would still be PM” – President Ranil on Bangladesh crisis
 
@@ -50,19 +120,49 @@ Speaking further he said: “Just think of the countries that are worse off than
 
 [Data](articles/dde7148a.json)
 
+[Extended Data](ext_articles/dde7148a.ext.json)
+
 ---
 
-### திருக்கோணேச்சர பிரச்சினையை தீர்க்கவும்: குகதாசன் எம்.பி
+### Sri Lanka rupee closes stronger at 302.10/20 to US dollar
+
+*2024-08-06 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-10-20-to-us-dollar-175582/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.10/20 to the US dollar on Tuesday, from 302.30/43 to the US dollar on Monday, dealers said, while bond yields were slightly up.
+
+A bond maturing on 15.12.2026 closed at 10.75/85 percent, up from 10.75/80 percent.
+
+A bond maturing on 15.12.2027 closed at 11.85/12.05 percent, up from 11.80/12.05 percent.
+
+A bond maturing on 15.09.2029 closed at 12.48/58 percent, up from 12.45/55 percent.
+
+A bond maturing on 15.10.2030 closed at 12.80/90 percent, up from 12.75/85 percent. (Colombo/Aug6/2024)
+
+◼️
+
+[Data](articles/43406b26.json)
+
+---
+
+### Solve the Trincomalee Problem: Kukadasan MP
 
 *2024-08-06 16:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருக்கோணேச்சர-பிரச்சினையை-தீர்க்கவும்-குகதாசன்-எம்-பி/175-341697) · `ta`
 
-திருக்கோணேச்சர ஆலய சூழலில்    சட்ட விரோதமாகக் கட்டப்பட்ட கடைகளினால் கோயிலின் புனிதத் தன்மை கெடுவதோடு இங்கு சில சமூக விரோதச் செயல்பாடுகளும் இடம் பெறுகின்றன. எனவே இக்கடைகளை வேறு ஒரு தகுந்த இடத்திற்கு மாற்ற வேண்டும் என 2019 மாவட்ட ஒருங்கிணைப்பு குழுக் கூட்டத்தில் ஒருமனதாக முடிவு எடுக்கப் பட்டது எனினும் இம்முடிவு இது வரையிலும்  செயற்படுத்தப்பட வில்லை என விசனம் தெரிவித்த இலங்கை தமிழரசுக்கட்சியின் திருகோணமலை மாவட்ட எம்.பி.யான கே.எஸ். குகதாசன் இந்த முடிவை விரைந்து செயற்படுத்துமாறும் வலியுறுத்தினார்.
+The Trincomalee Problem involves several issues including unauthorized shops damaging a historic temple's sanctity, land acquisition by the Forest Department affecting farmers, lack of modern fishing equipment for local fishermen, teacher and doctor shortages in the district, inadequate funding for education, healthcare infrastructure needs, sports development challenges, land acquisition by the Ports Authority impacting residents, and unclear divisional boundaries causing confusion.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06)இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை' தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில்  கன்னியுரையாற்றுகையிலேயே  இவ்வாறு வலியுறுத்திய அவர் மேலும் பேசுகையில்,
+🟩
+
+The sanctity of the temple is damaged by the illegal shops in the environment of the temple and some anti -social activities here are here.. Therefore, it was unanimously decided at the 2019 District Coordinating Committee meeting that these shops should be relocated to a different location, but the conclusion has not yet been implemented.. Kukadasan also urged the decision to be implemented.
+
+Speaking at the conclusion of the House of Representatives, he said,
+
+Thirukonacharam is a historic sacred place where a large number of tourists come to the temple.. The illegal -built shops are a barrier to this. Moreover, these shops are harmful to the sanctity of the temple and some anti -social activities here. Therefore, it was unanimously decided at the 2019 District Coordinating Committee meeting that these shops should be relocated to a suitable place, but the decision has not yet been implemented.
 
 ...
 
 [Data](articles/385eb138.json)
+
+[Extended Data](ext_articles/385eb138.ext.json)
 
 ---
 
@@ -180,6 +280,42 @@ Further interrogation of the student in question have revealed that a window of 
 
 ---
 
+### පාරිභෝගික නීති කැඩූ ගම්පහ වෙළඳුන් 146ක්  ලක්ෂ 18 දඩ
+
+*2024-08-06 16:30:26* · [`adalk`](https://www.ada.lk/breaking_news/පාරිභෝගික-නීති-කැඩූ-ගම්පහ-වෙළඳුන්-146ක්--ලක්ෂ-18-දඩ/11-411233) · `si`
+
+පාරිභොගික කටයුතු අධිකාරිය යේ ගම්පහ දිස්ත්‍රික් කාර්යාලය මගින් දිස්ත්‍රික්කය පුරා සිදු කල වැටලීම වලින් වෙළඳුන් 146 දෙනෙකුට නඩු පවරා ලක්ෂ 18ක දඩ නියම කර ඇත. මේඅතර ප්‍රධාන සුපිරි වෙළෙඳසල් 6ක් ඇතුලත් බව වාර්ථාවෙයි. මෙම වැටලීම් අතර සහල් විකිණීම සම්බන්ධයෙන් වැටලීම් 43ක් අන්තර්ගතවන බව ඔවුන් පවසයි. සහල් වැඩි මිලට විකිණිම , කල් ඉකුත්වන දින හා නිශ්පාදිත දිනයන් සඳහන් නොකල සහල් ඇසුරුම් සහිතව විකිණිම ආදිය මේ අතර වෙයි.
+
+◼️
+
+[Data](articles/be9ef44c.json)
+
+---
+
+### Sri Lanka stocks close up, John Keells sees foreign selling
+
+*2024-08-06 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-john-keells-sees-foreign-selling-175572/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.37 percent, or 42.09 points, at 11,293; while the more liquid S&P SL20 Index closed up 0.39 percent, or 12.44 points, at 3,226.
+
+Turnover was 582 million. Rs160 million of this came from John Keells Holdings, the top turnover generator of the day.
+
+“Turnover was subdued,” Softlogic Stockbrokers said. “Although the market was back in the green, sentiment was conservative, and there was limited activity.
+
+The banking counter closed mostly in green; Sampath Bank Plc was closed at 74.00, DFCC Bank Plc closed up at 69.20, and Commercial Bank Of Ceylon Plc closed flat at 89.40.
+
+Several banks saw foreign buying interest. A net foreign outflow of 20 million rupees was recorded.
+
+Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), Hatton National Bank Plc, (up at 183.00), and John Keells Holdings Plc (up at 179.50).
+
+...
+
+[Data](articles/38e6649d.json)
+
+---
+
 ### Dissolve of Bangladesh Parliament
 
 *2024-08-06 16:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-பாராளுமன்றம்-கலைப்பு/50-341696) · `ta`
@@ -203,6 +339,24 @@ Moreover, the student body has insisted that they have no agreement with the mil
 [Data](articles/5fd306c6.json)
 
 [Extended Data](ext_articles/5fd306c6.ext.json)
+
+---
+
+### Regional Centre for Maritime Studies in Sri Lanka with French support
+
+*2024-08-06 16:12:00* · [`economynextcom`](https://economynext.com/regional-centre-for-maritime-studies-in-sri-lanka-with-french-support-175505/) · `en`
+
+ECONOMYNEXT – A Regional Centre for Maritime Studies will be set up in Sri Lanka with the support of France, a government statement said.
+
+The centre will be set up at the General Sir John Kotelawala Defence University with assistance from the Trincomalee Naval and Maritime Academy.
+
+The Cabinet of Ministers has approved the proposal presented by President Ranil Wickremesinghe as Defence Minister to enter into a bilateral agreement between the Government of Sri Lanka and Government of France to set up the ‘Regional Centre for Maritime Studies’.
+
+France has identified Sri Lanka as the most suitable location for the study and dissemination of throughout the region due to the various initiatives the country has taken as a member of the Association of Indian Ocean Rim countries. (Colombo/Aug6/2024)
+
+◼️
+
+[Data](articles/777a518a.json)
 
 ---
 
@@ -346,6 +500,26 @@ The announcement came hours after protesting student leaders set a deadline to d
 
 ---
 
+### Sri Lanka signs ADB 25-year US$100mn budget support loan
+
+*2024-08-06 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-adb-25-year-us100mn-budget-support-loan-175481/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has signed an agreement with the Asian Development Bank to borrow a 100 million US dollar budget support loan, linked to power sector policy reforms, the Finance Ministry said
+
+The loan has an interest rate of 2.0 percent and will be repaid over 25 years including a 5 year grace period.
+
+Treasury Secretary Mahinda Siriwardana and ADB Sri Lanka Country Director Takafumi Kadono signed the agreement.
+
+The loan is Subprogram 01 of a 300 million dollar policy based loan program linked to power sector reforms.
+
+The reforms support independent and financially sustainable electricity utilities, and “streamlined and accelerated development” of renewable energy. (Colombo/Aug05/2024)
+
+◼️
+
+[Data](articles/0970e86a.json)
+
+---
+
 ### Parliament dissolved parliament in Bangladesh
 
 *2024-08-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199630) · `si`
@@ -393,6 +567,22 @@ Anamaduwa Police officers are due to be taken to court today (06) to seek advice
 [Data](articles/6d7a29c1.json)
 
 [Extended Data](ext_articles/6d7a29c1.ext.json)
+
+---
+
+### Bill to reactivate Sri Lanka’s provincial councils taken up for second reading
+
+*2024-08-06 14:58:00* · [`economynextcom`](https://economynext.com/bill-to-reactivate-sri-lankas-provincial-councils-taken-up-for-second-reading-175480/) · `en`
+
+ECONOMYNEXT — A bill to reactivate Sri Lanka’s provincial councils was taken up for second reading and was adopted with a division in parliament.
+
+Opposition Tamil National Alliance (TNA) parliamentarian M A Sumanthiran, who presented the bill, tweeted on Tuesday August 06 that the the bill has been referred to the legislative standing committee.
+
+“My bill to reactivate the Provincial Councils was taken up for 2nd reading and adopted without a division. It is referred to the legislative standing committee where the suggestion of the Supreme Court will be accepted and come back to the House to be adopted at the third reading,” he said. (Colombo/Aug06/2024)
+
+◼️
+
+[Data](articles/9f909582.json)
 
 ---
 
@@ -470,6 +660,28 @@ President's Counsel Faizer Mustafa had previously informed him that the Assistan
 
 ---
 
+### Sri Lanka ruling party to announce presidential candidate on Aug 07
+
+*2024-08-06 14:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-to-announce-presidential-candidate-on-aug-07-175478/) · `en`
+
+ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP) is expected to announce its presidential candidate on Wednesday August 07, party general secretary and MP Sagara Kariyawasam said.
+
+Speaking to reporters on Tuesday August 06, Kariyawasam said the SLPP will field its own candidate at the 2024 presidential election as voted for by the party’s politburo the previous week.
+
+“Tomorrow we will announce the name of the person who will be Sri Lanka’s ninth president,” he said.
+
+There has been speculation that the SLPP’s candidate will be business tycoon Dhammika Perera. Asked if this is indeed the case, Kariyawasam said all will be revealed in a few hours’ time.
+
+“Be a little bit more patient. There are mere hours left. Be here by 7am tomorrow,” he said.
+
+The SLPP general secretary also commented on his colleagues who have decided to back President Ranil Wickremesinghe at the polls.
+
+...
+
+[Data](articles/a7480d5d.json)
+
+---
+
 ### Govt. to integrate public sector IT systems to enhance efficiency
 
 *2024-08-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101039/govt-to-integrate-public-sector-it-systems-to-enhance-efficiency) · `en`
@@ -509,6 +721,26 @@ Accordingly, he has a vacancy at the post of Chairman on his resignation.
 [Data](articles/94e77017.json)
 
 [Extended Data](ext_articles/94e77017.ext.json)
+
+---
+
+### පොහොට්ටු මන්ත්‍රීවරු 102ක් ජනපතිගේ සහායට
+
+*2024-08-06 13:51:02* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරු-102ක්-ජනපතිගේ-සහායට/11-411231) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙ ජනාධිපති අපේක්ෂකත්වය සඳහා පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා නම් කිරීමෙන් පසුව එම පක්ෂයේ තවත් මන්ත්‍රීවරුන් කිහිප දෙනෙකුම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට එක්වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ අනුව රත්නපුර, පොළොන්නරුව හා අම්පාර ඇතුළු තවත් දිස්ත්‍රික්ක නියෝජනය කරන ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන් එලෙස එක්වීමට නියමිතව ඇත.
+
+දේශපාලන ආරංචි මාර්ග සඳහන් කරන්නේ මේ වනවිටත් ඒ සම්බන්ධයෙන් වන මූලික සාකච්ඡා අවසන්ව ඇති බවයි.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නම් කිරීම හෙට (7) දිනයේදී සිදු කිරීමට නියමිතය.
+
+ඉකුත් මහ මැතිවරණයේදී පාර්ලිමේන්තුවට තේරී පත්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණ ඇතුළු පක්ෂ 09ක මන්ත්‍රිවරුන් 102ක සහය ඉදිරි ජනාධිපතිවරණයේදී , ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය ලබා දීමට මේ වන විට තීරණය කර ඇතැයි දේශපාලන ආරංචි මාර්ග කියයි.
+
+...
+
+[Data](articles/54366ea2.json)
 
 ---
 
@@ -588,6 +820,30 @@ Speaking to the media, MP Ganesan said that they have reached a Memorandum of Un
 
 ---
 
+### Sri Lanka to re-start subsidy to keep senior citizen deposit rate at 10-pct
+
+*2024-08-06 13:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-re-start-subsidy-to-keep-senior-citizen-deposit-rate-at-10-pct-175433/) · `en`
+
+ECONOMYNEXT – Sri Lanka will re-start and subsidy scheme for senior citizens to keep fixed deposit returns at 10 percent a year, Minister Bandula Gunawardana said.
+
+Market rates are now starting to fall and the government will top up the rate to keep interest yield at 10 percent, he said.
+
+The subsidies are being promised ahead of elections in September.
+
+The subsidy would apply to deposits of up to one million rupees for two years, according to a statement.
+
+The budget impact was not known but if the fixed deposit rate fell to 8.5-pct the balance would be topped up by the subsidy, he said.
+
+Sri Lanka started interest subsidies to keep rates at 15 percent but terminated them after rates cuts triggered currency trouble and stabilization required very high rates.
+
+Pension anomalies of 83,000 retirees would also be solved, he said. The cost to the tax payers is not known. (Colombo/Aug05/2024)
+
+◼️
+
+[Data](articles/f7109d5b.json)
+
+---
+
 ### Petition against minimum daily wage of plantation workers withdrawn
 
 *2024-08-06 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101036/petition-against-minimum-daily-wage-of-plantation-workers-withdrawn) · `en`
@@ -645,6 +901,38 @@ The International Cricket Council says that if the women's 20-20 World Cup will 
 [Data](articles/bb756c4a.json)
 
 [Extended Data](ext_articles/bb756c4a.ext.json)
+
+---
+
+### Sri Lanka receives 99 complaints on violation of election laws
+
+*2024-08-06 13:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-receives-99-complaints-on-violation-of-election-laws-175438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commissioner General of Elections has said that the office has received 99 complaints on  violations of election laws so far.
+
+The National Election Complaints Management Centre had received 68 complaints from July 31 to August 5, Saman Sri Ratnayake said in a statement.
+
+District Election Complaints Management Centres had received 68 complaints for the same period. (Colombo/Aug6/2024)
+
+◼️
+
+[Data](articles/250c43ae.json)
+
+---
+
+### රුපියල් මිලියන 155 ,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+
+*2024-08-06 13:09:09* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-155--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-411229) · `si`
+
+රුපියල්  මිලියන 155,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අගෝස්තු 07 දා පැවැත්වීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු යොදා තිබේ.
+
+මෙහිදී දින 91 න් කල් පිරෙන රුපියල් මිලියන 55000 ක භාණ්ඩාගාර බිල්පත් ද දින 182 න් කල් පිරෙන රුපියල් මිලියන 55000 ක භාණ්ඩාගාර බිල්පත්ද දින 364 න් කල් පිරෙන රුපියල් මිලියන 45000 ක භාණ්ඩාගාර බිල්පත්ද නිකුත් කරන බව මහ බැංකුව පවසයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා මුදල් ගෙවීමේ කටයුතු අගෝස්තු 09 දා සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/741699ec.json)
 
 ---
 
@@ -1105,6 +1393,22 @@ Sri Lanka has already signed a free trade deal with Thailand and Singapore, whic
 [Data](articles/0d736930.json)
 
 [Extended Data](ext_articles/0d736930.ext.json)
+
+---
+
+### Sri Lanka plans to ink Preferential Trade Agreement with Indonesia next March
+
+*2024-08-06 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-ink-preferential-trade-agreement-with-indonesia-next-march-175418/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to sign a preferential trade agreement in March 2025, to boost the country’s export potential, Cabinet spokesman Bandula Gunawardana said.
+
+Negotiators from the two countries had met in Colombo on July 15 and 16 and agreed to finalized talks by December 2024.
+
+Sri Lanka has already signed a free trade deal with Thailand and Singapore, which will progressively liberalize trade over a number of years.
+
+◼️
+
+[Data](articles/311a455d.json)
 
 ---
 
@@ -1875,389 +2179,5 @@ The number of train travel will have to be canceled in the face of the situation
 [Data](articles/b469567e.json)
 
 [Extended Data](ext_articles/b469567e.ext.json)
-
----
-
-### Strong safety after 15
-
-*2024-08-06 08:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15க்கு-பின்-பலத்த-பாதுகாப்பு/175-341665) · `ta`
-
-After August 15, national security will enhance, as per the Ministry of Public Security. In the Inspector General's absence, Viani Gunathilaka now leads security preparations for the election.
-
-🟩
-
-Security will be strengthened across the country after August 15, the Ministry of Public Security said.
-
-In the absence of the Inspector General of Police, the Secretary to the Ministry of Public Safety Viani Gunathilaka has been given the full authority to oversee the security arrangements for the election.
-
-◼️
-
-[Data](articles/9c3350b6.json)
-
-[Extended Data](ext_articles/9c3350b6.ext.json)
-
----
-
-### Veerakesari - Prime Minister Dinesh Gunawardena congratulates
-
-*2024-08-06 08:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190377) · `ta`
-
-Prime Minister Dinesh Gunawardena congratulated Veerakesari magazine on its 94th anniversary, praising it for providing essential, reliable news and reports in today's media era. He highlighted its significant role in disseminating domestic and international news, as well as promoting social and cultural development in Sri Lanka. The Prime Minister expressed his hope for the magazine to continue enhancing its services to the Sri Lankan people and the Tamil-speaking community.
-
-🟩
-
-In a congratulatory message sent by Prime Minister Dinesh Gunawardena on the occasion of Weerakesari's anniversary, he said that the Veerakesari magazine has been doing the most essential reliable news, reports, reports and comments in today's media era.
-
-Prime Minister Dinesh Gunawardena has further stated in the congratulations sent by the Weerakeri's 94th August.
-
-I convey my heartfelt congratulations to its management, authors and workmakers in the presence of the 94th of the Weerakesari magazine, one of Sri Lanka's leading Tamil newspapers published by Express Newspapers Ceylon Pvt.
-
-The Weerakesari magazine has been making a commendable task for many years in bringing readers to readers in today's media era.
-
-In the print media industry of Sri Lanka, the Weerakesari magazine is the best vehicle for spreading new information on domestic and international news and social and cultural development.
-
-...
-
-[Data](articles/baa00152.json)
-
-[Extended Data](ext_articles/baa00152.ext.json)
-
----
-
-### Veerakesari - President Ranil Wickremesinghe Greetings
-
-*2024-08-06 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190378) · `ta`
-
-President Ranil Wickremesinghe congratulates Weerakesari, Sri Lanka's pioneering Tamil newspaper, on its 94th anniversary. He highlights its role in educating the Tamil-speaking community, promoting development, and fostering ethnic harmony. Acknowledging its dedication to editorial integrity, he commends Weerakesari for being a trusted voice and a unifying force within the community.
-
-🟩
-
-President Ranil Wickremesinghe said in a congratulatory message to the Express Newspapers, which publishes the magazine at this moment of celebrating the 94th anniversary of Weerakesari.
-
-The pioneer Tamil newspaper in Sri Lanka has reached a significant milestone in our media structure, reflecting its prolonged presence and influence.
-
-For the past 94 years. The dedication to its editorial integrity is not only in communicating and enlightening to the Tamil -speaking community, but also in promoting development strategies, promoting ethnic harmony and referring to many other major issues in Sri Lanka.
-
-Due to the dedication of the Weerakesari magazine on these values, it has earned the confidence and respect of its readers and maintains its identity as an independent voice of the Tamil media.
-
-...
-
-[Data](articles/3c80862e.json)
-
-[Extended Data](ext_articles/3c80862e.ext.json)
-
----
-
-### Presidential criteria released
-
-*2024-08-06 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199609) · `si`
-
-The Media Subject to the Presidential Election Committee has been announced, affecting election reporting and political programs. A delegation will enforce and recommend media criteria. The Elections Commission has outlined media standards for various platforms, including extending postal voting application deadlines. Complaints will be investigated through a newly established unit at both district and national levels.
-
-🟩
-
-The Media Subject to the Presidential Election Committee has been announced.
-
-In the presidential election, the Elections Commission has informed the election reporting, other reports, political programs and propaganda.
-
-Accordingly, a delegation committee is to be appointed to enforce and recommend media criteria.
-
-The Elections Commission has also been announced by the Elections as well as the media criteria and print media for electronic media institutions, internet websites and social media websites.
-
-Meanwhile, the Elections Commission has decided to extend the postal voting applications for the presidential election to midnight on the 9th.
-
-The Elections Commission states that the decision was taken following the demands carried out by the post yesterday (05).
-
-Meanwhile, the Elections Commission says the complaints have been taken to investigate the complaints received by the Elections Commission to investigate the presidential election.
-
-...
-
-[Data](articles/b9adc817.json)
-
-[Extended Data](ext_articles/b9adc817.ext.json)
-
----
-
-### Supporters of two parties in a guttb
-
-*2024-08-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199608) · `si`
-
-In Vanathawilluwa, clashes erupted between supporters of two political parties over a poster dispute near a junction. Two individuals were injured and hospitalized. Authorities plan to arrest them and bring them to court.
-
-🟩
-
-Two supporters of two political parties have occurred in Vanathavilluwa.
-
-The clash had occurred to ripen a poster with a poster pasted at a Milankulam Junction in the Vanathawilluwa Police area.
-
-Two injured in the confrontation have been admitted to the Puttalam Hospital for treatment.
-
-They will be arrested and produced before courts.
-
-◼️
-
-[Data](articles/20e3b816.json)
-
-[Extended Data](ext_articles/20e3b816.ext.json)
-
----
-
-### Example of the uniqueness and sides
-
-*2024-08-06 07:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190376) · `ta`
-
-Sajith Premadasa congratulates Veerakesari, Sri Lanka's oldest Tamil newspaper, on its 94th anniversary, highlighting its role in democracy, representing Tamil and Muslim voices, and evolving into a platform for social communication and community engagement.
-
-🟩
-
-Traveling towards a century highlights the uniqueness and sides of the newspaper.Opposition leader Sajith Premadasa said in the news.
-
-Opposition Leader Sajith Premadasa Weerakeri has further stated in a greeting message sent to the 94th.
-
-The media is considered the fourth pillar of democracy. In the case of Sri Lanka, Subramanian Chettiar, which was launched on August 6, 1930, was the right to the people of Indian origin in the early days, and later acts as the voice of the Tamil and Muslim people in Sri Lanka to express the sentiments of the Tamil and Muslim people in Sri Lanka.. The presence of the Weerakesari magazine in the history of Sri Lankan Tamil print media is of historical significance.
-
-Veerakesari, who is the highest identity of Sri Lanka's first national Tamil newspaper, is traveling to the century with the crown of "Clear Information in the Quality way". I am proud to congratulate the Weerakesari magazine on celebrating the 94th day of the 94th.
-
-...
-
-[Data](articles/1543072c.json)
-
-[Extended Data](ext_articles/1543072c.ext.json)
-
----
-
-### M. Veerakesari forever you stand!
-
-*2024-08-06 07:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190375) · `ta`
-
-"An enduring tribute to M. Veerakesari, symbolizing lasting impact."
-
-🟩
-
-◼️
-
-[Data](articles/a482d233.json)
-
-[Extended Data](ext_articles/a482d233.ext.json)
-
----
-
-### Model. The majority support the president
-
-*2024-08-06 07:33:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-பெரும்பான்மையானோர்-ஜனாதிபதிக்கு-ஆதரவு/175-341664) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the upcoming presidential election, with 90% approval from its Executive Council, including most parliamentarians. This decision was made with the full support of party leaders and officials, signaling a unified effort to secure Wickremesinghe's victory.
-
-🟩
-
-Transport Minister Lasantha Alagiyawanna said that the Sri Lanka Freedom Party (SLFP) has officially decided to support President Ranil Wickremesinghe in the upcoming presidential election and that the decision has been taken with the compliance of 90 percent of the Executive Council, including the majority of parliamentarians, and that the decision was taken.
-
-Speaking at a press conference held at the Presidential Media Center yesterday. As he further stated,
-
-Sri Lanka Freedom Party (SLFP) officially decided to support President Ranil Wickremesinghe in the upcoming presidential election. Not only the party officials, including our party leader Nimal Siripala de Silva and Secretary General of Parliament Duminda Silva, have represented the SLFP and agreed to the resolution.
-
-...
-
-[Data](articles/0624e3a9.json)
-
-[Extended Data](ext_articles/0624e3a9.ext.json)
-
----
-
-### Dilum of Mahinda's consent is revealed
-
-*2024-08-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199607) · `si`
-
-Mahinda Rajapaksa cannot appoint a separate presidential candidate due to lack of consent, according to Dilum Amunugama. This revelation came during a TV Derana program where it was discussed that party members had previously consulted with Rajapaksa about potential candidates. Despite this, the General Secretary and the Secretary-General of the Political Policy Council stated that there would be no independent candidate selection, aligning with the party's decision.
-
-🟩
-
-Former President Mahinda Rajapaksa has no consent to appoint a separate candidate for the Presidential election.
-
-Dilum Amunugama was speaking at the 3010-time program that was broadcast on TV Derana last night.
-
-"We have occasionally former discussions in the party. He said that if the party members were discussing with Mahinda Rajapaksa two days before the party's meeting with Mahinda Rajapaksa, two MPs in the Pohol meeting today before Mahinda Rajapaksa.... I'm just 29 more evidence. "
-
-Q. Who wants to put another candidate from the poush?
-
-"The General Secretary declares that as" as well as the Secretary-General of the Politic Policy Council then declared that. But there is no way to make his own desire. "
-
-◼️
-
-[Data](articles/9488e7aa.json)
-
-[Extended Data](ext_articles/9488e7aa.ext.json)
-
----
-
-### The Sri Lankan government regret the people affected by Bangladesh
-
-*2024-08-06 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199606) · `si`
-
-The Sri Lankan government expresses regret over the unrest in Bangladesh, offering support to victims. External Affairs Minister Ali Sabri emphasizes solidarity and hopes for peace and stability in Bangladesh, highlighting the strong bond between the two nations.
-
-🟩
-
-External Affairs Minister Ali Sabri says that the most powerful companions of the victims of the unrest in Bangladesh and all affected people will be expressed.
-
-Speaking on his X account note, the Minister pointed out that the Bangladesh is obliged with the people of Bangladesh at this challenging.
-
-Sri Lanka appreciates the friendship with Bangladesh and collaborates with its people.
-
-External Affairs Minister Ali Sabri pointed out that peace and stability will return to Bangladesh and wishing the strength.
-
-◼️
-
-[Data](articles/bf7db7ea.json)
-
-[Extended Data](ext_articles/bf7db7ea.ext.json)
-
----
-
-### The president fulfilled the request of the students
-
-*2024-08-06 07:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-கோரிக்கையை-நிறைவேற்றினார்-ஜனாதிபதி/175-341663) · `ta`
-
-President Ranil Wickremesinghe facilitated a visit for 570 students from Kandy and Menikdiwala Central Colleges to Colombo, including the President's House and Presidential Office. They discussed educational improvements, such as a smart classroom and playground modernization, which the President directed to be expedited, involving military assistance.
-
-🟩
-
-The President took immediate steps to fulfill the request of President Ranil Wickremesinghe, the students of the Kandy and Menikdiwala Central College, to provide a smart classroom for their school and modernize the playground.
-
-According to President Ranil Wickremesinghe, the President's Secretariat, the Presidential Secretariat, the Port City, the Central Bank and the Parliament, are being given the opportunity to visit special places in Colombo.
-
-About 570 students attended the field yesterday at the Menikthiwela Central College and had the opportunity to visit the President's House.. Subsequently, they visited the Presidential Office and demanded that they be given the opportunity to meet President Ranil Wickremesinghe.
-
-The President met them and spoke with them and heard about the educational activities of the students, the Presidential Media Division said.
-
-...
-
-[Data](articles/d3d1c8b4.json)
-
-[Extended Data](ext_articles/d3d1c8b4.ext.json)
-
----
-
-### President wins more
-
-*2024-08-06 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199605) · `si`
-
-President Ranil Wickremesinghe, through his Secretary Saman Ekanayake, declared all petroleum-related services as essential, ensuring their continuity amidst any disruptions.
-
-🟩
-
-All services and petroleum products and supply of petroleum related services and supply of petroleum production and delivery are essential services have been issued.
-
-The gazette notification has been issued by President's Secretary to the President Saman Ekanayake yesterday (05) on the instructions of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/8c8dc77d.json)
-
-[Extended Data](ext_articles/8c8dc77d.ext.json)
-
----
-
-### Members of Parliament who supported President
-
-*2024-08-06 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199604) · `si`
-
-Sri Lanka Civil Front members support President Ranil Wickremesinghe, focusing on public engagement at the district level for his presidential election victory. A meeting in Battaramulla included ministers discussing district meetings, election office setups, and damage control programs. Minister Prasanna Ranatunga emphasized unity and the importance of public opinion in supporting Wickremesinghe.
-
-🟩
-
-A special discussion of the Sri Lanka Civil Front (05)) has held a special discussion of the Sri Lanka Civil Front who supports President Ranil Wickremesinghe.
-
-The discussion has been held at a hotel in Battaramulla.
-
-Ministers Prasanna Ranatunga, Kananna Ranatunga, Kananna Wijesara, Ramesesan Wijesara, Ramesh Wijesarana, Ali Sabri and other ministers were present.
-
-The discussion focuses on the discussion of the public at district level for the victory of Ranil Wickremesinghe at the Presidential Election.
-
-Member of Parliament Speaking to the media After the discussion. Mr. Dissanayake,
-
-"The discussion is held to hold district meetings, establishment of district election offices and holding seating meetings, and the Damage Program of the President's nomination day and the propaganda program.. There were 91 of our members. There are over more people when they are still following tomorrow. "
-
-Minister Prasanna Ranatunga was also commented on the discussion.
-
-...
-
-[Data](articles/772ef81c.json)
-
-[Extended Data](ext_articles/772ef81c.ext.json)
-
----
-
-### US markets extend falls, steep fall in Japan
-
-*2024-08-06 06:07:00* · [`economynextcom`](https://economynext.com/us-markets-extend-falls-steep-fall-in-japan-175340/) · `en`
-
-ECONOMYNEXT – The US markets extended losses extending rout started last week, while Asian markets also fell with Japan, a country with very low interest rates.
-
-On Monday, the Dow Jones Industrial Average fell 1,033 points, which is about 2.6 percent,  S&P 500 lost 3 percent and the Nasdaq composite 3.43 percent on top of losses last week as fears of unemployment rose.
-
-The biggest fall was in Japan, which has the central bank with the lowest nominal interest rates with the Nikkei falling 12.4 percent.
-
-The Yen has been falling against the US dollar for some time.
-
-US markets have been skating on thin ice for some time, with the US broad money supply shrinking in absolute terms and banks credit also falling.
-
-Markets were buoyed by claims that upcoming rate cuts by the Fed would lead to lower rates, despite classical economists who were watching money supply data warning that a recession was ‘baked in the cake’ not due to earlier rate cuts that fired artificial demand.
-
-...
-
-[Data](articles/3c8839d7.json)
-
-[Extended Data](ext_articles/3c8839d7.ext.json)
-
----
-
-### Weather today
-
-*2024-08-06 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199603) · `si`
-
-Expect showers in Western, Sabaragamuwa, and North Western provinces today. Thunderstorms may bring heavy rain in over 50% areas tonight. The Meteorology Department advises caution against wind and lightning risks due to thunderstorms.
-
-🟩
-
-Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces today (06).
-
-The department stated that showers or thundershowers during the evening or night in other parts of the island have occurred.. Heavy rains can occur in more than 50.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1933fece.json)
-
-[Extended Data](ext_articles/1933fece.ext.json)
-
----
-
-### Khalita release after 6 years in prison
-
-*2024-08-06 05:30:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/6-வருட-சிறைவாசத்துக்கு-பின்-காலிதா-விடுதலை/50-341662) · `ta`
-
-After serving 6 years in prison, 78-year-old Kalita Zia, former Bangladeshi PM and opposition leader, was released due to severe illness. Sentenced to 17 years in a corruption case by PM Sheikh Hasina, her political journey started post-assassination of her husband, Ziaur Rahman, a former president. She co-founded the Bangladesh Nationalist Party in 1978 and became the country's first female PM in 1991, also notable as the world's first Muslim woman PM.
-
-🟩
-
-78 -year -old Kalita Zia, who was the leader of Bangladesh's opposition party, is currently in jail
-
-Prime Minister Sheikh Hasina sentenced Khalita Zia to 17 years in prison in a corruption case.
-
-The political career of Khalita Zia began after the assassination of Khalita Zia's husband, Ziaur Rahman, who was the president of Bangladesh from 1977 to 1981.
-
-He founded the Bangladesh National Arthritis Party in 1978. He became the first woman prime minister in Bangladesh in 1991.
-
-It is noteworthy that the world's first Muslim woman is Prime Minister - Begum Khalita Zia.
-
-President Sahabdeen has been asked to release him immediately after being infected with severe ill health
-
-◼️
-
-[Data](articles/265a4843.json)
-
-[Extended Data](ext_articles/265a4843.ext.json)
 
 ---

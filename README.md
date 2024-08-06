@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 08:36:19**
+As of **2024-08-06 08:55:24**
 
 ## Newspaper Stats
 
-*Scraped **39,215** Articles*
+*Scraped **39,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
-adalk | 3,596
+adalk | 3,597
 adaderanalk | 4,548
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,912
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,213 (100.0%) of 39,215 articles have been extended.
+39,213 (100.0%) of 39,216 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,10 @@ The Railway Department says that train services from Colombo Fort have been temp
 The department says that employees at the Dematagoda Yard have stopped work on claims that proper action is not being taken to find a fellow employee who has gone missing.
 
 Accordingly, this is expected to likely result in some train cancellations and delays in relevant services from the Colombo Fort railway station.
+
+Deputy General Manager (Operations) of the Railway Department, Mr. N.J. Idipolage said that due to this, the Podi Menike and Badulla Odyssey trains, which were scheduled to depart from Colombo Fort to Badulla this morning, have not been able to operate so far.
+
+He also mentioned that several train journeys will likely have to be canceled owing to the current situation.
 
 ◼️
 
@@ -1502,6 +1506,24 @@ Transport Minister Lasantha Alagiyavanna said this while addressing a press conf
 
 ---
 
+### මාස එකහමාරක බිළිඳා පහරදී ඝාතනය කළැයි මව සැක පිට අත්අඩංගුවට
+
+*2024-08-05 19:47:55* · [`adalk`](https://www.ada.lk/breaking_news/මාස-එකහමාරක-බිළිඳා-පහරදී-ඝාතනය-කළැයි-මව-සැක-පිට-අත්අඩංගුවට/11-411217) · `si`
+
+යාපනය තෙලිප්පලෙයි පොලිස් වසමේ අලවෙඩ්ඩි ප්‍රදෙශයේදී මස එකහමාරක් වයදසැති බිළිඳෙකු රෝහලගත කිරීමෙන් අනතුරුව මිය යාම හේතුවෙන් බිළිඳාගේ මව අද (05) දින සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+බිළිඳාගේ මව විසින් බිළිඳාට මවකිරී දීමෙන් පසුව මව්කිරි සිරවී සිහිමුර්ජා වූ බව පවසමින් අලවෙඩ්ඩි ප්‍රාදේශීය රෝහලට ඊයේ (04) දින ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා තෙලිප්පලෙයි රෝහලට කුඩා බිළිඳා මාරු කොට යැවීමට රෝහල් කාර්ය මණ්ඩලය විසින් පියවර ගෙන තිබුණි.
+
+කෙසේ වෙතත් තෙලිප්පලයෙි රෝහලේදී අදාල බිළිඳා මිය ගොස් තිබූ අතර බිළිඳාගේ සිරුරේ සහ හිසේ කුඩා තුවාල සහ තැලුම් තිබීම් හේතුවෙන් ඒ පිළිබඳව සැක පහල වී පශ්චාත් මරණ පරික්ෂණයක් සිදුකිරීමට පියවර ගනු ලැබීය.
+
+මෙලෙස මිය ගිය මාස එකහමාරක් වයසැති සසිරූබන් නිකාස් බිළිඳගේ සිරුර යාපනය ශික්ෂණ රෝහලට රැගෙන ගොස් සිදුකරන ලද ශාරීරක මරණ පරික්ෂණයේදී හෙලි වී ඇත්තේ බිළිඳාගේ හිසට එල්ල වූ පහරදීමක් හේතුවෙන් අභ්‍යන්තර ලේ ගැලීමකින් මෙම මරණය සිදුව ඇති බවටය. ඊට අමතරව බිළිඳාගේ සිරුරේ ස්ථාන කිහිපයකටද පහරදී ඇති බවට අනාවරනය වී ඇති බවටයි.
+
+...
+
+[Data](articles/6d681a5e.json)
+
+---
+
 ### Sri Lanka’s Quest For A Man For All Season
 
 *2024-08-05 19:42:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-quest-for-a-man-for-all-season/) · `en`
@@ -2193,31 +2215,5 @@ At the same time, Army Commander Walker Us-Jaman has announced that the military
 [Data](articles/b02f5ca4.json)
 
 [Extended Data](ext_articles/b02f5ca4.ext.json)
-
----
-
-### Thirteen Asian Cricket Tournament
-
-*2024-08-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199592) · `si`
-
-A welcome ceremony for athletes from Hula Vidyalaya and the University of Halula took place at Anula Vidyalaya, Nugegoda. Three players from the Nugegoda Troops were honored, with the Principal and alumni welcoming them. A trophy was presented to evaluate these athletes' performances.
-
-🟩
-
-A welcome ceremony was held at Anula Vidyalaya, Nugegoda today (05).
-
-That was for the athletes of Hula Vidyalaya, Hula Vidyalaya, University of Halula.
-
-From Nugegoda Troops, the three players were brought to Anula Vidyalaya.
-
-The Principal of the school and the schools and the alumni of the school were welcomed by the school in the future.
-
-Thereafter a cup was awarded to evaluating these three athletes.
-
-◼️
-
-[Data](articles/f8e21564.json)
-
-[Extended Data](ext_articles/f8e21564.ext.json)
 
 ---

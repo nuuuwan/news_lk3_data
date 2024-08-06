@@ -1,56 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 06:05:15**
+As of **2024-08-06 07:02:29**
 
 ## Newspaper Stats
 
-*Scraped **39,197** Articles*
+*Scraped **39,200** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
-colombotelegraphcom | 375
+colombotelegraphcom | 376
 islandlk | 2,264
 economynextcom | 2,363
 dailyftlk | 2,519
 adalk | 3,596
 adaderanalk | 4,547
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,908
+tamilmirrorlk | 4,909
 virakesarilk | 6,205
-adaderanasinhalalk | 6,618
+adaderanasinhalalk | 6,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,183 (100.0%) of 39,197 articles have been extended.
+39,192 (100.0%) of 39,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### 6 வருட சிறைவாசத்துக்கு பின்  காலிதா விடுதலை
+### අද කාලගුණය
+
+*2024-08-06 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199603) · `si`
+
+අද (06) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ, දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/1933fece.json)
+
+---
+
+### Khalita release after 6 years in prison
 
 *2024-08-06 05:30:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/6-வருட-சிறைவாசத்துக்கு-பின்-காலிதா-விடுதலை/50-341662) · `ta`
 
-பங்களாதேஷின் ஏதிர்க்கட்சி தலைவியாக இருந்த 78 வயதான கலிதா ஸியா தற்பொழுது சிறையில் இருக்கிறார்
+After serving 6 years in prison, 78-year-old Kalita Zia, former Bangladeshi PM and opposition leader, was released due to severe illness. Sentenced to 17 years in a corruption case by PM Sheikh Hasina, her political journey started post-assassination of her husband, Ziaur Rahman, a former president. She co-founded the Bangladesh Nationalist Party in 1978 and became the country's first female PM in 1991, also notable as the world's first Muslim woman PM.
 
-காலிதா ஸியாவை ஊழல் வழக்கொன்றில் 17 வருட சிறைத்தண்டனை விதித்து 2018ல் சிறையில் அடைத்தார் பிரதமர் ஷேக் ஹஸீனா.
+🟩
 
-1977 முதல் 1981 வரை பங்களாதேஷின் ஜனாதிபதியாக இருந்த காலிதா ஸியாவின் கணவர் ஸியாவுர் ரஹ்மான் படுகொலை செய்யப்பட்ட பின்னர் காலிதா ஸியாவின் அரசியல் வாழ்க்கை ஆரம்பமானது.
+78 -year -old Kalita Zia, who was the leader of Bangladesh's opposition party, is currently in jail
 
-1978 இல் பங்களாதேஷ் தேசிய வாதக் கட்சியை நிறுவினார். அதனூடாக அவர் 1991 இல் பங்களாதேஷின் முதல் பெண் பிரதமரானார்.
+Prime Minister Sheikh Hasina sentenced Khalita Zia to 17 years in prison in a corruption case.
 
-உலகின் #முதலாவது முஸ்லிம் பெண் பிரதமர் -  பேகம் காலிதா ஸியா என்பது குறிப்பிடத்தக்கது.
+The political career of Khalita Zia began after the assassination of Khalita Zia's husband, Ziaur Rahman, who was the president of Bangladesh from 1977 to 1981.
 
-கடுமையான உடல் நலக்குறைவால் பாதிக்கப்பட்டுள்ள நிலையில் சிறையில் இருக்கும் அவரை உடனடியாக விடுவிக்குமாறு ஜனாதிபதி சஹாப்தீன் அதிகாரிகளை பணித்துள்ளார்
+He founded the Bangladesh National Arthritis Party in 1978. He became the first woman prime minister in Bangladesh in 1991.
+
+It is noteworthy that the world's first Muslim woman is Prime Minister - Begum Khalita Zia.
+
+President Sahabdeen has been asked to release him immediately after being infected with severe ill health
 
 ◼️
 
 [Data](articles/265a4843.json)
+
+[Extended Data](ext_articles/265a4843.ext.json)
 
 ---
 
@@ -149,6 +171,20 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 [Data](articles/ac729e25.json)
 
 [Extended Data](ext_articles/ac729e25.ext.json)
+
+---
+
+### இலவச உரம் வழங்க நடவடிக்கை
+
+*2024-08-06 01:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலவச-உரம்-வழங்க-நடவடிக்கை/175-341660) · `ta`
+
+மூன்று மாவட்டங்களை சேர்ந்த மரக்கறி செய்கையாளர்களுக்காக இலவசமாக உரம் வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+குருணாகல், மாத்தளை மற்றும் மொனராகலை ஆகிய 3 மாவட்டங்களிலுள்ள 3,476 விவசாயிகளுக்கு இலவச உரம் வழங்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/058c26ec.json)
 
 ---
 
@@ -350,6 +386,24 @@ This pillar, headlined by influential figures such as Invest India former Managi
 
 ---
 
+### Decolonizing History & Fiction In Post-Ethnic Sri Lanka
+
+*2024-08-06 00:23:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/decolonizing-history-fiction-in-post-ethnic-sri-lanka/) · `en`
+
+“Fair is foul and foul is fair” ~ William Shakespeare, Macbeth
+
+Why are there no Booker Prize-winning novels about mundane multicultural families that inter-married for generations, shared religion/s, language/s, histories, and co-existed for centuries, while living in relative harmony in Ceylon/ Sri Lanka?
+
+Is the trope of ‘dark natives’ engaged in endless, chaotic violence an international literature prize-winning bestseller that masks white mischief, including sanitized, techno-scientific AI guided hybrid warfare in a post-Truth world awash in distracting Culture Wars?
+
+Susan William’s brilliant and brave book “White Malice” is subtitled “The CIA and the Covert Recolonization of Africa’. Her analysis may well apply to Eurobond debt trapped Sri Lanka, Pakistan and other Afro-Asian post/colonies, where National Endowment for Democracy (NED), funded protests and regime change operations have unfolded recently. NED is known as the second Central Intelligence Agency (CIA).
+
+...
+
+[Data](articles/b19e9a6c.json)
+
+---
+
 ### 2024-08-05 (Monday)
 
 ### 60 complaints have been reported on the violation of the election law - the Executive Director of the February Organization
@@ -440,6 +494,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/ce655942.json)
 
+[Extended Data](ext_articles/ce655942.ext.json)
+
 ---
 
 ### Umachandra Prakash appointed as the Chief Organizer of the Northern Province of the United People's Power
@@ -470,6 +526,8 @@ Accordingly, Umachandra Prakash has been given the responsibility and responsibi
 
 [Data](articles/5dbe152c.json)
 
+[Extended Data](ext_articles/5dbe152c.ext.json)
+
 ---
 
 ### CameraLK unveils new Sony Service Center with specialized repair solutions
@@ -483,6 +541,8 @@ The grand opening was made even more special with the esteemed presence of Kanta
 ...
 
 [Data](articles/bb84ffba.json)
+
+[Extended Data](ext_articles/bb84ffba.ext.json)
 
 ---
 
@@ -504,6 +564,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/1955720d.json)
 
+[Extended Data](ext_articles/1955720d.ext.json)
+
 ---
 
 ### 21st Annual Geoffrey Bawa Memorial Lecture by Anupama Kundoo
@@ -515,6 +577,8 @@ The 2024 Geoffrey Bawa Memorial Lecture will be delivered by architect and educa
 ...
 
 [Data](articles/eb59e90e.json)
+
+[Extended Data](ext_articles/eb59e90e.ext.json)
 
 ---
 
@@ -530,6 +594,8 @@ Under Dilhan’s guidance, Dilmah has not only excelled in growing a globally re
 
 [Data](articles/06fc2bc4.json)
 
+[Extended Data](ext_articles/06fc2bc4.ext.json)
+
 ---
 
 ### Mimi Nicklin live in Colombo: ‘Understand the Power of Emotional Intelligence in Leadership’
@@ -543,6 +609,8 @@ This highly anticipated masterclass titled “Embrace the Power of Emotional Int
 ...
 
 [Data](articles/1d6f4bab.json)
+
+[Extended Data](ext_articles/1d6f4bab.ext.json)
 
 ---
 
@@ -581,6 +649,8 @@ The Sustainable Development Council (SDC) and International Organization for Mig
 ...
 
 [Data](articles/dc9f382d.json)
+
+[Extended Data](ext_articles/dc9f382d.ext.json)
 
 ---
 
@@ -2157,73 +2227,5 @@ Hasina Is Likeley To Tender Herger Herger Herrner Resignation Amid The ... Pic.t
 [Data](articles/125e55bc.json)
 
 [Extended Data](ext_articles/125e55bc.ext.json)
-
----
-
-### Bangladesh PM Hasina resigns, flees to India after deadly protests: Media reports
-
-*2024-08-05 15:19:00* · [`economynextcom`](https://economynext.com/bangladesh-pm-hasina-resigns-flees-to-india-after-deadly-protests-media-reports-175256/) · `en`
-
-ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina has resigned and fled the country on Monday after weeks of deadly protests that saw over 300 being killed, foreign media reported.
-
-Sky News, citing a leading national paper in Bangladesh, said Hasina and her sister took a military helicopter to India.
-
-Reuters reported: “They are taking “safe shelter” away from her official residence”.
-
-Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation.
-
-The demonstrations began with students seeking to end a quota system for government jobs, but clashes with police and pro-government activists escalated into violence that left more than 200 dead last month.
-
-Bangladesh protesters gave the government 48 hours to meet a new set of demands including accountability from the government, which have grown into calls for Hasina, who has been leading the country since 2009, to step down.
-
-...
-
-[Data](articles/43116054.json)
-
-[Extended Data](ext_articles/43116054.ext.json)
-
----
-
-### Bangladesh PM Hasina resigns, flees to India after deadly protests: Media reports
-
-*2024-08-05 15:19:00* · [`economynextcom`](https://economynext.com/bangladesh-pm-hasina-resigns-heads-to-india-media-reports-175256/) · `en`
-
-ECONOMYNEXT – Bangladesh Prime Minister Sheikh Hasina has resigned and fled the country on Monday after weeks of deadly protests that saw over 300 being killed, foreign media reported.
-
-Sky News, citing a leading national paper in Bangladesh, said Hasina and her sister took a military helicopter to India.
-
-Reuters reported: “They are taking “safe shelter” away from her official residence”.
-
-Over 90 people were killed in clashes over the weekend in Bangladesh as protests initially triggered by students, spread across the country after forex shortages and depreciation.
-
-The demonstrations began with students seeking to end a quota system for government jobs, but clashes with police and pro-government activists escalated into violence that left more than 200 dead last month.
-
-Bangladesh protesters gave the government 48 hours to meet a new set of demands including accountability from the government, which have grown into calls for Hasina, who has been leading the country since 2009, to step down.
-
-...
-
-[Data](articles/74a67b9a.json)
-
-[Extended Data](ext_articles/74a67b9a.ext.json)
-
----
-
-### Sheikh Hasina resigns
-
-*2024-08-05 15:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஷேக்-ஹசீனா-இராஜினாமா/50-341630) · `ta`
-
-Bangladesh PM Sheikh Hasina resigns amid student protests in Dhaka.
-
-🟩
-
-Bangladesh Prime Minister Sheikh Hasina has resigned from his post.He has resigned from the country and left the country.
-
-The information has been revealed as thousands of students march to the capital, Dhaka.
-
-◼️
-
-[Data](articles/0463e49a.json)
-
-[Extended Data](ext_articles/0463e49a.ext.json)
 
 ---

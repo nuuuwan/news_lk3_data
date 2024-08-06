@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-06 19:21:12**
+As of **2024-08-06 19:36:12**
 
 ## Newspaper Stats
 
-*Scraped **39,328** Articles*
+*Scraped **39,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,264
 economynextcom | 2,381
 dailyftlk | 2,519
 adalk | 3,615
-adaderanalk | 4,569
+adaderanalk | 4,570
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,928
+tamilmirrorlk | 4,929
 virakesarilk | 6,219
 adaderanasinhalalk | 6,655
 
@@ -26,23 +26,61 @@ adaderanasinhalalk | 6,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,326 (100.0%) of 39,328 articles have been extended.
+39,328 (100.0%) of 39,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-06 (Tuesday)
 
-### කමලා හැරිස්ගේ තෝරා ගැනීම Tim Walz
+### காணாமல் போன ரயில் ஊழியர் சடலமாக மீட்பு
+
+*2024-08-06 19:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-ரயில்-ஊழியர்-சடலமாக-மீட்பு/175-341700) · `ta`
+
+முற்ற வளாகத்தில் அமைந்துள்ள பாதுகாப்பற்ற கிணறு ஒன்றில் இருந்து அவரது சடலம் கண்டு பிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+குறித்த ஊழியர் காணாமல் போன நிலையில், அவரை கண்டுபிடிப்பதற்கான நடவடிக்கைகளை அரசாங்கம் எடுக்காத நிலையில், குறித்த ரயில் நிலைய ஊழியர்கள் பணிப்புறக்கணிப்பில் ஈடுபட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/67181ae1.json)
+
+---
+
+### Selection of Kamala Harris is TIM Walz
 
 *2024-08-06 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199639) · `si`
 
-2024 අමෙරිකානු ජනාධිපතිවරණයේදී මිනසෝටා ආණ්ඩුකාර Tim Walz සිය උප ජනාධිපති අපේක්ෂකයා ලෙස නම් කිරීමට ඩිමොක්‍රටික් පක්ෂයේ අපේක්ෂක කමලා හැරිස් පියවර ගෙන තිබේ.
+Kamala Harris, the current American Vice President, has been selected as the Democratic Party's vice presidential candidate for the 2024 US presidential election.
 
-කමලා හැරිස් මේ වනවිට අමෙරිකානු උප ජනාධිපතිනිය ලෙස කටයුතු කරයි.
+🟩
+
+2024 The Democratic Party candidate residential candidate has been named as the Vice Presidential candidate in the US presidential election.
+
+Kamala Harris currently is the American Vice President.
 
 ◼️
 
 [Data](articles/71b350ea.json)
+
+[Extended Data](ext_articles/71b350ea.ext.json)
+
+---
+
+### Kamala Harris picks Minnesota governor Tim Walz for vice president
+
+*2024-08-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101047/kamala-harris-picks-minnesota-governor-tim-walz-for-vice-president) · `en`
+
+Democratic presidential candidate Kamala Harris selected Minnesota Governor Tim Walz to be her running mate on Tuesday, choosing a progressive policy champion and a plain speaker from America’s heartland to help win over rural, white voters, said people familiar with the matter.
+
+Walz, a 60-year-old U.S. Army National Guard veteran and former teacher, was elected to a Republican-leaning district in the U.S. House of Representatives in 2006 and served 12 years before being elected governor of Minnesota in 2018.
+
+As governor, Walz has pushed a progressive agenda that includes free school meals, goals for tackling climate change, tax cuts for the middle class and expanded paid leave for Minnesota workers.
+
+Walz has long advocated for women’s reproductive rights but also displayed a conservative bent while representing a rural district in the U.S. House, defending agricultural interests and backing gun rights.
+
+...
+
+[Data](articles/bbbcb063.json)
 
 ---
 
@@ -61,6 +99,8 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 ...
 
 [Data](articles/df490f7b.json)
+
+[Extended Data](ext_articles/df490f7b.ext.json)
 
 ---
 
@@ -2197,49 +2237,5 @@ The Parliamentary Council has started its session, focusing on legislative discu
 [Data](articles/63b136d3.json)
 
 [Extended Data](ext_articles/63b136d3.ext.json)
-
----
-
-### Train interrupts
-
-*2024-08-06 09:22:34* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ධාවනයට-බාධා/11-411219) · `si`
-
-Due to employee duty issues at Dematagoda Rate, several train services from Colombo Fort Railway Station were delayed and one was canceled.
-
-🟩
-
-A delay and a train has been canceled in trains starting from Colombo Fort Railway Station.
-
-The Railway Control Room stated that the train services have been disrupted due to the duties of the employees of the Dematagoda Rate.
-
-◼️
-
-[Data](articles/a6a4dffb.json)
-
-[Extended Data](ext_articles/a6a4dffb.ext.json)
-
----
-
-### Aruna footage's final round
-
-*2024-08-06 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199613) · `si`
-
-Aruna Footage advances to the semi-finals of the 400m event at this year's Olympics, setting a personal best time of 44 seconds. The competition takes place in Sri Lanka tonight at 11:30 pm, following his performance in the 500m event earlier.
-
-🟩
-
-This year's Olympic Games, the participation of Aruna footage is scheduled to be played to the semi-finals of the 400m event today.
-
-It is reported that the Aruna footage will be held at Sri Lanka at about 11.5 pm today.
-
-The third scene was held at the 500m event.
-
-The Aruna scenes ended up to 44 decimals, and it is considered to be his personal best time.
-
-◼️
-
-[Data](articles/ae986000.json)
-
-[Extended Data](ext_articles/ae986000.ext.json)
 
 ---

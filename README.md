@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 23:55:58**
+As of **2024-08-08 00:09:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,510 (100.0%) of 39,521 articles have been extended.
+39,521 (100.0%) of 39,521 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -588,6 +588,8 @@ The government will gradually reduce the 26,000 approved cadre in the CEB throug
 
 [Data](articles/4f6fc2b1.json)
 
+[Extended Data](ext_articles/4f6fc2b1.ext.json)
+
 ---
 
 ### ICC honors the judge Madugalle in the 400th ODI
@@ -657,6 +659,8 @@ He joined People’s Leasing and Finance in 2007 as the DGM – finance and admi
 ...
 
 [Data](articles/1ca79abd.json)
+
+[Extended Data](ext_articles/1ca79abd.ext.json)
 
 ---
 
@@ -744,6 +748,8 @@ A bond maturing on 15.10.2030 closed at 12.85/95 percent, up from 12.80/90 perce
 
 [Data](articles/b4b1923d.json)
 
+[Extended Data](ext_articles/b4b1923d.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -822,6 +828,8 @@ The 12-month bills fell 11 basis points to 10.06 percent, with 45 billion offere
 
 [Data](articles/3abbb3c3.json)
 
+[Extended Data](ext_articles/3abbb3c3.ext.json)
+
 ---
 
 ### Sri Lanka Test squad for England
@@ -885,6 +893,8 @@ A net foreign outflow of 23 million rupees was recorded. (Colombo/Aug7/2024)
 ◼️
 
 [Data](articles/a0800b03.json)
+
+[Extended Data](ext_articles/a0800b03.ext.json)
 
 ---
 
@@ -1072,6 +1082,8 @@ Wickremesinghe was responding to a question about statements made by opposition 
 
 [Data](articles/83a2dd47.json)
 
+[Extended Data](ext_articles/83a2dd47.ext.json)
+
 ---
 
 ### Rauf Hakeem issued a warning case: Immigration and Emigration Controller
@@ -1140,6 +1152,8 @@ State Minister for Finance Ranjith Siyambalapitiya has said that the final decis
 
 [Data](articles/169e42ab.json)
 
+[Extended Data](ext_articles/169e42ab.ext.json)
+
 ---
 
 ### Club spring murder - Big Patti's brother-in-law
@@ -1186,6 +1200,8 @@ State Minister for Transport Lasantha Alagiyawanna, a member of this faction, sa
 
 [Data](articles/f2f2db98.json)
 
+[Extended Data](ext_articles/f2f2db98.ext.json)
+
 ---
 
 ### Bangladesh central bank Deputy Governors ousted, Governor’s resignation demanded
@@ -1203,6 +1219,8 @@ Protestors also demanded the resignations of Deputy Governors Khurshid Alam and 
 ...
 
 [Data](articles/7ebe73a9.json)
+
+[Extended Data](ext_articles/7ebe73a9.ext.json)
 
 ---
 
@@ -1433,6 +1451,8 @@ Pine also praised the Sri Lankan origin population in New Zealand as a group wit
 ◼️
 
 [Data](articles/ffb3b0c9.json)
+
+[Extended Data](ext_articles/ffb3b0c9.ext.json)
 
 ---
 
@@ -1987,6 +2007,8 @@ The SPARK Young Entrepreneurship Journalist Award, will recognize excellence in 
 ...
 
 [Data](articles/272ad15b.json)
+
+[Extended Data](ext_articles/272ad15b.ext.json)
 
 ---
 

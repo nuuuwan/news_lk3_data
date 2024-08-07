@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 02:36:23**
+As of **2024-08-08 02:54:55**
 
 ## Newspaper Stats
 
@@ -26,55 +26,79 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,527 (100.0%) of 39,530 articles have been extended.
+39,530 (100.0%) of 39,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ஜனாதிபதித் தேர்தலில் போட்டியிட 22பேர் கட்டுப்பணம் செலுத்தல் - தேர்தல்கள் ஆணைக்குழு
+### 22 people in control of presidential election - Elections Commission
 
 *2024-08-08 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190543) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை (புதன்கிழமை) 22 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட  11 வேட்பாளர்களும், வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சையாக போட்டியிட 10  வேட்பாளர்களும் இவ்வாறு கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+22 candidates, including 11 from authorized parties, 1 from other parties, and 10 independents, have been approved to run in the upcoming presidential election. The Elections Commission will accept applications from 9 am to 11:30 am on Thursday, the 15th. Notable candidates include Osala Herath, ASP Liagke, Sajith Premadasa, and others representing various political fronts.
 
-ஜனாதிபதி தேர்தலுக்காக கட்டுப்பணம் செலுத்தல் எதிர்வரும் 14 ஆம் திகதி  புதன்கிழமை  வரை ஏற்றுக்கொள்ளப்படவுள்ள நிலையில் எதிர்வரும் 15 ஆம் திகதி வியாழக்கிழமை காலை 9 மணி முதல் 11.30 மணிவரையான காலப்பகுதியில்  வேட்பு மனுக்கள் ஏற்றுக்கொள்ளப்படவுள்ளது.தபால் மூல வாக்களிப்புக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் காலவகாசம் நாளையுடன் ( வெள்ளிக்கிழமை)  முடிவடையவுள்ளது.
+🟩
+
+22 candidates have been controlled so far (Wednesday) to contest the presidential election. The Elections Commission has announced that 11 candidates to contest on behalf of authorized political parties, 1 candidates to contest on behalf of other political parties and 10 candidates to contest independently.
+
+Candidates will be accepted from 9 am to 11.30 am on Thursday, the 15th of this month.
+
+Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party, Battaramulla Seelaratne Thera on behalf of the Janasena Front, KR Krishnan on behalf of the Arunulu People's Front, Anurakumara Dissanayake on behalf of the National People's Power
 
 ...
 
 [Data](articles/3ed7c661.json)
 
+[Extended Data](ext_articles/3ed7c661.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்கவின் வேலைத்திட்டத்தினால் அந்நிய செலாவணி கையிருப்பு அதிகரிக்கவில்லை - விஜித்த ஹேரத்
+### Ranil Wickremesinghe's program has not increased foreign exchange reserves - Vijitha Herath
 
 *2024-08-08 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190542) · `ta`
 
-நாட்டின் அந்நிய செலாவணி கையிருப்பு அதிகரிக்க ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வேலைத்திட்டங்கள் காரணமல்ல, நாட்டில் இருக்க முடியாது என்று கூறி வெளிநாடுகளுக்கு சென்றுள்ளவர்கள் அனுப்பிய பணமே காரணம் என தேசிய மக்கள் சக்தி  உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+Vijitha Herath criticizes President Ranil Wickremesinghe's policies, stating they didn't boost foreign exchange reserves. She argues the increase came from remittances by overseas Sri Lankans, not his economic strategies. Herath also mentions a significant number of people leaving the country, affecting the forex reserves negatively. She warns against selling national assets like telecom and Hilton Hotel, emphasizing their importance beyond mere economics.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டின் பொருளாதாரத்தை வீழ்த்திய நாங்களே நாட்டை மீட்டெடுத்தோம் என்பதனை போன்று அரச தரப்பினர் கதைக்கின்றனர். அன்று மத்திய வங்கி கொள்ளை நடந்த காரணத்தினாலேயே நாட்டில் எரிபொருள், எரிவாயு வரிசைகள் உருவாகின. அந்த கொள்ளை நடந்திருக்காவிட்டால் அந்த வரிசைகள் எதுவும் உருவாகியிருக்காது. பொருளாதார வீழ்ச்சியும் ஏற்பட்டிருக்காது. இந்நிலையில் வீழ்த்தியவர்களே நாட்டை மீட்டதாக கூறுவது வேடிக்கையாக உள்ளது.
+National People's Power Member Vijitha Herath said that President Ranil Wickremesinghe's programs were not responsible for the country's foreign exchange reserves, but the money sent by foreigners claiming that it could not be in the country.
+
+He was speaking at the post of adjournment of the House of Commons on Wednesday (7) in Parliament.
+
+State parties say that we have retrieved the country who defeated the country's economy. Fuel and gas rows were formed in the country due to the Central Bank robbery that day. If the robbery had not taken place, none of those rows would have been formed. The economic downturn would not have occurred. It is funny to say that those who have fallen in this situation have rescued the country.
+
+At the same time they claim that forex balance has increased. உண்மையில் அது ரணில் விக்கிரமசிங்கவின் பொருளாதார வேலைத்திட்டங்களால் அது அதிகரிக்கப்படவில்லை. In 2023 and 2022 alone, nearly six million people have left the country that they cannot be in this country.
 
 ...
 
 [Data](articles/3716bda5.json)
 
+[Extended Data](ext_articles/3716bda5.ext.json)
+
 ---
 
-### நாணய நிதியத்துடனான உடன்படிக்கையை இரத்து செய்தால் வரவு செலவு திட்டத்தைக் கூட முன்வைக்க முடியாமல் போகும் - பந்துல குணவர்தன
+### If the agreement with the Monetary Fund is canceled, the budget will not be presented even - Bandula Gunawardena
 
 *2024-08-08 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190541) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் உதவியினாலே நாடு தலைதூக்கி இருக்கிறது. இந்நிலையில் சர்வதேச நாணய நிதியத்துடனான உடன்படிக்கையை இரத்து செய்தால் 2025 ஆம் ஆண்டு வரவு செலவு திட்டத்தைக் கூட முன்வைக்க முடியாது போகும் என போக்குவரத்து, ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன  பாராளுமன்றத்தில் தெரிவித்தார்.
+Bandula Gunawardena warns that cancelling the IMF agreement could halt the 2025 budget presentation, affecting welfare activities and government salaries. He urges voters to consider the country's economic stability before supporting parties aiming to revoke the IMF deal.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க சர்வதேச நாணய நிதியத்துடன் மேற்கொண்டுள்ள கடன் உடன்படிக்கை காரணமாக நாட்டின் பொருளாதாரத்தை முகாமைத்துவம் செய்ய முடிந்துள்ளது. அதன் பிரதிபலனாக இன்று நாட்டுக்கு தேவையான எரிபொருள், உரம் மருந்து உணவு ஆகியவை கையிருப்பில் உள்ளன.
+With the help of the International Monetary Fund, the country is heading. Transport and Media Minister Bandula Gunawardena told Parliament that if the cancellation of the International Monetary Fund will be canceled by the 2025 budget.
+
+He was speaking at the post of adjournment of the House of Commons on Wednesday (7) in Parliament.
+
+President Ranil Wickremesinghe has been able to manage the country's economy due to the International Monetary Fund. As a reflection, today the country's fuel and fertilizer medicine foods are available.
+
+As Harsha de Silva MP says, if the United People's Power has canceled the agreement with the International Monetary Fund, the budget will not be put forward next year. Welfare activities, including the salary and pension of government employees, will be stopped. Not only that, the United People's Power, which is hoping to cancel the agreement, will not be able to advance that government for two weeks.
 
 ...
 
 [Data](articles/4d25b2da.json)
+
+[Extended Data](ext_articles/4d25b2da.ext.json)
 
 ---
 

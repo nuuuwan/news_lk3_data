@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 11:20:50**
+As of **2024-08-07 11:36:40**
 
 ## Newspaper Stats
 
-*Scraped **39,441** Articles*
+*Scraped **39,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
 adalk | 3,626
-adaderanalk | 4,579
+adaderanalk | 4,580
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,952
 virakesarilk | 6,233
-adaderanasinhalalk | 6,675
+adaderanasinhalalk | 6,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,439 (100.0%) of 39,441 articles have been extended.
+39,441 (100.0%) of 39,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ACMC to announce decision on presidential candidate next week
+
+*2024-08-07 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101057/acmc-to-announce-decision-on-presidential-candidate-next-week-) · `en`
+
+The All Ceylon Makkal Congress (ACMC) led by former minister Rishad Bathiudeen has decided to announce the candidate it will support in the upcoming presidential election on August 14.
+
+The leader of the ACMC, MP Rishad Bathiudeen, stated that this decision was taken during the party’s Supreme Council meeting last night.
+
+“The Supreme Council of our party held an extensive discussion regarding who we should support in the presidential election. Accordingly, we have decided to reach a final decision at 10 a.m. on the 14th.”
+
+He stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they will participate in the alliance’s meetings.
+
+“At that time, the SJB has requested to give our support to the party. Meanwhile, the current President has also sent us a letter requesting for our support. What we are saying is that we need to protect the current economy. We can’t go back in reverse gear”, he said.
+
+◼️
+
+[Data](articles/8f102a3d.json)
+
+---
+
+### අතුරුගිරියේ ඝාතකයන් පලා ගිය බස් රථය කතරගමින් සොයා ගනියි
+
+*2024-08-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199661) · `si`
+
+අතුරුගිරිය ටැටූ කලාගාරය තුළ සිදු වූ ද්විත්ව ඝාතනයෙන් අනතුරුව ඝාතකයන් පලා ගිය බස් රථය  කතරගම ප්‍රදේශයේ පුද්ගලයෙකුට විකුණා තිබියදී සොයා ගත් බව බස්නාහිර පළාත් දකුණු දිසාව අපරාධ කොට්ඨාසය ප්‍රකාශ කරයි.
+
+ජූලි මස 8 වෙනිදා සිදුවූ මෙම වෙඩි තැබීමෙන් පුද්ගලයන් සිව් දෙනෙකු බරපතල තුවාල ලබා තිබුණි.
+
+අපරාධයට අනුබල දුන් සැකකරුවෙකු දක්ෂිණ අධිවේගී මාර්ගයේ සේවා පියසේදී අගෝස්තු මස (06) වන දින අත්අඩංගුවට ගෙන සිදු කරන ලද ප්‍රශ්න කිරීමේදී එම සැකකරු අම්බලන්ගොඩ ප්‍රදේශයේ සිට වෙඩික්කරුවන් දෙදෙනා හා ආයුධ අතුරුගිරිය ප්‍රදේශයට රැගෙන යාමට කුලී වෑන් රථයක් සම්බන්ධ කර දී ඇති බවට අනාවරණය වී ඇති බව පොලිසිය පවසයි.
+
+අනතුරුව එම සැකකරුගෙන්  සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී අතුරුගිරිය වෙඩි තැබීමේ  සිද්ධියෙන් අනතුරුව වෙඩික්කරුවන්ට දක්ෂිණ අධිවේගී මාර්ගය ඔස්සේ පලායාමට භාවිතා කළ බස් රථය කතරගම ප්‍රදේශයේ පුද්ගලයෙකුට විකුණා තිබියදී සොයා ගැනීමට පොලීසියට හැකි වී තිබුණි.
+
+මෙම අපරාධය සම්බන්ධයෙන් මේ වන විට කාන්තාවක් ඇතුළු සැකකරුවන් 11 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර සැකකරුවන් සහ බස් රථය වැඩිදුර විමර්ශන සඳහා අතුරුගිරිය පොලිසිය වෙත භාරදී තිබේ.
+
+◼️
+
+[Data](articles/edfcd468.json)
+
+---
 
 ### Rocket attack on Iraqi camp in Iraq
 
@@ -754,21 +794,27 @@ Some areas in the East, Uva and Northern provinces. There will be more heavy rai
 
 ---
 
-### මාධ්‍ය මර්දනයට මන්ත්‍රීවරු පාර්ලිමේන්තු බලතල සහ වරප්‍රසාද යොදා ගන්නවා ද?
+### Are MPs use parliamentary powers and privileges to repress media repression?
 
 *2024-08-07 04:25:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9844n023lxo) · `si`
 
-මාධ්‍ය මර්දනයට මන්ත්‍රීවරු පාර්ලිමේන්තු බලතල සහ වරප්‍රසාද යොදා ගන්නවා ද?
+MPs in Sri Lanka have used parliamentary privileges to address perceived media bias and misinformation, but concerns arise over potential misuse to stifle criticism. The Parliamentary Powers and Privileges Act allows MPs broad freedoms of speech, yet there's controversy over how these rights intersect with press freedom. Instances of MPs questioning journalists before parliamentary committees and allegations of journalists being targeted for their reporting highlight the delicate balance between parliamentary immunity and media accountability.
 
-පාර්ලිමේන්තුවේ සභා ගර්භය තුළ දී මන්ත්‍රීවරුන්ට ඕනෑම අදහසක් පළ කළ හැකිය. එය අධිකරණයක වුව ද ප්‍රශ්න කිරීමේ හැකියාවක් නැත. එය පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට භාෂණයේ නිදහස සම්බන්ධයෙන් ලැබී ඇති සුවිශේෂී වරප්‍රසාදයකි. නමුත් එම වරප්‍රසාදය භාවිත කරමින් විරුද්ධවාදීන්ට මඩ ගැසීම් සහ බියවැද්දීම් ශ්‍රී ලංකා පාර්ලිමේන්තුව තුළ සිදුවන බවට රටේ පුරවැසියෝ ප්‍රශ්න කරන අවස්ථා දක්නට ලැබෙති.
+🟩
 
-පාර්ලිමේන්තු වරප්‍රසාද භාවිතා කරමින් විවිධ පුද්ගලයන් ඉලක්ක කර පෞද්ගලිකව මඩගැසීම නැවැත්වීම සඳහා නීති සංශෝධනය කළ යුතු බව වරක් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ ප්‍රකාශ කළ අතර එමගින් මේ ගැටලුව කොතරම් බලපෑම්සහගත වී ඇත්දැයි සිතා ගත හැකිය.
+Are MPs use parliamentary powers and privileges to repress media repression?
 
-තමන්ගේ පාර්ලිමේන්තු වරප්‍රසාද කඩ වී ඇති බවට පවසමින් මන්ත්‍රීවරු විවිධ හේතු දක්වති. ඒ අතරින් මාධ්‍යවේදීන්ට ඇඟිල්ල දිගුවන අවස්ථා ද තිබේ.
+Members can express any idea in the Chamber of Principles of Parliament. It does not matter whether it is in court. It is a unique privilege of parliamentarians regarding freedom of speech. However, the citizens of the country have interrogated the slandeasures of the Sri Lankan Parliament by using that privilege.
+
+MP Namal Rajapaksa once said that the laws should be amended to ensure that the problem was effectively targeting various individuals using parliamentary privileges.
+
+MPs say that their parliamentary privileges have been broken. Of these, journalists also have the finger.
 
 ...
 
 [Data](articles/5cb73a48.json)
+
+[Extended Data](ext_articles/5cb73a48.ext.json)
 
 ---
 
@@ -1401,6 +1447,8 @@ While the event was initially scheduled to take place at the foyer of the Nelum 
 ...
 
 [Data](articles/2affb683.json)
+
+[Extended Data](ext_articles/2affb683.ext.json)
 
 ---
 
@@ -2179,57 +2227,5 @@ The methodology has been submitted as the methodology to conduct the data standa
 [Data](articles/1b7620ae.json)
 
 [Extended Data](ext_articles/1b7620ae.ext.json)
-
----
-
-### Kelanii Kachchi road roads on two sides of unauthorized occupants to other places
-
-*2024-08-06 19:13:06* · [`adalk`](https://www.ada.lk/breaking_news/කැලණිවැලි-කෝච්චි-පාර-දෙපැත්තේ-අනවසර-පදිංචිකරුවන්-වෙනත්-ස්ථානවලට/11-411240) · `si`
-
-Unauthorized settlers from the Maligawatta area, using local funds, have been relocated from the Colombo District Railway Station to other areas. The government plans to provide housing facilities through the Urban Development Authority and the Railway Harbana Project, aiming to resettle around 350 families affected by this relocation.
-
-🟩
-
-From Piyanuwewa Railway Station from Piyadukka to Padukka
-
-U unauthorized residents of the Maligawatta Local Funds have been settled in other places using local funds from the Colombo District Railway Station.
-
-A large percentage of the residents of the Railway Residents from the Piyukka Railway Station from Padukka to Padukka are unafe and have been identified to resettle from 350 families.
-
-Accordingly, the Cabinet of Transport and Highways has been approved by the Cabinet of Transport and Highways to facilitate housing facilities in the Colombo Mawatha of Urban Development Authority and Railway Harvana Project..
-
-◼️
-
-[Data](articles/f048a845.json)
-
-[Extended Data](ext_articles/f048a845.ext.json)
-
----
-
-### 197 elephants died in 2024
-
-*2024-08-06 19:04:54* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-අලි-ඇතුන්-197ක්-මිය-ගිහින්/11-411239) · `si`
-
-In 2024, 197 elephants died, while 73 humans were killed by elephants. The Elephant Subcommittee reported 479 elephant deaths last year. Despite this, the elephant population is increasing, leading to proposals for exporting or domesticating them. A national survey found 5,879 elephants in Sri Lanka in 2011, with 7,770 killed since then. It's challenging to match the birth rate with death rates, prompting calls to manage human-elephant conflicts effectively.
-
-🟩
-
-Due to eight elephants from January 1 this year, 73 people were killed in 197 people due to other reasons.
-
-The Elephant Assistant Subcommittee on Elephant Assistant said that 479 elephants were killed in the past year.
-
-In this backdrop, the elephant population is rising and a member of the Parliament has proposed to be exported or domesticized and the proposal is a proposal.
-
-According to the first national survey of elephants, 5,879 elephants in Sri Lanka, 5,879 elephants were reported in 2011, 7,770 elephants were killed in the period.
-
-He also said that it was difficult to think that elephants would be born in a pace, compared to the dying.
-
-The authorities have asked the authorities to reduce their daily elephant conflict, including the daily elephant conflict.Mentioned.
-
-◼️
-
-[Data](articles/c830533d.json)
-
-[Extended Data](ext_articles/c830533d.ext.json)
 
 ---

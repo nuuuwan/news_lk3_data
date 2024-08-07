@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 00:21:06**
+As of **2024-08-08 00:36:27**
 
 ## Newspaper Stats
 
-*Scraped **39,521** Articles*
+*Scraped **39,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,963
-virakesarilk | 6,246
+virakesarilk | 6,249
 adaderanasinhalalk | 6,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,521 (100.0%) of 39,521 articles have been extended.
+39,521 (100.0%) of 39,524 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,52 @@ Nuwakot district officer Ram Krishna Adhikari said five dead bodies have been re
 [Data](articles/c644fbe6.json)
 
 [Extended Data](ext_articles/c644fbe6.ext.json)
+
+---
+
+### Sri Lanka made history after 27 years
+
+*2024-08-07 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190538) · `ta`
+
+After 27 years, Sri Lanka clinched an international ODI series against India, winning 2-0. In the final match, Sri Lanka scored 248/7, led by Avishka Fernando's 96. India was bowled out for 138 in 26.1 overs, with Rohit Sharma scoring 35 and Washington Sundar 30.
+
+🟩
+
+Sri Lanka won India by winning India 27 years later in an international ODI series.
+
+Colombo r. Sri Lanka won India by 110 runs in the 3rd and decisive ODIs held at the Premadasa Stadium on Wednesday (07).
+
+Sri Lanka won the series 2 - 0.
+
+Sri Lanka scored 248 runs for the loss of 7 wickets in 50 overs.
+
+Avishka Fernando scored 96 runs, Gusal Mendis 59 and Beth and Nissank 45.
+
+In reply, India lost all the wickets in 26.1 overs and lost 138 runs.
+
+Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) were the two double digits.
+
+◼️
+
+[Data](articles/d76f7a60.json)
+
+[Extended Data](ext_articles/d76f7a60.ext.json)
+
+---
+
+### கேரள வயநாடு கிராமத்தை போன்று  பொன்னாவெளி, கௌதாரிமுனை கிராமம் அழிவடையும் - சிறிதரன் எச்சரிக்கை
+
+*2024-08-07 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190540) · `ta`
+
+கேரள மாநிலத்திலுள்ள வயநாடு கிராமம் அழிவடைந்ததை போன்று இலங்கையில் கிளிநொச்சி மாவட்டத்திலுள்ள பொன்னாவெளி,  கௌதாரிமுனை கிராமமும் அழிவடைந்து, இலங்கையின் வரைபடத்தில் இருந்து இல்லாமல் போகும் அபாயம் காணப்படுகிறது. பேரழிவை தடுக்க உரிய நடவடிக்கைகள் எடுக்கப்பட வேண்டும் என தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் சபையில் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இந்தியாவின் கேரள மாநிலத்தில் நூற்றுக்கணக்கான மக்கள் வாழ்ந்த வயநாடு தற்போது காணாமல் போயுள்ளது. 500க்கும் மேற்பட்ட குடும்பங்களை சேர்ந்தவர்களை காணவில்லை. ஒரே இரவில் நடந்த அனர்த்தத்தில் ஒரு ஊரே காணாமல் போயுள்ளது. ஊரை காணவில்லை,இங்கிருந்த மக்களை காணவில்லை என கதறி அழுதார்கள் , இணையத்தளங்களில் பார்த்தேன். மனிதனின் கண்டுபிடிப்புகள் இங்கே தோற்றுப்போயுள்ளன.
+
+...
+
+[Data](articles/66b40636.json)
 
 ---
 
@@ -266,36 +312,6 @@ To ensure their safety. Otherwise, it would be difficult to come to the hospital
 
 ---
 
-### Sri Lanka made history after 27 years
-
-*2024-08-07 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190538) · `ta`
-
-After 27 years, Sri Lanka clinched an international ODI series against India, winning 2-0. In the final match, Sri Lanka scored 248/7, led by Avishka Fernando's 96. India was bowled out for 138 in 26.1 overs, with Rohit Sharma scoring 35 and Washington Sundar 30.
-
-🟩
-
-Sri Lanka won India by winning India 27 years later in an international ODI series.
-
-Colombo r. Sri Lanka won India by 110 runs in the 3rd and decisive ODIs held at the Premadasa Stadium on Wednesday (07).
-
-Sri Lanka won the series 2 - 0.
-
-Sri Lanka scored 248 runs for the loss of 7 wickets in 50 overs.
-
-Avishka Fernando scored 96 runs, Gusal Mendis 59 and Beth and Nissank 45.
-
-In reply, India lost all the wickets in 26.1 overs and lost 138 runs.
-
-Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) were the two double digits.
-
-◼️
-
-[Data](articles/d76f7a60.json)
-
-[Extended Data](ext_articles/d76f7a60.ext.json)
-
----
-
 ### Sri Lanka beat Sri Lanka
 
 *2024-08-07 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199680) · `si`
@@ -457,6 +473,22 @@ The consignment of drugs is suspected to have been sent by the notorious drug tr
 [Data](articles/2885b22e.json)
 
 [Extended Data](ext_articles/2885b22e.ext.json)
+
+---
+
+### ஜனாதிபதிக்கு தற்போது ஆதரவு வழங்குபவர்கள் அவரை அதலபாதாளத்துக்கு தள்ளுவார்கள் -துஷார இந்துனில்
+
+*2024-08-07 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190528) · `ta`
+
+1994 ஆம் ஆண்டு முதல் ஆட்சியில் இருந்த அரசாங்கங்களில் அமைச்சு பதவி வகித்தவர்கள்  தற்போது ஜனாதிபதி ரணில் விக்கிரமசிங்க பக்கம் சென்றுள்ளார்கள்.இவர்களுடன் ஜனாதிபதி எந்த இலக்கை நோக்கி பயணிக்க போகிறார் என்பதை அறியவில்லை.ஜனாதிபதியை அதளபாதாளத்துக்கு தள்ளி விட்டு தமக்கு சாதகமாக உள்ள பக்கம் தாவுவார்கள் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் துஷார இந்துனில் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடமிருந்து மதுபானசாலை அனுமதி பத்திரங்கள் பெற்றுக்கொண்ட  எதிரணியின் பெயர் விபரத்தை ஐந்து நிமிடங்களுக்குள் வெளியிடுவதாக மஹிந்தானந்த அளுத்கமகே குறிப்பிட்டார்.ஒரு மணித்தியாலம் கடந்தும் அவர் பெயர் பட்டியலை வெளியிடவில்லை.சபையிலும் அவரை காணவில்லை.பாராளுமன்ற சிறப்புரிமையில் இருந்துக் கொண்டு பொய்யுரைத்து சேறு பூசுவதை தவிர்த்துக் கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/03fb065b.json)
 
 ---
 
@@ -687,6 +719,22 @@ Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 [Data](articles/50ad8ba9.json)
 
 [Extended Data](ext_articles/50ad8ba9.ext.json)
+
+---
+
+### பாதிக்கப்பட்ட தரப்பினர் குறித்து ஜனாதிபதி அவதானம் செலுத்தவில்லை : நிபந்தனைகளை நிச்சயம் மறுசீரமைப்போம் - ஹர்ஷ டி சில்வா
+
+*2024-08-07 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190495) · `ta`
+
+பொருளாதாரம் மறுசீரமைக்கப்பட வேண்டும் என்ற நிலைப்பாட்டில் ஜனாதிபதி உள்ளார். இந்த நிலைப்பாட்டில் தான் நாங்களும் உள்ளோம். இருப்பினும் பொருளாதார நெருக்கடியில் பாதிக்கப்பட்டுள்ள தரப்பினர் குறித்து ஜனாதிபதி அவதானம் செலுத்தவில்லை. ஏற்றுக்கொள்ளப்பட்டுள்ள நிபந்தனைகளை  நிச்சயம் மறுசீரமைப்போம் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் ஒன்றிணைந்து எதிர்கால அரசியலில் ஈடுபடவுள்ளதால் பொதுஜன பெரமுனவின் உறுப்பினர் மதுர விதானகே என் மீது பொய்யான குற்றச்சாட்டுக்களை முன்னைக்கிறார்.ரணில் விக்கிரமசிங்கவுக்கு வாக்களியுங்கள் என்று இவர் எமது பிரதேச மக்களிடம் குறிப்பிட்டால் பிரதிபலன் எவ்வாறு அமையும் என்பதை நான் அறிவேன்.எவ்வாறு கட்சி மாறுகிறார்கள் என்பதை அறியவில்லை.
+
+...
+
+[Data](articles/a988e190.json)
 
 ---
 
@@ -2291,77 +2339,5 @@ The 25-year-old qualified for the semifinals on Sunday (04), after finishing thi
 [Data](articles/6e41c949.json)
 
 [Extended Data](ext_articles/6e41c949.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-07 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101052/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places in Eastern, Uva and Northern provinces, the department said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/57b43543.json)
-
-[Extended Data](ext_articles/57b43543.ext.json)
-
----
-
-### Action to release fishermen
-
-*2024-08-07 08:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுவிக்க-நடவடிக்கை-தேவை/175-341731) · `ta`
-
-Kanimozhi Karunanidhi, a Lok Sabha member, called for the immediate release of 177 Tamil Nadu fishermen's boats held by the Sri Lankan navy, highlighting incidents where boats were seized and fishermen attacked despite previous releases.
-
-🟩
-
-In it, he urged the central government to immediately release the fishermen and their fishing boats captured by the Sri Lankan navy.
-
-The DMK in the Lok Sabha yesterday. Kanimozhi Karunanidhi, Deputy General Secretary and Tuticorin MP
-
-The Sri Lankan navy is not just capturing the boats of Tamil Nadu fishermen. This year alone 27 boats have been seized by the Sri Lankan navy. About 177 Indian boats are now in the hands of the Sri Lankan government.
-
-The boats have no chance of getting Indian fishermen. The boats were not released even after the fishermen were released. Sri Lankan navy has attacked fishermen in two boats at Thoothukudi Daruwaikulam. 22 fishermen have been arrested and taken to Sri Lanka yesterday. This has happened even after this government raised attention. Therefore, Tamil Nadu fishermen should take action to prevent the issue from being affected by the issue.. (A)
-
-◼️
-
-[Data](articles/d7dd7d54.json)
-
-[Extended Data](ext_articles/d7dd7d54.ext.json)
-
----
-
-### Aruna Vision Tournament due to lane lanes
-
-*2024-08-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199655) · `si`
-
-In the Paris Olympics, Sri Lanka's Aruna Pathlerology team competed in the 400mm event but were disqualified due to lane violations. Their performance, including a 44-second run, was notable, ranking them second after Sugath Tillekeratne.
-
-🟩
-
-The result has been abolished because of the 400mm in Sri Lanka's Aruna Pathlerology laws, which participated in the semi-round of the Paris Olympic Games.
-
-Sri Lanka's Aruna sightsees competed in the semi-finals of the 400mm events in the Paris Olympics.
-
-Aruna footage along with the look forward to the wide of Sri Lanka Sports Flaners, Aruna footage was opened at the stadium around 11.05 pm.
-
-Aruna time to end the event was 44 seconds and 7 decimals.
-
-The time was among the array of the array, and his talent was the second only Sugath Tillekeratne.
-
-However, the organizers of the competition organized to cancel the aforesaid talent due to the violation of the racing lanes in the match.
-
-◼️
-
-[Data](articles/869db91b.json)
-
-[Extended Data](ext_articles/869db91b.ext.json)
 
 ---

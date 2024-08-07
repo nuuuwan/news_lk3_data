@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 16:20:44**
+As of **2024-08-07 16:36:15**
 
 ## Newspaper Stats
 
-*Scraped **39,471** Articles*
+*Scraped **39,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,77 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,629
-adaderanalk | 4,587
+adaderanalk | 4,588
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,955
+tamilmirrorlk | 4,956
 virakesarilk | 6,233
-adaderanasinhalalk | 6,688
+adaderanasinhalalk | 6,689
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,468 (100.0%) of 39,471 articles have been extended.
+39,471 (100.0%) of 39,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### රංජන් මඩුගල්ලේ පසුකළ ඓතිහාසික කඩයිම
+### එංගලන්තයට යන ශ්‍රී ලංකා ටෙස්ට් සංචිතය
 
-*2024-08-07 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199673) · `si`
+*2024-08-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199674) · `si`
 
-එක්දින ජාත්‍යන්තර ක්‍රිකට් තරග 400ක තරග තීරකවරයා ලෙස කටයුතු කළ ලොව පළමු තරග තීරකවරයා ලෙසින් ජාත්‍යන්තර ක්‍රිකට් පිටියේ සුවිශේෂී කඩයිමක් සම්පූර්ණ කිරීමට ශ්‍රී ලංකාවෙන් බිහිවූ විශිෂ්ටතම තරග තීරකවරයා ලෙසින් සැලකෙන රන්ජන් මඩුගල්ලේ මහතා සමත් විය.
+එංගලන්තට එරෙහිව ආරම්භ වීමට නියමිත තරග 03කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා සංචිතය අද (07) නම්කරනු ලැබීය.
 
-ශ්‍රී ලංකාව හා සංචාරක ඉන්දීය කණ්ඩායම අතර කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේදී අද (07) පැවැත්වෙන තෙවැනි හා අවසන් එක්දින තරගයේ තරග තීරකවරයා ලෙසින් එක්වෙමින් ඔහු මෙම ඓතිහාසික කඩයිම පසුකර යෑමට සමත් විය.
+◼️
 
-වසර 10කට (1979 - 1988) ආසන්න කාලයක් ශ්‍රී ලංකාව නියෝජනය කරමින් ටෙස්ට් හා එක්දින ක්‍රිකට් තරග ක්‍රීඩා කර ඇති මඩුගල්ලේ මහතා, 1988 වසරේදී ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමෙන් පසු 1993 වසරේදී ක්‍රිකට් තරග තීරකවරයෙකු ලෙසින් සිය වෘත්තීය ගමන්මග ආරම්භ කළේය.
+[Data](articles/fe9f9759.json)
 
-ටෙස්ට් තරග 200ක් විනිශ්චය කළ පළමු හා එකම තරග තීරකවරයා වන්නේද රංජන් මඩුගල්ලේ මහතා වන අතර, ඔහු මේ වනවිට  ටෙස්ට් තරග 216කට සිය දායකත්වය ලබා දී ඇත.
+---
+
+### Navy recovers over 4.7kg of gold from bottom of Thorayadi Lagoon
+
+*2024-08-07 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101064/navy-recovers-over-47kg-of-gold-from-bottom-of-thorayadi-lagoon-) · `en`
+
+Sri Lanka Navy personnel have recovered a parcel containing gold including gold biscuits weighing over 4.7 kg from the bottom of the Thorayadi Lagoon in Kalpitiya.
+
+A special search operation conducted by the Sri Lanka Navy at Thorayadi Lagoon in Kalpitiya yesterday (06) has led to the recovery of the parcel weighing approximately 04kg and 740g from the depths of the lagoon.
+
+Additionally, the Navy had seized a dinghy near Thorayadi beach, which is suspected to have been used for smuggling the package.
+
+Acting on the information received, SLNS Vijaya of the Northwestern Naval Command had carried out this special operation in Thorayadi Lagoon.
+
+The operation had led to the recovery of the package containing 04kg and 740g of gold, including gold biscuits and solid gold objects, that had been discarded in the lagoon, as well as the seizure of a dinghy near Thorayadi Beach.
 
 ...
 
+[Data](articles/8ab0cca1.json)
+
+---
+
+### Historical shop in Ranjan Madugalle
+
+*2024-08-07 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199673) · `si`
+
+Ranjan Madugalle, a cricket legend from Sri Lanka, made history as the first match referee in a One Day International (ODI) between Sri Lanka and India in Colombo. His career spanned from 1979 to 1988, during which he officiated both Test and ODI matches. Notably, he became the first and only person to judge 200 Tests. Today, he continues his legacy in cricket administration, making significant contributions to the sport.
+
+🟩
+
+Ranjan Madugalle, who was the first match of the world's first match decision was the first match of the match.
+
+Sri Lanka and Tourism India played Colombo. He joined the third and final ODI, however, passing the historical shop while the third and final ODI will be held today (07) at the Premadasa Stadium.
+
+Madugalle, who has been speaking at Test and ODIs for 10 years (1979 - 1988), commenced its career in 1993 as a cricket match in 1993.
+
+Ranjan Madugalle is the first and only match decision who judged 200 Tests.
+
+Chris broad (361) in the second place in the second place in the second place on the match referee list, the second place in the third place.
+
+◼️
+
 [Data](articles/629a0265.json)
+
+[Extended Data](ext_articles/629a0265.ext.json)
 
 ---
 
@@ -68,19 +108,27 @@ Media reports suggested unidentified mob, opposed to the Awami League (AL) regim
 
 [Data](articles/fb6aac62.json)
 
+[Extended Data](ext_articles/fb6aac62.ext.json)
+
 ---
 
-### ත්‍රිරෝද රථ රියදුරු අතුරුදන් වීමට මොහොතකට පෙර -CCTV
+### Tri-driving driver's disappearance - CCCTV
 
 *2024-08-07 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199672) · `si`
 
-රියදුරා අතුරුදන්ව ඇති බවට ඔහුගේ බිරිඳ විසින් හිරණ පොලීසියට පැමිණිල්ලක් කර ඇත.
+A driver vanished after being seen on CCTV driving towards a rental property with an unknown woman. His wife reported him missing to the Sirana Police.
 
-අවසන්වරට ඔහු නාඳුනන කාන්තාවක් සමග කුලී ගමනක් සඳහා රථ ගාලෙන් පිටත්ව යන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
+🟩
+
+His wife has lodged a complaint with the Sirana Police that the driver had disappeared.
+
+Lence, he was dialed in a car path to a rented woman with a unidentified woman.
 
 ◼️
 
 [Data](articles/03179f6b.json)
+
+[Extended Data](ext_articles/03179f6b.ext.json)
 
 ---
 
@@ -129,6 +177,24 @@ The gold consignment of the Navy and the Dingy vessel is to be handed over to th
 [Data](articles/87ce9919.json)
 
 [Extended Data](ext_articles/87ce9919.ext.json)
+
+---
+
+### வைத்தியர் அர்ச்சுனாவுக்கு பிணை
+
+*2024-08-07 15:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை/175-341749) · `ta`
+
+மன்னார் வைத்தியசாலைக்குள் கடந்த வெள்ளிக்கிழமை இரவு அத்துமீறி நுழைந்து கடமையில் இருந்த வைத்தியர்கள் மற்றும் வைத்தியசாலை பணியாளர்களை அச்சுறுத்தும் வகையில் நடந்து கொண்டமை உள்ளிட்ட குற்றச்சாட்டுக்களை சுமத்தி வைத்தியசாலை நிர்வாகம் அவருக்கு எதிராக முறைப்பாடு செய்திருந்தது.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார், கடந்த சனிக்கிழமை வைத்தியர் இராமநாதன் அர்ச்சுனாவை கைது செய்து, 07ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டார்.
+
+இந்த நிலையில், கையில் விலங்கிடப்பட்ட நிலையில், வைத்தியர் அர்ச்சுனா இன்று நீதிமன்றம் அழைத்துவரப்பட்டிருந்தார்.
+
+இதனையடுத்து, வைத்தியர் அர்ச்சுனா இரண்டு சரீரப் பிணையில் செல்ல மன்னார் நீதிவான் நீதிமன்றம் உத்தரவிட்டது. R
+
+◼️
+
+[Data](articles/c71a96c4.json)
 
 ---
 
@@ -2187,61 +2253,5 @@ The International Insurance Summit 2024 invites all to explore dynamic opportuni
 [Data](articles/95a8e68d.json)
 
 [Extended Data](ext_articles/95a8e68d.ext.json)
-
----
-
-### Dialog MyOffer unveils enhanced AI-powered offers for personalised user experiences
-
-*2024-08-06 23:11:00* · [`islandlk`](http://island.lk/dialog-myoffer-unveils-enhanced-ai-powered-offers-for-personalised-user-experiences/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has announced significant enhancements to its MyOffer service. The rewards platform, launched to provide subscribers with exclusive offers and benefits, will now feature flash offers and offers on most popular Blaster plans, aimed at delivering greater value and personalised benefits to customers. This development underscores Dialog’s commitment to innovation and customer-centric solutions in the telecommunications sector, leveraging advanced AI technology to cater to diverse customer needs.
-
-Along with existing benefits such as call and data offers, Dialog Mobile customers can now enjoy flash offers, refreshed daily, that provide personalised data plans, alongside attractive offers on popular Blaster plans such as Unlimited Blaster, Fun Blaster, Call Blaster, and Triple Blaster. Additionally, Dialog Home Broadband customers will also benefit from exclusive data offers on top of their Wi-Fi plans.
-
-...
-
-[Data](articles/02d9aa58.json)
-
-[Extended Data](ext_articles/02d9aa58.ext.json)
-
----
-
-### Bourse in erratic mode as negative investor sentiment takes hold
-
-*2024-08-06 23:09:00* · [`islandlk`](http://island.lk/bourse-in-erratic-mode-as-negative-investor-sentiment-takes-hold/) · `en`
-
-The stock market yesterday plunged initially but subsequently recovered somewhat though investor sentiment remained wary amid low turnover. However, active participation of bargaining hunters was a notable feature of later trading, market analysts said.
-
-Amid those developments both indices moved up. The All Share Price Index went up by 42 points while S and P SL20 rose by 20.7 points. Turnover over stood at Rs 582 million sans any crossings.
-
-In the retail market companies that mainly contributed to the turnover were; JKH Rs 160.6 million (897,000 shares traded), Vallibel One Rs 35.5 million (820,000 shares traded), NTB Rs 35.3 million (294,000 shares traded), Commercial Bank Rs 25.5 million (286,000 shares traded), Central Bank Rs 23.7 million (225,000 shares traded), Sunshine Holdings Rs 21.7 million (361,000 shares traded) and Browns Investments Rs 19.4 million (3.8 million shares traded). During the day 24.3 million share volumes changed hands in 7199 transactions.
-
-...
-
-[Data](articles/5a77d7c4.json)
-
-[Extended Data](ext_articles/5a77d7c4.ext.json)
-
----
-
-### Sri Lanka’s TPA says ‘many’ of its MPs will be cabinet ministers under Premadasa govt
-
-*2024-08-06 22:59:00* · [`economynextcom`](https://economynext.com/sri-lankas-tpa-says-many-of-its-mps-will-be-cabinet-ministers-under-premadasa-govt-175629/) · `en`
-
-ECONOMYNEXT – Tamil Progressive Alliance (TPA), one of Sri Lanka’s key Tamil political coalition said many of its legislators will be cabinet ministers under a future government, if opposition leader Sajith Premadasa wins the September 21 presidency.
-
-Ethnic minority TPA on Tuesday (06) pledged support to opposition leader Sajith Premadasa in the upcoming presidential poll, but declined to elaborate the conditions Premadasa has agreed with the party.
-
-“Many of us will be part of our cabinet and his administration,” TPA leader Mano Ganeshan told reporters at a media briefing in Colombo, referring to four legislators including him who addressed media.
-
-However, he said the party has not demanded “the Sun and the Moon” and admitted that the party’s support is “not unconditional”.
-
-Most ethnic minority parties in Sri Lanka usually demand cabinet portfolio to pledge support before national elections.
-
-...
-
-[Data](articles/9227752f.json)
-
-[Extended Data](ext_articles/9227752f.ext.json)
 
 ---

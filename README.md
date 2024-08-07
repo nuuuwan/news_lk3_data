@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 01:20:58**
+As of **2024-08-08 01:36:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,524 (100.0%) of 39,525 articles have been extended.
+39,525 (100.0%) of 39,525 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ TV news has shown President Wickremesinghe saying repeatedly on his recent visit
 ...
 
 [Data](articles/be7abde6.json)
+
+[Extended Data](ext_articles/be7abde6.ext.json)
 
 ---
 

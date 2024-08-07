@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 17:20:57**
+As of **2024-08-07 17:37:13**
 
 ## Newspaper Stats
 
-*Scraped **39,479** Articles*
+*Scraped **39,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,629
+adalk | 3,630
 adaderanalk | 4,588
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,956
@@ -26,39 +26,51 @@ adaderanasinhalalk | 6,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,474 (100.0%) of 39,479 articles have been extended.
+39,479 (100.0%) of 39,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190498) · `ta`
 
-இன்று புதன்கிழமை (ஆகஸ்ட் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.5065 ஆகவும் விற்பனை விலை ரூபா 306.7677ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar exchanged at Rs 297.5065 for purchase and Rs 306.7677 for sale according to the Central Bank's rates on August 07.
+
+🟩
+
+The US dollar purchasing price was Rs 297.5065, based on the currency exchange rate issued by the Central Bank on Wednesday (August 07) and the sales price were Rs 306.7677.
 
 ◼️
 
 [Data](articles/a6ff6948.json)
 
+[Extended Data](ext_articles/a6ff6948.ext.json)
+
 ---
 
-### யஷ் நடிக்கும் 'டாக்சிக்' படப்பிடிப்பு பூஜையுடன் ஆரம்பம்
+### Yash starring 'Taxic' shooting with pooja
 
 *2024-08-07 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190514) · `ta`
 
-'கே ஜி எஃப்' படத்தின் பிரம்மாண்ட வெற்றிக்குப் பிறகு பான் இந்திய நட்சத்திர நடிகராக உயர்ந்த நடிகர் யஷ் கதையின் நாயகனாக நடிக்கும் 'டாக்சிக் ' எனும் திரைப்படத்தின் படப்பிடிப்பு பூஜையுடன் தொடங்கி இருக்கிறது.
+"Yash stars in 'Taxik,' directed by Geetu Mohan Das, starting production after 'KG F's success. Shooting begins tomorrow in Bangalore, marking a celebration for fans two years after 'KG F.' Produced by KVN Productions."
 
-நடிகையும் இயக்குநருமான கீது மோகன் தாஸ் இயக்கத்தில் உருவாகவிருக்கும் 'டாக்சிக்' எனும் திரைப்படத்தில் நடிகர் யஷ் கதையின் நாயகனாக நடிக்கிறார்.
+🟩
 
-இந்த திரைப்படத்தின் படப்பிடிப்பு நாளை முதல் பெங்களூரூவில் தொடங்குகிறது. இதற்காக கர்நாடகாவில் உள்ள ஆலயம் ஒன்றில் பட குழுவினர் ஒன்று கூடி பிரார்த்தித்தனர். இது தொடர்பான புகைப்படத்தை படக்குழுவினர் வெளியிட்டுள்ளனர். இந்த திரைப்படத்தை கே வி என் புரொடக்ஷன்ஸ் நிறுவனம் தயாரிக்கிறது.
+After the huge success of 'KG F', the shooting of the film 'Taxik', which is playing the role of Ban's Indian star actor, has begun with the pooja.
 
-இரண்டு ஆண்டுகளுக்குப் பிறகு 'கே ஜி எஃப்' புகழ் யஷ் நடிக்கும் படத்தின் புதிய தகவல்கள் வெளியாகி இருப்பதால் அவருடைய ரசிகர்கள் இதனை கொண்டாடி வருகிறார்கள்.
+Actor Yash is the hero of the story in the upcoming film 'Taxik' directed by actress and director Geetu Mohan Das.
+
+The shooting of the film begins tomorrow in Bangalore. For this purpose, a film crew gathered at a temple in Karnataka. The film crew has released the photo related to this. The film is produced by KVN Productions.
+
+Two years later, his fans are celebrating this as the new information of the film 'KG F' starring 'KG F' is being released.
 
 ◼️
 
 [Data](articles/01458664.json)
+
+[Extended Data](ext_articles/01458664.ext.json)
 
 ---
 
@@ -242,21 +254,29 @@ Subsequently, the Mannar Magistrate's Court ordered the doctor Archana to go on 
 
 ---
 
-### அடுத்த கட்டத்திற்கு நகர்ந்த நடிகர் ரியோ ராஜின் 'ஸ்வீட் ஹார்ட் '
+### Actor Rio Raj's 'Sweet Heart' moved to the next stage
 
 *2024-08-07 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190512) · `ta`
 
-'ஜோ' படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் ரியோ ராஜ் கதையின் நாயகனாக நடித்திருக்கும் 'ஸ்வீட் ஹார்ட்' எனும் படத்தின் பின்னணி பேசும் பணிகள் தொடங்கி இருப்பதாக பட குழுவினர் அறிவித்துள்ளனர்.
+"Rio Raj's 'Sweet Heart' advances; director Sukumar, composer Yuvan Shankar Raja, and stars like Gopika Ramesh are involved. Shooting nears end, post-production ongoing. First look imminent."
 
-அறிமுக இயக்குநர் ஸ்வினீத் எஸ்.  சுகுமார் இயக்கத்தில் உருவாகி இருக்கும் 'ஸ்வீட் ஹார்ட்' எனும் திரைப்படத்தில் ரியோ ராஜ், கோபிகா ரமேஷ் ,ரெடின் கிங்ஸ்லி, ரஞ்சி பணிக்கர், அருணாச்சலம், சுரேஷ் சக்ரவர்த்தி, துளசி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-பாலாஜி சுப்பிரமணியம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இளமைத் ததும்பும் காதல் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை வை எஸ் ஆர் ஃபிலிம்ஸ் நிறுவனம் சார்பில் இசையமைப்பாளர் யுவன் சங்கர் ராஜா தயாரித்திருக்கிறார்.
+The film crew has announced that the background of the film 'Sweet Heart', which is playing the hero of the famous actor Rio Raj, has begun to talk to Tamil fans through 'Joe'.
 
-இந்தத் திரைப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து, தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கி இருக்கிறது. இதனை அறிவிக்கும் வகையில் பட குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டுள்ளனர்.
+Introduction Director Swineet S.Rio Raj, Gopika Ramesh, Redin Kingsley, Ranji Kingsley, Ranji Masikar, Arunachalam, Suresh Chakravarthy, Tulsi and many others have starred in the film 'Sweet Heart' directed by Sukumar.
 
-...
+Yuvan Shankar Raja has composed the film, which is being recorded by Balaji Subramaniam.. The film is being produced by Yuvan Shankar Raja on behalf of the NSR Films Company.
+
+The shooting of the film is nearing completion and the post -shooting technical work is currently underway. To announce this, the film crew has released a special photo.
+
+The artists who played the film are currently talking background. The first look of the film is expected to be released soon after the work is completed.
+
+◼️
 
 [Data](articles/4ac75bb2.json)
+
+[Extended Data](ext_articles/4ac75bb2.ext.json)
 
 ---
 
@@ -329,6 +349,18 @@ Police further stated that he is a painter by profession and was reportedly invo
 [Data](articles/df54a297.json)
 
 [Extended Data](ext_articles/df54a297.ext.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-08-07 14:06:06* · [`adalk`](https://www.ada.lk/breaking_news/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/11-411250) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහි තෙවැනි හා අවසන් එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් වුණේය.
+
+◼️
+
+[Data](articles/f0351a11.json)
 
 ---
 
@@ -606,21 +638,27 @@ The police said that the cause of the ice drug addicted and has not been reveale
 
 ---
 
-### ஜனாதிபதி தேர்தலை புறக்கணிக்கவேண்டும் - யாழில் தமிழ்தேசிய மக்கள் முன்னணி துண்டுபிரசுரம்
+### Presidential election - Tamil National People's Front leaflets in Jaffna
 
 *2024-08-07 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190466) · `ta`
 
-ஜனாதிபதி தேர்தலை புறக்கணிக்ககோரி துண்டு பிரசுரம் வழங்கும் நிகழ்வுவொன்று யாழ்ப்பாணம் திருநெல்வேலி பகுதியில் நேற்று செவ்வாய்க்கிழமை (06) முன்னெடுக்கப்பட்டது.
+Tamil National People's Front distributed pamphlets in Jaffna's Tirunelveli suburbs, urging a boycott of the upcoming presidential election. MP Selvaraja Gajendran led the effort, emphasizing that supporting the winning candidate could be the best way for Tamils to voice their concerns.
 
-தமிழ் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வாராஜா கஜேந்திரன் மற்றும் கட்சியின் பிரதிநிதிகள் உள்ளிட்ட சிலர் இந்நிகழ்வில் கலந்து கொண்டனர்.
+🟩
 
-திருநெல்வேலி புறநகர் பகுதிகள் ஆகியவற்றில் பொதுமக்களுக்கு துண்டுப் பிரசுரத்தினை வழங்கி ஜனாதிபதித் தேர்தலை புறக்கணிக்குமாறு கூறினர்.
+A pamphlet to boycott the presidential election was held on Tuesday (06) in Tirunelveli, Jaffna.
 
-அத்துடன், ஜனாதிபதி தேர்தலில் பொதுவேட்பாளர் நிறுத்துவதோ அல்லது பெரும்பான்மை இனத்தவர் ஒருவரை தெரிவு செய்வதில் எவ்வித பயனும், இல்லை என தெரிவித்த செல்வராஜா கஜேந்திரன் ஜனாதிபதி தேர்தலை புறக்கணிப்பது தமிழர்களுக்கு இருக்கின்ற ஒரே ஒரு தீர்வு எனவும் இதன்போது சுட்டிக்காட்டியமை குறிப்பிடத்தக்கது.
+Tamil National People's Front Member of Parliament Selvaraja Gajendran and party representatives were present at the event.
+
+In the suburbs of Tirunelveli, they were issued a pamphlet to the public and called for the boycott of the presidential election.
+
+It is noteworthy that Selvarajah Gajendran, who said that the general candidate in the presidential election or the choice of a majority of a majority, was the only solution to the Tamils ​​to boycott the presidential election.
 
 ◼️
 
 [Data](articles/5d8b4da4.json)
+
+[Extended Data](ext_articles/5d8b4da4.ext.json)
 
 ---
 
@@ -726,19 +764,25 @@ He stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they 
 
 ---
 
-### பங்களாதேசின் இடைக்கால அரசாங்கத்தின் தலைவராக நோபல் பரிசுபெற்ற முகமட் யூனுஸ் - மாணவர்களின் வேண்டுகோள் ஏற்பு
+### Nobel Prize -winning Mohammed Yunus as President of Bangladesh's medieval government
 
 *2024-08-07 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190478) · `ta`
 
-பங்களாதேஸின் இடைக்கால தலைவராக ஷேக் ஹசீனாவின் நீண்ட கால அரசியல் எதிராளியும் நோபல் பரிசுபெற்றவருமான முகமட் யூனுஸ் நியமிக்கப்பட்டுள்ளார்.
+Mohammed Yunus, a Nobel Peace Prize winner and longtime political adversary of Sheikh Hasina, has been named the interim leader of Bangladesh. Despite his international acclaim, Hasina previously viewed him as an enemy of the public. Yunus was recently released on bail after serving six months.
 
-யூனுஸ் தனது நுண்கடன் திட்டங்களிற்காக சர்வதேச அளவில் வரவேற்பை பெற்றவர் அதற்காக நோபால் பரிசு அவருக்கு வழங்கப்பட்டது.
+🟩
 
-எனினும் ஹசீனா அவரை பொதுமக்களின் எதிரி என கருதினார்,யூனுஸ் தற்போது ஆறு மாத பிணையில் விடுதலையாகியுள்ளார்.
+Sheikh Hasina's long -time political opponent and Nobel laureate Mohammed Yunus has been appointed as the interim leader of Bangladesh.
+
+He was awarded the Nobal Prize for its internationally welcomed by Yunus.
+
+However, Hasina regarded him as the enemy of the public, and Yunus is currently released on six months of bail.
 
 ◼️
 
 [Data](articles/ff524143.json)
+
+[Extended Data](ext_articles/ff524143.ext.json)
 
 ---
 
@@ -2231,29 +2275,5 @@ While the event was initially scheduled to take place at the foyer of the Nelum 
 [Data](articles/2affb683.json)
 
 [Extended Data](ext_articles/2affb683.ext.json)
-
----
-
-### Aruna Darshana was disqualified after violating Rule of TR 17.2.3 in Olympic 400 meters
-
-*2024-08-07 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190455) · `ta`
-
-Aruna Darshana, a Sri Lankan athlete, was disqualified from the 400m 2nd semi-finals at the Paris 2024 Olympics for violating Rule 17.2.3 by stepping on another track. Despite finishing fifth in 44.75 seconds, his disqualification ended his participation in the finals.
-
-🟩
-
-Sri Lankan player Aruna Darshana was disqualified in the 400m 2nd semi -finals for the Men's 400m at the Paris 2024 Olympic Games in France.
-
-Aruna Darshana, who participated in the 400m 2nd semi -finals for the men's 400m 2nd semi -finals held on Tuesday night at the State de France Stadium, finished the 5th and finished 5th in 44.75 seconds.
-
-But at the end of the three semi -finals, Aruna Darshana was disqualified following the discovery that he had set foot on the other track in violation of Rule 17.2.3.
-
-Six players who won the top two in the three semi -finals and the next excellent times were eligible for 8 players to participate in the final.
-
-...
-
-[Data](articles/b3f2cb65.json)
-
-[Extended Data](ext_articles/b3f2cb65.ext.json)
 
 ---

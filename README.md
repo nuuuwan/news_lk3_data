@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 01:06:02**
+As of **2024-08-08 01:20:58**
 
 ## Newspaper Stats
 
-*Scraped **39,524** Articles*
+*Scraped **39,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,397
-dailyftlk | 2,535
+dailyftlk | 2,536
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,524 (100.0%) of 39,524 articles have been extended.
+39,524 (100.0%) of 39,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Why AKD-NPP have fallen in the polls, may lose elections
+
+*2024-08-07 23:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-AKD-NPP-have-fallen-in-the-polls-may-lose-elections/4-765259) · `en`
+
+“Additionally, the President highlighted the importance of promoting the Tamil language alongside Sinhala. He noted that with the anticipated economic growth in Tamil Nadu soon, Tamil-speaking Sri Lankans would have unique opportunities that others might not have.”
+
+My salute to the people of Bangladesh led by their student youth, who have overthrown an autocrat in an unarmed uprising, sacrificing over 300 lives. We can also be proud of ourselves as Sri Lankans, since the autocrat mentioned our Aragalaya as an inspiration for the Bangladeshi youth. So much for so-called ‘anti-imperialists’ who revile it and are suspicious of People’s Power revolts.
+
+In Sri Lanka’s election season, wannabe tyrants should tremble, and be deterred from any power-grab they may be planning.
+
+TV news has shown President Wickremesinghe saying repeatedly on his recent visits to the North and East that “in this country we have 10 governments, 9 of which are Provincial Governments”.
+
+...
+
+[Data](articles/be7abde6.json)
+
+---
 
 ### 4 Chinese passengers, pilot killed in helicopter crash in Nepal
 
@@ -2343,29 +2361,5 @@ It is noted that an investigation has been launched into the accident.
 [Data](articles/a70b020d.json)
 
 [Extended Data](ext_articles/a70b020d.ext.json)
-
----
-
-### Paris Olympics: Sri Lanka’s Aruna Darshana disqualified in semi-final
-
-*2024-08-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101053/paris-olympics-sri-lankas-aruna-darshana-disqualified-in-semi-final) · `en`
-
-Sri Lankan sprinter Aruna Darshana finished in 5th place in the 2nd Semi-Final of the Men’s 400m event at the Paris Olympics, however was later disqualified.
-
-Darshana had finished the race with a time of 44.75 seconds, setting a new personal best, however, he was disqualified later for a lane infringement.
-
-He took part in the second semi-final of the event, which commenced at 11:12 p.m. (IST) on Tuesday (6).
-
-Athletes from Argentina, South Africa, Italy, Zambia, United States, Botswana and Grenada had raced in the semi-final 02 alongside Aruna Darshana.
-
-The first two athletes in each semi-final heat and next 2 fastest athletes in overall semi-finals had advanced to the Final of the event, according to the International Olympic Committee.
-
-The 25-year-old qualified for the semifinals on Sunday (04), after finishing third in the Heat race. Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, which is his personal best.
-
-...
-
-[Data](articles/6e41c949.json)
-
-[Extended Data](ext_articles/6e41c949.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 13:55:57**
+As of **2024-08-07 14:07:34**
 
 ## Newspaper Stats
 
-*Scraped **39,459** Articles*
+*Scraped **39,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,628
-adaderanalk | 4,583
+adaderanalk | 4,584
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,458 (100.0%) of 39,459 articles have been extended.
+39,459 (100.0%) of 39,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Never safeguarded anyone accused of corruption - President Ranil
+
+*2024-08-07 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101060/never-safeguarded-anyone-accused-of-corruption-president-ranil) · `en`
+
+President Ranil Wickremesinghe has stated that while others only talk about corruption, he has introduced numerous legislations to prevent it.
+
+Addressing a meeting with the heads of media organisations today, he said that the Proceeds of Crime Act will also be presented to the Cabinet next week.
+
+Wickremasinghe further emphasised that he has never protected anyone accused of corruption, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/5dcbed2a.json)
+
+---
 
 ### President Ranil says he has never safeguarded anyone accused of corruption
 
@@ -45,6 +61,8 @@ Wickremasinghe further emphasised that he has never protected anyone accused of 
 ◼️
 
 [Data](articles/7029dfa1.json)
+
+[Extended Data](ext_articles/7029dfa1.ext.json)
 
 ---
 
@@ -2221,25 +2239,5 @@ In a statement, 121 election related complaints have been reported from 31st Jul
 [Data](articles/7f2d730d.json)
 
 [Extended Data](ext_articles/7f2d730d.ext.json)
-
----
-
-### Shooting in Ja-Ela;One injury
-
-*2024-08-06 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190453) · `ta`
-
-In Ja-Ela, a shooting resulted in one injury. The victim, a 43-year-old from Kadavad, is hospitalized at Gampaha Hospital.
-
-🟩
-
-One person was injured in the shooting and the shooters fled, police said.
-
-A 43 -year -old man lives in Kadavad area. He is being treated at the Gampaha Hospital, police said.
-
-◼️
-
-[Data](articles/f0c27dfa.json)
-
-[Extended Data](ext_articles/f0c27dfa.ext.json)
 
 ---

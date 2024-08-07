@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 21:06:35**
+As of **2024-08-07 21:20:42**
 
 ## Newspaper Stats
 
-*Scraped **39,500** Articles*
+*Scraped **39,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 3,634
 adaderanalk | 4,590
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,960
-virakesarilk | 6,243
+virakesarilk | 6,245
 adaderanasinhalalk | 6,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,499 (100.0%) of 39,500 articles have been extended.
+39,500 (100.0%) of 39,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ஐக்கிய மக்கள் கூட்டணி ஒப்பந்தம் நாளை கைச்சாத்திடப்படும்
+
+*2024-08-07 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190539) · `ta`
+
+ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டு பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் கையெச்சாத்திடும் நிகழ்வு வியாழக்கிழமை (8) இடம்பெறவுள்ளது. கொழும்பு சுகததாச உள்ளக அரங்கில் காலை 9 மணிக்கு இந்நிகழ்வு இடம்பெறவுள்ளது.
+
+அதற்கமைய எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்தி, மனோ கணேஷன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணி, பிரபா கணேஷன் தலைமையிலான மனித நேய மக்கள் கூட்டணி, டலஸ் அழகப்பெரும தலைமையிலான சுதந்திர மக்கள் காங்ரஸ், ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பு உள்ளிட்ட முக்கிய கட்சிகள் இந்த ஒப்பந்தத்தில் கையெழுத்திடவுள்ளன.
+
+ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்ரஸ் இதற்கு முந்தைய தேர்தல்களில் ஐக்கிய மக்கள் கூட்டணியுடன் இணைந்தே செயற்பட்டது. எனினும் இம்முறை அக்கட்சி அவ்வாறானதொரு தீர்மானத்தை அறிவிக்கவில்லை. அடுத்த வாரமே தாம் யாருக்கு ஆதரவு என்பதை அறிவிக்கவுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/fcbf05d8.json)
+
+---
 
 ### Sri Lanka record first ODI series win against India in 27 years
 
@@ -49,6 +65,32 @@ Rishabh Pant, playing his first match of the series, attempted a shot from outsi
 ...
 
 [Data](articles/b71b8282.json)
+
+[Extended Data](ext_articles/b71b8282.ext.json)
+
+---
+
+### இந்தியாவுக்கு எதிரான ஒருநாள் தொடரை 27 வருடங்களின் பின்னர் கைப்பற்றி வரலாறு படைத்தது இலங்கை
+
+*2024-08-07 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190538) · `ta`
+
+சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் ஒன்றில் 27 வருடங்களுக்குப் பின்னர் இந்தியாவை வெற்றிகொண்டு வரலாறு படைத்தது இலங்கை.
+
+கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் நேற்று புதன்கிழமை (07) நடைபெற்ற 3ஆவதும் தீர்மானம் மிக்கதுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இந்தியாவை 110 ஓட்டங்களால் இலங்கை வெற்றிகொண்டது.
+
+இதன் மூலம் தொடரை 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை கைப்பற்றியது.
+
+அப் போட்டியில் இலங்கை 50 ஓவர்களில் 7 விக்கெட்களை இழந்து 248 ஓட்டங்களைப் பெற்றது.
+
+அவிஷ்க பெர்னாண்டோ 96 ஓட்டங்களையும் குசல் மெண்டிஸ் 59 ஓட்டங்களையும் பெத்தும் நிஸ்ஸன்க 45 ஓட்டங்களையும் பெற்றனர்.
+
+பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 26.1 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 138 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+ரோஹித் ஷர்மா (35), விராத் கோஹ்லி (20), ரியான் பராக் (15), வொஷிங்டன் சுந்தர் (30) ஆகிய நால்வரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+
+◼️
+
+[Data](articles/d76f7a60.json)
 
 ---
 
@@ -87,6 +129,38 @@ As a result, he lost the 4th century runs in the day by 4 runs.
 [Data](articles/1a47bb30.json)
 
 [Extended Data](ext_articles/1a47bb30.ext.json)
+
+---
+
+### Thousands of people gathered together to the Medical Medical Archana released by the Mannar Court
+
+*2024-08-07 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190537) · `ta`
+
+Doctor Arjuna Archana Manna, arrested for allegedly disrupting operations at Mannar District General Hospital, was released on bail after being remanded. Thousands celebrated his release, escorting him to a public park. The case involves a graduate's death, leading to accusations against the doctor.
+
+🟩
+
+The people of Mannar district gave a greeting to the doctor Arjuna, who was released on Wednesday (7) by the Mannar Court.
+
+The doctor Archana Manna was arrested by the Mannar Police Station on charges that he had entered the Mannar District General Hospital last Friday night (2).
+
+When the arrested doctor appeared before the Mannar Magistrate on Saturday, he ordered him to be remanded until the 7th of AM.
+
+When the case was taken up for hearing today (7), doctor Aruchuna was produced before the Mannar Court.
+
+Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at the forum.
+
+On the condition of the Mannar Magistrate, Sir, the Magistrate allowed him to go on a crazy bail on two fantasies each.
+
+Thousands of people gathered in front of the Mannar District Court when the doctor left the forum.
+
+The people of Mannar district then took the doctor to the Mannar Public Playground area and wore the evening and congratulated them.
+
+...
+
+[Data](articles/a20a5b7f.json)
+
+[Extended Data](ext_articles/a20a5b7f.ext.json)
 
 ---
 
@@ -161,38 +235,6 @@ The drug was recovered from 63 Computer Accessories.
 [Data](articles/23fb0844.json)
 
 [Extended Data](ext_articles/23fb0844.ext.json)
-
----
-
-### Thousands of people gathered together to the Medical Medical Archana released by the Mannar Court
-
-*2024-08-07 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190537) · `ta`
-
-Doctor Arjuna Archana Manna, arrested for allegedly disrupting operations at Mannar District General Hospital, was released on bail after being remanded. Thousands celebrated his release, escorting him to a public park. The case involves a graduate's death, leading to accusations against the doctor.
-
-🟩
-
-The people of Mannar district gave a greeting to the doctor Arjuna, who was released on Wednesday (7) by the Mannar Court.
-
-The doctor Archana Manna was arrested by the Mannar Police Station on charges that he had entered the Mannar District General Hospital last Friday night (2).
-
-When the arrested doctor appeared before the Mannar Magistrate on Saturday, he ordered him to be remanded until the 7th of AM.
-
-When the case was taken up for hearing today (7), doctor Aruchuna was produced before the Mannar Court.
-
-Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at the forum.
-
-On the condition of the Mannar Magistrate, Sir, the Magistrate allowed him to go on a crazy bail on two fantasies each.
-
-Thousands of people gathered in front of the Mannar District Court when the doctor left the forum.
-
-The people of Mannar district then took the doctor to the Mannar Public Playground area and wore the evening and congratulated them.
-
-...
-
-[Data](articles/a20a5b7f.json)
-
-[Extended Data](ext_articles/a20a5b7f.ext.json)
 
 ---
 
@@ -2305,41 +2347,5 @@ Also addressing the press conference, TPA Deputy Leader Palani Digambaram said P
 [Data](articles/44696391.json)
 
 [Extended Data](ext_articles/44696391.ext.json)
-
----
-
-### SLPP Ministers sought Mahinda Rajapaksa’s blessing to support President Wickremesinghe: Bandula
-
-*2024-08-07 03:22:53* · [`dailyftlk`](https://www.ft.lk/news/SLPP-Ministers-sought-Mahinda-Rajapaksa-s-blessing-to-support-President-Wickremesinghe-Bandula/56-765240) · `en`
-
-Minister and Sri Lanka Podujana Peramuna (SLPP) member Bandula Gunawardena confirmed yesterday that MPs who have announced their support for President Ranil Wickremesinghe in the upcoming Presidential polls did so after seeking the blessings of former President and SLPP leader Mahinda Rajapaksa.
-
-Responding to queries posted at the post-Cabinet meeting media briefing yesterday, he stated that a group of SLPP Ministers and State Ministers had a discussion with Rajapaksa at the Parliament complex, securing his approval before making their support public.
-
-Following this meeting, the group insisted at a separate party meeting that it was in the best interest of the SLPP to back Wickremesinghe rather than fielding a new candidate for the presidential election.
-
-“There is no division within the SLPP camp. All we do is support the national framework to overcome the ongoing economic crisis under Wickremesinghe’s leadership,” Gunawardena elaborated.
-
-...
-
-[Data](articles/b24361ca.json)
-
-[Extended Data](ext_articles/b24361ca.ext.json)
-
----
-
-### GMOA meets AKD
-
-*2024-08-07 03:21:47* · [`dailyftlk`](https://www.ft.lk/news/GMOA-meets-AKD/56-765239) · `en`
-
-A meeting between the Government Medical Officers Association (GMOA) and NPP leader and Presidential candidate Anura Kumara Dissanayake was held yesterday afternoon at the Janatha Vimukthi Peramuna (JVP) Head Office.
-
-During the meeting, President of the GMOA  Dr. Darshana Sirisena and other officials including Dr Sanjeewa Thennakoon presented the issues faced by doctors in Sri Lanka and outlined their proposals for addressing these challenges to the NPP.
-
-◼️
-
-[Data](articles/3633297b.json)
-
-[Extended Data](ext_articles/3633297b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 15:20:56**
+As of **2024-08-07 15:36:28**
 
 ## Newspaper Stats
 
-*Scraped **39,465** Articles*
+*Scraped **39,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,629
-adaderanalk | 4,585
+adaderanalk | 4,586
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
@@ -26,29 +26,57 @@ adaderanasinhalalk | 6,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,464 (100.0%) of 39,465 articles have been extended.
+39,465 (100.0%) of 39,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ක්ලබ් වසන්ත ඝාතනය - ලොකු පැටීගේ මස්සිනා කොටුවෙයි
+### Agarwood, agar oil seized from Sri Lankan passengers at Chennai airport
+
+*2024-08-07 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101062/agarwood-agar-oil-seized-from-sri-lankan-passengers-at-chennai-airport) · `en`
+
+The Customs Department at the Chennai airport on Tuesday have seized agarwood and agar oil worth around 04 million Indian rupees from two Sri Lankan passengers, Indian media reported.
+
+The officials were conducting a security check for the passengers who had arrived from Colombo in Chennai on Tuesday night when they intercepted two Sri Lankan passengers on suspicion.
+
+The duo, who was visiting Chennai on a tourist visa, appeared nervous and gave evasive replies. When the customs team searched their baggage, they found 20 kg of agarwood and 15 bottles of agar oil in them.
+
+As it is illegal to carry agarwood without proper documentation, the Customs officials seized the contraband items.
+
+The total value of the seized wood and oil is estimated to be at 4 million Indian rupees. Both passengers were arrested and further inquiry is on, according to the report on DTNext.
+
+The aromatic agarwood is highly-prized for its use in the production of high-quality perfumes, particularly in European countries.
+
+◼️
+
+[Data](articles/5c3d7d9e.json)
+
+---
+
+### Club spring murder - Big Patti's brother-in-law
 
 *2024-08-07 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199669) · `si`
 
-කල්බ් වසන්ත ඝාතනයට ආධාර අනුබලදීමේ චෝදනාව යටතේ ඝාතනය මෙහෙයවූ ලොකු පැටීගේ මස්සිනා බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසියට භාරදී තිබේ.
+A 36-year-old man from Dharga, suspected in the Club Spring murder involving Big Patti's brother-in-law, was arrested near the Southern Expressway. The case involves two shooters from Ambalangoda and a bus linked to the Western Province Criminal Division, which was found in Kataragama. CCTV footage suggests the bus's involvement in the crime.
 
-සැකකරු ඊයේ (06) අත්අඩංගුවට ගෙන ඇත්තේ,  දක්ෂිණ අධිවේගී මාර්ගයේ සේවා පියසේදී ය.
+🟩
 
-ඔහු  දර්ගා නගරය ප්‍රදේශයේ පදිංචි 36 හැවිරිදි පුද්ගලයෙකු වන අතර වෙඩිතැබීම සිදුකළ වෙඩික්කරුවන්ට කුලී නිවසක් ලබාගැනීම හා අම්බලන්ගොඩ ප්‍රදේශයේ සිට වෙඩික්කරුවන් දෙදෙනා හා ආයුධ අතුරුගිරිය ප්‍රදේශයට රැගෙන යාමට කුලී වෑන් රථයක් සම්බන්ධ කරදීම ඔහු විසින් සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
+The Big Phickage South Criminal Crimes Division has been arrested and handed over to the Athagiriya Police.
 
-වෙඩික්කරුවන් දක්ෂිණ අධිවේගී මාර්ගය ඔස්සේ පළායෑමට භාවිත කළ බස් රථය කතරගම ප්‍රදේශයේ පුද්ගලයෙකුට විකුණා තිබියදී බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් සොයාගනු ලැබුවේ මෙම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම් වලදී හෙළිවූ තොරතුරු මත ය.
+The suspect was arrested yesterday (06) at the Southern Expressway.
 
-ඝාතනය සිදුවූ දිනට පෙර එම බස් රථය ගමන් ගන්නා අයුරු දැක්වෙන CCTV දර්ශන පෙළක් ද විමර්ශන නිලධාරීන් ට හමුවී තිබුණි.
+He has been a 36 year old resident of Dharga and the shooters who have been shot and the two shooters from Ambalangoda to the Athurugiriya area have been taken to the Athurugiriya area.
+
+The buses of the Western Province Criminal Division were discovered by the buses that were sold to a person who was used by the shooters to the Southern Expressway in Kataragama.
+
+Investigations have also been found in a CCTV display indicate how the bus is traveling before the murder.
 
 ◼️
 
 [Data](articles/9a60e082.json)
+
+[Extended Data](ext_articles/9a60e082.ext.json)
 
 ---
 
@@ -2221,29 +2249,5 @@ As well as 2408.7 million rupees in 2020, 4183.6 in 2021.. He said 2 million rup
 [Data](articles/3b0e79c2.json)
 
 [Extended Data](ext_articles/3b0e79c2.ext.json)
-
----
-
-### Sivanesathurai Chandrakanthan
-
-*2024-08-06 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190440) · `ta`
-
-Minister Sivanesathurai Chandrakanthan criticizes leaders for focusing on impractical solutions in Sri Lanka's North and East, including the Tamil general candidate. He expresses concern over the Tamil community's dwindling trust in President Ranil Wickremesinghe. The Tamil National Party may consider legal action, highlighting ideological divisions and ineffective leadership. Wickremesinghe, despite past failures, is expected to address national issues post-elections, potentially regaining popularity among Tamils if he fulfills his promises.
-
-🟩
-
-Some leaders are wasting time for practical impossible resolutions in the North and East. The Tamil general candidate is also a waste of time. Minister of Rural Roads Development Sivanesathurai Chandrakanthan said that the Tamil people's confidence in President Ranil Wickremesinghe is over.
-
-He further stated this at a press conference held at the Presidential Media Center on Tuesday (06).
-
-The Tamil National Party is seen today in a position to go to court. A few are talking about the general candidate in the North and East. Some leaders are working to confuse the country based on their ideology.
-
-They are wasting time in the thoughts that are practical impossible, and repeatedly failed. So their thoughts are impossible. But people are wise to make the best decision.
-
-...
-
-[Data](articles/797f9ace.json)
-
-[Extended Data](ext_articles/797f9ace.ext.json)
 
 ---

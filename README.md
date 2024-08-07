@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 22:10:02**
+As of **2024-08-07 22:22:11**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,505 (100.0%) of 39,509 articles have been extended.
+39,509 (100.0%) of 39,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### තවත් 100ක් කොරියාවේ රැකියා සඳහා පිටත්ව යති
+### Another 100 will leave for jobs in Korea
 
 *2024-08-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199683) · `si`
 
-දකුණු කොරියාවේ නිෂ්පාදන ක්ෂේත්‍රයේ රැකියා හිමිවූ තවත් ශ්‍රී ලංකිකයන් 100 දෙනෙකු ඊයේ (06) දකුණු කොරියාව බලා පිටත්ව ගියේය.
+300 Sri Lankans, including 8 young girls, recently left for jobs in South Korea, bringing the total to 3,694 since 2004 under agreements between the Sri Lanka Bureau of Foreign Employment and South Korea's Human Resources Development Services.
 
-මෙම පිරිස අතරට තරුණියන් 08 දෙනෙකු ද ඇතුළත් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+🟩
 
-ඒ අනුව මෙම වර්ෂයේ අගෝස්තු මස වන විට 3,694 දෙනෙකු දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් ඇත.
+100 other Sri Lankans, who have jobs in South Korea, left for South Korea yesterday (06).
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා දකුණු කොරියානු  මානව සම්පත් සංවර්ධන සේවා ආයතනය අතර ඇති කරගත් අවබෝධතා ප්‍රකාරව ශ්‍රී ලංකිකයන් සඳහා මෙම රැකියා අවස්ථා හිමිවේ.
+The Sri Lanka Bureau of Foreign Employment states that between the group includes eight young girls.
 
-එම අවබෝධතා ගිවිසුම අනුව 2004 වසරේ සිට අඛන්ඩව මේ දක්වා ශ්‍රී ලංකිකයන් දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් ඇති අතර, මෙවර පිටත් වූයේ 873 වන කණ්ඩායමයි.
+Accordingly, 3,694 has left for work in South Korea.
+
+These employment opportunities are available in accordance with the Sri Lanka Bureau of Foreign Employment and the South Korean Human Resources Development Services.
+
+According to the MoU, Sri Lankans continued for work in South Korea since 2004, since 2004, the 873th group left.
 
 ◼️
 
 [Data](articles/78986f58.json)
+
+[Extended Data](ext_articles/78986f58.ext.json)
 
 ---
 
@@ -92,19 +98,27 @@ It states that the President, having consulted with the Prime Minister under Art
 
 [Data](articles/f92281db.json)
 
+[Extended Data](ext_articles/f92281db.ext.json)
+
 ---
 
-### හදිසියේම ගැසට්ටුවක්
+### A sudden gazett
 
 *2024-08-07 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199681) · `si`
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ධුරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යටතට පත් කරමින් අති විශේෂ ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+A special gazette was issued by Sri Lanka's Justice and Constitutional Reforms President Ranil Wickremesinghe, following the resignation of the Minister to run in the upcoming presidential election.
 
-ඒ විජයදාස රාජපක්ෂ මහතා එළඹෙන ජනාධිපතිවරණයට තරග කිරීම සඳහා එම අමාත්‍ය ධුරයෙන් ඉල්ලා අස්වීම හේතුවෙනි.
+🟩
+
+A special gazette was issued under the post of judicial and Principal Reforms Minister of Justice and Constitutional Reforms President Ranil Wickremesinghe.
+
+That was due to the resignation of the Minister to contest the next presidential election.
 
 ◼️
 
 [Data](articles/20dd28f2.json)
+
+[Extended Data](ext_articles/20dd28f2.ext.json)
 
 ---
 
@@ -200,21 +214,29 @@ Rishabh Pant, playing his first match of the series, attempted a shot from outsi
 
 ---
 
-### வடக்கு,கிழக்கில் சீன இராணுவ பிரவேசத்தை அரசாங்கம் அனுமதிக்கிறதா? - செல்வம் அடைக்கலநாதன் கேள்வி
+### Does the government allow the Chinese military entry into the North and East?-The question of wealth
 
 *2024-08-07 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190509) · `ta`
 
-வடக்கு மற்றும் கிழக்கில் சீன இராணுவத்தை நிலைநிறுத்த முயற்சிகள் முன்னெடுக்கப்படுவதாக தகவல்கள் வெளியாகியுள்ளன. இவ்வாறான செயற்பாடுகளுக்கு ஒருபோதும் இடமளிக்க முடியாது. சீன இராணுவத்தின் பிரவேசத்தை அரசாங்கம் அனுமதிக்கிறதா என  தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் சபையில் கேள்வியெழுப்பினார்.
+Reports suggest concerns about Chinese military presence in the North and East, with questions raised in Parliament about government approval. Issues also include doctor safety, unfair treatment of local fishermen by Indian toller boats, and the impact on their livelihoods. There's a call for better protection and support for fishermen, opposition to any Chinese military involvement, and demands for land distribution and improved law enforcement in the Vanni district.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மன்னார் வைத்தியசாலையில் மதியராஜன் சிந்துஜா மரணம் தொடர்பில்  வைத்தியசாலைக்கு சென்று வைத்தியர்களிடம் பேசியபோது விசாரணைகளை முன்னெடுப்பதாக  குறிப்பிட்டார்.
+There have been reports that efforts are being made to uphold the Chinese army in the North and East. Can never accommodate such activities. The Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan questioned whether the government allowed the Chinese military's entry.
 
-ஆனால் இந்த விசாரணை ஆட்களை மாற்றும் விசாரணையாக இருக்க கூடாது. நீதியான விசாரணையின் ஊடாக சம்பந்தப்பட்டவர்கள் பணி நீக்கம் செய்யப்பட வேண்டும் என்பதுடன் சம்பந்தப்பட்டவர்கள் தண்டிக்கப்படவும் வேண்டும் என்பது எங்களின் கோரிக்கையாக உள்ளது. இதேவேளை 9 வைத்தியர்கள் எங்களின் வைத்தியசாலைக்கு வரவுள்ளனர்.
+He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (7).
+
+Mathirajan at the Mannar Hospital and told the doctors to go to the hospital regarding the death of Sindhuja.
+
+But this investigation should not be an inquiry into the replacement of men. Our demand is that those involved should be sacked through a fair investigation and punished by those involved. Meanwhile, 9 doctors are coming to our hospital.
+
+To ensure their safety. Otherwise, it would be difficult to come to the hospital. At the same time, our fishermen have been facing suffering over the past decades by the arrival of Indian Toller boats.
 
 ...
 
 [Data](articles/e31614f8.json)
+
+[Extended Data](ext_articles/e31614f8.ext.json)
 
 ---
 

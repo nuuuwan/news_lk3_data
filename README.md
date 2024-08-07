@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 21:20:42**
+As of **2024-08-07 21:36:58**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,500 (100.0%) of 39,502 articles have been extended.
+39,502 (100.0%) of 39,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ஐக்கிய மக்கள் கூட்டணி ஒப்பந்தம் நாளை கைச்சாத்திடப்படும்
+### United People's Alliance Agreement will be signed tomorrow
 
 *2024-08-07 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190539) · `ta`
 
-ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டு பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் கையெச்சாத்திடும் நிகழ்வு வியாழக்கிழமை (8) இடம்பெறவுள்ளது. கொழும்பு சுகததாச உள்ளக அரங்கில் காலை 9 மணிக்கு இந்நிகழ்வு இடம்பெறவுள்ளது.
+Tomorrow, the United People's Alliance (UPFA) will sign an agreement ahead of the presidential election, set for Thursday. Key parties like the United People's Power, Tamil Progressive Alliance, Humanitarian People's Alliance, Independent People's Congress, and Sri Lanka Freedom Party Dayasiri Jayasekera will participate. Despite past collaborations, the All Ceylon People's Congress hasn't announced its support yet but plans to reveal it next week. Additionally, several civil organizations are anticipated to join the UPFA, marking a significant development after prolonged negotiations.
 
-அதற்கமைய எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்தி, மனோ கணேஷன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணி, பிரபா கணேஷன் தலைமையிலான மனித நேய மக்கள் கூட்டணி, டலஸ் அழகப்பெரும தலைமையிலான சுதந்திர மக்கள் காங்ரஸ், ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பு உள்ளிட்ட முக்கிய கட்சிகள் இந்த ஒப்பந்தத்தில் கையெழுத்திடவுள்ளன.
+🟩
 
-ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்ரஸ் இதற்கு முந்தைய தேர்தல்களில் ஐக்கிய மக்கள் கூட்டணியுடன் இணைந்தே செயற்பட்டது. எனினும் இம்முறை அக்கட்சி அவ்வாறானதொரு தீர்மானத்தை அறிவிக்கவில்லை. அடுத்த வாரமே தாம் யாருக்கு ஆதரவு என்பதை அறிவிக்கவுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+The main opposition United People's Alliance (UPFA), aimed at the presidential election, will be held on Thursday (8).. The event will be held at 9 am at the Sugathadasa Indoor Hall in Colombo.
 
-...
+Accordingly, key parties, including the United People's Power, Mano Ganesha -led Tamil Progressive Alliance, Prabha Ganeshan -led Humanitarian People's Alliance, Independent People's Congress and the Sri Lanka Freedom Party Dayasiri Jayasekera, will sign the agreement.
+
+All Ceylon People's Congress led by Rishad Bathiudeen worked with the United People's Alliance in previous elections. However, this time the party did not announce such a resolution. It is reported that they will announce who they will support next week.
+
+Meanwhile, many more civil organizations are expected to join hands with the United States. It is noteworthy that the agreement is due to be signed today based on negotiations that have been held with various parties for a long time.
+
+◼️
 
 [Data](articles/fcbf05d8.json)
+
+[Extended Data](ext_articles/fcbf05d8.ext.json)
 
 ---
 
@@ -70,27 +78,33 @@ Rishabh Pant, playing his first match of the series, attempted a shot from outsi
 
 ---
 
-### இந்தியாவுக்கு எதிரான ஒருநாள் தொடரை 27 வருடங்களின் பின்னர் கைப்பற்றி வரலாறு படைத்தது இலங்கை
+### Sri Lanka made history after 27 years
 
 *2024-08-07 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190538) · `ta`
 
-சர்வதேச ஒருநாள் கிரிக்கெட் தொடர் ஒன்றில் 27 வருடங்களுக்குப் பின்னர் இந்தியாவை வெற்றிகொண்டு வரலாறு படைத்தது இலங்கை.
+After 27 years, Sri Lanka clinched an international ODI series against India, winning 2-0. In the final match, Sri Lanka scored 248/7, led by Avishka Fernando's 96. India was bowled out for 138 in 26.1 overs, with Rohit Sharma scoring 35 and Washington Sundar 30.
 
-கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் நேற்று புதன்கிழமை (07) நடைபெற்ற 3ஆவதும் தீர்மானம் மிக்கதுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இந்தியாவை 110 ஓட்டங்களால் இலங்கை வெற்றிகொண்டது.
+🟩
 
-இதன் மூலம் தொடரை 2 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை கைப்பற்றியது.
+Sri Lanka won India by winning India 27 years later in an international ODI series.
 
-அப் போட்டியில் இலங்கை 50 ஓவர்களில் 7 விக்கெட்களை இழந்து 248 ஓட்டங்களைப் பெற்றது.
+Colombo r. Sri Lanka won India by 110 runs in the 3rd and decisive ODIs held at the Premadasa Stadium on Wednesday (07).
 
-அவிஷ்க பெர்னாண்டோ 96 ஓட்டங்களையும் குசல் மெண்டிஸ் 59 ஓட்டங்களையும் பெத்தும் நிஸ்ஸன்க 45 ஓட்டங்களையும் பெற்றனர்.
+Sri Lanka won the series 2 - 0.
 
-பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 26.1 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 138 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+Sri Lanka scored 248 runs for the loss of 7 wickets in 50 overs.
 
-ரோஹித் ஷர்மா (35), விராத் கோஹ்லி (20), ரியான் பராக் (15), வொஷிங்டன் சுந்தர் (30) ஆகிய நால்வரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+Avishka Fernando scored 96 runs, Gusal Mendis 59 and Beth and Nissank 45.
+
+In reply, India lost all the wickets in 26.1 overs and lost 138 runs.
+
+Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) were the two double digits.
 
 ◼️
 
 [Data](articles/d76f7a60.json)
+
+[Extended Data](ext_articles/d76f7a60.ext.json)
 
 ---
 

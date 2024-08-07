@@ -1,36 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 10:36:10**
+As of **2024-08-07 10:54:39**
 
 ## Newspaper Stats
 
-*Scraped **39,433** Articles*
+*Scraped **39,438** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 338
+dbsjeyarajcom | 339
 newsfirstlk | 363
 bbccomsinhala | 371
 colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,624
+adalk | 3,625
 adaderanalk | 4,579
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,950
+tamilmirrorlk | 4,952
 virakesarilk | 6,233
-adaderanasinhalalk | 6,674
+adaderanasinhalalk | 6,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,433 (100.0%) of 39,433 articles have been extended.
+39,433 (100.0%) of 39,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ඉරාකයේ අමෙරිකානු කඳවුරකට රොකට් ප්‍රහාරයක්
+
+*2024-08-07 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199660) · `si`
+
+ඉරාකයේ අමෙරිකානු කඳවුරකට එල්ල වූ රොකට් ප්‍රහාරයකින් පුද්ගලයින් හත් දෙනෙකු තුවාල ලබා තිබේ.
+
+විදෙස් වාර්තා සඳහන් කරනුයේ අල්-අසාද් කඳවුර ඉලක්ක කරගනිමින් රොකට් ප්‍රහාර කිහිපයක් එල්ල වී ඇති බවය.
+
+ප්‍රහාරයෙන් එක්සත් ජනපද සේවා සාමාජිකයන් පස් දෙනෙකු සහ එක්සත් ජනපද කොන්ත්‍රාත්කරුවන් දෙදෙනෙකු තුවාල ලබා ඇති බව සඳහන්.
+
+එක්සත් ජනපද ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් පවසා ඇත්තේ තම නිලධාරීන්ට එරෙහි එල්ල වන ප්‍රහාර එක්සත් ජනපදය නොඉවසන බවය.
+
+ඉරාක රජයේ ආරක්ෂක මාධ්‍ය අංශය පැවසුවේ දියත් කිරීමට සූදානම් කර තිබූ රොකට් 8ක් සහිත ට්‍රක් රථයක් එරට හමුදා භාරයට ගෙන ඇති බව සහ හමුදා කඳවුරට ප්‍රහාරය එල්ල කළ අපරාධකරුවන් සොයා පරීක්ෂණ ආරම්භ කර ඇති බවය.
+
+◼️
+
+[Data](articles/17864876.json)
+
+---
+
+### அரசியல் கொலைகள் ; அமெரிக்காவை நடுங்க வைத்த பாகிஸ்தானியர்
+
+*2024-08-07 10:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அரசியல்-கொலைகள்-அமெரிக்காவை-நடுங்க-வைத்த-பாகிஸ்தானியர்/50-341739) · `ta`
+
+அமெரிக்க அதிபர் தேர்தலில் குடியரசு கட்சி சார்பில் முன்னாள் அதிபர் டொனால்ட் டிரம்ப் மீண்டும் போட்டியிட உள்ளார்.
+
+இந்நிலையில் தான் அவரை கொல்ல சதித்திட்டம் தீட்டிய பாகிஸ்தான் நாட்டை சேர்ந்தவர் மீது பரபரப்பான குற்றச்சாட்டு எழுந்துள்ளது.
+
+அமெரிக்காவில் அரசியல் படுகொலைகளை செய்ய திட்டமிட்டதாக பாகிஸ்தானை சேர்ந்த ஆசிப் மெர்ச்சன்ட் (வயது 46) என்பவர் சமீபத்தில் கைது செய்யப்பட்டார்.
+
+கைதான ஆசிப் மெர்ச்சன்ட்டிடம் தீவிர விசாரணை மேற்கொள்ளப்பட்டது. இந்த விசாரணையில் திடுக்கிடும் தகவல் வெளியானது.
+
+அதாவது கைதான ஆசிப் மெர்ச்சன்ட் டொனால்ட் டிரம்ப் உள்பட பல முக்கிய அரசியல் கட்சி தலைவர்களை கொல்லும் சதித்திட்டத்துடன் அமெரிக்கா சென்றதாக சொல்லப்படுகிறது.
+
+மேலும் ஆசிப் மெர்ச்சன்ட்டுக்கு ஈரானுடன் நெருங்கிய தொடர்பு உள்ளது. அமெரிக்கா - ஈரான் இடையே தொடர்ந்து பிரச்சனை உள்ளது. ஈரான் மீது அமெரிக்கா பொருளாதார தடைகளை விதித்துள்ளது.
+
+...
+
+[Data](articles/59c5f105.json)
+
+---
+
+### ஹமாஸின் புதிய தலைவராக  யேஹ்யா சின்வர்
+
+*2024-08-07 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸின்-புதிய-தலைவராக-யேஹ்யா-சின்வர்/50-341738) · `ta`
+
+ஹமாஸ் இயக்கம், கடந்த ஆண்டு அக்டோபர் 7ஆம் திகதி இஸ்ரேல் மீது திடீர் தாக்குதல் நடத்தியது. காசாவின் எல்லையோரத்தில் உள்ள இஸ்ரேலின் நகரங்கள் மீது இந்த தாக்குதல் நடத்தப்பட்டது. இந்தத் தாக்குதலை அடுத்து, இஸ்ரேல் பதிலடி கொடுக்கத் தொடங்கியது. இரு தரப்புக்கும் இடையேயான இந்தப் போர் தொடர்ந்து வருகிறது.
+
+இதனிடையே ஈரானில் கடந்த வாரம் ஹமாஸ் அமைப்பின் அரசியல் பிரிவு தலைவர் இஸ்மாயில் ஹனீயே கொல்லப்பட்டார். இதையடுத்து, அந்த அமைப்பின் இராணுவப் பிரிவுத் தலைவர் முகமது டேயிஃபும் கொல்லப்பட்டதாக இஸ்ரேல் அறிவித்தது. இந்நிலையில் ஹமாஸின் அரசியல் பிரிவின் புதிய தலைவராக யேஹ்யா சின்வர் நியமிக்கப்பட்டுள்ளார்.
+
+யேஹ்யா சின்வர் பொதுவெளிகளில் அதிகம் தோன்றாவிட்டாலும், ஹமாஸ் அமைப்பின் நிர்வாகத்தின் மீது தொடர்ந்து ஆதிக்கம் செலுத்தி வருகிறார். முகமது டேயிஃபியின் நெருங்கிய நண்பரான இவர், அமைப்பின் இராணுவப் பிரிவை வலுப்படுத்துவதில் முக்கியப் பங்காற்றியுள்ளார்.S
+
+◼️
+
+[Data](articles/740d87f1.json)
+
+---
 
 ### 4 killed after single-engine plane crashes in Oklahoma City
 
@@ -1284,6 +1342,22 @@ Six players who won the top two in the three semi -finals and the next excellent
 
 ---
 
+### Ranil Rajapaksa was an Opposition-made myth. The Rajapaksas have nothing to gain from a Ranil Wickremesinghe victory. He was never a Rajapaksa creature.
+
+*2024-08-07 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84492) · `en`
+
+“The king is dead, long live the king” (Traditional proclamation made following the death of a monarch indicating the continuity of the monarchy)
+
+Mahinda Rajapaksa’s second presidential investiture was held two days after his 65th birthday, the twin occasions marked by grandiose displays of Rajapaksa power. The highlights of this political spectacle included a shipload of Buddhist monks voyaging from Galle to the Hambantota Rajapaksa Port, chanting the ‘Sagara Piritha’, and the cooking of world’s largest milk-rice weighting 4,000 kg by 300+ chefs (relayed live on TV). Tuition-guru turned Education Minister Bandula Gunwardane ordered all school children to listen to President Rajapaksa’s ‘Address to the Nation’.
+
+Most of the courtiers who pledged eternal fealty to High King Mahinda during that spectacular week in 2010 are unlikely to grace his 79th birthday in 2024.
+
+...
+
+[Data](articles/b1ec9a7e.json)
+
+---
+
 ### 2024-08-06 (Tuesday)
 
 ### The Aruna Views is 5th
@@ -1996,6 +2070,20 @@ It is noteworthy that the railway staff engaged in the workplace as the employee
 
 ---
 
+### රාජ්‍ය සේවයේ වැඩ කඩිනම් කිරීමේ ක්‍රමවේදයක්
+
+*2024-08-06 19:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැඩ-කඩිනම්-කිරීමේ-ක්‍රමවේදයක්/11-411241) · `si`
+
+රාජ්‍ය සේවාවන්හි කාර්‌යක්ෂමතාව සහ ගුණාත්මකභාවය වැඩි දියුණු කිරීම සඳහා ක්‍රමවේදයක් ක්‍රියාත්මක කිරීමට කැබිනට් අනුමැතිය ලබා දී තිබේ.රාජ්‍ය ආයතනවල කාර්යක්ෂමතාව සහ ගුණාත්මකභාවය වැඩිදියුණු කිරීම සඳහා මෙන්ම ද්විකරණ දෝෂ අවම කිරීම හා තොරතුරු තහවුරු කර ගැනීම මඟින් ඵලදායීව හා ප්‍රශස්තව කාර්යයන් ඉටු කිරීම පිණිස රාජ්‍ය ආයතනයන්හි තොරතුරු තාක්ෂණ පද්ධති ඒකාබද්ධ කිරීම යෝග්‍ය බව හඳුනා ගෙන ඇත.
+
+ඒ සඳහා රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ද ඇතුළුව සියලුම රාජ්‍ය මඟින් නියාමනය කරනු ලබන/සංවර්ධනය කරනු ලබන තොරතුරු තාක්ෂණ පද්ධති සඳහා දත්ත ඇතුළත් කිරීමේදී ක්‍රමවේදයක් ක්‍රියාත්මක කිරීම පිණිස මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+
+...
+
+[Data](articles/1b7620ae.json)
+
+---
+
 ### Kelanii Kachchi road roads on two sides of unauthorized occupants to other places
 
 *2024-08-06 19:13:06* · [`adalk`](https://www.ada.lk/breaking_news/කැලණිවැලි-කෝච්චි-පාර-දෙපැත්තේ-අනවසර-පදිංචිකරුවන්-වෙනත්-ස්ථානවලට/11-411240) · `si`
@@ -2127,115 +2215,5 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 [Data](articles/df490f7b.json)
 
 [Extended Data](ext_articles/df490f7b.ext.json)
-
----
-
-### The President treated us very well
-
-*2024-08-06 18:50:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිතුමා-අපිට-හොඳටම-සැලකුවා/11-411237) · `si`
-
-Ranil Wickremesinghe resumed the UNP, focusing on its privileges rather than splitting it. Sagara Kariyawasam praised the President for treating the Sri Lankan public well, emphasizing unity and national progress. Despite challenges, including economic struggles and leadership changes, the narrative highlights efforts to improve the country's future.
-
-🟩
-
-Ranil Wickremesinghe had to resume the UNP to build the UNP to build the UNP, but the Secretary General of Attorneys General Secretary Sagar Kariyawasam says that the resident of the Sri Lanka Knowledge.
-
-The President was very grateful to the Sri Lankan general public. Sagara Kariyawasam said. He said:
-
-"The President treated us very well. Instead of breaking up the UNP, he is carrying out the privileges of the UNP today and has the privileges of the powe.. The people of this country joined our party not to build the UNP.
-
-They were associated with the party protect the country's judgment.The country was hoping for the country tomorrow for the future of the country tomorrow. The people are with the quarter.. Olding, the transfer of the people's representatives, have not left the party.
-
-...
-
-[Data](articles/3ebbcd42.json)
-
-[Extended Data](ext_articles/3ebbcd42.ext.json)
-
----
-
-### Court order over issuance of liquor licenses extended
-
-*2024-08-06 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101046/court-order-over-issuance-of-liquor-licenses-extended-) · `en`
-
-The Supreme Court has extended the interim order that was issued preventing the acceptance of applications for the issuance of liquor licenses in a manner contrary to the excise regulations.
-
-This order was issued today (06)while granting leave for the hearing of 04 Fundamental Rights petitions filed by a group of wine shops owners challenging the liquor licenses issued against the excise regulations.
-
-Accordingly, the Supreme Court also decided to hold a trial against the Minister of Finance and the Commissioner General of Excise, who were named as respondents in the relevant petitions.
-
-The court has further directed the petitioners to file counter objections within four weeks.
-
-Later, the relevant petitions were ordered to be taken up for hearing on February 06, 2025.
-
-◼️
-
-[Data](articles/8794ab09.json)
-
-[Extended Data](ext_articles/8794ab09.ext.json)
-
----
-
-### Sri Lanka’s key Tamil group backs opposition leader at presidency, wants to remove ‘Indian’ label
-
-*2024-08-06 18:23:00* · [`economynextcom`](https://economynext.com/sri-lankas-key-tamil-group-backs-opposition-leader-at-presidency-wants-to-remove-indian-label-175625/) · `en`
-
-ECONOMYNEXT – Tamil Progressive Alliance (TPA), one of Sri Lanka’s key Tamil political coalition pledged support to opposition leader Sajith Premadasa in the upcoming September 21 presidential poll after both parties agreed on a set of conditions of memorandum of understanding (MOU), TPA officials said.
-
-The TPA also wants to recognise them as Sri Lankans and remove the ‘Indian Origin’ label from up country Tamils.
-
-TPA, which has never contested alone in any election up to now, has six legislators in the 225-member parliament after contesting under Premadasa-led center-right Samagi Jana Balawegaya in the 2020 general election.  Since then, TPA has been within the opposition led by Premadasa.
-
-Mano Ganeshan, the leader of TPA said the party decided unanimously “to extend or reaffirm” support to Premadasa.
-
-“The MOU does not demand the Sun and Moon. All that we need is we want to be recognized as more and more Sri Lankans,” Ganeshan told reporters at a media briefing in Colombo.
-
-...
-
-[Data](articles/5cc7fc0f.json)
-
-[Extended Data](ext_articles/5cc7fc0f.ext.json)
-
----
-
-### High-paying Israeli Construction work jobs to Sri Lankans
-
-*2024-08-06 18:21:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-වැටුප්-සහිත-ඊශ්‍රායලයේ-ඉදිකිරීම්-රැකියා-වරම්-ලාංකිකයින්ට/11-411235) · `si`
-
-Sri Lanka's Bureau of Foreign Employment offers high-paying construction jobs in Israel, targeting carpenters, tilers, and welders aged 25-44. Pre-tests for these positions will take place on August 13 at Katubedda NAITA from 8:00 AM.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment states that prior testing of employment opportunities have been laid down in the construction industry in the construction industry to Sri Lankan workers.
-
-Accordingly, Shutarin carpenter, tile, wire bands and clients have arisen.
-
-The experience of the above jobs between the ages of 25-44, male workers will be able to sit directly to these tests directly to these tests. The pre-tests of these jobs will be held from 8.00 am from 8.00 am to August 13 at Katubedda NAITA.
-
-Rs.
-
-◼️
-
-[Data](articles/74c97b22.json)
-
-[Extended Data](ext_articles/74c97b22.ext.json)
-
----
-
-### 2024 The admission of students to intermediate series of national schools is over
-
-*2024-08-06 18:11:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජාතික-පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීම-අවසන්/11-411234) · `si`
-
-After the presidential election announcement, the Ministry of Education focused on admitting children based on their grades for the 2024 school year. They also addressed issues related to suspended officers.
-
-🟩
-
-Ministry of Education emphasizes the admission of children according to the intermediate classes of national schools for the year 2024. After the presidential election was announced on a presidential election, the Ministry of Education has issued letters or suspended officers have been suspended.
-
-◼️
-
-[Data](articles/fd5492d3.json)
-
-[Extended Data](ext_articles/fd5492d3.ext.json)
 
 ---

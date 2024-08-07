@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 17:06:02**
+As of **2024-08-07 17:20:57**
 
 ## Newspaper Stats
 
-*Scraped **39,474** Articles*
+*Scraped **39,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 3,629
 adaderanalk | 4,588
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,956
-virakesarilk | 6,233
+virakesarilk | 6,238
 adaderanasinhalalk | 6,689
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,474 (100.0%) of 39,474 articles have been extended.
+39,474 (100.0%) of 39,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190498) · `ta`
+
+இன்று புதன்கிழமை (ஆகஸ்ட் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.5065 ஆகவும் விற்பனை விலை ரூபா 306.7677ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a6ff6948.json)
+
+---
+
+### யஷ் நடிக்கும் 'டாக்சிக்' படப்பிடிப்பு பூஜையுடன் ஆரம்பம்
+
+*2024-08-07 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190514) · `ta`
+
+'கே ஜி எஃப்' படத்தின் பிரம்மாண்ட வெற்றிக்குப் பிறகு பான் இந்திய நட்சத்திர நடிகராக உயர்ந்த நடிகர் யஷ் கதையின் நாயகனாக நடிக்கும் 'டாக்சிக் ' எனும் திரைப்படத்தின் படப்பிடிப்பு பூஜையுடன் தொடங்கி இருக்கிறது.
+
+நடிகையும் இயக்குநருமான கீது மோகன் தாஸ் இயக்கத்தில் உருவாகவிருக்கும் 'டாக்சிக்' எனும் திரைப்படத்தில் நடிகர் யஷ் கதையின் நாயகனாக நடிக்கிறார்.
+
+இந்த திரைப்படத்தின் படப்பிடிப்பு நாளை முதல் பெங்களூரூவில் தொடங்குகிறது. இதற்காக கர்நாடகாவில் உள்ள ஆலயம் ஒன்றில் பட குழுவினர் ஒன்று கூடி பிரார்த்தித்தனர். இது தொடர்பான புகைப்படத்தை படக்குழுவினர் வெளியிட்டுள்ளனர். இந்த திரைப்படத்தை கே வி என் புரொடக்ஷன்ஸ் நிறுவனம் தயாரிக்கிறது.
+
+இரண்டு ஆண்டுகளுக்குப் பிறகு 'கே ஜி எஃப்' புகழ் யஷ் நடிக்கும் படத்தின் புதிய தகவல்கள் வெளியாகி இருப்பதால் அவருடைய ரசிகர்கள் இதனை கொண்டாடி வருகிறார்கள்.
+
+◼️
+
+[Data](articles/01458664.json)
+
+---
 
 ### Sri Lanka Test squad for England
 
@@ -209,6 +239,24 @@ Subsequently, the Mannar Magistrate's Court ordered the doctor Archana to go on 
 [Data](articles/c71a96c4.json)
 
 [Extended Data](ext_articles/c71a96c4.ext.json)
+
+---
+
+### அடுத்த கட்டத்திற்கு நகர்ந்த நடிகர் ரியோ ராஜின் 'ஸ்வீட் ஹார்ட் '
+
+*2024-08-07 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190512) · `ta`
+
+'ஜோ' படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமான நடிகர் ரியோ ராஜ் கதையின் நாயகனாக நடித்திருக்கும் 'ஸ்வீட் ஹார்ட்' எனும் படத்தின் பின்னணி பேசும் பணிகள் தொடங்கி இருப்பதாக பட குழுவினர் அறிவித்துள்ளனர்.
+
+அறிமுக இயக்குநர் ஸ்வினீத் எஸ்.  சுகுமார் இயக்கத்தில் உருவாகி இருக்கும் 'ஸ்வீட் ஹார்ட்' எனும் திரைப்படத்தில் ரியோ ராஜ், கோபிகா ரமேஷ் ,ரெடின் கிங்ஸ்லி, ரஞ்சி பணிக்கர், அருணாச்சலம், சுரேஷ் சக்ரவர்த்தி, துளசி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+பாலாஜி சுப்பிரமணியம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இளமைத் ததும்பும் காதல் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை வை எஸ் ஆர் ஃபிலிம்ஸ் நிறுவனம் சார்பில் இசையமைப்பாளர் யுவன் சங்கர் ராஜா தயாரித்திருக்கிறார்.
+
+இந்தத் திரைப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து, தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் தொடங்கி இருக்கிறது. இதனை அறிவிக்கும் வகையில் பட குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டுள்ளனர்.
+
+...
+
+[Data](articles/4ac75bb2.json)
 
 ---
 
@@ -558,6 +606,24 @@ The police said that the cause of the ice drug addicted and has not been reveale
 
 ---
 
+### ஜனாதிபதி தேர்தலை புறக்கணிக்கவேண்டும் - யாழில் தமிழ்தேசிய மக்கள் முன்னணி துண்டுபிரசுரம்
+
+*2024-08-07 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190466) · `ta`
+
+ஜனாதிபதி தேர்தலை புறக்கணிக்ககோரி துண்டு பிரசுரம் வழங்கும் நிகழ்வுவொன்று யாழ்ப்பாணம் திருநெல்வேலி பகுதியில் நேற்று செவ்வாய்க்கிழமை (06) முன்னெடுக்கப்பட்டது.
+
+தமிழ் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வாராஜா கஜேந்திரன் மற்றும் கட்சியின் பிரதிநிதிகள் உள்ளிட்ட சிலர் இந்நிகழ்வில் கலந்து கொண்டனர்.
+
+திருநெல்வேலி புறநகர் பகுதிகள் ஆகியவற்றில் பொதுமக்களுக்கு துண்டுப் பிரசுரத்தினை வழங்கி ஜனாதிபதித் தேர்தலை புறக்கணிக்குமாறு கூறினர்.
+
+அத்துடன், ஜனாதிபதி தேர்தலில் பொதுவேட்பாளர் நிறுத்துவதோ அல்லது பெரும்பான்மை இனத்தவர் ஒருவரை தெரிவு செய்வதில் எவ்வித பயனும், இல்லை என தெரிவித்த செல்வராஜா கஜேந்திரன் ஜனாதிபதி தேர்தலை புறக்கணிப்பது தமிழர்களுக்கு இருக்கின்ற ஒரே ஒரு தீர்வு எனவும் இதன்போது சுட்டிக்காட்டியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5d8b4da4.json)
+
+---
+
 ### Sri Lanka - Indian Shipping Service
 
 *2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-இலங்கை-இந்திய-கப்பல்-சேவை-ஆரம்பம்/175-341742) · `ta`
@@ -657,6 +723,22 @@ He stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they 
 [Data](articles/8f102a3d.json)
 
 [Extended Data](ext_articles/8f102a3d.ext.json)
+
+---
+
+### பங்களாதேசின் இடைக்கால அரசாங்கத்தின் தலைவராக நோபல் பரிசுபெற்ற முகமட் யூனுஸ் - மாணவர்களின் வேண்டுகோள் ஏற்பு
+
+*2024-08-07 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190478) · `ta`
+
+பங்களாதேஸின் இடைக்கால தலைவராக ஷேக் ஹசீனாவின் நீண்ட கால அரசியல் எதிராளியும் நோபல் பரிசுபெற்றவருமான முகமட் யூனுஸ் நியமிக்கப்பட்டுள்ளார்.
+
+யூனுஸ் தனது நுண்கடன் திட்டங்களிற்காக சர்வதேச அளவில் வரவேற்பை பெற்றவர் அதற்காக நோபால் பரிசு அவருக்கு வழங்கப்பட்டது.
+
+எனினும் ஹசீனா அவரை பொதுமக்களின் எதிரி என கருதினார்,யூனுஸ் தற்போது ஆறு மாத பிணையில் விடுதலையாகியுள்ளார்.
+
+◼️
+
+[Data](articles/ff524143.json)
 
 ---
 
@@ -2173,99 +2255,5 @@ Six players who won the top two in the three semi -finals and the next excellent
 [Data](articles/b3f2cb65.json)
 
 [Extended Data](ext_articles/b3f2cb65.ext.json)
-
----
-
-### Ranil Rajapaksa was an Opposition-made myth. The Rajapaksas have nothing to gain from a Ranil Wickremesinghe victory. He was never a Rajapaksa creature.
-
-*2024-08-07 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84492) · `en`
-
-“The king is dead, long live the king” (Traditional proclamation made following the death of a monarch indicating the continuity of the monarchy)
-
-Mahinda Rajapaksa’s second presidential investiture was held two days after his 65th birthday, the twin occasions marked by grandiose displays of Rajapaksa power. The highlights of this political spectacle included a shipload of Buddhist monks voyaging from Galle to the Hambantota Rajapaksa Port, chanting the ‘Sagara Piritha’, and the cooking of world’s largest milk-rice weighting 4,000 kg by 300+ chefs (relayed live on TV). Tuition-guru turned Education Minister Bandula Gunwardane ordered all school children to listen to President Rajapaksa’s ‘Address to the Nation’.
-
-Most of the courtiers who pledged eternal fealty to High King Mahinda during that spectacular week in 2010 are unlikely to grace his 79th birthday in 2024.
-
-...
-
-[Data](articles/b1ec9a7e.json)
-
-[Extended Data](ext_articles/b1ec9a7e.ext.json)
-
----
-
-### 2024-08-06 (Tuesday)
-
-### The Aruna Views is 5th
-
-*2024-08-06 23:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199647) · `si`
-
-Aruna Visions from Sri Lanka reached the semi-finals in the Paris Olympics, achieving a personal best time of 44 seconds and 7 summories.
-
-🟩
-
-Sri Lanka's Aruna Visions participated in the semi-finals of the Paris Olympics.
-
-Aruna completes 44 seconds and 7 summories, reporting their personal best talent.
-
-◼️
-
-[Data](articles/3ae9e9ab.json)
-
-[Extended Data](ext_articles/3ae9e9ab.ext.json)
-
----
-
-### World-renowned consumer electronics brand KONKA returns to Sri Lanka in partnership with FLiCo
-
-*2024-08-06 23:14:00* · [`islandlk`](http://island.lk/world-renowned-consumer-electronics-brand-konka-returns-to-sri-lanka-in-partnership-with-flico/) · `en`
-
-KONKA is a globally recognized brand known for its superior and innovative consumer electronics products. Through FLiCo network, a wide range of KONKA’s products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers across the country.
-
-On July 25th, a grand event and press conference was held at Galle Face Hotel to officially announce FLiCo, a Future Life Holdings subsidiary, as KONKA’s new distribution agent in Sri Lanka.
-
-...
-
-[Data](articles/d08376dc.json)
-
-[Extended Data](ext_articles/d08376dc.ext.json)
-
----
-
-### Euromoney declares ComBank ‘Sri Lanka’s Best Bank for ESG’
-
-*2024-08-06 23:13:00* · [`islandlk`](http://island.lk/euromoney-declares-combank-sri-lankas-best-bank-for-esg/) · `en`
-
-The Commercial Bank of Ceylon has been proclaimed ‘Sri Lanka’s Best Bank for ESG’ at the 2024 edition of the Euromoney Awards for Excellence, generating international recognition for the Bank’s commitment to Environmental, Social and Governance (ESG) frameworks.
-
-The Euromoney Awards for Excellence are highly respected in the global banking industry, and represent the pinnacle of achievement for banks and bankers that set the standards in the Banking field around the world.
-
-The prestigious Euromoney award won by Commercial Bank recognizes the impact of numerous internal and external initiatives and processes implemented by the Bank to promote and monitor compliance with best practices of the ESG framework across the Bank’s network of branches.
-
-The Bank said it prioritises minimising environmental impact through energy-efficient operations, reducing its carbon footprint, and funding in renewable energy projects to support a greener future.
-
-...
-
-[Data](articles/cb74ecb9.json)
-
-[Extended Data](ext_articles/cb74ecb9.ext.json)
-
----
-
-### Sri Lanka International Insurance Summit 2024 from August 12th to 14th
-
-*2024-08-06 23:12:00* · [`islandlk`](http://island.lk/sri-lanka-international-insurance-summit-2024-from-august-12th-to-14th/) · `en`
-
-The Insurance Association of Sri Lanka (IASL) presents the “Sri Lanka International Insurance Summit 2024,” from August 12th to 14th, 2024, at the Shangri-La Colombo. Recognized as one of the sector’s most anticipated events, this three-day symposium aims to connect Sri Lanka with the global insurance industry, showcasing abundant business opportunities in the region and fostering international investment.
-
-The summit will bring together local and international delegates, offering a unique platform for knowledge exchange, networking, and collaboration. The event will commence on the evening of August 12th with an inauguration ceremony and cocktails, followed by two full conference days on the 13th and 14th.
-
-The International Insurance Summit 2024 invites all to explore dynamic opportunities within Sri Lanka’s burgeoning insurance market and beyond. For more information or reservations, please visit https://sliis.lk/ or contact via email at info@sliis.lk
-
-...
-
-[Data](articles/95a8e68d.json)
-
-[Extended Data](ext_articles/95a8e68d.ext.json)
 
 ---

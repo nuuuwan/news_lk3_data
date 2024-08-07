@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 20:20:56**
+As of **2024-08-07 20:36:29**
 
 ## Newspaper Stats
 
-*Scraped **39,495** Articles*
+*Scraped **39,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,535
 adalk | 3,633
 adaderanalk | 4,589
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,959
+tamilmirrorlk | 4,960
 virakesarilk | 6,243
 adaderanasinhalalk | 6,692
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,692
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,494 (100.0%) of 39,495 articles have been extended.
+39,495 (100.0%) of 39,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### எதையும் எதிர்பார்த்து கைச்சாத்திடவில்லை ; சஜித்
+
+*2024-08-07 20:15:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதையும்-எதிர்பார்த்து-கைச்சாத்திடவில்லை-சஜித்/175-341753) · `ta`
+
+எந்தவித பதவிகளையும் எதிர்பார்த்து ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் உடன்படிக்கை  கைச்சாத்திடவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி மற்றும் ஸ்ரீலங்கா சுதந்திரக்கட்சிக்கு இடையிலான புரிந்துணர்வு ஒப்பந்தம் இன்று (07) கைச்சாத்திடப்பட்ட  பின்னர் ஊடகங்களுக்கு கருத்துரைத்தபோதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+தற்போது, வேட்பாளர்களுக்கான ஆதரவு குறித்துப் பரவலாகப் பேசப்படுகிறது. இன்று கைச்சாத்திட்ட 2 கட்சிகளுக்கும் தெளிவானதொரு கொள்கை இருக்கிறது.
+
+இதய சுத்தியுடன் மக்களுக்குச் சேவை செய்வதற்கு முன்வருபவர்களை மாத்திரமே நாம் எம்முடன் இணைத்துக்கொள்கிறோம் என சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/fedd5946.json)
+
+---
 
 ### Thousands of people gathered together to the Medical Medical Archana released by the Mannar Court
 
@@ -576,19 +594,29 @@ The artists who played the film are currently talking background. The first look
 
 ---
 
-### நீதிமன்ற அவமதிப்பு வழக்கு தொடுப்போம் : குடிவரவு குடியகல்வு கட்டுப்பாட்டாளருக்கு ரவூப் ஹக்கீம் விடுத்துள்ள எச்சரிக்கை
+### Rauf Hakeem issued a warning case: Immigration and Emigration Controller
 
 *2024-08-07 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190506) · `ta`
 
-வி.எப்.எஸ். கொடுக்கல் வாங்கல் மூலம் மத்திய வங்கி பிணைமுறி கொள்ளையைவிட நூறு மடங்கு கொள்ளை இடம்பெறுவதை உயர் நீதிமன்றத்தில் நாங்கள் உறுதிப்படுத்தி இருக்கிறோம். அதனால் உயர் நீதிமன்றத்தின் தீர்ப்பு  அரசாங்கத்தின் கண்ணத்தில் அரைந்ததுபோல் உள்ளது. அத்துடன் வி.எப்.எஸ். காெடுக்கல் வாங்கல் தொடர்பில் எந்த இலத்திரனியல் ஊடகத்திலும் விவாதிப்பதற்கு தயார்  என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+Rauf Hakeem, leader of the Sri Lanka Muslim Congress, criticized the government and VFS Global for alleged corruption and money laundering, comparing the scale to the central bank robbery. He mentioned a High Court ruling against the government's actions, including issuing visas through a controversial company without proper authorization. Hakeem threatened legal action if the government failed to comply with the court order and hinted at public discussions on the matter.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டுக்கு வரும் சுற்றுலா பயணிகளிடம் வி.எப்.எஸ்.கொடுக்கல் வாங்கல் மூலம் பணம் கொள்ளையிடும் நடவடிக்கையை அரசாங்கம் ஆரம்பித்திருக்கிறது. இந்த கொடுக்கல் வாங்கல் மூலம் மத்திய வங்கி கொள்ளையைவிட நூறுமடங்கு கொள்ளைக்கு இந்த அரசாங்கம் தயாராகி அமைச்சரவையில் இரகசியமாக இதனை அனுமதித்துக்கொண்டுள்ளது.
+VFS. We have confirmed in the High Court that a hundred times more robbery than the central bank bailout. So the judgment of the High Court is like grinding in the eyes of the government. As well as VFS. Sri Lanka Muslim Congress leader Rauf Hakeem said he was ready to discuss in any electronic media regarding the buying.
+
+He was speaking at the post of adjournment of the House of Commons on Wednesday (07) in Parliament.
+
+The government has initiated money laundering through the VFS Corporation. With this transaction, the government is preparing a hundred times more robbery than the central bank robbery and secretly allowed it in the cabinet.
+
+Since 2012, Mobile has issued a visa for tourists from abroad. For that, Mobile was awarded a certificate.
+
+In this case, as the Mobile Company is taking steps to improve its electronic structure, the Cabinet paper has been submitted to the fake company to issue this visa unbearable.
 
 ...
 
 [Data](articles/dc3695c2.json)
+
+[Extended Data](ext_articles/dc3695c2.ext.json)
 
 ---
 
@@ -2301,29 +2329,5 @@ No one else has come forward to accept. So it is absolutely wrong to say that I 
 [Data](articles/2e92f288.json)
 
 [Extended Data](ext_articles/2e92f288.ext.json)
-
----
-
-### Attam, the road to children voluntarily 45 years
-
-*2024-08-07 02:08:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrjjvg1k4eo) · `si`
-
-For 45 years, Attam volunteers daily from 6 am to 3 pm near Kegalle and Bandaranaike Primary Schools, selflessly serving the community, especially children, earning her the nickname 'Garnam'. Her dedication exemplifies selflessness and commitment to child safety.
-
-🟩
-
-She contains nothing here.Vite to the headline, weekdays from 6.00 am to 3.00 pm, she will play his mission near the Kegalle and Bandaranaike Primary School.
-
-Volunteering throughout 45 years, voluntarily, the love of many of the lily violets, which are known as 'Garnam'.
-
-During weekdays, she would take their mission near the Kegalle and Bandaranaike Primary School.
-
-The school also includes an exemplary character, an exemplary character, which has made 45 years of unlimited sacrifices for the safety of children.
-
-◼️
-
-[Data](articles/bf084e7f.json)
-
-[Extended Data](ext_articles/bf084e7f.ext.json)
 
 ---

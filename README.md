@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 09:55:36**
+As of **2024-08-07 10:08:26**
 
 ## Newspaper Stats
 
-*Scraped **39,425** Articles*
+*Scraped **39,429** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 337
+dbsjeyarajcom | 338
 newsfirstlk | 363
 bbccomsinhala | 371
 colombotelegraphcom | 376
@@ -18,19 +18,59 @@ dailyftlk | 2,535
 adalk | 3,621
 adaderanalk | 4,578
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,948
+tamilmirrorlk | 4,950
 virakesarilk | 6,233
-adaderanasinhalalk | 6,673
+adaderanasinhalalk | 6,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,423 (100.0%) of 39,425 articles have been extended.
+39,425 (100.0%) of 39,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### යුක්තිය දෙවන අදියරෙන් සැකකරුවන් 750ක් අත්අඩංගුවට
+
+*2024-08-07 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199659) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ ක්‍රියාත්මක වන මත්ද්‍රවශ වැටලීම් පිළිබඳ පොලිස් මාධ්‍ය ප්‍රකාශයක කාර්යාලය නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව යුක්තිය මෙහෙයුමේ දෙවන අදියර යටතේ ඊයේ (06) දිනය තුළ සිදුකෙරූ මුළු වැටලීම් 780කට අදාළව සැකකරුවන් 750ක් සහ සැකකාරියන් 26 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඉන් සැකකරුවන් 22ක් වැඩිදුර විමර්ශනය සඳහා රඳවා තබා ගැනීමේ නියෝග ලබා ගැනීමට නියමිත අතර සැකකරුවන් 03 දෙනෙකුගේ වත්කම් විමර්ශනය කිරීමට ද, තිදෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිත බවද සඳහන්.
+
+මෙම මෙහෙයුමේදී බස්නාහිර පළාත තුළ වැටලීම් 503ක් ද දකුණු පළාත තුළ වැටලීම් 62ක්ද සිදුකළ බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/1a007aa8.json)
+
+---
+
+### நாமல் ராஜபக்ஷவும் போட்டி
+
+*2024-08-07 09:48:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷவும்-போட்டி/175-341737) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஜனாதிபதித் தேர்தலில் பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவை அந்த பெரமுன உத்தியோகபூர்வமாக அறிவித்துள்ளது.
+
+பத்தரமுல்ல நெலும் மாவத்தையில் அமைந்துள்ள பொதுஜன பெரமுனவின் தலைமைக் காரியாலயத்தில் தற்போது இடம்பெற்றுவரும் விசேட வைபவத்தில் கட்சியின் செயலாளர் சட்டத்தரணி .சாகர காரியவசம் ஜனாதிபதி வேட்பாளராக நியமிக்கப்படவுள்ளதாக அறிவித்தார்.
+
+ஹம்பாந்தோட்டை மாவட்ட பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ பொதுஜன பெரமுனவின் தேசிய அமைப்பாளராகவும் செயற்படுகின்றார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் மூத்த புதல்வர் நாமல் ராஜபக்ஷ, கடந்த பொதுஜன பெரமுன அரசாங்கத்தில் விளையாட்டு மற்றும் இளைஞர் விவகாரங்களுக்கு பொறுப்பாக இருந்தார்.
+
+முப்பத்தெட்டு வயதான நாமல் ராஜபக்ச, 2010 பொதுத் தேர்தலில் முதன்முறையாக பாராளுமன்றத்திற்கு தெரிவானார்.
+
+மவுண்ட் செயின்ட் தோமஸ் கல்லூரியின் பழைய மாணவரான நாமல் ராஜபக்ஷ ஒரு திறமையான ரக்பி வீரர் ஆவார். இலங்கை தேசிய ரக்பி அணியின் தலைவராகவும் இருந்தார்
+
+◼️
+
+[Data](articles/a6cf5515.json)
+
+---
 
 ### Another suspect arrested over ‘Club Wasantha’ murder
 
@@ -46,23 +86,31 @@ It has been revealed that before the crime was committed, the suspect in questio
 
 [Data](articles/6c53fa47.json)
 
+[Extended Data](ext_articles/6c53fa47.ext.json)
+
 ---
 
-### ஏறாவூரில் வர்த்தகர் கழுத்தறுத்துக் கொலை
+### Murder of a businessman in Eravur
 
 *2024-08-07 09:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஏறாவூரில்-வர்த்தகர்-கழுத்தறுத்துக்-கொலை/73-341736) · `ta`
 
-ஏறாவூர் பொலிஸ் பிரிவுக்குட்பட்ட மிச்நகர் - ஹிஸ்புல்லாஹ் நகரில் வர்த்தகர் ஒருவர் நேற்றிரவு (6) சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Eravur, a businessman named Dawood, 45, was found dead, likely killed during a robbery by drug users at his shop. The Eravur police are investigating and aiming to apprehend the culprits.
 
-போதைப்பொருள் பாவனையாளர்கள் வர்த்தக நிலையத்தை கொள்ளையடிக்க வந்த நிலையில்தான் இந்த கொலை இடம்பெற்றுள்ளதாக பொலிஸாரின் விசாரணைகளின் போது தெரிய வந்துள்ளது.
+🟩
 
-இந்த சம்பவத்தில் திருமணம் முடிக்காத நிலையில் கடை நடாத்தி வந்த 45 வயதுடைய தாவூத் என்பவர் கழுத்தறுக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
+A businessman in Michnagar - Hizbullah, which belongs to the Eravur police division, has been recovered last night (6), police said.
 
-இந்த கொலைச் சம்பவத்தில் தொடர்புடைய நபர்களை கைது செய்து சட்டநடவடிக்கை மேற்கொள்ள ஏறாவூர் பொலிஸார் நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர். R
+Investigations by the police revealed that the murder had taken place when drug users came to rob the shopping center.
+
+Dawood, a 45 -year -old Dawood, who was running a shop while not married in the incident, has been strangled and murdered.
+
+Eravur police are taking action to arrest the persons involved in the murder and take legal action.. Remble
 
 ◼️
 
 [Data](articles/2c380d70.json)
+
+[Extended Data](ext_articles/2c380d70.ext.json)
 
 ---
 
@@ -325,6 +373,20 @@ It is reported that 24 people, including the Indonesian citizen, were killed in 
 [Data](articles/846d2c76.json)
 
 [Extended Data](ext_articles/846d2c76.ext.json)
+
+---
+
+### விருந்தகத்தில் தீ:  24 பேர் பலி
+
+*2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
+
+பங்களாதேஷின் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியைச் சேர்ந்த உறுப்பினர் ஒருவருக்குச் சொந்தமான விருந்தகத்திற்கு போராட்டக்காரர்கள் தீ வைத்துள்ளனர்.
+
+இந்த தீ விபத்தில் இந்தோனேசிய பிரஜை உட்பட 24 பேர் உயிரிழந்துள்ளனர் என  தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/d4bdb474.json)
 
 ---
 
@@ -2155,69 +2217,5 @@ Meanwhile, the police have arrested Junaid Ahmed, the leader of the Awami League
 [Data](articles/3dd33e8a.json)
 
 [Extended Data](ext_articles/3dd33e8a.ext.json)
-
----
-
-### Sri Lanka’s LB Finance merges Multi Finance Plc
-
-*2024-08-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-lb-finance-merges-multi-finance-plc-175417/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LB Finance said it had merged Kandy-based licensed finance company Multi Finance Plc.
-
-After passing a special resolution to amalgamate Multi Finance PLC with LB Finance PLC at an Extraordinary General Meeting held on June 28, “necessary steps were duly taken by the Company to register the said amalgamation with the Department of Registrar General of Companies (DRGOC),” the company said in a stock exchange filing.
-
-“The DRGOC having validated the accuracy of the process we have adopted for the said amalgamation in terms of the provisions of the Companies Act No. 07 of 2007, issued us the “Certificate of Amalgamation Issued to a Limited Company” today.”
-
-Fairway Holdings was the previous largest shareholder of Multi Finance following an acquisition in 2017.
-
-In 2022, LB Finance bought a 64 percent stake in Mutli Finance for 400 million rupees.
-
-...
-
-[Data](articles/23ed6b09.json)
-
-[Extended Data](ext_articles/23ed6b09.ext.json)
-
----
-
-### President reveals about Bangladesh situation
-
-*2024-08-06 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199636) · `si`
-
-President Ranil Wickremesinghe praised Sheikh Hasina for her financial aid during a tough time, suggesting her actions could have prevented current issues in Bangladesh. He also highlighted Sri Lanka's commitment to supporting Bangladesh economically and environmentally, aiming for sustainable development by 2040 despite global challenges.
-
-🟩
-
-President Ranil Wickremesinghe says that if Sheikh Hasina had previously followed a similar step, it would have been in Bangladesh today.
-
-President Ranil Wickremesinghe made this statement addressing the conference on 2024 Environment, Social and Control (ESG).
-
-"I do not intend to talk about politics in Bangladesh, our friendly country, but something about it should be mentioned. Although Mrs. Sheikh Hasana left the post of Prime Minister, but I should recall that she gave US $ 200 million in a very difficult time. "
-
-...
-
-[Data](articles/4184e79a.json)
-
-[Extended Data](ext_articles/4184e79a.ext.json)
-
----
-
-### Ministry of Education
-
-*2024-08-06 17:09:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சு-அதிரடி-அறிவிப்பு/175-341698) · `ta`
-
-The Ministry of Education has halted issuing admission letters post-presidential elections due to complaints about misinformation from a self-proclaimed education trade union rep.
-
-🟩
-
-According to the circular 2024, the admission of children to the intermediate classes of national schools has been completed. After the presidential election on 26-07-2024, the Ministry of Education has suspended the issuance of letters to allow children or the transfer of officials.
-
-The Ministry has received complaints that a person who claims to be a trade union representative in the field of education is spreading false information on the information.
-
-◼️
-
-[Data](articles/6f8a7e08.json)
-
-[Extended Data](ext_articles/6f8a7e08.ext.json)
 
 ---

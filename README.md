@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 03:36:15**
+As of **2024-08-08 03:55:43**
 
 ## Newspaper Stats
 
-*Scraped **39,530** Articles*
+*Scraped **39,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,536
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,965
+tamilmirrorlk | 4,966
 virakesarilk | 6,252
 adaderanasinhalalk | 6,696
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,530 (100.0%) of 39,530 articles have been extended.
+39,530 (100.0%) of 39,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,24 @@ As Harsha de Silva MP says, if the United People's Power has canceled the agreem
 [Data](articles/4d25b2da.json)
 
 [Extended Data](ext_articles/4d25b2da.ext.json)
+
+---
+
+### வடக்கு கிழக்கில் சீன இராணுவத்தை நிறுத்த முயற்சி
+
+*2024-08-08 01:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-சீன-இராணுவத்தை-நிறுத்த-முயற்சி/175-341771) · `ta`
+
+வடக்கு, கிழக்கில் சீன இராணுவத்தை நிலைநிறுத்த முயற்சிகள் முன்னெடுக்கப்படுவதாக தகவல்கள் வெளியாகியுள்ளதாக தெரிவித்த தமிழ்த் தேசியக் கூட்டமைப்பபின் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன், இந்த முயற்சிகளுக்கு ஒருபோதும் இடமளிக்க மாட்டோம் என்றும் தெரிவித்தார்.
+
+இதேவேளை சீன இராணுவத்தினரை நாட்டுக்குள் கொண்டுவரும் திட்டத்தை அரசாங்கம் அனுமதிக்கின்றதா என கேட்பதாகவும் அவர் குறிப்பிட்டார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (08) நடைபெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+மன்னார் வைத்தியசாலையில் மதியராஜன் சிந்துஜா மரணம் தொடர்பில் நான் வைத்தியசாலைக்கு சென்று வைத்தியர்களிடம் கதைத்த போது விசாரணைகள் நடப்பதாக கூறினர். ஆனால் இந்த விசாரணை ஆட்களை மாற்றும் விசாரணையாக இருக்கக் கூடாது. நீதியான விசாரணையின் ஊடாக சம்பந்தப்பட்டவர்கள் பணி நீக்கம் செய்யப்பட வேண்டும் என்பதுடன் சம்பந்தப்பட்டவர்கள் தண்டிக்கப்படவும் வேண்டும் என்பது எங்களின் கோரிக்கையாக உள்ளது.
+
+...
+
+[Data](articles/e8c527d4.json)
 
 ---
 
@@ -2353,29 +2371,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/e938d055.json)
 
 [Extended Data](ext_articles/e938d055.ext.json)
-
----
-
-### Mohammed Yunus became the head of the interim government in Bangladesh
-
-*2024-08-07 09:10:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-இடைக்கால-அரசின்-தலைவரானார்-முகமது-யூனுஸ்/50-341733) · `ta`
-
-Mohammed Yunus, a Nobel laureate, was named head of Bangladesh's interim government amidst protests over a 30% reservation for liberation war participants' families, which escalated into riots killing over 100. This led to Prime Minister Sheikh Hasina's resignation and her seeking asylum in India.
-
-🟩
-
-Nobel Prize winning Mohammed Yunus has been appointed as the head of the interim government in Bangladesh.
-
-The protest erupted against the provision of 30 per cent reservation for the family members of those who participated in the liberation war in Bangladesh. The struggle eventually turned into a riot.
-
-More than 100 people died in this riots. After the situation, Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
-
-In addition, Nobel Prize -winning economist Mohammed Yunus was appointed interim chairman following a meeting with 13 people with 13 leaders of the leaders of the Armed Forces and the students who were involved in the struggle for the formation of the interim government.
-
-◼️
-
-[Data](articles/32cb61e8.json)
-
-[Extended Data](ext_articles/32cb61e8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 19:07:00**
+As of **2024-08-07 19:21:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,692
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,487 (100.0%) of 39,489 articles have been extended.
+39,489 (100.0%) of 39,489 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The consignment of drugs is suspected to have been sent by the drug dealer known
 
 [Data](articles/2885b22e.json)
 
+[Extended Data](ext_articles/2885b22e.ext.json)
+
 ---
 
-### පරිගණක උපාංග තුළ සැඟවූ අයිස් මත්ද්‍රව්‍ය තොගයක් සොයාගනී
+### Discovers a stock of ice hidden in computer accessories
 
 *2024-08-07 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199678) · `si`
 
-අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 5කට අධික ප්‍රමාණයක් පරිගණක උපාංග 63ක් තුළ සඟවා මෙරටට රැගෙනවිත් තිබියදී සොයාගෙන ඇත.
+A significant haul of over 5 kg of ice was found concealed within 63 computer accessories during a joint operation by the Police Special Task Force and the Police Narcotics Bureau. The substance is believed to have been smuggled into Sri Lanka by a racketeer known as "Dubai Site."
 
-පොලිස් විශේෂ කාර්ය බළකාය සහ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් එක්ව වැටලීම සිදුකර ඇත.
+🟩
 
-ඩුබායි නිපුන නමැති ජාවාරම්කරු විසින් මෙම මත්ද්‍රව්‍ය මෙරටට එවා ඇති බව පොලීසිය සැක කරයි.
+Over 5 kilograms of ice cast have been recovered from 63 computer accessories.
+
+Officers of the Police Special Task Force and the Police Narcotics Bureau have joined the raid.
+
+Police suspect that the drug has been sent to Sri Lanka by the racketeer named Dubai Site.
 
 ◼️
 
 [Data](articles/53f2061b.json)
+
+[Extended Data](ext_articles/53f2061b.ext.json)
 
 ---
 

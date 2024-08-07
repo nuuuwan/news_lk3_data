@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 15:55:01**
+As of **2024-08-07 16:08:16**
 
 ## Newspaper Stats
 
-*Scraped **39,466** Articles*
+*Scraped **39,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 4,586
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
-adaderanasinhalalk | 6,684
+adaderanasinhalalk | 6,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,466 (100.0%) of 39,466 articles have been extended.
+39,466 (100.0%) of 39,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ඉතිහාසගත වූ 11 හැවිරිදි ඔලිම්පික් ක්‍රීඩිකාව
+
+*2024-08-07 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199671) · `si`
+
+මෙවර ඔලිම්පික් උලෙළ සඳහා සහභාගී වන ළාබාලතම පුද්ගලයා ලෙස චීනයේ 11 හැවිරිදි ස්කේට්බෝඩින් ක්‍රීඩිකාවක් ඉතිහාස ගත විය.
+
+ඇය 11 හැවිරිදි වියේ පසුවන අතර ඇය උපත ලබා ඇත්තේ 2012 ලන්ඩන් ඔලිම්පික් උලෙළ නිම වීමට පෙර දිනයේදී ය.
+
+Zheng Haohao සිය ස්කේට්බෝඩින් ඉසව්ව සඳහා ලකුණු 63.19 ලබාගනිමින් 18 වැනි ස්ථානය හිමිකර ගත්තාය.
+
+◼️
+
+[Data](articles/695aa093.json)
+
+---
+
+### ජාවාරම්කරුවන් විසින් සඟවා තිබූ රත්‍රන් තොගය
+
+*2024-08-07 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199670) · `si`
+
+කල්පිටිය තොරයඩි කලපුවේ ගිල්වා තිබූ රත්‍රන් කිලෝ 04 ග්‍රෑම් 740ක තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+
+ශ්‍රී ලංකා නාවික හමුදාව ඊයේ (06) දින කල්පිටිය තොරයඩි කලපුවේ සිදු කල විශේෂ සෝදිසි මෙහෙයුමකදී එම කලපුවේ ගිල්වා තිබූ බවට සැකකෙරෙන රත්‍රන් කිලෝ 04 ග්‍රෑම් 740 ක් අඩංගු ඇසුරුමක් නාවික හමුදා භාරයට ගත් බව නාවික හමුදාව පවසයි.
+
+එම රත්‍රන් අඩංගු ඇසුරුම ප්‍රවාහනය කල බවට සැකකෙරෙන ඩිංගි යාත්‍රාවක්ද තොරයඩි වෙරළ ප්‍රදේශයේ තිබියදී නාවික හමුදා භාරයට ගෙන තිබුණි.
+
+නාවික හමුදා මෙහෙයුම් හේතුවෙන් රැගෙන යාමට නොහැකිව, ජාවාරම්කරුවන් විසින් මෙම රත්‍රන් අඩංගු ඇසුරුම පසුව රැගෙන යාමේ අපේක්‍ෂාවෙන් මෙලෙස තොරයඩි කලපුවේ ගිල්වා තබන්නට ඇතැයි නාවික හමුදාව විශ්වාස කරයි.
+
+නාවික හමුදා භාරයට ගත් රත්‍රන් තොගය සහ ඩිංගි යාත්‍රාව ඉදිරි නීතිමය කටයුතු සඳහා කටුනායක රේගු නිවාරණ කාර්යාලය වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/87ce9919.json)
+
+---
 
 ### Agarwood, agar oil seized from Sri Lankan passengers at Chennai airport
 
@@ -2199,57 +2235,5 @@ As a result, it was decided to summon both these institutions before the Committ
 [Data](articles/e1f92404.json)
 
 [Extended Data](ext_articles/e1f92404.ext.json)
-
----
-
-### If Ranil is the President, I am the Prime Minister - Ravi Karunanayake has said that the records are untrue.
-
-*2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190443) · `ta`
-
-Ravi Karunanayake denies making claims about becoming PM under Ranil Wickremesinghe's presidency, stating the reports circulating on social media are untrue.
-
-🟩
-
-Former United National Party (UNP) parliamentarian Ravi Karunanayake has said that he will be sworn in as the prime minister after Ranil Wickremesinghe was elected president in the upcoming presidential election.
-
-United National Party (UNP) member Ravi Karunanayake has said that he will be sworn in as prime minister after Ranil Wickremesinghe was elected president in the upcoming presidential election.
-
-With the topic of "I am the Prime Minister - Ravi Karunanayake after Ranil became President," the above record is shared as a similar to the Sinhala national newspaper.
-
-In this case, the fact that the Sri Lankan newspaper is based on the veracity of the article has been confirmed that there is no truth.
-
-Ravi Karunanayake, who has made it clear to the Fact Seeker, said that he had not made any such comments and that the record being shared on social networks would include completely false information.
-
-◼️
-
-[Data](articles/04a76450.json)
-
-[Extended Data](ext_articles/04a76450.ext.json)
-
----
-
-### 25,267.2 million rupees to the government with decorative fish exports - Minister Douglas
-
-*2024-08-06 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190442) · `ta`
-
-Fisheries Minister Douglas announced that from 2019 to June 2023, Sri Lanka earned 25,267.2 million rupees from decorative fish exports, benefiting 7,974 individuals. In 2019 alone, 5,484.8 metric tonnes were exported, earning 2,908.3 million rupees, followed by 2,408.7 million in 2020 and 4,183.6 million in 2021, with an additional 2 million rupees earned recently.
-
-🟩
-
-Fisheries Minister Douglas Devananda said that we have earned 25,267.2 million rupees from the export of decorative fish from 2019 to June 2019.
-
-He said this while responding to a question raised by Milan Jayatilaka MP at the time of the oral answer in Parliament on Tuesday (06).
-
-7974 people in the country are involved in decorative fish industry and related activities. All offers and promotions are provided.
-
-548.8 metric tonnes of decorative fish in 2019 have been exported. 2908 .3 million has been earned.
-
-As well as 2408.7 million rupees in 2020, 4183.6 in 2021.. He said 2 million rupees had been earned.
-
-◼️
-
-[Data](articles/3b0e79c2.json)
-
-[Extended Data](ext_articles/3b0e79c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 10:08:26**
+As of **2024-08-07 10:21:00**
 
 ## Newspaper Stats
 
-*Scraped **39,429** Articles*
+*Scraped **39,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,621
-adaderanalk | 4,578
+adalk | 3,624
+adaderanalk | 4,579
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,950
 virakesarilk | 6,233
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,674
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,425 (100.0%) of 39,429 articles have been extended.
+39,425 (100.0%) of 39,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### 4 killed after single-engine plane crashes in Oklahoma City
+
+*2024-08-07 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101056/4-killed-after-single-engine-plane-crashes-in-oklahoma-city) · `en`
+
+Four people were killed when a small airplane crashed Tuesday afternoon in Oklahoma City, local authorities said.
+
+The plane crashed about 1:30 p.m. at Sundance Airport, a small airport on the outskirts of the city, according to Oklahoma City Fire Capt. John Chenoweth. He said the National Transportation Safety Board and the Federal Aviation Administration were notified of the crash.
+
+The FAA said in preliminary statement that the aircraft was a single-engine Beechcraft BE33 that crashed while taking off from the airport and the NTSB will be in charge of investigating.
+
+NTSB spokesperson Keith Holloway wrote in an email that the airplane was a Beech F33A, though the information is preliminary. NTSB investigators are expected to be on the scene tomorrow to examine the aircraft, Holloway added.
+
+One resident who lives near Sundance Airport told KOCO 5 News that his son heard helicopters and they went outside. The resident said he smelled smoke.
+
+...
+
+[Data](articles/f5bb37b4.json)
+
+---
 
 ### යුක්තිය දෙවන අදියරෙන් සැකකරුවන් 750ක් අත්අඩංගුවට
 
@@ -114,6 +134,32 @@ Eravur police are taking action to arrest the persons involved in the murder and
 
 ---
 
+### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+
+*2024-08-07 09:23:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411245) · `si`
+
+පාර්ලිමේන්තුව අද(07දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+
+◼️
+
+[Data](articles/9f74c968.json)
+
+---
+
+### නාමල් ජනපති සටනට
+
+*2024-08-07 09:16:21* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ජනපති-සටනට/11-411244) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතා නම් කිරීම මීට සුළු මොහොතකට පෙර සිදු කළේය.
+
+ඒ පක්ෂ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, බැසිල් රාජපක්ෂ ඇතුලු පක්ෂ මන්ත්‍රීවරුන්ගේ ප්‍රධානත්වයෙන් දැන් පැවැත්වෙන උත්සවයකදීයි.
+
+◼️
+
+[Data](articles/1198134d.json)
+
+---
+
 ### Special notification on today's climate
 
 *2024-08-07 09:12:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-குறித்த-விசேட-அறிவிப்பு/175-341734) · `ta`
@@ -187,6 +233,16 @@ Parliamentarian Namal Rajapaksa has been elected as the Presidential candidate o
 The Sri Lanka Podujana Peramuna (SLPP) today officially announces its National Organiser MP Namal Rajapaksa as the party’s Presidential Candidate.
 
 The SLPP General Secretary, Sagara Kariyawasam announced this moments ago at the party’s headquarters in Nelum Mawatha.
+
+Former President Mahinda Rajapaksa, SLPP founder Basil Rajapaksa, and several other party members had also attended the event.
+
+Namala Rajapaksa had been tipped to be named as the SLPP’s presidential candidate after SLPP MP Dhammika Perera decided to withdraw from the race citing personal reasons.
+
+The business magnate had informed the party yesterday (6) that he will not contest the 2024 Presidential Election due to personal reasons.
+
+Hence, the party leadership had decided to name an alternate candidate.
+
+Accordingly, Namal Rajapaksa will be the youngest candidate in this year’s presidential poll.
 
 ◼️
 
@@ -1932,6 +1988,24 @@ Accordingly, the Cabinet of Transport and Highways has been approved by the Cabi
 
 ---
 
+### 2024දී අලි ඇතුන් 197ක් මිය ගිහින්
+
+*2024-08-06 19:04:54* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-අලි-ඇතුන්-197ක්-මිය-ගිහින්/11-411239) · `si`
+
+මේ වසරේ ජනවාරි 01වන දින සිට ඊයේ (06දා) දක්වා කාලය තුළදී අලි මිනිස් ගැටුම් නිසා හා වෙනත් හේතුන් නිසා අලි ඇතුන් 197ක් මිය ගොස් තිබෙන බවත් මීට අමතරව අලි මිනිස් ගැටුම නිසා මිනිසුන් 73දෙනෙකු මිය ගොස් තිබෙන බවත් වනසත්ත්ව හා ස්වභාව ආරක්ෂක සංගමය සඳහන් කරයි.
+
+පසුගිය වසර තුළදී අලි ඇතුන් 479ක් මරණයට පත්ව තිබෙන බවත් මීට අමතරව අලි මිනිස් ගැටුම නිසා  පුද්ගල මරණ169ක් සිදුව තිබෙන බවද එම සංගමයේ අලි මිනිස් සහජීවනය පිළිබඳ උපකමිටුව සභාපති සුපුන් ළහිරු ප්‍රකාශ් මහතා සඳහන් කළේය.
+
+මෙවැනි පසුබිමක් තුළ මෙරට අලි ඇතුන් ගහනය ඉහළ යමින් පවතින බවත් ඔවුන් අපනයනය හෝ ගෘහාශ්‍රිතකරණය කළ යුතු බවට පාර්ලි‌‌මේන්තුව තුළදී මන්ත්‍රීවරයෙකු ඊයේ (06දා) යෝජනා කර තිබෙන බවත් මෙම යෝජනාව කිසිදු පදනමක් නොමැති යෝජනාවක් බවද පැවසීය.
+
+අලි ඇතුන් පිළිබඳව මෙරට සිදු කළ පළමු ජාතික සමීක්ෂණයට අනුව 2011 වසරේ ශ්‍රී ලංකාවේ අලි ඇතුන් 5,879 ක් වාර්තා වී තිබූ බවත් කෙසේ වෙතත් 2012 සිට නිල සංඛ්‍යාලේඛන පෙන්වා දෙන ආකාරයට මේ දක්වා කාලය තුළදී අලි ඇතුන් 3,770ක් මරණයට පත්ව තිබෙන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/c830533d.json)
+
+---
+
 ### In 2023, the highway was Rs.. 913 stolen
 
 *2024-08-06 19:00:31* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අධිවේගයේ-වතකම්-රු-මි--913ක්-සොරකම්-කරලා/11-411238) · `si`
@@ -2121,101 +2195,5 @@ Ministry of Education emphasizes the admission of children according to the inte
 [Data](articles/fd5492d3.json)
 
 [Extended Data](ext_articles/fd5492d3.ext.json)
-
----
-
-### ජනපතිවරණයට ඇප තැබූ පිරිස 18 දක්වා ඉහළට
-
-*2024-08-06 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199638) · `si`
-
-The Elections Commission has released 18 candidates from bail so far.
-
-🟩
-
-The Elections Commission announced that 18 candidates have been bailed to date.
-
-◼️
-
-[Data](articles/4288ae9a.json)
-
-[Extended Data](ext_articles/4288ae9a.ext.json)
-
----
-
-### Sri Lanka is committed to achieving standard development goals and net zero carbon emission by 2040 - President
-
-*2024-08-06 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190444) · `ta`
-
-Sri Lanka aims to reach standard development goals and achieve net-zero carbon emissions by 2040 through renewable energy, agricultural modernization, and addressing water scarcity. This initiative includes attracting global financial support, transforming the plantation sector into an agricultural business, promoting sustainable tourism, enhancing manufacturing, and digitalization. The President emphasized the importance of ESG principles during a conference, highlighting the need for innovation and sustainability in the face of geopolitical challenges and economic uncertainties.
-
-🟩
-
-President Ranil Wickremesinghe said Sri Lanka is working on achieving standard development targets by 2040 by rapid methods such as the use of renewable energy energy, modernization of agriculture and resolving water shortage.
-
-For this purpose, the President said that it is the main programs that attract global financial facilities through trade investments and convert the plantation sector into agricultural business, promote sustainable tourism, promote and improve production and digitalization.
-
-President Ranil Wickremesinghe made this statement while addressing the Environment, Social and Governance (ESG) conference for 2024 at the Chinaman Grand Hotel in Colombo on Tuesday (06).
-
-The conference, organized by the Association of Business Administration Graduates, Colombo University, under the theme of 'Sustainable Path for a Bright Future', was held throughout the day.
-
-...
-
-[Data](articles/b38d132c.json)
-
-[Extended Data](ext_articles/b38d132c.ext.json)
-
----
-
-### Court order for alcohol licenses
-
-*2024-08-06 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199637) · `si`
-
-The Supreme Court extended an interim injunction against Excise Regulations and issued permits to challenge four fundamental rights petitions filed by liquor license holders. The interim orders remain effective until the conclusion of the examination. The court will also conduct a trial involving the Minister of Finance, the Commissioner General of Excise, and others named in the petitions. Petitioners must submit any contradictions within four weeks; hearings are scheduled for February 6th next year.
-
-🟩
-
-The Supreme Court today (06) to extend the interim injunction issued in order to contradict Excise Regulations and the interim order issued by issuing permits.
-
-The Supreme Court has issued the order permits to challenge four fundamental rights petitions filed by a group of liquor licenses against Excise regils.
-
-It is stated that the interim bundled petitions will be in force until the end of the examination.
-
-The Supreme Court decided to conduct a trial against the Minister of Finance, the Commissioner General of Excise and a group of persons named the petitions.
-
-If the contradictions are available, the court ordered the petitioner to file them in four weeks.
-
-The court was appointed by the courts on the 6th of February next year.
-
-◼️
-
-[Data](articles/b7d5d5fd.json)
-
-[Extended Data](ext_articles/b7d5d5fd.ext.json)
-
----
-
-### Former minister of Bangladesh
-
-*2024-08-06 17:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேசின்-முன்னாள்-அமைச்சர்-கைது/50-341699) · `ta`
-
-Junaid Ahmed, ex-minister and Awami League leader, was arrested by the Bangladeshi army after PM Sheikh Hasina resigned amid student protests. President Shahabuddin ordered the release of those arrested between July 1st and August 5th, including former PM Kalithajia on corruption charges.
-
-🟩
-
-The army arrested Junaid Ahmed, the former minister of Bangladesh and leader of the Awami League.
-
-Prime Minister Sheikh Hasina resigned from his post yesterday and left the country in a one -month student protests in Bangladesh.. The army took the regime there.
-
-President Shahabuddin, who dissolved the country's parliament, has ordered the release of all arrested from July 1 to August 5.
-
-Moreover, the President yesterday ordered the release of the former Prime Minister Kalithajia in the case of corruption. He was released today.
-
-Meanwhile, the police have arrested Junaid Ahmed, the leader of the Awami League Party, who was the Minister of Information Technology in the Hasina Cabinet.
-
-◼️
-
-[Data](articles/3dd33e8a.json)
-
-[Extended Data](ext_articles/3dd33e8a.ext.json)
 
 ---

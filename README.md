@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 17:37:13**
+As of **2024-08-07 17:59:02**
 
 ## Newspaper Stats
 
-*Scraped **39,480** Articles*
+*Scraped **39,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,630
+adalk | 3,631
 adaderanalk | 4,588
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,956
+tamilmirrorlk | 4,959
 virakesarilk | 6,238
 adaderanasinhalalk | 6,689
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,479 (100.0%) of 39,480 articles have been extended.
+39,480 (100.0%) of 39,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### කුඩය ලකුණින් එන අපේක්ෂකයා මෙන්න
+
+*2024-08-07 17:08:26* · [`adalk`](https://www.ada.lk/breaking_news/කුඩය-ලකුණින්-එන-අපේක්ෂකයා-මෙන්න/11-411252) · `si`
+
+ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂක නීතීඥ නුවන් බෝපගේ මහතා ඉදිරි ජනාධිපතිවරණයට ‘කුඩය’ ලකුණින් ඉදිරිපත් වන බව අද(07දා) පැවසීය.
+
+◼️
+
+[Data](articles/42ac63c3.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -71,6 +83,18 @@ Two years later, his fans are celebrating this as the new information of the fil
 [Data](articles/01458664.json)
 
 [Extended Data](ext_articles/01458664.ext.json)
+
+---
+
+### நேபாள ஹெலி விபத்தில் 4 பேர் பலி
+
+*2024-08-07 16:35:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-ஹெலி-விபத்தில்-4-பேர்-பலி/50-341750) · `ta`
+
+தலைநகர் காத்மண்டுவில் இருந்து சீன பயணிகளுடன் சென்ற போது, நுவாகோட் மாவட்டத்தில் அது விபத்திற்குள்ளானது. இந்த விபத்தில் 4 பேர் உயிரிழந்துள்ளனர்.S
+
+◼️
+
+[Data](articles/6c0c5e5b.json)
 
 ---
 
@@ -352,15 +376,21 @@ Police further stated that he is a painter by profession and was reportedly invo
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-08-07 14:06:06* · [`adalk`](https://www.ada.lk/breaking_news/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/11-411250) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායමට එරෙහි තෙවැනි හා අවසන් එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් වුණේය.
+Sri Lanka's captain Charith Asalanka led his team to victory in the third and final One Day International (ODI) match against India, securing a significant win for Sri Lanka.
+
+🟩
+
+Sri Lanka captain Charith was able to win the Third and End ODI cricket match against the tourist Indian team.
 
 ◼️
 
 [Data](articles/f0351a11.json)
+
+[Extended Data](ext_articles/f0351a11.ext.json)
 
 ---
 
@@ -552,6 +582,20 @@ Jaffna joins Chennai with direct flights from Chennai as the 34th International 
 
 ---
 
+### யாழ்-சென்னை இடையே விமான சேவை
+
+*2024-08-07 13:05:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-சென்னை-இடையே-விமான-சேவை/175-341745) · `ta`
+
+யாழ்பாணத்திற்கும் சென்னைக்கும் இடையிலான விமான சேவை எதிர்வரும் செப்ரெம்பர் 1 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+
+யாழ்ப்பாணம் இண்டிகோவின் 34 வது சர்வதேச இலக்காக சென்னையில் இருந்து நேரடி விமானங்களுடன் இணைகிறது. R
+
+◼️
+
+[Data](articles/c9df103c.json)
+
+---
+
 ### Sinkaar for Hamas Leadership
 
 *2024-08-07 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199664) · `si`
@@ -681,6 +725,22 @@ It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorr
 [Data](articles/89cbf454.json)
 
 [Extended Data](ext_articles/89cbf454.ext.json)
+
+---
+
+### கப்பல் சேவை மீண்டும் ஆரம்பம்
+
+*2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-341742) · `ta`
+
+தமிழகத்தின் நாகபட்டினத்திலிருந்து யாழ். காங்கேசன்துறை வரையான கப்பல் சேவை அடுத்த வாரம் முதல் மீண்டும் ஆரம்பிக்கவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+கடந்த வருடம் ஆரம்பிக்கப்பட்ட பயணிகள் கப்பல் போக்குவரத்து சேவை பல முறை இடைநிறுத்தப்பட்ட நிலையில், அடுத்த வாரம் முதல் மீண்டும் கப்பல் சேவை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் அந்தமானில் இருந்து நாகை வந்த ‘சிவகங்கை கப்பல்’ நாளை இலங்கைக்கு சோதனை பயணமாக வருகை தரவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f8cda027.json)
 
 ---
 
@@ -2213,67 +2273,5 @@ In accordance with this gazette, any state corporation, state department, local 
 [Data](articles/8f4ff128.json)
 
 [Extended Data](ext_articles/8f4ff128.ext.json)
-
----
-
-### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
-
-*2024-08-07 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
-
-President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
-
-...
-
-[Data](articles/4933fe13.json)
-
-[Extended Data](ext_articles/4933fe13.ext.json)
-
----
-
-### Demise of Rajapaksa power and triumph of Rajapaksaism
-
-*2024-08-07 01:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Demise-of-Rajapaksa-power-and-triumph-of-Rajapaksaism/4-765215) · `en`
-
-The Rajapaksas have nothing to gain from a Ranil Wickremesinghe victory. He was never a Rajapaksa creature. He saved the Rajapaksas from popular fury and used their backing to implement his own politico-economic agenda. If he wins the Presidential election, he would go his way, irrespective of whether the Rajapaksas back him or not. So the Rajapaksas decided to cut their losses, a decision that makes sense from the perspective of familial power. For them, defeat and a stint in the opposition would be less ruinous than growing irrelevance under a victorious President Wickremesinghe. Their only way out was persuading President Wickremesinghe to publicly anoint Namal Rajapaksa as the next prime minister. They made the demand and he refused, because he is not Ranil Rajapaksa. With that correct refusal, the raison d’être of the Wickremesinghe-Rajapaksa alliance vanished
-
-– (Traditional proclamation made following the death of a monarch indicating the continuity of the monarchy)
-
-...
-
-[Data](articles/b675a0be.json)
-
-[Extended Data](ext_articles/b675a0be.ext.json)
-
----
-
-### College of General Practitioners of Sri Lanka celebrates 50 years
-
-*2024-08-07 01:00:29* · [`dailyftlk`](https://www.ft.lk/columns/College-of-General-Practitioners-of-Sri-Lanka-celebrates-50-years/4-765214) · `en`
-
-As the apex professional and academic organisation of general practitioners in Sri Lanka the CGPSL must always strive to be relevant to our profession and members to equip ourselves with the knowledge, skills and attitudes to provide quality primary curative care to our patients. The key point to remember in our progression towards our centenary is we must not revolve as a scientific discipline but must evolve for the benefit of our patients
-
-Look forward to knowledge but do not forget to look back for wisdom
-
-...
-
-[Data](articles/d454577d.json)
-
-[Extended Data](ext_articles/d454577d.ext.json)
-
----
-
-### Sri Lanka Podujana Peramuna  National Organizer Namal Rajapaksa to Contest Presidential Poll as Business Magnate Dhammika  Perera Withdraws from Presidential Election  as SLPP Candidate
-
-*2024-08-07 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84498) · `en`
-
-The ruling Sri Lanka Podujana Peramuna (SLPP) is set to announce its Presidential candidate today. Earlier in the week, party General Secretary Sagara Kariyawasam confirmed that the announcement would be made by SLPP leader Mahinda Rajapaksa at 7:30 a.m. at the SLPP head office on Nelum Mawatha.
-
-While the event was initially scheduled to take place at the foyer of the Nelum Pokuna Mahinda Rajapaksa Theatre, the venue was later changed to the party office for unexplained reasons. When asked about the change, Kariyawasam said the party felt the head office was the best venue to make such an announcement.
-
-...
-
-[Data](articles/2affb683.json)
-
-[Extended Data](ext_articles/2affb683.ext.json)
 
 ---

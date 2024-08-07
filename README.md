@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 07:51:05**
+As of **2024-08-07 08:15:38**
 
 ## Newspaper Stats
 
-*Scraped **39,406** Articles*
+*Scraped **39,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,619
+adalk | 3,620
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,942
@@ -26,107 +26,141 @@ adaderanasinhalalk | 6,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,398 (100.0%) of 39,406 articles have been extended.
+39,405 (100.0%) of 39,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ක්ලබ් වසන්ත ඝාතනයට තවත් සැකකරුවෙක් අල්ලයි
+### Another suspect arrested for killing Club Spring
 
 *2024-08-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199654) · `si`
 
-අතුරුගිරියේ ද්විත්ව ඝාතනයට අවශ්‍ය කර සිටි සැකකරුවෙකු බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect, aged 36 and residing in Dharga Town, has been arrested by the Western Province North Criminal Division in connection with a fatal incident at Club Spring. The arrest occurred near the Southern Expressway, and the suspect was found to be renting a house prior to committing the crime. He had also transported shooters and weapons from Ambalangoda to Athurugiriya. Further investigations are ongoing by the Athurugiriya Police.
 
-පොලීසිය සඳහන් කළේ, පසුගිය ජූලි මස 8 වන දින අතුරුගිරිය පොලිස් වසමේ දී ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු ඝාතනය කර තවත් සිව්දෙනෙකුට බරපතළ තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් මෙම සැකකරු අත්අඩංගුවට ගත් බවය.
+🟩
 
-ඒ අනුව ඝාතනවලට අනුබල දුන් සැකකරුව ඊයේ (06) දක්ෂිණ අධිවේගී මාර්ගයේ සේවා පියසේ දී අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත රැගෙන විත් ඇත.
+The Western Province South Criminal Division has been arrested by the Western Province North Criminal Division.
 
-අත්අඩංගුවට ගත් සැකකරු අවුරුදු 36ක් වූ දර්ගා නගරය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Police said that the suspect was arrested in connection with the injuries of the incident in the Athurugiriya police division on July 8.
 
-මෙම සැකකරු අපරාධයට පෙර සැකකරුවන්ට කුලී නිවසක් ලබාගැනීම හා අම්බලන්ගොඩ ප්‍රදේශයේ සිට වෙඩික්කරුවන් දෙදෙනා හා ආයුධ අතුරුගිරිය ප්‍රදේශයට රැගෙන යාමට කුලී වෑන් රථයක් සම්බන්ධ කර දී ඇති බවට අනාවරණය වී ඇත.
+Accordingly, the suspects were arrested at the Southern Expressway at the Southern Expressway and he was taken to the Athurugiriya Police.
 
-...
+The suspect is a resident of Dharga Town, 36.
+
+It has been revealed that the suspect obtains a rent home before crime and the two shooters and weapons from Ambalangoda to the Athurugiriya area.
+
+Officers in the Western Criminal Division of the Western Province have been taken into police custody and produced the bus to the Athurugiriya police station.
+
+Elemissions have been arrested so far in connection with the incident and the Athurugiriya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/dd14546e.json)
 
+[Extended Data](ext_articles/dd14546e.ext.json)
+
 ---
 
-### මනුෂ්‍ය ඝාතන දෙකක්
+### Two murders
 
 *2024-08-07 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199653) · `si`
 
-එරාවුර් පොලිස් වසමේ මිච්චිනගර් ප්‍රදේශයේ නිවසක පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+In Kurunegala, a 52-year-old from Eravur was killed with a sharp object. Separately, a 31-year-old from Warakapola was fatally attacked near Thummodara Kumari Ella in Hanwella.
 
-ඊයේ (06) රාත්‍රියේ මෙම ඝාතනය සිදුව ඇති අතර සිද්ධියෙන් මියගොස් ඇත්තේ අවුරුදු 52ක් වූ මිච්චිනගර්, එරාවුර් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-මේ අතර ඊයේ දහවල් කාලයේ හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේ දී ද පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර  තිබේ.
+A man was assaulted by a house in the Kurunegala area with a sharp instrument.
 
-සිද්ධියෙන් මියගොස් ඇත්තේ අවුරුදු 31ක් වූ නැව්ගල, වරකාපොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The victim was a resident of Eravur, Panchchinar, 52 years old.
+
+Meanwhile, a person has been attacked with a sharp instrument on the road to Thummodara Kumari Ella in Hanwella yesterday afternoon.
+
+The deceased has been identified as a resident of Warakapola, 31.
 
 ◼️
 
 [Data](articles/4787059a.json)
 
+[Extended Data](ext_articles/4787059a.ext.json)
+
 ---
 
-### බදියුදීන්ගේ සහාය කාට ද?
+### Who is the support of the Badiudeen?
 
 *2024-08-07 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199652) · `si`
 
-සමස්ථ ලංකා මහජන කොංග්‍රසය ඉදිරි ජනාධිපතිවරණයේදී සහාය ලබාදෙන අපේක්ෂකයා ලබන 14 වැනිදා ප්‍රකාශයට පත්කිරීමට තීරණය කර තිබේ.
+Rishad Bathiudeen, the party leader, announced that their party will support the upcoming Presidential Election, deciding on this during a meeting. They plan to finalize their stance by 10 am on the 14th, emphasizing the importance of supporting the current economy and returning to normalcy.
 
-එම පක්ෂයේ නායක රිෂාඩ් බදියුදීන් මන්ත්‍රිවරයා සඳහන් කළේ, පක්ෂයේ උත්තරීත මණ්ඩල රැස්වීමේ දී මෙම තීරණය ගත් බවය.
+🟩
 
-"අපේ පක්ෂයේ උත්තරීතර මණ්ඩලය පුළුල් සාකච්ඡාවක් කළා ජනාධිපතිවරණයේ දී කාට සහාය දෙන්න ඕනේ කියලා. ඒ අනුව අපි තීරණයකට ආවා ලබන 14 වෙනිදා උදේ 10ට අපේ අවසන් තීරණය තීන්දුව ගන්න. අපි දැනටත් සමගි ජන බලවේග සන්ධානයේ ඉන්න නිසා ඒ රැස්වීම්වලට අපි සහභාගී වෙනවා. ඒ වෙලාවේ දී සමගි ජන බලවේගය පක්ෂයට අපේ සහාය ලබාදෙන්න කියලා ඉල්ලීම් කරලා තියෙනවා. ඒ වගේම දැන්  ඉන්න ජනාධිපතිවරයාත් සහයෝගය ලබාදෙන්න කියලා අපිට ලියුමක් එවලා තියෙනවා. අපි කියන්නේ දැන් තියෙන ආර්ථිකය අපි ආරක්ෂා කරගන්න ඕනේ. ආපහු රිවස් ජියර් එකේ යන්න බෑ."
+The candidate who supports the entire Presidential Election has decided to declare on the 14th.
+
+The party leader Rishad Bathiudeen said that this decision was taken at the party's architecture board meeting.
+
+"Our party's supreme discussion was a wide discussion that everyone should support the presidential election. We decided to make our final decision at 10 am on the 14th morning. We will attend those meetings because we are still present. At that time, the reconciliation has requested the party to support the party. And we sent a letter to support the president. We say that we must protect the current economy. Return back in the Riveds Gier. "
 
 ◼️
 
 [Data](articles/974685c5.json)
 
+[Extended Data](ext_articles/974685c5.ext.json)
+
 ---
 
-### බංග්ලාදේශ අන්තර්වාර රජය ගැන ජනාධිපති කාර්යාලයෙන් නිවේදනයක්
+### Presidential Secretariat announced on Bangladesh interstanding government
 
 *2024-08-07 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199651) · `si`
 
-නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යුනුස් බංගලාදේශයේ අන්තර්වාර රජයක ප්‍රධාන උපදේශකවරයා ලෙස පත් කරන බවට ජනාධිපති කාර්යාලය නිවේදනය කර තිබේ.
+The Presidential Secretariat announced Nobel laureate Muhammad Yunus as the Chief Advisor for Bangladesh's interim government, following discussions between President Mohammed Shambiva and student leaders. This move comes after student protests against a potential military government, with Muhammad Yunus recognized for his contributions during challenging times. The President emphasized the need for an interim government to stabilize the country.
 
-විදෙස් වාර්තා සඳහන් කරනුයේ ජනාධිපති මොහොමඩ් ෂහාබුදීන් සහ සිසුන් කණ්ඩායමේ ප්‍රධානීන් අතර පැවති සාකච්ඡාවකදී මෙම තීරණය ගෙන ඇති බවය.
+🟩
 
-බංග්දේශ අගමාත්‍ය ෂීක් හසීනා රටින් පළා යාමත් සමඟ ශිෂ්‍ය නායකයින් හමුදා රජයක් පිළිනොගන්නා බවට ප්‍රකාශ කර තිබුණි.
+The Presidential Secretariat has announced that the Nobel Peace Prawardena is appointed as the Chief Advisor of a Interim Governor of Bangladesh.
 
-ඒ අනුව අන්තර්වාර පාලනයකට නායකත්වය දීමට යුනුස් මහතාගේ නම යෝජනා වී ඇති බව සඳහන්.
+This decision was taken at a meeting between President Mohammed Shambiva and the chiefs of the group of President Mohammed Shambiva and the students.
 
-මෙම තනතුර භාර ගැනීමට එකඟ වූ නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යුනුස් මහතා පවසා ඇත්තේ මෙම දුෂ්කර අවස්ථාවේදී සිසුන් කළ ඉල්ලීම ප්‍රතික්ශේප කළ නොහැකි බවය.
+With the fleeing of the Briscine Shiq Hasina, the student leaders had stated that they would not accept a military government.
 
-බංග්ලාදේශ ජනාධිපතිවරයා නිවේදනය කර ඇත්තේ රට ගොඩ ගැනීම සඳහා කඩිනමින් අන්තර්වාර රජයක් පිහිටුවීම අවශ්‍ය බවය.
+Accordingly, Mr. Unus' name has been proposed to lead a interim control.
+
+Nonbel Peace Peace Peace Peace Peace Licket Recipient Muhammad Yunus has said that students who had done at the difficult time were notable.
+
+The President of Bangladesh has announced that it is necessary to establish an interstate government to reclaim the country.
 
 ◼️
 
 [Data](articles/65df0670.json)
 
+[Extended Data](ext_articles/65df0670.ext.json)
+
 ---
 
-### පොහොට්ටුවේ තීරණාත්මක තීරණය තව සුළු මොහොතකින්
+### The decisive decision of the pouch is another moment in a moment
 
 *2024-08-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199650) · `si`
 
-අද (07) උදෑසන 7.00ට ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නිල වශයෙන් ප්‍රකාශයට පත්කිරීමට නියමිත බව සාගර කාරියවසම් මන්ත්‍රීවරයා පවසයි.
+MP Sabara Kariyawasam announced that the Sri Lanka General Front's presidential electoral candidate will be revealed at 7:00 AM today. Dhammika Perera, informed previously that he wouldn't run due to personal reasons, expressed gratitude for being considered as a candidate this year. MP Namal Rajapaksa is now set to be the candidate for the Sri Lanka Civil Appointment in the upcoming presidential election.
 
-මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකත්වයට ඉදිරිපත් නොවන බව ධම්මික පෙරේරා මහතා ඊයේ (06) දන්වා තිබුණි.
+🟩
 
-ඒ බව දන්වමින් පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා පක්ෂය මහ ලේකම්වරයා වෙත ලිපියක් යොමු කර ඇති බව සඳහන්ය.
+MP Sabara Kariyawasam says that the Presidential Electoral candidate for the Sri Lanka General Front is to be officially declared at 7.00 am today (07).
 
-එම ලිපියෙන් ධම්මික පෙරේරා මහතා ප්‍රකාශ කර ඇත්තේ පෞද්ගලික හේතුවක් මත ජනාධිපතිවරණ අපේක්ෂකත්වයට ඉදිරිපත් නොවන බවය.
+Dhammika Perera had been informed yesterday that the Sri Lankan General Front would not be contesting the Sri Lankan General Man.
 
-මෙවර ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස තමා යෝජනා කිරීම සම්බන්ධයෙන් පක්ෂ නායකත්වයට ස්තූතිය පළ කරන බවඳ ඔහු එහි සඳහන් කර තිබේ.
+Mr. Dhammika Perera has sent a letter to the Secretary-General.
 
-පවතින තත්ත්වය තුළ ඉදිරි ජනාධිපතිවරණයේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මන්ත්‍රීවරයා නම් කිරීමට නියමිත බව පක්ෂ ආරංචි මාර්ග පවසයි.
+Dhammika Perera has stated that Dhammika Perera has said that the presidential election candidate will not be contest for a personal reason.
+
+He has said that he thanked the party leadership as the candidate of the Sri Lanka Civil Appointment this year.
+
+MP Namal Rajapaksa is to be named as the candidate of the Sri Lanka Civil Appointment of the Presidential Election in the present situation.
 
 ◼️
 
 [Data](articles/ba67f0a2.json)
+
+[Extended Data](ext_articles/ba67f0a2.ext.json)
 
 ---
 
@@ -1312,6 +1346,22 @@ Next, 9 fishermen arrested on July 23 have already been submitted to the second 
 
 ---
 
+### පොහොට්ටුවේ අපේක්ෂකයා ධම්මිකද? නාමල්ද?
+
+*2024-08-06 20:13:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-අපේක්ෂකයා-ධම්මිකද--නාමල්ද-/11-411243) · `si`
+
+2024 ජනාධිපතිවරණයට ඉදිපත් කෙරෙන ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි අපේක්ෂකයාගේ නම ප්‍රකාශයට පත්කිරීම අද (07දා) පෙරවරු 7.30ට පමණ බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි එම පක්ෂ මූලස්ථානයේදී සිදුකිරීමට නියමිතය.
+
+ඒ අනුව එම පක්ෂයේ අපේක්ෂකයා ලෙස ව්‍යාපාරික ධම්මික පෙරේරා මහතාව ඉදිරිපත් කිරීමට ශ්‍රී ලංකා පොදුජන පෙරමුණ ඊයේ (06දා) දිනය වනතුරුම සැලසුම් කර තිබුණද ශ්‍රී ලංකා පොදුජන පෙරමු‍ණ නියෝජනය කරන අති බහුතරයක් වූ පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිස ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දීමට තීරණය කිරීම නිසා ධම්මික පෙරේරා මහතාගේ තීරණයේ වෙනසක් සිදුව ඇති බවද දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ අනුව ඊයේ රාත්‍රීවනතුරුම පොදුජන පෙරමුණේ අපේක්ෂකයා කවුරුන්දැයි යන්න පිළිබඳව දැඩි අර්බුදයක් පැවති අතර කෙසේ හෝ ව්‍යාපාරික ධම්මික පෙරේරා මහතාව ජනාධිපතිධුර අපේක්ෂකත්වයට ඉදිරිපත් කිරීමට එකඟ කරවා ගැනීමට පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා ඇතුළු පිරිස දැඩි වෙහෙසක් ගෙන තිබිණි.
+
+...
+
+[Data](articles/9a23e439.json)
+
+---
+
 ### Recovery of missing railway employee
 
 *2024-08-06 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190449) · `ta`
@@ -2211,23 +2261,5 @@ The International Media reported that America Naval Infrastructure has been incl
 [Data](articles/d3754df1.json)
 
 [Extended Data](ext_articles/d3754df1.ext.json)
-
----
-
-### Today in History: Hiroshima
-
-*2024-08-06 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190423) · `ta`
-
-On this day in 1945, the atomic bomb "Little Boy," dropped by the U.S., devastated Hiroshima, marking a horrific start to nuclear warfare.
-
-🟩
-
-The same date is the day when the Little Boy, the US -threatened bomb in 1945, caused the destruction of horror in Hiroshima, Japan.
-
-◼️
-
-[Data](articles/e126bea1.json)
-
-[Extended Data](ext_articles/e126bea1.ext.json)
 
 ---

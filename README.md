@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 08:36:04**
+As of **2024-08-07 08:55:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,670
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,407 (100.0%) of 39,412 articles have been extended.
+39,412 (100.0%) of 39,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,41 +48,55 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/57b43543.json)
 
+[Extended Data](ext_articles/57b43543.ext.json)
+
 ---
 
-### මංතීරු කඩකිරීම හේතුවෙන් අරුණ දර්ශන තරගාවලියෙන් ඉවතට
+### Aruna Vision Tournament due to lane lanes
 
 *2024-08-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199655) · `si`
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ  මීටර 400 පිරිමි ඉසව්වේ අවසන් පූර්ව වටයට සහභාගීවූ ශ්‍රී ලංකාවේ අරුණ දර්ශන මංතීරු නීති උල්ලංඝනය කර තිබීම හේතුවෙන් ඔහුගේ ප්‍රතිඵලය අහෝසි කර තිබේ.
+In the Paris Olympics, Sri Lanka's Aruna Pathlerology team competed in the 400mm event but were disqualified due to lane violations. Their performance, including a 44-second run, was notable, ranking them second after Sugath Tillekeratne.
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ  මීටර 400 පිරිමි ඉසව්වේ අවසන් පූර්ව වටයට ශ්‍රී ලංකාවේ අරුණ දර්ශන තරග වැදුණේ සිව්වැනි මංතීරුවේය.
+🟩
 
-සුවහසක් ශ්‍රී ලංකා ක්‍රීඩාලෝලීන්ගේ බලාපරෛාත්තුවත් සමඟ අරුණ දර්ශන ඊයේ රාත්‍රී 11.05ට පමණ ක්‍රීඩාංගණයට පිවිසියේය.
+The result has been abolished because of the 400mm in Sri Lanka's Aruna Pathlerology laws, which participated in the semi-round of the Paris Olympic Games.
 
-එම ඉසව්ව අවසන් කිරීමට අරුණ ගතකල කාලය තත්පර 44 යි දශම 7යි 5කි.
+Sri Lanka's Aruna sightsees competed in the semi-finals of the 400mm events in the Paris Olympics.
 
-එම කාලය අරුණගේ පෞද්ගලික හොඳම දක්ෂතාව ලෙස වාර්තා අතරට එක්වුණු අතර ඔහුගේ දක්ෂතාව දෙවැනි වුණේ සුගත් තිලකරත්නට පමණයි.
+Aruna footage along with the look forward to the wide of Sri Lanka Sports Flaners, Aruna footage was opened at the stadium around 11.05 pm.
 
-නමුත් එම තරගයේදී අරුණ, ධාවන මංතීරු නිති උල්ලංගණය කර තිබීම හේතුවෙන් අරුණගේ එම දක්ෂතාව අවලංගු කිරීමට තරග සංවිධායකයන් කටයුතු කළේය.
+Aruna time to end the event was 44 seconds and 7 decimals.
+
+The time was among the array of the array, and his talent was the second only Sugath Tillekeratne.
+
+However, the organizers of the competition organized to cancel the aforesaid talent due to the violation of the racing lanes in the match.
 
 ◼️
 
 [Data](articles/869db91b.json)
 
+[Extended Data](ext_articles/869db91b.ext.json)
+
 ---
 
-### பங்களாதேஷ் விருந்தகத்தில் தீ:  24 பேர் பலி
+### Fire at Bangladesh's Host: 24 killed
 
 *2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
 
-பங்களாதேஷின் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியைச் சேர்ந்த உறுப்பினர் ஒருவருக்குச் சொந்தமான விருந்தகத்திற்கு போராட்டக்காரர்கள் தீ வைத்துள்ளனர்.
+Protesters in Bangladesh set fire to a political party building, killing 24, including an Indonesian, linked to former PM Sheikh Hasina.
 
-இந்த தீ விபத்தில் இந்தோனேசிய பிரஜை உட்பட 24 பேர் உயிரிழந்துள்ளனர் என  தெரிவிக்கப்படுகின்றது.
+🟩
+
+The protesters set fire to a party belonging to a member of the party's former Prime Minister Sheikh Hasina.
+
+It is reported that 24 people, including the Indonesian citizen, were killed in the fire.
 
 ◼️
 
 [Data](articles/846d2c76.json)
+
+[Extended Data](ext_articles/846d2c76.ext.json)
 
 ---
 
@@ -218,21 +232,27 @@ MP Namal Rajapaksa is to be named as the candidate of the Sri Lanka Civil Appoin
 
 ---
 
-### டிரம்ப் உட்பட பலரை கொலை செய்ய திட்டம் - பாக்கிஸ்தானை சேர்ந்தவர் அமெரிக்காவில் கைது
+### Plan to kill many people, including Trump - arrested in the United States
 
 *2024-08-07 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190458) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பினை கொலை செய்ய திட்டமிட்ட குற்றச்சாட்டின் கீழ்; பாக்கிஸ்தானை சேர்ந்த நபர் ஒருவரை அமெரிக்க அதிகாரிகள் கைதுசெய்துள்ளனர்.
+A Pakistani man linked to Iran was arrested in the US for plotting to assassinate American politicians, including former President Donald Trump. Authorities claim he attempted to hire someone for this purpose, posing a threat to national security.
 
-அமெரிக்க அரசியல்வாதிகளை கொலை செய்ய திட்டமிட்டார் என ஈரானுடன் தொடர்புகளை கொண்டுள்ள பாக்கிஸ்தானை சேர்ந்த நபருக்கு  எதிராக அமெரிக்க அதிகாரிகள் குற்றச்சாட்டுகளை சுமத்தியுள்ளனர்.
+🟩
 
-அமெரிக்காவின் முக்கிய அதிகாரிகளை கொலைசெய்வதற்காக நபர் ஒருவரை அமர்த்துவதற்கு 46 வயது அசிவ் மேர்ச்சன்ட் முயன்றார் என அதிகாரிகள் குற்றம்சாட்டியுள்ளனர்.
+Under accusing the US to kill former President Donald Trump;US officials have arrested a man from Pakistan.
 
-பொதுஅதிகாரி,அல்லது அமெரிக்க பிரஜையை கொல்வதற்கான வெளிநாட்டு சதி எங்களின் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தலான விடயம் என எவ்பிஐயின் இயக்குநர்   தெரிவித்துள்ளார்.
+US officials have accused a Pakistani man who has links with Iran for his plan to kill US politicians.
+
+Authorities have alleged that 46 -year -old Aziv Merchand had tried to hire a person to kill major officials.
+
+The director of the UPI said that the foreign conspiracy to kill the public, or the US citizen is a threat to our national security.
 
 ◼️
 
 [Data](articles/e1bc0de2.json)
+
+[Extended Data](ext_articles/e1bc0de2.ext.json)
 
 ---
 
@@ -558,21 +578,27 @@ No one else has come forward to accept. So it is absolutely wrong to say that I 
 
 ---
 
-### වසර 45ක් ස්වේච්ඡාවෙන් දරුවන්ට පාර කියන අත්තම්මා
+### Attam, the road to children voluntarily 45 years
 
 *2024-08-07 02:08:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrjjvg1k4eo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සතියේ දිනවල පෙරවරු 6.00 සිට පස්වරු 3.00 පමණ වනතෙක් ඇය කෑගල්ල, බණ්ඩාරනායක ප්‍රාථමික විද්‍යාලය අසළ සිට සිය මෙහෙවර ඉටු කරන්නීය.
+For 45 years, Attam volunteers daily from 6 am to 3 pm near Kegalle and Bandaranaike Primary Schools, selflessly serving the community, especially children, earning her the nickname 'Garnam'. Her dedication exemplifies selflessness and commitment to child safety.
 
-වසර 45ක් පුරා ස්වේච්ඡාවෙන් 'දරුවන්ට පාර කියන අත්තම්මා' ලෙස ප්‍රසිද්ධියට පත් වූ ලිලී වයලට් බොහෝ දෙනාගේ ආදරය හිමිකර ගන්නීය.
+🟩
 
-සතියේ දිනවල පෙරවරු 6.00 සිට පස්වරු 3.00 පමණ වනතෙක් ඇය කෑගල්ල, බණ්ඩාරනායක ප්‍රාථමික විද්‍යාලය අසළ සිට සිය මෙහෙවර ඉටු කරන්නීය.
+She contains nothing here.Vite to the headline, weekdays from 6.00 am to 3.00 pm, she will play his mission near the Kegalle and Bandaranaike Primary School.
 
-දරුවන්ගේ ආරක්ෂාව වෙනුවෙන් වසර 45ක් අසීමිත කැප කිරීම් කළ, පරාර්ථකාමී මෙහෙවරක නිරත ලිලී වයලට් ආදර්ශවත් චරිතයක් ලෙස පාසල් පෙළ පොතකට ද ඇතුළත් කර තිබේ.
+Volunteering throughout 45 years, voluntarily, the love of many of the lily violets, which are known as 'Garnam'.
+
+During weekdays, she would take their mission near the Kegalle and Bandaranaike Primary School.
+
+The school also includes an exemplary character, an exemplary character, which has made 45 years of unlimited sacrifices for the safety of children.
 
 ◼️
 
 [Data](articles/bf084e7f.json)
+
+[Extended Data](ext_articles/bf084e7f.ext.json)
 
 ---
 

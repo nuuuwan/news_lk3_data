@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 09:20:52**
+As of **2024-08-07 09:36:29**
 
 ## Newspaper Stats
 
-*Scraped **39,419** Articles*
+*Scraped **39,423** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 336
+dbsjeyarajcom | 337
 newsfirstlk | 363
 bbccomsinhala | 371
 colombotelegraphcom | 376
@@ -16,9 +16,9 @@ islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
 adalk | 3,621
-adaderanalk | 4,576
+adaderanalk | 4,577
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,945
+tamilmirrorlk | 4,947
 virakesarilk | 6,233
 adaderanasinhalalk | 6,673
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,414 (100.0%) of 39,419 articles have been extended.
+39,414 (100.0%) of 39,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### இன்றைய காலநிலை குறித்த விசேட அறிவிப்பு
+
+*2024-08-07 09:12:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-குறித்த-விசேட-அறிவிப்பு/175-341734) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இந்தப் பிரதேசங்களில் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/e938d055.json)
+
+---
+
+### பங்களாதேஷ் இடைக்கால அரசின்  தலைவரானார் முகமது யூனுஸ்
+
+*2024-08-07 09:10:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-இடைக்கால-அரசின்-தலைவரானார்-முகமது-யூனுஸ்/50-341733) · `ta`
+
+பங்களாதேசில் இடைக்கால அரசாங்கத்தின் தலைவராக நோபல் பரிசு வென்ற முகமது யூனுஸ் நியமனம் செய்யப்பட்டுள்ளார்.
+
+வங்கதேசத்தில் விடுதலை போரில் பங்கேற்றவர்களின் குடும்ப உறுப்பினர்களுக்கு அரசு வேலையில் 30 சதவீத இடஒதுக்கீடு வழங்குவதை எதிர்த்து போராட்டம் வெடித்தது. இந்த போராட்டம் நாளடைவில் கலவரமாக மாறியது.
+
+இந்த கலவரத்தில் 100க்கும் மேற்பட்டோர் இறந்தனர். நிலைமை மோசமானதையடுத்து அந்நாட்டின் பிரதமராக இருந்த ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துவிட்டு, இந்தியாவில் தஞ்சமடைந்தார்.
+
+மேலும், இடைக்கால அரசு அமைப்பது குறித்து முப்படைகளின் தலைவர்கள் மற்றும் போராட்டத்தில் ஈடுபட்ட மாணவர் குழுக்களின் பிரிதிநிதிகள் கொண்ட 13 பேருடன் நேற்று ஜனாதிபதி பேச்சுவார்த்தை நடத்தியதைத் தொடர்ந்து, நோபல் பரிசு வென்ற பொருளாதார நிபுணர் முகமது யூனுஸ் இடைக்கால தலைவராக நியமிக்கப்பட்டார்.S
+
+◼️
+
+[Data](articles/32cb61e8.json)
+
+---
 
 ### இன்று கட்டுப்பணம் செலுத்துவாரா நாமல்?
 
@@ -41,6 +77,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5eef17c2.json)
+
+---
+
+### Namal Rajapaksa named Presidential Candidate of SLPP
+
+*2024-08-07 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101054/namal-rajapaksa-named-presidential-candidate-of-slpp) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) today officially announces its National Organiser MP Namal Rajapaksa as the party’s Presidential Candidate.
+
+The SLPP General Secretary, Sagara Kariyawasam announced this moments ago at the party’s headquarters in Nelum Mawatha.
+
+◼️
+
+[Data](articles/226e2cf6.json)
 
 ---
 
@@ -2135,77 +2185,5 @@ A bond maturing on 15.10.2030 closed at 12.80/90 percent, up from 12.75/85 perce
 [Data](articles/43406b26.json)
 
 [Extended Data](ext_articles/43406b26.ext.json)
-
----
-
-### Solve the Trincomalee Problem: Kukadasan MP
-
-*2024-08-06 16:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருக்கோணேச்சர-பிரச்சினையை-தீர்க்கவும்-குகதாசன்-எம்-பி/175-341697) · `ta`
-
-The Trincomalee Problem involves several issues including unauthorized shops damaging a historic temple's sanctity, land acquisition by the Forest Department affecting farmers, lack of modern fishing equipment for local fishermen, teacher and doctor shortages in the district, inadequate funding for education, healthcare infrastructure needs, sports development challenges, land acquisition by the Ports Authority impacting residents, and unclear divisional boundaries causing confusion.
-
-🟩
-
-The sanctity of the temple is damaged by the illegal shops in the environment of the temple and some anti -social activities here are here.. Therefore, it was unanimously decided at the 2019 District Coordinating Committee meeting that these shops should be relocated to a different location, but the conclusion has not yet been implemented.. Kukadasan also urged the decision to be implemented.
-
-Speaking at the conclusion of the House of Representatives, he said,
-
-Thirukonacharam is a historic sacred place where a large number of tourists come to the temple.. The illegal -built shops are a barrier to this. Moreover, these shops are harmful to the sanctity of the temple and some anti -social activities here. Therefore, it was unanimously decided at the 2019 District Coordinating Committee meeting that these shops should be relocated to a suitable place, but the decision has not yet been implemented.
-
-...
-
-[Data](articles/385eb138.json)
-
-[Extended Data](ext_articles/385eb138.ext.json)
-
----
-
-### The body of the missing railway worker found
-
-*2024-08-06 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199635) · `si`
-
-The bodies of two railway workers from Dematagoda were discovered.
-
-🟩
-
-The body of the employees of the Dematagoda was found.
-
-◼️
-
-[Data](articles/f2ee96d4.json)
-
-[Extended Data](ext_articles/f2ee96d4.ext.json)
-
----
-
-### Next Step in Bangladesh
-
-*2024-08-06 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199634) · `si`
-
-The Bangladesh protest ended with a reasonable job quota agreement. Prime Minister Sheikh Hasina fled to India after a military helicopter escape, later landing in Delhi. The Bangladesh army announced an interim government due to civil unrest, promising justice and peace. Curfews lifted, allowing schools, factories, and universities to reopen. This marks the second time since 2007 that Bangladesh has seen an interim government, following mass protests and political instability.
-
-🟩
-
-The end of Bangladesh protest was marked by a reasonable job quota.
-
-The Bangladesh student protesters had commenced a huge march called 'Machi Dhaka' yesterday (05), demanding Prime Minister Sheikh Haseani.
-
-Tens of thousands of protesters were taken to the Prime Minister's official quarters, but also the furniture, tyles, flowers, flowers, but also by Bangladesh television servicesBroadcast.
-
-Sheikh Hasean's founder, Bangladesh, Bangladesh found in the city of Dhaka, was hit by the huge metallic statue of Sheikh Mujiber Rahaman.
-
-Prime Minister Sheikh Haseanna had fled a military helicopter with his sister with his sister.
-
-Sheikh Hasana, who came to the Eastern border of Bangladesh, was later landed in an Indian Air Force base near the capital city of Delhi at a C-130 cargo.
-
-Indian National Security Advisor Ajith Dowal Sheikh Haseana had met India at the Hindon Air Force near New Delhi.
-
-However, the 'Times Num' had stated that Sheikh Hasana was going to London today (06).
-
-...
-
-[Data](articles/eea30493.json)
-
-[Extended Data](ext_articles/eea30493.ext.json)
 
 ---

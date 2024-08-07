@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 12:36:15**
+As of **2024-08-07 12:54:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,678
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,451 (100.0%) of 39,452 articles have been extended.
+39,452 (100.0%) of 39,452 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,19 +68,25 @@ The police said that the cause of the ice drug addicted and has not been reveale
 
 ---
 
-### மீண்டும் இலங்கை – இந்திய கப்பல் சேவை ஆரம்பம்
+### Sri Lanka - Indian Shipping Service
 
 *2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-இலங்கை-இந்திய-கப்பல்-சேவை-ஆரம்பம்/175-341742) · `ta`
 
-தமிழகத்தின் நாகபட்டினத்திலிருந்து யாழ். காங்கேசன்துறை வரையான கப்பல் சேவை அடுத்த வாரம் முதல் மீண்டும் ஆரம்பிக்கவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+The Indian shipping service between Jaffna and Nagapattinam, Tamil Nadu, plans to resume operations up to Kankesanthurai next week after several suspensions. Additionally, the Sivaganga ship from the Andaman Islands is set to arrive in Sri Lanka tomorrow.
 
-கடந்த வருடம் ஆரம்பிக்கப்பட்ட பயணிகள் கப்பல் போக்குவரத்து சேவை பல முறை இடைநிறுத்தப்பட்ட நிலையில், அடுத்த வாரம் முதல் மீண்டும் கப்பல் சேவை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும் அந்தமானில் இருந்து நாகை வந்த ‘சிவகங்கை கப்பல்’ நாளை இலங்கைக்கு சோதனை பயணமாக வருகை தரவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+Jaffna from Nagapattinam of Tamil Nadu. It has been announced that the shipping service up to Kankesanthurai will be resumed from next week.
+
+The passenger shipping service, which started last year, has been suspended several times, and the shipping service is expected to be launched from next week.
+
+It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorrow. Remble
 
 ◼️
 
 [Data](articles/89cbf454.json)
+
+[Extended Data](ext_articles/89cbf454.ext.json)
 
 ---
 

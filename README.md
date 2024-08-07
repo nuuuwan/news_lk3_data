@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 00:36:27**
+As of **2024-08-08 00:53:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,521 (100.0%) of 39,524 articles have been extended.
+39,524 (100.0%) of 39,524 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,19 +88,25 @@ Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) 
 
 ---
 
-### கேரள வயநாடு கிராமத்தை போன்று  பொன்னாவெளி, கௌதாரிமுனை கிராமம் அழிவடையும் - சிறிதரன் எச்சரிக்கை
+### Ponnaveli, Gautarimunai Village Like Kerala Wayanad Village - Sridharan Warning
 
 *2024-08-07 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190540) · `ta`
 
-கேரள மாநிலத்திலுள்ள வயநாடு கிராமம் அழிவடைந்ததை போன்று இலங்கையில் கிளிநொச்சி மாவட்டத்திலுள்ள பொன்னாவெளி,  கௌதாரிமுனை கிராமமும் அழிவடைந்து, இலங்கையின் வரைபடத்தில் இருந்து இல்லாமல் போகும் அபாயம் காணப்படுகிறது. பேரழிவை தடுக்க உரிய நடவடிக்கைகள் எடுக்கப்பட வேண்டும் என தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.சிறிதரன் சபையில் வலியுறுத்தினார்.
+Sridharan warns that the villages of Ponnaweli and Gautarimunai in Sri Lanka face a similar fate as Wayanad in Kerala, which recently vanished due to a natural disaster. He urges the council to act swiftly to prevent such a catastrophe, highlighting the need for unity and protection against both natural and artificial disasters.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இந்தியாவின் கேரள மாநிலத்தில் நூற்றுக்கணக்கான மக்கள் வாழ்ந்த வயநாடு தற்போது காணாமல் போயுள்ளது. 500க்கும் மேற்பட்ட குடும்பங்களை சேர்ந்தவர்களை காணவில்லை. ஒரே இரவில் நடந்த அனர்த்தத்தில் ஒரு ஊரே காணாமல் போயுள்ளது. ஊரை காணவில்லை,இங்கிருந்த மக்களை காணவில்லை என கதறி அழுதார்கள் , இணையத்தளங்களில் பார்த்தேன். மனிதனின் கண்டுபிடிப்புகள் இங்கே தோற்றுப்போயுள்ளன.
+As the village of Wayanad in Kerala has been destroyed, the village of Ponnaweli and Gautarimunai in Kilinochchi district in Sri Lanka is at risk of the absence of Sri Lanka's map.. The Tamil National Alliance (TNA) parliamentarian S. Siritharan urged the council to take appropriate measures to prevent the disaster.
+
+He said this while addressing the adjournment debate on the State State Statement Report of the Human Rights Report held in Parliament on Wednesday (07).
+
+Wayanad is currently missing in the state of Kerala, India. Missing more than 500 families. A town disappeared during the overnight disaster. The town was missing, the people were missing and wept, I saw on the websites. The inventions of man are lost here.
 
 ...
 
 [Data](articles/66b40636.json)
+
+[Extended Data](ext_articles/66b40636.ext.json)
 
 ---
 
@@ -476,19 +482,31 @@ The consignment of drugs is suspected to have been sent by the notorious drug tr
 
 ---
 
-### ஜனாதிபதிக்கு தற்போது ஆதரவு வழங்குபவர்கள் அவரை அதலபாதாளத்துக்கு தள்ளுவார்கள் -துஷார இந்துனில்
+### Those who are currently supporting the president will throw him to Adalabadal -in Dushara Hindu
 
 *2024-08-07 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190528) · `ta`
 
-1994 ஆம் ஆண்டு முதல் ஆட்சியில் இருந்த அரசாங்கங்களில் அமைச்சு பதவி வகித்தவர்கள்  தற்போது ஜனாதிபதி ரணில் விக்கிரமசிங்க பக்கம் சென்றுள்ளார்கள்.இவர்களுடன் ஜனாதிபதி எந்த இலக்கை நோக்கி பயணிக்க போகிறார் என்பதை அறியவில்லை.ஜனாதிபதியை அதளபாதாளத்துக்கு தள்ளி விட்டு தமக்கு சாதகமாக உள்ள பக்கம் தாவுவார்கள் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் துஷார இந்துனில் தெரிவித்தார்.
+Supporters of the current president are planning to transfer him to Adalabadal in Dushara Hindu. The government, led by President Ranil Wickremesinghe since 1994, faces uncertainty about its future direction. During a parliamentary debate on the 'Half Year State Stability Report,' Wickremesinghe mentioned an opponent's name related to alcohol but didn't reveal it publicly. This incident occurred in 1978 when JR Jayawardene implemented an open economic policy, leading to significant economic growth and Sri Lanka's high ranking in Asia's Human Resources Index until disruptions began in 1985.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடமிருந்து மதுபானசாலை அனுமதி பத்திரங்கள் பெற்றுக்கொண்ட  எதிரணியின் பெயர் விபரத்தை ஐந்து நிமிடங்களுக்குள் வெளியிடுவதாக மஹிந்தானந்த அளுத்கமகே குறிப்பிட்டார்.ஒரு மணித்தியாலம் கடந்தும் அவர் பெயர் பட்டியலை வெளியிடவில்லை.சபையிலும் அவரை காணவில்லை.பாராளுமன்ற சிறப்புரிமையில் இருந்துக் கொண்டு பொய்யுரைத்து சேறு பூசுவதை தவிர்த்துக் கொள்ள வேண்டும்.
+The government of the government that has been in power from 1994 has now gone to President Ranil Wickremesinghe. The President does not know which goal is going to go with them.
 
-...
+He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (07).
+
+President Ranil Wickremesinghe said that the name of the opponent's name from the liquor bar was issued within five minutes. He did not publish his name in the House after an hour. He was missing in the House.
+
+In 1978, JR Jayawardene introduced the open economic policy.
+
+In 1985, the export economy was 32 per cent and Sri Lanka was in the presence of Sri Lanka in Asia's Human Resources Index.. After that, the economic progress of the tribal policy was disrupted.
+
+President Ranil Wickremesinghe has now gone to President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/03fb065b.json)
+
+[Extended Data](ext_articles/03fb065b.ext.json)
 
 ---
 
@@ -722,19 +740,29 @@ Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 
 ---
 
-### பாதிக்கப்பட்ட தரப்பினர் குறித்து ஜனாதிபதி அவதானம் செலுத்தவில்லை : நிபந்தனைகளை நிச்சயம் மறுசீரமைப்போம் - ஹர்ஷ டி சில்வா
+### The president is not paying attention to the affected parties: the conditions will definitely reorganize - Harsha de Silva
 
 *2024-08-07 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190495) · `ta`
 
-பொருளாதாரம் மறுசீரமைக்கப்பட வேண்டும் என்ற நிலைப்பாட்டில் ஜனாதிபதி உள்ளார். இந்த நிலைப்பாட்டில் தான் நாங்களும் உள்ளோம். இருப்பினும் பொருளாதார நெருக்கடியில் பாதிக்கப்பட்டுள்ள தரப்பினர் குறித்து ஜனாதிபதி அவதானம் செலுத்தவில்லை. ஏற்றுக்கொள்ளப்பட்டுள்ள நிபந்தனைகளை  நிச்சயம் மறுசீரமைப்போம் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Dr. Harsha de Silva criticizes the President for ignoring affected parties amid an economic crisis, stating that conditions will be reevaluated. The President supports economic reorganization but hasn't addressed those impacted. De Silva also addresses false accusations against Madura Vidhanage and mentions the IMF's role during the 2022 crisis, suggesting Gotabhaya Rajapakse wouldn't have resigned had he been consulted. The government's 18% tax on essential foods is criticized as part of the economic reform, highlighting the need for a rethink on restructuring.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் ஒன்றிணைந்து எதிர்கால அரசியலில் ஈடுபடவுள்ளதால் பொதுஜன பெரமுனவின் உறுப்பினர் மதுர விதானகே என் மீது பொய்யான குற்றச்சாட்டுக்களை முன்னைக்கிறார்.ரணில் விக்கிரமசிங்கவுக்கு வாக்களியுங்கள் என்று இவர் எமது பிரதேச மக்களிடம் குறிப்பிட்டால் பிரதிபலன் எவ்வாறு அமையும் என்பதை நான் அறிவேன்.எவ்வாறு கட்சி மாறுகிறார்கள் என்பதை அறியவில்லை.
+The President is in the position that the economy should be reorganized. We are in this position. However, the president did not pay attention to the parties affected by the economic crisis. United People's Power MP Dr. Harsha de Silva said that we will definitely reconsider the accepted conditions.
+
+He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (07).
+
+Since President Ranil Wickremesinghe will unite with President Ranil Wickremesinghe, Mr. Madura Vidhanage, a member of the PA, is falsely accused of me.
+
+All members of the United National Party (UNP) have left with Sajith Pradeasa. We are acting in accordance with the policy of DS Senanayake.
+
+He (Madurai Vidhanage) mentions that I submit the X website record I posted on 2022.05.10. He did not submit that record.
 
 ...
 
 [Data](articles/a988e190.json)
+
+[Extended Data](ext_articles/a988e190.ext.json)
 
 ---
 

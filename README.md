@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 14:07:34**
+As of **2024-08-07 14:20:51**
 
 ## Newspaper Stats
 
-*Scraped **39,460** Articles*
+*Scraped **39,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 4,584
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
-adaderanasinhalalk | 6,681
+adaderanasinhalalk | 6,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,459 (100.0%) of 39,460 articles have been extended.
+39,460 (100.0%) of 39,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-08-07 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199668) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තුන්වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (07) පැවැත්වෙයි.
+
+කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක සමත් විය.
+
+එක්දින ක්‍රිකට් තරගාවලියේ මේ වනවිට තරග 1ට බින්දුවක් ලෙස ජයගනිමින් ශ්‍රී ලංකා කණ්ඩායම පෙරමුණේ පසුවෙයි.
+
+ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය කණ්ඩායමට එරෙහිව තරගාවලි ජයක් අවසානවරට ලබා ඇත්තේ, වසර 27කට පෙරය.
+
+◼️
+
+[Data](articles/ad72cfce.json)
+
+---
+
+### 13 හැවිරිදි දරුවෙක් අතුරුදන්
+
+*2024-08-07 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199667) · `si`
+
+අවුරුදු 13ක පිරිමි දරුවෙකු අතුරුදන් වී ඇති බවට පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
+
+පසුගිය මැයි 6 වන දින පුතා අතුරුදන් වූ බවට පියා විසින් පිළියන්දල පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත පිළියන්දල පොලිස් ස්ථානය විමර්ශන ආරම්භ කර ඇත.
+
+එලෙස අතුරුදන්ව ඇත්තේ අවුරුදු 13ක් වූ අංක 73, වවනවත්ත පාර, පිළියන්දල ප්‍රදේශයේ පදිංචිව සිටි මනෝහරන් ප්‍රදීප් යන දරුවෙකි.
+
+අතුරුදන් වූ දරුවාගේ ඡායාරූපය ඉහතින් දක්වා ඇති අතර, ඔහු සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත දුරකථන අංක ඔස්සේ දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/514bb381.json)
+
+---
 
 ### Never safeguarded anyone accused of corruption - President Ranil
 
@@ -45,6 +81,8 @@ Wickremasinghe further emphasised that he has never protected anyone accused of 
 ◼️
 
 [Data](articles/5dcbed2a.json)
+
+[Extended Data](ext_articles/5dcbed2a.ext.json)
 
 ---
 
@@ -2197,47 +2235,5 @@ Speaking at the event, Chief Minister Susil Premajayantha said that the Provinci
 [Data](articles/d2527a49.json)
 
 [Extended Data](ext_articles/d2527a49.ext.json)
-
----
-
-### Namal tipped to be named SLPP presidential candidate as Dhammika Perera pulls out
-
-*2024-08-06 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101049/namal-tipped-to-be-named-slpp-presidential-candidate-as-dhammika-perera-pulls-out-) · `en`
-
-Sri Lanka Podujana Peramuna ( SLPP ) MP Dhammika Perera has informed the party that he will not contest the 2024 Presidential Election as the SLPP candidate due to personal reasons, sources said.
-
-Hence, the party leadership has decided to name an alternate candidate.
-
-Meanwhile, SLPP National Organiser Namal Rajapaksa is tipped to be named as the party’s presidential candidate, according to SLPP sources.
-
-However, SLPP is slated to officially announce its Presidential Candidate tomorrow morning (07).
-
-Namal Rakapaksa will be the youngest candidate of this presidential poll if he contests.
-
-◼️
-
-[Data](articles/3c183b08.json)
-
-[Extended Data](ext_articles/3c183b08.ext.json)
-
----
-
-### Election complaints exceeding 100
-
-*2024-08-06 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199646) · `si`
-
-The number of election-related complaints has risen significantly since the last presidential election, according to the Elections Commission. From July 31, there have been 121 such complaints filed.
-
-🟩
-
-The number of elections complaints have increased in relation to the presidential election, says the Elections Commission.
-
-In a statement, 121 election related complaints have been reported from 31st July 31.
-
-◼️
-
-[Data](articles/7f2d730d.json)
-
-[Extended Data](ext_articles/7f2d730d.ext.json)
 
 ---

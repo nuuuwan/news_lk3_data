@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 18:16:33**
+As of **2024-08-07 18:28:56**
 
 ## Newspaper Stats
 
-*Scraped **39,484** Articles*
+*Scraped **39,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adaderanalk | 4,588
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,959
 virakesarilk | 6,238
-adaderanasinhalalk | 6,689
+adaderanasinhalalk | 6,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,484 (100.0%) of 39,484 articles have been extended.
+39,484 (100.0%) of 39,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් සංචිතයට කැඳවූ නිසල සහ මිලාන් ගැන දන්නවාද ?
+
+*2024-08-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199677) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ එංගලන්ත ටෙස්ට් ක්‍රිකට් තරගාවලිය සඳහා නම්කළ සංචිතයට මේ දක්වා ජාත්‍යන්තර තරග සඳහා ක්‍රීඩාකර නොමැති ක්‍රීඩකයින් දෙදෙනෙක් නම්කර තිබේ.
+
+කෙසේ නමුත් ඉන් නිසල තාරක තුන්ඉරියව් ක්‍රීඩකයෙකු ලෙසින්ද දස්කම් දක්වා තිබේ.
+
+ගාල්ල මහින්ද විද්‍යාලයෙන් ක්‍රිකට් ක්‍රීඩාවට අත්පොත් තැබූ නිසල මේ වනවිට 33 හැවිරිදි වියේ පසුවෙයි.
+
+ඔහු මේ දක්වා පළමු පෙළ තරග 107 (ඉනිම් 174)කට ක්‍රීඩාකර කඩුලු 257ක් බිඳහෙළා ඇත.
+
+ඉනිමක කඩුලු 05 හෝ ඊට වැඩියෙන් දවාගත් අවස්ථා 10කට හිමිකම් කියන නිසල, ලකුණු 50කට කඩුලු 07ක් ලෙසින් ඉනිමක හොඳම පන්දු යැවීම සනිටුහන් කර තිබේ.
+
+එමෙන්ම පළමුපෙළ ශතකයක් (ලකුණු 107) හා අර්ධ ශතක 11ක් අන්තර්ගත නිසලගේ පිතිකරණ දක්ෂතා අතර ලකුණු 2,358ක් වෙයි.
+
+මෙරට ප්‍රමුඛතම ක්‍රීඩා සමාජ කිහිපයක් වෙනුවෙන්ම ක්‍රීඩාකර නිසලගේ වත්මන් ක්‍රීඩා සමාජය වන්නේ කොළඹ එස්.එස්.සී. ක්‍රීඩා සමාජයයි.
+
+මේ අතර නිසල සමගින් ශ්‍රී ලංකා ටෙස්ට් සංචිතයේ ඉඩක් වෙන්කරගැනීමට සැරසෙන අනෙක් ක්‍රීඩකයා වන මිලාන් රත්නායක වාරියපොල ශ්‍රී සුමංගල විදුහලේ ආදි සිසුවෙකු වේ.
+
+...
+
+[Data](articles/920c1412.json)
+
+---
+
+### ඉන්දියාවට දුන් ඉලක්කය මෙන්න
+
+*2024-08-07 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199676) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තුන්වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (07) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක සමත් විය.
+
+ඒ අනුව පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 248ක් රැස් කළේය.
+
+එක්දින ක්‍රිකට් තරගාවලියේ මේ වනවිට තරග 1ට බින්දුවක් ලෙස ජයගනිමින් ශ්‍රී ලංකා කණ්ඩායම පෙරමුණේ පසුවෙයි.
+
+ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය කණ්ඩායමට එරෙහිව තරගාවලි ජයක් අවසානවරට ලබා ඇත්තේ, වසර 27කට පෙරය.
+
+◼️
+
+[Data](articles/50ad8ba9.json)
+
+---
 
 ### Here is the candidate that comes from the umbrella
 
@@ -2245,57 +2291,5 @@ Sri Lankan electors are awaiting a change from the status quo of a sluggish and 
 [Data](articles/4c4a99c4.json)
 
 [Extended Data](ext_articles/4c4a99c4.ext.json)
-
----
-
-### The Commission is looking for the hand
-
-*2024-08-07 01:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கையை-தேடுகிறார்-ஆணைக்குழு-தவிசாளர்/175-341720) · `ta`
-
-The Elections Commission of Sri Lanka has requested guidance from the Attorney General on how to proceed with the divided Sri Lanka Freedom Party (SLFP), which has split into factions backing different candidates for the upcoming elections. The SLFP's symbol, the hand, adds significance to this matter.
-
-🟩
-
-The Elections Commission has asked the Attorney General in writing to which section of the Sri Lanka Freedom Party should handle.
-
-The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the Commission would convene on the issue once the decision was received from the Attorney General.
-
-The Commission has decided to comment to the Attorney General as the issue of which side of the Sri Lanka Freedom Party (SLFP) should be accepted in the upcoming election duties.
-
-The Sri Lanka Freedom Party (SLFP) has now split into three teams: Maithripala Sirisena, Minister Nimal Siripala de Silva and Member of Parliament Dayasiri Jayasekara.
-
-While the party of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena is presenting a separate candidate in the presidential election, Minister Nimal Siripala de Silva's party is supporting President Ranil Wickremesinghe.
-
-Councilor Dayasiri Jayasekara's party has decided to support opposition leader Sajith Premadasa.
-
-...
-
-[Data](articles/406b4710.json)
-
-[Extended Data](ext_articles/406b4710.ext.json)
-
----
-
-### Electricity, fuel essential service
-
-*2024-08-07 01:23:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-எரிபொருள்-அத்தியாவசிய-சேவை/175-341719) · `ta`
-
-Electricity and fuel supplies are now deemed essential services, as declared in a special gazette signed by President Saman Ekanayake. This includes power supply, petroleum production, and fuel distribution, ensuring their continuity for daily life essentials.
-
-🟩
-
-A special gazette has been published to declare electricity and fuel supply as essential services.
-
-The gazette has been released with the signature of President Saman Ekanayake in accordance with the President's idea.
-
-Power supply, petroleum production and fuel supply have been declared as essential services.
-
-In accordance with this gazette, any state corporation, state department, local government, co -operative society or their branch has been declared as essential services for the daily life of the people.
-
-◼️
-
-[Data](articles/8f4ff128.json)
-
-[Extended Data](ext_articles/8f4ff128.ext.json)
 
 ---

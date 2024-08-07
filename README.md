@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 09:36:29**
+As of **2024-08-07 09:55:36**
 
 ## Newspaper Stats
 
-*Scraped **39,423** Articles*
+*Scraped **39,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
 adalk | 3,621
-adaderanalk | 4,577
+adaderanalk | 4,578
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,947
+tamilmirrorlk | 4,948
 virakesarilk | 6,233
 adaderanasinhalalk | 6,673
 
@@ -26,57 +26,109 @@ adaderanasinhalalk | 6,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,414 (100.0%) of 39,423 articles have been extended.
+39,423 (100.0%) of 39,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### இன்றைய காலநிலை குறித்த விசேட அறிவிப்பு
+### Another suspect arrested over ‘Club Wasantha’ murder
+
+*2024-08-07 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101055/another-suspect-arrested-over-club-wasantha-murder) · `en`
+
+A suspect wanted in connection with the shooting and killing of two individuals, including Surendra Wasantha Perera, also known as ‘Club Wasantha,’ has been apprehended by the Western Province (South) Crimes Division.
+
+The 36-year-old suspect, a resident of the Dharga Town, was arrested yesterday (06) at the Southern Expressway service area and then escorted to the Athurugiriya Police Station. He is accused of aiding and abetting in the murders.
+
+It has been revealed that before the crime was committed, the suspect in question had rented a house for the suspects and arranged a van to transport the two shooters and weapons from the Ambalangoda area to the Athurugiriya area.
+
+...
+
+[Data](articles/6c53fa47.json)
+
+---
+
+### ஏறாவூரில் வர்த்தகர் கழுத்தறுத்துக் கொலை
+
+*2024-08-07 09:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஏறாவூரில்-வர்த்தகர்-கழுத்தறுத்துக்-கொலை/73-341736) · `ta`
+
+ஏறாவூர் பொலிஸ் பிரிவுக்குட்பட்ட மிச்நகர் - ஹிஸ்புல்லாஹ் நகரில் வர்த்தகர் ஒருவர் நேற்றிரவு (6) சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+போதைப்பொருள் பாவனையாளர்கள் வர்த்தக நிலையத்தை கொள்ளையடிக்க வந்த நிலையில்தான் இந்த கொலை இடம்பெற்றுள்ளதாக பொலிஸாரின் விசாரணைகளின் போது தெரிய வந்துள்ளது.
+
+இந்த சம்பவத்தில் திருமணம் முடிக்காத நிலையில் கடை நடாத்தி வந்த 45 வயதுடைய தாவூத் என்பவர் கழுத்தறுக்கப்பட்டு கொலை செய்யப்பட்டுள்ளார்.
+
+இந்த கொலைச் சம்பவத்தில் தொடர்புடைய நபர்களை கைது செய்து சட்டநடவடிக்கை மேற்கொள்ள ஏறாவூர் பொலிஸார் நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/2c380d70.json)
+
+---
+
+### Special notification on today's climate
 
 *2024-08-07 09:12:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-குறித்த-விசேட-அறிவிப்பு/175-341734) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy rains forecasted for Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Elsewhere, expect rainfall or thundershowers in the evening/night. Some areas may receive over 50mm of rain. Thundershowers might cause temporary power outages. Public urged to prepare for potential lightning strikes.
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-இந்தப் பிரதேசங்களில் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+More than 50 mm of heavy rainfall is expected in some parts of these areas.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/e938d055.json)
 
+[Extended Data](ext_articles/e938d055.ext.json)
+
 ---
 
-### பங்களாதேஷ் இடைக்கால அரசின்  தலைவரானார் முகமது யூனுஸ்
+### Mohammed Yunus became the head of the interim government in Bangladesh
 
 *2024-08-07 09:10:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-இடைக்கால-அரசின்-தலைவரானார்-முகமது-யூனுஸ்/50-341733) · `ta`
 
-பங்களாதேசில் இடைக்கால அரசாங்கத்தின் தலைவராக நோபல் பரிசு வென்ற முகமது யூனுஸ் நியமனம் செய்யப்பட்டுள்ளார்.
+Mohammed Yunus, a Nobel laureate, was named head of Bangladesh's interim government amidst protests over a 30% reservation for liberation war participants' families, which escalated into riots killing over 100. This led to Prime Minister Sheikh Hasina's resignation and her seeking asylum in India.
 
-வங்கதேசத்தில் விடுதலை போரில் பங்கேற்றவர்களின் குடும்ப உறுப்பினர்களுக்கு அரசு வேலையில் 30 சதவீத இடஒதுக்கீடு வழங்குவதை எதிர்த்து போராட்டம் வெடித்தது. இந்த போராட்டம் நாளடைவில் கலவரமாக மாறியது.
+🟩
 
-இந்த கலவரத்தில் 100க்கும் மேற்பட்டோர் இறந்தனர். நிலைமை மோசமானதையடுத்து அந்நாட்டின் பிரதமராக இருந்த ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துவிட்டு, இந்தியாவில் தஞ்சமடைந்தார்.
+Nobel Prize winning Mohammed Yunus has been appointed as the head of the interim government in Bangladesh.
 
-மேலும், இடைக்கால அரசு அமைப்பது குறித்து முப்படைகளின் தலைவர்கள் மற்றும் போராட்டத்தில் ஈடுபட்ட மாணவர் குழுக்களின் பிரிதிநிதிகள் கொண்ட 13 பேருடன் நேற்று ஜனாதிபதி பேச்சுவார்த்தை நடத்தியதைத் தொடர்ந்து, நோபல் பரிசு வென்ற பொருளாதார நிபுணர் முகமது யூனுஸ் இடைக்கால தலைவராக நியமிக்கப்பட்டார்.S
+The protest erupted against the provision of 30 per cent reservation for the family members of those who participated in the liberation war in Bangladesh. The struggle eventually turned into a riot.
+
+More than 100 people died in this riots. After the situation, Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
+
+In addition, Nobel Prize -winning economist Mohammed Yunus was appointed interim chairman following a meeting with 13 people with 13 leaders of the leaders of the Armed Forces and the students who were involved in the struggle for the formation of the interim government.
 
 ◼️
 
 [Data](articles/32cb61e8.json)
 
+[Extended Data](ext_articles/32cb61e8.ext.json)
+
 ---
 
-### இன்று கட்டுப்பணம் செலுத்துவாரா நாமல்?
+### Will you control today?
 
 *2024-08-07 09:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கட்டுப்பணம்-செலுத்துவாரா-நாமல்/175-341732) · `ta`
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவு செய்யப்பட்டுள்ளார்.
+Namal Rajapaksa, a parliamentarian, has been chosen as the presidential candidate for Sri Lanka's People's Alliance (PA).
+
+🟩
+
+Parliamentarian Namal Rajapaksa has been elected as the Presidential candidate of Sri Lanka PA.
 
 ◼️
 
 [Data](articles/5eef17c2.json)
+
+[Extended Data](ext_articles/5eef17c2.ext.json)
 
 ---
 
@@ -92,51 +144,71 @@ The SLPP General Secretary, Sagara Kariyawasam announced this moments ago at the
 
 [Data](articles/226e2cf6.json)
 
+[Extended Data](ext_articles/226e2cf6.ext.json)
+
 ---
 
-### පොහොට්ටුවේ ජනපති අපේක්ෂකයා නාමල්
+### Namal is the President's candidate in Pohoth
 
 *2024-08-07 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199658) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනධිපතිවරණ අපේක්ෂයා ලෙස නාමල් රාජපක්ෂ මහතා නම් කර තිබේ.
+Namal Rajapaksa, son of former President Mahinda Rajapaksa, has been nominated as the presidential candidate for the Sri Lanka General Front. The announcement was made by General Secretary Sagara Kariyawasam at the party's Nelum Mawatha headquarters, with both Mahinda Rajapaksa and Basil Rajapaksa in attendance.
 
-නෙළුම් මාවත පක්ෂ මූලස්ථානයේ දී පක්ෂ මහ ලේකම් සාගර කාරියවසම් මහතා විසින් මීට ටික වේලාවකට පෙර ඒ බව නිවේදනය කළේය.
+🟩
 
-එම අවස්ථාවට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, බැසිල් රාජපක්ෂ යන මහත්වරුන් ඇතුළු පාක්ෂකයින් රැසක් සහභාගී වී සිටියහ.
+Namal Rajapaksa has been nominated as the President of the Sri Lanka General Front.
+
+At the party headquarters of Nelum Mawatha, the General Secretary Sagara Kariyawasam announced this.
+
+Former President Mahinda Rajapaksa and Basil Rajapaksa were present at the occasion.
 
 ◼️
 
 [Data](articles/ae7d7baf.json)
 
+[Extended Data](ext_articles/ae7d7baf.ext.json)
+
 ---
 
-### අත්‍යවශ ආහාර කිහිපයක මිල පරාස නිකුත් කරයි
+### The price ranges are issued in several essential food
 
 *2024-08-07 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199657) · `si`
 
-අත්‍යවශ්‍ය ආහාර ද්‍රව්‍යවල ඇස්තමේන්තු මිල පරාසයන් පිළිබඳව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරීය නිවේදනයක් නිකකුත් කර තිබේ.
+Estimated price ranges for essential food items have been announced.
+
+🟩
+
+An estimated announcement of the estimated price ranges of essential food items has been made.
 
 ◼️
 
 [Data](articles/d51b99c1.json)
 
+[Extended Data](ext_articles/d51b99c1.ext.json)
+
 ---
 
-### අමෙරිකාවේ ගුවන් අනතුරක්
+### Airspace in the United States
 
 *2024-08-07 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199656) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ ඔක්ලහෝමා නගරයේ දී ගුවන් යානයක් අනතුරට ලක්වීමෙන් පුද්ගලයින් සිව්දෙනෙකු මියගොස් තිබේ.
+A plane crash in Oklahoma, USA, killed four people. The cause remains unknown, occurring shortly after takeoff from Sundans Airport. An investigation is underway.
 
-විදෙස් වාර්තා සඳහන් කරනුයේ අනතුර සිදුවීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බවය.
+🟩
 
-ඔක්ලහෝමා නගරයේ පිහිටි සන්ඩාන්ස්  ගුවන් තොටුපලින් ගමන් ආරම්භ කර විනාඩි කිහිපයක් ඇතුළත මෙම අනතුර සිදුව ඇති බව වාර්තා වී තිබේ.
+Four persons were killed after a plane crashed in Oklahoma, USA.
 
-අනතුර සම්බන්ධයෙන් පරීක්ෂණක් එරට ජාතික ගමනාගමන ආරක්ෂණ මණ්ඩලය ආරම්භ කර ඇති බවත් සඳහන්.
+Foreign reporting states that the cause of the accident is yet to be determined.
+
+It has been reported that the accident had taken place within a few minutes of commencing the traveling airport in Sundans, Oklahoma.
+
+It is noted that an investigation has been launched into the accident.
 
 ◼️
 
 [Data](articles/a70b020d.json)
+
+[Extended Data](ext_articles/a70b020d.ext.json)
 
 ---
 
@@ -1798,19 +1870,25 @@ Accordingly, the Cabinet of Transport and Highways has been approved by the Cabi
 
 ---
 
-### 2023දී අධිවේගයේ වතකම් රු.මි. 913ක් සොරකම් කරලා
+### In 2023, the highway was Rs.. 913 stolen
 
 *2024-08-06 19:00:31* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අධිවේගයේ-වතකම්-රු-මි--913ක්-සොරකම්-කරලා/11-411238) · `si`
 
-අධිවේගි මාර්ගයන්හි  ඇති  වත්කම් ආරක්ෂාකරගැනීම සඳහා ප්‍රමාණවත්  ආරක්ෂක වැඩපිළිවෙළක් සකස්  නොකිරීම හේතුවෙන්  මෙකී මාර්ගයන්හි ඇති වයර්,තඹ කම්බි, ආරක්ෂිත වැටවල යකඩ , සාමාන්‍ය කම්බි හා දේපළ සොරකම් කිරීම සමග හානිවීම් වාර්තා වි ඇත. එම හානිවීම්වල වටිනාකම ඉකුත් වර්ෂයෙහි (2023)  රුපියල් මිලියන 913.17ක් බැව් ජාතික විගණන කාර්යාලය  මගින් නිකුත්කොට ඇති වාර්තාවක සඳහන් වේ.
+In 2023, Rs. 913 million was stolen from highways, including wire, copper wire, safety fences, and property damages due to inadequate security. The National Audit Office reported over Rs. 367,630 million was spent on building 367,630 km of highways with foreign funds, managed by the Road Development Authority.
 
-අධිවේගී මාර්ගවල රාජකාරි කරන  පොලිස් නිලධාරීන්ට පහසුකම් සැපයීම සඳහා වාර්ෂිකව වැයකරනු ලබන රුපියල් මිලියන 150ද ඇතුළුව රුපියල් මිලියන 2000කට වඩා වැඩි වියදමක් දරන බවද මෙකී වාර්තාවේ සඳහන් වේ.
+🟩
 
-එමෙන්ම දේශීය විදේශීය අරමුදල් භාවිත කරමින් රුපියල් මිලියන 767,630ක පමණ වටිනාකමකින් යුතු අධිවේගී මාර්ග කි.මි.312.6ක් ඉදිකොට ඇත. මෙම මාර්ගවල සියලුම පරිපාලන කටයුතු මාර්ග සංවර්ධන අධිකාරිය වෙත පවරා තිබේ.
+Damages have been reported with the wire, copper wire, safety fences of the wire, copper wire, protective wire and property due to the preparation of adequate security arrangements on high-speed roads.. According to a report issued by the National Audit Office of the National Audit Office (2023) in the last year.
+
+According to the report, more than Rs.
+
+Also, 367,630 km of highways was built in about Rs. 767,630 million worth of foreign funds.. All administrative activities of these roads have been handed over to the Road Development Authority.
 
 ◼️
 
 [Data](articles/5bcf417e.json)
+
+[Extended Data](ext_articles/5bcf417e.ext.json)
 
 ---
 
@@ -2141,49 +2219,5 @@ The Ministry has received complaints that a person who claims to be a trade unio
 [Data](articles/6f8a7e08.json)
 
 [Extended Data](ext_articles/6f8a7e08.ext.json)
-
----
-
-### “If Sheikh Hasina had done it long ago, she would still be PM” – President Ranil on Bangladesh crisis
-
-*2024-08-06 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101044/if-sheikh-hasina-had-done-it-long-ago-she-would-still-be-pm-president-ranil-on-bangladesh-crisis) · `en`
-
-President Ranil Wickremesinghe says that if ousted Bangladeshi Prime Minister Sheikh Hasina had released former PM Khalida Zia from jail long ago, she would still be the country’s Prime Minister.
-
-Addressing the Environmental, Social and Governance (ESG) Summit 2024 held in Colombo today (06), Wickremesinghe stated that he welcomes the fact that Khalida Zia had been released from jail.
-
-However, the Sri Lankan leader did offer some words of praise to Hasina, who has now fled the country, as she had offered assistance to Sri Lanka during the financial crisis.
-
-Speaking further he said: “Just think of the countries that are worse off than us. Think of a country like Bangladesh, which is in turmoil. I don’t want to speak about the politics of Bangladesh, a friendly country, but it had to erupt at some time.
-
-“While Sheikh Hasina has left, I still remember her because she gave us $200 million when we were really in need of money.”
-
-...
-
-[Data](articles/dde7148a.json)
-
-[Extended Data](ext_articles/dde7148a.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.10/20 to US dollar
-
-*2024-08-06 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-10-20-to-us-dollar-175582/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.10/20 to the US dollar on Tuesday, from 302.30/43 to the US dollar on Monday, dealers said, while bond yields were slightly up.
-
-A bond maturing on 15.12.2026 closed at 10.75/85 percent, up from 10.75/80 percent.
-
-A bond maturing on 15.12.2027 closed at 11.85/12.05 percent, up from 11.80/12.05 percent.
-
-A bond maturing on 15.09.2029 closed at 12.48/58 percent, up from 12.45/55 percent.
-
-A bond maturing on 15.10.2030 closed at 12.80/90 percent, up from 12.75/85 percent. (Colombo/Aug6/2024)
-
-◼️
-
-[Data](articles/43406b26.json)
-
-[Extended Data](ext_articles/43406b26.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 12:21:51**
+As of **2024-08-07 12:36:15**
 
 ## Newspaper Stats
 
-*Scraped **39,451** Articles*
+*Scraped **39,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,535
 adalk | 3,627
 adaderanalk | 4,581
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,953
+tamilmirrorlk | 4,954
 virakesarilk | 6,233
 adaderanasinhalalk | 6,678
 
@@ -26,33 +26,61 @@ adaderanasinhalalk | 6,678
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,450 (100.0%) of 39,451 articles have been extended.
+39,451 (100.0%) of 39,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ගම්පහ වෙඩි තැබීම් ගැන හෙළිදරව් වූ අලුත් කතාව
+### New story about Gampaha shootings
 
 *2024-08-07 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199663) · `si`
 
-ඊයේ (06) රාත්‍රියේ ගම්පහ, තම්මිට ප්‍රදේශයේදී හා ජාඇල මාකෙවිට ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීම් දෙකකින් පුද්ගලයන් දෙදෙනෙකු තුවාල ලබා රෝහල් ගතකළ බව පොලීසිය පවසයි.
+In Gampaha, two shootings occurred within hours: one in Nuwara Eliya's Thammey area and another in Gampaha's Marktewita area. Both involved victims on motorcycles, targeted by another vehicle. The victims included Ranga Jayanath, a 43-year-old painter accused of involvement in a cannabis and ice racket, and a 29-year-old from Kadawatha. Police suspect the shootings were related to drug dealings, with multiple teams investigating.
 
-මෙම වෙඩිතැබීම් දෙකම එකම වෙඩික්කරු විසින් සිදුකර ඇති බවට සැක කරන බව පොලීසිය සඳහන් කළේය.
+🟩
 
-ජා ඇල - මාකෙවිට ප්‍රදේශයේදී ඊයේ රාත්‍රී 7.40ට පමණ යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් තවත් යතුරුපැදියකින් ගමන් කරමින් සිටි අයෙකුට වෙඩි තබා පළාගොස් තිබුණි.
+Two shots were injured in two shots in the Thammey area in Nuwara Eliya and the Marktewita area in Gampaha last night.
 
-එලෙස ගම්පහ රෝහලට ඇතුළත් කෙරුණේ  43 හැවිරිදි රංග ජයනාත් හෙවත් කේ.ජී. මංජු නැමැත්තෙකි.
+The police said that both shotings were done by the same shooter.
 
-පින්තාරුකරුවකු ලෙස රැකියාව කරන ඔහු ගංජා  හා අයිස් මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් චෝදනා එල්ලවුවකු බව පොලීසිය පැවසුවේය.
+Two people who had come from a motorbike were shot dead by another motorcycle last night, Ja-Ela last night.
 
-එමෙන්ම ඔහු ඩුබායීහී සැඟව සිටින දිනේෂ් වසන්ත නම් මත්ද්‍රව්‍ය ජාවාරම්කරුගේ සමීපතමයෙක් ලෙසද සැලකෙන අතර,වෙනත් මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සම්බන්ධයෙන් ආරක්ෂක අංශවෙත ඔත්තු ලබාදුන් බව කියන සිදුවීමක් මෙම වෙඩි තැබීමට හේතුවී ඇතැයි සැකකෙරෙයි.
+The Gampaha hospital was admitted to the Gampaha Hospital, 43 year old Ranga Jayanath, KG. Manju was a Manju.
 
-අදාළ වෙඩි තැබීම සිදුකර පැය භාගයක කාලයක් ගතවීමට මත්තෙන් ඉන් කිලෝමීටර හතරක පමණ දුරකින් පිහිටි ගම්පහ තම්මිට ප්‍රදේශයෙන් තවත් වෙඩි තැබීමක් වාර්තා විය.
+As a painter, he was accused of accusing cannabis and ice racket.
+
+He is also considered a close friend of Dush Wasantha, Duthuwah, and is suspicious that the shooting is said to spy on other drug dealers regarding other drug dealers.
+
+It was about half an hour of shooting and another four-kilometer shooting was shooting from Thammei, Gampaha.
+
+According to police, two arrivals from a motorbike have targeted that shot of the other motorcycle.
+
+The 29 year old residents of Kadawatha in Kadawatha area.
+
+The police said that the cause of the ice drug addicted and has not been revealed.
 
 ...
 
 [Data](articles/894e7479.json)
+
+[Extended Data](ext_articles/894e7479.ext.json)
+
+---
+
+### மீண்டும் இலங்கை – இந்திய கப்பல் சேவை ஆரம்பம்
+
+*2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-இலங்கை-இந்திய-கப்பல்-சேவை-ஆரம்பம்/175-341742) · `ta`
+
+தமிழகத்தின் நாகபட்டினத்திலிருந்து யாழ். காங்கேசன்துறை வரையான கப்பல் சேவை அடுத்த வாரம் முதல் மீண்டும் ஆரம்பிக்கவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+கடந்த வருடம் ஆரம்பிக்கப்பட்ட பயணிகள் கப்பல் போக்குவரத்து சேவை பல முறை இடைநிறுத்தப்பட்ட நிலையில், அடுத்த வாரம் முதல் மீண்டும் கப்பல் சேவை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் அந்தமானில் இருந்து நாகை வந்த ‘சிவகங்கை கப்பல்’ நாளை இலங்கைக்கு சோதனை பயணமாக வருகை தரவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/89cbf454.json)
 
 ---
 
@@ -82,7 +110,9 @@ The agreement was signed by Sajith Premadasa, Leader of the Freedom Party (SLFP 
 
 A group of Sri Lanka Freedom Party (SLFP) members led by MP Dayasiri Jayasekara has signed an agreement with SJB presidential candidate Sajith Premadasa to support him in the upcoming Presidential Election.
 
-Dayasiri Jayasekara and SJB leader Sajith Premadasa signed the relevant Memorandum of Understanding (MoU).
+SLFP General Secretary Dayasiri Jayasekara and SJB leader Sajith Premadasa signed the relevant Memorandum of Understanding (MoU).
+
+However, the Sri Lanka Freedom Party (SLFP) group led by minister Nimal Siripala de Silva on July 31 met with President Ranil Wickremesinghe and expressed their support for his victory in the forthcoming presidential election.
 
 ◼️
 
@@ -2201,31 +2231,5 @@ Next, 9 fishermen arrested on July 23 have already been submitted to the second 
 [Data](articles/4b9972a6.json)
 
 [Extended Data](ext_articles/4b9972a6.ext.json)
-
----
-
-### Dhammika is the candidate of the pove?Namal?
-
-*2024-08-06 20:13:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-අපේක්ෂකයා-ධම්මිකද--නාමල්ද-/11-411243) · `si`
-
-Despite initial speculation, Dhammika Perera is not the Sri Lanka Care party's candidate for the 2024 presidential election. The party has instead chosen to back President Ranil Wickremesinghe. This decision comes after significant internal discussions, with the National Organizer playing a key role in securing the agreement of the general membership. The move reflects broader political dynamics, including concerns over potential crises affecting the party's standing.
-
-🟩
-
-The publication of the name of the candidate of the Sri Lanka Care, which will sit on the 2024 presidential election will be held at the party headquarters at Nelum Mawatha, Battaramulla around 7.30 am.
-
-Accordingly, Despite the vast majority of MP Dhammika Perera as the party's candidate, the Sri Lanka Cran's Front has decided to support President Ranil Wickremesinghe to assist President Ranil Wickremesinghe.According to political sources, the difference has happened.
-
-Accordingly, the National Organizer of the Khamman Kamman Kamadha had taken a lot of effort to agree to the general forest candidate at the Civil Aravana Peramuna.
-
-If Dhammika Perera is not contesting the presidential election, the National Organizer of the Civil Organizing General Secretary of the General Secretary of the CE.
-
-Meanwhile, the view of the Rajapaksa family members have been intense crisis and that the homage can be severely affected by the pointer.
-
-...
-
-[Data](articles/9a23e439.json)
-
-[Extended Data](ext_articles/9a23e439.ext.json)
 
 ---

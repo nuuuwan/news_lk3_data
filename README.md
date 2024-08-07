@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 01:55:05**
+As of **2024-08-08 02:06:16**
 
 ## Newspaper Stats
 
@@ -26,41 +26,59 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,525 (100.0%) of 39,527 articles have been extended.
+39,527 (100.0%) of 39,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ’ரணிலுடன் இணைந்த மொட்டுக்கள் அஞ்சுகின்றன’
+### Model Ranil
 
 *2024-08-08 01:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்த-மொட்டுக்கள்-அஞ்சுகின்றன/175-341770) · `ta`
 
-மொட்டுக் கட்சியில் இருந்து ரணிலிடம் சென்று சரணடைந்தவர்கள், அந்தக் கட்சியின் வேட்பாளராக நாமல் ராஜபக்‌ஷ அறிவிக்கப்பட்டதும் தங்களின் எதிர்காலம் என்னவாகுமோ என்று பயந்துபோய் இருக்கின்றனர் என்று ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+SM Marikar criticized those who joined Ranil from the Mottu party and Namal Rajapaksa, fearing their future under Namal's candidacy. He addressed Parliament, expressing concern over the government's financial state and allegations of corruption. The government is expected to present a proposal in Parliament, aiming for public satisfaction. However, Marikar suggested understanding the real situation by visiting local areas in Colombo. He also mentioned the ongoing investigation into alleged financial misdeeds, hinting at potential repercussions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) நடைபெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-மக்கள் நிம்மதியாக, மகிழ்ச்சியாக இருக்கின்றார்கள் என்ற நினைப்பிலேயே அரசாங்கம் இன்று இந்த பிரேரணையை பாராளுமன்றத்தில் முன்வைத்திருக்கும் என்று கருதுகின்றோம். ஆனால் அரசாங்கம் தூர இடங்களுக்கு செல்லத் தேவையில்லை. கொழும்பிலுள்ள சில இடங்களுக்கு சென்று பார்த்தால் நிலைமை உண்மையில் எப்படி இருக்கின்றது என்பதனை புரிந்துகொள்ள முடியும்.
+United People's Power MP SM Marikar said that those who surrendered to Ranil from the Mottu party and Namal Rajapaksa were afraid of what their future would be when Namal Rajapaksa was announced as the candidate of the party.
+
+He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (07).
+
+We think the government will present the proposal in Parliament today in the hope that people are happy and happy. But the government does not need to go to far away places. Going to some places in Colombo can understand how the situation really looks like.
 
 ...
 
 [Data](articles/8f03c675.json)
 
+[Extended Data](ext_articles/8f03c675.ext.json)
+
 ---
 
-### ’ஆடையின்றி புகழ்பாடுகிறனர்’
+### Praise
 
 *2024-08-08 01:11:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையின்றி-புகழ்பாடுகிறனர்/175-341769) · `ta`
 
-ரணில் விக்கிரமசிங்கவை சிறைக்கு அனுப்பும் வரை தூங்க மாட்டோம் என சூளுரைத்தவர்கள்  இன்று ஆடையில்லாமல்  ரணில் புகழ்பாடுகிறார்கள்.ஆனால் தமிழ் மற்றும் முஸ்லிம் மக்கள் அந்த நிலைக்கு செல்லமாட்டார்கள் சஜித் பிரேமதாசவுக்கு முழுமையான ஆதரவு வழங்குவார்கள்.அதன் மூலம் செப்டெம்பர் 22 ஆம் திகதி அரசாங்கத்தை பொறுப்பேற்போம் என ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான நளின் பண்டார தெரிவித்தார்.
+In a parliamentary address, criticism was aimed at Ranil Wickremesinghe, accusing him of ignoring conditions set by the opposition. Despite economic issues, the state remains affluent. The government was blamed for its handling of the crisis, with calls for leadership from Sajith Premadasa. Traditional parties support Rajapaksa, while Tamils and Muslims back Premadasa, who is expected to assume control soon.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-அரச  தரப்பின் பெரும்பாலானவர்கள் வங்குரோத்து நிலைக்கு மத்தியிலும் பெரும் பணக்காரர்களாகியுள்ளனர் .ஆகவே இவர்களின் சொத்து விபரங்களை ஆராய வேண்டும்.
+Ranil today is not as good as Ranil Wickremesinghe to be sent to the jail. But the Tamil and Muslim people will not go to that point.
+
+He said this while addressing the adjournment debate of the House on Wednesday (07) in Parliament.
+
+Most of the state side are rich despite the bankruptcy.
+
+The state government has accused the government of not taking responsibility for the government during the economic crisis in the country. The then President of the Opposition, Sajith Premadasa, called for the government to take charge of the government. We have put forward the conditions of the party.
+
+Ranil Wickremesinghe, who ignored our conditions, selected Ranil Wickremesinghe as the guardian of the Rajapaksa.
+
+Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil Wickremesinghe.. But members of the traditional PA and the Freedom Party, which are supportive of former President Mahinda Rajapakse, will not take an alternative political decision.
 
 ...
 
 [Data](articles/4bd4cda3.json)
+
+[Extended Data](ext_articles/4bd4cda3.ext.json)
 
 ---
 

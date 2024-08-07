@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 18:28:56**
+As of **2024-08-07 18:39:12**
 
 ## Newspaper Stats
 
-*Scraped **39,486** Articles*
+*Scraped **39,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,631
+adalk | 3,632
 adaderanalk | 4,588
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,959
@@ -26,55 +26,87 @@ adaderanasinhalalk | 6,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,484 (100.0%) of 39,486 articles have been extended.
+39,486 (100.0%) of 39,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් සංචිතයට කැඳවූ නිසල සහ මිලාන් ගැන දන්නවාද ?
+### Do you know about the Nagala and Milan called for the Sri Lanka Test squad?
 
 *2024-08-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199677) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ එංගලන්ත ටෙස්ට් ක්‍රිකට් තරගාවලිය සඳහා නම්කළ සංචිතයට මේ දක්වා ජාත්‍යන්තර තරග සඳහා ක්‍රීඩාකර නොමැති ක්‍රීඩකයින් දෙදෙනෙක් නම්කර තිබේ.
+Nagala and Milan, two uncapped international players, have been included in the Sri Lanka Test squad. Despite not having international experience, they are recognized for their domestic performances. Nagala, aged 33, boasts impressive statistics including 107 runs and 257 wickets, making him one of the top bowlers. Milan, a product of Sri Sumangala Vidyalaya, has shown promise with 633 runs and 79 wickets. Both players had a notable performance against the Afghan 'A' team, contributing significantly to Sri Lanka's victory.
 
-කෙසේ නමුත් ඉන් නිසල තාරක තුන්ඉරියව් ක්‍රීඩකයෙකු ලෙසින්ද දස්කම් දක්වා තිබේ.
+🟩
 
-ගාල්ල මහින්ද විද්‍යාලයෙන් ක්‍රිකට් ක්‍රීඩාවට අත්පොත් තැබූ නිසල මේ වනවිට 33 හැවිරිදි වියේ පසුවෙයි.
+Two players who have not played two players who have not played internationally.
 
-ඔහු මේ දක්වා පළමු පෙළ තරග 107 (ඉනිම් 174)කට ක්‍රීඩාකර කඩුලු 257ක් බිඳහෙළා ඇත.
+However, it is also taught as a star-starve player.
 
-ඉනිමක කඩුලු 05 හෝ ඊට වැඩියෙන් දවාගත් අවස්ථා 10කට හිමිකම් කියන නිසල, ලකුණු 50කට කඩුලු 07ක් ලෙසින් ඉනිමක හොඳම පන්දු යැවීම සනිටුහන් කර තිබේ.
+The 33-year-old is the only 33-year-old.
 
-එමෙන්ම පළමුපෙළ ශතකයක් (ලකුණු 107) හා අර්ධ ශතක 11ක් අන්තර්ගත නිසලගේ පිතිකරණ දක්ෂතා අතර ලකුණු 2,358ක් වෙයි.
+He has won the first 107 (irrig 174) and 257 wickets.
 
-මෙරට ප්‍රමුඛතම ක්‍රීඩා සමාජ කිහිපයක් වෙනුවෙන්ම ක්‍රීඩාකර නිසලගේ වත්මන් ක්‍රීඩා සමාජය වන්නේ කොළඹ එස්.එස්.සී. ක්‍රීඩා සමාජයයි.
+The best bowlers of 50 wickets in their innings have been bowled out for 50 wickets in their innings.
 
-මේ අතර නිසල සමගින් ශ්‍රී ලංකා ටෙස්ට් සංචිතයේ ඉඩක් වෙන්කරගැනීමට සැරසෙන අනෙක් ක්‍රීඩකයා වන මිලාන් රත්නායක වාරියපොල ශ්‍රී සුමංගල විදුහලේ ආදි සිසුවෙකු වේ.
+The first century is 2,358 runs among the shares of Nissala's battle of the first century and 11 half centuries.
+
+SSC is the current sports club that is playing for several Sri Lankan premier sports clubs. Sports club.
+
+Meanwhile, the other player is a foreign student of Sri Sumangala Vidyalaya in Wariyapola, the other player in the Test squad.
+
+Milan's first bowler in Colombo Morse Sports Club is 79 wickets in 39 wickets.
+
+His best bowlers in his innings is to burn five wickets for 36 runs.
+
+He is also a batsman who scored 633 runs with two fifties with two fifties.
 
 ...
 
 [Data](articles/920c1412.json)
 
+[Extended Data](ext_articles/920c1412.ext.json)
+
 ---
 
-### ඉන්දියාවට දුන් ඉලක්කය මෙන්න
+### Here is the target to India
 
 *2024-08-07 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199676) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තුන්වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (07) පැවැත්වෙයි.
+In today's match between Sri Lanka and India, Sri Lanka, after winning the toss, made 248 runs losing 7 wickets in 50 overs. This marks Sri Lanka's first victory over India in an ODI series after 27 years.
 
-එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක සමත් විය.
+🟩
 
-ඒ අනුව පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 248ක් රැස් කළේය.
+Sri Lanka and India will be held today (07).
 
-එක්දින ක්‍රිකට් තරගාවලියේ මේ වනවිට තරග 1ට බින්දුවක් ලෙස ජයගනිමින් ශ්‍රී ලංකා කණ්ඩායම පෙරමුණේ පසුවෙයි.
+Sri Lanka captain Charith won the toss and win the coin.
 
-ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය කණ්ඩායමට එරෙහිව තරගාවලි ජයක් අවසානවරට ලබා ඇත්තේ, වසර 27කට පෙරය.
+Accordingly, Sri Lanka scored 248 runs for the loss of 07 wickets at the end of 50 overs.
+
+Sri Lanka will be at the forefront of winning 1 matches in the ODI series.
+
+Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 
 ◼️
 
 [Data](articles/50ad8ba9.json)
+
+[Extended Data](ext_articles/50ad8ba9.ext.json)
+
+---
+
+### එංගලන්තයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් සංචිතය නම් කරයි
+
+*2024-08-07 17:19:38* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/11-411253) · `si`
+
+එංගලන්තයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් සංචිතය අද(07දා) නම් කරනු ලැබිණි.
+
+ධනංජයද සිල්වාගේ නායකත්වයෙන් සංචිතය සඳහා ක්‍රීඩකයන් 18 දෙනෙකු නම් කර ඇත.
+
+◼️
+
+[Data](articles/b1df88d4.json)
 
 ---
 
@@ -2275,21 +2307,5 @@ In this case, who is the Tamil general candidate?Members of the Tamil National A
 [Data](articles/6bf32168.json)
 
 [Extended Data](ext_articles/6bf32168.ext.json)
-
----
-
-### Presidential elections and Ranil’s crusade for economic revival
-
-*2024-08-07 01:33:47* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-elections-and-Ranil-s-crusade-for-economic-revival/4-765217) · `en`
-
-While it is too far-fetched for us to imagine reaching Indian standards, it consoles us to see RW taking some such initiatives in the current context under all odds he is handicapped with
-
-Sri Lankan electors are awaiting a change from the status quo of a sluggish and slow-moving economy towards a more seriously planned progress. With fresh memories of extreme hard time sufferings of the recent past, only palliatively handled with haphazard responses to meet emergency situations, the body politic is hopeful of a dawn of an economy progressing under a planned pursuit of a clear vision.
-
-...
-
-[Data](articles/4c4a99c4.json)
-
-[Extended Data](ext_articles/4c4a99c4.ext.json)
 
 ---

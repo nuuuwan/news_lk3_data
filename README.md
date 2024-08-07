@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 07:02:52**
+As of **2024-08-07 07:30:01**
 
 ## Newspaper Stats
 
-*Scraped **39,390** Articles*
+*Scraped **39,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ dbsjeyarajcom | 336
 newsfirstlk | 363
 bbccomsinhala | 370
 colombotelegraphcom | 376
-islandlk | 2,264
+islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,618
+adalk | 3,619
 adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,942
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,387 (100.0%) of 39,390 articles have been extended.
+39,390 (100.0%) of 39,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට අදත් වැසි
+### Showers in several areas today
 
 *2024-08-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199648) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers across Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya, Galle, Matara districts. Heavy rain warnings for over 50 areas in Eastern, Uva, Northern provinces tonight.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසනුයේ දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-නැගෙනහිර, ඌව සහ උතුරු පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් එහි සඳහන්.
+Several spells of showers can occur in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The department issues a statement that there will be showers during the evening or night in the rest of the island.
+
+Some areas in the East, Uva and Northern provinces. There will be more heavy rains in more than 50.
 
 ◼️
 
 [Data](articles/9bb1aed2.json)
+
+[Extended Data](ext_articles/9bb1aed2.ext.json)
 
 ---
 
@@ -246,23 +252,31 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 
 ---
 
-### இளம் தாய் மரணம்: சிலர் தவறிழைத்தமை அம்பலமானது
+### Death of Young Mother: Some people have failed
 
 *2024-08-07 02:49:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தாய்-மரணம்-சிலர்-தவறிழைத்தமை-அம்பலமானது/175-341728) · `ta`
 
-சிலர் தவறிழைத்தமையால், மன்னார் மாவட்ட பொது வைத்தியசாலையில்  பட்டதாரியான இளம் தாய் ஒருவர்  சிகிச்சை பலனின்றி பரிதாபமாக உயிரிழந்தமை அம்பலமானது.
+A young mother, Mariaraj Sindhuja, a graduate from Mannar District General Hospital, tragically passed away due to alleged negligence. The incident, which occurred on July 28, led to an investigation by the Independent Investigation Committee and the Union Health Ministry. The Northern Provincial Ministry of Health has also initiated actions based on the findings.
 
-இந்த சம்பவம் தொடர்பில் வடமாகாண சுகாதார அமைச்சின் செயலாளரினால் அமைக்கப்பட்ட சுயாதீன விசாரணை குழுவின் விசாரணை அறிக்கையில் மேற்படி விடயம் குறிப்பிடப்பட்டுள்ளது என மன்னார் மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் அஸாத் எம் ஹனீபா தெரிவித்துள்ளார்.
+🟩
 
-மன்னார்  - தம்பனைக்குளம்  பகுதியைச் சேர்ந்த 27 வயதான பட்டதாரியான மரியராஜ் சிந்துஜா என்ற தாய்,  மன்னார் மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பலனின்றி   உயிரிழந்தார்.   இந்த சம்பவம் ஜூலை 28ஆம் திகதி ஞாயிற்றுக்கிழமை     இடம் பெற்றுள்ளது.
+Due to the failure of some, a young mother, a graduate of the Mannar District General Hospital, died tragically.
 
-சம்பவ தினம் விடுதியில் இருந்தவர்களின் அசமந்த போக்கே குறித்த பெண்ணின் மரணத்துக்கு காரணம் என குற்றம் சுமத்தப்பட்டது.
+According to the Mannar District General Hospital Director Dr. Azad M Haneefa, said that the matter was mentioned in the investigation report of the Independent Investigation Committee set up by the Secretary of the Northern Provincial Ministry of Health.
 
-குறித்த மரணம் தொடர்பாக வடமாகாண சுகாதார அமைச்சினால் சுயாதீன விசாரணை குழு ஒன்று நியமிக்கப்பட்டு மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு வருகை தந்து துரித விசாரணைகளை முன்னெடுக்கப்பட்டது.
+Mariaraj Sindhuja, a 27 -year -old graduate from Mannar - Thampanikulam, died at the Mannar District General Hospital.The incident took place on Sunday, July 28.
+
+On the day of the incident, the woman was accused of the death of the woman in the hostel.
+
+An independent inquiry committee has been appointed by the Northern Provincial Ministry of Health to visit the Mannar District General Hospital.
+
+A special report has been sent to the Secretary of the Northern Provincial Ministry of Health for further measures.
 
 ...
 
 [Data](articles/98d9b4a1.json)
+
+[Extended Data](ext_articles/98d9b4a1.ext.json)
 
 ---
 
@@ -286,21 +300,31 @@ The Mayurapathi Sri Patrakali Amman Temple will be reached via Lawrence Street, 
 
 ---
 
-### பங்களாதேஷ் நிலைவரத்தை இலங்கையோடு ஒப்பிடுவது ஏன்?
+### Why compare Bangladesh with Sri Lanka?
 
 *2024-08-07 02:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-நிலைவரத்தை-இலங்கையோடு-ஒப்பிடுவது-ஏன்/175-341727) · `ta`
 
-பங்களாதேஷ் நிலைவரத்தை இலங்கையோடு ஒப்பிட்டு தொடர்ந்தும் கருத்துக்களை முன் வைப்பது ஏன்?  அதேபோன்று  இலங்கையிலும்  மீண்டும் நெருக்கடி ஏற்படும் என்றா  எதிர்க்கட்சியினர் கூற வருகின்றனர்? தவறான தீர்மானங்கள் மூலமே  மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை நாட்டில் அனைவரும் புரிந்து கொள்ள வேண்டும் என அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+Comparisons between Bangladesh and Sri Lanka highlight differences and similarities in economic recovery, governance, and political stability. Concerns over potential crises echo fears of mismanagement leading to past issues. Despite progress under President Ranil Wickremesinghe, questions persist about the sustainability of improvements and the need for continued vigilance against future crises.
 
-பாராளுமன்றத்தில்செவ்வாய்க்கிழமை (06)  இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு குறிப்பிட்ட அவர் மேலும் பேசுகையில்,
+🟩
 
-கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார்.
+Why continue to make comments comparing Bangladesh with Sri Lanka?Similarly, opposition parties say that there will be a crisis in Sri Lanka again?Minister Jeevan Thondaman said that everyone in the country should understand that the wrong decisions will only occur again.
 
-நாம் அதற்கு முன்பிருந்த பழைய நிலைக்கு வராவிட்டாலும் அதைவிட நல்லதொரு நிலைக்கு வர முடியும் என்ற நம்பிக்கை உருவாகியுள்ளது.
+Speaking at the adjournment debate on the issue of the problem caused by the construction of the Matara Nilwala Ganga, which was held in Parliament on 06th,
+
+No one believes that the last two years can be recovered from it. However, President Ranil Wickremesinghe has brought the country's economy to better.
+
+Even if we do not come to the forefront before it, there is hope that it can be better than that.
+
+President Ranil Wickremesinghe has done the same thing to think and act without feelings of feelings.
+
+Think about the situation and think about where we are.
 
 ...
 
 [Data](articles/b73c0bd5.json)
+
+[Extended Data](ext_articles/b73c0bd5.ext.json)
 
 ---
 
@@ -653,6 +677,84 @@ Aruna completes 44 seconds and 7 summories, reporting their personal best talent
 [Data](articles/3ae9e9ab.json)
 
 [Extended Data](ext_articles/3ae9e9ab.ext.json)
+
+---
+
+### World-renowned consumer electronics brand KONKA returns to Sri Lanka in partnership with FLiCo
+
+*2024-08-06 23:14:00* · [`islandlk`](http://island.lk/world-renowned-consumer-electronics-brand-konka-returns-to-sri-lanka-in-partnership-with-flico/) · `en`
+
+KONKA is a globally recognized brand known for its superior and innovative consumer electronics products. Through FLiCo network, a wide range of KONKA’s products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers across the country.
+
+On July 25th, a grand event and press conference was held at Galle Face Hotel to officially announce FLiCo, a Future Life Holdings subsidiary, as KONKA’s new distribution agent in Sri Lanka.
+
+...
+
+[Data](articles/d08376dc.json)
+
+---
+
+### Euromoney declares ComBank ‘Sri Lanka’s Best Bank for ESG’
+
+*2024-08-06 23:13:00* · [`islandlk`](http://island.lk/euromoney-declares-combank-sri-lankas-best-bank-for-esg/) · `en`
+
+The Commercial Bank of Ceylon has been proclaimed ‘Sri Lanka’s Best Bank for ESG’ at the 2024 edition of the Euromoney Awards for Excellence, generating international recognition for the Bank’s commitment to Environmental, Social and Governance (ESG) frameworks.
+
+The Euromoney Awards for Excellence are highly respected in the global banking industry, and represent the pinnacle of achievement for banks and bankers that set the standards in the Banking field around the world.
+
+The prestigious Euromoney award won by Commercial Bank recognizes the impact of numerous internal and external initiatives and processes implemented by the Bank to promote and monitor compliance with best practices of the ESG framework across the Bank’s network of branches.
+
+The Bank said it prioritises minimising environmental impact through energy-efficient operations, reducing its carbon footprint, and funding in renewable energy projects to support a greener future.
+
+...
+
+[Data](articles/cb74ecb9.json)
+
+---
+
+### Sri Lanka International Insurance Summit 2024 from August 12th to 14th
+
+*2024-08-06 23:12:00* · [`islandlk`](http://island.lk/sri-lanka-international-insurance-summit-2024-from-august-12th-to-14th/) · `en`
+
+The Insurance Association of Sri Lanka (IASL) presents the “Sri Lanka International Insurance Summit 2024,” from August 12th to 14th, 2024, at the Shangri-La Colombo. Recognized as one of the sector’s most anticipated events, this three-day symposium aims to connect Sri Lanka with the global insurance industry, showcasing abundant business opportunities in the region and fostering international investment.
+
+The summit will bring together local and international delegates, offering a unique platform for knowledge exchange, networking, and collaboration. The event will commence on the evening of August 12th with an inauguration ceremony and cocktails, followed by two full conference days on the 13th and 14th.
+
+The International Insurance Summit 2024 invites all to explore dynamic opportunities within Sri Lanka’s burgeoning insurance market and beyond. For more information or reservations, please visit https://sliis.lk/ or contact via email at info@sliis.lk
+
+...
+
+[Data](articles/95a8e68d.json)
+
+---
+
+### Dialog MyOffer unveils enhanced AI-powered offers for personalised user experiences
+
+*2024-08-06 23:11:00* · [`islandlk`](http://island.lk/dialog-myoffer-unveils-enhanced-ai-powered-offers-for-personalised-user-experiences/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has announced significant enhancements to its MyOffer service. The rewards platform, launched to provide subscribers with exclusive offers and benefits, will now feature flash offers and offers on most popular Blaster plans, aimed at delivering greater value and personalised benefits to customers. This development underscores Dialog’s commitment to innovation and customer-centric solutions in the telecommunications sector, leveraging advanced AI technology to cater to diverse customer needs.
+
+Along with existing benefits such as call and data offers, Dialog Mobile customers can now enjoy flash offers, refreshed daily, that provide personalised data plans, alongside attractive offers on popular Blaster plans such as Unlimited Blaster, Fun Blaster, Call Blaster, and Triple Blaster. Additionally, Dialog Home Broadband customers will also benefit from exclusive data offers on top of their Wi-Fi plans.
+
+...
+
+[Data](articles/02d9aa58.json)
+
+---
+
+### Bourse in erratic mode as negative investor sentiment takes hold
+
+*2024-08-06 23:09:00* · [`islandlk`](http://island.lk/bourse-in-erratic-mode-as-negative-investor-sentiment-takes-hold/) · `en`
+
+The stock market yesterday plunged initially but subsequently recovered somewhat though investor sentiment remained wary amid low turnover. However, active participation of bargaining hunters was a notable feature of later trading, market analysts said.
+
+Amid those developments both indices moved up. The All Share Price Index went up by 42 points while S and P SL20 rose by 20.7 points. Turnover over stood at Rs 582 million sans any crossings.
+
+In the retail market companies that mainly contributed to the turnover were; JKH Rs 160.6 million (897,000 shares traded), Vallibel One Rs 35.5 million (820,000 shares traded), NTB Rs 35.3 million (294,000 shares traded), Commercial Bank Rs 25.5 million (286,000 shares traded), Central Bank Rs 23.7 million (225,000 shares traded), Sunshine Holdings Rs 21.7 million (361,000 shares traded) and Browns Investments Rs 19.4 million (3.8 million shares traded). During the day 24.3 million share volumes changed hands in 7199 transactions.
+
+...
+
+[Data](articles/5a77d7c4.json)
 
 ---
 
@@ -1183,6 +1285,20 @@ The Ministry said that the Ministry has received complaints that false propagand
 [Data](articles/da6178df.json)
 
 [Extended Data](ext_articles/da6178df.ext.json)
+
+---
+
+### කෝකිලා රවීගෙන් කොන්දේසි විරහිතව සමාව ගනියි
+
+*2024-08-06 19:23:20* · [`adalk`](https://www.ada.lk/breaking_news/කෝකිලා-රවීගෙන්-කොන්දේසි-විරහිතව-සමාව-ගනියි/11-411242) · `si`
+
+රූපවාහිනී නාලිකාවක දේශපාලන සංවාද වැඩසටහනකදී කළ ප්‍රකාශයකින් යම් අපහාසයක් හෝ අගතියක් වූවා නම් හිටපු මුදල් අමාත්‍ය රවී කරුණානායක මහතාගෙන් පොදුජන එක්සත් පෙරමුණ පාර්ලිමේන්තු මන්ත්‍රීනී කෝකිලා ගුණවර්ධන මහත්මිය කොන්දේසි විරහිතව සමාව අයැදීම හේතුවෙන් ඇයට එරෙහිව පවරා තිබු වන්දි නඩුව කොළඹ අතිරේක දිසා විනිසුරු චන්දිම එදිරිමාන්න මහතා අද (06දා) සමථයකට පත් කළේය.
+
+රූපවාහිනි සාකච්ඡාවේදී කළ ප්‍රකාශය වැරදි බව තේරුම් ගන්නා බවත්, ඒ සම්බන්ධයෙන් පැමිණිලිකාර රවී කරුණානායක මහතාගෙන් කොන්දේසි විරහිතව සමාව අයැදින බවත් කෝකිලා ගුණවර්ධන මහත්මිය සඳහන් කිරීම නිසා රුපියල් බිලියන දෙකක වන්දියක් ඉල්ලා පවරා තිබු නඩුව සමථයකට පත් කළ දිසා විනිසුරුවරයා රුපියල් 10,000/-ක මුදලක් ලංකා පිළිකා රෝහලේ අරමුදලට පරිත්‍යාග කිරීමටද අවසර දුන්නේය.
+
+...
+
+[Data](articles/4cc51ffe.json)
 
 ---
 
@@ -2105,147 +2221,5 @@ The reforms support independent and financially sustainable electricity utilitie
 [Data](articles/0970e86a.json)
 
 [Extended Data](ext_articles/0970e86a.ext.json)
-
----
-
-### Parliament dissolved parliament in Bangladesh
-
-*2024-08-06 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199630) · `si`
-
-Bangladesh's Parliament has been dissolved, as reported by foreign media, with the announcement coming from the President's office.
-
-🟩
-
-Foreign media reports that this was announced that the Bangladesh president's office was announced.
-
-◼️
-
-[Data](articles/4ad3ff0d.json)
-
-[Extended Data](ext_articles/4ad3ff0d.ext.json)
-
----
-
-### Who set fire to the school's music room?
-
-*2024-08-06 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199629) · `si`
-
-A fire in a school's music room in Anamaduwa was caused by two students, including an 8th grader. The blaze was contained, preventing spread to other buildings. Investigations are ongoing to determine the cause, with one theory suggesting a stone thrown through a window started the fire.
-
-🟩
-
-The police have questioned a student of a 8th grade student in the same school regarding the burn of a school room in Anamaduwa area.
-
-In addition to the student, another student was also involved in the student.
-
-The music unit of this school had been destroyed by a fire which was able to prevent it from spreading it to other buildings.
-
-Police also commenced investigations into whether the fire would be a burst or a fire.
-
-It is revealed that a schoolgirl had come to the school premises behind the safe fence behind the school.
-
-Further information made by the police intelligence officers from the student was found that the bread was broken down by a stone room in the music.
-
-When inquired by a high-ranking official of the Anamaduwa police, he said that the incident was being questioned about the incident.
-
-Anamaduwa Police officers are due to be taken to court today (06) to seek advice from the Judiciary before the suspected student and his friend.
-
-◼️
-
-[Data](articles/6d7a29c1.json)
-
-[Extended Data](ext_articles/6d7a29c1.ext.json)
-
----
-
-### Bill to reactivate Sri Lanka’s provincial councils taken up for second reading
-
-*2024-08-06 14:58:00* · [`economynextcom`](https://economynext.com/bill-to-reactivate-sri-lankas-provincial-councils-taken-up-for-second-reading-175480/) · `en`
-
-ECONOMYNEXT — A bill to reactivate Sri Lanka’s provincial councils was taken up for second reading and was adopted with a division in parliament.
-
-Opposition Tamil National Alliance (TNA) parliamentarian M A Sumanthiran, who presented the bill, tweeted on Tuesday August 06 that the the bill has been referred to the legislative standing committee.
-
-“My bill to reactivate the Provincial Councils was taken up for 2nd reading and adopted without a division. It is referred to the legislative standing committee where the suggestion of the Supreme Court will be accepted and come back to the House to be adopted at the third reading,” he said. (Colombo/Aug06/2024)
-
-◼️
-
-[Data](articles/9f909582.json)
-
-[Extended Data](ext_articles/9f909582.ext.json)
-
----
-
-### Sheikh Hasina - the symbol of democracy - became aotalist
-
-*2024-08-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190403) · `ta`
-
-Sheikh Hasina, a symbol of democracy in Bangladesh, resigned amid national unrest following student deaths. Fleeing to India, her rule unexpectedly ended after being besieged in Dhaka. Known for economic development but criticized for authoritarianism and human rights abuses, Hasina leaves a mixed legacy.
-
-🟩
-
-Sheikh Hasina has resigned from the country after the deaths of students have become very nationally unrest.
-
-76 -year -old Sheikh Hasina has fled to India in a helicopter, reports say.
-
-It took place when thousands of civilians besieged his official gate in the capital, Dhaka.
-
-This has unexpectedly ended the Prime Minister's rule of Bangladesh. Prime Minister Hasina has been in office since 2009 and has ruled the country for more than 20 years.
-
-He is proud to have been responsible for the economic development of the South Asian country in recent years, and Hasina began her political career as a symbol of a democratic fighter.
-
-However, for the past few years, he has been becoming an author of the authority and has been accused of suppressing any opposition against his regime.. Her regime has increased many abuse, including political -purpose arrests, disappearance, and illegal assassinations.
-
-He won for the fourth time in the election in January and conquered Aadi.
-
-...
-
-[Data](articles/b17c371a.json)
-
-[Extended Data](ext_articles/b17c371a.ext.json)
-
----
-
-### Psychic team support for Sajith
-
-*2024-08-06 14:31:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-அணி-சஜித்துக்கு-ஆதரவு/175-341692) · `ta`
-
-The Tamil Progressive Alliance endorses Sajith Premadasa for president, signaling significant support ahead of the election.
-
-🟩
-
-The Tamil Progressive Alliance has decided to support the presidential candidate Sajith Premadasa in the upcoming presidential election.
-
-◼️
-
-[Data](articles/336d65fa.json)
-
-[Extended Data](ext_articles/336d65fa.ext.json)
-
----
-
-### Petition against the increase in the estate workers
-
-*2024-08-06 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199628) · `si`
-
-Estate companies withdrew a petition against a labor minister's gazette notification increasing estate workers' wages. The case was heard by the Court of Appeal, where it was represented by Romesh de Silva on behalf of 21 plantation companies.
-
-🟩
-
-A Rit petition filed by 21 estate companies withdrawn before the Court of Appeal today (06).
-
-The petitions were filed demanding a decomposition of the gazette notification issued by Labor Minister Manusha Nanayakkara by increasing the estate workers' waves.
-
-The case was called before the Court of Appeal Judge of Sobhuthya today.
-
-Romesh de Silva, who appeared in the court, appeared before the court and 21 plantation companies, asking for 21 plantation companies.
-
-President's Counsel Faizer Mustafa had previously informed him that the Assistant Minister of Labor had been removed by the Labor Notification issued by the Minister of Plantation Workers.
-
-◼️
-
-[Data](articles/d64a0806.json)
-
-[Extended Data](ext_articles/d64a0806.ext.json)
 
 ---

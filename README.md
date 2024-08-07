@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 20:36:29**
+As of **2024-08-07 20:55:13**
 
 ## Newspaper Stats
 
-*Scraped **39,496** Articles*
+*Scraped **39,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,106 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,633
+adalk | 3,634
 adaderanalk | 4,589
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,960
 virakesarilk | 6,243
-adaderanasinhalalk | 6,692
+adaderanasinhalalk | 6,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,495 (100.0%) of 39,496 articles have been extended.
+39,496 (100.0%) of 39,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### எதையும் எதிர்பார்த்து கைச்சாத்திடவில்லை ; சஜித்
+### වසර 27කින් නොලැබුණු සුපිරි ජයක් ශ්‍රී ලංකාවට
+
+*2024-08-07 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199680) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම පරාජය කර තෙවැනි හා අවසන් එක්දින ක්‍රිකට් තරගයෙන්ද ලකුණු 110ක විශිෂ්ට ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ අද (07) පැවැති මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහරදී ලබාදුන් ලකුණු 249ක ඉලක්කයට පිළිතුරු ලෙස ඉන්දීය කණ්ඩායමට පන්දුවාර 26.1කදී සියලුදෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 138ක් පමණි.
+
+ඒ අනුව තරග තුනකින් යුත් මෙම තරගාවලියේ පළමු තරගය ලකුණු සමව අවසන් වුවත්, ඉතිරි තරග දෙකම ජයගැනීමට ශ්‍රී ලංකාවට හැකිවිය.
+
+ශ්‍රී ලංකා කණ්ඩායම ලැබූ මෙම තරගාවලි ජය සැලකෙන්නේ, ඔවුන් ඉන්දියාවට එරෙහිව වසර 27කට පසු ලැබූ පළමු තරගාවලි ජය ලෙසය.
+
+මීට පෙර ඔවුන් එක්දින තරගාවලියකදී ඉන්දීය කණ්ඩායම පරාජය කර තිබුණේ 1997 වසරේදී වූ අතර, එවර ඔවුන් තරග 3-0කින් ඉන්දියාව පරාජය කර තිබුණි.
+
+අද තරගයේදී සුපිරි පන්දු යැවීමක නිරත වූ දුනිත් වෙල්ලාලගේ සිය එක්දින දිවියේ හොඳම පන්දු යැවීම සනිටුහන් කරමින් ලකුණු 27කට කඩුලු 05ක් දවාගැනීමට සමත් විය.
+
+මෙය ඔහු එක්දින තරගයකදී බිඳ දැමූ දෙවැනි කඩුලු 05 අවස්ථාවද වෙයි.
+
+...
+
+[Data](articles/1a47bb30.json)
+
+---
+
+### Not signing for anything;Sajith
 
 *2024-08-07 20:15:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதையும்-எதிர்பார்த்து-கைச்சாத்திடவில்லை-சஜித்/175-341753) · `ta`
 
-எந்தவித பதவிகளையும் எதிர்பார்த்து ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் உடன்படிக்கை  கைச்சாத்திடவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Sajith Premadasa, opposition leader, clarified that the MoU between the United People's Power and SLFP wasn't signed with any future political posts in mind. He emphasized their focus on partnering with individuals genuinely committed to public service.
 
-ஐக்கிய மக்கள் சக்தி மற்றும் ஸ்ரீலங்கா சுதந்திரக்கட்சிக்கு இடையிலான புரிந்துணர்வு ஒப்பந்தம் இன்று (07) கைச்சாத்திடப்பட்ட  பின்னர் ஊடகங்களுக்கு கருத்துரைத்தபோதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-தற்போது, வேட்பாளர்களுக்கான ஆதரவு குறித்துப் பரவலாகப் பேசப்படுகிறது. இன்று கைச்சாத்திட்ட 2 கட்சிகளுக்கும் தெளிவானதொரு கொள்கை இருக்கிறது.
+Opposition leader Sajith Premadasa has said that the agreement was not signed with the Sri Lanka Freedom Party in anticipation of any post.
 
-இதய சுத்தியுடன் மக்களுக்குச் சேவை செய்வதற்கு முன்வருபவர்களை மாத்திரமே நாம் எம்முடன் இணைத்துக்கொள்கிறோம் என சஜித் பிரேமதாச தெரிவித்துள்ளார். R
+He made this statement while speaking to the media after the Memorandum of Understanding (MoU) between the United People's Power and the Sri Lanka Freedom Party (SLFP) was signed today (07).
+
+Currently, it is widely talked about support for candidates. The two parties signed today have a clear policy.
+
+Sajith Premadasa says that we are only joining us who come forward to serve the people with a heart hammer. Remble
 
 ◼️
 
 [Data](articles/fedd5946.json)
+
+[Extended Data](ext_articles/fedd5946.ext.json)
+
+---
+
+### මෙරට නිල විදේශ සංචිතවල වෙනසක්
+
+*2024-08-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199679) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව සතු නිල විදේශ සංචිත වත්කම් ප්‍රමාණය පසුගිය 2024 ජුලි මාසයේ දී ඉතා සුළු වශයෙන් පහළ ගොස් තිබේ.
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කර ඇති නවතම දත්ත වාර්තාවලට අනුව ඒ බව දැක්වෙයි.
+
+ඒ අනුව 2024 ජුනි මාසයේදී එක්සත් ජනපද ඩොලර් මිලියන 5,654 ක් ලෙසින් සටහන් වූ නිල සංචිත වත්කම් වටිනාකම 2024 ජුලි මාසයේදී ඩොලර් මිලියන 5,649 ක් දක්වා 0.1% කින් අඩු වී ඇත.
+
+නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය පසුගිය ජුලි මාසය අවසානයේදී ඩොලර් මිලියන 5,574 ක් ලෙසින් සටහන් වේ.
+
+මෙය 2024 ජුනි මාසයේදී වාර්තා වී ඇති ඩොලර් මිලියන 5,605 ට වඩා 0.6% ක අඩුවීමකි.
+
+මේ අතර ශ්‍රී ලංකා මහ බැංකුව සතු රන් සංචිතය පසුගිය ජුලි මාසය තුළදී ඩොලර් මිලියන 35 සිට ඩොලර් මිලියන 37 ක් දක්වා 5.2%කින් ඉහළ ගොස් තිබීම ද විශේෂත්වයකි.
+
+මෙම නිල සංචිත වත්කම් තුළ එක්සත් ජනපද ඩොලර් බිලියන 1.4කට පමණ සමාන වූ චීන මහජන බැංකුවෙන් ලද විදේශ විනිමය හුවමාරු පහසුකමෙහි ලැබීම් අන්තර්ගත වන අතර, එය භාවිත කිරීමේදී කොන්දේසිවලට යටත් වන බව ශ්‍රී ලංකා මහ බැංකුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f3c9eac3.json)
+
+---
+
+### පරිගණක උපාංග තුළ සැඟවූ මත්ද්‍රව්‍ය තොගයක් සොයාගනියි
+
+*2024-08-07 19:44:09* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණක-උපාංග-තුළ-සැඟවූ-මත්ද්‍රව්‍ය-තොගයක්-සොයාගනියි/11-411255) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 5කට අධික ප්‍රමාණයක් කටුනායක බහාලුම් අංගනය තුළ සිදු කළ වැටලීමකදී සොයාගෙන තිබේ.
+
+පරිගණක උපාංග 63ක් තුළ සඟවා මෙරටට රැගෙනවිත් තිබියදී මෙම මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/23fb0844.json)
 
 ---
 
@@ -2255,79 +2323,5 @@ A special report has been sent to the Secretary of the Northern Provincial Minis
 [Data](articles/98d9b4a1.json)
 
 [Extended Data](ext_articles/98d9b4a1.ext.json)
-
----
-
-### Mayurapathi Sri Patrakali Amman Temple
-
-*2024-08-07 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190456) · `ta`
-
-The Vasanthamandapa Pooja, part of the annual festival of the Mayurapathi Sri Patrakali Amman Temple, will take place at the Bambalapitiya Manikapillaiar Temple at 06:30 am. The temple is accessible via Lawrence Street, Amarasekara Mawatha, and Hawlok Road.
-
-🟩
-
-The Vasanthamandapa Pooja will be held at the Bambalapitiya Manikapillaiar Temple at Bambalapitiya at 06.30 am at the Annual Festival of the Mayurapathi Sri Patrakali Amman Temple.
-
-The Mayurapathi Sri Patrakali Amman Temple will be reached via Lawrence Street, Amarasekara Mawatha and Hawlok Road.
-
-◼️
-
-[Data](articles/82c59eda.json)
-
-[Extended Data](ext_articles/82c59eda.ext.json)
-
----
-
-### Why compare Bangladesh with Sri Lanka?
-
-*2024-08-07 02:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-நிலைவரத்தை-இலங்கையோடு-ஒப்பிடுவது-ஏன்/175-341727) · `ta`
-
-Comparisons between Bangladesh and Sri Lanka highlight differences and similarities in economic recovery, governance, and political stability. Concerns over potential crises echo fears of mismanagement leading to past issues. Despite progress under President Ranil Wickremesinghe, questions persist about the sustainability of improvements and the need for continued vigilance against future crises.
-
-🟩
-
-Why continue to make comments comparing Bangladesh with Sri Lanka?Similarly, opposition parties say that there will be a crisis in Sri Lanka again?Minister Jeevan Thondaman said that everyone in the country should understand that the wrong decisions will only occur again.
-
-Speaking at the adjournment debate on the issue of the problem caused by the construction of the Matara Nilwala Ganga, which was held in Parliament on 06th,
-
-No one believes that the last two years can be recovered from it. However, President Ranil Wickremesinghe has brought the country's economy to better.
-
-Even if we do not come to the forefront before it, there is hope that it can be better than that.
-
-President Ranil Wickremesinghe has done the same thing to think and act without feelings of feelings.
-
-Think about the situation and think about where we are.
-
-...
-
-[Data](articles/b73c0bd5.json)
-
-[Extended Data](ext_articles/b73c0bd5.ext.json)
-
----
-
-### The telephone is not a restoring;Ranil Partner
-
-*2024-08-07 02:36:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்சியாளர்-அல்லர்-ரணில்-பங்குதாரர்/175-341726) · `ta`
-
-In a recent media briefing, MP Professor Saritha Herath emphasized the significance of the upcoming presidential election, stating it's crucial for the country's multidimensional change. She criticized Ranil Wickremesinghe for spreading false narratives about economic recovery and not offering viable solutions. Herath argued that true economic growth benefits all people, contrasting this with Wickremesinghe's approach. She supported the United People's Power Leader Alliance, highlighting its focus on leadership, programs, and a strong team as key to national development.
-
-🟩
-
-This time the presidential election is more important than other presidential elections, said MP Professor Saritha Herath.
-
-The presidential election is being held when the country needs to have a multi -dimensional change in the country.Ranil Wickremesinghe, on the other hand, is leading the tendency to socialize lies that I have saved from this position.
-
-He said this at a media briefing held at the United People's Power Headquarters Office in Bidakottai on Tuesday (06).
-
-He shows false issues on economic recovery.He is not the rest of the. He said he was a partner of this economic problem.
-
-No one else has come forward to accept. So it is absolutely wrong to say that I accepted the post of Prime Minister. Sajith sent a letter with conditions. It doesn't matter. Sarath Fonseka expressed his choice. The last government did not listen. That's why he automatically accepted their post.
-
-...
-
-[Data](articles/2e92f288.json)
-
-[Extended Data](ext_articles/2e92f288.ext.json)
 
 ---

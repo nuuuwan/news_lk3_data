@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 12:09:53**
+As of **2024-08-07 12:21:51**
 
 ## Newspaper Stats
 
-*Scraped **39,450** Articles*
+*Scraped **39,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,59 @@ adaderanalk | 4,581
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,953
 virakesarilk | 6,233
-adaderanasinhalalk | 6,677
+adaderanasinhalalk | 6,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,446 (100.0%) of 39,450 articles have been extended.
+39,450 (100.0%) of 39,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### දයාසිරි - සජිත් ගිවිසුම් අත්සන් කරයි
+### ගම්පහ වෙඩි තැබීම් ගැන හෙළිදරව් වූ අලුත් කතාව
+
+*2024-08-07 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199663) · `si`
+
+ඊයේ (06) රාත්‍රියේ ගම්පහ, තම්මිට ප්‍රදේශයේදී හා ජාඇල මාකෙවිට ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීම් දෙකකින් පුද්ගලයන් දෙදෙනෙකු තුවාල ලබා රෝහල් ගතකළ බව පොලීසිය පවසයි.
+
+මෙම වෙඩිතැබීම් දෙකම එකම වෙඩික්කරු විසින් සිදුකර ඇති බවට සැක කරන බව පොලීසිය සඳහන් කළේය.
+
+ජා ඇල - මාකෙවිට ප්‍රදේශයේදී ඊයේ රාත්‍රී 7.40ට පමණ යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් තවත් යතුරුපැදියකින් ගමන් කරමින් සිටි අයෙකුට වෙඩි තබා පළාගොස් තිබුණි.
+
+එලෙස ගම්පහ රෝහලට ඇතුළත් කෙරුණේ  43 හැවිරිදි රංග ජයනාත් හෙවත් කේ.ජී. මංජු නැමැත්තෙකි.
+
+පින්තාරුකරුවකු ලෙස රැකියාව කරන ඔහු ගංජා  හා අයිස් මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් චෝදනා එල්ලවුවකු බව පොලීසිය පැවසුවේය.
+
+එමෙන්ම ඔහු ඩුබායීහී සැඟව සිටින දිනේෂ් වසන්ත නම් මත්ද්‍රව්‍ය ජාවාරම්කරුගේ සමීපතමයෙක් ලෙසද සැලකෙන අතර,වෙනත් මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සම්බන්ධයෙන් ආරක්ෂක අංශවෙත ඔත්තු ලබාදුන් බව කියන සිදුවීමක් මෙම වෙඩි තැබීමට හේතුවී ඇතැයි සැකකෙරෙයි.
+
+අදාළ වෙඩි තැබීම සිදුකර පැය භාගයක කාලයක් ගතවීමට මත්තෙන් ඉන් කිලෝමීටර හතරක පමණ දුරකින් පිහිටි ගම්පහ තම්මිට ප්‍රදේශයෙන් තවත් වෙඩි තැබීමක් වාර්තා විය.
+
+...
+
+[Data](articles/894e7479.json)
+
+---
+
+### Dayasiri and Sajith signing agreements
 
 *2024-08-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199662) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර ඇතුළු මන්ත්‍රීවරු පිරිසක් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාට සහය පළ කිරීමට ගිවිසුමක් අද (07) අත්සන් කෙරිණි.
+Dayasiri Jayasekera, an SLFP MP, along with other MPs, signed an agreement to back Sajith Premadasa, leader of the Freedom Party. The pact included contributions from SLFP General Secretary Dayasiri Jayasekera and Samaga.
 
-එම ගිවිසුම අත්සන් කරන ලද්දේ නිදහස් පක්ෂයේ මහලේකම් දයාසිරි ජයසේකර සහ සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස අතරය.
+🟩
+
+Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera and a group of MPs Dayasiri Jayasekera and a group of MPs (SLFP) MP Dayasiri Jayasekera and a group of MPs signed a pact to support Sajith Premadasa.
+
+The agreement was signed by Sajith Premadasa, Leader of the Freedom Party (SLFP General Secretary Dayasiri Jayasekera and Samaga).
 
 ◼️
 
 [Data](articles/b21c656a.json)
+
+[Extended Data](ext_articles/b21c656a.ext.json)
 
 ---
 
@@ -318,6 +348,8 @@ Sagara Kariyawasam, the SLPP’s Secretary General said some of the key criteria
 
 [Data](articles/1e4b5b87.json)
 
+[Extended Data](ext_articles/1e4b5b87.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens flat at 302.10/30 to US dollar
@@ -337,6 +369,8 @@ In equities, Colombo’s All Share Price Index opened 8.95 points higher at 11,3
 ◼️
 
 [Data](articles/2e114577.json)
+
+[Extended Data](ext_articles/2e114577.ext.json)
 
 ---
 
@@ -731,6 +765,8 @@ Senior citizen subsidies were discontinued as interest rates rose steeply to sto
 ...
 
 [Data](articles/77b845d2.json)
+
+[Extended Data](ext_articles/77b845d2.ext.json)
 
 ---
 
@@ -2191,27 +2227,5 @@ Meanwhile, the view of the Rajapaksa family members have been intense crisis and
 [Data](articles/9a23e439.json)
 
 [Extended Data](ext_articles/9a23e439.ext.json)
-
----
-
-### Recovery of missing railway employee
-
-*2024-08-06 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190449) · `ta`
-
-The body of a missing railway employee was discovered in a well near the Maligawatta railway line. A wallet, mobile phone, and shoes were also found nearby. Despite inadequate intervention from railway officials and police, the search continued, causing a blockage of railway traffic on Monday morning.
-
-🟩
-
-The body of the missing railway employee has been found from the well on the Maligawatta railway line, a top official of the Railway Department said.
-
-During the search by others working with him, a wallet, mobile phone and a pair of shoes were found near a well at the Dematagoda railway station.
-
-In this context, the railway officials and the police have not made adequate interference in the search for the person in this context, and the railway traffic has been blocked on Monday morning.
-
-◼️
-
-[Data](articles/d00b9436.json)
-
-[Extended Data](ext_articles/d00b9436.ext.json)
 
 ---

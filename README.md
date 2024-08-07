@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 09:07:17**
+As of **2024-08-07 09:20:52**
 
 ## Newspaper Stats
 
-*Scraped **39,414** Articles*
+*Scraped **39,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,620
+adalk | 3,621
 adaderanalk | 4,576
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,944
+tamilmirrorlk | 4,945
 virakesarilk | 6,233
-adaderanasinhalalk | 6,670
+adaderanasinhalalk | 6,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,412 (100.0%) of 39,414 articles have been extended.
+39,414 (100.0%) of 39,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### இன்று கட்டுப்பணம் செலுத்துவாரா நாமல்?
+
+*2024-08-07 09:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கட்டுப்பணம்-செலுத்துவாரா-நாமல்/175-341732) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5eef17c2.json)
+
+---
+
+### පොහොට්ටුවේ ජනපති අපේක්ෂකයා නාමල්
+
+*2024-08-07 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199658) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනධිපතිවරණ අපේක්ෂයා ලෙස නාමල් රාජපක්ෂ මහතා නම් කර තිබේ.
+
+නෙළුම් මාවත පක්ෂ මූලස්ථානයේ දී පක්ෂ මහ ලේකම් සාගර කාරියවසම් මහතා විසින් මීට ටික වේලාවකට පෙර ඒ බව නිවේදනය කළේය.
+
+එම අවස්ථාවට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, බැසිල් රාජපක්ෂ යන මහත්වරුන් ඇතුළු පාක්ෂකයින් රැසක් සහභාගී වී සිටියහ.
+
+◼️
+
+[Data](articles/ae7d7baf.json)
+
+---
+
+### අත්‍යවශ ආහාර කිහිපයක මිල පරාස නිකුත් කරයි
+
+*2024-08-07 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199657) · `si`
+
+අත්‍යවශ්‍ය ආහාර ද්‍රව්‍යවල ඇස්තමේන්තු මිල පරාසයන් පිළිබඳව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරීය නිවේදනයක් නිකකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/d51b99c1.json)
+
+---
+
+### අමෙරිකාවේ ගුවන් අනතුරක්
+
+*2024-08-07 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199656) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ ඔක්ලහෝමා නගරයේ දී ගුවන් යානයක් අනතුරට ලක්වීමෙන් පුද්ගලයින් සිව්දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් වාර්තා සඳහන් කරනුයේ අනතුර සිදුවීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බවය.
+
+ඔක්ලහෝමා නගරයේ පිහිටි සන්ඩාන්ස්  ගුවන් තොටුපලින් ගමන් ආරම්භ කර විනාඩි කිහිපයක් ඇතුළත මෙම අනතුර සිදුව ඇති බව වාර්තා වී තිබේ.
+
+අනතුර සම්බන්ධයෙන් පරීක්ෂණක් එරට ජාතික ගමනාගමන ආරක්ෂණ මණ්ඩලය ආරම්භ කර ඇති බවත් සඳහන්.
+
+◼️
+
+[Data](articles/a70b020d.json)
+
+---
 
 ### Paris Olympics: Sri Lanka’s Aruna Darshana disqualified in semi-final
 
@@ -40,9 +98,19 @@ Sri Lankan sprinter Aruna Darshana finished in 5th place in the 2nd Semi-Final o
 
 Darshana had finished the race with a time of 44.75 seconds, setting a new personal best, however, he was disqualified later for a lane infringement.
 
-◼️
+He took part in the second semi-final of the event, which commenced at 11:12 p.m. (IST) on Tuesday (6).
+
+Athletes from Argentina, South Africa, Italy, Zambia, United States, Botswana and Grenada had raced in the semi-final 02 alongside Aruna Darshana.
+
+The first two athletes in each semi-final heat and next 2 fastest athletes in overall semi-finals had advanced to the Final of the event, according to the International Olympic Committee.
+
+The 25-year-old qualified for the semifinals on Sunday (04), after finishing third in the Heat race. Darshana finished 3rd in the Men’s 400m Heat 5 with a timing of 44.99 seconds, which is his personal best.
+
+...
 
 [Data](articles/6e41c949.json)
+
+[Extended Data](ext_articles/6e41c949.ext.json)
 
 ---
 
@@ -66,19 +134,27 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### ’மீனவர்களை விடுவிக்க நடவடிக்கை தேவை’
+### Action to release fishermen
 
 *2024-08-07 08:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுவிக்க-நடவடிக்கை-தேவை/175-341731) · `ta`
 
-அதில், இலங்கைக் கடற்படையினரால் சிறைபிடிக்கப்பட்டுள்ள மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் உடனடியாக விடுவிக்க வைக்க மத்திய அரசிடம் வலியுறுத்தியுள்ளார்.
+Kanimozhi Karunanidhi, a Lok Sabha member, called for the immediate release of 177 Tamil Nadu fishermen's boats held by the Sri Lankan navy, highlighting incidents where boats were seized and fishermen attacked despite previous releases.
 
-இது குறித்து நேற்று மக்களவையில் கேள்வி நேரத்தில் தி.மு.க. துணைப் பொதுச் செயலாளரும், தூத்துக்குடி எம்.பி.யுமான கனிமொழி கருணாநிதி உரையாற்றுகையில்,
+🟩
 
-இலங்கை கடற்படையினர் தமிழக மீனவர்களின் படகுகளைக் கைப்பற்றியது மட்டும் இல்லை. இந்த ஆண்டு மட்டுமே 27 படகுகள் இலங்கை கடற்படையினரால் கைப்பற்றப்பட்டு இருக்கின்றன. சுமார் 177 இந்தியப் படகுகள் இப்போது இலங்கை அரசிடம் கைவசம் இருக்கின்றன.
+In it, he urged the central government to immediately release the fishermen and their fishing boats captured by the Sri Lankan navy.
 
-...
+The DMK in the Lok Sabha yesterday. Kanimozhi Karunanidhi, Deputy General Secretary and Tuticorin MP
+
+The Sri Lankan navy is not just capturing the boats of Tamil Nadu fishermen. This year alone 27 boats have been seized by the Sri Lankan navy. About 177 Indian boats are now in the hands of the Sri Lankan government.
+
+The boats have no chance of getting Indian fishermen. The boats were not released even after the fishermen were released. Sri Lankan navy has attacked fishermen in two boats at Thoothukudi Daruwaikulam. 22 fishermen have been arrested and taken to Sri Lanka yesterday. This has happened even after this government raised attention. Therefore, Tamil Nadu fishermen should take action to prevent the issue from being affected by the issue.. (A)
+
+◼️
 
 [Data](articles/d7dd7d54.json)
+
+[Extended Data](ext_articles/d7dd7d54.ext.json)
 
 ---
 
@@ -1672,6 +1748,22 @@ Accordingly, the Cabinet of Transport and Highways has been approved by the Cabi
 
 ---
 
+### 2023දී අධිවේගයේ වතකම් රු.මි. 913ක් සොරකම් කරලා
+
+*2024-08-06 19:00:31* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අධිවේගයේ-වතකම්-රු-මි--913ක්-සොරකම්-කරලා/11-411238) · `si`
+
+අධිවේගි මාර්ගයන්හි  ඇති  වත්කම් ආරක්ෂාකරගැනීම සඳහා ප්‍රමාණවත්  ආරක්ෂක වැඩපිළිවෙළක් සකස්  නොකිරීම හේතුවෙන්  මෙකී මාර්ගයන්හි ඇති වයර්,තඹ කම්බි, ආරක්ෂිත වැටවල යකඩ , සාමාන්‍ය කම්බි හා දේපළ සොරකම් කිරීම සමග හානිවීම් වාර්තා වි ඇත. එම හානිවීම්වල වටිනාකම ඉකුත් වර්ෂයෙහි (2023)  රුපියල් මිලියන 913.17ක් බැව් ජාතික විගණන කාර්යාලය  මගින් නිකුත්කොට ඇති වාර්තාවක සඳහන් වේ.
+
+අධිවේගී මාර්ගවල රාජකාරි කරන  පොලිස් නිලධාරීන්ට පහසුකම් සැපයීම සඳහා වාර්ෂිකව වැයකරනු ලබන රුපියල් මිලියන 150ද ඇතුළුව රුපියල් මිලියන 2000කට වඩා වැඩි වියදමක් දරන බවද මෙකී වාර්තාවේ සඳහන් වේ.
+
+එමෙන්ම දේශීය විදේශීය අරමුදල් භාවිත කරමින් රුපියල් මිලියන 767,630ක පමණ වටිනාකමකින් යුතු අධිවේගී මාර්ග කි.මි.312.6ක් ඉදිකොට ඇත. මෙම මාර්ගවල සියලුම පරිපාලන කටයුතු මාර්ග සංවර්ධන අධිකාරිය වෙත පවරා තිබේ.
+
+◼️
+
+[Data](articles/5bcf417e.json)
+
+---
+
 ### Selection of Kamala Harris is TIM Walz
 
 *2024-08-06 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199639) · `si`
@@ -2115,119 +2207,5 @@ However, the 'Times Num' had stated that Sheikh Hasana was going to London today
 [Data](articles/eea30493.json)
 
 [Extended Data](ext_articles/eea30493.ext.json)
-
----
-
-### Though the land of the people in Mannar is being taken away
-
-*2024-08-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190425) · `ta`
-
-In Mannar district, locals face land seizures and lack relief despite protests. Efforts to halt heavy sand excavation have been met with resistance from state agencies. Concerns also arise from the Mannar District General Hospital, where a postpartum woman died due to high blood loss, prompting calls for accountability and transparency. Additionally, thousands of families struggle for land ownership, with applications for small businesses ignored, highlighting broader issues of land distribution and economic opportunity.
-
-🟩
-
-Though the lands of the people are being taken away from various angles in Mannar district, the victims have not received relief.The President of the Mannar Citizens Committee, Aruttandai S. Markas Adikallar, said that the country's president should provide a proper solution to all the problems faced by the people of the district.
-
-A special media briefing on various issues faced by the people of Mannar district was held on Tuesday (06) at the Mannar Citizens Committee Office.
-
-In the Mannar district, there have been massive efforts to carry out a heavy sand excavation program over the past five years.
-
-Despite massive efforts by various companies, the company has finally set foot in the Mannar district for a heavy sand excavation.
-
-Various measures are being taken to grant permission to acquire the location of the company.
-
-Although we are protesting on behalf of the public, the work plans are being carried out with the efforts of various state agencies to implement the action.
-
-...
-
-[Data](articles/6d117538.json)
-
-[Extended Data](ext_articles/6d117538.ext.json)
-
----
-
-### Body of missing Dematagoda Railway Yard employee found inside unguarded well
-
-*2024-08-06 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101042/body-of-missing-dematagoda-railway-yard-employee-found-inside-unguarded-well) · `en`
-
-The body of the missing employee at the Dematagoda Railway Yard has been discovered from an unguarded well within the compound.
-
-Earlier today, the train services from Colombo Fort had been temporarily disrupted due to workers at the Dematagoda Yard withdrawing from duties on claims that proper action was not being taken to find a fellow employee who had gone missing.
-
-As a result, the ‘Podi Menike’ and ‘Badulla Odyssey’ trains, which were scheduled to depart from Colombo Fort to Badulla this morning, did not operate.
-
-◼️
-
-[Data](articles/0ffd6f04.json)
-
-[Extended Data](ext_articles/0ffd6f04.ext.json)
-
----
-
-### Arson suspected as police question student over fire that destroyed school music room
-
-*2024-08-06 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101041/arson-suspected-as-police-question-student-over-fire-that-destroyed-school-music-room) · `en`
-
-Police have questioned a Grade 8 student concerning a recent incident in which the music room at his school in Anamaduwa was almost completely destroyed in a fire.
-
-In addition to this student, another student from the same school is also suspected of being involved in the suspected arson incident.
-
-The music room of the school was gutted in a fire which broke out on August 04 while the principal and several other teachers from the school had managed to control the fire and prevent it from spreading further to other buildings.
-
-Police have initiated an investigation to determine whether the fire was caused by electrical short or if it was the result of an act of arson.
-
-It has then been revealed that a student had entered the school premises through the fence at the back of the school in the afternoon on that day.
-
-Further interrogation of the student in question have revealed that a window of the music room was accidently broken by a stone thrown at a wood apple tree.
-
-...
-
-[Data](articles/823e9c54.json)
-
-[Extended Data](ext_articles/823e9c54.ext.json)
-
----
-
-### 146 Gampaha traders broke consumer laws
-
-*2024-08-06 16:30:26* · [`adalk`](https://www.ada.lk/breaking_news/පාරිභෝගික-නීති-කැඩූ-ගම්පහ-වෙළඳුන්-146ක්--ලක්ෂ-18-දඩ/11-411233) · `si`
-
-In Gampaha, 146 traders were fined Rs 18 lakh by the Consumer Affairs Authority for violating consumer laws during raids, including price gouging and selling expired goods.
-
-🟩
-
-Consumer Affairs Authority has filed 146 merchants from the Gampaha district's raid over the Gampaha District Office and fined Rs 18 lakhs. It is reported that there are six main supermarkets. These raids include 43 raids regarding the sale of rice. Selling rice to higher prices, the sale is the sale of rice packing, the expiry date and dates.
-
-◼️
-
-[Data](articles/be9ef44c.json)
-
-[Extended Data](ext_articles/be9ef44c.ext.json)
-
----
-
-### Sri Lanka stocks close up, John Keells sees foreign selling
-
-*2024-08-06 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-john-keells-sees-foreign-selling-175572/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.37 percent, or 42.09 points, at 11,293; while the more liquid S&P SL20 Index closed up 0.39 percent, or 12.44 points, at 3,226.
-
-Turnover was 582 million. Rs160 million of this came from John Keells Holdings, the top turnover generator of the day.
-
-“Turnover was subdued,” Softlogic Stockbrokers said. “Although the market was back in the green, sentiment was conservative, and there was limited activity.
-
-The banking counter closed mostly in green; Sampath Bank Plc was closed at 74.00, DFCC Bank Plc closed up at 69.20, and Commercial Bank Of Ceylon Plc closed flat at 89.40.
-
-Several banks saw foreign buying interest. A net foreign outflow of 20 million rupees was recorded.
-
-Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), Hatton National Bank Plc, (up at 183.00), and John Keells Holdings Plc (up at 179.50).
-
-...
-
-[Data](articles/38e6649d.json)
-
-[Extended Data](ext_articles/38e6649d.ext.json)
 
 ---

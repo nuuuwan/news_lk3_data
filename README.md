@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 11:06:42**
+As of **2024-08-07 11:20:50**
 
 ## Newspaper Stats
 
-*Scraped **39,439** Articles*
+*Scraped **39,441** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 339
+dbsjeyarajcom | 340
 newsfirstlk | 363
-bbccomsinhala | 371
+bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,437 (100.0%) of 39,439 articles have been extended.
+39,439 (100.0%) of 39,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,17 +58,23 @@ The Iraqi government's security media unit said that a truck with eight rockets 
 
 ---
 
-### යුක්තිය දෙවැනි මෙහෙයුමෙන් 687ක් අත්අඩංගුවට
+### 687 arrested in justice operation
 
 *2024-08-07 10:22:32* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-දෙවැනි-මෙහෙයුමෙන්-687ක්-අත්අඩංගුවට/11-411246) · `si`
 
-යුක්තිය දෙවැනි මෙහෙයුම යටතේ පසුගිය 04 වැනිදා වැටලීම් 689කට අදාළය පුද්ගලයන් 687ක් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+In a major police operation, 687 individuals were arrested during 689 raids. Four of those arrested are under investigation, while two have been rehabilitated.
 
-එලෙස අත්අඩංගුවට ගත් පුද්ගලයන් 04 දෙනෙකුගේ වත්කම් විමර්ශනයක් සිදු කිරීමට නියමිත අතර, තවත් පුද්ගලයන් දෙදෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+🟩
+
+Police said that 687 raids have been arrested in connection with 689 raids on the second operation.
+
+Four arrested have been investigated and two others have been rehabilitated.
 
 ◼️
 
 [Data](articles/64e42379.json)
+
+[Extended Data](ext_articles/64e42379.ext.json)
 
 ---
 
@@ -748,6 +754,24 @@ Some areas in the East, Uva and Northern provinces. There will be more heavy rai
 
 ---
 
+### මාධ්‍ය මර්දනයට මන්ත්‍රීවරු පාර්ලිමේන්තු බලතල සහ වරප්‍රසාද යොදා ගන්නවා ද?
+
+*2024-08-07 04:25:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9844n023lxo) · `si`
+
+මාධ්‍ය මර්දනයට මන්ත්‍රීවරු පාර්ලිමේන්තු බලතල සහ වරප්‍රසාද යොදා ගන්නවා ද?
+
+පාර්ලිමේන්තුවේ සභා ගර්භය තුළ දී මන්ත්‍රීවරුන්ට ඕනෑම අදහසක් පළ කළ හැකිය. එය අධිකරණයක වුව ද ප්‍රශ්න කිරීමේ හැකියාවක් නැත. එය පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට භාෂණයේ නිදහස සම්බන්ධයෙන් ලැබී ඇති සුවිශේෂී වරප්‍රසාදයකි. නමුත් එම වරප්‍රසාදය භාවිත කරමින් විරුද්ධවාදීන්ට මඩ ගැසීම් සහ බියවැද්දීම් ශ්‍රී ලංකා පාර්ලිමේන්තුව තුළ සිදුවන බවට රටේ පුරවැසියෝ ප්‍රශ්න කරන අවස්ථා දක්නට ලැබෙති.
+
+පාර්ලිමේන්තු වරප්‍රසාද භාවිතා කරමින් විවිධ පුද්ගලයන් ඉලක්ක කර පෞද්ගලිකව මඩගැසීම නැවැත්වීම සඳහා නීති සංශෝධනය කළ යුතු බව වරක් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ ප්‍රකාශ කළ අතර එමගින් මේ ගැටලුව කොතරම් බලපෑම්සහගත වී ඇත්දැයි සිතා ගත හැකිය.
+
+තමන්ගේ පාර්ලිමේන්තු වරප්‍රසාද කඩ වී ඇති බවට පවසමින් මන්ත්‍රීවරු විවිධ හේතු දක්වති. ඒ අතරින් මාධ්‍යවේදීන්ට ඇඟිල්ල දිගුවන අවස්ථා ද තිබේ.
+
+...
+
+[Data](articles/5cb73a48.json)
+
+---
+
 ### Ceylon Chamber launches ‘Vision 2030’ policy document
 
 *2024-08-07 03:33:11* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-Vision-2030-policy-document/34-765248) · `en`
@@ -1320,6 +1344,20 @@ In accordance with this gazette, any state corporation, state department, local 
 
 ---
 
+### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
+
+*2024-08-07 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
+
+President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
+
+...
+
+[Data](articles/4933fe13.json)
+
+[Extended Data](ext_articles/4933fe13.ext.json)
+
+---
+
 ### Demise of Rajapaksa power and triumph of Rajapaksaism
 
 *2024-08-07 01:09:04* · [`dailyftlk`](https://www.ft.lk/columns/Demise-of-Rajapaksa-power-and-triumph-of-Rajapaksaism/4-765215) · `en`
@@ -1349,6 +1387,20 @@ Look forward to knowledge but do not forget to look back for wisdom
 [Data](articles/d454577d.json)
 
 [Extended Data](ext_articles/d454577d.ext.json)
+
+---
+
+### Sri Lanka Podujana Peramuna  National Organizer Namal Rajapaksa to Contest Presidential Poll as Business Magnate Dhammika  Perera Withdraws from Presidential Election  as SLPP Candidate
+
+*2024-08-07 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84498) · `en`
+
+The ruling Sri Lanka Podujana Peramuna (SLPP) is set to announce its Presidential candidate today. Earlier in the week, party General Secretary Sagara Kariyawasam confirmed that the announcement would be made by SLPP leader Mahinda Rajapaksa at 7:30 a.m. at the SLPP head office on Nelum Mawatha.
+
+While the event was initially scheduled to take place at the foyer of the Nelum Pokuna Mahinda Rajapaksa Theatre, the venue was later changed to the party office for unexplained reasons. When asked about the change, Kariyawasam said the party felt the head office was the best venue to make such an announcement.
+
+...
+
+[Data](articles/2affb683.json)
 
 ---
 
@@ -2106,17 +2158,27 @@ It is noteworthy that the railway staff engaged in the workplace as the employee
 
 ---
 
-### රාජ්‍ය සේවයේ වැඩ කඩිනම් කිරීමේ ක්‍රමවේදයක්
+### A speedy system of the public service
 
 *2024-08-06 19:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැඩ-කඩිනම්-කිරීමේ-ක්‍රමවේදයක්/11-411241) · `si`
 
-රාජ්‍ය සේවාවන්හි කාර්‌යක්ෂමතාව සහ ගුණාත්මකභාවය වැඩි දියුණු කිරීම සඳහා ක්‍රමවේදයක් ක්‍රියාත්මක කිරීමට කැබිනට් අනුමැතිය ලබා දී තිබේ.රාජ්‍ය ආයතනවල කාර්යක්ෂමතාව සහ ගුණාත්මකභාවය වැඩිදියුණු කිරීම සඳහා මෙන්ම ද්විකරණ දෝෂ අවම කිරීම හා තොරතුරු තහවුරු කර ගැනීම මඟින් ඵලදායීව හා ප්‍රශස්තව කාර්යයන් ඉටු කිරීම පිණිස රාජ්‍ය ආයතනයන්හි තොරතුරු තාක්ෂණ පද්ධති ඒකාබද්ධ කිරීම යෝග්‍ය බව හඳුනා ගෙන ඇත.
+Cabinet approves a plan to enhance public service efficiency and quality, focusing on standardized data exchange among government institutions. This includes mandatory use of National Identity Cards for citizens over 15 and foreign passports for non-citizens, alongside proposing the use of foreign service license numbers. The initiative aims to streamline operations across state corporations and statutory boards.
 
-ඒ සඳහා රාජ්‍ය සංස්ථා සහ ව්‍යවස්ථාපිත මණ්ඩල ද ඇතුළුව සියලුම රාජ්‍ය මඟින් නියාමනය කරනු ලබන/සංවර්ධනය කරනු ලබන තොරතුරු තාක්ෂණ පද්ධති සඳහා දත්ත ඇතුළත් කිරීමේදී ක්‍රමවේදයක් ක්‍රියාත්මක කිරීම පිණිස මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+🟩
 
-...
+Cabinet approval has been given to implement an efficiency and quality of public services to improve the efficiency and quality of public services.It has been identified that it is appropriate.
+
+The proposal presented by the Cabinet of Finance, Economic Stability and National Policy has been approved to implement a methodology to implement a methodology regulated / developed by all state corporations and statutory boards.
+
+Accordingly, the use of the National Identity Card to identify a Sri Lankan citizen over the age of 15 is mandatory to identify the National Identity Card to identify a foreign person to identify a foreign passport number.The National Identity Card number of local members also presented proposals to use the foreign service license number.
+
+The methodology has been submitted as the methodology to conduct the data standard of exchange of relevant data with other government institutions.
+
+◼️
 
 [Data](articles/1b7620ae.json)
+
+[Extended Data](ext_articles/1b7620ae.ext.json)
 
 ---
 
@@ -2169,67 +2231,5 @@ The authorities have asked the authorities to reduce their daily elephant confli
 [Data](articles/c830533d.json)
 
 [Extended Data](ext_articles/c830533d.ext.json)
-
----
-
-### In 2023, the highway was Rs.. 913 stolen
-
-*2024-08-06 19:00:31* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අධිවේගයේ-වතකම්-රු-මි--913ක්-සොරකම්-කරලා/11-411238) · `si`
-
-In 2023, Rs. 913 million was stolen from highways, including wire, copper wire, safety fences, and property damages due to inadequate security. The National Audit Office reported over Rs. 367,630 million was spent on building 367,630 km of highways with foreign funds, managed by the Road Development Authority.
-
-🟩
-
-Damages have been reported with the wire, copper wire, safety fences of the wire, copper wire, protective wire and property due to the preparation of adequate security arrangements on high-speed roads.. According to a report issued by the National Audit Office of the National Audit Office (2023) in the last year.
-
-According to the report, more than Rs.
-
-Also, 367,630 km of highways was built in about Rs. 767,630 million worth of foreign funds.. All administrative activities of these roads have been handed over to the Road Development Authority.
-
-◼️
-
-[Data](articles/5bcf417e.json)
-
-[Extended Data](ext_articles/5bcf417e.ext.json)
-
----
-
-### Selection of Kamala Harris is TIM Walz
-
-*2024-08-06 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199639) · `si`
-
-Kamala Harris, the current American Vice President, has been selected as the Democratic Party's vice presidential candidate for the 2024 US presidential election.
-
-🟩
-
-2024 The Democratic Party candidate residential candidate has been named as the Vice Presidential candidate in the US presidential election.
-
-Kamala Harris currently is the American Vice President.
-
-◼️
-
-[Data](articles/71b350ea.json)
-
-[Extended Data](ext_articles/71b350ea.ext.json)
-
----
-
-### Kamala Harris picks Minnesota governor Tim Walz for vice president
-
-*2024-08-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101047/kamala-harris-picks-minnesota-governor-tim-walz-for-vice-president) · `en`
-
-Democratic presidential candidate Kamala Harris selected Minnesota Governor Tim Walz to be her running mate on Tuesday, choosing a progressive policy champion and a plain speaker from America’s heartland to help win over rural, white voters, said people familiar with the matter.
-
-Walz, a 60-year-old U.S. Army National Guard veteran and former teacher, was elected to a Republican-leaning district in the U.S. House of Representatives in 2006 and served 12 years before being elected governor of Minnesota in 2018.
-
-As governor, Walz has pushed a progressive agenda that includes free school meals, goals for tackling climate change, tax cuts for the middle class and expanded paid leave for Minnesota workers.
-
-Walz has long advocated for women’s reproductive rights but also displayed a conservative bent while representing a rural district in the U.S. House, defending agricultural interests and backing gun rights.
-
-...
-
-[Data](articles/bbbcb063.json)
-
-[Extended Data](ext_articles/bbbcb063.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 13:06:02**
+As of **2024-08-07 13:20:53**
 
 ## Newspaper Stats
 
-*Scraped **39,452** Articles*
+*Scraped **39,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,627
-adaderanalk | 4,581
+adaderanalk | 4,582
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,954
 virakesarilk | 6,233
-adaderanasinhalalk | 6,678
+adaderanasinhalalk | 6,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,452 (100.0%) of 39,452 articles have been extended.
+39,452 (100.0%) of 39,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### හමාස් නායකත්වයට ආ සින්වාර්
+
+*2024-08-07 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199664) · `si`
+
+2017 වසරේ සිට ගාසා තීරයේ හමාස් නායකයාව සිටි සින්වාර් මේ අනුව සංවිධානයේ සියලු දේශපාලන කටයුතුවල ප්‍රධානීත්වය දැරීමට නියමිතය.
+
+දින දෙකක් පුරා දෝහා හි පැවති සාකච්ඡා වලින් අනතුරුව එම තනතුර සඳහා සින්වාර් පත්කළ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම සාකච්ඡා අතරතුර හමාස් නායකත්වය සඳහා නම් දෙකක් යෝජනා විය. ඒ සින්වාර් සහ මොහොමඩ් හසන් ඩාර්විෂ් යන නම් දෙකයි.
+
+මේ වනවිට මොහොමඩ්, හමාස් සංවිධානයේ ශූරා කවුන්සිලයේ නායකයා ලෙස කටයුතු කරයි.
+
+ඉරානයේ ටෙහෙරානයේ දී එල්ල වූ ප්‍රහාරයකින් හමාස් නායක ඉස්මයිල් හනියේ පසුගියදා ඝාතනයට ලක්වූණි.
+
+හමාස් සංවිධානය චෝදනා කරන්නේ ඊශ්‍රායලය විසින් එම ප්‍රහාරය එල්ල කර ඇති බවය.
+
+◼️
+
+[Data](articles/0d2ec972.json)
+
+---
+
+### Operation ‘Yukthiya’ 2nd phase: 776 suspects arrested within yesterday
+
+*2024-08-07 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101059/operation-yukthiya-2nd-phase-776-suspects-arrested-within-yesterday-) · `en`
+
+Sri Lanka Police has issued a press release on the anti-drug raids being carried out under the second phase of the “Yukthiya” Operation.
+
+According to Sri Lanka Police, a total of 750 male suspects and 26 female suspects were arrested during 780 raids conducted within yesterday (06) under the second phase of the “Yukthiya” Operation.
+
+Accordingly, the statement said that 22 of the arrested suspects will be detained for further investigations, 03 others are being investigated for the possession of illegal assets, and 03 suspects were sent to rehabilitation.
+
+Among the arrestees are 03 suspects who had pending warrant against them for narcotics-related charges and 19 others who had open warrants against them for non-drug-related charges.
+
+Meanwhile, the authorities have also seized 326g of heroin, 183g of ‘Ice’ (Crystal methamphetamine) and 271g of cannabis during the operation covering the Western Province.
+
+...
+
+[Data](articles/053636b5.json)
+
+---
 
 ### New story about Gampaha shootings
 
@@ -2179,63 +2221,5 @@ The Program will support the establishment of independent and financially sustai
 [Data](articles/c71c38e8.json)
 
 [Extended Data](ext_articles/c71c38e8.ext.json)
-
----
-
-### India's statement from India
-
-*2024-08-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199642) · `si`
-
-India has expressed its focus on restoring law and order in Bangladesh, following a request from Sheikh Hasina, the former Bangladesh PM, for a brief visit to India. Indian authorities have facilitated her arrival and are committed to ensuring peace and stability in Bangladesh. An all-party meeting has been convened to discuss the situation in Bangladesh, highlighting India's support and engagement in the region's affairs.
-
-🟩
-
-India has made a statement regarding former Bangladesh Prime Minister Prime Minister Prime Minister, Bangladesh.
-
-Accordingly, he has said that India was focusing until Bangladesh's law and order is re-established.
-
-"She asked for permission to come to India for a short time in a very short notice. The Bangladesh authorities also asked for the release of the airroll. She reached Delhi last evening. We are focused on Bangladesh's law and peace. "
-
-Indian Foreign Minister has summoned an all-party meeting with the condition of Bangladesh.
-
-After that meeting S. Jeeashnk was also given a note in his X account.
-
-Shayik Husanna, who wires in the face of public opposition, currently states in a SLAF base in New Delhi, India.
-
-Mr. Shaik Hasthana Advisor Ajith DhoWal was also found.
-
-Sheikh Haseanuge, who is known as the pioneer of the Bangladesh Independence Battle, was the father of Mujibur Rahina.
-
-This time she is looking forward to the refuge of England and staying in India.
-
-◼️
-
-[Data](articles/574d2228.json)
-
-[Extended Data](ext_articles/574d2228.ext.json)
-
----
-
-### 19 Indian fishermen released;Continue to explain 9 people!
-
-*2024-08-06 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/190451) · `ta`
-
-19 Indian fishermen were released after serving part of a six-year prison sentence, while 9 others face charges with a possibility of one-year rigorous imprisonment.
-
-🟩
-
-The case against 31 Indian fishermen was taken up for hearing at the Kayts Court on Tuesday, 6th.
-
-On June 22, 19 of the 22 fishermen who crossed the border in 3 boats were released on the basis of a six -year postponed 24 -month prison sentence.
-
-In addition, the three sailors have to pay Rs.. Otherwise, it was ruled that a 1 year rigorous imprisonment should be served.
-
-Next, 9 fishermen arrested on July 23 have already been submitted to the second time, and the indictment has been filed for the second time.
-
-◼️
-
-[Data](articles/4b9972a6.json)
-
-[Extended Data](ext_articles/4b9972a6.ext.json)
 
 ---

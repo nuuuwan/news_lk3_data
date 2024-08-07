@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 20:55:13**
+As of **2024-08-07 21:06:35**
 
 ## Newspaper Stats
 
-*Scraped **39,499** Articles*
+*Scraped **39,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,634
-adaderanalk | 4,589
+adaderanalk | 4,590
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,960
 virakesarilk | 6,243
@@ -26,33 +26,67 @@ adaderanasinhalalk | 6,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,496 (100.0%) of 39,499 articles have been extended.
+39,499 (100.0%) of 39,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### වසර 27කින් නොලැබුණු සුපිරි ජයක් ශ්‍රී ලංකාවට
+### Sri Lanka record first ODI series win against India in 27 years
+
+*2024-08-07 20:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101067/sri-lanka-record-first-odi-series-win-against-india-in-27-years) · `en`
+
+Sri Lanka recorded a 110-run win in the final ODI of the three-match series against India on Wednesday (Aug 7) and won the series 2-0.
+
+This is Sri Lanka’s first ODI series win against India in over two decades. They had last won an ODI series against India in back in 1997 - an year after winning their maiden ODI World Cup.
+
+Chasing an above par 249, India were bowled out for 138 in 26.1 overs - in what was another poor batting display by the Rohit Sharma-led team. Dunith Wellalage lead the bowling charge with 5/27.
+
+The visitors had started well in the chase, adding 37 runs in 4.2 overs before Shubman Gill was sent back by Asitha Fernando. skipper Rohit Sharma departed next in the eight over with India at 53.
+
+Rishabh Pant, playing his first match of the series, attempted a shot from outside the crease to Maheesh Theekshana and was stumped out.
+
+...
+
+[Data](articles/b71b8282.json)
+
+---
+
+### Sri Lanka beat Sri Lanka
 
 *2024-08-07 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199680) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායම පරාජය කර තෙවැනි හා අවසන් එක්දින ක්‍රිකට් තරගයෙන්ද ලකුණු 110ක විශිෂ්ට ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Sri Lanka convincingly won against India in the final One Day International (ODI) match, securing victory by 110 runs. This triumph marks Sri Lanka's first series win over India in 27 years, following a previous ODI victory in 1997. Dutee Wellage stood out with 5 wickets for 27 runs, his second five-wicket haul in an ODI. Despite strong performances from Rohit Sharma (30) and Virat Kohli (20), India couldn't match Sri Lanka's total of 248/7 in 50 overs, led by Avishka Fernando's 96 runs.
 
-කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ අද (07) පැවැති මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහරදී ලබාදුන් ලකුණු 249ක ඉලක්කයට පිළිතුරු ලෙස ඉන්දීය කණ්ඩායමට පන්දුවාර 26.1කදී සියලුදෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 138ක් පමණි.
+🟩
 
-ඒ අනුව තරග තුනකින් යුත් මෙම තරගාවලියේ පළමු තරගය ලකුණු සමව අවසන් වුවත්, ඉතිරි තරග දෙකම ජයගැනීමට ශ්‍රී ලංකාවට හැකිවිය.
+The Sri Lankan team was won by 110 runs in the third and last one day cricket cricket cricket.
 
-ශ්‍රී ලංකා කණ්ඩායම ලැබූ මෙම තරගාවලි ජය සැලකෙන්නේ, ඔවුන් ඉන්දියාවට එරෙහිව වසර 27කට පසු ලැබූ පළමු තරගාවලි ජය ලෙසය.
+Colombo. The Sri Lanka team won only 138 runs in 26.1 overs.
 
-මීට පෙර ඔවුන් එක්දින තරගාවලියකදී ඉන්දීය කණ්ඩායම පරාජය කර තිබුණේ 1997 වසරේදී වූ අතර, එවර ඔවුන් තරග 3-0කින් ඉන්දියාව පරාජය කර තිබුණි.
+Accordingly, Sri Lanka was able to win both the remaining matches.
 
-අද තරගයේදී සුපිරි පන්දු යැවීමක නිරත වූ දුනිත් වෙල්ලාලගේ සිය එක්දින දිවියේ හොඳම පන්දු යැවීම සනිටුහන් කරමින් ලකුණු 27කට කඩුලු 05ක් දවාගැනීමට සමත් විය.
+The tournament won by the Sri Lankan team, which is the first tournament of India over 27 years after India.
 
-මෙය ඔහු එක්දින තරගයකදී බිඳ දැමූ දෙවැනි කඩුලු 05 අවස්ථාවද වෙයි.
+Earlier, they had defeated the Indian team at one ODI in 1997, and they had defeated India in 3-0 matches.
+
+Duti Welles, who was playing in the match today, took 5 wickets for 27 runs.
+
+This is also the second five wickets who were broken in one-day match.
+
+The humiliation of the Indian defeat was a decline, and the leader Rohinton Surder (30) and Virat Kohli (20), Washington Surgery, built.
+
+Batting first Sri Lanka scored 248 runs for the loss of 07 wickets in the 50 overs.
+
+Anthemist Fernando, who lifted Sri Lankan innings, was bowled out for 96 runs.
+
+As a result, he lost the 4th century runs in the day by 4 runs.
 
 ...
 
 [Data](articles/1a47bb30.json)
+
+[Extended Data](ext_articles/1a47bb30.ext.json)
 
 ---
 
@@ -80,41 +114,53 @@ Sajith Premadasa says that we are only joining us who come forward to serve the 
 
 ---
 
-### මෙරට නිල විදේශ සංචිතවල වෙනසක්
+### Change in the official reserves in the country
 
 *2024-08-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199679) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව සතු නිල විදේශ සංචිත වත්කම් ප්‍රමාණය පසුගිය 2024 ජුලි මාසයේ දී ඉතා සුළු වශයෙන් පහළ ගොස් තිබේ.
+In July 2024, Sri Lanka's Central Bank reported a slight decrease in its official reserves, dropping 0.16% to $5,649 million. However, its foreign exchange reserves increased by 0.6%, reaching $5,574 million, while gold reserves rose by $37 million.
 
-ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කර ඇති නවතම දත්ත වාර්තාවලට අනුව ඒ බව දැක්වෙයි.
+🟩
 
-ඒ අනුව 2024 ජුනි මාසයේදී එක්සත් ජනපද ඩොලර් මිලියන 5,654 ක් ලෙසින් සටහන් වූ නිල සංචිත වත්කම් වටිනාකම 2024 ජුලි මාසයේදී ඩොලර් මිලියන 5,649 ක් දක්වා 0.1% කින් අඩු වී ඇත.
+The number of official reserves owned by the Central Bank of Sri Lanka has fallen shortly in July 2024.
 
-නිල සංචිත වත්කම් තුළ අන්තර්ගත ප්‍රධාන සංරචකය වන විදේශ විනිමය සංචිතය පසුගිය ජුලි මාසය අවසානයේදී ඩොලර් මිලියන 5,574 ක් ලෙසින් සටහන් වේ.
+According to the latest data issued by the Central Bank of Sri Lanka.
 
-මෙය 2024 ජුනි මාසයේදී වාර්තා වී ඇති ඩොලර් මිලියන 5,605 ට වඩා 0.6% ක අඩුවීමකි.
+Accordingly, in June 2024, the official reserve asset was reduced by 0.16% to US $ 5,649 million in July 2024.
 
-මේ අතර ශ්‍රී ලංකා මහ බැංකුව සතු රන් සංචිතය පසුගිය ජුලි මාසය තුළදී ඩොලර් මිලියන 35 සිට ඩොලර් මිලියන 37 ක් දක්වා 5.2%කින් ඉහළ ගොස් තිබීම ද විශේෂත්වයකි.
+Forex pool of foreign exchange reserves in the official reserve assets, the forex reserve is US $ 5,574 million in July.
 
-මෙම නිල සංචිත වත්කම් තුළ එක්සත් ජනපද ඩොලර් බිලියන 1.4කට පමණ සමාන වූ චීන මහජන බැංකුවෙන් ලද විදේශ විනිමය හුවමාරු පහසුකමෙහි ලැබීම් අන්තර්ගත වන අතර, එය භාවිත කිරීමේදී කොන්දේසිවලට යටත් වන බව ශ්‍රී ලංකා මහ බැංකුව වැඩිදුරටත් සඳහන් කරයි.
+This is 0.6% more than $ 5,605 million in June 2024.
+
+Meanwhile, the Central Bank of Sri Lanka has increased by $ 37 million from $ 37 million from US $ 37 million in July.
+
+In the official reserve assets, the foreign exchange exchange features of the People's Bank of China, which is equal to US $ 1.4 billion, contains receipts of foreign exchange transaction.
 
 ◼️
 
 [Data](articles/f3c9eac3.json)
 
+[Extended Data](ext_articles/f3c9eac3.ext.json)
+
 ---
 
-### පරිගණක උපාංග තුළ සැඟවූ මත්ද්‍රව්‍ය තොගයක් සොයාගනියි
+### Find a stock of drugs hidden in computer accessories
 
 *2024-08-07 19:44:09* · [`adalk`](https://www.ada.lk/breaking_news/පරිගණක-උපාංග-තුළ-සැඟවූ-මත්ද්‍රව්‍ය-තොගයක්-සොයාගනියි/11-411255) · `si`
 
-අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 5කට අධික ප්‍රමාණයක් කටුනායක බහාලුම් අංගනය තුළ සිදු කළ වැටලීමකදී සොයාගෙන තිබේ.
+In a significant bust, over 10 kilograms of ice were discovered hidden in 63 computer accessories at the Katunayake container yard.
 
-පරිගණක උපාංග 63ක් තුළ සඟවා මෙරටට රැගෙනවිත් තිබියදී මෙම මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇත.
+🟩
+
+Over 5 kilograms of ice drugs, more than 5 kilograms of ice is found in the Katunayake container yard.
+
+The drug was recovered from 63 Computer Accessories.
 
 ◼️
 
 [Data](articles/23fb0844.json)
+
+[Extended Data](ext_articles/23fb0844.ext.json)
 
 ---
 
@@ -2295,33 +2341,5 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 [Data](articles/3633297b.json)
 
 [Extended Data](ext_articles/3633297b.ext.json)
-
----
-
-### Death of Young Mother: Some people have failed
-
-*2024-08-07 02:49:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தாய்-மரணம்-சிலர்-தவறிழைத்தமை-அம்பலமானது/175-341728) · `ta`
-
-A young mother, Mariaraj Sindhuja, a graduate from Mannar District General Hospital, tragically passed away due to alleged negligence. The incident, which occurred on July 28, led to an investigation by the Independent Investigation Committee and the Union Health Ministry. The Northern Provincial Ministry of Health has also initiated actions based on the findings.
-
-🟩
-
-Due to the failure of some, a young mother, a graduate of the Mannar District General Hospital, died tragically.
-
-According to the Mannar District General Hospital Director Dr. Azad M Haneefa, said that the matter was mentioned in the investigation report of the Independent Investigation Committee set up by the Secretary of the Northern Provincial Ministry of Health.
-
-Mariaraj Sindhuja, a 27 -year -old graduate from Mannar - Thampanikulam, died at the Mannar District General Hospital.The incident took place on Sunday, July 28.
-
-On the day of the incident, the woman was accused of the death of the woman in the hostel.
-
-An independent inquiry committee has been appointed by the Northern Provincial Ministry of Health to visit the Mannar District General Hospital.
-
-A special report has been sent to the Secretary of the Northern Provincial Ministry of Health for further measures.
-
-...
-
-[Data](articles/98d9b4a1.json)
-
-[Extended Data](ext_articles/98d9b4a1.ext.json)
 
 ---

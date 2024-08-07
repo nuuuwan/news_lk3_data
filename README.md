@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 10:21:00**
+As of **2024-08-07 10:36:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,674
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,425 (100.0%) of 39,433 articles have been extended.
+39,433 (100.0%) of 39,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,45 +50,59 @@ One resident who lives near Sundance Airport told KOCO 5 News that his son heard
 
 [Data](articles/f5bb37b4.json)
 
+[Extended Data](ext_articles/f5bb37b4.ext.json)
+
 ---
 
-### යුක්තිය දෙවන අදියරෙන් සැකකරුවන් 750ක් අත්අඩංගුවට
+### 750 suspects arrested in phase of justice
 
 *2024-08-07 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199659) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ ක්‍රියාත්මක වන මත්ද්‍රවශ වැටලීම් පිළිබඳ පොලිස් මාධ්‍ය ප්‍රකාශයක කාර්යාලය නිවේදනයක් නිකුත් කර තිබේ.
+In a drug operation, 750 suspects were arrested, including 26 in its second phase. 22 will face further investigation, while three will undergo asset scrutiny and another three will go to rehab. The operation involved 503 raids overall, with 62 in the Southern Province.
 
-ඒ අනුව යුක්තිය මෙහෙයුමේ දෙවන අදියර යටතේ ඊයේ (06) දිනය තුළ සිදුකෙරූ මුළු වැටලීම් 780කට අදාළව සැකකරුවන් 750ක් සහ සැකකාරියන් 26 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+🟩
 
-ඉන් සැකකරුවන් 22ක් වැඩිදුර විමර්ශනය සඳහා රඳවා තබා ගැනීමේ නියෝග ලබා ගැනීමට නියමිත අතර සැකකරුවන් 03 දෙනෙකුගේ වත්කම් විමර්ශනය කිරීමට ද, තිදෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිත බවද සඳහන්.
+Office of a Police Media Declaration on Drugs in operation operated under the operation of justice has issued a statement.
 
-මෙම මෙහෙයුමේදී බස්නාහිර පළාත තුළ වැටලීම් 503ක් ද දකුණු පළාත තුළ වැටලීම් 62ක්ද සිදුකළ බව පොලීසිය පවසයි.
+Accordingly, 750 suspects and 26 suspects have been arrested in connection with the second phase of the justice operation in yesterday's yesterday (06).
+
+22 suspects are to be obtained for further investigations and is expected to investigate the assets of three suspects and three suspects are to be sent to rehabilitation.
+
+In this operation, 503 raids and 62 raids in the Southern Province were produced in the Southern Province.
 
 ◼️
 
 [Data](articles/1a007aa8.json)
 
+[Extended Data](ext_articles/1a007aa8.ext.json)
+
 ---
 
-### நாமல் ராஜபக்ஷவும் போட்டி
+### Namal Rajapaksa also competition
 
 *2024-08-07 09:48:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷவும்-போட்டி/175-341737) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஜனாதிபதித் தேர்தலில் பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவை அந்த பெரமுன உத்தியோகபூர்வமாக அறிவித்துள்ளது.
+Namal Rajapaksa, the eldest son of former President Mahinda Rajapaksa, has been named the presidential candidate for the Sri Lanka People's Party (PA). A parliamentarian from Hambantota and the party's national organizer, he previously handled sports and youth affairs. Known for his talent in rugby, representing Mount St. Thomas College and the Sri Lankan National Rugby Team, he was first elected to parliament in 2010.
 
-பத்தரமுல்ல நெலும் மாவத்தையில் அமைந்துள்ள பொதுஜன பெரமுனவின் தலைமைக் காரியாலயத்தில் தற்போது இடம்பெற்றுவரும் விசேட வைபவத்தில் கட்சியின் செயலாளர் சட்டத்தரணி .சாகர காரியவசம் ஜனாதிபதி வேட்பாளராக நியமிக்கப்படவுள்ளதாக அறிவித்தார்.
+🟩
 
-ஹம்பாந்தோட்டை மாவட்ட பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ பொதுஜன பெரமுனவின் தேசிய அமைப்பாளராகவும் செயற்படுகின்றார்.
+The Peramuna has officially announced parliamentarian Namal Rajapaksa as the presidential candidate of the Sri Lanka PA's presidential election.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் மூத்த புதல்வர் நாமல் ராஜபக்ஷ, கடந்த பொதுஜன பெரமுன அரசாங்கத்தில் விளையாட்டு மற்றும் இளைஞர் விவகாரங்களுக்கு பொறுப்பாக இருந்தார்.
+The party secretary's lawyer at the ongoing special ceremony at the PA's Headquarters Office in Battaramulla Nelum Mawatha has announced that he will be nominated as the presidential candidate.
 
-முப்பத்தெட்டு வயதான நாமல் ராஜபக்ச, 2010 பொதுத் தேர்தலில் முதன்முறையாக பாராளுமன்றத்திற்கு தெரிவானார்.
+Hambantota district parliamentarian Namal Rajapaksa is also the national organizer of the PA.
 
-மவுண்ட் செயின்ட் தோமஸ் கல்லூரியின் பழைய மாணவரான நாமல் ராஜபக்ஷ ஒரு திறமையான ரக்பி வீரர் ஆவார். இலங்கை தேசிய ரக்பி அணியின் தலைவராகவும் இருந்தார்
+Namal Rajapaksa, the eldest son of former President Mahinda Rajapaksa, was responsible for sports and youth affairs in the last PA.
+
+Thirty -eight -year -old Namal Rajapaksa was elected to parliament for the first time in the 2010 general election.
+
+Namal Rajapaksa is a talented rugby player of Mount St. Thomas College. He was also the head of the Sri Lankan National Rugby Team
 
 ◼️
 
 [Data](articles/a6cf5515.json)
+
+[Extended Data](ext_articles/a6cf5515.ext.json)
 
 ---
 
@@ -134,29 +148,41 @@ Eravur police are taking action to arrest the persons involved in the murder and
 
 ---
 
-### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+### Parliament meet today
 
 *2024-08-07 09:23:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411245) · `si`
 
-පාර්ලිමේන්තුව අද(07දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+Today's Parliament session, held under Speaker Mahinda Yapa Abeywardena, took place as scheduled.
+
+🟩
+
+Parliament was held today (07) under the patronage of Speaker Mahinda Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/9f74c968.json)
 
+[Extended Data](ext_articles/9f74c968.ext.json)
+
 ---
 
-### නාමල් ජනපති සටනට
+### Namal to fight President
 
 *2024-08-07 09:16:21* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ජනපති-සටනට/11-411244) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතා නම් කිරීම මීට සුළු මොහොතකට පෙර සිදු කළේය.
+Namal Rajapaksa announced his candidacy for President of Sri Lanka, supported by his uncle Mahinda Rajapaksa and brother Basil Rajapaksa, marking a significant moment ahead of the elections.
 
-ඒ පක්ෂ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, බැසිල් රාජපක්ෂ ඇතුලු පක්ෂ මන්ත්‍රීවරුන්ගේ ප්‍රධානත්වයෙන් දැන් පැවැත්වෙන උත්සවයකදීයි.
+🟩
+
+Namal Rajapaksa made a few moments before the Presidential Election Candidate for the Sri Lanka General Front.
+
+It was at a ceremony at a ceremony with former President Mahinda Rajapaksa, President Mahinda Rajapaksa and Basil Rajapaksa.
 
 ◼️
 
 [Data](articles/1198134d.json)
+
+[Extended Data](ext_articles/1198134d.ext.json)
 
 ---
 
@@ -432,17 +458,23 @@ It is reported that 24 people, including the Indonesian citizen, were killed in 
 
 ---
 
-### விருந்தகத்தில் தீ:  24 பேர் பலி
+### Fire in Humans: 24 killed
 
 *2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
 
-பங்களாதேஷின் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியைச் சேர்ந்த உறுப்பினர் ஒருவருக்குச் சொந்தமான விருந்தகத்திற்கு போராட்டக்காரர்கள் தீ வைத்துள்ளனர்.
+Protesters set fire to a party event, killing 24, including an Indonesian, linked to Bangladesh's ex-PM Sheikh Hasina.
 
-இந்த தீ விபத்தில் இந்தோனேசிய பிரஜை உட்பட 24 பேர் உயிரிழந்துள்ளனர் என  தெரிவிக்கப்படுகின்றது.
+🟩
+
+The protesters set fire to a party belonging to a member of the party's former Prime Minister Sheikh Hasina.
+
+It is reported that 24 people, including the Indonesian citizen, were killed in the fire.
 
 ◼️
 
 [Data](articles/d4bdb474.json)
+
+[Extended Data](ext_articles/d4bdb474.ext.json)
 
 ---
 
@@ -1988,21 +2020,31 @@ Accordingly, the Cabinet of Transport and Highways has been approved by the Cabi
 
 ---
 
-### 2024දී අලි ඇතුන් 197ක් මිය ගිහින්
+### 197 elephants died in 2024
 
 *2024-08-06 19:04:54* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-අලි-ඇතුන්-197ක්-මිය-ගිහින්/11-411239) · `si`
 
-මේ වසරේ ජනවාරි 01වන දින සිට ඊයේ (06දා) දක්වා කාලය තුළදී අලි මිනිස් ගැටුම් නිසා හා වෙනත් හේතුන් නිසා අලි ඇතුන් 197ක් මිය ගොස් තිබෙන බවත් මීට අමතරව අලි මිනිස් ගැටුම නිසා මිනිසුන් 73දෙනෙකු මිය ගොස් තිබෙන බවත් වනසත්ත්ව හා ස්වභාව ආරක්ෂක සංගමය සඳහන් කරයි.
+In 2024, 197 elephants died, while 73 humans were killed by elephants. The Elephant Subcommittee reported 479 elephant deaths last year. Despite this, the elephant population is increasing, leading to proposals for exporting or domesticating them. A national survey found 5,879 elephants in Sri Lanka in 2011, with 7,770 killed since then. It's challenging to match the birth rate with death rates, prompting calls to manage human-elephant conflicts effectively.
 
-පසුගිය වසර තුළදී අලි ඇතුන් 479ක් මරණයට පත්ව තිබෙන බවත් මීට අමතරව අලි මිනිස් ගැටුම නිසා  පුද්ගල මරණ169ක් සිදුව තිබෙන බවද එම සංගමයේ අලි මිනිස් සහජීවනය පිළිබඳ උපකමිටුව සභාපති සුපුන් ළහිරු ප්‍රකාශ් මහතා සඳහන් කළේය.
+🟩
 
-මෙවැනි පසුබිමක් තුළ මෙරට අලි ඇතුන් ගහනය ඉහළ යමින් පවතින බවත් ඔවුන් අපනයනය හෝ ගෘහාශ්‍රිතකරණය කළ යුතු බවට පාර්ලි‌‌මේන්තුව තුළදී මන්ත්‍රීවරයෙකු ඊයේ (06දා) යෝජනා කර තිබෙන බවත් මෙම යෝජනාව කිසිදු පදනමක් නොමැති යෝජනාවක් බවද පැවසීය.
+Due to eight elephants from January 1 this year, 73 people were killed in 197 people due to other reasons.
 
-අලි ඇතුන් පිළිබඳව මෙරට සිදු කළ පළමු ජාතික සමීක්ෂණයට අනුව 2011 වසරේ ශ්‍රී ලංකාවේ අලි ඇතුන් 5,879 ක් වාර්තා වී තිබූ බවත් කෙසේ වෙතත් 2012 සිට නිල සංඛ්‍යාලේඛන පෙන්වා දෙන ආකාරයට මේ දක්වා කාලය තුළදී අලි ඇතුන් 3,770ක් මරණයට පත්ව තිබෙන බවද සඳහන් කළේය.
+The Elephant Assistant Subcommittee on Elephant Assistant said that 479 elephants were killed in the past year.
 
-...
+In this backdrop, the elephant population is rising and a member of the Parliament has proposed to be exported or domesticized and the proposal is a proposal.
+
+According to the first national survey of elephants, 5,879 elephants in Sri Lanka, 5,879 elephants were reported in 2011, 7,770 elephants were killed in the period.
+
+He also said that it was difficult to think that elephants would be born in a pace, compared to the dying.
+
+The authorities have asked the authorities to reduce their daily elephant conflict, including the daily elephant conflict.Mentioned.
+
+◼️
 
 [Data](articles/c830533d.json)
+
+[Extended Data](ext_articles/c830533d.ext.json)
 
 ---
 

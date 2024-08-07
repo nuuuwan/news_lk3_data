@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 23:07:20**
+As of **2024-08-07 23:20:56**
 
 ## Newspaper Stats
 
-*Scraped **39,509** Articles*
+*Scraped **39,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,634
-adaderanalk | 4,591
+adaderanalk | 4,592
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,963
 virakesarilk | 6,246
@@ -26,11 +26,35 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,509 (100.0%) of 39,509 articles have been extended.
+39,509 (100.0%) of 39,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### 4 Chinese passengers, pilot killed in helicopter crash in Nepal
+
+*2024-08-07 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101069/4-chinese-passengers-pilot-killed-in-helicopter-crash-in-nepal) · `en`
+
+A helicopter crashed in central Nepal on Wednesday, killing all five people aboard including the pilot and four Chinese tourists.
+
+Nepal has a woeful track record on aviation safety and the Himalayan republic has seen a spate of deadly light plane and helicopter crashes over the decades.
+
+The Air Dynasty chopper was heading to Syabrubesi, a starting point for many trekking routes popular with tourists, from the capital Kathmandu.
+
+It lost contact about three minutes after taking off, a press release from the Civil Aviation Authority said, and crashed in Nuwakot district north of the capital.
+
+Another helicopter was dispatched immediately to the accident site for rescue, it said.
+
+“All five people aboard including the pilot are dead,” police spokesman Dan Bahadur Karki told AFP.
+
+Nuwakot district officer Ram Krishna Adhikari said five dead bodies have been retrieved from the accident site.
+
+...
+
+[Data](articles/c644fbe6.json)
+
+---
 
 ### Another 100 will leave for jobs in Korea
 
@@ -2361,25 +2385,5 @@ MPs say that their parliamentary privileges have been broken. Of these, journali
 [Data](articles/5cb73a48.json)
 
 [Extended Data](ext_articles/5cb73a48.ext.json)
-
----
-
-### Ceylon Chamber launches ‘Vision 2030’ policy document
-
-*2024-08-07 03:33:11* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-Vision-2030-policy-document/34-765248) · `en`
-
-Designed to encourage bipartisan approach towards sustainable and inclusive development
-
-The Ceylon Chamber of Commerce launched its landmark policy document, ‘Vision 2030,’ designed to steer Sri Lanka towards sustainable and inclusive development by 2030.
-
-The inaugural copy of this comprehensive economic plan was presented to President Ranil Wickremesinghe. The document will also be distributed to political party leaders, the Central Bank Governor, and the Treasury Secretary, to promote a bipartisan approach towards prioritising the national economy and public welfare.
-
-‘Vision 2030’ sets forth a Five-Year Economic Plan focusing on various sectors, each with targeted goals and strategic policy interventions aimed at transforming Sri Lanka’s economic landscape. Among the critical sectors it addresses are healthcare, agriculture, education, and logistics, while also emphasising key enablers like tax reforms, trade reforms, digitalisation, and power and energy reforms
-
-...
-
-[Data](articles/d9667c8a.json)
-
-[Extended Data](ext_articles/d9667c8a.ext.json)
 
 ---

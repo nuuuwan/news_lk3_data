@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 08:15:38**
+As of **2024-08-07 08:25:21**
 
 ## Newspaper Stats
 
-*Scraped **39,407** Articles*
+*Scraped **39,412** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 336
 newsfirstlk | 363
-bbccomsinhala | 370
+bbccomsinhala | 371
 colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
 adalk | 3,620
-adaderanalk | 4,574
+adaderanalk | 4,575
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,942
-virakesarilk | 6,232
-adaderanasinhalalk | 6,669
+tamilmirrorlk | 4,943
+virakesarilk | 6,233
+adaderanasinhalalk | 6,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,405 (100.0%) of 39,407 articles have been extended.
+39,407 (100.0%) of 39,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-07 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101052/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places in Eastern, Uva and Northern provinces, the department said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/57b43543.json)
+
+---
+
+### මංතීරු කඩකිරීම හේතුවෙන් අරුණ දර්ශන තරගාවලියෙන් ඉවතට
+
+*2024-08-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199655) · `si`
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ  මීටර 400 පිරිමි ඉසව්වේ අවසන් පූර්ව වටයට සහභාගීවූ ශ්‍රී ලංකාවේ අරුණ දර්ශන මංතීරු නීති උල්ලංඝනය කර තිබීම හේතුවෙන් ඔහුගේ ප්‍රතිඵලය අහෝසි කර තිබේ.
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ  මීටර 400 පිරිමි ඉසව්වේ අවසන් පූර්ව වටයට ශ්‍රී ලංකාවේ අරුණ දර්ශන තරග වැදුණේ සිව්වැනි මංතීරුවේය.
+
+සුවහසක් ශ්‍රී ලංකා ක්‍රීඩාලෝලීන්ගේ බලාපරෛාත්තුවත් සමඟ අරුණ දර්ශන ඊයේ රාත්‍රී 11.05ට පමණ ක්‍රීඩාංගණයට පිවිසියේය.
+
+එම ඉසව්ව අවසන් කිරීමට අරුණ ගතකල කාලය තත්පර 44 යි දශම 7යි 5කි.
+
+එම කාලය අරුණගේ පෞද්ගලික හොඳම දක්ෂතාව ලෙස වාර්තා අතරට එක්වුණු අතර ඔහුගේ දක්ෂතාව දෙවැනි වුණේ සුගත් තිලකරත්නට පමණයි.
+
+නමුත් එම තරගයේදී අරුණ, ධාවන මංතීරු නිති උල්ලංගණය කර තිබීම හේතුවෙන් අරුණගේ එම දක්ෂතාව අවලංගු කිරීමට තරග සංවිධායකයන් කටයුතු කළේය.
+
+◼️
+
+[Data](articles/869db91b.json)
+
+---
+
+### பங்களாதேஷ் விருந்தகத்தில் தீ:  24 பேர் பலி
+
+*2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
+
+பங்களாதேஷின் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் கட்சியைச் சேர்ந்த உறுப்பினர் ஒருவருக்குச் சொந்தமான விருந்தகத்திற்கு போராட்டக்காரர்கள் தீ வைத்துள்ளனர்.
+
+இந்த தீ விபத்தில் இந்தோனேசிய பிரஜை உட்பட 24 பேர் உயிரிழந்துள்ளனர் என  தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/846d2c76.json)
+
+---
 
 ### Another suspect arrested for killing Club Spring
 
@@ -161,6 +215,24 @@ MP Namal Rajapaksa is to be named as the candidate of the Sri Lanka Civil Appoin
 [Data](articles/ba67f0a2.json)
 
 [Extended Data](ext_articles/ba67f0a2.ext.json)
+
+---
+
+### டிரம்ப் உட்பட பலரை கொலை செய்ய திட்டம் - பாக்கிஸ்தானை சேர்ந்தவர் அமெரிக்காவில் கைது
+
+*2024-08-07 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190458) · `ta`
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பினை கொலை செய்ய திட்டமிட்ட குற்றச்சாட்டின் கீழ்; பாக்கிஸ்தானை சேர்ந்த நபர் ஒருவரை அமெரிக்க அதிகாரிகள் கைதுசெய்துள்ளனர்.
+
+அமெரிக்க அரசியல்வாதிகளை கொலை செய்ய திட்டமிட்டார் என ஈரானுடன் தொடர்புகளை கொண்டுள்ள பாக்கிஸ்தானை சேர்ந்த நபருக்கு  எதிராக அமெரிக்க அதிகாரிகள் குற்றச்சாட்டுகளை சுமத்தியுள்ளனர்.
+
+அமெரிக்காவின் முக்கிய அதிகாரிகளை கொலைசெய்வதற்காக நபர் ஒருவரை அமர்த்துவதற்கு 46 வயது அசிவ் மேர்ச்சன்ட் முயன்றார் என அதிகாரிகள் குற்றம்சாட்டியுள்ளனர்.
+
+பொதுஅதிகாரி,அல்லது அமெரிக்க பிரஜையை கொல்வதற்கான வெளிநாட்டு சதி எங்களின் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தலான விடயம் என எவ்பிஐயின் இயக்குநர்   தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e1bc0de2.json)
 
 ---
 
@@ -483,6 +555,24 @@ No one else has come forward to accept. So it is absolutely wrong to say that I 
 [Data](articles/2e92f288.json)
 
 [Extended Data](ext_articles/2e92f288.ext.json)
+
+---
+
+### වසර 45ක් ස්වේච්ඡාවෙන් දරුවන්ට පාර කියන අත්තම්මා
+
+*2024-08-07 02:08:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgrjjvg1k4eo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සතියේ දිනවල පෙරවරු 6.00 සිට පස්වරු 3.00 පමණ වනතෙක් ඇය කෑගල්ල, බණ්ඩාරනායක ප්‍රාථමික විද්‍යාලය අසළ සිට සිය මෙහෙවර ඉටු කරන්නීය.
+
+වසර 45ක් පුරා ස්වේච්ඡාවෙන් 'දරුවන්ට පාර කියන අත්තම්මා' ලෙස ප්‍රසිද්ධියට පත් වූ ලිලී වයලට් බොහෝ දෙනාගේ ආදරය හිමිකර ගන්නීය.
+
+සතියේ දිනවල පෙරවරු 6.00 සිට පස්වරු 3.00 පමණ වනතෙක් ඇය කෑගල්ල, බණ්ඩාරනායක ප්‍රාථමික විද්‍යාලය අසළ සිට සිය මෙහෙවර ඉටු කරන්නීය.
+
+දරුවන්ගේ ආරක්ෂාව වෙනුවෙන් වසර 45ක් අසීමිත කැප කිරීම් කළ, පරාර්ථකාමී මෙහෙවරක නිරත ලිලී වයලට් ආදර්ශවත් චරිතයක් ලෙස පාසල් පෙළ පොතකට ද ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/bf084e7f.json)
 
 ---
 
@@ -1346,19 +1436,29 @@ Next, 9 fishermen arrested on July 23 have already been submitted to the second 
 
 ---
 
-### පොහොට්ටුවේ අපේක්ෂකයා ධම්මිකද? නාමල්ද?
+### Dhammika is the candidate of the pove?Namal?
 
 *2024-08-06 20:13:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-අපේක්ෂකයා-ධම්මිකද--නාමල්ද-/11-411243) · `si`
 
-2024 ජනාධිපතිවරණයට ඉදිපත් කෙරෙන ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි අපේක්ෂකයාගේ නම ප්‍රකාශයට පත්කිරීම අද (07දා) පෙරවරු 7.30ට පමණ බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි එම පක්ෂ මූලස්ථානයේදී සිදුකිරීමට නියමිතය.
+Despite initial speculation, Dhammika Perera is not the Sri Lanka Care party's candidate for the 2024 presidential election. The party has instead chosen to back President Ranil Wickremesinghe. This decision comes after significant internal discussions, with the National Organizer playing a key role in securing the agreement of the general membership. The move reflects broader political dynamics, including concerns over potential crises affecting the party's standing.
 
-ඒ අනුව එම පක්ෂයේ අපේක්ෂකයා ලෙස ව්‍යාපාරික ධම්මික පෙරේරා මහතාව ඉදිරිපත් කිරීමට ශ්‍රී ලංකා පොදුජන පෙරමුණ ඊයේ (06දා) දිනය වනතුරුම සැලසුම් කර තිබුණද ශ්‍රී ලංකා පොදුජන පෙරමු‍ණ නියෝජනය කරන අති බහුතරයක් වූ පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිස ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දීමට තීරණය කිරීම නිසා ධම්මික පෙරේරා මහතාගේ තීරණයේ වෙනසක් සිදුව ඇති බවද දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+🟩
 
-ඒ අනුව ඊයේ රාත්‍රීවනතුරුම පොදුජන පෙරමුණේ අපේක්ෂකයා කවුරුන්දැයි යන්න පිළිබඳව දැඩි අර්බුදයක් පැවති අතර කෙසේ හෝ ව්‍යාපාරික ධම්මික පෙරේරා මහතාව ජනාධිපතිධුර අපේක්ෂකත්වයට ඉදිරිපත් කිරීමට එකඟ කරවා ගැනීමට පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා ඇතුළු පිරිස දැඩි වෙහෙසක් ගෙන තිබිණි.
+The publication of the name of the candidate of the Sri Lanka Care, which will sit on the 2024 presidential election will be held at the party headquarters at Nelum Mawatha, Battaramulla around 7.30 am.
+
+Accordingly, Despite the vast majority of MP Dhammika Perera as the party's candidate, the Sri Lanka Cran's Front has decided to support President Ranil Wickremesinghe to assist President Ranil Wickremesinghe.According to political sources, the difference has happened.
+
+Accordingly, the National Organizer of the Khamman Kamman Kamadha had taken a lot of effort to agree to the general forest candidate at the Civil Aravana Peramuna.
+
+If Dhammika Perera is not contesting the presidential election, the National Organizer of the Civil Organizing General Secretary of the General Secretary of the CE.
+
+Meanwhile, the view of the Rajapaksa family members have been intense crisis and that the homage can be severely affected by the pointer.
 
 ...
 
 [Data](articles/9a23e439.json)
+
+[Extended Data](ext_articles/9a23e439.ext.json)
 
 ---
 
@@ -2131,135 +2231,5 @@ Moreover, the student body has insisted that they have no agreement with the mil
 [Data](articles/5fd306c6.json)
 
 [Extended Data](ext_articles/5fd306c6.ext.json)
-
----
-
-### 5000 rupees to regional journalists - logic between Tolawatta and Kiriella
-
-*2024-08-06 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190431) · `ta`
-
-Lakshman Kiriella, opposition leader, claimed the Presidential Secretariat funded a trip for regional journalists to Colombo, offering them 5,000 rupees vouchers. This was denied by Premnath C. Thelawatta, a ruling party MP, who insisted he wasn't lying about the journalists' visit organized by Minister Manusha Nanayakkara. The controversy arose during a parliamentary debate on underworld activities, with both sides accusing each other of misinformation and political maneuvering.
-
-🟩
-
-Lakshman Kiriella, the chief of the opposition parties, said that the Presidential Secretariat had brought the regional journalists to Colombo and would provide them with a voucher of Rs 5,000.. "I reject this," said Premnath C. Thelawatta, a ruling parliamentarian.
-
-Divisional journalists have been invited to Colombo under the auspices of Minister Manusha Nanayakkara. I am not lying.
-
-The Member of Parliament, Lakshman Kriella, had brought the relevant to Colombo, a member of the Rule of the Ruling Council, Premnath Tolawatta, a member of the ruling party, who was speaking at the adjournment debate on the issue of the Underworld.I urge the journalists to avoid estimating 5000 rupees.
-
-The activities of the Colombo Regional Journalists were carried out through my office.
-
-Opposition member Rohana Bandara said, "You are lying. Lakshman Kiriella mentioned that it was true that regional journalists were invited to Colombo through the Presidential Secretariat.
-
-...
-
-[Data](articles/763c8a44.json)
-
-[Extended Data](ext_articles/763c8a44.ext.json)
-
----
-
-### Regional Centre for Maritime Studies in Sri Lanka with French support
-
-*2024-08-06 16:12:00* · [`economynextcom`](https://economynext.com/regional-centre-for-maritime-studies-in-sri-lanka-with-french-support-175505/) · `en`
-
-ECONOMYNEXT – A Regional Centre for Maritime Studies will be set up in Sri Lanka with the support of France, a government statement said.
-
-The centre will be set up at the General Sir John Kotelawala Defence University with assistance from the Trincomalee Naval and Maritime Academy.
-
-The Cabinet of Ministers has approved the proposal presented by President Ranil Wickremesinghe as Defence Minister to enter into a bilateral agreement between the Government of Sri Lanka and Government of France to set up the ‘Regional Centre for Maritime Studies’.
-
-France has identified Sri Lanka as the most suitable location for the study and dissemination of throughout the region due to the various initiatives the country has taken as a member of the Association of Indian Ocean Rim countries. (Colombo/Aug6/2024)
-
-◼️
-
-[Data](articles/777a518a.json)
-
-[Extended Data](ext_articles/777a518a.ext.json)
-
----
-
-### Provincial Council Elections (Amendment) Bill
-
-*2024-08-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190412) · `ta`
-
-The Tamil National Alliance (TNA) proposed the Provincial Council Elections (Amendment) Bill for a second reading in Parliament, aiming to amend how Provincial Councils operate, including governance appointments and law enforcement. This move comes after the government indefinitely postponed provincial council elections, potentially impacting the Sinhalese and Muslim communities in the North. The bill was introduced prior to the presidential election, possibly to secure TNA support.
-
-🟩
-
-Prior to the presidential election, the TNA elections (Amendment) Bill had been brought into the voting of the TNA.
-
-During the session held in Parliament on Tuesday (06), the Tamil National Alliance (TNA) parliamentarian MA Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the House for a second reading.
-
-The Good Governance Government has indefinitely dismissed the provincial council election.
-
-If the Chief Minister of the Provincial Councils appoints the Governor of the Provincial Councils, the police, land and environmental canon can be enacted.
-
-The Provincial Council Elections Bill has been introduced before the presidential election in order to gain the cooperation of the TNA.
-
-The Sinhalese and Muslim community living in the North will be affected as a vote bomb.
-
-◼️
-
-[Data](articles/ceb3169e.json)
-
-[Extended Data](ext_articles/ceb3169e.ext.json)
-
----
-
-### The ban on the SLFP office extended
-
-*2024-08-06 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199633) · `si`
-
-The ban on the SLFP office was extended due to a dispute involving Thilanga Sumathipala and Minister Nimal Sumathipala, which led to legal action. The Court of Appeal ordered the recall of a petition filed by Minister Nimal Siripala de Silva and directed respondents to file documents by September 6. The case involves allegations of criminal conduct and a request for an interim injunction.
-
-🟩
-
-UPFA General Secretary General of UPFA general secretary Thilanga Sumathipala against Minister Nimal Sumathipala has been extended to Minister Nimal Sumathipala to proceed to Minister Nimal Siripala de Silva.The Court of Appeal has been ordered.
-
-The petition filed by Minister Nimal Siripala de Silva, Minister Nimal Siripala de Silva has been recalled before the Court of Appeal Judge Mohamed Laifar Thaharper.
-
-The court also ordered the respondents to file them on September 6.
-
-Petitioquor Nimal Siripala de Silva, Secretary to the United Front, said Thilanga Sumathipala, Colombo. B. He had lodged a private complaint before the Maligakanda Magistrate's Court that two security personnel had come to the door to the doors.
-
-The petition states that the private complaint has already lodged a private complaint under the Criminal Procedure of the Criminal Procedure, including misdemeanion.
-
-...
-
-[Data](articles/7e3dcb3b.json)
-
-[Extended Data](ext_articles/7e3dcb3b.ext.json)
-
----
-
-### Power to build up against China
-
-*2024-08-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199632) · `si`
-
-The US and its allies in Southeast Asia are bolstering their naval presence in the Indian Ocean, particularly around the Philippines, East Timor, Papua New Guinea, and Australian territories. This move comes amid concerns over China's growing influence in the region. The US is reportedly planning a new naval force and enhancing its military infrastructure, including bases in Northern Australia and the Darwin area. Additionally, there's focus on the strategic importance of the Kokos Islands and the Malacca Strait, which are crucial for China's oil supply. These actions signal a broader strategy to counterbalance China's economic and military might in the region.
-
-🟩
-
-Like the US and the US-in-law of the Southeast Asian, the American favorable countries of the Southeast Asian, showcase an ineffective nature of being an economic power and regional armed power.
-
-International media reports that US security forces will create plans to create a new naval force in the Indian Ocean, especially.
-
-It has been reported that the Philippines, East Timor and Papua New Gueria and a range of islands belonging to Australia.
-
-According to foreign media, the island of the United States of America, the Kookos, the Australian motherland to be resented by the US Naval Forum in the United States.
-
-It is also in Australia that these islands with a population of about 600 people in the Indian Ocean's confidential information.
-
-Australian authorities have shown that the importance of Chinese submarine operations in the Indian Ocean has increased.
-
-The International Media reported that America Naval Infrastructure has been included in the new Navy infrastructure development plan.
-
-...
-
-[Data](articles/d3754df1.json)
-
-[Extended Data](ext_articles/d3754df1.ext.json)
 
 ---

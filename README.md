@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 06:03:22**
+As of **2024-08-07 06:24:58**
 
 ## Newspaper Stats
 
-*Scraped **39,387** Articles*
+*Scraped **39,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ dailyftlk | 2,535
 adalk | 3,618
 adaderanalk | 4,574
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,940
+tamilmirrorlk | 4,942
 virakesarilk | 6,232
-adaderanasinhalalk | 6,663
+adaderanasinhalalk | 6,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,387 (100.0%) of 39,387 articles have been extended.
+39,387 (100.0%) of 39,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2024-08-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199648) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසනුයේ දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+නැගෙනහිර, ඌව සහ උතුරු පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් එහි සඳහන්.
+
+◼️
+
+[Data](articles/9bb1aed2.json)
+
+---
 
 ### Ceylon Chamber launches ‘Vision 2030’ policy document
 
@@ -230,6 +246,26 @@ During the meeting, President of the GMOA  Dr. Darshana Sirisena and other offi
 
 ---
 
+### இளம் தாய் மரணம்: சிலர் தவறிழைத்தமை அம்பலமானது
+
+*2024-08-07 02:49:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தாய்-மரணம்-சிலர்-தவறிழைத்தமை-அம்பலமானது/175-341728) · `ta`
+
+சிலர் தவறிழைத்தமையால், மன்னார் மாவட்ட பொது வைத்தியசாலையில்  பட்டதாரியான இளம் தாய் ஒருவர்  சிகிச்சை பலனின்றி பரிதாபமாக உயிரிழந்தமை அம்பலமானது.
+
+இந்த சம்பவம் தொடர்பில் வடமாகாண சுகாதார அமைச்சின் செயலாளரினால் அமைக்கப்பட்ட சுயாதீன விசாரணை குழுவின் விசாரணை அறிக்கையில் மேற்படி விடயம் குறிப்பிடப்பட்டுள்ளது என மன்னார் மாவட்ட பொது வைத்தியசாலையின் பணிப்பாளர் வைத்தியர் அஸாத் எம் ஹனீபா தெரிவித்துள்ளார்.
+
+மன்னார்  - தம்பனைக்குளம்  பகுதியைச் சேர்ந்த 27 வயதான பட்டதாரியான மரியராஜ் சிந்துஜா என்ற தாய்,  மன்னார் மாவட்ட பொது வைத்தியசாலையில் சிகிச்சை பலனின்றி   உயிரிழந்தார்.   இந்த சம்பவம் ஜூலை 28ஆம் திகதி ஞாயிற்றுக்கிழமை     இடம் பெற்றுள்ளது.
+
+சம்பவ தினம் விடுதியில் இருந்தவர்களின் அசமந்த போக்கே குறித்த பெண்ணின் மரணத்துக்கு காரணம் என குற்றம் சுமத்தப்பட்டது.
+
+குறித்த மரணம் தொடர்பாக வடமாகாண சுகாதார அமைச்சினால் சுயாதீன விசாரணை குழு ஒன்று நியமிக்கப்பட்டு மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு வருகை தந்து துரித விசாரணைகளை முன்னெடுக்கப்பட்டது.
+
+...
+
+[Data](articles/98d9b4a1.json)
+
+---
+
 ### Mayurapathi Sri Patrakali Amman Temple
 
 *2024-08-07 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190456) · `ta`
@@ -247,6 +283,24 @@ The Mayurapathi Sri Patrakali Amman Temple will be reached via Lawrence Street, 
 [Data](articles/82c59eda.json)
 
 [Extended Data](ext_articles/82c59eda.ext.json)
+
+---
+
+### பங்களாதேஷ் நிலைவரத்தை இலங்கையோடு ஒப்பிடுவது ஏன்?
+
+*2024-08-07 02:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-நிலைவரத்தை-இலங்கையோடு-ஒப்பிடுவது-ஏன்/175-341727) · `ta`
+
+பங்களாதேஷ் நிலைவரத்தை இலங்கையோடு ஒப்பிட்டு தொடர்ந்தும் கருத்துக்களை முன் வைப்பது ஏன்?  அதேபோன்று  இலங்கையிலும்  மீண்டும் நெருக்கடி ஏற்படும் என்றா  எதிர்க்கட்சியினர் கூற வருகின்றனர்? தவறான தீர்மானங்கள் மூலமே  மீண்டும் நெருக்கடிகளே ஏற்படும் என்பதை நாட்டில் அனைவரும் புரிந்து கொள்ள வேண்டும் என அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில்செவ்வாய்க்கிழமை (06)  இடம்பெற்ற மாத்தறை நில்வலா கங்கை அண்மித்ததாக நிர்மாணிக்கப்பட்டுள்ள உவர்நீர் தடுப்பு காரணமாக ஏற்பட்டுள்ள சிக்கல் நிலைமை தொடர்பில் சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு குறிப்பிட்ட அவர் மேலும் பேசுகையில்,
+
+கடந்த இரண்டு வருடங்களுக்கு முன்னைய நிலைமையை பார்க்கும்போது அதிலிருந்து மீள முடியும் என எவரும் நம்பவில்லை. எனினும் ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டின் பொருளாதாரத்தை சிறந்த நிலைக்கு கொண்டு வந்துள்ளார்.
+
+நாம் அதற்கு முன்பிருந்த பழைய நிலைக்கு வராவிட்டாலும் அதைவிட நல்லதொரு நிலைக்கு வர முடியும் என்ற நம்பிக்கை உருவாகியுள்ளது.
+
+...
+
+[Data](articles/b73c0bd5.json)
 
 ---
 
@@ -2193,71 +2247,5 @@ President's Counsel Faizer Mustafa had previously informed him that the Assistan
 [Data](articles/d64a0806.json)
 
 [Extended Data](ext_articles/d64a0806.ext.json)
-
----
-
-### Sri Lanka ruling party to announce presidential candidate on Aug 07
-
-*2024-08-06 14:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-to-announce-presidential-candidate-on-aug-07-175478/) · `en`
-
-ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuna (SLPP) is expected to announce its presidential candidate on Wednesday August 07, party general secretary and MP Sagara Kariyawasam said.
-
-Speaking to reporters on Tuesday August 06, Kariyawasam said the SLPP will field its own candidate at the 2024 presidential election as voted for by the party’s politburo the previous week.
-
-“Tomorrow we will announce the name of the person who will be Sri Lanka’s ninth president,” he said.
-
-There has been speculation that the SLPP’s candidate will be business tycoon Dhammika Perera. Asked if this is indeed the case, Kariyawasam said all will be revealed in a few hours’ time.
-
-“Be a little bit more patient. There are mere hours left. Be here by 7am tomorrow,” he said.
-
-The SLPP general secretary also commented on his colleagues who have decided to back President Ranil Wickremesinghe at the polls.
-
-...
-
-[Data](articles/a7480d5d.json)
-
-[Extended Data](ext_articles/a7480d5d.ext.json)
-
----
-
-### Govt. to integrate public sector IT systems to enhance efficiency
-
-*2024-08-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101039/govt-to-integrate-public-sector-it-systems-to-enhance-efficiency) · `en`
-
-Cabinet approval has been granted for the integration of public sector information technology systems to enhance the efficiency and the quality of the public service.
-
-Issuing a statement, the Department of Government Information (DGI) said that it has been recognised that it is necessary to integrate information technology systems existing in the public institutions including corporations and Statutory Boards to perform the functions effectively and optimistically through the verification of information and minimization of duplication of data with the objective of enhancement of efficiency and quality of the public service.
-
-Accordingly, the Cabinet of Ministers has approved the proposal furnished by President Ranil Wickremesinghe as the Minister of Finance, Economic Stabilization and National Policies to address four key issues which include the integration of information technology systems and data management across all government institutions.
-
-...
-
-[Data](articles/06f96629.json)
-
-[Extended Data](ext_articles/06f96629.ext.json)
-
----
-
-### Namal resigns
-
-*2024-08-06 13:57:52* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ඉල්ලා-අස්වෙයි/11-411232) · `si`
-
-Namal Rajapaksa resigns as Chairman of the Sectoral Oversight Committee on International Relations. Mahinda Yapa Abeywardena announces this in Parliament, stating that due to his resignation, there's a vacancy for the position. The Select Committee nominates an attorney to fill this gap under Standing Order 130(3).
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena informed Parliament today (06) that MP Namal Rajapaksa has resigned from the Sectoral Oversight Committee on International Relations.
-
-Accordingly, on August 2, 202, on August 2, 202, has been nominated by the Select Committee of Parliamentarian Attorney at the provisions of the Standing Orders 130 (3) for the aforesaid vacancy.
-
-MP Namal Rajapaksa was the Chairman of the Sectoral Oversight Committee on International Relations.
-
-Accordingly, he has a vacancy at the post of Chairman on his resignation.
-
-◼️
-
-[Data](articles/94e77017.json)
-
-[Extended Data](ext_articles/94e77017.ext.json)
 
 ---

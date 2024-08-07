@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 11:56:17**
+As of **2024-08-07 12:09:53**
 
 ## Newspaper Stats
 
-*Scraped **39,446** Articles*
+*Scraped **39,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,38 @@ newsfirstlk | 363
 bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,274
-economynextcom | 2,383
+economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,627
 adaderanalk | 4,581
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,953
 virakesarilk | 6,233
-adaderanasinhalalk | 6,676
+adaderanasinhalalk | 6,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,443 (100.0%) of 39,446 articles have been extended.
+39,446 (100.0%) of 39,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### දයාසිරි - සජිත් ගිවිසුම් අත්සන් කරයි
+
+*2024-08-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199662) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර ඇතුළු මන්ත්‍රීවරු පිරිසක් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාට සහය පළ කිරීමට ගිවිසුමක් අද (07) අත්සන් කෙරිණි.
+
+එම ගිවිසුම අත්සන් කරන ලද්දේ නිදහස් පක්ෂයේ මහලේකම් දයාසිරි ජයසේකර සහ සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස අතරය.
+
+◼️
+
+[Data](articles/b21c656a.json)
+
+---
 
 ### Dayasiri-led SLFP group sign agreement to support Sajith
 
@@ -43,6 +57,8 @@ Dayasiri Jayasekara and SJB leader Sajith Premadasa signed the relevant Memorand
 ◼️
 
 [Data](articles/01523c9a.json)
+
+[Extended Data](ext_articles/01523c9a.ext.json)
 
 ---
 
@@ -94,17 +110,23 @@ The suspects and the suspect and the bus have been handed over to the Athurugiri
 
 ---
 
-### ඉන්දු - ශ්‍රී ලංකා අවසන් එක්දින තරගය අද
+### Indo-Sri Lanka's final ODI today
 
 *2024-08-07 10:36:43* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-අවසන්-එක්දින-තරගය-අද/9-411247) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර තෙවන හා අවසන් එක්දින ක්‍රිකට් තරගය අද(07දා) පැවැත්වේ.
+Today, Indo-Sri Lanka concludes their third ODI match at 2:30 pm at the Premadasa Cricket Stadium.
 
-තරගය අද පස්වරු 2.30ට කොළඹ ආර්. ප්‍රේමදාස ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවැත්වීමට නියමිතයි.
+🟩
+
+The Third and Third One Day International (Overseon ODI) will be held today (07).
+
+Competition at 2.30 pm. The Premadasa will be held at the Premadasa Cricket Stadium.
 
 ◼️
 
 [Data](articles/60ee6d55.json)
+
+[Extended Data](ext_articles/60ee6d55.ext.json)
 
 ---
 
@@ -277,6 +299,44 @@ Namal Rajapaksa is a talented rugby player of Mount St. Thomas College. He was a
 [Data](articles/a6cf5515.json)
 
 [Extended Data](ext_articles/a6cf5515.ext.json)
+
+---
+
+### Crisis-hit Sri Lanka’s Rajapaksa party declares family member for presidency
+
+*2024-08-07 09:41:00* · [`economynextcom`](https://economynext.com/crisis-hit-sri-lankas-rajapaksa-party-declares-family-member-for-presidency-175667/) · `en`
+
+ECONOMYNEXT – Crisis-hit ruling Sri Lanka Podujana Peramuna (SLPP), a political party established by the island nation’s powerful Rajapaksa family, declared former president Mahinda Rajapaksa’s legislator son as its candidate for the September 21 presidential poll.
+
+The move comes after around 80 percent of the SLPP’s parliament members with some holding top ministerial posts under President Ranil Wickremesinghe’s government had pledged their support to Wickremesinghe’s presidential bid.
+
+Analysts see the move as Namal Rajapaksa (38), who has faced a raft of corruption and misappropriation charges, to regain the control of the SLPP.
+
+Sagara Kariyawasam, the SLPP’s Secretary General said some of the key criteria needed for the candidate were possessing local values, ability to face challenges while going with global developments.
+
+...
+
+[Data](articles/1e4b5b87.json)
+
+---
+
+### Sri Lanka rupee opens flat at 302.10/30 to US dollar
+
+*2024-08-07 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-302-10-30-to-us-dollar-175658/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 302.10/30 to the US dollar on Wednesday, dealers said. Bond yields were steady, they said, and stocks opened up 0.08 percent.
+
+In the secondary market, treasury bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.70/85 percent, down from 10.75/85 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.47/55 percent.
+
+In equities, Colombo’s All Share Price Index opened 8.95 points higher at 11,302, while the S&P SL20 of more liquid stocks opened up at 0.29 percent or 9.39 points to 3,236.
+
+◼️
+
+[Data](articles/2e114577.json)
 
 ---
 
@@ -649,6 +709,28 @@ It is reported that 24 people, including the Indonesian citizen, were killed in 
 [Data](articles/d4bdb474.json)
 
 [Extended Data](ext_articles/d4bdb474.ext.json)
+
+---
+
+### Sri Lanka banks owed Rs88bn to banks on past senior citizen interest subsidies
+
+*2024-08-07 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-owed-rs88bn-to-banks-on-past-senior-citizen-interest-subsidies-175632/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks were still owed 88 billion rupees over interest subsidies paid to senior citizens in the past, State Minister for Finance Ranjith Siyambalapitiay said as a new subsidy scheme was announced.
+
+The cabinet of ministers on Tuesday had approved a new interest subsidy scheme which would put a floor of 10 percent on deposits of over 60 persons.
+
+“President Ranil Wickremesinghe listened to requests from senior citizens about the situation they were facing,” State Minister for Finance Ranjith Siyambalapitiya said.
+
+“We look at the previous scheme the government has to pay 88 billion rupees to banks. This is a time when are progressively paying them back.
+
+“Despite this, President looked at this sympathetically and made a proposal to the cabinet.”
+
+Senior citizen subsidies were discontinued as interest rates rose steeply to stop an economic crisis triggered by central bank rate cuts enforced with liquidity injections.
+
+...
+
+[Data](articles/77b845d2.json)
 
 ---
 
@@ -2131,79 +2213,5 @@ In this context, the railway officials and the police have not made adequate int
 [Data](articles/d00b9436.json)
 
 [Extended Data](ext_articles/d00b9436.ext.json)
-
----
-
-### What happened to Kuwait 'Vacancy
-
-*2024-08-06 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199641) · `si`
-
-Chamini, a 48-year-old woman from Dambulla, was appointed as a marmar at the Kuwait embassy. Her family reported she needs hospital treatment in Dambulla.
-
-🟩
-
-A number of marmans from the Embassy of the Kuwait state of Kuwait has been appointed as 48-year-old Chamini in Dambulla.
-
-Her relatives mentioned her who is to be treated at the Dambulla Hospital.
-
-◼️
-
-[Data](articles/c48c5894.json)
-
-[Extended Data](ext_articles/c48c5894.ext.json)
-
----
-
-### ’மொட்டுவின் ஜனாதிபதி வேட்பாளராக நாமல்’
-
-*2024-08-06 19:50:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மொட்டுவின்-ஜனாதிபதி-வேட்பாளராக-நாமல்/150-341703) · `ta`
-
-ஜனாதிபதித் தேர்தலிலிருந்து விலக பாராளுமன்ற உறுப்பினர் தமிக்க பெரேரா தீர்மானித்துள்ளதாகவும், பொதுஜன பெரமுனவின் வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்‌ஷ பெயரிடப்படுவாரென ரஷ்யாவுக்கான இலங்கையின் முன்னாள் தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/4a05ae81.json)
-
----
-
-### Namal
-
-*2024-08-06 19:34:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலகினார்-நாமல்/175-341701) · `ta`
-
-Mahinda Yapa Abeywardena announced Namal Rajapaksa's withdrawal from the Parliamentary Supervisory Committee on international relations. Premanath See Tolawatta fills the vacancy.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has announced that Parliamentarian Namal Rajapaksa has withdrawn from the Parliamentary Supervisory Committee on international relations.
-
-Parliamentarian Premanath See Tolawatta has been appointed for the vacancy caused by Namal Rajapaksa's quit. Remble
-
-◼️
-
-[Data](articles/d2078f62.json)
-
-[Extended Data](ext_articles/d2078f62.ext.json)
-
----
-
-### Announcement about national schools
-
-*2024-08-06 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199640) · `si`
-
-The Ministry of Education announced that children have finished the intermediate classes of national schools for 2024. They've also addressed complaints about false propaganda by an unnamed individual in the education sector, stating they've suspended transfers related to this issue.
-
-🟩
-
-According to the Ministry of Education, children have been completed according to the intermediate classes of national schools for the year 2024.
-
-Issuing a statement saying that the Ministry of Education has issued letters or suspended the transfers to include children by the Ministry of Education on the 26th of the 26th.
-
-The Ministry said that the Ministry has received complaints that false propaganda is being carried out by a person known as a trade union representative in the education sector.
-
-◼️
-
-[Data](articles/da6178df.json)
-
-[Extended Data](ext_articles/da6178df.ext.json)
 
 ---

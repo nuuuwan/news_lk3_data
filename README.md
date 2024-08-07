@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 19:21:05**
+As of **2024-08-07 19:36:23**
 
 ## Newspaper Stats
 
@@ -38,9 +38,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Sri Lanka Police said that five (05) kilograms of ‘ICE’ drugs (crystal methamphetamine) were seized from a container yard in Katunayaka.
 
+The drugs were reportedly found concealed inside 63 computer accessories imported into the country.
+
 The drug haul was seized during a joint operation by Special Task Force (STF) and Police Narcotics Bureau (PNB) officers.
 
-The consignment of drugs is suspected to have been sent by the drug dealer known as ‘Dubai Nipuna’.
+The consignment of drugs is suspected to have been sent by the notorious drug trafficker known as ‘Dubai Nipuna’.
 
 ◼️
 

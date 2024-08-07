@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 23:20:56**
+As of **2024-08-07 23:36:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,509 (100.0%) of 39,510 articles have been extended.
+39,510 (100.0%) of 39,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Nuwakot district officer Ram Krishna Adhikari said five dead bodies have been re
 ...
 
 [Data](articles/c644fbe6.json)
+
+[Extended Data](ext_articles/c644fbe6.ext.json)
 
 ---
 

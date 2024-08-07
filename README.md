@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 10:54:39**
+As of **2024-08-07 11:06:42**
 
 ## Newspaper Stats
 
-*Scraped **39,438** Articles*
+*Scraped **39,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,625
+adalk | 3,626
 adaderanalk | 4,579
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,952
@@ -26,67 +26,101 @@ adaderanasinhalalk | 6,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,433 (100.0%) of 39,438 articles have been extended.
+39,437 (100.0%) of 39,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ඉරාකයේ අමෙරිකානු කඳවුරකට රොකට් ප්‍රහාරයක්
+### Rocket attack on Iraqi camp in Iraq
 
 *2024-08-07 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199660) · `si`
 
-ඉරාකයේ අමෙරිකානු කඳවුරකට එල්ල වූ රොකට් ප්‍රහාරයකින් පුද්ගලයින් හත් දෙනෙකු තුවාල ලබා තිබේ.
+A rocket attack on an American camp in Iraq injured seven, including five US service members and two contractors. The US Defense Secretary stated the US will not tolerate such attacks. Iraqi authorities seized a truck carrying eight rockets.
 
-විදෙස් වාර්තා සඳහන් කරනුයේ අල්-අසාද් කඳවුර ඉලක්ක කරගනිමින් රොකට් ප්‍රහාර කිහිපයක් එල්ල වී ඇති බවය.
+🟩
 
-ප්‍රහාරයෙන් එක්සත් ජනපද සේවා සාමාජිකයන් පස් දෙනෙකු සහ එක්සත් ජනපද කොන්ත්‍රාත්කරුවන් දෙදෙනෙකු තුවාල ලබා ඇති බව සඳහන්.
+Seven persons were injured in a rocket attack on the American camp in Iraq.
 
-එක්සත් ජනපද ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් පවසා ඇත්තේ තම නිලධාරීන්ට එරෙහි එල්ල වන ප්‍රහාර එක්සත් ජනපදය නොඉවසන බවය.
+Foreign reporting states that several rockets have been launched targeting Al-Assad.
 
-ඉරාක රජයේ ආරක්ෂක මාධ්‍ය අංශය පැවසුවේ දියත් කිරීමට සූදානම් කර තිබූ රොකට් 8ක් සහිත ට්‍රක් රථයක් එරට හමුදා භාරයට ගෙන ඇති බව සහ හමුදා කඳවුරට ප්‍රහාරය එල්ල කළ අපරාධකරුවන් සොයා පරීක්ෂණ ආරම්භ කර ඇති බවය.
+Five US service members and two US contractors were injured in the attack.
+
+US Defense Secretary Lloyd Austin has said that the US is not tolerated against their officials.
+
+The Iraqi government's security media unit said that a truck with eight rockets had been taken into custody, a truck with eight rockets had been taken into custody.
 
 ◼️
 
 [Data](articles/17864876.json)
 
+[Extended Data](ext_articles/17864876.ext.json)
+
 ---
 
-### அரசியல் கொலைகள் ; அமெரிக்காவை நடுங்க வைத்த பாகிஸ்தானியர்
+### යුක්තිය දෙවැනි මෙහෙයුමෙන් 687ක් අත්අඩංගුවට
+
+*2024-08-07 10:22:32* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-දෙවැනි-මෙහෙයුමෙන්-687ක්-අත්අඩංගුවට/11-411246) · `si`
+
+යුක්තිය දෙවැනි මෙහෙයුම යටතේ පසුගිය 04 වැනිදා වැටලීම් 689කට අදාළය පුද්ගලයන් 687ක් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+එලෙස අත්අඩංගුවට ගත් පුද්ගලයන් 04 දෙනෙකුගේ වත්කම් විමර්ශනයක් සිදු කිරීමට නියමිත අතර, තවත් පුද්ගලයන් දෙදෙනෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+
+◼️
+
+[Data](articles/64e42379.json)
+
+---
+
+### Political killings;Pakistan who trembles America
 
 *2024-08-07 10:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அரசியல்-கொலைகள்-அமெரிக்காவை-நடுங்க-வைத்த-பாகிஸ்தானியர்/50-341739) · `ta`
 
-அமெரிக்க அதிபர் தேர்தலில் குடியரசு கட்சி சார்பில் முன்னாள் அதிபர் டொனால்ட் டிரம்ப் மீண்டும் போட்டியிட உள்ளார்.
+Asif Merchant, a 46-year-old Pakistani, was arrested for allegedly plotting political assassinations in the U.S., including targeting former President Donald Trump. The investigation linked him to Iran due to ongoing tensions between the U.S. and Iran. Despite no direct evidence linking him to the attempted shooting of Trump by Thomas Matthew Cruz, the arrest highlights concerns over political violence and international conspiracies.
 
-இந்நிலையில் தான் அவரை கொல்ல சதித்திட்டம் தீட்டிய பாகிஸ்தான் நாட்டை சேர்ந்தவர் மீது பரபரப்பான குற்றச்சாட்டு எழுந்துள்ளது.
+🟩
 
-அமெரிக்காவில் அரசியல் படுகொலைகளை செய்ய திட்டமிட்டதாக பாகிஸ்தானை சேர்ந்த ஆசிப் மெர்ச்சன்ட் (வயது 46) என்பவர் சமீபத்தில் கைது செய்யப்பட்டார்.
+Former President Donald Trump is set to run back on behalf of the Republican Party in the US presidential election.
 
-கைதான ஆசிப் மெர்ச்சன்ட்டிடம் தீவிர விசாரணை மேற்கொள்ளப்பட்டது. இந்த விசாரணையில் திடுக்கிடும் தகவல் வெளியானது.
+It is at this point that there is a heated allegation of a Pakistani man who conspired to kill him.
 
-அதாவது கைதான ஆசிப் மெர்ச்சன்ட் டொனால்ட் டிரம்ப் உள்பட பல முக்கிய அரசியல் கட்சி தலைவர்களை கொல்லும் சதித்திட்டத்துடன் அமெரிக்கா சென்றதாக சொல்லப்படுகிறது.
+Pakistani Asif Merchant (46 years old) was recently arrested for allegedly planning to carry out political killings in the United States.
 
-மேலும் ஆசிப் மெர்ச்சன்ட்டுக்கு ஈரானுடன் நெருங்கிய தொடர்பு உள்ளது. அமெரிக்கா - ஈரான் இடையே தொடர்ந்து பிரச்சனை உள்ளது. ஈரான் மீது அமெரிக்கா பொருளாதார தடைகளை விதித்துள்ளது.
+Intensive investigation was carried out with Kaitha Asif Merchant. The investigation revealed startling information.
+
+That is, the US is said to have gone to the US with a conspiracy to kill several prominent political party leaders, including Azib Merchant Donald Trump.
+
+More Asif Merchant has a close connection with Iran. America - there is a constant problem between Iran. The US has imposed sanctions on Iran.
+
+Meanwhile, Asif Merchant has arrived in Iran before the US departed from Pakistan, according to a chargesheet filed in court on behalf of FPPI.
 
 ...
 
 [Data](articles/59c5f105.json)
 
+[Extended Data](ext_articles/59c5f105.ext.json)
+
 ---
 
-### ஹமாஸின் புதிய தலைவராக  யேஹ்யா சின்வர்
+### Yehya Sinwar as the new leader of Hamas
 
 *2024-08-07 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸின்-புதிய-தலைவராக-யேஹ்யா-சின்வர்/50-341738) · `ta`
 
-ஹமாஸ் இயக்கம், கடந்த ஆண்டு அக்டோபர் 7ஆம் திகதி இஸ்ரேல் மீது திடீர் தாக்குதல் நடத்தியது. காசாவின் எல்லையோரத்தில் உள்ள இஸ்ரேலின் நகரங்கள் மீது இந்த தாக்குதல் நடத்தப்பட்டது. இந்தத் தாக்குதலை அடுத்து, இஸ்ரேல் பதிலடி கொடுக்கத் தொடங்கியது. இரு தரப்புக்கும் இடையேயான இந்தப் போர் தொடர்ந்து வருகிறது.
+Following a surprise attack on Israel by Hamas, leading to retaliatory measures from Israel, the political leader of Hamas, Izmaly Haney, was killed. Israel also reported the death of the military leader, Mohammed Daif. Yehya Sinwar, a close associate of Daif, has been named as the new head of Hamas's political wing, despite his low public profile. Sinwar, known for his significant contributions to the military sector, now leads the organization amidst ongoing conflict.
 
-இதனிடையே ஈரானில் கடந்த வாரம் ஹமாஸ் அமைப்பின் அரசியல் பிரிவு தலைவர் இஸ்மாயில் ஹனீயே கொல்லப்பட்டார். இதையடுத்து, அந்த அமைப்பின் இராணுவப் பிரிவுத் தலைவர் முகமது டேயிஃபும் கொல்லப்பட்டதாக இஸ்ரேல் அறிவித்தது. இந்நிலையில் ஹமாஸின் அரசியல் பிரிவின் புதிய தலைவராக யேஹ்யா சின்வர் நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-யேஹ்யா சின்வர் பொதுவெளிகளில் அதிகம் தோன்றாவிட்டாலும், ஹமாஸ் அமைப்பின் நிர்வாகத்தின் மீது தொடர்ந்து ஆதிக்கம் செலுத்தி வருகிறார். முகமது டேயிஃபியின் நெருங்கிய நண்பரான இவர், அமைப்பின் இராணுவப் பிரிவை வலுப்படுத்துவதில் முக்கியப் பங்காற்றியுள்ளார்.S
+The Hamas Movement launched a sudden attack on Israel on October 7 last year. The attack was carried out on Israel's cities along the border of Gaza. In the wake of the attack, Israel began to retaliate. The war between the two sides continues.
+
+Meanwhile, Izmaly Haney, the leader of the political wing of the Hamas organization last week in Iran, was killed. Israel announced that the organization's military leader Mohammed Daif was also killed.. Yehya Sinwar has been appointed as the new leader of Hamas's political wing.
+
+Although Yehya Sinwar does not appear much in public spaces, Hamas continues to dominate the administration of the organization. He is a close friend of Mohammed Daifa, and has played an important role in strengthening the military sect.
 
 ◼️
 
 [Data](articles/740d87f1.json)
+
+[Extended Data](ext_articles/740d87f1.ext.json)
 
 ---
 
@@ -1356,6 +1390,8 @@ Most of the courtiers who pledged eternal fealty to High King Mahinda during tha
 
 [Data](articles/b1ec9a7e.json)
 
+[Extended Data](ext_articles/b1ec9a7e.ext.json)
+
 ---
 
 ### 2024-08-06 (Tuesday)
@@ -2195,25 +2231,5 @@ Walz has long advocated for women’s reproductive rights but also displayed a c
 [Data](articles/bbbcb063.json)
 
 [Extended Data](ext_articles/bbbcb063.ext.json)
-
----
-
-### Tim Walz: Kamala Harris picks Minnesota governor for vice president
-
-*2024-08-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101047/tim-walz-kamala-harris-picks-minnesota-governor-for-vice-president) · `en`
-
-Democratic presidential candidate Kamala Harris selected Minnesota Governor Tim Walz to be her running mate on Tuesday, choosing a progressive policy champion and a plain speaker from America’s heartland to help win over rural, white voters, said people familiar with the matter.
-
-Walz, a 60-year-old U.S. Army National Guard veteran and former teacher, was elected to a Republican-leaning district in the U.S. House of Representatives in 2006 and served 12 years before being elected governor of Minnesota in 2018.
-
-As governor, Walz has pushed a progressive agenda that includes free school meals, goals for tackling climate change, tax cuts for the middle class and expanded paid leave for Minnesota workers.
-
-Walz has long advocated for women’s reproductive rights but also displayed a conservative bent while representing a rural district in the U.S. House, defending agricultural interests and backing gun rights.
-
-...
-
-[Data](articles/df490f7b.json)
-
-[Extended Data](ext_articles/df490f7b.ext.json)
 
 ---

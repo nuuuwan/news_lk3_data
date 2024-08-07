@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 13:36:43**
+As of **2024-08-07 13:55:57**
 
 ## Newspaper Stats
 
-*Scraped **39,458** Articles*
+*Scraped **39,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,628
-adaderanalk | 4,582
+adaderanalk | 4,583
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
@@ -26,63 +26,99 @@ adaderanasinhalalk | 6,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,454 (100.0%) of 39,458 articles have been extended.
+39,458 (100.0%) of 39,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### අරගලයේ නායකයින්ට පොහොට්ටුවෙන් ආරාධනයක්
+### President Ranil says he has never safeguarded anyone accused of corruption
+
+*2024-08-07 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101060/president-ranil-says-he-has-never-safeguarded-anyone-accused-of-corruption) · `en`
+
+President Ranil Wickremesinghe has stated that while others only talk about corruption, he has introduced numerous legislations to prevent it.
+
+Addressing a meeting with the heads of media organisations today, he said that the Proceeds of Crime Act will also be presented to the Cabinet next week.
+
+Wickremasinghe further emphasised that he has never protected anyone accused of corruption, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/7029dfa1.json)
+
+---
+
+### An invitation to the leaders of the struggle
 
 *2024-08-07 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199666) · `si`
 
-එළඹෙන මහමැතිවරණයේ දී ශ්‍රී  ලංකා පොදු ජන පෙරමුණෙන් නාම යෝජනා ලබා ගැනීම සදහා අරගලය නියෝජනය කරන තරුණ තරුණියන්ට ආරාධනා කරන බව පාර්ලිමේන්තු මන්ත්‍රි තිස්ස කුට්ටිආරච්චි මහතා පවසයි.
+MP Tissa Kuttiarachchi announced that young representatives from the struggle will be invited to seek nominations for the upcoming General Election. He emphasized the importance of empowering a young leader for the nation's future, stating that the party has made significant strides in organizing and preparing its members.
 
-නෙළුම් මාවත පක්ෂ මූලස්ථානයේදී අද (06) පෙරවරුවේ අදහස් දක්වමින් ඔහු මේ බව පැවසීය.
+🟩
 
-සියලු දෙනා අපේක්ෂා කළ තරුණ නායකයෙකු ඉදිරියේ දී රටට නායකත්වය දීමට සුදානම් බව මන්ත්‍රීවරයා කීය.
+MP Tissa Kuttiarachchi says that youths representing the struggle will be invited to obtain nominations from the General Election of the General Election.
 
-"අරගලය වෙලාවේ මේ රටේ හැම දෙනාම කියුවේ තරුණ නායකයෙකුට මේ රට දෙන්න කියලා... දැන් අපේ පක්ෂය ගත්තත් ඉතාම පිරිසිඳු කරපු පක්ෂයක්. අරගලය නියෝජනය කරපු තරුණයෝ එන්න අපෙන් නාමයෝජනා ගන්න.  තරුණයෝ බහුතරයක් ඉන්න පක්ෂයක්, පිරිසිඳු කරපු පක්ෂයක් තියන්නේ."
+He was speaking at the Nelum Mawatha in the party headquarters today (06).
+
+He said that a young leader who was expected to lead the country in the future.
+
+"The struggle was read in this country to give this country to a young leader.. Our party has now taken a very good party. Members of the struggle come to come from us.  තරුණයෝ බහුතරයක් ඉන්න පක්ෂයක්, පිරිසිඳු කරපු පක්ෂයක් තියන්නේ."
 
 ◼️
 
 [Data](articles/21a232c6.json)
 
+[Extended Data](ext_articles/21a232c6.ext.json)
+
 ---
 
-### හෝටලයක සිටි 24 දෙනෙක් පණපිටින් පිළිස්සෙයි
+### 24 people in a hotel bake alive
 
 *2024-08-07 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199665) · `si`
 
-අරගලකරුවන් විසින් හෝටලයකට ගිනිතැබීම නිසා එහි නවාතැන් ගෙන සිටි පුද්ගලයින් 24 දෙනෙකු මියයාමේ අවාසනාවන්ත පුවතක් බංග්ලාදේශයෙන් වාර්තා වී තිබේ.
+In Bangladesh, a tragic incident occurred where 24 individuals were killed in a hotel. This event sparked widespread protests against the government, leading to the dissolution of Parliament and the appointment of a military-led government. Despite the resignation of the Prime Minister, unrest persists. The situation has also highlighted ongoing issues against the Hindu minority, with a history of violence dating back to 1992, including 3,679 attacks from 2013 to 2021.
 
-රැකියා කෝටා ක්‍රමයට එරෙහිව ආරම්භ වී ආණ්ඩු විරෝධී කැරැල්ලක් බවට පරිවර්ථනය වූ බංග්ලාදේශ විරෝධතා පසුගියදා අවසන් වූයේ අගමැතිනී ෂෙයික් හසීනා ඉල්ලා අස්වීමෙන් අනතුරුවය.
+🟩
 
-ශිෂ්‍ය ක්‍රියාකාරීන්ගේ ඉල්ලීමකට අනුව එරට පාර්ලිමේන්තුව ද විසුරුවා හැරුණු අතර, හමුදා පාලනයෙන් තොර අන්තර්වාර රජයක් පත්කිරීමටත් කටයුතු කර තිබුණි.
+The unfortunate news of the death of 24 people were killed in a hotel in a hotel by a hotel.
 
-ඒ අනුව නොබෙල් සාම ත්‍යාගලාභී 84 හැවිරිදි මොහමඩ් යුනුස් එරට අන්තර්වාර රජයේ ප්‍රධාන උපදේශකවරයා ලෙස පත් කෙරුණු අතර එම තීරණය ගෙන තිබුණේ ජනාධිපති මොහොමඩ් ෂහාබුද්දීන්, හමුදා ප්‍රධානීන් සහ ශිෂ්‍ය නායකයින් අතර ඇතිකරගත් එකඟතාවකට අනුවය.
+The Bangladesh protests, which converted to the job quotation, and translated into anti-government rebellion was over after the Prime Minister Sheikh Haseanayake.
 
-අගමැතිනිය ඉල්ලා අස්වුවද රටතුළ පවතින නොසන්සුන් තත්ත්වය තවමත් පහව ගොස් නොමැත.
+According to the request of student activists, the Parliament was dissolved and the military had been appointed without a military control over control.
 
-අරගලකරුවන් ෂෙයික් හසීනාගේ අවාමි ලීගයේ නායකයෙකුට අයත් හෝටලකට ගිනි තැබීමෙන් ඒ තුළ සිටි පුද්ගලයින් 24 දෙනෙකු පණ පිටින් පිළිස්සී මියගොස් ඇති අතර ගින්නෙන් මියගිය බහුතරය එම හෝටලයේ ලැගුම්ගෙන සිටි පිරිසක්.
+Accordingly, 84-year-old Mohamed Yunus was appointed as the main advisor to the Intervention of the Nobel Peace Prize.
+
+Although the Prime Minister resigns, the unrest in the country has not yet fallen.
+
+The struggle buried 24 people alive and the majority of the majority in the hotel were burned at the hotel.
+
+The Hindu inhabitants of Hinduians and the conflict in the country have been a racist form targeting the minority Hindu community.
 
 ...
 
 [Data](articles/0991d310.json)
 
+[Extended Data](ext_articles/0991d310.ext.json)
+
 ---
 
-### யாழ்பாணத்திற்கும் சென்னைக்கும் இடையில் விமான சேவை
+### Airlines between Jaffna and Chennai
 
 *2024-08-07 13:05:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்பாணத்திற்கும்-சென்னைக்கும்-இடையில்-விமான-சேவை/175-341745) · `ta`
 
-யாழ்பாணத்திற்கும் சென்னைக்கும் இடையிலான விமான சேவை எதிர்வரும் செப்ரெம்பர் 1 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+Starting September 1st, airlines will offer direct flights from Jaffna to Chennai, marking Jaffna's 34th international destination.
 
-யாழ்ப்பாணம் இண்டிகோவின் 34 வது சர்வதேச இலக்காக சென்னையில் இருந்து நேரடி விமானங்களுடன் இணைகிறது. R
+🟩
+
+The airline between Jaffna and Chennai will commence on 1st September.
+
+Jaffna joins Chennai with direct flights from Chennai as the 34th International target of Jaffna. Remble
 
 ◼️
 
 [Data](articles/31c98464.json)
+
+[Extended Data](ext_articles/31c98464.ext.json)
 
 ---
 
@@ -232,17 +268,23 @@ However, the Sri Lanka Freedom Party (SLFP) group led by minister Nimal Siripala
 
 ---
 
-### සමගියයි නිදහසයි දිනවන්න සජිත් - දයාසිරි ගිවිසුම් ගතවෙයි
+### Sajith - Dayasiri has taken place in harmony and freedom
 
 *2024-08-07 11:23:07* · [`adalk`](https://www.ada.lk/breaking_news/සමගියයි-නිදහසයි-දිනවන්න-සජිත්---දයාසිරි-ගිවිසුම්-ගතවෙයි/11-411248) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුක එක්සත් ජනතා නිදහස් සන්ධානයේ සහය විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ලබා දීම සම්බන්ධයෙන් ගිවිසුමක් අත්සන් කිරීම අද (07දා) සිදු කළහ.
+In a harmonious atmosphere, Opposition Leader Sajith Premadasa and MP Dayasiri Jayasekara signed an agreement with the Sri Lanka Freedom Party (SLFP), paving the way for collaboration in the upcoming presidential election.
 
-එහිදී පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා සහ විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා අදාළ ගිවිසුට අත්සන් කළහ.
+🟩
+
+The Sri Lanka Freedom Party (SLFP) in the next presidential election, the SLFP was signed by the Opposition Leader Sajith Premadasa.
+
+MP Dayasiri Jayasekara and Opposition Leader Sajith Premadasa signed the agreement.
 
 ◼️
 
 [Data](articles/3852bab8.json)
+
+[Extended Data](ext_articles/3852bab8.ext.json)
 
 ---
 
@@ -2199,25 +2241,5 @@ A 43 -year -old man lives in Kadavad area. He is being treated at the Gampaha Ho
 [Data](articles/f0c27dfa.json)
 
 [Extended Data](ext_articles/f0c27dfa.ext.json)
-
----
-
-### Another shot of shooting Gampaha
-
-*2024-08-06 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199645) · `si`
-
-A 29-year-old man was shot twice in Gampaha last night by two unknown individuals who approached him while he was driving. He was taken to the hospital for treatment.
-
-🟩
-
-අද (06) රාත්‍රී කාලයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකු ඉලක්ක කර තවත් යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර පළාගොස් ඇත.
-
-The 29-year-old man was admitted to the Gampaha Hospital for treatment.
-
-◼️
-
-[Data](articles/8df37bb7.json)
-
-[Extended Data](ext_articles/8df37bb7.ext.json)
 
 ---

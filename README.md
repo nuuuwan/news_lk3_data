@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 03:55:43**
+As of **2024-08-08 04:06:58**
 
 ## Newspaper Stats
 
-*Scraped **39,531** Articles*
+*Scraped **39,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,536
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,966
+tamilmirrorlk | 4,967
 virakesarilk | 6,252
 adaderanasinhalalk | 6,696
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,530 (100.0%) of 39,531 articles have been extended.
+39,531 (100.0%) of 39,532 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,21 +102,49 @@ As Harsha de Silva MP says, if the United People's Power has canceled the agreem
 
 ---
 
-### வடக்கு கிழக்கில் சீன இராணுவத்தை நிறுத்த முயற்சி
+### திரும்பி வாருங்கள்: நாமல் அழைப்பு
+
+*2024-08-08 01:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரும்பி-வாருங்கள்-நாமல்-அழைப்பு/175-341772) · `ta`
+
+ஶ்ரீ லங்கா பொதுஜன பெரமுனவில் இருந்து விலகியவர்கள் மீண்டும் கட்சியில் இணையுமாறு ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ கோரிக்கை விடுத்துள்ளார்.
+
+கொழும்பு நெலும் மாவத்தையில் அமைந்துள்ள ஶ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமையகத்தில் புதன்கிழமை (07), ஜனாதிபதி வேட்பாளராக அறிவிக்கப்பட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இதனை
+
+சவாலான நேரத்தில் தன்னை நம்பி பாரிய பொறுப்பை ஒப்படைத்த கட்சியின் அரசியல் குழு மற்றும் கட்சி உறுப்பினர்களுக்கு நன்றி தெரிவித்த அவர், சவால்களை எதிர்கொள்ள நாங்கள் தயாராக உள்ளதாக குறிப்பிட்டுள்ளார்.
+
+கட்சி உறுப்பினர்கள் மற்றும் கொள்கைகள் மீது நம்பிக்கை வைத்துள்ளதுடன், இளைஞர்கள் எதிர்பார்க்கும் அரசியல் கனவு நனவாகும் என நம்புவதாக கூறியுள்ளார்.
+
+அத்துடன், கட்சியில் இருந்து விலகி ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் இணைந்துள்ள அனைவரையும் மீண்டும் தம்முடன் இணையுமாறு, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் என்ற வகையிலும் ஜனாதிபதி வேட்பாளர் என்ற வகையிலும் அழைப்பதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6a83009b.json)
+
+---
+
+### Try to stop the Chinese army in the North and East
 
 *2024-08-08 01:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-சீன-இராணுவத்தை-நிறுத்த-முயற்சி/175-341771) · `ta`
 
-வடக்கு, கிழக்கில் சீன இராணுவத்தை நிலைநிறுத்த முயற்சிகள் முன்னெடுக்கப்படுவதாக தகவல்கள் வெளியாகியுள்ளதாக தெரிவித்த தமிழ்த் தேசியக் கூட்டமைப்பபின் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன், இந்த முயற்சிகளுக்கு ஒருபோதும் இடமளிக்க மாட்டோம் என்றும் தெரிவித்தார்.
+Concerns over potential Chinese military presence in Sri Lanka's North and East regions were raised by Wanni district parliamentarian Selvam Adakkalanathan, who also discussed issues related to the investigation into the death of Mathirajan Sindhuja, the safety of doctors, and the struggles faced by local fishermen due to Indian trawler boats. He emphasized the need for fair solutions and support for the fishing community, highlighting the impact of these issues on the livelihoods of locals. Additionally, he touched upon the historical context, the perceived threat from China, and the need for government intervention to address these challenges, including the distribution of LRC lands in Mannar and ensuring justice in the Vanni district.
 
-இதேவேளை சீன இராணுவத்தினரை நாட்டுக்குள் கொண்டுவரும் திட்டத்தை அரசாங்கம் அனுமதிக்கின்றதா என கேட்பதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-பாராளுமன்றத்தில்  புதன்கிழமை (08) நடைபெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+Wanni district parliamentarian Selvam Adakkalanathan said that the Tamil National Alliance (TNA) said that it has been reported that efforts are being made to establish the Chinese army in the North and East.
 
-மன்னார் வைத்தியசாலையில் மதியராஜன் சிந்துஜா மரணம் தொடர்பில் நான் வைத்தியசாலைக்கு சென்று வைத்தியர்களிடம் கதைத்த போது விசாரணைகள் நடப்பதாக கூறினர். ஆனால் இந்த விசாரணை ஆட்களை மாற்றும் விசாரணையாக இருக்கக் கூடாது. நீதியான விசாரணையின் ஊடாக சம்பந்தப்பட்டவர்கள் பணி நீக்கம் செய்யப்பட வேண்டும் என்பதுடன் சம்பந்தப்பட்டவர்கள் தண்டிக்கப்படவும் வேண்டும் என்பது எங்களின் கோரிக்கையாக உள்ளது.
+At the same time, he said the government would allow the government to bring the Chinese soldiers into the country.
+
+He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (08).
+
+When I went to the hospital in connection with the death of Mathirajan Sindhuja at the Mannar Hospital, he said that investigations are underway. But this investigation should not be an investigation. Our demand is that those involved should be sacked through a fair investigation and punished.
+
+Meanwhile, 9 doctors are coming to our hospital. To ensure their safety. Otherwise they would be difficult to get to the hospital.
 
 ...
 
 [Data](articles/e8c527d4.json)
+
+[Extended Data](ext_articles/e8c527d4.ext.json)
 
 ---
 
@@ -2347,29 +2375,5 @@ It was at a ceremony at a ceremony with former President Mahinda Rajapaksa, Pres
 [Data](articles/1198134d.json)
 
 [Extended Data](ext_articles/1198134d.ext.json)
-
----
-
-### Special notification on today's climate
-
-*2024-08-07 09:12:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-குறித்த-விசேட-அறிவிப்பு/175-341734) · `ta`
-
-Heavy rains forecasted for Western, Sabaragamuwa, North Western Provinces, and districts including Kandy, Nuwara Eliya, Galle, and Matara. Elsewhere, expect rainfall or thundershowers in the evening/night. Some areas may receive over 50mm of rain. Thundershowers might cause temporary power outages. Public urged to prepare for potential lightning strikes.
-
-🟩
-
-Heavy rains are expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-More than 50 mm of heavy rainfall is expected in some parts of these areas.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/e938d055.json)
-
-[Extended Data](ext_articles/e938d055.ext.json)
 
 ---

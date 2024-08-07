@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 18:55:49**
+As of **2024-08-07 19:07:00**
 
 ## Newspaper Stats
 
-*Scraped **39,487** Articles*
+*Scraped **39,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,632
-adaderanalk | 4,588
+adaderanalk | 4,589
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,959
 virakesarilk | 6,238
-adaderanasinhalalk | 6,691
+adaderanasinhalalk | 6,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,487 (100.0%) of 39,487 articles have been extended.
+39,487 (100.0%) of 39,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### 5kg of ‘Ice’ drugs found concealed inside computer accessories
+
+*2024-08-07 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101066/5kg-of-ice-drugs-found-concealed-inside-computer-accessories) · `en`
+
+Sri Lanka Police said that five (05) kilograms of ‘ICE’ drugs (crystal methamphetamine) were seized from a container yard in Katunayaka.
+
+The drug haul was seized during a joint operation by Special Task Force (STF) and Police Narcotics Bureau (PNB) officers.
+
+The consignment of drugs is suspected to have been sent by the drug dealer known as ‘Dubai Nipuna’.
+
+◼️
+
+[Data](articles/2885b22e.json)
+
+---
+
+### පරිගණක උපාංග තුළ සැඟවූ අයිස් මත්ද්‍රව්‍ය තොගයක් සොයාගනී
+
+*2024-08-07 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199678) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 5කට අධික ප්‍රමාණයක් පරිගණක උපාංග 63ක් තුළ සඟවා මෙරටට රැගෙනවිත් තිබියදී සොයාගෙන ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකාය සහ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් එක්ව වැටලීම සිදුකර ඇත.
+
+ඩුබායි නිපුන නමැති ජාවාරම්කරු විසින් මෙම මත්ද්‍රව්‍ය මෙරටට එවා ඇති බව පොලීසිය සැක කරයි.
+
+◼️
+
+[Data](articles/53f2061b.json)
+
+---
 
 ### Do you know about the Nagala and Milan called for the Sri Lanka Test squad?
 
@@ -2267,51 +2299,5 @@ If the appointment of the Chief Minister of the Provincial Chief Minister, the p
 [Data](articles/24a22d82.json)
 
 [Extended Data](ext_articles/24a22d82.ext.json)
-
----
-
-### 99 complaints
-
-*2024-08-07 01:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/99-முறைபாடுகள்/175-341722) · `ta`
-
-From July 31 to August 5, 99 election complaints were filed: 68 to the National Election Complaint Management Center and 31 to the District center.
-
-🟩
-
-The Elections Commission has announced that 99 election complaints have been received from July 31 to 5 pm on August 5, 5 pm.
-
-Of these, 68 complaints have been received for the National Election Complaint Management Center and 31 to the District Election Complaint Management Center.
-
-◼️
-
-[Data](articles/1ecdc082.json)
-
-[Extended Data](ext_articles/1ecdc082.ext.json)
-
----
-
-### Tamil General Candidate Wednesday, Thursday
-
-*2024-08-07 01:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-புதன்-வியாழன்-முடிவு/175-341721) · `ta`
-
-The Tamil General Assembly plans to announce the final candidate for the presidential election on Monday, after discussions involving the Tamil National Alliance in Jaffna. The decision comes from a meeting held on Monday, where the TNA discussed and consulted for several hours to select the candidate from those recommended. The announcement of the selected candidate is expected within two days.
-
-🟩
-
-Representatives of the Tamil General Assembly announced that the general candidate's final on Wednesday or Thursday will be announced on Monday (05), with the two candidates who have been elected as the Tamil General candidate for the presidential election.
-
-This was reported at a media briefing held after a discussion held on Monday (05) at a private hotel in Jaffna.
-
-The Tamil National Alliance (TNA) in Jaffna engaged in discussions to finalize the Tamil general candidate.
-
-It has been announced that the Tamil National Alliance has been consulted for several hours to select one of those who have been recommended to be a Tamil general candidate.
-
-In this case, who is the Tamil general candidate?Members of the Tamil National Alliance have said that it will be finalized and announced in two days.
-
-◼️
-
-[Data](articles/6bf32168.json)
-
-[Extended Data](ext_articles/6bf32168.ext.json)
 
 ---

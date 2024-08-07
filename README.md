@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 11:36:40**
+As of **2024-08-07 11:56:17**
 
 ## Newspaper Stats
 
-*Scraped **39,443** Articles*
+*Scraped **39,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
-adalk | 3,626
-adaderanalk | 4,580
+adalk | 3,627
+adaderanalk | 4,581
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,952
+tamilmirrorlk | 4,953
 virakesarilk | 6,233
 adaderanasinhalalk | 6,676
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,441 (100.0%) of 39,443 articles have been extended.
+39,443 (100.0%) of 39,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Dayasiri-led SLFP group sign agreement to support Sajith
+
+*2024-08-07 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101058/dayasiri-led-slfp-group-sign-agreement-to-support-sajith-) · `en`
+
+A group of Sri Lanka Freedom Party (SLFP) members led by MP Dayasiri Jayasekara has signed an agreement with SJB presidential candidate Sajith Premadasa to support him in the upcoming Presidential Election.
+
+Dayasiri Jayasekara and SJB leader Sajith Premadasa signed the relevant Memorandum of Understanding (MoU).
+
+◼️
+
+[Data](articles/01523c9a.json)
+
+---
 
 ### ACMC to announce decision on presidential candidate next week
 
@@ -50,25 +64,47 @@ He stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they 
 
 [Data](articles/8f102a3d.json)
 
+[Extended Data](ext_articles/8f102a3d.ext.json)
+
 ---
 
-### අතුරුගිරියේ ඝාතකයන් පලා ගිය බස් රථය කතරගමින් සොයා ගනියි
+### The bus fleeing the busy in the Athurugiriya
 
 *2024-08-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199661) · `si`
 
-අතුරුගිරිය ටැටූ කලාගාරය තුළ සිදු වූ ද්විත්ව ඝාතනයෙන් අනතුරුව ඝාතකයන් පලා ගිය බස් රථය  කතරගම ප්‍රදේශයේ පුද්ගලයෙකුට විකුණා තිබියදී සොයා ගත් බව බස්නාහිර පළාත් දකුණු දිසාව අපරාධ කොට්ඨාසය ප්‍රකාශ කරයි.
+A bus involved in a shooting incident in Athurugiriya fled to Kataragama, injuring four. The suspect, arrested on the Southern Expressway, admitted to transporting shooters and weapons from Ambalangoda to Athurugiriya. The bus was later found in Kataragama, and all parties are now under investigation by Athurugiriya Police.
 
-ජූලි මස 8 වෙනිදා සිදුවූ මෙම වෙඩි තැබීමෙන් පුද්ගලයන් සිව් දෙනෙකු බරපතල තුවාල ලබා තිබුණි.
+🟩
 
-අපරාධයට අනුබල දුන් සැකකරුවෙකු දක්ෂිණ අධිවේගී මාර්ගයේ සේවා පියසේදී අගෝස්තු මස (06) වන දින අත්අඩංගුවට ගෙන සිදු කරන ලද ප්‍රශ්න කිරීමේදී එම සැකකරු අම්බලන්ගොඩ ප්‍රදේශයේ සිට වෙඩික්කරුවන් දෙදෙනා හා ආයුධ අතුරුගිරිය ප්‍රදේශයට රැගෙන යාමට කුලී වෑන් රථයක් සම්බන්ධ කර දී ඇති බවට අනාවරණය වී ඇති බව පොලිසිය පවසයි.
+The Criminal Division of the Western Province says that the bus had fled the bus to a person in Kataragama after the murderers in the Athurugiriya area.
 
-අනතුරුව එම සැකකරුගෙන්  සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී අතුරුගිරිය වෙඩි තැබීමේ  සිද්ධියෙන් අනතුරුව වෙඩික්කරුවන්ට දක්ෂිණ අධිවේගී මාර්ගය ඔස්සේ පලායාමට භාවිතා කළ බස් රථය කතරගම ප්‍රදේශයේ පුද්ගලයෙකුට විකුණා තිබියදී සොයා ගැනීමට පොලීසියට හැකි වී තිබුණි.
+Four persons were seriously injured due to the shooting on July 8th.
 
-මෙම අපරාධය සම්බන්ධයෙන් මේ වන විට කාන්තාවක් ඇතුළු සැකකරුවන් 11 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර සැකකරුවන් සහ බස් රථය වැඩිදුර විමර්ශන සඳහා අතුරුගිරිය පොලිසිය වෙත භාරදී තිබේ.
+The suspect had revealed that the suspect was arrested on the Southern Expressway on August (06), police said that the suspect had been contacted to take two shooters and arms from the Ambalangoda area to the Athurugiriya area..
+
+The police had been able to find the bus to flee the bus to flee after the Athurugas to flee the Southern Expressway in the Kataragama area after the suspect was carried out by the suspect.
+
+The suspects and the suspect and the bus have been handed over to the Athurugiriya Police for further investigations.
 
 ◼️
 
 [Data](articles/edfcd468.json)
+
+[Extended Data](ext_articles/edfcd468.ext.json)
+
+---
+
+### ඉන්දු - ශ්‍රී ලංකා අවසන් එක්දින තරගය අද
+
+*2024-08-07 10:36:43* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-අවසන්-එක්දින-තරගය-අද/9-411247) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර තෙවන හා අවසන් එක්දින ක්‍රිකට් තරගය අද(07දා) පැවැත්වේ.
+
+තරගය අද පස්වරු 2.30ට කොළඹ ආර්. ප්‍රේමදාස ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවැත්වීමට නියමිතයි.
+
+◼️
+
+[Data](articles/60ee6d55.json)
 
 ---
 
@@ -2118,6 +2154,18 @@ Her relatives mentioned her who is to be treated at the Dambulla Hospital.
 
 ---
 
+### ’மொட்டுவின் ஜனாதிபதி வேட்பாளராக நாமல்’
+
+*2024-08-06 19:50:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மொட்டுவின்-ஜனாதிபதி-வேட்பாளராக-நாமல்/150-341703) · `ta`
+
+ஜனாதிபதித் தேர்தலிலிருந்து விலக பாராளுமன்ற உறுப்பினர் தமிக்க பெரேரா தீர்மானித்துள்ளதாகவும், பொதுஜன பெரமுனவின் வேட்பாளராக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்‌ஷ பெயரிடப்படுவாரென ரஷ்யாவுக்கான இலங்கையின் முன்னாள் தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4a05ae81.json)
+
+---
+
 ### Namal
 
 *2024-08-06 19:34:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலகினார்-நாமல்/175-341701) · `ta`
@@ -2157,75 +2205,5 @@ The Ministry said that the Ministry has received complaints that false propagand
 [Data](articles/da6178df.json)
 
 [Extended Data](ext_articles/da6178df.ext.json)
-
----
-
-### Cookila apologizes from Ravi unconditionally
-
-*2024-08-06 19:23:20* · [`adalk`](https://www.ada.lk/breaking_news/කෝකිලා-රවීගෙන්-කොන්දේසි-විරහිතව-සමාව-ගනියි/11-411242) · `si`
-
-Ravi Karunanayake, former Finance Minister, unconditionally pardons Kokila Gunamanna, accused by a TV show. The Additional District Judge Chandima Edirimanna allows this pardon, concluding the case aligns with the settlement reached.
-
-🟩
-
-Colombo Additional District Judge Chandima Edirimanna, Kokila Gunamanna, the former Minister of Finance Karmanna, was unconduated against her by a statement from a television program in a television program.Appointed.
-
-The District Judge who was unconditionally pardoned by the television discussion, the complaint was unconditionally pardoned by the complainant Ravi Karunanayake.Allowed to donate.
-
-Former Finance Minister Ravi Karunanayake had filed a sum of Rs.
-
-The statement made by the Television Discussion by the Television Discussion, the statement made by his attorneys to the courts, the statement made by the television discussion by his lawyers was unconditionally pardoned by Ravi Karunanayake.It is said that he is doing.
-
-After considering the submissions, the judge set up the case to be in accordance with the settlement.
-
-◼️
-
-[Data](articles/4cc51ffe.json)
-
-[Extended Data](ext_articles/4cc51ffe.ext.json)
-
----
-
-### Recovery of missing train employee
-
-*2024-08-06 19:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-ரயில்-ஊழியர்-சடலமாக-மீட்பு/175-341700) · `ta`
-
-A train employee was found dead in a well on the station grounds. Despite the railway staff's lack of immediate action after his disappearance, his body was eventually discovered in the unsafe well.
-
-🟩
-
-It is reported that his body has been found from an unsafe well located on the courtyard.
-
-It is noteworthy that the railway staff engaged in the workplace as the employee did not take steps to find him in the wake of the disappearance of the employee.. Remble
-
-◼️
-
-[Data](articles/67181ae1.json)
-
-[Extended Data](ext_articles/67181ae1.ext.json)
-
----
-
-### A speedy system of the public service
-
-*2024-08-06 19:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැඩ-කඩිනම්-කිරීමේ-ක්‍රමවේදයක්/11-411241) · `si`
-
-Cabinet approves a plan to enhance public service efficiency and quality, focusing on standardized data exchange among government institutions. This includes mandatory use of National Identity Cards for citizens over 15 and foreign passports for non-citizens, alongside proposing the use of foreign service license numbers. The initiative aims to streamline operations across state corporations and statutory boards.
-
-🟩
-
-Cabinet approval has been given to implement an efficiency and quality of public services to improve the efficiency and quality of public services.It has been identified that it is appropriate.
-
-The proposal presented by the Cabinet of Finance, Economic Stability and National Policy has been approved to implement a methodology to implement a methodology regulated / developed by all state corporations and statutory boards.
-
-Accordingly, the use of the National Identity Card to identify a Sri Lankan citizen over the age of 15 is mandatory to identify the National Identity Card to identify a foreign person to identify a foreign passport number.The National Identity Card number of local members also presented proposals to use the foreign service license number.
-
-The methodology has been submitted as the methodology to conduct the data standard of exchange of relevant data with other government institutions.
-
-◼️
-
-[Data](articles/1b7620ae.json)
-
-[Extended Data](ext_articles/1b7620ae.ext.json)
 
 ---

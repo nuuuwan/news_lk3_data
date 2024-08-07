@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 18:39:12**
+As of **2024-08-07 18:55:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,486 (100.0%) of 39,487 articles have been extended.
+39,487 (100.0%) of 39,487 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,17 +96,23 @@ Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 
 ---
 
-### එංගලන්තයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් සංචිතය නම් කරයි
+### Sri Lanka named Sri Lanka Test squad against England
 
 *2024-08-07 17:19:38* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/11-411253) · `si`
 
-එංගලන්තයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් සංචිතය අද(07දා) නම් කරනු ලැබිණි.
+Sri Lanka announced its Test squad for the match against England today, including 18 players led by Dhananjaya de Silva.
 
-ධනංජයද සිල්වාගේ නායකත්වයෙන් සංචිතය සඳහා ක්‍රීඩකයන් 18 දෙනෙකු නම් කර ඇත.
+🟩
+
+Sri Lanka Test squad against England was named today (07).
+
+Eighteen players have been named for the squad of Dhananja de Silva.
 
 ◼️
 
 [Data](articles/b1df88d4.json)
+
+[Extended Data](ext_articles/b1df88d4.ext.json)
 
 ---
 

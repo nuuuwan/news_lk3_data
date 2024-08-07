@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 07:30:01**
+As of **2024-08-07 07:51:05**
 
 ## Newspaper Stats
 
-*Scraped **39,401** Articles*
+*Scraped **39,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,115 @@ adaderanalk | 4,574
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,942
 virakesarilk | 6,232
-adaderanasinhalalk | 6,664
+adaderanasinhalalk | 6,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,390 (100.0%) of 39,401 articles have been extended.
+39,398 (100.0%) of 39,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### ක්ලබ් වසන්ත ඝාතනයට තවත් සැකකරුවෙක් අල්ලයි
+
+*2024-08-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199654) · `si`
+
+අතුරුගිරියේ ද්විත්ව ඝාතනයට අවශ්‍ය කර සිටි සැකකරුවෙකු බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ, පසුගිය ජූලි මස 8 වන දින අතුරුගිරිය පොලිස් වසමේ දී ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු ඝාතනය කර තවත් සිව්දෙනෙකුට බරපතළ තුවාල සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් මෙම සැකකරු අත්අඩංගුවට ගත් බවය.
+
+ඒ අනුව ඝාතනවලට අනුබල දුන් සැකකරුව ඊයේ (06) දක්ෂිණ අධිවේගී මාර්ගයේ සේවා පියසේ දී අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත රැගෙන විත් ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු අවුරුදු 36ක් වූ දර්ගා නගරය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු අපරාධයට පෙර සැකකරුවන්ට කුලී නිවසක් ලබාගැනීම හා අම්බලන්ගොඩ ප්‍රදේශයේ සිට වෙඩික්කරුවන් දෙදෙනා හා ආයුධ අතුරුගිරිය ප්‍රදේශයට රැගෙන යාමට කුලී වෑන් රථයක් සම්බන්ධ කර දී ඇති බවට අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/dd14546e.json)
+
+---
+
+### මනුෂ්‍ය ඝාතන දෙකක්
+
+*2024-08-07 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199653) · `si`
+
+එරාවුර් පොලිස් වසමේ මිච්චිනගර් ප්‍රදේශයේ නිවසක පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (06) රාත්‍රියේ මෙම ඝාතනය සිදුව ඇති අතර සිද්ධියෙන් මියගොස් ඇත්තේ අවුරුදු 52ක් වූ මිච්චිනගර්, එරාවුර් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර ඊයේ දහවල් කාලයේ හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේ දී ද පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර  තිබේ.
+
+සිද්ධියෙන් මියගොස් ඇත්තේ අවුරුදු 31ක් වූ නැව්ගල, වරකාපොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/4787059a.json)
+
+---
+
+### බදියුදීන්ගේ සහාය කාට ද?
+
+*2024-08-07 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199652) · `si`
+
+සමස්ථ ලංකා මහජන කොංග්‍රසය ඉදිරි ජනාධිපතිවරණයේදී සහාය ලබාදෙන අපේක්ෂකයා ලබන 14 වැනිදා ප්‍රකාශයට පත්කිරීමට තීරණය කර තිබේ.
+
+එම පක්ෂයේ නායක රිෂාඩ් බදියුදීන් මන්ත්‍රිවරයා සඳහන් කළේ, පක්ෂයේ උත්තරීත මණ්ඩල රැස්වීමේ දී මෙම තීරණය ගත් බවය.
+
+"අපේ පක්ෂයේ උත්තරීතර මණ්ඩලය පුළුල් සාකච්ඡාවක් කළා ජනාධිපතිවරණයේ දී කාට සහාය දෙන්න ඕනේ කියලා. ඒ අනුව අපි තීරණයකට ආවා ලබන 14 වෙනිදා උදේ 10ට අපේ අවසන් තීරණය තීන්දුව ගන්න. අපි දැනටත් සමගි ජන බලවේග සන්ධානයේ ඉන්න නිසා ඒ රැස්වීම්වලට අපි සහභාගී වෙනවා. ඒ වෙලාවේ දී සමගි ජන බලවේගය පක්ෂයට අපේ සහාය ලබාදෙන්න කියලා ඉල්ලීම් කරලා තියෙනවා. ඒ වගේම දැන්  ඉන්න ජනාධිපතිවරයාත් සහයෝගය ලබාදෙන්න කියලා අපිට ලියුමක් එවලා තියෙනවා. අපි කියන්නේ දැන් තියෙන ආර්ථිකය අපි ආරක්ෂා කරගන්න ඕනේ. ආපහු රිවස් ජියර් එකේ යන්න බෑ."
+
+◼️
+
+[Data](articles/974685c5.json)
+
+---
+
+### බංග්ලාදේශ අන්තර්වාර රජය ගැන ජනාධිපති කාර්යාලයෙන් නිවේදනයක්
+
+*2024-08-07 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199651) · `si`
+
+නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යුනුස් බංගලාදේශයේ අන්තර්වාර රජයක ප්‍රධාන උපදේශකවරයා ලෙස පත් කරන බවට ජනාධිපති කාර්යාලය නිවේදනය කර තිබේ.
+
+විදෙස් වාර්තා සඳහන් කරනුයේ ජනාධිපති මොහොමඩ් ෂහාබුදීන් සහ සිසුන් කණ්ඩායමේ ප්‍රධානීන් අතර පැවති සාකච්ඡාවකදී මෙම තීරණය ගෙන ඇති බවය.
+
+බංග්දේශ අගමාත්‍ය ෂීක් හසීනා රටින් පළා යාමත් සමඟ ශිෂ්‍ය නායකයින් හමුදා රජයක් පිළිනොගන්නා බවට ප්‍රකාශ කර තිබුණි.
+
+ඒ අනුව අන්තර්වාර පාලනයකට නායකත්වය දීමට යුනුස් මහතාගේ නම යෝජනා වී ඇති බව සඳහන්.
+
+මෙම තනතුර භාර ගැනීමට එකඟ වූ නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යුනුස් මහතා පවසා ඇත්තේ මෙම දුෂ්කර අවස්ථාවේදී සිසුන් කළ ඉල්ලීම ප්‍රතික්ශේප කළ නොහැකි බවය.
+
+බංග්ලාදේශ ජනාධිපතිවරයා නිවේදනය කර ඇත්තේ රට ගොඩ ගැනීම සඳහා කඩිනමින් අන්තර්වාර රජයක් පිහිටුවීම අවශ්‍ය බවය.
+
+◼️
+
+[Data](articles/65df0670.json)
+
+---
+
+### පොහොට්ටුවේ තීරණාත්මක තීරණය තව සුළු මොහොතකින්
+
+*2024-08-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199650) · `si`
+
+අද (07) උදෑසන 7.00ට ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නිල වශයෙන් ප්‍රකාශයට පත්කිරීමට නියමිත බව සාගර කාරියවසම් මන්ත්‍රීවරයා පවසයි.
+
+මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකත්වයට ඉදිරිපත් නොවන බව ධම්මික පෙරේරා මහතා ඊයේ (06) දන්වා තිබුණි.
+
+ඒ බව දන්වමින් පාර්ලිමේන්තු මන්ත්‍රී ධම්මික පෙරේරා මහතා පක්ෂය මහ ලේකම්වරයා වෙත ලිපියක් යොමු කර ඇති බව සඳහන්ය.
+
+එම ලිපියෙන් ධම්මික පෙරේරා මහතා ප්‍රකාශ කර ඇත්තේ පෞද්ගලික හේතුවක් මත ජනාධිපතිවරණ අපේක්ෂකත්වයට ඉදිරිපත් නොවන බවය.
+
+මෙවර ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස තමා යෝජනා කිරීම සම්බන්ධයෙන් පක්ෂ නායකත්වයට ස්තූතිය පළ කරන බවඳ ඔහු එහි සඳහන් කර තිබේ.
+
+පවතින තත්ත්වය තුළ ඉදිරි ජනාධිපතිවරණයේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මන්ත්‍රීවරයා නම් කිරීමට නියමිත බව පක්ෂ ආරංචි මාර්ග පවසයි.
+
+◼️
+
+[Data](articles/ba67f0a2.json)
+
+---
 
 ### Showers in several areas today
 
@@ -692,6 +790,8 @@ On July 25th, a grand event and press conference was held at Galle Face Hotel to
 
 [Data](articles/d08376dc.json)
 
+[Extended Data](ext_articles/d08376dc.ext.json)
+
 ---
 
 ### Euromoney declares ComBank ‘Sri Lanka’s Best Bank for ESG’
@@ -710,6 +810,8 @@ The Bank said it prioritises minimising environmental impact through energy-effi
 
 [Data](articles/cb74ecb9.json)
 
+[Extended Data](ext_articles/cb74ecb9.ext.json)
+
 ---
 
 ### Sri Lanka International Insurance Summit 2024 from August 12th to 14th
@@ -726,6 +828,8 @@ The International Insurance Summit 2024 invites all to explore dynamic opportuni
 
 [Data](articles/95a8e68d.json)
 
+[Extended Data](ext_articles/95a8e68d.ext.json)
+
 ---
 
 ### Dialog MyOffer unveils enhanced AI-powered offers for personalised user experiences
@@ -739,6 +843,8 @@ Along with existing benefits such as call and data offers, Dialog Mobile custom
 ...
 
 [Data](articles/02d9aa58.json)
+
+[Extended Data](ext_articles/02d9aa58.ext.json)
 
 ---
 
@@ -755,6 +861,8 @@ In the retail market companies that mainly contributed to the turnover were; JKH
 ...
 
 [Data](articles/5a77d7c4.json)
+
+[Extended Data](ext_articles/5a77d7c4.ext.json)
 
 ---
 
@@ -1288,17 +1396,29 @@ The Ministry said that the Ministry has received complaints that false propagand
 
 ---
 
-### කෝකිලා රවීගෙන් කොන්දේසි විරහිතව සමාව ගනියි
+### Cookila apologizes from Ravi unconditionally
 
 *2024-08-06 19:23:20* · [`adalk`](https://www.ada.lk/breaking_news/කෝකිලා-රවීගෙන්-කොන්දේසි-විරහිතව-සමාව-ගනියි/11-411242) · `si`
 
-රූපවාහිනී නාලිකාවක දේශපාලන සංවාද වැඩසටහනකදී කළ ප්‍රකාශයකින් යම් අපහාසයක් හෝ අගතියක් වූවා නම් හිටපු මුදල් අමාත්‍ය රවී කරුණානායක මහතාගෙන් පොදුජන එක්සත් පෙරමුණ පාර්ලිමේන්තු මන්ත්‍රීනී කෝකිලා ගුණවර්ධන මහත්මිය කොන්දේසි විරහිතව සමාව අයැදීම හේතුවෙන් ඇයට එරෙහිව පවරා තිබු වන්දි නඩුව කොළඹ අතිරේක දිසා විනිසුරු චන්දිම එදිරිමාන්න මහතා අද (06දා) සමථයකට පත් කළේය.
+Ravi Karunanayake, former Finance Minister, unconditionally pardons Kokila Gunamanna, accused by a TV show. The Additional District Judge Chandima Edirimanna allows this pardon, concluding the case aligns with the settlement reached.
 
-රූපවාහිනි සාකච්ඡාවේදී කළ ප්‍රකාශය වැරදි බව තේරුම් ගන්නා බවත්, ඒ සම්බන්ධයෙන් පැමිණිලිකාර රවී කරුණානායක මහතාගෙන් කොන්දේසි විරහිතව සමාව අයැදින බවත් කෝකිලා ගුණවර්ධන මහත්මිය සඳහන් කිරීම නිසා රුපියල් බිලියන දෙකක වන්දියක් ඉල්ලා පවරා තිබු නඩුව සමථයකට පත් කළ දිසා විනිසුරුවරයා රුපියල් 10,000/-ක මුදලක් ලංකා පිළිකා රෝහලේ අරමුදලට පරිත්‍යාග කිරීමටද අවසර දුන්නේය.
+🟩
 
-...
+Colombo Additional District Judge Chandima Edirimanna, Kokila Gunamanna, the former Minister of Finance Karmanna, was unconduated against her by a statement from a television program in a television program.Appointed.
+
+The District Judge who was unconditionally pardoned by the television discussion, the complaint was unconditionally pardoned by the complainant Ravi Karunanayake.Allowed to donate.
+
+Former Finance Minister Ravi Karunanayake had filed a sum of Rs.
+
+The statement made by the Television Discussion by the Television Discussion, the statement made by his attorneys to the courts, the statement made by the television discussion by his lawyers was unconditionally pardoned by Ravi Karunanayake.It is said that he is doing.
+
+After considering the submissions, the judge set up the case to be in accordance with the settlement.
+
+◼️
 
 [Data](articles/4cc51ffe.json)
+
+[Extended Data](ext_articles/4cc51ffe.ext.json)
 
 ---
 
@@ -2109,117 +2229,5 @@ The same date is the day when the Little Boy, the US -threatened bomb in 1945, c
 [Data](articles/e126bea1.json)
 
 [Extended Data](ext_articles/e126bea1.ext.json)
-
----
-
-### Fulfill the promise of 15 percent interest rate for pensioners and elderly - Opposition Leader requests government
-
-*2024-08-06 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190417) · `ta`
-
-Opposition Leader Sajith Premadasa urges the government to honor its pledge of a 15% interest rate for pensioners and the elderly, highlighting the failure to implement this despite previous commitments. The issue has sparked concern over the financial well-being of the elderly, some of whom have resorted to drastic measures due to insufficient funds.
-
-🟩
-
-The government has repeatedly stated that it will receive a special interest rate of pensioners and the elderly.. Opposition leader Sajith Premadasa said the government should take steps to fulfill their promise.
-
-Steps have been taken to reduce the special 15 percent interest rate for pensioners and the elderly.. The government also said it was implementing it from 2016 to 2020. However, the government has failed to increase the interest rate by 15 %.
-
-Elderly people take their lives with the interest available for the money saving in the banks amidst great difficulty. The government has repeatedly stated in the House that they will pay their 15 percent interest rate. But not implementing. If a minister is responsible for this council, it should be implemented.
-
-The first resolution after the Gotabhaya Rajapaksa government came to power would be a reduction in the interest rate of one million 21 thousand pensioners from 2016 to 2020.. Some of these pensioners are currently not alive.
-
-...
-
-[Data](articles/fdb9c0dc.json)
-
-[Extended Data](ext_articles/fdb9c0dc.ext.json)
-
----
-
-### Ravi's insulting case against Kokila
-
-*2024-08-06 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199631) · `si`
-
-MP Ravi Karunanayake settled an insult case against Kokila, claiming recovery of Rs. 500 million in Colombo District Court. The plaintiff pardoned the complainant unconditionally, and the court ordered compliance with impeachment conditions.
-
-🟩
-
-The case has been settled by MP Ravi Karunanayake, who has claimed to recover a number of Rs. 500 million in the Colombo District Court today (06).
-
-When the case was summoned in the Colombo District Court today, the MP had informed the court through his lawyers, as they were wrong, the complainant was unconditionally pardoned by the plaintiff.
-
-In addition, the lawyer who appeared for the Cancer Fund in the Rs.
-
-Accordingly, the court recorded the review was ordered to comply with the impeachment conditions.
-
-◼️
-
-[Data](articles/ee608270.json)
-
-[Extended Data](ext_articles/ee608270.ext.json)
-
----
-
-### Bangladesh Parliament dissolve - Demonstrators who set fire to hotel - 22 killed
-
-*2024-08-06 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190419) · `ta`
-
-In Bangladesh, protests led to the dissolution of Parliament, while a fire at a government-sponsored hotel in Jessore, owned by the Awami League General Secretary, resulted in 22 deaths. The blaze, which took firefighters 12 hours to control, occurred amidst demonstrations where students demanded parliamentary dissolution.
-
-🟩
-
-It is noteworthy that one of the main demands of student demonstrators was to dissolve parliament.
-
-Meanwhile, 22 people have been killed in a fire at a government -sponsored Jabir International Hotel on Monday.
-
-After the 12 -hour struggle, firefighters have brought the fire under control.
-
-Firefighters said the fire was unable to control the fire.
-
-The hotel, found in the northwestern city of Bangladesh, Jessur, belongs to the Awami League General Secretary.
-
-◼️
-
-[Data](articles/508b9a54.json)
-
-[Extended Data](ext_articles/508b9a54.ext.json)
-
----
-
-### Bangladesh Parliament dissolved by President amid ultimatum from student protesters
-
-*2024-08-06 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101040/bangladesh-parliament-dissolved-by-president-amid-ultimatum-from-student-protesters) · `en`
-
-Bangladesh’s parliament was dissolved on Tuesday, the president’s office said in a statement, a day after Prime Minister Sheikh Hasina resigned and fled the country following violent protests demanding her ouster.
-
-The announcement came hours after protesting student leaders set a deadline to dissolve parliament and warned a “strict programme” would be launched if their deadline is not met.
-
-◼️
-
-[Data](articles/0cfe539c.json)
-
-[Extended Data](ext_articles/0cfe539c.ext.json)
-
----
-
-### Sri Lanka signs ADB 25-year US$100mn budget support loan
-
-*2024-08-06 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-adb-25-year-us100mn-budget-support-loan-175481/) · `en`
-
-ECONOMYNEXT  – Sri Lanka has signed an agreement with the Asian Development Bank to borrow a 100 million US dollar budget support loan, linked to power sector policy reforms, the Finance Ministry said
-
-The loan has an interest rate of 2.0 percent and will be repaid over 25 years including a 5 year grace period.
-
-Treasury Secretary Mahinda Siriwardana and ADB Sri Lanka Country Director Takafumi Kadono signed the agreement.
-
-The loan is Subprogram 01 of a 300 million dollar policy based loan program linked to power sector reforms.
-
-The reforms support independent and financially sustainable electricity utilities, and “streamlined and accelerated development” of renewable energy. (Colombo/Aug05/2024)
-
-◼️
-
-[Data](articles/0970e86a.json)
-
-[Extended Data](ext_articles/0970e86a.ext.json)
 
 ---

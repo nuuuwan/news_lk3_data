@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 21:55:50**
+As of **2024-08-07 22:10:02**
 
 ## Newspaper Stats
 
-*Scraped **39,505** Articles*
+*Scraped **39,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,115 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,634
-adaderanalk | 4,590
+adaderanalk | 4,591
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,963
-virakesarilk | 6,245
-adaderanasinhalalk | 6,694
+virakesarilk | 6,246
+adaderanasinhalalk | 6,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,502 (100.0%) of 39,505 articles have been extended.
+39,505 (100.0%) of 39,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### இந்தியாவை வீழ்த்தி தொடரை கைப்பற்றியது இலங்கை
+### තවත් 100ක් කොරියාවේ රැකියා සඳහා පිටත්ව යති
+
+*2024-08-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199683) · `si`
+
+දකුණු කොරියාවේ නිෂ්පාදන ක්ෂේත්‍රයේ රැකියා හිමිවූ තවත් ශ්‍රී ලංකිකයන් 100 දෙනෙකු ඊයේ (06) දකුණු කොරියාව බලා පිටත්ව ගියේය.
+
+මෙම පිරිස අතරට තරුණියන් 08 දෙනෙකු ද ඇතුළත් බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
+
+ඒ අනුව මෙම වර්ෂයේ අගෝස්තු මස වන විට 3,694 දෙනෙකු දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් ඇත.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා දකුණු කොරියානු  මානව සම්පත් සංවර්ධන සේවා ආයතනය අතර ඇති කරගත් අවබෝධතා ප්‍රකාරව ශ්‍රී ලංකිකයන් සඳහා මෙම රැකියා අවස්ථා හිමිවේ.
+
+එම අවබෝධතා ගිවිසුම අනුව 2004 වසරේ සිට අඛන්ඩව මේ දක්වා ශ්‍රී ලංකිකයන් දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් ඇති අතර, මෙවර පිටත් වූයේ 873 වන කණ්ඩායමයි.
+
+◼️
+
+[Data](articles/78986f58.json)
+
+---
+
+### Sri Lanka captured the series to defeat India
 
 *2024-08-07 21:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வீழ்த்தி-தொடரை-கைப்பற்றியது-இலங்கை/44-341768) · `ta`
 
-இந்திய அணிக்கு எதிரான மூன்று போட்டிகள் கொண்ட ஒருநாள் தொடரை இரண்டுக்கு பூஜ்ஜியம் என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளது.
+Sri Lanka clinched the three-match ODI series against India, winning the final match by 110 runs in Colombo. They scored 248/7 in 50 overs, while India was bowled out for 138 in 26.1 overs.
 
-கொழும்பு ஆர். பிரேமதாச மைதானத்தில் இன்று இடம்பெற்ற மூன்றாவதும் இறுதியுமான ஒருநாள் சர்வதேச  கிரிகெட் போட்டியை 110 ஓட்டங்களால் வெற்றிப்பெற்றதுடன் ஊடாக இலங்கை அணி இந்த தொடரை கைப்பற்றியுள்ளது.
+🟩
 
-இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாடி   50 ஓவர்கள் நிறைவில் 07 விக்கெட்டுக்களை இழந்து 248 ஓட்டங்களை பெற்றது.
+The Sri Lankan team has won the three -match ODI series against the Indian team.
 
-249 ஓட்டங்கள் என்ற வெற்றி இலங்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இந்திய அணி 26.1 ஓவர்கள் நிறைவில் சகல விக்கெட்டுக்களையும் இழந்து 138 ஓட்டங்களை மாத்திரம் பெற்று தோல்வியடைந்தது.R
+Colombo r. The Sri Lankan team won the third and final ODIs by 110 runs.
+
+The Sri Lankan team won the match in the match and scored 248 runs for the loss of 7 wickets in 50 overs.
+
+The Indian team lost all wickets in 26.1 overs and lost 138 runs.
 
 ◼️
 
 [Data](articles/63708892.json)
 
+[Extended Data](ext_articles/63708892.ext.json)
+
 ---
 
-### கட்டுநாயக்கவில் சிக்கிய ஐஸ்
+### Justice Ministry brought under the President’s purview
+
+*2024-08-07 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101068/justice-ministry-brought-under-the-presidents-purview) · `en`
+
+A Gazette notification has been issued bringing the Ministry of Justice, Prison Affairs and Constitutional Reforms under the purview of President Ranil Wickremesinghe.
+
+This move comes following the recent resignation of Wijeyadasa Rajapakshe from his ministerial portfolios to contest the upcoming Presidential election.
+
+The Extraordinary Gazette notification has been issued today (Aug. 07) by the Secretary to President. Mr. Saman Ekanayake, by order of the President.
+
+It states that the President, having consulted with the Prime Minister under Article 44 (3) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has determined that the Ministerial Portfolio of Justice, Prison Affairs and Constitutional Reforms should be in his charge.
+
+...
+
+[Data](articles/f92281db.json)
+
+---
+
+### හදිසියේම ගැසට්ටුවක්
+
+*2024-08-07 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199681) · `si`
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ධුරය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යටතට පත් කරමින් අති විශේෂ ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+ඒ විජයදාස රාජපක්ෂ මහතා එළඹෙන ජනාධිපතිවරණයට තරග කිරීම සඳහා එම අමාත්‍ය ධුරයෙන් ඉල්ලා අස්වීම හේතුවෙනි.
+
+◼️
+
+[Data](articles/20dd28f2.json)
+
+---
+
+### Ice trapped in Katunayake
 
 *2024-08-07 21:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-சிக்கிய-ஐஸ்/175-341767) · `ta`
 
-சட்டவிரோதமாக இலங்கைக்கு கொண்டுவரப்பட்ட 5 கிலோவுக்கும் அதிகமான ஐஸ் போதைப் பொருளை பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவின் அதிகாரிகள் இணைந்து கைப்பற்றியுள்ளனர்.
+In Katunayake, over 5kg of ice drugs were seized by the Police Special Task Force and Drug Eradication Unit, suspected to be smuggled into Sri Lanka by a group named Remble.
 
-துபாய் நிபுன என்ற கடத்தல்காரரே இந்த போதைப்பொருளை இலங்கைக்கு அனுப்பியிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர். R
+🟩
+
+Police Special Task Force and Police Drug Eradication Unit have seized more than 5 kg of ice drugs illegally brought to Sri Lanka.
+
+Police suspect the drug may have sent the drug to Sri Lanka. Remble
 
 ◼️
 
 [Data](articles/e73c8078.json)
+
+[Extended Data](ext_articles/e73c8078.ext.json)
 
 ---
 
@@ -88,21 +152,29 @@ Meanwhile, many more civil organizations are expected to join hands with the Uni
 
 ---
 
-### இந்தியாவுக்கெதிரான தொடரைக் கைப்பற்றிய இலங்கை
+### Sri Lanka conquered the series against India
 
 *2024-08-07 20:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவுக்கெதிரான-தொடரைக்-கைப்பற்றிய-இலங்கை/44-341754) · `ta`
 
-மூன்று போட்டிகள் கொண்ட இத்தொடரின் முதலாவது போட்டி சமநிலையில் முடிவடைந்ததுடன், இரண்டாவது போட்டியில் இலங்கை வென்ற நிலையில் கொழும்பு ஆர். பிரேமதாஸ மைதானத்தில் இன்று நடைபெற்ற மூன்றாவது போட்டியையும் வென்றமையைத் தொடர்ந்தே தொடரை 2-0 எனக் கைப்பற்றியது.
+Sri Lanka clinched the series against India 2-0 after winning both matches. The decisive third match saw Sri Lanka score 248 runs, losing 7 wickets, with key contributions from Sri Lankan players including Asalanga, Nisanka, and Kusal Mendis. Indian debutant Ryan Barak and bowlers like Barak, Kuldeep Yadav, Washington Sundar, and Axar Patel performed well but couldn't prevent the loss. In the second innings, India was dismissed for 138 runs, with Rohit Sharma scoring 35 runs.
 
-இப்போட்டியின் நாணயச் சுழற்சியில் வென்ற இலங்கையணியின் தலைவர் சரித் அசலங்க, தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார். இந்தியா சார்பாக ரியான் பராக் ஒருநாள் சர்வதேசப் போட்டிகளில் அறிமுகத்தை மேற்கொண்டார்.
+🟩
 
-இப்போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை அவிஷ்க பெர்ணாண்டோவின் 96 (102), பதும் நிஸங்கவின் 45 (65), குசல் மென்டிஸின் 59 (82) ஓட்டங்கள் மூலம் சிறந்த அடித்தளத்தைப் பெற்று 35.2 ஓவரில் ஒரு விக்கெட் இழப்புக்கு 171 ஓட்டங்களைப் பெற்று பலமாக இருந்தது.
+The first match of the three -match series ended in a balance and Sri Lanka won the second match.. Following the third match at the Premadasa stadium today, the series won 2-0.
 
-எனினும் அடுத்த 6 விக்கெட்டுகளையும் 64 ஓட்டங்களுக்கு இழந்து, கமிந்து மென்டிஸின் ஆட்டமிழக்காத 23 (19) ஓட்டங்களோடு 50 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 248 ஓட்டங்களைப் பெற்றது. பந்துவீச்சில், பராக் 3 மற்றும் குல்தீப் யாதவ், வொஷிங்டன் சுந்தர், அக்ஸர் பட்டேல் ஆகியோர் தலா ஒவ்வொரு விக்கெட்டை வீழ்த்தினர்.
+Sri Lankan leader Sarid Asalanga, who won the tournament in the currency cycle, announced that Damadhani would be the first to bat.. Ryan Barak made his debut in ODIs on behalf of India.
 
-...
+Sri Lanka's 96 (102), Nisanka's 45 (65), 59 (82) of Kusal Mendis, scored 171 runs for the loss of one wicket in 35.2 overs.
+
+However, the next 6 wickets were lost to 64 runs and Kamindu Mentice's unbeaten 23 (19) runs lost 7 wickets in 50 overs and scored 248 runs. In bowling, Barak 3 and Kuldeep Yadav, Washington Sundar and Aksar Patel took the wicket each.
+
+In reply, India Azitha Fernando, Tunit Wellalake (5), Mahesh Dixhana (2) and Jeffrey Vanterzay (2) lost all wickets in 26.1 overs and lost 138 runs.. In the match, Rohit Sharma scored 35 (20) and Sundar 30 (25).
+
+◼️
 
 [Data](articles/983323e9.json)
+
+[Extended Data](ext_articles/983323e9.ext.json)
 
 ---
 
@@ -125,6 +197,24 @@ Rishabh Pant, playing his first match of the series, attempted a shot from outsi
 [Data](articles/b71b8282.json)
 
 [Extended Data](ext_articles/b71b8282.ext.json)
+
+---
+
+### வடக்கு,கிழக்கில் சீன இராணுவ பிரவேசத்தை அரசாங்கம் அனுமதிக்கிறதா? - செல்வம் அடைக்கலநாதன் கேள்வி
+
+*2024-08-07 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190509) · `ta`
+
+வடக்கு மற்றும் கிழக்கில் சீன இராணுவத்தை நிலைநிறுத்த முயற்சிகள் முன்னெடுக்கப்படுவதாக தகவல்கள் வெளியாகியுள்ளன. இவ்வாறான செயற்பாடுகளுக்கு ஒருபோதும் இடமளிக்க முடியாது. சீன இராணுவத்தின் பிரவேசத்தை அரசாங்கம் அனுமதிக்கிறதா என  தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் சபையில் கேள்வியெழுப்பினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மன்னார் வைத்தியசாலையில் மதியராஜன் சிந்துஜா மரணம் தொடர்பில்  வைத்தியசாலைக்கு சென்று வைத்தியர்களிடம் பேசியபோது விசாரணைகளை முன்னெடுப்பதாக  குறிப்பிட்டார்.
+
+ஆனால் இந்த விசாரணை ஆட்களை மாற்றும் விசாரணையாக இருக்க கூடாது. நீதியான விசாரணையின் ஊடாக சம்பந்தப்பட்டவர்கள் பணி நீக்கம் செய்யப்பட வேண்டும் என்பதுடன் சம்பந்தப்பட்டவர்கள் தண்டிக்கப்படவும் வேண்டும் என்பது எங்களின் கோரிக்கையாக உள்ளது. இதேவேளை 9 வைத்தியர்கள் எங்களின் வைத்தியசாலைக்கு வரவுள்ளனர்.
+
+...
+
+[Data](articles/e31614f8.json)
 
 ---
 
@@ -2269,81 +2359,5 @@ The inaugural copy of this comprehensive economic plan was presented to Presiden
 [Data](articles/d9667c8a.json)
 
 [Extended Data](ext_articles/d9667c8a.ext.json)
-
----
-
-### Sri Lanka and France to establish Regional Centre for Maritime Studies
-
-*2024-08-07 03:31:45* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-France-to-establish-Regional-Centre-for-Maritime-Studies/34-765247) · `en`
-
-The Cabinet of Ministers at its meeting on Monday approved establishing a ‘Regional Centre for Maritime Studies’ through a bilateral agreement between the Government of Sri Lanka and the Government of France.
-
-The French Government has identified Sri Lanka as the most suitable location for this centre, recognising the country’s proactive initiatives in maritime protection as a member of the Association of Indian Ocean countries.
-
-The proposed centre will be set up at the General Sir John Kotelawala Defence University, with additional support and infrastructure provided by the Trincomalee Naval and Maritime Academy.
-
-This strategic placement leverages Sri Lanka’s geographic and academic strengths to foster regional maritime studies and collaborations.
-
-“The centre aims to disseminate knowledge and coordinate actions based on joint studies, enhancing regional maritime security and cooperation,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
-
-...
-
-[Data](articles/e48f056c.json)
-
-[Extended Data](ext_articles/e48f056c.ext.json)
-
----
-
-### EY’s experts-led discussion on Economic Transformation Bill
-
-*2024-08-07 03:31:06* · [`dailyftlk`](https://www.ft.lk/business/EY-s-experts-led-discussion-on-Economic-Transformation-Bill/34-765246) · `en`
-
-EY Sri Lanka is set to host a pivotal webinar on the recently passed ‘Economic Transformation Bill’ led by the Tax Division on 9 August at 10 a.m.
-
-EY Sri Lanka and Maldives Country Managing Partner Duminda Hulangamuwa and Partner, Head of Tax Sulaiman Nishtar will be joined by esteemed guest speakers Senior Economic Advisor to the President Dr. R.S.H. Samaratunga, and Oversight Committee for the Economic Transformation Act Member Mangala Yapa, to share their valuable insights on the new legislation and its impact on the Sri Lankan economic landscape. Additionally, Shehani Paranavitane and Shakthivel Velauthapillai, both Principals in Tax at EY Sri Lanka, will also contribute to an extensive discussion on the importance of this legislation.
-
-...
-
-[Data](articles/b2cce7c0.json)
-
-[Extended Data](ext_articles/b2cce7c0.ext.json)
-
----
-
-### Luminex gets cleaning project of Kankasanthurei cement factory
-
-*2024-08-07 03:30:32* · [`dailyftlk`](https://www.ft.lk/business/Luminex-gets-cleaning-project-of-Kankasanthurei-cement-factory/34-765245) · `en`
-
-The Cabinet of Ministers on Monday approved awarding the project for cleaning and collecting iron and other metal parts scattered in the Kankasanthurei cement factory complex to Luminex PLC.
-
-The move follows a national competitive procurement methodology, with bids called under the direct supervision of the Ministry of Industries.
-
-“Six bidders submitted their proposals for this procurement, but three were disqualified based on the bid documents. After thorough evaluation, the contract was awarded to Luminex PLC, the substantially responsive bidder deemed eligible according to the recommendations of the procurement committee appointed by the Cabinet of Ministers,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
-
-Speaking at the weekly post-Cabinet meeting media briefing yesterday, he said the decision marks a significant step toward revitalising the factory complex and ensuring efficient cleanup operations.
-
-...
-
-[Data](articles/cca21e77.json)
-
-[Extended Data](ext_articles/cca21e77.ext.json)
-
----
-
-### CDASL celebrates decade of excellence at 10th AGM
-
-*2024-08-07 03:30:00* · [`dailyftlk`](https://www.ft.lk/business/CDASL-celebrates-decade-of-excellence-at-10th-AGM/34-765244) · `en`
-
-From left: Committee members Inoke Perera, Roderick David, Aelian Gunawardene, Dhammike Wasanthakumara, Nalin Herath, Dasun Wickramaratna, Treasurer Sivarajah Thumilan, Secretary Prasanna De Zoysa, Chairman Pinsiri Fernando, Committee members Pradeep Moraes and Kishore Reddy
-
-The Condominium Developers Association of Sri Lanka (CDASL) successfully held its 10th Annual General Meeting (AGM) on 24 July at the Board Room of The Ceylon Chamber of
-
-Commerce. This significant event marked a decade of dedication to promoting excellence in the condominium development sector across the nation.
-
-...
-
-[Data](articles/8adbcc49.json)
-
-[Extended Data](ext_articles/8adbcc49.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 04:06:58**
+As of **2024-08-08 04:24:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,531 (100.0%) of 39,532 articles have been extended.
+39,532 (100.0%) of 39,532 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,23 +102,29 @@ As Harsha de Silva MP says, if the United People's Power has canceled the agreem
 
 ---
 
-### திரும்பி வாருங்கள்: நாமல் அழைப்பு
+### Come back: call Namal
 
 *2024-08-08 01:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரும்பி-வாருங்கள்-நாமல்-அழைப்பு/175-341772) · `ta`
 
-ஶ்ரீ லங்கா பொதுஜன பெரமுனவில் இருந்து விலகியவர்கள் மீண்டும் கட்சியில் இணையுமாறு ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ கோரிக்கை விடுத்துள்ளார்.
+Namal Rajapaksa, the newly announced presidential candidate of the Sri Lanka People's Alliance (PA), has called for former party members to return. He expressed gratitude towards the party's support during his announcement and emphasized his faith in the party's policies. Rajapaksa plans to reach out to the current President of Sri Lanka, urging them to reunite with the party.
 
-கொழும்பு நெலும் மாவத்தையில் அமைந்துள்ள ஶ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமையகத்தில் புதன்கிழமை (07), ஜனாதிபதி வேட்பாளராக அறிவிக்கப்பட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இதனை
+🟩
 
-சவாலான நேரத்தில் தன்னை நம்பி பாரிய பொறுப்பை ஒப்படைத்த கட்சியின் அரசியல் குழு மற்றும் கட்சி உறுப்பினர்களுக்கு நன்றி தெரிவித்த அவர், சவால்களை எதிர்கொள்ள நாங்கள் தயாராக உள்ளதாக குறிப்பிட்டுள்ளார்.
+Presidential candidate Namal Rajapaksa has requested that those who resigned from the Sri Lanka PA come back to the party.
 
-கட்சி உறுப்பினர்கள் மற்றும் கொள்கைகள் மீது நம்பிக்கை வைத்துள்ளதுடன், இளைஞர்கள் எதிர்பார்க்கும் அரசியல் கனவு நனவாகும் என நம்புவதாக கூறியுள்ளார்.
+He was speaking to the media after it was announced as the presidential candidate on Wednesday (07) at the headquarters of the Sri Lanka PA
 
-அத்துடன், கட்சியில் இருந்து விலகி ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் இணைந்துள்ள அனைவரையும் மீண்டும் தம்முடன் இணையுமாறு, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் என்ற வகையிலும் ஜனாதிபதி வேட்பாளர் என்ற வகையிலும் அழைப்பதாக அவர் குறிப்பிட்டுள்ளார்.
+He thanked the party's political committee and party members who rely on himself and entrusted the responsibility at the time of the challenge.
+
+He has confidence in party members and policies and said that the political dream of the youth is expected to come true.
+
+He also said that he would call the President of Sri Lanka as the National Organizer of the Sri Lanka Peoples Alliance (PA) and the presidential candidate to re -join all those who have left the party and join him.
 
 ◼️
 
 [Data](articles/6a83009b.json)
+
+[Extended Data](ext_articles/6a83009b.ext.json)
 
 ---
 

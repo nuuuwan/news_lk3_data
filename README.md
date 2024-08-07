@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 08:55:22**
+As of **2024-08-07 09:07:17**
 
 ## Newspaper Stats
 
-*Scraped **39,412** Articles*
+*Scraped **39,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,274
 economynextcom | 2,383
 dailyftlk | 2,535
 adalk | 3,620
-adaderanalk | 4,575
+adaderanalk | 4,576
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,943
+tamilmirrorlk | 4,944
 virakesarilk | 6,233
 adaderanasinhalalk | 6,670
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,670
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,412 (100.0%) of 39,412 articles have been extended.
+39,412 (100.0%) of 39,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### Paris Olympics: Sri Lanka’s Aruna Darshana disqualified in semi-final
+
+*2024-08-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101053/paris-olympics-sri-lankas-aruna-darshana-disqualified-in-semi-final) · `en`
+
+Sri Lankan sprinter Aruna Darshana finished in 5th place in the 2nd Semi-Final of the Men’s 400m event at the Paris Olympics, however was later disqualified.
+
+Darshana had finished the race with a time of 44.75 seconds, setting a new personal best, however, he was disqualified later for a lane infringement.
+
+◼️
+
+[Data](articles/6e41c949.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -49,6 +63,22 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/57b43543.json)
 
 [Extended Data](ext_articles/57b43543.ext.json)
+
+---
+
+### ’மீனவர்களை விடுவிக்க நடவடிக்கை தேவை’
+
+*2024-08-07 08:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களை-விடுவிக்க-நடவடிக்கை-தேவை/175-341731) · `ta`
+
+அதில், இலங்கைக் கடற்படையினரால் சிறைபிடிக்கப்பட்டுள்ள மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் உடனடியாக விடுவிக்க வைக்க மத்திய அரசிடம் வலியுறுத்தியுள்ளார்.
+
+இது குறித்து நேற்று மக்களவையில் கேள்வி நேரத்தில் தி.மு.க. துணைப் பொதுச் செயலாளரும், தூத்துக்குடி எம்.பி.யுமான கனிமொழி கருணாநிதி உரையாற்றுகையில்,
+
+இலங்கை கடற்படையினர் தமிழக மீனவர்களின் படகுகளைக் கைப்பற்றியது மட்டும் இல்லை. இந்த ஆண்டு மட்டுமே 27 படகுகள் இலங்கை கடற்படையினரால் கைப்பற்றப்பட்டு இருக்கின்றன. சுமார் 177 இந்தியப் படகுகள் இப்போது இலங்கை அரசிடம் கைவசம் இருக்கின்றன.
+
+...
+
+[Data](articles/d7dd7d54.json)
 
 ---
 
@@ -2199,63 +2229,5 @@ Top contributors to the ASPI were Richard Pieris and Company Plc (up at 19.50), 
 [Data](articles/38e6649d.json)
 
 [Extended Data](ext_articles/38e6649d.ext.json)
-
----
-
-### The situation of Bangladesh should be a great lesson - Premnath.C.
-
-*2024-08-06 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190427) · `ta`
-
-Bangladesh's current situation serves as a cautionary tale for Sri Lanka. In 2022, Bangladesh faced economic crises leading to widespread protests. However, these protests were hijacked by political parties for their gain, adopting fascist policies instead of addressing the people's needs democratically. This scenario mirrors Sri Lanka's current challenges, where the government's handling of the Matara Nilwala Ganga construction issue and the subsequent water problems have sparked debates about democracy and governance.
-
-🟩
-
-People who cannot rule with the people are referring to democracy and act with fascist policy. The ruling party parliamentarian Premnath.
-
-Speaking at the adjournment debate on the issue of the construction of the Matara Nilwala Ganga, which was held on Tuesday (06) in Parliament, the problem caused by the resistant water prevention.
-
-Sri Lanka's condition is now found in Bangladesh in 20122.
-
-With a few misconceptions of our government, the protests originated in 2022. The people affected by the economic crisis protested the government in a democratic way.
-
-A political party has used the people's struggle for their politics with fascist policy.
-
-It was against this backdrop that Ranil Wickremesinghe was elected president.
-
-President Ranil Wickremesinghe made tough decisions in 2022 to ensure the country's legislative.
-
-The people of the country are well aware that the country has recovered from the economic crisis because it has done so.
-
-...
-
-[Data](articles/bbceb4f7.json)
-
-[Extended Data](ext_articles/bbceb4f7.ext.json)
-
----
-
-### Dissolve of Bangladesh Parliament
-
-*2024-08-06 16:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-பாராளுமன்றம்-கலைப்பு/50-341696) · `ta`
-
-Bangladesh's parliament has been dissolved after PM Sheikh Hasina's resignation, amid demands from students for her replacement by Nobel laureate Muhammad Yunus, known for his work in microfinance. The move comes without any agreement with the military regime, highlighting a shift in leadership and potential changes in governance.
-
-🟩
-
-Foreign media has reported that the Bangladesh parliament has been dissolved.
-
-Following the resignation of Bangladesh Prime Minister Sheikh Hasina, Bangladesh's student body demanded the dissolution of parliament. Accordingly, the deadline was imposed till 3 pm today.
-
-Meanwhile, Student Organizations have called for the Nobel Peace Prize -winning Muhammad Yunus for the interim government in Bangladesh.
-
-Sheikh Hasina's political rival Muhammad Yunus won the Nobel Prize in 2006 as a pioneer of Micro Credit and Micro Finance.
-
-Moreover, the student body has insisted that they have no agreement with the military regime.
-
-◼️
-
-[Data](articles/5fd306c6.json)
-
-[Extended Data](ext_articles/5fd306c6.ext.json)
 
 ---

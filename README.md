@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 14:36:25**
+As of **2024-08-07 14:55:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,462 (100.0%) of 39,464 articles have been extended.
+39,464 (100.0%) of 39,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Police further stated that he is a painter by profession and was reportedly invo
 ...
 
 [Data](articles/df54a297.json)
+
+[Extended Data](ext_articles/df54a297.ext.json)
 
 ---
 
@@ -109,6 +111,12 @@ President Ranil Wickremesinghe has stated that while others only talk about corr
 Addressing a meeting with the heads of media organisations today, he said that the Proceeds of Crime Act will also be presented to the Cabinet next week.
 
 Wickremasinghe further emphasised that he has never protected anyone accused of corruption, according to the President’s Media Division.
+
+Responding to questions from the media heads, the President further said that Sri Lanka cannot change any of the benchmarks of the agreements made with the IMF or creditors, as the country would risk losing the funding.
+
+Hence, all candidates must be truthful to voters”, President Wickremesinghe said during the meeting this morning.
+
+“I have proved my capability twice and have no competition with anyone. My focus is on advancing the country,” he said responding to another query.
 
 ◼️
 
@@ -190,21 +198,27 @@ The Hindu inhabitants of Hinduians and the conflict in the country have been a r
 
 ---
 
-### දැන් ජීවිත් වෙන අය 2048 වෙද්දි නැද්ද?
+### Aren't living now in 2048?
 
 *2024-08-07 13:13:28* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-ජීවිත්-වෙන-අය-2048-වෙද්දි-නැද්ද-/11-411249) · `si`
 
-වර්තමානයේ සිටින බොහෝමයක් පුද්ගලයන් 2048 වන විටත් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In a statement, President Ranil Wickremesinghe addressed concerns about Sri Lanka's development goals, specifically aiming for a developed nation status by 2048. He acknowledged the skepticism but emphasized the importance of striving towards progress, comparing Sri Lanka's timeline with similar aspirations from India (2047) and China (2049). The president aimed to reassure the public of the country's potential for advancement, despite the challenges and the aging population.
 
-පුළුවන් ශ්‍රී ලංකා යන තේමාව යටතේ මාධ්‍ය ආයතන ප්‍රධානීන්ගේ හමුව අද(07දා)  පැවති අතර, එහිදී මාධ්‍ය වේදියෙකු යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-ප්‍රශ්නය - ඔබතුමා රට භාරගද්දි කිව්වා වැල් පාලමෙන් එගොඩ කරනවා කියලා. ඊට පස්සේ ඔබතුමා කිව්වා එගොඩ කරා කියලා. ඒ කාලයේ ඉදලම ඔබතුමා කිව්වා 2048 වෙනකොට රට සංවර්ධනය වූ රටක් වෙනවා කියලා. කෙනෙක්ට හිතෙන්න පුළුවන් 2048 වෙද්දි බොහෝ දෙනෙක්ට ඉන්න පුළුවන්ද කියලා. ඔබතුමාගේ තවමත් සැලැස්ම 2048 ශ්‍රී ලංකාව සංවර්ධිත දේශයක් කරා ගෙන යනවා කියන එකද?
+President Ranil Wickremesinghe said most of the present people are in 2048.
 
-පිළිතුර - ඇයි රටේ බොහෝ දෙනෙක් නෑ කියන්නේ? අද අවුරැදු 40ක ඉන්න අය ඒ කාලයේදී 65යි. ඉතින් 40ට අඩු අයනේ බහුතරය. කොහොම හරි 50ක් වුණ අයටත් ඉන්න පුළුවන්නේ 75ක් වෙලා. ඉතින් බහුතරයක් ඉන්න යනවා. මම කියන්නේ අපි දියුණු රටකට යන්න ඕනී. ඉන්දියාව කිව්වා 2047 කියලා. අපි කිව්වා 2048. චීනය කියනවා 2049. තමන්ගේ රට දියුණු වෙන එකට කැමති නැද්ද?
+He was responding to a question referred to a question referred to a question referred to today under Sri Lanka the Sri Lanka theme.
+
+Q. You told the country that the vines will cross the vines. Then you said that crossed over. Since then, you said that by 2048, the country would be a country that was developed. A person may feel that 2048 can many people. Is your plan to take Sri Lanka to a developed developer?
+
+A. Why don't there are many people in why?Those who are in 40 years in this year are 65 years. So the majority of the flesh of ine 40. Some 50 people can stay 75. So the majority is going to be. I mean we need to go to a advanced country. India said 2047. We said 2048. China says 2049. Wouldn't you like to improve their country?
 
 ◼️
 
 [Data](articles/3569be62.json)
+
+[Extended Data](ext_articles/3569be62.ext.json)
 
 ---
 
@@ -826,19 +840,19 @@ Parliamentarian Namal Rajapaksa has been elected as the Presidential candidate o
 
 *2024-08-07 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101054/namal-rajapaksa-named-presidential-candidate-of-slpp) · `en`
 
-The Sri Lanka Podujana Peramuna (SLPP) today officially announces its National Organiser MP Namal Rajapaksa as the party’s Presidential Candidate.
+The Sri Lanka Podujana Peramuna (SLPP) today officially announced its National Organiser MP Namal Rajapaksa as the party’s candidate for the upcoming Presidential Election.
 
 The SLPP General Secretary, Sagara Kariyawasam announced this moments ago at the party’s headquarters in Nelum Mawatha.
 
-Former President Mahinda Rajapaksa, SLPP founder Basil Rajapaksa, and several other party members had also attended the event.
+Former President Mahinda Rajapaksa, SLPP founder Basil Rajapaksa, and several other party members also attended the event.
 
 Namala Rajapaksa had been tipped to be named as the SLPP’s presidential candidate after SLPP MP Dhammika Perera decided to withdraw from the race citing personal reasons.
 
-The business magnate had informed the party yesterday (6) that he will not contest the 2024 Presidential Election due to personal reasons.
+The business magnate informed the party yesterday (6) that he will not contest the 2024 Presidential Election due to personal reasons.
 
 Hence, the party leadership had decided to name an alternate candidate.
 
-Accordingly, Namal Rajapaksa will be the youngest candidate in this year’s presidential poll.
+Rajapaksa, 38, is the youngest candidate in this election and if he wins, he will emerge as the youngest President int he history of Sri Lanka.
 
 ◼️
 

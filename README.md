@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 15:36:28**
+As of **2024-08-07 15:55:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,465 (100.0%) of 39,466 articles have been extended.
+39,466 (100.0%) of 39,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The aromatic agarwood is highly-prized for its use in the production of high-qua
 ◼️
 
 [Data](articles/5c3d7d9e.json)
+
+[Extended Data](ext_articles/5c3d7d9e.ext.json)
 
 ---
 

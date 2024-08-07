@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 23:36:10**
+As of **2024-08-07 23:55:58**
 
 ## Newspaper Stats
 
-*Scraped **39,510** Articles*
+*Scraped **39,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,274
-economynextcom | 2,386
+economynextcom | 2,397
 dailyftlk | 2,535
 adalk | 3,634
 adaderanalk | 4,592
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,510 (100.0%) of 39,510 articles have been extended.
+39,510 (100.0%) of 39,521 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -570,6 +570,26 @@ He is also a batsman who scored 633 runs with two fifties with two fifties.
 
 ---
 
+### Sri Lanka energy minister discusses proposed CEB salary structures, VRS
+
+*2024-08-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-discusses-proposed-ceb-salary-structures-vrs-175920/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera said he had discussed salary structures and a voluntary retirement scheme policy with state-run power utility management and trade unions.
+
+Wijesekera met Ceylon Electricity Board management and trade unions on Monday.
+
+“Progress and current status of CEB reforms, appointments to key new institutes, human resource management policy, proposed new salary structures, performance based incentive systems and the VRS policy was discussed,” the minister said on X (twitter).
+
+Last week the National System Operator and the National Electricity Sector Advisory Council was established with the approval of the Cabinet of Ministers, Wijesekera said.
+
+The government will gradually reduce the 26,000 approved cadre in the CEB through a VRS and by not filling retired cadre position unless it is necessary while restructuring CEB, Wijesekera told reporters last month.
+
+...
+
+[Data](articles/4f6fc2b1.json)
+
+---
+
 ### ICC honors the judge Madugalle in the 400th ODI
 
 *2024-08-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190534) · `ta`
@@ -619,6 +639,24 @@ Anthentchuna Fernando, who played a premier innings, scored 96 (102).
 [Data](articles/5d85f4c1.json)
 
 [Extended Data](ext_articles/5d85f4c1.ext.json)
+
+---
+
+### Sri Lanka’s People’s Leasing and Finance gets new CEO
+
+*2024-08-07 17:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-leasing-and-finance-gets-new-ceo-175913/) · `en`
+
+ECONOMYNEXT – Sri Lanka listed finance company, People’s Leasing and Finance Plc said it had appointed Kithsen Sanjeewa Bandaranayake as chief executive officer/general manager of with effect from August 6.
+
+He replaces Rajapaksa Pathiranage Udesh Priyadarshana Gunawardena who functioned as acting CEO/GM. Gunawardena will resume his role as the chief operating officer (COO).
+
+Bandaranayke has over 36 years of experience, including 31 years of expertise in the non-banking financial institution (NBFI) sector, the company said in a stock exchange filing.
+
+He joined People’s Leasing and Finance in 2007 as the DGM – finance and administration, and has led multiple functions, including finance, treasury, administration, human resources, information technology, credit, and marketing.
+
+...
+
+[Data](articles/1ca79abd.json)
 
 ---
 
@@ -686,6 +724,28 @@ President Mahinda Rajapen, Nuwan Bopage, will contest the next presidential elec
 
 ---
 
+### Sri Lanka rupee closes stronger at 301.55/65 to US dollar
+
+*2024-08-07 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-55-65-to-us-dollar-175896/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 301.55/65 to the US dollar on Wednesday, from 302.10/20 to the US dollar on Tuesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.80/11.05 percent, up from 10.75/85 percent.
+
+A bond maturing on 15.12.2027 closed at 11.95/12.10 percent, up from 11.85/12.05 percent.
+
+A bond maturing on 15.02.2028 closed at 12.25/35 percent, up from 12.23/28 percent.
+
+A bond maturing on 15.09.2029 closed at 12.50/70 percent, up from 12.48/58 percent.
+
+A bond maturing on 15.10.2030 closed at 12.85/95 percent, up from 12.80/90 percent. (Colombo/Aug7/2024)
+
+◼️
+
+[Data](articles/b4b1923d.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190498) · `ta`
@@ -746,6 +806,24 @@ It crashed in Nuagot district when it went with Chinese passengers from the capi
 
 ---
 
+### Sri Lanka Treasury bill yields up across maturities
+
+*2024-08-07 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-across-maturities-175904/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across maturities at Wednesday’s auction with 146 billion rupees of bills sold of an offered 155 billion rupees, data from the debt office showed.
+
+The 3-month yield was up 8 basis points to 9.22 percent, with 55 billion rupees offered and 94.8 billion rupees of bills sold.
+
+The 6-month yield was up 22 basis points to 9.56 percent, with 55 billion offered and 39.8 billion rupees of bills sold.
+
+The 12-month bills fell 11 basis points to 10.06 percent, with 45 billion offered and 11.5 billion rupees of bills sold. (Colombo/Aug7/2024)
+
+◼️
+
+[Data](articles/3abbb3c3.json)
+
+---
+
 ### Sri Lanka Test squad for England
 
 *2024-08-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199674) · `si`
@@ -783,6 +861,30 @@ The operation had led to the recovery of the package containing 04kg and 740g of
 [Data](articles/8ab0cca1.json)
 
 [Extended Data](ext_articles/8ab0cca1.ext.json)
+
+---
+
+### Sri Lanka stocks close marginally up, lowest turnover YTD
+
+*2024-08-07 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-up-lowest-turnover-ytd-175890/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.01 percent, or 1.08 points, at 11,294; while the more liquid S&P SL20 Index closed down 0.09 percent, or 2.91 points, at 3,223.
+
+“The shaky sentiment continued today with market recording its lowest turnover year-to-date,” Softlogic Stockbrokers said. “It was a bit of a mixed bag with the ASPI marginally up and the S&P down.”
+
+“Investors are still taking a wait-and-see approach. There’s a bit of volatility.”
+
+One crossing was recorded in the day; Central Finance Plc contributed 12  percent of the turnover, and the share closed flat at 105.25.
+
+Top contributors to the ASPI were Ceylinco Holdings Plc (up at 2,500.00), Melstacorp Plc (up at 80.00), and Hatton National Bank Plc (up at 184.00).
+
+A net foreign outflow of 23 million rupees was recorded. (Colombo/Aug7/2024)
+
+◼️
+
+[Data](articles/a0800b03.json)
 
 ---
 
@@ -952,6 +1054,26 @@ The artists who played the film are currently talking background. The first look
 
 ---
 
+### Benchmarks of Sri Lanka’s IMF agreement cannot be changed: president
+
+*2024-08-07 15:20:00* · [`economynextcom`](https://economynext.com/benchmarks-of-sri-lankas-imf-agreement-cannot-be-changed-president-175860/) · `en`
+
+ECONOMYNEXT — The benchmarks, revenue and expenditure figures agreed to with the International Monetary Fund (IMF) cannot be changed, Sri Lanka President Ranil Wickremesinghe said.
+
+At a Q&A with heads of media organisations held on Wednesday August 07, Wickremesinghe said the IMF has not changed their position on benchmarks agreed to with any country.
+
+“We have entered an agreement with the IMF, and we have to implement it. If we implement it as we go along, there won’t be a problem for Sri Lanka,” he said.
+
+Wickremesinghe was responding to a question about statements made by opposition parties that they would renegotiate the terms of Sri Lanka’s IMF agreement.
+
+“Now others are coming up with various proposals, that they want to change. Then they must tell what they’re going to do. One thing about the IMF is that the benchmarks will not be changed. They have never changed it for any country,” he said.
+
+...
+
+[Data](articles/83a2dd47.json)
+
+---
+
 ### Rauf Hakeem issued a warning case: Immigration and Emigration Controller
 
 *2024-08-07 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190506) · `ta`
@@ -1002,6 +1124,24 @@ The aromatic agarwood is highly-prized for its use in the production of high-qua
 
 ---
 
+### Sri Lanka to lift vehicle import ban in 2025 in stages: president
+
+*2024-08-07 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lift-vehicle-import-ban-in-2025-in-stages-president-175810/) · `en`
+
+ECONOMYNEXT — Sri Lanka will permit the import of vehicles in 2025 in stages as the country needs the revenue from custom duty, President Ranil Wickremesinghe said.
+
+At a Q&A with heads of media organisations held on Wednesday August 07, Wickremesinghe said Sri Lanka should be in a position to lift the ongoing ban on vehicle imports as the country’s reserves are being built up.
+
+“Next year, we will be allowing the vehicle import by stages because we need the custom duty to make up for revenue. We’re waiting for, I think our reserves are being built up, so it should be in a position to allow the import of vehicles because duties from vehicle imports is a major source of revenue for the government we need for next year,” he said.
+
+State Minister for Finance Ranjith Siyambalapitiya has said that the final decision regarding the lifting of the ban on vehicle imports will be taken in the second week of August.
+
+...
+
+[Data](articles/169e42ab.json)
+
+---
+
 ### Club spring murder - Big Patti's brother-in-law
 
 *2024-08-07 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199669) · `si`
@@ -1025,6 +1165,44 @@ Investigations have also been found in a CCTV display indicate how the bus is tr
 [Data](articles/9a60e082.json)
 
 [Extended Data](ext_articles/9a60e082.ext.json)
+
+---
+
+### Sri Lanka Freedom Party faction and Samagi Jana Balawegaya enter alliance
+
+*2024-08-07 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-faction-and-samagi-jana-balawegaya-enter-alliance-175710/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) has entered an alliance with the faction of the crisis-riddle Sri Lanka Freedom Party (SLFP) led by MP Dayasiri Jayasekara.
+
+An agreement was signed between the two parties at a ceremony held in Colombo on Wednesday August 07.
+
+In attendance at the event was MP Thilanga Sumathipala, who is the general secretary of the SLFP-led United People’s Freedom Alliance (UPFA).
+
+The faction of the SLFP led by Aviation Minister Nimal Siripala de Silva, however, have declared their support for President Ranil Wickremesinghe at the 2024 presidential election.
+
+State Minister for Transport Lasantha Alagiyawanna, a member of this faction, said on Monday that the SLFP has officially decided to endorse Wickremesinghe at the upcoming election, with 90 percent of the executive council and a majority of the party’s MPs agreeing to this decision.
+
+...
+
+[Data](articles/f2f2db98.json)
+
+---
+
+### Bangladesh central bank Deputy Governors ousted, Governor’s resignation demanded
+
+*2024-08-07 14:13:00* · [`economynextcom`](https://economynext.com/bangladesh-central-bank-deputy-governors-ousted-governors-resignation-demanded-175746/) · `en`
+
+ECONOMYNEXT – Protesting staffers have stormed the office of Bangladesh Central Bank Governor and forced the resignation of Deputy Governors, media reports said days after the Prime Minister was ousted in the wake of two years of monetary instability and a plunging currency.
+
+Around 200 Bangladesh Bank workers came to the offices around 1030 am and demanded their resignation, The Daily Star reported, while more were holding placards at the front of the building.
+
+Governor Abdur Rouf Talukder was not in office at the time, but two Deputy Governors, Kazi Saidur Rahman and Nurun Nahar, were forced to sign resignation letters on blank sheets of paper and then left with the help of army officials, the Financial Express reported.
+
+Protestors also demanded the resignations of Deputy Governors Khurshid Alam and Habibur Rahman, head of the Bangladesh Financial Intelligence Unit Masud Biswas, and central bank adviser Abu Farah Md Naser, the newspaper said.
+
+...
+
+[Data](articles/7ebe73a9.json)
 
 ---
 
@@ -1233,6 +1411,28 @@ A. Why don't there are many people in why?Those who are in 40 years in this year
 [Data](articles/3569be62.json)
 
 [Extended Data](ext_articles/3569be62.ext.json)
+
+---
+
+### Sri Lanka, New Zealand discuss strengthening bilateral ties: Minister
+
+*2024-08-07 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-zealand-discuss-strengthening-bilateral-ties-minister-175719/) · `en`
+
+ECONOMYNEXT – Sri Lanka and New Zealand have discussed expansion of bilateral relations between the two countries in trade, education, dairy industry and sports, the country’s Minister of Trade said after a meeting with the High Commissioner.
+
+New Zealand High Commissioner David Pine met Minister of Trade, Commerce and Food Safety Nalin Fernando at the Ministry recently.
+
+New Zealand will provide its support to promote the tourism industry, the High Commissioner was quoted as saying by a government statement.
+
+Pine believed it was important for Sri Lanka to be unique in the international market under one or more products under one name instead of competing in the international market under different brands.
+
+Sri Lanka is focused on the diversification of local products in the international market Fernando said.
+
+Pine also praised the Sri Lankan origin population in New Zealand as a group with high labor skills. (Colombo/Aug7/2024)
+
+◼️
+
+[Data](articles/ffb3b0c9.json)
 
 ---
 
@@ -1770,6 +1970,26 @@ Sagara Kariyawasam, the SLPP’s Secretary General said some of the key criteria
 
 ---
 
+### Sri Lanka’s entrepreneurial journalists to be recognized by SPARK award
+
+*2024-08-07 09:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-entrepreneurial-journalists-to-be-recognized-by-spark-award-175677/) · `en`
+
+ECONOMYNEXT – An entrepreneurship awards programme to recognize Sri Lanka’s young talent will include two awards for journalists, its organizer the Ceylon Chamber of Commerce, said.
+
+‘SPARK: Skilled Youth Entrepreneurship Competition 2024’, supported by the International Labour Organization and the US Department of State, offers an opportunity for aspiring young entrepreneurs “to pitch their innovative ideas and entrepreneurial solutions,” the trade body said.
+
+SPARK 2024 will recognize young journalists under two new categories.
+
+The SPARK Young Entrepreneurial Journalist Award, will recognize excellence in entrepreneurial journalism (making journalism a viable business).
+
+The SPARK Young Entrepreneurship Journalist Award, will recognize excellence in entrepreneurship journalism (promoting entrepreneurship through journalism).
+
+...
+
+[Data](articles/272ad15b.json)
+
+---
+
 ### Sri Lanka rupee opens flat at 302.10/30 to US dollar
 
 *2024-08-07 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-302-10-30-to-us-dollar-175658/) · `en`
@@ -2121,271 +2341,5 @@ However, the organizers of the competition organized to cancel the aforesaid tal
 [Data](articles/869db91b.json)
 
 [Extended Data](ext_articles/869db91b.ext.json)
-
----
-
-### Fire at Bangladesh's Host: 24 killed
-
-*2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
-
-Protesters in Bangladesh set fire to a political party building, killing 24, including an Indonesian, linked to former PM Sheikh Hasina.
-
-🟩
-
-The protesters set fire to a party belonging to a member of the party's former Prime Minister Sheikh Hasina.
-
-It is reported that 24 people, including the Indonesian citizen, were killed in the fire.
-
-◼️
-
-[Data](articles/846d2c76.json)
-
-[Extended Data](ext_articles/846d2c76.ext.json)
-
----
-
-### Fire in Humans: 24 killed
-
-*2024-08-07 08:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விருந்தகத்தில்-தீ-24-பேர்-பலி/50-341730) · `ta`
-
-Protesters set fire to a party event, killing 24, including an Indonesian, linked to Bangladesh's ex-PM Sheikh Hasina.
-
-🟩
-
-The protesters set fire to a party belonging to a member of the party's former Prime Minister Sheikh Hasina.
-
-It is reported that 24 people, including the Indonesian citizen, were killed in the fire.
-
-◼️
-
-[Data](articles/d4bdb474.json)
-
-[Extended Data](ext_articles/d4bdb474.ext.json)
-
----
-
-### Sri Lanka banks owed Rs88bn to banks on past senior citizen interest subsidies
-
-*2024-08-07 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-owed-rs88bn-to-banks-on-past-senior-citizen-interest-subsidies-175632/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banks were still owed 88 billion rupees over interest subsidies paid to senior citizens in the past, State Minister for Finance Ranjith Siyambalapitiay said as a new subsidy scheme was announced.
-
-The cabinet of ministers on Tuesday had approved a new interest subsidy scheme which would put a floor of 10 percent on deposits of over 60 persons.
-
-“President Ranil Wickremesinghe listened to requests from senior citizens about the situation they were facing,” State Minister for Finance Ranjith Siyambalapitiya said.
-
-“We look at the previous scheme the government has to pay 88 billion rupees to banks. This is a time when are progressively paying them back.
-
-“Despite this, President looked at this sympathetically and made a proposal to the cabinet.”
-
-Senior citizen subsidies were discontinued as interest rates rose steeply to stop an economic crisis triggered by central bank rate cuts enforced with liquidity injections.
-
-...
-
-[Data](articles/77b845d2.json)
-
-[Extended Data](ext_articles/77b845d2.ext.json)
-
----
-
-### Another suspect arrested for killing Club Spring
-
-*2024-08-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199654) · `si`
-
-A suspect, aged 36 and residing in Dharga Town, has been arrested by the Western Province North Criminal Division in connection with a fatal incident at Club Spring. The arrest occurred near the Southern Expressway, and the suspect was found to be renting a house prior to committing the crime. He had also transported shooters and weapons from Ambalangoda to Athurugiriya. Further investigations are ongoing by the Athurugiriya Police.
-
-🟩
-
-The Western Province South Criminal Division has been arrested by the Western Province North Criminal Division.
-
-Police said that the suspect was arrested in connection with the injuries of the incident in the Athurugiriya police division on July 8.
-
-Accordingly, the suspects were arrested at the Southern Expressway at the Southern Expressway and he was taken to the Athurugiriya Police.
-
-The suspect is a resident of Dharga Town, 36.
-
-It has been revealed that the suspect obtains a rent home before crime and the two shooters and weapons from Ambalangoda to the Athurugiriya area.
-
-Officers in the Western Criminal Division of the Western Province have been taken into police custody and produced the bus to the Athurugiriya police station.
-
-Elemissions have been arrested so far in connection with the incident and the Athurugiriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/dd14546e.json)
-
-[Extended Data](ext_articles/dd14546e.ext.json)
-
----
-
-### Two murders
-
-*2024-08-07 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199653) · `si`
-
-In Kurunegala, a 52-year-old from Eravur was killed with a sharp object. Separately, a 31-year-old from Warakapola was fatally attacked near Thummodara Kumari Ella in Hanwella.
-
-🟩
-
-A man was assaulted by a house in the Kurunegala area with a sharp instrument.
-
-The victim was a resident of Eravur, Panchchinar, 52 years old.
-
-Meanwhile, a person has been attacked with a sharp instrument on the road to Thummodara Kumari Ella in Hanwella yesterday afternoon.
-
-The deceased has been identified as a resident of Warakapola, 31.
-
-◼️
-
-[Data](articles/4787059a.json)
-
-[Extended Data](ext_articles/4787059a.ext.json)
-
----
-
-### Who is the support of the Badiudeen?
-
-*2024-08-07 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199652) · `si`
-
-Rishad Bathiudeen, the party leader, announced that their party will support the upcoming Presidential Election, deciding on this during a meeting. They plan to finalize their stance by 10 am on the 14th, emphasizing the importance of supporting the current economy and returning to normalcy.
-
-🟩
-
-The candidate who supports the entire Presidential Election has decided to declare on the 14th.
-
-The party leader Rishad Bathiudeen said that this decision was taken at the party's architecture board meeting.
-
-"Our party's supreme discussion was a wide discussion that everyone should support the presidential election. We decided to make our final decision at 10 am on the 14th morning. We will attend those meetings because we are still present. At that time, the reconciliation has requested the party to support the party. And we sent a letter to support the president. We say that we must protect the current economy. Return back in the Riveds Gier. "
-
-◼️
-
-[Data](articles/974685c5.json)
-
-[Extended Data](ext_articles/974685c5.ext.json)
-
----
-
-### Presidential Secretariat announced on Bangladesh interstanding government
-
-*2024-08-07 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199651) · `si`
-
-The Presidential Secretariat announced Nobel laureate Muhammad Yunus as the Chief Advisor for Bangladesh's interim government, following discussions between President Mohammed Shambiva and student leaders. This move comes after student protests against a potential military government, with Muhammad Yunus recognized for his contributions during challenging times. The President emphasized the need for an interim government to stabilize the country.
-
-🟩
-
-The Presidential Secretariat has announced that the Nobel Peace Prawardena is appointed as the Chief Advisor of a Interim Governor of Bangladesh.
-
-This decision was taken at a meeting between President Mohammed Shambiva and the chiefs of the group of President Mohammed Shambiva and the students.
-
-With the fleeing of the Briscine Shiq Hasina, the student leaders had stated that they would not accept a military government.
-
-Accordingly, Mr. Unus' name has been proposed to lead a interim control.
-
-Nonbel Peace Peace Peace Peace Peace Licket Recipient Muhammad Yunus has said that students who had done at the difficult time were notable.
-
-The President of Bangladesh has announced that it is necessary to establish an interstate government to reclaim the country.
-
-◼️
-
-[Data](articles/65df0670.json)
-
-[Extended Data](ext_articles/65df0670.ext.json)
-
----
-
-### The decisive decision of the pouch is another moment in a moment
-
-*2024-08-07 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199650) · `si`
-
-MP Sabara Kariyawasam announced that the Sri Lanka General Front's presidential electoral candidate will be revealed at 7:00 AM today. Dhammika Perera, informed previously that he wouldn't run due to personal reasons, expressed gratitude for being considered as a candidate this year. MP Namal Rajapaksa is now set to be the candidate for the Sri Lanka Civil Appointment in the upcoming presidential election.
-
-🟩
-
-MP Sabara Kariyawasam says that the Presidential Electoral candidate for the Sri Lanka General Front is to be officially declared at 7.00 am today (07).
-
-Dhammika Perera had been informed yesterday that the Sri Lankan General Front would not be contesting the Sri Lankan General Man.
-
-Mr. Dhammika Perera has sent a letter to the Secretary-General.
-
-Dhammika Perera has stated that Dhammika Perera has said that the presidential election candidate will not be contest for a personal reason.
-
-He has said that he thanked the party leadership as the candidate of the Sri Lanka Civil Appointment this year.
-
-MP Namal Rajapaksa is to be named as the candidate of the Sri Lanka Civil Appointment of the Presidential Election in the present situation.
-
-◼️
-
-[Data](articles/ba67f0a2.json)
-
-[Extended Data](ext_articles/ba67f0a2.ext.json)
-
----
-
-### Plan to kill many people, including Trump - arrested in the United States
-
-*2024-08-07 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190458) · `ta`
-
-A Pakistani man linked to Iran was arrested in the US for plotting to assassinate American politicians, including former President Donald Trump. Authorities claim he attempted to hire someone for this purpose, posing a threat to national security.
-
-🟩
-
-Under accusing the US to kill former President Donald Trump;US officials have arrested a man from Pakistan.
-
-US officials have accused a Pakistani man who has links with Iran for his plan to kill US politicians.
-
-Authorities have alleged that 46 -year -old Aziv Merchand had tried to hire a person to kill major officials.
-
-The director of the UPI said that the foreign conspiracy to kill the public, or the US citizen is a threat to our national security.
-
-◼️
-
-[Data](articles/e1bc0de2.json)
-
-[Extended Data](ext_articles/e1bc0de2.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-08-07 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199648) · `si`
-
-Expect showers across Western, Sabaragamuwa, Northwestern provinces, Kandy, Nuwara Eliya, Galle, Matara districts. Heavy rain warnings for over 50 areas in Eastern, Uva, Northern provinces tonight.
-
-🟩
-
-Several spells of showers can occur in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department issues a statement that there will be showers during the evening or night in the rest of the island.
-
-Some areas in the East, Uva and Northern provinces. There will be more heavy rains in more than 50.
-
-◼️
-
-[Data](articles/9bb1aed2.json)
-
-[Extended Data](ext_articles/9bb1aed2.ext.json)
-
----
-
-### Are MPs use parliamentary powers and privileges to repress media repression?
-
-*2024-08-07 04:25:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9844n023lxo) · `si`
-
-MPs in Sri Lanka have used parliamentary privileges to address perceived media bias and misinformation, but concerns arise over potential misuse to stifle criticism. The Parliamentary Powers and Privileges Act allows MPs broad freedoms of speech, yet there's controversy over how these rights intersect with press freedom. Instances of MPs questioning journalists before parliamentary committees and allegations of journalists being targeted for their reporting highlight the delicate balance between parliamentary immunity and media accountability.
-
-🟩
-
-Are MPs use parliamentary powers and privileges to repress media repression?
-
-Members can express any idea in the Chamber of Principles of Parliament. It does not matter whether it is in court. It is a unique privilege of parliamentarians regarding freedom of speech. However, the citizens of the country have interrogated the slandeasures of the Sri Lankan Parliament by using that privilege.
-
-MP Namal Rajapaksa once said that the laws should be amended to ensure that the problem was effectively targeting various individuals using parliamentary privileges.
-
-MPs say that their parliamentary privileges have been broken. Of these, journalists also have the finger.
-
-...
-
-[Data](articles/5cb73a48.json)
-
-[Extended Data](ext_articles/5cb73a48.ext.json)
 
 ---

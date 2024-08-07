@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 19:54:41**
+As of **2024-08-07 20:07:06**
 
 ## Newspaper Stats
 
-*Scraped **39,489** Articles*
+*Scraped **39,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,632
+adalk | 3,633
 adaderanalk | 4,589
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,959
-virakesarilk | 6,238
+virakesarilk | 6,242
 adaderanasinhalalk | 6,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,489 (100.0%) of 39,489 articles have been extended.
+39,489 (100.0%) of 39,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### மன்னார் நீதிமன்றத்தினால் விடுதலையான வைத்திய அர்ச்சுனாவுக்கு ஆயிரக்கணக்கான மக்கள் ஒன்று கூடி அமோக வரவேற்பு
+
+*2024-08-07 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190537) · `ta`
+
+மன்னார் நீதிமன்றத்தினால் புதன்கிழமை (7) நிபந்தனையின் அடிப்படையில் விடுதலை செய்யப்பட்ட வைத்தியர் அர்ஜுனாவிற்கு மன்னார் மாவட்ட மக்கள் அமோக வரவேற்பை வழங்கினர்.
+
+கடந்த வெள்ளிக்கிழமை(2) இரவு மன்னார் மாவட்ட பொது வைத்தியசாலையினுள் அத்துமீறி  நுழைந்து கடமைக்கு  இடையூரை ஏற்படுத்தினார் என்ற குற்றச்சாட்டில் மன்னார் பொலிஸ் நிலையத்தில் வைத்தியசாலை தரப்பினரால் மேற்கொள்ளப்பட்ட முறைப்பாட்டை அடுத்து வைத்தியர் அர்ச்சுனா மன்னா பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட வைத்தியர் சனிக்கிழமை மன்னார் நீதவான் முன்னிலையில் ஆஜர் படுத்திய போது அவரை இன்றைய தினம் 7ஆம்க்ஷ திகதி வரை விளக்க மறியலில் வைக்குமாறு உத்தரவு பிறப்பித்தார்.
+
+இந்த நிலையில் இன்றைய தினம்(7) குறித்த வழக்கு விசாரணைக்காக எடுத்துக் கொள்ளப்பட்ட போது வைத்தியர் அருச்சுனா மன்னார் நீதிமன்றத்தில் முன்னிலைப் படுத்தப்பட்டார்.
+
+வைத்திய சார்பாக சிரேஷ்ட சட்டத்தரணி அண்ரன் புனித நாயகம் தலைமையிலான சட்டத்தரணிகள் மன்றில்  முன்னிலையாகி இருந்தனர்.
+
+...
+
+[Data](articles/a20a5b7f.json)
+
+---
 
 ### 5kg of ‘Ice’ drugs found concealed inside computer accessories
 
@@ -49,6 +69,22 @@ The consignment of drugs is suspected to have been sent by the notorious drug tr
 [Data](articles/2885b22e.json)
 
 [Extended Data](ext_articles/2885b22e.ext.json)
+
+---
+
+### இருநாட்டு அரசாங்கங்களும் மீனவர்களும் இணங்கிய ஒப்பந்தத்தை நடைமுறைப்படுத்துங்கள் - அன்னராசா
+
+*2024-08-07 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190531) · `ta`
+
+இரு நாட்டு வெளிவிவகார அமைச்சுகளும் மீனவர்களும் இணங்கிய ஒப்பந்ததை  நடைமுறைபடுத்துங்கள் அதுமட்டுமன்றி இந்திய மீனவர்கள் வடபகுதிக்கு நேரில் வந்து எமது வாழ்கை முறைகள் பற்றி கலந்துரையாடுவதற்கு விரைவான ஏற்பாடுகளை செய்யுமாறு யாழ்.மாவட்ட கடற்மொழிலாளர் கூட்டுறவு சங்க சமாசங்களின் முன்னாள் தலைவரும் அகில இலங்கை மீனவ மக்கள் தொழில் சங்கத்தின்  வடக்கு மாகாண இணைப்பாளர் அன்னலிங்கம் அன்னராசா தொரிவித்தார்.
+
+இலங்கை இந்திய பிரதிநிதிகள் இடையே சந்திப்பை ஏற்படுத்தி மீனவர் பிரச்சினைக்கு நிரந்தரதீர்வு காணப்படும் என இந்திய வெளியுறவுதுறை அமைச்சர் என்.ஜெய்சங்கர் உறுயளித்துள்ளமை  தொடர்பில் கேட்டபோதே அவர் இதனை தெரிவித்தார்.
+
+இந்திய மீனவர்களின் அத்துமீறிய தொழில் முறைகளால் வடக்கு மீனவர்களின் வாழ்வாதாரம் பாதிக்கபடுவது மட்டுமன்றி ஒட்டுமொத்த வடக்கிற்கான வாழ்வாதாரம் பொருளாதரம் பாதிக்கப்படுகின்றது கடற்தொழிலை கைவிட்டு வேறு தொழிலுக்கு செல்லவேண்டிய சூழலே தோன்றியுள்ளது.
+
+...
+
+[Data](articles/26827aff.json)
 
 ---
 
@@ -71,6 +107,22 @@ Police suspect that the drug has been sent to Sri Lanka by the racketeer named D
 [Data](articles/53f2061b.json)
 
 [Extended Data](ext_articles/53f2061b.ext.json)
+
+---
+
+### தமிழ் - முஸ்லிம் மக்கள் சஜித் பக்கம் செப்டெம்பர் 22 அரசாங்கத்தை பொறுப்பேற்போம் - நளின் பண்டார
+
+*2024-08-07 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190536) · `ta`
+
+ரணில் விக்கிரமசிங்கவை சிறைக்கு அனுப்பும் வரை தூங்க போவதில்லை என்று குறிப்பிட்டவர்கள் இன்று வெட்கமில்லாமல் ரணில் புகழ்பாடுகிறார்கள். தமிழ் மற்றும் முஸ்லிம் மக்கள் சஜித் பிரேமதாசவுக்கு முழுமையான ஆதரவு வழங்குவார்கள். செப்டெம்பர் 22 ஆம் திகதி அரசாங்கத்தை பொறுப்பேற்போம் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  நளின் பண்டார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (07) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மத்திய வங்கி மோசடியை குறிப்பிட்டுக் கொண்டு ஆட்சிக்கு வந்தவர்கள் அந்த மோசடியை காட்டிலும் பன்மடங்கு மோசடியான வி.எப்.எஸ் விசா விநியோகத்துக்கு அனுமதி வழங்கியது. இந்த விநியோகத்தினால் அரசாங்கத்துக்கு ஏற்படவிருந்த 4000 கோடி ரூபா வருமானம் இழப்பை உயர்நீதிமன்றத்துக்கு சென்று நாங்கள் தடுத்துள்ளோம்.
+
+...
+
+[Data](articles/41eee88f.json)
 
 ---
 
@@ -109,6 +161,44 @@ He is also a batsman who scored 633 runs with two fifties with two fifties.
 [Data](articles/920c1412.json)
 
 [Extended Data](ext_articles/920c1412.ext.json)
+
+---
+
+### 400ஆவது ஒருநாள் போட்டியில் தீர்ப்பாளர் மடுகல்லேவுக்கு ஐசிசி கௌரவிப்பு
+
+*2024-08-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190534) · `ta`
+
+இலங்கை - இந்திய அணிகளுக்கு இடையில் கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் நடைபெற்றுவரும் மூன்றாதுவம் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியானது ரஞ்சன் மடுகல்லே தீர்ப்பாளராக கடமையாற்றும் 400ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியாகும்.
+
+சர்வதேச ஒருநாள் கிரிக்கெட் அரங்கில் இந்த மைல்கல் சாதனையை நிலைநாட்டிய முதலாவது போட்டி தீர்ப்பாளர் இலங்கையின் ரஞ்சன் மடுகல்லே ஆவார்.
+
+இதனை முன்னிட்டு சர்வதேச கிரிக்கெட் பேரவை (ஐஊஊ) நினைவுச் சின்னம் வழங்கி அவரை கௌரவித்தது.
+
+போட்டி ஆரம்பமாவதற்கு முன்னர் ரஞ்சன் மடுகல்லேவுக்கு பெய்ல்கள் வடிவிலான நினைவுச் சின்னத்தை ஐசிசி சார்பாக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரி ஏஞ்ஷலி டி சில்வா வழங்கினார்.
+
+இந்திய அணித் தலைவர் ரோஹித் ஷர்மா, இலங்கை அணித் தலைவர் சரித் அசலன்க ஆகியோரும் பிரசன்னமாகி இருந்தனர்.
+
+ரஞ்சன் மடுகல்லேயின் இந்த மைல்கல் சாதனையையிட்டு சர்வதேச கிரிக்கெட் பேரவை தனது வாழ்த்துக்களைத் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/26159332.json)
+
+---
+
+### ශ්‍රී ලංකාවෙන් ඉන්දියාවට ලකුණු 249ක ඉලක්කයක්
+
+*2024-08-07 17:58:41* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවෙන්-ඉන්දියාවට-ලකුණු-249ක-ඉලක්කයක්/11-411254) · `si`
+
+ඉන්දීය කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 249ක ඉලක්කයක් ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+ඒ අනුව කාසි​යේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 248ක් රැස් කළහ.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ අවිශ්ක ප්‍රනාන්දු ලකුණු 96(102) රැස් කළේය.
+
+◼️
+
+[Data](articles/5d85f4c1.json)
 
 ---
 
@@ -2199,115 +2289,5 @@ The fire has caused tension in the area. (A)
 [Data](articles/848aa780.json)
 
 [Extended Data](ext_articles/848aa780.ext.json)
-
----
-
-### World-renowned consumer electronics brand KONKA returns to Sri Lanka in partnership with FLiCo
-
-*2024-08-07 01:53:34* · [`dailyftlk`](https://www.ft.lk/business/World-renowned-consumer-electronics-brand-KONKA-returns-to-Sri-Lanka-in-partnership-with-FLiCo/34-765225) · `en`
-
-From left: Future Life Holdings Chief Operations Officer Sanjaya Jayaweera, Chief Admin and Marketing Officer Kasun Perera, Konka Overseas Brand Development Senior Manager You Shanshan (Fiona You), Konka Regional Director Lu Wei (Reed Lu) and Future Life Holdings CEO Danushka Udugama at the Konka Flico partnership in Colombo – Pic by Daminda Harsha Perera
-
-World-renowned Chinese consumer electronics brand KONKA is returning to the local market in partnership with the new distribution agent in Sri Lanka FLiCo, a Future Life Holdings subsidiary.
-
-KONKA, is a globally recognised brand known for its superior and innovative consumer electronics products. Through the FLiCo network, a wide range of KONKA’s products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers across the country.
-
-...
-
-[Data](articles/4af026b5.json)
-
-[Extended Data](ext_articles/4af026b5.ext.json)
-
----
-
-### The model cannot be rented ”
-
-*2024-08-07 01:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டை-வாடகைக்கு-விட-முடியாது/175-341724) · `ta`
-
-Ruling party's chief organizer denies claims that President Ranil Wickremesinghe aims to split the Sri Lanka PA, emphasizing unity and the importance of working together. A meeting of MPs supporting the President highlighted the focus on grassroots programs. Critics argue the President's actions are inconsistent, questioning his commitment to the party's principles.
-
-🟩
-
-Ranil Wickremesinghe has never attempted to split the Sri Lanka PA, said the ruling party's chief organizer, Urban Development and Housing Minister Prasanna Ranatunga.
-
-The Minister said that the President has always said that the party should work together.
-
-A special discussion of MPs representing the Sri Lanka PA, which supports President Ranil Wickremesinghe, was held on Monday (05) at a hotel in Battaramulla.
-
-Ministers Prasanna Ranatunga, Kanchana Wijesekera, Ramesh Pathrana, Ali Sabri and many other ministers were present at the discussion.
-
-Ranil Wickremesinghe's victory in the presidential election was focused on the program to clarify the people at the district level.
-
-Minister Prasanna Ranatunga added to the media after the discussion.
-
-Question - The President is accused of splitting the Sri Lankan PA. What do you want to say about it?
-
-...
-
-[Data](articles/7bb0ec6f.json)
-
-[Extended Data](ext_articles/7bb0ec6f.ext.json)
-
----
-
-### Singhagiri introduces CANDY washing machines and refrigerators
-
-*2024-08-07 01:51:23* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-introduces-CANDY-washing-machines-and-refrigerators/34-765224) · `en`
-
-CANDY smart 12.5kg washer dryer and CANDY side by side refrigerators (518L)
-
-Singhagiri Ltd. a leading company in Sri Lanka for consumer durables, with a heritage of over 50 years, is excited to announce that the addition of CANDY products to its portfolio. CANDY is a leading European appliance brand, whose refrigerators and washing machines will be sold exclusively by Singhagiri.
-
-Unlike other household appliances that are available in the market, CANDY offers a host of unique and smart features at affordable prices, to help simplify one’s home and daily lifestyle. Designed with a meticulous attention to detail, this luxurious Italian brand, allows users to communicate with appliances, through mobile devices or via digital assistance via the CANDY App (Simplify App).
-
-...
-
-[Data](articles/07a6db7c.json)
-
-[Extended Data](ext_articles/07a6db7c.ext.json)
-
----
-
-### CameraLK unveils new Sony service centre with specialised repair solutions
-
-*2024-08-07 01:49:05* · [`dailyftlk`](https://www.ft.lk/business/CameraLK-unveils-new-Sony-service-centre-with-specialised-repair-solutions/34-765223) · `en`
-
-Sony Director and Digital Imaging Division Head Kanta Yamamoto with CameraLK Managing Director Anushka Gunasinghe
-
-CameraLK, Sri Lanka’s leading camera retail giant, recently unveiled its brand new CameraLK service centre at No. 244, High Level Rd., Colombo 5.
-
-This state-of-the-art facility is dedicated to servicing and repairing Sony cameras, lenses, drones, and accessories, further solidifying CameraLK’s position as the premier destination for photography enthusiasts in the country.
-
-The grand opening was made even more special with the esteemed presence of Sony Director and Digital Imaging Division Head Kanta Yamamoto and Sony Digital Imaging Division Assistant General Manager Kairo Suda. This visit marks their first to Sri Lanka, highlighting the importance of this new venture for both CameraLK and Sony.
-
-...
-
-[Data](articles/d48e8d17.json)
-
-[Extended Data](ext_articles/d48e8d17.ext.json)
-
----
-
-### Election Amendment Bill?
-
-*2024-08-07 01:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திருத்தச்-சட்டமூலம்-தேர்தல்-குண்டா/175-341723) · `ta`
-
-Wimal Weerawansa criticizes the proposed Election Amendment Bill, suggesting it aims to manipulate the Tamil National Alliance's support for provincial councils ahead of the presidential election. He argues this could unfairly impact Tamils, Sinhalese, and Muslims in the North, urging caution against what he sees as an electoral tactic.
-
-🟩
-
-National Freedom Front Parliamentarian Wimal Weerawansa said that he considers the provincial councils to get the votes of the Tamil National Alliance (TNA) as an election bomb.
-
-Parliament will meet Speaker Mahinda Yapa Abeywardena at 9.30 am on Tuesday (06). He said the issue of order after the main action of the council was completed.
-
-The last good government has adjourned the election of provincial councils without definition. The election will be held as soon as the presidential election is announced. What is the purpose of the provincial councils to bring in the Election Amendment Bill within a short period of time?He asked.
-
-If the appointment of the Chief Minister of the Provincial Chief Minister, the police declaration, the Environment Declaration and the Land Declaration can be fulfilled in bulk. However, JR Jayawardene accused the provincial councils of the amendment to the amendment.
-
-...
-
-[Data](articles/24a22d82.json)
-
-[Extended Data](ext_articles/24a22d82.ext.json)
 
 ---

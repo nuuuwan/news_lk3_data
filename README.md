@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 14:20:51**
+As of **2024-08-07 14:36:25**
 
 ## Newspaper Stats
 
-*Scraped **39,462** Articles*
+*Scraped **39,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
-adalk | 3,628
-adaderanalk | 4,584
+adalk | 3,629
+adaderanalk | 4,585
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
@@ -26,45 +26,77 @@ adaderanasinhalalk | 6,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,460 (100.0%) of 39,462 articles have been extended.
+39,462 (100.0%) of 39,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### More details revealed on Gampaha and Ja-Ela shootings that injured 2
+
+*2024-08-07 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101061/more-details-revealed-on-gampaha-and-ja-ela-shootings-that-injured-2) · `en`
+
+Police stated that two persons were injured and hospitalized following separate shooting incidents, which are suspected to be linked, that occurred in the Makewita area of Ja-Ela and the Thammita area of Gampaha last night (06).
+
+Police suspect that the same gunmen had been involved in both shootings.
+
+The incident occurred in the Makewita area of Ja-Ela at around 07. 40pm last night when two assailants, who had arrived on a motorcycle, opened fire at a person who was also riding a motorcycle, before fleeing the scene.
+
+The victim, identified as 43-year-old Ranga Jayanath also known as K.J. Jayanath, was later admitted to the Gampaha, District General Hospital.
+
+Police further stated that he is a painter by profession and was reportedly involved in drug-related activities including dealing in ‘ice’ drugs, also known as crystal methamphetamine as well as cannabis.
+
+...
+
+[Data](articles/df54a297.json)
+
+---
+
+### Sri Lanka to benefit the coin
 
 *2024-08-07 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199668) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තුන්වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (07) පැවැත්වෙයි.
+Sri Lanka, captained by Charith, won the toss and the match against India at the Colombo District Stadium, marking their first victory in the ODI series after 27 years.
 
-කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක සමත් විය.
+🟩
 
-එක්දින ක්‍රිකට් තරගාවලියේ මේ වනවිට තරග 1ට බින්දුවක් ලෙස ජයගනිමින් ශ්‍රී ලංකා කණ්ඩායම පෙරමුණේ පසුවෙයි.
+Sri Lanka and India will be held today (07).
 
-ශ්‍රී ලංකා කණ්ඩායම ඉන්දීය කණ්ඩායමට එරෙහිව තරගාවලි ජයක් අවසානවරට ලබා ඇත්තේ, වසර 27කට පෙරය.
+Sri Lanka captain Charith won the toss and win the tour of the match at the Colombo District Stadium in Colombo.
+
+Sri Lanka will be at the forefront of winning 1 matches in the ODI series.
+
+Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 
 ◼️
 
 [Data](articles/ad72cfce.json)
 
+[Extended Data](ext_articles/ad72cfce.ext.json)
+
 ---
 
-### 13 හැවිරිදි දරුවෙක් අතුරුදන්
+### 13 year old boy missing
 
 *2024-08-07 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199667) · `si`
 
-අවුරුදු 13ක පිරිමි දරුවෙකු අතුරුදන් වී ඇති බවට පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
+A 13-year-old boy from Vavuniya has gone missing since May 6th. The Piliyandala Police Station is investigating the case. A photo of the child is available, and the police ask anyone with information to contact them.
 
-පසුගිය මැයි 6 වන දින පුතා අතුරුදන් වූ බවට පියා විසින් පිළියන්දල පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත පිළියන්දල පොලිස් ස්ථානය විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-එලෙස අතුරුදන්ව ඇත්තේ අවුරුදු 13ක් වූ අංක 73, වවනවත්ත පාර, පිළියන්දල ප්‍රදේශයේ පදිංචිව සිටි මනෝහරන් ප්‍රදීප් යන දරුවෙකි.
+The police have lodged a complaint that a 13 year old boy had disappeared.
 
-අතුරුදන් වූ දරුවාගේ ඡායාරූපය ඉහතින් දක්වා ඇති අතර, ඔහු සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත දුරකථන අංක ඔස්සේ දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+The Piliyandala Police Station has commenced investigations into a complaint carried out by the father of the 6th May.
+
+The disappearance is a child, Vavuniya, Vavuniya, Vavuniya, Vavuniya.
+
+The photo of the missing child is above the above and the police urge the public to inform the telephone numbers below.
 
 ◼️
 
 [Data](articles/514bb381.json)
+
+[Extended Data](ext_articles/514bb381.ext.json)
 
 ---
 
@@ -155,6 +187,24 @@ The Hindu inhabitants of Hinduians and the conflict in the country have been a r
 [Data](articles/0991d310.json)
 
 [Extended Data](ext_articles/0991d310.ext.json)
+
+---
+
+### දැන් ජීවිත් වෙන අය 2048 වෙද්දි නැද්ද?
+
+*2024-08-07 13:13:28* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-ජීවිත්-වෙන-අය-2048-වෙද්දි-නැද්ද-/11-411249) · `si`
+
+වර්තමානයේ සිටින බොහෝමයක් පුද්ගලයන් 2048 වන විටත් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+පුළුවන් ශ්‍රී ලංකා යන තේමාව යටතේ මාධ්‍ය ආයතන ප්‍රධානීන්ගේ හමුව අද(07දා)  පැවති අතර, එහිදී මාධ්‍ය වේදියෙකු යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+ප්‍රශ්නය - ඔබතුමා රට භාරගද්දි කිව්වා වැල් පාලමෙන් එගොඩ කරනවා කියලා. ඊට පස්සේ ඔබතුමා කිව්වා එගොඩ කරා කියලා. ඒ කාලයේ ඉදලම ඔබතුමා කිව්වා 2048 වෙනකොට රට සංවර්ධනය වූ රටක් වෙනවා කියලා. කෙනෙක්ට හිතෙන්න පුළුවන් 2048 වෙද්දි බොහෝ දෙනෙක්ට ඉන්න පුළුවන්ද කියලා. ඔබතුමාගේ තවමත් සැලැස්ම 2048 ශ්‍රී ලංකාව සංවර්ධිත දේශයක් කරා ගෙන යනවා කියන එකද?
+
+පිළිතුර - ඇයි රටේ බොහෝ දෙනෙක් නෑ කියන්නේ? අද අවුරැදු 40ක ඉන්න අය ඒ කාලයේදී 65යි. ඉතින් 40ට අඩු අයනේ බහුතරය. කොහොම හරි 50ක් වුණ අයටත් ඉන්න පුළුවන්නේ 75ක් වෙලා. ඉතින් බහුතරයක් ඉන්න යනවා. මම කියන්නේ අපි දියුණු රටකට යන්න ඕනී. ඉන්දියාව කිව්වා 2047 කියලා. අපි කිව්වා 2048. චීනය කියනවා 2049. තමන්ගේ රට දියුණු වෙන එකට කැමති නැද්ද?
+
+◼️
+
+[Data](articles/3569be62.json)
 
 ---
 
@@ -2179,61 +2229,5 @@ Two persons were injured in two different shootings reported today in Gampaha an
 [Data](articles/2371da38.json)
 
 [Extended Data](ext_articles/2371da38.ext.json)
-
----
-
-### The crisis will be again in the wrong decisions - Minister Jeevan
-
-*2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190435) · `ta`
-
-Minister Jeevan warns of future crises due to poor decisions, despite President Wickremesinghe's efforts to improve the economy. The nation remains skeptical about recovery post-pandemic, with concerns also extending to external issues like the situation in Bangladesh.
-
-🟩
-
-No one believes that the country can recover from the past two years. However, President Ranil Wickremesinghe has brought the country's economy to better. Minister Jeevan Thondaman said that everyone should understand that the wrong decisions will occur again.
-
-He said this while addressing the issue of adjournment issue on the issue of the construction of the Matara Nilwala Ganga, which was held in Parliament on Tuesday (6).
-
-No one believes that the country can recover from the past two years. However, President Ranil Wickremesinghe has brought the country's economy to better. Everyone must understand that the wrong decisions will occur again.
-
-The belief that we can get better than that before it is before it
-
-President Ranil Wickremesinghe has done the same thing to think and act without feelings of feelings.
-
-Think about the situation and think about where we are at present. It is not only a solution to the problems but the lack of stability.
-
-...
-
-[Data](articles/c44da182.json)
-
-[Extended Data](ext_articles/c44da182.ext.json)
-
----
-
-### Provincial Council Elections (Amendment) Bill for Second Reading - Wimal Weerawansa
-
-*2024-08-06 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190438) · `ta`
-
-The Tamil National Alliance MP MA Sumanthiran introduced the Provincial Council Elections (Amendment) Bill for its second reading in Parliament. Wimal Weerawansa criticized it, fearing negative impacts on the Muslim and Sinhala communities in the North. The bill is viewed as potentially destabilizing the federation's electoral system.
-
-🟩
-
-The Tamil National Alliance (TNA) MP MA Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the Second Reading.
-
-Parliamentarian Wimal Weerawansa expressed fierce opposition that the Muslim and Sinhala community in the North will be affected by the Bill.
-
-During the session in Parliament on Tuesday (06), the Member of Parliament Sumanthiran presented the Provincial Council Elections (Amendment) Bill to the House for a second reading.
-
-Speaking at the event, MP Wimal Weerawansa said that the presidential election is to be held in an urgent provincial council election amendment. What is the reality?
-
-The amendment bill is seen as a bomb of the federation's vote.
-
-Speaking at the event, Chief Minister Susil Premajayantha said that the Provincial Council Elections Amendment Bill has been submitted only for the second reading.
-
-◼️
-
-[Data](articles/d2527a49.json)
-
-[Extended Data](ext_articles/d2527a49.ext.json)
 
 ---

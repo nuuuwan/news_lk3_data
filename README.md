@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 16:36:15**
+As of **2024-08-07 16:53:00**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,471 (100.0%) of 39,474 articles have been extended.
+39,474 (100.0%) of 39,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### එංගලන්තයට යන ශ්‍රී ලංකා ටෙස්ට් සංචිතය
+### Sri Lanka Test squad for England
 
 *2024-08-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199674) · `si`
 
-එංගලන්තට එරෙහිව ආරම්භ වීමට නියමිත තරග 03කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා සංචිතය අද (07) නම්කරනු ලැබීය.
+Sri Lanka announced its Test squad for the upcoming three-match series against England, starting today.
+
+🟩
+
+Sri Lanka squad for the three-match Test series that will commence against England today (07) was named today.
 
 ◼️
 
 [Data](articles/fe9f9759.json)
+
+[Extended Data](ext_articles/fe9f9759.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ The operation had led to the recovery of the package containing 04kg and 740g of
 ...
 
 [Data](articles/8ab0cca1.json)
+
+[Extended Data](ext_articles/8ab0cca1.ext.json)
 
 ---
 
@@ -180,21 +188,27 @@ The gold consignment of the Navy and the Dingy vessel is to be handed over to th
 
 ---
 
-### வைத்தியர் அர்ச்சுனாவுக்கு பிணை
+### Bail for the doctor Archana
 
 *2024-08-07 15:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை/175-341749) · `ta`
 
-மன்னார் வைத்தியசாலைக்குள் கடந்த வெள்ளிக்கிழமை இரவு அத்துமீறி நுழைந்து கடமையில் இருந்த வைத்தியர்கள் மற்றும் வைத்தியசாலை பணியாளர்களை அச்சுறுத்தும் வகையில் நடந்து கொண்டமை உள்ளிட்ட குற்றச்சாட்டுக்களை சுமத்தி வைத்தியசாலை நிர்வாகம் அவருக்கு எதிராக முறைப்பாடு செய்திருந்தது.
+Doctor Archana, accused of threatening hospital staff, was arrested and remanded but granted bail by the Mannar Magistrate's Court.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார், கடந்த சனிக்கிழமை வைத்தியர் இராமநாதன் அர்ச்சுனாவை கைது செய்து, 07ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டார்.
+🟩
 
-இந்த நிலையில், கையில் விலங்கிடப்பட்ட நிலையில், வைத்தியர் அர்ச்சுனா இன்று நீதிமன்றம் அழைத்துவரப்பட்டிருந்தார்.
+The hospital administration had lodged a complaint against him, including allegations of threatening doctors and hospital staff on duty last Friday night at Mannar Hospital.
 
-இதனையடுத்து, வைத்தியர் அர்ச்சுனா இரண்டு சரீரப் பிணையில் செல்ல மன்னார் நீதிவான் நீதிமன்றம் உத்தரவிட்டது. R
+According to the complaint, the police, who investigated the complaint, arrested Dr. Ramanathan Archana last Saturday and placed them in remand until the 07th.
+
+In this case, the doctor Archana was brought to the court today.
+
+Subsequently, the Mannar Magistrate's Court ordered the doctor Archana to go on bail. Remble
 
 ◼️
 
 [Data](articles/c71a96c4.json)
+
+[Extended Data](ext_articles/c71a96c4.ext.json)
 
 ---
 

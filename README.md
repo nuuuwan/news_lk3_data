@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 21:36:58**
+As of **2024-08-07 21:55:50**
 
 ## Newspaper Stats
 
-*Scraped **39,502** Articles*
+*Scraped **39,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,535
 adalk | 3,634
 adaderanalk | 4,590
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,960
+tamilmirrorlk | 4,963
 virakesarilk | 6,245
 adaderanasinhalalk | 6,694
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,502 (100.0%) of 39,502 articles have been extended.
+39,502 (100.0%) of 39,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
+
+### இந்தியாவை வீழ்த்தி தொடரை கைப்பற்றியது இலங்கை
+
+*2024-08-07 21:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வீழ்த்தி-தொடரை-கைப்பற்றியது-இலங்கை/44-341768) · `ta`
+
+இந்திய அணிக்கு எதிரான மூன்று போட்டிகள் கொண்ட ஒருநாள் தொடரை இரண்டுக்கு பூஜ்ஜியம் என்ற கணக்கில் இலங்கை அணி கைப்பற்றியுள்ளது.
+
+கொழும்பு ஆர். பிரேமதாச மைதானத்தில் இன்று இடம்பெற்ற மூன்றாவதும் இறுதியுமான ஒருநாள் சர்வதேச  கிரிகெட் போட்டியை 110 ஓட்டங்களால் வெற்றிப்பெற்றதுடன் ஊடாக இலங்கை அணி இந்த தொடரை கைப்பற்றியுள்ளது.
+
+இந்த போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாடி   50 ஓவர்கள் நிறைவில் 07 விக்கெட்டுக்களை இழந்து 248 ஓட்டங்களை பெற்றது.
+
+249 ஓட்டங்கள் என்ற வெற்றி இலங்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இந்திய அணி 26.1 ஓவர்கள் நிறைவில் சகல விக்கெட்டுக்களையும் இழந்து 138 ஓட்டங்களை மாத்திரம் பெற்று தோல்வியடைந்தது.R
+
+◼️
+
+[Data](articles/63708892.json)
+
+---
+
+### கட்டுநாயக்கவில் சிக்கிய ஐஸ்
+
+*2024-08-07 21:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-சிக்கிய-ஐஸ்/175-341767) · `ta`
+
+சட்டவிரோதமாக இலங்கைக்கு கொண்டுவரப்பட்ட 5 கிலோவுக்கும் அதிகமான ஐஸ் போதைப் பொருளை பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவின் அதிகாரிகள் இணைந்து கைப்பற்றியுள்ளனர்.
+
+துபாய் நிபுன என்ற கடத்தல்காரரே இந்த போதைப்பொருளை இலங்கைக்கு அனுப்பியிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர். R
+
+◼️
+
+[Data](articles/e73c8078.json)
+
+---
 
 ### United People's Alliance Agreement will be signed tomorrow
 
@@ -53,6 +85,24 @@ Meanwhile, many more civil organizations are expected to join hands with the Uni
 [Data](articles/fcbf05d8.json)
 
 [Extended Data](ext_articles/fcbf05d8.ext.json)
+
+---
+
+### இந்தியாவுக்கெதிரான தொடரைக் கைப்பற்றிய இலங்கை
+
+*2024-08-07 20:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவுக்கெதிரான-தொடரைக்-கைப்பற்றிய-இலங்கை/44-341754) · `ta`
+
+மூன்று போட்டிகள் கொண்ட இத்தொடரின் முதலாவது போட்டி சமநிலையில் முடிவடைந்ததுடன், இரண்டாவது போட்டியில் இலங்கை வென்ற நிலையில் கொழும்பு ஆர். பிரேமதாஸ மைதானத்தில் இன்று நடைபெற்ற மூன்றாவது போட்டியையும் வென்றமையைத் தொடர்ந்தே தொடரை 2-0 எனக் கைப்பற்றியது.
+
+இப்போட்டியின் நாணயச் சுழற்சியில் வென்ற இலங்கையணியின் தலைவர் சரித் அசலங்க, தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார். இந்தியா சார்பாக ரியான் பராக் ஒருநாள் சர்வதேசப் போட்டிகளில் அறிமுகத்தை மேற்கொண்டார்.
+
+இப்போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை அவிஷ்க பெர்ணாண்டோவின் 96 (102), பதும் நிஸங்கவின் 45 (65), குசல் மென்டிஸின் 59 (82) ஓட்டங்கள் மூலம் சிறந்த அடித்தளத்தைப் பெற்று 35.2 ஓவரில் ஒரு விக்கெட் இழப்புக்கு 171 ஓட்டங்களைப் பெற்று பலமாக இருந்தது.
+
+எனினும் அடுத்த 6 விக்கெட்டுகளையும் 64 ஓட்டங்களுக்கு இழந்து, கமிந்து மென்டிஸின் ஆட்டமிழக்காத 23 (19) ஓட்டங்களோடு 50 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 248 ஓட்டங்களைப் பெற்றது. பந்துவீச்சில், பராக் 3 மற்றும் குல்தீப் யாதவ், வொஷிங்டன் சுந்தர், அக்ஸர் பட்டேல் ஆகியோர் தலா ஒவ்வொரு விக்கெட்டை வீழ்த்தினர்.
+
+...
+
+[Data](articles/983323e9.json)
 
 ---
 
@@ -2295,71 +2345,5 @@ Commerce. This significant event marked a decade of dedication to promoting exce
 [Data](articles/8adbcc49.json)
 
 [Extended Data](ext_articles/8adbcc49.ext.json)
-
----
-
-### AKD places deposit to contest Presidential Election
-
-*2024-08-07 03:27:53* · [`dailyftlk`](https://www.ft.lk/news/AKD-places-deposit-to-contest-Presidential-Election/56-765243) · `en`
-
-NPP MP Vijitha Herath says party’s goal is to secure victory of political agenda focused on rebuilding SL with commitment to policies and clean governance
-
-Emphasises need to defeat corrupt and detrimental politics that have economically devastated SL
-
-Claims citizens are now ready to entrust SL to Anura, who has clear vision and capability to uplift SL
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake officially entered the Presidential Election fray after cash deposits on his behalf were placed at the Election Commission of Sri Lanka (ECSL) yesterday.
-
-The deposit was placed by NPP MP Harini Amarasuriya, MP Vijitha Herath, Eranga Gunasekara, Attorney at Law Sunil Watagala and several others.
-
-...
-
-[Data](articles/66bfacf5.json)
-
-[Extended Data](ext_articles/66bfacf5.ext.json)
-
----
-
-### Charitha Herath accuses President of contributing to SL’s economic crisis
-
-*2024-08-07 03:25:49* · [`dailyftlk`](https://www.ft.lk/news/Charitha-Herath-accuses-President-of-contributing-to-SL-s-economic-crisis/56-765242) · `en`
-
-MP Prof. Charitha Herath says economic and political reforms cannot be brought about through rhetoric alone
-
-Stresses SL’s Presidential Election discourse must be rescued from myth-making and boastful politics of Ranil Wickremesinghe
-
-Accuses Wickremesinghe of contributing to disseminating misinformation on upcoming polls
-
-Expresses belief that Sajith Premadasa is key figure able to rebuild and unify SL
-
-Parliamentarian Prof. Charitha Herath has said President Ranil Wickrmeesinghe is part of the crisis and not part of the solution.
-
-Addressing a press conference yesterday at the Samagi Jana Balawegaya (SJB) head office Herath said economic and political reforms cannot be brought about through rhetoric alone.
-
-...
-
-[Data](articles/32dc6da6.json)
-
-[Extended Data](ext_articles/32dc6da6.ext.json)
-
----
-
-### TPA led by Mano Ganesan to support Sajith
-
-*2024-08-07 03:23:27* · [`dailyftlk`](https://www.ft.lk/news/TPA-led-by-Mano-Ganesan-to-support-Sajith/56-765241) · `en`
-
-Tamil Progressive Alliance (TPA) led by MP Mano Ganesan has extended their support to Opposition Leader Sajith Premadasa’s candidacy at the upcoming Presidential Election.
-
-Adressing a press conference yesterday, Ganesan announced that all parties to the alliance, including the Democratic People’s Front (DPF), National Union of Workers (NUW) and the Up-Country People’s Front (UCPF) representing Sri Lanka’s Malaiyaha Tamil community have agreed to support Premadasa.
-
-“The politburo of the TPA have decided to extend our fullest support to the Samagi Jana Sandhanaya leader Sajith Premadasa. We have come to an agreement with the Samagi Jana Sandhanaya. We are not asking for the moon nor stars. We are only asking for better lives as Sri Lankan citizens for the 800,000 people living in the estates,” he said.
-
-Also addressing the press conference, TPA Deputy Leader Palani Digambaram said Premadasa is the only honest leader in the country.
-
-...
-
-[Data](articles/44696391.json)
-
-[Extended Data](ext_articles/44696391.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 16:08:16**
+As of **2024-08-07 16:20:44**
 
 ## Newspaper Stats
 
-*Scraped **39,468** Articles*
+*Scraped **39,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,119 @@ islandlk | 2,274
 economynextcom | 2,386
 dailyftlk | 2,535
 adalk | 3,629
-adaderanalk | 4,586
+adaderanalk | 4,587
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,955
 virakesarilk | 6,233
-adaderanasinhalalk | 6,686
+adaderanasinhalalk | 6,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,466 (100.0%) of 39,468 articles have been extended.
+39,468 (100.0%) of 39,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### ඉතිහාසගත වූ 11 හැවිරිදි ඔලිම්පික් ක්‍රීඩිකාව
+### රංජන් මඩුගල්ලේ පසුකළ ඓතිහාසික කඩයිම
+
+*2024-08-07 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199673) · `si`
+
+එක්දින ජාත්‍යන්තර ක්‍රිකට් තරග 400ක තරග තීරකවරයා ලෙස කටයුතු කළ ලොව පළමු තරග තීරකවරයා ලෙසින් ජාත්‍යන්තර ක්‍රිකට් පිටියේ සුවිශේෂී කඩයිමක් සම්පූර්ණ කිරීමට ශ්‍රී ලංකාවෙන් බිහිවූ විශිෂ්ටතම තරග තීරකවරයා ලෙසින් සැලකෙන රන්ජන් මඩුගල්ලේ මහතා සමත් විය.
+
+ශ්‍රී ලංකාව හා සංචාරක ඉන්දීය කණ්ඩායම අතර කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේදී අද (07) පැවැත්වෙන තෙවැනි හා අවසන් එක්දින තරගයේ තරග තීරකවරයා ලෙසින් එක්වෙමින් ඔහු මෙම ඓතිහාසික කඩයිම පසුකර යෑමට සමත් විය.
+
+වසර 10කට (1979 - 1988) ආසන්න කාලයක් ශ්‍රී ලංකාව නියෝජනය කරමින් ටෙස්ට් හා එක්දින ක්‍රිකට් තරග ක්‍රීඩා කර ඇති මඩුගල්ලේ මහතා, 1988 වසරේදී ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගැනීමෙන් පසු 1993 වසරේදී ක්‍රිකට් තරග තීරකවරයෙකු ලෙසින් සිය වෘත්තීය ගමන්මග ආරම්භ කළේය.
+
+ටෙස්ට් තරග 200ක් විනිශ්චය කළ පළමු හා එකම තරග තීරකවරයා වන්නේද රංජන් මඩුගල්ලේ මහතා වන අතර, ඔහු මේ වනවිට  ටෙස්ට් තරග 216කට සිය දායකත්වය ලබා දී ඇත.
+
+...
+
+[Data](articles/629a0265.json)
+
+---
+
+### 24 including foreigner killed as mob torches hotel in Bangladesh
+
+*2024-08-07 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101063/24-including-foreigner-killed-as-mob-torches-hotel-in-bangladesh) · `en`
+
+At least 24 people, including an Indonesian national, were burnt alive by a mob in Bangladesh at a starred hotel owned by a leader of Awami League party after its leader Sheikh Hasina resigned as prime minister and fled the country, local journalists and hospital sources said on Tuesday.
+
+The victims, mostly boarders, were burnt alive late on Monday night as the mob set afire Zabir International Hotel owned by district Awami League general secretary Shahin Chakkladar in Joshor district.
+
+“The dead included an Indonesian national,” a local journalist told PTI in Dhaka over phone.
+
+He added the doctors at Joshor General Hospital confirmed they counted 24 bodies while surviving hotel staff feared more bodies could be found inside the debris.
+
+Media reports suggested unidentified mob, opposed to the Awami League (AL) regime, set the ground floor of the hotel on fire which quickly spread to the upper floors.
+
+...
+
+[Data](articles/fb6aac62.json)
+
+---
+
+### ත්‍රිරෝද රථ රියදුරු අතුරුදන් වීමට මොහොතකට පෙර -CCTV
+
+*2024-08-07 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199672) · `si`
+
+රියදුරා අතුරුදන්ව ඇති බවට ඔහුගේ බිරිඳ විසින් හිරණ පොලීසියට පැමිණිල්ලක් කර ඇත.
+
+අවසන්වරට ඔහු නාඳුනන කාන්තාවක් සමග කුලී ගමනක් සඳහා රථ ගාලෙන් පිටත්ව යන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
+
+◼️
+
+[Data](articles/03179f6b.json)
+
+---
+
+### An 11-year-old Olympics
 
 *2024-08-07 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199671) · `si`
 
-මෙවර ඔලිම්පික් උලෙළ සඳහා සහභාගී වන ළාබාලතම පුද්ගලයා ලෙස චීනයේ 11 හැවිරිදි ස්කේට්බෝඩින් ක්‍රීඩිකාවක් ඉතිහාස ගත විය.
+Zheng Haohao, an 11-year-old Chinese skateboarder, made history at the Olympics. Born just before the 2012 London Olympics ended, she won the 18th event with a score of 63.19, marking her as a remarkable young talent in skateboarding.
 
-ඇය 11 හැවිරිදි වියේ පසුවන අතර ඇය උපත ලබා ඇත්තේ 2012 ලන්ඩන් ඔලිම්පික් උලෙළ නිම වීමට පෙර දිනයේදී ය.
+🟩
 
-Zheng Haohao සිය ස්කේට්බෝඩින් ඉසව්ව සඳහා ලකුණු 63.19 ලබාගනිමින් 18 වැනි ස්ථානය හිමිකර ගත්තාය.
+The 11-year-old Skatbounding athlete in China took the history of the Olympics.
+
+She was 11 years old and she was born on the day before the end of the 2012 London Olympics.
+
+Zheng Haohao won the 18th and scored 63.19 runs for his Skatboading event.
 
 ◼️
 
 [Data](articles/695aa093.json)
 
+[Extended Data](ext_articles/695aa093.ext.json)
+
 ---
 
-### ජාවාරම්කරුවන් විසින් සඟවා තිබූ රත්‍රන් තොගය
+### Golden stock of gold hidden by the racketeers
 
 *2024-08-07 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199670) · `si`
 
-කල්පිටිය තොරයඩි කලපුවේ ගිල්වා තිබූ රත්‍රන් කිලෝ 04 ග්‍රෑම් 740ක තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+Sri Lanka Navy intercepted a vessel carrying 4kg of gold, suspecting it was part of a smuggling operation. The gold, found in the Kalpitiya lagoon, will be turned over to the Katunayake Customs Prevention Office for legal action.
 
-ශ්‍රී ලංකා නාවික හමුදාව ඊයේ (06) දින කල්පිටිය තොරයඩි කලපුවේ සිදු කල විශේෂ සෝදිසි මෙහෙයුමකදී එම කලපුවේ ගිල්වා තිබූ බවට සැකකෙරෙන රත්‍රන් කිලෝ 04 ග්‍රෑම් 740 ක් අඩංගු ඇසුරුමක් නාවික හමුදා භාරයට ගත් බව නාවික හමුදාව පවසයි.
+🟩
 
-එම රත්‍රන් අඩංගු ඇසුරුම ප්‍රවාහනය කල බවට සැකකෙරෙන ඩිංගි යාත්‍රාවක්ද තොරයඩි වෙරළ ප්‍රදේශයේ තිබියදී නාවික හමුදා භාරයට ගෙන තිබුණි.
+Navy seized 4 kilos of gold, 40 g
 
-නාවික හමුදා මෙහෙයුම් හේතුවෙන් රැගෙන යාමට නොහැකිව, ජාවාරම්කරුවන් විසින් මෙම රත්‍රන් අඩංගු ඇසුරුම පසුව රැගෙන යාමේ අපේක්‍ෂාවෙන් මෙලෙස තොරයඩි කලපුවේ ගිල්වා තබන්නට ඇතැයි නාවික හමුදාව විශ්වාස කරයි.
+The Sri Lanka Navy said that the Navy was taken into custody with four kilometers that have been dumped into the lagoon in Kalpitiya, Kalpitiya.
 
-නාවික හමුදා භාරයට ගත් රත්‍රන් තොගය සහ ඩිංගි යාත්‍රාව ඉදිරි නීතිමය කටයුතු සඳහා කටුනායක රේගු නිවාරණ කාර්යාලය වෙත භාරදීමට නියමිතය.
+The Navy was also taken into custody by the Ningi vessel suspicious that the package was transported.
+
+The Navy believes that the racketeers cannot be dipped in the lagoon of the racketeers, can't carry the packages of the navy operations.
+
+The gold consignment of the Navy and the Dingy vessel is to be handed over to the Katunayake Customs Prevention Office for further legal proceedings.
 
 ◼️
 
 [Data](articles/87ce9919.json)
+
+[Extended Data](ext_articles/87ce9919.ext.json)
 
 ---
 
@@ -2179,61 +2243,5 @@ Most ethnic minority parties in Sri Lanka usually demand cabinet portfolio to pl
 [Data](articles/9227752f.json)
 
 [Extended Data](ext_articles/9227752f.ext.json)
-
----
-
-### Another firing in Gampaha!
-
-*2024-08-06 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190454) · `ta`
-
-In Gampaha, a shooting occurred on the night of the 6th, targeting a 29-year-old man. Two suspects on a motorbike fled the scene. The victim is now hospitalized.
-
-🟩
-
-The police media unit said that the shooting incident took place on the night of the 6th.
-
-Two people on a motorbike fled after they were traveling on a motorbike.
-
-A 29 -year -old man who was targeted for the shooting has been admitted to the Gampaha Hospital for treatment, police said.
-
-◼️
-
-[Data](articles/7c061c22.json)
-
-[Extended Data](ext_articles/7c061c22.ext.json)
-
----
-
-### Two injured in separate shootings in Ja-ela and Gampaha
-
-*2024-08-06 22:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101051/two-injured-in-separate-shootings-in-ja-ela-and-gampaha) · `en`
-
-A 43-year-old person has been injured in a shooting incident in the Makewita area of Ja-ela, a short while ago.
-
-Meanwhile, in a separate incident, a 29-year-old person was injured in a shooting at Thammita, Gampaha this evening, the police said.
-
-◼️
-
-[Data](articles/aeac9879.json)
-
-[Extended Data](ext_articles/aeac9879.ext.json)
-
----
-
-### Ayurveda & Buildings departments are lowest performing, revealed before COPA
-
-*2024-08-06 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101050/-ayurveda-buildings-departments-are-lowest-performing-revealed-before-copa) · `en`
-
-The Committee on Public Accounts (COPA) has expressed its displeasure over the performance of the Buildings Department and Ayurveda Department, when the committee met in Parliament recently under the Chairmanship of the State Minister Lasantha Alagiyawanna.
-
-The Committee Chair has pointed out during the meeting that COPA maintains a data system regarding the performance of government institutions under its purview and according to that data, the Building Department and the Ayurveda Department have been identified as the two institutions with the lowest performance.
-
-As a result, it was decided to summon both these institutions before the Committee on one day, the Committee Chair further mentioned, the Parliamentary Communications Department said.
-
-...
-
-[Data](articles/e1f92404.json)
-
-[Extended Data](ext_articles/e1f92404.ext.json)
 
 ---

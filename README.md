@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-07 17:59:02**
+As of **2024-08-07 18:16:33**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,689
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,480 (100.0%) of 39,484 articles have been extended.
+39,484 (100.0%) of 39,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-07 (Wednesday)
 
-### කුඩය ලකුණින් එන අපේක්ෂකයා මෙන්න
+### Here is the candidate that comes from the umbrella
 
 *2024-08-07 17:08:26* · [`adalk`](https://www.ada.lk/breaking_news/කුඩය-ලකුණින්-එන-අපේක්ෂකයා-මෙන්න/11-411252) · `si`
 
-ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂක නීතීඥ නුවන් බෝපගේ මහතා ඉදිරි ජනාධිපතිවරණයට ‘කුඩය’ ලකුණින් ඉදිරිපත් වන බව අද(07දා) පැවසීය.
+Mahinda Rajapaksa and Nuwan Bopage, under the Janatha Vimukthi Peramuna (JVP) banner, will run in the upcoming presidential election.
+
+🟩
+
+President Mahinda Rajapen, Nuwan Bopage, will contest the next presidential election in the Janama Struggle TNA.
 
 ◼️
 
 [Data](articles/42ac63c3.json)
+
+[Extended Data](ext_articles/42ac63c3.ext.json)
 
 ---
 
@@ -86,15 +92,21 @@ Two years later, his fans are celebrating this as the new information of the fil
 
 ---
 
-### நேபாள ஹெலி விபத்தில் 4 பேர் பலி
+### 4 killed in Nepal Heli accident
 
 *2024-08-07 16:35:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-ஹெலி-விபத்தில்-4-பேர்-பலி/50-341750) · `ta`
 
-தலைநகர் காத்மண்டுவில் இருந்து சீன பயணிகளுடன் சென்ற போது, நுவாகோட் மாவட்டத்தில் அது விபத்திற்குள்ளானது. இந்த விபத்தில் 4 பேர் உயிரிழந்துள்ளனர்.S
+A helicopter carrying Chinese passengers from Kathmandu crashed in Nepal's Nuagot district, resulting in four fatalities.
+
+🟩
+
+It crashed in Nuagot district when it went with Chinese passengers from the capital, Kathmandu. 4 people were killed in the crash. S
 
 ◼️
 
 [Data](articles/6c0c5e5b.json)
+
+[Extended Data](ext_articles/6c0c5e5b.ext.json)
 
 ---
 
@@ -582,17 +594,23 @@ Jaffna joins Chennai with direct flights from Chennai as the 34th International 
 
 ---
 
-### யாழ்-சென்னை இடையே விமான சேவை
+### Airline between Jaffna-Chennai
 
 *2024-08-07 13:05:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-சென்னை-இடையே-விமான-சேவை/175-341745) · `ta`
 
-யாழ்பாணத்திற்கும் சென்னைக்கும் இடையிலான விமான சேவை எதிர்வரும் செப்ரெம்பர் 1 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+Starting September 1st, Jaffna introduces direct flights to Chennai, marking it as its 34th international destination.
 
-யாழ்ப்பாணம் இண்டிகோவின் 34 வது சர்வதேச இலக்காக சென்னையில் இருந்து நேரடி விமானங்களுடன் இணைகிறது. R
+🟩
+
+The airline between Jaffna and Chennai will commence on 1st September.
+
+Jaffna joins Chennai with direct flights from Chennai as the 34th International target of Jaffna. Remble
 
 ◼️
 
 [Data](articles/c9df103c.json)
+
+[Extended Data](ext_articles/c9df103c.ext.json)
 
 ---
 
@@ -728,19 +746,25 @@ It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorr
 
 ---
 
-### கப்பல் சேவை மீண்டும் ஆரம்பம்
+### The shipping service is restarted
 
 *2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-341742) · `ta`
 
-தமிழகத்தின் நாகபட்டினத்திலிருந்து யாழ். காங்கேசன்துறை வரையான கப்பல் சேவை அடுத்த வாரம் முதல் மீண்டும் ஆரம்பிக்கவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+The shipping service between Jaffna (Nagapattinam, Tamil Nadu) and Kankesanthurai is set to resume next week after several suspensions since its start last year. Additionally, the Sivaganga ship from Andaman is scheduled to arrive in Sri Lanka tomorrow.
 
-கடந்த வருடம் ஆரம்பிக்கப்பட்ட பயணிகள் கப்பல் போக்குவரத்து சேவை பல முறை இடைநிறுத்தப்பட்ட நிலையில், அடுத்த வாரம் முதல் மீண்டும் கப்பல் சேவை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும் அந்தமானில் இருந்து நாகை வந்த ‘சிவகங்கை கப்பல்’ நாளை இலங்கைக்கு சோதனை பயணமாக வருகை தரவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+Jaffna from Nagapattinam of Tamil Nadu. It has been announced that the shipping service up to Kankesanthurai will be resumed from next week.
+
+The passenger shipping service, which started last year, has been suspended several times, and the shipping service is expected to be launched from next week.
+
+It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorrow. Remble
 
 ◼️
 
 [Data](articles/f8cda027.json)
+
+[Extended Data](ext_articles/f8cda027.ext.json)
 
 ---
 

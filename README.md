@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 12:10:18**
+As of **2024-08-08 12:21:05**
 
 ## Newspaper Stats
 
-*Scraped **39,618** Articles*
+*Scraped **39,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,285
-economynextcom | 2,397
+economynextcom | 2,399
 dailyftlk | 2,551
 adalk | 3,639
-adaderanalk | 4,601
+adaderanalk | 4,602
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,986
 virakesarilk | 6,259
@@ -26,25 +26,47 @@ adaderanasinhalalk | 6,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,616 (100.0%) of 39,618 articles have been extended.
+39,618 (100.0%) of 39,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### පවිත්‍රාත් රනිල්ට
+### Pavithra Wanniarachchi decides to support Ranil at prez poll
+
+*2024-08-08 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101079/pavithra-wanniarachchi-decides-to-support-ranil-at-prez-poll) · `en`
+
+Minister Pavithra Wanniarachchi has decided to support President Ranil Wickremesinghe, who is contesting the upcoming Presidential Election as an independent candidate.
+
+She stated that she reached this decision based on the requests of the majority of Sri Lanka Podujana Peramuna (SLPP) members and supporters in the Ratnapura District.
+
+Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/3846b14b.json)
+
+---
+
+### Pavithra Ranil
 
 *2024-08-08 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199703) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්ව සිටින රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදීමට අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය තීරණය කර තිබේ.
+Minister Pavithra Wanniarachchi supports Ranil Wickremesinghe as an independent presidential candidate, acting on the Sri Lanka General Assembly's request while in hospital.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ රත්නපුර දිස්ත්‍රික්කයේ බහුතර පාක්ෂිකයින්ගේ ඉල්ලීම මත තමන් මෙම තීරණයට එළඹී බව පවිත්‍රා වන්නිආරච්චි මහත්මිය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+🟩
 
-පවිත්‍රා වන්නිආරච්චි මහත්මිය විසින් නිකුත් කළ සම්පුර්ණ නිවේදනය පහතින් දැක්වේ.
+Minister Pavithra Wanniarachchi has decided to support Ranil Wickremesinghe as an independent candidate for the next presidential election.
+
+Pavithra Wanniarachchi has issued a statement that he has made this decision on the request of the Sri Lanka General Assembly in the Sri Lanka General Hospital.
+
+Below is the full announcement issued by Pavithra Wanniarachchi.
 
 ◼️
 
 [Data](articles/edf51207.json)
+
+[Extended Data](ext_articles/edf51207.ext.json)
 
 ---
 
@@ -96,15 +118,21 @@ Australia has passed the third and has won 18 gold medals from the matches so fa
 
 ---
 
-### சஜித்துடன் இணைந்தார் அர்ஜுன ரணதுங்க
+### Arjuna Ranatunga joined Sajith
 
 *2024-08-08 11:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-அர்ஜுன-ரணதுங்க/175-341800) · `ta`
 
-ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை ஆதரிக்கும் தீர்மானத்தை எடுத்துள்ள  முன்னாள் அமைச்சர் அர்ஜுன ரணதுங்க,   சஜித் தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் இணைந்தார்.
+Arjuna Ranatunga, a former minister, has decided to back opposition leader Sajith Premadasa in the upcoming presidential election, joining Sajith's United People's Alliance.
+
+🟩
+
+Former minister Arjuna Ranatunga, who has taken a decision to support opposition leader Sajith Premadasa in the presidential election, has joined the United People's Alliance led by Sajith.
 
 ◼️
 
 [Data](articles/bee1f6f1.json)
+
+[Extended Data](ext_articles/bee1f6f1.ext.json)
 
 ---
 
@@ -441,6 +469,30 @@ However, the Election Commission says that issuing a circular to provide the rel
 [Data](articles/3dbf4faa.json)
 
 [Extended Data](ext_articles/3dbf4faa.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 301.45/60 to US dollar
+
+*2024-08-08 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-301-45-60-to-us-dollar-175946/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 301.45/60 to the US dollar on Thursday, dealers said. Bond yields were up, they said, and stocks opened up 0.12 percent.
+
+The rupee closed at 301.55/65 to the greenback on Wednesday.
+
+In the secondary market, treasury bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.90/11.00 percent, from 10.80/11.05 percent.
+
+A bond maturing on 15.12.2027 was quoted at 12.15/25 percent, up from 11.95/12.10 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.45/49 percent.
+
+In equities, Colombo’s All Share Price Index opened 11.56 points higher at 11,308, while the S&P SL20 of more liquid stocks opened up at 0.13 percent or 4.25 points to 3,228.
+
+◼️
+
+[Data](articles/d8da11ff.json)
 
 ---
 
@@ -963,6 +1015,26 @@ Meanwhile, the World Health Organization has recommended the recommendations of 
 [Data](articles/e40d9e5c.json)
 
 [Extended Data](ext_articles/e40d9e5c.ext.json)
+
+---
+
+### Sri Lanka forex reserves slightly down in July to $5,649mn
+
+*2024-08-08 08:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-slightly-down-in-july-to-5649mn-175933/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s forex reserves fell marginally to 5,649 million dollars in July 2024 from 5,654 million US dollars in June, official data show.
+
+In June the central bank sold about 57 million US dollar in the interbank market in June after a spike in liquidity from earlier strong dollar purchases and a rise in private credit. July data is not available.
+
+In August there has been dollar purchases on some days, market participants said, with the excess liquidity mostly extinguished.
+
+Similar trends were seen in June and July in 2023 after steep collections in earlier months. A reluctance to maintain the exchange rate when pressure comes from excess liquidity driven credit, leads to a confidence shock to market participants, analysts had pointed out.
+
+At the current interest rate structure, the central bank has collected foreign reserves and also paid down its own borrowings leading to a steady improvement of its net reserve position.
+
+...
+
+[Data](articles/4122c366.json)
 
 ---
 
@@ -2173,75 +2245,5 @@ In reply, India Azitha Fernando, Tunit Wellalake (5), Mahesh Dixhana (2) and Jef
 [Data](articles/983323e9.json)
 
 [Extended Data](ext_articles/983323e9.ext.json)
-
----
-
-### Sri Lanka record first ODI series win against India in 27 years
-
-*2024-08-07 20:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101067/sri-lanka-record-first-odi-series-win-against-india-in-27-years) · `en`
-
-Sri Lanka recorded a 110-run win in the final ODI of the three-match series against India on Wednesday (Aug 7) and won the series 2-0.
-
-This is Sri Lanka’s first ODI series win against India in over two decades. They had last won an ODI series against India in back in 1997 - an year after winning their maiden ODI World Cup.
-
-Chasing an above par 249, India were bowled out for 138 in 26.1 overs - in what was another poor batting display by the Rohit Sharma-led team. Dunith Wellalage lead the bowling charge with 5/27.
-
-The visitors had started well in the chase, adding 37 runs in 4.2 overs before Shubman Gill was sent back by Asitha Fernando. skipper Rohit Sharma departed next in the eight over with India at 53.
-
-Rishabh Pant, playing his first match of the series, attempted a shot from outside the crease to Maheesh Theekshana and was stumped out.
-
-...
-
-[Data](articles/b71b8282.json)
-
-[Extended Data](ext_articles/b71b8282.ext.json)
-
----
-
-### Does the government allow the Chinese military entry into the North and East?-The question of wealth
-
-*2024-08-07 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190509) · `ta`
-
-Reports suggest concerns about Chinese military presence in the North and East, with questions raised in Parliament about government approval. Issues also include doctor safety, unfair treatment of local fishermen by Indian toller boats, and the impact on their livelihoods. There's a call for better protection and support for fishermen, opposition to any Chinese military involvement, and demands for land distribution and improved law enforcement in the Vanni district.
-
-🟩
-
-There have been reports that efforts are being made to uphold the Chinese army in the North and East. Can never accommodate such activities. The Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan questioned whether the government allowed the Chinese military's entry.
-
-He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (7).
-
-Mathirajan at the Mannar Hospital and told the doctors to go to the hospital regarding the death of Sindhuja.
-
-But this investigation should not be an inquiry into the replacement of men. Our demand is that those involved should be sacked through a fair investigation and punished by those involved. Meanwhile, 9 doctors are coming to our hospital.
-
-To ensure their safety. Otherwise, it would be difficult to come to the hospital. At the same time, our fishermen have been facing suffering over the past decades by the arrival of Indian Toller boats.
-
-...
-
-[Data](articles/e31614f8.json)
-
-[Extended Data](ext_articles/e31614f8.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka against India after 27 years
-
-*2024-08-07 20:27:56* · [`adalk`](https://www.ada.lk/breaking_news/වසර-27කට-පසු-ඉන්දියාවට-එරෙහිව-ශ්‍රී-ලංකාවට-තරගාවලි-ජයක්/11-411256) · `si`
-
-After 27 years, Sri Lanka clinched the three-match one-day cricket series against India, winning the final match by a significant margin. This victory marks a historic moment for Sri Lanka, securing the series with a game to spare.
-
-🟩
-
-Sri Lanka won the third and last one day match against the tourist Indian team by 110 days ago.
-
-Accordingly, Sri Lanka was able to win the three-match-one-day cricket tournament as a drop of 2 matches.
-
-The Sri Lankan team records a tournament against India after 27 years.
-
-◼️
-
-[Data](articles/0fa243d0.json)
-
-[Extended Data](ext_articles/0fa243d0.ext.json)
 
 ---

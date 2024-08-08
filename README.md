@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 02:36:22**
+As of **2024-08-09 02:54:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,721 (100.0%) of 39,722 articles have been extended.
+39,722 (100.0%) of 39,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -744,19 +744,31 @@ Seven players in the Sri Lanka Test squad have gone to England.
 
 ---
 
-### ’இறுதிப்படுத்தப்படும் திகதியை குறிப்பிடவில்லை’
+### The date is not specified
 
 *2024-08-08 18:29:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிப்படுத்தப்படும்-திகதியை-குறிப்பிடவில்லை/175-341824) · `ta`
 
-வெளிநாட்டு கடன் மறுசீரமைப்பு இறுதிப்படுத்தப்படும் திகதியை மத்திய வங்கியோ அல்லது அரசாங்கமோ உறுதியாக குறிப்பிடவில்லை என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்
+Finance Minister Sehan Semasinghe stated in Parliament that no specific date has been set for foreign debt restructuring by either the central bank or the government. He noted the complexity of debt restructuring amidst economic impacts and mentioned past instances of international debts. Minister Ranil Wickremesinghe will present agreements to Parliament post-debt renovation completion. Additionally, a bilateral agreement with Glipte Sans for justice-related advice has been signed, also to be submitted after debt restructuring.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (08) இடம்பெற்ற வாய்மூல விடைக்கான வினா நேரத்தில் ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  நிரோஷன் பெரேரா முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த  அவர் மேலும்  கூறுகையில்,
+🟩
 
-பொருளாதார பாதிப்புக்கு மத்தியில் கடன் மறுசீரமைப்பு என்பது இலகுவான விடயமல்ல  இலங்கை பல்வேறு சந்தர்ப்பங்களில் பல வழிமுறைகளில் சர்வதேச மட்டத்தில் கடன்களை பெற்றுக்கொண்டுள்ளது.தேசிய கடன்கள் சிறந்த முறையில் மறுசீரமைக்கப்பட்டுள்ளன.வெளிநாட்டு கடன்களை மறுசீரமைக்கும் போது நிதி தொடர்பான ஆலோசனைகள் பிரான்ஸ் நாட்டின் லஸாட் நிறுவனத்திடமிருந்து பெற்றுக்கொள்வதற்கு இருதரப்பு ஒப்பந்தம்  செய்யப்பட்டுள்ளது
+Finance Minister Sehan Semasinghe said that neither the central bank nor the government had firmly mentioned the date of foreign debt restructuring.
 
-...
+In response to questions posed by United People's Power MP Niroshan Perera during the query in Parliament on Thursday (08), he said,
+
+Debt restructuring is not easy among economic impacts, Sri Lanka has received debts on various occasions internationally. National loans have been better reset.
+
+Finance Minister Ranil Wickremesinghe will submit the agreements to Parliament after the debt renovation work has been completed.
+
+Bilateral Agreement has been signed with Glipte Sans to seek justice -related advice. The agreement will be submitted to Parliament after the debt restructuring.
+
+Neither the Central Bank nor the government has firmly mentioned the date of the Foreign Debt Relief Reconstruction.
+
+◼️
 
 [Data](articles/601e7d20.json)
+
+[Extended Data](ext_articles/601e7d20.ext.json)
 
 ---
 

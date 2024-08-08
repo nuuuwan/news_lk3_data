@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 21:06:21**
+As of **2024-08-08 21:21:47**
 
 ## Newspaper Stats
 
-*Scraped **39,696** Articles*
+*Scraped **39,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,41 @@ adaderanalk | 4,611
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,283
-adaderanasinhalalk | 6,732
+adaderanasinhalalk | 6,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,695 (100.0%) of 39,696 articles have been extended.
+39,695 (100.0%) of 39,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
+### IMF ගිවිසුම ගැන ජනපතිගෙන් යළිත් පැහැදිලි කිරීමක්
+
+*2024-08-08 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199724) · `si`
+
+සටන් පාඨ කියමින් මහමග ගොස් ජනතාවගේ දුප්පත්කම තුරන් කළ නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මෙම අදහස් පළ කළේ සමූපකාර ව්‍යාපාරය සම්බන්ධයෙන් ඊයේ (07) කොළඹ පැවති සාකච්ඡාවකට එක්වෙමිනි.
+
+ඊට දිවයින පුරා සමූපකාර සමිති ජාලයේ සභාපතිවරු, අධ්‍යක්ෂ මණ්ඩල නිලධාරීන් ඇතුළු නියෝජිතයින් විශාල පිරිසක් එක්විය.
+
+"අපි දැන් ගොඩ එන්නේ IMF එකත් ආණ්ඩුවත් අතර තිබෙන ගිවිසුම නිසා. ඒ ගිවිසුම වැටෙන්න දුන්නොත් ආයෙත් පෝලිම් යුගයකට යයි. අපි 17 වතාවක් IMF ගිවිසුම් කැඩුවා. මට කිව්වා 18 වන වතාවට කැඩුවොත් ආපහු මේක ක්‍රියාත්මක කරන්නේ නැහැ කියලා."
+
+◼️
+
+[Data](articles/00d8a48e.json)
+
+---
+
 ### Sri Lanka raises safety concerns ahead of England Tests due to anti-immigrant riots in UK: Report
 
 *2024-08-08 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101090/sri-lanka-raises-safety-concerns-ahead-of-england-tests-due-to-anti-immigrant-riots-in-uk-report) · `en`
 
-Cricket Sri Lanka has raised concerns over the safety of its Test team ahead of the three-match series against England, starting on August 21 in Manchester, due to anti-immigrant riots that have erupted in various cities of the United Kingdom.
+Sri Lanka Cricket (SLC) has raised concerns over the safety of its Test team ahead of the three-match series against England, starting on August 21 in Manchester, due to anti-immigrant riots that have erupted in various cities of the United Kingdom.
 
 According to a report in ESPNCricinfo, the Sri Lankan players already in England - seven players and two support staff - have asked the country’s cricket board to arrange for better security over the next few days, as they travel to and from a ground near London, due to the widespread riots targeting immigrants in the UK.
 
@@ -2301,31 +2319,5 @@ Children under 5 need more than 50% of sleep. It affects mental and physical hea
 [Data](articles/ff4c46f7.json)
 
 [Extended Data](ext_articles/ff4c46f7.ext.json)
-
----
-
-### Bangladesh's interim government sworn in today
-
-*2024-08-08 09:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷின்-இடைக்கால-அரசு-இன்று-பதவியேற்பு/50-341788) · `ta`
-
-Mohammed Yunus took office as Bangladesh's interim PM after protests over a 30% reservation for war veterans' families turned violent, killing over 100. This led to the resignation of PM Sheikh Hasina and the dissolution of parliament by President Mohammed Shahabuddin. Yunus, a Nobel laureate, was chosen to lead the interim government amidst ongoing discussions with military and student leaders.
-
-🟩
-
-It is reported that Mohammed Yunus is set to take office today as the head of the interim government in Bangladesh.
-
-The struggle erupted against the provision of 30 per cent reservation for family members of those who participated in the liberation war in Bangladesh.
-
-More than 100 people were killed when the struggle became riots. After the situation, Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
-
-President Mohammed Shahabuddin then dismantled the country's parliament. In addition, he held talks yesterday with 13 people, including the leaders of the Armed Forces and the students of the struggle for the formation of the interim government.. It was decided to appoint the Nobel Prize winner Mohammed Yunus as the interim leader.
-
-Following this, Mohammed Yunus was appointed by President Mohammed Shahabuddin as the head of the interim government in Bangladesh.. The interim government is headed by Mohammed Yunus today.
-
-◼️
-
-[Data](articles/b8202b73.json)
-
-[Extended Data](ext_articles/b8202b73.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 20:06:28**
+As of **2024-08-08 20:20:46**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,690 (100.0%) of 39,691 articles have been extended.
+39,691 (100.0%) of 39,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ජනපති සටනට එක්වන පිරිස 24ක් දක්වා ඉහළට
+### Troops reaching up to 24 people who joined President fight
 
 *2024-08-08 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199722) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අද (08) දිනයේදී තවත්   අපේක්ෂකයින් දෙදෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+Today, two more candidates joined the presidential race, bringing the total number of candidates to 24.
 
-ඒ අනුව මැතිවරණ කොමිෂන් සභාව අද නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ මේ දක්වා අපේක්ෂකයින් 24 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බවය.
+🟩
+
+Two more candidates have deposited on the Presidential election today (08).
+
+Accordingly, 24 candidates have deposited for 24 candidates to date.
 
 ◼️
 
 [Data](articles/3964e9aa.json)
+
+[Extended Data](ext_articles/3964e9aa.ext.json)
 
 ---
 

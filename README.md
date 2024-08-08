@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 09:07:09**
+As of **2024-08-08 09:21:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,573 (100.0%) of 39,579 articles have been extended.
+39,579 (100.0%) of 39,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### துப்பாக்கி இயங்கியதில் ஒருவர் பலி
+### One person killed in rifle
 
 *2024-08-08 08:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-இயங்கியதில்-ஒருவர்-பலி/175-341782) · `ta`
 
-சீதுவ - கொட்டுகொட பிரதேசத்தில் இன்று அதிகாலை பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி இயங்கியதில் ஒருவர் உயிரிழந்துள்ளார்.
+In a gunfight near Seetuwa-Kotugoda, one person was killed and another injured when they attempted to disarm a police officer at a checkpoint. The injured party succumbed to their injuries at Negombo Hospital.
 
-சீதுவயிலிருந்து கொட்டுகொட நோக்கி பயணித்த காரை கொட்டுகொட பொலிஸ் சோதனைச்சாவடிக்கருகில் சோதனைக்குட்படுத்திய சந்தர்ப்பத்தில், காரிலிருந்த நபர்கள் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கியை பறிக்க முற்பட்ட போதே துப்பாக்கி இயங்கியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-காரில் பயணித்த நபரொருவர் காயமடைந்த நிலையில் நீர்கொழும்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டதை அடுத்து உயிரிழந்துள்ளார்.
+One person was killed in a gunfight of a police officer in the Seetuwa - Kotugoda area this morning.
+
+Police said that the car was operating when the car was checked at the Kottukoda police checkpoint when the car was trying to snatch the gun of the police officer.
+
+A man who was traveling in the car was injured and died after being admitted to the Negombo Hospital.
 
 ◼️
 
 [Data](articles/4ddf0a4d.json)
+
+[Extended Data](ext_articles/4ddf0a4d.ext.json)
 
 ---
 
@@ -62,41 +68,55 @@ However, he assured that this action will not interfere with election activities
 
 [Data](articles/3aa732b0.json)
 
+[Extended Data](ext_articles/3aa732b0.ext.json)
+
 ---
 
-### 2 அமைச்சுக்களின் செயலாளர்களுக்கு இறுதி அறிவித்தல்
+### 2 Final Notification to Secretaries of Ministries
 
 *2024-08-08 08:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-அமைச்சுக்களின்-செயலாளர்களுக்கு-இறுதி-அறிவித்தல்/175-341781) · `ta`
 
-அரச சொத்துக்களை முறையற்ற வகையில் பயன்படுத்தியமை தொடர்பில் 2 அமைச்சுக்களின் செயலாளர்களுக்கு எதிராக இறுதி அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
+A final notice has been sent to two ministry secretaries over misuse of state assets. The Commissioner General of Elections, RMAL, has requested the Elections Commission to probe these allegations. This action came after election monitors were summoned to the Election Commission yesterday.
 
-அரச சொத்துக்களை தவறாக பயன்படுத்தியமை தொடர்பிலான விடயங்களை ஆராய்வதற்காக குறித்த இருவரும் தேர்தல்கள் ஆணைக்குழுவிற்கு அழைக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-தேர்தல் கண்காணிப்பாளர்கள் முதல்தடவையாக நேற்று தேர்தல்கள் ஆணைக்குழுவிற்கு அழைக்கப்பட்ட போதே இந்த விடயம் தெரியவந்துள்ளது. (a)
+A final notification has been issued against the secretaries of 2 ministries regarding the improper use of state assets.
+
+The Commissioner General of Elections RMAL has called for the Elections Commission to investigate issues regarding the misuse of state assets.. Ratnayake said.
+
+This was revealed when the election monitors were summoned to the Election Commission yesterday. (A)
 
 ◼️
 
 [Data](articles/0a97e9ce.json)
 
+[Extended Data](ext_articles/0a97e9ce.ext.json)
+
 ---
 
-### රත්‍රං තොගයක් කලපුවකින් හමුවෙයි
+### A stock of gold meets with lagoon
 
 *2024-08-08 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199693) · `si`
 
-කල්පිටිය තොරයඩි කලපුවේ ගිල්වා තිබූ බවට සැකකෙරෙන රත්‍රං කිලෝ 4 ග්‍රෑම් 740ක ඇසුරුමක් නාවික හමුදාව භාරයට ගෙන තිබේ.
+The Navy discovered 740 kg of gold in a Dingi vessel near Kalpitiya, suspecting it was being smuggled. The find came from a search operation led by the Sri Lanka Naval Ship Wijaya, based on a tip-off. It's believed the smugglers couldn't reach the lagoon with the gold due to security measures. Further investigation has been handed over to the Customs Prevention Office.
 
-තවද එම රත්‍රං අඩංගු ඇසුරුම ප්‍රවාහනය කළ බවට සැක කෙරෙන ඩිංගි යාත්‍රාවක් ද තොරයඩි වෙරළ ප්‍රදේශයේ තිබියදී නාවික හමුදාව සිය භාරයට ගෙන ඇත.
+🟩
 
-වයඹ නාවික විධානයට ලද තොරතුරක් මත ශ්‍රී ලංකා නාවික නෞකා විජය ආයතනය මගින් පෙරේදා (06) සිදුකළ සෝදිසි මෙහෙයුමේදි මෙම රත්‍රං තොගය සොයාගෙන ඇතැයි ද සඳහන්.
+The Navy has taken a 740-kilo of gold, suspicious that he was dumped in the Thousands of Kalpitiya.
 
-නාවික හමුදා මෙහෙයුම් හමුවේ රැගෙන යාමට නොහැකිව ජාවාරම්කරුවන් විසින් මෙම රත්‍රං ඇසුරුම පසුව රැගෙන යාමේ අපේක්ෂාවෙන් මෙලෙස කලපුවේ ගිල්වා තබන්නට ඇතැයි නාවික හමුදාව සැක පළ කරයි.
+The Navy has taken a Dingi vessel and the Dingi vessel suspected to transport the package.
 
-මෙම රත්‍රං තොගය සම්බන්ධව ඉදිරි විමර්ශන පැවැත්වීම සඳහා කටුනායක රේගු නිවාරණ කාර්යාලයට භාරදීමට කටයුතු කර ඇතැයි ද සඳහන්.
+The gold consignment was found at a search operation conducted by the Sri Lanka Naval Ship Wijaya on a tip off received by the North Western Naval Command.
+
+The navy suspicles that the racketeers cannot be taken to the lagoon in the face of carrying the gold package.
+
+It is said that steps have been handed over to the Customs Prevention Office to conduct further investigations into the stock of gold.
 
 ◼️
 
 [Data](articles/d978c7a6.json)
+
+[Extended Data](ext_articles/d978c7a6.ext.json)
 
 ---
 
@@ -116,23 +136,33 @@ The general eneral public is kindly requested to take adequate precautions to mi
 
 [Data](articles/72291411.json)
 
+[Extended Data](ext_articles/72291411.ext.json)
+
 ---
 
-### මෙරට දරුවන්ගේ නින්ද සම්බන්ධයෙන් ගැටලු
+### Problems regarding the sleep of children of Sri Lanka
 
 *2024-08-08 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199692) · `si`
 
-මෙරට දරුවන්ගේ නින්ද සම්බන්ධ ගැටලු පවතින බව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ සෞඛ්‍ය විශේෂඥ වෛද්‍ය ඉනෝකා වික්‍රමසිංහ මහත්මිය පවසයි.
+Dr. Inoka Wickremasinghe highlights sleep issues among Sri Lankan children, with limited research showing 25% face sleep problems. The World Health Organization recommends varying hours based on age, emphasizing the importance of adequate sleep for mental and physical health.
 
-ඇය පෙන්වාදෙන්නේ සිදුකරන ලද සීමිත පර්යේෂණවලින් ඒ බව අනාවරණය වී ඇති බවය.
+🟩
 
-දරුවන් හට සුවබර නින්දක් ලබාදීමට අවශ්‍ය කටයුතු සිදුකිරීමට දෙමව්පියන්ගේ කාර්යය භාරයක් වන බව විශේෂඥ වෛද්‍ය ඉනෝකා වික්‍රමසිංහ මහත්මිය සඳහන් කළාය.
+Health Education Specialist Dr. Inoka Wickremasinghe says there are problems with sleep related problems in this country.
 
-"ලංකාවේ දරුවන් අතරින් නින්ද සම්බන්ධයෙන් ගොඩක් ලොකු පර්යේෂණ සිදුකරලා නැති වුණත් තිබෙන සීමිත දත්තවලට අනුව පෙනී ගිහින් තියෙනවා අවුරුද්දක් වනතුරු දරුවන් අතරේ 25%ක දරුවන්ට ගැටලු තියෙනවා කියලා. ඒ වගේම නව යොවුන් වියේ දී නින්ද අඩුකම නිසා ඇති වෙන බලපෑම් ඇති වෙලා තියෙනවා වගේම වැඩිහිටි සහ තරුණ අයගේ නින්දේ යම් යම් ගැටලුකාරී තත්ත්වයන් තියෙන බව ලංකාවේ තිබෙන සීමිත දත්තවලින් පවා පෙන්නුම් කරනවා. විශේෂයෙන්ම පාසල් දරුවන්ට ගැඹුරු මතකයක් ලෙස ස්ථාවර මතකයක් ඇති කරගන්නත් හොඳ නින්දක් ඕනේ. ඒකට එයා පුංචිකාලේ ඉඳලා පුරුදු වෙන්න ඕනේ නිදා ගන්න."
+She shows that limited research has been revealed that this has been revealed.
+
+Specialist Dr. Inoka Wickremasinghe said that children would have a good sleep to make a good sleep.
+
+"One of the children in Sri Lanka has not done so much more different research in sleep, but the limited data found that 25% of children have problems among children. Also, adolescents have had the impact on the sleep, and even the limited data found in Sri Lanka that there are some problems in the sleep of the elderly and young people. Especially as a deep memory of school children should have a good night's sleep. It should be used to sleep with punching. "
+
+Meanwhile, the World Health Organization has recommended the recommendations of the number of hours due to each age group.
 
 ...
 
 [Data](articles/e40d9e5c.json)
+
+[Extended Data](ext_articles/e40d9e5c.ext.json)
 
 ---
 

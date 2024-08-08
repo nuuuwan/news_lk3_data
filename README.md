@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 19:06:24**
+As of **2024-08-08 19:21:06**
 
 ## Newspaper Stats
 
-*Scraped **39,688** Articles*
+*Scraped **39,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,410
 dailyftlk | 2,551
-adalk | 3,642
-adaderanalk | 4,609
+adalk | 3,643
+adaderanalk | 4,610
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,283
@@ -26,25 +26,45 @@ adaderanasinhalalk | 6,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,687 (100.0%) of 39,688 articles have been extended.
+39,688 (100.0%) of 39,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### එංගලන්ත ටෙස්ට් තරගාවලියේ ආරක්ෂාව ගැන ශ්‍රී ලංකාව විමසයි
+### Election deposits placed for 24 presidential candidates so far
+
+*2024-08-08 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101089/election-deposits-placed-for-24-presidential-candidates-so-far) · `en`
+
+A total of 24 candidates have so far placed cash deposits for the upcoming Presidential Election, says the Election Commission of Sri Lanka.
+
+This includes 11 candidates representing recognised political parties, 12 Independent candidates whose names have been nominated by a voter and one candidate from other political parties.
+
+◼️
+
+[Data](articles/864eeb3e.json)
+
+---
+
+### Sri Lanka inquires about the security of the England Test series
 
 *2024-08-08 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199721) · `si`
 
-එංගලන්තයේ දී ආරම්භ වීමට නියමිත ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් තරගාවලිය සඳහා සපයා ඇති ආරක්ෂාව සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් බලධාරීන් එංගලන්ත ක්‍රිකට් මණ්ඩලයෙන් විමසා ඇති බව වාර්තා වෙයි.
+Sri Lanka Cricket officials have asked England Cricket about the safety of the upcoming Test series due to recent migrant protests in England. Seven Sri Lankan players are already in England for the matches.
 
-පසුගිය දින කිහිපයේදී සංක්‍රමණිකයන් ට එරෙහිව එංගලන්තයේ ප්‍රදේශ කිහිපයක විරෝධතා පැවැත්වුණි.
+🟩
 
-මේ වනවිට ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් සංචිතයේ ක්‍රීඩකයින් 7 දෙනෙක් එංගලන්තය ට ගොස් සිටී.
+Sri Lanka Cricket authorities have inquired from the England cricket against the security of Sri Lanka-England Test series that is scheduled to begin in England.
+
+In the last few days, protests have been held in England against migrants.
+
+Seven players in the Sri Lanka Test squad have gone to England.
 
 ◼️
 
 [Data](articles/8025bfa3.json)
+
+[Extended Data](ext_articles/8025bfa3.ext.json)
 
 ---
 
@@ -74,7 +94,7 @@ The accused entity were taken into custody and fines were imposed. (Colombo/Aug8
 
 ### Completed by the Kokkuttuvai Burial Excavation work;Relatives of missing persons demand to make the recovered plate digits public!
 
-*2024-08-08 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190603) · `ta`
+*2024-08-08 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190603) · `ta`
 
 The Kokkuttuwai Burial case, involving the excavation of a burial site, was discussed in the Mullaitivu District Magistrate's Court. Lawyers from the Missing Persons Office and relatives of missing individuals attended. The court received a report from the Kokkuttuwai Grama Niladhari and expects a final report from Professor Raj Somadeva soon. Skeletal remains found during the excavation are being analyzed, and the Missing Persons Office plans to publish details about the excavation. The case will resume on September 26th, with the involvement of international observers.
 
@@ -451,6 +471,18 @@ There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
 [Data](articles/e98ccadc.json)
 
 [Extended Data](ext_articles/e98ccadc.ext.json)
+
+---
+
+### ගාසා දරුවන්ට තවත් ඇමරිකානු ඩොලර් පන්ලක්ෂ අනූදහසක් ශ්‍රී ලංකාවෙන් ලබාදෙයි
+
+*2024-08-08 16:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-දරුවන්ට-තවත්-ඇමරිකානු-ඩොලර්-පන්ලක්ෂ-අනූදහසක්-ශ්‍රී-ලංකාවෙන්-ලබාදෙයි/11-411267) · `si`
+
+ගාසා තීරයේ පවත්නා යුදමය තත්ත්වය හේතුවෙන් අවතැන්ව සිටින දරුවන්ගේ මූලික අවශ්‍යතා සැපයීම සඳහා අවශ්‍ය මුල්‍යාධාර ලබා දීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව පිහිටුවන ලද “ගාසා හි ළමා අරමුදල (Children of Gaza Fund) වෙත ලැබුණු තවත් ඇමරිකානු ඩොලර් පන්ලක්ෂ අනූදහසක (590,000/-) මුදල පලස්තීන රජය වෙත නිල වශයෙන් භාරදීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (07) ජනාධිපති කාර්යාලයේ දි සිදු විය.
+
+◼️
+
+[Data](articles/5319109f.json)
 
 ---
 
@@ -2293,45 +2325,5 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 [Data](articles/cd1d5af0.json)
 
 [Extended Data](ext_articles/cd1d5af0.ext.json)
-
----
-
-### Yall. Attack on young people in Arali!
-
-*2024-08-08 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190546) · `ta`
-
-In Jaffna, a group attacked youths near Arali Aladi junction on Wednesday night, escalating an ongoing conflict. One victim was hospitalized and reported the incident to the Vaddukoddai police.
-
-🟩
-
-A group of youths stood in front of a shop near the Arali Aladi junction in Jaffna on Wednesday night (07).
-
-It is known that the attack has taken place due to an already conflict between the group and the youth.
-
-One of the victims has been admitted to the Jaffna Teaching Hospital after lodging a complaint at the Vaddukoddai police station.
-
-◼️
-
-[Data](articles/d9c68a11.json)
-
-[Extended Data](ext_articles/d9c68a11.ext.json)
-
----
-
-### Parliament meet today
-
-*2024-08-08 09:12:23* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411259) · `si`
-
-Today's Parliament meeting began at 9:30 am under the patronage of Hon. Speaker Mahinda Yapa Abeywardena.
-
-🟩
-
-Parliament was held at the patronage of Hon. Speaker Mahinda Yapa Abeywardena at 9:30 am today.
-
-◼️
-
-[Data](articles/1c19263d.json)
-
-[Extended Data](ext_articles/1c19263d.ext.json)
 
 ---

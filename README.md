@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 07:50:49**
+As of **2024-08-08 08:15:52**
 
 ## Newspaper Stats
 
-*Scraped **39,568** Articles*
+*Scraped **39,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,634
-adaderanalk | 4,592
+adaderanalk | 4,593
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,972
+tamilmirrorlk | 4,973
 virakesarilk | 6,252
 adaderanasinhalalk | 6,701
 
@@ -26,61 +26,109 @@ adaderanasinhalalk | 6,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,558 (100.0%) of 39,568 articles have been extended.
+39,565 (100.0%) of 39,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ග්‍රාම නිලධාරිවරු වෘත්තීය ක්‍රියාමාර්ගයක
+### 121 தேர்தல் சட்டம் மீறல் முறைப்பாடுகள்
+
+*2024-08-08 07:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/121-தேர்தல்-சட்டம்-மீறல்-முறைப்பாடுகள்/175-341779) · `ta`
+
+அத்துடன், 2024 ஜனாதிபதி தேர்தலை முன்னிட்டு இதுவரை 22 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். (a)
+
+◼️
+
+[Data](articles/b8ae3d02.json)
+
+---
+
+### Grama Nilaunts for a trade union action
 
 *2024-08-08 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199689) · `si`
 
-අත්තනෝමතික ලෙස ග්‍රාම නිලධාරී සේවා ව්‍යවස්ථාව ගැසට් කිරීමට විරෝධය පළ කරමින් වෘත්තීය ක්‍රියාමාර්ගයක නිරත වන බව ග්‍රාම නිලධාරී වෘත්තීය සමිති සන්ධානය පවසයි.
+Trade unions protest against Gazette notification issued by GS association and UPFA, citing arbitrary actions.
+
+🟩
+
+Gazette, the GS association, the UPFA says that arbitrary is engaged in protest against the gazette.
 
 ◼️
 
 [Data](articles/d5dc58d6.json)
 
+[Extended Data](ext_articles/d5dc58d6.ext.json)
+
 ---
 
-### බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම පාකිස්තානයට?
+### Bangladesh cricket team to Pakistan?
 
 *2024-08-08 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199688) · `si`
 
-බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිතව තිබෙන පාකිස්තානු ටෙස්ට් තරග සංචාරය සඳහා ඔවුන් සැලසුම් කළ දිනට පෙර එරටින් පිටව යාමට තීරණය කර තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කර සිටී.
+The Bangladesh cricket team plans to leave early due to unrest, despite Pakistan's assurance and offer of full support, including training facilities. The first Test match is scheduled for the 21st, but the team's arrival hinges on the Bangladeshi government's response.
 
-බංග්ලාදේශය තුළ උද්ගතව තිබෙන නොසන්සුන්තාවය පිළිබද එරට ක්‍රිකට් ආයතනය විසින් සත්කාරක පාකිස්තානය දැනුම්වත් කර ඇති අතර, ඊට යහපත් ප්‍රතිචාරයක් ලැබී ඇති බව සඳහන්.
+🟩
 
-තරග 02කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගය මේ මස 21වනදා රාවල්පිණ්ඩිහිදී පැවැත්වීමට නියමිතව ඇත.
+Foreign media reports, the Bangladesh cricket team has decided to leave the country before the date of their planning.
 
-ඒ අනුව පාකිස්තානු ක්‍රිකට් ආයතනය විසින් කල්වෙලා ඇතිව පැමිණෙන බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම හා ඔවුන්ගේ පුහුණුකාර මණ්ඩලයට අවශ්‍ය සියලුම පුහුණු පහසුකම් සැපයීමට සිය එකඟතාව පළකර ඇත.
+The host Pakistan has announced that the host of the country has been informed of the unrest in Bangladesh and has received a positive response.
 
-කෙසේ නමුත් බංග්ලාදේශ කණ්ඩායමේ පැමිණීම තීරණය වන්නේ එරට අභිනවයෙන් පත්වීමට නියමිත අන්තර්වාර රජයේ ප්‍රතිචාරය මත බවද සඳහන් ය.
+The first match of the two-match Test series will be held on the 21st of this month.
+
+Accordingly, the Pakistanic Cricket has agreed to provide all the training team and all the necessary training facilities for their coaching group.
+
+However, the coming of the Bangladesh is determined by the newly achieved government response to the country.
 
 ◼️
 
 [Data](articles/0bc7c84a.json)
 
+[Extended Data](ext_articles/0bc7c84a.ext.json)
+
 ---
 
-### ඇප තැබූ පිරිස 22ක් දක්වා ඉහළට
+### Man dies from gunshot wound after grabbing police officer’s gun, cop injured
+
+*2024-08-08 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101070/man-dies-from-gunshot-wound-after-grabbing-police-officers-gun-cop-injured) · `en`
+
+The passenger of a car has died while a police officer has sustained injuries after the former had tried to grab the policeman’s service firearm during a search at a checkpoint in Kotugoda, causing the weapon to accidentally discharge.
+
+Police said that a team of officers from the Seeduwa Police Station had stopped and attempted to search a car which had arrived from Seeduwa at the Kotugoda checkpoint.
+
+However, during the search the person who was in the left side passenger seat of the car had allegedly attempted to grab the service firearm of a Police Sergeant causing the weapon to discharge and resulting in gunshot injuries to the policeman’s foot and the passenger’s stomach.
+
+Both wounded persons were admitted to the Negombo Hospital, where the passenger who had allegedly tried to grab the gun had later succumbed to injuries. The deceased is a 38-year-old resident of Pugoda.
+
+◼️
+
+[Data](articles/f69082eb.json)
+
+---
+
+### Up to 22 persons with bail
 
 *2024-08-08 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199687) · `si`
 
-මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප තැන්පත් කළ අපේක්ෂකයින් සංඛ්‍යාව 22 දක්වා ඉහළ ගොස් තිබේ.
+22 candidates have submitted deposits for the presidential election, with 11 political parties involved. The deadline is December 14th at 12 noon. Ven. Omalpe Sobhitha Thera urges the Elections Commission to educate voters on proper voting methods to avoid invalid ballots.
 
-ඒ අනුව මේ වන විට පිළිගත් දේශපාලන පක්ෂ 11ක් ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-ජනාධිපතිවරණයට අදාළ ඇප මුදල් තැන්පත් කිරීමේ කාලය ලබන 14 වන දින දහවල් 12.00න් අවසන් වීමට නියමිතය.
+The number of candidates who have deposited the presidential election has increased to 22.
 
-මේ අතර එළඹෙන ජනාධිපතිවරණයේ දී ඡන්දය ප්‍රකාශය කළ යුතු ආකාරය සම්බන්ධයෙන් ජනතාව දැනුවත් කිරීමට මැතිවරණ කොමිසම කටයුතු කළ යුතු බව පූජ්‍ය ඔමල්පේ සෝභිත හිමි පවසයි.
+Accordingly, 11 recognized political parties have deposited money for the presidential election, said the Elections Commission.
 
-උන්වහන්සේ පෙන්වා දෙන්නේ එසේ නොවුණහොත් බොහෝ ඡන්ද සංඛ්‍යාවක් එළඹෙන මැතිවරණයේ දී අවලංගු වනු ඇති බවය.
+The deposit of the presidential election is due to end on the 14th at 12 noon.
+
+Meanwhile, Ven. Omalpe Sobhitha Thera says that the Elections Commission should take up the public aware of how to vote in the coming presidential election.
+
+If he points out, many of the casting will be invalid at the upcoming election.
 
 ◼️
 
 [Data](articles/d6622dee.json)
+
+[Extended Data](ext_articles/d6622dee.ext.json)
 
 ---
 
@@ -868,6 +916,8 @@ Good Life X recently concluded the intensive residency program of the Creative C
 
 [Data](articles/b7fe1090.json)
 
+[Extended Data](ext_articles/b7fe1090.ext.json)
+
 ---
 
 ### Ponnaveli, Gautarimunai Village Like Kerala Wayanad Village - Sridharan Warning
@@ -905,6 +955,8 @@ In the retail market, top seven companies that mainly contributed to the turnove
 ...
 
 [Data](articles/b5721f13.json)
+
+[Extended Data](ext_articles/b5721f13.ext.json)
 
 ---
 
@@ -2225,59 +2277,5 @@ Wickremasinghe further emphasised that he has never protected anyone accused of 
 [Data](articles/7029dfa1.json)
 
 [Extended Data](ext_articles/7029dfa1.ext.json)
-
----
-
-### An invitation to the leaders of the struggle
-
-*2024-08-07 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199666) · `si`
-
-MP Tissa Kuttiarachchi announced that young representatives from the struggle will be invited to seek nominations for the upcoming General Election. He emphasized the importance of empowering a young leader for the nation's future, stating that the party has made significant strides in organizing and preparing its members.
-
-🟩
-
-MP Tissa Kuttiarachchi says that youths representing the struggle will be invited to obtain nominations from the General Election of the General Election.
-
-He was speaking at the Nelum Mawatha in the party headquarters today (06).
-
-He said that a young leader who was expected to lead the country in the future.
-
-"The struggle was read in this country to give this country to a young leader.. Our party has now taken a very good party. Members of the struggle come to come from us.  තරුණයෝ බහුතරයක් ඉන්න පක්ෂයක්, පිරිසිඳු කරපු පක්ෂයක් තියන්නේ."
-
-◼️
-
-[Data](articles/21a232c6.json)
-
-[Extended Data](ext_articles/21a232c6.ext.json)
-
----
-
-### 24 people in a hotel bake alive
-
-*2024-08-07 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199665) · `si`
-
-In Bangladesh, a tragic incident occurred where 24 individuals were killed in a hotel. This event sparked widespread protests against the government, leading to the dissolution of Parliament and the appointment of a military-led government. Despite the resignation of the Prime Minister, unrest persists. The situation has also highlighted ongoing issues against the Hindu minority, with a history of violence dating back to 1992, including 3,679 attacks from 2013 to 2021.
-
-🟩
-
-The unfortunate news of the death of 24 people were killed in a hotel in a hotel by a hotel.
-
-The Bangladesh protests, which converted to the job quotation, and translated into anti-government rebellion was over after the Prime Minister Sheikh Haseanayake.
-
-According to the request of student activists, the Parliament was dissolved and the military had been appointed without a military control over control.
-
-Accordingly, 84-year-old Mohamed Yunus was appointed as the main advisor to the Intervention of the Nobel Peace Prize.
-
-Although the Prime Minister resigns, the unrest in the country has not yet fallen.
-
-The struggle buried 24 people alive and the majority of the majority in the hotel were burned at the hotel.
-
-The Hindu inhabitants of Hinduians and the conflict in the country have been a racist form targeting the minority Hindu community.
-
-...
-
-[Data](articles/0991d310.json)
-
-[Extended Data](ext_articles/0991d310.ext.json)
 
 ---

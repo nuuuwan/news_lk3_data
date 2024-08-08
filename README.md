@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 12:21:05**
+As of **2024-08-08 12:36:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,618 (100.0%) of 39,621 articles have been extended.
+39,621 (100.0%) of 39,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online
 ◼️
 
 [Data](articles/3846b14b.json)
+
+[Extended Data](ext_articles/3846b14b.ext.json)
 
 ---
 
@@ -493,6 +495,8 @@ In equities, Colombo’s All Share Price Index opened 11.56 points higher at 11,
 ◼️
 
 [Data](articles/d8da11ff.json)
+
+[Extended Data](ext_articles/d8da11ff.ext.json)
 
 ---
 
@@ -1035,6 +1039,8 @@ At the current interest rate structure, the central bank has collected foreign r
 ...
 
 [Data](articles/4122c366.json)
+
+[Extended Data](ext_articles/4122c366.ext.json)
 
 ---
 

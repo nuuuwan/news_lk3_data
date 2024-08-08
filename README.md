@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 05:20:52**
+As of **2024-08-08 05:38:38**
 
 ## Newspaper Stats
 
-*Scraped **39,534** Articles*
+*Scraped **39,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,536
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,969
+tamilmirrorlk | 4,970
 virakesarilk | 6,252
 adaderanasinhalalk | 6,696
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,532 (100.0%) of 39,534 articles have been extended.
+39,534 (100.0%) of 39,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ’பதில் இன்றேல் இரத்து செய்யவும்’
+
+*2024-08-08 01:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-இன்றேல்-இரத்து-செய்யவும்/175-341775) · `ta`
+
+கிழக்கு மாகாணத்தில் அப்பாவி மக்களின் 170 கோடி ரூபாவை மோசடி செய்துவிட்டு  இந்தியாவுக்கு தப்பிச் சென்றுள்ள நிதி நிறுவனத்தின் பணிப்பாளரை நாட்டுக்கு கொண்டு வர முன்னெடுத்துள்ள நடவடிக்கைகள் தொடர்பில் நான் இந்த சபையில் முன்வைத்துள்ள கேள்விகளுக்கு  இன்று வரை பதில் இல்லை ஒன்று பதிலளியுங்கள் ,இல்லையேல் வாய்மூல விடைக்கான வினாக்கள் முறைமையை இரத்து செய்யுங்கள் என இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி.யான இரா.சாணக்கியன் தெரிவித்தார்.
+
+...
+
+[Data](articles/9d721383.json)
+
+---
 
 ### 22 people in control of presidential election - Elections Commission
 
@@ -54,23 +66,31 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 
 ---
 
-### ’அரகலய’ வினருக்கு மொட்டு அழைப்பு
+### Model
 
 *2024-08-08 01:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வினருக்கு-மொட்டு-அழைப்பு/175-341774) · `ta`
 
-'அரகலய' போராட்டத்தில் ஈடுபட்ட இளைஞர், யுவதிகளை, தமது கட்சி சார்பில் போட்டியிடுமாறு  ஸ்ரீ லங்கா பொதுஜன பெரமுன அழைப்பு விடுத்துள்ளது.
+The Sri Lanka People's Party (PA) has invited youth and women from the 'Arakalaya' movement to participate in its candidate selection process for the upcoming general election. The party's MP, Tissa Kuttiyarachchi, announced this invitation, emphasizing the party's readiness to support young leaders for future leadership roles. He highlighted the public's call for youth leadership during the 'Arakalaya' struggle and positioned the PA as the party best equipped to nurture such leadership.
 
-எதிர்வரும் பொதுத்தேர்தலின் போது,  ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் வேட்புமனுக்களை பெறுவதற்காக போராட்டத்தை பிரதிநிதித்துவப்படுத்திய இளைஞர்களுக்கு அழைப்பு விடுக்கப்படும் என அந்தக் கட்சியின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
 
-நெலும் மாவத்தையில் அமைந்துள்ள கட்சியின் தலைமையகத்தில் நேற்று (07) காலை உரையாற்றும் போதே அவர் மேற்கண்டவாறு கூறியுள்ளார்.
+The Sri Lanka PA has called for the youth and women involved in the 'Arakalaya' struggle on behalf of their party.
 
-அனைவரும் எதிர்பார்க்கும் வகையில் இளம் தலைவர்களிடம் எதிர்காலத்தில் நாட்டின் தலைமைத்துவத்து வழங்குவதற்கு தயாராக இருப்பதாக அவர் குறிப்பிட்டுள்ளார்.
+The party's parliamentarian Tissa Kuttiyarachchi has said that during the upcoming general election, the Sri Lanka PA will be invited to the youth who represented the struggle to get the candidates of the PA.
 
-“போராட்டத்தின் போது இந்த நாட்டிலுள்ள அனைவரும் இளம் தலைவருக்கு இந்த நாட்டை கொடுங்கள் என்று சொன்னார்கள்.  இப்போது எமது கட்சியை எடுத்துக்கொண்டால் மிகவும் சுத்திகரிக்கப்பட்ட கட்சியாக உள்ளது.
+He said this while addressing the party headquarters in Nelum Mawatha yesterday morning.
 
-...
+He noted that everyone is ready to provide young leaders to the leadership of the country in the future.
+
+“During the struggle, everyone in this country said," Give this country to the young leader. "Now we are the most refined party if we take our party.
+
+So, come to us and the youth who represented the struggle come to us and get the nominations. Sri Lanka is the most pure party with the youngest and the pure party. ”
+
+◼️
 
 [Data](articles/2e0497b8.json)
+
+[Extended Data](ext_articles/2e0497b8.ext.json)
 
 ---
 
@@ -98,19 +118,29 @@ At the same time they claim that forex balance has increased. உண்மைய
 
 ---
 
-### ’என்மீது அவதூறு கூறுகின்றனர்’
+### Slander me on me
 
 *2024-08-08 01:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்மீது-அவதூறு-கூறுகின்றனர்/175-341773) · `ta`
 
-அரசியலில் தனது வளர்ச்சியை பிடிக்காத சிலர் தன்னைப்பற்றி அவதூறான வகையில் இணையத்தளங்களில் எழுதுகின்றனர்.எனவே   இது தொடர்பில் உரிய நடவடிக்கை எடுக்கப்பட வேண்டும் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பின்  வன்னிமாவட்ட எம்.பி.யும் தமிழீழ விடுதலை இயக்கத்தின் (ரெலோ )தலைவருமான செல்வம் அடைக்கலநாதன் வலியுறுத்தினார்.
+Selvam Adakkalanathan, TNA and LTTE leader, criticized individuals spreading false narratives against him online, highlighting the misuse of the internet for personal attacks. He urged for investigations into such slanderous content, emphasizing the need for accountability and justice in cyberspace.
 
-பாராளுமன்றத்தில் புதன்கிழமை (07) சிறப்புரிமை பிரச்சினையை எழுப்பியே  இவ்வாறு வலியுறுத்திய   அவர் மேலும் கூறுகையில்,
+🟩
 
-என்னைப்பற்றி அவதூறான வகையில் எனது வளர்ச்சியை பிடிக்காத சிலர்   இணையத்தளங்களில் எழுதுகின்றனர். இவ்வளவு காலம் அரசியலில் இருக்கின்ற நான் முதல் முதலில் இன்றுதான் இங்கே எனக்கான நியாயம் கேட்டு நிற்கின்றேன்.
+Selvam Adakkalanathan, the leader of the Tamil National Alliance (TNA), and the leader of the Liberation Tigers of Tamil Eelam (RELO), stressed that some people who do not like politics are slandering themselves on the Internet.
 
-...
+He emphasized the issue of privilege on Wednesday (07) in Parliament.
+
+Some people who do not like my growth in a slander about me write on the websites. I have been in politics for so long and the first time I ask for justice here.
+
+The Jaffna Intelligence website has written very badly that I am the backdrop after a man in Mannar. The Senior Inspector General of Police. Similarly, the Minister of Public Relations has also joined the issue. Thus, the investigation into the matter should be taken on the website. I am asking those who have been involved to respond to this.
+
+Responding to this, the Speaker said that steps would be taken to send the issue to the Private Committee.
+
+◼️
 
 [Data](articles/65da54dd.json)
+
+[Extended Data](ext_articles/65da54dd.ext.json)
 
 ---
 
@@ -2355,29 +2385,5 @@ It has been revealed that before the crime was committed, the suspect in questio
 [Data](articles/6c53fa47.json)
 
 [Extended Data](ext_articles/6c53fa47.ext.json)
-
----
-
-### Murder of a businessman in Eravur
-
-*2024-08-07 09:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஏறாவூரில்-வர்த்தகர்-கழுத்தறுத்துக்-கொலை/73-341736) · `ta`
-
-In Eravur, a businessman named Dawood, 45, was found dead, likely killed during a robbery by drug users at his shop. The Eravur police are investigating and aiming to apprehend the culprits.
-
-🟩
-
-A businessman in Michnagar - Hizbullah, which belongs to the Eravur police division, has been recovered last night (6), police said.
-
-Investigations by the police revealed that the murder had taken place when drug users came to rob the shopping center.
-
-Dawood, a 45 -year -old Dawood, who was running a shop while not married in the incident, has been strangled and murdered.
-
-Eravur police are taking action to arrest the persons involved in the murder and take legal action.. Remble
-
-◼️
-
-[Data](articles/2c380d70.json)
-
-[Extended Data](ext_articles/2c380d70.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 10:36:24**
+As of **2024-08-08 10:54:56**
 
 ## Newspaper Stats
 
-*Scraped **39,596** Articles*
+*Scraped **39,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,638
-adaderanalk | 4,598
+adaderanalk | 4,599
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,982
+tamilmirrorlk | 4,983
 virakesarilk | 6,252
-adaderanasinhalalk | 6,708
+adaderanasinhalalk | 6,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,592 (100.0%) of 39,596 articles have been extended.
+39,596 (100.0%) of 39,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### Siyam murder: SC confirms death sentences of Vass Gunawardena and others
+
+*2024-08-08 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101076/siyam-murder-sc-confirms-death-sentences-of-vass-gunawardena-and-others) · `en`
+
+The Supreme Court today (08) confirmed the death sentences imposed on former DIG Vass Gunawardena, his son Ravindu Gunawardena, and four others, who were found guilty of abducting and murdering businessman Mohammed Siyam in 2013.
+
+The Supreme Court delivered this verdict while dismissing the appeal petitions filed by Vass Gunawardena and the other defendants seeking their acquittal.
+
+Accordingly, the the verdict, delivered after a prolonged trial, upholds the death sentences of the accused, which also include a Sub-Inspector (SI) and three Police Constables (PCs).
+
+◼️
+
+[Data](articles/e539bc94.json)
+
+---
+
+### සමගි ජන සන්ධානය එළිදැක්වීමේ උත්සවය ඇරඹේ
+
+*2024-08-08 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199700) · `si`
+
+ජනාධිපතිධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ජයග්‍රහණය වෙනුවෙන් ගොඩනැගෙන සමගි ජනබලවේගය ප්‍රමුඛ සමගි ජන සන්ධානය එළිදැක්වීමේ උත්සවය මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/801766a3.json)
+
+---
+
+### වාස් ගුණවර්ධන ඇතුළු හයකට පැනවූ මරණ දණ්ඩනය තහවුරු කෙරේ
+
+*2024-08-08 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199699) · `si`
+
+2013 වසරේ බම්බලපිටිය ප්‍රදේශයේ පදිංචි කෝටිපති ව්‍යාපාරිකයකු වන මොහොමඩ් ෂියාම් නමැත්තා පැහැරගෙන ගොස් මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන, ඔහුගේ පුත් රවිඳු ගුණවර්ධන ඇතුළු විත්තිකරුවන් හය දෙනෙකුට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය විසින් අද (08) තහවුරු කරනු ලැබීය.
+
+එම දඬුවම්වලින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා වාස් ගුණවර්ධන ඇතුළු විත්තිකරුවන් විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය එම තීන්දුව ලබා දුන්නේය.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ලබාදුන් අතර මරණීය දණ්ඩනය තහවුරු කරන ලද විත්තිකරුවන් අතර උප පොලිස් පරීක්ෂකවරයෙකු සහ පොලිස් කොස්තාපල්වරු තුන්දෙනෙකුද ඇතුළත්ව සිටී.
+
+◼️
+
+[Data](articles/788faf7b.json)
+
+---
+
+### විජයදාසගෙන් හෙළිදරව්වක්
+
+*2024-08-08 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199698) · `si`
+
+පසුගිය අරගල සමයේදී හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා තමාට අගමැතිධූරය භාරගන්නා ලෙස ඉල්ලීමක් කළ බව හිටපු අධිකරණ අමාත්‍ය, ජනාධිපති අපේක්ෂක විජයදාස රාජපක්ෂ පවසයි.
+
+නමුත් පොදුජන පෙරමුණේ පිරිසක් තමාට එහිදී එම අවස්ථාව අහිමි කළ බවයි ඔහු පවසන්නේ.
+
+අනුරාධපුර ප්‍රදේශයේ පැවැති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් හිටපු අමාත්‍යවරයා මේ බව පැවසීය.
+
+"මේ රටේ අරගලය තිබුණ වෙලාවේ මේ රට සන්සුන් කරලා මේ රට ගොඩනැගීම සඳහා 2022 මැයි මාසේ 12 වැනිදා ගෝඨාභය රාජපක්ෂ ජනාධිපතිතුමා තීරණයක් අරන් මට දැනුම් දුන්නා ආණ්ඩුවේ අග්‍රාමාත්‍ය තනතුර භාරගන්න කියලා. ඒක දැනගත්තාට පස්සේ පොහොට්ටුවේ අය කලබල වෙලා ඉක්මනට රනිල් වික්‍රමසිංහ මහත්මයාව ගෙනල්ලා බලපෑම් කරලා, ජනාධිපතිවරයාට සිද්ධ වුණා අග්‍රාමාත්‍යකම දෙන්න."
+
+◼️
+
+[Data](articles/064485e7.json)
+
+---
 
 ### 2012 Welikada Prison riot: Emil Ranjan Lamahewa acquitted
 
@@ -43,6 +105,24 @@ The decision was delivered by a panel of five judges of the Supreme Court after 
 ◼️
 
 [Data](articles/e458c3ea.json)
+
+[Extended Data](ext_articles/e458c3ea.ext.json)
+
+---
+
+### ஆற்றிலிருந்து தங்கம் மீட்பு
+
+*2024-08-08 10:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆற்றிலிருந்து-தங்கம்-மீட்பு/175-341794) · `ta`
+
+கற்பிட்டி தோரடி குளத்தில் மறைத்து வைக்கப்பட்டிருந்த 20 கோடி ரூபாவுக்கும் அதிக பெறுமதியான தங்கம் மீட்கப்பட்டுள்ளது.
+
+கற்பிட்டி விஜய கடற்படை நிறுவன அதிகாரிகள் மேற்கொண்ட விசேட தேடுதலின் போதே 4 கிலோ 740 கிராம் தங்கம் மீட்கப்பட்டுள்ளது.
+
+சட்டவிரோதமான முறையில் இந்தியாவில் இருந்து கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் தங்கம், பொலித்தீன் பைகளில் பாதுகாப்பாக வைக்கப்பட்டு தடாகத்தில் மறைத்து வைக்கப்பட்டிருந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/4f216553.json)
 
 ---
 
@@ -63,6 +143,8 @@ However, the Election Commission says that issuing a circular to provide the rel
 ◼️
 
 [Data](articles/3dbf4faa.json)
+
+[Extended Data](ext_articles/3dbf4faa.ext.json)
 
 ---
 
@@ -86,23 +168,33 @@ The five-member Supreme Court gave the judgment by the judiciary by a judicial b
 
 ---
 
-### குழந்தைகளுக்கு நித்திரை பிரச்சினை
+### Kids have a sleep problem
 
 *2024-08-08 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுக்கு-நித்திரை-பிரச்சினை/175-341790) · `ta`
 
-இலங்கையில் குழந்தைகளுக்கு நித்திரை தொடர்பான பிரச்சினைகள் காணப்படுவதாக சுகாதார மேம்பாட்டு பணியகத்தின் சுகாதார நிபுணர் டொக்டர் இனோகா விக்கிரமசிங்க தெரிவித்துள்ளார்.
+In Sri Lanka, 25% of children suffer from insomnia, affecting their mental and physical health. Experts recommend varying sleep durations based on age, emphasizing the importance of sufficient sleep for healthy development.
 
-பிள்ளைகளுக்கு நல்ல உறக்கத்தைக் கொடுப்பதற்குத் தேவையான விடயங்களைச் செய்வது பெற்றோரின் பொறுப்பாகும் என விசேட வைத்திய நிபுணர் டொக்டர் இனோகா விக்கிரமசிங்க தெரிவித்துள்ளார்.
+🟩
 
-"இலங்கைச் சிறுவர்கள் மத்தியில் தூக்கம் குறித்து அதிக ஆய்வுகள் மேற்கொள்ளப்படவில்லை என்றாலும், கிடைக்கக்கூடிய மட்டுப்படுத்தப்பட்ட தரவுகளின்படி, 25% குழந்தைகளுக்கு தூக்கமின்மை பிரச்சினைகள் உள்ளன.
+Dr. Inoga Wickremesinghe, a health expert at the Health Development Bureau, said that children in Sri Lanka have sleep problems.
 
-இதேவேளை, ஒவ்வொரு வயதினருக்கும் ஒரு நாளைக்கு எத்தனை மணிநேரம் உறங்க வேண்டும் என்பது தொடர்பில் உலக சுகாதார ஸ்தாபனம் பரிந்துரைகளை வழங்கியுள்ளதாக நிபுணர் டொக்டர் இனோகா விக்ரமசிங்க குறிப்பிடுகின்றார்.
+Specialist doctor Dr. Inoga Wickremesinghe says it is the responsibility of the parents to do things needed to give children a good sleep.
 
-"பிறந்தது முதல் ஒரு குழந்தை மூன்று மாதங்களுக்கு சுமார் 14-17 மணி நேரம் உறங்க வேண்டும் என்று உலக சுகாதார அமைப்பின் பரிந்துரைகள் உள்ளன.
+“Although there are not much studies on sleep among Sri Lankan children, it has 25% of children's insomnia problems according to the available data.
+
+Meanwhile, Expert Dr. Inoga Wickremasinghe notes that the World Health Organization has issued recommendations on how many hours a day to sleep per day.
+
+“There are suggestions of the World Health Organization that a child should sleep for about 14-17 hours for three months from birth.
+
+From 4 months to one year, 12 to 16 hours, one year to 2 years of age, 11 to 14 hours, 3 to 4 years of age, 10 to 13 hours, 5 year old child should sleep for 10 to 12 hours.
+
+Children under 5 need more than 50% of sleep. It affects mental and physical health and development.
 
 ...
 
 [Data](articles/cce4535b.json)
+
+[Extended Data](ext_articles/cce4535b.ext.json)
 
 ---
 
@@ -306,15 +398,21 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 
 ---
 
-### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+### Parliament meet today
 
 *2024-08-08 09:12:23* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411259) · `si`
 
-පාර්ලිමේන්තුව අද(08දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+Today's Parliament meeting began at 9:30 am under the patronage of Hon. Speaker Mahinda Yapa Abeywardena.
+
+🟩
+
+Parliament was held at the patronage of Hon. Speaker Mahinda Yapa Abeywardena at 9:30 am today.
 
 ◼️
 
 [Data](articles/1c19263d.json)
+
+[Extended Data](ext_articles/1c19263d.ext.json)
 
 ---
 
@@ -2169,111 +2267,5 @@ Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 [Data](articles/50ad8ba9.json)
 
 [Extended Data](ext_articles/50ad8ba9.ext.json)
-
----
-
-### The president is not paying attention to the affected parties: the conditions will definitely reorganize - Harsha de Silva
-
-*2024-08-07 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190495) · `ta`
-
-Dr. Harsha de Silva criticizes the President for ignoring affected parties amid an economic crisis, stating that conditions will be reevaluated. The President supports economic reorganization but hasn't addressed those impacted. De Silva also addresses false accusations against Madura Vidhanage and mentions the IMF's role during the 2022 crisis, suggesting Gotabhaya Rajapakse wouldn't have resigned had he been consulted. The government's 18% tax on essential foods is criticized as part of the economic reform, highlighting the need for a rethink on restructuring.
-
-🟩
-
-The President is in the position that the economy should be reorganized. We are in this position. However, the president did not pay attention to the parties affected by the economic crisis. United People's Power MP Dr. Harsha de Silva said that we will definitely reconsider the accepted conditions.
-
-He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (07).
-
-Since President Ranil Wickremesinghe will unite with President Ranil Wickremesinghe, Mr. Madura Vidhanage, a member of the PA, is falsely accused of me.
-
-All members of the United National Party (UNP) have left with Sajith Pradeasa. We are acting in accordance with the policy of DS Senanayake.
-
-He (Madurai Vidhanage) mentions that I submit the X website record I posted on 2022.05.10. He did not submit that record.
-
-...
-
-[Data](articles/a988e190.json)
-
-[Extended Data](ext_articles/a988e190.ext.json)
-
----
-
-### Sri Lanka named Sri Lanka Test squad against England
-
-*2024-08-07 17:19:38* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තයට-එරෙහි-ශ්‍රී-ලංකා-ටෙස්ට්-සංචිතය-නම්-කරයි/11-411253) · `si`
-
-Sri Lanka announced its Test squad for the match against England today, including 18 players led by Dhananjaya de Silva.
-
-🟩
-
-Sri Lanka Test squad against England was named today (07).
-
-Eighteen players have been named for the squad of Dhananja de Silva.
-
-◼️
-
-[Data](articles/b1df88d4.json)
-
-[Extended Data](ext_articles/b1df88d4.ext.json)
-
----
-
-### Here is the candidate that comes from the umbrella
-
-*2024-08-07 17:08:26* · [`adalk`](https://www.ada.lk/breaking_news/කුඩය-ලකුණින්-එන-අපේක්ෂකයා-මෙන්න/11-411252) · `si`
-
-Mahinda Rajapaksa and Nuwan Bopage, under the Janatha Vimukthi Peramuna (JVP) banner, will run in the upcoming presidential election.
-
-🟩
-
-President Mahinda Rajapen, Nuwan Bopage, will contest the next presidential election in the Janama Struggle TNA.
-
-◼️
-
-[Data](articles/42ac63c3.json)
-
-[Extended Data](ext_articles/42ac63c3.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 301.55/65 to US dollar
-
-*2024-08-07 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-301-55-65-to-us-dollar-175896/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 301.55/65 to the US dollar on Wednesday, from 302.10/20 to the US dollar on Tuesday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.80/11.05 percent, up from 10.75/85 percent.
-
-A bond maturing on 15.12.2027 closed at 11.95/12.10 percent, up from 11.85/12.05 percent.
-
-A bond maturing on 15.02.2028 closed at 12.25/35 percent, up from 12.23/28 percent.
-
-A bond maturing on 15.09.2029 closed at 12.50/70 percent, up from 12.48/58 percent.
-
-A bond maturing on 15.10.2030 closed at 12.85/95 percent, up from 12.80/90 percent. (Colombo/Aug7/2024)
-
-◼️
-
-[Data](articles/b4b1923d.json)
-
-[Extended Data](ext_articles/b4b1923d.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190498) · `ta`
-
-The US dollar exchanged at Rs 297.5065 for purchase and Rs 306.7677 for sale according to the Central Bank's rates on August 07.
-
-🟩
-
-The US dollar purchasing price was Rs 297.5065, based on the currency exchange rate issued by the Central Bank on Wednesday (August 07) and the sales price were Rs 306.7677.
-
-◼️
-
-[Data](articles/a6ff6948.json)
-
-[Extended Data](ext_articles/a6ff6948.ext.json)
 
 ---

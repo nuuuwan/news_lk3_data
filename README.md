@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 22:36:37**
+As of **2024-08-08 22:55:05**
 
 ## Newspaper Stats
 
-*Scraped **39,712** Articles*
+*Scraped **39,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,292
-adaderanasinhalalk | 6,736
+adaderanasinhalalk | 6,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,711 (100.0%) of 39,712 articles have been extended.
+39,712 (100.0%) of 39,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ලාල්කාන්තව අත්අඩංගුවට ගන්නැයි කියයි
+
+*2024-08-08 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199728) · `si`
+
+රාජ්‍ය විරෝධී කුමන්ත්‍රණ කිරීම වෙනුවෙන් දණ්ඩ නීති සංග්‍රහයේ පවතින නීති ප්‍රකාරව ජාතික ජන බලවේගයේ විධායක මණ්ඩල සභික කේ .ඩී. ලාල්කාන්ත මහතා වහා අත්අඩංගුවට ගෙන දඬුවම් ලබාදිය යුතු බව සමගි නීතිඥ සංගමය පවසයි.
+
+ඒ අරගලය පාර්ලිමේන්තුව දෙසට හැරවීමට ගත් උත්සාහය අසාර්ථක වූ බවට කේ.ඩී. ලාල්කාන්ත මහතා පසුගියදා සිදුකළ ප්‍රකාශයට එරෙහිව එම සංගමයේ සාමාජිකයින් අද (08) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිල්ලක් සිදුකිරීමට පැමිණි අවස්ථාවේදී ය.
+
+◼️
+
+[Data](articles/cacb6ad6.json)
+
+---
 
 ### Foreign Minister Ali Sabry to visit Egypt
 
@@ -47,6 +61,8 @@ The bilateral visit is expected to further consolidate the longstanding ties bet
 ◼️
 
 [Data](articles/4a8daac2.json)
+
+[Extended Data](ext_articles/4a8daac2.ext.json)
 
 ---
 
@@ -2335,25 +2351,5 @@ In addition, the police said that the two suspects are taking steps to produce t
 [Data](articles/b722697e.json)
 
 [Extended Data](ext_articles/b722697e.ext.json)
-
----
-
-### Sajith arrives as ceremonial launch of ‘Samagi Jana Sandanaya’ begins
-
-*2024-08-08 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101077/sajith-arrives-as-ceremonial-launch-of-samagi-jana-sandanaya-begins) · `en`
-
-The ceremony to unveil the “Samagi Jana Sandanaya” (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB), has officially commenced with the arrival of its presidential candidate Sajith Premadasa.
-
-The launch ceremony commenced, a short while ago, at the Sugathadasa Indoor Stadium in Colombo.
-
-The SJB is expected to form an alliance with several political parties that hold seats in Parliament to face the upcoming Presidential Election.
-
-Additionally, the policies of the ‘Samagi Jana Sandanaya’ will be announced today while SJB leader Sajith Premadasa will also be presented as the Presidential Candidate of the alliance.
-
-◼️
-
-[Data](articles/da3b6f84.json)
-
-[Extended Data](ext_articles/da3b6f84.ext.json)
 
 ---

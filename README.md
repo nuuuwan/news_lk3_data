@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 08:25:49**
+As of **2024-08-08 08:36:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,565 (100.0%) of 39,573 articles have been extended.
+39,570 (100.0%) of 39,573 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,15 +48,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 121 தேர்தல் சட்டம் மீறல் முறைப்பாடுகள்
+### 121 Election Act Breaks Complaints
 
 *2024-08-08 07:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/121-தேர்தல்-சட்டம்-மீறல்-முறைப்பாடுகள்/175-341779) · `ta`
 
-அத்துடன், 2024 ஜனாதிபதி தேர்தலை முன்னிட்டு இதுவரை 22 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். (a)
+The 121 Election Act addresses complaints, while 22 candidates are under scrutiny for the 2024 presidential election.
+
+🟩
+
+In addition, 22 candidates have been controlled by the 2024 presidential election.(a)
 
 ◼️
 
 [Data](articles/b8ae3d02.json)
+
+[Extended Data](ext_articles/b8ae3d02.ext.json)
 
 ---
 
@@ -155,6 +161,8 @@ Both wounded persons were admitted to the Negombo Hospital, where the passenger 
 ◼️
 
 [Data](articles/f69082eb.json)
+
+[Extended Data](ext_articles/f69082eb.ext.json)
 
 ---
 

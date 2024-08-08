@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 20:55:20**
+As of **2024-08-08 21:06:21**
 
 ## Newspaper Stats
 
-*Scraped **39,695** Articles*
+*Scraped **39,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,285
 economynextcom | 2,410
 dailyftlk | 2,551
 adalk | 3,644
-adaderanalk | 4,610
+adaderanalk | 4,611
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,283
@@ -26,67 +26,105 @@ adaderanasinhalalk | 6,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,691 (100.0%) of 39,695 articles have been extended.
+39,695 (100.0%) of 39,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### මැතිවරණ නිලධාරීන් තෙල් සංස්ථාවට පනී
+### Sri Lanka raises safety concerns ahead of England Tests due to anti-immigrant riots in UK: Report
+
+*2024-08-08 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101090/sri-lanka-raises-safety-concerns-ahead-of-england-tests-due-to-anti-immigrant-riots-in-uk-report) · `en`
+
+Cricket Sri Lanka has raised concerns over the safety of its Test team ahead of the three-match series against England, starting on August 21 in Manchester, due to anti-immigrant riots that have erupted in various cities of the United Kingdom.
+
+According to a report in ESPNCricinfo, the Sri Lankan players already in England - seven players and two support staff - have asked the country’s cricket board to arrange for better security over the next few days, as they travel to and from a ground near London, due to the widespread riots targeting immigrants in the UK.
+
+The riots in the UK have taken place after a mass stabbing incident in Southport, where three children were killed. Due to disinformation about the attackers, many immigrants, as well as their businesses and places of worship, have come under attack from far-right groups.
+
+...
+
+[Data](articles/ebacb589.json)
+
+---
+
+### Elections Officers jump to the CMC
 
 *2024-08-08 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199723) · `si`
 
-මැතිවරණ කොමිසමේ නිලධාරීන් සහ පොලිස් නිලධාරීන් පිරිසක් අද (08) පෙරවරුවේ ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ දෙමටගොඩ ප්‍රධාන කාර්යාලය වෙත පැමිණ තිබුණි.
+Election officials and police visited the Ceylon Petroleum Corporation's Dematagoda Head Office due to concerns over the lack of introduction to the Elections Commission regarding new fuel stations and warehouses. This includes the introduction of new staff to the warehouse terminal and a lab. Additionally, the "Dhamma Big Fokey" program highlighted the number of presidential election candidates. The Election Commission Chairman mentioned limitations on ballot paper sizes, stating that exceeding lengths require changes to avoid practical issues like extended voting times.
 
-ඒ, ජනාධිපතිවරණය ප්‍රකාශයට පත්කර තිබියදී නව ඉන්ධනහල් බලපත්‍ර ලබාදීම, ගබඩා පර්යන්ත සමාගමට නව පිරිස් බල සැකැස්මක් හඳුන්වාදීම, ඇතුළු කරුණු කිහිපයකට අදාළව මැතිවරණ කොමිසමට ලද පැමිණිල්ලක විමර්ශන කටයුතු සඳහාය.
+🟩
 
-මේ අතර ජනාධිපතිවරණයේ අපේක්ෂකයින් සංඛ්‍යාව ඉහළ යමින් පැවතීම සම්බන්ධයෙන් අද දෙරණ 'බිග් ෆෝකස්' වැඩසටහනේදී අවධානය යොමු කෙරුණි.
+A group of Elections Commission officials and police officers had arrived at the Dematagoda Head Office at Ceylon Petroleum Corporation this morning.
 
-එහිදී අදහස් දැක්වූ මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පැවසුවේ,
+The introduction of new fuel station and warehouse peripheral fuel lack of introduction to the Elections Commission, including the introduction of new personnel to the warehouse terminal, is the introduction of new personnel laboratory to the Election Commission, introducing a new fuel station and other personnel.
 
-"ඡන්ද පත්‍රිකා මුද්‍රණය කරන යන්ත්‍රවලත් සීමාවක් තිබෙනවා... දිග ප්‍රමාණය. මේක ප්‍රමාණය ඉක්මවා ගියොත් ඡන්ද පත්‍රිකාවේ හැඩය වෙනස් කරන්න වෙයි. ඡන්ද පත්‍රිකාව දිගු වුණොත් ප්‍රායෝගික ගැටලු රැසක් ඇති වෙනවා. ඡන්දය දෙන කුටිය තුළ වැඩි වෙලාවක් එක ඡන්ද දායකයෙකුට ගත කිරීමටත් සිදුවෙයි."
+Meanwhile, Dhamma 'Big Fokey' program focused on the existence of the number of candidates of the presidential election.
+
+Chairman of the Election Commission, Chairman of the Indicultural Commission. Mr. Ratnayake said,
+
+"There is a limit to the machines printing ballot papers.. The amount of length. If this exceeds the size, the ballot is to be changed. If the ballot paper extends, there are many practical issues. The voting stall will have more time to spend a voter. "
 
 ◼️
 
 [Data](articles/e7f66e75.json)
 
+[Extended Data](ext_articles/e7f66e75.ext.json)
+
 ---
 
-### கெஹலியவுக்கு எதிரான வழக்கு ; இருவருக்கு பிணை
+### Case against Keheliya;Bail
 
 *2024-08-08 19:55:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-இருவருக்கு-பிணை/175-341828) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட மூவர் எதிர்வரும் 22ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Keheliya Rambukwella, along with two others, remains in custody till the 22nd, while Janaka Chandragupta and Saman Ratnayake have been granted bail after appearing in court.
 
-இதேவேளை, சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக சந்திரகுப்த மற்றும் சுகாதார அமைச்சின் முன்னாள் மேலதிக செயலாளர் சமன் ரத்நாயக்க ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+🟩
 
-சந்தேகநபர்கள் இன்று (08) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+Three persons, including former Health Minister Keheliya Rambukwella, have been kept in remand until the 22nd of this month.
+
+Meanwhile, former Secretary of the Ministry of Health, Janaka Chandragupta and former Additional Secretary of the Ministry of Health, Saman Ratnayake have been released on bail.
+
+The order was issued when the suspects were produced before the Magistrate's Court today (08).. Remble
 
 ◼️
 
 [Data](articles/0113ceb9.json)
 
+[Extended Data](ext_articles/0113ceb9.ext.json)
+
 ---
 
-### மாணவனை கொடூரமாக தாக்கிய பொலிஸ் அதிகாரிகள்?
+### Police officers who brutally assaulted the student?
 
 *2024-08-08 19:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனை-கொடூரமாக-தாக்கிய-பொலிஸ்-அதிகாரிகள்/175-341827) · `ta`
 
-பயாகல பொலிஸ் போக்குவரத்து உத்தியோகத்தர்களினால் 16 வயதுடைய பாடசாலை மாணவர் ஒருவர் கொடூரமான முறையில் தாக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக, களுத்துறை நாகொட போதனா வைத்தியசாலையின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+A 19-year-old schoolgirl, Tarusha Jal, was severely beaten by Biyagala Police Transport Officers after an incident involving a motorcycle ride without a helmet. The officers chased her and her friend, leading to the assault. One officer fell and allegedly trampled her back. The case has been reported to the Senior Superintendent of Police Kalutara, and the offending officer has been transferred while investigations continue.
 
-பயாகல, மலேகொட பிரதேசத்தைச் சேர்ந்த தருஷா ஜினால் என்ற பாடசாலை மாணவனே இதில் பாதிக்கப்பட்டுள்ளார்.
+🟩
 
-குறித்த மாணவன் நேற்று (07) பிற்பகல் தனது தந்தையின் மோட்டார் சைக்கிளில் நண்பருடன் அருகில் உள்ள கடைக்கு சென்றுள்ளார். அந்த நண்பர் பாதுகாப்பு தலைக்கவசத்தை அணியவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
+A 19 -year -old schoolgirl has been brutally beaten to the hospital by the Biyagala Police Transport Officers, a spokesman for the Kalutara Nagoda Teaching Hospital said.
 
-அதனைக் கண்ட பயாகல பொலிஸ் போக்குவரத்து பிரிவின் நடமாடும் கடமைகளில் ஈடுபட்டிருந்த இரு அதிகாரிகள் அவர்களை துரத்திச் சென்று மோட்டார் சைக்கிளை நிறுத்தி அவர்களை திட்டியுள்ளனர்.
+Tarusha Jal, a schoolgirl from Biyagala, Malagoda, has been affected.
 
-இதனால் பயந்துபோன பாடசாலை மாணவர் மோட்டார் சைக்கிளை ஓட்டிக்கொண்டு அருகில் உள்ள உறவினர் வீட்டிற்கு சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+The student went to a nearby shop on his father's motorcycle yesterday afternoon (07). It has been reported that the friend did not wear a security helmet.
 
-அதன்படி, அவர்களைப் பின்தொடர்ந்து வந்த பொலிஸார் மீண்டும் மோட்டார் சைக்கிளில் வந்த மாணவனைத் தாக்கியுள்ளனர்.
+Two officers who were involved in the mobile duties of the Bayakala Police Transport Division had chased them and scolded them.
+
+It is reported that the school student, who was scared, was driving a motorcycle and went to the nearest relative's house.
+
+Accordingly, the police, who followed them, attacked the student who was on a motorcycle again.
+
+The student noted that a police officer fell to the ground and trampled his back.
+
+The student's father has lodged a complaint with the Senior Superintendent of Police Kalutara.
 
 ...
 
 [Data](articles/a6d6ccea.json)
+
+[Extended Data](ext_articles/a6d6ccea.ext.json)
 
 ---
 
@@ -700,15 +738,21 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 ---
 
-### පවිත්‍රාගේ සහයත් රනිල්ට
+### Pavithra's support to Ranil
 
 *2024-08-08 16:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-සහයත්-රනිල්ට/11-411265) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්ව සිටින රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදීමට අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය තීරණය කර තිබේ.
+Minister Pavithra Wanniarachchi backs Ranil Wickremesinghe as an independent presidential candidate, signaling a significant political move ahead of the upcoming election.
+
+🟩
+
+Minister Pavithra Wanniarachchi has decided to support Ranil Wickremesinghe as an independent candidate for the next presidential election.
 
 ◼️
 
 [Data](articles/65e644c4.json)
+
+[Extended Data](ext_articles/65e644c4.ext.json)
 
 ---
 
@@ -2283,31 +2327,5 @@ Following this, Mohammed Yunus was appointed by President Mohammed Shahabuddin a
 [Data](articles/b8202b73.json)
 
 [Extended Data](ext_articles/b8202b73.ext.json)
-
----
-
-### Arjuna is a great welcome
-
-*2024-08-08 09:37:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜுனாவிற்கு-அமோக-வரவேற்பு/175-341787) · `ta`
-
-On Wednesday, the Mannar district warmly welcomed Dr. Arjuna, who was conditionally released after being arrested for entering the Mannar District General Hospital on Friday night. The doctor was remanded until his appearance before the Mannar Magistrate on Wednesday, where Senior Attorney Anran Holy Naka represented him.
-
-🟩
-
-The people of Mannar district on Wednesday (07) gave a warm welcome to the doctor Arjuna, who was released on conditional on conditions.
-
-Dr. Archana Manna was arrested by the Mannar Police Station on charges that he had entered the Mannar District General Hospital last Friday night (02).
-
-The arrested doctor ordered him to be remanded until Wednesday (07) when he appeared before the Mannar Magistrate.
-
-When the case was taken up for hearing, the doctor Aruchuna was produced before the Mannar Court.
-
-Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at the forum.
-
-◼️
-
-[Data](articles/a2bc8298.json)
-
-[Extended Data](ext_articles/a2bc8298.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 13:55:55**
+As of **2024-08-08 14:08:34**
 
 ## Newspaper Stats
 
-*Scraped **39,639** Articles*
+*Scraped **39,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,75 @@ dailyftlk | 2,551
 adalk | 3,640
 adaderanalk | 4,603
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,989
+tamilmirrorlk | 4,990
 virakesarilk | 6,267
-adaderanasinhalalk | 6,716
+adaderanasinhalalk | 6,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,637 (100.0%) of 39,639 articles have been extended.
+39,639 (100.0%) of 39,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### දෙමළ පොදු අපේක්ෂකයා නම් කෙරේ
+### හසීනා පළා යද්දි අවාමි ලීග නායකයින් 29ක් ඝාතනය කරලා
+
+*2024-08-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199707) · `si`
+
+පසුගිය දිනවල බංග්ලාදේශයේ පැවැති ගැටුම්කාරී වාතාවරණය අතරතුර ඝාතනයට ලක්වූ බවට පැවසෙන ෂෙයික් හසීනාගේ අවාමි ලීගයේ නායකයින් 29 දෙනෙකුගේ මළ සිරුරු හමුවී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අගමැතිනිය රටින් පළායාමෙන් අනතුරුව මෙම පිරිස ඝාතනයට ලක්ව ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කෙරෙයි.
+
+වසර 15ක් රට පාලනය කළ අවාමි ලීගයේ සාමාජිකයින්ට අයත් නිවාස, ව්‍යාපාර, ආයතන ඇතුළු ස්ථාන රැසක් විනාශ කිරීමට හෝ කොල්ලකෑමට ඇතැම් ප්‍රචණ්ඩකාරී පිරිස් කටයුතු කර තිබුණි.
+
+ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රයේ ප්‍රවීණයෙක් වන නොබෙල් ත්‍යාගලාභී මුහමද් යුනිස්ගේ ප්‍රධානිත්වයෙන් යුතු අන්තර්වාර රජය අද (08) පත්කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/d3e000a5.json)
+
+---
+
+### Tamil common candidate is named
 
 *2024-08-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199706) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා දෙමළ ජාතික පොදු අපේක්ෂකයා ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාකියසෙල්වම් අරියනේත්‍රන් ඉදිරිපත් වන බව නිවේදනය කරයි.
+Former Parliamentarian Parliamentarvam Parkatha is the Tamil national common candidate for the upcoming presidential election, backed by several Tamil parties including CV. Wigneswaran's Tamil Peoples, Telu, Plot, EPRLF, Tamil Green, and others. The decision was made after signing a covenant between Tamil civil society and Tamil national parties. However, the Tamil National Alliance (TNA's Ilangai Youth Aeurusuki Party) has not declared its stance and is currently involved in a propaganda campaign.
 
-යාපනයේ සෙල්වා කලාගාරයේ අද (08) පැවති විශේෂ මාධ්‍ය හමුවකදී මේ සම්බන්ධයෙන් තීරණය ප්‍රකාශයට පත්කර ඇත.
+🟩
 
-ජනාධිපතිවරණය සඳහා දෙමළ පාර්ශ්වයෙන් පොදු අපේක්ෂකයෙකු ඉදිරිපත් කිරීම සඳහා දෙමළ සිවිල් සමාජය සහ දෙමළ ජාතික දේශපාලන පක්ෂ අතර ගිවිසුමක් පසුගියදා අත්සන් කෙරුණි.
+Former Parliamentarian Parliamentarian Parliamentarvam Parkatha is announced as the Tamil national common candidate for the next presidential election.
 
-සී.වී. විග්නේශ්වරන්ගේ දෙමළ ජනතා සන්ධානය, ටෙලෝ, ප්ලොට්, ඊපීආර්එල්එෆ්, දෙමළ ජාතික හරිත ව්‍යාපාරය, දෙමළ ජාතික පක්ෂය, ප්‍රජාතන්ත්‍රවාදී සටන්කාමී පක්ෂය, සිවිල් සමාජ සංවිධාන සමඟ එක්ව දෙමළ පොදු අපේක්ෂකයාට සහාය පළ කර තිබේ.
+The decision was announced at a special media briefing held at the Selva labroom today (08).
 
-දෙමළ ජාතික සන්ධානයට අයත් ඉලංගෙයි තමිල් අරුසුකච්චි පක්ෂය ජනාධිපතිවරණය සම්බන්ධයෙන් සිය ස්ථාවරය මෙතෙක් ප්‍රකාශ කර නොමැති අතර සමස්ත ලංකා දෙමළ කොංග්‍රසය ජනාධිපතිවරණය වර්ජනය කිරීමේ ප්‍රචාරක කටයුතුවල නිරතව සිටී.
+A covenant between Tamil civil society and the Tamil national parties were signed to present a common candidate from the Tamil party for the presidential election.
+
+CV. Wigneswaran's Tamil Peoples, Telu, Plot, EPRLF, Telu, Plot, Tamil Green, Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, supported the Tamil common candidate.
+
+The Tamil National Alliance (TNA's Ilangai Youth Aeurusuki Party) has not yet stated its position on presidential election and is engaged in propaganda campaign.
 
 ◼️
 
 [Data](articles/efd98449.json)
+
+[Extended Data](ext_articles/efd98449.ext.json)
+
+---
+
+### பவித்ராவும் ஜனாதிபதிக்கு ஆதரவு
+
+*2024-08-08 13:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-ஜனாதிபதிக்கு-ஆதரவு/175-341807) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்கவுள்ளதாக நீர்ப்பாசன, வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு அமைச்சர் பவித்ரா வன்னியாராச்சி இன்று (08) தெரிவித்தார்.
+
+இதேவேளை, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதில்லை என ஜூலை 30 ஆம் திகதியன்று நடைபெற்ற கூட்டத்தில் ஸ்ரீ லங்கா பொதுஜன முன்னணி தீர்மானித்து இருந்தது. அந்த கூட்டத்தில்  அமைச்சர் பவித்ரா வன்னியாராச்சியும் பங்கேற்று இருந்தார் என்பது குறிப்பிடத்தக்கது,
+
+◼️
+
+[Data](articles/3e3ba784.json)
 
 ---
 
@@ -67,6 +105,8 @@ The signatories include C. V. Vigneswaran of Tamil People’s Alliance, Selvam A
 ◼️
 
 [Data](articles/a48c8bf4.json)
+
+[Extended Data](ext_articles/a48c8bf4.ext.json)
 
 ---
 
@@ -2213,55 +2253,5 @@ Meanwhile, 9 doctors are coming to our hospital. To ensure their safety. Otherwi
 [Data](articles/e8c527d4.json)
 
 [Extended Data](ext_articles/e8c527d4.ext.json)
-
----
-
-### Model Ranil
-
-*2024-08-08 01:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்த-மொட்டுக்கள்-அஞ்சுகின்றன/175-341770) · `ta`
-
-SM Marikar criticized those who joined Ranil from the Mottu party and Namal Rajapaksa, fearing their future under Namal's candidacy. He addressed Parliament, expressing concern over the government's financial state and allegations of corruption. The government is expected to present a proposal in Parliament, aiming for public satisfaction. However, Marikar suggested understanding the real situation by visiting local areas in Colombo. He also mentioned the ongoing investigation into alleged financial misdeeds, hinting at potential repercussions.
-
-🟩
-
-United People's Power MP SM Marikar said that those who surrendered to Ranil from the Mottu party and Namal Rajapaksa were afraid of what their future would be when Namal Rajapaksa was announced as the candidate of the party.
-
-He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (07).
-
-We think the government will present the proposal in Parliament today in the hope that people are happy and happy. But the government does not need to go to far away places. Going to some places in Colombo can understand how the situation really looks like.
-
-...
-
-[Data](articles/8f03c675.json)
-
-[Extended Data](ext_articles/8f03c675.ext.json)
-
----
-
-### Praise
-
-*2024-08-08 01:11:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையின்றி-புகழ்பாடுகிறனர்/175-341769) · `ta`
-
-In a parliamentary address, criticism was aimed at Ranil Wickremesinghe, accusing him of ignoring conditions set by the opposition. Despite economic issues, the state remains affluent. The government was blamed for its handling of the crisis, with calls for leadership from Sajith Premadasa. Traditional parties support Rajapaksa, while Tamils and Muslims back Premadasa, who is expected to assume control soon.
-
-🟩
-
-Ranil today is not as good as Ranil Wickremesinghe to be sent to the jail. But the Tamil and Muslim people will not go to that point.
-
-He said this while addressing the adjournment debate of the House on Wednesday (07) in Parliament.
-
-Most of the state side are rich despite the bankruptcy.
-
-The state government has accused the government of not taking responsibility for the government during the economic crisis in the country. The then President of the Opposition, Sajith Premadasa, called for the government to take charge of the government. We have put forward the conditions of the party.
-
-Ranil Wickremesinghe, who ignored our conditions, selected Ranil Wickremesinghe as the guardian of the Rajapaksa.
-
-Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil Wickremesinghe.. But members of the traditional PA and the Freedom Party, which are supportive of former President Mahinda Rajapakse, will not take an alternative political decision.
-
-...
-
-[Data](articles/4bd4cda3.json)
-
-[Extended Data](ext_articles/4bd4cda3.ext.json)
 
 ---

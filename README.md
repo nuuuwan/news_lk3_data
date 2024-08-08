@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 08:15:52**
+As of **2024-08-08 08:25:49**
 
 ## Newspaper Stats
 
-*Scraped **39,570** Articles*
+*Scraped **39,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ dailyftlk | 2,551
 adalk | 3,634
 adaderanalk | 4,593
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,973
+tamilmirrorlk | 4,974
 virakesarilk | 6,252
-adaderanasinhalalk | 6,701
+adaderanasinhalalk | 6,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,565 (100.0%) of 39,570 articles have been extended.
+39,565 (100.0%) of 39,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### தபால் வாக்களிப்பு விண்ணப்ப காலம் நாளையுடன்  நிறைவு
+
+*2024-08-08 08:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்ப-காலம்-நாளையுடன்-நிறைவு/175-341780) · `ta`
+
+ஜனாதிபதித் தேர்தல் தபால் மூல வாக்களிப்புக்காக விண்ணப்பங்களைச் சமர்ப்பிப்பதற்கான, கால அவகாசம் நாளை நள்ளிரவுடன் நிறைவடையவுள்ளது.
+
+கடந்த 5 ஆம் திகதியுடன் தபால் மூல வாக்களிப்புக்கு விண்ணப்பிக்கும் காலம் நிறைவடையவிருந்த நிலையில், அது நாளை நள்ளிரவு வரை நீடிக்கப்பட்டுள்ளது.
+
+அதேநேரம், எந்தவொரு காரணத்திற்காகவும் தபால் மூல வாக்களிப்புக்கான விண்ணப்பக் காலம் மீண்டும் நீடிக்கப்படமாட்டாது எனத் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/0874b7c7.json)
+
+---
 
 ### 121 தேர்தல் சட்டம் மீறல் முறைப்பாடுகள்
 
@@ -41,6 +57,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b8ae3d02.json)
+
+---
+
+### ජනාධිපතිවරණයේ ප්‍රබලයා
+
+*2024-08-08 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199691) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේ දී ප්‍රබලම අපේක්ෂකයා නාමල් රාජපක්ෂ මහතා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ඩි.වී. චානක මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, සිය පක්ෂය අතහැර ගිය සෙසු සාමාජිකයින් ඉදිරියේ දී යළි පක්ෂය සමග එක්වනු ඇති බවය.
+
+තරුණ පාර්ලිමේන්තුවේ නියෝජිතයින් පිරිසක් සමග හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සහ නාමල් රාපක්ෂ මහතා අතර පැවති සාකච්ඡාවකින් අනතුරුව ඩි.වී.චානක මන්ත්‍රීවරයා මෙම අදහස් පළ කළේය.
+
+"අදටත් අපි විශ්වාස කරනවා පොදුජන පෙරමුණේ ඡන්ද ටික ඔක්කෝම තියෙන්නේ මහින්ද රාජපක්ෂ මහතා වටේ. මේ වෙනකොටත් අපේ ආසන සංවිධායකවරුන්ගෙන් 90%ක ප්‍රමාණයක් අපිත් එක්ක ඉන්නවා. 10%ක ප්‍රමාණයක් තමයි ජනාධිපතිවරයා එක්ක එකතුවුණේ. ඒ අයත් දැන් පෝළිමක් ඇවිත් තියෙනවා අපෙන් ආසන සංවිධායකකම ලබාගන්න. අපේ යාළුවන්ට ආරාධනා කරනවා අපිත් එක්ක එකතු වෙන්න. දකුණේ ඉන්න ප්‍රබලම අපේක්ෂකයා ඉන්නේ අපි ගාව"
+
+කෙසේවෙතත් සිය සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ලබාදීමේ කිසිදු වෙනසක් නොවන බව රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/8fa0b45a.json)
+
+---
+
+### රාජ්‍ය-පෞද්ගලික අංශයට අමතරව ජනතා අංශයක්
+
+*2024-08-08 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199690) · `si`
+
+රාජ්‍ය අංශය සහ පෞද්ගලික අංශයට අමතරව ජනතා අංශයක් ද ඇති කර ජනතාව ආර්ථික වශයෙන් නගා සිටුවීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ ජනතා අංශයේ ධාවකයා බවට සමූපකාර ව්‍යාපාරය පත්කිරීම වෙනුවෙන් ස්වාධීන හා ශක්තිමත් සමූපකාර ව්‍යාපාරයක් රට තුළ ගොඩනගන බවය.
+
+සමූපකාර ව්‍යාපාරයේ ඉදිරි ගමන්මග පිළිබඳව සාකච්ඡා කිරීම සදහා කොළඹ ශ්‍රී ලංකා ප්‍රදර්ශන හා සම්මේලන මධ්‍යස්ථානයේ පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/9ee2b8c4.json)
 
 ---
 
@@ -2211,71 +2263,5 @@ Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
 [Data](articles/ad72cfce.json)
 
 [Extended Data](ext_articles/ad72cfce.ext.json)
-
----
-
-### 13 year old boy missing
-
-*2024-08-07 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199667) · `si`
-
-A 13-year-old boy from Vavuniya has gone missing since May 6th. The Piliyandala Police Station is investigating the case. A photo of the child is available, and the police ask anyone with information to contact them.
-
-🟩
-
-The police have lodged a complaint that a 13 year old boy had disappeared.
-
-The Piliyandala Police Station has commenced investigations into a complaint carried out by the father of the 6th May.
-
-The disappearance is a child, Vavuniya, Vavuniya, Vavuniya, Vavuniya.
-
-The photo of the missing child is above the above and the police urge the public to inform the telephone numbers below.
-
-◼️
-
-[Data](articles/514bb381.json)
-
-[Extended Data](ext_articles/514bb381.ext.json)
-
----
-
-### Never safeguarded anyone accused of corruption - President Ranil
-
-*2024-08-07 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101060/never-safeguarded-anyone-accused-of-corruption-president-ranil) · `en`
-
-President Ranil Wickremesinghe has stated that while others only talk about corruption, he has introduced numerous legislations to prevent it.
-
-Addressing a meeting with the heads of media organisations today, he said that the Proceeds of Crime Act will also be presented to the Cabinet next week.
-
-Wickremasinghe further emphasised that he has never protected anyone accused of corruption, according to the President’s Media Division.
-
-Responding to questions from the media heads, the President further said that Sri Lanka cannot change any of the benchmarks of the agreements made with the IMF or creditors, as the country would risk losing the funding.
-
-Hence, all candidates must be truthful to voters”, President Wickremesinghe said during the meeting this morning.
-
-“I have proved my capability twice and have no competition with anyone. My focus is on advancing the country,” he said responding to another query.
-
-◼️
-
-[Data](articles/5dcbed2a.json)
-
-[Extended Data](ext_articles/5dcbed2a.ext.json)
-
----
-
-### President Ranil says he has never safeguarded anyone accused of corruption
-
-*2024-08-07 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101060/president-ranil-says-he-has-never-safeguarded-anyone-accused-of-corruption) · `en`
-
-President Ranil Wickremesinghe has stated that while others only talk about corruption, he has introduced numerous legislations to prevent it.
-
-Addressing a meeting with the heads of media organisations today, he said that the Proceeds of Crime Act will also be presented to the Cabinet next week.
-
-Wickremasinghe further emphasised that he has never protected anyone accused of corruption, according to the President’s Media Division.
-
-◼️
-
-[Data](articles/7029dfa1.json)
-
-[Extended Data](ext_articles/7029dfa1.ext.json)
 
 ---

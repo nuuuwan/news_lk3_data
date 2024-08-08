@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 06:03:15**
+As of **2024-08-08 07:02:28**
 
 ## Newspaper Stats
 
-*Scraped **39,542** Articles*
+*Scraped **39,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 340
 newsfirstlk | 363
 bbccomsinhala | 372
 colombotelegraphcom | 376
-islandlk | 2,274
+islandlk | 2,285
 economynextcom | 2,397
-dailyftlk | 2,543
+dailyftlk | 2,551
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
@@ -26,11 +26,157 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,535 (100.0%) of 39,542 articles have been extended.
+39,542 (100.0%) of 39,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### How do you want Sri Lanka to be in the future?
+
+*2024-08-08 06:06:43* · [`dailyftlk`](https://www.ft.lk/columns/How-do-you-want-Sri-Lanka-to-be-in-the-future/4-765281) · `en`
+
+I am therefore compelled to ask from all frontline Presidential candidates “What is the Sri Lanka you wish to see five years hence” that you want people to vote you for? – Pic by Shehan Gunasekara
+
+Presidential elections fixed for 21 September, with nominations on 15 August, by now have received deposits from 14 presidential aspirants, including President Wickremesinghe as an independent and Sajith P from the SJB. Even after his deposit was paid and as the first to do so, Colombo is not certain, Wickremesinghe would contest.
+
+...
+
+[Data](articles/e37a9547.json)
+
+---
+
+### ICC International Court of Arbitration President meets Add. Solicitor General
+
+*2024-08-08 06:01:20* · [`dailyftlk`](https://www.ft.lk/business/ICC-International-Court-of-Arbitration-President-meets-Add-Solicitor-General/34-765279) · `en`
+
+Additional Solicitor General Sumathi Dharmawardena PC meets International Chamber of Commerce (ICC) International Court of Arbitration President Claudia Salomon
+
+During a recent visit to Paris, Additional Solicitor General Sumathi Dharmawardena PC had the opportunity to meet International Chamber of Commerce (ICC) International Court of Arbitration President Claudia Salomon.
+
+He discussed matters relating to dispute resolution in Sri Lanka, proposed amendments to the Arbitration law in Sri Lanka with the ICC President, and highlighted their productive discussion on advancing arbitration activities in Sri Lanka, which is expected to enhance the ICC Sri Lanka’s role in conducting training programs in Sri Lanka.
+
+...
+
+[Data](articles/fdff00b5.json)
+
+---
+
+### Ceylon Chamber launches BCCS Awards 2024
+
+*2024-08-08 05:59:13* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-launches-BCCS-Awards-2024/34-765278) · `en`
+
+The Ceylon Chamber of Commerce has announced the launch of the Best Corporate Citizen Sustainability (BCCS) Awards 2024 at a seminar to brief prospective applicants on the awards process for the year 2024.
+
+Held this year for the 21st consecutive year, the BCCS Awards, which champion corporate sustainability in an increasingly environmentally vulnerable world, are one of the most anticipated events in the corporate calendar.
+
+The briefing webinar was led by a veteran in the field of sustainability and Panel of Evaluators Chairman Rathika de Silva. Stressing the urgency of mainstreaming ESG practices in core business processes and corporate strategies, de Silva called upon companies to continue to raise the bar in incorporating ESG practices into their operations.
+
+He was joined by Ravi De Silva, Prof. Sashika Manoratne, Daniel Dissanayaka, and Imalka Iddamalgoda.
+
+...
+
+[Data](articles/e021fe27.json)
+
+---
+
+### Dayasiri’s SLFP inks MoU to support Sajith
+
+*2024-08-08 05:56:53* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-s-SLFP-inks-MoU-to-support-Sajith/56-765277) · `en`
+
+SJB leader Sajith Premadasa says signing of the MoU is not merely start of an opportunistic political quest for power
+
+Emphasises that SJB and SLFP are coming together due to their shared policies and goals
+
+SLFP’s Dayasiri Jayasekara urges public to support Premadasa emphasising that only he possesses strength to lead SL forward
+
+Requests Premadasa to support SLFP’s efforts to rebuild party once he is elected President
+
+The Sri Lanka Freedom Party (SLFP) faction, led by General Secretary Dayasiri Jayasekara, signed a Memorandum of Understanding (MoU) with the Samagi Jana Balawegaya (SJB) yesterday, committing to support Sajith Premadasa’s candidacy in the upcoming Presidential election.
+
+The MoU was signed during a ceremony in Battaramulla, attended by party leaders, clergy, and supporters.
+
+...
+
+[Data](articles/391fac33.json)
+
+---
+
+### Pro-RW Pohottuwa MPs say support for him remains unchanged
+
+*2024-08-08 05:55:02* · [`dailyftlk`](https://www.ft.lk/news/Pro-RW-Pohottuwa-MPs-say-support-for-him-remains-unchanged/56-765276) · `en`
+
+SLPP’s Rohitha Abeygunawardena claims supporters are urging party leaders to maintain their support for Ranil Wickremesinghe
+
+SLPP MP Prasanna Ranatunga opines announcement of Namal Rajapaksa’s candidacy was made simply to fulfil need for an announcement
+
+SLPP MP S.B. Dissanayake says Namal will not contest as it would spell the end of his political career
+
+Sri Lanka Podujana Peramuna (SLPP) MPs who recently pledged their support to President Ranil Wickremesinghe have reaffirmed their decision to oppose the SLPP’s choice of candidate.
+
+The group convened with Minister Harin Fernando at a meeting in Battaramulla yesterday to deliberate on their next steps.
+
+After the meeting, Chief Government Whip Prasanna Ranatunge told the media that until late Tuesday, Dhammika Perera was expected to be announced as the party’s candidate.
+
+...
+
+[Data](articles/46b14327.json)
+
+---
+
+### Justice Ministry brought under President’s purview
+
+*2024-08-08 05:53:55* · [`dailyftlk`](https://www.ft.lk/news/Justice-Ministry-brought-under-President-s-purview/56-765275) · `en`
+
+The Ministerial portfolios of Justice, Prison Affairs and Constitutional Reforms have been brought under the purview of the President through a Gazette Extraordinary issued by the President.
+
+The Gazette Notification issued by the Secretary to the President Saman Ekanayake by order of the President stated that it was issued after having consulted with the Prime Minister under Article 44 (3) of the Constitution.
+
+Former Justice Minister Wijeyadasa Rajapakshe resigned from his portfolio in order to contest the Presidential election 2024.
+
+◼️
+
+[Data](articles/8a9755aa.json)
+
+---
+
+### Operation ‘Yukthiya’ 2nd phase: 776 more suspects arrested
+
+*2024-08-08 05:53:21* · [`dailyftlk`](https://www.ft.lk/news/Operation-Yukthiya-2nd-phase-776-more-suspects-arrested/56-765274) · `en`
+
+Sri Lanka Police has issued a press release on the anti-drug raids being carried out under the second phase of the “Yukthiya” operation.
+
+According to Sri Lanka Police, a total of 750 male suspects and 26 female suspects were arrested during 780 raids conducted within Tuesday under the second phase of the “Yukthiya” operation.
+
+Accordingly, the statement said that 22 of the arrested suspects will be detained for further investigations, 3 others are being investigated for the possession of illegal assets, and 3 suspects were sent to rehabilitation.
+
+Among the arrestees are 3 suspects who had pending warrant against them for narcotics-related charges and 19 others who had open warrants against them for non-drug-related charges.
+
+The authorities have also seized 326 g of heroin, 183 g of ‘Ice’ (Crystal methamphetamine) and 271 g of cannabis during the operation covering the Western Province.
+
+...
+
+[Data](articles/815c264c.json)
+
+---
+
+### Media should become a strong institution to save democracy: BASL ex-Chief
+
+*2024-08-08 05:52:09* · [`dailyftlk`](https://www.ft.lk/news/Media-should-become-a-strong-institution-to-save-democracy-BASL-ex-Chief/56-765273) · `en`
+
+SLPA President Kurulu Koojana Kariyakarawana presents a memento to former BASL President Saliya Peiris, PC, whilst BASL Secretary Attorney Chathura Galhena, SLPA Secretary General Tilak Senanayake, Legal Advisor Attorney Sandun Yapa Karunaratne, and ExCo member Attorney Lakmal Sooriyagoda are also present
+
+Media is an institution that should be strong and independent in order to prevent democracy from dying just like the judiciary, police and independent commissions and see that it is not weakened at any time.
+
+Editorial independence is a practice which all media institutions should follow, former President of BAR Association Sri Lanka (BASL) Saliya Peiris said.
+
+“Media should be a totally independent institution that is strong enough to prevent a gradual death of democracy. Editorial independence is essential in this regard,” Peiris told at senior seminar organised by Sri Lanka Press Association (SLPA) under the title “Role of Media and Law in Sri Lanka’s electoral landscape” on Tuesday.
+
+...
+
+[Data](articles/5464069b.json)
+
+---
 
 ### CEAT car radials chosen as original equipment for Hyundai Grand i10 assembled by Abans Auto
 
@@ -46,6 +192,8 @@ The partnership, which brings together two significant players in domestic value
 
 [Data](articles/f879d6a3.json)
 
+[Extended Data](ext_articles/f879d6a3.ext.json)
+
 ---
 
 ### Novacura Lanka unveils state-of-the-art office space at Marino Mall
@@ -59,6 +207,8 @@ Since its establishment in 2005, Novacura has strategically expanded across 10 c
 ...
 
 [Data](articles/6db33ef2.json)
+
+[Extended Data](ext_articles/6db33ef2.ext.json)
 
 ---
 
@@ -75,6 +225,8 @@ Present for the Grand Opening Ceremony were Chief Guest High Commission of India
 ...
 
 [Data](articles/ca4fa9f9.json)
+
+[Extended Data](ext_articles/ca4fa9f9.ext.json)
 
 ---
 
@@ -93,6 +245,8 @@ The Ceylon Institute of Builders (CIOB) has been very successfully conducting th
 ...
 
 [Data](articles/0895577a.json)
+
+[Extended Data](ext_articles/0895577a.ext.json)
 
 ---
 
@@ -114,6 +268,8 @@ The proposal, presented by President Ranil Wickremesinghe in his capacity as the
 
 [Data](articles/abedd4dd.json)
 
+[Extended Data](ext_articles/abedd4dd.ext.json)
+
 ---
 
 ### Knuckles project to establish Soil Spectroscopic Laboratory with international support
@@ -130,6 +286,8 @@ The International Centre for Research and Agroforestry has agreed to supply the 
 
 [Data](articles/a509e782.json)
 
+[Extended Data](ext_articles/a509e782.ext.json)
+
 ---
 
 ### National Chamber of Commerce to host Romanian Ambassador tomorrow
@@ -143,6 +301,8 @@ The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve a
 ...
 
 [Data](articles/04656ae9.json)
+
+[Extended Data](ext_articles/04656ae9.ext.json)
 
 ---
 
@@ -472,6 +632,78 @@ Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) 
 
 ---
 
+### Gestetner of Ceylon wins Ricoh Asia Pacific Top Performance Award 2023
+
+*2024-08-07 22:26:00* · [`islandlk`](http://island.lk/gestetner-of-ceylon-wins-ricoh-asia-pacific-top-performance-award-2023/) · `en`
+
+Gestetner of Ceylon PLC has been honored with prestigious awards at the Ricoh Asia Pacific annual Partner Meet held in Thailand. This recognition underscores the company’s commitment to excellence and innovation in the industry.
+
+At the event, Gestetner of Ceylon PLC was celebrated for its exceptional performance, receiving the APAC FY 2023 Top Performance Sales Award and the Top Achiever Award for Color Production Printer Sales.
+
+Ms. Anusha Embiliwatte, Executive Director of Gestetner of Ceylon PLC, expressed her pride, stating, “We are immensely proud and honored to receive these awards from Ricoh Asia Pacific. This recognition reflects our team’s hard work and dedication, our relentless pursuit of excellence, and our commitment to providing best-in-class products and services. These accolades inspire us to continue pushing the boundaries of innovation and delivering unparalleled value to our customers.”
+
+...
+
+[Data](articles/7417207d.json)
+
+---
+
+### NDB customers experience John Keells Properties’ VIMAN Ja-Ela model apartment
+
+*2024-08-07 22:26:00* · [`islandlk`](http://island.lk/ndb-customers-experience-john-keells-properties-viman-ja-ela-model-apartment/) · `en`
+
+John Keells Properties’ partnership with NDB is fulfilling the aspirations of many homebuyers to invest in their dream home at VIMAN Ja-Ela through the bank’s flexible mortgage solutions. Going a step further, John Keells Properties organized an event at its VIMAN model apartment for NDB’s premier customers on the 26th of June 2024.
+
+Sprawling across 6 acres in the heart of Ja-Ela, VIMAN offers a harmonious blend of modern comforts with 418 apartments and is designed to provide a secure, family-friendly environment with convenient access to Colombo city. Engaging closely with the customers, John Keells Properties’ Head of Sales and Marketing & Vice President – John Keells Group, Nadeem Shums, along with the John Keells Properties sales team, explained the various benefits offered by investing in VIMAN Ja-Ela and why it makes for a compelling investment and also the ideal place to live in.
+
+...
+
+[Data](articles/c99905b1.json)
+
+---
+
+### Jaffna joins IndiGo’s global network as its 34th International Destination with direct flights from Chennai
+
+*2024-08-07 22:25:00* · [`islandlk`](http://island.lk/jaffna-joins-indigos-global-network-as-its-34th-international-destination-with-direct-flights-from-chennai/) · `en`
+
+IndiGo, India’s preferred airline has announced Jaffna, Sri Lanka as the newest addition in its international route network. The airline will start non-stop daily flights between Chennai and Jaffna, starting September 01, 2024. Jaffna will be the second destination in Sri Lanka after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network.
+
+This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity. Bookings for the flight are open from August, 01, 2024.
+
+India has consistently held the position of the top primary market for international tourist arrivals to Sri Lanka. In June 2024, Indian arrivals accounted for 25.2% of the total, with over 28,631 travellers, compared to a 26.7% share in June 2023, with around 26,830 passengers.
+
+...
+
+[Data](articles/2c6c5d69.json)
+
+---
+
+### Sanjeewa Bandaranayake takes helm as CEO and General Manager
+
+*2024-08-07 22:25:00* · [`islandlk`](http://island.lk/sanjeewa-bandaranayake-takes-helm-as-ceo-and-general-manager/) · `en`
+
+People’s Leasing & Finance PLC, Sri Lanka’s leading non-bank financial services institution and a subsidiary of People’s Bank, has announced the appointment of Sanjeewa Bandaranayake as its new Chief Executive Officer (CEO) and General Manager (GM). His appointment is effective from 6th August 2024, and has received the approval of the Central Bank of Sri Lanka.
+
+Bandaranayake brings with him over 36 years of comprehensive experience, with 31 of those years dedicated to the Non-Banking Financial Institution (NBFI) sector. Having joined People’s Leasing & Finance PLC in 2007 as the Deputy General Manager of Finance and Administration, he has been instrumental in driving various strategic functions such as Finance, Treasury, Administration, Human Resources, Information Technology, Credit, and Marketing. His exceptional leadership and strategic business acumen have significantly contributed to the company’s consistent market leadership in the NBFI sector for 15 consecutive years.
+
+...
+
+[Data](articles/79ba26ef.json)
+
+---
+
+### Creative Catalyst Fellowship completes intensive residency program
+
+*2024-08-07 22:24:00* · [`islandlk`](http://island.lk/creative-catalyst-fellowship-completes-intensive-residency-program/) · `en`
+
+Good Life X recently concluded the intensive residency program of the Creative Catalyst Fellowship (CCF), funded through the United States Agency for International Development-supported Promoting Positive Information (PRO-INFO) project, by bringing together ten creatives from across Sri Lanka to collaborate, experiment, and develop creative content under the theme “Climate Positive.” This two-week intensive residency took place at Diyabubula, the Barberyn Art & Jungle Hideaway, the artistic abode of the late Laki Senanayake. The residency at Diyabubula, curated by Randhula de Silva, Founder of GLX, brought together experts from various fields, including science, innovation, art, design thinking, ecology, conservation and regeneration.
+
+...
+
+[Data](articles/b7fe1090.json)
+
+---
+
 ### Ponnaveli, Gautarimunai Village Like Kerala Wayanad Village - Sridharan Warning
 
 *2024-08-07 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190540) · `ta`
@@ -491,6 +723,22 @@ Wayanad is currently missing in the state of Kerala, India. Missing more than 50
 [Data](articles/66b40636.json)
 
 [Extended Data](ext_articles/66b40636.ext.json)
+
+---
+
+### Stock market witnesses 3.31 percent decline over past 52 weeks, plagued by political uncertainties
+
+*2024-08-07 22:23:00* · [`islandlk`](http://island.lk/stock-market-witnesses-3-31-percent-decline-over-past-52-weeks-plagued-by-political-uncertainties/) · `en`
+
+The stock market has declined by 3.31 percent over the past 52 weeks. Political uncertainties have contributed in no small measure towards this, market analysts said.
+
+Yesterday, the All Share Price Index went up by 1.08 points while the S and P SL20 declined by 5.68 points. Turnover stood at Rs 320 million with one crossing. The crossing was reported in Central Finance, where 545,000 shares crossed for Rs 56.7 million; its shares traded at Rs 104.
+
+In the retail market, top seven companies that mainly contributed to the turnover were; JKH Rs 529 million (295,000 shares traded), LOLC Holdings Rs 15.2 million (37000 shares traded), CIC (Non- Voting) Rs 12.8 million (259,000 shares traded), NDB Rs 11.4 million (166,000 shares traded), Sampath Bank Rs 11.1 million (151,000 shares traded), Dipped Products Rs 10.1 million (303,000 shares traded) and Dialog Rs 8.6 million (935,000 shares traded). During the day 13.4 million share volumes changed hands in 4900 transactions.
+
+...
+
+[Data](articles/b5721f13.json)
 
 ---
 
@@ -2039,319 +2287,5 @@ The police said that the cause of the ice drug addicted and has not been reveale
 [Data](articles/894e7479.json)
 
 [Extended Data](ext_articles/894e7479.ext.json)
-
----
-
-### Presidential election - Tamil National People's Front leaflets in Jaffna
-
-*2024-08-07 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190466) · `ta`
-
-Tamil National People's Front distributed pamphlets in Jaffna's Tirunelveli suburbs, urging a boycott of the upcoming presidential election. MP Selvaraja Gajendran led the effort, emphasizing that supporting the winning candidate could be the best way for Tamils to voice their concerns.
-
-🟩
-
-A pamphlet to boycott the presidential election was held on Tuesday (06) in Tirunelveli, Jaffna.
-
-Tamil National People's Front Member of Parliament Selvaraja Gajendran and party representatives were present at the event.
-
-In the suburbs of Tirunelveli, they were issued a pamphlet to the public and called for the boycott of the presidential election.
-
-It is noteworthy that Selvarajah Gajendran, who said that the general candidate in the presidential election or the choice of a majority of a majority, was the only solution to the Tamils ​​to boycott the presidential election.
-
-◼️
-
-[Data](articles/5d8b4da4.json)
-
-[Extended Data](ext_articles/5d8b4da4.ext.json)
-
----
-
-### Sri Lanka - Indian Shipping Service
-
-*2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-இலங்கை-இந்திய-கப்பல்-சேவை-ஆரம்பம்/175-341742) · `ta`
-
-The Indian shipping service between Jaffna and Nagapattinam, Tamil Nadu, plans to resume operations up to Kankesanthurai next week after several suspensions. Additionally, the Sivaganga ship from the Andaman Islands is set to arrive in Sri Lanka tomorrow.
-
-🟩
-
-Jaffna from Nagapattinam of Tamil Nadu. It has been announced that the shipping service up to Kankesanthurai will be resumed from next week.
-
-The passenger shipping service, which started last year, has been suspended several times, and the shipping service is expected to be launched from next week.
-
-It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorrow. Remble
-
-◼️
-
-[Data](articles/89cbf454.json)
-
-[Extended Data](ext_articles/89cbf454.ext.json)
-
----
-
-### The shipping service is restarted
-
-*2024-08-07 11:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-341742) · `ta`
-
-The shipping service between Jaffna (Nagapattinam, Tamil Nadu) and Kankesanthurai is set to resume next week after several suspensions since its start last year. Additionally, the Sivaganga ship from Andaman is scheduled to arrive in Sri Lanka tomorrow.
-
-🟩
-
-Jaffna from Nagapattinam of Tamil Nadu. It has been announced that the shipping service up to Kankesanthurai will be resumed from next week.
-
-The passenger shipping service, which started last year, has been suspended several times, and the shipping service is expected to be launched from next week.
-
-It is also reported that Sivaganga ship from Andaman will visit Sri Lanka tomorrow. Remble
-
-◼️
-
-[Data](articles/f8cda027.json)
-
-[Extended Data](ext_articles/f8cda027.ext.json)
-
----
-
-### Dayasiri and Sajith signing agreements
-
-*2024-08-07 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199662) · `si`
-
-Dayasiri Jayasekera, an SLFP MP, along with other MPs, signed an agreement to back Sajith Premadasa, leader of the Freedom Party. The pact included contributions from SLFP General Secretary Dayasiri Jayasekera and Samaga.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) MP Dayasiri Jayasekera and a group of MPs Dayasiri Jayasekera and a group of MPs (SLFP) MP Dayasiri Jayasekera and a group of MPs signed a pact to support Sajith Premadasa.
-
-The agreement was signed by Sajith Premadasa, Leader of the Freedom Party (SLFP General Secretary Dayasiri Jayasekera and Samaga).
-
-◼️
-
-[Data](articles/b21c656a.json)
-
-[Extended Data](ext_articles/b21c656a.ext.json)
-
----
-
-### Dayasiri-led SLFP group sign agreement to support Sajith
-
-*2024-08-07 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101058/dayasiri-led-slfp-group-sign-agreement-to-support-sajith-) · `en`
-
-A group of Sri Lanka Freedom Party (SLFP) members led by MP Dayasiri Jayasekara has signed an agreement with SJB presidential candidate Sajith Premadasa to support him in the upcoming Presidential Election.
-
-SLFP General Secretary Dayasiri Jayasekara and SJB leader Sajith Premadasa signed the relevant Memorandum of Understanding (MoU).
-
-However, the Sri Lanka Freedom Party (SLFP) group led by minister Nimal Siripala de Silva on July 31 met with President Ranil Wickremesinghe and expressed their support for his victory in the forthcoming presidential election.
-
-◼️
-
-[Data](articles/01523c9a.json)
-
-[Extended Data](ext_articles/01523c9a.ext.json)
-
----
-
-### Sajith - Dayasiri has taken place in harmony and freedom
-
-*2024-08-07 11:23:07* · [`adalk`](https://www.ada.lk/breaking_news/සමගියයි-නිදහසයි-දිනවන්න-සජිත්---දයාසිරි-ගිවිසුම්-ගතවෙයි/11-411248) · `si`
-
-In a harmonious atmosphere, Opposition Leader Sajith Premadasa and MP Dayasiri Jayasekara signed an agreement with the Sri Lanka Freedom Party (SLFP), paving the way for collaboration in the upcoming presidential election.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) in the next presidential election, the SLFP was signed by the Opposition Leader Sajith Premadasa.
-
-MP Dayasiri Jayasekara and Opposition Leader Sajith Premadasa signed the agreement.
-
-◼️
-
-[Data](articles/3852bab8.json)
-
-[Extended Data](ext_articles/3852bab8.ext.json)
-
----
-
-### ACMC to announce decision on presidential candidate next week
-
-*2024-08-07 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101057/acmc-to-announce-decision-on-presidential-candidate-next-week-) · `en`
-
-The All Ceylon Makkal Congress (ACMC) led by former minister Rishad Bathiudeen has decided to announce the candidate it will support in the upcoming presidential election on August 14.
-
-The leader of the ACMC, MP Rishad Bathiudeen, stated that this decision was taken during the party’s Supreme Council meeting last night.
-
-“The Supreme Council of our party held an extensive discussion regarding who we should support in the presidential election. Accordingly, we have decided to reach a final decision at 10 a.m. on the 14th.”
-
-He stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they will participate in the alliance’s meetings.
-
-“At that time, the SJB has requested to give our support to the party. Meanwhile, the current President has also sent us a letter requesting for our support. What we are saying is that we need to protect the current economy. We can’t go back in reverse gear”, he said.
-
-◼️
-
-[Data](articles/8f102a3d.json)
-
-[Extended Data](ext_articles/8f102a3d.ext.json)
-
----
-
-### Nobel Prize -winning Mohammed Yunus as President of Bangladesh's medieval government
-
-*2024-08-07 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190478) · `ta`
-
-Mohammed Yunus, a Nobel Peace Prize winner and longtime political adversary of Sheikh Hasina, has been named the interim leader of Bangladesh. Despite his international acclaim, Hasina previously viewed him as an enemy of the public. Yunus was recently released on bail after serving six months.
-
-🟩
-
-Sheikh Hasina's long -time political opponent and Nobel laureate Mohammed Yunus has been appointed as the interim leader of Bangladesh.
-
-He was awarded the Nobal Prize for its internationally welcomed by Yunus.
-
-However, Hasina regarded him as the enemy of the public, and Yunus is currently released on six months of bail.
-
-◼️
-
-[Data](articles/ff524143.json)
-
-[Extended Data](ext_articles/ff524143.ext.json)
-
----
-
-### The bus fleeing the busy in the Athurugiriya
-
-*2024-08-07 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199661) · `si`
-
-A bus involved in a shooting incident in Athurugiriya fled to Kataragama, injuring four. The suspect, arrested on the Southern Expressway, admitted to transporting shooters and weapons from Ambalangoda to Athurugiriya. The bus was later found in Kataragama, and all parties are now under investigation by Athurugiriya Police.
-
-🟩
-
-The Criminal Division of the Western Province says that the bus had fled the bus to a person in Kataragama after the murderers in the Athurugiriya area.
-
-Four persons were seriously injured due to the shooting on July 8th.
-
-The suspect had revealed that the suspect was arrested on the Southern Expressway on August (06), police said that the suspect had been contacted to take two shooters and arms from the Ambalangoda area to the Athurugiriya area..
-
-The police had been able to find the bus to flee the bus to flee after the Athurugas to flee the Southern Expressway in the Kataragama area after the suspect was carried out by the suspect.
-
-The suspects and the suspect and the bus have been handed over to the Athurugiriya Police for further investigations.
-
-◼️
-
-[Data](articles/edfcd468.json)
-
-[Extended Data](ext_articles/edfcd468.ext.json)
-
----
-
-### Indo-Sri Lanka's final ODI today
-
-*2024-08-07 10:36:43* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-අවසන්-එක්දින-තරගය-අද/9-411247) · `si`
-
-Today, Indo-Sri Lanka concludes their third ODI match at 2:30 pm at the Premadasa Cricket Stadium.
-
-🟩
-
-The Third and Third One Day International (Overseon ODI) will be held today (07).
-
-Competition at 2.30 pm. The Premadasa will be held at the Premadasa Cricket Stadium.
-
-◼️
-
-[Data](articles/60ee6d55.json)
-
-[Extended Data](ext_articles/60ee6d55.ext.json)
-
----
-
-### Rocket attack on Iraqi camp in Iraq
-
-*2024-08-07 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199660) · `si`
-
-A rocket attack on an American camp in Iraq injured seven, including five US service members and two contractors. The US Defense Secretary stated the US will not tolerate such attacks. Iraqi authorities seized a truck carrying eight rockets.
-
-🟩
-
-Seven persons were injured in a rocket attack on the American camp in Iraq.
-
-Foreign reporting states that several rockets have been launched targeting Al-Assad.
-
-Five US service members and two US contractors were injured in the attack.
-
-US Defense Secretary Lloyd Austin has said that the US is not tolerated against their officials.
-
-The Iraqi government's security media unit said that a truck with eight rockets had been taken into custody, a truck with eight rockets had been taken into custody.
-
-◼️
-
-[Data](articles/17864876.json)
-
-[Extended Data](ext_articles/17864876.ext.json)
-
----
-
-### 687 arrested in justice operation
-
-*2024-08-07 10:22:32* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-දෙවැනි-මෙහෙයුමෙන්-687ක්-අත්අඩංගුවට/11-411246) · `si`
-
-In a major police operation, 687 individuals were arrested during 689 raids. Four of those arrested are under investigation, while two have been rehabilitated.
-
-🟩
-
-Police said that 687 raids have been arrested in connection with 689 raids on the second operation.
-
-Four arrested have been investigated and two others have been rehabilitated.
-
-◼️
-
-[Data](articles/64e42379.json)
-
-[Extended Data](ext_articles/64e42379.ext.json)
-
----
-
-### Political killings;Pakistan who trembles America
-
-*2024-08-07 10:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அரசியல்-கொலைகள்-அமெரிக்காவை-நடுங்க-வைத்த-பாகிஸ்தானியர்/50-341739) · `ta`
-
-Asif Merchant, a 46-year-old Pakistani, was arrested for allegedly plotting political assassinations in the U.S., including targeting former President Donald Trump. The investigation linked him to Iran due to ongoing tensions between the U.S. and Iran. Despite no direct evidence linking him to the attempted shooting of Trump by Thomas Matthew Cruz, the arrest highlights concerns over political violence and international conspiracies.
-
-🟩
-
-Former President Donald Trump is set to run back on behalf of the Republican Party in the US presidential election.
-
-It is at this point that there is a heated allegation of a Pakistani man who conspired to kill him.
-
-Pakistani Asif Merchant (46 years old) was recently arrested for allegedly planning to carry out political killings in the United States.
-
-Intensive investigation was carried out with Kaitha Asif Merchant. The investigation revealed startling information.
-
-That is, the US is said to have gone to the US with a conspiracy to kill several prominent political party leaders, including Azib Merchant Donald Trump.
-
-More Asif Merchant has a close connection with Iran. America - there is a constant problem between Iran. The US has imposed sanctions on Iran.
-
-Meanwhile, Asif Merchant has arrived in Iran before the US departed from Pakistan, according to a chargesheet filed in court on behalf of FPPI.
-
-...
-
-[Data](articles/59c5f105.json)
-
-[Extended Data](ext_articles/59c5f105.ext.json)
-
----
-
-### Yehya Sinwar as the new leader of Hamas
-
-*2024-08-07 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸின்-புதிய-தலைவராக-யேஹ்யா-சின்வர்/50-341738) · `ta`
-
-Following a surprise attack on Israel by Hamas, leading to retaliatory measures from Israel, the political leader of Hamas, Izmaly Haney, was killed. Israel also reported the death of the military leader, Mohammed Daif. Yehya Sinwar, a close associate of Daif, has been named as the new head of Hamas's political wing, despite his low public profile. Sinwar, known for his significant contributions to the military sector, now leads the organization amidst ongoing conflict.
-
-🟩
-
-The Hamas Movement launched a sudden attack on Israel on October 7 last year. The attack was carried out on Israel's cities along the border of Gaza. In the wake of the attack, Israel began to retaliate. The war between the two sides continues.
-
-Meanwhile, Izmaly Haney, the leader of the political wing of the Hamas organization last week in Iran, was killed. Israel announced that the organization's military leader Mohammed Daif was also killed.. Yehya Sinwar has been appointed as the new leader of Hamas's political wing.
-
-Although Yehya Sinwar does not appear much in public spaces, Hamas continues to dominate the administration of the organization. He is a close friend of Mohammed Daifa, and has played an important role in strengthening the military sect.
-
-◼️
-
-[Data](articles/740d87f1.json)
-
-[Extended Data](ext_articles/740d87f1.ext.json)
 
 ---

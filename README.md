@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 17:36:54**
+As of **2024-08-08 17:57:08**
 
 ## Newspaper Stats
 
-*Scraped **39,670** Articles*
+*Scraped **39,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,48 +13,138 @@ newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,285
-economynextcom | 2,402
+economynextcom | 2,409
 dailyftlk | 2,551
 adalk | 3,642
 adaderanalk | 4,609
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,275
-adaderanasinhalalk | 6,728
+adaderanasinhalalk | 6,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,669 (100.0%) of 39,670 articles have been extended.
+39,670 (100.0%) of 39,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### පොලිස් ප්‍රහාරයකින් සිසුවෙක් රෝහලේ ?
+### අමෙරිකාව තවමත් පදක්කම් සටහනේ පෙරමුණේ
+
+*2024-08-08 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199719) · `si`
+
+'පැරිස් 2024' ඔලිම්පික් උලෙළේ 13වැනි දිනය වූ අද (08) දිනයේ මෙරට වේලාවෙන් ප.ව. 5.30ට වනවිට අවසන් වූ තරග ඉසව් අනුව පදක්කම් සටහනේ පෙරමුණ හිමිකරගැනීමට අමෙරිකාව සමත්ව සිටියි.
+
+රන් පදක්කම් 27කට හිමිකම් කියන ඔවුන් රිදී 35ක් හා ලෝකඩ 33ක් සමගින් සමස්ත පදක්කම් 95ක් දිනාගෙන සිටියේය.
+
+මෙහිදී ඇමරිකාවට කරට කර සටනක් දෙන චීනය පදක්කම් සටහනේ දෙවැනි ස්ථානය හිමිකරගෙන සිටින අතර, ඔවුන් රන් පදක්කම් 27ක් සමගින් සමස්ත පදක්කම් 67ක් දිනාගෙන සිටියි.
+
+සත්කාරක ප්‍රංශයට අභියෝග කරමින් ඔස්ට්‍රේලියාව රන් පදක්කම් 18ක් සමගින් මුළු පදක්කම් 43ක් දිනාගෙන පදක්කම් සටහනේ තෙවැනි ස්ථානයට පත්ව ඇත.
+
+රන් පදක්කම් 13ක් දිනූ ප්‍රංශයට මෙහි සිවුවැනි ස්ථානය හිමිව ඇති අතර, ඔවුන් මේ දක්වා පදක්කම් 51ක් දිනා ඇත.
+
+මීට අමතරව බ්‍රිතාන්‍යයට පදක්කම් සටහනේ 05වැනි ස්ථානය හිමිව ඇති අතර, ඔවුන් රන් පදක්කම් 12ක් සමගින් පදක්කම් 49ක් දිනා ඇත.
+
+අවසන් වරට ජපානයේ පැවති ඔලිම්පික් උලෙළේ පදක්කම් සටහනේ පෙරමුණ ගැනීමට ඇමරිකාව සමත් වූ අතර, එවර චීනය හා ඔවුන් අතර වෙනස වූයේ එක් රන් පදක්කමකි.
+
+ඒ අනුව ඇමරිකාව රන් පදක්කම් 39ක් දිනා ගනිද්දී, චීනය රන් පදක්කම් 38ක් හිමිකරගත්තේය.
+
+...
+
+[Data](articles/f4897258.json)
+
+---
+
+### Sri Lanka should introduce IT education early: Sajith
+
+*2024-08-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-introduce-it-education-early-sajith-176063/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s should teach Information Technology (IT) to school children of all ages, opposition leader Sajith Premadasa has said.
+
+“I fervently believe that ICT should be taught from Grade 1 to 13. And we will make it a compulsory subject and we will ensure that teaching takes place in the English language,” Premadasa told a forum at the Lakshman Kadirgamar Institute.
+
+Premadasa advocated teaching IT for school children of all ages and promoted an educational foster parent scheme where donors become ‘foster parents’ to schools by providing resources and funds to schools.
+
+“Information technology remains to be a subject that is taught only from Grade 6,” Premadasa said.
+
+Sri Lanka’s Education Ministry confirmed that information technology is a compulsory subject from Grade 6 onwards. It is not taught as a subject from Grades 1 to 5.
+
+...
+
+[Data](articles/e3fa567c.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 300.80/301.05 to US dollar
+
+*2024-08-08 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-80-301-05-to-us-dollar-176059/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.80/301.05 to the US dollar on Thursday, from 301.55/65 to the US dollar on Wednesday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.95/11.10 percent, up from 10.80/11.05 percent.
+
+A bond maturing on 15.12.2027 closed at 12.10/20 percent, up from 11.95/12.10 percent.
+
+A bond maturing on 15.09.2029 closed at 12.50/75 percent, up from 12.50/70 percent. (Colombo/Aug8/2024)
+
+◼️
+
+[Data](articles/5b4bda68.json)
+
+---
+
+### Student hospitalized by police attack?
 
 *2024-08-08 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199718) · `si`
 
-පයාගල පොලීසියේ රථවාහන අංශ නිලධාරීන් අමානුෂික ලෙස පහරදුන් බව පවසමින් 16 හැවිරිදි පාසල් සිසුවෙකු රෝහල්ගත කර ඇති බව කළුතර නාගොඩ ශික්ෂණ රෝහල් ප්‍රකාශකයෙකු පැවසීය.
+A 16-year-old girl, Youshi Jinal from Palagala Mlegoda, was hospitalized after being assaulted by two police officers in Payagala. The incident occurred when she was operating her friend's motorcycle near a store. The officers, who were on mobile duty, allegedly attacked her, causing severe injuries. She was admitted to the Nagoda Teaching Hospital in Kalutara for treatment. Her father has filed a complaint against the officers, urging authorities to prevent such brutality. Investigations are ongoing.
 
-මෙලෙස රෝහල්ගත කර ඇත්තේ පයාගල මලේගොඩ ප්‍රදේශයේ පදිංචි තරුෂ ජිනාල් නමැති පාසල් සිසුවෙක් බව පොලීසිය පවසයි.
+🟩
 
-රෝහල්ගත කර ඇති සිසුවා මිතුරෙකු සමග ඊයේ (07) පස්වරුවේ පියාට අයත් යතුරුපැදියෙන් අසල ඇති වෙළෙඳසැලකට ගොස් තිබේ.
+A 16-year-old schoolgirl has been hospitalized saying that the Payagala Police were brutally assaulted the traffic sector officials of the Payagala.
 
-ඒ බව දුටු පයාගල පොලීසියේ රථවාහන අංශයේ ජංගම රාජකාරීවල නිරතවී සිටි නිලධාරින් දෙදෙනකු ඔවුන් පසුපස හඹා ගොස් යතුරුපැදිය නතර කර බැනවැදී තිබේ.
+The police said that a schoolgirl named Youshi Jinal, a school student, a resident of Palagala Mlegoda, police said.
 
-ඉන් බියට පත්වී ඇති පාසල් සිසුවා යතුරුපැදිය ක්‍රියාත්මක කර අසල ඥාති නිවසක් කරා එය ධාවනය කර ඇති බව වාර්තා වෙයි.
+The student who was hospitalized has gone to a nearby store next to a friend's motorcycle.
 
-ඒ අනුව නැවත ඔවුන් ලුහුබැඳ පැමිණි පොලිස් නිලධාරීන් යතුරුපැදියේ පසුපැදිකරු ලෙස සිටි සිසුවාට පහරක් එල්ලකර තිබේ.
+Two officials who were engaged in mobile duties in the Payagala police station have mocked the motorcycle.
 
-පසුව යතුරුපැදිය ධාවනය කළ සිසුවාට කිහිප වරක් පහරදී ඇති බවද පැවසෙයි. පහරකෑමෙන් බිම ඇදවැටී ඇති සිසුවාව මෙලෙස රෝහල්ගත කර ඇත.
+It is reported that the victim has been operating the motorcycle to operate the motorcycle and run it.
 
-අදාළ සිසුවා ප්‍රකාශ කර ඇත්තේ බිම ඇද වැටුණු පසු පොලිස් නිලධාරියෙක් තමාගේ කොන්ද ප්‍රදේශය පෑගූ බවය.
+Accordingly, the police officers who had been pursued again have been a blow to the student who was the backup on the motorcycle.
+
+It is said that the student who was running the motorbike had been hit several times. The student has been admitted to the ground with the attack.
+
+The student had stated that a policeman trampled his background after falling the ground.
 
 ...
 
 [Data](articles/b5bfe261.json)
+
+[Extended Data](ext_articles/b5bfe261.ext.json)
+
+---
+
+### Sri Lanka’s COYLE to support green entrepreneurs in mangrove restoration
+
+*2024-08-08 17:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-coyle-to-support-green-entrepreneurs-in-mangrove-restoration-176085/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Chamber of Young Lankan Entrepreneurs said it is supporting green entrepreneurship linked to mangrove restoration as the island was selected as one of seven nations to be included in a UN flagship project.
+
+The Green Entrepreneurship for Mangroves initiative aims to bring together local communities, businesses, and research institutions to coordinate mangrove restoration efforts.
+
+COYLE said it will join the effort by establishing a new Entrepreneur Development Centre, which will provide support and resources to budding entrepreneurs dedicated to green business practices
+
+“We aim to support those who are ready to develop entrepreneurial ventures via supporting the environment, especially conserving the mangroves,” Chairman of COYLE, Thushira Raddella said.
+
+“Through this, we can show the world that economic growth and environmental conservation can both go hand in hand.
+
+...
+
+[Data](articles/d2c03292.json)
 
 ---
 
@@ -77,6 +167,30 @@ In his first comments after his arrival, he told a news briefing that his priori
 [Data](articles/6678be8a.json)
 
 [Extended Data](ext_articles/6678be8a.ext.json)
+
+---
+
+### Sri Lanka stocks close down, interest in Sampath, John Keells
+
+*2024-08-08 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-sampath-john-keells-176055/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.36 percent, or 40.82 points, at 11,253; while the more liquid S&P SL20 Index closed down 0.43 percent, or 13.74 points, at 3,210.
+
+One crossing, on Central Finance Plc, added Rs23mn to the turnover. The share closed down at 105.00 rupees.
+
+“There was very low activity, especially foreign, seen in the market today,” Softlogic Stockbrokers said.
+
+John Keells Holdings Plc saw foreign buying interest. The share closed up at 179.50. Its subsidiary John Keells Hotels Plc saw foreign selling. The hotel share closed down at 15.15.
+
+Other stocks that saw foreign buying interest were Sunshine Holdings Plc (down at 59.60) and People’s Leasing and Finance Plc (down at 12.00).
+
+Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc (up at 69.40), and SMB Finance Plc (up at 0.60).
+
+...
+
+[Data](articles/4c4b85ea.json)
 
 ---
 
@@ -327,6 +441,28 @@ The Court ruled former DIG Vass Gunawardena's wife, who was nominated as the oth
 [Data](articles/1a1d6fb6.json)
 
 [Extended Data](ext_articles/1a1d6fb6.ext.json)
+
+---
+
+### Sri Lanka unlikely to change fuel, gas prices ahead of polls: sources
+
+*2024-08-08 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-unlikely-to-change-fuel-gas-prices-ahead-of-polls-sources-176044/) · `en`
+
+ECONOMYNEXT – Sri Lanka is unlikely to change prices of fuel and gas until the September 21 presidential poll, two government sources said.
+
+Sri Lankan government-owned entities revise fuel and gas prices on the first day of every month. State owned fuel retailer and gas supplier kept the prices steady early this month.
+
+“Fuel and gas prices are likely to be unchanged until September,” a top government official told EconomyNext, asking not to be named.
+
+Another government source said any price revision in line with the pricing formula could have positive or negative impact on election campaign.
+
+“If the prices increased, it will be negative to the government and if the prices reduced, it will be positive to the government,” the second source said.
+
+Sri Lanka has reduced the prices of fuel and gas in the recent months before the declaration of election date. (Colombo/August 08/2024)
+
+◼️
+
+[Data](articles/54df3d83.json)
 
 ---
 
@@ -662,6 +798,24 @@ The National Water Supply Authority has said that the areas belonging to the Pel
 
 ---
 
+### Sri Lanka’s opposition launches non-surprising broader coalition
+
+*2024-08-08 13:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-launches-non-surprising-broader-coalition-176021/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) launched a broader alliance on Thursday (08) with most opposition legislators who have been already supporting the opposition candidate Sajith Premadasa.
+
+Sri Lanka’s Election Commission has scheduled presidential election on September 21 and Premadasa is one of the top candidates in the fray along with incumbent president Ranil Wickremesinghe and Marxist Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayaka.
+
+The launch was held in Colombo with the participation of hundreds of party supporters across the country.
+
+The launch of SJB’s broader coalition, Samagi Jana Samagi Jana Sandanaya (SJS), comes days after more than 90 legislators out of total 225 pledged their support to President Wickremesinghe under an independent coalition.
+
+...
+
+[Data](articles/55209259.json)
+
+---
+
 ### 29 educare leaders killed in Haseanayake
 
 *2024-08-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199707) · `si`
@@ -841,6 +995,24 @@ In May, Dipped Products Plc opened a marketing office in Mumbai, India as part o
 [Data](articles/5a4c9b32.json)
 
 [Extended Data](ext_articles/5a4c9b32.ext.json)
+
+---
+
+### Sri Lanka’s Dipped Products to buy Thailand-based rubber glove factory
+
+*2024-08-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-to-buy-thailand-based-rubber-glove-factory-176008/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said its board had approved the purchase of a rubber glove manufacturer for 11 million US dollars.
+
+Dipped Products already has a factory in the East Asian nation.
+
+The acquisition would be carried out by Dipped Products (Thailand) Ltd, after a due diligence study, the firm said in a stock exchange filing.
+
+In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
+
+◼️
+
+[Data](articles/8c4f4fdc.json)
 
 ---
 
@@ -2127,179 +2299,5 @@ Meanwhile, the World Health Organization has recommended the recommendations of 
 [Data](articles/e40d9e5c.json)
 
 [Extended Data](ext_articles/e40d9e5c.ext.json)
-
----
-
-### Sri Lanka forex reserves slightly down in July to $5,649mn
-
-*2024-08-08 08:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-slightly-down-in-july-to-5649mn-175933/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s forex reserves fell marginally to 5,649 million dollars in July 2024 from 5,654 million US dollars in June, official data show.
-
-In June the central bank sold about 57 million US dollar in the interbank market in June after a spike in liquidity from earlier strong dollar purchases and a rise in private credit. July data is not available.
-
-In August there has been dollar purchases on some days, market participants said, with the excess liquidity mostly extinguished.
-
-Similar trends were seen in June and July in 2023 after steep collections in earlier months. A reluctance to maintain the exchange rate when pressure comes from excess liquidity driven credit, leads to a confidence shock to market participants, analysts had pointed out.
-
-At the current interest rate structure, the central bank has collected foreign reserves and also paid down its own borrowings leading to a steady improvement of its net reserve position.
-
-...
-
-[Data](articles/4122c366.json)
-
-[Extended Data](ext_articles/4122c366.ext.json)
-
----
-
-### Postal Voting Application Period Complete the day
-
-*2024-08-08 08:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்ப-காலம்-நாளையுடன்-நிறைவு/175-341780) · `ta`
-
-The deadline for postal voting applications for the upcoming presidential election has been extended until midnight tomorrow, originally set for the 5th. This final extension means no further extensions will be granted, ensuring all eligible voters have one last chance to apply.
-
-🟩
-
-The deadline for submitting applications for the presidential election postal voting will be completed tomorrow.
-
-It has been extended till midnight tomorrow, as the time to apply for postal voting on the 5th.
-
-At the same time, the Elections Commission has stated that the application period for postal voting will not be extended again. (A)
-
-◼️
-
-[Data](articles/0874b7c7.json)
-
-[Extended Data](ext_articles/0874b7c7.ext.json)
-
----
-
-### 121 Election Act Breaks Complaints
-
-*2024-08-08 07:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/121-தேர்தல்-சட்டம்-மீறல்-முறைப்பாடுகள்/175-341779) · `ta`
-
-The 121 Election Act addresses complaints, while 22 candidates are under scrutiny for the 2024 presidential election.
-
-🟩
-
-In addition, 22 candidates have been controlled by the 2024 presidential election.(a)
-
-◼️
-
-[Data](articles/b8ae3d02.json)
-
-[Extended Data](ext_articles/b8ae3d02.ext.json)
-
----
-
-### The power of the presidential election
-
-*2024-08-08 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199691) · `si`
-
-Namal Rajapaksa is seen as the most powerful candidate in the upcoming presidential election, with support from both his family and former party members. He is expected to gain significant votes from the Civil Arose Front and has strong backing in the South. However, there's no indication of a shift in support towards Ranil Wickremesinghe.
-
-🟩
-
-Namal Rajapaksa, MP Namal Rajapaksa, DV, is the most powerful candidate at the coming presidential election. Mr. Chanaka says.
-
-He points out that the other members who left their party will return with the party.
-
-After a discussion with a group of people in the youth, President Mahinda Rajapaksa and Namal Ramana made these comments.
-
-"We still believe that the Civil Arose Front votes around Mahinda Rajapaksa. There are 90% of our electoral organizers. 10% of the President joined the President. They have now come to a bookman and get the organizer of us. Invite our friends join us. The strongest candidate in the South is in the South
-
-However, no change in the president of President Ranil Wickremesinghe is not any changes to Mr. Ranil Wickremesinghe.
-
-...
-
-[Data](articles/8fa0b45a.json)
-
-[Extended Data](ext_articles/8fa0b45a.ext.json)
-
----
-
-### In addition to the Public-Private Sector
-
-*2024-08-08 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199690) · `si`
-
-President Ranil Wickremesinghe emphasizes boosting both the public and private sectors, highlighting the importance of a strong cooperative movement to empower the people. He spoke at a Colombo event focused on enhancing the Co-operative Movement's capabilities.
-
-🟩
-
-President Ranil Wickremesinghe says that the public will also increase the public sector and the private sector.
-
-The President pointed out that the country builds an independent and strong coverage of an independent and strong Co-operative movement to appoint co-operative movement as the runner of the people.
-
-The President was speaking at a meeting held at the Sri Lanka Exhibition and Conference Center in Colombo to discuss the continuous trainage of the Co-operative Movement.
-
-◼️
-
-[Data](articles/9ee2b8c4.json)
-
-[Extended Data](ext_articles/9ee2b8c4.ext.json)
-
----
-
-### Grama Nilaunts for a trade union action
-
-*2024-08-08 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199689) · `si`
-
-Trade unions protest against Gazette notification issued by GS association and UPFA, citing arbitrary actions.
-
-🟩
-
-Gazette, the GS association, the UPFA says that arbitrary is engaged in protest against the gazette.
-
-◼️
-
-[Data](articles/d5dc58d6.json)
-
-[Extended Data](ext_articles/d5dc58d6.ext.json)
-
----
-
-### Bangladesh cricket team to Pakistan?
-
-*2024-08-08 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199688) · `si`
-
-The Bangladesh cricket team plans to leave early due to unrest, despite Pakistan's assurance and offer of full support, including training facilities. The first Test match is scheduled for the 21st, but the team's arrival hinges on the Bangladeshi government's response.
-
-🟩
-
-Foreign media reports, the Bangladesh cricket team has decided to leave the country before the date of their planning.
-
-The host Pakistan has announced that the host of the country has been informed of the unrest in Bangladesh and has received a positive response.
-
-The first match of the two-match Test series will be held on the 21st of this month.
-
-Accordingly, the Pakistanic Cricket has agreed to provide all the training team and all the necessary training facilities for their coaching group.
-
-However, the coming of the Bangladesh is determined by the newly achieved government response to the country.
-
-◼️
-
-[Data](articles/0bc7c84a.json)
-
-[Extended Data](ext_articles/0bc7c84a.ext.json)
-
----
-
-### Man dies from gunshot wound after grabbing police officer’s gun, cop injured
-
-*2024-08-08 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101070/man-dies-from-gunshot-wound-after-grabbing-police-officers-gun-cop-injured) · `en`
-
-The passenger of a car has died while a police officer has sustained injuries after the former had tried to grab the policeman’s service firearm during a search at a checkpoint in Kotugoda, causing the weapon to accidentally discharge.
-
-Police said that a team of officers from the Seeduwa Police Station had stopped and attempted to search a car which had arrived from Seeduwa at the Kotugoda checkpoint.
-
-However, during the search the person who was in the left side passenger seat of the car had allegedly attempted to grab the service firearm of a Police Sergeant causing the weapon to discharge and resulting in gunshot injuries to the policeman’s foot and the passenger’s stomach.
-
-Both wounded persons were admitted to the Negombo Hospital, where the passenger who had allegedly tried to grab the gun had later succumbed to injuries. The deceased is a 38-year-old resident of Pugoda.
-
-◼️
-
-[Data](articles/f69082eb.json)
-
-[Extended Data](ext_articles/f69082eb.ext.json)
 
 ---

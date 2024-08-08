@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 18:28:30**
+As of **2024-08-08 18:38:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,678 (100.0%) of 39,687 articles have been extended.
+39,687 (100.0%) of 39,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,61 +52,81 @@ The accused entity were taken into custody and fines were imposed. (Colombo/Aug8
 
 [Data](articles/cf483c1b.json)
 
+[Extended Data](ext_articles/cf483c1b.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் புதைகுழி அகழ்வு பணிகள் நிறைவு ; மீட்கப்பட்ட தகட்டு இலக்கங்களை பகிரங்கப்படுத்துமாறு காணாமல் ஆக்கப்பட்டோரின் உறவினர்கள் கோரிக்கை !
+### Completed by the Kokkuttuvai Burial Excavation work;Relatives of missing persons demand to make the recovered plate digits public!
 
 *2024-08-08 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190603) · `ta`
 
-இன்று வியாழக்கிழமை (08) முல்லைத்தீவு மாவட்ட  நீதவான் நீதிமன்றத்தில் கொக்குத்தொடுவாய் புதைகுழி வழக்கு விசாரணைக்காக எடுத்துக்கொள்ளப்படுள்ளது.
+The Kokkuttuwai Burial case, involving the excavation of a burial site, was discussed in the Mullaitivu District Magistrate's Court. Lawyers from the Missing Persons Office and relatives of missing individuals attended. The court received a report from the Kokkuttuwai Grama Niladhari and expects a final report from Professor Raj Somadeva soon. Skeletal remains found during the excavation are being analyzed, and the Missing Persons Office plans to publish details about the excavation. The case will resume on September 26th, with the involvement of international observers.
 
-காணாமல் போனோர் அலுவலகம் (ஓ.எம்.பி ) சார்பில் அந்த அலுவலகத்தின்  சட்டத்தரணிகளும் , சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா மற்றும்  காணாமல் ஆக்கப்பட்டவர்கள் உறவினர்கள் சார்பில் சட்டத்தரணிகளான ரட்ணவேல் மற்றும் நிரஞ்சன் ஆகியோரும்   காணாமல் ஆக்கப்பட்டவர்கள் உறவினர்களும் மன்றில் ஆஜராகி இருந்தார்கள்.
+🟩
 
-ஏற்கனவே நீதிமன்றால் இந்த புதைகுழி அகழ்வு தொடர்பில் அறிக்கைகள் சமர்ப்பிக்க கோரியிருந்தமை தொடர்பில் கொக்குத்தொடுவாய் கிராம அலுவலரால் இன்று நீதிமன்றில் அறிக்கை சமர்ப்ப்பிக்கப்பட்டுள்ளது.
+The Kokkuttuwai Burial case will be taken up at the Mullaitivu District Magistrate's Court today (08).
 
-அதேவேளை இந்த அகழ்வில் ஈடுபட்டிருந்த தொல்லியல் திணைக்களத்தின் பேராசிரியர் ராஜ் சோமதேவாவின் இறுதி அறிக்கை ஒரு மாத காலப்பகுதிக்குள் கிடைக்கும் என்று எதிர்பார்க்கப்படுகின்றது.
+On behalf of the Missing Persons Office (OMP), the lawyers of the office, the lawyers, Kanagasabapathi Vasudeva and the missing persons, Ratnavale and Niranjan were present on behalf of the missing relatives.
+
+The court has already submitted a report by the Kokkuttuwai Grama Niladhari on the request of the court to submit reports on the excavation.
+
+At the same time, the final report of Professor Raj Somadeva of the Archaeological Department, which was involved in the excavation, is expected to be available within a month.
 
 ...
 
 [Data](articles/4e7ea3fe.json)
 
+[Extended Data](ext_articles/4e7ea3fe.ext.json)
+
 ---
 
-### கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட நால்வருக்கு தொடர்ந்து  விளக்கமறியல் - இருவருக்கு பிணை
+### Four persons including Keheliya Rambukwella
 
 *2024-08-08 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190598) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட நால்வரும் எதிர்வரும் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Keheliya Rambukwella, former health minister, among four held till April 22 over substandard immunoglobulin injection scandal. Former officials Janaka Chandragupta and Saman Ratnayake released on bail. Arrests made in connection with the purchase of faulty injections, with suspects ordered to remain in custody until court appearance on April 8th.
 
-சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக சந்திரகுப்த, சுகாதார அமைச்சின் முன்னாள் மேலதிக செயலாளர் சமன் ரத்நாயக்க ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+🟩
 
-தரமற்ற இம்யூனோகுளோபுலின் ஊசி மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் மேற்படி சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Four people, including former health minister Keheliya Rambukwella, have been kept in remand until the 22nd of this month.
 
-சந்தேக நபர்களை இன்று வியாழக்கிழமை (08) மாளிகாகந்த நீதிவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Former Secretary of the Ministry of Health, Janaka Chandragupta and former Additional Secretary of the Ministry of Health, Saman Ratnayake have been released on bail.
+
+The suspects have been arrested in connection with the purchase of substandard immunoglobulin injections.
+
+The order was issued when the suspects were produced before the Magistrate's Court on Thursday (08).
 
 ◼️
 
 [Data](articles/3788b4f6.json)
 
+[Extended Data](ext_articles/3788b4f6.ext.json)
+
 ---
 
-### தென்கொரியாவுக்கு வேலைவாய்ப்புக்காக இதுவரை 3,694 பேர் சென்றுள்ளனர் !
+### 3,694 people have gone to South Korea for employment!
 
 *2024-08-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190595) · `ta`
 
-இவ் ஆண்டு இதுவரையான காலப்பகுதியில் 3,694 பேர் தென் கொரியாவிற்கு வேலைக்காக சென்றுள்ளதோடு, மேலும் 100  பேர் விரைவில் தென் கொரியாவிற்கு செல்ல  தயாராகவுள்ளனர் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் (SLBFE) தெரிவித்துள்ளது.
+So far this year, 3,694 Sri Lankans have sought employment in South Korea, with another 100 preparing to join them soon, primarily in the manufacturing sector. This trend, facilitated by an MOU between the SLBFE and the South Korean HRD Institute, reflects a growing interest among Sri Lankan youth, especially women, for overseas work opportunities.
 
-உற்பத்தித் துறையில் பணியாற்றுவதற்காக எட்டு பெண்கள் உட்பட 100 பேர் செவ்வாய்க்கிழமை (6) தென் கொரியாவுக்குச் சென்றுள்ளனர்.
+🟩
 
-இது இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் (SLBFE) மற்றும் தென் கொரிய மனித வள அபிவிருத்தி சேவை நிறுவனம் ஆகியவற்றுக்கு இடையேயான புரிந்துணர்வு ஒப்பந்தத்தின் (MoU) மூலம் கிடைக்கப்பெற்ற வேலை வாய்ப்புகளின் ஒரு பகுதியாகும் என பணியகம் தெரிவித்துள்ளது.
+According to the Sri Lanka Foreign Employment Bureau (SLBFE), 3,694 people have gone to South Korea for work so far this year and 100 will soon be ready to go to South Korea.
 
-இலங்கையில் உள்ள இளைஞர்கள் மத்தியில் தென் கொரியாவில் வேலை தேடும் போக்கு அதிகரித்துள்ளது. மேலும் அதிகமான இளம் பெண்களும் இந்த வேலை வாய்ப்புகளை அங்கு தொடர்கின்றனர்.
+100 people, including eight women, visited South Korea on Tuesday (6) to work in the manufacturing sector.
 
-தற்போது, தென் கொரியாவில்  புதிய வேலை ஒப்பந்தங்கள் வழங்கப்பட்டு வருகின்றன. மேலும் பல தொழிலாளர்கள் இந்த வேலைகளுக்கு எதிர்காலத்தில் வெளியேற உள்ளனர்.
+This is part of the Employment Opportunities available through the Memorandum of Understanding (MOU) between the SLBFE and the South Korean Human Resources Development Service Institute.
+
+The tendency to work in South Korea has increased among youth in Sri Lanka. More and more young women continue to work there.
+
+Currently, new employment contracts are being provided in South Korea. Many more workers will leave for these jobs in the future.
 
 ◼️
 
 [Data](articles/22397ae3.json)
+
+[Extended Data](ext_articles/22397ae3.ext.json)
 
 ---
 
@@ -144,21 +164,31 @@ However, the however, which won 27 gold medals, Japan is only 12 gold medals.
 
 ---
 
-### 'வேதா' படத்திற்காக குத்தாட்டம் போட்டிருக்கும் பொலிவுட் நடிகை மௌனி ராய்
+### Bollywood actress Mauni Roy
 
 *2024-08-08 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190596) · `ta`
 
-பொலிவுட் நடிகை ஷெர்வரி கதையின் நாயகியாக நடித்திருக்கும் 'வேதா' எனும் திரைப்படத்தில் இடம்பெறும் 'மம்மி ஜி..' எனும் பாடலில் பிரபல பொலிவூட் நடிகை மௌனி ராய் நடனமாடி இருக்கிறார். இந்தப் பாடலும், பாடலுக்கான காணொளியும் வெளியாகி பெரும் வரவேற்பினை பெற்றிருக்கிறது.
+Mauni Roy stars in "Veda," alongside Sherwani, directed by Nikhil Advani and featuring John Abraham, Abhishek Banerjee, Tamanna, and Ashish Vidyarthi. The soundtrack, composed by Ammal Malik, features songs like "Mummy G.." and has been released in various languages. The film, produced by Zee Studios, Emme Entertainment, and JA Entertainment, is set to release on the 15th of this month.
 
-பொலிவுட் இயக்குநர் நிகில் அத்வானி இயக்கத்தில் உருவாகி இருக்கும் 'வேதா' எனும் திரைப்படத்தில் ஜோன் அபிரகாம், ஷெர்வரி, அபிஷேக் பானர்ஜி, தமன்னா, ஆசிஷ் வித்யார்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-மாலே பிரகாஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அம்மால் மாலிக் - மனன் பரத்வாஜ் -ராகவ் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள்.
+Bollywood actress Sherwari is the heroine of the story 'Veda' in the song 'Mummy G ..'. The song and the song for the song have been released.
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜீ ஸ்டுடியோஸ் - எம்மே என்டர்டெய்ன்மென்ட் +ஜே ஏ என்டர்டெய்ன்மென்ட் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+Bollywood director Nikhil Advani has starred in the film 'Veda', including John Abraham, Sherwari, Abhishek Banerjee, Tamanna, Ashish Vidyarthi.
 
-...
+The film, which has been recorded by Male Prakash, has composed the film by Ammal Malik - Manan Bharadwaj -Raghav.
+
+The film is being produced as an exercise entertainer and has co -produced the film Zee Studios - Emme Entertainment +JA Entertainment.
+
+The film, which will be released in Tamil, Hindi, Telugu, Malayalam and Kannada on the 15th of this month, has been released.. The song is written by songwriter Naveen Bharati, playback singer Kanimozhi Kapilan and Manu Vardhan.
+
+Bollywood star actress Mauni Roy is dancing for this song. His attractive dance and a youthful song have impressed the fans.
+
+◼️
 
 [Data](articles/99af1735.json)
+
+[Extended Data](ext_articles/99af1735.ext.json)
 
 ---
 
@@ -204,19 +234,29 @@ A bond maturing on 15.09.2029 closed at 12.50/75 percent, up from 12.50/70 perce
 
 ---
 
-### விமல் - கருணாஸ் இணைந்திருக்கும் 'போகுமிடம் வெகு தூரமில்லை' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Wimal - Karunas is an joining 'Pokum not too far away' announcement date of release date
 
 *2024-08-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190593) · `ta`
 
-தமிழ் திரையுலகின் சந்தை மதிப்புள்ள நட்சத்திர நடிகர்களான விமல் மற்றும் கருணாஸ் இருவரும் கதையின் நாயகர்களாக நடித்திருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேக புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+Tamil film "Pokalum Too Far," featuring popular actors Vimal and Karunas, directed by Michael K. Vimal, is set for global release on the 23rd of this month. The movie also stars Deepa Shankar, Pawan, 'Aadukalam' Narain, Arul Das, Charles Vinod, and Vel. Ramamurthy. Composed by NR Raghunandan and produced by Siva Kilari under Shark Studios, it has generated high anticipation among fans.
 
-இயக்குநர் மைக்கேல் கே. ராஜா இயக்கத்தில் உருவாகி இருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படத்தின் விமல், கருணாஸ், தீபா சங்கர், பவன், 'ஆடுகளம்' நரேன், அருள் தாஸ், சார்லஸ் வினோத், எழுத்தாளரும், நடிகருமான வேல.‌ ராமமூர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-டெமல் சேவியர் எட்வர்ட்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என் ஆர் ரகுநந்தன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஷார்க் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சிவா கிலாரி தயாரித்திருக்கிறார்.
+The Tamil film industry's market -worth Vimal and Karunas have been officially announced with the exclusive photo of the film 'Pokalum too far' starring the heroes of the story.
 
-...
+Director Michael K. Vimal, Karunas, Deepa Shankar, Pawan, 'Aadukalam' Narain, Arul Das, Charles Vinod, writer and actor Vel. Ramamurthy.
+
+NR Raghunandan has composed the film, which has been recorded by Demel Xavier Edwards. The film was produced by Siva Kilari on behalf of Shark Studios.
+
+The songs and previews of the film have been released by millions of audiences.. In this case, the film will be released at the film House around the world on the 23rd of this month.
+
+Meanwhile, the expectation of the film has increased by fans, as the film is being created with a different alliance as Vimal - Karunas, the title of the film is far from the title of the film, and the hero of the story, the hero of the story, and another hero, Karunas.
+
+◼️
 
 [Data](articles/df1f52da.json)
+
+[Extended Data](ext_articles/df1f52da.ext.json)
 
 ---
 
@@ -296,37 +336,51 @@ In his first comments after his arrival, he told a news briefing that his priori
 
 ---
 
-### படப்பிடிப்புடன் தொடங்கிய நடிகர் ஆர்யாவின் புதிய படம்
+### Actor Arya's new film started with shooting
 
 *2024-08-08 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190591) · `ta`
 
-நடிகராகவும், தயாரிப்பாளராகவும் திகழும் நடிகர் ஆர்யா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடிக்கும் பெயரிடப்படாத படத்தின் தொடக்க விழா தமிழகத்தில் உள்ள ராமநாதபுரத்தில் சிறப்பாக நடைபெற்றது.‌
+Arya stars in a new film directed by Geen Krishnakumar, with Nikila Wimal co-starring. The project, produced by Vinod Kumar for Mini Studios LP, kicked off its shoot in Ramanathapuram, Tamil Nadu. Further cast and crew details will be announced soon.
 
-இயக்குநர் ஜியென் கிருஷ்ணகுமார் இயக்கத்தில் உருவாகும் பெயரிடப்படாத படத்தில் நடிகர் ஆர்யா கதாநாயகனாக நடிக்கிறார். இவருடன் நடிகை நிகிலா விமல் முக்கிய வேடத்தில் நடிப்பதாக தகவல்கள் வெளியாகி இருக்கிறது.
+🟩
 
-இந்த திரைப்படத்தில் நடிக்கும் நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்பக் குழுவினர் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+The inauguration of the unnamed film, which is playing the role of actor Arya's story, was held in Ramanathapuram, Tamil Nadu.
 
-மேலும், இந்த திரைப்படத்தினை மினி ஸ்டுடியோஸ் எல் எல் பி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் வினோத்குமார் தயாரிக்கிறார்.
+Arya is playing the lead role in the unnamed film directed by director Geen Krishnakumar. It is reported that actress Nikila Wimal is playing the lead role.
+
+The details of the actors, actresses and technical team starring in the film are expected to be officially released soon.
+
+The film is being produced by Vinod Kumar on behalf of Mini Studios LP.
 
 ◼️
 
 [Data](articles/70bc5c8c.json)
 
+[Extended Data](ext_articles/70bc5c8c.ext.json)
+
 ---
 
-### நடிகர் பகத் ஃபாஸிலின் 'வேட்டையன்' அப்டேட்
+### Actor Bhagat Fazilin 'Hunter' update
 
 *2024-08-08 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190590) · `ta`
 
-மலையாள திரையுலகில் அறிமுகமாகி இன்று பான் இந்திய நட்சத்திர நடிகராக உயர்ந்திருக்கும் பகத் ஃபாஸிலின் பிறந்த நாளை முன்னிட்டு, 'வேட்டையன்' படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+Bhagat Fazil, making his debut in the Malayalam film industry, receives congratulations from the 'Vettayan' film crew on his birthday. Directed by 'Jai Bhim', the film features stars like Rajinikanth, Amitabh Bachchan, Rana Daggubati, and others. Composed by Anirudh, it's produced by Subhashkaran under Leica Productions, set for release in various Indian languages on Diwali, October 31st, coinciding with Bhagat Fazil's birthday celebration.
 
-'ஜெய் பீம்' படத்தை இயக்கிய இயக்குநர் தா. செ. ஞானவேல் இயக்கத்தில் உருவாகி வரும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப் பச்சன், பகத் ஃபாஸில், ரானா டகுபதி, மஞ்சு வாரியர், அபிராமி, ரித்திகா சிங், துஷாரா விஜயன், கிஷோர், ரோகிணி, ராவ் ரமேஷ், ரமேஷ் திலக் உள்ளிட்ட பல நட்சத்திர நடிகர்கள் நடித்திருக்கிறார்கள்.
+🟩
 
-எஸ். ஆர். கதிர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்பட த்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் பிரம்மாண்டமான பொருட்செலவில் தயாரிக்கிறார்.
+The 'Vettayan' film crew has congratulated the film on the birthday of Bhagat Fazil, who made his debut in the Malayalam film industry today.
 
-...
+Director Tha directed by 'Jai Bhim'. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Bhagat Fossil, Rana Dagupati, Manju Warrior, Abirami, Ritika Singh, Dushara Vijayan, Kishore, Rogini, Ramesh Dhilak.
+
+S.. R. Anirudh has composed the film, which has been recorded by Kadir. Producer Subhashkaran is producing the film on behalf of Leica Productions, which is being prepared as an exercise entertainer.
+
+Diwali, October 31st, the film will be released in Indian languages ​​including Tamil, Telugu, Malayalam, Kannada and Hindi, on the occasion of the birthday of star actor Bhagat Fazil, who congratulates him on the occasion of the Bhagat Fossar in the Bhagat Fas.Published by the photo, they have enthusiastically to his fans.
+
+◼️
 
 [Data](articles/4f84d384.json)
+
+[Extended Data](ext_articles/4f84d384.ext.json)
 
 ---
 
@@ -356,23 +410,31 @@ Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc 
 
 ---
 
-### ரணில் விக்கிரமசிங்கவுக்கு சஜித்தோ அல்லது நாமலோ சவாலானவர்கள் அல்லர் - ருவன் விஜேவர்தன
+### Ranil Wickremesinghe is not challenged by Sajith or Namal - Ruwan Wijewardena
 
 *2024-08-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190588) · `ta`
 
-மொட்டுவவிற்கு வாக்களித்த கிராமத்தில் உள்ள பலர் இன்று ரணில் விக்கிரமசிங்கவுடன் இருக்கின்றார்கள். அதனாலேயே மொட்டைச் சேர்ந்த நாடாளுமன்ற உறுப்பினர்கள் குழுவொன்று ஜனாதிபதியைச் சுற்றிக் குவிந்துள்ளது. ரணில் விக்கிரமசிங்கவுக்கு சஜித்தோ அல்லது நாமலோ சவாலானவர்கள் அல்ல என ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜயவர்தன தெரிவித்துள்ளார்.
+Ranil Wickremesinghe, facing no challenge from Sajith or Namal, enjoys support from villagers who initially backed Mottuwa. UNP Deputy Leader Ruwan Wijewardene emphasizes Wickremesinghe's intention to run as an independent candidate, aiming to unite parties for national stability and economic growth. Despite past criticisms and challenges, Wickremesinghe's leadership is seen positively, with calls for unity to address the country's issues effectively.
 
-நிலையான நாட்டைக் கட்டியெழுப்புவதற்கு ரணில் விக்கிரமசிங்கவுடன் கைகோர்க்குமாறு ஐக்கிய தேசியக் கட்சி உறுப்பினர்களுக்கு மீண்டும் அழைப்பு விடுப்பதாகவும் பிரதித் தலைவர் கூறினார்.
+🟩
 
-“ஒன்றிணைந்து வெற்றிபெறுவோம்” என்ற தொனிப்பொருளில் இன்று வியாழக்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே பிரதித் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+Many people in the village who voted for Mottuwa are today with Ranil Wickremesinghe. That is why a group of parliamentarians from the terrace gathered around the president. United National Party Deputy Leader Ruwan Wijewardene says that Ranil Wickremesinghe is not challenging or Namal.
 
-பம்பலப்பிட்டி லொரிஸ் மாவத்தையில் அமைந்துள்ள ரணில் விக்கிரமசிங்கவின் ஜனாதிபதி தேர்தல் ஊடக மையத்தில் இந்த ஊடகவியலாளர் சந்திப்பு நடைபெற்றது.
+The Deputy Chairman also said that the United National Party (UNP) would call for a join with Ranil Wickremesinghe to build a stable country.
 
-அங்கு ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜயவர்தன மேலும் கூறியதாவது,
+Speaking at a media briefing held on Thursday (08) on the theme "We will win together," the Deputy Chairman said this.
+
+The media briefing was held at Ranil Wickremesinghe's Presidential Election Media Center in Loris Mawatha, Bambalapitiya.
+
+There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
+
+“Ranil Wickremesinghe has decided to contest the country as an independent candidate in the presidential election this year. His hope is to unite all parties and strengthen the future and economy of the country.
 
 ...
 
 [Data](articles/e98ccadc.json)
+
+[Extended Data](ext_articles/e98ccadc.ext.json)
 
 ---
 

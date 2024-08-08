@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 14:21:01**
+As of **2024-08-08 14:36:10**
 
 ## Newspaper Stats
 
-*Scraped **39,643** Articles*
+*Scraped **39,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 4,604
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,990
 virakesarilk | 6,267
-adaderanasinhalalk | 6,718
+adaderanasinhalalk | 6,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,641 (100.0%) of 39,643 articles have been extended.
+39,643 (100.0%) of 39,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ත්‍රස්ත බියක් හේතුවෙන් ටේලර්ගේ ප්‍රසංග අවලංගු කෙරේ
+### ගාසා අරමුදලට ලැබුණු මුදල් ප්‍රමාණයක් භාර දෙයි
+
+*2024-08-08 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199709) · `si`
+
+ගාසා හී ළමා අරමුදලට ලැබුණු තවත් ඇමෙරිකානු ඩොලර් පන් ලක්ෂ අනූදහසක් පලස්තීන රජය වෙත භාර දී තිබේ.
+
+ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (07) ජනාධිපති කාර්යාලයේ දිය.
+
+මීට අදාළ නිල ලිපි ලේඛන ශ්‍රී ලංකාවේ පලස්තීන තානාපති ආචාර්ය සුහයිර් එම්.එච්. සෙයිඩ් සහ එක්සත් ජාතීන්ගේ සහන වැඩ නියෝජිතායතනයේ (UNRWA) එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නේවාසික නියෝජිත අසූසා කුබෝටා යන මහත්ම මහත්මින් වෙත ජනාධිපතිවරයා විසින් භාර දෙනු ලැබීය.
+
+ගාසා තීරයේ පවත්නා යුදමය තත්ත්වය හේතුවෙන් අවතැන්ව සිටින දරුවන්ගේ මූලික අවශ්‍යතා සැපයීම සඳහා අවශ්‍ය මුල්‍යාධාර ලබා දීම මෙහි මූලික අරමුණ විය.
+
+◼️
+
+[Data](articles/14849314.json)
+
+---
+
+### Taylor's concerts canceled due to terrorism
 
 *2024-08-08 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199708) · `si`
 
-ටේලර් ස්විෆ්ට්ගේ ඊරාස් ප්‍රසංග මාලාවට සමගාමීව ඔස්ට්‍රියාවේ වියානා හි පැවැත්වීමට නියමිතව තිබූ ප්‍රසංග තුනම අවලංගු කිරීමට බලධාරීන් කටයුතු කර තිබේ.
+Due to terrorism concerns, Taylor Swift's concerts in Vienna were cancelled. Authorities identified a risk and arrested two suspected Islamic extremists planning an attack.
 
-එයට හේතුව එම ප්‍රසංගයට ත්‍රස්ත ප්‍රහාරයක් එල්ලවීමට ඇති අවදානම හඳුනාගනිමිනි.
+🟩
 
-ප්‍රසංග ඉලක්ක කර ඉස්ලාමීය අන්තවාදී ප්‍රහාරයක් එල්ලකිරීමට සැලසුම් කිරීමට සැකපිට සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට පත්ව ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+The authorities have been able to cancel all three concerts in Vienna, Austria, parallel to Taylor Swift.
+
+This is because the risk to the concert was identified.
+
+Foreign media reports that two suspects have been arrested on suspicion and planning to launch a Islamic extremist attack targeting concerts.
 
 ◼️
 
 [Data](articles/048b6363.json)
+
+[Extended Data](ext_articles/048b6363.ext.json)
 
 ---
 
@@ -89,6 +113,8 @@ Article 2.4.4 – Failing to report to the Anti-Corruption Unit, without unneces
 ...
 
 [Data](articles/aa942e61.json)
+
+[Extended Data](ext_articles/aa942e61.ext.json)
 
 ---
 
@@ -208,19 +234,17 @@ On that occasion, Ranil Wickremesinghe was elected president with the support of
 
 ---
 
-### Sri Lanka’s Dipped Products eyes Thailand-based rubber glove manufacturing facility
+### Sri Lanka’s Dipped Products to buy Thailand-based rubber glove factory
 
 *2024-08-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-eyes-thailand-based-rubber-glove-manufacturing-facility-176008/) · `en`
 
-ECONOMYNEXT – Sri Lanka listed company Dipped Products Plc said its board had approved in principle, the acquisition of a Thailand-based rubber glove manufacturing facility.
+ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said its board had approved the purchase of a rubber glove manufacturer for 11 million US dollars.
 
-The acquisition of the Thailand-based rubber glove manufacturing facility is contingent upon conducting a due diligence study, the company said in a stock exchange filing.
+Dipped Products already has a factory in the East Asian nation.
 
-“The potential investment for this acquisition would be approximately USD 11 Million and the acquisition will be carried out through Dipped Products (Thailand) Ltd, a subsidiary of the Company.”
+The acquisition would be carried out by Dipped Products (Thailand) Ltd, after a due diligence study, the firm said in a stock exchange filing.
 
-In May, the Sri Lanka based glove maker Dipped Products Plc opened a market office in Mumbai, India as part of efforts to strengthen in presence in key markets.
-
-Established in 1976, Dipped Products is one of the world’s leading rubber glove manufacturers, accounting for a 5 percent global market share. DPL specializes in industrial, household, sport, electrician and medical gloves.
+In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
 
 ◼️
 
@@ -2225,29 +2249,5 @@ Responding to this, the Speaker said that steps would be taken to send the issue
 [Data](articles/65da54dd.json)
 
 [Extended Data](ext_articles/65da54dd.ext.json)
-
----
-
-### If the agreement with the Monetary Fund is canceled, the budget will not be presented even - Bandula Gunawardena
-
-*2024-08-08 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190541) · `ta`
-
-Bandula Gunawardena warns that cancelling the IMF agreement could halt the 2025 budget presentation, affecting welfare activities and government salaries. He urges voters to consider the country's economic stability before supporting parties aiming to revoke the IMF deal.
-
-🟩
-
-With the help of the International Monetary Fund, the country is heading. Transport and Media Minister Bandula Gunawardena told Parliament that if the cancellation of the International Monetary Fund will be canceled by the 2025 budget.
-
-He was speaking at the post of adjournment of the House of Commons on Wednesday (7) in Parliament.
-
-President Ranil Wickremesinghe has been able to manage the country's economy due to the International Monetary Fund. As a reflection, today the country's fuel and fertilizer medicine foods are available.
-
-As Harsha de Silva MP says, if the United People's Power has canceled the agreement with the International Monetary Fund, the budget will not be put forward next year. Welfare activities, including the salary and pension of government employees, will be stopped. Not only that, the United People's Power, which is hoping to cancel the agreement, will not be able to advance that government for two weeks.
-
-...
-
-[Data](articles/4d25b2da.json)
-
-[Extended Data](ext_articles/4d25b2da.ext.json)
 
 ---

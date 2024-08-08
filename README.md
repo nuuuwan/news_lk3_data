@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 18:55:28**
+As of **2024-08-08 19:06:24**
 
 ## Newspaper Stats
 
-*Scraped **39,687** Articles*
+*Scraped **39,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,609
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,283
-adaderanasinhalalk | 6,729
+adaderanasinhalalk | 6,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,687 (100.0%) of 39,687 articles have been extended.
+39,687 (100.0%) of 39,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### එංගලන්ත ටෙස්ට් තරගාවලියේ ආරක්ෂාව ගැන ශ්‍රී ලංකාව විමසයි
+
+*2024-08-08 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199721) · `si`
+
+එංගලන්තයේ දී ආරම්භ වීමට නියමිත ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් තරගාවලිය සඳහා සපයා ඇති ආරක්ෂාව සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් බලධාරීන් එංගලන්ත ක්‍රිකට් මණ්ඩලයෙන් විමසා ඇති බව වාර්තා වෙයි.
+
+පසුගිය දින කිහිපයේදී සංක්‍රමණිකයන් ට එරෙහිව එංගලන්තයේ ප්‍රදේශ කිහිපයක විරෝධතා පැවැත්වුණි.
+
+මේ වනවිට ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් සංචිතයේ ක්‍රීඩකයින් 7 දෙනෙක් එංගලන්තය ට ගොස් සිටී.
+
+◼️
+
+[Data](articles/8025bfa3.json)
+
+---
 
 ### Sri Lanka seizes fake Casio watches
 
@@ -2317,29 +2333,5 @@ Parliament was held at the patronage of Hon. Speaker Mahinda Yapa Abeywardena at
 [Data](articles/1c19263d.json)
 
 [Extended Data](ext_articles/1c19263d.ext.json)
-
----
-
-### Is there a forest that cannot change the IMF agreement?
-
-*2024-08-08 09:10:43* · [`adalk`](https://www.ada.lk/breaking_news/IMF-ගිවිසුම-වෙනස්-කරන්න-බෑ-කියන-ජගතෙක්-ඉන්නවාද-/11-411258) · `si`
-
-MP Harsha De Silva disputes claims that the IMF agreement cannot be altered, arguing that changes are possible and necessary for the country's progress. He criticizes unnamed individuals for their stance on immutability and calls for a shift in perspective to address national challenges.
-
-🟩
-
-MP Dr. Harshathup Silva, MP, said that Sajith Premadasa was changing the agreement signed with the International Monetary Fund.
-
-He was speaking at the campaign debate in Parliament yesterday (07).
-
-Speaking further MP Harsha Deathu Silva said:
-
-"Some say that I can't change a sinful, a sin could not change the IMF Agreement. These are the pisses. When these people go to go 2020, you can't be 2020, no, no knowing, we can know. How do they tell us that we can't change a singer. Do we tell us that you can't change a sin?If you can get up. If there is a sense of a sense, tell me if there is a champion.We change. What is that changing?When you say no, when you say no, we have created it and showed this. Sajith Premadasa is the President of this country. The face of Peter Brover spoke to the face and told you to change this "
-
-◼️
-
-[Data](articles/810b27e4.json)
-
-[Extended Data](ext_articles/810b27e4.ext.json)
 
 ---

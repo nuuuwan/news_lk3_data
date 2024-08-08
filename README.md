@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 17:57:08**
+As of **2024-08-08 18:16:18**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 6,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,670 (100.0%) of 39,678 articles have been extended.
+39,678 (100.0%) of 39,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### අමෙරිකාව තවමත් පදක්කම් සටහනේ පෙරමුණේ
+### The United States is still in the forefront of medals
 
 *2024-08-08 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199719) · `si`
 
-'පැරිස් 2024' ඔලිම්පික් උලෙළේ 13වැනි දිනය වූ අද (08) දිනයේ මෙරට වේලාවෙන් ප.ව. 5.30ට වනවිට අවසන් වූ තරග ඉසව් අනුව පදක්කම් සටහනේ පෙරමුණ හිමිකරගැනීමට අමෙරිකාව සමත්ව සිටියි.
+On the 13th day of the Paris 2024 Olympics, the United States leads with 27 gold, 95 silver, and 95 bronze medals, followed by China and then Australia, France, and Britain.
 
-රන් පදක්කම් 27කට හිමිකම් කියන ඔවුන් රිදී 35ක් හා ලෝකඩ 33ක් සමගින් සමස්ත පදක්කම් 95ක් දිනාගෙන සිටියේය.
+🟩
 
-මෙහිදී ඇමරිකාවට කරට කර සටනක් දෙන චීනය පදක්කම් සටහනේ දෙවැනි ස්ථානය හිමිකරගෙන සිටින අතර, ඔවුන් රන් පදක්කම් 27ක් සමගින් සමස්ත පදක්කම් 67ක් දිනාගෙන සිටියි.
+Sri Lanka's time today the 13th day of the 'Paris 2024' Olympics. The United States passes the lead in the medals ended at 5.30 pm.
 
-සත්කාරක ප්‍රංශයට අභියෝග කරමින් ඔස්ට්‍රේලියාව රන් පදක්කම් 18ක් සමගින් මුළු පදක්කම් 43ක් දිනාගෙන පදක්කම් සටහනේ තෙවැනි ස්ථානයට පත්ව ඇත.
+They claimed with 27 gold medals, they won 95 silver and 95 medals with 33 bronze.
 
-රන් පදක්කම් 13ක් දිනූ ප්‍රංශයට මෙහි සිවුවැනි ස්ථානය හිමිව ඇති අතර, ඔවුන් මේ දක්වා පදක්කම් 51ක් දිනා ඇත.
+The China medalism securely occupies the second place in China, which gives America to do it.
 
-මීට අමතරව බ්‍රිතාන්‍යයට පදක්කම් සටහනේ 05වැනි ස්ථානය හිමිව ඇති අතර, ඔවුන් රන් පදක්කම් 12ක් සමගින් පදක්කම් 49ක් දිනා ඇත.
+Challenges to the host France, Australia won 43 medals with 18 gold medals and won the third place in the medals.
 
-අවසන් වරට ජපානයේ පැවති ඔලිම්පික් උලෙළේ පදක්කම් සටහනේ පෙරමුණ ගැනීමට ඇමරිකාව සමත් වූ අතර, එවර චීනය හා ඔවුන් අතර වෙනස වූයේ එක් රන් පදක්කමකි.
+France won 13 gold medals, and the fourth place has been placed here, and they have won 51 medals so far.
 
-ඒ අනුව ඇමරිකාව රන් පදක්කම් 39ක් දිනා ගනිද්දී, චීනය රන් පදක්කම් 38ක් හිමිකරගත්තේය.
+In addition, the British occupied 5th in the medal station in the Medal, and they won 49 medals with 12 gold medals.
+
+The United States was the last man of the Olympics in Japan last, and the difference between China and their difference was one gold medal.
+
+According to US wins 39 gold medals, China recovered 38 gold medals.
+
+However, the however, which won 27 gold medals, Japan is only 12 gold medals.
 
 ...
 
 [Data](articles/f4897258.json)
+
+[Extended Data](ext_articles/f4897258.ext.json)
 
 ---
 
@@ -76,6 +84,8 @@ Sri Lanka’s Education Ministry confirmed that information technology is a comp
 
 [Data](articles/e3fa567c.json)
 
+[Extended Data](ext_articles/e3fa567c.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 300.80/301.05 to US dollar
@@ -93,6 +103,8 @@ A bond maturing on 15.09.2029 closed at 12.50/75 percent, up from 12.50/70 perce
 ◼️
 
 [Data](articles/5b4bda68.json)
+
+[Extended Data](ext_articles/5b4bda68.ext.json)
 
 ---
 
@@ -146,6 +158,8 @@ COYLE said it will join the effort by establishing a new Entrepreneur Developmen
 
 [Data](articles/d2c03292.json)
 
+[Extended Data](ext_articles/d2c03292.ext.json)
+
 ---
 
 ### Nobel laureate Yunus arrives in Bangladesh to take over as interim leader
@@ -191,6 +205,8 @@ Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc 
 ...
 
 [Data](articles/4c4b85ea.json)
+
+[Extended Data](ext_articles/4c4b85ea.ext.json)
 
 ---
 
@@ -463,6 +479,8 @@ Sri Lanka has reduced the prices of fuel and gas in the recent months before the
 ◼️
 
 [Data](articles/54df3d83.json)
+
+[Extended Data](ext_articles/54df3d83.ext.json)
 
 ---
 
@@ -814,6 +832,8 @@ The launch of SJB’s broader coalition, Samagi Jana Samagi Jana Sandanaya (SJS)
 
 [Data](articles/55209259.json)
 
+[Extended Data](ext_articles/55209259.ext.json)
+
 ---
 
 ### 29 educare leaders killed in Haseanayake
@@ -1013,6 +1033,8 @@ In May, Dipped Products Plc opened a marketing office in Mumbai, India as part o
 ◼️
 
 [Data](articles/8c4f4fdc.json)
+
+[Extended Data](ext_articles/8c4f4fdc.ext.json)
 
 ---
 

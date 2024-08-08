@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 14:55:10**
+As of **2024-08-08 15:06:03**
 
 ## Newspaper Stats
 
-*Scraped **39,647** Articles*
+*Scraped **39,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,123 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,640
-adaderanalk | 4,605
+adaderanalk | 4,607
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,990
 virakesarilk | 6,267
-adaderanasinhalalk | 6,721
+adaderanasinhalalk | 6,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,644 (100.0%) of 39,647 articles have been extended.
+39,647 (100.0%) of 39,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ජපානයේ ප්‍රබල භූකම්පනයක්
+### Powerful earthquake hits off southern Japan; tsunami advisory issued
+
+*2024-08-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101085/powerful-earthquake-hits-off-southern-japan-tsunami-advisory-issued) · `en`
+
+A powerful earthquake struck off Japan’s southern coast on Thursday, triggering a tsunami advisory. Residents were urged to stay away from the coastline, but there were no immediate reports of injuries or serious damage.
+
+The Japan Meteorological Agency said the quake registered magnitude 7.1 and was centered in waters off the eastern coast of Japan’s southern main island of Kyushu at a depth of about 30 kilometers (18.6 miles).
+
+The quake most strongly shook Nichinan city and nearby areas in Miyazaki prefecture on Kyushu island.
+
+The agency said tsunami waves of up 50 centimeters (1.6 feet) were detected along parts of Kyushu’s southern coast and the nearby island of Shikoku about a half hour after the quake struck.
+
+Seismologists were holding an emergency meeting to analyze whether the quake had affected the nearby Nankai Trough, the source of past devastating earthquakes.
+
+...
+
+[Data](articles/e72836f1.json)
+
+---
+
+### Five including Vass Gunawardena and son sentenced to 4 years RI
+
+*2024-08-08 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101083/five-including-vass-gunawardena-and-son-sentenced-to-4-years-ri) · `en`
+
+Former DIG Vass Gunawardena, his son Ravindu Gunawardena and three other police officers, who were convicted of several charges including the abduction and unlawful detention of Nipuna Ramanayake, a student of an IT Institute in Malabe in 2009, have been sentenced to 04 years of rigorous imprisonment by the Colombo High Court.
+
+Meanwhile, three other defendants in the case including Vass Gunawardena’s wife Shyamali Priyadharshani Perera have been acquitted and released from the case.
+
+The verdict in the case was delivered today (08) by Colombo High Court Judge Amal Ranaraja, following the conclusion of a lengthy trial.
+
+Ramanayake, a 21-year-old student of the Sri Lanka Institute of Information Technology (SLIIT) at Malabe was allegedly abducted and brutally assaulted on August 09, 2009 by the son and wife of then SSP Vaas Gunawardena along with several other policemen.
+
+...
+
+[Data](articles/fe7051ce.json)
+
+---
+
+### අත්‍යවශ්‍ය ඖෂධ 52ක හිඟයක්
+
+*2024-08-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199712) · `si`
+
+වර්ථමානය වන විට මෙරට සෞඛ්‍ය පද්ධතිය තුළ අත්‍යවශ්‍ය ඖෂධ 52ක හිඟයක් පවතින බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ පවසයි.
+
+අද (08) පාර්ලිමේන්තුවේ දී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ සෞඛ්‍ය අමාත්‍යාංශය මගින් අත්‍යවශ්‍ය ඖෂධ 862ක් හඳුනාගෙන ඇති බවත් ගිය වසර වන විට එම ඖෂධ 250ක හිඟයක් පැවති බවය.
+
+නමුත් වර්ථමානය වන විට ජාතික මට්ටමේ හිඟතාවක් ලෙස වාර්තා වී ඇත්තේ ඖෂධ 52ක ප්‍රමාණයක් පමණක් බව අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+එම ඖෂධ 52 සඳහා ආදේශක ඖෂධ මෙරට තුළ පවතින බවත් මින් ඇතැම් ඖෂධ ඇණවුම් කර තිබූ බවත් සහ එම ඇණවුම් ලැබෙමින් පවතින ඇති බවත් අමාත්‍යවරයා පැවසීය.
+
+තවද ජීවිත ආරක්ෂක ඖෂධ සියල්ල රෝහල්වල පවතින බවත්, ඖෂධ හිඟය ක්‍රමාණූකූලව අවම වී යන බැවින් ඉදිරි කාලයේ දී  ඖෂධ හිඟය මග හැරී යනු ඇති බවත් අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/ffc9035d.json)
+
+---
+
+### A powerful earthquake in Japan
 
 *2024-08-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199711) · `si`
 
-දකුණු ජපාන වෙරළ තීරයට ඔබ්බෙන් ප්‍රබල භූකම්පනයක් වාර්තා වී තිබේ.
+A major earthquake struck off the South Japan coast, prompting a tsunami warning from the US Meteorological Agency. The quake's epicenter was approximately 30 miles from the East Coast, causing expected tsunami waves of about a meter.
 
-මේ හේතුවෙන් සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට එරට කාලගුණවිද්‍යා ඒජන්සිය කටයුතු කළේය.
+🟩
 
-ජපානයේ කුශු දූපතට නැගෙනහිර වෙරළ ආසන්නයේ කිලෝමීටර් 30ක් පමණ පොළොව අභ්‍යන්තරයේ එම කම්පනය සිදුවී තිබුණි.
+A powerful earthquake has been reported on the South Japan coast.
 
-මෙම භූකම්පනය හේතුවෙන් කුශු දූපතට සහ ශිකොකු දූපතට මීටරයක් පමණ උසැති සුනාමි රැලි ඇති වෙතැයි අනුමාන කර තිබේ.
+As a result, the Meteorological Agency of the United States to issue a tsunami warning announcement.
+
+The trauma was nearly about 30 miles [30 km] near the East Coast, Japanese.
+
+Due to this earthquake, the tsunami wrinkles of about a meter are to have a high tsunami wrinkle.
 
 ◼️
 
 [Data](articles/0f8e8522.json)
 
+[Extended Data](ext_articles/0f8e8522.ext.json)
+
 ---
 
-### ප්‍රවීන් ජයවික්‍රමට ICCයෙන් චෝදනා
+### ICC charged with Praenan Jayawickika Jayawickinika
 
 *2024-08-08 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199710) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ දුෂණ විරෝධී රීති උල්ලංගණය කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ප්‍රවීන් ජයවික්‍රමට චෝදනා 3ක් එල්ලකර තිබේ.
+Sri Lanka cricketer Prain Win Jayawickikawe faces charges from ICC's anti-corruption unit for alleged rule violations related to betting during the 2021 international matches. The ICC announced it will respond within 14 days from August 6, 2024.
 
-ජාත්‍යන්තර ක්‍රිකට් තරගවලදී සහ 2021 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේදී තරග පාවාදීම සඳහා ඔහු වෙත සිදුකර තිබූ යෝජනා සම්බන්ධයෙන් දුෂණ විරෝධී ඒකකය දැනුම්වත් නොකළ බවට ඔහුට එරෙහිව චෝදනා එල්ලකර ඇත.
+🟩
 
-නිවේදනයක් නිකුත් කරමින් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පැවසුවේ මෙම චෝදනා සඳහා උත්තර සැපයීමට 2024 අගෝස්තු 6 වනදා සිට දින 14ක් ඔහුට ලබාදී ඇති බවයි.
+Sri Lanka Cricketer Prain Win Jayawickikawe Instruments of Sri Lanka have violated anti-corruption rules of the International Cricket Council.
+
+He has been accused of anti-corruption unit of proposals to the betrayal of the proposals to the betrayal of the 2021 international matches.
+
+Issuing announcement in announcement, the International Cricket Council said that 14 days from August 6, 2024, responding to these allegations.
 
 ◼️
 
 [Data](articles/04d26aa4.json)
+
+[Extended Data](ext_articles/04d26aa4.ext.json)
 
 ---
 
@@ -81,6 +151,8 @@ On Tuesday, four people were killed when a mob burnt down the residence of MP Sh
 ...
 
 [Data](articles/112f92a9.json)
+
+[Extended Data](ext_articles/112f92a9.ext.json)
 
 ---
 
@@ -2161,73 +2233,5 @@ He said this while addressing the post of adjournment of the House Stability Rep
 [Data](articles/454db897.json)
 
 [Extended Data](ext_articles/454db897.ext.json)
-
----
-
-### Transmitter Ranil
-
-*2024-08-08 01:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தள்ளிவிட்டு-தாவுவர்/175-341776) · `ta`
-
-Tsushara Hindu criticizes President Ranil Wickremesinghe's allies, predicting they'll abandon him for personal gains. In a parliamentary debate, Wickremesinghe challenges opposition MPs over quick liquor purchases, leading to a confrontation.
-
-🟩
-
-The United People's Power MP Tsushara Hindu said that those who are currently on the side of President Ranil Wickremesinghe will push the president to the Adalapathalam and jump their favorables.
-
-Speaking at a postponement debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (7), he said.
-
-President Ranil Wickremesinghe challenged the names of the opposition MPs who had obtained liquor from the liquor bar in five minutes. Mahindananda Aluthgamage challenged him.
-
-President Ranil Wickremesinghe has now gone to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/fefaf9c4.json)
-
-[Extended Data](ext_articles/fefaf9c4.ext.json)
-
----
-
-### Cancel
-
-*2024-08-08 01:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-இன்றேல்-இரத்து-செய்யவும்/175-341775) · `ta`
-
-Sanakiyan raised concerns in Parliament about unanswered queries regarding a financial scandal involving the Financial Institute and its directors, Ahmad Serim Muhammad Sihab and Fatima Barsana Markar, accused of defrauding 170 crore rupees. The directors are believed to have fled to India. Despite repeated inquiries since 2020, there's been no resolution, and the victims await justice.
-
-🟩
-
-The questions I have put forward in this House have not yet been answered by the Director of the Financial Institute of Financial Institute who has fled the country after defrauding the 170 crore rupees in the Eastern Province, or the answer to the oral answer system.Said Sanakiyan.
-
-In Samanthurai, Kalmunai, Pottuvil, Eravur and Maruthamunai, the Financial Institute has been run by the Private Global Private Limited from 05.02.2014?Ahmad Serim Muhammad Sihab and Fatima Barsana Markar, who served as the Director of the company, have defrauded more than 170 crores of rupees, and the above mentioned employee and his family have been in hiding in India to date, and the public has been deployed in the Kalmunai and Samanthurai police stations?The Minister of State will inform the House of Reply to the MP?. He questioned the Minister of Public Security.
-
-Prasanna Ranatunga, the prime minister of the state side, sought 3 months of time to answer these questions.
-
-...
-
-[Data](articles/9d721383.json)
-
-[Extended Data](ext_articles/9d721383.ext.json)
-
----
-
-### 22 people in control of presidential election - Elections Commission
-
-*2024-08-08 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190543) · `ta`
-
-22 candidates, including 11 from authorized parties, 1 from other parties, and 10 independents, have been approved to run in the upcoming presidential election. The Elections Commission will accept applications from 9 am to 11:30 am on Thursday, the 15th. Notable candidates include Osala Herath, ASP Liagke, Sajith Premadasa, and others representing various political fronts.
-
-🟩
-
-22 candidates have been controlled so far (Wednesday) to contest the presidential election. The Elections Commission has announced that 11 candidates to contest on behalf of authorized political parties, 1 candidates to contest on behalf of other political parties and 10 candidates to contest independently.
-
-Candidates will be accepted from 9 am to 11.30 am on Thursday, the 15th of this month.
-
-Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Workers Party, Sajith Premadasa on the United People's Power, SK Pandaranaike on behalf of the National Development Front, Vijayadasa Rajapakse on behalf of the National Democratic FrontSarath Manamendra on behalf of the New Seahala Urumaya Party, Battaramulla Seelaratne Thera on behalf of the Janasena Front, KR Krishnan on behalf of the Arunulu People's Front, Anurakumara Dissanayake on behalf of the National People's Power
-
-...
-
-[Data](articles/3ed7c661.json)
-
-[Extended Data](ext_articles/3ed7c661.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 11:56:26**
+As of **2024-08-08 12:10:18**
 
 ## Newspaper Stats
 
-*Scraped **39,616** Articles*
+*Scraped **39,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,93 @@ dailyftlk | 2,551
 adalk | 3,639
 adaderanalk | 4,601
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,985
+tamilmirrorlk | 4,986
 virakesarilk | 6,259
-adaderanasinhalalk | 6,713
+adaderanasinhalalk | 6,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,613 (100.0%) of 39,616 articles have been extended.
+39,616 (100.0%) of 39,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### බංග්ලාදේශයේ ඉන්දීය වීසා අයදුම් මධ්‍යස්ථාන වැසෙයි
+### පවිත්‍රාත් රනිල්ට
+
+*2024-08-08 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199703) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්ව සිටින රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදීමට අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය තීරණය කර තිබේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ රත්නපුර දිස්ත්‍රික්කයේ බහුතර පාක්ෂිකයින්ගේ ඉල්ලීම මත තමන් මෙම තීරණයට එළඹී බව පවිත්‍රා වන්නිආරච්චි මහත්මිය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+පවිත්‍රා වන්නිආරච්චි මහත්මිය විසින් නිකුත් කළ සම්පුර්ණ නිවේදනය පහතින් දැක්වේ.
+
+◼️
+
+[Data](articles/edf51207.json)
+
+---
+
+### Indian visa application centers closed in Bangladesh
 
 *2024-08-08 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199702) · `si`
 
-බංග්ලාදේශයේ පිහිටි සියලුම ඉන්දීය වීසා අයදුම් මධ්‍යස්ථාන තාවකාලිකව වසා දැමීමට පියවර ගෙන තිබේ.
+All Indian visa application centers in Bangladesh have been temporarily closed due to undisclosed reasons. Essential staff at the High Commission and Consulates have also been removed. The resignation of the Prime Minister amidst protests in Bangladesh is noted.
 
-උද්ගතව ඇති තත්ත්වය හමුවේ නැවත දැනුම් දෙනතුරු අදාළ මධ්‍යස්ථාන වසා දමා ඇති බව ඉන්දීය රජය දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කෙරෙයි.
+🟩
 
-බංග්ලාදේශයේ ඉන්දීය මහකොමසාරිස් කාර්යාලය සහ කොන්සල් කාර්යාලවල අත්‍යවශ්‍ය නොවන කාර්ය මණ්ඩල ඉවත්කර ගැනීමට ද ඉන්දීය රජය පියවර ගෙන තිබේ.
+Steps have been taken to temporarily close all Indian visa application centers in Bangladesh.
 
-බංග්ලාදේශයේ ක්‍රියාත්මක වූ විරෝධතා හමුවේ ශෙයික් හසීනා අග්‍රාමාත්‍ය ධූරයෙන් ඉල්ලා අස්වූ අතර ඇය පසුව ඉන්දියාවට පළා ගොස් තිබුණි.
+According to foreign media reports, the centers have been closed down to the informed centers before the arrangement.
+
+The Indian government has also taken steps to remove the essential staff of the High Commission and Consulates in Bangladesh.
+
+The Prime Minister of Prime Minister was resigned from the post of Prime Minister in the face of protests in Bangladesh.
 
 ◼️
 
 [Data](articles/b41a0f27.json)
 
+[Extended Data](ext_articles/b41a0f27.ext.json)
+
 ---
 
-### පැරිස් ඔලිම්පික් පදක්කම් සටහනේ පෙරමුණ අමෙරිකාවට
+### Front of the Paris Olympic Medal
 
 *2024-08-08 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199701) · `si`
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ පදක්කම් සටහනේ තවදුරටත් පෙරමුණේ පසුවීමට අමෙරිකා එක්සත් ජනපදය සමත් ව තිබේ.
+The United States leads the Paris Olympics with 27 gold, 35 silver, and 32 bronze medals. China follows with 25 golds, and Australia is third with 18 golds.
 
-ඒ රන් පදක්ම් 27ක්, රිදී පදක්කම් 35ක් සහ ලෝකඩ පදක්කම් 32ක් ලබා ගනිමින්.
+🟩
 
-පදක්කම් සටහනේ දෙවැනි ස්ථානයේ චීනය රැදී සිටින අතර ඔවුන් රන් පදක්කම් 25ක් ලබා ගෙන ඇත.
+The United States of America has been able to take the lead in the Medalism of the Paris Olympic Games.
 
-තුන්වන ස්ථානය ගැනීමට ඔස්ට්‍රේලියාව සමත්ව ඇති අතර ඔවුන් මේ දක්වා පැවති තරග වලින් රන් පදක්කම් 18ක් දිනා ගැනීමට සමත්ව තිබේ.
+They get 27 gold medals, 35 silver medals and 32 bronze medals.
+
+The medals are staying second in the second place in China, and they have obtained 25 gold medals.
+
+Australia has passed the third and has won 18 gold medals from the matches so far.
 
 ◼️
 
 [Data](articles/114b3fdc.json)
+
+[Extended Data](ext_articles/114b3fdc.ext.json)
+
+---
+
+### சஜித்துடன் இணைந்தார் அர்ஜுன ரணதுங்க
+
+*2024-08-08 11:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-அர்ஜுன-ரணதுங்க/175-341800) · `ta`
+
+ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை ஆதரிக்கும் தீர்மானத்தை எடுத்துள்ள  முன்னாள் அமைச்சர் அர்ஜுன ரணதுங்க,   சஜித் தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் இணைந்தார்.
+
+◼️
+
+[Data](articles/bee1f6f1.json)
 
 ---
 
@@ -1364,21 +1404,31 @@ Present for the Grand Opening Ceremony were Chief Guest High Commission of India
 
 ---
 
-### වාස් ගුණවර්ධන ඇතුළු විත්තිකරුවන් 6 දෙනාට පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
+### Supreme Court confirms the death penalty for Vass Gunawardena and six accusers
 
 *2024-08-08 05:47:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5dep3ldj3o) · `si`
 
-වාස් ගුණවර්ධන ඇතුළු විත්තිකරුවන් 6 දෙනාට පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
+The Supreme Court confirmed the death penalty for millionaire DIG Vass Gunawardena and six others, concluding a nearly seven-year trial. The convictions stem from abduction charges, with the verdict based on the lack of reasonable defense arguments. This case highlights the judicial process and its outcomes in high-profile cases.
 
-බම්බලපිටිය ප්‍රදේශයේ පදිංචි කෝටිපති ව්‍යාපාරිකයකු වන මොහොමඩ් ෂියාම් නමැත්තා පැහැරගෙන ගොස් මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන ඔහුගේ පුත් රවිඳු ගුණවර්ධන ඇතුළු විත්තිකරුවන් හය දෙනෙකුට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය විසින් අද (අගෝස්තු 8 වැනිදා) තහවුරු කරනු ලැබීය.
+🟩
 
-එම දඬුවම් වලින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා වාස් ගුණවර්ධන ඇතුළු විත්තිකරුවන් ඉදිරිපත් කළ අභියාචනා පෙත්සම් දීර්ඝ ලෙස විභාග කිරීමෙන්  අනතුරුව විජිත් මලල්ගොඩ, ප්‍රීති පද්මන් සූරසේන, ගාමිණී අමරසේකර,  අර්ජුන ඔබේසේකර යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු අචල වෙංගප්පූලි විසින් අද මෙම තීන්දුව ප්‍රකාශයට පත් කළේය.
+Supreme Court confirms the death penalty for Vass Gunawardena and six accusers
 
-තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේ මෙම නඩුවේ පෙත්සම්කරුවන් හා නීතිපතිවරයා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම තීන්දුව ප්‍රකාශයට පත්කරන බව ය.
+Millionaire DIG Vass Gunawardena, who was sentenced to death and six accusations of the Colombo three-member High Courts in Bambalapitiya (IGP) has been sentenced to six-member High Courts in Colombo (August 8).Confirmed.
+
+Vijith Malalgoda, Geta Padman Sushinga, Gamini Amarasekara and Arjuna Amarasekera, Gamini Amarasekara and Arjuna Oberasekara, Gamini Amarasekera and Gamini Amarasekera, Gamini Amarasekera and Gamini Amarasekera..
+
+Expressing the verdict, the judge said that the decision was published after the petitioners and the Attorney General of the Attorney General.
+
+The judge said that the decision of the defendants had no reasonable basis, but the judge said.
+
+Vass Gunawardena, who was convicted of abducting the millionaire businessman in Bambalapitiya on May 22, a three-member High Court has been sentenced to six opposition judges in Colombo on November 27, 2015 by a three-member High Court in Colombo..
 
 ...
 
 [Data](articles/ac69a661.json)
+
+[Extended Data](ext_articles/ac69a661.ext.json)
 
 ---
 
@@ -2193,75 +2243,5 @@ The Sri Lankan team records a tournament against India after 27 years.
 [Data](articles/0fa243d0.json)
 
 [Extended Data](ext_articles/0fa243d0.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka
-
-*2024-08-07 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199680) · `si`
-
-Sri Lanka convincingly won against India in the final One Day International (ODI) match, securing victory by 110 runs. This triumph marks Sri Lanka's first series win over India in 27 years, following a previous ODI victory in 1997. Dutee Wellage stood out with 5 wickets for 27 runs, his second five-wicket haul in an ODI. Despite strong performances from Rohit Sharma (30) and Virat Kohli (20), India couldn't match Sri Lanka's total of 248/7 in 50 overs, led by Avishka Fernando's 96 runs.
-
-🟩
-
-The Sri Lankan team was won by 110 runs in the third and last one day cricket cricket cricket.
-
-Colombo. The Sri Lanka team won only 138 runs in 26.1 overs.
-
-Accordingly, Sri Lanka was able to win both the remaining matches.
-
-The tournament won by the Sri Lankan team, which is the first tournament of India over 27 years after India.
-
-Earlier, they had defeated the Indian team at one ODI in 1997, and they had defeated India in 3-0 matches.
-
-Duti Welles, who was playing in the match today, took 5 wickets for 27 runs.
-
-This is also the second five wickets who were broken in one-day match.
-
-The humiliation of the Indian defeat was a decline, and the leader Rohinton Surder (30) and Virat Kohli (20), Washington Surgery, built.
-
-Batting first Sri Lanka scored 248 runs for the loss of 07 wickets in the 50 overs.
-
-Anthemist Fernando, who lifted Sri Lankan innings, was bowled out for 96 runs.
-
-As a result, he lost the 4th century runs in the day by 4 runs.
-
-...
-
-[Data](articles/1a47bb30.json)
-
-[Extended Data](ext_articles/1a47bb30.ext.json)
-
----
-
-### Thousands of people gathered together to the Medical Medical Archana released by the Mannar Court
-
-*2024-08-07 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190537) · `ta`
-
-Doctor Arjuna Archana Manna, arrested for allegedly disrupting operations at Mannar District General Hospital, was released on bail after being remanded. Thousands celebrated his release, escorting him to a public park. The case involves a graduate's death, leading to accusations against the doctor.
-
-🟩
-
-The people of Mannar district gave a greeting to the doctor Arjuna, who was released on Wednesday (7) by the Mannar Court.
-
-The doctor Archana Manna was arrested by the Mannar Police Station on charges that he had entered the Mannar District General Hospital last Friday night (2).
-
-When the arrested doctor appeared before the Mannar Magistrate on Saturday, he ordered him to be remanded until the 7th of AM.
-
-When the case was taken up for hearing today (7), doctor Aruchuna was produced before the Mannar Court.
-
-Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at the forum.
-
-On the condition of the Mannar Magistrate, Sir, the Magistrate allowed him to go on a crazy bail on two fantasies each.
-
-Thousands of people gathered in front of the Mannar District Court when the doctor left the forum.
-
-The people of Mannar district then took the doctor to the Mannar Public Playground area and wore the evening and congratulated them.
-
-...
-
-[Data](articles/a20a5b7f.json)
-
-[Extended Data](ext_articles/a20a5b7f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 20:20:46**
+As of **2024-08-08 20:36:33**
 
 ## Newspaper Stats
 
-*Scraped **39,691** Articles*
+*Scraped **39,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,410
 dailyftlk | 2,551
-adalk | 3,643
+adalk | 3,644
 adaderanalk | 4,610
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,992
+tamilmirrorlk | 4,994
 virakesarilk | 6,283
 adaderanasinhalalk | 6,731
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,691 (100.0%) of 39,691 articles have been extended.
+39,691 (100.0%) of 39,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### கெஹலியவுக்கு எதிரான வழக்கு ; இருவருக்கு பிணை
+
+*2024-08-08 19:55:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-இருவருக்கு-பிணை/175-341828) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட மூவர் எதிர்வரும் 22ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இதேவேளை, சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக சந்திரகுப்த மற்றும் சுகாதார அமைச்சின் முன்னாள் மேலதிக செயலாளர் சமன் ரத்நாயக்க ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் இன்று (08) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/0113ceb9.json)
+
+---
+
+### மாணவனை கொடூரமாக தாக்கிய பொலிஸ் அதிகாரிகள்?
+
+*2024-08-08 19:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனை-கொடூரமாக-தாக்கிய-பொலிஸ்-அதிகாரிகள்/175-341827) · `ta`
+
+பயாகல பொலிஸ் போக்குவரத்து உத்தியோகத்தர்களினால் 16 வயதுடைய பாடசாலை மாணவர் ஒருவர் கொடூரமான முறையில் தாக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக, களுத்துறை நாகொட போதனா வைத்தியசாலையின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+பயாகல, மலேகொட பிரதேசத்தைச் சேர்ந்த தருஷா ஜினால் என்ற பாடசாலை மாணவனே இதில் பாதிக்கப்பட்டுள்ளார்.
+
+குறித்த மாணவன் நேற்று (07) பிற்பகல் தனது தந்தையின் மோட்டார் சைக்கிளில் நண்பருடன் அருகில் உள்ள கடைக்கு சென்றுள்ளார். அந்த நண்பர் பாதுகாப்பு தலைக்கவசத்தை அணியவில்லை என்று தெரிவிக்கப்பட்டுள்ளது.
+
+அதனைக் கண்ட பயாகல பொலிஸ் போக்குவரத்து பிரிவின் நடமாடும் கடமைகளில் ஈடுபட்டிருந்த இரு அதிகாரிகள் அவர்களை துரத்திச் சென்று மோட்டார் சைக்கிளை நிறுத்தி அவர்களை திட்டியுள்ளனர்.
+
+இதனால் பயந்துபோன பாடசாலை மாணவர் மோட்டார் சைக்கிளை ஓட்டிக்கொண்டு அருகில் உள்ள உறவினர் வீட்டிற்கு சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அதன்படி, அவர்களைப் பின்தொடர்ந்து வந்த பொலிஸார் மீண்டும் மோட்டார் சைக்கிளில் வந்த மாணவனைத் தாக்கியுள்ளனர்.
+
+...
+
+[Data](articles/a6d6ccea.json)
+
+---
 
 ### Troops reaching up to 24 people who joined President fight
 
@@ -635,6 +673,18 @@ The arrest came hot on the heels of pressure from civil society activists and he
 [Data](articles/0099f81a.json)
 
 [Extended Data](ext_articles/0099f81a.ext.json)
+
+---
+
+### පවිත්‍රාගේ සහයත් රනිල්ට
+
+*2024-08-08 16:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-සහයත්-රනිල්ට/11-411265) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්ව සිටින රනිල් වික්‍රමසිංහ මහතාට සහයෝගය ලබාදීමට අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/65e644c4.json)
 
 ---
 
@@ -2257,77 +2307,5 @@ The presidential election relating time will be completed at 12 noon on the 14th
 [Data](articles/e1b01be9.json)
 
 [Extended Data](ext_articles/e1b01be9.ext.json)
-
----
-
-### Election Complaints
-
-*2024-08-08 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199695) · `si`
-
-From July 31 to yesterday, the Election Commission received 137 election-related complaints.
-
-🟩
-
-According to the Election Commission, 137 election complaints have been reported from July 31 to yesterday.
-
-◼️
-
-[Data](articles/6f50c6ef.json)
-
-[Extended Data](ext_articles/6f50c6ef.ext.json)
-
----
-
-### Circulars released to retirement
-
-*2024-08-08 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199694) · `si`
-
-A circular suspends the Elections Commission appointments for pensioners, affecting secretaries and department heads. This change, effective from September, follows the government's decision communicated through various ministries. Despite this, the Elections Commission argues against the legality of providing allowances under such orders.
-
-🟩
-
-The Secretary to the Secretary to the Ministry of Public Administration has issued a circular regarding the appointment of the Elections Commission to be temporarily suspended for the pensioners.
-
-It is reported that the relevant circular has been issued to the Ministry Secretaries to the Provincial Chief Secretaries and Heads of Departments.
-
-Accordingly, the relevant allowance has been made to provide the relevant allowance from September.
-
-The Government Administrative Home Affairs The Ministry of Provincial Councils and Local Government Affairs had recently informed the Secretary to the Ministry of Public Administration to the government's decision to be temporarily suspended.
-
-It is also reported that the Meetings of the Secretaries of the Elections Commission have also been informed.
-
-However, the Elections Commission said that the election law was against the election law to provide the allowance despite the order.
-
-◼️
-
-[Data](articles/e6dd6133.json)
-
-[Extended Data](ext_articles/e6dd6133.ext.json)
-
----
-
-### Traffic in Nallur Temple
-
-*2024-08-08 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூர்-ஆலய-சுற்றுவீதிகளில்-போக்குவரத்து-தடை/71-341783) · `ta`
-
-Traffic around Nallur Temple will be restricted from 8 am on September 4th for the annual festival, reopening post-Vairavar Shanti on September 4th evening. Vehicles can access Jaffna via Point Pedro Road during this period. The Nallur Road will be open for concerts during festivities. Officials including N. Krishnandran and Kalinga Jayasinghe attended the announcement.
-
-🟩
-
-Traffic will be banned in the surrounding areas of the Nallur Temple from the morning of 08 am to mark the annual festival of Nallur Kandaswamy Temple.
-
-The road ban will be released on the evening of September 4 after the end of Vairavar Shanti.
-
-When the road is closed, vehicles coming through the Point Pedro Road can reach the Jaffna city by traveling in front of the Jaffna Municipal Council.
-
-It is also worth noting that during the festivities and chapar festivals, the concert can be traveled by Nallur Road.
-
-Yall. Municipal Commissioner N. Krishnandran, Jaffna District Deputy Inspector General of Police Kalinga Jayasinghe and Municipal Council officials were present at the event.. Remble
-
-◼️
-
-[Data](articles/2b0771cf.json)
-
-[Extended Data](ext_articles/2b0771cf.ext.json)
 
 ---

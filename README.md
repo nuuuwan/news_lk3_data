@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 22:09:41**
+As of **2024-08-08 22:21:00**
 
 ## Newspaper Stats
 
@@ -26,27 +26,39 @@ adaderanasinhalalk | 6,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,709 (100.0%) of 39,711 articles have been extended.
+39,711 (100.0%) of 39,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### රන්මල් කොඩිතුවක්කු ගැන විමර්ශනයක්
+### Investigation into Ranmal Kodituwakku
 
 *2024-08-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199727) · `si`
 
-ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිතුවක්කු ඇතුළු පොලිස් නිලධාරින් පිරිසක් පිළිබඳව විමර්ශනයක් පවත්වා අපරාධ නීතිය යටතේ නඩු පැවරීමට අවශ්‍ය කටයුතු කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (08) නීතිපතිවරයාට නියෝග කළේය.
+The Supreme Court has directed the Attorney General to investigate allegations of inhumane treatment against Senior DIG Ranmal Kodituwakku, ordering him to respond within 8 weeks. This action follows a petition filed by a Rajagiriya businessman, highlighting the need for proper conduct among senior police officers.
 
-ඒ, කිසිදු සාධාරණ හේතුවක් නොමැතිව ව්‍යාපාරිකයෙකු අත්අනෝමතික ලෙස අත්අඩංගුවට ගෙන නිරුවත් කොට ලිංගික හිරිහැරවලට භාජනය කර අමානුෂික ආකාරයෙන් පහරදීමේ සිද්ධිය සම්බන්ධයෙනි.
+🟩
 
-ඒ අනුව ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිත්තුවක්කු ඇතුළු වගඋත්තරකරුවන්ට එරෙහිව විමර්ශනයක් ආරම්භ කරන ලෙසත් ජාතික පොලිස් කොමිසමට ද ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර ඇත.
+The Supreme Court today ordered the Attorney General today (08) to ensure that the Senior DIG Ranmal Kodituwakku.
 
-ඊට අමතරව මෙම සිද්ධියට අදාළ අපරාධ විමර්ශනය තම පෞද්ගලික අධීක්ෂණය යටතේ සිදු කිරීමට පියවර ගත යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය විසින් බස්නාහිර පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාට නියෝග කර තිබේ.
+It is in connection with the incident that is unconscious and naked and inhuman harassment without any reasonable cause.
 
-...
+The Supreme Court has issued an order to launch an investigation against the respondents against the respondents including Senior DIG Ranmal Flag.
+
+The Supreme Court has ordered the Western Province Senior DIG in charge of the Western Province.
+
+The orders were issued by Yasantha Koduna Wickremasinghe and Priyantha Fernando three-member judiciary, permission to hear a fundamental rights petition filed by a businessman from Rajagiriya.
+
+One of the eight senior DIGs in the country, Judge Yasantha Kodagoda noted this way to deal with a senior police officer in this way.
+
+The Supreme Court has ordered the respondents to the respondents to the respondents to the respondents to the respondents to the respondent to the petition within 8 weeks.
+
+◼️
 
 [Data](articles/bb2754d9.json)
+
+[Extended Data](ext_articles/bb2754d9.ext.json)
 
 ---
 
@@ -63,6 +75,8 @@ Bangladesh’s figurehead President Mohammed Shahabuddin administered the oath t
 ...
 
 [Data](articles/d28284d5.json)
+
+[Extended Data](ext_articles/d28284d5.ext.json)
 
 ---
 

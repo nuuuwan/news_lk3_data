@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 10:54:56**
+As of **2024-08-08 11:07:03**
 
 ## Newspaper Stats
 
-*Scraped **39,601** Articles*
+*Scraped **39,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
-adalk | 3,638
+adalk | 3,639
 adaderanalk | 4,599
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,983
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,596 (100.0%) of 39,601 articles have been extended.
+39,601 (100.0%) of 39,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,51 +46,71 @@ Accordingly, the the verdict, delivered after a prolonged trial, upholds the dea
 
 [Data](articles/e539bc94.json)
 
+[Extended Data](ext_articles/e539bc94.ext.json)
+
 ---
 
-### සමගි ජන සන්ධානය එළිදැක්වීමේ උත්සවය ඇරඹේ
+### Reconciliation Alliance Launching begins
 
 *2024-08-08 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199700) · `si`
 
-ජනාධිපතිධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ජයග්‍රහණය වෙනුවෙන් ගොඩනැගෙන සමගි ජනබලවේගය ප්‍රමුඛ සමගි ජන සන්ධානය එළිදැක්වීමේ උත්සවය මේ වනවිට ආරම්භ වී තිබේ.
+The launch of the Reconciliation Alliance marks the beginning of a legal process aimed at reconciling differences and celebrating the victory of opposition leader Sajith Premadasa.
+
+🟩
+
+The ceremony of the reconciliation of the reconciliation of the reconciliation has commenced its legal reconciliation for the victory of the opposition leader of the opposition leader of the opposition leader of the opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/801766a3.json)
 
+[Extended Data](ext_articles/801766a3.ext.json)
+
 ---
 
-### වාස් ගුණවර්ධන ඇතුළු හයකට පැනවූ මරණ දණ්ඩනය තහවුරු කෙරේ
+### Vass Gunawardena has been confirmed by the death penalty
 
 *2024-08-08 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199699) · `si`
 
-2013 වසරේ බම්බලපිටිය ප්‍රදේශයේ පදිංචි කෝටිපති ව්‍යාපාරිකයකු වන මොහොමඩ් ෂියාම් නමැත්තා පැහැරගෙන ගොස් මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන, ඔහුගේ පුත් රවිඳු ගුණවර්ධන ඇතුළු විත්තිකරුවන් හය දෙනෙකුට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය විසින් අද (08) තහවුරු කරනු ලැබීය.
+Vass Gunawardena and his son Ravindu Vijaya have had their death sentences upheld by the Supreme Court after a lengthy trial involving three police inspectors. The court rejected their pleas for acquittal or release.
 
-එම දඬුවම්වලින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා වාස් ගුණවර්ධන ඇතුළු විත්තිකරුවන් විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය එම තීන්දුව ලබා දුන්නේය.
+🟩
 
-දීර්ඝ නඩු විභාගයකින් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ලබාදුන් අතර මරණීය දණ්ඩනය තහවුරු කරන ලද විත්තිකරුවන් අතර උප පොලිස් පරීක්ෂකවරයෙකු සහ පොලිස් කොස්තාපල්වරු තුන්දෙනෙකුද ඇතුළත්ව සිටී.
+The Supreme Court today (08) today, the death penalty imposed by a three-member High Courts in Bambalapitiya, Bambalapitiya, Bambalapitiya, was taken away by the death sentence including his son Ravindu Vijaya.) Confirmed.
+
+The Supreme Court gave the verdict with Vass Gunawardena demanding the accusation and release of themselves.
+
+After a long trial, the Supreme Court allocated this decision and three police inspectors between the defendants confirmed.
 
 ◼️
 
 [Data](articles/788faf7b.json)
 
+[Extended Data](ext_articles/788faf7b.ext.json)
+
 ---
 
-### විජයදාසගෙන් හෙළිදරව්වක්
+### A revelation from Wijayadasa
 
 *2024-08-08 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199698) · `si`
 
-පසුගිය අරගල සමයේදී හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා තමාට අගමැතිධූරය භාරගන්නා ලෙස ඉල්ලීමක් කළ බව හිටපු අධිකරණ අමාත්‍ය, ජනාධිපති අපේක්ෂක විජයදාස රාජපක්ෂ පවසයි.
+Gotabhaya Rajapaksa urged Mahinda Rajapaksa to accept the PM role during their struggle, but a group of individuals missed this chance. This revelation came after a function in Anuradhapura, where the former President mentioned his decision to form a government with Ranil Wickremesinghe as PM on May 12, 2022, aiming to rebuild the country.
 
-නමුත් පොදුජන පෙරමුණේ පිරිසක් තමාට එහිදී එම අවස්ථාව අහිමි කළ බවයි ඔහු පවසන්නේ.
+🟩
 
-අනුරාධපුර ප්‍රදේශයේ පැවැති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් හිටපු අමාත්‍යවරයා මේ බව පැවසීය.
+Former President's President Gotabhaya Rajapaksa has requested former President Mahinda Rajapaksa to accept the prime minister in the past struggle.
 
-"මේ රටේ අරගලය තිබුණ වෙලාවේ මේ රට සන්සුන් කරලා මේ රට ගොඩනැගීම සඳහා 2022 මැයි මාසේ 12 වැනිදා ගෝඨාභය රාජපක්ෂ ජනාධිපතිතුමා තීරණයක් අරන් මට දැනුම් දුන්නා ආණ්ඩුවේ අග්‍රාමාත්‍ය තනතුර භාරගන්න කියලා. ඒක දැනගත්තාට පස්සේ පොහොට්ටුවේ අය කලබල වෙලා ඉක්මනට රනිල් වික්‍රමසිංහ මහත්මයාව ගෙනල්ලා බලපෑම් කරලා, ජනාධිපතිවරයාට සිද්ධ වුණා අග්‍රාමාත්‍යකම දෙන්න."
+However, he says that a group of Knowncies have lost the opportunity for him.
+
+The former Minister was speaking to the media after a function in Anuradhapura.
+
+"On May 12, 2022 to build this country at this country, he made a decision to build the government to hand over government Prime Minister. After learning it, the President had pressured Ranil Wickremesinghe to quickly and pressured Ranil Wickremesinghe. "
 
 ◼️
 
 [Data](articles/064485e7.json)
+
+[Extended Data](ext_articles/064485e7.ext.json)
 
 ---
 
@@ -110,19 +130,37 @@ The decision was delivered by a panel of five judges of the Supreme Court after 
 
 ---
 
-### ஆற்றிலிருந்து தங்கம் மீட்பு
+### Gold recovery from the river
 
 *2024-08-08 10:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆற்றிலிருந்து-தங்கம்-மீட்பு/175-341794) · `ta`
 
-கற்பிட்டி தோரடி குளத்தில் மறைத்து வைக்கப்பட்டிருந்த 20 கோடி ரூபாவுக்கும் அதிக பெறுமதியான தங்கம் மீட்கப்பட்டுள்ளது.
+In Kalpitiya, over 20 crores worth of gold, weighing 4 kg 740 grams, was discovered hidden in a pond during a special search by local navy officials. The gold, found in polythene bags, is believed to have been smuggled from India.
 
-கற்பிட்டி விஜய கடற்படை நிறுவன அதிகாரிகள் மேற்கொண்ட விசேட தேடுதலின் போதே 4 கிலோ 740 கிராம் தங்கம் மீட்கப்பட்டுள்ளது.
+🟩
 
-சட்டவிரோதமான முறையில் இந்தியாவில் இருந்து கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் தங்கம், பொலித்தீன் பைகளில் பாதுகாப்பாக வைக்கப்பட்டு தடாகத்தில் மறைத்து வைக்கப்பட்டிருந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+More than 20 crores of rupees hidden in the Kalpitiya Thoradi pond has been recovered.
+
+4 kg 740 grams of gold has been recovered during a special search conducted by Kalpitiya Vijaya Navy officials.
+
+Police said the gold and polythene bags suspected to have been illegally brought from India were kept safe and hidden in the lake.
 
 ◼️
 
 [Data](articles/4f216553.json)
+
+[Extended Data](ext_articles/4f216553.ext.json)
+
+---
+
+### මරණ දඬුවම නියම වූ එමිල් රංජන් ළමාහේවා නිදොස්කොට නිදහස් කරයි
+
+*2024-08-08 10:15:28* · [`adalk`](https://www.ada.lk/breaking_news/මරණ-දඬුවම-නියම-වූ-එමිල්-රංජන්-ළමාහේවා-නිදොස්කොට-නිදහස්-කරයි/11-411260) · `si`
+
+වැලිකඩ බන්ධනාගාරයේදී සිරකරුවන් 08 දෙනෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් වරදකරු වී මරණ දණ්ඩනය නියම වී සිටි හිටපු බන්ධනාගාර කොමසාරිස් එමිල් රංජන් ළමාහේවා නිදොස් කොට නිදහස් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද(08දා) නියෝග කළේය.
+
+◼️
+
+[Data](articles/d48493e0.json)
 
 ---
 
@@ -2241,31 +2279,5 @@ He joined People’s Leasing and Finance in 2007 as the DGM – finance and admi
 [Data](articles/1ca79abd.json)
 
 [Extended Data](ext_articles/1ca79abd.ext.json)
-
----
-
-### Here is the target to India
-
-*2024-08-07 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199676) · `si`
-
-In today's match between Sri Lanka and India, Sri Lanka, after winning the toss, made 248 runs losing 7 wickets in 50 overs. This marks Sri Lanka's first victory over India in an ODI series after 27 years.
-
-🟩
-
-Sri Lanka and India will be held today (07).
-
-Sri Lanka captain Charith won the toss and win the coin.
-
-Accordingly, Sri Lanka scored 248 runs for the loss of 07 wickets at the end of 50 overs.
-
-Sri Lanka will be at the forefront of winning 1 matches in the ODI series.
-
-Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
-
-◼️
-
-[Data](articles/50ad8ba9.json)
-
-[Extended Data](ext_articles/50ad8ba9.ext.json)
 
 ---

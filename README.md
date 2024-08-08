@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 00:21:51**
+As of **2024-08-09 00:36:21**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,716 (100.0%) of 39,718 articles have been extended.
+39,718 (100.0%) of 39,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### மன்னார் தாய்க்காக பாராளுமன்றத்தில் ஒலித்த குரல்
+### Voice in Parliament for the Mother of Mannar
 
 *2024-08-08 23:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தாய்க்காக-பாராளுமன்றத்தில்-ஒலித்த-குரல்/72-341844) · `ta`
 
-மன்னார் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த  இளம் தாய் சிந்துஜாவின் மரணம் தொடர்பில் ஏதாவது தவறுகள் இடம்பெற்றிருந்தால்  சம்பந்தப்பட்டவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என சுகாதார அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+Health Minister Ramesh Pathirana said that disciplinary action would be taken against those involved if there were any mistakes regarding the death of a young mother Sindhuja, who was admitted to the Mannar Hospital.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற மருத்துவ திருத்தச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றிய தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன்,
+Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (08), Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan
 
-மன்னார் வைத்தியசாலையில் இடம்பெற்ற மரியராஜ் சிந்துஜாவின் மரணம் பாரிய சர்ச்சையை ஏற்படுத்தியுள்ளது.இந்த  மரணம் குறித்து துரிதகரமான விசாரணைகளை முன்னெடுக்க வேண்டும் என்று வலியுறுத்தினார்.
+The death of Mariaraj Sindhuja at the Mannar Hospital has caused a massive controversy.
 
-இந்த விடயம் தொடர்பில் விசேட அவதானம் செலுத்தப்பட்டு நடவடிக்கை எடுக்கப்படும். இது தொடர்பான விசாரணை அறிக்கையை இதுவரை ஆராயவில்லை. குறித்த விடயத்தில் ஏதாவது தவறுகள் நடந்திருந்தால் அது தொடர்பில் நிச்சயமாக ஒழுக்காற்று நடவடிக்கை எடுப்போம்.
+Special attention will be paid to this issue and action will be taken. The investigation report has not yet been investigated. If there are any mistakes in the matter, we will definitely take disciplinary action.
 
-இதேவேளை நாட்டில் நோயாளர்களை பாதுகாப்பது தொடர்பில் கவனம் செலுத்த வேண்டும். அதற்காகவே  புதிய சட்டமூலமொன்றையும் முன்வைத்துள்ளோம் என்றார்.  R
+At the same time, focus on protecting patients in the country. That is why we have put forward a new bill.R
 
 ◼️
 
 [Data](articles/9ab5c645.json)
 
+[Extended Data](ext_articles/9ab5c645.ext.json)
+
 ---
 
-### UNP-யின் ஆதரவு ரணிலுக்கு
+### To Ranil's Support for UNP
 
 *2024-08-08 23:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யின்-ஆதரவு-ரணிலுக்கு/175-341843) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளர் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க ஐக்கிய தேசியக் கட்சி தீர்மானித்துள்ளதாக கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+Vajira Abeywardena, a party leader and parliamentarian, says the United National Party has decided to support Ranil Wickremesinghe in the upcoming presidential election.
 
-இன்று இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் செயற்குழு கூட்டத்தின் போது, இது தொடர்பான தீர்மானம் எட்டப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். R
+At the UNP executive committee held today, he said that the resolution was reached. Remble
 
 ◼️
 
 [Data](articles/62d746ad.json)
+
+[Extended Data](ext_articles/62d746ad.ext.json)
 
 ---
 

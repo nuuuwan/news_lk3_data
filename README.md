@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 19:21:06**
+As of **2024-08-08 19:36:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,688 (100.0%) of 39,690 articles have been extended.
+39,690 (100.0%) of 39,690 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ This includes 11 candidates representing recognised political parties, 12 Indepe
 ◼️
 
 [Data](articles/864eeb3e.json)
+
+[Extended Data](ext_articles/864eeb3e.ext.json)
 
 ---
 
@@ -474,15 +476,21 @@ There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
 
 ---
 
-### ගාසා දරුවන්ට තවත් ඇමරිකානු ඩොලර් පන්ලක්ෂ අනූදහසක් ශ්‍රී ලංකාවෙන් ලබාදෙයි
+### Another US $ 90,000 million for Gaza children from Sri Lanka
 
 *2024-08-08 16:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-දරුවන්ට-තවත්-ඇමරිකානු-ඩොලර්-පන්ලක්ෂ-අනූදහසක්-ශ්‍රී-ලංකාවෙන්-ලබාදෙයි/11-411267) · `si`
 
-ගාසා තීරයේ පවත්නා යුදමය තත්ත්වය හේතුවෙන් අවතැන්ව සිටින දරුවන්ගේ මූලික අවශ්‍යතා සැපයීම සඳහා අවශ්‍ය මුල්‍යාධාර ලබා දීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් අනුව පිහිටුවන ලද “ගාසා හි ළමා අරමුදල (Children of Gaza Fund) වෙත ලැබුණු තවත් ඇමරිකානු ඩොලර් පන්ලක්ෂ අනූදහසක (590,000/-) මුදල පලස්තීන රජය වෙත නිල වශයෙන් භාරදීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (07) ජනාධිපති කාර්යාලයේ දි සිදු විය.
+Sri Lanka's President Ranil Wickremesinghe has donated an additional $50,000 to the Children of Gaza Fund, bringing the total contribution to $90,000. This donation was officially handed over to the Palestinian government, reflecting the commitment to support children in Gaza.
+
+🟩
+
+For the concept of President Ranil Wickremesinghe, the "Children of Gazza Fund has received another US $ 50,000 USD (590,000 / -)President Ranil Wickremesinghe was officially handed over to the Palestinian government.
 
 ◼️
 
 [Data](articles/5319109f.json)
+
+[Extended Data](ext_articles/5319109f.ext.json)
 
 ---
 

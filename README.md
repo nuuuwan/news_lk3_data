@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 07:29:34**
+As of **2024-08-08 07:50:49**
 
 ## Newspaper Stats
 
-*Scraped **39,565** Articles*
+*Scraped **39,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,113 @@ adaderanalk | 4,592
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,972
 virakesarilk | 6,252
-adaderanasinhalalk | 6,698
+adaderanasinhalalk | 6,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,547 (100.0%) of 39,565 articles have been extended.
+39,558 (100.0%) of 39,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### වෙඩි වැදීමකින් පුද්ගලයෙක් මරුට - පොලිස් නිලධාරියෙකුට තුවාල
+### ග්‍රාම නිලධාරිවරු වෘත්තීය ක්‍රියාමාර්ගයක
+
+*2024-08-08 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199689) · `si`
+
+අත්තනෝමතික ලෙස ග්‍රාම නිලධාරී සේවා ව්‍යවස්ථාව ගැසට් කිරීමට විරෝධය පළ කරමින් වෘත්තීය ක්‍රියාමාර්ගයක නිරත වන බව ග්‍රාම නිලධාරී වෘත්තීය සමිති සන්ධානය පවසයි.
+
+◼️
+
+[Data](articles/d5dc58d6.json)
+
+---
+
+### බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම පාකිස්තානයට?
+
+*2024-08-08 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199688) · `si`
+
+බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිතව තිබෙන පාකිස්තානු ටෙස්ට් තරග සංචාරය සඳහා ඔවුන් සැලසුම් කළ දිනට පෙර එරටින් පිටව යාමට තීරණය කර තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කර සිටී.
+
+බංග්ලාදේශය තුළ උද්ගතව තිබෙන නොසන්සුන්තාවය පිළිබද එරට ක්‍රිකට් ආයතනය විසින් සත්කාරක පාකිස්තානය දැනුම්වත් කර ඇති අතර, ඊට යහපත් ප්‍රතිචාරයක් ලැබී ඇති බව සඳහන්.
+
+තරග 02කින් යුත් ටෙස්ට් ක්‍රිකට් තරගාවලියේ පළමු තරගය මේ මස 21වනදා රාවල්පිණ්ඩිහිදී පැවැත්වීමට නියමිතව ඇත.
+
+ඒ අනුව පාකිස්තානු ක්‍රිකට් ආයතනය විසින් කල්වෙලා ඇතිව පැමිණෙන බංග්ලාදේශ ක්‍රිකට් කණ්ඩායම හා ඔවුන්ගේ පුහුණුකාර මණ්ඩලයට අවශ්‍ය සියලුම පුහුණු පහසුකම් සැපයීමට සිය එකඟතාව පළකර ඇත.
+
+කෙසේ නමුත් බංග්ලාදේශ කණ්ඩායමේ පැමිණීම තීරණය වන්නේ එරට අභිනවයෙන් පත්වීමට නියමිත අන්තර්වාර රජයේ ප්‍රතිචාරය මත බවද සඳහන් ය.
+
+◼️
+
+[Data](articles/0bc7c84a.json)
+
+---
+
+### ඇප තැබූ පිරිස 22ක් දක්වා ඉහළට
+
+*2024-08-08 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199687) · `si`
+
+මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා ඇප තැන්පත් කළ අපේක්ෂකයින් සංඛ්‍යාව 22 දක්වා ඉහළ ගොස් තිබේ.
+
+ඒ අනුව මේ වන විට පිළිගත් දේශපාලන පක්ෂ 11ක් ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ජනාධිපතිවරණයට අදාළ ඇප මුදල් තැන්පත් කිරීමේ කාලය ලබන 14 වන දින දහවල් 12.00න් අවසන් වීමට නියමිතය.
+
+මේ අතර එළඹෙන ජනාධිපතිවරණයේ දී ඡන්දය ප්‍රකාශය කළ යුතු ආකාරය සම්බන්ධයෙන් ජනතාව දැනුවත් කිරීමට මැතිවරණ කොමිසම කටයුතු කළ යුතු බව පූජ්‍ය ඔමල්පේ සෝභිත හිමි පවසයි.
+
+උන්වහන්සේ පෙන්වා දෙන්නේ එසේ නොවුණහොත් බොහෝ ඡන්ද සංඛ්‍යාවක් එළඹෙන මැතිවරණයේ දී අවලංගු වනු ඇති බවය.
+
+◼️
+
+[Data](articles/d6622dee.json)
+
+---
+
+### Man shot dead - policeman injured
 
 *2024-08-08 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199685) · `si`
 
-සීදුව පොලිස් වසමේ කොටුගොඩ පොලිස් මාර්ග බාධකයේ දී මෝටර් රථයක් පරීක්ෂා කිරීමට යාමේ දී පුද්ගලයෙකු විසින් පොලිස් සැරයන්වරයාගේ ගිනිඅවිය උදුරාගැනීමට උත්සාහ කර තිබේ.
+A man was fatally shot during a police operation in Seeduwa, where officers were investigating a car. The incident resulted in a policeman being injured as well.
 
-පොලීසිය සඳහන් කර ඇත්තේ, සීදුව පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් සීදුවම දෙස සිට පැමිණි මෝටර් රථයක් එලෙස පරීක්ෂා කිරීමට උත්සාහ කර ඇති බවය.
+🟩
 
-එම අවස්ථාවේ දී මෝටර් රථයේ වම්පස අසුනේ සිටි පුද්ගලයෙකු විසින් පොලිස් සැරයන්වරයාගේ රාජකාරි ගිනිඅවිය උදුරාගැනීමට තැත් කිරීමේ දී එම අවිය ක්‍රියාත්මක වී අදාළ නිලධාරියාගේ පාදයකට හා උදුරාගැනීමට උත්සාහ කළ පුද්ගලයාගේ උදරයට වෙඩි වැදී තිබේ.
+In the Seeduwa Police Division, police attempted to overcome the police sergeant's fire.
 
-දෙදෙනාම මීගමුව රෝහලට ඇතුළත් කිරීමේ දී මෝටර් රථයේ සිටි 38 හැවිරිදි පූගොඩ පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව ඇත.
+The police had attempted to investigate a car from the Seeduwa Police Station at the Seeduwa Police Station.
+
+At that time, a person who was in the left-hand shoot of the vehicle's seat was shot dead by a person's duties to the architecture of the police sergeant.
+
+The 38-year-old Puggio man was killed in the car to admit two admission to the Negombo hospital.
 
 ◼️
 
 [Data](articles/4a66b3f1.json)
 
+[Extended Data](ext_articles/4a66b3f1.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-08-08 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199684) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers in the West, Sabaragamuwa, and North-Western provinces, with potential heavy rain exceeding 50mm in Eastern, Uva, and Northern regions, affecting the entire island from evening onwards.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-තවද නැගෙනහිර, ඌව සහ උතුරු පළාත්වල  ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ සඳහන්ය.
+Several spells of showers may occur in the Western, Sabaragamuwa and North Western provinces.
+
+In a statement, the Department said that there will be showers during the evening or night in the rest of the island.
+
+Some areas in the Eastern, Uva and Northern areas. Heavy rains can occur at more than 50.
 
 ◼️
 
 [Data](articles/9e42ff71.json)
+
+[Extended Data](ext_articles/9e42ff71.ext.json)
 
 ---
 
@@ -182,6 +246,8 @@ Former Justice Minister Wijeyadasa Rajapakshe resigned from his portfolio in ord
 
 [Data](articles/8a9755aa.json)
 
+[Extended Data](ext_articles/8a9755aa.ext.json)
+
 ---
 
 ### Operation ‘Yukthiya’ 2nd phase: 776 more suspects arrested
@@ -202,6 +268,8 @@ The authorities have also seized 326 g of heroin, 183 g of ‘Ice’ (Crystal me
 
 [Data](articles/815c264c.json)
 
+[Extended Data](ext_articles/815c264c.ext.json)
+
 ---
 
 ### Media should become a strong institution to save democracy: BASL ex-Chief
@@ -219,6 +287,8 @@ Editorial independence is a practice which all media institutions should follow,
 ...
 
 [Data](articles/5464069b.json)
+
+[Extended Data](ext_articles/5464069b.ext.json)
 
 ---
 
@@ -350,33 +420,47 @@ The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve a
 
 ---
 
-### ‘வயநாடு’ போல ‘பொன்னாவெலி’ மாயமாகும்
+### What is the magic of the Vayanad model
 
 *2024-08-08 01:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-போல-பொன்னாவெலி-மாயமாகும்/175-341777) · `ta`
 
-இந்தியாவின் கேரள மாநிலத்திலுள்ள வயநாடு கிராமம் அழிவடைந்ததை போன்று இலங்கையில் கிளிநொச்சி மாவட்டத்திலுள்ள பொன்னாவெலி கிராமமும் மற்றும் கௌதாரிமுனை கிராமமும் அழிவடைந்து, இலங்கையில் வரைபடத்தில் இருந்தே இல்லாமல் போகும் அபாயம் காணப்படுவதாகவும், இதனை தடுக்க உரிய நடவடிக்கைகள் எடுக்கப்பட வேண்டும் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எஸ்.சிறீதரன் தெரிவித்தார்.
+S. Sridharan, a TNA parliamentarian, highlighted the destruction of Ponnaveli and Gautarimunai villages in Sri Lanka's Kilinochchi district, drawing parallels with the disappearance of Wayanad in Kerala, India, where over 500 families vanished due to a natural disaster. He emphasized the unity and aid provided across communities amidst the tragedy, contrasting it with the artificial destruction of the Sri Lankan villages. Sridharan urged for measures to prevent such losses, advocating against creating another Wayanad-like situation.
 
-பாராளுமன்றத்தில்   புதன்கிழமை (07)  நடைபெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
+
+The Tamil National Alliance (TNA) parliamentarian S. Sridharan said that the village of Ponnaveli and Gautarimunai in the Kilinochchi district of Kilinochchi in Sri Lanka, as the village of Wayanad in Kerala, is destroyed and the risk of destroying Sri Lanka is at risk.
+
+He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (07).
 
 ...
 
 [Data](articles/454db897.json)
 
+[Extended Data](ext_articles/454db897.ext.json)
+
 ---
 
-### ’ரணில் தள்ளிவிட்டு தாவுவர்’
+### Transmitter Ranil
 
 *2024-08-08 01:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தள்ளிவிட்டு-தாவுவர்/175-341776) · `ta`
 
-தற்போது ஜனாதிபதி ரணில் விக்கிரமசிங்க பக்கம் சென்றுள்ளவர்கள் ஜனாதிபதியை அதளபாதாளத்துக்கு தள்ளி விட்டு தமக்கு சாதகமாக உள்ள பக்கம் தாவுவார்கள் என ஐக்கிய மக்கள் சக்தி எம்.பி.யான துஷார இந்துனில் தெரிவித்தார்.
+Tsushara Hindu criticizes President Ranil Wickremesinghe's allies, predicting they'll abandon him for personal gains. In a parliamentary debate, Wickremesinghe challenges opposition MPs over quick liquor purchases, leading to a confrontation.
 
-பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த   அவர் மேலும் பேசுகையில்,
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடமிருந்து மதுபானசாலை அனுமதி பத்திரங்கள் பெற்றுக்கொண்ட  எதிர்க்கட்சி எம்.பி.க்களின்    பெயர் விபரத்தை ஐந்து நிமிடங்களுக்குள் வெளியிடுவதாக மஹிந்தானந்த அளுத்கமகே சவால் விடுத்தார் .ஒரு மணித்தியாலம் கடந்தும் அவர் பெயர் பட்டியலை வெளியிடவில்லை.சபையிலும் அவரை காணவில்லை.பாராளுமன்ற சிறப்புரிமையில் இருந்துக் கொண்டு பொய்யுரைத்து சேறு பூசுவதை அவர் தவிர்க்க   வேண்டும்.
+The United People's Power MP Tsushara Hindu said that those who are currently on the side of President Ranil Wickremesinghe will push the president to the Adalapathalam and jump their favorables.
 
-...
+Speaking at a postponement debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (7), he said.
+
+President Ranil Wickremesinghe challenged the names of the opposition MPs who had obtained liquor from the liquor bar in five minutes. Mahindananda Aluthgamage challenged him.
+
+President Ranil Wickremesinghe has now gone to President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/fefaf9c4.json)
+
+[Extended Data](ext_articles/fefaf9c4.ext.json)
 
 ---
 
@@ -720,6 +804,8 @@ Ms. Anusha Embiliwatte, Executive Director of Gestetner of Ceylon PLC, expressed
 
 [Data](articles/7417207d.json)
 
+[Extended Data](ext_articles/7417207d.ext.json)
+
 ---
 
 ### NDB customers experience John Keells Properties’ VIMAN Ja-Ela model apartment
@@ -733,6 +819,8 @@ Sprawling across 6 acres in the heart of Ja-Ela, VIMAN offers a harmonious blend
 ...
 
 [Data](articles/c99905b1.json)
+
+[Extended Data](ext_articles/c99905b1.ext.json)
 
 ---
 
@@ -750,6 +838,8 @@ India has consistently held the position of the top primary market for internati
 
 [Data](articles/2c6c5d69.json)
 
+[Extended Data](ext_articles/2c6c5d69.ext.json)
+
 ---
 
 ### Sanjeewa Bandaranayake takes helm as CEO and General Manager
@@ -763,6 +853,8 @@ Bandaranayake brings with him over 36 years of comprehensive experience, with 31
 ...
 
 [Data](articles/79ba26ef.json)
+
+[Extended Data](ext_articles/79ba26ef.ext.json)
 
 ---
 
@@ -2187,73 +2279,5 @@ The Hindu inhabitants of Hinduians and the conflict in the country have been a r
 [Data](articles/0991d310.json)
 
 [Extended Data](ext_articles/0991d310.ext.json)
-
----
-
-### Aren't living now in 2048?
-
-*2024-08-07 13:13:28* · [`adalk`](https://www.ada.lk/breaking_news/දැන්-ජීවිත්-වෙන-අය-2048-වෙද්දි-නැද්ද-/11-411249) · `si`
-
-In a statement, President Ranil Wickremesinghe addressed concerns about Sri Lanka's development goals, specifically aiming for a developed nation status by 2048. He acknowledged the skepticism but emphasized the importance of striving towards progress, comparing Sri Lanka's timeline with similar aspirations from India (2047) and China (2049). The president aimed to reassure the public of the country's potential for advancement, despite the challenges and the aging population.
-
-🟩
-
-President Ranil Wickremesinghe said most of the present people are in 2048.
-
-He was responding to a question referred to a question referred to a question referred to today under Sri Lanka the Sri Lanka theme.
-
-Q. You told the country that the vines will cross the vines. Then you said that crossed over. Since then, you said that by 2048, the country would be a country that was developed. A person may feel that 2048 can many people. Is your plan to take Sri Lanka to a developed developer?
-
-A. Why don't there are many people in why?Those who are in 40 years in this year are 65 years. So the majority of the flesh of ine 40. Some 50 people can stay 75. So the majority is going to be. I mean we need to go to a advanced country. India said 2047. We said 2048. China says 2049. Wouldn't you like to improve their country?
-
-◼️
-
-[Data](articles/3569be62.json)
-
-[Extended Data](ext_articles/3569be62.ext.json)
-
----
-
-### Sri Lanka, New Zealand discuss strengthening bilateral ties: Minister
-
-*2024-08-07 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-zealand-discuss-strengthening-bilateral-ties-minister-175719/) · `en`
-
-ECONOMYNEXT – Sri Lanka and New Zealand have discussed expansion of bilateral relations between the two countries in trade, education, dairy industry and sports, the country’s Minister of Trade said after a meeting with the High Commissioner.
-
-New Zealand High Commissioner David Pine met Minister of Trade, Commerce and Food Safety Nalin Fernando at the Ministry recently.
-
-New Zealand will provide its support to promote the tourism industry, the High Commissioner was quoted as saying by a government statement.
-
-Pine believed it was important for Sri Lanka to be unique in the international market under one or more products under one name instead of competing in the international market under different brands.
-
-Sri Lanka is focused on the diversification of local products in the international market Fernando said.
-
-Pine also praised the Sri Lankan origin population in New Zealand as a group with high labor skills. (Colombo/Aug7/2024)
-
-◼️
-
-[Data](articles/ffb3b0c9.json)
-
-[Extended Data](ext_articles/ffb3b0c9.ext.json)
-
----
-
-### Airlines between Jaffna and Chennai
-
-*2024-08-07 13:05:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்பாணத்திற்கும்-சென்னைக்கும்-இடையில்-விமான-சேவை/175-341745) · `ta`
-
-Starting September 1st, airlines will offer direct flights from Jaffna to Chennai, marking Jaffna's 34th international destination.
-
-🟩
-
-The airline between Jaffna and Chennai will commence on 1st September.
-
-Jaffna joins Chennai with direct flights from Chennai as the 34th International target of Jaffna. Remble
-
-◼️
-
-[Data](articles/31c98464.json)
-
-[Extended Data](ext_articles/31c98464.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 08:36:25**
+As of **2024-08-08 08:55:17**
 
 ## Newspaper Stats
 
-*Scraped **39,573** Articles*
+*Scraped **39,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,77 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,634
-adaderanalk | 4,593
+adaderanalk | 4,594
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,974
 virakesarilk | 6,252
-adaderanasinhalalk | 6,703
+adaderanasinhalalk | 6,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,570 (100.0%) of 39,573 articles have been extended.
+39,573 (100.0%) of 39,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### தபால் வாக்களிப்பு விண்ணப்ப காலம் நாளையுடன்  நிறைவு
+### Fairly heavy showers expected in parts of the country
+
+*2024-08-08 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101071/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places in Eastern, Uva and Northern provinces, it said.
+
+The general eneral public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/72291411.json)
+
+---
+
+### මෙරට දරුවන්ගේ නින්ද සම්බන්ධයෙන් ගැටලු
+
+*2024-08-08 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199692) · `si`
+
+මෙරට දරුවන්ගේ නින්ද සම්බන්ධ ගැටලු පවතින බව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ සෞඛ්‍ය විශේෂඥ වෛද්‍ය ඉනෝකා වික්‍රමසිංහ මහත්මිය පවසයි.
+
+ඇය පෙන්වාදෙන්නේ සිදුකරන ලද සීමිත පර්යේෂණවලින් ඒ බව අනාවරණය වී ඇති බවය.
+
+දරුවන් හට සුවබර නින්දක් ලබාදීමට අවශ්‍ය කටයුතු සිදුකිරීමට දෙමව්පියන්ගේ කාර්යය භාරයක් වන බව විශේෂඥ වෛද්‍ය ඉනෝකා වික්‍රමසිංහ මහත්මිය සඳහන් කළාය.
+
+"ලංකාවේ දරුවන් අතරින් නින්ද සම්බන්ධයෙන් ගොඩක් ලොකු පර්යේෂණ සිදුකරලා නැති වුණත් තිබෙන සීමිත දත්තවලට අනුව පෙනී ගිහින් තියෙනවා අවුරුද්දක් වනතුරු දරුවන් අතරේ 25%ක දරුවන්ට ගැටලු තියෙනවා කියලා. ඒ වගේම නව යොවුන් වියේ දී නින්ද අඩුකම නිසා ඇති වෙන බලපෑම් ඇති වෙලා තියෙනවා වගේම වැඩිහිටි සහ තරුණ අයගේ නින්දේ යම් යම් ගැටලුකාරී තත්ත්වයන් තියෙන බව ලංකාවේ තිබෙන සීමිත දත්තවලින් පවා පෙන්නුම් කරනවා. විශේෂයෙන්ම පාසල් දරුවන්ට ගැඹුරු මතකයක් ලෙස ස්ථාවර මතකයක් ඇති කරගන්නත් හොඳ නින්දක් ඕනේ. ඒකට එයා පුංචිකාලේ ඉඳලා පුරුදු වෙන්න ඕනේ නිදා ගන්න."
+
+...
+
+[Data](articles/e40d9e5c.json)
+
+---
+
+### Postal Voting Application Period Complete the day
 
 *2024-08-08 08:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்ப-காலம்-நாளையுடன்-நிறைவு/175-341780) · `ta`
 
-ஜனாதிபதித் தேர்தல் தபால் மூல வாக்களிப்புக்காக விண்ணப்பங்களைச் சமர்ப்பிப்பதற்கான, கால அவகாசம் நாளை நள்ளிரவுடன் நிறைவடையவுள்ளது.
+The deadline for postal voting applications for the upcoming presidential election has been extended until midnight tomorrow, originally set for the 5th. This final extension means no further extensions will be granted, ensuring all eligible voters have one last chance to apply.
 
-கடந்த 5 ஆம் திகதியுடன் தபால் மூல வாக்களிப்புக்கு விண்ணப்பிக்கும் காலம் நிறைவடையவிருந்த நிலையில், அது நாளை நள்ளிரவு வரை நீடிக்கப்பட்டுள்ளது.
+🟩
 
-அதேநேரம், எந்தவொரு காரணத்திற்காகவும் தபால் மூல வாக்களிப்புக்கான விண்ணப்பக் காலம் மீண்டும் நீடிக்கப்படமாட்டாது எனத் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+The deadline for submitting applications for the presidential election postal voting will be completed tomorrow.
+
+It has been extended till midnight tomorrow, as the time to apply for postal voting on the 5th.
+
+At the same time, the Elections Commission has stated that the application period for postal voting will not be extended again. (A)
 
 ◼️
 
 [Data](articles/0874b7c7.json)
+
+[Extended Data](ext_articles/0874b7c7.ext.json)
 
 ---
 
@@ -66,39 +108,51 @@ In addition, 22 candidates have been controlled by the 2024 presidential electio
 
 ---
 
-### ජනාධිපතිවරණයේ ප්‍රබලයා
+### The power of the presidential election
 
 *2024-08-08 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199691) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේ දී ප්‍රබලම අපේක්ෂකයා නාමල් රාජපක්ෂ මහතා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ඩි.වී. චානක මහතා පවසයි.
+Namal Rajapaksa is seen as the most powerful candidate in the upcoming presidential election, with support from both his family and former party members. He is expected to gain significant votes from the Civil Arose Front and has strong backing in the South. However, there's no indication of a shift in support towards Ranil Wickremesinghe.
 
-ඔහු පෙන්වා දෙන්නේ, සිය පක්ෂය අතහැර ගිය සෙසු සාමාජිකයින් ඉදිරියේ දී යළි පක්ෂය සමග එක්වනු ඇති බවය.
+🟩
 
-තරුණ පාර්ලිමේන්තුවේ නියෝජිතයින් පිරිසක් සමග හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සහ නාමල් රාපක්ෂ මහතා අතර පැවති සාකච්ඡාවකින් අනතුරුව ඩි.වී.චානක මන්ත්‍රීවරයා මෙම අදහස් පළ කළේය.
+Namal Rajapaksa, MP Namal Rajapaksa, DV, is the most powerful candidate at the coming presidential election. Mr. Chanaka says.
 
-"අදටත් අපි විශ්වාස කරනවා පොදුජන පෙරමුණේ ඡන්ද ටික ඔක්කෝම තියෙන්නේ මහින්ද රාජපක්ෂ මහතා වටේ. මේ වෙනකොටත් අපේ ආසන සංවිධායකවරුන්ගෙන් 90%ක ප්‍රමාණයක් අපිත් එක්ක ඉන්නවා. 10%ක ප්‍රමාණයක් තමයි ජනාධිපතිවරයා එක්ක එකතුවුණේ. ඒ අයත් දැන් පෝළිමක් ඇවිත් තියෙනවා අපෙන් ආසන සංවිධායකකම ලබාගන්න. අපේ යාළුවන්ට ආරාධනා කරනවා අපිත් එක්ක එකතු වෙන්න. දකුණේ ඉන්න ප්‍රබලම අපේක්ෂකයා ඉන්නේ අපි ගාව"
+He points out that the other members who left their party will return with the party.
 
-කෙසේවෙතත් සිය සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත ලබාදීමේ කිසිදු වෙනසක් නොවන බව රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා සඳහන් කළේය.
+After a discussion with a group of people in the youth, President Mahinda Rajapaksa and Namal Ramana made these comments.
+
+"We still believe that the Civil Arose Front votes around Mahinda Rajapaksa. There are 90% of our electoral organizers. 10% of the President joined the President. They have now come to a bookman and get the organizer of us. Invite our friends join us. The strongest candidate in the South is in the South
+
+However, no change in the president of President Ranil Wickremesinghe is not any changes to Mr. Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/8fa0b45a.json)
 
+[Extended Data](ext_articles/8fa0b45a.ext.json)
+
 ---
 
-### රාජ්‍ය-පෞද්ගලික අංශයට අමතරව ජනතා අංශයක්
+### In addition to the Public-Private Sector
 
 *2024-08-08 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199690) · `si`
 
-රාජ්‍ය අංශය සහ පෞද්ගලික අංශයට අමතරව ජනතා අංශයක් ද ඇති කර ජනතාව ආර්ථික වශයෙන් නගා සිටුවීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes boosting both the public and private sectors, highlighting the importance of a strong cooperative movement to empower the people. He spoke at a Colombo event focused on enhancing the Co-operative Movement's capabilities.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ ජනතා අංශයේ ධාවකයා බවට සමූපකාර ව්‍යාපාරය පත්කිරීම වෙනුවෙන් ස්වාධීන හා ශක්තිමත් සමූපකාර ව්‍යාපාරයක් රට තුළ ගොඩනගන බවය.
+🟩
 
-සමූපකාර ව්‍යාපාරයේ ඉදිරි ගමන්මග පිළිබඳව සාකච්ඡා කිරීම සදහා කොළඹ ශ්‍රී ලංකා ප්‍රදර්ශන හා සම්මේලන මධ්‍යස්ථානයේ පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+President Ranil Wickremesinghe says that the public will also increase the public sector and the private sector.
+
+The President pointed out that the country builds an independent and strong coverage of an independent and strong Co-operative movement to appoint co-operative movement as the runner of the people.
+
+The President was speaking at a meeting held at the Sri Lanka Exhibition and Conference Center in Colombo to discuss the continuous trainage of the Co-operative Movement.
 
 ◼️
 
 [Data](articles/9ee2b8c4.json)
+
+[Extended Data](ext_articles/9ee2b8c4.ext.json)
 
 ---
 
@@ -2229,47 +2283,5 @@ Police further stated that he is a painter by profession and was reportedly invo
 [Data](articles/df54a297.json)
 
 [Extended Data](ext_articles/df54a297.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-08-07 14:06:06* · [`adalk`](https://www.ada.lk/breaking_news/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/11-411250) · `si`
-
-Sri Lanka's captain Charith Asalanka led his team to victory in the third and final One Day International (ODI) match against India, securing a significant win for Sri Lanka.
-
-🟩
-
-Sri Lanka captain Charith was able to win the Third and End ODI cricket match against the tourist Indian team.
-
-◼️
-
-[Data](articles/f0351a11.json)
-
-[Extended Data](ext_articles/f0351a11.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-08-07 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199668) · `si`
-
-Sri Lanka, captained by Charith, won the toss and the match against India at the Colombo District Stadium, marking their first victory in the ODI series after 27 years.
-
-🟩
-
-Sri Lanka and India will be held today (07).
-
-Sri Lanka captain Charith won the toss and win the tour of the match at the Colombo District Stadium in Colombo.
-
-Sri Lanka will be at the forefront of winning 1 matches in the ODI series.
-
-Sri Lanka have won the Sri Lankan team to win the Indian team 27 years ago.
-
-◼️
-
-[Data](articles/ad72cfce.json)
-
-[Extended Data](ext_articles/ad72cfce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 16:21:08**
+As of **2024-08-08 16:36:33**
 
 ## Newspaper Stats
 
-*Scraped **39,661** Articles*
+*Scraped **39,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,641
-adaderanalk | 4,607
+adaderanalk | 4,608
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,272
-adaderanasinhalalk | 6,725
+adaderanasinhalalk | 6,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,661 (100.0%) of 39,661 articles have been extended.
+39,661 (100.0%) of 39,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### කෙහෙළිය ඇතුළු 4ක් තවදුරටත් රිමාන්ඩ් - 2කට ඇප
+
+*2024-08-08 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199716) · `si`
+
+හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල සහ තවත් තිදෙනෙක් එළඹෙන 22 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+මේ අතර සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු ලේකම් ජනක චන්ද්‍රගුප්ත සහ සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු අතිරේක ලේකම් සමන් රත්නායක මහතා ඇප මත මුදා හැර ඇත.
+
+ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනොග්ලොබියුලින් එන්නත් මාත්‍රා මිලදී ගැනීමේ නඩුවට අදාළ විමර්ශනවලදී ඉහත සැකකරුවන් අත්අඩංගුවට ගෙන ගැනුණි.
+
+සැකකරුවන් අද (08) මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු එම නියෝග නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/2e3b824f.json)
+
+---
+
+### Four including Keheliya further remanded; 2 others granted bail
+
+*2024-08-08 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101086/four-including-keheliya-further-remanded-2-others-granted-bail) · `en`
+
+Former Health Minister Keheliya Rambukwella and 03 other suspects implicated in the alleged importation of substandard immunoglobulin vials have been further remanded until August 22.
+
+The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (08).
+
+Meanwhile, former Health Secretary Janaka Chandraguptha and former Additional Health Secretary, who were also in remand custody, have been granted bail by the court.
+
+◼️
+
+[Data](articles/0099f81a.json)
+
+---
 
 ### Four persons arrested for sale in Gajamuthu
 
@@ -1001,8 +1035,6 @@ Several political parties and alliances, including the SJB, Sri Lanka Freedom Pa
 This coalition will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa in the upcoming Presidential Election.
 
 The ceremonial launch of the new alliance commenced, a short while ago, at the Sugathadasa Indoor Stadium in Colombo.
-
-The SJB will form an alliance with several political parties that hold seats in Parliament to face the upcoming Presidential Election.
 
 ...
 
@@ -2237,47 +2269,5 @@ The MoU was signed during a ceremony in Battaramulla, attended by party leaders,
 [Data](articles/391fac33.json)
 
 [Extended Data](ext_articles/391fac33.ext.json)
-
----
-
-### Pro-RW Pohottuwa MPs say support for him remains unchanged
-
-*2024-08-08 05:55:02* · [`dailyftlk`](https://www.ft.lk/news/Pro-RW-Pohottuwa-MPs-say-support-for-him-remains-unchanged/56-765276) · `en`
-
-SLPP’s Rohitha Abeygunawardena claims supporters are urging party leaders to maintain their support for Ranil Wickremesinghe
-
-SLPP MP Prasanna Ranatunga opines announcement of Namal Rajapaksa’s candidacy was made simply to fulfil need for an announcement
-
-SLPP MP S.B. Dissanayake says Namal will not contest as it would spell the end of his political career
-
-Sri Lanka Podujana Peramuna (SLPP) MPs who recently pledged their support to President Ranil Wickremesinghe have reaffirmed their decision to oppose the SLPP’s choice of candidate.
-
-The group convened with Minister Harin Fernando at a meeting in Battaramulla yesterday to deliberate on their next steps.
-
-After the meeting, Chief Government Whip Prasanna Ranatunge told the media that until late Tuesday, Dhammika Perera was expected to be announced as the party’s candidate.
-
-...
-
-[Data](articles/46b14327.json)
-
-[Extended Data](ext_articles/46b14327.ext.json)
-
----
-
-### Justice Ministry brought under President’s purview
-
-*2024-08-08 05:53:55* · [`dailyftlk`](https://www.ft.lk/news/Justice-Ministry-brought-under-President-s-purview/56-765275) · `en`
-
-The Ministerial portfolios of Justice, Prison Affairs and Constitutional Reforms have been brought under the purview of the President through a Gazette Extraordinary issued by the President.
-
-The Gazette Notification issued by the Secretary to the President Saman Ekanayake by order of the President stated that it was issued after having consulted with the Prime Minister under Article 44 (3) of the Constitution.
-
-Former Justice Minister Wijeyadasa Rajapakshe resigned from his portfolio in order to contest the Presidential election 2024.
-
-◼️
-
-[Data](articles/8a9755aa.json)
-
-[Extended Data](ext_articles/8a9755aa.ext.json)
 
 ---

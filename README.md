@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 16:08:09**
+As of **2024-08-08 16:21:08**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 6,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,659 (100.0%) of 39,661 articles have been extended.
+39,661 (100.0%) of 39,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ගජමුතු අලෙවි කිරීමට ගිය සිව් දෙනෙක් අත්අඩංගුවට
+### Four persons arrested for sale in Gajamuthu
 
 *2024-08-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199715) · `si`
 
-ගුවන් හමුදා බුද්ධි නිලධාරීන්ට ලද තොරතුරකට අනුව වනජීවී හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් ඒකාබද්ධව සිදුකළ වැටලීමකදී රුපියල් කෝටි පහකට විකිණීමට ගිය ගජමුතු තුනක් සමග තරුණයින් සිව් දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In a joint operation by Air Force intelligence, four individuals were arrested for selling goods worth three crore rupees. The suspects, aged 24, 32, and 40, are locals of Puttalam, Bodhirajapura, Attawilluwa, and Vanathavilluwa. The main suspect, who brought goods from abroad, claimed to have received instructions from a relative in Wanathavilluwa to sell Rs. 2 million and split the rest of the proceeds. All four will face charges in the Puttalam Court.
 
-මෙම අත්අඩංගුවට ගත් පුද්ගලයින් පුත්තලම, බෝධීරාජපුර, අට්ටවිල්ලුව හා වනාතවිල්ලුව ප්‍රදේශවල පදිංචිකරුවන් වන අතර, ඔවුන් අවුරුදු 24, 32, 40 යන වයස් සීමාවල පසුවන්නන් බවට හඳුනාගෙන ඇත.
+🟩
 
-ගුවන් හමුදා උපායදූතයින් යොදවා අදාළ ගජමුතු මිලදී ගන්නා මුවාවෙන් මෙම ජාවාරම හසුකරගැනීමට එම නිලධාරීන් සමත්ව තිබුණි.
+Four youths have been arrested along with three crores sold at a raid that was jointly conducted by the Air Force intelligence officers.
 
-අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු විදේශ රටවලින් රුපලාවන්‍ය උපකරණ ආනයනය කරනු ලබන්නෙකි.
+The arrested persons are residents of Puttalam, Bodhirajapura, Attawilluwa and Vanathavilluwa, while they have been identified as 24, 32, 40 years old.
 
-ඔහුට මෙම ගජමුතු ලබාදී ඇත්තේ වනාතවිල්ලුවේ සිටින ඥාතියෙකු වන බවත්, ඔහු උපදෙස් දී ඇත්තේ අදාළ ගජමුතු රුපියල් කෝටි පහකට අලෙවි කර,  ඔහුට කෝටි දෙකක් ලබා දී ඉතිරි මුදල් බෙදා ගන්නා ලෙස බව එම පුද්ගලයා පවසා තිබේ.
+The racket had been captured by the preliminary guest purchasing the SLAF Station.
 
-අත්අඩංගුවට ගත් සැකකරුවන් සිව් දෙනා පුත්තලම අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The main suspect is imported from foreign countries.
+
+The man has said that he has given him a relative in Wanathavill, and he has been instructed to sell Rs. 2 million to share the remaining money.
+
+Four suspects are to be produced before the Puttalam Court.
 
 ◼️
 
 [Data](articles/ac2d268a.json)
 
+[Extended Data](ext_articles/ac2d268a.ext.json)
+
 ---
 
-### නායකත්වය භාරගන්න යූනුස් පැමිණෙයි
+### Yunus arrives to take over the leadership
 
 *2024-08-08 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199714) · `si`
 
-බංග්ලාදේශයේ අන්තර්වාර පාලනය භාර ගැනීම සඳහා නොබෙල් ත්‍යාගලාභී මුහම්මද් යූනුස් එරටට පැමිණ තිබේ.
+Muhammad Yunus, a Nobel laureate, has been appointed as the head of interim governance in Bangladesh after the resignation of Sheikh Hasina, the Prime Minister. Yunus, aged 84, plans to address several issues upon taking office.
 
-එරට ට පැමිණීමෙන් පසු යූනුස් පවසා ඇත්තේ බංග්ලාදේශයේ බොහෝ දේ කිරීමට ඇති බවයි.
+🟩
 
-ප්‍රංශයේ සිට පැමිණි 84 හැවිරිදි යූනුස්, බංග්ලාදේශයේ අන්තර්වාර පාලනයේ ප්‍රධානියා ලෙස දිවුරුම් දීමට නියමිතය.
+Nobel Prize winner Muhammad Yunus has arrived in the country to accept interim control in Bangladesh.
 
-බංග්ලාදේශයේ අගමැති ලෙස වසර 15ක් කටයුතු කළ ෂෙයික් හසීනා ජනතා විරෝධය හේතුවෙන් තනතුරෙන් අස්වී රටින් පළා ගියාය.
+After arriving at the country, Yunus had said that many things in Bangladesh had to do.
+
+84-year-old Yunus, aged 84, is to be sworn in as the head of interim control in Bangladesh.
+
+Sheikh Haseanna was resigned from the country due to the Prime Minister of Bangladesh.
 
 ◼️
 
 [Data](articles/23a21bf3.json)
+
+[Extended Data](ext_articles/23a21bf3.ext.json)
 
 ---
 

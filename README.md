@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 12:36:33**
+As of **2024-08-08 12:54:26**
 
 ## Newspaper Stats
 
-*Scraped **39,621** Articles*
+*Scraped **39,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,399
 dailyftlk | 2,551
-adalk | 3,639
+adalk | 3,640
 adaderanalk | 4,602
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,986
+tamilmirrorlk | 4,988
 virakesarilk | 6,259
 adaderanasinhalalk | 6,714
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,621 (100.0%) of 39,621 articles have been extended.
+39,621 (100.0%) of 39,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ஐக்கிய மக்கள் கூட்டணியின்  (காணொளி)
+
+*2024-08-08 12:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-கூட்டணியின்-காணொளி/175-341804) · `ta`
+
+ஜனாதிபதி வேட்பாளரான எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் வெற்றிக்காக, சமகி ஜன பலவேக தலைமையில் உருவாக்கப்பட்ட ஐக்கிய மக்கள் கூட்டணியின் வெளியீட்டு விழா கொழும்பு சுகததாச உள்ளக விளையாட்டரங்கில் நடைபெற்று வருகிறது .
+
+◼️
+
+[Data](articles/320459dc.json)
+
+---
 
 ### Pavithra Wanniarachchi decides to support Ranil at prez poll
 
@@ -47,6 +59,20 @@ Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online
 [Data](articles/3846b14b.json)
 
 [Extended Data](ext_articles/3846b14b.ext.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் அரியநேத்திரன்
+
+*2024-08-08 11:55:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-அரியநேத்திரன்/175-341802) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளராக முன்னாள் பாராளுமன்ற உறுப்பினர் பா.அரியநேத்திரன் அறிவிக்கப்பட்டுள்ளார்.
+
+அரியநேத்திரன் மட்டக்களப்பு மாவட்டத்தில் இருந்து தேர்வு செய்யப்பட்டதன் பின்னர் பாராளுமன்றத்தில் சேவையாற்றியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/904860ad.json)
 
 ---
 
@@ -275,6 +301,20 @@ Forest traffic police said that investigations are being carried out in connecti
 [Data](articles/2164e131.json)
 
 [Extended Data](ext_articles/2164e131.ext.json)
+
+---
+
+### සජබ නව සන්ධානයට එක්වූ පිරිස මෙන්න - රණතුංගත් ඒ අතර
+
+*2024-08-08 10:41:53* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-නව-සන්ධානයට-එක්වූ-පිරිස-මෙන්න---රණතුංගත්-ඒ-අතර/11-411261) · `si`
+
+සමගි ජන බලවේගය ප්‍රමුඛ නව සන්ධානය එළිදැක්වීම මේ වන විට කොළඹ සුගතදාස ක්‍රීඩාංගනයේදී ආරම්භ වී තිබේ.
+
+ඒ සඳහා සහය පළ කරන පක්ෂ, සන්ධාන කිහිපයක් නියෝජනය කරමින් මන්ත්‍රීවරුන් පිරිසක් එම අවස්ථාවට සහභාගී වී ඇත.
+
+◼️
+
+[Data](articles/7b7d2952.json)
 
 ---
 
@@ -2185,71 +2225,5 @@ Police suspect the drug may have sent the drug to Sri Lanka. Remble
 [Data](articles/e73c8078.json)
 
 [Extended Data](ext_articles/e73c8078.ext.json)
-
----
-
-### ராஜபக்சாக்கள் ரணிலுக்கு செய்த வஞ்சனை  திரும்பிவந்து பொதுஜன பெரமுனவை தாக்குகிறது
-
-*2024-08-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84501) · `en`
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்தவார  முற்பகுதியில் ராஜபக்சாக்களினால் கொடுமையான முறையில் ஏமாற்றப்பட்டார். எதிர்வரும் ஜனாதிபதி தேர்தலில் மெதமுலான குடும்பம் தலைமையிலான’ தாமரை மொட்டு ‘ கட்சி  விக்கிரமசிங்கவுக்கு பின்னால் உறுதியாக நிற்கும் என்று அவருக்கு பொய்யான உறுதிமொழிகள் வழங்கப்பட்டன.நாமல் ராஜபக்சவினால் தெரிவிக்கப்பட்ட மாறுபாடான கருத்தை பொருட்படுத்தத் தேவையில்லை என்றும் கூறப்பட்டது.
-
-பொதுஜன பெரமுன ஜனாதிபதி தேர்தலில் ரணிலை ஆதரிப்பதில்லை என்று முடிவெடுத்திருக்கிறது. ராஜபக்சாக்கள் அவரின் முதுகில் குத்திவிட்டார்கள். விக்கிரமசிங்கவை ஆதரிப்பதா இல்லையா என்று தீர்மானிப்பது பொதுஜன பெரமுனவைப் பொறுத்தது. அது கட்சியின் தெரிவுக்குரியது.  இந்த விவகாரத்தில் ராஜபக்சாக்கள் ( நாமலைத் தவிர ) நடந்துகொண்ட முறை மிகவும் அருவருக்கத்தக்கதாகும். தன்னை ராஜபக்சாக்கள்  ஆதரிப்பார்கள் என்று ரணிலை நம்பவைத்து ஏமாற்றி  தங்களின்  ஆதரவை முறைப்படி நாடச் செய்தார்கள்.   அதற்குப் பிறகு  அவரை நிராகரித்ததன் மூலம் அவமதிப்புக்குள்ளாக்கிவிட்டார்கள்.
-
-...
-
-[Data](articles/de5cf4d4.json)
-
-[Extended Data](ext_articles/de5cf4d4.ext.json)
-
----
-
-### United People's Alliance Agreement will be signed tomorrow
-
-*2024-08-07 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190539) · `ta`
-
-Tomorrow, the United People's Alliance (UPFA) will sign an agreement ahead of the presidential election, set for Thursday. Key parties like the United People's Power, Tamil Progressive Alliance, Humanitarian People's Alliance, Independent People's Congress, and Sri Lanka Freedom Party Dayasiri Jayasekera will participate. Despite past collaborations, the All Ceylon People's Congress hasn't announced its support yet but plans to reveal it next week. Additionally, several civil organizations are anticipated to join the UPFA, marking a significant development after prolonged negotiations.
-
-🟩
-
-The main opposition United People's Alliance (UPFA), aimed at the presidential election, will be held on Thursday (8).. The event will be held at 9 am at the Sugathadasa Indoor Hall in Colombo.
-
-Accordingly, key parties, including the United People's Power, Mano Ganesha -led Tamil Progressive Alliance, Prabha Ganeshan -led Humanitarian People's Alliance, Independent People's Congress and the Sri Lanka Freedom Party Dayasiri Jayasekera, will sign the agreement.
-
-All Ceylon People's Congress led by Rishad Bathiudeen worked with the United People's Alliance in previous elections. However, this time the party did not announce such a resolution. It is reported that they will announce who they will support next week.
-
-Meanwhile, many more civil organizations are expected to join hands with the United States. It is noteworthy that the agreement is due to be signed today based on negotiations that have been held with various parties for a long time.
-
-◼️
-
-[Data](articles/fcbf05d8.json)
-
-[Extended Data](ext_articles/fcbf05d8.ext.json)
-
----
-
-### Sri Lanka conquered the series against India
-
-*2024-08-07 20:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவுக்கெதிரான-தொடரைக்-கைப்பற்றிய-இலங்கை/44-341754) · `ta`
-
-Sri Lanka clinched the series against India 2-0 after winning both matches. The decisive third match saw Sri Lanka score 248 runs, losing 7 wickets, with key contributions from Sri Lankan players including Asalanga, Nisanka, and Kusal Mendis. Indian debutant Ryan Barak and bowlers like Barak, Kuldeep Yadav, Washington Sundar, and Axar Patel performed well but couldn't prevent the loss. In the second innings, India was dismissed for 138 runs, with Rohit Sharma scoring 35 runs.
-
-🟩
-
-The first match of the three -match series ended in a balance and Sri Lanka won the second match.. Following the third match at the Premadasa stadium today, the series won 2-0.
-
-Sri Lankan leader Sarid Asalanga, who won the tournament in the currency cycle, announced that Damadhani would be the first to bat.. Ryan Barak made his debut in ODIs on behalf of India.
-
-Sri Lanka's 96 (102), Nisanka's 45 (65), 59 (82) of Kusal Mendis, scored 171 runs for the loss of one wicket in 35.2 overs.
-
-However, the next 6 wickets were lost to 64 runs and Kamindu Mentice's unbeaten 23 (19) runs lost 7 wickets in 50 overs and scored 248 runs. In bowling, Barak 3 and Kuldeep Yadav, Washington Sundar and Aksar Patel took the wicket each.
-
-In reply, India Azitha Fernando, Tunit Wellalake (5), Mahesh Dixhana (2) and Jeffrey Vanterzay (2) lost all wickets in 26.1 overs and lost 138 runs.. In the match, Rohit Sharma scored 35 (20) and Sundar 30 (25).
-
-◼️
-
-[Data](articles/983323e9.json)
-
-[Extended Data](ext_articles/983323e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 11:07:03**
+As of **2024-08-08 11:21:04**
 
 ## Newspaper Stats
 
-*Scraped **39,602** Articles*
+*Scraped **39,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,639
-adaderanalk | 4,599
+adaderanalk | 4,600
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,983
-virakesarilk | 6,252
+tamilmirrorlk | 4,985
+virakesarilk | 6,259
 adaderanasinhalalk | 6,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,601 (100.0%) of 39,602 articles have been extended.
+39,602 (100.0%) of 39,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### எமில் ரஞ்சன் விடுவிப்பு
+
+*2024-08-08 11:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமில்-ரஞ்சன்-விடுவிப்பு/175-341798) · `ta`
+
+முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் கல்பத்தேவாவை கொழும்பு மேல் நீதிமன்றத்தின் மூவரடங்கிய அமர்வு வழங்கிய மரண தண்டனையிலிருந்து விடுதலை செய்து உயர் நீதிமன்றம் இன்று (08) உத்தரவிட்டுள்ளது.
+
+2012ஆம் ஆண்டு வெலிக்கடைச் சிறைச்சாலையில் இடம்பெற்ற மோதலில் கைதி ஒருவரைக் கொன்ற குற்றச்சாட்டில் அவர் குற்றவாளி எனத் தீர்ப்பளிக்கப்பட்டது.
+
+தண்டனைக்கு எதிராக  கொகஹேவா சமர்ப்பித்த மேன்முறையீட்டு மனுவை ஏற்று ஐவரடங்கிய உயர் நீதிமன்ற பெஞ்ச் இந்தத் தீர்ப்பை இன்று வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/7b37c3cf.json)
+
+---
+
+### பண்டாரவளை பகுதியில் ஹெரோயின், ஐஸ் போதைப்பொருட்களுடன் 5 பேர் கைது!
+
+*2024-08-08 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190548) · `ta`
+
+பண்டாரவளை நகரில் 4,700 மில்லி கிராம் ஹெரோயின் மற்றும் ஐஸ் போதைப் பொருளுடன் 5 பேர் கைதுசெய்யப்பட்டுள்ளதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்ப்பட்டவர்கள் 25 மற்றும் 30 வயதுக்கும் இடைப்பட்ட பண்டாரவளை பகுதியை சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+தியத்தலாவ பகுதியில் வைத்து கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொண்ட விசாரணையின் போது மற்றைய சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர்களிடம் விசாரணைகளை மேற்கொண்டதன் பின்னர் நீதிமன்றத்தில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/801a7b03.json)
+
+---
+
+### உள்நாட்டுத் துப்பாக்கிகளுடன் சந்தேக நபர்கள் இருவர் கைது !
+
+*2024-08-08 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190549) · `ta`
+
+இரண்டு உள் நாட்டுத் துப்பாக்கிகளுடன் சந்தேகநபர்கள் இருவர் இன்று வியாழக்கிழமை (08) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பிபில பொலிஸ் பிரிவிற்குட்பட்ட  தியகோபல,  குருமட பகுதியைச் சேர்ந்த 53 வயதுடைய ஒருவரும், மஹியங்கனை, தம்பனை, வட்டுயாவைச் சேர்ந்த 41 வயதான ஒருவருமே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த, பொலிஸ் நிலையங்களுக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய சுற்றிவளைப்புக்கள் மேற்கொள்ளப்பட்ட போது உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும், இரு சந்தேக நபர்களையும் மஹியங்கனை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b722697e.json)
+
+---
+
+### Sajith arrives as ceremonial launch of ‘Samagi Jana Sandanaya’ begins
+
+*2024-08-08 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101077/sajith-arrives-as-ceremonial-launch-of-samagi-jana-sandanaya-begins) · `en`
+
+The ceremony to unveil the “Samagi Jana Sandanaya” (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB), has officially commenced with the arrival of its presidential candidate Sajith Premadasa.
+
+The launch ceremony commenced, a short while ago, at the Sugathadasa Indoor Stadium in Colombo.
+
+The SJB is expected to form an alliance with several political parties that hold seats in Parliament to face the upcoming Presidential Election.
+
+Additionally, the policies of the ‘Samagi Jana Sandanaya’ will be announced today while SJB leader Sajith Premadasa will also be presented as the Presidential Candidate of the alliance.
+
+◼️
+
+[Data](articles/da3b6f84.json)
+
+---
+
+### புத்தளம் மாம்புரி பகுதியில் விபத்து ; 5 பேர் காயம்
+
+*2024-08-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190551) · `ta`
+
+புத்தளம் மாம்புரி பகுதியில் முச்சக்கர வண்டியுடன் மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளானதில் 5 பேர் பலத்த காயங்களுக்கு உள்ளாகிய நிலையில் புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+புத்தளம் மாம்புரி பகுதியில் முச்சக்கர வண்டியை திருப்ப முற்பட்ட போது கற்பிட்டி பகுதியில் இருந்து புத்தளம் நோக்கிச் சென்ற மோட்டார் சைக்கிள்கள் இரண்டும் வேகக்கட்டுப்பாட்டை இழந்து முச்சக்கர வண்டியுடன் மோதி விபத்துக்குள்ளாகியுள்ளன.
+
+இதன்போது, இரண்டு மோட்டார் சைக்கிள்களில் பயணித்த நால்வரும், முச்சக்கர வண்டியின் சாரதியும் அங்கிருந்தவர்களினால் உடனடியாக புத்தளம் ஆதார வைத்தியசாலைக்கு கொண்டுச் சென்றுள்ளனர்.
+
+வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஐந்து பேரும் பலத்த காயங்களுக்குள்ளாகிய நிலையில் ஒருவர் மேலதிக சிகிச்சைகளுக்காக சிலாபம்  வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக போக்குவரத்து பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிள்களில் பயணித்த நால்வரும் கற்பிட்டி பகுதியைச் சேர்ந்தவர்கள் எனவும், முச்சக்கர வண்டியில் பயணித்த சாரதி மாம்புரி பகுதியைச் சேர்ந்தவர் எனவும் அடையாளம் காணப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/2164e131.json)
+
+---
 
 ### Siyam murder: SC confirms death sentences of Vass Gunawardena and others
 
@@ -40,7 +130,7 @@ The Supreme Court today (08) confirmed the death sentences imposed on former DIG
 
 The Supreme Court delivered this verdict while dismissing the appeal petitions filed by Vass Gunawardena and the other defendants seeking their acquittal.
 
-Accordingly, the the verdict, delivered after a prolonged trial, upholds the death sentences of the accused, which also include a Sub-Inspector (SI) and three Police Constables (PCs).
+Accordingly, the verdict, delivered after a prolonged trial, upholds the death sentences of the accused, which also include a Sub-Inspector (SI) and three Police Constables (PCs).
 
 ◼️
 
@@ -114,6 +204,22 @@ The former Minister was speaking to the media after a function in Anuradhapura.
 
 ---
 
+### எனக்கு யாருடனும்  போட்டி கிடையாது ; ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் நான் ஒருபோதும்  பாதுகாக்க மாட்டேன் - ஜனாதிபதி
+
+*2024-08-08 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190552) · `ta`
+
+ஏனைய வேட்பாளர்கள் தமது எதிர்காலத்திற்காக ஜனாதிபதி தேர்தலில் போட்டியிடுகின்ற அதேவேளை, நாட்டினதும் நாட்டு மக்களினதும் எதிர்காலத்தை கட்டியெழுப்புவதற்காகவே தான் போட்டியிடுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நாடு பாரிய பொருளாதார நெருக்கடியை எதிர்கொண்டிருந்த இரண்டு சந்தர்ப்பங்களிலும் அந்த நிலையிலிருந்து நாட்டைக் காப்பாற்றி ஆளுமைமைய வெளிப்படுத்தியுள்ளதால் தனக்கு யாருடனும்  போட்டி கிடையாது எனத் தெரிவித்த ஜனாதிபதி, அரசாங்கம் ஆரம்பித்துள்ள பொருளாதார வேலைத்திட்டத்தை தொடர்ந்து முன்னெடுக்கும் ஆணையை இந்த ஜனாதிபதித் தேர்தலில் மக்களிடம் கோருவதாகவும் தெரிவித்தார்.
+
+கொழும்பு சினமன் கிரேன்ட் ஹோட்டலில் புதன்கிழமை (07) நடைபெற்ற ஊடக பிரதானிகளுடனான சந்திப்பில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/86cdbd0c.json)
+
+---
+
 ### 2012 Welikada Prison riot: Emil Ranjan Lamahewa acquitted
 
 *2024-08-08 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101075/2012-welikada-prison-riot-emil-ranjan-lamahewa-acquitted) · `en`
@@ -152,15 +258,21 @@ Police said the gold and polythene bags suspected to have been illegally brought
 
 ---
 
-### මරණ දඬුවම නියම වූ එමිල් රංජන් ළමාහේවා නිදොස්කොට නිදහස් කරයි
+### Emil Ranjan Children's Hearers Index
 
 *2024-08-08 10:15:28* · [`adalk`](https://www.ada.lk/breaking_news/මරණ-දඬුවම-නියම-වූ-එමිල්-රංජන්-ළමාහේවා-නිදොස්කොට-නිදහස්-කරයි/11-411260) · `si`
 
-වැලිකඩ බන්ධනාගාරයේදී සිරකරුවන් 08 දෙනෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් වරදකරු වී මරණ දණ්ඩනය නියම වී සිටි හිටපු බන්ධනාගාර කොමසාරිස් එමිල් රංජන් ළමාහේවා නිදොස් කොට නිදහස් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද(08දා) නියෝග කළේය.
+The Supreme Court has issued an order against Emil Ranjan, former Chief Minister Commissioner, regarding the Children's Hearing Index case.
+
+🟩
+
+The Supreme Court today ordered the former Chief Minister Commissioner of Executive Commissioner Emil Ranjan Children's Headawwa today (8).
 
 ◼️
 
 [Data](articles/d48493e0.json)
+
+[Extended Data](ext_articles/d48493e0.ext.json)
 
 ---
 
@@ -436,6 +548,22 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 
 ---
 
+### யாழ். அராலியில் இளைஞர்கள் மீது தாக்குதல்!
+
+*2024-08-08 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190546) · `ta`
+
+யாழ்ப்பாணம் அராலி ஆலடி சந்திக்கு அருகாமையில் உள்ள கடை ஒன்றின் முன்னால் நின்ற இளைஞர்கள் மீது நேற்று புதன்கிழமை (07) இரவு மோட்டார் சைக்கிளில் வந்த குழு ஒன்று தாக்குதல் நடாத்தியுள்ளது.
+
+குறித்த, குழுவுக்கும் அவ்விடத்தில் நின்ற இளைஞர்களுக்கும் ஏற்கனவே உள்ள முரண்பாடு காரணமாக இந்த தாக்குதல் சம்பவம் இடம்பெற்றுள்ளதாக அறிய முடிகிறது.
+
+தாக்குதல்களுக்கு உள்ளாகியவர்களில் ஒருவர் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்த பின்னர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/d9c68a11.json)
+
+---
+
 ### Parliament meet today
 
 *2024-08-08 09:12:23* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411259) · `si`
@@ -475,6 +603,28 @@ Speaking further MP Harsha Deathu Silva said:
 [Data](articles/810b27e4.json)
 
 [Extended Data](ext_articles/810b27e4.ext.json)
+
+---
+
+### நேபாளத்தில் ஹெலிகொப்டர் விபத்து ; 5 பேர் பலி
+
+*2024-08-08 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190547) · `ta`
+
+நேபாள தலைநகர் காத்மண்டுவில் வடமேற்கே மலைப்பகுதியில் புதன்கிழமை ஹெலிகொப்டர் ஒன்று விபத்துக்குள்ளானதில், அதில் பயணம் செய்த 5 பேரும் உயிரிழந்துள்ளார்கள்.
+
+விபத்துக்குள்ளான பகுதியில் இருந்து ஒரு பெண் மற்றும் நான்கு ஆண்களின் சடலங்கள் மீட்கப்பட்டுள்ளது.
+
+யூரோகாப்டர் ஏஎஸ்350 என்ற ஹெலிகாப்டர் காத்மாண்டு சர்வதேச விமான நிலையத்தில் இருந்து உள்ளூர் நேரப்படி மதியம் 1.54 மணிக்கு சைப்ருபேஷி நகரத்தை நோக்கி சென்றுள்ளது.
+
+இந்நிலையில், புறப்பட்டு மூன்று நிமிடங்களில் ஹெலிகாப்டர் தொடர்பை இழந்ததாக நேபாளத்தின் சிவில் விமானப் போக்குவரத்து ஆணையத்தின் அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+ஹெலிகொப்டரில் ஒரு விமானியும், சீனாவைச் சேர்ந்த 4 பயணிகளும் பயணத்ததாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+கடந்த இரண்டு வாரங்களுக்கு முன்னர் காத்மாண்டு விமான நிலையத்தில் இருந்து புறப்பட்ட பயணிகள் விமானம் விபத்துக்குள்ளானதில் 18 பேர் கொல்லப்பட்டதோடு,  ஒரு விமானி காயமடைந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/81aa94c3.json)
 
 ---
 
@@ -519,6 +669,24 @@ A man who was traveling in the car was injured and died after being admitted to 
 [Data](articles/4ddf0a4d.json)
 
 [Extended Data](ext_articles/4ddf0a4d.ext.json)
+
+---
+
+### துப்பாக்கி வெடித்ததில் ஒருவர் பலி ; பொலிஸ் சார்ஜன்ட் காயம்
+
+*2024-08-08 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190545) · `ta`
+
+சீதுவை பொலிஸ் பிரிவிற்குட்பட்ட கொட்டுகொடை வீதி சோதனை சாவடியில்  துப்பாக்கி வெடித்ததில் பொலிஸ் சார்ஜன்ட் காயத்திற்கு உள்ளாகியுள்ளதோடு நபரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சீதுவை பொலிஸ் நிலைய அதிகாரிகள் சீதுவை பகுதியிலிருந்து  வந்த காரினை  சோதனையிட முற்பட்ட போது இந்த சம்பவம் இடம்பெற்றுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+காரின் இடது ஆசனத்தில் அமர்ந்திருந்த நபரொருவர் பொலிஸ் சார்ஜன்ட்டின் கடமை துப்பாக்கியை பறிக்க முற்பட்ட போது, துப்பாக்கி வெடித்ததில் பொலிஸ் அதிகாரியின் காலிலும், பறிக்க முற்பட்ட நபரின் வயிற்றிலும் துப்பாக்கிச் சூட்டு காயங்கள் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பின்னர் இருவரும் நீர்கொழும்பு வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் காரில் பயணித்த பூகொடை பிரதேசத்தைச் சேர்ந்த 38 வயதுடைய நபர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/009aa3e1.json)
 
 ---
 
@@ -2047,237 +2215,5 @@ The consignment of drugs is suspected to have been sent by the notorious drug tr
 [Data](articles/2885b22e.json)
 
 [Extended Data](ext_articles/2885b22e.ext.json)
-
----
-
-### Those who are currently supporting the president will throw him to Adalabadal -in Dushara Hindu
-
-*2024-08-07 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190528) · `ta`
-
-Supporters of the current president are planning to transfer him to Adalabadal in Dushara Hindu. The government, led by President Ranil Wickremesinghe since 1994, faces uncertainty about its future direction. During a parliamentary debate on the 'Half Year State Stability Report,' Wickremesinghe mentioned an opponent's name related to alcohol but didn't reveal it publicly. This incident occurred in 1978 when JR Jayawardene implemented an open economic policy, leading to significant economic growth and Sri Lanka's high ranking in Asia's Human Resources Index until disruptions began in 1985.
-
-🟩
-
-The government of the government that has been in power from 1994 has now gone to President Ranil Wickremesinghe. The President does not know which goal is going to go with them.
-
-He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (07).
-
-President Ranil Wickremesinghe said that the name of the opponent's name from the liquor bar was issued within five minutes. He did not publish his name in the House after an hour. He was missing in the House.
-
-In 1978, JR Jayawardene introduced the open economic policy.
-
-In 1985, the export economy was 32 per cent and Sri Lanka was in the presence of Sri Lanka in Asia's Human Resources Index.. After that, the economic progress of the tribal policy was disrupted.
-
-President Ranil Wickremesinghe has now gone to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/03fb065b.json)
-
-[Extended Data](ext_articles/03fb065b.ext.json)
-
----
-
-### Practice the Agreement of both foreign governments and fishermen - Annarasa
-
-*2024-08-07 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190531) · `ta`
-
-Annarasa, former President of the All Ceylon Fishermen's Association, advocates for a permanent resolution to the issue of Indian fishermen in the North, affecting the livelihoods of Northern fishermen and the broader economy. He urges discussions between Foreign Ministries and fishermen to address violations and implement compliance measures agreed upon in 2016, including transforming the trawling industry and enhancing patrol cooperation.
-
-🟩
-
-Practice the agreement with the Foreign Ministries and the fishermen, and the former President of the All Ceylon Fishermen's Association, Annalingam Anna Sasa, said that the Indian fishermen come to the North and make quick arrangements to discuss our lives.
-
-He said this when he asked the Indian Foreign Minister N. Jaishankar that the fishermen issue would be made permanent.
-
-Not only is the livelihood of the Northern fishermen, but the livelihood of the entire North is affected by the abandonment of the economy of the North.
-
-I have continued to continue my various struggles to stop the violations of Indian fishermen.. Finally, in 2016, the bilateral pocket was adopted to implement a number of compliance and implement it.
-
-...
-
-[Data](articles/26827aff.json)
-
-[Extended Data](ext_articles/26827aff.ext.json)
-
----
-
-### Discovers a stock of ice hidden in computer accessories
-
-*2024-08-07 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199678) · `si`
-
-A significant haul of over 5 kg of ice was found concealed within 63 computer accessories during a joint operation by the Police Special Task Force and the Police Narcotics Bureau. The substance is believed to have been smuggled into Sri Lanka by a racketeer known as "Dubai Site."
-
-🟩
-
-Over 5 kilograms of ice cast have been recovered from 63 computer accessories.
-
-Officers of the Police Special Task Force and the Police Narcotics Bureau have joined the raid.
-
-Police suspect that the drug has been sent to Sri Lanka by the racketeer named Dubai Site.
-
-◼️
-
-[Data](articles/53f2061b.json)
-
-[Extended Data](ext_articles/53f2061b.ext.json)
-
----
-
-### Tamil - Muslim people will take charge of the government September 22
-
-*2024-08-07 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190536) · `ta`
-
-On September 22, Tamil and Muslim communities plan to assume governmental control, with full backing from Sajith Premadasa. This move comes after criticism of the current regime for its handling of the Central Bank fraud and VFS visa distribution scandal, which led to a significant financial loss. The opposition leader, Sajith Premadasa, is expected to play a pivotal role in this transition, supported by the Tamil and Muslim populations.
-
-🟩
-
-Ranil Wickremesinghe is not going to sleep until he sends Ranil Wickremesinghe today.. Tamil and Muslim people will fully support Sajith Premadasa. United People's Power MP Nalin Bandara said that the government will be held on September 22.
-
-He was speaking at the adjournment debate on the 'Half Year State Stability Report' held in Parliament on Wednesday (07).
-
-Those who came to power referred to the Central Bank fraud granted the VFS visa distribution than the fraud.. We have gone to the High Court for the loss of Rs 4,000 crore to the government due to this distribution.
-
-Most of the ruling party is profitable despite the bankruptcy. That is why their property should be investigated.
-
-During the crisis, the then President called the Opposition Leader Sajith Premadasa to take charge of the government. Now we have put forward the conditions as a party.
-
-...
-
-[Data](articles/41eee88f.json)
-
-[Extended Data](ext_articles/41eee88f.ext.json)
-
----
-
-### Do you know about the Nagala and Milan called for the Sri Lanka Test squad?
-
-*2024-08-07 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199677) · `si`
-
-Nagala and Milan, two uncapped international players, have been included in the Sri Lanka Test squad. Despite not having international experience, they are recognized for their domestic performances. Nagala, aged 33, boasts impressive statistics including 107 runs and 257 wickets, making him one of the top bowlers. Milan, a product of Sri Sumangala Vidyalaya, has shown promise with 633 runs and 79 wickets. Both players had a notable performance against the Afghan 'A' team, contributing significantly to Sri Lanka's victory.
-
-🟩
-
-Two players who have not played two players who have not played internationally.
-
-However, it is also taught as a star-starve player.
-
-The 33-year-old is the only 33-year-old.
-
-He has won the first 107 (irrig 174) and 257 wickets.
-
-The best bowlers of 50 wickets in their innings have been bowled out for 50 wickets in their innings.
-
-The first century is 2,358 runs among the shares of Nissala's battle of the first century and 11 half centuries.
-
-SSC is the current sports club that is playing for several Sri Lankan premier sports clubs. Sports club.
-
-Meanwhile, the other player is a foreign student of Sri Sumangala Vidyalaya in Wariyapola, the other player in the Test squad.
-
-Milan's first bowler in Colombo Morse Sports Club is 79 wickets in 39 wickets.
-
-His best bowlers in his innings is to burn five wickets for 36 runs.
-
-He is also a batsman who scored 633 runs with two fifties with two fifties.
-
-...
-
-[Data](articles/920c1412.json)
-
-[Extended Data](ext_articles/920c1412.ext.json)
-
----
-
-### Sri Lanka energy minister discusses proposed CEB salary structures, VRS
-
-*2024-08-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-discusses-proposed-ceb-salary-structures-vrs-175920/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera said he had discussed salary structures and a voluntary retirement scheme policy with state-run power utility management and trade unions.
-
-Wijesekera met Ceylon Electricity Board management and trade unions on Monday.
-
-“Progress and current status of CEB reforms, appointments to key new institutes, human resource management policy, proposed new salary structures, performance based incentive systems and the VRS policy was discussed,” the minister said on X (twitter).
-
-Last week the National System Operator and the National Electricity Sector Advisory Council was established with the approval of the Cabinet of Ministers, Wijesekera said.
-
-The government will gradually reduce the 26,000 approved cadre in the CEB through a VRS and by not filling retired cadre position unless it is necessary while restructuring CEB, Wijesekera told reporters last month.
-
-...
-
-[Data](articles/4f6fc2b1.json)
-
-[Extended Data](ext_articles/4f6fc2b1.ext.json)
-
----
-
-### ICC honors the judge Madugalle in the 400th ODI
-
-*2024-08-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190534) · `ta`
-
-In the 400th International ODI, the International Cricket Council honored Ranjan Madugalle, a former Sri Lankan cricketer and captain, for his record-setting achievement. Madugalle, who has played 21 Tests and 63 ODIs, is recognized for his contributions as a referee in numerous international tournaments. The event took place at the Premadasa Stadium in Colombo, with Indian captain Rohit Sharma and Sri Lankan captain Dasun Shanaka in attendance.
-
-🟩
-
-Colombo R. International ODIs, which will be held at Premadasa Stadium, is the 400th International ODI competition for Ranjan Madukalle judge.
-
-Sri Lanka's Ranjan Madukalle was the first rival to set this landmark record at the International ODI Cricket Stadium.
-
-The International Cricket Council (IU) honored him with a memorial.
-
-Prior to the onset of the competition, Ranjan Madukalle was presented with the Baile -forming monument on behalf of the ICC on behalf of the ICC.
-
-Indian captain Rohit Sharma and Sri Lankan captain Sarid Asalank were also present.
-
-The International Cricket Council has congratulated Ranjan Madugalle on this milestone record.
-
-Ranjan Madugalle, a former cricketer and former cricket team leader of Royal College, Colombo, is the former captain of the Sri Lankan team.. He has played 21 Tests and 63 international ODIs.
-
-...
-
-[Data](articles/26159332.json)
-
-[Extended Data](ext_articles/26159332.ext.json)
-
----
-
-### Sri Lanka target 249 runs
-
-*2024-08-07 17:58:41* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවෙන්-ඉන්දියාවට-ලකුණු-249ක-ඉලක්කයක්/11-411254) · `si`
-
-In a cricket match, India set a target of 249 runs for Sri Lanka. Despite a strong effort, Sri Lanka fell short, scoring 248 runs in 50 overs, losing 7 wickets. Anthentchuna Fernando stood out with a score of 96.
-
-🟩
-
-Sri Lanka were a target of 249 runs for the victory of the Indian team.
-
-Accordingly, the Sri Lankan team scored 248 runs for the loss of 07 wickets at the end of 50 overs.
-
-Anthentchuna Fernando, who played a premier innings, scored 96 (102).
-
-◼️
-
-[Data](articles/5d85f4c1.json)
-
-[Extended Data](ext_articles/5d85f4c1.ext.json)
-
----
-
-### Sri Lanka’s People’s Leasing and Finance gets new CEO
-
-*2024-08-07 17:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-leasing-and-finance-gets-new-ceo-175913/) · `en`
-
-ECONOMYNEXT – Sri Lanka listed finance company, People’s Leasing and Finance Plc said it had appointed Kithsen Sanjeewa Bandaranayake as chief executive officer/general manager of with effect from August 6.
-
-He replaces Rajapaksa Pathiranage Udesh Priyadarshana Gunawardena who functioned as acting CEO/GM. Gunawardena will resume his role as the chief operating officer (COO).
-
-Bandaranayke has over 36 years of experience, including 31 years of expertise in the non-banking financial institution (NBFI) sector, the company said in a stock exchange filing.
-
-He joined People’s Leasing and Finance in 2007 as the DGM – finance and administration, and has led multiple functions, including finance, treasury, administration, human resources, information technology, credit, and marketing.
-
-...
-
-[Data](articles/1ca79abd.json)
-
-[Extended Data](ext_articles/1ca79abd.ext.json)
 
 ---

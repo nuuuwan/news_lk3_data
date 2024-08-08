@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 14:36:10**
+As of **2024-08-08 14:55:10**
 
 ## Newspaper Stats
 
-*Scraped **39,644** Articles*
+*Scraped **39,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,95 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,640
-adaderanalk | 4,604
+adaderanalk | 4,605
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,990
 virakesarilk | 6,267
-adaderanasinhalalk | 6,719
+adaderanasinhalalk | 6,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,643 (100.0%) of 39,644 articles have been extended.
+39,644 (100.0%) of 39,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ගාසා අරමුදලට ලැබුණු මුදල් ප්‍රමාණයක් භාර දෙයි
+### ජපානයේ ප්‍රබල භූකම්පනයක්
+
+*2024-08-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199711) · `si`
+
+දකුණු ජපාන වෙරළ තීරයට ඔබ්බෙන් ප්‍රබල භූකම්පනයක් වාර්තා වී තිබේ.
+
+මේ හේතුවෙන් සුනාමි අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට එරට කාලගුණවිද්‍යා ඒජන්සිය කටයුතු කළේය.
+
+ජපානයේ කුශු දූපතට නැගෙනහිර වෙරළ ආසන්නයේ කිලෝමීටර් 30ක් පමණ පොළොව අභ්‍යන්තරයේ එම කම්පනය සිදුවී තිබුණි.
+
+මෙම භූකම්පනය හේතුවෙන් කුශු දූපතට සහ ශිකොකු දූපතට මීටරයක් පමණ උසැති සුනාමි රැලි ඇති වෙතැයි අනුමාන කර තිබේ.
+
+◼️
+
+[Data](articles/0f8e8522.json)
+
+---
+
+### ප්‍රවීන් ජයවික්‍රමට ICCයෙන් චෝදනා
+
+*2024-08-08 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199710) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ දුෂණ විරෝධී රීති උල්ලංගණය කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ප්‍රවීන් ජයවික්‍රමට චෝදනා 3ක් එල්ලකර තිබේ.
+
+ජාත්‍යන්තර ක්‍රිකට් තරගවලදී සහ 2021 ලංකා ප්‍රිමියර් ලීග් තරගාවලියේදී තරග පාවාදීම සඳහා ඔහු වෙත සිදුකර තිබූ යෝජනා සම්බන්ධයෙන් දුෂණ විරෝධී ඒකකය දැනුම්වත් නොකළ බවට ඔහුට එරෙහිව චෝදනා එල්ලකර ඇත.
+
+නිවේදනයක් නිකුත් කරමින් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පැවසුවේ මෙම චෝදනා සඳහා උත්තර සැපයීමට 2024 අගෝස්තු 6 වනදා සිට දින 14ක් ඔහුට ලබාදී ඇති බවයි.
+
+◼️
+
+[Data](articles/04d26aa4.json)
+
+---
+
+### 29 Awami League leaders, family members found dead in Bangladesh violence
+
+*2024-08-08 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101082/29-awami-league-leaders-family-members-found-dead-in-bangladesh-violence) · `en`
+
+The bodies of 29 Awami League leaders and their family members were found on Tuesday across violence-stricken Bangladesh, following Sheikh Hasina’s resignation as Prime Minister and her departure to India, India Today reported.
+
+In Satkhira, at least 10 people were killed amid the violence that followed Hasina’s resignation. The Dhaka Tribune reported that several homes and businesses owned by Awami League leaders were targeted, resulting in vandalism and looting.
+
+In Cumilla, attacks by mobs resulted in the deaths of 11 individuals. Among them, six were killed when miscreants set fire to a three-storey residence owned by former councillor Mohammad Shah Alam, the report stated.
+
+On Tuesday, four people were killed when a mob burnt down the residence of MP Shafiqul Islam Shimul. The victims’ bodies were discovered in various parts of the house, including rooms, balconies, and the roof, the report said.
+
+...
+
+[Data](articles/112f92a9.json)
+
+---
+
+### Gaza handed over a money received by the fund
 
 *2024-08-08 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199709) · `si`
 
-ගාසා හී ළමා අරමුදලට ලැබුණු තවත් ඇමෙරිකානු ඩොලර් පන් ලක්ෂ අනූදහසක් පලස්තීන රජය වෙත භාර දී තිබේ.
+Under President Ranil Wickremesinghe's patronage, the Palestinian Government received funds from the USDA Children's Fund. Aimed at aiding children affected by Gaza's military situation, the handover was facilitated by the Presidential Secretariat and witnessed by the Palestine Ambassador and UNRWA representatives.
 
-ඒ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (07) ජනාධිපති කාර්යාලයේ දිය.
+🟩
 
-මීට අදාළ නිල ලිපි ලේඛන ශ්‍රී ලංකාවේ පලස්තීන තානාපති ආචාර්ය සුහයිර් එම්.එච්. සෙයිඩ් සහ එක්සත් ජාතීන්ගේ සහන වැඩ නියෝජිතායතනයේ (UNRWA) එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නේවාසික නියෝජිත අසූසා කුබෝටා යන මහත්ම මහත්මින් වෙත ජනාධිපතිවරයා විසින් භාර දෙනු ලැබීය.
+Another USDA Children's Fund has been handed over to the Palestinian Government.
 
-ගාසා තීරයේ පවත්නා යුදමය තත්ත්වය හේතුවෙන් අවතැන්ව සිටින දරුවන්ගේ මූලික අවශ්‍යතා සැපයීම සඳහා අවශ්‍ය මුල්‍යාධාර ලබා දීම මෙහි මූලික අරමුණ විය.
+Presidential Secretariat yesterday (07) under the patronage of President Ranil Wickremesinghe.
+
+Relevant official documents, Palestine Ambassador in Sri Lanka Dr. Suhhir MH. The President handed over the President to the President of Zayed and the United Nations Relief Agency (UNRWA).
+
+The main objective of the main objective is to provide financial assistance to provide the basic needs of the children displaced due to the military situation in Gaza.
 
 ◼️
 
 [Data](articles/14849314.json)
+
+[Extended Data](ext_articles/14849314.ext.json)
 
 ---
 
@@ -2171,83 +2229,5 @@ Osala Herath for the New Democratic Front, ASP Liagke on behalf of the Ceylon Wo
 [Data](articles/3ed7c661.json)
 
 [Extended Data](ext_articles/3ed7c661.ext.json)
-
----
-
-### Model
-
-*2024-08-08 01:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வினருக்கு-மொட்டு-அழைப்பு/175-341774) · `ta`
-
-The Sri Lanka People's Party (PA) has invited youth and women from the 'Arakalaya' movement to participate in its candidate selection process for the upcoming general election. The party's MP, Tissa Kuttiyarachchi, announced this invitation, emphasizing the party's readiness to support young leaders for future leadership roles. He highlighted the public's call for youth leadership during the 'Arakalaya' struggle and positioned the PA as the party best equipped to nurture such leadership.
-
-🟩
-
-The Sri Lanka PA has called for the youth and women involved in the 'Arakalaya' struggle on behalf of their party.
-
-The party's parliamentarian Tissa Kuttiyarachchi has said that during the upcoming general election, the Sri Lanka PA will be invited to the youth who represented the struggle to get the candidates of the PA.
-
-He said this while addressing the party headquarters in Nelum Mawatha yesterday morning.
-
-He noted that everyone is ready to provide young leaders to the leadership of the country in the future.
-
-“During the struggle, everyone in this country said," Give this country to the young leader. "Now we are the most refined party if we take our party.
-
-So, come to us and the youth who represented the struggle come to us and get the nominations. Sri Lanka is the most pure party with the youngest and the pure party. ”
-
-◼️
-
-[Data](articles/2e0497b8.json)
-
-[Extended Data](ext_articles/2e0497b8.ext.json)
-
----
-
-### Ranil Wickremesinghe's program has not increased foreign exchange reserves - Vijitha Herath
-
-*2024-08-08 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190542) · `ta`
-
-Vijitha Herath criticizes President Ranil Wickremesinghe's policies, stating they didn't boost foreign exchange reserves. She argues the increase came from remittances by overseas Sri Lankans, not his economic strategies. Herath also mentions a significant number of people leaving the country, affecting the forex reserves negatively. She warns against selling national assets like telecom and Hilton Hotel, emphasizing their importance beyond mere economics.
-
-🟩
-
-National People's Power Member Vijitha Herath said that President Ranil Wickremesinghe's programs were not responsible for the country's foreign exchange reserves, but the money sent by foreigners claiming that it could not be in the country.
-
-He was speaking at the post of adjournment of the House of Commons on Wednesday (7) in Parliament.
-
-State parties say that we have retrieved the country who defeated the country's economy. Fuel and gas rows were formed in the country due to the Central Bank robbery that day. If the robbery had not taken place, none of those rows would have been formed. The economic downturn would not have occurred. It is funny to say that those who have fallen in this situation have rescued the country.
-
-At the same time they claim that forex balance has increased. உண்மையில் அது ரணில் விக்கிரமசிங்கவின் பொருளாதார வேலைத்திட்டங்களால் அது அதிகரிக்கப்படவில்லை. In 2023 and 2022 alone, nearly six million people have left the country that they cannot be in this country.
-
-...
-
-[Data](articles/3716bda5.json)
-
-[Extended Data](ext_articles/3716bda5.ext.json)
-
----
-
-### Slander me on me
-
-*2024-08-08 01:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்மீது-அவதூறு-கூறுகின்றனர்/175-341773) · `ta`
-
-Selvam Adakkalanathan, TNA and LTTE leader, criticized individuals spreading false narratives against him online, highlighting the misuse of the internet for personal attacks. He urged for investigations into such slanderous content, emphasizing the need for accountability and justice in cyberspace.
-
-🟩
-
-Selvam Adakkalanathan, the leader of the Tamil National Alliance (TNA), and the leader of the Liberation Tigers of Tamil Eelam (RELO), stressed that some people who do not like politics are slandering themselves on the Internet.
-
-He emphasized the issue of privilege on Wednesday (07) in Parliament.
-
-Some people who do not like my growth in a slander about me write on the websites. I have been in politics for so long and the first time I ask for justice here.
-
-The Jaffna Intelligence website has written very badly that I am the backdrop after a man in Mannar. The Senior Inspector General of Police. Similarly, the Minister of Public Relations has also joined the issue. Thus, the investigation into the matter should be taken on the website. I am asking those who have been involved to respond to this.
-
-Responding to this, the Speaker said that steps would be taken to send the issue to the Private Committee.
-
-◼️
-
-[Data](articles/65da54dd.json)
-
-[Extended Data](ext_articles/65da54dd.ext.json)
 
 ---

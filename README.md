@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 13:36:30**
+As of **2024-08-08 13:55:55**
 
 ## Newspaper Stats
 
-*Scraped **39,637** Articles*
+*Scraped **39,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,107 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,640
-adaderanalk | 4,602
+adaderanalk | 4,603
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,989
 virakesarilk | 6,267
-adaderanasinhalalk | 6,715
+adaderanasinhalalk | 6,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,628 (100.0%) of 39,637 articles have been extended.
+39,637 (100.0%) of 39,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ஜனாதிபதித் தேர்தல் ; தமிழ் பொதுவேட்பாளர் பா. அரியநேத்திரன்
+### දෙමළ පොදු අපේක්ෂකයා නම් කෙරේ
+
+*2024-08-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199706) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා දෙමළ ජාතික පොදු අපේක්ෂකයා ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාකියසෙල්වම් අරියනේත්‍රන් ඉදිරිපත් වන බව නිවේදනය කරයි.
+
+යාපනයේ සෙල්වා කලාගාරයේ අද (08) පැවති විශේෂ මාධ්‍ය හමුවකදී මේ සම්බන්ධයෙන් තීරණය ප්‍රකාශයට පත්කර ඇත.
+
+ජනාධිපතිවරණය සඳහා දෙමළ පාර්ශ්වයෙන් පොදු අපේක්ෂකයෙකු ඉදිරිපත් කිරීම සඳහා දෙමළ සිවිල් සමාජය සහ දෙමළ ජාතික දේශපාලන පක්ෂ අතර ගිවිසුමක් පසුගියදා අත්සන් කෙරුණි.
+
+සී.වී. විග්නේශ්වරන්ගේ දෙමළ ජනතා සන්ධානය, ටෙලෝ, ප්ලොට්, ඊපීආර්එල්එෆ්, දෙමළ ජාතික හරිත ව්‍යාපාරය, දෙමළ ජාතික පක්ෂය, ප්‍රජාතන්ත්‍රවාදී සටන්කාමී පක්ෂය, සිවිල් සමාජ සංවිධාන සමඟ එක්ව දෙමළ පොදු අපේක්ෂකයාට සහාය පළ කර තිබේ.
+
+දෙමළ ජාතික සන්ධානයට අයත් ඉලංගෙයි තමිල් අරුසුකච්චි පක්ෂය ජනාධිපතිවරණය සම්බන්ධයෙන් සිය ස්ථාවරය මෙතෙක් ප්‍රකාශ කර නොමැති අතර සමස්ත ලංකා දෙමළ කොංග්‍රසය ජනාධිපතිවරණය වර්ජනය කිරීමේ ප්‍රචාරක කටයුතුවල නිරතව සිටී.
+
+◼️
+
+[Data](articles/efd98449.json)
+
+---
+
+### Sri Lanka’s Tamil parties announce common candidate for presidential poll
+
+*2024-08-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101080/sri-lankas-tamil-parties-announce-common-candidate-for-presidential-poll) · `en`
+
+The ‘Tamil National Common Structure’, an alliance of Tamil political parties, has announced its decision to nominate former MP P. Ariyanenthiran as their common candidate for the upcoming Presidential Election.
+
+Several Tamil political parties and a group of civil society representatives had reached an agreement to nominate a common candidate for the forthcoming Presidential Election.
+
+Accordingly, seven Tamil political parties including the Tamil People’s Alliance and seven civil society representatives had signed this agreement in Jaffna on July 22.
+
+The signatories include C. V. Vigneswaran of Tamil People’s Alliance, Selvam Adaikkalanathan of Tamil Eelam Liberation Organization (TELO), D. Siddharthan of People’s Liberation Organisation Tamil Eelam (PLOTE), Srikantha of Tamil National Party and Suresh Premachandran of Eelam People’s Revolutionary Liberation Front (EPRLF).
+
+◼️
+
+[Data](articles/a48c8bf4.json)
+
+---
+
+### Presidential election;Tamil General Candidate Pa. Rare money
 
 *2024-08-08 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190569) · `ta`
 
-தமிழ் பொது வேட்பாளராக இலங்கைத்தமிழரசுக் கட்சியைச் சேர்ந்த மட்டக்களப்பு மாவட்ட பாராளுமன்ற முன்னாள் உறுப்பினர் பா.அரியநேந்திரன், அறிவிக்கப்பட்டுள்ளார்.
+The Tamil National Alliance (TNA) has selected a former MP from the Batticaloa District as its Tamil general candidate. This decision was made during a meeting in Jaffna, involving seven representatives from the Tamil People's General Assembly and Tamil National Political Parties. Notably, KV Dawarasa, President of the Colombo Branch of TNA, and Chandraneru Chandrakanthan, a former MP of the Tamil National Alliance, were part of this process.
 
-சிவில் அமைப்புகளின் ஒருங்கிணைவுடன் உருவாக்கப்பட்ட தமிழ் மக்கள் பொதுச்சபையின் ஏழு பிரதிநிதிகளும் தமிழ்த் தேசிய அரசியல்கட்சிகள் ஏழினது பிரதிநிதிகளும் கூட்டிணைந்து தமிழ்த் தேசியப் பொதுக்கட்டமைப்பை உருவாக்கியிருந்தனர்.
+🟩
 
-அவ்வாறு உருவாக்கப்பட்ட தமிழ்த் தேசியப் பொதுக்கட்டமைப்பின் சந்திப்பு யாழ்ப்பாணத்தில் இன்றைய தினம் வியாழக்கிழமை கூடி தமிழ் பொது வேட்பாளரை அறிவித்துள்ளனர்.
+Former Member of Parliament of the Batticaloa District of the Sri Lanka Tamil Nadu Party has been announced as the Tamil general candidate.
 
-அதேவேளை இலங்கைத் தமிழரசுக் கட்சியின் கொழும்புக் கிளைத் தலைவரும் ஜனாதிபதி சட்டத்தரணியுமான கே.வி.தவராசா. தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற முன்னாள் உறுப்பினர் சந்திரநேரு சந்திரகாந்தன் ஆகியோரது பெயர்களும் இறுதிப் பட்டியலில் இருந்ததாக தெரிவிக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+Seven representatives of the Tamil People's General Assembly, which was formed with the coordination of civil organizations, and the representatives of the Tamil National Political Parties, the Tamil National Alliance.
+
+The meeting of the Tamil National Alliance (TNA), which was created, met in Jaffna on Thursday and announced the Tamil general candidate.
+
+Meanwhile, KV Dawarasa, the President of the Colombo Branch of the Sri Lanka Tamil National Alliance (TNA) and President's lawyer. It is also worth noting that the names of former Member of Parliament of the Tamil National Alliance Chandraneru Chandrakanthan were also on the final list.
 
 ◼️
 
 [Data](articles/f62e1910.json)
 
+[Extended Data](ext_articles/f62e1910.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணிலுக்கு ஆதரவளிப்பதாக பவித்ரா தெரிவிப்பு
+### Pavithra announces supporting President Ranil
 
 *2024-08-08 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190570) · `ta`
 
-வனஜீவராசிகள் மற்றும் வனவள பாதுகாப்பு அமைச்சர் பவித்திரா வன்னியாராச்சி ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளதாக அறிவித்துள்ளார்.
+Wildlife Minister Pavithra Wanniyarachchi supports President Ranil Wickremesinghe, citing his leadership during the 2022 crisis and his efforts towards national stability. This decision aligns with the majority of the Sri Lanka People's Freedom Alliance (PA).
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலான உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவை தெரிவித்திருந்த நிலையில் பவித்திரா வன்னியாராச்சி எந்தவித தீர்மானத்தையும் வெளியிட்டிருக்கவில்லை.
+🟩
 
-எவ்வாறிருப்பினும் வியாழக்கிழமை (08) அறிக்கையொன்றை வெளியிட்டு தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரிப்பதாக அறிவித்துள்ளார்.
+Wildlife and Forest Protection Minister Pavithra Wanniyarachchi has announced that he has decided to support President Ranil Wickremesinghe.
 
-என்னுடன் அரசியலில் ஈடுபட்டு வரும் அரசியல்வாதிகள், நிபுணர்கள் உள்ளிட்ட பலருடன் நீண்ட ஆலோசனைகளை நடத்திய பின்னர் நான்  இந்த தீர்மானத்தை எடுத்திருக்கின்றேன்.  2022 ஆம் ஆண்டு எமது நாடு பொருளாதார ரீதியிலும் அரசியல் ரீதியிலும் ஸ்திரமற்ற நிலையில் பாரிய நெருக்கடிகளை எதிர் கொண்டிருந்த மையை நாம் அனைவரும் நன்கு அறிவோம்.
+Pavithra Wanniyarachchi has not issued any resolution as most members of the Sri Lanka PA have expressed their support for President Ranil Wickremesinghe.
 
-அந்த சந்தர்ப்பத்தில் நாட்டில் ஸ்திரத்தன்மையை ஏற்படுத்துவதற்காக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலானோரின் ஆதரவுடன் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவு செய்யப்பட்டார்.
+However, on Thursday (08), President Ranil Wickremesinghe announced his support for the election.
+
+I have taken this decision after a long consultation with many politicians and experts involved in politics with me.We are all well aware of the massive crisis in 2022, where our country is economic and politically instability.
+
+On that occasion, Ranil Wickremesinghe was elected president with the support of most of the Sri Lanka Peoples Freedom Alliance (PA) to create stability in the country.
 
 ...
 
 [Data](articles/31953160.json)
+
+[Extended Data](ext_articles/31953160.ext.json)
 
 ---
 
@@ -114,15 +164,21 @@ In that respect, Sunita Williams can return to Earth only after correcting techn
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-08 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190561) · `ta`
 
-இன்று வியாழக்கிழமை  (ஆகஸ்ட் 08) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.0104 ஆகவும் விற்பனை விலை ரூபா  306.2824 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's buying rate is Rs 297.0104, while its selling rate is Rs 306.2824 according to the Central Bank's latest update on August 08.
+
+🟩
+
+The US dollar purchasing price was Rs 297.0104 and the sales price were Rs 306.2824 based on a currency exchange rate released by the Central Bank on Thursday (August 08).
 
 ◼️
 
 [Data](articles/9ddfcf37.json)
+
+[Extended Data](ext_articles/9ddfcf37.ext.json)
 
 ---
 
@@ -130,31 +186,43 @@ In that respect, Sunita Williams can return to Earth only after correcting techn
 
 *2024-08-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190563) · `ta`
 
-நாட்டில் தங்கத்தின் விலையில் மாற்றங்கள் ஏற்பட்டு வரும் நிலையில் இன்று வியாழக்கிழமை (08) 24 கரட் ஒரு கிராம் தங்கம் 24,687 ரூபாவாகவும், 24 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 197,500 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அகில இலங்கை நகை வியாபாரிகள் சங்கம் தெரிவித்துள்ளது.
+Today, 24 grams of gold costs 24,687 rupees, while one pound (approximately 373 grams) costs 197,500 rupees. Additionally, 22 grams of gold is priced at 22,837 rupees, and one pound (about 373 grams) of 22-carat gold is available for 182,700 rupees.
 
-மேலும்,22 கரட் ஒரு கிராம் தங்கம் 22,837 ரூபாவாகவும், 22 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 182,700 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அச் சங்கம் மேலும் தெரிவித்துள்ளது.
+🟩
+
+The All Ceylon Jewelry Merchants Association said that 24 grams of gold will be sold at 24,687 rupees and 24 grams of gold (one pound) gold at 197,500 rupees.
+
+In addition, 22 grams of gold is sold at 22,837 rupees and 22 carat 8 grams (one pound) gold at 182,700 rupees, the association added.
 
 ◼️
 
 [Data](articles/e22e56aa.json)
 
+[Extended Data](ext_articles/e22e56aa.ext.json)
+
 ---
 
-### ක්‍රිකට් දුෂණ සම්බන්ධයෙන් තිදෙනෙකුට දඬුවම්
+### Punishment for three cricket corrupt
 
 *2024-08-08 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199705) · `si`
 
-අබුඩාබි T10 ලීග් තරගාවලියේ දී දුෂණ සිදුකළ බවට චෝදනා එල්ලවූ තිදෙනෙක් ට දඬුවම් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පියවර ගෙන තිබේ.
+The International Cricket Council (ICC) punished three individuals involved in corruption allegations related to the Abu Dhabi T10 League. The first person received a five-year ban from cricket, while the other two were banned for two years each. These bans took effect on September 19, 2023.
 
-එහිදී වැරදිකරුවන් වී ඇත්තේ පූනේ ඩෙවිල්ස් කණ්ඩායමේ පිතිකරණ පුහුණුකරු වූ අෂාර් සයිඩි, සහ එම කණ්ඩායමේ හිමිකරුවන් වූ පරාග් සන්ගාවී සහ ක්‍රිෂාන් චවුද්රි යන තිදෙනා ය.
+🟩
 
-ඒ අනුව සයිඩි ට වසර 5ක ක්‍රිකට් තහනමක් පනවා ඇති අතර අනෙක් දෙදෙනාට වසර දෙක බැගින් ක්‍රිකට් තහනම් කර තිබුණි.
+The International Cricket Council (ICFI) has taken steps to punish three accused of claiming that Abu Dhabi T10 League was carried out.
 
-දඬුවම 2023 සැප්තැම්බර් 19 වනදා සිට ක්‍රියාත්මක බව ICCය නිවේදනය කළේය. ඒ අනුව පරාග් සන්ගාවී සහ ක්‍රිෂාන් චවුද්රි ට 2024 සැප්තැම්බර් 19 වනදා සිටද සයිඩි ට 2027 සැප්තැම්බර් 19 වනදා සිටද ක්‍රිකට් ක්‍රීඩාව සමග සම්බන්ධ විය හැකිය.
+The first offered the Devil's Shawdrator, and the owners of the group, were the owners of the group, and the owners of the group, and the owners of the group.
+
+Accordingly, Sidi had banned 5 years cricket and the other two banned cricket for two years.
+
+The ICC announced that the punishment was effect on September 19, 2023. Accordingly, Sinaran Chadri has been involved in the 19th of September 19, 2023 and to cricket.
 
 ◼️
 
 [Data](articles/f3d8b88f.json)
+
+[Extended Data](ext_articles/f3d8b88f.ext.json)
 
 ---
 
@@ -176,19 +244,25 @@ The launch of the United People's Alliance (UPFA) headed by Samaki Jan. Balaveka
 
 ---
 
-### ஐக்கிய மக்கள்  சக்தியின் தேர்தல் கூட்டணி ஒப்பந்தம் கைச்சாத்தானது
+### United People's Power Election Alliance Agreement signed
 
 *2024-08-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190556) · `ta`
 
-ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டு பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு இன்று வியாழக்கிழமை (08) இடம்பெற்றது.  கொழும்பு சுகததாச உள்ளக அரங்கில் இடம்பெற்ற இந்த நிகழ்வில் பங்காளி கட்சிகளுடன் ஒப்பந்தநம் கைச்சாத்திடப்பட்டது.
+The United People's Power Election Alliance Agreement was signed on Thursday, involving key opposition parties like the United People's Alliance, Tamil Progressive Alliance, Independent People's Congress, and others. Notably, the All Ceylon People's Congress, which previously supported the alliance, has yet to announce its decision for the upcoming elections.
 
-அதற்கமைய எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்தி, மனோ கணேஷன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணி, டலஸ் அழகப்பெரும தலைமையிலான சுதந்திர மக்கள் காங்ரஸ், ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பு உள்ளிட்ட முக்கிய கட்சிகள் இந்த ஒப்பந்தத்தில் கைச்சாத்திட்டன.
+🟩
 
-ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்ரஸ் இதற்கு முந்தைய தேர்தல்களில் ஐக்கிய மக்கள் கூட்டணியுடன் இணைந்தே செயற்பட்டது. எனினும் இம்முறை அக்கட்சி அவ்வாறானதொரு தீர்மானத்தை அறிவிக்கவில்லை. அடுத்த வாரமே தாம் யாருக்கு ஆதரவு என்பதை அறிவிக்கவுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The signing of a deal with the main opposition United People's Alliance (UPFA), aimed at the presidential election, took place on Thursday (08).The event was held at the Sugathadasa Indoor Stadium in Colombo.
+
+Accordingly, key parties, including the United People's Power, Mano Ganesha, led by Opposition Leader Sajith Premadasa, the Tamil Progressive Alliance led by Mano Ganesha, the Independent People's Congress led by Dullas Alagapperuma and the Sri Lanka Freedom Party Dayasiri Jayasekera's party.
+
+All Ceylon People's Congress led by Rishad Bathiudeen worked with the United People's Alliance in previous elections. However, this time the party did not announce such a resolution. It is noteworthy that the next week it is reported that they will announce who will support.
 
 ◼️
 
 [Data](articles/19d26a4f.json)
+
+[Extended Data](ext_articles/19d26a4f.ext.json)
 
 ---
 
@@ -236,23 +310,29 @@ Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online
 
 ---
 
-### மஹியங்கனையில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்து ; ஒருவர் உயிரிழப்பு !
+### Two motorcycles collided with Mahiyangana;One death!
 
 *2024-08-08 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190553) · `ta`
 
-மஹியங்கனை, கிராந்துருகோட்டை - திவுல பெலஸ்ஸ பிரதான வீதியின் விரணகம பகுதியில் புதன்கிழமை (07) மாலை இரண்டு மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளானதில் சாரதி ஒருவர் உயிரிழந்துள்ளதுடன், மற்றையவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In a tragic accident on the Mahiyanganaya road, two motorcycles collided, resulting in one fatality and injuries. A 48-year-old man from Viranagama died, while another victim remains hospitalized. The victims, who worked in Colombo, were on a vacation trip. Investigations are ongoing under the direction of local authorities.
 
-10 கட்டை  விரணகம பகுதியைச் சேர்ந்த 48 வயதுடையவரே விபத்தில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர்கள் கொழும்பு பகுதியில் பணிபுரிபவர்கள் எனவும், விடுமுறைக்காக வீட்டிற்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்த போது, வீட்டில் இருந்து சுமார் ஒரு கிலோமீற்றர் தொலைவில் சென்று கொண்டு இருக்கையில் குறித்த நபர் தூக்கத்தில்  எதிர்திசையில் வந்த மோட்டார் சைக்கிளில் மோதி அருகே மரத்தில் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+A driver was killed and the other was injured when two motorcycles collided with two motorcycles on Wednesday evening at the Mahiyanganaya, Grandurukottai - Divula Belsa main road.
 
-காயமடைந்த இருவரும் கிராந்துருகோட்டை ஆரம்ப வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போது ஒருவர் ஏற்கனவே உயிரிழந்துள்ளார்.
+A 48 -year -old man from Viranagama area has died in the accident, police said.
 
-பதுளை மாவட்ட பிரதிப் பொலிஸ் மா அதிபர் சுஜித் வேதமுல்ல மற்றும் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் வசந்த கந்தேவத்த ஆகியோரின் பணிப்புரையின் பேரில் கிராந்துருகோட்டை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Police said that the victims were working in Colombo and were on a motorbike for a vacation for a vacation.
+
+One person has already died when the two injured were taken to the Grandurukottai initial hospital.
+
+Grandurukottai Police are conducting investigations on the directives of Badulla District Deputy Inspector General of Police Sujith Vedamulla and Senior Superintendent of Police Vasantha Kandewatta.
 
 ◼️
 
 [Data](articles/ca635350.json)
+
+[Extended Data](ext_articles/ca635350.ext.json)
 
 ---
 
@@ -298,15 +378,21 @@ Below is the full announcement issued by Pavithra Wanniarachchi.
 
 ---
 
-### இலங்கையின் முதலாவது தொலைக்காட்சி பெண் செய்தி வாசிப்பாளர் காலமானார்
+### Sri Lanka's first television female news reader passed away
 
 *2024-08-08 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190558) · `ta`
 
-இலங்கையின் முதலாவது தொலைக்காட்சி பெண் செய்தி வாசிப்பாளரான சுமனா நெலம்பிட்டிய தனது 80வது வயதில்  காலமானார்.
+Sumana Nilambitiya, Sri Lanka's pioneering female TV newsreader, has passed away at 80.
+
+🟩
+
+Sri Lanka's first television female news reader Sumana Nilambitiya passed away at the age of 80.
 
 ◼️
 
 [Data](articles/874db375.json)
+
+[Extended Data](ext_articles/874db375.ext.json)
 
 ---
 
@@ -420,19 +506,25 @@ The SJB will form an alliance with several political parties that hold seats in 
 
 ---
 
-### முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் லமாஹேவாவை மரண தண்டனையிலிருந்து விடுவிக்க  உயர் நீதிமன்றம் உத்தரவு
+### Supreme Court order to release former Prison Commissioner Emil Ranjan Lamahewa from death sentence
 
 *2024-08-08 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190555) · `ta`
 
-வெலிக்கடை சிறைச்சாலையில் கடந்த 2012 ஆம் ஆண்டு இடம்பெற்ற மோதலில் கைதிகளை கொலை செய்த குற்றச்சாட்டின் பேரில் குற்றவாளியாகக் காணப்பட்ட முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் லமாஹேவாவை விடுதலை செய்ய உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Supreme Court has overturned the death sentence against former Prison Commissioner Emil Ranjan Lamahewa, convicted for prisoner murders in the 2012 Welikada Prison clash. A five-judge panel accepted his appeal, leading to his release.
 
-கொழும்பு மேல்நீதிமன்ற மூவரடங்கிய நீதிபதிகளினால் வழங்கப்பட்ட மரண தண்டனையிலிருந்து விடுவிக்க  உயர் நீதிமன்றம் இன்று வியாழக்கிழமை (08) உத்தரவிட்டுள்ளது.
+🟩
 
-தண்டனைக்கு எதிராக முன்னாள் சிறைச்சாலை ஆணையாளர் சார்பில் தாக்கல் செய்யப்பட்ட மேல்முறையீட்டு மனுவை ஏற்றுக்கொண்ட ஐந்து நீதிபதிகள் கொண்ட உயர் நீதிமன்றத்தினால் தீர்ப்பு வழங்கப்பட்டுள்ளது.
+The High Court has ordered the release of former Prison Commissioner Emil Ranjan Lamahewa, who was found guilty of murdering prisoners in the 2012 clash at the Welikada Prison.
+
+The Supreme Court today (08) ordered the release of the death sentence given by the three judges of the Colombo High Court.
+
+A five -judge judges have been ruled by the High Court who accepted the appeal filed on behalf of the former Prison Commissioner against the sentence.
 
 ◼️
 
 [Data](articles/184848e1.json)
+
+[Extended Data](ext_articles/184848e1.ext.json)
 
 ---
 
@@ -2171,53 +2263,5 @@ Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil
 [Data](articles/4bd4cda3.json)
 
 [Extended Data](ext_articles/4bd4cda3.ext.json)
-
----
-
-### 2024-08-07 (Wednesday)
-
-### Why AKD-NPP have fallen in the polls, may lose elections
-
-*2024-08-07 23:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-AKD-NPP-have-fallen-in-the-polls-may-lose-elections/4-765259) · `en`
-
-“Additionally, the President highlighted the importance of promoting the Tamil language alongside Sinhala. He noted that with the anticipated economic growth in Tamil Nadu soon, Tamil-speaking Sri Lankans would have unique opportunities that others might not have.”
-
-My salute to the people of Bangladesh led by their student youth, who have overthrown an autocrat in an unarmed uprising, sacrificing over 300 lives. We can also be proud of ourselves as Sri Lankans, since the autocrat mentioned our Aragalaya as an inspiration for the Bangladeshi youth. So much for so-called ‘anti-imperialists’ who revile it and are suspicious of People’s Power revolts.
-
-In Sri Lanka’s election season, wannabe tyrants should tremble, and be deterred from any power-grab they may be planning.
-
-TV news has shown President Wickremesinghe saying repeatedly on his recent visits to the North and East that “in this country we have 10 governments, 9 of which are Provincial Governments”.
-
-...
-
-[Data](articles/be7abde6.json)
-
-[Extended Data](ext_articles/be7abde6.ext.json)
-
----
-
-### 4 Chinese passengers, pilot killed in helicopter crash in Nepal
-
-*2024-08-07 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101069/4-chinese-passengers-pilot-killed-in-helicopter-crash-in-nepal) · `en`
-
-A helicopter crashed in central Nepal on Wednesday, killing all five people aboard including the pilot and four Chinese tourists.
-
-Nepal has a woeful track record on aviation safety and the Himalayan republic has seen a spate of deadly light plane and helicopter crashes over the decades.
-
-The Air Dynasty chopper was heading to Syabrubesi, a starting point for many trekking routes popular with tourists, from the capital Kathmandu.
-
-It lost contact about three minutes after taking off, a press release from the Civil Aviation Authority said, and crashed in Nuwakot district north of the capital.
-
-Another helicopter was dispatched immediately to the accident site for rescue, it said.
-
-“All five people aboard including the pilot are dead,” police spokesman Dan Bahadur Karki told AFP.
-
-Nuwakot district officer Ram Krishna Adhikari said five dead bodies have been retrieved from the accident site.
-
-...
-
-[Data](articles/c644fbe6.json)
-
-[Extended Data](ext_articles/c644fbe6.ext.json)
 
 ---

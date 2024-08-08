@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 10:20:59**
+As of **2024-08-08 10:36:24**
 
 ## Newspaper Stats
 
-*Scraped **39,593** Articles*
+*Scraped **39,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
-adalk | 3,637
-adaderanalk | 4,596
+adalk | 3,638
+adaderanalk | 4,598
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,982
 virakesarilk | 6,252
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,592 (100.0%) of 39,593 articles have been extended.
+39,592 (100.0%) of 39,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### 2012 Welikada Prison riot: Emil Ranjan Lamahewa acquitted
+
+*2024-08-08 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101075/2012-welikada-prison-riot-emil-ranjan-lamahewa-acquitted) · `en`
+
+The Supreme Court today (08) ordered to acquit former Prisons Commissioner Emil Ranjan Lamahewa, who was convicted over the killing of prisoners during the 2012 Welikada Prison riot and had been sentenced to death by the Colombo High Court Trial-at-Bar.
+
+The decision was delivered by a panel of five judges of the Supreme Court after accepting an appeal filed on behalf of Lamahewa against the sentence.
+
+◼️
+
+[Data](articles/e458c3ea.json)
+
+---
+
+### Circular issued for monthly allowance for pensioners
+
+*2024-08-08 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101074/circular-issued-for-monthly-allowance-for-pensioners) · `en`
+
+Despite the Election Commission’s directive to halt the Rs.3,000 allowance for pensioners during the election period, the Secretary of the Ministry of Public Administration has issued a circular regarding its distribution.
+
+Reportedly, circulars were issued yesterday (7) to Ministry Secretaries, Heads of Departments, District Secretaries, and Divisional Secretaries, informing them that the allowance payment would commence effective from September.
+
+The Election Commission had recently instructed the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government to suspend the said allowance until the presidential election concludes.
+
+This was discussed during a meeting with ministry secretaries at the Election Commission.
+
+However, the Election Commission says that issuing a circular to provide the relevant allowance while ignoring the order is against the election law.
+
+◼️
+
+[Data](articles/3dbf4faa.json)
+
+---
 
 ### Welikada acquitted in Welikada incident
 
@@ -269,6 +303,18 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 [Data](articles/cd1d5af0.json)
 
 [Extended Data](ext_articles/cd1d5af0.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+
+*2024-08-08 09:12:23* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411259) · `si`
+
+පාර්ලිමේන්තුව අද(08දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+
+◼️
+
+[Data](articles/1c19263d.json)
 
 ---
 
@@ -1260,22 +1306,6 @@ Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil
 
 ### 2024-08-07 (Wednesday)
 
-### 
-
-*2024-08-07 23:48:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84501) · `en`
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்தவார  முற்பகுதியில் ராஜபக்சாக்களினால் கொடுமையான முறையில் ஏமாற்றப்பட்டார். எதிர்வரும் ஜனாதிபதி தேர்தலில் மெதமுலான குடும்பம் தலைமையிலான’ தாமரை மொட்டு ‘ கட்சி  விக்கிரமசிங்கவுக்கு பின்னால் உறுதியாக நிற்கும் என்று அவருக்கு பொய்யான உறுதிமொழிகள் வழங்கப்பட்டன.நாமல் ராஜபக்சவினால் தெரிவிக்கப்பட்ட மாறுபாடான கருத்தை பொருட்படுத்தத் தேவையில்லை என்றும் கூறப்பட்டது.
-
-பொதுஜன பெரமுன ஜனாதிபதி தேர்தலில் ரணிலை ஆதரிப்பதில்லை என்று முடிவெடுத்திருக்கிறது. ராஜபக்சாக்கள் அவரின் முதுகில் குத்திவிட்டார்கள். விக்கிரமசிங்கவை ஆதரிப்பதா இல்லையா என்று தீர்மானிப்பது பொதுஜன பெரமுனவைப் பொறுத்தது. அது கட்சியின் தெரிவுக்குரியது.  இந்த விவகாரத்தில் ராஜபக்சாக்கள் ( நாமலைத் தவிர ) நடந்துகொண்ட முறை மிகவும் அருவருக்கத்தக்கதாகும். தன்னை ராஜபக்சாக்கள்  ஆதரிப்பார்கள் என்று ரணிலை நம்பவைத்து ஏமாற்றி  தங்களின்  ஆதரவை முறைப்படி நாடச் செய்தார்கள்.   அதற்குப் பிறகு  அவரை நிராகரித்ததன் மூலம் அவமதிப்புக்குள்ளாக்கிவிட்டார்கள்.
-
-...
-
-[Data](articles/de5cf4d4.json)
-
-[Extended Data](ext_articles/de5cf4d4.ext.json)
-
----
-
 ### Why AKD-NPP have fallen in the polls, may lose elections
 
 *2024-08-07 23:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-AKD-NPP-have-fallen-in-the-polls-may-lose-elections/4-765259) · `en`
@@ -1581,6 +1611,22 @@ Police suspect the drug may have sent the drug to Sri Lanka. Remble
 [Data](articles/e73c8078.json)
 
 [Extended Data](ext_articles/e73c8078.ext.json)
+
+---
+
+### ராஜபக்சாக்கள் ரணிலுக்கு செய்த வஞ்சனை  திரும்பிவந்து பொதுஜன பெரமுனவை தாக்குகிறது
+
+*2024-08-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84501) · `en`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்தவார  முற்பகுதியில் ராஜபக்சாக்களினால் கொடுமையான முறையில் ஏமாற்றப்பட்டார். எதிர்வரும் ஜனாதிபதி தேர்தலில் மெதமுலான குடும்பம் தலைமையிலான’ தாமரை மொட்டு ‘ கட்சி  விக்கிரமசிங்கவுக்கு பின்னால் உறுதியாக நிற்கும் என்று அவருக்கு பொய்யான உறுதிமொழிகள் வழங்கப்பட்டன.நாமல் ராஜபக்சவினால் தெரிவிக்கப்பட்ட மாறுபாடான கருத்தை பொருட்படுத்தத் தேவையில்லை என்றும் கூறப்பட்டது.
+
+பொதுஜன பெரமுன ஜனாதிபதி தேர்தலில் ரணிலை ஆதரிப்பதில்லை என்று முடிவெடுத்திருக்கிறது. ராஜபக்சாக்கள் அவரின் முதுகில் குத்திவிட்டார்கள். விக்கிரமசிங்கவை ஆதரிப்பதா இல்லையா என்று தீர்மானிப்பது பொதுஜன பெரமுனவைப் பொறுத்தது. அது கட்சியின் தெரிவுக்குரியது.  இந்த விவகாரத்தில் ராஜபக்சாக்கள் ( நாமலைத் தவிர ) நடந்துகொண்ட முறை மிகவும் அருவருக்கத்தக்கதாகும். தன்னை ராஜபக்சாக்கள்  ஆதரிப்பார்கள் என்று ரணிலை நம்பவைத்து ஏமாற்றி  தங்களின்  ஆதரவை முறைப்படி நாடச் செய்தார்கள்.   அதற்குப் பிறகு  அவரை நிராகரித்ததன் மூலம் அவமதிப்புக்குள்ளாக்கிவிட்டார்கள்.
+
+...
+
+[Data](articles/de5cf4d4.json)
+
+[Extended Data](ext_articles/de5cf4d4.ext.json)
 
 ---
 
@@ -2229,67 +2275,5 @@ The US dollar purchasing price was Rs 297.5065, based on the currency exchange r
 [Data](articles/a6ff6948.json)
 
 [Extended Data](ext_articles/a6ff6948.ext.json)
-
----
-
-### Yash starring 'Taxic' shooting with pooja
-
-*2024-08-07 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190514) · `ta`
-
-"Yash stars in 'Taxik,' directed by Geetu Mohan Das, starting production after 'KG F's success. Shooting begins tomorrow in Bangalore, marking a celebration for fans two years after 'KG F.' Produced by KVN Productions."
-
-🟩
-
-After the huge success of 'KG F', the shooting of the film 'Taxik', which is playing the role of Ban's Indian star actor, has begun with the pooja.
-
-Actor Yash is the hero of the story in the upcoming film 'Taxik' directed by actress and director Geetu Mohan Das.
-
-The shooting of the film begins tomorrow in Bangalore. For this purpose, a film crew gathered at a temple in Karnataka. The film crew has released the photo related to this. The film is produced by KVN Productions.
-
-Two years later, his fans are celebrating this as the new information of the film 'KG F' starring 'KG F' is being released.
-
-◼️
-
-[Data](articles/01458664.json)
-
-[Extended Data](ext_articles/01458664.ext.json)
-
----
-
-### 4 killed in Nepal Heli accident
-
-*2024-08-07 16:35:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-ஹெலி-விபத்தில்-4-பேர்-பலி/50-341750) · `ta`
-
-A helicopter carrying Chinese passengers from Kathmandu crashed in Nepal's Nuagot district, resulting in four fatalities.
-
-🟩
-
-It crashed in Nuagot district when it went with Chinese passengers from the capital, Kathmandu. 4 people were killed in the crash. S
-
-◼️
-
-[Data](articles/6c0c5e5b.json)
-
-[Extended Data](ext_articles/6c0c5e5b.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields up across maturities
-
-*2024-08-07 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-across-maturities-175904/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across maturities at Wednesday’s auction with 146 billion rupees of bills sold of an offered 155 billion rupees, data from the debt office showed.
-
-The 3-month yield was up 8 basis points to 9.22 percent, with 55 billion rupees offered and 94.8 billion rupees of bills sold.
-
-The 6-month yield was up 22 basis points to 9.56 percent, with 55 billion offered and 39.8 billion rupees of bills sold.
-
-The 12-month bills fell 11 basis points to 10.06 percent, with 45 billion offered and 11.5 billion rupees of bills sold. (Colombo/Aug7/2024)
-
-◼️
-
-[Data](articles/3abbb3c3.json)
-
-[Extended Data](ext_articles/3abbb3c3.ext.json)
 
 ---

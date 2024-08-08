@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 09:36:22**
+As of **2024-08-08 09:55:54**
 
 ## Newspaper Stats
 
-*Scraped **39,583** Articles*
+*Scraped **39,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,93 @@ dailyftlk | 2,551
 adalk | 3,635
 adaderanalk | 4,596
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,977
+tamilmirrorlk | 4,978
 virakesarilk | 6,252
-adaderanasinhalalk | 6,705
+adaderanasinhalalk | 6,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,579 (100.0%) of 39,583 articles have been extended.
+39,582 (100.0%) of 39,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### நல்லூர் ஆலய சுற்றுவீதிகளில் போக்குவரத்து தடை
+### கட்டுப்பணம் செலுத்தியவர்களின் எண்ணிக்கை அதிகரித்தது
+
+*2024-08-08 09:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தியவர்களின்-எண்ணிக்கை-அதிகரித்தது/175-341786) · `ta`
+
+இந்த ஆண்டு ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக கட்டுப்பணம் செலுத்திய வேட்பாளர்களின் எண்ணிக்கை 22 ஆக அதிகரித்துள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதன்படி, ஜனாதிபதித் தேர்தலுக்கு 11 அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் கட்டுப்பணம் செலுத்தியுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+ஜனாதிபதித் தேர்தல் தொடர்பான கட்டுப்பாணம் செலுத்தும் காலம் எதிர்வரும் 14ஆம் திகதி நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளது. R
+
+◼️
+
+[Data](articles/e1b01be9.json)
+
+---
+
+### මැතිවරණ පැමිණිලි තවත් ඉහළට
+
+*2024-08-08 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199695) · `si`
+
+ඒ අනුව ජූලි 31 වැනිදා සිට ඊයේ (07) දක්වා මැතිවරණ පැමිණිලි 137ක් වාර්තා වූ බව මැතිවරණ කොමිසම පවසයි.
+
+◼️
+
+[Data](articles/6f50c6ef.json)
+
+---
+
+### විශ්‍රාමික දීමනාවට අදාළ චක්‍රලේඛය නිකුත් වෙයි
+
+*2024-08-08 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199694) · `si`
+
+විශ්‍රාමිකයින් වෙත ලබාදෙන රුපියල් 3,000ක දීමනාව මැතිවරණ කාලසීමාව තුළ ලබාදීම තාවකාලිකව නතර කරන ලෙස මැතිවරණ කොමිෂන් සභාව දැනුම්දී තිබියදීත් රාජ්‍ය පරිපාලන අමාත්‍යාංශ ලේකම්වරයා විසින් අදාළ දීමනාව ලබාදීම සම්බන්ධයෙන් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+
+ඊයේ දිනයේ අදාළ චක්‍රලේඛය අමාත්‍යාංශ ලේකම්වරුන් පළාත් ප්‍රධාන ලේකම්වරුන් සහ දෙපාර්තමේන්තු ප්‍රධානීන් වෙත නිකුත් කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව සැප්තැම්බර් මාසයේ සිට ක්‍රියාත්මක වන පරිදි අදාළ දීමනාව ලබාදෙන ලෙස එම චක්‍රලේඛයෙන් දැනුම් දී තිබේ.
+
+රජයේ විශ්‍රාමිකයින් වෙත රුපියල් 3,000ක දීමනාවක් ලබාදීමට රජය විසින් ගෙන ඇති තීරණය ජනාධිපතිවරණය අවසන් වන තෙක් තාවකාලිකව නතර කරන ලෙස මැතිවරණ කොමිෂන් සභාව විසින් පසුගියදා රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම්වරයාට දැනුම් දී තිබුණි.
+
+මැතිවරණ කොමිෂන් සභාවේ පැවති අමාත්‍යාංශ ලේකම්වරුන්ගේ රැස්වීමේ දී ද ඒ පිළිබඳව දැනුම් දී ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් එම නියෝගය නොතකා අදාළ දීමනාව ලබාදෙන ලෙස චක්‍රලේඛයක් නිකුත් කිරීම මැතිවරණ නීතියට පටහැනි බව මැතිවරණ කොමිසම පැවසුවේය.
+
+◼️
+
+[Data](articles/e6dd6133.json)
+
+---
+
+### Traffic in Nallur Temple
 
 *2024-08-08 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூர்-ஆலய-சுற்றுவீதிகளில்-போக்குவரத்து-தடை/71-341783) · `ta`
 
-நல்லூர் கந்தசுவாமி கோவில் வருடாந்த மகோற்சவ பெருவிழாவை முன்னிட்டு இன்று (08) காலையில் இருந்து நல்லூர் ஆலய சுற்றுவீதிகளில் போக்குவரத்து தடை செய்யப்படவுள்ளது.
+Traffic around Nallur Temple will be restricted from 8 am on September 4th for the annual festival, reopening post-Vairavar Shanti on September 4th evening. Vehicles can access Jaffna via Point Pedro Road during this period. The Nallur Road will be open for concerts during festivities. Officials including N. Krishnandran and Kalinga Jayasinghe attended the announcement.
 
-குறித்த வீதித் தடை செப்டம்பர் 4 ஆம் திகதி மாலை வைரவர் சாந்தி நிறைவடைந்த பின்னரே திறந்து விடப்படும்.
+🟩
 
-வீதி மூடப்பட்டிருக்கும் சமயங்களில் பருத்தித்துறை வீதி வழியாக வரும் வாகனங்கள் யாழ் மாநகர சபைக்கு முன்பாக உள்ள வீதியால் பயணித்து யாழ் நகரை அடைய முடியும்.
+Traffic will be banned in the surrounding areas of the Nallur Temple from the morning of 08 am to mark the annual festival of Nallur Kandaswamy Temple.
 
-என்பதுடன் இரதோற்சவம் மற்றும் சப்பர திருவிழாக்களின் போது கச்சேரி நல்லூர் வீதியாலேயே பயணிக்க முடியும் என்பதும் குறிப்பிடத்தக்கது.
+The road ban will be released on the evening of September 4 after the end of Vairavar Shanti.
 
-யாழ். மாநகர ஆணையாளர் என்.கிருஷ்ணேந்திரன், யாழ்ப்பாண மாவட்ட பிரதிப் பொலிஸ் மா அதிபர் காளிங்க ஜெயசிங்க உள்ளிட்ட பொலிஸ் அதிகாரிகள், மாநகர சபை அதிகாரிகள் இதன்போது கலந்து கொண்டனர். R
+When the road is closed, vehicles coming through the Point Pedro Road can reach the Jaffna city by traveling in front of the Jaffna Municipal Council.
+
+It is also worth noting that during the festivities and chapar festivals, the concert can be traveled by Nallur Road.
+
+Yall. Municipal Commissioner N. Krishnandran, Jaffna District Deputy Inspector General of Police Kalinga Jayasinghe and Municipal Council officials were present at the event.. Remble
 
 ◼️
 
 [Data](articles/2b0771cf.json)
+
+[Extended Data](ext_articles/2b0771cf.ext.json)
 
 ---
 
@@ -71,6 +127,8 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 ◼️
 
 [Data](articles/cd1d5af0.json)
+
+[Extended Data](ext_articles/cd1d5af0.ext.json)
 
 ---
 
@@ -1027,6 +1085,8 @@ Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil
 ...
 
 [Data](articles/de5cf4d4.json)
+
+[Extended Data](ext_articles/de5cf4d4.ext.json)
 
 ---
 
@@ -2195,81 +2255,5 @@ Zheng Haohao won the 18th and scored 63.19 runs for his Skatboading event.
 [Data](articles/695aa093.json)
 
 [Extended Data](ext_articles/695aa093.ext.json)
-
----
-
-### Golden stock of gold hidden by the racketeers
-
-*2024-08-07 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199670) · `si`
-
-Sri Lanka Navy intercepted a vessel carrying 4kg of gold, suspecting it was part of a smuggling operation. The gold, found in the Kalpitiya lagoon, will be turned over to the Katunayake Customs Prevention Office for legal action.
-
-🟩
-
-Navy seized 4 kilos of gold, 40 g
-
-The Sri Lanka Navy said that the Navy was taken into custody with four kilometers that have been dumped into the lagoon in Kalpitiya, Kalpitiya.
-
-The Navy was also taken into custody by the Ningi vessel suspicious that the package was transported.
-
-The Navy believes that the racketeers cannot be dipped in the lagoon of the racketeers, can't carry the packages of the navy operations.
-
-The gold consignment of the Navy and the Dingy vessel is to be handed over to the Katunayake Customs Prevention Office for further legal proceedings.
-
-◼️
-
-[Data](articles/87ce9919.json)
-
-[Extended Data](ext_articles/87ce9919.ext.json)
-
----
-
-### Bail for the doctor Archana
-
-*2024-08-07 15:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-பிணை/175-341749) · `ta`
-
-Doctor Archana, accused of threatening hospital staff, was arrested and remanded but granted bail by the Mannar Magistrate's Court.
-
-🟩
-
-The hospital administration had lodged a complaint against him, including allegations of threatening doctors and hospital staff on duty last Friday night at Mannar Hospital.
-
-According to the complaint, the police, who investigated the complaint, arrested Dr. Ramanathan Archana last Saturday and placed them in remand until the 07th.
-
-In this case, the doctor Archana was brought to the court today.
-
-Subsequently, the Mannar Magistrate's Court ordered the doctor Archana to go on bail. Remble
-
-◼️
-
-[Data](articles/c71a96c4.json)
-
-[Extended Data](ext_articles/c71a96c4.ext.json)
-
----
-
-### Actor Rio Raj's 'Sweet Heart' moved to the next stage
-
-*2024-08-07 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190512) · `ta`
-
-"Rio Raj's 'Sweet Heart' advances; director Sukumar, composer Yuvan Shankar Raja, and stars like Gopika Ramesh are involved. Shooting nears end, post-production ongoing. First look imminent."
-
-🟩
-
-The film crew has announced that the background of the film 'Sweet Heart', which is playing the hero of the famous actor Rio Raj, has begun to talk to Tamil fans through 'Joe'.
-
-Introduction Director Swineet S.Rio Raj, Gopika Ramesh, Redin Kingsley, Ranji Kingsley, Ranji Masikar, Arunachalam, Suresh Chakravarthy, Tulsi and many others have starred in the film 'Sweet Heart' directed by Sukumar.
-
-Yuvan Shankar Raja has composed the film, which is being recorded by Balaji Subramaniam.. The film is being produced by Yuvan Shankar Raja on behalf of the NSR Films Company.
-
-The shooting of the film is nearing completion and the post -shooting technical work is currently underway. To announce this, the film crew has released a special photo.
-
-The artists who played the film are currently talking background. The first look of the film is expected to be released soon after the work is completed.
-
-◼️
-
-[Data](articles/4ac75bb2.json)
-
-[Extended Data](ext_articles/4ac75bb2.ext.json)
 
 ---

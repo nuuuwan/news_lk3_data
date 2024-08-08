@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 15:20:54**
+As of **2024-08-08 15:36:32**
 
 ## Newspaper Stats
 
-*Scraped **39,650** Articles*
+*Scraped **39,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
-adalk | 3,640
+adalk | 3,641
 adaderanalk | 4,607
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,990
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,650 (100.0%) of 39,650 articles have been extended.
+39,650 (100.0%) of 39,651 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -475,6 +475,20 @@ The ICC announced that the punishment was effect on September 19, 2023. Accordin
 [Data](articles/f3d8b88f.json)
 
 [Extended Data](ext_articles/f3d8b88f.ext.json)
+
+---
+
+### දෙමළ පක්ෂ නියෝජනය කරන ජනාධිපතිවරණ අපෙක්ෂකයා නම් කරයි
+
+*2024-08-08 12:22:19* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-පක්ෂ-නියෝජනය-කරන-ජනාධිපතිවරණ-අපෙක්ෂකයා-නම්-කරයි/11-411262) · `si`
+
+උතුරු - නැගෙනහිර දෙමළ පක්ෂ සහ සිවිල් සංවිධාන එකතුව නිර්මාණය කළ දෙමළ ජාතික මහා සන්ධානයේ ජනාධිපතිවරණ අපෙක්ෂකයා නම් කර තිබේ.
+
+ඒ අනුව තමිල් අරසු කච්චි හිටපු පාර්ලිමේන්තු මන්ත්‍රී පී.අරියනේද්‍රන් මහතාව නම් කර ඇත.
+
+◼️
+
+[Data](articles/7e16893d.json)
 
 ---
 
@@ -2223,25 +2237,5 @@ The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve a
 [Data](articles/04656ae9.json)
 
 [Extended Data](ext_articles/04656ae9.ext.json)
-
----
-
-### What is the magic of the Vayanad model
-
-*2024-08-08 01:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-போல-பொன்னாவெலி-மாயமாகும்/175-341777) · `ta`
-
-S. Sridharan, a TNA parliamentarian, highlighted the destruction of Ponnaveli and Gautarimunai villages in Sri Lanka's Kilinochchi district, drawing parallels with the disappearance of Wayanad in Kerala, India, where over 500 families vanished due to a natural disaster. He emphasized the unity and aid provided across communities amidst the tragedy, contrasting it with the artificial destruction of the Sri Lankan villages. Sridharan urged for measures to prevent such losses, advocating against creating another Wayanad-like situation.
-
-🟩
-
-The Tamil National Alliance (TNA) parliamentarian S. Sridharan said that the village of Ponnaveli and Gautarimunai in the Kilinochchi district of Kilinochchi in Sri Lanka, as the village of Wayanad in Kerala, is destroyed and the risk of destroying Sri Lanka is at risk.
-
-He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (07).
-
-...
-
-[Data](articles/454db897.json)
-
-[Extended Data](ext_articles/454db897.ext.json)
 
 ---

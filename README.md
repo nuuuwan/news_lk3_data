@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 10:08:46**
+As of **2024-08-08 10:20:59**
 
 ## Newspaper Stats
 
-*Scraped **39,592** Articles*
+*Scraped **39,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,551
 adalk | 3,637
 adaderanalk | 4,596
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,981
+tamilmirrorlk | 4,982
 virakesarilk | 6,252
 adaderanasinhalalk | 6,708
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,586 (100.0%) of 39,592 articles have been extended.
+39,592 (100.0%) of 39,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### වැලිකඩ සිද්ධියෙන් ළමාහේවා නිදොස් කොට නිදහස්
+### Welikada acquitted in Welikada incident
 
 *2024-08-08 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199697) · `si`
 
-2012 වසරේ වැලිකඩ බන්ධනාගාරය තුළ ඇතිවූ ගැටුම්වලින් සිරකරු ඝාතන චෝදනාවලට වරදකරු කෙරුණු හිටපු බන්ධනාගාර කොමසාරිස් එමිල් රංජන් ළමාහේවා මහතාට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් ලබාදුන් මරණීය දණ්ඩනයෙන් නිදොස් කොට නිදහස් කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (08) තීන්දු කළේය.
+The Supreme Court acquitted the Dembas Commissioner of Prisons over the 2012 Welikada Prison incident, reversing a lower court's decision through a judicial appeal process.
 
-එම දඬුවමට එරෙහිව විත්තිකාර ළමාහේවා මහතා විසින් ඉදිරිපත් කළ ඇපෑලක් පිළිගැනීමෙන් අනතුරුව පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණය විනිසුරු මඩුල්ලක් විසින් එම තීන්දුව ලබා දුන්නේය.
+🟩
+
+The Supreme Court today (08th) the Supreme Court today (08th) of the Dembas Commissioner of Prisons were accused of executive stages of the Welikada Prison in 2012.
+
+The five-member Supreme Court gave the judgment by the judiciary by a judicial body after accepting a appeal.
 
 ◼️
 
 [Data](articles/d8621a21.json)
 
+[Extended Data](ext_articles/d8621a21.ext.json)
+
 ---
 
-### குழந்தைகளுக்கு நித்திரையில் பிரச்சினைகள் இருப்பது கண்டுபிடிப்பு
+### குழந்தைகளுக்கு நித்திரை பிரச்சினை
 
-*2024-08-08 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுக்கு-நித்திரையில்-பிரச்சினைகள்-இருப்பது-கண்டுபிடிப்பு/175-341790) · `ta`
+*2024-08-08 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுக்கு-நித்திரை-பிரச்சினை/175-341790) · `ta`
 
 இலங்கையில் குழந்தைகளுக்கு நித்திரை தொடர்பான பிரச்சினைகள் காணப்படுவதாக சுகாதார மேம்பாட்டு பணியகத்தின் சுகாதார நிபுணர் டொக்டர் இனோகா விக்கிரமசிங்க தெரிவித்துள்ளார்.
 
@@ -62,45 +68,89 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/ff4c46f7.json)
+[Data](articles/cce4535b.json)
 
 ---
 
-### பங்களாதேஷின் இடைக்கால  அரசு இன்று பதவியேற்பு
+### The discovery of children with sleep
 
-*2024-08-08 09:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷின்-இடைக்கால-அரசு-இன்று-பதவியேற்பு/50-341788) · `ta`
+*2024-08-08 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுக்கு-நித்திரையில்-பிரச்சினைகள்-இருப்பது-கண்டுபிடிப்பு/175-341790) · `ta`
 
-பங்களாதேஷில் இடைக்கால அரசின் தலைவராக முகமது யூனுஸ் இன்று பதவியேற்க உள்ளதாக தகவல் வெளியாகியுள்ளது.
+In Sri Lanka, 25% of children suffer from insomnia, highlighting the importance of adequate sleep for their mental and physical health. Experts recommend varying sleep durations based on age, emphasizing that children under 5 require over half of their day in sleep. Parents play a crucial role in ensuring children get enough rest, as recommended by the World Health Organization.
 
-பங்களாதேஷில் விடுதலை போரில் பங்கேற்றவர்களின் குடும்ப உறுப்பினர்களுக்கு அரசு வேலையில் 30 சதவீத இடஒதுக்கீடு வழங்குவதை எதிர்த்து போராட்டம் வெடித்தது.
+🟩
 
-இந்த போராட்டம் நாளடைவில் கலவரமாக மாறியதில் 100க்கும் மேற்பட்டோர் கொல்லப்பட்டனர். நிலைமை மோசமானதையடுத்து அந்நாட்டின் பிரதமராக இருந்த ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துவிட்டு, இந்தியாவில் தஞ்சமடைந்தார்.
+Dr. Inoga Wickremesinghe, a health expert at the Health Development Bureau, said that children in Sri Lanka have sleep problems.
 
-இதனையடுத்து அந்நாட்டு நாடாளுமன்றத்தை ஜனாதிபதி முகமது ஷஹாபுதீன் கலைத்து உத்தரவிட்டார். மேலும், இடைக்கால அரசு அமைப்பது குறித்து முப்படைகளின் தலைவர்கள் மற்றும் போராட்டத்தில் ஈடுபட்ட மாணவர் குழுக்களின் பிரிதிநிதிகள் கொண்ட 13 பேருடன் நேற்று அவர் பேச்சுவார்த்தை நடத்தினார். இதில் நோபல் பரிசு வென்ற பொருளாதார நிபுணர் முகமது யூனுஸை இடைக்கால தலைவராக நியமிக்க முடிவு எடுக்கப்பட்டது.
+Specialist doctor Dr. Inoga Wickremesinghe says it is the responsibility of the parents to do things needed to give children a good sleep.
+
+“Although there are not much studies on sleep among Sri Lankan children, it has 25% of children's insomnia problems according to the available data.
+
+Meanwhile, Expert Dr. Inoga Wickremasinghe notes that the World Health Organization has issued recommendations on how many hours a day to sleep per day.
+
+“There are suggestions of the World Health Organization that a child should sleep for about 14-17 hours for three months from birth.
+
+From 4 months to one year, 12 to 16 hours, one year to 2 years of age, 11 to 14 hours, 3 to 4 years of age, 10 to 13 hours, 5 year old child should sleep for 10 to 12 hours.
+
+Children under 5 need more than 50% of sleep. It affects mental and physical health and development.
 
 ...
 
-[Data](articles/b8202b73.json)
+[Data](articles/ff4c46f7.json)
+
+[Extended Data](ext_articles/ff4c46f7.ext.json)
 
 ---
 
-### அர்ஜுனாவிற்கு  அமோக வரவேற்பு
+### Bangladesh's interim government sworn in today
+
+*2024-08-08 09:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷின்-இடைக்கால-அரசு-இன்று-பதவியேற்பு/50-341788) · `ta`
+
+Mohammed Yunus took office as Bangladesh's interim PM after protests over a 30% reservation for war veterans' families turned violent, killing over 100. This led to the resignation of PM Sheikh Hasina and the dissolution of parliament by President Mohammed Shahabuddin. Yunus, a Nobel laureate, was chosen to lead the interim government amidst ongoing discussions with military and student leaders.
+
+🟩
+
+It is reported that Mohammed Yunus is set to take office today as the head of the interim government in Bangladesh.
+
+The struggle erupted against the provision of 30 per cent reservation for family members of those who participated in the liberation war in Bangladesh.
+
+More than 100 people were killed when the struggle became riots. After the situation, Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
+
+President Mohammed Shahabuddin then dismantled the country's parliament. In addition, he held talks yesterday with 13 people, including the leaders of the Armed Forces and the students of the struggle for the formation of the interim government.. It was decided to appoint the Nobel Prize winner Mohammed Yunus as the interim leader.
+
+Following this, Mohammed Yunus was appointed by President Mohammed Shahabuddin as the head of the interim government in Bangladesh.. The interim government is headed by Mohammed Yunus today.
+
+◼️
+
+[Data](articles/b8202b73.json)
+
+[Extended Data](ext_articles/b8202b73.ext.json)
+
+---
+
+### Arjuna is a great welcome
 
 *2024-08-08 09:37:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜுனாவிற்கு-அமோக-வரவேற்பு/175-341787) · `ta`
 
-மன்னார் நீதிமன்றத்தினால் நிபந்தனையின் அடிப்படையில் விடுதலை செய்யப்பட்ட வைத்தியர் அர்ஜுனாவிற்கு மன்னார் மாவட்ட மக்கள்  புதன்கிழமை (07)  அமோக வரவேற்பை வழங்கினர்.
+On Wednesday, the Mannar district warmly welcomed Dr. Arjuna, who was conditionally released after being arrested for entering the Mannar District General Hospital on Friday night. The doctor was remanded until his appearance before the Mannar Magistrate on Wednesday, where Senior Attorney Anran Holy Naka represented him.
 
-கடந்த வெள்ளிக்கிழமை (02) இரவு மன்னார் மாவட்ட பொது வைத்தியசாலையினுல் அத்து மீறி  நுழைந்து கடமைக்கு  இடையூரை ஏற்படுத்தினார் என்ற குற்றச்சாட்டில் மன்னார் பொலிஸ் நிலையத்தில் வைத்தியசாலை தரப்பினரால் மேற்கொள்ளப்பட்ட முறைப்பாட்டை அடுத்து வைத்தியர் அர்ச்சுனா மன்னா பொலிஸாரால் கைது செய்யப்பட்டார்.
+🟩
 
-கைது செய்யப்பட்ட வைத்தியர் சனிக்கிழமை (03) மன்னார் நீதவான் முன்னிலையில் ஆஜர் படுத்திய போது அவரை புதன்கிழமை (07) திகதி வரை விளக்க மறியலில் வைக்குமாறு உத்தரவு பிறப்பித்தார்.
+The people of Mannar district on Wednesday (07) gave a warm welcome to the doctor Arjuna, who was released on conditional on conditions.
 
-இந்த நிலையில் குறித்த வழக்கு விசாரணைக்காக எடுத்துக் கொள்ளப்பட்ட போது வைத்தியர் அருச்சுனா மன்னார் நீதிமன்றத்தில் முன்னிலைப் படுத்தப்பட்டார்.
+Dr. Archana Manna was arrested by the Mannar Police Station on charges that he had entered the Mannar District General Hospital last Friday night (02).
 
-வைத்திய சார்பாக சிரேஷ்ட சட்டத்தரணி அண்ரன் புனித நாயகம் தலைமையிலான சட்டத்தரணிகள் மன்றில்  முன்னிலையாகி இருந்தனர்.
+The arrested doctor ordered him to be remanded until Wednesday (07) when he appeared before the Mannar Magistrate.
+
+When the case was taken up for hearing, the doctor Aruchuna was produced before the Mannar Court.
+
+Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at the forum.
 
 ◼️
 
 [Data](articles/a2bc8298.json)
+
+[Extended Data](ext_articles/a2bc8298.ext.json)
 
 ---
 
@@ -222,37 +272,49 @@ He points out that otherwise many votes will be invalidated in the upcoming elec
 
 ---
 
-### IMF ගිවිසුම වෙනස් කරන්න බෑ කියන ජගතෙක් ඉන්නවාද?
+### Is there a forest that cannot change the IMF agreement?
 
 *2024-08-08 09:10:43* · [`adalk`](https://www.ada.lk/breaking_news/IMF-ගිවිසුම-වෙනස්-කරන්න-බෑ-කියන-ජගතෙක්-ඉන්නවාද-/11-411258) · `si`
 
-සජිත් ප්‍රේමදාස මහතා ජනාධිපති වූ පසු ජාත්‍යන්තර මූල්‍ය අරමුදල සමග අත්සන් කර ඇති ගිවිසුම වෙනස් කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂද සිල්වා මහතා පැවසීය.
+MP Harsha De Silva disputes claims that the IMF agreement cannot be altered, arguing that changes are possible and necessary for the country's progress. He criticizes unnamed individuals for their stance on immutability and calls for a shift in perspective to address national challenges.
 
-පාර්ලිමේන්තුවේ ඊයේ(07දා) පැවති සභාව කල්තැබීමේ විවාදයට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+MP Dr. Harshathup Silva, MP, said that Sajith Premadasa was changing the agreement signed with the International Monetary Fund.
 
-“සමහරු කියනවා ඉස්පිල්ලක්, පාපිල්ලක් වෙනස් කරන්න බෑ කියලා අයි.එම්.එෆ් ගිවිසුමේ. මේ පිස්සොනේ. මේ මිනිස්සුන්ට යන්න කිව්වම 2020 ඉදලා බෑ බෑ, ඕනී නෑ, දන්නේ නෑ, අපිට පුළුවන් කියපු හාදයෝනේ මේ. ඒ අය කොහොමද අපිට කියන්නේ ඉස්පිල්ලක් පාපිල්ලක් වෙනස් කරලන්න බෑ කියලා. අපිට කියනවාද ඔය ගිවිසුමේ ඉස්පිල්ලක් පාපිල්ලක් වෙනස් කරන්න බෑ කියලා? කියන්නකෝ නැගිටලා පුළුවන් නම්. ජගතෙක්, උගතෙක්, ශූරයෙක් ඉන්නවා නම් කියන්න.  අපි වෙනස් කරනවා. ඒ වෙනස් කරන්නේ මොකද? ඔයාල මේක බෑ කියද්දි, එපා කියද්දි, ඕනී නෑ කියද්දි අපි ගාන හදලා පෙන්වලා දීලා තියෙනවා මේක කළ හැටි. සජිත් ප්‍රේමදාස ඊලගට මේ රටේ ජනාධිපති වන පුද්ගලයා. පීටර් බෲවර්ගේ මුහුණට මුහණ කතා කරලා කිව්වා මේක වෙනස් කරනවා කියලා”
+He was speaking at the campaign debate in Parliament yesterday (07).
+
+Speaking further MP Harsha Deathu Silva said:
+
+"Some say that I can't change a sinful, a sin could not change the IMF Agreement. These are the pisses. When these people go to go 2020, you can't be 2020, no, no knowing, we can know. How do they tell us that we can't change a singer. Do we tell us that you can't change a sin?If you can get up. If there is a sense of a sense, tell me if there is a champion.We change. What is that changing?When you say no, when you say no, we have created it and showed this. Sajith Premadasa is the President of this country. The face of Peter Brover spoke to the face and told you to change this "
 
 ◼️
 
 [Data](articles/810b27e4.json)
 
+[Extended Data](ext_articles/810b27e4.ext.json)
+
 ---
 
-### රනිල් යටතට තවත් අමාත්‍යාංශයක් ගැසට් කරයි
+### Another Ministry gazested on Ranil
 
 *2024-08-08 09:04:45* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-යටතට-තවත්-අමාත්‍යාංශයක්-ගැසට්-කරයි/11-411257) · `si`
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යටතට ගනිමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+President Ranil Wickremesinghe issued a special gazette notification under the Ministry of Justice, Prison and Constitutional Reforms, following the resignation of Minister Wijayadasa Rajapaksa. This move came after prompting the Prime Minister, creating a vacancy in the Minister of Justice position.
 
-අග්‍රාමාත්‍යවරයාගෙන් අදහස් විමසීමෙන් පසු මෙම තීරණයට එළැඹි බව එම ගැසට් නිවේදනයේ සඳහන් කර ඇත.
+🟩
 
-ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත්වීම හේතුවෙන් පසුගියදා එම අමාත්‍ය ධුරයේ කටයුතු කළ විජයදාස රාජපක්ෂ මහතා අමාත්‍ය ධුරයෙන් ඉල්ලා අස්වු අතර, අධිකරණ අමාත්‍ය ධුරයේ පුරප්පාඩුවක් ඇති විය.
+President Ranil Wickremesinghe has issued a special gazette notification under the Ministry of Justice, Prison and Constitutional Reforms.
+
+The decision was stated in the gazette notification after prompting the Prime Minister.
+
+The Minister of Wijayadasa has been resigned from the post of Minister Wijayadasa Rajapaksa, who was present at the post of service and had a vacancy of the Minister of Justice.
 
 ◼️
 
 [Data](articles/5836a59a.json)
+
+[Extended Data](ext_articles/5836a59a.ext.json)
 
 ---
 
@@ -2229,23 +2291,5 @@ The 12-month bills fell 11 basis points to 10.06 percent, with 45 billion offere
 [Data](articles/3abbb3c3.json)
 
 [Extended Data](ext_articles/3abbb3c3.ext.json)
-
----
-
-### Sri Lanka Test squad for England
-
-*2024-08-07 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199674) · `si`
-
-Sri Lanka announced its Test squad for the upcoming three-match series against England, starting today.
-
-🟩
-
-Sri Lanka squad for the three-match Test series that will commence against England today (07) was named today.
-
-◼️
-
-[Data](articles/fe9f9759.json)
-
-[Extended Data](ext_articles/fe9f9759.ext.json)
 
 ---

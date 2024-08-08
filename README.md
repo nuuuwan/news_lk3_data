@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 07:02:28**
+As of **2024-08-08 07:29:34**
 
 ## Newspaper Stats
 
-*Scraped **39,561** Articles*
+*Scraped **39,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 2,551
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,970
+tamilmirrorlk | 4,972
 virakesarilk | 6,252
-adaderanasinhalalk | 6,696
+adaderanasinhalalk | 6,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,542 (100.0%) of 39,561 articles have been extended.
+39,547 (100.0%) of 39,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### වෙඩි වැදීමකින් පුද්ගලයෙක් මරුට - පොලිස් නිලධාරියෙකුට තුවාල
+
+*2024-08-08 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199685) · `si`
+
+සීදුව පොලිස් වසමේ කොටුගොඩ පොලිස් මාර්ග බාධකයේ දී මෝටර් රථයක් පරීක්ෂා කිරීමට යාමේ දී පුද්ගලයෙකු විසින් පොලිස් සැරයන්වරයාගේ ගිනිඅවිය උදුරාගැනීමට උත්සාහ කර තිබේ.
+
+පොලීසිය සඳහන් කර ඇත්තේ, සීදුව පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් සීදුවම දෙස සිට පැමිණි මෝටර් රථයක් එලෙස පරීක්ෂා කිරීමට උත්සාහ කර ඇති බවය.
+
+එම අවස්ථාවේ දී මෝටර් රථයේ වම්පස අසුනේ සිටි පුද්ගලයෙකු විසින් පොලිස් සැරයන්වරයාගේ රාජකාරි ගිනිඅවිය උදුරාගැනීමට තැත් කිරීමේ දී එම අවිය ක්‍රියාත්මක වී අදාළ නිලධාරියාගේ පාදයකට හා උදුරාගැනීමට උත්සාහ කළ පුද්ගලයාගේ උදරයට වෙඩි වැදී තිබේ.
+
+දෙදෙනාම මීගමුව රෝහලට ඇතුළත් කිරීමේ දී මෝටර් රථයේ සිටි 38 හැවිරිදි පූගොඩ පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/4a66b3f1.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-08-08 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199684) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+තවද නැගෙනහිර, ඌව සහ උතුරු පළාත්වල  ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ සඳහන්ය.
+
+◼️
+
+[Data](articles/9e42ff71.json)
+
+---
 
 ### How do you want Sri Lanka to be in the future?
 
@@ -43,6 +77,8 @@ Presidential elections fixed for 21 September, with nominations on 15 August, by
 ...
 
 [Data](articles/e37a9547.json)
+
+[Extended Data](ext_articles/e37a9547.ext.json)
 
 ---
 
@@ -59,6 +95,8 @@ He discussed matters relating to dispute resolution in Sri Lanka, proposed amend
 ...
 
 [Data](articles/fdff00b5.json)
+
+[Extended Data](ext_articles/fdff00b5.ext.json)
 
 ---
 
@@ -77,6 +115,8 @@ He was joined by Ravi De Silva, Prof. Sashika Manoratne, Daniel Dissanayaka, and
 ...
 
 [Data](articles/e021fe27.json)
+
+[Extended Data](ext_articles/e021fe27.ext.json)
 
 ---
 
@@ -100,6 +140,8 @@ The MoU was signed during a ceremony in Battaramulla, attended by party leaders,
 
 [Data](articles/391fac33.json)
 
+[Extended Data](ext_articles/391fac33.ext.json)
+
 ---
 
 ### Pro-RW Pohottuwa MPs say support for him remains unchanged
@@ -121,6 +163,8 @@ After the meeting, Chief Government Whip Prasanna Ranatunge told the media that 
 ...
 
 [Data](articles/46b14327.json)
+
+[Extended Data](ext_articles/46b14327.ext.json)
 
 ---
 
@@ -303,6 +347,36 @@ The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve a
 [Data](articles/04656ae9.json)
 
 [Extended Data](ext_articles/04656ae9.ext.json)
+
+---
+
+### ‘வயநாடு’ போல ‘பொன்னாவெலி’ மாயமாகும்
+
+*2024-08-08 01:48:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-போல-பொன்னாவெலி-மாயமாகும்/175-341777) · `ta`
+
+இந்தியாவின் கேரள மாநிலத்திலுள்ள வயநாடு கிராமம் அழிவடைந்ததை போன்று இலங்கையில் கிளிநொச்சி மாவட்டத்திலுள்ள பொன்னாவெலி கிராமமும் மற்றும் கௌதாரிமுனை கிராமமும் அழிவடைந்து, இலங்கையில் வரைபடத்தில் இருந்தே இல்லாமல் போகும் அபாயம் காணப்படுவதாகவும், இதனை தடுக்க உரிய நடவடிக்கைகள் எடுக்கப்பட வேண்டும் என்றும் தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எஸ்.சிறீதரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்   புதன்கிழமை (07)  நடைபெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+...
+
+[Data](articles/454db897.json)
+
+---
+
+### ’ரணில் தள்ளிவிட்டு தாவுவர்’
+
+*2024-08-08 01:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தள்ளிவிட்டு-தாவுவர்/175-341776) · `ta`
+
+தற்போது ஜனாதிபதி ரணில் விக்கிரமசிங்க பக்கம் சென்றுள்ளவர்கள் ஜனாதிபதியை அதளபாதாளத்துக்கு தள்ளி விட்டு தமக்கு சாதகமாக உள்ள பக்கம் தாவுவார்கள் என ஐக்கிய மக்கள் சக்தி எம்.பி.யான துஷார இந்துனில் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (7) இடம்பெற்ற 'அரையாண்டின் அரசிறை நிலைப்பாட்டு அறிக்கை' தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றும் போதே இவ்வாறு தெரிவித்த   அவர் மேலும் பேசுகையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடமிருந்து மதுபானசாலை அனுமதி பத்திரங்கள் பெற்றுக்கொண்ட  எதிர்க்கட்சி எம்.பி.க்களின்    பெயர் விபரத்தை ஐந்து நிமிடங்களுக்குள் வெளியிடுவதாக மஹிந்தானந்த அளுத்கமகே சவால் விடுத்தார் .ஒரு மணித்தியாலம் கடந்தும் அவர் பெயர் பட்டியலை வெளியிடவில்லை.சபையிலும் அவரை காணவில்லை.பாராளுமன்ற சிறப்புரிமையில் இருந்துக் கொண்டு பொய்யுரைத்து சேறு பூசுவதை அவர் தவிர்க்க   வேண்டும்.
+
+...
+
+[Data](articles/fefaf9c4.json)
 
 ---
 
@@ -2181,111 +2255,5 @@ Jaffna joins Chennai with direct flights from Chennai as the 34th International 
 [Data](articles/31c98464.json)
 
 [Extended Data](ext_articles/31c98464.ext.json)
-
----
-
-### Airline between Jaffna-Chennai
-
-*2024-08-07 13:05:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-சென்னை-இடையே-விமான-சேவை/175-341745) · `ta`
-
-Starting September 1st, Jaffna introduces direct flights to Chennai, marking it as its 34th international destination.
-
-🟩
-
-The airline between Jaffna and Chennai will commence on 1st September.
-
-Jaffna joins Chennai with direct flights from Chennai as the 34th International target of Jaffna. Remble
-
-◼️
-
-[Data](articles/c9df103c.json)
-
-[Extended Data](ext_articles/c9df103c.ext.json)
-
----
-
-### Sinkaar for Hamas Leadership
-
-*2024-08-07 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199664) · `si`
-
-Syinwar, previously the leader of Hamas in Gaza since 2017, has been appointed as the head of all political activities within the organization. This decision came after negotiations in Doha, where his name emerged alongside Mohammed Hassan Darwish as potential leaders. Currently, Mohamed leads Hamas's Zaura Council. The news comes amid allegations by Hamas that Israel has targeted them, following the discovery of a Hamas member's death in Tehran.
-
-🟩
-
-The Hamas leader of the Gaza from 2017 will be held with the head of all the political activities of the organization.
-
-International media reports that Syinwar was appointed to the post after the negotiations in Doha in two days.
-
-Two names were suggested for Hamas leadership during these discussions. It was the names of Syinwar and Mohammed Hassan Darwish.
-
-At present Mohamed is currently the leader of the Hamas's Zaura Council.
-
-Hamas was found dead recently in Tehran in Tehrane.
-
-Hamas alleges that Israel has been attacked by Israel.
-
-◼️
-
-[Data](articles/0d2ec972.json)
-
-[Extended Data](ext_articles/0d2ec972.ext.json)
-
----
-
-### Operation ‘Yukthiya’ 2nd phase: 776 suspects arrested within yesterday
-
-*2024-08-07 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/101059/operation-yukthiya-2nd-phase-776-suspects-arrested-within-yesterday-) · `en`
-
-Sri Lanka Police has issued a press release on the anti-drug raids being carried out under the second phase of the “Yukthiya” Operation.
-
-According to Sri Lanka Police, a total of 750 male suspects and 26 female suspects were arrested during 780 raids conducted within yesterday (06) under the second phase of the “Yukthiya” Operation.
-
-Accordingly, the statement said that 22 of the arrested suspects will be detained for further investigations, 03 others are being investigated for the possession of illegal assets, and 03 suspects were sent to rehabilitation.
-
-Among the arrestees are 03 suspects who had pending warrant against them for narcotics-related charges and 19 others who had open warrants against them for non-drug-related charges.
-
-Meanwhile, the authorities have also seized 326g of heroin, 183g of ‘Ice’ (Crystal methamphetamine) and 271g of cannabis during the operation covering the Western Province.
-
-...
-
-[Data](articles/053636b5.json)
-
-[Extended Data](ext_articles/053636b5.ext.json)
-
----
-
-### New story about Gampaha shootings
-
-*2024-08-07 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199663) · `si`
-
-In Gampaha, two shootings occurred within hours: one in Nuwara Eliya's Thammey area and another in Gampaha's Marktewita area. Both involved victims on motorcycles, targeted by another vehicle. The victims included Ranga Jayanath, a 43-year-old painter accused of involvement in a cannabis and ice racket, and a 29-year-old from Kadawatha. Police suspect the shootings were related to drug dealings, with multiple teams investigating.
-
-🟩
-
-Two shots were injured in two shots in the Thammey area in Nuwara Eliya and the Marktewita area in Gampaha last night.
-
-The police said that both shotings were done by the same shooter.
-
-Two people who had come from a motorbike were shot dead by another motorcycle last night, Ja-Ela last night.
-
-The Gampaha hospital was admitted to the Gampaha Hospital, 43 year old Ranga Jayanath, KG. Manju was a Manju.
-
-As a painter, he was accused of accusing cannabis and ice racket.
-
-He is also considered a close friend of Dush Wasantha, Duthuwah, and is suspicious that the shooting is said to spy on other drug dealers regarding other drug dealers.
-
-It was about half an hour of shooting and another four-kilometer shooting was shooting from Thammei, Gampaha.
-
-According to police, two arrivals from a motorbike have targeted that shot of the other motorcycle.
-
-The 29 year old residents of Kadawatha in Kadawatha area.
-
-The police said that the cause of the ice drug addicted and has not been revealed.
-
-...
-
-[Data](articles/894e7479.json)
-
-[Extended Data](ext_articles/894e7479.ext.json)
 
 ---

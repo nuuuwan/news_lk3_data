@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 14:08:34**
+As of **2024-08-08 14:21:01**
 
 ## Newspaper Stats
 
-*Scraped **39,641** Articles*
+*Scraped **39,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,79 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,640
-adaderanalk | 4,603
+adaderanalk | 4,604
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,990
 virakesarilk | 6,267
-adaderanasinhalalk | 6,717
+adaderanasinhalalk | 6,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,639 (100.0%) of 39,641 articles have been extended.
+39,641 (100.0%) of 39,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### හසීනා පළා යද්දි අවාමි ලීග නායකයින් 29ක් ඝාතනය කරලා
+### ත්‍රස්ත බියක් හේතුවෙන් ටේලර්ගේ ප්‍රසංග අවලංගු කෙරේ
+
+*2024-08-08 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199708) · `si`
+
+ටේලර් ස්විෆ්ට්ගේ ඊරාස් ප්‍රසංග මාලාවට සමගාමීව ඔස්ට්‍රියාවේ වියානා හි පැවැත්වීමට නියමිතව තිබූ ප්‍රසංග තුනම අවලංගු කිරීමට බලධාරීන් කටයුතු කර තිබේ.
+
+එයට හේතුව එම ප්‍රසංගයට ත්‍රස්ත ප්‍රහාරයක් එල්ලවීමට ඇති අවදානම හඳුනාගනිමිනි.
+
+ප්‍රසංග ඉලක්ක කර ඉස්ලාමීය අන්තවාදී ප්‍රහාරයක් එල්ලකිරීමට සැලසුම් කිරීමට සැකපිට සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට පත්ව ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/048b6363.json)
+
+---
+
+### 29 educare leaders killed in Haseanayake
 
 *2024-08-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199707) · `si`
 
-පසුගිය දිනවල බංග්ලාදේශයේ පැවැති ගැටුම්කාරී වාතාවරණය අතරතුර ඝාතනයට ලක්වූ බවට පැවසෙන ෂෙයික් හසීනාගේ අවාමි ලීගයේ නායකයින් 29 දෙනෙකුගේ මළ සිරුරු හමුවී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+In Bangladesh, 29 leaders of Sheikh Hussain were killed amid confrontations. The incident occurred after the Prime Minister left the country. Violent groups targeted properties of the ruling Awami League, causing widespread destruction. The interim government, led by a Nobel Prize-winning microfinance expert, was announced amidst this turmoil.
 
-අගමැතිනිය රටින් පළායාමෙන් අනතුරුව මෙම පිරිස ඝාතනයට ලක්ව ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කෙරෙයි.
+🟩
 
-වසර 15ක් රට පාලනය කළ අවාමි ලීගයේ සාමාජිකයින්ට අයත් නිවාස, ව්‍යාපාර, ආයතන ඇතුළු ස්ථාන රැසක් විනාශ කිරීමට හෝ කොල්ලකෑමට ඇතැම් ප්‍රචණ්ඩකාරී පිරිස් කටයුතු කර තිබුණි.
+Foreign media reports that 29 leaders of Sheikh Hussina, who recently had been killed during the confrontation atmosphere in Bangladesh.
 
-ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රයේ ප්‍රවීණයෙක් වන නොබෙල් ත්‍යාගලාභී මුහමද් යුනිස්ගේ ප්‍රධානිත්වයෙන් යුතු අන්තර්වාර රජය අද (08) පත්කිරීමට නියමිතය.
+The complainant has been killed after the Prime Minister fleeing the country. Foreign media reports say.
+
+Some violent groups have taken measures to destroy or rob a large number of houses, businesses, agencies belonging to the country's architected and owned Awami League.
+
+The main interim government is to be appointed as the leader intersection of the Nobel Prizest of Muamaad Unis, an expert in the microfinance industry.
 
 ◼️
 
 [Data](articles/d3e000a5.json)
+
+[Extended Data](ext_articles/d3e000a5.ext.json)
+
+---
+
+### Sri Lankan spinner charged under ICC Anti-Corruption Code
+
+*2024-08-08 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101081/sri-lankan-spinner-charged-under-icc-anti-corruption-code) · `en`
+
+The International Cricket Council (ICC) have confirmed that Sri Lanka player Praveen Jayawickrama has been charged with three counts of breaching the ICC Anti-Corruption Code.
+
+Jayawickrama allegedly failed to report to the Anti-Corruption Unit, without delay, that he was approached to carry out fixing during International matches and in the 2021 Lanka Premier League.
+
+Reportedly, the Sri Lanka bowler was found to have deleted messages related to the approach for conducting corrupt practices. Jayawickrama has 14 days from 6 August 2024 to respond to the charges.
+
+The 25-year-old spinner, with 15 matches of international experience, has been levied the following offences under the code:
+
+Article 2.4.4 – Failing to report to the Anti-Corruption Unit, without unnecessary delay, details of an approach he received to carry out fixing in future International Matches.
+
+...
+
+[Data](articles/aa942e61.json)
 
 ---
 
@@ -76,17 +118,23 @@ The Tamil National Alliance (TNA's Ilangai Youth Aeurusuki Party) has not yet st
 
 ---
 
-### பவித்ராவும் ஜனாதிபதிக்கு ஆதரவு
+### Pavithra also supported the president
 
 *2024-08-08 13:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-ஜனாதிபதிக்கு-ஆதரவு/175-341807) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்கவுள்ளதாக நீர்ப்பாசன, வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு அமைச்சர் பவித்ரா வன்னியாராச்சி இன்று (08) தெரிவித்தார்.
+Despite the Sri Lanka Peoples Alliance deciding against supporting President Ranil Wickremesinghe, Irrigation Minister Pavithra Wanniyarachchi asserts his backing.
 
-இதேவேளை, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதில்லை என ஜூலை 30 ஆம் திகதியன்று நடைபெற்ற கூட்டத்தில் ஸ்ரீ லங்கா பொதுஜன முன்னணி தீர்மானித்து இருந்தது. அந்த கூட்டத்தில்  அமைச்சர் பவித்ரா வன்னியாராச்சியும் பங்கேற்று இருந்தார் என்பது குறிப்பிடத்தக்கது,
+🟩
+
+Irrigation, Wildlife and Forest Resources Minister Pavithra Wanniyarachchi today said that President Ranil Wickremesinghe will support President Ranil Wickremesinghe in the presidential election.
+
+Meanwhile, the Sri Lanka Peoples Alliance (PA) decided at a meeting held on July 30 that President Ranil Wickremesinghe would not support it.. It is noteworthy that Minister Pavithra Wanniyarachchi was also present at the meeting.
 
 ◼️
 
 [Data](articles/3e3ba784.json)
+
+[Extended Data](ext_articles/3e3ba784.ext.json)
 
 ---
 
@@ -2201,57 +2249,5 @@ As Harsha de Silva MP says, if the United People's Power has canceled the agreem
 [Data](articles/4d25b2da.json)
 
 [Extended Data](ext_articles/4d25b2da.ext.json)
-
----
-
-### Come back: call Namal
-
-*2024-08-08 01:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரும்பி-வாருங்கள்-நாமல்-அழைப்பு/175-341772) · `ta`
-
-Namal Rajapaksa, the newly announced presidential candidate of the Sri Lanka People's Alliance (PA), has called for former party members to return. He expressed gratitude towards the party's support during his announcement and emphasized his faith in the party's policies. Rajapaksa plans to reach out to the current President of Sri Lanka, urging them to reunite with the party.
-
-🟩
-
-Presidential candidate Namal Rajapaksa has requested that those who resigned from the Sri Lanka PA come back to the party.
-
-He was speaking to the media after it was announced as the presidential candidate on Wednesday (07) at the headquarters of the Sri Lanka PA
-
-He thanked the party's political committee and party members who rely on himself and entrusted the responsibility at the time of the challenge.
-
-He has confidence in party members and policies and said that the political dream of the youth is expected to come true.
-
-He also said that he would call the President of Sri Lanka as the National Organizer of the Sri Lanka Peoples Alliance (PA) and the presidential candidate to re -join all those who have left the party and join him.
-
-◼️
-
-[Data](articles/6a83009b.json)
-
-[Extended Data](ext_articles/6a83009b.ext.json)
-
----
-
-### Try to stop the Chinese army in the North and East
-
-*2024-08-08 01:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-சீன-இராணுவத்தை-நிறுத்த-முயற்சி/175-341771) · `ta`
-
-Concerns over potential Chinese military presence in Sri Lanka's North and East regions were raised by Wanni district parliamentarian Selvam Adakkalanathan, who also discussed issues related to the investigation into the death of Mathirajan Sindhuja, the safety of doctors, and the struggles faced by local fishermen due to Indian trawler boats. He emphasized the need for fair solutions and support for the fishing community, highlighting the impact of these issues on the livelihoods of locals. Additionally, he touched upon the historical context, the perceived threat from China, and the need for government intervention to address these challenges, including the distribution of LRC lands in Mannar and ensuring justice in the Vanni district.
-
-🟩
-
-Wanni district parliamentarian Selvam Adakkalanathan said that the Tamil National Alliance (TNA) said that it has been reported that efforts are being made to establish the Chinese army in the North and East.
-
-At the same time, he said the government would allow the government to bring the Chinese soldiers into the country.
-
-He said this while addressing the post of adjournment of the House Stability Report of the Human Rights Report held in Parliament on Wednesday (08).
-
-When I went to the hospital in connection with the death of Mathirajan Sindhuja at the Mannar Hospital, he said that investigations are underway. But this investigation should not be an investigation. Our demand is that those involved should be sacked through a fair investigation and punished.
-
-Meanwhile, 9 doctors are coming to our hospital. To ensure their safety. Otherwise they would be difficult to get to the hospital.
-
-...
-
-[Data](articles/e8c527d4.json)
-
-[Extended Data](ext_articles/e8c527d4.ext.json)
 
 ---

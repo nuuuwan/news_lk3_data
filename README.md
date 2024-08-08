@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 15:06:03**
+As of **2024-08-08 15:20:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,647 (100.0%) of 39,650 articles have been extended.
+39,650 (100.0%) of 39,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Seismologists were holding an emergency meeting to analyze whether the quake had
 
 [Data](articles/e72836f1.json)
 
+[Extended Data](ext_articles/e72836f1.ext.json)
+
 ---
 
 ### Five including Vass Gunawardena and son sentenced to 4 years RI
@@ -68,25 +70,33 @@ Ramanayake, a 21-year-old student of the Sri Lanka Institute of Information Tech
 
 [Data](articles/fe7051ce.json)
 
+[Extended Data](ext_articles/fe7051ce.ext.json)
+
 ---
 
-### අත්‍යවශ්‍ය ඖෂධ 52ක හිඟයක්
+### There are 52 essential drugs
 
 *2024-08-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199712) · `si`
 
-වර්ථමානය වන විට මෙරට සෞඛ්‍ය පද්ධතිය තුළ අත්‍යවශ්‍ය ඖෂධ 52ක හිඟයක් පවතින බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ පවසයි.
+The Minister of Health announced a shortage of 52 essential drugs nationwide, affecting the country's health system. Despite identifying 862 essential drugs, only 52 are critically low, with substitutes being ordered. All life-saving pharmaceuticals remain available in hospitals, and efforts are underway to address the drug shortage.
 
-අද (08) පාර්ලිමේන්තුවේ දී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ සෞඛ්‍ය අමාත්‍යාංශය මගින් අත්‍යවශ්‍ය ඖෂධ 862ක් හඳුනාගෙන ඇති බවත් ගිය වසර වන විට එම ඖෂධ 250ක හිඟයක් පැවති බවය.
+🟩
 
-නමුත් වර්ථමානය වන විට ජාතික මට්ටමේ හිඟතාවක් ලෙස වාර්තා වී ඇත්තේ ඖෂධ 52ක ප්‍රමාණයක් පමණක් බව අමාත්‍යවරයා පෙන්වා දුන්නේය.
+Minister of Health Dr. Ramesh Pathirana says that there is a shortage of 52 essential drugs in the country's health system at present.
 
-එම ඖෂධ 52 සඳහා ආදේශක ඖෂධ මෙරට තුළ පවතින බවත් මින් ඇතැම් ඖෂධ ඇණවුම් කර තිබූ බවත් සහ එම ඇණවුම් ලැබෙමින් පවතින ඇති බවත් අමාත්‍යවරයා පැවසීය.
+Speaking in parliament today (08), the minister said that the Ministry of Health had identified 862 essential drugs and 250 drugs were short of these drugs.
 
-තවද ජීවිත ආරක්ෂක ඖෂධ සියල්ල රෝහල්වල පවතින බවත්, ඖෂධ හිඟය ක්‍රමාණූකූලව අවම වී යන බැවින් ඉදිරි කාලයේ දී  ඖෂධ හිඟය මග හැරී යනු ඇති බවත් අමාත්‍යවරයා මෙහිදී පැවසීය.
+However, when it is present, the Minister pointed out that only 52 drugs have been reported as a national level.
+
+The Minister said that there were substitute medicines for 52 drugs and some of them were receiving orders and were receiving the orders.
+
+The Minister said that all life security pharmaceuticals are in hospitals and the shortage of drugs will be calculated.
 
 ◼️
 
 [Data](articles/ffc9035d.json)
+
+[Extended Data](ext_articles/ffc9035d.ext.json)
 
 ---
 

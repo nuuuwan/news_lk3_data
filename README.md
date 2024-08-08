@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 02:06:11**
+As of **2024-08-09 02:21:12**
 
 ## Newspaper Stats
 
-*Scraped **39,720** Articles*
+*Scraped **39,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,998
-virakesarilk | 6,295
+virakesarilk | 6,296
 adaderanasinhalalk | 6,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,720 (100.0%) of 39,720 articles have been extended.
+39,720 (100.0%) of 39,721 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-09 (Friday)
+
+### Factum Perspective: உக்ரைன் - மூலோபாய மற்றும் தொழில்நுட்ப ஹாட்ஹவுஸ்
+
+*2024-08-09 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190617) · `ta`
+
+பெப்ரவரி 24, 2022 அன்று உக்ரைனின் "இராணுவமயப்படுத்தலின் நீக்கத்தை" இலக்காகக் கொண்டு ரஷ்யா தனது "விசேட இராணுவ நடவடிக்கையை" (Spetsialnaya Voennaya Operatsiya - SVO) ஆரம்பித்தது. ரஷ்யப் படைகள் 2014 இல் கிறிமியாவில் மேற்கொண்டதைப் போலவே தங்களது பிரச்சாரத்தை ஆரம்பித்தன. உக்ரேனியப் படைகள் எதிர்க்கவில்லை. ரஷ்யர்கள் தாங்கள் எதிர்கொண்ட எதிர்ப்பின் அளவை எதிர்பார்க்கவில்லை என்பதற்கு ஆதாரங்கள் உள்ளன.
+
+வடக்கில், ரஷ்யர்கள் உக்ரேனிய தலைநகரான கியிவ் அருகே அடையும் வரை நல்ல முன்னேற்றத்தை அடைந்தனர், அங்கு வான்படைத் துருப்புக்கள் அன்டோனோவ் விமான நிலையத்தை கைப்பற்ற முயன்றனர். இங்கே, வலுவான உக்ரேனிய எதிர்ப்பு அவர்களை அவர்களின் வழிகளில் நிறுத்தி, இறுதியில் அவர்களை பின்னோக்கி தள்ளியது.
+
+தெற்கில், ரஷ்யர்கள் ஆழமாக ஊடுருவி, மைக்கோலேவுக்கு வெளியே உள்ள உயர் படைகளால் தடுத்து நிறுத்தப்பட முன்னராக டினீப்பர் ஆற்றைக் கடந்து, கெர்சனைக் கைப்பற்றியதால் மரியுபோல் துறைமுகத்தை ஈரூடகப் படைகள் தாக்கின.
+
+...
+
+[Data](articles/3e343186.json)
+
+---
 
 ### 2024-08-08 (Thursday)
 
@@ -2351,29 +2369,5 @@ He was responding to a question on the contracts with Lazard and Clifford Chance
 [Data](articles/b842b2c2.json)
 
 [Extended Data](ext_articles/b842b2c2.ext.json)
-
----
-
-### Indian visa application centers closed in Bangladesh
-
-*2024-08-08 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199702) · `si`
-
-All Indian visa application centers in Bangladesh have been temporarily closed due to undisclosed reasons. Essential staff at the High Commission and Consulates have also been removed. The resignation of the Prime Minister amidst protests in Bangladesh is noted.
-
-🟩
-
-Steps have been taken to temporarily close all Indian visa application centers in Bangladesh.
-
-According to foreign media reports, the centers have been closed down to the informed centers before the arrangement.
-
-The Indian government has also taken steps to remove the essential staff of the High Commission and Consulates in Bangladesh.
-
-The Prime Minister of Prime Minister was resigned from the post of Prime Minister in the face of protests in Bangladesh.
-
-◼️
-
-[Data](articles/b41a0f27.json)
-
-[Extended Data](ext_articles/b41a0f27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 02:21:12**
+As of **2024-08-09 02:36:22**
 
 ## Newspaper Stats
 
-*Scraped **39,721** Articles*
+*Scraped **39,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,551
 adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,998
+tamilmirrorlk | 4,999
 virakesarilk | 6,296
 adaderanasinhalalk | 6,737
 
@@ -26,25 +26,39 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,720 (100.0%) of 39,721 articles have been extended.
+39,721 (100.0%) of 39,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### Factum Perspective: உக்ரைன் - மூலோபாய மற்றும் தொழில்நுட்ப ஹாட்ஹவுஸ்
+### Factum Perspective: Ukraine - Strategic and Technical Hothouse
 
 *2024-08-09 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190617) · `ta`
 
-பெப்ரவரி 24, 2022 அன்று உக்ரைனின் "இராணுவமயப்படுத்தலின் நீக்கத்தை" இலக்காகக் கொண்டு ரஷ்யா தனது "விசேட இராணுவ நடவடிக்கையை" (Spetsialnaya Voennaya Operatsiya - SVO) ஆரம்பித்தது. ரஷ்யப் படைகள் 2014 இல் கிறிமியாவில் மேற்கொண்டதைப் போலவே தங்களது பிரச்சாரத்தை ஆரம்பித்தன. உக்ரேனியப் படைகள் எதிர்க்கவில்லை. ரஷ்யர்கள் தாங்கள் எதிர்கொண்ட எதிர்ப்பின் அளவை எதிர்பார்க்கவில்லை என்பதற்கு ஆதாரங்கள் உள்ளன.
+It seems like you've shared a comprehensive overview of the evolution of warfare, focusing on armored vehicles, drones, and the strategic shifts that have occurred over time. This narrative spans several decades, highlighting key moments such as the Arab-Israeli War of 1973, the US military's concept of "air war," the role of drones in modern conflicts, and the recent developments in Ukraine.
 
-வடக்கில், ரஷ்யர்கள் உக்ரேனிய தலைநகரான கியிவ் அருகே அடையும் வரை நல்ல முன்னேற்றத்தை அடைந்தனர், அங்கு வான்படைத் துருப்புக்கள் அன்டோனோவ் விமான நிலையத்தை கைப்பற்ற முயன்றனர். இங்கே, வலுவான உக்ரேனிய எதிர்ப்பு அவர்களை அவர்களின் வழிகளில் நிறுத்தி, இறுதியில் அவர்களை பின்னோக்கி தள்ளியது.
 
-தெற்கில், ரஷ்யர்கள் ஆழமாக ஊடுருவி, மைக்கோலேவுக்கு வெளியே உள்ள உயர் படைகளால் தடுத்து நிறுத்தப்பட முன்னராக டினீப்பர் ஆற்றைக் கடந்து, கெர்சனைக் கைப்பற்றியதால் மரியுபோல் துறைமுகத்தை ஈரூடகப் படைகள் தாக்கின.
+
+Your account underscores the significant technological advancements and strategic adaptations that have shaped contemporary warfare. It also touches upon the geopolitical implications of these changes, such as the reliance on industrial strength and the role of alliances like NATO in supporting military efforts.
+
+
+
+Given the complexity and breadth of the topics covered, do you have any specific questions or aspects you'd like to delve deeper into? Whether it's the impact of drone technology, the evolution of armored vehicle tactics, or the influence of industrial capacity on military strategy, I'm here to assist further.
+
+🟩
+
+On February 24, 2022, Russia aims Russia's "Special Military Action" (Spetsialnaya Voennaya Operatsiya - SVO) aimed at the removal of Ukraine's "militarization". Russian forces launched their campaign as in 2014 in Crimea. Ukrainian forces do not oppose. There is evidence that the Russians did not expect the extent of the opposition they faced.
+
+In the north, the Russians made good progress until they reached the Ukrainian capital, Kiiv, where the air force tried to capture the Antonov Airport. Here, the strong Ukrainian resistance stopped them in their ways and eventually pushed them backwards.
+
+In the south, the Russian forces attacked the port of Mary, as the Russians were deeply infiltrated and crossed the Dinipper River, crossing the Dinipper River before they were stopped by high forces outside Mikola.
 
 ...
 
 [Data](articles/3e343186.json)
+
+[Extended Data](ext_articles/3e343186.ext.json)
 
 ---
 
@@ -727,6 +741,22 @@ Seven players in the Sri Lanka Test squad have gone to England.
 [Data](articles/8025bfa3.json)
 
 [Extended Data](ext_articles/8025bfa3.ext.json)
+
+---
+
+### ’இறுதிப்படுத்தப்படும் திகதியை குறிப்பிடவில்லை’
+
+*2024-08-08 18:29:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிப்படுத்தப்படும்-திகதியை-குறிப்பிடவில்லை/175-341824) · `ta`
+
+வெளிநாட்டு கடன் மறுசீரமைப்பு இறுதிப்படுத்தப்படும் திகதியை மத்திய வங்கியோ அல்லது அரசாங்கமோ உறுதியாக குறிப்பிடவில்லை என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (08) இடம்பெற்ற வாய்மூல விடைக்கான வினா நேரத்தில் ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  நிரோஷன் பெரேரா முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்த  அவர் மேலும்  கூறுகையில்,
+
+பொருளாதார பாதிப்புக்கு மத்தியில் கடன் மறுசீரமைப்பு என்பது இலகுவான விடயமல்ல  இலங்கை பல்வேறு சந்தர்ப்பங்களில் பல வழிமுறைகளில் சர்வதேச மட்டத்தில் கடன்களை பெற்றுக்கொண்டுள்ளது.தேசிய கடன்கள் சிறந்த முறையில் மறுசீரமைக்கப்பட்டுள்ளன.வெளிநாட்டு கடன்களை மறுசீரமைக்கும் போது நிதி தொடர்பான ஆலோசனைகள் பிரான்ஸ் நாட்டின் லஸாட் நிறுவனத்திடமிருந்து பெற்றுக்கொள்வதற்கு இருதரப்பு ஒப்பந்தம்  செய்யப்பட்டுள்ளது
+
+...
+
+[Data](articles/601e7d20.json)
 
 ---
 
@@ -2347,27 +2377,5 @@ Sri Lanka's first television female news reader Sumana Nilambitiya passed away a
 [Data](articles/874db375.json)
 
 [Extended Data](ext_articles/874db375.ext.json)
-
----
-
-### Sri Lanka debt restructuring ending date not definite, but economy recovering: Semasinghe
-
-*2024-08-08 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-restructuring-ending-date-not-definite-but-economy-recovering-semasinghe-175990/) · `en`
-
-ECONOMYNEXT – The completion date of Sri Lanka’s debt restructuring cannot be decided definitely at this time, but the country is recovering faster than other countries in the stability provided, State Minister Shehan Semasinghe said.
-
-“Debt restructuring is a complicated process. As the debt restructuring process goes on, due to the issues that we encounter, we cannot say definitively that we can conclude the process by such and such a date,” he said.
-
-He was responding to a question on the contracts with Lazard and Clifford Chance LLP. “We have had to extend the agreements in stages.”
-
-“We have completed some stages; the local debt restructuring, the bilateral creditors, bond holders, then local banks. So we have achieved some success. We have achieved this while maintaining economic stability and in keeping with the IMF programme.”
-
-“Lazard France has successfully worked with other defaulted nations to complete debt restructuring.
-
-...
-
-[Data](articles/b842b2c2.json)
-
-[Extended Data](ext_articles/b842b2c2.ext.json)
 
 ---

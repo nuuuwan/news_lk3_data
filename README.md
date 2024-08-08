@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 20:36:33**
+As of **2024-08-08 20:55:20**
 
 ## Newspaper Stats
 
-*Scraped **39,694** Articles*
+*Scraped **39,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,610
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,283
-adaderanasinhalalk | 6,731
+adaderanasinhalalk | 6,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,691 (100.0%) of 39,694 articles have been extended.
+39,691 (100.0%) of 39,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### මැතිවරණ නිලධාරීන් තෙල් සංස්ථාවට පනී
+
+*2024-08-08 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199723) · `si`
+
+මැතිවරණ කොමිසමේ නිලධාරීන් සහ පොලිස් නිලධාරීන් පිරිසක් අද (08) පෙරවරුවේ ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ දෙමටගොඩ ප්‍රධාන කාර්යාලය වෙත පැමිණ තිබුණි.
+
+ඒ, ජනාධිපතිවරණය ප්‍රකාශයට පත්කර තිබියදී නව ඉන්ධනහල් බලපත්‍ර ලබාදීම, ගබඩා පර්යන්ත සමාගමට නව පිරිස් බල සැකැස්මක් හඳුන්වාදීම, ඇතුළු කරුණු කිහිපයකට අදාළව මැතිවරණ කොමිසමට ලද පැමිණිල්ලක විමර්ශන කටයුතු සඳහාය.
+
+මේ අතර ජනාධිපතිවරණයේ අපේක්ෂකයින් සංඛ්‍යාව ඉහළ යමින් පැවතීම සම්බන්ධයෙන් අද දෙරණ 'බිග් ෆෝකස්' වැඩසටහනේදී අවධානය යොමු කෙරුණි.
+
+එහිදී අදහස් දැක්වූ මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පැවසුවේ,
+
+"ඡන්ද පත්‍රිකා මුද්‍රණය කරන යන්ත්‍රවලත් සීමාවක් තිබෙනවා... දිග ප්‍රමාණය. මේක ප්‍රමාණය ඉක්මවා ගියොත් ඡන්ද පත්‍රිකාවේ හැඩය වෙනස් කරන්න වෙයි. ඡන්ද පත්‍රිකාව දිගු වුණොත් ප්‍රායෝගික ගැටලු රැසක් ඇති වෙනවා. ඡන්දය දෙන කුටිය තුළ වැඩි වෙලාවක් එක ඡන්ද දායකයෙකුට ගත කිරීමටත් සිදුවෙයි."
+
+◼️
+
+[Data](articles/e7f66e75.json)
+
+---
 
 ### கெஹலியவுக்கு எதிரான வழக்கு ; இருவருக்கு பிணை
 
@@ -97,6 +117,10 @@ Accordingly, 24 candidates have deposited for 24 candidates to date.
 A total of 24 candidates have so far placed cash deposits for the upcoming Presidential Election, says the Election Commission of Sri Lanka.
 
 This includes 11 candidates representing recognised political parties, 12 Independent candidates whose names have been nominated by a voter and one candidate from other political parties.
+
+Bonds were placed on behalf of two candidates today (08) and this includes former MP D.M. Bandara and former MP Anura Sidney Jayarathne, who are both contesting as independent candidates.
+
+2024 Presidential Election - Candidate Deposits by Adaderana Online on Scribd
 
 ◼️
 
@@ -2285,27 +2309,5 @@ Senior Attorney -at -Law Anran Holy Naka on behalf of the doctor was present at 
 [Data](articles/a2bc8298.json)
 
 [Extended Data](ext_articles/a2bc8298.ext.json)
-
----
-
-### Increased the number of controlled people
-
-*2024-08-08 09:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தியவர்களின்-எண்ணிக்கை-அதிகரித்தது/175-341786) · `ta`
-
-The number of entities controlling the presidential election has risen to 22, including 11 recognized political parties. The election process, set to conclude by noon on the 14th, has seen an increase in controlled candidates.
-
-🟩
-
-The number of candidates who controlled the presidential election this year has increased to 22, the Election Commission said.
-
-Accordingly, 11 recognized political parties have been controlled for the presidential election.
-
-The presidential election relating time will be completed at 12 noon on the 14th of this month.. Remble
-
-◼️
-
-[Data](articles/e1b01be9.json)
-
-[Extended Data](ext_articles/e1b01be9.ext.json)
 
 ---

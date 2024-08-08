@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 22:55:05**
+As of **2024-08-08 23:06:10**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,712 (100.0%) of 39,713 articles have been extended.
+39,713 (100.0%) of 39,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ලාල්කාන්තව අත්අඩංගුවට ගන්නැයි කියයි
+### Lal Kanthe says he is arrested
 
 *2024-08-08 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199728) · `si`
 
-රාජ්‍ය විරෝධී කුමන්ත්‍රණ කිරීම වෙනුවෙන් දණ්ඩ නීති සංග්‍රහයේ පවතින නීති ප්‍රකාරව ජාතික ජන බලවේගයේ විධායක මණ්ඩල සභික කේ .ඩී. ලාල්කාන්ත මහතා වහා අත්අඩංගුවට ගෙන දඬුවම් ලබාදිය යුතු බව සමගි නීතිඥ සංගමය පවසයි.
+Lal Kanthe was arrested, sparking calls from the Bar Association of Lal Kanthi for immediate punishment. Their efforts to direct this issue to Parliament were unsuccessful, leading them to file a complaint with the CID on August 8th.
 
-ඒ අරගලය පාර්ලිමේන්තුව දෙසට හැරවීමට ගත් උත්සාහය අසාර්ථක වූ බවට කේ.ඩී. ලාල්කාන්ත මහතා පසුගියදා සිදුකළ ප්‍රකාශයට එරෙහිව එම සංගමයේ සාමාජිකයින් අද (08) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිල්ලක් සිදුකිරීමට පැමිණි අවස්ථාවේදී ය.
+🟩
+
+National Power of National Power K.D.D.D.d. According to the Bar Association of Lal Kanthi, the immediate arrest and punishment should be punished.
+
+The attempt to turn that struggle towards Parliament failed. The members of the Association have lodged a complaint with the CID today (08).
 
 ◼️
 
 [Data](articles/cacb6ad6.json)
+
+[Extended Data](ext_articles/cacb6ad6.ext.json)
 
 ---
 

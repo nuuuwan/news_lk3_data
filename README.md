@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 13:20:55**
+As of **2024-08-08 13:36:30**
 
 ## Newspaper Stats
 
-*Scraped **39,628** Articles*
+*Scraped **39,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 3,640
 adaderanalk | 4,602
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,989
-virakesarilk | 6,259
-adaderanasinhalalk | 6,714
+virakesarilk | 6,267
+adaderanasinhalalk | 6,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,624 (100.0%) of 39,628 articles have been extended.
+39,628 (100.0%) of 39,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ஜனாதிபதித் தேர்தல் ; தமிழ் பொதுவேட்பாளர் பா. அரியநேத்திரன்
+
+*2024-08-08 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190569) · `ta`
+
+தமிழ் பொது வேட்பாளராக இலங்கைத்தமிழரசுக் கட்சியைச் சேர்ந்த மட்டக்களப்பு மாவட்ட பாராளுமன்ற முன்னாள் உறுப்பினர் பா.அரியநேந்திரன், அறிவிக்கப்பட்டுள்ளார்.
+
+சிவில் அமைப்புகளின் ஒருங்கிணைவுடன் உருவாக்கப்பட்ட தமிழ் மக்கள் பொதுச்சபையின் ஏழு பிரதிநிதிகளும் தமிழ்த் தேசிய அரசியல்கட்சிகள் ஏழினது பிரதிநிதிகளும் கூட்டிணைந்து தமிழ்த் தேசியப் பொதுக்கட்டமைப்பை உருவாக்கியிருந்தனர்.
+
+அவ்வாறு உருவாக்கப்பட்ட தமிழ்த் தேசியப் பொதுக்கட்டமைப்பின் சந்திப்பு யாழ்ப்பாணத்தில் இன்றைய தினம் வியாழக்கிழமை கூடி தமிழ் பொது வேட்பாளரை அறிவித்துள்ளனர்.
+
+அதேவேளை இலங்கைத் தமிழரசுக் கட்சியின் கொழும்புக் கிளைத் தலைவரும் ஜனாதிபதி சட்டத்தரணியுமான கே.வி.தவராசா. தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற முன்னாள் உறுப்பினர் சந்திரநேரு சந்திரகாந்தன் ஆகியோரது பெயர்களும் இறுதிப் பட்டியலில் இருந்ததாக தெரிவிக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f62e1910.json)
+
+---
+
+### ஜனாதிபதி ரணிலுக்கு ஆதரவளிப்பதாக பவித்ரா தெரிவிப்பு
+
+*2024-08-08 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190570) · `ta`
+
+வனஜீவராசிகள் மற்றும் வனவள பாதுகாப்பு அமைச்சர் பவித்திரா வன்னியாராச்சி ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரிக்க தீர்மானித்துள்ளதாக அறிவித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலான உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவை தெரிவித்திருந்த நிலையில் பவித்திரா வன்னியாராச்சி எந்தவித தீர்மானத்தையும் வெளியிட்டிருக்கவில்லை.
+
+எவ்வாறிருப்பினும் வியாழக்கிழமை (08) அறிக்கையொன்றை வெளியிட்டு தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை ஆதரிப்பதாக அறிவித்துள்ளார்.
+
+என்னுடன் அரசியலில் ஈடுபட்டு வரும் அரசியல்வாதிகள், நிபுணர்கள் உள்ளிட்ட பலருடன் நீண்ட ஆலோசனைகளை நடத்திய பின்னர் நான்  இந்த தீர்மானத்தை எடுத்திருக்கின்றேன்.  2022 ஆம் ஆண்டு எமது நாடு பொருளாதார ரீதியிலும் அரசியல் ரீதியிலும் ஸ்திரமற்ற நிலையில் பாரிய நெருக்கடிகளை எதிர் கொண்டிருந்த மையை நாம் அனைவரும் நன்கு அறிவோம்.
+
+அந்த சந்தர்ப்பத்தில் நாட்டில் ஸ்திரத்தன்மையை ஏற்படுத்துவதற்காக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலானோரின் ஆதரவுடன் ரணில் விக்ரமசிங்க ஜனாதிபதியாக தெரிவு செய்யப்பட்டார்.
+
+...
+
+[Data](articles/31953160.json)
+
+---
 
 ### Sri Lanka’s Dipped Products eyes Thailand-based rubber glove manufacturing facility
 
@@ -50,21 +88,73 @@ Established in 1976, Dipped Products is one of the world’s leading rubber glov
 
 [Data](articles/5a4c9b32.json)
 
+[Extended Data](ext_articles/5a4c9b32.ext.json)
+
 ---
 
-### சுனிதா வில்லியம்ஸ் பற்றி  நாசா புதிய அறிவிப்பு
+### NASA's new announcement about Sunita Williams
 
 *2024-08-08 12:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனிதா-வில்லியம்ஸ்-பற்றி-நாசா-புதிய-அறிவிப்பு/50-341806) · `ta`
 
-அடுத்த வருடம் பெப்ரவரி மாதம் வரை சுனிதா வில்லியம்ஸ் விண்வெளி நிலையத்திலேயே இருக்க வேண்டியிருக்கும் என நாசா அறிவித்துள்ளது.
+NASA announced Sunita Williams will stay at the space station until February due to repairs needed for a helium gas leak and Teflon sealing. She'll return to Earth with a SpaceX Crew Dragon capsule, not a Boeing Starliner as initially planned.
 
-இதுபற்றி நாசா மேலும் தெரிவிக்கையில், “விண்வெளி நிலையத்தில் ஏற்பட்ட ஹீலியம் வாயு கசிவு, டெஃப்லான் சீல் பாதிப்பு உள்ளிட்டவற்றை சரிசெய்ய வேண்டியுள்ளது.
+🟩
 
-அந்தவகையில், தொழில்நுட்ப கோளாறுகளை சரிசெய்த பிறகே சுனிதா வில்லியம்ஸ் பூமிக்கு திரும்ப முடியும். போயிங் நிறுவனத்தின் ஸ்டார் லைனர் விண்வெளி ஓடத்துக்கு பதில் ஸ்பேஸ் எக்ஸ் க்ரூ டிராகன் ஒடம் மூலம் சுனிதா பூமிக்கு திரும்புவார்” என நாசா விளக்கம் அளித்துள்ளது.S
+NASA has announced that Sunita Williams will be at the space station until February next year.
+
+NASA added, “Helium gas leak and Teflan sealing in the space station have to be repaired.
+
+In that respect, Sunita Williams can return to Earth only after correcting technical disorders. Sunita will return to Earth with a Space X Crew Dragon Oddam in response to Boeing's Star Linener Space. ”
 
 ◼️
 
 [Data](articles/cafe46cc.json)
+
+[Extended Data](ext_articles/cafe46cc.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-08 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190561) · `ta`
+
+இன்று வியாழக்கிழமை  (ஆகஸ்ட் 08) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.0104 ஆகவும் விற்பனை விலை ரூபா  306.2824 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9ddfcf37.json)
+
+---
+
+### இன்றைய தங்க விலைச் சுட்டெண்
+
+*2024-08-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190563) · `ta`
+
+நாட்டில் தங்கத்தின் விலையில் மாற்றங்கள் ஏற்பட்டு வரும் நிலையில் இன்று வியாழக்கிழமை (08) 24 கரட் ஒரு கிராம் தங்கம் 24,687 ரூபாவாகவும், 24 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 197,500 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அகில இலங்கை நகை வியாபாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+மேலும்,22 கரட் ஒரு கிராம் தங்கம் 22,837 ரூபாவாகவும், 22 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 182,700 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அச் சங்கம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e22e56aa.json)
+
+---
+
+### ක්‍රිකට් දුෂණ සම්බන්ධයෙන් තිදෙනෙකුට දඬුවම්
+
+*2024-08-08 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199705) · `si`
+
+අබුඩාබි T10 ලීග් තරගාවලියේ දී දුෂණ සිදුකළ බවට චෝදනා එල්ලවූ තිදෙනෙක් ට දඬුවම් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පියවර ගෙන තිබේ.
+
+එහිදී වැරදිකරුවන් වී ඇත්තේ පූනේ ඩෙවිල්ස් කණ්ඩායමේ පිතිකරණ පුහුණුකරු වූ අෂාර් සයිඩි, සහ එම කණ්ඩායමේ හිමිකරුවන් වූ පරාග් සන්ගාවී සහ ක්‍රිෂාන් චවුද්රි යන තිදෙනා ය.
+
+ඒ අනුව සයිඩි ට වසර 5ක ක්‍රිකට් තහනමක් පනවා ඇති අතර අනෙක් දෙදෙනාට වසර දෙක බැගින් ක්‍රිකට් තහනම් කර තිබුණි.
+
+දඬුවම 2023 සැප්තැම්බර් 19 වනදා සිට ක්‍රියාත්මක බව ICCය නිවේදනය කළේය. ඒ අනුව පරාග් සන්ගාවී සහ ක්‍රිෂාන් චවුද්රි ට 2024 සැප්තැම්බර් 19 වනදා සිටද සයිඩි ට 2027 සැප්තැම්බර් 19 වනදා සිටද ක්‍රිකට් ක්‍රීඩාව සමග සම්බන්ධ විය හැකිය.
+
+◼️
+
+[Data](articles/f3d8b88f.json)
 
 ---
 
@@ -83,6 +173,22 @@ The launch of the United People's Alliance (UPFA) headed by Samaki Jan. Balaveka
 [Data](articles/320459dc.json)
 
 [Extended Data](ext_articles/320459dc.ext.json)
+
+---
+
+### ஐக்கிய மக்கள்  சக்தியின் தேர்தல் கூட்டணி ஒப்பந்தம் கைச்சாத்தானது
+
+*2024-08-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190556) · `ta`
+
+ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டு பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியில் ஒப்பந்தம் கைச்சாத்திடும் நிகழ்வு இன்று வியாழக்கிழமை (08) இடம்பெற்றது.  கொழும்பு சுகததாச உள்ளக அரங்கில் இடம்பெற்ற இந்த நிகழ்வில் பங்காளி கட்சிகளுடன் ஒப்பந்தநம் கைச்சாத்திடப்பட்டது.
+
+அதற்கமைய எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்தி, மனோ கணேஷன் தலைமையிலான தமிழ் முற்போக்கு கூட்டணி, டலஸ் அழகப்பெரும தலைமையிலான சுதந்திர மக்கள் காங்ரஸ், ஸ்ரீலங்கா சுதந்திர கட்சியின் தயாசிறி ஜயசேகர தரப்பு உள்ளிட்ட முக்கிய கட்சிகள் இந்த ஒப்பந்தத்தில் கைச்சாத்திட்டன.
+
+ரிஷாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்ரஸ் இதற்கு முந்தைய தேர்தல்களில் ஐக்கிய மக்கள் கூட்டணியுடன் இணைந்தே செயற்பட்டது. எனினும் இம்முறை அக்கட்சி அவ்வாறானதொரு தீர்மானத்தை அறிவிக்கவில்லை. அடுத்த வாரமே தாம் யாருக்கு ஆதரவு என்பதை அறிவிக்கவுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/19d26a4f.json)
 
 ---
 
@@ -108,6 +214,8 @@ The share was trading up at 74.50 on Thursday. (Colombo/Aug8/2024)
 
 [Data](articles/e7c1d197.json)
 
+[Extended Data](ext_articles/e7c1d197.ext.json)
+
 ---
 
 ### Pavithra Wanniarachchi decides to support Ranil at prez poll
@@ -125,6 +233,26 @@ Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online
 [Data](articles/3846b14b.json)
 
 [Extended Data](ext_articles/3846b14b.ext.json)
+
+---
+
+### மஹியங்கனையில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்து ; ஒருவர் உயிரிழப்பு !
+
+*2024-08-08 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190553) · `ta`
+
+மஹியங்கனை, கிராந்துருகோட்டை - திவுல பெலஸ்ஸ பிரதான வீதியின் விரணகம பகுதியில் புதன்கிழமை (07) மாலை இரண்டு மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளானதில் சாரதி ஒருவர் உயிரிழந்துள்ளதுடன், மற்றையவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+10 கட்டை  விரணகம பகுதியைச் சேர்ந்த 48 வயதுடையவரே விபத்தில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர்கள் கொழும்பு பகுதியில் பணிபுரிபவர்கள் எனவும், விடுமுறைக்காக வீட்டிற்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்த போது, வீட்டில் இருந்து சுமார் ஒரு கிலோமீற்றர் தொலைவில் சென்று கொண்டு இருக்கையில் குறித்த நபர் தூக்கத்தில்  எதிர்திசையில் வந்த மோட்டார் சைக்கிளில் மோதி அருகே மரத்தில் மோதியதாக பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்த இருவரும் கிராந்துருகோட்டை ஆரம்ப வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போது ஒருவர் ஏற்கனவே உயிரிழந்துள்ளார்.
+
+பதுளை மாவட்ட பிரதிப் பொலிஸ் மா அதிபர் சுஜித் வேதமுல்ல மற்றும் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் வசந்த கந்தேவத்த ஆகியோரின் பணிப்புரையின் பேரில் கிராந்துருகோட்டை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/ca635350.json)
 
 ---
 
@@ -170,6 +298,18 @@ Below is the full announcement issued by Pavithra Wanniarachchi.
 
 ---
 
+### இலங்கையின் முதலாவது தொலைக்காட்சி பெண் செய்தி வாசிப்பாளர் காலமானார்
+
+*2024-08-08 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190558) · `ta`
+
+இலங்கையின் முதலாவது தொலைக்காட்சி பெண் செய்தி வாசிப்பாளரான சுமனா நெலம்பிட்டிய தனது 80வது வயதில்  காலமானார்.
+
+◼️
+
+[Data](articles/874db375.json)
+
+---
+
 ### Sri Lanka debt restructuring ending date not definite, but economy recovering: Semasinghe
 
 *2024-08-08 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-restructuring-ending-date-not-definite-but-economy-recovering-semasinghe-175990/) · `en`
@@ -187,6 +327,8 @@ He was responding to a question on the contracts with Lazard and Clifford Chance
 ...
 
 [Data](articles/b842b2c2.json)
+
+[Extended Data](ext_articles/b842b2c2.ext.json)
 
 ---
 
@@ -275,6 +417,22 @@ The SJB will form an alliance with several political parties that hold seats in 
 [Data](articles/b95d9b19.json)
 
 [Extended Data](ext_articles/b95d9b19.ext.json)
+
+---
+
+### முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் லமாஹேவாவை மரண தண்டனையிலிருந்து விடுவிக்க  உயர் நீதிமன்றம் உத்தரவு
+
+*2024-08-08 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190555) · `ta`
+
+வெலிக்கடை சிறைச்சாலையில் கடந்த 2012 ஆம் ஆண்டு இடம்பெற்ற மோதலில் கைதிகளை கொலை செய்த குற்றச்சாட்டின் பேரில் குற்றவாளியாகக் காணப்பட்ட முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் லமாஹேவாவை விடுதலை செய்ய உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+கொழும்பு மேல்நீதிமன்ற மூவரடங்கிய நீதிபதிகளினால் வழங்கப்பட்ட மரண தண்டனையிலிருந்து விடுவிக்க  உயர் நீதிமன்றம் இன்று வியாழக்கிழமை (08) உத்தரவிட்டுள்ளது.
+
+தண்டனைக்கு எதிராக முன்னாள் சிறைச்சாலை ஆணையாளர் சார்பில் தாக்கல் செய்யப்பட்ட மேல்முறையீட்டு மனுவை ஏற்றுக்கொண்ட ஐந்து நீதிபதிகள் கொண்ட உயர் நீதிமன்றத்தினால் தீர்ப்பு வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/184848e1.json)
 
 ---
 
@@ -2061,183 +2219,5 @@ Nuwakot district officer Ram Krishna Adhikari said five dead bodies have been re
 [Data](articles/c644fbe6.json)
 
 [Extended Data](ext_articles/c644fbe6.ext.json)
-
----
-
-### Sri Lanka made history after 27 years
-
-*2024-08-07 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190538) · `ta`
-
-After 27 years, Sri Lanka clinched an international ODI series against India, winning 2-0. In the final match, Sri Lanka scored 248/7, led by Avishka Fernando's 96. India was bowled out for 138 in 26.1 overs, with Rohit Sharma scoring 35 and Washington Sundar 30.
-
-🟩
-
-Sri Lanka won India by winning India 27 years later in an international ODI series.
-
-Colombo r. Sri Lanka won India by 110 runs in the 3rd and decisive ODIs held at the Premadasa Stadium on Wednesday (07).
-
-Sri Lanka won the series 2 - 0.
-
-Sri Lanka scored 248 runs for the loss of 7 wickets in 50 overs.
-
-Avishka Fernando scored 96 runs, Gusal Mendis 59 and Beth and Nissank 45.
-
-In reply, India lost all the wickets in 26.1 overs and lost 138 runs.
-
-Rohit Sharma (35), Virat Kohli (20), Ryan Barak (15) and Washington Sundar (30) were the two double digits.
-
-◼️
-
-[Data](articles/d76f7a60.json)
-
-[Extended Data](ext_articles/d76f7a60.ext.json)
-
----
-
-### Gestetner of Ceylon wins Ricoh Asia Pacific Top Performance Award 2023
-
-*2024-08-07 22:26:00* · [`islandlk`](http://island.lk/gestetner-of-ceylon-wins-ricoh-asia-pacific-top-performance-award-2023/) · `en`
-
-Gestetner of Ceylon PLC has been honored with prestigious awards at the Ricoh Asia Pacific annual Partner Meet held in Thailand. This recognition underscores the company’s commitment to excellence and innovation in the industry.
-
-At the event, Gestetner of Ceylon PLC was celebrated for its exceptional performance, receiving the APAC FY 2023 Top Performance Sales Award and the Top Achiever Award for Color Production Printer Sales.
-
-Ms. Anusha Embiliwatte, Executive Director of Gestetner of Ceylon PLC, expressed her pride, stating, “We are immensely proud and honored to receive these awards from Ricoh Asia Pacific. This recognition reflects our team’s hard work and dedication, our relentless pursuit of excellence, and our commitment to providing best-in-class products and services. These accolades inspire us to continue pushing the boundaries of innovation and delivering unparalleled value to our customers.”
-
-...
-
-[Data](articles/7417207d.json)
-
-[Extended Data](ext_articles/7417207d.ext.json)
-
----
-
-### NDB customers experience John Keells Properties’ VIMAN Ja-Ela model apartment
-
-*2024-08-07 22:26:00* · [`islandlk`](http://island.lk/ndb-customers-experience-john-keells-properties-viman-ja-ela-model-apartment/) · `en`
-
-John Keells Properties’ partnership with NDB is fulfilling the aspirations of many homebuyers to invest in their dream home at VIMAN Ja-Ela through the bank’s flexible mortgage solutions. Going a step further, John Keells Properties organized an event at its VIMAN model apartment for NDB’s premier customers on the 26th of June 2024.
-
-Sprawling across 6 acres in the heart of Ja-Ela, VIMAN offers a harmonious blend of modern comforts with 418 apartments and is designed to provide a secure, family-friendly environment with convenient access to Colombo city. Engaging closely with the customers, John Keells Properties’ Head of Sales and Marketing & Vice President – John Keells Group, Nadeem Shums, along with the John Keells Properties sales team, explained the various benefits offered by investing in VIMAN Ja-Ela and why it makes for a compelling investment and also the ideal place to live in.
-
-...
-
-[Data](articles/c99905b1.json)
-
-[Extended Data](ext_articles/c99905b1.ext.json)
-
----
-
-### Jaffna joins IndiGo’s global network as its 34th International Destination with direct flights from Chennai
-
-*2024-08-07 22:25:00* · [`islandlk`](http://island.lk/jaffna-joins-indigos-global-network-as-its-34th-international-destination-with-direct-flights-from-chennai/) · `en`
-
-IndiGo, India’s preferred airline has announced Jaffna, Sri Lanka as the newest addition in its international route network. The airline will start non-stop daily flights between Chennai and Jaffna, starting September 01, 2024. Jaffna will be the second destination in Sri Lanka after Colombo for IndiGo, making it the 34th international and 122nd overall destination in its extensive 6E network.
-
-This strategic announcement will further strengthen the strong cultural and trade ties between India and Sri Lanka that have been marked by cooperation in the field of commerce, infrastructure development and air connectivity. Bookings for the flight are open from August, 01, 2024.
-
-India has consistently held the position of the top primary market for international tourist arrivals to Sri Lanka. In June 2024, Indian arrivals accounted for 25.2% of the total, with over 28,631 travellers, compared to a 26.7% share in June 2023, with around 26,830 passengers.
-
-...
-
-[Data](articles/2c6c5d69.json)
-
-[Extended Data](ext_articles/2c6c5d69.ext.json)
-
----
-
-### Sanjeewa Bandaranayake takes helm as CEO and General Manager
-
-*2024-08-07 22:25:00* · [`islandlk`](http://island.lk/sanjeewa-bandaranayake-takes-helm-as-ceo-and-general-manager/) · `en`
-
-People’s Leasing & Finance PLC, Sri Lanka’s leading non-bank financial services institution and a subsidiary of People’s Bank, has announced the appointment of Sanjeewa Bandaranayake as its new Chief Executive Officer (CEO) and General Manager (GM). His appointment is effective from 6th August 2024, and has received the approval of the Central Bank of Sri Lanka.
-
-Bandaranayake brings with him over 36 years of comprehensive experience, with 31 of those years dedicated to the Non-Banking Financial Institution (NBFI) sector. Having joined People’s Leasing & Finance PLC in 2007 as the Deputy General Manager of Finance and Administration, he has been instrumental in driving various strategic functions such as Finance, Treasury, Administration, Human Resources, Information Technology, Credit, and Marketing. His exceptional leadership and strategic business acumen have significantly contributed to the company’s consistent market leadership in the NBFI sector for 15 consecutive years.
-
-...
-
-[Data](articles/79ba26ef.json)
-
-[Extended Data](ext_articles/79ba26ef.ext.json)
-
----
-
-### Creative Catalyst Fellowship completes intensive residency program
-
-*2024-08-07 22:24:00* · [`islandlk`](http://island.lk/creative-catalyst-fellowship-completes-intensive-residency-program/) · `en`
-
-Good Life X recently concluded the intensive residency program of the Creative Catalyst Fellowship (CCF), funded through the United States Agency for International Development-supported Promoting Positive Information (PRO-INFO) project, by bringing together ten creatives from across Sri Lanka to collaborate, experiment, and develop creative content under the theme “Climate Positive.” This two-week intensive residency took place at Diyabubula, the Barberyn Art & Jungle Hideaway, the artistic abode of the late Laki Senanayake. The residency at Diyabubula, curated by Randhula de Silva, Founder of GLX, brought together experts from various fields, including science, innovation, art, design thinking, ecology, conservation and regeneration.
-
-...
-
-[Data](articles/b7fe1090.json)
-
-[Extended Data](ext_articles/b7fe1090.ext.json)
-
----
-
-### Ponnaveli, Gautarimunai Village Like Kerala Wayanad Village - Sridharan Warning
-
-*2024-08-07 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190540) · `ta`
-
-Sridharan warns that the villages of Ponnaweli and Gautarimunai in Sri Lanka face a similar fate as Wayanad in Kerala, which recently vanished due to a natural disaster. He urges the council to act swiftly to prevent such a catastrophe, highlighting the need for unity and protection against both natural and artificial disasters.
-
-🟩
-
-As the village of Wayanad in Kerala has been destroyed, the village of Ponnaweli and Gautarimunai in Kilinochchi district in Sri Lanka is at risk of the absence of Sri Lanka's map.. The Tamil National Alliance (TNA) parliamentarian S. Siritharan urged the council to take appropriate measures to prevent the disaster.
-
-He said this while addressing the adjournment debate on the State State Statement Report of the Human Rights Report held in Parliament on Wednesday (07).
-
-Wayanad is currently missing in the state of Kerala, India. Missing more than 500 families. A town disappeared during the overnight disaster. The town was missing, the people were missing and wept, I saw on the websites. The inventions of man are lost here.
-
-...
-
-[Data](articles/66b40636.json)
-
-[Extended Data](ext_articles/66b40636.ext.json)
-
----
-
-### Stock market witnesses 3.31 percent decline over past 52 weeks, plagued by political uncertainties
-
-*2024-08-07 22:23:00* · [`islandlk`](http://island.lk/stock-market-witnesses-3-31-percent-decline-over-past-52-weeks-plagued-by-political-uncertainties/) · `en`
-
-The stock market has declined by 3.31 percent over the past 52 weeks. Political uncertainties have contributed in no small measure towards this, market analysts said.
-
-Yesterday, the All Share Price Index went up by 1.08 points while the S and P SL20 declined by 5.68 points. Turnover stood at Rs 320 million with one crossing. The crossing was reported in Central Finance, where 545,000 shares crossed for Rs 56.7 million; its shares traded at Rs 104.
-
-In the retail market, top seven companies that mainly contributed to the turnover were; JKH Rs 529 million (295,000 shares traded), LOLC Holdings Rs 15.2 million (37000 shares traded), CIC (Non- Voting) Rs 12.8 million (259,000 shares traded), NDB Rs 11.4 million (166,000 shares traded), Sampath Bank Rs 11.1 million (151,000 shares traded), Dipped Products Rs 10.1 million (303,000 shares traded) and Dialog Rs 8.6 million (935,000 shares traded). During the day 13.4 million share volumes changed hands in 4900 transactions.
-
-...
-
-[Data](articles/b5721f13.json)
-
-[Extended Data](ext_articles/b5721f13.ext.json)
-
----
-
-### Another 100 will leave for jobs in Korea
-
-*2024-08-07 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199683) · `si`
-
-300 Sri Lankans, including 8 young girls, recently left for jobs in South Korea, bringing the total to 3,694 since 2004 under agreements between the Sri Lanka Bureau of Foreign Employment and South Korea's Human Resources Development Services.
-
-🟩
-
-100 other Sri Lankans, who have jobs in South Korea, left for South Korea yesterday (06).
-
-The Sri Lanka Bureau of Foreign Employment states that between the group includes eight young girls.
-
-Accordingly, 3,694 has left for work in South Korea.
-
-These employment opportunities are available in accordance with the Sri Lanka Bureau of Foreign Employment and the South Korean Human Resources Development Services.
-
-According to the MoU, Sri Lankans continued for work in South Korea since 2004, since 2004, the 873th group left.
-
-◼️
-
-[Data](articles/78986f58.json)
-
-[Extended Data](ext_articles/78986f58.ext.json)
 
 ---

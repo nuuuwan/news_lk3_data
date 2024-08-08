@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 16:54:25**
+As of **2024-08-08 17:06:07**
 
 ## Newspaper Stats
 
-*Scraped **39,668** Articles*
+*Scraped **39,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,285
 economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,642
-adaderanalk | 4,608
+adaderanalk | 4,609
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,275
@@ -26,63 +26,107 @@ adaderanasinhalalk | 6,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,663 (100.0%) of 39,668 articles have been extended.
+39,668 (100.0%) of 39,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### நல்லூர் வீதித்தடை - மனித உரிமை ஆணைக்குழுவில் முறைப்பாடு !
+### Nobel laureate Yunus arrives in Bangladesh to take over as interim leader
+
+*2024-08-08 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101087/nobel-laureate-yunus-arrives-in-bangladesh-to-take-over-as-interim-leader) · `en`
+
+Bangladesh’s next leader Muhammad Yunus arrived home Thursday from an overseas trip and will take office later in the day, as he looks to restore calm and rebuild the country following an uprising that ended the 15-year, increasingly autocratic rule of former Prime Minister Sheikh Hasina.
+
+Yunus landed at Dhaka’s Hazrat Shahjalal International Airport on Thursday afternoon and was welcomed by the country’s military chief, Gen. Waker-Uz-Zaman, who was flanked by navy and air force heads.
+
+Some of the student leaders who led the uprising against Hasina were also present at the airport to welcome him. They had earlier proposed Yunus as interim leader to the country’s figurehead president, who is currently acting as the chief executive under the constitution.
+
+In his first comments after his arrival, he told a news briefing that his priority would be to restore order.
+
+“Bangladesh is a family. We have to unite it,” Yunus said, flanked by the student leaders. “It has immense possibility.”
+
+...
+
+[Data](articles/6678be8a.json)
+
+---
+
+### Nallur Road
 
 *2024-08-08 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190589) · `ta`
 
-நல்லூர் கந்தசுவாமி ஆலய சூழலில் அமைக்கப்பட்டுள்ள வீதித் தடைகள் தொடர்பில் கலந்துடையாடுவதற்கு யாழ்ப்பாண மாநகர சபையின் ஆணையாளர் மற்றும் வடக்கு மாகாண உள்ளூராட்சி ஆணையாளர் ஆகியோருக்கு இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் பிராந்திய இணைப்பாளர் த. கனகராஜ் அழைப்பு விடுத்துள்ளார்.
+The Human Rights Commission of Sri Lanka's Jaffna office will meet on 09/09 at 11:30 AM to address complaints about roadblocks near the Nallur Kandaswamy temple, set up by the Jaffna Municipal Council. The meeting aims to resolve issues affecting public access, as raised by various parties.
 
-யாழ். மாநகர சபையின் ஆளுகைக்குட்பட்ட பருத்தித்துறை வீதியில் யாழ். மாநகர சபையினால் பொதுமக்களுக்கு உயிராபத்தை ஏற்படுத்தும் வகையில் அமைக்கப்பட்டுள்ள பாதை தடை தொடர்பில் பல தரப்பினராலும் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய காரியாலயத்தின் கவனத்திற்கு கொண்டுவரப்பட்ட முறைப்பாடு தொடர்பில் ஆணைக்குழுவினால் கவனம் செலுத்துப்பட்டுள்ளது.
+🟩
 
-எனவே, இவ்விடயம் தொடர்பில் கலந்துரையாடுவதற்கு நாளை வெள்ளிக்கிழமை (09) மு.ப. 11.30 மணிக்கு இல 42, கோவில் வீதியில் அமைந்துள்ள இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ். பிராந்திய அலுவலகத்திற்கு சமூகமளிக்குமாறு யாழ்ப்பாண மாநகர சபையின் ஆணையாளர் மற்றும் வடக்கு மாகாண உள்ளூராட்சி ஆணையாளர் ஆகியோருக்கு கடிதம் அனுப்பப்பட்டுள்ளது.
+Regional Coordinator of the Human Rights Commission of Sri Lanka to the Commissioner of the Jaffna Municipal Council and the Northern Provincial Council Commissioner to address the roadblocks set up in the Nallur Kandaswamy temple environment. Kanakaraj has called.
+
+Yall. Jaffna on the Point Pedro Road ruled by the Municipal Council. The Commission has focused on the complaint brought to the notice of the Jaffna Regional Office of the Sri Lanka Human Rights Commission by many parties on the road to the public by the Municipal Council.
+
+Therefore, tomorrow (09) to discuss the matter. Sri Lanka's Human Rights Commission, Jaffna, located on Temple Road, No. 42 at 11.30 am. A letter has been sent to the Commissioner of the Jaffna Municipal Council and the Northern Provincial Council Commissioner to attend the Regional Office.
 
 ◼️
 
 [Data](articles/090b05b8.json)
 
+[Extended Data](ext_articles/090b05b8.ext.json)
+
 ---
 
-### தமிழ் தேசியத்தின் குறியீடாக நான் இருப்பேன் ; தமிழ் தேசியத்திற்காக மக்கள் வாக்களிக்க வேண்டும் - தமிழ் பொதுவேட்பாளர் அரியநேத்திரன்
+### I will be the symbol of Tamil nationalism;People to vote for Tamil nationalism - Tamil general candidate Ariyanethran
 
 *2024-08-08 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190586) · `ta`
 
-தமிழ்தேசியத்தின் குறியீடாக நான் இருப்பேன் தமிழ்தேசியத்திற்காக மக்கள் வாக்களிக்க வேண்டும் என தமிழ் பொதுவேட்பாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான பா. அரியநேத்திரன் தெரிவித்தார்.
+Ariyanethran, representing the Tamil National Alliance, vows to champion Tamil nationalism in the upcoming presidential election. He emphasizes the importance of unity among Tamils, urging voters to support him as a symbol of their collective aspirations. Highlighting the struggles and sacrifices of the Tamil people, he calls for a resolution to the ethnic issue, promising to represent their interests domestically and internationally.
 
-தமிழ்தேசியபொதுக்கட்டமைப்பின் பெதுவேட்பாளரை  அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு  யாழ்ப்பாணம் தந்தை செல்வா கலையரங்கில் இன்று வியாழக்கிழமை (08) இடம்பெற்ற போது அவர் இதனை தெரிவித்தார்.
+🟩
 
-தமிழ்த்தேசியத்தின் குறியீடாக மாத்திரமே நான் இருப்பேன் இலங்கை சோசலிச குடியரசின் ஜனாதிபதியாக வருவதற்காக அல்ல. தமிழ்த்தேசிய மண்ணில் இனப்படுகொலை செய்யப்பட்ட இனமாக நாங்கள் இருக்கின்றோம் எங்களுக்கான உரிமை கிடைக்கவேண்டும் என்பதற்காக சர்வதேசத்திற்கும் தென்னிலங்கைக்கும் வலியுறுத்துகின்ற அடையாளமாக இந்தத் தேர்தலில் பொது வேட்பாளராக தெரிவு செய்யப்பட்டுள்ளேன். எனது பணி செப்டம்பர் 22 ஆம் திகதி மட்டுமே இருக்கும் அதற்கு பிற்பாடான பணிகளை தமிழ் பொதுக்கட்டமைபே எடுக்கும்.
+I will be the symbol of Tamil nationalism.. Said Ariyanethran.
+
+He made this statement at a media briefing announcing the Tamil National Alliance (TNA) at the Father Selva Gallery of Jaffna on Thursday (08).
+
+I will only be the symbol of Tamil nationalism.. We have been elected as the common candidate in this election as a symbol of the international and the South of Sri Lanka to get our right to be the genocidal race on Tamil Nadu soil.. My work will be only on September 22 and will take the task of the Tamil public.
+
+Father Selva Period Prabhakaran was later led under the leadership of Sambandan. Although there were many of them, the struggle of the father Selva had been vulnerable, but there were many frustrations, but after the armed conflict was silenced, we were disappointed.
 
 ...
 
 [Data](articles/b705523a.json)
 
+[Extended Data](ext_articles/b705523a.ext.json)
+
 ---
 
-### තවත් විදෙස් රැකියා ජාවාරමක් වටලයි
+### Another foreign job racket raided
 
 *2024-08-08 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199717) · `si`
 
-සීෂෙල්ස් රාජ්‍යයේ බන්ධනාගාර නිළධාරීන් ලෙස සේවය කිරීම සඳහා පුද්ගලයන් බඳවාගත් විදේශ රැකියා ආයතනයක් වටලා තිබේ.
+Sri Lanka's SLBFE raided a foreign job scam involving recruitment for non-existent prison jobs in Seychelles. The agency lacked a valid job order. Six passports and applications were seized. The agency's owner faces charges and will appear in court. The public is urged to report similar scams.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ඊයේ (07) මෙම වැටලීම් සිදුකර තිබෙන අතර වලංගු රැකියා ඇණවුමක් නොමැතිව මෙම ජාවාරම සිදුකර ඇති බව එහිදී හෙළිවී ඇත.
+🟩
 
-මීගමුව නගරයේ පවත්වාගෙන ගිය බලපත්‍ර ලාභී විදේශ රැකියා නියෝජිතායතනයක් විසින් මෙම රැකියා සඳහා නීතිවිරෝධි අයුරින් බඳවාගැනීම් සිදුකර ඇත.
+A foreign employment agency has surrerted to recruit people to serve as Prison personnel in Seychelles.
 
-ඒ පිළිබඳව කාර්යාංශය වෙත ලද තොරතුරක් අනුව මෙම වැටලීම මෙහෙයවන ලදි.
+The raids have been carried out by officials of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the raids have been carried out yesterday (07) and the racket has been carried out without a valid job order.
 
-විමර්ශන නිලධාරීන් විසින් අදාළ ස්ථානය පරීක්ෂා කිරීමේදී සී ෂෙල්ස් රාජ්‍යයේ බන්ධනාගාරවල සේවය කිරීම සඳහා ලබාදී තිබූ විදේශ﻿ ගමන් බලපත්‍ර 6ක් හා ඊට අදාළ අයදුම්පත්‍ර 6ක්ද නිලධාරීන් භාරයට ගෙන තිබේ.
+The jobs have been recruited by a licensed foreign employment agency in Negombo.
 
-සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් රැකියා නියෝජිතායතනයේ හිමිකරු අද (08) මීගමුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The raid was conducted in terms of information received by the Bureau.
+
+The officials have seized six passports and six applications provided to the service of the SELETHIBA.
+
+The owner of the Job Agency's owner is to be produced before the Negombo Magistrate's Court today (08).
+
+Since there is no prison in prisons to serve in prisons, the Bureau requests the public to provide information about the people.
+
+Investigations have been raided by officials yesterday (Colombo-Lankapuvath) without a valid job license of the Bureau.
 
 ...
 
 [Data](articles/260d2335.json)
+
+[Extended Data](ext_articles/260d2335.ext.json)
 
 ---
 
@@ -180,23 +224,29 @@ Sheikh Haseanna was resigned from the country due to the Prime Minister of Bangl
 
 ---
 
-### வெளிநாட்டில் தயாரிக்கப்பட்ட  சிகரெட்டுக்களை நாட்டுக்கு கொண்டு வந்தவர் விமான நிலையத்தில் கைது
+### Arrested at the airport for bringing cigarettes abroad
 
 *2024-08-08 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190576) · `ta`
 
-சட்ட விரோதமாக வெளிநாட்டில் தயாரிக்கப்பட்ட ஒரு தொகை சிகரெட்டுகளை நாட்டிற்கு கொண்டு வந்த நபரொருவரை கட்டுநாயக்க விமான நிலையத்தில் வைத்து பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவினர் கைது செய்துள்ளனர்.
+A man was arrested at Katunayake airport for smuggling cigarettes worth 42 lakh 60 thousand rupees from Dubai. Seized items included 50 cartoons of 10 thousand platinum cigarettes and 92 cartridges, including 18,400 Manchester cigarettes. He was released on bail, with the cigarettes to be returned on April 14th.
 
-இவ்வாறு கைப்பற்றப்பட்ட சிகரெட்டுக்களின் பெறுமதி சுமார் 42 இலட்சத்து 60 ஆயிரம் ரூபாவாகும்.
+🟩
 
-இவர் இன்று வியாழக்கிழமை (08) அதிகாலை துபாயிலிருந்து வந்த விமானத்தின் மூலம் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளார்.
+The police drug eradication unit has arrested a person who illegally brought cigarettes abroad at the Katunayake airport.
 
-அவரது பயணப்பொதியில் இருந்து 10 ஆயிரம் பிளட்டினம் வகை சிகரெட்டுக்கள் அடங்கிய 50 கார்ட்டூன்களும் 18,400 மன்செஸ்டர்  வகை சிகரெட்டுகள்  அடங்கிய 92 காரட்டூன்களும் கைப்பற்றப்பட்டுள்ளன.
+The value of the cigarettes seized is about 42 lakhs 60 thousand rupees.
 
-கைது செய்யப்பட்டவர் பொலிஸ் பிணையில் விடுதலை செய்யப்பட்டுள்ளதுடன்  எதிர்வரும் 14 ஆம் திகதி குறித்த, நபரிடம் கைப்பற்றப்பட்ட வெளிநாட்டு சிகரெட்டுக்களை நீதிவான் நீதிமன்றில் பொலிஸார் ஒப்படைக்கவுள்ளனர்.
+He arrived at the Katunayake airport by a flight from Dubai this morning (08).
+
+From his travel package, 50 cartoons containing 10 thousand platinum cigarettes and 92 carrots, including 18,400 Manchester cigarettes, were seized.
+
+The arrested man has been released on police bail and the police will hand over the foreign cigarettes seized to the person on the 14th of this month.
 
 ◼️
 
 [Data](articles/acd6ae2b.json)
+
+[Extended Data](ext_articles/acd6ae2b.ext.json)
 
 ---
 
@@ -296,15 +346,21 @@ At a Cabinet meeting held on March 04, 2024, the Cabinet approved the Cabinet's 
 
 ---
 
-### වාස්ගේ මරණ දඬුවම ශ්‍රේෂ්ඨාධිකරණයෙන් තහවුරු කරයි
+### Supreme Court confirms Vaas's death penalty
 
 *2024-08-08 15:00:34* · [`adalk`](https://www.ada.lk/breaking_news/වාස්ගේ-මරණ-දඬුවම-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහවුරු-කරයි/11-411263) · `si`
 
-2013 වසරේ බම්බලපිටිය ප්‍රදේශයේ පදිංචි කෝටිපති ව්‍යාපාරිකයකු වන මොහොමඩ් ෂියාම් නමැත්තා පැහැරගෙන ගොස් ඝාතයෙ කිරීමේ චෝදනාව සම්බන්ධයෙන් මරණ දඬුවම නියම වී සිටි හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන, ඔහුගේ පුත් රවිඳු ගුණවර්ධන ඇතුළු විත්තිකරුවන් හය දෙනෙකුට කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් විසින් පැනවූ මරණීය දණ්ඩනය ශ්‍රේෂ්ඨාධිකරණය විසින් අද (08) තහවුරු කරනු ලැබීය.
+The Supreme Court confirmed the death sentences for six individuals convicted of abduction and murder in Bambalapitiya in 2013.
+
+🟩
+
+The Supreme Court today (08), the death penalty imposed by the death sentence including Abduction and the death sentence was sentenced to six per judiciaries, who were sentenced to six bands in Bambalapitiya, Bambalapitiya, 2013 () Confirmed.
 
 ◼️
 
 [Data](articles/d4d9606f.json)
+
+[Extended Data](ext_articles/d4d9606f.ext.json)
 
 ---
 
@@ -2239,29 +2295,5 @@ If he points out, many of the casting will be invalid at the upcoming election.
 [Data](articles/d6622dee.json)
 
 [Extended Data](ext_articles/d6622dee.ext.json)
-
----
-
-### Man shot dead - policeman injured
-
-*2024-08-08 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199685) · `si`
-
-A man was fatally shot during a police operation in Seeduwa, where officers were investigating a car. The incident resulted in a policeman being injured as well.
-
-🟩
-
-In the Seeduwa Police Division, police attempted to overcome the police sergeant's fire.
-
-The police had attempted to investigate a car from the Seeduwa Police Station at the Seeduwa Police Station.
-
-At that time, a person who was in the left-hand shoot of the vehicle's seat was shot dead by a person's duties to the architecture of the police sergeant.
-
-The 38-year-old Puggio man was killed in the car to admit two admission to the Negombo hospital.
-
-◼️
-
-[Data](articles/4a66b3f1.json)
-
-[Extended Data](ext_articles/4a66b3f1.ext.json)
 
 ---

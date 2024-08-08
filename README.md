@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 12:54:26**
+As of **2024-08-08 13:05:56**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,621 (100.0%) of 39,624 articles have been extended.
+39,624 (100.0%) of 39,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ஐக்கிய மக்கள் கூட்டணியின்  (காணொளி)
+### United People's Alliance (Video)
 
 *2024-08-08 12:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-கூட்டணியின்-காணொளி/175-341804) · `ta`
 
-ஜனாதிபதி வேட்பாளரான எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் வெற்றிக்காக, சமகி ஜன பலவேக தலைமையில் உருவாக்கப்பட்ட ஐக்கிய மக்கள் கூட்டணியின் வெளியீட்டு விழா கொழும்பு சுகததாச உள்ளக விளையாட்டரங்கில் நடைபெற்று வருகிறது .
+The United People's Alliance, led by Samaki Jan. Balaveka, launches at Sugathadasa Indoor Stadium in Colombo to support presidential candidate Sajith Premadasa.
+
+🟩
+
+The launch of the United People's Alliance (UPFA) headed by Samaki Jan. Balaveka is being held at the Sugathadasa Indoor Stadium in Colombo for the success of the presidential candidate Sajith Premadasa.
 
 ◼️
 
 [Data](articles/320459dc.json)
+
+[Extended Data](ext_articles/320459dc.ext.json)
 
 ---
 
@@ -62,17 +68,23 @@ Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online
 
 ---
 
-### தமிழ் பொது வேட்பாளர் அரியநேத்திரன்
+### Tamil General candidate Ariyanethran
 
 *2024-08-08 11:55:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-அரியநேத்திரன்/175-341802) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளராக முன்னாள் பாராளுமன்ற உறுப்பினர் பா.அரியநேத்திரன் அறிவிக்கப்பட்டுள்ளார்.
+P. Ariyanethran, a former parliamentarian from Batticaloa, has been named the Tamil general candidate for the upcoming presidential election.
 
-அரியநேத்திரன் மட்டக்களப்பு மாவட்டத்தில் இருந்து தேர்வு செய்யப்பட்டதன் பின்னர் பாராளுமன்றத்தில் சேவையாற்றியிருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+Former parliamentarian P. Ariyanethran has been announced as the Tamil general candidate in the presidential election.
+
+It is noteworthy that Ariyanethran served in Parliament after being selected from the Batticaloa district.
 
 ◼️
 
 [Data](articles/904860ad.json)
+
+[Extended Data](ext_articles/904860ad.ext.json)
 
 ---
 
@@ -304,17 +316,23 @@ Forest traffic police said that investigations are being carried out in connecti
 
 ---
 
-### සජබ නව සන්ධානයට එක්වූ පිරිස මෙන්න - රණතුංගත් ඒ අතර
+### Here are the people who joined the new UPFA - Ranatunga
 
 *2024-08-08 10:41:53* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-නව-සන්ධානයට-එක්වූ-පිරිස-මෙන්න---රණතුංගත්-ඒ-අතර/11-411261) · `si`
 
-සමගි ජන බලවේගය ප්‍රමුඛ නව සන්ධානය එළිදැක්වීම මේ වන විට කොළඹ සුගතදාස ක්‍රීඩාංගනයේදී ආරම්භ වී තිබේ.
+Ranatunga and other MPs from various parties joined the newly formed UPFA at its launch in Colombo's Sugathadasa Stadium, marking a significant political gathering.
 
-ඒ සඳහා සහය පළ කරන පක්ෂ, සන්ධාන කිහිපයක් නියෝජනය කරමින් මන්ත්‍රීවරුන් පිරිසක් එම අවස්ථාවට සහභාගී වී ඇත.
+🟩
+
+The new UPFA was launched in the Sugathadasa Stadium, Colombo.
+
+A group of MPs representing several supporters have participated in the event.
 
 ◼️
 
 [Data](articles/7b7d2952.json)
+
+[Extended Data](ext_articles/7b7d2952.ext.json)
 
 ---
 

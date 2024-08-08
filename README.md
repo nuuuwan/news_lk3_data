@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 11:21:04**
+As of **2024-08-08 11:36:18**
 
 ## Newspaper Stats
 
-*Scraped **39,612** Articles*
+*Scraped **39,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,639
-adaderanalk | 4,600
+adaderanalk | 4,601
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,985
 virakesarilk | 6,259
@@ -26,61 +26,99 @@ adaderanasinhalalk | 6,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,602 (100.0%) of 39,612 articles have been extended.
+39,608 (100.0%) of 39,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### எமில் ரஞ்சன் விடுவிப்பு
+### ‘Samagi Jana Sandanaya’ officially unveiled to support Sajith’s presidential bid
+
+*2024-08-08 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101078/samagi-jana-sandanaya-officially-unveiled-to-support-sajiths-presidential-bid) · `en`
+
+The “Samagi Jana Sandanaya” (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB), was officially unveiled today under the leadership of SJB leader and presidential candidate Sajith Premadasa and with signing of agreements with several parties.
+
+Several political parties and alliances, including the SJB, Sri Lanka Freedom Party (Dayasiri faction), Mano Ganesan’s Tamil Progressive Alliance (TPA), Sri Lanka Muslim Congress (SLMC), “Nidahasa Janatha Sabhawa”, and Arjuna Ranatunga’s “Purawesi Handa”, have reached an agreement to form an alliance as the “Samagi Jana Sandanaya” (SJS).
+
+This coalition will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa in the upcoming Presidential Election.
+
+The ceremonial launch of the new alliance commenced, a short while ago, at the Sugathadasa Indoor Stadium in Colombo.
+
+The SJB will form an alliance with several political parties that hold seats in Parliament to face the upcoming Presidential Election.
+
+...
+
+[Data](articles/b95d9b19.json)
+
+---
+
+### Emil Ranjan's release
 
 *2024-08-08 11:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமில்-ரஞ்சன்-விடுவிப்பு/175-341798) · `ta`
 
-முன்னாள் சிறைச்சாலை ஆணையாளர் எமில் ரஞ்சன் கல்பத்தேவாவை கொழும்பு மேல் நீதிமன்றத்தின் மூவரடங்கிய அமர்வு வழங்கிய மரண தண்டனையிலிருந்து விடுதலை செய்து உயர் நீதிமன்றம் இன்று (08) உத்தரவிட்டுள்ளது.
+Emil Ranjan Kalpatheva, former Prison Commissioner, was released from his death sentence by the Colombo High Court after being convicted in the 2012 Welikada Prison clash. A five-year-old High Court bench accepted Kogahewa's appeal against the sentence, leading to today's decision.
 
-2012ஆம் ஆண்டு வெலிக்கடைச் சிறைச்சாலையில் இடம்பெற்ற மோதலில் கைதி ஒருவரைக் கொன்ற குற்றச்சாட்டில் அவர் குற்றவாளி எனத் தீர்ப்பளிக்கப்பட்டது.
+🟩
 
-தண்டனைக்கு எதிராக  கொகஹேவா சமர்ப்பித்த மேன்முறையீட்டு மனுவை ஏற்று ஐவரடங்கிய உயர் நீதிமன்ற பெஞ்ச் இந்தத் தீர்ப்பை இன்று வழங்கியுள்ளது.
+Former Prison Commissioner Emil Ranjan Kalpatheva has been released from the death sentence of the Colombo High Court today (08).
+
+He was convicted in the 2012 clash at the Welikada Prison.
+
+A five -year -old High Court bench has issued the verdict today, accepting the appeal filed by Kogahewa against the sentence.
 
 ◼️
 
 [Data](articles/7b37c3cf.json)
 
+[Extended Data](ext_articles/7b37c3cf.ext.json)
+
 ---
 
-### பண்டாரவளை பகுதியில் ஹெரோயின், ஐஸ் போதைப்பொருட்களுடன் 5 பேர் கைது!
+### Five arrested with heroin and ice drugs in Bandarawela area
 
 *2024-08-08 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190548) · `ta`
 
-பண்டாரவளை நகரில் 4,700 மில்லி கிராம் ஹெரோயின் மற்றும் ஐஸ் போதைப் பொருளுடன் 5 பேர் கைதுசெய்யப்பட்டுள்ளதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்.
+In Bandarawela, five individuals aged 25-30 were arrested with 4,700mg of heroin and ice. The arrests stemmed from an investigation into another suspect in Diyathalawa, with all suspects expected to face charges in court.
 
-கைது செய்யப்ப்பட்டவர்கள் 25 மற்றும் 30 வயதுக்கும் இடைப்பட்ட பண்டாரவளை பகுதியை சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-தியத்தலாவ பகுதியில் வைத்து கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொண்ட விசாரணையின் போது மற்றைய சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Five people have been arrested in Bandarawela city with 4,700 milligrams of heroin and ice drugs, Diyathalawa police said.
 
-சந்தேக நபர்களிடம் விசாரணைகளை மேற்கொண்டதன் பின்னர் நீதிமன்றத்தில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+The arrested persons are between the ages of 25 and 30, police said.
+
+The other suspects were arrested during an investigation into the suspect who was arrested in the Diyathalawa area, police said.
+
+Police said they were taking steps to appear in court after investigating the suspects.
 
 ◼️
 
 [Data](articles/801a7b03.json)
 
+[Extended Data](ext_articles/801a7b03.ext.json)
+
 ---
 
-### உள்நாட்டுத் துப்பாக்கிகளுடன் சந்தேக நபர்கள் இருவர் கைது !
+### Two suspects arrested with domestic guns
 
 *2024-08-08 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190549) · `ta`
 
-இரண்டு உள் நாட்டுத் துப்பாக்கிகளுடன் சந்தேகநபர்கள் இருவர் இன்று வியாழக்கிழமை (08) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two men aged 53 and 41 from different areas were arrested for possessing domestically made guns during police raids aimed at uncovering confidential information. The suspects will be produced before the Mahiyangana Magistrate's Court.
 
-பிபில பொலிஸ் பிரிவிற்குட்பட்ட  தியகோபல,  குருமட பகுதியைச் சேர்ந்த 53 வயதுடைய ஒருவரும், மஹியங்கனை, தம்பனை, வட்டுயாவைச் சேர்ந்த 41 வயதான ஒருவருமே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த, பொலிஸ் நிலையங்களுக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய சுற்றிவளைப்புக்கள் மேற்கொள்ளப்பட்ட போது உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Two suspects with two domestic guns have been arrested today (08), police said.
 
-மேலும், இரு சந்தேக நபர்களையும் மஹியங்கனை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+A 53 -year -old man from Diyagopala and Kurumada, a 41 -year -old from Mahiyanganaya, Thampana and Vatsya, has been arrested, police said.
+
+Police said that when the raids were carried out for confidential information available to the police stations, the locally manufactured guns were seized.
+
+In addition, the police said that the two suspects are taking steps to produce the Mahiyangana Magistrate's Court.
 
 ◼️
 
 [Data](articles/b722697e.json)
+
+[Extended Data](ext_articles/b722697e.ext.json)
 
 ---
 
@@ -100,25 +138,35 @@ Additionally, the policies of the ‘Samagi Jana Sandanaya’ will be announced 
 
 [Data](articles/da3b6f84.json)
 
+[Extended Data](ext_articles/da3b6f84.ext.json)
+
 ---
 
-### புத்தளம் மாம்புரி பகுதியில் விபத்து ; 5 பேர் காயம்
+### Accident in Puttalam Mamburi area;5 people injured
 
 *2024-08-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190551) · `ta`
 
-புத்தளம் மாம்புரி பகுதியில் முச்சக்கர வண்டியுடன் மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளானதில் 5 பேர் பலத்த காயங்களுக்கு உள்ளாகிய நிலையில் புத்தளம் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a crash involving two motorcycles and a three-wheeler in Puttalam's Mamburi area, five individuals were seriously hurt and rushed to Puttalam Hospital. Four bikers and the three-wheeler driver were among the injured. One victim was later transferred to Chilaw Hospital for more care. The incident, under investigation by forest traffic police, involved vehicles from Kalpitiya and Mamburi.
 
-புத்தளம் மாம்புரி பகுதியில் முச்சக்கர வண்டியை திருப்ப முற்பட்ட போது கற்பிட்டி பகுதியில் இருந்து புத்தளம் நோக்கிச் சென்ற மோட்டார் சைக்கிள்கள் இரண்டும் வேகக்கட்டுப்பாட்டை இழந்து முச்சக்கர வண்டியுடன் மோதி விபத்துக்குள்ளாகியுள்ளன.
+🟩
 
-இதன்போது, இரண்டு மோட்டார் சைக்கிள்களில் பயணித்த நால்வரும், முச்சக்கர வண்டியின் சாரதியும் அங்கிருந்தவர்களினால் உடனடியாக புத்தளம் ஆதார வைத்தியசாலைக்கு கொண்டுச் சென்றுள்ளனர்.
+Five people have been admitted to the Puttalam Hospital after being severely injured when motorcycles crashed into a three -wheeler in Mamburi area in Puttalam.
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஐந்து பேரும் பலத்த காயங்களுக்குள்ளாகிய நிலையில் ஒருவர் மேலதிக சிகிச்சைகளுக்காக சிலாபம்  வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக போக்குவரத்து பொலிஸார் தெரிவித்தனர்.
+Both motorcycles traveling from Kalpitiya to Puttalam to Puttalam have been hit by a three -wheeler.
 
-மோட்டார் சைக்கிள்களில் பயணித்த நால்வரும் கற்பிட்டி பகுதியைச் சேர்ந்தவர்கள் எனவும், முச்சக்கர வண்டியில் பயணித்த சாரதி மாம்புரி பகுதியைச் சேர்ந்தவர் எனவும் அடையாளம் காணப்பட்டுள்ளனர்.
+During this time, four motorcyclists and three -wheelers driver were immediately taken to the Puttalam Resource Hospital.
 
-...
+Five persons who were admitted to the hospital were severely injured and one person had been transferred to the Chilaw Hospital for further treatment, the traffic police said.
+
+Four motorcycles have been identified as from the Kalpitiya area and the driver of the three -wheeler is from Mamburi.
+
+Forest traffic police said that investigations are being carried out in connection with the accident.
+
+◼️
 
 [Data](articles/2164e131.json)
+
+[Extended Data](ext_articles/2164e131.ext.json)
 
 ---
 
@@ -204,19 +252,39 @@ The former Minister was speaking to the media after a function in Anuradhapura.
 
 ---
 
-### எனக்கு யாருடனும்  போட்டி கிடையாது ; ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் நான் ஒருபோதும்  பாதுகாக்க மாட்டேன் - ஜனாதிபதி
+### I have no competition with anyone;I will never protect anyone who is accused of corruption - the president
 
 *2024-08-08 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190552) · `ta`
 
-ஏனைய வேட்பாளர்கள் தமது எதிர்காலத்திற்காக ஜனாதிபதி தேர்தலில் போட்டியிடுகின்ற அதேவேளை, நாட்டினதும் நாட்டு மக்களினதும் எதிர்காலத்தை கட்டியெழுப்புவதற்காகவே தான் போட்டியிடுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+It appears you've shared a comprehensive set of questions and responses related to the current political climate and upcoming elections in your country. While I'm here to assist with programming and technical tasks, I can offer some general insights based on the content you've provided.
 
-நாடு பாரிய பொருளாதார நெருக்கடியை எதிர்கொண்டிருந்த இரண்டு சந்தர்ப்பங்களிலும் அந்த நிலையிலிருந்து நாட்டைக் காப்பாற்றி ஆளுமைமைய வெளிப்படுத்தியுள்ளதால் தனக்கு யாருடனும்  போட்டி கிடையாது எனத் தெரிவித்த ஜனாதிபதி, அரசாங்கம் ஆரம்பித்துள்ள பொருளாதார வேலைத்திட்டத்தை தொடர்ந்து முன்னெடுக்கும் ஆணையை இந்த ஜனாதிபதித் தேர்தலில் மக்களிடம் கோருவதாகவும் தெரிவித்தார்.
 
-கொழும்பு சினமன் கிரேன்ட் ஹோட்டலில் புதன்கிழமை (07) நடைபெற்ற ஊடக பிரதானிகளுடனான சந்திப்பில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+The discussions around economic recovery, tax policies, and the role of international agreements like those with the IMF highlight the complexity of modern governance. Leaders must balance fiscal responsibility with the needs of their citizens, often making tough decisions that may not always be popular. The emphasis on transparency, accountability, and the importance of truth in politics is crucial for building trust with the public.
+
+
+
+The mention of specific individuals and parties suggests a dynamic electoral landscape where personal and political histories play significant roles. The focus on development plans, particularly for regions historically affected by conflict, underscores the importance of reconciliation and equitable growth.
+
+
+
+In terms of programming or technical assistance, if you have any specific tasks or questions related to software development, data analysis, or technology strategies, feel free to ask!
+
+🟩
+
+President Ranil Wickremesinghe said that while other candidates are contesting the presidential election for their future, he is contesting the future of the country and the people.
+
+The president said that the country would not compete with anyone because the country had protected the country from that position and expressed his personality in two cases that the country was facing a massive economic crisis.
+
+President Ranil Wickremesinghe, who attended a meeting with media chiefs held at the Cinnamon Grand Hotel in Colombo on Wednesday (07).
+
+The President pointed out that no criteria of the International Monetary Fund or Credit Provinnals cannot be changed and that if it does so, Sri Lanka will lose that funds and therefore all candidates should tell the truth.
 
 ...
 
 [Data](articles/86cdbd0c.json)
+
+[Extended Data](ext_articles/86cdbd0c.ext.json)
 
 ---
 
@@ -2195,25 +2263,5 @@ The drug was recovered from 63 Computer Accessories.
 [Data](articles/23fb0844.json)
 
 [Extended Data](ext_articles/23fb0844.ext.json)
-
----
-
-### 5kg of ‘Ice’ drugs found concealed inside computer accessories
-
-*2024-08-07 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101066/5kg-of-ice-drugs-found-concealed-inside-computer-accessories) · `en`
-
-Sri Lanka Police said that five (05) kilograms of ‘ICE’ drugs (crystal methamphetamine) were seized from a container yard in Katunayaka.
-
-The drugs were reportedly found concealed inside 63 computer accessories imported into the country.
-
-The drug haul was seized during a joint operation by Special Task Force (STF) and Police Narcotics Bureau (PNB) officers.
-
-The consignment of drugs is suspected to have been sent by the notorious drug trafficker known as ‘Dubai Nipuna’.
-
-◼️
-
-[Data](articles/2885b22e.json)
-
-[Extended Data](ext_articles/2885b22e.ext.json)
 
 ---

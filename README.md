@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 17:20:57**
+As of **2024-08-08 17:36:54**
 
 ## Newspaper Stats
 
-*Scraped **39,669** Articles*
+*Scraped **39,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,609
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,275
-adaderanasinhalalk | 6,727
+adaderanasinhalalk | 6,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,669 (100.0%) of 39,669 articles have been extended.
+39,669 (100.0%) of 39,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### පොලිස් ප්‍රහාරයකින් සිසුවෙක් රෝහලේ ?
+
+*2024-08-08 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199718) · `si`
+
+පයාගල පොලීසියේ රථවාහන අංශ නිලධාරීන් අමානුෂික ලෙස පහරදුන් බව පවසමින් 16 හැවිරිදි පාසල් සිසුවෙකු රෝහල්ගත කර ඇති බව කළුතර නාගොඩ ශික්ෂණ රෝහල් ප්‍රකාශකයෙකු පැවසීය.
+
+මෙලෙස රෝහල්ගත කර ඇත්තේ පයාගල මලේගොඩ ප්‍රදේශයේ පදිංචි තරුෂ ජිනාල් නමැති පාසල් සිසුවෙක් බව පොලීසිය පවසයි.
+
+රෝහල්ගත කර ඇති සිසුවා මිතුරෙකු සමග ඊයේ (07) පස්වරුවේ පියාට අයත් යතුරුපැදියෙන් අසල ඇති වෙළෙඳසැලකට ගොස් තිබේ.
+
+ඒ බව දුටු පයාගල පොලීසියේ රථවාහන අංශයේ ජංගම රාජකාරීවල නිරතවී සිටි නිලධාරින් දෙදෙනකු ඔවුන් පසුපස හඹා ගොස් යතුරුපැදිය නතර කර බැනවැදී තිබේ.
+
+ඉන් බියට පත්වී ඇති පාසල් සිසුවා යතුරුපැදිය ක්‍රියාත්මක කර අසල ඥාති නිවසක් කරා එය ධාවනය කර ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව නැවත ඔවුන් ලුහුබැඳ පැමිණි පොලිස් නිලධාරීන් යතුරුපැදියේ පසුපැදිකරු ලෙස සිටි සිසුවාට පහරක් එල්ලකර තිබේ.
+
+පසුව යතුරුපැදිය ධාවනය කළ සිසුවාට කිහිප වරක් පහරදී ඇති බවද පැවසෙයි. පහරකෑමෙන් බිම ඇදවැටී ඇති සිසුවාව මෙලෙස රෝහල්ගත කර ඇත.
+
+අදාළ සිසුවා ප්‍රකාශ කර ඇත්තේ බිම ඇද වැටුණු පසු පොලිස් නිලධාරියෙක් තමාගේ කොන්ද ප්‍රදේශය පෑගූ බවය.
+
+...
+
+[Data](articles/b5bfe261.json)
+
+---
 
 ### Nobel laureate Yunus arrives in Bangladesh to take over as interim leader
 
@@ -166,7 +192,11 @@ The order was issued after the defendants were produced before the Maligakanda M
 
 Meanwhile, former Health Secretary Janaka Chandraguptha and former Additional Health Secretary, who were also in remand custody, have been granted bail by the court.
 
-◼️
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
 
 [Data](articles/0099f81a.json)
 
@@ -2271,31 +2301,5 @@ Both wounded persons were admitted to the Negombo Hospital, where the passenger 
 [Data](articles/f69082eb.json)
 
 [Extended Data](ext_articles/f69082eb.ext.json)
-
----
-
-### Up to 22 persons with bail
-
-*2024-08-08 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199687) · `si`
-
-22 candidates have submitted deposits for the presidential election, with 11 political parties involved. The deadline is December 14th at 12 noon. Ven. Omalpe Sobhitha Thera urges the Elections Commission to educate voters on proper voting methods to avoid invalid ballots.
-
-🟩
-
-The number of candidates who have deposited the presidential election has increased to 22.
-
-Accordingly, 11 recognized political parties have deposited money for the presidential election, said the Elections Commission.
-
-The deposit of the presidential election is due to end on the 14th at 12 noon.
-
-Meanwhile, Ven. Omalpe Sobhitha Thera says that the Elections Commission should take up the public aware of how to vote in the coming presidential election.
-
-If he points out, many of the casting will be invalid at the upcoming election.
-
-◼️
-
-[Data](articles/d6622dee.json)
-
-[Extended Data](ext_articles/d6622dee.ext.json)
 
 ---

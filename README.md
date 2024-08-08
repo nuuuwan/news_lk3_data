@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 05:38:38**
+As of **2024-08-08 06:03:15**
 
 ## Newspaper Stats
 
-*Scraped **39,535** Articles*
+*Scraped **39,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,274
 economynextcom | 2,397
-dailyftlk | 2,536
+dailyftlk | 2,543
 adalk | 3,634
 adaderanalk | 4,592
 dailymirrorlk | 4,733
@@ -26,21 +26,145 @@ adaderanasinhalalk | 6,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,534 (100.0%) of 39,535 articles have been extended.
+39,535 (100.0%) of 39,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ’பதில் இன்றேல் இரத்து செய்யவும்’
+### CEAT car radials chosen as original equipment for Hyundai Grand i10 assembled by Abans Auto
+
+*2024-08-08 05:50:13* · [`dailyftlk`](https://www.ft.lk/business/CEAT-car-radials-chosen-as-original-equipment-for-Hyundai-Grand-i10-assembled-by-Abans-Auto/34-765272) · `en`
+
+Representatives of CEAT and Abans Auto led by CEAT Kelani Chief Operating Officer Shamal Gunawardene and Abans Auto Strategy and Business Development Director Amanda Gooneratne (fourth and fifth from left respectively) at the Hyundai Grand i10 showroom
+
+CEAT has been chosen as the original equipment tyre for the 2024 Hyundai Grand i10 assembled, sold, and serviced in Sri Lanka by Abans Auto, clinching another OEM partnership for the country’s highest-selling tyre brand.
+
+The partnership, which brings together two significant players in domestic value addition and a leading global automobile brand, paves the way for German-engineered 15-inch CEAT radials tyres to be fitted on to Hyundai Grand i10 hatchbacks assembled at the Abans Auto plant in Seeduwa.
+
+...
+
+[Data](articles/f879d6a3.json)
+
+---
+
+### Novacura Lanka unveils state-of-the-art office space at Marino Mall
+
+*2024-08-08 05:49:09* · [`dailyftlk`](https://www.ft.lk/business/Novacura-Lanka-unveils-state-of-the-art-office-space-at-Marino-Mall/34-765271) · `en`
+
+Welcoming esteemed guests on Wednesday, 7 August, Novacura inaugurated the new location marked by presence from Novacura’s headquarters in Gothenburg, Sweden
+
+Since its establishment in 2005, Novacura has strategically expanded across 10 countries, developing an impressive customer portfolio. This growth has been driven under the leadership of CEO Johan Melander. Director of Customer Success Andreas Foung arrived in Sri Lanka to attend the opening event to commemorate and celebrate collaboration with stakeholders alongside the Novacura Lanka team.
+
+...
+
+[Data](articles/6db33ef2.json)
+
+---
+
+### Intex Sri Lanka 2024: Redefining international sourcing for Sri Lanka’s garment industry
+
+*2024-08-08 05:47:46* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2024-Redefining-international-sourcing-for-Sri-Lanka-s-garment-industry/34-765270) · `en`
+
+The 15th edition of the premier international textile sourcing platform in South Asia commenced in Colombo yesterday, 7 August, and will run until 9 August at the BMICH, Colombo.
+
+Over the last 10 years, Intex Sri Lanka has been at the forefront of Sri Lanka’s textile and apparel sector, playing a pivotal role in facilitating trade and innovation, and driving business opportunities to support the country’s garment exports.
+
+Present for the Grand Opening Ceremony were Chief Guest High Commission of India Colombo Deputy High Commissioner Dr. Satyanjal Pandey, Guest of Honour Export Development Board (EDB) of Sri Lanka Chairman and Chief Executive Officer Dr. Bernard Kingsley, and Joint Apparel Association Forum of Sri Lanka (JAAFSL) Secretary General Yohan Lawrence.
+
+...
+
+[Data](articles/ca4fa9f9.json)
+
+---
+
+### World Construction Symposium 2024 kicks off tomorrow in Colombo
+
+*2024-08-08 05:45:25* · [`dailyftlk`](https://www.ft.lk/business/World-Construction-Symposium-2024-kicks-off-tomorrow-in-Colombo/34-765269) · `en`
+
+The Ceylon Institute of Builders (CIOB) and the Building Economics and Management Research Unit (BEMRU), Department of Building Economics, University of Moratuwa, Sri Lanka (UOM) are jointly organising the 12th World Construction Symposium with the Green and Sustainability Awards Night will be held on 9 and 10 August at Taj Samudra, Colombo.
+
+The theme of the symposium is “Empowering Construction Industry: Towards Sustainable Development Goals”.
+
+The World Construction Symposium, which is held annually by the UOM and CIOB, will provide a special forum for researchers and practitioners in the areas of built environment and construction industry related research worldwide to share their knowledge, experiences, and research findings.
+
+The Ceylon Institute of Builders (CIOB) has been very successfully conducting this symposium since its commencement in 2012. Each year, it has grown and expanded its scope of attendees and contributions to the betterment of Sri Lankan construction.
+
+...
+
+[Data](articles/0895577a.json)
+
+---
+
+### Cabinet approves Bill to grant legal recognition to NBRI
+
+*2024-08-08 05:45:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-Bill-to-grant-legal-recognition-to-NBRI/34-765268) · `en`
+
+The Cabinet of Ministers on Monday approved the proposal to grant legal recognition to the National Building Research Institute (NBRI).
+
+The move follows the Cabinet’s directive on 5 October 2021 to instruct the Legal Draftsman to prepare the necessary bill.
+
+“The Attorney General has cleared the draft Bill prepared by the Legal Draftsman and it will now be published in the Government gazette. Subsequently, the bill will be presented to Parliament for approval,” the Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he said the legislative aims to formalise the status of the NBRI, enabling it to operate with greater authority and recognition in its research and development activities related to building and construction.
+
+The proposal, presented by President Ranil Wickremesinghe in his capacity as the Defence Minister was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/abedd4dd.json)
+
+---
+
+### Knuckles project to establish Soil Spectroscopic Laboratory with international support
+
+*2024-08-08 05:44:44* · [`dailyftlk`](https://www.ft.lk/business/Knuckles-project-to-establish-Soil-Spectroscopic-Laboratory-with-international-support/34-765267) · `en`
+
+The Ministry of Irrigation, funded by the Green Climate Fund and supported by the International Centre for Research and Agroforestry, is implementing the Knuckles project to enhance climate adaptation for subsistence farmers and agro-plantation communities in the Knuckles mountain region.
+
+A key component of the project is the establishment of a Soil Spectroscopic Laboratory within the Department of Export Agriculture. The initiative aims to support farmers in vulnerable river basins, watersheds, and lower valleys by providing advanced soil analysis capabilities.
+
+The International Centre for Research and Agroforestry has agreed to supply the necessary equipment for the laboratory.
+
+...
+
+[Data](articles/a509e782.json)
+
+---
+
+### National Chamber of Commerce to host Romanian Ambassador tomorrow
+
+*2024-08-08 05:44:15* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-to-host-Romanian-Ambassador-tomorrow/34-765266) · `en`
+
+The National Chamber of Commerce of Sri Lanka will hold a bilateral trade and investment discussion between Sri Lanka and Romania tomorrow from 9:30 a.m. to 11:30 a.m. at its Auditorium, No. 450, D.R. Wijewardena Mawatha, Colombo 10.
+
+The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve as the Special Guest Speaker of the event. Attendees will have the exceptional opportunity to engage in a meaningful dialogue with the Ambassador. The overall purpose of this meeting is to discuss the current trade environment, investment opportunities/ services, policies, and other important information with the view to promote and strengthen bilateral trade and investment opportunities between Sri Lanka and Romania.
+
+...
+
+[Data](articles/04656ae9.json)
+
+---
+
+### Cancel
 
 *2024-08-08 01:41:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-இன்றேல்-இரத்து-செய்யவும்/175-341775) · `ta`
 
-கிழக்கு மாகாணத்தில் அப்பாவி மக்களின் 170 கோடி ரூபாவை மோசடி செய்துவிட்டு  இந்தியாவுக்கு தப்பிச் சென்றுள்ள நிதி நிறுவனத்தின் பணிப்பாளரை நாட்டுக்கு கொண்டு வர முன்னெடுத்துள்ள நடவடிக்கைகள் தொடர்பில் நான் இந்த சபையில் முன்வைத்துள்ள கேள்விகளுக்கு  இன்று வரை பதில் இல்லை ஒன்று பதிலளியுங்கள் ,இல்லையேல் வாய்மூல விடைக்கான வினாக்கள் முறைமையை இரத்து செய்யுங்கள் என இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி.யான இரா.சாணக்கியன் தெரிவித்தார்.
+Sanakiyan raised concerns in Parliament about unanswered queries regarding a financial scandal involving the Financial Institute and its directors, Ahmad Serim Muhammad Sihab and Fatima Barsana Markar, accused of defrauding 170 crore rupees. The directors are believed to have fled to India. Despite repeated inquiries since 2020, there's been no resolution, and the victims await justice.
+
+🟩
+
+The questions I have put forward in this House have not yet been answered by the Director of the Financial Institute of Financial Institute who has fled the country after defrauding the 170 crore rupees in the Eastern Province, or the answer to the oral answer system.Said Sanakiyan.
+
+In Samanthurai, Kalmunai, Pottuvil, Eravur and Maruthamunai, the Financial Institute has been run by the Private Global Private Limited from 05.02.2014?Ahmad Serim Muhammad Sihab and Fatima Barsana Markar, who served as the Director of the company, have defrauded more than 170 crores of rupees, and the above mentioned employee and his family have been in hiding in India to date, and the public has been deployed in the Kalmunai and Samanthurai police stations?The Minister of State will inform the House of Reply to the MP?. He questioned the Minister of Public Security.
+
+Prasanna Ranatunga, the prime minister of the state side, sought 3 months of time to answer these questions.
 
 ...
 
 [Data](articles/9d721383.json)
+
+[Extended Data](ext_articles/9d721383.ext.json)
 
 ---
 
@@ -2229,161 +2353,5 @@ Although Yehya Sinwar does not appear much in public spaces, Hamas continues to 
 [Data](articles/740d87f1.json)
 
 [Extended Data](ext_articles/740d87f1.ext.json)
-
----
-
-### 4 killed after single-engine plane crashes in Oklahoma City
-
-*2024-08-07 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101056/4-killed-after-single-engine-plane-crashes-in-oklahoma-city) · `en`
-
-Four people were killed when a small airplane crashed Tuesday afternoon in Oklahoma City, local authorities said.
-
-The plane crashed about 1:30 p.m. at Sundance Airport, a small airport on the outskirts of the city, according to Oklahoma City Fire Capt. John Chenoweth. He said the National Transportation Safety Board and the Federal Aviation Administration were notified of the crash.
-
-The FAA said in preliminary statement that the aircraft was a single-engine Beechcraft BE33 that crashed while taking off from the airport and the NTSB will be in charge of investigating.
-
-NTSB spokesperson Keith Holloway wrote in an email that the airplane was a Beech F33A, though the information is preliminary. NTSB investigators are expected to be on the scene tomorrow to examine the aircraft, Holloway added.
-
-One resident who lives near Sundance Airport told KOCO 5 News that his son heard helicopters and they went outside. The resident said he smelled smoke.
-
-...
-
-[Data](articles/f5bb37b4.json)
-
-[Extended Data](ext_articles/f5bb37b4.ext.json)
-
----
-
-### 750 suspects arrested in phase of justice
-
-*2024-08-07 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199659) · `si`
-
-In a drug operation, 750 suspects were arrested, including 26 in its second phase. 22 will face further investigation, while three will undergo asset scrutiny and another three will go to rehab. The operation involved 503 raids overall, with 62 in the Southern Province.
-
-🟩
-
-Office of a Police Media Declaration on Drugs in operation operated under the operation of justice has issued a statement.
-
-Accordingly, 750 suspects and 26 suspects have been arrested in connection with the second phase of the justice operation in yesterday's yesterday (06).
-
-22 suspects are to be obtained for further investigations and is expected to investigate the assets of three suspects and three suspects are to be sent to rehabilitation.
-
-In this operation, 503 raids and 62 raids in the Southern Province were produced in the Southern Province.
-
-◼️
-
-[Data](articles/1a007aa8.json)
-
-[Extended Data](ext_articles/1a007aa8.ext.json)
-
----
-
-### Namal Rajapaksa also competition
-
-*2024-08-07 09:48:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ராஜபக்ஷவும்-போட்டி/175-341737) · `ta`
-
-Namal Rajapaksa, the eldest son of former President Mahinda Rajapaksa, has been named the presidential candidate for the Sri Lanka People's Party (PA). A parliamentarian from Hambantota and the party's national organizer, he previously handled sports and youth affairs. Known for his talent in rugby, representing Mount St. Thomas College and the Sri Lankan National Rugby Team, he was first elected to parliament in 2010.
-
-🟩
-
-The Peramuna has officially announced parliamentarian Namal Rajapaksa as the presidential candidate of the Sri Lanka PA's presidential election.
-
-The party secretary's lawyer at the ongoing special ceremony at the PA's Headquarters Office in Battaramulla Nelum Mawatha has announced that he will be nominated as the presidential candidate.
-
-Hambantota district parliamentarian Namal Rajapaksa is also the national organizer of the PA.
-
-Namal Rajapaksa, the eldest son of former President Mahinda Rajapaksa, was responsible for sports and youth affairs in the last PA.
-
-Thirty -eight -year -old Namal Rajapaksa was elected to parliament for the first time in the 2010 general election.
-
-Namal Rajapaksa is a talented rugby player of Mount St. Thomas College. He was also the head of the Sri Lankan National Rugby Team
-
-◼️
-
-[Data](articles/a6cf5515.json)
-
-[Extended Data](ext_articles/a6cf5515.ext.json)
-
----
-
-### Crisis-hit Sri Lanka’s Rajapaksa party declares family member for presidency
-
-*2024-08-07 09:41:00* · [`economynextcom`](https://economynext.com/crisis-hit-sri-lankas-rajapaksa-party-declares-family-member-for-presidency-175667/) · `en`
-
-ECONOMYNEXT – Crisis-hit ruling Sri Lanka Podujana Peramuna (SLPP), a political party established by the island nation’s powerful Rajapaksa family, declared former president Mahinda Rajapaksa’s legislator son as its candidate for the September 21 presidential poll.
-
-The move comes after around 80 percent of the SLPP’s parliament members with some holding top ministerial posts under President Ranil Wickremesinghe’s government had pledged their support to Wickremesinghe’s presidential bid.
-
-Analysts see the move as Namal Rajapaksa (38), who has faced a raft of corruption and misappropriation charges, to regain the control of the SLPP.
-
-Sagara Kariyawasam, the SLPP’s Secretary General said some of the key criteria needed for the candidate were possessing local values, ability to face challenges while going with global developments.
-
-...
-
-[Data](articles/1e4b5b87.json)
-
-[Extended Data](ext_articles/1e4b5b87.ext.json)
-
----
-
-### Sri Lanka’s entrepreneurial journalists to be recognized by SPARK award
-
-*2024-08-07 09:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-entrepreneurial-journalists-to-be-recognized-by-spark-award-175677/) · `en`
-
-ECONOMYNEXT – An entrepreneurship awards programme to recognize Sri Lanka’s young talent will include two awards for journalists, its organizer the Ceylon Chamber of Commerce, said.
-
-‘SPARK: Skilled Youth Entrepreneurship Competition 2024’, supported by the International Labour Organization and the US Department of State, offers an opportunity for aspiring young entrepreneurs “to pitch their innovative ideas and entrepreneurial solutions,” the trade body said.
-
-SPARK 2024 will recognize young journalists under two new categories.
-
-The SPARK Young Entrepreneurial Journalist Award, will recognize excellence in entrepreneurial journalism (making journalism a viable business).
-
-The SPARK Young Entrepreneurship Journalist Award, will recognize excellence in entrepreneurship journalism (promoting entrepreneurship through journalism).
-
-...
-
-[Data](articles/272ad15b.json)
-
-[Extended Data](ext_articles/272ad15b.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 302.10/30 to US dollar
-
-*2024-08-07 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-302-10-30-to-us-dollar-175658/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 302.10/30 to the US dollar on Wednesday, dealers said. Bond yields were steady, they said, and stocks opened up 0.08 percent.
-
-In the secondary market, treasury bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.70/85 percent, down from 10.75/85 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.47/55 percent.
-
-In equities, Colombo’s All Share Price Index opened 8.95 points higher at 11,302, while the S&P SL20 of more liquid stocks opened up at 0.29 percent or 9.39 points to 3,236.
-
-◼️
-
-[Data](articles/2e114577.json)
-
-[Extended Data](ext_articles/2e114577.ext.json)
-
----
-
-### Another suspect arrested over ‘Club Wasantha’ murder
-
-*2024-08-07 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101055/another-suspect-arrested-over-club-wasantha-murder) · `en`
-
-A suspect wanted in connection with the shooting and killing of two individuals, including Surendra Wasantha Perera, also known as ‘Club Wasantha,’ has been apprehended by the Western Province (South) Crimes Division.
-
-The 36-year-old suspect, a resident of the Dharga Town, was arrested yesterday (06) at the Southern Expressway service area and then escorted to the Athurugiriya Police Station. He is accused of aiding and abetting in the murders.
-
-It has been revealed that before the crime was committed, the suspect in question had rented a house for the suspects and arranged a van to transport the two shooters and weapons from the Ambalangoda area to the Athurugiriya area.
-
-...
-
-[Data](articles/6c53fa47.json)
-
-[Extended Data](ext_articles/6c53fa47.ext.json)
 
 ---

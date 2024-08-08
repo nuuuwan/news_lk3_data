@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 13:05:56**
+As of **2024-08-08 13:20:55**
 
 ## Newspaper Stats
 
-*Scraped **39,624** Articles*
+*Scraped **39,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,285
-economynextcom | 2,399
+economynextcom | 2,402
 dailyftlk | 2,551
 adalk | 3,640
 adaderanalk | 4,602
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,988
+tamilmirrorlk | 4,989
 virakesarilk | 6,259
 adaderanasinhalalk | 6,714
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,624 (100.0%) of 39,624 articles have been extended.
+39,624 (100.0%) of 39,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### Sri Lanka’s Dipped Products eyes Thailand-based rubber glove manufacturing facility
+
+*2024-08-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-eyes-thailand-based-rubber-glove-manufacturing-facility-176008/) · `en`
+
+ECONOMYNEXT – Sri Lanka listed company Dipped Products Plc said its board had approved in principle, the acquisition of a Thailand-based rubber glove manufacturing facility.
+
+The acquisition of the Thailand-based rubber glove manufacturing facility is contingent upon conducting a due diligence study, the company said in a stock exchange filing.
+
+“The potential investment for this acquisition would be approximately USD 11 Million and the acquisition will be carried out through Dipped Products (Thailand) Ltd, a subsidiary of the Company.”
+
+In May, the Sri Lanka based glove maker Dipped Products Plc opened a market office in Mumbai, India as part of efforts to strengthen in presence in key markets.
+
+Established in 1976, Dipped Products is one of the world’s leading rubber glove manufacturers, accounting for a 5 percent global market share. DPL specializes in industrial, household, sport, electrician and medical gloves.
+
+◼️
+
+[Data](articles/5a4c9b32.json)
+
+---
+
+### சுனிதா வில்லியம்ஸ் பற்றி  நாசா புதிய அறிவிப்பு
+
+*2024-08-08 12:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனிதா-வில்லியம்ஸ்-பற்றி-நாசா-புதிய-அறிவிப்பு/50-341806) · `ta`
+
+அடுத்த வருடம் பெப்ரவரி மாதம் வரை சுனிதா வில்லியம்ஸ் விண்வெளி நிலையத்திலேயே இருக்க வேண்டியிருக்கும் என நாசா அறிவித்துள்ளது.
+
+இதுபற்றி நாசா மேலும் தெரிவிக்கையில், “விண்வெளி நிலையத்தில் ஏற்பட்ட ஹீலியம் வாயு கசிவு, டெஃப்லான் சீல் பாதிப்பு உள்ளிட்டவற்றை சரிசெய்ய வேண்டியுள்ளது.
+
+அந்தவகையில், தொழில்நுட்ப கோளாறுகளை சரிசெய்த பிறகே சுனிதா வில்லியம்ஸ் பூமிக்கு திரும்ப முடியும். போயிங் நிறுவனத்தின் ஸ்டார் லைனர் விண்வெளி ஓடத்துக்கு பதில் ஸ்பேஸ் எக்ஸ் க்ரூ டிராகன் ஒடம் மூலம் சுனிதா பூமிக்கு திரும்புவார்” என நாசா விளக்கம் அளித்துள்ளது.S
+
+◼️
+
+[Data](articles/cafe46cc.json)
+
+---
 
 ### United People's Alliance (Video)
 
@@ -47,6 +83,30 @@ The launch of the United People's Alliance (UPFA) headed by Samaki Jan. Balaveka
 [Data](articles/320459dc.json)
 
 [Extended Data](ext_articles/320459dc.ext.json)
+
+---
+
+### Sri Lanka’s Sampath Bank to raise upto Rs10bn in debenture issue
+
+*2024-08-08 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-to-raise-upto-rs10bn-in-debenture-issue-176001/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Sampath Bank Plc said it will issue 100 million debentures at 100 rupees each to raise 10 billion rupees.
+
+The bank will issue up to 50,000,000 Basel III compliant – tier 2, listed, rated, unsecured, subordinated, redeemable, 5-year debentures with a non-viability conversion at 100 rupees each to raise 5 billion rupees initially.
+
+“With an option to issue up to a further 20,000,000 of said debentures to increase the said sum by up to a further
+
+Rs.2,000,000,000 at the discretion of the Bank in the event of an oversubscription of the initial issue,” the bank said in a stock exchange filing.
+
+There would be a further issue of 30,000,000 more debentures to increase the sum by another 3 billion rupees, “in the event of an oversubscription of the initial issue and the second tranche.”
+
+The proposed debenture issue is subject to obtaining all necessary regulatory and shareholder approvals, and
+
+The share was trading up at 74.50 on Thursday. (Colombo/Aug8/2024)
+
+◼️
+
+[Data](articles/e7c1d197.json)
 
 ---
 
@@ -107,6 +167,26 @@ Below is the full announcement issued by Pavithra Wanniarachchi.
 [Data](articles/edf51207.json)
 
 [Extended Data](ext_articles/edf51207.ext.json)
+
+---
+
+### Sri Lanka debt restructuring ending date not definite, but economy recovering: Semasinghe
+
+*2024-08-08 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-restructuring-ending-date-not-definite-but-economy-recovering-semasinghe-175990/) · `en`
+
+ECONOMYNEXT – The completion date of Sri Lanka’s debt restructuring cannot be decided definitely at this time, but the country is recovering faster than other countries in the stability provided, State Minister Shehan Semasinghe said.
+
+“Debt restructuring is a complicated process. As the debt restructuring process goes on, due to the issues that we encounter, we cannot say definitively that we can conclude the process by such and such a date,” he said.
+
+He was responding to a question on the contracts with Lazard and Clifford Chance LLP. “We have had to extend the agreements in stages.”
+
+“We have completed some stages; the local debt restructuring, the bilateral creditors, bond holders, then local banks. So we have achieved some success. We have achieved this while maintaining economic stability and in keeping with the IMF programme.”
+
+“Lazard France has successfully worked with other defaulted nations to complete debt restructuring.
+
+...
+
+[Data](articles/b842b2c2.json)
 
 ---
 
@@ -2159,89 +2239,5 @@ According to the MoU, Sri Lankans continued for work in South Korea since 2004, 
 [Data](articles/78986f58.json)
 
 [Extended Data](ext_articles/78986f58.ext.json)
-
----
-
-### Sri Lanka captured the series to defeat India
-
-*2024-08-07 21:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியாவை-வீழ்த்தி-தொடரை-கைப்பற்றியது-இலங்கை/44-341768) · `ta`
-
-Sri Lanka clinched the three-match ODI series against India, winning the final match by 110 runs in Colombo. They scored 248/7 in 50 overs, while India was bowled out for 138 in 26.1 overs.
-
-🟩
-
-The Sri Lankan team has won the three -match ODI series against the Indian team.
-
-Colombo r. The Sri Lankan team won the third and final ODIs by 110 runs.
-
-The Sri Lankan team won the match in the match and scored 248 runs for the loss of 7 wickets in 50 overs.
-
-The Indian team lost all wickets in 26.1 overs and lost 138 runs.
-
-◼️
-
-[Data](articles/63708892.json)
-
-[Extended Data](ext_articles/63708892.ext.json)
-
----
-
-### Justice Ministry brought under the President’s purview
-
-*2024-08-07 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101068/justice-ministry-brought-under-the-presidents-purview) · `en`
-
-A Gazette notification has been issued bringing the Ministry of Justice, Prison Affairs and Constitutional Reforms under the purview of President Ranil Wickremesinghe.
-
-This move comes following the recent resignation of Wijeyadasa Rajapakshe from his ministerial portfolios to contest the upcoming Presidential election.
-
-The Extraordinary Gazette notification has been issued today (Aug. 07) by the Secretary to President. Mr. Saman Ekanayake, by order of the President.
-
-It states that the President, having consulted with the Prime Minister under Article 44 (3) of the Constitution of the Democratic Socialist Republic of Sri Lanka, has determined that the Ministerial Portfolio of Justice, Prison Affairs and Constitutional Reforms should be in his charge.
-
-...
-
-[Data](articles/f92281db.json)
-
-[Extended Data](ext_articles/f92281db.ext.json)
-
----
-
-### A sudden gazett
-
-*2024-08-07 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199681) · `si`
-
-A special gazette was issued by Sri Lanka's Justice and Constitutional Reforms President Ranil Wickremesinghe, following the resignation of the Minister to run in the upcoming presidential election.
-
-🟩
-
-A special gazette was issued under the post of judicial and Principal Reforms Minister of Justice and Constitutional Reforms President Ranil Wickremesinghe.
-
-That was due to the resignation of the Minister to contest the next presidential election.
-
-◼️
-
-[Data](articles/20dd28f2.json)
-
-[Extended Data](ext_articles/20dd28f2.ext.json)
-
----
-
-### Ice trapped in Katunayake
-
-*2024-08-07 21:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-சிக்கிய-ஐஸ்/175-341767) · `ta`
-
-In Katunayake, over 5kg of ice drugs were seized by the Police Special Task Force and Drug Eradication Unit, suspected to be smuggled into Sri Lanka by a group named Remble.
-
-🟩
-
-Police Special Task Force and Police Drug Eradication Unit have seized more than 5 kg of ice drugs illegally brought to Sri Lanka.
-
-Police suspect the drug may have sent the drug to Sri Lanka. Remble
-
-◼️
-
-[Data](articles/e73c8078.json)
-
-[Extended Data](ext_articles/e73c8078.ext.json)
 
 ---

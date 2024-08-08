@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 22:21:00**
+As of **2024-08-08 22:36:37**
 
 ## Newspaper Stats
 
-*Scraped **39,711** Articles*
+*Scraped **39,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,285
 economynextcom | 2,410
 dailyftlk | 2,551
 adalk | 3,645
-adaderanalk | 4,612
+adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,292
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,711 (100.0%) of 39,711 articles have been extended.
+39,711 (100.0%) of 39,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### Foreign Minister Ali Sabry to visit Egypt
+
+*2024-08-08 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101092/foreign-minister-ali-sabry-to-visit-egypt) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry is scheduled to undertake an official visit to Egypt from 07 to 09 August 2024, on an invitation extended by the Egyptian Foreign Minister Badr Abdelatty.
+
+During the visit, Minister Ali Sabry will engage in bilateral discussions with his counterpart at the Ministry of Foreign Affairs in Cairo and also meet with Minister of Investment and Foreign Trade of Egypt, the Ministry of Foreign Affairs said.
+
+Minister Sabry is also expected to have discussions at the Federation of Egyptian Chambers of Commerce and meet with several other dignitaries, with a view to strengthening the multifaceted relations between the two countries.
+
+The bilateral visit is expected to further consolidate the longstanding ties between Sri Lanka and Egypt, the statement added.
+
+◼️
+
+[Data](articles/4a8daac2.json)
+
+---
 
 ### Investigation into Ranmal Kodituwakku
 
@@ -2337,33 +2355,5 @@ Additionally, the policies of the ‘Samagi Jana Sandanaya’ will be announced 
 [Data](articles/da3b6f84.json)
 
 [Extended Data](ext_articles/da3b6f84.ext.json)
-
----
-
-### Accident in Puttalam Mamburi area;5 people injured
-
-*2024-08-08 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190551) · `ta`
-
-In a crash involving two motorcycles and a three-wheeler in Puttalam's Mamburi area, five individuals were seriously hurt and rushed to Puttalam Hospital. Four bikers and the three-wheeler driver were among the injured. One victim was later transferred to Chilaw Hospital for more care. The incident, under investigation by forest traffic police, involved vehicles from Kalpitiya and Mamburi.
-
-🟩
-
-Five people have been admitted to the Puttalam Hospital after being severely injured when motorcycles crashed into a three -wheeler in Mamburi area in Puttalam.
-
-Both motorcycles traveling from Kalpitiya to Puttalam to Puttalam have been hit by a three -wheeler.
-
-During this time, four motorcyclists and three -wheelers driver were immediately taken to the Puttalam Resource Hospital.
-
-Five persons who were admitted to the hospital were severely injured and one person had been transferred to the Chilaw Hospital for further treatment, the traffic police said.
-
-Four motorcycles have been identified as from the Kalpitiya area and the driver of the three -wheeler is from Mamburi.
-
-Forest traffic police said that investigations are being carried out in connection with the accident.
-
-◼️
-
-[Data](articles/2164e131.json)
-
-[Extended Data](ext_articles/2164e131.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 00:09:48**
+As of **2024-08-09 00:21:51**
 
 ## Newspaper Stats
 
-*Scraped **39,716** Articles*
+*Scraped **39,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,551
 adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,994
+tamilmirrorlk | 4,996
 virakesarilk | 6,295
 adaderanasinhalalk | 6,737
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,716 (100.0%) of 39,716 articles have been extended.
+39,716 (100.0%) of 39,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### மன்னார் தாய்க்காக பாராளுமன்றத்தில் ஒலித்த குரல்
+
+*2024-08-08 23:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தாய்க்காக-பாராளுமன்றத்தில்-ஒலித்த-குரல்/72-341844) · `ta`
+
+மன்னார் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த  இளம் தாய் சிந்துஜாவின் மரணம் தொடர்பில் ஏதாவது தவறுகள் இடம்பெற்றிருந்தால்  சம்பந்தப்பட்டவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என சுகாதார அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற மருத்துவ திருத்தச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றிய தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன்,
+
+மன்னார் வைத்தியசாலையில் இடம்பெற்ற மரியராஜ் சிந்துஜாவின் மரணம் பாரிய சர்ச்சையை ஏற்படுத்தியுள்ளது.இந்த  மரணம் குறித்து துரிதகரமான விசாரணைகளை முன்னெடுக்க வேண்டும் என்று வலியுறுத்தினார்.
+
+இந்த விடயம் தொடர்பில் விசேட அவதானம் செலுத்தப்பட்டு நடவடிக்கை எடுக்கப்படும். இது தொடர்பான விசாரணை அறிக்கையை இதுவரை ஆராயவில்லை. குறித்த விடயத்தில் ஏதாவது தவறுகள் நடந்திருந்தால் அது தொடர்பில் நிச்சயமாக ஒழுக்காற்று நடவடிக்கை எடுப்போம்.
+
+இதேவேளை நாட்டில் நோயாளர்களை பாதுகாப்பது தொடர்பில் கவனம் செலுத்த வேண்டும். அதற்காகவே  புதிய சட்டமூலமொன்றையும் முன்வைத்துள்ளோம் என்றார்.  R
+
+◼️
+
+[Data](articles/9ab5c645.json)
+
+---
+
+### UNP-யின் ஆதரவு ரணிலுக்கு
+
+*2024-08-08 23:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யின்-ஆதரவு-ரணிலுக்கு/175-341843) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளர் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க ஐக்கிய தேசியக் கட்சி தீர்மானித்துள்ளதாக கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+இன்று இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் செயற்குழு கூட்டத்தின் போது, இது தொடர்பான தீர்மானம் எட்டப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/62d746ad.json)
+
+---
 
 ### Lal Kanthe says he is arrested
 
@@ -2319,47 +2353,5 @@ Former minister Arjuna Ranatunga, who has taken a decision to support opposition
 [Data](articles/bee1f6f1.json)
 
 [Extended Data](ext_articles/bee1f6f1.ext.json)
-
----
-
-### ‘Samagi Jana Sandanaya’ officially unveiled to support Sajith’s presidential bid
-
-*2024-08-08 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101078/samagi-jana-sandanaya-officially-unveiled-to-support-sajiths-presidential-bid) · `en`
-
-The “Samagi Jana Sandanaya” (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB), was officially unveiled today under the leadership of SJB leader and presidential candidate Sajith Premadasa and with signing of agreements with several parties.
-
-Several political parties and alliances, including the SJB, Sri Lanka Freedom Party (Dayasiri faction), Mano Ganesan’s Tamil Progressive Alliance (TPA), Sri Lanka Muslim Congress (SLMC), “Nidahasa Janatha Sabhawa”, and Arjuna Ranatunga’s “Purawesi Handa”, have reached an agreement to form an alliance as the “Samagi Jana Sandanaya” (SJS).
-
-This coalition will support Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa in the upcoming Presidential Election.
-
-The ceremonial launch of the new alliance commenced, a short while ago, at the Sugathadasa Indoor Stadium in Colombo.
-
-...
-
-[Data](articles/b95d9b19.json)
-
-[Extended Data](ext_articles/b95d9b19.ext.json)
-
----
-
-### Supreme Court order to release former Prison Commissioner Emil Ranjan Lamahewa from death sentence
-
-*2024-08-08 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190555) · `ta`
-
-The Supreme Court has overturned the death sentence against former Prison Commissioner Emil Ranjan Lamahewa, convicted for prisoner murders in the 2012 Welikada Prison clash. A five-judge panel accepted his appeal, leading to his release.
-
-🟩
-
-The High Court has ordered the release of former Prison Commissioner Emil Ranjan Lamahewa, who was found guilty of murdering prisoners in the 2012 clash at the Welikada Prison.
-
-The Supreme Court today (08) ordered the release of the death sentence given by the three judges of the Colombo High Court.
-
-A five -judge judges have been ruled by the High Court who accepted the appeal filed on behalf of the former Prison Commissioner against the sentence.
-
-◼️
-
-[Data](articles/184848e1.json)
-
-[Extended Data](ext_articles/184848e1.ext.json)
 
 ---

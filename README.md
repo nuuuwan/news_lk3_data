@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 18:16:18**
+As of **2024-08-08 18:28:30**
 
 ## Newspaper Stats
 
-*Scraped **39,678** Articles*
+*Scraped **39,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,102 @@ newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,285
-economynextcom | 2,409
+economynextcom | 2,410
 dailyftlk | 2,551
 adalk | 3,642
 adaderanalk | 4,609
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
-virakesarilk | 6,275
+virakesarilk | 6,283
 adaderanasinhalalk | 6,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,678 (100.0%) of 39,678 articles have been extended.
+39,678 (100.0%) of 39,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### Sri Lanka seizes fake Casio watches
+
+*2024-08-08 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-seizes-fake-casio-watches-176084/) · `en`
+
+ECONOMYNEXT – Sri Lanka Police Colombo Crime Division (CCD) has raided several shops and seized stocks of fake Casio watches, the Japan-based company’s regional representatives said in a statement.
+
+“Such actions underscore our unwavering commitment towards consumer interests and brand integrity,” Gurmeet Singh, Head of Legal, Casio India, said. “We will continue to work closely with the authorities to safeguard our brand and our customers.”
+
+Casio Group’s IP Enforcement Policy has sought to combat the issue of Casio’s counterfeits in the Sri Lankan market, the statement said.
+
+Raids were conducted by Colombo Crime Division (CCD) simultaneously at three locations of one of the largest retail stores in the island.
+
+The locations included two outlets of the retail store and its warehouse, where counterfeit Casio watches, primarily G-SHOCK timepieces, were seized.
+
+The accused entity were taken into custody and fines were imposed. (Colombo/Aug8/2024)
+
+◼️
+
+[Data](articles/cf483c1b.json)
+
+---
+
+### கொக்குத்தொடுவாய் புதைகுழி அகழ்வு பணிகள் நிறைவு ; மீட்கப்பட்ட தகட்டு இலக்கங்களை பகிரங்கப்படுத்துமாறு காணாமல் ஆக்கப்பட்டோரின் உறவினர்கள் கோரிக்கை !
+
+*2024-08-08 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190603) · `ta`
+
+இன்று வியாழக்கிழமை (08) முல்லைத்தீவு மாவட்ட  நீதவான் நீதிமன்றத்தில் கொக்குத்தொடுவாய் புதைகுழி வழக்கு விசாரணைக்காக எடுத்துக்கொள்ளப்படுள்ளது.
+
+காணாமல் போனோர் அலுவலகம் (ஓ.எம்.பி ) சார்பில் அந்த அலுவலகத்தின்  சட்டத்தரணிகளும் , சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா மற்றும்  காணாமல் ஆக்கப்பட்டவர்கள் உறவினர்கள் சார்பில் சட்டத்தரணிகளான ரட்ணவேல் மற்றும் நிரஞ்சன் ஆகியோரும்   காணாமல் ஆக்கப்பட்டவர்கள் உறவினர்களும் மன்றில் ஆஜராகி இருந்தார்கள்.
+
+ஏற்கனவே நீதிமன்றால் இந்த புதைகுழி அகழ்வு தொடர்பில் அறிக்கைகள் சமர்ப்பிக்க கோரியிருந்தமை தொடர்பில் கொக்குத்தொடுவாய் கிராம அலுவலரால் இன்று நீதிமன்றில் அறிக்கை சமர்ப்ப்பிக்கப்பட்டுள்ளது.
+
+அதேவேளை இந்த அகழ்வில் ஈடுபட்டிருந்த தொல்லியல் திணைக்களத்தின் பேராசிரியர் ராஜ் சோமதேவாவின் இறுதி அறிக்கை ஒரு மாத காலப்பகுதிக்குள் கிடைக்கும் என்று எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/4e7ea3fe.json)
+
+---
+
+### கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட நால்வருக்கு தொடர்ந்து  விளக்கமறியல் - இருவருக்கு பிணை
+
+*2024-08-08 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190598) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட நால்வரும் எதிர்வரும் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக சந்திரகுப்த, சுகாதார அமைச்சின் முன்னாள் மேலதிக செயலாளர் சமன் ரத்நாயக்க ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+தரமற்ற இம்யூனோகுளோபுலின் ஊசி மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் மேற்படி சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்களை இன்று வியாழக்கிழமை (08) மாளிகாகந்த நீதிவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3788b4f6.json)
+
+---
+
+### தென்கொரியாவுக்கு வேலைவாய்ப்புக்காக இதுவரை 3,694 பேர் சென்றுள்ளனர் !
+
+*2024-08-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190595) · `ta`
+
+இவ் ஆண்டு இதுவரையான காலப்பகுதியில் 3,694 பேர் தென் கொரியாவிற்கு வேலைக்காக சென்றுள்ளதோடு, மேலும் 100  பேர் விரைவில் தென் கொரியாவிற்கு செல்ல  தயாராகவுள்ளனர் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் (SLBFE) தெரிவித்துள்ளது.
+
+உற்பத்தித் துறையில் பணியாற்றுவதற்காக எட்டு பெண்கள் உட்பட 100 பேர் செவ்வாய்க்கிழமை (6) தென் கொரியாவுக்குச் சென்றுள்ளனர்.
+
+இது இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் (SLBFE) மற்றும் தென் கொரிய மனித வள அபிவிருத்தி சேவை நிறுவனம் ஆகியவற்றுக்கு இடையேயான புரிந்துணர்வு ஒப்பந்தத்தின் (MoU) மூலம் கிடைக்கப்பெற்ற வேலை வாய்ப்புகளின் ஒரு பகுதியாகும் என பணியகம் தெரிவித்துள்ளது.
+
+இலங்கையில் உள்ள இளைஞர்கள் மத்தியில் தென் கொரியாவில் வேலை தேடும் போக்கு அதிகரித்துள்ளது. மேலும் அதிகமான இளம் பெண்களும் இந்த வேலை வாய்ப்புகளை அங்கு தொடர்கின்றனர்.
+
+தற்போது, தென் கொரியாவில்  புதிய வேலை ஒப்பந்தங்கள் வழங்கப்பட்டு வருகின்றன. மேலும் பல தொழிலாளர்கள் இந்த வேலைகளுக்கு எதிர்காலத்தில் வெளியேற உள்ளனர்.
+
+◼️
+
+[Data](articles/22397ae3.json)
+
+---
 
 ### The United States is still in the forefront of medals
 
@@ -63,6 +141,24 @@ However, the however, which won 27 gold medals, Japan is only 12 gold medals.
 [Data](articles/f4897258.json)
 
 [Extended Data](ext_articles/f4897258.ext.json)
+
+---
+
+### 'வேதா' படத்திற்காக குத்தாட்டம் போட்டிருக்கும் பொலிவுட் நடிகை மௌனி ராய்
+
+*2024-08-08 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190596) · `ta`
+
+பொலிவுட் நடிகை ஷெர்வரி கதையின் நாயகியாக நடித்திருக்கும் 'வேதா' எனும் திரைப்படத்தில் இடம்பெறும் 'மம்மி ஜி..' எனும் பாடலில் பிரபல பொலிவூட் நடிகை மௌனி ராய் நடனமாடி இருக்கிறார். இந்தப் பாடலும், பாடலுக்கான காணொளியும் வெளியாகி பெரும் வரவேற்பினை பெற்றிருக்கிறது.
+
+பொலிவுட் இயக்குநர் நிகில் அத்வானி இயக்கத்தில் உருவாகி இருக்கும் 'வேதா' எனும் திரைப்படத்தில் ஜோன் அபிரகாம், ஷெர்வரி, அபிஷேக் பானர்ஜி, தமன்னா, ஆசிஷ் வித்யார்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+மாலே பிரகாஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அம்மால் மாலிக் - மனன் பரத்வாஜ் -ராகவ் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள்.
+
+எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜீ ஸ்டுடியோஸ் - எம்மே என்டர்டெய்ன்மென்ட் +ஜே ஏ என்டர்டெய்ன்மென்ட் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/99af1735.json)
 
 ---
 
@@ -105,6 +201,22 @@ A bond maturing on 15.09.2029 closed at 12.50/75 percent, up from 12.50/70 perce
 [Data](articles/5b4bda68.json)
 
 [Extended Data](ext_articles/5b4bda68.ext.json)
+
+---
+
+### விமல் - கருணாஸ் இணைந்திருக்கும் 'போகுமிடம் வெகு தூரமில்லை' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-08-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190593) · `ta`
+
+தமிழ் திரையுலகின் சந்தை மதிப்புள்ள நட்சத்திர நடிகர்களான விமல் மற்றும் கருணாஸ் இருவரும் கதையின் நாயகர்களாக நடித்திருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேக புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் மைக்கேல் கே. ராஜா இயக்கத்தில் உருவாகி இருக்கும் 'போகுமிடம் வெகு தூரமில்லை' எனும் திரைப்படத்தின் விமல், கருணாஸ், தீபா சங்கர், பவன், 'ஆடுகளம்' நரேன், அருள் தாஸ், சார்லஸ் வினோத், எழுத்தாளரும், நடிகருமான வேல.‌ ராமமூர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+டெமல் சேவியர் எட்வர்ட்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என் ஆர் ரகுநந்தன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஷார்க் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சிவா கிலாரி தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/df1f52da.json)
 
 ---
 
@@ -184,6 +296,40 @@ In his first comments after his arrival, he told a news briefing that his priori
 
 ---
 
+### படப்பிடிப்புடன் தொடங்கிய நடிகர் ஆர்யாவின் புதிய படம்
+
+*2024-08-08 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190591) · `ta`
+
+நடிகராகவும், தயாரிப்பாளராகவும் திகழும் நடிகர் ஆர்யா கதையின் நாயகனாக முதன்மையான வேடத்தில் நடிக்கும் பெயரிடப்படாத படத்தின் தொடக்க விழா தமிழகத்தில் உள்ள ராமநாதபுரத்தில் சிறப்பாக நடைபெற்றது.‌
+
+இயக்குநர் ஜியென் கிருஷ்ணகுமார் இயக்கத்தில் உருவாகும் பெயரிடப்படாத படத்தில் நடிகர் ஆர்யா கதாநாயகனாக நடிக்கிறார். இவருடன் நடிகை நிகிலா விமல் முக்கிய வேடத்தில் நடிப்பதாக தகவல்கள் வெளியாகி இருக்கிறது.
+
+இந்த திரைப்படத்தில் நடிக்கும் நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்பக் குழுவினர் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+மேலும், இந்த திரைப்படத்தினை மினி ஸ்டுடியோஸ் எல் எல் பி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் வினோத்குமார் தயாரிக்கிறார்.
+
+◼️
+
+[Data](articles/70bc5c8c.json)
+
+---
+
+### நடிகர் பகத் ஃபாஸிலின் 'வேட்டையன்' அப்டேட்
+
+*2024-08-08 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190590) · `ta`
+
+மலையாள திரையுலகில் அறிமுகமாகி இன்று பான் இந்திய நட்சத்திர நடிகராக உயர்ந்திருக்கும் பகத் ஃபாஸிலின் பிறந்த நாளை முன்னிட்டு, 'வேட்டையன்' படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+
+'ஜெய் பீம்' படத்தை இயக்கிய இயக்குநர் தா. செ. ஞானவேல் இயக்கத்தில் உருவாகி வரும் 'வேட்டையன்' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் சுப்பர் ஸ்டார் அமிதாப் பச்சன், பகத் ஃபாஸில், ரானா டகுபதி, மஞ்சு வாரியர், அபிராமி, ரித்திகா சிங், துஷாரா விஜயன், கிஷோர், ரோகிணி, ராவ் ரமேஷ், ரமேஷ் திலக் உள்ளிட்ட பல நட்சத்திர நடிகர்கள் நடித்திருக்கிறார்கள்.
+
+எஸ். ஆர். கதிர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்பட த்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் பிரம்மாண்டமான பொருட்செலவில் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/4f84d384.json)
+
+---
+
 ### Sri Lanka stocks close down, interest in Sampath, John Keells
 
 *2024-08-08 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-sampath-john-keells-176055/) · `en`
@@ -207,6 +353,26 @@ Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc 
 [Data](articles/4c4b85ea.json)
 
 [Extended Data](ext_articles/4c4b85ea.ext.json)
+
+---
+
+### ரணில் விக்கிரமசிங்கவுக்கு சஜித்தோ அல்லது நாமலோ சவாலானவர்கள் அல்லர் - ருவன் விஜேவர்தன
+
+*2024-08-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190588) · `ta`
+
+மொட்டுவவிற்கு வாக்களித்த கிராமத்தில் உள்ள பலர் இன்று ரணில் விக்கிரமசிங்கவுடன் இருக்கின்றார்கள். அதனாலேயே மொட்டைச் சேர்ந்த நாடாளுமன்ற உறுப்பினர்கள் குழுவொன்று ஜனாதிபதியைச் சுற்றிக் குவிந்துள்ளது. ரணில் விக்கிரமசிங்கவுக்கு சஜித்தோ அல்லது நாமலோ சவாலானவர்கள் அல்ல என ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜயவர்தன தெரிவித்துள்ளார்.
+
+நிலையான நாட்டைக் கட்டியெழுப்புவதற்கு ரணில் விக்கிரமசிங்கவுடன் கைகோர்க்குமாறு ஐக்கிய தேசியக் கட்சி உறுப்பினர்களுக்கு மீண்டும் அழைப்பு விடுப்பதாகவும் பிரதித் தலைவர் கூறினார்.
+
+“ஒன்றிணைந்து வெற்றிபெறுவோம்” என்ற தொனிப்பொருளில் இன்று வியாழக்கிழமை (08) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே பிரதித் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+பம்பலப்பிட்டி லொரிஸ் மாவத்தையில் அமைந்துள்ள ரணில் விக்கிரமசிங்கவின் ஜனாதிபதி தேர்தல் ஊடக மையத்தில் இந்த ஊடகவியலாளர் சந்திப்பு நடைபெற்றது.
+
+அங்கு ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜயவர்தன மேலும் கூறியதாவது,
+
+...
+
+[Data](articles/e98ccadc.json)
 
 ---
 
@@ -2113,213 +2279,5 @@ Speaking further MP Harsha Deathu Silva said:
 [Data](articles/810b27e4.json)
 
 [Extended Data](ext_articles/810b27e4.ext.json)
-
----
-
-### Helicopter accident in Nepal;5 killed
-
-*2024-08-08 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190547) · `ta`
-
-A helicopter crash near Kathmandu, Nepal, killed five, including a pilot and four Chinese passengers. The Eurocopter AS350 lost contact shortly after takeoff from Kathmandu International Airport. This incident follows another plane crash two weeks prior at the same airport, which resulted in 18 deaths and one injured pilot.
-
-🟩
-
-A helicopter crashed on Wednesday in the northwest of Nepal's capital, Kathmandu, and five people were killed.
-
-The bodies of a woman and four men have been recovered from the accident.
-
-The helicopter, the Euroopter AS350, has traveled from Kathmandu International Airport to Cyprupezi at 1.54 pm local time.
-
-In a report by the Civil Aviation Authority of Nepal, the helicopter has lost contact with the helicopter within three minutes of departure.
-
-Officials said a pilot in the helicopter and 4 passengers from China were traveling.
-
-Two weeks ago, a passenger plane crashed from Kathmandu airport and 18 people were killed and a pilot injured.
-
-◼️
-
-[Data](articles/81aa94c3.json)
-
-[Extended Data](ext_articles/81aa94c3.ext.json)
-
----
-
-### Another Ministry gazested on Ranil
-
-*2024-08-08 09:04:45* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-යටතට-තවත්-අමාත්‍යාංශයක්-ගැසට්-කරයි/11-411257) · `si`
-
-President Ranil Wickremesinghe issued a special gazette notification under the Ministry of Justice, Prison and Constitutional Reforms, following the resignation of Minister Wijayadasa Rajapaksa. This move came after prompting the Prime Minister, creating a vacancy in the Minister of Justice position.
-
-🟩
-
-President Ranil Wickremesinghe has issued a special gazette notification under the Ministry of Justice, Prison and Constitutional Reforms.
-
-The decision was stated in the gazette notification after prompting the Prime Minister.
-
-The Minister of Wijayadasa has been resigned from the post of Minister Wijayadasa Rajapaksa, who was present at the post of service and had a vacancy of the Minister of Justice.
-
-◼️
-
-[Data](articles/5836a59a.json)
-
-[Extended Data](ext_articles/5836a59a.ext.json)
-
----
-
-### One person killed in rifle
-
-*2024-08-08 08:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-இயங்கியதில்-ஒருவர்-பலி/175-341782) · `ta`
-
-In a gunfight near Seetuwa-Kotugoda, one person was killed and another injured when they attempted to disarm a police officer at a checkpoint. The injured party succumbed to their injuries at Negombo Hospital.
-
-🟩
-
-One person was killed in a gunfight of a police officer in the Seetuwa - Kotugoda area this morning.
-
-Police said that the car was operating when the car was checked at the Kottukoda police checkpoint when the car was trying to snatch the gun of the police officer.
-
-A man who was traveling in the car was injured and died after being admitted to the Negombo Hospital.
-
-◼️
-
-[Data](articles/4ddf0a4d.json)
-
-[Extended Data](ext_articles/4ddf0a4d.ext.json)
-
----
-
-### One killed in a gunPolice sergeant injured
-
-*2024-08-08 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/190545) · `ta`
-
-A gunman attacked a police checkpoint in Sri Lanka, killing one and injuring a sergeant. The incident occurred when officers attempted to search a vehicle; the suspect tried to grab a sergeant's gun, causing it to fire and kill him.
-
-🟩
-
-Police have been injured in a gunman at the Kottukoda road checkpoint, which belongs to the Seetuwa police division and has been injured and a person has died, police said.
-
-The incident took place when the police officers from the Seeduwa police station tried to check the car from the Seeduwa area, police said.
-
-Police said that a man who was sitting on the left seat of the car tried to snatch the gun of the police sergeant when the gun exploded, and the man who had tried to snatch a man who was trying to snatch.
-
-The 38 -year -old man from Pookoda, who was traveling in a car, died without treatment.
-
-◼️
-
-[Data](articles/009aa3e1.json)
-
-[Extended Data](ext_articles/009aa3e1.ext.json)
-
----
-
-### Grama Niladhari officers to launch two-day trade union action
-
-*2024-08-08 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101072/grama-niladhari-officers-to-launch-two-day-trade-union-action) · `en`
-
-The All-Island Grama Niladhari Officers’ Association has announced a two-day trade union action to protest the arbitrary gazetting of the Grama Niladhari Service Constitution.
-
-The association’s General Secretary, Jagath Chandralal, stated that officers will withdraw from their service duties on Monday and Tuesday.
-
-However, he assured that this action will not interfere with election activities.
-
-◼️
-
-[Data](articles/3aa732b0.json)
-
-[Extended Data](ext_articles/3aa732b0.ext.json)
-
----
-
-### 2 Final Notification to Secretaries of Ministries
-
-*2024-08-08 08:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-அமைச்சுக்களின்-செயலாளர்களுக்கு-இறுதி-அறிவித்தல்/175-341781) · `ta`
-
-A final notice has been sent to two ministry secretaries over misuse of state assets. The Commissioner General of Elections, RMAL, has requested the Elections Commission to probe these allegations. This action came after election monitors were summoned to the Election Commission yesterday.
-
-🟩
-
-A final notification has been issued against the secretaries of 2 ministries regarding the improper use of state assets.
-
-The Commissioner General of Elections RMAL has called for the Elections Commission to investigate issues regarding the misuse of state assets.. Ratnayake said.
-
-This was revealed when the election monitors were summoned to the Election Commission yesterday. (A)
-
-◼️
-
-[Data](articles/0a97e9ce.json)
-
-[Extended Data](ext_articles/0a97e9ce.ext.json)
-
----
-
-### A stock of gold meets with lagoon
-
-*2024-08-08 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199693) · `si`
-
-The Navy discovered 740 kg of gold in a Dingi vessel near Kalpitiya, suspecting it was being smuggled. The find came from a search operation led by the Sri Lanka Naval Ship Wijaya, based on a tip-off. It's believed the smugglers couldn't reach the lagoon with the gold due to security measures. Further investigation has been handed over to the Customs Prevention Office.
-
-🟩
-
-The Navy has taken a 740-kilo of gold, suspicious that he was dumped in the Thousands of Kalpitiya.
-
-The Navy has taken a Dingi vessel and the Dingi vessel suspected to transport the package.
-
-The gold consignment was found at a search operation conducted by the Sri Lanka Naval Ship Wijaya on a tip off received by the North Western Naval Command.
-
-The navy suspicles that the racketeers cannot be taken to the lagoon in the face of carrying the gold package.
-
-It is said that steps have been handed over to the Customs Prevention Office to conduct further investigations into the stock of gold.
-
-◼️
-
-[Data](articles/d978c7a6.json)
-
-[Extended Data](ext_articles/d978c7a6.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-08-08 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101071/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places in Eastern, Uva and Northern provinces, it said.
-
-The general eneral public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/72291411.json)
-
-[Extended Data](ext_articles/72291411.ext.json)
-
----
-
-### Problems regarding the sleep of children of Sri Lanka
-
-*2024-08-08 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199692) · `si`
-
-Dr. Inoka Wickremasinghe highlights sleep issues among Sri Lankan children, with limited research showing 25% face sleep problems. The World Health Organization recommends varying hours based on age, emphasizing the importance of adequate sleep for mental and physical health.
-
-🟩
-
-Health Education Specialist Dr. Inoka Wickremasinghe says there are problems with sleep related problems in this country.
-
-She shows that limited research has been revealed that this has been revealed.
-
-Specialist Dr. Inoka Wickremasinghe said that children would have a good sleep to make a good sleep.
-
-"One of the children in Sri Lanka has not done so much more different research in sleep, but the limited data found that 25% of children have problems among children. Also, adolescents have had the impact on the sleep, and even the limited data found in Sri Lanka that there are some problems in the sleep of the elderly and young people. Especially as a deep memory of school children should have a good night's sleep. It should be used to sleep with punching. "
-
-Meanwhile, the World Health Organization has recommended the recommendations of the number of hours due to each age group.
-
-...
-
-[Data](articles/e40d9e5c.json)
-
-[Extended Data](ext_articles/e40d9e5c.ext.json)
 
 ---

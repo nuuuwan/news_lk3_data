@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 09:21:50**
+As of **2024-08-08 09:36:22**
 
 ## Newspaper Stats
 
-*Scraped **39,579** Articles*
+*Scraped **39,583** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 340
+dbsjeyarajcom | 341
 newsfirstlk | 363
 bbccomsinhala | 372
 colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
-adalk | 3,634
-adaderanalk | 4,595
+adalk | 3,635
+adaderanalk | 4,596
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,976
+tamilmirrorlk | 4,977
 virakesarilk | 6,252
 adaderanasinhalalk | 6,705
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 6,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,579 (100.0%) of 39,579 articles have been extended.
+39,579 (100.0%) of 39,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### நல்லூர் ஆலய சுற்றுவீதிகளில் போக்குவரத்து தடை
+
+*2024-08-08 09:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூர்-ஆலய-சுற்றுவீதிகளில்-போக்குவரத்து-தடை/71-341783) · `ta`
+
+நல்லூர் கந்தசுவாமி கோவில் வருடாந்த மகோற்சவ பெருவிழாவை முன்னிட்டு இன்று (08) காலையில் இருந்து நல்லூர் ஆலய சுற்றுவீதிகளில் போக்குவரத்து தடை செய்யப்படவுள்ளது.
+
+குறித்த வீதித் தடை செப்டம்பர் 4 ஆம் திகதி மாலை வைரவர் சாந்தி நிறைவடைந்த பின்னரே திறந்து விடப்படும்.
+
+வீதி மூடப்பட்டிருக்கும் சமயங்களில் பருத்தித்துறை வீதி வழியாக வரும் வாகனங்கள் யாழ் மாநகர சபைக்கு முன்பாக உள்ள வீதியால் பயணித்து யாழ் நகரை அடைய முடியும்.
+
+என்பதுடன் இரதோற்சவம் மற்றும் சப்பர திருவிழாக்களின் போது கச்சேரி நல்லூர் வீதியாலேயே பயணிக்க முடியும் என்பதும் குறிப்பிடத்தக்கது.
+
+யாழ். மாநகர ஆணையாளர் என்.கிருஷ்ணேந்திரன், யாழ்ப்பாண மாவட்ட பிரதிப் பொலிஸ் மா அதிபர் காளிங்க ஜெயசிங்க உள்ளிட்ட பொலிஸ் அதிகாரிகள், மாநகர சபை அதிகாரிகள் இதன்போது கலந்து கொண்டனர். R
+
+◼️
+
+[Data](articles/2b0771cf.json)
+
+---
+
+### 2024 Presidential Election: 22 candidates place deposits so far
+
+*2024-08-08 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101073/2024-presidential-election-22-candidates-place-deposits-so-far) · `en`
+
+The number of candidates who have placed deposits thus far in order to contest the 2024 Presidential Election has increased to 22.
+
+Accordingly, the Election Commission stated that 11 recognized political parties have deposited bonds with the Election Commission thus far.
+
+The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited until 12 noon on August 14, the day before the calling of nominations for the election.
+
+The Election Commission of Sri Lanka had issued a Gazette on July 26 declaring that the 2024 Presidential Election will be held on the 21st September 2024 and that nominations will be accepted on 15 August 2024.
+
+Meanwhile, Ven. Omalpe Sobhitha Thero has emphasized the importance of voter education by the Election Commission to prevent invalid votes in the upcoming presidential election.
+
+He points out that otherwise many votes will be invalidated in the upcoming elections.
+
+◼️
+
+[Data](articles/cd1d5af0.json)
+
+---
 
 ### One person killed in rifle
 
@@ -974,6 +1016,20 @@ Ranil's fame today that Ranil Wickremesinghe will not sleep until he sends Ranil
 
 ### 2024-08-07 (Wednesday)
 
+### 
+
+*2024-08-07 23:48:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84501) · `en`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்தவார  முற்பகுதியில் ராஜபக்சாக்களினால் கொடுமையான முறையில் ஏமாற்றப்பட்டார். எதிர்வரும் ஜனாதிபதி தேர்தலில் மெதமுலான குடும்பம் தலைமையிலான’ தாமரை மொட்டு ‘ கட்சி  விக்கிரமசிங்கவுக்கு பின்னால் உறுதியாக நிற்கும் என்று அவருக்கு பொய்யான உறுதிமொழிகள் வழங்கப்பட்டன.நாமல் ராஜபக்சவினால் தெரிவிக்கப்பட்ட மாறுபாடான கருத்தை பொருட்படுத்தத் தேவையில்லை என்றும் கூறப்பட்டது.
+
+பொதுஜன பெரமுன ஜனாதிபதி தேர்தலில் ரணிலை ஆதரிப்பதில்லை என்று முடிவெடுத்திருக்கிறது. ராஜபக்சாக்கள் அவரின் முதுகில் குத்திவிட்டார்கள். விக்கிரமசிங்கவை ஆதரிப்பதா இல்லையா என்று தீர்மானிப்பது பொதுஜன பெரமுனவைப் பொறுத்தது. அது கட்சியின் தெரிவுக்குரியது.  இந்த விவகாரத்தில் ராஜபக்சாக்கள் ( நாமலைத் தவிர ) நடந்துகொண்ட முறை மிகவும் அருவருக்கத்தக்கதாகும். தன்னை ராஜபக்சாக்கள்  ஆதரிப்பார்கள் என்று ரணிலை நம்பவைத்து ஏமாற்றி  தங்களின்  ஆதரவை முறைப்படி நாடச் செய்தார்கள்.   அதற்குப் பிறகு  அவரை நிராகரித்ததன் மூலம் அவமதிப்புக்குள்ளாக்கிவிட்டார்கள்.
+
+...
+
+[Data](articles/de5cf4d4.json)
+
+---
+
 ### Why AKD-NPP have fallen in the polls, may lose elections
 
 *2024-08-07 23:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-AKD-NPP-have-fallen-in-the-polls-may-lose-elections/4-765259) · `en`
@@ -1377,6 +1433,22 @@ To ensure their safety. Otherwise, it would be difficult to come to the hospital
 [Data](articles/e31614f8.json)
 
 [Extended Data](ext_articles/e31614f8.ext.json)
+
+---
+
+### වසර 27කට පසු ඉන්දියාවට එරෙහිව ශ්‍රී ලංකාවට තරගාවලි ජයක්
+
+*2024-08-07 20:27:56* · [`adalk`](https://www.ada.lk/breaking_news/වසර-27කට-පසු-ඉන්දියාවට-එරෙහිව-ශ්‍රී-ලංකාවට-තරගාවලි-ජයක්/11-411256) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවති තුන්වන හා අවසන් එක්දින ක්‍රිකට් තරගය ලකුනු 110න් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම මිට සුළු මොහොතකට පෙර සමත්විය.
+
+ඒ අනුව තරග තුනකින් සමන්විත එක්දින ක්‍රිකට් තරගාවලිය තරග 2ට බින්දුවක් ලෙස ජයග්‍රහණය කිරීමට සමත් වුණේ ශ්‍රී ලංකාවයි.
+
+ශ්‍රී ලංකා කණ්ඩායම වසර 27ට පසුව ඉන්දියාවට එරෙහිව තරගාවලි ජයක් වාර්තා කිරීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/0fa243d0.json)
 
 ---
 
@@ -2199,97 +2271,5 @@ The artists who played the film are currently talking background. The first look
 [Data](articles/4ac75bb2.json)
 
 [Extended Data](ext_articles/4ac75bb2.ext.json)
-
----
-
-### Benchmarks of Sri Lanka’s IMF agreement cannot be changed: president
-
-*2024-08-07 15:20:00* · [`economynextcom`](https://economynext.com/benchmarks-of-sri-lankas-imf-agreement-cannot-be-changed-president-175860/) · `en`
-
-ECONOMYNEXT — The benchmarks, revenue and expenditure figures agreed to with the International Monetary Fund (IMF) cannot be changed, Sri Lanka President Ranil Wickremesinghe said.
-
-At a Q&A with heads of media organisations held on Wednesday August 07, Wickremesinghe said the IMF has not changed their position on benchmarks agreed to with any country.
-
-“We have entered an agreement with the IMF, and we have to implement it. If we implement it as we go along, there won’t be a problem for Sri Lanka,” he said.
-
-Wickremesinghe was responding to a question about statements made by opposition parties that they would renegotiate the terms of Sri Lanka’s IMF agreement.
-
-“Now others are coming up with various proposals, that they want to change. Then they must tell what they’re going to do. One thing about the IMF is that the benchmarks will not be changed. They have never changed it for any country,” he said.
-
-...
-
-[Data](articles/83a2dd47.json)
-
-[Extended Data](ext_articles/83a2dd47.ext.json)
-
----
-
-### Rauf Hakeem issued a warning case: Immigration and Emigration Controller
-
-*2024-08-07 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190506) · `ta`
-
-Rauf Hakeem, leader of the Sri Lanka Muslim Congress, criticized the government and VFS Global for alleged corruption and money laundering, comparing the scale to the central bank robbery. He mentioned a High Court ruling against the government's actions, including issuing visas through a controversial company without proper authorization. Hakeem threatened legal action if the government failed to comply with the court order and hinted at public discussions on the matter.
-
-🟩
-
-VFS. We have confirmed in the High Court that a hundred times more robbery than the central bank bailout. So the judgment of the High Court is like grinding in the eyes of the government. As well as VFS. Sri Lanka Muslim Congress leader Rauf Hakeem said he was ready to discuss in any electronic media regarding the buying.
-
-He was speaking at the post of adjournment of the House of Commons on Wednesday (07) in Parliament.
-
-The government has initiated money laundering through the VFS Corporation. With this transaction, the government is preparing a hundred times more robbery than the central bank robbery and secretly allowed it in the cabinet.
-
-Since 2012, Mobile has issued a visa for tourists from abroad. For that, Mobile was awarded a certificate.
-
-In this case, as the Mobile Company is taking steps to improve its electronic structure, the Cabinet paper has been submitted to the fake company to issue this visa unbearable.
-
-...
-
-[Data](articles/dc3695c2.json)
-
-[Extended Data](ext_articles/dc3695c2.ext.json)
-
----
-
-### Agarwood, agar oil seized from Sri Lankan passengers at Chennai airport
-
-*2024-08-07 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101062/agarwood-agar-oil-seized-from-sri-lankan-passengers-at-chennai-airport) · `en`
-
-The Customs Department at the Chennai airport on Tuesday have seized agarwood and agar oil worth around 04 million Indian rupees from two Sri Lankan passengers, Indian media reported.
-
-The officials were conducting a security check for the passengers who had arrived from Colombo in Chennai on Tuesday night when they intercepted two Sri Lankan passengers on suspicion.
-
-The duo, who was visiting Chennai on a tourist visa, appeared nervous and gave evasive replies. When the customs team searched their baggage, they found 20 kg of agarwood and 15 bottles of agar oil in them.
-
-As it is illegal to carry agarwood without proper documentation, the Customs officials seized the contraband items.
-
-The total value of the seized wood and oil is estimated to be at 4 million Indian rupees. Both passengers were arrested and further inquiry is on, according to the report on DTNext.
-
-The aromatic agarwood is highly-prized for its use in the production of high-quality perfumes, particularly in European countries.
-
-◼️
-
-[Data](articles/5c3d7d9e.json)
-
-[Extended Data](ext_articles/5c3d7d9e.ext.json)
-
----
-
-### Sri Lanka to lift vehicle import ban in 2025 in stages: president
-
-*2024-08-07 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lift-vehicle-import-ban-in-2025-in-stages-president-175810/) · `en`
-
-ECONOMYNEXT — Sri Lanka will permit the import of vehicles in 2025 in stages as the country needs the revenue from custom duty, President Ranil Wickremesinghe said.
-
-At a Q&A with heads of media organisations held on Wednesday August 07, Wickremesinghe said Sri Lanka should be in a position to lift the ongoing ban on vehicle imports as the country’s reserves are being built up.
-
-“Next year, we will be allowing the vehicle import by stages because we need the custom duty to make up for revenue. We’re waiting for, I think our reserves are being built up, so it should be in a position to allow the import of vehicles because duties from vehicle imports is a major source of revenue for the government we need for next year,” he said.
-
-State Minister for Finance Ranjith Siyambalapitiya has said that the final decision regarding the lifting of the ban on vehicle imports will be taken in the second week of August.
-
-...
-
-[Data](articles/169e42ab.json)
-
-[Extended Data](ext_articles/169e42ab.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 23:36:33**
+As of **2024-08-08 23:56:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,713 (100.0%) of 39,716 articles have been extended.
+39,716 (100.0%) of 39,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,21 +102,27 @@ The Supreme Court has ordered the respondents to the respondents to the responde
 
 ---
 
-### மொஹமட் யூனுஸ் பங்களாதேஷின் இடைக்கால தலைவராக தெரிவுசெய்யப்பட்டுள்ளார்
+### Mohamed Yunus has been elected as the interim head of Bangladesh
 
 *2024-08-08 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190616) · `ta`
 
-மாணவர் போராட்டத் தலைவர்களின் முக்கிய கோரிக்கையை நிறைவேற்றும் வகையில், இடைக்கால அரசாங்கத்தை வழிநடத்த, ஜனாதிபதி முகமது ஷஹாபுதீனால் யூனுஸ் தேர்ந்தெடுக்கப்பட்டுள்ளார்.
+Mohamed Yunus, a Nobel laureate, has been appointed as the interim leader of Bangladesh following the resignation of Prime Minister Sheikh Hasina amidst a popular uprising. He was elected by President Mohammed Shahabuddin to lead the interim government, tasked with addressing the demands of student protest leaders.
 
-பங்களாதேஷின் இடைக்கால அரசாங்கத்தின் தலைவராக நோபல் பரிசு பெற்ற முகமது யூனுஸ் பதவியேற்றுள்ளார்.
+🟩
 
-மக்கள் போராட்டம் காரணமாக பங்களாதேஷ் பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்து அந்நாட்டை விட்டே வெளியேறியுள்ள நிலையிலேயே, மொஹமட் யூனுஸ், பங்களாதேஷின் இடைகால தலைவராக பதவியேற்றுள்ளார்.
+Yunus has been elected by President Mohammed Shahabuddin to guide the interim government to meet the main demand of the student struggle leaders.
 
-பதவியை ராஜினாமா செய்த முன்னாள் பிரதமர் ஷேக் ஹசீனா, தற்போது இந்தியாவில் அடைக்கலம் அடைந்துள்ளமை குறிப்பிடத்தக்கது.
+Nobel laureate Mohammed Yunus has been sworn in as the head of the interim government in Bangladesh.
+
+Mohamed Yunus has been appointed as the interim leader of Bangladesh as Bangladesh Prime Minister Sheikh Hasina has resigned from his post due to the popular struggle.
+
+Former Prime Minister Sheikh Hasina, who resigned from the post, is currently in refuge in India.
 
 ◼️
 
 [Data](articles/4839b913.json)
+
+[Extended Data](ext_articles/4839b913.ext.json)
 
 ---
 
@@ -248,19 +254,27 @@ On May 1st last year, the current President Ranil Wickremesinghe, Minister Manus
 
 ---
 
-### ரயில் பாதை புனரமைப்பு திட்டத்தின் நஷ்டஈடாக  இந்திய நிறுவனம் இலங்கை அரசாங்கத்துக்காக செலுத்தவேண்டிய 9,20000 டொலரை மோசடி செய்ய திட்டம் - முஜிபுர்
+### Indian Company is planning to defraud $ 9,20000 for the Sri Lankan government as a compensation of the Railway Reconstruction Scheme - Mujibur
 
 *2024-08-08 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190575) · `ta`
 
-அநுராதபுரத்தில் இருந்து வவுனியா வரையும் மற்றும் மாஹோவில் இருந்து அனுராதபுரம் வரையிலும் ரயில் பாதை புனரமைப்பு திட்டத்தை மேற்கொண்ட இந்திய நிறுவனத்தின் வேலை தாமதத்துக்காக 9 இலட்சத்து 20 ஆயிரம் டொலர்களை இலங்கை அரசாங்கத்திற்கு நஷ்ட ஈடாக செலுத்த வேண்டி இருக்கிறது. என்றாலும் அந்த நஷ்ட ஈட்டை வேறு டீல் ஊடாக  தமது பைக்குள் போட்டுக்கொள்ள சிலர் முயற்சிக்கின்றனர் என  முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+An Indian firm faces accusations of fraudulently attempting to reduce a $92,020 compensation payment owed to the Sri Lankan government for delayed railway reconstruction projects. The company, which failed to complete the projects on time, owes $360,000 for one project and potentially $560,000 for another, totaling $920,000. The delay led to the removal of the project director and a ministry secretary amid corruption concerns.
 
-பாராளுமன்றத்தில் நேற்று புதன்கிழமை  (07) இடம்பெற்ற அரையாண்டின் அரசிரை நிலைப்பாட்டு அறிக்கை மீதான சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-அநுராதபுரத்தில் இருந்து வவுனியாவுக்கும் மற்றும் மஹோவில் இருந்து அநுராதபுரம் வரையிலும் போடப்படும் ரயில் பாதை திட்டத்தில்  91 மில்லியன் டொலர் செலவாகிறது. அதாவது 28ஆயிரம் மில்லியன் ரூபா செலவாகிறது.
+The Indian Company, which has carried out a railway renovation project from Anuradhapura to Vavuniya and Mahoil to Anuradhapura, has to pay $ 9 lakhs 20 thousand $ 20,000 to the Government of Sri Lanka.. Mujibur Rahman, however, said that some people are trying to put the compensation in their bag through a different deal.
+
+He was speaking at the debate on the postponement of the House of Commons on Wednesday (07) in Parliament.
+
+It costs $ 91 million from Anuradhapura to Vavuniya and from Mahoil to Anuradhapura. That means costing 28 thousand million rupees.
+
+The condition is that if the program is not completed within the day mentioned, you will have to pay the Railway Department for $ 10 thousand per day.. This is mentioned in the agreement.
 
 ...
 
 [Data](articles/16c9aa89.json)
+
+[Extended Data](ext_articles/16c9aa89.ext.json)
 
 ---
 
@@ -292,21 +306,29 @@ Thus, when they take a medical degree abroad and visit the country, they do not 
 
 ---
 
-### மன்னார் இளம் தாய் சிந்துஜாவின் மரணம் : முறையான விசாரணைகள் முன்னெடுக்கப்படும் - சுகாதாரத்துறை அமைச்சர்
+### The death of Mannar young mother Sindhuja: Proper inquiries will be carried out - Minister of Health
 
 *2024-08-08 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190580) · `ta`
 
-மன்னார் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த  இளம் தாய் சிந்துஜாவின் மரணம் தொடர்பில் விசேட கவனம் செலுத்தியுள்ளோம். இந்த  விடயத்தில் ஏதாவது தவறுகள் இடம்பெற்றிருந்தால்  சம்பந்தப்பட்டவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் என சுகாதார அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+Health Minister Ramesh Pathirana assures proper inquiry into the death of young mother Sindhuja at Mannar Hospital, promising disciplinary action if negligence is found. The incident sparks controversy, with a new bill aimed at patient protection introduced.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (08) இடம்பெற்ற மருத்துவ திருத்தச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றிய தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன்,
+🟩
 
-மன்னார் வைத்தியசாலையில் இடம்பெற்ற மரியராஜ் சிந்துஜாவின் மரணம் பாரிய சர்ச்சையை ஏற்படுத்தியுள்ளது.இந்த  மரணம் குறித்து துரிதகரமான விசாரணைகளை முன்னெடுக்க வேண்டும் என்று வலியுறுத்தினார்.
+We have paid special attention to the death of a young mother Sindhuja who was admitted to the Mannar Hospital. Health Minister Ramesh Pathirana said that disciplinary action would be taken against those involved if there were any mistakes in this regard.
 
-இந்த விடயம் தொடர்பில் விசேட அவதானம் செலுத்தப்பட்டு நடவடிக்கை எடுக்கப்படும். இது தொடர்பான விசாரணை அறிக்கையை இதுவரை ஆராயவில்லை. குறித்த விடயத்தில் ஏதாவது தவறுகள் நடந்திருந்தால் அது தொடர்பில் நிச்சயமாக ஒழுக்காற்று நடவடிக்கை எடுப்போம்.
+Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (08), Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan
 
-...
+The death of Mariaraj Sindhuja at the Mannar Hospital has caused a massive controversy.
+
+Special attention will be paid to this issue and action will be taken. The investigation report has not yet been investigated. If there are any mistakes in the matter, we will definitely take disciplinary action.
+
+At the same time, focus on protecting patients in the country. That is why we have put forward a new bill.
+
+◼️
 
 [Data](articles/6b29337b.json)
+
+[Extended Data](ext_articles/6b29337b.ext.json)
 
 ---
 

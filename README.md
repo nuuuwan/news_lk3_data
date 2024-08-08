@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 15:55:07**
+As of **2024-08-08 16:08:09**
 
 ## Newspaper Stats
 
-*Scraped **39,659** Articles*
+*Scraped **39,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,79 +20,151 @@ adaderanalk | 4,607
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,272
-adaderanasinhalalk | 6,723
+adaderanasinhalalk | 6,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,651 (100.0%) of 39,659 articles have been extended.
+39,659 (100.0%) of 39,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### ஜனாதிபதித் தேர்தல் : பன்றி, நாய் சின்னங்கள் பட்டியலில் இருந்து நீக்கம்!
+### ගජමුතු අලෙවි කිරීමට ගිය සිව් දෙනෙක් අත්අඩංගුවට
+
+*2024-08-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199715) · `si`
+
+ගුවන් හමුදා බුද්ධි නිලධාරීන්ට ලද තොරතුරකට අනුව වනජීවී හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් ඒකාබද්ධව සිදුකළ වැටලීමකදී රුපියල් කෝටි පහකට විකිණීමට ගිය ගජමුතු තුනක් සමග තරුණයින් සිව් දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම අත්අඩංගුවට ගත් පුද්ගලයින් පුත්තලම, බෝධීරාජපුර, අට්ටවිල්ලුව හා වනාතවිල්ලුව ප්‍රදේශවල පදිංචිකරුවන් වන අතර, ඔවුන් අවුරුදු 24, 32, 40 යන වයස් සීමාවල පසුවන්නන් බවට හඳුනාගෙන ඇත.
+
+ගුවන් හමුදා උපායදූතයින් යොදවා අදාළ ගජමුතු මිලදී ගන්නා මුවාවෙන් මෙම ජාවාරම හසුකරගැනීමට එම නිලධාරීන් සමත්ව තිබුණි.
+
+අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු විදේශ රටවලින් රුපලාවන්‍ය උපකරණ ආනයනය කරනු ලබන්නෙකි.
+
+ඔහුට මෙම ගජමුතු ලබාදී ඇත්තේ වනාතවිල්ලුවේ සිටින ඥාතියෙකු වන බවත්, ඔහු උපදෙස් දී ඇත්තේ අදාළ ගජමුතු රුපියල් කෝටි පහකට අලෙවි කර,  ඔහුට කෝටි දෙකක් ලබා දී ඉතිරි මුදල් බෙදා ගන්නා ලෙස බව එම පුද්ගලයා පවසා තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සිව් දෙනා පුත්තලම අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/ac2d268a.json)
+
+---
+
+### නායකත්වය භාරගන්න යූනුස් පැමිණෙයි
+
+*2024-08-08 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199714) · `si`
+
+බංග්ලාදේශයේ අන්තර්වාර පාලනය භාර ගැනීම සඳහා නොබෙල් ත්‍යාගලාභී මුහම්මද් යූනුස් එරටට පැමිණ තිබේ.
+
+එරට ට පැමිණීමෙන් පසු යූනුස් පවසා ඇත්තේ බංග්ලාදේශයේ බොහෝ දේ කිරීමට ඇති බවයි.
+
+ප්‍රංශයේ සිට පැමිණි 84 හැවිරිදි යූනුස්, බංග්ලාදේශයේ අන්තර්වාර පාලනයේ ප්‍රධානියා ලෙස දිවුරුම් දීමට නියමිතය.
+
+බංග්ලාදේශයේ අගමැති ලෙස වසර 15ක් කටයුතු කළ ෂෙයික් හසීනා ජනතා විරෝධය හේතුවෙන් තනතුරෙන් අස්වී රටින් පළා ගියාය.
+
+◼️
+
+[Data](articles/23a21bf3.json)
+
+---
+
+### Presidential Election: Removal from the list of pig and dog symbols!
 
 *2024-08-08 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190579) · `ta`
 
-சுயேட்சையான ஜனாதிபதி வேட்பாளர்களுக்கு ஒதுக்கப்படும் சின்னங்களின் பட்டியலில், தர்மசங்கடத்தை ஏற்படுத்தக்கூடிய மற்றும் மத உணர்வைப் புண்படுத்தும் சின்னங்களை தேர்தல் ஆணைக்குழு நீக்கியுள்ளது.
+The Election Commission removed pig and dog symbols from the list of symbols for independent presidential candidates due to concerns over causing embarrassment and offending religious sentiments.
+
+🟩
+
+In the list of symbols assigned to independent presidential candidates, the Election Commission has eliminated the symbols of embarrassment and hurting religious sentiment.
 
 ◼️
 
 [Data](articles/2647c1d9.json)
 
+[Extended Data](ext_articles/2647c1d9.ext.json)
+
 ---
 
-### වාස් සහ පුතා ට තවත් දඬුවමක්
+### Vaas and son is another punishment
 
 *2024-08-08 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199713) · `si`
 
-මේ වනවිට මරණීය දණ්ඩනය නියමවී සිටින හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන මහතාට කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් බරපතළ වැඩසහිත වසර 04ක සිරදඬුවම් නියම කර තිබේ.
+Colombo High Court sentenced Judge Amal Ranaraja and others, including Vas Gunawardena's son, Ravindu, and two police officers, to four years in prison and fined them Rs. 82,000 for kidnapping and assaulting a youth, Nippin Ramanayake, in 2009. The court highlighted the responsibility of law enforcement to maintain public safety, criticizing their actions.
+
+🟩
+
+The Colombo High Court Judge Amal Ranaraja has been sentenced to four years in prison by the Colombo High Court Judge Amal Ranaraja.
 
 ඊට අමතරව වාස් ගුණවර්ධන මහතාට රුපියල් 20,000ක දඩයක් ද විනිසුරුවරයා නියම කළේය.
 
-ඊටත් අමතරව පැහැරගෙන යාම, අයුතු සිරකර තැබීම සහ සුළු තුවාල කිරීමේ චෝදනාවන් 4කට වරදකරුවන් කරනු ලැබූ වාස් ගුණවර්ධන මහතාගේ පුත් රවිඳු ගුණවර්ධන සහ කොළඹ අපරාධ කොට්ඨාසයේ සේවය කළ තවත් පොලිස් නිලධාරීන් දෙදෙනෙකුට වසර 16ක් බැගින් බරපතළ වැඩසහිත සිරදඬුවම් නියම කළ මහාධිකරණ විනිසුරුවරයා එම සිරදඬුවම් වසර 04 කින් ගෙවා අවසන් විය යුතු බවත් නියෝග කර තිබේ.
+In addition, the High Court Judge, Ravindu Gunawardena, son of Vass Gunawardena and two other police officers who were served in the Colombo Crimes Division, was passed in four years.Have ordered that they should be.
 
-එම විත්තිකරුවන්ට තිදෙනාට රුපියල් 82,000ක් බැගින් දඩ මුදල් ද නියම කෙරිණි.
+The three accused were also paid a fine of Rs. 82,000.
 
-ඒ, 2009  වසරේ මාලඹේ තොරතුරු තාක්ෂණ විද්‍යාලයේ ඉගෙනුම ලැබූ නිපුණ රාමනායක නමැති තරුණයෙකු පැහැරගෙන ගොස් කොළඹ අපරාධ කොට්ඨාසයේ අයුතු ලෙස සිරකර තැබීමේ චෝදනාවට වරදකරුවන් කරමිනි.
+A youth named Nippin Ramanayake, who was studying at the Malabe Information Technology College in 2009, were found guilty of prison in the Colombo Crimes Division.
+
+The High Court Judge has ordered the grandchildren who were serving at the Colombo Crimes Division, who was serving in the Colombo Crimes Division for fake notes on the incident.
+
+The Court ruled former DIG Vass Gunawardena's wife, who was nominated as the other defendants in this case.
 
 ...
 
 [Data](articles/1a1d6fb6.json)
 
+[Extended Data](ext_articles/1a1d6fb6.ext.json)
+
 ---
 
-### ஜப்பானில் சுனாமி எச்சரிக்கை
+### Tsunami warning in Japan
 
 *2024-08-08 15:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-சுனாமி-எச்சரிக்கை/50-341812) · `ta`
 
-ஜப்பானின் பல பகுதிகளில் வியாழக்கிழமை (ஆக.08) அடுத்தடுத்து சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டது. ரிக்டர் அளவில் 7.1 ஆக பதிவான நிலநடுக்கத்தை அடுத்து சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+A magnitude 7.1 earthquake hit near Miyazaki, Japan, triggering a tsunami warning across several regions including Miyazaki, Kochi, Oita, Kagoshima, and Ehime. The quake was also felt in Okushu and Shikoku islands. Authorities are monitoring the situation closely.
 
-மியாசாகி கடற்கரையில் இருந்து 20 மைல் தொலைவில் இந்த நிலநடுக்கம் ஏற்பட்டதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது. அதேநேரம், ஜப்பானின் நிலநடுக்க கண்காணிப்பு நிறுவனமான NERV வெளியிட்டுள்ள தகவலில், இந்த நிலநடுக்கம் ஹியுகா - நாடா கடலில் பதிவாகியுள்ளதாக சொல்லப்படுகிறது.
+🟩
 
-ரிக்டர் அளவில் 7.1 என்று சக்திவாய்ந்த நிலநடுக்கமாக உணரப்பட்டதால் ஜப்பானின் பல பிராந்தியங்களுக்கு சுனாமி எச்சரிக்கை விடுத்துள்ளது அந்நாட்டு அரசு. மியாசாகி மாகாணத்தில் உள்ள கடலில் நிலநடுக்கம் காரணமாக சுமார் 1 மீட்டர் உயரத்துக்கு அலைகள் எழுந்ததாக கூறப்படுகின்றன.இதனையடுத்து மியாசாகி, கொச்சி, ஒய்டா, ககோஷிமா, எஹிம் போன்ற மாகாணங்களுக்கு சுனாமி எச்சரிக்கை விடுத்துள்ளது ஜப்பான் அரசு.
+A powerful earthquake struck in many parts of Japan on Thursday (Aug. 08). A tsunami warning has been issued following the magnitude 7.1 earthquake.
 
-...
+The earthquake struck 20 miles from Miyazaki coast, the US Geological Survey said. At the same time, Japan's earthquake surveillance company NERV has reported that the earthquake has been reported in the Huga -tape sea.
+
+Tsunami warned to many regions of Japan as it was felt as a powerful earthquake at 7.1 on the Richter scale.. The tsunami government has issued a tsunami warning to provinces such as Miyazaki, Kochi, Oida, Kagosima and Ehim.
+
+Meanwhile, Japanese officials have said that the Islands of Quushu and Shikoku are afraid of the earthquake and are watching the situation.
+
+◼️
 
 [Data](articles/1218f38c.json)
 
+[Extended Data](ext_articles/1218f38c.ext.json)
+
 ---
 
-### "காஸா சிறுவர் நிதியத்திற்கு"  கிடைத்த மேலும் 05 இலட்சத்து 90 ஆயிரம்  அமெரிக்க டொலர்கள் உத்தியோகபூர்வமாக பலஸ்தீன அரசாங்கத்திடம் கையளிப்பு
+### The "Gaza Children's Fund" is also officially handed over to the Palestinian government for $ 05 lakh 90 thousand
 
 *2024-08-08 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190582) · `ta`
 
-காஸாவில் இடம்பெறும் யுத்த நிலைமை காரணமாக இடம்பெயர்ந்த சிறுவர்களின் அடிப்படைத் தேவைகளை பூர்த்தி செய்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக் கருவின்படி ஸ்தாபிக்கப்பட்ட "காஸா சிறுவர் நிதியத்திற்கு" மேலும் ஐந்து இலட்சத்து  தொண்ணூறு ஆயிரம் (590,000/-) அமெரிக்க டொலர்கள் கிடைத்துள்ளன.
+The "Gaza Children's Fund," initiated by President Ranil Wickremesinghe, received $590,000 to aid displaced children from Gaza. This donation was officially handed over to the Palestinian government at a ceremony led by President Wickremesinghe. The fund aims to address the basic needs of children affected by the war in Gaza, with contributions from various sources including ministries, state agencies, businesses, organizations, and the public.
 
-இந்தத் தொகையை பலஸ்தீன அரசாங்கத்திடம் உத்தியோகபூர்வமாக கையளிக்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் நேற்று (07) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+🟩
 
-இது தொடர்பான உத்தியோகபூர்வ ஆவணங்களை இலங்கைக்கான பலஸ்தீன தூதுவர் கலாநிதி சுஹைர் எம்.எச். ஸைத்  (H.E.Dr.Zuhair M H Dar Zaid) மற்றும், ஐக்கிய நாடுகள் சபைக்கான  நிவாரணப் பணி முகவர் நிறுவனத்தின்  (UNRWA) இலங்கைக்கான  நிரந்தர வதிவிடப் பிரதிநிதி அசூசா குபோட்டா (Azusa Kubota) ஆகியோரிடம் ஜனாதிபதி கையளித்தார்.
+The "Gaza Children's Fund", which was established by President Ranil Wickremesinghe, has received a further five hundred and ninety thousand (590,000/-) to meet the basic needs of the displaced children due to the war in Gaza.
+
+The event was officially handed over to the Palestinian government at the Presidential Office headed by President Ranil Wickremesinghe yesterday (07).
+
+Palestinian Ambassador to Sri Lanka, Dr. Suhair MH. The President has handed over to the H.E.Dr.zuhair M H Dar Zaid and the United Nations Relief Services Agency (UNRWA), Permanent Resident Representative to Sri Lanka, Azusa Kubota.
+
+At a Cabinet meeting held on March 04, 2024, the Cabinet approved the Cabinet's Cabinet on the issue of US $ 1 million to meet the essential expenses of about one million children trapped in Gaza due to the war situation.
 
 ...
 
 [Data](articles/02d395ee.json)
+
+[Extended Data](ext_articles/02d395ee.ext.json)
 
 ---
 
@@ -230,47 +302,67 @@ On Tuesday, four people were killed when a mob burnt down the residence of MP Sh
 
 ---
 
-### மட்டு. கிரான் பகுதியில் கிளைமோர் ரக வெடிபொருள் மீட்பு !
+### Bore. Climore explosive recovery in Gran area
 
 *2024-08-08 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190568) · `ta`
 
-மட்டக்களப்பு கிரான் புலிபாய்ந்த கல் வீதியில் ஓரமாக கிடந்த கிளைமோர் ரக வெடிப் பொருளை சந்திவெளி பொலிஸார் இன்று வியாழக்கிழமை (8) காலை  மீட்டுள்ளதாக தெரிவித்தனர்.
+Climore police station near Batticaloa was recovered after an explosive discovery. The site, possibly abandoned by the LTTE post-war, required assistance from a bomb-disposal unit for safe removal.
 
-மர்மப் வெடிப் பொருளொன்று வீதியின் ஓரத்திலுள்ள புற்தரையில் கிடப்பதை  கண்டு பொலிஸாருக்கு பொதுமக்கள் வழங்கிய தகவலை அடுத்து சம்பவ இடத்திற்கு சென்ற சந்திவெளி பொலிஸார் அதனை மீட்கும் பணியில் ஈடுபட்டிருந்தனர்.
+🟩
 
-குறித்த, வெடிப்பொருளினை அவ்விடத்திலிருந்து  அகற்றுவதற்காக குண்டு செயலிழக்கும் இராணுவப் பிரிவினரின் உதவியை நாடியுள்ளதாகவும் இது கடந்த யுத்த காலத்தில் விடுதலைப் புலிகள் அமைப்பினரால் கைவிடப்பட்டதாக இருக்கலாம் என பொலிஸார்  தெரிவித்தனர்.
+The Climore police station on the Batticaloa Gran Pulipan Stone Road has been recovered this morning (8).
+
+After the public information provided to the police, the police were involved in the recovery of the mysterious explosion.
+
+Police said the police said that it may have been abandoned by the LTTE during the last war, seeking the help of the bomb -free military unit to remove the explosion.
 
 ◼️
 
 [Data](articles/33542986.json)
 
+[Extended Data](ext_articles/33542986.ext.json)
+
 ---
 
-### ‘அத’ சிந்தனைக்குரிய கேலிச்சித்திரம்
+### That's the thought of the thoughtful caricature
 
 *2024-08-08 14:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத-சிந்தனைக்குரிய-கேலிச்சித்திரம்/175-341809) · `ta`
+
+The phrase "That's the thought of the thoughtful caricature" suggests a deep reflection or consideration behind the creation of a caricature, implying it's not just a simple drawing but carries significant meaning or intention.
+
+🟩
 
 ◼️
 
 [Data](articles/0b6e80fa.json)
 
+[Extended Data](ext_articles/0b6e80fa.ext.json)
+
 ---
 
-### 15 இலட்சம் ரூபாய் பெறுமதியான 24 தேக்க மரக்குற்றிகளை கடத்தி சென்ற இருவர் கைது!
+### Two persons arrested for kidnapping 24 stagnas worth Rs 15 lakhs
 
 *2024-08-08 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190571) · `ta`
 
-யாழ். தென்மராட்சி கொடிகாமம் பொலிஸ் பிரிவிற்குட்பட்ட ஆசைப்பிள்ளை ஏற்றம் பகுதியில் சட்டவிரோதமான முறையில் சூட்சுமமாக மறைத்து கடத்திச் செல்லப்பட்ட மரக்குற்றிகளுடன் டிப்பர் வாகனம் ஒன்றை இன்று வியாழக்கிழமை (08) காலை 9 மணியளவில் கொடிகாமம் பொலிஸார் கைப்பற்றியுள்ளதுடன், இருவரை கைது செய்துள்ளனர்.
+Kodikamam police arrested two for kidnapping 24 valuable saplings worth Rs 15 lakhs. They found the saplings in a hijacked tipper truck, which was stopped due to its suspicious wooden barrier. The suspects, including the driver, will face charges in court tomorrow.
 
-கொடிகாமம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய கொடிகாமம் பொலிஸ் நிலைய பதில் பொறுப்பதிகாரியான பிரதான பொலிஸ் பரிசோதகர் சிவலிங்கம் பிரபாகரன் அவர்களின் தலைமையின்  கீழ் கொடிகாமம் பொலிஸ் நிலைய நிர்வாகப் பிரிவு பொறுப்பதிகாரியான தினேஸ் குணதிலக மற்றும் போக்குவரத்து பிரிவில் கடமையாற்றும் 44209 பொலிஸ் இலக்கமுடைய பொலிஸ் சார்ஜன்ட் தம்பிராஜா தர்மரட்னம் என்போருடன் ஏனைய பொலிஸ் உத்தியோகத்தர்களும் இணைந்து குறித்த கைது நடவடிக்கையினை மேற்கொண்டுள்ளனர்.
+🟩
 
-குறித்த, டிப்பர் வாகனத்தினுள் மரக்குற்றிகள் அடுக்கப்பட்டு அதற்கு மேல் சிறிய கற்கல் ஏற்றப்பட்டு சூட்சுமமான முறையில் கடத்தப்பட்டமை கண்டுபிடிக்கப்பட்டது.
+Yall. The Kodikamam police have seized a tipper vehicle with a wooden barrier that was illegally hijacked in the area of ​​the Kodikamam police division of the Thenmarachchi Kodikamam police division.
 
-சுமார் 15 இலட்சம் ரூபாய் பெறுமதியான 24 தேக்க மரக்குற்றிகளே கடத்திச் செல்லப்பட்டுள்ளதாக பபொலிஸார் தெரிவித்துள்ளனர்.
+According to the confidential information received by the Kodikamam Police, the Chief Inspector of Police Sivalingam Prabhakaran, the Chief Inspector of the Kodikamam Police Station, was accompanied by the police officer in charge of the Kodikamam Police Station Dinesh Gunathilaka and the 44209 Police Sergeant Dharmaratnam.
 
-...
+In the tipper vehicle, the saplings were stacked and a small quantity was mounted on top of it.
+
+According to Publishers, 24 stagnant saplings worth Rs 15 lakhs have been abducted.
+
+Two persons, including the driver, were arrested in the incident and they will be produced before the Chavakachcheri Magistrate's Court tomorrow (09).
+
+◼️
 
 [Data](articles/c36dc375.json)
+
+[Extended Data](ext_articles/c36dc375.ext.json)
 
 ---
 
@@ -320,19 +412,25 @@ Foreign media reports that two suspects have been arrested on suspicion and plan
 
 ---
 
-### களனி, வத்தளை, பியகம ஆகிய பகுதிகளுக்கு நீர் வெட்டு
+### Water Cut to Kelaniya, Wattala and Biyagama
 
 *2024-08-08 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190574) · `ta`
 
-களனி, வத்தளை, பியகம ஆகிய பகுதிகளுக்கு ஞாயிற்றுக்கிழமை (11) 12 மணித்தியாலங்கள் நீர் வெட்டு அமுல்படுத்தப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+A 12-hour water cut is scheduled for Sunday (11) from 9:00 am to 9:00 pm, affecting areas including Pelikoda Urban Council, Ja Ela, Katunayake, Seeduwa, Piyagama, Mahara, Thompa, Ja E, Katana, Minuwangoda, and Gampaha.
 
-அதன்படி, ஞாயிற்றுக்கிழமை (11) காலை 9:00 முதல் இரவு 9:00 மணிவரை நீர் வெட்டு அமுல்படுத்தப்படவுள்ளது.
+🟩
 
-பேலிகொடை  நகர சபைக்குட்பட்ட பகுதிகள், ஜா எல, கட்டுநாயக்க, சீதுவை பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகள், பியகம, மஹர, தொம்பே, ஜா எல, கட்டான, மினுவாங்கொடை  மற்றும் கம்பஹா பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகளுக்கு நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர்வழங்கல் அதிகார சபை தெரிவித்துள்ளது.
+The National Water Supply and Drainage Board has announced that the water cut will be implemented for 12 hours on Sunday (11).
+
+Accordingly, the water cut will be implemented from 9:00 am to 9:00 pm on Sunday (11).
+
+The National Water Supply Authority has said that the areas belonging to the Pelikoda Urban Council, Ja Ela, Katunayake, Seeduwa Divisional Secretariat Divisions, Piyagama, Mahara, Thompa, Ja E, Katana, Minuwangoda and Gampaha Divisional Secretariat Divisions will be implemented.
 
 ◼️
 
 [Data](articles/d91e3700.json)
+
+[Extended Data](ext_articles/d91e3700.ext.json)
 
 ---
 
@@ -2169,47 +2267,5 @@ Former Justice Minister Wijeyadasa Rajapakshe resigned from his portfolio in ord
 [Data](articles/8a9755aa.json)
 
 [Extended Data](ext_articles/8a9755aa.ext.json)
-
----
-
-### Operation ‘Yukthiya’ 2nd phase: 776 more suspects arrested
-
-*2024-08-08 05:53:21* · [`dailyftlk`](https://www.ft.lk/news/Operation-Yukthiya-2nd-phase-776-more-suspects-arrested/56-765274) · `en`
-
-Sri Lanka Police has issued a press release on the anti-drug raids being carried out under the second phase of the “Yukthiya” operation.
-
-According to Sri Lanka Police, a total of 750 male suspects and 26 female suspects were arrested during 780 raids conducted within Tuesday under the second phase of the “Yukthiya” operation.
-
-Accordingly, the statement said that 22 of the arrested suspects will be detained for further investigations, 3 others are being investigated for the possession of illegal assets, and 3 suspects were sent to rehabilitation.
-
-Among the arrestees are 3 suspects who had pending warrant against them for narcotics-related charges and 19 others who had open warrants against them for non-drug-related charges.
-
-The authorities have also seized 326 g of heroin, 183 g of ‘Ice’ (Crystal methamphetamine) and 271 g of cannabis during the operation covering the Western Province.
-
-...
-
-[Data](articles/815c264c.json)
-
-[Extended Data](ext_articles/815c264c.ext.json)
-
----
-
-### Media should become a strong institution to save democracy: BASL ex-Chief
-
-*2024-08-08 05:52:09* · [`dailyftlk`](https://www.ft.lk/news/Media-should-become-a-strong-institution-to-save-democracy-BASL-ex-Chief/56-765273) · `en`
-
-SLPA President Kurulu Koojana Kariyakarawana presents a memento to former BASL President Saliya Peiris, PC, whilst BASL Secretary Attorney Chathura Galhena, SLPA Secretary General Tilak Senanayake, Legal Advisor Attorney Sandun Yapa Karunaratne, and ExCo member Attorney Lakmal Sooriyagoda are also present
-
-Media is an institution that should be strong and independent in order to prevent democracy from dying just like the judiciary, police and independent commissions and see that it is not weakened at any time.
-
-Editorial independence is a practice which all media institutions should follow, former President of BAR Association Sri Lanka (BASL) Saliya Peiris said.
-
-“Media should be a totally independent institution that is strong enough to prevent a gradual death of democracy. Editorial independence is essential in this regard,” Peiris told at senior seminar organised by Sri Lanka Press Association (SLPA) under the title “Role of Media and Law in Sri Lanka’s electoral landscape” on Tuesday.
-
-...
-
-[Data](articles/5464069b.json)
-
-[Extended Data](ext_articles/5464069b.ext.json)
 
 ---

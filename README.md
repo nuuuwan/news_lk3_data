@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 21:55:48**
+As of **2024-08-08 22:09:41**
 
 ## Newspaper Stats
 
-*Scraped **39,709** Articles*
+*Scraped **39,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,97 @@ islandlk | 2,285
 economynextcom | 2,410
 dailyftlk | 2,551
 adalk | 3,645
-adaderanalk | 4,611
+adaderanalk | 4,612
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,994
 virakesarilk | 6,292
-adaderanasinhalalk | 6,735
+adaderanasinhalalk | 6,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,707 (100.0%) of 39,709 articles have been extended.
+39,709 (100.0%) of 39,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
 
-### මුහම්මද් යූනුස් දිවුරුම් දෙයි
+### රන්මල් කොඩිතුවක්කු ගැන විමර්ශනයක්
+
+*2024-08-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199727) · `si`
+
+ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිතුවක්කු ඇතුළු පොලිස් නිලධාරින් පිරිසක් පිළිබඳව විමර්ශනයක් පවත්වා අපරාධ නීතිය යටතේ නඩු පැවරීමට අවශ්‍ය කටයුතු කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (08) නීතිපතිවරයාට නියෝග කළේය.
+
+ඒ, කිසිදු සාධාරණ හේතුවක් නොමැතිව ව්‍යාපාරිකයෙකු අත්අනෝමතික ලෙස අත්අඩංගුවට ගෙන නිරුවත් කොට ලිංගික හිරිහැරවලට භාජනය කර අමානුෂික ආකාරයෙන් පහරදීමේ සිද්ධිය සම්බන්ධයෙනි.
+
+ඒ අනුව ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩිත්තුවක්කු ඇතුළු වගඋත්තරකරුවන්ට එරෙහිව විමර්ශනයක් ආරම්භ කරන ලෙසත් ජාතික පොලිස් කොමිසමට ද ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර ඇත.
+
+ඊට අමතරව මෙම සිද්ධියට අදාළ අපරාධ විමර්ශනය තම පෞද්ගලික අධීක්ෂණය යටතේ සිදු කිරීමට පියවර ගත යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය විසින් බස්නාහිර පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයාට නියෝග කර තිබේ.
+
+...
+
+[Data](articles/bb2754d9.json)
+
+---
+
+### Interim leader Muhammad Yunus takes helm in Bangladesh, to seek peace and prepare elections
+
+*2024-08-08 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101091/-interim-leader-muhammad-yunus-takes-helm-in-bangladesh-to-seek-peace-and-prepare-elections) · `en`
+
+Nobel laureate Muhammad Yunus took the oath of office as head of Bangladesh’s interim government Thursday after an uprising prompted former Prime Minister Sheikh Hasina to step down and flee to India.
+
+The key tasks for Yunus now are restoring peace in Bangladesh and preparing for new elections following weeks of violence in which student activists led an uprising against what was considered Hasina’s increasingly autocratic 15-year rule.
+
+Bangladesh’s figurehead President Mohammed Shahabuddin administered the oath to Yunus for his role as chief advisor, which is the equivalent to a prime minister, in presence of foreign diplomats, civil society members, top businessmen and members of the former opposition party at the presidential palace in Dhaka. No representatives of Hasina’s party were present.
+
+...
+
+[Data](articles/d28284d5.json)
+
+---
+
+### Muhammad Yunas sworn in
 
 *2024-08-08 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199726) · `si`
 
-නොබෙල් ත්‍යාගලාභී මුහම්මද් යූනුස් බංග්ලාදේශයේ අන්තර්වාර පාලනයේ ප්‍රධානියා ලෙස දිවුරුම් දී තිබේ.
+Nobel laureate Muhammad Yunus, 84, sworn in as interim head in Bangladesh after Sheikh Hasina's resignation.
 
-ප්‍රංශයේ සිට බංග්ලාදේශය වෙත පැමිණි 84 හැවිරිදි යූනුස් පවසා තිබුණේ බංග්ලාදේශයේ බොහෝ දේ කිරීමට ඇති බවය.
+🟩
 
-බංග්ලාදේශයේ අගමැති ලෙස වසර 15ක් කටයුතු කළ ෂෙයික් හසීනා ජනතා විරෝධය හේතුවෙන් තනතුරෙන් අස්වී රටින් පළා ගියාය.
+The Nobel Prizest Muhammad Yunus has been sworn in as the head of interim control in Bangladesh.
+
+84-year-old Yunus, who arrived in Bangladesh to Bangladesh, he had to do much in Bangladesh.
+
+Sheikh Haseanna was resigned from the country due to the Prime Minister of Bangladesh.
 
 ◼️
 
 [Data](articles/4f43c36f.json)
 
+[Extended Data](ext_articles/4f43c36f.ext.json)
+
 ---
 
-### පැනලා ගිය ගැහැණු ළමයි 09 දෙනා පොලිස් භාරයට
+### Nine girls who escaped
 
 *2024-08-08 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199725) · `si`
 
-පරිවාස හා ළමාරක්ෂක දෙපාර්තමේන්තුවට අයත් කැප්පෙටිපොළ  රැඳවුම් මධ්‍යස්ථානයකින් අද (08) අලුයම ගැහැණු ළමයින් 09 දෙනෙකු පළාගොස් තිබුණි.
+Nine girls escaped from a Keppetipola detention center, were later arrested by Welimada Police in Nuwara Eliya, and will appear in court tomorrow.
 
-පසුව ඔවුන් නුවරඑළියේ රැඳී සිටියදී වැලිමඩ පොලිසීය විසින් සිය භාරයට ගෙන ඇත.
+🟩
 
-එම ගැහැණු ළමයින් 09 දෙනා හෙට (09) වැලිමඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+Nine girls have fled from a Keppetipola detention center in the Department of Probation and Child Care Department.
+
+Later, they were taken into custody by Welimada Police while they were staying in Nuwara Eliya.
+
+The nine girls are to be produced before the Welimada Magistrate's Court tomorrow (09).
 
 ◼️
 
 [Data](articles/78998cb8.json)
+
+[Extended Data](ext_articles/78998cb8.ext.json)
 
 ---
 
@@ -2305,43 +2351,5 @@ Forest traffic police said that investigations are being carried out in connecti
 [Data](articles/2164e131.json)
 
 [Extended Data](ext_articles/2164e131.ext.json)
-
----
-
-### Here are the people who joined the new UPFA - Ranatunga
-
-*2024-08-08 10:41:53* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-නව-සන්ධානයට-එක්වූ-පිරිස-මෙන්න---රණතුංගත්-ඒ-අතර/11-411261) · `si`
-
-Ranatunga and other MPs from various parties joined the newly formed UPFA at its launch in Colombo's Sugathadasa Stadium, marking a significant political gathering.
-
-🟩
-
-The new UPFA was launched in the Sugathadasa Stadium, Colombo.
-
-A group of MPs representing several supporters have participated in the event.
-
-◼️
-
-[Data](articles/7b7d2952.json)
-
-[Extended Data](ext_articles/7b7d2952.ext.json)
-
----
-
-### Siyam murder: SC confirms death sentences of Vass Gunawardena and others
-
-*2024-08-08 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101076/siyam-murder-sc-confirms-death-sentences-of-vass-gunawardena-and-others) · `en`
-
-The Supreme Court today (08) confirmed the death sentences imposed on former DIG Vass Gunawardena, his son Ravindu Gunawardena, and four others, who were found guilty of abducting and murdering businessman Mohammed Siyam in 2013.
-
-The Supreme Court delivered this verdict while dismissing the appeal petitions filed by Vass Gunawardena and the other defendants seeking their acquittal.
-
-Accordingly, the verdict, delivered after a prolonged trial, upholds the death sentences of the accused, which also include a Sub-Inspector (SI) and three Police Constables (PCs).
-
-◼️
-
-[Data](articles/e539bc94.json)
-
-[Extended Data](ext_articles/e539bc94.ext.json)
 
 ---

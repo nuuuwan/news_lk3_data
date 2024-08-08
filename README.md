@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 19:54:37**
+As of **2024-08-08 20:06:28**
 
 ## Newspaper Stats
 
-*Scraped **39,690** Articles*
+*Scraped **39,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,610
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,992
 virakesarilk | 6,283
-adaderanasinhalalk | 6,730
+adaderanasinhalalk | 6,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,690 (100.0%) of 39,690 articles have been extended.
+39,690 (100.0%) of 39,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ජනපති සටනට එක්වන පිරිස 24ක් දක්වා ඉහළට
+
+*2024-08-08 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199722) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අද (08) දිනයේදී තවත්   අපේක්ෂකයින් දෙදෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+
+ඒ අනුව මැතිවරණ කොමිෂන් සභාව අද නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ මේ දක්වා අපේක්ෂකයින් 24 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/3964e9aa.json)
+
+---
 
 ### Election deposits placed for 24 presidential candidates so far
 
@@ -2309,29 +2323,5 @@ Yall. Municipal Commissioner N. Krishnandran, Jaffna District Deputy Inspector G
 [Data](articles/2b0771cf.json)
 
 [Extended Data](ext_articles/2b0771cf.ext.json)
-
----
-
-### 2024 Presidential Election: 22 candidates place deposits so far
-
-*2024-08-08 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101073/2024-presidential-election-22-candidates-place-deposits-so-far) · `en`
-
-The number of candidates who have placed deposits thus far in order to contest the 2024 Presidential Election has increased to 22.
-
-Accordingly, the Election Commission stated that 11 recognized political parties have deposited bonds with the Election Commission thus far.
-
-The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited until 12 noon on August 14, the day before the calling of nominations for the election.
-
-The Election Commission of Sri Lanka had issued a Gazette on July 26 declaring that the 2024 Presidential Election will be held on the 21st September 2024 and that nominations will be accepted on 15 August 2024.
-
-Meanwhile, Ven. Omalpe Sobhitha Thero has emphasized the importance of voter education by the Election Commission to prevent invalid votes in the upcoming presidential election.
-
-He points out that otherwise many votes will be invalidated in the upcoming elections.
-
-◼️
-
-[Data](articles/cd1d5af0.json)
-
-[Extended Data](ext_articles/cd1d5af0.ext.json)
 
 ---

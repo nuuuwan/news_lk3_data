@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 01:06:04**
+As of **2024-08-09 01:21:10**
 
 ## Newspaper Stats
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-08 23:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தாய்க்காக-பாராளுமன்றத்தில்-ஒலித்த-குரல்/72-341844) · `ta`
 
+Health Minister Ramesh Pathirana announced disciplinary actions may be taken if errors led to the death of Sindhuja, a young mother treated at Mannar Hospital. This follows controversy over her death during a parliamentary debate on the Medical Amendment Bill. The minister assured special attention and action based on the ongoing investigation, emphasizing patient protection through the proposed new bill.
+
+🟩
+
 Health Minister Ramesh Pathirana said that disciplinary action would be taken against those involved if there were any mistakes regarding the death of a young mother Sindhuja, who was admitted to the Mannar Hospital.
 
 Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (08), Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan
@@ -57,6 +61,10 @@ At the same time, focus on protecting patients in the country. That is why we ha
 ### To Ranil's Support for UNP
 
 *2024-08-08 23:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யின்-ஆதரவு-ரணிலுக்கு/175-341843) · `ta`
+
+Vajira Abeywardena announced that the United National Party (UNP) will back Ranil Wickremesinghe in the upcoming presidential election, as decided in today's executive committee meeting.
+
+🟩
 
 Vajira Abeywardena, a party leader and parliamentarian, says the United National Party has decided to support Ranil Wickremesinghe in the upcoming presidential election.
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 15:36:32**
+As of **2024-08-08 15:55:07**
 
 ## Newspaper Stats
 
-*Scraped **39,651** Articles*
+*Scraped **39,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailyftlk | 2,551
 adalk | 3,641
 adaderanalk | 4,607
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,990
-virakesarilk | 6,267
-adaderanasinhalalk | 6,722
+tamilmirrorlk | 4,992
+virakesarilk | 6,272
+adaderanasinhalalk | 6,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,650 (100.0%) of 39,651 articles have been extended.
+39,651 (100.0%) of 39,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### ஜனாதிபதித் தேர்தல் : பன்றி, நாய் சின்னங்கள் பட்டியலில் இருந்து நீக்கம்!
+
+*2024-08-08 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190579) · `ta`
+
+சுயேட்சையான ஜனாதிபதி வேட்பாளர்களுக்கு ஒதுக்கப்படும் சின்னங்களின் பட்டியலில், தர்மசங்கடத்தை ஏற்படுத்தக்கூடிய மற்றும் மத உணர்வைப் புண்படுத்தும் சின்னங்களை தேர்தல் ஆணைக்குழு நீக்கியுள்ளது.
+
+◼️
+
+[Data](articles/2647c1d9.json)
+
+---
+
+### වාස් සහ පුතා ට තවත් දඬුවමක්
+
+*2024-08-08 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199713) · `si`
+
+මේ වනවිට මරණීය දණ්ඩනය නියමවී සිටින හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන මහතාට කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් බරපතළ වැඩසහිත වසර 04ක සිරදඬුවම් නියම කර තිබේ.
+
+ඊට අමතරව වාස් ගුණවර්ධන මහතාට රුපියල් 20,000ක දඩයක් ද විනිසුරුවරයා නියම කළේය.
+
+ඊටත් අමතරව පැහැරගෙන යාම, අයුතු සිරකර තැබීම සහ සුළු තුවාල කිරීමේ චෝදනාවන් 4කට වරදකරුවන් කරනු ලැබූ වාස් ගුණවර්ධන මහතාගේ පුත් රවිඳු ගුණවර්ධන සහ කොළඹ අපරාධ කොට්ඨාසයේ සේවය කළ තවත් පොලිස් නිලධාරීන් දෙදෙනෙකුට වසර 16ක් බැගින් බරපතළ වැඩසහිත සිරදඬුවම් නියම කළ මහාධිකරණ විනිසුරුවරයා එම සිරදඬුවම් වසර 04 කින් ගෙවා අවසන් විය යුතු බවත් නියෝග කර තිබේ.
+
+එම විත්තිකරුවන්ට තිදෙනාට රුපියල් 82,000ක් බැගින් දඩ මුදල් ද නියම කෙරිණි.
+
+ඒ, 2009  වසරේ මාලඹේ තොරතුරු තාක්ෂණ විද්‍යාලයේ ඉගෙනුම ලැබූ නිපුණ රාමනායක නමැති තරුණයෙකු පැහැරගෙන ගොස් කොළඹ අපරාධ කොට්ඨාසයේ අයුතු ලෙස සිරකර තැබීමේ චෝදනාවට වරදකරුවන් කරමිනි.
+
+...
+
+[Data](articles/1a1d6fb6.json)
+
+---
+
+### ஜப்பானில் சுனாமி எச்சரிக்கை
+
+*2024-08-08 15:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-சுனாமி-எச்சரிக்கை/50-341812) · `ta`
+
+ஜப்பானின் பல பகுதிகளில் வியாழக்கிழமை (ஆக.08) அடுத்தடுத்து சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டது. ரிக்டர் அளவில் 7.1 ஆக பதிவான நிலநடுக்கத்தை அடுத்து சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+மியாசாகி கடற்கரையில் இருந்து 20 மைல் தொலைவில் இந்த நிலநடுக்கம் ஏற்பட்டதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது. அதேநேரம், ஜப்பானின் நிலநடுக்க கண்காணிப்பு நிறுவனமான NERV வெளியிட்டுள்ள தகவலில், இந்த நிலநடுக்கம் ஹியுகா - நாடா கடலில் பதிவாகியுள்ளதாக சொல்லப்படுகிறது.
+
+ரிக்டர் அளவில் 7.1 என்று சக்திவாய்ந்த நிலநடுக்கமாக உணரப்பட்டதால் ஜப்பானின் பல பிராந்தியங்களுக்கு சுனாமி எச்சரிக்கை விடுத்துள்ளது அந்நாட்டு அரசு. மியாசாகி மாகாணத்தில் உள்ள கடலில் நிலநடுக்கம் காரணமாக சுமார் 1 மீட்டர் உயரத்துக்கு அலைகள் எழுந்ததாக கூறப்படுகின்றன.இதனையடுத்து மியாசாகி, கொச்சி, ஒய்டா, ககோஷிமா, எஹிம் போன்ற மாகாணங்களுக்கு சுனாமி எச்சரிக்கை விடுத்துள்ளது ஜப்பான் அரசு.
+
+...
+
+[Data](articles/1218f38c.json)
+
+---
+
+### "காஸா சிறுவர் நிதியத்திற்கு"  கிடைத்த மேலும் 05 இலட்சத்து 90 ஆயிரம்  அமெரிக்க டொலர்கள் உத்தியோகபூர்வமாக பலஸ்தீன அரசாங்கத்திடம் கையளிப்பு
+
+*2024-08-08 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190582) · `ta`
+
+காஸாவில் இடம்பெறும் யுத்த நிலைமை காரணமாக இடம்பெயர்ந்த சிறுவர்களின் அடிப்படைத் தேவைகளை பூர்த்தி செய்வதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக் கருவின்படி ஸ்தாபிக்கப்பட்ட "காஸா சிறுவர் நிதியத்திற்கு" மேலும் ஐந்து இலட்சத்து  தொண்ணூறு ஆயிரம் (590,000/-) அமெரிக்க டொலர்கள் கிடைத்துள்ளன.
+
+இந்தத் தொகையை பலஸ்தீன அரசாங்கத்திடம் உத்தியோகபூர்வமாக கையளிக்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் நேற்று (07) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இது தொடர்பான உத்தியோகபூர்வ ஆவணங்களை இலங்கைக்கான பலஸ்தீன தூதுவர் கலாநிதி சுஹைர் எம்.எச். ஸைத்  (H.E.Dr.Zuhair M H Dar Zaid) மற்றும், ஐக்கிய நாடுகள் சபைக்கான  நிவாரணப் பணி முகவர் நிறுவனத்தின்  (UNRWA) இலங்கைக்கான  நிரந்தர வதிவிடப் பிரதிநிதி அசூசா குபோட்டா (Azusa Kubota) ஆகியோரிடம் ஜனாதிபதி கையளித்தார்.
+
+...
+
+[Data](articles/02d395ee.json)
+
+---
 
 ### Powerful earthquake hits off southern Japan; tsunami advisory issued
 
@@ -166,6 +230,50 @@ On Tuesday, four people were killed when a mob burnt down the residence of MP Sh
 
 ---
 
+### மட்டு. கிரான் பகுதியில் கிளைமோர் ரக வெடிபொருள் மீட்பு !
+
+*2024-08-08 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190568) · `ta`
+
+மட்டக்களப்பு கிரான் புலிபாய்ந்த கல் வீதியில் ஓரமாக கிடந்த கிளைமோர் ரக வெடிப் பொருளை சந்திவெளி பொலிஸார் இன்று வியாழக்கிழமை (8) காலை  மீட்டுள்ளதாக தெரிவித்தனர்.
+
+மர்மப் வெடிப் பொருளொன்று வீதியின் ஓரத்திலுள்ள புற்தரையில் கிடப்பதை  கண்டு பொலிஸாருக்கு பொதுமக்கள் வழங்கிய தகவலை அடுத்து சம்பவ இடத்திற்கு சென்ற சந்திவெளி பொலிஸார் அதனை மீட்கும் பணியில் ஈடுபட்டிருந்தனர்.
+
+குறித்த, வெடிப்பொருளினை அவ்விடத்திலிருந்து  அகற்றுவதற்காக குண்டு செயலிழக்கும் இராணுவப் பிரிவினரின் உதவியை நாடியுள்ளதாகவும் இது கடந்த யுத்த காலத்தில் விடுதலைப் புலிகள் அமைப்பினரால் கைவிடப்பட்டதாக இருக்கலாம் என பொலிஸார்  தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/33542986.json)
+
+---
+
+### ‘அத’ சிந்தனைக்குரிய கேலிச்சித்திரம்
+
+*2024-08-08 14:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத-சிந்தனைக்குரிய-கேலிச்சித்திரம்/175-341809) · `ta`
+
+◼️
+
+[Data](articles/0b6e80fa.json)
+
+---
+
+### 15 இலட்சம் ரூபாய் பெறுமதியான 24 தேக்க மரக்குற்றிகளை கடத்தி சென்ற இருவர் கைது!
+
+*2024-08-08 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190571) · `ta`
+
+யாழ். தென்மராட்சி கொடிகாமம் பொலிஸ் பிரிவிற்குட்பட்ட ஆசைப்பிள்ளை ஏற்றம் பகுதியில் சட்டவிரோதமான முறையில் சூட்சுமமாக மறைத்து கடத்திச் செல்லப்பட்ட மரக்குற்றிகளுடன் டிப்பர் வாகனம் ஒன்றை இன்று வியாழக்கிழமை (08) காலை 9 மணியளவில் கொடிகாமம் பொலிஸார் கைப்பற்றியுள்ளதுடன், இருவரை கைது செய்துள்ளனர்.
+
+கொடிகாமம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய கொடிகாமம் பொலிஸ் நிலைய பதில் பொறுப்பதிகாரியான பிரதான பொலிஸ் பரிசோதகர் சிவலிங்கம் பிரபாகரன் அவர்களின் தலைமையின்  கீழ் கொடிகாமம் பொலிஸ் நிலைய நிர்வாகப் பிரிவு பொறுப்பதிகாரியான தினேஸ் குணதிலக மற்றும் போக்குவரத்து பிரிவில் கடமையாற்றும் 44209 பொலிஸ் இலக்கமுடைய பொலிஸ் சார்ஜன்ட் தம்பிராஜா தர்மரட்னம் என்போருடன் ஏனைய பொலிஸ் உத்தியோகத்தர்களும் இணைந்து குறித்த கைது நடவடிக்கையினை மேற்கொண்டுள்ளனர்.
+
+குறித்த, டிப்பர் வாகனத்தினுள் மரக்குற்றிகள் அடுக்கப்பட்டு அதற்கு மேல் சிறிய கற்கல் ஏற்றப்பட்டு சூட்சுமமான முறையில் கடத்தப்பட்டமை கண்டுபிடிக்கப்பட்டது.
+
+சுமார் 15 இலட்சம் ரூபாய் பெறுமதியான 24 தேக்க மரக்குற்றிகளே கடத்திச் செல்லப்பட்டுள்ளதாக பபொலிஸார் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/c36dc375.json)
+
+---
+
 ### Gaza handed over a money received by the fund
 
 *2024-08-08 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199709) · `si`
@@ -209,6 +317,22 @@ Foreign media reports that two suspects have been arrested on suspicion and plan
 [Data](articles/048b6363.json)
 
 [Extended Data](ext_articles/048b6363.ext.json)
+
+---
+
+### களனி, வத்தளை, பியகம ஆகிய பகுதிகளுக்கு நீர் வெட்டு
+
+*2024-08-08 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190574) · `ta`
+
+களனி, வத்தளை, பியகம ஆகிய பகுதிகளுக்கு ஞாயிற்றுக்கிழமை (11) 12 மணித்தியாலங்கள் நீர் வெட்டு அமுல்படுத்தப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+
+அதன்படி, ஞாயிற்றுக்கிழமை (11) காலை 9:00 முதல் இரவு 9:00 மணிவரை நீர் வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+பேலிகொடை  நகர சபைக்குட்பட்ட பகுதிகள், ஜா எல, கட்டுநாயக்க, சீதுவை பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகள், பியகம, மஹர, தொம்பே, ஜா எல, கட்டான, மினுவாங்கொடை  மற்றும் கம்பஹா பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகளுக்கு நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர்வழங்கல் அதிகார சபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d91e3700.json)
 
 ---
 
@@ -478,17 +602,23 @@ The ICC announced that the punishment was effect on September 19, 2023. Accordin
 
 ---
 
-### දෙමළ පක්ෂ නියෝජනය කරන ජනාධිපතිවරණ අපෙක්ෂකයා නම් කරයි
+### The presidential election manager represents Tamil parties
 
 *2024-08-08 12:22:19* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-පක්ෂ-නියෝජනය-කරන-ජනාධිපතිවරණ-අපෙක්ෂකයා-නම්-කරයි/11-411262) · `si`
 
-උතුරු - නැගෙනහිර දෙමළ පක්ෂ සහ සිවිල් සංවිධාන එකතුව නිර්මාණය කළ දෙමළ ජාතික මහා සන්ධානයේ ජනාධිපතිවරණ අපෙක්ෂකයා නම් කර තිබේ.
+The Tamil National Alliance (TNA), representing Tamil parties and civil groups from Northern and Eastern Sri Lanka, has nominated Pashnananthan as its candidate for president.
 
-ඒ අනුව තමිල් අරසු කච්චි හිටපු පාර්ලිමේන්තු මන්ත්‍රී පී.අරියනේද්‍රන් මහතාව නම් කර ඇත.
+🟩
+
+The Presidential General Alliance (TNA) Presidential General Alliance (TNA) has named the TNA, which created Tamil parties and civil organizations of the North and East.
+
+Accordingly, Tamil Arasu Kilageda Kachchi has been named PSPAshanan.
 
 ◼️
 
 [Data](articles/7e16893d.json)
+
+[Extended Data](ext_articles/7e16893d.ext.json)
 
 ---
 
@@ -2081,161 +2211,5 @@ Editorial independence is a practice which all media institutions should follow,
 [Data](articles/5464069b.json)
 
 [Extended Data](ext_articles/5464069b.ext.json)
-
----
-
-### CEAT car radials chosen as original equipment for Hyundai Grand i10 assembled by Abans Auto
-
-*2024-08-08 05:50:13* · [`dailyftlk`](https://www.ft.lk/business/CEAT-car-radials-chosen-as-original-equipment-for-Hyundai-Grand-i10-assembled-by-Abans-Auto/34-765272) · `en`
-
-Representatives of CEAT and Abans Auto led by CEAT Kelani Chief Operating Officer Shamal Gunawardene and Abans Auto Strategy and Business Development Director Amanda Gooneratne (fourth and fifth from left respectively) at the Hyundai Grand i10 showroom
-
-CEAT has been chosen as the original equipment tyre for the 2024 Hyundai Grand i10 assembled, sold, and serviced in Sri Lanka by Abans Auto, clinching another OEM partnership for the country’s highest-selling tyre brand.
-
-The partnership, which brings together two significant players in domestic value addition and a leading global automobile brand, paves the way for German-engineered 15-inch CEAT radials tyres to be fitted on to Hyundai Grand i10 hatchbacks assembled at the Abans Auto plant in Seeduwa.
-
-...
-
-[Data](articles/f879d6a3.json)
-
-[Extended Data](ext_articles/f879d6a3.ext.json)
-
----
-
-### Novacura Lanka unveils state-of-the-art office space at Marino Mall
-
-*2024-08-08 05:49:09* · [`dailyftlk`](https://www.ft.lk/business/Novacura-Lanka-unveils-state-of-the-art-office-space-at-Marino-Mall/34-765271) · `en`
-
-Welcoming esteemed guests on Wednesday, 7 August, Novacura inaugurated the new location marked by presence from Novacura’s headquarters in Gothenburg, Sweden
-
-Since its establishment in 2005, Novacura has strategically expanded across 10 countries, developing an impressive customer portfolio. This growth has been driven under the leadership of CEO Johan Melander. Director of Customer Success Andreas Foung arrived in Sri Lanka to attend the opening event to commemorate and celebrate collaboration with stakeholders alongside the Novacura Lanka team.
-
-...
-
-[Data](articles/6db33ef2.json)
-
-[Extended Data](ext_articles/6db33ef2.ext.json)
-
----
-
-### Intex Sri Lanka 2024: Redefining international sourcing for Sri Lanka’s garment industry
-
-*2024-08-08 05:47:46* · [`dailyftlk`](https://www.ft.lk/business/Intex-Sri-Lanka-2024-Redefining-international-sourcing-for-Sri-Lanka-s-garment-industry/34-765270) · `en`
-
-The 15th edition of the premier international textile sourcing platform in South Asia commenced in Colombo yesterday, 7 August, and will run until 9 August at the BMICH, Colombo.
-
-Over the last 10 years, Intex Sri Lanka has been at the forefront of Sri Lanka’s textile and apparel sector, playing a pivotal role in facilitating trade and innovation, and driving business opportunities to support the country’s garment exports.
-
-Present for the Grand Opening Ceremony were Chief Guest High Commission of India Colombo Deputy High Commissioner Dr. Satyanjal Pandey, Guest of Honour Export Development Board (EDB) of Sri Lanka Chairman and Chief Executive Officer Dr. Bernard Kingsley, and Joint Apparel Association Forum of Sri Lanka (JAAFSL) Secretary General Yohan Lawrence.
-
-...
-
-[Data](articles/ca4fa9f9.json)
-
-[Extended Data](ext_articles/ca4fa9f9.ext.json)
-
----
-
-### Supreme Court confirms the death penalty for Vass Gunawardena and six accusers
-
-*2024-08-08 05:47:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5dep3ldj3o) · `si`
-
-The Supreme Court confirmed the death penalty for millionaire DIG Vass Gunawardena and six others, concluding a nearly seven-year trial. The convictions stem from abduction charges, with the verdict based on the lack of reasonable defense arguments. This case highlights the judicial process and its outcomes in high-profile cases.
-
-🟩
-
-Supreme Court confirms the death penalty for Vass Gunawardena and six accusers
-
-Millionaire DIG Vass Gunawardena, who was sentenced to death and six accusations of the Colombo three-member High Courts in Bambalapitiya (IGP) has been sentenced to six-member High Courts in Colombo (August 8).Confirmed.
-
-Vijith Malalgoda, Geta Padman Sushinga, Gamini Amarasekara and Arjuna Amarasekera, Gamini Amarasekara and Arjuna Oberasekara, Gamini Amarasekera and Gamini Amarasekera, Gamini Amarasekera and Gamini Amarasekera..
-
-Expressing the verdict, the judge said that the decision was published after the petitioners and the Attorney General of the Attorney General.
-
-The judge said that the decision of the defendants had no reasonable basis, but the judge said.
-
-Vass Gunawardena, who was convicted of abducting the millionaire businessman in Bambalapitiya on May 22, a three-member High Court has been sentenced to six opposition judges in Colombo on November 27, 2015 by a three-member High Court in Colombo..
-
-...
-
-[Data](articles/ac69a661.json)
-
-[Extended Data](ext_articles/ac69a661.ext.json)
-
----
-
-### World Construction Symposium 2024 kicks off tomorrow in Colombo
-
-*2024-08-08 05:45:25* · [`dailyftlk`](https://www.ft.lk/business/World-Construction-Symposium-2024-kicks-off-tomorrow-in-Colombo/34-765269) · `en`
-
-The Ceylon Institute of Builders (CIOB) and the Building Economics and Management Research Unit (BEMRU), Department of Building Economics, University of Moratuwa, Sri Lanka (UOM) are jointly organising the 12th World Construction Symposium with the Green and Sustainability Awards Night will be held on 9 and 10 August at Taj Samudra, Colombo.
-
-The theme of the symposium is “Empowering Construction Industry: Towards Sustainable Development Goals”.
-
-The World Construction Symposium, which is held annually by the UOM and CIOB, will provide a special forum for researchers and practitioners in the areas of built environment and construction industry related research worldwide to share their knowledge, experiences, and research findings.
-
-The Ceylon Institute of Builders (CIOB) has been very successfully conducting this symposium since its commencement in 2012. Each year, it has grown and expanded its scope of attendees and contributions to the betterment of Sri Lankan construction.
-
-...
-
-[Data](articles/0895577a.json)
-
-[Extended Data](ext_articles/0895577a.ext.json)
-
----
-
-### Cabinet approves Bill to grant legal recognition to NBRI
-
-*2024-08-08 05:45:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-Bill-to-grant-legal-recognition-to-NBRI/34-765268) · `en`
-
-The Cabinet of Ministers on Monday approved the proposal to grant legal recognition to the National Building Research Institute (NBRI).
-
-The move follows the Cabinet’s directive on 5 October 2021 to instruct the Legal Draftsman to prepare the necessary bill.
-
-“The Attorney General has cleared the draft Bill prepared by the Legal Draftsman and it will now be published in the Government gazette. Subsequently, the bill will be presented to Parliament for approval,” the Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he said the legislative aims to formalise the status of the NBRI, enabling it to operate with greater authority and recognition in its research and development activities related to building and construction.
-
-The proposal, presented by President Ranil Wickremesinghe in his capacity as the Defence Minister was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/abedd4dd.json)
-
-[Extended Data](ext_articles/abedd4dd.ext.json)
-
----
-
-### Knuckles project to establish Soil Spectroscopic Laboratory with international support
-
-*2024-08-08 05:44:44* · [`dailyftlk`](https://www.ft.lk/business/Knuckles-project-to-establish-Soil-Spectroscopic-Laboratory-with-international-support/34-765267) · `en`
-
-The Ministry of Irrigation, funded by the Green Climate Fund and supported by the International Centre for Research and Agroforestry, is implementing the Knuckles project to enhance climate adaptation for subsistence farmers and agro-plantation communities in the Knuckles mountain region.
-
-A key component of the project is the establishment of a Soil Spectroscopic Laboratory within the Department of Export Agriculture. The initiative aims to support farmers in vulnerable river basins, watersheds, and lower valleys by providing advanced soil analysis capabilities.
-
-The International Centre for Research and Agroforestry has agreed to supply the necessary equipment for the laboratory.
-
-...
-
-[Data](articles/a509e782.json)
-
-[Extended Data](ext_articles/a509e782.ext.json)
-
----
-
-### National Chamber of Commerce to host Romanian Ambassador tomorrow
-
-*2024-08-08 05:44:15* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-to-host-Romanian-Ambassador-tomorrow/34-765266) · `en`
-
-The National Chamber of Commerce of Sri Lanka will hold a bilateral trade and investment discussion between Sri Lanka and Romania tomorrow from 9:30 a.m. to 11:30 a.m. at its Auditorium, No. 450, D.R. Wijewardena Mawatha, Colombo 10.
-
-The Ambassador of Romania to Sri Lanka and Maldives Steluta Arhire, will serve as the Special Guest Speaker of the event. Attendees will have the exceptional opportunity to engage in a meaningful dialogue with the Ambassador. The overall purpose of this meeting is to discuss the current trade environment, investment opportunities/ services, policies, and other important information with the view to promote and strengthen bilateral trade and investment opportunities between Sri Lanka and Romania.
-
-...
-
-[Data](articles/04656ae9.json)
-
-[Extended Data](ext_articles/04656ae9.ext.json)
 
 ---

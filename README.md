@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-08 08:55:17**
+As of **2024-08-08 09:07:09**
 
 ## Newspaper Stats
 
-*Scraped **39,575** Articles*
+*Scraped **39,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 2,285
 economynextcom | 2,397
 dailyftlk | 2,551
 adalk | 3,634
-adaderanalk | 4,594
+adaderanalk | 4,595
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,974
+tamilmirrorlk | 4,976
 virakesarilk | 6,252
-adaderanasinhalalk | 6,704
+adaderanasinhalalk | 6,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,573 (100.0%) of 39,575 articles have been extended.
+39,573 (100.0%) of 39,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-08 (Thursday)
+
+### துப்பாக்கி இயங்கியதில் ஒருவர் பலி
+
+*2024-08-08 08:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-இயங்கியதில்-ஒருவர்-பலி/175-341782) · `ta`
+
+சீதுவ - கொட்டுகொட பிரதேசத்தில் இன்று அதிகாலை பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி இயங்கியதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+சீதுவயிலிருந்து கொட்டுகொட நோக்கி பயணித்த காரை கொட்டுகொட பொலிஸ் சோதனைச்சாவடிக்கருகில் சோதனைக்குட்படுத்திய சந்தர்ப்பத்தில், காரிலிருந்த நபர்கள் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கியை பறிக்க முற்பட்ட போதே துப்பாக்கி இயங்கியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+காரில் பயணித்த நபரொருவர் காயமடைந்த நிலையில் நீர்கொழும்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டதை அடுத்து உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/4ddf0a4d.json)
+
+---
+
+### Grama Niladhari officers to launch two-day trade union action
+
+*2024-08-08 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/101072/grama-niladhari-officers-to-launch-two-day-trade-union-action) · `en`
+
+The All-Island Grama Niladhari Officers’ Association has announced a two-day trade union action to protest the arbitrary gazetting of the Grama Niladhari Service Constitution.
+
+The association’s General Secretary, Jagath Chandralal, stated that officers will withdraw from their service duties on Monday and Tuesday.
+
+However, he assured that this action will not interfere with election activities.
+
+◼️
+
+[Data](articles/3aa732b0.json)
+
+---
+
+### 2 அமைச்சுக்களின் செயலாளர்களுக்கு இறுதி அறிவித்தல்
+
+*2024-08-08 08:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-அமைச்சுக்களின்-செயலாளர்களுக்கு-இறுதி-அறிவித்தல்/175-341781) · `ta`
+
+அரச சொத்துக்களை முறையற்ற வகையில் பயன்படுத்தியமை தொடர்பில் 2 அமைச்சுக்களின் செயலாளர்களுக்கு எதிராக இறுதி அறிவித்தல் பிறப்பிக்கப்பட்டுள்ளது.
+
+அரச சொத்துக்களை தவறாக பயன்படுத்தியமை தொடர்பிலான விடயங்களை ஆராய்வதற்காக குறித்த இருவரும் தேர்தல்கள் ஆணைக்குழுவிற்கு அழைக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்துள்ளார்.
+
+தேர்தல் கண்காணிப்பாளர்கள் முதல்தடவையாக நேற்று தேர்தல்கள் ஆணைக்குழுவிற்கு அழைக்கப்பட்ட போதே இந்த விடயம் தெரியவந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/0a97e9ce.json)
+
+---
+
+### රත්‍රං තොගයක් කලපුවකින් හමුවෙයි
+
+*2024-08-08 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199693) · `si`
+
+කල්පිටිය තොරයඩි කලපුවේ ගිල්වා තිබූ බවට සැකකෙරෙන රත්‍රං කිලෝ 4 ග්‍රෑම් 740ක ඇසුරුමක් නාවික හමුදාව භාරයට ගෙන තිබේ.
+
+තවද එම රත්‍රං අඩංගු ඇසුරුම ප්‍රවාහනය කළ බවට සැක කෙරෙන ඩිංගි යාත්‍රාවක් ද තොරයඩි වෙරළ ප්‍රදේශයේ තිබියදී නාවික හමුදාව සිය භාරයට ගෙන ඇත.
+
+වයඹ නාවික විධානයට ලද තොරතුරක් මත ශ්‍රී ලංකා නාවික නෞකා විජය ආයතනය මගින් පෙරේදා (06) සිදුකළ සෝදිසි මෙහෙයුමේදි මෙම රත්‍රං තොගය සොයාගෙන ඇතැයි ද සඳහන්.
+
+නාවික හමුදා මෙහෙයුම් හමුවේ රැගෙන යාමට නොහැකිව ජාවාරම්කරුවන් විසින් මෙම රත්‍රං ඇසුරුම පසුව රැගෙන යාමේ අපේක්ෂාවෙන් මෙලෙස කලපුවේ ගිල්වා තබන්නට ඇතැයි නාවික හමුදාව සැක පළ කරයි.
+
+මෙම රත්‍රං තොගය සම්බන්ධව ඉදිරි විමර්ශන පැවැත්වීම සඳහා කටුනායක රේගු නිවාරණ කාර්යාලයට භාරදීමට කටයුතු කර ඇතැයි ද සඳහන්.
+
+◼️
+
+[Data](articles/d978c7a6.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -2193,95 +2261,5 @@ State Minister for Finance Ranjith Siyambalapitiya has said that the final decis
 [Data](articles/169e42ab.json)
 
 [Extended Data](ext_articles/169e42ab.ext.json)
-
----
-
-### Club spring murder - Big Patti's brother-in-law
-
-*2024-08-07 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199669) · `si`
-
-A 36-year-old man from Dharga, suspected in the Club Spring murder involving Big Patti's brother-in-law, was arrested near the Southern Expressway. The case involves two shooters from Ambalangoda and a bus linked to the Western Province Criminal Division, which was found in Kataragama. CCTV footage suggests the bus's involvement in the crime.
-
-🟩
-
-The Big Phickage South Criminal Crimes Division has been arrested and handed over to the Athagiriya Police.
-
-The suspect was arrested yesterday (06) at the Southern Expressway.
-
-He has been a 36 year old resident of Dharga and the shooters who have been shot and the two shooters from Ambalangoda to the Athurugiriya area have been taken to the Athurugiriya area.
-
-The buses of the Western Province Criminal Division were discovered by the buses that were sold to a person who was used by the shooters to the Southern Expressway in Kataragama.
-
-Investigations have also been found in a CCTV display indicate how the bus is traveling before the murder.
-
-◼️
-
-[Data](articles/9a60e082.json)
-
-[Extended Data](ext_articles/9a60e082.ext.json)
-
----
-
-### Sri Lanka Freedom Party faction and Samagi Jana Balawegaya enter alliance
-
-*2024-08-07 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-faction-and-samagi-jana-balawegaya-enter-alliance-175710/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) has entered an alliance with the faction of the crisis-riddle Sri Lanka Freedom Party (SLFP) led by MP Dayasiri Jayasekara.
-
-An agreement was signed between the two parties at a ceremony held in Colombo on Wednesday August 07.
-
-In attendance at the event was MP Thilanga Sumathipala, who is the general secretary of the SLFP-led United People’s Freedom Alliance (UPFA).
-
-The faction of the SLFP led by Aviation Minister Nimal Siripala de Silva, however, have declared their support for President Ranil Wickremesinghe at the 2024 presidential election.
-
-State Minister for Transport Lasantha Alagiyawanna, a member of this faction, said on Monday that the SLFP has officially decided to endorse Wickremesinghe at the upcoming election, with 90 percent of the executive council and a majority of the party’s MPs agreeing to this decision.
-
-...
-
-[Data](articles/f2f2db98.json)
-
-[Extended Data](ext_articles/f2f2db98.ext.json)
-
----
-
-### Bangladesh central bank Deputy Governors ousted, Governor’s resignation demanded
-
-*2024-08-07 14:13:00* · [`economynextcom`](https://economynext.com/bangladesh-central-bank-deputy-governors-ousted-governors-resignation-demanded-175746/) · `en`
-
-ECONOMYNEXT – Protesting staffers have stormed the office of Bangladesh Central Bank Governor and forced the resignation of Deputy Governors, media reports said days after the Prime Minister was ousted in the wake of two years of monetary instability and a plunging currency.
-
-Around 200 Bangladesh Bank workers came to the offices around 1030 am and demanded their resignation, The Daily Star reported, while more were holding placards at the front of the building.
-
-Governor Abdur Rouf Talukder was not in office at the time, but two Deputy Governors, Kazi Saidur Rahman and Nurun Nahar, were forced to sign resignation letters on blank sheets of paper and then left with the help of army officials, the Financial Express reported.
-
-Protestors also demanded the resignations of Deputy Governors Khurshid Alam and Habibur Rahman, head of the Bangladesh Financial Intelligence Unit Masud Biswas, and central bank adviser Abu Farah Md Naser, the newspaper said.
-
-...
-
-[Data](articles/7ebe73a9.json)
-
-[Extended Data](ext_articles/7ebe73a9.ext.json)
-
----
-
-### More details revealed on Gampaha and Ja-Ela shootings that injured 2
-
-*2024-08-07 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101061/more-details-revealed-on-gampaha-and-ja-ela-shootings-that-injured-2) · `en`
-
-Police stated that two persons were injured and hospitalized following separate shooting incidents, which are suspected to be linked, that occurred in the Makewita area of Ja-Ela and the Thammita area of Gampaha last night (06).
-
-Police suspect that the same gunmen had been involved in both shootings.
-
-The incident occurred in the Makewita area of Ja-Ela at around 07. 40pm last night when two assailants, who had arrived on a motorcycle, opened fire at a person who was also riding a motorcycle, before fleeing the scene.
-
-The victim, identified as 43-year-old Ranga Jayanath also known as K.J. Jayanath, was later admitted to the Gampaha, District General Hospital.
-
-Police further stated that he is a painter by profession and was reportedly involved in drug-related activities including dealing in ‘ice’ drugs, also known as crystal methamphetamine as well as cannabis.
-
-...
-
-[Data](articles/df54a297.json)
-
-[Extended Data](ext_articles/df54a297.ext.json)
 
 ---

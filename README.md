@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 19:54:48**
+As of **2024-08-09 20:07:35**
 
 ## Newspaper Stats
 
-*Scraped **39,878** Articles*
+*Scraped **39,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 3,658
 adaderanalk | 4,638
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,025
-virakesarilk | 6,321
+virakesarilk | 6,323
 adaderanasinhalalk | 6,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,877 (100.0%) of 39,878 articles have been extended.
+39,878 (100.0%) of 39,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### எந்தக் கட்சியைச் சேர்ந்தவராக இருந்தாலும் பட்டினி என்பது கட்சி சார்பற்றது - ஜனாதிபதி
+
+*2024-08-09 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190703) · `ta`
+
+எந்தக் கட்சியைச் சேர்ந்தவராக இருந்தாலும் பட்டினி என்பது பாகுபாடற்றது எனத் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மக்களின் சுமையைக் குறைத்து அடுத்த தலைமுறைக்கு வலுவான பொருளாதாரத்தைக் கொண்ட நாட்டைக் கட்டியெழுப்ப உதவுமாறு இலங்கையிலுள்ள அனைத்துப் பெண்களிடமும் கேட்டுக் கொண்டார்.
+
+அன்று உணவு வழங்க முடியாமல், பிள்ளைகளை பாடசாலைக்கு அனுப்ப முடியாமல் இந்நாட்டு தாய்மார்கள் அனுபவித்த துன்பங்களை யாரும் மறந்துவிடக் கூடாது என தெரிவித்த ஜனாதிபதி, இன்று மேடைகளில் தேசப்பற்றையும், மக்களின் துன்பங்களையும் பேசும் தலைவர்கள் சவாலுக்கு முகம் கொடுக்க முடியாமல் ஓடியதை இந்த நாட்டு மக்கள் மறக்க மாட்டார்கள் என்றும் குறிப்பிட்டார்.
+
+“பெண்கள் எமது பலம்” எனும் தொனிப்பொருளில் இன்று (09) கொழும்பு இலங்கை கண்காட்சி மற்றும் மண்டபத்தில் நடைபெற்ற பெண்கள் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். கட்சி வேறுபாடின்றி நாடளாவிய ரீதியில் உள்ள பிரதான பெண்கள் அமைப்புக்கள் மற்றும் கட்சி கிளைச் சங்கங்களின் தலைவிகள் மற்றும் பிரதிநிதிகள் பெருமளவானோர் இந்தக் கூட்டத்தில் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/00d20b36.json)
+
+---
 
 ### Passport varies in October
 
@@ -308,19 +324,25 @@ Meanwhile, actor Ajit Kumar has been shot in the film 'Good Bad Agli', which is 
 
 ---
 
-### ආර්ථිකය ගොඩගැනීමට හැකි වුණේ කාන්තාවත් තිදෙනෙකුගේ සහයෙන්
+### The economy was able to build the woman and three
 
 *2024-08-09 17:09:48* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගොඩගැනීමට-හැකි-වුණේ-කාන්තාවත්-තිදෙනෙකුගේ-සහයෙන්/11-411279) · `si`
 
-වැටුණු ආර්ථිකය ගොඩ ගැනීමට කාන්තාවන් තිදෙනෙක් තමාට සහය වූ බවත්, ඔවුන් තිදෙනාගේ සහය නොමැති නම් මෙලෙස රට ගොඩ ගැනීමට තමාට නොහැකි වන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+At a conference, President Ranil Wickremesinghe highlighted the crucial support from three women: Finance Minister Nirmala Sitharaman, U.S. Treasury Secretary Janet Yellen, and IMF Chief Kristalina Georgieva. He emphasized the importance of unity and addressing the nation's economic challenges, stating his presidency was accepted due to others' refusal of the responsibility. He urged setting aside political differences to alleviate the population's hardships, including shortages of electricity, fuel, and food.
 
-“කාන්තාව අපේ බලය“ යන තේමාව යටතේ අද(09දා) කොළඹ පැවති ජාතික කාන්තා සමුළුව අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-මෙවර ජනාධිපතිවරණයට  නිර්පාක්ෂික අපේක්ෂකයෙක් ලෙස මම ඉදිරිපත් වන්නේ ඇයි කියා ඇතැම් අය මගෙන් ප්‍රශ්න කරනවා. කුසගින්න නිර්පාක්ෂිකයි. කුමන පක්ෂයකට අයත් වුවත් කුසගින්න දැනෙනවා. කුස පිරවීම නිර්පාක්ෂිකයි. ඒ නිසා අප දේශපාලන පක්ෂ පාට පසෙකට දමා රටේ ජනතාවගේ කුස පිරවීමට එක් විය යුතුයි. මේ රටේ ජනතාව විඳි දුක පිළිබඳ මට හොද අවබෝධයක් තිබෙනවා. විදුලිය නොමැතිව, ඉන්ධන හා ආහාර නොමැතිව දරුවන්ව පාසලට යවා ගත නොහැකිව එදා ඔබ සියලුදෙනා විශාල දුෂ්කරතාවයකට මුහුණ දුන්නා. නැවත අප මේ දුක විඳිය යුතුද, ඒ නිසා අප සියලුදෙනා එකට එක්ව මෙම තත්ත්වය වළක්වාගත යුතුයි.
+President Ranil Wickremesinghe said that three women supported him and that he could not recover the country if they were not supported by three of them.
+
+He was speaking at the National Women's Conference held in Colombo today (09) under the theme "woman '.
+
+Some people question me why I am presenting as a remarkable candidate for the presidential election. Hunger is impossible. Feeling hunger than any party. The filling of the cock is not impartial. Therefore, we must put the political parties aside and to fill the mass of the people of the country. I have a good understanding of the suffering of the people of this country. All of you faced a great deal of difficulty without electricity, without fuel and food. We should always avoid this sadness, so we all need to keep this position together.
 
 ...
 
 [Data](articles/e422f13d.json)
+
+[Extended Data](ext_articles/e422f13d.ext.json)
 
 ---
 
@@ -1243,6 +1265,22 @@ The Supreme Court today (09th) today decided that the decision taken taken by Ma
 [Data](articles/4dcba126.json)
 
 [Extended Data](ext_articles/4dcba126.ext.json)
+
+---
+
+### எக்ஸ்பிரஸ் பேர்ள் கப்பல் விபத்து : முதல் கட்ட நட்டஈடாக 10.2 மில்லியன் டொலர் கிடைத்தது !
+
+*2024-08-09 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190646) · `ta`
+
+எக்ஸ்பிரஸ் பேர்ள் கப்பல் விபத்தால் ஏற்பட்ட பாதிப்புக்கு கப்பல் நிறுவனம் முதல் கட்டமாக 10.2 மில்லியன் டொலரை முதற்கட்ட நட்டஈடாக வழங்கியுள்ளது. சட்டமா அதிபரின் அனுமதி இல்லாமல் நியூ டய்மன் கப்பலை இலங்கையின் கடல் எல்லையில் இருந்து வெளியேற்றிய நபர் எதிர்க்கட்சித் தலைவரின் கரங்களை பலப்படுத்த எதிர்க்கட்சியுடன் ஒன்றிணைந்துள்ளமை கவலைக்குரியது என நீதி இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09) இடம்பெற்ற அமர்வின் போது இருபத்தேழு இரண்டின் கீழ் எதிர்க்கட்சித் தலைவர் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இலங்கை கடற்பரப்பில் தீ விபத்துக்குள்ளாகி மூழ்கிய எம்.வி.எக்ஸ்பிரஸ் பேர்ள் கப்பல் விவகாரம் மற்றும் ஏற்பட்ட இழப்புக்களுக்கு நட்டஈடு பெற்றுக்கொள்வதற்காக சட்டமா அதிபர் ஊடாக சிங்கப்பூர் நாட்டில்  சர்வதேச வணிக நீதிமன்றில் வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/167fd87d.json)
 
 ---
 
@@ -2221,51 +2259,5 @@ Cabinet has recently approved the importation of eggs as an egg in the local mar
 [Data](articles/758b7d08.json)
 
 [Extended Data](ext_articles/758b7d08.ext.json)
-
----
-
-### Debate showdown between Trump and Harris set for September
-
-*2024-08-09 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101098/debate-showdown-between-trump-and-harris-set-for-september) · `en`
-
-ABC News has said it will host the first debate between Donald Trump and Kamala Harris on 10 September.
-
-The network confirmed the showdown in a post on X, formerly Twitter, after Trump said on Thursday that he would be open to debating his Democratic rival multiple times before the November election.
-
-“We think we should do three debates,” Trump said, suggesting two additional debates that he said would be hosted by Fox News and NBC, respectively.
-
-Ms Harris confirmed that she will attend the ABC debate while at an event in Michigan on Thursday, and said later that she would be open to additional debates.
-
-The network said the debate will be moderated by World News Tonight anchor and managing editor David Muir and ABC News Live Prime anchor Linsey Davis.
-
-“I am looking forward to debating Donald Trump and we have a date of September 10. I hear he’s finally committed to it and I’m looking forward to it,” Ms Harris said at the event in Detroit.
-
-...
-
-[Data](articles/9dcb3f4a.json)
-
-[Extended Data](ext_articles/9dcb3f4a.ext.json)
-
----
-
-### Let's go back to the old position;President
-
-*2024-08-09 09:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பழைய-நிலைக்கே-செல்வோம்-ஜனாதிபதி/175-341848) · `ta`
-
-Ranil Wickremesinghe emphasizes that slogans alone won't end poverty, highlighting the importance of agreements like the IMF deal for economic recovery. He warns against abandoning such deals, as past breaks led to stagnation, hinting at dire consequences if it happens again.
-
-🟩
-
-President Ranil Wickremesinghe has said that the poverty of the people cannot be eradicated by raising slogans on the street.
-
-The President made this statement while participating in a discussion held in Colombo yesterday (07) on the Co -operative Society.
-
-Also, we are now recovering because of the agreement between the IMF and the government. If the deal is abandoned, we will go back to the old rows.We broke the IMF deals 17 times. The President also said that if they broke up for the 18th time, they would not be implemented again. Remble
-
-◼️
-
-[Data](articles/8f2f7039.json)
-
-[Extended Data](ext_articles/8f2f7039.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 01:20:46**
+As of **2024-08-10 01:36:33**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,910 (100.0%) of 39,912 articles have been extended.
+39,912 (100.0%) of 39,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### பிரேசிலில் 62 பேருடன் பயணித்த விமானம் சாவோ பாலோ மாநிலத்தில் விழுந்து நொறுங்கியது
+### The flight that was traveling with 62 people in Brazil crashed into the state of Chao Palo
 
 *2024-08-10 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190709) · `ta`
 
-பிரேசிலின் சாவ் பாலோ மாநிலத்தில் 62 பேருடன் சென்ற விமானம் விபத்துக்குள்ளாகியுள்ளது. நடுவானில் சென்று கொண்டிருந்த விமானம் திடீரென கட்டுப்பாட்டை இழந்து கீழே விழுந்து வெடித்து சிதறியுள்ளது.
+A plane crash occurred in Brazil's Chaw Palo state, killing all 62 onboard, including 58 passengers and 4 crew members. The Vyobas flight 2283, en route from Vinheto, lost control mid-air before crashing and exploding near Guarulhos International Airport. Firefighters are investigating the cause, with Brazilian President Louis Inasio Lula Da Silva expressing condolences and urging a moment of silence.
 
-பிரேசிலின் சாவ் பாலோ மாநிலத்தில் வியோபாஸ் விமானமான 2283 என்ற விமானம் 62 பயணிகளை ஏற்றிக்கொண்டு சென்று கொண்டிருந்தது. வின்ஹெடோ நகரில் சென்று கொண்டிருந்த போது விமானம் நிலை தடுமாறு கீழே விழுந்து வெடித்ததை உள்ளூர் தீயணைப்புப் படை உறுதிசெய்துள்ளனர்.
+🟩
 
-தீப்பிளம்பாக அந்த இடமே மாறி உள்ளது. யாருடன் உயிருடன் பிழைத்திருக்க வாய்ப்பு இல்லை என்றே தெரிகிறது. ஏனெனில் விமானம் வந்து விழுந்த வேகத்தில் வெடித்து சிதறியது. அதில் ஏற்பட்ட தீப்பிளம்பு காண்போரை கண்ணீரில் ஆழ்த்தி உள்ளது.
+Brazil's Chaw Palo state crashed with 62 people. The plane, which was on the middle of the country, suddenly lost control and fell down and exploded.
 
-58 பயணிகள் மற்றும் விமானிகள் உள்பட 4 பணியாளர்களுடன் சாவ் பாலோவின் சர்வதேச விமான நிலையமான குருல்ஹாஸ் (Guarulhos) நோக்கிச் சென்ற விமானம் விபத்துக்குள்ளாகியுள்ளது.
+The Vyobas flight 2283 in Brazil's Chaw Paulo was carrying 62 passengers. The local fire brigade has confirmed that the plane crashed into the air while traveling in Vinheto.
 
-விபத்துக்கான காரணம் என்ன என்று தெரியவில்லை, விபத்து நடந்த இடத்திற்கு தீயணைப்பு படை வீரர்கள் விரைந்துள்ளனர். மீட்பு பணிகள் தீவிரமாக நடைபெற்று வருகிறது.
+The place is changed as a fireplace. It seems that there is no chance to survive with whom. Because the plane crashed at the speed of falling. The flames in it are tears.
 
-...
+The plane crashed into the Guarulhos, Chaw Palo's international airport, with 4 employees, including 58 passengers and pilots.
+
+Firefighters rushed to the scene of the accident, not knowing the cause of the accident. Rescue work is underway.
+
+Brazilian President Louis Inasio Lula Da Silva expressed his deepest condolences.
+
+He was present at the event in South Brazil and asked him about the accident and asked the residents to pay a silent tribute for a minute.
+
+◼️
 
 [Data](articles/95079c49.json)
+
+[Extended Data](ext_articles/95079c49.ext.json)
 
 ---
 
@@ -78,17 +88,27 @@ Police said the vehicle had been hit long distances, unable to control the speed
 
 ---
 
-### பிரிட்டன் வாழ் இலங்கையர்களின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளது : தொலைபேசி இலக்கங்களும் அறிமுகம்- உயர்ஸ்தானிகர் ரோஹித்த போகொல்லாகம
+### Sri Lankans living in Britain have confirmed: Telephone numbers introduced- High Commissioner Rohitha Bogollagama
 
 *2024-08-10 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190688) · `ta`
 
-பிரிட்டனில் நிலவும் அமைதியின்மை நிலைவரம் குறித்து ஜனாதிபதி ரணில் விக்ரமசிங்க தன்னிடம் கேட்டறிந்ததாகவும், பிரிட்டன்வாழ் இலங்கையர்களின் நலன் மற்றும் பாதுகாப்பை உறுதிப்படுத்திக்கொண்டதாகவும் பிரித்தானியாவுக்கான இலங்கை உயர்ஸ்தானிகர் ரோஹித்த போகொல்லாகம தெரிவித்துள்ளார்.
+Sri Lanka's High Commissioner in Britain, Rohitha Bogollagama, has addressed concerns about unrest in the UK, assuring the safety and welfare of Sri Lankans there. He met with British Sri Lanka Organization representatives and urged caution, emphasizing the importance of focusing on domestic news. Highlighting the significant contribution of around 750,000 Sri Lankans to Britain's economy, he expressed confidence in the UK's ability to maintain stability through legal means. Emergency assistance is available via specific phone numbers and email.
 
-பிரிட்டன் இலங்கையர் அமைப்பின் பிரதிநிதிகள் மற்றும் மதத்தலைவர்களை நேற்று வியாழக்கிழமை (08) பிரிட்டனில் அமைந்துள்ள இலங்கை உயர்ஸ்தானிகரகத்தில் சந்தித்த ரோஹித்த போகொல்லாகம, அவர்களுடன் பிரிட்டனில் நிலவும் அமைதியின்மை நிலைவரம் மற்றும் அதனுடன் தொடர்புடைய அடுத்தகட்ட நடவடிக்கைகள் குறித்துக் கலந்துரையாடினார்.
+🟩
+
+Sri Lanka's High Commissioner to Britain Rohitha Bogollagama has said that President Ranil Wickremesinghe has asked him about the prevailing unrest in the UK and has ensured the welfare and safety of Sri Lankans in the UK.
+
+Rohitha Bogollagama, who met with representatives and religious leaders of the British Sri Lanka Organization on Thursday (08) at the Sri Lankan High Commission in the UK, discussed with them on the unrest and related actions in Britain.
+
+In particular, President Ranil Wickremesinghe has asked me about this, with people's peace disruption in some parts of Britain and have received a confirmation of the safety and welfare of Sri Lankans.. Accordingly, we have been consistently discussing with British officials and have assured that the country is re -stabilized to ensure stability, ”High Commissioner Rohitha Bogollagama said.
+
+He also urged the Sri Lankans to be careful with the British and to focus on domestic news and state announcements.
 
 ...
 
 [Data](articles/0da09396.json)
+
+[Extended Data](ext_articles/0da09396.ext.json)
 
 ---
 

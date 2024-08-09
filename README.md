@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 12:10:32**
+As of **2024-08-09 12:21:28**
 
 ## Newspaper Stats
 
-*Scraped **39,800** Articles*
+*Scraped **39,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,650
-adaderanalk | 4,623
+adaderanalk | 4,624
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,009
 virakesarilk | 6,301
@@ -26,23 +26,49 @@ adaderanasinhalalk | 6,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,795 (100.0%) of 39,800 articles have been extended.
+39,800 (100.0%) of 39,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பதவியில் இருந்து விலகினார் பொன்சேகா
+### Decision on Keheliya’s bail appeal further deferred
+
+*2024-08-09 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101104/decision-on-keheliyas-bail-appeal-further-deferred-) · `en`
+
+The Court of Appeal has further deferred the decision regarding the petition filed by Keheliya Rambukwella, seeking an order to invalidate the Maligakanda Magistrate’s Court’s order remanding him until the end of the trial over the alleged import of substandard medicine.
+
+The relevant decision was scheduled to be delivered today (09).
+
+However, the Appeals Court judge bench comprising President of the Court of Appeal Nissanka Bandula Karunaratne and Justice Shashi Mahendran ordered the relevant decision on whether to grant leave to proceed with the petition to be issued on September 04, 2024.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/2b0d7a39.json)
+
+---
+
+### Fonseka resigns
 
 *2024-08-09 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190636) · `ta`
 
-பீல்ட் மார்ஷல் சரத் பொன்சேகா ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பதவியை  இன்று வெள்ளிக்கிழமை (09) இராஜினாமா செய்துள்ளார்.
+Field Marshal Sarath Fonseka resigned as the United People's Power Chairman on September 9th. The party confirmed receiving his resignation letter through Secretary Ranjith Mathuma Bandara.
 
-பொன்சேகாவினால் அனுப்பப்பட்ட இராஜினாமா கடிதம் கிடைத்துள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+🟩
+
+Field Marshal Sarath Fonseka has resigned from the post of United People's Power Chairman today (09).
+
+United People's Power Secretary Ranjith Mathuma Bandara has said that the resignation letter sent by Fonseka has been received.
 
 ◼️
 
 [Data](articles/65480040.json)
+
+[Extended Data](ext_articles/65480040.ext.json)
 
 ---
 
@@ -60,23 +86,31 @@ The meeting focused on expanding opportunities for Sri Lankan teachers to contri
 
 [Data](articles/81a7ca36.json)
 
+[Extended Data](ext_articles/81a7ca36.ext.json)
+
 ---
 
-### ශෙයික් හසීනා යළි බංග්ලාදේශයට පැමිණෙන බව පුතා කියයි
+### Son says Shaikh Hasina returns to Bangladesh
 
 *2024-08-09 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199744) · `si`
 
-බංග්ලාදේශයේ භාරකාර රජය විසින් මැතිවරණයක් ප්‍රකාශයට පත් කිරීමෙන් පසු ශෙයික් හසීනා යළි එරටට පැමිණෙනු ඇති බව ශෙයික් හසීනාගේ පුත් සජීබ් වසීඩ් ජෝයි ප්‍රකාශ කර තිබේ.
+Shaikh Hasina's son, Zeub Visheord Joi, announced his return to Bangladesh post-elections amid tensions fueled by alleged Pakistani interference, particularly from its intelligence sector, as reported by foreign media.
 
-බංග්ලාදේශයේ නොසන්සුන්කාරී තත්ත්වයක් ඇතිවීම පිටුපස පාකිස්තානය සිටින බවට ද සජීබ් වසීඩ් විසින් චෝදනා කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-ඔහු ප්‍රකාශ කර ඇත්තේ, නොසන්සුන්කාරී තත්ත්වය ඇති කිරීම සඳහා පාකිස්තාන අයි. එස්. බුද්ධි අංශය ප්‍රධාන භූමිකාවක් ඉටු කර ඇති බවය.
+Zeub Visheord Joi, the son of Shaikh Hasina has stated that he will come back to the country after an election of the government of Bangladesh.
 
-බංග්ලාදේශයේ ඇතිවූ තත්ත්වයට විදේශීය මැදිහත්වීමක් පවතින බවට නිරීක්ෂණය වී ඇති බව පෙන්වාදී ඇති සජීබ් වසීඩ් පාකිස්තාන අයි. එස් බුද්ධි අංශය ඊට සම්බන්ධ බවට සාක්ෂි පවතින බවද සඳහන් කර තිබුණි.
+Foreign media reports that Pakistan has been accused of being Pakistan behind the tense situation in Bangladesh.
+
+He has stated that Pakistani is to make tensual condition. S. The intelligence sector has played a major role.
+
+Varied Zakistan, the Visud, Visud, Pakistani, which has been observed that there is foreign intervention in Bangladesh. There is evidence that S intelligence division is involved.
 
 ◼️
 
 [Data](articles/49680aaf.json)
+
+[Extended Data](ext_articles/49680aaf.ext.json)
 
 ---
 
@@ -102,15 +136,21 @@ Fild Marshal Sarath Fonseka has been offered as an independent candidate for the
 
 ---
 
-### சரத் பொன்சேகா இராஜிநாமா
+### Sarath Fonseka resigns
 
 *2024-08-09 11:29:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-பொன்சேகா-இராஜிநாமா/175-341853) · `ta`
 
-ஐக்கிய மக்கள் சக்தி கட்சியின் தவிசாளர் பதவியிலிருந்து பீல்ட் மார்ஷல் சரத் பொன்சேகா இராஜிநாமா செய்துள்ளார்.
+Field Marshal Sarath Fonseka has stepped down as leader of the United People's Power Party.
+
+🟩
+
+Field Marshal Sarath Fonseka has resigned from the post of United People's Power Party.
 
 ◼️
 
 [Data](articles/4a9b0da9.json)
+
+[Extended Data](ext_articles/4a9b0da9.ext.json)
 
 ---
 
@@ -132,19 +172,25 @@ On July 25, Fonseka officially announced his presidential candidacy stating that
 
 ---
 
-### இருவரையும் நீக்கியது சரி
+### Remove the two is OK
 
 *2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
 
-அமைச்சர்களான மனுஷ்ய நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்தது.
+The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to revoke their memberships.
 
-உயர் நீதிமன்ற நீதியசர்களான விஜித் மலல்கொட, அச்சல வெங்கப்புலி மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதியரசர்கள் அமர்வு இந்த தீர்ப்பை வழங்கியுள்ளது.
+🟩
 
-தமது கட்சி உறுப்புரிமையை பறிப்பதற்கு ஐக்கிய மக்கள் சக்தி எடுத்த தீர்மானம் சட்டத்திற்கு முரணானது என அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் தாக்கல் செய்த மனுவை உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
+
+The verdict of the three judges of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera.
+
+The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
 
 ◼️
 
 [Data](articles/aab2046c.json)
+
+[Extended Data](ext_articles/aab2046c.ext.json)
 
 ---
 
@@ -2127,29 +2173,5 @@ Seven players in the Sri Lanka Test squad have gone to England.
 [Data](articles/8025bfa3.json)
 
 [Extended Data](ext_articles/8025bfa3.ext.json)
-
----
-
-### If there are mistakes in Mannar, action
-
-*2024-08-08 18:34:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-தவறுகள்-நடந்திருந்தால்-நடவடிக்கை/175-341826) · `ta`
-
-Health Minister Ramesh Pathirana announced the Ministry of Health is investigating the death of a young mother at Mannar Hospital, promising disciplinary action for any negligence. Charles Nirmalanathan, also present, reiterated the commitment to patient safety, highlighting the introduction of a bill aimed at enhancing medical standards.
-
-🟩
-
-Health Minister Ramesh Pathirana said that the Ministry of Health has paid special attention to the death of a young mother Sindhuja at the Mannar Hospital and that disciplinary action will be taken against those involved in any mistakes.
-
-Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (09), the Minister of Health, Charles Nirmalanathan, said in response to the matter of the death of Mariaraj Sindhuja at the Mannar Hospital.
-
-Special attention will be paid to this issue and action will be taken. Not yet seeing the investigation report in this regard. If there are any mistakes in the matter, we will certainly take disciplinary action.
-
-Meanwhile, focus on protecting patients in the country. That is why we have put forward a bill.
-
-◼️
-
-[Data](articles/b1e612bb.json)
-
-[Extended Data](ext_articles/b1e612bb.ext.json)
 
 ---

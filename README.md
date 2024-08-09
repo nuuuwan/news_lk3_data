@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 00:09:23**
+As of **2024-08-10 00:21:05**
 
 ## Newspaper Stats
 
@@ -26,77 +26,111 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,902 (100.0%) of 39,909 articles have been extended.
+39,909 (100.0%) of 39,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### திருகோணமலை – திரியாய் பகுதியில் படுகொலை செய்யப்பட்ட அப்பாவி மக்களின் ஆத்ம சாந்தி வேண்டி பிரார்த்தனை
+### Prayer prayers for the souls of innocent people who were assassinated in Trincomalee
 
 *2024-08-09 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190708) · `ta`
 
-திருகோணமலை – திரியாய் பகுதியில் அப்பாவி மக்கள் படுகொலை செய்யப்பட்டு 39ஆண்டுகள் நிறைவை முன்னிட்டு வெள்ளிக்கிழமை (09) திரியாய் வரத விக்னேஸ்வரர்  ஆலயத்தில் விசேட பூசை நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டிருந்தது. அத்துடன் படுகொலை செய்யப்பட்ட மக்களின் ஆத்ம சாந்தி வேண்டி பிரார்த்தனை நிகழ்வுகளும் இடம்பெற்றன.
+A special prayer event was held at the Vigneswarar Temple in Trincomalee to remember and pray for the souls of innocent victims killed in a massacre there. This event marked the anniversary of the tragic event on August 10, 1985, where 12 civilians were murdered while seeking refuge. The community also remembered the destruction of homes in Thiriyai village by armed men, leading to displacement and loss of life.
 
-1985ஆம் ஆண்டு ஆவணி மாதம் 10 ஆம் திகதி திரியாய் அகதி முகாமில் தஞ்சமடைந்திருந்த அப்பாவி பொதுமக்கள் 12 பேரை மக்களின் போக்குவரத்திற்காக ஈடுபட்டிருந்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேரூந்தில் ஏற்றிச் சென்று கஜுவத்த என்னும் இடத்தில் வைத்து அவர்கள் அணிந்திருந்த மேற்சட்டையை கழட்டி அவர்களது கைகளை கட்டி ஓடவிட்டு சுட்டு படுகொலை செய்திருந்தார்கள் எனவும், 1985 ஆம் ஆண்டு இன அழிப்பு வன்முறை உச்ச கட்டம் அடைந்திருந்த நிலையில் ஆடி மாதம் 5ஆம் திகதி திரியாய் கிராமத்திற்குள் புகுந்த ஆயுததாரிகளும், சிவில் உடை தரித்த காடையர்களும் திரியாய் கிராமத்தில் உள்ள வீடுகள் அனைத்தையும் தீக்கிரையாக்கியதுடன் சொத்துக்களையும் தீக்கிரையாக்கி அழித்தார்கள்.
+🟩
 
-...
+A special pooja events were organized at the Vigneswarar Temple in Trincomalee on Friday (09) on Friday (09) to mark the massacre of innocent people in Trincomalee. There were also prayers for the soul peace of the people who were assassinated.
+
+On the 10th of August 1985, 12 innocent civilians who had taken refuge in the refugee camp, who had been involved in the transport of the Sri Lanka Transport Board (SLTB), were carrying the onset of the Sri Lanka Transport Board (SLTB), which took off their hands and shot their hands and shot their hands.On the 5th of the month of Adi, the armed men and civil dressers who entered the village of Thiriyai set fire to all the houses in the village of Thiriyai and destroyed the property.
+
+In this case, many of the villagers of Thiriyai left the village and others were at the Thiriyai Tamil Maha Vidyalaya;Were refugees as refugees. People say that the incident took place on them.
+
+◼️
 
 [Data](articles/743d425f.json)
 
+[Extended Data](ext_articles/743d425f.ext.json)
+
 ---
 
-### மட்டக்களப்பு மரப்பாலத்தில் வீதியை விட்டு நீண்ட தூரம் பாய்ந்த ஜீப் ; மூவர் படுகாயம்
+### Jeep, a long way to leave the street at the Batticaloa tree;Trio injured
 
 *2024-08-09 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190707) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் கரடியனாறு பொலிஸ் பிரிவுக்குட்பட்ட மரப்பாலம் பகுதியில் ஜீப் ஒன்று விபத்துக்குள்ளானதில் படுகாயமடைந்த மூவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In a jeep accident near Batticaloa, three tourists from Kandy were injured. The vehicle lost control due to high speed, causing the crash.
 
-கண்டியிலிருந்து மட்டக்களப்பு பகுதிக்கு விடுமுறையினை கழிக்கவந்த குடும்பம் ஒன்ற ஜீப் வண்டியே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-குறித்த ஜீப் வண்டியில் ஐந்து பேர் பயணித்த நிலையில் விபத்தில் மூவர் படுகாயமடைந்துள்ளனர் இருவர் சிறு காயங்களுக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Three persons injured in a jeep in the Marappalam area belonging to the Karadiyanaru police division of the Batticaloa district have been admitted to the hospital.
 
-அதிகவேகமாக வந்த வாகனம் வேகத்தினை கட்டுப்படுத்தமுடியாமல் நீண்ட தூரத்திற்கு பாய்ந்து சென்று விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The family who had been on vacation from Kandy to Batticaloa, had been involved in a jeep.
+
+Three people were injured in the accident while five people were traveling in the jeep.
+
+Police said the vehicle had been hit long distances without controlling the speeding vehicle.
 
 ◼️
 
 [Data](articles/a3f97862.json)
 
+[Extended Data](ext_articles/a3f97862.ext.json)
+
 ---
 
-### கலம்போ - சிட்டி சவால் கிண்ணத்துடன் 10 இலட்சம் ரூபாவை வெல்லப்போவது றினோன் கழகமா? நியூ ஸ்டார் கழகமா?; சனிக்கிழமை இறுதிப் போட்டி
+### Is Rinon Corporation to win 10 lakhs of rupees with Kalambo - City challenge bowl?New Star Corporation?;Saturday final match
 
 *2024-08-09 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/190706) · `ta`
 
-கலம்போ - சிட்டி சவால் கிண்ண கால்பந்தாட்டத்தில் வெற்றிக் கிண்ணத்தையும் 10 இலட்சம் ரூபா பணப்பரிசையும் வெல்லப்போவது யார் என்பதை தீர்மானிக்கும் றினோன் - நியூ ஸ்டார் கழகங்களுக்கு இடையிலான இறுதிப் போட்டி சிட்டி லீக் மைதானத்தில் சனிக்கிழமை (10) பிற்பகல் நடைபெறவுள்ளது.
+Rinon and New Star Corporations will compete in the Kalambo-City Challenge Bowl final on Saturday, aiming to win 10 lakh rupees. Both teams have shown strong performances, with New Star defeating Old Benz and Ratnam Club in previous rounds and Rinon overcoming Maligawatte Youth Club and another unnamed club. The match promises to be competitive, with both sides featuring experienced players.
 
-கொழும்பு கால்பந்தாட்ட லீக்கின் 112ஆவது வருட நிறைவை முன்னிட்டு இந்த அழைப்பு நொக்அவுட் கால்பந்தாட்டப் போட்டி ஏற்பாடு செய்யப்பட்டது.
+🟩
 
-கொழும்பு கால்பந்தாட்ட லீக்கில் முதலாம் பிரிவில் அங்கம் வகிக்கும் நான்கு கழகங்களும் சிட்டி கால்பந்தாட்ட லீக்கில் முதலாம் பிரிவில் அங்கம் வகிக்கும் நான்கு கழகங்களும்  இப் போட்டியில்  பங்குபற்றின.
+The final match between Rinon and New Star Clubs will be held on Saturday afternoon at the City League Ground, deciding who will win the Kalambo - City Challenge bowl football and 10 lakh rupees cash.
 
-கொழும்பு லீக் கழகங்கள் ஒரு குழுவிலும் சிட்டி லீக் கழகங்கள் மற்றொரு குழுவிலும் பங்குபற்றிய இந்த நொக் அவுட் போட்டியில் இரண்டு கட்டங்களைக் கொண்ட கால் இறுதிகளும் தொடர்ந்து அரை இறுதிகளும் நடத்தப்பட்டன.
+The Callout Football Tournament was organized to mark the 112nd anniversary of the Colombo Football League.
+
+The four clubs in the first category of the Colombo Football League and four clubs in the City Football League participated in the competition.
+
+The knock out of the Colombo League Corporation and the City League Corporations in another group of quarter -finals and semi -finals.
+
+The New Star Club, which met with the Old Benz Club in the two -stage finals, won the first quarter -end goal and the second quarter of the second quarter and the second quarter.
+
+In the semi -finals, the New Star Corporation ended the match with Ratnam Club 1 - 1.
+
+The New Star Corporation won 4 - 3 in the penalty provided by the penalty and qualified to play in the final.
 
 ...
 
 [Data](articles/230aee6a.json)
 
+[Extended Data](ext_articles/230aee6a.ext.json)
+
 ---
 
-### மன்னார் மடு திருத்தலத்தின் ஆவணி மாத திருவிழா குறித்து விசேட கலந்துரையாடல்
+### Special Discussion on the Avani Month Festival of Mannar
 
 *2024-08-09 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190705) · `ta`
 
-மன்னார் மடு திருத்தலத்தின் ஆவணி மாத திருவிழா திருப்பலியில் இம்முறை நாட்டின் பல பாகங்களில் இருந்தும் பல லட்சக்கணக்கான  பக்தர்கள் கலந்து கொள்வார்கள் என எதிர் பார்க்கப் பட்டுள்ள நிலையில் முன் ஆயத்த நடவடிக்கைகள் குறித்த விசேட கலந்துரையாடல்  வெள்ளிக்கிழமை(9) காலை 11 மணியளவில் மடு திருத்தலத்தில் இடம்பெற்றது.
+A special meeting was held for the Mannar Madhu Pirikkam Avani Month Festival, discussing preparations including health, transport, and security for the expected influx of devotees. The festival, starting with a flag ceremony, will conclude on the 15th, involving various officials and departments ensuring smooth operations.
 
-மன்னார்  மருதமடு அன்னையின் ஆவணி மாத திருவிழா கடந்த  6ஆம் திகதி கொடியேற்றத்துடன் ஆரம்பமாகி 15 ஆம் திகதி விசேட திருவிழாவாக இடம்பெற உள்ளது.
+🟩
 
-இந்த நிலையில் மடு திருத்தலத்தின் ஆவணி மாத திருவிழாவுக்கான ஆயத்த கலந்துரையாடல் மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில் மன்னார் மறைமாவட்ட ஆயர் இம்மானுவேல் பெர்னாண்டோ ஆண்டகையின் பங்குபற்றுதலுடன் இன்று வெள்ளிக்கிழமை(9) காலை  மடு திருத்தல மண்டபத்தில் இடம் பெற்றுள்ளது.
+A special discussion on the preparations was held on Friday (9) at 11 am on Friday (9) as millions of devotees from many parts of the country will attend this year at the Mannar Madhu Pirikkam Avani Month Festival.
 
-வருடா வருடம் மடு அன்னையின் ஆவணித் திருவிழாவில் கலந்து கொள்ள நாட்டின் பல பாகங்களில் இருந்தும் புலம்பெயர் நாடுகளில் இருந்தும் லட்சக்கணக்கான பக்தர்கள் வந்து செல்வது வழமை.
+The Mannar Marudamadu Mother's Avani Month Festival will commence on the 6th of last month with the flag pole and will be held on the 15th of this month.
+
+The preparatory discussion for the Avani Month Festival of Madhu Thiruthalam has been held at the Madhu Thiruthala Hall this morning with the participation of the Mannar Diocese Emmanuel Fernando anniversary under the patronage of Mannar District Government Agent K. Kanageswaran.
+
+It is customary for millions of devotees from many parts of the country to attend the festival of Madhu Mother.
+
+In this case, all the arrangements to be carried out to be carried out in view of the welfare of the pilgrims were discussed with the departments.
 
 ...
 
 [Data](articles/9a439ad1.json)
+
+[Extended Data](ext_articles/9a439ad1.ext.json)
 
 ---
 
@@ -246,17 +280,23 @@ Women's organizations pointed out that if the Bill passes, many problems will be
 
 ---
 
-### இந்த ஆண்டு 7,686 ஹெக்டேர் நெற்பயிர்கள் சேதம்
+### Damage of 7,686 hectares of paddy this year
 
 *2024-08-09 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190704) · `ta`
 
-இந்த ஆண்டு 7,686 ஹெக்டேர் நெற்பயிர் பூச்சி தாக்குதல் மற்றும் வெள்ளத்தால் சேதமடைந்துள்ளது.
+This year, 7,686 hectares were damaged by paddy field attacks and floods. Despite this, the Ministry of Agriculture predicts a harvest of 20 lakh metric tons of paddy.
 
-இதேவேளை, இவ்வருட பருவத்தில் 20 இலட்சம் மெற்றிக் தொன் நெல் விளைச்சல் எதிர்பார்க்கப்படுவதாகவும் விவசாய அமைச்சு தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+This year, 7,686 hectares have been damaged by paddy attacks and floods.
+
+Meanwhile, the Ministry of Agriculture has stated that 20 lakh metric tons of paddy is expected this year.
 
 ◼️
 
 [Data](articles/3a45b5d3.json)
+
+[Extended Data](ext_articles/3a45b5d3.ext.json)
 
 ---
 
@@ -1130,19 +1170,31 @@ This MOU has been entered into by the FIU, in terms of the provisions of the Fin
 
 ---
 
-### உயர்நீதிமன்றத்துக்கு அப்பாற்பட்டு குடிவரவு திணைக்கள கட்டுப்பாட்டாளர் நாயகம் செயற்படுகிறார் - சம்பிக்க
+### The Department of Immigration and the Department of Immigration is beyond the High Court - Champika
 
 *2024-08-09 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190662) · `ta`
 
-வி.எப்.எஸ்.புதிய விசா விநியோகத்துக்கு இடைக்கால தடையுத்தரவை பிறப்பித்த உயர் நீதிமன்றம் பழைய முறைமையில் விசா விநியோக சேவையை முன்னெடுக்குமாறு அறிவுறுத்தியது.நீதிமன்றத்தின் அறிவுறுத்தலுக்கு அமைய குடிவரவு மற்றும் குடியகல்வு திணைக்கள கட்டுப்பாட்டாளர் நாயகம் செயற்படவில்லை. அரச அதிகாரி என்ற அடிப்படையில் நாட்டின் சட்டத்துக்கு அமைய கட்டுப்பாட்டாளர் நாயகம் செயற்பட வேண்டும்.இல்லையேல் கடுமையான நடவடிக்கையில் ஈடுபடுவோம் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+The High Court issued an interim injunction against the VFS New Visa Distribution system, with MP Patali Champika Ranawaka urging officials to adhere to national laws. This comes amid concerns over border security and the delegation of immigration responsibilities to a foreign corporation without proper national oversight. Additionally, MPs Sumanthiran and Rauf Hakeem have filed a case against the VSS system, highlighting ongoing legal challenges and governmental oversight issues.
 
-கொழும்பில் உள்ள  ஐக்கிய குடியரசு முன்னணியின் காரியாலயத்தில் வெள்ளிக்கிழமை (09) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது  மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டின் ஆட்புல எல்லையின் பாதுகாப்பை சவாலுக்குட்படுத்தும் வகையில் பாரதூரமான பிரச்சினைகளை  பொதுமக்கள் பாதுகாப்பு அமைச்சு ஏற்படுத்தியுள்ளது.வெளிநாட்டு சுற்றுலா பயணிகளை நாட்டுக்கு அழைத்தல் மற்றும் வேலையற்றோரை  தொழில் வாய்ப்புகளுக்காக வெளிநாடுகளுக்கு அனுப்பி வைத்தல் பொருளாதார மீட்சிக்கான திட்டங்களாக அரசாங்கம் கருதுகிறது.
+The High Court issued an interim injunction to the VFS New Visa Distribution.. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the Controller General should act on the basis of the law of the country as a state official.
+
+He made this statement during a media briefing held at the United States Office in Colombo on Friday (09).
+
+The Ministry of Public Security has caused serious issues to challenge the security of the country's border.
+
+Foreign reserves have increased due to the increase in the arrival of foreign tourists and the increase in employment opportunities.
+
+The responsibility and authority given to the Department of Immigration and Emigration on the country's border has been granted the Cabinet with the permission of the Cabinet since last April.
+
+We have not taken care of the provision of a national border to the foreign corporation of the country.
 
 ...
 
 [Data](articles/12e07b8f.json)
+
+[Extended Data](ext_articles/12e07b8f.ext.json)
 
 ---
 
@@ -1712,19 +1764,27 @@ The additional funding was announced during a visit to Sri Lanka by the U.S. Age
 
 ---
 
-### தனியார் துறை ஊழியர்களின் சம்பளம் உள்ளிட்ட உரிமைகளை பாதுகாக்க தேசிய கொள்கை அமைக்க வேண்டும் - அரசாங்கத்திடம் சஜித் கோரிக்கை
+### National policy should be set up to protect the rights of private sector employees
 
 *2024-08-09 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190641) · `ta`
 
-எமது நாட்டில் தனியார் துறைகளில் இலட்சக்கணக்கான மக்கள்  சேவையில் ஈடுபட்டு வருகின்றனர். அவர்களின் தொழில் பாதுகாப்பு, உழைப்புக்கு ஏற்ற சம்பளம் தொடர்பில் முறையான தேசிய கொள்கை அமைக்கப்பட வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+A national policy is needed to safeguard private sector employees' rights, including fair wages, safety, and benefits. The lack of such policies affects hundreds of thousands of workers facing issues like inadequate salaries, insurance, and instability. The opposition leader calls for a comprehensive approach to address these challenges, emphasizing the need for a National Occupational Safety Policy to ensure employee rights and welfare.
 
-தனியார் துறைகளில் பணியாற்றும் ஊழியர்களின்  சேவை பாதுகாப்பு தன்மை, காப்புறுதி மற்றும் அவர்களுக்கு கிடைக்கவேண்டிய போதுமான சம்பளம் தொடர்பில் தெளிவான முறைமை ஒன்று நாட்டின் சட்ட கட்டமைப்பில் இல்லை.
+🟩
 
-வருமான வரி திருத்தப் பிரச்சினை, நுகர்வோர் செலவு தொடர்பான அழுத்தம், உள்நாட்டு கடன் மறுசீரமைப்பு முறைமை, தொழில் ஸ்திரத்தன்மை உள்ளிட்ட பல பிரச்சினைகளுக்கு தனியார் துறை ஊழியர்கள் முகம்கொடுத்து வருகின்றனர். பால் இன சமத்துவம் உள்ளிட்ட முகம்கொடுத்துவரும் சவால்களுக்கு நாட்டில் தேசிய தொழில் கொள்கை ஒன்று இருக்க வேண்டும்.
+Hundreds of thousands of people are working in private sector in our country. Opposition Leader Sajith Premadasa said that a proper national policy should be set up on their salary and labor salary.
 
-...
+There is no clear system of the service safety, insurance and adequate salaries of employees working in the private sector.
+
+Private sector employees face a number of issues including income tax amendment issue, consumer cost pressure, domestic credit reconstruction system and industrial stability.. There should be a national professional policy in the country for the challenges that face the ethnic equality of milk.
+
+In particular, issues, including the rights, safety and additional allowance of our people who serve in the state and private sector, must be confirmed.. So I urge the government to take steps to protect the rights of employees in the private sector by proposing a National Occupational Safety Policy. He mentioned that.
+
+◼️
 
 [Data](articles/e3661900.json)
+
+[Extended Data](ext_articles/e3661900.ext.json)
 
 ---
 

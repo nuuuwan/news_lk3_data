@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 17:57:22**
+As of **2024-08-09 18:16:12**
 
 ## Newspaper Stats
 
@@ -1554,7 +1554,7 @@ The two went to court against the decision by the SJB to expel them.
 
 ---
 
-### Sri Lanka rupee opens stronger, bonds yield up
+### Sri Lanka rupee opens stronger, bond yields up
 
 *2024-08-09 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-yield-up-176138/) · `en`
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 17:06:28**
+As of **2024-08-09 17:20:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,854 (100.0%) of 39,857 articles have been extended.
+39,857 (100.0%) of 39,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,41 +44,59 @@ The said Bill was presented to Parliament on May 22, 2024, and it was passed wit
 
 [Data](articles/82145098.json)
 
+[Extended Data](ext_articles/82145098.ext.json)
+
 ---
 
-### இரு வெற்றிடங்கள்: ஐ.ம.ச அதிரடி தீர்மானம்
+### Two vacancies: IMC Action Resolution
 
 *2024-08-09 16:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-வெற்றிடங்கள்-ஐ-ம-ச-அதிரடி-தீர்மானம்/175-341869) · `ta`
 
-வெற்றிடமாக இருக்கும் ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரால் வெற்றிடமான ஆசனங்களுக்கு புதிய பாராளுமன்ற உறுப்பினர்களை நியமிப்பதில்லை என ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளது.
+The United People's Power decided not to appoint new MPs for vacant seats due to a discussion led by Sajith Premadasa, setting a precedent for other parties. This decision will remain in effect until after the presidential election, aiming to fill these vacancies post-election.
 
-சில நிமிடங்களுக்கு முன்னர்  சஜித் பிரேமதாச தலைமையில் நடைபெற்ற கலந்துரையாடலில் இந்தத் தீர்மானம் எடுக்கப்பட்டது. ஜனாதிபதித் தேர்தல் முடியும் வரை இந்த தீர்மானம் அமுல்படுத்தப்படும்.
+🟩
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள போதும் ஏனைய கட்சிகளுக்கு முன்னுதாரணமாக அமையும் நோக்கில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+The United People's Power has decided not to appoint new MPs for vacant seats by vacant Harin Fernando and Manusha Nanayakkara.
 
-இதன்படி ஜனாதிபதித் தேர்தலுக்குப் பின்னர் இந்த வெற்றிடங்களை உடனடியாக நிரப்புவதற்கு ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளதாக தெரியவந்துள்ளது
+The decision was taken in a discussion held by Sajith Premadasa a few minutes ago. The resolution will be implemented until the presidential election is over.
+
+It is reported that despite the presidential election, the decision has been made to set a precedent for other parties.
+
+Accordingly, the United People's Power has decided to fill these vacancies after the presidential election.
 
 ◼️
 
 [Data](articles/5bb9fd9a.json)
 
+[Extended Data](ext_articles/5bb9fd9a.ext.json)
+
 ---
 
-### ශානි ගේ ආරක්ෂාව ගැන අධිකරණය දුන් නියෝගය
+### Court of Assurance regarding Shani's safety
 
 *2024-08-09 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199759) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ ශානි අබේසේකර මහතාට දැනට ලබාදී තිබෙන ආරක්‍ෂාව ලබන 29 වනදා තෙක් ඒ ආකාරයෙන්ම බාධාවකින් තොරව පවත්වාගෙන යාමට පියවර ගන්නා බව නීතිපතිවරයා අද (09) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+Shani Abeysekara's security remains a concern, with the Supreme Court hearing his plea for enhanced protection due to ongoing threats. The Attorney General assured the court that additional measures would be in place until the 29th, including armed police officers for both his presence in court and during travels. However, the petitioner's counsel argued that current arrangements were insufficient, highlighting the need for more robust security protocols.
 
-තමන්ට ලබා දී තිබෙන ආරක්ෂාව තර කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා  ශානි අබේසේකර මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥවරිය මේ බව දැනුම් දුන්නාය.
+🟩
 
-මෙම පෙත්සම අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ සහ මුර්දු ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ  විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීය.
+The Attorney General told the Supreme Court today that the security of the former Director of the Criminal Investigation Department Shani Abeysekara will continue to be interrupted until 29th.
 
-එහිදී පෙත්සම්කාර ශානි අබේසේකර මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ උපුල් ජයසූරිය මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවා දායකයා රිය අනතුරකට ලක් කොට ඝාතනය කිරීමේ සූදානම පවතින බවට තොරතුරු ලැබී ඇතැයි වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ අධිකාරීයේ පොලිස් කණ්ඩායම විසින් ඉදිරිපත් කළ වාර්තාවක සඳහන් කර  තිබෙන බව කියා සිටියේය.
+The State Counsel appearing on behalf of the Attorney General, the Attorney General was called for today when a fundamental rights petition filed by Mr. Shani Abeysekara for the order to issue a decree.
+
+The petition was considered in front of the three-member Supreme Court Bench comprising Chief Justice Jayantha Jayasuriya, Vijith Malalgoda and Mustratu Fernando.
+
+President's Counsel Upul Jayasuriya appearing on behalf of the petitioner Shani Shina Abeysekara, it is said that it was reported that the police team was presented by the police team's report to protect his client..
+
+Accordingly, the security he has already provided is not sufficient.
+
+The State Counseling stated in court, two police officers have been deployed to protect him in court and four other officials have been deployed for travel.
 
 ...
 
 [Data](articles/45516240.json)
+
+[Extended Data](ext_articles/45516240.ext.json)
 
 ---
 

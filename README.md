@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 14:21:02**
+As of **2024-08-09 14:36:36**
 
 ## Newspaper Stats
 
-*Scraped **39,827** Articles*
+*Scraped **39,828** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 343
+dbsjeyarajcom | 344
 newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 376
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,827 (100.0%) of 39,827 articles have been extended.
+39,827 (100.0%) of 39,828 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1896,6 +1896,20 @@ During the visit, he will hold bilateral discussions with his counterpart at the
 
 ---
 
+### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
+
+*2024-08-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
+
+President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
+
+...
+
+[Data](articles/4933fe13.json)
+
+[Extended Data](ext_articles/4933fe13.ext.json)
+
+---
+
 ### NIBM REACH 2024 delivers platform for students to shine on stage
 
 *2024-08-09 02:35:00* · [`islandlk`](http://island.lk/nibm-reach-2024-delivers-platform-for-students-to-shine-on-stage/) · `en`
@@ -2034,6 +2048,24 @@ In the south, the Russian forces attacked the port of Mary, as the Russians were
 
 ---
 
+### Tourism Minister   Harin Fernando and  Labour Minister Manusha Nanayakkara Lose  Their MP Seats Following Two Rulings by Three Judge Bench of  Supreme Court Upholding Expulsion of Both by SJB Party as Valid
+
+*2024-08-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84510) · `en`
+
+The Supreme Court, in two landmark judgments today, determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Ministers Harin Fernando and Manusha Nanayakkara from the party is legally valid.
+
+As a result of this Supreme Court judgment, the expulsion of Harin Fernando and Manusha Nanayakkara will lead to the loss of their parliamentary seats and Ministerial portfolios.
+
+The Supreme Court three-judge-bench comprising Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeyesekere held that the decision made by the SJB to expel the two petitioners from the party is valid in law.
+
+Tourism Minister Harin Fernando and Labour and Foreign Employment Minister Manusha Nanayakkkara had filed two separate expulsion petitions challenging the SJB decision to remove them from their party membership.
+
+...
+
+[Data](articles/5a267dc0.json)
+
+---
+
 ### 2024-08-08 (Thursday)
 
 ### Voice in Parliament for the Mother of Mannar
@@ -2079,45 +2111,5 @@ At the UNP executive committee held today, he said that the resolution was reach
 [Data](articles/62d746ad.json)
 
 [Extended Data](ext_articles/62d746ad.ext.json)
-
----
-
-### Lal Kanthe says he is arrested
-
-*2024-08-08 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199728) · `si`
-
-Lal Kanthe was arrested, sparking calls from the Bar Association of Lal Kanthi for immediate punishment. Their efforts to direct this issue to Parliament were unsuccessful, leading them to file a complaint with the CID on August 8th.
-
-🟩
-
-National Power of National Power K.D.D.D.d. According to the Bar Association of Lal Kanthi, the immediate arrest and punishment should be punished.
-
-The attempt to turn that struggle towards Parliament failed. The members of the Association have lodged a complaint with the CID today (08).
-
-◼️
-
-[Data](articles/cacb6ad6.json)
-
-[Extended Data](ext_articles/cacb6ad6.ext.json)
-
----
-
-### Foreign Minister Ali Sabry to visit Egypt
-
-*2024-08-08 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101092/foreign-minister-ali-sabry-to-visit-egypt) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry is scheduled to undertake an official visit to Egypt from 07 to 09 August 2024, on an invitation extended by the Egyptian Foreign Minister Badr Abdelatty.
-
-During the visit, Minister Ali Sabry will engage in bilateral discussions with his counterpart at the Ministry of Foreign Affairs in Cairo and also meet with Minister of Investment and Foreign Trade of Egypt, the Ministry of Foreign Affairs said.
-
-Minister Sabry is also expected to have discussions at the Federation of Egyptian Chambers of Commerce and meet with several other dignitaries, with a view to strengthening the multifaceted relations between the two countries.
-
-The bilateral visit is expected to further consolidate the longstanding ties between Sri Lanka and Egypt, the statement added.
-
-◼️
-
-[Data](articles/4a8daac2.json)
-
-[Extended Data](ext_articles/4a8daac2.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 12:54:00**
+As of **2024-08-09 13:06:09**
 
 ## Newspaper Stats
 
-*Scraped **39,814** Articles*
+*Scraped **39,817** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 343
 newsfirstlk | 363
-bbccomsinhala | 373
+bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
@@ -18,53 +18,101 @@ dailyftlk | 2,568
 adalk | 3,652
 adaderanalk | 4,626
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,014
+tamilmirrorlk | 5,015
 virakesarilk | 6,304
-adaderanasinhalalk | 6,753
+adaderanasinhalalk | 6,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,810 (100.0%) of 39,814 articles have been extended.
+39,814 (100.0%) of 39,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### அரியநேந்திரன் தொடர்பில் திங்கள் முடிவு: மாவை
+### “பதவிகளைத் துறப்பது பெரிய விடயமல்ல”
+
+*2024-08-09 12:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளைத்-துறப்பது-பெரிய-விடயமல்ல/175-341856) · `ta`
+
+விட்டுக்கொடுப்பதில் தேர்ச்சி பெற்ற தமக்கு அமைச்சுப் பதவிகளைத் துறப்பது பெரிய விடயமல்ல என தெரிவித்த சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ நான்கு அமைச்சுகளின் பணிகளை சிறப்பாக செய்திருந்தேன் என்றார்.
+
+சுற்றுலா சபை ஊழியர்களிடம் ​வெள்ளிக்கிழமை (09)  விடைபெறுவதற்கு முன்னர் உரையாற்றிய  ஹரின் பெர்னாண்டோ, உயர் நீதிமன்றம் இன்று காலை வழங்கிய உத்தரவுக்கு தலை வணங்குவதாகவுமு், இவ்வாறு நடக்கலாம் என்று தெரிந்தே ஜனாதிபதியுடன் இணைந்து கொண்டதாக தெரிவித்தார்.
+
+அமைச்சர் பதவியை நீக்கினாலும் இந்த நாட்டின் குடியுரிமையை நீக்க முடியாது என தெரிவித்த அவர், அமைச்சராக இருந்த இரண்டு வருடங்களில் நேர்மையாக செயற்பட்டதாக குறிப்பிட்டார்.
+
+ஜனாதிபதியினால் அறிவிக்கப்பட்ட பதவிகளை சுற்றுலா சபையின் தலைவர் உள்ளிட்ட அதிகாரிகள் விட்டுச் செல்ல வேண்டிய அவசியமில்லை எனவும், மேற்கொள்ளப்பட்ட பணிகளை எதிர்காலத்தில் முன்னெடுக்குமாறும் கேட்டுக்கொள்கின்றோம் எனவும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/acf1a80b.json)
+
+---
+
+### දේශපාලන පළිගැනීම් කොමිසමේ නිර්දේශ බලරහිත කරයි
+
+*2024-08-09 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199746) · `si`
+
+පසුගිය රජය සමයේ දේශපාලන පළිගැනීම් පිළිබඳව සොයාබැලීම සඳහා එවක ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් පත් කළ පරීක්ෂණ කොමිසම විසින් ජනාධිපති ලේකම් සමන් ඒකනායක, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු නියෝජ්‍ය පොලිස්පති රවී සෙනෙවිරත්න, එහි හිටපු අධ්‍යක්ෂ ශානි අබේසේකර ඇතුළු පිරිසකට එරෙහිව සිදු කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+ඒ අනුව පෙත්සම්කරුවන්ට රුපියල් 150,000 ක් බැගින් නඩු ගාස්තු ගෙවන ලෙසත් ශ්‍රේෂ්ඨාධිකරණය රජයට නියෝග කළේය.
+
+තමන්ට එරෙහිව අදාළ කොමිසම විසින් නිකුත් කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු මහාධිකරණ විනිසුරු පද්මිණී රණවක ගුණතිලක, හිටපු නාවික හමුදාපති ට්‍රැවිස් සින්නයියා, ආනන්ද විජේපාල, ජනාධිපති නීතිඥ උපුල් ජයසූරිය, සන්ධ්‍යා එක්නැලිගොඩ ඇතුළු පිරිසක් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+පෙත්සම්කරුවන් අදාළ පෙත්සම් මගින් චෝදනා කර තිබුණේ තමන්ගෙන් කරුණු විමසීමකින් තොරව තමන්ට අගතිදායක ලෙස නිර්දේශ සහ සොයා ගැනීම් නිකුත් කිරීමට අදාළ කොමිසම ගනු ලැබූ තීරණය නීතියට පටහැනි බවය.
+
+...
+
+[Data](articles/c99298c2.json)
+
+---
+
+### Monday decision on Ariyanendran
 
 *2024-08-09 12:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேந்திரன்-தொடர்பில்-திங்கள்-முடிவு-மாவை/175-341855) · `ta`
 
-ஐனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிடும் தமிழரசு கட்சியின் மத்திய குழு உறுப்பினர் அரியநேந்திரன் தொடர்பில் 11 ஆம்  திகதி முடிவெடுக்கப்படும் என தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா தெரிவித்துள்ளார்.
+The Tamil National Alliance (TNA) will decide on August 11th whether Ariyanendran, a central committee member, will run as their common candidate in the upcoming presidential election. This decision comes after Ariyanendran sought permission from TNA leader Mawai Senathirajah to contest as the party's general candidate. The party's central committee will convene to discuss this, reflecting the membership's prior decision to field a common candidate.
 
-தமிழரசு கட்சி ஐனாதிபதி தேர்தல் தொடர்பில்  இதுவரை எவ்வித முடிவுகளையும் மேற்கொள்ள முன்னர் அக் கட்சியின் மத்தியகுழு உறுப்பினரான அரியநேந்திரன் பொது  வேட்பாளராக  2024 ஐனாதிபதி தேர்தலில் போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டுள்ள விடயம்  தொடர்பில் தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா  தொடர்பு கொண்டு வினவிய போதே அவர் மேற்கண்டவாறு
+🟩
 
-கட்சியின் மத்திய குழு எதிர்வரும் 11.08.2024 ஆம் திகதி ஞாயிற்றுக் கிழமை கூடி ஐனாதிபதி தேர்தல் தொடர்பில்  கலந்துரையாடி முடிவுகளை மேற்கொள்ளவுள்ளது.
+The Tamil National Alliance (TNA) leader Mawai Senathirajah has said that the decision will be taken on the 11th of the Tamil National Alliance (TNA) Central Committee member Ariyanendran, who is contesting as a common candidate in the presidential election.
 
-நிலையில் கட்சி ஒரு நிலைப்பாட்டை எடுக்க முன்னர் கட்சியின் உறுப்பினர் பொது வேட்பாளராக போட்டியிட தீர்மானித்த விடயம் தொடர்பில் அக் கூட்டத்தில் கலந்துரையாடப்படும் எனத் தெரிவித்த அவர்
+When he contacted the Tamil National Alliance (TNA) leader Mawai Senathirajah, he was asked to contest the 2024 presidential election as the general candidate of the party's central committee, Ariyanendran, before the TNA made any decisions on the presidential election.
 
-பொது வேட்பாளராக  அரியநேந்திரன் அறிவிக்கப்பட்ட பின்னர் என்னை வந்து சந்தித்து விடயத்தை  தெரியப்படுத்தி சென்றுள்ளார் என்றும் தெரிவித்தார்.
+The party's central committee will meet on Sunday 11.08.2024 to discuss the election of the presidential election.
+
+He said that the party would discuss the matter as the party's membership decided to contest as a common candidate before the party took a stand.
+
+He said that Ariyanendran had come to meet me after the announcement as the common candidate.
 
 ◼️
 
 [Data](articles/b56c8ca5.json)
 
+[Extended Data](ext_articles/b56c8ca5.ext.json)
+
 ---
 
-### කෙහෙළියගේ ඉල්ලීම ගැන අධිකරණය දුන් නියෝගය
+### Court of Keheliya's request
 
 *2024-08-09 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199745) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් වූ නඩු විභාගය අවසන් වන තෙක් තමාව රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ගොනු කර ඇති පෙත්සමේ නියෝගය ප්‍රකාශ කිරීම කල් තබා තිබේ.
+Keheliya Rambukwella, ex-Health Minister, had an order for remand issued but it was delayed due to a court postponement until September 4. The court, led by Judges Nissankula Karunaratne and Shashi Mahendran, also decided on whether the former minister could take an exam, with the outcome pending release details.
 
-නමුත් අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල එම තීන්දුව ප්‍රකාශ කිරීම සැප්තැම්බර් 4 වැනි දින දක්වා කල්තබන බව සඳහන් කර තිබේ.
+🟩
 
-තවද හිටපු අමාත්‍යවරයා විසින් ඉදිරිපත් කළ පෙත්සම විභාගයට ගැනීමට අවසර දෙන්නේද? නැද්ද? යන තීන්දුව සහ ඔහු ඇප මත මුදාහරින ලෙස කර තිබෙන ඉල්ලීම පිළිබඳව තීන්දුව ද එදින ප්‍රකාශයට පත් කිරීමට නියමිතය.
+Former Health Minister Keheliya Rambukwella has preserved the order of Former Health Minister Keheliya Rambukwella to be remanded to issue the order in the Maglakanda Magistrate's Court.
+
+However, President's Court, Judge Nissankula Karunaratne and Shashi Mahendran, the judge's panel of judges has been postponed until September 4.
+
+Also, the petition filed by the former Minister is permitted to take the examination?Not?The verdict will be published on the verdict and the decision to be released on bail.
 
 ◼️
 
 [Data](articles/e574f76e.json)
+
+[Extended Data](ext_articles/e574f76e.ext.json)
 
 ---
 
@@ -288,15 +336,17 @@ Varied Zakistan, the Visud, Visud, Pakistani, which has been observed that there
 
 ---
 
-### සරත් ෆොන්සේකා ඉල්ලා අස්වෙයි
+### Sarath Fonseka resigns
 
 *2024-08-09 11:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ඉල්ලා-අස්වෙයි/11-411273) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Parliamentarian Field Marshal Sarath Fonseka has resigned from the post of the President of the Samagiation.
 
 ◼️
 
 [Data](articles/52a893ff.json)
+
+[Extended Data](ext_articles/52a893ff.ext.json)
 
 ---
 
@@ -400,19 +450,25 @@ The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara
 
 ---
 
-### மனுஷ, ஹரின் இருவரையும் நீக்கியது சரி
+### It is okay to remove both men, Harin
 
 *2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/150-341851) · `ta`
 
-அமைச்சர்களான மனுஷ்ய நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்தது.
+The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to revoke their memberships.
 
-உயர் நீதிமன்ற நீதியசர்களான விஜித் மலல்கொட, அச்சல வெங்கப்புலி மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதியரசர்கள் அமர்வு இந்த தீர்ப்பை வழங்கியுள்ளது.
+🟩
 
-தமது கட்சி உறுப்புரிமையை பறிப்பதற்கு ஐக்கிய மக்கள் சக்தி எடுத்த தீர்மானம் சட்டத்திற்கு முரணானது என அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் தாக்கல் செய்த மனுவை உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
+
+The judgment of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera - the judiciary has issued the verdict.
+
+The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
 
 ◼️
 
 [Data](articles/4b793818.json)
+
+[Extended Data](ext_articles/4b793818.ext.json)
 
 ---
 
@@ -1268,6 +1324,26 @@ The suspects are residents in Colombo 39, 45 and 55 years.
 
 ---
 
+### හරීන් සහ මනුෂගේ පාර්ලිමේන්තු මන්ත්‍රී ධුර අහෝසි වෙයිද?
+
+*2024-08-09 06:34:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz73w0eleygo) · `si`
+
+මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (අගෝස්තු 9 වැනිදා) තීන්දු කළේය.
+
+සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මනුෂ නානායකාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරු ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම තීන්දුව ලබා දෙනු ලැබීය.
+
+අචල වෙංගප්පුලි, විජිත් මළල්ගොඩ යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව  ශ්‍රේෂ්ඨාධිකරණ විනිසුරු අර්ජුන ඔබේසේකර මෙම තීන්දුව ප්‍රකාශයට පත් කළේය.
+
+තමන්ට සාධාරණ විනය පරීක්‍ෂණයක් සඳහා පෙනී සිටීමට අවස්ථාව ලබා නොදුන් බවත් ඒ තුළින් ස්වභාවික යුක්ති ධර්මය නමැති නීතිමය මූලධර්මය උල්ලංඝණය වන බවත් හරින් ප්‍රනාන්දු සහ මනුෂ නානායක්කාර ශ්‍රේෂ්ඨාධිකරන්ට ඉදිරිපත් කළ පෙත්සමෙන් පැමිණිලි කර තිබුණි.
+
+එහෙත් එම තර්කය පිළිගත නොහැකි බව සඳහන් කළ  ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඒ අනුව පෙත්සම්කරුවන් සමගි ජන බලවේගයෙන් නෙරපීමට   ගනු ලැබූ තීරණය නීත්‍යානුකූල බවත් සඳහන් කළේය.
+
+...
+
+[Data](articles/4567d727.json)
+
+---
+
 ### CA Sri Lanka’s 45th National Conference of Chartered Accountants to revolve around “Marching Beyond Margins”
 
 *2024-08-09 06:33:21* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-s-45th-National-Conference-of-Chartered-Accountants-to-revolve-around-Marching-Beyond-Margins/34-765323) · `en`
@@ -2029,85 +2105,5 @@ The condition is that if the program is not completed within the day mentioned, 
 [Data](articles/16c9aa89.json)
 
 [Extended Data](ext_articles/16c9aa89.ext.json)
-
----
-
-### Medical experts who have left the country should come back to the country - Minister of Health
-
-*2024-08-08 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190584) · `ta`
-
-Health Minister Ramesh Pathirana urges medical professionals who've left the country to return, citing shortages of 52 essential drugs and specialists in state hospitals. He mentions efforts to train local doctors and welcomes those returning from abroad. Despite challenges, the health sector has improved, with measures like reducing dengue deaths and establishing centers for disease control.
-
-🟩
-
-There is a shortage of 52 types of pharmaceuticals in state hospitals. The appropriate answer to it, though, has drugs. Similarly comes from a shortage of specialist doctors. Health and Industry Minister Ramesh Pathirana said that we have informed the Medical Council to train the doctors.
-
-He said this while addressing the debate on the second reading of the Medical Amendment Bill held in Parliament on Thursday (08).. As he continues to mention,
-
-There is a shortage of 52 essential drugs in the health field. Instead of drugs used in all hospitals in the country.
-
-We have taken steps to provide opportunities for those who take a medical degree abroad and give them opportunities.
-
-At the same time, we are pleased that the doctors who have gone abroad due to the economic crisis have decided to return to Sri Lanka.. We welcome them.
-
-Thus, when they take a medical degree abroad and visit the country, they do not accept it here.. Thousands of medical universities in the world can serve the country.
-
-...
-
-[Data](articles/066099bd.json)
-
-[Extended Data](ext_articles/066099bd.ext.json)
-
----
-
-### The death of Mannar young mother Sindhuja: Proper inquiries will be carried out - Minister of Health
-
-*2024-08-08 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190580) · `ta`
-
-Health Minister Ramesh Pathirana assures proper inquiry into the death of young mother Sindhuja at Mannar Hospital, promising disciplinary action if negligence is found. The incident sparks controversy, with a new bill aimed at patient protection introduced.
-
-🟩
-
-We have paid special attention to the death of a young mother Sindhuja who was admitted to the Mannar Hospital. Health Minister Ramesh Pathirana said that disciplinary action would be taken against those involved if there were any mistakes in this regard.
-
-Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (08), Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan
-
-The death of Mariaraj Sindhuja at the Mannar Hospital has caused a massive controversy.
-
-Special attention will be paid to this issue and action will be taken. The investigation report has not yet been investigated. If there are any mistakes in the matter, we will definitely take disciplinary action.
-
-At the same time, focus on protecting patients in the country. That is why we have put forward a new bill.
-
-◼️
-
-[Data](articles/6b29337b.json)
-
-[Extended Data](ext_articles/6b29337b.ext.json)
-
----
-
-### Submission to Parliament
-
-*2024-08-08 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190585) · `ta`
-
-Susil Premajayantha, as the Chief Minister, presented the Backup Bill to Parliament, which became the Ceremony Act No. 9 of 2024 after passing. Despite proposed amendments, they were not included due to a lack of enrollment during the committee debate. The Cabinet approved the amendments on February 12, 2024, allowing the Bill to be finalized and presented to Parliament on July 22.
-
-🟩
-
-On behalf of the Minister of Public Security, the Chief Minister and Minister of the Council, Susil Premajayantha, presented the Bill to the House.
-
-After the Bill was passed in Parliament in accordance with the Supreme Court's decision on the Backup Bill, the Ceremony Act No. 9 of 2024 is now strong.
-
-Although the amendments to some sections of the Bill were proposed before the Parliament passed the Bill, the amendments could not be enrolled during the committee debate.
-
-Accordingly, the approval was approved at a Cabinet meeting held on 2024.02.12 to amend the Covenant Backup Act No. 09 of 2024, including the amendments.
-
-Accordingly, the Bill, prepared by the Bill, was approved by the Attorney General's approval and allowed to be presented to Parliament on July 22 last year at the Cabinet meeting.. Accordingly, the amendment Bill was presented to the House on Thursday.
-
-◼️
-
-[Data](articles/85abe8f8.json)
-
-[Extended Data](ext_articles/85abe8f8.ext.json)
 
 ---

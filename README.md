@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 12:21:28**
+As of **2024-08-09 12:36:46**
 
 ## Newspaper Stats
 
-*Scraped **39,801** Articles*
+*Scraped **39,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,128 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,650
-adaderanalk | 4,624
+adalk | 3,651
+adaderanalk | 4,626
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,009
-virakesarilk | 6,301
+tamilmirrorlk | 5,012
+virakesarilk | 6,304
 adaderanasinhalalk | 6,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,800 (100.0%) of 39,801 articles have been extended.
+39,801 (100.0%) of 39,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### ஆனையிறவு விபத்தில் ஒருவர் பலி
+
+*2024-08-09 12:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஆனையிறவு-விபத்தில்-ஒருவர்-பலி/72-341854) · `ta`
+
+கிளிநொச்சி பளை பொலிஸ்  பிரிவுக்குட்பட்ட ஆனையிறவு  இராணுவ சோதனை சாவடியில் வியாழக்கிழமை (09) காலை  இரண்டு மோட்டார் சைக்கிள்கள்  ஒன்றுடன் ஒன்று மோதி ஏற்பட்ட விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் இருவர் படுகாயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+
+கிளிநொச்சி பளை பொலிஸ்  பிரிவுக்குட்பட்ட ஆனையிறவு இராணுவ  சோதனைச் சாவடி சாவடியில் அதிகாலை குறித்த விபத்து இடம்பெற்றுள்ளது
+
+இந்த விபத்தின் போது ஒருவர்   உயிரிழந்துள்ளதுடன் மேலும்  இருவர் படுகாயமடைந்த நிலையில் கிளிநொச்சி  மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்
+
+அதாவது யாழ்ப்பாணம் நோக்கி பயணித்த இரண்டு மோட்டார் சைக்கிள்கள் ஒன்றுடன் ஒன்று மோதி குறித்த விபத்து ஏற்பட்டுள்ளது சம்பவம் தொடர்பில் பளை பொலிஸார்விசாரணைகளை முன்னெடுத்து வருவதுடன் உயிரிழந்தவரின் சடலம் கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/79c02524.json)
+
+---
+
+### ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகளுக்கு தூக்கமின்மை பிரச்சினை - வைத்திய நிபுணர்கள் தெரிவிப்பு
+
+*2024-08-09 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190633) · `ta`
+
+ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகள் தூக்கமின்மைபிரச்சினைகளை எதிர்கொள்கின்றனர். இது பல்வேறு உடல் மற்றும் மனநல பிரச்சினைகளுக்கு வழிவகுக்கும் என சுகாதார மேம்பாட்டு பணியகத்தின் ஆலோசகர் வைத்தியர் இனோகா விக்கிரமசிங்க  தெரிவித்துள்ளார்.
+
+நாட்டில் பிள்ளைகள் மத்தியில் தூக்கம்  குறித்து அதிக ஆய்வுகள் மேற்கொள்ளப்படவில்லை என்றாலும், கிடைக்கக்கூடிய மட்டுப்படுத்தப்பட்ட தரவுகளின்படி, ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகளுக்கு தூக்கமின்மை பிரச்சினை உள்ளது.
+
+தூக்க சுகாதாரம் என்பது நல்ல தூக்கத்தை எளிதாக்கும் நடத்தை மற்றும் சுற்றுச்சூழல் நடைமுறைகளின் தொகுப்பாகும். இந்த காரணிகள் ஒரு நல்ல இரவு தூக்கத்திற்கு உதவும் பழக்கங்களாகும்.
+
+முன்பெல்லாம், சூரியன் மறையும் போது தூங்கச் செல்வதும், சூரியன் உதிக்கும் போது விழிப்பதும் வழக்கமாக இருந்தது.
+
+செயற்கை வெளிச்சத்தின் நீடித்த பயன்பாடு மற்றும் கைத்தொலைபேசிகள், கணினிகள், டெப்கள் மற்றும் தொலைக்காட்சி போன்ற சாதனங்களில் நேரத்தை செலவிடுவது மக்களின் தூங்கும் முறைகளில்  பாதிப்பை ஏற்படுத்துகிறது.
+
+...
+
+[Data](articles/4d3ecbe0.json)
+
+---
+
+### Sheikh Hasina will return to Bangladesh for elections, her son says
+
+*2024-08-09 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101106/sheikh-hasina-will-return-to-bangladesh-for-elections-her-son-says) · `en`
+
+Former Bangladesh Prime Minister Sheikh Hasina will return to her country when its new caretaker government decides to hold elections, her son said, but it was not clear if she would contest.
+
+Hasina fled to neighbouring India on Monday after weeks of deadly protests forced her to quit. A caretaker government led by Nobel Peace laureate Muhammad Yunus was sworn in on Thursday, which will be tasked with holding elections.
+
+Speaking to the Times of India daily, her son Sajeeb Wazed Joy, who is based in the U.S., said, “For the time being, she (Hasina) is in India. She will go back to Bangladesh the moment the interim government decides to hold an election.”
+
+He did not specify whether Hasina, 76, will contest elections. “My mother would have retired from politics after the current term,” Joy said.
+
+...
+
+[Data](articles/4c6261d3.json)
+
+---
+
+### Manusha and Harin pay the price for putting country first - Kanchana
+
+*2024-08-09 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101105/manusha-and-harin-pay-the-price-for-putting-country-first-kanchana) · `en`
+
+Minister Kanchana Wijesekara says that Ministers Manusha Nanayakkara and Harin Fernando are in the current problematic situation as a result of them putting the country before their political party.
+
+Posting on ‘X’ (formerly Twitter) after the Supreme Court’s ruling regarding their expulsion from the party was delivered, Minister Wijesekara stated that not many would have put their political careers and their Parliamentary membership on the line for the country’s national agenda, knowing this outcome.
+
+“The Supreme Court today gave an order in terms of the law of the country and the constitution of the SJB”, he added.
+
+Furthermore, Wijesekara said: “Both Harin Fernando and Manusha Nanayakkara extended their support to President Ranil Wickremesinghe at a very critical time of the country. They both put their political careers on the line knowing this outcome in the hour of need.”
+
+...
+
+[Data](articles/6f53ec8a.json)
+
+---
+
+### மஹிந்தவுடன் முக்கிய கலந்துரையாடல் : பதவி விலக ஆலோசனை
+
+*2024-08-09 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190639) · `ta`
+
+ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்‌ஷவுக்கு ஆதரவு வழங்கும் இராஜாங்க அமைச்சர்கள் பதவி விலக ஆலோசித்து வருகின்றனர். பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்‌ஷவுடன் விசேட கலந்துரையாடலில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a87261b3.json)
+
+---
+
+### ரஸ்யாவின் கேர்க்ஸ் பகுதிக்கு  ஊருடுவிய உக்ரைன் படையினர் - மூன்றாவது நாளாக கடும் மோதல் - ரஸ்ய இராணுவ வீரர்கள் பலர் கைது
+
+*2024-08-09 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190640) · `ta`
+
+ரஸ்யாவின் கேர்ஸ்க் பகுதிக்கு ஊருடுவியுள்ள உக்ரைன் படையினர் தொடர்ந்து மூன்றாவது நாளாக ரஸ்ய படையினருடன் மோதலில் ஈடுபட்டுள்ளனர்.
+
+கேர்க்ஸ் பிராந்தியத்தில் 13 கிலோமீற்றர் உள்ளே உள்ள கிராமமொன்றை நோக்கி உக்ரைனிய படையினர் முன்னேறிச்செல்கின்றனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+கேர்க்ஸ் எல்லையிலிருந்து 13 கிலோமீற்றர் தொலைவில் உள்ள  கொரெனெவோ என்ற பகுதியில் மோதல்கள் இடம்பெறுவதாக ரஸ்யாவின் புளொக்கர்கள் தெரிவித்துள்ளனர்.
+
+ரஸ்யாவிற்குள் ஆறுகிலோமீற்றர் தொலைவில் உள்ள சுட்ஜாவின் மேற்குபகுதி உக்ரேனிய படையினரின் கட்டுப்பாட்டின் கீழ் உள்ளதாக அவர்கள் தெரிவித்துள்ளனர்.
+
+செவ்வாய்கிழமை திடீர் தாக்குதலை மேற்கொண்டு சுட்ஜாவினை கைப்பற்றிய உக்ரைன் படையினர் வடமேற்கு வடக்கு திசை நோக்கி முன்னேறியுள்ளனர்.
+
+◼️
+
+[Data](articles/0738fa32.json)
+
+---
 
 ### Decision on Keheliya’s bail appeal further deferred
 
@@ -50,11 +156,13 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 [Data](articles/2b0d7a39.json)
 
+[Extended Data](ext_articles/2b0d7a39.ext.json)
+
 ---
 
 ### Fonseka resigns
 
-*2024-08-09 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190636) · `ta`
+*2024-08-09 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190636) · `ta`
 
 Field Marshal Sarath Fonseka resigned as the United People's Power Chairman on September 9th. The party confirmed receiving his resignation letter through Secretary Ranjith Mathuma Bandara.
 
@@ -154,6 +262,20 @@ Field Marshal Sarath Fonseka has resigned from the post of United People's Power
 
 ---
 
+### අපේ ආණ්ඩුවක් යටතේ පක්ෂ මාරු කරණ මන්ත්‍රීවරු ගෙදර යවන්න නීති ගේනවා
+
+*2024-08-09 11:24:41* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආණ්ඩුවක්-යටතේ-පක්ෂ-මාරු-කරණ-මන්ත්‍රීවරු-ගෙදර-යවන්න-නීති-ගේනවා/11-411272) · `si`
+
+පක්ෂ මාරු කරන පිරිස් ගෙදර යැවීම වෙනුවෙන් ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ නීති සකස් කරන බව එහි නායක පාර්ලිමේන්තු මන්ත්‍රි අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+මල්වාන ප්‍රදේශයේ පැවති මුස්ලිම් සහෝදරත්වයේ හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/12c7c0fd.json)
+
+---
+
 ### Sarath Fonseka resigns as SJB’s Chairman
 
 *2024-08-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101102/sarath-fonseka-resigns-as-sjbs-chairman) · `en`
@@ -169,6 +291,22 @@ On July 25, Fonseka officially announced his presidential candidacy stating that
 [Data](articles/1c4b11a4.json)
 
 [Extended Data](ext_articles/1c4b11a4.ext.json)
+
+---
+
+### மனுஷ, ஹரின் இருவரையும் நீக்கியது சரி
+
+*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
+
+அமைச்சர்களான மனுஷ்ய நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்தது.
+
+உயர் நீதிமன்ற நீதியசர்களான விஜித் மலல்கொட, அச்சல வெங்கப்புலி மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதியரசர்கள் அமர்வு இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+தமது கட்சி உறுப்புரிமையை பறிப்பதற்கு ஐக்கிய மக்கள் சக்தி எடுத்த தீர்மானம் சட்டத்திற்கு முரணானது என அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் தாக்கல் செய்த மனுவை உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+
+◼️
+
+[Data](articles/436296c3.json)
 
 ---
 
@@ -1973,205 +2111,5 @@ Meanwhile, Yogi Babu's film 'Bot' has been a big and critically successful in hi
 [Data](articles/b05d5378.json)
 
 [Extended Data](ext_articles/b05d5378.ext.json)
-
----
-
-### Sajith -led coalition is not going to challenge Ranil's victory - the United National Party
-
-*2024-08-08 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190615) · `ta`
-
-Sajith Premadasa's coalition won't challenge Ranil Wickremesinghe's victory in the United People's Power election. The coalition aims to support Wickremesinghe, with no new faces joining Parliament. Wickremesinghe is expected to ensure economic stability by 2027/28. Critics accuse the opposition of spreading false propaganda to destabilize the country, making this election crucial for its future direction.
-
-🟩
-
-The election of the United People's Power. Former United National Party (UNP) parliamentarian Ashu Marasinghe said that the alliance Ranil Wickremesinghe's victory was no challenge.
-
-He was speaking at a press conference held at the UNP headquarters, Sirikotha.
-
-A coalition has been launched ahead of the United People's Power election, led by opposition leader Sajith Premadasa.
-
-In this alliance, no newcomers joined the parliament, except for members who support Sajith Premadasa. The coalition drama has been staged to divert people's gathering on Ranil Wickremesinghe.
-
-And the United People's Power coalition will never challenge Ranil Wickremesinghe's victory in the upcoming presidential election. At the same time, those in the coalition will gradually join Ranil Wickremesinghe in the coming years.
-
-...
-
-[Data](articles/43674285.json)
-
-[Extended Data](ext_articles/43674285.ext.json)
-
----
-
-### Elections Officers jump to the CMC
-
-*2024-08-08 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199723) · `si`
-
-Election officials and police visited the Ceylon Petroleum Corporation's Dematagoda Head Office due to concerns over the lack of introduction to the Elections Commission regarding new fuel stations and warehouses. This includes the introduction of new staff to the warehouse terminal and a lab. Additionally, the "Dhamma Big Fokey" program highlighted the number of presidential election candidates. The Election Commission Chairman mentioned limitations on ballot paper sizes, stating that exceeding lengths require changes to avoid practical issues like extended voting times.
-
-🟩
-
-A group of Elections Commission officials and police officers had arrived at the Dematagoda Head Office at Ceylon Petroleum Corporation this morning.
-
-The introduction of new fuel station and warehouse peripheral fuel lack of introduction to the Elections Commission, including the introduction of new personnel to the warehouse terminal, is the introduction of new personnel laboratory to the Election Commission, introducing a new fuel station and other personnel.
-
-Meanwhile, Dhamma 'Big Fokey' program focused on the existence of the number of candidates of the presidential election.
-
-Chairman of the Election Commission, Chairman of the Indicultural Commission. Mr. Ratnayake said,
-
-"There is a limit to the machines printing ballot papers.. The amount of length. If this exceeds the size, the ballot is to be changed. If the ballot paper extends, there are many practical issues. The voting stall will have more time to spend a voter. "
-
-◼️
-
-[Data](articles/e7f66e75.json)
-
-[Extended Data](ext_articles/e7f66e75.ext.json)
-
----
-
-### Case against Keheliya;Bail
-
-*2024-08-08 19:55:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-இருவருக்கு-பிணை/175-341828) · `ta`
-
-Keheliya Rambukwella, along with two others, remains in custody till the 22nd, while Janaka Chandragupta and Saman Ratnayake have been granted bail after appearing in court.
-
-🟩
-
-Three persons, including former Health Minister Keheliya Rambukwella, have been kept in remand until the 22nd of this month.
-
-Meanwhile, former Secretary of the Ministry of Health, Janaka Chandragupta and former Additional Secretary of the Ministry of Health, Saman Ratnayake have been released on bail.
-
-The order was issued when the suspects were produced before the Magistrate's Court today (08).. Remble
-
-◼️
-
-[Data](articles/0113ceb9.json)
-
-[Extended Data](ext_articles/0113ceb9.ext.json)
-
----
-
-### Police officers who brutally assaulted the student?
-
-*2024-08-08 19:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனை-கொடூரமாக-தாக்கிய-பொலிஸ்-அதிகாரிகள்/175-341827) · `ta`
-
-A 19-year-old schoolgirl, Tarusha Jal, was severely beaten by Biyagala Police Transport Officers after an incident involving a motorcycle ride without a helmet. The officers chased her and her friend, leading to the assault. One officer fell and allegedly trampled her back. The case has been reported to the Senior Superintendent of Police Kalutara, and the offending officer has been transferred while investigations continue.
-
-🟩
-
-A 19 -year -old schoolgirl has been brutally beaten to the hospital by the Biyagala Police Transport Officers, a spokesman for the Kalutara Nagoda Teaching Hospital said.
-
-Tarusha Jal, a schoolgirl from Biyagala, Malagoda, has been affected.
-
-The student went to a nearby shop on his father's motorcycle yesterday afternoon (07). It has been reported that the friend did not wear a security helmet.
-
-Two officers who were involved in the mobile duties of the Bayakala Police Transport Division had chased them and scolded them.
-
-It is reported that the school student, who was scared, was driving a motorcycle and went to the nearest relative's house.
-
-Accordingly, the police, who followed them, attacked the student who was on a motorcycle again.
-
-The student noted that a police officer fell to the ground and trampled his back.
-
-The student's father has lodged a complaint with the Senior Superintendent of Police Kalutara.
-
-...
-
-[Data](articles/a6d6ccea.json)
-
-[Extended Data](ext_articles/a6d6ccea.ext.json)
-
----
-
-### Troops reaching up to 24 people who joined President fight
-
-*2024-08-08 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199722) · `si`
-
-Today, two more candidates joined the presidential race, bringing the total number of candidates to 24.
-
-🟩
-
-Two more candidates have deposited on the Presidential election today (08).
-
-Accordingly, 24 candidates have deposited for 24 candidates to date.
-
-◼️
-
-[Data](articles/3964e9aa.json)
-
-[Extended Data](ext_articles/3964e9aa.ext.json)
-
----
-
-### For the first time in the Sri Lankan Test group, Beth, Milan, Nisala
-
-*2024-08-08 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190613) · `ta`
-
-Sri Lanka's Test squad includes newcomers Milan Ratnayake and Nisala Taraka, alongside returning player Bethum Nissank. The series against England marks their debut in international cricket. Senior players like Angelo Mathews, Dinesh Chandimal, and Timuth Karunaratne are also part of the team, with Dhananjaya de Silva as captain and Kusal Mendis as vice-captain. The series is part of the ICC Test Championships, with matches scheduled in Manchester and Colombo.
-
-🟩
-
-The Sri Lankan team has been announced for the three -match Test series against England.
-
-Milan Ratnayake, who has not yet been introduced in international, and 33 -year -old Nisala Taraka have been recruited in a group of 18 players.
-
-In the 2nd ODI series against India, the brilliant bowling spinner Jevri Wendasay has been added.
-
-Jevery Wendase, who made his debut in the Test stage in 2022, played only a Test match.
-
-Meanwhile, Bethum Nissank, who made his Test debut in 2021, did not play in Test after 2022. Nishan Madushka is replaced by the team.
-
-Senior players and former leaders Angelo Mathews, Dinesh Chandimal and Timuth Karunaratne are also in the group.
-
-Dhananjaya de Silva will continue to act as Test captain. Kusal Mendis has been named as the assistant team captain.
-
-He will be a 3 Test match between England and Sri Lanka and will be the ICC Test Championships.
-
-...
-
-[Data](articles/2879081a.json)
-
-[Extended Data](ext_articles/2879081a.ext.json)
-
----
-
-### Election deposits placed for 24 presidential candidates so far
-
-*2024-08-08 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101089/election-deposits-placed-for-24-presidential-candidates-so-far) · `en`
-
-A total of 24 candidates have so far placed cash deposits for the upcoming Presidential Election, says the Election Commission of Sri Lanka.
-
-This includes 11 candidates representing recognised political parties, 12 Independent candidates whose names have been nominated by a voter and one candidate from other political parties.
-
-Bonds were placed on behalf of two candidates today (08) and this includes former MP D.M. Bandara and former MP Anura Sidney Jayarathne, who are both contesting as independent candidates.
-
-2024 Presidential Election - Candidate Deposits by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/864eeb3e.json)
-
-[Extended Data](ext_articles/864eeb3e.ext.json)
-
----
-
-### Sri Lanka inquires about the security of the England Test series
-
-*2024-08-08 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199721) · `si`
-
-Sri Lanka Cricket officials have asked England Cricket about the safety of the upcoming Test series due to recent migrant protests in England. Seven Sri Lankan players are already in England for the matches.
-
-🟩
-
-Sri Lanka Cricket authorities have inquired from the England cricket against the security of Sri Lanka-England Test series that is scheduled to begin in England.
-
-In the last few days, protests have been held in England against migrants.
-
-Seven players in the Sri Lanka Test squad have gone to England.
-
-◼️
-
-[Data](articles/8025bfa3.json)
-
-[Extended Data](ext_articles/8025bfa3.ext.json)
 
 ---

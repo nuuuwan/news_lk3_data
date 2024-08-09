@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 12:36:46**
+As of **2024-08-09 12:54:00**
 
 ## Newspaper Stats
 
-*Scraped **39,810** Articles*
+*Scraped **39,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,108 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,651
+adalk | 3,652
 adaderanalk | 4,626
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,012
+tamilmirrorlk | 5,014
 virakesarilk | 6,304
-adaderanasinhalalk | 6,752
+adaderanasinhalalk | 6,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,801 (100.0%) of 39,810 articles have been extended.
+39,810 (100.0%) of 39,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ஆனையிறவு விபத்தில் ஒருவர் பலி
+### அரியநேந்திரன் தொடர்பில் திங்கள் முடிவு: மாவை
+
+*2024-08-09 12:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேந்திரன்-தொடர்பில்-திங்கள்-முடிவு-மாவை/175-341855) · `ta`
+
+ஐனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிடும் தமிழரசு கட்சியின் மத்திய குழு உறுப்பினர் அரியநேந்திரன் தொடர்பில் 11 ஆம்  திகதி முடிவெடுக்கப்படும் என தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா தெரிவித்துள்ளார்.
+
+தமிழரசு கட்சி ஐனாதிபதி தேர்தல் தொடர்பில்  இதுவரை எவ்வித முடிவுகளையும் மேற்கொள்ள முன்னர் அக் கட்சியின் மத்தியகுழு உறுப்பினரான அரியநேந்திரன் பொது  வேட்பாளராக  2024 ஐனாதிபதி தேர்தலில் போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டுள்ள விடயம்  தொடர்பில் தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா  தொடர்பு கொண்டு வினவிய போதே அவர் மேற்கண்டவாறு
+
+கட்சியின் மத்திய குழு எதிர்வரும் 11.08.2024 ஆம் திகதி ஞாயிற்றுக் கிழமை கூடி ஐனாதிபதி தேர்தல் தொடர்பில்  கலந்துரையாடி முடிவுகளை மேற்கொள்ளவுள்ளது.
+
+நிலையில் கட்சி ஒரு நிலைப்பாட்டை எடுக்க முன்னர் கட்சியின் உறுப்பினர் பொது வேட்பாளராக போட்டியிட தீர்மானித்த விடயம் தொடர்பில் அக் கூட்டத்தில் கலந்துரையாடப்படும் எனத் தெரிவித்த அவர்
+
+பொது வேட்பாளராக  அரியநேந்திரன் அறிவிக்கப்பட்ட பின்னர் என்னை வந்து சந்தித்து விடயத்தை  தெரியப்படுத்தி சென்றுள்ளார் என்றும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b56c8ca5.json)
+
+---
+
+### කෙහෙළියගේ ඉල්ලීම ගැන අධිකරණය දුන් නියෝගය
+
+*2024-08-09 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199745) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් වූ නඩු විභාගය අවසන් වන තෙක් තමාව රක්ෂිත බන්ධනාගාර ගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය දී ඇති නියෝගය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ගොනු කර ඇති පෙත්සමේ නියෝගය ප්‍රකාශ කිරීම කල් තබා තිබේ.
+
+නමුත් අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල එම තීන්දුව ප්‍රකාශ කිරීම සැප්තැම්බර් 4 වැනි දින දක්වා කල්තබන බව සඳහන් කර තිබේ.
+
+තවද හිටපු අමාත්‍යවරයා විසින් ඉදිරිපත් කළ පෙත්සම විභාගයට ගැනීමට අවසර දෙන්නේද? නැද්ද? යන තීන්දුව සහ ඔහු ඇප මත මුදාහරින ලෙස කර තිබෙන ඉල්ලීම පිළිබඳව තීන්දුව ද එදින ප්‍රකාශයට පත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/e574f76e.json)
+
+---
+
+### One person killed in elephant accident
 
 *2024-08-09 12:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஆனையிறவு-விபத்தில்-ஒருவர்-பலி/72-341854) · `ta`
 
-கிளிநொச்சி பளை பொலிஸ்  பிரிவுக்குட்பட்ட ஆனையிறவு  இராணுவ சோதனை சாவடியில் வியாழக்கிழமை (09) காலை  இரண்டு மோட்டார் சைக்கிள்கள்  ஒன்றுடன் ஒன்று மோதி ஏற்பட்ட விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் இருவர் படுகாயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+A fatal accident involving two motorcycles near the Elephant Military checkpoint in Kilinochchi resulted in one death and two injuries. The victims were taken to the Kilinochchi District General Hospital.
 
-கிளிநொச்சி பளை பொலிஸ்  பிரிவுக்குட்பட்ட ஆனையிறவு இராணுவ  சோதனைச் சாவடி சாவடியில் அதிகாலை குறித்த விபத்து இடம்பெற்றுள்ளது
+🟩
 
-இந்த விபத்தின் போது ஒருவர்   உயிரிழந்துள்ளதுடன் மேலும்  இருவர் படுகாயமடைந்த நிலையில் கிளிநொச்சி  மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்
+One person was killed and two others were injured in a collision with two motorcycles on Thursday (09) morning at the Kilinochchi Bali Police Division.
 
-அதாவது யாழ்ப்பாணம் நோக்கி பயணித்த இரண்டு மோட்டார் சைக்கிள்கள் ஒன்றுடன் ஒன்று மோதி குறித்த விபத்து ஏற்பட்டுள்ளது சம்பவம் தொடர்பில் பளை பொலிஸார்விசாரணைகளை முன்னெடுத்து வருவதுடன் உயிரிழந்தவரின் சடலம் கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+The accident occurred in the early hours of the morning at the Elephant Military checkpoint belonging to the Kilinochchi Palai Police Division.
+
+One person was killed and two others were injured in the accident and were admitted to the Kilinochchi District General Hospital.
+
+This means that two motorcycles traveling to Jaffna have been hit by an accident and the body of the deceased has been handed over to the Kilinochchi District General Hospital.
 
 ◼️
 
 [Data](articles/79c02524.json)
 
+[Extended Data](ext_articles/79c02524.ext.json)
+
 ---
 
-### ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகளுக்கு தூக்கமின்மை பிரச்சினை - வைத்திய நிபுணர்கள் தெரிவிப்பு
+### Insomnia issue for 25 percent of children under one age - Medical experts report
 
 *2024-08-09 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190633) · `ta`
 
-ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகள் தூக்கமின்மைபிரச்சினைகளை எதிர்கொள்கின்றனர். இது பல்வேறு உடல் மற்றும் மனநல பிரச்சினைகளுக்கு வழிவகுக்கும் என சுகாதார மேம்பாட்டு பணியகத்தின் ஆலோசகர் வைத்தியர் இனோகா விக்கிரமசிங்க  தெரிவித்துள்ளார்.
+Medical experts report that 25% of infants suffer from insomnia, leading to potential physical and mental issues. Despite limited local research, poor sleep hygiene, including excessive screen time, is identified as a significant factor. The World Health Organization recommends varying sleep durations based on age, emphasizing the importance of quality sleep for overall health. Recommendations include establishing regular sleep routines, minimizing screen time before bed, and ensuring a conducive sleep environment, especially in noisy or brightly lit areas.
 
-நாட்டில் பிள்ளைகள் மத்தியில் தூக்கம்  குறித்து அதிக ஆய்வுகள் மேற்கொள்ளப்படவில்லை என்றாலும், கிடைக்கக்கூடிய மட்டுப்படுத்தப்பட்ட தரவுகளின்படி, ஒரு வயதுக்கு கீழ்ப்பட்ட 25 சதவீதமான பிள்ளைகளுக்கு தூக்கமின்மை பிரச்சினை உள்ளது.
+🟩
 
-தூக்க சுகாதாரம் என்பது நல்ல தூக்கத்தை எளிதாக்கும் நடத்தை மற்றும் சுற்றுச்சூழல் நடைமுறைகளின் தொகுப்பாகும். இந்த காரணிகள் ஒரு நல்ல இரவு தூக்கத்திற்கு உதவும் பழக்கங்களாகும்.
+25 percent of children under one adult face insomnia problems. This will lead to various physical and mental problems, said Dr. Inoga Wickremesinghe, Advisor of the Health Development Bureau.
 
-முன்பெல்லாம், சூரியன் மறையும் போது தூங்கச் செல்வதும், சூரியன் உதிக்கும் போது விழிப்பதும் வழக்கமாக இருந்தது.
+Although there are not much studies on sleep among children in the country, 25 percent of children under one age have a problem of insomnia.
 
-செயற்கை வெளிச்சத்தின் நீடித்த பயன்பாடு மற்றும் கைத்தொலைபேசிகள், கணினிகள், டெப்கள் மற்றும் தொலைக்காட்சி போன்ற சாதனங்களில் நேரத்தை செலவிடுவது மக்களின் தூங்கும் முறைகளில்  பாதிப்பை ஏற்படுத்துகிறது.
+Sleep hygiene is a set of behavior and environmental practices that facilitate good sleep. These factors are habits that help with a good night's sleep.
+
+Earlier, it was customary to go to sleep and wake up when the sun rises.
+
+Prolonged use of artificial illumination and spending time on mobile phones, computers, debs, and television devices can affect people's sleeping systems.
+
+Several studies show that changes in sleep systems cause various physical, mental and social problems. Because of this, many measures have been taken to improve the health of the people.
 
 ...
 
 [Data](articles/4d3ecbe0.json)
+
+[Extended Data](ext_articles/4d3ecbe0.ext.json)
 
 ---
 
@@ -86,6 +136,8 @@ He did not specify whether Hasina, 76, will contest elections. “My mother woul
 
 [Data](articles/4c6261d3.json)
 
+[Extended Data](ext_articles/4c6261d3.ext.json)
+
 ---
 
 ### Manusha and Harin pay the price for putting country first - Kanchana
@@ -104,37 +156,51 @@ Furthermore, Wijesekara said: “Both Harin Fernando and Manusha Nanayakkara ext
 
 [Data](articles/6f53ec8a.json)
 
+[Extended Data](ext_articles/6f53ec8a.ext.json)
+
 ---
 
-### மஹிந்தவுடன் முக்கிய கலந்துரையாடல் : பதவி விலக ஆலோசனை
+### Major Discussion with Mahinda: Advice to resign
 
 *2024-08-09 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190639) · `ta`
 
-ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்‌ஷவுக்கு ஆதரவு வழங்கும் இராஜாங்க அமைச்சர்கள் பதவி விலக ஆலோசித்து வருகின்றனர். பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்‌ஷவுடன் விசேட கலந்துரையாடலில் ஈடுபட்டுள்ளனர்.
+Diplomatic ministers backing Namal Rajapaksa are resigning. A special meeting between the PA and Mahinda Rajapaksa is underway, likely discussing advice to resign.
+
+🟩
+
+Diplomatic ministers who support presidential candidate Namal Rajapaksa are resigning. PA is engaged in a special discussion with Mahinda Rajapaksa.
 
 ◼️
 
 [Data](articles/a87261b3.json)
 
+[Extended Data](ext_articles/a87261b3.ext.json)
+
 ---
 
-### ரஸ்யாவின் கேர்க்ஸ் பகுதிக்கு  ஊருடுவிய உக்ரைன் படையினர் - மூன்றாவது நாளாக கடும் மோதல் - ரஸ்ய இராணுவ வீரர்கள் பலர் கைது
+### Ukrainian soldiers who moved to Russia's Garks area - heavy clashes for the third day
 
 *2024-08-09 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190640) · `ta`
 
-ரஸ்யாவின் கேர்ஸ்க் பகுதிக்கு ஊருடுவியுள்ள உக்ரைன் படையினர் தொடர்ந்து மூன்றாவது நாளாக ரஸ்ய படையினருடன் மோதலில் ஈடுபட்டுள்ளனர்.
+For the third day, Ukrainian soldiers in Russia's Garks and Carek areas clashed with Russian forces. Reports indicate Ukrainian advances towards a village in Garks, with control over parts of Sudja and clashes near Korenevo, 13 km from the border.
 
-கேர்க்ஸ் பிராந்தியத்தில் 13 கிலோமீற்றர் உள்ளே உள்ள கிராமமொன்றை நோக்கி உக்ரைனிய படையினர் முன்னேறிச்செல்கின்றனர் என தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-கேர்க்ஸ் எல்லையிலிருந்து 13 கிலோமீற்றர் தொலைவில் உள்ள  கொரெனெவோ என்ற பகுதியில் மோதல்கள் இடம்பெறுவதாக ரஸ்யாவின் புளொக்கர்கள் தெரிவித்துள்ளனர்.
+Ukrainian soldiers who have moved to Russia's Carek area have been involved in a clash with Russian soldiers for the third consecutive day.
 
-ரஸ்யாவிற்குள் ஆறுகிலோமீற்றர் தொலைவில் உள்ள சுட்ஜாவின் மேற்குபகுதி உக்ரேனிய படையினரின் கட்டுப்பாட்டின் கீழ் உள்ளதாக அவர்கள் தெரிவித்துள்ளனர்.
+According to reports, Ukrainian soldiers are moving towards a village inside the Garks region.
 
-செவ்வாய்கிழமை திடீர் தாக்குதலை மேற்கொண்டு சுட்ஜாவினை கைப்பற்றிய உக்ரைன் படையினர் வடமேற்கு வடக்கு திசை நோக்கி முன்னேறியுள்ளனர்.
+Russia's flocers have reported that clashes are taking place in Korenevo, 13 kilometers from the border.
+
+They said that the western part of Sudja, a distance of six kilometers within Russia, is under the control of the Ukrainian soldiers.
+
+Ukraine soldiers advanced to the northwest north of the Sudjah on Tuesday.
 
 ◼️
 
 [Data](articles/0738fa32.json)
+
+[Extended Data](ext_articles/0738fa32.ext.json)
 
 ---
 
@@ -222,6 +288,18 @@ Varied Zakistan, the Visud, Visud, Pakistani, which has been observed that there
 
 ---
 
+### සරත් ෆොන්සේකා ඉල්ලා අස්වෙයි
+
+*2024-08-09 11:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ඉල්ලා-අස්වෙයි/11-411273) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/52a893ff.json)
+
+---
+
 ### Sarath Fonseka resigns
 
 *2024-08-09 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199743) · `si`
@@ -262,17 +340,23 @@ Field Marshal Sarath Fonseka has resigned from the post of United People's Power
 
 ---
 
-### අපේ ආණ්ඩුවක් යටතේ පක්ෂ මාරු කරණ මන්ත්‍රීවරු ගෙදර යවන්න නීති ගේනවා
+### Members of Party under our government bring the rules to send home
 
 *2024-08-09 11:24:41* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආණ්ඩුවක්-යටතේ-පක්ෂ-මාරු-කරණ-මන්ත්‍රීවරු-ගෙදර-යවන්න-නීති-ගේනවා/11-411272) · `si`
 
-පක්ෂ මාරු කරන පිරිස් ගෙදර යැවීම වෙනුවෙන් ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ නීති සකස් කරන බව එහි නායක පාර්ලිමේන්තු මන්ත්‍රි අනුර කුමාර දිසානායක මහතා පැවසීය.
+Parliament leader Anura Kumara Dissanayake announced plans to amend laws to allow political parties to dissolve themselves during a speech at the Muslim Brotherhood in Malwana.
 
-මල්වාන ප්‍රදේශයේ පැවති මුස්ලිම් සහෝදරත්වයේ හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
+
+Leader of Parliamentarian Anura Kumara Dissanayake said that the laws will be adjusted to send parties to send their parties home.
+
+He was speaking at the Muslim Brotherhood in Malwana, he said.
 
 ◼️
 
 [Data](articles/12c7c0fd.json)
+
+[Extended Data](ext_articles/12c7c0fd.ext.json)
 
 ---
 
@@ -294,9 +378,31 @@ On July 25, Fonseka officially announced his presidential candidacy stating that
 
 ---
 
-### மனுஷ, ஹரின் இருவரையும் நீக்கியது சரி
+### It is okay to remove both men, Harin
 
 *2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
+
+The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to reclaim membership.
+
+🟩
+
+The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
+
+The verdict of the three judges of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera.
+
+The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
+
+◼️
+
+[Data](articles/436296c3.json)
+
+[Extended Data](ext_articles/436296c3.ext.json)
+
+---
+
+### மனுஷ, ஹரின் இருவரையும் நீக்கியது சரி
+
+*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/150-341851) · `ta`
 
 அமைச்சர்களான மனுஷ்ய நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்தது.
 
@@ -306,7 +412,7 @@ On July 25, Fonseka officially announced his presidential candidacy stating that
 
 ◼️
 
-[Data](articles/436296c3.json)
+[Data](articles/4b793818.json)
 
 ---
 
@@ -2003,113 +2109,5 @@ Accordingly, the Bill, prepared by the Bill, was approved by the Attorney Genera
 [Data](articles/85abe8f8.json)
 
 [Extended Data](ext_articles/85abe8f8.ext.json)
-
----
-
-### Rotary Corporation requests to extend help with children's treatment with cardiovascular disorders under the Little Heart Scheme
-
-*2024-08-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/190600) · `ta`
-
-The Rotary Corporation has requested funds to support the Little Heart Scheme, aimed at treating children with cardiovascular disorders. The initiative seeks $1 million to expand treatments, medical equipment purchases, and immediate care units. This was announced at a media conference at the Colombo Children's Hospital, where it was also revealed that the official website for the project's future activities has been launched.
-
-🟩
-
-கொழும்பு மெட்ரோ பொலிட்டன் ரோட்டரிக் கழகத்தின் லிட்டில் ஹார்ட் திட்டத்தின் கீழ் இருதய குறைபாடுகளுடன் பிறக்கும் குழந்தைகளின் சிகிச்சைகளுக்கு அவசியமான ஒரு மில்லியன் அமெரிக்க டொலர் நிதிசேகரிப்புக்கு தன்னார்வ தொண்டு நிறுவனங்கள் முன்வந்து உதவிக்கரம் நீட்டுமாறு ரோட்டரிக் கழகம் கோரிக்கை விடுத்துள்ளது.
-
-The official website on the future activities of the Little Heart project was also launched.
-
-This was clarified at a special media conference held at the Colombo Children's Hospital on Wednesday (07) regarding the future project of the Rotary Corporation Little Heart Project.
-
-The Colombo Metro Politon Rotary Corporation is providing necessary assistance to the treatment of children born with cardiovascular disorders at the Colombo Children's Hospital.
-
-இருதய குறைபாடுகளுடன் பிறக்கும் குழந்தைகளுக்கான சிகிச்சைகள், மருத்துவ உபகரணக் கொள்வனவு மற்றும் அதிதீவிர சிகிச்சைப் பிரிவு ஆகியவற்றை விரிவுபடுத்துவதற்காக சுமார் 1 மில்லியன் அமெரிக்க டொலர் நிதிக்கான தேவை எழுந்துள்ளதுள்ளது.
-
-...
-
-[Data](articles/4ee90cab.json)
-
-[Extended Data](ext_articles/4ee90cab.ext.json)
-
----
-
-### Sexual abuse on dogs;Prison for British Crocodile expert
-
-*2024-08-08 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190601) · `ta`
-
-British zoologist Britain, known for his research on crocodiles, has been sentenced to 10 years and five months in prison for sexually abusing and torturing numerous dogs. He faced 56 charges of animal cruelty, including sharing graphic videos online. His crimes were uncovered after investigators found evidence in one of his videos.
-
-🟩
-
-A famous British zoologist has been sentenced to 10 years and five months in prison for sexual abuse and torture of many dogs.
-
-Britain, a 53 -year -old, has pleaded 56 allegations of brutality and animal cruelty.
-
-Britain shot the animals to torture. At the time, animals have died. She shared videos online using nicknames.
-
-His crimes have not been detected for years until investigators find a clue in one of his video.
-
-Britain belongs to the West Yorkshire. இரண்டு தசாப்தங்களுக்கு முதலை தொடர்பான ஆராய்ச்சிகளுக்காக அவுஸ்திரேலியாவுக்கு இடம்பெயர்வதற்கு முன்பு தனது ஆரம்ப ஆண்டுகளை இங்கிலாந்தில் வாழ்ந்துள்ளார்.
-
-Britain, a highly qualified zoologist who graduated from a doctor's degree, established himself as a global recognized expert in his field.
-
-Nature enthusiast Sir David Attanberro was treated at his home during the shooting of a part of the Life's Gold Blood Documentary Series.
-
-◼️
-
-[Data](articles/43d1cc30.json)
-
-[Extended Data](ext_articles/43d1cc30.ext.json)
-
----
-
-### Gautam Vasudev Menon joins the sea
-
-*2024-08-08 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190604) · `ta`
-
-Gautam Vasudev Menon and Samudrakani join forces for a new film, directed by Karthik Ravi, featuring a star-studded cast including Karthik Kumar, Haritha, Lakshmi Priya Chandramouli, and more. Cinematography by Yuvraj Dakshan and music by M.K. Ramanujan, the movie is set to release next year under Bath Way Productions.
-
-🟩
-
-Both Samudrakani and Gautham Vasudev Menon are joined in an unnamed new film as the best character actor today.
-
-Directed by director Karthik Ravi, directed by Karthik Ravi, Karthik Kumar, Haritha, Samudrakani, Gautam Vasudev Menon, Lakshmi Priya Chandra Mouli, Badawa Gopi, Redin Kingsley and many others.
-
-Yuvraj Dakshan is the cinematography by M.. K. Ramanujan is composed. The film is produced by Bath Way Productions.
-
-The inauguration of the film was held in Chennai. Samudrakani congratulated the film crew on the role of the Samudrakani.The film crew has said that the film will be released next year.
-
-◼️
-
-[Data](articles/97f6e940.json)
-
-[Extended Data](ext_articles/97f6e940.ext.json)
-
----
-
-### Yogi Babu's 'Mountain' released in September
-
-*2024-08-08 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190602) · `ta`
-
-"Yogi Babu's 'Mountain,' starring Kali Venkat and Lakshmi Menon, set for release in September, follows the success of 'Bot.' Directed by IP Murukesh, it features music by Iman and cinematography by Theni Eswar. Co-produced by Ganesh Murthy and G. Soundarya, the film wrapped production in 2022."
-
-🟩
-
-Kali Venkat, the best character actor of the Tamil film industry, has announced that the film will be released in September.
-
-Yogi Babu, Lakshmi Menon, Kali Venkat, Singam Tiger, Ramachandran and many others have starred in the film 'Malai', directed by debutant director IP Murukesh.
-
-The film has been recorded by Theni Eswar. Iman has composed the music. The film was made on behalf of Lemon Leaf Creations Private Limited. Ganesh Murthy and G. Soundarya has co -produced.
-
-The work of the film was completed by 2022 and the shooting was completed and the post -shooting technical work is underway.
-
-In this backdrop, the film crew has released a special photo of the film, which will be released in the film House around the world in September.
-
-Meanwhile, Yogi Babu's film 'Bot' has been a big and critically successful in his performance and has a huge expectation among fans and film businessmen.
-
-◼️
-
-[Data](articles/b05d5378.json)
-
-[Extended Data](ext_articles/b05d5378.ext.json)
 
 ---

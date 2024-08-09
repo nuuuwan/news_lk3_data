@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 11:56:29**
+As of **2024-08-09 12:10:32**
 
 ## Newspaper Stats
 
-*Scraped **39,795** Articles*
+*Scraped **39,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,101 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,650
-adaderanalk | 4,622
+adaderanalk | 4,623
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,007
-virakesarilk | 6,300
-adaderanasinhalalk | 6,751
+tamilmirrorlk | 5,009
+virakesarilk | 6,301
+adaderanasinhalalk | 6,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,788 (100.0%) of 39,795 articles have been extended.
+39,795 (100.0%) of 39,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### සරත් ෆොන්සේකා ඉල්ලා අස්වෙයි
+### ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பதவியில் இருந்து விலகினார் பொன்சேகா
+
+*2024-08-09 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190636) · `ta`
+
+பீல்ட் மார்ஷல் சரத் பொன்சேகா ஐக்கிய மக்கள் சக்தியின் தவிசாளர் பதவியை  இன்று வெள்ளிக்கிழமை (09) இராஜினாமா செய்துள்ளார்.
+
+பொன்சேகாவினால் அனுப்பப்பட்ட இராஜினாமா கடிதம் கிடைத்துள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/65480040.json)
+
+---
+
+### Maldives concerned over decline in Sri Lankan teachers, plans to boost recruitment
+
+*2024-08-09 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101103/maldives-concerned-over-decline-in-sri-lankan-teachers-plans-to-boost-recruitment) · `en`
+
+The High Commissioner of Sri Lanka to the Maldives Ranga Goonawardana recently held a meeting with the Minister of Education of Maldives Dr. Ismail Shafeeu to explore ways to enhance educational collaboration between the two nations.
+
+The discussions underscored the significance of leveraging the shared history and cultural ties between Sri Lanka and Maldives to foster mutual growth and understanding, particularly in the education sector, the High Commission of Sri Lanka in Malé said in a statement.
+
+The meeting focused on expanding opportunities for Sri Lankan teachers to contribute to the education system in Maldives. Over the years, Sri Lankan educators have played a crucial role in shaping the academic landscape of Maldives, earning widespread respect and recognition for their dedication and expertise, it added.
+
+...
+
+[Data](articles/81a7ca36.json)
+
+---
+
+### ශෙයික් හසීනා යළි බංග්ලාදේශයට පැමිණෙන බව පුතා කියයි
+
+*2024-08-09 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199744) · `si`
+
+බංග්ලාදේශයේ භාරකාර රජය විසින් මැතිවරණයක් ප්‍රකාශයට පත් කිරීමෙන් පසු ශෙයික් හසීනා යළි එරටට පැමිණෙනු ඇති බව ශෙයික් හසීනාගේ පුත් සජීබ් වසීඩ් ජෝයි ප්‍රකාශ කර තිබේ.
+
+බංග්ලාදේශයේ නොසන්සුන්කාරී තත්ත්වයක් ඇතිවීම පිටුපස පාකිස්තානය සිටින බවට ද සජීබ් වසීඩ් විසින් චෝදනා කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඔහු ප්‍රකාශ කර ඇත්තේ, නොසන්සුන්කාරී තත්ත්වය ඇති කිරීම සඳහා පාකිස්තාන අයි. එස්. බුද්ධි අංශය ප්‍රධාන භූමිකාවක් ඉටු කර ඇති බවය.
+
+බංග්ලාදේශයේ ඇතිවූ තත්ත්වයට විදේශීය මැදිහත්වීමක් පවතින බවට නිරීක්ෂණය වී ඇති බව පෙන්වාදී ඇති සජීබ් වසීඩ් පාකිස්තාන අයි. එස් බුද්ධි අංශය ඊට සම්බන්ධ බවට සාක්ෂි පවතින බවද සඳහන් කර තිබුණි.
+
+◼️
+
+[Data](articles/49680aaf.json)
+
+---
+
+### Sarath Fonseka resigns
 
 *2024-08-09 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199743) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන්  ඉල්ලා අස්වී තිබේ.
+Field Marshal Sarath Fonseka, a parliamentarian, has resigned from his position as President of the Samagi Party. He is now set to run as an independent candidate in the upcoming 2024 Presidential election, according to MP J. SC Alawatuwa.
 
-පාර්ලිමේන්තු මන්ත්‍රී ජේ. සී අලවතුවල මහතා ඒ බව පවසා ඇතැයි පැවසෙයි.
+🟩
 
-2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ඉදිරිපත් වී සිටින අතර ඒ වෙනුවෙන් පසුගිය 05 වනදා ඇප මුදල් ද තැන්පත් කර තිබුණි.
+Parliamentarian Field Marshal Sarath Fonseka has resigned from the post of the President of the Samagiation.
+
+Member of Parliament (MP) J. SC Alawatuwa is said to say that.
+
+Fild Marshal Sarath Fonseka has been offered as an independent candidate for the Presidential election 2024.
 
 ◼️
 
 [Data](articles/b688f391.json)
+
+[Extended Data](ext_articles/b688f391.ext.json)
+
+---
+
+### சரத் பொன்சேகா இராஜிநாமா
+
+*2024-08-09 11:29:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-பொன்சேகா-இராஜிநாமா/175-341853) · `ta`
+
+ஐக்கிய மக்கள் சக்தி கட்சியின் தவிசாளர் பதவியிலிருந்து பீல்ட் மார்ஷல் சரத் பொன்சேகா இராஜிநாமா செய்துள்ளார்.
+
+◼️
+
+[Data](articles/4a9b0da9.json)
 
 ---
 
@@ -61,6 +127,24 @@ On July 25, Fonseka officially announced his presidential candidacy stating that
 ◼️
 
 [Data](articles/1c4b11a4.json)
+
+[Extended Data](ext_articles/1c4b11a4.ext.json)
+
+---
+
+### இருவரையும் நீக்கியது சரி
+
+*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
+
+அமைச்சர்களான மனுஷ்ய நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்தது.
+
+உயர் நீதிமன்ற நீதியசர்களான விஜித் மலல்கொட, அச்சல வெங்கப்புலி மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதியரசர்கள் அமர்வு இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+தமது கட்சி உறுப்புரிமையை பறிப்பதற்கு ஐக்கிய மக்கள் சக்தி எடுத்த தீர்மானம் சட்டத்திற்கு முரணானது என அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் தாக்கல் செய்த மனுவை உயர் நீதிமன்றம் நிராகரித்துள்ளது.
+
+◼️
+
+[Data](articles/aab2046c.json)
 
 ---
 
@@ -148,17 +232,23 @@ He also mentioned that X social media will leave Venezuela for 10 days.
 
 ---
 
-### හරීන් සහ මනූෂගේ පක්ෂ සමාජිකත්වය ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් ලැබුණු තීන්දුව මෙන්න
+### Here is the verdict from the Supreme Court regarding the socialness of Harin and Manusha's party
 
 *2024-08-09 10:30:43* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්-සහ-මනූෂගේ-පක්ෂ-සමාජිකත්වය-ගැන-ශ්‍රේෂ්ඨාධිකරණයෙන්-ලැබුණු-තීන්දුව-මෙන්න/11-411271) · `si`
 
-මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ  සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව මීට සුලු මොහොතකට පෙර ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරනු ලැබිණි.
+The Supreme Court upheld Manusha Nanayakkara and Harin Fernando's decision in a case heard by Judges Achala Wijugoda and Arjuna Obeysekara.
 
-ඒ අදාළ නඩුව අද(09දා) විජිත් මළල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදීයි.
+🟩
+
+The Supreme Court was determined that the decision taken taken by Manusha Nanayakkara and Harin Fernando.
+
+The case was taken up before the three-member Supreme Court Bench comprised of the three-member Judge of Achala Wingulgoda and Arjuna Obeysekara.
 
 ◼️
 
 [Data](articles/f4988048.json)
+
+[Extended Data](ext_articles/f4988048.ext.json)
 
 ---
 
@@ -194,6 +284,8 @@ The two went to court against the decision by the SJB to expel them.
 
 [Data](articles/bb984161.json)
 
+[Extended Data](ext_articles/bb984161.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger, bonds yield up
@@ -219,6 +311,8 @@ No long tenors were quoted. A bond auction is to be held next week. (Colombo/Aug
 ◼️
 
 [Data](articles/fad0ccdd.json)
+
+[Extended Data](ext_articles/fad0ccdd.ext.json)
 
 ---
 
@@ -313,6 +407,8 @@ Under IMF programs, a central bank is able to collect reserves soon after hiking
 ...
 
 [Data](articles/2ff64c95.json)
+
+[Extended Data](ext_articles/2ff64c95.ext.json)
 
 ---
 
@@ -735,6 +831,8 @@ Small Internal Affairs units could be established in each department reporting t
 ...
 
 [Data](articles/c1b251b3.json)
+
+[Extended Data](ext_articles/c1b251b3.ext.json)
 
 ---
 
@@ -2053,131 +2151,5 @@ Meanwhile, focus on protecting patients in the country. That is why we have put 
 [Data](articles/b1e612bb.json)
 
 [Extended Data](ext_articles/b1e612bb.ext.json)
-
----
-
-### Focus on the model classmates
-
-*2024-08-08 18:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வகுப்பெடுபோர்-குறித்து-கவனம்-செலுத்தவும்/175-341825) · `ta`
-
-Wimal Weerawansa criticized Britain over its handling of racial issues, drawing parallels between them and South Africa's apartheid. He mentioned a knife incident involving Rwandan asylum seekers, which he linked to systemic racism in the UK. Weerawansa expressed hope that addressing these issues in the British Parliament would lead to meaningful change.
-
-🟩
-
-Wimal Weerawansa, the leader of the National Freedom Front and Independent Opposition MP, said that the whites who make up the small issues in Sri Lanka should be focused on Britain's apartheid.
-
-He made this statement during a session held in Parliament on Thursday (08)
-
-On the 29th of last month, a knife incident took place in the north of Britain.. Some of the media have reported false news as asylum seekers from Rwanda.
-
-After the incident, there were systematic apartheid attacks in the suburbs of the UK.
-
-Our Parliament is acting in accordance with parliamentary traditions. Our parliament is being addressed in the British Parliament. The British Parliament will be more talked about and the resolutions will be passed.
-
-◼️
-
-[Data](articles/3dd5d43f.json)
-
-[Extended Data](ext_articles/3dd5d43f.ext.json)
-
----
-
-### The date is not specified
-
-*2024-08-08 18:29:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதிப்படுத்தப்படும்-திகதியை-குறிப்பிடவில்லை/175-341824) · `ta`
-
-Finance Minister Sehan Semasinghe stated in Parliament that no specific date has been set for foreign debt restructuring by either the central bank or the government. He noted the complexity of debt restructuring amidst economic impacts and mentioned past instances of international debts. Minister Ranil Wickremesinghe will present agreements to Parliament post-debt renovation completion. Additionally, a bilateral agreement with Glipte Sans for justice-related advice has been signed, also to be submitted after debt restructuring.
-
-🟩
-
-Finance Minister Sehan Semasinghe said that neither the central bank nor the government had firmly mentioned the date of foreign debt restructuring.
-
-In response to questions posed by United People's Power MP Niroshan Perera during the query in Parliament on Thursday (08), he said,
-
-Debt restructuring is not easy among economic impacts, Sri Lanka has received debts on various occasions internationally. National loans have been better reset.
-
-Finance Minister Ranil Wickremesinghe will submit the agreements to Parliament after the debt renovation work has been completed.
-
-Bilateral Agreement has been signed with Glipte Sans to seek justice -related advice. The agreement will be submitted to Parliament after the debt restructuring.
-
-Neither the Central Bank nor the government has firmly mentioned the date of the Foreign Debt Relief Reconstruction.
-
-◼️
-
-[Data](articles/601e7d20.json)
-
-[Extended Data](ext_articles/601e7d20.ext.json)
-
----
-
-### Lying with a knife
-
-*2024-08-08 18:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்தியால்-தாக்கியது-பொய்/175-341823) · `ta`
-
-Kushani Rohanadeera, Parliamentary Secretary General, clarified that reports of an argument between two men at the parliament restaurant were false. He stated that no such incident occurred, emphasizing the importance of accurate reporting to maintain the reputation of the parliament.
-
-🟩
-
-There was no incident in the media that there was no incident in which the two men working at the parliament restaurant were arguing with each other.
-
-Parliamentary Secretary General Kushani Rohanadeera said that the matter has been untrue.
-
-The Secretary General of Parliament Kushani has reported that the media has reported on 2024.08.08.
-
-He said that the two men working in the parliamentary restaurant had been brought to his attention that there was no incident in which one of them tried to shout at each other, and that the media report was untrue.
-
-The Secretary -General of Parliament further stressed that it would tarnish the reputation of the highest number of parliament in the country by exaggerating the incident and that all the media would be responsible for such incidents.
-
-◼️
-
-[Data](articles/0c316d18.json)
-
-[Extended Data](ext_articles/0c316d18.ext.json)
-
----
-
-### All medications have handcuffs
-
-*2024-08-08 18:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சகல-மருந்துகளும்-கைவசம்-உள்ளன/175-341822) · `ta`
-
-Despite shortages of 52 essential drugs, the health sector in Sri Lanka is improving, with efforts to attract foreign-trained doctors and increase funding. Hospitals stock alternatives to these drugs, and initiatives like establishing a national office on Thai-Sey death aim to enhance patient safety and disease control.
-
-🟩
-
-Most of the problems in the health sector have been solved. All of the necessary medications are currently in handicrafts. In the health sector, there is a shortage of 52 essential drugs in the health sector, but the drugs that can be used instead are in all hospitals in the country.
-
-Speaking at a debate on the second reading of the Medical Amendment Bill held in Parliament on Thursday (08), he said.
-
-We have taken steps to take up a medical degree abroad and provide opportunities for those who return to the country. However, we are happy that doctors who have gone abroad have decided to return to Sri Lanka.
-
-Thus, when they take a medical degree abroad and come to the country, they do not accept it here.. In that way, a thousand medical universities in the world can serve the country.
-
-Countries with the best health sector in the country are in Asia. It is a pleasure that our country is ranked 47th.
-
-...
-
-[Data](articles/21a6c508.json)
-
-[Extended Data](ext_articles/21a6c508.ext.json)
-
----
-
-### Former Batticaloa District TNA Parliamentarian P. Ariyanendran to Contest 2024 Presidential Poll as the Common Tamil Presidential Candidate.
-
-*2024-08-08 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84506) · `en`
-
-The ‘Tamil National Common Structure’, an alliance of Tamil political parties, has announced its decision to nominate former
-
-Batticaloa District TNA Parliamentarian P. Ariyanenthiran as their common candidate for the upcoming Presidential Election.
-
-Several Tamil political parties and a group of civil society representatives had reached an agreement to nominate a common candidate for the forthcoming Presidential Election.
-
-Accordingly, seven Tamil political parties and seven civil society representatives had signed this agreement in Jaffna on 22 July. The signatories include President’s Counsel C.V. Vigneswaran of the Tamil People’s National Alliance, Selvam Adaikkalanathan of the Tamil Eelam Liberation Organisation, D. Siddharthan of the People’s Liberation Organisation of Tamil Eelam, N. Srikantha of the Tamil National Party, and Suresh Premachandran of the Eelam People’s Revolutionary Liberation Front.
-
-◼️
-
-[Data](articles/69439993.json)
-
-[Extended Data](ext_articles/69439993.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 08:25:43**
+As of **2024-08-09 08:15:55**
 
 ## Newspaper Stats
 
-*Scraped **39,760** Articles*
+*Scraped **39,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,568
 adalk | 3,646
 adaderanalk | 4,613
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,003
+tamilmirrorlk | 5,002
 virakesarilk | 6,296
 adaderanasinhalalk | 6,743
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 6,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,742 (100.0%) of 39,760 articles have been extended.
+39,742 (100.0%) of 39,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
-
-### வன்முறையில் ஈடுபட்ட மூவர் கைது
-
-*2024-08-09 08:07:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையில்-ஈடுபட்ட-மூவர்-கைது/175-341846) · `ta`
-
-யாழ்ப்பாணத்தில் வீடுகள் மீது தாக்குதல் நடத்தி எரித்த சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
-
-யாழ்ப்பாணம் மாவட்ட குற்றத் தடுப்புப் பிரிவு பொலிஸாரால் உரும்பிராய் பகுதியைச் சேர்ந்த 21 வயதான மூவர் கைது செய்யப்பட்டனர்.
-
-சந்தேகநபர்களிடம் இருந்து 3 மோட்டார் சைக்கிள்கள், 2 வாள்கள், 4 பெற்றோல் குண்டுகள் என்பனவும் பொலிஸாரால் மீட்கப்பட்டன.
-
-◼️
-
-[Data](articles/ff24080c.json)
-
----
 
 ### Nallur Kandan flag
 
@@ -2249,5 +2233,27 @@ The Supreme Court today (08), the death penalty imposed by the death sentence in
 [Data](articles/d4d9606f.json)
 
 [Extended Data](ext_articles/d4d9606f.ext.json)
+
+---
+
+### Powerful earthquake hits off southern Japan; tsunami advisory issued
+
+*2024-08-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101085/powerful-earthquake-hits-off-southern-japan-tsunami-advisory-issued) · `en`
+
+A powerful earthquake struck off Japan’s southern coast on Thursday, triggering a tsunami advisory. Residents were urged to stay away from the coastline, but there were no immediate reports of injuries or serious damage.
+
+The Japan Meteorological Agency said the quake registered magnitude 7.1 and was centered in waters off the eastern coast of Japan’s southern main island of Kyushu at a depth of about 30 kilometers (18.6 miles).
+
+The quake most strongly shook Nichinan city and nearby areas in Miyazaki prefecture on Kyushu island.
+
+The agency said tsunami waves of up 50 centimeters (1.6 feet) were detected along parts of Kyushu’s southern coast and the nearby island of Shikoku about a half hour after the quake struck.
+
+Seismologists were holding an emergency meeting to analyze whether the quake had affected the nearby Nankai Trough, the source of past devastating earthquakes.
+
+...
+
+[Data](articles/e72836f1.json)
+
+[Extended Data](ext_articles/e72836f1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 13:06:09**
+As of **2024-08-09 13:20:53**
 
 ## Newspaper Stats
 
-*Scraped **39,817** Articles*
+*Scraped **39,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,80 @@ adalk | 3,652
 adaderanalk | 4,626
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,015
-virakesarilk | 6,304
+virakesarilk | 6,306
 adaderanasinhalalk | 6,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,814 (100.0%) of 39,817 articles have been extended.
+39,817 (100.0%) of 39,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### “பதவிகளைத் துறப்பது பெரிய விடயமல்ல”
+### சுயேட்சை வேட்பாளராக களமிறங்கியமைக்கான காரணத்தை வெளியிட்டார் ரணில் !
+
+*2024-08-09 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190650) · `ta`
+
+மக்களின் பசி தீர்க்கவே ஜனாதிபதித் தேர்தலில் கட்சி வேறுபாடின்றி, சுயேட்சை வேட்பாளராக களமிறங்கியுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+கொழும்பில் இன்று (09) வெள்ளிக்கிழமை இடம்பெற்ற 'பெண்கள் எங்கள் பலம்'' என்ற பெண்கள் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/608bac3e.json)
+
+---
+
+### “Leaving positions is not a big deal”
 
 *2024-08-09 12:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளைத்-துறப்பது-பெரிய-விடயமல்ல/175-341856) · `ta`
 
-விட்டுக்கொடுப்பதில் தேர்ச்சி பெற்ற தமக்கு அமைச்சுப் பதவிகளைத் துறப்பது பெரிய விடயமல்ல என தெரிவித்த சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ நான்கு அமைச்சுகளின் பணிகளை சிறப்பாக செய்திருந்தேன் என்றார்.
+Harin Fernando, former Minister of Tourism, Land, Sports, and Youth Affairs, reassured Tourism Board employees about the continuity of operations post his departure, emphasizing the stability of the nation's citizenship and his honest service over two years. He also highlighted the importance of officials adhering to their roles, regardless of changes in leadership.
 
-சுற்றுலா சபை ஊழியர்களிடம் ​வெள்ளிக்கிழமை (09)  விடைபெறுவதற்கு முன்னர் உரையாற்றிய  ஹரின் பெர்னாண்டோ, உயர் நீதிமன்றம் இன்று காலை வழங்கிய உத்தரவுக்கு தலை வணங்குவதாகவுமு், இவ்வாறு நடக்கலாம் என்று தெரிந்தே ஜனாதிபதியுடன் இணைந்து கொண்டதாக தெரிவித்தார்.
+🟩
 
-அமைச்சர் பதவியை நீக்கினாலும் இந்த நாட்டின் குடியுரிமையை நீக்க முடியாது என தெரிவித்த அவர், அமைச்சராக இருந்த இரண்டு வருடங்களில் நேர்மையாக செயற்பட்டதாக குறிப்பிட்டார்.
+Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando had done the best of four ministries.
 
-ஜனாதிபதியினால் அறிவிக்கப்பட்ட பதவிகளை சுற்றுலா சபையின் தலைவர் உள்ளிட்ட அதிகாரிகள் விட்டுச் செல்ல வேண்டிய அவசியமில்லை எனவும், மேற்கொள்ளப்பட்ட பணிகளை எதிர்காலத்தில் முன்னெடுக்குமாறும் கேட்டுக்கொள்கின்றோம் எனவும் அவர் தெரிவித்தார்.
+Speaking to the Tourism Board employees on Friday (09), Harin Fernando said that the High Court had been heading to the order issued by the High Court this morning, knowing that this could happen.
+
+He said the citizenship of the country could not be eliminated despite the dismissal of the minister, and said that he had acted honest in the two years of his tenure.
+
+He said that there is no need for officials, including the Chairman of the Tourism Board, and that the posts announced by the president will be carried out in the future.
 
 ◼️
 
 [Data](articles/acf1a80b.json)
 
+[Extended Data](ext_articles/acf1a80b.ext.json)
+
 ---
 
-### දේශපාලන පළිගැනීම් කොමිසමේ නිර්දේශ බලරහිත කරයි
+### Political revenge Commission provides
 
 *2024-08-09 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199746) · `si`
 
-පසුගිය රජය සමයේ දේශපාලන පළිගැනීම් පිළිබඳව සොයාබැලීම සඳහා එවක ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් පත් කළ පරීක්ෂණ කොමිසම විසින් ජනාධිපති ලේකම් සමන් ඒකනායක, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු නියෝජ්‍ය පොලිස්පති රවී සෙනෙවිරත්න, එහි හිටපු අධ්‍යක්ෂ ශානි අබේසේකර ඇතුළු පිරිසකට එරෙහිව සිදු කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court, acting on recommendations from a commission set up by President Gotabhaya Rajapaksa to investigate political reprisals, ordered the government to compensate petitioners whose basic human rights were allegedly violated. This decision followed a lengthy trial where it was determined that the petitioners had been wronged by the actions of the commission.
 
-ඒ අනුව පෙත්සම්කරුවන්ට රුපියල් 150,000 ක් බැගින් නඩු ගාස්තු ගෙවන ලෙසත් ශ්‍රේෂ්ඨාධිකරණය රජයට නියෝග කළේය.
+🟩
 
-තමන්ට එරෙහිව අදාළ කොමිසම විසින් නිකුත් කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු මහාධිකරණ විනිසුරු පද්මිණී රණවක ගුණතිලක, හිටපු නාවික හමුදාපති ට්‍රැවිස් සින්නයියා, ආනන්ද විජේපාල, ජනාධිපති නීතිඥ උපුල් ජයසූරිය, සන්ධ්‍යා එක්නැලිගොඩ ඇතුළු පිරිසක් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The Supreme Court is the recommendations and former President of the Criminal Investigation Commission (CID) prescribed by President Gotabhaya Rajapaksa to investigate political retaliations.Determined.
 
-පෙත්සම්කරුවන් අදාළ පෙත්සම් මගින් චෝදනා කර තිබුණේ තමන්ගෙන් කරුණු විමසීමකින් තොරව තමන්ට අගතිදායක ලෙස නිර්දේශ සහ සොයා ගැනීම් නිකුත් කිරීමට අදාළ කොමිසම ගනු ලැබූ තීරණය නීතියට පටහැනි බවය.
+Accordingly, the petitioners ordered the government to pay the petitioners and the Supreme Court ordered the government.
+
+තමන්ට එරෙහිව අදාළ කොමිසම විසින් නිකුත් කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු මහාධිකරණ විනිසුරු පද්මිණී රණවක ගුණතිලක, හිටපු නාවික හමුදාපති ට්‍රැවිස් සින්නයියා, ආනන්ද විජේපාල, ජනාධිපති නීතිඥ උපුල් ජයසූරිය, සන්ධ්‍යා එක්නැලිගොඩ ඇතුළු පිරිසක් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ඉදිරිපත් කරHappened.
+
+The petitions were accused of the decision of the commission to issue the Commission to the issue of opinion and findings of the petitions.
+
+The petitioners also requested the court to promote the ruling that they have violated their basic human rights.
 
 ...
 
 [Data](articles/c99298c2.json)
+
+[Extended Data](ext_articles/c99298c2.ext.json)
 
 ---
 
@@ -91,6 +119,24 @@ He said that Ariyanendran had come to meet me after the announcement as the comm
 [Data](articles/b56c8ca5.json)
 
 [Extended Data](ext_articles/b56c8ca5.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்திக்கு இரு புதிய பாராளுமன்ற உறுப்பினர்கள் : மனுஷவின் வெற்றிடத்துக்கு பந்துல லால் பண்டாரிகொட
+
+*2024-08-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190645) · `ta`
+
+உயர்நீதிமன்றத்தினால் வழங்கப்பட்ட தீர்ப்புக்கு அமைய வெற்றிடமாகியுள்ள ஐக்கிய மக்கள் சக்தியின் காலி மாவட்ட பாராளுமன்ற உறுப்பினர் பதவிக்கு பந்துல லால் பண்டாரிகொடவின் பெயரை தேர்தல் ஆணைக்குழுவிற்கு பரிந்துரை செய்ய எதிர்பார்த்துள்ளதாக அந்த கட்சியின் பொதுச் செயலாளர் ரஞ்ஜித் மத்துமபண்டார தெரிவித்தார்.
+
+வெற்றிடமாகியுள்ள தேசிய பட்டியல் பாராளுமன்ற உறுப்பினர் பதவி தொடர்பில் கட்சியின் உயர்பீடம் கூடி கலந்துரையாடல்களை நடாத்தி தீர்மானிக்கும் எனவும் ரஞ்சித் மத்தும பண்டார குறிப்பிட்டார்.
+
+அரசாங்கத்துக்கு அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரை, கட்சி உறுப்புரிமையிலிருந்து நீக்குவதற்கு ஐக்கிய மக்கள் சக்தி மேற்கொண்ட தீர்மானம் சட்டரீதியானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ள நிலையிலேயே, ஐக்கிய மக்கள் சக்தியின் இரண்டு பாராளுமன்ற உறுப்பினர் பதவிகள் வெற்றிடமாகியுள்ளன.
+
+மனுஷ நாணயக்கார தேர்தலில் போட்டியிட்டு பாராளுமன்றத்திற்கு தெரிவானதுடன், ஹரின் பெர்ணான்டோ தேசிய பட்டியல் ஊடாக பாராளுமன்ற உறுப்புரிமையை பெற்றிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4590054d.json)
 
 ---
 
@@ -339,6 +385,10 @@ Varied Zakistan, the Visud, Visud, Pakistani, which has been observed that there
 ### Sarath Fonseka resigns
 
 *2024-08-09 11:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ඉල්ලා-අස්වෙයි/11-411273) · `si`
+
+Field Marshal Sarath Fonseka, a parliamentarian, has stepped down as the President of the Samagi Jana Balawegaya party.
+
+🟩
 
 Parliamentarian Field Marshal Sarath Fonseka has resigned from the post of the President of the Samagiation.
 
@@ -1324,23 +1374,31 @@ The suspects are residents in Colombo 39, 45 and 55 years.
 
 ---
 
-### හරීන් සහ මනුෂගේ පාර්ලිමේන්තු මන්ත්‍රී ධුර අහෝසි වෙයිද?
+### Will Harin and Manusha's parliamentary seats be abolished?
 
 *2024-08-09 06:34:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz73w0eleygo) · `si`
 
-මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (අගෝස්තු 9 වැනිදා) තීන්දු කළේය.
+The Supreme Court upheld the decision to strip Manusha Nanayakkara and Harin Fernando of their party memberships, ruling against their petitions. Despite claims of unfair treatment, the court found no violation of natural justice principles. Consequently, their parliamentary seats will be vacated, with replacements chosen based on electoral lists.
 
-සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මනුෂ නානායකාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරු ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම තීන්දුව ලබා දෙනු ලැබීය.
+🟩
 
-අචල වෙංගප්පුලි, විජිත් මළල්ගොඩ යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව  ශ්‍රේෂ්ඨාධිකරණ විනිසුරු අර්ජුන ඔබේසේකර මෙම තීන්දුව ප්‍රකාශයට පත් කළේය.
+The Supreme Court today (9th August) the Supreme Court decided to deprive the party's decision to deprive the party membership of Manusha Nanayakkara and Harin Fernando.
 
-තමන්ට සාධාරණ විනය පරීක්‍ෂණයක් සඳහා පෙනී සිටීමට අවස්ථාව ලබා නොදුන් බවත් ඒ තුළින් ස්වභාවික යුක්ති ධර්මය නමැති නීතිමය මූලධර්මය උල්ලංඝණය වන බවත් හරින් ප්‍රනාන්දු සහ මනුෂ නානායක්කාර ශ්‍රේෂ්ඨාධිකරන්ට ඉදිරිපත් කළ පෙත්සමෙන් පැමිණිලි කර තිබුණි.
+The Supreme Court was issued by the Supreme Court to refuse the petitions presented by the Ministers who were presented to the law contrary to the law to deprive their party membership.
 
-එහෙත් එම තර්කය පිළිගත නොහැකි බව සඳහන් කළ  ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඒ අනුව පෙත්සම්කරුවන් සමගි ජන බලවේගයෙන් නෙරපීමට   ගනු ලැබූ තීරණය නීත්‍යානුකූල බවත් සඳහන් කළේය.
+The Supreme Court Judges Arjuna has announced this decision with the agreement of Judges Achala Windulgoda, Vijith Balalgoda.
+
+He had complained that he was not allowed to appear for a fair discipline for a reasonable discipline and that the legal principle of natural justice was violated and Harin Fernando and Manusha Nanayakkara had complained from the petition.
+
+However, the fact that the argument stated that the argument is not acceptable stated that the decision taken to expel the petitioners with the legitimacy.
+
+Accordingly, the judge is the defense of the relevant petitions free of charge.
 
 ...
 
 [Data](articles/4567d727.json)
+
+[Extended Data](ext_articles/4567d727.ext.json)
 
 ---
 
@@ -2057,53 +2115,5 @@ The riots in the UK have taken place after a mass stabbing incident in Southport
 [Data](articles/ebacb589.json)
 
 [Extended Data](ext_articles/ebacb589.ext.json)
-
----
-
-### The people of the hill country should understand who President Ranil is - Velusamy Radhakrishnan
-
-*2024-08-08 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190614) · `ta`
-
-Velusamy Radhakrishnan criticizes President Ranil Wickremesinghe for misleading plantation workers about their salaries and not keeping promises. He urges the hill country residents to recognize Wickremesinghe's actions. Meanwhile, support for Sajith Premadasa as the next president is growing, even among children, highlighting dissatisfaction with the current leadership.
-
-🟩
-
-President Ranil Wickremesinghe has defrauded the people that the plantation workers are paying a salary of 1700 rupees and that he has not made any promise.. Therefore, the people of the hill country should understand who he is, said Velusamy Radhakrishnan, the leader of the hill country.
-
-He further stated that he was speaking at the signing of the United People's Alliance Agreement on Thursday (8) at the Sugathadasa Indoor Stadium in Colombo.
-
-Even the 5th grade students at an event in Hatton claim the next President Sajith Premadasa. That is, their parents have already decided.
-
-On May 1st last year, the current President Ranil Wickremesinghe, Minister Manusha Nanayakkara and the CWC. The chairman said that the plantation workers were paid a salary of 1700 rupees. But now I am not promising.
-
-...
-
-[Data](articles/0f79ceec.json)
-
-[Extended Data](ext_articles/0f79ceec.ext.json)
-
----
-
-### Indian Company is planning to defraud $ 9,20000 for the Sri Lankan government as a compensation of the Railway Reconstruction Scheme - Mujibur
-
-*2024-08-08 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190575) · `ta`
-
-An Indian firm faces accusations of fraudulently attempting to reduce a $92,020 compensation payment owed to the Sri Lankan government for delayed railway reconstruction projects. The company, which failed to complete the projects on time, owes $360,000 for one project and potentially $560,000 for another, totaling $920,000. The delay led to the removal of the project director and a ministry secretary amid corruption concerns.
-
-🟩
-
-The Indian Company, which has carried out a railway renovation project from Anuradhapura to Vavuniya and Mahoil to Anuradhapura, has to pay $ 9 lakhs 20 thousand $ 20,000 to the Government of Sri Lanka.. Mujibur Rahman, however, said that some people are trying to put the compensation in their bag through a different deal.
-
-He was speaking at the debate on the postponement of the House of Commons on Wednesday (07) in Parliament.
-
-It costs $ 91 million from Anuradhapura to Vavuniya and from Mahoil to Anuradhapura. That means costing 28 thousand million rupees.
-
-The condition is that if the program is not completed within the day mentioned, you will have to pay the Railway Department for $ 10 thousand per day.. This is mentioned in the agreement.
-
-...
-
-[Data](articles/16c9aa89.json)
-
-[Extended Data](ext_articles/16c9aa89.ext.json)
 
 ---

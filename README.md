@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 07:30:48**
+As of **2024-08-09 07:51:54**
 
 ## Newspaper Stats
 
-*Scraped **39,754** Articles*
+*Scraped **39,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,135 @@ dailyftlk | 2,568
 adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,001
+tamilmirrorlk | 5,002
 virakesarilk | 6,296
-adaderanasinhalalk | 6,740
+adaderanasinhalalk | 6,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,728 (99.9%) of 39,754 articles have been extended.
+39,735 (99.9%) of 39,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ලෝක ආදිවාසී දිනය අද
+### நல்லூர் கந்தன் கொடியேற்றம் இன்று
+
+*2024-08-09 07:41:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தன்-கொடியேற்றம்-இன்று/175-341845) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந்திருவிழா இன்று வெள்ளிக்கிழமை முற்பகல் 10 மணிக்குக் கொடியேற்றத்துடன் ஆரம்பமாகின்றது.
+
+இந்தப் பெருந்திருவிழாவில் எதிர்வரும் 18 ஆம் திகதி பிற்பகல் 4.45 மணிக்கு மஞ்சத் திருவிழாவும், 26ஆம் திகதி மாலை 4.45 மணிக்கு கார்த்திகை திருவிழாவும், மறுநாள் 27ஆம் திகதி காலை 6.45 மணிக்கு சூர்யோற்சவமும் நடைபெறவுள்ளன.
+
+தொடர்ந்து 23ஆம் திருவிழாவான எதிர்வரும் 31ஆம் திகதி பிற்பகல் 4.45 மணிக்கு சப்பரத் திருவிழாவும், செப்டெம்பர் முதலாம் திகதி காலை 6.15 மணிக்கு தேர்த்திருவிழாவும், அடுத்தநாள் செப்டெம்பர் 2 ஆம் திகதி காலை 6. 15 மணிக்குத் தீர்த்தத் திருவிழாவும் நடைபெறவுள்ளன. (a)
+
+◼️
+
+[Data](articles/22be32d1.json)
+
+---
+
+### ඉදිරි දින 10 තුළ බිත්තර ආනයනය අරඹයි
+
+*2024-08-09 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199735) · `si`
+
+ඉදිරි දින 10ක් ඇතුළත බිත්තර ආනයනය කිරිමේ කටයුතු යළි ආරම්භ කරන බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+
+එහි සභාපති ආසිරි වලිසුන්දර මහතා සඳහන් කළේ ඊට අදාළ ප්‍රසම්පාදන කටයුතු මේ වනවිට සිදුවන බවය.
+
+දේශීය වෙළෙඳපොළ තුළ බිත්තරයක් රුපියල් 50 ඉක්මවා මිලකට අලෙවි වීම හේතුවෙන් බිත්තර ආනයනය කිරීම සඳහා පසුගියදා කැබිනට් අනුමැතිය හිමිවිය.
+
+ඒ අනුව මසකට බිත්තර මිලියන 30 බැගින් ආනයනය කිරීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/962e2eea.json)
+
+---
+
+### අයථා ලෙස භාවිත කරන රාජ්‍ය දේපොළ ගැන දැනුම්දීමක්
+
+*2024-08-09 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199734) · `si`
+
+රජයේ දේපොළ අයථා ලෙස පරිහරණය කරන්නේ නම් ඒවා නැවත භාරදෙන ලෙස අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුම්දෙයි.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව සඳහන් කළේ, මීට පෙර රජයේ තනතුරු දරමින් සිටියදී රජය මගින් ලබාදුන් නිශ්චල සහ චංචල දේපොළ එම නිලතලවලින් ඉවත්වූ පසු නිත්‍යානූකූල නොවන ආකාරයට පරිහරණය කරන බවට පැමිණිලි රැසක් ලැබි ඇති බවය.
+
+ඒ අනුව එලෙස පරිහරණය කරන්නේ නම් ඒවා කඩිනමින් ආපසු  භාරගැනීමට අවශ්‍ය කටයුතු සිදුකිරීම අදාළ බලධාරීන් සිදුකළ යුතු බව සඳහන් කරමින් අමාත්‍යාංශය ලේකම්වරුන්, පළාත් ප්‍රධාන ලේකම්වරුන්, පළාත් පාලන ආයතන ප්‍රධානීන්, දෙපාර්තමේන්තු ප්‍රධානීන් සහ දිස්ත්‍රික් ලේකම්වරුන් මෙන්ම රජයට අනුබද්ධ ව්‍යවස්ථාපිත ආයතන ප්‍රධානීන් දැනුම්වත් කරමින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් මෙම නිවේදනය නිකුත්කර තිබේ.
+
+දූෂණ විරෝධි පනතේ 41 සහ 111 වගන්ති ප්‍රකාරව එහි මෙලෙස කිසියම් පුද්ගලයෙකු තවදුරටත් නීත්‍යානුකූලව අදාළ දේපොළ රජය වෙත භාර නොදීම නීතිය හමුවේ දඬුවම් ලැබිය හැකි වරදක් වන බවද අදාළ ලිපියෙහි දක්වා ඇත.
+
+◼️
+
+[Data](articles/80acf8e9.json)
+
+---
+
+### ඡන්ද මධ්‍යස්ථාන සකස් කිරීම අර්බුදයක
+
+*2024-08-09 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199733) · `si`
+
+ඡන්ද මධ්‍යස්ථානයක් සකස් කිරීමේදී ඊට අවශ්‍ය සේවකයින් සහ පහසුකම් සපයාගැනීම ගැටලුවක් වී ඇති බව සමස්ත ලංකා නිදහස් ග්‍රාම සේවා නිලධාරීන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ ප්‍රධාන ලේකම් එම්. කේ. ජී. ජගත් චන්ද්‍රලාල් මහතා සඳහන් කළේ මීට පෙර පැවති ඡන්ද විමසීමට වඩා මෙවර සේවකයකුට ලබාදිය යුතු දෛනික දීමනාව තුන්ගුණයකින් පමණ ඉහළ ගොස් ඇති බවය.
+
+ඡන්ද මධ්‍යස්ථානයක් සකස්කිරීමට අවශ්‍ය පරිදි ප්‍රමාණවත් දීමනාවක් ලබාදීමට කටයුතු කළ යුතු බව සමස්ත ලංකා නිදහස් ග්‍රාම සේවා නිලධාරීන්ගේ සංගමයේ ප්‍රධාන ලේකම් එම්. කේ. ජී. ජගත් චන්ද්‍රලාල් මහතා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/b6d4e9ee.json)
+
+---
+
+### World Indigenous Day today
 
 *2024-08-09 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199732) · `si`
 
-සෑම වසරකම අගෝස්තු මස 9 වනදා ලෝක ආදිවාසී ජනතාවගේ ජාත්‍යන්තර දිනය සමරනු ලබන්නේ ලෝක ආදිවාසී ජනගහණයේ අයිතිවාසිකම් නැංවීම හා සුරැකීම සඳහාය.
+Today marks the International Day of the Indigestible, celebrating indigenous rights. This year focuses on empowering young indigenous leaders to shape their cultures' futures. The celebration is hosted by the Indigenous Village of Aboriginal Peoples and the Sri Lankan government, with participation from the Minister of Buddha Sasana and Religious Affairs, Vidura Wickramanayaka. The event aims to address challenges faced by indigenous communities, emphasizing youth involvement and cultural preservation.
 
-මෙවර එහි තේමාව වී ඇත්තේ ආදිවාසී සංස්කෘතියේ වෙනස්කම් පිළිබඳව තීරණ ගැනීමට ආදිවාසී තරුණ තරුණියන් නියෝජිතයන් ලෙස හඳුනාගැනීම යන්නය.
+🟩
 
-මෙරට ආදිවාසී ජනයාද දඹාන කොටබකිණිය අදිවාසී ගම්මානය කේන්ද්‍ර කරගනිමින් අද මෙම දිනය සමරනු ලබයි.
+Every year, the International Day of the Indigestable people celebrates the rights of the World Indigenous population on August 9th August 9th.
 
-ඊට බුද්ධශාසන හා ආගමික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා ද එක්විමට නියමිතය.
+This time it is identifying as representatives of young people as representatives to make decisions on the changes of Aboriginal culture.
 
-ආදිවාසී දිනය සැමරීම සම්බන්ධයෙන් අදහස් දක්වමින් ආදිවාසී නායක ඌරුවරිගයේ වන්නිලා ඇත්තන් පැවසුවේ රටපුරා සිටින ආදිවාසී ගම්මානවල නායකයින් එක්වී පැවැත්වූ වරිග සභාවේදී සාකච්ඡා කළ පරිදි තම ජනයාට ඇති ගැටළු නිරාකරණය කරගැනීම සඳහා වූ සංදේශයක් විෂයභාර අමාත්‍යවරයා වෙත අද දිනයේදී බාරදීමට නියමිත බවය.
+This day is celebrated today centered on the Indigenous Village of Aboriginal Peoples and the Government of Sri Lanka.
+
+Minister of Buddha Sasana and Religious Affairs Vidura Wickramanayaka is due to be joined by Minister Vidura Wickramanayake.
+
+Commenting on the Indigenous Day celebrating the Indigenous Day, the Vanni, the Vanni was appointed to resolve the issues of the aboriginal villages in the country.
 
 ◼️
 
 [Data](articles/1d65ff12.json)
 
+[Extended Data](ext_articles/1d65ff12.ext.json)
+
 ---
 
-### තහනම් කෘෂි රසායනික සමග තිදෙනෙක් අත්අඩංගුවට
+### Three arrested with banned agro chemi
 
 *2024-08-09 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199731) · `si`
 
-මෙරටට ගෙන්වීම තහනම් කරන ලද කෘෂි රසායනික ද්‍රව්‍ය තොගයක් ත්‍රීරෝද රථයකින් ප්‍රවාහනය කරමින් සිටි තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Three individuals transporting banned agrochemicals in a three-wheeler were arrested by Divulapitiya Police. The haul included 500 packets valued at nearly 475,000. The suspects, aged 45 and 55, reside in Colombo.
 
-දිවුලපිටිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් අදාළ වැටලීම සිදුකර මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-මෙම කෘෂි රසායනික ද්‍රව්‍ය පැකට් 500 බැගින් අඩංගු පෙට්ටි 10ක් මෙලෙස පොලිස් භාරයට ගෙන ඇති අතර එහි වටිනාකම රුපියල් 475,000කට ආසන්න බවද පොලීසිය පවසයි.
+Three persons who were transporting an agrochemical of agro chemicals in a three-wheeler have been arrested.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 39, 45 සහ 55 වයස්වල පසුවන කොළඹ ආශ්‍රිත පදිංචිකරුවන් ය.
+The suspects were arrested by the officers of the Divulapitiya Police Station.
+
+The police have seized 500 packets of 500 packets and the value of it was nearly 475,000.
+
+The suspects are residents in Colombo 39, 45 and 55 years.
 
 ◼️
 
 [Data](articles/06e73e9c.json)
+
+[Extended Data](ext_articles/06e73e9c.ext.json)
 
 ---
 
@@ -79,6 +159,8 @@ With the outlook for Sri Lanka looking more hopeful than it had in the past few 
 ...
 
 [Data](articles/fe05c9bb.json)
+
+[Extended Data](ext_articles/fe05c9bb.ext.json)
 
 ---
 
@@ -95,6 +177,8 @@ In the latest series of the RIUNIT podcast hosted by Roshan Madawela, distinguis
 ...
 
 [Data](articles/b0f53ee2.json)
+
+[Extended Data](ext_articles/b0f53ee2.ext.json)
 
 ---
 
@@ -114,6 +198,8 @@ The calendar year started off with a positive economic outlook with the country�
 
 [Data](articles/71683898.json)
 
+[Extended Data](ext_articles/71683898.ext.json)
+
 ---
 
 ### Sri Lanka showcases Pharmaceutical Industry at Medi Pharm Expo Vietnam 2024
@@ -127,6 +213,8 @@ The Pharmaceutical Sector has been identified as one of the promising and emergi
 ...
 
 [Data](articles/7d2f8f86.json)
+
+[Extended Data](ext_articles/7d2f8f86.ext.json)
 
 ---
 
@@ -145,6 +233,8 @@ Revenue for the three months, at Rs. 15.4 billion, reflected an improvement of 1
 ...
 
 [Data](articles/6b10f98f.json)
+
+[Extended Data](ext_articles/6b10f98f.ext.json)
 
 ---
 
@@ -2141,97 +2231,5 @@ Ramanayake, a 21-year-old student of the Sri Lanka Institute of Information Tech
 [Data](articles/fe7051ce.json)
 
 [Extended Data](ext_articles/fe7051ce.ext.json)
-
----
-
-### There are 52 essential drugs
-
-*2024-08-08 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199712) · `si`
-
-The Minister of Health announced a shortage of 52 essential drugs nationwide, affecting the country's health system. Despite identifying 862 essential drugs, only 52 are critically low, with substitutes being ordered. All life-saving pharmaceuticals remain available in hospitals, and efforts are underway to address the drug shortage.
-
-🟩
-
-Minister of Health Dr. Ramesh Pathirana says that there is a shortage of 52 essential drugs in the country's health system at present.
-
-Speaking in parliament today (08), the minister said that the Ministry of Health had identified 862 essential drugs and 250 drugs were short of these drugs.
-
-However, when it is present, the Minister pointed out that only 52 drugs have been reported as a national level.
-
-The Minister said that there were substitute medicines for 52 drugs and some of them were receiving orders and were receiving the orders.
-
-The Minister said that all life security pharmaceuticals are in hospitals and the shortage of drugs will be calculated.
-
-◼️
-
-[Data](articles/ffc9035d.json)
-
-[Extended Data](ext_articles/ffc9035d.ext.json)
-
----
-
-### A powerful earthquake in Japan
-
-*2024-08-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199711) · `si`
-
-A major earthquake struck off the South Japan coast, prompting a tsunami warning from the US Meteorological Agency. The quake's epicenter was approximately 30 miles from the East Coast, causing expected tsunami waves of about a meter.
-
-🟩
-
-A powerful earthquake has been reported on the South Japan coast.
-
-As a result, the Meteorological Agency of the United States to issue a tsunami warning announcement.
-
-The trauma was nearly about 30 miles [30 km] near the East Coast, Japanese.
-
-Due to this earthquake, the tsunami wrinkles of about a meter are to have a high tsunami wrinkle.
-
-◼️
-
-[Data](articles/0f8e8522.json)
-
-[Extended Data](ext_articles/0f8e8522.ext.json)
-
----
-
-### ICC charged with Praenan Jayawickika Jayawickinika
-
-*2024-08-08 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199710) · `si`
-
-Sri Lanka cricketer Prain Win Jayawickikawe faces charges from ICC's anti-corruption unit for alleged rule violations related to betting during the 2021 international matches. The ICC announced it will respond within 14 days from August 6, 2024.
-
-🟩
-
-Sri Lanka Cricketer Prain Win Jayawickikawe Instruments of Sri Lanka have violated anti-corruption rules of the International Cricket Council.
-
-He has been accused of anti-corruption unit of proposals to the betrayal of the proposals to the betrayal of the 2021 international matches.
-
-Issuing announcement in announcement, the International Cricket Council said that 14 days from August 6, 2024, responding to these allegations.
-
-◼️
-
-[Data](articles/04d26aa4.json)
-
-[Extended Data](ext_articles/04d26aa4.ext.json)
-
----
-
-### 29 Awami League leaders, family members found dead in Bangladesh violence
-
-*2024-08-08 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101082/29-awami-league-leaders-family-members-found-dead-in-bangladesh-violence) · `en`
-
-The bodies of 29 Awami League leaders and their family members were found on Tuesday across violence-stricken Bangladesh, following Sheikh Hasina’s resignation as Prime Minister and her departure to India, India Today reported.
-
-In Satkhira, at least 10 people were killed amid the violence that followed Hasina’s resignation. The Dhaka Tribune reported that several homes and businesses owned by Awami League leaders were targeted, resulting in vandalism and looting.
-
-In Cumilla, attacks by mobs resulted in the deaths of 11 individuals. Among them, six were killed when miscreants set fire to a three-storey residence owned by former councillor Mohammad Shah Alam, the report stated.
-
-On Tuesday, four people were killed when a mob burnt down the residence of MP Shafiqul Islam Shimul. The victims’ bodies were discovered in various parts of the house, including rooms, balconies, and the roof, the report said.
-
-...
-
-[Data](articles/112f92a9.json)
-
-[Extended Data](ext_articles/112f92a9.ext.json)
 
 ---

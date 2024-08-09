@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 23:06:13**
+As of **2024-08-09 23:20:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,893 (100.0%) of 39,894 articles have been extended.
+39,894 (100.0%) of 39,894 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,19 +88,25 @@ They say that the meager earning occasionally earned from the rental job is unab
 
 ---
 
-### 16 வயது மாணவியை சீரழித்த 22 மாணவர்கள் - அதிர்ச்சி சம்பவம்
+### 22 students who destroyed a 16 -year -old student - shocking incident
 
 *2024-08-09 22:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-மாணவியை-சீரழித்த-22-மாணவர்கள்-அதிர்ச்சி-சம்பவம்/175-341880) · `ta`
 
-தனமலவில பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் 11 ஆம் தரத்தில் கல்வி கற்கும் மாணவி ஒருவரை, ஒரு வருடமாக அதே பாடசாலையில் பயிலும் 22 மாணவர்கள் தொடர்ந்து பாலியல் துஷ்பிரயோகத்திற்கு உள்ளாக்கியுள்ளார்.
+In Thanamalawila, a grade 11 student allegedly sexually abused 22 fellow students over a year. The police are investigating, aiming to arrest all involved, including the school's principal, for alleged cover-up. Legal actions are underway.
 
-அதன்படி, சம்பவத்தில் ஈடுபட்ட 22 மாணவர்கள் மற்றும் அதற்கு துணையாக இருந்த அனைவரையும் கைது செய்ய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+🟩
 
-சம்பவம் தொடர்பான உண்மைகளை மறைத்தமைக்காக அந்த பாடசாலையின் அதிபர் உட்பட அனைவருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது. R
+A student who is studying in grade 11 at a school in Thanamalawila area has continued to sexually abuse 22 students who have been studying in the same school for a year.
+
+Accordingly, the police have begun investigations to arrest the 22 students and all those involved in the incident.
+
+Legal action has been taken against everyone, including the principal of the school, to cover up the facts of the incident. Remble
 
 ◼️
 
 [Data](articles/6cc17dcd.json)
+
+[Extended Data](ext_articles/6cc17dcd.ext.json)
 
 ---
 

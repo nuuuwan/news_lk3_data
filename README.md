@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 19:21:01**
+As of **2024-08-09 19:36:23**
 
 ## Newspaper Stats
 
-*Scraped **39,875** Articles*
+*Scraped **39,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,657
-adaderanalk | 4,637
+adaderanalk | 4,638
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,025
 virakesarilk | 6,321
-adaderanasinhalalk | 6,768
+adaderanasinhalalk | 6,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,873 (100.0%) of 39,875 articles have been extended.
+39,875 (100.0%) of 39,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### ඔක්තෝබරයේ පාස්පෝට් වෙනස් වෙයි
+
+*2024-08-09 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199762) · `si`
+
+ඔක්තෝබර් මාසය දක්වා දිනකට ගුවන්ගමන් බලපත්‍ර දහසක් පමණක් නිකුත් කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+අද (09) කොළඹ පැවැති මාධ්‍ය හමුවකදී අමාත්‍යවරයා සඳහන් කළේ, ඔක්තෝබර් මාසයේ සිට ඊ ගුවන්ගමන් බලපත්‍රය නිකුත් කරන බවය.
+
+"අවුරුදු 23ක් එකම සපයන්නෙකුගෙන් නැවත නැවත ඇණවුම් කළා. මේ වතාවෙත් නැවත ඇණවුමක් ආවා. මම කිව්වා එහෙම බෑ ටෙන්ඩර් කැඳවන්න කියලා.
+
+ඒ අනුව සමාගමකට ටෙන්ඩරය ලැබුණා. මාස දෙකක් පමණ ප්‍රමාද වුණා ලංකාවේ තියෙන නීතිය අනුව, ඒ වැඩ කරන්න.  ඒ ප්‍රමාදය තමයි ප්‍රශ්නයක් වුණේ. ඒ නිසා තමයි පාස්පෝට් නිකුත් කරන එක සීමා කරන්න වුණේ.
+
+අපි දිනකට 900ක් නිකුත් කරනවා. නමුත් 1,000ක් වෙනකල් හදිසියේ එන ඒවට ඉඩ තියලා තියෙනවා.
+
+මෙතෙක් නිකුත් කළ ගුවන්ගමන් බලපත්‍රවලින් 23%යි භාවිත කරලා තියෙන්නේ. අනෙක් පාස්පෝට් ගත්තට පාවිච්චි කරලා නැහැ.
+
+මම ජනතාවගෙන් ඉල්ලීමක් කරනවා අත්‍යවශ්‍ය නම් විතරක් මේ මාස දෙකේ පාස්පෝට් එක ගන්න. එහෙම නැත්නම් ඔක්තෝබර් වෙනකල් ඉන්න අලුත්ම පාස්පෝට් එකක් ඔක්තෝබර් මාසයේ ලැබෙනවා.
+
+අපි ටෙන්ඩරය කැඳවූවේ E - PASSPORT එකට. පරණ පොතට ඩොලර් 5.89ක් ගෙව්වා. අලුත් ගුවන්ගමන් බලපත්‍රය අපිට වෙන්නේ ඩොලර් 5.5යි".
+
+...
+
+[Data](articles/e7a41421.json)
+
+---
 
 ### Third reading of the Provincial Council Election Bill on September 3
 
@@ -75,6 +101,26 @@ He said that it is not the first time a police official said that this is not th
 [Data](articles/0f30d633.json)
 
 [Extended Data](ext_articles/0f30d633.ext.json)
+
+---
+
+### US, Egypt and Qatar call on Israel and Hamas to resume talks
+
+*2024-08-09 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101118/us-egypt-and-qatar-call-on-israel-and-hamas-to-resume-talks) · `en`
+
+The United States, Egypt and Qatar have released a joint statement calling on Israel and Hamas to resume negotiations over a ceasefire and hostage-release deal.
+
+The statement said the three nations had forged a “framework agreement” that had “only the details of implementation left to conclude”.
+
+Israel said it would send negotiators to the proposed talks, which are pencilled in for 15 August in Doha or Cairo. Hamas did not immediately respond.
+
+The renewed diplomatic push will be seen as an attempt to stop regional tensions from spiralling out of control, after Hamas’ leader Ismail Haniyeh was assassinated last week. Iran, blaming Israel, has vowed a response - though Israel has not commented directly on the killing.
+
+In a joint statement, the three nations invited Israel and Hamas to restart talks on 15 August “to close all remaining gaps and commence implementation of the deal without further delay.”
+
+...
+
+[Data](articles/0942be1f.json)
 
 ---
 
@@ -468,17 +514,23 @@ The State Counseling stated in court, two police officers have been deployed to 
 
 ---
 
-### மன்னார் கடற்பரப்பில் 35 இந்திய மீனவர்கள் கைது !
+### 35 Indian fishermen arrested in Mannar seas
 
 *2024-08-09 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190679) · `ta`
 
-மன்னாரை அண்மித்த கடற்பரப்பில் அத்துமீறி நுழைந்து மீன்பிடித்த குற்றச்சாட்டில் 35 இந்திய மீனவர்கள் கைதுசெய்யப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+35 Indian fishermen were arrested and four boats seized by the Sri Lankan navy near Mannar for illegal fishing.
 
-இதேவேளை, இந்திய மீனவர்கள் மீன்பிடி நடவடிக்கைக்கு பயன்படுத்திய 4 படகுகளையும் இலங்கை கடற்படையினர் பறிமுதல் செய்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Sri Lankan navy said that 35 Indian fishermen have been arrested on charges of fishing in the nearby seas of Mannar.
+
+Meanwhile, the Sri Lankan navy has also confiscated four boats used by Indian fishermen for fishing.
 
 ◼️
 
 [Data](articles/6dce0cde.json)
+
+[Extended Data](ext_articles/6dce0cde.ext.json)
 
 ---
 
@@ -740,25 +792,33 @@ It has been revealed that most of the children in the age group between the ages
 
 ---
 
-### ஜப்பானில் பூகம்பம் குறித்து விடுக்கப்பட்டுள்ள அபாய எச்சரிக்கை
+### The hazard warning on earthquake in Japan
 
 *2024-08-09 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190665) · `ta`
 
-ஜப்பானில் பாரிய பூகம்பம் குறித்து அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது. இதனால் பொது மக்களை பாதுகாப்பாக இருக்குமாறு அதிகாரிகள் வலியுறுத்தியுள்ளனர்.
+Japan faces a significant risk of a massive earthquake, possibly causing a devastating tsunami. The government has issued warnings and taken measures like canceling official trips. Experts predict a 70-80% chance of such an event occurring in the next 30 years, potentially causing widespread damage and loss of life.
 
-வியாழக்கிழமை கியூஷுதீவில் சக்தி வாய்ந்த  பூகம்பம் ஏற்பட்டது. இதனை தொடர்ந்தே இந்த  எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இந்நிலையில், ஜப்பான் பிரதமர் ஃபுமியோ கிஷிடா வெள்ளிக்கிழமை கஜகஸ்தான், உஸ்பெகிஸ்தான் மற்றும் மங்கோலியாவுக்கான நான்கு நாட்கள் பயணத்தை இரத்து செய்துள்ளார்.
+A hazard warning on massive earthquake in Japan. Officials have urged the public to be safe.
 
-கிழக்கு ஜப்பானில் உள்ள பரந்த நன்ங்காய் பள்ளத்தாக்கிலிருந்து எதிர்காலத்தில் ஒரு பாரிய  பூகம்பம் உருவாகலாம் என  ஜப்பான் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+A powerful earthquake occurred on Thursday. This warning has been issued following this.
 
-எதிர்காலத்தில் ஒரு பெரிய அளவிலான பூகம்பம் ஏற்பட்டால், வலுவான அதிர்வு மற்றும் பாரிய சுனாமி ஏற்படலாம் என எதிர்பார்க்கப்படுகிறது.
+In the meantime, Japanese Prime Minister Fumio Kishita canceled the four -day trip to Kazakhstan, Uzbekistan and Mongolia on Friday.
 
-தென்மேற்கு ஜப்பானில் வியாழனன்று அதிகாலை 7.1 ரிச்டர் அளவிலான பூகம்பம் ஏற்பட்டது, மேலும், வெள்ளிக்கிழமை வரை அப்பகுதியை மேலும் அதிர்வுகள் தாக்கின. அப்பகுதிகளில் நில அதிர்வு செயல்பாடு அதிகமாக இருப்பதாக நிபுணர்கள் குறிப்பிடுகின்றனர்.
+The Department of Meteorology has said that a massive earthquake may be created in the future from the vast Nangai Valley in East Japan.
+
+In the event of a large -scale earthquake in the future, a strong vibration and massive tsunami is expected to occur.
+
+The 7.1 -rich earthquake occurred in southwest Japan on Thursday, and more vibrations hit the area until Friday.. Experts note that the seismic activity is high in those areas.
+
+The Meteorological Department has urged the municipalities in the region to spread their earthquakes from surrounding Tokyo to South Oginawa Province.
 
 ...
 
 [Data](articles/6f5ea041.json)
+
+[Extended Data](ext_articles/6f5ea041.ext.json)
 
 ---
 
@@ -2207,63 +2267,5 @@ In addition, Mannar police are conducting investigations for the arrest of the d
 [Data](articles/547059b6.json)
 
 [Extended Data](ext_articles/547059b6.ext.json)
-
----
-
-### The kovid risk that came to the Paris track
-
-*2024-08-09 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199738) · `si`
-
-In the final event of the Paris track, 21-year-old Letsila Tetabago from Botswana won the gold medal in the men's 200-meter race, setting a new African record of 19.46 seconds. This marked the first time an African athlete claimed the Olympic gold in this category. The silver went to Kenneth Bednar, while American sprinter Noah Lyles, despite being infected with COVID-19, secured the bronze. Despite concerns over Lyles' health, no other athletes tested positive for COVID-19 during the event.
-
-🟩
-
-The last 200th Event in the 200 (9 meter event was held today).
-
-The gold medal was won by 21-year-old Botswana player Letsila Tetabago, who was hosting the gold medal.
-
-The fastest riders of the current World Athletic Ground for the male 200 meter event, 8 players including the Liles, Belt Bedker, Botsyle Tatologio, were also present.
-
-The event was established in the form of a new African record and was 19.46 seconds.
-
-This is the first time a player in the African region has won the 200 olympic gold medal.
-
-The silver medal was owned by Kenneth Bednar.
-
-However, the Lyles of the United States, crowned the world, was to be satisfied with the bronze medal.
-
-The US Athletics Union has confirmed that Noah 200 meter events had been a Lyles Cowid infection.
-
-Investigations confirmed that two days ago, the investigations were infected with the covard two days ago, but it was decided to participate in the 200-day event.
-
-Foreign media reports that the Nou Liles a wheelchair following the 200 meter endings.
-
-...
-
-[Data](articles/81798359.json)
-
-[Extended Data](ext_articles/81798359.ext.json)
-
----
-
-### Bribery Commission warns against misuse of state property
-
-*2024-08-09 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101097/bribery-commission-warns-against-misuse-of-state-property) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has issued a directive to return government property if it is being misused.
-
-In a statement, the commission said it has received numerous complaints that immovable and movable properties provided by the government to individuals holding official positions were being used unlawfully even after those positions had been vacated.
-
-As a result, the relevant authorities are instructed to take immediate steps to reclaim such properties.
-
-The CIABOC has issued this notice to Ministry Secretaries, Provincial Chief Secretaries, Heads of Local Government Bodies, Department Heads, District Secretaries, and the Heads of Statutory Bodies affiliated with the government.
-
-According to Sections 41 and 111 of the Anti-Corruption Act, failing to return such property to the government is a punishable offence under the law, it warned.
-
-◼️
-
-[Data](articles/3af98f72.json)
-
-[Extended Data](ext_articles/3af98f72.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 13:20:53**
+As of **2024-08-09 13:36:43**
 
 ## Newspaper Stats
 
-*Scraped **39,819** Articles*
+*Scraped **39,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,81 @@ dailyftlk | 2,568
 adalk | 3,652
 adaderanalk | 4,626
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,015
+tamilmirrorlk | 5,017
 virakesarilk | 6,306
-adaderanasinhalalk | 6,754
+adaderanasinhalalk | 6,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,817 (100.0%) of 39,819 articles have been extended.
+39,819 (100.0%) of 39,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### சுயேட்சை வேட்பாளராக களமிறங்கியமைக்கான காரணத்தை வெளியிட்டார் ரணில் !
+### “கட்சி மாறினால் வீட்டுக்கு அனுப்புவோம்”
+
+*2024-08-09 13:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறினால்-வீட்டுக்கு-அனுப்புவோம்/175-341858) · `ta`
+
+கட்சி மாறுபவர்களை வீட்டுக்கு அனுப்புவதற்கு தேசிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் சட்டங்கள் தயாரிக்கப்படும் என அதன் தலைவரும், பாராளுமன்ற உறுப்பினருமான  அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+மல்வான பிரதேசத்தில் நடைபெற்ற முஸ்லிம் சகோதரத்துவ கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5258d627.json)
+
+---
+
+### මට අද කොන්ද කෙලින් තියන් යන්න පුළුවන් - හරීන්
+
+*2024-08-09 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199748) · `si`
+
+මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (09) තීන්දු කළේය.
+
+"මට අද කොන්ද කෙලින් තියාගෙන ආඩම්බරයෙන් යන්න පුළුවන්. මම මාව විශ්වාස කළා. මම ඒ අවධානම දැනගෙන තමයි තීරණය ගත්තේ. මම ඒ වෙලාවේ ගියේ රටේ ප්‍රශ්නය මගේ පැත්තෙන් විසඳන්න පුළුවන් දේ කරන්න. මමම තමයි ස.. ෆේල් කිව්වේ. මමම තමයි ඒ කතා ඔක්කොම හැදුවේ. අධිකරණයට මම කිසිම දෙයක් කියන්නේ නැහැ. මම ඒ තීන්දුව පිළිගන්නවා."
+
+◼️
+
+[Data](articles/4dcba126.json)
+
+---
+
+### Ranil issued the reason for the field as an independent candidate!
 
 *2024-08-09 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190650) · `ta`
 
-மக்களின் பசி தீர்க்கவே ஜனாதிபதித் தேர்தலில் கட்சி வேறுபாடின்றி, சுயேட்சை வேட்பாளராக களமிறங்கியுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+In a speech at a women's conference, President Ranil Wickremesinghe announced his candidacy as an independent in the upcoming presidential election, emphasizing his commitment to addressing the nation's food crisis.
 
-கொழும்பில் இன்று (09) வெள்ளிக்கிழமை இடம்பெற்ற 'பெண்கள் எங்கள் பலம்'' என்ற பெண்கள் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said that the party has been fielded as an independent candidate, regardless of the party in the presidential election to solve the people's hunger.
+
+President Ranil Wickremesinghe said this while addressing the women's conference on Friday (09) in Colombo.
 
 ◼️
 
 [Data](articles/608bac3e.json)
+
+[Extended Data](ext_articles/608bac3e.ext.json)
+
+---
+
+### மனுஷவின் வெற்றிடத்துக்கு பண்டாரிகொட
+
+*2024-08-09 12:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷவின்-வெற்றிடத்துக்கு-பண்டாரிகொட/175-341857) · `ta`
+
+காலி மாவட்ட பாராளுமன்ற உறுப்பினர் மனுஷ நாணயக்கார் எம்.பி பதவியில் இருந்துநீக்கப்பட்டதன் காரணமாக வெற்றிடமான பதவிக்கு  பந்துலால் பண்டாரிகொடவின் பெயரை தேர்தல்கள் ஆணைக்குழுவிடம் முன்மொழிய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+உயர்நீதிமன்றம், வௌ்ளிக்கிழமை (09) வழங்கிய தீர்ப்பின்படி,  மனுஷ நாணயக்கார எம்.பி பதவியில் இருந்து நீக்கப்பட்டார்.
+
+காலி மாவட்ட பட்டியலில் மனுஷ நாணயகாரவுக்கு அடுத்தபடியாக அதிக வாக்குகளை பந்துலால் பண்டாரிகொட பெற்றிருந்தார்.
+
+◼️
+
+[Data](articles/2d212fc5.json)
 
 ---
 
@@ -122,21 +172,27 @@ He said that Ariyanendran had come to meet me after the announcement as the comm
 
 ---
 
-### ஐக்கிய மக்கள் சக்திக்கு இரு புதிய பாராளுமன்ற உறுப்பினர்கள் : மனுஷவின் வெற்றிடத்துக்கு பந்துல லால் பண்டாரிகொட
+### Two new MPs for United People's Power: Bandula Lal Bandarigoda
 
 *2024-08-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190645) · `ta`
 
-உயர்நீதிமன்றத்தினால் வழங்கப்பட்ட தீர்ப்புக்கு அமைய வெற்றிடமாகியுள்ள ஐக்கிய மக்கள் சக்தியின் காலி மாவட்ட பாராளுமன்ற உறுப்பினர் பதவிக்கு பந்துல லால் பண்டாரிகொடவின் பெயரை தேர்தல் ஆணைக்குழுவிற்கு பரிந்துரை செய்ய எதிர்பார்த்துள்ளதாக அந்த கட்சியின் பொதுச் செயலாளர் ரஞ்ஜித் மத்துமபண்டார தெரிவித்தார்.
+The United People's Power party awaits the Election Commission's nomination to fill two vacant MP positions due to a High Court ruling. The party plans to discuss the selection process for the National List MP seat. This comes after the Supreme Court upheld the removal of Harin Fernando and Manusha Nanayakkara from the party, affecting their parliamentary seats.
 
-வெற்றிடமாகியுள்ள தேசிய பட்டியல் பாராளுமன்ற உறுப்பினர் பதவி தொடர்பில் கட்சியின் உயர்பீடம் கூடி கலந்துரையாடல்களை நடாத்தி தீர்மானிக்கும் எனவும் ரஞ்சித் மத்தும பண்டார குறிப்பிட்டார்.
+🟩
 
-அரசாங்கத்துக்கு அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரை, கட்சி உறுப்புரிமையிலிருந்து நீக்குவதற்கு ஐக்கிய மக்கள் சக்தி மேற்கொண்ட தீர்மானம் சட்டரீதியானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ள நிலையிலேயே, ஐக்கிய மக்கள் சக்தியின் இரண்டு பாராளுமன்ற உறுப்பினர் பதவிகள் வெற்றிடமாகியுள்ளன.
+The party's general secretary Ranjith Mathumapandara said that the vacancy of the United People's Power of Galle District, which is a vacuum issued by the High Court, is looking forward to the Election Commission's name to the Election Commission.
 
-மனுஷ நாணயக்கார தேர்தலில் போட்டியிட்டு பாராளுமன்றத்திற்கு தெரிவானதுடன், ஹரின் பெர்ணான்டோ தேசிய பட்டியல் ஊடாக பாராளுமன்ற உறுப்புரிமையை பெற்றிருந்தமை குறிப்பிடத்தக்கது.
+Ranjith Mathuma Bandara also stated that the party's highlight will hold discussions on the vacant National List Member of Parliament.
+
+Two United People's Power Members of Parliament have been vacant as the Supreme Court has ruled that the United People's Sabha's decision to remove the government ministers Harin Fernando and Manusha Nanayakkara from party membership is legal.
+
+It is noteworthy that Manusha Nanayakkara contested the election and was elected to parliament and Harin Fernando gained parliamentary membership through the national list.
 
 ◼️
 
 [Data](articles/4590054d.json)
+
+[Extended Data](ext_articles/4590054d.ext.json)
 
 ---
 
@@ -2059,61 +2115,5 @@ The nine girls are to be produced before the Welimada Magistrate's Court tomorro
 [Data](articles/78998cb8.json)
 
 [Extended Data](ext_articles/78998cb8.ext.json)
-
----
-
-### President explain to the IMF agreement
-
-*2024-08-08 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199724) · `si`
-
-President Ranil Wickremesinghe addressed a gathering in Colombo, emphasizing the importance of the IMF agreement for Sri Lanka's economic recovery. He warned against the consequences of defaulting on the agreement, referencing previous defaults which led to challenging economic periods. The event saw participation from various stakeholders including representatives from across the country's cooperative societies.
-
-🟩
-
-President Ranil Wickremesinghe says that the neighbors will go to the stupa and cannot eliminate the poverty of the people.
-
-The President made these comments participating at a discussion held in Colombo yesterday.
-
-A large number of representatives and representatives of the Board of Directors and officers of the Co-operative Societies island wide were joined.
-
-"We are now building because of the agreement between the IMF and the government. If the treaty is given to fall again, a queue era again. We broke the IMF contract 17 times. I was told that the 18th time she was running back. "
-
-◼️
-
-[Data](articles/00d8a48e.json)
-
-[Extended Data](ext_articles/00d8a48e.ext.json)
-
----
-
-### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
-
-*2024-08-08 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
-
-President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
-
-...
-
-[Data](articles/4933fe13.json)
-
-[Extended Data](ext_articles/4933fe13.ext.json)
-
----
-
-### Sri Lanka raises safety concerns ahead of England Tests due to anti-immigrant riots in UK: Report
-
-*2024-08-08 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101090/sri-lanka-raises-safety-concerns-ahead-of-england-tests-due-to-anti-immigrant-riots-in-uk-report) · `en`
-
-Sri Lanka Cricket (SLC) has raised concerns over the safety of its Test team ahead of the three-match series against England, starting on August 21 in Manchester, due to anti-immigrant riots that have erupted in various cities of the United Kingdom.
-
-According to a report in ESPNCricinfo, the Sri Lankan players already in England - seven players and two support staff - have asked the country’s cricket board to arrange for better security over the next few days, as they travel to and from a ground near London, due to the widespread riots targeting immigrants in the UK.
-
-The riots in the UK have taken place after a mass stabbing incident in Southport, where three children were killed. Due to disinformation about the attackers, many immigrants, as well as their businesses and places of worship, have come under attack from far-right groups.
-
-...
-
-[Data](articles/ebacb589.json)
-
-[Extended Data](ext_articles/ebacb589.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 16:08:30**
+As of **2024-08-09 16:21:11**
 
 ## Newspaper Stats
 
-*Scraped **39,846** Articles*
+*Scraped **39,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 2,568
 adalk | 3,655
 adaderanalk | 4,632
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,021
+tamilmirrorlk | 5,022
 virakesarilk | 6,309
-adaderanasinhalalk | 6,762
+adaderanasinhalalk | 6,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,843 (100.0%) of 39,846 articles have been extended.
+39,846 (100.0%) of 39,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### 9 வயதில் பெண்களுக்கு திருமணம்
+
+*2024-08-09 16:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/9-வயதில்-பெண்களுக்கு-திருமணம்/50-341867) · `ta`
+
+பெண்களின் திருமண வயதை 9 ஆக குறைக்கும் சர்ச்சைக்குரிய சட்டமூலம் ஈராக் பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாக கூறப்படுகின்றது.
+
+இதன்படி ஆண்குழந்தைகளுக்கு 15 வயதிலும் , பெண் குழந்தைகள் 9 வயதை எட்டியதும் திருமணம் செய்து வைக்க முடியும் என தெரிவிக்கப்பட்டுள்ளது.
+
+அதேவேளை தற்போதுவரை ஈரானில் பெண்களின் திருமணத்துக்கான சட்டப்பூர்வ வயது 18 ஆக உள்ளது.
+
+ஆனால் தற்போது முமொழியப்பட்டுள்ள சட்டமூலத்தின்படி, பெற்றோர் மற்றும் நீதித்துறை சம்மதத்தில், 9 வயதில் பெண்களை திருமணம் செய்து கொடுக்கலாம் என கூறப்பட்டுள்ளது.
+
+சட்டப்பூர்வ வயது 18 ஆக இருந்தாலும் ஏற்கனவே ஈராக்கில் 28 சதவீத பெண்களுக்கு அந்த வயதை எட்டும் முன்பே திருமணம் செய்துவைக்கப்பட்டுள்ளது என்று ஐநாவின் குழந்தைகள் அமைப்பான UNICEF தெரிவித்துள்ளது.
+
+இந்த நிலையில், தற்போதய இந்த வயது தளர்வு சட்டமூலத்துக்கு எதிராக ஈராக் பெண்கள் போராட்டத்தை முன்னெடுத்துள்ளதாகவும் கூறப்படுகின்றது.
+
+◼️
+
+[Data](articles/6163f611.json)
+
+---
+
+### පාර්ලිමේන්තුවට එන අලුත් දෙදෙනා
+
+*2024-08-09 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199757) · `si`
+
+හරීන් ප්‍රනාන්දු සහ මනූෂ නානායක්කාර යන මහත්වරුන්ගෙන් පුරප්පාඩු වන මන්ත්‍රී ධුර සඳහා පත්කෙරෙන දෙදෙනා සම්බන්ධයෙන් සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා අද (09) මාධ්‍යට අදහස් දැක්වීය.
+
+මනූෂ නානායක්කාර මහතා 2020 මහ මැතිවරණයේ දී සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් මනාප ලැයිස්තුවේ දෙවන ස්ථානයට පත් වෙමින් පාර්ලිමේන්තුවට තේරී පත්වීය.
+
+ඒ අනුව මනාප ලැයිස්තුවේ තෙවන ස්ථානයට පත්වූ බන්දුලාල් බණ්ඩාරිගොඩ මහතා පුරප්පාඩු වන මන්ත්‍රී ධුරය වෙනුවෙන් පාර්ලිමේන්තුවට පිවිසෙනු ඇති බව ද රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+
+මේ අතර හරීන් ප්‍රනාන්දු මහතා ජාතික ලැයිස්තුවෙන් තෝරා පත්කර ගත් අයෙකු වන බැවින් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලය හා කළමනාකරණ මණ්ඩලය එක්ව එම මන්ත්‍රී ධුරයට පත්වෙන පුද්ගලයා ගැන තීරණයක් ගන්නා බව ද රංජිත් මද්දුමබණ්ඩාර මහතා කියා සිටියේය.
+
+මේ අතර පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් හා කැලණිය ආසනයේ සංවිධායක ධුරයෙන් ඉල්ලා අස්වෙමින් සජිත් ප්‍රේමදාස මහතා වෙත ලිපියක් යොමු කර තිබේ.
+
+...
+
+[Data](articles/2b3f465c.json)
+
+---
 
 ### SJB to decide on appointments to several vacant posts
 
@@ -47,6 +89,24 @@ Sources from SJB stated that the party’s Executive Committee will meet soon to
 ...
 
 [Data](articles/15f5e6fa.json)
+
+[Extended Data](ext_articles/15f5e6fa.ext.json)
+
+---
+
+### රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත බලාත්මක කෙරේ
+
+*2024-08-09 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199756) · `si`
+
+ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව අනුව, තමා විසින් 2024 අගෝස්තු 08 දින “රාජ්‍ය මූල්‍ය කළමනාකරණ” නමැති  පනත් කෙටුම්පතෙහි සහතිකය සටහන් කළ බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (09) පාර්ලිමේන්තුවට දැන්වීය.
+
+ඒ අනුව උක්ත පනත් කෙටුම්පත 2024 අංක 44 දරන රාජ්‍ය මූල්‍ය කළමනාකරණ පනත ලෙස 2024 අගෝස්තු 08 වැනි දින සිට බලාත්මක වේ.
+
+එම පනත් කෙටුම්පත 2024 මැයි 22 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර එය පසුගිය ජූලි 25 වනදා ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව සම්මත විය.
+
+◼️
+
+[Data](articles/0e5845da.json)
 
 ---
 
@@ -69,6 +129,8 @@ Meanwhile, Minister Pavithra Wanniarachchi, who also addressed the event, said t
 ...
 
 [Data](articles/b4b56df0.json)
+
+[Extended Data](ext_articles/b4b56df0.ext.json)
 
 ---
 
@@ -301,6 +363,8 @@ Accordingly, as per the Supreme Court verdict, Harin Fernando and Manusha Nanaya
 ...
 
 [Data](articles/e1853694.json)
+
+[Extended Data](ext_articles/e1853694.ext.json)
 
 ---
 
@@ -2115,61 +2179,5 @@ What makes this country heaven by maintaining miracle growth, will it need so-ca
 [Data](articles/b889470f.json)
 
 [Extended Data](ext_articles/b889470f.ext.json)
-
----
-
-### Heavy rains in many areas
-
-*2024-08-09 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199730) · `si`
-
-Heavy rains expected across Western, Sabaragamuwa, and North Western provinces today, with more showers predicted throughout the day. Evening or night thundershowers forecasted for the rest of the island. Public urged to prepare for potential damage from temporary winds and lightning.
-
-🟩
-
-Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces today (09).
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/0fe2c2f9.json)
-
-[Extended Data](ext_articles/0fe2c2f9.ext.json)
-
----
-
-### Economic Transformation Act repeals BOI Law
-
-*2024-08-09 06:12:11* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Act-repeals-BOI-Law/4-765312) · `en`
-
-The repeal of the BOI Law does not mean scrapping/termination of the tax holidays and concessions that have already been granted
-
-The Economic Transformation Bill was issued by way of Gazette on 14 May 2024 and was passed in Parliament on 25 July 2024. The Act is still not available publicly and this article is based on the Economic Transformation Bill.
-
-The Economic Transformation Act (ETA) is to provide for the National Policy on Economic Transformation and for the Establishment of the Economic Commission of Sri Lanka, Investment Zones in Sri Lanka, office for International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and International Trade.
-
-...
-
-[Data](articles/9a0315be.json)
-
-[Extended Data](ext_articles/9a0315be.ext.json)
-
----
-
-### Adapting concepts of Islamic Finance to an effective debt restructuring mechanism
-
-*2024-08-09 06:07:51* · [`dailyftlk`](https://www.ft.lk/columns/Adapting-concepts-of-Islamic-Finance-to-an-effective-debt-restructuring-mechanism/4-765311) · `en`
-
-Islamic Finance (IF) is based on the Shariah principles which are interpreted via Quran and Sunnah. It is operated currently globally not only in Muslim countries, in other Western and Eastern countries which are based on conventional banking principles. Hence, it is imperative to analyse how the IF can be adopted as a global financial system in order to address most of the current economic hazards in the world.
-
-In Islam, it highly considers that the resources are needed to fulfil the material requirements of both individual and society. The high concern and knowledge on these ethical principles are directed to the personal and societal justice and tranquillity which is the way to the fair financial system. Especially, in the event of handling the distressed customers in the financial institutions, the principles of IF can be successfully adapted.
-
-...
-
-[Data](articles/2bd40962.json)
-
-[Extended Data](ext_articles/2bd40962.ext.json)
 
 ---

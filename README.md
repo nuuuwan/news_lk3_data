@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 16:36:32**
+As of **2024-08-09 16:53:49**
 
 ## Newspaper Stats
 
-*Scraped **39,850** Articles*
+*Scraped **39,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,655
-adaderanalk | 4,632
+adalk | 3,656
+adaderanalk | 4,635
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,022
 virakesarilk | 6,309
@@ -26,35 +26,95 @@ adaderanasinhalalk | 6,765
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,849 (100.0%) of 39,850 articles have been extended.
+39,850 (100.0%) of 39,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### පාකිස්තානයට වටිනාකමක් එක්කළ නදීම්
+### Sri Lanka invites Egyptian business community to explore trade and investment opportunities
+
+*2024-08-09 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101113/sri-lanka-invites-egyptian-business-community-to-explore-trade-and-investment-opportunities-) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry has held discussions with the Egyptian business community on ways of unleashing untapped potential to expand trade and investment between Sri Lanka and Egypt, particularly in sectors including agriculture, apparel, ICT, renewable energy and tourism.
+
+The event which was organised by the Cairo Chamber of Commerce in coordination with the Federation of Egyptian Chambers of Commerce, on enhancing trade and economic cooperation between the two countries, was attended by Foreign Minister Sabry during his official visit to Egypt.
+
+The event had the partition of the President of the General Federation of Egyptian Chambers of Commerce (FEDCOC), the Assistant Foreign Minister for Asian Affairs, the Chairman of the Cairo Chamber of Commerce and high-level representatives of the FEDCOC and the Cairo Chamber, Minister Sabry said.
+
+...
+
+[Data](articles/2c49c3a5.json)
+
+---
+
+### 35 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-08-09 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101114/35-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A total of thirty-five Indian fishermen have been arrested along with 04 Indian dhows while poaching in Sri Lankan waters off Mannar.
+
+The interception was made during a special operation conducted off the Kudiramalei Point in the northwestern seas, south of Mannar on August 08, which was carried out by navy personnel together with the Sri Lanka Coast Guard, the navy said.
+
+The SLN Northwestern Naval Command had spotted a cluster of Indian fishing boats engaging in illegal fishing in Sri Lankan waters.
+
+In response, a Coast Guard ship attached to the Western Naval Command had been dispatched to send away those Indian fishing boats poaching off the Kudiramalei Point in the northwestern seas, south of Mannar.
+
+The four dhows together with thirty-five Indian fishermen were brought to SLNS Vijaya and they will be handed over to the Kalpitiya Fisheries Inspector for onward legal proceedings, the navy said.
+
+...
+
+[Data](articles/64298e07.json)
+
+---
+
+### FIU and Registrar General ink MoU to share information on Trusts, property registrations
+
+*2024-08-09 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101112/fiu-and-registrar-general-ink-mou-to-share-information-on-trusts-property-registrations) · `en`
+
+The Financial Intelligence Unit (FIU) of Sri Lanka has entered into a Memorandum of Understanding (MOU) with the Registrar General of the Registrar General’s Department to receive information on Trusts, property registrations and any suspicious activities relating to Trusts and property registrations in relation to Money Laundering (ML), Terrorist Financing (TF) and related crimes.
+
+This MOU has been entered into by the FIU, in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006, the Central Bank of Sri Lanka (CBSL) announced.
+
+...
+
+[Data](articles/afdf0698.json)
+
+---
+
+### Pakistan's value to Pakistan
 
 *2024-08-09 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199758) · `si`
 
-දැඩි ආර්ථික අර්බුදයකින් පීඩා විඳිමින් සිටින පාකිස්තානය තවමත් යථාතත්ත්වයට පත්ව නොමැත.
+In the midst of Pakistan's economic struggles, seven athletes are set to compete in the Paris Olympics, including javelin thrower Arshad Nadeem, who achieved a personal best of 92.97 meters, raising national hopes despite no gold medals. This marks a significant achievement for Pakistan, especially after Nadia Khan's historic gold medal in the 2008 Beijing Olympics, the first for Pakistan in Olympic history. Another highlight is the performance of Nayanjot Singh Chaudhary, who, despite being ranked fifth, continues to represent Pakistan with pride.
 
-එවන් තත්ත්වයක සිටියත් මෙවර පැරිස් ඔලිම්පික් උලෙළ නියෝජනය කිරීමට එරට ක්‍රීඩක ක්‍රීඩිකාවන් 07 දෙනෙකුට අවස්ථාව උදා විය.
+🟩
 
-ඒ අතුරින් බොහෝ දෙනෙකුගේ ඇස ගැටුණු තරුවක් වූයේ අර්ෂාද් නදීම්ය.
+Pakistan, suffering from severe economic crisis, has not yet been recovered.
 
-ඔහු සමස්ත පාකිස්තානුවන්ගේම බලාපොරොත්තු ඔසවා තබමින් ඊයේ (08) අවසන් වූ හෙල්ල විසිකිරීම පිරිමි ඉසව්වෙන් මීටර 92.97ක දක්ෂතාවක් දක්වමින් ඔලිම්පික් රන් පදක්කම දිනාගැනීමට ඔහු සමත් විය.
+Despite such a situation, seven athletes have the opportunity to represent the Paris Olympics.
 
-මෙය එසේ මෙසේ රන් පදක්කමක් නොවන අතර, ඔලිම්පික් වාර්තා පොත අලුත්කළ රන් පදක්කමකි.
+A star of many of them was a star that clashed Arshad.
 
-ඒ අනුව නදීම් බිඳදමනු ලැබුවේ 2008 වසරේදී බීජිං (චීනය) ඔලිම්පික් උලෙළේදී නෝර්වේ රාජ්‍යයේ ඇන්ඩ්‍රියාස් තෝර්කිල්ඩ්සන් විසින් මීටර 90.57ක දක්ෂතාවක් දක්වා පිහිටුවා තිබූ වාර්තාවයි.
+He was able to gain the spelling of the spelling of 92.97 meters from the male event, lifting the expectations of the entire Pakistanis.
 
-එමෙන්ම නදීම්ගේ මෙම රන් පදක්කම ඔලිම්පික් ඉතිහාසයේ ජවන හා පිටිය ඉසව්වකින් පාකිස්තානුවෙකු දිනූ පළමු රන් පදක්කමද විය.
+This is not a gold medal, and is a gold medal in the Olympics book.
 
-මෙය පාකිස්තානුවන්ට තවත් වටිනා රන් පදක්කමක් වූයේ ඔවුන්ගේ ප්‍රධානම එදිරිවාදී රට වන ඉන්දියාව නියෝජනය කරමින් පැමිණි නීරාජ් චෝප්රාවද අභිබවා යමින් මෙම පදක්කම දිනාගැනීම ය.
+Accordingly, legal reports were talented by the Norwegian style of Norway at the Olympics in 2008.
+
+And the gold medal of Nadim was the first gold medal of a Pakistan in the history and the field of the Olympic history.
+
+This was another gold medal for Pakistanis, who represented the main rival country, India, and the Naraj Choprawa, who represented India.
+
+Nayaraj is the gold medal of the Tokyo Olympics, and he gave a talent at 87.58 meters.
+
+Although Renings qualified for the last 12 years. As a result, he had to be satisfied with the 5th.
 
 ...
 
 [Data](articles/307c41e3.json)
+
+[Extended Data](ext_articles/307c41e3.ext.json)
 
 ---
 
@@ -447,6 +507,20 @@ Parliamentarian Field Marshal Sarath Fonseka resigned from the post of resignati
 [Data](articles/1a77669b.json)
 
 [Extended Data](ext_articles/1a77669b.ext.json)
+
+---
+
+### හරීනුත් ඉවත් වෙයි- හෘදසාක්ෂියට එකඟව තීන්දු ගන්න
+
+*2024-08-09 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/හරීනුත්-ඉවත්-වෙයි--හෘදසාක්ෂියට-එකඟව-තීන්දු-ගන්න/11-411277) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් තීන්දුවත් සමග අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාද අමාත්‍ය ධුරයෙන් ඉවත්වීමට කටයුතු කර ඇත.
+
+මේ ගමන යනකොට තමන්ගේ හෘදසාක්ෂියට එකඟව තීන්දු ගන්න. තමන්ගේ ආත්ම විශ්වාසය අනුව තමන් කරන්නේ හරි දේ කියලා හිතනවා නම් ඒ වෙලාවේ තමන්ගේ පටු අරමුණු ගැන හිතන්න එපා.
+
+◼️
+
+[Data](articles/cbda78a3.json)
 
 ---
 
@@ -2139,75 +2213,5 @@ The Pharmaceutical Sector has been identified as one of the promising and emergi
 [Data](articles/7d2f8f86.json)
 
 [Extended Data](ext_articles/7d2f8f86.ext.json)
-
----
-
-### Teejay knits resilient start to 2024-25 with profit turnaround in Q1
-
-*2024-08-09 06:28:44* · [`dailyftlk`](https://www.ft.lk/business/Teejay-knits-resilient-start-to-2024-25-with-profit-turnaround-in-Q1/34-765319) · `en`
-
-Teejay Lanka Chairman Ajit Gunewardene (left) and CEO Pubudu De Silva
-
-Strategic responses to challenges facing the textile manufacturing industry have generated a positive start to 2024-25 for Teejay Lanka PLC, Sri Lanka’s first multinational textile manufacturer.
-
-The Group has reported profit before tax of Rs 273.7 million for the three months ending 30 June 2024, reversing a loss of Rs. 701 million in the first quarter of the preceding year.
-
-Revenue for the three months, at Rs. 15.4 billion, reflected an improvement of 10% over the corresponding quarter of the previous year, but gross profit grew by 357% to Rs 1.3 billion, Teejay Lanka said in a filing with the Colombo Stock Exchange (CSE).
-
-...
-
-[Data](articles/6b10f98f.json)
-
-[Extended Data](ext_articles/6b10f98f.ext.json)
-
----
-
-### Dialog Television introduces all- new prepaid Channel plans with even more channels
-
-*2024-08-09 06:27:49* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Television-introduces-all-new-prepaid-Channel-plans-with-even-more-channels/34-765318) · `en`
-
-Dialog Tele-vision, Sri Lanka’s #1 Pay TV provider, has introduced three new prepaid plans designed to enhance customer value, reinforcing its commitment to delivering a wide array of television content across the country. These plans provide access to over 100 channels, ensuring unmatched entertainment.
-
-With a single reload, customers can enjoy their favorite channels for an entire month, as Dialog Television delivers premier local and global entertainment straight to their homes.
-
-Dialog Televi-sion’s latest reload channel plans offer more channels than ever before, featuring a wide range of content including cartoons, TV dramas, movies, sports, news, current affairs, religious programs, children’s shows, music, and more. With these three new prepaid plans, viewers can access both local and international channels in Sinhala, Tamil, English, and Hindi.
-
-...
-
-[Data](articles/bd792b2b.json)
-
-[Extended Data](ext_articles/bd792b2b.ext.json)
-
----
-
-### Casio’s major enforcement action in Sri Lanka: Ongoing efforts to safeguard consumer interests
-
-*2024-08-09 06:26:43* · [`dailyftlk`](https://www.ft.lk/business/Casio-s-major-enforcement-action-in-Sri-Lanka-Ongoing-efforts-to-safeguard-consumer-interests/34-765317) · `en`
-
-Casio Computer Co. Ltd., headquartered in Japan recently got a significant enforcement action conducted in Sri Lanka as part of the Casio Group’s IP Enforcement Policy to combat the escalating issue of Casio’s counterfeits in the Sri Lankan market and protect its valued consumers.
-
-In a recent coordinated effort alongside Casio India, raids were conducted by Colombo Crime Division (CCD) simultaneously at three locations of one of the largest retail stores in Sri Lanka in March 2024. These locations included two outlets of the retail store and its warehouse, where counterfeit Casio watches, primarily G-SHOCK timepieces were found. The operation resulted in the seizure of several counterfeit watches and representatives of the accused entity were taken into custody for further legal proceedings. Subsequently, the entity pleaded guilty in the matters and fines were imposed.
-
-...
-
-[Data](articles/f3ee3962.json)
-
-[Extended Data](ext_articles/f3ee3962.ext.json)
-
----
-
-### Why is IMF here? Sri Lanka needs new governance model to avoid them in the future
-
-*2024-08-09 06:24:59* · [`dailyftlk`](https://www.ft.lk/columns/Why-is-IMF-here-Sri-Lanka-needs-new-governance-model-to-avoid-them-in-the-future/4-765316) · `en`
-
-The state of bankruptcy Sri Lanka experienced can happen again if there is no change in the way the country is governed contrary to the thinking history never repeats itself
-
-The IMF may have their own agendas. But they are in the country because our politicians and officials failed to manage the economy leading it to bankruptcy. Some degree of economic and financial discipline is evident today, thanks to the presence of the IMF. Any proposed renegotiations should be on the basis of even greater discipline, and sustainable discipline, and not pandering to populism.
-
-...
-
-[Data](articles/e57716e2.json)
-
-[Extended Data](ext_articles/e57716e2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 16:21:11**
+As of **2024-08-09 16:36:32**
 
 ## Newspaper Stats
 
-*Scraped **39,849** Articles*
+*Scraped **39,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,97 @@ adaderanalk | 4,632
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,022
 virakesarilk | 6,309
-adaderanasinhalalk | 6,764
+adaderanasinhalalk | 6,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,846 (100.0%) of 39,849 articles have been extended.
+39,849 (100.0%) of 39,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### 9 வயதில் பெண்களுக்கு திருமணம்
+### පාකිස්තානයට වටිනාකමක් එක්කළ නදීම්
+
+*2024-08-09 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199758) · `si`
+
+දැඩි ආර්ථික අර්බුදයකින් පීඩා විඳිමින් සිටින පාකිස්තානය තවමත් යථාතත්ත්වයට පත්ව නොමැත.
+
+එවන් තත්ත්වයක සිටියත් මෙවර පැරිස් ඔලිම්පික් උලෙළ නියෝජනය කිරීමට එරට ක්‍රීඩක ක්‍රීඩිකාවන් 07 දෙනෙකුට අවස්ථාව උදා විය.
+
+ඒ අතුරින් බොහෝ දෙනෙකුගේ ඇස ගැටුණු තරුවක් වූයේ අර්ෂාද් නදීම්ය.
+
+ඔහු සමස්ත පාකිස්තානුවන්ගේම බලාපොරොත්තු ඔසවා තබමින් ඊයේ (08) අවසන් වූ හෙල්ල විසිකිරීම පිරිමි ඉසව්වෙන් මීටර 92.97ක දක්ෂතාවක් දක්වමින් ඔලිම්පික් රන් පදක්කම දිනාගැනීමට ඔහු සමත් විය.
+
+මෙය එසේ මෙසේ රන් පදක්කමක් නොවන අතර, ඔලිම්පික් වාර්තා පොත අලුත්කළ රන් පදක්කමකි.
+
+ඒ අනුව නදීම් බිඳදමනු ලැබුවේ 2008 වසරේදී බීජිං (චීනය) ඔලිම්පික් උලෙළේදී නෝර්වේ රාජ්‍යයේ ඇන්ඩ්‍රියාස් තෝර්කිල්ඩ්සන් විසින් මීටර 90.57ක දක්ෂතාවක් දක්වා පිහිටුවා තිබූ වාර්තාවයි.
+
+එමෙන්ම නදීම්ගේ මෙම රන් පදක්කම ඔලිම්පික් ඉතිහාසයේ ජවන හා පිටිය ඉසව්වකින් පාකිස්තානුවෙකු දිනූ පළමු රන් පදක්කමද විය.
+
+මෙය පාකිස්තානුවන්ට තවත් වටිනා රන් පදක්කමක් වූයේ ඔවුන්ගේ ප්‍රධානම එදිරිවාදී රට වන ඉන්දියාව නියෝජනය කරමින් පැමිණි නීරාජ් චෝප්රාවද අභිබවා යමින් මෙම පදක්කම දිනාගැනීම ය.
+
+...
+
+[Data](articles/307c41e3.json)
+
+---
+
+### Married to women at the age of 9
 
 *2024-08-09 16:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/9-வயதில்-பெண்களுக்கு-திருமணம்/50-341867) · `ta`
 
-பெண்களின் திருமண வயதை 9 ஆக குறைக்கும் சர்ச்சைக்குரிய சட்டமூலம் ஈராக் பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாக கூறப்படுகின்றது.
+A controversial bill in Iraq proposes lowering the marriage age for girls to 9 and boys to 15, sparking outrage as it contrasts with Iran's 18-year-old threshold. Despite the legal limit being 18, UNICEF reports that 28% of Iraqi women marry before this age. Iraqi women are protesting against this proposed law.
 
-இதன்படி ஆண்குழந்தைகளுக்கு 15 வயதிலும் , பெண் குழந்தைகள் 9 வயதை எட்டியதும் திருமணம் செய்து வைக்க முடியும் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அதேவேளை தற்போதுவரை ஈரானில் பெண்களின் திருமணத்துக்கான சட்டப்பூர்வ வயது 18 ஆக உள்ளது.
+The controversial bill, which reduces women's marriage age to 9, is said to have been filed in the Iraqi parliament.
 
-ஆனால் தற்போது முமொழியப்பட்டுள்ள சட்டமூலத்தின்படி, பெற்றோர் மற்றும் நீதித்துறை சம்மதத்தில், 9 வயதில் பெண்களை திருமணம் செய்து கொடுக்கலாம் என கூறப்பட்டுள்ளது.
+Accordingly, males can be married at the age of 15 and girls at the age of 9.
 
-சட்டப்பூர்வ வயது 18 ஆக இருந்தாலும் ஏற்கனவே ஈராக்கில் 28 சதவீத பெண்களுக்கு அந்த வயதை எட்டும் முன்பே திருமணம் செய்துவைக்கப்பட்டுள்ளது என்று ஐநாவின் குழந்தைகள் அமைப்பான UNICEF தெரிவித்துள்ளது.
+At the same time, the legal age for women's marriage in Iran is 18.
 
-இந்த நிலையில், தற்போதய இந்த வயது தளர்வு சட்டமூலத்துக்கு எதிராக ஈராக் பெண்கள் போராட்டத்தை முன்னெடுத்துள்ளதாகவும் கூறப்படுகின்றது.
+But under the current Mosque, it is said that women and judicial consent can marry women at the age of 9.
+
+The UN Children's Organization, UNICEF, said that although the legal age is 18, 28 percent of women in Iraq have already been married before they reach that age.
+
+It is also reported that Iraqi women have launched a struggle against the current relaxation bill.
 
 ◼️
 
 [Data](articles/6163f611.json)
 
+[Extended Data](ext_articles/6163f611.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවට එන අලුත් දෙදෙනා
+### Two new two persons coming to Parliament
 
 *2024-08-09 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199757) · `si`
 
-හරීන් ප්‍රනාන්දු සහ මනූෂ නානායක්කාර යන මහත්වරුන්ගෙන් පුරප්පාඩු වන මන්ත්‍රී ධුර සඳහා පත්කෙරෙන දෙදෙනා සම්බන්ධයෙන් සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා අද (09) මාධ්‍යට අදහස් දැක්වීය.
+Harin Fernando and Manusha Nanayakkara have been nominated for parliamentary seats. Manusha secured the Galle District spot in 2020, while Harin comes from the National List. Both were chosen alongside Ranjith Madduma Bandara, who mentioned the upcoming appointments for Working Committee and Board of Management Assistants.
 
-මනූෂ නානායක්කාර මහතා 2020 මහ මැතිවරණයේ දී සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් මනාප ලැයිස්තුවේ දෙවන ස්ථානයට පත් වෙමින් පාර්ලිමේන්තුවට තේරී පත්වීය.
+🟩
 
-ඒ අනුව මනාප ලැයිස්තුවේ තෙවන ස්ථානයට පත්වූ බන්දුලාල් බණ්ඩාරිගොඩ මහතා පුරප්පාඩු වන මන්ත්‍රී ධුරය වෙනුවෙන් පාර්ලිමේන්තුවට පිවිසෙනු ඇති බව ද රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+The General Secretary of the Jathika Force spoke to the media regarding the vacant seat for vacant seat, Harin Fernando and Manusha Nanayakkara.
 
-මේ අතර හරීන් ප්‍රනාන්දු මහතා ජාතික ලැයිස්තුවෙන් තෝරා පත්කර ගත් අයෙකු වන බැවින් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලය හා කළමනාකරණ මණ්ඩලය එක්ව එම මන්ත්‍රී ධුරයට පත්වෙන පුද්ගලයා ගැන තීරණයක් ගන්නා බව ද රංජිත් මද්දුමබණ්ඩාර මහතා කියා සිටියේය.
+Manusha Nanayakkara was elected to the Galle District Preference List in the 2020 General Elections.
 
-මේ අතර පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් හා කැලණිය ආසනයේ සංවිධායක ධුරයෙන් ඉල්ලා අස්වෙමින් සජිත් ප්‍රේමදාස මහතා වෙත ලිපියක් යොමු කර තිබේ.
+According to Ranjith Madduma Bandara, the third place in the preferential list of the preferential list.
 
-...
+Meanwhile, Ranjith Madduma Bandara said that Harin Fernando is a person selected from the National List, Ranjith Madduma Bandara said.
+
+Meanwhile, MP Field Marshal Sarath Fonseka has asked Sajith Premadasa, the Chairman of the Kelaniya and the organizer of the Kelaniya electorate.
+
+According to Ranjith Madduma Bandara, the Working Committee and the Board of Management Assistants who are appointed to the posts will be held together.
+
+◼️
 
 [Data](articles/2b3f465c.json)
+
+[Extended Data](ext_articles/2b3f465c.ext.json)
 
 ---
 
@@ -78,13 +118,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-09 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101111/sjb-to-decide-on-appointments-to-several-vacant-posts-) · `en`
 
-Member of ‘Samagi Jana Balawegaya’ Bandulal Bandarigoda is tipped to fill the parliamentary seat which fell vacant following the suspension of party membership of Manusha Nanayakkara through a Supreme Court ruling.
+The General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara states that party member Bandulal Bandarigoda will be appointed fill the parliamentary seat which fell vacant following the suspension of the party membership of Manusha Nanayakkara through a Supreme Court ruling.
 
-Bandarigoda, who secured the third place from the Galle District in 2020 General Election, is next in line on SJB’s preferential vote list.
+Bandarigoda, who secured 34,897 votes and the third place from the Galle District in 2020 General Election, is next in line on SJB’s preferential vote list.
 
-Meanwhile, a qualified individual will be named by the SJB to fill the MP seat which remains vacant as Minister Harin Fernando was also disqualified to hold the MP seat due to the suspension of his party membership, since Fernando was elected to the Parliament through SJB’s national list.
-
-Sources from SJB stated that the party’s Executive Committee will meet soon to decide on the appointment of a qualified individual to the relevant vacant MP seat and also currently vacant party’s chairmanship and the Kelaniya Constituency Organiser position, which left vacant after the resignation of Field Marshal Sarath Fonseka.
+Meanwhile, he also said a qualified individual will be named by the SJB to fill the MP seat which remains vacant as Harin Fernando was also disqualified to hold the MP seat due to the suspension of his party membership, since Fernando was elected to the Parliament through SJB’s national list.
 
 ...
 
@@ -94,19 +132,25 @@ Sources from SJB stated that the party’s Executive Committee will meet soon to
 
 ---
 
-### රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත බලාත්මක කෙරේ
+### Functions of the Fundamental Management Bill
 
 *2024-08-09 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199756) · `si`
 
-ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව අනුව, තමා විසින් 2024 අගෝස්තු 08 දින “රාජ්‍ය මූල්‍ය කළමනාකරණ” නමැති  පනත් කෙටුම්පතෙහි සහතිකය සටහන් කළ බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (09) පාර්ලිමේන්තුවට දැන්වීය.
+The Fundamental Management Bill, enacted as Fiscal Act No 44 of 2024 in Sri Lanka, aims to regulate management practices across various sectors. Presented to Parliament on May 22, 2024, and passed with amendments on July 25, it reflects the government's commitment to enhancing governance and accountability.
 
-ඒ අනුව උක්ත පනත් කෙටුම්පත 2024 අංක 44 දරන රාජ්‍ය මූල්‍ය කළමනාකරණ පනත ලෙස 2024 අගෝස්තු 08 වැනි දින සිට බලාත්මක වේ.
+🟩
 
-එම පනත් කෙටුම්පත 2024 මැයි 22 වනදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර එය පසුගිය ජූලි 25 වනදා ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව සම්මත විය.
+According to the 79 constitution of the Constitution of Sri Lanka, Speaker Mahinda Yapa Abeywardena told Parliament today (09).
+
+Accordingly, the above Bill is in effect as the Fiscal Act No 44 of 44th August 2024.
+
+The Bill was presented to Parliament on May 22, 2024, was passed on July 25 with amendments without a poll.
 
 ◼️
 
 [Data](articles/0e5845da.json)
+
+[Extended Data](ext_articles/0e5845da.ext.json)
 
 ---
 
@@ -1090,7 +1134,9 @@ He was speaking at the Muslim Brotherhood in Malwana, he said.
 
 *2024-08-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101102/sarath-fonseka-resigns-as-sjbs-chairman) · `en`
 
-MP Field Marshal Sarath Fonseka has tendered his resignation as Chairman of the Samagi Jana Balawegaya (SJB), MP J.C. Alawathuwala said.
+MP Field Marshal Sarath Fonseka has tendered his resignation as Chairman of the Samagi Jana Balawegaya (SJB) and as the SJB Organiser for the Kelaniya constituency.
+
+Fonseka has communicated this in a letter addressed to party leader and Opposition Leader Sajith Premadasa.
 
 On Monday (05), Fonseka placed deposit to contest in the 2024 Presidential Election as an independent candidate.
 
@@ -2163,21 +2209,5 @@ The IMF may have their own agendas. But they are in the country because our poli
 [Data](articles/e57716e2.json)
 
 [Extended Data](ext_articles/e57716e2.ext.json)
-
----
-
-### Important message for Presidential candidates
-
-*2024-08-09 06:19:03* · [`dailyftlk`](https://www.ft.lk/columns/Important-message-for-Presidential-candidates/4-765313) · `en`
-
-The Asian Development Bank’s outlook, published in April 2024, forecasts Sri Lanka’s growth rate at 1.9% for 2024 and 2.5% for 2025. Similarly, the World Bank’s report from April predicts a growth rate of 2.2% for 2024 and 2.5% for 2025, based on their specific assumptions. In contrast, the IMF’s forecast is lower than these projections, while the Central Bank of Sri Lanka (CBSL) provides a higher growth estimate.
-
-What makes this country heaven by maintaining miracle growth, will it need so-called reforms and what are they? Economic Reforms, Structural Reforms, Social Reforms, and Governance Reforms. All these could be discussed, but without a proper foundation, they may not withstand. The following discussion is for making a sound foundation.
-
-...
-
-[Data](articles/b889470f.json)
-
-[Extended Data](ext_articles/b889470f.ext.json)
 
 ---

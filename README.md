@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 09:55:39**
+As of **2024-08-09 10:08:03**
 
 ## Newspaper Stats
 
-*Scraped **39,770** Articles*
+*Scraped **39,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,103 @@ dailyftlk | 2,568
 adalk | 3,646
 adaderanalk | 4,618
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,004
+tamilmirrorlk | 5,007
 virakesarilk | 6,296
-adaderanasinhalalk | 6,745
+adaderanasinhalalk | 6,747
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,770 (100.0%) of 39,770 articles have been extended.
+39,770 (100.0%) of 39,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### குழந்தைகள் மத்தியில் அதிகரிக்கும் மூச்சுத்திணறல்
+
+*2024-08-09 09:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-மத்தியில்-அதிகரிக்கும்-மூச்சுத்திணறல்/175-341850) · `ta`
+
+சிறுவர்களுக்கு ஏற்படும் இன்புளுவென்சா வைரஸ் காய்ச்சலினை தொடர்ந்து மூச்சுத்திணறல் அறிகுறிகள் வருவதாக வைத்திய நிபுணர்கள் எச்சரித்துள்ளனர்.
+
+காய்ச்சல் இரண்டு நாட்களுக்கு மேல் நீடிக்குமாயின் உடனே அருகில் உள்ள வைத்தியரை நாடி ஆலோசனைகளைப் பெற்றுக் கொள்ளுமாறும் குறிப்பிடப்பட்டுள்ளது.
+
+அத்துடன், சிறுவர்களுக்குப் பாதுகாப்பான சூழலை ஏற்படுத்திக் கொடுப்பது பெற்றோரின் கடமை எனவும் வைத்திய நிபுணர்கள் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/7091efd1.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+
+*2024-08-09 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199739) · `si`
+
+කථානායකවරයාගේ ප්‍රධානත්වයෙන් අද (09) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/209ddd20.json)
+
+---
+
+### இன்னும் 10 நாட்களில் முட்டை இறக்குமதி
+
+*2024-08-09 09:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-10-நாட்களில்-முட்டை-இறக்குமதி/175-341849) · `ta`
+
+அடுத்த 10 நாட்களுக்குள் முட்டை இறக்குமதி மீண்டும் தொடங்கும் என்று இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனம் தெரிவித்தது.
+
+இது தொடர்பான நடவடிக்கைகள் தற்போது இடம்பெற்று வருவதாக கூட்டுத்தாபனத்தின் தலைவர் ஆசிறி வலிசுந்தர குறிப்பிட்டார்.
+
+உள்ளுர் சந்தையில் முட்டையொன்று 50 ரூபாய்க்கும் அதிகமான விலைக்கு விற்பனை செய்யப்படுவதால், முட்டை இறக்குமதிக்கு அண்மையில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/758b7d08.json)
+
+---
+
+### மீண்டும் பழைய நிலைக்கே செல்வோம் ; ஜனாதிபதி
+
+*2024-08-09 09:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பழைய-நிலைக்கே-செல்வோம்-ஜனாதிபதி/175-341848) · `ta`
+
+வீதியில் இறங்கி கோசங்களை எழுப்புவதன் மூலம் மக்களின் வறுமையை ஒழிக்க முடியாது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+கூட்டுறவு சங்கம் தொடர்பில் கொழும்பில் நேற்று (07) இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்ட போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+மேலும், IMF மற்றும் அரசாங்கத்திற்கு இடையேயான ஒப்பந்தத்தின் காரணமாக நாங்கள் இப்போது மீண்டு வருகிறோம். அந்த ஒப்பந்தம் கைவிடப்பட்டால், நாம் மீண்டும் பழைய வரிசைகளில் நிற்கும் நிலைக்கே செல்வோம்.  நாங்கள் 17 முறை IMF ஒப்பந்தங்களை உடைத்தோம். 18 வது முறையாக உடைந்தால், மீண்டும் அமல்படுத்த மாட்டோம் என அவர்கள் கூறியதாகவும் ஜனாதிபதி குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/8f2f7039.json)
+
+---
+
+### පැරිස් ධාවන පථයට ආ කොවිඩ් අවදානම
+
+*2024-08-09 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199738) · `si`
+
+පැරිස් ඔලිම්පික් උලෙළේ බොහෝ දෙනෙක්ගේ වැඩි අවධානයක් දිනූ තවත් තරග ඉසව්වක් වූ පිරිමි මීටර 200 ඉසව්වේ අවසන් තරගය අද (09) අලුයම පැවැත්විණි.
+
+එහිදී බොහෝ දෙනෙකු රන් පදක්කම හිමිකරගනු ඇතැයි බලාපොරොත්තු තබා සිටි, ඇමෙරිකාවේ නෝආ ලයිල්ස්ව අභිබවා යමින් රන් පදක්කම හිමිකර ගනු ලැබුවේ 21 හැවිරිදි බොට්ස්වානා ක්‍රීඩක ලෙට්සිලේ ටෙබෝගෝ විසිනි.
+
+පිරිමි මීටර 200 ඉසව්ව සඳහා වත්මන් ලෝක මලල ක්‍රීඩා පිටියේ වේගවත්ම ධාවකයින් වන ඇමෙරිකාවේ නෝආ ලයිල්ස්, එරියන් නයිට්න්, කෙනත් බෙඩ්නරෙක්, බොට්ස්වානා හි ලෙට්සිලේ ටෙබෝගෝ ඇතුළු ක්‍රීඩකයින් 8 දෙනෙක් මේ සඳහා එක්ව සිටියේය.
+
+ලෙට්සිලේ නව අප්‍රිකානු වාර්තාවක් ද පිහිටුවමින් ඉසව්ව නිම කළ අතර ඒ සඳහා ඔහුට ගතව ඇති කාලය තත්පර 19.46කි.
+
+අප්‍රිකානු කලාපයේ ක්‍රීඩකයෙකු මීටර 200 ඔලිම්පික් රන් පදක්කම හිමි කරගත් පළමු අවස්ථාව මෙය බවත් සඳහන් ය.
+
+මෙම තරගයේ රිදී පදක්කම හිමිකර ගනු ලැබුවේ ඇමෙරිකාවේ කෙනත් බෙඩ්නරෙක් විසිනි.
+
+කෙසේ නමුත් මෙහි බොහෝ දෙනා බලාපොරොත්තු දල්වා සිටි ලොව වේගවත්ම මිනිසා ලෙස පසුගිය දා කිරුළු පැළඳි ඇමෙරිකාවේ නෝආ ලයිල්ස්ට ලෝකඩ පදක්කමෙන් සෑහීමට පත්වීමටත් සිදුවිය.
+
+...
+
+[Data](articles/81798359.json)
+
+---
 
 ### Bribery Commission warns against misuse of state property
 
@@ -2127,131 +2211,5 @@ For the concept of President Ranil Wickremesinghe, the "Children of Gazza Fund h
 [Data](articles/5319109f.json)
 
 [Extended Data](ext_articles/5319109f.ext.json)
-
----
-
-### Nallur Road
-
-*2024-08-08 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190589) · `ta`
-
-The Human Rights Commission of Sri Lanka's Jaffna office will meet on 09/09 at 11:30 AM to address complaints about roadblocks near the Nallur Kandaswamy temple, set up by the Jaffna Municipal Council. The meeting aims to resolve issues affecting public access, as raised by various parties.
-
-🟩
-
-Regional Coordinator of the Human Rights Commission of Sri Lanka to the Commissioner of the Jaffna Municipal Council and the Northern Provincial Council Commissioner to address the roadblocks set up in the Nallur Kandaswamy temple environment. Kanakaraj has called.
-
-Yall. Jaffna on the Point Pedro Road ruled by the Municipal Council. The Commission has focused on the complaint brought to the notice of the Jaffna Regional Office of the Sri Lanka Human Rights Commission by many parties on the road to the public by the Municipal Council.
-
-Therefore, tomorrow (09) to discuss the matter. Sri Lanka's Human Rights Commission, Jaffna, located on Temple Road, No. 42 at 11.30 am. A letter has been sent to the Commissioner of the Jaffna Municipal Council and the Northern Provincial Council Commissioner to attend the Regional Office.
-
-◼️
-
-[Data](articles/090b05b8.json)
-
-[Extended Data](ext_articles/090b05b8.ext.json)
-
----
-
-### I will be the symbol of Tamil nationalism;People to vote for Tamil nationalism - Tamil general candidate Ariyanethran
-
-*2024-08-08 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190586) · `ta`
-
-Ariyanethran, representing the Tamil National Alliance, vows to champion Tamil nationalism in the upcoming presidential election. He emphasizes the importance of unity among Tamils, urging voters to support him as a symbol of their collective aspirations. Highlighting the struggles and sacrifices of the Tamil people, he calls for a resolution to the ethnic issue, promising to represent their interests domestically and internationally.
-
-🟩
-
-I will be the symbol of Tamil nationalism.. Said Ariyanethran.
-
-He made this statement at a media briefing announcing the Tamil National Alliance (TNA) at the Father Selva Gallery of Jaffna on Thursday (08).
-
-I will only be the symbol of Tamil nationalism.. We have been elected as the common candidate in this election as a symbol of the international and the South of Sri Lanka to get our right to be the genocidal race on Tamil Nadu soil.. My work will be only on September 22 and will take the task of the Tamil public.
-
-Father Selva Period Prabhakaran was later led under the leadership of Sambandan. Although there were many of them, the struggle of the father Selva had been vulnerable, but there were many frustrations, but after the armed conflict was silenced, we were disappointed.
-
-...
-
-[Data](articles/b705523a.json)
-
-[Extended Data](ext_articles/b705523a.ext.json)
-
----
-
-### The US is the forefront
-
-*2024-08-08 16:24:36* · [`adalk`](https://www.ada.lk/breaking_news/තවදුරටත්--අමෙරිකාව-පෙරමුණේ/11-411266) · `si`
-
-In the Paris Olympics, the US led with 27 gold, 35 silver, and 32 bronze medals, securing second place behind Australia, which won 25 gold medals.
-
-🟩
-
-The United States has also taken the lead in the Paris Olympic Games.
-
-They won 27 gold medals, 35 silver medals and 32 bronze medals.
-
-The medals leave 25 gold medals will be second in the second place in the medal.
-
-Australia has passed the third and they have won 18 gold medals.
-
-◼️
-
-[Data](articles/c7946332.json)
-
-[Extended Data](ext_articles/c7946332.ext.json)
-
----
-
-### Another foreign job racket raided
-
-*2024-08-08 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199717) · `si`
-
-Sri Lanka's SLBFE raided a foreign job scam involving recruitment for non-existent prison jobs in Seychelles. The agency lacked a valid job order. Six passports and applications were seized. The agency's owner faces charges and will appear in court. The public is urged to report similar scams.
-
-🟩
-
-A foreign employment agency has surrerted to recruit people to serve as Prison personnel in Seychelles.
-
-The raids have been carried out by officials of the Sri Lanka Bureau of Foreign Employment (SLBFE) and the raids have been carried out yesterday (07) and the racket has been carried out without a valid job order.
-
-The jobs have been recruited by a licensed foreign employment agency in Negombo.
-
-The raid was conducted in terms of information received by the Bureau.
-
-The officials have seized six passports and six applications provided to the service of the SELETHIBA.
-
-The owner of the Job Agency's owner is to be produced before the Negombo Magistrate's Court today (08).
-
-Since there is no prison in prisons to serve in prisons, the Bureau requests the public to provide information about the people.
-
-Investigations have been raided by officials yesterday (Colombo-Lankapuvath) without a valid job license of the Bureau.
-
-...
-
-[Data](articles/260d2335.json)
-
-[Extended Data](ext_articles/260d2335.ext.json)
-
----
-
-### 2 including Keheliya remanded
-
-*2024-08-08 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199716) · `si`
-
-Keheliya Rambukwella, former Health Minister, and three others were remanded until April 22nd, while two other officials were released on bail. They were arrested over allegations of purchasing substandard Human Immunulin injections.
-
-🟩
-
-Former Minister of Health Keheliya Rambukwella and three others have been remanded until 22nd.
-
-Meanwhile, former Secretary of the Health Ministry Janaka Chandragupthath and former Secretary to the Ministry of Health Saman Ratnayake released on bail.
-
-The above suspects were arrested on investigations into the purchase of the substandard Human Immunulin injection.
-
-The suspects were issued to the Maligakanda Magistrate today (08).
-
-◼️
-
-[Data](articles/2e3b824f.json)
-
-[Extended Data](ext_articles/2e3b824f.ext.json)
 
 ---

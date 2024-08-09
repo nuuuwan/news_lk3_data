@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 11:07:23**
+As of **2024-08-09 11:21:19**
 
 ## Newspaper Stats
 
-*Scraped **39,781** Articles*
+*Scraped **39,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
-adalk | 3,648
-adaderanalk | 4,620
+adalk | 3,649
+adaderanalk | 4,621
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,007
-virakesarilk | 6,296
-adaderanasinhalalk | 6,749
+virakesarilk | 6,300
+adaderanasinhalalk | 6,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,781 (100.0%) of 39,781 articles have been extended.
+39,781 (100.0%) of 39,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### VFS - වීසා ගැටලුව ගැන විශේෂ ප්‍රකාශයක්
+
+*2024-08-09 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199742) · `si`
+
+බණ්ඩාරනායක ගුවන්තොටුපොළේ  E-Visa ක්‍රමවේදය ක්‍රියාත්මක කිරීමත් සමග ඇතිවී තිබෙන ගැටලුව සම්බන්ධයෙන් මහජන ආරක්ෂක අමාත්‍ය ඇමති ටිරාන් අලස් මහතා විශේෂ ප්‍රකාශයක් සිදු කළේය.
+
+◼️
+
+[Data](articles/43f18d14.json)
+
+---
+
+### Recommendations of commission on political victimisation anulled
+
+*2024-08-09 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101100/recommendations-of-commission-on-political-victimisation-anulled) · `en`
+
+The Supreme Court issued an order to annul the enforcement of the recommendations made by the Presidential Commission of Inquiry appointed to investigate allegations of political victimization.
+
+Accordingly, the recommendations made by the relevant commission against a group of individuals including President’s Secretary Saman Ekanayake, former Deputy Inspector General (DIG) of the Criminal Investigation Department (CID) Ravi Seneviratne and its former Director Shani Abeysekara were ordered to be annulled, when petitions filed pertaining to the matter were taken up this morning (09).
+
+Meanwhile, the Supreme Court also ordered the petitioners to pay Rs. 150,000 each as the cost of court proceedings, Ada Derana reporter said.
+
+The Presidential Commission of Inquiry to Investigate Allegations of Political Victimization was appointed by former President Gotabhaya Rajapaksa and was led by retired Supreme Court Judge Upali Abeyratne.
+
+...
+
+[Data](articles/2987813f.json)
+
+---
+
+### அநுர குமாரவை சந்தித்தனர் வேலையற்ற பட்டதாரிகள்
+
+*2024-08-09 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190625) · `ta`
+
+நாட்டின் அனைத்து மாவட்டங்களையும் பிரதிநிதித்துவம் செய்யும் வேலையற்ற பட்டதாரிகள் சிலர் தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமாக அநுர குமார திசாநாயக்கவை சந்தித்தனர்.
+
+இந்த சந்திப்பு மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் நேற்று வியாழக்கிழமை (08) இடம்பெற்றது.
+
+இதன்போது வேலையில்லா பட்டதாரிகள் தொடர்பாக தேசிய மக்கள் சக்தியின் கொள்கை பற்றி விரிவாக கலந்துரையாடப்பட்டது.
+
+அத்துடன், இதுவரையில் வேலையில்லாத பட்டதாரிகள் எதிர்கொள்கின்ற சிக்கல்கள் குறித்தும் அதற்கான தீர்வு குறித்தும் கலந்துரையாடலின் போது கவனம் செலுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/995bd1fc.json)
+
+---
+
+### 10 நாட்களுக்கு எக்ஸ் முடக்கம் - வெனிசுவெலா ஜனாதிபதி அதிரடி
+
+*2024-08-09 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190621) · `ta`
+
+வெனிசுவெலாவில் சமூக ஊடகங்களில் ஒன்றான எக்ஸ் (X) 10 நாட்களுக்கு முடக்கப்படுவதாக அந்நாட்டு ஜனாதிபதி நிக்கோலஸ் மதுரோ வியாழக்கிழமை (08) அறிவித்துள்ளார்.
+
+வெனிசுவெலாவின் தேசிய தொலைத்தொடர்பு ஆணைக்குழு முன்பு டுவிட்டர் என்று அழைக்கப்பட்ட எக்ஸ் சமூக ஊடகத்தை 10 நாட்களுக்கு முடக்குவதற்கு எடுத்த  தீர்மானத்திற்கு நான்  கையெழுத்திட்டுள்ளேன் என தெரிவித்துள்ளார்.
+
+மேலும், எக்ஸ் சமூக ஊடகம் 10 நாட்களுக்கு வெனிசுலாவிலிருந்து வெளியேறு எனவும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/26f35eff.json)
+
+---
 
 ### SC rules Manusha & Harin’s expulsion from SJB is lawful
 
@@ -104,6 +168,20 @@ The decision was issued by a three-member judge with a three-member judge with V
 
 ---
 
+### அரியநேத்திரன் தொடர்பில் 11 ஆம் திகதி முடிவெடுக்கப்படும் - தமிழரசு கட்சியின் தலைவர் மாவை தெரிவிப்பு
+
+*2024-08-09 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190623) · `ta`
+
+ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிடவுள்ள தமிழரசு கட்சியின் மத்திய குழு உறுப்பினர் அரியநேத்திரன் தொடர்பில் 11 ஆம்  திகதி முடிவெடுக்கப்படும் என தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா தெரிவித்துள்ளார்.
+
+தமிழரசு கட்சி ஐனாதிபதி தேர்தல் தொடர்பில்  இதுவரை எவ்வித முடிவுகளையும் மேற்கொள்ள முன்னர் அக் கட்சியின் மத்தியகுழு உறுப்பினரான அரியநேத்திரன் பொது  வேட்பாளராக  2024 ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டுள்ள விடயம்  தொடர்பில் தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜாவை தொடர்பு கொண்டு வினவிய போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d3d4fe17.json)
+
+---
+
 ### Increasing wheezing among children
 
 *2024-08-09 09:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-மத்தியில்-அதிகரிக்கும்-மூச்சுத்திணறல்/175-341850) · `ta`
@@ -141,6 +219,18 @@ The appointment of the Speaker today (09) has commenced today.
 [Data](articles/209ddd20.json)
 
 [Extended Data](ext_articles/209ddd20.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+
+*2024-08-09 09:31:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411270) · `si`
+
+පාර්ලිමේන්තුව අද(09දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+
+◼️
+
+[Data](articles/3b71e369.json)
 
 ---
 
@@ -209,6 +299,24 @@ Also, we are now recovering because of the agreement between the IMF and the gov
 [Data](articles/8f2f7039.json)
 
 [Extended Data](ext_articles/8f2f7039.ext.json)
+
+---
+
+### மன்னாரில் விபத்தில் படுகாயமடைந்த வயோதிபர் சிகிச்சை பலனின்றி மரணம்
+
+*2024-08-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190620) · `ta`
+
+மன்னார் - தலைமன்னார் பிரதான வீதி, ஜே.ஆர்.எஸ்.  அலுவலகத்திற்கு முன்பாக புதன்கிழமை (06) மாலை இடம்பெற்ற விபத்தில் படுகாயம் அடைந்த வயோதிபர் ஒருவர் நேற்று வியாழக்கிழமை (08) மாலை யாழ்.வைத்தியசாலையில் உயிரிழந்தார்.
+
+கடந்த புதன்கிழமை (06) மாலை பாடசாலை முடிவடைந்து தனது பேரனை துவிச்சக்கர வண்டியில் ஏற்றிக் கொண்டு வீடு நோக்கி பயணித்துக் கொண்டிருந்த 67 வயதுடைய வயோதிபர் மீது அவர் வீதியூடாக அதிவேகமாக பயணித்த கூலர் வாகனம் மோதி விபத்தை ஏற்படுத்தியது.
+
+இதன்போது, காயமடைந்த பேரனான மாணவனும், வயோதிபரும் உடனடியாக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, மேலதிக சிகிச்சைக்காக யாழ். வைத்தியசாலைக்கு மாற்றப்பட்டபோது,  நேற்றைய தினம் மாலை 67 வயதுடைய வயோதிபர் சிகிச்சை பலனின்றி யாழ் வைத்தியசாலையில் உயிரிழந்தார்.
+
+மேலும், கூலர் வாகனத்தின் சாரதியை கைது செய்த மன்னார் பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/547059b6.json)
 
 ---
 
@@ -2077,173 +2185,5 @@ Bollywood star actress Mauni Roy is dancing for this song. His attractive dance 
 [Data](articles/99af1735.json)
 
 [Extended Data](ext_articles/99af1735.ext.json)
-
----
-
-### Sri Lanka should introduce IT education early: Sajith
-
-*2024-08-08 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-introduce-it-education-early-sajith-176063/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s should teach Information Technology (IT) to school children of all ages, opposition leader Sajith Premadasa has said.
-
-“I fervently believe that ICT should be taught from Grade 1 to 13. And we will make it a compulsory subject and we will ensure that teaching takes place in the English language,” Premadasa told a forum at the Lakshman Kadirgamar Institute.
-
-Premadasa advocated teaching IT for school children of all ages and promoted an educational foster parent scheme where donors become ‘foster parents’ to schools by providing resources and funds to schools.
-
-“Information technology remains to be a subject that is taught only from Grade 6,” Premadasa said.
-
-Sri Lanka’s Education Ministry confirmed that information technology is a compulsory subject from Grade 6 onwards. It is not taught as a subject from Grades 1 to 5.
-
-...
-
-[Data](articles/e3fa567c.json)
-
-[Extended Data](ext_articles/e3fa567c.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 300.80/301.05 to US dollar
-
-*2024-08-08 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-80-301-05-to-us-dollar-176059/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.80/301.05 to the US dollar on Thursday, from 301.55/65 to the US dollar on Wednesday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.95/11.10 percent, up from 10.80/11.05 percent.
-
-A bond maturing on 15.12.2027 closed at 12.10/20 percent, up from 11.95/12.10 percent.
-
-A bond maturing on 15.09.2029 closed at 12.50/75 percent, up from 12.50/70 percent. (Colombo/Aug8/2024)
-
-◼️
-
-[Data](articles/5b4bda68.json)
-
-[Extended Data](ext_articles/5b4bda68.ext.json)
-
----
-
-### Wimal - Karunas is an joining 'Pokum not too far away' announcement date of release date
-
-*2024-08-08 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/190593) · `ta`
-
-Tamil film "Pokalum Too Far," featuring popular actors Vimal and Karunas, directed by Michael K. Vimal, is set for global release on the 23rd of this month. The movie also stars Deepa Shankar, Pawan, 'Aadukalam' Narain, Arul Das, Charles Vinod, and Vel. Ramamurthy. Composed by NR Raghunandan and produced by Siva Kilari under Shark Studios, it has generated high anticipation among fans.
-
-🟩
-
-The Tamil film industry's market -worth Vimal and Karunas have been officially announced with the exclusive photo of the film 'Pokalum too far' starring the heroes of the story.
-
-Director Michael K. Vimal, Karunas, Deepa Shankar, Pawan, 'Aadukalam' Narain, Arul Das, Charles Vinod, writer and actor Vel. Ramamurthy.
-
-NR Raghunandan has composed the film, which has been recorded by Demel Xavier Edwards. The film was produced by Siva Kilari on behalf of Shark Studios.
-
-The songs and previews of the film have been released by millions of audiences.. In this case, the film will be released at the film House around the world on the 23rd of this month.
-
-Meanwhile, the expectation of the film has increased by fans, as the film is being created with a different alliance as Vimal - Karunas, the title of the film is far from the title of the film, and the hero of the story, the hero of the story, and another hero, Karunas.
-
-◼️
-
-[Data](articles/df1f52da.json)
-
-[Extended Data](ext_articles/df1f52da.ext.json)
-
----
-
-### Student hospitalized by police attack?
-
-*2024-08-08 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199718) · `si`
-
-A 16-year-old girl, Youshi Jinal from Palagala Mlegoda, was hospitalized after being assaulted by two police officers in Payagala. The incident occurred when she was operating her friend's motorcycle near a store. The officers, who were on mobile duty, allegedly attacked her, causing severe injuries. She was admitted to the Nagoda Teaching Hospital in Kalutara for treatment. Her father has filed a complaint against the officers, urging authorities to prevent such brutality. Investigations are ongoing.
-
-🟩
-
-A 16-year-old schoolgirl has been hospitalized saying that the Payagala Police were brutally assaulted the traffic sector officials of the Payagala.
-
-The police said that a schoolgirl named Youshi Jinal, a school student, a resident of Palagala Mlegoda, police said.
-
-The student who was hospitalized has gone to a nearby store next to a friend's motorcycle.
-
-Two officials who were engaged in mobile duties in the Payagala police station have mocked the motorcycle.
-
-It is reported that the victim has been operating the motorcycle to operate the motorcycle and run it.
-
-Accordingly, the police officers who had been pursued again have been a blow to the student who was the backup on the motorcycle.
-
-It is said that the student who was running the motorbike had been hit several times. The student has been admitted to the ground with the attack.
-
-The student had stated that a policeman trampled his background after falling the ground.
-
-...
-
-[Data](articles/b5bfe261.json)
-
-[Extended Data](ext_articles/b5bfe261.ext.json)
-
----
-
-### Sri Lanka’s COYLE to support green entrepreneurs in mangrove restoration
-
-*2024-08-08 17:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-coyle-to-support-green-entrepreneurs-in-mangrove-restoration-176085/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Chamber of Young Lankan Entrepreneurs said it is supporting green entrepreneurship linked to mangrove restoration as the island was selected as one of seven nations to be included in a UN flagship project.
-
-The Green Entrepreneurship for Mangroves initiative aims to bring together local communities, businesses, and research institutions to coordinate mangrove restoration efforts.
-
-COYLE said it will join the effort by establishing a new Entrepreneur Development Centre, which will provide support and resources to budding entrepreneurs dedicated to green business practices
-
-“We aim to support those who are ready to develop entrepreneurial ventures via supporting the environment, especially conserving the mangroves,” Chairman of COYLE, Thushira Raddella said.
-
-“Through this, we can show the world that economic growth and environmental conservation can both go hand in hand.
-
-...
-
-[Data](articles/d2c03292.json)
-
-[Extended Data](ext_articles/d2c03292.ext.json)
-
----
-
-### Nobel laureate Yunus arrives in Bangladesh to take over as interim leader
-
-*2024-08-08 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101087/nobel-laureate-yunus-arrives-in-bangladesh-to-take-over-as-interim-leader) · `en`
-
-Bangladesh’s next leader Muhammad Yunus arrived home Thursday from an overseas trip and will take office later in the day, as he looks to restore calm and rebuild the country following an uprising that ended the 15-year, increasingly autocratic rule of former Prime Minister Sheikh Hasina.
-
-Yunus landed at Dhaka’s Hazrat Shahjalal International Airport on Thursday afternoon and was welcomed by the country’s military chief, Gen. Waker-Uz-Zaman, who was flanked by navy and air force heads.
-
-Some of the student leaders who led the uprising against Hasina were also present at the airport to welcome him. They had earlier proposed Yunus as interim leader to the country’s figurehead president, who is currently acting as the chief executive under the constitution.
-
-In his first comments after his arrival, he told a news briefing that his priority would be to restore order.
-
-“Bangladesh is a family. We have to unite it,” Yunus said, flanked by the student leaders. “It has immense possibility.”
-
-...
-
-[Data](articles/6678be8a.json)
-
-[Extended Data](ext_articles/6678be8a.ext.json)
-
----
-
-### Actor Arya's new film started with shooting
-
-*2024-08-08 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190591) · `ta`
-
-Arya stars in a new film directed by Geen Krishnakumar, with Nikila Wimal co-starring. The project, produced by Vinod Kumar for Mini Studios LP, kicked off its shoot in Ramanathapuram, Tamil Nadu. Further cast and crew details will be announced soon.
-
-🟩
-
-The inauguration of the unnamed film, which is playing the role of actor Arya's story, was held in Ramanathapuram, Tamil Nadu.
-
-Arya is playing the lead role in the unnamed film directed by director Geen Krishnakumar. It is reported that actress Nikila Wimal is playing the lead role.
-
-The details of the actors, actresses and technical team starring in the film are expected to be officially released soon.
-
-The film is being produced by Vinod Kumar on behalf of Mini Studios LP.
-
-◼️
-
-[Data](articles/70bc5c8c.json)
-
-[Extended Data](ext_articles/70bc5c8c.ext.json)
 
 ---

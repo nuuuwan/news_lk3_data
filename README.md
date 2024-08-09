@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 08:36:31**
+As of **2024-08-09 08:55:36**
 
 ## Newspaper Stats
 
-*Scraped **39,760** Articles*
+*Scraped **39,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
 adalk | 3,646
-adaderanalk | 4,613
+adaderanalk | 4,615
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,003
 virakesarilk | 6,296
@@ -26,25 +26,67 @@ adaderanasinhalalk | 6,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,745 (100.0%) of 39,760 articles have been extended.
+39,756 (100.0%) of 39,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### வன்முறையில் ஈடுபட்ட மூவர் கைது
+### Venezuela’s Maduro blocks X access in country for 10 days
+
+*2024-08-09 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101094/venezuelas-maduro-blocks-x-access-in-country-for-10-days) · `en`
+
+Venezuelan President Nicolas Maduro on Thursday took tensions with social media platform X and its owner Elon Musk to new heights, banning the platform in the South American country for 10 days amid furore over a disputed presidential election.
+
+Maduro said he signed a resolution presented by regulator Conatel which “has decided to take social network X, formerly known as Twitter, out of circulation for 10 days” and accused Musk of inciting hate, civil war, and death.
+
+“X get out of Venezuela for 10 days!” he said in a speech which was broadcast on state television.
+
+Maduro and Musk have frequently traded barbs over X, with the platform’s owner comparing the Venezuelan president to a donkey, while Maduro has blamed Musk for being a driving force behind protests and dissent following the election.
+
+They have also offered and accepted challenges to fight each other in comments on X and via Venezuelan state television.
+
+...
+
+[Data](articles/8a6e3f39.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-08-09 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/101093/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere of the island during the evening or night, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4b0cd5ad.json)
+
+---
+
+### Three arrested for violently
 
 *2024-08-09 08:07:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறையில்-ஈடுபட்ட-மூவர்-கைது/175-341846) · `ta`
 
-யாழ்ப்பாணத்தில் வீடுகள் மீது தாக்குதல் நடத்தி எரித்த சம்பவம் தொடர்பாக மூன்று பேர் கைது செய்யப்பட்டனர்.
+Three individuals were arrested for attacking homes in Jaffna, including a 21-year-old from Urumpirai. Police found 3 motorcycles, 2 swords, and 4 petrol bombs during their investigation.
 
-யாழ்ப்பாணம் மாவட்ட குற்றத் தடுப்புப் பிரிவு பொலிஸாரால் உரும்பிராய் பகுதியைச் சேர்ந்த 21 வயதான மூவர் கைது செய்யப்பட்டனர்.
+🟩
 
-சந்தேகநபர்களிடம் இருந்து 3 மோட்டார் சைக்கிள்கள், 2 வாள்கள், 4 பெற்றோல் குண்டுகள் என்பனவும் பொலிஸாரால் மீட்கப்பட்டன.
+Three persons have been arrested in connection with the attack on houses in Jaffna.
+
+The 21 -year -old from Urumpirai has been arrested by the Jaffna District Crime Division police.
+
+3 motorcycles, 2 swords and 4 petrol bombs were also recovered by the suspects.
 
 ◼️
 
 [Data](articles/ff24080c.json)
+
+[Extended Data](ext_articles/ff24080c.ext.json)
 
 ---
 
@@ -470,6 +512,8 @@ Ariyanethran will run as the representative of an alliance comprising seven Tami
 
 [Data](articles/9fcb8a66.json)
 
+[Extended Data](ext_articles/9fcb8a66.ext.json)
+
 ---
 
 ### Emil Ranjan Lamahewa acquitted from Welikada Prison massacre case
@@ -486,6 +530,8 @@ The horrific incident unfolded when hundreds of Special Task Force (STF) officer
 
 [Data](articles/48b61d82.json)
 
+[Extended Data](ext_articles/48b61d82.ext.json)
+
 ---
 
 ### Foreign Minister Ali Sabry to visit Egypt
@@ -500,6 +546,8 @@ During the visit, he will hold bilateral discussions with his counterpart at the
 
 [Data](articles/4fde0d5d.json)
 
+[Extended Data](ext_articles/4fde0d5d.ext.json)
+
 ---
 
 ### NIBM REACH 2024 delivers platform for students to shine on stage
@@ -511,6 +559,8 @@ National Institute of Business Management (NIBM), a leading educational institut
 ...
 
 [Data](articles/5ccf0979.json)
+
+[Extended Data](ext_articles/5ccf0979.ext.json)
 
 ---
 
@@ -525,6 +575,8 @@ The launch of ‘ColourNext-2024’ marks the inaugural edition of ‘ColorNext�
 ...
 
 [Data](articles/1427522c.json)
+
+[Extended Data](ext_articles/1427522c.ext.json)
 
 ---
 
@@ -542,6 +594,8 @@ Consequently, the Group posted an operating profit of Rs 382 million from an ope
 
 [Data](articles/274fc827.json)
 
+[Extended Data](ext_articles/274fc827.ext.json)
+
 ---
 
 ### Marked selling pressure on banking sector counters; gains for Sampath stocks
@@ -558,6 +612,8 @@ Amid those developments both indices showed a downward trend. The All Share Pric
 
 [Data](articles/49762629.json)
 
+[Extended Data](ext_articles/49762629.ext.json)
+
 ---
 
 ### Link Natural features exclusive B2B offerings at Hotel Show Colombo 2024
@@ -569,6 +625,8 @@ Link Natural, Sri Lanka’s leading manufacturer of herbal healthcare and person
 ...
 
 [Data](articles/9e136c91.json)
+
+[Extended Data](ext_articles/9e136c91.ext.json)
 
 ---
 
@@ -582,6 +640,8 @@ Thai Airways International Public Company Limited (THAI) announces significant e
 
 [Data](articles/4193f3f0.json)
 
+[Extended Data](ext_articles/4193f3f0.ext.json)
+
 ---
 
 ### LOLC Al-Falaah pays Rs.3.5 billion profits to depositors for financial year 2023/24
@@ -593,6 +653,8 @@ LOLC Al-Falaah, the largest Alternate Financial Services Provider in the Non-Ban
 ...
 
 [Data](articles/461a0c88.json)
+
+[Extended Data](ext_articles/461a0c88.ext.json)
 
 ---
 
@@ -2213,47 +2275,5 @@ Meanwhile, Japanese officials have said that the Islands of Quushu and Shikoku a
 [Data](articles/1218f38c.json)
 
 [Extended Data](ext_articles/1218f38c.ext.json)
-
----
-
-### The "Gaza Children's Fund" is also officially handed over to the Palestinian government for $ 05 lakh 90 thousand
-
-*2024-08-08 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/190582) · `ta`
-
-The "Gaza Children's Fund," initiated by President Ranil Wickremesinghe, received $590,000 to aid displaced children from Gaza. This donation was officially handed over to the Palestinian government at a ceremony led by President Wickremesinghe. The fund aims to address the basic needs of children affected by the war in Gaza, with contributions from various sources including ministries, state agencies, businesses, organizations, and the public.
-
-🟩
-
-The "Gaza Children's Fund", which was established by President Ranil Wickremesinghe, has received a further five hundred and ninety thousand (590,000/-) to meet the basic needs of the displaced children due to the war in Gaza.
-
-The event was officially handed over to the Palestinian government at the Presidential Office headed by President Ranil Wickremesinghe yesterday (07).
-
-Palestinian Ambassador to Sri Lanka, Dr. Suhair MH. The President has handed over to the H.E.Dr.zuhair M H Dar Zaid and the United Nations Relief Services Agency (UNRWA), Permanent Resident Representative to Sri Lanka, Azusa Kubota.
-
-At a Cabinet meeting held on March 04, 2024, the Cabinet approved the Cabinet's Cabinet on the issue of US $ 1 million to meet the essential expenses of about one million children trapped in Gaza due to the war situation.
-
-...
-
-[Data](articles/02d395ee.json)
-
-[Extended Data](ext_articles/02d395ee.ext.json)
-
----
-
-### Supreme Court confirms Vaas's death penalty
-
-*2024-08-08 15:00:34* · [`adalk`](https://www.ada.lk/breaking_news/වාස්ගේ-මරණ-දඬුවම-ශ්‍රේෂ්ඨාධිකරණයෙන්-තහවුරු-කරයි/11-411263) · `si`
-
-The Supreme Court confirmed the death sentences for six individuals convicted of abduction and murder in Bambalapitiya in 2013.
-
-🟩
-
-The Supreme Court today (08), the death penalty imposed by the death sentence including Abduction and the death sentence was sentenced to six per judiciaries, who were sentenced to six bands in Bambalapitiya, Bambalapitiya, 2013 () Confirmed.
-
-◼️
-
-[Data](articles/d4d9606f.json)
-
-[Extended Data](ext_articles/d4d9606f.ext.json)
 
 ---

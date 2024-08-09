@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 15:20:56**
+As of **2024-08-09 15:36:23**
 
 ## Newspaper Stats
 
-*Scraped **39,840** Articles*
+*Scraped **39,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,654
-adaderanalk | 4,628
+adaderanalk | 4,629
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,021
 virakesarilk | 6,309
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,839 (100.0%) of 39,840 articles have been extended.
+39,840 (100.0%) of 39,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### Election Commission to focus on social media during presidential poll
+
+*2024-08-09 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101109/election-commission-to-focus-on-social-media-during-presidential-poll) · `en`
+
+A discussion has been held at the Election Commission regarding the security measures to be implemented on the day of the accepting of nominations for the 2024 Presidential Election.
+
+The meeting was attended by senior police officers from the Colombo District and officials from the Election Commission.
+
+Meanwhile, a workshop on the enforcement of election laws and media guidelines took place at the Department of Government Information this morning (09).
+
+Deputy Election Commissioner (Electoral Dispute Resolution) Piyumi Atigala stated that numerous complaints have been received related to social media. As a result, special attention is being given to social media during the election period, she said.
+
+“We are focusing particularly on Instagram and TikTok. We are in direct contact with these companies. If they do not comply with the regulations and orders issued by us regarding social media, they have indicated their willingness to go beyond the usual conventions and support us”, she said.
+
+◼️
+
+[Data](articles/6c6e7568.json)
+
+---
 
 ### Harin and forest resigns from ministers
 
@@ -213,6 +233,8 @@ On July 18, 2023, the Working Committee of the SJB decided to expel party member
 ◼️
 
 [Data](articles/e2e19107.json)
+
+[Extended Data](ext_articles/e2e19107.ext.json)
 
 ---
 
@@ -2131,21 +2153,5 @@ The horrific incident unfolded when hundreds of Special Task Force (STF) officer
 [Data](articles/48b61d82.json)
 
 [Extended Data](ext_articles/48b61d82.ext.json)
-
----
-
-### Foreign Minister Ali Sabry to visit Egypt
-
-*2024-08-09 05:54:56* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Ali-Sabry-to-visit-Egypt/56-765305) · `en`
-
-Foreign Minister Ali Sabry will pay an official visit to Egypt from 7 – 9 August 2024 on the invitation of Egyptian Foreign Minister Badr Abdelatty.
-
-During the visit, he will hold bilateral discussions with his counterpart at the Foreign Affairs Ministry in Cairo and also meet with Investment and Foreign Trade Minister of Egypt. Minister Sabry is also expected to have discussions at the Federation of Egyptian Chambers of Commerce and meet with several other dignitaries, with a view to strengthening the multifaceted relations between the two countries. The bilateral visit is expected to further consolidate the longstanding ties between Sri Lanka and Egypt.
-
-◼️
-
-[Data](articles/4fde0d5d.json)
-
-[Extended Data](ext_articles/4fde0d5d.ext.json)
 
 ---

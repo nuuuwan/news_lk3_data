@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 17:20:47**
+As of **2024-08-09 17:36:37**
 
 ## Newspaper Stats
 
-*Scraped **39,857** Articles*
+*Scraped **39,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,656
+adalk | 3,657
 adaderanalk | 4,636
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,023
 virakesarilk | 6,309
-adaderanasinhalalk | 6,766
+adaderanasinhalalk | 6,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,857 (100.0%) of 39,857 articles have been extended.
+39,857 (100.0%) of 39,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### ජනපති සටනට තවත් දෙදෙනෙක්
+
+*2024-08-09 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199760) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා නව සමසමාජ පක්ෂය වෙනුවෙන් වෘත්තිය සමිති නායක ප්‍රියන්ත වික්‍රමසිංහ මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+
+රාජගිරියේ පිහිටි මැතිවරණ කාර්යාලයේදී ඔහු අද (09) දහවල් ඇප මුදල් තැන්පත් කිරීම සිදුකළ බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+
+එමෙන්ම අපේ ජනබල පක්ෂය මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත්වීමට ඉංජිනේරු කීර්ති වික්‍රමරත්න මහතා වෙනුවෙන් අද දිනයේ ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/443fa858.json)
+
+---
 
 ### Speaker endorses certificate on Public Financial Management Bill
 
@@ -97,6 +113,22 @@ The State Counseling stated in court, two police officers have been deployed to 
 [Data](articles/45516240.json)
 
 [Extended Data](ext_articles/45516240.ext.json)
+
+---
+
+### රාජ්‍ය මූල්‍ය කළමනාකරණ පනත බලාත්මක කෙරේ
+
+*2024-08-09 16:33:16* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනත-බලාත්මක-කෙරේ/11-411278) · `si`
+
+ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව අනුව, තමා විසින් 2024 අගෝස්තු 08 දින “රාජ්‍ය මූල්‍ය කළමනාකරණ” නමැති  පනත් කෙටුම්පතෙහි සහතිකය සටහන් කරන ලද බව කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතා අද (09) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+
+ඒ අනුව උක්ත පනත් කෙටුම්පත 2024 අංක 44 දරන රාජ්‍ය මූල්‍ය කළමනාකරණ පනත ලෙස 2024 අගෝස්තු 08 වැනි දින සිට බලාත්මක වේ.
+
+උක්ත  පනත් කෙටුම්පත 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර එය පසුගිය ජූලි 25 වැනිදා ඡන්ද විමසීමකින් තොව සංශෝධන සහිතව සම්මත විය.
+
+◼️
+
+[Data](articles/c422c199.json)
 
 ---
 
@@ -2197,47 +2229,5 @@ The suspects are residents in Colombo 39, 45 and 55 years.
 [Data](articles/06e73e9c.json)
 
 [Extended Data](ext_articles/06e73e9c.ext.json)
-
----
-
-### Will Harin and Manusha's parliamentary seats be abolished?
-
-*2024-08-09 06:34:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz73w0eleygo) · `si`
-
-The Supreme Court upheld the decision to strip Manusha Nanayakkara and Harin Fernando of their party memberships, ruling against their petitions. Despite claims of unfair treatment, the court found no violation of natural justice principles. Consequently, their parliamentary seats will be vacated, with replacements chosen based on electoral lists.
-
-🟩
-
-The Supreme Court today (9th August) the Supreme Court decided to deprive the party's decision to deprive the party membership of Manusha Nanayakkara and Harin Fernando.
-
-The Supreme Court was issued by the Supreme Court to refuse the petitions presented by the Ministers who were presented to the law contrary to the law to deprive their party membership.
-
-The Supreme Court Judges Arjuna has announced this decision with the agreement of Judges Achala Windulgoda, Vijith Balalgoda.
-
-He had complained that he was not allowed to appear for a fair discipline for a reasonable discipline and that the legal principle of natural justice was violated and Harin Fernando and Manusha Nanayakkara had complained from the petition.
-
-However, the fact that the argument stated that the argument is not acceptable stated that the decision taken to expel the petitioners with the legitimacy.
-
-Accordingly, the judge is the defense of the relevant petitions free of charge.
-
-...
-
-[Data](articles/4567d727.json)
-
-[Extended Data](ext_articles/4567d727.ext.json)
-
----
-
-### CA Sri Lanka’s 45th National Conference of Chartered Accountants to revolve around “Marching Beyond Margins”
-
-*2024-08-09 06:33:21* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-s-45th-National-Conference-of-Chartered-Accountants-to-revolve-around-Marching-Beyond-Margins/34-765323) · `en`
-
-With the outlook for Sri Lanka looking more hopeful than it had in the past few recent years, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) will once again engage professionals, including young business leaders, at the 45th National Conference of Chartered Accountants to play a critical role in helping the country seize new opportunities in its march towards a robust economy.
-
-...
-
-[Data](articles/fe05c9bb.json)
-
-[Extended Data](ext_articles/fe05c9bb.ext.json)
 
 ---

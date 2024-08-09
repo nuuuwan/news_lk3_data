@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 15:36:23**
+As of **2024-08-09 15:55:39**
 
 ## Newspaper Stats
 
-*Scraped **39,841** Articles*
+*Scraped **39,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,654
+adalk | 3,655
 adaderanalk | 4,629
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,021
 virakesarilk | 6,309
-adaderanasinhalalk | 6,761
+adaderanasinhalalk | 6,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,840 (100.0%) of 39,841 articles have been extended.
+39,841 (100.0%) of 39,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### පාකිස්තානයේ මාස 6කට ළමා අපචාර 1,630ක්
+
+*2024-08-09 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199755) · `si`
+
+2024 වසරේ පළමු මාස 6 තුළ පාකිස්තානයේ ළමා අපචාර සිද්ධීන් 1,630ක් සිදුව ඇති බවට අනාවරණ වී තිබේ.
+
+එරට රාජ්‍ය නොවන සංවිධානයක් විසින් මෙම අනාවරණය සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ කාලය තුළ ළමා ලිංගික අපයෝජන සිද්ධීන් 862ක්, පැහැරගැනීම් 668ක්, අතුරුදන්වීම් 82ක් සහ ළමා විවාහ සිද්ධීන් 18ක් සිදුව ඇති බව සඳහන්ය.
+
+අවුරුදු 6 ත් 15 අතර වයස් කාණ්ඩයේ ළමුන් වැඩි වශයෙන් අපයෝජනයට ලක්ව ඇති බව අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/1a52a1be.json)
+
+---
 
 ### Election Commission to focus on social media during presidential poll
 
@@ -49,6 +67,8 @@ Deputy Election Commissioner (Electoral Dispute Resolution) Piyumi Atigala state
 ◼️
 
 [Data](articles/6c6e7568.json)
+
+[Extended Data](ext_articles/6c6e7568.ext.json)
 
 ---
 
@@ -321,6 +341,24 @@ The Kilinochchi police are conducting further investigations into the incident.
 [Data](articles/fea31fcc.json)
 
 [Extended Data](ext_articles/fea31fcc.ext.json)
+
+---
+
+### පාඨලීගේ පක්ෂයෙන් ජනාධිපතිවරණ අපේක්ෂකයෙක්?
+
+*2024-08-09 13:29:17* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලීගේ-පක්ෂයෙන්-ජනාධිපතිවරණ-අපේක්ෂකයෙක්-/11-411276) · `si`
+
+එක්සත් ජනරජ පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා කවුරුද්ද යන්න එළැඹෙන සතියේ ප්‍රකාශයට පත් කරන බව එම පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+
+අද(09දා) කොළඹ පැවති මාධ්‍ය හමුවකදී මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+බොහෝ දෙනා කතා උනේ හිතාගෙන හිටියේ ඔබතුමාත් ජනාධිපතිවරණයට ඉදිරිපත් වේවි කියලා. මොකක්ද වෙන්නේ ඇත්තටම? මොකක්ද ඔබතුමන්ලාගේ තීන්දුව? ඔබතුමන්ලා පක්ෂයක් නිර්මාණය කළා. නමුත් ඔබතුමන්ලා තාම නිහඬයි.
+
+අපි මේ ජනාධිපතිවරණය සම්බන්ධයෙන් ගිය පෙබරවාරි මාසේ 14 වෙනිදා පොදු වැඩපිළිවෙලක් ඉදිරිපත් කළා. ඒ වැඩ පොදු වැඩපිළිවෙල අපි සාකච්ඡා කළා විවිධ දේශපාලන පක්ෂ එක්ක. අපට ධනාත්මක ප්‍රතිඵල ලැබුණා. සෘණාත්මක ප්‍රතිඵල ලැබුණා. නොයෙක් දේ ලැබුණා. අපි ඒ සියල්ලම දැන් විශ්ලේෂණය කර ගනිමින් ඉන්නවා. අපේ පක්ෂයේ සාමාජිකයන් එක්කත් අපි කතා කරගෙන යනවා. අපි ලබන සතියේදී ජනාධිපතිවරණයේ අපේ අපේක්ෂකයා කවුද කියන එක ප්‍රකාශයට පත් කරනවා.
+
+◼️
+
+[Data](articles/bcb73e63.json)
 
 ---
 
@@ -2119,39 +2157,5 @@ Over 92 Government MPs have already declared their support for Ranil Wickremesin
 [Data](articles/ebe06688.json)
 
 [Extended Data](ext_articles/ebe06688.ext.json)
-
----
-
-### P. Ariyanethran announced as Tamil common candidate
-
-*2024-08-09 05:57:17* · [`dailyftlk`](https://www.ft.lk/news/P-Ariyanethran-announced-as-Tamil-common-candidate/56-765307) · `en`
-
-Former Member of Parliament P. Ariyanethran has announced his candidacy for the upcoming Presidential election as the Tamil common candidate. The announcement was made at an event held in Jaffna yesterday.
-
-Ariyanethran will run as the representative of an alliance comprising seven Tamil political parties from the Northern and Eastern provinces, alongside various civil organisations.
-
-...
-
-[Data](articles/9fcb8a66.json)
-
-[Extended Data](ext_articles/9fcb8a66.ext.json)
-
----
-
-### Emil Ranjan Lamahewa acquitted from Welikada Prison massacre case
-
-*2024-08-09 05:56:05* · [`dailyftlk`](https://www.ft.lk/news/Emil-Ranjan-Lamahewa-acquitted-from-Welikada-Prison-massacre-case/56-765306) · `en`
-
-The Supreme Court has acquitted Former Commissioner of Prisons Emil Ranjan Lamahewa in the Welikada Prison Massacre case. The decision was handed down yesterday by a panel of five judges, who ruled in favour of Lamahewa’s appeal against his previous sentence.
-
-Lamahewa was indicted in July 2019 and charged with 33 counts, including the murders of eight prisoners, conspiracy and unlawful assembly. In January 2022 Lamahewa was sentenced to death by the Colombo High Court Trial-at-Bar over the killing of eight inmates on 9 November 2012.
-
-The horrific incident unfolded when hundreds of Special Task Force (STF) officers from the police force stormed Welikada Prison in Colombo, under orders to conduct a search for illegal mobile phones and recreational drugs. The operation quickly escalated, with prisoners reportedly being assaulted and tear gas fired into closed cells, creating a highly volatile situation.
-
-...
-
-[Data](articles/48b61d82.json)
-
-[Extended Data](ext_articles/48b61d82.ext.json)
 
 ---

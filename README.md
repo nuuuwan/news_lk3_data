@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 23:36:21**
+As of **2024-08-09 23:56:03**
 
 ## Newspaper Stats
 
-*Scraped **39,894** Articles*
+*Scraped **39,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
-economynextcom | 2,414
+economynextcom | 2,422
 dailyftlk | 2,568
 adalk | 3,660
 adaderanalk | 4,640
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,894 (100.0%) of 39,894 articles have been extended.
+39,894 (100.0%) of 39,902 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -332,6 +332,30 @@ Accordingly, the amendment bill will be presented in Parliament on the 21st of t
 
 ---
 
+### ADB working on Sri Lanka $100mn tourism sector loan
+
+*2024-08-09 18:52:00* · [`economynextcom`](https://economynext.com/adb-working-on-sri-lanka-100mn-tourism-sector-loan-176241/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Bank is working on a 100 million US dollar tourism sector loan for Sri Lanka, Country Director Takafumi Kadono said.
+
+The loan will be made up of a 70 million dollar budget support component, and a 30 million dollar project, he said.
+
+Earlier this year ADB brought together government officials and also industry representatives and bio-diversity experts in a knowledge sharing event.
+
+The lender will “support policy actions in the tourism sector to increase resilience to shocks and strengthen institutions, and potentially streamline decision making” Kadono said at the time.
+
+Sri Lanka is facing the prospect of overtourism in some areas including the Yala national park while there were also concerns over certain whale watching practices, some experts said.
+
+The ADB has already provided loans to Sri Lanka its in economic recovery efforts.
+
+The agency has just approved the release of a 100 million dollar loan linked to electricity reforms.
+
+...
+
+[Data](articles/b963b5d0.json)
+
+---
+
 ### “We have joined us to save life”
 
 *2024-08-09 18:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரைக்-காப்பாற்ற-இணைந்தோம்/175-341878) · `ta`
@@ -447,6 +471,28 @@ The Election Commission has officially announced that the presidential election 
 [Data](articles/f195ebab.json)
 
 [Extended Data](ext_articles/f195ebab.ext.json)
+
+---
+
+### Sri Lanka stocks gain; turnover down amid election campaigns
+
+*2024-08-09 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-gain-turnover-down-amid-election-campaigns-176243/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed 0.44 percent, or 49.33 points, at 11,303.22; while the more liquid S&P SL20 Index rose 0.46 percent, or 14.79 points, at 3,224.96. Both index were down in the previous session.
+
+“Since the election was declared, we see lower turnover. There was no panic selling, but investors are increasingly adapting a cautious approach,” a senior stockbroker said.
+
+Sampath Bank, the top contributor to the index, gained 1.6 percent to 75.70 rupees, while Rischard Pieris gained 3.7 percent to 19.50 rupees a share.
+
+Sampath Bank interim results recorded better than expected performance, June quarter’s interim results showed, while the bank has also announced a Rs10 billion debenture issue.
+
+Sri Lanka’s presidential election is scheduled for September 21. (Colombo/August 09/2024)
+
+◼️
+
+[Data](articles/1c939b42.json)
 
 ---
 
@@ -659,6 +705,28 @@ Some people question me why I am presenting as a remarkable candidate for the pr
 [Data](articles/e422f13d.json)
 
 [Extended Data](ext_articles/e422f13d.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger, bond yields up
+
+*2024-08-09 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-up-176222/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.00/20 to the US dollar Friday, from 300.80/301.05 a day earlier dealers said, while bond yields were up.
+
+Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
+
+A bond maturing on 15.12.2026 closed at 11.05/10 percent, up from 10.80/11.05 percent.
+
+A bond maturing on 15.12.2027 closed at 12.10/20 percent, up from 11.95/12.10 percent.
+
+A bond maturing on 01.07.2028 closed at 12.50/60 percent up from 12.45/55 percent.
+
+A bond maturing on 15.09.2029 closed at 12.60.70 percent, up from 12.50/70 percent. (Colombo/Aug09/2024)
+
+◼️
+
+[Data](articles/c49b74b5.json)
 
 ---
 
@@ -1372,6 +1440,30 @@ Commenting here
 
 ---
 
+### Harin, Manusha say happy to leave after helping make Sri Lanka stable
+
+*2024-08-09 14:13:00* · [`economynextcom`](https://economynext.com/harin-manusha-say-happy-to-leave-after-helping-make-sri-lanka-stable-176176/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ex-tourism Minister Harin Fernando said he was glad to have crossed over and helped President Ranil Wickremesinghe stabilize the country, after losing his portfolio due to a court order.
+
+“When I joined Ranil Wickremesinghe, the country was in dire straits,” Fernando told reporters hours after the court upheld a decision by Samagi Jana Balawegaya to expel him along with Manusha Nanayakkara.
+
+“I am glad that I did. Yesterday I realized this was going to happen so I drove to pilawoos on my own and at a koththu.”
+
+“Now I will have more time to devote to Ranil Wickremesinghe’s campaign.”
+
+Nayanayakkara, who also lost his portfolio, said he had no regrets.
+
+“We have made the country win,” he said. “We crossed over when people were dying of dehydration on fuel queues. We are proudly leaving our ministers.”
+
+Fernando said he had previously resigned his positions to contest.
+
+...
+
+[Data](articles/d17d22fd.json)
+
+---
+
 ### Harin and Manusha resign from ministerial posts
 
 *2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-and-manusha-resign-from-ministerial-posts) · `en`
@@ -1429,6 +1521,24 @@ Parliamentarian Field Marshal Sarath Fonseka resigned from the post of resignati
 [Data](articles/1a77669b.json)
 
 [Extended Data](ext_articles/1a77669b.ext.json)
+
+---
+
+### Sri Lanka online tourist e-visa resumption date uncertain: Minister
+
+*2024-08-09 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-tourist-e-visa-resumption-date-uncertain-minister-176161/) · `en`
+
+ECONOMYNEXT – Sri Lanka cannot immediately resume online visa issuance under the old system as ordered by court as the Immigration Department’s computer system has been changed to new procedures and fees, Public Security Minister Tiran Alles said.
+
+Sri Lanka’s supreme court suspended a controversial deal with IVS-GBS and VFS Global where big fees were charged from tourists to use what the industry said was a complex user-unfriendly system that was putting off visitors.
+
+When the VFS Global system started in April 2024, additional visa categories which were gazette with higher fees were introduced and the back end of the Immigration Department was also changed, Minister Alles said.
+
+Mobitel, a Sri Lanka-based telecom company that operated the old system had also said they can immediately resume only the old categories, Minister Alles said. The court also ordered that the the system revert to the earlier status quo.
+
+...
+
+[Data](articles/a9cfc3de.json)
 
 ---
 
@@ -1581,6 +1691,26 @@ The Supreme Court today (09th) today decided that the decision taken taken by Ma
 [Data](articles/4dcba126.json)
 
 [Extended Data](ext_articles/4dcba126.ext.json)
+
+---
+
+### SLPP MPs approached NPP before going to SJB, claims AKD; promises anti-crossover law
+
+*2024-08-09 13:19:00* · [`economynextcom`](https://economynext.com/slpp-mps-approached-npp-before-going-to-sjb-claims-akd-promises-anti-crossover-law-176159/) · `en`
+
+ECONOMYNEXT — Sri Lanka Podujana Peramuna (SLPP) MPs who left the government and have now joined an alliance with the main opposition Samagi Jana Balawegaya (SJB) first approached the National People’s Power (NPP), its leader Anura Kumara Dissanayake said.
+
+Speaking at an event in Gampaha on Thursday August 08, Dissanayake said the NPP said no to this group of legislators.
+
+“The SLPP is now split to three factions: one is with President Ranil Wickremesinghe, another with MP Namal Rajapaksa and the other with opposition leader Sajith Premadasa. A lot of them knocked on our door before going to the SJB. What did we do? We said ‘ayubowan’ and told them that their record in not that good,” said Dissanayake.
+
+The NPP leader claimed that the visiting MPs were told in no uncertain terms that they had represented a party accused of spreading racism and engaged in corruption, and were shown the door.
+
+“Thanks for knocking on our door but we cannot let you in,” he quoted the NPP spokesmen as saying.
+
+...
+
+[Data](articles/d1c8ccdf.json)
 
 ---
 
@@ -1793,6 +1923,22 @@ Several studies show that changes in sleep systems cause various physical, menta
 [Data](articles/4d3ecbe0.json)
 
 [Extended Data](ext_articles/4d3ecbe0.ext.json)
+
+---
+
+### Sri Lanka energy minister commends colleagues who lost their seat
+
+*2024-08-09 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-commends-colleagues-who-lost-their-seat-176157/) · `en`
+
+ECONOMYNEXT — Sri Lanka Power & Energy Minister Kanchana Wijesekara has spoken favourably of his cabinet colleagues Harin Fernando and Manusha Nanayakkara who lost their positions and seats in parliament following a Supreme Court verdict.
+
+“Both Fernando and Nanayakkara extended their support to President Ranil Wickremesinghe at a very critical time of the country. They both put their political careers on the line knowing this outcome in the hour of need,” Wijesekara tweeted hours after a verdict delivered Friday August 09 morning.
+
+Sri Lanka’s Supreme Court has upheld the expulsion of Manusha Nanayakkara and Harin Fernando from the main opposition Samagi Jana Balawegaya (SJB), lawyers said. Fernando and Nanayakkara  went to court against the decision by the SJB to expel them. A three judge bench, delivered the decision.
+
+...
+
+[Data](articles/280b0f60.json)
 
 ---
 
@@ -2163,149 +2309,5 @@ Field Marshal Sarath Fonseka has resigned from the post of United People's Power
 [Data](articles/4a9b0da9.json)
 
 [Extended Data](ext_articles/4a9b0da9.ext.json)
-
----
-
-### Members of Party under our government bring the rules to send home
-
-*2024-08-09 11:24:41* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආණ්ඩුවක්-යටතේ-පක්ෂ-මාරු-කරණ-මන්ත්‍රීවරු-ගෙදර-යවන්න-නීති-ගේනවා/11-411272) · `si`
-
-Parliament leader Anura Kumara Dissanayake announced plans to amend laws to allow political parties to dissolve themselves during a speech at the Muslim Brotherhood in Malwana.
-
-🟩
-
-Leader of Parliamentarian Anura Kumara Dissanayake said that the laws will be adjusted to send parties to send their parties home.
-
-He was speaking at the Muslim Brotherhood in Malwana, he said.
-
-◼️
-
-[Data](articles/12c7c0fd.json)
-
-[Extended Data](ext_articles/12c7c0fd.ext.json)
-
----
-
-### Sarath Fonseka resigns as SJB’s Chairman
-
-*2024-08-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101102/sarath-fonseka-resigns-as-sjbs-chairman) · `en`
-
-MP Field Marshal Sarath Fonseka has tendered his resignation as Chairman of the Samagi Jana Balawegaya (SJB) and as the SJB Organiser for the Kelaniya constituency.
-
-Fonseka has communicated this in a letter addressed to party leader and Opposition Leader Sajith Premadasa.
-
-On Monday (05), Fonseka placed deposit to contest in the 2024 Presidential Election as an independent candidate.
-
-On July 25, Fonseka officially announced his presidential candidacy stating that, “A lot of people have asked me to contest for the presidential election and I am looking forward to accepting the call of the people of Sri Lanka.”
-
-◼️
-
-[Data](articles/1c4b11a4.json)
-
-[Extended Data](ext_articles/1c4b11a4.ext.json)
-
----
-
-### It is okay to remove both men, Harin
-
-*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
-
-The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to reclaim membership.
-
-🟩
-
-The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
-
-The verdict of the three judges of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera.
-
-The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
-
-◼️
-
-[Data](articles/436296c3.json)
-
-[Extended Data](ext_articles/436296c3.ext.json)
-
----
-
-### It is okay to remove both men, Harin
-
-*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மனுஷ-ஹரின்-இருவரையும்-நீக்கியது-சரி/150-341851) · `ta`
-
-The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to revoke their memberships.
-
-🟩
-
-The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
-
-The judgment of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera - the judiciary has issued the verdict.
-
-The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
-
-◼️
-
-[Data](articles/4b793818.json)
-
-[Extended Data](ext_articles/4b793818.ext.json)
-
----
-
-### Remove the two is OK
-
-*2024-08-09 11:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரையும்-நீக்கியது-சரி/175-341851) · `ta`
-
-The Supreme Court upheld the dismissal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power, ruling against their petition challenging the legality of the party's resolution to revoke their memberships.
-
-🟩
-
-The Supreme Court has ruled that the removal of ministers Manushya Nanayakkara and Harin Fernando from the United People's Power has agreed to the law.
-
-The verdict of the three judges of the High Court Judges Vijith Malagoda, Achala Venkapuli and Arjuna Obeesekera.
-
-The Supreme Court has rejected a petition filed by ministers Manusha Nanayakkara and Harin Fernando that the United People's Power Resolution to capture its party membership is contrary to the law.
-
-◼️
-
-[Data](articles/aab2046c.json)
-
-[Extended Data](ext_articles/aab2046c.ext.json)
-
----
-
-### VFS - special statement on visa problem
-
-*2024-08-09 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199742) · `si`
-
-Minister of Defense Tiran Alles addressed concerns about the E-Visa system at Bandaranaike Airport, making a special statement on the matter.
-
-🟩
-
-The Minister of Defense Tiran Alles made a special statement regarding the issue of E-Visa methodology at the Bandaranaike Airport.
-
-◼️
-
-[Data](articles/43f18d14.json)
-
-[Extended Data](ext_articles/43f18d14.ext.json)
-
----
-
-### Recommendations of commission on political victimisation anulled
-
-*2024-08-09 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101100/recommendations-of-commission-on-political-victimisation-anulled) · `en`
-
-The Supreme Court issued an order to annul the enforcement of the recommendations made by the Presidential Commission of Inquiry appointed to investigate allegations of political victimization.
-
-Accordingly, the recommendations made by the relevant commission against a group of individuals including President’s Secretary Saman Ekanayake, former Deputy Inspector General (DIG) of the Criminal Investigation Department (CID) Ravi Seneviratne and its former Director Shani Abeysekara were ordered to be annulled, when petitions filed pertaining to the matter were taken up this morning (09).
-
-Meanwhile, the Supreme Court also ordered the petitioners to pay Rs. 150,000 each as the cost of court proceedings, Ada Derana reporter said.
-
-The Presidential Commission of Inquiry to Investigate Allegations of Political Victimization was appointed by former President Gotabhaya Rajapaksa and was led by retired Supreme Court Judge Upali Abeyratne.
-
-...
-
-[Data](articles/2987813f.json)
-
-[Extended Data](ext_articles/2987813f.ext.json)
 
 ---

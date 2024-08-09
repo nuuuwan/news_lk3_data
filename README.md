@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 21:55:57**
+As of **2024-08-09 22:09:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,886 (100.0%) of 39,890 articles have been extended.
+39,890 (100.0%) of 39,890 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ This week Russia has been fighting what it says is an armored cross-border assau
 
 [Data](articles/f0f04378.json)
 
+[Extended Data](ext_articles/f0f04378.ext.json)
+
 ---
 
-### විවාහය ගැන ඉරාකයෙන් ආන්දෝලනාත්මක යෝජනාවක්
+### A controversial proposal in marriage
 
 *2024-08-09 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199765) · `si`
 
-කාන්තාවන්ගේ නිත්‍යානුකූල විවාහ වයස් සීමාව අවුරුදු 9 දක්වා අඩු කිරීමට අදාළ යෝජනාවක් ඉරාක පාර්ලිමේන්තුවට ඉදිරිපත්ව තිබේ.
+A controversial proposal to lower Iraq's legal marriage age from 18 to 9 has sparked debate. The Minister of Justice introduced this change, but it faces opposition. Women's groups warn of potential issues if enacted.
 
-මේ දක්වා කාන්තාවන්ගේ නිත්‍යානුකූල විවාහ වයස් සීමාව ලෙස පැවති අවුරුදු 18ක වයස් සීමාව අවුරුදු 9ක දක්වා අඩු කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පතක් එරට අධිකරණ අමාත්‍යවරයා විසින් මෙලෙස ඉදිරිපත් කර ඇති බව සඳහන්ය.
+🟩
 
-කෙසේවෙතත් යෝජිත පනත් කෙටුම්පත සම්බන්ධයෙන් පාර්ශව රැසක අප්‍රසාදය පළ වී තිබේ.
+The proposal to reduce the legal marriage age limit for 9 years has come forward to the Iraqi parliament.
 
-පනත් කෙටුම්පත සම්මත වුවහොත් ගැටලු රැසක් නිර්මාණය වනු ඇති බව කාන්තා සංවිධාන පෙන්වා දී ඇත.
+The Minister of Justice has been presented by the Minister of Justice to reduce the 18-year-old marriage age limit as the legal marriage age limit.
+
+However, the parties have expressed displeased with the proposed bill.
+
+Women's organizations pointed out that if the Bill passes, many problems will be created.
 
 ◼️
 
 [Data](articles/38934ba4.json)
+
+[Extended Data](ext_articles/38934ba4.ext.json)
 
 ---
 
@@ -342,29 +350,41 @@ The Election Commission has officially announced that the presidential election 
 
 ---
 
-### ජනාධිපතිවරණයට තවත් අපේක්ෂකයක් දෙදෙනෙක්
+### Two more candidate for presidential election
 
 *2024-08-09 18:25:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-තවත්-අපේක්ෂකයක්-දෙදෙනෙක්/11-411281) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා නව සමසමාජ පක්ෂය වෙනුවෙන් වෘත්තිය සමිති නායක ප්‍රියන්ත වික්‍රමසිංහ මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+Trade union leader Priyantha Wickremesinghe and Mr. Keerthi Wickramaratne have both deposited funds to run in the upcoming presidential election.
 
-එමෙන්ම අපේ ජනබල පක්ෂය නියෝජනය කරමින්මින් ජනාධිපතිවරණය සඳහා  ඉංජිනේරු කීර්ති වික්‍රමරත්න මහතා ඉදිරිපත් කිරීමට ඇප මුදල් තැන්පත් කර ඇත.
+🟩
+
+Trade union leader Priyantha Wickremesinghe has deposited money for the New LSSP to contest the presidential election.
+
+The bail of Mr. Keerthi Wickramaratne has been deposited for the presidential election.
 
 ◼️
 
 [Data](articles/e34d1203.json)
 
+[Extended Data](ext_articles/e34d1203.ext.json)
+
 ---
 
-### මහනුවර ඇසල මහා පෙරහැර වෙනුවෙන් විශේෂ බස් රථ සේවයක්
+### Special bus service for Kandy Esala Perahera
 
 *2024-08-09 18:17:39* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-මහා-පෙරහැර-වෙනුවෙන්-විශේෂ-බස්-රථ-සේවයක්/11-411280) · `si`
 
-ලබන 14 වැනිදා සිට 19 වැනිදා දක්වා දිවා රාත්‍රී සේවා ලෙස ශ්‍රී   ලංකා ගමනාගමන  මණ්ඩලය මගින් විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට කටයුතු යොදා තිබේ.
+Sri Lanka Transport Board launched a special bus service from August 19th to 20th for Kandy Esala Perahera.
+
+🟩
+
+The Sri Lanka Transport Board (SLTB) has implemented a special bus service as day 19 to 19th.
 
 ◼️
 
 [Data](articles/2a2a2235.json)
+
+[Extended Data](ext_articles/2a2a2235.ext.json)
 
 ---
 

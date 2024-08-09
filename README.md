@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 20:55:26**
+As of **2024-08-09 21:06:36**
 
 ## Newspaper Stats
 
-*Scraped **39,885** Articles*
+*Scraped **39,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,568
 adalk | 3,658
 adaderanalk | 4,638
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,027
+tamilmirrorlk | 5,028
 virakesarilk | 6,324
 adaderanasinhalalk | 6,771
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,883 (100.0%) of 39,885 articles have been extended.
+39,885 (100.0%) of 39,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### වැඩි වෙන අපේක්ෂකයෙකුට වියදම මිලියන 200ක් -මැකො
+### 200 million cost per candidate - 25 million
 
 *2024-08-09 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199764) · `si`
 
-ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් තවදුරටත් වැඩිවන්නේනම් ඒ වැඩිවන සෑම අයෙකු සඳහාම රුපියල් මිලියන 200ක වියදමක් දැරීමට සිදුවනු ඇතැයි තමා විශ්වාස කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Elections Commissioner Saman Sri Ratnayake expects to spend Rs. 200 million per candidate due to increased costs, affecting the budget allocated for elections. He highlighted the rising expenses, especially with the increase in ballot boxes as voter turnout rises, impacting the overall cost efficiency. Mr. Keerthi Wickramaratne also contributed to the campaign funds for the presidential election. Postal voting applications closed today, with the Elections Commission extending the deadline considering postal delays.
 
-ඔහු මේ බව පැවසුවේ අද (09) කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says he believes he will have to spend Rs. 200 million to each of those increasing Rs. 200 million.
+
+He was speaking at a press conference held today (09).
 
 ...
 
 [Data](articles/7cbac73e.json)
+
+[Extended Data](ext_articles/7cbac73e.ext.json)
 
 ---
 
@@ -180,6 +186,24 @@ Accordingly, the amendment bill will be presented in Parliament on the 21st of t
 
 ---
 
+### “உயிரைக் காப்பாற்ற  இணைந்தோம்”
+
+*2024-08-09 18:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரைக்-காப்பாற்ற-இணைந்தோம்/175-341878) · `ta`
+
+நாட்டின் பொருளாதாரத்தை மீட்க முடியாதென சஜித் பிரேமதாச கூறியபோது நாங்கள் அந்த சவாலை ஏற்றுக்கொண்டோம்
+
+இரண்டு வருடங்களுக்கு முன்னர் மக்கள் போராட்டத்தினால்  நாடு பொருளாதாரத்தில் வீழ்ச்சியடைந்து  கொண்டிருக்கும் போது,  நாம் சஜித் பிரேமதாசவிடம்  நாட்டை பொறுப்பேற்குமாறு கூறினோம்.  நாட்டின் பொருளாதாரத்தையும் இதற்குப் பிறகு வரும் தேர்தல்கள் மூலம் பாராளுமன்றத்திற்கும்  ஜனாதிபதி நாற்காலியிலும் அமர முடியாதென கூறி அந்த பொறுப்பில் இருந்து சஜித் பிரேமதாச நழுவிச் சென்றுவிட்டார் என்றார்.
+
+பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் ஹோட்டலில் இன்று (09) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே முன்னாள் அமைச்சர் இதனைத் தெரிவித்தார்.
+
+அச்சமின்றி, தூரநோக்குடன்  சவால்களைப் பொறுப்பேற்றுக்கொண்ட ஜனாதிபதி ரணிலின் அரசுடன் நாம்  மக்களின் உயிரைக் காப்பாற்ற  இணைந்து கொண்டோம்.
+
+...
+
+[Data](articles/b0b151d4.json)
+
+---
+
 ### A foreign citizen who ride a pundit in Nuwara Eliya
 
 *2024-08-09 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190700) · `ta`
@@ -248,21 +272,27 @@ The Election Commission has officially announced that the presidential election 
 
 ---
 
-### மலைய தமிழர் ஒருவரும் போட்டி; 27 களத்தில்பேர்
+### Mountain Tamils ​​competition;27 in the field
 
 *2024-08-09 18:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-தமிழர்-ஒருவரும்-போட்டி-27-களத்தில்பேர்/175-341877) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரின் பெயர் பிரேரிக்கப்பட்டுள்ள நிலையில், தமிழ் வேட்பாளர் ஒருவர் சுயேட்சையாக போட்டியிடுகின்றார்.
+In the upcoming Sri Lankan presidential election, there are now 27 candidates, including a Tamil general candidate running independently. The Elections Commission confirmed three new contenders: Priyantha Pushpakumara from the Nava Sama Samajah Party, former MP M. Tilakarajah as an independent, and JDK Vikramaratne representing the Abe Jana Multiple Party. The election is scheduled for September 21.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்காக மேலும் மூன்று வேட்பாளர்கள் இன்று (09) கட்டுப்பணத்தை செலுத்தினர். அதனடிப்படையில், ​ஜனாதிபதி தேர்தலில் போட்டியிடும் மொத்த வேட்பாளர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளது.
+🟩
 
-நவ சமசமாஜக் கட்சியின் பிரியந்த புஷ்பகுமார, சுயேச்சை வேட்பாளராக முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.திலகராஜா, அபே ஜன பல கட்சி சார்பில் ஜே.டி.கே.விக்ரமரத்ன ஆகிய மூவரே இன்று (08) கட்டுப்பணம் செலுத்தினர் என  தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+With the name of the Tamil general candidate in the upcoming presidential election, a Tamil candidate is contesting independently.
 
-ஜனாதிபதி தேர்தல் செப்டம்பர் 21ம் திகதி நடைபெறும் என தேர்தல் ஆணையம் அதிகாரப்பூர்வமாக அறிவித்துள்ளது.
+Three more candidates paid control today (09) for the upcoming presidential election. Accordingly, the total number of candidates contesting the presidential election has increased to 27.
+
+The Elections Commission said that the Nava Sama Samajah Party's Priyantha Pushpakumara, former MP M. Tilakarajah as an independent candidate and JDK Vikramaratne on behalf of the Abe Jana Multiple Party.
+
+The Election Commission has officially announced that the presidential election will be held on September 21.
 
 ◼️
 
 [Data](articles/f195ebab.json)
+
+[Extended Data](ext_articles/f195ebab.ext.json)
 
 ---
 
@@ -2267,27 +2297,5 @@ The decision was issued by a three-member judge with a three-member judge with V
 [Data](articles/07a40648.json)
 
 [Extended Data](ext_articles/07a40648.ext.json)
-
----
-
-### Decision on Ariyanethran will be decided on the 11th - Tamilnadu Party leader
-
-*2024-08-09 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190623) · `ta`
-
-The Tamil National Alliance (TNA) will decide on Ariyanethran's candidacy for the 2024 presidential election on August 11th. The decision comes after Ariyanethran expressed interest in running as a common candidate.
-
-🟩
-
-The TNA leader Mawai Senathirajah has said that the decision will be taken on the 11th of the Tamil National Alliance (TNA) Central Committee member Ariyanethran.
-
-He said this when he contacted the leader of the TNA, Mawai Senathirajah, about the announcement that he would contest the 2024 presidential election as a common candidate, Ariyanethran, a member of the Central Committee of the party.
-
-The party's central committee will convene on Sunday 11.08.2024 to discuss the presidential election.. Only then will the party's position be announced. In this case, he said that the party would discuss the matter as the party's membership to contest as a common candidate before the party took a stand, and that he had come to meet me after the announcement of the common candidate.
-
-◼️
-
-[Data](articles/d3d4fe17.json)
-
-[Extended Data](ext_articles/d3d4fe17.ext.json)
 
 ---

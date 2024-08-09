@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 20:36:35**
+As of **2024-08-09 20:55:26**
 
 ## Newspaper Stats
 
-*Scraped **39,883** Articles*
+*Scraped **39,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,41 +18,61 @@ dailyftlk | 2,568
 adalk | 3,658
 adaderanalk | 4,638
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,026
+tamilmirrorlk | 5,027
 virakesarilk | 6,324
-adaderanasinhalalk | 6,770
+adaderanasinhalalk | 6,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,882 (100.0%) of 39,883 articles have been extended.
+39,883 (100.0%) of 39,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### අමෙරිකාව අබිබවා චීනය පෙරමුණ අත්පත් කරගනී
+### වැඩි වෙන අපේක්ෂකයෙකුට වියදම මිලියන 200ක් -මැකො
+
+*2024-08-09 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199764) · `si`
+
+ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් තවදුරටත් වැඩිවන්නේනම් ඒ වැඩිවන සෑම අයෙකු සඳහාම රුපියල් මිලියන 200ක වියදමක් දැරීමට සිදුවනු ඇතැයි තමා විශ්වාස කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ අද (09) කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+
+...
+
+[Data](articles/7cbac73e.json)
+
+---
+
+### China brings forest America
 
 *2024-08-09 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199763) · `si`
 
-'පැරිස් 2024' ඔලිම්පික් උලෙළේ 14 වැනි දිනය වූ අද (09) දිනයේ මෙරට වේලාවෙන් ප.ව. 7.45ට වනවිට අවසන් වූ තරග ඉසව් අනුව අමෙරිකාව අභිබවා පදක්කම් සටහනේ පෙරමුණ අත්පත් කරගැනීමට චීනය සමත්ව වුණි.
+China leads the Paris 2024 Olympics, surpassing the United States in total medals. China has secured 76 silver and 20 bronze medals, while the US trails with fewer golds but more silvers and bronzes. Australia maintains its position with 47 silver, 15 silver, and 14 bronze medals. France holds the fourth spot, followed by Britain in fifth.
 
-රන් පදක්කම් 31කට හිමිකම් කියන චීනය රිදී 25ක් හා ලෝකඩ 20ක් සමඟින් සමස්ත පදක්කම් 76ක් දිනාගෙන සිටී.
+🟩
 
-අද පස්වරුව වනවිටත් මෙහි පෙරමුණ හිමිකර ගනිමින් චීනය සමඟින් කරට කර සටනක් දුන් අමෙරිකාව මේ වනවිට දෙවැනි ස්ථානය දක්වා පසුබැස ඇත.
+Sri Lanka's time today (09) at the date of the 'Paris 2024' Olympics. According to the contest ends that ended at 7.45, China was able to take the lead in the forefront of the United States.
 
-කෙසේ නමුත් ඔවුන්ද රන් පදක්කම් 30ක්, රිදී 38ක් හා ලෝකඩ 35ක් සමඟින් සමස්ත පදක්කම් 103කට හිමිකම් කියයි.
+China has won 76 silver and 20 bronze with 20 bronze.
 
-මේ අතර ඔස්ට්‍රේලියාව තමත් තෙවැනි ස්ථානය රැකගෙන සිටින අතර, ඔවුන්ගේ පදක්කම් ලැයිස්තුව රන් 18ක්, රිදී 15ක් හා ලෝකඩ 14ක් සමඟින් පදක්කම් 47කින් සැරසී තිබේ.
+The United States has retreated to the second place by taking the lead in the forefront this afternoon.
 
-ඔස්ට්‍රේලියාවේ මෙම නැගීසිටීම හේතුවෙන් සත්කාරක ප්‍රංශයට තවමත් සිව්වැනි ස්ථානයේදී රැඳීසිටීමට සිදුව ඇති අතර, ඔවුන් රන් 14ක් සමඟින් මුළු පදක්කම් 55කට හිමිකම් කියයි.
+However, 30 gold medals, 38 silver, 38 silver and 35-medal medals.
 
-කෙසේ නමුත් බ්‍රිතාන්‍යයද රන් පදක්කම් 14ක් දිනාගෙන සිටින අතර, ඔවුන් දිනූ රිදී පදක්කම් ගණන 17ක් වූ හෙයින් පදක්කම් සටහනේ 05වැනි ස්ථානයේම රැඳී සිටීමට සිදුව ඇත.
+In the meantime, Australia has preserved himself as well as 47 silver, 15 silver and 14 bronze.
+
+The host France has been staying in the fourth place due to the emergency in Australia.
+
+However, Britain has won 14 gold medals, and the number of silver medals they won in the 5th place in the Medal.
 
 ◼️
 
 [Data](articles/6be0acd4.json)
+
+[Extended Data](ext_articles/6be0acd4.ext.json)
 
 ---
 
@@ -225,6 +245,24 @@ The Election Commission has officially announced that the presidential election 
 [Data](articles/1deac915.json)
 
 [Extended Data](ext_articles/1deac915.ext.json)
+
+---
+
+### மலைய தமிழர் ஒருவரும் போட்டி; 27 களத்தில்பேர்
+
+*2024-08-09 18:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-தமிழர்-ஒருவரும்-போட்டி-27-களத்தில்பேர்/175-341877) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரின் பெயர் பிரேரிக்கப்பட்டுள்ள நிலையில், தமிழ் வேட்பாளர் ஒருவர் சுயேட்சையாக போட்டியிடுகின்றார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்காக மேலும் மூன்று வேட்பாளர்கள் இன்று (09) கட்டுப்பணத்தை செலுத்தினர். அதனடிப்படையில், ​ஜனாதிபதி தேர்தலில் போட்டியிடும் மொத்த வேட்பாளர்களின் எண்ணிக்கை 27 ஆக அதிகரித்துள்ளது.
+
+நவ சமசமாஜக் கட்சியின் பிரியந்த புஷ்பகுமார, சுயேச்சை வேட்பாளராக முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.திலகராஜா, அபே ஜன பல கட்சி சார்பில் ஜே.டி.கே.விக்ரமரத்ன ஆகிய மூவரே இன்று (08) கட்டுப்பணம் செலுத்தினர் என  தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஜனாதிபதி தேர்தல் செப்டம்பர் 21ம் திகதி நடைபெறும் என தேர்தல் ஆணையம் அதிகாரப்பூர்வமாக அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f195ebab.json)
 
 ---
 
@@ -2251,49 +2289,5 @@ The party's central committee will convene on Sunday 11.08.2024 to discuss the p
 [Data](articles/d3d4fe17.json)
 
 [Extended Data](ext_articles/d3d4fe17.ext.json)
-
----
-
-### Sri Lanka BOP surplus to June 2024 running slightly behind last year
-
-*2024-08-09 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-bop-surplus-to-june-2024-running-slightly-behind-last-year-176124/) · `en`
-
-ECONONYNEXT – Sri Lanka’s balance of payments is still strongly in surplus in 2024 under the current interest rate structure, but is running slightly behind 2023, official data show.
-
-Sri Lanka had recorded a BOP surplus (as defined) of 1,761 million US dollars by June 2024, down from 1,957.6 million dollars a year earlier.
-
-Broadly, the BOP surplus is an improvement in net international reserves, and is a reliable figure unlike numbers like ‘current account’ balances which can be subject to large errors.
-
-Sri Lanka’s central bank has run deflationary policy to collect reserves.
-
-Under IMF programs, a central bank is able to collect reserves soon after hiking rates and contracting domestic credit, but misses reserve targets as the economy recovers and a narrow call money rate is targeted with excess liquidity on mathematical formulae (real interest rates or growth), critics have said.
-
-...
-
-[Data](articles/2ff64c95.json)
-
-[Extended Data](ext_articles/2ff64c95.ext.json)
-
----
-
-### Increasing wheezing among children
-
-*2024-08-09 09:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-மத்தியில்-அதிகரிக்கும்-மூச்சுத்திணறல்/175-341850) · `ta`
-
-Medical experts warn about increasing wheezing in children due to prolonged flu fevers. They advise seeking immediate medical help if symptoms last over two days. Parents are urged to create a safe environment for their children.
-
-🟩
-
-Medical experts have warned that the influenza virus fever caused by children is constantly suffering from wheezing.
-
-If the fever lasts for more than two days, it is also stated that the nearest doctor will seek advice.
-
-In addition, medical experts have said that it is the duty of the parents to provide a safe environment for children. Remble
-
-◼️
-
-[Data](articles/7091efd1.json)
-
-[Extended Data](ext_articles/7091efd1.ext.json)
 
 ---

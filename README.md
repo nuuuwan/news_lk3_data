@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 18:28:10**
+As of **2024-08-09 18:39:08**
 
 ## Newspaper Stats
 
-*Scraped **39,861** Articles*
+*Scraped **39,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,657
-adaderanalk | 4,636
+adaderanalk | 4,637
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,024
 virakesarilk | 6,309
@@ -26,31 +26,55 @@ adaderanasinhalalk | 6,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,859 (100.0%) of 39,861 articles have been extended.
+39,861 (100.0%) of 39,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### පෙරහැර සමයේ විධිමත්ව කසළ බැහැර කරන්න
+### Three more candidates place deposits to contest 2024 Presidential Election
+
+*2024-08-09 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101117/three-more-candidates-place-deposits-to-contest-2024-presidential-election) · `en`
+
+Three more candidates have placed bonds today (09) to contest the 2024 Presidential Election, says the Election Commission of Sri Lanka.
+
+Accordingly, the total number of candidates who have so far placed cash deposits for the upcoming Presidential Election has climbed up to 27.
+
+This includes 13 candidates representing recognised political parties, 13 Independent candidates whose names have been nominated by a voter and one candidate from other political parties.
+
+The candidates who placed bonds today include Priyantha Pushpakumara representing ‘Nava Sama Samaja Party’, J.D.K. Wickremeratne from ‘Ape Jana Bala Pakshaya’ while M. Thilakaraja has placed the deposit to contest the election as an independent candidate.
+
+◼️
+
+[Data](articles/09efb5ee.json)
+
+---
+
+### Dispose of the garbage in the procession season
 
 *2024-08-09 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199761) · `si`
 
-මහනුවර ඇසළ පෙරහැර සමයේ වගකීමෙන් යුතුව කසළ බැහැර කරන ලෙස පෙරහැර නැරඹීමට පැමිණෙන බැතිමතුන්ගෙන් මධ්‍යම පරිසර අධිකාරිය ඉල්ලා සිටී.
+The Central Environmental Authority urges participants of the Kandy Esala Perahera to manage waste effectively, highlighting the daily accumulation of plastic and polythene. It encourages minimal use of such materials and collaborates with local offices to ensure proper waste disposal during the event.
 
-සාමාන්‍යයෙන් මහනුවර ඇසළ පෙරහැර සමයේ දිනකට ටොන් තුනක පමණ පොලිතීන්, ප්ලාස්ටික් ඇතුළු ඝන අපද්‍රව්‍ය එක්රැස් වෙන බව එම අධිකාරිය පෙන්වා දෙයි.
+🟩
 
-මේ හේතුවෙන් මධ්‍යම පරිසර අධිකාරිය බැතිමතුන්ගෙන් ඉල්ලා සිටින්නේ, කසළ බැහැර කරන ස්ථාන වෙත පමණක් කසළ බැහැර කර ලෙසයි.
+The Central Environmental Authority (CEA) demands the Perahera of the Perahera to dispose of the garbage at the Kandy Esala Perahera.
 
-එමෙන්ම පොලිතීන් ප්ලාස්ටික් ඇතුළු නොදිරන ද්‍රව්‍ය භාවිතය හැකිතාක් අවම කරන මෙන්ද බැතිමතුන්ට සිහිපත් කර සිටී.
+The Authority points out that about three tonnes of polythene, about three tons of polythene, and three tons of polythene, about three tons of polythene and plastics a day.
 
-වසර ගණනාවක සිට මධ්‍යම පරිසර අධිකාරියේ මධ්‍යම පළාත් කාර්යාලය, මහනුවර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව, මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලය, මහනුවර නගර සභාව සහ මහනුවර පොලීසිය යන ආයතන වල ප්‍රධානත්වයෙන් කසළ කළමනාකරණ වැඩසටහක් ක්‍රියාත්මක කරනු ලබයි.
+As a result, the Central Environmental Authority requests devotees as the garbage exclusion only to the garbage disposal.
 
-මෙවර මහනුවර ඇසළ පෙරහර මේ මස 10 වෙනිදා සිට 19 වෙනිදා දක්වා පැවැත්වේ.
+Devotees also remembered as possible to minimize the use of polythene plastics, including plastics.
+
+The Central Provincial Office of the Central Provincial Council, Kandy Provincial Education Department, Kandy District Secretariat, Kandy District Secretariat, the Kandy Municipal Council and Kandy Police are being implemented.
+
+The Kandy Esala Perahera will be held from 10th of this month.
 
 ◼️
 
 [Data](articles/9431e299.json)
+
+[Extended Data](ext_articles/9431e299.ext.json)
 
 ---
 
@@ -76,23 +100,29 @@ Our atologist Keerthi Wickremaratne has deposited today.
 
 ---
 
-### கோவில் பதாகையில் மியா கலிஃபா
+### Mia Kalifa in the temple banner
 
 *2024-08-09 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோவில்-பதாகையில்-மியா-கலிஃபா/175-341871) · `ta`
 
-காஞ்சிபுரம் , குருவிமலை பகுதியில்  உள்ள  ஆலயமொன்றுக்கு  ஊர் மக்களால், ஆடி மாதத்தின் போது பால்குடம் எடுத்துச் செல்வதை வழக்கமாகக் கொண்டுள்ளனர்.
+During the Adi month, locals bring milk to a temple in Kanchipuram. Festival banners feature local youths and celebrities. However, a banner depicting Mia Khalifa holding a milk pitcher sparked controversy due to her adult film past, leading to protests and its removal by the police.
 
-அந்த வகையில்  திருவிழா பதாகைகள் ஊரை அலங்கரித்து வந்துள்ளதுடன் அப்பகுதியைச் சேர்ந்த இளைஞர்கள், தங்கள் புகைப்படங்களையும், திரை நட்சத்திரங்களின் புகைப்படங்களையும் பதாகைகளில் வைத்து அழகு பார்த்துள்ளனர்.
+🟩
 
-இந் நிலையில், கோவில் பதாகையொன்றில், பிரபல கவர்ச்சி நடிகை மியா கலிஃபா பால் குடம் தூக்குவது போல் சித்தரித்து இருந்தமை அனைவரின் கவனத்தையும் கவர்ந்துள்ளது.
+It is customary for the people of the town to take milk during the month of Adi to a temple in Kuruvimalai area in Kanchipuram.
 
-அதற்கு ஒரு தரப்பினரிடம் இருந்து நல்ல வரவேற்பு கிடைத்த நிலையில், மற்றொரு தரப்பினரோ, கோவில் திருவிழா சார்ந்த பதாகையில் ஆபாச நடிகையின் புகைப்படம் இடம்பெறுவதா? எனக்கூறி எதிர்ப்பு தெரிவித்தனர்.
+The festival banners have decorated the town and the youth of the area have seen the beauty of their photos and the photos of the screen stars on the banners.
 
-இந்த தகவல் பொலிஸாருக்கு தெரியவந்ததையடுத்து  பொலிஸார்  குறித்த இடத்திற்கு  நேரில் சென்று அந்த பதாகையை அங்கிருந்து அகற்றியுள்ளனர்.
+At this juncture, in a temple banner, famous glamorous actress Mia Kalifa has depicted the pitcher of milk.
+
+With a good reception from one party, another side is a photo of a porn actress in the temple festival banner?They protested.
+
+The information was revealed to the police and the police went to the spot and removed the banner.
 
 ◼️
 
 [Data](articles/d3fbc994.json)
+
+[Extended Data](ext_articles/d3fbc994.ext.json)
 
 ---
 
@@ -2211,27 +2241,5 @@ The article will continue to accept the property that a person is legally offens
 [Data](articles/80acf8e9.json)
 
 [Extended Data](ext_articles/80acf8e9.ext.json)
-
----
-
-### Preparation of polling stations in crisis
-
-*2024-08-09 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199733) · `si`
-
-In crisis situations, preparing polling stations faces challenges due to insufficient staff and resources. The daily allowance for workers has tripled compared to past elections, according to the All Ceylon Freedom Grama Niladhari Service Association.
-
-🟩
-
-The All Ceylon Freedom Grama Niladhari Service Association says that employees and facilities for the preparation of a polling station have been a problem.
-
-Chief Secretary of the Association. K. G. Jagath Chandralal said that the daily allowance given to a employee has increased in about three times more than the previous elections.
-
-All Ceylon Free Grama Niladhari Services Officers Association (All Ceylon Freedom Grama Niladhari) Association's Chief Secretary. K. G. Jagath Chandralal added.
-
-◼️
-
-[Data](articles/b6d4e9ee.json)
-
-[Extended Data](ext_articles/b6d4e9ee.ext.json)
 
 ---

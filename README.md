@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 10:08:03**
+As of **2024-08-09 10:20:45**
 
 ## Newspaper Stats
 
-*Scraped **39,775** Articles*
+*Scraped **39,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
-adalk | 3,646
-adaderanalk | 4,618
+adalk | 3,648
+adaderanalk | 4,619
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,007
 virakesarilk | 6,296
@@ -26,93 +26,151 @@ adaderanasinhalalk | 6,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,770 (100.0%) of 39,775 articles have been extended.
+39,775 (100.0%) of 39,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### குழந்தைகள் மத்தியில் அதிகரிக்கும் மூச்சுத்திணறல்
+### Increasing wheezing among children
 
 *2024-08-09 09:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-மத்தியில்-அதிகரிக்கும்-மூச்சுத்திணறல்/175-341850) · `ta`
 
-சிறுவர்களுக்கு ஏற்படும் இன்புளுவென்சா வைரஸ் காய்ச்சலினை தொடர்ந்து மூச்சுத்திணறல் அறிகுறிகள் வருவதாக வைத்திய நிபுணர்கள் எச்சரித்துள்ளனர்.
+Medical experts warn about increasing wheezing in children due to prolonged flu fevers. They advise seeking immediate medical help if symptoms last over two days. Parents are urged to create a safe environment for their children.
 
-காய்ச்சல் இரண்டு நாட்களுக்கு மேல் நீடிக்குமாயின் உடனே அருகில் உள்ள வைத்தியரை நாடி ஆலோசனைகளைப் பெற்றுக் கொள்ளுமாறும் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-அத்துடன், சிறுவர்களுக்குப் பாதுகாப்பான சூழலை ஏற்படுத்திக் கொடுப்பது பெற்றோரின் கடமை எனவும் வைத்திய நிபுணர்கள் தெரிவித்துள்ளனர். R
+Medical experts have warned that the influenza virus fever caused by children is constantly suffering from wheezing.
+
+If the fever lasts for more than two days, it is also stated that the nearest doctor will seek advice.
+
+In addition, medical experts have said that it is the duty of the parents to provide a safe environment for children. Remble
 
 ◼️
 
 [Data](articles/7091efd1.json)
 
+[Extended Data](ext_articles/7091efd1.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+### Parliamentary proceedings begun
 
 *2024-08-09 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199739) · `si`
 
-කථානායකවරයාගේ ප්‍රධානත්වයෙන් අද (09) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+Today marks the start of parliamentary proceedings, including the appointment of the Speaker.
+
+🟩
+
+The appointment of the Speaker today (09) has commenced today.
 
 ◼️
 
 [Data](articles/209ddd20.json)
 
+[Extended Data](ext_articles/209ddd20.ext.json)
+
 ---
 
-### இன்னும் 10 நாட்களில் முட்டை இறக்குமதி
+### Egg imported in 10 more days
 
 *2024-08-09 09:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-10-நாட்களில்-முட்டை-இறக்குமதி/175-341849) · `ta`
 
-அடுத்த 10 நாட்களுக்குள் முட்டை இறக்குமதி மீண்டும் தொடங்கும் என்று இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனம் தெரிவித்தது.
+Sri Lanka's State Business Multipurpose Corporation plans to resume egg imports within 10 days, following Cabinet approval due to high local prices exceeding 50 rupees per egg. Chairman Asiri Valasundara confirms ongoing procedures.
 
-இது தொடர்பான நடவடிக்கைகள் தற்போது இடம்பெற்று வருவதாக கூட்டுத்தாபனத்தின் தலைவர் ஆசிறி வலிசுந்தர குறிப்பிட்டார்.
+🟩
 
-உள்ளுர் சந்தையில் முட்டையொன்று 50 ரூபாய்க்கும் அதிகமான விலைக்கு விற்பனை செய்யப்படுவதால், முட்டை இறக்குமதிக்கு அண்மையில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Sri Lanka State Business Multipurpose Corporation said the import of egg imports would be resumed within the next 10 days.
+
+Chairman of the Corporation Asiri Valasundara said that the proceedings are currently underway.
+
+Cabinet has recently approved the importation of eggs as an egg in the local market is sold at a price of more than 50 rupees.
 
 ◼️
 
 [Data](articles/758b7d08.json)
 
+[Extended Data](ext_articles/758b7d08.ext.json)
+
 ---
 
-### மீண்டும் பழைய நிலைக்கே செல்வோம் ; ஜனாதிபதி
+### Debate showdown between Trump and Harris set for September
+
+*2024-08-09 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101098/debate-showdown-between-trump-and-harris-set-for-september) · `en`
+
+ABC News has said it will host the first debate between Donald Trump and Kamala Harris on 10 September.
+
+The network confirmed the showdown in a post on X, formerly Twitter, after Trump said on Thursday that he would be open to debating his Democratic rival multiple times before the November election.
+
+“We think we should do three debates,” Trump said, suggesting two additional debates that he said would be hosted by Fox News and NBC, respectively.
+
+Ms Harris confirmed that she will attend the ABC debate while at an event in Michigan on Thursday, and said later that she would be open to additional debates.
+
+The network said the debate will be moderated by World News Tonight anchor and managing editor David Muir and ABC News Live Prime anchor Linsey Davis.
+
+“I am looking forward to debating Donald Trump and we have a date of September 10. I hear he’s finally committed to it and I’m looking forward to it,” Ms Harris said at the event in Detroit.
+
+...
+
+[Data](articles/9dcb3f4a.json)
+
+---
+
+### Let's go back to the old position;President
 
 *2024-08-09 09:27:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பழைய-நிலைக்கே-செல்வோம்-ஜனாதிபதி/175-341848) · `ta`
 
-வீதியில் இறங்கி கோசங்களை எழுப்புவதன் மூலம் மக்களின் வறுமையை ஒழிக்க முடியாது என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Ranil Wickremesinghe emphasizes that slogans alone won't end poverty, highlighting the importance of agreements like the IMF deal for economic recovery. He warns against abandoning such deals, as past breaks led to stagnation, hinting at dire consequences if it happens again.
 
-கூட்டுறவு சங்கம் தொடர்பில் கொழும்பில் நேற்று (07) இடம்பெற்ற கலந்துரையாடலில் கலந்து கொண்ட போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-மேலும், IMF மற்றும் அரசாங்கத்திற்கு இடையேயான ஒப்பந்தத்தின் காரணமாக நாங்கள் இப்போது மீண்டு வருகிறோம். அந்த ஒப்பந்தம் கைவிடப்பட்டால், நாம் மீண்டும் பழைய வரிசைகளில் நிற்கும் நிலைக்கே செல்வோம்.  நாங்கள் 17 முறை IMF ஒப்பந்தங்களை உடைத்தோம். 18 வது முறையாக உடைந்தால், மீண்டும் அமல்படுத்த மாட்டோம் என அவர்கள் கூறியதாகவும் ஜனாதிபதி குறிப்பிட்டார். R
+President Ranil Wickremesinghe has said that the poverty of the people cannot be eradicated by raising slogans on the street.
+
+The President made this statement while participating in a discussion held in Colombo yesterday (07) on the Co -operative Society.
+
+Also, we are now recovering because of the agreement between the IMF and the government. If the deal is abandoned, we will go back to the old rows.We broke the IMF deals 17 times. The President also said that if they broke up for the 18th time, they would not be implemented again. Remble
 
 ◼️
 
 [Data](articles/8f2f7039.json)
 
+[Extended Data](ext_articles/8f2f7039.ext.json)
+
 ---
 
-### පැරිස් ධාවන පථයට ආ කොවිඩ් අවදානම
+### The kovid risk that came to the Paris track
 
 *2024-08-09 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199738) · `si`
 
-පැරිස් ඔලිම්පික් උලෙළේ බොහෝ දෙනෙක්ගේ වැඩි අවධානයක් දිනූ තවත් තරග ඉසව්වක් වූ පිරිමි මීටර 200 ඉසව්වේ අවසන් තරගය අද (09) අලුයම පැවැත්විණි.
+In the final event of the Paris track, 21-year-old Letsila Tetabago from Botswana won the gold medal in the men's 200-meter race, setting a new African record of 19.46 seconds. This marked the first time an African athlete claimed the Olympic gold in this category. The silver went to Kenneth Bednar, while American sprinter Noah Lyles, despite being infected with COVID-19, secured the bronze. Despite concerns over Lyles' health, no other athletes tested positive for COVID-19 during the event.
 
-එහිදී බොහෝ දෙනෙකු රන් පදක්කම හිමිකරගනු ඇතැයි බලාපොරොත්තු තබා සිටි, ඇමෙරිකාවේ නෝආ ලයිල්ස්ව අභිබවා යමින් රන් පදක්කම හිමිකර ගනු ලැබුවේ 21 හැවිරිදි බොට්ස්වානා ක්‍රීඩක ලෙට්සිලේ ටෙබෝගෝ විසිනි.
+🟩
 
-පිරිමි මීටර 200 ඉසව්ව සඳහා වත්මන් ලෝක මලල ක්‍රීඩා පිටියේ වේගවත්ම ධාවකයින් වන ඇමෙරිකාවේ නෝආ ලයිල්ස්, එරියන් නයිට්න්, කෙනත් බෙඩ්නරෙක්, බොට්ස්වානා හි ලෙට්සිලේ ටෙබෝගෝ ඇතුළු ක්‍රීඩකයින් 8 දෙනෙක් මේ සඳහා එක්ව සිටියේය.
+The last 200th Event in the 200 (9 meter event was held today).
 
-ලෙට්සිලේ නව අප්‍රිකානු වාර්තාවක් ද පිහිටුවමින් ඉසව්ව නිම කළ අතර ඒ සඳහා ඔහුට ගතව ඇති කාලය තත්පර 19.46කි.
+The gold medal was won by 21-year-old Botswana player Letsila Tetabago, who was hosting the gold medal.
 
-අප්‍රිකානු කලාපයේ ක්‍රීඩකයෙකු මීටර 200 ඔලිම්පික් රන් පදක්කම හිමි කරගත් පළමු අවස්ථාව මෙය බවත් සඳහන් ය.
+The fastest riders of the current World Athletic Ground for the male 200 meter event, 8 players including the Liles, Belt Bedker, Botsyle Tatologio, were also present.
 
-මෙම තරගයේ රිදී පදක්කම හිමිකර ගනු ලැබුවේ ඇමෙරිකාවේ කෙනත් බෙඩ්නරෙක් විසිනි.
+The event was established in the form of a new African record and was 19.46 seconds.
 
-කෙසේ නමුත් මෙහි බොහෝ දෙනා බලාපොරොත්තු දල්වා සිටි ලොව වේගවත්ම මිනිසා ලෙස පසුගිය දා කිරුළු පැළඳි ඇමෙරිකාවේ නෝආ ලයිල්ස්ට ලෝකඩ පදක්කමෙන් සෑහීමට පත්වීමටත් සිදුවිය.
+This is the first time a player in the African region has won the 200 olympic gold medal.
+
+The silver medal was owned by Kenneth Bednar.
+
+However, the Lyles of the United States, crowned the world, was to be satisfied with the bronze medal.
+
+The US Athletics Union has confirmed that Noah 200 meter events had been a Lyles Cowid infection.
+
+Investigations confirmed that two days ago, the investigations were infected with the covard two days ago, but it was decided to participate in the 200-day event.
+
+Foreign media reports that the Nou Liles a wheelchair following the 200 meter endings.
 
 ...
 
 [Data](articles/81798359.json)
+
+[Extended Data](ext_articles/81798359.ext.json)
 
 ---
 
@@ -165,6 +223,18 @@ The Olympic Champion Neraj Chop, 89mm, 4 and 4 decimals were talented.
 [Data](articles/ccbd5dcc.json)
 
 [Extended Data](ext_articles/ccbd5dcc.ext.json)
+
+---
+
+### ලෝක ආදිවාසී දිනය අදයි - සැමරුම් උත්සවය දඔානේදී
+
+*2024-08-09 09:08:26* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-ආදිවාසී-දිනය-අදයි---සැමරුම්-උත්සවය-දඔානේදී/11-411269) · `si`
+
+ඒ සම්බන්ධයෙන් පවත්වනු ලබන සැමරුම් උත්සවය අද දඹාන ආදිවාසී ගම්මානයේදී පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/39165d1e.json)
 
 ---
 
@@ -2173,43 +2243,5 @@ There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
 [Data](articles/e98ccadc.json)
 
 [Extended Data](ext_articles/e98ccadc.ext.json)
-
----
-
-### Talked to me too
-
-*2024-08-08 16:34:13* · [`adalk`](https://www.ada.lk/breaking_news/මටත්-අගමැතිකම-ගන්න-කතා-කළා/11-411268) · `si`
-
-Mahinda Rajapaksa asked his former self to accept the role of Prime Minister during their past struggle, as stated in a media interview in Colombo on August 8th.
-
-🟩
-
-Former President Mahinda Rajapaksa has requested former President Mahinda Rajapaksa to accept the prime minister in the past struggle, he said.
-
-Speaking to the media in Colombo today (08th) he said.
-
-◼️
-
-[Data](articles/d91bf853.json)
-
-[Extended Data](ext_articles/d91bf853.ext.json)
-
----
-
-### Another US $ 90,000 million for Gaza children from Sri Lanka
-
-*2024-08-08 16:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-දරුවන්ට-තවත්-ඇමරිකානු-ඩොලර්-පන්ලක්ෂ-අනූදහසක්-ශ්‍රී-ලංකාවෙන්-ලබාදෙයි/11-411267) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe has donated an additional $50,000 to the Children of Gaza Fund, bringing the total contribution to $90,000. This donation was officially handed over to the Palestinian government, reflecting the commitment to support children in Gaza.
-
-🟩
-
-For the concept of President Ranil Wickremesinghe, the "Children of Gazza Fund has received another US $ 50,000 USD (590,000 / -)President Ranil Wickremesinghe was officially handed over to the Palestinian government.
-
-◼️
-
-[Data](articles/5319109f.json)
-
-[Extended Data](ext_articles/5319109f.ext.json)
 
 ---

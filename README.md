@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 21:36:23**
+As of **2024-08-09 21:55:57**
 
 ## Newspaper Stats
 
-*Scraped **39,886** Articles*
+*Scraped **39,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,658
-adaderanalk | 4,638
+adalk | 3,660
+adaderanalk | 4,639
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,028
 virakesarilk | 6,324
-adaderanasinhalalk | 6,771
+adaderanasinhalalk | 6,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,886 (100.0%) of 39,886 articles have been extended.
+39,886 (100.0%) of 39,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### Russian strike on supermarket in Ukraine’s east kills 14 people
+
+*2024-08-09 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101119/russian-strike-on-supermarket-in-ukraines-east-kills-14-people) · `en`
+
+A Russian missile struck a supermarket in the Ukrainian town of Kostiantynivka in the front-line Donetsk region on Friday, killing at least 14 people and injuring 43 others, Ukrainian officials said.
+
+Heavy black smoke clouds rose from the destroyed building in images and videos posted by officials. The interior minister later said the blaze was put out.
+
+“Russian terrorists hit an ordinary supermarket and a post office. There are people under the rubble,” President Volodymyr Zelenskiy said on X. Emergency services continued working out the rubble looking for survivors, he added.
+
+Kostiantynivka lies just about 13 kilometers from the active combat line in Ukraine’s east. Ukrainian government-held parts of the Donetsk region regularly come under Russian shelling and air strikes.
+
+This week Russia has been fighting what it says is an armored cross-border assault by Ukrainian troops in its Kursk region. The Kyiv military has not commented on that operation yet.
+
+...
+
+[Data](articles/f0f04378.json)
+
+---
+
+### විවාහය ගැන ඉරාකයෙන් ආන්දෝලනාත්මක යෝජනාවක්
+
+*2024-08-09 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199765) · `si`
+
+කාන්තාවන්ගේ නිත්‍යානුකූල විවාහ වයස් සීමාව අවුරුදු 9 දක්වා අඩු කිරීමට අදාළ යෝජනාවක් ඉරාක පාර්ලිමේන්තුවට ඉදිරිපත්ව තිබේ.
+
+මේ දක්වා කාන්තාවන්ගේ නිත්‍යානුකූල විවාහ වයස් සීමාව ලෙස පැවති අවුරුදු 18ක වයස් සීමාව අවුරුදු 9ක දක්වා අඩු කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පතක් එරට අධිකරණ අමාත්‍යවරයා විසින් මෙලෙස ඉදිරිපත් කර ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් යෝජිත පනත් කෙටුම්පත සම්බන්ධයෙන් පාර්ශව රැසක අප්‍රසාදය පළ වී තිබේ.
+
+පනත් කෙටුම්පත සම්මත වුවහොත් ගැටලු රැසක් නිර්මාණය වනු ඇති බව කාන්තා සංවිධාන පෙන්වා දී ඇත.
+
+◼️
+
+[Data](articles/38934ba4.json)
+
+---
 
 ### 200 million cost per candidate - 25 million
 
@@ -301,6 +339,32 @@ The Election Commission has officially announced that the presidential election 
 [Data](articles/f195ebab.json)
 
 [Extended Data](ext_articles/f195ebab.ext.json)
+
+---
+
+### ජනාධිපතිවරණයට තවත් අපේක්ෂකයක් දෙදෙනෙක්
+
+*2024-08-09 18:25:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-තවත්-අපේක්ෂකයක්-දෙදෙනෙක්/11-411281) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා නව සමසමාජ පක්ෂය වෙනුවෙන් වෘත්තිය සමිති නායක ප්‍රියන්ත වික්‍රමසිංහ මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+
+එමෙන්ම අපේ ජනබල පක්ෂය නියෝජනය කරමින්මින් ජනාධිපතිවරණය සඳහා  ඉංජිනේරු කීර්ති වික්‍රමරත්න මහතා ඉදිරිපත් කිරීමට ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/e34d1203.json)
+
+---
+
+### මහනුවර ඇසල මහා පෙරහැර වෙනුවෙන් විශේෂ බස් රථ සේවයක්
+
+*2024-08-09 18:17:39* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-මහා-පෙරහැර-වෙනුවෙන්-විශේෂ-බස්-රථ-සේවයක්/11-411280) · `si`
+
+ලබන 14 වැනිදා සිට 19 වැනිදා දක්වා දිවා රාත්‍රී සේවා ලෙස ශ්‍රී   ලංකා ගමනාගමන  මණ්ඩලය මගින් විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට කටයුතු යොදා තිබේ.
+
+◼️
+
+[Data](articles/2a2a2235.json)
 
 ---
 
@@ -2209,101 +2273,5 @@ On July 18, 2023, the Working Committee of the SJB decided to expel party member
 [Data](articles/863a05e5.json)
 
 [Extended Data](ext_articles/863a05e5.ext.json)
-
----
-
-### Sri Lanka supreme court upholds expulsion of Manusha, Harin from SJB
-
-*2024-08-09 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-upholds-expulsion-of-manusha-harin-from-sjb-176139/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Supreme Court has upheld the expulsion of Manusha Nanayakkara and Harin Fernando from the Samagi Jana Balawegaya, lawyers said.
-
-The two went to court against the decision by the SJB to expel them.
-
-◼️
-
-[Data](articles/bb984161.json)
-
-[Extended Data](ext_articles/bb984161.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger, bond yields up
-
-*2024-08-09 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-yield-up-176138/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted stronger at 300.45/60 to the US dollar Friday and bond markets continued to be hit by policy uncertainty leading to reduced interest in longer term tenors, market participants said.
-
-The 6-month bill was quoted at 9.75/85 and the 12-month 10.15 percent.
-
-Bond yields started to edge up after elections were declared over uncertainty on the continuation of current economic policies with longer tenors.
-
-A bond maturing on 15.12.2026 was quoted at 10.95/11.00 Friday flat from 10.95/11.10 percent Thurs
-
-A bond maturing on 15.12.2027 was quoted 12.10/20 at 12.10/20 percent, up from 11.95/12.10 percent.
-
-A bond maturing on 01.07.2028 quoted at 12.50/55 up from 12.45/55 percent.
-
-A bond maturing on 15.09.2029 quoted 12.60/70 up from 12.50/75 percent.
-
-No long tenors were quoted. A bond auction is to be held next week. (Colombo/Aug09/2024)
-
-◼️
-
-[Data](articles/fad0ccdd.json)
-
-[Extended Data](ext_articles/fad0ccdd.ext.json)
-
----
-
-### Message from Modi to Bangladesh
-
-*2024-08-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199741) · `si`
-
-India, under PM Narendra Modi, has taken over the Nobel Peace Prize responsibilities from Muhammad Yunus, emphasizing support for Bangladesh's Hindu minority and commitment to peace, safety, and development. The move follows the collapse of Bangladesh's government, with PM Sheikh Hasina fleeing and President Mohammed Shahjahan dissolving Parliament. Yunus, a Nobel laureate and economic expert, is set to lead the interim government until new leadership is established.
-
-🟩
-
-Indian Prime Minister Narendra Modi has said that India is pleased to take over responsibilities as the Nobel Prizest of Muhammad Uunus in Interim State of the Interim Government in Bangladesh.
-
-The Indian Prime Minister has said that it is also important that Bangladesh is the key to the recovery of the Hindu Minority and ensure the security of the Hindu Minority.
-
-The Indian Prime Minister has also held his XCE.
-
-It further states that India is committed to deal with Bangladesh to fulfill the common aspirations of both sides for peace, safety and development.
-
-The government collapsed with Bangladesh Prime Minister Sheikh Haseani and fleeing the country, and President Mohammed Shahanina had to dissolve the Parliament.
-
-Muhammad Yunes, according to the request of the protesters who had rejected the military control, was held.
-
-Uunus, a Nobel Peace Prize Recipient, is an economic expert in Bangladesh and a social entrepreneur and a powerful rival of Haseani.
-
-...
-
-[Data](articles/5a5252de.json)
-
-[Extended Data](ext_articles/5a5252de.ext.json)
-
----
-
-### Manusha and Harin is legal to deprive party membership - Supreme Court
-
-*2024-08-09 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199740) · `si`
-
-The Supreme Court upheld the right of ministers Manusha Nanayakkara and Harin Fernando to retain their party memberships, dismissing their petitions against a law that sought to strip them of their positions. The ruling was made by a panel of judges including Velgoda, Achala Wediwuli, and Arjuna Obeysekere.
-
-🟩
-
-The Supreme Court has decided that the decision taken taken by the Ministers Manusha Nanayakkara and Harin Fernando.
-
-The Supreme Court issued the decision to refute the petitions presented by the Ministers who were presented with the decision that the decision taken by the Ministers who had been filed against the law to deprive their party membership.
-
-The decision was issued by a three-member judge with a three-member judge with Velgoda, Achala Wediwuli and Arjuna Obeysekere.
-
-◼️
-
-[Data](articles/07a40648.json)
-
-[Extended Data](ext_articles/07a40648.ext.json)
 
 ---

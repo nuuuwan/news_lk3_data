@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 02:36:21**
+As of **2024-08-10 02:54:42**
 
 ## Newspaper Stats
 
-*Scraped **39,912** Articles*
+*Scraped **39,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,422
-dailyftlk | 2,568
+dailyftlk | 2,570
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,912 (100.0%) of 39,912 articles have been extended.
+39,912 (100.0%) of 39,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### SC quashes recommendations by Upali Abeyratne Commission
+
+*2024-08-10 02:21:06* · [`dailyftlk`](https://www.ft.lk/news/SC-quashes-recommendations-by-Upali-Abeyratne-Commission/56-765356) · `en`
+
+The Supreme Court issued an order yesterday nullifying the implementation of the recommendations made by the Presidential Commission of Inquiry on Political Victimisation led by retired Supreme Court Justice Upali Abeyratne.
+
+The order was issued by the Apex Court after considering the petitions filed by several petitioners including Senior DIG Ravi Seneviratne, retired High Court Judge Padmini Ranawaka, Former Commander of the Sri Lanka Navy Travis Sinniah, SSP Shani Abeysekera, Senior Counsel Upul Jayasuriya and Sandhya Ekneligoda against the three-member PCoI appointed by President Gotabaya Rajapaksa in January 2020,
+
+The petitions were heard by a three-judge bench comprising Justices Vijith Malalgoda, Achala Wengappuli, and Arjuna Obeysekera. In their verdict, the justices mandated that the Government compensate the petitioners by covering court fees totalling Rs. 150 000 each.
+
+...
+
+[Data](articles/b3c406a9.json)
+
+---
+
+### AKD pledges to introduce legislation to stop political crossovers
+
+*2024-08-10 02:20:52* · [`dailyftlk`](https://www.ft.lk/news/AKD-pledges-to-introduce-legislation-to-stop-political-crossovers/56-765355) · `en`
+
+NPP Presidential Candidate Anura Kumara Dissanayake calls for an end to the practice of political crossovers
+
+Criticises frequent party-switching in SL politics, describing it as a blight on political landscape
+
+Says legislation introduced under a future NPP Govt. will unseat MPs who attempt to switch parties
+
+National People’s Power (NPP) leader and Presidential candidate Anura Kumara Dissanayake has called for an end to the practice of political crossovers.
+
+Speaking at a meeting in Malwana on Thursday, Dissanayake criticised the frequent party-switching in Sri Lankan politics, describing it as a blight on the political landscape. “In the afternoon, they belong to one party, by nightfall they’re with another, and by morning they’ve joined yet another group,” he remarked.
+
+Dissanayake vowed that these would be the final days where such crossovers are permitted, promising that an NPP Government would enact laws to unseat MPs who attempt to switch parties.
+
+...
+
+[Data](articles/23990b54.json)
+
+---
 
 ### The flight that was traveling with 62 people in Brazil crashed into the state of Chao Palo
 
@@ -2329,49 +2367,5 @@ My party membership abolished. It's okay. The reconciliation wanted to win. Thei
 [Data](articles/90fd9a84.json)
 
 [Extended Data](ext_articles/90fd9a84.ext.json)
-
----
-
-### One person killed in elephant accident
-
-*2024-08-09 12:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/ஆனையிறவு-விபத்தில்-ஒருவர்-பலி/72-341854) · `ta`
-
-A fatal accident involving two motorcycles near the Elephant Military checkpoint in Kilinochchi resulted in one death and two injuries. The victims were taken to the Kilinochchi District General Hospital.
-
-🟩
-
-One person was killed and two others were injured in a collision with two motorcycles on Thursday (09) morning at the Kilinochchi Bali Police Division.
-
-The accident occurred in the early hours of the morning at the Elephant Military checkpoint belonging to the Kilinochchi Palai Police Division.
-
-One person was killed and two others were injured in the accident and were admitted to the Kilinochchi District General Hospital.
-
-This means that two motorcycles traveling to Jaffna have been hit by an accident and the body of the deceased has been handed over to the Kilinochchi District General Hospital.
-
-◼️
-
-[Data](articles/79c02524.json)
-
-[Extended Data](ext_articles/79c02524.ext.json)
-
----
-
-### Sheikh Hasina will return to Bangladesh for elections, her son says
-
-*2024-08-09 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101106/sheikh-hasina-will-return-to-bangladesh-for-elections-her-son-says) · `en`
-
-Former Bangladesh Prime Minister Sheikh Hasina will return to her country when its new caretaker government decides to hold elections, her son said, but it was not clear if she would contest.
-
-Hasina fled to neighbouring India on Monday after weeks of deadly protests forced her to quit. A caretaker government led by Nobel Peace laureate Muhammad Yunus was sworn in on Thursday, which will be tasked with holding elections.
-
-Speaking to the Times of India daily, her son Sajeeb Wazed Joy, who is based in the U.S., said, “For the time being, she (Hasina) is in India. She will go back to Bangladesh the moment the interim government decides to hold an election.”
-
-He did not specify whether Hasina, 76, will contest elections. “My mother would have retired from politics after the current term,” Joy said.
-
-...
-
-[Data](articles/4c6261d3.json)
-
-[Extended Data](ext_articles/4c6261d3.ext.json)
 
 ---

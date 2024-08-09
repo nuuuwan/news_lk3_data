@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 22:09:31**
+As of **2024-08-09 22:20:56**
 
 ## Newspaper Stats
 
-*Scraped **39,890** Articles*
+*Scraped **39,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,660
-adaderanalk | 4,639
+adaderanalk | 4,640
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,028
 virakesarilk | 6,324
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,890 (100.0%) of 39,890 articles have been extended.
+39,890 (100.0%) of 39,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### Minister Tiran makes announcement on issuance of passports
+
+*2024-08-09 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101120/minister-tiran-makes-announcement-on-issuance-of-passports) · `en`
+
+Minister of Public Security Tiran Alles has announced that only 1,000 passports will be issued per day until October.
+
+Speaking at a press conference in Colombo today (09), he said that the issuing of e-passports will begin from October.
+
+Explaining the situation, Alles said, “Repeated we had re-ordered from the same supplier for 23 years. This time again a re-order came. I refused and said to call for tenders.”
+
+He noted that the new company that won the tender faced a two-month delay due to legal procedures, which caused the current restriction on passport issuance. “We are issuing 900 (passports) per day, but we have left room for up to 1,000 due to those that arrive in the last moment,” Alles added.
+
+Minister Alles urged the public to apply for passports only if essential during this period, while assuring that the applicants “will get a new e-Passport in October.”
+
+...
+
+[Data](articles/e1c088c2.json)
+
+---
 
 ### Russian strike on supermarket in Ukraine’s east kills 14 people
 
@@ -2273,25 +2293,5 @@ The case was taken up before the three-member Supreme Court Bench comprised of t
 [Data](articles/f4988048.json)
 
 [Extended Data](ext_articles/f4988048.ext.json)
-
----
-
-### SC rules Manusha & Harin’s expulsion from SJB is lawful
-
-*2024-08-09 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101099/sc-rules-manusha-harins-expulsion-from-sjb-is-lawful) · `en`
-
-The Supreme Court has ruled that the decision taken by Samagi Jana Balawegaya (SJB) to suspend the party membership of Ministers Manush Nanayakkara and Harin Fernando was lawful.
-
-The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
-
-The decision was announced by the three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Achala Vengappuli and Arjuna Obeysekara this morning (09).
-
-On July 18, 2023, the Working Committee of the SJB decided to expel party members Harin Fernando and Manusha Nanayakkara from the party. In May 2022, the SJB had suspended the party membership of the two parliamentarians after they had accepted ministerial portfolios in the government while the party had vowed to take disciplinary action against them.
-
-...
-
-[Data](articles/863a05e5.json)
-
-[Extended Data](ext_articles/863a05e5.ext.json)
 
 ---

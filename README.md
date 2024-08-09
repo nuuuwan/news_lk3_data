@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 16:53:49**
+As of **2024-08-09 17:06:28**
 
 ## Newspaper Stats
 
-*Scraped **39,854** Articles*
+*Scraped **39,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,656
-adaderanalk | 4,635
+adaderanalk | 4,636
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,022
+tamilmirrorlk | 5,023
 virakesarilk | 6,309
-adaderanasinhalalk | 6,765
+adaderanasinhalalk | 6,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,850 (100.0%) of 39,854 articles have been extended.
+39,854 (100.0%) of 39,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### Speaker endorses certificate on Public Financial Management Bill
+
+*2024-08-09 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101116/speaker-endorses-certificate-on-public-financial-management-bill) · `en`
+
+The Speaker of Parliament Mahinda Yapa Abeywardana announced to the House that he has endorsed the certificate on the Bill titled “Public Financial Management” on 08 August 2024 in terms of the provisions of Article 79 of the Constitution of Sri Lanka.
+
+The said Bill was presented to Parliament on May 22, 2024, and it was passed with amendments on July 25 without a vote.
+
+◼️
+
+[Data](articles/82145098.json)
+
+---
+
+### இரு வெற்றிடங்கள்: ஐ.ம.ச அதிரடி தீர்மானம்
+
+*2024-08-09 16:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-வெற்றிடங்கள்-ஐ-ம-ச-அதிரடி-தீர்மானம்/175-341869) · `ta`
+
+வெற்றிடமாக இருக்கும் ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரால் வெற்றிடமான ஆசனங்களுக்கு புதிய பாராளுமன்ற உறுப்பினர்களை நியமிப்பதில்லை என ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளது.
+
+சில நிமிடங்களுக்கு முன்னர்  சஜித் பிரேமதாச தலைமையில் நடைபெற்ற கலந்துரையாடலில் இந்தத் தீர்மானம் எடுக்கப்பட்டது. ஜனாதிபதித் தேர்தல் முடியும் வரை இந்த தீர்மானம் அமுல்படுத்தப்படும்.
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டுள்ள போதும் ஏனைய கட்சிகளுக்கு முன்னுதாரணமாக அமையும் நோக்கில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதன்படி ஜனாதிபதித் தேர்தலுக்குப் பின்னர் இந்த வெற்றிடங்களை உடனடியாக நிரப்புவதற்கு ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளதாக தெரியவந்துள்ளது
+
+◼️
+
+[Data](articles/5bb9fd9a.json)
+
+---
+
+### ශානි ගේ ආරක්ෂාව ගැන අධිකරණය දුන් නියෝගය
+
+*2024-08-09 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199759) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හිටපු අධ්‍යක්ෂ ශානි අබේසේකර මහතාට දැනට ලබාදී තිබෙන ආරක්‍ෂාව ලබන 29 වනදා තෙක් ඒ ආකාරයෙන්ම බාධාවකින් තොරව පවත්වාගෙන යාමට පියවර ගන්නා බව නීතිපතිවරයා අද (09) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+
+තමන්ට ලබා දී තිබෙන ආරක්ෂාව තර කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා  ශානි අබේසේකර මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥවරිය මේ බව දැනුම් දුන්නාය.
+
+මෙම පෙත්සම අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මලල්ගොඩ සහ මුර්දු ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ  විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීය.
+
+එහිදී පෙත්සම්කාර ශානි අබේසේකර මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ උපුල් ජයසූරිය මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවා දායකයා රිය අනතුරකට ලක් කොට ඝාතනය කිරීමේ සූදානම පවතින බවට තොරතුරු ලැබී ඇතැයි වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ අධිකාරීයේ පොලිස් කණ්ඩායම විසින් ඉදිරිපත් කළ වාර්තාවක සඳහන් කර  තිබෙන බව කියා සිටියේය.
+
+...
+
+[Data](articles/45516240.json)
+
+---
 
 ### Sri Lanka invites Egyptian business community to explore trade and investment opportunities
 
@@ -45,6 +95,8 @@ The event had the partition of the President of the General Federation of Egypti
 ...
 
 [Data](articles/2c49c3a5.json)
+
+[Extended Data](ext_articles/2c49c3a5.ext.json)
 
 ---
 
@@ -66,6 +118,8 @@ The four dhows together with thirty-five Indian fishermen were brought to SLNS V
 
 [Data](articles/64298e07.json)
 
+[Extended Data](ext_articles/64298e07.ext.json)
+
 ---
 
 ### FIU and Registrar General ink MoU to share information on Trusts, property registrations
@@ -79,6 +133,8 @@ This MOU has been entered into by the FIU, in terms of the provisions of the Fin
 ...
 
 [Data](articles/afdf0698.json)
+
+[Extended Data](ext_articles/afdf0698.ext.json)
 
 ---
 
@@ -510,17 +566,23 @@ Parliamentarian Field Marshal Sarath Fonseka resigned from the post of resignati
 
 ---
 
-### හරීනුත් ඉවත් වෙයි- හෘදසාක්ෂියට එකඟව තීන්දු ගන්න
+### Harry removes - take decisions in harmony with
 
 *2024-08-09 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/හරීනුත්-ඉවත්-වෙයි--හෘදසාක්ෂියට-එකඟව-තීන්දු-ගන්න/11-411277) · `si`
 
-ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් තීන්දුවත් සමග අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාද අමාත්‍ය ධුරයෙන් ඉවත්වීමට කටයුතු කර ඇත.
+Minister Harin Fernando plans to resign after the Supreme Court's verdict, emphasizing the importance of making decisions in harmony with one's conscience rather than focusing solely on personal goals.
 
-මේ ගමන යනකොට තමන්ගේ හෘදසාක්ෂියට එකඟව තීන්දු ගන්න. තමන්ගේ ආත්ම විශ්වාසය අනුව තමන් කරන්නේ හරි දේ කියලා හිතනවා නම් ඒ වෙලාවේ තමන්ගේ පටු අරමුණු ගැන හිතන්න එපා.
+🟩
+
+Minister Harin Fernando has also taken steps to resign from Minister Harin Fernando with the verdict given by the Supreme Court.
+
+Take decisions in harmony with their conscience. If you think that they are doing what they are doing, do not think about their narrow goals.
 
 ◼️
 
 [Data](articles/cbda78a3.json)
+
+[Extended Data](ext_articles/cbda78a3.ext.json)
 
 ---
 
@@ -2159,59 +2221,5 @@ With the outlook for Sri Lanka looking more hopeful than it had in the past few 
 [Data](articles/fe05c9bb.json)
 
 [Extended Data](ext_articles/fe05c9bb.ext.json)
-
----
-
-### Global inequality, IMF’s “real” agenda and economic forecasts
-
-*2024-08-09 06:32:21* · [`dailyftlk`](https://www.ft.lk/business/Global-inequality-IMF-s-real-agenda-and-economic-forecasts/34-765322) · `en`
-
-Insights from Prof. Jayati Ghosh and Prof. Howard Nicholas via RIUNIT podcast
-
-In the latest series of the RIUNIT podcast hosted by Roshan Madawela, distinguished economists Prof. Howard Nicholas and Prof. Jayati Ghosh, delve deeply into the rapidly changing economic and geopolitical environment, examining both local and global economic orders. By questioning popular narratives, they provide insightful analysis and perspectives on the complex forces shaping our world today.
-
-“If the top ten billionaires sat on top of their collective fortunes/combined wealth piled up in US dollar bills, they would reach almost halfway to the moon.” – Inequality Kills Note by Oxfam
-
-...
-
-[Data](articles/b0f53ee2.json)
-
-[Extended Data](ext_articles/b0f53ee2.ext.json)
-
----
-
-### Tokyo Cement Group off to optimistic start in FY24/25 Q1
-
-*2024-08-09 06:30:18* · [`dailyftlk`](https://www.ft.lk/business/Tokyo-Cement-Group-off-to-optimistic-start-in-FY24-25-Q1/34-765321) · `en`
-
-Tokyo Cement Group (Tokyo Cement) reported a turnover of Rs. 11,665 million (a 3% decline over the same period of the previous year) and a Profit After Tax (PAT) of Rs. 707 million (a 18% decline over the same period of the previous year) for the 1st quarter ended 30 June 2024.
-
-The decline in turnover compared to the previous year despite recording an increase in sales volume is due to the reduction in prices in the corresponding quarters.
-
-Passing on the benefit of cost reductions to consumers, the cement industry announced two downward price revisions which brought the Maximum Retail Price (MRP) of a 50 Kg bag of cement to Rs. 2,250.
-
-The calendar year started off with a positive economic outlook with the country’s year-on-year GDP for the first quarter of 2024 reporting a 5.3% growth.
-
-...
-
-[Data](articles/71683898.json)
-
-[Extended Data](ext_articles/71683898.ext.json)
-
----
-
-### Sri Lanka showcases Pharmaceutical Industry at Medi Pharm Expo Vietnam 2024
-
-*2024-08-09 06:29:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-showcases-Pharmaceutical-Industry-at-Medi-Pharm-Expo-Vietnam-2024/34-765320) · `en`
-
-The EDB in collaboration with the Sri Lanka Embassy in Vietnam  made arrangements  to organise participation of Sri Lankan Pharmaceutical product manufacturers at the 22nd  Medi- Pharm Expo Vietnam Exhibition 2024 held from 1 to 3 August  2024 at DIECC (KohPich) in Hochi Minh City , Vietnam .
-
-The Pharmaceutical Sector has been identified as one of the promising and emerging sectors in Sri Lanka, to promote as an export-oriented industry to earn foreign exchange. In response, the EDB has taken strategic steps to bolster marketing and promotional efforts to enhance the international profile of Sri Lankan pharmaceutical products.
-
-...
-
-[Data](articles/7d2f8f86.json)
-
-[Extended Data](ext_articles/7d2f8f86.ext.json)
 
 ---

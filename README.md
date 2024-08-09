@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 03:38:07**
+As of **2024-08-10 03:54:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,922 (100.0%) of 39,925 articles have been extended.
+39,925 (100.0%) of 39,925 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ To achieve his affinity towards the youth of Sri Lanka, he has established the S
 
 [Data](articles/55ad3a97.json)
 
+[Extended Data](ext_articles/55ad3a97.ext.json)
+
 ---
 
 ### Emerging climate risks and future-proof planning for the tourism sector
@@ -67,6 +69,8 @@ However, Sri Lanka is also among the world’s most vulnerable countries to clim
 ...
 
 [Data](articles/047eeae9.json)
+
+[Extended Data](ext_articles/047eeae9.ext.json)
 
 ---
 
@@ -223,6 +227,8 @@ Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gra
 ◼️
 
 [Data](articles/a9a81b24.json)
+
+[Extended Data](ext_articles/a9a81b24.ext.json)
 
 ---
 

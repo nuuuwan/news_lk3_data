@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 10:36:32**
+As of **2024-08-09 10:55:01**
 
 ## Newspaper Stats
 
-*Scraped **39,779** Articles*
+*Scraped **39,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,81 @@ islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
 adalk | 3,648
-adaderanalk | 4,619
+adaderanalk | 4,620
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,007
 virakesarilk | 6,296
-adaderanasinhalalk | 6,748
+adaderanasinhalalk | 6,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,778 (100.0%) of 39,779 articles have been extended.
+39,779 (100.0%) of 39,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### මනූෂ සහ හරීන් පක්ෂ සාමාජිකත්වය අහිමි කිරීම නීත්‍යානුකූලයි - ශ්‍රේෂ්ඨාධිකරණය
+### SC rules Manusha & Harin’s expulsion from SJB is lawful
+
+*2024-08-09 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101099/sc-rules-manusha-harins-expulsion-from-sjb-is-lawful) · `en`
+
+The Supreme Court has ruled that the decision taken by Samagi Jana Balawegaya (SJB) to suspend the party membership of Ministers Manush Nanayakkara and Harin Fernando was lawful.
+
+The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
+
+The decision was announced by the three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Achala Vengappuli and Arjuna Obeysekara this morning (09).
+
+On July 18, 2023, the Working Committee of the SJB decided to expel party members Harin Fernando and Manusha Nanayakkara from the party. In May 2022, the SJB had suspended the party membership of the two parliamentarians after they had accepted ministerial portfolios in the government while the party had vowed to take disciplinary action against them.
+
+...
+
+[Data](articles/863a05e5.json)
+
+---
+
+### මෝදිගෙන් බංග්ලාදේශයට පණිවුඩයක්
+
+*2024-08-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199741) · `si`
+
+නොබෙල් ත්‍යාගලාභී මුහම්මද් යූනුස් බංග්ලාදේශයේ අන්තර්වාර රජයේ ප්‍රධානියා ලෙස වගකීම් භාර ගැනීම ගැන ඉන්දියාව සතුටු වන බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි පවසා තිබේ.
+
+එමෙන්ම බංග්ලාදේශය ඉක්මනින් යථාතත්ත්වයට පත් කිරීම සහ හින්දු සුළුතරයේ ආරක්ෂාව සහතික කිරීම වැදගත් බවද ඉන්දීය අග්‍රාමාත්‍යවරයා අවධාරණය කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+ඒ, සම්බන්ධයෙන් අදහස් පළ කරමින් ඉන්දීය අග්‍රාමාත්‍යවරයා සිය  X ගිණුමේ සටහනක් ද තබා තිබේ.
+
+එහි තවදුරටත් දැක්වෙන්නේ සාමය, ආරක්‍ෂාව සහ සංවර්ධනය සඳහා දෙපාර්ශ්වයේම පොදු අභිලාෂයන් ඉටු කිරීම සඳහා බංග්ලාදේශය සමග කටයුතු කිරීමට ඉන්දියාව කැපවී සිටින බවය.
+
+බංග්ලාදේශ අගමැතිනී ෂෙයික් හසීනා ධුරයෙන් ඉල්ලා අස්වී රටින් පළායාමත් සමග ආණ්ඩුව බිඳ වැටුණු අතර, එරට පාර්ලිමේන්තුව ද විසුරුවා හැරීමට ජනාධිපති මොහොමඩ් ෂහාබුද්දීන්ට සිදුවුණි.
+
+ඒ සමග ඇති වූ හමුදා පාලනය ප්‍රතික්ෂේප කළ විරෝධතාකරුවන්ගේ ඉල්ලීම අනුව මුහම්මද් යූනුස් ට මෙම තනතුර හිමිවිය.
+
+...
+
+[Data](articles/5a5252de.json)
+
+---
+
+### Manusha and Harin is legal to deprive party membership - Supreme Court
 
 *2024-08-09 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199740) · `si`
 
-අමාත්‍යවරුන් වන මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන මහත්වරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+The Supreme Court upheld the right of ministers Manusha Nanayakkara and Harin Fernando to retain their party memberships, dismissing their petitions against a law that sought to strip them of their positions. The ruling was made by a panel of judges including Velgoda, Achala Wediwuli, and Arjuna Obeysekere.
 
-සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මනුෂ නානායකාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරු ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ලබාදුනි.
+🟩
 
-විජිත් මළල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දුව ලබාදී තිබේ.
+The Supreme Court has decided that the decision taken taken by the Ministers Manusha Nanayakkara and Harin Fernando.
+
+The Supreme Court issued the decision to refute the petitions presented by the Ministers who were presented with the decision that the decision taken by the Ministers who had been filed against the law to deprive their party membership.
+
+The decision was issued by a three-member judge with a three-member judge with Velgoda, Achala Wediwuli and Arjuna Obeysekere.
 
 ◼️
 
 [Data](articles/07a40648.json)
+
+[Extended Data](ext_articles/07a40648.ext.json)
 
 ---
 
@@ -2189,55 +2235,5 @@ The film is being produced by Vinod Kumar on behalf of Mini Studios LP.
 [Data](articles/70bc5c8c.json)
 
 [Extended Data](ext_articles/70bc5c8c.ext.json)
-
----
-
-### Actor Bhagat Fazilin 'Hunter' update
-
-*2024-08-08 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190590) · `ta`
-
-Bhagat Fazil, making his debut in the Malayalam film industry, receives congratulations from the 'Vettayan' film crew on his birthday. Directed by 'Jai Bhim', the film features stars like Rajinikanth, Amitabh Bachchan, Rana Daggubati, and others. Composed by Anirudh, it's produced by Subhashkaran under Leica Productions, set for release in various Indian languages on Diwali, October 31st, coinciding with Bhagat Fazil's birthday celebration.
-
-🟩
-
-The 'Vettayan' film crew has congratulated the film on the birthday of Bhagat Fazil, who made his debut in the Malayalam film industry today.
-
-Director Tha directed by 'Jai Bhim'. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Bhagat Fossil, Rana Dagupati, Manju Warrior, Abirami, Ritika Singh, Dushara Vijayan, Kishore, Rogini, Ramesh Dhilak.
-
-S.. R. Anirudh has composed the film, which has been recorded by Kadir. Producer Subhashkaran is producing the film on behalf of Leica Productions, which is being prepared as an exercise entertainer.
-
-Diwali, October 31st, the film will be released in Indian languages ​​including Tamil, Telugu, Malayalam, Kannada and Hindi, on the occasion of the birthday of star actor Bhagat Fazil, who congratulates him on the occasion of the Bhagat Fossar in the Bhagat Fas.Published by the photo, they have enthusiastically to his fans.
-
-◼️
-
-[Data](articles/4f84d384.json)
-
-[Extended Data](ext_articles/4f84d384.ext.json)
-
----
-
-### Sri Lanka stocks close down, interest in Sampath, John Keells
-
-*2024-08-08 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-sampath-john-keells-176055/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.36 percent, or 40.82 points, at 11,253; while the more liquid S&P SL20 Index closed down 0.43 percent, or 13.74 points, at 3,210.
-
-One crossing, on Central Finance Plc, added Rs23mn to the turnover. The share closed down at 105.00 rupees.
-
-“There was very low activity, especially foreign, seen in the market today,” Softlogic Stockbrokers said.
-
-John Keells Holdings Plc saw foreign buying interest. The share closed up at 179.50. Its subsidiary John Keells Hotels Plc saw foreign selling. The hotel share closed down at 15.15.
-
-Other stocks that saw foreign buying interest were Sunshine Holdings Plc (down at 59.60) and People’s Leasing and Finance Plc (down at 12.00).
-
-Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc (up at 69.40), and SMB Finance Plc (up at 0.60).
-
-...
-
-[Data](articles/4c4b85ea.json)
-
-[Extended Data](ext_articles/4c4b85ea.ext.json)
 
 ---

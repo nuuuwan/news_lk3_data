@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 20:21:10**
+As of **2024-08-09 20:36:35**
 
 ## Newspaper Stats
 
-*Scraped **39,882** Articles*
+*Scraped **39,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,638
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,026
 virakesarilk | 6,324
-adaderanasinhalalk | 6,769
+adaderanasinhalalk | 6,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,879 (100.0%) of 39,882 articles have been extended.
+39,882 (100.0%) of 39,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### අමෙරිකාව අබිබවා චීනය පෙරමුණ අත්පත් කරගනී
+
+*2024-08-09 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199763) · `si`
+
+'පැරිස් 2024' ඔලිම්පික් උලෙළේ 14 වැනි දිනය වූ අද (09) දිනයේ මෙරට වේලාවෙන් ප.ව. 7.45ට වනවිට අවසන් වූ තරග ඉසව් අනුව අමෙරිකාව අභිබවා පදක්කම් සටහනේ පෙරමුණ අත්පත් කරගැනීමට චීනය සමත්ව වුණි.
+
+රන් පදක්කම් 31කට හිමිකම් කියන චීනය රිදී 25ක් හා ලෝකඩ 20ක් සමඟින් සමස්ත පදක්කම් 76ක් දිනාගෙන සිටී.
+
+අද පස්වරුව වනවිටත් මෙහි පෙරමුණ හිමිකර ගනිමින් චීනය සමඟින් කරට කර සටනක් දුන් අමෙරිකාව මේ වනවිට දෙවැනි ස්ථානය දක්වා පසුබැස ඇත.
+
+කෙසේ නමුත් ඔවුන්ද රන් පදක්කම් 30ක්, රිදී 38ක් හා ලෝකඩ 35ක් සමඟින් සමස්ත පදක්කම් 103කට හිමිකම් කියයි.
+
+මේ අතර ඔස්ට්‍රේලියාව තමත් තෙවැනි ස්ථානය රැකගෙන සිටින අතර, ඔවුන්ගේ පදක්කම් ලැයිස්තුව රන් 18ක්, රිදී 15ක් හා ලෝකඩ 14ක් සමඟින් පදක්කම් 47කින් සැරසී තිබේ.
+
+ඔස්ට්‍රේලියාවේ මෙම නැගීසිටීම හේතුවෙන් සත්කාරක ප්‍රංශයට තවමත් සිව්වැනි ස්ථානයේදී රැඳීසිටීමට සිදුව ඇති අතර, ඔවුන් රන් 14ක් සමඟින් මුළු පදක්කම් 55කට හිමිකම් කියයි.
+
+කෙසේ නමුත් බ්‍රිතාන්‍යයද රන් පදක්කම් 14ක් දිනාගෙන සිටින අතර, ඔවුන් දිනූ රිදී පදක්කම් ගණන 17ක් වූ හෙයින් පදක්කම් සටහනේ 05වැනි ස්ථානයේම රැඳී සිටීමට සිදුව ඇත.
+
+◼️
+
+[Data](articles/6be0acd4.json)
+
+---
 
 ### Hunger is non -party -the president
 
@@ -88,17 +112,27 @@ We called the tender e - passport together. Paid $ 5.89 to the old book. The new
 
 ---
 
-### ’’வெல்ல அல்ல சொல்ல’’:திலகர்
+### Tilakar
 
 *2024-08-09 18:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெல்ல-அல்ல-சொல்ல-திலகர்/76-341879) · `ta`
 
-சுதந்திர இலங்கையில் குடியுரிமை பறிக்கப்பட்டதால் மூன்று தசாப்த காலமாக பல அரசியல் உரிமைகள் மறுக்கப்பட்ட சமூகமாக வாழும் , மலையகத் தமிழரினத்தினை இலங்கையின் அர்த்தமுள்ள குடிகளாக ஆக்குவதற்கு அவசியமான தேசிய கொள்கைத் தீரமானங்களை கொள்கை வகுப்பாளர்களுக்கும், ஆட்சியாளர்களுக்கும் வலியுறுத்தும் விதமாக 2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தல் களத்தைப் பயன்படுத்தத் தீர்மானம் எடுத்துள்ளதாக மலையக அரசியல் அரங்கம் அறிவித்துள்ளது.
+The Upcountry Political Forum aims to highlight the needs of the mountain Tamil community in Sri Lanka through the 2024 presidential election, emphasizing the importance of national leaders addressing their political rights after decades of denial. Despite restrictions, Mayilwakanam Tilaka Raja, a former MP and key figure in the forum, will run as an independent candidate, marking a significant step in engaging with the political process. Raja, known for his activism since graduating in 2000, served as an MP from 2015 to 2020 and has been instrumental in establishing the 'Mountaineer Political Forum'. His efforts have included leading a nonviolent struggle against injustices and advocating for the rights of the Tamil community, particularly focusing on issues like labor conditions and local governance reforms.
 
-அரங்கத்தின் அந்த உயர்மட்ட தீர்மானத்தின் அடிப்படையில் எதிரவரும் ஜனாதிபதி தேர்தலில் அரங்கத்தின் தலைமை ஒருங்கிணைப்பாளரும் நுவரெலியா மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினருமான மயில்வாகனம் திலக ராஜா சுயாதீன வேட்பாளராக பங்கு பெறுவதற்கான  கட்டுப்பணம் செலுத்தப்பட்டுள்ளது.
+🟩
+
+The Upcountry Political Forum has announced that it has decided to use the presidential election in 2024 to emphasize the national policymakers and rulers that are needed to make the mountain Tamil people in the face of many political rights, which have been denied the political rights in Sri Lanka for three decades.
+
+Based on the high -level resolution of the stadium, the opposition and the chief coordinator of the stadium in the presidential election and former Nuwara Eliya district parliamentarian, Mayilwakanam Tilaka Raja, has been restricted to participating as an independent candidate.
+
+Raja Raja, who participates in the presidential election, is the first to win the presidential election, not to win the presidency, but for the first time in the presidential presidential presidential election.
+
+Tilak, who has been a complete literary, social and political activist since his graduation at the University of Colombo in 2000, has been a Member of Parliament for 2015-2020.
 
 ...
 
 [Data](articles/7e6ee771.json)
+
+[Extended Data](ext_articles/7e6ee771.ext.json)
 
 ---
 
@@ -1290,19 +1324,27 @@ The Supreme Court today (09th) today decided that the decision taken taken by Ma
 
 ---
 
-### எக்ஸ்பிரஸ் பேர்ள் கப்பல் விபத்து : முதல் கட்ட நட்டஈடாக 10.2 மில்லியன் டொலர் கிடைத்தது !
+### Express Pearl Ship: The first phase of compensation got $ 10.2 million!
 
 *2024-08-09 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190646) · `ta`
 
-எக்ஸ்பிரஸ் பேர்ள் கப்பல் விபத்தால் ஏற்பட்ட பாதிப்புக்கு கப்பல் நிறுவனம் முதல் கட்டமாக 10.2 மில்லியன் டொலரை முதற்கட்ட நட்டஈடாக வழங்கியுள்ளது. சட்டமா அதிபரின் அனுமதி இல்லாமல் நியூ டய்மன் கப்பலை இலங்கையின் கடல் எல்லையில் இருந்து வெளியேற்றிய நபர் எதிர்க்கட்சித் தலைவரின் கரங்களை பலப்படுத்த எதிர்க்கட்சியுடன் ஒன்றிணைந்துள்ளமை கவலைக்குரியது என நீதி இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்தார்.
+The Express Pearl shipping accident resulted in a $10.2 million compensation payout for its impact on Sri Lankan waters. The incident involved the New Taiman ship, which was removed without the Attorney General's permission, leading to legal action by the International Commerce Court in Singapore. The case is being handled by judges Tenon Rhodix and Towixon, with international legal advice sought. An interim assessment report on the environmental impact is pending public release due to ongoing court proceedings.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09) இடம்பெற்ற அமர்வின் போது இருபத்தேழு இரண்டின் கீழ் எதிர்க்கட்சித் தலைவர் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கை கடற்பரப்பில் தீ விபத்துக்குள்ளாகி மூழ்கிய எம்.வி.எக்ஸ்பிரஸ் பேர்ள் கப்பல் விவகாரம் மற்றும் ஏற்பட்ட இழப்புக்களுக்கு நட்டஈடு பெற்றுக்கொள்வதற்காக சட்டமா அதிபர் ஊடாக சிங்கப்பூர் நாட்டில்  சர்வதேச வணிக நீதிமன்றில் வழக்குத் தாக்கல் செய்யப்பட்டுள்ளது.
+The first phase of the shipment has been given $ 10.2 million in compensation for the impact of Express Pearl shipping accident.. The Minister of Justice Anuradha Jayaratne said that the person who had ousted the New Taiman ship from the Sri Lankan sea without the permission of the Attorney General was worried that the opposition had come together to strengthen the hands of the opposition leader.
+
+In response to questions posed by the opposition leader under twenty -seven during the session on Friday (09) in Parliament.
+
+The MVCFRSP, which was drowned in the Sri Lankan waters, has been sued by the International Commerce Court in Singapore through the Attorney General for compensation for the pearl ship and losses.
+
+Similarly, the owner of the shipping company has made a reply. The Attorney General has announced that it will make a reply on September 6 on behalf of Sri Lanka.
 
 ...
 
 [Data](articles/167fd87d.json)
+
+[Extended Data](ext_articles/167fd87d.ext.json)
 
 ---
 
@@ -1330,23 +1372,33 @@ Rohan P. Rupura, a doctor of the Karapitiya Teaching Hospital, said that abortio
 
 ---
 
-### கடுமையான தீர்மானங்கள் கட்டம் கட்டமாக மறுசீரமைக்கப்படும் - கல்வி அமைச்சர்
+### Strict resolutions will be reorganized as phased phase - Minister of Education
 
 *2024-08-09 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190647) · `ta`
 
-பங்களாதேஷ் நாட்டின் தற்போதைய நிலைமை இலங்கையில் தோற்றம் பெறும் சூழல் காணப்பட்ட போது தனி நபராகவே ஜனாதிபதி ரணில் விக்கிரமசிங்க சவால்களை பொறுப்பேற்றார்.
+In response to economic challenges, Sri Lanka's Minister of Education announced plans to reorganize strict resolutions in phases. President Ranil Wickremesinghe assumed leadership amidst protests and economic strain, emphasizing the importance of democracy. Despite needing significant international and national loans, the government remains committed to supporting plantation workers with a daily allowance, facing legal challenges from plantation companies.
 
-பாராளுமன்றம் முற்றுகையிடப்பட்டிருந்தால் இன்று எவரும் பாராளுமன்றத்துக்கு வருகை தந்திருக்க முடியாது. பொருளாதார மறுசீரமைப்புக்காக எடுக்கப்பட்ட தீர்மானங்கள் கட்டம் கட்டமாக மறுசீரமைக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (09)  இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
+President Ranil Wickremesinghe took over the challenges as an individual when the current situation in Bangladesh was seen in Sri Lanka.
 
-எரிபொருள்,எரிவாயு மற்றும் அத்தியாவசிய பொருட்களுக்கான வரிசை  தீவிரமடைந்தது.அனைத்து பகுதிகளிலும் போராட்டம் இவ்வாறான கடுமையான சூழ்நிலையில் தான் ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரமராக பதவியேற்றார்.
+If Parliament was besieged today, no one could have visited Parliament today. Minister of Education Susil Premajayantha said that the resolutions for the economic restructuring would be reorganized in the phase.
 
-போராட்டம் தீவிரமடைந்து ஆட்சிமாற்றம் ஏற்பட்டதன் பின்னர் இடைக்கால ஜனாதிபதியாக பதவியேற்றார்.பங்களாதேஸ் நாட்டின் பாராளுமன்றத்தை போராட்டகாரர்கள் முற்றுகையிட்டுள்ளனர்.2022 ஆம் ஆண்டு எமது பாராளுமன்றத்தை முற்றுகையிடுவதற்கும், சபாநாயகரின்  வாசஸ்தலத்தை  இடித்தழிப்பதற்கும்  ஒருதரப்பினர்  வருகை தந்தார்கள்.
+He was speaking at a special statement during a session held in Parliament on Friday (09).
+
+President Ranil Wickremesinghe was sworn in as a prince in all areas of the struggle.
+
+The protests have been taken as the interim president after the intensification of the struggle.
+
+If Parliament was besieged, no one would have come to Parliament today. No matter, everyone must remember the reality. The struggles against democracy will never succeed.
+
+Amidst the economic impact, there was a need for $ 53 billion international loans and 43 billion rupees national loans.
 
 ...
 
 [Data](articles/4aa3422f.json)
+
+[Extended Data](ext_articles/4aa3422f.ext.json)
 
 ---
 
@@ -2243,23 +2295,5 @@ In addition, medical experts have said that it is the duty of the parents to pro
 [Data](articles/7091efd1.json)
 
 [Extended Data](ext_articles/7091efd1.ext.json)
-
----
-
-### Parliamentary proceedings begun
-
-*2024-08-09 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199739) · `si`
-
-Today marks the start of parliamentary proceedings, including the appointment of the Speaker.
-
-🟩
-
-The appointment of the Speaker today (09) has commenced today.
-
-◼️
-
-[Data](articles/209ddd20.json)
-
-[Extended Data](ext_articles/209ddd20.ext.json)
 
 ---

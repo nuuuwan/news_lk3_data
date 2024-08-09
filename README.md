@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 02:54:42**
+As of **2024-08-10 03:06:08**
 
 ## Newspaper Stats
 
-*Scraped **39,914** Articles*
+*Scraped **39,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,422
-dailyftlk | 2,570
+dailyftlk | 2,578
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
@@ -26,11 +26,137 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,912 (100.0%) of 39,914 articles have been extended.
+39,914 (100.0%) of 39,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Road to COP29: Priorities and expectations for global climate negotiations in 2024
+
+*2024-08-10 02:45:21* · [`dailyftlk`](https://www.ft.lk/columns/Road-to-COP29-Priorities-and-expectations-for-global-climate-negotiations-in-2024/4-765377) · `en`
+
+COP29 stands at a critical juncture and could determine the way forward on issues such as climate finance
+
+On 11 November 2024, less than four months away, the 29th meeting of the Conference of the Parties (COP29) will begin in Baku, Azerbaijan. This event will bring together representatives of the almost 200 countries who are Parties to the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement, as well as thousands of other stakeholders including civil society, academia, trade unions, the private sector, youth, and media.
+
+...
+
+[Data](articles/60bdb236.json)
+
+---
+
+### New technologies and practices transforming green energy sector
+
+*2024-08-10 02:42:12* · [`dailyftlk`](https://www.ft.lk/columns/New-technologies-and-practices-transforming-green-energy-sector/4-765374) · `en`
+
+Renewable energy (RE) is clean, abundant, and sustainable but comes with its own challenges like intermittency, variability, cost, and integration.
+
+To overcome these, the sector is constantly innovating with newer technologies and practices to make it more cost and operationally effective.
+
+Fuel produced from green energy sources such as hydrogen, methane, ammonia, and ethanol are green in nature and these can be stored, transported, and used for various applications, such as transportation, heating, and industry. Many nations are building capacities for such fuel, and Sri Lanka too has huge potential to produce and export them.
+
+...
+
+[Data](articles/0a8de27c.json)
+
+---
+
+### Hayleys Solar commissions Sri Lanka’s largest solar-powered battery energy storage system
+
+*2024-08-10 02:38:15* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-commissions-Sri-Lanka-s-largest-solar-powered-battery-energy-storage-system/34-765372) · `en`
+
+Representatives from Watch Tower Bible and Tract Society of Lanka, Hayleys PLC, and the Ministry of Power and Energy Sri Lanka at the battery commissioning event
+
+Hayleys Solar, the leading player in Sri Lanka’s renewable energy industry and the renewable energy arm of Hayleys Fentons, has completed a groundbreaking project for the Watch Tower Bible and Tract Society of Lanka. The project establishes Sri Lanka’s largest non-government-funded battery energy storage system (BESS), powered by solar photovoltaic (PV) technology.
+
+...
+
+[Data](articles/510eb502.json)
+
+---
+
+### Ambewela delivers unmatched premium quality dairy products with its latest technology and innovation
+
+*2024-08-10 02:37:32* · [`dailyftlk`](https://www.ft.lk/business/Ambewela-delivers-unmatched-premium-quality-dairy-products-with-its-latest-technology-and-innovation/34-765371) · `en`
+
+Ambewela dairy products – manufactured by Lanka Milk Foods (CWE) PLC – is a household name synonymous with freshness and quality.
+
+Originating from Sri Lanka’s lushest highland pastures, each Ambewela product is the result of a meticulous process that ensures the highest quality dairy delights, from farm to family. The product range, which includes fresh milk, cheese, and yoghurt, consistently offers superior value and quality, making it one of Sri Lanka’s most beloved brands.
+
+In order to meet the most stringent modern standards, Ambewela Dairy Farms follow internationally-certified processes, where milk is rapidly cooled, stored, transported, and packed to maintain freshness. The entire process from milking to packing is swift and continuously monitored for quality. Any batch showing even minor deviations in lab results is rejected to ensure only the freshest, safest, and most nutritious products reach consumers.
+
+...
+
+[Data](articles/fb3679de.json)
+
+---
+
+### Sri Lanka – Greater Mekong Business Council meets Ambassador of Thailand
+
+*2024-08-10 02:36:49* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Greater-Mekong-Business-Council-meets-Ambassador-of-Thailand/34-765370) · `en`
+
+From left: Thai Embassy Secretary to the Ambassador Amare Wanigaratne, Thailand Counsellor to Sri Lanka Prangtip Kongridhisuksakorn, Noory Kiyas, SLGMBC Immediate Past President Ranil Seneviratne, SLGMBC Vice President Nimal Ratnayake, SLGMBC Committee Member Mahen Weerasekera, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, SLGMBC President S.M.D. Suriyakumara, SLGMBC Committee Member Tilak Gunawardane, SLGMBC Vice President  Jude Fernando, SLGMBC Committee Member Shaameel Mohideen, Ceylon Chamber of Commerce Secretariat Amanthi Silva, and Thai Embassy Member Patalee Warnakulasooriya
+
+The President and Executive Committee of the Sri Lanka – Greater Mekong Business Council (SLGMBC) of the Ceylon Chamber of Commerce recently held a meeting with Ambassador of Thailand Paitoon Mahapannaporn and Counsellor of Thailand to Sri Lanka Prangtip Kongridhisuksakorn.
+
+...
+
+[Data](articles/d6c9fe4f.json)
+
+---
+
+### Macktiles Lanka opens 36th showroom in Wattala
+
+*2024-08-10 02:36:09* · [`dailyftlk`](https://www.ft.lk/business/Macktiles-Lanka-opens-36th-showroom-in-Wattala/34-765369) · `en`
+
+Macksons Holdings Chairman Milfer Makeen (right) and Franchise Owner, Yohan Wickramasinghe (left) ceremonially opening the 36th showroom in Wattala
+
+Macktiles Lanka, a leading name in high-quality tiles since 2014, proudly announces the opening of its 36th showroom at 396, Negombo Road, Wattala.
+
+This new showroom marks another milestone in the company’s expansion and innovation journey, in partnership with Multilac.
+
+Residents in the locality can now access the exceptional range of Macktiles products along with lead-safe Multilac paints.
+
+The grand opening was held on 1 August and was attended by distinguished guests, including Macksons Holdings Chairman Milfer Makeen, who served as the Chief Guest. Other notable attendees included Head of Finance Aaqil Farhaz, Macktiles General Manager Niroshan Pananwala, Multilac General Manager Mihiran Opatha, Mans Lanka General Manager Ranjan Liyanage, Franchisee Yohan Wickramasinghe, and other dignitaries.
+
+...
+
+[Data](articles/10ef9519.json)
+
+---
+
+### Ubion and KOICA conduct Career Guidance Policy Workshop with key stakeholders of TVET Career Platform Project
+
+*2024-08-10 02:35:29* · [`dailyftlk`](https://www.ft.lk/business/Ubion-and-KOICA-conduct-Career-Guidance-Policy-Workshop-with-key-stakeholders-of-TVET-Career-Platform-Project/34-765368) · `en`
+
+Ubion, a Korean EdTech company, along with the Korea International Cooperation Agency (KOICA), in partnership with Sri Lanka’s Tertiary and Vocational Education Commission (TVEC), recently hosted the Career Guidance Policy Workshop at the Monarch Imperial Hotel on 16 July.
+
+The exclusive event hosted key stakeholders from the Education Ministry to discuss and review the recent implementation of the TVET Career Platform Project. This project aims to strengthen the capacity and expertise of CGOs in Sri Lanka to meet international best practices.
+
+The exclusive event was graced by the presence of Education Ministry Secretary J.M. Thilaka Jayasundara, Education Ministry Additional Secretary M. Samanthi Senanayake, Education Ministry Vocational Training Director Dimuthu Chandrasiri, and a plethora of other esteemed representatives from KOICA, TVEC, DTET, NYSC, NAITA, VTA, UCR, OCUSL, DOMP, ILO, NIE, and Ubion.
+
+...
+
+[Data](articles/9e3ad0db.json)
+
+---
+
+### People’s Bank offers sponsorship for Kandy Esala Perahera
+
+*2024-08-10 02:34:50* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-offers-sponsorship-for-Kandy-Esala-Perahera/34-765367) · `en`
+
+People’s Bank has yet again come forward to sponsor the historical Kandy Esala Perahera.
+
+The sponsorship cheque of People’s Bank was handed over to Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa by People’s Bank Kandy Regional Manager Nalin Potthewela. Assistant Regional Manager Shameera Kumarapeli, and Kandy Branch Senior Manager Prasanna Karunarathne were also present at the occasion.
+
+Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gratitude to People’s Bank for offering a sponsorship to strengthen this iconic cultural pageant which showcases and preserves invaluable customs and cultural practices.
+
+◼️
+
+[Data](articles/a9a81b24.json)
+
+---
 
 ### SC quashes recommendations by Upali Abeyratne Commission
 
@@ -45,6 +171,8 @@ The petitions were heard by a three-judge bench comprising Justices Vijith Malal
 ...
 
 [Data](articles/b3c406a9.json)
+
+[Extended Data](ext_articles/b3c406a9.ext.json)
 
 ---
 
@@ -67,6 +195,8 @@ Dissanayake vowed that these would be the final days where such crossovers are p
 ...
 
 [Data](articles/23990b54.json)
+
+[Extended Data](ext_articles/23990b54.ext.json)
 
 ---
 
@@ -2177,195 +2307,5 @@ Bandarikoda was the most votes in the Galle district list.
 [Data](articles/2d212fc5.json)
 
 [Extended Data](ext_articles/2d212fc5.ext.json)
-
----
-
-### “Leaving positions is not a big deal”
-
-*2024-08-09 12:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளைத்-துறப்பது-பெரிய-விடயமல்ல/175-341856) · `ta`
-
-Harin Fernando, former Minister of Tourism, Land, Sports, and Youth Affairs, reassured Tourism Board employees about the continuity of operations post his departure, emphasizing the stability of the nation's citizenship and his honest service over two years. He also highlighted the importance of officials adhering to their roles, regardless of changes in leadership.
-
-🟩
-
-Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando had done the best of four ministries.
-
-Speaking to the Tourism Board employees on Friday (09), Harin Fernando said that the High Court had been heading to the order issued by the High Court this morning, knowing that this could happen.
-
-He said the citizenship of the country could not be eliminated despite the dismissal of the minister, and said that he had acted honest in the two years of his tenure.
-
-He said that there is no need for officials, including the Chairman of the Tourism Board, and that the posts announced by the president will be carried out in the future.
-
-◼️
-
-[Data](articles/acf1a80b.json)
-
-[Extended Data](ext_articles/acf1a80b.ext.json)
-
----
-
-### Insomnia issue for 25 percent of children under one age - Medical experts report
-
-*2024-08-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190633) · `ta`
-
-Medical experts report that 25% of infants suffer from insomnia, leading to potential physical and mental issues. Despite limited local research, poor sleep hygiene, including excessive screen time, is identified as a significant factor. The World Health Organization recommends varying sleep durations based on age, emphasizing the importance of quality sleep for overall health. Recommendations include establishing regular sleep routines, minimizing screen time before bed, and ensuring a conducive sleep environment, especially in noisy or brightly lit areas.
-
-🟩
-
-25 percent of children under one adult face insomnia problems. This will lead to various physical and mental problems, said Dr. Inoga Wickremesinghe, Advisor of the Health Development Bureau.
-
-Although there are not much studies on sleep among children in the country, 25 percent of children under one age have a problem of insomnia.
-
-Sleep hygiene is a set of behavior and environmental practices that facilitate good sleep. These factors are habits that help with a good night's sleep.
-
-Earlier, it was customary to go to sleep and wake up when the sun rises.
-
-Prolonged use of artificial illumination and spending time on mobile phones, computers, debs, and television devices can affect people's sleeping systems.
-
-Several studies show that changes in sleep systems cause various physical, mental and social problems. Because of this, many measures have been taken to improve the health of the people.
-
-...
-
-[Data](articles/4d3ecbe0.json)
-
-[Extended Data](ext_articles/4d3ecbe0.ext.json)
-
----
-
-### Sri Lanka energy minister commends colleagues who lost their seat
-
-*2024-08-09 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-commends-colleagues-who-lost-their-seat-176157/) · `en`
-
-ECONOMYNEXT — Sri Lanka Power & Energy Minister Kanchana Wijesekara has spoken favourably of his cabinet colleagues Harin Fernando and Manusha Nanayakkara who lost their positions and seats in parliament following a Supreme Court verdict.
-
-“Both Fernando and Nanayakkara extended their support to President Ranil Wickremesinghe at a very critical time of the country. They both put their political careers on the line knowing this outcome in the hour of need,” Wijesekara tweeted hours after a verdict delivered Friday August 09 morning.
-
-Sri Lanka’s Supreme Court has upheld the expulsion of Manusha Nanayakkara and Harin Fernando from the main opposition Samagi Jana Balawegaya (SJB), lawyers said. Fernando and Nanayakkara  went to court against the decision by the SJB to expel them. A three judge bench, delivered the decision.
-
-...
-
-[Data](articles/280b0f60.json)
-
-[Extended Data](ext_articles/280b0f60.ext.json)
-
----
-
-### Political revenge Commission provides
-
-*2024-08-09 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199746) · `si`
-
-The Supreme Court, acting on recommendations from a commission set up by President Gotabhaya Rajapaksa to investigate political reprisals, ordered the government to compensate petitioners whose basic human rights were allegedly violated. This decision followed a lengthy trial where it was determined that the petitioners had been wronged by the actions of the commission.
-
-🟩
-
-The Supreme Court is the recommendations and former President of the Criminal Investigation Commission (CID) prescribed by President Gotabhaya Rajapaksa to investigate political retaliations.Determined.
-
-Accordingly, the petitioners ordered the government to pay the petitioners and the Supreme Court ordered the government.
-
-තමන්ට එරෙහිව අදාළ කොමිසම විසින් නිකුත් කළ නිර්දේශ සහ සොයා ගැනීම් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු මහාධිකරණ විනිසුරු පද්මිණී රණවක ගුණතිලක, හිටපු නාවික හමුදාපති ට්‍රැවිස් සින්නයියා, ආනන්ද විජේපාල, ජනාධිපති නීතිඥ උපුල් ජයසූරිය, සන්ධ්‍යා එක්නැලිගොඩ ඇතුළු පිරිසක් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ඉදිරිපත් කරHappened.
-
-The petitions were accused of the decision of the commission to issue the Commission to the issue of opinion and findings of the petitions.
-
-The petitioners also requested the court to promote the ruling that they have violated their basic human rights.
-
-...
-
-[Data](articles/c99298c2.json)
-
-[Extended Data](ext_articles/c99298c2.ext.json)
-
----
-
-### Monday decision on Ariyanendran
-
-*2024-08-09 12:32:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேந்திரன்-தொடர்பில்-திங்கள்-முடிவு-மாவை/175-341855) · `ta`
-
-The Tamil National Alliance (TNA) will decide on August 11th whether Ariyanendran, a central committee member, will run as their common candidate in the upcoming presidential election. This decision comes after Ariyanendran sought permission from TNA leader Mawai Senathirajah to contest as the party's general candidate. The party's central committee will convene to discuss this, reflecting the membership's prior decision to field a common candidate.
-
-🟩
-
-The Tamil National Alliance (TNA) leader Mawai Senathirajah has said that the decision will be taken on the 11th of the Tamil National Alliance (TNA) Central Committee member Ariyanendran, who is contesting as a common candidate in the presidential election.
-
-When he contacted the Tamil National Alliance (TNA) leader Mawai Senathirajah, he was asked to contest the 2024 presidential election as the general candidate of the party's central committee, Ariyanendran, before the TNA made any decisions on the presidential election.
-
-The party's central committee will meet on Sunday 11.08.2024 to discuss the election of the presidential election.
-
-He said that the party would discuss the matter as the party's membership decided to contest as a common candidate before the party took a stand.
-
-He said that Ariyanendran had come to meet me after the announcement as the common candidate.
-
-◼️
-
-[Data](articles/b56c8ca5.json)
-
-[Extended Data](ext_articles/b56c8ca5.ext.json)
-
----
-
-### Two new MPs for United People's Power: Bandula Lal Bandarigoda
-
-*2024-08-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190645) · `ta`
-
-The United People's Power party awaits the Election Commission's nomination to fill two vacant MP positions due to a High Court ruling. The party plans to discuss the selection process for the National List MP seat. This comes after the Supreme Court upheld the removal of Harin Fernando and Manusha Nanayakkara from the party, affecting their parliamentary seats.
-
-🟩
-
-The party's general secretary Ranjith Mathumapandara said that the vacancy of the United People's Power of Galle District, which is a vacuum issued by the High Court, is looking forward to the Election Commission's name to the Election Commission.
-
-Ranjith Mathuma Bandara also stated that the party's highlight will hold discussions on the vacant National List Member of Parliament.
-
-Two United People's Power Members of Parliament have been vacant as the Supreme Court has ruled that the United People's Sabha's decision to remove the government ministers Harin Fernando and Manusha Nanayakkara from party membership is legal.
-
-It is noteworthy that Manusha Nanayakkara contested the election and was elected to parliament and Harin Fernando gained parliamentary membership through the national list.
-
-◼️
-
-[Data](articles/4590054d.json)
-
-[Extended Data](ext_articles/4590054d.ext.json)
-
----
-
-### Court of Keheliya's request
-
-*2024-08-09 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199745) · `si`
-
-Keheliya Rambukwella, ex-Health Minister, had an order for remand issued but it was delayed due to a court postponement until September 4. The court, led by Judges Nissankula Karunaratne and Shashi Mahendran, also decided on whether the former minister could take an exam, with the outcome pending release details.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella has preserved the order of Former Health Minister Keheliya Rambukwella to be remanded to issue the order in the Maglakanda Magistrate's Court.
-
-However, President's Court, Judge Nissankula Karunaratne and Shashi Mahendran, the judge's panel of judges has been postponed until September 4.
-
-Also, the petition filed by the former Minister is permitted to take the examination?Not?The verdict will be published on the verdict and the decision to be released on bail.
-
-◼️
-
-[Data](articles/e574f76e.json)
-
-[Extended Data](ext_articles/e574f76e.ext.json)
-
----
-
-### The influence of the Supreme Court decision - I do not work in the post of minister today
-
-*2024-08-09 12:22:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණයේ-තීරණයේ-බලපෑම-ආණ්ඩුවට---මම-අද-ඉදන්-අමාත්‍ය-ධුරයේ-වැඩ-කරන්නේ-නෑ--මනූෂ/11-411274) · `si`
-
-Following a Supreme Court ruling, Sri Lanka's Minister Manusha Nanayakkara resigned from his position effective immediately. He cited the court's decision to lift the suspension against him and Harin Fernando, stating he could no longer serve due to his party's laws.
-
-🟩
-
-Minister Manusha Nanayakkara said he was not the ministerial post from today (09).
-
-He made this statement today as the Supreme Court today to hold the suspension of suspicion of reconciliation and Harin Fernando.
-
-My party membership abolished. It's okay. The reconciliation wanted to win. Their party law is right. So from today, I do not work as Minister. The cannot work as the Minister of Ministers.
-
-◼️
-
-[Data](articles/90fd9a84.json)
-
-[Extended Data](ext_articles/90fd9a84.ext.json)
 
 ---

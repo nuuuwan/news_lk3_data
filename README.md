@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 22:54:36**
+As of **2024-08-09 23:06:13**
 
 ## Newspaper Stats
 
-*Scraped **39,893** Articles*
+*Scraped **39,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,568
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,028
+tamilmirrorlk | 5,029
 virakesarilk | 6,324
 adaderanasinhalalk | 6,774
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,892 (100.0%) of 39,893 articles have been extended.
+39,893 (100.0%) of 39,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### දෙමළ පොදු අපේක්ෂකයාට දෙමළ සන්ධානයේ විරෝධය
+### TNA protests against Tamil common candidate
 
 *2024-08-09 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199767) · `si`
 
-ජනාධිපතිවරණය සඳහා දෙමළ පොදු අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට අවශ්‍යතාවක් නොමැති බව ඉලංකෙයි තමිල් අරසු කච්චි පාර්ලිමේන්තු මන්ත්‍රී ශානක්කියන් රාසමානික්කම් මහතා පවසයි.
+TNA protests against a Tamil common candidate for the presidency, citing lack of support from several parties. MP Shaansamanikkam argues Tamil voters aren't interested in a common candidate, preferring existing ones.
 
-කිසිදු ඡන්ද පදනමක් නොමැති පාර්ශව කිහිපයක් එක්ව ඊයේ (08) දිනයේ පොදු අපේක්ෂකයෙකු ප්‍රකාශයට පත් කිරීම අනුමත කළ නොහැකි බව මන්ත්‍රීවරයා පෙන්වාදෙයි.
+🟩
 
-ඊයේ දිනයේ උතුරු නැගෙනහිර පළාත් නියෝජනය කරන දේශපාලන පක්ෂ හා සංවිධාන කිහිපයක් එක්ව දෙමළ පොදු අපේක්ෂකයෙකු නම් කිරීම සම්බන්ධයෙන් මාධ්‍ය වෙත අදහස් දක්වමින් ශානක්කියන් රාසමානික්කම් මන්ත්‍රීවරයා මේ බව කියා සිටියේය.
+Illankai Tamil Arasa Kuleu Kachchi MP Shaansamanikkam says there is no need to present a Tamil candidate for the presidential election.
 
-"මේ පොදු අපේක්ෂකයා අවශ්‍ය නැති වැඩක් දෙමළ ජනතාවට. දෙමළ ජනතාවට කිසිම උනන්දුවක් නෑ පොදු අපේක්ෂකයෙක් අවශ්‍යයි කියලා. දැනට ඉදිරිපත් වෙලා ඉන්න අපේක්ෂකයින්ගෙන් එක්කෙනෙක් නියත වශයෙන්ම ජනාධිපති වෙනවා. ඡන්ද වෙන අයෙකුට යන එක වළක්වන්න වෙනත් අපේක්ෂකයෙකුගේ උවමනාවට ඉදිරිපත් වුණා කියලත් මතයක් තියෙනවා."
+The MP pointed out that a common candidate on the day yesterday (08) was not allowed to publish several parties lacking.
+
+Shaankian Rasmanikkam was speaking to the media regarding several political parties and organizations representing the North and East yesterday.
+
+"The Tamil people are no need for this common candidate. Tamil people have no interest in a common candidate. One of the currently present candidates is definitely president. There is a release that the other candidate came to someone else to prevent them from going. "
 
 ◼️
 
 [Data](articles/302688a6.json)
+
+[Extended Data](ext_articles/302688a6.ext.json)
 
 ---
 
@@ -79,6 +85,22 @@ They say that the meager earning occasionally earned from the rental job is unab
 [Data](articles/dd279eb0.json)
 
 [Extended Data](ext_articles/dd279eb0.ext.json)
+
+---
+
+### 16 வயது மாணவியை சீரழித்த 22 மாணவர்கள் - அதிர்ச்சி சம்பவம்
+
+*2024-08-09 22:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-மாணவியை-சீரழித்த-22-மாணவர்கள்-அதிர்ச்சி-சம்பவம்/175-341880) · `ta`
+
+தனமலவில பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் 11 ஆம் தரத்தில் கல்வி கற்கும் மாணவி ஒருவரை, ஒரு வருடமாக அதே பாடசாலையில் பயிலும் 22 மாணவர்கள் தொடர்ந்து பாலியல் துஷ்பிரயோகத்திற்கு உள்ளாக்கியுள்ளார்.
+
+அதன்படி, சம்பவத்தில் ஈடுபட்ட 22 மாணவர்கள் மற்றும் அதற்கு துணையாக இருந்த அனைவரையும் கைது செய்ய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+சம்பவம் தொடர்பான உண்மைகளை மறைத்தமைக்காக அந்த பாடசாலையின் அதிபர் உட்பட அனைவருக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/6cc17dcd.json)
 
 ---
 
@@ -2279,29 +2301,5 @@ The Presidential Commission of Inquiry to Investigate Allegations of Political V
 [Data](articles/2987813f.json)
 
 [Extended Data](ext_articles/2987813f.ext.json)
-
----
-
-### Unemployed graduates met Anura Kumara
-
-*2024-08-09 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190625) · `ta`
-
-Unemployed graduates from across Sri Lanka met Anura Kumara Dissanayake, President of the National People's Power and presidential candidate, discussing their issues and the party's policies at the People's Liberation Front headquarters.
-
-🟩
-
-Some unemployed graduates representing all districts of the country met with Anura Kumara Dissanayake as the President of the National People's Power and the Presidential candidate.
-
-The meeting was held at the headquarters of the People's Liberation Front on Thursday (08).
-
-During this time, unemployed graduates were discussed in detail the policy of the national people's power.
-
-It is also noteworthy that during the discussion on the problems faced by unemployed graduates so far, the solution.
-
-◼️
-
-[Data](articles/995bd1fc.json)
-
-[Extended Data](ext_articles/995bd1fc.ext.json)
 
 ---

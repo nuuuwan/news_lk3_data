@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 00:53:21**
+As of **2024-08-10 01:06:08**
 
 ## Newspaper Stats
 
-*Scraped **39,909** Articles*
+*Scraped **39,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,568
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,029
+tamilmirrorlk | 5,030
 virakesarilk | 6,331
 adaderanasinhalalk | 6,774
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,909 (100.0%) of 39,909 articles have been extended.
+39,909 (100.0%) of 39,910 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-10 (Saturday)
+
+### நீண்ட தூரம் பாய்ந்து விபத்துக்குள்ளான ஜீப் - மூவர் படுகாயம்
+
+*2024-08-10 00:26:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நீண்ட-தூரம்-பாய்ந்து-விபத்துக்குள்ளான-ஜீப்-மூவர்-படுகாயம்/73-341893) · `ta`
+
+மட்டக்களப்பு - கரடியனாறு பொலிஸ் பிரிவுக்குட்பட்ட மரப்பாலம் பகுதியில் ஜீப் ஒன்று விபத்துக்குள்ளானதில் மூவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+கண்டியிலிருந்து மட்டக்களப்புக்கு விடுமுறையை கழிக்கவந்த குடும்பம் ஒன்றின் ஜீப் வண்டியே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+இதன்போது ஜீப்பில் பயணித்த மூவர் படுகாயமடைந்த நிலையில் மகாஓயா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+குறித்த ஜீப் வண்டியில் ஐந்து பேர் பயணித்த நிலையில் விபத்தில் மூவர் படுகாயமடைந்துள்ளனர்.
+
+அதிகவேகமாக வந்த வாகனம் வேகத்தினை கட்டுப்படுத்த முடியாமல் நீண்ட தூரத்திற்கு பாய்ந்து சென்று விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/58116a87.json)
+
+---
 
 ### 2024-08-09 (Friday)
 
@@ -2329,31 +2351,5 @@ Diplomatic ministers who support presidential candidate Namal Rajapaksa are resi
 [Data](articles/a87261b3.json)
 
 [Extended Data](ext_articles/a87261b3.ext.json)
-
----
-
-### Ukrainian soldiers who moved to Russia's Garks area - heavy clashes for the third day
-
-*2024-08-09 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190640) · `ta`
-
-For the third day, Ukrainian soldiers in Russia's Garks and Carek areas clashed with Russian forces. Reports indicate Ukrainian advances towards a village in Garks, with control over parts of Sudja and clashes near Korenevo, 13 km from the border.
-
-🟩
-
-Ukrainian soldiers who have moved to Russia's Carek area have been involved in a clash with Russian soldiers for the third consecutive day.
-
-According to reports, Ukrainian soldiers are moving towards a village inside the Garks region.
-
-Russia's flocers have reported that clashes are taking place in Korenevo, 13 kilometers from the border.
-
-They said that the western part of Sudja, a distance of six kilometers within Russia, is under the control of the Ukrainian soldiers.
-
-Ukraine soldiers advanced to the northwest north of the Sudjah on Tuesday.
-
-◼️
-
-[Data](articles/0738fa32.json)
-
-[Extended Data](ext_articles/0738fa32.ext.json)
 
 ---

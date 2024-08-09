@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 17:36:37**
+As of **2024-08-09 17:57:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,857 (100.0%) of 39,859 articles have been extended.
+39,859 (100.0%) of 39,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ජනපති සටනට තවත් දෙදෙනෙක්
+### Two others to fight President
 
 *2024-08-09 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199760) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා නව සමසමාජ පක්ෂය වෙනුවෙන් වෘත්තිය සමිති නායක ප්‍රියන්ත වික්‍රමසිංහ මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+Priyantha Wickremesinghe, a trade union leader, has funded the New LSSP party to run in the upcoming presidential election. He was also present at the Rajagiriya election office where he posted bail earlier in the day. Another candidate, Keerthi Wickremaratne, has also made a deposit to participate in the race.
 
-රාජගිරියේ පිහිටි මැතිවරණ කාර්යාලයේදී ඔහු අද (09) දහවල් ඇප මුදල් තැන්පත් කිරීම සිදුකළ බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+🟩
 
-එමෙන්ම අපේ ජනබල පක්ෂය මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත්වීමට ඉංජිනේරු කීර්ති වික්‍රමරත්න මහතා වෙනුවෙන් අද දිනයේ ඇප මුදල් තැන්පත් කර තිබේ.
+Trade union leader Priyantha Wickremesinghe has deposited money for the New LSSP to contest the presidential election.
+
+At the election office in Rajagiriya, he had bailed the bail afternoon, "the Ada Derana reporter said.
+
+Our atologist Keerthi Wickremaratne has deposited today.
 
 ◼️
 
 [Data](articles/443fa858.json)
+
+[Extended Data](ext_articles/443fa858.ext.json)
 
 ---
 
@@ -116,19 +122,25 @@ The State Counseling stated in court, two police officers have been deployed to 
 
 ---
 
-### රාජ්‍ය මූල්‍ය කළමනාකරණ පනත බලාත්මක කෙරේ
+### The Fundamental Management Act is implemented
 
 *2024-08-09 16:33:16* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනත-බලාත්මක-කෙරේ/11-411278) · `si`
 
-ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව අනුව, තමා විසින් 2024 අගෝස්තු 08 දින “රාජ්‍ය මූල්‍ය කළමනාකරණ” නමැති  පනත් කෙටුම්පතෙහි සහතිකය සටහන් කරන ලද බව කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතා අද (09) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+The Fundamental Management Act became law as Fiscal Act No 44 on August 44, 2024, after being introduced to Parliament on May 22, 2024, and amended before passage on July 25.
 
-ඒ අනුව උක්ත පනත් කෙටුම්පත 2024 අංක 44 දරන රාජ්‍ය මූල්‍ය කළමනාකරණ පනත ලෙස 2024 අගෝස්තු 08 වැනි දින සිට බලාත්මක වේ.
+🟩
 
-උක්ත  පනත් කෙටුම්පත 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර එය පසුගිය ජූලි 25 වැනිදා ඡන්ද විමසීමකින් තොව සංශෝධන සහිතව සම්මත විය.
+The Hon.
+
+Accordingly, the above Bill is in effect as the Fiscal Act No 44 of 44th August 2024.
+
+The above Bill was presented to Parliament on May 22, 2024, and was passed with amendment with amendment on July 25.
 
 ◼️
 
 [Data](articles/c422c199.json)
+
+[Extended Data](ext_articles/c422c199.ext.json)
 
 ---
 

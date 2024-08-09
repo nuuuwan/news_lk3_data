@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 06:03:38**
+As of **2024-08-09 07:03:02**
 
 ## Newspaper Stats
 
-*Scraped **39,724** Articles*
+*Scraped **39,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,165 @@ bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,285
 economynextcom | 2,410
-dailyftlk | 2,551
+dailyftlk | 2,559
 adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,001
 virakesarilk | 6,296
-adaderanasinhalalk | 6,737
+adaderanasinhalalk | 6,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,724 (100.0%) of 39,724 articles have been extended.
+39,724 (100.0%) of 39,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### ප්‍රදේශ රැසකට තද වැසි
+
+*2024-08-09 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199730) · `si`
+
+අද (09) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/0fe2c2f9.json)
+
+---
+
+### Economic Transformation Act repeals BOI Law
+
+*2024-08-09 06:12:11* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Act-repeals-BOI-Law/4-765312) · `en`
+
+The repeal of the BOI Law does not mean scrapping/termination of the tax holidays and concessions that have already been granted
+
+The Economic Transformation Bill was issued by way of Gazette on 14 May 2024 and was passed in Parliament on 25 July 2024. The Act is still not available publicly and this article is based on the Economic Transformation Bill.
+
+The Economic Transformation Act (ETA) is to provide for the National Policy on Economic Transformation and for the Establishment of the Economic Commission of Sri Lanka, Investment Zones in Sri Lanka, office for International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and International Trade.
+
+...
+
+[Data](articles/9a0315be.json)
+
+---
+
+### Adapting concepts of Islamic Finance to an effective debt restructuring mechanism
+
+*2024-08-09 06:07:51* · [`dailyftlk`](https://www.ft.lk/columns/Adapting-concepts-of-Islamic-Finance-to-an-effective-debt-restructuring-mechanism/4-765311) · `en`
+
+Islamic Finance (IF) is based on the Shariah principles which are interpreted via Quran and Sunnah. It is operated currently globally not only in Muslim countries, in other Western and Eastern countries which are based on conventional banking principles. Hence, it is imperative to analyse how the IF can be adopted as a global financial system in order to address most of the current economic hazards in the world.
+
+In Islam, it highly considers that the resources are needed to fulfil the material requirements of both individual and society. The high concern and knowledge on these ethical principles are directed to the personal and societal justice and tranquillity which is the way to the fair financial system. Especially, in the event of handling the distressed customers in the financial institutions, the principles of IF can be successfully adapted.
+
+...
+
+[Data](articles/2bd40962.json)
+
+---
+
+### People will vote RW out of gratitude – Ruwan Wijewardene
+
+*2024-08-09 06:00:19* · [`dailyftlk`](https://www.ft.lk/news/People-will-vote-RW-out-of-gratitude-Ruwan-Wijewardene/56-765310) · `en`
+
+UNP Deputy leader Ruwan Wijewardene says party will fully back President
+
+Assures Wickremesinghe’s victory is secure as people will support him as a gesture of gratitude
+
+Expresses belief that Wickremesinghe should be allowed another five years to carry out his program to rebuild nation
+
+United National Party (UNP) Deputy leader Ruwan Wijewardene has expressed strong confidence that Sri Lankan voters will support President Ranil Wickremesinghe in the upcoming 21 September election out of gratitude.
+
+...
+
+[Data](articles/c294fe42.json)
+
+---
+
+### Presidential race expands to 24 candidates
+
+*2024-08-09 05:58:59* · [`dailyftlk`](https://www.ft.lk/news/Presidential-race-expands-to-24-candidates/56-765309) · `en`
+
+Two more Presidential hopefuls submitted their cash deposits at the Election Commission of Sri Lanka yesterday ahead of the 15 August deadline.
+
+Accordingly, deposits were placed for two independent candidates, former United National Party (UNP) MPs Anura Sidney Jayarathne and D.M. Bandaranaike.
+
+With the addition of Jayarathne and D.M. Bandaranaike, the number of Presidential hopefuls now stands at 24.
+
+Candidates who pla-ced deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, Field Marshal Sarath Fonseka, Wijeyadasa Rajapakshe, Sarath Keerthirathne, Oshala Herath, A.S.P Liyanage, P.W.S.K Bandaranayake and K.K Piyadasa, Siritunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Akmeemana Dayaratna Thera, Battaramulle Seelaratne Thera and several others.
+
+...
+
+[Data](articles/61463658.json)
+
+---
+
+### Pavithra to back RW for Presidency
+
+*2024-08-09 05:58:28* · [`dailyftlk`](https://www.ft.lk/news/Pavithra-to-back-RW-for-Presidency/56-765308) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Ratnapura district stalwart Pavithradevi Wanniarachchi will back President Ranil Wickremesinghe in the upcoming Presidential election.
+
+In a statement, Wanniarachchi who is also the Irrigation, Wildlife and Forest Resources Conservation Minister said she had arrived at the decision to support Wickremesinghe after lengthy discussions with party members, social activists, and other parties.
+
+Over 92 Government MPs have already declared their support for Ranil Wickremesinghe, openly defying the SLPP’s decision to nominate Namal Rajapaksa as its Presidential candidate. This growing faction of MPs, including Pavithra Wanniarachchi, signals a significant split within the party, as many choose to back Wickremesinghe’s independent candidacy over the SLPP’s official nominee.
+
+...
+
+[Data](articles/ebe06688.json)
+
+---
+
+### P. Ariyanethran announced as Tamil common candidate
+
+*2024-08-09 05:57:17* · [`dailyftlk`](https://www.ft.lk/news/P-Ariyanethran-announced-as-Tamil-common-candidate/56-765307) · `en`
+
+Former Member of Parliament P. Ariyanethran has announced his candidacy for the upcoming Presidential election as the Tamil common candidate. The announcement was made at an event held in Jaffna yesterday.
+
+Ariyanethran will run as the representative of an alliance comprising seven Tamil political parties from the Northern and Eastern provinces, alongside various civil organisations.
+
+...
+
+[Data](articles/9fcb8a66.json)
+
+---
+
+### Emil Ranjan Lamahewa acquitted from Welikada Prison massacre case
+
+*2024-08-09 05:56:05* · [`dailyftlk`](https://www.ft.lk/news/Emil-Ranjan-Lamahewa-acquitted-from-Welikada-Prison-massacre-case/56-765306) · `en`
+
+The Supreme Court has acquitted Former Commissioner of Prisons Emil Ranjan Lamahewa in the Welikada Prison Massacre case. The decision was handed down yesterday by a panel of five judges, who ruled in favour of Lamahewa’s appeal against his previous sentence.
+
+Lamahewa was indicted in July 2019 and charged with 33 counts, including the murders of eight prisoners, conspiracy and unlawful assembly. In January 2022 Lamahewa was sentenced to death by the Colombo High Court Trial-at-Bar over the killing of eight inmates on 9 November 2012.
+
+The horrific incident unfolded when hundreds of Special Task Force (STF) officers from the police force stormed Welikada Prison in Colombo, under orders to conduct a search for illegal mobile phones and recreational drugs. The operation quickly escalated, with prisoners reportedly being assaulted and tear gas fired into closed cells, creating a highly volatile situation.
+
+...
+
+[Data](articles/48b61d82.json)
+
+---
+
+### Foreign Minister Ali Sabry to visit Egypt
+
+*2024-08-09 05:54:56* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Ali-Sabry-to-visit-Egypt/56-765305) · `en`
+
+Foreign Minister Ali Sabry will pay an official visit to Egypt from 7 – 9 August 2024 on the invitation of Egyptian Foreign Minister Badr Abdelatty.
+
+During the visit, he will hold bilateral discussions with his counterpart at the Foreign Affairs Ministry in Cairo and also meet with Investment and Foreign Trade Minister of Egypt. Minister Sabry is also expected to have discussions at the Federation of Egyptian Chambers of Commerce and meet with several other dignitaries, with a view to strengthening the multifaceted relations between the two countries. The bilateral visit is expected to further consolidate the longstanding ties between Sri Lanka and Egypt.
+
+◼️
+
+[Data](articles/4fde0d5d.json)
+
+---
 
 ### Factum Perspective: Ukraine - Strategic and Technical Hothouse
 
@@ -2205,199 +2347,5 @@ The US dollar purchasing price was Rs 297.0104 and the sales price were Rs 306.2
 [Data](articles/9ddfcf37.json)
 
 [Extended Data](ext_articles/9ddfcf37.ext.json)
-
----
-
-### இன்றைய தங்க விலைச் சுட்டெண்
-
-*2024-08-08 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190563) · `ta`
-
-Today, 24 grams of gold costs 24,687 rupees, while one pound (approximately 373 grams) costs 197,500 rupees. Additionally, 22 grams of gold is priced at 22,837 rupees, and one pound (about 373 grams) of 22-carat gold is available for 182,700 rupees.
-
-🟩
-
-The All Ceylon Jewelry Merchants Association said that 24 grams of gold will be sold at 24,687 rupees and 24 grams of gold (one pound) gold at 197,500 rupees.
-
-In addition, 22 grams of gold is sold at 22,837 rupees and 22 carat 8 grams (one pound) gold at 182,700 rupees, the association added.
-
-◼️
-
-[Data](articles/e22e56aa.json)
-
-[Extended Data](ext_articles/e22e56aa.ext.json)
-
----
-
-### Punishment for three cricket corrupt
-
-*2024-08-08 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199705) · `si`
-
-The International Cricket Council (ICC) punished three individuals involved in corruption allegations related to the Abu Dhabi T10 League. The first person received a five-year ban from cricket, while the other two were banned for two years each. These bans took effect on September 19, 2023.
-
-🟩
-
-The International Cricket Council (ICFI) has taken steps to punish three accused of claiming that Abu Dhabi T10 League was carried out.
-
-The first offered the Devil's Shawdrator, and the owners of the group, were the owners of the group, and the owners of the group, and the owners of the group.
-
-Accordingly, Sidi had banned 5 years cricket and the other two banned cricket for two years.
-
-The ICC announced that the punishment was effect on September 19, 2023. Accordingly, Sinaran Chadri has been involved in the 19th of September 19, 2023 and to cricket.
-
-◼️
-
-[Data](articles/f3d8b88f.json)
-
-[Extended Data](ext_articles/f3d8b88f.ext.json)
-
----
-
-### The presidential election manager represents Tamil parties
-
-*2024-08-08 12:22:19* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-පක්ෂ-නියෝජනය-කරන-ජනාධිපතිවරණ-අපෙක්ෂකයා-නම්-කරයි/11-411262) · `si`
-
-The Tamil National Alliance (TNA), representing Tamil parties and civil groups from Northern and Eastern Sri Lanka, has nominated Pashnananthan as its candidate for president.
-
-🟩
-
-The Presidential General Alliance (TNA) Presidential General Alliance (TNA) has named the TNA, which created Tamil parties and civil organizations of the North and East.
-
-Accordingly, Tamil Arasu Kilageda Kachchi has been named PSPAshanan.
-
-◼️
-
-[Data](articles/7e16893d.json)
-
-[Extended Data](ext_articles/7e16893d.ext.json)
-
----
-
-### United People's Alliance (Video)
-
-*2024-08-08 12:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-கூட்டணியின்-காணொளி/175-341804) · `ta`
-
-The United People's Alliance, led by Samaki Jan. Balaveka, launches at Sugathadasa Indoor Stadium in Colombo to support presidential candidate Sajith Premadasa.
-
-🟩
-
-The launch of the United People's Alliance (UPFA) headed by Samaki Jan. Balaveka is being held at the Sugathadasa Indoor Stadium in Colombo for the success of the presidential candidate Sajith Premadasa.
-
-◼️
-
-[Data](articles/320459dc.json)
-
-[Extended Data](ext_articles/320459dc.ext.json)
-
----
-
-### United People's Power Election Alliance Agreement signed
-
-*2024-08-08 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190556) · `ta`
-
-The United People's Power Election Alliance Agreement was signed on Thursday, involving key opposition parties like the United People's Alliance, Tamil Progressive Alliance, Independent People's Congress, and others. Notably, the All Ceylon People's Congress, which previously supported the alliance, has yet to announce its decision for the upcoming elections.
-
-🟩
-
-The signing of a deal with the main opposition United People's Alliance (UPFA), aimed at the presidential election, took place on Thursday (08).The event was held at the Sugathadasa Indoor Stadium in Colombo.
-
-Accordingly, key parties, including the United People's Power, Mano Ganesha, led by Opposition Leader Sajith Premadasa, the Tamil Progressive Alliance led by Mano Ganesha, the Independent People's Congress led by Dullas Alagapperuma and the Sri Lanka Freedom Party Dayasiri Jayasekera's party.
-
-All Ceylon People's Congress led by Rishad Bathiudeen worked with the United People's Alliance in previous elections. However, this time the party did not announce such a resolution. It is noteworthy that the next week it is reported that they will announce who will support.
-
-◼️
-
-[Data](articles/19d26a4f.json)
-
-[Extended Data](ext_articles/19d26a4f.ext.json)
-
----
-
-### Sri Lanka’s Sampath Bank to raise upto Rs10bn in debenture issue
-
-*2024-08-08 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-to-raise-upto-rs10bn-in-debenture-issue-176001/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sampath Bank Plc said it will issue 100 million debentures at 100 rupees each to raise 10 billion rupees.
-
-The bank will issue up to 50,000,000 Basel III compliant – tier 2, listed, rated, unsecured, subordinated, redeemable, 5-year debentures with a non-viability conversion at 100 rupees each to raise 5 billion rupees initially.
-
-“With an option to issue up to a further 20,000,000 of said debentures to increase the said sum by up to a further
-
-Rs.2,000,000,000 at the discretion of the Bank in the event of an oversubscription of the initial issue,” the bank said in a stock exchange filing.
-
-There would be a further issue of 30,000,000 more debentures to increase the sum by another 3 billion rupees, “in the event of an oversubscription of the initial issue and the second tranche.”
-
-The proposed debenture issue is subject to obtaining all necessary regulatory and shareholder approvals, and
-
-The share was trading up at 74.50 on Thursday. (Colombo/Aug8/2024)
-
-◼️
-
-[Data](articles/e7c1d197.json)
-
-[Extended Data](ext_articles/e7c1d197.ext.json)
-
----
-
-### Pavithra Wanniarachchi decides to support Ranil at prez poll
-
-*2024-08-08 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101079/pavithra-wanniarachchi-decides-to-support-ranil-at-prez-poll) · `en`
-
-Minister Pavithra Wanniarachchi has decided to support President Ranil Wickremesinghe, who is contesting the upcoming Presidential Election as an independent candidate.
-
-She stated that she reached this decision based on the requests of the majority of Sri Lanka Podujana Peramuna (SLPP) members and supporters in the Ratnapura District.
-
-Pavithra Wanniarachchi decides to support Ranil at prez poll by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/3846b14b.json)
-
-[Extended Data](ext_articles/3846b14b.ext.json)
-
----
-
-### Two motorcycles collided with Mahiyangana;One death!
-
-*2024-08-08 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190553) · `ta`
-
-In a tragic accident on the Mahiyanganaya road, two motorcycles collided, resulting in one fatality and injuries. A 48-year-old man from Viranagama died, while another victim remains hospitalized. The victims, who worked in Colombo, were on a vacation trip. Investigations are ongoing under the direction of local authorities.
-
-🟩
-
-A driver was killed and the other was injured when two motorcycles collided with two motorcycles on Wednesday evening at the Mahiyanganaya, Grandurukottai - Divula Belsa main road.
-
-A 48 -year -old man from Viranagama area has died in the accident, police said.
-
-Police said that the victims were working in Colombo and were on a motorbike for a vacation for a vacation.
-
-One person has already died when the two injured were taken to the Grandurukottai initial hospital.
-
-Grandurukottai Police are conducting investigations on the directives of Badulla District Deputy Inspector General of Police Sujith Vedamulla and Senior Superintendent of Police Vasantha Kandewatta.
-
-◼️
-
-[Data](articles/ca635350.json)
-
-[Extended Data](ext_articles/ca635350.ext.json)
-
----
-
-### Tamil General candidate Ariyanethran
-
-*2024-08-08 11:55:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பொது-வேட்பாளர்-அரியநேத்திரன்/175-341802) · `ta`
-
-P. Ariyanethran, a former parliamentarian from Batticaloa, has been named the Tamil general candidate for the upcoming presidential election.
-
-🟩
-
-Former parliamentarian P. Ariyanethran has been announced as the Tamil general candidate in the presidential election.
-
-It is noteworthy that Ariyanethran served in Parliament after being selected from the Batticaloa district.
-
-◼️
-
-[Data](articles/904860ad.json)
-
-[Extended Data](ext_articles/904860ad.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 10:55:01**
+As of **2024-08-09 11:07:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,779 (100.0%) of 39,781 articles have been extended.
+39,781 (100.0%) of 39,781 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,27 +48,37 @@ On July 18, 2023, the Working Committee of the SJB decided to expel party member
 
 [Data](articles/863a05e5.json)
 
+[Extended Data](ext_articles/863a05e5.ext.json)
+
 ---
 
-### මෝදිගෙන් බංග්ලාදේශයට පණිවුඩයක්
+### Message from Modi to Bangladesh
 
 *2024-08-09 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199741) · `si`
 
-නොබෙල් ත්‍යාගලාභී මුහම්මද් යූනුස් බංග්ලාදේශයේ අන්තර්වාර රජයේ ප්‍රධානියා ලෙස වගකීම් භාර ගැනීම ගැන ඉන්දියාව සතුටු වන බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි පවසා තිබේ.
+India, under PM Narendra Modi, has taken over the Nobel Peace Prize responsibilities from Muhammad Yunus, emphasizing support for Bangladesh's Hindu minority and commitment to peace, safety, and development. The move follows the collapse of Bangladesh's government, with PM Sheikh Hasina fleeing and President Mohammed Shahjahan dissolving Parliament. Yunus, a Nobel laureate and economic expert, is set to lead the interim government until new leadership is established.
 
-එමෙන්ම බංග්ලාදේශය ඉක්මනින් යථාතත්ත්වයට පත් කිරීම සහ හින්දු සුළුතරයේ ආරක්ෂාව සහතික කිරීම වැදගත් බවද ඉන්දීය අග්‍රාමාත්‍යවරයා අවධාරණය කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+🟩
 
-ඒ, සම්බන්ධයෙන් අදහස් පළ කරමින් ඉන්දීය අග්‍රාමාත්‍යවරයා සිය  X ගිණුමේ සටහනක් ද තබා තිබේ.
+Indian Prime Minister Narendra Modi has said that India is pleased to take over responsibilities as the Nobel Prizest of Muhammad Uunus in Interim State of the Interim Government in Bangladesh.
 
-එහි තවදුරටත් දැක්වෙන්නේ සාමය, ආරක්‍ෂාව සහ සංවර්ධනය සඳහා දෙපාර්ශ්වයේම පොදු අභිලාෂයන් ඉටු කිරීම සඳහා බංග්ලාදේශය සමග කටයුතු කිරීමට ඉන්දියාව කැපවී සිටින බවය.
+The Indian Prime Minister has said that it is also important that Bangladesh is the key to the recovery of the Hindu Minority and ensure the security of the Hindu Minority.
 
-බංග්ලාදේශ අගමැතිනී ෂෙයික් හසීනා ධුරයෙන් ඉල්ලා අස්වී රටින් පළායාමත් සමග ආණ්ඩුව බිඳ වැටුණු අතර, එරට පාර්ලිමේන්තුව ද විසුරුවා හැරීමට ජනාධිපති මොහොමඩ් ෂහාබුද්දීන්ට සිදුවුණි.
+The Indian Prime Minister has also held his XCE.
 
-ඒ සමග ඇති වූ හමුදා පාලනය ප්‍රතික්ෂේප කළ විරෝධතාකරුවන්ගේ ඉල්ලීම අනුව මුහම්මද් යූනුස් ට මෙම තනතුර හිමිවිය.
+It further states that India is committed to deal with Bangladesh to fulfill the common aspirations of both sides for peace, safety and development.
+
+The government collapsed with Bangladesh Prime Minister Sheikh Haseani and fleeing the country, and President Mohammed Shahanina had to dissolve the Parliament.
+
+Muhammad Yunes, according to the request of the protesters who had rejected the military control, was held.
+
+Uunus, a Nobel Peace Prize Recipient, is an economic expert in Bangladesh and a social entrepreneur and a powerful rival of Haseani.
 
 ...
 
 [Data](articles/5a5252de.json)
+
+[Extended Data](ext_articles/5a5252de.ext.json)
 
 ---
 

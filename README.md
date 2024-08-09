@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 09:36:22**
+As of **2024-08-09 09:55:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,765 (100.0%) of 39,770 articles have been extended.
+39,770 (100.0%) of 39,770 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,45 +50,59 @@ According to Sections 41 and 111 of the Anti-Corruption Act, failing to return s
 
 [Data](articles/3af98f72.json)
 
+[Extended Data](ext_articles/3af98f72.ext.json)
+
 ---
 
-### පාකිස්තානය පළමු මලල ක්‍රීඩා රන් පදක්කම දිනයි
+### Pakistan wins first athletic gold medal
 
 *2024-08-09 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199737) · `si`
 
-ඔලිම්පික් ඉතිහාසයේ පාකිස්තානයට පළමු මලල ක්‍රීඩා රන් පදක්කම හිමිකර දීමට හෙල්ල විසිකිරීමේ ක්‍රීඩක අර්ශාඩ් නදීම් අද සමත් වුණි.
+In a historic moment for Pakistan, athletes clinched their first-ever Olympic gold medal in the javelin throw event at the Paris Olympics. This achievement follows their successful participation in the Tokyo Olympics, where they made significant strides. The victory marks a pivotal moment in Pakistan's Olympic history, showcasing the country's growing prowess in athletics.
 
-ඒ, පැරිස් ඔලිම්පික් උළෙලේ පිරිමි හෙල්ල විසිකිරීමේ ඉසව්වේදී ගියවර ඔලිම්පික් ශූරයා වූ ඉන්දියාවේ නීරාජ් චොප්රා අබිබවා ගොස් එම ඉසව්වේ රන් පදක්කම හිමි කරගනිමින්.
+🟩
 
-ටෝකියෝ ඔලිම්පික් උළෙලේදී මෙන්ම මෙවරත් පිරිමි හෙල්ල විසිකිරීමේ ඉසව්වේදී වැඩි අවධානයක් යොමු වූයේ පසමිතුරු රටවල් දෙකක් වන ඉන්දියාවේ සහ පාකිස්තානයේ ක්‍රීඩකයින් දෙදෙනා වෙතය.
+Jarlla throaling players were managed to hold the first athletic gold medal in Pakistan in the Olympic History.
 
-පාකිස්තානයේ අර්ශාඩ් නදීම් සිය දෙවන උත්සාහයේදීම මීටර 92යි දශම 9යි 7ක දුරක් වාර්තා කරමින් එම ඉසව්වේ වසර 16ක් පැරණි ඔලිම්පික් වාර්තාව බිඳ දැමීය.
+The Olympic Champion Event at the Paris Olympics emergency, and the Olympic Champion Event went up and acquitted the gold medal in the event.
 
-එම දක්ෂතාව නදීම්ට හෙල්ල විසිකිරීමේ ඉසව්වේ රන් පදක්කම හිමිකර ගැනීමට ප්‍රමාණවත් වුණි.
+At the Tokyo Olympics and this year, the men's spelling event was focused on the two-day and two players in Pakistan.
 
-ඒ අනුව අර්ශාඩ් නදීම් හිමිකරගත් රන් පදක්කම වාර්තා අතරට එක්වූයේ පාකිස්තානය මලල ක්‍රීඩා ඉසව්වකින් හිමිකරගත් පළමු රන් පදක්කම ලෙසය.
+At the second attempt at Pakistan's second attempt broke the 16th Olympic Report in the event.
 
-ගියවර ඔලිම්පික් ශූරයා වූ නීරාජ් චොප්‍ රා මීටර 89යි දශම 4යි 5ක දක්ෂතාවක් දක්වමින් රිදී පදක්කම හිමිකර ගත්තේය.
+Taxes were sufficient to hold the gold medal in the spear throw event.
+
+According to the gold medal, which polled at Vishad dash, was the first gold medal with Pakistan.
+
+The Olympic Champion Neraj Chop, 89mm, 4 and 4 decimals were talented.
 
 ◼️
 
 [Data](articles/ccbd5dcc.json)
 
+[Extended Data](ext_articles/ccbd5dcc.ext.json)
+
 ---
 
-### ට්‍රම්ප් සහ කමලා අතර විවාදයට දින තීන්දු වෙයි
+### Deposits between Trump and Camin
 
 *2024-08-09 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199736) · `si`
 
-අමෙරිකානු හිටපු ජනාධිපති රිපබ්ලිකන් අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් සහ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂිකා කමලා හැරිස් අතර පළමු විවාදය සැප්තැම්බර් 10 වනදා පැවැත්වීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Donald Trump announced readiness for a pre-election debate with Democratic candidate Kamala Harris, setting a potential date of September 10th.
 
-ඩොනල්ඩ් ට්‍රම්ප් සිය X ගිණුමේ සටහනක් තබමින් පසුගියදා පැවසුවේ නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිත එරට ජනාධිපතිවරණයට පෙර ඩිමොක්‍රටික් පක්ෂ ප්‍රතිවාදියා පිළිබඳ විවාද කිරීමට තමා සුදානම් බවය.
+🟩
 
-මීට පිළිතුරු දෙමින් ඩිමොක්‍රටික් පක්ෂ ජනාධිපති අපේක්ෂිකා කමලා හැරිස් උත්සවයකට එක්වෙමින් පවසා ඇත්තේ ඩොනල්ඩ් ට්‍රම්ප් සමග විවාදයට තමා සුදානම් බවත්, ඊට සැප්තැම්බර් 10 වන දින යොදාගත හැකි බවය.
+Foreign media reports that the first debate between the former US Presidential Republican Candidate Donald Trump and Democratic Party candidate Kamala Harris, foreign media reports.
+
+Donald Trump puts a note in his X account, said he was ready to debate the Democratic Party (Democratic Party) before the presidential election to be held in November.
+
+Responding, the Democratic Party Presidential candidates said he was ready to debate with Donald Trump and that it could be used on September 10.
 
 ◼️
 
 [Data](articles/0ffc4743.json)
+
+[Extended Data](ext_articles/0ffc4743.ext.json)
 
 ---
 
@@ -108,6 +122,8 @@ Accordingly, it is planned to import around 30 million eggs per month.
 
 [Data](articles/ccddb740.json)
 
+[Extended Data](ext_articles/ccddb740.ext.json)
+
 ---
 
 ### Grama Niladhari officers raise concerns over polling stations
@@ -123,6 +139,8 @@ He further said that arrangements should be made to provide a sufficient allowan
 ◼️
 
 [Data](articles/e791c118.json)
+
+[Extended Data](ext_articles/e791c118.ext.json)
 
 ---
 

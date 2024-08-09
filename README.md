@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 08:55:36**
+As of **2024-08-09 09:07:12**
 
 ## Newspaper Stats
 
-*Scraped **39,762** Articles*
+*Scraped **39,765** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 341
+dbsjeyarajcom | 343
 newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
@@ -18,7 +18,7 @@ dailyftlk | 2,568
 adalk | 3,646
 adaderanalk | 4,615
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,003
+tamilmirrorlk | 5,004
 virakesarilk | 6,296
 adaderanasinhalalk | 6,743
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,756 (100.0%) of 39,762 articles have been extended.
+39,762 (100.0%) of 39,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ They have also offered and accepted challenges to fight each other in comments o
 
 [Data](articles/8a6e3f39.json)
 
+[Extended Data](ext_articles/8a6e3f39.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -65,6 +67,24 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/4b0cd5ad.json)
+
+[Extended Data](ext_articles/4b0cd5ad.ext.json)
+
+---
+
+### 157 முறைப்பாடுகள் பதிவு
+
+*2024-08-09 08:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/157-முறைப்பாடுகள்-பதிவு/175-341847) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பில் இதுவரையில் 157 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதற்கமைய, தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு இதுவரை 102 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+
+அத்துடன், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையங்களுக்கு இதுவரையில் 55 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/69ac39bf.json)
 
 ---
 
@@ -1500,6 +1520,24 @@ Countries with the best health sector in the country are in Asia. It is a pleasu
 
 ---
 
+### Former Batticaloa District TNA Parliamentarian P. Ariyanendran to Contest 2024 Presidential Poll as the Common Tamil Presidential Candidate.
+
+*2024-08-08 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84506) · `en`
+
+The ‘Tamil National Common Structure’, an alliance of Tamil political parties, has announced its decision to nominate former
+
+Batticaloa District TNA Parliamentarian P. Ariyanenthiran as their common candidate for the upcoming Presidential Election.
+
+Several Tamil political parties and a group of civil society representatives had reached an agreement to nominate a common candidate for the forthcoming Presidential Election.
+
+Accordingly, seven Tamil political parties and seven civil society representatives had signed this agreement in Jaffna on 22 July. The signatories include President’s Counsel C.V. Vigneswaran of the Tamil People’s National Alliance, Selvam Adaikkalanathan of the Tamil Eelam Liberation Organisation, D. Siddharthan of the People’s Liberation Organisation of Tamil Eelam, N. Srikantha of the Tamil National Party, and Suresh Premachandran of the Eelam People’s Revolutionary Liberation Front.
+
+◼️
+
+[Data](articles/69439993.json)
+
+---
+
 ### Sri Lanka seizes fake Casio watches
 
 *2024-08-08 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-seizes-fake-casio-watches-176084/) · `en`
@@ -1521,6 +1559,18 @@ The accused entity were taken into custody and fines were imposed. (Colombo/Aug8
 [Data](articles/cf483c1b.json)
 
 [Extended Data](ext_articles/cf483c1b.ext.json)
+
+---
+
+### The  ‘Samagi Jana Sandanaya (SJS)’,  political alliance led by the Samagi Jana Balawegaya (SJB),  officially launched  under the Leadership of Sajith Premadasa  with the signing of agreements with several parties.
+
+*2024-08-08 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84508) · `en`
+
+The  ‘Samagi Jana Sandanaya (SJS)’, a broad political alliance led by the main Parliamentary Opposition, the Samagi Jana Balawegaya (SJB), was officially unveiled yesterday (8) under the Leadership of SJB and Opposition Leader and Presidential candidate Sajith Premadasa and with the signing of agreements with several parties.
+
+...
+
+[Data](articles/d214cda6.json)
 
 ---
 
@@ -1906,17 +1956,23 @@ There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
 
 ---
 
-### මටත් අගමැතිකම ගන්න කතා කළා
+### Talked to me too
 
 *2024-08-08 16:34:13* · [`adalk`](https://www.ada.lk/breaking_news/මටත්-අගමැතිකම-ගන්න-කතා-කළා/11-411268) · `si`
 
-පසුගිය අරගල සමයේදී හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා තමාට අගමැතිධූරය භාරගන්නා ලෙස ඉල්ලීමක් කළ බව හිටපු අධිකරණ අමාත්‍ය, ජනාධිපති අපේක්ෂක විජයදාස රාජපක්ෂ මහතා පැවසීය.
+Mahinda Rajapaksa asked his former self to accept the role of Prime Minister during their past struggle, as stated in a media interview in Colombo on August 8th.
 
-කොළඹදී අද(08දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
+
+Former President Mahinda Rajapaksa has requested former President Mahinda Rajapaksa to accept the prime minister in the past struggle, he said.
+
+Speaking to the media in Colombo today (08th) he said.
 
 ◼️
 
 [Data](articles/d91bf853.json)
+
+[Extended Data](ext_articles/d91bf853.ext.json)
 
 ---
 
@@ -2197,83 +2253,5 @@ In the list of symbols assigned to independent presidential candidates, the Elec
 [Data](articles/2647c1d9.json)
 
 [Extended Data](ext_articles/2647c1d9.ext.json)
-
----
-
-### Vaas and son is another punishment
-
-*2024-08-08 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199713) · `si`
-
-Colombo High Court sentenced Judge Amal Ranaraja and others, including Vas Gunawardena's son, Ravindu, and two police officers, to four years in prison and fined them Rs. 82,000 for kidnapping and assaulting a youth, Nippin Ramanayake, in 2009. The court highlighted the responsibility of law enforcement to maintain public safety, criticizing their actions.
-
-🟩
-
-The Colombo High Court Judge Amal Ranaraja has been sentenced to four years in prison by the Colombo High Court Judge Amal Ranaraja.
-
-ඊට අමතරව වාස් ගුණවර්ධන මහතාට රුපියල් 20,000ක දඩයක් ද විනිසුරුවරයා නියම කළේය.
-
-In addition, the High Court Judge, Ravindu Gunawardena, son of Vass Gunawardena and two other police officers who were served in the Colombo Crimes Division, was passed in four years.Have ordered that they should be.
-
-The three accused were also paid a fine of Rs. 82,000.
-
-A youth named Nippin Ramanayake, who was studying at the Malabe Information Technology College in 2009, were found guilty of prison in the Colombo Crimes Division.
-
-The High Court Judge has ordered the grandchildren who were serving at the Colombo Crimes Division, who was serving in the Colombo Crimes Division for fake notes on the incident.
-
-The Court ruled former DIG Vass Gunawardena's wife, who was nominated as the other defendants in this case.
-
-...
-
-[Data](articles/1a1d6fb6.json)
-
-[Extended Data](ext_articles/1a1d6fb6.ext.json)
-
----
-
-### Sri Lanka unlikely to change fuel, gas prices ahead of polls: sources
-
-*2024-08-08 15:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-unlikely-to-change-fuel-gas-prices-ahead-of-polls-sources-176044/) · `en`
-
-ECONOMYNEXT – Sri Lanka is unlikely to change prices of fuel and gas until the September 21 presidential poll, two government sources said.
-
-Sri Lankan government-owned entities revise fuel and gas prices on the first day of every month. State owned fuel retailer and gas supplier kept the prices steady early this month.
-
-“Fuel and gas prices are likely to be unchanged until September,” a top government official told EconomyNext, asking not to be named.
-
-Another government source said any price revision in line with the pricing formula could have positive or negative impact on election campaign.
-
-“If the prices increased, it will be negative to the government and if the prices reduced, it will be positive to the government,” the second source said.
-
-Sri Lanka has reduced the prices of fuel and gas in the recent months before the declaration of election date. (Colombo/August 08/2024)
-
-◼️
-
-[Data](articles/54df3d83.json)
-
-[Extended Data](ext_articles/54df3d83.ext.json)
-
----
-
-### Tsunami warning in Japan
-
-*2024-08-08 15:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-சுனாமி-எச்சரிக்கை/50-341812) · `ta`
-
-A magnitude 7.1 earthquake hit near Miyazaki, Japan, triggering a tsunami warning across several regions including Miyazaki, Kochi, Oita, Kagoshima, and Ehime. The quake was also felt in Okushu and Shikoku islands. Authorities are monitoring the situation closely.
-
-🟩
-
-A powerful earthquake struck in many parts of Japan on Thursday (Aug. 08). A tsunami warning has been issued following the magnitude 7.1 earthquake.
-
-The earthquake struck 20 miles from Miyazaki coast, the US Geological Survey said. At the same time, Japan's earthquake surveillance company NERV has reported that the earthquake has been reported in the Huga -tape sea.
-
-Tsunami warned to many regions of Japan as it was felt as a powerful earthquake at 7.1 on the Richter scale.. The tsunami government has issued a tsunami warning to provinces such as Miyazaki, Kochi, Oida, Kagosima and Ehim.
-
-Meanwhile, Japanese officials have said that the Islands of Quushu and Shikoku are afraid of the earthquake and are watching the situation.
-
-◼️
-
-[Data](articles/1218f38c.json)
-
-[Extended Data](ext_articles/1218f38c.ext.json)
 
 ---

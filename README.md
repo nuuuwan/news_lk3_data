@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 21:06:36**
+As of **2024-08-09 21:20:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,885 (100.0%) of 39,886 articles have been extended.
+39,886 (100.0%) of 39,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,21 +186,29 @@ Accordingly, the amendment bill will be presented in Parliament on the 21st of t
 
 ---
 
-### “உயிரைக் காப்பாற்ற  இணைந்தோம்”
+### “We have joined us to save life”
 
 *2024-08-09 18:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரைக்-காப்பாற்ற-இணைந்தோம்/175-341878) · `ta`
 
-நாட்டின் பொருளாதாரத்தை மீட்க முடியாதென சஜித் பிரேமதாச கூறியபோது நாங்கள் அந்த சவாலை ஏற்றுக்கொண்டோம்
+In response to economic challenges, a group took charge under Sajith Premadasa, aiming to revive Sri Lanka's economy. They focused on tourism and remittances from migrants, successfully stabilizing fuel, gas, medicine, and electricity supplies. Their efforts also strengthened industries and the overall economy over two years, demonstrating courage and commitment to national development.
 
-இரண்டு வருடங்களுக்கு முன்னர் மக்கள் போராட்டத்தினால்  நாடு பொருளாதாரத்தில் வீழ்ச்சியடைந்து  கொண்டிருக்கும் போது,  நாம் சஜித் பிரேமதாசவிடம்  நாட்டை பொறுப்பேற்குமாறு கூறினோம்.  நாட்டின் பொருளாதாரத்தையும் இதற்குப் பிறகு வரும் தேர்தல்கள் மூலம் பாராளுமன்றத்திற்கும்  ஜனாதிபதி நாற்காலியிலும் அமர முடியாதென கூறி அந்த பொறுப்பில் இருந்து சஜித் பிரேமதாச நழுவிச் சென்றுவிட்டார் என்றார்.
+🟩
 
-பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் ஹோட்டலில் இன்று (09) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே முன்னாள் அமைச்சர் இதனைத் தெரிவித்தார்.
+We accepted the challenge when Sajith Premadasa said that the country's economy could not be restored
 
-அச்சமின்றி, தூரநோக்குடன்  சவால்களைப் பொறுப்பேற்றுக்கொண்ட ஜனாதிபதி ரணிலின் அரசுடன் நாம்  மக்களின் உயிரைக் காப்பாற்ற  இணைந்து கொண்டோம்.
+While the country was falling into the economy two years ago, we asked Sajith Premadasa to take responsibility for the country.Sajith Premadasa has slipped from the responsibility of the country's economy and the elections that followed by the election.
+
+The former minister made this statement while addressing a media briefing held at the Voters Edge Hotel at Battaramulla today (09).
+
+Without fear, we joined the President of President Ranil, who took responsibility for the long -running, we joined the people to save the lives of the people.
+
+We have been able to build the country in two years since the country has fallen. Harin brought dollars to the country through tourism. I was able to bring $ 12 billion through migrant workers from abroad.
 
 ...
 
 [Data](articles/b0b151d4.json)
+
+[Extended Data](ext_articles/b0b151d4.ext.json)
 
 ---
 

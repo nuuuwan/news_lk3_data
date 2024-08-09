@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 15:06:28**
+As of **2024-08-09 15:20:56**
 
 ## Newspaper Stats
 
-*Scraped **39,839** Articles*
+*Scraped **39,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,654
-adaderanalk | 4,627
+adaderanalk | 4,628
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,021
 virakesarilk | 6,309
@@ -26,53 +26,71 @@ adaderanasinhalalk | 6,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,835 (100.0%) of 39,839 articles have been extended.
+39,839 (100.0%) of 39,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### හරීන් සහ මනූෂ අමාත්‍ය ධුරවලින් ඉල්ලා අස්වෙයි
+### Harin and forest resigns from ministers
 
 *2024-08-09 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199754) · `si`
 
-තමන් අමාත්‍ය ධුරවලින් ඉල්ලා අස්වූ බව හරීන් ප්‍රනාන්දු සහ මනුෂ නානායක්කාර මහත්වරු පවසයි.
+Harin Fernando and Manusha Nanayakkara have stepped down from their ministerial positions.
+
+🟩
+
+Harin Fernando and Manusha Nanayakkara says he resigned from the ministerial portfolio.
 
 ◼️
 
 [Data](articles/03dd573c.json)
 
+[Extended Data](ext_articles/03dd573c.ext.json)
+
 ---
 
-### ඉන්දීය ධීවරයින් 35ක් නාවික හමුදා භාරයට
+### 35 Indian fishermen arrested
 
 *2024-08-09 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199752) · `si`
 
-මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් 35 දෙනෙකු වයඹ මුහුදේදී නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+35 Indian fishermen and four vessels were arrested by the Navy in the North Western Sea, including the Waharama Sea and Kudarama areas. They were taken to Vijaya for legal proceedings under the Kalpitiya Fisheries Inspector Office.
 
-වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සමග වයඹ  මුහුදේ, කුදිරමලේ තුඩුවට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ සිදුකළ සෝදිසි මෙහෙයුමක දී ඔවුන් අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසුවේය.
+🟩
 
-එහිදී අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා හතරක් ද නාවික හමුදා භාරයට ගෙන තිබේ.
+35 Indian fishermen have been arrested by the Navy in the North Western Sea.
 
-අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් කල්පිටිය නාවික නෞකා විජය ආයතනය වෙත රැගෙනවිත් ඇති අතර ඉදිරි නීතිමය කටයුතු සඳහා ඔවුන් කල්පිටිය ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දීමට නියමිතය.
+The Navy said that they were taken into custody by the North Western Sea, the North Western Sea, the Waharama Sea, the North Western Sea, Kudarama.
+
+Four Indian fishing vessels have also taken into custody by the Navy.
+
+The arrested Indian fishermen were brought to the Vijaya Vijaya Vijaya and the next legal proceedings will be handed over to the Kalpitiya Fisheries Inspector Office.
 
 ◼️
 
 [Data](articles/51344744.json)
 
+[Extended Data](ext_articles/51344744.ext.json)
+
 ---
 
-### ஹரினின் வெற்றிடத்துக்கு ஹிருணிகா
+### Hirunika to the vacuum of Harin
 
 *2024-08-09 14:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினின்-வெற்றிடத்துக்கு-ஹிருணிகா/175-341863) · `ta`
 
-ஹரின் பெர்னாண்டோவை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்ததை அடுத்து  தன்னுடைய அமைச்சுக்கு சென்ற சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ, ஊழியர்களுக்கு பிரியாவிடை கொடுத்துவிட்டு அமைச்சில் இருந்து, வௌ்ளிக்கிழமை (08) வெளியேறினார்.
+Harin Fernando, Sri Lanka's former Minister of Tourism, Land, Sports, and Youth Affairs, resigned following a Supreme Court ruling that he be dismissed from the United People's Power party. Reports suggest Hirunika Premachandra, a former MP, may fill the vacancy.
 
-இந்நிலையில், ஹரினின் பாராளுமன்ற உறுப்பினர் வெற்றிடத்துக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமசந்திரவை நியமிக்குமாறு வலியுறுத்தப்பட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+🟩
+
+Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who went to his ministry, left the ministry on Wednesday (08) after the Supreme Court ruled that Harin Fernando was dismissed from the United People's Power.
+
+According to reports, Harin's parliamentarian has been urged to appoint former MP Hirunika Premachandra to the vacuum.
 
 ◼️
 
 [Data](articles/37e041e7.json)
+
+[Extended Data](ext_articles/37e041e7.ext.json)
 
 ---
 
@@ -118,15 +136,21 @@ She added that Sri Lanka was a courageous leader, such as Ranil Wickremesinghe, 
 
 ---
 
-### ஹரினின் பிரியாவிடை
+### Harin's farewell
 
 *2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினின்-பிரியாவிடை/175-341861) · `ta`
 
-பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து தன்னுடைய அமைச்சுக்கு சென்ற சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ, ஊழியர்களுக்கு பிரியாவிடை கொடுத்துவிட்டு அமைச்சில் இருந்து வெளியேறினார்.
+Harin Fernando, ex-Minister of Tourism, Land, Sports, and Youth Affairs, bid farewell to his staff before leaving the ministry post-parliamentary removal.
+
+🟩
+
+Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who went to his ministry after his removal of the parliamentarian, gave a farewell to the staff and left the ministry.
 
 ◼️
 
 [Data](articles/77876761.json)
+
+[Extended Data](ext_articles/77876761.ext.json)
 
 ---
 
@@ -171,6 +195,24 @@ Commenting here
 [Data](articles/130b5f27.json)
 
 [Extended Data](ext_articles/130b5f27.ext.json)
+
+---
+
+### Harin Fernando steps down from ministerial posts
+
+*2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-fernando-steps-down-from-ministerial-posts) · `en`
+
+Harin Fernando has resigned as the Minister of Tourism, Lands, Sports and Youth Affairs.
+
+This decision comes hours after the Supreme Court’s ruling issued this morning (09) declaring that the decision taken by the SJB to suspend the party membership of Manush Nanayakkara and Harin Fernando was lawful.
+
+The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
+
+On July 18, 2023, the Working Committee of the SJB decided to expel party members Harin Fernando and Manusha Nanayakkara from the party. In May 2022, the SJB had suspended the party membership of the two parliamentarians after they had accepted ministerial portfolios in the government while the party had vowed to take disciplinary action against them.
+
+◼️
+
+[Data](articles/e2e19107.json)
 
 ---
 
@@ -2105,19 +2147,5 @@ During the visit, he will hold bilateral discussions with his counterpart at the
 [Data](articles/4fde0d5d.json)
 
 [Extended Data](ext_articles/4fde0d5d.ext.json)
-
----
-
-### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
-
-*2024-08-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
-
-President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
-
-...
-
-[Data](articles/4933fe13.json)
-
-[Extended Data](ext_articles/4933fe13.ext.json)
 
 ---

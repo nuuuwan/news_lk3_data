@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 03:06:08**
+As of **2024-08-10 03:20:57**
 
 ## Newspaper Stats
 
-*Scraped **39,922** Articles*
+*Scraped **39,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,422
-dailyftlk | 2,578
+dailyftlk | 2,579
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,914 (100.0%) of 39,922 articles have been extended.
+39,919 (100.0%) of 39,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### An observation on Muslim voters
+
+*2024-08-10 02:59:02* · [`dailyftlk`](https://www.ft.lk/columns/An-observation-on-Muslim-voters/4-765387) · `en`
+
+Will the Muslims rally behind the candidate promising to do away with the old system? – Pic by Shehan Gunasekara
+
+He has been in politics for a long time to understand the business mentality of these parvenus, and he knows that many of them would swing their allegiance to any side at the right price. That allegiance was assumed to be enough to draw Muslim votes in the past, because those leaders with support from religious clerics ruled over their respective constituencies like fiefdoms. This will not work anymore, because of the new awakening. AKD’s call for a new political culture and NPP’s commitment for a clean and accountable government are the primary ingredients of the recipe for a new system. A new generation of voters are rallying behind AKD, island wide. Muslims should not isolate themselves and stand aloof from this memorable shift
+
+...
+
+[Data](articles/f206b5e8.json)
+
+---
 
 ### Road to COP29: Priorities and expectations for global climate negotiations in 2024
 
@@ -43,6 +57,8 @@ On 11 November 2024, less than four months away, the 29th meeting of the Confere
 ...
 
 [Data](articles/60bdb236.json)
+
+[Extended Data](ext_articles/60bdb236.ext.json)
 
 ---
 
@@ -60,6 +76,8 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 
 [Data](articles/0a8de27c.json)
 
+[Extended Data](ext_articles/0a8de27c.ext.json)
+
 ---
 
 ### Hayleys Solar commissions Sri Lanka’s largest solar-powered battery energy storage system
@@ -73,6 +91,8 @@ Hayleys Solar, the leading player in Sri Lanka’s renewable energy industry and
 ...
 
 [Data](articles/510eb502.json)
+
+[Extended Data](ext_articles/510eb502.ext.json)
 
 ---
 
@@ -90,6 +110,8 @@ In order to meet the most stringent modern standards, Ambewela Dairy Farms follo
 
 [Data](articles/fb3679de.json)
 
+[Extended Data](ext_articles/fb3679de.ext.json)
+
 ---
 
 ### Sri Lanka – Greater Mekong Business Council meets Ambassador of Thailand
@@ -103,6 +125,8 @@ The President and Executive Committee of the Sri Lanka – Greater Mekong Busine
 ...
 
 [Data](articles/d6c9fe4f.json)
+
+[Extended Data](ext_articles/d6c9fe4f.ext.json)
 
 ---
 
@@ -2285,27 +2309,5 @@ Manusha Nanayakkara and Harin Fernando joined a special press conference to resp
 [Data](articles/53c09d40.json)
 
 [Extended Data](ext_articles/53c09d40.ext.json)
-
----
-
-### Bandarigoda to the vacuum of man
-
-*2024-08-09 12:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷவின்-வெற்றிடத்துக்கு-பண்டாரிகொட/175-341857) · `ta`
-
-Ranjith Mathuma Bandara proposes Bandarigoda for a parliamentary seat vacated by Manusha Nanayakkar, dismissed by the Supreme Court. Bandarigoda received the highest votes in the Galle district list.
-
-🟩
-
-United People's Power General Secretary Ranjith Mathuma Bandara has said that the name of Bandarigoda Bandarigoda has been proposed to the Election Commission for the vacant post due to the dismissal of the Galle District Parliamentarian Manusha Nanayakkar MP.
-
-According to the Supreme Court's verdict on Wednesday (09), Manusha Nanayakkara was sacked from the post of MP.
-
-Bandarikoda was the most votes in the Galle district list.
-
-◼️
-
-[Data](articles/2d212fc5.json)
-
-[Extended Data](ext_articles/2d212fc5.ext.json)
 
 ---

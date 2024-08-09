@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 13:36:43**
+As of **2024-08-09 13:55:57**
 
 ## Newspaper Stats
 
-*Scraped **39,822** Articles*
+*Scraped **39,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,93 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,652
-adaderanalk | 4,626
+adaderanalk | 4,627
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,017
+tamilmirrorlk | 5,018
 virakesarilk | 6,306
-adaderanasinhalalk | 6,755
+adaderanasinhalalk | 6,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,819 (100.0%) of 39,822 articles have been extended.
+39,822 (100.0%) of 39,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### “கட்சி மாறினால் வீட்டுக்கு அனுப்புவோம்”
+### தேர்தல் அறிவித்த பிறகு அம்மா திரும்புவார்: மகன்
+
+*2024-08-09 13:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அறிவித்த-பிறகு-அம்மா-திரும்புவார்-மகன்/175-341859) · `ta`
+
+பாகிஸ்தான் உளவுத்துறை வங்காள தேசத்தில் அமைதியின்மையை தூண்டுகிறது என்று ஷேக் ஹசீனாவின் மகன் சஜீத் வசத் ஜோய் தெரிவித்துள்ளார்.
+
+வங்காளதேசத்தில் இடஒதுக்கீட்டுக்கு எதிரான மாணவர்கள் போராட்டம், வன்முறையாக மாறியது. இதனால் எழுந்த நெருக்கடியால் பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்துவிட்டு, நாட்டைவிட்டு வெளியேறினார்.
+
+இந்தியாவில் தற்காலிகமாக தஞ்சமடைந்துள்ள அவர், வேறுநாட்டுக்கு செல்வார் என எதிர்பார்க்கப்படுகிறது.பிரதமரின் ராஜினாமாவை தொடர்ந்து, வங்காளதேசத்தின் ஆட்சி அதிகாரத்தை அந்த நாட்டு ராணுவம் கையில் எடுத்தது.
+
+தேர்தல் நடத்தப்பட்டு புதிய ஆட்சி அமையும் வரை, நாட்டில் இடைக்கால அரசு அமைக்கப்படும் என ராணுவ தளபதி வேக்கர் உஸ் ஜமான் அறிவித்தார். தொடர்ந்து, பாராளுமன்றத்தை கலைத்து ஜனாதிபதி முகமது சஹாபுதீன் உத்தரவிட்டார்.
+
+அந்த நாட்டு சட்டப்படி, வங்காளதேசத்தில் அடுத்த 3 மாதங்களுக்குள் தேர்தல் நடக்கலாம் என எதிர்பார்க்கப்படுகிறது. அதுவரை நாட்டை இடைக்கால அரசு வழிநடத்தும்.இந்தநிலையில் நோபல் பரிசு பெற்ற பொருளாதார நிபுணரான முகமது யூனுஸ் இடைக்கால அரசின் தலைவராக அறிவிக்கப்பட்டார்.
+
+...
+
+[Data](articles/c557b9eb.json)
+
+---
+
+### US commits additional USD 24.5M through development agreement with Sri Lanka
+
+*2024-08-09 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101107/us-commits-additional-usd-245m-through-development-agreement-with-sri-lanka) · `en`
+
+The U.S. Embassy has announced an additional commitment of USD 24.5 million (Rs. 7.2 billion) from the American people to further the United States’ long-standing investment in the people of Sri Lanka and the US-Sri Lanka partnership.
+
+The additional funding was announced during a visit to Sri Lanka by the U.S. Agency for International Development’s (USAID) Assistant Administrator of the Bureau for Asia Michael Schiffer at an event held at the Ministry of Finance. USAID Sri Lanka and Maldives Mission Director Gabriel Grau also participated in Friday’s ceremony alongside State Minister of Finance Shehan Semasinghe, the US Embassy in Colombo said.
+
+...
+
+[Data](articles/b6ee19db.json)
+
+---
+
+### "If the party changes, we will send it home"
 
 *2024-08-09 13:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறினால்-வீட்டுக்கு-அனுப்புவோம்/175-341858) · `ta`
 
-கட்சி மாறுபவர்களை வீட்டுக்கு அனுப்புவதற்கு தேசிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் சட்டங்கள் தயாரிக்கப்படும் என அதன் தலைவரும், பாராளுமன்ற உறுப்பினருமான  அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+Under the National People's Power Government, laws will be drafted to deport individuals from opposing parties, as stated by its leader and parliamentarian Anuragumara Dissanayake during a speech at the Muslim Brotherhood in Malwana.
 
-மல்வான பிரதேசத்தில் நடைபெற்ற முஸ்லிம் சகோதரத்துவ கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
+
+Its leader and parliamentarian Anuragumara Dissanayake said that laws will be prepared under the National People's Power Government to send party different people home.
+
+He was speaking at the Muslim Brotherhood at the Malwana area.
 
 ◼️
 
 [Data](articles/5258d627.json)
 
+[Extended Data](ext_articles/5258d627.ext.json)
+
 ---
 
-### මට අද කොන්ද කෙලින් තියන් යන්න පුළුවන් - හරීන්
+### I can beaten today today - Harin
 
 *2024-08-09 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199748) · `si`
 
-මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (09) තීන්දු කළේය.
+Harin Fernando expresses pride in his actions, accepting the Supreme Court's decision despite risks and criticism. He emphasizes trust in himself and his contributions towards solving national issues.
 
-"මට අද කොන්ද කෙලින් තියාගෙන ආඩම්බරයෙන් යන්න පුළුවන්. මම මාව විශ්වාස කළා. මම ඒ අවධානම දැනගෙන තමයි තීරණය ගත්තේ. මම ඒ වෙලාවේ ගියේ රටේ ප්‍රශ්නය මගේ පැත්තෙන් විසඳන්න පුළුවන් දේ කරන්න. මමම තමයි ස.. ෆේල් කිව්වේ. මමම තමයි ඒ කතා ඔක්කොම හැදුවේ. අධිකරණයට මම කිසිම දෙයක් කියන්නේ නැහැ. මම ඒ තීන්දුව පිළිගන්නවා."
+🟩
+
+The Supreme Court today (09th) today decided that the decision taken taken by Manusha Nanayakkara and Harin Fernando.
+
+"I can keep the back of the back straight today and get proud. I trusted me. I knew that risk. I went at that time to do what could solve the country's issue from my side. I am the same.. The Fail said. I was all the stories made all the stories. I don't say anything to the judiciary. I accept the sentence. "
 
 ◼️
 
 [Data](articles/4dcba126.json)
+
+[Extended Data](ext_articles/4dcba126.ext.json)
 
 ---
 
@@ -80,19 +126,39 @@ President Ranil Wickremesinghe said this while addressing the women's conference
 
 ---
 
-### மனுஷவின் வெற்றிடத்துக்கு பண்டாரிகொட
+### මනූෂ සහ හරීන් අහිමිවීම ගැන කරුණු කියයි
+
+*2024-08-09 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199747) · `si`
+
+මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (09) තීන්දු කළේය.
+
+ඒ සම්බන්ධයෙන් සිය ප්‍රතිචාරය දැක්වීමට මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්විය.
+
+◼️
+
+[Data](articles/53c09d40.json)
+
+---
+
+### Bandarigoda to the vacuum of man
 
 *2024-08-09 12:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷவின்-வெற்றிடத்துக்கு-பண்டாரிகொட/175-341857) · `ta`
 
-காலி மாவட்ட பாராளுமன்ற உறுப்பினர் மனுஷ நாணயக்கார் எம்.பி பதவியில் இருந்துநீக்கப்பட்டதன் காரணமாக வெற்றிடமான பதவிக்கு  பந்துலால் பண்டாரிகொடவின் பெயரை தேர்தல்கள் ஆணைக்குழுவிடம் முன்மொழிய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+Ranjith Mathuma Bandara proposes Bandarigoda for a parliamentary seat vacated by Manusha Nanayakkar, dismissed by the Supreme Court. Bandarigoda received the highest votes in the Galle district list.
 
-உயர்நீதிமன்றம், வௌ்ளிக்கிழமை (09) வழங்கிய தீர்ப்பின்படி,  மனுஷ நாணயக்கார எம்.பி பதவியில் இருந்து நீக்கப்பட்டார்.
+🟩
 
-காலி மாவட்ட பட்டியலில் மனுஷ நாணயகாரவுக்கு அடுத்தபடியாக அதிக வாக்குகளை பந்துலால் பண்டாரிகொட பெற்றிருந்தார்.
+United People's Power General Secretary Ranjith Mathuma Bandara has said that the name of Bandarigoda Bandarigoda has been proposed to the Election Commission for the vacant post due to the dismissal of the Galle District Parliamentarian Manusha Nanayakkar MP.
+
+According to the Supreme Court's verdict on Wednesday (09), Manusha Nanayakkara was sacked from the post of MP.
+
+Bandarikoda was the most votes in the Galle district list.
 
 ◼️
 
 [Data](articles/2d212fc5.json)
+
+[Extended Data](ext_articles/2d212fc5.ext.json)
 
 ---
 
@@ -2053,67 +2119,5 @@ Former Prime Minister Sheikh Hasina, who resigned from the post, is currently in
 [Data](articles/4839b913.json)
 
 [Extended Data](ext_articles/4839b913.ext.json)
-
----
-
-### Interim leader Muhammad Yunus takes helm in Bangladesh, to seek peace and prepare elections
-
-*2024-08-08 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101091/-interim-leader-muhammad-yunus-takes-helm-in-bangladesh-to-seek-peace-and-prepare-elections) · `en`
-
-Nobel laureate Muhammad Yunus took the oath of office as head of Bangladesh’s interim government Thursday after an uprising prompted former Prime Minister Sheikh Hasina to step down and flee to India.
-
-The key tasks for Yunus now are restoring peace in Bangladesh and preparing for new elections following weeks of violence in which student activists led an uprising against what was considered Hasina’s increasingly autocratic 15-year rule.
-
-Bangladesh’s figurehead President Mohammed Shahabuddin administered the oath to Yunus for his role as chief advisor, which is the equivalent to a prime minister, in presence of foreign diplomats, civil society members, top businessmen and members of the former opposition party at the presidential palace in Dhaka. No representatives of Hasina’s party were present.
-
-...
-
-[Data](articles/d28284d5.json)
-
-[Extended Data](ext_articles/d28284d5.ext.json)
-
----
-
-### Muhammad Yunas sworn in
-
-*2024-08-08 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199726) · `si`
-
-Nobel laureate Muhammad Yunus, 84, sworn in as interim head in Bangladesh after Sheikh Hasina's resignation.
-
-🟩
-
-The Nobel Prizest Muhammad Yunus has been sworn in as the head of interim control in Bangladesh.
-
-84-year-old Yunus, who arrived in Bangladesh to Bangladesh, he had to do much in Bangladesh.
-
-Sheikh Haseanna was resigned from the country due to the Prime Minister of Bangladesh.
-
-◼️
-
-[Data](articles/4f43c36f.json)
-
-[Extended Data](ext_articles/4f43c36f.ext.json)
-
----
-
-### Nine girls who escaped
-
-*2024-08-08 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199725) · `si`
-
-Nine girls escaped from a Keppetipola detention center, were later arrested by Welimada Police in Nuwara Eliya, and will appear in court tomorrow.
-
-🟩
-
-Nine girls have fled from a Keppetipola detention center in the Department of Probation and Child Care Department.
-
-Later, they were taken into custody by Welimada Police while they were staying in Nuwara Eliya.
-
-The nine girls are to be produced before the Welimada Magistrate's Court tomorrow (09).
-
-◼️
-
-[Data](articles/78998cb8.json)
-
-[Extended Data](ext_articles/78998cb8.ext.json)
 
 ---

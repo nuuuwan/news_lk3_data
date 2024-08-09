@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 14:08:28**
+As of **2024-08-09 14:21:02**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,757
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,825 (100.0%) of 39,827 articles have been extended.
+39,827 (100.0%) of 39,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ඉල්ලා අස්වෙමින් ෆොන්සේකා සජිත්ට යැවූ ලිපිය
+### Letter from resignation to Sajith
 
 *2024-08-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199749) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් ඉල්ලා අස්වෙමින් සජිත් ප්‍රේමදාස මහතා වෙත ලිපියක් යොමු කර තිබේ.
+Field Marshal Sarath Fonseka resigned from his position, addressing a letter to Sajith Premadasa.
+
+🟩
+
+Parliamentarian Field Marshal Sarath Fonseka resigned from the post of resignation with resignation and a letter to Sajith Premadasa.
 
 ◼️
 
 [Data](articles/1a77669b.json)
+
+[Extended Data](ext_articles/1a77669b.ext.json)
 
 ---
 
@@ -310,19 +316,25 @@ Also, the petition filed by the former Minister is permitted to take the examina
 
 ---
 
-### ශ්‍රේෂ්ඨාධිකරණයේ තීරණයේ බලපෑම ආණ්ඩුවට - මම අද ඉදන් අමාත්‍ය ධුරයේ වැඩ කරන්නේ නෑ -මනූෂ
+### The influence of the Supreme Court decision - I do not work in the post of minister today
 
 *2024-08-09 12:22:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණයේ-තීරණයේ-බලපෑම-ආණ්ඩුවට---මම-අද-ඉදන්-අමාත්‍ය-ධුරයේ-වැඩ-කරන්නේ-නෑ--මනූෂ/11-411274) · `si`
 
-තමා අද(09දා) සිට අමාත්‍ය ධුරයේ කටයුතු නොකර බව අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+Following a Supreme Court ruling, Sri Lanka's Minister Manusha Nanayakkara resigned from his position effective immediately. He cited the court's decision to lift the suspension against him and Harin Fernando, stating he could no longer serve due to his party's laws.
 
-සමගි ජන බලවේගය මනූෂ නානායක්කාර මහතාගේ සහ හරීන් ප්‍රනාන්දු මහතාගේ පක්ෂ සමාජිකත්වය අත්හිටුවීම නීත්‍යානුකූල බවට ශ්‍රේෂ්ඨාධිකරණය අද ලබා දුන් තීරණයත් සමග ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-අධිකරණයෙන් ම‌ගේ පක්ෂ සාමාජිකත්වය අහෝසි කරලා. කමක් නෑ. සමගි ජන බලවේගයට ඕනී වුණේ ඒ අයට දිනන්නනේ. ඒ අයගේ පක්ෂ නීතිය හරි. ඉතින් අද ඉදලා මම අමාත්‍ය ධුරයේ වැඩ කරන්නේ නෑ. අමාත්‍ය ධුරයේ වැඩ කරන්න බෑනේ.
+Minister Manusha Nanayakkara said he was not the ministerial post from today (09).
+
+He made this statement today as the Supreme Court today to hold the suspension of suspicion of reconciliation and Harin Fernando.
+
+My party membership abolished. It's okay. The reconciliation wanted to win. Their party law is right. So from today, I do not work as Minister. The cannot work as the Minister of Ministers.
 
 ◼️
 
 [Data](articles/90fd9a84.json)
+
+[Extended Data](ext_articles/90fd9a84.ext.json)
 
 ---
 

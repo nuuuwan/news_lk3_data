@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 03:20:57**
+As of **2024-08-10 03:38:07**
 
 ## Newspaper Stats
 
-*Scraped **39,923** Articles*
+*Scraped **39,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,422
-dailyftlk | 2,579
+dailyftlk | 2,581
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,919 (100.0%) of 39,923 articles have been extended.
+39,922 (100.0%) of 39,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Selvern Trust to empower youth going for overseas jobs
+
+*2024-08-10 03:04:26* · [`dailyftlk`](https://www.ft.lk/opinion/Selvern-Trust-to-empower-youth-going-for-overseas-jobs/14-765389) · `en`
+
+Vijendra Watson presenting ‘Sihinaya Obemai’ tele-drama to SLFEB General Manager
+
+D.D.P. Senanayake to integrate it in the Bureau’s 10 regional training centres
+
+Raising awareness among youth who seek employment abroad through featuring ‘Sihinaya Obemai’ – a 10 episode tele-drama on Youtube
+
+Developing a mobile app to upgrade English speaking skills among youth
+
+“Give a man or woman a fish, and you feed them for a day. Teach a man or woman to fish, and you feed them for a lifetime,” Vijendran Watson quotes the famous saying of Lao Tzu. The founding Managing Director of Mobitel Sri Lanka, Watson says he wants to empower talented rural and urban youth equally through education and awareness to make them self-sustain.
+
+To achieve his affinity towards the youth of Sri Lanka, he has established the Selvern Trust two-years ago to support those who are seeking to realise their dreams and aspirations.
+
+...
+
+[Data](articles/55ad3a97.json)
+
+---
+
+### Emerging climate risks and future-proof planning for the tourism sector
+
+*2024-08-10 03:01:47* · [`dailyftlk`](https://www.ft.lk/columns/Emerging-climate-risks-and-future-proof-planning-for-the-tourism-sector/4-765388) · `en`
+
+Sri Lanka is endowed with a wealth of tourism resources but the sector faces a variety of climate-related risks and impacts
+
+Sri Lanka is endowed with a variety of natural and cultural resources that render it an attractive and accessible tourism destination. This includes diverse landscapes and ecosystems, rich biodiversity, and the country’s tangible as well as intangible cultural heritage, ranging from the cuisine to traditional apparel and fashion products.
+
+However, Sri Lanka is also among the world’s most vulnerable countries to climate change. With its sensitivity to weather changes and dependence on natural ecosystems, the tourism sector is at the forefront of this vulnerability and faces a multitude of risks, including slow-onset changes as well as sudden extreme events.
+
+...
+
+[Data](articles/047eeae9.json)
+
+---
 
 ### An observation on Muslim voters
 
@@ -43,6 +81,8 @@ He has been in politics for a long time to understand the business mentality of 
 ...
 
 [Data](articles/f206b5e8.json)
+
+[Extended Data](ext_articles/f206b5e8.ext.json)
 
 ---
 
@@ -148,6 +188,8 @@ The grand opening was held on 1 August and was attended by distinguished guests,
 
 [Data](articles/10ef9519.json)
 
+[Extended Data](ext_articles/10ef9519.ext.json)
+
 ---
 
 ### Ubion and KOICA conduct Career Guidance Policy Workshop with key stakeholders of TVET Career Platform Project
@@ -163,6 +205,8 @@ The exclusive event was graced by the presence of Education Ministry Secretary J
 ...
 
 [Data](articles/9e3ad0db.json)
+
+[Extended Data](ext_articles/9e3ad0db.ext.json)
 
 ---
 
@@ -2269,45 +2313,5 @@ President Ranil Wickremesinghe said this while addressing the women's conference
 [Data](articles/608bac3e.json)
 
 [Extended Data](ext_articles/608bac3e.ext.json)
-
----
-
-### India affects England
-
-*2024-08-09 13:00:50* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-පරාජය-එංගලන්තයටත්-බලපායි/9-411275) · `si`
-
-Sri Lanka, after facing India, rose from 7th to 6th in the ODI rankings, securing its position among the top six teams.
-
-🟩
-
-Sri Lanka has come to the top of the ODI rating with the tournament against the Indian team.
-
-Sri Lanka has come forward from the 7th to 6th and the sixth largest of the sixth in the 6th place.
-
-◼️
-
-[Data](articles/dde2c6e4.json)
-
-[Extended Data](ext_articles/dde2c6e4.ext.json)
-
----
-
-### Manushashi and Harin says the loss of
-
-*2024-08-09 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199747) · `si`
-
-The Supreme Court ruled on Manusha Nanayakkara and Harin Fernando's decisions, prompting them to hold a press conference for clarification.
-
-🟩
-
-The Supreme Court today (09th) today decided that the decision taken taken by Manusha Nanayakkara and Harin Fernando.
-
-Manusha Nanayakkara and Harin Fernando joined a special press conference to respond.
-
-◼️
-
-[Data](articles/53c09d40.json)
-
-[Extended Data](ext_articles/53c09d40.ext.json)
 
 ---

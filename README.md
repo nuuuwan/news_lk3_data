@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 11:21:19**
+As of **2024-08-09 11:36:29**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,781 (100.0%) of 39,788 articles have been extended.
+39,788 (100.0%) of 39,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### VFS - වීසා ගැටලුව ගැන විශේෂ ප්‍රකාශයක්
+### VFS - special statement on visa problem
 
 *2024-08-09 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199742) · `si`
 
-බණ්ඩාරනායක ගුවන්තොටුපොළේ  E-Visa ක්‍රමවේදය ක්‍රියාත්මක කිරීමත් සමග ඇතිවී තිබෙන ගැටලුව සම්බන්ධයෙන් මහජන ආරක්ෂක අමාත්‍ය ඇමති ටිරාන් අලස් මහතා විශේෂ ප්‍රකාශයක් සිදු කළේය.
+Minister of Defense Tiran Alles addressed concerns about the E-Visa system at Bandaranaike Airport, making a special statement on the matter.
+
+🟩
+
+The Minister of Defense Tiran Alles made a special statement regarding the issue of E-Visa methodology at the Bandaranaike Airport.
 
 ◼️
 
 [Data](articles/43f18d14.json)
+
+[Extended Data](ext_articles/43f18d14.ext.json)
 
 ---
 
@@ -60,39 +66,53 @@ The Presidential Commission of Inquiry to Investigate Allegations of Political V
 
 [Data](articles/2987813f.json)
 
+[Extended Data](ext_articles/2987813f.ext.json)
+
 ---
 
-### அநுர குமாரவை சந்தித்தனர் வேலையற்ற பட்டதாரிகள்
+### Unemployed graduates met Anura Kumara
 
 *2024-08-09 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190625) · `ta`
 
-நாட்டின் அனைத்து மாவட்டங்களையும் பிரதிநிதித்துவம் செய்யும் வேலையற்ற பட்டதாரிகள் சிலர் தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமாக அநுர குமார திசாநாயக்கவை சந்தித்தனர்.
+Unemployed graduates from across Sri Lanka met Anura Kumara Dissanayake, President of the National People's Power and presidential candidate, discussing their issues and the party's policies at the People's Liberation Front headquarters.
 
-இந்த சந்திப்பு மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் நேற்று வியாழக்கிழமை (08) இடம்பெற்றது.
+🟩
 
-இதன்போது வேலையில்லா பட்டதாரிகள் தொடர்பாக தேசிய மக்கள் சக்தியின் கொள்கை பற்றி விரிவாக கலந்துரையாடப்பட்டது.
+Some unemployed graduates representing all districts of the country met with Anura Kumara Dissanayake as the President of the National People's Power and the Presidential candidate.
 
-அத்துடன், இதுவரையில் வேலையில்லாத பட்டதாரிகள் எதிர்கொள்கின்ற சிக்கல்கள் குறித்தும் அதற்கான தீர்வு குறித்தும் கலந்துரையாடலின் போது கவனம் செலுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+The meeting was held at the headquarters of the People's Liberation Front on Thursday (08).
+
+During this time, unemployed graduates were discussed in detail the policy of the national people's power.
+
+It is also noteworthy that during the discussion on the problems faced by unemployed graduates so far, the solution.
 
 ◼️
 
 [Data](articles/995bd1fc.json)
 
+[Extended Data](ext_articles/995bd1fc.ext.json)
+
 ---
 
-### 10 நாட்களுக்கு எக்ஸ் முடக்கம் - வெனிசுவெலா ஜனாதிபதி அதிரடி
+### X freeze for 10 days - Venezuela President Action
 
 *2024-08-09 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190621) · `ta`
 
-வெனிசுவெலாவில் சமூக ஊடகங்களில் ஒன்றான எக்ஸ் (X) 10 நாட்களுக்கு முடக்கப்படுவதாக அந்நாட்டு ஜனாதிபதி நிக்கோலஸ் மதுரோ வியாழக்கிழமை (08) அறிவித்துள்ளார்.
+Venezuela's President Maduro announced a 10-day shutdown of Twitter, citing the National Telecommunication Commission's decision. This action will effectively block access to Twitter within Venezuela for the specified period.
 
-வெனிசுவெலாவின் தேசிய தொலைத்தொடர்பு ஆணைக்குழு முன்பு டுவிட்டர் என்று அழைக்கப்பட்ட எக்ஸ் சமூக ஊடகத்தை 10 நாட்களுக்கு முடக்குவதற்கு எடுத்த  தீர்மானத்திற்கு நான்  கையெழுத்திட்டுள்ளேன் என தெரிவித்துள்ளார்.
+🟩
 
-மேலும், எக்ஸ் சமூக ஊடகம் 10 நாட்களுக்கு வெனிசுலாவிலிருந்து வெளியேறு எனவும் குறிப்பிட்டுள்ளார்.
+President Nicholas Maduro Maduro on Thursday announced that X (X), one of the social media in Venezuela, will be shut down for 10 days.
+
+The National Telecommunication Commission of Venezuela said that I have signed a decision taken for 10 days to freeze X social media called Twitter.
+
+He also mentioned that X social media will leave Venezuela for 10 days.
 
 ◼️
 
 [Data](articles/26f35eff.json)
+
+[Extended Data](ext_articles/26f35eff.ext.json)
 
 ---
 
@@ -168,17 +188,25 @@ The decision was issued by a three-member judge with a three-member judge with V
 
 ---
 
-### அரியநேத்திரன் தொடர்பில் 11 ஆம் திகதி முடிவெடுக்கப்படும் - தமிழரசு கட்சியின் தலைவர் மாவை தெரிவிப்பு
+### Decision on Ariyanethran will be decided on the 11th - Tamilnadu Party leader
 
 *2024-08-09 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/190623) · `ta`
 
-ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிடவுள்ள தமிழரசு கட்சியின் மத்திய குழு உறுப்பினர் அரியநேத்திரன் தொடர்பில் 11 ஆம்  திகதி முடிவெடுக்கப்படும் என தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜா தெரிவித்துள்ளார்.
+The Tamil National Alliance (TNA) will decide on Ariyanethran's candidacy for the 2024 presidential election on August 11th. The decision comes after Ariyanethran expressed interest in running as a common candidate.
 
-தமிழரசு கட்சி ஐனாதிபதி தேர்தல் தொடர்பில்  இதுவரை எவ்வித முடிவுகளையும் மேற்கொள்ள முன்னர் அக் கட்சியின் மத்தியகுழு உறுப்பினரான அரியநேத்திரன் பொது  வேட்பாளராக  2024 ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டுள்ள விடயம்  தொடர்பில் தமிழரசு கட்சியின் தலைவர் மாவை சேனாதிராஜாவை தொடர்பு கொண்டு வினவிய போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-...
+The TNA leader Mawai Senathirajah has said that the decision will be taken on the 11th of the Tamil National Alliance (TNA) Central Committee member Ariyanethran.
+
+He said this when he contacted the leader of the TNA, Mawai Senathirajah, about the announcement that he would contest the 2024 presidential election as a common candidate, Ariyanethran, a member of the Central Committee of the party.
+
+The party's central committee will convene on Sunday 11.08.2024 to discuss the presidential election.. Only then will the party's position be announced. In this case, he said that the party would discuss the matter as the party's membership to contest as a common candidate before the party took a stand, and that he had come to meet me after the announcement of the common candidate.
+
+◼️
 
 [Data](articles/d3d4fe17.json)
+
+[Extended Data](ext_articles/d3d4fe17.ext.json)
 
 ---
 
@@ -222,15 +250,21 @@ The appointment of the Speaker today (09) has commenced today.
 
 ---
 
-### පාර්ලිමේන්තුව අදත් රැස්වෙයි
+### Parliament meet today
 
 *2024-08-09 09:31:19* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අදත්-රැස්වෙයි/11-411270) · `si`
 
-පාර්ලිමේන්තුව අද(09දා) පෙරවරු 09.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්විය.
+Parliament met today under Speaker Mahinda Yapa Abeywardena.
+
+🟩
+
+Parliament was held today (09) under the patronage of Hon. Speaker Mahinda Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/3b71e369.json)
+
+[Extended Data](ext_articles/3b71e369.ext.json)
 
 ---
 
@@ -302,21 +336,27 @@ Also, we are now recovering because of the agreement between the IMF and the gov
 
 ---
 
-### மன்னாரில் விபத்தில் படுகாயமடைந்த வயோதிபர் சிகிச்சை பலனின்றி மரணம்
+### An elderly man who was injured in an accident in Mannar
 
 *2024-08-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190620) · `ta`
 
-மன்னார் - தலைமன்னார் பிரதான வீதி, ஜே.ஆர்.எஸ்.  அலுவலகத்திற்கு முன்பாக புதன்கிழமை (06) மாலை இடம்பெற்ற விபத்தில் படுகாயம் அடைந்த வயோதிபர் ஒருவர் நேற்று வியாழக்கிழமை (08) மாலை யாழ்.வைத்தியசாலையில் உயிரிழந்தார்.
+A 67-year-old man from Mannar, injured in a bike accident on Wednesday, passed away in Jaffna hospital on Thursday. The incident occurred on Talaimannar's main road. Police are investigating the case.
 
-கடந்த புதன்கிழமை (06) மாலை பாடசாலை முடிவடைந்து தனது பேரனை துவிச்சக்கர வண்டியில் ஏற்றிக் கொண்டு வீடு நோக்கி பயணித்துக் கொண்டிருந்த 67 வயதுடைய வயோதிபர் மீது அவர் வீதியூடாக அதிவேகமாக பயணித்த கூலர் வாகனம் மோதி விபத்தை ஏற்படுத்தியது.
+🟩
 
-இதன்போது, காயமடைந்த பேரனான மாணவனும், வயோதிபரும் உடனடியாக மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, மேலதிக சிகிச்சைக்காக யாழ். வைத்தியசாலைக்கு மாற்றப்பட்டபோது,  நேற்றைய தினம் மாலை 67 வயதுடைய வயோதிபர் சிகிச்சை பலனின்றி யாழ் வைத்தியசாலையில் உயிரிழந்தார்.
+Mannar - Talaimannar main road, J.R.S.An elderly man who was injured in a accident on Wednesday evening (06) died in the Jaffna hospital on Thursday evening.
 
-மேலும், கூலர் வாகனத்தின் சாரதியை கைது செய்த மன்னார் பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+A 67 -year -old elderly man who was traveling in a bicycle on a bicycle, which ended the school last Wednesday evening (06), crashed into the road.
+
+The injured grandson and the elderly man were immediately taken to the Mannar District General Hospital and for further treatment for further treatment.. When he was transferred to the hospital, a 67 -year -old elderly man died at the Jaffna Hospital without treatment.
+
+In addition, Mannar police are conducting investigations for the arrest of the driver of the Cooler vehicle.
 
 ◼️
 
 [Data](articles/547059b6.json)
+
+[Extended Data](ext_articles/547059b6.ext.json)
 
 ---
 

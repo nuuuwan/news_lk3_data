@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 18:39:08**
+As of **2024-08-09 18:55:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,861 (100.0%) of 39,862 articles have been extended.
+39,862 (100.0%) of 39,862 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The candidates who placed bonds today include Priyantha Pushpakumara representin
 ◼️
 
 [Data](articles/09efb5ee.json)
+
+[Extended Data](ext_articles/09efb5ee.ext.json)
 
 ---
 

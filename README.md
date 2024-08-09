@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 19:36:23**
+As of **2024-08-09 19:54:48**
 
 ## Newspaper Stats
 
-*Scraped **39,877** Articles*
+*Scraped **39,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,657
+adalk | 3,658
 adaderanalk | 4,638
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,025
@@ -26,35 +26,41 @@ adaderanasinhalalk | 6,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,875 (100.0%) of 39,877 articles have been extended.
+39,877 (100.0%) of 39,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ඔක්තෝබරයේ පාස්පෝට් වෙනස් වෙයි
+### Passport varies in October
 
 *2024-08-09 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199762) · `si`
 
-ඔක්තෝබර් මාසය දක්වා දිනකට ගුවන්ගමන් බලපත්‍ර දහසක් පමණක් නිකුත් කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+In October, the Defense Minister announced a daily limit of 1,000 air travelers due to passport delays. He mentioned the issuance of e-passports starting this month, citing a delay in processing by the previous service provider. The new system aims to streamline passport issuance, with a focus on efficiency and cost-effectiveness. However, concerns were raised about the reduction in justice operations and the direct involvement of the IGP, which some believe has negatively impacted the situation.
 
-අද (09) කොළඹ පැවැති මාධ්‍ය හමුවකදී අමාත්‍යවරයා සඳහන් කළේ, ඔක්තෝබර් මාසයේ සිට ඊ ගුවන්ගමන් බලපත්‍රය නිකුත් කරන බවය.
+🟩
 
-"අවුරුදු 23ක් එකම සපයන්නෙකුගෙන් නැවත නැවත ඇණවුම් කළා. මේ වතාවෙත් නැවත ඇණවුමක් ආවා. මම කිව්වා එහෙම බෑ ටෙන්ඩර් කැඳවන්න කියලා.
+The Minister of Defense Minister Tiran Alles says that only 1000 aircraholders per day from October.
 
-ඒ අනුව සමාගමකට ටෙන්ඩරය ලැබුණා. මාස දෙකක් පමණ ප්‍රමාද වුණා ලංකාවේ තියෙන නීතිය අනුව, ඒ වැඩ කරන්න.  ඒ ප්‍රමාදය තමයි ප්‍රශ්නයක් වුණේ. ඒ නිසා තමයි පාස්පෝට් නිකුත් කරන එක සීමා කරන්න වුණේ.
+Speaking at a media briefing in Colombo today (09), the minister said that the e-lapse license will be issued from October.
 
-අපි දිනකට 900ක් නිකුත් කරනවා. නමුත් 1,000ක් වෙනකල් හදිසියේ එන ඒවට ඉඩ තියලා තියෙනවා.
+"23 years of the same provider ordered again. This time came back again. I told you to call tenders.
 
-මෙතෙක් නිකුත් කළ ගුවන්ගමන් බලපත්‍රවලින් 23%යි භාවිත කරලා තියෙන්නේ. අනෙක් පාස්පෝට් ගත්තට පාවිච්චි කරලා නැහැ.
+Accordingly a company received the tender. About two months late, by the law in Sri Lanka, do that work.  ඒ ප්‍රමාදය තමයි ප්‍රශ්නයක් වුණේ. That is why the pasoport was to be restricted.
 
-මම ජනතාවගෙන් ඉල්ලීමක් කරනවා අත්‍යවශ්‍ය නම් විතරක් මේ මාස දෙකේ පාස්පෝට් එක ගන්න. එහෙම නැත්නම් ඔක්තෝබර් වෙනකල් ඉන්න අලුත්ම පාස්පෝට් එකක් ඔක්තෝබර් මාසයේ ලැබෙනවා.
+We will issue 900 per day. But there is a sudden eye on the other.
 
-අපි ටෙන්ඩරය කැඳවූවේ E - PASSPORT එකට. පරණ පොතට ඩොලර් 5.89ක් ගෙව්වා. අලුත් ගුවන්ගමන් බලපත්‍රය අපිට වෙන්නේ ඩොලර් 5.5යි".
+23% of the airline permits so far. The other passport has not been used.
+
+If I need to ask the people only if it is essential, take these two months of passport only. Or a new passport is in October.
+
+We called the tender e - passport together. Paid $ 5.89 to the old book. The new airline license will be $ 5.5 $ 5.5.
 
 ...
 
 [Data](articles/e7a41421.json)
+
+[Extended Data](ext_articles/e7a41421.ext.json)
 
 ---
 
@@ -121,6 +127,8 @@ In a joint statement, the three nations invited Israel and Hamas to restart talk
 ...
 
 [Data](articles/0942be1f.json)
+
+[Extended Data](ext_articles/0942be1f.ext.json)
 
 ---
 
@@ -297,6 +305,22 @@ Meanwhile, actor Ajit Kumar has been shot in the film 'Good Bad Agli', which is 
 [Data](articles/852f8948.json)
 
 [Extended Data](ext_articles/852f8948.ext.json)
+
+---
+
+### ආර්ථිකය ගොඩගැනීමට හැකි වුණේ කාන්තාවත් තිදෙනෙකුගේ සහයෙන්
+
+*2024-08-09 17:09:48* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගොඩගැනීමට-හැකි-වුණේ-කාන්තාවත්-තිදෙනෙකුගේ-සහයෙන්/11-411279) · `si`
+
+වැටුණු ආර්ථිකය ගොඩ ගැනීමට කාන්තාවන් තිදෙනෙක් තමාට සහය වූ බවත්, ඔවුන් තිදෙනාගේ සහය නොමැති නම් මෙලෙස රට ගොඩ ගැනීමට තමාට නොහැකි වන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+“කාන්තාව අපේ බලය“ යන තේමාව යටතේ අද(09දා) කොළඹ පැවති ජාතික කාන්තා සමුළුව අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+මෙවර ජනාධිපතිවරණයට  නිර්පාක්ෂික අපේක්ෂකයෙක් ලෙස මම ඉදිරිපත් වන්නේ ඇයි කියා ඇතැම් අය මගෙන් ප්‍රශ්න කරනවා. කුසගින්න නිර්පාක්ෂිකයි. කුමන පක්ෂයකට අයත් වුවත් කුසගින්න දැනෙනවා. කුස පිරවීම නිර්පාක්ෂිකයි. ඒ නිසා අප දේශපාලන පක්ෂ පාට පසෙකට දමා රටේ ජනතාවගේ කුස පිරවීමට එක් විය යුතුයි. මේ රටේ ජනතාව විඳි දුක පිළිබඳ මට හොද අවබෝධයක් තිබෙනවා. විදුලිය නොමැතිව, ඉන්ධන හා ආහාර නොමැතිව දරුවන්ව පාසලට යවා ගත නොහැකිව එදා ඔබ සියලුදෙනා විශාල දුෂ්කරතාවයකට මුහුණ දුන්නා. නැවත අප මේ දුක විඳිය යුතුද, ඒ නිසා අප සියලුදෙනා එකට එක්ව මෙම තත්ත්වය වළක්වාගත යුතුයි.
+
+...
+
+[Data](articles/e422f13d.json)
 
 ---
 
@@ -2243,29 +2267,5 @@ Also, we are now recovering because of the agreement between the IMF and the gov
 [Data](articles/8f2f7039.json)
 
 [Extended Data](ext_articles/8f2f7039.ext.json)
-
----
-
-### An elderly man who was injured in an accident in Mannar
-
-*2024-08-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190620) · `ta`
-
-A 67-year-old man from Mannar, injured in a bike accident on Wednesday, passed away in Jaffna hospital on Thursday. The incident occurred on Talaimannar's main road. Police are investigating the case.
-
-🟩
-
-Mannar - Talaimannar main road, J.R.S.An elderly man who was injured in a accident on Wednesday evening (06) died in the Jaffna hospital on Thursday evening.
-
-A 67 -year -old elderly man who was traveling in a bicycle on a bicycle, which ended the school last Wednesday evening (06), crashed into the road.
-
-The injured grandson and the elderly man were immediately taken to the Mannar District General Hospital and for further treatment for further treatment.. When he was transferred to the hospital, a 67 -year -old elderly man died at the Jaffna Hospital without treatment.
-
-In addition, Mannar police are conducting investigations for the arrest of the driver of the Cooler vehicle.
-
-◼️
-
-[Data](articles/547059b6.json)
-
-[Extended Data](ext_articles/547059b6.ext.json)
 
 ---

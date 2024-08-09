@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 14:36:36**
+As of **2024-08-09 14:55:27**
 
 ## Newspaper Stats
 
-*Scraped **39,828** Articles*
+*Scraped **39,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,653
+adalk | 3,654
 adaderanalk | 4,627
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,018
-virakesarilk | 6,306
-adaderanasinhalalk | 6,757
+tamilmirrorlk | 5,019
+virakesarilk | 6,309
+adaderanasinhalalk | 6,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,827 (100.0%) of 39,828 articles have been extended.
+39,828 (100.0%) of 39,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190654) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 09) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 296.2860 ஆகவும் விற்பனை விலை ரூபா 305.4598  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0fec4ba9.json)
+
+---
+
+### බංග්ලාදේශය රනිල් වැනි නායකයෙක් සොයනවා...-පවිත්‍රා
+
+*2024-08-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199751) · `si`
+
+වත්මන් බංගලාදේශය රනිල් වික්‍රමසිංහ මහතා වැනි නායකයෙකු සොයමින් සිටින බව අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය පවසන්නීය.
+
+මේ වන විට කොළඹදී පැවැත්වෙන "කාන්තා අපේ බලය" කාන්තා සමුළුව අමතමින් අමාත්‍යවරිය මේ බව කියා සිටියාය.
+
+බංග්ලාදේශයට වැනි භයානක තත්ත්වයක් ලංකාවට උරුම නොවූයේ රනිල් වික්‍රමසිංහ මහතා වැනි ධෛර්ය සම්පන්න නායකයෙකු බිහිව සිටි නිසා බව ද ඇය වැඩිදුරටත් සඳහන් කළාය.
+
+"මුළු බංග්ලාදේශයම ගිනි ගොඩක් බවට පත්වුණා. අද බංග්ලාදේශය රනිල් වික්‍රමසිංහ වැනි නායකයෙකු සොයමින් සිටිනවා. අපිට ඒ දේ උරුම නොවුණේ මේ මාතෘ භූමියේ මහ පොළොවේ රනිල් වික්‍රමසිංහ වැනි නායකයෙකු වැනි බිහි වුයේ නිසයි. ඒ නිසා මේවට තර්ක විතර්ක අවශ්‍ය නෑ. රටේ නායකයා රටින් ගිය වෙලාවේ මේ මාතෘ භූමියේ එක ලේ කඳුළක් හදන්නේ නැතුව රාජ්‍යත්වය ස්ථාපිත කරමින් මේ රට නැවත යථාතත්ත්වයට පත් කළේ වෙන කවුරුත් නෙමෙයි රනිල් වික්‍රමසිංහ ජනාධිපතිතුමයි. ඒ නිසා අපි අද පාට, පක්ෂ සියල්ල පැත්තකට දාලා මේ මාතෘ භූමියේ නිවැරදි තීන්දු ගන්නා වූ කාන්තාවන් වශයෙන් අපේ ස්වකීය යුතුකම මේ මාතෘ භූමියට එක් කිරීමටයි එකතු වුණේ."
+
+◼️
+
+[Data](articles/2079f90f.json)
+
+---
+
+### பிரியாவிடை ஹரின்
+
+*2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரியாவிடை-ஹரின்/175-341861) · `ta`
+
+பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து தன்னுடைய அமைச்சுக்கு சென்ற சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ, ஊழியர்களுக்கு பிரியாவிடை கொடுத்துவிட்டு அமைச்சில் இருந்து வெளியேறினார்.
+
+◼️
+
+[Data](articles/ab32907e.json)
+
+---
+
+### මැතිවරණ සමයේ සමාජ මාධ්‍ය හැසිරීම ගැන තීරණයක්
+
+*2024-08-09 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199750) · `si`
+
+ජනාධිපතිවරණයේ නාමයෝජනා භාරගන්නා දිනයේ දී මැතිවරණ කොමිසමේ ආරක්ෂාව සම්බන්ධයෙන් මැතිවරණ කොමිසමේදී සාකච්ඡාවක් පවත්වා තිබේ.
+
+ඒ, කොළඹ දිස්ත්‍රික්කයේ ජ්‍යේෂ්ඨ පොලිස් නිලධාරීන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතරය.
+
+මේ අතර මැතිවරණ නීති හා මාධ්‍ය උපමාන බලාත්මක කිරීම පිළිබඳ වැඩමුළුවක් රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී අද (09) පෙරවරුවේ පැවැත්වුණි.
+
+මෙහිදි අදහස් දක්වමින් මැතිවරණ කොමිෂන් සභාවේ නියෝජ්‍ය මැතිවරණ කොමසාරිස් (මැතිවරණ ආරවුල් නිරාකරණ) පියුමි ආටිගල මහත්මිය පවසන්නේ මේ වනවිට සමාජ මාධ්‍ය සම්බන්ධව පැමිණිලි රැසක් ලැබී ඇති බවත් මේ හේතුවෙන් මැතිවරණ කාල සීමාවේදී විශේෂ අවධානයක් සමාජ මාධ්‍ය සඳහා ‍යොමු කර ඇති බවය.
+
+"අපි විශේෂ අවධානයක් ඉන්ස්ටග්‍රෑම් සහ ටික්ටොක් කියන සමාජ මාධ්‍යවලට යොමු කරලා තියනවා. අපි ඒ ආයතන සමග සෘජුව සම්බන්ධ වෙලා තියනවා. සමාජ මාධ්‍ය නියාමනයේදී අපි විසින් නිකුත් කරන උපදෙස් සහ නියෝගවලට අනුකූල නොවෙනවා නම් ඒ ගොල්ලන්ගෙන් සම්මුතීන්වලින් ඔබ්බට ගිහිල්ලා අපිට සහයෝගය දක්වන්න ඒ ගොල්ලෝ කැමැත්ත පළ කරලා තියනවා."
+
+◼️
+
+[Data](articles/130b5f27.json)
+
+---
 
 ### Letter from resignation to Sajith
 
@@ -92,6 +154,26 @@ The additional funding was announced during a visit to Sri Lanka by the U.S. Age
 
 ---
 
+### கிளிநொச்சியில் இராணுவ சோதனைச்சாவடியுடன் மோதிய மோட்டார் சைக்கிள் : இளைஞன் உயிரிழப்பு !
+
+*2024-08-09 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190637) · `ta`
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட ஆனையிறவு  சோதனைச் சாவடிக்கு முன்னால் இன்று வெள்ளிக்கிழமை (09) காலை  மோட்டார் சைக்கிளொன்று வேக கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விசுவமடு ரெட்பாரா பகுதியில் இருந்து இருவர் மோட்டார் சைக்கிளில் யாழ்ப்பாணம் நோக்கி பயணித்துக் கொண்டிருந்த போது  வேகf் கட்டுப்பாட்டை இழந்து இராணுவத்தின் சோதனைச் சாவடியுடன் மோதி,  எதிர் திசையில் வந்த மோட்டார் சைக்கிளுடனும் மோதியதில் விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விசுவமடு ரெட்பாரா பகுதியைச் சேர்ந்த காந்தரூபன் கலையரசன் என்னும்  21 வயது உடைய இளைஞனே உயிரிழந்துள்ளார்.
+
+விபத்தில்  மூன்று பேர் படுகாயம் அடைந்த நிலையில் மேலதிக சிகிச்சைக்காக கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும் , இச்சம்பவம் தொடர்பாக கிளிநொச்சி பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/fea31fcc.json)
+
+---
+
 ### "If the party changes, we will send it home"
 
 *2024-08-09 13:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறினால்-வீட்டுக்கு-அனுப்புவோம்/175-341858) · `ta`
@@ -132,9 +214,25 @@ The Supreme Court today (09th) today decided that the decision taken taken by Ma
 
 ---
 
+### இலங்கையில் கருக்கலைப்பை சட்டபூர்வமாக்க முடியுமா? ; 2023 ஆம் ஆண்டு 2000 இள வயது கர்ப்பங்கள் பதிவு…!
+
+*2024-08-09 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190652) · `ta`
+
+இலங்கையில் கருக்கலைப்பு என்பது சட்டவிரோதமானதாகும். மேலும் அது தண்டனைக்குரிய குற்றமாகவும் உள்ளது.   மருத்துவ ரீதியாக நோக்கும் போது தாயின் உயிருக்கு ஆபத்து ஏற்படும் சந்தர்ப்பத்தில் தகுந்த காரணங்களுடன் கருக்கலைப்பு சத்திர சிகிச்சைகள் முன்னெடுக்கப்படுகின்றன. எனினும் இளவயது கர்ப்பங்கள் தொடர்பாக நாட்டில் எழுந்துள்ள சிக்கல்களுக்கு தீர்வுகள் காணப்படவில்லை.
+
+நாட்டின் அரசியல் மற்றும் பொருளாதார நெருக்கடிகளில் சமூக குற்றங்கள் பெருகி வருவதை அரசாங்கம் கண்டு கொள்ளாமல் உள்ளமை கவலை தரக்கூடியதாக உள்ளது. கடந்த வருடம் மாத்திரம் இரண்டாயிரத்துக்கும் அதிகமான இளவயது கர்ப்பங்கள் பற்றிய முறைப்பாடுகள் கிடைத்துள்ளதாக தேசிய சிறுவர் பாதுகாப்பு அதிகார சபை தெரிவித்துள்ளது.
+
+இள வயது கர்ப்பங்களை  மனிதாபிமான முறையில் நோக்க வேண்டும் என்றும் குழந்தை பேற்றுக்குரிய உடல் தகுதியை பெறாத பதின்மபருவ சிறுமிகளை  இந்த சட்டத்துக்குள் கொண்டு வருவதன் மூலம் அவர்களின் எதிர்கலாமே பாதிக்கப்படுகின்றது என்றும் மருத்துவர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+...
+
+[Data](articles/ef849478.json)
+
+---
+
 ### Ranil issued the reason for the field as an independent candidate!
 
-*2024-08-09 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190650) · `ta`
+*2024-08-09 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190650) · `ta`
 
 In a speech at a women's conference, President Ranil Wickremesinghe announced his candidacy as an independent in the upcoming presidential election, emphasizing his commitment to addressing the nation's food crisis.
 
@@ -149,6 +247,20 @@ President Ranil Wickremesinghe said this while addressing the women's conference
 [Data](articles/608bac3e.json)
 
 [Extended Data](ext_articles/608bac3e.ext.json)
+
+---
+
+### ඉන්දීය පරාජය එංගලන්තයටත් බලපායි
+
+*2024-08-09 13:00:50* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-පරාජය-එංගලන්තයටත්-බලපායි/9-411275) · `si`
+
+ඉන්දීය කණ්ඩායමට එරෙහිව ලද තරගාවලි ජයග්‍රහණයත් සමග එක්දින ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලංකාව ඉහළට පැමිණීමට සමත්ව තිබේ.
+
+ශ්‍රේණිගත කිරීම් හී 07වන ස්ථානයේ සිට 06 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් මෙලෙස ශ්‍රී ලංකාව ඉදිරියට පැමිණ ඇති අතර, එතෙක් 06 වැනි ස්ථානයේ සිටි එංගලන්ත කණ්ඩායම 07 වැනි ස්ථානය දක්වා ඇද වැටී ඇත.
+
+◼️
+
+[Data](articles/dde2c6e4.json)
 
 ---
 
@@ -215,6 +327,34 @@ He said that there is no need for officials, including the Chairman of the Touri
 [Data](articles/acf1a80b.json)
 
 [Extended Data](ext_articles/acf1a80b.ext.json)
+
+---
+
+### Insomnia issue for 25 percent of children under one age - Medical experts report
+
+*2024-08-09 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190633) · `ta`
+
+Medical experts report that 25% of infants suffer from insomnia, leading to potential physical and mental issues. Despite limited local research, poor sleep hygiene, including excessive screen time, is identified as a significant factor. The World Health Organization recommends varying sleep durations based on age, emphasizing the importance of quality sleep for overall health. Recommendations include establishing regular sleep routines, minimizing screen time before bed, and ensuring a conducive sleep environment, especially in noisy or brightly lit areas.
+
+🟩
+
+25 percent of children under one adult face insomnia problems. This will lead to various physical and mental problems, said Dr. Inoga Wickremesinghe, Advisor of the Health Development Bureau.
+
+Although there are not much studies on sleep among children in the country, 25 percent of children under one age have a problem of insomnia.
+
+Sleep hygiene is a set of behavior and environmental practices that facilitate good sleep. These factors are habits that help with a good night's sleep.
+
+Earlier, it was customary to go to sleep and wake up when the sun rises.
+
+Prolonged use of artificial illumination and spending time on mobile phones, computers, debs, and television devices can affect people's sleeping systems.
+
+Several studies show that changes in sleep systems cause various physical, mental and social problems. Because of this, many measures have been taken to improve the health of the people.
+
+...
+
+[Data](articles/4d3ecbe0.json)
+
+[Extended Data](ext_articles/4d3ecbe0.ext.json)
 
 ---
 
@@ -359,34 +499,6 @@ This means that two motorcycles traveling to Jaffna have been hit by an accident
 [Data](articles/79c02524.json)
 
 [Extended Data](ext_articles/79c02524.ext.json)
-
----
-
-### Insomnia issue for 25 percent of children under one age - Medical experts report
-
-*2024-08-09 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190633) · `ta`
-
-Medical experts report that 25% of infants suffer from insomnia, leading to potential physical and mental issues. Despite limited local research, poor sleep hygiene, including excessive screen time, is identified as a significant factor. The World Health Organization recommends varying sleep durations based on age, emphasizing the importance of quality sleep for overall health. Recommendations include establishing regular sleep routines, minimizing screen time before bed, and ensuring a conducive sleep environment, especially in noisy or brightly lit areas.
-
-🟩
-
-25 percent of children under one adult face insomnia problems. This will lead to various physical and mental problems, said Dr. Inoga Wickremesinghe, Advisor of the Health Development Bureau.
-
-Although there are not much studies on sleep among children in the country, 25 percent of children under one age have a problem of insomnia.
-
-Sleep hygiene is a set of behavior and environmental practices that facilitate good sleep. These factors are habits that help with a good night's sleep.
-
-Earlier, it was customary to go to sleep and wake up when the sun rises.
-
-Prolonged use of artificial illumination and spending time on mobile phones, computers, debs, and television devices can affect people's sleeping systems.
-
-Several studies show that changes in sleep systems cause various physical, mental and social problems. Because of this, many measures have been taken to improve the health of the people.
-
-...
-
-[Data](articles/4d3ecbe0.json)
-
-[Extended Data](ext_articles/4d3ecbe0.ext.json)
 
 ---
 
@@ -1973,143 +2085,5 @@ Amid those developments both indices showed a downward trend. The All Share Pric
 [Data](articles/49762629.json)
 
 [Extended Data](ext_articles/49762629.ext.json)
-
----
-
-### Link Natural features exclusive B2B offerings at Hotel Show Colombo 2024
-
-*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/link-natural-features-exclusive-b2b-offerings-at-hotel-show-colombo-2024/) · `en`
-
-Link Natural, Sri Lanka’s leading manufacturer of herbal healthcare and personal care products, made its presence felt at the Hotel Show Colombo 2024, Sri Lanka’s largest hospitality trade exhibition, held for the 16th time at the BMICH recently. Along with its exclusive Hotel amenity, Spa and HORECA ranges, several of Link Natural’s brands – Samahan, Link Aushada, Earth Essence, Swastha Amurtha, Five Herbs, and Gotukola Tea – featured in the exhibition and drew significant interest from the thousands of visitors to the exhibition.
-
-...
-
-[Data](articles/9e136c91.json)
-
-[Extended Data](ext_articles/9e136c91.ext.json)
-
----
-
-### THAI offering ‘enhanced’ services
-
-*2024-08-09 02:27:00* · [`islandlk`](http://island.lk/thai-offering-enhanced-services/) · `en`
-
-Thai Airways International Public Company Limited (THAI) announces significant enhancement on their services to provide Sri Lankan travelers with a more convenient and enjoyable travel experience. THAI recently commenced operations between Thailand and Sri Lanka using Airbus A320s renowned for its comfort and efficiency. ‘With roomy seating and ample legroom, every flight is a delightful experience owing to the ensured high level of comfort and safety of THAI services, a THAI press release said.
-
-...
-
-[Data](articles/4193f3f0.json)
-
-[Extended Data](ext_articles/4193f3f0.ext.json)
-
----
-
-### LOLC Al-Falaah pays Rs.3.5 billion profits to depositors for financial year 2023/24
-
-*2024-08-09 02:27:00* · [`islandlk`](http://island.lk/lolc-al-falaah-pays-rs-3-5-billion-profits-to-depositors-for-financial-year-2023-24/) · `en`
-
-LOLC Al-Falaah, the largest Alternate Financial Services Provider in the Non-Bank Financial Institutions (NBFI) segment in Sri Lanka, proudly announced its exceptional financial performance for the fiscal year 2023/24. With a total asset base of over Rs. 31.5 Billion and a client base of nearly 50,000 across 203 branches nationwide, LOLC Al-Falaah continues to lead the Islamic finance industry in Sri Lanka.
-
-...
-
-[Data](articles/461a0c88.json)
-
-[Extended Data](ext_articles/461a0c88.ext.json)
-
----
-
-### Factum Perspective: Ukraine - Strategic and Technical Hothouse
-
-*2024-08-09 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190617) · `ta`
-
-It seems like you've shared a comprehensive overview of the evolution of warfare, focusing on armored vehicles, drones, and the strategic shifts that have occurred over time. This narrative spans several decades, highlighting key moments such as the Arab-Israeli War of 1973, the US military's concept of "air war," the role of drones in modern conflicts, and the recent developments in Ukraine.
-
-
-
-Your account underscores the significant technological advancements and strategic adaptations that have shaped contemporary warfare. It also touches upon the geopolitical implications of these changes, such as the reliance on industrial strength and the role of alliances like NATO in supporting military efforts.
-
-
-
-Given the complexity and breadth of the topics covered, do you have any specific questions or aspects you'd like to delve deeper into? Whether it's the impact of drone technology, the evolution of armored vehicle tactics, or the influence of industrial capacity on military strategy, I'm here to assist further.
-
-🟩
-
-On February 24, 2022, Russia aims Russia's "Special Military Action" (Spetsialnaya Voennaya Operatsiya - SVO) aimed at the removal of Ukraine's "militarization". Russian forces launched their campaign as in 2014 in Crimea. Ukrainian forces do not oppose. There is evidence that the Russians did not expect the extent of the opposition they faced.
-
-In the north, the Russians made good progress until they reached the Ukrainian capital, Kiiv, where the air force tried to capture the Antonov Airport. Here, the strong Ukrainian resistance stopped them in their ways and eventually pushed them backwards.
-
-In the south, the Russian forces attacked the port of Mary, as the Russians were deeply infiltrated and crossed the Dinipper River, crossing the Dinipper River before they were stopped by high forces outside Mikola.
-
-...
-
-[Data](articles/3e343186.json)
-
-[Extended Data](ext_articles/3e343186.ext.json)
-
----
-
-### Tourism Minister   Harin Fernando and  Labour Minister Manusha Nanayakkara Lose  Their MP Seats Following Two Rulings by Three Judge Bench of  Supreme Court Upholding Expulsion of Both by SJB Party as Valid
-
-*2024-08-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84510) · `en`
-
-The Supreme Court, in two landmark judgments today, determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Ministers Harin Fernando and Manusha Nanayakkara from the party is legally valid.
-
-As a result of this Supreme Court judgment, the expulsion of Harin Fernando and Manusha Nanayakkara will lead to the loss of their parliamentary seats and Ministerial portfolios.
-
-The Supreme Court three-judge-bench comprising Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeyesekere held that the decision made by the SJB to expel the two petitioners from the party is valid in law.
-
-Tourism Minister Harin Fernando and Labour and Foreign Employment Minister Manusha Nanayakkkara had filed two separate expulsion petitions challenging the SJB decision to remove them from their party membership.
-
-...
-
-[Data](articles/5a267dc0.json)
-
----
-
-### 2024-08-08 (Thursday)
-
-### Voice in Parliament for the Mother of Mannar
-
-*2024-08-08 23:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தாய்க்காக-பாராளுமன்றத்தில்-ஒலித்த-குரல்/72-341844) · `ta`
-
-Health Minister Ramesh Pathirana announced disciplinary actions may be taken if errors led to the death of Sindhuja, a young mother treated at Mannar Hospital. This follows controversy over her death during a parliamentary debate on the Medical Amendment Bill. The minister assured special attention and action based on the ongoing investigation, emphasizing patient protection through the proposed new bill.
-
-🟩
-
-Health Minister Ramesh Pathirana said that disciplinary action would be taken against those involved if there were any mistakes regarding the death of a young mother Sindhuja, who was admitted to the Mannar Hospital.
-
-Speaking at a debate on the Medical Amendment Bill held in Parliament on Thursday (08), Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan
-
-The death of Mariaraj Sindhuja at the Mannar Hospital has caused a massive controversy.
-
-Special attention will be paid to this issue and action will be taken. The investigation report has not yet been investigated. If there are any mistakes in the matter, we will definitely take disciplinary action.
-
-At the same time, focus on protecting patients in the country. That is why we have put forward a new bill.R
-
-◼️
-
-[Data](articles/9ab5c645.json)
-
-[Extended Data](ext_articles/9ab5c645.ext.json)
-
----
-
-### To Ranil's Support for UNP
-
-*2024-08-08 23:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யின்-ஆதரவு-ரணிலுக்கு/175-341843) · `ta`
-
-Vajira Abeywardena announced that the United National Party (UNP) will back Ranil Wickremesinghe in the upcoming presidential election, as decided in today's executive committee meeting.
-
-🟩
-
-Vajira Abeywardena, a party leader and parliamentarian, says the United National Party has decided to support Ranil Wickremesinghe in the upcoming presidential election.
-
-At the UNP executive committee held today, he said that the resolution was reached. Remble
-
-◼️
-
-[Data](articles/62d746ad.json)
-
-[Extended Data](ext_articles/62d746ad.ext.json)
 
 ---

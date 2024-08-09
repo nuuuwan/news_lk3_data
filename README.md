@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 14:55:27**
+As of **2024-08-09 15:06:28**
 
 ## Newspaper Stats
 
-*Scraped **39,835** Articles*
+*Scraped **39,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,79 +18,159 @@ dailyftlk | 2,568
 adalk | 3,654
 adaderanalk | 4,627
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,019
+tamilmirrorlk | 5,021
 virakesarilk | 6,309
-adaderanasinhalalk | 6,759
+adaderanasinhalalk | 6,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,828 (100.0%) of 39,835 articles have been extended.
+39,835 (100.0%) of 39,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### හරීන් සහ මනූෂ අමාත්‍ය ධුරවලින් ඉල්ලා අස්වෙයි
+
+*2024-08-09 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199754) · `si`
+
+තමන් අමාත්‍ය ධුරවලින් ඉල්ලා අස්වූ බව හරීන් ප්‍රනාන්දු සහ මනුෂ නානායක්කාර මහත්වරු පවසයි.
+
+◼️
+
+[Data](articles/03dd573c.json)
+
+---
+
+### ඉන්දීය ධීවරයින් 35ක් නාවික හමුදා භාරයට
+
+*2024-08-09 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199752) · `si`
+
+මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් 35 දෙනෙකු වයඹ මුහුදේදී නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සමග වයඹ  මුහුදේ, කුදිරමලේ තුඩුවට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ සිදුකළ සෝදිසි මෙහෙයුමක දී ඔවුන් අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසුවේය.
+
+එහිදී අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රා හතරක් ද නාවික හමුදා භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් ඉන්දීය ධීවරයින් කල්පිටිය නාවික නෞකා විජය ආයතනය වෙත රැගෙනවිත් ඇති අතර ඉදිරි නීතිමය කටයුතු සඳහා ඔවුන් කල්පිටිය ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දීමට නියමිතය.
+
+◼️
+
+[Data](articles/51344744.json)
+
+---
+
+### ஹரினின் வெற்றிடத்துக்கு ஹிருணிகா
+
+*2024-08-09 14:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினின்-வெற்றிடத்துக்கு-ஹிருணிகா/175-341863) · `ta`
+
+ஹரின் பெர்னாண்டோவை ஐக்கிய மக்கள் சக்தியில் இருந்து நீக்கியமை சட்டத்துக்கு உடன்பட்டது என உயர் நீதிமன்றம் தீர்ப்பளித்ததை அடுத்து  தன்னுடைய அமைச்சுக்கு சென்ற சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ, ஊழியர்களுக்கு பிரியாவிடை கொடுத்துவிட்டு அமைச்சில் இருந்து, வௌ்ளிக்கிழமை (08) வெளியேறினார்.
+
+இந்நிலையில், ஹரினின் பாராளுமன்ற உறுப்பினர் வெற்றிடத்துக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமசந்திரவை நியமிக்குமாறு வலியுறுத்தப்பட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/37e041e7.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-08-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190654) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 09) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 296.2860 ஆகவும் விற்பனை விலை ரூபா 305.4598  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's buying rate was Rs 296.2860, while its selling rate was Rs 305.4598 as per the latest rates announced by the Central Bank on August 09.
+
+🟩
+
+The US dollar purchasing price was Rs 296.2860 and the sales price were 305.4598 based on the currency exchange rate released by the Central Bank on Friday (August 09).
 
 ◼️
 
 [Data](articles/0fec4ba9.json)
 
+[Extended Data](ext_articles/0fec4ba9.ext.json)
+
 ---
 
-### බංග්ලාදේශය රනිල් වැනි නායකයෙක් සොයනවා...-පවිත්‍රා
+### Bangladesh is looking for a leader like Ranil ... - Pavithra
 
 *2024-08-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199751) · `si`
 
-වත්මන් බංගලාදේශය රනිල් වික්‍රමසිංහ මහතා වැනි නායකයෙකු සොයමින් සිටින බව අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය පවසන්නීය.
+Minister Pavithra Wanniarachchi stated at a women's convention in Colombo that Bangladesh admires leaders like Ranil Wickremesinghe, known for his courage and leadership without causing tears in his homeland. She highlighted the importance of such leaders in establishing peace and unity within a nation.
 
-මේ වන විට කොළඹදී පැවැත්වෙන "කාන්තා අපේ බලය" කාන්තා සමුළුව අමතමින් අමාත්‍යවරිය මේ බව කියා සිටියාය.
+🟩
 
-බංග්ලාදේශයට වැනි භයානක තත්ත්වයක් ලංකාවට උරුම නොවූයේ රනිල් වික්‍රමසිංහ මහතා වැනි ධෛර්ය සම්පන්න නායකයෙකු බිහිව සිටි නිසා බව ද ඇය වැඩිදුරටත් සඳහන් කළාය.
+Minister Pavithra Wanniarachchi says that Bangladesh is looking for a leader of Ranil Wickremesinghe.
 
-"මුළු බංග්ලාදේශයම ගිනි ගොඩක් බවට පත්වුණා. අද බංග්ලාදේශය රනිල් වික්‍රමසිංහ වැනි නායකයෙකු සොයමින් සිටිනවා. අපිට ඒ දේ උරුම නොවුණේ මේ මාතෘ භූමියේ මහ පොළොවේ රනිල් වික්‍රමසිංහ වැනි නායකයෙකු වැනි බිහි වුයේ නිසයි. ඒ නිසා මේවට තර්ක විතර්ක අවශ්‍ය නෑ. රටේ නායකයා රටින් ගිය වෙලාවේ මේ මාතෘ භූමියේ එක ලේ කඳුළක් හදන්නේ නැතුව රාජ්‍යත්වය ස්ථාපිත කරමින් මේ රට නැවත යථාතත්ත්වයට පත් කළේ වෙන කවුරුත් නෙමෙයි රනිල් වික්‍රමසිංහ ජනාධිපතිතුමයි. ඒ නිසා අපි අද පාට, පක්ෂ සියල්ල පැත්තකට දාලා මේ මාතෘ භූමියේ නිවැරදි තීන්දු ගන්නා වූ කාන්තාවන් වශයෙන් අපේ ස්වකීය යුතුකම මේ මාතෘ භූමියට එක් කිරීමටයි එකතු වුණේ."
+The Minister was speaking at the women's convention in Colombo at present.
+
+She added that Sri Lanka was a courageous leader, such as Ranil Wickremesinghe, who was not inherited to Bangladesh.
+
+"The whole Bangladesh became a lot of fire. Today, Bangladesh is looking for Ranil Wickremesinghe. We did not inherit that because of a leader like Ranil Wickremesinghe on the earth's earth. So it does not need arguments. Ranil Wickremesinghe was none other than the establishment of the country without building a tears in this motherland while the leader of the country was gone from the country. So we joined our own duty to this motherland as the most common decisions of this motherland today. "
 
 ◼️
 
 [Data](articles/2079f90f.json)
 
+[Extended Data](ext_articles/2079f90f.ext.json)
+
 ---
 
-### பிரியாவிடை ஹரின்
+### ஹரினின் பிரியாவிடை
 
-*2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரியாவிடை-ஹரின்/175-341861) · `ta`
+*2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினின்-பிரியாவிடை/175-341861) · `ta`
 
 பாராளுமன்ற உறுப்பினர் பதவியில் இருந்து நீக்கப்பட்டதை அடுத்து தன்னுடைய அமைச்சுக்கு சென்ற சுற்றுலா, காணி, விளையாட்டு மற்றும் இளைஞர் விவகார முன்னாள் அமைச்சர்  ஹரின் பெர்னாண்டோ, ஊழியர்களுக்கு பிரியாவிடை கொடுத்துவிட்டு அமைச்சில் இருந்து வெளியேறினார்.
 
 ◼️
 
-[Data](articles/ab32907e.json)
+[Data](articles/77876761.json)
 
 ---
 
-### මැතිවරණ සමයේ සමාජ මාධ්‍ය හැසිරීම ගැන තීරණයක්
+### Priyavid Harin
+
+*2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரியாவிடை-ஹரின்/175-341861) · `ta`
+
+Harin Fernando, ex-Minister of Tourism, Land, Sports, and Youth Affairs, bids farewell to his staff after being removed from parliamentary position, marking his departure from the ministry.
+
+🟩
+
+Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who went to his ministry after his removal of the parliamentarian, gave a farewell to the staff and left the ministry.
+
+◼️
+
+[Data](articles/ab32907e.json)
+
+[Extended Data](ext_articles/ab32907e.ext.json)
+
+---
+
+### Decision on social media behavior during election season
 
 *2024-08-09 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199750) · `si`
 
-ජනාධිපතිවරණයේ නාමයෝජනා භාරගන්නා දිනයේ දී මැතිවරණ කොමිසමේ ආරක්ෂාව සම්බන්ධයෙන් මැතිවරණ කොමිසමේදී සාකච්ඡාවක් පවත්වා තිබේ.
+The Election Commission, along with senior police officers from Colombo District, discussed election security post-nomination acceptance. A workshop on election law and media standards was also held. Special focus was placed on Instagram and TikTok, with clear regulations set. Non-compliance will result in strict action.
 
-ඒ, කොළඹ දිස්ත්‍රික්කයේ ජ්‍යේෂ්ඨ පොලිස් නිලධාරීන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතරය.
+🟩
 
-මේ අතර මැතිවරණ නීති හා මාධ්‍ය උපමාන බලාත්මක කිරීම පිළිබඳ වැඩමුළුවක් රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී අද (09) පෙරවරුවේ පැවැත්වුණි.
+The Election Commission has discussed a discussion on the security of the Election Commission on the date of acceptance of the nominations of the presidential election.
 
-මෙහිදි අදහස් දක්වමින් මැතිවරණ කොමිෂන් සභාවේ නියෝජ්‍ය මැතිවරණ කොමසාරිස් (මැතිවරණ ආරවුල් නිරාකරණ) පියුමි ආටිගල මහත්මිය පවසන්නේ මේ වනවිට සමාජ මාධ්‍ය සම්බන්ධව පැමිණිලි රැසක් ලැබී ඇති බවත් මේ හේතුවෙන් මැතිවරණ කාල සීමාවේදී විශේෂ අවධානයක් සමාජ මාධ්‍ය සඳහා ‍යොමු කර ඇති බවය.
+That is the case with Senior Police Officers of the Colombo District and the Election Commission officials.
 
-"අපි විශේෂ අවධානයක් ඉන්ස්ටග්‍රෑම් සහ ටික්ටොක් කියන සමාජ මාධ්‍යවලට යොමු කරලා තියනවා. අපි ඒ ආයතන සමග සෘජුව සම්බන්ධ වෙලා තියනවා. සමාජ මාධ්‍ය නියාමනයේදී අපි විසින් නිකුත් කරන උපදෙස් සහ නියෝගවලට අනුකූල නොවෙනවා නම් ඒ ගොල්ලන්ගෙන් සම්මුතීන්වලින් ඔබ්බට ගිහිල්ලා අපිට සහයෝගය දක්වන්න ඒ ගොල්ලෝ කැමැත්ත පළ කරලා තියනවා."
+Meanwhile, a workshop on the implementation of election laws and media criteria was held at the Government Information Department this morning (09).
+
+Commenting here
+
+"We have special attention to Instagram and Ticktock social media. We have directly involved with those institutions. If we do not comply with the instructions and orders we have issued in regulation, they have agreed to beyond the compromises and support us. "
 
 ◼️
 
 [Data](articles/130b5f27.json)
+
+[Extended Data](ext_articles/130b5f27.ext.json)
 
 ---
 
@@ -154,23 +234,29 @@ The additional funding was announced during a visit to Sri Lanka by the U.S. Age
 
 ---
 
-### கிளிநொச்சியில் இராணுவ சோதனைச்சாவடியுடன் மோதிய மோட்டார் சைக்கிள் : இளைஞன் உயிரிழப்பு !
+### Motorcycle collided with military checkpoint in Kilinochchi
 
 *2024-08-09 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190637) · `ta`
 
-கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட ஆனையிறவு  சோதனைச் சாவடிக்கு முன்னால் இன்று வெள்ளிக்கிழமை (09) காலை  மோட்டார் சைக்கிளொன்று வேக கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In Kilinochchi, a fatal crash occurred when a motorcycle hit a military checkpoint near Elephant Pass, killing one and injuring three passengers. The victims were traveling to Jaffna from Viswamadu Redpara. The deceased, Kandarupan Kalaiyarasan, aged 21, and the injured have been taken to Kilinochchi Hospital. Investigations are ongoing.
 
-விசுவமடு ரெட்பாரா பகுதியில் இருந்து இருவர் மோட்டார் சைக்கிளில் யாழ்ப்பாணம் நோக்கி பயணித்துக் கொண்டிருந்த போது  வேகf் கட்டுப்பாட்டை இழந்து இராணுவத்தின் சோதனைச் சாவடியுடன் மோதி,  எதிர் திசையில் வந்த மோட்டார் சைக்கிளுடனும் மோதியதில் விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-விசுவமடு ரெட்பாரா பகுதியைச் சேர்ந்த காந்தரூபன் கலையரசன் என்னும்  21 வயது உடைய இளைஞனே உயிரிழந்துள்ளார்.
+One person was killed when a motorcycle lost control of the Elephant Pass checkpoint on Friday morning in front of the Kilinochchi Police Division.
 
-விபத்தில்  மூன்று பேர் படுகாயம் அடைந்த நிலையில் மேலதிக சிகிச்சைக்காக கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that two people from Viswamadu Redpara area collided with a motorcycle and collided with a military checkpoint and collided with a military checkpoint while they were traveling to Jaffna.
 
-மேலும் , இச்சம்பவம் தொடர்பாக கிளிநொச்சி பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+A 21 -year -old youth, Kandarupan Kalaiyarasan, from Viswamadu Redpara, has died.
+
+Three persons were injured in the accident and have been admitted to the Kilinochchi Hospital for further treatment, police said.
+
+The Kilinochchi police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/fea31fcc.json)
+
+[Extended Data](ext_articles/fea31fcc.ext.json)
 
 ---
 
@@ -214,19 +300,27 @@ The Supreme Court today (09th) today decided that the decision taken taken by Ma
 
 ---
 
-### இலங்கையில் கருக்கலைப்பை சட்டபூர்வமாக்க முடியுமா? ; 2023 ஆம் ஆண்டு 2000 இள வயது கர்ப்பங்கள் பதிவு…!
+### Can abortion legalize in Sri Lanka?;2023 2000 Young Pregnancy Record…!
 
 *2024-08-09 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190652) · `ta`
 
-இலங்கையில் கருக்கலைப்பு என்பது சட்டவிரோதமானதாகும். மேலும் அது தண்டனைக்குரிய குற்றமாகவும் உள்ளது.   மருத்துவ ரீதியாக நோக்கும் போது தாயின் உயிருக்கு ஆபத்து ஏற்படும் சந்தர்ப்பத்தில் தகுந்த காரணங்களுடன் கருக்கலைப்பு சத்திர சிகிச்சைகள் முன்னெடுக்கப்படுகின்றன. எனினும் இளவயது கர்ப்பங்கள் தொடர்பாக நாட்டில் எழுந்துள்ள சிக்கல்களுக்கு தீர்வுகள் காணப்படவில்லை.
+Abortion is illegal in Sri Lanka except to save a mother's life. Despite over 2000 cases of young pregnancies in 2023, the government hasn't addressed social issues contributing to them. Doctors advocate for legalizing abortion based on humanitarian and scientific grounds, highlighting cases like a 12-year-old victim of sexual abuse. Former Justice Minister Ali Sabri proposed amending the law in 2022, but progress is hindered by religious and ideological barriers.
 
-நாட்டின் அரசியல் மற்றும் பொருளாதார நெருக்கடிகளில் சமூக குற்றங்கள் பெருகி வருவதை அரசாங்கம் கண்டு கொள்ளாமல் உள்ளமை கவலை தரக்கூடியதாக உள்ளது. கடந்த வருடம் மாத்திரம் இரண்டாயிரத்துக்கும் அதிகமான இளவயது கர்ப்பங்கள் பற்றிய முறைப்பாடுகள் கிடைத்துள்ளதாக தேசிய சிறுவர் பாதுகாப்பு அதிகார சபை தெரிவித்துள்ளது.
+🟩
 
-இள வயது கர்ப்பங்களை  மனிதாபிமான முறையில் நோக்க வேண்டும் என்றும் குழந்தை பேற்றுக்குரிய உடல் தகுதியை பெறாத பதின்மபருவ சிறுமிகளை  இந்த சட்டத்துக்குள் கொண்டு வருவதன் மூலம் அவர்களின் எதிர்கலாமே பாதிக்கப்படுகின்றது என்றும் மருத்துவர்கள் சுட்டிக்காட்டுகின்றனர்.
+Abortion in Sri Lanka is illegal. And it is also a punishable offense.Abortion surgery is carried out with appropriate reasons in the event of a mother's life risk when viewed. However, there are no solutions to the problems that arise in the country regarding young pregnancies.
+
+It is worrying that the government does not find social crimes in the country's political and economic crises. The National Child Protection Authority said that more than two thousand young pregnancies received complaints last year.
+
+Doctors point out that young adult pregnancies should be viewed in a humanitarian manner and that the child is suffering from the law of the teenage girls who do not have the physical fitness.
+
+Rohan P. Rupura, a doctor of the Karapitiya Teaching Hospital, said that abortion should be allowed on the basis of fair and humanitarian basis and scientific needs.
 
 ...
 
 [Data](articles/ef849478.json)
+
+[Extended Data](ext_articles/ef849478.ext.json)
 
 ---
 
@@ -250,17 +344,23 @@ President Ranil Wickremesinghe said this while addressing the women's conference
 
 ---
 
-### ඉන්දීය පරාජය එංගලන්තයටත් බලපායි
+### India affects England
 
 *2024-08-09 13:00:50* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-පරාජය-එංගලන්තයටත්-බලපායි/9-411275) · `si`
 
-ඉන්දීය කණ්ඩායමට එරෙහිව ලද තරගාවලි ජයග්‍රහණයත් සමග එක්දින ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලංකාව ඉහළට පැමිණීමට සමත්ව තිබේ.
+Sri Lanka, after facing India, rose from 7th to 6th in the ODI rankings, securing its position among the top six teams.
 
-ශ්‍රේණිගත කිරීම් හී 07වන ස්ථානයේ සිට 06 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් මෙලෙස ශ්‍රී ලංකාව ඉදිරියට පැමිණ ඇති අතර, එතෙක් 06 වැනි ස්ථානයේ සිටි එංගලන්ත කණ්ඩායම 07 වැනි ස්ථානය දක්වා ඇද වැටී ඇත.
+🟩
+
+Sri Lanka has come to the top of the ODI rating with the tournament against the Indian team.
+
+Sri Lanka has come forward from the 7th to 6th and the sixth largest of the sixth in the 6th place.
 
 ◼️
 
 [Data](articles/dde2c6e4.json)
+
+[Extended Data](ext_articles/dde2c6e4.ext.json)
 
 ---
 
@@ -2019,71 +2119,5 @@ President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early t
 [Data](articles/4933fe13.json)
 
 [Extended Data](ext_articles/4933fe13.ext.json)
-
----
-
-### NIBM REACH 2024 delivers platform for students to shine on stage
-
-*2024-08-09 02:35:00* · [`islandlk`](http://island.lk/nibm-reach-2024-delivers-platform-for-students-to-shine-on-stage/) · `en`
-
-National Institute of Business Management (NIBM), a leading educational institution functioning as a statutory body under the Ministry of Education in the government sector, has announced the launch of NIBM REACH 2024, an exciting talent show set to showcase the diverse and exceptional talents of individuals from NIBM.
-
-...
-
-[Data](articles/5ccf0979.json)
-
-[Extended Data](ext_articles/5ccf0979.ext.json)
-
----
-
-### Asian Paints Causeway unveils ‘ColourNext-2024’ in Colombo
-
-*2024-08-09 02:34:00* · [`islandlk`](http://island.lk/asian-paints-causeway-unveils-colournext-2024-in-colombo/) · `en`
-
-One of Sri Lanka’s largest paint manufacturers, Asian Paints Causeway, recently launched ‘ColourNext-2024’ at a grand event held in Colombo. ‘ColorNext’ is a comprehensive, annual forecast of design directions in colors, materials, textures, and finishes, compiled by Asian Paints in collaboration with experts from various creative disciplines, including architecture, art, interiors, fashion, sociology, media, and FMCG. ‘ColorNext’ is celebrated as South Asia’s premier and unique intelligence in color and material forecasting.
-
-The launch of ‘ColourNext-2024’ marks the inaugural edition of ‘ColorNext’ in Sri Lanka. The event hosted an esteemed group of architects and interior designers, alongside notable figures such as Sireesh Rao, Regional Head – Asian Paints International Pvt Ltd; Vaithilingam Kiritharan, General Manager Sales and Marketing (Sri Lanka); Anuradha Edirisinghe, Head of Marketing (Sri Lanka); and the Senior Management of Asian Paints Causeway.
-
-...
-
-[Data](articles/1427522c.json)
-
-[Extended Data](ext_articles/1427522c.ext.json)
-
----
-
-### Teejay knits resilient start to 2024-25 with profit turnaround in Q1
-
-*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/teejay-knits-resilient-start-to-2024-25-with-profit-turnaround-in-q1/) · `en`
-
-Strategic responses to challenges facing the textile manufacturing industry have generated a positive start to 2024-25 for Teejay Lanka PLC, Sri Lanka’s first multinational textile manufacturer.The Group has reported profit before tax of Rs 273.7 million for the three months ending 30th June 2024, reversing a loss of Rs 701 million in the first quarter of the preceding year.
-
-Revenue for the three months, at Rs 15.4 billion, reflected an improvement of 10% over the corresponding quarter of the previous year, but gross profit grew by 357% to Rs 1.3 billion, Teejay Lanka said in a filing with the Colombo Stock Exchange (CSE).
-
-Consequently, the Group posted an operating profit of Rs 382 million from an operating loss of Rs 582 million in the first quarter of 2023-24, and reported net profit of Rs 158.3 million for the quarter under review, in contrast to a net loss of Rs 853 million in the corresponding period of the previous year.
-
-...
-
-[Data](articles/274fc827.json)
-
-[Extended Data](ext_articles/274fc827.ext.json)
-
----
-
-### Marked selling pressure on banking sector counters; gains for Sampath stocks
-
-*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/marked-selling-pressure-on-banking-sector-counters-gains-for-sampath-stocks/) · `en`
-
-The stock market yesterday started on a positive note but later turned negative with significant selling pressure mounted on banking sector counters. Against that backdrop there was a notable gain on Sampath Bank stocks due to satisfactory quarterly results of the company, market analysts said.
-
-Sampath Bank PLC said it will issue up to 50,000,000 Basel III compliant – tier second , listed, rated, unsecured, subordinated, redeemable, 5-year debentures with a non-viability conversion at Rs. 100 each to raise Rs. 5 billion initially.
-
-Amid those developments both indices showed a downward trend. The All Share Price Index went down by 35.07 points while S and P SL20 declined by 8.8 points. Turnover stood at Rs 629 million with one crossing. The crossing was reported in Central Finance, which crossed 221,000 shares to the tune of Rs 23 million; its shares traded at Rs 104.
-
-...
-
-[Data](articles/49762629.json)
-
-[Extended Data](ext_articles/49762629.ext.json)
 
 ---

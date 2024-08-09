@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 22:36:42**
+As of **2024-08-09 22:54:36**
 
 ## Newspaper Stats
 
-*Scraped **39,892** Articles*
+*Scraped **39,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,65 @@ adaderanalk | 4,640
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,028
 virakesarilk | 6,324
-adaderanasinhalalk | 6,773
+adaderanasinhalalk | 6,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,891 (100.0%) of 39,892 articles have been extended.
+39,892 (100.0%) of 39,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ගොළු බිහිරි ගම්මානයක්, පවුල් 20යි, 15කම උපතින් ගොළු බිහිරි අය
+### දෙමළ පොදු අපේක්ෂකයාට දෙමළ සන්ධානයේ විරෝධය
+
+*2024-08-09 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199767) · `si`
+
+ජනාධිපතිවරණය සඳහා දෙමළ පොදු අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට අවශ්‍යතාවක් නොමැති බව ඉලංකෙයි තමිල් අරසු කච්චි පාර්ලිමේන්තු මන්ත්‍රී ශානක්කියන් රාසමානික්කම් මහතා පවසයි.
+
+කිසිදු ඡන්ද පදනමක් නොමැති පාර්ශව කිහිපයක් එක්ව ඊයේ (08) දිනයේ පොදු අපේක්ෂකයෙකු ප්‍රකාශයට පත් කිරීම අනුමත කළ නොහැකි බව මන්ත්‍රීවරයා පෙන්වාදෙයි.
+
+ඊයේ දිනයේ උතුරු නැගෙනහිර පළාත් නියෝජනය කරන දේශපාලන පක්ෂ හා සංවිධාන කිහිපයක් එක්ව දෙමළ පොදු අපේක්ෂකයෙකු නම් කිරීම සම්බන්ධයෙන් මාධ්‍ය වෙත අදහස් දක්වමින් ශානක්කියන් රාසමානික්කම් මන්ත්‍රීවරයා මේ බව කියා සිටියේය.
+
+"මේ පොදු අපේක්ෂකයා අවශ්‍ය නැති වැඩක් දෙමළ ජනතාවට. දෙමළ ජනතාවට කිසිම උනන්දුවක් නෑ පොදු අපේක්ෂකයෙක් අවශ්‍යයි කියලා. දැනට ඉදිරිපත් වෙලා ඉන්න අපේක්ෂකයින්ගෙන් එක්කෙනෙක් නියත වශයෙන්ම ජනාධිපති වෙනවා. ඡන්ද වෙන අයෙකුට යන එක වළක්වන්න වෙනත් අපේක්ෂකයෙකුගේ උවමනාවට ඉදිරිපත් වුණා කියලත් මතයක් තියෙනවා."
+
+◼️
+
+[Data](articles/302688a6.json)
+
+---
+
+### A dumb deaf village, 20 families, 15 and dumb deaf
 
 *2024-08-09 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199766) · `si`
 
-අඩු පහසුකම් මැද ජීවත්වන, ගොළු බිහිරි ගම්මානයක් පිළිබඳ පුවතක් අනුරාධපුරයෙන් වාර්තා වේ.
+In a remote deaf village in Anuradhapura, 20 families struggle with poverty, relying on forest elephant hunting, odd jobs, and agriculture. Despite government aid, insufficient funds and lack of support for the deaf hinder their livelihoods and education. The village faces water scarcity; a donated water refinery is non-functional, exacerbating their challenges.
 
-මෙම ගම්මානය පිහිටා තිබෙන්නේ අනුරාධපුර, තිරප්පනය ප්‍රාදේශීය ලේකම් කොට්ඨාසයයට අයත් අංක 553 මීවැල්ලෑව ග්‍රාම සේවා තුලානේය.
+🟩
 
-නමින් තිනිපිටිගම වන මෙම ගම්මානයේ පවුල් 20කට ආසන්න ප්‍රමාණයක් ජීවත් වන අතර, ඉන් පවුල් 15ක පමණ උපතින්ම ගොළු බිහිරි අය ජීවත් වේ.
+The news from Anuradhapura is reported in Anuradhapura, living in a dumb deaf village.
 
-එමෙන්ම ඔවුන් ඉතා අපහසුතා මැද ජීවත්වෙන අතර, ගම්මානයට පිවිසීමට හරිහමන් මාර්ගයක් නොමැති පසුබිමක එම ගම්මානයේ වැසියන් බීමට ජලය ලබා ගන්නේද පිටතින් පැමිණෙන ලොරි රථ මඟිනි.
+The village is located 553 in Meeramawa Grama Niladuwa No. 553 belonging to the Thiction Divisional Secretariat Division in Anuradhapura.
 
-නිරන්තරයෙන් වන අලීන්ගෙන් බැට කන මෙම ගම්මානයේ වැසියන්නේ ප්‍රධාන ජීවිකාවන් වී ඇත්තේ කුලී රැකියා, සත්ත්ව පාලනය හා ධීවර රැකියාව යනාදියයි.
+The village of Thinepitigama, who lives, lives in about 20 families, and about 15 families live with dumb deaf.
 
-අඩු පහසුකම් යටතේ ජීවත් වන මොවුන්ට, ආබාධිත දීමනා වශයෙන් රජයෙන් රුපියල් 5,000ක මුදලක් හිමි වේ.
+They live in the middle of the village, which is not in the face of very difficulties, and in a backdrop, the villagers will get water to drink.
 
-කෙසේ නමුත් සිය ජීවිකාව ගැටගසා ගැනීමට එම මුදල ප්‍රමාණවත් නොමැති නිසා, කුලී රැකියා සොයා ගියද බොහෝ දෙනෙකු ගොළු බිහිරි වීම නිසා කුලී රැකියාවක්වත් නොලැබෙන බව සඳහන්ය.
+The batter of forest elephants is the main livelihoods, trip jobs, animal husbandry and fisheries.
+
+The government receives Rs.
+
+However, it is said that the money is not sufficient to climb his livelihood, but many do not even receive the relief jobs due to dumb deaf.
+
+They say that the meager earning occasionally earned from the rental job is unable to do their livelihood or carry out the education of children.
 
 ...
 
 [Data](articles/dd279eb0.json)
+
+[Extended Data](ext_articles/dd279eb0.ext.json)
 
 ---
 
@@ -2277,27 +2303,5 @@ It is also noteworthy that during the discussion on the problems faced by unempl
 [Data](articles/995bd1fc.json)
 
 [Extended Data](ext_articles/995bd1fc.ext.json)
-
----
-
-### X freeze for 10 days - Venezuela President Action
-
-*2024-08-09 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190621) · `ta`
-
-Venezuela's President Maduro announced a 10-day shutdown of Twitter, citing the National Telecommunication Commission's decision. This action will effectively block access to Twitter within Venezuela for the specified period.
-
-🟩
-
-President Nicholas Maduro Maduro on Thursday announced that X (X), one of the social media in Venezuela, will be shut down for 10 days.
-
-The National Telecommunication Commission of Venezuela said that I have signed a decision taken for 10 days to freeze X social media called Twitter.
-
-He also mentioned that X social media will leave Venezuela for 10 days.
-
-◼️
-
-[Data](articles/26f35eff.json)
-
-[Extended Data](ext_articles/26f35eff.ext.json)
 
 ---

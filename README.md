@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 07:03:02**
+As of **2024-08-09 07:30:48**
 
 ## Newspaper Stats
 
-*Scraped **39,733** Articles*
+*Scraped **39,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,219 @@ dbsjeyarajcom | 341
 newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
-islandlk | 2,285
+islandlk | 2,295
 economynextcom | 2,410
-dailyftlk | 2,559
+dailyftlk | 2,568
 adalk | 3,645
 adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,001
 virakesarilk | 6,296
-adaderanasinhalalk | 6,738
+adaderanasinhalalk | 6,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,724 (100.0%) of 39,733 articles have been extended.
+39,728 (99.9%) of 39,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### ප්‍රදේශ රැසකට තද වැසි
+### ලෝක ආදිවාසී දිනය අද
+
+*2024-08-09 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199732) · `si`
+
+සෑම වසරකම අගෝස්තු මස 9 වනදා ලෝක ආදිවාසී ජනතාවගේ ජාත්‍යන්තර දිනය සමරනු ලබන්නේ ලෝක ආදිවාසී ජනගහණයේ අයිතිවාසිකම් නැංවීම හා සුරැකීම සඳහාය.
+
+මෙවර එහි තේමාව වී ඇත්තේ ආදිවාසී සංස්කෘතියේ වෙනස්කම් පිළිබඳව තීරණ ගැනීමට ආදිවාසී තරුණ තරුණියන් නියෝජිතයන් ලෙස හඳුනාගැනීම යන්නය.
+
+මෙරට ආදිවාසී ජනයාද දඹාන කොටබකිණිය අදිවාසී ගම්මානය කේන්ද්‍ර කරගනිමින් අද මෙම දිනය සමරනු ලබයි.
+
+ඊට බුද්ධශාසන හා ආගමික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා ද එක්විමට නියමිතය.
+
+ආදිවාසී දිනය සැමරීම සම්බන්ධයෙන් අදහස් දක්වමින් ආදිවාසී නායක ඌරුවරිගයේ වන්නිලා ඇත්තන් පැවසුවේ රටපුරා සිටින ආදිවාසී ගම්මානවල නායකයින් එක්වී පැවැත්වූ වරිග සභාවේදී සාකච්ඡා කළ පරිදි තම ජනයාට ඇති ගැටළු නිරාකරණය කරගැනීම සඳහා වූ සංදේශයක් විෂයභාර අමාත්‍යවරයා වෙත අද දිනයේදී බාරදීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/1d65ff12.json)
+
+---
+
+### තහනම් කෘෂි රසායනික සමග තිදෙනෙක් අත්අඩංගුවට
+
+*2024-08-09 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199731) · `si`
+
+මෙරටට ගෙන්වීම තහනම් කරන ලද කෘෂි රසායනික ද්‍රව්‍ය තොගයක් ත්‍රීරෝද රථයකින් ප්‍රවාහනය කරමින් සිටි තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+දිවුලපිටිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් අදාළ වැටලීම සිදුකර මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම කෘෂි රසායනික ද්‍රව්‍ය පැකට් 500 බැගින් අඩංගු පෙට්ටි 10ක් මෙලෙස පොලිස් භාරයට ගෙන ඇති අතර එහි වටිනාකම රුපියල් 475,000කට ආසන්න බවද පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 39, 45 සහ 55 වයස්වල පසුවන කොළඹ ආශ්‍රිත පදිංචිකරුවන් ය.
+
+◼️
+
+[Data](articles/06e73e9c.json)
+
+---
+
+### CA Sri Lanka’s 45th National Conference of Chartered Accountants to revolve around “Marching Beyond Margins”
+
+*2024-08-09 06:33:21* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-s-45th-National-Conference-of-Chartered-Accountants-to-revolve-around-Marching-Beyond-Margins/34-765323) · `en`
+
+With the outlook for Sri Lanka looking more hopeful than it had in the past few recent years, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) will once again engage professionals, including young business leaders, at the 45th National Conference of Chartered Accountants to play a critical role in helping the country seize new opportunities in its march towards a robust economy.
+
+...
+
+[Data](articles/fe05c9bb.json)
+
+---
+
+### Global inequality, IMF’s “real” agenda and economic forecasts
+
+*2024-08-09 06:32:21* · [`dailyftlk`](https://www.ft.lk/business/Global-inequality-IMF-s-real-agenda-and-economic-forecasts/34-765322) · `en`
+
+Insights from Prof. Jayati Ghosh and Prof. Howard Nicholas via RIUNIT podcast
+
+In the latest series of the RIUNIT podcast hosted by Roshan Madawela, distinguished economists Prof. Howard Nicholas and Prof. Jayati Ghosh, delve deeply into the rapidly changing economic and geopolitical environment, examining both local and global economic orders. By questioning popular narratives, they provide insightful analysis and perspectives on the complex forces shaping our world today.
+
+“If the top ten billionaires sat on top of their collective fortunes/combined wealth piled up in US dollar bills, they would reach almost halfway to the moon.” – Inequality Kills Note by Oxfam
+
+...
+
+[Data](articles/b0f53ee2.json)
+
+---
+
+### Tokyo Cement Group off to optimistic start in FY24/25 Q1
+
+*2024-08-09 06:30:18* · [`dailyftlk`](https://www.ft.lk/business/Tokyo-Cement-Group-off-to-optimistic-start-in-FY24-25-Q1/34-765321) · `en`
+
+Tokyo Cement Group (Tokyo Cement) reported a turnover of Rs. 11,665 million (a 3% decline over the same period of the previous year) and a Profit After Tax (PAT) of Rs. 707 million (a 18% decline over the same period of the previous year) for the 1st quarter ended 30 June 2024.
+
+The decline in turnover compared to the previous year despite recording an increase in sales volume is due to the reduction in prices in the corresponding quarters.
+
+Passing on the benefit of cost reductions to consumers, the cement industry announced two downward price revisions which brought the Maximum Retail Price (MRP) of a 50 Kg bag of cement to Rs. 2,250.
+
+The calendar year started off with a positive economic outlook with the country’s year-on-year GDP for the first quarter of 2024 reporting a 5.3% growth.
+
+...
+
+[Data](articles/71683898.json)
+
+---
+
+### Sri Lanka showcases Pharmaceutical Industry at Medi Pharm Expo Vietnam 2024
+
+*2024-08-09 06:29:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-showcases-Pharmaceutical-Industry-at-Medi-Pharm-Expo-Vietnam-2024/34-765320) · `en`
+
+The EDB in collaboration with the Sri Lanka Embassy in Vietnam  made arrangements  to organise participation of Sri Lankan Pharmaceutical product manufacturers at the 22nd  Medi- Pharm Expo Vietnam Exhibition 2024 held from 1 to 3 August  2024 at DIECC (KohPich) in Hochi Minh City , Vietnam .
+
+The Pharmaceutical Sector has been identified as one of the promising and emerging sectors in Sri Lanka, to promote as an export-oriented industry to earn foreign exchange. In response, the EDB has taken strategic steps to bolster marketing and promotional efforts to enhance the international profile of Sri Lankan pharmaceutical products.
+
+...
+
+[Data](articles/7d2f8f86.json)
+
+---
+
+### Teejay knits resilient start to 2024-25 with profit turnaround in Q1
+
+*2024-08-09 06:28:44* · [`dailyftlk`](https://www.ft.lk/business/Teejay-knits-resilient-start-to-2024-25-with-profit-turnaround-in-Q1/34-765319) · `en`
+
+Teejay Lanka Chairman Ajit Gunewardene (left) and CEO Pubudu De Silva
+
+Strategic responses to challenges facing the textile manufacturing industry have generated a positive start to 2024-25 for Teejay Lanka PLC, Sri Lanka’s first multinational textile manufacturer.
+
+The Group has reported profit before tax of Rs 273.7 million for the three months ending 30 June 2024, reversing a loss of Rs. 701 million in the first quarter of the preceding year.
+
+Revenue for the three months, at Rs. 15.4 billion, reflected an improvement of 10% over the corresponding quarter of the previous year, but gross profit grew by 357% to Rs 1.3 billion, Teejay Lanka said in a filing with the Colombo Stock Exchange (CSE).
+
+...
+
+[Data](articles/6b10f98f.json)
+
+---
+
+### Dialog Television introduces all- new prepaid Channel plans with even more channels
+
+*2024-08-09 06:27:49* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Television-introduces-all-new-prepaid-Channel-plans-with-even-more-channels/34-765318) · `en`
+
+Dialog Tele-vision, Sri Lanka’s #1 Pay TV provider, has introduced three new prepaid plans designed to enhance customer value, reinforcing its commitment to delivering a wide array of television content across the country. These plans provide access to over 100 channels, ensuring unmatched entertainment.
+
+With a single reload, customers can enjoy their favorite channels for an entire month, as Dialog Television delivers premier local and global entertainment straight to their homes.
+
+Dialog Televi-sion’s latest reload channel plans offer more channels than ever before, featuring a wide range of content including cartoons, TV dramas, movies, sports, news, current affairs, religious programs, children’s shows, music, and more. With these three new prepaid plans, viewers can access both local and international channels in Sinhala, Tamil, English, and Hindi.
+
+...
+
+[Data](articles/bd792b2b.json)
+
+---
+
+### Casio’s major enforcement action in Sri Lanka: Ongoing efforts to safeguard consumer interests
+
+*2024-08-09 06:26:43* · [`dailyftlk`](https://www.ft.lk/business/Casio-s-major-enforcement-action-in-Sri-Lanka-Ongoing-efforts-to-safeguard-consumer-interests/34-765317) · `en`
+
+Casio Computer Co. Ltd., headquartered in Japan recently got a significant enforcement action conducted in Sri Lanka as part of the Casio Group’s IP Enforcement Policy to combat the escalating issue of Casio’s counterfeits in the Sri Lankan market and protect its valued consumers.
+
+In a recent coordinated effort alongside Casio India, raids were conducted by Colombo Crime Division (CCD) simultaneously at three locations of one of the largest retail stores in Sri Lanka in March 2024. These locations included two outlets of the retail store and its warehouse, where counterfeit Casio watches, primarily G-SHOCK timepieces were found. The operation resulted in the seizure of several counterfeit watches and representatives of the accused entity were taken into custody for further legal proceedings. Subsequently, the entity pleaded guilty in the matters and fines were imposed.
+
+...
+
+[Data](articles/f3ee3962.json)
+
+---
+
+### Why is IMF here? Sri Lanka needs new governance model to avoid them in the future
+
+*2024-08-09 06:24:59* · [`dailyftlk`](https://www.ft.lk/columns/Why-is-IMF-here-Sri-Lanka-needs-new-governance-model-to-avoid-them-in-the-future/4-765316) · `en`
+
+The state of bankruptcy Sri Lanka experienced can happen again if there is no change in the way the country is governed contrary to the thinking history never repeats itself
+
+The IMF may have their own agendas. But they are in the country because our politicians and officials failed to manage the economy leading it to bankruptcy. Some degree of economic and financial discipline is evident today, thanks to the presence of the IMF. Any proposed renegotiations should be on the basis of even greater discipline, and sustainable discipline, and not pandering to populism.
+
+...
+
+[Data](articles/e57716e2.json)
+
+---
+
+### Important message for Presidential candidates
+
+*2024-08-09 06:19:03* · [`dailyftlk`](https://www.ft.lk/columns/Important-message-for-Presidential-candidates/4-765313) · `en`
+
+The Asian Development Bank’s outlook, published in April 2024, forecasts Sri Lanka’s growth rate at 1.9% for 2024 and 2.5% for 2025. Similarly, the World Bank’s report from April predicts a growth rate of 2.2% for 2024 and 2.5% for 2025, based on their specific assumptions. In contrast, the IMF’s forecast is lower than these projections, while the Central Bank of Sri Lanka (CBSL) provides a higher growth estimate.
+
+What makes this country heaven by maintaining miracle growth, will it need so-called reforms and what are they? Economic Reforms, Structural Reforms, Social Reforms, and Governance Reforms. All these could be discussed, but without a proper foundation, they may not withstand. The following discussion is for making a sound foundation.
+
+...
+
+[Data](articles/b889470f.json)
+
+---
+
+### Heavy rains in many areas
 
 *2024-08-09 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199730) · `si`
 
-අද (09) දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected across Western, Sabaragamuwa, and North Western provinces today, with more showers predicted throughout the day. Evening or night thundershowers forecasted for the rest of the island. Public urged to prepare for potential damage from temporary winds and lightning.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces today (09).
+
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
 
 ◼️
 
 [Data](articles/0fe2c2f9.json)
+
+[Extended Data](ext_articles/0fe2c2f9.ext.json)
 
 ---
 
@@ -62,6 +242,8 @@ The Economic Transformation Act (ETA) is to provide for the National Policy on E
 
 [Data](articles/9a0315be.json)
 
+[Extended Data](ext_articles/9a0315be.ext.json)
+
 ---
 
 ### Adapting concepts of Islamic Finance to an effective debt restructuring mechanism
@@ -75,6 +257,8 @@ In Islam, it highly considers that the resources are needed to fulfil the materi
 ...
 
 [Data](articles/2bd40962.json)
+
+[Extended Data](ext_articles/2bd40962.ext.json)
 
 ---
 
@@ -93,6 +277,8 @@ United National Party (UNP) Deputy leader Ruwan Wijewardene has expressed strong
 ...
 
 [Data](articles/c294fe42.json)
+
+[Extended Data](ext_articles/c294fe42.ext.json)
 
 ---
 
@@ -171,6 +357,100 @@ During the visit, he will hold bilateral discussions with his counterpart at the
 ◼️
 
 [Data](articles/4fde0d5d.json)
+
+---
+
+### NIBM REACH 2024 delivers platform for students to shine on stage
+
+*2024-08-09 02:35:00* · [`islandlk`](http://island.lk/nibm-reach-2024-delivers-platform-for-students-to-shine-on-stage/) · `en`
+
+National Institute of Business Management (NIBM), a leading educational institution functioning as a statutory body under the Ministry of Education in the government sector, has announced the launch of NIBM REACH 2024, an exciting talent show set to showcase the diverse and exceptional talents of individuals from NIBM.
+
+...
+
+[Data](articles/5ccf0979.json)
+
+---
+
+### Asian Paints Causeway unveils ‘ColourNext-2024’ in Colombo
+
+*2024-08-09 02:34:00* · [`islandlk`](http://island.lk/asian-paints-causeway-unveils-colournext-2024-in-colombo/) · `en`
+
+One of Sri Lanka’s largest paint manufacturers, Asian Paints Causeway, recently launched ‘ColourNext-2024’ at a grand event held in Colombo. ‘ColorNext’ is a comprehensive, annual forecast of design directions in colors, materials, textures, and finishes, compiled by Asian Paints in collaboration with experts from various creative disciplines, including architecture, art, interiors, fashion, sociology, media, and FMCG. ‘ColorNext’ is celebrated as South Asia’s premier and unique intelligence in color and material forecasting.
+
+The launch of ‘ColourNext-2024’ marks the inaugural edition of ‘ColorNext’ in Sri Lanka. The event hosted an esteemed group of architects and interior designers, alongside notable figures such as Sireesh Rao, Regional Head – Asian Paints International Pvt Ltd; Vaithilingam Kiritharan, General Manager Sales and Marketing (Sri Lanka); Anuradha Edirisinghe, Head of Marketing (Sri Lanka); and the Senior Management of Asian Paints Causeway.
+
+...
+
+[Data](articles/1427522c.json)
+
+---
+
+### Teejay knits resilient start to 2024-25 with profit turnaround in Q1
+
+*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/teejay-knits-resilient-start-to-2024-25-with-profit-turnaround-in-q1/) · `en`
+
+Strategic responses to challenges facing the textile manufacturing industry have generated a positive start to 2024-25 for Teejay Lanka PLC, Sri Lanka’s first multinational textile manufacturer.The Group has reported profit before tax of Rs 273.7 million for the three months ending 30th June 2024, reversing a loss of Rs 701 million in the first quarter of the preceding year.
+
+Revenue for the three months, at Rs 15.4 billion, reflected an improvement of 10% over the corresponding quarter of the previous year, but gross profit grew by 357% to Rs 1.3 billion, Teejay Lanka said in a filing with the Colombo Stock Exchange (CSE).
+
+Consequently, the Group posted an operating profit of Rs 382 million from an operating loss of Rs 582 million in the first quarter of 2023-24, and reported net profit of Rs 158.3 million for the quarter under review, in contrast to a net loss of Rs 853 million in the corresponding period of the previous year.
+
+...
+
+[Data](articles/274fc827.json)
+
+---
+
+### Marked selling pressure on banking sector counters; gains for Sampath stocks
+
+*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/marked-selling-pressure-on-banking-sector-counters-gains-for-sampath-stocks/) · `en`
+
+The stock market yesterday started on a positive note but later turned negative with significant selling pressure mounted on banking sector counters. Against that backdrop there was a notable gain on Sampath Bank stocks due to satisfactory quarterly results of the company, market analysts said.
+
+Sampath Bank PLC said it will issue up to 50,000,000 Basel III compliant – tier second , listed, rated, unsecured, subordinated, redeemable, 5-year debentures with a non-viability conversion at Rs. 100 each to raise Rs. 5 billion initially.
+
+Amid those developments both indices showed a downward trend. The All Share Price Index went down by 35.07 points while S and P SL20 declined by 8.8 points. Turnover stood at Rs 629 million with one crossing. The crossing was reported in Central Finance, which crossed 221,000 shares to the tune of Rs 23 million; its shares traded at Rs 104.
+
+...
+
+[Data](articles/49762629.json)
+
+---
+
+### Link Natural features exclusive B2B offerings at Hotel Show Colombo 2024
+
+*2024-08-09 02:29:00* · [`islandlk`](http://island.lk/link-natural-features-exclusive-b2b-offerings-at-hotel-show-colombo-2024/) · `en`
+
+Link Natural, Sri Lanka’s leading manufacturer of herbal healthcare and personal care products, made its presence felt at the Hotel Show Colombo 2024, Sri Lanka’s largest hospitality trade exhibition, held for the 16th time at the BMICH recently. Along with its exclusive Hotel amenity, Spa and HORECA ranges, several of Link Natural’s brands – Samahan, Link Aushada, Earth Essence, Swastha Amurtha, Five Herbs, and Gotukola Tea – featured in the exhibition and drew significant interest from the thousands of visitors to the exhibition.
+
+...
+
+[Data](articles/9e136c91.json)
+
+---
+
+### THAI offering ‘enhanced’ services
+
+*2024-08-09 02:27:00* · [`islandlk`](http://island.lk/thai-offering-enhanced-services/) · `en`
+
+Thai Airways International Public Company Limited (THAI) announces significant enhancement on their services to provide Sri Lankan travelers with a more convenient and enjoyable travel experience. THAI recently commenced operations between Thailand and Sri Lanka using Airbus A320s renowned for its comfort and efficiency. ‘With roomy seating and ample legroom, every flight is a delightful experience owing to the ensured high level of comfort and safety of THAI services, a THAI press release said.
+
+...
+
+[Data](articles/4193f3f0.json)
+
+---
+
+### LOLC Al-Falaah pays Rs.3.5 billion profits to depositors for financial year 2023/24
+
+*2024-08-09 02:27:00* · [`islandlk`](http://island.lk/lolc-al-falaah-pays-rs-3-5-billion-profits-to-depositors-for-financial-year-2023-24/) · `en`
+
+LOLC Al-Falaah, the largest Alternate Financial Services Provider in the Non-Bank Financial Institutions (NBFI) segment in Sri Lanka, proudly announced its exceptional financial performance for the fiscal year 2023/24. With a total asset base of over Rs. 31.5 Billion and a client base of nearly 50,000 across 203 branches nationwide, LOLC Al-Falaah continues to lead the Islamic finance industry in Sri Lanka.
+
+...
+
+[Data](articles/461a0c88.json)
 
 ---
 
@@ -1953,399 +2233,5 @@ On Tuesday, four people were killed when a mob burnt down the residence of MP Sh
 [Data](articles/112f92a9.json)
 
 [Extended Data](ext_articles/112f92a9.ext.json)
-
----
-
-### Bore. Climore explosive recovery in Gran area
-
-*2024-08-08 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190568) · `ta`
-
-Climore police station near Batticaloa was recovered after an explosive discovery. The site, possibly abandoned by the LTTE post-war, required assistance from a bomb-disposal unit for safe removal.
-
-🟩
-
-The Climore police station on the Batticaloa Gran Pulipan Stone Road has been recovered this morning (8).
-
-After the public information provided to the police, the police were involved in the recovery of the mysterious explosion.
-
-Police said the police said that it may have been abandoned by the LTTE during the last war, seeking the help of the bomb -free military unit to remove the explosion.
-
-◼️
-
-[Data](articles/33542986.json)
-
-[Extended Data](ext_articles/33542986.ext.json)
-
----
-
-### That's the thought of the thoughtful caricature
-
-*2024-08-08 14:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத-சிந்தனைக்குரிய-கேலிச்சித்திரம்/175-341809) · `ta`
-
-The phrase "That's the thought of the thoughtful caricature" suggests a deep reflection or consideration behind the creation of a caricature, implying it's not just a simple drawing but carries significant meaning or intention.
-
-🟩
-
-◼️
-
-[Data](articles/0b6e80fa.json)
-
-[Extended Data](ext_articles/0b6e80fa.ext.json)
-
----
-
-### Two persons arrested for kidnapping 24 stagnas worth Rs 15 lakhs
-
-*2024-08-08 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190571) · `ta`
-
-Kodikamam police arrested two for kidnapping 24 valuable saplings worth Rs 15 lakhs. They found the saplings in a hijacked tipper truck, which was stopped due to its suspicious wooden barrier. The suspects, including the driver, will face charges in court tomorrow.
-
-🟩
-
-Yall. The Kodikamam police have seized a tipper vehicle with a wooden barrier that was illegally hijacked in the area of ​​the Kodikamam police division of the Thenmarachchi Kodikamam police division.
-
-According to the confidential information received by the Kodikamam Police, the Chief Inspector of Police Sivalingam Prabhakaran, the Chief Inspector of the Kodikamam Police Station, was accompanied by the police officer in charge of the Kodikamam Police Station Dinesh Gunathilaka and the 44209 Police Sergeant Dharmaratnam.
-
-In the tipper vehicle, the saplings were stacked and a small quantity was mounted on top of it.
-
-According to Publishers, 24 stagnant saplings worth Rs 15 lakhs have been abducted.
-
-Two persons, including the driver, were arrested in the incident and they will be produced before the Chavakachcheri Magistrate's Court tomorrow (09).
-
-◼️
-
-[Data](articles/c36dc375.json)
-
-[Extended Data](ext_articles/c36dc375.ext.json)
-
----
-
-### Gaza handed over a money received by the fund
-
-*2024-08-08 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199709) · `si`
-
-Under President Ranil Wickremesinghe's patronage, the Palestinian Government received funds from the USDA Children's Fund. Aimed at aiding children affected by Gaza's military situation, the handover was facilitated by the Presidential Secretariat and witnessed by the Palestine Ambassador and UNRWA representatives.
-
-🟩
-
-Another USDA Children's Fund has been handed over to the Palestinian Government.
-
-Presidential Secretariat yesterday (07) under the patronage of President Ranil Wickremesinghe.
-
-Relevant official documents, Palestine Ambassador in Sri Lanka Dr. Suhhir MH. The President handed over the President to the President of Zayed and the United Nations Relief Agency (UNRWA).
-
-The main objective of the main objective is to provide financial assistance to provide the basic needs of the children displaced due to the military situation in Gaza.
-
-◼️
-
-[Data](articles/14849314.json)
-
-[Extended Data](ext_articles/14849314.ext.json)
-
----
-
-### Taylor's concerts canceled due to terrorism
-
-*2024-08-08 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199708) · `si`
-
-Due to terrorism concerns, Taylor Swift's concerts in Vienna were cancelled. Authorities identified a risk and arrested two suspected Islamic extremists planning an attack.
-
-🟩
-
-The authorities have been able to cancel all three concerts in Vienna, Austria, parallel to Taylor Swift.
-
-This is because the risk to the concert was identified.
-
-Foreign media reports that two suspects have been arrested on suspicion and planning to launch a Islamic extremist attack targeting concerts.
-
-◼️
-
-[Data](articles/048b6363.json)
-
-[Extended Data](ext_articles/048b6363.ext.json)
-
----
-
-### Water Cut to Kelaniya, Wattala and Biyagama
-
-*2024-08-08 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190574) · `ta`
-
-A 12-hour water cut is scheduled for Sunday (11) from 9:00 am to 9:00 pm, affecting areas including Pelikoda Urban Council, Ja Ela, Katunayake, Seeduwa, Piyagama, Mahara, Thompa, Ja E, Katana, Minuwangoda, and Gampaha.
-
-🟩
-
-The National Water Supply and Drainage Board has announced that the water cut will be implemented for 12 hours on Sunday (11).
-
-Accordingly, the water cut will be implemented from 9:00 am to 9:00 pm on Sunday (11).
-
-The National Water Supply Authority has said that the areas belonging to the Pelikoda Urban Council, Ja Ela, Katunayake, Seeduwa Divisional Secretariat Divisions, Piyagama, Mahara, Thompa, Ja E, Katana, Minuwangoda and Gampaha Divisional Secretariat Divisions will be implemented.
-
-◼️
-
-[Data](articles/d91e3700.json)
-
-[Extended Data](ext_articles/d91e3700.ext.json)
-
----
-
-### Sri Lanka’s opposition launches non-surprising broader coalition
-
-*2024-08-08 13:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-launches-non-surprising-broader-coalition-176021/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya (SJB) launched a broader alliance on Thursday (08) with most opposition legislators who have been already supporting the opposition candidate Sajith Premadasa.
-
-Sri Lanka’s Election Commission has scheduled presidential election on September 21 and Premadasa is one of the top candidates in the fray along with incumbent president Ranil Wickremesinghe and Marxist Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayaka.
-
-The launch was held in Colombo with the participation of hundreds of party supporters across the country.
-
-The launch of SJB’s broader coalition, Samagi Jana Samagi Jana Sandanaya (SJS), comes days after more than 90 legislators out of total 225 pledged their support to President Wickremesinghe under an independent coalition.
-
-...
-
-[Data](articles/55209259.json)
-
-[Extended Data](ext_articles/55209259.ext.json)
-
----
-
-### 29 educare leaders killed in Haseanayake
-
-*2024-08-08 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199707) · `si`
-
-In Bangladesh, 29 leaders of Sheikh Hussain were killed amid confrontations. The incident occurred after the Prime Minister left the country. Violent groups targeted properties of the ruling Awami League, causing widespread destruction. The interim government, led by a Nobel Prize-winning microfinance expert, was announced amidst this turmoil.
-
-🟩
-
-Foreign media reports that 29 leaders of Sheikh Hussina, who recently had been killed during the confrontation atmosphere in Bangladesh.
-
-The complainant has been killed after the Prime Minister fleeing the country. Foreign media reports say.
-
-Some violent groups have taken measures to destroy or rob a large number of houses, businesses, agencies belonging to the country's architected and owned Awami League.
-
-The main interim government is to be appointed as the leader intersection of the Nobel Prizest of Muamaad Unis, an expert in the microfinance industry.
-
-◼️
-
-[Data](articles/d3e000a5.json)
-
-[Extended Data](ext_articles/d3e000a5.ext.json)
-
----
-
-### Sri Lankan spinner charged under ICC Anti-Corruption Code
-
-*2024-08-08 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101081/sri-lankan-spinner-charged-under-icc-anti-corruption-code) · `en`
-
-The International Cricket Council (ICC) have confirmed that Sri Lanka player Praveen Jayawickrama has been charged with three counts of breaching the ICC Anti-Corruption Code.
-
-Jayawickrama allegedly failed to report to the Anti-Corruption Unit, without delay, that he was approached to carry out fixing during International matches and in the 2021 Lanka Premier League.
-
-Reportedly, the Sri Lanka bowler was found to have deleted messages related to the approach for conducting corrupt practices. Jayawickrama has 14 days from 6 August 2024 to respond to the charges.
-
-The 25-year-old spinner, with 15 matches of international experience, has been levied the following offences under the code:
-
-Article 2.4.4 – Failing to report to the Anti-Corruption Unit, without unnecessary delay, details of an approach he received to carry out fixing in future International Matches.
-
-...
-
-[Data](articles/aa942e61.json)
-
-[Extended Data](ext_articles/aa942e61.ext.json)
-
----
-
-### Tamil common candidate is named
-
-*2024-08-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199706) · `si`
-
-Former Parliamentarian Parliamentarvam Parkatha is the Tamil national common candidate for the upcoming presidential election, backed by several Tamil parties including CV. Wigneswaran's Tamil Peoples, Telu, Plot, EPRLF, Tamil Green, and others. The decision was made after signing a covenant between Tamil civil society and Tamil national parties. However, the Tamil National Alliance (TNA's Ilangai Youth Aeurusuki Party) has not declared its stance and is currently involved in a propaganda campaign.
-
-🟩
-
-Former Parliamentarian Parliamentarian Parliamentarvam Parkatha is announced as the Tamil national common candidate for the next presidential election.
-
-The decision was announced at a special media briefing held at the Selva labroom today (08).
-
-A covenant between Tamil civil society and the Tamil national parties were signed to present a common candidate from the Tamil party for the presidential election.
-
-CV. Wigneswaran's Tamil Peoples, Telu, Plot, EPRLF, Telu, Plot, Tamil Green, Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, the Tamil National Party, supported the Tamil common candidate.
-
-The Tamil National Alliance (TNA's Ilangai Youth Aeurusuki Party) has not yet stated its position on presidential election and is engaged in propaganda campaign.
-
-◼️
-
-[Data](articles/efd98449.json)
-
-[Extended Data](ext_articles/efd98449.ext.json)
-
----
-
-### Pavithra also supported the president
-
-*2024-08-08 13:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-ஜனாதிபதிக்கு-ஆதரவு/175-341807) · `ta`
-
-Despite the Sri Lanka Peoples Alliance deciding against supporting President Ranil Wickremesinghe, Irrigation Minister Pavithra Wanniyarachchi asserts his backing.
-
-🟩
-
-Irrigation, Wildlife and Forest Resources Minister Pavithra Wanniyarachchi today said that President Ranil Wickremesinghe will support President Ranil Wickremesinghe in the presidential election.
-
-Meanwhile, the Sri Lanka Peoples Alliance (PA) decided at a meeting held on July 30 that President Ranil Wickremesinghe would not support it.. It is noteworthy that Minister Pavithra Wanniyarachchi was also present at the meeting.
-
-◼️
-
-[Data](articles/3e3ba784.json)
-
-[Extended Data](ext_articles/3e3ba784.ext.json)
-
----
-
-### Sri Lanka’s Tamil parties announce common candidate for presidential poll
-
-*2024-08-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101080/sri-lankas-tamil-parties-announce-common-candidate-for-presidential-poll) · `en`
-
-The ‘Tamil National Common Structure’, an alliance of Tamil political parties, has announced its decision to nominate former MP P. Ariyanenthiran as their common candidate for the upcoming Presidential Election.
-
-Several Tamil political parties and a group of civil society representatives had reached an agreement to nominate a common candidate for the forthcoming Presidential Election.
-
-Accordingly, seven Tamil political parties including the Tamil People’s Alliance and seven civil society representatives had signed this agreement in Jaffna on July 22.
-
-The signatories include C. V. Vigneswaran of Tamil People’s Alliance, Selvam Adaikkalanathan of Tamil Eelam Liberation Organization (TELO), D. Siddharthan of People’s Liberation Organisation Tamil Eelam (PLOTE), Srikantha of Tamil National Party and Suresh Premachandran of Eelam People’s Revolutionary Liberation Front (EPRLF).
-
-◼️
-
-[Data](articles/a48c8bf4.json)
-
-[Extended Data](ext_articles/a48c8bf4.ext.json)
-
----
-
-### Presidential election;Tamil General Candidate Pa. Rare money
-
-*2024-08-08 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190569) · `ta`
-
-The Tamil National Alliance (TNA) has selected a former MP from the Batticaloa District as its Tamil general candidate. This decision was made during a meeting in Jaffna, involving seven representatives from the Tamil People's General Assembly and Tamil National Political Parties. Notably, KV Dawarasa, President of the Colombo Branch of TNA, and Chandraneru Chandrakanthan, a former MP of the Tamil National Alliance, were part of this process.
-
-🟩
-
-Former Member of Parliament of the Batticaloa District of the Sri Lanka Tamil Nadu Party has been announced as the Tamil general candidate.
-
-Seven representatives of the Tamil People's General Assembly, which was formed with the coordination of civil organizations, and the representatives of the Tamil National Political Parties, the Tamil National Alliance.
-
-The meeting of the Tamil National Alliance (TNA), which was created, met in Jaffna on Thursday and announced the Tamil general candidate.
-
-Meanwhile, KV Dawarasa, the President of the Colombo Branch of the Sri Lanka Tamil National Alliance (TNA) and President's lawyer. It is also worth noting that the names of former Member of Parliament of the Tamil National Alliance Chandraneru Chandrakanthan were also on the final list.
-
-◼️
-
-[Data](articles/f62e1910.json)
-
-[Extended Data](ext_articles/f62e1910.ext.json)
-
----
-
-### Pavithra announces supporting President Ranil
-
-*2024-08-08 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190570) · `ta`
-
-Wildlife Minister Pavithra Wanniyarachchi supports President Ranil Wickremesinghe, citing his leadership during the 2022 crisis and his efforts towards national stability. This decision aligns with the majority of the Sri Lanka People's Freedom Alliance (PA).
-
-🟩
-
-Wildlife and Forest Protection Minister Pavithra Wanniyarachchi has announced that he has decided to support President Ranil Wickremesinghe.
-
-Pavithra Wanniyarachchi has not issued any resolution as most members of the Sri Lanka PA have expressed their support for President Ranil Wickremesinghe.
-
-However, on Thursday (08), President Ranil Wickremesinghe announced his support for the election.
-
-I have taken this decision after a long consultation with many politicians and experts involved in politics with me.We are all well aware of the massive crisis in 2022, where our country is economic and politically instability.
-
-On that occasion, Ranil Wickremesinghe was elected president with the support of most of the Sri Lanka Peoples Freedom Alliance (PA) to create stability in the country.
-
-...
-
-[Data](articles/31953160.json)
-
-[Extended Data](ext_articles/31953160.ext.json)
-
----
-
-### Sri Lanka’s Dipped Products to buy Thailand-based rubber glove factory
-
-*2024-08-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-eyes-thailand-based-rubber-glove-manufacturing-facility-176008/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said its board had approved the purchase of a rubber glove manufacturer for 11 million US dollars.
-
-Dipped Products already has a factory in the East Asian nation.
-
-The acquisition would be carried out by Dipped Products (Thailand) Ltd, after a due diligence study, the firm said in a stock exchange filing.
-
-In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
-
-◼️
-
-[Data](articles/5a4c9b32.json)
-
-[Extended Data](ext_articles/5a4c9b32.ext.json)
-
----
-
-### Sri Lanka’s Dipped Products to buy Thailand-based rubber glove factory
-
-*2024-08-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-to-buy-thailand-based-rubber-glove-factory-176008/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Dipped Products Plc said its board had approved the purchase of a rubber glove manufacturer for 11 million US dollars.
-
-Dipped Products already has a factory in the East Asian nation.
-
-The acquisition would be carried out by Dipped Products (Thailand) Ltd, after a due diligence study, the firm said in a stock exchange filing.
-
-In May, Dipped Products Plc opened a marketing office in Mumbai, India as part of efforts to strengthen its presence in the country.
-
-◼️
-
-[Data](articles/8c4f4fdc.json)
-
-[Extended Data](ext_articles/8c4f4fdc.ext.json)
-
----
-
-### NASA's new announcement about Sunita Williams
-
-*2024-08-08 12:55:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனிதா-வில்லியம்ஸ்-பற்றி-நாசா-புதிய-அறிவிப்பு/50-341806) · `ta`
-
-NASA announced Sunita Williams will stay at the space station until February due to repairs needed for a helium gas leak and Teflon sealing. She'll return to Earth with a SpaceX Crew Dragon capsule, not a Boeing Starliner as initially planned.
-
-🟩
-
-NASA has announced that Sunita Williams will be at the space station until February next year.
-
-NASA added, “Helium gas leak and Teflan sealing in the space station have to be repaired.
-
-In that respect, Sunita Williams can return to Earth only after correcting technical disorders. Sunita will return to Earth with a Space X Crew Dragon Oddam in response to Boeing's Star Linener Space. ”
-
-◼️
-
-[Data](articles/cafe46cc.json)
-
-[Extended Data](ext_articles/cafe46cc.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-08 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190561) · `ta`
-
-The US dollar's buying rate is Rs 297.0104, while its selling rate is Rs 306.2824 according to the Central Bank's latest update on August 08.
-
-🟩
-
-The US dollar purchasing price was Rs 297.0104 and the sales price were Rs 306.2824 based on a currency exchange rate released by the Central Bank on Thursday (August 08).
-
-◼️
-
-[Data](articles/9ddfcf37.json)
-
-[Extended Data](ext_articles/9ddfcf37.ext.json)
 
 ---

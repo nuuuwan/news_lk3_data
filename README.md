@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 15:55:39**
+As of **2024-08-09 16:08:30**
 
 ## Newspaper Stats
 
-*Scraped **39,843** Articles*
+*Scraped **39,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
 adalk | 3,655
-adaderanalk | 4,629
+adaderanalk | 4,632
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,021
 virakesarilk | 6,309
@@ -26,27 +26,73 @@ adaderanasinhalalk | 6,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,841 (100.0%) of 39,843 articles have been extended.
+39,843 (100.0%) of 39,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### පාකිස්තානයේ මාස 6කට ළමා අපචාර 1,630ක්
+### SJB to decide on appointments to several vacant posts
+
+*2024-08-09 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101111/sjb-to-decide-on-appointments-to-several-vacant-posts-) · `en`
+
+Member of ‘Samagi Jana Balawegaya’ Bandulal Bandarigoda is tipped to fill the parliamentary seat which fell vacant following the suspension of party membership of Manusha Nanayakkara through a Supreme Court ruling.
+
+Bandarigoda, who secured the third place from the Galle District in 2020 General Election, is next in line on SJB’s preferential vote list.
+
+Meanwhile, a qualified individual will be named by the SJB to fill the MP seat which remains vacant as Minister Harin Fernando was also disqualified to hold the MP seat due to the suspension of his party membership, since Fernando was elected to the Parliament through SJB’s national list.
+
+Sources from SJB stated that the party’s Executive Committee will meet soon to decide on the appointment of a qualified individual to the relevant vacant MP seat and also currently vacant party’s chairmanship and the Kelaniya Constituency Organiser position, which left vacant after the resignation of Field Marshal Sarath Fonseka.
+
+...
+
+[Data](articles/15f5e6fa.json)
+
+---
+
+### President Ranil vows to uphold and protect women’s rights
+
+*2024-08-09 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101110/president-ranil-vows-to-uphold-and-protect-womens-rights) · `en`
+
+President Ranil Wickremesinghe stated that he chose to run as an independent candidate in the upcoming Presidential Election, free from any party affiliation, to address the nation’s hunger crisis.
+
+He emphasized that the people’s suffering transcends party lines and political colours.
+
+The President made these remarks during the “Kantha Ape Balaya” women’s conference held in Colombo today (09).
+
+During the conference, the President further vowed to uphold and protect women’s rights, ensuring they are equal to the rights enjoyed by men in the country.
+
+Meanwhile, Minister Pavithra Wanniarachchi, who also addressed the event, said that Bangladesh is facing the current predicament because they did not have a leader like Ranil Wickremesinghe to step up and take charge.
+
+“Sri Lanka averted such a dire situation because we had a courageous leader like Ranil Wickremesinghe”, said the Minister.
+
+...
+
+[Data](articles/b4b56df0.json)
+
+---
+
+### 6,630 child abuse for six months in Pakistan
 
 *2024-08-09 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199755) · `si`
 
-2024 වසරේ පළමු මාස 6 තුළ පාකිස්තානයේ ළමා අපචාර සිද්ධීන් 1,630ක් සිදුව ඇති බවට අනාවරණ වී තිබේ.
+In the first half of 2024, Pakistan reported 6,630 child abuse cases, including 862 sexual abuses, 668 abductions, 82 disappearances, and 18 forced marriages. Most victims were aged 6-15, according to NGO reports.
 
-එරට රාජ්‍ය නොවන සංවිධානයක් විසින් මෙම අනාවරණය සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අදාළ කාලය තුළ ළමා ලිංගික අපයෝජන සිද්ධීන් 862ක්, පැහැරගැනීම් 668ක්, අතුරුදන්වීම් 82ක් සහ ළමා විවාහ සිද්ධීන් 18ක් සිදුව ඇති බව සඳහන්ය.
+It has been revealed that 1,630 of child abuse incidents have occurred in the first six months of the year of 2024.
 
-අවුරුදු 6 ත් 15 අතර වයස් කාණ්ඩයේ ළමුන් වැඩි වශයෙන් අපයෝජනයට ලක්ව ඇති බව අනාවරණය වී ඇත.
+Foreign media reports that the incident has been made by a NGO.
+
+There were 862 child sexual abuse cases, 668 abductions, 668 abductions, 82 disappearances and 18 children's marriage cases.
+
+It has been revealed that most of the children in the age group between the ages of 6 and 15 have been abused.
 
 ◼️
 
 [Data](articles/1a52a1be.json)
+
+[Extended Data](ext_articles/1a52a1be.ext.json)
 
 ---
 
@@ -238,6 +284,26 @@ Commenting here
 
 ---
 
+### Harin and Manusha resign from ministerial posts
+
+*2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-and-manusha-resign-from-ministerial-posts) · `en`
+
+Harin Fernando and Manusha Nanayakkara have resigned from their respective ministerial portfolios.
+
+Accordingly, Fernando has resigned as the Minister of Tourism, Lands, Sports and Youth Affairs while Nanayakkara stepped down the Minister of Labour and Foreign Employment.
+
+This decision comes hours after the Supreme Court’s ruling issued this morning (09) declaring that the decision taken by the SJB to suspend the party membership of Manusha Nanayakkara and Harin Fernando was lawful.
+
+The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
+
+Accordingly, as per the Supreme Court verdict, Harin Fernando and Manusha Nanayakkara are disqualified from holding seats in Parliament.
+
+...
+
+[Data](articles/e1853694.json)
+
+---
+
 ### Harin Fernando steps down from ministerial posts
 
 *2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-fernando-steps-down-from-ministerial-posts) · `en`
@@ -344,21 +410,27 @@ The Kilinochchi police are conducting further investigations into the incident.
 
 ---
 
-### පාඨලීගේ පක්ෂයෙන් ජනාධිපතිවරණ අපේක්ෂකයෙක්?
+### A presidential candidate from Patali's party?
 
 *2024-08-09 13:29:17* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලීගේ-පක්ෂයෙන්-ජනාධිපතිවරණ-අපේක්ෂකයෙක්-/11-411276) · `si`
 
-එක්සත් ජනරජ පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා කවුරුද්ද යන්න එළැඹෙන සතියේ ප්‍රකාශයට පත් කරන බව එම පෙරමුණේ නායක පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+Patali Champika Ranawaka, leader of Patali's party, announced that the United People's Freedom Alliance (UPFA) will reveal its presidential candidate next week. Despite speculation about his own candidacy, he remains silent, focusing on internal discussions and analysis before making a decision.
 
-අද(09දා) කොළඹ පැවති මාධ්‍ය හමුවකදී මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-බොහෝ දෙනා කතා උනේ හිතාගෙන හිටියේ ඔබතුමාත් ජනාධිපතිවරණයට ඉදිරිපත් වේවි කියලා. මොකක්ද වෙන්නේ ඇත්තටම? මොකක්ද ඔබතුමන්ලාගේ තීන්දුව? ඔබතුමන්ලා පක්ෂයක් නිර්මාණය කළා. නමුත් ඔබතුමන්ලා තාම නිහඬයි.
+The Front Leader Patali Champika Ranawaka said that the presidential candidate of the UPFA will be announced week.
 
-අපි මේ ජනාධිපතිවරණය සම්බන්ධයෙන් ගිය පෙබරවාරි මාසේ 14 වෙනිදා පොදු වැඩපිළිවෙලක් ඉදිරිපත් කළා. ඒ වැඩ පොදු වැඩපිළිවෙල අපි සාකච්ඡා කළා විවිධ දේශපාලන පක්ෂ එක්ක. අපට ධනාත්මක ප්‍රතිඵල ලැබුණා. සෘණාත්මක ප්‍රතිඵල ලැබුණා. නොයෙක් දේ ලැබුණා. අපි ඒ සියල්ලම දැන් විශ්ලේෂණය කර ගනිමින් ඉන්නවා. අපේ පක්ෂයේ සාමාජිකයන් එක්කත් අපි කතා කරගෙන යනවා. අපි ලබන සතියේදී ජනාධිපතිවරණයේ අපේ අපේක්ෂකයා කවුද කියන එක ප්‍රකාශයට පත් කරනවා.
+He was responding to a question posed by journalists at a press conference held in Colombo today (09).
+
+Most people thought that you would come forward to the presidential election. What's really it?What's the decision of you?You created a party. But you still quiet.
+
+We had a common program on February 14, who went to this presidential election.. We discussed that work with various political parties. We had positive results. Received the negative results. Got many things. We're all analyzing all of that now. We also talk to our party members. We declare who is our candidate in the presidential election next week.
 
 ◼️
 
 [Data](articles/bcb73e63.json)
+
+[Extended Data](ext_articles/bcb73e63.ext.json)
 
 ---
 
@@ -2099,63 +2171,5 @@ In Islam, it highly considers that the resources are needed to fulfil the materi
 [Data](articles/2bd40962.json)
 
 [Extended Data](ext_articles/2bd40962.ext.json)
-
----
-
-### People will vote RW out of gratitude – Ruwan Wijewardene
-
-*2024-08-09 06:00:19* · [`dailyftlk`](https://www.ft.lk/news/People-will-vote-RW-out-of-gratitude-Ruwan-Wijewardene/56-765310) · `en`
-
-UNP Deputy leader Ruwan Wijewardene says party will fully back President
-
-Assures Wickremesinghe’s victory is secure as people will support him as a gesture of gratitude
-
-Expresses belief that Wickremesinghe should be allowed another five years to carry out his program to rebuild nation
-
-United National Party (UNP) Deputy leader Ruwan Wijewardene has expressed strong confidence that Sri Lankan voters will support President Ranil Wickremesinghe in the upcoming 21 September election out of gratitude.
-
-...
-
-[Data](articles/c294fe42.json)
-
-[Extended Data](ext_articles/c294fe42.ext.json)
-
----
-
-### Presidential race expands to 24 candidates
-
-*2024-08-09 05:58:59* · [`dailyftlk`](https://www.ft.lk/news/Presidential-race-expands-to-24-candidates/56-765309) · `en`
-
-Two more Presidential hopefuls submitted their cash deposits at the Election Commission of Sri Lanka yesterday ahead of the 15 August deadline.
-
-Accordingly, deposits were placed for two independent candidates, former United National Party (UNP) MPs Anura Sidney Jayarathne and D.M. Bandaranaike.
-
-With the addition of Jayarathne and D.M. Bandaranaike, the number of Presidential hopefuls now stands at 24.
-
-Candidates who pla-ced deposits earlier are President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, Field Marshal Sarath Fonseka, Wijeyadasa Rajapakshe, Sarath Keerthirathne, Oshala Herath, A.S.P Liyanage, P.W.S.K Bandaranayake and K.K Piyadasa, Siritunga Jayasuriya, Ajantha de Zoysa, K. Ananda Kularatne, Sarath Manamendra, Akmeemana Dayaratna Thera, Battaramulle Seelaratne Thera and several others.
-
-...
-
-[Data](articles/61463658.json)
-
-[Extended Data](ext_articles/61463658.ext.json)
-
----
-
-### Pavithra to back RW for Presidency
-
-*2024-08-09 05:58:28* · [`dailyftlk`](https://www.ft.lk/news/Pavithra-to-back-RW-for-Presidency/56-765308) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Ratnapura district stalwart Pavithradevi Wanniarachchi will back President Ranil Wickremesinghe in the upcoming Presidential election.
-
-In a statement, Wanniarachchi who is also the Irrigation, Wildlife and Forest Resources Conservation Minister said she had arrived at the decision to support Wickremesinghe after lengthy discussions with party members, social activists, and other parties.
-
-Over 92 Government MPs have already declared their support for Ranil Wickremesinghe, openly defying the SLPP’s decision to nominate Namal Rajapaksa as its Presidential candidate. This growing faction of MPs, including Pavithra Wanniarachchi, signals a significant split within the party, as many choose to back Wickremesinghe’s independent candidacy over the SLPP’s official nominee.
-
-...
-
-[Data](articles/ebe06688.json)
-
-[Extended Data](ext_articles/ebe06688.ext.json)
 
 ---

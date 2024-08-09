@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 07:51:54**
+As of **2024-08-09 08:15:55**
 
 ## Newspaper Stats
 
-*Scraped **39,758** Articles*
+*Scraped **39,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
-adalk | 3,645
+adalk | 3,646
 adaderanalk | 4,613
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,002
@@ -26,77 +26,101 @@ adaderanasinhalalk | 6,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,735 (99.9%) of 39,758 articles have been extended.
+39,742 (100.0%) of 39,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### நல்லூர் கந்தன் கொடியேற்றம் இன்று
+### Nallur Kandan flag
 
 *2024-08-09 07:41:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தன்-கொடியேற்றம்-இன்று/175-341845) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந்திருவிழா இன்று வெள்ளிக்கிழமை முற்பகல் 10 மணிக்குக் கொடியேற்றத்துடன் ஆரம்பமாகின்றது.
+The Nallur Kandaswamy Temple hosts several festivals starting from today at 10 am, including the Karthika festival on the 26th, Suriyosavam on the 27th, and more events throughout the month.
 
-இந்தப் பெருந்திருவிழாவில் எதிர்வரும் 18 ஆம் திகதி பிற்பகல் 4.45 மணிக்கு மஞ்சத் திருவிழாவும், 26ஆம் திகதி மாலை 4.45 மணிக்கு கார்த்திகை திருவிழாவும், மறுநாள் 27ஆம் திகதி காலை 6.45 மணிக்கு சூர்யோற்சவமும் நடைபெறவுள்ளன.
+🟩
 
-தொடர்ந்து 23ஆம் திருவிழாவான எதிர்வரும் 31ஆம் திகதி பிற்பகல் 4.45 மணிக்கு சப்பரத் திருவிழாவும், செப்டெம்பர் முதலாம் திகதி காலை 6.15 மணிக்கு தேர்த்திருவிழாவும், அடுத்தநாள் செப்டெம்பர் 2 ஆம் திகதி காலை 6. 15 மணிக்குத் தீர்த்தத் திருவிழாவும் நடைபெறவுள்ளன. (a)
+The great festival of the historic Nallur Kandaswamy Temple begins today at 10 am.
+
+The festival will be held at 4.45 pm on the 18th of this month, the Karthika festival at 4.45 pm on the 26th and the Suriyosavam will be held at 6.45 am the next day.
+
+The 23rd festival will be held at 4.45 pm on the 31st of this month, and the Therru festival at 6.15 am on the first day of September 6. The Tirtha Festival will be held at 15am. (A)
 
 ◼️
 
 [Data](articles/22be32d1.json)
 
+[Extended Data](ext_articles/22be32d1.ext.json)
+
 ---
 
-### ඉදිරි දින 10 තුළ බිත්තර ආනයනය අරඹයි
+### Eggs begin imports in the next 10 days
 
 *2024-08-09 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199735) · `si`
 
-ඉදිරි දින 10ක් ඇතුළත බිත්තර ආනයනය කිරිමේ කටයුතු යළි ආරම්භ කරන බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+In the next 10 days, the importation of eggs will be restricted as decided by the State Commerce Corporation. The Chairman of Sri Assundara confirms that procurement activities have started, following the Cabinet's approval to import 30 million eggs monthly to stabilize local prices.
 
-එහි සභාපති ආසිරි වලිසුන්දර මහතා සඳහන් කළේ ඊට අදාළ ප්‍රසම්පාදන කටයුතු මේ වනවිට සිදුවන බවය.
+🟩
 
-දේශීය වෙළෙඳපොළ තුළ බිත්තරයක් රුපියල් 50 ඉක්මවා මිලකට අලෙවි වීම හේතුවෙන් බිත්තර ආනයනය කිරීම සඳහා පසුගියදා කැබිනට් අනුමැතිය හිමිවිය.
+The State Commerce Corporation says that the importation of eggs will be restrained within 10 days.
 
-ඒ අනුව මසකට බිත්තර මිලියන 30 බැගින් ආනයනය කිරීමට සැලසුම් කර තිබේ.
+The Chairman of the Sri Assundara said that the relevant procurement activities are already underway.
+
+The cabinet was approved by the Cabinet recently to import eggs due to selling an egg in the local market.
+
+Accordingly, the import of 30 million eggs per month.
 
 ◼️
 
 [Data](articles/962e2eea.json)
 
+[Extended Data](ext_articles/962e2eea.ext.json)
+
 ---
 
-### අයථා ලෙස භාවිත කරන රාජ්‍ය දේපොළ ගැන දැනුම්දීමක්
+### Notice of state property used by misappropriation
 
 *2024-08-09 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199734) · `si`
 
-රජයේ දේපොළ අයථා ලෙස පරිහරණය කරන්නේ නම් ඒවා නැවත භාරදෙන ලෙස අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුම්දෙයි.
+The Bribery Commission announced the need to reclaim state properties misused by individuals. The government assets were improperly removed, leading to numerous complaints. Authorities, including secretariats and departments, have been instructed to recover these properties immediately. Legal actions will be taken against anyone found violating laws 41 and 111 of the Corruption Act.
 
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව සඳහන් කළේ, මීට පෙර රජයේ තනතුරු දරමින් සිටියදී රජය මගින් ලබාදුන් නිශ්චල සහ චංචල දේපොළ එම නිලතලවලින් ඉවත්වූ පසු නිත්‍යානූකූල නොවන ආකාරයට පරිහරණය කරන බවට පැමිණිලි රැසක් ලැබි ඇති බවය.
+🟩
 
-ඒ අනුව එලෙස පරිහරණය කරන්නේ නම් ඒවා කඩිනමින් ආපසු  භාරගැනීමට අවශ්‍ය කටයුතු සිදුකිරීම අදාළ බලධාරීන් සිදුකළ යුතු බව සඳහන් කරමින් අමාත්‍යාංශය ලේකම්වරුන්, පළාත් ප්‍රධාන ලේකම්වරුන්, පළාත් පාලන ආයතන ප්‍රධානීන්, දෙපාර්තමේන්තු ප්‍රධානීන් සහ දිස්ත්‍රික් ලේකම්වරුන් මෙන්ම රජයට අනුබද්ධ ව්‍යවස්ථාපිත ආයතන ප්‍රධානීන් දැනුම්වත් කරමින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් මෙම නිවේදනය නිකුත්කර තිබේ.
+The Commission to Investigate Allegations of Bribery or Corruption, the Bribery Commission is informed to reassemble state property.
 
-දූෂණ විරෝධි පනතේ 41 සහ 111 වගන්ති ප්‍රකාරව එහි මෙලෙස කිසියම් පුද්ගලයෙකු තවදුරටත් නීත්‍යානුකූලව අදාළ දේපොළ රජය වෙත භාර නොදීම නීතිය හමුවේ දඬුවම් ලැබිය හැකි වරදක් වන බවද අදාළ ලිපියෙහි දක්වා ඇත.
+The Commission issued an announcement, the Commission said that the government and movable property had been paid by the government and had a number of complaints that the government had withdrawn from the government.
+
+According to the authorities, the secretariats, the Chief Secretaries, Departments, Heads of Departments and District Secretaries as well as government secretaries, and corporate statutory agencies informed the relevant authorities to take action to take action to be taken back to the immediate acceptance of them should be carried out.The announcement has been issued by the Commission.
+
+The article will continue to accept the property that a person is legally offensive in accordance with the law 41 and 111 of the Corruption Act.
 
 ◼️
 
 [Data](articles/80acf8e9.json)
 
+[Extended Data](ext_articles/80acf8e9.ext.json)
+
 ---
 
-### ඡන්ද මධ්‍යස්ථාන සකස් කිරීම අර්බුදයක
+### Preparation of polling stations in crisis
 
 *2024-08-09 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199733) · `si`
 
-ඡන්ද මධ්‍යස්ථානයක් සකස් කිරීමේදී ඊට අවශ්‍ය සේවකයින් සහ පහසුකම් සපයාගැනීම ගැටලුවක් වී ඇති බව සමස්ත ලංකා නිදහස් ග්‍රාම සේවා නිලධාරීන්ගේ සංගමය පවසයි.
+In crisis situations, preparing polling stations faces challenges due to insufficient staff and resources. The daily allowance for workers has tripled compared to past elections, according to the All Ceylon Freedom Grama Niladhari Service Association.
 
-එම සංගමයේ ප්‍රධාන ලේකම් එම්. කේ. ජී. ජගත් චන්ද්‍රලාල් මහතා සඳහන් කළේ මීට පෙර පැවති ඡන්ද විමසීමට වඩා මෙවර සේවකයකුට ලබාදිය යුතු දෛනික දීමනාව තුන්ගුණයකින් පමණ ඉහළ ගොස් ඇති බවය.
+🟩
 
-ඡන්ද මධ්‍යස්ථානයක් සකස්කිරීමට අවශ්‍ය පරිදි ප්‍රමාණවත් දීමනාවක් ලබාදීමට කටයුතු කළ යුතු බව සමස්ත ලංකා නිදහස් ග්‍රාම සේවා නිලධාරීන්ගේ සංගමයේ ප්‍රධාන ලේකම් එම්. කේ. ජී. ජගත් චන්ද්‍රලාල් මහතා තවදුරටත් පැවසීය.
+The All Ceylon Freedom Grama Niladhari Service Association says that employees and facilities for the preparation of a polling station have been a problem.
+
+Chief Secretary of the Association. K. G. Jagath Chandralal said that the daily allowance given to a employee has increased in about three times more than the previous elections.
+
+All Ceylon Free Grama Niladhari Services Officers Association (All Ceylon Freedom Grama Niladhari) Association's Chief Secretary. K. G. Jagath Chandralal added.
 
 ◼️
 
 [Data](articles/b6d4e9ee.json)
+
+[Extended Data](ext_articles/b6d4e9ee.ext.json)
 
 ---
 
@@ -252,6 +276,8 @@ Dialog Televi-sion’s latest reload channel plans offer more channels than ever
 
 [Data](articles/bd792b2b.json)
 
+[Extended Data](ext_articles/bd792b2b.ext.json)
+
 ---
 
 ### Casio’s major enforcement action in Sri Lanka: Ongoing efforts to safeguard consumer interests
@@ -266,6 +292,8 @@ In a recent coordinated effort alongside Casio India, raids were conducted by Co
 
 [Data](articles/f3ee3962.json)
 
+[Extended Data](ext_articles/f3ee3962.ext.json)
+
 ---
 
 ### Why is IMF here? Sri Lanka needs new governance model to avoid them in the future
@@ -279,6 +307,8 @@ The IMF may have their own agendas. But they are in the country because our poli
 ...
 
 [Data](articles/e57716e2.json)
+
+[Extended Data](ext_articles/e57716e2.ext.json)
 
 ---
 
@@ -1792,6 +1822,20 @@ There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
 
 ---
 
+### මටත් අගමැතිකම ගන්න කතා කළා
+
+*2024-08-08 16:34:13* · [`adalk`](https://www.ada.lk/breaking_news/මටත්-අගමැතිකම-ගන්න-කතා-කළා/11-411268) · `si`
+
+පසුගිය අරගල සමයේදී හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා තමාට අගමැතිධූරය භාරගන්නා ලෙස ඉල්ලීමක් කළ බව හිටපු අධිකරණ අමාත්‍ය, ජනාධිපති අපේක්ෂක විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+කොළඹදී අද(08දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d91bf853.json)
+
+---
+
 ### Another US $ 90,000 million for Gaza children from Sri Lanka
 
 *2024-08-08 16:32:45* · [`adalk`](https://www.ada.lk/breaking_news/ගාසා-දරුවන්ට-තවත්-ඇමරිකානු-ඩොලර්-පන්ලක්ෂ-අනූදහසක්-ශ්‍රී-ලංකාවෙන්-ලබාදෙයි/11-411267) · `si`
@@ -2211,25 +2255,5 @@ Seismologists were holding an emergency meeting to analyze whether the quake had
 [Data](articles/e72836f1.json)
 
 [Extended Data](ext_articles/e72836f1.ext.json)
-
----
-
-### Five including Vass Gunawardena and son sentenced to 4 years RI
-
-*2024-08-08 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101083/five-including-vass-gunawardena-and-son-sentenced-to-4-years-ri) · `en`
-
-Former DIG Vass Gunawardena, his son Ravindu Gunawardena and three other police officers, who were convicted of several charges including the abduction and unlawful detention of Nipuna Ramanayake, a student of an IT Institute in Malabe in 2009, have been sentenced to 04 years of rigorous imprisonment by the Colombo High Court.
-
-Meanwhile, three other defendants in the case including Vass Gunawardena’s wife Shyamali Priyadharshani Perera have been acquitted and released from the case.
-
-The verdict in the case was delivered today (08) by Colombo High Court Judge Amal Ranaraja, following the conclusion of a lengthy trial.
-
-Ramanayake, a 21-year-old student of the Sri Lanka Institute of Information Technology (SLIIT) at Malabe was allegedly abducted and brutally assaulted on August 09, 2009 by the son and wife of then SSP Vaas Gunawardena along with several other policemen.
-
-...
-
-[Data](articles/fe7051ce.json)
-
-[Extended Data](ext_articles/fe7051ce.ext.json)
 
 ---

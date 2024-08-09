@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 10:20:45**
+As of **2024-08-09 10:36:32**
 
 ## Newspaper Stats
 
-*Scraped **39,778** Articles*
+*Scraped **39,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,619
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,007
 virakesarilk | 6,296
-adaderanasinhalalk | 6,747
+adaderanasinhalalk | 6,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,775 (100.0%) of 39,778 articles have been extended.
+39,778 (100.0%) of 39,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### මනූෂ සහ හරීන් පක්ෂ සාමාජිකත්වය අහිමි කිරීම නීත්‍යානුකූලයි - ශ්‍රේෂ්ඨාධිකරණය
+
+*2024-08-09 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199740) · `si`
+
+අමාත්‍යවරුන් වන මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන මහත්වරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+
+සිය පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගත් තීරණය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මනුෂ නානායකාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරු ඉදිරිපත් කළ පෙත්සම් නිෂ්ප්‍රභ කරමින් ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ලබාදුනි.
+
+විජිත් මළල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම තීන්දුව ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/07a40648.json)
+
+---
 
 ### Increasing wheezing among children
 
@@ -113,6 +129,8 @@ The network said the debate will be moderated by World News Tonight anchor and m
 ...
 
 [Data](articles/9dcb3f4a.json)
+
+[Extended Data](ext_articles/9dcb3f4a.ext.json)
 
 ---
 
@@ -226,15 +244,21 @@ The Olympic Champion Neraj Chop, 89mm, 4 and 4 decimals were talented.
 
 ---
 
-### ලෝක ආදිවාසී දිනය අදයි - සැමරුම් උත්සවය දඔානේදී
+### Today is Indigenous Day - Day to visit
 
 *2024-08-09 09:08:26* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-ආදිවාසී-දිනය-අදයි---සැමරුම්-උත්සවය-දඔානේදී/11-411269) · `si`
 
-ඒ සම්බන්ධයෙන් පවත්වනු ලබන සැමරුම් උත්සවය අද දඹාන ආදිවාසී ගම්මානයේදී පැවැත්වීමට නියමිතව ඇත.
+Indigenous Day is celebrated today, marking a special occasion to honor and visit indigenous communities. The festivities are taking place at the Indigenous village, a day dedicated to recognizing and celebrating the rich cultures and traditions of our first peoples.
+
+🟩
+
+The celebration in this regard is due to be held at the Indigenous village today.
 
 ◼️
 
 [Data](articles/39165d1e.json)
+
+[Extended Data](ext_articles/39165d1e.ext.json)
 
 ---
 
@@ -2215,33 +2239,5 @@ Top contributors to the ASPI were Sampath Bank Plc (up at 74.50), DFCC Bank Plc 
 [Data](articles/4c4b85ea.json)
 
 [Extended Data](ext_articles/4c4b85ea.ext.json)
-
----
-
-### Ranil Wickremesinghe is not challenged by Sajith or Namal - Ruwan Wijewardena
-
-*2024-08-08 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190588) · `ta`
-
-Ranil Wickremesinghe, facing no challenge from Sajith or Namal, enjoys support from villagers who initially backed Mottuwa. UNP Deputy Leader Ruwan Wijewardene emphasizes Wickremesinghe's intention to run as an independent candidate, aiming to unite parties for national stability and economic growth. Despite past criticisms and challenges, Wickremesinghe's leadership is seen positively, with calls for unity to address the country's issues effectively.
-
-🟩
-
-Many people in the village who voted for Mottuwa are today with Ranil Wickremesinghe. That is why a group of parliamentarians from the terrace gathered around the president. United National Party Deputy Leader Ruwan Wijewardene says that Ranil Wickremesinghe is not challenging or Namal.
-
-The Deputy Chairman also said that the United National Party (UNP) would call for a join with Ranil Wickremesinghe to build a stable country.
-
-Speaking at a media briefing held on Thursday (08) on the theme "We will win together," the Deputy Chairman said this.
-
-The media briefing was held at Ranil Wickremesinghe's Presidential Election Media Center in Loris Mawatha, Bambalapitiya.
-
-There, United National Party (UNP) Deputy Leader Ruwan Wijewardene added,
-
-“Ranil Wickremesinghe has decided to contest the country as an independent candidate in the presidential election this year. His hope is to unite all parties and strengthen the future and economy of the country.
-
-...
-
-[Data](articles/e98ccadc.json)
-
-[Extended Data](ext_articles/e98ccadc.ext.json)
 
 ---

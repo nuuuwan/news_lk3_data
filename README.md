@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 18:16:12**
+As of **2024-08-09 18:28:10**
 
 ## Newspaper Stats
 
-*Scraped **39,859** Articles*
+*Scraped **39,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 2,568
 adalk | 3,657
 adaderanalk | 4,636
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,023
+tamilmirrorlk | 5,024
 virakesarilk | 6,309
-adaderanasinhalalk | 6,767
+adaderanasinhalalk | 6,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,859 (100.0%) of 39,859 articles have been extended.
+39,859 (100.0%) of 39,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### පෙරහැර සමයේ විධිමත්ව කසළ බැහැර කරන්න
+
+*2024-08-09 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199761) · `si`
+
+මහනුවර ඇසළ පෙරහැර සමයේ වගකීමෙන් යුතුව කසළ බැහැර කරන ලෙස පෙරහැර නැරඹීමට පැමිණෙන බැතිමතුන්ගෙන් මධ්‍යම පරිසර අධිකාරිය ඉල්ලා සිටී.
+
+සාමාන්‍යයෙන් මහනුවර ඇසළ පෙරහැර සමයේ දිනකට ටොන් තුනක පමණ පොලිතීන්, ප්ලාස්ටික් ඇතුළු ඝන අපද්‍රව්‍ය එක්රැස් වෙන බව එම අධිකාරිය පෙන්වා දෙයි.
+
+මේ හේතුවෙන් මධ්‍යම පරිසර අධිකාරිය බැතිමතුන්ගෙන් ඉල්ලා සිටින්නේ, කසළ බැහැර කරන ස්ථාන වෙත පමණක් කසළ බැහැර කර ලෙසයි.
+
+එමෙන්ම පොලිතීන් ප්ලාස්ටික් ඇතුළු නොදිරන ද්‍රව්‍ය භාවිතය හැකිතාක් අවම කරන මෙන්ද බැතිමතුන්ට සිහිපත් කර සිටී.
+
+වසර ගණනාවක සිට මධ්‍යම පරිසර අධිකාරියේ මධ්‍යම පළාත් කාර්යාලය, මහනුවර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව, මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලය, මහනුවර නගර සභාව සහ මහනුවර පොලීසිය යන ආයතන වල ප්‍රධානත්වයෙන් කසළ කළමනාකරණ වැඩසටහක් ක්‍රියාත්මක කරනු ලබයි.
+
+මෙවර මහනුවර ඇසළ පෙරහර මේ මස 10 වෙනිදා සිට 19 වෙනිදා දක්වා පැවැත්වේ.
+
+◼️
+
+[Data](articles/9431e299.json)
+
+---
 
 ### Two others to fight President
 
@@ -51,6 +73,26 @@ Our atologist Keerthi Wickremaratne has deposited today.
 [Data](articles/443fa858.json)
 
 [Extended Data](ext_articles/443fa858.ext.json)
+
+---
+
+### கோவில் பதாகையில் மியா கலிஃபா
+
+*2024-08-09 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோவில்-பதாகையில்-மியா-கலிஃபா/175-341871) · `ta`
+
+காஞ்சிபுரம் , குருவிமலை பகுதியில்  உள்ள  ஆலயமொன்றுக்கு  ஊர் மக்களால், ஆடி மாதத்தின் போது பால்குடம் எடுத்துச் செல்வதை வழக்கமாகக் கொண்டுள்ளனர்.
+
+அந்த வகையில்  திருவிழா பதாகைகள் ஊரை அலங்கரித்து வந்துள்ளதுடன் அப்பகுதியைச் சேர்ந்த இளைஞர்கள், தங்கள் புகைப்படங்களையும், திரை நட்சத்திரங்களின் புகைப்படங்களையும் பதாகைகளில் வைத்து அழகு பார்த்துள்ளனர்.
+
+இந் நிலையில், கோவில் பதாகையொன்றில், பிரபல கவர்ச்சி நடிகை மியா கலிஃபா பால் குடம் தூக்குவது போல் சித்தரித்து இருந்தமை அனைவரின் கவனத்தையும் கவர்ந்துள்ளது.
+
+அதற்கு ஒரு தரப்பினரிடம் இருந்து நல்ல வரவேற்பு கிடைத்த நிலையில், மற்றொரு தரப்பினரோ, கோவில் திருவிழா சார்ந்த பதாகையில் ஆபாச நடிகையின் புகைப்படம் இடம்பெறுவதா? எனக்கூறி எதிர்ப்பு தெரிவித்தனர்.
+
+இந்த தகவல் பொலிஸாருக்கு தெரியவந்ததையடுத்து  பொலிஸார்  குறித்த இடத்திற்கு  நேரில் சென்று அந்த பதாகையை அங்கிருந்து அகற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/d3fbc994.json)
 
 ---
 
@@ -2191,55 +2233,5 @@ All Ceylon Free Grama Niladhari Services Officers Association (All Ceylon Freedo
 [Data](articles/b6d4e9ee.json)
 
 [Extended Data](ext_articles/b6d4e9ee.ext.json)
-
----
-
-### World Indigenous Day today
-
-*2024-08-09 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199732) · `si`
-
-Today marks the International Day of the Indigestible, celebrating indigenous rights. This year focuses on empowering young indigenous leaders to shape their cultures' futures. The celebration is hosted by the Indigenous Village of Aboriginal Peoples and the Sri Lankan government, with participation from the Minister of Buddha Sasana and Religious Affairs, Vidura Wickramanayaka. The event aims to address challenges faced by indigenous communities, emphasizing youth involvement and cultural preservation.
-
-🟩
-
-Every year, the International Day of the Indigestable people celebrates the rights of the World Indigenous population on August 9th August 9th.
-
-This time it is identifying as representatives of young people as representatives to make decisions on the changes of Aboriginal culture.
-
-This day is celebrated today centered on the Indigenous Village of Aboriginal Peoples and the Government of Sri Lanka.
-
-Minister of Buddha Sasana and Religious Affairs Vidura Wickramanayaka is due to be joined by Minister Vidura Wickramanayake.
-
-Commenting on the Indigenous Day celebrating the Indigenous Day, the Vanni, the Vanni was appointed to resolve the issues of the aboriginal villages in the country.
-
-◼️
-
-[Data](articles/1d65ff12.json)
-
-[Extended Data](ext_articles/1d65ff12.ext.json)
-
----
-
-### Three arrested with banned agro chemi
-
-*2024-08-09 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199731) · `si`
-
-Three individuals transporting banned agrochemicals in a three-wheeler were arrested by Divulapitiya Police. The haul included 500 packets valued at nearly 475,000. The suspects, aged 45 and 55, reside in Colombo.
-
-🟩
-
-Three persons who were transporting an agrochemical of agro chemicals in a three-wheeler have been arrested.
-
-The suspects were arrested by the officers of the Divulapitiya Police Station.
-
-The police have seized 500 packets of 500 packets and the value of it was nearly 475,000.
-
-The suspects are residents in Colombo 39, 45 and 55 years.
-
-◼️
-
-[Data](articles/06e73e9c.json)
-
-[Extended Data](ext_articles/06e73e9c.ext.json)
 
 ---

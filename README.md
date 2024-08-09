@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 09:07:12**
+As of **2024-08-09 09:21:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,762 (100.0%) of 39,765 articles have been extended.
+39,765 (100.0%) of 39,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,19 +72,25 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### 157 முறைப்பாடுகள் பதிவு
+### 157 complaints register
 
 *2024-08-09 08:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/157-முறைப்பாடுகள்-பதிவு/175-341847) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பில் இதுவரையில் 157 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission reported receiving 157 complaints about the presidential election, including 102 for the National Election Complaint Management Center and 55 for District centers.
 
-இதற்கமைய, தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு இதுவரை 102 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+🟩
 
-அத்துடன், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையங்களுக்கு இதுவரையில் 55 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகத் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+The Elections Commission said that 157 complaints have been received so far in the presidential election.
+
+Accordingly, 102 complaints have been received so far for the National Election Complaint Management Center.
+
+In addition, 55 complaints have been received for the District Election Complaint Management Centers so far. (A)
 
 ◼️
 
 [Data](articles/69ac39bf.json)
+
+[Extended Data](ext_articles/69ac39bf.ext.json)
 
 ---
 
@@ -1536,6 +1542,8 @@ Accordingly, seven Tamil political parties and seven civil society representativ
 
 [Data](articles/69439993.json)
 
+[Extended Data](ext_articles/69439993.ext.json)
+
 ---
 
 ### Sri Lanka seizes fake Casio watches
@@ -1571,6 +1579,8 @@ The  ‘Samagi Jana Sandanaya (SJS)’, a broad political alliance led by the ma
 ...
 
 [Data](articles/d214cda6.json)
+
+[Extended Data](ext_articles/d214cda6.ext.json)
 
 ---
 

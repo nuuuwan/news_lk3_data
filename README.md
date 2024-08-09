@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 13:55:57**
+As of **2024-08-09 14:08:28**
 
 ## Newspaper Stats
 
-*Scraped **39,825** Articles*
+*Scraped **39,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,58 @@ colombotelegraphcom | 376
 islandlk | 2,295
 economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,652
+adalk | 3,653
 adaderanalk | 4,627
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,018
 virakesarilk | 6,306
-adaderanasinhalalk | 6,756
+adaderanasinhalalk | 6,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,822 (100.0%) of 39,825 articles have been extended.
+39,825 (100.0%) of 39,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
 
-### தேர்தல் அறிவித்த பிறகு அம்மா திரும்புவார்: மகன்
+### ඉල්ලා අස්වෙමින් ෆොන්සේකා සජිත්ට යැවූ ලිපිය
+
+*2024-08-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199749) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන් ඉල්ලා අස්වෙමින් සජිත් ප්‍රේමදාස මහතා වෙත ලිපියක් යොමු කර තිබේ.
+
+◼️
+
+[Data](articles/1a77669b.json)
+
+---
+
+### Mother will return after the election is announced: son
 
 *2024-08-09 13:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அறிவித்த-பிறகு-அம்மா-திரும்புவார்-மகன்/175-341859) · `ta`
 
-பாகிஸ்தான் உளவுத்துறை வங்காள தேசத்தில் அமைதியின்மையை தூண்டுகிறது என்று ஷேக் ஹசீனாவின் மகன் சஜீத் வசத் ஜோய் தெரிவித்துள்ளார்.
+After the Bangladeshi PM's resignation and temporary asylum in India, her son expects her return once elections are held under an interim government led by economist Mohammed Yunus. Amidst unrest fueled by alleged Pakistani interference, the military assumes control, dissolving parliament and setting a three-month timeline for elections.
 
-வங்காளதேசத்தில் இடஒதுக்கீட்டுக்கு எதிரான மாணவர்கள் போராட்டம், வன்முறையாக மாறியது. இதனால் எழுந்த நெருக்கடியால் பிரதமர் ஷேக் ஹசீனா தனது பதவியை ராஜினாமா செய்துவிட்டு, நாட்டைவிட்டு வெளியேறினார்.
+🟩
 
-இந்தியாவில் தற்காலிகமாக தஞ்சமடைந்துள்ள அவர், வேறுநாட்டுக்கு செல்வார் என எதிர்பார்க்கப்படுகிறது.பிரதமரின் ராஜினாமாவை தொடர்ந்து, வங்காளதேசத்தின் ஆட்சி அதிகாரத்தை அந்த நாட்டு ராணுவம் கையில் எடுத்தது.
+Sheikh Hasina's son Sajeed Vasad Joy has said that Pakistan intelligence is provoking unrest in the country of Bengal.
 
-தேர்தல் நடத்தப்பட்டு புதிய ஆட்சி அமையும் வரை, நாட்டில் இடைக்கால அரசு அமைக்கப்படும் என ராணுவ தளபதி வேக்கர் உஸ் ஜமான் அறிவித்தார். தொடர்ந்து, பாராளுமன்றத்தை கலைத்து ஜனாதிபதி முகமது சஹாபுதீன் உத்தரவிட்டார்.
+Students' struggle against reservation in Bangladesh turned violently. Prime Minister Sheikh Hasina resigned from his post and left the country.
 
-அந்த நாட்டு சட்டப்படி, வங்காளதேசத்தில் அடுத்த 3 மாதங்களுக்குள் தேர்தல் நடக்கலாம் என எதிர்பார்க்கப்படுகிறது. அதுவரை நாட்டை இடைக்கால அரசு வழிநடத்தும்.இந்தநிலையில் நோபல் பரிசு பெற்ற பொருளாதார நிபுணரான முகமது யூனுஸ் இடைக்கால அரசின் தலைவராக அறிவிக்கப்பட்டார்.
+He is temporarily asylum in India and is expected to go to another country. Following the resignation of the Prime Minister, the army took over the power of Bangladesh.
+
+Army Commander Wacker Us Zaman has announced that an interim government will be set up in the country until the election is held and the new regime is held.. Subsequently, President Mohammed Sahabuddin ordered the dissolution of Parliament.
+
+According to the law, the election is expected to take place within the next 3 months in Bangladesh. The Nobel laureate economist Mohammed Yunus was declared the head of the interim government.
 
 ...
 
 [Data](articles/c557b9eb.json)
+
+[Extended Data](ext_articles/c557b9eb.ext.json)
 
 ---
 
@@ -63,6 +81,8 @@ The additional funding was announced during a visit to Sri Lanka by the U.S. Age
 ...
 
 [Data](articles/b6ee19db.json)
+
+[Extended Data](ext_articles/b6ee19db.ext.json)
 
 ---
 
@@ -126,17 +146,23 @@ President Ranil Wickremesinghe said this while addressing the women's conference
 
 ---
 
-### මනූෂ සහ හරීන් අහිමිවීම ගැන කරුණු කියයි
+### Manushashi and Harin says the loss of
 
 *2024-08-09 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199747) · `si`
 
-මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව ශ්‍රේෂ්ඨාධිකරණය අද (09) තීන්දු කළේය.
+The Supreme Court ruled on Manusha Nanayakkara and Harin Fernando's decisions, prompting them to hold a press conference for clarification.
 
-ඒ සම්බන්ධයෙන් සිය ප්‍රතිචාරය දැක්වීමට මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්විය.
+🟩
+
+The Supreme Court today (09th) today decided that the decision taken taken by Manusha Nanayakkara and Harin Fernando.
+
+Manusha Nanayakkara and Harin Fernando joined a special press conference to respond.
 
 ◼️
 
 [Data](articles/53c09d40.json)
+
+[Extended Data](ext_articles/53c09d40.ext.json)
 
 ---
 
@@ -281,6 +307,22 @@ Also, the petition filed by the former Minister is permitted to take the examina
 [Data](articles/e574f76e.json)
 
 [Extended Data](ext_articles/e574f76e.ext.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණයේ තීරණයේ බලපෑම ආණ්ඩුවට - මම අද ඉදන් අමාත්‍ය ධුරයේ වැඩ කරන්නේ නෑ -මනූෂ
+
+*2024-08-09 12:22:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණයේ-තීරණයේ-බලපෑම-ආණ්ඩුවට---මම-අද-ඉදන්-අමාත්‍ය-ධුරයේ-වැඩ-කරන්නේ-නෑ--මනූෂ/11-411274) · `si`
+
+තමා අද(09දා) සිට අමාත්‍ය ධුරයේ කටයුතු නොකර බව අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය.
+
+සමගි ජන බලවේගය මනූෂ නානායක්කාර මහතාගේ සහ හරීන් ප්‍රනාන්දු මහතාගේ පක්ෂ සමාජිකත්වය අත්හිටුවීම නීත්‍යානුකූල බවට ශ්‍රේෂ්ඨාධිකරණය අද ලබා දුන් තීරණයත් සමග ඔහු මේ බව සඳහන් කළේය.
+
+අධිකරණයෙන් ම‌ගේ පක්ෂ සාමාජිකත්වය අහෝසි කරලා. කමක් නෑ. සමගි ජන බලවේගයට ඕනී වුණේ ඒ අයට දිනන්නනේ. ඒ අයගේ පක්ෂ නීතිය හරි. ඉතින් අද ඉදලා මම අමාත්‍ය ධුරයේ වැඩ කරන්නේ නෑ. අමාත්‍ය ධුරයේ වැඩ කරන්න බෑනේ.
+
+◼️
+
+[Data](articles/90fd9a84.json)
 
 ---
 
@@ -2065,59 +2107,5 @@ The bilateral visit is expected to further consolidate the longstanding ties bet
 [Data](articles/4a8daac2.json)
 
 [Extended Data](ext_articles/4a8daac2.ext.json)
-
----
-
-### Investigation into Ranmal Kodituwakku
-
-*2024-08-08 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199727) · `si`
-
-The Supreme Court has directed the Attorney General to investigate allegations of inhumane treatment against Senior DIG Ranmal Kodituwakku, ordering him to respond within 8 weeks. This action follows a petition filed by a Rajagiriya businessman, highlighting the need for proper conduct among senior police officers.
-
-🟩
-
-The Supreme Court today ordered the Attorney General today (08) to ensure that the Senior DIG Ranmal Kodituwakku.
-
-It is in connection with the incident that is unconscious and naked and inhuman harassment without any reasonable cause.
-
-The Supreme Court has issued an order to launch an investigation against the respondents against the respondents including Senior DIG Ranmal Flag.
-
-The Supreme Court has ordered the Western Province Senior DIG in charge of the Western Province.
-
-The orders were issued by Yasantha Koduna Wickremasinghe and Priyantha Fernando three-member judiciary, permission to hear a fundamental rights petition filed by a businessman from Rajagiriya.
-
-One of the eight senior DIGs in the country, Judge Yasantha Kodagoda noted this way to deal with a senior police officer in this way.
-
-The Supreme Court has ordered the respondents to the respondents to the respondents to the respondents to the respondents to the respondent to the petition within 8 weeks.
-
-◼️
-
-[Data](articles/bb2754d9.json)
-
-[Extended Data](ext_articles/bb2754d9.ext.json)
-
----
-
-### Mohamed Yunus has been elected as the interim head of Bangladesh
-
-*2024-08-08 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190616) · `ta`
-
-Mohamed Yunus, a Nobel laureate, has been appointed as the interim leader of Bangladesh following the resignation of Prime Minister Sheikh Hasina amidst a popular uprising. He was elected by President Mohammed Shahabuddin to lead the interim government, tasked with addressing the demands of student protest leaders.
-
-🟩
-
-Yunus has been elected by President Mohammed Shahabuddin to guide the interim government to meet the main demand of the student struggle leaders.
-
-Nobel laureate Mohammed Yunus has been sworn in as the head of the interim government in Bangladesh.
-
-Mohamed Yunus has been appointed as the interim leader of Bangladesh as Bangladesh Prime Minister Sheikh Hasina has resigned from his post due to the popular struggle.
-
-Former Prime Minister Sheikh Hasina, who resigned from the post, is currently in refuge in India.
-
-◼️
-
-[Data](articles/4839b913.json)
-
-[Extended Data](ext_articles/4839b913.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 09:21:13**
+As of **2024-08-09 09:36:22**
 
 ## Newspaper Stats
 
-*Scraped **39,765** Articles*
+*Scraped **39,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ islandlk | 2,295
 economynextcom | 2,410
 dailyftlk | 2,568
 adalk | 3,646
-adaderanalk | 4,615
+adaderanalk | 4,618
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,004
 virakesarilk | 6,296
-adaderanasinhalalk | 6,743
+adaderanasinhalalk | 6,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,765 (100.0%) of 39,765 articles have been extended.
+39,765 (100.0%) of 39,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### Bribery Commission warns against misuse of state property
+
+*2024-08-09 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101097/bribery-commission-warns-against-misuse-of-state-property) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has issued a directive to return government property if it is being misused.
+
+In a statement, the commission said it has received numerous complaints that immovable and movable properties provided by the government to individuals holding official positions were being used unlawfully even after those positions had been vacated.
+
+As a result, the relevant authorities are instructed to take immediate steps to reclaim such properties.
+
+The CIABOC has issued this notice to Ministry Secretaries, Provincial Chief Secretaries, Heads of Local Government Bodies, Department Heads, District Secretaries, and the Heads of Statutory Bodies affiliated with the government.
+
+According to Sections 41 and 111 of the Anti-Corruption Act, failing to return such property to the government is a punishable offence under the law, it warned.
+
+◼️
+
+[Data](articles/3af98f72.json)
+
+---
+
+### පාකිස්තානය පළමු මලල ක්‍රීඩා රන් පදක්කම දිනයි
+
+*2024-08-09 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199737) · `si`
+
+ඔලිම්පික් ඉතිහාසයේ පාකිස්තානයට පළමු මලල ක්‍රීඩා රන් පදක්කම හිමිකර දීමට හෙල්ල විසිකිරීමේ ක්‍රීඩක අර්ශාඩ් නදීම් අද සමත් වුණි.
+
+ඒ, පැරිස් ඔලිම්පික් උළෙලේ පිරිමි හෙල්ල විසිකිරීමේ ඉසව්වේදී ගියවර ඔලිම්පික් ශූරයා වූ ඉන්දියාවේ නීරාජ් චොප්රා අබිබවා ගොස් එම ඉසව්වේ රන් පදක්කම හිමි කරගනිමින්.
+
+ටෝකියෝ ඔලිම්පික් උළෙලේදී මෙන්ම මෙවරත් පිරිමි හෙල්ල විසිකිරීමේ ඉසව්වේදී වැඩි අවධානයක් යොමු වූයේ පසමිතුරු රටවල් දෙකක් වන ඉන්දියාවේ සහ පාකිස්තානයේ ක්‍රීඩකයින් දෙදෙනා වෙතය.
+
+පාකිස්තානයේ අර්ශාඩ් නදීම් සිය දෙවන උත්සාහයේදීම මීටර 92යි දශම 9යි 7ක දුරක් වාර්තා කරමින් එම ඉසව්වේ වසර 16ක් පැරණි ඔලිම්පික් වාර්තාව බිඳ දැමීය.
+
+එම දක්ෂතාව නදීම්ට හෙල්ල විසිකිරීමේ ඉසව්වේ රන් පදක්කම හිමිකර ගැනීමට ප්‍රමාණවත් වුණි.
+
+ඒ අනුව අර්ශාඩ් නදීම් හිමිකරගත් රන් පදක්කම වාර්තා අතරට එක්වූයේ පාකිස්තානය මලල ක්‍රීඩා ඉසව්වකින් හිමිකරගත් පළමු රන් පදක්කම ලෙසය.
+
+ගියවර ඔලිම්පික් ශූරයා වූ නීරාජ් චොප්‍ රා මීටර 89යි දශම 4යි 5ක දක්ෂතාවක් දක්වමින් රිදී පදක්කම හිමිකර ගත්තේය.
+
+◼️
+
+[Data](articles/ccbd5dcc.json)
+
+---
+
+### ට්‍රම්ප් සහ කමලා අතර විවාදයට දින තීන්දු වෙයි
+
+*2024-08-09 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199736) · `si`
+
+අමෙරිකානු හිටපු ජනාධිපති රිපබ්ලිකන් අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් සහ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂිකා කමලා හැරිස් අතර පළමු විවාදය සැප්තැම්බර් 10 වනදා පැවැත්වීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඩොනල්ඩ් ට්‍රම්ප් සිය X ගිණුමේ සටහනක් තබමින් පසුගියදා පැවසුවේ නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිත එරට ජනාධිපතිවරණයට පෙර ඩිමොක්‍රටික් පක්ෂ ප්‍රතිවාදියා පිළිබඳ විවාද කිරීමට තමා සුදානම් බවය.
+
+මීට පිළිතුරු දෙමින් ඩිමොක්‍රටික් පක්ෂ ජනාධිපති අපේක්ෂිකා කමලා හැරිස් උත්සවයකට එක්වෙමින් පවසා ඇත්තේ ඩොනල්ඩ් ට්‍රම්ප් සමග විවාදයට තමා සුදානම් බවත්, ඊට සැප්තැම්බර් 10 වන දින යොදාගත හැකි බවය.
+
+◼️
+
+[Data](articles/0ffc4743.json)
+
+---
+
+### Sri Lanka to commence egg imports in next 10 days
+
+*2024-08-09 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101096/sri-lanka-to-commence-egg-imports-in-next-10-days) · `en`
+
+The Sri Lanka State Trading (General) Corporation stated that the importation of eggs will recommence within the next 10 days.
+
+The corporation’s chairman Asiri Walisundara stated that relevant procurement process is currently in progress.
+
+The Cabinet recently granted approval for egg imports, as local egg prices had exceeded Rs. 50.
+
+Accordingly, it is planned to import around 30 million eggs per month.
+
+◼️
+
+[Data](articles/ccddb740.json)
+
+---
+
+### Grama Niladhari officers raise concerns over polling stations
+
+*2024-08-09 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101095/grama-niladhari-officers-raise-concerns-over-polling-stations) · `en`
+
+The All-Island Grama Niladhari Officers’ Association has raised concerns about the challenges in providing the necessary employees and facilities required for setting up polling stations.
+
+The association’s General Secretary, Mr. Jagath Chandralal, pointed out that the daily allowance for employees has increased threefold compared to the previous election.
+
+He further said that arrangements should be made to provide a sufficient allowance as required to set up a polling station.
+
+◼️
+
+[Data](articles/e791c118.json)
+
+---
 
 ### Venezuela’s Maduro blocks X access in country for 10 days
 
@@ -939,6 +1033,20 @@ A large number of representatives and representatives of the Board of Directors 
 [Data](articles/00d8a48e.json)
 
 [Extended Data](ext_articles/00d8a48e.ext.json)
+
+---
+
+### Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.
+
+*2024-08-08 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84468) · `en`
+
+President  Ranil Wickremesinghe was cruelly bamboozled by the Rajapaksas early this week. The incumbent president was given false promises that the Medamulana clan-led “pohottuwa”party was firmly behind him in his bid to contest the forthcoming presidential poll. The note of discord struck by Namal Rajapaksa was lightly dismissed as being of very little consequence. The message conveyed was that Wickremesinghe should formally seek the suppo rt of the Sri Lanka Podujana Peramuna(SLPP) for his candidacy and that it would be accepted and approved by the SLPP as a matter of course. But when Ranil did so, the carpet was yanked from under his feet.
+
+...
+
+[Data](articles/4933fe13.json)
+
+[Extended Data](ext_articles/4933fe13.ext.json)
 
 ---
 
@@ -2127,141 +2235,5 @@ The suspects were issued to the Maligakanda Magistrate today (08).
 [Data](articles/2e3b824f.json)
 
 [Extended Data](ext_articles/2e3b824f.ext.json)
-
----
-
-### Four including Keheliya further remanded; 2 others granted bail
-
-*2024-08-08 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101086/four-including-keheliya-further-remanded-2-others-granted-bail) · `en`
-
-Former Health Minister Keheliya Rambukwella and 03 other suspects implicated in the alleged importation of substandard immunoglobulin vials have been further remanded until August 22.
-
-The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (08).
-
-Meanwhile, former Health Secretary Janaka Chandraguptha and former Additional Health Secretary, who were also in remand custody, have been granted bail by the court.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/0099f81a.json)
-
-[Extended Data](ext_articles/0099f81a.ext.json)
-
----
-
-### Pavithra's support to Ranil
-
-*2024-08-08 16:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාගේ-සහයත්-රනිල්ට/11-411265) · `si`
-
-Minister Pavithra Wanniarachchi backs Ranil Wickremesinghe as an independent presidential candidate, signaling a significant political move ahead of the upcoming election.
-
-🟩
-
-Minister Pavithra Wanniarachchi has decided to support Ranil Wickremesinghe as an independent candidate for the next presidential election.
-
-◼️
-
-[Data](articles/65e644c4.json)
-
-[Extended Data](ext_articles/65e644c4.ext.json)
-
----
-
-### Four persons arrested for sale in Gajamuthu
-
-*2024-08-08 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199715) · `si`
-
-In a joint operation by Air Force intelligence, four individuals were arrested for selling goods worth three crore rupees. The suspects, aged 24, 32, and 40, are locals of Puttalam, Bodhirajapura, Attawilluwa, and Vanathavilluwa. The main suspect, who brought goods from abroad, claimed to have received instructions from a relative in Wanathavilluwa to sell Rs. 2 million and split the rest of the proceeds. All four will face charges in the Puttalam Court.
-
-🟩
-
-Four youths have been arrested along with three crores sold at a raid that was jointly conducted by the Air Force intelligence officers.
-
-The arrested persons are residents of Puttalam, Bodhirajapura, Attawilluwa and Vanathavilluwa, while they have been identified as 24, 32, 40 years old.
-
-The racket had been captured by the preliminary guest purchasing the SLAF Station.
-
-The main suspect is imported from foreign countries.
-
-The man has said that he has given him a relative in Wanathavill, and he has been instructed to sell Rs. 2 million to share the remaining money.
-
-Four suspects are to be produced before the Puttalam Court.
-
-◼️
-
-[Data](articles/ac2d268a.json)
-
-[Extended Data](ext_articles/ac2d268a.ext.json)
-
----
-
-### Yunus arrives to take over the leadership
-
-*2024-08-08 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199714) · `si`
-
-Muhammad Yunus, a Nobel laureate, has been appointed as the head of interim governance in Bangladesh after the resignation of Sheikh Hasina, the Prime Minister. Yunus, aged 84, plans to address several issues upon taking office.
-
-🟩
-
-Nobel Prize winner Muhammad Yunus has arrived in the country to accept interim control in Bangladesh.
-
-After arriving at the country, Yunus had said that many things in Bangladesh had to do.
-
-84-year-old Yunus, aged 84, is to be sworn in as the head of interim control in Bangladesh.
-
-Sheikh Haseanna was resigned from the country due to the Prime Minister of Bangladesh.
-
-◼️
-
-[Data](articles/23a21bf3.json)
-
-[Extended Data](ext_articles/23a21bf3.ext.json)
-
----
-
-### Arrested at the airport for bringing cigarettes abroad
-
-*2024-08-08 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190576) · `ta`
-
-A man was arrested at Katunayake airport for smuggling cigarettes worth 42 lakh 60 thousand rupees from Dubai. Seized items included 50 cartoons of 10 thousand platinum cigarettes and 92 cartridges, including 18,400 Manchester cigarettes. He was released on bail, with the cigarettes to be returned on April 14th.
-
-🟩
-
-The police drug eradication unit has arrested a person who illegally brought cigarettes abroad at the Katunayake airport.
-
-The value of the cigarettes seized is about 42 lakhs 60 thousand rupees.
-
-He arrived at the Katunayake airport by a flight from Dubai this morning (08).
-
-From his travel package, 50 cartoons containing 10 thousand platinum cigarettes and 92 carrots, including 18,400 Manchester cigarettes, were seized.
-
-The arrested man has been released on police bail and the police will hand over the foreign cigarettes seized to the person on the 14th of this month.
-
-◼️
-
-[Data](articles/acd6ae2b.json)
-
-[Extended Data](ext_articles/acd6ae2b.ext.json)
-
----
-
-### Presidential Election: Removal from the list of pig and dog symbols!
-
-*2024-08-08 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190579) · `ta`
-
-The Election Commission removed pig and dog symbols from the list of symbols for independent presidential candidates due to concerns over causing embarrassment and offending religious sentiments.
-
-🟩
-
-In the list of symbols assigned to independent presidential candidates, the Election Commission has eliminated the symbols of embarrassment and hurting religious sentiment.
-
-◼️
-
-[Data](articles/2647c1d9.json)
-
-[Extended Data](ext_articles/2647c1d9.ext.json)
 
 ---

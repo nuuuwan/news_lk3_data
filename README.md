@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-09 11:36:29**
+As of **2024-08-09 11:56:29**
 
 ## Newspaper Stats
 
-*Scraped **39,788** Articles*
+*Scraped **39,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ newsfirstlk | 363
 bbccomsinhala | 373
 colombotelegraphcom | 376
 islandlk | 2,295
-economynextcom | 2,410
+economynextcom | 2,414
 dailyftlk | 2,568
-adalk | 3,649
-adaderanalk | 4,621
+adalk | 3,650
+adaderanalk | 4,622
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,007
 virakesarilk | 6,300
-adaderanasinhalalk | 6,750
+adaderanasinhalalk | 6,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,788 (100.0%) of 39,788 articles have been extended.
+39,788 (100.0%) of 39,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-09 (Friday)
+
+### සරත් ෆොන්සේකා ඉල්ලා අස්වෙයි
+
+*2024-08-09 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199743) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගයේ සභාපති ධුරයෙන්  ඉල්ලා අස්වී තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී ජේ. සී අලවතුවල මහතා ඒ බව පවසා ඇතැයි පැවසෙයි.
+
+2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා ඉදිරිපත් වී සිටින අතර ඒ වෙනුවෙන් පසුගිය 05 වනදා ඇප මුදල් ද තැන්පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/b688f391.json)
+
+---
+
+### Sarath Fonseka resigns as SJB’s Chairman
+
+*2024-08-09 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101102/sarath-fonseka-resigns-as-sjbs-chairman) · `en`
+
+MP Field Marshal Sarath Fonseka has tendered his resignation as Chairman of the Samagi Jana Balawegaya (SJB), MP J.C. Alawathuwala said.
+
+On Monday (05), Fonseka placed deposit to contest in the 2024 Presidential Election as an independent candidate.
+
+On July 25, Fonseka officially announced his presidential candidacy stating that, “A lot of people have asked me to contest for the presidential election and I am looking forward to accepting the call of the people of Sri Lanka.”
+
+◼️
+
+[Data](articles/1c4b11a4.json)
+
+---
 
 ### VFS - special statement on visa problem
 
@@ -116,6 +148,20 @@ He also mentioned that X social media will leave Venezuela for 10 days.
 
 ---
 
+### හරීන් සහ මනූෂගේ පක්ෂ සමාජිකත්වය ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් ලැබුණු තීන්දුව මෙන්න
+
+*2024-08-09 10:30:43* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්-සහ-මනූෂගේ-පක්ෂ-සමාජිකත්වය-ගැන-ශ්‍රේෂ්ඨාධිකරණයෙන්-ලැබුණු-තීන්දුව-මෙන්න/11-411271) · `si`
+
+මනුෂ නානායක්කාර සහ හරින් ප්‍රනාන්දු යන අමාත්‍යවරුන්ගේ  සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගනු ලැබූ තීරණය නිත්‍යානුකූල බව මීට සුලු මොහොතකට පෙර ශ්‍රේෂ්ඨාධිකරණය තීන්දු කරනු ලැබිණි.
+
+ඒ අදාළ නඩුව අද(09දා) විජිත් මළල්ගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවූ අවස්ථාවේදීයි.
+
+◼️
+
+[Data](articles/f4988048.json)
+
+---
+
 ### SC rules Manusha & Harin’s expulsion from SJB is lawful
 
 *2024-08-09 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101099/sc-rules-manusha-harins-expulsion-from-sjb-is-lawful) · `en`
@@ -133,6 +179,46 @@ On July 18, 2023, the Working Committee of the SJB decided to expel party member
 [Data](articles/863a05e5.json)
 
 [Extended Data](ext_articles/863a05e5.ext.json)
+
+---
+
+### Sri Lanka supreme court upholds expulsion of Manusha, Harin from SJB
+
+*2024-08-09 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-supreme-court-upholds-expulsion-of-manusha-harin-from-sjb-176139/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has upheld the expulsion of Manusha Nanayakkara and Harin Fernando from the Samagi Jana Balawegaya, lawyers said.
+
+The two went to court against the decision by the SJB to expel them.
+
+◼️
+
+[Data](articles/bb984161.json)
+
+---
+
+### Sri Lanka rupee opens stronger, bonds yield up
+
+*2024-08-09 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-yield-up-176138/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted stronger at 300.45/60 to the US dollar Friday and bond markets continued to be hit by policy uncertainty leading to reduced interest in longer term tenors, market participants said.
+
+The 6-month bill was quoted at 9.75/85 and the 12-month 10.15 percent.
+
+Bond yields started to edge up after elections were declared over uncertainty on the continuation of current economic policies with longer tenors.
+
+A bond maturing on 15.12.2026 was quoted at 10.95/11.00 Friday flat from 10.95/11.10 percent Thurs
+
+A bond maturing on 15.12.2027 was quoted 12.10/20 at 12.10/20 percent, up from 11.95/12.10 percent.
+
+A bond maturing on 01.07.2028 quoted at 12.50/55 up from 12.45/55 percent.
+
+A bond maturing on 15.09.2029 quoted 12.60/70 up from 12.50/75 percent.
+
+No long tenors were quoted. A bond auction is to be held next week. (Colombo/Aug09/2024)
+
+◼️
+
+[Data](articles/fad0ccdd.json)
 
 ---
 
@@ -207,6 +293,26 @@ The party's central committee will convene on Sunday 11.08.2024 to discuss the p
 [Data](articles/d3d4fe17.json)
 
 [Extended Data](ext_articles/d3d4fe17.ext.json)
+
+---
+
+### Sri Lanka BOP surplus to June 2024 running slightly behind last year
+
+*2024-08-09 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-bop-surplus-to-june-2024-running-slightly-behind-last-year-176124/) · `en`
+
+ECONONYNEXT – Sri Lanka’s balance of payments is still strongly in surplus in 2024 under the current interest rate structure, but is running slightly behind 2023, official data show.
+
+Sri Lanka had recorded a BOP surplus (as defined) of 1,761 million US dollars by June 2024, down from 1,957.6 million dollars a year earlier.
+
+Broadly, the BOP surplus is an improvement in net international reserves, and is a reliable figure unlike numbers like ‘current account’ balances which can be subject to large errors.
+
+Sri Lanka’s central bank has run deflationary policy to collect reserves.
+
+Under IMF programs, a central bank is able to collect reserves soon after hiking rates and contracting domestic credit, but misses reserve targets as the economy recovers and a narrow call money rate is targeted with excess liquidity on mathematical formulae (real interest rates or growth), critics have said.
+
+...
+
+[Data](articles/2ff64c95.json)
 
 ---
 
@@ -607,6 +713,28 @@ The 21 -year -old from Urumpirai has been arrested by the Jaffna District Crime 
 [Data](articles/ff24080c.json)
 
 [Extended Data](ext_articles/ff24080c.ext.json)
+
+---
+
+### Sri Lanka Customs internal affairs unit opened after IMF findings
+
+*2024-08-09 07:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-internal-affairs-unit-opened-after-imf-findings-176104/) · `en`
+
+ECONOMNEXT – An internal affairs unit at Sri Lanka Customs which will receive and investigate public complaints, State Minister for Finance Ranjith Siyambalapitiya said formally opening the office.
+
+The Internal Affairs unit will further strengthen the relationship with the public, he had said.
+
+Internal Affairs Units will be set up at Inland Revenue and Excise agencies as well, he said.
+
+Setting up internal affairs units was a recommendation of an International Monetary Fund corruption diagnostic report.
+
+“Internationally, Customs and tax administrations usually have small dedicated Internal Affairs units to investigate alleged cases of staff malfeasance,” the IMF report said.
+
+Small Internal Affairs units could be established in each department reporting to the department head to investigate allegations of corruption and for referral to the Public Service Commission or the bribery commission as appropriate, the report said.
+
+...
+
+[Data](articles/c1b251b3.json)
 
 ---
 
@@ -2051,179 +2179,5 @@ Accordingly, seven Tamil political parties and seven civil society representativ
 [Data](articles/69439993.json)
 
 [Extended Data](ext_articles/69439993.ext.json)
-
----
-
-### Sri Lanka seizes fake Casio watches
-
-*2024-08-08 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-seizes-fake-casio-watches-176084/) · `en`
-
-ECONOMYNEXT – Sri Lanka Police Colombo Crime Division (CCD) has raided several shops and seized stocks of fake Casio watches, the Japan-based company’s regional representatives said in a statement.
-
-“Such actions underscore our unwavering commitment towards consumer interests and brand integrity,” Gurmeet Singh, Head of Legal, Casio India, said. “We will continue to work closely with the authorities to safeguard our brand and our customers.”
-
-Casio Group’s IP Enforcement Policy has sought to combat the issue of Casio’s counterfeits in the Sri Lankan market, the statement said.
-
-Raids were conducted by Colombo Crime Division (CCD) simultaneously at three locations of one of the largest retail stores in the island.
-
-The locations included two outlets of the retail store and its warehouse, where counterfeit Casio watches, primarily G-SHOCK timepieces, were seized.
-
-The accused entity were taken into custody and fines were imposed. (Colombo/Aug8/2024)
-
-◼️
-
-[Data](articles/cf483c1b.json)
-
-[Extended Data](ext_articles/cf483c1b.ext.json)
-
----
-
-### The  ‘Samagi Jana Sandanaya (SJS)’,  political alliance led by the Samagi Jana Balawegaya (SJB),  officially launched  under the Leadership of Sajith Premadasa  with the signing of agreements with several parties.
-
-*2024-08-08 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84508) · `en`
-
-The  ‘Samagi Jana Sandanaya (SJS)’, a broad political alliance led by the main Parliamentary Opposition, the Samagi Jana Balawegaya (SJB), was officially unveiled yesterday (8) under the Leadership of SJB and Opposition Leader and Presidential candidate Sajith Premadasa and with the signing of agreements with several parties.
-
-...
-
-[Data](articles/d214cda6.json)
-
-[Extended Data](ext_articles/d214cda6.ext.json)
-
----
-
-### Completed by the Kokkuttuvai Burial Excavation work;Relatives of missing persons demand to make the recovered plate digits public!
-
-*2024-08-08 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190603) · `ta`
-
-The Kokkuttuwai Burial case, involving the excavation of a burial site, was discussed in the Mullaitivu District Magistrate's Court. Lawyers from the Missing Persons Office and relatives of missing individuals attended. The court received a report from the Kokkuttuwai Grama Niladhari and expects a final report from Professor Raj Somadeva soon. Skeletal remains found during the excavation are being analyzed, and the Missing Persons Office plans to publish details about the excavation. The case will resume on September 26th, with the involvement of international observers.
-
-🟩
-
-The Kokkuttuwai Burial case will be taken up at the Mullaitivu District Magistrate's Court today (08).
-
-On behalf of the Missing Persons Office (OMP), the lawyers of the office, the lawyers, Kanagasabapathi Vasudeva and the missing persons, Ratnavale and Niranjan were present on behalf of the missing relatives.
-
-The court has already submitted a report by the Kokkuttuwai Grama Niladhari on the request of the court to submit reports on the excavation.
-
-At the same time, the final report of Professor Raj Somadeva of the Archaeological Department, which was involved in the excavation, is expected to be available within a month.
-
-...
-
-[Data](articles/4e7ea3fe.json)
-
-[Extended Data](ext_articles/4e7ea3fe.ext.json)
-
----
-
-### Four persons including Keheliya Rambukwella
-
-*2024-08-08 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190598) · `ta`
-
-Keheliya Rambukwella, former health minister, among four held till April 22 over substandard immunoglobulin injection scandal. Former officials Janaka Chandragupta and Saman Ratnayake released on bail. Arrests made in connection with the purchase of faulty injections, with suspects ordered to remain in custody until court appearance on April 8th.
-
-🟩
-
-Four people, including former health minister Keheliya Rambukwella, have been kept in remand until the 22nd of this month.
-
-Former Secretary of the Ministry of Health, Janaka Chandragupta and former Additional Secretary of the Ministry of Health, Saman Ratnayake have been released on bail.
-
-The suspects have been arrested in connection with the purchase of substandard immunoglobulin injections.
-
-The order was issued when the suspects were produced before the Magistrate's Court on Thursday (08).
-
-◼️
-
-[Data](articles/3788b4f6.json)
-
-[Extended Data](ext_articles/3788b4f6.ext.json)
-
----
-
-### 3,694 people have gone to South Korea for employment!
-
-*2024-08-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190595) · `ta`
-
-So far this year, 3,694 Sri Lankans have sought employment in South Korea, with another 100 preparing to join them soon, primarily in the manufacturing sector. This trend, facilitated by an MOU between the SLBFE and the South Korean HRD Institute, reflects a growing interest among Sri Lankan youth, especially women, for overseas work opportunities.
-
-🟩
-
-According to the Sri Lanka Foreign Employment Bureau (SLBFE), 3,694 people have gone to South Korea for work so far this year and 100 will soon be ready to go to South Korea.
-
-100 people, including eight women, visited South Korea on Tuesday (6) to work in the manufacturing sector.
-
-This is part of the Employment Opportunities available through the Memorandum of Understanding (MOU) between the SLBFE and the South Korean Human Resources Development Service Institute.
-
-The tendency to work in South Korea has increased among youth in Sri Lanka. More and more young women continue to work there.
-
-Currently, new employment contracts are being provided in South Korea. Many more workers will leave for these jobs in the future.
-
-◼️
-
-[Data](articles/22397ae3.json)
-
-[Extended Data](ext_articles/22397ae3.ext.json)
-
----
-
-### The United States is still in the forefront of medals
-
-*2024-08-08 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199719) · `si`
-
-On the 13th day of the Paris 2024 Olympics, the United States leads with 27 gold, 95 silver, and 95 bronze medals, followed by China and then Australia, France, and Britain.
-
-🟩
-
-Sri Lanka's time today the 13th day of the 'Paris 2024' Olympics. The United States passes the lead in the medals ended at 5.30 pm.
-
-They claimed with 27 gold medals, they won 95 silver and 95 medals with 33 bronze.
-
-The China medalism securely occupies the second place in China, which gives America to do it.
-
-Challenges to the host France, Australia won 43 medals with 18 gold medals and won the third place in the medals.
-
-France won 13 gold medals, and the fourth place has been placed here, and they have won 51 medals so far.
-
-In addition, the British occupied 5th in the medal station in the Medal, and they won 49 medals with 12 gold medals.
-
-The United States was the last man of the Olympics in Japan last, and the difference between China and their difference was one gold medal.
-
-According to US wins 39 gold medals, China recovered 38 gold medals.
-
-However, the however, which won 27 gold medals, Japan is only 12 gold medals.
-
-...
-
-[Data](articles/f4897258.json)
-
-[Extended Data](ext_articles/f4897258.ext.json)
-
----
-
-### Bollywood actress Mauni Roy
-
-*2024-08-08 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190596) · `ta`
-
-Mauni Roy stars in "Veda," alongside Sherwani, directed by Nikhil Advani and featuring John Abraham, Abhishek Banerjee, Tamanna, and Ashish Vidyarthi. The soundtrack, composed by Ammal Malik, features songs like "Mummy G.." and has been released in various languages. The film, produced by Zee Studios, Emme Entertainment, and JA Entertainment, is set to release on the 15th of this month.
-
-🟩
-
-Bollywood actress Sherwari is the heroine of the story 'Veda' in the song 'Mummy G ..'. The song and the song for the song have been released.
-
-Bollywood director Nikhil Advani has starred in the film 'Veda', including John Abraham, Sherwari, Abhishek Banerjee, Tamanna, Ashish Vidyarthi.
-
-The film, which has been recorded by Male Prakash, has composed the film by Ammal Malik - Manan Bharadwaj -Raghav.
-
-The film is being produced as an exercise entertainer and has co -produced the film Zee Studios - Emme Entertainment +JA Entertainment.
-
-The film, which will be released in Tamil, Hindi, Telugu, Malayalam and Kannada on the 15th of this month, has been released.. The song is written by songwriter Naveen Bharati, playback singer Kanimozhi Kapilan and Manu Vardhan.
-
-Bollywood star actress Mauni Roy is dancing for this song. His attractive dance and a youthful song have impressed the fans.
-
-◼️
-
-[Data](articles/99af1735.json)
-
-[Extended Data](ext_articles/99af1735.ext.json)
 
 ---

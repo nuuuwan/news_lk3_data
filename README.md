@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 20:36:48**
+As of **2024-08-10 20:55:21**
 
 ## Newspaper Stats
 
-*Scraped **40,016** Articles*
+*Scraped **40,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,670
+adalk | 3,671
 adaderanalk | 4,656
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
 virakesarilk | 6,344
-adaderanasinhalalk | 6,796
+adaderanasinhalalk | 6,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,016 (100.0%) of 40,016 articles have been extended.
+40,016 (100.0%) of 40,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### බංග්ලාදේශය යළිත් නොසන්සුන්
+
+*2024-08-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199793) · `si`
+
+සති කිහිපයක සිට බංග්ලාදේශයේ පැවති නොසන්සුන් තත්ත්වය පහව ගොස් ඇතැයි පෙනී ගියත් අද (10) ශිෂ්‍ය ක්‍රියාකාරීන් ප්‍රමුඛ කරගත විරෝධතාකරුවන් එරට ශ්‍රේෂ්ඨාධිකරණය වටලා විරෝධතාවේ නිරත වී තිබුණි.
+
+ඒ අනුව, එරට අගවිනිසුරුවරයා අද (10) සිය ධුරයෙන් ඉල්ලා අස්වීමට පියවර ගත්තේ, පැයක් ඇතුළත අගවිනිසුරු ඇතුළු සියලු විනිසුරුවරුන් ධුරවලින් ඉල්ලා අස්විය යුතු බවට විරෝධතාකරුවන්ගෙන් එල්ල වූ දැඩි පීඩනය හමුවේය.
+
+ඔවුන් විරෝධතා ආරම්භ කළේ අන්තර්වාර රජයේ අනුදැනුමකින් තොරව අගවිනිසුරුවරයා පූර්ණ අධිකරණ හමුවක් කැඳවූ බවට සැලවීමත් සමග බව සඳහන් ය.
+
+"මෙම අධිකරණය මානව හිමිකම් කඩ කිරීමේ අවසන් සීමාව දක්වාම ගමන් කළා. නමුත් ඔවුන් කිසිදු විමර්ශනයක් හෝ යුක්තිය ඉටු කිරීමක් සිදුකළේ නැහැ. අපේ ඉල්ලීම අගවිනිසුරු ඇතුළු සියලුම විනිසුරුවරුන් ඉල්ලා අස්විය යුතු බවයි."
+
+මෙවන් පසුබිමක ශ්‍රේෂ්ඨාධිකරණ වැටලූ විරෝධතාකරුවන්ගෙන් එල්ලවූ පීඩනය හමුවේ ධුරයෙන් ඉල්ලා අස්වීමට බංග්ලාදේශ අගවිනිසුරු ඔබයිදුල් හසාන් අද පියවර ගත්තේය.
+
+ඉන්දිය මාධ්‍ය වාර්තා කළේ, ඔහු බංග්ලාදේශ හිටපු අගමැතිනි ෂෙයික් හසීනාගේ සමීපතමයෙකු බවය.
+
+...
+
+[Data](articles/4683c4e4.json)
+
+---
 
 ### Resolution to reduce the price of alcohol
 
@@ -221,6 +243,18 @@ Over the past year, there have been over 550 combatants throughout Pakistan.
 [Data](articles/c8343502.json)
 
 [Extended Data](ext_articles/c8343502.ext.json)
+
+---
+
+### නාමල් සහ සුමන්තිරන් අතර හදීසි හමුවක්
+
+*2024-08-10 17:30:37* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-සහ-සුමන්තිරන්-අතර-හදීසි-හමුවක්/11-411292) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා සහ දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රි එම්.ඒ සුමන්තිරන් මහතා අතර සාකච්ඡාවක් අද(10දා) පවත්වා තිබේ.
+
+◼️
+
+[Data](articles/9b772870.json)
 
 ---
 
@@ -2179,61 +2213,5 @@ It is said high net worth and institutional investor participation was noted in 
 [Data](articles/d7600e63.json)
 
 [Extended Data](ext_articles/d7600e63.ext.json)
-
----
-
-### The flight that was traveling with 62 people in Brazil crashed into the state of Chao Palo
-
-*2024-08-10 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190709) · `ta`
-
-A plane crash occurred in Brazil's Chaw Palo state, killing all 62 onboard, including 58 passengers and 4 crew members. The Vyobas flight 2283, en route from Vinheto, lost control mid-air before crashing and exploding near Guarulhos International Airport. Firefighters are investigating the cause, with Brazilian President Louis Inasio Lula Da Silva expressing condolences and urging a moment of silence.
-
-🟩
-
-Brazil's Chaw Palo state crashed with 62 people. The plane, which was on the middle of the country, suddenly lost control and fell down and exploded.
-
-The Vyobas flight 2283 in Brazil's Chaw Paulo was carrying 62 passengers. The local fire brigade has confirmed that the plane crashed into the air while traveling in Vinheto.
-
-The place is changed as a fireplace. It seems that there is no chance to survive with whom. Because the plane crashed at the speed of falling. The flames in it are tears.
-
-The plane crashed into the Guarulhos, Chaw Palo's international airport, with 4 employees, including 58 passengers and pilots.
-
-Firefighters rushed to the scene of the accident, not knowing the cause of the accident. Rescue work is underway.
-
-Brazilian President Louis Inasio Lula Da Silva expressed his deepest condolences.
-
-He was present at the event in South Brazil and asked him about the accident and asked the residents to pay a silent tribute for a minute.
-
-◼️
-
-[Data](articles/95079c49.json)
-
-[Extended Data](ext_articles/95079c49.ext.json)
-
----
-
-### Jeep - trio injured in a long distance
-
-*2024-08-10 00:26:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நீண்ட-தூரம்-பாய்ந்து-விபத்துக்குள்ளான-ஜீப்-மூவர்-படுகாயம்/73-341893) · `ta`
-
-A jeep crash near Batticaloa injured three passengers, including a family on vacation from Kandy. The victims were rushed to Mahaoya Hospital. Police suspect the driver lost control due to speeding.
-
-🟩
-
-Three persons have been admitted to the hospital after a jeep crashed into the Marappalam area belonging to the Batticaloa - Karadiyanaru police division.
-
-The jeep of a family that was spent on vacation from Kandy to Batticaloa has crashed.
-
-Three people who were traveling in the jeep were taken to Mahaoya Hospital after being injured.
-
-Three people were injured in the accident as five people were traveling in the jeep.
-
-Police said the vehicle had been hit long distances, unable to control the speeding vehicle.. Remble
-
-◼️
-
-[Data](articles/58116a87.json)
-
-[Extended Data](ext_articles/58116a87.ext.json)
 
 ---

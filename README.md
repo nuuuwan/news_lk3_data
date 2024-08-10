@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 23:05:52**
+As of **2024-08-10 23:20:59**
 
 ## Newspaper Stats
 
@@ -129,6 +129,38 @@ The Colombo district claimed the top spot in the district-wise comparison of the
 [Data](articles/5ad8747c.json)
 
 [Extended Data](ext_articles/5ad8747c.ext.json)
+
+---
+
+### The final minutes of Sheikh Hasina as a hateful authority ..........
+
+*2024-08-10 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190755) · `ta`
+
+In the face of escalating protests and violence, Sheikh Hasina, the Bangladeshi prime minister, faced a tumultuous end to her tenure. Despite calls for peace and attempts to negotiate with security forces and military officials, the situation spiraled out of control. Faced with overwhelming public opposition and internal conflicts within the government, Hasina eventually decided to flee her official residence. This decision came after a series of events including violent clashes, rising death tolls, and a failed attempt to secure her safety. Ultimately, the pressure from both the public and the military proved too great, leading to Hasina's departure from Bangladesh.
+
+🟩
+
+Sheikh Hasina called on the security forces to end the violence in Bangladesh on Sunday, and she was not in the process of accepting that his time was over as prime minister.
+
+But in the next few hours he was beaten by the power of the people.
+
+His son told the BBC that his family's consultation had left him out of Bangladesh rather than the security forces in the end.
+
+Hasina made the decision to leave at the right moment-he fled and entered his official residence in a few hours.
+
+Sheikh Sina was invited to a meeting of the National Security Council on Sunday morning.
+
+The meeting took place in a situation where protests against the prime minister have been on the rise as protests have taken place over the country for several weeks.
+
+On Sunday alone, more than 90 people lost their lives. Many people were shot dead by security forces.
+
+The BBC's Bengal service has received information that Hasina presented two solutions during a meeting with security officials.
+
+...
+
+[Data](articles/4e2efc3f.json)
+
+[Extended Data](ext_articles/4e2efc3f.ext.json)
 
 ---
 
@@ -783,38 +815,6 @@ Police have also implemented a special security program for the safety of the co
 [Data](articles/e15cb4d9.json)
 
 [Extended Data](ext_articles/e15cb4d9.ext.json)
-
----
-
-### The final minutes of Sheikh Hasina as a hateful authority ..........
-
-*2024-08-10 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190755) · `ta`
-
-In the face of escalating protests and violence, Sheikh Hasina, the Bangladeshi prime minister, faced a tumultuous end to her tenure. Despite calls for peace and attempts to negotiate with security forces and military officials, the situation spiraled out of control. Faced with overwhelming public opposition and internal conflicts within the government, Hasina eventually decided to flee her official residence. This decision came after a series of events including violent clashes, rising death tolls, and a failed attempt to secure her safety. Ultimately, the pressure from both the public and the military proved too great, leading to Hasina's departure from Bangladesh.
-
-🟩
-
-Sheikh Hasina called on the security forces to end the violence in Bangladesh on Sunday, and she was not in the process of accepting that his time was over as prime minister.
-
-But in the next few hours he was beaten by the power of the people.
-
-His son told the BBC that his family's consultation had left him out of Bangladesh rather than the security forces in the end.
-
-Hasina made the decision to leave at the right moment-he fled and entered his official residence in a few hours.
-
-Sheikh Sina was invited to a meeting of the National Security Council on Sunday morning.
-
-The meeting took place in a situation where protests against the prime minister have been on the rise as protests have taken place over the country for several weeks.
-
-On Sunday alone, more than 90 people lost their lives. Many people were shot dead by security forces.
-
-The BBC's Bengal service has received information that Hasina presented two solutions during a meeting with security officials.
-
-...
-
-[Data](articles/4e2efc3f.json)
-
-[Extended Data](ext_articles/4e2efc3f.ext.json)
 
 ---
 

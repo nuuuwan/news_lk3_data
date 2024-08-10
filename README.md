@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 02:06:09**
+As of **2024-08-11 02:20:44**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,033 (100.0%) of 40,034 articles have been extended.
+40,034 (100.0%) of 40,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### வடிவேல் சுரேஷ் ஜனாதிபதிக்கு ஆதரவு
+### Vadivel Suresh supports president
 
 *2024-08-11 01:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷ்-ஜனாதிபதிக்கு-ஆதரவு/175-341934) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தேசிய தோட்டத் தொழிலாளர் சங்கம் ஆதரவளிக்கும் என அந்த சங்கத்தின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான வடிவேல் சுரேஷ் தெரிவித்துள்ளார்.
+Vadivel Suresh, as general secretary of the National Plantation Workers Union, announced their support for President Ranil Wickremesinghe in the upcoming presidential election, emphasizing the commitment of plantation workers towards him.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு பெருந்தோட்ட மக்கள் உறுதுணையாக இருப்பார்கள் எனவும் வடிவேல் சுரேஷ் தெரிவித்துள்ளார். (a)
+🟩
+
+Vadivel Suresh, general secretary and parliamentarian of the association, says the National Plantation Workers Union will support President Ranil Wickremesinghe in the upcoming presidential election.
+
+Vadivel Suresh has said that the plantation people will be committed to President Ranil Wickremesinghe. (A)
 
 ◼️
 
 [Data](articles/1c3544f7.json)
+
+[Extended Data](ext_articles/1c3544f7.ext.json)
 
 ---
 

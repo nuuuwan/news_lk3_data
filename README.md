@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 15:55:16**
+As of **2024-08-10 16:08:02**
 
 ## Newspaper Stats
 
-*Scraped **39,994** Articles*
+*Scraped **39,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,83 +20,119 @@ adaderanalk | 4,652
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,047
 virakesarilk | 6,344
-adaderanasinhalalk | 6,786
+adaderanasinhalalk | 6,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,989 (100.0%) of 39,994 articles have been extended.
+39,994 (100.0%) of 39,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### සුමන්තිරන් සහ නාමල් සාකච්ඡා කරයි
+### බංග්ලාදේශයේ අගවිනිසුරුත් ඉල්ලා අස්වීමට එකඟ වෙයි
+
+*2024-08-10 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199782) · `si`
+
+බංග්ලාදේශ ශ්‍රේෂ්ඨාධිකරණයේ අගවිනිසුරුවරයා ඉල්ලා අස්වීමට එකඟවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/7a0697b7.json)
+
+---
+
+### Sumanthiran and Namal discusses
 
 *2024-08-10 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199781) · `si`
 
-දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී ජනාධිපති නීතිඥ එම්. ඒ. සුමන්තිරන් මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා අතර සාකච්ඡාවක් අද (10) පෙරවරුවේ පවත්වා තිබේ.
+Sumanthiran and Namal met today with the Sri Lanka Civil Front's leaders to discuss the country's political situation. They plan to meet with the Ilangai Tamil Arasu Party soon.
 
-එම හමුවට ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් නීතිඥ සාගර කාරියවසම් ද සහභාගී වී ඇත.
+🟩
 
-වත්මන් දේශපාලන තත්ත්ත්වය පිළිබඳව එහිදී සාකච්ඡා කර ඇතැයි වාර්තා වෙයි.
+TNA parliamentarian President's Counsel. A. A discussion was held this morning (10) this morning (10) a meeting between Presidential candidate on the Sri Lanka General Front.
 
-ඉලංගෙයි තමිල් අරසු පක්ෂය සමග ඉදිරියේදී සාකච්ඡා කිරීමට තමා අපේක්ෂා කරන බව නාමල් රාජපක්ෂ මහතා එහිදී ප්‍රකාශ කළ බව එම්. ඒ. සුමන්තිරන් මහතා පැවසීය.
+The General Secretary of the Sri Lanka Civil Front, General Secretary of the Sri Lanka Civil Appointment, has also participated in the meeting.
+
+It is reported that the current political situation has been discussed.
+
+Mr. Namal Rajapaksa said he expects to discuss with the Ilangai Tamil Arasu Party in the future.. A. Sumanthiran said.
 
 ◼️
 
 [Data](articles/025dcf80.json)
 
+[Extended Data](ext_articles/025dcf80.ext.json)
+
 ---
 
-### 1700 ரூபாய் வழங்க இணக்கம்: ஜனாதிபதி ஊடகப்பிரிவு
+### Compliance to provide Rs 1700: President Media Division
 
 *2024-08-10 15:34:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341913) · `ta`
 
-தோட்ட தொழிலாளர்களுக்கு 1700 சம்பள அதிகரிப்பை வழங்குவதாக 7 பெருந்தோட்ட நிறுவனங்கள் இணக்கம் தெரிவித்துள்ளதாகவும், தொழில் அமைச்சர் எதிர்வரும் திங்கட்கிழமை அது குறித்து சம்பள நிர்வாகச் சபையுடன் பேசவிருப்பதாகவும், அவசியம் ஏற்படும் பட்சத்தில் அதற்கான சட்டத்தை நிறைவேற்ற தயாராக இருப்பதாகவும் ரணில் விக்ரமசிங்க தெரிவித்தார்.
+At a public meeting, President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1700 salary hike for plantation workers. The Minister of Labor plans to discuss this with the Pay Executive Council on Monday and is prepared to enact legislation if needed.
 
-இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாட்டில் கண்டி 'கரலிய' அரங்கத்தில் இன்று  (10) நடைபெற்ற தோட்ட தொழிற்சங்கங்களின் இளம் தலைவர்களின் பொதுக்கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்
+🟩
+
+Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak to the Pay Executive Council on Monday and is ready to pass the law if necessary.
+
+President Ranil Wickremesinghe announced at a public meeting of youth leaders of plantation unions held today
 
 ◼️
 
 [Data](articles/34f1f6a1.json)
 
+[Extended Data](ext_articles/34f1f6a1.ext.json)
+
 ---
 
-### 1700 ரூபாய் வழங்க இணக்கம்: ஜனாதிபதி ஊடகப்பிரிவு
+### Compliance to provide Rs 1700: President Media Division
 
 *2024-08-10 15:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341912) · `ta`
 
-தோட்ட தொழிலாளர்களுக்கு 1700 சம்பள அதிகரிப்பை வழங்குவதாக 7 பெருந்தோட்ட நிறுவனங்கள் இணக்கம் தெரிவித்துள்ளதாகவும், தொழில் அமைச்சர் எதிர்வரும் திங்கட்கிழமை அது குறித்து சம்பள நிர்வாகச் சபையுடன் பேசவிருப்பதாகவும், அவசியம் ஏற்படும் பட்சத்தில் அதற்கான சட்டத்தை நிறைவேற்ற தயாராக இருப்பதாகவும் ரணில் விக்ரமசிங்க தெரிவித்தார்.
+At a public meeting, President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1700 wage hike for plantation workers. The Minister of Labor plans to discuss this with the Pay Executive Council on Monday and is prepared to enact legislation if needed.
 
-இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாட்டில் கண்டி 'கரலிய' அரங்கத்தில் இன்று  (10) நடைபெற்ற தோட்ட தொழிற்சங்கங்களின் இளம் தலைவர்களின் பொதுக்கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்
+🟩
+
+Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak to the Pay Executive Council on Monday and is ready to pass the law if necessary.
+
+President Ranil Wickremesinghe announced at a public meeting of youth leaders of plantation unions held today
 
 ◼️
 
 [Data](articles/f18587d4.json)
 
+[Extended Data](ext_articles/f18587d4.ext.json)
+
 ---
 
-### වසර 28කට පසු 4x100 ඉසව්වෙන් කැනඩාවට රන් පදක්කමක්
+### Gold Medal for Canada by 4x100 event after 28 years
 
 *2024-08-10 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199779) · `si`
 
-ගියවර ඔලිම්පික් ශූරයන් මෙන්ම, වත්මන් ලෝක ශූරයන් වන අමෙරිකාව අබිබවා යමින් මෙවර පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ ඊයේ (09) පැවති පිරිමි මීටර් 4x100 සහාය දිවීමේ ඉසව්වේ රන් පදක්කම දිනාගැනීමට කැනඩාව සමත් විය.
+Canada won the gold medal in the 4x100 meters at the Paris Olympics, marking their first victory in this event after 28 years. Despite expectations favoring the American team, Canada triumphed with a time of 37.50 seconds, outperforming the U.S. team. This achievement comes after a long drought, with no previous wins in this category since the last Olympics.
 
-ඔවුන් රන් පදක්කම දිනාගනු ලැබුවේ ප්‍රබල අමෙරිකානු කණ්ඩායම පහසුවෙන්ම මෙහි රන් පදක්කම දිනාගනු ඇති බවට අනාවැකි පළකර තිබූ පසුබිමක වීම විශේෂත්වයකි.
+🟩
 
-කැනඩා කණ්ඩායම සිය ඉසව්ව අවසන් කිරීම සඳහා තත්පර 37.50ක කාලයක් ගත කර තිබුණි.
+As well as the Olympic Champions of the Paris Olympic Games yesterday, Canada won the gold medal at 4x100 meters in the Paris Olympic Games yesterday.
 
-මෙය වසර 28කට පසු කැනඩා කණ්ඩායමක් ඔලිම්පික් උළෙලක මීටර් 100 සහාය දිවීමේ ඉසව්වකින් රන් පදක්කමක් දිනාගත් පළමු අවස්ථාව ලෙසින්ද සැලකෙයි.
+They won the gold medal in the backdrop that the major American team would easily win the gold medal.
 
-මේ අතර මෙම ඉසව්වේ රිදී පදක්කම දකුණු අප්‍රිකාව (තත්. 37.57) හිමිකරගනිද්දී, ලෝකඩ පදක්කම මහා බ්‍රිතාන්‍යයට (තත්. 37.61) හිමිවිය.
+The Canada team had spent 37.50 seconds to end its event.
 
-තරගයේ රන් පදක්කම හිමිකරගනු ඇතැයි සියලු දෙනා බලාපොරොත්තු තබා සිටි අමෙරිකා කණ්ඩායමේ පළමු යෂ්ඨි හුවමාරුව නීත්‍යානුකූල නොවීම හේතුවෙන් ඔවුන්ගේ තරග ප්‍රතිඵපලය අහෝසි කෙරුණි.
+This is the first time a Canadian team won a gold medal in a 100m support of the Olympic Festival after 28 years.
+
+Meanwhile, the silver medal of this event (sec). 37.57) The bronze medal is to the Great Britain (sec. 37.61) The occupant.
+
+Their competition was abolished due to lack of hope in the first exchange of Julyen exchange of the American group that everyone would have won the gold medal.
 
 ◼️
 
 [Data](articles/0ee86209.json)
+
+[Extended Data](ext_articles/0ee86209.ext.json)
 
 ---
 
@@ -208,19 +244,25 @@ Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responde
 
 ---
 
-### අදත් ගිගුරුම් සහිත වැසි
+### Thundershowers
 
 *2024-08-10 14:04:33* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-ගිගුරුම්-සහිත-වැසි/11-411290) · `si`
 
-ඉදිරි දින කිහිපයේදී දිවයිනේ සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකාර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+The Meteorological Department forecasts showers or thundershowers for the Western, Sabaragamuwa, Galle, and Matara districts from the next evening onwards, occurring at various times throughout the day.
 
-බස්නාහිර සහ සබරගමුව යන පළාත්වලත් ගාල්ල සහ මාතර යන දිස්ත්‍රික්ක වලත් විටින් විට වැසි හෝ ගිගුරුම්සහිත වැසි ඇතිවිය හැකියි.
+🟩
 
-දිවයිහන් සෙසු ප්‍රෙදශවල සවස් කාලයේදී  හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි
+The Meteorological Department said that there is a atmospheric situation in the next evening in the next evening.
+
+Showers or thundershowers will occur at times in the Western and Sabaragamuwa Provincial and Galle and Matara districts.
+
+Thundershowers at several places during the evening or night during the evening or night
 
 ◼️
 
 [Data](articles/6eeeb918.json)
+
+[Extended Data](ext_articles/6eeeb918.ext.json)
 
 ---
 
@@ -2201,31 +2243,5 @@ The agency has just approved the release of a 100 million dollar loan linked to 
 [Data](articles/b963b5d0.json)
 
 [Extended Data](ext_articles/b963b5d0.ext.json)
-
----
-
-### “We have joined us to save life”
-
-*2024-08-09 18:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரைக்-காப்பாற்ற-இணைந்தோம்/175-341878) · `ta`
-
-In response to economic challenges, a group took charge under Sajith Premadasa, aiming to revive Sri Lanka's economy. They focused on tourism and remittances from migrants, successfully stabilizing fuel, gas, medicine, and electricity supplies. Their efforts also strengthened industries and the overall economy over two years, demonstrating courage and commitment to national development.
-
-🟩
-
-We accepted the challenge when Sajith Premadasa said that the country's economy could not be restored
-
-While the country was falling into the economy two years ago, we asked Sajith Premadasa to take responsibility for the country.Sajith Premadasa has slipped from the responsibility of the country's economy and the elections that followed by the election.
-
-The former minister made this statement while addressing a media briefing held at the Voters Edge Hotel at Battaramulla today (09).
-
-Without fear, we joined the President of President Ranil, who took responsibility for the long -running, we joined the people to save the lives of the people.
-
-We have been able to build the country in two years since the country has fallen. Harin brought dollars to the country through tourism. I was able to bring $ 12 billion through migrant workers from abroad.
-
-...
-
-[Data](articles/b0b151d4.json)
-
-[Extended Data](ext_articles/b0b151d4.ext.json)
 
 ---

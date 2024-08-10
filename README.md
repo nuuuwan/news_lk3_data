@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 12:21:03**
+As of **2024-08-10 12:36:21**
 
 ## Newspaper Stats
 
-*Scraped **39,967** Articles*
+*Scraped **39,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,665
+adalk | 3,666
 adaderanalk | 4,648
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,040
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,967 (100.0%) of 39,967 articles have been extended.
+39,967 (100.0%) of 39,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### බ්‍රසීලයේ ගුවන් යානයක් කඩා වැටෙයි - ගමන් ගත් 61 දෙනාම මරුට
+
+*2024-08-10 11:52:01* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රසීලයේ-ගුවන්-යානයක්-කඩා-වැටෙයි---ගමන්-ගත්-61-දෙනාම-මරුට/11-411287) · `si`
+
+බ්‍රසීලයේ සාඕ පවුලෝ ප්‍රාන්තයේදී ගුවන් යානයක් කඩා වැටීමෙන් එහි සිටි පුද්ගලයන් 61 දෙනාම ජීවිතක්ෂයට පත්වී තිබේ.
+
+ATR 72-500 යානයේ මගීන් 57 දෙනෙකු සහ කාර්ය මණ්ඩලය හතර දෙනෙකු සිට ඇති අතර දිවි ගලවා ගත් කිසිවෙකු නොමැති බව එරට ප්‍රාදේශීය බලධාරීන් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/1458f4f2.json)
+
+---
 
 ### Whoever set up governments is enough;Samantha Vidyaratne
 
@@ -2227,27 +2241,5 @@ Meanwhile, the Sri Lankan navy has also confiscated four boats used by Indian fi
 [Data](articles/6dce0cde.json)
 
 [Extended Data](ext_articles/6dce0cde.ext.json)
-
----
-
-### The Fundamental Management Act is implemented
-
-*2024-08-09 16:33:16* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනත-බලාත්මක-කෙරේ/11-411278) · `si`
-
-The Fundamental Management Act became law as Fiscal Act No 44 on August 44, 2024, after being introduced to Parliament on May 22, 2024, and amended before passage on July 25.
-
-🟩
-
-The Hon.
-
-Accordingly, the above Bill is in effect as the Fiscal Act No 44 of 44th August 2024.
-
-The above Bill was presented to Parliament on May 22, 2024, and was passed with amendment with amendment on July 25.
-
-◼️
-
-[Data](articles/c422c199.json)
-
-[Extended Data](ext_articles/c422c199.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 11:06:36**
+As of **2024-08-10 11:20:52**
 
 ## Newspaper Stats
 
-*Scraped **39,960** Articles*
+*Scraped **39,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,663
-adaderanalk | 4,646
+adaderanalk | 4,647
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,038
 virakesarilk | 6,336
@@ -26,73 +26,113 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,955 (100.0%) of 39,960 articles have been extended.
+39,960 (100.0%) of 39,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### களனி ஆற்றிலிருந்து சடலம் மீட்பு
+### Two arrested in connection with Hanwella murder
+
+*2024-08-10 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101127/two-arrested-in-connection-with-hanwella-murder) · `en`
+
+Hanwella Police have arrested two suspects wanted in connection with the stabbing to death of a man on the road to Kumari Ella Falls at Thummodara on August 6.
+
+Following an investigation into the incident by Hanwella Police, one suspect, a 24-year-old resident of Dolawatta, was apprehended in Warakapola yesterday.
+
+Further interrogation of the suspect has led to the arrest of a 47-year-old resident of Hewadunna, who is believed to have aided abetted in the crime.
+
+◼️
+
+[Data](articles/be44ab0b.json)
+
+---
+
+### Corpse recovery from the Kelani River
 
 *2024-08-10 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190721) · `ta`
 
-கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட பழைய சந்தைக்கு அருகில் களனி ஆற்றில் இருந்து இனந்தெரியாத ஆணின் சடலம் ஒன்று கண்டெடுக்கப்பட்டுள்ளது.
+An unidentified man's body was discovered near the Grandpass old market and is now at the Colombo National Hospital's funeral room. The victim, aged 45-50 and standing 5'6", remains unnamed.
 
-மீட்கப்பட்ட சடலம் தற்போது கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது. உயிரிழந்த இதுவரை அடையாளம் காணப்படவில்லை.
+🟩
 
-உயிரிழந்தவர் 5 அடி மற்றும் 6 அங்குல உயரம் கொண்டவர் எனவும்,  45 முதல் 50 வயது மதிக்கத்தக்கவர் எனவும்  பொலிஸார் தெரிவிக்கின்றனர்.
+The body of an unidentified man has been found near the old market of the Grandpass police division.
+
+The body of the recovered body is currently being kept in the funeral room of the Colombo National Hospital.The dead have not yet been identified.
+
+The deceased is 5 feet and 6 inches tall and is 45 to 50 years old, police said.
 
 ◼️
 
 [Data](articles/f03d5596.json)
 
+[Extended Data](ext_articles/f03d5596.ext.json)
+
 ---
 
-### தேர்தல் ஆணைக்குழுவின் இணையதளம் போன்று போலி இணையதளம்
+### Fake website like the Election Commission's website
 
 *2024-08-10 10:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழுவின்-இணையதளம்-போன்று-போலி-இணையதளம்/175-341901) · `ta`
 
-இது தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்திலும் முறைப்பாடு செய்யப்பட்டுள்ளதாக அதன் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சருக தமுணகல குறிப்பிட்டுள்ளார். R
+Saruka Tamunagala, a Senior Information Safety Engineer, reported a fake website resembling the Election Commission's site to the Criminal Investigation Department.
+
+🟩
+
+Senior Information Safety Engineer Saruka Tamunagala said that the complaint has been lodged with the Criminal Investigation Department.. Remble
 
 ◼️
 
 [Data](articles/535f36d6.json)
 
+[Extended Data](ext_articles/535f36d6.ext.json)
+
 ---
 
-### எச்சரிக்கையை தொடர்ந்து ஜப்பானில் 5.3 ரிச்டர் அளவில் பூகம்பம்
+### Earthquake at 5.3 Rich in Japan following a warning
 
 *2024-08-10 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190718) · `ta`
 
-ஜப்பானில் கிழக்குப்பகுதி மற்றும் டோக்கியோவில் வெள்ளிக்கிழமை (10) 5.3 ரிச்டர் அளவிலான பூகம்பம் பதிவாகியுள்ளது.
+A 5.3 magnitude earthquake struck near Tokyo, Japan, one day after a significant warning about seismic activity in the west. The quake was centered 10 km south of the capital in the Kanagawa province. No tsunami warning was issued despite the strong tremor, which followed two major quakes in the southwest region.
 
-ஜப்பானில் மேற்கு பகுதியில் பாரிய பூகம்பம் எச்சரிக்கை விடுக்கப்பட்டு ஒரு நாள் கழித்து  பூகம்பம் பதிவாகியுள்ளது.
+🟩
 
-குறித்த பூகம்பம் தலைநகருக்கு தெற்கே உள்ள கனகாவா மாகாணத்தில் 10 கிமீ (6.2 மைல்) ஆழத்தில் இருந்ததாக ஜப்பான் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+A 5.3 Ricker earthquake was recorded on Friday (10) in the East and Tokyo in Japan.
 
-டோக்கியோ மற்றும் கனகாவா, சைதாமா, யமனாஷி மற்றும் ஷிசுவோகா மாகாணங்களில் வசிப்பவர்களுக்கு அரசாங்கம் வலுவான பூகம்பம்  எச்சரிக்கையை விடுத்த  பின்னர் சுனாமி எச்சரிக்கை எதுவும் வெளியிடப்படவில்லை.
+The earthquake has been recorded one day after a massive earthquake warning in the western part of Japan.
 
-இதேவேளை,  கடந்த வியாழக்கிழமை ஜப்பானின் தென்மேற்கில் கியூஷு பகுதியில் அடுத்தடுத்து இருமுறை பாரிய பூகம்பம்  ஏற்பட்டுள்ளது.
+The Japanese Department of Meteorology said that the earthquake was 10 km (6.2 miles) in the Kanakawa province south of the capital.
 
-இந்த பூகம்பமானது முதலில் 6.9 ரிச்டர் அளவிலும், அதன்பிறகு 7.1 அளவிலான பூகம்பங்கள் என அடுத்தடுத்து ஏற்பட்டுள்ளன.
+The tsunami warning has not been issued after the government issued a strong earthquake warning to residents of Tokyo and Kanakawa, Saidama, Yamanashi and Shiswoka provinces.
+
+Meanwhile, a massive earthquake occurred twice in the Qushu area in the southwest of Japan last Thursday.
+
+The earthquake was originally 6.9 Ricker and then 7.1 -sized earthquakes.
 
 ◼️
 
 [Data](articles/443e4aab.json)
 
+[Extended Data](ext_articles/443e4aab.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා මහජන පක්ෂයේ සහායත් රනිල්ට
+### Ranil to support the Sri Lanka People's Party
 
 *2024-08-10 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199774) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා මහජන පක්ෂයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදීමට තීරණය කර ඇත.
+President Ranil Wickremesinghe will back the Sri Lanka Public Party in the upcoming presidential election, as announced by UNP Leader Asanka Navaratne.
 
-එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී අසංක නවරත්න මහතා ඒ බව පැවසීය.
+🟩
+
+President Ranil Wickremesinghe has decided to support the Sri Lanka Public Party in the next presidential election.
+
+UNP Leader Asanka Navaratne said that
 
 ◼️
 
 [Data](articles/93fd0ff1.json)
+
+[Extended Data](ext_articles/93fd0ff1.ext.json)
 
 ---
 
@@ -982,17 +1022,23 @@ Police said the vehicle had been hit long distances without controlling the spee
 
 ---
 
-### ජනාධිපතිවරණ අපේක්ෂකයන් ආරක්ෂාව දෙන්න කමිටුවක්
+### Committee to protect presidential election candidates
 
 *2024-08-09 23:07:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-අපේක්ෂකයන්-ආරක්ෂාව-දෙන්න-කමිටුවක්/11-411284) · `si`
 
-ජනාධිපතිවරණ අපේක්ෂයක් සඳහා ආරක්ෂාව ලබා දීම සඳහා මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කළ බව මහජන ආරක්ෂ අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+A committee under the Public Defense Ministry's Secretary ensures security for presidential elections. Public Security Minister Tiran Alles announced this during a media briefing in Colombo.
 
-ඊයේ(09දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමි හෙතෙම මේ බව සඳහන් කළේය.
+🟩
+
+Public security Minister Tiran Alles said that a committee was chaired by the Secretary of the Public Defense Ministry to provide security for a presidential election.
+
+He was speaking at a media briefing in Colombo yesterday (09), he said this.
 
 ◼️
 
 [Data](articles/44dabc7e.json)
+
+[Extended Data](ext_articles/44dabc7e.ext.json)
 
 ---
 
@@ -2217,33 +2263,5 @@ It is also reported that Iraqi women have launched a struggle against the curren
 [Data](articles/6163f611.json)
 
 [Extended Data](ext_articles/6163f611.ext.json)
-
----
-
-### Two new two persons coming to Parliament
-
-*2024-08-09 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199757) · `si`
-
-Harin Fernando and Manusha Nanayakkara have been nominated for parliamentary seats. Manusha secured the Galle District spot in 2020, while Harin comes from the National List. Both were chosen alongside Ranjith Madduma Bandara, who mentioned the upcoming appointments for Working Committee and Board of Management Assistants.
-
-🟩
-
-The General Secretary of the Jathika Force spoke to the media regarding the vacant seat for vacant seat, Harin Fernando and Manusha Nanayakkara.
-
-Manusha Nanayakkara was elected to the Galle District Preference List in the 2020 General Elections.
-
-According to Ranjith Madduma Bandara, the third place in the preferential list of the preferential list.
-
-Meanwhile, Ranjith Madduma Bandara said that Harin Fernando is a person selected from the National List, Ranjith Madduma Bandara said.
-
-Meanwhile, MP Field Marshal Sarath Fonseka has asked Sajith Premadasa, the Chairman of the Kelaniya and the organizer of the Kelaniya electorate.
-
-According to Ranjith Madduma Bandara, the Working Committee and the Board of Management Assistants who are appointed to the posts will be held together.
-
-◼️
-
-[Data](articles/2b3f465c.json)
-
-[Extended Data](ext_articles/2b3f465c.ext.json)
 
 ---

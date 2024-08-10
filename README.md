@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 15:36:28**
+As of **2024-08-10 15:55:16**
 
 ## Newspaper Stats
 
-*Scraped **39,989** Articles*
+*Scraped **39,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,170 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,668
+adalk | 3,669
 adaderanalk | 4,652
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,045
+tamilmirrorlk | 5,047
 virakesarilk | 6,344
-adaderanasinhalalk | 6,784
+adaderanasinhalalk | 6,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,986 (100.0%) of 39,989 articles have been extended.
+39,989 (100.0%) of 39,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### திருகோணமலையில் இறந்த நிலையில் கரையொதுங்கும் நண்டுகள்
+### සුමන්තිරන් සහ නාමල් සාකච්ඡා කරයි
+
+*2024-08-10 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199781) · `si`
+
+දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී ජනාධිපති නීතිඥ එම්. ඒ. සුමන්තිරන් මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා අතර සාකච්ඡාවක් අද (10) පෙරවරුවේ පවත්වා තිබේ.
+
+එම හමුවට ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් නීතිඥ සාගර කාරියවසම් ද සහභාගී වී ඇත.
+
+වත්මන් දේශපාලන තත්ත්ත්වය පිළිබඳව එහිදී සාකච්ඡා කර ඇතැයි වාර්තා වෙයි.
+
+ඉලංගෙයි තමිල් අරසු පක්ෂය සමග ඉදිරියේදී සාකච්ඡා කිරීමට තමා අපේක්ෂා කරන බව නාමල් රාජපක්ෂ මහතා එහිදී ප්‍රකාශ කළ බව එම්. ඒ. සුමන්තිරන් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/025dcf80.json)
+
+---
+
+### 1700 ரூபாய் வழங்க இணக்கம்: ஜனாதிபதி ஊடகப்பிரிவு
+
+*2024-08-10 15:34:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341913) · `ta`
+
+தோட்ட தொழிலாளர்களுக்கு 1700 சம்பள அதிகரிப்பை வழங்குவதாக 7 பெருந்தோட்ட நிறுவனங்கள் இணக்கம் தெரிவித்துள்ளதாகவும், தொழில் அமைச்சர் எதிர்வரும் திங்கட்கிழமை அது குறித்து சம்பள நிர்வாகச் சபையுடன் பேசவிருப்பதாகவும், அவசியம் ஏற்படும் பட்சத்தில் அதற்கான சட்டத்தை நிறைவேற்ற தயாராக இருப்பதாகவும் ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாட்டில் கண்டி 'கரலிய' அரங்கத்தில் இன்று  (10) நடைபெற்ற தோட்ட தொழிற்சங்கங்களின் இளம் தலைவர்களின் பொதுக்கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்
+
+◼️
+
+[Data](articles/34f1f6a1.json)
+
+---
+
+### 1700 ரூபாய் வழங்க இணக்கம்: ஜனாதிபதி ஊடகப்பிரிவு
+
+*2024-08-10 15:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341912) · `ta`
+
+தோட்ட தொழிலாளர்களுக்கு 1700 சம்பள அதிகரிப்பை வழங்குவதாக 7 பெருந்தோட்ட நிறுவனங்கள் இணக்கம் தெரிவித்துள்ளதாகவும், தொழில் அமைச்சர் எதிர்வரும் திங்கட்கிழமை அது குறித்து சம்பள நிர்வாகச் சபையுடன் பேசவிருப்பதாகவும், அவசியம் ஏற்படும் பட்சத்தில் அதற்கான சட்டத்தை நிறைவேற்ற தயாராக இருப்பதாகவும் ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாட்டில் கண்டி 'கரலிய' அரங்கத்தில் இன்று  (10) நடைபெற்ற தோட்ட தொழிற்சங்கங்களின் இளம் தலைவர்களின் பொதுக்கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்
+
+◼️
+
+[Data](articles/f18587d4.json)
+
+---
+
+### වසර 28කට පසු 4x100 ඉසව්වෙන් කැනඩාවට රන් පදක්කමක්
+
+*2024-08-10 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199779) · `si`
+
+ගියවර ඔලිම්පික් ශූරයන් මෙන්ම, වත්මන් ලෝක ශූරයන් වන අමෙරිකාව අබිබවා යමින් මෙවර පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙලේ ඊයේ (09) පැවති පිරිමි මීටර් 4x100 සහාය දිවීමේ ඉසව්වේ රන් පදක්කම දිනාගැනීමට කැනඩාව සමත් විය.
+
+ඔවුන් රන් පදක්කම දිනාගනු ලැබුවේ ප්‍රබල අමෙරිකානු කණ්ඩායම පහසුවෙන්ම මෙහි රන් පදක්කම දිනාගනු ඇති බවට අනාවැකි පළකර තිබූ පසුබිමක වීම විශේෂත්වයකි.
+
+කැනඩා කණ්ඩායම සිය ඉසව්ව අවසන් කිරීම සඳහා තත්පර 37.50ක කාලයක් ගත කර තිබුණි.
+
+මෙය වසර 28කට පසු කැනඩා කණ්ඩායමක් ඔලිම්පික් උළෙලක මීටර් 100 සහාය දිවීමේ ඉසව්වකින් රන් පදක්කමක් දිනාගත් පළමු අවස්ථාව ලෙසින්ද සැලකෙයි.
+
+මේ අතර මෙම ඉසව්වේ රිදී පදක්කම දකුණු අප්‍රිකාව (තත්. 37.57) හිමිකරගනිද්දී, ලෝකඩ පදක්කම මහා බ්‍රිතාන්‍යයට (තත්. 37.61) හිමිවිය.
+
+තරගයේ රන් පදක්කම හිමිකරගනු ඇතැයි සියලු දෙනා බලාපොරොත්තු තබා සිටි අමෙරිකා කණ්ඩායමේ පළමු යෂ්ඨි හුවමාරුව නීත්‍යානුකූල නොවීම හේතුවෙන් ඔවුන්ගේ තරග ප්‍රතිඵපලය අහෝසි කෙරුණි.
+
+◼️
+
+[Data](articles/0ee86209.json)
+
+---
+
+### Crabs that are dead in Trincomalee
 
 *2024-08-10 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190745) · `ta`
 
-திருகோணமலை நகரில் உள்ள கடற்கரையில் இன்று சனிக்கிழமை (10) அதிகாலை முதல் இலட்சக்கணக்கான சிறு சிகப்பு நிறத்திலான நண்டுகள் இறந்த நிலையில் கரையொதுங்கி உள்ளன.
+In Trincomalee, hundreds of thousands of small red crabs were found dead on the beach, spanning three to four kilometers of its five to six-kilometer length. This tragic event occurred frequently on weekends, coinciding with increased tourist visits to the area.
 
-சனி மற்றும் ஞாயிற்றுக்கிழமைகளில் இப்பிரதேசத்துக்கு கூடுதலான சுற்றுலா பயணிகள் வருகின்ற நிலையில் இவ்வாறான நிகழ்வு ஒன்று இடம்பெற்றுள்ளது.
+🟩
 
-சுமார் ஐந்து தொடக்கம் ஆறு கிலோமீட்டர் நீளமுள்ள இந்த கடற்கரையில் மூன்று தொடக்கம் 4 கிலோ மீட்டர் தூரம் வரை இவ்வாறான சிகப்பு நிற நண்டுகள் இறந்த நிலையில் கரை ஒதுங்கி உள்ளன என்பது குறிப்பிடத்தக்கது.
+Hundreds of thousands of small red crabs have died on the beach in Trincomalee this morning (10).
+
+Such an event took place on Saturdays and Sundays, with more tourists coming to the region.
+
+The beach is about five to six kilometers long, with such red crabs dead for three to 4 kilometers.
 
 ◼️
 
 [Data](articles/64ca6a43.json)
 
+[Extended Data](ext_articles/64ca6a43.ext.json)
+
 ---
 
-### மீன்கள், ஆமைகளுடன் விமான நிலையத்தில் ஒருவர் கைது
+### A man arrested at the airport with fish and turtles
 
 *2024-08-10 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190751) · `ta`
 
-இவர் சுங்க உயிர் பல்வகைமை பாதுகாப்பு பிரிவினரால் இன்று (10) அதிகாலை கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+A 50-year-old businessman from Talawatakoda was arrested at Katunayake International Airport for smuggling Asian Arowana, Pyod, Ketbush, and turtles from Singapore. The arrest followed a tip-off to the Customs Biodiversity Division, leading to ongoing investigations.
 
-கைது செய்யப்பட்ட நபர் தலவத்துகொடை பகுதியைச் சேர்ந்த 50 வயதுடைய வர்த்தகர் என அடையாளம் காணப்பட்டுள்ளார்.
+🟩
 
-சிங்கப்பூரில் இருந்து வந்த குறித்த நபர் தனது நண்பர் ஒருவருக்காக மீன் மற்றும் ஆமைகள் கொண்டு வந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+He was arrested at the Katunayake International Airport this morning (10) by the Customs Bi -Defense Division.
 
-இவ்வாறு கொண்டுவரப்பட்ட விலங்குகளில் ஆசிய அரோவானா, சைக்காட், கெட்பிஷ் மற்றும் ஆமைகள் உள்ளடங்குவதாக சுங்கம் திணைக்களம் தெரிவித்துள்ளது.
+The arrested person has been identified as a 50 -year -old businessman from Talawatakoda.
 
-இலங்கை சுங்க பல்லுயிர் பாதுகாப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து இந்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அதிகாரிகள் ஆரம்பித்துள்ளனர்.
+Investigations have revealed that the person from Singapore brought fish and turtles for his friend.
+
+The customs department said that the animals that were brought in include Asian Arovana, Pyod, Ketbish and Turtles.
+
+The arrests have been taken following confidential information received by officials of the Customs Biodiversity Division of the Customs Biodiversity Division and further investigations into the incident have begun.
 
 ◼️
 
 [Data](articles/d15fed28.json)
 
+[Extended Data](ext_articles/d15fed28.ext.json)
+
 ---
 
-### ඉමාන් කලීෆ් රන් පදකක්ම දිනයි
+### Imaan Kalayif wins a golden page
 
 *2024-08-10 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199778) · `si`
 
-මෙවර ඔලිම්පික් උළෙලේ බොහෝ දෙනෙකුගේ ඇස ගැටුණ තරග ඉසව්වක් වූ කාන්තා කි.ග්‍රෑ. 66 බර පන්තියේ රන් පදක්කම දිනාගැනීමට ඇල්ජීරියාවේ ඉමාන් කලීෆ් සමත් විය.
+Imaan Kalayif made history by becoming the first Algerian, Arabic, and African woman to win a gold medal in the 66 kg weight category at the Olympics. Despite facing challenges due to her gender identity, she triumphed over China with a unanimous decision. This victory is a testament to her dedication, having trained for eight years to achieve this dream. Imaan emphasizes her identity as a woman and thanks the sports community for their support, expressing gratitude for her success.
 
-රන් පදක්කම වෙනුවෙන් වූ තරගයේදී ඇය විසින් චීනයේ යැං ලියු විනිසුරු ඒකමතික තීන්දුවකින් (ලකුණු 5-0) පහසුවෙන් පරාජය කළාය.
+🟩
 
-ඒ අනුව මෙවර ඔලිම්පික් බොක්සිං ඉසව්වෙන් රන් පදක්කමක් දිනූ පළමු ඇල්ජීරියානු, අරාබි මෙන්ම එකම අප්‍රිකානු කාන්තාව (මේ දක්වා) බවට පත්වීමට ඉමාන්ට හැකිවිය.
+Women, which was the eye of many of the Olympic Games. Imaan Kalayif was able to win the 66 weights gold medal.
 
-උපතින්ම ශරීරයේ ටෙස්ටෙස්ටරෝන් මට්ටම ඉහළ අගයක් ගැනීම හේතුවෙන් ජීවවිද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙස හැඳින්වූ ඉමාන් කලීෆ් කාන්තා අංශයෙන් තරග වැදීම සම්බන්ධයෙන් ඔලිම්පික් උළෙල ආරම්භයේ සිට දැඩි කතාබහක් ඇතිවුණි.
+In the match for the gold medal, she conquered China in a unanimous judgment (5-0 marks).
 
-කෙසේ නමුත් තවත් පිරිසක් ඇය වෙනුවෙන් පෙනී සිටීමට ඉදිරිපත් විය.
+Accordingly, the first Algerian, Arabic and the only African woman (to date) was the first Algerian, Arabic and the only African woman.
 
-මේ වනවිට 25 හැවිරිදි ඉමාන් රන් පදක්කම දිනාගැනීමෙන් පසු පවසා සිටියේ, මෙම පදක්කම තමන්ගේ සිහිනයක් බවය. එමෙන්ම මෙම පදක්කම දිනාගැනීමට අවුරුදු අටක් තිසේසේ නින්දක් නොමැතිව පුහුණුවීම් කළ බව ඇය පවසා තිබුණි.
+The Olympic Games, called a biologically boy, was in the beginning of the Test of the Inger Kalayife Women's Sector, which was called a biologically man.
+
+However, more people came forward to stand for her.
+
+The 25-year-old iman won the gold medal, said the medal is a dream. She had been trained for eight years to win this medal.
+
+Meanwhile, Iman said that he was responding as a woman as well as other women as a biologically man.
+
+The first time after winning the gold medal
+
+"I have fully qualified to participate in the competition. I'm just like other women. I was born as a woman. I lived as a woman. I competed as a woman. "
 
 ...
 
 [Data](articles/104f83b8.json)
+
+[Extended Data](ext_articles/104f83b8.ext.json)
 
 ---
 
@@ -113,6 +205,22 @@ Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responde
 [Data](articles/08693f34.json)
 
 [Extended Data](ext_articles/08693f34.ext.json)
+
+---
+
+### අදත් ගිගුරුම් සහිත වැසි
+
+*2024-08-10 14:04:33* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-ගිගුරුම්-සහිත-වැසි/11-411290) · `si`
+
+ඉදිරි දින කිහිපයේදී දිවයිනේ සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකාර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+
+බස්නාහිර සහ සබරගමුව යන පළාත්වලත් ගාල්ල සහ මාතර යන දිස්ත්‍රික්ක වලත් විටින් විට වැසි හෝ ගිගුරුම්සහිත වැසි ඇතිවිය හැකියි.
+
+දිවයිහන් සෙසු ප්‍රෙදශවල සවස් කාලයේදී  හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි
+
+◼️
+
+[Data](articles/6eeeb918.json)
 
 ---
 
@@ -2119,117 +2227,5 @@ We have been able to build the country in two years since the country has fallen
 [Data](articles/b0b151d4.json)
 
 [Extended Data](ext_articles/b0b151d4.ext.json)
-
----
-
-### A foreign citizen who ride a pundit in Nuwara Eliya
-
-*2024-08-09 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190700) · `ta`
-
-An Italian tourist, part of a group visiting Sri Lanka, suffered injuries after falling from a "pundit" (likely a local term for a type of vehicle) near Nuwara Eliya Municipal Ground. The accident occurred on Friday, and the victim was hospitalized. Authorities are investigating, noting previous incidents involving lack of safety helmets as a contributing factor.
-
-🟩
-
-An Italian citizen, who was riding a mutual screen on Friday afternoon (09) near the Nuwara Eliya Municipal Ground, has been admitted to the hospital.
-
-Those who visited Sri Lanka with a group of 16 people on Tuesday, Tuesday, 6th of this month, were riding in the Nuwara Eliya District General Hospital on Friday when a 16 -year -old woman was riding a ride while riding a ride near the Nuwara Eliya Municipal Ground on Friday.Tourist police are investigating.
-
-He said that it is not the first time a police official said that this is not the first time it is not the first time a police official said that such injuries are caused by the lack of safety helmets when traveling to Nuwara Eliya.
-
-◼️
-
-[Data](articles/0f30d633.json)
-
-[Extended Data](ext_articles/0f30d633.ext.json)
-
----
-
-### US, Egypt and Qatar call on Israel and Hamas to resume talks
-
-*2024-08-09 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101118/us-egypt-and-qatar-call-on-israel-and-hamas-to-resume-talks) · `en`
-
-The United States, Egypt and Qatar have released a joint statement calling on Israel and Hamas to resume negotiations over a ceasefire and hostage-release deal.
-
-The statement said the three nations had forged a “framework agreement” that had “only the details of implementation left to conclude”.
-
-Israel said it would send negotiators to the proposed talks, which are pencilled in for 15 August in Doha or Cairo. Hamas did not immediately respond.
-
-The renewed diplomatic push will be seen as an attempt to stop regional tensions from spiralling out of control, after Hamas’ leader Ismail Haniyeh was assassinated last week. Iran, blaming Israel, has vowed a response - though Israel has not commented directly on the killing.
-
-In a joint statement, the three nations invited Israel and Hamas to restart talks on 15 August “to close all remaining gaps and commence implementation of the deal without further delay.”
-
-...
-
-[Data](articles/0942be1f.json)
-
-[Extended Data](ext_articles/0942be1f.ext.json)
-
----
-
-### Navy personnel in troops 35 Indian fishermen
-
-*2024-08-09 18:38:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-35ක්-නාවික-හමුදා-භාරයට/11-411282) · `si`
-
-35 Indian fishermen were detained by the Navy during a search operation in the Northwestern Sea near Kudarama Todup.
-
-🟩
-
-35 Indian fishermen have taken into custody by the Navy in the Northwestern Sea.
-
-In search operations conducted by the Northwestern Sea, the North Western Sea, the Kudarama Todup, has been taken into custody.
-
-◼️
-
-[Data](articles/30691cdc.json)
-
-[Extended Data](ext_articles/30691cdc.ext.json)
-
----
-
-### Anyone Tamil Nadu contesting the election
-
-*2024-08-09 18:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-தமிழர்-ஒருவரும்-தேர்தலில்-போட்டி/175-341877) · `ta`
-
-In the upcoming presidential election, a Tamil candidate contests independently, bringing the total to 27 candidates. The Elections Commission announced three new contestants: Priyantha Pushpakumara from the Nava Sama Samajah Party, former MP M. Tilakarajah as an independent, and JDK Vikramaratne representing the Abe Jana Multiple Party. The election is scheduled for September 21.
-
-🟩
-
-With the name of the Tamil general candidate in the upcoming presidential election, a Tamil candidate is contesting independently.
-
-Three more candidates paid control today (09) for the upcoming presidential election. Accordingly, the total number of candidates contesting the presidential election has increased to 27.
-
-The Elections Commission said that the Nava Sama Samajah Party's Priyantha Pushpakumara, former MP M. Tilakarajah as an independent candidate and JDK Vikramaratne on behalf of the Abe Jana Multiple Party.
-
-The Election Commission has officially announced that the presidential election will be held on September 21.
-
-◼️
-
-[Data](articles/1deac915.json)
-
-[Extended Data](ext_articles/1deac915.ext.json)
-
----
-
-### Mountain Tamils ​​competition;27 in the field
-
-*2024-08-09 18:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-தமிழர்-ஒருவரும்-போட்டி-27-களத்தில்பேர்/175-341877) · `ta`
-
-In the upcoming Sri Lankan presidential election, there are now 27 candidates, including a Tamil general candidate running independently. The Elections Commission confirmed three new contenders: Priyantha Pushpakumara from the Nava Sama Samajah Party, former MP M. Tilakarajah as an independent, and JDK Vikramaratne representing the Abe Jana Multiple Party. The election is scheduled for September 21.
-
-🟩
-
-With the name of the Tamil general candidate in the upcoming presidential election, a Tamil candidate is contesting independently.
-
-Three more candidates paid control today (09) for the upcoming presidential election. Accordingly, the total number of candidates contesting the presidential election has increased to 27.
-
-The Elections Commission said that the Nava Sama Samajah Party's Priyantha Pushpakumara, former MP M. Tilakarajah as an independent candidate and JDK Vikramaratne on behalf of the Abe Jana Multiple Party.
-
-The Election Commission has officially announced that the presidential election will be held on September 21.
-
-◼️
-
-[Data](articles/f195ebab.json)
-
-[Extended Data](ext_articles/f195ebab.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 10:36:27**
+As of **2024-08-10 10:54:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,954 (100.0%) of 39,955 articles have been extended.
+39,955 (100.0%) of 39,955 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Leader of the Sri Lanka Mahajana Party, MP Asanka Nawaratne, has announced that 
 ◼️
 
 [Data](articles/a24caaa9.json)
+
+[Extended Data](ext_articles/a24caaa9.ext.json)
 
 ---
 

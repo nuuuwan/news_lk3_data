@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 10:54:57**
+As of **2024-08-10 11:06:36**
 
 ## Newspaper Stats
 
-*Scraped **39,955** Articles*
+*Scraped **39,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,662
+adalk | 3,663
 adaderanalk | 4,646
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,037
-virakesarilk | 6,334
-adaderanasinhalalk | 6,780
+tamilmirrorlk | 5,038
+virakesarilk | 6,336
+adaderanasinhalalk | 6,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,955 (100.0%) of 39,955 articles have been extended.
+39,955 (100.0%) of 39,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### களனி ஆற்றிலிருந்து சடலம் மீட்பு
+
+*2024-08-10 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190721) · `ta`
+
+கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட பழைய சந்தைக்கு அருகில் களனி ஆற்றில் இருந்து இனந்தெரியாத ஆணின் சடலம் ஒன்று கண்டெடுக்கப்பட்டுள்ளது.
+
+மீட்கப்பட்ட சடலம் தற்போது கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது. உயிரிழந்த இதுவரை அடையாளம் காணப்படவில்லை.
+
+உயிரிழந்தவர் 5 அடி மற்றும் 6 அங்குல உயரம் கொண்டவர் எனவும்,  45 முதல் 50 வயது மதிக்கத்தக்கவர் எனவும்  பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/f03d5596.json)
+
+---
+
+### தேர்தல் ஆணைக்குழுவின் இணையதளம் போன்று போலி இணையதளம்
+
+*2024-08-10 10:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழுவின்-இணையதளம்-போன்று-போலி-இணையதளம்/175-341901) · `ta`
+
+இது தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்திலும் முறைப்பாடு செய்யப்பட்டுள்ளதாக அதன் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சருக தமுணகல குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/535f36d6.json)
+
+---
+
+### எச்சரிக்கையை தொடர்ந்து ஜப்பானில் 5.3 ரிச்டர் அளவில் பூகம்பம்
+
+*2024-08-10 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190718) · `ta`
+
+ஜப்பானில் கிழக்குப்பகுதி மற்றும் டோக்கியோவில் வெள்ளிக்கிழமை (10) 5.3 ரிச்டர் அளவிலான பூகம்பம் பதிவாகியுள்ளது.
+
+ஜப்பானில் மேற்கு பகுதியில் பாரிய பூகம்பம் எச்சரிக்கை விடுக்கப்பட்டு ஒரு நாள் கழித்து  பூகம்பம் பதிவாகியுள்ளது.
+
+குறித்த பூகம்பம் தலைநகருக்கு தெற்கே உள்ள கனகாவா மாகாணத்தில் 10 கிமீ (6.2 மைல்) ஆழத்தில் இருந்ததாக ஜப்பான் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+டோக்கியோ மற்றும் கனகாவா, சைதாமா, யமனாஷி மற்றும் ஷிசுவோகா மாகாணங்களில் வசிப்பவர்களுக்கு அரசாங்கம் வலுவான பூகம்பம்  எச்சரிக்கையை விடுத்த  பின்னர் சுனாமி எச்சரிக்கை எதுவும் வெளியிடப்படவில்லை.
+
+இதேவேளை,  கடந்த வியாழக்கிழமை ஜப்பானின் தென்மேற்கில் கியூஷு பகுதியில் அடுத்தடுத்து இருமுறை பாரிய பூகம்பம்  ஏற்பட்டுள்ளது.
+
+இந்த பூகம்பமானது முதலில் 6.9 ரிச்டர் அளவிலும், அதன்பிறகு 7.1 அளவிலான பூகம்பங்கள் என அடுத்தடுத்து ஏற்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/443e4aab.json)
+
+---
+
+### ශ්‍රී ලංකා මහජන පක්ෂයේ සහායත් රනිල්ට
+
+*2024-08-10 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199774) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ශ්‍රී ලංකා මහජන පක්ෂයේ සහාය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබාදීමට තීරණය කර ඇත.
+
+එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී අසංක නවරත්න මහතා ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/93fd0ff1.json)
+
+---
 
 ### Sri Lanka Mahajana Party to support Ranil in presidential race
 
@@ -915,6 +979,20 @@ Police said the vehicle had been hit long distances without controlling the spee
 [Data](articles/a3f97862.json)
 
 [Extended Data](ext_articles/a3f97862.ext.json)
+
+---
+
+### ජනාධිපතිවරණ අපේක්ෂකයන් ආරක්ෂාව දෙන්න කමිටුවක්
+
+*2024-08-09 23:07:47* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-අපේක්ෂකයන්-ආරක්ෂාව-දෙන්න-කමිටුවක්/11-411284) · `si`
+
+ජනාධිපතිවරණ අපේක්ෂයක් සඳහා ආරක්ෂාව ලබා දීම සඳහා මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කළ බව මහජන ආරක්ෂ අමාත්‍ය ටිරාන් අලස් මහතා පැවසීය.
+
+ඊයේ(09දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමි හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/44dabc7e.json)
 
 ---
 
@@ -2167,123 +2245,5 @@ According to Ranjith Madduma Bandara, the Working Committee and the Board of Man
 [Data](articles/2b3f465c.json)
 
 [Extended Data](ext_articles/2b3f465c.ext.json)
-
----
-
-### SJB to decide on appointments to several vacant posts
-
-*2024-08-09 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101111/sjb-to-decide-on-appointments-to-several-vacant-posts-) · `en`
-
-The General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara states that party member Bandulal Bandarigoda will be appointed fill the parliamentary seat which fell vacant following the suspension of the party membership of Manusha Nanayakkara through a Supreme Court ruling.
-
-Bandarigoda, who secured 34,897 votes and the third place from the Galle District in 2020 General Election, is next in line on SJB’s preferential vote list.
-
-Meanwhile, he also said a qualified individual will be named by the SJB to fill the MP seat which remains vacant as Harin Fernando was also disqualified to hold the MP seat due to the suspension of his party membership, since Fernando was elected to the Parliament through SJB’s national list.
-
-...
-
-[Data](articles/15f5e6fa.json)
-
-[Extended Data](ext_articles/15f5e6fa.ext.json)
-
----
-
-### Functions of the Fundamental Management Bill
-
-*2024-08-09 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199756) · `si`
-
-The Fundamental Management Bill, enacted as Fiscal Act No 44 of 2024 in Sri Lanka, aims to regulate management practices across various sectors. Presented to Parliament on May 22, 2024, and passed with amendments on July 25, it reflects the government's commitment to enhancing governance and accountability.
-
-🟩
-
-According to the 79 constitution of the Constitution of Sri Lanka, Speaker Mahinda Yapa Abeywardena told Parliament today (09).
-
-Accordingly, the above Bill is in effect as the Fiscal Act No 44 of 44th August 2024.
-
-The Bill was presented to Parliament on May 22, 2024, was passed on July 25 with amendments without a poll.
-
-◼️
-
-[Data](articles/0e5845da.json)
-
-[Extended Data](ext_articles/0e5845da.ext.json)
-
----
-
-### President Ranil vows to uphold and protect women’s rights
-
-*2024-08-09 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101110/president-ranil-vows-to-uphold-and-protect-womens-rights) · `en`
-
-President Ranil Wickremesinghe stated that he chose to run as an independent candidate in the upcoming Presidential Election, free from any party affiliation, to address the nation’s hunger crisis.
-
-He emphasized that the people’s suffering transcends party lines and political colours.
-
-The President made these remarks during the “Kantha Ape Balaya” women’s conference held in Colombo today (09).
-
-During the conference, the President further vowed to uphold and protect women’s rights, ensuring they are equal to the rights enjoyed by men in the country.
-
-Meanwhile, Minister Pavithra Wanniarachchi, who also addressed the event, said that Bangladesh is facing the current predicament because they did not have a leader like Ranil Wickremesinghe to step up and take charge.
-
-“Sri Lanka averted such a dire situation because we had a courageous leader like Ranil Wickremesinghe”, said the Minister.
-
-...
-
-[Data](articles/b4b56df0.json)
-
-[Extended Data](ext_articles/b4b56df0.ext.json)
-
----
-
-### 6,630 child abuse for six months in Pakistan
-
-*2024-08-09 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199755) · `si`
-
-In the first half of 2024, Pakistan reported 6,630 child abuse cases, including 862 sexual abuses, 668 abductions, 82 disappearances, and 18 forced marriages. Most victims were aged 6-15, according to NGO reports.
-
-🟩
-
-It has been revealed that 1,630 of child abuse incidents have occurred in the first six months of the year of 2024.
-
-Foreign media reports that the incident has been made by a NGO.
-
-There were 862 child sexual abuse cases, 668 abductions, 668 abductions, 82 disappearances and 18 children's marriage cases.
-
-It has been revealed that most of the children in the age group between the ages of 6 and 15 have been abused.
-
-◼️
-
-[Data](articles/1a52a1be.json)
-
-[Extended Data](ext_articles/1a52a1be.ext.json)
-
----
-
-### The hazard warning on earthquake in Japan
-
-*2024-08-09 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190665) · `ta`
-
-Japan faces a significant risk of a massive earthquake, possibly causing a devastating tsunami. The government has issued warnings and taken measures like canceling official trips. Experts predict a 70-80% chance of such an event occurring in the next 30 years, potentially causing widespread damage and loss of life.
-
-🟩
-
-A hazard warning on massive earthquake in Japan. Officials have urged the public to be safe.
-
-A powerful earthquake occurred on Thursday. This warning has been issued following this.
-
-In the meantime, Japanese Prime Minister Fumio Kishita canceled the four -day trip to Kazakhstan, Uzbekistan and Mongolia on Friday.
-
-The Department of Meteorology has said that a massive earthquake may be created in the future from the vast Nangai Valley in East Japan.
-
-In the event of a large -scale earthquake in the future, a strong vibration and massive tsunami is expected to occur.
-
-The 7.1 -rich earthquake occurred in southwest Japan on Thursday, and more vibrations hit the area until Friday.. Experts note that the seismic activity is high in those areas.
-
-The Meteorological Department has urged the municipalities in the region to spread their earthquakes from surrounding Tokyo to South Oginawa Province.
-
-...
-
-[Data](articles/6f5ea041.json)
-
-[Extended Data](ext_articles/6f5ea041.ext.json)
 
 ---

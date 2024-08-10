@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 19:06:02**
+As of **2024-08-10 19:20:54**
 
 ## Newspaper Stats
 
-*Scraped **40,010** Articles*
+*Scraped **40,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,670
-adaderanalk | 4,654
+adaderanalk | 4,655
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,052
+tamilmirrorlk | 5,053
 virakesarilk | 6,344
 adaderanasinhalalk | 6,794
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,010 (100.0%) of 40,010 articles have been extended.
+40,010 (100.0%) of 40,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Prez Poll: SLPP faction backing Ranil poised to launch new party
+
+*2024-08-10 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101136/prez-poll-slpp-faction-backing-ranil-poised-to-launch-new-party) · `en`
+
+The group of Sri Lanka Podujana Peramuna (SLPP) members who decided to support incumbent President Ranil Wickremesinghe in the 2024 Presidential Election is scheduled to launch a new political party next week.
+
+MP Mahindananda Aluthgamage said that the necessary steps required for this purpose are currently underway.
+
+He made these remarks during a special meeting of the “Forum of Former Local Government Heads”, today (10).
+
+◼️
+
+[Data](articles/639f4038.json)
+
+---
+
+### தேர்தல் சின்னங்கள் - அதிவிசேட வர்த்தமானி வெளியானது
+
+*2024-08-10 18:55:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-சின்னங்கள்-அதிவிசேட-வர்த்தமானி-வெளியானது/175-341918) · `ta`
+
+அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் மற்றும் சுயேட்சைக் குழுக்களுக்கு ஒதுக்கப்படுள்ள தேர்தல் சின்னங்கள் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவின் தலைவரின் கையொப்பத்துடன் அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+வாக்காளர்களால், வேட்பாளர்களை அடையாளம் காண்பதற்கும், வாக்களிப்பு செயல்பாட்டை இலகுபடுத்துவதற்கும் இவ்வாறான சின்னங்கள் ஒதுக்கீடு செய்யப்படுகின்றன.
+
+அதற்கமைய, அங்கீகரிக்கப்பட்ட சின்னங்கள் மற்றும் அங்கீகரிக்கப்படாத சின்னங்கள் அடங்கிய அதிவிசேட வர்த்தமானி அறிவித்தல் தற்போது வெளியாகியுள்ளது. R
+
+◼️
+
+[Data](articles/f9ae30f7.json)
+
+---
 
 ### Body found inside three-wheeler on Marine Drive
 
@@ -2199,61 +2231,5 @@ He was speaking at a media briefing in Colombo yesterday (09), he said this.
 [Data](articles/44dabc7e.json)
 
 [Extended Data](ext_articles/44dabc7e.ext.json)
-
----
-
-### Is Rinon Corporation to win 10 lakhs of rupees with Kalambo - City challenge bowl?New Star Corporation?;Saturday final match
-
-*2024-08-09 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/190706) · `ta`
-
-Rinon and New Star Corporations will compete in the Kalambo-City Challenge Bowl final on Saturday, aiming to win 10 lakh rupees. Both teams have shown strong performances, with New Star defeating Old Benz and Ratnam Club in previous rounds and Rinon overcoming Maligawatte Youth Club and another unnamed club. The match promises to be competitive, with both sides featuring experienced players.
-
-🟩
-
-The final match between Rinon and New Star Clubs will be held on Saturday afternoon at the City League Ground, deciding who will win the Kalambo - City Challenge bowl football and 10 lakh rupees cash.
-
-The Callout Football Tournament was organized to mark the 112nd anniversary of the Colombo Football League.
-
-The four clubs in the first category of the Colombo Football League and four clubs in the City Football League participated in the competition.
-
-The knock out of the Colombo League Corporation and the City League Corporations in another group of quarter -finals and semi -finals.
-
-The New Star Club, which met with the Old Benz Club in the two -stage finals, won the first quarter -end goal and the second quarter of the second quarter and the second quarter.
-
-In the semi -finals, the New Star Corporation ended the match with Ratnam Club 1 - 1.
-
-The New Star Corporation won 4 - 3 in the penalty provided by the penalty and qualified to play in the final.
-
-...
-
-[Data](articles/230aee6a.json)
-
-[Extended Data](ext_articles/230aee6a.ext.json)
-
----
-
-### Special Discussion on the Avani Month Festival of Mannar
-
-*2024-08-09 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190705) · `ta`
-
-A special meeting was held for the Mannar Madhu Pirikkam Avani Month Festival, discussing preparations including health, transport, and security for the expected influx of devotees. The festival, starting with a flag ceremony, will conclude on the 15th, involving various officials and departments ensuring smooth operations.
-
-🟩
-
-A special discussion on the preparations was held on Friday (9) at 11 am on Friday (9) as millions of devotees from many parts of the country will attend this year at the Mannar Madhu Pirikkam Avani Month Festival.
-
-The Mannar Marudamadu Mother's Avani Month Festival will commence on the 6th of last month with the flag pole and will be held on the 15th of this month.
-
-The preparatory discussion for the Avani Month Festival of Madhu Thiruthalam has been held at the Madhu Thiruthala Hall this morning with the participation of the Mannar Diocese Emmanuel Fernando anniversary under the patronage of Mannar District Government Agent K. Kanageswaran.
-
-It is customary for millions of devotees from many parts of the country to attend the festival of Madhu Mother.
-
-In this case, all the arrangements to be carried out to be carried out in view of the welfare of the pilgrims were discussed with the departments.
-
-...
-
-[Data](articles/9a439ad1.json)
-
-[Extended Data](ext_articles/9a439ad1.ext.json)
 
 ---

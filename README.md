@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 16:36:05**
+As of **2024-08-10 16:52:57**
 
 ## Newspaper Stats
 
-*Scraped **39,998** Articles*
+*Scraped **40,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,71 @@ adaderanalk | 4,653
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,048
 virakesarilk | 6,344
-adaderanasinhalalk | 6,788
+adaderanasinhalalk | 6,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,995 (100.0%) of 39,998 articles have been extended.
+39,998 (100.0%) of 40,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### ஜப்பானில் மீண்டும் சக்திவாய்ந்த நிலநடுக்கம்
+### බම්බලපිටියේ ත්‍රීරෝද රථයක පුද්ගල මළසිරුරක්
+
+*2024-08-10 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199786) · `si`
+
+බම්බලපිටිය මුහුදුබඩ මාර්ගයේ නවතා තිබූ ත්‍රිරෝද රථයක පිටුපස ආසනයේ තිබී පුද්ගල මළසිරුරක් හමුවී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ නාරාහේන්පිට පදිංචි සෙල්වනායගම් බොනිෆස්  සිඩ්නි මනෝහර නමැති 61 හැවිරිදි පුද්ගලයෙකු වන අතර මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/4ad3923a.json)
+
+---
+
+### CPL තරගාවලියෙන් වනිඳු හා නුවන් තුෂාර ඉවතට
+
+*2024-08-10 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199785) · `si`
+
+බ.ඉ. කොදෙව් දූපත් සමූහයේ පැවැත්වෙන ප්‍රධානම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය වන කැරිබියානු ප්‍රිමියර් ලීගය (CPL) වෙනුවෙන් ක්‍රීඩාකිරීමේ අවස්ථාව ශ්‍රී ලංකා ක්‍රීඩකයින් දෙපළක් වන වනිඳු හසරංග සහ නුවන් තුෂාරට අහිමිවී ඇත.
+
+මෙවර කැරිබියානු ප්‍රිමියර් ලීගය මේ මස අවසානයේදී ආරම්භවීමට නියමිතව ඇති අතර, එහිදී ඔවුන් දෙදෙනාම St Kitts & Nevis Patriots කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කිරීමට නියමිතව තිබුණි.
+
+කෙසේ නමුත් ඉන්දියාවට එරෙහිව අවසන්වූ එක්දින විස්සයි 20 තරගාවලියේදී මෙම ක්‍රීඩකයන් දෙදෙනාම ආබාධයන්ට ලක් වුණි.
+
+ඉන් නුවන් තුෂාරට ඇඟිල්ලේ ආබාධයක් හේතුවෙන් සමස්ත තරගාවලියම අහිමි වූ අතර,  හසරංගට එක්දින තරගාවලියේ දෙවැනි හා තෙවැනි තරග අහිමි විය.
+
+ඒ අනුව හසරංග හා තුෂාර වෙනුවට දකුණු අප්‍රිකානු ක්‍රීඩක දෙපළක් වන Tabraiz Shamsi හා Anrich Nortje කැඳවීමට ශා. කිට්ස් කණ්ඩායමේ පාලනාධිකාරිය තීරණය කර ඇත.
+
+ඔවුන් දෙදෙනාගෙන් ෂම්සි මීට පෙරද කැරිබියානු ප්‍රිමියර් ලීගය ක්‍රීඩාකර ඇති වුවත්, නොකියාගේ පළමු අද්දැකීම මෙය වනු ඇත.
+
+◼️
+
+[Data](articles/6360c056.json)
+
+---
+
+### Powerful earthquake again in Japan
 
 *2024-08-10 16:20:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-மீண்டும்-சக்திவாய்ந்த-நிலநடுக்கம்/50-341914) · `ta`
 
-ஜப்பானின் மியாசாகியில் ஏற்கெனவே 6.9, 7.1 ரிக்டர் அளவில் இருமுறை சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டிருந்தது.
+A powerful earthquake hit Japan's Miyazaki, measuring 6.9 and then 7.1 in magnitude. A tsunami warning was issued but later lifted.
 
-ஜப்பானில் நிலநடுக்கம் ஏற்பட்டதை அடுத்து சுனாமி எச்சரிக்கையும் விடப்பட்டு திரும்ப பெறப்பட்டமை குறிப்பிடத்தக்கது. R
+🟩
+
+The 6.9 and 7.1 magnitude earthquake struck twice in Japan's Miyazagi.
+
+The tsunami warning was withdrawn after the earthquake in Japan. Remble
 
 ◼️
 
 [Data](articles/d681d58f.json)
+
+[Extended Data](ext_articles/d681d58f.ext.json)
 
 ---
 
@@ -62,31 +104,39 @@ Meanwhile, Rajapaksa has stated during the meeting that he intends to hold discu
 
 [Data](articles/bf65a8cb.json)
 
+[Extended Data](ext_articles/bf65a8cb.ext.json)
+
 ---
 
-### මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍ය අදින් ඇරඹෙයි
+### Festivals of the historic Sri Dalada Perahera in Kandy begin today
 
 *2024-08-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199784) · `si`
 
-මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍ය අද (10) ආරම්භ වෙයි.
+The historic Sri Dalada Perahera in Kandy starts today, featuring a grand procession including 40 elephants and 20 dance teams. The event, significant to Sri Lanka's culture, attracts locals and foreigners alike, with enhanced police security measures in place. The festivities continue through August 14th, culminating with the Randoli Perahera on the 15th.
 
-ඒ අනුව ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහර අද පස්වරු 6.06ට යෙදෙන සුබ මොහොතින් වීථී සංචාරය කිරීමට නියමිතය.
+🟩
 
-ශ්‍රී දළදා මාලිගාව සහ සතර මහා දේවාල මගින් සංවිධානය කරනු ලබන ඇසළ පෙරහර මංගල්‍යය මෙරට සංස්කෘතියේ වැදගත් අංගයකි.
+The austerity of the historic Sri Dalada Perahera of Kandy begins today.
 
-පෙරහැර මංගල්‍යයට වෙනුවෙන් කප් සිටුවීමෙන් අනතුරුව නාථ, පත්තිනි, විෂ්ණු , කතරගම යන සිව්මහා දේවාලයන්හි අභ්‍යන්තර පෙරහැර පැවැත්වුණු අතර එහි 5 වන පෙරහැර එනම් අවසන් අභ්‍යන්තර පෙරහර ඊයේ රාත්‍රියේ විථී සංචාරය කෙරුණි.
+Accordingly, the first potlight Perahera will visit the streets at 6.06 pm today.
 
-අභ්‍යන්තර පෙරහර පැවැත්වීමෙන් අනතුරුව බෞද්ධ සැදැහැවතුන්ගේ මුදුන් මල්කඩ වන මහනුවර ඓතිහාසික ශ්‍රී දළදා මාලිගාවේ ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද රාත්‍රියේ මෙලෙස වීථී සංචාරය කෙරෙයි.
+The Esala Perahera of Sri Dalada Maligawa and the Four Satarasala Maha Devalaya is an important part of the culture of Sri Lanka.
 
-කුඹල් පෙරහර සඳහා අලි ඇතුන් 40 ක් එක් කර ඇති අතර නැටුම් කණ්ඩායම් 20ක් ද ඊට සහභාගී වෙයි.
+After planting for the Perahera, the internal procession of Nathi, Pattini, Vishnu, Kataragama, Kataragama, Kataragama.
 
-මෙවරත් පෙරහර නැරඹීම සඳහා අද උදෑසන සිටම දෙස් විදෙස් විශාල පිරිසක් පැමිණ සිටි බව වාර්තා විය.
+After the inner procession, the first Kumbal Perahera of the Esala Perahera of the Historic Sri Dalada Maligawa, Kandy after conducting the inner procession, the first pottery at the Esala Perahera of the Esala Perahera of the Kandy Dalada Maligawa.
 
-පැමිණෙන සැදැහැවතුන්ගේ ආරක්ෂාව වෙනුවෙන් පොලීසියෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ද ක්‍රියාත්මක කර තිබේ.
+40 elephants have been added to the Kumbal Perahera and 20 dance teams attending.
+
+It was reported that a large number of local and foreign were present at the time of the Perahera.
+
+Police have also implemented a special security program for the safety of the coming sales.
 
 ...
 
 [Data](articles/e15cb4d9.json)
+
+[Extended Data](ext_articles/e15cb4d9.ext.json)
 
 ---
 
@@ -2181,61 +2231,5 @@ However, Britain has won 14 gold medals, and the number of silver medals they wo
 [Data](articles/6be0acd4.json)
 
 [Extended Data](ext_articles/6be0acd4.ext.json)
-
----
-
-### Hunger is non -party -the president
-
-*2024-08-09 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190703) · `ta`
-
-It seems like you've shared a detailed narrative focusing on the importance of unity, leadership, and the role of women in shaping the future of a country, possibly referencing current events or historical context. How can I assist you further with this information? Are you looking for analysis, synthesis, or perhaps guidance on how to proceed with a specific task related to this content?
-
-🟩
-
-President Ranil Wickremesinghe, who belongs to any party, has asked all women in Sri Lanka to reduce the burden of the people and build a strong economy for the next generation.
-
-The President said that no one should forget the suffering suffered by the mothers of the country, without being able to provide food on the day, and that the people of this country will not forget that the leaders who speak patriotism and the suffering of the people today are unable to face the challenge.
-
-President Ranil Wickremesinghe said this while addressing the women's conference held at the Sri Lanka Exhibition and Hall in Colombo today (09) under the theme "Women Our Strength". The meeting was attended by a large number of major women's organizations and party branch associations across the country, regardless of the party.
-
-Representatives of women's organizations have pledged their full support to President Ranil Wickremesinghe's plan that will stabilize the economy of the country and make progress.
-
-...
-
-[Data](articles/00d20b36.json)
-
-[Extended Data](ext_articles/00d20b36.ext.json)
-
----
-
-### Passport varies in October
-
-*2024-08-09 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199762) · `si`
-
-In October, the Defense Minister announced a daily limit of 1,000 air travelers due to passport delays. He mentioned the issuance of e-passports starting this month, citing a delay in processing by the previous service provider. The new system aims to streamline passport issuance, with a focus on efficiency and cost-effectiveness. However, concerns were raised about the reduction in justice operations and the direct involvement of the IGP, which some believe has negatively impacted the situation.
-
-🟩
-
-The Minister of Defense Minister Tiran Alles says that only 1000 aircraholders per day from October.
-
-Speaking at a media briefing in Colombo today (09), the minister said that the e-lapse license will be issued from October.
-
-"23 years of the same provider ordered again. This time came back again. I told you to call tenders.
-
-Accordingly a company received the tender. About two months late, by the law in Sri Lanka, do that work.  ඒ ප්‍රමාදය තමයි ප්‍රශ්නයක් වුණේ. That is why the pasoport was to be restricted.
-
-We will issue 900 per day. But there is a sudden eye on the other.
-
-23% of the airline permits so far. The other passport has not been used.
-
-If I need to ask the people only if it is essential, take these two months of passport only. Or a new passport is in October.
-
-We called the tender e - passport together. Paid $ 5.89 to the old book. The new airline license will be $ 5.5 $ 5.5.
-
-...
-
-[Data](articles/e7a41421.json)
-
-[Extended Data](ext_articles/e7a41421.ext.json)
 
 ---

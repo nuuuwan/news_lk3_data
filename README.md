@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 08:15:02**
+As of **2024-08-10 08:25:12**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,937 (100.0%) of 39,939 articles have been extended.
+39,939 (100.0%) of 39,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### මැතිවරණ කොමිෂන් සභා වෙබ් අඩවියට සමාන තවත් වෙබ් අඩවියක්
+### Another site similar to the Electoral Commission website
 
 *2024-08-10 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199771) · `si`
 
-මැතිවරණ කොමිෂන් සභාවේ වෙබ් අඩවියට සමාන ව්‍යාජ වෙබ් අඩවියක් සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇති බව පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසා සිටියි.
+An investigation is underway into a fake website resembling the Election Commission's official site, as reported by the Computer Emergency Response Team. Senior Information Security Engineer Warranunagala filed a complaint with the CID about this issue. The Elections Commission announced that the deadline for postal voting applications for the presidential election concluded at midnight yesterday, despite initial plans to extend it.
 
-එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණගල මහතා සඳහන් කළේ, මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවටද පැමිණිල්ලක් ඉදිරිපත් කර ඇති බවයි.
+🟩
 
-මේ අතර ජනාධිපතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාර ගැනීමේ කාලය ඊයේ (09) මධ්‍යම රාත්‍රියෙන් අවසන් වූ බව මැතිවරණ කොමිෂන් සභාව පවසා සිටියි.
+The Computer Emergency Response Team says that an investigation has been launched into a fake website similar to the Election Commission website.
 
-අදාළ කාලය පසුගිය 07 වනදා මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතව තිබුණ ද, තැපෑලෙන් සිදුවිය හැකි ප්‍රමාද වීම් සහ කොමිෂන් සභාව වෙත සිදුකර තිබූ ඉල්ලීම් සැලකිල්ලට ගනිමින් අයදුම්පත් භාර ගැනීමේ කාලය දීර්ඝ කිරීමට පියවර ගෙන තිබුණි.
+Senior Information Security Engineers Warranunagala said that a complaint has been lodged with the CID regarding the matter.
+
+Meanwhile, the Elections Commission has said that the period of postal voting applications for the presidential election has ended up midnight yesterday (09).
+
+The period was due to end the last night and the delays carried out to the Commission to be extended to extend the application of applications.
 
 ◼️
 
 [Data](articles/f978f3c4.json)
 
+[Extended Data](ext_articles/f978f3c4.ext.json)
+
 ---
 
-### මත්පැන් බෝතලයේ ආරක්ෂිත ස්ටිකරයේ වෙනසක්
+### A change in the safety sticker of the source of liquor
 
 *2024-08-10 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199770) · `si`
 
-මත්පැන් බෝතල් සඳහා යොදා ගන්නා ආරක්ෂිත ස්ටිකරය ඔක්තෝබර් 01 වනදා සිට වෙනස් කිරීමට සුරාබදු දෙපාර්තමේන්තුව තීරණය කර ඇත.
+From 1st October, the Excise Department will replace the existing liquor bottle safety stickers due to their shortcomings. Commissioner General of Excise M.Gunasiri announced this change, aiming to improve the system.
 
-සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා සඳහන් කර ඇත්තේ, නව ක්‍රමවේදය මඟින් දැනට භාවිත වන ස්ටිකරයේ පවතින දුර්වලතා මඟහැරී යනු ඇති බවයි.
+🟩
+
+The Excise Department has decided to change the safety sticker for liquor bottles from 1st October.
+
+Commissioner General of Excise M.. J. Mr. Gunasiri said that the new system would be avoided by the weaknesses of the current sticker.
 
 ◼️
 
 [Data](articles/390030f2.json)
+
+[Extended Data](ext_articles/390030f2.ext.json)
 
 ---
 

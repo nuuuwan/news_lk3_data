@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 13:55:33**
+As of **2024-08-10 14:07:23**
 
 ## Newspaper Stats
 
-*Scraped **39,975** Articles*
+*Scraped **39,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,666
-adaderanalk | 4,650
+adalk | 3,667
+adaderanalk | 4,652
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,044
 virakesarilk | 6,337
-adaderanasinhalalk | 6,782
+adaderanasinhalalk | 6,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,975 (100.0%) of 39,975 articles have been extended.
+39,975 (100.0%) of 39,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Person arrested at BIA over attempt to smuggle live fish and turtles
+
+*2024-08-10 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101132/person-arrested-at-bia-over-attempt-to-smuggle-live-fish-and-turtles-) · `en`
+
+Sri Lanka Customs has apprehended a passenger who arrived in the island along with 365 live ornamental fish and turtles to be sold within the country.
+
+The passenger has been apprehended at the Bandaranaike International Airport (BIA) in Katunayake by the Sri Lanka Customs Biodiversity Protection Unit, early this morning (10).
+
+The arrested individual has been identified as a 50-year-old businessman residing in the Thalawathugoda area, Ada Derana reporter said.
+
+However, the passenger who arrived in Sri Lanka onboard a Singapore Airlines flight from Singapore has claimed that the fish and turtles were brought for one of his friends.
+
+The live animals include Asian Arowana, Cycad, Catfish and turtles, Sri Lanka Customs said.
+
+The arrest has been carried out based on intelligence received by the officers of Sri Lanka Customs Biodiversity Protection Unit and the officials have initiated further investigations regarding the incident.
+
+◼️
+
+[Data](articles/b23c273a.json)
+
+---
+
+### වතු සේවකයින්ට රු 1700 ගෙවන්න සමාගම් 7ක් එකඟ වෙයි
+
+*2024-08-10 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199776) · `si`
+
+වතු සේවකයන් සඳහා රුපියල් 1700ක දෛනික වැටුප ගෙවීමට වතු සමාගම් 7ක් එකගවී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (10) මහනුවර දිස්ත්‍රික් වතු කම්කරු සංගම් සහ තරුණ නායක රැස්වීම අමතමිනි.
+
+කම්කරු අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් එළඹෙන සඳුදා වැටුප් මණ්ඩලය කැඳවා මේ සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එම තීරණය ක්‍රියාත්මක කිරීම සඳහා අවශ්‍ය නම් විශේෂ නීති හඳුන්වා දෙනු ඇති බවද ජනාධිපති මාධ්‍ය අංශය තවදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/28232044.json)
+
+---
+
+### Bangladesh Chief Justice agrees to quit after protesters issue one-hour ultimatum
+
+*2024-08-10 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101131/bangladesh-chief-justice-agrees-to-quit-after-protesters-issue-one-hour-ultimatum) · `en`
+
+In a fresh outbreak of stir in Bangladesh, protesters have gathered on the Supreme Court premises and have issued an ultimatum to the Chief Justice Obaidul Hassan and judges of the Appellate Division to resign by 1 pm on Saturday.
+
+Otherwise, the protesters threatened to besiege their residences, Hasnat Abdullah, one of the coordinators of the Anti-Discrimination Student Movement, declared from the SC premises.
+
+Earlier in the morning, Asif Mahmud, the adviser of Youth and Sports Ministry of the Interim government, posted on the Facebook, demanding unconditional resignation of Chief Justice Obaidul Hassan and stop the full court meeting, The Daily Star reported.
+
+The chief justice of Bangladesh’s top court said Saturday he had agreed to resign “in principle” after an ultimatum to do so from protesters, AFP reported quoting broadcaster Jamuna TV.
+
+...
+
+[Data](articles/3380c36b.json)
+
+---
 
 ### Abuse in Ambulance Cart;Arrests
 
@@ -153,6 +211,20 @@ So again he is said to be more likely to be the coach of the Rajasthan team. Rem
 [Data](articles/81460dde.json)
 
 [Extended Data](ext_articles/81460dde.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ දක්ෂ ක්‍රීඩකයන් දෙදෙනෙකුට CPL අහිමි වෙයි
+
+*2024-08-10 12:07:17* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාවේ-දක්ෂ-ක්‍රීඩකයන්-දෙදෙනෙකුට-CPL-අහිමි-වෙයි/9-411288) · `si`
+
+ශ්‍රී ලංකා දඟ පන්දු යවන ක්‍රීඩක වනිඳු හසරංගට සහ වේග පන්දු යවන ක්‍රීඩක නුවන් තුෂාරට 2024 කැරිබියන් ප්‍රිමියර් ලීග් (CPL) තරගාවලියට ක්‍රීඩා කිරීමට අවස්ථාව අහිමිව තිබේ.
+
+සංචාරක ඉන්දීය කණ්ඩායමත් සමග පසුගියදා පැවති තරගාවලිය අතරතුර ඔවුන් දෙදෙනාට මෙලෙස සී.පී.එල් තරගාවලියට සහභාගී වීම අහිමි වී ඇත.
+
+◼️
+
+[Data](articles/cb695fb9.json)
 
 ---
 
@@ -2163,99 +2235,5 @@ Some people question me why I am presenting as a remarkable candidate for the pr
 [Data](articles/e422f13d.json)
 
 [Extended Data](ext_articles/e422f13d.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger, bond yields up
-
-*2024-08-09 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-up-176222/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 300.00/20 to the US dollar Friday, from 300.80/301.05 a day earlier dealers said, while bond yields were up.
-
-Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed at 11.05/10 percent, up from 10.80/11.05 percent.
-
-A bond maturing on 15.12.2027 closed at 12.10/20 percent, up from 11.95/12.10 percent.
-
-A bond maturing on 01.07.2028 closed at 12.50/60 percent up from 12.45/55 percent.
-
-A bond maturing on 15.09.2029 closed at 12.60.70 percent, up from 12.50/70 percent. (Colombo/Aug09/2024)
-
-◼️
-
-[Data](articles/c49b74b5.json)
-
-[Extended Data](ext_articles/c49b74b5.ext.json)
-
----
-
-### Two others to fight President
-
-*2024-08-09 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199760) · `si`
-
-Priyantha Wickremesinghe, a trade union leader, has funded the New LSSP party to run in the upcoming presidential election. He was also present at the Rajagiriya election office where he posted bail earlier in the day. Another candidate, Keerthi Wickremaratne, has also made a deposit to participate in the race.
-
-🟩
-
-Trade union leader Priyantha Wickremesinghe has deposited money for the New LSSP to contest the presidential election.
-
-At the election office in Rajagiriya, he had bailed the bail afternoon, "the Ada Derana reporter said.
-
-Our atologist Keerthi Wickremaratne has deposited today.
-
-◼️
-
-[Data](articles/443fa858.json)
-
-[Extended Data](ext_articles/443fa858.ext.json)
-
----
-
-### Speaker signing the “Public Finance Management” Bill
-
-*2024-08-09 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190684) · `ta`
-
-On August 8, 2024, Speaker Mahinda Yapa Abeywardena signed the "Public Finance Management" Bill into law as the Public Finance Management Act No. 44. The bill, introduced on May 22, 2024, and amended before passage on July 25, does not require a referendum.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena said that according to Article 79 of the Constitution of the Democratic Socialist Republic of Sri Lanka, on August 08, 2024, has signed and certified the "Public Finance Management" Bill.
-
-Accordingly, the Bill will be implemented as the Public Finance Management Act No. 44 in 2024, August 08, 2024.
-
-The Public Finance Management Bill was presented in Parliament on May 22, 2024 and was passed with amendments without a referendum on July 25.
-
-◼️
-
-[Data](articles/fc9add6f.json)
-
-[Extended Data](ext_articles/fc9add6f.ext.json)
-
----
-
-### Mia Kalifa in the temple banner
-
-*2024-08-09 16:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோவில்-பதாகையில்-மியா-கலிஃபா/175-341871) · `ta`
-
-During the Adi month, locals bring milk to a temple in Kanchipuram. Festival banners feature local youths and celebrities. However, a banner depicting Mia Khalifa holding a milk pitcher sparked controversy due to her adult film past, leading to protests and its removal by the police.
-
-🟩
-
-It is customary for the people of the town to take milk during the month of Adi to a temple in Kuruvimalai area in Kanchipuram.
-
-The festival banners have decorated the town and the youth of the area have seen the beauty of their photos and the photos of the screen stars on the banners.
-
-At this juncture, in a temple banner, famous glamorous actress Mia Kalifa has depicted the pitcher of milk.
-
-With a good reception from one party, another side is a photo of a porn actress in the temple festival banner?They protested.
-
-The information was revealed to the police and the police went to the spot and removed the banner.
-
-◼️
-
-[Data](articles/d3fbc994.json)
-
-[Extended Data](ext_articles/d3fbc994.ext.json)
 
 ---

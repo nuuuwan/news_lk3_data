@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 12:36:21**
+As of **2024-08-10 12:53:41**
 
 ## Newspaper Stats
 
-*Scraped **39,968** Articles*
+*Scraped **39,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,666
-adaderanalk | 4,648
+adaderanalk | 4,649
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,040
+tamilmirrorlk | 5,043
 virakesarilk | 6,337
 adaderanasinhalalk | 6,781
 
@@ -26,23 +26,101 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,967 (100.0%) of 39,968 articles have been extended.
+39,968 (100.0%) of 39,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### බ්‍රසීලයේ ගුවන් යානයක් කඩා වැටෙයි - ගමන් ගත් 61 දෙනාම මරුට
+### Kandy Esala Perahera to take to the streets tonight
+
+*2024-08-10 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101129/kandy-esala-perahera-to-take-to-the-streets-tonight) · `en`
+
+The Sri Dalada Esala Perahera of the Scared Temple of Tooth Relic in Kandy will commence with the first Kumbal Perahera parading the streets this evening (Aug 10).
+
+The Kumbal Perahera is slated to be held until August 14, while the first Randoli Perahera will begin on 15th, and parade the streets for five days until August 19.
+
+The Kandy Esala festival will draw to an end following the water-cutting ceremony at the Mahaweli River in Getambe on August 31.
+
+This year’s Esala Festival will officially come to an end after the Nilames together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela present the Sannasa (Scroll) to the President.
+
+The ‘Kap Situweema’ ceremony of Kandy Esala Perahera was held in the morning of August 05, officially declaring the commencement of the procession and was followed by 5-day internal procession of ‘Satara Maha Dewalayas’.
+
+...
+
+[Data](articles/d3ff431f.json)
+
+---
+
+### குமார் சங்ககார விலகல்?
+
+*2024-08-10 12:10:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-சங்ககார-விலகல்/175-341906) · `ta`
+
+ராஜஸ்தான் ரோயல்ஸ் அணியின் தலைமை பயிற்சியாளரான குமார் சங்ககார அந்த பதவியில் இருந்து விலக உள்ளதாகவும் அவருக்கு பதிலாக இந்திய அணியின் முன்னாள் பயிற்சியாளரான ராகுல் டிராவிட் அவரது பதவிக்கு வர உள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+இந்திய அணியின் பயிற்சியாளர் பதவியில் இருந்து விலகிய ராகுல் டிராவிட் ஏற்கனவே ஐ.பி.எல் தொடரில் ராஜஸ்தான் அணியின் பயிற்சியாளராக இருந்துள்ளார்.
+
+எனவே மீண்டும் அவர் ராஜஸ்தான் அணியின் பயிற்சியாளராக வர அதிக வாய்ப்புள்ளதாக கூறப்படுகிறது. R
+
+◼️
+
+[Data](articles/81460dde.json)
+
+---
+
+### Aircraft collapses in Brazil - 61 killed
 
 *2024-08-10 11:52:01* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රසීලයේ-ගුවන්-යානයක්-කඩා-වැටෙයි---ගමන්-ගත්-61-දෙනාම-මරුට/11-411287) · `si`
 
-බ්‍රසීලයේ සාඕ පවුලෝ ප්‍රාන්තයේදී ගුවන් යානයක් කඩා වැටීමෙන් එහි සිටි පුද්ගලයන් 61 දෙනාම ජීවිතක්ෂයට පත්වී තිබේ.
+In Brazil, a plane crash resulted in the tragic loss of 61 lives, including 57 passengers and crew members aboard the Boeing 737-500, along with four others.
 
-ATR 72-500 යානයේ මගීන් 57 දෙනෙකු සහ කාර්ය මණ්ඩලය හතර දෙනෙකු සිට ඇති අතර දිවි ගලවා ගත් කිසිවෙකු නොමැති බව එරට ප්‍රාදේශීය බලධාරීන් සඳහන් කර ඇත.
+🟩
+
+At 61 persons were killed in the collapse of an aircraft in the state of Brazil.
+
+A. 57 passengers and staff were from the air 72-500 and four passengers.
 
 ◼️
 
 [Data](articles/1458f4f2.json)
+
+[Extended Data](ext_articles/1458f4f2.ext.json)
+
+---
+
+### இஸ்ரேல் தாக்குதலில்  பலஸ்தீனர்கள் 100 பேர் பரிதாப பலி
+
+*2024-08-10 11:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-தாக்குதலில்-பலஸ்தீனர்கள்-100-பேர்-பரிதாப-பலி/50-341905) · `ta`
+
+கிழக்கு காசாவின் தராஜ் மாவட்டத்தில் உள்ள பள்ளி ஒன்றின் மீது இஸ்ரேல் வான்வழி தாக்குதல் நடத்தியதில், 100 பேர் உயிரிழந்த நிலையில், 50க்கும் மேற்பட்டோர் காயமுற்றனர்.
+
+மேற்காசிய நாடான இஸ்ரேலுக்கும், பலஸ்தீனத்தின் காசா பகுதியை ஆளும் ஹமாஸ் அமைப்பினருக்கும் இடையே, 2023 அக்., 7 முதல் மோதல் நடக்கிறது. காசாவில் இஸ்ரேல் படைகள் நடத்திய தாக்குதலில், பெண்கள், குழந்தைகள் உட்பட, 30,000க்கும் அதிகமானோர் கொல்லப்பட்டுள்ளனர். 'ஹமாஸ் பயங்கரவாதிகளை ஒழிக்கும் வரை போர் தொடரும்' என, இஸ்ரேல் பிரதமர் நெதன்யாகு திட்டவட்டமாக தெரிவித்து விட்டார்.
+
+இந்நிலையில், இன்று (10) கிழக்கு காசாவின் தராஜ் மாவட்டத்தில் உள்ள ஒரு பள்ளியின் மீது இஸ்ரேல் வான்வழி தாக்குதல் நடத்தியதில் 100 பேர் பலியாகினர். 50க்கும் மேற்பட்டோர் பலத்த காயமுற்று மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+பள்ளியில் ஏராளமான மக்கள் தங்க வைக்கப்பட்டுள்ளதை தெரிந்து, இஸ்ரேல் தாக்குதல் நடத்தியுள்ளது என ஹமாஸ் படையினர் குற்றம்சாட்டினர்.S
+
+◼️
+
+[Data](articles/cd8c5879.json)
+
+---
+
+### அரசு மருத்துவமனையில்  கடத்தப்பட்ட குழந்தை மீட்பு
+
+*2024-08-10 11:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-மருத்துவமனையில்-கடத்தப்பட்ட-குழந்தை-மீட்பு/175-341904) · `ta`
+
+சேலம் அரசு மருத்துவமனையில் பிறந்து 5 நாட்களேயான ஆண் குழந்தையை கடத்திச் சென்ற பெண்ணை தனிப்படை பொலிஸார் கைது செய்தனர்.
+
+இதுபற்றி மேலும் தெரியவருகையில், ஈரோடு மாவட்டம் பள்ளிபாளையம் பகுதியைச் சேர்ந்த தங்கதுரை – வெண்ணிலா தம்பதியினருக்கு கடந்த 6 நாட்களுக்கு முன்பு சேலம் அரசு மோகன் குமாரமங்கலம் அரசு  மருத்துவக் கல்லூரி மருத்துவமனையில் ஆண் குழந்தை பிறந்துள்ளது.
+
+இந்நிலையில் நேற்று 25 வயது மதிக்கத்தக்க பெண் ஒருவர், மகப்பேறு சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த வெண்ணிலாவிடம் பேச்சு கொடுத்தவாறு, குழந்தையின் கண்கள் மஞ்சளாக இருப்பதாக கூறி கண் மருத்துவரை பார்க்க அழைத்துச் சென்றுள்ளார்.
+
+பின் அவரோடு வந்த வெண்ணிலாவின் பெற்றோரிடம் பேச்சுக்கொடுத்து அவர்களின் கவனத்தை திசை திருப்பி விட்டு, அப்பெண் குழந்தையை கடத்திச் சென்றுள்ளார். இதுகுறித்து பெற்றோர் அளித்த புகாரின் பேரில் சேலம் அரசு மருத்துவமனை காவல் நிலைய பொலிஸார் தீவிர விசாரணை மேற்கொண்டு வந்தனர்.
+
+...
+
+[Data](articles/d22ed2bd.json)
 
 ---
 
@@ -2141,105 +2219,5 @@ Meanwhile, Sarath Fonseka said that the country could not improve if the fraudul
 [Data](articles/9c6fba81.json)
 
 [Extended Data](ext_articles/9c6fba81.ext.json)
-
----
-
-### Colombo Stock Exchange Forum with Sri Lanka Betterns and Transaction Commission
-
-*2024-08-09 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190656) · `ta`
-
-The Colombo Stock Exchange (CSE) hosted an investor forum in Matara, aiming to boost investment awareness and safety. Over 200 attendees learned about investing basics, market opportunities, and safety measures from experts like Bimal Ganesha, EPAA Nimal Kumarasinghe, and Sashika Wickremaratne. The event also featured discussions on unit trust investments and mobile trading, offering participants insights into various investment avenues. The CSE plans to organize similar forums in Colombo and Ambalantota by 2024, emphasizing the importance of financial literacy and investor education.
-
-🟩
-
-The Grand Navro Hotel recently conducted an investor forum in Matara in Matara, with the Colombo Stock Exchange (CPP) with the Colombo Stock Exchange (CPP).
-
-The site was organized with the aim of promoting awareness on investment opportunities and investor safety on the importance of investor education.
-
-The field attracted more than 200 participants and provided valuable intelligence to the potential and practical investors in the region.
-
-In this field,. Executive Officer of the Matara Branch, Mr.. Bimal Ganesha gave an introduction to investing in the process of investing for the community and the benefits of investing in the stock market.
-
-EPAA. Nimal Kumarasinghe, Manager of Foreign Relations,. He enlightened investors on what the role was and explained the techniques of safety.
-
-Next, the CP. Senior Executive Officer of the Colombo Stock Exchange, Shanika Ramanayake, conducted a session to create an awareness in the mobile processor.
-
-...
-
-[Data](articles/e8318121.json)
-
-[Extended Data](ext_articles/e8318121.ext.json)
-
----
-
-### Two vacancies: IMC Action Resolution
-
-*2024-08-09 16:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-வெற்றிடங்கள்-ஐ-ம-ச-அதிரடி-தீர்மானம்/175-341869) · `ta`
-
-The United People's Power decided not to appoint new MPs for vacant seats due to a discussion led by Sajith Premadasa, setting a precedent for other parties. This decision will remain in effect until after the presidential election, aiming to fill these vacancies post-election.
-
-🟩
-
-The United People's Power has decided not to appoint new MPs for vacant seats by vacant Harin Fernando and Manusha Nanayakkara.
-
-The decision was taken in a discussion held by Sajith Premadasa a few minutes ago. The resolution will be implemented until the presidential election is over.
-
-It is reported that despite the presidential election, the decision has been made to set a precedent for other parties.
-
-Accordingly, the United People's Power has decided to fill these vacancies after the presidential election.
-
-◼️
-
-[Data](articles/5bb9fd9a.json)
-
-[Extended Data](ext_articles/5bb9fd9a.ext.json)
-
----
-
-### Court of Assurance regarding Shani's safety
-
-*2024-08-09 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199759) · `si`
-
-Shani Abeysekara's security remains a concern, with the Supreme Court hearing his plea for enhanced protection due to ongoing threats. The Attorney General assured the court that additional measures would be in place until the 29th, including armed police officers for both his presence in court and during travels. However, the petitioner's counsel argued that current arrangements were insufficient, highlighting the need for more robust security protocols.
-
-🟩
-
-The Attorney General told the Supreme Court today that the security of the former Director of the Criminal Investigation Department Shani Abeysekara will continue to be interrupted until 29th.
-
-The State Counsel appearing on behalf of the Attorney General, the Attorney General was called for today when a fundamental rights petition filed by Mr. Shani Abeysekara for the order to issue a decree.
-
-The petition was considered in front of the three-member Supreme Court Bench comprising Chief Justice Jayantha Jayasuriya, Vijith Malalgoda and Mustratu Fernando.
-
-President's Counsel Upul Jayasuriya appearing on behalf of the petitioner Shani Shina Abeysekara, it is said that it was reported that the police team was presented by the police team's report to protect his client..
-
-Accordingly, the security he has already provided is not sufficient.
-
-The State Counseling stated in court, two police officers have been deployed to protect him in court and four other officials have been deployed for travel.
-
-...
-
-[Data](articles/45516240.json)
-
-[Extended Data](ext_articles/45516240.ext.json)
-
----
-
-### 35 Indian fishermen arrested in Mannar seas
-
-*2024-08-09 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190679) · `ta`
-
-35 Indian fishermen were arrested and four boats seized by the Sri Lankan navy near Mannar for illegal fishing.
-
-🟩
-
-The Sri Lankan navy said that 35 Indian fishermen have been arrested on charges of fishing in the nearby seas of Mannar.
-
-Meanwhile, the Sri Lankan navy has also confiscated four boats used by Indian fishermen for fishing.
-
-◼️
-
-[Data](articles/6dce0cde.json)
-
-[Extended Data](ext_articles/6dce0cde.ext.json)
 
 ---

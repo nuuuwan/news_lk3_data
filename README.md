@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 01:55:17**
+As of **2024-08-11 02:06:09**
 
 ## Newspaper Stats
 
-*Scraped **40,033** Articles*
+*Scraped **40,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,672
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,056
+tamilmirrorlk | 5,057
 virakesarilk | 6,347
 adaderanasinhalalk | 6,801
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,033 (100.0%) of 40,033 articles have been extended.
+40,033 (100.0%) of 40,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### வடிவேல் சுரேஷ் ஜனாதிபதிக்கு ஆதரவு
+
+*2024-08-11 01:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷ்-ஜனாதிபதிக்கு-ஆதரவு/175-341934) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தேசிய தோட்டத் தொழிலாளர் சங்கம் ஆதரவளிக்கும் என அந்த சங்கத்தின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான வடிவேல் சுரேஷ் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு பெருந்தோட்ட மக்கள் உறுதுணையாக இருப்பார்கள் எனவும் வடிவேல் சுரேஷ் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/1c3544f7.json)
+
+---
 
 ### Talik Flag that caused controversy - temple administration report
 
@@ -2299,21 +2313,5 @@ However, Sri Lanka is also among the world’s most vulnerable countries to clim
 [Data](articles/047eeae9.json)
 
 [Extended Data](ext_articles/047eeae9.ext.json)
-
----
-
-### An observation on Muslim voters
-
-*2024-08-10 02:59:02* · [`dailyftlk`](https://www.ft.lk/columns/An-observation-on-Muslim-voters/4-765387) · `en`
-
-Will the Muslims rally behind the candidate promising to do away with the old system? – Pic by Shehan Gunasekara
-
-He has been in politics for a long time to understand the business mentality of these parvenus, and he knows that many of them would swing their allegiance to any side at the right price. That allegiance was assumed to be enough to draw Muslim votes in the past, because those leaders with support from religious clerics ruled over their respective constituencies like fiefdoms. This will not work anymore, because of the new awakening. AKD’s call for a new political culture and NPP’s commitment for a clean and accountable government are the primary ingredients of the recipe for a new system. A new generation of voters are rallying behind AKD, island wide. Muslims should not isolate themselves and stand aloof from this memorable shift
-
-...
-
-[Data](articles/f206b5e8.json)
-
-[Extended Data](ext_articles/f206b5e8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 21:06:09**
+As of **2024-08-10 21:21:07**
 
 ## Newspaper Stats
 
-*Scraped **40,019** Articles*
+*Scraped **40,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,672
 adaderanalk | 4,656
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
-virakesarilk | 6,344
+virakesarilk | 6,347
 adaderanasinhalalk | 6,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,018 (100.0%) of 40,019 articles have been extended.
+40,019 (100.0%) of 40,022 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,15 +124,21 @@ Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunitio
 
 ---
 
-### අප්පච්චි මලෝ කිව්ව විජයමුණි රනිල්ගේ සහයට එයි
+### Father, Father, Wijayamuni wins Vijayamuni Vijayamuni
 
 *2024-08-10 19:30:22* · [`adalk`](https://www.ada.lk/breaking_news/අප්පච්චි-මලෝ-කිව්ව-විජයමුණි-රනිල්ගේ-සහයට-එයි/11-411294) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී විජිත් විජයමුණි සොයිසා මහතා ඉදිරි ජනාධිපතිවරණයේදී වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
+Former MP Vijith Wijayamuni Soyza will back Ranil Wickremesinghe in the upcoming presidential election.
+
+🟩
+
+Former MP Vijith Wijayamuni Soyza has decided to support Ranil Wickremesinghe at the next presidential election.
 
 ◼️
 
 [Data](articles/59dec649.json)
+
+[Extended Data](ext_articles/59dec649.ext.json)
 
 ---
 
@@ -402,6 +408,22 @@ Moreover, the public has taken the matter to the attention of Governor Senthil T
 
 ---
 
+### தோட்டத் தொழிலாளர்களுக்கான சேமலாப நிதி அடுத்த வருடம் முதல் வழங்கப்படும் - கண்டியில் ஜனாதிபதி
+
+*2024-08-10 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190764) · `ta`
+
+தோட்ட தொழிலாளர்களின் ஒரு நாள் சம்ளத்தை 1,700 ரூபாயாக அதிகரிப்பதற்கு எடுக்கப்பட்ட தீர்மானத்தை செயற்படுத்த 07 பெருந்தோட்ட நிறுவனங்கள் இணங்கியுள்ளதாகவும், எதிர்வரும் திங்கட்கிழமை சம்பள நிர்ணயச் சபையை அழைத்துச் பேசி அந்த தீர்மானத்தை செயற்படுத்தத் தேவையான சட்டங்களை கொண்டுவர தயாராக இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+தோட்ட தொழிலாளர்களுக்கு வழங்கப்படாமலிருக்கும் சேமலாப நிதியை பெற்றுக்கொடுப்பதற்கான பணிகளை அடுத்த வருடத்திலிருந்து முன்னெடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இலங்கை தொழிலாளர் காங்கிரஸினால் ஏற்பாடு செய்யப்பட்ட கண்டி மாவட்ட தோட்டத் தொழிலாளர் தொழிற்சங்கங்கள் மற்றும் இளைஞர் தலைவர்களுடன் இன்று சனிக்கிழமை (10) கண்டி கரலிய மண்டபத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/8dac6d39.json)
+
+---
+
 ### New party to win Ranil
 
 *2024-08-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199787) · `si`
@@ -465,6 +487,22 @@ The deceased is Selvanayagam Bonifs Sydney Manifs Sydney Maniface, Narahenpita, 
 [Data](articles/4ad3923a.json)
 
 [Extended Data](ext_articles/4ad3923a.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் யாரை ஆதரிப்பது? - மக்களிடம் கருத்துக்கோருகிறது அகில இலங்கை மக்கள் காங்கிரஸ்
+
+*2024-08-10 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190761) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸ் ஜனாதிபதி தேர்தலில் நாம் யாரை ஆதரிக்க வேண்டும் என்பது தொடர்பாக வவுனியா மக்களின் கருத்தறிவிக்கான மக்கள் சந்திப்பானது புதிய சாளம்பைக்குளம் பள்ளிவாசல் முன்றலில் இன்று சனிக்கிழமை (10) இடம்பெற்றது.
+
+இதன்போது, பொதுமக்களிடம் அகில இலங்கை மக்கள் காங்கிரஸ் யாரை ஆதரிக்க வேண்டும் என்ற விடயம் தொடர்பாக மக்கள் பலரும் கருத்து தெரிவித்திருந்தனர்.
+
+கட்சியின் பிரதி தவிசாளர் கலாநிதி முத்து முகமதுவின் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் கட்சியின் தலைவரும் வன்னி பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் மற்றும் முன்னாள் உள்ளூராட்சி உறுப்பினர்கள், கட்சி ஆதரவாளர்கள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/9dc85e41.json)
 
 ---
 
@@ -565,6 +603,26 @@ Police have also implemented a special security program for the safety of the co
 [Data](articles/e15cb4d9.json)
 
 [Extended Data](ext_articles/e15cb4d9.ext.json)
+
+---
+
+### வெறுக்கப்பட்ட ஏதேச்சதிகாரியாக ஷேக் ஹசீனாவின் இறுதி நிமிடங்கள்..........
+
+*2024-08-10 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190755) · `ta`
+
+பங்களாதேசில் காணப்படும் வன்முறையை முடிவிற்கு கொண்டுவருமாறு பாதுகாப்பு படையினருக்கு ஷேக் ஹசீனா ஞாயிற்றுக்கிழமை அழைப்பு விடுத்தவேளை பிரதமராக தனது காலம் முடிவடைகின்றது என்பதை ஏற்றுக்கொள்ளும் மனோநிலையில் அவர் காணப்படவில்லை.
+
+ஆனால் அடுத்த சில மணிநேரங்களில் அவர் மக்கள் சக்தியால் அடித்துசெல்லப்பட்டார்.அவரது வெளியேற்றம் இவ்வளவு வேகமாக இடம்பெறும் என எவரும் எதிர்வுகூறியிருக்கமாட்டார்கள்.
+
+இறுதியில் பாதுகாப்பு தரப்பினரின் ஆலோசனையை விட அவரது குடும்பத்தினரின் ஆலோசனையே பங்களாதேசிலிருந்து அவரை வெளியேறச்செய்தது என அவரது மகன் பிபிசிக்கு தெரிவித்துள்ளார்.
+
+ஹசீனா மிகவும் சரியான தருணத்தில் அங்கிருந்து வெளியேறும் முடிவை எடுத்தார்-அவர் அங்கிருந்து தப்பியோடி சில மணிநேரத்தில் மக்கள் அவரது உத்தியோகபூர்வ இல்லத்திற்குள் நுழைந்தனர்.
+
+ஞாயிற்றுக்கிழமை காலையில் ஷேக்ஹசீனா தேசிய பாதுகாப்பு பேரவையின் கூட்டத்திற்கு அழைப்பு விடுத்திருந்தார்.அந்த சந்திப்பில் முப்படைகளின் தளபதிகளும்,பாதுகாப்பு அதிகாரிகளும் பொலிஸ் அதிகாரிகளும் கலந்துகொண்டனர்.அங்கு மனோநிலை சிறப்பானதாக காணப்படவில்லை.
+
+...
+
+[Data](articles/4e2efc3f.json)
 
 ---
 
@@ -2163,63 +2221,5 @@ In order to meet the most stringent modern standards, Ambewela Dairy Farms follo
 [Data](articles/f34d99de.json)
 
 [Extended Data](ext_articles/f34d99de.ext.json)
-
----
-
-### tuktukrental.com fosters community with plans to double fleet by year-end
-
-*2024-08-10 01:07:00* · [`islandlk`](http://island.lk/tuktukrental-com-fosters-community-with-plans-to-double-fleet-by-year-end/) · `en`
-
-Working with and supporting over 600 families.Celebrates tuktuk owners at Tuktuk Owners Conference.  Generated over USD 1.3 million income for local tuktuk owners until 2023.Announces expansion to Cambodia.
-
-Tuktukrental.com, a prominent social business revolutionizing the transportation sector in Sri Lanka, announced plans to expand its fleet to 1,000 tuktuks by the end of 2024. The company, whose aim is to support local tuktuk drivers, ran their annual Tuktuk Owners Conference.
-
-The event gathered over 600 tuktuk owners from across the country, company directors, management representatives, and key partners from Vega Innovations, Orient Insurance, local police authorities, and mechanical partners. Recognizing the hard work and invaluable contributions of the company’s suppliers, the event highlighted the community’s pivotal role in the company’s success.
-
-...
-
-[Data](articles/ef97550e.json)
-
-[Extended Data](ext_articles/ef97550e.ext.json)
-
----
-
-### People’s Bank offers sponsorship for Kandy Esela Perahera
-
-*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/peoples-bank-offers-sponsorship-for-kandy-esela-perahera/) · `en`
-
-People’s Bank has yet again come forward to sponsor the historical Kandy Esala Perahera.
-
-The sponsorship cheque of the People’s bank was handed over to Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa by Nalin Potthewela- Kandy Regional Manager of People’s Bank. Assistant Regional Manager Shameera Kumarapeli, Kandy Branch Senior Manager Prasanna Karunarathne were also present at the occasion.
-
-Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gratitude to People’s Bank for offering a sponsorship to strengthen this iconic cultural pageant which showcases and preserves invaluable customs and cultural practices.
-
-Ambewela delivers unmatched premium quality dairy products with latest technology and innovation
-
-Weighed down by uncertainties, bourse continues on its lacklustre amble
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/0d05eae1.json)
-
-[Extended Data](ext_articles/0d05eae1.ext.json)
-
----
-
-### NDB Bank collaborates with NEDA to empower SMEs
-
-*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/ndb-bank-collaborates-with-neda-to-empower-smes/) · `en`
-
-In a significant initiative to bolster the capabilities of Sri Lankan SMEs, the National Development Bank (NDB), in collaboration with the National Enterprise Development Authority (NEDA), has recently conducted a series of workshops as part of NEDA’s ” B500 Project” national endeavour. This programme is an ambitious effort aimed at nurturing 500 Sri Lankan brands and providing essential training and resources to elevate local enterprises.
-
-The workshops, held in Colombo and Kaluthara districts, focused on enhancing financial literacy, understanding current market trends, and leveraging digitalization for business growth. They aimed to equip SMEs with the knowledge and tools needed to thrive in a competitive market. The topics covered included “Financial Literacy and Current Market Trends,” “Digitalization for Business,” and “How to Win the Market,” offering a comprehensive overview of the critical skills and strategies required for success.
-
-...
-
-[Data](articles/b6525324.json)
-
-[Extended Data](ext_articles/b6525324.ext.json)
 
 ---

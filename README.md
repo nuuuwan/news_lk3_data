@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 20:05:50**
+As of **2024-08-10 20:20:56**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,796
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,013 (100.0%) of 40,016 articles have been extended.
+40,016 (100.0%) of 40,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### மதுபானத்தின் விலையைக் குறைக்க தீர்மானம்
+### Resolution to reduce the price of alcohol
 
 *2024-08-10 19:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானத்தின்-விலையைக்-குறைக்க-தீர்மானம்/175-341919) · `ta`
 
-மதுபானத்தின் விலையை எதிர்காலத்தில் குறைக்க முயற்சிகள் மேற்கொள்ளப்பட்டு வருவதாக மதுவரித் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Liquor plans to lower prices: a 750ml bottle by 900-1000 rupees and a 175ml bottle by 200 rupees due to decreased spring costs for production.
 
-இதன்படி, 750 மில்லி லீட்டர் மதுபான போத்தல் ஒன்றின் விலை 900 – 1,000 ரூபாவினாலும், 175 மில்லி லீட்டர் மதுபான போத்தலின் விலை 200 ரூபாவினாலும் குறைக்கப்படும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, அண்மையில் மதுவரித் திணைக்கள ஆணையாளருக்கும் மதுபான நிறுவனங்களுக்கும் இடையில் கலந்துரையாடல் ஒன்றும் இடம்பெற்றுள்ளது.
+The Department of Liquor has said that efforts are being made to reduce the price of liquor in the future.
 
-இதன்போது, மதுபான உற்பத்திக்கு அதிகம் பயன்படுத்தப்படும் ஸ்பிரிட்களின் விலை குறைந்துள்ளதால், மதுபானத்தின் விலையைக் குறைக்க வேண்டும் என மதுவரி திணைக்கள ஆணையர் தெரிவித்துள்ளார்.  R
+Accordingly, the price of a 750ml liter bottle of liquor bottles will be reduced by 900 - 1,000 rupees and 175 ml of liquor bottle will be reduced by 200 rupees.
+
+Meanwhile, there has been a discussion between the Liquor Department Commissioner and the liquor companies recently.
+
+Due to the decline in the price of the most used springs for liquor production, the price of liquor should be reduced, the Liquor Department Commissioner said.R
 
 ◼️
 
 [Data](articles/4e10d408.json)
 
+[Extended Data](ext_articles/4e10d408.ext.json)
+
 ---
 
-### ගිනිඅවි සමග 07 දෙනෙක් රාජගිරියේදී අත්අඩංගුවට
+### Seven firearms arrested in Rajagiriya
 
 *2024-08-10 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199792) · `si`
 
-රාජගිරිය ප්‍රදේශයේදී අවිආයුධ සමග පුද්ගලයින් 07 දෙනෙකු  අත්අඩංගුවට ගෙන තිබේ.
+In Rajagiriya, seven individuals carrying firearms including T56s and micro pistols were arrested by the Police Narcotics Bureau during a raid.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඔවුන් අත්අඩංගුවට ගන්නා අවස්ථාවේදී T56 ගිනි අවියක්, මයික්‍රෝ වර්ගයේ පිස්තෝලයක්, T56 ජීව උණ්ඩ 300ක්, මිලිමීටර් 9 පතොරම් 50ක් ද සොයාගෙන තිබේ.
+Seven persons with armedies have been arrested in the Rajagiriya area.
+
+The suspects were arrested during a raid conducted by the Police Narcotics Bureau.
+
+At the time of his arrest, the T56 firearm, a Micro Pistol, T56 and 50 millimeters, 9 millimeters, 50 mm.
 
 ◼️
 
 [Data](articles/981c856b.json)
+
+[Extended Data](ext_articles/981c856b.ext.json)
 
 ---
 
@@ -77,6 +89,8 @@ Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunitio
 ◼️
 
 [Data](articles/56822686.json)
+
+[Extended Data](ext_articles/56822686.ext.json)
 
 ---
 

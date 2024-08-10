@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 09:55:55**
+As of **2024-08-10 10:09:24**
 
 ## Newspaper Stats
 
-*Scraped **39,949** Articles*
+*Scraped **39,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,662
-adaderanalk | 4,643
+adaderanalk | 4,644
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,036
+tamilmirrorlk | 5,037
 virakesarilk | 6,334
-adaderanasinhalalk | 6,778
+adaderanasinhalalk | 6,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,949 (100.0%) of 39,949 articles have been extended.
+39,949 (100.0%) of 39,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### ஐக்கிய மக்கள் சக்தியின் உதவிச் செயலாளராக ராம் நியமனம்
+
+*2024-08-10 09:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-உதவிச்-செயலாளராக-ராம்-நியமனம்/175-341900) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் உதவிச் செயலாளராக கட்சியின் வடகொழும்பு பிரதான அமைப்பாளரும் மேல்மாகாணசபை முன்னாள் உறுப்பினருமான கலாநிதி சி.வை.பி ராம் நியமிக்கப்படுள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி கட்சி யாப்பில் கட்சியின் தலைவருக்கு  வழங்கப்பட்டிருக்கும் அதிகாரங்களுக்கமைய கட்சியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாசவினால் 2024ஆம் ஆண்டுக்காக ஐக்கிய மக்கள் சக்தியின் உதவி செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+அதன் பிரகாரம் இந்த பதவியின் கீழ் சாட்டப்பட்டிருக்கும் விடயங்கள் மற்றும் பொறுப்புக்களை உங்களால் சிறப்பாக மேற்கொள்ள முடியும் என தான் எதிர்பார்ப்பதாக சஜித் பிரேமதாச அவருக்கு கையளித்துள்ள கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/49a4d501.json)
+
+---
+
+### කැලණි ගඟේ නාඳුනන මළ සිරුරක්
+
+*2024-08-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199772) · `si`
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ තොටලඟ පැරණි පොළ අසල කැලණි ගඟේ නාඳුනන මළ සිරුරක් තිබී සොයාගෙන ඇත.
+
+මෘත ශරීරය මේ වනවිට කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+
+මරණකරුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති අතර, ඔහු වයස අවුරුදු 45ත් 50ත් අතර වූ පිරිමි පුද්ගලයෙකු බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/10edcc45.json)
+
+---
+
+### Excise Dept. to introduce new safety sticker for liquor bottles
+
+*2024-08-10 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101124/excise-dept-to-introduce-new-safety-sticker-for-liquor-bottles) · `en`
+
+The Excise Department has announced a decision to implement a new safety sticker for liquor bottles starting from October 01.
+
+The Commissioner General of Excise, M. J. Gunasiri, stated that the new method is designed to address and overcome the shortcomings of the current sticker system.
+
+◼️
+
+[Data](articles/f94c9d99.json)
+
+---
 
 ### Probe launched into fake website similar to Election Commission’s official website
 
@@ -2231,67 +2277,5 @@ The arrested Indian fishermen were brought to the Vijaya Vijaya Vijaya and the n
 [Data](articles/51344744.json)
 
 [Extended Data](ext_articles/51344744.ext.json)
-
----
-
-### Hirunika to the vacuum of Harin
-
-*2024-08-09 14:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினின்-வெற்றிடத்துக்கு-ஹிருணிகா/175-341863) · `ta`
-
-Harin Fernando, Sri Lanka's former Minister of Tourism, Land, Sports, and Youth Affairs, resigned following a Supreme Court ruling that he be dismissed from the United People's Power party. Reports suggest Hirunika Premachandra, a former MP, may fill the vacancy.
-
-🟩
-
-Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who went to his ministry, left the ministry on Wednesday (08) after the Supreme Court ruled that Harin Fernando was dismissed from the United People's Power.
-
-According to reports, Harin's parliamentarian has been urged to appoint former MP Hirunika Premachandra to the vacuum.
-
-◼️
-
-[Data](articles/37e041e7.json)
-
-[Extended Data](ext_articles/37e041e7.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/190654) · `ta`
-
-The US dollar's buying rate was Rs 296.2860, while its selling rate was Rs 305.4598 as per the latest rates announced by the Central Bank on August 09.
-
-🟩
-
-The US dollar purchasing price was Rs 296.2860 and the sales price were 305.4598 based on the currency exchange rate released by the Central Bank on Friday (August 09).
-
-◼️
-
-[Data](articles/0fec4ba9.json)
-
-[Extended Data](ext_articles/0fec4ba9.ext.json)
-
----
-
-### Bangladesh is looking for a leader like Ranil ... - Pavithra
-
-*2024-08-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199751) · `si`
-
-Minister Pavithra Wanniarachchi stated at a women's convention in Colombo that Bangladesh admires leaders like Ranil Wickremesinghe, known for his courage and leadership without causing tears in his homeland. She highlighted the importance of such leaders in establishing peace and unity within a nation.
-
-🟩
-
-Minister Pavithra Wanniarachchi says that Bangladesh is looking for a leader of Ranil Wickremesinghe.
-
-The Minister was speaking at the women's convention in Colombo at present.
-
-She added that Sri Lanka was a courageous leader, such as Ranil Wickremesinghe, who was not inherited to Bangladesh.
-
-"The whole Bangladesh became a lot of fire. Today, Bangladesh is looking for Ranil Wickremesinghe. We did not inherit that because of a leader like Ranil Wickremesinghe on the earth's earth. So it does not need arguments. Ranil Wickremesinghe was none other than the establishment of the country without building a tears in this motherland while the leader of the country was gone from the country. So we joined our own duty to this motherland as the most common decisions of this motherland today. "
-
-◼️
-
-[Data](articles/2079f90f.json)
-
-[Extended Data](ext_articles/2079f90f.ext.json)
 
 ---

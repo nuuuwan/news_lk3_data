@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 15:20:56**
+As of **2024-08-10 15:36:28**
 
 ## Newspaper Stats
 
-*Scraped **39,986** Articles*
+*Scraped **39,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,120 @@ adalk | 3,668
 adaderanalk | 4,652
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,045
-virakesarilk | 6,342
-adaderanasinhalalk | 6,783
+virakesarilk | 6,344
+adaderanasinhalalk | 6,784
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,985 (100.0%) of 39,986 articles have been extended.
+39,986 (100.0%) of 39,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### நாமல் - சுமந்திரன் இடையில் சந்திப்பு
+### திருகோணமலையில் இறந்த நிலையில் கரையொதுங்கும் நண்டுகள்
 
-*2024-08-10 15:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-சுமந்திரன்-இடையில்-சந்திப்பு/175-341911) · `ta`
+*2024-08-10 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190745) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஸவிற்கும், தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் M.A.சுமந்திரனுக்கும் இடையில் விசேட கலந்துரையாடலொன்று இடம்பெற்றுள்ளது.
+திருகோணமலை நகரில் உள்ள கடற்கரையில் இன்று சனிக்கிழமை (10) அதிகாலை முதல் இலட்சக்கணக்கான சிறு சிகப்பு நிறத்திலான நண்டுகள் இறந்த நிலையில் கரையொதுங்கி உள்ளன.
 
-நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் தொடர்பில் இந்த கலந்துரையாடலில் விரிவாக ஆராயப்பட்டதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வடக்கு மாகாண பொறுப்பாளர் கீதாநாத் காசிலிங்கம் தெரிவித்தார்.
+சனி மற்றும் ஞாயிற்றுக்கிழமைகளில் இப்பிரதேசத்துக்கு கூடுதலான சுற்றுலா பயணிகள் வருகின்ற நிலையில் இவ்வாறான நிகழ்வு ஒன்று இடம்பெற்றுள்ளது.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் நாமல் ராஜபக்ஸ வெற்றி பெறும் பட்சத்தில், வடக்கு மற்றும் கிழக்கு மாகாண மக்கள்  எதிர்நோக்கும் பிரச்சினைகள் மற்றும் மாவட்டங்களின் அபிவிருத்தி குறித்து இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+சுமார் ஐந்து தொடக்கம் ஆறு கிலோமீட்டர் நீளமுள்ள இந்த கடற்கரையில் மூன்று தொடக்கம் 4 கிலோ மீட்டர் தூரம் வரை இவ்வாறான சிகப்பு நிற நண்டுகள் இறந்த நிலையில் கரை ஒதுங்கி உள்ளன என்பது குறிப்பிடத்தக்கது.
 
-அத்துடன், வடக்கு மற்றும் கிழக்கு மாகாணங்களிலுள்ள தமிழ் பாராளுமன்ற உறுப்பினர்களுடன் இணைந்து அந்த பகுதி மக்களின் குறைகளை நிவர்த்தி செய்வதற்கும், இளைஞர்களுக்கு வாழ்வாதாரம் மற்றும் சிறந்த எதிர்காலத்தை வழங்குவதற்கும் தாம் தயாராக இருப்பதாக M.A.சுமந்திரனிடம் நாமல் ராஜபக்ஸ தெரிவித்ததாகவும் அவர் கூறினார்.
+◼️
+
+[Data](articles/64ca6a43.json)
+
+---
+
+### மீன்கள், ஆமைகளுடன் விமான நிலையத்தில் ஒருவர் கைது
+
+*2024-08-10 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190751) · `ta`
+
+இவர் சுங்க உயிர் பல்வகைமை பாதுகாப்பு பிரிவினரால் இன்று (10) அதிகாலை கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட நபர் தலவத்துகொடை பகுதியைச் சேர்ந்த 50 வயதுடைய வர்த்தகர் என அடையாளம் காணப்பட்டுள்ளார்.
+
+சிங்கப்பூரில் இருந்து வந்த குறித்த நபர் தனது நண்பர் ஒருவருக்காக மீன் மற்றும் ஆமைகள் கொண்டு வந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+இவ்வாறு கொண்டுவரப்பட்ட விலங்குகளில் ஆசிய அரோவானா, சைக்காட், கெட்பிஷ் மற்றும் ஆமைகள் உள்ளடங்குவதாக சுங்கம் திணைக்களம் தெரிவித்துள்ளது.
+
+இலங்கை சுங்க பல்லுயிர் பாதுகாப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து இந்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அதிகாரிகள் ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d15fed28.json)
+
+---
+
+### ඉමාන් කලීෆ් රන් පදකක්ම දිනයි
+
+*2024-08-10 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199778) · `si`
+
+මෙවර ඔලිම්පික් උළෙලේ බොහෝ දෙනෙකුගේ ඇස ගැටුණ තරග ඉසව්වක් වූ කාන්තා කි.ග්‍රෑ. 66 බර පන්තියේ රන් පදක්කම දිනාගැනීමට ඇල්ජීරියාවේ ඉමාන් කලීෆ් සමත් විය.
+
+රන් පදක්කම වෙනුවෙන් වූ තරගයේදී ඇය විසින් චීනයේ යැං ලියු විනිසුරු ඒකමතික තීන්දුවකින් (ලකුණු 5-0) පහසුවෙන් පරාජය කළාය.
+
+ඒ අනුව මෙවර ඔලිම්පික් බොක්සිං ඉසව්වෙන් රන් පදක්කමක් දිනූ පළමු ඇල්ජීරියානු, අරාබි මෙන්ම එකම අප්‍රිකානු කාන්තාව (මේ දක්වා) බවට පත්වීමට ඉමාන්ට හැකිවිය.
+
+උපතින්ම ශරීරයේ ටෙස්ටෙස්ටරෝන් මට්ටම ඉහළ අගයක් ගැනීම හේතුවෙන් ජීවවිද්‍යාත්මකව පිරිමි පුද්ගලයෙක් ලෙස හැඳින්වූ ඉමාන් කලීෆ් කාන්තා අංශයෙන් තරග වැදීම සම්බන්ධයෙන් ඔලිම්පික් උළෙල ආරම්භයේ සිට දැඩි කතාබහක් ඇතිවුණි.
+
+කෙසේ නමුත් තවත් පිරිසක් ඇය වෙනුවෙන් පෙනී සිටීමට ඉදිරිපත් විය.
+
+මේ වනවිට 25 හැවිරිදි ඉමාන් රන් පදක්කම දිනාගැනීමෙන් පසු පවසා සිටියේ, මෙම පදක්කම තමන්ගේ සිහිනයක් බවය. එමෙන්ම මෙම පදක්කම දිනාගැනීමට අවුරුදු අටක් තිසේසේ නින්දක් නොමැතිව පුහුණුවීම් කළ බව ඇය පවසා තිබුණි.
 
 ...
 
+[Data](articles/104f83b8.json)
+
+---
+
+### Meeting between Namal - Sumanthiran
+
+*2024-08-10 15:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-சுமந்திரன்-இடையில்-சந்திப்பு/175-341911) · `ta`
+
+Namal Rajapaksa, the PA's presidential candidate, met with TNA's M.A. Sumanthiran to discuss issues affecting the North and East provinces. If elected, Rajapaksa pledged to address these concerns, including providing jobs and a better future for the youth, with support from Tamil MPs.
+
+🟩
+
+A special discussion was held between Namal Rajapaksa, the presidential candidate of the PA and the Tamil National Alliance (TNA) parliamentarian M.A. Sumanthiran.
+
+Geetanath Kasilingam, the Northern Provincial Council of the Northern Provincial Council of the Sri Lanka PA, said that the discussion was discussed in detail regarding the upcoming presidential election.
+
+If Namal Rajapaksa wins the upcoming presidential election, the problems faced by the people of the North and Eastern Province have been discussed.
+
+He also said that he had told M.A. Sumanthiran that he was ready to address the grievances of the people of the area, along with the Tamil MPs in the Northern and Eastern Provinces, and provide the youth a livelihood and a better future.
+
+Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responded to the issue at the Sri Lanka Tamil National Alliance (TNA) meeting of the Sri Lanka Tamil National Alliance (TNA).R
+
+◼️
+
 [Data](articles/08693f34.json)
+
+[Extended Data](ext_articles/08693f34.ext.json)
+
+---
+
+### 7 companies have come forward to pay a salary of 1700 rupees: Salary Standards will decide on Monday: President
+
+*2024-08-10 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190740) · `ta`
+
+Seven firms pledge to pay 1700 rupees as salary; decision due Monday. President Wickremesinghe also hints at special laws for implementation.
+
+🟩
+
+President Ranil Wickremesinghe said that 7 companies have come forward to pay a salary of 1700 rupees and will decide on the next Monday.
+
+Meanwhile, President Ranil Wickremesinghe added that steps will be taken to introduce special laws to implement the resolution if necessary.
+
+◼️
+
+[Data](articles/9873a46f.json)
+
+[Extended Data](ext_articles/9873a46f.ext.json)
 
 ---
 
@@ -159,26 +245,6 @@ The chief justice of Bangladesh’s top court said Saturday he had agreed to res
 [Data](articles/3380c36b.json)
 
 [Extended Data](ext_articles/3380c36b.ext.json)
-
----
-
-### 7 companies have come forward to pay a salary of 1700 rupees: Salary Standards will decide on Monday: President
-
-*2024-08-10 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190740) · `ta`
-
-Seven firms pledge to pay 1700 rupees as salary; decision due Monday. President Wickremesinghe also hints at special laws for implementation.
-
-🟩
-
-President Ranil Wickremesinghe said that 7 companies have come forward to pay a salary of 1700 rupees and will decide on the next Monday.
-
-Meanwhile, President Ranil Wickremesinghe added that steps will be taken to introduce special laws to implement the resolution if necessary.
-
-◼️
-
-[Data](articles/9873a46f.json)
-
-[Extended Data](ext_articles/9873a46f.ext.json)
 
 ---
 
@@ -2165,67 +2231,5 @@ The Election Commission has officially announced that the presidential election 
 [Data](articles/f195ebab.json)
 
 [Extended Data](ext_articles/f195ebab.ext.json)
-
----
-
-### Sri Lanka stocks gain; turnover down amid election campaigns
-
-*2024-08-09 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-gain-turnover-down-amid-election-campaigns-176243/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed 0.44 percent, or 49.33 points, at 11,303.22; while the more liquid S&P SL20 Index rose 0.46 percent, or 14.79 points, at 3,224.96. Both index were down in the previous session.
-
-“Since the election was declared, we see lower turnover. There was no panic selling, but investors are increasingly adapting a cautious approach,” a senior stockbroker said.
-
-Sampath Bank, the top contributor to the index, gained 1.6 percent to 75.70 rupees, while Rischard Pieris gained 3.7 percent to 19.50 rupees a share.
-
-Sampath Bank interim results recorded better than expected performance, June quarter’s interim results showed, while the bank has also announced a Rs10 billion debenture issue.
-
-Sri Lanka’s presidential election is scheduled for September 21. (Colombo/August 09/2024)
-
-◼️
-
-[Data](articles/1c939b42.json)
-
-[Extended Data](ext_articles/1c939b42.ext.json)
-
----
-
-### Two more candidate for presidential election
-
-*2024-08-09 18:25:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-තවත්-අපේක්ෂකයක්-දෙදෙනෙක්/11-411281) · `si`
-
-Trade union leader Priyantha Wickremesinghe and Mr. Keerthi Wickramaratne have both deposited funds to run in the upcoming presidential election.
-
-🟩
-
-Trade union leader Priyantha Wickremesinghe has deposited money for the New LSSP to contest the presidential election.
-
-The bail of Mr. Keerthi Wickramaratne has been deposited for the presidential election.
-
-◼️
-
-[Data](articles/e34d1203.json)
-
-[Extended Data](ext_articles/e34d1203.ext.json)
-
----
-
-### Special bus service for Kandy Esala Perahera
-
-*2024-08-09 18:17:39* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-මහා-පෙරහැර-වෙනුවෙන්-විශේෂ-බස්-රථ-සේවයක්/11-411280) · `si`
-
-Sri Lanka Transport Board launched a special bus service from August 19th to 20th for Kandy Esala Perahera.
-
-🟩
-
-The Sri Lanka Transport Board (SLTB) has implemented a special bus service as day 19 to 19th.
-
-◼️
-
-[Data](articles/2a2a2235.json)
-
-[Extended Data](ext_articles/2a2a2235.ext.json)
 
 ---

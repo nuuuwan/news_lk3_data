@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 23:36:25**
+As of **2024-08-10 23:56:23**
 
 ## Newspaper Stats
 
-*Scraped **40,029** Articles*
+*Scraped **40,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 376
 islandlk | 2,303
-economynextcom | 2,422
+economynextcom | 2,424
 dailyftlk | 2,581
 adalk | 3,672
 adaderanalk | 4,659
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,029 (100.0%) of 40,029 articles have been extended.
+40,029 (100.0%) of 40,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -205,6 +205,26 @@ Speaking at the meeting, the Mawbathi Janatha Entrepreneral Diliva Jayaweera sai
 [Data](articles/4a8d40d9.json)
 
 [Extended Data](ext_articles/4a8d40d9.ext.json)
+
+---
+
+### UNICEF Sri Lanka, AG’s Dept focus on child-friendly justice
+
+*2024-08-10 20:45:00* · [`economynextcom`](https://economynext.com/unicef-sri-lanka-ags-dept-focus-on-child-friendly-justice-176307/) · `en`
+
+ECONOMYNEXT – UNICEF Sri Lanka has conducted a professional development workshop for officers of the Attorney General’s Department to strengthen child-friendly justice in the country.
+
+The session aimed to address challenges faced in cases involving children in contact with the law, UNICEF Sri Lanka said on X (twitter).
+
+“This activity will boost efforts to strengthen child-friendly justice in Sri Lanka.”
+
+The workshop was organised by the AG’s Department, with support from UNICEF and funding from the European Union in Sri Lanka.
+
+It is part of the multi-year Support to Justice Sector Project (JURE), which began in February 2022, jointly implemented by UNDP and UNICEF Sri Lanka, facilitated by the Ministry of Justice. (Colombo/Aug10/2024)
+
+◼️
+
+[Data](articles/f2fa4b9e.json)
 
 ---
 
@@ -1033,6 +1053,30 @@ Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responde
 [Data](articles/08693f34.json)
 
 [Extended Data](ext_articles/08693f34.ext.json)
+
+---
+
+### Bangladesh central bank Governor resigns after Sri Lanka style unrest amid IMF programs
+
+*2024-08-10 14:58:00* · [`economynextcom`](https://economynext.com/bangladesh-central-bank-governor-resigns-after-sri-lanka-style-unrest-amid-imf-programs-176247/) · `en`
+
+ECONOMYNEXT – Bangladesh Central Bank Governor Abdur Rouf Talukder resigned media reports said, after the fall of government in Sri Lanka style unrest coming in the wake of steep currency collapses.
+
+He had submitted to resignation to the Financial Institutions Division of the Ministry of Finance.
+
+“He [Abdur Rouf Talukder] sent the resignation to me through WhatsApp,” the portal quoted FID FID Secretary Md Abdur Rahman as saying.
+
+Bangladesh’s Prime Minister Sheikh Hasina fled the country as protests broke out across the country as the Bangladesh Taka collapsed under multiple International Monetary Fund programs, with money printed to keep rates low.
+
+As authorities tried to crush the protest leading to hundreds of deaths, protest spiraled.
+
+Central bank staffers themselves had stormed offices the leadership last week, demanding the resignation of Deputy Governors and Governor.
+
+Bangladesh central bank Governor resigns after Sri Lanka style unrest amid IMF programs
+
+...
+
+[Data](articles/474b06d2.json)
 
 ---
 
@@ -2247,39 +2291,5 @@ Fuel produced from green energy sources such as hydrogen, methane, ammonia, and 
 [Data](articles/0a8de27c.json)
 
 [Extended Data](ext_articles/0a8de27c.ext.json)
-
----
-
-### Hayleys Solar commissions Sri Lanka’s largest solar-powered battery energy storage system
-
-*2024-08-10 02:38:15* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-commissions-Sri-Lanka-s-largest-solar-powered-battery-energy-storage-system/34-765372) · `en`
-
-Representatives from Watch Tower Bible and Tract Society of Lanka, Hayleys PLC, and the Ministry of Power and Energy Sri Lanka at the battery commissioning event
-
-Hayleys Solar, the leading player in Sri Lanka’s renewable energy industry and the renewable energy arm of Hayleys Fentons, has completed a groundbreaking project for the Watch Tower Bible and Tract Society of Lanka. The project establishes Sri Lanka’s largest non-government-funded battery energy storage system (BESS), powered by solar photovoltaic (PV) technology.
-
-...
-
-[Data](articles/510eb502.json)
-
-[Extended Data](ext_articles/510eb502.ext.json)
-
----
-
-### Ambewela delivers unmatched premium quality dairy products with its latest technology and innovation
-
-*2024-08-10 02:37:32* · [`dailyftlk`](https://www.ft.lk/business/Ambewela-delivers-unmatched-premium-quality-dairy-products-with-its-latest-technology-and-innovation/34-765371) · `en`
-
-Ambewela dairy products – manufactured by Lanka Milk Foods (CWE) PLC – is a household name synonymous with freshness and quality.
-
-Originating from Sri Lanka’s lushest highland pastures, each Ambewela product is the result of a meticulous process that ensures the highest quality dairy delights, from farm to family. The product range, which includes fresh milk, cheese, and yoghurt, consistently offers superior value and quality, making it one of Sri Lanka’s most beloved brands.
-
-In order to meet the most stringent modern standards, Ambewela Dairy Farms follow internationally-certified processes, where milk is rapidly cooled, stored, transported, and packed to maintain freshness. The entire process from milking to packing is swift and continuously monitored for quality. Any batch showing even minor deviations in lab results is rejected to ensure only the freshest, safest, and most nutritious products reach consumers.
-
-...
-
-[Data](articles/fb3679de.json)
-
-[Extended Data](ext_articles/fb3679de.ext.json)
 
 ---

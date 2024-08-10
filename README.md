@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 15:06:06**
+As of **2024-08-10 15:20:56**
 
 ## Newspaper Stats
 
-*Scraped **39,985** Articles*
+*Scraped **39,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,668
 adaderanalk | 4,652
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,044
+tamilmirrorlk | 5,045
 virakesarilk | 6,342
 adaderanasinhalalk | 6,783
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,984 (100.0%) of 39,985 articles have been extended.
+39,985 (100.0%) of 39,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### நாமல் - சுமந்திரன் இடையில் சந்திப்பு
+
+*2024-08-10 15:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-சுமந்திரன்-இடையில்-சந்திப்பு/175-341911) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஸவிற்கும், தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் M.A.சுமந்திரனுக்கும் இடையில் விசேட கலந்துரையாடலொன்று இடம்பெற்றுள்ளது.
+
+நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் தொடர்பில் இந்த கலந்துரையாடலில் விரிவாக ஆராயப்பட்டதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வடக்கு மாகாண பொறுப்பாளர் கீதாநாத் காசிலிங்கம் தெரிவித்தார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் நாமல் ராஜபக்ஸ வெற்றி பெறும் பட்சத்தில், வடக்கு மற்றும் கிழக்கு மாகாண மக்கள்  எதிர்நோக்கும் பிரச்சினைகள் மற்றும் மாவட்டங்களின் அபிவிருத்தி குறித்து இதன்போது கலந்துரையாடப்பட்டுள்ளது.
+
+அத்துடன், வடக்கு மற்றும் கிழக்கு மாகாணங்களிலுள்ள தமிழ் பாராளுமன்ற உறுப்பினர்களுடன் இணைந்து அந்த பகுதி மக்களின் குறைகளை நிவர்த்தி செய்வதற்கும், இளைஞர்களுக்கு வாழ்வாதாரம் மற்றும் சிறந்த எதிர்காலத்தை வழங்குவதற்கும் தாம் தயாராக இருப்பதாக M.A.சுமந்திரனிடம் நாமல் ராஜபக்ஸ தெரிவித்ததாகவும் அவர் கூறினார்.
+
+...
+
+[Data](articles/08693f34.json)
+
+---
 
 ### Person arrested at BIA over attempt to smuggle live fish and turtles
 
@@ -212,17 +230,23 @@ The Head of the State made these remarks while addressing the Kandy District Pla
 
 ---
 
-### මහනුවර ඇසල පෙරහැරේ පළමු කුඹල් පෙරහැර අද වීදී සංචාරය කෙරේ
+### First Kumbal Perahera of Kandy Esala Perahera will visit the street
 
 *2024-08-10 13:03:59* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-පෙරහැරේ-පළමු-කුඹල්-පෙරහැර-අද-වීදී-සංචාරය-කෙරේ/11-411289) · `si`
 
-මහනුවර ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද (10)  රාත්‍රී විදි සංචාරය කිරීමට නියමිතව ඇත.
+The first Kumbal Perahera of the Kandy Esala Perahera will parade through the streets tonight, featuring deities like Natha, Vishnu, Pattini, and Kataragama.
 
-නාථ, විෂ්ණු, පත්තිනි සහ කතරගම යන සිව් මහා දේවාල පෙරහැර පෙරටුව ඇසළ පෙරහැර පස්වරු 06 පසුවී මිනිත්තු 06ට යෙදෙන සුබ මොහාතින් පෙරහැර ගමනට එක්වේ.
+🟩
+
+The first Kumbal Perahera of the Kandy Esala Perahera is scheduled to visit Night today.
+
+The Perahera journey journey to the Perahera of the Suwest Parahera of Natha, Vishnu, Pattini and Kataragama.
 
 ◼️
 
 [Data](articles/a43c5333.json)
+
+[Extended Data](ext_articles/a43c5333.ext.json)
 
 ---
 
@@ -2203,25 +2227,5 @@ The Sri Lanka Transport Board (SLTB) has implemented a special bus service as da
 [Data](articles/2a2a2235.json)
 
 [Extended Data](ext_articles/2a2a2235.ext.json)
-
----
-
-### Three more candidates place deposits to contest 2024 Presidential Election
-
-*2024-08-09 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101117/three-more-candidates-place-deposits-to-contest-2024-presidential-election) · `en`
-
-Three more candidates have placed bonds today (09) to contest the 2024 Presidential Election, says the Election Commission of Sri Lanka.
-
-Accordingly, the total number of candidates who have so far placed cash deposits for the upcoming Presidential Election has climbed up to 27.
-
-This includes 13 candidates representing recognised political parties, 13 Independent candidates whose names have been nominated by a voter and one candidate from other political parties.
-
-The candidates who placed bonds today include Priyantha Pushpakumara representing ‘Nava Sama Samaja Party’, J.D.K. Wickremeratne from ‘Ape Jana Bala Pakshaya’ while M. Thilakaraja has placed the deposit to contest the election as an independent candidate.
-
-◼️
-
-[Data](articles/09efb5ee.json)
-
-[Extended Data](ext_articles/09efb5ee.ext.json)
 
 ---

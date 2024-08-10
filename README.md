@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 06:24:40**
+As of **2024-08-10 07:02:42**
 
 ## Newspaper Stats
 
-*Scraped **39,934** Articles*
+*Scraped **39,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 2,581
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,031
+tamilmirrorlk | 5,032
 virakesarilk | 6,333
-adaderanasinhalalk | 6,774
+adaderanasinhalalk | 6,775
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,934 (100.0%) of 39,934 articles have been extended.
+39,934 (100.0%) of 39,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### 61 දෙනෙක්ට මරු කැඳවූ ගුවන් යානා අනතුර
+
+*2024-08-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199768) · `si`
+
+බ්‍රසීලයේ සාවෝපාවුලෝ ප්‍රදේශයේ ගුවන්‍ යානා අනතුරකින් එම යානයේ සිටි සියලුදෙනාම ජීවිතක්ෂයට පත්ව තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ එහි කාර්‍ය මණ්ඩලයේ සිව් දෙනෙක් සහ මගීන් 57 දෙනෙක් සිටි බවයි.
+
+එම යානය ජනාකීර්ණ ප්‍රදේශයකට කඩාවැටී තිබුණද ඉන් භූමියේ සිටි කිසිවෙකුටත් හානියක් වී නොතිබුණි.
+
+◼️
+
+[Data](articles/c383e847.json)
+
+---
+
+### ஒக்டோபர் முதல் இலத்திரனியல் கடவுச்சீட்டுக்கள்
+
+*2024-08-10 05:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-முதல்-இலத்திரனியல்-கடவுச்சீட்டுக்கள்/175-341895) · `ta`
+
+ஒக்டோபர் மாதம் முதல்  இலத்திரனியல் கடவுச்சீட்டுக்கள் வழங்கப்படும் என பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+
+இதுவரை வழங்கப்பட்ட கடவுச்சீட்டுக்களில் 23வீதம்  மட்டுமே பயன்படுத்தப்பட்டுள்ளது. மற்ற கடவுச்சீட்டுக்கள் வாங்கப்பட்டன, ஆனால் பயன்படுத்தப்படவில்லை.
+
+இந்த இரண்டு மாதத்திற்கான கடவுச்சீட்டை அவசியமானால் மட்டுமே பெற்றுக்கொள்ளுமாறு மக்களை கேட்டுக்கொள்கின்றேன். இல்லையெனில், ஒக்டோபரில் புதிய கடவுச்சீட்டை பெறுவீர்கள் என்றார். (a)
+
+◼️
+
+[Data](articles/ca13f7a7.json)
+
+---
 
 ### 12 hours of water in Gampaha district
 
@@ -2249,49 +2281,5 @@ The Kilinochchi police are conducting further investigations into the incident.
 [Data](articles/fea31fcc.json)
 
 [Extended Data](ext_articles/fea31fcc.ext.json)
-
----
-
-### A presidential candidate from Patali's party?
-
-*2024-08-09 13:29:17* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලීගේ-පක්ෂයෙන්-ජනාධිපතිවරණ-අපේක්ෂකයෙක්-/11-411276) · `si`
-
-Patali Champika Ranawaka, leader of Patali's party, announced that the United People's Freedom Alliance (UPFA) will reveal its presidential candidate next week. Despite speculation about his own candidacy, he remains silent, focusing on internal discussions and analysis before making a decision.
-
-🟩
-
-The Front Leader Patali Champika Ranawaka said that the presidential candidate of the UPFA will be announced week.
-
-He was responding to a question posed by journalists at a press conference held in Colombo today (09).
-
-Most people thought that you would come forward to the presidential election. What's really it?What's the decision of you?You created a party. But you still quiet.
-
-We had a common program on February 14, who went to this presidential election.. We discussed that work with various political parties. We had positive results. Received the negative results. Got many things. We're all analyzing all of that now. We also talk to our party members. We declare who is our candidate in the presidential election next week.
-
-◼️
-
-[Data](articles/bcb73e63.json)
-
-[Extended Data](ext_articles/bcb73e63.ext.json)
-
----
-
-### "If the party changes, we will send it home"
-
-*2024-08-09 13:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறினால்-வீட்டுக்கு-அனுப்புவோம்/175-341858) · `ta`
-
-Under the National People's Power Government, laws will be drafted to deport individuals from opposing parties, as stated by its leader and parliamentarian Anuragumara Dissanayake during a speech at the Muslim Brotherhood in Malwana.
-
-🟩
-
-Its leader and parliamentarian Anuragumara Dissanayake said that laws will be prepared under the National People's Power Government to send party different people home.
-
-He was speaking at the Muslim Brotherhood at the Malwana area.
-
-◼️
-
-[Data](articles/5258d627.json)
-
-[Extended Data](ext_articles/5258d627.ext.json)
 
 ---

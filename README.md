@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 08:56:05**
+As of **2024-08-10 09:08:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,941 (100.0%) of 39,944 articles have been extended.
+39,944 (100.0%) of 39,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,19 +52,25 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### பிரேசில் விமான விபத்தில் 61 பேர் பலி
+### 61 killed in Brazil plane crash
 
 *2024-08-10 08:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரேசில்-விமான-விபத்தில்-61-பேர்-பலி/50-341899) · `ta`
 
-பிரேசிலின் சாவோ பாவ்லோ மாநிலத்தில் விமானம் ஒன்று விபத்துக்குள்ளானதில் அதில் பயணித்த 61 பேரும் உயிரிழந்துள்ளனர்.
+A plane crash in Sawo Pavlo, Brazil, killed 61 passengers. The flight from Parana to Chao Pavlo ended tragically. Brazilian President Lula Da Silva offered condolences to the families of the victims.
 
-பிரேசிலின் தெற்கு மாநிலமான பரானாவில் உள்ள காஸ்கேவலில் இருந்து சாவோ பாவ்லோ நோக்கிப் பயணித்த விமானமொன்றே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+🟩
 
-இந்த விபத்தில் உயிரிழந்தவர்களுக்கு பிரேசில் ஜனாதிபதி லூயிஸ் இனாசியோ லுலா டா சில்வா தமது இரங்கலைத் தெரிவித்துள்ளார். (a)
+A plane crashed in the state of Sawo Pavlo, Brazil, and 61 people were killed.
+
+The crash was a plane that was traveling from Kaskewel in Brazil's southern state of Parana to Chao Pavlo.
+
+Brazilian President Louis Inasio Lula Da Silva expressed his condolences to the victims of the accident.. (A)
 
 ◼️
 
 [Data](articles/460c85f5.json)
+
+[Extended Data](ext_articles/460c85f5.ext.json)
 
 ---
 
@@ -158,33 +164,45 @@ Although the plane was covered with a popular area, no one was injured.
 
 ---
 
-### டெங்கு நோயாளர்கள் அதிகரிப்பு
+### Increase in dengue patients
 
 *2024-08-10 06:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-341897) · `ta`
 
-அத்துடன், கடந்த 24 மணித்தியாலங்களில் 148 பேர் பாதிக்கப்பட்டுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+Sri Lanka reports 148 new dengue cases in 24 hours, bringing the total to 33,795 cases this year. The National Dengue Control Division also confirms 14 deaths due to dengue in 2023.
 
-அதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் இலங்கையில் மொத்தமாக 33 ஆயிரத்து 795 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+🟩
 
-இந்த வருடத்தில் மாத்திரம் டெங்கு நோயினால் 14 பேர் உயிரிழந்துள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+In addition, 148 people have been affected in the last 24 hours, the National Dengue Control Division said.
+
+Accordingly, a total of 33 thousand 795 dengue patients have been reported in Sri Lanka so far this year.
+
+The National Dengue Control Division has said that 14 people have died of dengue this year alone. (A)
 
 ◼️
 
 [Data](articles/af7e78aa.json)
 
+[Extended Data](ext_articles/af7e78aa.ext.json)
+
 ---
 
-### 24 மணித்தியாலங்களில் 20 முறைப்பாடுகள்
+### 20 complaints in 24 hours
 
 *2024-08-10 06:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-20-முறைப்பாடுகள்/175-341896) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பில் கடந்த 24 மணித்தியாலங்களில் 20 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு நேற்று மாலை அறிவித்தது.
+In the past 24 hours, the Elections Commission received 20 complaints about the presidential election, bringing the total to 157 violations.
 
-இதற்கமைய தேர்தல் விதிகளை மீறியமை தொடர்பில் இதுவரையில் கிடைக்கப் பெற்றுள்ள முறைப்பாடுகளின் எண்ணிக்கை 157 ஆக அதிகரித்துள்ளதாக தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+🟩
+
+The Elections Commission announced yesterday evening that 20 complaints have been received in the last 24 hours regarding the presidential election.
+
+Accordingly, the number of complaints received so far in violation of election rules has increased to 157, the Election Commission said the Commission said.. (A)
 
 ◼️
 
 [Data](articles/58ad5f77.json)
+
+[Extended Data](ext_articles/58ad5f77.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 09:08:14**
+As of **2024-08-10 09:20:57**
 
 ## Newspaper Stats
 
-*Scraped **39,944** Articles*
+*Scraped **39,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,661
-adaderanalk | 4,641
+adalk | 3,662
+adaderanalk | 4,643
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,035
+tamilmirrorlk | 5,036
 virakesarilk | 6,333
 adaderanasinhalalk | 6,778
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,944 (100.0%) of 39,944 articles have been extended.
+39,944 (100.0%) of 39,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Probe launched into fake website similar to Election Commission’s official website
+
+*2024-08-10 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101123/probe-launched-into-fake-website-similar-to-election-commissions-official-website) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SL CERT) has launched an investigation into a fake website similar to the official Election Commission website.
+
+Senior Information Engineer Charuka Damunupola of SL CERT confirmed that a complaint has also been lodged with the Criminal Investigation Department (CID) regarding this issue.
+
+Meanwhile, the Election Commission announced that the period for accepting postal voting applications for the upcoming presidential election ended at midnight yesterday (09).
+
+Although the relevant period was scheduled to end at midnight on the August 7, steps were taken to extend the period of accepting applications in consideration of possible mail delays and requests made to the commission.
+
+◼️
+
+[Data](articles/eb50a0b2.json)
+
+---
+
+### Plane crashes in Brazil’s Sao Paulo state, killing all 61 aboard
+
+*2024-08-10 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101122/plane-crashes-in-brazils-sao-paulo-state-killing-all-61-aboard) · `en`
+
+A passenger plane crashed into a gated residential community in Brazil’s Sao Paulo state Friday, killing all 61 people aboard and leaving a smoldering wreck, officials and the airline said.
+
+Officials did not say if anyone was killed on the ground in the neighborhood where the plane landed in the city of Vinhedo, about 80 kilometers (50 miles) northwest of the metropolis of Sao Paulo. But witnesses at the scene said there were no victims among local residents.
+
+The airline Voepass said that its plane, an ATR 72 twin-engine turboprop, was headed for Sao Paulo’s international airport Guarulhos with 57 passengers and 4 crew members aboard when it crashed in Vinhedo. It provided a flight manifest with passenger names, but not their nationalities. A prior statement had said there were 58 passengers.
+
+...
+
+[Data](articles/ce89a7d5.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -161,6 +195,20 @@ Although the plane was covered with a popular area, no one was injured.
 [Data](articles/c383e847.json)
 
 [Extended Data](ext_articles/c383e847.ext.json)
+
+---
+
+### லொறியுடன் மோதி யானை பலி
+
+*2024-08-10 06:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறியுடன்-மோதி-யானை-பலி/175-341898) · `ta`
+
+திருகோணமலை, தபலகமுவ பிரதேசத்தில் வைத்து கொழும்பிலிருந்து திருகோணமலை நோக்கிச் சென்ற லொறியுடன் மோதுண்டு பெண் யானை ஒன்று உயிரிழந்துள்ளது.
+
+கந்தளாய் - லஹபத்த காட்டுப் பகுதியில் வசித்து வந்த குறித்த யானை வீதியைக் கடக்கும்போது இந்த விபத்து ஏற்பட்டிருக்கலாம் என்று வனஜீவராசிகள் காரியாலய பாதுகாப்பு அதிகாரி தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/2ad9cefb.json)
 
 ---
 
@@ -765,6 +813,20 @@ In this case, all the arrangements to be carried out to be carried out in view o
 [Data](articles/9a439ad1.json)
 
 [Extended Data](ext_articles/9a439ad1.ext.json)
+
+---
+
+### වැඩිවන සෑම අපේක්ෂකයෙක් සඳහාම රු.මිලියන 200ක් වැය වෙනවා
+
+*2024-08-09 22:37:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිවන-සෑම-අපේක්ෂකයෙක්-සඳහාම-රු-මිලියන-200ක්-වැය-වෙනවා/11-411283) · `si`
+
+ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් තවදුරටත් වැඩිවන්නේ නම්,  වැඩිවන සෑම අපේක්ෂකයෙකු සඳහාම රුපියල් මිලියන 200ක වියදමක් දැරීමට සිදුවනු ඇති බවට තමා විශ්වාස කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසීය.
+
+කොළඹ ඊයේ (09දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/732062fb.json)
 
 ---
 
@@ -2203,97 +2265,5 @@ Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who w
 [Data](articles/77876761.json)
 
 [Extended Data](ext_articles/77876761.ext.json)
-
----
-
-### Priyavid Harin
-
-*2024-08-09 14:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரியாவிடை-ஹரின்/175-341861) · `ta`
-
-Harin Fernando, ex-Minister of Tourism, Land, Sports, and Youth Affairs, bids farewell to his staff after being removed from parliamentary position, marking his departure from the ministry.
-
-🟩
-
-Former Minister of Tourism, Land, Sports and Youth Affairs Harin Fernando, who went to his ministry after his removal of the parliamentarian, gave a farewell to the staff and left the ministry.
-
-◼️
-
-[Data](articles/ab32907e.json)
-
-[Extended Data](ext_articles/ab32907e.ext.json)
-
----
-
-### Decision on social media behavior during election season
-
-*2024-08-09 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199750) · `si`
-
-The Election Commission, along with senior police officers from Colombo District, discussed election security post-nomination acceptance. A workshop on election law and media standards was also held. Special focus was placed on Instagram and TikTok, with clear regulations set. Non-compliance will result in strict action.
-
-🟩
-
-The Election Commission has discussed a discussion on the security of the Election Commission on the date of acceptance of the nominations of the presidential election.
-
-That is the case with Senior Police Officers of the Colombo District and the Election Commission officials.
-
-Meanwhile, a workshop on the implementation of election laws and media criteria was held at the Government Information Department this morning (09).
-
-Commenting here
-
-"We have special attention to Instagram and Ticktock social media. We have directly involved with those institutions. If we do not comply with the instructions and orders we have issued in regulation, they have agreed to beyond the compromises and support us. "
-
-◼️
-
-[Data](articles/130b5f27.json)
-
-[Extended Data](ext_articles/130b5f27.ext.json)
-
----
-
-### Harin, Manusha say happy to leave after helping make Sri Lanka stable
-
-*2024-08-09 14:13:00* · [`economynextcom`](https://economynext.com/harin-manusha-say-happy-to-leave-after-helping-make-sri-lanka-stable-176176/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ex-tourism Minister Harin Fernando said he was glad to have crossed over and helped President Ranil Wickremesinghe stabilize the country, after losing his portfolio due to a court order.
-
-“When I joined Ranil Wickremesinghe, the country was in dire straits,” Fernando told reporters hours after the court upheld a decision by Samagi Jana Balawegaya to expel him along with Manusha Nanayakkara.
-
-“I am glad that I did. Yesterday I realized this was going to happen so I drove to pilawoos on my own and at a koththu.”
-
-“Now I will have more time to devote to Ranil Wickremesinghe’s campaign.”
-
-Nayanayakkara, who also lost his portfolio, said he had no regrets.
-
-“We have made the country win,” he said. “We crossed over when people were dying of dehydration on fuel queues. We are proudly leaving our ministers.”
-
-Fernando said he had previously resigned his positions to contest.
-
-...
-
-[Data](articles/d17d22fd.json)
-
-[Extended Data](ext_articles/d17d22fd.ext.json)
-
----
-
-### Harin and Manusha resign from ministerial posts
-
-*2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-and-manusha-resign-from-ministerial-posts) · `en`
-
-Harin Fernando and Manusha Nanayakkara have resigned from their respective ministerial portfolios.
-
-Accordingly, Fernando has resigned as the Minister of Tourism, Lands, Sports and Youth Affairs while Nanayakkara stepped down the Minister of Labour and Foreign Employment.
-
-This decision comes hours after the Supreme Court’s ruling issued this morning (09) declaring that the decision taken by the SJB to suspend the party membership of Manusha Nanayakkara and Harin Fernando was lawful.
-
-The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
-
-Accordingly, as per the Supreme Court verdict, Harin Fernando and Manusha Nanayakkara are disqualified from holding seats in Parliament.
-
-...
-
-[Data](articles/e1853694.json)
-
-[Extended Data](ext_articles/e1853694.ext.json)
 
 ---

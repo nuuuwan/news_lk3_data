@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 12:09:08**
+As of **2024-08-10 12:21:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,964 (100.0%) of 39,967 articles have been extended.
+39,967 (100.0%) of 39,967 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,17 +76,23 @@ In this context, about 1,000 Ukrainian soldiers have recently entered with artil
 
 ---
 
-### ශ්‍රී ලංකා මහජන පක්ෂයේ සහයත් රනිල්ට
+### Ranil to support the Sri Lanka People's Party
 
 *2024-08-10 11:21:01* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-මහජන-පක්ෂයේ-සහයත්-රනිල්ට/11-411286) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට ශ්‍රී ලංකා මහජන පක්ෂය තීරණය කර තිබේ.
+The Sri Lanka Maha Party will back President Ranil Wickremesinghe in the upcoming presidential election, as announced by MP Asankara Navaratne on October 10th.
 
-පාර්ලිමේන්තු මන්ත්‍රී අසංක නවරත්න මහතා විසින් අද(10දා) ඒ බව සඳහන් කළේය.
+🟩
+
+The Sri Lanka Maha Party has decided to support President Ranil Wickremesinghe in the next presidential election.
+
+MP Asankara Navaratne said this at this time (10th).
 
 ◼️
 
 [Data](articles/57c35161.json)
+
+[Extended Data](ext_articles/57c35161.ext.json)
 
 ---
 
@@ -128,19 +134,25 @@ Further interrogation of the suspect has led to the arrest of a 47-year-old resi
 
 ---
 
-### சீனப் பிரஜைகளை தாக்கிய இரு நேபாள பிரஜைகள் கைது ; வாதுவையில் சம்பவம் !
+### Two Nepal citizens arrested for attacking Chinese citizens;The incident in the plaintiff!
 
 *2024-08-10 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190723) · `ta`
 
-சீன பிரஜைகள் இருவரை ஹோட்டலொன்றில் வைத்து தாக்கி, அங்குள்ள சொத்துக்களுக்கு சேதம் விளைவித்த இரு நேபாள பிரஜைகளை வாதுவ பொலிஸார் கைதுசெய்துள்ளனர்.
+Two Nepalese citizens were arrested after attacking and damaging property belonging to Chinese nationals in a hotel. The suspects were initially conversing with the victims before launching the assault. Police plan to present them in court.
 
-தாக்குதலை மேற்கொண்ட நேபாள நாட்டுப் பிரஜைகள் இருவரும் சீனப் பிரஜைகளுடன் உரையாடிக் கொண்டிருந்ததாகவும் பின்னர் தாக்குதுலை மேற்கொண்டுள்ளதுடன் சொத்துக்களுக்கு சேதமேற்படுத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைதுசெய்யப்பட்ட நேபாள பிரஜைகள் இருவரையும் பாணந்துறை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+Vatuwa police have arrested two Nepal citizens who attacked two Chinese citizens in a hotel and damaged the property.
+
+The two Nepal nationals who attacked the attack were talking to Chinese nationals and later carried out the attack and damaged the property, police said.
+
+Police have taken steps to bring the two arrested citizens to the Panadura Magistrate's Court.
 
 ◼️
 
 [Data](articles/b9e156ae.json)
+
+[Extended Data](ext_articles/b9e156ae.ext.json)
 
 ---
 
@@ -166,21 +178,29 @@ The deceased is 5 feet and 6 inches tall and is 45 to 50 years old, police said.
 
 ---
 
-### තහනම් උත්තේජක භාවිත කළ බවට ඔප්පු වූ ඇමෙරිකානු ක්‍රීඩකයන්ට දඩුවම් නැත්තේ ඇයි?
+### Why are Americans punished for using banned stimulants?
 
 *2024-08-10 10:55:16* · [`adalk`](https://www.ada.lk/opinion/තහනම්-උත්තේජක-භාවිත-කළ-බවට-ඔප්පු-වූ-ඇමෙරිකානු-ක්‍රීඩකයන්ට-දඩුවම්-නැත්තේ-ඇයි-/2-411285) · `si`
 
-ප්‍රංශයේ පැරිස් නුවරදී පැවැත්වෙන 2024 ඔලිමිපික් උළෙලේ අවසන් දිනය හෙටට යෙදී තිබේ. ඒ අනුව මේ වනවිට පදක්කම් සටහනේ පෙරමුණ ගැනීම සඳහා චීනය සහ එක්සත් ජනපදය අතර තියුණු කරට කර සටනක් ක්‍රියාත්මක වෙමින් පවතී.
+Americans are penalized for using banned stimulants due to strict anti-doping regulations enforced by the U.S. Anti-Doping Agency (USADA) and the World Anti-Doping Agency (WADA). Despite allegations of delayed reporting and conflicts between USADA and WADA, athletes found guilty face sanctions. This controversy highlights the complexities of international sports governance and the challenges in ensuring fairness and integrity in competition.
 
-අලුත්ම පදක්කම් සටහනට අනුව එක්සත් ජනපදය රන් පදක්කම් 33ක්ද, රිදී පදක්කම් 39ක් සහ ලෝකඩ පදක්කම් 39ක්ද සමගින් සමස්ත පදක්කම් 111ක් දිනා ගැනීමට සමත්ව තිබේ. එසේම චීනය රන් පදක්කම් 33ක්, රිදී පදක්කම් 27ක් සහ ලෝකඩ පදක්කම් 23ක් දිනා ගනිමින් සමස්ත පදක්කම් සටහනේ දෙවැනි ස්ථානයේ පසුවෙයි.
+🟩
 
-කෙසේ වෙතත් චීනය මෙවර ඔලිම්පික් උළෙලේ පෙන්නුම කර ඇති මෙම සුවිශේෂී දක්ෂතාවන්ද සමගින්ම සුපුරුදු ලෙස මෙ වනවිට එරට ක්‍රීඩක ක්‍රීඩිකාවන් වෙත තහනම් උත්තේජක භාවිතා කිරිම සම්බන්ධයෙන් වන චෝදනා එල්ල වෙමින් පවතී.
+Last day at the 2024 Ollingiic Festival of the 2024 Ollingiant is tomorrow in Paris, France. Accordingly, a battle is being implemented to bear the lead in the medalism.
 
-එහෙත් මෙම චෝදනා අසත්‍ය බව ප්‍රකාශ කරන චීන මාධ්‍ය, ඇමෙරිකානු තහනම් උත්තේජක මර්දන නියෝජිතායතනය (USADA) මගින් තහනම් උත්තේජක ලබාගත් බවට චෝදනා එල්ල වී ඇති ක්‍රීඩක ක්‍රීඩිකාවන්ට පවා වසර ගණනක් යනතුරුම තරග වැදීමට අවස්ථාව ලබාදී තිබෙන බවට තොරතුරැ අනාවරණය කර සිටියි.
+According to the latest medalist chart, the US won 111 medals with 39 silver medals and 39 bronze medals. China is also second in the overall medal stage, winning 33 gold medals, 27 silver medals and 23 bronze medals.
+
+However, with these unique talents in the Olympic Games, however, is being charged with the use of banned stimulants.
+
+However, it is revealed that the American media, the US-banned stimulation repression agencies have been able to compete with the number of women to conclude the banned stimulants (USADA).
+
+They also point out that there is a conflict throughout the last days between the world banned stimulation repressive agency (WADA) and the USADA in the United States.. The media, the head of USADA, is shy and shyly to the world by the media.
 
 ...
 
 [Data](articles/f824b2be.json)
+
+[Extended Data](ext_articles/f824b2be.ext.json)
 
 ---
 

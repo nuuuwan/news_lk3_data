@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 08:36:30**
+As of **2024-08-10 08:56:05**
 
 ## Newspaper Stats
 
-*Scraped **39,941** Articles*
+*Scraped **39,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,661
 adaderanalk | 4,641
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,032
+tamilmirrorlk | 5,035
 virakesarilk | 6,333
 adaderanasinhalalk | 6,778
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,939 (100.0%) of 39,941 articles have been extended.
+39,941 (100.0%) of 39,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/7d0115b3.json)
+
+[Extended Data](ext_articles/7d0115b3.ext.json)
+
+---
+
+### பிரேசில் விமான விபத்தில் 61 பேர் பலி
+
+*2024-08-10 08:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரேசில்-விமான-விபத்தில்-61-பேர்-பலி/50-341899) · `ta`
+
+பிரேசிலின் சாவோ பாவ்லோ மாநிலத்தில் விமானம் ஒன்று விபத்துக்குள்ளானதில் அதில் பயணித்த 61 பேரும் உயிரிழந்துள்ளனர்.
+
+பிரேசிலின் தெற்கு மாநிலமான பரானாவில் உள்ள காஸ்கேவலில் இருந்து சாவோ பாவ்லோ நோக்கிப் பயணித்த விமானமொன்றே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+இந்த விபத்தில் உயிரிழந்தவர்களுக்கு பிரேசில் ஜனாதிபதி லூயிஸ் இனாசியோ லுலா டா சில்வா தமது இரங்கலைத் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/460c85f5.json)
 
 ---
 
@@ -137,6 +155,36 @@ Although the plane was covered with a popular area, no one was injured.
 [Data](articles/c383e847.json)
 
 [Extended Data](ext_articles/c383e847.ext.json)
+
+---
+
+### டெங்கு நோயாளர்கள் அதிகரிப்பு
+
+*2024-08-10 06:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-341897) · `ta`
+
+அத்துடன், கடந்த 24 மணித்தியாலங்களில் 148 பேர் பாதிக்கப்பட்டுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+அதன்படி, இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் இலங்கையில் மொத்தமாக 33 ஆயிரத்து 795 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+
+இந்த வருடத்தில் மாத்திரம் டெங்கு நோயினால் 14 பேர் உயிரிழந்துள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/af7e78aa.json)
+
+---
+
+### 24 மணித்தியாலங்களில் 20 முறைப்பாடுகள்
+
+*2024-08-10 06:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-20-முறைப்பாடுகள்/175-341896) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பில் கடந்த 24 மணித்தியாலங்களில் 20 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு நேற்று மாலை அறிவித்தது.
+
+இதற்கமைய தேர்தல் விதிகளை மீறியமை தொடர்பில் இதுவரையில் கிடைக்கப் பெற்றுள்ள முறைப்பாடுகளின் எண்ணிக்கை 157 ஆக அதிகரித்துள்ளதாக தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/58ad5f77.json)
 
 ---
 
@@ -1118,17 +1166,23 @@ In a joint statement, the three nations invited Israel and Hamas to restart talk
 
 ---
 
-### ඉන්දීය ධීවරයන් 35ක් නාවික හමුදා භාරයට
+### Navy personnel in troops 35 Indian fishermen
 
 *2024-08-09 18:38:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-35ක්-නාවික-හමුදා-භාරයට/11-411282) · `si`
 
-මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් 35 දෙනෙකු වයඹ මුහුදේදී නාවික හමුදාව විසින් සිය භාරයට ගෙන තිබේ.
+35 Indian fishermen were detained by the Navy during a search operation in the Northwestern Sea near Kudarama Todup.
 
-වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සමග වයඹ  මුහුදේ, කුදිරමලේ තුඩුවට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ සිදුකළ සෝදිසි මෙහෙයුමක දී ඔවුන් මෙලෙස නාවික හමුදාව භාරයට ගෙන ඇත.
+🟩
+
+35 Indian fishermen have taken into custody by the Navy in the Northwestern Sea.
+
+In search operations conducted by the Northwestern Sea, the North Western Sea, the Kudarama Todup, has been taken into custody.
 
 ◼️
 
 [Data](articles/30691cdc.json)
+
+[Extended Data](ext_articles/30691cdc.ext.json)
 
 ---
 
@@ -2223,63 +2277,5 @@ Accordingly, as per the Supreme Court verdict, Harin Fernando and Manusha Nanaya
 [Data](articles/e1853694.json)
 
 [Extended Data](ext_articles/e1853694.ext.json)
-
----
-
-### Harin Fernando steps down from ministerial posts
-
-*2024-08-09 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101108/harin-fernando-steps-down-from-ministerial-posts) · `en`
-
-Harin Fernando has resigned as the Minister of Tourism, Lands, Sports and Youth Affairs.
-
-This decision comes hours after the Supreme Court’s ruling issued this morning (09) declaring that the decision taken by the SJB to suspend the party membership of Manush Nanayakkara and Harin Fernando was lawful.
-
-The court issued this verdict while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
-
-On July 18, 2023, the Working Committee of the SJB decided to expel party members Harin Fernando and Manusha Nanayakkara from the party. In May 2022, the SJB had suspended the party membership of the two parliamentarians after they had accepted ministerial portfolios in the government while the party had vowed to take disciplinary action against them.
-
-◼️
-
-[Data](articles/e2e19107.json)
-
-[Extended Data](ext_articles/e2e19107.ext.json)
-
----
-
-### Letter from resignation to Sajith
-
-*2024-08-09 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199749) · `si`
-
-Field Marshal Sarath Fonseka resigned from his position, addressing a letter to Sajith Premadasa.
-
-🟩
-
-Parliamentarian Field Marshal Sarath Fonseka resigned from the post of resignation with resignation and a letter to Sajith Premadasa.
-
-◼️
-
-[Data](articles/1a77669b.json)
-
-[Extended Data](ext_articles/1a77669b.ext.json)
-
----
-
-### Sri Lanka online tourist e-visa resumption date uncertain: Minister
-
-*2024-08-09 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-tourist-e-visa-resumption-date-uncertain-minister-176161/) · `en`
-
-ECONOMYNEXT – Sri Lanka cannot immediately resume online visa issuance under the old system as ordered by court as the Immigration Department’s computer system has been changed to new procedures and fees, Public Security Minister Tiran Alles said.
-
-Sri Lanka’s supreme court suspended a controversial deal with IVS-GBS and VFS Global where big fees were charged from tourists to use what the industry said was a complex user-unfriendly system that was putting off visitors.
-
-When the VFS Global system started in April 2024, additional visa categories which were gazette with higher fees were introduced and the back end of the Immigration Department was also changed, Minister Alles said.
-
-Mobitel, a Sri Lanka-based telecom company that operated the old system had also said they can immediately resume only the old categories, Minister Alles said. The court also ordered that the the system revert to the earlier status quo.
-
-...
-
-[Data](articles/a9cfc3de.json)
-
-[Extended Data](ext_articles/a9cfc3de.ext.json)
 
 ---

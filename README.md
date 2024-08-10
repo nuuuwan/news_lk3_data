@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 10:21:02**
+As of **2024-08-10 10:36:27**
 
 ## Newspaper Stats
 
-*Scraped **39,954** Articles*
+*Scraped **39,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,662
-adaderanalk | 4,645
+adaderanalk | 4,646
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,037
 virakesarilk | 6,334
@@ -26,29 +26,47 @@ adaderanasinhalalk | 6,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,952 (100.0%) of 39,954 articles have been extended.
+39,954 (100.0%) of 39,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි දෙදෙනෙකු අත්අඩංගුවට
+### Sri Lanka Mahajana Party to support Ranil in presidential race
+
+*2024-08-10 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101126/sri-lanka-mahajana-party-to-support-ranil-in-presidential-race) · `en`
+
+Leader of the Sri Lanka Mahajana Party, MP Asanka Nawaratne, has announced that his party will support President Ranil Wickremesinghe in the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/a24caaa9.json)
+
+---
+
+### Two suspects arrested for murder
 
 *2024-08-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199773) · `si`
 
-මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි සැකකරුවන් දෙදෙනෙකු හංවැල්ල පොලීසිය විසින් ඊයේ (09) අත්අඩගුවට ගෙන ඇත.
+Hanwella Police arrested two suspects linked to a murder case. A 47-year-old man from Hanguwannu was assaulted with sharp weapons, leading to his death. The suspects, including a 24-year-old from Dollawatta, were apprehended after the incident. Further investigation is ongoing.
 
-අගෝස්තු 06 වනදා හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේදී පුද්ගලයෙකුට තියුණු ආයුධ වලින් පහරදී ඝාතනය කර තිබුණි.
+🟩
 
-එම සිද්ධිය සම්බන්ධයෙන් හංවැල්ල පොලිස් ස්ථානයේ නිලධාරීන් සිදුකළ විමර්ශනයකින් අනතුරුව ඝාතනයට සම්බන්ධ එක් අයෙකු වරකාපොලදී අත්අඩංගුවට ගෙන ඇත.
+Two suspects have been taken into custody by Hanwella Police yesterday (09).
 
-එම සැකකරු වයස 24 ක් වන දොලවත්ත ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහුගෙන් කරන ලද වැඩිදුර ප්‍රශ්න කිරීම්වලදී මෙම අපරාධයට ආධාර අනුබල ලබාදුන් අනෙක් පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+A person was assaulted by a sharp weapons at the Hanwella Police Division in Hanwella, Hanwella.
 
-වයස අවුරුදු 47ක් වන එම පුද්ගලයා හේවාදුන්න ප්‍රදේශයේ පදිංචිකරුකරුවෙකු වන අතර, සිද්ධිය සම්බන්ධයෙන් හංවැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The Hanwella police station has been arrested following the incident in the Hanwella police station and arrested one involved in the murder in Warakapola.
+
+The suspect is a 24 year old resident of the Dollawatta area and has been arrested by the other who supported the crime in further interrogation.
+
+The victim is 47 years old, a resident of the Hanguwannu area and the Hanwella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/458dfb85.json)
+
+[Extended Data](ext_articles/458dfb85.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ The identity of the deceased is yet to be confirmed while he is believed to be b
 ◼️
 
 [Data](articles/ad258f8a.json)
+
+[Extended Data](ext_articles/ad258f8a.ext.json)
 
 ---
 
@@ -2263,27 +2283,5 @@ The Meteorological Department has urged the municipalities in the region to spre
 [Data](articles/6f5ea041.json)
 
 [Extended Data](ext_articles/6f5ea041.ext.json)
-
----
-
-### Election Commission to focus on social media during presidential poll
-
-*2024-08-09 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101109/election-commission-to-focus-on-social-media-during-presidential-poll) · `en`
-
-A discussion has been held at the Election Commission regarding the security measures to be implemented on the day of the accepting of nominations for the 2024 Presidential Election.
-
-The meeting was attended by senior police officers from the Colombo District and officials from the Election Commission.
-
-Meanwhile, a workshop on the enforcement of election laws and media guidelines took place at the Department of Government Information this morning (09).
-
-Deputy Election Commissioner (Electoral Dispute Resolution) Piyumi Atigala stated that numerous complaints have been received related to social media. As a result, special attention is being given to social media during the election period, she said.
-
-“We are focusing particularly on Instagram and TikTok. We are in direct contact with these companies. If they do not comply with the regulations and orders issued by us regarding social media, they have indicated their willingness to go beyond the usual conventions and support us”, she said.
-
-◼️
-
-[Data](articles/6c6e7568.json)
-
-[Extended Data](ext_articles/6c6e7568.ext.json)
 
 ---

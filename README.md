@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 10:09:24**
+As of **2024-08-10 10:21:02**
 
 ## Newspaper Stats
 
-*Scraped **39,952** Articles*
+*Scraped **39,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,99 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,662
-adaderanalk | 4,644
+adaderanalk | 4,645
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,037
 virakesarilk | 6,334
-adaderanasinhalalk | 6,779
+adaderanasinhalalk | 6,780
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,949 (100.0%) of 39,952 articles have been extended.
+39,952 (100.0%) of 39,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### ஐக்கிய மக்கள் சக்தியின் உதவிச் செயலாளராக ராம் நியமனம்
+### මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-08-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199773) · `si`
+
+මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි සැකකරුවන් දෙදෙනෙකු හංවැල්ල පොලීසිය විසින් ඊයේ (09) අත්අඩගුවට ගෙන ඇත.
+
+අගෝස්තු 06 වනදා හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේදී පුද්ගලයෙකුට තියුණු ආයුධ වලින් පහරදී ඝාතනය කර තිබුණි.
+
+එම සිද්ධිය සම්බන්ධයෙන් හංවැල්ල පොලිස් ස්ථානයේ නිලධාරීන් සිදුකළ විමර්ශනයකින් අනතුරුව ඝාතනයට සම්බන්ධ එක් අයෙකු වරකාපොලදී අත්අඩංගුවට ගෙන ඇත.
+
+එම සැකකරු වයස 24 ක් වන දොලවත්ත ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහුගෙන් කරන ලද වැඩිදුර ප්‍රශ්න කිරීම්වලදී මෙම අපරාධයට ආධාර අනුබල ලබාදුන් අනෙක් පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
+
+වයස අවුරුදු 47ක් වන එම පුද්ගලයා හේවාදුන්න ප්‍රදේශයේ පදිංචිකරුකරුවෙකු වන අතර, සිද්ධිය සම්බන්ධයෙන් හංවැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/458dfb85.json)
+
+---
+
+### Unidentified body found in Kelani River
+
+*2024-08-10 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101125/unidentified-body-found-in-kelani-river) · `en`
+
+An unidentified male body has been found floating in the Kelani River near the old market in the Grandpass police division.
+
+The body has currently been placed in the mortuary of the Colombo National Hospital.
+
+The identity of the deceased is yet to be confirmed while he is believed to be between 45 to 50 years old, and approximately 5 feet and 6 inches tall, police said.
+
+◼️
+
+[Data](articles/ad258f8a.json)
+
+---
+
+### Ram appointed as Assistant Secretary of the United People's Power
 
 *2024-08-10 09:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-உதவிச்-செயலாளராக-ராம்-நியமனம்/175-341900) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் உதவிச் செயலாளராக கட்சியின் வடகொழும்பு பிரதான அமைப்பாளரும் மேல்மாகாணசபை முன்னாள் உறுப்பினருமான கலாநிதி சி.வை.பி ராம் நியமிக்கப்படுள்ளார்.
+Dr. CVP Ram is named Assistant Secretary of the United People's Power, also serving as the party's North Church Chief Organizer and a former Western Provincial Council member. Sajith Premadasa, the party leader and opposition leader, is appointed as the Assistant Secretary for 2024, tasked with addressing the post's responsibilities effectively.
 
-ஐக்கிய மக்கள் சக்தி கட்சி யாப்பில் கட்சியின் தலைவருக்கு  வழங்கப்பட்டிருக்கும் அதிகாரங்களுக்கமைய கட்சியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாசவினால் 2024ஆம் ஆண்டுக்காக ஐக்கிய மக்கள் சக்தியின் உதவி செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-அதன் பிரகாரம் இந்த பதவியின் கீழ் சாட்டப்பட்டிருக்கும் விடயங்கள் மற்றும் பொறுப்புக்களை உங்களால் சிறப்பாக மேற்கொள்ள முடியும் என தான் எதிர்பார்ப்பதாக சஜித் பிரேமதாச அவருக்கு கையளித்துள்ள கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது. R
+Dr. CVP Ram has been appointed as the Assistant Secretary of the United People's Power and the party's North Church Chief Organizer and former Member of the Western Provincial Council.
+
+Sajith Premadasa, the party leader and opposition leader, has been appointed as the Assistant Secretary of the United People's Power for 2024, according to the powers vested in the United People's Power Party.
+
+Sajith Premadasa said in a letter to him that he expects you to take good on the issues and responsibilities of the post under this post.. Remble
 
 ◼️
 
 [Data](articles/49a4d501.json)
 
+[Extended Data](ext_articles/49a4d501.ext.json)
+
 ---
 
-### කැලණි ගඟේ නාඳුනන මළ සිරුරක්
+### Unidentified body found in Kelani River
 
 *2024-08-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199772) · `si`
 
-ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ තොටලඟ පැරණි පොළ අසල කැලණි ගඟේ නාඳුනන මළ සිරුරක් තිබී සොයාගෙන ඇත.
+An unidentified male body, aged 45-50, discovered in the Kelani River near Grandpass, now at Colombo National Hospital morgue.
 
-මෘත ශරීරය මේ වනවිට කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+🟩
 
-මරණකරුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති අතර, ඔහු වයස අවුරුදු 45ත් 50ත් අතර වූ පිරිමි පුද්ගලයෙකු බව පොලීසිය සඳහන් කරයි.
+An unidentified body was found in the Kelani River near the Grandpass sentence of the Grandpassa area.
+
+The body has been placed at the Colombo National Hospital morgue.
+
+The identity of the deceased has not yet been established and he is a male between 45 and 50 years.
 
 ◼️
 
 [Data](articles/10edcc45.json)
+
+[Extended Data](ext_articles/10edcc45.ext.json)
 
 ---
 
@@ -75,6 +123,8 @@ The Commissioner General of Excise, M. J. Gunasiri, stated that the new method i
 ◼️
 
 [Data](articles/f94c9d99.json)
+
+[Extended Data](ext_articles/f94c9d99.ext.json)
 
 ---
 
@@ -2235,47 +2285,5 @@ Deputy Election Commissioner (Electoral Dispute Resolution) Piyumi Atigala state
 [Data](articles/6c6e7568.json)
 
 [Extended Data](ext_articles/6c6e7568.ext.json)
-
----
-
-### Harin and forest resigns from ministers
-
-*2024-08-09 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199754) · `si`
-
-Harin Fernando and Manusha Nanayakkara have stepped down from their ministerial positions.
-
-🟩
-
-Harin Fernando and Manusha Nanayakkara says he resigned from the ministerial portfolio.
-
-◼️
-
-[Data](articles/03dd573c.json)
-
-[Extended Data](ext_articles/03dd573c.ext.json)
-
----
-
-### 35 Indian fishermen arrested
-
-*2024-08-09 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199752) · `si`
-
-35 Indian fishermen and four vessels were arrested by the Navy in the North Western Sea, including the Waharama Sea and Kudarama areas. They were taken to Vijaya for legal proceedings under the Kalpitiya Fisheries Inspector Office.
-
-🟩
-
-35 Indian fishermen have been arrested by the Navy in the North Western Sea.
-
-The Navy said that they were taken into custody by the North Western Sea, the North Western Sea, the Waharama Sea, the North Western Sea, Kudarama.
-
-Four Indian fishing vessels have also taken into custody by the Navy.
-
-The arrested Indian fishermen were brought to the Vijaya Vijaya Vijaya and the next legal proceedings will be handed over to the Kalpitiya Fisheries Inspector Office.
-
-◼️
-
-[Data](articles/51344744.json)
-
-[Extended Data](ext_articles/51344744.ext.json)
 
 ---

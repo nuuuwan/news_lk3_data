@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 07:02:42**
+As of **2024-08-10 07:29:31**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,775
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,934 (100.0%) of 39,936 articles have been extended.
+39,936 (100.0%) of 39,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### 61 දෙනෙක්ට මරු කැඳවූ ගුවන් යානා අනතුර
+### Airplane accident that killed 61
 
 *2024-08-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199768) · `si`
 
-බ්‍රසීලයේ සාවෝපාවුලෝ ප්‍රදේශයේ ගුවන්‍ යානා අනතුරකින් එම යානයේ සිටි සියලුදෙනාම ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic airplane crash in Sawapitiya, Brazil, all 61 aboard, including four crew members and 57 passengers, perished. Despite the plane's popularity among tourists, miraculously, no injuries occurred on the ground.
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ එහි කාර්‍ය මණ්ඩලයේ සිව් දෙනෙක් සහ මගීන් 57 දෙනෙක් සිටි බවයි.
+🟩
 
-එම යානය ජනාකීර්ණ ප්‍රදේශයකට කඩාවැටී තිබුණද ඉන් භූමියේ සිටි කිසිවෙකුටත් හානියක් වී නොතිබුණි.
+All of the aircraft were killed in a plane accident in Sawapitiya, Brazil.
+
+The international media reported that there were four staff and 57 passengers.
+
+Although the plane was covered with a popular area, no one was injured.
 
 ◼️
 
 [Data](articles/c383e847.json)
 
+[Extended Data](ext_articles/c383e847.ext.json)
+
 ---
 
-### ஒக்டோபர் முதல் இலத்திரனியல் கடவுச்சீட்டுக்கள்
+### Electronic Passports from October
 
 *2024-08-10 05:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-முதல்-இலத்திரனியல்-கடவுச்சீட்டுக்கள்/175-341895) · `ta`
 
-ஒக்டோபர் மாதம் முதல்  இலத்திரனியல் கடவுச்சீட்டுக்கள் வழங்கப்படும் என பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+From October, electronic passports will replace traditional ones, as announced by Public Security Minister Tran Ales. Currently, only 23% of passports have been issued, with many bought but unused. It's advised to get a passport now only if essential, as new electronic versions will be available in October.
 
-இதுவரை வழங்கப்பட்ட கடவுச்சீட்டுக்களில் 23வீதம்  மட்டுமே பயன்படுத்தப்பட்டுள்ளது. மற்ற கடவுச்சீட்டுக்கள் வாங்கப்பட்டன, ஆனால் பயன்படுத்தப்படவில்லை.
+🟩
 
-இந்த இரண்டு மாதத்திற்கான கடவுச்சீட்டை அவசியமானால் மட்டுமே பெற்றுக்கொள்ளுமாறு மக்களை கேட்டுக்கொள்கின்றேன். இல்லையெனில், ஒக்டோபரில் புதிய கடவுச்சீட்டை பெறுவீர்கள் என்றார். (a)
+Electronic passports will be issued from October, Public Security Minister Tran Ales said.
+
+Only 23 percent of the passports issued so far. Other passports were purchased, but not used.
+
+I urge people to obtain a passport for this two months only if necessary. Otherwise, you will receive a new passport in October. (A)
 
 ◼️
 
 [Data](articles/ca13f7a7.json)
+
+[Extended Data](ext_articles/ca13f7a7.ext.json)
 
 ---
 

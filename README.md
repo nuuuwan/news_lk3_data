@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 07:50:37**
+As of **2024-08-10 08:15:02**
 
 ## Newspaper Stats
 
-*Scraped **39,937** Articles*
+*Scraped **39,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,71 @@ adaderanalk | 4,640
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,032
 virakesarilk | 6,333
-adaderanasinhalalk | 6,776
+adaderanasinhalalk | 6,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,936 (100.0%) of 39,937 articles have been extended.
+39,937 (100.0%) of 39,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### ප්‍රදේශ කිහිපයකට අද තද වැසි
+### මැතිවරණ කොමිෂන් සභා වෙබ් අඩවියට සමාන තවත් වෙබ් අඩවියක්
+
+*2024-08-10 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199771) · `si`
+
+මැතිවරණ කොමිෂන් සභාවේ වෙබ් අඩවියට සමාන ව්‍යාජ වෙබ් අඩවියක් සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇති බව පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසා සිටියි.
+
+එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණගල මහතා සඳහන් කළේ, මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවටද පැමිණිල්ලක් ඉදිරිපත් කර ඇති බවයි.
+
+මේ අතර ජනාධිපතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාර ගැනීමේ කාලය ඊයේ (09) මධ්‍යම රාත්‍රියෙන් අවසන් වූ බව මැතිවරණ කොමිෂන් සභාව පවසා සිටියි.
+
+අදාළ කාලය පසුගිය 07 වනදා මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතව තිබුණ ද, තැපෑලෙන් සිදුවිය හැකි ප්‍රමාද වීම් සහ කොමිෂන් සභාව වෙත සිදුකර තිබූ ඉල්ලීම් සැලකිල්ලට ගනිමින් අයදුම්පත් භාර ගැනීමේ කාලය දීර්ඝ කිරීමට පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/f978f3c4.json)
+
+---
+
+### මත්පැන් බෝතලයේ ආරක්ෂිත ස්ටිකරයේ වෙනසක්
+
+*2024-08-10 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199770) · `si`
+
+මත්පැන් බෝතල් සඳහා යොදා ගන්නා ආරක්ෂිත ස්ටිකරය ඔක්තෝබර් 01 වනදා සිට වෙනස් කිරීමට සුරාබදු දෙපාර්තමේන්තුව තීරණය කර ඇත.
+
+සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා සඳහන් කර ඇත්තේ, නව ක්‍රමවේදය මඟින් දැනට භාවිත වන ස්ටිකරයේ පවතින දුර්වලතා මඟහැරී යනු ඇති බවයි.
+
+◼️
+
+[Data](articles/390030f2.json)
+
+---
+
+### Heavy rains today
 
 *2024-08-10 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199769) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව විසින් අද (10) උදෑසන නිකුත්කළ කාලගුණ අනාවැකිය අනුව බස්නාහිර පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Expect heavy showers across the Western Province today, with potential for over 50mm rainfall. Thundershowers expected in other regions from evening onwards. High chance of temporary strong winds and lightning due to storms. Public advised to stay cautious.
 
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැනවැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-එමෙන්ම බස්නාහිර, උතුර සහ නැගෙනහිර පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Western Province today (10th), according to the weather forecast issued by the weather forecast.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව  ජනතාවගෙන් ඉල්ලා සිටියි.
+Thundershowers during the evening or night in the rest of the island.
+
+There are also mm in the Western, North and East. Heavy rains can occur more than 50.
+
+The Department of Meteorology also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/627859b6.json)
+
+[Extended Data](ext_articles/627859b6.ext.json)
 
 ---
 
@@ -2245,45 +2283,5 @@ According to the law, the election is expected to take place within the next 3 m
 [Data](articles/c557b9eb.json)
 
 [Extended Data](ext_articles/c557b9eb.ext.json)
-
----
-
-### US commits additional USD 24.5M through development agreement with Sri Lanka
-
-*2024-08-09 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101107/us-commits-additional-usd-245m-through-development-agreement-with-sri-lanka) · `en`
-
-The U.S. Embassy has announced an additional commitment of USD 24.5 million (Rs. 7.2 billion) from the American people to further the United States’ long-standing investment in the people of Sri Lanka and the US-Sri Lanka partnership.
-
-The additional funding was announced during a visit to Sri Lanka by the U.S. Agency for International Development’s (USAID) Assistant Administrator of the Bureau for Asia Michael Schiffer at an event held at the Ministry of Finance. USAID Sri Lanka and Maldives Mission Director Gabriel Grau also participated in Friday’s ceremony alongside State Minister of Finance Shehan Semasinghe, the US Embassy in Colombo said.
-
-...
-
-[Data](articles/b6ee19db.json)
-
-[Extended Data](ext_articles/b6ee19db.ext.json)
-
----
-
-### National policy should be set up to protect the rights of private sector employees
-
-*2024-08-09 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/190641) · `ta`
-
-A national policy is needed to safeguard private sector employees' rights, including fair wages, safety, and benefits. The lack of such policies affects hundreds of thousands of workers facing issues like inadequate salaries, insurance, and instability. The opposition leader calls for a comprehensive approach to address these challenges, emphasizing the need for a National Occupational Safety Policy to ensure employee rights and welfare.
-
-🟩
-
-Hundreds of thousands of people are working in private sector in our country. Opposition Leader Sajith Premadasa said that a proper national policy should be set up on their salary and labor salary.
-
-There is no clear system of the service safety, insurance and adequate salaries of employees working in the private sector.
-
-Private sector employees face a number of issues including income tax amendment issue, consumer cost pressure, domestic credit reconstruction system and industrial stability.. There should be a national professional policy in the country for the challenges that face the ethnic equality of milk.
-
-In particular, issues, including the rights, safety and additional allowance of our people who serve in the state and private sector, must be confirmed.. So I urge the government to take steps to protect the rights of employees in the private sector by proposing a National Occupational Safety Policy. He mentioned that.
-
-◼️
-
-[Data](articles/e3661900.json)
-
-[Extended Data](ext_articles/e3661900.ext.json)
 
 ---

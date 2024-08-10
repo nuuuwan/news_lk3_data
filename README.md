@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 11:20:52**
+As of **2024-08-10 11:36:23**
 
 ## Newspaper Stats
 
-*Scraped **39,961** Articles*
+*Scraped **39,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,663
-adaderanalk | 4,647
+adaderanalk | 4,648
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,038
 virakesarilk | 6,336
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,960 (100.0%) of 39,961 articles have been extended.
+39,961 (100.0%) of 39,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Israeli airstrike on school in Gaza City kills over 60 people, Palestinian health officials say
+
+*2024-08-10 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101128/israeli-airstrike-on-school-in-gaza-city-kills-over-60-people-palestinian-health-officials-say) · `en`
+
+An Israeli airstrike hit a school-turned-shelter in Gaza City early Saturday, killing more than 60 people, Palestinian health authorities said, in one of the deadliest strikes in the 10-month-old war between Israel and Hamas.
+
+The Israeli military acknowledged the strike, claiming without evidence that it hit a Hamas command center within the school.
+
+The strike on the Tabeen school in central Gaza City also wounded 47 people, the Health Ministry’s Ambulance and Emergency service said. The facility, like almost all of Gaza Strip’s schools, has been used as a shelter for people who have been forced to flee their homes by the war.
+
+According to the United Nations, 477 out of 564 schools in Gaza have been directly hit or damaged in the war as of July 6. In June, an Israeli strike on a school sheltering displaced Palestinians in central Gaza killed at least 33 people, including 12 women and children, according to local health officials.
+
+...
+
+[Data](articles/3ba3d0dd.json)
+
+---
 
 ### Two arrested in connection with Hanwella murder
 
@@ -45,6 +63,8 @@ Further interrogation of the suspect has led to the arrest of a 47-year-old resi
 ◼️
 
 [Data](articles/be44ab0b.json)
+
+[Extended Data](ext_articles/be44ab0b.ext.json)
 
 ---
 
@@ -2235,33 +2255,5 @@ Although Renings qualified for the last 12 years. As a result, he had to be sati
 [Data](articles/307c41e3.json)
 
 [Extended Data](ext_articles/307c41e3.ext.json)
-
----
-
-### Married to women at the age of 9
-
-*2024-08-09 16:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/9-வயதில்-பெண்களுக்கு-திருமணம்/50-341867) · `ta`
-
-A controversial bill in Iraq proposes lowering the marriage age for girls to 9 and boys to 15, sparking outrage as it contrasts with Iran's 18-year-old threshold. Despite the legal limit being 18, UNICEF reports that 28% of Iraqi women marry before this age. Iraqi women are protesting against this proposed law.
-
-🟩
-
-The controversial bill, which reduces women's marriage age to 9, is said to have been filed in the Iraqi parliament.
-
-Accordingly, males can be married at the age of 15 and girls at the age of 9.
-
-At the same time, the legal age for women's marriage in Iran is 18.
-
-But under the current Mosque, it is said that women and judicial consent can marry women at the age of 9.
-
-The UN Children's Organization, UNICEF, said that although the legal age is 18, 28 percent of women in Iraq have already been married before they reach that age.
-
-It is also reported that Iraqi women have launched a struggle against the current relaxation bill.
-
-◼️
-
-[Data](articles/6163f611.json)
-
-[Extended Data](ext_articles/6163f611.ext.json)
 
 ---

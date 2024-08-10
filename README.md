@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 21:56:05**
+As of **2024-08-10 22:09:51**
 
 ## Newspaper Stats
 
-*Scraped **40,024** Articles*
+*Scraped **40,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,672
-adaderanalk | 4,656
+adaderanalk | 4,657
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
 virakesarilk | 6,347
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,022 (100.0%) of 40,024 articles have been extended.
+40,024 (100.0%) of 40,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### මාලිමාවේ මැතිවරණ ප්‍රකාශනය 26 එළියට
+### The electorate's election manifesto 26
 
 *2024-08-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199795) · `si`
 
-ජාතික ජන බලවේගයේ මැතිවරණ ප්‍රකාශනය එළඹෙන 26 වනදා එළිදක්වන බව එහි නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake announced the release of the election manifesto on the 26th during a rally in Embilipitiya, aiming to boost national popularity.
 
-අද (10) පස්වරුවේ ඇඹිලිපිටියේ පැවති ජන රැලියකදී ඔහු ඒ බව සඳහන් කළේය.
+🟩
 
-පුනරුදයට රටම එකට යන මැයෙන් ජාතික ජනබලවේගයේ ජන රැලියක් අද පස්වරුවේ මෙලෙස ඇඹිලිපිටියේදී පැවැත්වුණේ එහි නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+Leader of Anura Kumara Dissanayake says that the election manifesto arrive on the 26th.
+
+He was speaking at a rally in the rally in Embilipitiya this afternoon.
+
+A rally in the national popularity was held at Embilipitiya at Embilipitiya at Embilipitiya this afternoon.
 
 ◼️
 
 [Data](articles/44f20d1a.json)
 
+[Extended Data](ext_articles/44f20d1a.ext.json)
+
 ---
 
-### සර්වජන බලයේ 2 වැනි කෙටුම්පත එළිදක්වයි
+### Extensions of the 2nd Budduse
 
 *2024-08-10 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199794) · `si`
 
-සර්වජන බලයේ 2 වැනි කෙටුම්පත විද්වත් සංවාදයට ගැනීම අද (10) පස්වරුවේ කුරුණෑගල කතරගම දේවාලය අසල වැව් තාවුල්ලේදී සිදුකෙරුණි.
+The 2nd Drafts of the Universal Balannel took place today at Kataragama Devalaya, Kurunegala, with Surgeoon Power Dilith Jayaweera and political unity leaders in attendance. Mawbathi Janatha Entrepreneurial Diliva Jayaweera highlighted a unique, practical program for universal power, marking a significant moment in the event.
 
-එම අවස්ථාවට සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා සහ එම දේශපාලන එකමුතුවේ පක්ෂ නායකයින් ඇතුළු පිරිසක් එක්වුණි.
+🟩
 
-මෙහිදී අදහස් දැක්වූ මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසුවේ, කිසිඳු අපේක්ෂකයකු ඉදිරිපත් නොකළ තාර්කික හා ප්‍රායෝගික වැඩපිළිවෙළක් සර්වජන බලය ඉදිරිපත් කර ඇති බවය.
+The 2nd Drafts of the Universal Balannel was held at the Kataragama Devalaya in Kurunegala this afternoon.
+
+Surgeoon Power Dilith Jayaweera and the party leaders of the political unity were present at the occasion.
+
+Speaking at the meeting, the Mawbathi Janatha Entrepreneral Diliva Jayaweera said that a rational and practical program that had not been presented in any candidate had presented universal power.
 
 ◼️
 
 [Data](articles/4a8d40d9.json)
+
+[Extended Data](ext_articles/4a8d40d9.ext.json)
 
 ---
 
@@ -153,6 +165,24 @@ Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunitio
 [Data](articles/56822686.json)
 
 [Extended Data](ext_articles/56822686.ext.json)
+
+---
+
+### Person arrested with stock of weapons, ammunition and drugs in Rajagiriya
+
+*2024-08-10 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101137/person-arrested-with-stock-of-weapons-ammunition-and-drugs-in-rajagiriya) · `en`
+
+The officers of Police Narcotics Bureau (PNB) have arrested an individual along with a T-56 weapon, a micro pistol, a cache of live ammunition and drugs in Rajagiriya.
+
+Accordingly, police have also taken into custody a T-56 magazine, over 400 rounds of live ammunition including T56 and 9mm bullets, 06 grams of heroin, 700 milligrams of cannabis and 200 milligrams of Kush cannabis which were found in the suspect’s possession.
+
+Police said that the arrest was carried out based on information uncovered during interrogation of a suspect apprehended by Police Special Task Force (STF) on August 09, which led to the recovery of a pistol.
+
+Meanwhile, it is reported that the suspect arrested with the firearms, ammunition and drugs is a prison officer.
+
+◼️
+
+[Data](articles/6ed1cc3c.json)
 
 ---
 
@@ -2223,23 +2253,5 @@ Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gra
 [Data](articles/a9a81b24.json)
 
 [Extended Data](ext_articles/a9a81b24.ext.json)
-
----
-
-### SC quashes recommendations by Upali Abeyratne Commission
-
-*2024-08-10 02:21:06* · [`dailyftlk`](https://www.ft.lk/news/SC-quashes-recommendations-by-Upali-Abeyratne-Commission/56-765356) · `en`
-
-The Supreme Court issued an order yesterday nullifying the implementation of the recommendations made by the Presidential Commission of Inquiry on Political Victimisation led by retired Supreme Court Justice Upali Abeyratne.
-
-The order was issued by the Apex Court after considering the petitions filed by several petitioners including Senior DIG Ravi Seneviratne, retired High Court Judge Padmini Ranawaka, Former Commander of the Sri Lanka Navy Travis Sinniah, SSP Shani Abeysekera, Senior Counsel Upul Jayasuriya and Sandhya Ekneligoda against the three-member PCoI appointed by President Gotabaya Rajapaksa in January 2020,
-
-The petitions were heard by a three-judge bench comprising Justices Vijith Malalgoda, Achala Wengappuli, and Arjuna Obeysekera. In their verdict, the justices mandated that the Government compensate the petitioners by covering court fees totalling Rs. 150 000 each.
-
-...
-
-[Data](articles/b3c406a9.json)
-
-[Extended Data](ext_articles/b3c406a9.ext.json)
 
 ---

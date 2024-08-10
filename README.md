@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 17:56:58**
+As of **2024-08-10 18:15:14**
 
 ## Newspaper Stats
 
-*Scraped **40,008** Articles*
+*Scraped **40,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,79 @@ adaderanalk | 4,653
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,052
 virakesarilk | 6,344
-adaderanasinhalalk | 6,793
+adaderanasinhalalk | 6,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,004 (100.0%) of 40,008 articles have been extended.
+40,008 (100.0%) of 40,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### පාකිස්තානයේ ගැටුම්වලින් හමුදාවේ තිදෙනෙක් මරුට
+### ජීවිත දෙකක් අහිමි කළ රිය අනතුර
+
+*2024-08-10 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199790) · `si`
+
+හැටන් නල්ලතන්නිය ප්‍රදේශයේ සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.‍
+
+ත්‍රිරෝද රථයක් සහ කැබ් රථයක් ගැටීමෙන් එම අනතුර සිදුවී ඇති බව පොලීසිය පැවසීය.
+
+අනතුරින් තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මස්කෙළිය රෝහල වෙත ඇතුළත් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/27d667d8.json)
+
+---
+
+### Three army killed in clashes - Pakistan
 
 *2024-08-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199789) · `si`
 
-පාකිස්තානයේ සටන්කාමීන් සමග ඇතිවූ ගැටුම්වලින් එරට හමුදා සාමාජිකයින් තිදෙනෙකු මියගොස් තිබේ.
+In recent conflicts in Pakistan, three soldiers and four militants died. Clashes occurred in the Kabeer area, part of a larger conflict involving over 550 combatants nationwide in the past year.
 
-එරට කයිබර් පළාතේ එම ගැටුම් ඇතිවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-ගැටුම්වලින් සටන්කාමීන් සිව් දෙනෙකු ද මිය ගොස් ඇති බව සඳහන් ය.
+Three army soldiers have died of conflicts with militants in Pakistan.
 
-මේ වසරේ ගතවූ කාලය තුළ පාකිස්තානය පුරා සටන්කාමීන්ගේ ප්‍රහාර 550 කට අධික සංඛ්‍යාවක් සිදුවී ඇති අතර ඒ හේතුවෙන් එරට ආරක්ෂක අංශ සාමාජිකයින් සහ සිවිල් වැසියන් 600 කට අධික පිරිසක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports that the clashes erupted in the Kabeer area of ​​the country.
+
+Four militants were killed in conflicts.
+
+Over the past year, there have been over 550 combatants throughout Pakistan.
 
 ◼️
 
 [Data](articles/c8343502.json)
 
+[Extended Data](ext_articles/c8343502.ext.json)
+
 ---
 
-### மஸ்கெலியா விபத்தில்: இருவர் பலி
+### Maskeliya accident: two killed
 
 *2024-08-10 17:30:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியா-விபத்தில்-இருவர்-பலி/76-341917) · `ta`
 
-மஸ்கெலியா, நகரில் இருந்து மரே தோட்ட வலதள பிரிவுக்கு சென்ற முச்சக்கர வண்டி ஒன்று அதி வேக காரணமாக கட்டுப்பாட்டை இழந்து நிலையில் முன்னாள் வந்த வாகனத்தில் மோதுண்டு முச்சக்கர வண்டி தடம் புரண்டு இருவர் சம்பவ இடத்திலேயே பலி.
+In a tragic accident near Maskeliya, a speeding three-wheeler lost control, resulting in two fatalities. Two others were hospitalized for treatment. The incident occurred on the Maskeliya Nallathani main road, and the police are investigating.
 
-மேலும் இரண்டு பேர் மஸ்கெலியா மாவட்ட வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு உள்ளார்கள்.
+🟩
 
-இவ் விபத்து குறித்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி விசாரணை நடத்தி வருகின்றனர்
+A three -wheeler from Maskeliya to the Mare Estate Division from the city to the Mare Estate Division lost control due to high speed.
 
-இறந்த சடலம் சம்பவம் நடந்த மஸ்கெலியா நல்லதண்ணி பிரதான வீதியில் புரவுன்லோ தோட்டத்தை சேர்ந்த பகுதியில் சாலையில் உள்ளது.
+Two more people are taken to the Maskeliya District Hospital for further treatment for further treatment.
+
+Maskeliya Police Station Officer is investigating the accident
+
+The deceased body is located on the road in the Maskeliya Nallathani main road in the Purunlo estate.
 
 ◼️
 
 [Data](articles/9e1d962d.json)
+
+[Extended Data](ext_articles/9e1d962d.ext.json)
 
 ---
 
@@ -130,25 +158,35 @@ In this case, the public has been brought to the attention of the concerned part
 
 ---
 
-### திருகோணேஸ்வர அம்மன் தாலி கொள்ளை
+### Trincomalee Amman Thali robbery
 
 *2024-08-10 17:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணேஸ்வர-அம்மன்-தாலி-கொள்ளை/75-341916) · `ta`
 
-திருகோணமலை – திருகோணேஸ்வரம் ஆலயத்தில் தொல்பொருள் பெறுமதியான பல கோடி ரூபா பெறுமதியான தாலி கொள்ளையிடப்பட்டுள்ளது.
+A priceless Tali, dating back to the Chola era, was stolen from the Trincomalee temple. The artifact, believed to be invincible and irreplaceable, was safeguarded by devotees during the Portuguese invasion. Despite efforts to maintain peace, public outcry over the loss is immense, as the Tali is considered invaluable. The police have yet to file a report. The incident has been brought to the notice of local authorities and the Governor, who has ordered immediate recovery and punishment for the culprits.
 
-சோழர் காலம் முதல் திருகோணேஸ்வர ஆலயத்தில் இருந்து வந்த குறித்த தாலி, போர்த்துக்கேயர் காலத்தில் ஆலயம்  உடைக்கப்பட்ட போது சைவ சமயத்தினாரால் பல உயிர் தியாகங்கள் செய்யப்பட்டு காப்பாற்றப்பட்டு பாதுகாப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இதனை தொடர்ந்து பொது மக்கள் குரலெழுப்ப தொடங்கிய நிலையில், ஆலய நிர்வாகத்தினர் இவ்விடயத்தை அமைதிப்படுத்தி பொதுமக்களை சமாதானம் செய்ய முயன்றனர்.
+Tali has been robbed at the Trincomalee - Trincomalee temple.
 
-பல நூறு கோடி பெறுமதியான ரத்தினங்கள், வைடூரியங்கள் பொதிக்கப்பட்ட 5 சவரன் தாலி பல பூஜைகள் செய்யப்பட்டு சக்தி வாய்ந்ததாக இருந்தது எனவும் இதை எவராலும் ஈடு செய்ய முடியாது எனவும் பொது மக்கள் விசனம் தெரிவித்தனர்.
+It is reported that the Tali, who was from the Chola period from the Chola period, was saved and protected by the Saivites when the temple was broken during the Portuguese period.
 
-இது குறித்து பொறுப்பு கூறவேண்டிய தரப்பினரின் இதுவரை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யவில்லை என கூறப்படுகிறது.
+Following this, the temple administration sought to calm the matter and try to make peace with the public.
 
-இதேபோல் சோழர் காலத்தில் செய்யப்பட்ட பல நூறு கோடி மதிப்புடைய 16 பவுன் வைரம், வைடூரியம் பொதிக்கப்பட்ட தங்க நகைகளும் கடந்த காலத்தில் கொள்ளையிடப்பட்டுள்ளதாக கூறப்படுகிறது.
+The public has expressed concern that the five shaving tali, which was paid to several hundred crores of gemstones and Vaidur, was powerful and that no one could compensate for it.
+
+It is said that the police have not yet lodged a complaint at the police station.
+
+Similarly, the 16 -pound diamonds worth several hundred crores of times during the Chola period and the gold jewelery packed in the past have been stolen.
+
+In this case, the public has been brought to the public to the attention of the District Secretary and the President of the State.
+
+Moreover, the public has taken the matter to the attention of Governor Senthil Thondaman.
 
 ...
 
 [Data](articles/b10a6edf.json)
+
+[Extended Data](ext_articles/b10a6edf.ext.json)
 
 ---
 
@@ -536,17 +574,23 @@ Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responde
 
 ---
 
-### වතු කම්කරුවන්ට සඳහා රු.1700ක් ගෙවීමට වතු සමාගම් 7ක් එකගවෙයි
+### Seven estate companies acquire Rs. 0700 to plantation workers
 
 *2024-08-10 14:30:10* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-සඳහා-රු-1700ක්-ගෙවීමට-වතු-සමාගම්-7ක්-එකගවෙයි/11-411291) · `si`
 
-වතු කම්කරුවන්ට සඳහා රුපියල් 1700ක දෛනික වැටුප ගෙවීමට වතු සමාගම් 7ක් එකගවී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Seven estate firms agree to pay Rs 1,700 annually to plantation workers, as announced by President Ranil Wickremesinghe at a meeting with the Kandy district estate workers' association and youth leaders.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (10) මහනුවර දිස්ත්‍රික් වතු කම්කරු සංගම් සහ තරුණ නායක රැස්වීම අමතමිනි.
+🟩
+
+President Ranil Wickremesinghe said that seven estate companies have agreed to pay Rs 1,700 per year to estate workers.
+
+The President was addressing the Kandy district estate workers' association and the youth leaders meeting.
 
 ◼️
 
 [Data](articles/3f0b6a6c.json)
+
+[Extended Data](ext_articles/3f0b6a6c.ext.json)
 
 ---
 
@@ -2207,29 +2251,5 @@ He was speaking at a media briefing held in Colombo yesterday (09).
 [Data](articles/732062fb.json)
 
 [Extended Data](ext_articles/732062fb.ext.json)
-
----
-
-### TNA protests against Tamil common candidate
-
-*2024-08-09 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199767) · `si`
-
-TNA protests against a Tamil common candidate for the presidency, citing lack of support from several parties. MP Shaansamanikkam argues Tamil voters aren't interested in a common candidate, preferring existing ones.
-
-🟩
-
-Illankai Tamil Arasa Kuleu Kachchi MP Shaansamanikkam says there is no need to present a Tamil candidate for the presidential election.
-
-The MP pointed out that a common candidate on the day yesterday (08) was not allowed to publish several parties lacking.
-
-Shaankian Rasmanikkam was speaking to the media regarding several political parties and organizations representing the North and East yesterday.
-
-"The Tamil people are no need for this common candidate. Tamil people have no interest in a common candidate. One of the currently present candidates is definitely president. There is a release that the other candidate came to someone else to prevent them from going. "
-
-◼️
-
-[Data](articles/302688a6.json)
-
-[Extended Data](ext_articles/302688a6.ext.json)
 
 ---

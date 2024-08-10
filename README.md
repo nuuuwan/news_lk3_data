@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 14:55:05**
+As of **2024-08-10 15:06:06**
 
 ## Newspaper Stats
 
-*Scraped **39,984** Articles*
+*Scraped **39,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,667
+adalk | 3,668
 adaderanalk | 4,652
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,044
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,984 (100.0%) of 39,984 articles have been extended.
+39,984 (100.0%) of 39,985 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -209,6 +209,20 @@ The Head of the State made these remarks while addressing the Kandy District Pla
 [Data](articles/419d71ce.json)
 
 [Extended Data](ext_articles/419d71ce.ext.json)
+
+---
+
+### මහනුවර ඇසල පෙරහැරේ පළමු කුඹල් පෙරහැර අද වීදී සංචාරය කෙරේ
+
+*2024-08-10 13:03:59* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-පෙරහැරේ-පළමු-කුඹල්-පෙරහැර-අද-වීදී-සංචාරය-කෙරේ/11-411289) · `si`
+
+මහනුවර ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද (10)  රාත්‍රී විදි සංචාරය කිරීමට නියමිතව ඇත.
+
+නාථ, විෂ්ණු, පත්තිනි සහ කතරගම යන සිව් මහා දේවාල පෙරහැර පෙරටුව ඇසළ පෙරහැර පස්වරු 06 පසුවී මිනිත්තු 06ට යෙදෙන සුබ මොහාතින් පෙරහැර ගමනට එක්වේ.
+
+◼️
+
+[Data](articles/a43c5333.json)
 
 ---
 
@@ -2209,27 +2223,5 @@ The candidates who placed bonds today include Priyantha Pushpakumara representin
 [Data](articles/09efb5ee.json)
 
 [Extended Data](ext_articles/09efb5ee.ext.json)
-
----
-
-### US, Sri Lanka and Maldives Joint Military Training Completed
-
-*2024-08-09 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190694) · `ta`
-
-Joint military exercise "ATLAs Angel" concluded, involving US Pacific Air Force, Sri Lanka Air Force, and Maldives National Security Force. Aimed at enhancing disaster management skills and reinforcing safety in the Indo-Pacific region.
-
-🟩
-
-A joint military exercise called 'ATLAs Angel' was completed today (09) with the US Pacific Air Force Sri Lanka Air Force and the Maldives National Security Force.
-
-The Montana National Guard, the US Pacific Air Force, the Sri Lanka Air Force and the Maldives National Security Forces, have been completed today.
-
-This training process will upgrade the quality of natural disasters and the preparations for facing human beings and the disaster events created by mankind. He said that the United States is firm in preserving the safe and sustainable Indo-Pacific region.
-
-◼️
-
-[Data](articles/4b1af059.json)
-
-[Extended Data](ext_articles/4b1af059.ext.json)
 
 ---

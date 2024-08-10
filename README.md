@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 19:54:12**
+As of **2024-08-10 20:05:50**
 
 ## Newspaper Stats
 
-*Scraped **40,013** Articles*
+*Scraped **40,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,670
-adaderanalk | 4,655
+adaderanalk | 4,656
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,053
+tamilmirrorlk | 5,054
 virakesarilk | 6,344
-adaderanasinhalalk | 6,795
+adaderanasinhalalk | 6,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,013 (100.0%) of 40,013 articles have been extended.
+40,013 (100.0%) of 40,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### மதுபானத்தின் விலையைக் குறைக்க தீர்மானம்
+
+*2024-08-10 19:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானத்தின்-விலையைக்-குறைக்க-தீர்மானம்/175-341919) · `ta`
+
+மதுபானத்தின் விலையை எதிர்காலத்தில் குறைக்க முயற்சிகள் மேற்கொள்ளப்பட்டு வருவதாக மதுவரித் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, 750 மில்லி லீட்டர் மதுபான போத்தல் ஒன்றின் விலை 900 – 1,000 ரூபாவினாலும், 175 மில்லி லீட்டர் மதுபான போத்தலின் விலை 200 ரூபாவினாலும் குறைக்கப்படும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+இதேவேளை, அண்மையில் மதுவரித் திணைக்கள ஆணையாளருக்கும் மதுபான நிறுவனங்களுக்கும் இடையில் கலந்துரையாடல் ஒன்றும் இடம்பெற்றுள்ளது.
+
+இதன்போது, மதுபான உற்பத்திக்கு அதிகம் பயன்படுத்தப்படும் ஸ்பிரிட்களின் விலை குறைந்துள்ளதால், மதுபானத்தின் விலையைக் குறைக்க வேண்டும் என மதுவரி திணைக்கள ஆணையர் தெரிவித்துள்ளார்.  R
+
+◼️
+
+[Data](articles/4e10d408.json)
+
+---
+
+### ගිනිඅවි සමග 07 දෙනෙක් රාජගිරියේදී අත්අඩංගුවට
+
+*2024-08-10 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199792) · `si`
+
+රාජගිරිය ප්‍රදේශයේදී අවිආයුධ සමග පුද්ගලයින් 07 දෙනෙකු  අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් අත්අඩංගුවට ගන්නා අවස්ථාවේදී T56 ගිනි අවියක්, මයික්‍රෝ වර්ගයේ පිස්තෝලයක්, T56 ජීව උණ්ඩ 300ක්, මිලිමීටර් 9 පතොරම් 50ක් ද සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/981c856b.json)
+
+---
+
+### 7 arrested with weapons and ammunition in Rajagiriya
+
+*2024-08-10 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101137/7-arrested-with-weapons-and-ammunition-inrajagiriya) · `en`
+
+The officers of Police Narcotics Bureau (PNB) have arrested seven individuals along with a T-56 weapon, a micro pistol and a cache of live ammunition in Rajagiriya.
+
+Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunition and 50 rounds of 9mm ammunition which were found in their possession.
+
+◼️
+
+[Data](articles/56822686.json)
+
+---
 
 ### Prez Poll: SLPP faction backing Ranil poised to launch new party
 
@@ -2173,77 +2221,5 @@ Police said the vehicle had been hit long distances, unable to control the speed
 [Data](articles/58116a87.json)
 
 [Extended Data](ext_articles/58116a87.ext.json)
-
----
-
-### Sri Lankans living in Britain have confirmed: Telephone numbers introduced- High Commissioner Rohitha Bogollagama
-
-*2024-08-10 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190688) · `ta`
-
-Sri Lanka's High Commissioner in Britain, Rohitha Bogollagama, has addressed concerns about unrest in the UK, assuring the safety and welfare of Sri Lankans there. He met with British Sri Lanka Organization representatives and urged caution, emphasizing the importance of focusing on domestic news. Highlighting the significant contribution of around 750,000 Sri Lankans to Britain's economy, he expressed confidence in the UK's ability to maintain stability through legal means. Emergency assistance is available via specific phone numbers and email.
-
-🟩
-
-Sri Lanka's High Commissioner to Britain Rohitha Bogollagama has said that President Ranil Wickremesinghe has asked him about the prevailing unrest in the UK and has ensured the welfare and safety of Sri Lankans in the UK.
-
-Rohitha Bogollagama, who met with representatives and religious leaders of the British Sri Lanka Organization on Thursday (08) at the Sri Lankan High Commission in the UK, discussed with them on the unrest and related actions in Britain.
-
-In particular, President Ranil Wickremesinghe has asked me about this, with people's peace disruption in some parts of Britain and have received a confirmation of the safety and welfare of Sri Lankans.. Accordingly, we have been consistently discussing with British officials and have assured that the country is re -stabilized to ensure stability, ”High Commissioner Rohitha Bogollagama said.
-
-He also urged the Sri Lankans to be careful with the British and to focus on domestic news and state announcements.
-
-...
-
-[Data](articles/0da09396.json)
-
-[Extended Data](ext_articles/0da09396.ext.json)
-
----
-
-### 2024-08-09 (Friday)
-
-### Prayer prayers for the souls of innocent people who were assassinated in Trincomalee
-
-*2024-08-09 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190708) · `ta`
-
-A special prayer event was held at the Vigneswarar Temple in Trincomalee to remember and pray for the souls of innocent victims killed in a massacre there. This event marked the anniversary of the tragic event on August 10, 1985, where 12 civilians were murdered while seeking refuge. The community also remembered the destruction of homes in Thiriyai village by armed men, leading to displacement and loss of life.
-
-🟩
-
-A special pooja events were organized at the Vigneswarar Temple in Trincomalee on Friday (09) on Friday (09) to mark the massacre of innocent people in Trincomalee. There were also prayers for the soul peace of the people who were assassinated.
-
-On the 10th of August 1985, 12 innocent civilians who had taken refuge in the refugee camp, who had been involved in the transport of the Sri Lanka Transport Board (SLTB), were carrying the onset of the Sri Lanka Transport Board (SLTB), which took off their hands and shot their hands and shot their hands.On the 5th of the month of Adi, the armed men and civil dressers who entered the village of Thiriyai set fire to all the houses in the village of Thiriyai and destroyed the property.
-
-In this case, many of the villagers of Thiriyai left the village and others were at the Thiriyai Tamil Maha Vidyalaya;Were refugees as refugees. People say that the incident took place on them.
-
-◼️
-
-[Data](articles/743d425f.json)
-
-[Extended Data](ext_articles/743d425f.ext.json)
-
----
-
-### Jeep, a long way to leave the street at the Batticaloa tree;Trio injured
-
-*2024-08-09 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190707) · `ta`
-
-In a jeep accident near Batticaloa, three tourists from Kandy were injured. The vehicle lost control due to high speed, causing the crash.
-
-🟩
-
-Three persons injured in a jeep in the Marappalam area belonging to the Karadiyanaru police division of the Batticaloa district have been admitted to the hospital.
-
-The family who had been on vacation from Kandy to Batticaloa, had been involved in a jeep.
-
-Three people were injured in the accident while five people were traveling in the jeep.
-
-Police said the vehicle had been hit long distances without controlling the speeding vehicle.
-
-◼️
-
-[Data](articles/a3f97862.json)
-
-[Extended Data](ext_articles/a3f97862.ext.json)
 
 ---

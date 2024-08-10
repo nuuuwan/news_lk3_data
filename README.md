@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 22:36:19**
+As of **2024-08-10 22:53:47**
 
 ## Newspaper Stats
 
-*Scraped **40,028** Articles*
+*Scraped **40,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,659
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
 virakesarilk | 6,347
-adaderanasinhalalk | 6,800
+adaderanasinhalalk | 6,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,025 (100.0%) of 40,028 articles have been extended.
+40,028 (100.0%) of 40,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### රාජගිරියෙන් සොයාගත් කොළඹ පාතාලයේ අවි ගබඩාව
+
+*2024-08-10 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199797) · `si`
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ නිලධාරින් රාජගිරිය ප්‍රදේශයේ නිවසක සිදුකළ වැටලීමකදී ගිනිඅවි ඇතුළු ආයුධ රැසක් සොයාගැණුනි.
+
+ඒ, මාකොළ ප්‍රදේශයේ දී පසුගියදා අත්අඩංගුවට ගැණුන සැකකරුවන් පිරිසකගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින් අනාවරණය කරගත් කරුණු මත පදනම්වය.
+
+මාකොළ ප්‍රදේශයේදී සැකකරුවන් 7 දෙනෙකු පසුගියදා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ නිලධාරින්ගේ අත්අඩංගුවට පත්වූ අතර ඔවුන් සන්තකයේ තිබී මත්ද්‍රව්‍ය ද එම නිලධාරින්ගේ භාරයට ගැණුනි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අතර යුද හමුදාවෙන් හා ගුවන් හමුදාවෙන් සේවය අතහැර පළා ආ පුද්ගලයින් දෙදෙනෙක් ද වූ අතර සැකකරුවන් 7 දෙනාගෙන් ප්‍රශ්න කිරීමට පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශය පියවර ගෙන තිබුණි.
+
+ඒ අනුව රාජගිරිය ප්‍රදේශයේ නිවසක් අද පරීක්ෂා කෙරුණේ සැකකරුවන්ගෙන් අනාවරණය කරගත් කරුණු මතය.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ අධ්‍යක්ෂවරයාගේ උපදෙස් මත සිදුකළ වැටලීමේදී එම නිවසේ තිබී T56 වර්ගයේ ගිනි අවියක්, T56 උණ්ඩ 300කට අධික ප්‍රමාණයක් මිලිමීටර් 9 උණ්ඩ 50ක් මයික්‍රෝ පිස්තෝලයක් ඇතුළු ආයුධ තොගයක් සොයා ගැණුනි.
+
+...
+
+[Data](articles/e91b87aa.json)
+
+---
 
 ### Sri Lanka reaches more than half of 2024 tourist arrivals target
 
@@ -50,23 +72,31 @@ From January 01 to August 04, Sri Lanka welcomed a total of 1,224,948 tourists, 
 
 [Data](articles/87da69ea.json)
 
+[Extended Data](ext_articles/87da69ea.ext.json)
+
 ---
 
-### මෙරට අලි පිළිබඳ සමීක්ෂණයක්
+### Survey of elephants in Sri Lanka
 
 *2024-08-10 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199796) · `si`
 
-දීප ව්‍යාප්ත අලි ගහන සමීක්ෂණක් සිදුකිරීමට සැලසුම් කර ඇති බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's Wildlife Conservation Department plans a nationwide elephant survey across 3,130 centers over 17 days. The effort involves staff from various government agencies, including Wildlife Conservation Officers and security personnel, aiming to predict elephant locations based on collected data.
 
-එළඹෙන 17 වනදා සිට දින තුනක් පුරා සමීක්ෂණ මධ්‍යස්ථාන 3,130කදී එම සමීක්ෂණය සිදුකිරීමට නියමිත බව සඳහන්ය.
+🟩
 
-සමීක්ෂණයේ දත්ත රැස්කිරීම වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ කාර්යමණ්ඩලය සිදුකිරීමට නියමිත අතර ඒ සඳහා වෙනත් රාජ්‍ය ආයතන නිලධාරීන්, ආරක්ෂක හමුදා සාමාජිකයින් ඇතුලු පිරිස් එක් කරගැනීමට බලාපොරොත්තු වන බව එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එම්. ජී. සී. සුරියබණ්ඩාර මහතා පැවසීය.
+The Wildlife Conservation Department says that it is planned to conduct a island-wide elephant survey.
 
-ලබා ගන්නා දත්ත මත මෙරට අලි ගහනයේ ඉදිරි පැවැත්ම පුරෝකථනය කිරීම, අලි මිනිස් ගැටුම් මැඩලීම සඳහා උපාය මාර්ගික සැලසුම් පිළියෙල කිරීම යනාදී පියවරයන් ගැනීමට නියමිත බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එම්.ජී.සී සුරියබණ්ඩාර මහතා වැඩිදුරටත් සඳහන් කළේය.
+The survey is to be conducted in 3,130 survey centers from the next 17 days.
+
+The staff of the Department of Wildlife Conservation will be conducted by the Department of Wildlife Conservation, which is expected to join the Wildlife Conservation Officers including other government agencies, security personnel.. G. C. Said Suriyabandara.
+
+The Director General of the Wildlife Conservation Department (Wildlife Conservation Department) has taken steps to predict the presence of elephants in Sri Lanka on the data obtained.
 
 ◼️
 
 [Data](articles/6e9ff7ab.json)
+
+[Extended Data](ext_articles/6e9ff7ab.ext.json)
 
 ---
 
@@ -89,6 +119,8 @@ The Colombo district claimed the top spot in the district-wise comparison of the
 ...
 
 [Data](articles/5ad8747c.json)
+
+[Extended Data](ext_articles/5ad8747c.ext.json)
 
 ---
 
@@ -2241,21 +2273,5 @@ In order to meet the most stringent modern standards, Ambewela Dairy Farms follo
 [Data](articles/fb3679de.json)
 
 [Extended Data](ext_articles/fb3679de.ext.json)
-
----
-
-### Sri Lanka – Greater Mekong Business Council meets Ambassador of Thailand
-
-*2024-08-10 02:36:49* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Greater-Mekong-Business-Council-meets-Ambassador-of-Thailand/34-765370) · `en`
-
-From left: Thai Embassy Secretary to the Ambassador Amare Wanigaratne, Thailand Counsellor to Sri Lanka Prangtip Kongridhisuksakorn, Noory Kiyas, SLGMBC Immediate Past President Ranil Seneviratne, SLGMBC Vice President Nimal Ratnayake, SLGMBC Committee Member Mahen Weerasekera, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, SLGMBC President S.M.D. Suriyakumara, SLGMBC Committee Member Tilak Gunawardane, SLGMBC Vice President  Jude Fernando, SLGMBC Committee Member Shaameel Mohideen, Ceylon Chamber of Commerce Secretariat Amanthi Silva, and Thai Embassy Member Patalee Warnakulasooriya
-
-The President and Executive Committee of the Sri Lanka – Greater Mekong Business Council (SLGMBC) of the Ceylon Chamber of Commerce recently held a meeting with Ambassador of Thailand Paitoon Mahapannaporn and Counsellor of Thailand to Sri Lanka Prangtip Kongridhisuksakorn.
-
-...
-
-[Data](articles/d6c9fe4f.json)
-
-[Extended Data](ext_articles/d6c9fe4f.ext.json)
 
 ---

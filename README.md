@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 21:21:07**
+As of **2024-08-10 21:36:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,019 (100.0%) of 40,022 articles have been extended.
+40,022 (100.0%) of 40,022 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -408,19 +408,29 @@ Moreover, the public has taken the matter to the attention of Governor Senthil T
 
 ---
 
-### தோட்டத் தொழிலாளர்களுக்கான சேமலாப நிதி அடுத்த வருடம் முதல் வழங்கப்படும் - கண்டியில் ஜனாதிபதி
+### The Provident Fund for Plantation Workers will be issued from next year - President in Kandy
 
 *2024-08-10 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190764) · `ta`
 
-தோட்ட தொழிலாளர்களின் ஒரு நாள் சம்ளத்தை 1,700 ரூபாயாக அதிகரிப்பதற்கு எடுக்கப்பட்ட தீர்மானத்தை செயற்படுத்த 07 பெருந்தோட்ட நிறுவனங்கள் இணங்கியுள்ளதாகவும், எதிர்வரும் திங்கட்கிழமை சம்பள நிர்ணயச் சபையை அழைத்துச் பேசி அந்த தீர்மானத்தை செயற்படுத்தத் தேவையான சட்டங்களை கொண்டுவர தயாராக இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+From next year, a provident fund for plantation workers will be established, following an agreement by seven plantation companies to increase daily wages to Rs 1,700. This decision aligns with President Ranil Wickremesinghe's commitment to improving the livelihoods of plantation workers, alongside efforts to stabilize the country's economy through IMF agreements and domestic credit negotiations.
 
-தோட்ட தொழிலாளர்களுக்கு வழங்கப்படாமலிருக்கும் சேமலாப நிதியை பெற்றுக்கொடுப்பதற்கான பணிகளை அடுத்த வருடத்திலிருந்து முன்னெடுப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+🟩
 
-இலங்கை தொழிலாளர் காங்கிரஸினால் ஏற்பாடு செய்யப்பட்ட கண்டி மாவட்ட தோட்டத் தொழிலாளர் தொழிற்சங்கங்கள் மற்றும் இளைஞர் தலைவர்களுடன் இன்று சனிக்கிழமை (10) கண்டி கரலிய மண்டபத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that seven plantation companies have agreed to implement the resolution to increase the plantation workers' one -day salary to Rs 1,700 and that the laws are ready to implement the resolution on Monday.
+
+President Ranil Wickremesinghe also said that the work of obtaining a provisional fund for plantation workers will be carried out from next year.
+
+President Ranil Wickremesinghe made this statement while addressing the Kandy District Estate Labor Trade Unions and Youth Leaders at the Kandy Kaliya Hall on Saturday (10).
+
+Water Resources and Plantation Infrastructure Development Minister Jeevan Thondaman, former Minister Manusha Nanayakkara, State Minister Lokan Ratwatta, State Minister Anuradha Jayaratne, Parliamentarian M. Rameshwaran, Deputy Chairman of the Ceylon Workers CongressMany of them were present.
+
+The problems of the plantation workers were directly presented with the President and the President gave favorable answers.
 
 ...
 
 [Data](articles/8dac6d39.json)
+
+[Extended Data](ext_articles/8dac6d39.ext.json)
 
 ---
 
@@ -490,19 +500,25 @@ The deceased is Selvanayagam Bonifs Sydney Manifs Sydney Maniface, Narahenpita, 
 
 ---
 
-### ஜனாதிபதி தேர்தலில் யாரை ஆதரிப்பது? - மக்களிடம் கருத்துக்கோருகிறது அகில இலங்கை மக்கள் காங்கிரஸ்
+### Who supports the presidential election?- All Ceylon Peoples Congress
 
 *2024-08-10 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190761) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸ் ஜனாதிபதி தேர்தலில் நாம் யாரை ஆதரிக்க வேண்டும் என்பது தொடர்பாக வவுனியா மக்களின் கருத்தறிவிக்கான மக்கள் சந்திப்பானது புதிய சாளம்பைக்குளம் பள்ளிவாசல் முன்றலில் இன்று சனிக்கிழமை (10) இடம்பெற்றது.
+The All Ceylon Peoples Congress, led by its deputy chairman Dr. Muthu Mohammed and party leader Rishad Bathiudeen, along with former local government members and supporters, publicly supported the presidential election. This stance was also echoed by The People's Meeting of the Vavuniya People's Members, indicating widespread backing for the election within these communities.
 
-இதன்போது, பொதுமக்களிடம் அகில இலங்கை மக்கள் காங்கிரஸ் யாரை ஆதரிக்க வேண்டும் என்ற விடயம் தொடர்பாக மக்கள் பலரும் கருத்து தெரிவித்திருந்தனர்.
+🟩
 
-கட்சியின் பிரதி தவிசாளர் கலாநிதி முத்து முகமதுவின் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் கட்சியின் தலைவரும் வன்னி பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் மற்றும் முன்னாள் உள்ளூராட்சி உறுப்பினர்கள், கட்சி ஆதரவாளர்கள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
+The People's Meeting of the Vavuniya People's Members
+
+In the meantime, many people have commented on the issue of the All Ceylon Peoples Congress to support the public.
+
+The event was chaired by the party's deputy chairman Dr. Muthu Mohammed and the party leader Rishad Bathiudeen and former local government members and party supporters were among those who attended the event.
 
 ◼️
 
 [Data](articles/9dc85e41.json)
+
+[Extended Data](ext_articles/9dc85e41.ext.json)
 
 ---
 
@@ -606,23 +622,35 @@ Police have also implemented a special security program for the safety of the co
 
 ---
 
-### வெறுக்கப்பட்ட ஏதேச்சதிகாரியாக ஷேக் ஹசீனாவின் இறுதி நிமிடங்கள்..........
+### The final minutes of Sheikh Hasina as a hateful authority ..........
 
 *2024-08-10 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/190755) · `ta`
 
-பங்களாதேசில் காணப்படும் வன்முறையை முடிவிற்கு கொண்டுவருமாறு பாதுகாப்பு படையினருக்கு ஷேக் ஹசீனா ஞாயிற்றுக்கிழமை அழைப்பு விடுத்தவேளை பிரதமராக தனது காலம் முடிவடைகின்றது என்பதை ஏற்றுக்கொள்ளும் மனோநிலையில் அவர் காணப்படவில்லை.
+In the face of escalating protests and violence, Sheikh Hasina, the Bangladeshi prime minister, faced a tumultuous end to her tenure. Despite calls for peace and attempts to negotiate with security forces and military officials, the situation spiraled out of control. Faced with overwhelming public opposition and internal conflicts within the government, Hasina eventually decided to flee her official residence. This decision came after a series of events including violent clashes, rising death tolls, and a failed attempt to secure her safety. Ultimately, the pressure from both the public and the military proved too great, leading to Hasina's departure from Bangladesh.
 
-ஆனால் அடுத்த சில மணிநேரங்களில் அவர் மக்கள் சக்தியால் அடித்துசெல்லப்பட்டார்.அவரது வெளியேற்றம் இவ்வளவு வேகமாக இடம்பெறும் என எவரும் எதிர்வுகூறியிருக்கமாட்டார்கள்.
+🟩
 
-இறுதியில் பாதுகாப்பு தரப்பினரின் ஆலோசனையை விட அவரது குடும்பத்தினரின் ஆலோசனையே பங்களாதேசிலிருந்து அவரை வெளியேறச்செய்தது என அவரது மகன் பிபிசிக்கு தெரிவித்துள்ளார்.
+Sheikh Hasina called on the security forces to end the violence in Bangladesh on Sunday, and she was not in the process of accepting that his time was over as prime minister.
 
-ஹசீனா மிகவும் சரியான தருணத்தில் அங்கிருந்து வெளியேறும் முடிவை எடுத்தார்-அவர் அங்கிருந்து தப்பியோடி சில மணிநேரத்தில் மக்கள் அவரது உத்தியோகபூர்வ இல்லத்திற்குள் நுழைந்தனர்.
+But in the next few hours he was beaten by the power of the people.
 
-ஞாயிற்றுக்கிழமை காலையில் ஷேக்ஹசீனா தேசிய பாதுகாப்பு பேரவையின் கூட்டத்திற்கு அழைப்பு விடுத்திருந்தார்.அந்த சந்திப்பில் முப்படைகளின் தளபதிகளும்,பாதுகாப்பு அதிகாரிகளும் பொலிஸ் அதிகாரிகளும் கலந்துகொண்டனர்.அங்கு மனோநிலை சிறப்பானதாக காணப்படவில்லை.
+His son told the BBC that his family's consultation had left him out of Bangladesh rather than the security forces in the end.
+
+Hasina made the decision to leave at the right moment-he fled and entered his official residence in a few hours.
+
+Sheikh Sina was invited to a meeting of the National Security Council on Sunday morning.
+
+The meeting took place in a situation where protests against the prime minister have been on the rise as protests have taken place over the country for several weeks.
+
+On Sunday alone, more than 90 people lost their lives. Many people were shot dead by security forces.
+
+The BBC's Bengal service has received information that Hasina presented two solutions during a meeting with security officials.
 
 ...
 
 [Data](articles/4e2efc3f.json)
+
+[Extended Data](ext_articles/4e2efc3f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 05:38:44**
+As of **2024-08-10 06:03:26**
 
 ## Newspaper Stats
 
-*Scraped **39,925** Articles*
+*Scraped **39,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 344
 newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 376
-islandlk | 2,295
+islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,660
 adaderanalk | 4,640
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,030
+tamilmirrorlk | 5,031
 virakesarilk | 6,333
 adaderanasinhalalk | 6,774
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,925 (100.0%) of 39,925 articles have been extended.
+39,934 (100.0%) of 39,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### 12 hours of water in Gampaha district
+
+*2024-08-10 05:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-மாவட்டத்தில்-12-மணித்தியால-நீர்வெட்டு/175-341894) · `ta`
+
+In the Gampaha district, a 12-hour water cut is scheduled for tomorrow from 9 am to 9 pm, affecting areas like Kelaniya, Wattala, Biyagama, Peliyagoda, Ja-Ela, Katunayake, Seeduwa, Piyagama, Mahara, Thompa, Minuwangoda, and Gampaha.
+
+🟩
+
+The National Water Supply and Drainage Board has announced that the water cut will be implemented tomorrow in several parts of the Gampaha district.
+
+The water will be implemented for 12 hours from 9 am to 9 pm tomorrow for Kelaniya, Wattala and Biyagama.
+
+The National Water Supply and Drainage Authority has said that the areas belonging to the Peliyagoda Urban Council, Ja-Ela, Katunayake and Seeduwa Divisional Secretariat Divisions will be implemented in the areas of Piyagama, Mahara, Thompa, Minuwangoda and Gampaha Divisional Secretariat Divisions.. (A)
+
+◼️
+
+[Data](articles/3de2a794.json)
+
+[Extended Data](ext_articles/3de2a794.ext.json)
+
+---
 
 ### Selvern Trust to empower youth going for overseas jobs
 
@@ -271,6 +293,98 @@ Dissanayake vowed that these would be the final days where such crossovers are p
 [Data](articles/23990b54.json)
 
 [Extended Data](ext_articles/23990b54.ext.json)
+
+---
+
+### Ambewela delivers unmatched premium quality dairy products with latest technology and innovation
+
+*2024-08-10 01:31:00* · [`islandlk`](http://island.lk/ambewela-delivers-unmatched-premium-quality-dairy-products-with-latest-technology-and-innovation/) · `en`
+
+dairy products – manufactured by Lanka Milk Foods (CWE) PLC – is a household name synonymous with freshness and quality. Originating from Sri Lanka’s lushest highland pastures, each Ambewela product is the result of a meticulous process that ensures the highest quality dairy delights, from farm to family. The product range, which includes fresh milk, cheese, and yoghurt, consistently offers superior value and quality, making it one of Sri Lanka’s most beloved brands.
+
+In order to meet the most stringent modern standards, Ambewela Dairy Farms follow internationally-certified processes, where milk is rapidly cooled, stored, transported, and packed to maintain freshness. The entire process from milking to packing is swift and continuously monitored for quality. Any batch showing even minor deviations in lab results is rejected to ensure only the freshest, safest, and most nutritious products reach consumers.
+
+...
+
+[Data](articles/f34d99de.json)
+
+[Extended Data](ext_articles/f34d99de.ext.json)
+
+---
+
+### tuktukrental.com fosters community with plans to double fleet by year-end
+
+*2024-08-10 01:07:00* · [`islandlk`](http://island.lk/tuktukrental-com-fosters-community-with-plans-to-double-fleet-by-year-end/) · `en`
+
+Working with and supporting over 600 families.Celebrates tuktuk owners at Tuktuk Owners Conference.  Generated over USD 1.3 million income for local tuktuk owners until 2023.Announces expansion to Cambodia.
+
+Tuktukrental.com, a prominent social business revolutionizing the transportation sector in Sri Lanka, announced plans to expand its fleet to 1,000 tuktuks by the end of 2024. The company, whose aim is to support local tuktuk drivers, ran their annual Tuktuk Owners Conference.
+
+The event gathered over 600 tuktuk owners from across the country, company directors, management representatives, and key partners from Vega Innovations, Orient Insurance, local police authorities, and mechanical partners. Recognizing the hard work and invaluable contributions of the company’s suppliers, the event highlighted the community’s pivotal role in the company’s success.
+
+...
+
+[Data](articles/ef97550e.json)
+
+[Extended Data](ext_articles/ef97550e.ext.json)
+
+---
+
+### People’s Bank offers sponsorship for Kandy Esela Perahera
+
+*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/peoples-bank-offers-sponsorship-for-kandy-esela-perahera/) · `en`
+
+People’s Bank has yet again come forward to sponsor the historical Kandy Esala Perahera.
+
+The sponsorship cheque of the People’s bank was handed over to Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa by Nalin Potthewela- Kandy Regional Manager of People’s Bank. Assistant Regional Manager Shameera Kumarapeli, Kandy Branch Senior Manager Prasanna Karunarathne were also present at the occasion.
+
+Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gratitude to People’s Bank for offering a sponsorship to strengthen this iconic cultural pageant which showcases and preserves invaluable customs and cultural practices.
+
+Ambewela delivers unmatched premium quality dairy products with latest technology and innovation
+
+Weighed down by uncertainties, bourse continues on its lacklustre amble
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/0d05eae1.json)
+
+[Extended Data](ext_articles/0d05eae1.ext.json)
+
+---
+
+### NDB Bank collaborates with NEDA to empower SMEs
+
+*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/ndb-bank-collaborates-with-neda-to-empower-smes/) · `en`
+
+In a significant initiative to bolster the capabilities of Sri Lankan SMEs, the National Development Bank (NDB), in collaboration with the National Enterprise Development Authority (NEDA), has recently conducted a series of workshops as part of NEDA’s ” B500 Project” national endeavour. This programme is an ambitious effort aimed at nurturing 500 Sri Lankan brands and providing essential training and resources to elevate local enterprises.
+
+The workshops, held in Colombo and Kaluthara districts, focused on enhancing financial literacy, understanding current market trends, and leveraging digitalization for business growth. They aimed to equip SMEs with the knowledge and tools needed to thrive in a competitive market. The topics covered included “Financial Literacy and Current Market Trends,” “Digitalization for Business,” and “How to Win the Market,” offering a comprehensive overview of the critical skills and strategies required for success.
+
+...
+
+[Data](articles/b6525324.json)
+
+[Extended Data](ext_articles/b6525324.ext.json)
+
+---
+
+### Weighed down by uncertainties, bourse continues on its lacklustre amble
+
+*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/weighed-down-by-uncertainties-bourse-continues-on-its-lacklustre-amble/) · `en`
+
+The stock market continued to be lacklustre yesterday as CSE investors waited for the ongoing political uncertainties in the country to clear up.The All Share Price Index went up by 61.7 points, while the S and P SL20 rose by 19.72 points. Turnover stood at Rs 403 million minus any crossings.
+
+In the retail market companies that mainly contributed to the turnover were, JKH Rs 43.19 million (240,000 shares traded), unshine Holdings Rs 40 million (666,000 shares traded), Access Engineering Rs 35 million (1.6 million shares traded), ommercial Bank Rs 22.8 million (256,000 shares traded), Sampath Bank Rs 15.6 million (206,000 shares traded), CCS Rs 15.5 million (280,000 shares traded) and Browns Investments Rs 14.7 million (2.8 million shares traded). During the day 17.1 million share volumes changed hands in 6000 transactions.
+
+It is said high net worth and institutional investor participation was noted in Central Finance Company.
+
+...
+
+[Data](articles/d7600e63.json)
+
+[Extended Data](ext_articles/d7600e63.ext.json)
 
 ---
 
@@ -2179,145 +2293,5 @@ He was speaking at the Muslim Brotherhood at the Malwana area.
 [Data](articles/5258d627.json)
 
 [Extended Data](ext_articles/5258d627.ext.json)
-
----
-
-### I can beaten today today - Harin
-
-*2024-08-09 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199748) · `si`
-
-Harin Fernando expresses pride in his actions, accepting the Supreme Court's decision despite risks and criticism. He emphasizes trust in himself and his contributions towards solving national issues.
-
-🟩
-
-The Supreme Court today (09th) today decided that the decision taken taken by Manusha Nanayakkara and Harin Fernando.
-
-"I can keep the back of the back straight today and get proud. I trusted me. I knew that risk. I went at that time to do what could solve the country's issue from my side. I am the same.. The Fail said. I was all the stories made all the stories. I don't say anything to the judiciary. I accept the sentence. "
-
-◼️
-
-[Data](articles/4dcba126.json)
-
-[Extended Data](ext_articles/4dcba126.ext.json)
-
----
-
-### SLPP MPs approached NPP before going to SJB, claims AKD; promises anti-crossover law
-
-*2024-08-09 13:19:00* · [`economynextcom`](https://economynext.com/slpp-mps-approached-npp-before-going-to-sjb-claims-akd-promises-anti-crossover-law-176159/) · `en`
-
-ECONOMYNEXT — Sri Lanka Podujana Peramuna (SLPP) MPs who left the government and have now joined an alliance with the main opposition Samagi Jana Balawegaya (SJB) first approached the National People’s Power (NPP), its leader Anura Kumara Dissanayake said.
-
-Speaking at an event in Gampaha on Thursday August 08, Dissanayake said the NPP said no to this group of legislators.
-
-“The SLPP is now split to three factions: one is with President Ranil Wickremesinghe, another with MP Namal Rajapaksa and the other with opposition leader Sajith Premadasa. A lot of them knocked on our door before going to the SJB. What did we do? We said ‘ayubowan’ and told them that their record in not that good,” said Dissanayake.
-
-The NPP leader claimed that the visiting MPs were told in no uncertain terms that they had represented a party accused of spreading racism and engaged in corruption, and were shown the door.
-
-“Thanks for knocking on our door but we cannot let you in,” he quoted the NPP spokesmen as saying.
-
-...
-
-[Data](articles/d1c8ccdf.json)
-
-[Extended Data](ext_articles/d1c8ccdf.ext.json)
-
----
-
-### Express Pearl Ship: The first phase of compensation got $ 10.2 million!
-
-*2024-08-09 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190646) · `ta`
-
-The Express Pearl shipping accident resulted in a $10.2 million compensation payout for its impact on Sri Lankan waters. The incident involved the New Taiman ship, which was removed without the Attorney General's permission, leading to legal action by the International Commerce Court in Singapore. The case is being handled by judges Tenon Rhodix and Towixon, with international legal advice sought. An interim assessment report on the environmental impact is pending public release due to ongoing court proceedings.
-
-🟩
-
-The first phase of the shipment has been given $ 10.2 million in compensation for the impact of Express Pearl shipping accident.. The Minister of Justice Anuradha Jayaratne said that the person who had ousted the New Taiman ship from the Sri Lankan sea without the permission of the Attorney General was worried that the opposition had come together to strengthen the hands of the opposition leader.
-
-In response to questions posed by the opposition leader under twenty -seven during the session on Friday (09) in Parliament.
-
-The MVCFRSP, which was drowned in the Sri Lankan waters, has been sued by the International Commerce Court in Singapore through the Attorney General for compensation for the pearl ship and losses.
-
-Similarly, the owner of the shipping company has made a reply. The Attorney General has announced that it will make a reply on September 6 on behalf of Sri Lanka.
-
-...
-
-[Data](articles/167fd87d.json)
-
-[Extended Data](ext_articles/167fd87d.ext.json)
-
----
-
-### Can abortion legalize in Sri Lanka?;2023 2000 Young Pregnancy Record…!
-
-*2024-08-09 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190652) · `ta`
-
-Abortion is illegal in Sri Lanka except to save a mother's life. Despite over 2000 cases of young pregnancies in 2023, the government hasn't addressed social issues contributing to them. Doctors advocate for legalizing abortion based on humanitarian and scientific grounds, highlighting cases like a 12-year-old victim of sexual abuse. Former Justice Minister Ali Sabri proposed amending the law in 2022, but progress is hindered by religious and ideological barriers.
-
-🟩
-
-Abortion in Sri Lanka is illegal. And it is also a punishable offense.Abortion surgery is carried out with appropriate reasons in the event of a mother's life risk when viewed. However, there are no solutions to the problems that arise in the country regarding young pregnancies.
-
-It is worrying that the government does not find social crimes in the country's political and economic crises. The National Child Protection Authority said that more than two thousand young pregnancies received complaints last year.
-
-Doctors point out that young adult pregnancies should be viewed in a humanitarian manner and that the child is suffering from the law of the teenage girls who do not have the physical fitness.
-
-Rohan P. Rupura, a doctor of the Karapitiya Teaching Hospital, said that abortion should be allowed on the basis of fair and humanitarian basis and scientific needs.
-
-...
-
-[Data](articles/ef849478.json)
-
-[Extended Data](ext_articles/ef849478.ext.json)
-
----
-
-### Strict resolutions will be reorganized as phased phase - Minister of Education
-
-*2024-08-09 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190647) · `ta`
-
-In response to economic challenges, Sri Lanka's Minister of Education announced plans to reorganize strict resolutions in phases. President Ranil Wickremesinghe assumed leadership amidst protests and economic strain, emphasizing the importance of democracy. Despite needing significant international and national loans, the government remains committed to supporting plantation workers with a daily allowance, facing legal challenges from plantation companies.
-
-🟩
-
-President Ranil Wickremesinghe took over the challenges as an individual when the current situation in Bangladesh was seen in Sri Lanka.
-
-If Parliament was besieged today, no one could have visited Parliament today. Minister of Education Susil Premajayantha said that the resolutions for the economic restructuring would be reorganized in the phase.
-
-He was speaking at a special statement during a session held in Parliament on Friday (09).
-
-President Ranil Wickremesinghe was sworn in as a prince in all areas of the struggle.
-
-The protests have been taken as the interim president after the intensification of the struggle.
-
-If Parliament was besieged, no one would have come to Parliament today. No matter, everyone must remember the reality. The struggles against democracy will never succeed.
-
-Amidst the economic impact, there was a need for $ 53 billion international loans and 43 billion rupees national loans.
-
-...
-
-[Data](articles/4aa3422f.json)
-
-[Extended Data](ext_articles/4aa3422f.ext.json)
-
----
-
-### Ranil issued the reason for the field as an independent candidate!
-
-*2024-08-09 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190650) · `ta`
-
-In a speech at a women's conference, President Ranil Wickremesinghe announced his candidacy as an independent in the upcoming presidential election, emphasizing his commitment to addressing the nation's food crisis.
-
-🟩
-
-President Ranil Wickremesinghe said that the party has been fielded as an independent candidate, regardless of the party in the presidential election to solve the people's hunger.
-
-President Ranil Wickremesinghe said this while addressing the women's conference on Friday (09) in Colombo.
-
-◼️
-
-[Data](articles/608bac3e.json)
-
-[Extended Data](ext_articles/608bac3e.ext.json)
 
 ---

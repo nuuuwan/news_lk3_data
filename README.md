@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 18:15:14**
+As of **2024-08-10 18:26:28**
 
 ## Newspaper Stats
 
-*Scraped **40,009** Articles*
+*Scraped **40,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,670
-adaderanalk | 4,653
+adaderanalk | 4,654
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,052
 virakesarilk | 6,344
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,008 (100.0%) of 40,009 articles have been extended.
+40,008 (100.0%) of 40,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Body found inside three-wheeler on Marine Drive
+
+*2024-08-10 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101135/body-found-inside-three-wheeler-on-marine-drive) · `en`
+
+A person has reportedly been found dead inside a three-wheeler which was parked on the side of the road on Marine Drive in Bambalapitiya.
+
+Police said that the victim was identified as a 61-year-old male named Selvanayagam Boniface Sydney Manohar, a resident of Narahenpita area.
+
+The cause of the death is yet to be revealed, while police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/f15ecbd6.json)
+
+---
 
 ### ජීවිත දෙකක් අහිමි කළ රිය අනතුර
 
@@ -2231,25 +2247,5 @@ In this case, all the arrangements to be carried out to be carried out in view o
 [Data](articles/9a439ad1.json)
 
 [Extended Data](ext_articles/9a439ad1.ext.json)
-
----
-
-### There is Rs. 200 million for every candidate
-
-*2024-08-09 22:37:03* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිවන-සෑම-අපේක්ෂකයෙක්-සඳහාම-රු-මිලියන-200ක්-වැය-වෙනවා/11-411283) · `si`
-
-Elections Commissioner Saman Sri Ratnayake stated that each presidential candidate willing to contest could receive Rs. 200 million. This announcement came during a media briefing in Colombo on September 9th.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake said he believes that if the candidates contesting for the presidential election will continue, he willingly cost Rs. 200 million to cost Rs. 200 million.
-
-He was speaking at a media briefing held in Colombo yesterday (09).
-
-◼️
-
-[Data](articles/732062fb.json)
-
-[Extended Data](ext_articles/732062fb.ext.json)
 
 ---

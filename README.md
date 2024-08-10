@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 07:29:31**
+As of **2024-08-10 07:50:37**
 
 ## Newspaper Stats
 
-*Scraped **39,936** Articles*
+*Scraped **39,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,640
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,032
 virakesarilk | 6,333
-adaderanasinhalalk | 6,775
+adaderanasinhalalk | 6,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,936 (100.0%) of 39,936 articles have been extended.
+39,936 (100.0%) of 39,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට අද තද වැසි
+
+*2024-08-10 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199769) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව විසින් අද (10) උදෑසන නිකුත්කළ කාලගුණ අනාවැකිය අනුව බස්නාහිර පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැනවැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+එමෙන්ම බස්නාහිර, උතුර සහ නැගෙනහිර පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව  ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/627859b6.json)
+
+---
 
 ### Airplane accident that killed 61
 
@@ -2267,31 +2285,5 @@ In particular, issues, including the rights, safety and additional allowance of 
 [Data](articles/e3661900.json)
 
 [Extended Data](ext_articles/e3661900.ext.json)
-
----
-
-### Motorcycle collided with military checkpoint in Kilinochchi
-
-*2024-08-09 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190637) · `ta`
-
-In Kilinochchi, a fatal crash occurred when a motorcycle hit a military checkpoint near Elephant Pass, killing one and injuring three passengers. The victims were traveling to Jaffna from Viswamadu Redpara. The deceased, Kandarupan Kalaiyarasan, aged 21, and the injured have been taken to Kilinochchi Hospital. Investigations are ongoing.
-
-🟩
-
-One person was killed when a motorcycle lost control of the Elephant Pass checkpoint on Friday morning in front of the Kilinochchi Police Division.
-
-Police said that two people from Viswamadu Redpara area collided with a motorcycle and collided with a military checkpoint and collided with a military checkpoint while they were traveling to Jaffna.
-
-A 21 -year -old youth, Kandarupan Kalaiyarasan, from Viswamadu Redpara, has died.
-
-Three persons were injured in the accident and have been admitted to the Kilinochchi Hospital for further treatment, police said.
-
-The Kilinochchi police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/fea31fcc.json)
-
-[Extended Data](ext_articles/fea31fcc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 00:36:05**
+As of **2024-08-11 00:52:59**
 
 ## Newspaper Stats
 
-*Scraped **40,031** Articles*
+*Scraped **40,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,672
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,054
+tamilmirrorlk | 5,056
 virakesarilk | 6,347
 adaderanasinhalalk | 6,801
 
@@ -26,9 +26,51 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,031 (100.0%) of 40,031 articles have been extended.
+40,031 (100.0%) of 40,033 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-11 (Sunday)
+
+### சர்ச்சையை ஏற்படுத்திய தாலிக் கொடி - ஆலய நிர்வாகம் அறிக்கை
+
+*2024-08-11 00:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சையை-ஏற்படுத்திய-தாலிக்-கொடி-ஆலய-நிர்வாகம்-அறிக்கை/175-341933) · `ta`
+
+திருகோணமலை – திருகோணேஸ்வரர் ஆலயத்தில் பல கோடி ரூபாய் பெறுமதியான தங்கத் தாலி ஒன்று கொள்ளையிடப்பட்டிருப்பதாக வெளியான தகவலை , ஆலய நிர்வாகம் மறுத்து அறிக்கை வெளியிடப்பட்டுள்ளது.
+
+பல கோடி ரூபாய் பெறுமதியான தங்கத் தாலி காணாமல் போனதாக கூறப்படுவது உண்மைக்குப் புறம்பானது என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+எனினும், 2010ஆம் ஆண்டு ஆலயத்தினால் கொள்வனவு செய்யப்பட்ட 3 1/4 பவுன் எடைகொண்ட தாலியும் கொடியுமே காணாமல் போயிருப்பதாக திருகோணேஸ்வரர் ஆலய பரிபாலண சபையின் செயலாளர் ஊடகம் ஒன்றுக்கு குறிப்பிட்டுள்ளார்.
+
+அத்துடன் காணாமல் போன குறித்த 3 1/4 பவுன் எடைகொண்ட தாலி மற்றும் கொடியை மீளப் பெற்றுத் தருவதாக குறித்த ஆலயத்தின் குருமார்களால் உறுதியளிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/9782ea2a.json)
+
+---
+
+### ஜனாதிபதிக்கு சவால் விடுக்கின்றார் பழனி திகாம்பரம்
+
+*2024-08-11 00:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சவால்-விடுக்கின்றார்-பழனி-திகாம்பரம்/175-341932) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு எதிர்வரும் தேர்தலில் மக்கள் தகுந்த பதிலடியை வழங்குவார்கள் என தொழிலாளர் தேசிய சங்கத்தின் தலைவரும் பாராளுமன்ற உறுப்பினருமான பழனி திகாம்பரம் தெரிவித்துள்ளார்.
+
+ஹட்டனில் நேற்று (10) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்ட போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் தொழிலாளர் தேசிய சங்கம் மற்றும் தொழிலாளர் தேசிய முன்னணி ஆகியன சஜித் பிரேமதாசாவை ஆதரிக்கத் தீர்மானித்துள்ளன.
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளாந்த வேதனமாக 1,700 ரூபாய் பெற்றுக் கொடுக்கப்படும் என ஜனாதிபதியும், மனுசவும் வீரவசனம் பேசினர். வேதனம் தொடர்பில், பொய்யான வாக்குறுதிகளை வழங்கியுள்ளனர்.
+
+எனினும் அந்த வேதன உயர்வு இன்னும் கிடைக்கப் பெறவில்லை. அவர்கள் இருவரும் பொய்யர்கள் என்பது உறுதியாகியுள்ளது.
+
+முடிந்தால் மலையக மக்களின் வாக்குகளைப் பெற்றுக்காட்டுமாறு ஜனாதிபதிக்கு சவால் விடுக்கின்றேன் எனப் பழனி திகாம்பரம் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/c963dede.json)
+
+---
 
 ### 2024-08-10 (Saturday)
 
@@ -2261,39 +2303,5 @@ He has been in politics for a long time to understand the business mentality of 
 [Data](articles/f206b5e8.json)
 
 [Extended Data](ext_articles/f206b5e8.ext.json)
-
----
-
-### Road to COP29: Priorities and expectations for global climate negotiations in 2024
-
-*2024-08-10 02:45:21* · [`dailyftlk`](https://www.ft.lk/columns/Road-to-COP29-Priorities-and-expectations-for-global-climate-negotiations-in-2024/4-765377) · `en`
-
-COP29 stands at a critical juncture and could determine the way forward on issues such as climate finance
-
-On 11 November 2024, less than four months away, the 29th meeting of the Conference of the Parties (COP29) will begin in Baku, Azerbaijan. This event will bring together representatives of the almost 200 countries who are Parties to the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement, as well as thousands of other stakeholders including civil society, academia, trade unions, the private sector, youth, and media.
-
-...
-
-[Data](articles/60bdb236.json)
-
-[Extended Data](ext_articles/60bdb236.ext.json)
-
----
-
-### New technologies and practices transforming green energy sector
-
-*2024-08-10 02:42:12* · [`dailyftlk`](https://www.ft.lk/columns/New-technologies-and-practices-transforming-green-energy-sector/4-765374) · `en`
-
-Renewable energy (RE) is clean, abundant, and sustainable but comes with its own challenges like intermittency, variability, cost, and integration.
-
-To overcome these, the sector is constantly innovating with newer technologies and practices to make it more cost and operationally effective.
-
-Fuel produced from green energy sources such as hydrogen, methane, ammonia, and ethanol are green in nature and these can be stored, transported, and used for various applications, such as transportation, heating, and industry. Many nations are building capacities for such fuel, and Sri Lanka too has huge potential to produce and export them.
-
-...
-
-[Data](articles/0a8de27c.json)
-
-[Extended Data](ext_articles/0a8de27c.ext.json)
 
 ---

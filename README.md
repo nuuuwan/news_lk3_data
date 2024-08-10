@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 13:20:45**
+As of **2024-08-10 13:36:21**
 
 ## Newspaper Stats
 
-*Scraped **39,973** Articles*
+*Scraped **39,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,666
-adaderanalk | 4,649
+adaderanalk | 4,650
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,043
+tamilmirrorlk | 5,044
 virakesarilk | 6,337
 adaderanasinhalalk | 6,782
 
@@ -26,31 +26,79 @@ adaderanasinhalalk | 6,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,972 (100.0%) of 39,973 articles have been extended.
+39,973 (100.0%) of 39,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### බ්‍රසීලයේ බිහිසුණු ගුවන් අනතුර සිදුවූ අයුරු
+### அம்பியூலன்ஸ் வண்டிக்குள் துஷ்பிரயோகம் ; இராணுவ அதிகாரி கைது
 
-*2024-08-10 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199775) · `si`
+*2024-08-10 13:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பியூலன்ஸ்-வண்டிக்குள்-துஷ்பிரயோகம்-இராணுவ-அதிகாரி-கைது/175-341907) · `ta`
 
-පුද්ගලයන් 61 දෙනෙකුට දිවි අහිමි කරමින් බ්‍රසීලයේදී අනතුරට ලක් වූ ගුවන් යානය මඟහැරුණු මගීන් දෙදෙනෙකුගේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කරයි.
+விபத்தொன்றின் பின் காணமடைந்த நோயாளியை 1990 அம்பியூலன்ஸில் வைத்தியசாலைக்கு அழைத்துச் சென்ற போது, நோயாளியுடன் வந்த இராணுவ அதிகாரி வண்டியில் இருந்த தாதியை பாலியல் துஷ்பிரயோகம் செய்ய முயற்சித்த சந்தேகத்தின் பேரில் கைது செய்யப்பட்டதாக ஹொரண தலைமையக பொலிஸார் தெரிவித்தனர்.
 
-එම වාර්තාවන්ට අනුව එක් අයෙකු ගුවන් යානයට ගොඩවීමට බලා සිටියද, ඔහුට කැඳවීමක් ලැබී නොමැත. ඒ සම්බන්ධයෙන් ඔහු ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කර ඇති බවද සඳහන් ය.
+மேலும், அம்பியூலன்ஸ் வண்டியிலுள்ள பொலிஸ் தபால் உத்தியோகத்தர் மற்றும் வைத்தியசாலை ஊழியர்களை அச்சுறுத்திய குற்றச்சாட்டின் பேரிலும் இராணுவ சார்ஜன்ட் கைது செய்யப்பட்டுள்ளார்.
 
-"මම ගොඩාක් වෙලා බලන් සිටියත් මට කැඳවීමක් ලැබුණේ නැහැ. මම ඒ ගැන විමසූවිට යානයට මගීන් නංවාගැනීම අවසන් බව මට පැවසුවා.  මම ඒ ගැන ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කළා. මම එක් අයෙක්ව තල්ලු කළා. අනතුර ගැන දැනගත්තාට පස්සේ මගේ කකුල් වෙව්ලන්න ගත්තා. මට ඒ ගැන කියන්න වචන නැහැ" යනුවෙන් ඔහු පැවසීය.
+அவரை 1990 அம்பியூலன்ஸ் வணடியில் அழைத்துச் செல்லும் போது, ​​சந்தேகநபரான இராணுவ சார்ஜென்ட்டும் நோயாளியுடன் அம்பியூலன்ஸில் ஏறினார்.
 
-යානය කඩා වැටීමට පෙර එය වට කිහිපයක් උඩු ගුවනේ කැරකී යන අයුරු විඩියෝ දර්ශන අනුව පෙනී ගියත්, අනතුරට හේතුව මෙතෙක් අනාවරණ වී නොමැත.
+இதன்போது, அம்பியூலன்ஸில் இருந்த செவிலியரை பாலியல் பலாத்காரம் செய்ய முயற்சி நடந்ததாக பொலிஸார் தெரிவித்தனர்.
 
-එමෙන්ම යානය කඩා වැටීමට පෙර දිනයේදී යානයේ තත්ත්වය පරීක්ෂා කර ඇති අතර ඉන් කිසිදු තාක්ෂණික දෝෂයක් පිළිබඳව අනාවරණ වී නොමැති බව සඳහන් ය.
+குறித்த சம்பவம் நடந்த போது பொலிஸ் குழுவொன்று அங்கு சென்ற நிலையில், அவர்கள் தப்பிச் செல்ல முயன்ற போது, சந்தேகநபரை கைதுசெய்துள்ளனர்.
 
-යානය අනතුරට ලක්වන අවස්ථාවට පෙර හදිසි තත්ත්වයක් පිළිබඳව හෝ දැනුම්දීමක් ද නොලැබුණු බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+சந்தேக நபரும் காயமடைந்த அவரது சகோதரரும் அதிகளவில் குடிபோதையில் இருந்ததாக பொலிஸார் தெரிவிக்கின்றனர்
 
 ...
 
+[Data](articles/a5113084.json)
+
+---
+
+### Ready to introduce special laws to enforce minimum wage for plantation workers - President
+
+*2024-08-10 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101130/ready-to-introduce-special-laws-to-enforce-minimum-wage-for-plantation-workers-president) · `en`
+
+President Ranil Wickremesinghe has announced that seven plantation companies have agreed to pay the minimum wage of Rs. 1,700 per day for plantation workers.
+
+Furthermore, Wickremesinghe expressed that as the Labour Minister, he will convene the Wage Board on Monday (12) to discuss the matter and that if necessary, special laws will be introduced to enforce the decision, the President’s Media Division (PMD) said.
+
+The Head of the State made these remarks while addressing the Kandy District Plantation Labour Unions and Youth Leaders’ meeting today (10).
+
+◼️
+
+[Data](articles/419d71ce.json)
+
+---
+
+### How the Brazil Crash Crash
+
+*2024-08-10 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199775) · `si`
+
+In Brazil, a plane crash resulted in the tragic loss of 61 lives. Passengers reported not receiving any call to board, leading to confusion and distress. Despite the aircraft being inspected previously without finding any technical issues, the exact cause remains unknown. This incident marks one of the deadliest aviation disasters in Brazil since 2007.
+
+🟩
+
+Foreign media reports, two passengers who were injured in Brazil, depriving 61 persons.
+
+According to those reports, if one waited for the plane, he has not received a summon. He has argated with airport officers.
+
+"Although I was so many, I didn't get called. When I inquire about it, I told me that the aircraft was over.  මම ඒ ගැන ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කළා. I pushed one. After learning about the accident, I had to move my legs. "I have no words to tell you," he said.
+
+Although the plane crashes, it appears in views on the video footage, but the cause of the accident has not been revealed.
+
+The aircraft has been inspected on the date before the plane crashed, and there is no technical fault.
+
+Foreign media reports that the aircraft had not received or notice before the crash was accidental.
+
+61 of the air crash, Brazil, lost her lives.
+
+This is considered the worst aircraft recorded by Brazil after the year 2007.
+
+◼️
+
 [Data](articles/7ea4d884.json)
+
+[Extended Data](ext_articles/7ea4d884.ext.json)
 
 ---
 
@@ -2199,47 +2247,5 @@ The information was revealed to the police and the police went to the spot and r
 [Data](articles/d3fbc994.json)
 
 [Extended Data](ext_articles/d3fbc994.ext.json)
-
----
-
-### Minfine - Review
-
-*2024-08-09 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190683) · `ta`
-
-"Minhmini" explores the friendship and conflict between Gaurav Bull, a top student, and Praveen Kishore, a new, quiet student. After an accident where Gaurav saves Praveen but dies, Praveen's guilt leads him to meet Esther Anil, who helps him honor Gaurav's memory. The film transitions from school life to a journey through the Himalayas, showcasing natural beauty and human connections amidst personal struggles. Director Halitha Shamim's nuanced portrayal of student dynamics and the healing power of nature is highlighted, with performances by Gaurav Bull, Esther Anil, and Praveen Kishore.
-
-🟩
-
-Product: Stage Anal Pvt Limited & Baby Shu Productions & Anchor Bay Studios
-
-Actors: Gaurav Bull, Esther Anil, Praveen Kishore and many others
-
-'Poovarasam Bibi', 'Chipu Karuppatti' and 'Ale' are the creator Halitha Shamim, who has attracted the attention of the screen enthusiasts' film 'Minhmini'. Was the director's new attempt to wait until the actors who starred in the film (2015-2022) and played the real Period Film?Or not?We will continue to see.
-
-Gaurav Bull is studying in a private school in Ooty, one of the hills of Tamil Nadu. The Gaurav bull, who is the best student in the game with education, acts with the character of dominating fellow students for that age.
-
-Praveen Kishore visits the school as a new student at this moment. He is quiet and even a chess player. Frequent conflict between the two. Thus the two thought that they should be mentally friendly, but the opportunity is not in action.
-
-...
-
-[Data](articles/fb8e7ec6.json)
-
-[Extended Data](ext_articles/fb8e7ec6.ext.json)
-
----
-
-### Speaker endorses certificate on Public Financial Management Bill
-
-*2024-08-09 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101116/speaker-endorses-certificate-on-public-financial-management-bill) · `en`
-
-The Speaker of Parliament Mahinda Yapa Abeywardana announced to the House that he has endorsed the certificate on the Bill titled “Public Financial Management” on 08 August 2024 in terms of the provisions of Article 79 of the Constitution of Sri Lanka.
-
-The said Bill was presented to Parliament on May 22, 2024, and it was passed with amendments on July 25 without a vote.
-
-◼️
-
-[Data](articles/82145098.json)
-
-[Extended Data](ext_articles/82145098.ext.json)
 
 ---

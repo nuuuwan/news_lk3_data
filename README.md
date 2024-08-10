@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 16:08:02**
+As of **2024-08-10 16:20:54**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,994 (100.0%) of 39,995 articles have been extended.
+39,995 (100.0%) of 39,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### බංග්ලාදේශයේ අගවිනිසුරුත් ඉල්ලා අස්වීමට එකඟ වෙයි
+### The Chief Justice of Bangladesh agree to resign
 
 *2024-08-10 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199782) · `si`
 
-බංග්ලාදේශ ශ්‍රේෂ්ඨාධිකරණයේ අගවිනිසුරුවරයා ඉල්ලා අස්වීමට එකඟවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The Chief Justice of Bangladesh's Supreme Court will step down, marking a significant development in the country's judicial landscape.
+
+🟩
+
+The Chief Justice of the Bangladesh Supreme Court has agreed to resign.
 
 ◼️
 
 [Data](articles/7a0697b7.json)
+
+[Extended Data](ext_articles/7a0697b7.ext.json)
 
 ---
 
@@ -432,13 +438,17 @@ The suspect belongs to the Panagoda Army Headquarters. The suspect is to be prod
 
 *2024-08-10 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101130/ready-to-introduce-special-laws-to-enforce-minimum-wage-for-plantation-workers-president) · `en`
 
-President Ranil Wickremesinghe has announced that seven plantation companies have agreed to pay the minimum wage of Rs. 1,700 per day for plantation workers.
+President Ranil Wickremesinghe stated that seven plantation companies have agreed with the government’s decision to provide a daily salary of Rs.1, 700 to plantation workers.
 
-Furthermore, Wickremesinghe expressed that as the Labour Minister, he will convene the Wage Board on Monday (12) to discuss the matter and that if necessary, special laws will be introduced to enforce the decision, the President’s Media Division (PMD) said.
+“As the current labour minister, I have planned to convene the Wages Board on Monday to further discuss the matter. If necessary, special laws will be introduced to implement this decision”, he added.
 
-The Head of the State made these remarks while addressing the Kandy District Plantation Labour Unions and Youth Leaders’ meeting today (10).
+The President also announced that, workers’ welfare funds, which have been neglected for many years, will be paid starting next year.
 
-◼️
+President Ranil Wickremesinghe made these remarks while attending the Kandy District Plantation Labour Unions and Youth Leaders meeting organized by the Ceylon Workers’ Congress today (10) at the KARALIYA Convention Centre And Center For Performing Arts, Kandy.
+
+The issues faced by the Tamil community in the hill country were directly presented to the President, and he responded positively to their concerns.”
+
+...
 
 [Data](articles/419d71ce.json)
 

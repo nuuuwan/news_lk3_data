@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 16:52:57**
+As of **2024-08-10 17:06:18**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 6,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,998 (100.0%) of 40,000 articles have been extended.
+40,000 (100.0%) of 40,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### බම්බලපිටියේ ත්‍රීරෝද රථයක පුද්ගල මළසිරුරක්
+### Body of a three-wheeler in Bambalapitiya
 
 *2024-08-10 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199786) · `si`
 
-බම්බලපිටිය මුහුදුබඩ මාර්ගයේ නවතා තිබූ ත්‍රිරෝද රථයක පිටුපස ආසනයේ තිබී පුද්ගල මළසිරුරක් හමුවී තිබේ.
+In Bambalapitiya, a body was discovered in a three-wheeler's back seat. The victim, identified as Selvanayagam Bonifs Sydney Manifs Sydney Maniface from Narahenpita, died under unknown circumstances.
 
-මෙලෙස මියගොස් ඇත්තේ නාරාහේන්පිට පදිංචි සෙල්වනායගම් බොනිෆස්  සිඩ්නි මනෝහර නමැති 61 හැවිරිදි පුද්ගලයෙකු වන අතර මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+🟩
+
+A carcirror has been found in the back seat, parked on the Bambalapitiya coastal road.
+
+The deceased is Selvanayagam Bonifs Sydney Manifs Sydney Maniface, Narahenpita, and the cause of death has not yet been revealed.
 
 ◼️
 
 [Data](articles/4ad3923a.json)
 
+[Extended Data](ext_articles/4ad3923a.ext.json)
+
 ---
 
-### CPL තරගාවලියෙන් වනිඳු හා නුවන් තුෂාර ඉවතට
+### Despatus with despatches from the CPL tournament
 
 *2024-08-10 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199785) · `si`
 
-බ.ඉ. කොදෙව් දූපත් සමූහයේ පැවැත්වෙන ප්‍රධානම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය වන කැරිබියානු ප්‍රිමියර් ලීගය (CPL) වෙනුවෙන් ක්‍රීඩාකිරීමේ අවස්ථාව ශ්‍රී ලංකා ක්‍රීඩකයින් දෙපළක් වන වනිඳු හසරංග සහ නුවන් තුෂාරට අහිමිවී ඇත.
+B.I., a French player, misses CPL due to injuries; Tusarara out due to finger issue, Hasaranga after two ODI losses. Replaced by South Africans Tabraiz and Anrich Shamsi, making their CPL debut despite prior participation.
 
-මෙවර කැරිබියානු ප්‍රිමියර් ලීගය මේ මස අවසානයේදී ආරම්භවීමට නියමිතව ඇති අතර, එහිදී ඔවුන් දෙදෙනාම St Kitts & Nevis Patriots කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කිරීමට නියමිතව තිබුණි.
+🟩
 
-කෙසේ නමුත් ඉන්දියාවට එරෙහිව අවසන්වූ එක්දින විස්සයි 20 තරගාවලියේදී මෙම ක්‍රීඩකයන් දෙදෙනාම ආබාධයන්ට ලක් වුණි.
+B.I. Playing for the mainstream France to League (Cric), which is held in the West Indies Cricket League (CPL) has lost the opportunity to play.
 
-ඉන් නුවන් තුෂාරට ඇඟිල්ලේ ආබාධයක් හේතුවෙන් සමස්ත තරගාවලියම අහිමි වූ අතර,  හසරංගට එක්දින තරගාවලියේ දෙවැනි හා තෙවැනි තරග අහිමි විය.
+This year's Caribbean Premier League is scheduled to start at the end of this month.
 
-ඒ අනුව හසරංග හා තුෂාර වෙනුවට දකුණු අප්‍රිකානු ක්‍රීඩක දෙපළක් වන Tabraiz Shamsi හා Anrich Nortje කැඳවීමට ශා. කිට්ස් කණ්ඩායමේ පාලනාධිකාරිය තීරණය කර ඇත.
+However, both players were disabled at the One Day Twenty20 tournament against India.
 
-ඔවුන් දෙදෙනාගෙන් ෂම්සි මීට පෙරද කැරිබියානු ප්‍රිමියර් ලීගය ක්‍රීඩාකර ඇති වුවත්, නොකියාගේ පළමු අද්දැකීම මෙය වනු ඇත.
+Tusarara lost the entire tournament due to a finger disorder, and Hasaranga lost the second and third competition of the ODI series.
+
+Accordingly, a South African athletic, Tabraiz Shamsi and Anriz Shamsi and Anrich is called. The Kitts team administration has decided to be decided.
+
+Although they had already played the Caribbean Premier League, even though he had played the Caribbean Premier League, this would be the first experience.
 
 ◼️
 
 [Data](articles/6360c056.json)
+
+[Extended Data](ext_articles/6360c056.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 22:53:47**
+As of **2024-08-10 23:05:52**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,028 (100.0%) of 40,029 articles have been extended.
+40,029 (100.0%) of 40,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### රාජගිරියෙන් සොයාගත් කොළඹ පාතාලයේ අවි ගබඩාව
+### Colombo underworld in Colombo underworld found in Rajagiriya
 
 *2024-08-10 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199797) · `si`
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ නිලධාරින් රාජගිරිය ප්‍රදේශයේ නිවසක සිදුකළ වැටලීමකදී ගිනිඅවි ඇතුළු ආයුධ රැසක් සොයාගැණුනි.
+In Rajagiriya, a raid led by the Police Narcotics Bureau uncovered a significant cache of weapons, including over 300 pieces of T56 ammunition and a micro pistol, in a residence linked to an ex-Army and Air Force member. The discovery was made after arresting seven suspects, including two former military personnel, in the Makola area. These arrests followed an investigation into organized crime, suggesting the involvement of foreign criminals operating in Colombo.
 
-ඒ, මාකොළ ප්‍රදේශයේ දී පසුගියදා අත්අඩංගුවට ගැණුන සැකකරුවන් පිරිසකගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින් අනාවරණය කරගත් කරුණු මත පදනම්වය.
+🟩
 
-මාකොළ ප්‍රදේශයේදී සැකකරුවන් 7 දෙනෙකු පසුගියදා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ නිලධාරින්ගේ අත්අඩංගුවට පත්වූ අතර ඔවුන් සන්තකයේ තිබී මත්ද්‍රව්‍ය ද එම නිලධාරින්ගේ භාරයට ගැණුනි.
+Officers of the Police Narcotics Bureau were discovered in a raid on a house in Rajagiriya.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අතර යුද හමුදාවෙන් හා ගුවන් හමුදාවෙන් සේවය අතහැර පළා ආ පුද්ගලයින් දෙදෙනෙක් ද වූ අතර සැකකරුවන් 7 දෙනාගෙන් ප්‍රශ්න කිරීමට පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශය පියවර ගෙන තිබුණි.
+It was based on the interrogation of the suspects arrested in the Makola area.
 
-ඒ අනුව රාජගිරිය ප්‍රදේශයේ නිවසක් අද පරීක්ෂා කෙරුණේ සැකකරුවන්ගෙන් අනාවරණය කරගත් කරුණු මතය.
+Seven suspects were arrested by the Police Narurerard Bureau recently in the Makola.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ අධ්‍යක්ෂවරයාගේ උපදෙස් මත සිදුකළ වැටලීමේදී එම නිවසේ තිබී T56 වර්ගයේ ගිනි අවියක්, T56 උණ්ඩ 300කට අධික ප්‍රමාණයක් මිලිමීටර් 9 උණ්ඩ 50ක් මයික්‍රෝ පිස්තෝලයක් ඇතුළු ආයුධ තොගයක් සොයා ගැණුනි.
+Among the arrested suspects were two persons who had left the service from the Army and the Air Force.
 
-...
+A house in Rajagiriya was tested on the facts revealed by the suspects.
+
+In the resident of the Director of the Police Narcotics Bureau, more than 300 T56 ammunition 9 mm, including a micro pistol, were recovered.
+
+The police suspect that the house belongs to an organized criminal in a foreign country and the police have been using those weapons in Colombo.
+
+◼️
 
 [Data](articles/e91b87aa.json)
+
+[Extended Data](ext_articles/e91b87aa.ext.json)
 
 ---
 

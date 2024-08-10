@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 18:26:28**
+As of **2024-08-10 18:38:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,008 (100.0%) of 40,010 articles have been extended.
+40,010 (100.0%) of 40,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The cause of the death is yet to be revealed, while police are conducting furthe
 
 [Data](articles/f15ecbd6.json)
 
+[Extended Data](ext_articles/f15ecbd6.ext.json)
+
 ---
 
-### ජීවිත දෙකක් අහිමි කළ රිය අනතුර
+### The accident that lost two lives
 
 *2024-08-10 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199790) · `si`
 
-හැටන් නල්ලතන්නිය ප්‍රදේශයේ සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.‍
+In Hatton Nalluthaniya, a fatal car crash involving a three-wheeler and a cab resulted in two deaths. Two others were hospitalized at Maskeliya Hospital.
 
-ත්‍රිරෝද රථයක් සහ කැබ් රථයක් ගැටීමෙන් එම අනතුර සිදුවී ඇති බව පොලීසිය පැවසීය.
+🟩
 
-අනතුරින් තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මස්කෙළිය රෝහල වෙත ඇතුළත් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+Two persons were killed in a car accident in Hatton Nalluthaniya area.
+
+The accident had occurred when a three-wheeler and a cab collided with a cab.
+
+Two more people were admitted to the Maskeliya Hospital in the accident, Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/27d667d8.json)
+
+[Extended Data](ext_articles/27d667d8.ext.json)
 
 ---
 

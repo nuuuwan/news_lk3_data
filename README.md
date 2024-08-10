@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 16:20:54**
+As of **2024-08-10 16:36:05**
 
 ## Newspaper Stats
 
-*Scraped **39,995** Articles*
+*Scraped **39,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,669
-adaderanalk | 4,652
+adaderanalk | 4,653
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,047
+tamilmirrorlk | 5,048
 virakesarilk | 6,344
-adaderanasinhalalk | 6,787
+adaderanasinhalalk | 6,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,995 (100.0%) of 39,995 articles have been extended.
+39,995 (100.0%) of 39,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### ஜப்பானில் மீண்டும் சக்திவாய்ந்த நிலநடுக்கம்
+
+*2024-08-10 16:20:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-மீண்டும்-சக்திவாய்ந்த-நிலநடுக்கம்/50-341914) · `ta`
+
+ஜப்பானின் மியாசாகியில் ஏற்கெனவே 6.9, 7.1 ரிக்டர் அளவில் இருமுறை சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டிருந்தது.
+
+ஜப்பானில் நிலநடுக்கம் ஏற்பட்டதை அடுத்து சுனாமி எச்சரிக்கையும் விடப்பட்டு திரும்ப பெறப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/d681d58f.json)
+
+---
+
+### Namal meets TNA’s Sumanthiran, plans talks with ITAK
+
+*2024-08-10 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101133/namal-meets-tnas-sumanthiran-plans-talks-with-itak) · `en`
+
+The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has met with Tamil National Alliance Parliamentarian M.A. Sumanthiran in Colombo this morning (10).
+
+The discussions had reportedly focused on the current political situation.
+
+The General Secretary of the SLPP Sagara Kariyawasam was also reportedly present at the meeting, which was held at Sumanthiran’s residence in Colombo.
+
+Meanwhile, Rajapaksa has stated during the meeting that he intends to hold discussions with the Ilankai Tamil Arasu Kachchi (ITAK) in the near future as well, MP Sumanthiran said.
+
+◼️
+
+[Data](articles/bf65a8cb.json)
+
+---
+
+### මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍ය අදින් ඇරඹෙයි
+
+*2024-08-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199784) · `si`
+
+මහනුවර ඓතිහාසික ශ්‍රී දළදා පෙරහැර මංගල්‍ය අද (10) ආරම්භ වෙයි.
+
+ඒ අනුව ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහර අද පස්වරු 6.06ට යෙදෙන සුබ මොහොතින් වීථී සංචාරය කිරීමට නියමිතය.
+
+ශ්‍රී දළදා මාලිගාව සහ සතර මහා දේවාල මගින් සංවිධානය කරනු ලබන ඇසළ පෙරහර මංගල්‍යය මෙරට සංස්කෘතියේ වැදගත් අංගයකි.
+
+පෙරහැර මංගල්‍යයට වෙනුවෙන් කප් සිටුවීමෙන් අනතුරුව නාථ, පත්තිනි, විෂ්ණු , කතරගම යන සිව්මහා දේවාලයන්හි අභ්‍යන්තර පෙරහැර පැවැත්වුණු අතර එහි 5 වන පෙරහැර එනම් අවසන් අභ්‍යන්තර පෙරහර ඊයේ රාත්‍රියේ විථී සංචාරය කෙරුණි.
+
+අභ්‍යන්තර පෙරහර පැවැත්වීමෙන් අනතුරුව බෞද්ධ සැදැහැවතුන්ගේ මුදුන් මල්කඩ වන මහනුවර ඓතිහාසික ශ්‍රී දළදා මාලිගාවේ ඇසළ පෙරහැර මංගල්‍යයේ පළමු කුඹල් පෙරහැර අද රාත්‍රියේ මෙලෙස වීථී සංචාරය කෙරෙයි.
+
+කුඹල් පෙරහර සඳහා අලි ඇතුන් 40 ක් එක් කර ඇති අතර නැටුම් කණ්ඩායම් 20ක් ද ඊට සහභාගී වෙයි.
+
+මෙවරත් පෙරහර නැරඹීම සඳහා අද උදෑසන සිටම දෙස් විදෙස් විශාල පිරිසක් පැමිණ සිටි බව වාර්තා විය.
+
+පැමිණෙන සැදැහැවතුන්ගේ ආරක්ෂාව වෙනුවෙන් පොලීසියෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ද ක්‍රියාත්මක කර තිබේ.
+
+...
+
+[Data](articles/e15cb4d9.json)
+
+---
 
 ### The Chief Justice of Bangladesh agree to resign
 
@@ -2179,79 +2237,5 @@ We called the tender e - passport together. Paid $ 5.89 to the old book. The new
 [Data](articles/e7a41421.json)
 
 [Extended Data](ext_articles/e7a41421.ext.json)
-
----
-
-### Tilakar
-
-*2024-08-09 18:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெல்ல-அல்ல-சொல்ல-திலகர்/76-341879) · `ta`
-
-The Upcountry Political Forum aims to highlight the needs of the mountain Tamil community in Sri Lanka through the 2024 presidential election, emphasizing the importance of national leaders addressing their political rights after decades of denial. Despite restrictions, Mayilwakanam Tilaka Raja, a former MP and key figure in the forum, will run as an independent candidate, marking a significant step in engaging with the political process. Raja, known for his activism since graduating in 2000, served as an MP from 2015 to 2020 and has been instrumental in establishing the 'Mountaineer Political Forum'. His efforts have included leading a nonviolent struggle against injustices and advocating for the rights of the Tamil community, particularly focusing on issues like labor conditions and local governance reforms.
-
-🟩
-
-The Upcountry Political Forum has announced that it has decided to use the presidential election in 2024 to emphasize the national policymakers and rulers that are needed to make the mountain Tamil people in the face of many political rights, which have been denied the political rights in Sri Lanka for three decades.
-
-Based on the high -level resolution of the stadium, the opposition and the chief coordinator of the stadium in the presidential election and former Nuwara Eliya district parliamentarian, Mayilwakanam Tilaka Raja, has been restricted to participating as an independent candidate.
-
-Raja Raja, who participates in the presidential election, is the first to win the presidential election, not to win the presidency, but for the first time in the presidential presidential presidential election.
-
-Tilak, who has been a complete literary, social and political activist since his graduation at the University of Colombo in 2000, has been a Member of Parliament for 2015-2020.
-
-...
-
-[Data](articles/7e6ee771.json)
-
-[Extended Data](ext_articles/7e6ee771.ext.json)
-
----
-
-### Third reading of the Provincial Council Election Bill on September 3
-
-*2024-08-09 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190702) · `ta`
-
-The Provincial Council Elections Amendment Bill, introduced by MP MA Sumanthiran from the TNA, underwent debates and amendments in Parliament before its third reading scheduled for September 3.
-
-🟩
-
-The third reading of the Act will be held on September 3, following the necessary amendments to the Provincial Council Amendment on Friday (9).
-
-The Provincial Council Elections Amendment Bill was presented in Parliament on the 6th of last month by MA Sumanthiran, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA).
-
-Subsequently, the Parliamentarian Sumanthiran said that the law was taken up for debate at the Parliamentary Committee on Friday (9) and amendments made by the High Court at the law.
-
-Accordingly, the amendment bill will be presented in Parliament on the 21st of this month, followed by a third reading of the law on the 3rd of September.
-
-◼️
-
-[Data](articles/85e2a01b.json)
-
-[Extended Data](ext_articles/85e2a01b.ext.json)
-
----
-
-### ADB working on Sri Lanka $100mn tourism sector loan
-
-*2024-08-09 18:52:00* · [`economynextcom`](https://economynext.com/adb-working-on-sri-lanka-100mn-tourism-sector-loan-176241/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Bank is working on a 100 million US dollar tourism sector loan for Sri Lanka, Country Director Takafumi Kadono said.
-
-The loan will be made up of a 70 million dollar budget support component, and a 30 million dollar project, he said.
-
-Earlier this year ADB brought together government officials and also industry representatives and bio-diversity experts in a knowledge sharing event.
-
-The lender will “support policy actions in the tourism sector to increase resilience to shocks and strengthen institutions, and potentially streamline decision making” Kadono said at the time.
-
-Sri Lanka is facing the prospect of overtourism in some areas including the Yala national park while there were also concerns over certain whale watching practices, some experts said.
-
-The ADB has already provided loans to Sri Lanka its in economic recovery efforts.
-
-The agency has just approved the release of a 100 million dollar loan linked to electricity reforms.
-
-...
-
-[Data](articles/b963b5d0.json)
-
-[Extended Data](ext_articles/b963b5d0.ext.json)
 
 ---

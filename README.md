@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 17:36:40**
+As of **2024-08-10 17:56:58**
 
 ## Newspaper Stats
 
-*Scraped **40,004** Articles*
+*Scraped **40,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,124 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,669
+adalk | 3,670
 adaderanalk | 4,653
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,050
+tamilmirrorlk | 5,052
 virakesarilk | 6,344
-adaderanasinhalalk | 6,792
+adaderanasinhalalk | 6,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,001 (100.0%) of 40,004 articles have been extended.
+40,004 (100.0%) of 40,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### මැතිවරණ සලකුණු මෙන්න
+### පාකිස්තානයේ ගැටුම්වලින් හමුදාවේ තිදෙනෙක් මරුට
+
+*2024-08-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199789) · `si`
+
+පාකිස්තානයේ සටන්කාමීන් සමග ඇතිවූ ගැටුම්වලින් එරට හමුදා සාමාජිකයින් තිදෙනෙකු මියගොස් තිබේ.
+
+එරට කයිබර් පළාතේ එම ගැටුම් ඇතිවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ගැටුම්වලින් සටන්කාමීන් සිව් දෙනෙකු ද මිය ගොස් ඇති බව සඳහන් ය.
+
+මේ වසරේ ගතවූ කාලය තුළ පාකිස්තානය පුරා සටන්කාමීන්ගේ ප්‍රහාර 550 කට අධික සංඛ්‍යාවක් සිදුවී ඇති අතර ඒ හේතුවෙන් එරට ආරක්ෂක අංශ සාමාජිකයින් සහ සිවිල් වැසියන් 600 කට අධික පිරිසක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/c8343502.json)
+
+---
+
+### மஸ்கெலியா விபத்தில்: இருவர் பலி
+
+*2024-08-10 17:30:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியா-விபத்தில்-இருவர்-பலி/76-341917) · `ta`
+
+மஸ்கெலியா, நகரில் இருந்து மரே தோட்ட வலதள பிரிவுக்கு சென்ற முச்சக்கர வண்டி ஒன்று அதி வேக காரணமாக கட்டுப்பாட்டை இழந்து நிலையில் முன்னாள் வந்த வாகனத்தில் மோதுண்டு முச்சக்கர வண்டி தடம் புரண்டு இருவர் சம்பவ இடத்திலேயே பலி.
+
+மேலும் இரண்டு பேர் மஸ்கெலியா மாவட்ட வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு உள்ளார்கள்.
+
+இவ் விபத்து குறித்து மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி விசாரணை நடத்தி வருகின்றனர்
+
+இறந்த சடலம் சம்பவம் நடந்த மஸ்கெலியா நல்லதண்ணி பிரதான வீதியில் புரவுன்லோ தோட்டத்தை சேர்ந்த பகுதியில் சாலையில் உள்ளது.
+
+◼️
+
+[Data](articles/9e1d962d.json)
+
+---
+
+### Here is the electoral markings
 
 *2024-08-10 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199788) · `si`
 
-පිළිගත් දේශපාලන පක්ෂ සහ ස්වාධීන කණ්ඩායම් සඳහා මැතිවරණ සලකුණු ප්‍රකාශයට පත් කර තිබේ.
+The Election Commission announced 206 electoral markings for political parties and independent groups, publishing them in a gazette. They received over 100 complaints about election law violations since July 31st, including allegations of violence, with a total of 266 complaints against election laws.
 
-මැතිවරණ කොමිසම විසින් අතිවිශේෂ ගැසට් පත්‍රයක් ප්‍රකාශයට පත් කරමින් මෙම මැතිවරණ සලකුණු ප්‍රකාශයට පත් කර ඇති අතර එහිදී සලකුණු 206 ප්‍රකාශයට පත් කර ඇති බව සඳහන් ය.
+🟩
 
-මේ අතර ජනාධිපතිවරණයට අදාළව ඊයේ (09) දිනයේ ද පැමිණිලි සියයකට වැඩි සංඛ්‍යාවක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Election markings have been announced for recognized political parties and independent groups.
 
-මෙම සියලු පැමිණිලි මැතිවරණ නීතිරීති උල්ලංඝණය කිරීම සම්බන්ධයෙන් වන බව එම කොමිසම සඳහන් කළේය.
+The election commission declared a gazette and declared these electoral markers, where 206 marks have been published.
 
-ඒ අනුව ජාතික පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට හා දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 112ක් ලැබී ඇත.
+Meanwhile, the Elections Commission has received more than a complaint yesterday (09).
 
-පසුගිය ජුලි මස 31වනදා සිට ඊයේ දිනය දක්වා ලැබී ඇති සමස්ථ පැමිණිලි සංඛ්‍යාව 269කි.
+The commission stated that all these complaints are on violation of election laws.
 
-එම පැමිණිලි අතර ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ එක් පැමිණිල්ලක් සහ වෙනත් පැමිණිලි 02ක් වන බවද සඳහන් ය.
+Accordingly, the National Complaint Management Center and the District Elections Management Center has received 112 complaints.
 
-සෙසු පැමිණිලි 266 ම මැතිවරණ නීතිරීති උල්ලංඝණය කිරීම් වන බව ද මැතිවරණ කොමිෂන් සභාව පවසයි.
+The total number of complaints received from 31 July to yesterday.
+
+One of the complaints regarding violence between the complaints and two other complaints.
+
+The Elections Commission says that 266 complaints are violating election laws.
 
 ◼️
 
 [Data](articles/f35b6a98.json)
 
+[Extended Data](ext_articles/f35b6a98.ext.json)
+
 ---
 
-### திருகோணேஸ்வர ஆலயத்தில் விலை மதிப்பில்லாத அம்மன் தாலி கொள்ளை
+### Amman Tali robbery at the Trincomalee Temple
 
 *2024-08-10 17:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணேஸ்வர-ஆலயத்தில்-விலை-மதிப்பில்லாத-அம்மன்-தாலி-கொள்ளை/75-341916) · `ta`
+
+A significant robbery occurred at the Trincomalee Temple, where ancient Thali artifacts were targeted. Despite the temple's history of protecting its treasures during the Portuguese invasion, the recent incident has sparked public outrage. The temple administration is seeking to address community concerns, acknowledging the irreplaceable value of the stolen items. The police have yet to file a report, and the public has engaged local officials, including the District Secretary and Governor Senthil Thondaman, to ensure justice is served.
+
+🟩
+
+Tali has been robbed at the Trincomalee - Trincomalee temple.
+
+It has been reported that the Thali from the Chola period from the Chola period and the sacred sacrifice of the Saivites was saved and protected by the Saivites when the temple was broken during the Portuguese period.
+
+Following this, the temple administration sought to calm the matter and try to make peace with the public.
+
+The public has expressed concern that the five shaving tali, which was paid to several hundred crores of gemstones and Vaidur, was powerful and that no one could compensate for it.
+
+It is said that the police have not yet lodged a complaint at the police station.
+
+Similarly, the 16 -pound diamonds worth several hundred crores of times during the Chola period and the gold jewelery packed with Vaidurum have been stolen in the past.
+
+In this case, the public has been brought to the attention of the concerned parties as the District Secretary and the Chancellor of the State.
+
+...
+
+[Data](articles/542e5e7f.json)
+
+[Extended Data](ext_articles/542e5e7f.ext.json)
+
+---
+
+### திருகோணேஸ்வர அம்மன் தாலி கொள்ளை
+
+*2024-08-10 17:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணேஸ்வர-அம்மன்-தாலி-கொள்ளை/75-341916) · `ta`
 
 திருகோணமலை – திருகோணேஸ்வரம் ஆலயத்தில் தொல்பொருள் பெறுமதியான பல கோடி ரூபா பெறுமதியான தாலி கொள்ளையிடப்பட்டுள்ளது.
 
@@ -76,7 +148,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/542e5e7f.json)
+[Data](articles/b10a6edf.json)
 
 ---
 
@@ -102,19 +174,27 @@ He was speaking at a special meeting of the former Local Authorities.
 
 ---
 
-### பங்களாதேஷ் தலைமை நீதிபதி இராஜினாமா
+### Bangladesh Chief Justice resigns
 
 *2024-08-10 16:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-தலைமை-நீதிபதி-இராஜினாமா/50-341915) · `ta`
 
-பங்களாதேஷ் உச்சநீதிமன்ற தலைமை நீதிபதி பதவி விலக போராட்டக்காரர்கள் ஒரு மணி நேர கெடு விதித்த நிலையில், அவர் பதவி விலகுவதாக அறிவித்துள்ளார்.
+After protests against judicial corruption and the involvement of war criminals' families, Bangladesh's Chief Justice resigned. Riots ensued, killing over 100, leading to the dissolution of Parliament and the appointment of Nobel laureate Muhammad Yunus as interim president. Student protests demanding the resignation of all judges, including the Chief Justice, reignited tensions.
 
-பங்களாதேசில் விடுதலை போரில் பங்கேற்றவர்களின் குடும்ப உறுப்பினர்களுக்கு அரசு வேலையில் 30 சதவீத இடஒதுக்கீடு வழங்குவதை எதிர்த்து போராட்டம் வெடித்தது. இந்த போராட்டம் நாளடைவில் கலவரமாக மாறியது. இந்த கலவரத்தில் 100க்கும் மேற்பட்டோர் இறந்தனர். நிலைமை மோசமானதை அடுத்து அந்நாட்டின் பிரதமராக இருந்த ஷேக் ஹசீனா தனது பதவியை இராஜினாமா செய்துவிட்டு, இந்தியாவில் தஞ்சமடைந்தார்.
+🟩
 
-இதனையடுத்து அந்நாட்டு பாராளுமன்றத்தை ஜனாதிபதி முகமது ஷஹாபுதீன் கலைத்து உத்தரவிட்டார். தொடர்ந்து, வங்கதேச இடைக்கால அரசின் தலைவராக நோபல் பரிசு பெற்ற பொருளாதார நிபுணர் முகமது யூனுஸ் நேற்று முன்தினம் (8) இரவு பதவியேற்றார். அவருக்கு ஜனாதிபதி முகமது ஷஹாபுதீன் பதவிப் பிரமாணம் செய்துவைத்தார்.
+The Chief Justice of the Bangladesh Supreme Court has announced that he will resign as the protesters have been resigned.
+
+The struggle erupted against the family members of those who participated in the liberation war in Bangladesh. This struggle turned into a riot. More than 100 people died in this riots. Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
+
+President Mohammed Shahabuddin subsequently ordered the Parliament of Parliament to dissolve the country. Subsequently, the Nobel laureate economist Mohammed Yunus was sworn in as the head of the Bangladeshi interim government last night (8) night.. He was sworn in as President Mohammed Shahabuddin.
+
+Following this, the student organizations have once again launched a struggle in Bangladesh after the last two days of peace. Students staged a protest that all judges, including the Chief Justice of the Supreme Court, should resign. Students staged a protest against the Bangladesh Supreme Court.
 
 ...
 
 [Data](articles/3fab845f.json)
+
+[Extended Data](ext_articles/3fab845f.ext.json)
 
 ---
 
@@ -453,6 +533,20 @@ Geetanath Kasilingam said that he had told M.A. Sumanthiran that he had responde
 [Data](articles/08693f34.json)
 
 [Extended Data](ext_articles/08693f34.ext.json)
+
+---
+
+### වතු කම්කරුවන්ට සඳහා රු.1700ක් ගෙවීමට වතු සමාගම් 7ක් එකගවෙයි
+
+*2024-08-10 14:30:10* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-සඳහා-රු-1700ක්-ගෙවීමට-වතු-සමාගම්-7ක්-එකගවෙයි/11-411291) · `si`
+
+වතු කම්කරුවන්ට සඳහා රුපියල් 1700ක දෛනික වැටුප ගෙවීමට වතු සමාගම් 7ක් එකගවී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (10) මහනුවර දිස්ත්‍රික් වතු කම්කරු සංගම් සහ තරුණ නායක රැස්වීම අමතමිනි.
+
+◼️
+
+[Data](articles/3f0b6a6c.json)
 
 ---
 
@@ -2137,103 +2231,5 @@ Shaankian Rasmanikkam was speaking to the media regarding several political part
 [Data](articles/302688a6.json)
 
 [Extended Data](ext_articles/302688a6.ext.json)
-
----
-
-### A dumb deaf village, 20 families, 15 and dumb deaf
-
-*2024-08-09 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199766) · `si`
-
-In a remote deaf village in Anuradhapura, 20 families struggle with poverty, relying on forest elephant hunting, odd jobs, and agriculture. Despite government aid, insufficient funds and lack of support for the deaf hinder their livelihoods and education. The village faces water scarcity; a donated water refinery is non-functional, exacerbating their challenges.
-
-🟩
-
-The news from Anuradhapura is reported in Anuradhapura, living in a dumb deaf village.
-
-The village is located 553 in Meeramawa Grama Niladuwa No. 553 belonging to the Thiction Divisional Secretariat Division in Anuradhapura.
-
-The village of Thinepitigama, who lives, lives in about 20 families, and about 15 families live with dumb deaf.
-
-They live in the middle of the village, which is not in the face of very difficulties, and in a backdrop, the villagers will get water to drink.
-
-The batter of forest elephants is the main livelihoods, trip jobs, animal husbandry and fisheries.
-
-The government receives Rs.
-
-However, it is said that the money is not sufficient to climb his livelihood, but many do not even receive the relief jobs due to dumb deaf.
-
-They say that the meager earning occasionally earned from the rental job is unable to do their livelihood or carry out the education of children.
-
-...
-
-[Data](articles/dd279eb0.json)
-
-[Extended Data](ext_articles/dd279eb0.ext.json)
-
----
-
-### 22 students who destroyed a 16 -year -old student - shocking incident
-
-*2024-08-09 22:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-மாணவியை-சீரழித்த-22-மாணவர்கள்-அதிர்ச்சி-சம்பவம்/175-341880) · `ta`
-
-In Thanamalawila, a grade 11 student allegedly sexually abused 22 fellow students over a year. The police are investigating, aiming to arrest all involved, including the school's principal, for alleged cover-up. Legal actions are underway.
-
-🟩
-
-A student who is studying in grade 11 at a school in Thanamalawila area has continued to sexually abuse 22 students who have been studying in the same school for a year.
-
-Accordingly, the police have begun investigations to arrest the 22 students and all those involved in the incident.
-
-Legal action has been taken against everyone, including the principal of the school, to cover up the facts of the incident. Remble
-
-◼️
-
-[Data](articles/6cc17dcd.json)
-
-[Extended Data](ext_articles/6cc17dcd.ext.json)
-
----
-
-### Minister Tiran makes announcement on issuance of passports
-
-*2024-08-09 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101120/minister-tiran-makes-announcement-on-issuance-of-passports) · `en`
-
-Minister of Public Security Tiran Alles has announced that only 1,000 passports will be issued per day until October.
-
-Speaking at a press conference in Colombo today (09), he said that the issuing of e-passports will begin from October.
-
-Explaining the situation, Alles said, “Repeated we had re-ordered from the same supplier for 23 years. This time again a re-order came. I refused and said to call for tenders.”
-
-He noted that the new company that won the tender faced a two-month delay due to legal procedures, which caused the current restriction on passport issuance. “We are issuing 900 (passports) per day, but we have left room for up to 1,000 due to those that arrive in the last moment,” Alles added.
-
-Minister Alles urged the public to apply for passports only if essential during this period, while assuring that the applicants “will get a new e-Passport in October.”
-
-...
-
-[Data](articles/e1c088c2.json)
-
-[Extended Data](ext_articles/e1c088c2.ext.json)
-
----
-
-### Russian strike on supermarket in Ukraine’s east kills 14 people
-
-*2024-08-09 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101119/russian-strike-on-supermarket-in-ukraines-east-kills-14-people) · `en`
-
-A Russian missile struck a supermarket in the Ukrainian town of Kostiantynivka in the front-line Donetsk region on Friday, killing at least 14 people and injuring 43 others, Ukrainian officials said.
-
-Heavy black smoke clouds rose from the destroyed building in images and videos posted by officials. The interior minister later said the blaze was put out.
-
-“Russian terrorists hit an ordinary supermarket and a post office. There are people under the rubble,” President Volodymyr Zelenskiy said on X. Emergency services continued working out the rubble looking for survivors, he added.
-
-Kostiantynivka lies just about 13 kilometers from the active combat line in Ukraine’s east. Ukrainian government-held parts of the Donetsk region regularly come under Russian shelling and air strikes.
-
-This week Russia has been fighting what it says is an armored cross-border assault by Ukrainian troops in its Kursk region. The Kyiv military has not commented on that operation yet.
-
-...
-
-[Data](articles/f0f04378.json)
-
-[Extended Data](ext_articles/f0f04378.ext.json)
 
 ---

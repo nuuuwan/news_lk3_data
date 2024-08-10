@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 17:06:18**
+As of **2024-08-10 17:20:52**
 
 ## Newspaper Stats
 
-*Scraped **40,000** Articles*
+*Scraped **40,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,653
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,048
 virakesarilk | 6,344
-adaderanasinhalalk | 6,790
+adaderanasinhalalk | 6,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,000 (100.0%) of 40,000 articles have been extended.
+40,000 (100.0%) of 40,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### රනිල් දිනවන්න අලුත් පක්ෂයක්
+
+*2024-08-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199787) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට එක්වන පොදුජන පෙරමුණේ කණ්ඩායම විසින් ලබන සතිය වනවිට නව දේශපාලන පක්ෂයක් ආරම්භ කිරීමට කටයුතු කරමිනි සිටී.
+
+පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පැවසුවේ ඊට අවශ්‍ය කටයුතු මේ වනවිට සූදානම් කර ඇති බවය.
+
+හිටපු පළාත් පාලන ආයතන ප්‍රධානීන්ගේ සංසදයේ විශේෂ හමුවකදී ඔහු මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/47a00ecb.json)
+
+---
 
 ### Body of a three-wheeler in Bambalapitiya
 
@@ -2213,35 +2229,5 @@ He was speaking at a press conference held today (09).
 [Data](articles/7cbac73e.json)
 
 [Extended Data](ext_articles/7cbac73e.ext.json)
-
----
-
-### China brings forest America
-
-*2024-08-09 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199763) · `si`
-
-China leads the Paris 2024 Olympics, surpassing the United States in total medals. China has secured 76 silver and 20 bronze medals, while the US trails with fewer golds but more silvers and bronzes. Australia maintains its position with 47 silver, 15 silver, and 14 bronze medals. France holds the fourth spot, followed by Britain in fifth.
-
-🟩
-
-Sri Lanka's time today (09) at the date of the 'Paris 2024' Olympics. According to the contest ends that ended at 7.45, China was able to take the lead in the forefront of the United States.
-
-China has won 76 silver and 20 bronze with 20 bronze.
-
-The United States has retreated to the second place by taking the lead in the forefront this afternoon.
-
-However, 30 gold medals, 38 silver, 38 silver and 35-medal medals.
-
-In the meantime, Australia has preserved himself as well as 47 silver, 15 silver and 14 bronze.
-
-The host France has been staying in the fourth place due to the emergency in Australia.
-
-However, Britain has won 14 gold medals, and the number of silver medals they won in the 5th place in the Medal.
-
-◼️
-
-[Data](articles/6be0acd4.json)
-
-[Extended Data](ext_articles/6be0acd4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 09:36:28**
+As of **2024-08-10 09:55:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,948 (100.0%) of 39,949 articles have been extended.
+39,949 (100.0%) of 39,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,33 @@ Although the relevant period was scheduled to end at midnight on the August 7, s
 
 ---
 
-### ஈராக்கில் பெண்களின் திருமண வயதெல்லையை 9 ஆக குறைக்க தீர்மானம்
+### Resolution to reduce women's marriage age to 9 in Iraq
 
 *2024-08-10 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/190711) · `ta`
 
-பெண்களின் திருமண வயதை 9 ஆகவும், ஆண் குழந்தைகளின் திருமண வயதை 15 ஆகவும் குறைக்கும் சர்ச்சைக்குரிய  சட்டமூலத்தை ஈராக் பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளது.
+Iraqi Parliament proposes lowering women's marriage age to 9 and men's to 15, sparking outrage from human rights groups. Critics warn of dire impacts on education, health, and wellbeing of young women. The bill suggests allowing individuals to choose between religious laws and civil court for family matters. If enacted, it could lead to marriages of 9-year-old girls and 15-year-old boys. UNICEF reports 28% of Iraqi women were married under 18, despite the legal age being 18. Women in Iraq are fighting against this bill.
 
-இந்த சட்டமூலத்துக்கு  மனித உரிமை அமைப்புகள் மற்றும் ஆர்வலர்கள்  கடும் எதிர்ப்பு தெரிவித்து வருகின்றனர். இது இளம் பெண்களின் கல்வி, உடல்நலம் மற்றும் ஒட்டுமொத்த நல்வாழ்வில் கடுமையான விளைவுகளை ஏற்படுத்தும் என்று அவர்கள் எச்சரிக்கின்றனர்.
+🟩
 
-தற்போது வரை  ஈராக்கில் திருமணம் செய்ய குறைந்தபட்சம் 18 வயது இருக்க வேண்டும் என்று சட்டத்தில் குறிப்பிடப்பட்டுள்ளது.
+The Iraqi Parliament has filed a controversial bill to reduce women's marriage age to 9 and the marriage age of male children to 15.
 
-இருப்பினும், ஈராக் நீதி அமைச்சகத்தால் முன்மொழியப்பட்ட புதிய சட்டம், குடும்ப விஷயங்களுக்கு மத விதிகளை பின்பற்றலாமா அல்லது சிவில் நீதிமன்ற முறையை பின்பற்றலாமா என்பதை மக்கள் தெரிவு செய்ய அனுமதிக்கும்.
+Human rights organizations and activists are vehemently opposed to this bill. They warn that this will have serious consequences of the education, health and well -being of young women.
 
-சட்டம் நிறைவேற்றப்பட்டால், ஒன்பது வயதுடைய சிறுமிகளுக்கும், 15 வயதுடைய ஆண் சிறுவர்களும் திருமணம் செய்துகொள்ளலாம்.
+The law states that marriage in Iraq should be at least 18 years old.
 
-...
+However, the new law proposed by the Iraqi Ministry of Justice will allow people to choose whether to follow religious rules for family matters or to adopt a civil court system.
+
+If the law is passed, the nine -year -old girls and the 15 -year -old boys can get married.
+
+UNICEF, a UN child organization, said it was married to 28 percent of women in Iraq even though it was 18 years old.
+
+It is also reported that Iraqi women have launched a struggle against the current relaxation bill.
+
+◼️
 
 [Data](articles/4dc8c149.json)
+
+[Extended Data](ext_articles/4dc8c149.ext.json)
 
 ---
 

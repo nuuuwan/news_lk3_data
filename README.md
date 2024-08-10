@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 04:36:09**
+As of **2024-08-11 04:55:03**
 
 ## Newspaper Stats
 
-*Scraped **40,034** Articles*
+*Scraped **40,035** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 344
 newsfirstlk | 363
 bbccomsinhala | 374
-colombotelegraphcom | 376
+colombotelegraphcom | 377
 islandlk | 2,303
 economynextcom | 2,424
 dailyftlk | 2,581
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,034 (100.0%) of 40,034 articles have been extended.
+40,034 (100.0%) of 40,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,18 @@ Palani Thikambaram has said that if possible, I will challenge the President to 
 ---
 
 ### 2024-08-10 (Saturday)
+
+### When Engineering Meets Marxism: Remembering Bahu & Chris Rodrigo
+
+*2024-08-10 22:50:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-engineering-meets-marxism-remembering-bahu-chris-rodrigo/) · `en`
+
+“Nature builds no machines,” wrote Marx in a famous passage in the Grundrisse. They are “products of human industry; natural material transformed into organs of the human will over nature, or of human participation in nature.” Fundamentally, Marxism is the (socialist) theory and practice of industrial societies. Marx’s insights on the logic of automation is now drawing the attention of technology watchers who are both excited and concerned by the current phenomenon of Artificial Intelligence (AI). In the complex environment of human labour, labour-created, labour-saving and labour-replacing machinery and automation, and the mostly uneven industrial society at large, engineering education and research are a critical medium providing training to human resources and technical mastery over material resources.
+
+...
+
+[Data](articles/51893262.json)
+
+---
 
 ### Colombo underworld in Colombo underworld found in Rajagiriya
 
@@ -2301,23 +2313,5 @@ To achieve his affinity towards the youth of Sri Lanka, he has established the S
 [Data](articles/55ad3a97.json)
 
 [Extended Data](ext_articles/55ad3a97.ext.json)
-
----
-
-### Emerging climate risks and future-proof planning for the tourism sector
-
-*2024-08-10 03:01:47* · [`dailyftlk`](https://www.ft.lk/columns/Emerging-climate-risks-and-future-proof-planning-for-the-tourism-sector/4-765388) · `en`
-
-Sri Lanka is endowed with a wealth of tourism resources but the sector faces a variety of climate-related risks and impacts
-
-Sri Lanka is endowed with a variety of natural and cultural resources that render it an attractive and accessible tourism destination. This includes diverse landscapes and ecosystems, rich biodiversity, and the country’s tangible as well as intangible cultural heritage, ranging from the cuisine to traditional apparel and fashion products.
-
-However, Sri Lanka is also among the world’s most vulnerable countries to climate change. With its sensitivity to weather changes and dependence on natural ecosystems, the tourism sector is at the forefront of this vulnerability and faces a multitude of risks, including slow-onset changes as well as sudden extreme events.
-
-...
-
-[Data](articles/047eeae9.json)
-
-[Extended Data](ext_articles/047eeae9.ext.json)
 
 ---

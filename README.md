@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 11:56:00**
+As of **2024-08-10 12:09:08**
 
 ## Newspaper Stats
 
-*Scraped **39,966** Articles*
+*Scraped **39,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,664
+adalk | 3,665
 adaderanalk | 4,648
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,040
@@ -26,41 +26,67 @@ adaderanasinhalalk | 6,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,961 (100.0%) of 39,966 articles have been extended.
+39,964 (100.0%) of 39,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### யார்யாருக்கோ அரசாங்கங்களை அமைத்தது போதும்; சமந்த வித்யாரத்ன
+### Whoever set up governments is enough;Samantha Vidyaratne
 
 *2024-08-10 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யார்யாருக்கோ-அரசாங்கங்களை-அமைத்தது-போதும்-சமந்த-வித்யாரத்ன/175-341903) · `ta`
 
-யார்யாருக்கோ அரசாங்கங்களை அமைத்தது போதும். இப்போது பொதுமக்களுக்கான அரசாங்கத்தை அமைத்திடவேண்டும் என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சமந்த வித்யாரத்ன தெரிவித்தார்.
+Samantha Vidyaratne, a National People's Power member, emphasizes the importance of setting up a government for the public good, highlighting past failures and calling for a shift towards genuine public rule. She criticizes the previous attempts to manipulate elections and urges for a collective effort to overcome challenges. The speech touches on various issues like corruption, the need for political understanding among the masses, and the potential for significant change through unity and proper leadership.
 
-76 வருடகாலமாக துன்பங்களை அனுபவித்து நாடு எதிர்பார்க்கின்ற வெற்றியை பெற்றுக்கொள்வதற்காக நாமனைவரும் எதிர்காலத்தில் வெற்றிகரமாக உழைப்போமென முதலில் கேட்டுக்கொள்கிறேன். இந்த ஜனாதிபதி தேர்தலைத் தடுக்க ரணில், ராஜபக்ஷாக்கள் அமைத்த பாதுகாப்பு வளையங்கள் அனைத்தையும் தகர்த்தெறிந்து செப்டெம்பர் 21 ஆந் திகதி பொதுமக்களின் உண்மையான ஆட்சியை அமைக்கப்போகிறோம். இதுவரை யார்யாருக்கோ அரசாங்கங்களை அமைத்துக்கொடுத்தது போதும். இப்போது பொதுமக்களுக்காக அரசாங்கமொன்றை அமைத்துக்கொள்ள வேண்டும். அந்த வெற்றிக்குப் பின்னர் மக்கள்  பங்கேற்புடனான அபிவிருத்திக்கான பிள்ளையார் சுழி போடப்படுகின்றது. இந்த நாட்டை நாசமாக்கிய கட்சிகளைப்போன்றே தலைவர்களும் துண்டுதுண்டாகப் பிரிந்து கதிகலங்கிப் போயிருக்கிறார்கள்.
+🟩
+
+Whoever set up governments enough. The National People's Power National Executive Member Samantha Vidyaratne said that the government should now be set up.
+
+First of all, I urge all of us to work successfully in the future to suffer for 76 years of suffering. Ranil and Rajapaksa's security rings set up to prevent this presidential election and we are going to set up the real rule of the public on September 21st.. It is enough for anyone to set up governments. Now to set up a government for the public. After that victory, the child's participation is being put in place. Like the parties that destroyed this country, the leaders have split into a fragmentation.
 
 ...
 
 [Data](articles/d991cb15.json)
 
+[Extended Data](ext_articles/d991cb15.ext.json)
+
 ---
 
-### ரஷ்யாவின் கூர்க்ஸுக்குள்  அவசர நிலை அறிவிப்பு
+### Emergency Notice within Russia's Coorgs
 
 *2024-08-10 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-கூர்க்ஸுக்குள்-அவசர-நிலை-அறிவிப்பு/50-341902) · `ta`
 
-ரஷ்யாவின் எல்லைப் பிராந்தியமான கூர்க்ஸுக்குள் உக்ரைன் படையினர் நுழைந்து தாக்குதல் நடத்தி வரும் நிலையில், அந்த பிராந்தியத்தில் அவசர நிலை அறிவிக்கப்பட்டுள்ளது.
+An emergency has been declared in Russia's Coorgs region due to Ukrainian troops' entry. The conflict, ongoing since 2022, intensified with recent Ukrainian assaults, leading to a state of emergency. Despite initial aggression from Putin's forces, Gelanciesi's army, armed with Western weaponry, launched counterattacks. Approximately 1,000 Ukrainian soldiers, equipped with artillery and armored vehicles, invaded the region, forcing evacuations and declarations of a national emergency. The Russian Defense Ministry reported success against the Ukrainian assault, with reinforcements and increased firepower dispatched to the area. Over the past day, 280 Ukrainian soldiers were reportedly killed.
 
-உக்ரைன் – ரஷ்யா இடையிலான போர் கிட்டதட்ட 3 ஆண்டுகளாக நடைபெற்று வருகிறது. கடந்த 2022அம் ஆண்டு பெப்ரவரி 24ஆம் திகதி சிறப்பு இராணுவ நடவடிக்கை என்ற பெயரில் ரஷ்யா தனது தாக்குதல்களை நடத்தியது.
+🟩
 
-ரஷ்யாவின் தொடர் தாக்குதல்களால் உக்ரைனில் உயிர் மற்றும் உடைமை இழப்புகள் தொடர்ந்து அதிகரித்தன. ஆரம்பத்தில் புடினின் படைகள் ஆக்ரோஷமாக இருந்தன. பின்னர் ஜெலன்ஸ்கியின் இராணுவமும் மேற்கத்திய ஆயுதங்களின் உதவியுடன் எதிர் தாக்குதல்களை நடத்தி ரஷ்யாவை அதிர வைத்தது.
+Emergency has been declared in the region as Ukrainian soldiers are entering the Russian border region, Coorks.
 
-இந்த சூழலில் ரஷ்யாவின் எல்லைப் பிராந்தியமான கூர்க்ஸுக்குள் பீரங்கிகள் மற்றும் கவச வாகனங்களுடன் சுமார் 1,000 உக்ரைன் படையினர் சமீபத்தில் நுழைந்ததாக கூறப்படுகின்ற நிலையில், உக்ரைன் படையினர் அங்கு 4 நாட்களாக தாக்குதல் நடத்தி வருகின்றனர். இதன் காரணமாக அப்பகுதியில் இருந்த மக்கள் பாதுகாப்பான இடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளனர். மேலும், அந்த பிராந்தியத்தில் அவசர நிலை அறிவிக்கப்பட்டுள்ளது.
+The war between Ukraine and Russia has been going on for almost 3 years. On February 24, 2022, Russia carried out its attacks in the name of special military operations.
+
+Life and possession of Ukraine continued to increase in Ukraine by a series of attacks on Russia. Initially Putin's forces were aggressive. Gelanciesi's army then carried out opposition attacks with the help of Western weapons and shocked Russia.
+
+In this context, about 1,000 Ukrainian soldiers have recently entered with artillery and armored vehicles into the Russian border region, and Ukrainian soldiers have been attacking there for four days.. Because of this, people in the area have been sent to a safe place. Also, the state of emergency has been declared in the region.
 
 ...
 
 [Data](articles/9b3cf45f.json)
+
+[Extended Data](ext_articles/9b3cf45f.ext.json)
+
+---
+
+### ශ්‍රී ලංකා මහජන පක්ෂයේ සහයත් රනිල්ට
+
+*2024-08-10 11:21:01* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-මහජන-පක්ෂයේ-සහයත්-රනිල්ට/11-411286) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට ශ්‍රී ලංකා මහජන පක්ෂය තීරණය කර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී අසංක නවරත්න මහතා විසින් අද(10දා) ඒ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/57c35161.json)
 
 ---
 
@@ -79,6 +105,8 @@ According to the United Nations, 477 out of 564 schools in Gaza have been direct
 ...
 
 [Data](articles/3ba3d0dd.json)
+
+[Extended Data](ext_articles/3ba3d0dd.ext.json)
 
 ---
 
@@ -2201,23 +2229,5 @@ The above Bill was presented to Parliament on May 22, 2024, and was passed with 
 [Data](articles/c422c199.json)
 
 [Extended Data](ext_articles/c422c199.ext.json)
-
----
-
-### Sri Lanka invites Egyptian business community to explore trade and investment opportunities
-
-*2024-08-09 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101113/sri-lanka-invites-egyptian-business-community-to-explore-trade-and-investment-opportunities-) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry has held discussions with the Egyptian business community on ways of unleashing untapped potential to expand trade and investment between Sri Lanka and Egypt, particularly in sectors including agriculture, apparel, ICT, renewable energy and tourism.
-
-The event which was organised by the Cairo Chamber of Commerce in coordination with the Federation of Egyptian Chambers of Commerce, on enhancing trade and economic cooperation between the two countries, was attended by Foreign Minister Sabry during his official visit to Egypt.
-
-The event had the partition of the President of the General Federation of Egyptian Chambers of Commerce (FEDCOC), the Assistant Foreign Minister for Asian Affairs, the Chairman of the Cairo Chamber of Commerce and high-level representatives of the FEDCOC and the Cairo Chamber, Minister Sabry said.
-
-...
-
-[Data](articles/2c49c3a5.json)
-
-[Extended Data](ext_articles/2c49c3a5.ext.json)
 
 ---

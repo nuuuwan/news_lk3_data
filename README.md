@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 21:36:30**
+As of **2024-08-10 21:56:05**
 
 ## Newspaper Stats
 
-*Scraped **40,022** Articles*
+*Scraped **40,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 4,656
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
 virakesarilk | 6,347
-adaderanasinhalalk | 6,797
+adaderanasinhalalk | 6,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,022 (100.0%) of 40,022 articles have been extended.
+40,022 (100.0%) of 40,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### මාලිමාවේ මැතිවරණ ප්‍රකාශනය 26 එළියට
+
+*2024-08-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199795) · `si`
+
+ජාතික ජන බලවේගයේ මැතිවරණ ප්‍රකාශනය එළඹෙන 26 වනදා එළිදක්වන බව එහි නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+අද (10) පස්වරුවේ ඇඹිලිපිටියේ පැවති ජන රැලියකදී ඔහු ඒ බව සඳහන් කළේය.
+
+පුනරුදයට රටම එකට යන මැයෙන් ජාතික ජනබලවේගයේ ජන රැලියක් අද පස්වරුවේ මෙලෙස ඇඹිලිපිටියේදී පැවැත්වුණේ එහි නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙනි.
+
+◼️
+
+[Data](articles/44f20d1a.json)
+
+---
+
+### සර්වජන බලයේ 2 වැනි කෙටුම්පත එළිදක්වයි
+
+*2024-08-10 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199794) · `si`
+
+සර්වජන බලයේ 2 වැනි කෙටුම්පත විද්වත් සංවාදයට ගැනීම අද (10) පස්වරුවේ කුරුණෑගල කතරගම දේවාලය අසල වැව් තාවුල්ලේදී සිදුකෙරුණි.
+
+එම අවස්ථාවට සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා සහ එම දේශපාලන එකමුතුවේ පක්ෂ නායකයින් ඇතුළු පිරිසක් එක්වුණි.
+
+මෙහිදී අදහස් දැක්වූ මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පැවසුවේ, කිසිඳු අපේක්ෂකයකු ඉදිරිපත් නොකළ තාර්කික හා ප්‍රායෝගික වැඩපිළිවෙළක් සර්වජන බලය ඉදිරිපත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/4a8d40d9.json)
+
+---
 
 ### Bangladesh again north
 
@@ -2209,45 +2241,5 @@ The petitions were heard by a three-judge bench comprising Justices Vijith Malal
 [Data](articles/b3c406a9.json)
 
 [Extended Data](ext_articles/b3c406a9.ext.json)
-
----
-
-### AKD pledges to introduce legislation to stop political crossovers
-
-*2024-08-10 02:20:52* · [`dailyftlk`](https://www.ft.lk/news/AKD-pledges-to-introduce-legislation-to-stop-political-crossovers/56-765355) · `en`
-
-NPP Presidential Candidate Anura Kumara Dissanayake calls for an end to the practice of political crossovers
-
-Criticises frequent party-switching in SL politics, describing it as a blight on political landscape
-
-Says legislation introduced under a future NPP Govt. will unseat MPs who attempt to switch parties
-
-National People’s Power (NPP) leader and Presidential candidate Anura Kumara Dissanayake has called for an end to the practice of political crossovers.
-
-Speaking at a meeting in Malwana on Thursday, Dissanayake criticised the frequent party-switching in Sri Lankan politics, describing it as a blight on the political landscape. “In the afternoon, they belong to one party, by nightfall they’re with another, and by morning they’ve joined yet another group,” he remarked.
-
-Dissanayake vowed that these would be the final days where such crossovers are permitted, promising that an NPP Government would enact laws to unseat MPs who attempt to switch parties.
-
-...
-
-[Data](articles/23990b54.json)
-
-[Extended Data](ext_articles/23990b54.ext.json)
-
----
-
-### Ambewela delivers unmatched premium quality dairy products with latest technology and innovation
-
-*2024-08-10 01:31:00* · [`islandlk`](http://island.lk/ambewela-delivers-unmatched-premium-quality-dairy-products-with-latest-technology-and-innovation/) · `en`
-
-dairy products – manufactured by Lanka Milk Foods (CWE) PLC – is a household name synonymous with freshness and quality. Originating from Sri Lanka’s lushest highland pastures, each Ambewela product is the result of a meticulous process that ensures the highest quality dairy delights, from farm to family. The product range, which includes fresh milk, cheese, and yoghurt, consistently offers superior value and quality, making it one of Sri Lanka’s most beloved brands.
-
-In order to meet the most stringent modern standards, Ambewela Dairy Farms follow internationally-certified processes, where milk is rapidly cooled, stored, transported, and packed to maintain freshness. The entire process from milking to packing is swift and continuously monitored for quality. Any batch showing even minor deviations in lab results is rejected to ensure only the freshest, safest, and most nutritious products reach consumers.
-
-...
-
-[Data](articles/f34d99de.json)
-
-[Extended Data](ext_articles/f34d99de.ext.json)
 
 ---

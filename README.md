@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 22:09:51**
+As of **2024-08-10 22:21:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,024 (100.0%) of 40,025 articles have been extended.
+40,025 (100.0%) of 40,025 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -183,6 +183,8 @@ Meanwhile, it is reported that the suspect arrested with the firearms, ammunitio
 ◼️
 
 [Data](articles/6ed1cc3c.json)
+
+[Extended Data](ext_articles/6ed1cc3c.ext.json)
 
 ---
 

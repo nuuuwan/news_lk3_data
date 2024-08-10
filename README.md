@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 13:06:07**
+As of **2024-08-10 13:20:45**
 
 ## Newspaper Stats
 
-*Scraped **39,972** Articles*
+*Scraped **39,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,649
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,043
 virakesarilk | 6,337
-adaderanasinhalalk | 6,781
+adaderanasinhalalk | 6,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,972 (100.0%) of 39,972 articles have been extended.
+39,972 (100.0%) of 39,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### බ්‍රසීලයේ බිහිසුණු ගුවන් අනතුර සිදුවූ අයුරු
+
+*2024-08-10 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199775) · `si`
+
+පුද්ගලයන් 61 දෙනෙකුට දිවි අහිමි කරමින් බ්‍රසීලයේදී අනතුරට ලක් වූ ගුවන් යානය මඟහැරුණු මගීන් දෙදෙනෙකුගේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම වාර්තාවන්ට අනුව එක් අයෙකු ගුවන් යානයට ගොඩවීමට බලා සිටියද, ඔහුට කැඳවීමක් ලැබී නොමැත. ඒ සම්බන්ධයෙන් ඔහු ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කර ඇති බවද සඳහන් ය.
+
+"මම ගොඩාක් වෙලා බලන් සිටියත් මට කැඳවීමක් ලැබුණේ නැහැ. මම ඒ ගැන විමසූවිට යානයට මගීන් නංවාගැනීම අවසන් බව මට පැවසුවා.  මම ඒ ගැන ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කළා. මම එක් අයෙක්ව තල්ලු කළා. අනතුර ගැන දැනගත්තාට පස්සේ මගේ කකුල් වෙව්ලන්න ගත්තා. මට ඒ ගැන කියන්න වචන නැහැ" යනුවෙන් ඔහු පැවසීය.
+
+යානය කඩා වැටීමට පෙර එය වට කිහිපයක් උඩු ගුවනේ කැරකී යන අයුරු විඩියෝ දර්ශන අනුව පෙනී ගියත්, අනතුරට හේතුව මෙතෙක් අනාවරණ වී නොමැත.
+
+එමෙන්ම යානය කඩා වැටීමට පෙර දිනයේදී යානයේ තත්ත්වය පරීක්ෂා කර ඇති අතර ඉන් කිසිදු තාක්ෂණික දෝෂයක් පිළිබඳව අනාවරණ වී නොමැති බව සඳහන් ය.
+
+යානය අනතුරට ලක්වන අවස්ථාවට පෙර හදිසි තත්ත්වයක් පිළිබඳව හෝ දැනුම්දීමක් ද නොලැබුණු බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+...
+
+[Data](articles/7ea4d884.json)
+
+---
 
 ### Kandy Esala Perahera to take to the streets tonight
 
@@ -2219,27 +2241,5 @@ The said Bill was presented to Parliament on May 22, 2024, and it was passed wit
 [Data](articles/82145098.json)
 
 [Extended Data](ext_articles/82145098.ext.json)
-
----
-
-### I am not supporting Anura: Sajith's leadership flaw is the reason I resign - Fonseka
-
-*2024-08-09 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190681) · `ta`
-
-Sarath Fonseka resigned due to Sajith Premadasa's leadership issues, citing inability to support Anura Kumara Dissanayake as a reason. He criticizes the political culture and mentions fugitives now running for office.
-
-🟩
-
-Independent presidential candidate Sarath Fonseka said the main reason for Sajith Premadasa's leadership disorders was the main cause of the United States.
-
-He also said that I would not have been controlled to contest the election if he supported the presidential candidate of the National People's Power, Anura Kumara Dissanayake.
-
-Meanwhile, Sarath Fonseka said that the country could not improve if the fraudulent political culture would not be eliminated and that Sarath Fonseka said that those who fled the country are the candidates today.
-
-◼️
-
-[Data](articles/9c6fba81.json)
-
-[Extended Data](ext_articles/9c6fba81.ext.json)
 
 ---

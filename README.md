@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 19:36:30**
+As of **2024-08-10 19:54:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,012 (100.0%) of 40,013 articles have been extended.
+40,013 (100.0%) of 40,013 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,29 @@ He made these remarks during a special meeting of the “Forum of Former Local G
 
 ---
 
-### විජයමුණි - වඩිවේල් සහ විමලවීර රනිල් දිනනවාට කැමැත්තෙන්
+### Vijayamuni - Vadiwale and Wimalaweera is willing to win Ranil
 
 *2024-08-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199791) · `si`
 
-සමගි ජන බලවේගයෙන් ගම්පහ දිස්ත්‍රික්කය සඳහා තරග කළ, හිටපු අමාත්‍ය විජිත් විජයමුණි සොයිසා මහතා ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව බිබිල නගරයේ පැවති ජන හමුවකදී ප්‍රකාශ කළේය.
+Vijayamuni Soyza supports Ranil Wickremesinghe for the presidency, as does MP Wimalaweera, expressing hope for Wickremesinghe's victory due to his economic policies and leadership qualities.
 
-එමෙන්ම හැටන් ප්‍රදේශයේ පැවති ජන රැළියකදී ලංකා ජාතික එක්සත් පෙරමුණේ මහලේකම්, පාර්ලිමේන්තු මන්ත්‍රී වඩිවේල් සුරේෂ් මහතා ද ප්‍රකාශ කළේ ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බවය.
+🟩
 
-මේ අතර ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතා ජයග්‍රහණය කරනවා දැකීම තම පුද්ගලික සතුට බව පාර්ලිමේන්තු මන්ත්‍රි විමලවීර දිසානායක මහතා පැවසීය.
+Former Minister Vijith Wijayamuni Soyza, who contested for the Gampaha District with the Gampaha District, has been supporting President Ranil Wickremesinga in the next presidential election.
 
-මන්ත්‍රීවරයා ඒ බව පැවසුවේ පොදුජන පෙරමුණෙ පළාත් පාලන නියෝජිතයින් සමග අම්පාරේ පැවති සාකච්ඡාවකදීය.
+A rally in Hatton was also stated that he would support Ranil Wickremesinghe in the next presidential election.
 
-එහිදී මන්ත්‍රීවරයා වැඩිදුරටත් පවසා සිටියේ මෙවර ජනාධිපතිවරණයේදී පොදුජන පෙරමුණට ජයග්‍රහණය කිරීමට නොහැකි බවය.
+Meanwhile, MP Wimalaweera said he was the personal pleasure to see Ranil Wickremesinghe in the next presidential election.
+
+He was speaking at a meeting with local government representatives in Ampara with local government representatives.
+
+The MP further said that this time the CABIA could not win in the Presidential election.
 
 ...
 
 [Data](articles/2ae6298b.json)
+
+[Extended Data](ext_articles/2ae6298b.ext.json)
 
 ---
 

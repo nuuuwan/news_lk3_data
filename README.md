@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 20:55:21**
+As of **2024-08-10 21:06:09**
 
 ## Newspaper Stats
 
-*Scraped **40,018** Articles*
+*Scraped **40,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,671
+adalk | 3,672
 adaderanalk | 4,656
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,016 (100.0%) of 40,018 articles have been extended.
+40,018 (100.0%) of 40,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
 
-### බංග්ලාදේශය යළිත් නොසන්සුන්
+### Bangladesh again north
 
 *2024-08-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199793) · `si`
 
-සති කිහිපයක සිට බංග්ලාදේශයේ පැවති නොසන්සුන් තත්ත්වය පහව ගොස් ඇතැයි පෙනී ගියත් අද (10) ශිෂ්‍ය ක්‍රියාකාරීන් ප්‍රමුඛ කරගත විරෝධතාකරුවන් එරට ශ්‍රේෂ්ඨාධිකරණය වටලා විරෝධතාවේ නිරත වී තිබුණි.
+In Bangladesh, recent protests led to the Chief Justice's resignation under protester pressure. The Supreme Court criticized the lack of human rights investigations. Indian media linked the Chief Justice to PM Sheikh Hasina and reported she sought asylum in England, which her son denied. Meanwhile, protests continue, with students expressing dissent through art and activism.
 
-ඒ අනුව, එරට අගවිනිසුරුවරයා අද (10) සිය ධුරයෙන් ඉල්ලා අස්වීමට පියවර ගත්තේ, පැයක් ඇතුළත අගවිනිසුරු ඇතුළු සියලු විනිසුරුවරුන් ධුරවලින් ඉල්ලා අස්විය යුතු බවට විරෝධතාකරුවන්ගෙන් එල්ල වූ දැඩි පීඩනය හමුවේය.
+🟩
 
-ඔවුන් විරෝධතා ආරම්භ කළේ අන්තර්වාර රජයේ අනුදැනුමකින් තොරව අගවිනිසුරුවරයා පූර්ණ අධිකරණ හමුවක් කැඳවූ බවට සැලවීමත් සමග බව සඳහන් ය.
+Those who have seen that the unrest in Bangladesh has passed since several weeks, the protesters who are prominent today (10) were raised by the Supreme Court of the country.
 
-"මෙම අධිකරණය මානව හිමිකම් කඩ කිරීමේ අවසන් සීමාව දක්වාම ගමන් කළා. නමුත් ඔවුන් කිසිදු විමර්ශනයක් හෝ යුක්තිය ඉටු කිරීමක් සිදුකළේ නැහැ. අපේ ඉල්ලීම අගවිනිසුරු ඇතුළු සියලුම විනිසුරුවරුන් ඉල්ලා අස්විය යුතු බවයි."
+Accordingly, the Chief Justice of the country took steps to resign from his post today (10) in the face of the stress of protesters to resign from the posts of Chief Justice.
 
-මෙවන් පසුබිමක ශ්‍රේෂ්ඨාධිකරණ වැටලූ විරෝධතාකරුවන්ගෙන් එල්ලවූ පීඩනය හමුවේ ධුරයෙන් ඉල්ලා අස්වීමට බංග්ලාදේශ අගවිනිසුරු ඔබයිදුල් හසාන් අද පියවර ගත්තේය.
+They found that the Chief Justice was called by the Chief Justice without the knowledge of interim government.
 
-ඉන්දිය මාධ්‍ය වාර්තා කළේ, ඔහු බංග්ලාදේශ හිටපු අගමැතිනි ෂෙයික් හසීනාගේ සමීපතමයෙකු බවය.
+"This Court traveled to the final limit of human rights. But they did not carry out any investigation or justice. Our request should resign as Chief Justice and all judges. "
+
+The Chief Justice of Bangladesh took action to resign from the pressure from the Supreme Court protesters in this context.
+
+Indian media reported that he was a close associate of Bangladesh Prime Minister Sheikh Haseani.
+
+Meanwhile, Indian media reports that former Prime Minister Sheikh Hasena had previously requested the Asylum seeking England, Indian media reports.
 
 ...
 
 [Data](articles/4683c4e4.json)
+
+[Extended Data](ext_articles/4683c4e4.ext.json)
 
 ---
 
@@ -113,6 +121,18 @@ Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunitio
 [Data](articles/56822686.json)
 
 [Extended Data](ext_articles/56822686.ext.json)
+
+---
+
+### අප්පච්චි මලෝ කිව්ව විජයමුණි රනිල්ගේ සහයට එයි
+
+*2024-08-10 19:30:22* · [`adalk`](https://www.ada.lk/breaking_news/අප්පච්චි-මලෝ-කිව්ව-විජයමුණි-රනිල්ගේ-සහයට-එයි/11-411294) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී විජිත් විජයමුණි සොයිසා මහතා ඉදිරි ජනාධිපතිවරණයේදී වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/59dec649.json)
 
 ---
 
@@ -246,15 +266,21 @@ Over the past year, there have been over 550 combatants throughout Pakistan.
 
 ---
 
-### නාමල් සහ සුමන්තිරන් අතර හදීසි හමුවක්
+### Hadyan meets Namal and Sumanthiran
 
 *2024-08-10 17:30:37* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-සහ-සුමන්තිරන්-අතර-හදීසි-හමුවක්/11-411292) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා සහ දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රි එම්.ඒ සුමන්තිරන් මහතා අතර සාකච්ඡාවක් අද(10දා) පවත්වා තිබේ.
+Today, a meeting took place between Sri Lanka's presidential candidate MP Namal Rajapaksa and TNA MP MA Sumanthiran, focusing on political discussions.
+
+🟩
+
+A discussion was held today (10) a meeting between the presidential candidate MP Namal Rajapaksa and the TNA MP MA Sumanthiran.
 
 ◼️
 
 [Data](articles/9b772870.json)
+
+[Extended Data](ext_articles/9b772870.ext.json)
 
 ---
 
@@ -2195,23 +2221,5 @@ The workshops, held in Colombo and Kaluthara districts, focused on enhancing fin
 [Data](articles/b6525324.json)
 
 [Extended Data](ext_articles/b6525324.ext.json)
-
----
-
-### Weighed down by uncertainties, bourse continues on its lacklustre amble
-
-*2024-08-10 01:01:00* · [`islandlk`](http://island.lk/weighed-down-by-uncertainties-bourse-continues-on-its-lacklustre-amble/) · `en`
-
-The stock market continued to be lacklustre yesterday as CSE investors waited for the ongoing political uncertainties in the country to clear up.The All Share Price Index went up by 61.7 points, while the S and P SL20 rose by 19.72 points. Turnover stood at Rs 403 million minus any crossings.
-
-In the retail market companies that mainly contributed to the turnover were, JKH Rs 43.19 million (240,000 shares traded), unshine Holdings Rs 40 million (666,000 shares traded), Access Engineering Rs 35 million (1.6 million shares traded), ommercial Bank Rs 22.8 million (256,000 shares traded), Sampath Bank Rs 15.6 million (206,000 shares traded), CCS Rs 15.5 million (280,000 shares traded) and Browns Investments Rs 14.7 million (2.8 million shares traded). During the day 17.1 million share volumes changed hands in 6000 transactions.
-
-It is said high net worth and institutional investor participation was noted in Central Finance Company.
-
-...
-
-[Data](articles/d7600e63.json)
-
-[Extended Data](ext_articles/d7600e63.ext.json)
 
 ---

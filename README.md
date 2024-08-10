@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 04:55:03**
+As of **2024-08-11 05:06:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,034 (100.0%) of 40,035 articles have been extended.
+40,035 (100.0%) of 40,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -115,6 +115,8 @@ Palani Thikambaram has said that if possible, I will challenge the President to 
 ...
 
 [Data](articles/51893262.json)
+
+[Extended Data](ext_articles/51893262.ext.json)
 
 ---
 

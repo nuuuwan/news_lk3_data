@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 08:25:12**
+As of **2024-08-10 08:36:30**
 
 ## Newspaper Stats
 
-*Scraped **39,939** Articles*
+*Scraped **39,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,660
-adaderanalk | 4,640
+adalk | 3,661
+adaderanalk | 4,641
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,032
 virakesarilk | 6,333
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,939 (100.0%) of 39,939 articles have been extended.
+39,939 (100.0%) of 39,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-08-10 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101121/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western province and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Northern and Eastern provinces, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7d0115b3.json)
+
+---
 
 ### Another site similar to the Electoral Commission website
 
@@ -1097,6 +1115,20 @@ In a joint statement, the three nations invited Israel and Hamas to restart talk
 [Data](articles/0942be1f.json)
 
 [Extended Data](ext_articles/0942be1f.ext.json)
+
+---
+
+### ඉන්දීය ධීවරයන් 35ක් නාවික හමුදා භාරයට
+
+*2024-08-09 18:38:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ධීවරයන්-35ක්-නාවික-හමුදා-භාරයට/11-411282) · `si`
+
+මෙරට මුහුදු සීමාව තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවරයින් 35 දෙනෙකු වයඹ මුහුදේදී නාවික හමුදාව විසින් සිය භාරයට ගෙන තිබේ.
+
+වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සමග වයඹ  මුහුදේ, කුදිරමලේ තුඩුවට ඔබ්බෙන් වූ මෙරට මුහුදු සීමාවේ සිදුකළ සෝදිසි මෙහෙයුමක දී ඔවුන් මෙලෙස නාවික හමුදාව භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/30691cdc.json)
 
 ---
 
@@ -2249,51 +2281,5 @@ Mobitel, a Sri Lanka-based telecom company that operated the old system had also
 [Data](articles/a9cfc3de.json)
 
 [Extended Data](ext_articles/a9cfc3de.ext.json)
-
----
-
-### Harry removes - take decisions in harmony with
-
-*2024-08-09 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/හරීනුත්-ඉවත්-වෙයි--හෘදසාක්ෂියට-එකඟව-තීන්දු-ගන්න/11-411277) · `si`
-
-Minister Harin Fernando plans to resign after the Supreme Court's verdict, emphasizing the importance of making decisions in harmony with one's conscience rather than focusing solely on personal goals.
-
-🟩
-
-Minister Harin Fernando has also taken steps to resign from Minister Harin Fernando with the verdict given by the Supreme Court.
-
-Take decisions in harmony with their conscience. If you think that they are doing what they are doing, do not think about their narrow goals.
-
-◼️
-
-[Data](articles/cbda78a3.json)
-
-[Extended Data](ext_articles/cbda78a3.ext.json)
-
----
-
-### Mother will return after the election is announced: son
-
-*2024-08-09 13:35:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அறிவித்த-பிறகு-அம்மா-திரும்புவார்-மகன்/175-341859) · `ta`
-
-After the Bangladeshi PM's resignation and temporary asylum in India, her son expects her return once elections are held under an interim government led by economist Mohammed Yunus. Amidst unrest fueled by alleged Pakistani interference, the military assumes control, dissolving parliament and setting a three-month timeline for elections.
-
-🟩
-
-Sheikh Hasina's son Sajeed Vasad Joy has said that Pakistan intelligence is provoking unrest in the country of Bengal.
-
-Students' struggle against reservation in Bangladesh turned violently. Prime Minister Sheikh Hasina resigned from his post and left the country.
-
-He is temporarily asylum in India and is expected to go to another country. Following the resignation of the Prime Minister, the army took over the power of Bangladesh.
-
-Army Commander Wacker Us Zaman has announced that an interim government will be set up in the country until the election is held and the new regime is held.. Subsequently, President Mohammed Sahabuddin ordered the dissolution of Parliament.
-
-According to the law, the election is expected to take place within the next 3 months in Bangladesh. The Nobel laureate economist Mohammed Yunus was declared the head of the interim government.
-
-...
-
-[Data](articles/c557b9eb.json)
-
-[Extended Data](ext_articles/c557b9eb.ext.json)
 
 ---

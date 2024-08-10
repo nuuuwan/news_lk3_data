@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 22:21:26**
+As of **2024-08-10 22:36:19**
 
 ## Newspaper Stats
 
-*Scraped **40,025** Articles*
+*Scraped **40,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
 adalk | 3,672
-adaderanalk | 4,657
+adaderanalk | 4,659
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,054
 virakesarilk | 6,347
-adaderanasinhalalk | 6,799
+adaderanasinhalalk | 6,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,025 (100.0%) of 40,025 articles have been extended.
+40,025 (100.0%) of 40,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### Sri Lanka reaches more than half of 2024 tourist arrivals target
+
+*2024-08-10 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101139/sri-lanka-reaches-more-than-half-of-2024-tourist-arrivals-target) · `en`
+
+Sri Lanka has welcomed 26,889 tourists in the first four days of the month of August, according to the latest data issued by the Sri Lanka Tourism Development Authority (SLTDA).
+
+Indians have topped the list, with 3,922 tourist arrivals recorded within the first four days of August, making up 14.6% of the total arrivals.
+
+The United Kingdom claimed the second spot with a record of 3,350 tourist arrivals, corresponding to 12.5% of the total arrivals from August 01 to 04.
+
+A Significant number of tourist arrivals have also been reported from China, France, Germany, Italy and the Netherlands.
+
+From January 01 to August 04, Sri Lanka welcomed a total of 1,224,948 tourists, already reaching the halfway point of the country’s tourism sector target of 2.3 million tourist visits this year.
+
+◼️
+
+[Data](articles/87da69ea.json)
+
+---
+
+### මෙරට අලි පිළිබඳ සමීක්ෂණයක්
+
+*2024-08-10 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199796) · `si`
+
+දීප ව්‍යාප්ත අලි ගහන සමීක්ෂණක් සිදුකිරීමට සැලසුම් කර ඇති බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+
+එළඹෙන 17 වනදා සිට දින තුනක් පුරා සමීක්ෂණ මධ්‍යස්ථාන 3,130කදී එම සමීක්ෂණය සිදුකිරීමට නියමිත බව සඳහන්ය.
+
+සමීක්ෂණයේ දත්ත රැස්කිරීම වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ කාර්යමණ්ඩලය සිදුකිරීමට නියමිත අතර ඒ සඳහා වෙනත් රාජ්‍ය ආයතන නිලධාරීන්, ආරක්ෂක හමුදා සාමාජිකයින් ඇතුලු පිරිස් එක් කරගැනීමට බලාපොරොත්තු වන බව එම දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එම්. ජී. සී. සුරියබණ්ඩාර මහතා පැවසීය.
+
+ලබා ගන්නා දත්ත මත මෙරට අලි ගහනයේ ඉදිරි පැවැත්ම පුරෝකථනය කිරීම, අලි මිනිස් ගැටුම් මැඩලීම සඳහා උපාය මාර්ගික සැලසුම් පිළියෙල කිරීම යනාදී පියවරයන් ගැනීමට නියමිත බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එම්.ජී.සී සුරියබණ්ඩාර මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6e9ff7ab.json)
+
+---
+
+### Sri Lanka’s official poverty line rises threefold within a decade - Report
+
+*2024-08-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101138/sri-lankas-official-poverty-line-rises-threefold-within-a-decade-report) · `en`
+
+Sri Lanka’s official poverty line has witnessed a sharp threefold rise within the span of just over a decade, a recent report by the Department of Census and Statistics revealed.
+
+The relevant report revealed that the poverty line has risen from Rs 5,223 in 2012 and 2013 to a whopping Rs 17,014 by January this year.
+
+In 2016 the Poverty Line increased to Rs 6,117 from the Rs 5,223 recorded in 2013. Later, the poverty line increased to Rs 6,966 in 2019.
+
+However, with the economic crisis in 2022 wreaking economic and social havoc, inflation skyrocketed pushing the poverty line to a twofold increase, reaching Rs 15,970, as per the report.
+
+According to the report, Colombo reported the highest poverty line, ranking with Rs 17608 in May, dropping from Rs 18350 in January.
+
+The Colombo district claimed the top spot in the district-wise comparison of the poverty lines, with a poverty line of Rs 17,608 being recorded in May this year down from a staggering Rs 18,350 recorded earlier in January.
+
+...
+
+[Data](articles/5ad8747c.json)
+
+---
 
 ### The electorate's election manifesto 26
 
@@ -2197,63 +2257,5 @@ The President and Executive Committee of the Sri Lanka – Greater Mekong Busine
 [Data](articles/d6c9fe4f.json)
 
 [Extended Data](ext_articles/d6c9fe4f.ext.json)
-
----
-
-### Macktiles Lanka opens 36th showroom in Wattala
-
-*2024-08-10 02:36:09* · [`dailyftlk`](https://www.ft.lk/business/Macktiles-Lanka-opens-36th-showroom-in-Wattala/34-765369) · `en`
-
-Macksons Holdings Chairman Milfer Makeen (right) and Franchise Owner, Yohan Wickramasinghe (left) ceremonially opening the 36th showroom in Wattala
-
-Macktiles Lanka, a leading name in high-quality tiles since 2014, proudly announces the opening of its 36th showroom at 396, Negombo Road, Wattala.
-
-This new showroom marks another milestone in the company’s expansion and innovation journey, in partnership with Multilac.
-
-Residents in the locality can now access the exceptional range of Macktiles products along with lead-safe Multilac paints.
-
-The grand opening was held on 1 August and was attended by distinguished guests, including Macksons Holdings Chairman Milfer Makeen, who served as the Chief Guest. Other notable attendees included Head of Finance Aaqil Farhaz, Macktiles General Manager Niroshan Pananwala, Multilac General Manager Mihiran Opatha, Mans Lanka General Manager Ranjan Liyanage, Franchisee Yohan Wickramasinghe, and other dignitaries.
-
-...
-
-[Data](articles/10ef9519.json)
-
-[Extended Data](ext_articles/10ef9519.ext.json)
-
----
-
-### Ubion and KOICA conduct Career Guidance Policy Workshop with key stakeholders of TVET Career Platform Project
-
-*2024-08-10 02:35:29* · [`dailyftlk`](https://www.ft.lk/business/Ubion-and-KOICA-conduct-Career-Guidance-Policy-Workshop-with-key-stakeholders-of-TVET-Career-Platform-Project/34-765368) · `en`
-
-Ubion, a Korean EdTech company, along with the Korea International Cooperation Agency (KOICA), in partnership with Sri Lanka’s Tertiary and Vocational Education Commission (TVEC), recently hosted the Career Guidance Policy Workshop at the Monarch Imperial Hotel on 16 July.
-
-The exclusive event hosted key stakeholders from the Education Ministry to discuss and review the recent implementation of the TVET Career Platform Project. This project aims to strengthen the capacity and expertise of CGOs in Sri Lanka to meet international best practices.
-
-The exclusive event was graced by the presence of Education Ministry Secretary J.M. Thilaka Jayasundara, Education Ministry Additional Secretary M. Samanthi Senanayake, Education Ministry Vocational Training Director Dimuthu Chandrasiri, and a plethora of other esteemed representatives from KOICA, TVEC, DTET, NYSC, NAITA, VTA, UCR, OCUSL, DOMP, ILO, NIE, and Ubion.
-
-...
-
-[Data](articles/9e3ad0db.json)
-
-[Extended Data](ext_articles/9e3ad0db.ext.json)
-
----
-
-### People’s Bank offers sponsorship for Kandy Esala Perahera
-
-*2024-08-10 02:34:50* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-offers-sponsorship-for-Kandy-Esala-Perahera/34-765367) · `en`
-
-People’s Bank has yet again come forward to sponsor the historical Kandy Esala Perahera.
-
-The sponsorship cheque of People’s Bank was handed over to Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa by People’s Bank Kandy Regional Manager Nalin Potthewela. Assistant Regional Manager Shameera Kumarapeli, and Kandy Branch Senior Manager Prasanna Karunarathne were also present at the occasion.
-
-Pradeep Nilanga Dela, Diyawadane Nilame of Sri Dalada Maligawa expressed his gratitude to People’s Bank for offering a sponsorship to strengthen this iconic cultural pageant which showcases and preserves invaluable customs and cultural practices.
-
-◼️
-
-[Data](articles/a9a81b24.json)
-
-[Extended Data](ext_articles/a9a81b24.ext.json)
 
 ---

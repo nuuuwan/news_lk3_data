@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 23:56:23**
+As of **2024-08-11 00:08:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,029 (100.0%) of 40,031 articles have been extended.
+40,031 (100.0%) of 40,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,8 @@ It is part of the multi-year Support to Justice Sector Project (JURE), which beg
 ◼️
 
 [Data](articles/f2fa4b9e.json)
+
+[Extended Data](ext_articles/f2fa4b9e.ext.json)
 
 ---
 
@@ -1077,6 +1079,8 @@ Bangladesh central bank Governor resigns after Sri Lanka style unrest amid IMF p
 ...
 
 [Data](articles/474b06d2.json)
+
+[Extended Data](ext_articles/474b06d2.ext.json)
 
 ---
 

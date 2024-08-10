@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 11:36:23**
+As of **2024-08-10 11:56:00**
 
 ## Newspaper Stats
 
-*Scraped **39,962** Articles*
+*Scraped **39,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ colombotelegraphcom | 376
 islandlk | 2,303
 economynextcom | 2,422
 dailyftlk | 2,581
-adalk | 3,663
+adalk | 3,664
 adaderanalk | 4,648
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,038
-virakesarilk | 6,336
+tamilmirrorlk | 5,040
+virakesarilk | 6,337
 adaderanasinhalalk | 6,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,961 (100.0%) of 39,962 articles have been extended.
+39,961 (100.0%) of 39,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-10 (Saturday)
+
+### யார்யாருக்கோ அரசாங்கங்களை அமைத்தது போதும்; சமந்த வித்யாரத்ன
+
+*2024-08-10 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யார்யாருக்கோ-அரசாங்கங்களை-அமைத்தது-போதும்-சமந்த-வித்யாரத்ன/175-341903) · `ta`
+
+யார்யாருக்கோ அரசாங்கங்களை அமைத்தது போதும். இப்போது பொதுமக்களுக்கான அரசாங்கத்தை அமைத்திடவேண்டும் என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சமந்த வித்யாரத்ன தெரிவித்தார்.
+
+76 வருடகாலமாக துன்பங்களை அனுபவித்து நாடு எதிர்பார்க்கின்ற வெற்றியை பெற்றுக்கொள்வதற்காக நாமனைவரும் எதிர்காலத்தில் வெற்றிகரமாக உழைப்போமென முதலில் கேட்டுக்கொள்கிறேன். இந்த ஜனாதிபதி தேர்தலைத் தடுக்க ரணில், ராஜபக்ஷாக்கள் அமைத்த பாதுகாப்பு வளையங்கள் அனைத்தையும் தகர்த்தெறிந்து செப்டெம்பர் 21 ஆந் திகதி பொதுமக்களின் உண்மையான ஆட்சியை அமைக்கப்போகிறோம். இதுவரை யார்யாருக்கோ அரசாங்கங்களை அமைத்துக்கொடுத்தது போதும். இப்போது பொதுமக்களுக்காக அரசாங்கமொன்றை அமைத்துக்கொள்ள வேண்டும். அந்த வெற்றிக்குப் பின்னர் மக்கள்  பங்கேற்புடனான அபிவிருத்திக்கான பிள்ளையார் சுழி போடப்படுகின்றது. இந்த நாட்டை நாசமாக்கிய கட்சிகளைப்போன்றே தலைவர்களும் துண்டுதுண்டாகப் பிரிந்து கதிகலங்கிப் போயிருக்கிறார்கள்.
+
+...
+
+[Data](articles/d991cb15.json)
+
+---
+
+### ரஷ்யாவின் கூர்க்ஸுக்குள்  அவசர நிலை அறிவிப்பு
+
+*2024-08-10 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-கூர்க்ஸுக்குள்-அவசர-நிலை-அறிவிப்பு/50-341902) · `ta`
+
+ரஷ்யாவின் எல்லைப் பிராந்தியமான கூர்க்ஸுக்குள் உக்ரைன் படையினர் நுழைந்து தாக்குதல் நடத்தி வரும் நிலையில், அந்த பிராந்தியத்தில் அவசர நிலை அறிவிக்கப்பட்டுள்ளது.
+
+உக்ரைன் – ரஷ்யா இடையிலான போர் கிட்டதட்ட 3 ஆண்டுகளாக நடைபெற்று வருகிறது. கடந்த 2022அம் ஆண்டு பெப்ரவரி 24ஆம் திகதி சிறப்பு இராணுவ நடவடிக்கை என்ற பெயரில் ரஷ்யா தனது தாக்குதல்களை நடத்தியது.
+
+ரஷ்யாவின் தொடர் தாக்குதல்களால் உக்ரைனில் உயிர் மற்றும் உடைமை இழப்புகள் தொடர்ந்து அதிகரித்தன. ஆரம்பத்தில் புடினின் படைகள் ஆக்ரோஷமாக இருந்தன. பின்னர் ஜெலன்ஸ்கியின் இராணுவமும் மேற்கத்திய ஆயுதங்களின் உதவியுடன் எதிர் தாக்குதல்களை நடத்தி ரஷ்யாவை அதிர வைத்தது.
+
+இந்த சூழலில் ரஷ்யாவின் எல்லைப் பிராந்தியமான கூர்க்ஸுக்குள் பீரங்கிகள் மற்றும் கவச வாகனங்களுடன் சுமார் 1,000 உக்ரைன் படையினர் சமீபத்தில் நுழைந்ததாக கூறப்படுகின்ற நிலையில், உக்ரைன் படையினர் அங்கு 4 நாட்களாக தாக்குதல் நடத்தி வருகின்றனர். இதன் காரணமாக அப்பகுதியில் இருந்த மக்கள் பாதுகாப்பான இடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளனர். மேலும், அந்த பிராந்தியத்தில் அவசர நிலை அறிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/9b3cf45f.json)
+
+---
 
 ### Israeli airstrike on school in Gaza City kills over 60 people, Palestinian health officials say
 
@@ -68,9 +100,25 @@ Further interrogation of the suspect has led to the arrest of a 47-year-old resi
 
 ---
 
+### சீனப் பிரஜைகளை தாக்கிய இரு நேபாள பிரஜைகள் கைது ; வாதுவையில் சம்பவம் !
+
+*2024-08-10 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190723) · `ta`
+
+சீன பிரஜைகள் இருவரை ஹோட்டலொன்றில் வைத்து தாக்கி, அங்குள்ள சொத்துக்களுக்கு சேதம் விளைவித்த இரு நேபாள பிரஜைகளை வாதுவ பொலிஸார் கைதுசெய்துள்ளனர்.
+
+தாக்குதலை மேற்கொண்ட நேபாள நாட்டுப் பிரஜைகள் இருவரும் சீனப் பிரஜைகளுடன் உரையாடிக் கொண்டிருந்ததாகவும் பின்னர் தாக்குதுலை மேற்கொண்டுள்ளதுடன் சொத்துக்களுக்கு சேதமேற்படுத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைதுசெய்யப்பட்ட நேபாள பிரஜைகள் இருவரையும் பாணந்துறை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9e156ae.json)
+
+---
+
 ### Corpse recovery from the Kelani River
 
-*2024-08-10 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190721) · `ta`
+*2024-08-10 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190721) · `ta`
 
 An unidentified man's body was discovered near the Grandpass old market and is now at the Colombo National Hospital's funeral room. The victim, aged 45-50 and standing 5'6", remains unnamed.
 
@@ -87,6 +135,24 @@ The deceased is 5 feet and 6 inches tall and is 45 to 50 years old, police said.
 [Data](articles/f03d5596.json)
 
 [Extended Data](ext_articles/f03d5596.ext.json)
+
+---
+
+### තහනම් උත්තේජක භාවිත කළ බවට ඔප්පු වූ ඇමෙරිකානු ක්‍රීඩකයන්ට දඩුවම් නැත්තේ ඇයි?
+
+*2024-08-10 10:55:16* · [`adalk`](https://www.ada.lk/opinion/තහනම්-උත්තේජක-භාවිත-කළ-බවට-ඔප්පු-වූ-ඇමෙරිකානු-ක්‍රීඩකයන්ට-දඩුවම්-නැත්තේ-ඇයි-/2-411285) · `si`
+
+ප්‍රංශයේ පැරිස් නුවරදී පැවැත්වෙන 2024 ඔලිමිපික් උළෙලේ අවසන් දිනය හෙටට යෙදී තිබේ. ඒ අනුව මේ වනවිට පදක්කම් සටහනේ පෙරමුණ ගැනීම සඳහා චීනය සහ එක්සත් ජනපදය අතර තියුණු කරට කර සටනක් ක්‍රියාත්මක වෙමින් පවතී.
+
+අලුත්ම පදක්කම් සටහනට අනුව එක්සත් ජනපදය රන් පදක්කම් 33ක්ද, රිදී පදක්කම් 39ක් සහ ලෝකඩ පදක්කම් 39ක්ද සමගින් සමස්ත පදක්කම් 111ක් දිනා ගැනීමට සමත්ව තිබේ. එසේම චීනය රන් පදක්කම් 33ක්, රිදී පදක්කම් 27ක් සහ ලෝකඩ පදක්කම් 23ක් දිනා ගනිමින් සමස්ත පදක්කම් සටහනේ දෙවැනි ස්ථානයේ පසුවෙයි.
+
+කෙසේ වෙතත් චීනය මෙවර ඔලිම්පික් උළෙලේ පෙන්නුම කර ඇති මෙම සුවිශේෂී දක්ෂතාවන්ද සමගින්ම සුපුරුදු ලෙස මෙ වනවිට එරට ක්‍රීඩක ක්‍රීඩිකාවන් වෙත තහනම් උත්තේජක භාවිතා කිරිම සම්බන්ධයෙන් වන චෝදනා එල්ල වෙමින් පවතී.
+
+එහෙත් මෙම චෝදනා අසත්‍ය බව ප්‍රකාශ කරන චීන මාධ්‍ය, ඇමෙරිකානු තහනම් උත්තේජක මර්දන නියෝජිතායතනය (USADA) මගින් තහනම් උත්තේජක ලබාගත් බවට චෝදනා එල්ල වී ඇති ක්‍රීඩක ක්‍රීඩිකාවන්ට පවා වසර ගණනක් යනතුරුම තරග වැදීමට අවස්ථාව ලබාදී තිබෙන බවට තොරතුරැ අනාවරණය කර සිටියි.
+
+...
+
+[Data](articles/f824b2be.json)
 
 ---
 
@@ -2153,107 +2219,5 @@ The event had the partition of the President of the General Federation of Egypti
 [Data](articles/2c49c3a5.json)
 
 [Extended Data](ext_articles/2c49c3a5.ext.json)
-
----
-
-### 35 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-08-09 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101114/35-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A total of thirty-five Indian fishermen have been arrested along with 04 Indian dhows while poaching in Sri Lankan waters off Mannar.
-
-The interception was made during a special operation conducted off the Kudiramalei Point in the northwestern seas, south of Mannar on August 08, which was carried out by navy personnel together with the Sri Lanka Coast Guard, the navy said.
-
-The SLN Northwestern Naval Command had spotted a cluster of Indian fishing boats engaging in illegal fishing in Sri Lankan waters.
-
-In response, a Coast Guard ship attached to the Western Naval Command had been dispatched to send away those Indian fishing boats poaching off the Kudiramalei Point in the northwestern seas, south of Mannar.
-
-The four dhows together with thirty-five Indian fishermen were brought to SLNS Vijaya and they will be handed over to the Kalpitiya Fisheries Inspector for onward legal proceedings, the navy said.
-
-...
-
-[Data](articles/64298e07.json)
-
-[Extended Data](ext_articles/64298e07.ext.json)
-
----
-
-### FIU and Registrar General ink MoU to share information on Trusts, property registrations
-
-*2024-08-09 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101112/fiu-and-registrar-general-ink-mou-to-share-information-on-trusts-property-registrations) · `en`
-
-The Financial Intelligence Unit (FIU) of Sri Lanka has entered into a Memorandum of Understanding (MOU) with the Registrar General of the Registrar General’s Department to receive information on Trusts, property registrations and any suspicious activities relating to Trusts and property registrations in relation to Money Laundering (ML), Terrorist Financing (TF) and related crimes.
-
-This MOU has been entered into by the FIU, in terms of the provisions of the Financial Transactions Reporting Act, No. 6 of 2006, the Central Bank of Sri Lanka (CBSL) announced.
-
-...
-
-[Data](articles/afdf0698.json)
-
-[Extended Data](ext_articles/afdf0698.ext.json)
-
----
-
-### The Department of Immigration and the Department of Immigration is beyond the High Court - Champika
-
-*2024-08-09 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190662) · `ta`
-
-The High Court issued an interim injunction against the VFS New Visa Distribution system, with MP Patali Champika Ranawaka urging officials to adhere to national laws. This comes amid concerns over border security and the delegation of immigration responsibilities to a foreign corporation without proper national oversight. Additionally, MPs Sumanthiran and Rauf Hakeem have filed a case against the VSS system, highlighting ongoing legal challenges and governmental oversight issues.
-
-🟩
-
-The High Court issued an interim injunction to the VFS New Visa Distribution.. Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the Controller General should act on the basis of the law of the country as a state official.
-
-He made this statement during a media briefing held at the United States Office in Colombo on Friday (09).
-
-The Ministry of Public Security has caused serious issues to challenge the security of the country's border.
-
-Foreign reserves have increased due to the increase in the arrival of foreign tourists and the increase in employment opportunities.
-
-The responsibility and authority given to the Department of Immigration and Emigration on the country's border has been granted the Cabinet with the permission of the Cabinet since last April.
-
-We have not taken care of the provision of a national border to the foreign corporation of the country.
-
-...
-
-[Data](articles/12e07b8f.json)
-
-[Extended Data](ext_articles/12e07b8f.ext.json)
-
----
-
-### Pakistan's value to Pakistan
-
-*2024-08-09 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199758) · `si`
-
-In the midst of Pakistan's economic struggles, seven athletes are set to compete in the Paris Olympics, including javelin thrower Arshad Nadeem, who achieved a personal best of 92.97 meters, raising national hopes despite no gold medals. This marks a significant achievement for Pakistan, especially after Nadia Khan's historic gold medal in the 2008 Beijing Olympics, the first for Pakistan in Olympic history. Another highlight is the performance of Nayanjot Singh Chaudhary, who, despite being ranked fifth, continues to represent Pakistan with pride.
-
-🟩
-
-Pakistan, suffering from severe economic crisis, has not yet been recovered.
-
-Despite such a situation, seven athletes have the opportunity to represent the Paris Olympics.
-
-A star of many of them was a star that clashed Arshad.
-
-He was able to gain the spelling of the spelling of 92.97 meters from the male event, lifting the expectations of the entire Pakistanis.
-
-This is not a gold medal, and is a gold medal in the Olympics book.
-
-Accordingly, legal reports were talented by the Norwegian style of Norway at the Olympics in 2008.
-
-And the gold medal of Nadim was the first gold medal of a Pakistan in the history and the field of the Olympic history.
-
-This was another gold medal for Pakistanis, who represented the main rival country, India, and the Naraj Choprawa, who represented India.
-
-Nayaraj is the gold medal of the Tokyo Olympics, and he gave a talent at 87.58 meters.
-
-Although Renings qualified for the last 12 years. As a result, he had to be satisfied with the 5th.
-
-...
-
-[Data](articles/307c41e3.json)
-
-[Extended Data](ext_articles/307c41e3.ext.json)
 
 ---

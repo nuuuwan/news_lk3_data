@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-10 14:07:23**
+As of **2024-08-10 14:21:00**
 
 ## Newspaper Stats
 
-*Scraped **39,979** Articles*
+*Scraped **39,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,667
 adaderanalk | 4,652
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,044
-virakesarilk | 6,337
+virakesarilk | 6,342
 adaderanasinhalalk | 6,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-39,975 (100.0%) of 39,979 articles have been extended.
+39,979 (100.0%) of 39,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,63 @@ The arrest has been carried out based on intelligence received by the officers o
 
 [Data](articles/b23c273a.json)
 
+[Extended Data](ext_articles/b23c273a.ext.json)
+
 ---
 
-### වතු සේවකයින්ට රු 1700 ගෙවන්න සමාගම් 7ක් එකඟ වෙයි
+### Seven companies agree to pay Rs 1700 for estate workers
 
 *2024-08-10 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199776) · `si`
 
-වතු සේවකයන් සඳහා රුපියල් 1700ක දෛනික වැටුප ගෙවීමට වතු සමාගම් 7ක් එකගවී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Seven estate companies have agreed to pay Rs 1,700 annually to estate workers, as announced by President Ranil Wickremesinghe during a meeting with the Kandy district estate workers' association and youth leaders. The President, also set to serve as the Minister of Labor, will discuss this further on Monday. If needed, special laws may be introduced to enforce this decision.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ අද (10) මහනුවර දිස්ත්‍රික් වතු කම්කරු සංගම් සහ තරුණ නායක රැස්වීම අමතමිනි.
+🟩
 
-කම්කරු අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් එළඹෙන සඳුදා වැටුප් මණ්ඩලය කැඳවා මේ සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+President Ranil Wickremesinghe said that seven estate companies have agreed to pay Rs 1,700 per year.
 
-එම තීරණය ක්‍රියාත්මක කිරීම සඳහා අවශ්‍ය නම් විශේෂ නීති හඳුන්වා දෙනු ඇති බවද ජනාධිපති මාධ්‍ය අංශය තවදුරටත් සඳහන් කරයි.
+The President was addressing the Kandy district estate workers' association and the youth leaders meeting.
+
+The President will be summoned by the President as the Minister of Labor and discussed this on Monday, the Presidential Media Unit.
+
+The Presidential Media Unit further stated that special laws will be introduced if necessary to implement the decision.
 
 ◼️
 
 [Data](articles/28232044.json)
+
+[Extended Data](ext_articles/28232044.ext.json)
+
+---
+
+### சுமந்திரனை சந்தித்தார் நாமல் !
+
+*2024-08-10 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190738) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ இன்று சனிக்கிழமை (10) தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனைச் சந்தித்தார்.
+
+இந்த சந்திப்பில் நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் நாமல் ராஜபக்ஷ வெற்றி பெற்றால் வடக்கு கிழக்கு மக்கள் எதிர்கொள்ளும் பிரச்சினைகள் மற்றும் மாவட்டங்களின் அபிவிருத்தி குறித்து கலந்துரையாடப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/62a6dde8.json)
+
+---
+
+### திருக்கோணேஸ்வரர் ஆலயத்தின் பல நூறு கோடி மதிப்புள்ள தாலி பட்டப்பகலில் திருட்டு!
+
+*2024-08-10 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190734) · `ta`
+
+பல நூறு வருட காலமாக சோழர் காலம் தொடக்கம் கோணேஸ்வர ஆலயத்தில்  இருந்து  வந்த தாலி போர்த்துக்கேயர் காலத்தில் கோயில் உடைக்கப்பட்ட போது சைவ சமயத்தினாரால்  பல உயிர் தியாகங்கள்  செய்யப்பட்டு  காப்பாற்றப்பட்டு பாதுகாப்பான முறையில் வைக்கப்பட்டிருந்த  நிலையில், கடந்த வாரம் இந்த தாலி பகலில்  திருடு போய் உள்ளது.
+
+இதனை தொடர்ந்து பொது மக்கள் குரலெழுப்ப தொடங்கினர். கோயில் நிர்வாகத்தினர் இவ்விடயத்தை அமைதிப்படுத்தி பொதுமக்களை சமாதானம் செய்ய முயன்றனர்.
+
+பல நூறு கோடி பெறுமதியான இரத்தினங்கள், வைடூரியங்கள் பொதிக்கப்பட்ட 5 சவரண் தாலி  பல பூஜைகள் செய்யப்பட்டு சக்திவாய்ந்ததாக இருந்தது எனவும் இதை எவராலும் ஈடு செய்ய முடியாது எனவும் பொது மக்கள் விசனம் தெரிவித்தனர்.
+
+ஒரு பெண் கழுத்தில் தாலி இறங்குவது என்பது கணவன் இறந்து அவருடைய உடல் செயலிழந்ததன் பின்னரே. அதேபோல் அம்மன் கழுத்தில் இருந்த தாலி திருட்டுபோய் சிவனின் சக்தியை செயலிழக்க செய்யப்பட்ட சதியா? இல்லையெனின் பல கோடி  ரூபாய் மதிப்புள்ள தாலி விற்பனை செய்வதற்காகவா? என பொது மக்கள் மத்தியில் சலசலப்பு  எழுந்துள்ளது.
+
+...
+
+[Data](articles/6e1d8b30.json)
 
 ---
 
@@ -87,6 +127,22 @@ The chief justice of Bangladesh’s top court said Saturday he had agreed to res
 ...
 
 [Data](articles/3380c36b.json)
+
+[Extended Data](ext_articles/3380c36b.ext.json)
+
+---
+
+### 7 கம்பனிகள் 1700 ரூபா சம்பளத்தை வழங்க முன்வந்துள்ளன : திங்களன்று சம்பள நிர்ணயசபை கூடி தீர்மானிக்கும் : ஜனாதிபதி
+
+*2024-08-10 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190740) · `ta`
+
+7 கம்பனிகள் 1700 ரூபா சம்பளத்தை வழங்க முன்வந்துள்ளதாகவும் எதிர்வரும் திங்களன்று சம்பள நிர்ணயசபை கூடி தீர்மானிக்கும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+இதேவேளை, தேவையேற்பட்டால் தீர்மானத்தை அமுல்படுத்த சிறப்பு சட்டங்களையும் அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என்றும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/9873a46f.json)
 
 ---
 
@@ -170,6 +226,24 @@ This is considered the worst aircraft recorded by Brazil after the year 2007.
 
 ---
 
+### நாளை 12 மணிநேர  நீர் வெட்டு
+
+*2024-08-10 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190736) · `ta`
+
+களனி, வத்தளை, பியகம ஆகிய பகுதிகளுக்கு நாளை ஞாயிற்றுக்கிழமை (11) 12 மணித்தியாலங்கள் நீர் வெட்டு அமுல்படுத்தப்படும் என  தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+
+அதன்படி, ஞாயிற்றுக்கிழமை (11) காலை 9:00 முதல் இரவு 9:00 மணிவரை நீர் வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+பேலிகொடை  நகர சபைக்குட்பட்ட பகுதிகள், ஜா எல, கட்டுநாயக்க, சீதுவை, களனி பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகள்,  பியகம, மஹர, தொம்பே, ஜா எல, கட்டான, மினுவாங்கொடை  மற்றும் கம்பஹா பிரதேச செயலகப் பிரிவுகளுக்குட்பட்ட பகுதிகளுக்கு நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர்வழங்கல் அதிகார சபை தெரிவித்துள்ளது.
+
+மின்சார சபையின் அத்தியாவசிய பராமரிப்பு பணிகள் காரணமாக பியகம நீர் சுத்திகரிப்பு நிலையத்திற்கான மின்சாரம் இடைநிறுத்தப்படுவதால் நீர் வெட்டு அமுல்படுத்தபடவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/00f1874e.json)
+
+---
+
 ### Kandy Esala Perahera to take to the streets tonight
 
 *2024-08-10 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101129/kandy-esala-perahera-to-take-to-the-streets-tonight) · `en`
@@ -214,17 +288,23 @@ So again he is said to be more likely to be the coach of the Rajasthan team. Rem
 
 ---
 
-### ශ්‍රී ලංකාවේ දක්ෂ ක්‍රීඩකයන් දෙදෙනෙකුට CPL අහිමි වෙයි
+### Two skilled players in Sri Lanka lose CPL
 
 *2024-08-10 12:07:17* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාවේ-දක්ෂ-ක්‍රීඩකයන්-දෙදෙනෙකුට-CPL-අහිමි-වෙයි/9-411288) · `si`
 
-ශ්‍රී ලංකා දඟ පන්දු යවන ක්‍රීඩක වනිඳු හසරංගට සහ වේග පන්දු යවන ක්‍රීඩක නුවන් තුෂාරට 2024 කැරිබියන් ප්‍රිමියර් ලීග් (CPL) තරගාවලියට ක්‍රීඩා කිරීමට අවස්ථාව අහිමිව තිබේ.
+Two skilled Sri Lankan players will miss the 2024 Caribbean Premier League due to losing out during a recent series against India.
 
-සංචාරක ඉන්දීය කණ්ඩායමත් සමග පසුගියදා පැවති තරගාවලිය අතරතුර ඔවුන් දෙදෙනාට මෙලෙස සී.පී.එල් තරගාවලියට සහභාගී වීම අහිමි වී ඇත.
+🟩
+
+The opportunity to play the opportunity to play the opportunity to play the 2024 Caribbean Premier League (CPL) tournament.
+
+During the recent tournament with the tourist Indian team, the two have lost their participation in the CPL tournament.
 
 ◼️
 
 [Data](articles/cb695fb9.json)
+
+[Extended Data](ext_articles/cb695fb9.ext.json)
 
 ---
 
@@ -295,6 +375,24 @@ CCTV footage of this has caused a stir. The police were asked to report to the S
 [Data](articles/d22ed2bd.json)
 
 [Extended Data](ext_articles/d22ed2bd.ext.json)
+
+---
+
+### 8 நாட்களில் 53,000 சுற்றுலா பயணிகள் வருகை
+
+*2024-08-10 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190730) · `ta`
+
+அதன்படி, ஆகஸ்ட் மாதத்தில் முதலாம் திகதி முதல் 8 ஆம் திகதி  வரை எட்டு நாட்களில் 53,150  வெளிநாட்டு சுற்றுலா பயணிகள் வருகை  தந்துள்ளனர். இந்நிலையில்,  நாட்டிற்கு இதுவரை  1,252,209 சுற்றுலா பயணிகள் வருகை தந்துள்ளனர்.
+
+ஏப்ரல் மாதத்தில் 35,000 பேரும், மே மாதத்தில் 26,000 பேரும், ஜூன் மாதத்தில் 27,000 பேரும், ஜூலை மாதத்தில் 43,000 பேரும் வாராந்திரம் வருகை தந்துள்ள போக்கு வளர்ச்சியடைந்துள்ளது.
+
+ஆகஸ்ட் மாதத்தில் வாராந்திர சராசரி வருகை சராசரியாக 46,000 ஆகவும், நாளாந்த வருகை சராசரியாக 6,600 ஆகவும் உள்ளது.
+
+ஆகஸ்ட் மாதத்தில் கோடை காலம் காரணமாக சுற்றுலாப் பயணிகளின் வருகை அதிகரித்துள்ளது. எவ்வாறாயினும், சுற்றுலா மற்றும் வருகை தரு விசா வழங்குவதில் உள்ள சிக்கல்கள் காரணமாக, எதிர்வரும் வாரங்கள் மற்றும் மாதங்களுக்கு இந்த வேகத்தைத் தக்கவைக்க முடியுமா என்பது கேள்விக்குறியாகவுள்ளது.
+
+◼️
+
+[Data](articles/0ebdc219.json)
 
 ---
 
@@ -2103,137 +2201,5 @@ This training process will upgrade the quality of natural disasters and the prep
 [Data](articles/4b1af059.json)
 
 [Extended Data](ext_articles/4b1af059.ext.json)
-
----
-
-### Dispose of the garbage in the procession season
-
-*2024-08-09 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199761) · `si`
-
-The Central Environmental Authority urges participants of the Kandy Esala Perahera to manage waste effectively, highlighting the daily accumulation of plastic and polythene. It encourages minimal use of such materials and collaborates with local offices to ensure proper waste disposal during the event.
-
-🟩
-
-The Central Environmental Authority (CEA) demands the Perahera of the Perahera to dispose of the garbage at the Kandy Esala Perahera.
-
-The Authority points out that about three tonnes of polythene, about three tons of polythene, and three tons of polythene, about three tons of polythene and plastics a day.
-
-As a result, the Central Environmental Authority requests devotees as the garbage exclusion only to the garbage disposal.
-
-Devotees also remembered as possible to minimize the use of polythene plastics, including plastics.
-
-The Central Provincial Office of the Central Provincial Council, Kandy Provincial Education Department, Kandy District Secretariat, Kandy District Secretariat, the Kandy Municipal Council and Kandy Police are being implemented.
-
-The Kandy Esala Perahera will be held from 10th of this month.
-
-◼️
-
-[Data](articles/9431e299.json)
-
-[Extended Data](ext_articles/9431e299.ext.json)
-
----
-
-### Veerai people - Review
-
-*2024-08-09 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190693) · `ta`
-
-"Veerai Nivil" explores the impact of tradition and modernity on a Tamil family, highlighting conflicts over marriage and property amidst drought. The film showcases the struggle for unity against societal pressures, focusing on the experiences of its members, including actors Marimuthu, Deepa Shankar, and Gerald Milton. Despite the challenges, the narrative emphasizes the importance of family bonds and the efforts to reconcile differences.
-
-🟩
-
-Actors: Work. Ramamurthy is the late actor Marimuthu, Deepa Shankar, Suresh Nanda, Nandana, Rama and many others.
-
-The family of the Indian community and the Tamil community is rooted in the structure of the family. Did the film 'Veerai Nivil', which have been released, emphasize the importance of this organization, attracted fans?Or not?We will continue to see.
-
-A woman who lost her husband as Veerai in a village in Tamil Nadu, raised three sons, Velaramamoorthy- late actor Marimuthu- Gerald Milton, and Deepa Shankar.
-
-He wants to live in unity and without giving up one another. But because the youngest son fell in love and got married, the first section within the family.
-
-Due to the severe drought in their area, the eldest child relocates from there to the city of Tirupur to carry the family burden.
-
-...
-
-[Data](articles/44ca4662.json)
-
-[Extended Data](ext_articles/44ca4662.ext.json)
-
----
-
-### Newcomer Vinod Mohan starrer 'Mayan'
-
-*2024-08-09 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190691) · `ta`
-
-"Vinod Mohan's 'Mayan' announces its release on September 19, featuring newcomers and experienced actors like Bindu Madhavi and Priyanka Mohan. Directed by J. Vinod Mohan, it promises a mix of excitement, spiritual themes, and visually stunning scenes."
-
-🟩
-
-The release date of the film 'Mayan', which plays the hero of the story, has been officially announced.
-
-Director J. Vinod Mohan, Bindu Madhavi, Priyanka Mohan, Pia Bajpai, John Vijay, 'Aadukalam' Narain, Sai Deena, Kanja Black, Raja Simman, Sri Ranjani, Ranjana Nachiyar. K. Many people, including Menon, have acted.
-
-K. Arun Prasad's cinematography. S.. Jones has composed the Rubert. The film, which is being produced by Fantasy Thief Janer, is co -produced by Fox & Crow Studios and GVKM Elephant Pictures.
-
-The film crew has been excited about the release date of the film, as the post -shooting technical work has reached its final stage.
-
-The film will be released on September 19 in Tamil and English in the world.
-
-Newcomers + technicians + amazement of today's young fans, spiritual issues + VF X parties + a magnificent visual organization + have been expected among fans for fans.
-
-◼️
-
-[Data](articles/f789d5b8.json)
-
-[Extended Data](ext_articles/f789d5b8.ext.json)
-
----
-
-### Ajith Kumar starrer 'Vida Trying' movie update
-
-*2024-08-09 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190690) · `ta`
-
-Ajith Kumar stars in "Vida Tri," directed by Mahri Thirumeni, currently filming its final phase in Hyderabad. Expected to release on Diwali, the film also features Arav in a lead role. Additionally, Ajith has wrapped up shooting for "Good Bad Agli" directed by Adik Ravichandran.
-
-🟩
-
-Ajith Kumar starrer 'Vitamayakku' is in great anticipation. In this case, new information about the film has been released.
-
-Ajith Kumar is playing the hero of the story in the film 'Vida Tri', directed by director and actor Mahri Thirumeni.
-
-The final phase of the film is currently underway in Hyderabad. The film crew said the shooting of the film would be completed in a few days.
-
-The appearance of actor Ajith Kumar in the film.Following this, the film crew has released the role of actor Arav, who is currently playing the lead role of the film.
-
-The film is expected to be released on Diwali as planned as a new information about the film 'Persevere' is being released continuously.
-
-Meanwhile, actor Ajit Kumar has been shot in the film 'Good Bad Agli', which is being shot in the film 'Good Bad Agli', which is being shot by director Adik Ravichandran after completing the shooting of 'Vida'.
-
-◼️
-
-[Data](articles/852f8948.json)
-
-[Extended Data](ext_articles/852f8948.ext.json)
-
----
-
-### The economy was able to build the woman and three
-
-*2024-08-09 17:09:48* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගොඩගැනීමට-හැකි-වුණේ-කාන්තාවත්-තිදෙනෙකුගේ-සහයෙන්/11-411279) · `si`
-
-At a conference, President Ranil Wickremesinghe highlighted the crucial support from three women: Finance Minister Nirmala Sitharaman, U.S. Treasury Secretary Janet Yellen, and IMF Chief Kristalina Georgieva. He emphasized the importance of unity and addressing the nation's economic challenges, stating his presidency was accepted due to others' refusal of the responsibility. He urged setting aside political differences to alleviate the population's hardships, including shortages of electricity, fuel, and food.
-
-🟩
-
-President Ranil Wickremesinghe said that three women supported him and that he could not recover the country if they were not supported by three of them.
-
-He was speaking at the National Women's Conference held in Colombo today (09) under the theme "woman '.
-
-Some people question me why I am presenting as a remarkable candidate for the presidential election. Hunger is impossible. Feeling hunger than any party. The filling of the cock is not impartial. Therefore, we must put the political parties aside and to fill the mass of the people of the country. I have a good understanding of the suffering of the people of this country. All of you faced a great deal of difficulty without electricity, without fuel and food. We should always avoid this sadness, so we all need to keep this position together.
-
-...
-
-[Data](articles/e422f13d.json)
-
-[Extended Data](ext_articles/e422f13d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 21:36:25**
+As of **2024-08-11 21:55:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,140 (100.0%) of 40,150 articles have been extended.
+40,150 (100.0%) of 40,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,35 +62,53 @@ The Executive Director of PAFFREL Rohana Hettiarachchi explained that all the re
 
 ---
 
-### தனிப்பட்ட காரணங்களுக்காக தேர்தலில் போட்டியிட முன்வரும் வேட்பாளர்களை தவிர்க்க வேண்டும் -     பெப்ரல்
+### Avoid candidates who come forward to contest the election for personal reasons - February
 
 *2024-08-11 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190830) · `ta`
 
-தனிப்பட்ட நோக்கங்களை அடிப்படையாகக்கொண்டு ஜனாதிபதி தேர்தலில் போட்டியிட முன்வரும் வேட்பாளர்களை தவிர்க்க வேண்டும். இந்த செயல் ஜனநாயகம் மற்றும் சுதந்திரத்தை துஷ்பிரயோகம் செய்யும் நடவடிக்கையாகும் என பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்தார்.
+Rohana Hettiarachchi warns against candidates running for personal gains, labeling it as an abuse of democracy. He urges voters to be cautious, highlighting the increasing trend of individuals seeking office for self-serving motives rather than national interest. This behavior not only undermines democratic principles but also inflates election costs due to the growing number of contestants. History shows that only the main candidates receive significant support, with others struggling to secure even 2% of the vote. The deadline for controlling the upcoming presidential election is the 14th, with 27 individuals already registered.
 
-ஜனாதிபதி தேர்தலில் சிலர் பல்வேறு தனிப்பட்ட காரணங்களின் அடிப்படையில் வேட்பாளராக களமிறங்க நாளாந்தம் முன்வருவதை காணக்கூடியதாக இருக்கிறது.இது நாட்டின் ஜனநாயகம் மற்றும் சுதந்திர்ததை துஷ்பிரயோகம் செய்யும் நடவடிக்கையாகவே இதனை நாங்கள் காண்கிறோம். வேட்பாளர்களின் எண்ணிக்கை எதிர்வரும் தினங்களில் மேலும் அதிகரிக்கலாம் என்றே நாங்கள் நினைக்கிறோம்.
+🟩
+
+Avoid candidates who come forward to contest the presidential election based on personal purposes. The Executive Director of the February, Rohana Hettiarachchi, said that this act is an action to abuse democracy and independence.
+
+In the presidential election, some people are seen as a candidate for various personal reasons. We see this as a move to abuse the country's democracy and independence.. We think the number of candidates will increase further in the coming days.
+
+Thus, some of those who come forward to contest the election have to avoid those who come forward for their own reasons. Others come to the foreign ambassador services or the winning candidate from the winning candidate, in order to obtain the positions of the Head of State Department, to get the free media opportunity, or to appoint their representatives in the polls, to win the election for other reasons for other reasons.
 
 ...
 
 [Data](articles/779c50bd.json)
 
+[Extended Data](ext_articles/779c50bd.ext.json)
+
 ---
 
-### இணைந்த வடகிழக்கில் சமஸ்டி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறையை வழங்குபவர்களுக்கு ஆதரவு;  சிங்கள மக்களுக்கும் அதனை அறிவிக்க வேண்டும் - தமிழரசுக்கட்சி தெரிவிப்பு
+### Support for those who provide the Samasti -based power -sharing system in the combined Northeast;The Sinhalese people should be notified - the Tamil party
 
 *2024-08-11 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190843) · `ta`
 
-வடக்கு கிழக்கில் சமஸ்டி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறையை வழங்க தயாராக உள்ள ஜனாதிபதி வேட்பாளர் அந்த நிலைப்பாட்டை தேர்தல் விஞ்ஞாபனத்திலும் சிங்கள மக்களுக்கும் வெளிப்படுத்த தயாராக இருந்தால் அவருக்கு ஆதரவு வழங்குவது தொடர்பில் தீர்மானிப்போம் என தமிழரசுக்கட்சி கலந்துரையாடியுள்ளதாக கட்சயின் ஊடக பேச்சாளரும் பாராளுமன்ற உறுப்பினருமான எம். ஏ. சுமந்திரன் தெரிவித்தார்.
+The Tamil National Party supports a Samasti-based power-sharing system in the Northeast, emphasizing its commitment to establishing a power-shared rule there. The party's stance was reiterated by its media spokesman and parliamentarian MP, highlighting the importance of informing the Sinhalese people about the benefits of this system. While no specific presidential candidate has been endorsed yet, the party is open to supporting one who aligns with their political position. Additionally, the party discussed concerns over other political parties and civil organizations declaring Tamil general candidates without consulting the TNA, deciding to address this issue within a week.
 
-இன்று  தமிழரசுக்கட்சியின் வவுனியா அலுவலகமான தாயகத்தில் கட்சியின் மத்திய குழு கூட்டம் இடம்பெற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார், தொடர்ந்தும் கருத்து தெரிவித்த அவர்,
+🟩
 
-தமிழ் மக்கள் சார்பாக தமிழ் மக்களின் பிரதான அரசியல் கட்சியான தமிழரசுக்கட்சியினுடைய  நிலைப்பாடானது இணைந்த வடகிழக்கிலே சமஸ்தி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறை ஏற்படுத்தப்படுவதாகும்.
+The party's media spokesman and parliamentarian MP said that the Presidential candidate, who is ready to provide the Samasti -based devolution of power in the North and East, will decide that the position will be supported by the Sinhalese and the Sinhalese.. A.. Said Sumanthiran.
 
-இதுவே எங்களுடைய அரசியல் நிலைப்பாடு.  இதற்கு ஜனாதிபதி வேட்பாளர்கள் யாராவது இணங்கி வந்தால் அவர்களுக்கு ஆதரவு அளிக்கலாம் என்ற கருத்தும் கூட்டத்திலே சொல்லப்பட்டிருக்கிறது. எனினும் இது தொடர்பில் தீர்மானம் எதுவும் எடுக்கவில்லை.
+He said this while speaking to the media after the party's central committee meeting was held in the home of the Tamil National Party today.
+
+The position of the main political party of the Tamil people on behalf of the Tamil people is the establishment of a power -shared rule in the Northeast of the Northeast.
+
+This is our political position.The meeting also stated that the presidential candidates can support them if they comply. However, no resolution was taken in this regard.
+
+We are going to see what the news is that we are telling the presidential candidates about our request.
+
+We are also going to look at the fact that they are coming to the whole country.
 
 ...
 
 [Data](articles/5a21d8e4.json)
+
+[Extended Data](ext_articles/5a21d8e4.ext.json)
 
 ---
 
@@ -148,19 +166,25 @@ We are going to see what the news is that we are telling the presidential candid
 
 ---
 
-### ஜனாதிபதித் தேர்தலுக்காக ஒதுக்கப்பட்ட பணத்தை வழங்கத் தயார் - நிதி இராஜாங்க அமைச்சர்
+### Ready to pay for presidential election - Minister of Finance
 
 *2024-08-11 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190842) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்காக ஒதுக்கப்பட்ட பணத்தை வழங்கத் தயார் என நிதி இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+Minister of Finance Ranjith Siyambalapitiya confirms readiness to allocate funds for the upcoming presidential election, as stated during a media interview post-event on Sunday, 11th.
 
-ஜனாதிபதித் தேர்தலுக்கான மதிப்பிடப்பட்ட தொகையை வழங்கத் தயார் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+🟩
 
-எட்டியந்தோட்டையில் 11ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற நிகழ்ச்சியொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+The Minister of Finance has said that he is ready to pay the money allocated for the presidential election.
+
+Finance Minister Ranjith Siyambalapitiya has said that he is ready to pay the estimated amount for the presidential election.
+
+He said this while speaking to the media after a function held on Sunday, 11th.
 
 ◼️
 
 [Data](articles/f3e8dcb8.json)
+
+[Extended Data](ext_articles/f3e8dcb8.ext.json)
 
 ---
 
@@ -256,21 +280,27 @@ SiFAN won the copper medals from 10,000 and 5,000m events in this year's Olympic
 
 ---
 
-### இந்திய மீன்பிடி படகு மூலம் வென்னப்புவ கடற்கரைக்கு சட்டவிரோதமாக வருகை தந்த இலங்கையர் கைது!
+### Sri Lankan arrested for illegally visiting Wennappuwa beach by Indian fishing boat
 
 *2024-08-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190834) · `ta`
 
-இந்திய மீன்பிடி படகு மூலம் வென்னப்புவ கடற்கரைக்கு சட்டவிரோதமாக வருகை தந்த இலங்கையை சேர்ந்த நபரொருவர் கைது செய்யப்பட்டுள்ளளார்.
+A Sri Lankan man was arrested for illegally entering Wennappuwa beach via an Indian fishing boat. He had previously been detained in 2021 in India for drug offenses. The Sri Lankan navy and police are investigating this latest incident.
 
-இலங்கை கடற்படை மற்றும் பொலிஸார் ஒருங்கிணைந்து மேற்கொண்ட நடவடிக்கையின் மூலம் இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இந்த நபர் 2021ஆம் ஆண்டு இந்தியாவில் போதைப்பொருள் கடத்தலில் ஈடுபட்டமைக்காக கைது செய்யப்பட்டவர் என விசாரணையில் தெரியவந்துள்ளது.
+A Sri Lankan man has been arrested for illegally visiting Wennappuwa beach by Indian fishing boat.
 
-மேலும், இந்த சம்பவம் தொடர்பாக வென்னப்புவ பொலிஸார் மேலதிக விசாரணைகளில் ஈடுபட்டு வருகின்றனர்.
+He has been arrested by the Sri Lankan navy and the police.
+
+Investigations revealed that the man was arrested in 2021 for drug trafficking in India.
+
+In addition, the Wennappuwa police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/bcc7a0c9.json)
+
+[Extended Data](ext_articles/bcc7a0c9.ext.json)
 
 ---
 
@@ -314,63 +344,93 @@ He said this while addressing an event under the Sri Lanka Foundation.
 
 ---
 
-### இருமுனைச் சவால்கள்
+### Bipolar challenges
 
 *2024-08-11 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190825) · `ta`
 
-பங்களாதேஷில் அடுத்து அமையப் போகும் அரசாங்கம் எப்படிப்பட்டது, அது எந்தளவுக்கு உறுதியானதாக இருக்கும், அதன் வெளிநாட்டுக் கொள்கை மற்றும் அயல்பாரான இந்தியாவுடனான உறவுகள் எப்படிப்பட்டதாக இருக்கும், சீனாவை எப்படிக் கையாளப் போகிறது போன்ற பல்வேறு கவலைகள் புதுடில்லிக்குத் தோன்றியிருக்கிறது.
+New Delhi is buzzing about Bangladesh's upcoming government, its stance towards India, foreign policy, and handling of China.
+
+🟩
+
+New Delhi has appeared in New Delhi, such as how the next government in Bangladesh is, how firm it will be, its foreign policy and relations with India, and how it is going to handle China.
 
 ◼️
 
 [Data](articles/5133e8a6.json)
 
+[Extended Data](ext_articles/5133e8a6.ext.json)
+
 ---
 
-### இராணுவ சதி உண்மையா?
+### Is the military plot true?
 
 *2024-08-11 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190822) · `ta`
 
-‘அரகலய’ போராட்டம் தொடங்கிய காலகட்டத்தில், கோட்டாபய ராஜபக்ஷவின் மீரிஹான இல்லம், ஆர்ப்பாட்டக்காரர்களால் சுற்றிவளைக்கப்பட்டது. அந்த கட்டத்தில்,  ஜனாதிபதியாக இருந்த கோட்டாபய ராஜபக்ஷ தன்னை அழைத்து,  தனது இல்லத்துக்கான பாதுகாப்பை அதிகரிக்குமாறு  இராணுவத் தளபதி சவேந்திரா சில்வாவிடம் கூறும்படி கேட்டுக் கொண்டார் என்றும் மதுர விதானகே கூறியிருக்கிறார்.
+During the Arakalaya struggle, Gotabhaya Rajapaksa's home was surrounded by protesters. The President allegedly contacted Madurai Vidanage, asking the Army Commander Savendra Silva to enhance his security.
+
+🟩
+
+At the time when the Arakalaya struggle began, Gotabhaya Rajapaksa's Meerihana house was surrounded by demonstrators. At that point, Madurai Vidanage has said that President Gotabhaya Rajapakse, who was president, had called him and asked the Army Commander Savendra Silva to increase his safety.
 
 ◼️
 
 [Data](articles/bad168b1.json)
 
+[Extended Data](ext_articles/bad168b1.ext.json)
+
 ---
 
-### பங்களாதேஷில் ஜனநாயக எழுச்சி
+### Democratic rise in Bangladesh
 
 *2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190815) · `ta`
 
-பங்களாதேஷில் தற்காலிகமாக ஆட்சிப் பொறுப்பை ஏற்றுள்ள இராணுவம், அந்த நாட்டில் மாணவர்கள் மேற்கொண்ட போராட்டக் காலகட்டத்தில் இடம்பெற்ற கொலைகளை முழுமையான விசாரணைக்கு உட்படுத்தி குற்றவாளிகளைத் தண்டிக்கப் போவதாக அறிவித்துள்ளது.
+Bangladesh's military, now in charge, vows to investigate and punish those responsible for student deaths, signaling a shift towards democracy.
+
+🟩
+
+The military, which has temporarily assumed responsibility in Bangladesh, has announced that it will punish the culprits in a thorough investigation of the killings of students in the country.
 
 ◼️
 
 [Data](articles/199699a6.json)
 
+[Extended Data](ext_articles/199699a6.ext.json)
+
 ---
 
-### அரசியல் கூட்டுக்கான உடன்படிக்கைகள் -  முஸ்லிம்களை ஏமாற்றுவதற்கான யுக்தி
+### Agreements for Political Alliance - The tactics of deceiving Muslims
 
 *2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190819) · `ta`
 
-தேசிய காங்கிரஸின் தலைவர் ஏ.எல்.எம்.அதாவுல்லாஹ் சுயேட்சையாக போட்டியிடுகின்ற ரணில் விக்கிரமசிங்கவுக்கு தமது ஆதரவைத் தெரிவித்துள்ளார். மறுபுறத்தில் எதிர்பார்க்கப்பட்டதைப் போன்று முஸ்லிம் காங்கிரஸின் ஆதரவு சஜித் பிரேமதாஸாவுக்கு வழங்கப்பட்டுள்ளது. அதற்கான தீர்மானம் முஸ்லிம் காங்கிரஸின் உயர்பீடத்தில் எடுக்கப்பட்டுள்ளது. எனினும் அக்கட்சியின் பாராளுமன்ற உறுப்பினர்கள் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்கும் நிலைப்பாட்டைக் கொண்டுள்ளனர்.
+ALM Ataullah supports Ranil Wickremesinghe, while the Muslim Congress backs Sajith Premadasa, despite parliamentary members favoring Wickremesinghe.
+
+🟩
+
+National Congress leader ALM Ataullah has expressed his support for Ranil Wickremesinghe, who is contesting independently. The support of the Muslim Congress as expected on the other hand has been given to Sajith Premadasa. The resolution is taken at the top of the Muslim Congress. However, the party's parliamentarians have a position to support Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/c06a5eef.json)
 
+[Extended Data](ext_articles/c06a5eef.ext.json)
+
 ---
 
-### எப்படி இந்த ஒற்றுமை?
+### How is this unity?
 
 *2024-08-11 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190813) · `ta`
 
-1971 ஆம் ஆண்டு சுதந்திர போராட்டத்தில் உயர்நீத்தவர்களின் குடும்பங்களுக்கு அரசு வேலை வாய்ப்புகளில் 30 சதவீத இட ஒதுக்கீட்டை வழங்குவதற்கு முன்வந்தது, அந்த நாட்டின் இளைஞர்கள் மற்றும் மாணவர்கள் மத்தியில் வெறுப்பையும் விரக்தியையும் ஏற்படுத்தியது. கடந்த 15 ஆண்டுகளில் பங்களாதேஷ்  வளர்ச்சி அடைந்திருப்பதற்கும்,  வறுமை நிலையிலிருந்து மீண்டிருப்பதற்கும்,  இலங்கைக்கு கடன் கொடுக்கும் அளவுக்கு பொருளாதார ரீதியாக வளர்ச்சி பெற்றதற்கும் காரணமாக இருந்தவர்  ஷேக் ஹசீனா.
+The 1971 Bangladesh liberation war aimed to grant 30% reservations to high-ranking families, sparking discontent among youth and students. Despite initial challenges, under Sheikh Hasina's leadership over the past 15 years, Bangladesh has seen significant progress in poverty reduction and economic growth, largely through loans from Sri Lanka.
+
+🟩
+
+The 1971 freedom struggle offered to provide 30 per cent reservation for the families of the high -rankings, causing disgust and frustration among the youth and students of the country.. Sheikh Hasina was the cause of the growth of Bangladesh in the last 15 years, the recovery of poverty and the economic growth of Sri Lanka's lending.
 
 ◼️
 
 [Data](articles/32cdd60d.json)
+
+[Extended Data](ext_articles/32cdd60d.ext.json)
 
 ---
 
@@ -410,15 +470,21 @@ Southern 25-night Southern Region is due to Changha at the Sri Dalada Maligarahe
 
 ---
 
-### சவாலை எதிர்கொள்ள தயாரா?
+### Ready to face the challenge?
 
 *2024-08-11 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190836) · `ta`
 
-தமிழ் பொது வேட்பாளரை நிறுத்துவதை விட, அவரை ஏன் நிறுத்துகிறோம் என்பதை தெளிவுபடுத்துவது  முக்கியமானது.  அந்த விடயத்தில் தமிழ் பொது வேட்பாளரை நிறுத்தும் தரப்புகள் சரியாகப் பணியாற்றவில்லை.
+We must focus on the reasons behind halting the Tamil general candidate instead of the other party. The groups backing this candidate seem unorganized.
+
+🟩
+
+It is important to clarify why we stop him, rather than stopping the Tamil general candidate. The parties that field the Tamil general candidate on that issue are not working properly.
 
 ◼️
 
 [Data](articles/770c084c.json)
+
+[Extended Data](ext_articles/770c084c.ext.json)
 
 ---
 

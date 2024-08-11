@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 16:36:08**
+As of **2024-08-11 16:52:48**
 
 ## Newspaper Stats
 
-*Scraped **40,117** Articles*
+*Scraped **40,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,681
-adaderanalk | 4,669
+adaderanalk | 4,670
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
 virakesarilk | 6,356
-adaderanasinhalalk | 6,823
+adaderanasinhalalk | 6,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,117 (100.0%) of 40,117 articles have been extended.
+40,117 (100.0%) of 40,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ඉරානය ට්‍රම්ප් ට රිද්දයි
+
+*2024-08-11 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199821) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ගේ ජනාධිපතිවරණ ව්‍යාපාරයට සම්බන්ධ අභ්‍යන්තරව හුවමාරු වූ තොරතුරු ඉරාන හැකර්වරුන් විසින් ලබාගෙන ඇති බව වාර්තා වෙයි.
+
+අමෙරිකානු ප්‍රවෘත්ති වෙබ් අඩවියක් වන පොලිටිකෝ ඒ සම්බන්ධයෙන් තොරතුරු හෙළිදරව් කර තිබුණි.
+
+එහි දැක්වෙන්නේ ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණයට සම්බන්ධ ලිපි ලේඛන මෙන්ම උප ජනාධිපති අපේක්ෂක ජේ ඩි වෑන්ස් සිදුකළ ගවේෂණයක තොරතුරු විද්‍යුත් තැපෑලෙන් ඔවුන්ට ලැබී ඇති බවයි.
+
+එළඹෙන ජනාධිපතිවරණය ට මැදිහත්වීමේ අදහසින් එම තොරතුරු හැක් කර ලබාගන්නට ඇතැයි සැලකෙයි.
+
+◼️
+
+[Data](articles/7b3f5332.json)
+
+---
+
+### Prison guard arrested with weapons, ammo and drugs linked to “Gotha Asanka”
+
+*2024-08-11 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101150/prison-guard-arrested-with-weapons-ammo-and-drugs-linked-to-gotha-asanka-) · `en`
+
+The weapons and ammunition taken into custody along with a prison officer during a raid in the Rajagiriya area last night (10), have been revealed to allegedly belong to the notorious criminal figure and large-scale drug trafficker infamously known as “Gotha Asanka,” who is currently hiding overseas.
+
+The weapons were discovered hidden in a bunker on the upper floor of the prison officer’s house in Rajagiriya, during a raid carried out by the Police Narcotics Bureau (PNB).
+
+The raid has been carried out based on certain information uncovered during the interrogations of seven individuals who were arrested with live ammunition and drugs in the Makola area recently.
+
+Based on the relevant information, police had searched the two-story house which was under construction in the Madinnagoda, Rajagiriya.
+
+...
+
+[Data](articles/7c24e5eb.json)
+
+---
 
 ### Strike GS first Monday
 
@@ -2277,47 +2313,5 @@ Two more people were admitted to the Maskeliya Hospital in the accident, Ada Der
 [Data](articles/27d667d8.json)
 
 [Extended Data](ext_articles/27d667d8.ext.json)
-
----
-
-### Three army killed in clashes - Pakistan
-
-*2024-08-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199789) · `si`
-
-In recent conflicts in Pakistan, three soldiers and four militants died. Clashes occurred in the Kabeer area, part of a larger conflict involving over 550 combatants nationwide in the past year.
-
-🟩
-
-Three army soldiers have died of conflicts with militants in Pakistan.
-
-Foreign media reports that the clashes erupted in the Kabeer area of ​​the country.
-
-Four militants were killed in conflicts.
-
-Over the past year, there have been over 550 combatants throughout Pakistan.
-
-◼️
-
-[Data](articles/c8343502.json)
-
-[Extended Data](ext_articles/c8343502.ext.json)
-
----
-
-### Hadyan meets Namal and Sumanthiran
-
-*2024-08-10 17:30:37* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-සහ-සුමන්තිරන්-අතර-හදීසි-හමුවක්/11-411292) · `si`
-
-Today, a meeting took place between Sri Lanka's presidential candidate MP Namal Rajapaksa and TNA MP MA Sumanthiran, focusing on political discussions.
-
-🟩
-
-A discussion was held today (10) a meeting between the presidential candidate MP Namal Rajapaksa and the TNA MP MA Sumanthiran.
-
-◼️
-
-[Data](articles/9b772870.json)
-
-[Extended Data](ext_articles/9b772870.ext.json)
 
 ---

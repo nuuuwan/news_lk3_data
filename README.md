@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 12:09:48**
+As of **2024-08-11 12:20:59**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,087 (100.0%) of 40,089 articles have been extended.
+40,089 (100.0%) of 40,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### වසර 32කට පසු ඔලිම්පික් පාපන්දු රන් පදක්කම ස්පාඤ්ඤය ට
+### Olympic Football Gold Medal in 32 years
 
 *2024-08-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199810) · `si`
 
-වසර 32කට පසු ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු රන් පදක්කමක් දිනා ගැනීමට ස්පාඤ්ඤය සමත්වුණි.
+In the Paris Olympics, Spain faced France in the men's football final. Despite leading 1-0 after the first half, France equalized with two goals in the second half. The match went into extra time, where Spain emerged victorious with five more goals, securing the gold medal.
 
-ඒ පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු තරගාවලියේ අවසන් මහා තරගයේදී සත්කාරක ප්‍රංශය ගෝල 5ට 3ක් ලෙස පරාජය කරමිනි.
+🟩
 
-පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු තරගාවලියේ අවසන් මහා තරගය පැවැත්වුණේ සත්කාරක ප්‍රංශය සහ ස්පාඤ්ඤය අතර ය.
+Spain won the Olympic Games in the Olympic Games.
 
-තරගය ආරම්භයේ සිටම තියුණු මුහුණුවරක් ගත් අතර පළමු අර්ධය නිමා වූයේ ගෝල 3ට 1ක් ලෙස ස්පාඤ්ඤයට පෙරමුණ හිමිකර දෙමිනි.
+The host France beat the calendar as 3 to 3 in the final playground of the Paris Olympic Games.
 
-දෙවන අර්ධයේදී ප්‍රංශය ගෝල දෙකක් වාර්තා කළ අතර ඒ අනුව නියමිත කාලය නිමා වන විට දෙපිල ම ගෝල 3 බැගින් රැස් කර තිබුණි.
+The finals of the male football tournament of the Paris Olympic Games was held between the host France and Spain.
 
-අනතුරුව ලබාදුන් අතිරේක කාලයේදී තවත් ගෝල දෙකක් රැස් කළ ස්ඤ්ඤය ගෝල 5ට 3ක් ලෙස අවසන් තරගය ජය ගනිමින් රන් පදක්කම දිනා ගැනීමට සමත්වුණි.
+The competition was made from the outset and the first half ended the Spanish as 1 in 3 goals.
+
+France recorded two goals in the second half, accordingly, accordingly, the two goals were collected at the end of the time.
+
+The gold medal was won by winning the final in the additional 5 goals.
 
 ◼️
 
 [Data](articles/b0dcc24d.json)
+
+[Extended Data](ext_articles/b0dcc24d.ext.json)
 
 ---
 
@@ -71,6 +77,8 @@ Accordingly, 317 election law violations were reported between July 31 to August
 ◼️
 
 [Data](articles/d6a0e156.json)
+
+[Extended Data](ext_articles/d6a0e156.ext.json)
 
 ---
 

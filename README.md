@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 10:54:42**
+As of **2024-08-11 11:06:13**
 
 ## Newspaper Stats
 
-*Scraped **40,074** Articles*
+*Scraped **40,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,662
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,064
 virakesarilk | 6,348
-adaderanasinhalalk | 6,811
+adaderanasinhalalk | 6,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,069 (100.0%) of 40,074 articles have been extended.
+40,074 (100.0%) of 40,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළ ට
+
+*2024-08-11 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199808) · `si`
+
+ජනාධිපතිවරණයට අදාළව මැතිවරණ පැමිණිලි තවදුරටත් ඉහළ ගොස් ඇතැයි මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එම කොමිෂන් සභාව පෙන්වා දෙන්නේ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 51ක් වාර්තා වූ බවයි.
+
+තවද ජූලි 31 වැනිදා සිට ඊයේ (10) දක්වා ගතවූ කාලය තුළ මැතිවරණ පැමිණිලි 320ක් වාර්තා වූ බව මැතිවරණ ‍කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/a76f121f.json)
+
+---
 
 ### Dozens of Rohingya fleeing Myanmar killed in drone attack
 
@@ -48,29 +64,37 @@ Three of the witnesses told Reuters on Friday that the Arakan Army was responsib
 
 [Data](articles/fd0a0781.json)
 
+[Extended Data](ext_articles/fd0a0781.ext.json)
+
 ---
 
-### රාජසන්තක කළ අයි ෆෝන් සහ ලැප්ටොප්
+### Accused i cell phone and laptop
 
 *2024-08-11 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199807) · `si`
 
-තීරු බදු නොගෙවා නීතිවිරෝධීව මෙරටට ගෙන ආ ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක තොගයක් රාජසන්තක කිරීමට නියෝජ්‍ය රේගු අධ්‍යක්ෂවරයා විසින් පියවර ගෙන තිබේ.
+Deputy Customs Director in Sri Lanka seized 12 iPhones and laptops smuggled from Dubai by six individuals. Arrested were three locals from Dematagoda, Colombo. The items were confiscated at Katunayake airport, and the suspects face charges for evading customs duty.
 
-ඊයේ (10) අලුයම 12.30ට පමණ ඩුබායි සිට මෙරටට පැමිණි ගුවන් මගීන් තිදෙනෙකු විසින් මෙම ජංගම දුරකථන සහ ලැප්ටොප් මෙරටට රැගෙනවිත් තිබුණි.
+🟩
 
-මෙලෙස රැගෙනවිත් ඇත්තේ 'අයි ෆෝන්' 36ක් සහ ලැප්ටොප් පරිගණක 06කි.
+The Deputy Customs Director has taken steps to confuse a large number of mobile phones and laptops to be illegally brought to Sri Lanka without paying duties.
 
-ඔවුන් සිය ගමන් මලු තුළ සඟවා මෙම ජංගම දුරකථන සහ පරිගණක පිටතට ගෙන යමින් සිටිය දී කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් ඔවුන්ව සිය භාරයට ගෙන තිබුණි.
+Three passengers from Dubai and three passengers were brought to the country by three passengers from Dubai at around 12.30 am yesterday (10).
 
-අත්අඩංගුවට ගෙන තිබුණේ කොළඹ, දෙමටගොඩ ප්‍රදේශයේ පදිංචිකරුවන් තිදෙනකු බව සඳහන් ය.
+The following was six "I phone" and six laptops.
 
-අත්අඩංගුවට පත් තිදෙනා වැඩිදුර විමර්ශන සඳහා කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබුණු අතර, එහිදී රේගු පරීක්ෂණයක් සිදුකිරීමෙන් පසු ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක රාජසන්ත කිරීමට පියවර ගෙන තිබේ.
+They were taken into custody by a group of Katunayake Airport Criminal Investigations in the Katunayake airport.
 
-තවද සැකකරුවන් තිදෙනාට රුපියල් ලක්ෂ 16ක දඩ මුදලක් ගෙවීමටත් නියෝජ්‍ය රේගු අධ්‍යක්ෂවරයා නියෝග කර තිබේ.
+The arrested were three residents of Dematagoda, Colombo.
+
+The suspects were handed over to Katunayake Airport to the Customs Officers and the customs investigation had taken steps to confuse the mobile phone and laptops after conducting a customs investigation.
+
+The Deputy Customs Director has ordered the three suspects to pay Rs.
 
 ◼️
 
 [Data](articles/f0813399.json)
+
+[Extended Data](ext_articles/f0813399.ext.json)
 
 ---
 
@@ -126,17 +150,23 @@ In addition, the crabs are dead on the beach for three to 4 kilometers.
 
 ---
 
-### සුදර්ශනීගේ සහාය සජිත්ට
+### Sudarshani's support to Sajith
 
 *2024-08-11 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199806) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීනී වෛද්‍ය සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ මහත්මිය පැවසුවාය.
+At a press conference in Colombo, Ms. Sudarshini Fernandopulle, Gampaha District MP, stated that Sajith Premadasa backed him in the presidential election.
 
-ඇය ඒ බව පැවසුවේ අද (11) උදෑසන කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි.
+🟩
+
+Ms. Sudarshini Fernandopulle, Gampaha District MP Dr. Sudarsini Fernandopulle, said that Sajith Premadasa supported Sajith Premadasa in the presidential election.
+
+She was speaking at a press conference held in Colombo this morning.
 
 ◼️
 
 [Data](articles/c2218653.json)
+
+[Extended Data](ext_articles/c2218653.ext.json)
 
 ---
 
@@ -186,41 +216,55 @@ Earlier last week, Israel attacked 4 schools in Gaza. Two schools that operated 
 
 ---
 
-### ஜனாதிபதி தேர்தல் முடியும் வரை பாராளுமன்றம் கலைக்கப்படாது - அரசாங்கம்
+### Parliament will not be dissolved until the presidential election is over - the government
 
 *2024-08-11 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190789) · `ta`
 
-ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற பெரும்பான்மையை குறித்து எழுந்துள்ள சர்ச்சைகளின் அடிப்படையில் பாராளுமன்றம் விரைவில் கலைக்கப்படலாம் என்று கருத்துக்கள் உளாவுகின்ற நிலையில், அதனை நிராகரித்துள்ள அரசாங்கம்  ஜனாதிபதி தேர்தல் முடியும் வரை பாராளுமன்றம் கலைக்கப்படாது என்று குறிப்பிட்டுள்ளது.
+The Sri Lankan government has decided not to dissolve Parliament until after the presidential election, despite controversies over the ruling party's majority. The decision comes amid confusion about the current parliamentary majority due to changes in membership and support for President Ranil Wickremesinghe from most MPs and ministers. Opposition parties call for clarity amidst the political turmoil.
 
-ஆளும் கட்சிக்கு 113 என்ற பெரும்பான்மை இல்லை என்ற காரணத்தை அடிப்படையாக கொண்டு பிரதமருக்கு எதிரான நம்பிக்கையில்லா பிரேரனை முன்வைக்க பிரதான எதிர்க்கட்சி உட்பட எதிர்க்கட்சிகளின் கூட்டணி திட்டமிட்டிருந்தது. ஆனால் தற்போது ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரின் பாராளுமன்ற உறுப்புரிமை இல்லாமள் போய், ஐக்கிய மக்கள் சக்திக்கு இரு ஆசனங்கள் அதிகரித்துள்ளன.
+🟩
 
-ஆளும் கூட்டணி கட்சிகளின் பிரதான கட்சியான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலான பாராளுமன்ற உறுப்பினர்கள் மற்றும் அமைச்சர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கின்றனர். இவ்வாறானதொரு நிலையில் பாராளுமன்றத்தில் பெரும்பான்மை யார் வசம் உள்ளது என்பதில் குழப்ப நிலை உருவாகியுள்ளது.
+While the controversy over the parliamentary majority of the ruling Sri Lanka PA's parliamentary majority, the government has rejected the government, which has rejected the parliament until the presidential election is over.
+
+Based on the fact that the ruling party did not have a majority of 113. But now the parliamentary membership of Harin Fernando and Manusha Nanayakkara has gone away, and the United People's Power has increased two seats.
+
+Most MPs and Ministers of the Sri Lanka PA, the main party of the ruling coalition parties, support President Ranil Wickremesinghe. In this case, there is a confusion over who is in parliament.
+
+Opposition parties have urged the government to resolve the chaos in the majority of parliament as the presidential election has been announced.
 
 ...
 
 [Data](articles/bf623422.json)
 
+[Extended Data](ext_articles/bf623422.ext.json)
+
 ---
 
-### චමරි නැතිව අයර්ලන්තයට ගිය කාන්තා ක්‍රිකට් කණ්ඩායම
+### Women's Cricket Team, who went to Ireland without Chamari
 
 *2024-08-11 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199805) · `si`
 
-සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ අයර්ලන්ත කාන්තා කණ්ඩායම අතර පැවැත්වෙන 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය අද ආරම්භ වෙයි.
+The Sri Lanka Women's Cricket Team is in Ireland for the 20th International Cricket Tournament against the Irish Women's group, marking their first international competition together. The series consists of two matches starting today at 8:30 pm. Notably, the team's leader, Chamari Atapattu, is absent as she's participating in the Dell Insinces Batch of Women's Hundred Tournament in England.
 
-තරග 02කින් සමන්විත තරගාවලියේ පළමු තරගය අද රාත්‍රී 08.30ට ඩබ්ලින් හී දී ආරම්භ වීමට නියමිතය.
+🟩
 
-ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ අයර්ලන්ත තරග සංචාරය එක්දින ජාත්‍යන්තර තරග 03කින් ද සමන්විතය.
+The 20th International Cricket Tournament between the Sri Lanka Women's Team and Irish Women's group will commence today.
 
-අසියානු කුසලාන කාන්තා ක්‍රිකට් ශුරතාව හිමිකර ගැනීමෙන් පසු ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගාවලිය මෙය වෙයි.
+The first match of the two-match tournament will commence at 08.30 pm today.
 
-මෙම 20යි 20 තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ නායිකා චමරි අතපත්තු සහභාගී නොවෙයි.
+The Ireland match of the Sri Lanka Women's group is comprised of three international competitions.
 
-ඒ එංගලන්තයේ පැවැත්වෙන Women's Hundred තරගාවලියේ ඕවල් ඉන්වින්සිබල්ස් කණ්ඩායම වෙනුවෙන් ඇය ක්‍රීඩා කරන බැවිනි.
+This is the first tournament to attend the Sri Lanka Women's Team.
+
+Sri Lankan team leader Chamari Atapattu does not participate in this 20th tournament.
+
+Because she plays the Dell Insinces Batch of Women's Hundred Tournament in England.
 
 ◼️
 
 [Data](articles/6a662751.json)
+
+[Extended Data](ext_articles/6a662751.ext.json)
 
 ---
 
@@ -2255,25 +2299,5 @@ During the recent tournament with the tourist Indian team, the two have lost the
 [Data](articles/cb695fb9.json)
 
 [Extended Data](ext_articles/cb695fb9.ext.json)
-
----
-
-### Aircraft collapses in Brazil - 61 killed
-
-*2024-08-10 11:52:01* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රසීලයේ-ගුවන්-යානයක්-කඩා-වැටෙයි---ගමන්-ගත්-61-දෙනාම-මරුට/11-411287) · `si`
-
-In Brazil, a plane crash resulted in the tragic loss of 61 lives, including 57 passengers and crew members aboard the Boeing 737-500, along with four others.
-
-🟩
-
-At 61 persons were killed in the collapse of an aircraft in the state of Brazil.
-
-A. 57 passengers and staff were from the air 72-500 and four passengers.
-
-◼️
-
-[Data](articles/1458f4f2.json)
-
-[Extended Data](ext_articles/1458f4f2.ext.json)
 
 ---

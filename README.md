@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 08:17:19**
+As of **2024-08-11 08:55:44**
 
 ## Newspaper Stats
 
-*Scraped **40,057** Articles*
+*Scraped **40,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 377
 islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
-adalk | 3,673
+adalk | 3,674
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,059
+tamilmirrorlk | 5,060
 virakesarilk | 6,347
-adaderanasinhalalk | 6,806
+adaderanasinhalalk | 6,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,051 (100.0%) of 40,057 articles have been extended.
+40,059 (100.0%) of 40,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Human rights examination is an investigation into police assault
+
+*2024-08-11 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199803) · `si`
+
+The Human Rights Commission of Sri Lanka is investigating a case where two traffic officers assaulted a 16-year-old girl after stopping her for riding without a helmet. The incident occurred when she took her father's motorcycle to a relative's house. The victim was hospitalized for treatment, and the commission's chairman confirmed the initiation of an inquiry.
+
+🟩
+
+The Human Rights Commission of Sri Lanka has begun an investigation into the attack on a 16-year-old schoolgirl (Mouth's traffic officials).
+
+The student had gone to a store near the father's motorcycle on the 7th and the friend had not been wearing helmet.
+
+Two traffic officers of the Payagala Police have pursued them and stopped the motorcycle.
+
+The school student had operated the motorcycle to a nearby relative house to revive the motorcycle.
+
+The police officers pursued them and hit the student who was on the motorcycle to the school student who was hitting the motorcycle.
+
+The student who was assaulted was admitted to the Nagoda Surgery in Kalutara for treatment.
+
+The Chairman of the Commission Nimal Punchihewa said the Chairman of the Commission Nimal Punchihewa said that he had informed a report to the Human Rights Commission.
+
+◼️
+
+[Data](articles/2dacfb89.json)
+
+[Extended Data](ext_articles/2dacfb89.ext.json)
+
+---
 
 ### The Paris Olympics finished today
 
@@ -163,6 +193,28 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/be992a61.json)
 
 [Extended Data](ext_articles/be992a61.ext.json)
+
+---
+
+### 269 ​​complaints regarding the election
+
+*2024-08-11 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-269-முறைப்பாடுகள்/175-341937) · `ta`
+
+The Elections Commission reported receiving 269 complaints about the upcoming presidential election, with 186 filed at the National Election Complaint Management Center and 80 at the District level. Most complaints, totaling 266, were for violations of election laws.
+
+🟩
+
+The Elections Commission said that 269 complaints have been received so far regarding incidents related to the upcoming presidential election.
+
+186 complaints have been lodged at the National Election Complaint Management Center and 80 complaints at the District Election Complaint Management Center.
+
+In it, 266 complaints have been lodged in violation of the election law, the Elections Commission said the Commission said.. (A)
+
+◼️
+
+[Data](articles/94a3ac48.json)
+
+[Extended Data](ext_articles/94a3ac48.ext.json)
 
 ---
 
@@ -817,6 +869,20 @@ Accordingly, the notification of the Extreme Gazette, which includes recognized 
 [Data](articles/f9ae30f7.json)
 
 [Extended Data](ext_articles/f9ae30f7.ext.json)
+
+---
+
+### හෙටින් ඇරඹෙන සතියේ වෙනස්කම් රැසක් - නව පක්ෂයක් නිර්මාණය කිරීමටත් සැලසුම්
+
+*2024-08-10 18:31:01* · [`adalk`](https://www.ada.lk/breaking_news/හෙටින්-ඇරඹෙන-සතියේ-වෙනස්කම්-රැසක්---නව-පක්ෂයක්-නිර්මාණය-කිරීමටත්-සැලසුම්/11-411293) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට එක්වන පොදුජන පෙරමුණේ කණ්ඩායම විසින් ලබන සතිවේ නව දේශපාලන පක්ෂයක් ආරම්භ කිරීමට සැලසුම් කර තිබේ.
+
+ඊට අවශ්‍ය කටයුතු මේ වනවිට සූදානම් කර ඇති බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/78ca7078.json)
 
 ---
 
@@ -1594,6 +1660,8 @@ The choice she made last Tuesday, Minnesota Governor Tim Walz, met this vital qu
 
 [Data](articles/5671b12a.json)
 
+[Extended Data](ext_articles/5671b12a.ext.json)
+
 ---
 
 ### Seven companies agree to pay Rs 1700 for estate workers
@@ -1823,6 +1891,8 @@ Over the years we became close friends and exchanged many ideas about the countr
 ...
 
 [Data](articles/e4d95047.json)
+
+[Extended Data](ext_articles/e4d95047.ext.json)
 
 ---
 
@@ -2219,63 +2289,5 @@ UNP Leader Asanka Navaratne said that
 [Data](articles/93fd0ff1.json)
 
 [Extended Data](ext_articles/93fd0ff1.ext.json)
-
----
-
-### Sri Lanka Mahajana Party to support Ranil in presidential race
-
-*2024-08-10 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101126/sri-lanka-mahajana-party-to-support-ranil-in-presidential-race) · `en`
-
-Leader of the Sri Lanka Mahajana Party, MP Asanka Nawaratne, has announced that his party will support President Ranil Wickremesinghe in the upcoming Presidential Election.
-
-◼️
-
-[Data](articles/a24caaa9.json)
-
-[Extended Data](ext_articles/a24caaa9.ext.json)
-
----
-
-### Two suspects arrested for murder
-
-*2024-08-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199773) · `si`
-
-Hanwella Police arrested two suspects linked to a murder case. A 47-year-old man from Hanguwannu was assaulted with sharp weapons, leading to his death. The suspects, including a 24-year-old from Dollawatta, were apprehended after the incident. Further investigation is ongoing.
-
-🟩
-
-Two suspects have been taken into custody by Hanwella Police yesterday (09).
-
-A person was assaulted by a sharp weapons at the Hanwella Police Division in Hanwella, Hanwella.
-
-The Hanwella police station has been arrested following the incident in the Hanwella police station and arrested one involved in the murder in Warakapola.
-
-The suspect is a 24 year old resident of the Dollawatta area and has been arrested by the other who supported the crime in further interrogation.
-
-The victim is 47 years old, a resident of the Hanguwannu area and the Hanwella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/458dfb85.json)
-
-[Extended Data](ext_articles/458dfb85.ext.json)
-
----
-
-### Unidentified body found in Kelani River
-
-*2024-08-10 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101125/unidentified-body-found-in-kelani-river) · `en`
-
-An unidentified male body has been found floating in the Kelani River near the old market in the Grandpass police division.
-
-The body has currently been placed in the mortuary of the Colombo National Hospital.
-
-The identity of the deceased is yet to be confirmed while he is believed to be between 45 to 50 years old, and approximately 5 feet and 6 inches tall, police said.
-
-◼️
-
-[Data](articles/ad258f8a.json)
-
-[Extended Data](ext_articles/ad258f8a.ext.json)
 
 ---

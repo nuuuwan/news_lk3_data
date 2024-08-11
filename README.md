@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 09:55:42**
+As of **2024-08-11 10:07:51**
 
 ## Newspaper Stats
 
-*Scraped **40,063** Articles*
+*Scraped **40,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
 adalk | 3,674
-adaderanalk | 4,659
+adaderanalk | 4,661
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,061
+tamilmirrorlk | 5,063
 virakesarilk | 6,347
 adaderanasinhalalk | 6,808
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 6,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,063 (100.0%) of 40,063 articles have been extended.
+40,063 (100.0%) of 40,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Sudarshani Fernandopulle to support Sajith at presidential poll
+
+*2024-08-11 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101141/sudarshani-fernandopulle-to-support-sajith-at-presidential-poll) · `en`
+
+SLPP MP Dr. Sudarshani Fernandopulle has decided to support ‘Samagi Jana Balawegaya’ (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/bb2e1b3d.json)
+
+---
+
+### இறந்த நிலையில் கரையொதிங்கிய நண்டுகள்...
+
+*2024-08-11 09:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறந்த-நிலையில்-கரையொதிங்கிய-நண்டுகள்/75-341940) · `ta`
+
+திருகோணமலை நகரில் உள்ள கடற்கரையில் சனிக்கிழமை (10) அதிகாலை முதல் ஆயிரக்கணக்கான சிறு சிவப்பு நிறத்திலான நண்டுகள் இறந்த நிலையில் கரையொதுங்கி உள்ளன.
+
+மேலும், கடற்கரையில் மூன்று தொடக்கம் 4 கிலோ மீட்டர் தூரம் வரை நண்டுகள் இறந்த நிலையில் கரை ஒதுங்கி உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c0521b20.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-08-11 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101140/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says atmospheric conditions are favorable for the development of evening thundershowers in the island during the next few days.
+
+Showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it said.
+
+Fairly heavy showers above 75 mm are likely at some places in Northern, North-central, Eastern and Uva provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/731887ae.json)
+
+---
+
+### காசாவில் பாடசாலை மீது  தாக்குதல்: 100-க்கும் மேற்பட்டோர் பலி
+
+*2024-08-11 09:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-100-க்கும்-மேற்பட்டோர்-பலி/50-341939) · `ta`
+
+காசாவில் அகதிகள் புகலிடத்தின் மீது இஸ்ரேல் தாக்குதல் நடத்தியதில் 100-க்கும் மேற்பட்ட மக்கள் பலியானதாக பாலஸ்தீன செய்தி ஊடகக் குறிப்பு தெரிவிக்கின்றது.
+
+கிழக்கு காசாவில் பாடசாலை ஒன்று அகதிகள் புகலிடமாக பயன்பட்டு வந்தது. இந்நிலையில் அங்கு மக்கள் தொழுகை நடத்திக் கொண்டிருந்தபோது தாக்குதல் நடத்தப்பட்டதாக ஹமாஸின் ஊடகப் பிரிவு தெரிவித்துள்ளது. ஹமாஸ் மருத்துவப் பிரிவு அறிக்கையில், “அகதிகளாக தங்கியிருந்த மக்கள் தொழுகையில் ஈடுபட்டிருந்தபோது இஸ்ரேல் நடத்திய தாக்குதலில் பலரும் உயிரிழந்தனர்” என்று குறிப்பிடப்பட்டுள்ளது.
+
+முன்னதாக கடந்த வாரம் காசாவில் 4 பாடசாலைகளை குறிவைத்து இஸ்ரேல் தாக்குதல் நடத்தியது. ஆகஸ்ட் 4 ஆம் திகதி இஸ்ரேலிய தாக்குதலில் அகதிகள் புகலிடமாக செயல்பட்ட 2 பள்ளிகள் தகர்க்கப்பட்டன. இதில் 30 பேர் பலியாகினர். பலர் காயமடைந்தனர். அதற்கு முந்தைய தினம் காசா நகரின் ஹமாமா பள்ளியில் நடந்த தாக்குதலில் 17 பேர் கொல்லப்பட்டனர்.
+
+...
+
+[Data](articles/176ad943.json)
+
+---
 
 ### The Israeli attack was the world
 
@@ -2223,93 +2285,5 @@ According to the United Nations, 477 out of 564 schools in Gaza have been direct
 [Data](articles/3ba3d0dd.json)
 
 [Extended Data](ext_articles/3ba3d0dd.ext.json)
-
----
-
-### Two arrested in connection with Hanwella murder
-
-*2024-08-10 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101127/two-arrested-in-connection-with-hanwella-murder) · `en`
-
-Hanwella Police have arrested two suspects wanted in connection with the stabbing to death of a man on the road to Kumari Ella Falls at Thummodara on August 6.
-
-Following an investigation into the incident by Hanwella Police, one suspect, a 24-year-old resident of Dolawatta, was apprehended in Warakapola yesterday.
-
-Further interrogation of the suspect has led to the arrest of a 47-year-old resident of Hewadunna, who is believed to have aided abetted in the crime.
-
-◼️
-
-[Data](articles/be44ab0b.json)
-
-[Extended Data](ext_articles/be44ab0b.ext.json)
-
----
-
-### Two Nepal citizens arrested for attacking Chinese citizens;The incident in the plaintiff!
-
-*2024-08-10 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190723) · `ta`
-
-Two Nepalese citizens were arrested after attacking and damaging property belonging to Chinese nationals in a hotel. The suspects were initially conversing with the victims before launching the assault. Police plan to present them in court.
-
-🟩
-
-Vatuwa police have arrested two Nepal citizens who attacked two Chinese citizens in a hotel and damaged the property.
-
-The two Nepal nationals who attacked the attack were talking to Chinese nationals and later carried out the attack and damaged the property, police said.
-
-Police have taken steps to bring the two arrested citizens to the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/b9e156ae.json)
-
-[Extended Data](ext_articles/b9e156ae.ext.json)
-
----
-
-### Corpse recovery from the Kelani River
-
-*2024-08-10 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190721) · `ta`
-
-An unidentified man's body was discovered near the Grandpass old market and is now at the Colombo National Hospital's funeral room. The victim, aged 45-50 and standing 5'6", remains unnamed.
-
-🟩
-
-The body of an unidentified man has been found near the old market of the Grandpass police division.
-
-The body of the recovered body is currently being kept in the funeral room of the Colombo National Hospital.The dead have not yet been identified.
-
-The deceased is 5 feet and 6 inches tall and is 45 to 50 years old, police said.
-
-◼️
-
-[Data](articles/f03d5596.json)
-
-[Extended Data](ext_articles/f03d5596.ext.json)
-
----
-
-### Why are Americans punished for using banned stimulants?
-
-*2024-08-10 10:55:16* · [`adalk`](https://www.ada.lk/opinion/තහනම්-උත්තේජක-භාවිත-කළ-බවට-ඔප්පු-වූ-ඇමෙරිකානු-ක්‍රීඩකයන්ට-දඩුවම්-නැත්තේ-ඇයි-/2-411285) · `si`
-
-Americans are penalized for using banned stimulants due to strict anti-doping regulations enforced by the U.S. Anti-Doping Agency (USADA) and the World Anti-Doping Agency (WADA). Despite allegations of delayed reporting and conflicts between USADA and WADA, athletes found guilty face sanctions. This controversy highlights the complexities of international sports governance and the challenges in ensuring fairness and integrity in competition.
-
-🟩
-
-Last day at the 2024 Ollingiic Festival of the 2024 Ollingiant is tomorrow in Paris, France. Accordingly, a battle is being implemented to bear the lead in the medalism.
-
-According to the latest medalist chart, the US won 111 medals with 39 silver medals and 39 bronze medals. China is also second in the overall medal stage, winning 33 gold medals, 27 silver medals and 23 bronze medals.
-
-However, with these unique talents in the Olympic Games, however, is being charged with the use of banned stimulants.
-
-However, it is revealed that the American media, the US-banned stimulation repression agencies have been able to compete with the number of women to conclude the banned stimulants (USADA).
-
-They also point out that there is a conflict throughout the last days between the world banned stimulation repressive agency (WADA) and the USADA in the United States.. The media, the head of USADA, is shy and shyly to the world by the media.
-
-...
-
-[Data](articles/f824b2be.json)
-
-[Extended Data](ext_articles/f824b2be.ext.json)
 
 ---

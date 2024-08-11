@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 17:36:48**
+As of **2024-08-11 17:56:57**
 
 ## Newspaper Stats
 
-*Scraped **40,125** Articles*
+*Scraped **40,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,78 @@ colombotelegraphcom | 378
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,681
+adalk | 3,682
 adaderanalk | 4,671
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
 virakesarilk | 6,357
-adaderanasinhalalk | 6,827
+adaderanasinhalalk | 6,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,121 (100.0%) of 40,125 articles have been extended.
+40,125 (100.0%) of 40,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### පැනගිය හසීනාගෙන් අමෙරිකාවට චෝදනාවක්
+### රොෂාන් රණසිංහ ත් ජනාධිපතිවරණයට
+
+*2024-08-11 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199825) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වන බව හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා පවසයි.
+
+ශ්‍රී ලංකා පදනම් ආයතනයේ පැවැත්වෙන උත්සවයක් අමතමින් ඔහු ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/e60aefd6.json)
+
+---
+
+### The escaped Hasin accused America
 
 *2024-08-11 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199824) · `si`
 
-තමා බලයෙන් පහ කිරීමේ කුමන්ත්‍රණය පිටුපස අමෙරිකාව සිටින බවට විරෝධතා හමුවේ ධුරයෙන් ඉල්ලා අස්වූ බංග්ලාදේශයේ හිටපු අග්‍රාමාත්‍ය ශෙයික් හසීනා පවසයි.
+Hasina, former PM of Bangladesh, accuses the US of interfering in her country's affairs, citing potential threats to its sovereignty. She warns against violence as she urges citizens not to retaliate against her resignation.
 
-බෙංගාල බොක්ක ආශ්‍රිත ප්‍රදේශයේ බලය තහවුරු කරගැනීම සඳහා ශාන්ත මාර්ටින් දූපත් ප්‍රදේශයේ ස්වෛරීත්වය අමෙරිකාවට ලබාදුන්නේ නම් තමන්ට තවදුරටත් ධුරයේ රැදී සිටීමට හැකියාව තිබූ බව ඇය සඳහන් කළාය.
+🟩
 
-බංග්ලාදේශයේ සිසුන් මූලික කරගත් විරෝධතා උත්සන්න වීම හමුවේ ධුරයෙන් ඉවත්ව ඉන්දියාවට පළායාමෙන් පසු පළමුවරට ඇය නිකුත් කළ නිවේදනයේ ඒ බව සඳහන් වන බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+Bangladesh, Prime Minister of Bangladesh, who resigned from the respiring of the US, says the US Prime Minister Shaikh Husanna.
 
-කෙසේවෙතත් රට තුළ උද්ගතවූ ප්‍රචණ්ඩත්වය තවදුරටත් වර්ධනයවීම වළක්වා ගැනීමට තම ඉල්ලා අස්වීම හේතුවූ බව පෙන්වා දී ඇති ශෙයික් හසීනා රැඩිකල්වාදීන්ට හසු නොවන ලෙස තමා බංග්ලාදේශ ජනතාවගෙන් ඉල්ලීමක් කරන බව ද සඳහන් කර තිබුණාය.
+She added that if the United States gave the US to the United States to ensure power in the Bay of Bay of Bay of Bay of Bay.
+
+Indian media reports that the first time has been released in the first time since the first time has fled the country after the escalation of the students' escalation of the students of Bangladesh.
+
+However, he said that he would ask the people of Bangladesh not to prosecute their resignation to prevent further violence in the country.
 
 ◼️
 
 [Data](articles/96f86405.json)
 
+[Extended Data](ext_articles/96f86405.ext.json)
+
 ---
 
-### வாக்களிக்க செல்லும்போது…
+### Going to vote…
 
 *2024-08-11 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190827) · `ta`
 
-ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியை தெரிவு செய்வதற்கான ஜனாதிபதி தேர்தல் வாக்கெடுப்பு செப்டம்பர் மாதம் 21 ஆம் திகதி நடைபெறவிருக்கிறது. தேர்தலுக்கான வேட்புமனு தாக்கல்கள் தேர்தல் ஆணைக்குழு அலுவலகத்தில் காலை 9 மணி முதல் 11 மணி வரை நடைபெறும்.  தொடர்ந்து தேர்தல் பிரசாரங்கள் மிகத் தீவிரமாக நடைபெறும்.  அரசியல் கட்சி பிரதிநிதிகள் வேட்பாளர்கள் தேர்தல் பிரசாரங்களில் தீவிரமாக ஈடுபடுவார்கள்.
+The upcoming presidential election on September 21st is crucial for selecting the country's ninth executive president. It's essential for citizens to participate, ensuring their voice is heard through their vote. Before voting, individuals must verify their eligibility on the Election Commission's website. On election day, voters should bring their voter card and a valid form of identification, such as a National Identity Card, passport, or service license. The voting process involves marking the preferred candidate's number on the ballot. If no candidate achieves a majority, a runoff may occur based on preferential voting. It's vital for voters to educate themselves on the candidates' policies and make informed decisions.
 
-அதன்படி, தற்போதே  தேர்தல் காலம் சூடு பிடிக்க ஆரம்பித்துவிட்டது.  கூட்டணி அமைக்கும் செயற்பாடுகள்,  முகாம்களை உருவாக்குதல்,  ஆதரவு தெரிவிக்கும் பிரச்சாரங்கள் என தேர்தல் களம் பரபரப்பாக மாறிக்கொண்டிருக்கிறது. தேர்தலை பொறுத்தவரை  மக்கள் தேர்தலில் வாக்களிக்க வேண்டும். இது மக்களின் ஜனநாயக உரிமை.  அந்த உரிமையை யாரும் விட்டுக் கொடுக்கக் கூடாது.  21 ஆம் திகதி   மக்கள் சென்று வாக்களிக்க  வேண்டும்.  போட்டியிடுகின்ற வேட்பாளர்களில் ஒருவரை தெரிவு செய்ய வேண்டும்.
+🟩
+
+The presidential election referendum to elect the ninth executive president will be held on September 21st. Nominations for the election will be held at the Election Commission office from 9 am to 11 pm.Following the election campaigns will take place very seriously.Political party representatives and candidates will be actively involved in election campaigns.
+
+Accordingly, the election period has already begun to heat up.The electoral field is becoming more and more of the coalition settings, the creation of camps and supporting campaigns. As far as the election is concerned, people should vote in the election. This is the democratic right of the people.No one should give up that right.People should go and vote on the 21st.One of the contesting candidates must be selected.
 
 ...
 
 [Data](articles/1c41800c.json)
+
+[Extended Data](ext_articles/1c41800c.ext.json)
 
 ---
 
@@ -81,6 +107,8 @@ Avishka Fernando, who struck 96 - the highest individual score of the ODI series
 ◼️
 
 [Data](articles/c46162c4.json)
+
+[Extended Data](ext_articles/c46162c4.ext.json)
 
 ---
 
@@ -201,6 +229,20 @@ Speaking at a media briefing in Colombo on Sunday (11), Nandana Ranasinghe, co -
 [Data](articles/a1c70189.json)
 
 [Extended Data](ext_articles/a1c70189.ext.json)
+
+---
+
+### කොළඹ වරායේ නෞකාවක් ගිනි ගැනීම ගැන පරීක්ෂනයක් ආරම්භ කිරීමට ඇමතිගෙන් උපදෙස්
+
+*2024-08-11 15:59:56* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-නෞකාවක්-ගිනි-ගැනීම-ගැන-පරීක්ෂනයක්-ආරම්භ-කිරීමට-ඇමතිගෙන්-උපදෙස්/11-411304) · `si`
+
+කොළඹ වරායේ නැංගුරම් ලා තිබූ නෞකාවක ඇතිවූ ගින්න සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ලෙස වරාය, නාවික හා ගුවන් සේවා  අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා වරාය අධිකාරියේ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+කොළඹ වරායේ නැංගුරම් දමා තිබූ අදාළ නැවේ අද (11දා) අළුයම හදිසි ගින්නක් ඇතිවී තිබූ අතර, වරායේ ගිනි නිවන අංශය විසින් එම ගින්න සාර්ථකව මැඩ පවත්තා තිබුණි.
+
+◼️
+
+[Data](articles/6df8da39.json)
 
 ---
 
@@ -853,6 +895,8 @@ Sri Lanka currently produces a total of about 5100 MW of power which 58% comes f
 ...
 
 [Data](articles/bf379e61.json)
+
+[Extended Data](ext_articles/bf379e61.ext.json)
 
 ---
 
@@ -2287,41 +2331,5 @@ Meanwhile, it is reported that the suspect arrested with the firearms, ammunitio
 [Data](articles/6ed1cc3c.json)
 
 [Extended Data](ext_articles/6ed1cc3c.ext.json)
-
----
-
-### Father, Father, Wijayamuni wins Vijayamuni Vijayamuni
-
-*2024-08-10 19:30:22* · [`adalk`](https://www.ada.lk/breaking_news/අප්පච්චි-මලෝ-කිව්ව-විජයමුණි-රනිල්ගේ-සහයට-එයි/11-411294) · `si`
-
-Former MP Vijith Wijayamuni Soyza will back Ranil Wickremesinghe in the upcoming presidential election.
-
-🟩
-
-Former MP Vijith Wijayamuni Soyza has decided to support Ranil Wickremesinghe at the next presidential election.
-
-◼️
-
-[Data](articles/59dec649.json)
-
-[Extended Data](ext_articles/59dec649.ext.json)
-
----
-
-### Prez Poll: SLPP faction backing Ranil poised to launch new party
-
-*2024-08-10 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101136/prez-poll-slpp-faction-backing-ranil-poised-to-launch-new-party) · `en`
-
-The group of Sri Lanka Podujana Peramuna (SLPP) members who decided to support incumbent President Ranil Wickremesinghe in the 2024 Presidential Election is scheduled to launch a new political party next week.
-
-MP Mahindananda Aluthgamage said that the necessary steps required for this purpose are currently underway.
-
-He made these remarks during a special meeting of the “Forum of Former Local Government Heads”, today (10).
-
-◼️
-
-[Data](articles/639f4038.json)
-
-[Extended Data](ext_articles/639f4038.ext.json)
 
 ---

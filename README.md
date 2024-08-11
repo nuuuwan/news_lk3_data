@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 16:52:48**
+As of **2024-08-11 17:06:12**
 
 ## Newspaper Stats
 
-*Scraped **40,119** Articles*
+*Scraped **40,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ adaderanalk | 4,670
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
 virakesarilk | 6,356
-adaderanasinhalalk | 6,824
+adaderanasinhalalk | 6,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,117 (100.0%) of 40,119 articles have been extended.
+40,119 (100.0%) of 40,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ඉරානය ට්‍රම්ප් ට රිද්දයි
+### දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් අනතුරු ඇඟවීමක්
+
+*2024-08-11 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199822) · `si`
+
+දේශීය ආදායම් නිලධාරින් ‍ලෙස පෙනී සිටිමින් ඇතැම් පුද්ගල කණ්ඩායමක් ව්‍යාපාරිකයින් වෙත ගොස් මුදල් රැස්කරන බවට වාර්තා වී ඇති බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.
+
+එලෙස මුදල් එකතු කිරීමට පැමිණෙන පුද්ගලයින්ට මුදල් දීමෙන් වළකින ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+එවැනි පුද්ගලයින් නීතියේ රැහැනට හසුකර ගැනීම සඳහා අදාළ සිද්ධීන් පිළිබඳව නීතිමය පියවර ගන්නා ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් ශ්‍රී ලංකා පොලීසිය වෙත පැමිණිලි කර ඇත.
+
+නිවේදනයක් නිකුත් කරමින් දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා පවසා ඇත්තේ එලෙස අයකරනු ලබන කිසිදු මුදලකට තමන් විසින් වග නොකියක බවයි.
+
+දේශීය ආදායම් කොමසාරිස් ජනරාල් මගින් පරිපාලනය කරන සියලුම බදු වර්ගයන්ට අදාළව හිඟ බදු අයකිරීමේ කටයුතු නිසි පරිදි ලිඛිතව දැනුම් දී නීත්‍යානුකූලව පමණක් සිදු කරන බව සියලුම බදු ‍ගෙවන්නන් වෙත ඔහු දැනුම් දී තිබේ.
+
+...
+
+[Data](articles/e3df5f48.json)
+
+---
+
+### Iran hurt Trumps
 
 *2024-08-11 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199821) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ගේ ජනාධිපතිවරණ ව්‍යාපාරයට සම්බන්ධ අභ්‍යන්තරව හුවමාරු වූ තොරතුරු ඉරාන හැකර්වරුන් විසින් ලබාගෙන ඇති බව වාර්තා වෙයි.
+Iranian hackers reportedly accessed internal data on former U.S. President Donald Trump's campaign and VP candidate Mike Pence, potentially aiming to interfere in future elections. The news broke via Politico, highlighting concerns over cyber threats to political campaigns.
 
-අමෙරිකානු ප්‍රවෘත්ති වෙබ් අඩවියක් වන පොලිටිකෝ ඒ සම්බන්ධයෙන් තොරතුරු හෙළිදරව් කර තිබුණි.
+🟩
 
-එහි දැක්වෙන්නේ ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණයට සම්බන්ධ ලිපි ලේඛන මෙන්ම උප ජනාධිපති අපේක්ෂක ජේ ඩි වෑන්ස් සිදුකළ ගවේෂණයක තොරතුරු විද්‍යුත් තැපෑලෙන් ඔවුන්ට ලැබී ඇති බවයි.
+It is reported that Iranian havaries have obtained internally exchanged information about former American President Donald Trump's campaign.
 
-එළඹෙන ජනාධිපතිවරණය ට මැදිහත්වීමේ අදහසින් එම තොරතුරු හැක් කර ලබාගන්නට ඇතැයි සැලකෙයි.
+An American News website Politico had revealed information about it.
+
+It emphasizes that they have received information on the quest of Examinations of Trump's election propaganda as well as the Vice Presidential candidate JV vans.
+
+It is thought that the information was to be hacked to intervene in the coming presidential election.
 
 ◼️
 
 [Data](articles/7b3f5332.json)
+
+[Extended Data](ext_articles/7b3f5332.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Based on the relevant information, police had searched the two-story house which
 ...
 
 [Data](articles/7c24e5eb.json)
+
+[Extended Data](ext_articles/7c24e5eb.ext.json)
 
 ---
 
@@ -2291,27 +2319,5 @@ The cause of the death is yet to be revealed, while police are conducting furthe
 [Data](articles/f15ecbd6.json)
 
 [Extended Data](ext_articles/f15ecbd6.ext.json)
-
----
-
-### The accident that lost two lives
-
-*2024-08-10 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199790) · `si`
-
-In Hatton Nalluthaniya, a fatal car crash involving a three-wheeler and a cab resulted in two deaths. Two others were hospitalized at Maskeliya Hospital.
-
-🟩
-
-Two persons were killed in a car accident in Hatton Nalluthaniya area.
-
-The accident had occurred when a three-wheeler and a cab collided with a cab.
-
-Two more people were admitted to the Maskeliya Hospital in the accident, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/27d667d8.json)
-
-[Extended Data](ext_articles/27d667d8.ext.json)
 
 ---

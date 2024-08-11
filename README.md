@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 12:53:33**
+As of **2024-08-11 13:06:04**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,089 (100.0%) of 40,090 articles have been extended.
+40,090 (100.0%) of 40,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ග්‍රාම සේවකයින් දැඩි තීරණයක් ගනියි
+### Grama Niladhari makes a hard decision
 
 *2024-08-11 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199811) · `si`
 
-ඔවුන් පවසන්නේ අගොස්තු 12 සහ 13 යන දිනයන්වල සේවයෙන් ඉවත් වීමට ද කටයුතු කරන බවයි.
+Grama Niladhari staff face dismissal on August 12 and 13. The UPFA Alliance holds a media briefing, led by Nandana Ranasinghe.
 
-ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානයේ සම සභාපති නන්දන රණසිංහ මාධ්‍ය හමුවක් පවත්වමින් මේ බව පැවසීය.
+🟩
+
+They say that they will be dismissed on 12th and 13 August 12 and 13.
+
+The Alliance of UPFA holding a media briefing of the UPFA, Nandana Ranasinghe, holding a press conference.
 
 ◼️
 
 [Data](articles/598f614c.json)
+
+[Extended Data](ext_articles/598f614c.ext.json)
 
 ---
 

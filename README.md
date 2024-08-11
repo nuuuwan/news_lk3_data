@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 21:21:04**
+As of **2024-08-11 21:36:25**
 
 ## Newspaper Stats
 
-*Scraped **40,140** Articles*
+*Scraped **40,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,78 @@ adalk | 3,684
 adaderanalk | 4,674
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
-virakesarilk | 6,357
+virakesarilk | 6,367
 adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,139 (100.0%) of 40,140 articles have been extended.
+40,140 (100.0%) of 40,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### රාජසන්තක වෙන ඇප මුදල්
+### Contested
 
 *2024-08-11 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199829) · `si`
 
-2024 ජනාධිපතිවරණයට අදාළව මේ දක්වා ඇප මුදල් තැන්පත් කර ඇති අපේක්ෂකයින් සංඛ්‍යාව 29කි.
+29 candidates have deposited for the 2024 presidential election, with deposits closing on April 14th at 12 noon. The Electoral Commission warns that more candidates could increase electoral costs. In 1994, the highest third-party voter turnout was 4.08%, while in 2000, JVP candidate Nandana Gunatilake achieved notable votes. The two main candidates in 2019 secured 2.5% of the votes, highlighting challenges for smaller candidates to achieve a significant voice.
 
-අපේක්ෂකයන් වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම ලබන බදාදා (14) දහවල් 12ට අවසන් වීමට නියමිතය.
+🟩
 
-මැතිවරණ කොමිසම පවසන්නේ ඉදිරිපත්වන අපේක්ෂකයින් සංඛ්‍යාව තවදුරටත් ඉහළ යන්නේනම් මෙවර මැතිවරණය සඳහා වැයවන මූදලද ඉහළ යනු ඇති බවය.
+The number of candidates have deposited 29 candidates who have deposited on the 2024 presidential election.
 
-1994 වසරේ සිට මේ දක්වා පැවති ජනාධිපතිවරණ ඡන්ද විමසීම්වලදී ප්‍රධාන අපේක්ෂකයින් දෙදෙනා හැර සෙසු අපේක්ෂකයෙකු ලබාගෙන ඇති ඉහළම ඡන්ද ප්‍රතිශතය සියයට 4.08කි.
+Deposits for candidates will be completed on Wednesday (14) at 12 noon.
 
-ඒ 2000 වසරේ පැවති ජනාධිපතිවරණයේදී ජනතා විමුක්ති පෙරමුණේ අපේක්ෂක නන්දන ගුණතිලක මහතා විසින් ලබාගත් ඡන්ද ප්‍රතිශතයයි.
+The Electoral Commission says that if the number of candidates will continue, the cost of the electorate will increase.
 
-ආසන්නතම ජනාධිපතිවරණය වන 2019 වසරේ ප්‍රධාන අපේක්ෂකයින් දෙදෙනාට අමතරව අතිරේක අපේක්ෂකයින් 33 දෙනාටම ලබාගත හැකිවූයේ  2.5%ක ඡන්ද ප්‍රතිශතයක් පමණී.
+In 1994, the highest percentage of voter turnout other than the two main candidates has been paid 4.08 percent.
 
-ඒ අනුව 2%ක වත් ඡන්ද ප්‍රතිශතයක් ලබා ගත නොහැකි ඉතිරි අපේක්ෂකයින් සියලුදෙනාගේම ඇප මුදල් සියල්ල රාජසන්තක වන බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැහැදිලි කළේය.
+The voting percentage of the JVP candidate Nandana Gunatilake acquired at the Presidential Election of 2000.
+
+The two main candidates in the year 2019, the two main candidates were able to obtain 2.5% of the votes.
+
+The Executive Director of PAFFREL Rohana Hettiarachchi explained that all the remaining candidates cannot afford a 2% vocal vote.
 
 ◼️
 
 [Data](articles/771ed21d.json)
+
+[Extended Data](ext_articles/771ed21d.ext.json)
+
+---
+
+### தனிப்பட்ட காரணங்களுக்காக தேர்தலில் போட்டியிட முன்வரும் வேட்பாளர்களை தவிர்க்க வேண்டும் -     பெப்ரல்
+
+*2024-08-11 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190830) · `ta`
+
+தனிப்பட்ட நோக்கங்களை அடிப்படையாகக்கொண்டு ஜனாதிபதி தேர்தலில் போட்டியிட முன்வரும் வேட்பாளர்களை தவிர்க்க வேண்டும். இந்த செயல் ஜனநாயகம் மற்றும் சுதந்திரத்தை துஷ்பிரயோகம் செய்யும் நடவடிக்கையாகும் என பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலில் சிலர் பல்வேறு தனிப்பட்ட காரணங்களின் அடிப்படையில் வேட்பாளராக களமிறங்க நாளாந்தம் முன்வருவதை காணக்கூடியதாக இருக்கிறது.இது நாட்டின் ஜனநாயகம் மற்றும் சுதந்திர்ததை துஷ்பிரயோகம் செய்யும் நடவடிக்கையாகவே இதனை நாங்கள் காண்கிறோம். வேட்பாளர்களின் எண்ணிக்கை எதிர்வரும் தினங்களில் மேலும் அதிகரிக்கலாம் என்றே நாங்கள் நினைக்கிறோம்.
+
+...
+
+[Data](articles/779c50bd.json)
+
+---
+
+### இணைந்த வடகிழக்கில் சமஸ்டி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறையை வழங்குபவர்களுக்கு ஆதரவு;  சிங்கள மக்களுக்கும் அதனை அறிவிக்க வேண்டும் - தமிழரசுக்கட்சி தெரிவிப்பு
+
+*2024-08-11 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190843) · `ta`
+
+வடக்கு கிழக்கில் சமஸ்டி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறையை வழங்க தயாராக உள்ள ஜனாதிபதி வேட்பாளர் அந்த நிலைப்பாட்டை தேர்தல் விஞ்ஞாபனத்திலும் சிங்கள மக்களுக்கும் வெளிப்படுத்த தயாராக இருந்தால் அவருக்கு ஆதரவு வழங்குவது தொடர்பில் தீர்மானிப்போம் என தமிழரசுக்கட்சி கலந்துரையாடியுள்ளதாக கட்சயின் ஊடக பேச்சாளரும் பாராளுமன்ற உறுப்பினருமான எம். ஏ. சுமந்திரன் தெரிவித்தார்.
+
+இன்று  தமிழரசுக்கட்சியின் வவுனியா அலுவலகமான தாயகத்தில் கட்சியின் மத்திய குழு கூட்டம் இடம்பெற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார், தொடர்ந்தும் கருத்து தெரிவித்த அவர்,
+
+தமிழ் மக்கள் சார்பாக தமிழ் மக்களின் பிரதான அரசியல் கட்சியான தமிழரசுக்கட்சியினுடைய  நிலைப்பாடானது இணைந்த வடகிழக்கிலே சமஸ்தி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறை ஏற்படுத்தப்படுவதாகும்.
+
+இதுவே எங்களுடைய அரசியல் நிலைப்பாடு.  இதற்கு ஜனாதிபதி வேட்பாளர்கள் யாராவது இணங்கி வந்தால் அவர்களுக்கு ஆதரவு அளிக்கலாம் என்ற கருத்தும் கூட்டத்திலே சொல்லப்பட்டிருக்கிறது. எனினும் இது தொடர்பில் தீர்மானம் எதுவும் எடுக்கவில்லை.
+
+...
+
+[Data](articles/5a21d8e4.json)
 
 ---
 
@@ -107,6 +145,22 @@ We are going to see what the news is that we are telling the presidential candid
 [Data](articles/3ee22d5d.json)
 
 [Extended Data](ext_articles/3ee22d5d.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலுக்காக ஒதுக்கப்பட்ட பணத்தை வழங்கத் தயார் - நிதி இராஜாங்க அமைச்சர்
+
+*2024-08-11 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190842) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்காக ஒதுக்கப்பட்ட பணத்தை வழங்கத் தயார் என நிதி இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலுக்கான மதிப்பிடப்பட்ட தொகையை வழங்கத் தயார் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+எட்டியந்தோட்டையில் 11ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற நிகழ்ச்சியொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f3e8dcb8.json)
 
 ---
 
@@ -202,6 +256,24 @@ SiFAN won the copper medals from 10,000 and 5,000m events in this year's Olympic
 
 ---
 
+### இந்திய மீன்பிடி படகு மூலம் வென்னப்புவ கடற்கரைக்கு சட்டவிரோதமாக வருகை தந்த இலங்கையர் கைது!
+
+*2024-08-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190834) · `ta`
+
+இந்திய மீன்பிடி படகு மூலம் வென்னப்புவ கடற்கரைக்கு சட்டவிரோதமாக வருகை தந்த இலங்கையை சேர்ந்த நபரொருவர் கைது செய்யப்பட்டுள்ளளார்.
+
+இலங்கை கடற்படை மற்றும் பொலிஸார் ஒருங்கிணைந்து மேற்கொண்ட நடவடிக்கையின் மூலம் இவர் கைது செய்யப்பட்டுள்ளார்.
+
+இந்த நபர் 2021ஆம் ஆண்டு இந்தியாவில் போதைப்பொருள் கடத்தலில் ஈடுபட்டமைக்காக கைது செய்யப்பட்டவர் என விசாரணையில் தெரியவந்துள்ளது.
+
+மேலும், இந்த சம்பவம் தொடர்பாக வென்னப்புவ பொலிஸார் மேலதிக விசாரணைகளில் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/bcc7a0c9.json)
+
+---
+
 ### Roshan Ranasinghe is also in the presidential
 
 *2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-ஜனாதிபதி-களத்தில்/175-341975) · `ta`
@@ -242,6 +314,66 @@ He said this while addressing an event under the Sri Lanka Foundation.
 
 ---
 
+### இருமுனைச் சவால்கள்
+
+*2024-08-11 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190825) · `ta`
+
+பங்களாதேஷில் அடுத்து அமையப் போகும் அரசாங்கம் எப்படிப்பட்டது, அது எந்தளவுக்கு உறுதியானதாக இருக்கும், அதன் வெளிநாட்டுக் கொள்கை மற்றும் அயல்பாரான இந்தியாவுடனான உறவுகள் எப்படிப்பட்டதாக இருக்கும், சீனாவை எப்படிக் கையாளப் போகிறது போன்ற பல்வேறு கவலைகள் புதுடில்லிக்குத் தோன்றியிருக்கிறது.
+
+◼️
+
+[Data](articles/5133e8a6.json)
+
+---
+
+### இராணுவ சதி உண்மையா?
+
+*2024-08-11 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190822) · `ta`
+
+‘அரகலய’ போராட்டம் தொடங்கிய காலகட்டத்தில், கோட்டாபய ராஜபக்ஷவின் மீரிஹான இல்லம், ஆர்ப்பாட்டக்காரர்களால் சுற்றிவளைக்கப்பட்டது. அந்த கட்டத்தில்,  ஜனாதிபதியாக இருந்த கோட்டாபய ராஜபக்ஷ தன்னை அழைத்து,  தனது இல்லத்துக்கான பாதுகாப்பை அதிகரிக்குமாறு  இராணுவத் தளபதி சவேந்திரா சில்வாவிடம் கூறும்படி கேட்டுக் கொண்டார் என்றும் மதுர விதானகே கூறியிருக்கிறார்.
+
+◼️
+
+[Data](articles/bad168b1.json)
+
+---
+
+### பங்களாதேஷில் ஜனநாயக எழுச்சி
+
+*2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190815) · `ta`
+
+பங்களாதேஷில் தற்காலிகமாக ஆட்சிப் பொறுப்பை ஏற்றுள்ள இராணுவம், அந்த நாட்டில் மாணவர்கள் மேற்கொண்ட போராட்டக் காலகட்டத்தில் இடம்பெற்ற கொலைகளை முழுமையான விசாரணைக்கு உட்படுத்தி குற்றவாளிகளைத் தண்டிக்கப் போவதாக அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/199699a6.json)
+
+---
+
+### அரசியல் கூட்டுக்கான உடன்படிக்கைகள் -  முஸ்லிம்களை ஏமாற்றுவதற்கான யுக்தி
+
+*2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190819) · `ta`
+
+தேசிய காங்கிரஸின் தலைவர் ஏ.எல்.எம்.அதாவுல்லாஹ் சுயேட்சையாக போட்டியிடுகின்ற ரணில் விக்கிரமசிங்கவுக்கு தமது ஆதரவைத் தெரிவித்துள்ளார். மறுபுறத்தில் எதிர்பார்க்கப்பட்டதைப் போன்று முஸ்லிம் காங்கிரஸின் ஆதரவு சஜித் பிரேமதாஸாவுக்கு வழங்கப்பட்டுள்ளது. அதற்கான தீர்மானம் முஸ்லிம் காங்கிரஸின் உயர்பீடத்தில் எடுக்கப்பட்டுள்ளது. எனினும் அக்கட்சியின் பாராளுமன்ற உறுப்பினர்கள் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்கும் நிலைப்பாட்டைக் கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c06a5eef.json)
+
+---
+
+### எப்படி இந்த ஒற்றுமை?
+
+*2024-08-11 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190813) · `ta`
+
+1971 ஆம் ஆண்டு சுதந்திர போராட்டத்தில் உயர்நீத்தவர்களின் குடும்பங்களுக்கு அரசு வேலை வாய்ப்புகளில் 30 சதவீத இட ஒதுக்கீட்டை வழங்குவதற்கு முன்வந்தது, அந்த நாட்டின் இளைஞர்கள் மற்றும் மாணவர்கள் மத்தியில் வெறுப்பையும் விரக்தியையும் ஏற்படுத்தியது. கடந்த 15 ஆண்டுகளில் பங்களாதேஷ்  வளர்ச்சி அடைந்திருப்பதற்கும்,  வறுமை நிலையிலிருந்து மீண்டிருப்பதற்கும்,  இலங்கைக்கு கடன் கொடுக்கும் அளவுக்கு பொருளாதார ரீதியாக வளர்ச்சி பெற்றதற்கும் காரணமாக இருந்தவர்  ஷேக் ஹசீனா.
+
+◼️
+
+[Data](articles/32cdd60d.json)
+
+---
+
 ### Roshan Ranasinghe to also contest presidential candidacy
 
 *2024-08-11 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101154/roshan-ranasinghe-to-also-contest-presidential-candidacy) · `en`
@@ -275,6 +407,18 @@ Southern 25-night Southern Region is due to Changha at the Sri Dalada Maligarahe
 [Data](articles/e04cbf8a.json)
 
 [Extended Data](ext_articles/e04cbf8a.ext.json)
+
+---
+
+### சவாலை எதிர்கொள்ள தயாரா?
+
+*2024-08-11 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190836) · `ta`
+
+தமிழ் பொது வேட்பாளரை நிறுத்துவதை விட, அவரை ஏன் நிறுத்துகிறோம் என்பதை தெளிவுபடுத்துவது  முக்கியமானது.  அந்த விடயத்தில் தமிழ் பொது வேட்பாளரை நிறுத்தும் தரப்புகள் சரியாகப் பணியாற்றவில்லை.
+
+◼️
+
+[Data](articles/770c084c.json)
 
 ---
 
@@ -2123,237 +2267,5 @@ The challenges are multifaceted and impact every aspect of bus travel. Boarding 
 [Data](articles/d4839ecc.json)
 
 [Extended Data](ext_articles/d4839ecc.ext.json)
-
----
-
-### Palani Thikambaram challenges President
-
-*2024-08-11 00:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சவால்-விடுக்கின்றார்-பழனி-திகாம்பரம்/175-341932) · `ta`
-
-Palani Thikambaram, head of the National Union of Workers and MP, announced his party's support for Sajith Premadasa in the upcoming election. He criticized President Ranil Wickremesinghe and Manusha for failing to fulfill their promise of daily wages of Rs 1,700 for plantation workers, labeling them as liars. Thikambaram expressed his intent to challenge the President for the votes of the hill country residents.
-
-🟩
-
-President Ranil Wickremesinghe will respond to the upcoming election, said Palani Thikambaram, president of the National Union of Workers and Member of Parliament.
-
-He was speaking at a press conference held in Hatton yesterday (10).
-
-In the presidential election, the Workers' Union and the National Front have decided to support Sajith Premadasa.
-
-The president and the Manusha said that the plantation workers would be paid Rs 1,700 as a day -to -day.. They have made false promises regarding the pain.
-
-However, that pain is not yet available. It is certain that they are both liars.
-
-Palani Thikambaram has said that if possible, I will challenge the President to get the votes of the people of the hill country.. Remble
-
-◼️
-
-[Data](articles/c963dede.json)
-
-[Extended Data](ext_articles/c963dede.ext.json)
-
----
-
-### Amana Takaful wins ‘Mobile App of the Year – Sri Lanka’ at Insurance Asia Awards 2024
-
-*2024-08-11 00:20:00* · [`islandlk`](http://island.lk/amana-takaful-wins-mobile-app-of-the-year-sri-lanka-at-insurance-asia-awards-2024/) · `en`
-
-Amana Takaful Insurance has received the prestigious title of ‘Mobile App of the Year – Sri Lanka’ at the Insurance Asia Awards 2024. This honor highlights the company’s commitment to leveraging cutting-edge technology to enhance customer experiences.
-
-The awards ceremony, held on July 9 at Marina Bay Sands in Singapore, celebrated top insurance companies from the region for their innovative contributions and industry leadership.
-
-This accolade underscores Amana Takaful’s groundbreaking insurance app, launched as part of its digital transformation strategy. The app reflects the company’s dedication to providing a seamless, user-centric experience, further cementing its leadership in the insurance sector.
-
-...
-
-[Data](articles/ae80ec08.json)
-
-[Extended Data](ext_articles/ae80ec08.ext.json)
-
----
-
-### 2024-08-10 (Saturday)
-
-### Unveiling the Code of Life: A Look into Genetics
-
-*2024-08-10 23:48:00* · [`islandlk`](http://island.lk/unveiling-the-code-of-life-a-look-into-genetics/) · `en`
-
-Genetics, a captivating branch of biology, delves into the core of what defines us. It explores genes, the microscopic instructions encoded in our DNA, and how these instructions are transmitted from parent to offspring. Beyond inheritance, genetics examines the symphony of genes, their variations, and their interplay with the environment, shaping everything from our physical traits to our susceptibility to diseases.
-
-The story of genetics begins with Gregor Mendel, a 19th-century monk who experimented with pea plants. Through careful observation and breeding experiments, Mendel uncovered the fundamental principles of heredity, now known as Mendelian genetics. He proposed that traits are inherited through discrete units, later called genes, which are passed from parents to offspring in predictable patterns. This groundbreaking work laid the foundation for modern genetics.
-
-...
-
-[Data](articles/d2607f16.json)
-
-[Extended Data](ext_articles/d2607f16.ext.json)
-
----
-
-### When Engineering Meets Marxism: Remembering Bahu & Chris Rodrigo
-
-*2024-08-10 22:50:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-engineering-meets-marxism-remembering-bahu-chris-rodrigo/) · `en`
-
-“Nature builds no machines,” wrote Marx in a famous passage in the Grundrisse. They are “products of human industry; natural material transformed into organs of the human will over nature, or of human participation in nature.” Fundamentally, Marxism is the (socialist) theory and practice of industrial societies. Marx’s insights on the logic of automation is now drawing the attention of technology watchers who are both excited and concerned by the current phenomenon of Artificial Intelligence (AI). In the complex environment of human labour, labour-created, labour-saving and labour-replacing machinery and automation, and the mostly uneven industrial society at large, engineering education and research are a critical medium providing training to human resources and technical mastery over material resources.
-
-...
-
-[Data](articles/51893262.json)
-
-[Extended Data](ext_articles/51893262.ext.json)
-
----
-
-### Colombo underworld in Colombo underworld found in Rajagiriya
-
-*2024-08-10 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199797) · `si`
-
-In Rajagiriya, a raid led by the Police Narcotics Bureau uncovered a significant cache of weapons, including over 300 pieces of T56 ammunition and a micro pistol, in a residence linked to an ex-Army and Air Force member. The discovery was made after arresting seven suspects, including two former military personnel, in the Makola area. These arrests followed an investigation into organized crime, suggesting the involvement of foreign criminals operating in Colombo.
-
-🟩
-
-Officers of the Police Narcotics Bureau were discovered in a raid on a house in Rajagiriya.
-
-It was based on the interrogation of the suspects arrested in the Makola area.
-
-Seven suspects were arrested by the Police Narurerard Bureau recently in the Makola.
-
-Among the arrested suspects were two persons who had left the service from the Army and the Air Force.
-
-A house in Rajagiriya was tested on the facts revealed by the suspects.
-
-In the resident of the Director of the Police Narcotics Bureau, more than 300 T56 ammunition 9 mm, including a micro pistol, were recovered.
-
-The police suspect that the house belongs to an organized criminal in a foreign country and the police have been using those weapons in Colombo.
-
-◼️
-
-[Data](articles/e91b87aa.json)
-
-[Extended Data](ext_articles/e91b87aa.ext.json)
-
----
-
-### Sri Lanka reaches more than half of 2024 tourist arrivals target
-
-*2024-08-10 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101139/sri-lanka-reaches-more-than-half-of-2024-tourist-arrivals-target) · `en`
-
-Sri Lanka has welcomed 26,889 tourists in the first four days of the month of August, according to the latest data issued by the Sri Lanka Tourism Development Authority (SLTDA).
-
-Indians have topped the list, with 3,922 tourist arrivals recorded within the first four days of August, making up 14.6% of the total arrivals.
-
-The United Kingdom claimed the second spot with a record of 3,350 tourist arrivals, corresponding to 12.5% of the total arrivals from August 01 to 04.
-
-A Significant number of tourist arrivals have also been reported from China, France, Germany, Italy and the Netherlands.
-
-From January 01 to August 04, Sri Lanka welcomed a total of 1,224,948 tourists, already reaching the halfway point of the country’s tourism sector target of 2.3 million tourist visits this year.
-
-◼️
-
-[Data](articles/87da69ea.json)
-
-[Extended Data](ext_articles/87da69ea.ext.json)
-
----
-
-### Survey of elephants in Sri Lanka
-
-*2024-08-10 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199796) · `si`
-
-Sri Lanka's Wildlife Conservation Department plans a nationwide elephant survey across 3,130 centers over 17 days. The effort involves staff from various government agencies, including Wildlife Conservation Officers and security personnel, aiming to predict elephant locations based on collected data.
-
-🟩
-
-The Wildlife Conservation Department says that it is planned to conduct a island-wide elephant survey.
-
-The survey is to be conducted in 3,130 survey centers from the next 17 days.
-
-The staff of the Department of Wildlife Conservation will be conducted by the Department of Wildlife Conservation, which is expected to join the Wildlife Conservation Officers including other government agencies, security personnel.. G. C. Said Suriyabandara.
-
-The Director General of the Wildlife Conservation Department (Wildlife Conservation Department) has taken steps to predict the presence of elephants in Sri Lanka on the data obtained.
-
-◼️
-
-[Data](articles/6e9ff7ab.json)
-
-[Extended Data](ext_articles/6e9ff7ab.ext.json)
-
----
-
-### Sri Lanka’s official poverty line rises threefold within a decade - Report
-
-*2024-08-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101138/sri-lankas-official-poverty-line-rises-threefold-within-a-decade-report) · `en`
-
-Sri Lanka’s official poverty line has witnessed a sharp threefold rise within the span of just over a decade, a recent report by the Department of Census and Statistics revealed.
-
-The relevant report revealed that the poverty line has risen from Rs 5,223 in 2012 and 2013 to a whopping Rs 17,014 by January this year.
-
-In 2016 the Poverty Line increased to Rs 6,117 from the Rs 5,223 recorded in 2013. Later, the poverty line increased to Rs 6,966 in 2019.
-
-However, with the economic crisis in 2022 wreaking economic and social havoc, inflation skyrocketed pushing the poverty line to a twofold increase, reaching Rs 15,970, as per the report.
-
-According to the report, Colombo reported the highest poverty line, ranking with Rs 17608 in May, dropping from Rs 18350 in January.
-
-The Colombo district claimed the top spot in the district-wise comparison of the poverty lines, with a poverty line of Rs 17,608 being recorded in May this year down from a staggering Rs 18,350 recorded earlier in January.
-
-...
-
-[Data](articles/5ad8747c.json)
-
-[Extended Data](ext_articles/5ad8747c.ext.json)
-
----
-
-### The final minutes of Sheikh Hasina as a hateful authority ..........
-
-*2024-08-10 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190755) · `ta`
-
-In the face of escalating protests and violence, Sheikh Hasina, the Bangladeshi prime minister, faced a tumultuous end to her tenure. Despite calls for peace and attempts to negotiate with security forces and military officials, the situation spiraled out of control. Faced with overwhelming public opposition and internal conflicts within the government, Hasina eventually decided to flee her official residence. This decision came after a series of events including violent clashes, rising death tolls, and a failed attempt to secure her safety. Ultimately, the pressure from both the public and the military proved too great, leading to Hasina's departure from Bangladesh.
-
-🟩
-
-Sheikh Hasina called on the security forces to end the violence in Bangladesh on Sunday, and she was not in the process of accepting that his time was over as prime minister.
-
-But in the next few hours he was beaten by the power of the people.
-
-His son told the BBC that his family's consultation had left him out of Bangladesh rather than the security forces in the end.
-
-Hasina made the decision to leave at the right moment-he fled and entered his official residence in a few hours.
-
-Sheikh Sina was invited to a meeting of the National Security Council on Sunday morning.
-
-The meeting took place in a situation where protests against the prime minister have been on the rise as protests have taken place over the country for several weeks.
-
-On Sunday alone, more than 90 people lost their lives. Many people were shot dead by security forces.
-
-The BBC's Bengal service has received information that Hasina presented two solutions during a meeting with security officials.
-
-...
-
-[Data](articles/4e2efc3f.json)
-
-[Extended Data](ext_articles/4e2efc3f.ext.json)
-
----
-
-### The electorate's election manifesto 26
-
-*2024-08-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199795) · `si`
-
-Anura Kumara Dissanayake announced the release of the election manifesto on the 26th during a rally in Embilipitiya, aiming to boost national popularity.
-
-🟩
-
-Leader of Anura Kumara Dissanayake says that the election manifesto arrive on the 26th.
-
-He was speaking at a rally in the rally in Embilipitiya this afternoon.
-
-A rally in the national popularity was held at Embilipitiya at Embilipitiya at Embilipitiya this afternoon.
-
-◼️
-
-[Data](articles/44f20d1a.json)
-
-[Extended Data](ext_articles/44f20d1a.ext.json)
 
 ---

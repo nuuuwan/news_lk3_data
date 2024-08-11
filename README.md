@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 01:06:46**
+As of **2024-08-12 01:21:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,165 (100.0%) of 40,172 articles have been extended.
+40,170 (100.0%) of 40,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ’ரணில் ராஜபக்ஷ துண்டு நீங்கி சஜித் ராஜபக்ஷ ஆகிவிட்டது’
+### Sajith Rajapaksa has become Rajapaksa's strip of Ranil
 
 *2024-08-12 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ராஜபக்ஷ-துண்டு-நீங்கி-சஜித்-ராஜபக்ஷ-ஆகிவிட்டது/175-341990) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டத்தில் உள்ள அனைத்து தொகுதிளையும் உள்ளடக்கிய வகையில் ஜனாதிபதி தேர்தல் கூட்டு நடவடிக்கை குழுக்கள் நியமிக்கப்படவுள்ளன.
+Joint committees covering all Gampaha districts' constituencies have been appointed to bolster President Ranil Wickremesinghe's campaign, involving various parties. These committees, established by Minister Prasanna Ranatunga and Gampaha district MPs, will focus on home-to-home visits, agent appointments at polling stations, and organizing campaigns. This marks a significant step in uniting different factions for the president's success, emphasizing a new political culture beyond party symbols.
 
-அமைச்சர் பிரசன்ன ரணதுங்க மற்றும் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர்களின் தலைமையில் சனிக்கிழமையும் (10) ஞாயிற்றுக்கிழமையும் (11) இந்தக் குழுக்கள் நியமிக்கப்பட்டன.
+🟩
 
-இந்தக் குழுக்களை ஸ்தாபிப்பதில், ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி, பொதுஜன ஐக்கிய முன்னணி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட ஜனாதிபதிக்கு ஆதரவான அனைத்துக் கட்சிகளின் பிரதிநிதிகளும் இந்தக் கூட்டமைப்பில் உள்ளடங்குகின்றது.
+The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
 
-வீடு வீடாகச் செல்லுதல், வாக்கெடுப்பு நிலையங்களில் முகவர்களை நியமித்தல், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஜனாதிபதித் தேர்தல் பிரசாரங்களை ஒழுங்கமைத்தல், சம்பந்தப்பட்ட தொகுதி மட்டத்தில் ஒழுங்கமைத்தல் மற்றும் வழிநடத்துதல் ஆகியன இந்தத் தொகுதிகளின் கூட்டுக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளன.
+The committees were appointed by Minister Prasanna Ranatunga and the Gampaha district MPs on Saturday (10) and Sunday (11).
+
+In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka PA, the United National Party, the Sri Lanka Freedom Party, the PA, and the United People's Power.
+
+Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
 
 ...
 
 [Data](articles/3c09f6a0.json)
+
+[Extended Data](ext_articles/3c09f6a0.ext.json)
 
 ---
 
@@ -180,6 +186,8 @@ On 4 and 5 August, US Ambassador Julie Chung joined more than 40 Sri Lankan wome
 
 [Data](articles/13349a34.json)
 
+[Extended Data](ext_articles/13349a34.ext.json)
+
 ---
 
 ### Cable Solutions to debut on CSE on Wednesday
@@ -196,6 +204,8 @@ Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666
 
 [Data](articles/92a1d16a.json)
 
+[Extended Data](ext_articles/92a1d16a.ext.json)
+
 ---
 
 ### SL envoy meets with Kuala Lumpur and Selangor Indian Chamber of Commerce and Industry
@@ -211,6 +221,8 @@ During the meeting, High Commissioner Sumangala Dias emphasised the importance o
 ...
 
 [Data](articles/73e7175e.json)
+
+[Extended Data](ext_articles/73e7175e.ext.json)
 
 ---
 
@@ -269,6 +281,8 @@ The innovation inputs consist of five broad categories, namely, institutional st
 ...
 
 [Data](articles/50faafae.json)
+
+[Extended Data](ext_articles/50faafae.ext.json)
 
 ---
 

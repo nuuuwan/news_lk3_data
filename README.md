@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 00:36:22**
+As of **2024-08-12 01:06:46**
 
 ## Newspaper Stats
 
-*Scraped **40,167** Articles*
+*Scraped **40,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 375
 colombotelegraphcom | 379
 islandlk | 2,318
 economynextcom | 2,427
-dailyftlk | 2,589
+dailyftlk | 2,593
 adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,075
+tamilmirrorlk | 5,076
 virakesarilk | 6,370
 adaderanasinhalalk | 6,832
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,160 (100.0%) of 40,167 articles have been extended.
+40,165 (100.0%) of 40,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ’ரணில் ராஜபக்ஷ துண்டு நீங்கி சஜித் ராஜபக்ஷ ஆகிவிட்டது’
+
+*2024-08-12 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ராஜபக்ஷ-துண்டு-நீங்கி-சஜித்-ராஜபக்ஷ-ஆகிவிட்டது/175-341990) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டத்தில் உள்ள அனைத்து தொகுதிளையும் உள்ளடக்கிய வகையில் ஜனாதிபதி தேர்தல் கூட்டு நடவடிக்கை குழுக்கள் நியமிக்கப்படவுள்ளன.
+
+அமைச்சர் பிரசன்ன ரணதுங்க மற்றும் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர்களின் தலைமையில் சனிக்கிழமையும் (10) ஞாயிற்றுக்கிழமையும் (11) இந்தக் குழுக்கள் நியமிக்கப்பட்டன.
+
+இந்தக் குழுக்களை ஸ்தாபிப்பதில், ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி, பொதுஜன ஐக்கிய முன்னணி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட ஜனாதிபதிக்கு ஆதரவான அனைத்துக் கட்சிகளின் பிரதிநிதிகளும் இந்தக் கூட்டமைப்பில் உள்ளடங்குகின்றது.
+
+வீடு வீடாகச் செல்லுதல், வாக்கெடுப்பு நிலையங்களில் முகவர்களை நியமித்தல், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஜனாதிபதித் தேர்தல் பிரசாரங்களை ஒழுங்கமைத்தல், சம்பந்தப்பட்ட தொகுதி மட்டத்தில் ஒழுங்கமைத்தல் மற்றும் வழிநடத்துதல் ஆகியன இந்தத் தொகுதிகளின் கூட்டுக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/3c09f6a0.json)
+
+---
 
 ### Sudarshini Fernandopulle to support Sajith
 
@@ -54,6 +72,8 @@ Speaking to the media yesterday, Dr. Fernandopulle expressed her decision to sup
 
 [Data](articles/90631672.json)
 
+[Extended Data](ext_articles/90631672.ext.json)
+
 ---
 
 ### Shanakiyan slams decision to field Tamil common candidate
@@ -74,6 +94,8 @@ Addressing the media, he criticised the idea of several parties with little to n
 
 [Data](articles/7510f081.json)
 
+[Extended Data](ext_articles/7510f081.ext.json)
+
 ---
 
 ### Namal meets Sumanthiran to discuss North and East
@@ -89,6 +111,8 @@ During the meeting, Rajapaksa expressed his intention to engage with the Illanka
 ...
 
 [Data](articles/e67868d2.json)
+
+[Extended Data](ext_articles/e67868d2.ext.json)
 
 ---
 
@@ -140,6 +164,56 @@ The event, themed “Hadawathinma Ratata” (Wholeheartedly for the Country), wa
 
 ### 2024-08-11 (Sunday)
 
+### Empowering women business owners in Sri Lanka
+
+*2024-08-11 23:52:52* · [`dailyftlk`](https://www.ft.lk/business/Empowering-women-business-owners-in-Sri-Lanka/34-765409) · `en`
+
+WEConnect International and US Embassy host key events to advance gender inclusive supply chains
+
+WEConnect International, with support from the US Embassy, hosted a Supplier Development Masterclass and the Supplier Diversity and Inclusion Roundtable on 4 and 5 August in Colombo, Sri Lanka.
+
+These events aim to empower and connect women-owned businesses with key industry leaders and potential buyers, fostering economic growth and promoting gender inclusivity within value chains.
+
+On 4 and 5 August, US Ambassador Julie Chung joined more than 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminates in a pitch session where participants presented their businesses to a panel of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
+
+...
+
+[Data](articles/13349a34.json)
+
+---
+
+### Cable Solutions to debut on CSE on Wednesday
+
+*2024-08-11 23:52:00* · [`dailyftlk`](https://www.ft.lk/business/Cable-Solutions-to-debut-on-CSE-on-Wednesday/34-765408) · `en`
+
+Public trading of shares of Cable Solutions Ltd. on the Diri Savi Board of the Colombo Stock Exchange (CSE) will commence on 14 August, under the ticker symbol CSLK.
+
+The initial public offering (IPO) of shares of Cable Solutions Ltd. – Sri Lanka’s leading specialised manufacturer of integrated cables – received active, broad-based interest from diverse investors and was oversubscribed on IPO opening day.
+
+Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666,600 new ordinary voting shares of the company, together with the sale of an existing 66,120,000 shares of the company by four of its non-majority shareholders. As a result, the company was able to successfully raise Rs. 109,999,500/- by way of its offer for subscription with the remaining funds being utilised to accommodate a partial sale from minority shareholders. The company intends to utilise its IPO funds for capital expenditure towards new machinery (81.8%) and working capital (18.2%).
+
+◼️
+
+[Data](articles/92a1d16a.json)
+
+---
+
+### SL envoy meets with Kuala Lumpur and Selangor Indian Chamber of Commerce and Industry
+
+*2024-08-11 23:51:23* · [`dailyftlk`](https://www.ft.lk/business/SL-envoy-meets-with-Kuala-Lumpur-and-Selangor-Indian-Chamber-of-Commerce-and-Industry/34-765407) · `en`
+
+High Commissioner of Sri Lanka in Malaysia Air Chief Marshal (Rtd.) Sumangala Dias engaged in a productive meeting with the Kuala Lumpur and Selangor Indian Chamber of Commerce and Industry (KLSICCI) at the High Commission on 26 July.
+
+The meeting was held with the participation of President Nivas Ragavan and other key office bearers of the KLSICCI, focusing on the enhancement of bilateral trade, investment, tourism, and employment opportunities for Sri Lanka.
+
+During the meeting, High Commissioner Sumangala Dias emphasised the importance of collaborative efforts to address the current trade imbalance. He highlighted the need to bolster Sri Lankan exports to Malaysia and to promote Sri Lanka as a significant outbound tourism destination for Malaysians. Ragavan expressed the Chamber’s commitment to facilitating connections between Sri Lankan retail businesses and the Malaysian market.
+
+...
+
+[Data](articles/73e7175e.json)
+
+---
+
 ### Building a sustainable future: Impact of RPCs on Sri Lanka’s economy and environment
 
 *2024-08-11 23:29:07* · [`dailyftlk`](https://www.ft.lk/columns/Building-a-sustainable-future-Impact-of-RPCs-on-Sri-Lanka-s-economy-and-environment/4-765401) · `en`
@@ -153,6 +227,8 @@ Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation i
 ...
 
 [Data](articles/e50db7cd.json)
+
+[Extended Data](ext_articles/e50db7cd.ext.json)
 
 ---
 
@@ -182,6 +258,20 @@ The firm structure for recovering from the economic crisis has now been implemen
 
 ---
 
+### Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part I
+
+*2024-08-11 23:20:26* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-economy-Part-I/4-765399) · `en`
+
+A nation desirous of surviving and prospering should necessarily embrace ‘innovation and creativity’
+
+The innovation inputs consist of five broad categories, namely, institutional structure, human capital and research, infrastructure, market sophistication and business sophistication. In innovation outputs, there are two categories, namely, knowledge and technology and creativity. In all these categories, Sri Lanka’s performance as an innovative economy has been far from the desired. It also opens a wide policy corridor for Sri Lanka Government to adopt for implementation if it is really interested in building its knowledge base and its application in business
+
+...
+
+[Data](articles/50faafae.json)
+
+---
+
 ### Visionary perspectives: Fireside Chat with Leadership Panel at Human Capital Summit 2024
 
 *2024-08-11 22:52:24* · [`dailyftlk`](https://www.ft.lk/opinion/Visionary-perspectives-Fireside-Chat-with-Leadership-Panel-at-Human-Capital-Summit-2024/14-765398) · `en`
@@ -195,6 +285,8 @@ Moderated by CIMA Global 2022/23 President Melanie J. Kanaka, and Sri Lanka Huma
 ...
 
 [Data](articles/612fd5cf.json)
+
+[Extended Data](ext_articles/612fd5cf.ext.json)
 
 ---
 
@@ -2189,137 +2281,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/731887ae.json)
 
 [Extended Data](ext_articles/731887ae.ext.json)
-
----
-
-### Attack on school in Gaza: More than 100 killed
-
-*2024-08-11 09:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-100-க்கும்-மேற்பட்டோர்-பலி/50-341939) · `ta`
-
-In Gaza, over 100 deaths occurred due to Israeli attacks on refugee shelters, including a school used as an asylum. This follows previous assaults on four schools, two of which served as refugee shelters, resulting in numerous casualties. Israel justified these actions, claiming Hamas used these sites as command centers. The conflict, which began over a year ago, has resulted in significant loss of life, with the UN calling for an immediate ceasefire.
-
-🟩
-
-More than 100 people have been killed in Israeli attacks on refugee asylum in Gaza, according to Palestinian media reports.
-
-A school was used as refugee asylum in East Gaza. Hamas's media unit said that the attack was carried out while people were praying there.. In the Hamas Medical Division report, "Israel's attack was killed when people who were staying as refugees were killed."
-
-Earlier last week, Israel attacked 4 schools in Gaza. Two schools that operated as a refugee asylum in the Israeli attack on August 4. Of these, 30 were killed. Many people were injured. Earlier in the day, 17 people were killed in an attack on the Hamama school in Gaza.
-
-15 people were killed in Israel's attack on August 1 at Dalal Al Mukrabi School. Today, Israel has again launched an attack on the school where refugees have taken refuge.
-
-...
-
-[Data](articles/176ad943.json)
-
-[Extended Data](ext_articles/176ad943.ext.json)
-
----
-
-### Parliament will not be dissolved until the presidential election is over - the government
-
-*2024-08-11 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190789) · `ta`
-
-The Sri Lankan government has decided not to dissolve Parliament until after the presidential election, despite controversies over the ruling party's majority. The decision comes amid confusion about the current parliamentary majority due to changes in membership and support for President Ranil Wickremesinghe from most MPs and ministers. Opposition parties call for clarity amidst the political turmoil.
-
-🟩
-
-While the controversy over the parliamentary majority of the ruling Sri Lanka PA's parliamentary majority, the government has rejected the government, which has rejected the parliament until the presidential election is over.
-
-Based on the fact that the ruling party did not have a majority of 113. But now the parliamentary membership of Harin Fernando and Manusha Nanayakkara has gone away, and the United People's Power has increased two seats.
-
-Most MPs and Ministers of the Sri Lanka PA, the main party of the ruling coalition parties, support President Ranil Wickremesinghe. In this case, there is a confusion over who is in parliament.
-
-Opposition parties have urged the government to resolve the chaos in the majority of parliament as the presidential election has been announced.
-
-...
-
-[Data](articles/bf623422.json)
-
-[Extended Data](ext_articles/bf623422.ext.json)
-
----
-
-### Women's Cricket Team, who went to Ireland without Chamari
-
-*2024-08-11 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199805) · `si`
-
-The Sri Lanka Women's Cricket Team is in Ireland for the 20th International Cricket Tournament against the Irish Women's group, marking their first international competition together. The series consists of two matches starting today at 8:30 pm. Notably, the team's leader, Chamari Atapattu, is absent as she's participating in the Dell Insinces Batch of Women's Hundred Tournament in England.
-
-🟩
-
-The 20th International Cricket Tournament between the Sri Lanka Women's Team and Irish Women's group will commence today.
-
-The first match of the two-match tournament will commence at 08.30 pm today.
-
-The Ireland match of the Sri Lanka Women's group is comprised of three international competitions.
-
-This is the first tournament to attend the Sri Lanka Women's Team.
-
-Sri Lankan team leader Chamari Atapattu does not participate in this 20th tournament.
-
-Because she plays the Dell Insinces Batch of Women's Hundred Tournament in England.
-
-◼️
-
-[Data](articles/6a662751.json)
-
-[Extended Data](ext_articles/6a662751.ext.json)
-
----
-
-### The Israeli attack was the world
-
-*2024-08-11 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199804) · `si`
-
-An Israeli airstrike hit a Gaza school, killing over 70 Palestinians and injuring many more. The building was reportedly used by Hamas and Islamic Jihad for military activities. International condemnation followed, with protests from neighboring and European countries against Israel.
-
-🟩
-
-Israeli air strike was launched to a school building in Gaza, who had lost her number of Palestinians.
-
-International media reports that more than 70 of them have died.
-
-The head of the hospital inserted for treatment, many people have been identified and the injured have been identified and has been difficult to identify people who have severely damaged them.
-
-A Israeli spokesman has revealed that the school building has been used for Hamas and Islamic Jihad for military purposes.
-
-Neighboring countries and European countries have acted in protest to Israel to protest the attack.
-
-◼️
-
-[Data](articles/d5e67a1b.json)
-
-[Extended Data](ext_articles/d5e67a1b.ext.json)
-
----
-
-### Human rights examination is an investigation into police assault
-
-*2024-08-11 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199803) · `si`
-
-The Human Rights Commission of Sri Lanka is investigating a case where two traffic officers assaulted a 16-year-old girl after stopping her for riding without a helmet. The incident occurred when she took her father's motorcycle to a relative's house. The victim was hospitalized for treatment, and the commission's chairman confirmed the initiation of an inquiry.
-
-🟩
-
-The Human Rights Commission of Sri Lanka has begun an investigation into the attack on a 16-year-old schoolgirl (Mouth's traffic officials).
-
-The student had gone to a store near the father's motorcycle on the 7th and the friend had not been wearing helmet.
-
-Two traffic officers of the Payagala Police have pursued them and stopped the motorcycle.
-
-The school student had operated the motorcycle to a nearby relative house to revive the motorcycle.
-
-The police officers pursued them and hit the student who was on the motorcycle to the school student who was hitting the motorcycle.
-
-The student who was assaulted was admitted to the Nagoda Surgery in Kalutara for treatment.
-
-The Chairman of the Commission Nimal Punchihewa said the Chairman of the Commission Nimal Punchihewa said that he had informed a report to the Human Rights Commission.
-
-◼️
-
-[Data](articles/2dacfb89.json)
-
-[Extended Data](ext_articles/2dacfb89.ext.json)
 
 ---

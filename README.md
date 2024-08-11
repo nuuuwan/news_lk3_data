@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 08:41:34**
+As of **2024-08-11 08:17:19**
 
 ## Newspaper Stats
 
-*Scraped **40,059** Articles*
+*Scraped **40,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,41 +18,19 @@ dailyftlk | 2,581
 adalk | 3,673
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,060
+tamilmirrorlk | 5,059
 virakesarilk | 6,347
-adaderanasinhalalk | 6,807
+adaderanasinhalalk | 6,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,054 (100.0%) of 40,059 articles have been extended.
+40,051 (100.0%) of 40,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
-
-### පාසල් සිසුවෙකුට පොලීසියෙන් පහරදීම ගැන මානව හිමිකම් පරීක්ෂණයක්
-
-*2024-08-11 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199803) · `si`
-
-පයාගල පොලිසියේ රථවාහන අංශයේ නිලධාරින් පිරිසක් විසින් යතුරුපැදියක් නොනැවත්වූ බව පවසමින් 16 හැවිරිදි පාසල් සිසුවෙකුට අමානුෂික ලෙස පහර දීමේ සිද්ධිය සම්බන්ධයෙන් ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව විමර්ශනයක් ආරම්භ කර තිබේ.
-
-පසුගිය 07 වනදා අදාළ සිසුවා, පියාට අයත් යතුරුපැදියෙන් අසල ඇති වෙළෙඳසැලකට ගොස් ඇති අතර මිතුරා හෙල්මට් පැළඳ සිට නොමැති බව පොලීසිය පැවසුවේය.
-
-එහිදී පයාගල පොලිසියේ රථවාහන අංශයේ ජංගම නිලධාරින් දෙදෙනකු ඔවුන් පසුපස ලුහුබැඳ ගොස් යතුරුපැදිය නවත්වා බැන වැදී තිබේ.
-
-එම අවස්ථාවේ දී පාසල් සිසුවා යතුරුපැදිය යළි පණගන්වා අසල පිහිටි ඥාතී නිවසක් වෙත යතුරුපැදිය ධාවනය කර ඇති බව සඳහන්ය.
-
-පොලිස් නිලධාරින් ඔවුන් ලුහුබැඳ ගොස් යතුරුපැදියේ පසුපස සිටි සිසුවාට කනට පහරක් එල්ලකර යතුරුපැදිය පැදවූ පාසල් සිසුවාටද පහරවල් කිහිපයක් එල්ලකර ඇති අතර එම අවස්ථාවේ දී ඔහු බිම ඇදවැටී ඇති බවත් පසුව පා පහරක් එල්ලකර තුනටිය ප්‍රදේශය පාගා ඇති බව වාර්තා විය.
-
-පහරකෑමට ලක්වූ පාසල් සිසුවා ප්‍රතිකාර සඳහා කළුතර නාගොඩ ශීක්ෂණ රෝහල ට ඇතුළු කර තිබුණි.
-
-...
-
-[Data](articles/2dacfb89.json)
-
----
 
 ### The Paris Olympics finished today
 
@@ -185,22 +163,6 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/be992a61.json)
 
 [Extended Data](ext_articles/be992a61.ext.json)
-
----
-
-### தேர்தல் தொடர்பில் 269 முறைப்பாடுகள்
-
-*2024-08-11 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-269-முறைப்பாடுகள்/175-341937) · `ta`
-
-எதிர்வரும் ஜனாதிபதித் தேர்தலுடன் தொடர்புடைய சம்பவங்கள் தொடர்பில் இதுவரையில் 269 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
-
-தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்தில் 186 முறைப்பாடுகளும் மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்தில் 80 முறைப்பாடுகளும் பதிவு செய்யப்பட்டுள்ளன.
-
-அதில், தேர்தல் சட்டத்தை மீறியமை தொடர்பில் 266 முறைப்பாடுகள் பதிவாகியுள்ளன என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/94a3ac48.json)
 
 ---
 
@@ -1632,8 +1594,6 @@ The choice she made last Tuesday, Minnesota Governor Tim Walz, met this vital qu
 
 [Data](articles/5671b12a.json)
 
-[Extended Data](ext_articles/5671b12a.ext.json)
-
 ---
 
 ### Seven companies agree to pay Rs 1700 for estate workers
@@ -1863,8 +1823,6 @@ Over the years we became close friends and exchanged many ideas about the countr
 ...
 
 [Data](articles/e4d95047.json)
-
-[Extended Data](ext_articles/e4d95047.ext.json)
 
 ---
 
@@ -2275,5 +2233,49 @@ Leader of the Sri Lanka Mahajana Party, MP Asanka Nawaratne, has announced that 
 [Data](articles/a24caaa9.json)
 
 [Extended Data](ext_articles/a24caaa9.ext.json)
+
+---
+
+### Two suspects arrested for murder
+
+*2024-08-10 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199773) · `si`
+
+Hanwella Police arrested two suspects linked to a murder case. A 47-year-old man from Hanguwannu was assaulted with sharp weapons, leading to his death. The suspects, including a 24-year-old from Dollawatta, were apprehended after the incident. Further investigation is ongoing.
+
+🟩
+
+Two suspects have been taken into custody by Hanwella Police yesterday (09).
+
+A person was assaulted by a sharp weapons at the Hanwella Police Division in Hanwella, Hanwella.
+
+The Hanwella police station has been arrested following the incident in the Hanwella police station and arrested one involved in the murder in Warakapola.
+
+The suspect is a 24 year old resident of the Dollawatta area and has been arrested by the other who supported the crime in further interrogation.
+
+The victim is 47 years old, a resident of the Hanguwannu area and the Hanwella Police are conducting further investigations.
+
+◼️
+
+[Data](articles/458dfb85.json)
+
+[Extended Data](ext_articles/458dfb85.ext.json)
+
+---
+
+### Unidentified body found in Kelani River
+
+*2024-08-10 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101125/unidentified-body-found-in-kelani-river) · `en`
+
+An unidentified male body has been found floating in the Kelani River near the old market in the Grandpass police division.
+
+The body has currently been placed in the mortuary of the Colombo National Hospital.
+
+The identity of the deceased is yet to be confirmed while he is believed to be between 45 to 50 years old, and approximately 5 feet and 6 inches tall, police said.
+
+◼️
+
+[Data](articles/ad258f8a.json)
+
+[Extended Data](ext_articles/ad258f8a.ext.json)
 
 ---

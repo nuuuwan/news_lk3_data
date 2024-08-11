@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 16:21:00**
+As of **2024-08-11 16:36:08**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,114 (100.0%) of 40,117 articles have been extended.
+40,117 (100.0%) of 40,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### திங்கள் முதல் GS வேலைநிறுத்தம்
+### Strike GS first Monday
 
 *2024-08-11 16:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-முதல்-GS-வேலைநிறுத்தம்/175-341967) · `ta`
 
-கிராம சேவகர்கள்  திங்கட்கிழமை (12)  முதல் வேலை நிறுத்த போராட்டத்தில் குதித்த உள்ளதாகவும், அந்த போராட்டம் இரண்டு நாட்களுக்கு நீடிக்கும் என்றும் எச்சரித்துள்ளனர்.
+Village workers in Sri Lanka began a two-day strike from Monday (12), protesting against their conditions. The Grama Niladhari Trade Union Alliance announced the strike, emphasizing the need for better treatment and working conditions.
 
-கொழும்பில், ஞாயிற்றுக்கிழமை (11)  இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த போதே, கிராம உத்தியோகத்தர் தொழிற்சங்க கூட்டணியின் இணைத் தலைவர் நந்தன ரணசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Grama Niladhari have warned that the village servants have jumped in the strike since Monday (12) and that the protest will last for two days.
+
+Speaking at a media briefing in Colombo on Sunday (11), Nandana Ranasinghe, co -chairman of the Grama Niladhari Trade Union Alliance, said this.
 
 ◼️
 
 [Data](articles/a1c70189.json)
+
+[Extended Data](ext_articles/a1c70189.ext.json)
 
 ---
 
@@ -74,21 +80,27 @@ It is noteworthy that a few days ago, the Tamil National Alliance (TNA) was anno
 
 ---
 
-### උතුරු අහසේ දිස්වන පර්සියස්
+### Persees that appear in the northern sky
 
 *2024-08-11 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199820) · `si`
 
-‍පියවි ඇසට දැකගැනිමට හැකි උල්කාපාත වර්ෂාවක් අද (11) මධ්‍යමරාත්‍රියෙන් පසු උතුරු අහසේ දිස්වන බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පවසයි.
+A meteor shower visible to the naked eye will light up the northern sky from mid-August to mid-November, according to Space Scientist Gihan Weerasekera. Expect to see hundreds of meteors during this period.
 
-perseus තාරුකා රාෂිය ආසන්නයේ එම උල්කාපාත වර්ෂාව දිස්වීම හේතුවෙන් එම උල්කාපාත වර්ෂාව perseus ලෙස නම්කර තිබේ.
+🟩
 
-ජුලි මස මැද සිට අගොස්තු මස මැද භාගය දක්වා එම උල්කාපාත වර්ෂාව දක්නට ලැබෙන අතර එහි උච්චතම අවස්ථාව අද (11) මධ්‍යම රාත්‍රියෙන් පසු උදාවේ.
+Space Science Gihan Weerasekera says that a meteorite rain that can be seen by the naked eye today (11) will appear in the northern sky.
 
-පැයක් තුළ උල්කාපාත සියයක් පමණ දිස්වන අතර, තැනිතලා බිමකට ගොස් එම බාධාවකින් තොරව දැකබලා ගැනීමට හැකිවන බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පැවසීය.
+The meteorite rain is named after the appearance of the meteorite rain.
+
+The meteor to the mid-August to mid-August to mid-August will be seen by the climax (11).
+
+Space Science Gihan Weerasekera said he would be able to see a hundred meteor to the plains.
 
 ◼️
 
 [Data](articles/439e625c.json)
+
+[Extended Data](ext_articles/439e625c.ext.json)
 
 ---
 
@@ -194,17 +206,23 @@ The Ports Authority (Ports Authority) says that after 995 containers were landed
 
 ---
 
-### ෆර්සියස් උල්කාපාත වර්ෂාව අද දැකගැනීමට ශ්‍රී ලාංකිකයන්ට අවස්ථාව
+### Sri Lankans opportunity to see Fersus meteorite rain today
 
 *2024-08-11 14:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ෆර්සියස්-උල්කාපාත-වර්ෂාව-අද-දැකගැනීමට-ශ්‍රී-ලාංකිකයන්ට-අවස්ථාව/11-411303) · `si`
 
-මෙම වසරේ දක්නට ලැබෙන ප්‍රධානම උල්කාපාත වර්ෂාව අද (11දා)  ශ්‍රී ලාංකිකයන්ට දැකගත හැකියාව ඇති බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පැවසීය.
+Today, Sri Lankans witnessed the main meteor shower of the year, with the best viewing expected in the northern skies post-midnight. Space Science Gihan Weerasekera announced this significant astronomical event.
 
-මෙම ෆර්සියස් උල්කාපාත වර්ෂාවේ උපරිමය මධ්‍යම රාත්‍රියෙන් පසු උතුරු අහසේ දැකගත හැකි බවද ඔහු සඳහන් කළේය.
+🟩
+
+Space Science Gihan Weerasekera said that the main meteorite rainvacy in this year has been seen today (11).
+
+He also said that the maximum night of the farsatha rains can be seen in the north after midnight.
 
 ◼️
 
 [Data](articles/57a68c83.json)
+
+[Extended Data](ext_articles/57a68c83.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 17:06:12**
+As of **2024-08-11 17:21:13**
 
 ## Newspaper Stats
 
-*Scraped **40,120** Articles*
+*Scraped **40,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,65 @@ adaderanalk | 4,670
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
 virakesarilk | 6,356
-adaderanasinhalalk | 6,825
+adaderanasinhalalk | 6,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,119 (100.0%) of 40,120 articles have been extended.
+40,120 (100.0%) of 40,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් අනතුරු ඇඟවීමක්
+### දකුණු අප්‍රිකාවේ රූ රැජින කිරුළ බිහිරි තරුණියක ට
+
+*2024-08-11 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199823) · `si`
+
+දකුණු අප්‍රිකාවේ රූ රැජින ලෙස Mia le Roux නම් බිහිරි තරුණියක් කිරුළ හිමිකරගත්තාය.
+
+එම කිරුළ හිමිකරගත් පළමු බිහිරි තරුණිය ලෙස මියා වාර්තා පොතට එක් වූවාය.
+
+දැනට 28 හැවිරිදි වියේ පසුවන මියා, ශ්‍රවණ දුර්වලතාවයකින් පෙළෙන බව හඳුනාගෙන තිබුණේ ඇයට වයස අවුරුද්දක් පමණ වන විටදීය.
+
+ඇයට ශබ්දය හඳුනා ගැනීම පහසු කිරීම සඳහා ශ්‍රවණ උපකරණයක් සවිකර ඇති බව සඳහන් ය.
+
+සිය කථන හැකියාව ඇතිකර ගැනීම සඳහා වසර දෙකක් පමණ වෙහෙසීමට සිදුවූ බව ඇය පැවසුවාය.
+
+මේ වනවිට නිරූපිකාවක් ලෙසත් වෙළෙඳ කළමනාකාරිනියක් ලෙසත් සේවය කරන මියා පවසන්නේ, "මම දැන් දන්නවා මාව මේ ලෝකෙට එව්වේ සීමාවන් බිඳින්න...මම ඒ දේ අද රෑ සිදුකළා..." යනුවෙනි.
+
+◼️
+
+[Data](articles/ebc7d42b.json)
+
+---
+
+### A warning of the Inland Revenue Department
 
 *2024-08-11 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199822) · `si`
 
-දේශීය ආදායම් නිලධාරින් ‍ලෙස පෙනී සිටිමින් ඇතැම් පුද්ගල කණ්ඩායමක් ව්‍යාපාරිකයින් වෙත ගොස් මුදල් රැස්කරන බවට වාර්තා වී ඇති බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.
+The Inland Revenue Department warns against individuals collecting money from businesses. It's taking steps to stop this practice and has filed a complaint with the Sri Lanka Police to arrest those involved. The Commissioner General emphasizes that no one should pay money unless it's officially documented and authorized by him. He advises taxpayers to seek written confirmation for any deductions and to report any issues to the department's regional or head office.
 
-එලෙස මුදල් එකතු කිරීමට පැමිණෙන පුද්ගලයින්ට මුදල් දීමෙන් වළකින ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුව දැනුම්දෙයි.
+🟩
 
-එවැනි පුද්ගලයින් නීතියේ රැහැනට හසුකර ගැනීම සඳහා අදාළ සිද්ධීන් පිළිබඳව නීතිමය පියවර ගන්නා ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් ශ්‍රී ලංකා පොලීසිය වෙත පැමිණිලි කර ඇත.
+The Inland Revenue Department says that some individuals have visited the businessmen and collect money.
 
-නිවේදනයක් නිකුත් කරමින් දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා පවසා ඇත්තේ එලෙස අයකරනු ලබන කිසිදු මුදලකට තමන් විසින් වග නොකියක බවයි.
+The Inland Revenue Department is notified to prevent money from giving money to collecting money.
 
-දේශීය ආදායම් කොමසාරිස් ජනරාල් මගින් පරිපාලනය කරන සියලුම බදු වර්ගයන්ට අදාළව හිඟ බදු අයකිරීමේ කටයුතු නිසි පරිදි ලිඛිතව දැනුම් දී නීත්‍යානුකූලව පමණක් සිදු කරන බව සියලුම බදු ‍ගෙවන්නන් වෙත ඔහු දැනුම් දී තිබේ.
+The Inland Revenue Department has lodged a complaint with the Sri Lanka Police to take legal action to take legal action to capture such persons.
 
-...
+The Commissioner General of Inland Revenue has said that he is not responsible for any money charged.
+
+He has informed all taxpayers that the deficit deductions are made in writing and legally only in writing and legally only informed all taxes administered by the Commissioner General of Inland Revenue.
+
+The Commissioner General of Inland Revenue has further stated that he will also report to the Regional Office or Head Office of the Department of Inland Revenue or Head Office.
+
+◼️
 
 [Data](articles/e3df5f48.json)
+
+[Extended Data](ext_articles/e3df5f48.ext.json)
 
 ---
 
@@ -2301,23 +2331,5 @@ Parliamentarian Mahindananda Aluthgamage has stated that arrangements have been 
 [Data](articles/78ca7078.json)
 
 [Extended Data](ext_articles/78ca7078.ext.json)
-
----
-
-### Body found inside three-wheeler on Marine Drive
-
-*2024-08-10 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101135/body-found-inside-three-wheeler-on-marine-drive) · `en`
-
-A person has reportedly been found dead inside a three-wheeler which was parked on the side of the road on Marine Drive in Bambalapitiya.
-
-Police said that the victim was identified as a 61-year-old male named Selvanayagam Boniface Sydney Manohar, a resident of Narahenpita area.
-
-The cause of the death is yet to be revealed, while police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/f15ecbd6.json)
-
-[Extended Data](ext_articles/f15ecbd6.ext.json)
 
 ---

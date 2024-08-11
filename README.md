@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 00:21:07**
+As of **2024-08-12 00:36:22**
 
 ## Newspaper Stats
 
-*Scraped **40,160** Articles*
+*Scraped **40,167** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 375
-colombotelegraphcom | 378
+colombotelegraphcom | 379
 islandlk | 2,318
 economynextcom | 2,427
-dailyftlk | 2,583
+dailyftlk | 2,589
 adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
@@ -26,11 +26,71 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,158 (100.0%) of 40,160 articles have been extended.
+40,160 (100.0%) of 40,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Sudarshini Fernandopulle to support Sajith
+
+*2024-08-12 00:10:42* · [`dailyftlk`](https://www.ft.lk/news/Sudarshini-Fernandopulle-to-support-Sajith/56-765418) · `en`
+
+Says Sajith Premadasa has capable and experienced team to serve SL compared to others
+
+Stresses country in dire need of strong leadership and solid program which has moved her to support Premadasa
+
+Claims she had intended to retire but was driven by her conscience to support Premadasa for benefit of SL
+
+Expresses confidence of a Sajith Premadasa win at 21 September election
+
+Sri Lanka Podujana Peramuna (SLPP) Gampaha District MP Dr. Sudarshini Fernandopulle has extended her support to Opposition Leader Sajith Premadasa ahead of the 21 September Presidential election.
+
+Speaking to the media yesterday, Dr. Fernandopulle expressed her decision to support Premadasa, stating that she believes he has a capable and experienced team to serve the country, especially when compared to other candidates and groups that have emerged.
+
+“The country is in dire need of strong leadership and a solid program. I believe that he and his team have the ability to bring about that change,” she said.
+
+...
+
+[Data](articles/90631672.json)
+
+---
+
+### Shanakiyan slams decision to field Tamil common candidate
+
+*2024-08-12 00:08:57* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-slams-decision-to-field-Tamil-common-candidate/56-765417) · `en`
+
+Says there is no need to put forward a Tamil common candidate for the 2024 Presidential election
+
+Criticises idea of several parties with no voter base announcing a common candidate
+
+Claims Tamil people have no interest in a Tamil common candidate at this time
+
+Illankai Tamil Arasu Kadchi (ITAK) Batticaloa District MP Shanakiyan Rasamanickam has asserted that there is no need to put forward a Tamil common candidate for the 2024 Presidential election.
+
+Addressing the media, he criticised the idea of several parties with little to no voter base announcing a common candidate, calling it unacceptable. “There is no need for a common candidate. The Tamil people have no interest in supporting one. One of the current candidates will inevitably become President. There is also speculation that this common candidate was introduced to serve the interests of another candidate, to prevent votes from going elsewhere,” he said.
+
+...
+
+[Data](articles/7510f081.json)
+
+---
+
+### Namal meets Sumanthiran to discuss North and East
+
+*2024-08-12 00:07:11* · [`dailyftlk`](https://www.ft.lk/news/Namal-meets-Sumanthiran-to-discuss-North-and-East/56-765416) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Presidential candidate Namal Rajapaksa met with Tamil National Alliance (TNA) Parliamentarian M.A. Sumanthiran in Colombo over the weekend.
+
+The discussions between the duo reportedly centred on the current political situation and the issues facing the North and East. The meeting, held at Sumanthiran’s residence, also included SLPP General Secretary Sagara Kariyawasam.
+
+During the meeting, Rajapaksa expressed his intention to engage with the Illankai Tamil Arasu Kadchi (ITAK) in the near future. Rajapaksa highlighted his commitment to addressing grievances in the North and East, emphasising plans to develop these districts into international trading hubs. He also expressed his willingness to work with Tamil Parliamentarians from the region to improve livelihoods and provide better futures for the youth.
+
+...
+
+[Data](articles/e67868d2.json)
+
+---
 
 ### Finance Ministry can support Presidential polls with any number of candidates: Siyambalapitiya
 
@@ -47,6 +107,8 @@ However, he acknowledged that if the number of candidates grows significantly, i
 ...
 
 [Data](articles/ba03968f.json)
+
+[Extended Data](ext_articles/ba03968f.ext.json)
 
 ---
 
@@ -72,9 +134,27 @@ The event, themed “Hadawathinma Ratata” (Wholeheartedly for the Country), wa
 
 [Data](articles/992a19ad.json)
 
+[Extended Data](ext_articles/992a19ad.ext.json)
+
 ---
 
 ### 2024-08-11 (Sunday)
+
+### Building a sustainable future: Impact of RPCs on Sri Lanka’s economy and environment
+
+*2024-08-11 23:29:07* · [`dailyftlk`](https://www.ft.lk/columns/Building-a-sustainable-future-Impact-of-RPCs-on-Sri-Lanka-s-economy-and-environment/4-765401) · `en`
+
+The transformation brought by privatisation has led to remarkable improvements across the plantation sector
+
+RPCs have led the industry in replanting efforts, covering over 60% of VP tea and over 70,000 hectares of rubber. They have adopted stringent environmental protection standards, with 13 out of 21 RPCs securing the Green Frog seal of compliance, meeting the prestigious Global Sustainable Agriculture Network standard. Many RPCs are also certified by the Forest Stewardship Council, ensuring responsible forest management and supply chain practices. RPC factories hold numerous internationally accredited certifications, including HACCP, ISO 22000, and Fair Trade, guaranteeing consumer safety and environmental protection. RPC estates promote ‘Ceylon Tea’ as clean, ethical, and sustainable, with significant certifications
+
+Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation industry remains a key economic pillar
+
+...
+
+[Data](articles/e50db7cd.json)
+
+---
 
 ### No one can build the PA;Ranil's success is the country's victory - Wimalaweera Dissanayake
 
@@ -99,6 +179,36 @@ The firm structure for recovering from the economic crisis has now been implemen
 [Data](articles/e2c6c968.json)
 
 [Extended Data](ext_articles/e2c6c968.ext.json)
+
+---
+
+### Visionary perspectives: Fireside Chat with Leadership Panel at Human Capital Summit 2024
+
+*2024-08-11 22:52:24* · [`dailyftlk`](https://www.ft.lk/opinion/Visionary-perspectives-Fireside-Chat-with-Leadership-Panel-at-Human-Capital-Summit-2024/14-765398) · `en`
+
+The Leadership Panel of the Human Capital Summit 2024, referred to as the ‘Fireside Chat’, provided a unique platform to discuss the future of human capital management and the evolving landscape of leadership.
+
+In a series of insightful exchanges, the panellists addressed pressing issues such as the integration of innovative technologies, strategic workforce planning, and the role of leadership in navigating global challenges. The discussions highlighted the collective wisdom and forward-thinking strategies essential for building resilient, future-ready institutions.
+
+Moderated by CIMA Global 2022/23 President Melanie J. Kanaka, and Sri Lanka Human Capital Summit 2024 Chairman Dinesh Weerakkody, the panel featured distinguished speakers including 30th Prime Minister of Australia Scott Morrison, former Maldivian President Mohamed Nasheed, and other eminent figures from the realms of government, business, and academia. Following are excerpts:
+
+...
+
+[Data](articles/612fd5cf.json)
+
+---
+
+### International Youth Day 2024 from ‘Clicks to Progress’
+
+*2024-08-11 22:48:53* · [`dailyftlk`](https://www.ft.lk/columns/International-Youth-Day-2024-from-Clicks-to-Progress/4-765397) · `en`
+
+Youth not only represent the future of our nations but are one of society’s main agents of change and progress for any country. As stated by United Nations Secretary General António Guterres, “Achieving the Sustainable Development Goals requires a seismic shift – which can only happen if we empower young people and work with them as equals.”
+
+In 1999, the United Nations General Assembly endorsed the recommendation by the World Conference of Ministers of Youth (Lisbon, 8-12 August 1998) that 12 August be declared International Youth Day. Over the last two decades, the annual International Youth Day celebrations have covered a wide array of themes relevant to young people, from food security and mental health to intergenerational solidarity and green skills, highlighting critical connections between youth and sustainable development.
+
+...
+
+[Data](articles/6c102b6f.json)
 
 ---
 
@@ -563,6 +673,18 @@ New Delhi has appeared in New Delhi, such as how the next government in Banglade
 [Data](articles/5133e8a6.json)
 
 [Extended Data](ext_articles/5133e8a6.ext.json)
+
+---
+
+### Heart Health Vs. Hearsay: Why Your Arteries Don’t Care About Conspiracies
+
+*2024-08-11 17:51:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/heart-health-vs-hearsay-why-your-arteries-dont-care-about-conspiracies/) · `en`
+
+I remember back in the ’70s, my high school teacher was a chain smoker, yet he lived well into old age without any apparent harm. Fast forward to today, and smoking is banned in public indoor spaces, especially in schools, due to the well-documented dangers of secondhand smoke. These stories seem contradictory, but they don’t shake our understanding because we know that not everyone who smokes will develop cancer. Yet, despite knowing someone like my teacher, we wouldn’t dare proclaim from the rooftops that smoking is safe.
+
+...
+
+[Data](articles/2db05dd3.json)
 
 ---
 
@@ -2199,197 +2321,5 @@ The Chairman of the Commission Nimal Punchihewa said the Chairman of the Commiss
 [Data](articles/2dacfb89.json)
 
 [Extended Data](ext_articles/2dacfb89.ext.json)
-
----
-
-### Sri Lanka’s DFCC cuts ISB holdings, reverses provisions
-
-*2024-08-11 07:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-cuts-isb-holdings-reverses-provisions-176310/) · `en`
-
-ECONOMYNEXT – DFCC Bank said it has sold a part of its Sri Lanka sovereign bond portfolio booking a loss of 2,171 million rupees, but the transaction also triggered the reversal of 2,453 million rupees of provisions.
-
-DFCC Bank reported sovereign bonds at a value of 4,593 million rupees by end December 2023, down from 5,215 million rupees a year earlier. The rupee value declined 517 million dollars due to currency appreciation during the year.
-
-The bank told shareholders that it had provided a 50 percent impairment provision for the ISBs by end December.
-
-The bank also sold Sri Lanka government securities booking a gain of 2,056 million rupees.
-
-Group interest income for the March 2024 quarter fell 25 percent to 18.5 billion rupees as the bank slashed lending rates, while interest costs fell 33 percent to 11.85 billion rupees.
-
-Net fee and commission income grew 6 percent to 930 million rupees.
-
-DFCC made provisions of 1,107 million rupees for bad loans, down from 3,105 million last year.
-
-...
-
-[Data](articles/845be250.json)
-
-[Extended Data](ext_articles/845be250.ext.json)
-
----
-
-### The Paris Olympics finished today
-
-*2024-08-11 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199802) · `si`
-
-The Paris Olympics concluded today after over two weeks, featuring 329 matches across 32 sports with 10,714 athletes. The final day saw the men's and women's 100m sprint finals, with China leading in gold medals (39), followed by the U.S. (38) and Australia.
-
-🟩
-
-On July 26, the Olympics festival began on July 26, and it was held for more than 15 days.
-
-329 matches were held in 32 sports and 10,714 players participated.
-
-Yesterday was the final of the male and women's 100-meter-lifesting events, and the first place in the women's event was able to win the first place in the women's event.
-
-China has now been leading the gold medal, and they have won 39 gold medals.
-
-The United States holds 38 gold medals in the second position in the third medal and Australia.
-
-◼️
-
-[Data](articles/2f5d7654.json)
-
-[Extended Data](ext_articles/2f5d7654.ext.json)
-
----
-
-### No opposition to the salaries of the estate workers - Palani Digambaram
-
-*2024-08-11 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199801) · `si`
-
-Palani Digambaram denies opposing salary hikes for estate workers, contradicting former Minister Manusha Nanayakkara's claims. He accuses them of misleading plantation employees during a meeting in Hatton.
-
-🟩
-
-Palaniymbombaram, Nuwara Eliya District Parliamentarian, said that he had never acted against the increase in the salaries of the plantation workers.
-
-He said that the President and Manusha Nanayakkara will mislead the plantation employees.
-
-The Palani Digambaram was speaking at a meeting in Hatton.
-
-Former Minister Manusha Nanayakkara said that Mr. Palani Digambaram has taken measures against the increase in the salaries of estate workers.
-
-◼️
-
-[Data](articles/505b93f7.json)
-
-[Extended Data](ext_articles/505b93f7.ext.json)
-
----
-
-### Several fatal accidents - 3 dead
-
-*2024-08-11 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199800) · `si`
-
-In separate road accidents across the island, three fatalities occurred: two drivers and one passenger. Incidents happened in Homagama, Madatugama, Warakapola, and Jaffna-Kandy roads involving cars, cabs, and motorcycles. The victims, aged 29 and 19, resided in Kithulhawa and were from the Kottawa Old Road, Jaffna-Kandy Road, and Tulhiriiya Road respectively.
-
-🟩
-
-Three persons were killed in road accidents in several parts of the island, police said.
-
-The accident had occurred yesterday (10) was in Homagama, Madatugama and Warakapola Police Divisions.
-
-The driver of the 41-year-old three-wheeler was killed in an accident that a three-wheeler had hit a car at Kottawa Old road.
-
-Meanwhile, a three-wheeler collided with a cab that collided with the opposite in the Jaffna-Kandy road.
-
-The three-wheeler driver, who was admitted to the Dambulla hospital, was killed after admission to the Dambulla hospital.
-
-The deceased has been identified as a 29 year old resident of Kithulhawa.
-
-Meanwhile, a 19-year-old youth has died in an accident in the Tulhiriiya road in the Ambepussa-Alawwa road in the Warakapola police division.
-
-The accident had occurred to be controlled by a motorcycle bout.
-
-◼️
-
-[Data](articles/12f14a8a.json)
-
-[Extended Data](ext_articles/12f14a8a.ext.json)
-
----
-
-### Steps to relax the rules of rules affected by businesses
-
-*2024-08-11 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199799) · `si`
-
-President Wickremesinghe plans to ease business regulations and develop a new institutional system to support entrepreneurs. He aims to transform Kandy into a tourism hub and implement its city development plan next year, focusing on boosting the Central Province's economy.
-
-🟩
-
-President Ranil Wickremesinghe says he will explore many rules for the business.
-
-The President was speaking at a meeting with the District Trade Union representatives of Kandy.
-
-Speaking further, the President said that it was planned to create a new institutional system to facilitate the businessmen.
-
-The President also said that the Kandy city development plan has been implemented since next year.
-
-The President said that the Central Province should be converted into a major hub of tourism.
-
-◼️
-
-[Data](articles/7d72f625.json)
-
-[Extended Data](ext_articles/7d72f625.ext.json)
-
----
-
-### Heavy rains in many areas
-
-*2024-08-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199798) · `si`
-
-Heavy rains expected in North, North Central, Eastern, Uva, Western, Sabaragamuwa, and Matara provinces over the next few days, with potential for gusty winds and lightning. The Department of Meteorology advises caution and preparedness for possible temporary power outages and safety during storms.
-
-🟩
-
-The Department of Meteorology states that there is a protesting atmospheric objective in thundershowers in the next few days.
-
-The department states today (11) at some places in the North, North Central, Eastern and Uva provinces. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at times in the Western and Sabaragamuwa and Matara districts.
-
-The Department of Meteorology is speaking at several places in the evening or night in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/be992a61.json)
-
-[Extended Data](ext_articles/be992a61.ext.json)
-
----
-
-### Number of freshwater crab found in Galle Municipal Environment
-
-*2024-08-11 03:03:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl7y792xgxeo) · `si`
-
-In Galle, researchers discovered a unique freshwater crab species, Pastilla Ruhuna, the first of its kind found in inland waters. Identified by Prof. Peter K.L. Ng in 2001, it's part of a monotypic genus, making it distinct globally. Initially found in two locations within the Galle District, including an urban area, its population has significantly declined over the past decade, with concerns about its survival due to environmental degradation. Despite its sensitivity to vibrations and nocturnal habits, this species stands out for its unique characteristics, including its habitat preference for shallow freshwater areas. With 52 freshwater crab species in Sri Lanka, 51 of which are endemic, the discovery of Pastilla Ruhuna highlights the importance of conservation efforts to preserve biodiversity.
-
-🟩
-
-Krishan Wewel, a researcher and the Sri Lanka Turtle Conservation Project, a researcher and the Sri Lanka Turtle Conservation Project, is the first inland inland freshwater clumb, is the first inland freshwater crab species.
-
-Pastilla Ruhuna This freshwater crab species Prof. Peter K.L at Singapore National University in 2001. Nag (Peter K. L. Ng) and Francis WM. J (FRANCIS W. He said that M.Jay was scientifically described by a species.
-
-Since this species is currently reported in the world, it is known as a monotypic genera.
-
-The Crab was first found in two remains in the Galle District and the first time in a busy urban environment, he said.
-
-MM Bakes, a preference, and in Sri Lanka, in Sri Lanka, MM baker has seized the urban environment in Galle town.
-
-The Cabinet has been reported from Karapitiya, Galle, a urban area.
-
-However, about 10 years ago, this species has fallen to four dwells today.
-
-He said that the crow was still extinct from one place in one place.
-
-...
-
-[Data](articles/b44d74f5.json)
-
-[Extended Data](ext_articles/b44d74f5.ext.json)
 
 ---

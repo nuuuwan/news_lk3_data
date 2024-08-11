@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 16:07:29**
+As of **2024-08-11 16:21:00**
 
 ## Newspaper Stats
 
-*Scraped **40,114** Articles*
+*Scraped **40,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,80 @@ colombotelegraphcom | 377
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,680
+adalk | 3,681
 adaderanalk | 4,669
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,071
+tamilmirrorlk | 5,072
 virakesarilk | 6,356
-adaderanasinhalalk | 6,822
+adaderanasinhalalk | 6,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,112 (100.0%) of 40,114 articles have been extended.
+40,114 (100.0%) of 40,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ரணிலுடன் பேசாமல் இருக்க கூட்டமைப்பு முடிவு
+### திங்கள் முதல் GS வேலைநிறுத்தம்
+
+*2024-08-11 16:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-முதல்-GS-வேலைநிறுத்தம்/175-341967) · `ta`
+
+கிராம சேவகர்கள்  திங்கட்கிழமை (12)  முதல் வேலை நிறுத்த போராட்டத்தில் குதித்த உள்ளதாகவும், அந்த போராட்டம் இரண்டு நாட்களுக்கு நீடிக்கும் என்றும் எச்சரித்துள்ளனர்.
+
+கொழும்பில், ஞாயிற்றுக்கிழமை (11)  இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த போதே, கிராம உத்தியோகத்தர் தொழிற்சங்க கூட்டணியின் இணைத் தலைவர் நந்தன ரணசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a1c70189.json)
+
+---
+
+### The Federation decision to not speak with Ranil
 
 *2024-08-11 15:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-பேசாமல்-இருக்க-கூட்டமைப்பு-முடிவு/175-341966) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான பேச்சுவார்த்தையில் பங்கேற்காதிருக்க தமிழ் தேசிய பொதுக் கூட்டமைப்பு தீர்மானித்துள்ளது.
+The Tamil National Alliance (TNA) has opted out of discussions with Sri Lanka's President Ranil Wickremesinghe due to preoccupations with election activities. This decision follows an invitation extended to TNA leaders and civil society figures to meet the president. The TNA's stance indicates a reluctance to engage in short-term political dialogues amidst their current focus on elections, with the possibility of revisiting such engagements based on future decisions within their general framework.
 
-தமிழ் தேசிய பொதுக் கட்டமைப்பில் அங்கம் வகிக்கும் கட்சித் தலைவர்களுக்கும் சிவில் சமூக தலைவர்களுக்கும் திங்கட்கிழமை  (12) ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான சந்திப்புக்கு ஜனாதிபதி செயலக பிரதிநிதிகளால் தொலைபேசி மூலம் அழைப்பு விடுக்கப்பட்டிருந்தது.
+🟩
 
-குறித்த சந்திப்பில், தமிழ்த் தேசிய பொதுக் கட்டமைப்பு என்ற அடிப்படையில் 14 உறுப்பினர்களும் சந்திப்பில் கலந்து கொள்ள மாட்டார்கள்.
+The TNA has decided not to participate in talks with President Ranil Wickremesinghe.
 
-தேர்தல் வேலைகளில் மூழ்கி இருப்பதால், குறுகிய கால அழைப்பின் அடிப்படையில் இந்த சந்திப்பில் தமிழ்த் தேசியப் பொதுக்கட்டமைப்பாக கலந்து கொள்வது சிரமமாக இருக்கும்.
+The party leaders and civil society leaders who are part of the Tamil National General Framework were telephoned by the Presidential Secretariat representatives to meet President Ranil Wickremesinghe on Monday (12).
 
-எதிர்காலத்தில் இது போன்ற அழைப்புகளை ஏற்று சந்திப்புகளில் கலந்து கொள்வது தொடர்பான முடிவை பொதுக் கட்டமைப்பு கூடி முடிவெடுக்கும் - என தமிழ் தேசிய பொது கூட்டமைப்பின் பிரதிநிதிகள் தீர்மானித்துள்ளனர்.
+At the meeting, 14 members will not attend the meeting on the basis of the Tamil National General Framework.
 
-...
+Since it is immersed in election work, it will be difficult to attend the meeting as a Tamil National Committee on a short -term call.
+
+Representatives of the Tamil National Alliance (TNA) have decided that the general structure will decide on the decision to accept such calls in the future.
+
+It is noteworthy that a few days ago, the Tamil National Alliance (TNA) was announced as the Tamil general candidate as former MP Bhakiyaselvam Ariyanethran.
+
+◼️
 
 [Data](articles/03379c38.json)
+
+[Extended Data](ext_articles/03379c38.ext.json)
+
+---
+
+### උතුරු අහසේ දිස්වන පර්සියස්
+
+*2024-08-11 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199820) · `si`
+
+‍පියවි ඇසට දැකගැනිමට හැකි උල්කාපාත වර්ෂාවක් අද (11) මධ්‍යමරාත්‍රියෙන් පසු උතුරු අහසේ දිස්වන බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පවසයි.
+
+perseus තාරුකා රාෂිය ආසන්නයේ එම උල්කාපාත වර්ෂාව දිස්වීම හේතුවෙන් එම උල්කාපාත වර්ෂාව perseus ලෙස නම්කර තිබේ.
+
+ජුලි මස මැද සිට අගොස්තු මස මැද භාගය දක්වා එම උල්කාපාත වර්ෂාව දක්නට ලැබෙන අතර එහි උච්චතම අවස්ථාව අද (11) මධ්‍යම රාත්‍රියෙන් පසු උදාවේ.
+
+පැයක් තුළ උල්කාපාත සියයක් පමණ දිස්වන අතර, තැනිතලා බිමකට ගොස් එම බාධාවකින් තොරව දැකබලා ගැනීමට හැකිවන බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/439e625c.json)
 
 ---
 
@@ -72,21 +112,27 @@ According to the Ports Authority, 995 containers were scheduled to be unloaded f
 
 ---
 
-### தவறான பாதையில் ஏறியவர் மரணம்
+### Death
 
 *2024-08-11 15:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தவறான-பாதையில்-ஏறியவர்-மரணம்/76-341961) · `ta`
 
-தெஹியோவிட்டவிலிருந்து கம்பளைக்கு வந்து அம்புலுவாவ மலையில் தவறான பாதையில் ஏறச் சென்ற நபரொருவர் மீது பாரிய கல் விழுந்ததில் அந்நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A man from Tehiyovitta died while climbing Ambuluwawa mountain, taking a wrong path. He was part of a group of four climbers; he leaves behind two children.
 
-நான்கு பேர் கொண்ட குழுவொன்று மலை ஏற சென்றதாகவும் அதில் ஒருவர் உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-தெஹியோவிட்ட முருத்தெட்டுவ பிரதேசத்தைச் சேர்ந்த  இரண்டு பிள்ளைகளின் தந்தையே9 வயது 37) உயிரிழந்துள்ளார்.
+Police say the man has died when a man who came to the carpet from Tehiyovitta came to the Ambuluwawa mountain on the wrong path on the wrong path.
 
-மனைவியிடம் சொல்லாமல் வீட்டை விட்டு வெளியேறிய அவர், நண்பர்கள் நான்கு பேருடன் இந்த சுற்றுலா வந்தது தெரியவந்துள்ளது.
+A group of four people went to climb the mountain and one of them died, police said.
+
+The father of two children from the Muruttuwa area of ​​Tehiyovitta has died.
+
+He left the house without telling his wife and revealed that the tour came with four friends.
 
 ◼️
 
 [Data](articles/d7119048.json)
+
+[Extended Data](ext_articles/d7119048.ext.json)
 
 ---
 
@@ -145,6 +191,20 @@ The Ports Authority (Ports Authority) says that after 995 containers were landed
 [Data](articles/0d83d4b4.json)
 
 [Extended Data](ext_articles/0d83d4b4.ext.json)
+
+---
+
+### ෆර්සියස් උල්කාපාත වර්ෂාව අද දැකගැනීමට ශ්‍රී ලාංකිකයන්ට අවස්ථාව
+
+*2024-08-11 14:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ෆර්සියස්-උල්කාපාත-වර්ෂාව-අද-දැකගැනීමට-ශ්‍රී-ලාංකිකයන්ට-අවස්ථාව/11-411303) · `si`
+
+මෙම වසරේ දක්නට ලැබෙන ප්‍රධානම උල්කාපාත වර්ෂාව අද (11දා)  ශ්‍රී ලාංකිකයන්ට දැකගත හැකියාව ඇති බව අභ්‍යවකාශ විද්‍යාඥ ගිහාන් වීරසේකර මහතා පැවසීය.
+
+මෙම ෆර්සියස් උල්කාපාත වර්ෂාවේ උපරිමය මධ්‍යම රාත්‍රියෙන් පසු උතුරු අහසේ දැකගත හැකි බවද ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/57a68c83.json)
 
 ---
 
@@ -2241,91 +2301,5 @@ A discussion was held today (10) a meeting between the presidential candidate MP
 [Data](articles/9b772870.json)
 
 [Extended Data](ext_articles/9b772870.ext.json)
-
----
-
-### Maskeliya accident: two killed
-
-*2024-08-10 17:30:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியா-விபத்தில்-இருவர்-பலி/76-341917) · `ta`
-
-In a tragic accident near Maskeliya, a speeding three-wheeler lost control, resulting in two fatalities. Two others were hospitalized for treatment. The incident occurred on the Maskeliya Nallathani main road, and the police are investigating.
-
-🟩
-
-A three -wheeler from Maskeliya to the Mare Estate Division from the city to the Mare Estate Division lost control due to high speed.
-
-Two more people are taken to the Maskeliya District Hospital for further treatment for further treatment.
-
-Maskeliya Police Station Officer is investigating the accident
-
-The deceased body is located on the road in the Maskeliya Nallathani main road in the Purunlo estate.
-
-◼️
-
-[Data](articles/9e1d962d.json)
-
-[Extended Data](ext_articles/9e1d962d.ext.json)
-
----
-
-### Here is the electoral markings
-
-*2024-08-10 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199788) · `si`
-
-The Election Commission announced 206 electoral markings for political parties and independent groups, publishing them in a gazette. They received over 100 complaints about election law violations since July 31st, including allegations of violence, with a total of 266 complaints against election laws.
-
-🟩
-
-Election markings have been announced for recognized political parties and independent groups.
-
-The election commission declared a gazette and declared these electoral markers, where 206 marks have been published.
-
-Meanwhile, the Elections Commission has received more than a complaint yesterday (09).
-
-The commission stated that all these complaints are on violation of election laws.
-
-Accordingly, the National Complaint Management Center and the District Elections Management Center has received 112 complaints.
-
-The total number of complaints received from 31 July to yesterday.
-
-One of the complaints regarding violence between the complaints and two other complaints.
-
-The Elections Commission says that 266 complaints are violating election laws.
-
-◼️
-
-[Data](articles/f35b6a98.json)
-
-[Extended Data](ext_articles/f35b6a98.ext.json)
-
----
-
-### Amman Tali robbery at the Trincomalee Temple
-
-*2024-08-10 17:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணேஸ்வர-ஆலயத்தில்-விலை-மதிப்பில்லாத-அம்மன்-தாலி-கொள்ளை/75-341916) · `ta`
-
-A significant robbery occurred at the Trincomalee Temple, where ancient Thali artifacts were targeted. Despite the temple's history of protecting its treasures during the Portuguese invasion, the recent incident has sparked public outrage. The temple administration is seeking to address community concerns, acknowledging the irreplaceable value of the stolen items. The police have yet to file a report, and the public has engaged local officials, including the District Secretary and Governor Senthil Thondaman, to ensure justice is served.
-
-🟩
-
-Tali has been robbed at the Trincomalee - Trincomalee temple.
-
-It has been reported that the Thali from the Chola period from the Chola period and the sacred sacrifice of the Saivites was saved and protected by the Saivites when the temple was broken during the Portuguese period.
-
-Following this, the temple administration sought to calm the matter and try to make peace with the public.
-
-The public has expressed concern that the five shaving tali, which was paid to several hundred crores of gemstones and Vaidur, was powerful and that no one could compensate for it.
-
-It is said that the police have not yet lodged a complaint at the police station.
-
-Similarly, the 16 -pound diamonds worth several hundred crores of times during the Chola period and the gold jewelery packed with Vaidurum have been stolen in the past.
-
-In this case, the public has been brought to the attention of the concerned parties as the District Secretary and the Chancellor of the State.
-
-...
-
-[Data](articles/542e5e7f.json)
-
-[Extended Data](ext_articles/542e5e7f.ext.json)
 
 ---

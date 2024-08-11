@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 07:54:02**
+As of **2024-08-11 08:17:19**
 
 ## Newspaper Stats
 
@@ -26,129 +26,165 @@ adaderanasinhalalk | 6,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,043 (100.0%) of 40,057 articles have been extended.
+40,051 (100.0%) of 40,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### පැරිස් ඔලිම්පික් උලෙළ අදින් අවසන්
+### The Paris Olympics finished today
 
 *2024-08-11 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199802) · `si`
 
-ජූලි 26 වනදා 2024 ඔලිම්පික් උලෙළ ආරම්භ වූ අතර එය පුරා දින 15කට වැඩි කාලයක් පැවැත්වුණි.
+The Paris Olympics concluded today after over two weeks, featuring 329 matches across 32 sports with 10,714 athletes. The final day saw the men's and women's 100m sprint finals, with China leading in gold medals (39), followed by the U.S. (38) and Australia.
 
-ක්‍රීඩා 32කට අදාළව තරග 329ක් පැවති අතර ඊට ක්‍රීඩකයින් 10,714 දෙනෙකු සහභාගී වුණි.
+🟩
 
-ඊයේ පිරිමි සහ කාන්තා මීටර් 100 සහාය දිවීම ඉසව්වල අවසන් තරග පැවති අතර එහි පිරිමි ඉසව්වේ ප්‍රථම ස්ථානය කැනඩා කණ්ඩායමටත් කාන්තා ඉසව්වේ ප්‍රථම ස්ථානය අමෙරිකාවත් දිනා ගැනීමට සමත් වුණි.
+On July 26, the Olympics festival began on July 26, and it was held for more than 15 days.
 
-රන් පදක්කම් සටහනේ මේ වනවිට පෙරමුණ ගැනීමට චීනය සමත්ව ඇති අතර ඔවුන් රන් පදක්කම් 39ක් හිමිකරගෙන තිබේ.
+329 matches were held in 32 sports and 10,714 players participated.
 
-අමෙරිකාව රන් පදක්කම් 38ක් හිමිකර ගනිමින් රන් පදක්කම් සටහනේ දෙවන ස්ථානයේත් ඕස්ට්‍රේලියාව රන් පදක්කම් 18ක් හිමිකර ගනිමින් තෙවන ස්ථානයේ ත් රැඳී සිටී.
+Yesterday was the final of the male and women's 100-meter-lifesting events, and the first place in the women's event was able to win the first place in the women's event.
+
+China has now been leading the gold medal, and they have won 39 gold medals.
+
+The United States holds 38 gold medals in the second position in the third medal and Australia.
 
 ◼️
 
 [Data](articles/2f5d7654.json)
 
+[Extended Data](ext_articles/2f5d7654.ext.json)
+
 ---
 
-### වතු සේවකයන්ගේ වැටුප් වැඩි කිරීමට එරෙහි වුණේ නෑ - පලනි දිගම්බරම්
+### No opposition to the salaries of the estate workers - Palani Digambaram
 
 *2024-08-11 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199801) · `si`
 
-තමන් කිසිවිටකත් වතු සේවකයින්ගේ වැටුප් වැඩිකිරීමට එරෙහිව කටයුතු නොකළ බව කම්කරු ජාතික පෙරමුණේ නුවරඑළිය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී පලනි දිගම්බරම් මහතා පවසයි.
+Palani Digambaram denies opposing salary hikes for estate workers, contradicting former Minister Manusha Nanayakkara's claims. He accuses them of misleading plantation employees during a meeting in Hatton.
 
-ඔහු පැවසුවේ ජනාධිපතිවරයා සහ මනූෂ නානායක්කාර මහතා වතු සේවක ජනතාව නොමග යවමින් අසත්‍ය ප්‍රචාර සිදුකරන බවය.
+🟩
 
-හැටන් නගරයේ පැවති රැස්වීමක දී පලනි දිගම්බරම් මන්ත්‍රීවරයා මේ බව පැවසීය.
+Palaniymbombaram, Nuwara Eliya District Parliamentarian, said that he had never acted against the increase in the salaries of the plantation workers.
 
-වතු සේවකයින්ගේ වැටුප් වැඩීකිරීමට එරෙහිව පලනි දිගම්බරම් මහතා කටයුතු කළ බව හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා මීට පෙර පැවසුවේය.
+He said that the President and Manusha Nanayakkara will mislead the plantation employees.
+
+The Palani Digambaram was speaking at a meeting in Hatton.
+
+Former Minister Manusha Nanayakkara said that Mr. Palani Digambaram has taken measures against the increase in the salaries of estate workers.
 
 ◼️
 
 [Data](articles/505b93f7.json)
 
+[Extended Data](ext_articles/505b93f7.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයක් - 3ක් මරුට
+### Several fatal accidents - 3 dead
 
 *2024-08-11 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199800) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයකදී සිදුවූ රිය අනතුරුවලින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+In separate road accidents across the island, three fatalities occurred: two drivers and one passenger. Incidents happened in Homagama, Madatugama, Warakapola, and Jaffna-Kandy roads involving cars, cabs, and motorcycles. The victims, aged 29 and 19, resided in Kithulhawa and were from the Kottawa Old Road, Jaffna-Kandy Road, and Tulhiriiya Road respectively.
 
-ඊයේ (10) එම අනතුර සිදුව තිබුණේ, හෝමාගම, මඩාටුගම සහ වරකාපොළ යන පොලිස් වසම්වලය.
+🟩
 
-හෝමාගම - කොට්ටාව පරණ මාර්ගයේ වලව්ව හන්දියේදී ත්‍රිරෝද රථයක් මෝටර් රථයක් ගැටී සිදුවූ අනතුරකින් 41 හැවිරිදි ත්‍රිරෝද රථයේ රියදුරු මියගොස් තිබේ.
+Three persons were killed in road accidents in several parts of the island, police said.
 
-මේ අතර යාපනය - මහනුවර මාර්ගයේ පහළ බුලාගල ප්‍රදේශයේදී ත්‍රිරෝද රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කැබ් රථයක ගැටී අනතුරක් සිදුව තිබුණි.
+The accident had occurred yesterday (10) was in Homagama, Madatugama and Warakapola Police Divisions.
 
-අදාළ අනතුරින් ත්‍රිරෝද රථයේ රියදුරු සහ පසුපස ගමන්කළ පුද්ගලයෙකු දඹුල්ල රෝහලට ඇතුළත් කිරිමෙන් පසු ප්‍රතිකාර ලබමින් සිටි ත්‍රිරෝද රථ රියදුරු මියගොස් තිබේ.
+The driver of the 41-year-old three-wheeler was killed in an accident that a three-wheeler had hit a car at Kottawa Old road.
 
-එලෙස මියගොස් ඇත්තේ, කිතුල්හිටියාව ප්‍රදේශයේ පදිංචිව සිටි 29 හැවිරිදි පුද්ගලයෙකි.
+Meanwhile, a three-wheeler collided with a cab that collided with the opposite in the Jaffna-Kandy road.
 
-මේ අතර වරකාපොළ පොලිස් වසමේ අඹේපුස්ස - අලව්ව මාර්ගයේ තුල්හිරිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් 19 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+The three-wheeler driver, who was admitted to the Dambulla hospital, was killed after admission to the Dambulla hospital.
 
-යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයේ පෙරළී එම අනතුර සිදුව ඇත.
+The deceased has been identified as a 29 year old resident of Kithulhawa.
+
+Meanwhile, a 19-year-old youth has died in an accident in the Tulhiriiya road in the Ambepussa-Alawwa road in the Warakapola police division.
+
+The accident had occurred to be controlled by a motorcycle bout.
 
 ◼️
 
 [Data](articles/12f14a8a.json)
 
+[Extended Data](ext_articles/12f14a8a.ext.json)
+
 ---
 
-### ව්‍යාපාර සඳහා බලපා ඇති නීති රෙගුලාසි රැසක් ලිහිල් කිරීමට පියවර
+### Steps to relax the rules of rules affected by businesses
 
 *2024-08-11 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199799) · `si`
 
-ව්‍යාපාර සදහා බලපා ඇති නීති රෙගුලාසි රැසක් ලිහිල් කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Wickremesinghe plans to ease business regulations and develop a new institutional system to support entrepreneurs. He aims to transform Kandy into a tourism hub and implement its city development plan next year, focusing on boosting the Central Province's economy.
 
-මහනුවර දිස්ත්‍රික් වෙළද සංගම් නියෝජිතයින් සමග පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+🟩
 
-එහිදි වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ ව්‍යාපාරිකයින්ගේ කටයුතු පහසු කර ගැනීම වෙනුවෙන් නව ආයතන පද්ධතියක් ඇති කිරීමට ද සැලසුම් කර ඇති බවය.
+President Ranil Wickremesinghe says he will explore many rules for the business.
 
-මහනුවර නගර සංවර්ධන සැලැස්ම ලබන වසරේ සිට ක්‍රියාත්මක කිරීමට සාකච්ඡා කර ඇති බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+The President was speaking at a meeting with the District Trade Union representatives of Kandy.
 
-මධ්‍යම පළාත සංචාරක ව්‍යාපාරයේ ප්‍රධාන කේන්ද්‍රස්ථානයක් බවට පත්කළ යුතු බවත් ජනාධිපතිවරයා මෙහිදි අදහස් දක්වමින් පැවසීය.
+Speaking further, the President said that it was planned to create a new institutional system to facilitate the businessmen.
+
+The President also said that the Kandy city development plan has been implemented since next year.
+
+The President said that the Central Province should be converted into a major hub of tourism.
 
 ◼️
 
 [Data](articles/7d72f625.json)
 
+[Extended Data](ext_articles/7d72f625.ext.json)
+
 ---
 
-### ප්‍රදේශ රැසකට තද වැසි
+### Heavy rains in many areas
 
 *2024-08-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199798) · `si`
 
-ඉදිරි දින කිහිපයේදී දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in North, North Central, Eastern, Uva, Western, Sabaragamuwa, and Matara provinces over the next few days, with potential for gusty winds and lightning. The Department of Meteorology advises caution and preparedness for possible temporary power outages and safety during storms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ප්‍රදේශවලට අද (11) දිනයේ මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Department of Meteorology states that there is a protesting atmospheric objective in thundershowers in the next few days.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+The department states today (11) at some places in the North, North Central, Eastern and Uva provinces. Heavy rains can occur at more than 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at times in the Western and Sabaragamuwa and Matara districts.
+
+The Department of Meteorology is speaking at several places in the evening or night in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/be992a61.json)
 
+[Extended Data](ext_articles/be992a61.ext.json)
+
 ---
 
-### ’தோட்டத் தொழிலாளர்களுக்கு அடுத்த வருடம் சேமலாப நிதி’
+### Next year for plantation workers
 
 *2024-08-11 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களுக்கு-அடுத்த-வருடம்-சேமலாப-நிதி/175-341936) · `ta`
 
-தோட்ட தொழிலாளர்களின் ஒரு நாள் சம்ளத்தை 1,700 ரூபாயாக அதிகரிப்பதற்கு எடுக்கப்பட்ட தீர்மானத்தை செயற்படுத்த 07 பெருந்தோட்ட நிறுவனங்கள் இணங்கியுள்ளன எனவும் எதிர்வரும் திங்கள் கிழமை சம்பள நிர்ணயச் சபையை அழைத்துச் பேசி அந்த தீர்மானத்தை செயற்படுத்தத் தேவையான சட்டங்களை கொண்டுவர தயாராக இருப்பதாகவும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Wickremesinghe announced that seven plantation firms agree to raise daily wages to Rs 1,700 and plan to enact necessary laws by Monday. He also mentioned the initiation of a provisional fund for plantation workers starting next year, during a meeting with estate workers' unions and youth leaders in Kandy.
 
-அத்துடன், தோட்ட தொழிலாளர்களுக்கு வழங்கப்படாமலிருக்கும் சேமலாப நிதியை பெற்றுக்கொடுப்பதற்கான பணிகளை அடுத்த வருடத்திலிருந்து முன்னெடுப்போம் எனவும் ஜனாதிபதி  தெரிவித்தார்.
+🟩
 
-இலங்கை தொழிலாளர் காங்கிரஸினால் ஏற்பாடு செய்யப்பட்ட கண்டி மாவட்ட தோட்டத் தொழிலாளர் தொழிற்சங்கங்கள் மற்றும் இளைஞர் தலைவர்களுடனான சந்திப்பில் நேற்று கண்டி கரலிய மண்டபத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். (a)
+President Ranil Wickremesinghe said that seven plantation companies have agreed to implement the resolution to increase the plantation workers' one -day salary to Rs 1,700 and are ready to bring the laws required to implement the resolution on Monday.
+
+The President also said that we will carry out the process of obtaining a provisional fund for plantation workers from next year.
+
+The President said this while addressing a meeting with the Kandy District Estate Workers' Trade Unions and Youth Leaders at the Kandy Karalya Hall yesterday organized by the Ceylon Workers Congress.. (A)
 
 ◼️
 
 [Data](articles/a84fe975.json)
+
+[Extended Data](ext_articles/a84fe975.ext.json)
 
 ---
 
@@ -552,19 +588,25 @@ It is part of the multi-year Support to Justice Sector Project (JURE), which beg
 
 ---
 
-### මස්කෙලියේ අනතුරකින්‌ දෙදෙනෙකු මරුට
+### Two killed in Maskele accident
 
 *2024-08-10 20:36:00* · [`adalk`](https://www.ada.lk/breaking_news/මස්කෙලියේ-අනතුරකින්‌-දෙදෙනෙකු-මරුට/11-411296) · `si`
 
-මස්කෙළිය, බ්‍රවුන්ලෝ ප්‍රදේශයේදී සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic road accident in Brown Grosses, two died as a three-wheeler and a cab collided. Two others were hospitalized.
 
-ත්‍රිරෝද රථයක් සහ කැබ් රථයක් ගැටීමෙන් එම අනතුර සිදුවී ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-අනතුරින් තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මස්කෙළිය රෝහල වෙත ඇතුළත් කර ඇත.
+Two persons were killed in a road accident in Brown Grosses.
+
+The accident had occurred when a three-wheeler and a cab collided with a cab.
+
+Two more people were admitted to the Maskeliya Hospital.
 
 ◼️
 
 [Data](articles/3f193913.json)
+
+[Extended Data](ext_articles/3f193913.ext.json)
 
 ---
 
@@ -1507,6 +1549,8 @@ I have been immersed and absorbed in the second volume of Leonard Sydney Woolf�
 ...
 
 [Data](articles/4297e3d8.json)
+
+[Extended Data](ext_articles/4297e3d8.ext.json)
 
 ---
 

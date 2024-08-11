@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 05:06:08**
+As of **2024-08-12 05:21:09**
 
 ## Newspaper Stats
 
-*Scraped **40,177** Articles*
+*Scraped **40,184** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 375
-colombotelegraphcom | 379
+colombotelegraphcom | 381
 islandlk | 2,318
 economynextcom | 2,427
 dailyftlk | 2,593
@@ -19,18 +19,96 @@ adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,080
-virakesarilk | 6,371
+virakesarilk | 6,376
 adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,177 (100.0%) of 40,177 articles have been extended.
+40,177 (100.0%) of 40,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ஜனாதிபதி போட்டியில் இருந்து ஜனாதிபதி விலகிக்கொள்ள வேண்டும் - ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ
+
+*2024-08-12 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190850) · `ta`
+
+ஜனாதிபதியின் ஆலாேசகர் ஒருவர் ஜனாதிபதி வேட்பாளராக போட்டியிடுவது சட்ட விராேதமாகும். அது தொடர்பில் ஜனாதிபதி வெட்கப்பட வேண்டும். சரியாக இருந்தால் அவர் ஜனாதிபதி போட்டியில் இருந்து விலகிக்கொள்ள வேண்டும் என தேசிய ஜனநாயக முன்னணி ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+
+தேசிய ஜனநாயக முன்னணி ஞாயிற்றுக்கிழமை (11) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+இந்தமுறை ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு இதுவரை 27பேர் கட்டுப்பணம் செலுத்தி இருக்கின்றனர். இது ஜனநாயக உரிமையை துஷ்பிரயோகம் செய்யும் செயலாகும். கட்டுப்பணம் செலுத்தியுள்ள அதிகமான வேட்பாளர்களுக்கு 500வாக்குகள் கூட பெற முடியாது. வேட்பாளர்கள் அதிகரிக்கும்போது வாக்குச்சீட்டும் நீலமாகிறது. இதனால் வாக்களிக்கும்போது சாதாரண மக்கள் குழப்படையும் நிலை உருவாகிறது.
+
+...
+
+[Data](articles/08f157d5.json)
+
+---
+
+### மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயில் 37வது ஆண்டு ஆடிப்பூர மஹோற்சவ பெருவிழா
+
+*2024-08-12 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190847) · `ta`
+
+மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயில் 37வது ஆண்டு ஆடிப்பூர மஹோற்சவ பெருவிழாவின் தீர்த்தோற்சவம் ஞாயிற்றுக்கிழமை (11) காலை வெள்ளவத்தை கடற்கரையில் இடம்பெற்ற போது பிடிக்கப்பட்ட படங்கள்.
+
+◼️
+
+[Data](articles/17e4ca54.json)
+
+---
+
+### டிஜிட்டல் முறைமையிலான சுயநிர்ணயத்தை தமிழர்களுக்கு வழங்கலாம் - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-08-12 03:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190851) · `ta`
+
+பொருளாதார ரீதியில் நாடு தற்போது அடைந்துள்ள ஒப்பீட்டளவிலான முன்னேற்றத்தை சீர்குலைக்கும் வகையில் ஜனாதிபதி தேர்தலின் போது செயற்படமாட்டோம். அரச கட்டமைப்பு டிஜிட்டல் மயப்படுத்தப்பட்டால் தமிழர்களுக்கு டிஜிட்டல் முறைமை ஊடாக சுயநிர்ணயத்தை வழங்கலாம் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+கொழும்பு பிலியந்தல பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற ஐக்கிய குடியரசு முன்னணியின் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தல் தீர்மானமிக்கது. பொருளாதார படுகொலையாளிகளான ராஜபக்ஷர்கள் பொருளாதார பாதிப்புக்கு தீர்வு காண்பதாக குறிப்பிடுகிறார்கள்.பொருளாதார பாதிப்புக்கு பொறுப்புக் கூற வேண்டிய ராஜபக்ஷர்களால் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியுமா என்பதை நாட்டு மக்கள் சிந்திக்க வேண்டும்.
+
+...
+
+[Data](articles/75c8f38b.json)
+
+---
+
+### ராஜபக்ஷர்களே நாட்டு மக்களை யாசகர்களாக்கினர் : நாமல் ராஜபக்ஷவை படுதோல்வியடைய செய்து மக்கள் தமது வெறுப்பை வெளிப்படுத்த வேண்டும் - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-08-12 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190849) · `ta`
+
+நாமல் ராஜபக்ஷவை ஜனாதிபதி வேட்பாளராக களமிறக்கியதற்கு மஹிந்த ராஜபக்ஷவுக்கு நன்றி தெரிவித்துக் கொள்கிறேன். நாட்டை வங்குரோத்து நிலைக்கு தள்ளி ஒட்டுமொத்த மக்களையும் கையேந்த வைத்த ராஜபக்ஷ குடும்பத்துக்கு பதிலடி கொடுக்க வேண்டும். நாமல் ராஜபக்ஷவை படுதோல்வியடைய செய்து மக்கள் தமது வெறுப்பை வெளிப்படுத்த வேண்டும்.
+
+நாட்டை வங்குரோத்துக்கு தள்ளியவர்களால் எவ்வாறு பொருளாதாரத்தை மேம்படுத்த முடியும். நாட்டு மக்கள் தெளிவாக சிந்திக்க  வேண்டும். செப்டெம்பர் 21 ராஜபக்ஷர்களுக்கு சிறந்த படிப்பினையை கற்றுக்கொடுக்கும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+கொழும்பு பிலியந்தல பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற ஐக்கிய குடியரசு முன்னணியின் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டுக்கு வருமானத்தை ஈட்டிக் கொடுக்கும் சிறந்த அபிவிருத்தித் திட்டங்களை நல்லாட்சி அரசாங்கத்தில் முன்னெடுத்தோம்.நட்டமடைந்த அரச நிறுவனங்களையும் இலாபமடைய செய்து அதன் பயனை நாட்டு மக்களுக்கு பல்வேறு வழிகளில் பெற்றுக்கொடுத்தோம்.
+
+...
+
+[Data](articles/ee501b09.json)
+
+---
+
+### Factum Perspective: உக்ரைன் - மூலோபாய மற்றும் தொழில்நுட்ப ஹாட்ஹவுஸ்
+
+*2024-08-12 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190848) · `ta`
+
+பெப்ரவரி 24, 2022 அன்று உக்ரைனின் "இராணுவமயப்படுத்தலின் நீக்கத்தை" இலக்காகக் கொண்டு ரஷ்யா தனது "விசேட இராணுவ நடவடிக்கையை" (Spetsialnaya Voennaya Operatsiya - SVO) ஆரம்பித்தது. ரஷ்யப் படைகள் 2014 இல் கிறிமியாவில் மேற்கொண்டதைப் போலவே தங்களது பிரச்சாரத்தை ஆரம்பித்தன. உக்ரேனியப் படைகள் எதிர்க்கவில்லை. ரஷ்யர்கள் தாங்கள் எதிர்கொண்ட எதிர்ப்பின் அளவை எதிர்பார்க்கவில்லை என்பதற்கு ஆதாரங்கள் உள்ளன.
+
+வடக்கில், ரஷ்யர்கள் உக்ரேனிய தலைநகரான கியிவ் அருகே அடையும் வரை நல்ல முன்னேற்றத்தை அடைந்தனர், அங்கு வான்படைத் துருப்புக்கள் அன்டோனோவ் விமான நிலையத்தை கைப்பற்ற முயன்றனர். இங்கே, வலுவான உக்ரேனிய எதிர்ப்பு அவர்களை அவர்களின் வழிகளில் நிறுத்தி, இறுதியில் அவர்களை பின்னோக்கி தள்ளியது.
+
+தெற்கில், ரஷ்யர்கள் ஆழமாக ஊடுருவி, மைக்கோலேவுக்கு வெளியே உள்ள உயர் படைகளால் தடுத்து நிறுத்தப்பட முன்னராக டினீப்பர் ஆற்றைக் கடந்து, கெர்சனைக் கைப்பற்றியதால் மரியுபோல் துறைமுகத்தை ஈரூடகப் படைகள் தாக்கின.
+
+...
+
+[Data](articles/bd4c18dc.json)
+
+---
 
 ### Today is the Rs 1,700 issue
 
@@ -430,6 +508,22 @@ Moderated by CIMA Global 2022/23 President Melanie J. Kanaka, and Sri Lanka Huma
 
 ---
 
+### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Economy – Part I
+
+*2024-08-11 22:51:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-economy-part-i/) · `en`
+
+There is a long list of Presidential hopefuls, but the voters will focus on five or six of them. From among them, one will be elected as the leader to steer the country to progress and prosperity. However, if they are to deliver prosperity to people, they should adopt policy strategies to accelerate economic growth at an unparalleled level of 8-9% annually over the next 25 years. This requires Sri Lanka to generate new inventions which should be commercially produced for the local as well as for global markets through innovations.
+
+Hence, inventions and innovations should receive the highest priority of those aspiring to win the forthcoming Presidential election in their policy strategies. This article series will provide the needed guidance to those Presidential hopefuls. It is an updated and a modified version of a previous paper written by the author for the Association of Professional Bankers.
+
+Modern economies should be aptly termed innovation or creative economies
+
+...
+
+[Data](articles/5b734491.json)
+
+---
+
 ### International Youth Day 2024 from ‘Clicks to Progress’
 
 *2024-08-11 22:48:53* · [`dailyftlk`](https://www.ft.lk/columns/International-Youth-Day-2024-from-Clicks-to-Progress/4-765397) · `en`
@@ -523,6 +617,18 @@ Sammu Asan, who was so relaxed with a lot of success, did not lose the game with
 [Data](articles/832a6bb9.json)
 
 [Extended Data](ext_articles/832a6bb9.ext.json)
+
+---
+
+### The Reality Of The Economic Crisis
+
+*2024-08-11 21:52:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-reality-of-the-economic-crisis/) · `en`
+
+There is still a significant misunderstanding among many people regarding the true cause of the economic crisis. While many attribute the economic downturn primarily to corruption, the underlying cause is far more complex: we have been spending more than we earn. The lack of savings, combined with many state institutions operating at a loss, has led us to spend beyond our means. To cover these expenses, we have had to borrow money, and as this pattern continued, our debt accumulated to unmanageable levels. When income suddenly drops, the ability to pay off these debts becomes severely compromised, leading to the kind of crisis Sri Lanka experienced in 2021.
+
+...
+
+[Data](articles/a17bff10.json)
 
 ---
 
@@ -2159,177 +2265,5 @@ Additionally, the Deputy Director of Customs has imposed a fine of Rs. 1.6 milli
 [Data](articles/9cec4554.json)
 
 [Extended Data](ext_articles/9cec4554.ext.json)
-
----
-
-### Cars that are pregnant in China
-
-*2024-08-11 11:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/சீனாவில்-கர்ப்பமாகும்-கார்கள்/53-341951) · `ta`
-
-Social media in China is abuzz with photos showing cars parked in the sun that appear swollen, particularly Chinese-made models. This phenomenon, attributed to extreme heat and possibly the effects of certain paints used in local vehicles, has sparked discussions about environmental concerns amidst global warming debates.
-
-🟩
-
-Photos on social media have spread that cars parked in the sun in China are suddenly swollen.
-
-Some local people have reported that this is the case for Chinese production cars, not all cars.
-
-While the world is talking about global warming on the other side, all the arrangements for further warming are spreading on social media that cars are pregnant in China.
-
-Cars parked on the road are suddenly swollen as China is currently in severe heat. Many of these photos have been shared on the social network and noted that cars are pregnant.
-
-Even though this is a joke, what is really happening, the people of the country say that the paints that are beaten in local -made cars are soaked in the sun.
-
-If some cars are swollen on the front, it will not be able to drive and many cars have been parked in one place.
-
-◼️
-
-[Data](articles/82d378ee.json)
-
-[Extended Data](ext_articles/82d378ee.ext.json)
-
----
-
-### Three-wheeler is seriously in a lorry, one is serious
-
-*2024-08-11 10:50:14* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථය-ලොරි-රථයක-ගැටි--දෙදෙනෙක්-ජිවිතක්ෂයට--අයෙක්ට-බරපතලයි/11-411299) · `si`
-
-In a tragic accident near Maskeliya, a three-wheeler collided with a Bolero truck, resulting in the deaths of both the three-wheeler driver and his passenger. Another passenger was critically injured and rushed to the hospital. The incident occurred around 3:30 pm when the three-wheeler was traveling towards Nallatna. Police suspect the truck driver might be at fault and have taken him into custody for questioning.
-
-🟩
-
-A three-wheeler from Maskeliya to Nallatna, the driver of the three-wheeler and another injured in the three-wheeler of the three-wheeler, was admitted to the Balako.The police said.
-
-The deceased is the dallwilageniya (66-year-old father), a three-wheeler father and the three-wheeler driver of the three-wheeler death of the three-wheeler killing of the three-wheeler killing.
-
-(10) The accident occurred in the Maskeliya Glancetil estate area in Maskeliya road around 3.30 pm.
-
-Bolero Lori, the driver of the Nallatunge to Maskel to Maskel to the house, was seriously injured in the crash of the crash to Maskel to Maskeliya.In the case of admission to the Testing Workers, the injured have been transferred to the Basic Hospital, due to the injured condition after being admitted to the Maskeliya Divisional Hospital.
-
-...
-
-[Data](articles/78911063.json)
-
-[Extended Data](ext_articles/78911063.ext.json)
-
----
-
-### Election Complaints
-
-*2024-08-11 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199808) · `si`
-
-The Elections Commission reports a surge in election complaints post-presidential election, with 51 complaints in the last 24 hours, bringing the total to around 320 since July 31.
-
-🟩
-
-Election complaints have increased in connection with the presidential election, says the Elections Commission.
-
-The Commission points out that 51 election complaints were reported during the last 24 hours.
-
-Around 320 election complaints have been reported from July 31 and yesterday (10).
-
-◼️
-
-[Data](articles/a76f121f.json)
-
-[Extended Data](ext_articles/a76f121f.ext.json)
-
----
-
-### Miracle of Pikkuval in Nallur: Devotees
-
-*2024-08-11 10:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூரில்-பிக்குவுவால்-அதிசயம்-பக்தர்கள்-விசனம்/71-341949) · `ta`
-
-During the Nallur Kandaswamy Temple festival, Buddhist monks' vehicles were allowed near the temple, causing distress among devotees. Last year, similar incidents occurred at a Saivite temple. Devotees now demand an end to such practices.
-
-🟩
-
-The vehicles of Buddhist monks have been enrolled on Saturday (10) to the front of the Nallur Kandaswamy Temple, despite the roadblocks that ban vehicle traffic due to the Nallur Kandaswamy Temple festival.
-
-This process has caused great distress among the devotees. This incident took place last year.
-
-Even in the temple of the Saivites, monks logged in with vehicles and set foot on the temple premises.
-
-People have demanded that such a face -to -face operations should no longer take place.
-
-◼️
-
-[Data](articles/9a58759f.json)
-
-[Extended Data](ext_articles/9a58759f.ext.json)
-
----
-
-### Two people die in accidents in different territories
-
-*2024-08-11 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190797) · `ta`
-
-In separate incidents, two individuals died in road accidents across Sri Lanka: a 41-year-old three-wheeler driver in Homagama and a 19-year-old in Warakapola.
-
-🟩
-
-Two people have died in road accidents in different parts of the country, police said.
-
-The accidents took place yesterday (10) in the Homagama and Warakapola police divisions.
-
-A 41 -year -old driver of a three -wheeler was killed when a three -wheeler crashed into a car on the Homagama - Kottawa old road, police said.
-
-Meanwhile, a 19 -year -old youth has died in a vehicle accident in Dulhiriya area on the Ambepussa -Alawa road under the Warakapola Police Division.
-
-◼️
-
-[Data](articles/c1e2a3e7.json)
-
-[Extended Data](ext_articles/c1e2a3e7.ext.json)
-
----
-
-### Dozens of Rohingya fleeing Myanmar killed in drone attack
-
-*2024-08-11 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101142/dozens-of-rohingya-fleeing-myanmar-killed-in-drone-attack) · `en`
-
-A drone attack on Rohingya fleeing Myanmar killed many dozens of people, including families with children, several witnesses said, describing survivors wandering between piles of bodies to identify dead and injured relatives.
-
-Four witnesses, activists and a diplomat described drone attacks on Monday that struck down families waiting to cross the border into neighbouring Bangladesh.
-
-A heavily pregnant woman and her 2-year-old daughter were among the victims in the attack, the single deadliest known assault on civilians in Rakhine state during recent weeks of fighting between junta troops and rebels.
-
-Three of the witnesses told Reuters on Friday that the Arakan Army was responsible, allegations the group denied. The militia and Myanmar’s military blamed each another. Reuters could not verify how many people had died in the attack or independently determine responsibility.
-
-...
-
-[Data](articles/fd0a0781.json)
-
-[Extended Data](ext_articles/fd0a0781.ext.json)
-
----
-
-### Accused i cell phone and laptop
-
-*2024-08-11 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199807) · `si`
-
-Deputy Customs Director in Sri Lanka seized 12 iPhones and laptops smuggled from Dubai by six individuals. Arrested were three locals from Dematagoda, Colombo. The items were confiscated at Katunayake airport, and the suspects face charges for evading customs duty.
-
-🟩
-
-The Deputy Customs Director has taken steps to confuse a large number of mobile phones and laptops to be illegally brought to Sri Lanka without paying duties.
-
-Three passengers from Dubai and three passengers were brought to the country by three passengers from Dubai at around 12.30 am yesterday (10).
-
-The following was six "I phone" and six laptops.
-
-They were taken into custody by a group of Katunayake Airport Criminal Investigations in the Katunayake airport.
-
-The arrested were three residents of Dematagoda, Colombo.
-
-The suspects were handed over to Katunayake Airport to the Customs Officers and the customs investigation had taken steps to confuse the mobile phone and laptops after conducting a customs investigation.
-
-The Deputy Customs Director has ordered the three suspects to pay Rs.
-
-◼️
-
-[Data](articles/f0813399.json)
-
-[Extended Data](ext_articles/f0813399.ext.json)
 
 ---

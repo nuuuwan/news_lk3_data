@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 04:07:34**
+As of **2024-08-12 04:21:15**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,175 (100.0%) of 40,177 articles have been extended.
+40,177 (100.0%) of 40,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ரூ.1,700 விவகாரம் இன்று பேச்சு
+### Today is the Rs 1,700 issue
 
 *2024-08-12 01:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-700-விவகாரம்-இன்று-பேச்சு/175-341993) · `ta`
 
-தோட்ட தொழிலாளர்களுக்கு 1700 சம்பள அதிகரிப்பை வழங்குவதாக 7 பெருந்தோட்ட நிறுவனங்கள் இணக்கம் தெரிவித்துள்ளதாகவும், தொழில் அமைச்சர், திங்கட்கிழமை (12)  அது குறித்து சம்பள நிர்வாகச் சபையுடன் பேசவிருப்பதாகவும், அவசியம் ஏற்படும் பட்சத்தில் அதற்கான சட்டத்தை நிறைவேற்ற தயாராக இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1,700 salary increase for plantation workers. The Minister of Labor will discuss this on Monday, and the President is prepared to enact necessary laws. This decision was made during a public meeting of plantation union youths in Kandy, where Wickremesinghe also assumed the labor ministry's responsibilities after Manusha Nanayakkara's departure due to Supreme Court issues.
 
-இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாட்டில் கண்டி 'கரலிய' அரங்கத்தில் சனிக்கிழமை (10) நடைபெற்ற தோட்ட தொழிற்சங்கங்களின் இளம் தலைவர்களின் பொதுக்கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க அறிவித்தார்.
+🟩
 
-தொழில் அமைச்சராக பணியாற்றிய மனுஷ நாணயக்கார, உயர்நீதிமன்ற தீர்ப்பை அடுத்து பாராளுமன்ற உறுப்பினர் பதவியை இழந்துள்ளார். இதனையடுத்து, அவர் வகித்த தொழில் அமைச்சின் பொறுப்புகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க தனக்கு கீழ் கொண்டுவந்துள்ளார் என்பது குறிப்பிடத்தக்கது.
+President Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak on Monday (12) and that he is ready to pass the law if necessary.
+
+President Ranil Wickremesinghe announced at a public meeting of the youth of the plantation unions held on Saturday (10) at the 'Kararaliya' stadium in Kandy in organizing the Ceylon Workers Congress.
+
+Manusha Nanayakkara, who served as the Minister of Labor, lost his post in the aftermath of the Supreme Court. Subsequently, President Ranil Wickremesinghe has brought the responsibilities of the Ministry of Labor under him.
 
 ◼️
 
 [Data](articles/19e4a359.json)
+
+[Extended Data](ext_articles/19e4a359.ext.json)
 
 ---
 
@@ -122,21 +128,27 @@ Home -to -house, appointing agents at polling stations, organizing President Ran
 
 ---
 
-### ’ரணில் ராஜபக்ஷ துண்டு நீங்கி சஜித் ராஜபக்ஷ ஆகிவிட்டது’
+### Sajith Rajapaksa has become Rajapaksa's strip of Ranil
 
 *2024-08-12 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-ராஜபக்ஷ-துண்டு-நீங்கி-சஜித்-ராஜபக்ஷ-ஆகிவிட்டது/150-341990) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டத்தில் உள்ள அனைத்து தொகுதிளையும் உள்ளடக்கிய வகையில் ஜனாதிபதி தேர்தல் கூட்டு நடவடிக்கை குழுக்கள் நியமிக்கப்படவுள்ளன.
+Joint committees covering all Gampaha districts' constituencies have been appointed to support President Ranil Wickremesinghe's campaign, involving various parties. These committees, established by Minister Prasanna Ranatunga and Gampaha district MPs, aim to organize home-to-house visits, agent appointments at polling stations, and guide election campaigns at the constituency level. The move signifies a unity effort among supporters, marking a shift towards a new political culture focused on collective victory.
 
-அமைச்சர் பிரசன்ன ரணதுங்க மற்றும் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர்களின் தலைமையில் சனிக்கிழமையும் (10) ஞாயிற்றுக்கிழமையும் (11) இந்தக் குழுக்கள் நியமிக்கப்பட்டன.
+🟩
 
-இந்தக் குழுக்களை ஸ்தாபிப்பதில், ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி, பொதுஜன ஐக்கிய முன்னணி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட ஜனாதிபதிக்கு ஆதரவான அனைத்துக் கட்சிகளின் பிரதிநிதிகளும் இந்தக் கூட்டமைப்பில் உள்ளடங்குகின்றது.
+The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
 
-வீடு வீடாகச் செல்லுதல், வாக்கெடுப்பு நிலையங்களில் முகவர்களை நியமித்தல், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஜனாதிபதித் தேர்தல் பிரசாரங்களை ஒழுங்கமைத்தல், சம்பந்தப்பட்ட தொகுதி மட்டத்தில் ஒழுங்கமைத்தல் மற்றும் வழிநடத்துதல் ஆகியன இந்தத் தொகுதிகளின் கூட்டுக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளன.
+The committees were appointed by Minister Prasanna Ranatunga and the Gampaha district MPs on Saturday (10) and Sunday (11).
+
+In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka Peoples Alliance, the United National Party, the Sri Lanka Freedom Party, the PA and the United People's Power.
+
+Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
 
 ...
 
 [Data](articles/d0d7fbc4.json)
+
+[Extended Data](ext_articles/d0d7fbc4.ext.json)
 
 ---
 

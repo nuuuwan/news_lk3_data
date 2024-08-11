@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 02:55:03**
+As of **2024-08-12 03:06:21**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,174 (100.0%) of 40,175 articles have been extended.
+40,175 (100.0%) of 40,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### வியாழனன்று விசேட பாதுகாப்பு
+### Special security on Thursday
 
 *2024-08-12 00:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழனன்று-விசேட-பாதுகாப்பு/175-341992) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான வேட்புமனு தாக்கல் செய்யும் தினமான எதிர்வரும் 15ஆம் திகதி விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்படவுள்ளன.  தேர்தல்கள் ஆணைக்குழுவின் ஆலோசனைக்கமைய இந்த விசேட பாதுகாப்பு நடவடிக்கைகள் நடைமுறைப்படுத்தப்படவுள்ளன.
+On the 15th, special security and traffic schemes will be in place for the presidential election nomination process. The Elections Commission advised these measures. Only two individuals, including the party secretary, can enter the election office, accompanied by the presidential candidate. Nominations will be accepted from 9 am to 11 am.
 
-இராஜகிரியவில் உள்ள தேர்தல் அலுவலகத்தை அண்மித்த வீதிகளில் எதிர்வரும் 15ஆம் திகதி விசேட போக்குவரத்துத் திட்டம் அமுல்படுத்தப்படவுள்ளது.
+🟩
 
-ஜனாதிபதி வேட்பாளருடன் கட்சியின் செயலாளர் உட்பட இருவர் மாத்திரமே வேட்புமனு ஏற்கும் அலுவலகத்திற்குள் பிரவேசிக்க அனுமதியளிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க குறிப்பிட்டுள்ளார்.
+Special security arrangements will be made on the 15th of this month, the day of filing nominations for the presidential election.This special security measures will be implemented on the advice of the Elections Commission.
 
-எதிர்வரும் 15ஆம் திகதி காலை 9 மணி முதல் முற்பகல் 11 மணி வரை ஜனாதிபதி தேர்தலுக்கான வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்படவுள்ளன.
+A special traffic scheme will be implemented on the 15th of this month on the streets of the election office in Rajagiriya.
+
+Elections Commissioner Saman Sri Ratnayake has stated that only two people, including the party secretary, have been allowed to enter the office where the party secretary is accompanied by the presidential candidate.
+
+The nomination for the presidential election will be accepted from 9 am to 11 am on the 15th.
 
 ◼️
 
 [Data](articles/4c05dc34.json)
+
+[Extended Data](ext_articles/4c05dc34.ext.json)
 
 ---
 

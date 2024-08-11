@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 18:55:17**
+As of **2024-08-11 19:06:15**
 
 ## Newspaper Stats
 
-*Scraped **40,132** Articles*
+*Scraped **40,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,683
-adaderanalk | 4,673
+adaderanalk | 4,674
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,073
+tamilmirrorlk | 5,074
 virakesarilk | 6,357
-adaderanasinhalalk | 6,829
+adaderanasinhalalk | 6,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,130 (100.0%) of 40,132 articles have been extended.
+40,132 (100.0%) of 40,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Perseid meteor shower: Sri Lanka’s northern sky to dazzle with midnight light show tonight
+
+*2024-08-11 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101157/perseid-meteor-shower-sri-lankas-northern-sky-to-dazzle-with-midnight-light-show-tonight) · `en`
+
+The most anticipated meteor shower of the year- the Perseids - will be visible to Sri Lanka tonight (11), after midnight or pre-dawn light hours.
+
+Space Scientist Gihan Weerasekara said this dazzling display will clearly appear to naked-eye from a plain ground on the northern sky of Sri Lanka from 12.00 midnight until the dawn.
+
+Streams of light and color will travel across the sky while explosions of fireballs linger, leaving behind even brighter streaks than the meteor trails from the Perseids passing through the atmosphere.
+
+Visible annually from mid-July to September 1, the Perseid meteor shower is set to peak between Sunday and before dawn Monday this year. Up to 100 meteors are expected per hour, moving at a speed of 133,200 miles per hour (214,365 kilometers per hour), as per reports.
+
+...
+
+[Data](articles/d91fbd75.json)
+
+---
+
+### වෙන්නප්පුව වෙරළ තීරයේ සිදුකළ බුද්ධි මෙහෙයුම
+
+*2024-08-11 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199827) · `si`
+
+ඉන්දිය අත්අඩංගුවෙන් පළාආ ශ්‍රී ලාංකිකයෙකු වෙන්නප්පුව වෙරළ තීරයේ දී අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+නාවික හමුදා බුද්ධි අංශය විසින් ලබාදුන් තොරතුරකට අනුව නාවික හමුදාව සහ පොලීසිය එක්ව වෙන්නප්පුව වෙරළ ප්‍රදේශයේ සිදුකළ මෙහෙයුමකදී සැකකරුව අත්අඩංගුවට ගත් බව නාවික හමුදාව පැවසුවේය.
+
+නීතිවිරෝධීව ඉන්දීය ධීවර යාත්‍රාවකින් වෙන්නප්පුව වෙරළ තීරයට පැමිණි එම පුද්ගලයා රහසිගතව ගොඩබැසීමට උත්සාහ කළ අවස්ථාවේදී එලෙස අත්අඩංගුවට ගෙන තිබුණි.
+
+මොහු මත්ද්‍රව්‍ය ජාවාරම් කිරීමේ චෝදනා මත 2021 වසරේදී ඉන්දියාවේදී අත්අඩංගුවට පත්වූ අයෙකු බව වාර්තා විය.
+
+සැකකරු සම්බන්ධයෙන් වැඩිදුර විමර්ශන සහ ඉදිරි නීතිමය කටයුතු වෙන්නප්පුව පොලීසිය විසින් සිදුකරන බව නාවික හමුදාව පැවසීය.
+
+◼️
+
+[Data](articles/e8b2faba.json)
+
+---
 
 ### Donald Trump’s campaign says its emails were hacked by Iran
 
@@ -50,25 +88,45 @@ It cited an instance of an Iranian military intelligence unit in June sending �
 
 ---
 
-### අමෙරිකාව දෙක වෙයි
+### The US is two
 
 *2024-08-11 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199826) · `si`
 
-2024 පැරිස් ඔලිම්පික් උලෙළේ රන් පදක්කම් සටහන අනූව අමෙරිකාව අභිබවා යෑමට චීනය සමත්වී තිබේ.
+In the Paris Olympics, China surpassed the US in gold medals, leading 40 to 38. Meanwhile, SiFAN from the Netherlands set a new record winning the women's marathon in 2:25, securing her first gold medal. She had previously won bronze in the 10,000m and silver in the 5,000m events.
 
-මේ වනවිට චීනය රන් පදක්කම් 40ක් දිනාගෙන සිටින අතර අමෙරිකාව ලබාගෙන ඇත්තේ රන් පදක්කම් 38ක් පමණි.
+🟩
 
-මේ අතර 2024 පැරිස් ඔලිම්පික් උලෙළේ කාන්තා මැරතන් රන් පදක්කම දිනා ගැනීමට නෙදර්ලන්තයේ සිෆාන් හස්සාන් සමත් වූවාය.
+China has been able to override the US in the Paris Olympics.
 
-31 හැවිරිදි සිෆාන් මැරතන් තරගය නිමාකළේ පැය 2යි මිනිත්තු 22යි ත්ත්පර 55ක කාලයකිනි. එය නව ඔලිම්පික් වාර්තාව කි.
+China has now won 40 gold medals and the US has only 38 gold medals.
 
-එහි දෙවැනි ස්ථානය ඉතියෝපියාවේ ටිග්ස්ට් අසීෆා දිනාගත් අතර තුන්වැනි ස්ථානය කෙන්යාවේ හෙලන් ඔබීරි හිමිකර ගත්තාය.
+Meanwhile, Sifa Haszan in the Netherlands in the Netherlands to win the women's marathon gold medal at the 2024 Olympics.
 
-සිෆාන් මෙවර ඔලිම්පික් උලෙළේ කාන්තා මීටර් 10,000 සහ 5,000 ඉසව් වලින්ද තඹ පදක්කම් දිනා ගත්තාය.
+The 31-year-old Sifa marathon was completed during the end of 2 hours and 25 minutes. It is a new Olympic report.
+
+The second place in Ethiopia won the Tigsta of Ethiopia and helen Maoi was placed third in Kenya.
+
+SiFAN won the copper medals from 10,000 and 5,000m events in this year's Olympics.
 
 ◼️
 
 [Data](articles/0bc18499.json)
+
+[Extended Data](ext_articles/0bc18499.ext.json)
+
+---
+
+### ரொஷான் ரணசிங்கவும் ஜனாதிபதி களத்தில்
+
+*2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-ஜனாதிபதி-களத்தில்/175-341975) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் , போட்டியிட உள்ளதாக   முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்க  தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா அறக்கட்டளையின் கீழ் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/56f5b3ae.json)
 
 ---
 
@@ -128,15 +186,21 @@ He was speaking at a function held at the Sri Lanka Foundation Institute.
 
 ---
 
-### 2005දී මහින්ද ගත්ත ප්‍රතිශතයම මෙවර නාමල් ගන්නවා
+### Namal takes the percentage of Mahinda admitted to Mahinda in 2005
 
 *2024-08-11 17:22:07* · [`adalk`](https://www.ada.lk/breaking_news/2005දී-මහින්ද-ගත්ත-ප්‍රතිශතයම-මෙවර-නාමල්-ගන්නවා/11-411308) · `si`
 
-2005 ජනාධිපතිවරණයේදී මහින්ද රාජපක්ෂ මහතා ලබාගත් ඡන්ද ප්‍රතිශතය මෙවර ජනාධිපතිවරණයේ දී නාමල් රාජපක්ෂ මහතා ලබාගන්නා බව පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා පැවසීය.
+MP Johnston Fernando revealed that Namal Rajapaksa obtained the vote percentage of President Mahinda Rajapaksa from the 2005 presidential election.
+
+🟩
+
+MP Johnston Fernando said that the percentage of votes polled by President Mahinda Rajapaksa at the 2005 presidential election was obtained by Namal Rajapaksa at the Presidential Election.
 
 ◼️
 
 [Data](articles/c054fdf7.json)
+
+[Extended Data](ext_articles/c054fdf7.ext.json)
 
 ---
 
@@ -2257,79 +2321,5 @@ At a meeting with Kandy District Trade Union representatives, the President said
 [Data](articles/80aa5a00.json)
 
 [Extended Data](ext_articles/80aa5a00.ext.json)
-
----
-
-### UNICEF Sri Lanka, AG’s Dept focus on child-friendly justice
-
-*2024-08-10 20:45:00* · [`economynextcom`](https://economynext.com/unicef-sri-lanka-ags-dept-focus-on-child-friendly-justice-176307/) · `en`
-
-ECONOMYNEXT – UNICEF Sri Lanka has conducted a professional development workshop for officers of the Attorney General’s Department to strengthen child-friendly justice in the country.
-
-The session aimed to address challenges faced in cases involving children in contact with the law, UNICEF Sri Lanka said on X (twitter).
-
-“This activity will boost efforts to strengthen child-friendly justice in Sri Lanka.”
-
-The workshop was organised by the AG’s Department, with support from UNICEF and funding from the European Union in Sri Lanka.
-
-It is part of the multi-year Support to Justice Sector Project (JURE), which began in February 2022, jointly implemented by UNDP and UNICEF Sri Lanka, facilitated by the Ministry of Justice. (Colombo/Aug10/2024)
-
-◼️
-
-[Data](articles/f2fa4b9e.json)
-
-[Extended Data](ext_articles/f2fa4b9e.ext.json)
-
----
-
-### Two killed in Maskele accident
-
-*2024-08-10 20:36:00* · [`adalk`](https://www.ada.lk/breaking_news/මස්කෙලියේ-අනතුරකින්‌-දෙදෙනෙකු-මරුට/11-411296) · `si`
-
-In a tragic road accident in Brown Grosses, two died as a three-wheeler and a cab collided. Two others were hospitalized.
-
-🟩
-
-Two persons were killed in a road accident in Brown Grosses.
-
-The accident had occurred when a three-wheeler and a cab collided with a cab.
-
-Two more people were admitted to the Maskeliya Hospital.
-
-◼️
-
-[Data](articles/3f193913.json)
-
-[Extended Data](ext_articles/3f193913.ext.json)
-
----
-
-### Bangladesh again north
-
-*2024-08-10 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199793) · `si`
-
-In Bangladesh, recent protests led to the Chief Justice's resignation under protester pressure. The Supreme Court criticized the lack of human rights investigations. Indian media linked the Chief Justice to PM Sheikh Hasina and reported she sought asylum in England, which her son denied. Meanwhile, protests continue, with students expressing dissent through art and activism.
-
-🟩
-
-Those who have seen that the unrest in Bangladesh has passed since several weeks, the protesters who are prominent today (10) were raised by the Supreme Court of the country.
-
-Accordingly, the Chief Justice of the country took steps to resign from his post today (10) in the face of the stress of protesters to resign from the posts of Chief Justice.
-
-They found that the Chief Justice was called by the Chief Justice without the knowledge of interim government.
-
-"This Court traveled to the final limit of human rights. But they did not carry out any investigation or justice. Our request should resign as Chief Justice and all judges. "
-
-The Chief Justice of Bangladesh took action to resign from the pressure from the Supreme Court protesters in this context.
-
-Indian media reported that he was a close associate of Bangladesh Prime Minister Sheikh Haseani.
-
-Meanwhile, Indian media reports that former Prime Minister Sheikh Hasena had previously requested the Asylum seeking England, Indian media reports.
-
-...
-
-[Data](articles/4683c4e4.json)
-
-[Extended Data](ext_articles/4683c4e4.ext.json)
 
 ---

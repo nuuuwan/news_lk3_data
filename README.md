@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 19:36:32**
+As of **2024-08-11 19:55:23**
 
 ## Newspaper Stats
 
-*Scraped **40,136** Articles*
+*Scraped **40,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 378
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,683
+adalk | 3,684
 adaderanalk | 4,674
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
 virakesarilk | 6,357
-adaderanasinhalalk | 6,830
+adaderanasinhalalk | 6,831
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,136 (100.0%) of 40,136 articles have been extended.
+40,136 (100.0%) of 40,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### විදේශීය මැතිවරණ නිරීක්ෂකයින්ට අවසරය
+
+*2024-08-11 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199828) · `si`
+
+ජනාධිපතිවරණ ඡන්ද විමසිමේ කටයුතු නිරීක්ෂණය කිරිම සඳහා විදේශීය නිරීක්ෂකයින්ට මැතිවරණ කොමිෂන් සභාවේ අවසරය ලබාදි තිබේ.
+
+යුරෝපා සංගමයේ සහ පොදුරාජ්‍ය මණ්ඩල නිරීක්ෂකයින් ඒ සඳහා අවසරය ලබාදුන් බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේය.
+
+ඒ අනුව යුරෝපා සංගමයේ සහ පොදුරාජ්‍ය මණ්ඩලයේ මැතිවරණ නිරීක්ෂණ කණ්ඩායම් ඉදිරි දිනවල දි දිවයිනට පැමිණීමට නියමිත බව වාර්තා වේ.
+
+මේ අතර ඉදිරි ජනාධිපතිවරණය සඳහා වෙන්කර ඇති මුදල් ප්‍රමාණවත් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා පෙන්වාදෙන්නේ අපේක්ෂකයින් වැඩි වුවද එය ජනාධිපතිවරණයට ගැටලුවක් නොවන බවයි.
+
+◼️
+
+[Data](articles/2efe14e8.json)
+
+---
 
 ### TNA Action: Declared support
 
@@ -205,6 +225,20 @@ He communicated this while addressing a function held at the Sri Lanka Foundatio
 [Data](articles/17ed2764.json)
 
 [Extended Data](ext_articles/17ed2764.ext.json)
+
+---
+
+### ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ දෙවන කුඹල් පෙරහැර අද
+
+*2024-08-11 17:31:17* · [`adalk`](https://www.ada.lk/breaking_news/ඓතිහාසික-ඇසළ-පෙරහැර-මංගල්‍යයේ-දෙවන-කුඹල්-පෙරහැර-අද/11-411309) · `si`
+
+කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ දෙවන කුඹල් පෙරහැර අද (11දා) වීදි සංචාරය කිරීමට නියමිතව ඇත.
+
+රාත්‍රී 07 පසුවී මිනිත්තු 27ට දකුණු දිශාභිමුඛව නාථ, විෂ්ණු, කතරගම හා පත්තිනි දේවාල පෙරහැර සමඟින් ශ්‍රී දළදා මාලිගාවේ පෙරහැරද වීදි සංචාරය කිරීමට නියමිතයි.
+
+◼️
+
+[Data](articles/e04cbf8a.json)
 
 ---
 
@@ -2307,41 +2341,5 @@ Speaking at the meeting, the Mawbathi Janatha Entrepreneral Diliva Jayaweera sai
 [Data](articles/4a8d40d9.json)
 
 [Extended Data](ext_articles/4a8d40d9.ext.json)
-
----
-
-### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
-
-*2024-08-10 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
-
-From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
-
-This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
-
-...
-
-[Data](articles/63e11237.json)
-
-[Extended Data](ext_articles/63e11237.ext.json)
-
----
-
-### Citizens of the country have been affected by the awesome decisions of various leaders
-
-*2024-08-10 20:55:47* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-නායකයන්ගේ-අමනෝඥ-තීන්දු-නිසා-විපතට-පත්ව-ඇත්තේ-රටේ-පුරවැසියන්/11-411298) · `si`
-
-At a rally in Hambantota, Opposition Leader Sajith Premadasa criticized leaders' decisions, claiming they've negatively impacted the nation's youth.
-
-🟩
-
-The Opposition Leader Sajith Premadasa said that the youth of the country have been affected by the enormous decisions of various leaders of the country.
-
-He was speaking at a rally held in the Hambantota area yesterday (10).
-
-◼️
-
-[Data](articles/2946a6f0.json)
-
-[Extended Data](ext_articles/2946a6f0.ext.json)
 
 ---

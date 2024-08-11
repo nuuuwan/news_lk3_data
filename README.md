@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 11:56:42**
+As of **2024-08-11 12:09:48**
 
 ## Newspaper Stats
 
-*Scraped **40,087** Articles*
+*Scraped **40,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,678
-adaderanalk | 4,664
+adaderanalk | 4,665
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,067
 virakesarilk | 6,349
-adaderanasinhalalk | 6,813
+adaderanasinhalalk | 6,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,081 (100.0%) of 40,087 articles have been extended.
+40,087 (100.0%) of 40,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### වසර 32කට පසු ඔලිම්පික් පාපන්දු රන් පදක්කම ස්පාඤ්ඤය ට
+
+*2024-08-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199810) · `si`
+
+වසර 32කට පසු ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු රන් පදක්කමක් දිනා ගැනීමට ස්පාඤ්ඤය සමත්වුණි.
+
+ඒ පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු තරගාවලියේ අවසන් මහා තරගයේදී සත්කාරක ප්‍රංශය ගෝල 5ට 3ක් ලෙස පරාජය කරමිනි.
+
+පැරිස් ඔලිම්පික් ක්‍රීඩා උලෙළේ පිරිමි පාපන්දු තරගාවලියේ අවසන් මහා තරගය පැවැත්වුණේ සත්කාරක ප්‍රංශය සහ ස්පාඤ්ඤය අතර ය.
+
+තරගය ආරම්භයේ සිටම තියුණු මුහුණුවරක් ගත් අතර පළමු අර්ධය නිමා වූයේ ගෝල 3ට 1ක් ලෙස ස්පාඤ්ඤයට පෙරමුණ හිමිකර දෙමිනි.
+
+දෙවන අර්ධයේදී ප්‍රංශය ගෝල දෙකක් වාර්තා කළ අතර ඒ අනුව නියමිත කාලය නිමා වන විට දෙපිල ම ගෝල 3 බැගින් රැස් කර තිබුණි.
+
+අනතුරුව ලබාදුන් අතිරේක කාලයේදී තවත් ගෝල දෙකක් රැස් කළ ස්ඤ්ඤය ගෝල 5ට 3ක් ලෙස අවසන් තරගය ජය ගනිමින් රන් පදක්කම දිනා ගැනීමට සමත්වුණි.
+
+◼️
+
+[Data](articles/b0dcc24d.json)
+
+---
+
+### Over 50 election-related complaints within last 24 hours - EC
+
+*2024-08-11 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101145/over-50-election-related-complaints-within-last-24-hours-ec) · `en`
+
+The Election Commission says that a total of 51 complaints have been received within the past 24 hours pertaining to the 2024 Presidential Election.
+
+Among them, 25 complaints were filed with the National Election Complaint Management Centre, and 26 were reported to the District Election Complaint Management Centres.
+
+Furthermore, 320 complaints have been received so far during the period from July 31 to yesterday (10), said the Election Commission.
+
+Out of these 320 violations, 214 were directed to the National Election Complaint Management Center, and 106 were reported to District Election Complaint Management Centres.
+
+Accordingly, 317 election law violations were reported between July 31 to August 10, including one act of violence and two other election law violations.
+
+◼️
+
+[Data](articles/d6a0e156.json)
+
+---
 
 ### Digambaram denies allegations of opposing wage hike for plantation workers
 
@@ -48,31 +90,45 @@ Nanayakkara had alleged that Digambaram had acted against the interests of estat
 
 [Data](articles/ceedb620.json)
 
+[Extended Data](ext_articles/ceedb620.ext.json)
+
 ---
 
-### එංගලන්තය ට යෑමට පෙර සනත් ජයසූරිය කළ ඉල්ලීම
+### Sanath Jayasuriya's request before England went to England
 
 *2024-08-11 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199809) · `si`
 
-එංගලන්තයට එරෙහිව පැවැත්වෙන ක්‍රිකට් තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායමේ සියලුම ක්‍රිඩකයින් සිය උපරිමය කරනු ඇතැයි තමා විශ්වාස කරන බව ජාතික කණ්ඩායමේ වැඩබලන පුහුණුකරු සනත් ජයසූරිය පවසයි.
+National Teaching Coach Sanath Jayasuriya expressed confidence in Sri Lanka's cricket team ahead of their series against England. He highlighted the importance of player support and shared his optimism for the tournament's outcome, marking it as his final assignment as a temporary coach. The series includes three Tests, starting in Manchester on August 21, Lords on August 29, and concluding at the London Oval on September 6.
 
-ඔහු ඒ බව කියා සිටියේ, අද (11) උදෑසන ශ්‍රී ලංකා ක්‍රීඩකයින් සමග එංගලන්තය බලායෑමට කටුනායක ගුවන්තොටුපොළ බලා පිටත්වීමට පෙර ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉදිරිපිටදී මාධ්‍ය වෙත අදහස් දක්මනි.
+🟩
 
-මෙහිදී ක්‍රීඩා ප්‍රේක්ෂකයින්ගෙන් ජයසූරිය ඉල්ලා සිටියේ ක්‍රිකට් ක්‍රීඩකයින්ට උපරිම සහාය ලබාදෙන ලෙසට යි.
+The National Teaching Coach Sanath Jayasuriya says he believes that all the players of Sri Lanka will do their best in the cricket tournament against England.
 
-තාවකාලික පුහුණුකරු ලෙස එංගලන්ත තරගාවලිය තමාගේ අවසාන සංචාරය බවත් එම තරගාවලිය උපරිම හොඳින් අවසන් කිරීම තම බලාපොරොත්තුව බවත් ඔහු සඳහන් කළේය.
+He said that before the Sri Lankan players were departed today (11), England would comment to the media in front of SLC.
 
-"මම ඒ ගැන තාම හිතලා නැහැ. මට දීලා තියෙන්නේ මේ තරගාවලියට විතරයි."
+Jayasuriya demanded that Jayasuriya was asked to support cricketers.
 
-මෙම ටෙස්ට් තරගාවලිය සඳහා 18 ක්‍රීඩකයින් දෙනෙකුගෙන් සමන්විත සංචිතයක් පසුගියදා නම්කළේය.
+He said that as a temporary coach, the England tournament was his last visit and his hope for the best end of the tournament.
 
-මේ වන විට ක්‍රීඩකයින් 7 දෙනෙක් පූර්ව පුහුණුවීම් කටයුතු සඳහා එංගලන්තය ගොස් සිටියි.
+"I haven't thought about it yet. I have only given this tournament. "
 
-නායක ධනංජය ද සිල්වා, දිමුත් කරුණාරත්න, ඇන්ජලෝ මැතිව්ස්, කසුන් රාජිත ඇතුළු ක්‍රීඩකයින් 7 දෙනෙක් එසේ එංගලන්තය ට ගොස් සිටින බව වාර්තා විය.
+For this Test series 18, a reserve was named after 18 players.
 
-...
+Seven players have gone for pre-training.
+
+Leader Dhananjaya De Silva, Dhanan Karunaratne, Angelo Mathews, Kasun Rajitha were reported to go to England.
+
+Three Tests will be held between Sri Lanka and England.
+
+The first match will be opened in Manchester on August 21 and begins in the Lord's Stadium on August 29.
+
+The third and last Test match will begin on September 6 at the London Oval Stadium.
+
+◼️
 
 [Data](articles/d2946797.json)
+
+[Extended Data](ext_articles/d2946797.ext.json)
 
 ---
 
@@ -148,19 +204,27 @@ If some cars are swollen on the front, it will not be able to drive and many car
 
 ---
 
-### ත්‍රිරෝද රථය ලොරි රථයක ගැටි  දෙදෙනෙක් ජිවිතක්ෂයට, අයෙක්ට බරපතලයි
+### Three-wheeler is seriously in a lorry, one is serious
 
 *2024-08-11 10:50:14* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථය-ලොරි-රථයක-ගැටි--දෙදෙනෙක්-ජිවිතක්ෂයට--අයෙක්ට-බරපතලයි/11-411299) · `si`
 
-මස්කෙලිය සිට නල්ලතන්නිය මරේ වතුයාය දක්වා ධාවනය වු ත්‍රිරෝද රථයක් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු බොලෙරෝ ලොරි රථයක ගැටිමෙන් ත්‍රිරෝද රථයේ ගමන් ගත් දෙදෙනෙකු ජිවිතක්ෂයට පත් වි ත්‍රිරෝද රථයේ රියදුරා සහ එහි ගමන් ගත් තවත් එක් අයෙකු බරපතල ලෙස තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුලත් කර ඇති බව මස්කෙලිය පොලිසිය පැවසිය.
+In a tragic accident near Maskeliya, a three-wheeler collided with a Bolero truck, resulting in the deaths of both the three-wheeler driver and his passenger. Another passenger was critically injured and rushed to the hospital. The incident occurred around 3:30 pm when the three-wheeler was traveling towards Nallatna. Police suspect the truck driver might be at fault and have taken him into custody for questioning.
 
-මෙම අනතුරෙන් මියගොස් ඇත්තේ ත්‍රිරෝද රථ රියදුරාගේ පියා වන නල්ලතන්නිය මරේ වතුයායේ වලදල කොටසේ පදිංචිව සිටි වේළු සෙල්වනායගම් (66) හැවිරිදි සිව්දරු පියා සහ ත්‍රිරෝද රථ රියදුරාගේ බාප්පා වන වේළු මායවම් (56) හැවිරිදි යන අයයි.
+🟩
 
-(10) දින පස්වරු 3.30 ට පමණ මස්කෙලිය නල්ලතන්නිය ප්‍රධාන මාර්ගයේ මස්කෙලිය ග්ලැන්ටිල් වතුයාය ප්‍රදේශයේදි මෙම අනතුර සිදු වි ඇත.
+A three-wheeler from Maskeliya to Nallatna, the driver of the three-wheeler and another injured in the three-wheeler of the three-wheeler, was admitted to the Balako.The police said.
+
+The deceased is the dallwilageniya (66-year-old father), a three-wheeler father and the three-wheeler driver of the three-wheeler death of the three-wheeler killing of the three-wheeler killing.
+
+(10) The accident occurred in the Maskeliya Glancetil estate area in Maskeliya road around 3.30 pm.
+
+Bolero Lori, the driver of the Nallatunge to Maskel to Maskel to the house, was seriously injured in the crash of the crash to Maskel to Maskeliya.In the case of admission to the Testing Workers, the injured have been transferred to the Basic Hospital, due to the injured condition after being admitted to the Maskeliya Divisional Hospital.
 
 ...
 
 [Data](articles/78911063.json)
+
+[Extended Data](ext_articles/78911063.ext.json)
 
 ---
 
@@ -531,6 +595,8 @@ DFCC made provisions of 1,107 million rupees for bad loans, down from 3,105 mill
 ...
 
 [Data](articles/845be250.json)
+
+[Extended Data](ext_articles/845be250.ext.json)
 
 ---
 
@@ -1162,31 +1228,43 @@ This falsehood was exposed when the date of the presidential poll was gazetted b
 
 ---
 
-### විවිධ නායකයන්ගේ අමනෝඥ තීන්දු නිසා විපතට පත්ව ඇත්තේ රටේ පුරවැසියන්
+### Citizens of the country have been affected by the awesome decisions of various leaders
 
 *2024-08-10 20:55:47* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-නායකයන්ගේ-අමනෝඥ-තීන්දු-නිසා-විපතට-පත්ව-ඇත්තේ-රටේ-පුරවැසියන්/11-411298) · `si`
 
-වර්තමානය වන විට රටේ තරුණයන්, පුරවැසියන් විවිධ නායකයන්ගේ අමනෝඥ තීන්දු තීරණ නිසා විපතට පත්ව ඇති බවත් රැකියා වෙළෙඳපොල , අධ්‍යාපනය ව්‍යවසායකත්වය හා සමාජ ආරක්ෂණය නැති වී ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+At a rally in Hambantota, Opposition Leader Sajith Premadasa criticized leaders' decisions, claiming they've negatively impacted the nation's youth.
 
-හම්බන්තොට ප්‍රදේශයේ ඊයේ(10දා) පැවති ජව රැළියකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
+
+The Opposition Leader Sajith Premadasa said that the youth of the country have been affected by the enormous decisions of various leaders of the country.
+
+He was speaking at a rally held in the Hambantota area yesterday (10).
 
 ◼️
 
 [Data](articles/2946a6f0.json)
 
+[Extended Data](ext_articles/2946a6f0.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව නව ආර්ථික යුගයකට ප්‍රවේශ වෙමින් සිටිනවා
+### Sri Lanka is looking for a new economic era
 
 *2024-08-10 20:46:59* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-නව-ආර්ථික-යුගයකට-ප්‍රවේශ-වෙමින්-සිටිනවා/11-411297) · `si`
 
-වර්තමානය වන විට ශ්‍රී ලංකාව  නව ආර්ථික යුගයකට ප්‍රවේශ වෙමින් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka seeks a new economic era as President Ranil Wickremesinghe addresses concerns over relaxed rules hindering businesses during a meeting with Kandy District Trade Unions.
 
-ව්‍යාපාරවලට බලපා ඇති නීති රෙගුලාසි බොහෝමයක් ලිහිල් කර ව්‍යාපාර සදහා සුදුසු පසුබිම සකසන බව මහනුවර දිස්ත්‍රික් වෙළෙද සංගම් නියෝජිතයන් සමග පැවති හමුවකදී ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
+
+President Ranil Wickremesinghe said Sri Lanka is looking for a new economic era at present.
+
+At a meeting with Kandy District Trade Union representatives, the President said that many relaxed rules have been losing the business.
 
 ◼️
 
 [Data](articles/80aa5a00.json)
+
+[Extended Data](ext_articles/80aa5a00.ext.json)
 
 ---
 
@@ -2237,49 +2315,5 @@ The arrest has been carried out based on intelligence received by the officers o
 [Data](articles/b23c273a.json)
 
 [Extended Data](ext_articles/b23c273a.ext.json)
-
----
-
-### Kamala Harris picks Minnesota Governor, Tim Walz, as running mate
-
-*2024-08-10 13:40:00* · [`islandlk`](http://island.lk/kamala-harris-picks-minnesota-governor-tim-walz-as-running-mate/) · `en`
-
-Marquette University Likely Voters’ Poll, August 8 – KAMALA 53%; TRUMP 47%
-
-When Kamala Harris was asked just after she became the presumptive Democratic Presidential nominee for the presidency about two weeks ago, whom she would pick as her running mate, she responded with twinkling eyes, flashing that charming smile, “Muhammad Ali!”
-
-Obviously in jest. While Ali may have possessed the unique characteristics in his boxing style of butterflies and bees that Kamala seeks in her political style: of movement of grace, facing challenges head-on and making devastating impact when it counts, Ali lacked the essential qualification for the running mate of a Black/South Asian/Baptist/Hindu woman, married to a Jew: a WASP – a White, Anglo-Saxon Protestant. Besides, he was dead.
-
-The choice she made last Tuesday, Minnesota Governor Tim Walz, met this vital qualification, in spades. He is white, with a German/Swedish heritage and a Lutheran, the largest sect of Protestant denominations.
-
-...
-
-[Data](articles/5671b12a.json)
-
-[Extended Data](ext_articles/5671b12a.ext.json)
-
----
-
-### Seven companies agree to pay Rs 1700 for estate workers
-
-*2024-08-10 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199776) · `si`
-
-Seven estate companies have agreed to pay Rs 1,700 annually to estate workers, as announced by President Ranil Wickremesinghe during a meeting with the Kandy district estate workers' association and youth leaders. The President, also set to serve as the Minister of Labor, will discuss this further on Monday. If needed, special laws may be introduced to enforce this decision.
-
-🟩
-
-President Ranil Wickremesinghe said that seven estate companies have agreed to pay Rs 1,700 per year.
-
-The President was addressing the Kandy district estate workers' association and the youth leaders meeting.
-
-The President will be summoned by the President as the Minister of Labor and discussed this on Monday, the Presidential Media Unit.
-
-The Presidential Media Unit further stated that special laws will be introduced if necessary to implement the decision.
-
-◼️
-
-[Data](articles/28232044.json)
-
-[Extended Data](ext_articles/28232044.ext.json)
 
 ---

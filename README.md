@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 10:21:20**
+As of **2024-08-11 10:36:11**
 
 ## Newspaper Stats
 
-*Scraped **40,068** Articles*
+*Scraped **40,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,675
 adaderanalk | 4,661
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,063
+tamilmirrorlk | 5,064
 virakesarilk | 6,347
 adaderanasinhalalk | 6,808
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,067 (100.0%) of 40,068 articles have been extended.
+40,068 (100.0%) of 40,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### சஜித்துடன் இணைந்தார் சுதர்ஷினி
+
+*2024-08-11 09:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சஜித்துடன்-இணைந்தார்-சுதர்ஷினி/95-341943) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் சுதர்ஷினி பெர்ணான்டோபிள்ளை, எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாஸவுக்கு, எதிர்வரும் ஜனாதிபதி தேர்தலில் ஆதரவளித்து, அவருடன் இணைந்து​கொண்டார்.
+
+◼️
+
+[Data](articles/96a82886.json)
+
+---
 
 ### Sudarshani Fernandopulle to support Sajith at presidential poll
 
@@ -854,15 +866,21 @@ Meanwhile, Indian media reports that former Prime Minister Sheikh Hasena had pre
 
 ---
 
-### අනුරගේ ප්‍රතිපත්ති ප්‍රකාශය 26 වැනිදා
+### Anura's policy statement on 26th
 
 *2024-08-10 19:56:13* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-ප්‍රතිපත්ති-ප්‍රකාශය-26-වැනිදා/11-411295) · `si`
 
-ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ලබන 26 වැනිදා එළිදක්වන බව එහි නායක, ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා පැවසීය.
+Presidential candidate MP Anura Kumara Dissanayake announced the launch of his national policy statement on the 26th.
+
+🟩
+
+Presidential candidate MP Anura Kumara Dissanayake said that the policy statement of the national propagation will be launched on the 26th.
 
 ◼️
 
 [Data](articles/9b07aae4.json)
+
+[Extended Data](ext_articles/9b07aae4.ext.json)
 
 ---
 
@@ -2275,25 +2293,5 @@ In this context, about 1,000 Ukrainian soldiers have recently entered with artil
 [Data](articles/9b3cf45f.json)
 
 [Extended Data](ext_articles/9b3cf45f.ext.json)
-
----
-
-### Ranil to support the Sri Lanka People's Party
-
-*2024-08-10 11:21:01* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-මහජන-පක්ෂයේ-සහයත්-රනිල්ට/11-411286) · `si`
-
-The Sri Lanka Maha Party will back President Ranil Wickremesinghe in the upcoming presidential election, as announced by MP Asankara Navaratne on October 10th.
-
-🟩
-
-The Sri Lanka Maha Party has decided to support President Ranil Wickremesinghe in the next presidential election.
-
-MP Asankara Navaratne said this at this time (10th).
-
-◼️
-
-[Data](articles/57c35161.json)
-
-[Extended Data](ext_articles/57c35161.ext.json)
 
 ---

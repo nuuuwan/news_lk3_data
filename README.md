@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 14:21:03**
+As of **2024-08-11 14:36:25**
 
 ## Newspaper Stats
 
-*Scraped **40,103** Articles*
+*Scraped **40,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,679
-adaderanalk | 4,667
+adaderanalk | 4,668
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,068
-virakesarilk | 6,354
+tamilmirrorlk | 5,069
+virakesarilk | 6,356
 adaderanasinhalalk | 6,819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,102 (100.0%) of 40,103 articles have been extended.
+40,102 (100.0%) of 40,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Key suspect in Sri Lankan human trafficking case arrested in Tamil Nadu
+
+*2024-08-11 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101148/key-suspect-in-sri-lankan-human-trafficking-case-arrested-in-tamil-nadu) · `en`
+
+The National Investigation Agency (NIA) on Saturday arrested a key suspect in the Sri Lankan human trafficking case from Tamil Nadu. The accused, Seeni Aabulkhan, had been on the run for the past three years.
+
+The investigation revealed that Aabulkhan, along with his associates, was involved in confining trafficked victims on a boat before sending them to Mangaluru for further confinement. The case began in June 2021 when the Mangaluru Police rescued 13 Sri Lankan nationals from traffickers. The NIA took over the investigation and re-registered the case.
+
+The probe uncovered that a Sri Lankan national named Eesan, believed to be the kingpin of the racket with links to the terror outfit LTTE, collaborated with Aabulkhan to illegally transport 38 Sri Lankan nationals to various parts of Tamil Nadu. The victims were falsely promised employment opportunities in Canada besides assurances to obtain legitimate documents for migration to the country.
+
+...
+
+[Data](articles/9ae382be.json)
+
+---
+
+### கொழும்பு துறைமுகத்தில் தீ விபத்து - சரக்கு கப்பல் சேதம்
+
+*2024-08-11 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190809) · `ta`
+
+கொழும்பு துறைமுகத்தில் நங்கூரமிடப்பட்டிருந்த சரக்கு கப்பலில் இன்று ஞாயிற்றுக்கிழமை (11) அதிகாலை தீ பரவல் மற்றும் வெடிப்பு ஏற்பட்டுள்ளதாக இலங்கை துறைமுக அதிகார சபையின் சிரேஸ்ட அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+துறைமுக தீயணைப்புப் பிரிவு உட்பட துறைமுக ஊழியர்கள் தீயை அணைத்துள்ளதாக அவர் மேலும் தெரிவித்துள்ளார்.
+
+மேலும், தீயினால் கப்பலுக்கு ஏற்பட்ட சேதம் தொடர்பில் மதிப்பிடப்படவில்லை எனவும், தீ விபத்தினால் பொருட்கள் மற்றும் கப்பலுக்கு அதிக சேதம் ஏற்பட்டுள்ளதாகவும் மேலும் அந்த அதிகாரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/194e2a0f.json)
+
+---
 
 ### පස් දෙනෙක් රෝහල ට යැවූ වෑන් - කාර් අනතුර
 
@@ -110,6 +142,22 @@ Several suspects involved in the racket have been arrested and the main suspect,
 
 ---
 
+### நாய்களை வன்புணர்ந்து கொன்ற முதலை நிபுணர்
+
+*2024-08-11 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாய்களை-வன்புணர்ந்து-கொன்ற-முதலை-நிபுணர்/50-341959) · `ta`
+
+பல நாய்களுக்கு பாலியல் தொந்தரவு கொடுத்ததாக ஒப்புக்கொண்டதைத் தொடர்ந்து, பிரிட்டனின் புகழ்பெற்ற முதலை நிபுணருக்கு மொத்தம் 10 ஆண்டுகள், 5 மாதங்கள் சிறை தண்டனை விதிக்கப்பட்ட செய்தி  ஆஸ்திரேலியாவில்ஒட்டுமொத்த நாட்டையே திடுக்கிடச் செய்துள்ளது.
+
+முன்னணி விலங்கியல் நிபுணரான ஆடம் பிரிட்டன், விலங்குகளுடன் உடலுறவு கொள்ளுதல் மற்றும் விலங்கு வன்கொடுமை தொடர்பான 56 குற்றங்களைச் செய்ததாக ஒப்புக்கொண்டிருக்கிறார்.
+
+சிறார் மீதான பாலியல் துன்புறுத்தல் பதிவுகளைப் பயன்படுத்தியதற்கான நான்கு குற்றச்சாட்டுகளையும் அவர் ஒப்புக்கொண்டார்.
+
+...
+
+[Data](articles/b49671cf.json)
+
+---
+
 ### Inland Revenue Department warns against fraudulent tax collection schemes
 
 *2024-08-11 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101147/inland-revenue-department-warns-against-fraudulent-tax-collection-schemes) · `en`
@@ -127,6 +175,24 @@ Accordingly, he has made it clear that the Inland Revenue Department does not ta
 [Data](articles/f4207cea.json)
 
 [Extended Data](ext_articles/f4207cea.ext.json)
+
+---
+
+### ஆசிரியையின் பணப்பையை திருடி ஏ.டி.எம்  அட்டையை பயன்படுத்தி பணம் கையாடல் :  சிவில் பாதுகாப்பு உத்தியோகத்தர் கைது
+
+*2024-08-11 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190792) · `ta`
+
+ஆசிரியை ஒருவரின் பணப்பையை திருடி பணப்பையில் இருந்த ஏ.டி.எம். அட்டையை பயன்படுத்தி வங்கிக்கணக்கிலிருந்து 20 ஆயிரம் ரூபாய் பணத்தை எடுத்த சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் சிவில் பாதுகாப்பு படையை சேர்ந்த உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டதாக கிராதுருகோட்டை பொலிஸார் தெரிவித்தனர்.
+
+மஹாஓயா சிவில் பாதுகாப்பு படை முகாமில் பணிபுரியும் 41 வயதுடையவரே கைது செய்யப்பட்டுள்ளார். இவர் புதிய மெதகம, தியவிட்டகம பகுதியை சேர்ந்தவர் ஆவார்.
+
+கடந்த ஜூன் மாதம் 01ஆம் திகதி ஹோபரிய பகுதியில் வசிக்கும் ஆசிரியர் ஒருவரின் ஸ்கூட்டி ரக மோட்டார் சைக்கிளில் இருந்த பணப்பை திருடப்பட்டுள்ளதாக கிராதுருகோட்டை பொலிஸ் நிலையத்தில் அந்த ஆசிரியர் முறைப்பாடு செய்துள்ளார்.
+
+இந்நிலையில், அப்பகுதியில் உள்ள சிசிடிவி காட்சிகளை ஆய்வு செய்ததன் அடிப்படையில் சந்தேக நபர் தெஹியத்தகண்டிய நகருக்கு மற்றுமொரு நபருடன் சென்று வங்கிக்கணக்கில் பணம் எடுத்துச் செல்லப்பட்டமை உறுதிபடுத்தப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/7dd2756e.json)
 
 ---
 
@@ -2243,95 +2309,5 @@ Although they had already played the Caribbean Premier League, even though he ha
 [Data](articles/6360c056.json)
 
 [Extended Data](ext_articles/6360c056.ext.json)
-
----
-
-### Powerful earthquake again in Japan
-
-*2024-08-10 16:20:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-மீண்டும்-சக்திவாய்ந்த-நிலநடுக்கம்/50-341914) · `ta`
-
-A powerful earthquake hit Japan's Miyazaki, measuring 6.9 and then 7.1 in magnitude. A tsunami warning was issued but later lifted.
-
-🟩
-
-The 6.9 and 7.1 magnitude earthquake struck twice in Japan's Miyazagi.
-
-The tsunami warning was withdrawn after the earthquake in Japan. Remble
-
-◼️
-
-[Data](articles/d681d58f.json)
-
-[Extended Data](ext_articles/d681d58f.ext.json)
-
----
-
-### Namal meets TNA’s Sumanthiran, plans talks with ITAK
-
-*2024-08-10 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101133/namal-meets-tnas-sumanthiran-plans-talks-with-itak) · `en`
-
-The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has met with Tamil National Alliance Parliamentarian M.A. Sumanthiran in Colombo this morning (10).
-
-The discussions had reportedly focused on the current political situation.
-
-The General Secretary of the SLPP Sagara Kariyawasam was also reportedly present at the meeting, which was held at Sumanthiran’s residence in Colombo.
-
-Meanwhile, Rajapaksa has stated during the meeting that he intends to hold discussions with the Ilankai Tamil Arasu Kachchi (ITAK) in the near future as well, MP Sumanthiran said.
-
-◼️
-
-[Data](articles/bf65a8cb.json)
-
-[Extended Data](ext_articles/bf65a8cb.ext.json)
-
----
-
-### Festivals of the historic Sri Dalada Perahera in Kandy begin today
-
-*2024-08-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199784) · `si`
-
-The historic Sri Dalada Perahera in Kandy starts today, featuring a grand procession including 40 elephants and 20 dance teams. The event, significant to Sri Lanka's culture, attracts locals and foreigners alike, with enhanced police security measures in place. The festivities continue through August 14th, culminating with the Randoli Perahera on the 15th.
-
-🟩
-
-The austerity of the historic Sri Dalada Perahera of Kandy begins today.
-
-Accordingly, the first potlight Perahera will visit the streets at 6.06 pm today.
-
-The Esala Perahera of Sri Dalada Maligawa and the Four Satarasala Maha Devalaya is an important part of the culture of Sri Lanka.
-
-After planting for the Perahera, the internal procession of Nathi, Pattini, Vishnu, Kataragama, Kataragama, Kataragama.
-
-After the inner procession, the first Kumbal Perahera of the Esala Perahera of the Historic Sri Dalada Maligawa, Kandy after conducting the inner procession, the first pottery at the Esala Perahera of the Esala Perahera of the Kandy Dalada Maligawa.
-
-40 elephants have been added to the Kumbal Perahera and 20 dance teams attending.
-
-It was reported that a large number of local and foreign were present at the time of the Perahera.
-
-Police have also implemented a special security program for the safety of the coming sales.
-
-...
-
-[Data](articles/e15cb4d9.json)
-
-[Extended Data](ext_articles/e15cb4d9.ext.json)
-
----
-
-### The Chief Justice of Bangladesh agree to resign
-
-*2024-08-10 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199782) · `si`
-
-The Chief Justice of Bangladesh's Supreme Court will step down, marking a significant development in the country's judicial landscape.
-
-🟩
-
-The Chief Justice of the Bangladesh Supreme Court has agreed to resign.
-
-◼️
-
-[Data](articles/7a0697b7.json)
-
-[Extended Data](ext_articles/7a0697b7.ext.json)
 
 ---

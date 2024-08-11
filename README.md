@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 18:37:52**
+As of **2024-08-11 18:55:17**
 
 ## Newspaper Stats
 
-*Scraped **40,130** Articles*
+*Scraped **40,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ colombotelegraphcom | 378
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,682
+adalk | 3,683
 adaderanalk | 4,673
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,073
 virakesarilk | 6,357
-adaderanasinhalalk | 6,828
+adaderanasinhalalk | 6,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,128 (100.0%) of 40,130 articles have been extended.
+40,130 (100.0%) of 40,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,49 @@ It cited an instance of an Iranian military intelligence unit in June sending �
 
 [Data](articles/2c9e6f75.json)
 
+[Extended Data](ext_articles/2c9e6f75.ext.json)
+
 ---
 
-### ரொஷான் ரணசிங்கவும்  களத்தில்...
+### අමෙරිකාව දෙක වෙයි
+
+*2024-08-11 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199826) · `si`
+
+2024 පැරිස් ඔලිම්පික් උලෙළේ රන් පදක්කම් සටහන අනූව අමෙරිකාව අභිබවා යෑමට චීනය සමත්වී තිබේ.
+
+මේ වනවිට චීනය රන් පදක්කම් 40ක් දිනාගෙන සිටින අතර අමෙරිකාව ලබාගෙන ඇත්තේ රන් පදක්කම් 38ක් පමණි.
+
+මේ අතර 2024 පැරිස් ඔලිම්පික් උලෙළේ කාන්තා මැරතන් රන් පදක්කම දිනා ගැනීමට නෙදර්ලන්තයේ සිෆාන් හස්සාන් සමත් වූවාය.
+
+31 හැවිරිදි සිෆාන් මැරතන් තරගය නිමාකළේ පැය 2යි මිනිත්තු 22යි ත්ත්පර 55ක කාලයකිනි. එය නව ඔලිම්පික් වාර්තාව කි.
+
+එහි දෙවැනි ස්ථානය ඉතියෝපියාවේ ටිග්ස්ට් අසීෆා දිනාගත් අතර තුන්වැනි ස්ථානය කෙන්යාවේ හෙලන් ඔබීරි හිමිකර ගත්තාය.
+
+සිෆාන් මෙවර ඔලිම්පික් උලෙළේ කාන්තා මීටර් 10,000 සහ 5,000 ඉසව් වලින්ද තඹ පදක්කම් දිනා ගත්තාය.
+
+◼️
+
+[Data](articles/0bc18499.json)
+
+---
+
+### Roshan Ranasinghe ...
 
 *2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-களத்தில்/175-341975) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் , போட்டியிட உள்ளதாக   முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்க  தெரிவித்துள்ளார்.
+Former Sports Minister Roshan Ranasinghe announced his candidacy for the upcoming presidential election during a Sri Lanka Foundation event.
 
-ஸ்ரீலங்கா அறக்கட்டளையின் கீழ் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+Former Sports Minister Roshan Ranasinghe has said that he will contest the upcoming presidential election.
+
+He said this while addressing an event under the Sri Lanka Foundation.
 
 ◼️
 
 [Data](articles/afe1c1d3.json)
+
+[Extended Data](ext_articles/afe1c1d3.ext.json)
 
 ---
 
@@ -95,6 +125,18 @@ He was speaking at a function held at the Sri Lanka Foundation Institute.
 [Data](articles/e60aefd6.json)
 
 [Extended Data](ext_articles/e60aefd6.ext.json)
+
+---
+
+### 2005දී මහින්ද ගත්ත ප්‍රතිශතයම මෙවර නාමල් ගන්නවා
+
+*2024-08-11 17:22:07* · [`adalk`](https://www.ada.lk/breaking_news/2005දී-මහින්ද-ගත්ත-ප්‍රතිශතයම-මෙවර-නාමල්-ගන්නවා/11-411308) · `si`
+
+2005 ජනාධිපතිවරණයේදී මහින්ද රාජපක්ෂ මහතා ලබාගත් ඡන්ද ප්‍රතිශතය මෙවර ජනාධිපතිවරණයේ දී නාමල් රාජපක්ෂ මහතා ලබාගන්නා බව පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා පැවසීය.
+
+◼️
+
+[Data](articles/c054fdf7.json)
 
 ---
 
@@ -2289,47 +2331,5 @@ Meanwhile, Indian media reports that former Prime Minister Sheikh Hasena had pre
 [Data](articles/4683c4e4.json)
 
 [Extended Data](ext_articles/4683c4e4.ext.json)
-
----
-
-### Anura's policy statement on 26th
-
-*2024-08-10 19:56:13* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-ප්‍රතිපත්ති-ප්‍රකාශය-26-වැනිදා/11-411295) · `si`
-
-Presidential candidate MP Anura Kumara Dissanayake announced the launch of his national policy statement on the 26th.
-
-🟩
-
-Presidential candidate MP Anura Kumara Dissanayake said that the policy statement of the national propagation will be launched on the 26th.
-
-◼️
-
-[Data](articles/9b07aae4.json)
-
-[Extended Data](ext_articles/9b07aae4.ext.json)
-
----
-
-### Resolution to reduce the price of alcohol
-
-*2024-08-10 19:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானத்தின்-விலையைக்-குறைக்க-தீர்மானம்/175-341919) · `ta`
-
-The Department of Liquor plans to lower prices: a 750ml bottle by 900-1000 rupees and a 175ml bottle by 200 rupees due to decreased spring costs for production.
-
-🟩
-
-The Department of Liquor has said that efforts are being made to reduce the price of liquor in the future.
-
-Accordingly, the price of a 750ml liter bottle of liquor bottles will be reduced by 900 - 1,000 rupees and 175 ml of liquor bottle will be reduced by 200 rupees.
-
-Meanwhile, there has been a discussion between the Liquor Department Commissioner and the liquor companies recently.
-
-Due to the decline in the price of the most used springs for liquor production, the price of liquor should be reduced, the Liquor Department Commissioner said.R
-
-◼️
-
-[Data](articles/4e10d408.json)
-
-[Extended Data](ext_articles/4e10d408.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 15:36:07**
+As of **2024-08-11 15:54:55**
 
 ## Newspaper Stats
 
-*Scraped **40,109** Articles*
+*Scraped **40,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,680
-adaderanalk | 4,668
+adaderanalk | 4,669
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,069
 virakesarilk | 6,356
-adaderanasinhalalk | 6,820
+adaderanasinhalalk | 6,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,109 (100.0%) of 40,109 articles have been extended.
+40,109 (100.0%) of 40,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Minister calls for probe into ship fire at Colombo Port
+
+*2024-08-11 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101149/minister-calls-for-probe-into-ship-fire-at-colombo-port) · `en`
+
+Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has called on officials of the Ports Authority to launch an investigation regarding the fire that broke out on a ship anchored in the Colombo Port early this morning (11).
+
+A sudden fire had broken out on board a ship anchored in the Colombo Port and the fire brigade of the port had managed to extinguish the flames.
+
+The ship belonging to a shipping company in Geneva, Switzerland had arrived at the Colombo Port from Singapore.
+
+According to the Ports Authority, 995 containers were scheduled to be unloaded from the ship in question while another 880 containers were to be loaded onto the ship.
+
+◼️
+
+[Data](articles/7640193f.json)
+
+---
+
+### බංග්ලාදේශය යළිත් උණුසුම් වෙයි - ලක්ෂ 7ක් පාරට
+
+*2024-08-11 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199819) · `si`
+
+බංග්ලාදේශ ශිෂ්‍ය ව්‍යාපාරවලට මුවාවී තමන් ඉලක්ක කරගෙන එල්ල වන ප්‍රහාරවලට එරෙහිව එරට සුළුතර හින්දු ප්‍රජාව දැවැන්ත විරෝධතාවයක් ආරම්භ කර තිබේ.
+
+ලක්ෂ 7කට වැඩි පිරිසක් එක්වූ එම විරෝධතා හේතුවෙන් ඩකා අගනුවර ඇතුළු කලාප රැසක මාර්ග අවහිර වී තිබුණි.
+
+බංග්ලාදේශය තුළ ශිෂ්‍ය විරෝධතා ආරම්භ වූයේ යල්පැන ගිය රැකියා කෝටා ක්‍රමවේදයක් යළි හඳුන්වාදීමට එරට රජය ගත් උත්සාහයත් සමඟය.
+
+විරෝධතා මර්දනයට රජය ගත් පිළිවෙත හේතුවෙන් එම විරෝධතා රාජ්‍ය විරෝධී උද්ඝෝෂණ බවට පරිවර්තනය වූ අතර ඒවා අවසන්වූයේ අගමැතිනී ෂෙයික් හසීනාට ඇගේ ධුරය ද අහිමි කරමිනි.
+
+අනතුරුව ඇය රටින් පළාගිය අතර, නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යූනුස්ගේ ප්‍රධානත්වයෙන් යුතු භාරකාර රජයක් පත්කෙරුණේ ද ශිෂ්‍ය ක්‍රියාකාරීන්ගේ මැදිහත්වීමෙනි.
+
+එම රජයේ නියෝජිතයින් අතරට වයස අවුරුදු විස්සත් තිහත් අතර පසුවන ශිෂ්‍ය ව්‍යාපාරයේ නායකයින් දෙදෙනෙක් ද අයත්ය.
+
+රටේ පාර්ලිමේන්තුව පවා අත්පත් කරගත් විරෝධතාකරුවන් මේ වනවිටත් එරට කටයුතුවල පාලනය සියතට ගනිමින් සිටී.
+
+...
+
+[Data](articles/25e0f9b1.json)
+
+---
+
+### කොළඹ වරායේ නෞකාවක් ගිනිගනී
+
+*2024-08-11 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199818) · `si`
+
+අද (11) පාන්දර කොළඹ වරායේ නැංගුරම් දමා තිබූ නෞකාවක ඇතිවූ ගින්න සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ලෙස නිමල් සිරිපාල ද සිල්වා මහතා වරාය අධිකාරියේ නිලධාරීන් ට දැනුම් දී තිබේ.
+
+කොළඹ වරායේ නැංගුරම් දමා තිබූ එම නැවේ හදිසි ගින්නක් ඇතිවී තිබූ අතර වරායේ ගිනි නිවන අංශය විසින් එම ගින්න සාර්ථකව මැඩ පවත්තා තිබුණි.
+
+ස්විට්සර්ලන්තයේ ජිනීවා හි නෞකා සමාගමක ට අයත් එම නෞකාව  සිංගප්පූරු වරායේ සිට කොළඹ වරායට පැමිණ තිබේ.
+
+එහි බහාලුම් 995 ක් ගොඩබෑමටත් අනතුරුව තවත් බහාලුම් 880ක් පටවා ගැනීමටත් නියමිතව තිබූ බව වරාය අධිකාරිය පවසයි.
+
+◼️
+
+[Data](articles/0d83d4b4.json)
+
+---
 
 ### President's tip of vehicles
 
@@ -2269,71 +2329,5 @@ The problems of the plantation workers were directly presented with the Presiden
 [Data](articles/8dac6d39.json)
 
 [Extended Data](ext_articles/8dac6d39.ext.json)
-
----
-
-### New party to win Ranil
-
-*2024-08-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199787) · `si`
-
-A new political party is set to launch next week, aiming to support President Ranil Wickremesinghe in the upcoming presidential election. Parliamentarian Mahindananda Aluthgamage confirmed the preparations at a meeting of former local authorities.
-
-🟩
-
-The group of the General Assembly the group, who joins President Ranil Wickremesinghe in the next presidential election, is working to start a new political party next week.
-
-Parliamentarian Mahindananda Aluthgamage said the necessary arrangements were made.
-
-He was speaking at a special meeting of the former Local Authorities.
-
-◼️
-
-[Data](articles/47a00ecb.json)
-
-[Extended Data](ext_articles/47a00ecb.ext.json)
-
----
-
-### Bangladesh Chief Justice resigns
-
-*2024-08-10 16:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-தலைமை-நீதிபதி-இராஜினாமா/50-341915) · `ta`
-
-After protests against judicial corruption and the involvement of war criminals' families, Bangladesh's Chief Justice resigned. Riots ensued, killing over 100, leading to the dissolution of Parliament and the appointment of Nobel laureate Muhammad Yunus as interim president. Student protests demanding the resignation of all judges, including the Chief Justice, reignited tensions.
-
-🟩
-
-The Chief Justice of the Bangladesh Supreme Court has announced that he will resign as the protesters have been resigned.
-
-The struggle erupted against the family members of those who participated in the liberation war in Bangladesh. This struggle turned into a riot. More than 100 people died in this riots. Sheikh Hasina, the country's prime minister, resigned from his post and sought refuge in India.
-
-President Mohammed Shahabuddin subsequently ordered the Parliament of Parliament to dissolve the country. Subsequently, the Nobel laureate economist Mohammed Yunus was sworn in as the head of the Bangladeshi interim government last night (8) night.. He was sworn in as President Mohammed Shahabuddin.
-
-Following this, the student organizations have once again launched a struggle in Bangladesh after the last two days of peace. Students staged a protest that all judges, including the Chief Justice of the Supreme Court, should resign. Students staged a protest against the Bangladesh Supreme Court.
-
-...
-
-[Data](articles/3fab845f.json)
-
-[Extended Data](ext_articles/3fab845f.ext.json)
-
----
-
-### Body of a three-wheeler in Bambalapitiya
-
-*2024-08-10 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199786) · `si`
-
-In Bambalapitiya, a body was discovered in a three-wheeler's back seat. The victim, identified as Selvanayagam Bonifs Sydney Manifs Sydney Maniface from Narahenpita, died under unknown circumstances.
-
-🟩
-
-A carcirror has been found in the back seat, parked on the Bambalapitiya coastal road.
-
-The deceased is Selvanayagam Bonifs Sydney Manifs Sydney Maniface, Narahenpita, and the cause of death has not yet been revealed.
-
-◼️
-
-[Data](articles/4ad3923a.json)
-
-[Extended Data](ext_articles/4ad3923a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 19:21:15**
+As of **2024-08-11 19:36:32**
 
 ## Newspaper Stats
 
@@ -26,27 +26,37 @@ adaderanasinhalalk | 6,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,135 (100.0%) of 40,136 articles have been extended.
+40,136 (100.0%) of 40,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### தமிழரசுக்கட்சி அதிரடி: ஆதரவை அறிவித்தது
+### TNA Action: Declared support
 
 *2024-08-11 19:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சி-அதிரடி-ஆதரவை-அறிவித்தது/175-341977) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் இலங்கை தமிழரசுக்கட்சி யாருக்கு ஆதரவளிப்பது என்பது தொடர்பில் கலந்துரையாடியுள்ளது என தமிழரசுக்கட்சி கலந்துரையாடியுள்ளதாக கட்சியின்  ஊடக பேச்சாளரும் பாராளுமன்ற உறுப்பினருமான எம். ஏ. சுமந்திரன் தெரிவித்தார்.
+The Tamil National Alliance (TNA) has expressed its stance on the upcoming presidential election, emphasizing the need for a power-sharing regime in the North and East of Sri Lanka. The party is yet to decide on supporting a candidate but is keen on ensuring the Sinhalese community's interests are addressed. No formal resolution has been made regarding candidate support, and the TNA plans to communicate its demands clearly to all contenders.
 
-வடக்கு கிழக்கில் சமஸ்டி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறையை வழங்க தயாராக உள்ள ஜனாதிபதி வேட்பாளர் அந்த நிலைப்பாட்டை தேர்தல் விஞ்ஞாபனத்திலும் சிங்கள மக்களுக்கும் வெளிப்படுத்த தயாராக இருந்தால் அவருக்கு ஆதரவு வழங்குவது தொடர்பில் தீர்மானிப்போம் என்றார்.
+🟩
 
-இன்று  தமிழரசுக்கட்சியின் வவுனியா அலுவலகமான தாயகத்தில் கட்சியின் மத்திய குழு கூட்டம், ஞாயிற்றுக்கிழமை (11)  இடம்பெற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்,
+The Tamil National Alliance (TNA) has discussed the upcoming presidential election on who has supported the Tamil National Party (TNA).. A.. Said Sumanthiran.
 
-தமிழ் மக்கள் சார்பாக தமிழ் மக்களின் பிரதான அரசியல் கட்சியான தமிழரசுக்கட்சியினுடைய  நிலைப்பாடானது இணைந்த வடக்கு கிழக்கிலே சமஸ்தி அடிப்படையிலான அதிகார பகிர்வுடைய ஆட்சி முறை ஏற்படுத்தப்படுவதாகும்.
+The presidential candidate who is ready to provide the Samasti -based power -based regime in the North and East will decide on the support of the Sinhalese and the Sinhalese people.
+
+He said this while speaking to the media after the party's central committee meeting was held on Sunday (11) at the Vavuniya office of the TNA.
+
+The position of the main political party of the Tamil people on behalf of the Tamil people is the establishment of a power -shared rule in the North and East.
+
+This is our political position.The meeting also stated that the presidential candidates can support them if they comply. However, no resolution was taken in this regard.
+
+We are going to see what the news is that we are telling the presidential candidates about our request and what the message you are telling in their political statement.
 
 ...
 
 [Data](articles/3ee22d5d.json)
+
+[Extended Data](ext_articles/3ee22d5d.ext.json)
 
 ---
 

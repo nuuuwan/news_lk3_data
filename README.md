@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 06:06:50**
+As of **2024-08-11 06:41:49**
 
 ## Newspaper Stats
 
-*Scraped **40,035** Articles*
+*Scraped **40,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 344
 newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 377
-islandlk | 2,303
+islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
 adalk | 3,672
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,057
+tamilmirrorlk | 5,058
 virakesarilk | 6,347
 adaderanasinhalalk | 6,801
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,035 (100.0%) of 40,035 articles have been extended.
+40,035 (100.0%) of 40,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ’புதிய அரசியல் கட்சி விரைவில் அறிவிப்பு’
+
+*2024-08-11 02:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கட்சி-விரைவில்-அறிவிப்பு/175-341935) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க ஒன்றிணைந்துள்ள பொதுஜன பெரமுன அணி அடுத்த வாரத்திற்குள் புதிய கட்சியொன்றை ஆரம்பிக்கவுள்ளதாக பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்துள்ளார்.
+
+முன்னாள் உள்ளுராட்சி மன்ற தலைவர்கள் மன்றத்தின் விசேட கூட்டத்தில் கலந்துக் கொண்ட போதே அவர் இதனைத் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/5e8aea88.json)
+
+---
 
 ### Vadivel Suresh supports president
 
@@ -49,6 +63,44 @@ Vadivel Suresh has said that the plantation people will be committed to Presiden
 [Data](articles/1c3544f7.json)
 
 [Extended Data](ext_articles/1c3544f7.ext.json)
+
+---
+
+### Lavanya Travels wins Best Thailand Tour Organiser Award at Asia Miracle Awards
+
+*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/lavanya-travels-wins-best-thailand-tour-organiser-award-at-asia-miracle-awards/) · `en`
+
+Lavanya Travels Pvt. Ltd. has won the Best Outbound Tour Organiser at the prestigious Asia Miracle Awards, organised by MUGP International Organisation. The award ceremony was recently at the Water’s Edge Hotel in Battaramulla. Established in 2014, Lavanya Travels began its journey by organising small group tours to Thailand. Despite the challenges posed by the Covid-19 pandemic in 2019, the company resumed operations with renewed vigor and now arranges two groups of 50 travellers each to Thailand every month. Over the past, they have earned the trust of countless customers from all parts of the country. The company’s dedication to providing unparalleled travel experiences has been recognised with the several awards including Pinnacle Award last year (2023), and now the Asia Miracle Award.
+
+...
+
+[Data](articles/26625d22.json)
+
+---
+
+### HNB Assurance Finalist at Mob-Ex and The Drum Awards
+
+*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/hnb-assurance-finalist-at-mob-ex-and-the-drum-awards/) · `en`
+
+HNB Assurance has been selected as a finalist in two prestigious international awards: The Mob-Ex Awards and The Drum Awards. The company’s innovative campaigns, “Sinha Rave” and “Dola Duka Delivery,” have earned recognition on a global stage, competing alongside top international brands.
+
+The “Sinha Rave” campaign, shortlisted for the Mob-Ex Awards, was an outcome of HNB Assurance’s adoption of mobile marketing to drive better customer engagement. This campaign demonstrated exceptional creativity and effectiveness in engaging customers through the use of an AR filter. Further this campaign successfully leveraged on the highly talked-about 2023 Cricket World Cup, with the company gaining high brand visibility and customer interaction on social media.
+
+...
+
+[Data](articles/b5d37874.json)
+
+---
+
+### US strengthens partnership with Lanka through additional $24.5 Mn development agreement
+
+*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/us-strengthens-partnership-with-lanka-through-additional-24-5-mn-development-agreement/) · `en`
+
+The US Embassy in Colombo Friday announced an additional commitment of US $24.5 million (Rs 7.2 billion) from the American people to further our long-standing investment in the people of Sri Lanka and our partnership. The additional funding was announced during a visit to Sri Lanka by the U.S. Agency for International Development’s (USAID) Assistant Administrator of the Bureau for Asia Michael Schiffer at an event at the Ministry of Finance. USAID Sri Lanka and Maldives Mission Director Gabriel Grau also participated in Friday’s ceremony alongside State Minister of Finance Shehan Semasinghe.
+
+...
+
+[Data](articles/ef99aa1f.json)
 
 ---
 
@@ -73,6 +125,20 @@ He also noted that the clergy of the temple have been assured that the missing t
 [Data](articles/9782ea2a.json)
 
 [Extended Data](ext_articles/9782ea2a.ext.json)
+
+---
+
+### The public transport nightmare: possible remedies via digitization and mechanization
+
+*2024-08-11 00:21:00* · [`islandlk`](http://island.lk/the-public-transport-nightmare-possible-remedies-via-digitization-and-mechanization/) · `en`
+
+Across Sri Lanka from north to south, an astonishing 90% of the population relies on public transport for their daily commutes. This widespread dependence underscores a critical issue: public transport, particularly on private buses, is the source of significant physical and mental strain for many. The reality is stark; private bus services are marked by a host of problems that contribute to a deteriorating passenger experience.
+
+The challenges are multifaceted and impact every aspect of bus travel. Boarding and alighting from buses can be a stressful experience with passengers often battling overcrowded conditions and poorly designed bus entry and exit points. Once on board, the issues continue.
+
+...
+
+[Data](articles/d4839ecc.json)
 
 ---
 
@@ -101,6 +167,22 @@ Palani Thikambaram has said that if possible, I will challenge the President to 
 [Data](articles/c963dede.json)
 
 [Extended Data](ext_articles/c963dede.ext.json)
+
+---
+
+### Amana Takaful wins ‘Mobile App of the Year – Sri Lanka’ at Insurance Asia Awards 2024
+
+*2024-08-11 00:20:00* · [`islandlk`](http://island.lk/amana-takaful-wins-mobile-app-of-the-year-sri-lanka-at-insurance-asia-awards-2024/) · `en`
+
+Amana Takaful Insurance has received the prestigious title of ‘Mobile App of the Year – Sri Lanka’ at the Insurance Asia Awards 2024. This honor highlights the company’s commitment to leveraging cutting-edge technology to enhance customer experiences.
+
+The awards ceremony, held on July 9 at Marina Bay Sands in Singapore, celebrated top insurance companies from the region for their innovative contributions and industry leadership.
+
+This accolade underscores Amana Takaful’s groundbreaking insurance app, launched as part of its digital transformation strategy. The app reflects the company’s dedication to providing a seamless, user-centric experience, further cementing its leadership in the insurance sector.
+
+...
+
+[Data](articles/ae80ec08.json)
 
 ---
 
@@ -463,6 +545,18 @@ He made these remarks during a special meeting of the “Forum of Former Local G
 [Data](articles/639f4038.json)
 
 [Extended Data](ext_articles/639f4038.ext.json)
+
+---
+
+### The Tiger Moth Story
+
+*2024-08-10 19:00:00* · [`islandlk`](http://island.lk/the-tiger-moth-story/) · `en`
+
+In my fifty-plus years of association with aviation, the best aeroplane I ever flew was undoubtedly the De Haviland Tiger Moth. As a young student pilot, I used to regularly fly the ‘Tiger’, operating off the old grass strip which was the runway we used to take-off and land. The reason for using the grass for the operation was simply a matter of safety. The ‘Tiger’ had two wheels like in a handcart and instead of a rear wheel to complete a triangular undercarriage, it had only a tail-skid with tough leather covering. The ‘Tiger’ had no brakes, the dragging tail-skid was what stopped it after landing. As for the take-off, we opened the Gypsy Major engine and it powered a long beautiful wooden propeller and with the gathering of speed, the tail lifted, and the Tiger Moth rolled majestically to reach its lift-off speed of 55 knots.
+
+...
+
+[Data](articles/22ca8eca.json)
 
 ---
 
@@ -1234,6 +1328,18 @@ Meanwhile, President Ranil Wickremesinghe added that steps will be taken to intr
 
 ---
 
+### Snippets from Leonard Woolf’s Growing, with comments
+
+*2024-08-10 13:49:00* · [`islandlk`](http://island.lk/snippets-from-leonard-woolfs-growing-with-comments/) · `en`
+
+I have been immersed and absorbed in the second volume of Leonard Sydney Woolf’s six volume autobiography from the first sentence onwards. Second time of reading but now with more discernment. Discussing this matter with Leelananda de Silva from whom I borrowed the book, I said I wonder whether it is because I admire this man and am a believer that British colonialism conferred more benefits to Ceylon than what we materially lost, unlike in India, or whether it is purely the writing skill of Woolf. Leelananda, who is of like opinion regards Brit governance of us, opined it was both.
+
+...
+
+[Data](articles/4297e3d8.json)
+
+---
+
 ### Person arrested at BIA over attempt to smuggle live fish and turtles
 
 *2024-08-10 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101132/person-arrested-at-bia-over-attempt-to-smuggle-live-fish-and-turtles-) · `en`
@@ -1255,6 +1361,24 @@ The arrest has been carried out based on intelligence received by the officers o
 [Data](articles/b23c273a.json)
 
 [Extended Data](ext_articles/b23c273a.ext.json)
+
+---
+
+### Kamala Harris picks Minnesota Governor, Tim Walz, as running mate
+
+*2024-08-10 13:40:00* · [`islandlk`](http://island.lk/kamala-harris-picks-minnesota-governor-tim-walz-as-running-mate/) · `en`
+
+Marquette University Likely Voters’ Poll, August 8 – KAMALA 53%; TRUMP 47%
+
+When Kamala Harris was asked just after she became the presumptive Democratic Presidential nominee for the presidency about two weeks ago, whom she would pick as her running mate, she responded with twinkling eyes, flashing that charming smile, “Muhammad Ali!”
+
+Obviously in jest. While Ali may have possessed the unique characteristics in his boxing style of butterflies and bees that Kamala seeks in her political style: of movement of grace, facing challenges head-on and making devastating impact when it counts, Ali lacked the essential qualification for the running mate of a Black/South Asian/Baptist/Hindu woman, married to a Jew: a WASP – a White, Anglo-Saxon Protestant. Besides, he was dead.
+
+The choice she made last Tuesday, Minnesota Governor Tim Walz, met this vital qualification, in spades. He is white, with a German/Swedish heritage and a Lutheran, the largest sect of Protestant denominations.
+
+...
+
+[Data](articles/5671b12a.json)
 
 ---
 
@@ -1471,6 +1595,20 @@ The National Water Supply and Drainage Board has said that the water cut will be
 [Data](articles/00f1874e.json)
 
 [Extended Data](ext_articles/00f1874e.ext.json)
+
+---
+
+### ‘A priest like no other’
+
+*2024-08-10 12:46:00* · [`islandlk`](http://island.lk/a-priest-like-no-other/) · `en`
+
+It was about 40 years ago that I first visited the Gangaramaya Temple and met ‘Podi Hamuduruwo’. By then my wife, Shanti, had donated to the Temple a large Swarovski Lotus to be used to display the relics. The priest said that this was the first time that the temple – despite its long existence- received a valuable crystal item but soon thereafter the temple began to receive gifts of a similar magnitude which he described as an ‘auspices phenomenon’.
+
+Over the years we became close friends and exchanged many ideas about the country and religion. Almost on every such occasion he shared his thoughts on what he could do for the country and I said that I would be happy to assist in such ventures to the extent possible. We constructed four rooms at the Kataragama Pilgrims rest and contributed monthly funds to feed the pilgrims who stayed there free of charge. We also had the rare and good fortune to undertake the annual Katina pinkama.
+
+...
+
+[Data](articles/e4d95047.json)
 
 ---
 
@@ -2095,225 +2233,5 @@ Brazilian President Louis Inasio Lula Da Silva expressed his condolences to the 
 [Data](articles/460c85f5.json)
 
 [Extended Data](ext_articles/460c85f5.ext.json)
-
----
-
-### Another site similar to the Electoral Commission website
-
-*2024-08-10 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199771) · `si`
-
-An investigation is underway into a fake website resembling the Election Commission's official site, as reported by the Computer Emergency Response Team. Senior Information Security Engineer Warranunagala filed a complaint with the CID about this issue. The Elections Commission announced that the deadline for postal voting applications for the presidential election concluded at midnight yesterday, despite initial plans to extend it.
-
-🟩
-
-The Computer Emergency Response Team says that an investigation has been launched into a fake website similar to the Election Commission website.
-
-Senior Information Security Engineers Warranunagala said that a complaint has been lodged with the CID regarding the matter.
-
-Meanwhile, the Elections Commission has said that the period of postal voting applications for the presidential election has ended up midnight yesterday (09).
-
-The period was due to end the last night and the delays carried out to the Commission to be extended to extend the application of applications.
-
-◼️
-
-[Data](articles/f978f3c4.json)
-
-[Extended Data](ext_articles/f978f3c4.ext.json)
-
----
-
-### A change in the safety sticker of the source of liquor
-
-*2024-08-10 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199770) · `si`
-
-From 1st October, the Excise Department will replace the existing liquor bottle safety stickers due to their shortcomings. Commissioner General of Excise M.Gunasiri announced this change, aiming to improve the system.
-
-🟩
-
-The Excise Department has decided to change the safety sticker for liquor bottles from 1st October.
-
-Commissioner General of Excise M.. J. Mr. Gunasiri said that the new system would be avoided by the weaknesses of the current sticker.
-
-◼️
-
-[Data](articles/390030f2.json)
-
-[Extended Data](ext_articles/390030f2.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-08-10 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199769) · `si`
-
-Expect heavy showers across the Western Province today, with potential for over 50mm rainfall. Thundershowers expected in other regions from evening onwards. High chance of temporary strong winds and lightning due to storms. Public advised to stay cautious.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western Province today (10th), according to the weather forecast issued by the weather forecast.
-
-Thundershowers during the evening or night in the rest of the island.
-
-There are also mm in the Western, North and East. Heavy rains can occur more than 50.
-
-The Department of Meteorology also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/627859b6.json)
-
-[Extended Data](ext_articles/627859b6.ext.json)
-
----
-
-### Airplane accident that killed 61
-
-*2024-08-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199768) · `si`
-
-In a tragic airplane crash in Sawapitiya, Brazil, all 61 aboard, including four crew members and 57 passengers, perished. Despite the plane's popularity among tourists, miraculously, no injuries occurred on the ground.
-
-🟩
-
-All of the aircraft were killed in a plane accident in Sawapitiya, Brazil.
-
-The international media reported that there were four staff and 57 passengers.
-
-Although the plane was covered with a popular area, no one was injured.
-
-◼️
-
-[Data](articles/c383e847.json)
-
-[Extended Data](ext_articles/c383e847.ext.json)
-
----
-
-### Elephant kills
-
-*2024-08-10 06:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறியுடன்-மோதி-யானை-பலி/175-341898) · `ta`
-
-A female elephant was fatally hit by a truck near Trincomalee, possibly while crossing the road in the Kantalai-Lahabatha forest.
-
-🟩
-
-A female elephant has been killed in a collision with a lorry from Colombo to Trincomalee in the Tapalakamuwa area in Trincomalee.
-
-The accident may have occurred when the elephant crossed the road in Kantalai - Lahabatha forest. (A)
-
-◼️
-
-[Data](articles/2ad9cefb.json)
-
-[Extended Data](ext_articles/2ad9cefb.ext.json)
-
----
-
-### Increase in dengue patients
-
-*2024-08-10 06:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-341897) · `ta`
-
-Sri Lanka reports 148 new dengue cases in 24 hours, bringing the total to 33,795 cases this year. The National Dengue Control Division also confirms 14 deaths due to dengue in 2023.
-
-🟩
-
-In addition, 148 people have been affected in the last 24 hours, the National Dengue Control Division said.
-
-Accordingly, a total of 33 thousand 795 dengue patients have been reported in Sri Lanka so far this year.
-
-The National Dengue Control Division has said that 14 people have died of dengue this year alone. (A)
-
-◼️
-
-[Data](articles/af7e78aa.json)
-
-[Extended Data](ext_articles/af7e78aa.ext.json)
-
----
-
-### 20 complaints in 24 hours
-
-*2024-08-10 06:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-20-முறைப்பாடுகள்/175-341896) · `ta`
-
-In the past 24 hours, the Elections Commission received 20 complaints about the presidential election, bringing the total to 157 violations.
-
-🟩
-
-The Elections Commission announced yesterday evening that 20 complaints have been received in the last 24 hours regarding the presidential election.
-
-Accordingly, the number of complaints received so far in violation of election rules has increased to 157, the Election Commission said the Commission said.. (A)
-
-◼️
-
-[Data](articles/58ad5f77.json)
-
-[Extended Data](ext_articles/58ad5f77.ext.json)
-
----
-
-### Electronic Passports from October
-
-*2024-08-10 05:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-முதல்-இலத்திரனியல்-கடவுச்சீட்டுக்கள்/175-341895) · `ta`
-
-From October, electronic passports will replace traditional ones, as announced by Public Security Minister Tran Ales. Currently, only 23% of passports have been issued, with many bought but unused. It's advised to get a passport now only if essential, as new electronic versions will be available in October.
-
-🟩
-
-Electronic passports will be issued from October, Public Security Minister Tran Ales said.
-
-Only 23 percent of the passports issued so far. Other passports were purchased, but not used.
-
-I urge people to obtain a passport for this two months only if necessary. Otherwise, you will receive a new passport in October. (A)
-
-◼️
-
-[Data](articles/ca13f7a7.json)
-
-[Extended Data](ext_articles/ca13f7a7.ext.json)
-
----
-
-### 12 hours of water in Gampaha district
-
-*2024-08-10 05:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-மாவட்டத்தில்-12-மணித்தியால-நீர்வெட்டு/175-341894) · `ta`
-
-In the Gampaha district, a 12-hour water cut is scheduled for tomorrow from 9 am to 9 pm, affecting areas like Kelaniya, Wattala, Biyagama, Peliyagoda, Ja-Ela, Katunayake, Seeduwa, Piyagama, Mahara, Thompa, Minuwangoda, and Gampaha.
-
-🟩
-
-The National Water Supply and Drainage Board has announced that the water cut will be implemented tomorrow in several parts of the Gampaha district.
-
-The water will be implemented for 12 hours from 9 am to 9 pm tomorrow for Kelaniya, Wattala and Biyagama.
-
-The National Water Supply and Drainage Authority has said that the areas belonging to the Peliyagoda Urban Council, Ja-Ela, Katunayake and Seeduwa Divisional Secretariat Divisions will be implemented in the areas of Piyagama, Mahara, Thompa, Minuwangoda and Gampaha Divisional Secretariat Divisions.. (A)
-
-◼️
-
-[Data](articles/3de2a794.json)
-
-[Extended Data](ext_articles/3de2a794.ext.json)
-
----
-
-### Selvern Trust to empower youth going for overseas jobs
-
-*2024-08-10 03:04:26* · [`dailyftlk`](https://www.ft.lk/opinion/Selvern-Trust-to-empower-youth-going-for-overseas-jobs/14-765389) · `en`
-
-Vijendra Watson presenting ‘Sihinaya Obemai’ tele-drama to SLFEB General Manager
-
-D.D.P. Senanayake to integrate it in the Bureau’s 10 regional training centres
-
-Raising awareness among youth who seek employment abroad through featuring ‘Sihinaya Obemai’ – a 10 episode tele-drama on Youtube
-
-Developing a mobile app to upgrade English speaking skills among youth
-
-“Give a man or woman a fish, and you feed them for a day. Teach a man or woman to fish, and you feed them for a lifetime,” Vijendran Watson quotes the famous saying of Lao Tzu. The founding Managing Director of Mobitel Sri Lanka, Watson says he wants to empower talented rural and urban youth equally through education and awareness to make them self-sustain.
-
-To achieve his affinity towards the youth of Sri Lanka, he has established the Selvern Trust two-years ago to support those who are seeking to realise their dreams and aspirations.
-
-...
-
-[Data](articles/55ad3a97.json)
-
-[Extended Data](ext_articles/55ad3a97.ext.json)
 
 ---

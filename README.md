@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 15:54:55**
+As of **2024-08-11 16:07:29**
 
 ## Newspaper Stats
 
-*Scraped **40,112** Articles*
+*Scraped **40,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,581
 adalk | 3,680
 adaderanalk | 4,669
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,069
+tamilmirrorlk | 5,071
 virakesarilk | 6,356
 adaderanasinhalalk | 6,822
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,822
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,109 (100.0%) of 40,112 articles have been extended.
+40,112 (100.0%) of 40,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ரணிலுடன் பேசாமல் இருக்க கூட்டமைப்பு முடிவு
+
+*2024-08-11 15:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-பேசாமல்-இருக்க-கூட்டமைப்பு-முடிவு/175-341966) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான பேச்சுவார்த்தையில் பங்கேற்காதிருக்க தமிழ் தேசிய பொதுக் கூட்டமைப்பு தீர்மானித்துள்ளது.
+
+தமிழ் தேசிய பொதுக் கட்டமைப்பில் அங்கம் வகிக்கும் கட்சித் தலைவர்களுக்கும் சிவில் சமூக தலைவர்களுக்கும் திங்கட்கிழமை  (12) ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனான சந்திப்புக்கு ஜனாதிபதி செயலக பிரதிநிதிகளால் தொலைபேசி மூலம் அழைப்பு விடுக்கப்பட்டிருந்தது.
+
+குறித்த சந்திப்பில், தமிழ்த் தேசிய பொதுக் கட்டமைப்பு என்ற அடிப்படையில் 14 உறுப்பினர்களும் சந்திப்பில் கலந்து கொள்ள மாட்டார்கள்.
+
+தேர்தல் வேலைகளில் மூழ்கி இருப்பதால், குறுகிய கால அழைப்பின் அடிப்படையில் இந்த சந்திப்பில் தமிழ்த் தேசியப் பொதுக்கட்டமைப்பாக கலந்து கொள்வது சிரமமாக இருக்கும்.
+
+எதிர்காலத்தில் இது போன்ற அழைப்புகளை ஏற்று சந்திப்புகளில் கலந்து கொள்வது தொடர்பான முடிவை பொதுக் கட்டமைப்பு கூடி முடிவெடுக்கும் - என தமிழ் தேசிய பொது கூட்டமைப்பின் பிரதிநிதிகள் தீர்மானித்துள்ளனர்.
+
+...
+
+[Data](articles/03379c38.json)
+
+---
 
 ### Minister calls for probe into ship fire at Colombo Port
 
@@ -48,47 +68,83 @@ According to the Ports Authority, 995 containers were scheduled to be unloaded f
 
 [Data](articles/7640193f.json)
 
+[Extended Data](ext_articles/7640193f.ext.json)
+
 ---
 
-### බංග්ලාදේශය යළිත් උණුසුම් වෙයි - ලක්ෂ 7ක් පාරට
+### தவறான பாதையில் ஏறியவர் மரணம்
+
+*2024-08-11 15:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தவறான-பாதையில்-ஏறியவர்-மரணம்/76-341961) · `ta`
+
+தெஹியோவிட்டவிலிருந்து கம்பளைக்கு வந்து அம்புலுவாவ மலையில் தவறான பாதையில் ஏறச் சென்ற நபரொருவர் மீது பாரிய கல் விழுந்ததில் அந்நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+நான்கு பேர் கொண்ட குழுவொன்று மலை ஏற சென்றதாகவும் அதில் ஒருவர் உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+தெஹியோவிட்ட முருத்தெட்டுவ பிரதேசத்தைச் சேர்ந்த  இரண்டு பிள்ளைகளின் தந்தையே9 வயது 37) உயிரிழந்துள்ளார்.
+
+மனைவியிடம் சொல்லாமல் வீட்டை விட்டு வெளியேறிய அவர், நண்பர்கள் நான்கு பேருடன் இந்த சுற்றுலா வந்தது தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/d7119048.json)
+
+---
+
+### Bangladesh warm again - 7 lakh road
 
 *2024-08-11 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199819) · `si`
 
-බංග්ලාදේශ ශිෂ්‍ය ව්‍යාපාරවලට මුවාවී තමන් ඉලක්ක කරගෙන එල්ල වන ප්‍රහාරවලට එරෙහිව එරට සුළුතර හින්දු ප්‍රජාව දැවැන්ත විරෝධතාවයක් ආරම්භ කර තිබේ.
+In Bangladesh, over 700,000 Hindus protested against the government's introduction of an outdated job quota system, leading to widespread blockades. The protests escalated into anti-government demonstrations, prompting the Prime Minister to flee and appoint a caretaker government. This move included two student leaders, aged 30 and 35. The Supreme Court's Chief Justice resigned, followed by five others, amid ongoing protests against the reinstatement of the controversial job quota system. Additionally, the Head of Bangladesh and bank officials resigned under pressure from the protests. The minority Hindu community, comprising 17% of the population, faced over 200 attacks in 52 days, culminating in mass protests across the country, including the capital Dhaka. These events led to the collapse of the Hasina government and calls for a 10% parliamentary reservation for minorities.
 
-ලක්ෂ 7කට වැඩි පිරිසක් එක්වූ එම විරෝධතා හේතුවෙන් ඩකා අගනුවර ඇතුළු කලාප රැසක මාර්ග අවහිර වී තිබුණි.
+🟩
 
-බංග්ලාදේශය තුළ ශිෂ්‍ය විරෝධතා ආරම්භ වූයේ යල්පැන ගිය රැකියා කෝටා ක්‍රමවේදයක් යළි හඳුන්වාදීමට එරට රජය ගත් උත්සාහයත් සමඟය.
+The minority Hindu community has launched a massive protest against Bangladesh student movements.
 
-විරෝධතා මර්දනයට රජය ගත් පිළිවෙත හේතුවෙන් එම විරෝධතා රාජ්‍ය විරෝධී උද්ඝෝෂණ බවට පරිවර්තනය වූ අතර ඒවා අවසන්වූයේ අගමැතිනී ෂෙයික් හසීනාට ඇගේ ධුරය ද අහිමි කරමිනි.
+The protests joined by more than 7 lakhs were blocked by the roads including the capital city.
 
-අනතුරුව ඇය රටින් පළාගිය අතර, නොබෙල් සාම ත්‍යාගලාභී මුහම්මද් යූනුස්ගේ ප්‍රධානත්වයෙන් යුතු භාරකාර රජයක් පත්කෙරුණේ ද ශිෂ්‍ය ක්‍රියාකාරීන්ගේ මැදිහත්වීමෙනි.
+Student protests began in Bangladesh with the attempt to introduce an outdated jobs to introduce a quota method.
 
-එම රජයේ නියෝජිතයින් අතරට වයස අවුරුදු විස්සත් තිහත් අතර පසුවන ශිෂ්‍ය ව්‍යාපාරයේ නායකයින් දෙදෙනෙක් ද අයත්ය.
+The protesters were converted into anti-government protesters due to the policy of protest and the Prime Minister, Prime Minister Sheikh Husanathe.
 
-රටේ පාර්ලිමේන්තුව පවා අත්පත් කරගත් විරෝධතාකරුවන් මේ වනවිටත් එරට කටයුතුවල පාලනය සියතට ගනිමින් සිටී.
+She then fled the country and appointed a custody government headed by the Nobel Peace Prize Danus.
+
+Among the government representatives includes two leaders of the student movement between the ages of thirty and thirty.
+
+The protesters who have acquired the parliament in the country are already taking control of the country.
+
+The Supreme Court of the Supreme Court yesterday continued his protest yesterday and protests against Chief Justice to resign within an hour.
+
+The Chief Justice Gaiidi Hassan resigned from his post with five other courts.
 
 ...
 
 [Data](articles/25e0f9b1.json)
 
+[Extended Data](ext_articles/25e0f9b1.ext.json)
+
 ---
 
-### කොළඹ වරායේ නෞකාවක් ගිනිගනී
+### An ship launched in Colombo harbor
 
 *2024-08-11 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199818) · `si`
 
-අද (11) පාන්දර කොළඹ වරායේ නැංගුරම් දමා තිබූ නෞකාවක ඇතිවූ ගින්න සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ලෙස නිමල් සිරිපාල ද සිල්වා මහතා වරාය අධිකාරියේ නිලධාරීන් ට දැනුම් දී තිබේ.
+A ship in Colombo harbor caught fire, prompting an investigation by Nimal Siripala de Silva. The vessel, owned by a Swiss company, had recently docked and was preparing to load 880 out of 995 containers before the incident occurred.
 
-කොළඹ වරායේ නැංගුරම් දමා තිබූ එම නැවේ හදිසි ගින්නක් ඇතිවී තිබූ අතර වරායේ ගිනි නිවන අංශය විසින් එම ගින්න සාර්ථකව මැඩ පවත්තා තිබුණි.
+🟩
 
-ස්විට්සර්ලන්තයේ ජිනීවා හි නෞකා සමාගමක ට අයත් එම නෞකාව  සිංගප්පූරු වරායේ සිට කොළඹ වරායට පැමිණ තිබේ.
+Nimal Siripala de Silva has informed the Ports Authority officials as an inquiry into the fire of the fire of the Colombo Port.
 
-එහි බහාලුම් 995 ක් ගොඩබෑමටත් අනතුරුව තවත් බහාලුම් 880ක් පටවා ගැනීමටත් නියමිතව තිබූ බව වරාය අධිකාරිය පවසයි.
+The ship was anchored at the Port of Colombo, and there was a sudden fire.
+
+The ship, which belongs to a shipping company in Geneva, Switzerland, arrived at the Port of Colombo.
+
+The Ports Authority (Ports Authority) says that after 995 containers were landed, 880 containers were to be loaded.
 
 ◼️
 
 [Data](articles/0d83d4b4.json)
+
+[Extended Data](ext_articles/0d83d4b4.ext.json)
 
 ---
 
@@ -2271,63 +2327,5 @@ In this case, the public has been brought to the attention of the concerned part
 [Data](articles/542e5e7f.json)
 
 [Extended Data](ext_articles/542e5e7f.ext.json)
-
----
-
-### Trincomalee Amman Thali robbery
-
-*2024-08-10 17:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணேஸ்வர-அம்மன்-தாலி-கொள்ளை/75-341916) · `ta`
-
-A priceless Tali, dating back to the Chola era, was stolen from the Trincomalee temple. The artifact, believed to be invincible and irreplaceable, was safeguarded by devotees during the Portuguese invasion. Despite efforts to maintain peace, public outcry over the loss is immense, as the Tali is considered invaluable. The police have yet to file a report. The incident has been brought to the notice of local authorities and the Governor, who has ordered immediate recovery and punishment for the culprits.
-
-🟩
-
-Tali has been robbed at the Trincomalee - Trincomalee temple.
-
-It is reported that the Tali, who was from the Chola period from the Chola period, was saved and protected by the Saivites when the temple was broken during the Portuguese period.
-
-Following this, the temple administration sought to calm the matter and try to make peace with the public.
-
-The public has expressed concern that the five shaving tali, which was paid to several hundred crores of gemstones and Vaidur, was powerful and that no one could compensate for it.
-
-It is said that the police have not yet lodged a complaint at the police station.
-
-Similarly, the 16 -pound diamonds worth several hundred crores of times during the Chola period and the gold jewelery packed in the past have been stolen.
-
-In this case, the public has been brought to the public to the attention of the District Secretary and the President of the State.
-
-Moreover, the public has taken the matter to the attention of Governor Senthil Thondaman.
-
-...
-
-[Data](articles/b10a6edf.json)
-
-[Extended Data](ext_articles/b10a6edf.ext.json)
-
----
-
-### The Provident Fund for Plantation Workers will be issued from next year - President in Kandy
-
-*2024-08-10 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190764) · `ta`
-
-From next year, a provident fund for plantation workers will be established, following an agreement by seven plantation companies to increase daily wages to Rs 1,700. This decision aligns with President Ranil Wickremesinghe's commitment to improving the livelihoods of plantation workers, alongside efforts to stabilize the country's economy through IMF agreements and domestic credit negotiations.
-
-🟩
-
-President Ranil Wickremesinghe said that seven plantation companies have agreed to implement the resolution to increase the plantation workers' one -day salary to Rs 1,700 and that the laws are ready to implement the resolution on Monday.
-
-President Ranil Wickremesinghe also said that the work of obtaining a provisional fund for plantation workers will be carried out from next year.
-
-President Ranil Wickremesinghe made this statement while addressing the Kandy District Estate Labor Trade Unions and Youth Leaders at the Kandy Kaliya Hall on Saturday (10).
-
-Water Resources and Plantation Infrastructure Development Minister Jeevan Thondaman, former Minister Manusha Nanayakkara, State Minister Lokan Ratwatta, State Minister Anuradha Jayaratne, Parliamentarian M. Rameshwaran, Deputy Chairman of the Ceylon Workers CongressMany of them were present.
-
-The problems of the plantation workers were directly presented with the President and the President gave favorable answers.
-
-...
-
-[Data](articles/8dac6d39.json)
-
-[Extended Data](ext_articles/8dac6d39.ext.json)
 
 ---

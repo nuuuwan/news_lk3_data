@@ -1,56 +1,114 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 17:21:13**
+As of **2024-08-11 17:36:48**
 
 ## Newspaper Stats
 
-*Scraped **40,121** Articles*
+*Scraped **40,125** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 375
-colombotelegraphcom | 377
+colombotelegraphcom | 378
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,681
-adaderanalk | 4,670
+adaderanalk | 4,671
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
-virakesarilk | 6,356
-adaderanasinhalalk | 6,826
+virakesarilk | 6,357
+adaderanasinhalalk | 6,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,120 (100.0%) of 40,121 articles have been extended.
+40,121 (100.0%) of 40,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### දකුණු අප්‍රිකාවේ රූ රැජින කිරුළ බිහිරි තරුණියක ට
+### පැනගිය හසීනාගෙන් අමෙරිකාවට චෝදනාවක්
+
+*2024-08-11 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199824) · `si`
+
+තමා බලයෙන් පහ කිරීමේ කුමන්ත්‍රණය පිටුපස අමෙරිකාව සිටින බවට විරෝධතා හමුවේ ධුරයෙන් ඉල්ලා අස්වූ බංග්ලාදේශයේ හිටපු අග්‍රාමාත්‍ය ශෙයික් හසීනා පවසයි.
+
+බෙංගාල බොක්ක ආශ්‍රිත ප්‍රදේශයේ බලය තහවුරු කරගැනීම සඳහා ශාන්ත මාර්ටින් දූපත් ප්‍රදේශයේ ස්වෛරීත්වය අමෙරිකාවට ලබාදුන්නේ නම් තමන්ට තවදුරටත් ධුරයේ රැදී සිටීමට හැකියාව තිබූ බව ඇය සඳහන් කළාය.
+
+බංග්ලාදේශයේ සිසුන් මූලික කරගත් විරෝධතා උත්සන්න වීම හමුවේ ධුරයෙන් ඉවත්ව ඉන්දියාවට පළායාමෙන් පසු පළමුවරට ඇය නිකුත් කළ නිවේදනයේ ඒ බව සඳහන් වන බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+කෙසේවෙතත් රට තුළ උද්ගතවූ ප්‍රචණ්ඩත්වය තවදුරටත් වර්ධනයවීම වළක්වා ගැනීමට තම ඉල්ලා අස්වීම හේතුවූ බව පෙන්වා දී ඇති ශෙයික් හසීනා රැඩිකල්වාදීන්ට හසු නොවන ලෙස තමා බංග්ලාදේශ ජනතාවගෙන් ඉල්ලීමක් කරන බව ද සඳහන් කර තිබුණාය.
+
+◼️
+
+[Data](articles/96f86405.json)
+
+---
+
+### வாக்களிக்க செல்லும்போது…
+
+*2024-08-11 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190827) · `ta`
+
+ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியை தெரிவு செய்வதற்கான ஜனாதிபதி தேர்தல் வாக்கெடுப்பு செப்டம்பர் மாதம் 21 ஆம் திகதி நடைபெறவிருக்கிறது. தேர்தலுக்கான வேட்புமனு தாக்கல்கள் தேர்தல் ஆணைக்குழு அலுவலகத்தில் காலை 9 மணி முதல் 11 மணி வரை நடைபெறும்.  தொடர்ந்து தேர்தல் பிரசாரங்கள் மிகத் தீவிரமாக நடைபெறும்.  அரசியல் கட்சி பிரதிநிதிகள் வேட்பாளர்கள் தேர்தல் பிரசாரங்களில் தீவிரமாக ஈடுபடுவார்கள்.
+
+அதன்படி, தற்போதே  தேர்தல் காலம் சூடு பிடிக்க ஆரம்பித்துவிட்டது.  கூட்டணி அமைக்கும் செயற்பாடுகள்,  முகாம்களை உருவாக்குதல்,  ஆதரவு தெரிவிக்கும் பிரச்சாரங்கள் என தேர்தல் களம் பரபரப்பாக மாறிக்கொண்டிருக்கிறது. தேர்தலை பொறுத்தவரை  மக்கள் தேர்தலில் வாக்களிக்க வேண்டும். இது மக்களின் ஜனநாயக உரிமை.  அந்த உரிமையை யாரும் விட்டுக் கொடுக்கக் கூடாது.  21 ஆம் திகதி   மக்கள் சென்று வாக்களிக்க  வேண்டும்.  போட்டியிடுகின்ற வேட்பாளர்களில் ஒருவரை தெரிவு செய்ய வேண்டும்.
+
+...
+
+[Data](articles/1c41800c.json)
+
+---
+
+### Sri Lanka moves up in ICC Men’s ODI rankings
+
+*2024-08-11 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101153/sri-lanka-moves-up-in-icc-mens-odi-rankings) · `en`
+
+Sri Lanka men’s cricket team has moved up in the ICC Men’s ODI team rankings while several players have also made notable progress in the ICC ODI rankings following their impressive series win over India for the first time in 27 years.
+
+Accordingly, the lions have climbed up one spot in the Men’s ODI team rankings to place 6th among the best teams of the world.
+
+Meanwhile, Sri Lankan spinner Dunith Wellalage’s career-best figures, after he wrapped up the Indian innings with 5-27, has helped the 21-year-old climb up five spots to 76th position in ICC Men’s ODI bowling rankings.
+
+Sri Lanka’s Janith Liyanage has also made a notable gain moving up 10 spots among the batters after his performance against India at the R. Premadasa Stadium in Colombo.
+
+Avishka Fernando, who struck 96 - the highest individual score of the ODI series against India, has made him progress nine spots in the ICC Men’s ODI batting rankings.
+
+◼️
+
+[Data](articles/c46162c4.json)
+
+---
+
+### South African queen of South Africa to a deaf hospital
 
 *2024-08-11 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199823) · `si`
 
-දකුණු අප්‍රිකාවේ රූ රැජින ලෙස Mia le Roux නම් බිහිරි තරුණියක් කිරුළ හිමිකරගත්තාය.
+Mia Le Roux, a deaf young girl from South Africa, made history as the first deaf individual to be crowned a queen. Despite being diagnosed with auditory weakness at 28, she received a hearing aid and learned to speak within two years. Now, she excels as a model and trader, proving that limitations are not boundaries.
 
-එම කිරුළ හිමිකරගත් පළමු බිහිරි තරුණිය ලෙස මියා වාර්තා පොතට එක් වූවාය.
+🟩
 
-දැනට 28 හැවිරිදි වියේ පසුවන මියා, ශ්‍රවණ දුර්වලතාවයකින් පෙළෙන බව හඳුනාගෙන තිබුණේ ඇයට වයස අවුරුද්දක් පමණ වන විටදීය.
+The Queen of South Africa won a deaf young girl named Mia Le Roux.
 
-ඇයට ශබ්දය හඳුනා ගැනීම පහසු කිරීම සඳහා ශ්‍රවණ උපකරණයක් සවිකර ඇති බව සඳහන් ය.
+The first deaf young girl, who was crowned, joined the Mia's record book.
 
-සිය කථන හැකියාව ඇතිකර ගැනීම සඳහා වසර දෙකක් පමණ වෙහෙසීමට සිදුවූ බව ඇය පැවසුවාය.
+The 28-year-old man who was 28-year-old was diagnosed with auditory weakness.
 
-මේ වනවිට නිරූපිකාවක් ලෙසත් වෙළෙඳ කළමනාකාරිනියක් ලෙසත් සේවය කරන මියා පවසන්නේ, "මම දැන් දන්නවා මාව මේ ලෝකෙට එව්වේ සීමාවන් බිඳින්න...මම ඒ දේ අද රෑ සිදුකළා..." යනුවෙනි.
+It is said that a hearing device is installed to facilitate her noise.
+
+She said about two years to play his speech.
+
+Mia is now a model and as a trading manager, "I know that I have sent me the limits ..." I did it tonight ... ".
 
 ◼️
 
 [Data](articles/ebc7d42b.json)
+
+[Extended Data](ext_articles/ebc7d42b.ext.json)
 
 ---
 
@@ -779,6 +837,22 @@ The gold medal was won by winning the final in the additional 5 goals.
 [Data](articles/b0dcc24d.json)
 
 [Extended Data](ext_articles/b0dcc24d.ext.json)
+
+---
+
+### Why Doesn’t Sri Lanka Have Hundreds Of Thousands Of Solar Panels?
+
+*2024-08-11 11:43:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-doesnt-sri-lanka-have-hundreds-of-thousands-of-solar-panels/) · `en`
+
+As a country located 9- degree north of the equator, Sri Lanka is blessed with abundance of sun. Sun shines over Sri Lanka with vengeance to the point of feeling burning hot for most of the year. Yes, sun is everywhere. According to Asian Development Bank, a square meter of PV solar panel with 5.7 hours of sun can provide 4.6 KWh of power. That works out to be 807 watt-hours of solar power with a PV panel of 3 ft X 3 ft size every hour.
+
+Another report by the ADB put the potential available capacity of solar power of SL at 16 GW or 16000 MW. This is huge and free power all year. Currently Sri Lanka houses about 750 MW of solar power or a pathetic 4.6% of available solar power.
+
+Sri Lanka currently produces a total of about 5100 MW of power which 58% comes from renewable sources and the rest comes from fossil fuels. In other words, SL produce 2142 MW of power from crude and coal.
+
+...
+
+[Data](articles/bf379e61.json)
 
 ---
 
@@ -2249,87 +2323,5 @@ He made these remarks during a special meeting of the “Forum of Former Local G
 [Data](articles/639f4038.json)
 
 [Extended Data](ext_articles/639f4038.ext.json)
-
----
-
-### The Tiger Moth Story
-
-*2024-08-10 19:00:00* · [`islandlk`](http://island.lk/the-tiger-moth-story/) · `en`
-
-In my fifty-plus years of association with aviation, the best aeroplane I ever flew was undoubtedly the De Haviland Tiger Moth. As a young student pilot, I used to regularly fly the ‘Tiger’, operating off the old grass strip which was the runway we used to take-off and land. The reason for using the grass for the operation was simply a matter of safety. The ‘Tiger’ had two wheels like in a handcart and instead of a rear wheel to complete a triangular undercarriage, it had only a tail-skid with tough leather covering. The ‘Tiger’ had no brakes, the dragging tail-skid was what stopped it after landing. As for the take-off, we opened the Gypsy Major engine and it powered a long beautiful wooden propeller and with the gathering of speed, the tail lifted, and the Tiger Moth rolled majestically to reach its lift-off speed of 55 knots.
-
-...
-
-[Data](articles/22ca8eca.json)
-
-[Extended Data](ext_articles/22ca8eca.ext.json)
-
----
-
-### Vijayamuni - Vadiwale and Wimalaweera is willing to win Ranil
-
-*2024-08-10 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199791) · `si`
-
-Vijayamuni Soyza supports Ranil Wickremesinghe for the presidency, as does MP Wimalaweera, expressing hope for Wickremesinghe's victory due to his economic policies and leadership qualities.
-
-🟩
-
-Former Minister Vijith Wijayamuni Soyza, who contested for the Gampaha District with the Gampaha District, has been supporting President Ranil Wickremesinga in the next presidential election.
-
-A rally in Hatton was also stated that he would support Ranil Wickremesinghe in the next presidential election.
-
-Meanwhile, MP Wimalaweera said he was the personal pleasure to see Ranil Wickremesinghe in the next presidential election.
-
-He was speaking at a meeting with local government representatives in Ampara with local government representatives.
-
-The MP further said that this time the CABIA could not win in the Presidential election.
-
-...
-
-[Data](articles/2ae6298b.json)
-
-[Extended Data](ext_articles/2ae6298b.ext.json)
-
----
-
-### Election Symbols - High Gazette released
-
-*2024-08-10 18:55:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-சின்னங்கள்-அதிவிசேட-வர்த்தமானி-வெளியானது/175-341918) · `ta`
-
-The High Gazette has published a notification signed by the Election Commission, detailing the election symbols assigned to registered political parties and independent groups. These symbols help voters identify candidates, simplifying the voting process. The notification also lists unauthorized symbols, including "Remble."
-
-🟩
-
-The High Gazette Notification has been issued with the signature of the Chairman of the Election Commission on the election symbols allocated to recognized political parties and independent groups.
-
-Such symbols are allocated by voters to identify candidates and simplify the voting process.
-
-Accordingly, the notification of the Extreme Gazette, which includes recognized symbols and unauthorized symbols. Remble
-
-◼️
-
-[Data](articles/f9ae30f7.json)
-
-[Extended Data](ext_articles/f9ae30f7.ext.json)
-
----
-
-### A number of changes starting tomorrow - plans to create a new party
-
-*2024-08-10 18:31:01* · [`adalk`](https://www.ada.lk/breaking_news/හෙටින්-ඇරඹෙන-සතියේ-වෙනස්කම්-රැසක්---නව-පක්ෂයක්-නිර්මාණය-කිරීමටත්-සැලසුම්/11-411293) · `si`
-
-Starting tomorrow, significant changes will be implemented, including the formation of a new political party. The General Secretary of the General Assembly intends to back President Ranil Wickremesinghe in the upcoming presidential election, as confirmed by Parliamentarian Mahindananda Aluthgamage.
-
-🟩
-
-The General Secretary of the General Assembly is planning to support President Ranil Wickremesinghe in the next presidential election.
-
-Parliamentarian Mahindananda Aluthgamage has stated that arrangements have been prepared.
-
-◼️
-
-[Data](articles/78ca7078.json)
-
-[Extended Data](ext_articles/78ca7078.ext.json)
 
 ---

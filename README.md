@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 15:05:51**
+As of **2024-08-11 15:20:46**
 
 ## Newspaper Stats
 
@@ -76,7 +76,7 @@ The probe uncovered that a Sri Lankan national named Eesan, believed to be the k
 
 ### Fire at Colombo Port - Freight Ship Damage
 
-*2024-08-11 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190809) · `ta`
+*2024-08-11 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190809) · `ta`
 
 A fire and explosion damaged a historic ship at Colombo Port early Sunday, causing significant harm to cargo and vessel. The blaze was contained by port staff, but the extent of damage remains unknown.
 

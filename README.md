@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 07:22:08**
+As of **2024-08-11 07:54:02**
 
 ## Newspaper Stats
 
-*Scraped **40,050** Articles*
+*Scraped **40,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,142 @@ colombotelegraphcom | 377
 islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
-adalk | 3,672
+adalk | 3,673
 adaderanalk | 4,659
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,058
+tamilmirrorlk | 5,059
 virakesarilk | 6,347
-adaderanasinhalalk | 6,801
+adaderanasinhalalk | 6,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,042 (100.0%) of 40,050 articles have been extended.
+40,043 (100.0%) of 40,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### පැරිස් ඔලිම්පික් උලෙළ අදින් අවසන්
+
+*2024-08-11 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199802) · `si`
+
+ජූලි 26 වනදා 2024 ඔලිම්පික් උලෙළ ආරම්භ වූ අතර එය පුරා දින 15කට වැඩි කාලයක් පැවැත්වුණි.
+
+ක්‍රීඩා 32කට අදාළව තරග 329ක් පැවති අතර ඊට ක්‍රීඩකයින් 10,714 දෙනෙකු සහභාගී වුණි.
+
+ඊයේ පිරිමි සහ කාන්තා මීටර් 100 සහාය දිවීම ඉසව්වල අවසන් තරග පැවති අතර එහි පිරිමි ඉසව්වේ ප්‍රථම ස්ථානය කැනඩා කණ්ඩායමටත් කාන්තා ඉසව්වේ ප්‍රථම ස්ථානය අමෙරිකාවත් දිනා ගැනීමට සමත් වුණි.
+
+රන් පදක්කම් සටහනේ මේ වනවිට පෙරමුණ ගැනීමට චීනය සමත්ව ඇති අතර ඔවුන් රන් පදක්කම් 39ක් හිමිකරගෙන තිබේ.
+
+අමෙරිකාව රන් පදක්කම් 38ක් හිමිකර ගනිමින් රන් පදක්කම් සටහනේ දෙවන ස්ථානයේත් ඕස්ට්‍රේලියාව රන් පදක්කම් 18ක් හිමිකර ගනිමින් තෙවන ස්ථානයේ ත් රැඳී සිටී.
+
+◼️
+
+[Data](articles/2f5d7654.json)
+
+---
+
+### වතු සේවකයන්ගේ වැටුප් වැඩි කිරීමට එරෙහි වුණේ නෑ - පලනි දිගම්බරම්
+
+*2024-08-11 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199801) · `si`
+
+තමන් කිසිවිටකත් වතු සේවකයින්ගේ වැටුප් වැඩිකිරීමට එරෙහිව කටයුතු නොකළ බව කම්කරු ජාතික පෙරමුණේ නුවරඑළිය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී පලනි දිගම්බරම් මහතා පවසයි.
+
+ඔහු පැවසුවේ ජනාධිපතිවරයා සහ මනූෂ නානායක්කාර මහතා වතු සේවක ජනතාව නොමග යවමින් අසත්‍ය ප්‍රචාර සිදුකරන බවය.
+
+හැටන් නගරයේ පැවති රැස්වීමක දී පලනි දිගම්බරම් මන්ත්‍රීවරයා මේ බව පැවසීය.
+
+වතු සේවකයින්ගේ වැටුප් වැඩීකිරීමට එරෙහිව පලනි දිගම්බරම් මහතා කටයුතු කළ බව හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා මීට පෙර පැවසුවේය.
+
+◼️
+
+[Data](articles/505b93f7.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - 3ක් මරුට
+
+*2024-08-11 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199800) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයකදී සිදුවූ රිය අනතුරුවලින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (10) එම අනතුර සිදුව තිබුණේ, හෝමාගම, මඩාටුගම සහ වරකාපොළ යන පොලිස් වසම්වලය.
+
+හෝමාගම - කොට්ටාව පරණ මාර්ගයේ වලව්ව හන්දියේදී ත්‍රිරෝද රථයක් මෝටර් රථයක් ගැටී සිදුවූ අනතුරකින් 41 හැවිරිදි ත්‍රිරෝද රථයේ රියදුරු මියගොස් තිබේ.
+
+මේ අතර යාපනය - මහනුවර මාර්ගයේ පහළ බුලාගල ප්‍රදේශයේදී ත්‍රිරෝද රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කැබ් රථයක ගැටී අනතුරක් සිදුව තිබුණි.
+
+අදාළ අනතුරින් ත්‍රිරෝද රථයේ රියදුරු සහ පසුපස ගමන්කළ පුද්ගලයෙකු දඹුල්ල රෝහලට ඇතුළත් කිරිමෙන් පසු ප්‍රතිකාර ලබමින් සිටි ත්‍රිරෝද රථ රියදුරු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, කිතුල්හිටියාව ප්‍රදේශයේ පදිංචිව සිටි 29 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර වරකාපොළ පොලිස් වසමේ අඹේපුස්ස - අලව්ව මාර්ගයේ තුල්හිරිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් 19 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයේ පෙරළී එම අනතුර සිදුව ඇත.
+
+◼️
+
+[Data](articles/12f14a8a.json)
+
+---
+
+### ව්‍යාපාර සඳහා බලපා ඇති නීති රෙගුලාසි රැසක් ලිහිල් කිරීමට පියවර
+
+*2024-08-11 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199799) · `si`
+
+ව්‍යාපාර සදහා බලපා ඇති නීති රෙගුලාසි රැසක් ලිහිල් කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මහනුවර දිස්ත්‍රික් වෙළද සංගම් නියෝජිතයින් සමග පැවති හමුවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+
+එහිදි වැඩිදුරටත් අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ ව්‍යාපාරිකයින්ගේ කටයුතු පහසු කර ගැනීම වෙනුවෙන් නව ආයතන පද්ධතියක් ඇති කිරීමට ද සැලසුම් කර ඇති බවය.
+
+මහනුවර නගර සංවර්ධන සැලැස්ම ලබන වසරේ සිට ක්‍රියාත්මක කිරීමට සාකච්ඡා කර ඇති බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+මධ්‍යම පළාත සංචාරක ව්‍යාපාරයේ ප්‍රධාන කේන්ද්‍රස්ථානයක් බවට පත්කළ යුතු බවත් ජනාධිපතිවරයා මෙහිදි අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/7d72f625.json)
+
+---
+
+### ප්‍රදේශ රැසකට තද වැසි
+
+*2024-08-11 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199798) · `si`
+
+ඉදිරි දින කිහිපයේදී දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල ඇතැම් ප්‍රදේශවලට අද (11) දිනයේ මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/be992a61.json)
+
+---
+
+### ’தோட்டத் தொழிலாளர்களுக்கு அடுத்த வருடம் சேமலாப நிதி’
+
+*2024-08-11 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களுக்கு-அடுத்த-வருடம்-சேமலாப-நிதி/175-341936) · `ta`
+
+தோட்ட தொழிலாளர்களின் ஒரு நாள் சம்ளத்தை 1,700 ரூபாயாக அதிகரிப்பதற்கு எடுக்கப்பட்ட தீர்மானத்தை செயற்படுத்த 07 பெருந்தோட்ட நிறுவனங்கள் இணங்கியுள்ளன எனவும் எதிர்வரும் திங்கள் கிழமை சம்பள நிர்ணயச் சபையை அழைத்துச் பேசி அந்த தீர்மானத்தை செயற்படுத்தத் தேவையான சட்டங்களை கொண்டுவர தயாராக இருப்பதாகவும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அத்துடன், தோட்ட தொழிலாளர்களுக்கு வழங்கப்படாமலிருக்கும் சேமலாப நிதியை பெற்றுக்கொடுப்பதற்கான பணிகளை அடுத்த வருடத்திலிருந்து முன்னெடுப்போம் எனவும் ஜனாதிபதி  தெரிவித்தார்.
+
+இலங்கை தொழிலாளர் காங்கிரஸினால் ஏற்பாடு செய்யப்பட்ட கண்டி மாவட்ட தோட்டத் தொழிலாளர் தொழிற்சங்கங்கள் மற்றும் இளைஞர் தலைவர்களுடனான சந்திப்பில் நேற்று கண்டி கரலிய மண்டபத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/a84fe975.json)
+
+---
 
 ### New political party announces soon
 
@@ -406,6 +526,8 @@ This falsehood was exposed when the date of the presidential poll was gazetted b
 
 [Data](articles/63e11237.json)
 
+[Extended Data](ext_articles/63e11237.ext.json)
+
 ---
 
 ### UNICEF Sri Lanka, AG’s Dept focus on child-friendly justice
@@ -427,6 +549,22 @@ It is part of the multi-year Support to Justice Sector Project (JURE), which beg
 [Data](articles/f2fa4b9e.json)
 
 [Extended Data](ext_articles/f2fa4b9e.ext.json)
+
+---
+
+### මස්කෙලියේ අනතුරකින්‌ දෙදෙනෙකු මරුට
+
+*2024-08-10 20:36:00* · [`adalk`](https://www.ada.lk/breaking_news/මස්කෙලියේ-අනතුරකින්‌-දෙදෙනෙකු-මරුට/11-411296) · `si`
+
+මස්කෙළිය, බ්‍රවුන්ලෝ ප්‍රදේශයේදී සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ත්‍රිරෝද රථයක් සහ කැබ් රථයක් ගැටීමෙන් එම අනතුර සිදුවී ඇති බව පොලීසිය සඳහන් කළේය.
+
+අනතුරින් තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා මස්කෙළිය රෝහල වෙත ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/3f193913.json)
 
 ---
 
@@ -2095,153 +2233,5 @@ The identity of the deceased is yet to be confirmed while he is believed to be b
 [Data](articles/ad258f8a.json)
 
 [Extended Data](ext_articles/ad258f8a.ext.json)
-
----
-
-### Ram appointed as Assistant Secretary of the United People's Power
-
-*2024-08-10 09:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தியின்-உதவிச்-செயலாளராக-ராம்-நியமனம்/175-341900) · `ta`
-
-Dr. CVP Ram is named Assistant Secretary of the United People's Power, also serving as the party's North Church Chief Organizer and a former Western Provincial Council member. Sajith Premadasa, the party leader and opposition leader, is appointed as the Assistant Secretary for 2024, tasked with addressing the post's responsibilities effectively.
-
-🟩
-
-Dr. CVP Ram has been appointed as the Assistant Secretary of the United People's Power and the party's North Church Chief Organizer and former Member of the Western Provincial Council.
-
-Sajith Premadasa, the party leader and opposition leader, has been appointed as the Assistant Secretary of the United People's Power for 2024, according to the powers vested in the United People's Power Party.
-
-Sajith Premadasa said in a letter to him that he expects you to take good on the issues and responsibilities of the post under this post.. Remble
-
-◼️
-
-[Data](articles/49a4d501.json)
-
-[Extended Data](ext_articles/49a4d501.ext.json)
-
----
-
-### Unidentified body found in Kelani River
-
-*2024-08-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199772) · `si`
-
-An unidentified male body, aged 45-50, discovered in the Kelani River near Grandpass, now at Colombo National Hospital morgue.
-
-🟩
-
-An unidentified body was found in the Kelani River near the Grandpass sentence of the Grandpassa area.
-
-The body has been placed at the Colombo National Hospital morgue.
-
-The identity of the deceased has not yet been established and he is a male between 45 and 50 years.
-
-◼️
-
-[Data](articles/10edcc45.json)
-
-[Extended Data](ext_articles/10edcc45.ext.json)
-
----
-
-### Excise Dept. to introduce new safety sticker for liquor bottles
-
-*2024-08-10 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101124/excise-dept-to-introduce-new-safety-sticker-for-liquor-bottles) · `en`
-
-The Excise Department has announced a decision to implement a new safety sticker for liquor bottles starting from October 01.
-
-The Commissioner General of Excise, M. J. Gunasiri, stated that the new method is designed to address and overcome the shortcomings of the current sticker system.
-
-◼️
-
-[Data](articles/f94c9d99.json)
-
-[Extended Data](ext_articles/f94c9d99.ext.json)
-
----
-
-### Probe launched into fake website similar to Election Commission’s official website
-
-*2024-08-10 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101123/probe-launched-into-fake-website-similar-to-election-commissions-official-website) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SL CERT) has launched an investigation into a fake website similar to the official Election Commission website.
-
-Senior Information Engineer Charuka Damunupola of SL CERT confirmed that a complaint has also been lodged with the Criminal Investigation Department (CID) regarding this issue.
-
-Meanwhile, the Election Commission announced that the period for accepting postal voting applications for the upcoming presidential election ended at midnight yesterday (09).
-
-Although the relevant period was scheduled to end at midnight on the August 7, steps were taken to extend the period of accepting applications in consideration of possible mail delays and requests made to the commission.
-
-◼️
-
-[Data](articles/eb50a0b2.json)
-
-[Extended Data](ext_articles/eb50a0b2.ext.json)
-
----
-
-### Resolution to reduce women's marriage age to 9 in Iraq
-
-*2024-08-10 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/190711) · `ta`
-
-Iraqi Parliament proposes lowering women's marriage age to 9 and men's to 15, sparking outrage from human rights groups. Critics warn of dire impacts on education, health, and wellbeing of young women. The bill suggests allowing individuals to choose between religious laws and civil court for family matters. If enacted, it could lead to marriages of 9-year-old girls and 15-year-old boys. UNICEF reports 28% of Iraqi women were married under 18, despite the legal age being 18. Women in Iraq are fighting against this bill.
-
-🟩
-
-The Iraqi Parliament has filed a controversial bill to reduce women's marriage age to 9 and the marriage age of male children to 15.
-
-Human rights organizations and activists are vehemently opposed to this bill. They warn that this will have serious consequences of the education, health and well -being of young women.
-
-The law states that marriage in Iraq should be at least 18 years old.
-
-However, the new law proposed by the Iraqi Ministry of Justice will allow people to choose whether to follow religious rules for family matters or to adopt a civil court system.
-
-If the law is passed, the nine -year -old girls and the 15 -year -old boys can get married.
-
-UNICEF, a UN child organization, said it was married to 28 percent of women in Iraq even though it was 18 years old.
-
-It is also reported that Iraqi women have launched a struggle against the current relaxation bill.
-
-◼️
-
-[Data](articles/4dc8c149.json)
-
-[Extended Data](ext_articles/4dc8c149.ext.json)
-
----
-
-### Plane crashes in Brazil’s Sao Paulo state, killing all 61 aboard
-
-*2024-08-10 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101122/plane-crashes-in-brazils-sao-paulo-state-killing-all-61-aboard) · `en`
-
-A passenger plane crashed into a gated residential community in Brazil’s Sao Paulo state Friday, killing all 61 people aboard and leaving a smoldering wreck, officials and the airline said.
-
-Officials did not say if anyone was killed on the ground in the neighborhood where the plane landed in the city of Vinhedo, about 80 kilometers (50 miles) northwest of the metropolis of Sao Paulo. But witnesses at the scene said there were no victims among local residents.
-
-The airline Voepass said that its plane, an ATR 72 twin-engine turboprop, was headed for Sao Paulo’s international airport Guarulhos with 57 passengers and 4 crew members aboard when it crashed in Vinhedo. It provided a flight manifest with passenger names, but not their nationalities. A prior statement had said there were 58 passengers.
-
-...
-
-[Data](articles/ce89a7d5.json)
-
-[Extended Data](ext_articles/ce89a7d5.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-08-10 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101121/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western province and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places in Western, Northern and Eastern provinces, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7d0115b3.json)
-
-[Extended Data](ext_articles/7d0115b3.ext.json)
 
 ---

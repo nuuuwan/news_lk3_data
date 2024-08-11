@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 14:55:09**
+As of **2024-08-11 15:05:51**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,107 (100.0%) of 40,109 articles have been extended.
+40,109 (100.0%) of 40,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### වාහන ආනයනය ගැන ජනපති දුන් ඉඟිය
+### President's tip of vehicles
 
 *2024-08-11 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199817) · `si`
 
-බදු සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු, ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සාකච්ඡා කිරීමෙන් අනතුරුව විසඳා ගැනීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe discussed economic challenges, including tax issues, during a meeting in Kandy. He mentioned ongoing negotiations with the IMF to address these problems, aiming for improvements in the economy and tax amendments. The president also touched on concerns about vehicle imports and the impact on foreign reserves, suggesting optimism for future economic growth.
 
-මහනුවර පැවති රැස්වීමකදී ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟ වන කරුණු මෙන්ම, එකඟ නොවන කරුණුද පවතින බවයි.
+🟩
 
-මහනුවර දිස්ත්‍රික් වෙළෙඳ සංගම් නියෝජිතයින් සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර සාකච්ඡාවක් ඊයේ පැවැත්වුණි.
+President Ranil Wickremesinghe says that the issues that have arisen on taxes are expected to be resolved after discussing the International Monetary Fund.
 
-මහනුවර එක්සත් වෙළෙඳ පෙරමුණ විසින් සංවිධාන කෙරුණු එම හමුවට එම ප්‍රදේශයේ සිංහල, දෙමළ, මුස්ලිම් ව්‍යාපාරික සංගම්වල නියෝජිතයින් රැසක් සහභාගී විය.
+At a meeting held in Kandy, the President added that the International Monetary Fund is as well as disagreement.
+
+A discussion was held yesterday with President Ranil Wickremesinghe, Kandy District Trade Association and President Ranil Wickremesinghe.
+
+Organized by the United Trade Front in Kandy was attended by a number of representatives of Sinhala, Tamil and Muslim business associations in the area.
 
 ...
 
 [Data](articles/8911798c.json)
+
+[Extended Data](ext_articles/8911798c.ext.json)
 
 ---
 
@@ -174,17 +180,23 @@ Several suspects involved in the racket have been arrested and the main suspect,
 
 ---
 
-### වර්ජන රැල්ල නැවතත් ? - ග්‍රාමනිලධාරීන් දැඩි තීරණයක
+### The wave of strikes again?Grama Niladhari
 
 *2024-08-11 13:43:35* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජන-රැල්ල-නැවතත්-----ග්‍රාමනිලධාරීන්-දැඩි-තීරණයක/11-411302) · `si`
 
-ග්‍රාම නිලධාරීන් හෙට(12දා) සිට විරෝධතා සතියක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+Grama Niladharis plan a weekly strike starting tomorrow, also deciding to skip work on the days of the strike.
 
-එමෙන්ම ඊට සමගාමීව හෙට සහ අනිද්දා(13දා) යන දෙදින තුළ සේවයෙන් ඉවත්වීමටද තීරණය කර ඇත.
+🟩
+
+The Grama Niladharis have decided to start a weekly week from tomorrow (12th).
+
+At the same time, it has been decided to leave the work tomorrow and tomorrow.
 
 ◼️
 
 [Data](articles/25df383a.json)
+
+[Extended Data](ext_articles/25df383a.ext.json)
 
 ---
 

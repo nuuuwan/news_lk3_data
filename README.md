@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 23:20:43**
+As of **2024-08-11 23:36:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,153 (100.0%) of 40,154 articles have been extended.
+40,154 (100.0%) of 40,154 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,25 +76,39 @@ The Minister of State points out that even if there are more candidates, it will
 
 ---
 
-### பிரதான கழகங்கள் 50 ஓவர் கிரிக்கெட்: அஷானின் அபார துடுப்பாட்டத்தால் ஏஸ் சிசிசி சம்பியனானது; இசுறு உதானவின் அதிரடி வீண்போனது
+### Main Corporations 50 Over Cricket: Ace CCC has been championed by Ashan's great cricket;The action of Isuru Udana was fallen
 
 *2024-08-11 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190844) · `ta`
 
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்ட இந்த வருடத்திற்கான பிரதான கழகங்களுக்கு (Major Club 50 Over Cricket) இடையிலான 50 ஓவர் கிரிக்கெட் போட்டியில் ஏஸ் கெப்பிட்டல் கழகம் சம்பியன் பட்டத்தை சூடியது.
+Ace Capital Corporation clinched the 50-over cricket championship, defeating Colombo Cricket Club (CCC), thanks to key contributions from players like Tanukka Tabare, Raveen de Silva, and Sammu Ashan. Despite early losses, the team bounced back, led by Ashan's 97 runs and supported by solid bowling performances. Isuru Udana stood out with his efficient batting, scoring 80 runs off 46 balls. The tournament concluded with significant financial awards.
 
-கொழும்பு கிரிக்கெட் கழகத்திற்கு (சிசிசி) எதிராக ஞாயிற்றுக்கிழமை (11) நடைபெற்ற இறுதிப் போட்டியில் சம்மு அஷான் குவித்த ஆட்டம் இழக்காத அரைச் சதத்தின் உதவியுடன் 4 விக்கெட்களால் ஏஸ் கெப்பிட்டல் கழகம் வெற்றிபெற்று சம்பியனானது.
+🟩
 
-அப் போட்டியில் சிசிசியினால் நிர்ணயிக்கப்பட்ட 252 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய ஏஸ் கெப்பிட்டல் கழகம் 49 ஓவர்களில் 6 விக்கெட்களை இழந்து 254 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+The Ace Capital Corporation won the Champion title in the 50 -over cricket match between the major clubs of the Major CLUB 50 Over Cricket for the year by Sri Lanka Cricket.
 
-ஏஸ் கெப்பிட்டல் கிரிக்கெட் கழகத்தின் முதல் இரண்டு வீரர்கள் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
+The Ace Capital Corporation won by 4 wickets with the help of a half -century in the final against the Colombo Cricket (CCC) on Sunday (11).
 
-எனினும் அணித் தலைவர் தனூக்க தாபரேயும் ரவீன் டி சில்வாவும் 3ஆவது விக்கெட்டில் 59 ஓட்டங்களைப் பகிர்ந்து அணிக்கு பலம் சேர்த்தனர்.
+Ace Capital Corporation won by 6 wickets in 49 overs with 254 runs in the upcoming match.
 
-தனூக்க 48 ஓட்டங்களுடன் ஆட்டம் இழந்த பின்னர் ரவீன் டி சில்வாவும் சம்மு அஷானும் 4ஆவது விக்கெட்டில் 80 ஓட்டங்களைப் பகிர்ந்து அணிக்கு நம்பிக்கை ஊட்டினர்.
+The first two players of the Ace Capital Cricket Club lost the game.
+
+However, team captain Tanukka Tabare and Raveen de Silva shared 59 runs in the 3rd wicket.
+
+After losing 48 runs, Raveen de Silva and Sammu Ashan shared 80 runs in the 4th wicket.
+
+Ashan shared 56 runs with Sakuna Liyanage with 25 runs.
+
+The Ace Capital Cricket Club lost 6 wickets in 47 overs and scored 221 runs.
+
+But Ravindu Ratnayake, who was in the aftermath, confirmed the team's victory with Asan Shammu with 22 runs without losing 7 balls.
+
+Sammu Asan, who was so relaxed with a lot of success, did not lose the game with 97 runs.
 
 ...
 
 [Data](articles/832a6bb9.json)
+
+[Extended Data](ext_articles/832a6bb9.ext.json)
 
 ---
 

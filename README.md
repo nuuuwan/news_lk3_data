@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 13:36:32**
+As of **2024-08-11 13:55:36**
 
 ## Newspaper Stats
 
-*Scraped **40,096** Articles*
+*Scraped **40,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,678
-adaderanalk | 4,665
+adaderanalk | 4,666
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,068
 virakesarilk | 6,354
-adaderanasinhalalk | 6,815
+adaderanasinhalalk | 6,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,096 (100.0%) of 40,096 articles have been extended.
+40,096 (100.0%) of 40,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ගොත අසංකගේ ගිනිඅවි බන්ධනාගාර නියාමකගේ නිවසේ
+
+*2024-08-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199812) · `si`
+
+විදේශ රටක සැඟව සිටින සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන "ගොත අසංක" නැමැත්තාට අයත් ආයුධ තොගයක් රහසිගතව සඟවාගෙන සිටි බන්ධනාගාර නියාමකවරයෙකු පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ අත්අඩංගුවට පත්වුණි.
+
+එම ආයුධ සොයාගැනුණේ අත්අඩංගුවට ගත් පුද්ගලයාගේ රාජගිරිය ප්‍රදේශයේ නිවස පරීක්ෂා කිරිමේදීය.
+
+ජීව උණ්ඩ සහ මත්ද්‍රව්‍ය ළඟ තබාගෙන සිටි සැකකරුවන් 7 දෙනෙකු පසුගියදා මාකොළ ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකා නිලධාරින් විසින් අත්අඩංගුවට ගත් අතර ඔවුන්ව වැඩිදුර ප්‍රශ්න කිරීම් සඳහා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශය වෙත යොමුකර තිබුණි.
+
+ප්‍රශ්න කිරීම්වලදී අනාවරණය වූ තොරතුරු මත රාජගිරිය, මාදින්නාගොඩ ප්‍රදේශයේ ඉදිකෙරෙමින් පවතින දෙමහල් නිවසක් පරීක්ෂා කිරීමට පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි හේමාල් ප්‍රශාන්ත මහතාගේ උපදෙස් මත පියවර ගත්තේය.
+
+එම වැටලීමේදී නිවසේ උඩුමහලේ තිබූ රහසිගත බංකරයක් සොයා ගැනීමට විමර්ශන නිලධාරින් සමත් වුණි.
+
+රහසිගත බංකරය පරීක්ෂා කිරීමේදී ඒ තුළ ඉතා සූක්ෂම අයුරින් සඟවා තිබූ ආයුධ රැසක් පොලීසිය විසින් සොයා ගත්තේය.
+
+...
+
+[Data](articles/b557e540.json)
+
+---
+
+### Grama Niladhari officers to launch protest week; two-day strike
+
+*2024-08-11 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101146/grama-niladhari-officers-to-launch-protest-week-two-day-strike) · `en`
+
+Grama Niladhari officers have decided to launch a protest week starting from tomorrow (12).
+
+Meanwhile, they are also slated to withdraw from duties on August 12 (Monday) and August 13 (Tuesday).
+
+This decision was communicated by the co-President of the Grama Niladhari officers’ Alliance Nandana Ranasinghe at a press briefing held today (11).
+
+◼️
+
+[Data](articles/283722c0.json)
+
+---
 
 ### The boulder collapsed on a mountaineer during a trip
 
@@ -2277,65 +2315,5 @@ The beach is about five to six kilometers long, with such red crabs dead for thr
 [Data](articles/64ca6a43.json)
 
 [Extended Data](ext_articles/64ca6a43.ext.json)
-
----
-
-### A man arrested at the airport with fish and turtles
-
-*2024-08-10 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190751) · `ta`
-
-A 50-year-old businessman from Talawatakoda was arrested at Katunayake International Airport for smuggling Asian Arowana, Pyod, Ketbush, and turtles from Singapore. The arrest followed a tip-off to the Customs Biodiversity Division, leading to ongoing investigations.
-
-🟩
-
-He was arrested at the Katunayake International Airport this morning (10) by the Customs Bi -Defense Division.
-
-The arrested person has been identified as a 50 -year -old businessman from Talawatakoda.
-
-Investigations have revealed that the person from Singapore brought fish and turtles for his friend.
-
-The customs department said that the animals that were brought in include Asian Arovana, Pyod, Ketbish and Turtles.
-
-The arrests have been taken following confidential information received by officials of the Customs Biodiversity Division of the Customs Biodiversity Division and further investigations into the incident have begun.
-
-◼️
-
-[Data](articles/d15fed28.json)
-
-[Extended Data](ext_articles/d15fed28.ext.json)
-
----
-
-### Imaan Kalayif wins a golden page
-
-*2024-08-10 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199778) · `si`
-
-Imaan Kalayif made history by becoming the first Algerian, Arabic, and African woman to win a gold medal in the 66 kg weight category at the Olympics. Despite facing challenges due to her gender identity, she triumphed over China with a unanimous decision. This victory is a testament to her dedication, having trained for eight years to achieve this dream. Imaan emphasizes her identity as a woman and thanks the sports community for their support, expressing gratitude for her success.
-
-🟩
-
-Women, which was the eye of many of the Olympic Games. Imaan Kalayif was able to win the 66 weights gold medal.
-
-In the match for the gold medal, she conquered China in a unanimous judgment (5-0 marks).
-
-Accordingly, the first Algerian, Arabic and the only African woman (to date) was the first Algerian, Arabic and the only African woman.
-
-The Olympic Games, called a biologically boy, was in the beginning of the Test of the Inger Kalayife Women's Sector, which was called a biologically man.
-
-However, more people came forward to stand for her.
-
-The 25-year-old iman won the gold medal, said the medal is a dream. She had been trained for eight years to win this medal.
-
-Meanwhile, Iman said that he was responding as a woman as well as other women as a biologically man.
-
-The first time after winning the gold medal
-
-"I have fully qualified to participate in the competition. I'm just like other women. I was born as a woman. I lived as a woman. I competed as a woman. "
-
-...
-
-[Data](articles/104f83b8.json)
-
-[Extended Data](ext_articles/104f83b8.ext.json)
 
 ---

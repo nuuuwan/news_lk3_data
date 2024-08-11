@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 23:56:15**
+As of **2024-08-12 00:09:31**
 
 ## Newspaper Stats
 
-*Scraped **40,154** Articles*
+*Scraped **40,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ newsfirstlk | 363
 bbccomsinhala | 375
 colombotelegraphcom | 378
 islandlk | 2,318
-economynextcom | 2,425
+economynextcom | 2,427
 dailyftlk | 2,581
 adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
-virakesarilk | 6,368
+virakesarilk | 6,370
 adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,154 (100.0%) of 40,154 articles have been extended.
+40,154 (100.0%) of 40,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### பொதுஜன பெரமுனவை இனி எவராலும் கட்டியெழுப்ப முடியாது ; ரணிலின் வெற்றியே நாட்டின் வெற்றி - விமலவீர திஸாநாயக்க
+
+*2024-08-11 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190845) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவை இனி எவராலும் கட்டியெழுப்ப முடியாது. எதிர்வரும் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க வெற்றி பெற வேண்டும்.ஏனெனில் அவர் வெற்றி பெற்றால் தான் நாடு வெற்றி பெறும் என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விமலவீர திஸாநாயக்க தெரிவித்தார்.
+
+நாடு மிக மோசமான பொருளாதார நெருக்கடியை எதிர்க்கொண்டிருந்த வேளையில் தற்போது வீரவசனம் பேசுபவர்கள் எவரும் அரசாங்கத்தை பொறுப்பேற்கவில்லை.நாடு தீப்பற்றி எரிந்து கொண்டிருந்த போது நிபந்தனை விதித்துக் கொண்டிருந்தார்கள்.ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது அரசியல் எதிர்காலத்தை கருத்திற் கொள்ளாமல் நாட்டை பொறுப்பேற்றார்.
+
+குறுகிய காலத்தில் நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளது என்பதை அனைவரும் ஏற்றுக் கொள்ள வேண்டும்.2022 ஆம் ஆண்டு வரிசை யுகம் தற்போது காணப்பட்டால் எவரும் தேர்தல் பிரசாரங்களை செய்ய முடியாது என்பதை ஆளும் மற்றும் எதிர்க்கட்சிகள் நினைவில் கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/e2c6c968.json)
+
+---
 
 ### United States top medals table at end of Paris Olympics
 
@@ -139,6 +155,22 @@ The Executive Director of PAFFREL Rohana Hettiarachchi explained that all the re
 [Data](articles/771ed21d.json)
 
 [Extended Data](ext_articles/771ed21d.ext.json)
+
+---
+
+### ஜனாதிபதிக்கு ஆதரவாக முதலாவது பிரச்சார கன்னி  கூட்டத்தை அநுராதபுரத்தில் நடத்துவோம்  - எஸ்.எம்.சந்திரசேன
+
+*2024-08-11 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190837) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக எதிர்வரும் 17 ஆம் திகதி அநுராதபுரத்தில் கன்னி தேர்தல் பிரசார கூட்டத்தை நடத்துவோம்.பொதுஜன பெரமுன முடிந்தால் அநுராதபுரத்தில் கூட்டத்தை நடத்தட்டும் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுக்கு சவால் விடுத்தார்.
+
+அநுராதபுரம் பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+எனக்கு பாடம் கற்பிப்பதற்காக அநுராதபுரம் மாவட்ட தலைவராக  நாமல் ராஜபக்ஷ நியமிக்கப்பட்டுள்ளார்.மறுபுறம் மக்கள் விடுதலை முன்னணியின் தலைவர் அனுரகுமார திஸாநாயக்கவும் உள்ளார்.அனுரகுமார திஸாநாயக்க அநுராதபுரத்தை சேர்ந்தவர்.ஆனால் நாமல் ராஜபக்ஷ அம்பாந்தோட்டை மாவட்டத்தை சேர்ந்தவர் . எனக்கு எதிராகவே நாமல் ராஜபக்ஷ   அநுராதபுரம்  மாவட்ட தலைவராக நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/ec25d45f.json)
 
 ---
 
@@ -311,6 +343,28 @@ The Navy said that the suspect would be conducted by the Wennappuwa Police about
 [Data](articles/e8b2faba.json)
 
 [Extended Data](ext_articles/e8b2faba.ext.json)
+
+---
+
+### No decision yet on reducing Sri Lanka arrack price
+
+*2024-08-11 18:23:00* · [`economynextcom`](https://economynext.com/no-decision-yet-on-reducing-sri-lanka-arrack-price-176323/) · `en`
+
+ECONOMYNEXT – There has been decision taken to reduce the price of arrack, State Minister Ranjith Siyambalapitiya said, amid concerns over inadvertent tax incentives given to hooch makers through after steep tax hikes on top of a currency collapse.
+
+Though there have been requests by various parties to reduce the price of arrack no decision has been taken yet, he was quoted as saying to reporters in Yatiyanthota.
+
+There were commitment given to the World Health Organization and other organizations about maintaining certain tax rates, he said.
+
+Though there is usually desire to reduce the price of goods this can be considered later, he said.
+
+There were reports that the price of a bottle of arrack would be reduced as much at 1,000 rupees.
+
+As legal sales dropped, there are concerns that many less affluent groups are moving to moonshine and other products. (Colombo/Aug11/2024)
+
+◼️
+
+[Data](articles/fc414295.json)
 
 ---
 
@@ -1424,6 +1478,28 @@ Basil Rajapaksa said, "I am confident that many people will recover their mistak
 
 ---
 
+### Sri Lanka President to push Rs1,700 plantation wage again
+
+*2024-08-11 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-push-rs1700-plantation-wage-again-176320/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has said he will re-convene the Wages Board to mandate a 1,700 rupees a day wage for plantations workers again, according to a speech made in Kandy, his media office said.
+
+Due to a defect in the procedure in mandating the daily wage, Court suspended its operation after planation companies went to court and the gazette was withdrawn.
+
+Plantation managers want a productivity linked wage structure like in small holder sector, to boost yields and already has a scheme in operation in many plantations which allows workers to earn different wages.
+
+President Wickremesinghe had said that 7 companies have agreed to pay the wage of 1,700 rupees a day.
+
+If necessary special laws will be brought to enforce the wage, he was quoted as saying.
+
+Government ministers have also threatened to expropriate the plantations, potentially undermining property rights and the investment environment of the country, over the wage controversy.
+
+...
+
+[Data](articles/4ca16c49.json)
+
+---
+
 ### Good and bad…!
 
 *2024-08-11 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190801) · `ta`
@@ -2289,81 +2365,5 @@ In it, 266 complaints have been lodged in violation of the election law, the Ele
 [Data](articles/94a3ac48.json)
 
 [Extended Data](ext_articles/94a3ac48.ext.json)
-
----
-
-### Next year for plantation workers
-
-*2024-08-11 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களுக்கு-அடுத்த-வருடம்-சேமலாப-நிதி/175-341936) · `ta`
-
-President Wickremesinghe announced that seven plantation firms agree to raise daily wages to Rs 1,700 and plan to enact necessary laws by Monday. He also mentioned the initiation of a provisional fund for plantation workers starting next year, during a meeting with estate workers' unions and youth leaders in Kandy.
-
-🟩
-
-President Ranil Wickremesinghe said that seven plantation companies have agreed to implement the resolution to increase the plantation workers' one -day salary to Rs 1,700 and are ready to bring the laws required to implement the resolution on Monday.
-
-The President also said that we will carry out the process of obtaining a provisional fund for plantation workers from next year.
-
-The President said this while addressing a meeting with the Kandy District Estate Workers' Trade Unions and Youth Leaders at the Kandy Karalya Hall yesterday organized by the Ceylon Workers Congress.. (A)
-
-◼️
-
-[Data](articles/a84fe975.json)
-
-[Extended Data](ext_articles/a84fe975.ext.json)
-
----
-
-### New political party announces soon
-
-*2024-08-11 02:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கட்சி-விரைவில்-அறிவிப்பு/175-341935) · `ta`
-
-Mahindananda Aluthgamage announced a new political party, set to launch within a week, aimed at supporting President Ranil Wickremesinghe in the upcoming election. This revelation came during a special meeting of the former Local Government Council forum.
-
-🟩
-
-Parliamentarian Mahindananda Aluthgamage has said that the PA, which is united to support President Ranil Wickremesinghe in the upcoming presidential election, will start a new party within next week.
-
-He said this while attending a special meeting of the former Local Government Council Council forum. (A)
-
-◼️
-
-[Data](articles/5e8aea88.json)
-
-[Extended Data](ext_articles/5e8aea88.ext.json)
-
----
-
-### Vadivel Suresh supports president
-
-*2024-08-11 01:48:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷ்-ஜனாதிபதிக்கு-ஆதரவு/175-341934) · `ta`
-
-Vadivel Suresh, as general secretary of the National Plantation Workers Union, announced their support for President Ranil Wickremesinghe in the upcoming presidential election, emphasizing the commitment of plantation workers towards him.
-
-🟩
-
-Vadivel Suresh, general secretary and parliamentarian of the association, says the National Plantation Workers Union will support President Ranil Wickremesinghe in the upcoming presidential election.
-
-Vadivel Suresh has said that the plantation people will be committed to President Ranil Wickremesinghe. (A)
-
-◼️
-
-[Data](articles/1c3544f7.json)
-
-[Extended Data](ext_articles/1c3544f7.ext.json)
-
----
-
-### Lavanya Travels wins Best Thailand Tour Organiser Award at Asia Miracle Awards
-
-*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/lavanya-travels-wins-best-thailand-tour-organiser-award-at-asia-miracle-awards/) · `en`
-
-Lavanya Travels Pvt. Ltd. has won the Best Outbound Tour Organiser at the prestigious Asia Miracle Awards, organised by MUGP International Organisation. The award ceremony was recently at the Water’s Edge Hotel in Battaramulla. Established in 2014, Lavanya Travels began its journey by organising small group tours to Thailand. Despite the challenges posed by the Covid-19 pandemic in 2019, the company resumed operations with renewed vigor and now arranges two groups of 50 travellers each to Thailand every month. Over the past, they have earned the trust of countless customers from all parts of the country. The company’s dedication to providing unparalleled travel experiences has been recognised with the several awards including Pinnacle Award last year (2023), and now the Asia Miracle Award.
-
-...
-
-[Data](articles/26625d22.json)
-
-[Extended Data](ext_articles/26625d22.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 17:56:57**
+As of **2024-08-11 18:15:02**
 
 ## Newspaper Stats
 
-*Scraped **40,127** Articles*
+*Scraped **40,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,682
-adaderanalk | 4,671
+adaderanalk | 4,672
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,072
 virakesarilk | 6,357
@@ -26,23 +26,43 @@ adaderanasinhalalk | 6,828
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,125 (100.0%) of 40,127 articles have been extended.
+40,127 (100.0%) of 40,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### රොෂාන් රණසිංහ ත් ජනාධිපතිවරණයට
+### Roshan Ranasinghe to also contest presidential candidacy
+
+*2024-08-11 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101154/roshan-ranasinghe-to-also-contest-presidential-candidacy) · `en`
+
+Former Minister of Sports Roshan Ranasinghe has announced his candidacy for the upcoming Presidential Election.
+
+He communicated this while addressing a function held at the Sri Lanka Foundation Institute today (11).
+
+◼️
+
+[Data](articles/17ed2764.json)
+
+---
+
+### Roshan Ranasinghe
 
 *2024-08-11 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199825) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වන බව හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා පවසයි.
+Roshan Ranasinghe, ex-Sports Minister, announced at the Sri Lanka Foundation Institute that the upcoming presidential election will proceed as planned.
 
-ශ්‍රී ලංකා පදනම් ආයතනයේ පැවැත්වෙන උත්සවයක් අමතමින් ඔහු ඒ බව පැවසීය.
+🟩
+
+Former Sports Minister Roshan Ranasinghe says that the presidential election will be forwarded to the coming presidential election.
+
+He was speaking at a function held at the Sri Lanka Foundation Institute.
 
 ◼️
 
 [Data](articles/e60aefd6.json)
+
+[Extended Data](ext_articles/e60aefd6.ext.json)
 
 ---
 
@@ -232,17 +252,23 @@ Speaking at a media briefing in Colombo on Sunday (11), Nandana Ranasinghe, co -
 
 ---
 
-### කොළඹ වරායේ නෞකාවක් ගිනි ගැනීම ගැන පරීක්ෂනයක් ආරම්භ කිරීමට ඇමතිගෙන් උපදෙස්
+### Minister instructs to commence an inquiry into fire on fire in Colombo Port
 
 *2024-08-11 15:59:56* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-නෞකාවක්-ගිනි-ගැනීම-ගැන-පරීක්ෂනයක්-ආරම්භ-කිරීමට-ඇමතිගෙන්-උපදෙස්/11-411304) · `si`
 
-කොළඹ වරායේ නැංගුරම් ලා තිබූ නෞකාවක ඇතිවූ ගින්න සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ලෙස වරාය, නාවික හා ගුවන් සේවා  අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා වරාය අධිකාරියේ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+Nimal Siripala de Silva, Minister of Ports and Aviation, ordered an investigation into a fire at the Colombo Port caused by an anchored ship. The incident occurred today (11).
 
-කොළඹ වරායේ නැංගුරම් දමා තිබූ අදාළ නැවේ අද (11දා) අළුයම හදිසි ගින්නක් ඇතිවී තිබූ අතර, වරායේ ගිනි නිවන අංශය විසින් එම ගින්න සාර්ථකව මැඩ පවත්තා තිබුණි.
+🟩
+
+Minister of Ports and Aviation, Nimal Siripala de Silva has instructed the Ports Authority officials as an inquiry into the fire caused by an anchored ship.
+
+A fire had erupted at the LTTE's anchouing at the Port of Colombo today (11).
 
 ◼️
 
 [Data](articles/6df8da39.json)
+
+[Extended Data](ext_articles/6df8da39.ext.json)
 
 ---
 
@@ -2311,25 +2337,5 @@ Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunitio
 [Data](articles/56822686.json)
 
 [Extended Data](ext_articles/56822686.ext.json)
-
----
-
-### Person arrested with stock of weapons, ammunition and drugs in Rajagiriya
-
-*2024-08-10 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101137/person-arrested-with-stock-of-weapons-ammunition-and-drugs-in-rajagiriya) · `en`
-
-The officers of Police Narcotics Bureau (PNB) have arrested an individual along with a T-56 weapon, a micro pistol, a cache of live ammunition and drugs in Rajagiriya.
-
-Accordingly, police have also taken into custody a T-56 magazine, over 400 rounds of live ammunition including T56 and 9mm bullets, 06 grams of heroin, 700 milligrams of cannabis and 200 milligrams of Kush cannabis which were found in the suspect’s possession.
-
-Police said that the arrest was carried out based on information uncovered during interrogation of a suspect apprehended by Police Special Task Force (STF) on August 09, which led to the recovery of a pistol.
-
-Meanwhile, it is reported that the suspect arrested with the firearms, ammunition and drugs is a prison officer.
-
-◼️
-
-[Data](articles/6ed1cc3c.json)
-
-[Extended Data](ext_articles/6ed1cc3c.ext.json)
 
 ---

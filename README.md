@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 22:08:16**
+As of **2024-08-11 22:20:58**
 
 ## Newspaper Stats
 
-*Scraped **40,150** Articles*
+*Scraped **40,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 378
 islandlk | 2,318
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,684
+adalk | 3,685
 adaderanalk | 4,674
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,150 (100.0%) of 40,150 articles have been extended.
+40,150 (100.0%) of 40,151 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -431,6 +431,22 @@ The 1971 freedom struggle offered to provide 30 per cent reservation for the fam
 [Data](articles/32cdd60d.json)
 
 [Extended Data](ext_articles/32cdd60d.ext.json)
+
+---
+
+### ජනාධිපතිවරණයට රණසිංහ කෙනෙකුත් ඉදිරිපත් වෙයි
+
+*2024-08-11 17:44:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රණසිංහ-කෙනෙකුත්-ඉදිරිපත්-වෙයි/11-411310) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට තමා ඉදිරිපත් වන බව හිටපු අමාත්‍ය රොෂාන් රණසිංහ මහතා පැවසීය.
+
+කොළඹ පදනම් ආයතනයේ අද(11දා) පැවති උත්සවයකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+2024 ජනාධිපතිවරණයට මා ඉදිරිපත් වන බව මම මේ වෙලාවේදී සිහිපත් කරනවා. අපි මේ රට හදමු. මටත් ඔබටත් පළමුවත්, දෙවනුවත්, තෙවනුවත් විය යුත්තේ අපේ රට. ඒ නිසා හදවතිම රට කියලා මම ​මේ අවස්ථාවේ සිහිපත් කරනවා.
+
+◼️
+
+[Data](articles/9d8db044.json)
 
 ---
 
@@ -2317,21 +2333,5 @@ He also noted that the clergy of the temple have been assured that the missing t
 [Data](articles/9782ea2a.json)
 
 [Extended Data](ext_articles/9782ea2a.ext.json)
-
----
-
-### The public transport nightmare: possible remedies via digitization and mechanization
-
-*2024-08-11 00:21:00* · [`islandlk`](http://island.lk/the-public-transport-nightmare-possible-remedies-via-digitization-and-mechanization/) · `en`
-
-Across Sri Lanka from north to south, an astonishing 90% of the population relies on public transport for their daily commutes. This widespread dependence underscores a critical issue: public transport, particularly on private buses, is the source of significant physical and mental strain for many. The reality is stark; private bus services are marked by a host of problems that contribute to a deteriorating passenger experience.
-
-The challenges are multifaceted and impact every aspect of bus travel. Boarding and alighting from buses can be a stressful experience with passengers often battling overcrowded conditions and poorly designed bus entry and exit points. Once on board, the issues continue.
-
-...
-
-[Data](articles/d4839ecc.json)
-
-[Extended Data](ext_articles/d4839ecc.ext.json)
 
 ---

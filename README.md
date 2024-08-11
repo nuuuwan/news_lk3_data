@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 00:09:31**
+As of **2024-08-12 00:21:07**
 
 ## Newspaper Stats
 
-*Scraped **40,158** Articles*
+*Scraped **40,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 375
 colombotelegraphcom | 378
 islandlk | 2,318
 economynextcom | 2,427
-dailyftlk | 2,581
+dailyftlk | 2,583
 adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
@@ -26,25 +26,79 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,154 (100.0%) of 40,158 articles have been extended.
+40,158 (100.0%) of 40,160 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-08-11 (Sunday)
+### 2024-08-12 (Monday)
 
-### பொதுஜன பெரமுனவை இனி எவராலும் கட்டியெழுப்ப முடியாது ; ரணிலின் வெற்றியே நாட்டின் வெற்றி - விமலவீர திஸாநாயக்க
+### Finance Ministry can support Presidential polls with any number of candidates: Siyambalapitiya
 
-*2024-08-11 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190845) · `ta`
+*2024-08-12 00:05:29* · [`dailyftlk`](https://www.ft.lk/news/Finance-Ministry-can-support-Presidential-polls-with-any-number-of-candidates-Siyambalapitiya/56-765415) · `en`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவை இனி எவராலும் கட்டியெழுப்ப முடியாது. எதிர்வரும் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க வெற்றி பெற வேண்டும்.ஏனெனில் அவர் வெற்றி பெற்றால் தான் நாடு வெற்றி பெறும் என பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் விமலவீர திஸாநாயக்க தெரிவித்தார்.
+State Minister of Finance Ranjith Siyambalapitiya yesterday reassured the public that the Finance Ministry can support Presidential polls with any number of candidates.
 
-நாடு மிக மோசமான பொருளாதார நெருக்கடியை எதிர்க்கொண்டிருந்த வேளையில் தற்போது வீரவசனம் பேசுபவர்கள் எவரும் அரசாங்கத்தை பொறுப்பேற்கவில்லை.நாடு தீப்பற்றி எரிந்து கொண்டிருந்த போது நிபந்தனை விதித்துக் கொண்டிருந்தார்கள்.ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது அரசியல் எதிர்காலத்தை கருத்திற் கொள்ளாமல் நாட்டை பொறுப்பேற்றார்.
+He said the increase in the number of candidates for this year’s Presidential election will not pose a financial problem. Speaking to the media after an event in Yatiyanthota, the State Minister emphasised that the Government is prepared to cover the costs associated with the estimates presented for the election.
 
-குறுகிய காலத்தில் நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளது என்பதை அனைவரும் ஏற்றுக் கொள்ள வேண்டும்.2022 ஆம் ஆண்டு வரிசை யுகம் தற்போது காணப்பட்டால் எவரும் தேர்தல் பிரசாரங்களை செய்ய முடியாது என்பதை ஆளும் மற்றும் எதிர்க்கட்சிகள் நினைவில் கொள்ள வேண்டும்.
+Siyambalapitiya noted that the expenditure estimate for the Presidential polls has not yet surpassed the Rs. 10 billion limit set for the event.
+
+However, he acknowledged that if the number of candidates grows significantly, it could lead to additional expenses. “For instance, if the ballot paper needs to be extended by another page to accommodate all candidates, the cost of one candidate could increase by around Rs. 100 million due to the need for more ballot boxes and other logistical requirements,” he explained.
 
 ...
 
+[Data](articles/ba03968f.json)
+
+---
+
+### Roshan Ranasinghe pledges to abolish Executive Presidency
+
+*2024-08-12 00:04:57* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-pledges-to-abolish-Executive-Presidency/56-765414) · `en`
+
+Says by contesting, he is taking up a task presented to him by former CJ Sarath N. Silva
+
+Claims to understand needs of SL’s 22 million strong population and their heartbeats
+
+Assures he will hold referendum if Parliament does not support efforts to end Executive Presidency
+
+Candidate numbers swell to 27 as election-related complaints rise to 320
+
+Former Sports Minister Roshan Ranasinghe has officially announced his decision to contest in the upcoming Presidential election.
+
+Ranasinghe announced his Presidential ambitions at an event held at the Sri Lanka Foundation Institute in Colombo yesterday, where he also pledged to end Sri Lanka’s Executive Presidency.
+
+The event, themed “Hadawathinma Ratata” (Wholeheartedly for the Country), was attended by several notable figures, including former Chief Justice Sarath N. Silva, Dr. Wasantha Bandara, Senior Counsel Kalyananda Thiranagama, and actor Kamal Addararachchi.
+
+...
+
+[Data](articles/992a19ad.json)
+
+---
+
+### 2024-08-11 (Sunday)
+
+### No one can build the PA;Ranil's success is the country's victory - Wimalaweera Dissanayake
+
+*2024-08-11 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190845) · `ta`
+
+Wimalaweera Dissanayake supports Ranil Wickremesinghe for the upcoming election, emphasizing his leadership during the economic crisis. She highlights Ranil's selfless dedication to the nation over his political future. Despite challenges, including the unfeasibility of building a united front, she advocates for Ranil's victory as crucial for the country's recovery.
+
+🟩
+
+No one can build the Sri Lanka PA. President Ranil Wickremesinghe should win the upcoming election.
+
+While the country was opposed to the worst economic crisis, none of the heroes who are currently speaking of the government have been responsible for the government. The country was on fire. President Ranil Wickremesinghe took the country without considering his political future.
+
+The ruling and opposition parties must remember that no one can do election campaigns if the Age of 20122 is present in the year 20122.
+
+I will be happy if the PA wins, but it is impossible to practice. No one can build public Peramuna. President Ranil Wickremesinghe should win the election. If he wins, the country will win.
+
+The firm structure for recovering from the economic crisis has now been implemented.
+
+◼️
+
 [Data](articles/e2c6c968.json)
+
+[Extended Data](ext_articles/e2c6c968.ext.json)
 
 ---
 
@@ -158,19 +212,33 @@ The Executive Director of PAFFREL Rohana Hettiarachchi explained that all the re
 
 ---
 
-### ஜனாதிபதிக்கு ஆதரவாக முதலாவது பிரச்சார கன்னி  கூட்டத்தை அநுராதபுரத்தில் நடத்துவோம்  - எஸ்.எம்.சந்திரசேன
+### We will hold the first propaganda virgin meeting in Anuradhapura in support of the President - SM Chandrasena
 
 *2024-08-11 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190837) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக எதிர்வரும் 17 ஆம் திகதி அநுராதபுரத்தில் கன்னி தேர்தல் பிரசார கூட்டத்தை நடத்துவோம்.பொதுஜன பெரமுன முடிந்தால் அநுராதபுரத்தில் கூட்டத்தை நடத்தட்டும் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுக்கு சவால் விடுத்தார்.
+The first "Virgin Election Campaign Meeting" in Anuradhapura supports President Ranil Wickremesinghe, scheduled for the 17th. This comes after SM Chandrasena, a district parliamentarian, was dismissed for backing the president. Namal Rajapaksa has been named the new district head, possibly to counter this support. The move aims to unite with the PA if past errors are rectified, focusing on actions against those favoring the president.
 
-அநுராதபுரம் பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-எனக்கு பாடம் கற்பிப்பதற்காக அநுராதபுரம் மாவட்ட தலைவராக  நாமல் ராஜபக்ஷ நியமிக்கப்பட்டுள்ளார்.மறுபுறம் மக்கள் விடுதலை முன்னணியின் தலைவர் அனுரகுமார திஸாநாயக்கவும் உள்ளார்.அனுரகுமார திஸாநாயக்க அநுராதபுரத்தை சேர்ந்தவர்.ஆனால் நாமல் ராஜபக்ஷ அம்பாந்தோட்டை மாவட்டத்தை சேர்ந்தவர் . எனக்கு எதிராகவே நாமல் ராஜபக்ஷ   அநுராதபுரம்  மாவட்ட தலைவராக நியமிக்கப்பட்டுள்ளார்.
+The Virgin Election Campaign Meeting in Anuradhapura will be held in support of President Ranil Wickremesinghe on the 17th.
 
-...
+He was speaking to the media after the event held on Sunday (11) in the Anuradhapura area.
+
+Namal Rajapaksa has been appointed as the head of the Anuradhapura district to teach me a lesson.. Namal Rajapaksa has been appointed as the district head of the Anuradhapura.
+
+We have clearly stated that if the mistakes are corrected, we can reunite with the PA.. Only actions are being taken against those who have decided to act in favor of the president.
+
+I decided to support President Ranil Wickremesinghe in accordance with the emphasis on the people of Anuradhapura.
+
+We will hold a virgin election campaign meeting in Anuradhapura on the 17th to support President Ranil Wickremesinghe.
+
+Anuradhapura district parliamentarian SM Chandrasena has been sacked after the announcement of supporting President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/ec25d45f.json)
+
+[Extended Data](ext_articles/ec25d45f.ext.json)
 
 ---
 
@@ -365,6 +433,8 @@ As legal sales dropped, there are concerns that many less affluent groups are mo
 ◼️
 
 [Data](articles/fc414295.json)
+
+[Extended Data](ext_articles/fc414295.ext.json)
 
 ---
 
@@ -1498,6 +1568,8 @@ Government ministers have also threatened to expropriate the plantations, potent
 
 [Data](articles/4ca16c49.json)
 
+[Extended Data](ext_articles/4ca16c49.ext.json)
+
 ---
 
 ### Good and bad…!
@@ -2319,51 +2391,5 @@ He said that the crow was still extinct from one place in one place.
 [Data](articles/b44d74f5.json)
 
 [Extended Data](ext_articles/b44d74f5.ext.json)
-
----
-
-### I am currently the Minister of Labor
-
-*2024-08-11 02:47:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போது-நானே-தொழில்-அமைச்சர்/175-341938) · `ta`
-
-Manusha Nanayakkara, the new Labor Minister, addresses labor pay issues, stating she'll introduce a bill to enforce salary payments if companies fail to comply. This move aims to prevent companies from seeking legal recourse post-payment enforcement, ensuring workers' rights are protected.
-
-🟩
-
-Labor Minister Manusha Nanayakkara handled the labor pay issue.Companies went to court. President Ranil Wickremesinghe said that he is not in that position now and that I am going to be the Minister of Labor and that I am going to deal with the labor affair.
-
-If the companies do not come forward to pay the salary we put forward, I can bring the new Bill.
-
-This means that if companies do not implement the resolutions of the Salary Council, I will bring a law to pay the amount. The companies cannot seek court after that.
-
-I will bring the Low Amendment to Parliament and pass. So the problem will be put to an end.(a)
-
-◼️
-
-[Data](articles/40bbeb74.json)
-
-[Extended Data](ext_articles/40bbeb74.ext.json)
-
----
-
-### 269 ​​complaints regarding the election
-
-*2024-08-11 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-269-முறைப்பாடுகள்/175-341937) · `ta`
-
-The Elections Commission reported receiving 269 complaints about the upcoming presidential election, with 186 filed at the National Election Complaint Management Center and 80 at the District level. Most complaints, totaling 266, were for violations of election laws.
-
-🟩
-
-The Elections Commission said that 269 complaints have been received so far regarding incidents related to the upcoming presidential election.
-
-186 complaints have been lodged at the National Election Complaint Management Center and 80 complaints at the District Election Complaint Management Center.
-
-In it, 266 complaints have been lodged in violation of the election law, the Elections Commission said the Commission said.. (A)
-
-◼️
-
-[Data](articles/94a3ac48.json)
-
-[Extended Data](ext_articles/94a3ac48.ext.json)
 
 ---

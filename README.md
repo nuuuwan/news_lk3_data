@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 21:05:55**
+As of **2024-08-11 21:21:04**
 
 ## Newspaper Stats
 
-*Scraped **40,139** Articles*
+*Scraped **40,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,674
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
 virakesarilk | 6,357
-adaderanasinhalalk | 6,831
+adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,139 (100.0%) of 40,139 articles have been extended.
+40,139 (100.0%) of 40,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### රාජසන්තක වෙන ඇප මුදල්
+
+*2024-08-11 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199829) · `si`
+
+2024 ජනාධිපතිවරණයට අදාළව මේ දක්වා ඇප මුදල් තැන්පත් කර ඇති අපේක්ෂකයින් සංඛ්‍යාව 29කි.
+
+අපේක්ෂකයන් වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම ලබන බදාදා (14) දහවල් 12ට අවසන් වීමට නියමිතය.
+
+මැතිවරණ කොමිසම පවසන්නේ ඉදිරිපත්වන අපේක්ෂකයින් සංඛ්‍යාව තවදුරටත් ඉහළ යන්නේනම් මෙවර මැතිවරණය සඳහා වැයවන මූදලද ඉහළ යනු ඇති බවය.
+
+1994 වසරේ සිට මේ දක්වා පැවති ජනාධිපතිවරණ ඡන්ද විමසීම්වලදී ප්‍රධාන අපේක්ෂකයින් දෙදෙනා හැර සෙසු අපේක්ෂකයෙකු ලබාගෙන ඇති ඉහළම ඡන්ද ප්‍රතිශතය සියයට 4.08කි.
+
+ඒ 2000 වසරේ පැවති ජනාධිපතිවරණයේදී ජනතා විමුක්ති පෙරමුණේ අපේක්ෂක නන්දන ගුණතිලක මහතා විසින් ලබාගත් ඡන්ද ප්‍රතිශතයයි.
+
+ආසන්නතම ජනාධිපතිවරණය වන 2019 වසරේ ප්‍රධාන අපේක්ෂකයින් දෙදෙනාට අමතරව අතිරේක අපේක්ෂකයින් 33 දෙනාටම ලබාගත හැකිවූයේ  2.5%ක ඡන්ද ප්‍රතිශතයක් පමණී.
+
+ඒ අනුව 2%ක වත් ඡන්ද ප්‍රතිශතයක් ලබා ගත නොහැකි ඉතිරි අපේක්ෂකයින් සියලුදෙනාගේම ඇප මුදල් සියල්ල රාජසන්තක වන බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/771ed21d.json)
+
+---
 
 ### Authorization for Foreign Election Monitors
 
@@ -2331,27 +2355,5 @@ A rally in the national popularity was held at Embilipitiya at Embilipitiya at E
 [Data](articles/44f20d1a.json)
 
 [Extended Data](ext_articles/44f20d1a.ext.json)
-
----
-
-### Extensions of the 2nd Budduse
-
-*2024-08-10 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199794) · `si`
-
-The 2nd Drafts of the Universal Balannel took place today at Kataragama Devalaya, Kurunegala, with Surgeoon Power Dilith Jayaweera and political unity leaders in attendance. Mawbathi Janatha Entrepreneurial Diliva Jayaweera highlighted a unique, practical program for universal power, marking a significant moment in the event.
-
-🟩
-
-The 2nd Drafts of the Universal Balannel was held at the Kataragama Devalaya in Kurunegala this afternoon.
-
-Surgeoon Power Dilith Jayaweera and the party leaders of the political unity were present at the occasion.
-
-Speaking at the meeting, the Mawbathi Janatha Entrepreneral Diliva Jayaweera said that a rational and practical program that had not been presented in any candidate had presented universal power.
-
-◼️
-
-[Data](articles/4a8d40d9.json)
-
-[Extended Data](ext_articles/4a8d40d9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 10:07:51**
+As of **2024-08-11 10:21:20**
 
 ## Newspaper Stats
 
-*Scraped **40,067** Articles*
+*Scraped **40,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 377
 islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
-adalk | 3,674
+adalk | 3,675
 adaderanalk | 4,661
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,063
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,063 (100.0%) of 40,067 articles have been extended.
+40,067 (100.0%) of 40,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,25 +36,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-08-11 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101141/sudarshani-fernandopulle-to-support-sajith-at-presidential-poll) · `en`
 
-SLPP MP Dr. Sudarshani Fernandopulle has decided to support ‘Samagi Jana Balawegaya’ (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+Gampaha District SLPP MP and former minister Dr. Sudarshani Fernandopulle has decided to support ‘Samagi Jana Balawegaya’ (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
 
 ◼️
 
 [Data](articles/bb2e1b3d.json)
 
+[Extended Data](ext_articles/bb2e1b3d.ext.json)
+
 ---
 
-### இறந்த நிலையில் கரையொதிங்கிய நண்டுகள்...
+### The dead crabs ...
 
 *2024-08-11 09:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/இறந்த-நிலையில்-கரையொதிங்கிய-நண்டுகள்/75-341940) · `ta`
 
-திருகோணமலை நகரில் உள்ள கடற்கரையில் சனிக்கிழமை (10) அதிகாலை முதல் ஆயிரக்கணக்கான சிறு சிவப்பு நிறத்திலான நண்டுகள் இறந்த நிலையில் கரையொதுங்கி உள்ளன.
+Thousands of red crabs died over the weekend on Trincomalee's beaches, spanning three to four kilometers.
 
-மேலும், கடற்கரையில் மூன்று தொடக்கம் 4 கிலோ மீட்டர் தூரம் வரை நண்டுகள் இறந்த நிலையில் கரை ஒதுங்கி உள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Thousands of red crabs have died since Saturday morning (10) on the beach in Trincomalee.
+
+In addition, the crabs are dead on the beach for three to 4 kilometers.
 
 ◼️
 
 [Data](articles/c0521b20.json)
+
+[Extended Data](ext_articles/c0521b20.ext.json)
 
 ---
 
@@ -76,21 +84,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/731887ae.json)
 
+[Extended Data](ext_articles/731887ae.ext.json)
+
 ---
 
-### காசாவில் பாடசாலை மீது  தாக்குதல்: 100-க்கும் மேற்பட்டோர் பலி
+### Attack on school in Gaza: More than 100 killed
 
 *2024-08-11 09:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-100-க்கும்-மேற்பட்டோர்-பலி/50-341939) · `ta`
 
-காசாவில் அகதிகள் புகலிடத்தின் மீது இஸ்ரேல் தாக்குதல் நடத்தியதில் 100-க்கும் மேற்பட்ட மக்கள் பலியானதாக பாலஸ்தீன செய்தி ஊடகக் குறிப்பு தெரிவிக்கின்றது.
+In Gaza, over 100 deaths occurred due to Israeli attacks on refugee shelters, including a school used as an asylum. This follows previous assaults on four schools, two of which served as refugee shelters, resulting in numerous casualties. Israel justified these actions, claiming Hamas used these sites as command centers. The conflict, which began over a year ago, has resulted in significant loss of life, with the UN calling for an immediate ceasefire.
 
-கிழக்கு காசாவில் பாடசாலை ஒன்று அகதிகள் புகலிடமாக பயன்பட்டு வந்தது. இந்நிலையில் அங்கு மக்கள் தொழுகை நடத்திக் கொண்டிருந்தபோது தாக்குதல் நடத்தப்பட்டதாக ஹமாஸின் ஊடகப் பிரிவு தெரிவித்துள்ளது. ஹமாஸ் மருத்துவப் பிரிவு அறிக்கையில், “அகதிகளாக தங்கியிருந்த மக்கள் தொழுகையில் ஈடுபட்டிருந்தபோது இஸ்ரேல் நடத்திய தாக்குதலில் பலரும் உயிரிழந்தனர்” என்று குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-முன்னதாக கடந்த வாரம் காசாவில் 4 பாடசாலைகளை குறிவைத்து இஸ்ரேல் தாக்குதல் நடத்தியது. ஆகஸ்ட் 4 ஆம் திகதி இஸ்ரேலிய தாக்குதலில் அகதிகள் புகலிடமாக செயல்பட்ட 2 பள்ளிகள் தகர்க்கப்பட்டன. இதில் 30 பேர் பலியாகினர். பலர் காயமடைந்தனர். அதற்கு முந்தைய தினம் காசா நகரின் ஹமாமா பள்ளியில் நடந்த தாக்குதலில் 17 பேர் கொல்லப்பட்டனர்.
+More than 100 people have been killed in Israeli attacks on refugee asylum in Gaza, according to Palestinian media reports.
+
+A school was used as refugee asylum in East Gaza. Hamas's media unit said that the attack was carried out while people were praying there.. In the Hamas Medical Division report, "Israel's attack was killed when people who were staying as refugees were killed."
+
+Earlier last week, Israel attacked 4 schools in Gaza. Two schools that operated as a refugee asylum in the Israeli attack on August 4. Of these, 30 were killed. Many people were injured. Earlier in the day, 17 people were killed in an attack on the Hamama school in Gaza.
+
+15 people were killed in Israel's attack on August 1 at Dalal Al Mukrabi School. Today, Israel has again launched an attack on the school where refugees have taken refuge.
 
 ...
 
 [Data](articles/176ad943.json)
+
+[Extended Data](ext_articles/176ad943.ext.json)
 
 ---
 
@@ -833,6 +851,18 @@ Meanwhile, Indian media reports that former Prime Minister Sheikh Hasena had pre
 [Data](articles/4683c4e4.json)
 
 [Extended Data](ext_articles/4683c4e4.ext.json)
+
+---
+
+### අනුරගේ ප්‍රතිපත්ති ප්‍රකාශය 26 වැනිදා
+
+*2024-08-10 19:56:13* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-ප්‍රතිපත්ති-ප්‍රකාශය-26-වැනිදා/11-411295) · `si`
+
+ජාතික ජන බලවේගයේ ප්‍රතිපත්ති ප්‍රකාශය ලබන 26 වැනිදා එළිදක්වන බව එහි නායක, ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/9b07aae4.json)
 
 ---
 
@@ -2265,25 +2295,5 @@ MP Asankara Navaratne said this at this time (10th).
 [Data](articles/57c35161.json)
 
 [Extended Data](ext_articles/57c35161.ext.json)
-
----
-
-### Israeli airstrike on school in Gaza City kills over 60 people, Palestinian health officials say
-
-*2024-08-10 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101128/israeli-airstrike-on-school-in-gaza-city-kills-over-60-people-palestinian-health-officials-say) · `en`
-
-An Israeli airstrike hit a school-turned-shelter in Gaza City early Saturday, killing more than 60 people, Palestinian health authorities said, in one of the deadliest strikes in the 10-month-old war between Israel and Hamas.
-
-The Israeli military acknowledged the strike, claiming without evidence that it hit a Hamas command center within the school.
-
-The strike on the Tabeen school in central Gaza City also wounded 47 people, the Health Ministry’s Ambulance and Emergency service said. The facility, like almost all of Gaza Strip’s schools, has been used as a shelter for people who have been forced to flee their homes by the war.
-
-According to the United Nations, 477 out of 564 schools in Gaza have been directly hit or damaged in the war as of July 6. In June, an Israeli strike on a school sheltering displaced Palestinians in central Gaza killed at least 33 people, including 12 women and children, according to local health officials.
-
-...
-
-[Data](articles/3ba3d0dd.json)
-
-[Extended Data](ext_articles/3ba3d0dd.ext.json)
 
 ---

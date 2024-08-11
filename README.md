@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 06:41:49**
+As of **2024-08-11 07:22:08**
 
 ## Newspaper Stats
 
-*Scraped **40,049** Articles*
+*Scraped **40,050** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 344
+dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 374
 colombotelegraphcom | 377
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,035 (100.0%) of 40,049 articles have been extended.
+40,042 (100.0%) of 40,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ’புதிய அரசியல் கட்சி விரைவில் அறிவிப்பு’
+### New political party announces soon
 
 *2024-08-11 02:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கட்சி-விரைவில்-அறிவிப்பு/175-341935) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க ஒன்றிணைந்துள்ள பொதுஜன பெரமுன அணி அடுத்த வாரத்திற்குள் புதிய கட்சியொன்றை ஆரம்பிக்கவுள்ளதாக பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்துள்ளார்.
+Mahindananda Aluthgamage announced a new political party, set to launch within a week, aimed at supporting President Ranil Wickremesinghe in the upcoming election. This revelation came during a special meeting of the former Local Government Council forum.
 
-முன்னாள் உள்ளுராட்சி மன்ற தலைவர்கள் மன்றத்தின் விசேட கூட்டத்தில் கலந்துக் கொண்ட போதே அவர் இதனைத் தெரிவித்துள்ளார். (a)
+🟩
+
+Parliamentarian Mahindananda Aluthgamage has said that the PA, which is united to support President Ranil Wickremesinghe in the upcoming presidential election, will start a new party within next week.
+
+He said this while attending a special meeting of the former Local Government Council Council forum. (A)
 
 ◼️
 
 [Data](articles/5e8aea88.json)
+
+[Extended Data](ext_articles/5e8aea88.ext.json)
 
 ---
 
@@ -76,6 +82,8 @@ Lavanya Travels Pvt. Ltd. has won the Best Outbound Tour Organiser at the presti
 
 [Data](articles/26625d22.json)
 
+[Extended Data](ext_articles/26625d22.ext.json)
+
 ---
 
 ### HNB Assurance Finalist at Mob-Ex and The Drum Awards
@@ -90,6 +98,8 @@ The “Sinha Rave” campaign, shortlisted for the Mob-Ex Awards, was an outcome
 
 [Data](articles/b5d37874.json)
 
+[Extended Data](ext_articles/b5d37874.ext.json)
+
 ---
 
 ### US strengthens partnership with Lanka through additional $24.5 Mn development agreement
@@ -101,6 +111,8 @@ The US Embassy in Colombo Friday announced an additional commitment of US $24.5 
 ...
 
 [Data](articles/ef99aa1f.json)
+
+[Extended Data](ext_articles/ef99aa1f.ext.json)
 
 ---
 
@@ -139,6 +151,8 @@ The challenges are multifaceted and impact every aspect of bus travel. Boarding 
 ...
 
 [Data](articles/d4839ecc.json)
+
+[Extended Data](ext_articles/d4839ecc.ext.json)
 
 ---
 
@@ -183,6 +197,8 @@ This accolade underscores Amana Takaful’s groundbreaking insurance app, launch
 ...
 
 [Data](articles/ae80ec08.json)
+
+[Extended Data](ext_articles/ae80ec08.ext.json)
 
 ---
 
@@ -378,6 +394,20 @@ Speaking at the meeting, the Mawbathi Janatha Entrepreneral Diliva Jayaweera sai
 
 ---
 
+### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
+
+*2024-08-10 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
+
+From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
+
+This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
+
+...
+
+[Data](articles/63e11237.json)
+
+---
+
 ### UNICEF Sri Lanka, AG’s Dept focus on child-friendly justice
 
 *2024-08-10 20:45:00* · [`economynextcom`](https://economynext.com/unicef-sri-lanka-ags-dept-focus-on-child-friendly-justice-176307/) · `en`
@@ -557,6 +587,8 @@ In my fifty-plus years of association with aviation, the best aeroplane I ever f
 ...
 
 [Data](articles/22ca8eca.json)
+
+[Extended Data](ext_articles/22ca8eca.ext.json)
 
 ---
 
@@ -2211,27 +2243,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/7d0115b3.json)
 
 [Extended Data](ext_articles/7d0115b3.ext.json)
-
----
-
-### 61 killed in Brazil plane crash
-
-*2024-08-10 08:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரேசில்-விமான-விபத்தில்-61-பேர்-பலி/50-341899) · `ta`
-
-A plane crash in Sawo Pavlo, Brazil, killed 61 passengers. The flight from Parana to Chao Pavlo ended tragically. Brazilian President Lula Da Silva offered condolences to the families of the victims.
-
-🟩
-
-A plane crashed in the state of Sawo Pavlo, Brazil, and 61 people were killed.
-
-The crash was a plane that was traveling from Kaskewel in Brazil's southern state of Parana to Chao Pavlo.
-
-Brazilian President Louis Inasio Lula Da Silva expressed his condolences to the victims of the accident.. (A)
-
-◼️
-
-[Data](articles/460c85f5.json)
-
-[Extended Data](ext_articles/460c85f5.ext.json)
 
 ---

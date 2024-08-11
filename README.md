@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 09:07:02**
+As of **2024-08-11 09:21:27**
 
 ## Newspaper Stats
 
-*Scraped **40,061** Articles*
+*Scraped **40,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,659
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,061
 virakesarilk | 6,347
-adaderanasinhalalk | 6,807
+adaderanasinhalalk | 6,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,060 (100.0%) of 40,061 articles have been extended.
+40,061 (100.0%) of 40,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ලොවම සලිත කළ ඊශ්‍රායල ප්‍රහාරය
+
+*2024-08-11 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199804) · `si`
+
+උන්හිටිතැන් අහිමිවූ පලස්තීනුවන් රැඳී සිටි ගාසා නගරයේ පිහිටි පාසල් ගොඩනැගිල්ලකට ඊශ්‍රායල ගුවන් ප්‍රහාරයක් එල්ලකර තිබේ.
+
+ඉන් 70කට අධික පිරිසක් මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+තුවාලකරුවන් ව ප්‍රතිකාර සඳහා ඇතුළු කළ රෝහලේ ප්‍රධානියා පැවසුවේ මියගිය සහ තුවාල ලැබූ බොහෝ දෙනෙක් හඳුනාගෙන ඇති බවත් සිරිරුවලට දැඩි ලෙස හානිවී ඇති පුද්ගලයින්ව හඳුනාගැනීම අපහසුවී ඇති බවයි.
+
+ප්‍රහාරය සම්බන්ධයෙන් ඊශ්‍රායල ප්‍රකාශකයෙක් හෙළිකර ඇත්තේ එම පාසල් ගොඩනැගිල්ල හමාස් සහ ඉස්ලාමික් ජිහාඩ් හමුදා කටයුතු සඳහා යොදාගෙන ඇති බවයි.
+
+මෙම ප්‍රහාරය සම්බන්ධයෙන් ඊශ්‍රායලය ට සිය විරෝධය දැක්වීමට අසල්වැසි රටවල් සහ යුරෝපීය රටවල් ක්‍රියාකර තිබුණි.
+
+◼️
+
+[Data](articles/d5e67a1b.json)
+
+---
 
 ### Human rights examination is an investigation into police assault
 
@@ -196,21 +216,27 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ’தற்போது நானே தொழில் அமைச்சர்’
+### I am currently the Minister of Labor
 
 *2024-08-11 02:47:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போது-நானே-தொழில்-அமைச்சர்/175-341938) · `ta`
 
-தொழில் அமைச்சர் மனுஷ நாணயக்கார தொழிலாளர் சம்பள விவகாரத்தை  கையாண்டார்.  கம்பனிகள்  நீதிமன்றம் சென்றன. ஆனால் இப்போது அவர் அப்பதவியில் இல்லை எனவும் நானே தொழில் அமைச்சராக பொறுப்பேற்றுள்ளேன் ஆகவே தொழிலாளர் வேதன விவகாரத்தை நானே  கையாளப்போகின்றேன் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Manusha Nanayakkara, the new Labor Minister, addresses labor pay issues, stating she'll introduce a bill to enforce salary payments if companies fail to comply. This move aims to prevent companies from seeking legal recourse post-payment enforcement, ensuring workers' rights are protected.
 
-நாம் முன்வைக்கும் சம்பளத்தொகையை கம்பனிகள் வழங்க முன்வராவிட்டால் அதற்கான புதிய சட்டமூலத்தை என்னால் கொண்டு வர முடியும்.
+🟩
 
-அதாவது சம்பள நிர்ணய சபையின்  தீர்மானங்களை கம்பனிகள் நடைமுறைப்படுத்தாவிட்டால் அத்தொகையை செலுத்த வேண்டும் என நான் ஒரு சட்டத்தை கொண்டு வருவேன். அதன்பிறகு  கம்பனிகளால் நீதிமன்றத்தை நாட முடியாது.
+Labor Minister Manusha Nanayakkara handled the labor pay issue.Companies went to court. President Ranil Wickremesinghe said that he is not in that position now and that I am going to be the Minister of Labor and that I am going to deal with the labor affair.
 
-குறைந்த வேதனத் திருத்தச்சட்டத்தை நான் பாராளுமன்றத்துக்கு கொண்டு வந்து நிறைவேற்றுவேன். ஆகவே அதோடு அந்தப் பிரச்சினைக்கு முற்றுப்புள்ளி வைக்கப்படும் என்றார்.  (a)
+If the companies do not come forward to pay the salary we put forward, I can bring the new Bill.
+
+This means that if companies do not implement the resolutions of the Salary Council, I will bring a law to pay the amount. The companies cannot seek court after that.
+
+I will bring the Low Amendment to Parliament and pass. So the problem will be put to an end.(a)
 
 ◼️
 
 [Data](articles/40bbeb74.json)
+
+[Extended Data](ext_articles/40bbeb74.ext.json)
 
 ---
 
@@ -2265,33 +2291,5 @@ Senior Information Safety Engineer Saruka Tamunagala said that the complaint has
 [Data](articles/535f36d6.json)
 
 [Extended Data](ext_articles/535f36d6.ext.json)
-
----
-
-### Earthquake at 5.3 Rich in Japan following a warning
-
-*2024-08-10 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190718) · `ta`
-
-A 5.3 magnitude earthquake struck near Tokyo, Japan, one day after a significant warning about seismic activity in the west. The quake was centered 10 km south of the capital in the Kanagawa province. No tsunami warning was issued despite the strong tremor, which followed two major quakes in the southwest region.
-
-🟩
-
-A 5.3 Ricker earthquake was recorded on Friday (10) in the East and Tokyo in Japan.
-
-The earthquake has been recorded one day after a massive earthquake warning in the western part of Japan.
-
-The Japanese Department of Meteorology said that the earthquake was 10 km (6.2 miles) in the Kanakawa province south of the capital.
-
-The tsunami warning has not been issued after the government issued a strong earthquake warning to residents of Tokyo and Kanakawa, Saidama, Yamanashi and Shiswoka provinces.
-
-Meanwhile, a massive earthquake occurred twice in the Qushu area in the southwest of Japan last Thursday.
-
-The earthquake was originally 6.9 Ricker and then 7.1 -sized earthquakes.
-
-◼️
-
-[Data](articles/443e4aab.json)
-
-[Extended Data](ext_articles/443e4aab.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 19:55:23**
+As of **2024-08-11 20:07:47**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,831
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,136 (100.0%) of 40,138 articles have been extended.
+40,138 (100.0%) of 40,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### විදේශීය මැතිවරණ නිරීක්ෂකයින්ට අවසරය
+### Authorization for Foreign Election Monitors
 
 *2024-08-11 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199828) · `si`
 
-ජනාධිපතිවරණ ඡන්ද විමසිමේ කටයුතු නිරීක්ෂණය කිරිම සඳහා විදේශීය නිරීක්ෂකයින්ට මැතිවරණ කොමිෂන් සභාවේ අවසරය ලබාදි තිබේ.
+Foreign election monitors from the EU and Commonwealth will observe the upcoming presidential campaign. The Elections Commissioner assures funds for the election are adequate despite potential candidate increases.
 
-යුරෝපා සංගමයේ සහ පොදුරාජ්‍ය මණ්ඩල නිරීක්ෂකයින් ඒ සඳහා අවසරය ලබාදුන් බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා සඳහන් කළේය.
+🟩
 
-ඒ අනුව යුරෝපා සංගමයේ සහ පොදුරාජ්‍ය මණ්ඩලයේ මැතිවරණ නිරීක්ෂණ කණ්ඩායම් ඉදිරි දිනවල දි දිවයිනට පැමිණීමට නියමිත බව වාර්තා වේ.
+Foreign observants have given foreign observers to monitor the presidential election campaign.
 
-මේ අතර ඉදිරි ජනාධිපතිවරණය සඳහා වෙන්කර ඇති මුදල් ප්‍රමාණවත් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Elections Commissioner Chairman R.. M. A. L. Mr. Ratnayake said.
 
-රාජ්‍ය අමාත්‍යවරයා පෙන්වාදෙන්නේ අපේක්ෂකයින් වැඩි වුවද එය ජනාධිපතිවරණයට ගැටලුවක් නොවන බවයි.
+Accordingly, the EU and Commonwealth electoral election monitoring are to arrive in the island to come to the island.
+
+Meanwhile, State Minister Ranjith Siyambalapitiya says that the money allocated for the next presidential election is sufficient.
+
+The State Minister pointed out that even though candidates increase, it is not a problem for the presidential election.
 
 ◼️
 
 [Data](articles/2efe14e8.json)
+
+[Extended Data](ext_articles/2efe14e8.ext.json)
 
 ---
 
@@ -228,17 +234,23 @@ He communicated this while addressing a function held at the Sri Lanka Foundatio
 
 ---
 
-### ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ දෙවන කුඹල් පෙරහැර අද
+### Historical Perahera Perahera of the historical Perahera today
 
 *2024-08-11 17:31:17* · [`adalk`](https://www.ada.lk/breaking_news/ඓතිහාසික-ඇසළ-පෙරහැර-මංගල්‍යයේ-දෙවන-කුඹල්-පෙරහැර-අද/11-411309) · `si`
 
-කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහැර මංගල්‍යයේ දෙවන කුඹල් පෙරහැර අද (11දා) වීදි සංචාරය කිරීමට නියමිතව ඇත.
+Today marks the second pottery Perahera of the Mount Kandy festival, visiting local streets. The Southern 25-night festival concludes its Changha ceremony at the Sri Dalada Maligawa, lasting 27 minutes.
 
-රාත්‍රී 07 පසුවී මිනිත්තු 27ට දකුණු දිශාභිමුඛව නාථ, විෂ්ණු, කතරගම හා පත්තිනි දේවාල පෙරහැර සමඟින් ශ්‍රී දළදා මාලිගාවේ පෙරහැරද වීදි සංචාරය කිරීමට නියමිතයි.
+🟩
+
+The second pottery Perahera of the Mount Kandy Perahera is scheduled to visit the streets today (11).
+
+Southern 25-night Southern Region is due to Changha at the Sri Dalada Maligarahera, with 27 minutes.
 
 ◼️
 
 [Data](articles/e04cbf8a.json)
+
+[Extended Data](ext_articles/e04cbf8a.ext.json)
 
 ---
 

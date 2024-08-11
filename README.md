@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 22:20:58**
+As of **2024-08-11 22:36:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,150 (100.0%) of 40,151 articles have been extended.
+40,151 (100.0%) of 40,151 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -434,19 +434,25 @@ The 1971 freedom struggle offered to provide 30 per cent reservation for the fam
 
 ---
 
-### ජනාධිපතිවරණයට රණසිංහ කෙනෙකුත් ඉදිරිපත් වෙයි
+### Ranasinghe also offers presidential election
 
 *2024-08-11 17:44:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රණසිංහ-කෙනෙකුත්-ඉදිරිපත්-වෙයි/11-411310) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට තමා ඉදිරිපත් වන බව හිටපු අමාත්‍ය රොෂාන් රණසිංහ මහතා පැවසීය.
+Former Minister Roshan Ranasinghe announced his candidacy for the upcoming presidential election, emphasizing unity and national development.
 
-කොළඹ පදනම් ආයතනයේ අද(11දා) පැවති උත්සවයකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-2024 ජනාධිපතිවරණයට මා ඉදිරිපත් වන බව මම මේ වෙලාවේදී සිහිපත් කරනවා. අපි මේ රට හදමු. මටත් ඔබටත් පළමුවත්, දෙවනුවත්, තෙවනුවත් විය යුත්තේ අපේ රට. ඒ නිසා හදවතිම රට කියලා මම ​මේ අවස්ථාවේ සිහිපත් කරනවා.
+Former Minister Roshan Ranasinghe said he would contest for the next presidential election.
+
+He was speaking at a function held at the Colombo Foundation Institute today (11).
+
+2024 I remember this time that I am on the presidential election. Let's build this country. The first, second, third, three should be our country. Therefore, I remember the heart is the country.
 
 ◼️
 
 [Data](articles/9d8db044.json)
+
+[Extended Data](ext_articles/9d8db044.ext.json)
 
 ---
 

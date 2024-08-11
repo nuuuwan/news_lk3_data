@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 14:36:25**
+As of **2024-08-11 14:55:09**
 
 ## Newspaper Stats
 
-*Scraped **40,107** Articles*
+*Scraped **40,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 377
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,679
+adalk | 3,680
 adaderanalk | 4,668
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,069
 virakesarilk | 6,356
-adaderanasinhalalk | 6,819
+adaderanasinhalalk | 6,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,102 (100.0%) of 40,107 articles have been extended.
+40,107 (100.0%) of 40,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### වාහන ආනයනය ගැන ජනපති දුන් ඉඟිය
+
+*2024-08-11 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199817) · `si`
+
+බදු සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු, ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සාකච්ඡා කිරීමෙන් අනතුරුව විසඳා ගැනීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මහනුවර පැවති රැස්වීමකදී ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟ වන කරුණු මෙන්ම, එකඟ නොවන කරුණුද පවතින බවයි.
+
+මහනුවර දිස්ත්‍රික් වෙළෙඳ සංගම් නියෝජිතයින් සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර සාකච්ඡාවක් ඊයේ පැවැත්වුණි.
+
+මහනුවර එක්සත් වෙළෙඳ පෙරමුණ විසින් සංවිධාන කෙරුණු එම හමුවට එම ප්‍රදේශයේ සිංහල, දෙමළ, මුස්ලිම් ව්‍යාපාරික සංගම්වල නියෝජිතයින් රැසක් සහභාගී විය.
+
+...
+
+[Data](articles/8911798c.json)
+
+---
 
 ### Key suspect in Sri Lankan human trafficking case arrested in Tamil Nadu
 
@@ -46,43 +64,57 @@ The probe uncovered that a Sri Lankan national named Eesan, believed to be the k
 
 [Data](articles/9ae382be.json)
 
+[Extended Data](ext_articles/9ae382be.ext.json)
+
 ---
 
-### கொழும்பு துறைமுகத்தில் தீ விபத்து - சரக்கு கப்பல் சேதம்
+### Fire at Colombo Port - Freight Ship Damage
 
 *2024-08-11 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/190809) · `ta`
 
-கொழும்பு துறைமுகத்தில் நங்கூரமிடப்பட்டிருந்த சரக்கு கப்பலில் இன்று ஞாயிற்றுக்கிழமை (11) அதிகாலை தீ பரவல் மற்றும் வெடிப்பு ஏற்பட்டுள்ளதாக இலங்கை துறைமுக அதிகார சபையின் சிரேஸ்ட அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+A fire and explosion damaged a historic ship at Colombo Port early Sunday, causing significant harm to cargo and vessel. The blaze was contained by port staff, but the extent of damage remains unknown.
 
-துறைமுக தீயணைப்புப் பிரிவு உட்பட துறைமுக ஊழியர்கள் தீயை அணைத்துள்ளதாக அவர் மேலும் தெரிவித்துள்ளார்.
+🟩
 
-மேலும், தீயினால் கப்பலுக்கு ஏற்பட்ட சேதம் தொடர்பில் மதிப்பிடப்படவில்லை எனவும், தீ விபத்தினால் பொருட்கள் மற்றும் கப்பலுக்கு அதிக சேதம் ஏற்பட்டுள்ளதாகவும் மேலும் அந்த அதிகாரி தெரிவித்துள்ளார்.
+A senior official of the Sri Lanka Ports Authority said that a fire and explosion occurred in the early hours of Sunday (11) at an ancient ship that was anchored at the Port of Colombo.
+
+He added that the port employees, including the Port Fire Division, have extinguished the fire.
+
+The official said that the fire was not estimated to the damage caused by the fire and caused heavy damage to the goods and the ship.
 
 ◼️
 
 [Data](articles/194e2a0f.json)
 
+[Extended Data](ext_articles/194e2a0f.ext.json)
+
 ---
 
-### පස් දෙනෙක් රෝහල ට යැවූ වෑන් - කාර් අනතුර
+### All five people sent to hospital - car accident
 
 *2024-08-11 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199815) · `si`
 
-මෝටර් රථයක් හා වෑන් රථයක් මාරවිල දී එකිනෙක ගැටී සිදුවූ අනතුරකින් කුඩා දරුවෙක් සහ කාන්තාවක් ඇතුළු පස් දෙනෙකු තුවාල ලබා තිබේ.
+In a car accident near Marawila, five people from a group returning from church were hospitalized. The crash involved a car and two vans; it happened early morning on the road to Marawila Sri Kurrya Power due to loss of control by one of the drivers. The driver of the car, who was also employed, has been arrested for investigation.
 
-අද (11) අලුයම 2.45ට පමණ එම අනතුර සිදුව තිබුණේ මාරවිල ශ්‍රී කුරුස දේවස්ථානයට ගමන් ගන්නා මාර්ගයේදීය.
+🟩
 
-අතුරු මාර්ගයක සිට ඉතා වේගයෙන් පැමිණ මෝටර් රථය වේගය පාලනය කරගත නොහැකිව වෑන් රථයේ ගැටී එම අනතුර සිදුව ඇති බව වාර්තා වෙයි.
+A car and a van and a van were injured in an accident in Marawila.
 
-අනතුරින් හලාවත, පම්බල ප්‍රදේශයේ පදිංචි එකම පවුලේ ඥාතීන් පිරිසක් තුවාල ලබා තිබුණි.
+The accident occurred at around 2.45 am today (11) at the road to the Marawila Sri Kurrya Power.
 
-ඔවුන් මඩු දේවස්ථානයට පිටත්ව යාමට පෙර මාරවිල ශ්‍රී කුරුස දේවස්ථානයට පැමිණ අවස්ථාවේදී එම අනතුරට මුහුණ දී තිබේ.
+It is reported that the accident had occurred in the van and the vehicle could not control the car from a side road.
 
-අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ රියදුරු අධික ලෙස බීමතින් සිට ඇති බව සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇති අතර අනතුර සම්බන්ධයෙන් මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
+A group of families in the Pambala area were injured in the accident.
+
+When they were leaving the Madhu church, they were in the accident when they arrived at the Marawila Sri Kurr Sabha.
+
+Investigations have revealed that the car driver had been deployed at the time of the accident and has been arrested in connection with the accident.
 
 ◼️
 
 [Data](articles/a96da7a0.json)
+
+[Extended Data](ext_articles/a96da7a0.ext.json)
 
 ---
 
@@ -142,19 +174,43 @@ Several suspects involved in the racket have been arrested and the main suspect,
 
 ---
 
-### நாய்களை வன்புணர்ந்து கொன்ற முதலை நிபுணர்
+### වර්ජන රැල්ල නැවතත් ? - ග්‍රාමනිලධාරීන් දැඩි තීරණයක
+
+*2024-08-11 13:43:35* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජන-රැල්ල-නැවතත්-----ග්‍රාමනිලධාරීන්-දැඩි-තීරණයක/11-411302) · `si`
+
+ග්‍රාම නිලධාරීන් හෙට(12දා) සිට විරෝධතා සතියක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+එමෙන්ම ඊට සමගාමීව හෙට සහ අනිද්දා(13දා) යන දෙදින තුළ සේවයෙන් ඉවත්වීමටද තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/25df383a.json)
+
+---
+
+### Crocodile expert who raped dogs
 
 *2024-08-11 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாய்களை-வன்புணர்ந்து-கொன்ற-முதலை-நிபுணர்/50-341959) · `ta`
 
-பல நாய்களுக்கு பாலியல் தொந்தரவு கொடுத்ததாக ஒப்புக்கொண்டதைத் தொடர்ந்து, பிரிட்டனின் புகழ்பெற்ற முதலை நிபுணருக்கு மொத்தம் 10 ஆண்டுகள், 5 மாதங்கள் சிறை தண்டனை விதிக்கப்பட்ட செய்தி  ஆஸ்திரேலியாவில்ஒட்டுமொத்த நாட்டையே திடுக்கிடச் செய்துள்ளது.
+A renowned British zoologist, Adam Britain, has been sentenced to 10 years and 5 months in Australian prison for committing 56 acts of sexual assault and animal rape, including four counts of sexual harassment against children. The 53-year-old's actions, which included filming and sharing explicit content, came to light after a video was discovered on his laptop during a search of his rural property in Darwin. Despite the severity of his crimes, some details remain undisclosed due to their graphic nature. Public reaction has been widespread, with many expressing disgust and sorrow over the revelations.
 
-முன்னணி விலங்கியல் நிபுணரான ஆடம் பிரிட்டன், விலங்குகளுடன் உடலுறவு கொள்ளுதல் மற்றும் விலங்கு வன்கொடுமை தொடர்பான 56 குற்றங்களைச் செய்ததாக ஒப்புக்கொண்டிருக்கிறார்.
+🟩
 
-சிறார் மீதான பாலியல் துன்புறுத்தல் பதிவுகளைப் பயன்படுத்தியதற்கான நான்கு குற்றச்சாட்டுகளையும் அவர் ஒப்புக்கொண்டார்.
+The news that Britain's famous crocodile expert has been sentenced to 10 years and 5 months in prison for a total of 10 years and 5 months in Australia, after agreed to sexually harass many dogs.
+
+Britain, a leading zoologist, has admitted that he committed 56 crimes of sexual intercourse and animal rape.
+
+He also admitted four allegations of using sexual harassment records against the child.
+
+The 53 -year -old Supreme Court for Australia has investigated the case that the 53 -year -old Adam was tortured until Britain died and shared them online in pseudonym.. These sexual harassment has been overlooked for many years until he gets clues from a video of his. He was arrested in April 2022 after he was searched by his Darwin Property in the countryside. There were video recordings of sexual harassment against the child on his laptop.
+
+Most of the details of Adam Britain's crimes were so cruel that could not be published, so Chief Justice Michael Grand issued a precaution for those in the court.
 
 ...
 
 [Data](articles/b49671cf.json)
+
+[Extended Data](ext_articles/b49671cf.ext.json)
 
 ---
 
@@ -178,21 +234,29 @@ Accordingly, he has made it clear that the Inland Revenue Department does not ta
 
 ---
 
-### ஆசிரியையின் பணப்பையை திருடி ஏ.டி.எம்  அட்டையை பயன்படுத்தி பணம் கையாடல் :  சிவில் பாதுகாப்பு உத்தியோகத்தர் கைது
+### Civil Security Officer arrested for stealing teacher wallets
 
 *2024-08-11 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190792) · `ta`
 
-ஆசிரியை ஒருவரின் பணப்பையை திருடி பணப்பையில் இருந்த ஏ.டி.எம். அட்டையை பயன்படுத்தி வங்கிக்கணக்கிலிருந்து 20 ஆயிரம் ரூபாய் பணத்தை எடுத்த சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் சிவில் பாதுகாப்பு படையை சேர்ந்த உத்தியோகத்தர் ஒருவர் கைது செய்யப்பட்டதாக கிராதுருகோட்டை பொலிஸார் தெரிவித்தனர்.
+A Civil Security Officer was arrested for allegedly stealing over 20,000 rupees from a bank using a stolen ATM card. The incident involved a teacher whose wallet was taken while riding a motorcycle. Surveillance footage led to the arrest of the suspect, who was later presented before the Mahiyanganaya Magistrate's Court.
 
-மஹாஓயா சிவில் பாதுகாப்பு படை முகாமில் பணிபுரியும் 41 வயதுடையவரே கைது செய்யப்பட்டுள்ளார். இவர் புதிய மெதகம, தியவிட்டகம பகுதியை சேர்ந்தவர் ஆவார்.
+🟩
 
-கடந்த ஜூன் மாதம் 01ஆம் திகதி ஹோபரிய பகுதியில் வசிக்கும் ஆசிரியர் ஒருவரின் ஸ்கூட்டி ரக மோட்டார் சைக்கிளில் இருந்த பணப்பை திருடப்பட்டுள்ளதாக கிராதுருகோட்டை பொலிஸ் நிலையத்தில் அந்த ஆசிரியர் முறைப்பாடு செய்துள்ளார்.
+ATMs in the wallet stealing one's wallet. Grathurugottai police said that a Civil Security Force officer had been arrested on suspicion of allegedly taking over 20 thousand rupees from the bank using the card.
 
-இந்நிலையில், அப்பகுதியில் உள்ள சிசிடிவி காட்சிகளை ஆய்வு செய்ததன் அடிப்படையில் சந்தேக நபர் தெஹியத்தகண்டிய நகருக்கு மற்றுமொரு நபருடன் சென்று வங்கிக்கணக்கில் பணம் எடுத்துச் செல்லப்பட்டமை உறுதிபடுத்தப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A 41 -year -old man has been arrested at the Mahaoya Civil Defense Camp. He belongs to the New Medagama, Diyavitagama area.
 
-...
+The teacher has lodged a complaint at the Grathurugottai police station that a teacher residing in the Hobary area on June 01 was stolen from a motorcycle on a motorcycle.
+
+According to the police, the suspect was confirmed that the suspect had gone to the city of Tehiyakanda on the basis of the inspection of the CCTV footage in the area.
+
+Subsequently, the police said that the suspect was being produced by the Mahiyanganaya Magistrate's Court.
+
+◼️
 
 [Data](articles/7dd2756e.json)
+
+[Extended Data](ext_articles/7dd2756e.ext.json)
 
 ---
 
@@ -2259,55 +2323,5 @@ The deceased is Selvanayagam Bonifs Sydney Manifs Sydney Maniface, Narahenpita, 
 [Data](articles/4ad3923a.json)
 
 [Extended Data](ext_articles/4ad3923a.ext.json)
-
----
-
-### Who supports the presidential election?- All Ceylon Peoples Congress
-
-*2024-08-10 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190761) · `ta`
-
-The All Ceylon Peoples Congress, led by its deputy chairman Dr. Muthu Mohammed and party leader Rishad Bathiudeen, along with former local government members and supporters, publicly supported the presidential election. This stance was also echoed by The People's Meeting of the Vavuniya People's Members, indicating widespread backing for the election within these communities.
-
-🟩
-
-The People's Meeting of the Vavuniya People's Members
-
-In the meantime, many people have commented on the issue of the All Ceylon Peoples Congress to support the public.
-
-The event was chaired by the party's deputy chairman Dr. Muthu Mohammed and the party leader Rishad Bathiudeen and former local government members and party supporters were among those who attended the event.
-
-◼️
-
-[Data](articles/9dc85e41.json)
-
-[Extended Data](ext_articles/9dc85e41.ext.json)
-
----
-
-### Despatus with despatches from the CPL tournament
-
-*2024-08-10 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199785) · `si`
-
-B.I., a French player, misses CPL due to injuries; Tusarara out due to finger issue, Hasaranga after two ODI losses. Replaced by South Africans Tabraiz and Anrich Shamsi, making their CPL debut despite prior participation.
-
-🟩
-
-B.I. Playing for the mainstream France to League (Cric), which is held in the West Indies Cricket League (CPL) has lost the opportunity to play.
-
-This year's Caribbean Premier League is scheduled to start at the end of this month.
-
-However, both players were disabled at the One Day Twenty20 tournament against India.
-
-Tusarara lost the entire tournament due to a finger disorder, and Hasaranga lost the second and third competition of the ODI series.
-
-Accordingly, a South African athletic, Tabraiz Shamsi and Anriz Shamsi and Anrich is called. The Kitts team administration has decided to be decided.
-
-Although they had already played the Caribbean Premier League, even though he had played the Caribbean Premier League, this would be the first experience.
-
-◼️
-
-[Data](articles/6360c056.json)
-
-[Extended Data](ext_articles/6360c056.ext.json)
 
 ---

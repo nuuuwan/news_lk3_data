@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 11:36:56**
+As of **2024-08-11 11:56:42**
 
 ## Newspaper Stats
 
-*Scraped **40,081** Articles*
+*Scraped **40,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,88 @@ newsfirstlk | 363
 bbccomsinhala | 375
 colombotelegraphcom | 377
 islandlk | 2,317
-economynextcom | 2,424
+economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,675
-adaderanalk | 4,663
+adalk | 3,678
+adaderanalk | 4,664
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,067
 virakesarilk | 6,349
-adaderanasinhalalk | 6,812
+adaderanasinhalalk | 6,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,078 (100.0%) of 40,081 articles have been extended.
+40,081 (100.0%) of 40,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ராஜபக்ஷ குடும்பத்துக்குள் பிளவு
+### Digambaram denies allegations of opposing wage hike for plantation workers
+
+*2024-08-11 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101144/digambaram-denies-allegations-of-opposing-wage-hike-for-plantation-workers) · `en`
+
+Nuwara Eliya District Parliamentarian of Workers’ National Front Palani Digambaram denied accusations that he opposed raising the minimum daily wages of plantation workers.
+
+Speaking at a public meeting in Hatton, Digambaram accused President Ranil Wickremesinghe and Minister Manusha Nanayakkara of misleading estate workers and spreading false propaganda.
+
+The MP’s remarks were in response to a statement made by former Minister Manusha Nanayakkara during a meeting with Kandy District Plantation Labour Unions and Youth Leaders, organized by the Ceylon Workers’ Congress on Saturday (Aug 10).
+
+Nanayakkara had alleged that Digambaram had acted against the interests of estate workers by opposing wage increases.
+
+◼️
+
+[Data](articles/ceedb620.json)
+
+---
+
+### එංගලන්තය ට යෑමට පෙර සනත් ජයසූරිය කළ ඉල්ලීම
+
+*2024-08-11 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199809) · `si`
+
+එංගලන්තයට එරෙහිව පැවැත්වෙන ක්‍රිකට් තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායමේ සියලුම ක්‍රිඩකයින් සිය උපරිමය කරනු ඇතැයි තමා විශ්වාස කරන බව ජාතික කණ්ඩායමේ වැඩබලන පුහුණුකරු සනත් ජයසූරිය පවසයි.
+
+ඔහු ඒ බව කියා සිටියේ, අද (11) උදෑසන ශ්‍රී ලංකා ක්‍රීඩකයින් සමග එංගලන්තය බලායෑමට කටුනායක ගුවන්තොටුපොළ බලා පිටත්වීමට පෙර ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ඉදිරිපිටදී මාධ්‍ය වෙත අදහස් දක්මනි.
+
+මෙහිදී ක්‍රීඩා ප්‍රේක්ෂකයින්ගෙන් ජයසූරිය ඉල්ලා සිටියේ ක්‍රිකට් ක්‍රීඩකයින්ට උපරිම සහාය ලබාදෙන ලෙසට යි.
+
+තාවකාලික පුහුණුකරු ලෙස එංගලන්ත තරගාවලිය තමාගේ අවසාන සංචාරය බවත් එම තරගාවලිය උපරිම හොඳින් අවසන් කිරීම තම බලාපොරොත්තුව බවත් ඔහු සඳහන් කළේය.
+
+"මම ඒ ගැන තාම හිතලා නැහැ. මට දීලා තියෙන්නේ මේ තරගාවලියට විතරයි."
+
+මෙම ටෙස්ට් තරගාවලිය සඳහා 18 ක්‍රීඩකයින් දෙනෙකුගෙන් සමන්විත සංචිතයක් පසුගියදා නම්කළේය.
+
+මේ වන විට ක්‍රීඩකයින් 7 දෙනෙක් පූර්ව පුහුණුවීම් කටයුතු සඳහා එංගලන්තය ගොස් සිටියි.
+
+නායක ධනංජය ද සිල්වා, දිමුත් කරුණාරත්න, ඇන්ජලෝ මැතිව්ස්, කසුන් රාජිත ඇතුළු ක්‍රීඩකයින් 7 දෙනෙක් එසේ එංගලන්තය ට ගොස් සිටින බව වාර්තා විය.
+
+...
+
+[Data](articles/d2946797.json)
+
+---
+
+### Split into the Rajapaksa family
 
 *2024-08-11 11:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-குடும்பத்துக்குள்-பிளவு/175-341954) · `ta`
 
-ஸ்ரீ பொதுஜனபெரமுன, ஜனாதிபதி தேர்தல் தொடர்பில்  எடுத்துள்ள தீர்மானம் காரணமாக ராஜபக்ச குடும்பத்திற்குள் கருத்துவேறுபாடுகள் எழுந்துள்ளதாக அரசியல் வட்டாரங்கள் தெரிவித்துள்ளன.
+The Rajapaksa family is divided over the Sri Lanka People's Alliance (SLPA) decision and presidential election, with many supporting Ranil Wickremesinghe. Notably, former Speaker Chamal Rajapaksa and State Minister Sarath Fonseka back Wickremesinghe. Additionally, Yoshitha Rohitha's marketing firm is handling Wickremesinghe's campaign.
 
-மஹிந்த ராஜபக்ச குடும்பத்தவர்கள் உட்பட ராஜபக்ச குடும்பத்தவர்கள் பலர் ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என்ற நிலைப்பாட்டை கொண்டுள்ளனர். முன்னாள் சபாநாயகர் சமல்ராஜபக்சவும், இராஜாங்க அமைச்சர் சசீந்திர ராஜபக்சவும் விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதுடன் அவருக்கே கட்சி ஆதரவளிக்கவேண்டும் என்ற நிலைப்பாட்டை கொண்டுள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-யோசித ரோகிதவின் சந்தைப்படுத்தல் நிறுவனத்தை சேர்ந்த குழுவிடம் ரணில்விக்கிரமசிங்கவின் பிரச்சாரத்தை முன்னெடுக்கும் பொறுப்பு வழங்கப்பட்டுள்ளதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+Political sources have said that the Rajapaksa family has disagreed due to the decision of the Sri PA and the presidential election.
+
+Many of the Rajapaksa family, including the Mahinda Rajapaksa family, are in the position of supporting Ranilwickramasinghe. Former Speaker Samalrajapaksa and State Minister Sasheendra Rajapaksa have supported Wickremesinghe and have a position that the party should support him.
+
+It is also reported that the team belonging to Yoshitha Rohitha's marketing company has been given the responsibility of carrying out Ranil Wickremesinghe's campaign.
 
 ◼️
 
 [Data](articles/9908b031.json)
+
+[Extended Data](ext_articles/9908b031.ext.json)
 
 ---
 
@@ -65,6 +115,8 @@ Additionally, the Deputy Director of Customs has imposed a fine of Rs. 1.6 milli
 ◼️
 
 [Data](articles/9cec4554.json)
+
+[Extended Data](ext_articles/9cec4554.ext.json)
 
 ---
 
@@ -93,6 +145,22 @@ If some cars are swollen on the front, it will not be able to drive and many car
 [Data](articles/82d378ee.json)
 
 [Extended Data](ext_articles/82d378ee.ext.json)
+
+---
+
+### ත්‍රිරෝද රථය ලොරි රථයක ගැටි  දෙදෙනෙක් ජිවිතක්ෂයට, අයෙක්ට බරපතලයි
+
+*2024-08-11 10:50:14* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථය-ලොරි-රථයක-ගැටි--දෙදෙනෙක්-ජිවිතක්ෂයට--අයෙක්ට-බරපතලයි/11-411299) · `si`
+
+මස්කෙලිය සිට නල්ලතන්නිය මරේ වතුයාය දක්වා ධාවනය වු ත්‍රිරෝද රථයක් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වු බොලෙරෝ ලොරි රථයක ගැටිමෙන් ත්‍රිරෝද රථයේ ගමන් ගත් දෙදෙනෙකු ජිවිතක්ෂයට පත් වි ත්‍රිරෝද රථයේ රියදුරා සහ එහි ගමන් ගත් තවත් එක් අයෙකු බරපතල ලෙස තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුලත් කර ඇති බව මස්කෙලිය පොලිසිය පැවසිය.
+
+මෙම අනතුරෙන් මියගොස් ඇත්තේ ත්‍රිරෝද රථ රියදුරාගේ පියා වන නල්ලතන්නිය මරේ වතුයායේ වලදල කොටසේ පදිංචිව සිටි වේළු සෙල්වනායගම් (66) හැවිරිදි සිව්දරු පියා සහ ත්‍රිරෝද රථ රියදුරාගේ බාප්පා වන වේළු මායවම් (56) හැවිරිදි යන අයයි.
+
+(10) දින පස්වරු 3.30 ට පමණ මස්කෙලිය නල්ලතන්නිය ප්‍රධාන මාර්ගයේ මස්කෙලිය ග්ලැන්ටිල් වතුයාය ප්‍රදේශයේදි මෙම අනතුර සිදු වි ඇත.
+
+...
+
+[Data](articles/78911063.json)
 
 ---
 
@@ -439,6 +507,30 @@ The Chairman of the Commission Nimal Punchihewa said the Chairman of the Commiss
 [Data](articles/2dacfb89.json)
 
 [Extended Data](ext_articles/2dacfb89.ext.json)
+
+---
+
+### Sri Lanka’s DFCC cuts ISB holdings, reverses provisions
+
+*2024-08-11 07:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-cuts-isb-holdings-reverses-provisions-176310/) · `en`
+
+ECONOMYNEXT – DFCC Bank said it has sold a part of its Sri Lanka sovereign bond portfolio booking a loss of 2,171 million rupees, but the transaction also triggered the reversal of 2,453 million rupees of provisions.
+
+DFCC Bank reported sovereign bonds at a value of 4,593 million rupees by end December 2023, down from 5,215 million rupees a year earlier. The rupee value declined 517 million dollars due to currency appreciation during the year.
+
+The bank told shareholders that it had provided a 50 percent impairment provision for the ISBs by end December.
+
+The bank also sold Sri Lanka government securities booking a gain of 2,056 million rupees.
+
+Group interest income for the March 2024 quarter fell 25 percent to 18.5 billion rupees as the bank slashed lending rates, while interest costs fell 33 percent to 11.85 billion rupees.
+
+Net fee and commission income grew 6 percent to 930 million rupees.
+
+DFCC made provisions of 1,107 million rupees for bad loans, down from 3,105 million last year.
+
+...
+
+[Data](articles/845be250.json)
 
 ---
 
@@ -860,6 +952,8 @@ The story of genetics begins with Gregor Mendel, a 19th-century monk who experim
 
 [Data](articles/d2607f16.json)
 
+[Extended Data](ext_articles/d2607f16.ext.json)
+
 ---
 
 ### When Engineering Meets Marxism: Remembering Bahu & Chris Rodrigo
@@ -1065,6 +1159,34 @@ This falsehood was exposed when the date of the presidential poll was gazetted b
 [Data](articles/63e11237.json)
 
 [Extended Data](ext_articles/63e11237.ext.json)
+
+---
+
+### විවිධ නායකයන්ගේ අමනෝඥ තීන්දු නිසා විපතට පත්ව ඇත්තේ රටේ පුරවැසියන්
+
+*2024-08-10 20:55:47* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-නායකයන්ගේ-අමනෝඥ-තීන්දු-නිසා-විපතට-පත්ව-ඇත්තේ-රටේ-පුරවැසියන්/11-411298) · `si`
+
+වර්තමානය වන විට රටේ තරුණයන්, පුරවැසියන් විවිධ නායකයන්ගේ අමනෝඥ තීන්දු තීරණ නිසා විපතට පත්ව ඇති බවත් රැකියා වෙළෙඳපොල , අධ්‍යාපනය ව්‍යවසායකත්වය හා සමාජ ආරක්ෂණය නැති වී ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+හම්බන්තොට ප්‍රදේශයේ ඊයේ(10දා) පැවති ජව රැළියකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2946a6f0.json)
+
+---
+
+### ශ්‍රී ලංකාව නව ආර්ථික යුගයකට ප්‍රවේශ වෙමින් සිටිනවා
+
+*2024-08-10 20:46:59* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-නව-ආර්ථික-යුගයකට-ප්‍රවේශ-වෙමින්-සිටිනවා/11-411297) · `si`
+
+වර්තමානය වන විට ශ්‍රී ලංකාව  නව ආර්ථික යුගයකට ප්‍රවේශ වෙමින් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ව්‍යාපාරවලට බලපා ඇති නීති රෙගුලාසි බොහෝමයක් ලිහිල් කර ව්‍යාපාර සදහා සුදුසු පසුබිම සකසන බව මහනුවර දිස්ත්‍රික් වෙළෙද සංගම් නියෝජිතයන් සමග පැවති හමුවකදී ජනාධිපතිවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/80aa5a00.json)
 
 ---
 
@@ -2159,141 +2281,5 @@ The Presidential Media Unit further stated that special laws will be introduced 
 [Data](articles/28232044.json)
 
 [Extended Data](ext_articles/28232044.ext.json)
-
----
-
-### Namal met Sumanthiran!
-
-*2024-08-10 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190738) · `ta`
-
-Namal Rajapaksa, Sri Lanka's PA presidential candidate, met with TNA MP MA Sumanthiran to discuss issues affecting the North and East if he wins the election.
-
-🟩
-
-Sri Lanka PA's presidential candidate Namal Rajapaksa met with MA Sumanthiran, MP of the Tamil National Alliance (TNA) today (10).
-
-If Namal Rajapaksa wins the presidential election, the problems faced by the people of the North and East have been discussed.
-
-◼️
-
-[Data](articles/62a6dde8.json)
-
-[Extended Data](ext_articles/62a6dde8.ext.json)
-
----
-
-### Theft of several hundred crores worth of Thirukoneswarar Temple
-
-*2024-08-10 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190734) · `ta`
-
-High-value jewelry, including the Thali Portuguese from the Goneswara Temple, was stolen, causing public outcry. Authorities, including the District Secretary and Governor Senthil Thondaman, have intervened, directing immediate recovery efforts and strict action against perpetrators.
-
-🟩
-
-The Thali Portuguese, which came from the Goneswara Temple for several hundred years, has been stolen during the day, as the temple was broken and saved by the Saivites was saved and saved by the Saivites.
-
-Following this, the general public began to voice. The temple administrators sought to calm the matter and try to make peace with the public.
-
-The public has expressed concern that the 5 shaving thali pooled with several hundred crores of gems and Vaituriums was made powerful and that no one could compensate for it.
-
-A woman's neck is just after her husband dies and her body collapses. Similarly, the conspiracy of the thali stolen on Amman's neck and the power of Lord Shiva?If not, for the sale of a multi -crore rupee tali?There has been a bunch of people.
-
-...
-
-[Data](articles/6e1d8b30.json)
-
-[Extended Data](ext_articles/6e1d8b30.ext.json)
-
----
-
-### Bangladesh Chief Justice agrees to quit after protesters issue one-hour ultimatum
-
-*2024-08-10 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/101131/bangladesh-chief-justice-agrees-to-quit-after-protesters-issue-one-hour-ultimatum) · `en`
-
-In a fresh outbreak of stir in Bangladesh, protesters have gathered on the Supreme Court premises and have issued an ultimatum to the Chief Justice Obaidul Hassan and judges of the Appellate Division to resign by 1 pm on Saturday.
-
-Otherwise, the protesters threatened to besiege their residences, Hasnat Abdullah, one of the coordinators of the Anti-Discrimination Student Movement, declared from the SC premises.
-
-Earlier in the morning, Asif Mahmud, the adviser of Youth and Sports Ministry of the Interim government, posted on the Facebook, demanding unconditional resignation of Chief Justice Obaidul Hassan and stop the full court meeting, The Daily Star reported.
-
-The chief justice of Bangladesh’s top court said Saturday he had agreed to resign “in principle” after an ultimatum to do so from protesters, AFP reported quoting broadcaster Jamuna TV.
-
-...
-
-[Data](articles/3380c36b.json)
-
-[Extended Data](ext_articles/3380c36b.ext.json)
-
----
-
-### Abuse in Ambulance Cart;Arrests
-
-*2024-08-10 13:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பியூலன்ஸ்-வண்டிக்குள்-துஷ்பிரயோகம்-இராணுவ-அதிகாரி-கைது/175-341907) · `ta`
-
-In 1990, two soldiers from the Panagoda Army Headquarters were arrested after allegedly attempting to sexually assault a nurse while transporting a patient in an ambulance. A military sergeant also faced charges for threatening hospital staff. Both incidents occurred under the influence of alcohol.
-
-🟩
-
-Horana headquarters police said that when the patient was taken to the hospital in 1990, the army was arrested on suspicion of attempting to sexually abused the nurse who was in the car with the patient.
-
-In addition, a military sergeant has been arrested on charges of threatening the police post officer and hospital staff in the Ambulance.
-
-When he was taken to the 1990s Ambulance, he climbed into the Ambulance with the suspect's military sergeant.
-
-Police said they were trying to rape a nurse in Ambulance.
-
-When a police team went there during the incident, they were arrested when they tried to escape.
-
-Police say the suspect and his brother were drunk
-
-The suspect belongs to the Panagoda Army Headquarters. The suspect is to be produced before the Horana Magistrate's Court. Remble
-
-◼️
-
-[Data](articles/a5113084.json)
-
-[Extended Data](ext_articles/a5113084.ext.json)
-
----
-
-### Ready to introduce special laws to enforce minimum wage for plantation workers - President
-
-*2024-08-10 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101130/ready-to-introduce-special-laws-to-enforce-minimum-wage-for-plantation-workers-president) · `en`
-
-President Ranil Wickremesinghe stated that seven plantation companies have agreed with the government’s decision to provide a daily salary of Rs.1, 700 to plantation workers.
-
-“As the current labour minister, I have planned to convene the Wages Board on Monday to further discuss the matter. If necessary, special laws will be introduced to implement this decision”, he added.
-
-The President also announced that, workers’ welfare funds, which have been neglected for many years, will be paid starting next year.
-
-President Ranil Wickremesinghe made these remarks while attending the Kandy District Plantation Labour Unions and Youth Leaders meeting organized by the Ceylon Workers’ Congress today (10) at the KARALIYA Convention Centre And Center For Performing Arts, Kandy.
-
-The issues faced by the Tamil community in the hill country were directly presented to the President, and he responded positively to their concerns.”
-
-...
-
-[Data](articles/419d71ce.json)
-
-[Extended Data](ext_articles/419d71ce.ext.json)
-
----
-
-### First Kumbal Perahera of Kandy Esala Perahera will visit the street
-
-*2024-08-10 13:03:59* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-ඇසල-පෙරහැරේ-පළමු-කුඹල්-පෙරහැර-අද-වීදී-සංචාරය-කෙරේ/11-411289) · `si`
-
-The first Kumbal Perahera of the Kandy Esala Perahera will parade through the streets tonight, featuring deities like Natha, Vishnu, Pattini, and Kataragama.
-
-🟩
-
-The first Kumbal Perahera of the Kandy Esala Perahera is scheduled to visit Night today.
-
-The Perahera journey journey to the Perahera of the Suwest Parahera of Natha, Vishnu, Pattini and Kataragama.
-
-◼️
-
-[Data](articles/a43c5333.json)
-
-[Extended Data](ext_articles/a43c5333.ext.json)
 
 ---

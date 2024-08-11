@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 01:54:56**
+As of **2024-08-12 02:06:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,173 (100.0%) of 40,174 articles have been extended.
+40,174 (100.0%) of 40,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ’சஜித்தை வீழ்த்துவதே நால்வரின் இலக்காகும்’
+### The goal of the four is to bring down Sajith
 
 *2024-08-12 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-வீழ்த்துவதே-நால்வரின்-இலக்காகும்/175-341991) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் ஒப்பந்தம் செய்துகொண்டே, பீல்ட் மார்ஷல் சரத் பொன்சேகா தேர்தலில் போட்டியிடுகின்றார் என குற்றஞ்சாட்டிய ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார, எமது கட்சியின் தலைவர் சஜித் பிரேமதாஸவை வீழ்த்துவதே நால்வரின் ஒரே இலக்காகும் என்றார்.
+Nalin Bandara accuses a group including Sarath Fonseka of plotting against Sajith Premadasa. President Ranil Wickremesinghe plans to raise plantation worker wages in Kandy. Minister Tran Ales aims to tackle the VFS transaction scam post-Sajith's win. The group's goal is to defeat Sajith, with Sarath Fonseka's election bid part of the strategy.
 
-ஞாயிற்றுக்கிழமை (11) நடைபெற்ற ஐக்கிய மக்கள் சக்தியின்  ஊடக சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே பாராளுமன்ற உறுப்பினர் நளின் பண்டார மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க கண்டியில் வைத்து தோட்டத் தொழிலாளர்களின் சம்பளத்தை அதிகரிக்க நடவடிக்கை எடுப்பேன். நான் தான் தற்போது  தொழில் அமைச்சர் கூறி மீண்டும் தோட்ட மக்களை ஏமாற்றும் நடவடிக்கையில் ஈடுபட்டுள்ளார்.
+United People's Power MP Nalin Bandara, who accused Field Marshal Sarath Fonseka of contesting the election, said the four were to defeat our party leader Sajith Premadasa.
 
-VFS கொடுக்கல் வாங்கல் மோசடியை அமைச்சர் டிரான் அலஸ் சுத்தப்படுத்த முயற்சிக்கிறார்.  செப்டம்பர் 21 சஜித் பிரேமதாசவின் வெற்றியை தொடர்ந்து முதலாவது நாம் இந்த VFS கொடுக்கல் வாங்கல் மோசடி குறித்தே விசாரணை நடத்துவோம் என்றார்.
+Speaking at a media briefing of the United People's Power on Sunday (11), Parliamentarian Nalin Bandara said this.
 
-...
+President Ranil Wickremesinghe will take steps to increase the salaries of plantation workers in Kandy. I am currently acting in the process of deceiving the people of the plantation again.
+
+Minister Tran Ales is trying to clean up the VFS transaction scam.Following the victory of Sajith Premadasa September 21, we will first investigate the VFS transaction fraud.
+
+Ranil Wickremesinghe, Mahinda Rajapaksa, Namal Rajapaksa and Anura Kumara. Their purpose is to defeat Sajith Premadasa. As part of this, Sarath Fonseka is also contesting the presidential election, according to Ranil Wickremesinghe's agreement.
+
+◼️
 
 [Data](articles/69d5bfe4.json)
+
+[Extended Data](ext_articles/69d5bfe4.ext.json)
 
 ---
 

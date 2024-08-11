@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 11:21:08**
+As of **2024-08-11 11:36:56**
 
 ## Newspaper Stats
 
-*Scraped **40,078** Articles*
+*Scraped **40,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 375
 colombotelegraphcom | 377
-islandlk | 2,316
+islandlk | 2,317
 economynextcom | 2,424
 dailyftlk | 2,581
 adalk | 3,675
-adaderanalk | 4,662
+adaderanalk | 4,663
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,066
+tamilmirrorlk | 5,067
 virakesarilk | 6,349
 adaderanasinhalalk | 6,812
 
@@ -26,29 +26,73 @@ adaderanasinhalalk | 6,812
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,075 (100.0%) of 40,078 articles have been extended.
+40,078 (100.0%) of 40,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### சீனாவில் கர்ப்பமாகும் கார்கள்
+### ராஜபக்ஷ குடும்பத்துக்குள் பிளவு
+
+*2024-08-11 11:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-குடும்பத்துக்குள்-பிளவு/175-341954) · `ta`
+
+ஸ்ரீ பொதுஜனபெரமுன, ஜனாதிபதி தேர்தல் தொடர்பில்  எடுத்துள்ள தீர்மானம் காரணமாக ராஜபக்ச குடும்பத்திற்குள் கருத்துவேறுபாடுகள் எழுந்துள்ளதாக அரசியல் வட்டாரங்கள் தெரிவித்துள்ளன.
+
+மஹிந்த ராஜபக்ச குடும்பத்தவர்கள் உட்பட ராஜபக்ச குடும்பத்தவர்கள் பலர் ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என்ற நிலைப்பாட்டை கொண்டுள்ளனர். முன்னாள் சபாநாயகர் சமல்ராஜபக்சவும், இராஜாங்க அமைச்சர் சசீந்திர ராஜபக்சவும் விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதுடன் அவருக்கே கட்சி ஆதரவளிக்கவேண்டும் என்ற நிலைப்பாட்டை கொண்டுள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+யோசித ரோகிதவின் சந்தைப்படுத்தல் நிறுவனத்தை சேர்ந்த குழுவிடம் ரணில்விக்கிரமசிங்கவின் பிரச்சாரத்தை முன்னெடுக்கும் பொறுப்பு வழங்கப்பட்டுள்ளதாகவும் தகவல்கள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/9908b031.json)
+
+---
+
+### Stock of illegally imported iPhones and laptops confiscated
+
+*2024-08-11 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101143/stock-of-illegally-imported-iphones-and-laptops-confiscated) · `en`
+
+A stock of smart phones and laptops which were illegally brought to Sri Lanka without paying customs duty has been confiscated.
+
+The contraband, containing 36 iPhones and 6 laptops has been discovered in the possession of three passengers who had arrived on a flight from Dubai around 12:30 a.m. at the Bandaranaike International Airport (BIA) in Katunayake yesterday (10).
+
+The trio was taken into custody by a group of officers of the Criminal Investigation Department (CID) at the airport while they were attempting to exit the airport with the devices concealed in their luggage.
+
+The arrested individuals, identified as residents of Dematagoda and Colombo, have been handed over to Sri Lanka Customs for further investigation. Following a thorough inspection, the mobile phones and laptops were officially confiscated.
+
+Additionally, the Deputy Director of Customs has imposed a fine of Rs. 1.6 million on the three suspects.
+
+◼️
+
+[Data](articles/9cec4554.json)
+
+---
+
+### Cars that are pregnant in China
 
 *2024-08-11 11:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/சீனாவில்-கர்ப்பமாகும்-கார்கள்/53-341951) · `ta`
 
-சீனாவில் வெயிலில் நிறுத்தப்படும் கார்கள் திடீரென வீங்கிவிடுவதாககவும் காரணம் சூரியன்தான் என்றும் சமூக ஊடகங்களில் புகைப்படங்கள் பரவியிருக்கின்றன.
+Social media in China is abuzz with photos showing cars parked in the sun that appear swollen, particularly Chinese-made models. This phenomenon, attributed to extreme heat and possibly the effects of certain paints used in local vehicles, has sparked discussions about environmental concerns amidst global warming debates.
 
-எல்லா கார்களும் அல்ல, சீன தயாரிப்பு கார்களுக்கே இந்த நிலை ஏற்படுவதாகவும் சில உள்ளூர் மக்கள் பதிவிட்டுள்ளனர்.
+🟩
 
-உலக வெப்பமயமாதல் குறித்து உலகமே ஒருபக்கம் பேசிக்கொண்டும் மறுபக்கம் மேலும் வெப்பமயமாக்குவதற்கான அனைத்து ஏற்பாடுகளையும் செய்துகொண்டிருக்கும் வேளையில், சீனாவில் கார்கள் கர்ப்பமடைவதாக சமூக ஊடகங்களில் தகவல் பரவி வருகிறது.
+Photos on social media have spread that cars parked in the sun in China are suddenly swollen.
 
-சீனாவில் தற்போது கடுமையான வெப்பம் வாட்டி வதைத்து வரும் நிலையில், சாலையில் நிறுத்தப்படும் கார்கள் திடீரென இப்படி வீங்கி விடுகின்றனவாம். இந்த புகைப்படங்களைத்தான் பலரும் சமூக வலைதளத்தில் பகிர்ந்து, கார்கள் கர்ப்பமாகிவிட்டதாகக் குறிப்பிட்டுள்ளனர்.
+Some local people have reported that this is the case for Chinese production cars, not all cars.
 
-இது நகைச்சுவையாக இருந்தாலும் உண்மையில் என்ன நடக்கிறது என்றால், உள்ளூரில் தயாரிக்கப்படும் கார்களில் அடிக்கப்படும் பெயிண்டுகள்தான் வெயிலில் இப்படி உப்பி விடுவதாகக் கூறுகிறார்கள் அந்நாட்டு மக்கள்.
+While the world is talking about global warming on the other side, all the arrangements for further warming are spreading on social media that cars are pregnant in China.
 
-...
+Cars parked on the road are suddenly swollen as China is currently in severe heat. Many of these photos have been shared on the social network and noted that cars are pregnant.
+
+Even though this is a joke, what is really happening, the people of the country say that the paints that are beaten in local -made cars are soaked in the sun.
+
+If some cars are swollen on the front, it will not be able to drive and many cars have been parked in one place.
+
+◼️
 
 [Data](articles/82d378ee.json)
+
+[Extended Data](ext_articles/82d378ee.ext.json)
 
 ---
 
@@ -74,39 +118,51 @@ Around 320 election complaints have been reported from July 31 and yesterday (10
 
 ---
 
-### நல்லூரில் பிக்குவுவால் அதிசயம்: பக்தர்கள் விசனம்
+### Miracle of Pikkuval in Nallur: Devotees
 
 *2024-08-11 10:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூரில்-பிக்குவுவால்-அதிசயம்-பக்தர்கள்-விசனம்/71-341949) · `ta`
 
-நல்லூர் கந்தசுவாமி கோவில்  பெருந்திருவிழா காரணமாக வாகன  போக்குவரத்துகளை தடை செய்யும் வீதி தடைகளையும் மீறி நல்லூர் கந்தசுவாமி ஆலய முன்பக்கம் வரை அத்துமீறி பௌத்த பிக்குகளின் வாகனங்கள் சனிக்கிழமை (10) உள்நுழைந்துள்ளன.
+During the Nallur Kandaswamy Temple festival, Buddhist monks' vehicles were allowed near the temple, causing distress among devotees. Last year, similar incidents occurred at a Saivite temple. Devotees now demand an end to such practices.
 
-இந்த செயற்பாடானது பக்தர்கள் மத்தியில் பெரும் விசனத்தை ஏற்படுத்தியுள்ளது. கடந்த வருடமும் இவ்வாறு ஒரு சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-சைவர்களின் ஆலயத்தில் கூட பிக்குகள் அத்துமீறி வாகனங்களுடன் உள்நுழைந்து, பாதணிகளுடன் ஆலய வளாகத்தில் காலடி வைத்தமை இன மத முரண்பாட்டை தோற்றுவிக்க கூடிய சந்தர்ப்பம் உள்ளது.
+The vehicles of Buddhist monks have been enrolled on Saturday (10) to the front of the Nallur Kandaswamy Temple, despite the roadblocks that ban vehicle traffic due to the Nallur Kandaswamy Temple festival.
 
-இவ்வாறான முகம் சுழிக்க வைக்கும் செயற்பாடுகள் இனிமேல் இடம்பெற கூடாது என மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+This process has caused great distress among the devotees. This incident took place last year.
+
+Even in the temple of the Saivites, monks logged in with vehicles and set foot on the temple premises.
+
+People have demanded that such a face -to -face operations should no longer take place.
 
 ◼️
 
 [Data](articles/9a58759f.json)
 
+[Extended Data](ext_articles/9a58759f.ext.json)
+
 ---
 
-### வெவ்வேறு பிரதேசங்களில் இடம்பெற்ற விபத்துக்களில் இருவர் உயிரிழப்பு
+### Two people die in accidents in different territories
 
 *2024-08-11 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/190797) · `ta`
 
-நாட்டின் வெவ்வேறு பிரதேசங்களில் இடம்பெற்ற வீதி விபத்துக்களில் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In separate incidents, two individuals died in road accidents across Sri Lanka: a 41-year-old three-wheeler driver in Homagama and a 19-year-old in Warakapola.
 
-ஹோமாகம, வரக்காபொல பொலிஸ் பிரிவுகளில் நேற்று சனிக்கிழமை (10) இந்த விபத்துக்கள் இடம்பெற்றுள்ளன.
+🟩
 
-ஹோமாகம - கொட்டாவ பழைய வீதியில் முச்சக்கரவண்டி ஒன்று காருடன் மோதியதில் முச்சக்கரவண்டியின் சாரதியான 41 வயதுடைய நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two people have died in road accidents in different parts of the country, police said.
 
-இதேவேளை, வரக்காபொல பொலிஸ் பிரிவுக்குட்பட்ட அம்பேபுஸ்ஸ - அலவ்வ வீதியில் துல்ஹிரிய பிரதேசத்தில் இடம்பெற்ற வாகன விபத்தில் 19 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+The accidents took place yesterday (10) in the Homagama and Warakapola police divisions.
+
+A 41 -year -old driver of a three -wheeler was killed when a three -wheeler crashed into a car on the Homagama - Kottawa old road, police said.
+
+Meanwhile, a 19 -year -old youth has died in a vehicle accident in Dulhiriya area on the Ambepussa -Alawa road under the Warakapola Police Division.
 
 ◼️
 
 [Data](articles/c1e2a3e7.json)
+
+[Extended Data](ext_articles/c1e2a3e7.ext.json)
 
 ---
 
@@ -791,6 +847,20 @@ This accolade underscores Amana Takaful’s groundbreaking insurance app, launch
 ---
 
 ### 2024-08-10 (Saturday)
+
+### Unveiling the Code of Life: A Look into Genetics
+
+*2024-08-10 23:48:00* · [`islandlk`](http://island.lk/unveiling-the-code-of-life-a-look-into-genetics/) · `en`
+
+Genetics, a captivating branch of biology, delves into the core of what defines us. It explores genes, the microscopic instructions encoded in our DNA, and how these instructions are transmitted from parent to offspring. Beyond inheritance, genetics examines the symphony of genes, their variations, and their interplay with the environment, shaping everything from our physical traits to our susceptibility to diseases.
+
+The story of genetics begins with Gregor Mendel, a 19th-century monk who experimented with pea plants. Through careful observation and breeding experiments, Mendel uncovered the fundamental principles of heredity, now known as Mendelian genetics. He proposed that traits are inherited through discrete units, later called genes, which are passed from parents to offspring in predictable patterns. This groundbreaking work laid the foundation for modern genetics.
+
+...
+
+[Data](articles/d2607f16.json)
+
+---
 
 ### When Engineering Meets Marxism: Remembering Bahu & Chris Rodrigo
 
@@ -2225,77 +2295,5 @@ The Perahera journey journey to the Perahera of the Suwest Parahera of Natha, Vi
 [Data](articles/a43c5333.json)
 
 [Extended Data](ext_articles/a43c5333.ext.json)
-
----
-
-### How the Brazil Crash Crash
-
-*2024-08-10 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199775) · `si`
-
-In Brazil, a plane crash resulted in the tragic loss of 61 lives. Passengers reported not receiving any call to board, leading to confusion and distress. Despite the aircraft being inspected previously without finding any technical issues, the exact cause remains unknown. This incident marks one of the deadliest aviation disasters in Brazil since 2007.
-
-🟩
-
-Foreign media reports, two passengers who were injured in Brazil, depriving 61 persons.
-
-According to those reports, if one waited for the plane, he has not received a summon. He has argated with airport officers.
-
-"Although I was so many, I didn't get called. When I inquire about it, I told me that the aircraft was over.  මම ඒ ගැන ගුවන්තොටුපොළ නිලධාරීන් සමග වාද කළා. I pushed one. After learning about the accident, I had to move my legs. "I have no words to tell you," he said.
-
-Although the plane crashes, it appears in views on the video footage, but the cause of the accident has not been revealed.
-
-The aircraft has been inspected on the date before the plane crashed, and there is no technical fault.
-
-Foreign media reports that the aircraft had not received or notice before the crash was accidental.
-
-61 of the air crash, Brazil, lost her lives.
-
-This is considered the worst aircraft recorded by Brazil after the year 2007.
-
-◼️
-
-[Data](articles/7ea4d884.json)
-
-[Extended Data](ext_articles/7ea4d884.ext.json)
-
----
-
-### 12 hours of water cut tomorrow
-
-*2024-08-10 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190736) · `ta`
-
-Water cut announced for Kelani, Wattala, and Biyagama areas tomorrow from 9 AM to 9 PM due to power suspension for Biyagama Water Plant maintenance.
-
-🟩
-
-The National Water Supply and Drainage Board has announced that the water cut will be implemented tomorrow (11) for the Kelani, Wattala and Biyagama areas.
-
-Accordingly, the water cut will be implemented from 9:00 am to 9:00 pm on Sunday (11).
-
-The National Water Supply and Committee of the Belikoda Urban Council, Ja Ela, Katunayake, Seeduwa, Kelaniya Divisional Secretariat Divisions, Piyagama, Mahara, Thompa, Ja E, Katan, Minuwangoda and Gampaha Divisional Secretariat said.
-
-The National Water Supply and Drainage Board has said that the water cut will be implemented due to the suspension of the power supply for the Biyagama Water Plantation Center due to the essential maintenance work of the Electricity Board.
-
-◼️
-
-[Data](articles/00f1874e.json)
-
-[Extended Data](ext_articles/00f1874e.ext.json)
-
----
-
-### ‘A priest like no other’
-
-*2024-08-10 12:46:00* · [`islandlk`](http://island.lk/a-priest-like-no-other/) · `en`
-
-It was about 40 years ago that I first visited the Gangaramaya Temple and met ‘Podi Hamuduruwo’. By then my wife, Shanti, had donated to the Temple a large Swarovski Lotus to be used to display the relics. The priest said that this was the first time that the temple – despite its long existence- received a valuable crystal item but soon thereafter the temple began to receive gifts of a similar magnitude which he described as an ‘auspices phenomenon’.
-
-Over the years we became close friends and exchanged many ideas about the country and religion. Almost on every such occasion he shared his thoughts on what he could do for the country and I said that I would be happy to assist in such ventures to the extent possible. We constructed four rooms at the Kataragama Pilgrims rest and contributed monthly funds to feed the pilgrims who stayed there free of charge. We also had the rare and good fortune to undertake the annual Katina pinkama.
-
-...
-
-[Data](articles/e4d95047.json)
-
-[Extended Data](ext_articles/e4d95047.ext.json)
 
 ---

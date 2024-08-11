@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 01:21:04**
+As of **2024-08-12 01:36:26**
 
 ## Newspaper Stats
 
-*Scraped **40,172** Articles*
+*Scraped **40,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,076
-virakesarilk | 6,370
+virakesarilk | 6,371
 adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,170 (100.0%) of 40,172 articles have been extended.
+40,172 (100.0%) of 40,173 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,26 @@ Home -to -house, appointing agents at polling stations, organizing President Ran
 [Data](articles/3c09f6a0.json)
 
 [Extended Data](ext_articles/3c09f6a0.ext.json)
+
+---
+
+### அயர்லாந்துடனான மகளிர் ரி20 கிரிக்கெட்: ஹர்ஷிதா துடுப்பாட்டத்தில் அபாரம்; இலங்கைக்கு இலகு வெற்றி
+
+*2024-08-12 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190846) · `ta`
+
+டப்ளின், செண்டிமவுன்ட், பெம்ப்ரோக் கிரிக்கெட் கழக மைதானத்தில் ஞாயிற்றுக்கிழமை (11) நடைபெற்ற இலங்கை - அயர்லாந்து அணிகளுக்கு இடையிலான முதலாவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 7 விக்கெட்களால் இலங்கை அமோக வெற்றியீட்டியது.
+
+வழமையான அணித் தலைவி சமரி அத்தபத்து இங்கிலாந்தில் தி ஹண்ட்ரட் மகளிர் கிரிக்கெட் போட்டியில் விளையாடுவதால் இத் தொடருக்கு இலங்கை மகளிர் ரி20 அணியின் தலைவியாக அனுஷ்கா சஞ்சீவனி நியமிக்கப்பட்டார்.
+
+ஹர்ஷிதா சமரவிக்ரம அதிரடியாகக் குவித்த ஆட்டம் இழக்காத அரைச் சதமும் விஷ்மி குணரட்னவுடன் அவர் இட்டுக்கொடுத்த சிறந்த ஆரம்பமும் இலங்கை மகளிர் அணியின் வெற்றிக்கு வழிவகுத்தன.
+
+அயர்லாந்தினால் நிர்ணயிக்கப்பட்ட 146 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை மகளிர் அணி 16.4 ஓவர்களில் 3 விக்கெட்களை இழந்து 149 ஓட்டங்களைப் பெற்று இலகுவாக வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 2 போட்டிகள் கொண்ட மகளிர் சர்வதேச ரி20 தொடர் இலங்கை 1 - 0 என்ற ஆட்டக் கணக்கில் முன்னிலை வகிக்கிறது.
+
+...
+
+[Data](articles/e1c5f9e4.json)
 
 ---
 
@@ -315,6 +335,8 @@ In 1999, the United Nations General Assembly endorsed the recommendation by the 
 ...
 
 [Data](articles/6c102b6f.json)
+
+[Extended Data](ext_articles/6c102b6f.ext.json)
 
 ---
 
@@ -791,6 +813,8 @@ I remember back in the ’70s, my high school teacher was a chain smoker, yet he
 ...
 
 [Data](articles/2db05dd3.json)
+
+[Extended Data](ext_articles/2db05dd3.ext.json)
 
 ---
 
@@ -2273,27 +2297,5 @@ She was speaking at a press conference held in Colombo this morning.
 [Data](articles/c2218653.json)
 
 [Extended Data](ext_articles/c2218653.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-08-11 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101140/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says atmospheric conditions are favorable for the development of evening thundershowers in the island during the next few days.
-
-Showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it said.
-
-Fairly heavy showers above 75 mm are likely at some places in Northern, North-central, Eastern and Uva provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/731887ae.json)
-
-[Extended Data](ext_articles/731887ae.ext.json)
 
 ---

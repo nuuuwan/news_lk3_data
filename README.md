@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 18:26:52**
+As of **2024-08-11 18:37:52**
 
 ## Newspaper Stats
 
-*Scraped **40,128** Articles*
+*Scraped **40,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,682
-adaderanalk | 4,672
+adaderanalk | 4,673
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,072
+tamilmirrorlk | 5,073
 virakesarilk | 6,357
 adaderanasinhalalk | 6,828
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,828
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,128 (100.0%) of 40,128 articles have been extended.
+40,128 (100.0%) of 40,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### Donald Trump’s campaign says its emails were hacked by Iran
+
+*2024-08-11 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101156/donald-trumps-campaign-says-its-emails-were-hacked-by-iran) · `en`
+
+Former President Donald Trump’s presidential campaign said Saturday that it has been hacked and suggested Iranian actors were involved in stealing and distributing sensitive internal documents.
+
+The campaign provided no specific evidence of Iran’s involvement, but the claim comes a day after Microsoft issued a report detailing foreign agents’ attempts to interfere in the U.S. campaign in 2024.
+
+It cited an instance of an Iranian military intelligence unit in June sending “a spear-phishing email to a high-ranking official of a presidential campaign from a compromised email account of a former senior advisor.”
+
+...
+
+[Data](articles/2c9e6f75.json)
+
+---
+
+### ரொஷான் ரணசிங்கவும்  களத்தில்...
+
+*2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-களத்தில்/175-341975) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் , போட்டியிட உள்ளதாக   முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்க  தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா அறக்கட்டளையின் கீழ் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/afe1c1d3.json)
+
+---
 
 ### Roshan Ranasinghe to also contest presidential candidacy
 
@@ -2301,43 +2331,5 @@ Due to the decline in the price of the most used springs for liquor production, 
 [Data](articles/4e10d408.json)
 
 [Extended Data](ext_articles/4e10d408.ext.json)
-
----
-
-### Seven firearms arrested in Rajagiriya
-
-*2024-08-10 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199792) · `si`
-
-In Rajagiriya, seven individuals carrying firearms including T56s and micro pistols were arrested by the Police Narcotics Bureau during a raid.
-
-🟩
-
-Seven persons with armedies have been arrested in the Rajagiriya area.
-
-The suspects were arrested during a raid conducted by the Police Narcotics Bureau.
-
-At the time of his arrest, the T56 firearm, a Micro Pistol, T56 and 50 millimeters, 9 millimeters, 50 mm.
-
-◼️
-
-[Data](articles/981c856b.json)
-
-[Extended Data](ext_articles/981c856b.ext.json)
-
----
-
-### 7 arrested with weapons and ammunition in Rajagiriya
-
-*2024-08-10 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101137/7-arrested-with-weapons-and-ammunition-inrajagiriya) · `en`
-
-The officers of Police Narcotics Bureau (PNB) have arrested seven individuals along with a T-56 weapon, a micro pistol and a cache of live ammunition in Rajagiriya.
-
-Meanwhile, police have also taken into custody 300 rounds of live T-56 ammunition and 50 rounds of 9mm ammunition which were found in their possession.
-
-◼️
-
-[Data](articles/56822686.json)
-
-[Extended Data](ext_articles/56822686.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 13:55:36**
+As of **2024-08-11 14:07:09**
 
 ## Newspaper Stats
 
-*Scraped **40,098** Articles*
+*Scraped **40,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,114 @@ colombotelegraphcom | 377
 islandlk | 2,317
 economynextcom | 2,425
 dailyftlk | 2,581
-adalk | 3,678
-adaderanalk | 4,666
+adalk | 3,679
+adaderanalk | 4,667
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,068
 virakesarilk | 6,354
-adaderanasinhalalk | 6,816
+adaderanasinhalalk | 6,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,096 (100.0%) of 40,098 articles have been extended.
+40,098 (100.0%) of 40,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### ගොත අසංකගේ ගිනිඅවි බන්ධනාගාර නියාමකගේ නිවසේ
+### නිවස ඉදිරිපිට තිබූ අලුතෙන් ගත් මෝටර් රථය ට ගිනිතබයි
 
-*2024-08-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199812) · `si`
+*2024-08-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199814) · `si`
 
-විදේශ රටක සැඟව සිටින සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන "ගොත අසංක" නැමැත්තාට අයත් ආයුධ තොගයක් රහසිගතව සඟවාගෙන සිටි බන්ධනාගාර නියාමකවරයෙකු පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ අත්අඩංගුවට පත්වුණි.
+නිවසක නතරකර තිබු රුපියල් ලක්ෂ 50ක පමණ වටිනාකමකින් යුත් වැගන්ආර් වර්ගයේ මෝටර් රථයකට කිසියම් පිරිසක් ගිනිතබා තිබේ.
 
-එම ආයුධ සොයාගැනුණේ අත්අඩංගුවට ගත් පුද්ගලයාගේ රාජගිරිය ප්‍රදේශයේ නිවස පරීක්ෂා කිරිමේදීය.
+ඊයේ (10) රාත්‍රීයේ එම සිදුවීම වාර්තා වී තිබුණේ බෙලිඅත්ත, කුඩාහීල්ල ජයමාවත ප්‍රදේශයෙනි.
 
-ජීව උණ්ඩ සහ මත්ද්‍රව්‍ය ළඟ තබාගෙන සිටි සැකකරුවන් 7 දෙනෙකු පසුගියදා මාකොළ ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකා නිලධාරින් විසින් අත්අඩංගුවට ගත් අතර ඔවුන්ව වැඩිදුර ප්‍රශ්න කිරීම් සඳහා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශය වෙත යොමුකර තිබුණි.
+එම නිවසේ හිමිකරු මෙම මෝටර් රථය මීට දින කිහිපයකට පෙර මිලදී ගෙන තිබුණි.
 
-ප්‍රශ්න කිරීම්වලදී අනාවරණය වූ තොරතුරු මත රාජගිරිය, මාදින්නාගොඩ ප්‍රදේශයේ ඉදිකෙරෙමින් පවතින දෙමහල් නිවසක් පරීක්ෂා කිරීමට පොලිස් මත්ද්‍රව්‍යනාශක කාර්යංශයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි හේමාල් ප්‍රශාන්ත මහතාගේ උපදෙස් මත පියවර ගත්තේය.
+ගින්නෙන් එම මෝටර් රථය සම්පූර්ණයෙන්ම විනාශ වී ඇති අතර නිවසේ කොටසක්ද පිළිස්සී ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
 
-එම වැටලීමේදී නිවසේ උඩුමහලේ තිබූ රහසිගත බංකරයක් සොයා ගැනීමට විමර්ශන නිලධාරින් සමත් වුණි.
+ගින්නෙන් සිදුවූ අලාභය මෙතෙක් ගණනය කර නොමැති අතර සිද්ධිය සම්බන්ධයෙන් බෙලිඅත්ත පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
 
-රහසිගත බංකරය පරීක්ෂා කිරීමේදී ඒ තුළ ඉතා සූක්ෂම අයුරින් සඟවා තිබූ ආයුධ රැසක් පොලීසිය විසින් සොයා ගත්තේය.
+◼️
+
+[Data](articles/7d6ad484.json)
+
+---
+
+### ශ්‍රී ලාංකිකයින්ව රැවටූ තමිල්නාඩුවේ ආබුල් ඛාන්
+
+*2024-08-11 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199813) · `si`
+
+ශ්‍රී ලාංකිකයින් ඉලක්ක කර ගනිමින් තමිල්නාඩුවේ සිදුකළ මිනිස්  ජාවාරමකට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු ඉන්දීය විමර්ශන ඒජන්සිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+සීනි ආබුල් ඛාන් නම් වූ එම සැකකරු අත්අඩංගුවට ගැනීම සඳහා වසර තුනක පමණ කාලයක් ඉන්දීය පොලීසිය විමර්ශන  සිදුකර තිබු බව සඳහන් ය.
+
+මෙම සැකකරු එල්ටිටිඊ සංවිධානය සමග සබඳතා පැවැත් වූ ඊසාන් නම් ශ්‍රී ලාංකිකයෙකු සමග එක්ව මෙම මිනිස් ජාවාරම සිදුකර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේය.
+
+කැනඩාවේ රැකියා ලබාදෙන බවට ව්‍යාජ ප්‍රකාශ සිදුකර ශ්‍රී ලාංකිකයින් මුහුදු මාර්ගයෙන් තමිල්නාඩු ප්‍රාන්තයට රැගෙන විත් එහි විවිධ ස්ථානවල සිරකර තැබීම මොවුන් විසින් සිදුකර තිබුණි.
+
+ශ්‍රී ලාංකිකයින් 38 දෙනෙකු පමණ මෙම ජාවාරමට ගොදුරුවි ඇති බව ඉන්දීය ජාතික විමර්ශන එජන්සියට තොරතුරු වාර්තා වී තිබේ.
+
+2021 වසරේ ජුනි මාසයේ දී එලෙස සිර කර තබාගෙන සිටි ශ්‍රී ලාංකිකයින් 13 දෙනෙකු තමිල්නාඩු පොලීසිය විසින් මුදාගැනීමට කටයුතු කළේය.
 
 ...
 
+[Data](articles/14156412.json)
+
+---
+
+### Inland Revenue Department warns against fraudulent tax collection schemes
+
+*2024-08-11 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101147/inland-revenue-department-warns-against-fraudulent-tax-collection-schemes) · `en`
+
+The Commissioner General of Inland Revenue has issued a warning to all taxpayers regarding fraudulent activities involving individuals impersonating Inland Revenue officers to collect money from business owners.
+
+The Commissioner General emphasizes that all recovery of outstanding taxes, across all tax types managed by the Inland Revenue Department (IRD), will be conducted strictly through legal channels, with official written notifications being issued prior to any such actions.
+
+In a statement, the IRD Commissioner General highlighted that it has come to the department’s attention that a group of individuals is approaching business owners, falsely representing themselves as Inland Revenue officers and demanding payment.
+
+Accordingly, he has made it clear that the Inland Revenue Department does not take responsibility for any payments made to these fraudulent individuals.
+
+...
+
+[Data](articles/f4207cea.json)
+
+---
+
+### Floor Asanka's firearms' prison prison
+
+*2024-08-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199812) · `si`
+
+A secret arrest of a notorious drug dealer and gun trafficker led to the discovery of a substantial cache of weapons and drugs in a hidden bunker in Rajadenagoda. The STF and police raided a two-story house, uncovering over 300 rounds of T-56 ammunition, 50mm ammo, a micro pistol, heroin, cannabis, and hash. Seven suspects, including a 44-year-old prison guard, were apprehended, with investigations linking them to various crimes across Colombo and its suburbs.
+
+🟩
+
+A prison guilty of a prison guilistic and a drug dealer, a drug dealer, was arrested in secret.
+
+The weapons were found at the resident of the Rajagiriya area in Rajagiriya.
+
+Seven suspects were arrested by the STF in Makola recently, along with the police with further questioning.
+
+The Director of the Police Narcotics Bureau Director Hemal Prashathna took action to inspect a two storied house in Rajadenagoda, Rajadenagoda.
+
+In the upper room, investigations were recovered to a secret bunker at the upstairs at the raid.
+
+The police found many weapons hidden weapons in a very substible manner when examining the secret bunker.
+
+The Bureau was taken into custody over 300 T-56 ammunition, 50mm amle, as well as a micro pistol, as well as a micro pistol, as well as a micro pistol, as well as heroin, cannaba and rash.
+
+The suspect was also arrested by a 44-year-old prison guard.
+
+Investigations officers have been used to many crimes in Colombo and suburbs.
+
+◼️
+
 [Data](articles/b557e540.json)
+
+[Extended Data](ext_articles/b557e540.ext.json)
 
 ---
 
@@ -67,6 +139,8 @@ This decision was communicated by the co-President of the Grama Niladhari office
 ◼️
 
 [Data](articles/283722c0.json)
+
+[Extended Data](ext_articles/283722c0.ext.json)
 
 ---
 
@@ -279,6 +353,20 @@ Nanayakkara had alleged that Digambaram had acted against the interests of estat
 [Data](articles/ceedb620.json)
 
 [Extended Data](ext_articles/ceedb620.ext.json)
+
+---
+
+### සජිත්ට සහය පලකරන්න සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ එක්වෙයි
+
+*2024-08-11 11:25:48* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-සහය-පලකරන්න-සුදර්ශිනී-ප්‍රනාන්‍දුපුල්ලේ-එක්වෙයි/11-411300) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දෙන බව  ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීනී වෛද්‍ය සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ මහත්මිය පැවසුවාය.
+
+ඇය ​මේ බව පැවසුවේ අද (11) උදෑසන කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි
+
+◼️
+
+[Data](articles/81e687e6.json)
 
 ---
 
@@ -2225,95 +2313,5 @@ Mr. Namal Rajapaksa said he expects to discuss with the Ilangai Tamil Arasu Part
 [Data](articles/025dcf80.json)
 
 [Extended Data](ext_articles/025dcf80.ext.json)
-
----
-
-### Compliance to provide Rs 1700: President Media Division
-
-*2024-08-10 15:34:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341913) · `ta`
-
-At a public meeting, President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1700 salary hike for plantation workers. The Minister of Labor plans to discuss this with the Pay Executive Council on Monday and is prepared to enact legislation if needed.
-
-🟩
-
-Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak to the Pay Executive Council on Monday and is ready to pass the law if necessary.
-
-President Ranil Wickremesinghe announced at a public meeting of youth leaders of plantation unions held today
-
-◼️
-
-[Data](articles/34f1f6a1.json)
-
-[Extended Data](ext_articles/34f1f6a1.ext.json)
-
----
-
-### Compliance to provide Rs 1700: President Media Division
-
-*2024-08-10 15:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700-ரூபாய்-வழங்க-இணக்கம்-ஜனாதிபதி-ஊடகப்பிரிவு/175-341912) · `ta`
-
-At a public meeting, President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1700 wage hike for plantation workers. The Minister of Labor plans to discuss this with the Pay Executive Council on Monday and is prepared to enact legislation if needed.
-
-🟩
-
-Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak to the Pay Executive Council on Monday and is ready to pass the law if necessary.
-
-President Ranil Wickremesinghe announced at a public meeting of youth leaders of plantation unions held today
-
-◼️
-
-[Data](articles/f18587d4.json)
-
-[Extended Data](ext_articles/f18587d4.ext.json)
-
----
-
-### Gold Medal for Canada by 4x100 event after 28 years
-
-*2024-08-10 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199779) · `si`
-
-Canada won the gold medal in the 4x100 meters at the Paris Olympics, marking their first victory in this event after 28 years. Despite expectations favoring the American team, Canada triumphed with a time of 37.50 seconds, outperforming the U.S. team. This achievement comes after a long drought, with no previous wins in this category since the last Olympics.
-
-🟩
-
-As well as the Olympic Champions of the Paris Olympic Games yesterday, Canada won the gold medal at 4x100 meters in the Paris Olympic Games yesterday.
-
-They won the gold medal in the backdrop that the major American team would easily win the gold medal.
-
-The Canada team had spent 37.50 seconds to end its event.
-
-This is the first time a Canadian team won a gold medal in a 100m support of the Olympic Festival after 28 years.
-
-Meanwhile, the silver medal of this event (sec). 37.57) The bronze medal is to the Great Britain (sec. 37.61) The occupant.
-
-Their competition was abolished due to lack of hope in the first exchange of Julyen exchange of the American group that everyone would have won the gold medal.
-
-◼️
-
-[Data](articles/0ee86209.json)
-
-[Extended Data](ext_articles/0ee86209.ext.json)
-
----
-
-### Crabs that are dead in Trincomalee
-
-*2024-08-10 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190745) · `ta`
-
-In Trincomalee, hundreds of thousands of small red crabs were found dead on the beach, spanning three to four kilometers of its five to six-kilometer length. This tragic event occurred frequently on weekends, coinciding with increased tourist visits to the area.
-
-🟩
-
-Hundreds of thousands of small red crabs have died on the beach in Trincomalee this morning (10).
-
-Such an event took place on Saturdays and Sundays, with more tourists coming to the region.
-
-The beach is about five to six kilometers long, with such red crabs dead for three to 4 kilometers.
-
-◼️
-
-[Data](articles/64ca6a43.json)
-
-[Extended Data](ext_articles/64ca6a43.ext.json)
 
 ---

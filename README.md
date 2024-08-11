@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 12:36:26**
+As of **2024-08-11 12:53:33**
 
 ## Newspaper Stats
 
-*Scraped **40,089** Articles*
+*Scraped **40,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,665
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,067
 virakesarilk | 6,349
-adaderanasinhalalk | 6,814
+adaderanasinhalalk | 6,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,089 (100.0%) of 40,089 articles have been extended.
+40,089 (100.0%) of 40,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### ග්‍රාම සේවකයින් දැඩි තීරණයක් ගනියි
+
+*2024-08-11 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199811) · `si`
+
+ඔවුන් පවසන්නේ අගොස්තු 12 සහ 13 යන දිනයන්වල සේවයෙන් ඉවත් වීමට ද කටයුතු කරන බවයි.
+
+ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානයේ සම සභාපති නන්දන රණසිංහ මාධ්‍ය හමුවක් පවත්වමින් මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/598f614c.json)
+
+---
 
 ### Olympic Football Gold Medal in 32 years
 
@@ -2299,29 +2313,5 @@ I have been immersed and absorbed in the second volume of Leonard Sydney Woolf�
 [Data](articles/4297e3d8.json)
 
 [Extended Data](ext_articles/4297e3d8.ext.json)
-
----
-
-### Person arrested at BIA over attempt to smuggle live fish and turtles
-
-*2024-08-10 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101132/person-arrested-at-bia-over-attempt-to-smuggle-live-fish-and-turtles-) · `en`
-
-Sri Lanka Customs has apprehended a passenger who arrived in the island along with 365 live ornamental fish and turtles to be sold within the country.
-
-The passenger has been apprehended at the Bandaranaike International Airport (BIA) in Katunayake by the Sri Lanka Customs Biodiversity Protection Unit, early this morning (10).
-
-The arrested individual has been identified as a 50-year-old businessman residing in the Thalawathugoda area, Ada Derana reporter said.
-
-However, the passenger who arrived in Sri Lanka onboard a Singapore Airlines flight from Singapore has claimed that the fish and turtles were brought for one of his friends.
-
-The live animals include Asian Arowana, Cycad, Catfish and turtles, Sri Lanka Customs said.
-
-The arrest has been carried out based on intelligence received by the officers of Sri Lanka Customs Biodiversity Protection Unit and the officials have initiated further investigations regarding the incident.
-
-◼️
-
-[Data](articles/b23c273a.json)
-
-[Extended Data](ext_articles/b23c273a.ext.json)
 
 ---

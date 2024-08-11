@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 13:21:12**
+As of **2024-08-11 13:36:32**
 
 ## Newspaper Stats
 
@@ -26,63 +26,83 @@ adaderanasinhalalk | 6,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,090 (100.0%) of 40,096 articles have been extended.
+40,096 (100.0%) of 40,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### சுற்றுலா பயணத்தின்போது மலையேறியவர் மீது கற்பாறை சரிந்து வீழ்ந்து உயிரிழப்பு
+### The boulder collapsed on a mountaineer during a trip
 
 *2024-08-11 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190807) · `ta`
 
-அம்புலுவாவ மலைப்பகுதியில் சுற்றுலாப் பயணம் செல்வதற்கு தவறுதலான பாதையினூடாக மலையேறி சென்றுகொண்டிருந்த நபர் மீது கற்பாறை சரிந்து வீழ்ந்ததில், அந்த நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 37-year-old man from Muruttuve, Tehiyovitta, died after a boulder fell on him while trekking in the Ambuluwawa hills with four friends. The incident occurred despite the man not informing his wife about the trip.
 
-நான்கு பேர் கொண்ட குழுவினர் மலை ஏறிக்கொண்டிருந்தபோதே, அவர்களில் ஒருவர் கற்பாறை வீழ்ந்து உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-உயிரிழந்தவர் தெஹியோவிட்ட முருத்தெட்டுவே பகுதியைச் சேர்ந்த 37 வயதுடையவர் என்றும் அவர் இரண்டு பிள்ளைகளின் தந்தை என்றும் கூறப்படுகிறது.
+Police said that the man was killed when a boulder collapsed on a man who was trekking through a mistake to travel in the Ambuluwawa hills.
 
-இது தொடர்பாக பொலிஸார் விசாரணைகளில் ஈடுபட்டபோது, விபத்துக்குள்ளான நபர் மனைவியிடம் கூறாமல் தனது நான்கு நண்பர்களுடன் சுற்றுலா சென்றுள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+One of them was killed when a group of four people were climbing the mountain, police said.
+
+The deceased is said to be a 37 -year -old from the Muruttuve, Tehiyovitta and he is the father of two children.
+
+When the police were investigating the matter, the person who had been involved in the accident had traveled with his four friends without telling his wife.
 
 ◼️
 
 [Data](articles/595e894c.json)
 
+[Extended Data](ext_articles/595e894c.ext.json)
+
 ---
 
-### கப்பலில் பாரிய தீ: வெடிப்பு சத்தமும் கேட்டது
+### Massive fire on the ship: the noise of the explosion was heard
 
 *2024-08-11 12:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பலில்-பாரிய-தீ-வெடிப்பு-சத்தமும்-கேட்டது/175-341958) · `ta`
 
-கொழும்பு துறைமுகத்தில் நங்கூரமிட்டிருந்த சரக்குக் கப்பலில் ஞாயிற்றுக்கிழமை (11) அதிகாலை தீ மற்றும் வெடிப்பு ஏற்பட்டதாக இலங்கை துறைமுக அதிகார சபையின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+Fire and explosion occurred at Colombo port on Sunday, causing significant damage but quickly contained by port staff. Damage assessment ongoing.
 
-துறைமுக தீயணைப்புப் பிரிவு உட்பட துறைமுக ஊழியர்கள் தீயைக் கட்டுப்படுத்தி அணைத்ததாகவும், தீயை அணைக்க முடியாவிட்டால் பெரும் அழிவை ஏற்படுத்தியிருக்கும் என்றும் அந்த அதிகாரி குறிப்பிட்டார்.
+🟩
 
-தீயினால் கப்பலுக்கு ஏற்பட்ட சேதம் இதுவரை மதிப்பிடப்படவில்லை எனினும் சரக்கு மற்றும் கப்பலுக்கு அதிக சேதம் ஏற்பட்டுள்ளதாக சிரேஷ்ட அதிகாரி மேலும் தெரிவித்தார்.
+A senior official of the Sri Lanka Ports Authority said that a fire and explosion occurred on Sunday morning at an anchor at the Colombo port.
+
+The official said that the port employees, including the Port Fire Division, had extinguished the fire and would have caused great destruction if the fire was unable to extinguish.
+
+The Senior Officer added that the damage to the ship has not yet been estimated.
 
 ◼️
 
 [Data](articles/fdd9523e.json)
 
+[Extended Data](ext_articles/fdd9523e.ext.json)
+
 ---
 
-### பாடசாலை மாணவனை தாக்கிய போக்குவரத்து பொலிஸார் - இலங்கை மனித உரிமைகள் ஆணைக்குழு விசாரணை
+### Traffic Police attacked school student - Sri Lanka Human Rights Commission inquiry
 
 *2024-08-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190793) · `ta`
 
-பயாகல பொலிஸ் போக்குவரத்துப் பிரிவு அதிகாரிகளின் குழுவினர் மோட்டார் சைக்கிளை நிறுத்தாமல் சென்றமைக்காக 16 வயதுடைய பாடசாலை மாணவர் ஒருவரை கொடூரமாக தாக்கிய சம்பவம் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழு விசாரணைகளை மேற்கொண்டுள்ளது.
+Sri Lanka's Human Rights Commission is probing an incident where a 16-year-old schoolboy was brutally assaulted by police officers from the Biyagala division for allegedly riding a motorcycle without a helmet. The boy, along with a friend, was chased, stopped, and attacked after visiting a store. The victim suffered severe injuries and was hospitalized. The Police Inspector General has been asked to submit a report on this matter.
 
-இந்த மாணவன் கடந்த 7ஆம் திகதி தனது தந்தையின் மோட்டார் சைக்கிளில் அருகில் உள்ள கடையொன்றுக்கு சென்றுள்ளதாகவும், இதன்போது அவரது நண்பர் தலைக்கவசம் அணியாமல் இருந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அதனையடுத்து, பயாகல பொலிஸ் போக்குவரத்து பிரிவின் பாதுகாப்பு பிரிவு அதிகாரிகள் இருவரை துரத்திச் சென்று, மோட்டார் சைக்கிளை நிறுத்தி அவர்களை தாக்கியுள்ளனர்.
+The Human Rights Commission of Sri Lanka is investigating the brutal assault of a 16 -year -old schoolgirl for allegedly abusing a motorcycle by a group of police officers of the Biyagala Police Transport Division.
 
-அவர்களை துரத்திச் சென்ற பொலிஸ் அதிகாரிகள் மோட்டார் சைக்கிளில் பின்னால் அமர்ந்திருந்த மாணவனின் காதில் தாக்கியதாகவும், மோட்டார் சைக்கிளை ஓட்டிச் சென்ற பாடசாலை மாணவனை பல தடவை கடுமையாக தாக்கியதாகவும் தெரிவிக்கப்படுகிறது.
+The student had gone to a nearby shop on his father's motorcycle on the 7th and his friend was not wearing a helmet.
 
-தாக்குதலுக்கு உள்ளான பாடசாலை மாணவன் சிகிச்சைக்காக களுத்துறை நாகொட போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Subsequently, the Security Division of the Bayagala Police Transport Division chased the two men and stopped the motorcycle and attacked them.
 
-...
+Police officers who chased them were reportedly beaten in the ear of a student who was sitting behind a motorcycle and that a motorcycle student was severely beaten.
+
+A school student who was attacked has been admitted to the Nagoda Teaching Hospital in Kalutara for treatment, police said.
+
+The Chairman of the Commission Nimal Punjihewa said that the Police Inspector General of Police has been informed to submit a report to the Human Rights Commission regarding the incident.
+
+◼️
 
 [Data](articles/fec05eef.json)
+
+[Extended Data](ext_articles/fec05eef.ext.json)
 
 ---
 
@@ -106,33 +126,51 @@ The Alliance of UPFA holding a media briefing of the UPFA, Nandana Ranasinghe, h
 
 ---
 
-### தினேஸ் குணவர்த்தன, காமினி லொக்குகே, சாகரவை வேட்பாளராக நிறுத்துவது குறித்து ஆராய்ந்தோம்; விஜயதாசவிற்கு ஆதரவளித்திருப்போம் - பசில்
+### Dinesh Gunawardena, Gamini Lokuke, we examined the field of standing as a candidate;We would have supported Vijayadasa - Basil
 
 *2024-08-11 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190805) · `ta`
 
-தம்மிக பெரேரா போட்டியிலிருந்து விலகிய பின்னர் ஜனாதிபதி வேட்பாளராக நியமிப்பதற்காக தினேஸ் குணவர்த்தன காமினி லொகுகே உட்பட பலர் குறித்து ஆராய்ந்தோம் எனதெரிவித்துள்ள முன்னாள் நிதியமைச்சர் பசில் ராஜபக்ச விஜயதாசவை கூட ஆதரித்திருப்போம் என குறி;ப்பிட்டுள்ளார்
+Basil Rajapaksa, former Finance Minister, explored potential candidates including Dinesh Gunawardena and Gamini Lokuke for the presidency. Despite considering supporting Vijayadasa Rajapaksa, the party decided to back Namal Rajapaksa due to regional organization requests. The district representatives sought expulsion of those backing Ranil Wickremesinghe, but were advised against it by Mahinda and Gotabaya Rajapaksas. Basil expressed confidence in rectifying past mistakes and ensuring the party's welfare.
 
-பிரதமர் தினேஸ் குணவர்த்தன நாடாளுமன்ற உறுப்பினர் காமினிலொகுகே கட்சியின் பொதுச்செயலாளர் சாகரகாரியவசம் ஆகியோரை வேட்பாளராக நிறுத்துவது குறித்து ஆராய்ந்தோம்.
+🟩
 
-கட்சியின் பிரதேச அமைப்புகள் வேண்டுகோள் விடுத்ததன் காரணமாக நாமல்ராஜபக்சவை நியமிக்க தீர்மானித்தோம்.நாமல் அதற்கு இணங்கினார்.
+Former Finance Minister Basil Rajapaksa Vijayadasa, who has announced that we will also have expressed his exploring many people, including Dinesh Gunawardena Gamini Lokuke, to appoint the presidential candidate after his quitting of the Thamika Perera competition.
 
-எங்களிடம் தகுதியான ஏனைய வேட்பாளர்கள் இருந்தனர் விஜயதாச ராஜபக்சவை கூட நாங்கள் ஆதரித்திருப்போம்,அவர் வேறு கட்சியின் கீழ் போட்டியிட்டாலும் அவர் இன்னமும் நாடாளுமன்றத்தில் பொதுஜனபெரமுனவின் உறுப்பினரே.என பசில் ராஜபக்ச தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena Member of Parliament, Kaminilakuke, has examined the candidate of the party's general secretary Sakarakariyawasam.
+
+Due to the request of the party's regional organizations, we decided to appoint Namalrajapaksa.
+
+We would have supported Vijayadasa Rajapaksa, even if we contested under a different party, but he is still a member of the PA in Parliament.
+
+Meanwhile, the district level representatives have requested that the party's decision be expelled from the party and expelled those who supported Ranil Wickremesinghe.
+
+However, Mahinda Rajapaksa and Rajapaksa in hunger have said that this is not the time.
+
+Basil Rajapaksa said, "I am confident that many people will recover their mistakes.
 
 ...
 
 [Data](articles/d288708b.json)
 
+[Extended Data](ext_articles/d288708b.ext.json)
+
 ---
 
-### நல்லவர்களும் கெட்டவர்களும்…!
+### Good and bad…!
 
 *2024-08-11 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190801) · `ta`
 
-மகிந்தவின் சில ஜனநாயக விரோத செயற்பாடுகளுக்கும் இவர்கள் துணை போனதால் அவருக்கு இவர்களின் மீது நடவடிக்கை எடுக்க முடியாது போயிற்று. ஆனால் அரகலய போராட்டத்துக்குப் பின்னர் எல்லாம் தலைகீழாகிவிட்டது. ராஜபக்ச சகோதரர்களுக்கு   முட்டு கொடுத்தவர்களின் வீடுகளும் கொளுத்தப்பட்டன. மகிந்தவும் தனது குடும்பத்தினருடன் அஞ்ஞாதவாசம் செய்ய வேண்டிய நிலைமைக்கு தள்ளப்பட்டார். நீண்ட காலத்துக்கு மகிந்த விசுவாசிகளால் பொதுவெளியில் தலைகாட்ட முடியாமலிருந்தது.  மகிந்தவின் அரசாங்கத்தில் அவரது பிரசார பீரங்கியாக விளங்கிய கெஹலிய ரம்புக்வெல இப்போது பிணை கோரிக்கை மறுக்கப்பட்டவராக விளக்கமறியலில் உள்ளார். இவ்வாறானவர்களை அருகில் வைத்துக்கொண்டால் தனது மகனின் அரசியல் எதிர்காலத்துக்கும் ஆபத்து வந்து விடும் என மகிந்த நினைத்தாலும் அவர்களை தவிர்க்க முடியாது திண்டாடினார்.
+Due to support from anti-democratic groups, actions against certain individuals were hindered. However, post-Arakal struggle, dynamics changed, leading to the burning of Rajapaksa brothers' homes and forcing Mahinda and his family into hiding. His supporters faced public scrutiny, and key figures like Keheliya Rambukwella faced legal challenges, despite Mahinda's concerns about their impact on his son's political career.
+
+🟩
+
+They were also unable to take action against them because they were supported by some anti -democratic activities. But after the Arakal struggle, everything is upside down. The houses of the Rajapaksa brothers were also burned. Mahinda was also forced to do so with his family. For a long time, Mahinda Believers were unable to head in public. Keheliya Rambukwella, who is his propaganda artillery in Mahinda's government, is now in the detriment of the bail demand.. Even though Mahinda thought that such people would be a danger to his son's political future, they could not be avoided.
 
 ◼️
 
 [Data](articles/3c047a49.json)
+
+[Extended Data](ext_articles/3c047a49.ext.json)
 
 ---
 
@@ -244,19 +282,27 @@ The third and last Test match will begin on September 6 at the London Oval Stadi
 
 ---
 
-### சுதந்திர கட்சியின் 'ஐக்கிய முன்னணி' ரணிலுக்கு ஆதரவு - புதனன்று புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திட தீர்மானம்
+### Freedom Party's 'United Front' Ranil
 
 *2024-08-11 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190790) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் தலைமைத்துவத்திலான 'பொதுஜன ஐக்கிய மக்கள் முன்னணிக்கும்' பாராளுமன்ற உறுப்பினர் அநுர பிரியதர்ஷன யாப்பா மற்றும் நிமல் லான்சா தலைமையிலான புதிய அரசியல் கூட்டணிக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் எதிர்வரும் 14ஆம் திகதி புதன்கிழமை கைச்சாத்திடப்படவுள்ளது. இந்த கூட்டணியானது ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்க தீர்மானித்துள்ளது.
+An MoU between UPFA leaders and a new political alliance, led by Anura Priyadarshana Yapa and Nimal Lansa, will be signed, supporting Ranil Wickremesinghe for president. This includes the PA, Tamil, and Muslim parties. Key figures like Nasir Hamad, Khadar Mastan, and several MPs attended a meeting at the Ramada Hotel.
 
-2024ஆம் ஆண்டு ஜனாதிபதி தேர்தலை தொடர்ந்து வரக்கூடிய பாராளுமன்ற தேர்தலில் 'பொதுஜன ஐக்கிய முன்னணி' கதிரை சின்னத்தில் போட்டியிடவுள்ளதுடன், வரும் ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க உள்ளதாக 'பொதுஜன ஐக்கிய முன்னணி'யின் பொதுச் செயலாளர் பாராளுமன்ற உறுப்பினர் லசந்த அழகியவண்ண உறுதிப்படுத்தினார்.
+🟩
 
-மேலும், இந்த கூட்டணியில் தமிழ் மற்றும் முஸ்லிம் கட்சிகள் இணைந்துகொள்ளவுள்ளன. இதனை மையப்படுத்தி கடந்த வெள்ளிக்கிழமை இரவு ரமாடா ஹோட்டலில் விசேட சந்திப்பு ஒன்று இடம்பெற்றது.
+A Memorandum of Understanding (MoU) between the leadership of the Sri Lanka Freedom Party (UPFA) and the new political alliance led by parliamentarian Anura Priyadarshana Yapa and Nimal Lansa will be signed on Wednesday 14th.. The coalition has decided to support Ranil Wickremesinghe in the presidential election.
+
+The General Secretary of the PA, Lasantha Alagiyavanna, confirmed that the 'PA' will contest the 'PA' in the 2024 presidential election and will support Ranil Wickremesinghe in the coming presidential election.
+
+Moreover, the Tamil and Muslim parties will join this alliance. A special meeting was held at the Ramada Hotel last Friday night.
+
+Former Minister Nasir Hamad, State Minister Khadar Mastan, Puttalam District Parliamentarian Ali Sabri Rahim, Anuradhapura District Parliamentarian Ishaq Rahman, Ampara District Parliamentarian SMM. Musharraf and many others were present, including former parliamentarian Islam.
 
 ...
 
 [Data](articles/dacc6e84.json)
+
+[Extended Data](ext_articles/dacc6e84.ext.json)
 
 ---
 

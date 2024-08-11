@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 14:07:09**
+As of **2024-08-11 14:21:03**
 
 ## Newspaper Stats
 
-*Scraped **40,102** Articles*
+*Scraped **40,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,93 @@ adaderanalk | 4,667
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,068
 virakesarilk | 6,354
-adaderanasinhalalk | 6,818
+adaderanasinhalalk | 6,819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,098 (100.0%) of 40,102 articles have been extended.
+40,102 (100.0%) of 40,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### නිවස ඉදිරිපිට තිබූ අලුතෙන් ගත් මෝටර් රථය ට ගිනිතබයි
+### පස් දෙනෙක් රෝහල ට යැවූ වෑන් - කාර් අනතුර
+
+*2024-08-11 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199815) · `si`
+
+මෝටර් රථයක් හා වෑන් රථයක් මාරවිල දී එකිනෙක ගැටී සිදුවූ අනතුරකින් කුඩා දරුවෙක් සහ කාන්තාවක් ඇතුළු පස් දෙනෙකු තුවාල ලබා තිබේ.
+
+අද (11) අලුයම 2.45ට පමණ එම අනතුර සිදුව තිබුණේ මාරවිල ශ්‍රී කුරුස දේවස්ථානයට ගමන් ගන්නා මාර්ගයේදීය.
+
+අතුරු මාර්ගයක සිට ඉතා වේගයෙන් පැමිණ මෝටර් රථය වේගය පාලනය කරගත නොහැකිව වෑන් රථයේ ගැටී එම අනතුර සිදුව ඇති බව වාර්තා වෙයි.
+
+අනතුරින් හලාවත, පම්බල ප්‍රදේශයේ පදිංචි එකම පවුලේ ඥාතීන් පිරිසක් තුවාල ලබා තිබුණි.
+
+ඔවුන් මඩු දේවස්ථානයට පිටත්ව යාමට පෙර මාරවිල ශ්‍රී කුරුස දේවස්ථානයට පැමිණ අවස්ථාවේදී එම අනතුරට මුහුණ දී තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ රියදුරු අධික ලෙස බීමතින් සිට ඇති බව සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇති අතර අනතුර සම්බන්ධයෙන් මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/a96da7a0.json)
+
+---
+
+### The newly taken car in front of the house burned
 
 *2024-08-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199814) · `si`
 
-නිවසක නතරකර තිබු රුපියල් ලක්ෂ 50ක පමණ වටිනාකමකින් යුත් වැගන්ආර් වර්ගයේ මෝටර් රථයකට කිසියම් පිරිසක් ගිනිතබා තිබේ.
+A car similar to a Wagonr, recently bought, was destroyed by a fire in the Jayamawatha area of Beliatta. The incident occurred yesterday, and its cost hasn't been assessed yet. Investigations are ongoing by the Beliatta Police.
 
-ඊයේ (10) රාත්‍රීයේ එම සිදුවීම වාර්තා වී තිබුණේ බෙලිඅත්ත, කුඩාහීල්ල ජයමාවත ප්‍රදේශයෙනි.
+🟩
 
-එම නිවසේ හිමිකරු මෙම මෝටර් රථය මීට දින කිහිපයකට පෙර මිලදී ගෙන තිබුණි.
+A group of Wagonr type car, which was worth around Rs.
 
-ගින්නෙන් එම මෝටර් රථය සම්පූර්ණයෙන්ම විනාශ වී ඇති අතර නිවසේ කොටසක්ද පිළිස්සී ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+The incident was reported from yesterday at the Jayamawatha area in Beliatta, Beliatta, Beliatta.
 
-ගින්නෙන් සිදුවූ අලාභය මෙතෙක් ගණනය කර නොමැති අතර සිද්ධිය සම්බන්ධයෙන් බෙලිඅත්ත පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The owner of that house was purchased a few days ago.
+
+The car was completely destroyed by the fire, Ada Derana reporter said.
+
+The loss of the fire has not been calculated and Beliatta Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/7d6ad484.json)
 
+[Extended Data](ext_articles/7d6ad484.ext.json)
+
 ---
 
-### ශ්‍රී ලාංකිකයින්ව රැවටූ තමිල්නාඩුවේ ආබුල් ඛාන්
+### Abulnadu in Tamil Nadu deceived by Sri Lankans
 
 *2024-08-11 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199813) · `si`
 
-ශ්‍රී ලාංකිකයින් ඉලක්ක කර ගනිමින් තමිල්නාඩුවේ සිදුකළ මිනිස්  ජාවාරමකට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු ඉන්දීය විමර්ශන ඒජන්සිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Indian authorities arrested a key suspect in a human trafficking ring targeting Sri Lankans in Tamil Nadu after a three-year investigation. The suspect, Sugar Abul Khan, allegedly lured Sri Lankans with false promises of Canadian jobs, leading to the exploitation of about 38 individuals. In June 2021, 13 were rescued, and several others involved in the racket have been apprehended.
 
-සීනි ආබුල් ඛාන් නම් වූ එම සැකකරු අත්අඩංගුවට ගැනීම සඳහා වසර තුනක පමණ කාලයක් ඉන්දීය පොලීසිය විමර්ශන  සිදුකර තිබු බව සඳහන් ය.
+🟩
 
-මෙම සැකකරු එල්ටිටිඊ සංවිධානය සමග සබඳතා පැවැත් වූ ඊසාන් නම් ශ්‍රී ලාංකිකයෙකු සමග එක්ව මෙම මිනිස් ජාවාරම සිදුකර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේය.
+Indian Investigation Agency has arrested a key suspect in connection with a human trafficking in Tamil Nadu targeting Sri Lankans.
 
-කැනඩාවේ රැකියා ලබාදෙන බවට ව්‍යාජ ප්‍රකාශ සිදුකර ශ්‍රී ලාංකිකයින් මුහුදු මාර්ගයෙන් තමිල්නාඩු ප්‍රාන්තයට රැගෙන විත් එහි විවිධ ස්ථානවල සිරකර තැබීම මොවුන් විසින් සිදුකර තිබුණි.
+The Indian police were investigated for about three years to arrest the suspect named Sugar Abul Khan.
 
-ශ්‍රී ලාංකිකයින් 38 දෙනෙකු පමණ මෙම ජාවාරමට ගොදුරුවි ඇති බව ඉන්දීය ජාතික විමර්ශන එජන්සියට තොරතුරු වාර්තා වී තිබේ.
+Indian media has reported that the human trafficking has been carried out with the Ettase of the suspect with the Elitorism.
 
-2021 වසරේ ජුනි මාසයේ දී එලෙස සිර කර තබාගෙන සිටි ශ්‍රී ලාංකිකයින් 13 දෙනෙකු තමිල්නාඩු පොලීසිය විසින් මුදාගැනීමට කටයුතු කළේය.
+They had taken Sri Lankans to the state of Tamil Nadu by sea, carrying out the pseudo-statements that Canada's jobs.
 
-...
+About 38 Sri Lankans have been victims of this smuggler.
+
+In June 2021, 13 Sri Lankans were rescued by the Tamil Nadu police.
+
+Several suspects involved in the racket have been arrested and the main suspect, who was hiding for three years, has been arrested in Ramanathan at Ramanathan yesterday (10).
+
+◼️
 
 [Data](articles/14156412.json)
+
+[Extended Data](ext_articles/14156412.ext.json)
 
 ---
 
@@ -89,6 +125,8 @@ Accordingly, he has made it clear that the Inland Revenue Department does not ta
 ...
 
 [Data](articles/f4207cea.json)
+
+[Extended Data](ext_articles/f4207cea.ext.json)
 
 ---
 
@@ -356,17 +394,23 @@ Nanayakkara had alleged that Digambaram had acted against the interests of estat
 
 ---
 
-### සජිත්ට සහය පලකරන්න සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ එක්වෙයි
+### Sajith's support Sudarsini Fernandopulle
 
 *2024-08-11 11:25:48* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-සහය-පලකරන්න-සුදර්ශිනී-ප්‍රනාන්‍දුපුල්ලේ-එක්වෙයි/11-411300) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දෙන බව  ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීනී වෛද්‍ය සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ මහත්මිය පැවසුවාය.
+Dr. Sudarsini Fernandopulle, Gampaha District MP, announced at a press conference in Colombo that Sajith Premadasa endorsed him in the presidential election.
 
-ඇය ​මේ බව පැවසුවේ අද (11) උදෑසන කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි
+🟩
+
+Ms. Sudarshini Fernandopulle, Gampaha District MP Dr. Sudarsini Fernandopulle, said that Sajith Premadasa supported Sajith Premadasa in the presidential election.
+
+She was speaking at a press conference held in Colombo this morning (11)
 
 ◼️
 
 [Data](articles/81e687e6.json)
+
+[Extended Data](ext_articles/81e687e6.ext.json)
 
 ---
 
@@ -2289,29 +2333,5 @@ The Chief Justice of the Bangladesh Supreme Court has agreed to resign.
 [Data](articles/7a0697b7.json)
 
 [Extended Data](ext_articles/7a0697b7.ext.json)
-
----
-
-### Sumanthiran and Namal discusses
-
-*2024-08-10 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199781) · `si`
-
-Sumanthiran and Namal met today with the Sri Lanka Civil Front's leaders to discuss the country's political situation. They plan to meet with the Ilangai Tamil Arasu Party soon.
-
-🟩
-
-TNA parliamentarian President's Counsel. A. A discussion was held this morning (10) this morning (10) a meeting between Presidential candidate on the Sri Lanka General Front.
-
-The General Secretary of the Sri Lanka Civil Front, General Secretary of the Sri Lanka Civil Appointment, has also participated in the meeting.
-
-It is reported that the current political situation has been discussed.
-
-Mr. Namal Rajapaksa said he expects to discuss with the Ilangai Tamil Arasu Party in the future.. A. Sumanthiran said.
-
-◼️
-
-[Data](articles/025dcf80.json)
-
-[Extended Data](ext_articles/025dcf80.ext.json)
 
 ---

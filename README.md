@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 10:36:11**
+As of **2024-08-11 10:54:42**
 
 ## Newspaper Stats
 
-*Scraped **40,069** Articles*
+*Scraped **40,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,79 @@ islandlk | 2,316
 economynextcom | 2,424
 dailyftlk | 2,581
 adalk | 3,675
-adaderanalk | 4,661
+adaderanalk | 4,662
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,064
-virakesarilk | 6,347
-adaderanasinhalalk | 6,808
+virakesarilk | 6,348
+adaderanasinhalalk | 6,811
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,068 (100.0%) of 40,069 articles have been extended.
+40,069 (100.0%) of 40,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
 
-### சஜித்துடன் இணைந்தார் சுதர்ஷினி
+### Dozens of Rohingya fleeing Myanmar killed in drone attack
+
+*2024-08-11 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101142/dozens-of-rohingya-fleeing-myanmar-killed-in-drone-attack) · `en`
+
+A drone attack on Rohingya fleeing Myanmar killed many dozens of people, including families with children, several witnesses said, describing survivors wandering between piles of bodies to identify dead and injured relatives.
+
+Four witnesses, activists and a diplomat described drone attacks on Monday that struck down families waiting to cross the border into neighbouring Bangladesh.
+
+A heavily pregnant woman and her 2-year-old daughter were among the victims in the attack, the single deadliest known assault on civilians in Rakhine state during recent weeks of fighting between junta troops and rebels.
+
+Three of the witnesses told Reuters on Friday that the Arakan Army was responsible, allegations the group denied. The militia and Myanmar’s military blamed each another. Reuters could not verify how many people had died in the attack or independently determine responsibility.
+
+...
+
+[Data](articles/fd0a0781.json)
+
+---
+
+### රාජසන්තක කළ අයි ෆෝන් සහ ලැප්ටොප්
+
+*2024-08-11 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199807) · `si`
+
+තීරු බදු නොගෙවා නීතිවිරෝධීව මෙරටට ගෙන ආ ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක තොගයක් රාජසන්තක කිරීමට නියෝජ්‍ය රේගු අධ්‍යක්ෂවරයා විසින් පියවර ගෙන තිබේ.
+
+ඊයේ (10) අලුයම 12.30ට පමණ ඩුබායි සිට මෙරටට පැමිණි ගුවන් මගීන් තිදෙනෙකු විසින් මෙම ජංගම දුරකථන සහ ලැප්ටොප් මෙරටට රැගෙනවිත් තිබුණි.
+
+මෙලෙස රැගෙනවිත් ඇත්තේ 'අයි ෆෝන්' 36ක් සහ ලැප්ටොප් පරිගණක 06කි.
+
+ඔවුන් සිය ගමන් මලු තුළ සඟවා මෙම ජංගම දුරකථන සහ පරිගණක පිටතට ගෙන යමින් සිටිය දී කටුනායක ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් ඔවුන්ව සිය භාරයට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගෙන තිබුණේ කොළඹ, දෙමටගොඩ ප්‍රදේශයේ පදිංචිකරුවන් තිදෙනකු බව සඳහන් ය.
+
+අත්අඩංගුවට පත් තිදෙනා වැඩිදුර විමර්ශන සඳහා කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබුණු අතර, එහිදී රේගු පරීක්ෂණයක් සිදුකිරීමෙන් පසු ජංගම දුරකථන සහ ලැප්ටොප් පරිගණක රාජසන්ත කිරීමට පියවර ගෙන තිබේ.
+
+තවද සැකකරුවන් තිදෙනාට රුපියල් ලක්ෂ 16ක දඩ මුදලක් ගෙවීමටත් නියෝජ්‍ය රේගු අධ්‍යක්ෂවරයා නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/f0813399.json)
+
+---
+
+### Sudarshini joined Sajith
 
 *2024-08-11 09:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சஜித்துடன்-இணைந்தார்-சுதர்ஷினி/95-341943) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் சுதர்ஷினி பெர்ணான்டோபிள்ளை, எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாஸவுக்கு, எதிர்வரும் ஜனாதிபதி தேர்தலில் ஆதரவளித்து, அவருடன் இணைந்து​கொண்டார்.
+Sudarshini Fernando Pillai, a parliamentarian from Sri Lanka's Gampaha district, has aligned with opposition leader Sajith Premadasa of the United People's Power for the upcoming presidential election.
+
+🟩
+
+Sudarshini Fernando Pillai, a Gampaha district parliamentarian of Sri Lanka PA, has joined the opposition leader Sajith Premadasa, the leader of the United People's Power, and joined him in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/96a82886.json)
+
+[Extended Data](ext_articles/96a82886.ext.json)
 
 ---
 
@@ -75,6 +123,20 @@ In addition, the crabs are dead on the beach for three to 4 kilometers.
 [Data](articles/c0521b20.json)
 
 [Extended Data](ext_articles/c0521b20.ext.json)
+
+---
+
+### සුදර්ශනීගේ සහාය සජිත්ට
+
+*2024-08-11 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199806) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම්පහ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීනී වෛද්‍ය සුදර්ශිනී ප්‍රනාන්‍දුපුල්ලේ මහත්මිය පැවසුවාය.
+
+ඇය ඒ බව පැවසුවේ අද (11) උදෑසන කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි.
+
+◼️
+
+[Data](articles/c2218653.json)
 
 ---
 
@@ -121,6 +183,44 @@ Earlier last week, Israel attacked 4 schools in Gaza. Two schools that operated 
 [Data](articles/176ad943.json)
 
 [Extended Data](ext_articles/176ad943.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் முடியும் வரை பாராளுமன்றம் கலைக்கப்படாது - அரசாங்கம்
+
+*2024-08-11 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190789) · `ta`
+
+ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற பெரும்பான்மையை குறித்து எழுந்துள்ள சர்ச்சைகளின் அடிப்படையில் பாராளுமன்றம் விரைவில் கலைக்கப்படலாம் என்று கருத்துக்கள் உளாவுகின்ற நிலையில், அதனை நிராகரித்துள்ள அரசாங்கம்  ஜனாதிபதி தேர்தல் முடியும் வரை பாராளுமன்றம் கலைக்கப்படாது என்று குறிப்பிட்டுள்ளது.
+
+ஆளும் கட்சிக்கு 113 என்ற பெரும்பான்மை இல்லை என்ற காரணத்தை அடிப்படையாக கொண்டு பிரதமருக்கு எதிரான நம்பிக்கையில்லா பிரேரனை முன்வைக்க பிரதான எதிர்க்கட்சி உட்பட எதிர்க்கட்சிகளின் கூட்டணி திட்டமிட்டிருந்தது. ஆனால் தற்போது ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோரின் பாராளுமன்ற உறுப்புரிமை இல்லாமள் போய், ஐக்கிய மக்கள் சக்திக்கு இரு ஆசனங்கள் அதிகரித்துள்ளன.
+
+ஆளும் கூட்டணி கட்சிகளின் பிரதான கட்சியான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பெரும்பாலான பாராளுமன்ற உறுப்பினர்கள் மற்றும் அமைச்சர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கின்றனர். இவ்வாறானதொரு நிலையில் பாராளுமன்றத்தில் பெரும்பான்மை யார் வசம் உள்ளது என்பதில் குழப்ப நிலை உருவாகியுள்ளது.
+
+...
+
+[Data](articles/bf623422.json)
+
+---
+
+### චමරි නැතිව අයර්ලන්තයට ගිය කාන්තා ක්‍රිකට් කණ්ඩායම
+
+*2024-08-11 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199805) · `si`
+
+සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ අයර්ලන්ත කාන්තා කණ්ඩායම අතර පැවැත්වෙන 20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය අද ආරම්භ වෙයි.
+
+තරග 02කින් සමන්විත තරගාවලියේ පළමු තරගය අද රාත්‍රී 08.30ට ඩබ්ලින් හී දී ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ අයර්ලන්ත තරග සංචාරය එක්දින ජාත්‍යන්තර තරග 03කින් ද සමන්විතය.
+
+අසියානු කුසලාන කාන්තා ක්‍රිකට් ශුරතාව හිමිකර ගැනීමෙන් පසු ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගාවලිය මෙය වෙයි.
+
+මෙම 20යි 20 තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ නායිකා චමරි අතපත්තු සහභාගී නොවෙයි.
+
+ඒ එංගලන්තයේ පැවැත්වෙන Women's Hundred තරගාවලියේ ඕවල් ඉන්වින්සිබල්ස් කණ්ඩායම වෙනුවෙන් ඇය ක්‍රීඩා කරන බැවිනි.
+
+◼️
+
+[Data](articles/6a662751.json)
 
 ---
 
@@ -2175,123 +2275,5 @@ A. 57 passengers and staff were from the air 72-500 and four passengers.
 [Data](articles/1458f4f2.json)
 
 [Extended Data](ext_articles/1458f4f2.ext.json)
-
----
-
-### 100 Palestinians killed in Israeli attack
-
-*2024-08-10 11:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-தாக்குதலில்-பலஸ்தீனர்கள்-100-பேர்-பரிதாப-பலி/50-341905) · `ta`
-
-An Israeli airstrike on a school in East Gaza's Taraj district resulted in 100 Palestinian deaths and over 50 injuries. The conflict between Israel and Hamas continues, with Israeli PM Netanyahu vowing to eliminate Hamas, leading to significant casualties on both sides.
-
-🟩
-
-More than 50 people were injured in an Israeli air strike on a school in East Gaza's Taraj district.
-
-Between the Western country of Israel and the Gaza region of Palestine, the ruling Hamas Organization. More than 30,000 people, including women and children, have been killed in an attack by Israeli forces in Gaza. Israeli Prime Minister Netanyahu has categorically stated that the war will continue until Hamas is abolished.
-
-In this case, 100 people were killed in an Israeli air strike on a school in East Gaza's Taraj district today (10). More than 50 people have been seriously injured and taken to hospital.
-
-Hamas soldiers accused the Israeli attack of a large number of people in the school.
-
-◼️
-
-[Data](articles/cd8c5879.json)
-
-[Extended Data](ext_articles/cd8c5879.ext.json)
-
----
-
-### Abducted child rescue in government hospital
-
-*2024-08-10 11:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-மருத்துவமனையில்-கடத்தப்பட்ட-குழந்தை-மீட்பு/175-341904) · `ta`
-
-A woman was arrested for abducting a newborn boy from Salem Government Hospital. The baby, born to the Thangadurai-Vanilla couple, was taken by a 25-year-old woman pretending to visit an eye specialist. CCTV footage led to her arrest, and she confessed to stealing the baby due to personal reasons.
-
-🟩
-
-The police have arrested a woman who abducted a baby boy for five days after being born at Salem Government Hospital.
-
-Further, the baby boy was born at the Salem Government Mohan Kumaramangalam Government Medical College Hospital six days ago for the Thangadurai - Vanilla couple from Pallipalayam area in Erode district.
-
-Yesterday, a 25 -year -old woman was taken to see an ophthalmologist claiming that the child's eyes were yellow, as a child was talking to Vanilla, who was receiving treatment at the maternity unit.
-
-Then he talked to the parents of the vanilla who came with him and diverted their attention and abducted the baby.. The Salem Government Hospital Police Station was conducting an intensive investigation on a complaint lodged by the parents.
-
-CCTV footage of this has caused a stir. The police were asked to report to the Salem Municipal Police Department immediately if the public was diagnosed with the mask.
-
-...
-
-[Data](articles/d22ed2bd.json)
-
-[Extended Data](ext_articles/d22ed2bd.ext.json)
-
----
-
-### 53,000 tourists visiting in 8 days
-
-*2024-08-10 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/190730) · `ta`
-
-From Aug 1st to 8th, 53,150 foreign tourists arrived, bringing the total to 1,252,209 visitors since the start of the year. In April-July, there were 131,000 tourists. The weekly average in August was 46,000, with a daily average of 6,600. Tourist numbers surged due to summer but sustaining this pace is uncertain due to visa issuance issues.
-
-🟩
-
-Accordingly, 53,150 foreign tourists arrive in eight days from the first to 8th of August.. In this case, the country has so far visited 1,252,209 tourists.
-
-In April, 35,000 people in April, 26,000 in May, 27,000 in June and 43,000 in July.
-
-The weekly average arrival in August is 46,000 and the daily arrival is 6,600.
-
-Tourist arrivals increased due to summer in August. However, it is questionable whether this speed can be retained for the coming weeks and months due to the problems of issuing a tourist and visa visa.
-
-◼️
-
-[Data](articles/0ebdc219.json)
-
-[Extended Data](ext_articles/0ebdc219.ext.json)
-
----
-
-### Whoever set up governments is enough;Samantha Vidyaratne
-
-*2024-08-10 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யார்யாருக்கோ-அரசாங்கங்களை-அமைத்தது-போதும்-சமந்த-வித்யாரத்ன/175-341903) · `ta`
-
-Samantha Vidyaratne, a National People's Power member, emphasizes the importance of setting up a government for the public good, highlighting past failures and calling for a shift towards genuine public rule. She criticizes the previous attempts to manipulate elections and urges for a collective effort to overcome challenges. The speech touches on various issues like corruption, the need for political understanding among the masses, and the potential for significant change through unity and proper leadership.
-
-🟩
-
-Whoever set up governments enough. The National People's Power National Executive Member Samantha Vidyaratne said that the government should now be set up.
-
-First of all, I urge all of us to work successfully in the future to suffer for 76 years of suffering. Ranil and Rajapaksa's security rings set up to prevent this presidential election and we are going to set up the real rule of the public on September 21st.. It is enough for anyone to set up governments. Now to set up a government for the public. After that victory, the child's participation is being put in place. Like the parties that destroyed this country, the leaders have split into a fragmentation.
-
-...
-
-[Data](articles/d991cb15.json)
-
-[Extended Data](ext_articles/d991cb15.ext.json)
-
----
-
-### Emergency Notice within Russia's Coorgs
-
-*2024-08-10 11:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-கூர்க்ஸுக்குள்-அவசர-நிலை-அறிவிப்பு/50-341902) · `ta`
-
-An emergency has been declared in Russia's Coorgs region due to Ukrainian troops' entry. The conflict, ongoing since 2022, intensified with recent Ukrainian assaults, leading to a state of emergency. Despite initial aggression from Putin's forces, Gelanciesi's army, armed with Western weaponry, launched counterattacks. Approximately 1,000 Ukrainian soldiers, equipped with artillery and armored vehicles, invaded the region, forcing evacuations and declarations of a national emergency. The Russian Defense Ministry reported success against the Ukrainian assault, with reinforcements and increased firepower dispatched to the area. Over the past day, 280 Ukrainian soldiers were reportedly killed.
-
-🟩
-
-Emergency has been declared in the region as Ukrainian soldiers are entering the Russian border region, Coorks.
-
-The war between Ukraine and Russia has been going on for almost 3 years. On February 24, 2022, Russia carried out its attacks in the name of special military operations.
-
-Life and possession of Ukraine continued to increase in Ukraine by a series of attacks on Russia. Initially Putin's forces were aggressive. Gelanciesi's army then carried out opposition attacks with the help of Western weapons and shocked Russia.
-
-In this context, about 1,000 Ukrainian soldiers have recently entered with artillery and armored vehicles into the Russian border region, and Ukrainian soldiers have been attacking there for four days.. Because of this, people in the area have been sent to a safe place. Also, the state of emergency has been declared in the region.
-
-...
-
-[Data](articles/9b3cf45f.json)
-
-[Extended Data](ext_articles/9b3cf45f.ext.json)
 
 ---

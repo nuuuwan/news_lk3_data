@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 22:54:13**
+As of **2024-08-11 23:06:19**
 
 ## Newspaper Stats
 
-*Scraped **40,151** Articles*
+*Scraped **40,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,318
 economynextcom | 2,425
 dailyftlk | 2,581
 adalk | 3,685
-adaderanalk | 4,674
+adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
 virakesarilk | 6,367
@@ -26,11 +26,51 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,151 (100.0%) of 40,151 articles have been extended.
+40,151 (100.0%) of 40,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-11 (Sunday)
+
+### United States top medals table at end of Paris Olympics
+
+*2024-08-11 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101159/united-states-top-medals-table-at-end-of-paris-olympics) · `en`
+
+(Reuters) - The United States topped the medals table at the Paris Olympics with 40 golds after the final title was decided on Sunday, finishing above China only by virtue of their 44 silvers.
+
+China, who were the last team apart from the U.S. to top the standings when they did it on home soil at the 2008 Beijing Games, also won 40 golds but managed only 27 silvers.
+
+The U.S. women’s basketball team secured their country’s pre-eminence by edging host nation France in a breathless finish to win the final gold of the Games. The U.S. also won most total medals with 126 to China’s 91.
+
+France won 16 golds to finish fifth on the table and their total tally of 64 medals was their best for more than a century.
+
+◼️
+
+[Data](articles/c9155eef.json)
+
+---
+
+### EU and Commonwealth election observers to monitor prez poll
+
+*2024-08-11 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101158/eu-and-commonwealth-election-observers-to-monitor-prez-poll) · `en`
+
+The Election Commission has granted permission to international observers to monitor the 2024 Presidential Election.
+
+The Chairman of the Election Commission R.M.A.L. Ratnayake stated that election observers from the European Union (EU) and the Commonwealth have been authorized to monitor the poll.
+
+He said permission has been granted according to a request made by those associations.
+
+Accordingly, it is reported that the election observation teams of the European Union and the Commonwealth are scheduled to visit the island in the coming days.
+
+Meanwhile, the Minister of State for Finance Ranjith Siyambalapitiya says that the money allocated for the upcoming presidential election is sufficient.
+
+The Minister of State points out that even if there are more candidates, it will not be a problem for the presidential election.
+
+◼️
+
+[Data](articles/15bcebdc.json)
+
+---
 
 ### Contested
 
@@ -2301,43 +2341,5 @@ The “Sinha Rave” campaign, shortlisted for the Mob-Ex Awards, was an outcome
 [Data](articles/b5d37874.json)
 
 [Extended Data](ext_articles/b5d37874.ext.json)
-
----
-
-### US strengthens partnership with Lanka through additional $24.5 Mn development agreement
-
-*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/us-strengthens-partnership-with-lanka-through-additional-24-5-mn-development-agreement/) · `en`
-
-The US Embassy in Colombo Friday announced an additional commitment of US $24.5 million (Rs 7.2 billion) from the American people to further our long-standing investment in the people of Sri Lanka and our partnership. The additional funding was announced during a visit to Sri Lanka by the U.S. Agency for International Development’s (USAID) Assistant Administrator of the Bureau for Asia Michael Schiffer at an event at the Ministry of Finance. USAID Sri Lanka and Maldives Mission Director Gabriel Grau also participated in Friday’s ceremony alongside State Minister of Finance Shehan Semasinghe.
-
-...
-
-[Data](articles/ef99aa1f.json)
-
-[Extended Data](ext_articles/ef99aa1f.ext.json)
-
----
-
-### Talik Flag that caused controversy - temple administration report
-
-*2024-08-11 00:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சையை-ஏற்படுத்திய-தாலிக்-கொடி-ஆலய-நிர்வாகம்-அறிக்கை/175-341933) · `ta`
-
-Controversy arose as the Trincomalee temple administration denied a reported theft of a valuable golden talisman. Despite claims of its disappearance, officials insist it hasn't gone missing, contradicting statements from the temple staff council secretary who confirmed its loss but later claimed recovery.
-
-🟩
-
-The temple administration has refused to report that a golden talisman worth several crores of rupees has been robbed at the Trincomalee - Trincomalee temple.
-
-It is said that the disappearance of gold tali worth several crores of rupees is untrue.
-
-However, the secretary of the Trincomalee Temple Staff Council told a media that the talisman, which weighs 3 1/4 pounds, which was purchased by the temple in 2010, have disappeared.
-
-He also noted that the clergy of the temple have been assured that the missing thali and the flag weighing 3 1/4 pounds of disappearances have been recovered.. Remble
-
-◼️
-
-[Data](articles/9782ea2a.json)
-
-[Extended Data](ext_articles/9782ea2a.ext.json)
 
 ---

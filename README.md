@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 09:36:37**
+As of **2024-08-11 09:55:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,062 (100.0%) of 40,063 articles have been extended.
+40,063 (100.0%) of 40,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,23 +222,35 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ගාල්ල නාගරික පරිසරයෙන් හමුවූ නිශාචර ඒකදේශීය මිරිදිය කකුළුවා
+### Number of freshwater crab found in Galle Municipal Environment
 
 *2024-08-11 03:03:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl7y792xgxeo) · `si`
 
-දැඩි ලෙස වඳ වී යාමේ තර්ජනයට ලක්ව ඇති ඒකදේශීය මිරිදිය කකුළු විශේෂයක් වන Pastilla ruhuna (පැස්ටිලා රුහුණ) නම් මිරිදිය කකුළු විශේෂය පළමු වරට ගාල්ල නගරය ආශ්‍රිත පරිසරයෙන් හමුව ඇති බව පර්යේෂකයෙකු හා ශ්‍රි ලංකා කැස්බෑ සංරක්ෂණ ව්‍යාපෘතියේ අධ්‍යාපන නිලධාරීයෙකු වන ක්‍රිෂාන් වේවැල්වල පවසයි.
+In Galle, researchers discovered a unique freshwater crab species, Pastilla Ruhuna, the first of its kind found in inland waters. Identified by Prof. Peter K.L. Ng in 2001, it's part of a monotypic genus, making it distinct globally. Initially found in two locations within the Galle District, including an urban area, its population has significantly declined over the past decade, with concerns about its survival due to environmental degradation. Despite its sensitivity to vibrations and nocturnal habits, this species stands out for its unique characteristics, including its habitat preference for shallow freshwater areas. With 52 freshwater crab species in Sri Lanka, 51 of which are endemic, the discovery of Pastilla Ruhuna highlights the importance of conservation efforts to preserve biodiversity.
 
-Pastilla ruhuna මෙම මිරිදිය කකුළු විශේෂය 2001 දී සිංගප්පූරු ජාතික විශ්ව විද්‍යාලයේ මහාචාර්ය පීටර් කේ.එල්. නග් (Peter K. L. Ng ) සහ ෆ්‍රැන්සිස් ඩබ්ලිව්.එම්. ජේ (Francis W. M.Jay ) විසින් විද්‍යාත්මකව විස්තර කරන ලද විශේෂයක් බව ඔහු සඳහන් කළේය.
+🟩
 
-මෙම ගණයේ දැනට ලෝකයේ වාර්තා වන්නේ මෙම විශේෂය පමණක් බැවින් ඒකදේශීය ගණයක් (Monotypic Genera) ලෙසද හඳුන්වයි.
+Krishan Wewel, a researcher and the Sri Lanka Turtle Conservation Project, a researcher and the Sri Lanka Turtle Conservation Project, is the first inland inland freshwater clumb, is the first inland freshwater crab species.
 
-මෙම කකුළුවා මුලින්ම ගාල්ල දිස්ත්‍රික්කයේ රක්ෂිත ස්ථාන දෙකකින් හමුවු අතර ඉතාම කාර්යබහුල නාගරික පරිසරයකින් හමුවු පළමු අවස්ථාව මෙය බවද ක්‍රිෂාන් වේවැල්වල පැවසීය.
+Pastilla Ruhuna This freshwater crab species Prof. Peter K.L at Singapore National University in 2001. Nag (Peter K. L. Ng) and Francis WM. J (FRANCIS W. He said that M.Jay was scientifically described by a species.
 
-පර්යෙෂකයෙකු මෙන්ම සංරක්ෂණවේදියෙකු වන ක්‍රිෂාන් වේවැල්වල සහ ලංකාවේ මෙන්ම ඉන්දියාවේද මිරිදිය කකුළුවන් පිළිබඳ විද්වතෙකු වන එම්.එම් බාහිර් විසින් මෙම කකුළුවා ගාල්ල නගරය ආශ්‍රිත නාගරික පරිසරයෙන් සොයාගෙන තිබේ.
+Since this species is currently reported in the world, it is known as a monotypic genera.
+
+The Crab was first found in two remains in the Galle District and the first time in a busy urban environment, he said.
+
+MM Bakes, a preference, and in Sri Lanka, in Sri Lanka, MM baker has seized the urban environment in Galle town.
+
+The Cabinet has been reported from Karapitiya, Galle, a urban area.
+
+However, about 10 years ago, this species has fallen to four dwells today.
+
+He said that the crow was still extinct from one place in one place.
 
 ...
 
 [Data](articles/b44d74f5.json)
+
+[Extended Data](ext_articles/b44d74f5.ext.json)
 
 ---
 

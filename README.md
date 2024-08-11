@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-11 23:06:19**
+As of **2024-08-11 23:20:43**
 
 ## Newspaper Stats
 
-*Scraped **40,153** Articles*
+*Scraped **40,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,075
-virakesarilk | 6,367
+virakesarilk | 6,368
 adaderanasinhalalk | 6,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,151 (100.0%) of 40,153 articles have been extended.
+40,153 (100.0%) of 40,154 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ France won 16 golds to finish fifth on the table and their total tally of 64 med
 ◼️
 
 [Data](articles/c9155eef.json)
+
+[Extended Data](ext_articles/c9155eef.ext.json)
 
 ---
 
@@ -69,6 +71,30 @@ The Minister of State points out that even if there are more candidates, it will
 ◼️
 
 [Data](articles/15bcebdc.json)
+
+[Extended Data](ext_articles/15bcebdc.ext.json)
+
+---
+
+### பிரதான கழகங்கள் 50 ஓவர் கிரிக்கெட்: அஷானின் அபார துடுப்பாட்டத்தால் ஏஸ் சிசிசி சம்பியனானது; இசுறு உதானவின் அதிரடி வீண்போனது
+
+*2024-08-11 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190844) · `ta`
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்ட இந்த வருடத்திற்கான பிரதான கழகங்களுக்கு (Major Club 50 Over Cricket) இடையிலான 50 ஓவர் கிரிக்கெட் போட்டியில் ஏஸ் கெப்பிட்டல் கழகம் சம்பியன் பட்டத்தை சூடியது.
+
+கொழும்பு கிரிக்கெட் கழகத்திற்கு (சிசிசி) எதிராக ஞாயிற்றுக்கிழமை (11) நடைபெற்ற இறுதிப் போட்டியில் சம்மு அஷான் குவித்த ஆட்டம் இழக்காத அரைச் சதத்தின் உதவியுடன் 4 விக்கெட்களால் ஏஸ் கெப்பிட்டல் கழகம் வெற்றிபெற்று சம்பியனானது.
+
+அப் போட்டியில் சிசிசியினால் நிர்ணயிக்கப்பட்ட 252 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய ஏஸ் கெப்பிட்டல் கழகம் 49 ஓவர்களில் 6 விக்கெட்களை இழந்து 254 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+ஏஸ் கெப்பிட்டல் கிரிக்கெட் கழகத்தின் முதல் இரண்டு வீரர்கள் ஓட்டம் பெறாமல் ஆட்டம் இழந்தனர்.
+
+எனினும் அணித் தலைவர் தனூக்க தாபரேயும் ரவீன் டி சில்வாவும் 3ஆவது விக்கெட்டில் 59 ஓட்டங்களைப் பகிர்ந்து அணிக்கு பலம் சேர்த்தனர்.
+
+தனூக்க 48 ஓட்டங்களுடன் ஆட்டம் இழந்த பின்னர் ரவீன் டி சில்வாவும் சம்மு அஷானும் 4ஆவது விக்கெட்டில் 80 ஓட்டங்களைப் பகிர்ந்து அணிக்கு நம்பிக்கை ஊட்டினர்.
+
+...
+
+[Data](articles/832a6bb9.json)
 
 ---
 
@@ -2325,21 +2351,5 @@ Lavanya Travels Pvt. Ltd. has won the Best Outbound Tour Organiser at the presti
 [Data](articles/26625d22.json)
 
 [Extended Data](ext_articles/26625d22.ext.json)
-
----
-
-### HNB Assurance Finalist at Mob-Ex and The Drum Awards
-
-*2024-08-11 00:39:00* · [`islandlk`](http://island.lk/hnb-assurance-finalist-at-mob-ex-and-the-drum-awards/) · `en`
-
-HNB Assurance has been selected as a finalist in two prestigious international awards: The Mob-Ex Awards and The Drum Awards. The company’s innovative campaigns, “Sinha Rave” and “Dola Duka Delivery,” have earned recognition on a global stage, competing alongside top international brands.
-
-The “Sinha Rave” campaign, shortlisted for the Mob-Ex Awards, was an outcome of HNB Assurance’s adoption of mobile marketing to drive better customer engagement. This campaign demonstrated exceptional creativity and effectiveness in engaging customers through the use of an AR filter. Further this campaign successfully leveraged on the highly talked-about 2023 Cricket World Cup, with the company gaining high brand visibility and customer interaction on social media.
-
-...
-
-[Data](articles/b5d37874.json)
-
-[Extended Data](ext_articles/b5d37874.ext.json)
 
 ---

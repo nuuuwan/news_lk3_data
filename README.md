@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 16:09:03**
+As of **2024-08-12 16:21:12**
 
 ## Newspaper Stats
 
-*Scraped **40,303** Articles*
+*Scraped **40,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,111 @@ islandlk | 2,331
 economynextcom | 2,437
 dailyftlk | 2,593
 adalk | 3,700
-adaderanalk | 4,695
+adaderanalk | 4,696
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,110
 virakesarilk | 6,385
-adaderanasinhalalk | 6,853
+adaderanasinhalalk | 6,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,300 (100.0%) of 40,303 articles have been extended.
+40,303 (100.0%) of 40,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### நிவாரணம் வழங்க உடனடி நடவ​டிக்கை
+### මීරිගම මාරක අනතුරක් - 3ක් මරුට
+
+*2024-08-12 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199857) · `si`
+
+කොළඹ - නුවර මාර්ගයේ වේවැල්දෙණිය හංදියේ දී අද (12) සවස සිදුවු මාරක අනතුරකින් දරුවෙකු ඇතුළු තිදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, නවතා තිබූ ලොරි රථයක පිටුපසින් පැමිණි ත්‍රිරෝද රථයක් ගැටී අනතුර සිදුව ඇති බවය.
+
+◼️
+
+[Data](articles/c473dc62.json)
+
+---
+
+### ඊශ්‍රායලය ප්‍රහාරයකට මුහුණදීමට සැරසෙයි
+
+*2024-08-12 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199856) · `si`
+
+ඉරානය ඊශ්‍රායලය ට විශාල හමුදා ප්‍රහාරයක් සඳහා සැරසෙමින් සිටින බව ඊශ්‍රායල ආරක්ෂක අමාත්‍ය යෝආව් ගැලන්ට් අමෙරිකානු ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් ට දැනුම් දී තිබේ.
+
+ඔහු ඒ බව දැනුම්දී දී ඇත්තේ දුරකථන ඇමතුමකින් බව විදෙස් මාධ්‍ය පවසයි.
+
+එහිදී ඉරානය ප්‍රහාරයකට මුහුණදීම සඳහා ඊශ්‍රායල හමුදාවේ සූදානම සම්බන්ධයෙන් ඔවුන් දෙදෙනා අදහස් හුවමාරු කරගෙන තිබුණි.
+
+◼️
+
+[Data](articles/5b02d210.json)
+
+---
+
+### Wimal files case against two immigration officers seeking Rs. 1 billion in damages
+
+*2024-08-12 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101179/wimal-files-case-against-two-immigration-officers-seeking-rs-1-billion-in-damages) · `en`
+
+MP Wimal Weerawansa has filed a case against two officers of the Immigration and Emigration Department before the Colombo District Court seeking Rs. 1,000 million as compensation for alleged defamation.
+
+The former minister says he was arrested under the Immigration and Emigration Act for no reason during the previous ‘Yahapalana’ (good governance) government and a case was filed before the Negombo Magistrate’s Court, and that this had harmed his reputation.
+
+In this case which was filed today (12), the authorized officer of the Immigration and Emigration Department Eranga Rambukwella, senior authorized officer Sujeewa Rathnayake and the Attorney General have been named as respondents.
+
+In 2015, Weerawansa was accused of using an expired passport to fly abroad while the MP was preparing to travel to Europe for a series of lectures, following an invitation from Sri Lankan expatriates in Dubai and Italy.
+
+...
+
+[Data](articles/6e618763.json)
+
+---
+
+### Instant Conduct Tik to provide relief
 
 *2024-08-12 15:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-உடனடி-நடவ-டிக்கை/175-342036) · `ta`
 
-சிறு போக விவசாயத்தின் பாதிப்புக்கள் தொடர்பான அறிக்கைகளை வழங்குமாறு விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர விவசாயத் திணைக்களத்திற்கு ஆலோசனை வழங்கியுள்ளார்.
+Mahinda Amaraweera, the Minister of Agriculture and Plantation Industries, has directed the Agriculture Department to report on small agriculture impacts. He also instructed the Agricultural and Agrarian Insurance Board to offer relief to registered minority areas, ensuring quick assistance post-harvest. The board estimates that this season's minor crop will cover 480,000 hectares of paddy, with 77% being regular paddy, 11% samba paddy, and 12% scratch samba.
 
-அதன்படி சிறுபோகத்தில் விவசாயப் பாதிக்கப்புக்கள் பதிவு செய்யப்பட்ட பிரதேசங்களுக்கு அதற்கான நிவாரணங்களை வழங்குவதற்கு நடவடிக்கை எடுத்ததாக அமைச்சர் விவசாய மற்றும் கமநலக் காப்புறுதிச் சபைக்கு பணிப்புரை விடுத்தார்.
+🟩
 
-அதிகமான பிரதேசங்களில் இன்னும் விரைவில் அறுவடை இடம்பெறுவதாகவும், அறுவடை முடிந்ததும் உடனடியாக விவசாயப் பாதிப்பிற்கான கொடுப்பனவை வழங்குவதற்கு விவசாய மற்றும் கமநல காப்புறுதிச் சபை நடவடிக்கை எடுத்துள்ளது.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera has advised the Agriculture Department to submit reports on the impact of small agriculture.
 
-இம்முறை சிறுபோகத்தில் உற்பத்தி செய்யப்பட்ட சகல வயல்களும் 480,000 ஹெக்டயரில் 20இலட்சம் மெட்ரிக் தொன் நெல் அறுவடை கிடைக்கும் என மதிப்பிடப்பட்டிருந்தது.
+Accordingly, the Minister has issued a directive to the Agricultural and Agrarian Insurance Board that steps have been taken to provide relief to registered areas registered in the minority.
 
-அறுவடை செய்யப்பட்ட மொத்த நெல் உற்பத்தியில் 77 வீதமானவை நாட்டு நெல் வகைகளும், 11வீதம் சம்பா நெல் என்றும், 12 வீதம் கீறி சம்பா என்பதும் குறிப்பிடத்தக்கது.
+The Agricultural and Agrarian Insurance Board has taken steps to provide the harvest in the area soon and that the harvest is over immediately after the harvest is over.
+
+It was estimated that all the fields produced in the minor this time would be available in 480,000 hectares of paddy.
+
+It is noteworthy that 77 percent of the total harvested total paddy production is paddy, 11 percent of samba paddy and 12 % scratch samba.
 
 ◼️
 
 [Data](articles/229b9705.json)
 
+[Extended Data](ext_articles/229b9705.ext.json)
+
 ---
 
-### வேவல்தெனிய விபத்தில் மூவர் பலி: மூவர் காயம்
+### Three killed in accident
 
 *2024-08-12 15:41:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேவல்தெனிய-விபத்தில்-மூவர்-பலி-மூவர்-காயம்/175-342035) · `ta`
 
-வறக்காபொல ​வேவல்தெனிய பிரதேசத்தில் இன்று (12) பகல் இடம்பெற்ற வாகன விபத்தில், மூவர் பலியானதுடன், மூவர் படுகாயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+In a tragic accident in Vekapola Vewaldeniya, three died and three were injured during the day.
+
+🟩
+
+Three persons were killed and three were injured in a daytime vehicle accident in the Vekapola Vewaldeniya area today (12), police said.
 
 ◼️
 
 [Data](articles/9ecdbc36.json)
+
+[Extended Data](ext_articles/9ecdbc36.ext.json)
 
 ---
 
@@ -784,19 +844,31 @@ It is said that the Principal Principal and the disciplinary committee had also 
 
 ---
 
-### කටුනායක ගුවන් ‌තොටේ දිගු පෝලිම්
+### Long Queue at Katunayake Airport
 
 *2024-08-12 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්-‌තොටේ-දිගු-පෝලිම්/11-411321) · `si`
 
-ශ්‍රී ලංකාවට පැමිණෙන විදේශීය සංචාරකයන් ඇතුළු අනෙකුත් පුද්ගලයන්ට මාර්ගගත ක්‍රමයට ( Online Visa ) වීසා නිකුත් කිරීම   සිදු නොවීම නිසා, කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ ලබා ගන්නා වීසා (On Arrivel Visa ) ලබා ගැනීම සදහා දිගු පෝලිම් කටුනායක ගුවන් තොටුපොළ තුළ  ක්‍රමිකව ඇති වෙමින් පවතී.
+Katunayake Airport faces long queues for foreign tourists due to delays in implementing an online visa system post-Supreme Court orders. Despite starting tourism in August, especially for events like the Kandy Esala Perahera, issues persist with numerous flights arriving simultaneously.
 
-ශ්‍රේෂ්ඨාධිකරණය මගින් ඉකුත් 08/02 දින නිකුත් කළ නියෝගයක් අනුව ශ්‍රී ලංකාවට පිවිසීමට වීසා නිකුත් කිරීමේ කටයුතු වලින් වී.එෆ්.එස්.ග්ලෝබල් සමාගම ඉවත් කිරීමට සහ ගුවන් තොටුපොළ තුළ පැරණි ක්‍රමයට සාමාන්‍ය පරිදි වීසා නිකුත් කිරීම සිදු කරන ලෙස ද නියෝග නිකුත් කර තිබුණි .
+🟩
 
-එහෙත් රජය සහ ආගමන විගමන දෙපාර්තමේන්තුව මේ දක්වා පැරණි ක්‍රමයට සාමාන්‍ය පරිදි මාර්ගගත ක්‍රමයට වීසා ( Online Visa ) නිකුත් කිරීම ආරම්භ කර නොමැති නිසා මේ ආකාරයට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ වීසා ( On Arrivel Visa ) ලබා ගැනීම සදහා දිගු පෝලිම් ඇති වී තිබේ .
+For foreign tourists, including foreign tourists and other people to Sri Lanka, the long queue is gradually at the Katunayake Airport.
 
-...
+The Supreme Court has issued orders to remove the VF.S.Lobel to enter Sri Lanka on 22/02.
+
+However, the demise and Immigration and Emigration Department has not started the ancient system to the ONLINE VISA to the Katunayake airport has come to the Katunayake airport.
+
+With the Supreme Court order, the attachment of the online system of work has been impressed by the opening of Sri Lanka and receive a arriver visa.
+
+Sri Lanka's tourism has begun since August, especially foreign tourists, in the Katunayaka airport, especially the Kandy Esala Perahera.
+
+They have been constantly embarrassed due to a large number of aircrafts to the Katunayake airport and the aircraft at the same time.
+
+◼️
 
 [Data](articles/6e16c871.json)
+
+[Extended Data](ext_articles/6e16c871.ext.json)
 
 ---
 
@@ -2185,75 +2257,5 @@ The general  public is kindly requested to take adequate precautions to minimiz
 [Data](articles/aebd139a.json)
 
 [Extended Data](ext_articles/aebd139a.ext.json)
-
----
-
-### Seetha comes to Perahera
-
-*2024-08-12 07:50:20* · [`adalk`](https://www.ada.lk/breaking_news/සීතා-නුවර-පෙරහරට-එයි/11-411312) · `si`
-
-Seetha, healed at Mahiyangana, moved to Kandy. Last year's Mahiyangana temple procession ended in a shooting controversy.
-
-🟩
-
-The Seetha who was in severely recovered from the Mahiyangana Raja Maha Viharaya was recovered to Kandy after healing.
-
-After the completion of the Perahera of Mahiyangana Rajama Temple last year, a person was shot and was a great controversial incident.
-
-◼️
-
-[Data](articles/ce5830e8.json)
-
-[Extended Data](ext_articles/ce5830e8.ext.json)
-
----
-
-### Youth collides a train
-
-*2024-08-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199836) · `si`
-
-A fatal train accident occurred near Pilimatalawa and Koanger Railway Stations, killing a 35-year-old man. The Peradeniya Police are investigating.
-
-🟩
-
-A person was killed and killed by a train that was traveling from Colombo to Badulla.
-
-The Peradeniya Police have also launched an investigation into the accident at the area between Pilimatalawa and Koanger Railway Stations.
-
-The deceased is a 35 year old person and four feet of height, police said.
-
-The body has been placed at the Peradeniya hospital morgue and Peradeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/780ddbdd.json)
-
-[Extended Data](ext_articles/780ddbdd.ext.json)
-
----
-
-### Will the strike of the Grama Niladhari strike affect the presidential election?
-
-*2024-08-12 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199834) · `si`
-
-The Grama Niladhari strike may impact the presidential election as the community plans a two-day duty removal and a week-long protest. However, the Elections Commission assures no issues with discussing election functions. The situation remains uncertain due to conflicting statements.
-
-🟩
-
-The Elections Commission says that the Grama Niladhari UPFA UPFA has agreed to discuss all the functions of the presidential election without problems.
-
-The President of the Election Commission Chairman of the Election of the Election Commission Mr. RMA Mr. RMA Mr. RM VL Ratnaky has said this from the Presidential election.
-
-However, the GCC community says that today (12) and tomorrow (13) will be removed from all duties and will also launch a weekly protest week.
-
-The Alliance Samaja Chairman Nandana Ranasinghe said that the trade union action would be taken due to the non-section of the service of the Grama Niladhari.
-
-He further stated that he is engaged in a silent protest in front of the Ministry of Public Administration this morning.
-
-◼️
-
-[Data](articles/8ecbd6da.json)
-
-[Extended Data](ext_articles/8ecbd6da.ext.json)
 
 ---

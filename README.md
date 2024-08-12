@@ -1,64 +1,112 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 13:07:42**
+As of **2024-08-12 13:21:02**
 
 ## Newspaper Stats
 
-*Scraped **40,258** Articles*
+*Scraped **40,268** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 345
+dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 376
 colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,431
 dailyftlk | 2,593
-adalk | 3,693
+adalk | 3,694
 adaderanalk | 4,688
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
-virakesarilk | 6,377
+virakesarilk | 6,385
 adaderanasinhalalk | 6,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,256 (100.0%) of 40,258 articles have been extended.
+40,258 (100.0%) of 40,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### நீதி அமைச்சராக அலி சப்ரி
+### ஜனாதிபதி தேர்தல் மூலம் மீண்டும் அரசியலில் தலைதூக்க முயலும் ராஜபக்ஷ குடும்பம் - மிகக் கடினமான சூழலில் நாமல்
+
+*2024-08-12 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190855) · `ta`
+
+இலங்கை 2022ம் ஆண்டின் மிகமோசமான நாட்டை முடக்கிய பொருளாதார நெருக்கடியின் பின்னர் முதலாவது தேர்தலை எதிர்கொள்ள தயாராகும்வேளையில் ராஜபக்ச குடும்பம் அதன் அரசியல் வாரிசினை அறிவித்துள்ளது.
+
+பல அரசியல் ஆய்வாளர்கள் இதனை அந்த குடும்பத்தின் அரசியல் மறுபிரவேச முயற்சியாக கருதுகின்றனர்.
+
+இந்த வாரம் ராஜபக்சாக்கள் தலைமையிலான ஸ்ரீலங்கா பொதுஜனபெரமுன யுத்தகால தலைவர் மகிந்த ராஜபக்சவின் 38 வயது மகன் நாமல் ராஜபக்சவை செப்டம்பர் 21ம் திகதி ஜனாதிபதி தேர்தலிற்கான வேட்பாளராக அறிவித்;தது.
+
+2022 போராட்டக்காரர்கள் கோரிய இளம் தலைவர் என அவரது தந்தையால் வர்ணிக்கப்பட்ட நாமல்ராஜபக்சவிற்கு மிகவும் கடினமான ஒரு பணி காத்திருக்கின்றது என்கின்றனர் அரசியல் ஆய்வாளர்கள்.
+
+பிரிவினைவாத விடுதலைப்புலிகளுடனானமூன்று தசாப்தகால உள்நாட்டு யுத்தத்தின் இறுதிதருணங்களில் இந்த குடும்பம் முன்னணிக்கு வந்தது – பிரபலமானது.
+
+2009 இல் இலங்கை இராணுவத்தின் வெற்றியை தொடர்ந்து இவர்கள் யுத்தவீரர்கள் என அழைக்கப்பட்டனர் குறிப்பாக இலங்கையின் பெரும்பான்மை சமூகத்தினால்.
+
+...
+
+[Data](articles/faa76187.json)
+
+---
+
+### Ali Sabri as Minister of Justice
 
 *2024-08-12 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-அமைச்சராக-அலி-சப்ரி/175-342028) · `ta`
 
-வெளிவிவகார அமைச்சர் அலி சப்ரி, நீதி அமைச்சராக பதவி பிரமாணம் செய்து கொண்டுள்ளார்.
+Ali Sabri, previously External Affairs Minister, is now the Minister of Justice following Vijayadasa Rajapakse's resignation to run for president.
 
-நீதி அமைச்சராக பதவி வகித்த விஜயதாச ராஜபக்ச, ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக அந்த அமைச்சுப் பதவியை அண்மையில் இராஜினாமா செய்தார் என்பது குறிப்பிடத்தக்கது .
+🟩
+
+External Affairs Minister Ali Sabri has been sworn in as the Minister of Justice.
+
+It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, recently resigned from the post of Ministry to contest the presidential election.
 
 ◼️
 
 [Data](articles/32365bf6.json)
 
+[Extended Data](ext_articles/32365bf6.ext.json)
+
 ---
 
-### சின்னங்களில் பானும், பலாப்பழமும் உள்ளது
+### நீதி அமைச்சராக பதவியேற்றார் அலிசப்ரி
+
+*2024-08-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190882) · `ta`
+
+நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சராக வெளிவிவகார அமைச்சர் அலி சப்ரி இன்று திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+முன்னாள் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷவின் இராஜினாமா செய்ததை அடுத்து ஜனாதிபதியின் கீழ் நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு ஆகிய அமைச்சுக்களை உள்ளடக்கிய அதிவிசேட வர்த்தமானி கடந்த வாரம் வெளியிடப்பட்டது.
+
+◼️
+
+[Data](articles/5f087ddd.json)
+
+---
+
+### The symbols have a pot and a fruit
 
 *2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சின்னங்களில்-பானும்-பலாப்பழமும்-உள்ளது/175-342027) · `ta`
 
-அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களுக்கு தேர்தல்கள் ஆணைக்குழுவினால் சின்னங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+The Elections Commission introduced 196 symbols, including 28 animal symbols and various objects like fruits, vegetables, tools, and household items, for recognized political parties and independent groups.
 
-கொக்லேட், பாண், கேக், டோஃபி, திராட்சை கொத்து, பழக்கூடை, கேரட், ஐஸ்கிரீம், சோளம், வட்டக்காய், முந்திரி பருப்பு,  ஆப்பிள் பழம், பலாப்பழம், மாம்பழம், ஜம்பு பழம், அன்னாசி பழம், தேங்காய் போன்றவையும் சின்னங்களும் உள்ளனர்.
+🟩
 
-இது தவிர கோப்பு (பைல்), பறவை இறகு, சிசி டிவி கேமரா, இடுப்பு பெல்ட், கேஸ் சிலிண்டர், ஊஞ்சல், கெட்டபோல், குதிரை லாடம், கையடக்க தொலைபேசி போன்ற சிறப்பு சின்னங்களும் இந்த ஆண்டு ஜனாதிபதி தேர்தல் வாக்குச்சீட்டில் சேர்க்கப்பட்டுள்ளது.
+Symbols have been introduced by the Elections Commission to recognized political parties and independent groups.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+
+There are also symbols such as colade, pan, cake, tofi, grapefruit, fruit, carrot, carrot, ice cream, corn, roundabe, cashew nuts, apple fruit, jackfruit, mango, jambu fruit, pineapple, coconut.
+
+In addition, special symbols such as file (file), bird feathers, CC TV camera, hip belts, gas cylinder, swing, horsepower, horseback, handheld phone, etc. have been included in the presidential election ballot this year.
 
 ◼️
 
 [Data](articles/e3c6396a.json)
+
+[Extended Data](ext_articles/e3c6396a.ext.json)
 
 ---
 
@@ -138,6 +186,24 @@ On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest 
 
 ---
 
+### யாழில்  மூதாட்டி சடலமாக மீட்பு
+
+*2024-08-12 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190872) · `ta`
+
+யாழ்ப்பாணத்தில் தனிமையில் வசித்த மூதாட்டி ஒருவர், சந்தேகத்திற்கு இடமான முறையில், உயிரிழந்துள்ள நிலையில் , அயல் வீட்டு இளைஞன் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+மீசாலை வடக்கு பகுதியைச்  சேர்ந்த நடேசப்பிள்ளை சரஸ்வதியம்பாள் (வயது 80) என்பவரே உயிரிழந்துள்ளார்.
+
+மூதாட்டி சந்தேகத்திற்கு இடமான முறையில் உயிரிழந்த நிலையில் நேற்றைய தினம் (11)  ஞாயிற்றுக்கிழமை சடலமாக மீட்கப்பட்டுள்ளார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த கொடிகாமம்  பொலிஸார் மூதாட்டியின் வீட்டிற்கு அருகில் வசித்து வந்த இளைஞனை சந்தேகத்தில் கைது செய்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/52fea2cc.json)
+
+---
+
 ### AKD signs nomination papers for Presidential Election
 
 *2024-08-12 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101170/akd-signs-nomination-papers-for-presidential-election) · `en`
@@ -198,6 +264,20 @@ The Presidential Election is scheduled to be held on September 21 and Nomination
 
 ---
 
+### பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுக்கும் எதிர்க்கட்சித் தலைவருக்கும் இடையில் புரிந்துணர்வு உடன்படிக்கை கைச்சாத்து
+
+*2024-08-12 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190876) · `ta`
+
+பெருந்தோட்ட மக்களை  வலுவூட்டும் நோக்கில் பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுடன் எதிர்க்கட்சித் தலைவர்சஜித் பிரேமதாச இன்று திங்கட்கிழமை (12) புரிந்துணர்வு உடன்படிக்கையில் கைச்சாத்திட்டார்.
+
+இந்த புரிந்துணர்வு உடன்படிக்கையில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, பாராளுமன்ற உறுப்பினர் மனோ கணேசன்,  பழனி திகாம்பரம் மற்றும் எம்.உதயகுமார உள்ளிட்ட தோட்ட மக்களை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் இதில் கையொப்பமிட்டனர்.
+
+◼️
+
+[Data](articles/73d3426a.json)
+
+---
+
 ### Presidential Election 2024: Ex-Sports Minister Roshan Ranasinghe places deposit
 
 *2024-08-12 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101168/presidential-election-2024-ex-sports-minister-roshan-ranasinghe-places-deposit) · `en`
@@ -255,6 +335,24 @@ His son Luck Ranasinghe, a nephew Luck Ranasinghe has deposited bail.
 [Data](articles/fd54818a.json)
 
 [Extended Data](ext_articles/fd54818a.ext.json)
+
+---
+
+### பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகார பேச்சுவார்த்தை தேர்தல் சட்ட மீறலாகும் - ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா
+
+*2024-08-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190874) · `ta`
+
+ஜனாதிபதித் தேர்தல் இடம்பெறவுள்ள நிலையில் பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து பேச்சுவார்த்தையில் ஈடுபடுவது தேர்தல் சட்ட மீறலாகும்  என   ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா தெரிவித்துள்ளது.
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து பேச்சுவார்த்தை இன்று திங்கட்கிழமை (12) இடம் பெறுகின்றது.
+
+இன்றைய தினம் இதற்கு ஒரு தீர்க்கமான முடிவு எட்டப்படும் என எதிர்பார்ப்பதாக சம்பள நிர்ணய சபையில் அங்கத்துவம் வகிக்கும்  தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+இந்நிலையில்,  பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து  பேச்சுவார்த்தையில் ஈடுபடுவது தேர்தல் சட்ட மீறலாகும்  என  ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/4419f174.json)
 
 ---
 
@@ -357,6 +455,20 @@ Issuing a statement, the International Committee of the Red Cross (ICRC) said th
 [Data](articles/9f173b1a.json)
 
 [Extended Data](ext_articles/9f173b1a.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தல் ; வேட்புமனுவில் கையொப்பமிட்டார் அநுர
+
+*2024-08-12 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190871) · `ta`
+
+எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலுக்காக இன்று திங்கட்கிழமை (12) முற்பகல் மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க வேட்பாளர் வேட்புமனுவில் கையொப்பமிட்டார்.
+
+இந்நிகழ்வில் தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் வைத்தியர் நிஹால் அபேசிங்க, மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் ரில்வின் சில்வா உள்ளிட்ட தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர்கள் சிலரும் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/e3e6f5b3.json)
 
 ---
 
@@ -494,6 +606,24 @@ Meanwhile, the Vennappuwa Police is carrying out further investigations and will
 
 ---
 
+### பொருட்களை வழங்குவதன்  மூலம்  வாக்குகளைப் பெற முடியாது - அமைச்சர் பிரசன்ன ரணதுங்க
+
+*2024-08-12 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190864) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டத்தில் உள்ள அனைத்து தொகுதிளையும் உள்ளடக்கிய வகையில் ஜனாதிபதி தேர்தல் கூட்டு நடவடிக்கை குழுக்கள் நியமிக்கப்படவுள்ளன.
+
+அமைச்சர் பிரசன்ன ரணதுங்க மற்றும் கம்பஹா மாவட்ட பா.உ களின் தலைமையில் நேற்றுமுன்தினம் சனிக்கிழமை  (10) மற்றும் நேற்று ஞாயிற்றுக்கிழமை (11) இந்தக் குழுக்கள் நியமிக்கப்பட்டன.
+
+இந்தக் குழுக்களை ஸ்தாபிப்பதில், ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி, பொதுஜன ஐக்கிய முன்னணி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட ஜனாதிபதிக்கு ஆதரவான அனைத்துக் கட்சிகளின் பிரதிநிதிகளும் இந்தக் கூட்டமைப்பில் உள்ளடங்குகின்றது.
+
+வீடு வீடாகச் செல்லுதல், வாக்கெடுப்பு நிலையங்களில் முகவர்களை நியமித்தல், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஜனாதிபதித் தேர்தல் பிரசாரங்களை ஒழுங்கமைத்தல், சம்பந்தப்பட்ட தொகுதி மட்டத்தில் ஒழுங்கமைத்தல் மற்றும் வழிநடத்துதல் ஆகியன இந்தத் தொகுதிகளின் கூட்டுக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/d978bed2.json)
+
+---
+
 ### Foreign remittances
 
 *2024-08-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199844) · `si`
@@ -621,6 +751,22 @@ This marks a 10.3% increase compared to the same period last year, according to 
 [Data](articles/d1edeaec.json)
 
 [Extended Data](ext_articles/d1edeaec.ext.json)
+
+---
+
+### பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் : சம்பள நிர்ணய சபை சற்று முன் கூடியது
+
+*2024-08-12 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190866) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பளம் தொடர்பில் தீர்மானிப்பதற்காக சம்பள நிர்ணய சபை சற்று முன் கூடியது. முதலாளிமார் சம்மேளனமும் வருகை தந்துள்ளது. இதற்கு முன்னர் மூன்று சந்தர்ப்பங்களில் சம்பள நிர்ணய சபை கூட்டப்பட்ட போது முதலாளிமார் சம்மேளனம் அதை புறக்கணித்திருந்தது.
+
+எனினும், இம்முறை சம்பள நிர்ணய சபைக்கு முதலாளிமார் சமேளனம் வருகை தந்துள்ளமை விசேட அம்சமாகும்.
+
+எனவே, இன்றைய தினம் இதற்கு ஒரு தீர்க்கமான முடிவு எட்டப்படும் என எதிர்பார்ப்பதாக சம்பள நிர்ணய சபையில் அங்கத்துவம் வகிக்கும் தொழிற்சங்கங்கள் நம்பிக்கை வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/4f167fc6.json)
 
 ---
 
@@ -845,6 +991,24 @@ It was reported that the 2 helicopters of propellers were inaccessible while fly
 [Data](articles/fda15dc0.json)
 
 [Extended Data](ext_articles/fda15dc0.ext.json)
+
+---
+
+### මැතිවරණ කොමසාරිස් ජනරාල් කළ ඉල්ලිම
+
+*2024-08-12 09:44:48* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමසාරිස්-ජනරාල්-කළ-ඉල්ලිම/11-411315) · `si`
+
+යුරෝපිය සංගමයේ සහ ආසියානු මැතිවරණ නිරික්ෂකයන්ගේ සංගමයේ නිලධාරින් රැසක් සහ දේශිය මැතිවරණ නිරික්ෂකයන් රැසක් ජනාධිපතිවරණ නිරික්ෂණ කටයුතු සදහා ඉල්ලිම් කර ඇති බව මැතිවරණ කොමසාරිස් ජෙනරාල් සමන් ශ්‍රි රත්නායක මහතා පැවසිය.
+
+සමන් ශ්‍රි රත්නායක මහතා ඒ බැව් කියා සිටියේ නුවරඑලිය දිස්ත්‍රික්කයේ මැතිවරණ රාජකාරි සදහා යොදවන පොලිස් නිලධාරින්, රාජ්‍ය නිලධාරින් දැනුවත් කිරිම සදහා (11) දින පස්වරුවේ නුවරඑලිය දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති දැනුවත් කිරිමේ වැඩසටහනට සහභාගි විමෙන් අනතුරුව මාධ්‍යට අදහස් දක්වමිණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු මැතිවරණ කොමසාරිස් ජෙනරාල්වරයා කියා සිටියේ
+
+"මේ වන විට රාජ්‍ය දේපල අවභාවිතාව සම්බන්ධයෙන් පැමිණිලි 320 කට ආසන්න ප්‍රමාණයක් ලැබිලා තියෙනවා, මේ සම්බන්ධයෙන් අපි විමර්ෂණ කටයුතු සිදු කරනවා.සෑම දිස්ත්‍රික්කයකම රාජ්‍ය දේපල අවභාවිතාව සම්බන්ධයෙන් සොයා බැලිමට කණ්ඩායම් පත් කරලා තියෙනවා, මැතිවරණ සමයේ සිදුවිය හැකි වංචාවන් වැලක්විම සදහා පොලිසිය සහ දිස්ත්‍රික් ලේකම් කාර්යාල නිලධාරින් සමග අපි සාකච්ඡා කරනවා ඒ වැලැක්විම සදහා.
+
+...
+
+[Data](articles/7c92278d.json)
 
 ---
 
@@ -1407,6 +1571,22 @@ If the Light Rail Development Program was not canceled by 2020, the development 
 [Data](articles/ee501b09.json)
 
 [Extended Data](ext_articles/ee501b09.ext.json)
+
+---
+
+### The two Chief  similarities between Sri Lanka’s 2022 ‘youth aragalaya’ and Bangladesh’s youth uprising in 2024
+
+*2024-08-12 03:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84516) · `en`
+
+Those who unwisely murmur ‘Bangladeshi people power a la Sri Lanka’ in assessing the ‘second liberation’ of Bangladesh following the jubilant toppling of fifteen year one-party rule by former Prime Minister Sheikh Hasina by thousands of youth earlier this month, must restrain their enthusiasm in no small part.
+
+The 2022 youth protests in Sri Lanka precipitating the flight of former President Gotabaya Rajapaksa and the collapse of his Government has led to significantly different outcomes in this country as compared to evolving – and still volatile – developments in Bangladesh.
+
+In essence, there are only two similarities. First, both Hasina and Rajapaksa, consumed by their monstrous political egos, refused to believe that the ‘hordes’ were literally at the door of their respective ‘palaces’ until the eleventh hour.
+
+...
+
+[Data](articles/042c1a40.json)
 
 ---
 
@@ -2079,223 +2259,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/bc717f89.json)
 
 [Extended Data](ext_articles/bc717f89.ext.json)
-
----
-
-### The Reality Of The Economic Crisis
-
-*2024-08-11 21:52:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-reality-of-the-economic-crisis/) · `en`
-
-There is still a significant misunderstanding among many people regarding the true cause of the economic crisis. While many attribute the economic downturn primarily to corruption, the underlying cause is far more complex: we have been spending more than we earn. The lack of savings, combined with many state institutions operating at a loss, has led us to spend beyond our means. To cover these expenses, we have had to borrow money, and as this pattern continued, our debt accumulated to unmanageable levels. When income suddenly drops, the ability to pay off these debts becomes severely compromised, leading to the kind of crisis Sri Lanka experienced in 2021.
-
-...
-
-[Data](articles/a17bff10.json)
-
-[Extended Data](ext_articles/a17bff10.ext.json)
-
----
-
-### HNB FINANCE unveils three new gold loan units in Beliatta, Kurunegala and Kuliyapitiya
-
-*2024-08-11 21:52:00* · [`islandlk`](http://island.lk/hnb-finance-unveils-three-new-gold-loan-units-in-beliatta-kurunegala-and-kuliyapitiya/) · `en`
-
-HNB FINANCE PLC recently announced three new Gold Loan Units at its Beliatta, Kurunagala – Metro and Kuliyapitiya branches.
-
-Introduced in response to the growing demand for gold loan services, the newly dedicated Gold Loan Units were introduced at 51/1, Mathara Road, Beliatta; 155, Puttalam Road, Kurunagala; and 355, Madampa Road, Kuliyapitiya.
-
-...
-
-[Data](articles/cf9a36ed.json)
-
-[Extended Data](ext_articles/cf9a36ed.ext.json)
-
----
-
-### CSE accredited as a Great Place to Work in Sri Lanka
-
-*2024-08-11 21:46:00* · [`islandlk`](http://island.lk/cse-accredited-as-a-great-place-to-work-in-sri-lanka/) · `en`
-
-The Colombo Stock Exchange (CSE) has once again been accredited as a Great Place to Work® in Sri Lanka. This continuous recognition is a testament to the collective efforts of the CSE team in fostering a positive and inclusive work culture for their employees, who are regarded as the organization’s most valuable assets.
-
-The Great Place to Work® accreditation is recognized globally and serves as a benchmark for identifying and celebrating exceptional employee experiences within workplaces. The standard evaluation by Great Place to Work® focuses on five key areas: credibility, respect, fairness, pride, and camaraderie.
-
-AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/174e4487.json)
-
-[Extended Data](ext_articles/174e4487.ext.json)
-
----
-
-### Contested
-
-*2024-08-11 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199829) · `si`
-
-29 candidates have deposited for the 2024 presidential election, with deposits closing on April 14th at 12 noon. The Electoral Commission warns that more candidates could increase electoral costs. In 1994, the highest third-party voter turnout was 4.08%, while in 2000, JVP candidate Nandana Gunatilake achieved notable votes. The two main candidates in 2019 secured 2.5% of the votes, highlighting challenges for smaller candidates to achieve a significant voice.
-
-🟩
-
-The number of candidates have deposited 29 candidates who have deposited on the 2024 presidential election.
-
-Deposits for candidates will be completed on Wednesday (14) at 12 noon.
-
-The Electoral Commission says that if the number of candidates will continue, the cost of the electorate will increase.
-
-In 1994, the highest percentage of voter turnout other than the two main candidates has been paid 4.08 percent.
-
-The voting percentage of the JVP candidate Nandana Gunatilake acquired at the Presidential Election of 2000.
-
-The two main candidates in the year 2019, the two main candidates were able to obtain 2.5% of the votes.
-
-The Executive Director of PAFFREL Rohana Hettiarachchi explained that all the remaining candidates cannot afford a 2% vocal vote.
-
-◼️
-
-[Data](articles/771ed21d.json)
-
-[Extended Data](ext_articles/771ed21d.ext.json)
-
----
-
-### We will hold the first propaganda virgin meeting in Anuradhapura in support of the President - SM Chandrasena
-
-*2024-08-11 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/190837) · `ta`
-
-The first "Virgin Election Campaign Meeting" in Anuradhapura supports President Ranil Wickremesinghe, scheduled for the 17th. This comes after SM Chandrasena, a district parliamentarian, was dismissed for backing the president. Namal Rajapaksa has been named the new district head, possibly to counter this support. The move aims to unite with the PA if past errors are rectified, focusing on actions against those favoring the president.
-
-🟩
-
-The Virgin Election Campaign Meeting in Anuradhapura will be held in support of President Ranil Wickremesinghe on the 17th.
-
-He was speaking to the media after the event held on Sunday (11) in the Anuradhapura area.
-
-Namal Rajapaksa has been appointed as the head of the Anuradhapura district to teach me a lesson.. Namal Rajapaksa has been appointed as the district head of the Anuradhapura.
-
-We have clearly stated that if the mistakes are corrected, we can reunite with the PA.. Only actions are being taken against those who have decided to act in favor of the president.
-
-I decided to support President Ranil Wickremesinghe in accordance with the emphasis on the people of Anuradhapura.
-
-We will hold a virgin election campaign meeting in Anuradhapura on the 17th to support President Ranil Wickremesinghe.
-
-Anuradhapura district parliamentarian SM Chandrasena has been sacked after the announcement of supporting President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/ec25d45f.json)
-
-[Extended Data](ext_articles/ec25d45f.ext.json)
-
----
-
-### Avoid candidates who come forward to contest the election for personal reasons - February
-
-*2024-08-11 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/190830) · `ta`
-
-Rohana Hettiarachchi warns against candidates running for personal gains, labeling it as an abuse of democracy. He urges voters to be cautious, highlighting the increasing trend of individuals seeking office for self-serving motives rather than national interest. This behavior not only undermines democratic principles but also inflates election costs due to the growing number of contestants. History shows that only the main candidates receive significant support, with others struggling to secure even 2% of the vote. The deadline for controlling the upcoming presidential election is the 14th, with 27 individuals already registered.
-
-🟩
-
-Avoid candidates who come forward to contest the presidential election based on personal purposes. The Executive Director of the February, Rohana Hettiarachchi, said that this act is an action to abuse democracy and independence.
-
-In the presidential election, some people are seen as a candidate for various personal reasons. We see this as a move to abuse the country's democracy and independence.. We think the number of candidates will increase further in the coming days.
-
-Thus, some of those who come forward to contest the election have to avoid those who come forward for their own reasons. Others come to the foreign ambassador services or the winning candidate from the winning candidate, in order to obtain the positions of the Head of State Department, to get the free media opportunity, or to appoint their representatives in the polls, to win the election for other reasons for other reasons.
-
-...
-
-[Data](articles/779c50bd.json)
-
-[Extended Data](ext_articles/779c50bd.ext.json)
-
----
-
-### Disney unveils Avatar 3’s official title and new films
-
-*2024-08-11 20:24:00* · [`islandlk`](http://island.lk/disney-unveils-avatar-3s-official-title-and-new-films/) · `en`
-
-Details of new films including the title of the third instalment of Avatar, an addition to the Star Wars franchise and a sequel to Freaky Friday have been announced at a giant Disney fan event.
-
-Filmmaker James Cameron told a 12,000-strong audience that Avatar: Fire And Ash will “not be what you expect” while US actor Jon Favreau teased a new Star Wars film titled The Mandalorian And Grogu, starring Pedro Pascal.
-
-Actors Lindsay Lohan and Jamie Lee Curtis, stars of the 2003 comedy Freaky Friday, also appeared on stage to promote Freakier Friday, which is set for 2025.
-
-The announcements were made at D23, the biennial convention for members of the official Disney fan club, in California on Friday.
-
-Avatar director Cameron made a surprise appearance alongside the film’s stars Zoe Saldana and Sam Worthington.
-
-The science fiction epic, set for release on 19 December 2025, comes after 2009’s Avatar and its sequel Avatar: The Way Of Water, which was released in 2022.
-
-...
-
-[Data](articles/f80ef15a.json)
-
-[Extended Data](ext_articles/f80ef15a.ext.json)
-
----
-
-### Support for those who provide the Samasti -based power -sharing system in the combined Northeast;The Sinhalese people should be notified - the Tamil party
-
-*2024-08-11 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190843) · `ta`
-
-The Tamil National Party supports a Samasti-based power-sharing system in the Northeast, emphasizing its commitment to establishing a power-shared rule there. The party's stance was reiterated by its media spokesman and parliamentarian MP, highlighting the importance of informing the Sinhalese people about the benefits of this system. While no specific presidential candidate has been endorsed yet, the party is open to supporting one who aligns with their political position. Additionally, the party discussed concerns over other political parties and civil organizations declaring Tamil general candidates without consulting the TNA, deciding to address this issue within a week.
-
-🟩
-
-The party's media spokesman and parliamentarian MP said that the Presidential candidate, who is ready to provide the Samasti -based devolution of power in the North and East, will decide that the position will be supported by the Sinhalese and the Sinhalese.. A.. Said Sumanthiran.
-
-He said this while speaking to the media after the party's central committee meeting was held in the home of the Tamil National Party today.
-
-The position of the main political party of the Tamil people on behalf of the Tamil people is the establishment of a power -shared rule in the Northeast of the Northeast.
-
-This is our political position.The meeting also stated that the presidential candidates can support them if they comply. However, no resolution was taken in this regard.
-
-We are going to see what the news is that we are telling the presidential candidates about our request.
-
-We are also going to look at the fact that they are coming to the whole country.
-
-...
-
-[Data](articles/5a21d8e4.json)
-
-[Extended Data](ext_articles/5a21d8e4.ext.json)
-
----
-
-### SLT-MOBITEL Enterprise and .lk to boost micro and SME sector
-
-*2024-08-11 19:39:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-and-lk-to-boost-micro-and-sme-sector/) · `en`
-
-Supporting and digitally empowering Sri Lanka’s small and medium-sized enterprises (SMEs), SLT-MOBITEL Enterprise, has signed a Memorandum of Understanding (MoU) with LK Domain Registry. The strategic partnership aims to enhance the growth and success of Micro businesses and SMEs in the rapidly evolving digital landscape.
-
-LK Domain Registry is the sole administrator for web addresses ending in ‘.lk’ in Sri Lanka and plays a crucial role in supporting the online presence of businesses.
-
-...
-
-[Data](articles/c3b79471.json)
-
-[Extended Data](ext_articles/c3b79471.ext.json)
-
----
-
-### ADB steps up to support accountant entrepreneur in her own venture
-
-*2024-08-11 19:38:00* · [`islandlk`](http://island.lk/adb-steps-up-to-support-accountant-entrepreneur-in-her-own-venture/) · `en`
-
-The Island Financial Review recently met with Chamini Dinusha, a risk-taking female who quit her job as an accountant and deployed her business accounting acumen into her own venture.
-
-Chamini told us that she wanted to harness her full entrepreneurship potential to make the best out of her growth mindset.
-
-...
-
-[Data](articles/0d331e93.json)
-
-[Extended Data](ext_articles/0d331e93.ext.json)
 
 ---

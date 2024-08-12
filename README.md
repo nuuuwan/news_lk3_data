@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 19:07:08**
+As of **2024-08-12 19:22:09**
 
 ## Newspaper Stats
 
-*Scraped **40,329** Articles*
+*Scraped **40,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,444
 dailyftlk | 2,593
-adalk | 3,703
-adaderanalk | 4,700
+adalk | 3,705
+adaderanalk | 4,701
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,112
+tamilmirrorlk | 5,115
 virakesarilk | 6,385
 adaderanasinhalalk | 6,861
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,329 (100.0%) of 40,329 articles have been extended.
+40,329 (100.0%) of 40,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Five more presidential candidates place deposits as total climbs to 32
+
+*2024-08-12 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101185/five-more-presidential-candidates-place-deposits-as-total-climbs-to-32) · `en`
+
+Five more candidates have placed their deposits today (Aug 12) in order to contest the 2024 Presidential Election, the Election Commission said.
+
+Accordingly, 32 candidates in total have placed their deposits with the Election Commission thus far.
+
+This includes 15 independent candidates who have been nominated by a voter, 16 candidates from recognized political parties and one candidate from other political parties.
+
+The independent candidates who have placed bonds today are former sports minister Roshan Ranasinghe and common candidate of Tamil parties Pakkiyaselvam Ariyanethiran while Abhubakar Mohammed Infaz of the United Democratic Alliance and Prasanga Suranjeewa Anoj de Silva of the Democratic United National Front have also placed deposits with the elections regulatory body.
+
+The Election Commission of Sri Lanka had issued a Gazette on July 26 declaring that the 2024 Presidential Election will be held on the 21st September 2024 and that nominations will be accepted on 15 August 2024.
+
+◼️
+
+[Data](articles/c1a21f1e.json)
+
+---
+
+### இலங்கை - இந்திய கப்பல் சேவை மீண்டும் தாமதம்
+
+*2024-08-12 19:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-மீண்டும்-தாமதம்/175-342044) · `ta`
+
+தமிழகத்தில் இருந்து இலங்கைக்கு முன்னெடுக்கப்படவிருந்த பயணிகள் கப்பல் சேவை மீண்டும் தாமதமடைந்துள்ளாக தெரிவிக்கப்படுகிறது.
+
+எதிர்வரும் 16ஆம் திகதி முதல் நாகப்பட்டினத்தில் இருந்து காங்கேசன்துறைக்கு குறித்த பயணிகள் கப்பல் சேவை மீண்டும் இயக்கப்படும் என அறிவிக்கப்பட்டிருந்தது.
+
+எனினும், குறித்த கப்பல் சேவையில் ஆசன முன்பதிவுகளை மேற்கொள்வதற்காக அறிமுகப்படுத்தப்பட்டுள்ள இணையத்தளத்தில் கப்பல் சேவை காலவரையறை இன்றி தாமதமடைந்துள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+தொழில்நுட்ப கோளாறு மற்றும் சீரற்ற காலநிலை என்பவற்றின் காரணமாக 'சிவகங்கை' கப்பல் சேவை தாமதமடைந்துள்ளதாக அந்த இணையத்தளத்தில் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/6ef9d8aa.json)
+
+---
 
 ### Up to 32 persons
 
@@ -51,6 +89,24 @@ One of the 01 political parties and 15 independent candidates have deposited bai
 [Data](articles/8affb79f.json)
 
 [Extended Data](ext_articles/8affb79f.ext.json)
+
+---
+
+### மாணவி கூட்டு வன்புணர்வு:  பெண் உட்பட 21 மாணவர்களுக்கும் விளக்கமறியல் உத்தரவு
+
+*2024-08-12 18:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-பெண்-உட்பட-21-மாணவர்களுக்கும்-விளக்கமறியல்-உத்தரவு/175-342043) · `ta`
+
+தரம் 11 இல் கல்வி கற்கும் மாணவி ஒருவர் பலமுறை பாலியல் துஷ்பிரயோகத்துக்கு உள்ளான சம்பவம் தொடர்பில் 21 மாணவர்களும் பெண் ஒருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.  சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட அவர்கள், வெல்லவாய மாவட்ட நீதவான் முன்னிலையில் திங்கட்கிழமை (12) ஆஜர்படுத்தப்பட்டனர். அவர்களை எதிர்வரும் 22 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+
+மொனராகலை, தனமல்வில பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் 11 ஆம் வகுப்பில் கல்வி கற்கும் 16 வயதுடைய மாணவியொருவரே இவ்வாறு பாலியல் துஷ்பிரயோகத்துக்கு உள்ளாகியுள்ளார்.
+
+இந்த  மாணவி தனது பாடசாலையில் கல்வி கற்கும் மாணவரொருவருடன் காதல் உறவில் ஈடுபட்டுள்ள நிலையில் அந்த மாணவன் இந்த மாணவியை ஏமாற்றி மற்றுமொரு மாணவனின் வீட்டிற்கு அழைத்துச் சென்றுள்ளார்.
+
+இதன்போது, இந்த வீட்டிலிருந்த மாணவர்கள் சிலர் இந்த மாணவிக்கு மதுபானத்தை அருந்தக் கொடுத்து மாணவியை பாலியல் துஷ்பிரயோகம் செய்துள்ளதோடு அதனைக் காணொளிகளாக பதிவு செய்துள்ளனர்.
+
+...
+
+[Data](articles/fda98098.json)
 
 ---
 
@@ -110,6 +166,22 @@ The incident has been revealed to the disciplinary committee, including the Prin
 
 ---
 
+### கரணமடித்தார் ’சொக்க மல்லி’
+
+*2024-08-12 18:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரணமடித்தார்-சொக்க-மல்லி/175-342042) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க முன்வந்த இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினரும் துறைமுக இராஜாங்க அமைச்சருமான பிரேமலால் ஜயசேகர ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இணைய தீர்மானித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைமையகத்தில் நாளை (13) காலை நடைபெறும் விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு மீண்டும் கட்சியில் இணைந்து கொள்ளவுள்ளார்.
+
+'சொக்க மல்லி' என்றழைக்கப்படும் பிரேமலால் ஜயசேகர, ஸ்ரீ லங்கா ​பொதுஜன பெரமுனவின் வேட்பாளர் நாமல் ராஜபக்சவை ஆதரிப்பதாக, அவரது பேச்சாளர்   தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8bef2e19.json)
+
+---
+
 ### Two arrested with over 150kg of Kerala cannabis in Jaffna
 
 *2024-08-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101184/two-arrested-with-over-150kg-of-kerala-cannabis-in-jaffna) · `en`
@@ -136,7 +208,7 @@ The PNB is carrying out further investigations regarding the suspects.
 
 Two persons have been killed while another has sustained serious injuries in an accident involving an SLTB bus near the Galkade Junction in Welmilla on the Bandaragama-Kesbewa road.
 
-Accordingly, the bus had veered off the road and ran over two persons near a bus halt before crashing into a roadside shop.
+Accordingly, the bus had veered off the road and ran over two persons standing near the road before crashing into a roadside shop.
 
 The accident had occurred this afternoon (12) while a female passenger of the bus who sustained serious injuries in the accident has been hospitalized.
 
@@ -280,6 +352,24 @@ The man who had gone to the shopping for purchasing for purchasing, the crowd ha
 
 ---
 
+### මන්ත්‍රී වඩිවේල්ගේ සහාය ජනපතිට
+
+*2024-08-12 16:49:27* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වඩිවේල්ගේ-සහාය-ජනපතිට/11-411327) · `si`
+
+එළඹෙන ජනාධිපතිවරණයේ දී ලංකා ජාතික වතු කම්කරු සංගමයේ සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව එම පක්ෂයේ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී වඩිවෙල් සුරේෂ් මහතා අද (12දා)  පැවසීය.
+
+වතු කම්කරු ජනතාව ලක්ෂ 17 ක් සමඟ තමන් එම තීරණය ගත් බවද “එක්ව ජයගමු” මාධ්‍ය හමුවට කොළඹදී එක් වෙමින් මන්ත්‍රීවරයා මේ බව සදහන් කළේය.
+
+තමන් ඇතුළු ලංකා ජාතික වතුකම්කරු සංගමයේ දේශපාලන මණ්ඩලය රැස්ව මේ ගැන අවශ්‍ය තීන්දු තීරණ ගත් බවත් නිල වශයෙන් එය ප්‍රකාශ කිරීම තවදුරටත් කල් දැමීමට සිටියත් ජනාධිපතිවරයා අන් කිසිදු රාජ්‍ය නායකයෙක් ලබා නුදුන් සහන රාශියක් වතු කම්කරු ජනතාව වෙත ලබා දුන් නිසා ජනාධිපතිවරයා සහය දීමේ තීරණය ඉක්මනින්ම දැනුම් දීමට කටයුතු කළ බවද මන්ත්‍රීවරයා කියා සිටියේය.
+
+වතු කම්කරු වැටුප්, නිවාස සහ ගුරු සහායක ඇතුළු රැකියා ලබා දෙමින් වතුකරයේ ජනතාවගේ ගැටළු විශාල ප්‍රමාණයක් විසඳීමට ජනාධිපතිවරයාට හැකි වූ බවද වඩිවෙල් සුරේෂ් මන්ත්‍රීවරයා වැඩි දුරටත් කියා සිටියා.
+
+◼️
+
+[Data](articles/6012496c.json)
+
+---
+
 ### Sri Lanka stocks close up, turnover remains low
 
 *2024-08-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-176472/) · `en`
@@ -380,9 +470,15 @@ The accident had occurred this afternoon today (12), and a serious injuries have
 
 *2024-08-12 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101180/3-killed-3-injured-after-three-wheeler-crashes-into-parked-lorry) · `en`
 
-Three persons including the driver were killed while three others have been injured and hospitalized after the three-wheeler they were travelling in had collided with a parked lorry in the Wewaldeniya area.
+Three persons including an infant were killed while three others have been injured and hospitalised after the three-wheeler they were travelling in had crashed into a lorry parked on the roadside in the Wewaldeniya area.
 
-◼️
+A three-wheeler traveling from Colombo to Kandy had veered off the road and collided with a lorry parked on the roadside at Wewaldeniya in the Danowita police division on the Colombo-Kandy main road.
+
+Accordingly, the driver of the three-wheeler (60), a woman (64) and a four-month-old infant who were traveling in the vehicle have reportedly died in the incident which had occurred this afternoon (12).
+
+Police said that two other females and a boy who were also traveling in the three-wheeler were critically injured in the crash and were admitted to the Warakapola Hospital. The five-year-old boy and one of the females have been transferred to the Colombo National Hospital for further treatment.
+
+...
 
 [Data](articles/e5bfa8bb.json)
 
@@ -570,7 +666,11 @@ The relevant decision has been passed in the Wages Board today (12), with a majo
 
 Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman stated that only 3 plantation companies objected to the passing of the decision.
 
-◼️
+Accordingly, it has been agreed to provide plantation workers with a minimum daily wage of Rs. 1,350 along with a special attendance allowance of Rs. 350.
+
+Meanwhile, when the wage issue of the plantation workers was brought before the High Court, the Governor of the Eastern Province and the President of the Ceylon Workers’ Congress (CWC), Senthil Thondaman, expressed his gratitude to President Ranil Wickremesinghe and the former minister Manusha Nanayakkara for providing their full support for increasing the daily minimum wage of plantation workers.
+
+...
 
 [Data](articles/3a813868.json)
 
@@ -2149,111 +2249,5 @@ NDB Investment Bank Limited and Acuity Partners (Private) Limited are the joint 
 [Data](articles/bd0e13ad.json)
 
 [Extended Data](ext_articles/bd0e13ad.ext.json)
-
----
-
-### Sri Lankan worker remittances in first 7 months up by 10.3%
-
-*2024-08-12 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101164/sri-lankan-worker-remittances-in-first-7-months-up-by-103) · `en`
-
-The remittances from Sri Lankan overseas workers has surged to USD 566.8 million in July 2024, bringing the total for the first seven months of the year to USD 3.71 billion.
-
-This marks a 10.3% increase compared to the same period last year, according to the Central Bank of Sri Lanka (CBSL).
-
-◼️
-
-[Data](articles/d1edeaec.json)
-
-[Extended Data](ext_articles/d1edeaec.ext.json)
-
----
-
-### Plantation workers' salary affair
-
-*2024-08-12 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190866) · `ta`
-
-After delays, plantation workers received their salaries slightly ahead of schedule. The Employers Federation, previously unresponsive to three salary council meetings, surprisingly attended one. This visit sparked hopes among trade union members for a significant outcome from the council meeting.
-
-🟩
-
-Plantation workers' salaries were met a little before the salary council. The Employers Federation has also visited. Earlier, the Employers Federation had ignored it when the salary council was convened on three occasions.
-
-However, this is a special feature that the Employer Society has visited the Salary Council.
-
-Therefore, the trade unions, which are a member of the Salary Council, have expressed hope that a decisive decision will be reached today.
-
-◼️
-
-[Data](articles/4f167fc6.json)
-
-[Extended Data](ext_articles/4f167fc6.ext.json)
-
----
-
-### Sri Lanka to pay Rs6,000 to state pensioners in October after EC opposition
-
-*2024-08-12 10:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rs6000-to-state-pensioners-in-october-after-ec-opposition-176359/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state pensioners will be paid 6,000 rupees in October after an increase of 3,000 rupees from September was shot down by the Elections Commissions, State Minister for Finance Ranjith Siyambalapitiya said.
-
-The cabinet decided to pay the 3,000 rupee allowance to 700,000 pensioners effective September.
-
-But the elections commission opposed it as an election was declared, Minister Siyambalapitiya said.
-
-As a result, a 6,000 rupee payment would be made with arrears in October. From November 3,000 rupees would be added to the pension, he said.
-
-Earlier this year a 2,500 rupee allowance was given to pensioners.
-
-Unlike unemployed graduates who are hired without actual vacancies, many of Sri Lanka’s current pensioners were in government service working for small salaries.
-
-In the 1980s and early 1990s when the central bank and macro-economists busted the currency incessantly without a credible anchor for money, they got very low real wages.
-
-...
-
-[Data](articles/95ea718b.json)
-
-[Extended Data](ext_articles/95ea718b.ext.json)
-
----
-
-### A young mother and a father's decision
-
-*2024-08-12 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199843) · `si`
-
-In Ambalangoda's Batapola area, a young couple tragically ended their lives. The 29-year-old man reportedly left behind a young child whose cries alerted neighbors to the sad event.
-
-🟩
-
-A young couple in the Batapola area in Ambalangoda has committed suicide, police said.
-
-The man was 29 years old and the man said that the man was 29 years old.
-
-The neighbors who heard their young child's screams had been informed of the incident.
-
-◼️
-
-[Data](articles/cef2ab8e.json)
-
-[Extended Data](ext_articles/cef2ab8e.ext.json)
-
----
-
-### Election Complaints
-
-*2024-08-12 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199842) · `si`
-
-In the past 24 hours, there were 17 election complaints, bringing the total to 337 since July 31.
-
-🟩
-
-The Election Commission points out that there were 17 election complaints only during the last 24 hours.
-
-The Elections Commission says that 337 election complaints have been reported from July 31 to yesterday.
-
-◼️
-
-[Data](articles/3372a4d5.json)
-
-[Extended Data](ext_articles/3372a4d5.ext.json)
 
 ---

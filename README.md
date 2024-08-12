@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 02:55:07**
+As of **2024-08-13 03:06:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,367 (100.0%) of 40,375 articles have been extended.
+40,374 (100.0%) of 40,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ TISL said it has been at the forefront of election monitoring for over two decad
 ...
 
 [Data](articles/16cd4837.json)
+
+[Extended Data](ext_articles/16cd4837.ext.json)
 
 ---
 
@@ -68,6 +70,8 @@ Authorities recommend keeping surroundings clean and eliminating potential mosqu
 
 [Data](articles/61321000.json)
 
+[Extended Data](ext_articles/61321000.ext.json)
+
 ---
 
 ### Australia begins Indo-Pacific Endeavour in Sri Lanka
@@ -85,6 +89,8 @@ Other IPE 2024 activities in Sri Lanka include a combined diving activity that w
 ...
 
 [Data](articles/8853350a.json)
+
+[Extended Data](ext_articles/8853350a.ext.json)
 
 ---
 
@@ -104,6 +110,8 @@ Resource persons included; Gajma & Co. Partner N.R. Gajendran, Finance Ministry 
 
 [Data](articles/7a4c9d82.json)
 
+[Extended Data](ext_articles/7a4c9d82.ext.json)
+
 ---
 
 ### OneWorld Duty Free team meets BOI, Port City officials
@@ -115,6 +123,8 @@ A top level delegation led by OneWorld Duty Free CEO/Founder Keira Zhang met wit
 ◼️
 
 [Data](articles/d46e3211.json)
+
+[Extended Data](ext_articles/d46e3211.ext.json)
 
 ---
 
@@ -136,6 +146,8 @@ Better Product Quality: Prompt fault identification and avoidance results in a b
 
 [Data](articles/a33cda9d.json)
 
+[Extended Data](ext_articles/a33cda9d.ext.json)
+
 ---
 
 ### Devaka Cooray and Hiran Cabraal join Jetwing Symphony Board
@@ -151,6 +163,8 @@ Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML
 ...
 
 [Data](articles/051f6d34.json)
+
+[Extended Data](ext_articles/051f6d34.ext.json)
 
 ---
 

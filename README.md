@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 23:37:22**
+As of **2024-08-12 23:56:19**
 
 ## Newspaper Stats
 
-*Scraped **40,349** Articles*
+*Scraped **40,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 381
 islandlk | 2,331
-economynextcom | 2,444
+economynextcom | 2,445
 dailyftlk | 2,593
 adalk | 3,709
 adaderanalk | 4,703
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,349 (100.0%) of 40,349 articles have been extended.
+40,349 (100.0%) of 40,350 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ The Excise Department had taken steps to close the Kandy liquor to the 20th of t
 [Data](articles/ec57cb00.json)
 
 [Extended Data](ext_articles/ec57cb00.ext.json)
+
+---
+
+### Sri Lanka’s corruption watchdog raises concerns over public resource abuse for polls
+
+*2024-08-12 21:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-corruption-watchdog-raises-concerns-over-public-resource-abuse-for-polls-176495/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), a non-government organization which is working against corruption, raised concerns over complaints of President Ranil Wickremesinghe’s election campaign using public resources owned by taxpayers money.
+
+TISL, which has been in the island nation for the past 20 years, has deployed 200 officers to observe and collect data on public resource misuse and abuses and it has already received 45 complaints mostly against President Wickremesinghe’s campaign.
+
+The complaints include incentives for government servants, developing various religious places, providing scholarships, opening of houses and buildings, providing computers, using buildings and playgrounds for election rallies, using Presidential Media Division to promote a specific candidate, using state media to promote and demote specific parties, distribution of goods to volunteer organizations, and providing deeds as well as loans, the TISL said.
+
+...
+
+[Data](articles/e47bf414.json)
 
 ---
 
@@ -2255,25 +2271,5 @@ Some members of the National Executive Council, including the General Secretary 
 [Data](articles/e3e6f5b3.json)
 
 [Extended Data](ext_articles/e3e6f5b3.ext.json)
-
----
-
-### Anura signs Anura's nominations to give a beautiful life to the people
-
-*2024-08-12 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/පොහොසත්-රටක්-ලස්සන-ජීවිතයක්-ජනතාවට--උරුමකර-දීමට-අනුර-නාම-යෝජනා-අත්සන්-කරයි/11-411319) · `si`
-
-Comrade Anura Kumara Dissanayake filed his candidacy for the presidential election on September 21st, supported by several National Executive Members of the JVP, including Dr. Nihal Abeysinghe and Tilvin Silva.
-
-🟩
-
-JVP this morning for the presidential election held on 21st September. Comrade Anura Kumara Dissanayake signed a candidate nomination at the Head Office.
-
-Several National Executive Members of the National Executive Members of the JVP Dr. Nihal Abeysinghe and the General Secretary of the JVP Tilvin Silva were also present at the occasion.
-
-◼️
-
-[Data](articles/979dcaa5.json)
-
-[Extended Data](ext_articles/979dcaa5.ext.json)
 
 ---

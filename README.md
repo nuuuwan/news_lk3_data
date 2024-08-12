@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 15:06:34**
+As of **2024-08-12 15:21:01**
 
 ## Newspaper Stats
 
-*Scraped **40,280** Articles*
+*Scraped **40,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,431
 dailyftlk | 2,593
-adalk | 3,697
-adaderanalk | 4,690
+adalk | 3,699
+adaderanalk | 4,692
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
@@ -26,11 +26,73 @@ adaderanasinhalalk | 6,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,280 (100.0%) of 40,280 articles have been extended.
+40,280 (100.0%) of 40,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
+
+*2024-08-12 15:01:00* · [`islandlk`](http://island.lk/aia-sri-lanka-becomes-first-ever-sri-lankan-award-winner-at-hashtag-asia-awards/) · `en`
+
+AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Awards 2024. The company’s long standing lifesaving project the “Poson Safety Programme” campaign not only secured a coveted finalist spot in the highly competitive “Best Integrated Social Media Campaign” category, but also emerged victorious as the Silver winner in the “Best Social Media Campaign: Facebook” category. This remarkable accomplishment marks the first time a Sri Lankan brand has reached the finalist stage and secured an award at the Hashtag Asia Awards, solidifying AIA Sri Lanka’s position as a leader in innovative social media marketing within the region.
+
+...
+
+[Data](articles/70b0934c.json)
+
+[Extended Data](ext_articles/70b0934c.ext.json)
+
+---
+
+### Election Commission informed of two vacant parliamentary seats
+
+*2024-08-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101175/election-commission-informed-of-two-vacant-parliamentary-seats) · `en`
+
+The Acting General Secretary of the Parliament Chaminda Kularatne has informed the Chairman of the Election Commission in writing that two Parliamentary seats in the Ninth Parliament have become vacant from the 09 August 2024 due to the cancellation of the parliamentary seats of Manusha Nanayakkara and Harin Fernando.
+
+This has been informed in terms of the Sections 64(1) and 64(5) of the Parliamentary Elections Act No. 1 of 1981, the Parliamentary Communications Department said.
+
+On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Galle District Member of Parliament Manusha Nanayakkara and the National List Member of Parliament Harin Fernando from the party is legally valid. As a result, the two Parliamentary seats became vacant.
+
+...
+
+[Data](articles/7a9389b0.json)
+
+---
+
+### දක්ෂතාවයට ICCයෙන් චමරිට ඇගයීමක්
+
+*2024-08-12 14:51:22* · [`adalk`](https://www.ada.lk/sports/දක්ෂතාවයට-ICCයෙන්-චමරිට-ඇගයීමක්/9-411326) · `si`
+
+ජූනි මාසයේ ICC ක්‍රීඩිකාව ලෙස ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නම් කිරීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය කටයුතු කර තිබේ.
+
+ආසියානු කුසලාන තරගාවලියේදී දැක්වූ දක්ෂතාවයන් පදනම් කර ගනිමින් චමරිව ජූනි මාසයේ ICC ක්‍රීඩිකාව ලෙස නම් කර ඇත.
+
+◼️
+
+[Data](articles/da663cab.json)
+
+---
+
+### Heavy showers expected; advisory issued for severe lightening
+
+*2024-08-12 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101174/heavy-showers-expected-advisory-issued-for-severe-lightening) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rainfall in Western, Sabaragamuwa, Central and North-western provinces and Galle and Matara districts.
+
+The advisory, which is valid for the next 12 hours ending at 01.30 p.m. tomorrow (13), warns that showers or thundershowers will occur at most places on the island during the evening or night and heavy showers above 100mm are likely at some places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
+
+Meanwhile, the department has also issued an advisory for severe lightening, effective until 11.30 p.m. on Monday (12).
+
+The advisory said that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Anuradhapura, Galle and Matara districts during the evening or night.
+
+...
+
+[Data](articles/818ab3c7.json)
+
+---
 
 ### ICC athletes in July
 
@@ -393,6 +455,26 @@ The Minister of Wijayadasa resigned in the minister to contest as the Minister o
 [Data](articles/dbdf988c.json)
 
 [Extended Data](ext_articles/dbdf988c.ext.json)
+
+---
+
+### සිසුවියකට අතවර කළ 15ක් අල්ලයි
+
+*2024-08-12 12:19:13* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-අතවර-කළ-15ක්-අල්ලයි/11-411320) · `si`
+
+ඌව පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති දිනේෂ් කරුණානායක මහතාට ඉකුත් හත්වෙනිදා ලද බුද්ධි තොරතුරක් මත තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක ඉගෙනුම ලබන 16 හැවිරිදි පාසල් ශිෂ්‍යාවකට ලිංගික අතවරකළ එම පාසලේම සහ තවත් පාසලක සිසුන් පිරිසක් සහ ඊට අනුබල දුන් සැකකාරියක් තණමල්විල පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.
+
+අතවරයට පත්වූ දැරිය තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක ඉගෙනුම ලබන එකොළොස් වන වසරේ ඉගෙනුම ලබන ශිෂ්‍යාවකි.
+
+නීත්‍යානුකූල භාරකාරත්වයෙන් අපහරණයකර ලිංගික අපයෝජනය සිදුකිරීම,බරපතළ ලිංගික අපයෝජනය සිදුකිරීම,ස්ත්‍රී දූෂණය සහ රංචු ගැසී ස්ත්‍රී දූෂණය සිදුකිරීම යන චෝදනා යටතේ ඉකුත් (11) වෙනිදා මෙම පිරිස අත්අඩංගුවටගෙන ඇත.
+
+මෙම ස්ත්‍රී දූෂණයට අනුබලදීම සම්බන්ධයෙන් තණමල්විල තැපැල් කාර්යාලය පිටුපස පදිංචි 39 හැවිරිදි කාන්තාවක්ද පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.මෙලෙස පොලීසිය භාරයටගෙන ඇති සැකකරුවන් සංඛ්‍යාව 18 දෙනෙකි.
+
+අතවරයට ලක්වූ දැරිය වෛද්‍ය පරීක්ෂණයක් සඳහා හම්බන්තොට දිස්ත්‍රික් මහ රෝහලට ඇතුලත්කර ඇති අතර  එයට අනුබල දුන් කාන්තාව සහ සැකකාර පාසල් ශිෂ්‍යයින් අද (12දා) වැල්ලවාය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබිණි.
+
+◼️
+
+[Data](articles/32d49332.json)
 
 ---
 
@@ -2219,109 +2301,5 @@ Addressing the media, he criticised the idea of several parties with little to n
 [Data](articles/7510f081.json)
 
 [Extended Data](ext_articles/7510f081.ext.json)
-
----
-
-### Namal meets Sumanthiran to discuss North and East
-
-*2024-08-12 00:07:11* · [`dailyftlk`](https://www.ft.lk/news/Namal-meets-Sumanthiran-to-discuss-North-and-East/56-765416) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Presidential candidate Namal Rajapaksa met with Tamil National Alliance (TNA) Parliamentarian M.A. Sumanthiran in Colombo over the weekend.
-
-The discussions between the duo reportedly centred on the current political situation and the issues facing the North and East. The meeting, held at Sumanthiran’s residence, also included SLPP General Secretary Sagara Kariyawasam.
-
-During the meeting, Rajapaksa expressed his intention to engage with the Illankai Tamil Arasu Kadchi (ITAK) in the near future. Rajapaksa highlighted his commitment to addressing grievances in the North and East, emphasising plans to develop these districts into international trading hubs. He also expressed his willingness to work with Tamil Parliamentarians from the region to improve livelihoods and provide better futures for the youth.
-
-...
-
-[Data](articles/e67868d2.json)
-
-[Extended Data](ext_articles/e67868d2.ext.json)
-
----
-
-### Finance Ministry can support Presidential polls with any number of candidates: Siyambalapitiya
-
-*2024-08-12 00:05:29* · [`dailyftlk`](https://www.ft.lk/news/Finance-Ministry-can-support-Presidential-polls-with-any-number-of-candidates-Siyambalapitiya/56-765415) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday reassured the public that the Finance Ministry can support Presidential polls with any number of candidates.
-
-He said the increase in the number of candidates for this year’s Presidential election will not pose a financial problem. Speaking to the media after an event in Yatiyanthota, the State Minister emphasised that the Government is prepared to cover the costs associated with the estimates presented for the election.
-
-Siyambalapitiya noted that the expenditure estimate for the Presidential polls has not yet surpassed the Rs. 10 billion limit set for the event.
-
-However, he acknowledged that if the number of candidates grows significantly, it could lead to additional expenses. “For instance, if the ballot paper needs to be extended by another page to accommodate all candidates, the cost of one candidate could increase by around Rs. 100 million due to the need for more ballot boxes and other logistical requirements,” he explained.
-
-...
-
-[Data](articles/ba03968f.json)
-
-[Extended Data](ext_articles/ba03968f.ext.json)
-
----
-
-### Roshan Ranasinghe pledges to abolish Executive Presidency
-
-*2024-08-12 00:04:57* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-pledges-to-abolish-Executive-Presidency/56-765414) · `en`
-
-Says by contesting, he is taking up a task presented to him by former CJ Sarath N. Silva
-
-Claims to understand needs of SL’s 22 million strong population and their heartbeats
-
-Assures he will hold referendum if Parliament does not support efforts to end Executive Presidency
-
-Candidate numbers swell to 27 as election-related complaints rise to 320
-
-Former Sports Minister Roshan Ranasinghe has officially announced his decision to contest in the upcoming Presidential election.
-
-Ranasinghe announced his Presidential ambitions at an event held at the Sri Lanka Foundation Institute in Colombo yesterday, where he also pledged to end Sri Lanka’s Executive Presidency.
-
-The event, themed “Hadawathinma Ratata” (Wholeheartedly for the Country), was attended by several notable figures, including former Chief Justice Sarath N. Silva, Dr. Wasantha Bandara, Senior Counsel Kalyananda Thiranagama, and actor Kamal Addararachchi.
-
-...
-
-[Data](articles/992a19ad.json)
-
-[Extended Data](ext_articles/992a19ad.ext.json)
-
----
-
-### 2024-08-11 (Sunday)
-
-### Empowering women business owners in Sri Lanka
-
-*2024-08-11 23:52:52* · [`dailyftlk`](https://www.ft.lk/business/Empowering-women-business-owners-in-Sri-Lanka/34-765409) · `en`
-
-WEConnect International and US Embassy host key events to advance gender inclusive supply chains
-
-WEConnect International, with support from the US Embassy, hosted a Supplier Development Masterclass and the Supplier Diversity and Inclusion Roundtable on 4 and 5 August in Colombo, Sri Lanka.
-
-These events aim to empower and connect women-owned businesses with key industry leaders and potential buyers, fostering economic growth and promoting gender inclusivity within value chains.
-
-On 4 and 5 August, US Ambassador Julie Chung joined more than 40 Sri Lankan women business owners as they participated in the Supplier Development Masterclass, an advanced training program featuring in-depth lessons on business strategy, marketing, technology, negotiation, and sales. The class culminates in a pitch session where participants presented their businesses to a panel of buyers, providing valuable feedback and potentially opening doors to new business opportunities.
-
-...
-
-[Data](articles/13349a34.json)
-
-[Extended Data](ext_articles/13349a34.ext.json)
-
----
-
-### Cable Solutions to debut on CSE on Wednesday
-
-*2024-08-11 23:52:00* · [`dailyftlk`](https://www.ft.lk/business/Cable-Solutions-to-debut-on-CSE-on-Wednesday/34-765408) · `en`
-
-Public trading of shares of Cable Solutions Ltd. on the Diri Savi Board of the Colombo Stock Exchange (CSE) will commence on 14 August, under the ticker symbol CSLK.
-
-The initial public offering (IPO) of shares of Cable Solutions Ltd. – Sri Lanka’s leading specialised manufacturer of integrated cables – received active, broad-based interest from diverse investors and was oversubscribed on IPO opening day.
-
-Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666,600 new ordinary voting shares of the company, together with the sale of an existing 66,120,000 shares of the company by four of its non-majority shareholders. As a result, the company was able to successfully raise Rs. 109,999,500/- by way of its offer for subscription with the remaining funds being utilised to accommodate a partial sale from minority shareholders. The company intends to utilise its IPO funds for capital expenditure towards new machinery (81.8%) and working capital (18.2%).
-
-◼️
-
-[Data](articles/92a1d16a.json)
-
-[Extended Data](ext_articles/92a1d16a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 09:55:53**
+As of **2024-08-12 10:08:08**
 
 ## Newspaper Stats
 
-*Scraped **40,211** Articles*
+*Scraped **40,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adaderanalk | 4,680
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,083
 virakesarilk | 6,377
-adaderanasinhalalk | 6,837
+adaderanasinhalalk | 6,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,209 (100.0%) of 40,211 articles have been extended.
+40,209 (100.0%) of 40,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### තිදරු මවක් නිවස තුළ ඝාතනය කරලා
+
+*2024-08-12 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199841) · `si`
+
+තිදරු වයෝවෘද්ධ මවක් අත්පා ගැට ගසා නිරුවත් කර මදුරන්කුලිය නල්ලන්දළුව ප්‍රදේශයේ ඇගේ නිවස තුළදී අබිරහස් අයුරීන් මරා දමා තිබියදී ප්‍රදේශවාසින් ලබා දුන් තොරතුරක් මත සොයා ගත් බව මදුරන්කුලිය පොලීසිය පවසයි.
+
+මෙලෙස අවාසනාවන්ත අයුරීන් ඝාතනය කර ඇත්තේ මදුරන්කුලිය නල්ලන්දළුව ප්‍රදේශයෙ පදිංචි 71 හැවිරිදි තිදරු මවකි.
+
+ඇය තමාට අයත් පොල් ඉඩමේ තිබූ නිවසේ වාසය කර ඇති අතර දරුවන් ඇයව බැලිමට පැමිණ ඇත්තේද ඉඳහිට බවත් වාර්තා වෙයි.
+
+මෙම කාන්තාව ඇගේ නිවසේ නිදි යහන මතම ඝාතනය කර තිබූ බවත් ඇයගේ සිරුර බාහිර තුවාල කිසිවක් දැක ගත නොහැකි වු බව පරික්ෂණ පවත්වන පොලිස් කණ්ඩායම් පවසයි.
+
+◼️
+
+[Data](articles/3ec0e87e.json)
+
+---
+
+### මාරක රිය අනතුරු කිහිපයක් - 5ක් මරුට
+
+*2024-08-12 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199840) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයකදී සිදුවූ රිය අනතුරුවලින් පුද්ගලයන් පස් දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (11) මෙම අනතුරු සිදුව තිබුණේ පුනරීන්, උහන, ඇල්පිටිය සහ වරකාපොළ යන පොලිස් වසම්වලදී ය.
+
+පුනරීන් සිට යාපනය දෙසට ධාවනය වූ යතුරුපැදියක් වේගය පාලනය කරගත නොහැකිව කොන්ක්‍රීට් කණුවක ගැටීමෙන් 27හැවිරිදි තරුණයෙකු මියගොස් තිබේ.
+
+මේ අතර තිස්සපුර ප්‍රදේශයේදී යතුරුපැදියක් ට්‍රැක්ටර් රථයක් පසුකර යාමට ගත් උත්සාහයේදී මාර්ගය හරහා ගිය සුනඛයෙකු එහි ගැටීමෙන් අනතුරක් සිදුව ඇති අතර අනතුරින් යතුරුපැදිය පැදවූ පැදිකාරිය ට්‍රැක්ටර් රථයට යටවීමේන් බරපතළ තුවාල ලබා රෝහල් ගත කර සිටිය දී මියගොස් ඇති බව වාර්තා විය.
+
+තවද අම්බලන්ගොඩ මාර්ගයේ කුරුඳුගහපල්ලිය ආසන්නයේදී ඇල්පිටිය දෙස සිට අම්බලන්ගොඩ දෙසට ධාවන වූ බස් රථයකට යටවීමෙන් 41 හැවිරිදි අයෙක් මියගොස් තිබේ.
+
+මේ අතර කොළඹ-නුවර මාර්ගයේ තෝලංගමුව ප්‍රදේශයේදී මහනුවර සිට කොළඹ බලා ධාවනය වූ බස් රථයක් එම දිශාවටම ධාවනය වූ යතුරුපැදියක පිටුපසින් ගැටීමෙන් පුද්ගලයන් දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+...
+
+[Data](articles/aea84cc7.json)
+
+---
+
+### ඔස්ට්‍රේලියාවේ හෙලිකොප්ටරයක් කඩා වැටෙයි
+
+*2024-08-12 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199839) · `si`
+
+ඔස්ට්‍රේලියාවේ උතුරු කුවීන්ස්ලන්ත කෙයාන්ස් නගරයේ හෝටලයක් මතට හෙලිකොප්ටරයක් කඩා වැටී ඇති බව වාර්තා වෙයි.
+
+අද උදෑසන එරට වේලාවෙන් 01:50ට පමණ එම අනතුර සිදුව ඇති අතර බලධාරීන් පවසන්නේ එම යානය නිසි අවසරයකින් තොරව ගුවන්ගත කර ඇති බවයි.
+
+හෝටලයේ සිටි අමුත්තන් දෙදෙනෙක් රෝහල්ගත කර ඇති අතර ඔවුන්ගේ තත්ත්වය යහපත් බව සඳහන් ය.
+
+◼️
+
+[Data](articles/4bbef02e.json)
+
+---
 
 ### சந்திரிக்காவின் ஆதரவு யாருக்கு?
 
@@ -2205,73 +2261,5 @@ Organized by the United Trade Front in Kandy was attended by a number of represe
 [Data](articles/8911798c.json)
 
 [Extended Data](ext_articles/8911798c.ext.json)
-
----
-
-### Key suspect in Sri Lankan human trafficking case arrested in Tamil Nadu
-
-*2024-08-11 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101148/key-suspect-in-sri-lankan-human-trafficking-case-arrested-in-tamil-nadu) · `en`
-
-The National Investigation Agency (NIA) on Saturday arrested a key suspect in the Sri Lankan human trafficking case from Tamil Nadu. The accused, Seeni Aabulkhan, had been on the run for the past three years.
-
-The investigation revealed that Aabulkhan, along with his associates, was involved in confining trafficked victims on a boat before sending them to Mangaluru for further confinement. The case began in June 2021 when the Mangaluru Police rescued 13 Sri Lankan nationals from traffickers. The NIA took over the investigation and re-registered the case.
-
-The probe uncovered that a Sri Lankan national named Eesan, believed to be the kingpin of the racket with links to the terror outfit LTTE, collaborated with Aabulkhan to illegally transport 38 Sri Lankan nationals to various parts of Tamil Nadu. The victims were falsely promised employment opportunities in Canada besides assurances to obtain legitimate documents for migration to the country.
-
-...
-
-[Data](articles/9ae382be.json)
-
-[Extended Data](ext_articles/9ae382be.ext.json)
-
----
-
-### Fire at Colombo Port - Freight Ship Damage
-
-*2024-08-11 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190809) · `ta`
-
-A fire and explosion damaged a historic ship at Colombo Port early Sunday, causing significant harm to cargo and vessel. The blaze was contained by port staff, but the extent of damage remains unknown.
-
-🟩
-
-A senior official of the Sri Lanka Ports Authority said that a fire and explosion occurred in the early hours of Sunday (11) at an ancient ship that was anchored at the Port of Colombo.
-
-He added that the port employees, including the Port Fire Division, have extinguished the fire.
-
-The official said that the fire was not estimated to the damage caused by the fire and caused heavy damage to the goods and the ship.
-
-◼️
-
-[Data](articles/194e2a0f.json)
-
-[Extended Data](ext_articles/194e2a0f.ext.json)
-
----
-
-### All five people sent to hospital - car accident
-
-*2024-08-11 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199815) · `si`
-
-In a car accident near Marawila, five people from a group returning from church were hospitalized. The crash involved a car and two vans; it happened early morning on the road to Marawila Sri Kurrya Power due to loss of control by one of the drivers. The driver of the car, who was also employed, has been arrested for investigation.
-
-🟩
-
-A car and a van and a van were injured in an accident in Marawila.
-
-The accident occurred at around 2.45 am today (11) at the road to the Marawila Sri Kurrya Power.
-
-It is reported that the accident had occurred in the van and the vehicle could not control the car from a side road.
-
-A group of families in the Pambala area were injured in the accident.
-
-When they were leaving the Madhu church, they were in the accident when they arrived at the Marawila Sri Kurr Sabha.
-
-Investigations have revealed that the car driver had been deployed at the time of the accident and has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/a96da7a0.json)
-
-[Extended Data](ext_articles/a96da7a0.ext.json)
 
 ---

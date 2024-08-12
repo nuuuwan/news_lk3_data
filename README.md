@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 03:55:15**
+As of **2024-08-13 04:07:52**
 
 ## Newspaper Stats
 
-*Scraped **40,376** Articles*
+*Scraped **40,377** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 383
+colombotelegraphcom | 384
 islandlk | 2,331
 economynextcom | 2,445
 dailyftlk | 2,604
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,376 (100.0%) of 40,376 articles have been extended.
+40,376 (100.0%) of 40,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -349,6 +349,20 @@ They discussed the importance of working globally and exchanged ideas on the pos
 [Data](articles/4df37cfa.json)
 
 [Extended Data](ext_articles/4df37cfa.ext.json)
+
+---
+
+### Can The “Hammer & Sickle” Bring Prosperity To Sri Lanka?
+
+*2024-08-12 22:07:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-the-hammer-sickle-bring-prosperity-to-sri-lanka/) · `en`
+
+Sri Lanka is set to hold a Presidential Election in September this year, followed closely by a General Election. However, the country continues to grapple with widespread allegations of malfunction, corruption, fraud, nepotism, and the pervasive influence of party politics across nearly every facet of society.
+
+Over the last 70 years since independence, our governing political parties and coalitions have introduced policies under the guise of Capitalism, Socialism, and Liberalism. They have also advocated local and foreign policies based on Americanisation, Europeanisation, Neutralisation (non-aligned), Globalisation, “Chineseisation” and more recently possible “Indianisation.” All political parties and their coalitions came to power insisting that there was “no other way” to develop the nation other than through the emulation and absorption of one of these political cultures and their policies for economic, social, and political development.
+
+...
+
+[Data](articles/3f9acf2c.json)
 
 ---
 
@@ -2265,25 +2279,5 @@ It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, rec
 [Data](articles/32365bf6.json)
 
 [Extended Data](ext_articles/32365bf6.ext.json)
-
----
-
-### Ali Sabri appointed Justice Minister
-
-*2024-08-12 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-அமைச்சராக-அலி-சப்ரி-நியமனம்/175-342028) · `ta`
-
-Ali Sabri, previously External Affairs Minister, has been sworn in as the new Justice Minister following Vijayadasa Rajapakse's resignation to run for president.
-
-🟩
-
-External Affairs Minister Ali Sabri has been sworn in as the Minister of Justice.
-
-It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, recently resigned from the post of Ministry to contest the presidential election.
-
-◼️
-
-[Data](articles/c07d1bb2.json)
-
-[Extended Data](ext_articles/c07d1bb2.ext.json)
 
 ---

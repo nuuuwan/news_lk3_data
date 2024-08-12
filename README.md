@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 01:21:15**
+As of **2024-08-13 01:36:30**
 
 ## Newspaper Stats
 
-*Scraped **40,363** Articles*
+*Scraped **40,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,597
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,120
+tamilmirrorlk | 5,122
 virakesarilk | 6,394
 adaderanasinhalalk | 6,864
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,363 (100.0%) of 40,363 articles have been extended.
+40,363 (100.0%) of 40,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ’சவாலை ஏற்க நாம் தயார்’
+
+*2024-08-13 00:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவாலை-ஏற்க-நாம்-தயார்/175-342062) · `ta`
+
+பெரும் நெருக்கடிக்குள் இருந்த ஆளும் குழுவினால் எமது நாடு அழுத்தப்பட்டுள்ளது. இதிலிருந்து எமது நாட்டையும் மக்களையும் மீட்டெடுப்பதற்கான சவாலை தேசிய மக்கள் சக்தி ஏற்றுக்கொள்ளத் தயார். எனவே, இன்று நாங்கள் இட்ட இந்த கையொப்பம் நிச்சயமாக வெற்றிக்கான கையொப்பமிடலாக அமையும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தல் வேட்புமனுவில் அவர், திங்கட்கிழமை (12) கையொப்பமிட்டார். இந்த வைபவம், மக்கள் விடுதலை முன்னணியின்    தலைமை அலுவலகத்தில் இடம்பெற்றது. அதன்பின்னர் ஊடகங்களுக்கு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+சவால்களை ஏற்க நாம் தயாராகவே இருக்கின்றோம். ஏனென்றால், இப்பொழுது ஏனைய பாசறைகள் ஒவ்வொரு குழுவாகப் பிரிந்து, சிதைந்து அழுக்குகளை சேகரிக்கும் நிலைக்கு மாறியுள்ளது. தேசிய மக்கள் சக்தியாகிய நாம் ஒன்றரை வருடங்களுக்கு முன்னரே எமது பயணத்தை சரியாக ஆரம்பித்தோம் என்றார்.
+
+...
+
+[Data](articles/3608074b.json)
+
+---
+
+### விஜயமுனி சொய்சா ஜனாதிபதிக்கு ஆதரவு
+
+*2024-08-13 00:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயமுனி-சொய்சா-ஜனாதிபதிக்கு-ஆதரவு/175-342061) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் கட்டான தேர்தல் அமைப்பாளராக கடமையாற்றிய முன்னாள் அமைச்சர் விஜித் விஜயமுனி சொய்சா எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளார்.
+
+அவர் நேற்று பிற்பகல் ஜனாதிபதியை சந்தித்து தனது ஆதரவை உத்தியோகபூர்வமாக தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/85570fe3.json)
+
+---
 
 ### ACCA honours over 300 new members cultivating premier accounting talent
 
@@ -2277,47 +2307,5 @@ The ceremony was attended by several NPP’s national executive members, includi
 [Data](articles/a00ae9e4.json)
 
 [Extended Data](ext_articles/a00ae9e4.ext.json)
-
----
-
-### Campaign Beginning from August 21
-
-*2024-08-12 12:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்ட்-21-லிருந்து-பிரச்சாரம்-ஆரம்பம்/175-342024) · `ta`
-
-Johnston Fernando announced his presidential campaign launch in Anuradhapura on August 21, highlighting grassroots support despite some leaders joining the president. He mentioned efforts by former SLPP members to rejoin, indicating potential party strengthening.
-
-🟩
-
-Parliamentarian Johnston Fernando has said that its campaign for the upcoming presidential election will be launched in Anuradhapura on August 21.
-
-Fernando pointed out that some of the leaders of the Sri Lanka PA had joined the president, but the grassroots supporters were loyal to the party.
-
-He said that many former SLPP members who left the party are now trying to re -internet and show the possibility of strengthening the party's foundation.
-
-◼️
-
-[Data](articles/eca19d5a.json)
-
-[Extended Data](ext_articles/eca19d5a.ext.json)
-
----
-
-### Nearly 20 more election-related complaints within last 24 hours - EC
-
-*2024-08-12 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101169/nearly-20-more-election-related-complaints-within-last-24-hours-ec) · `en`
-
-The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
-
-The Election Commission says that 17 more complaints have been received within the past 24 hours pertaining to the 2024 Presidential Election.
-
-Accordingly, a total of 337 election complaints have been reported between July 31 and yesterday (11), the Election Commission said.
-
-The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024.
-
-◼️
-
-[Data](articles/1360758a.json)
-
-[Extended Data](ext_articles/1360758a.ext.json)
 
 ---

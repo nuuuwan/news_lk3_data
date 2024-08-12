@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 00:22:10**
+As of **2024-08-13 00:36:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,350 (100.0%) of 40,359 articles have been extended.
+40,359 (100.0%) of 40,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,25 +54,31 @@ It is worth noting that the relevance period for the candidates will be complete
 
 ---
 
-### இலங்கை இராஜதந்திரிகள் மற்றும் அதிகாரிகளுக்கான முதலாவது சிறப்புப் பாடப் பயிற்சித் திட்டம்
+### First Special Course Training Program for Sri Lankan diplomats and officials
 
 *2024-08-12 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190945) · `ta`
 
-சுஷ்மா ஸ்வராஜ் வெளிநாட்டுச் சேவை நிறுவனத்தில் இலங்கை இராஜதந்திரிகள் மற்றும் அதிகாரிகளுக்கான முதலாவது சிறப்புப் பாடப் பயிற்சித் திட்டம் முன்னெடுக்கப்பட்டது.
+The first specialized training program for Sri Lankan diplomats and officials was introduced at the Sushma Swaraj Foreign Service Institute, initiated by India's External Affairs Minister, Ali Sabri, and Indian Foreign Minister, Jaishankar. This initiative aims to enhance personal development and regional cooperation, focusing on global work challenges and digital era opportunities.
 
-வெளிவிவகார அமைச்சர் அலி சப்ரியின் வேண்டுகோளின் பேரில் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் சிறப்புப் பாடப் பயிற்சித் திட்டத்தை முன்னெடுத்தார்.
+🟩
 
-இது அவர்களின் தனிப்பட்ட வளர்ச்சிக்கு மாத்திரமன்றி இலங்கைக்கும் பிராந்தியத்திற்கும் நன்மை பயக்கும் விடயமாக அமையும்.
+The first special curriculum for Sri Lankan diplomats and officials was launched at Sushma Swaraj Foreign Service Institute.
 
-இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் இது குறித்து அவரது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளதாவது,
+At the request of External Affairs Minister Ali Sabri, Indian Foreign Minister. Jaishankar launched a special curriculum program.
 
-சுஷ்மா ஸ்வராஜ் வெளிநாட்டுச் சேவை நிறுவனத்தின் சிறப்புப் பாடத்தில் உள்ள இலங்கை தூதர்கள் மற்றும் அதிகாரிகளைச் சந்திப்பதில் மகிழ்ச்சி அடைகிறேன் என்று குறிப்பிட்டார்.
+This will be a beneficial for Sri Lanka and the region for their personal development.
 
-உலகளாவிய ரீதியில் இணைந்து செயல்படுவதன் முக்கியத்துவம் குறித்து விவாதித்ததுடன் டிஜிட்டல் சகாப்தத்தின் சாத்தியங்கள் மற்றும் சவால்கள் பற்றிய கருத்துக்களையும் பரிமாறிக் கொண்டனர்.
+Indian Foreign Minister. Jaishankar refers to this on his X site,
+
+Sushma Swaraj said I am happy to meet Sri Lankan ambassadors and officials in the Special Course of Foreign Service.
+
+They discussed the importance of working globally and exchanged ideas on the possibilities and challenges of the digital era.
 
 ◼️
 
 [Data](articles/4df37cfa.json)
+
+[Extended Data](ext_articles/4df37cfa.ext.json)
 
 ---
 
@@ -120,41 +126,57 @@ The complaints include incentives for government servants, developing various re
 
 ---
 
-### சஜித் வெற்றி கனியை சுவைப்பது திண்ணம் - ஐ.ம. சக்தியின் அம்பாறை மாவட்ட அமைப்பாளர் ஜயந்த ரட்ணாயக்க
+### Sajith's victory. Ampara District Organizer of Shakti Jayantha Ratnayaka
 
 *2024-08-12 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190944) · `ta`
 
-சஜித் பிரேமதாச எதிர்வரும் ஜனாதிபதி தேர்தலில் வெற்றி கனியைப் பெறுகின்றமை உறுதி என்று ஐக்கிய மக்கள் சக்தியின் அம்பாறை  மாவட்ட அமைப்பாளரும், அம்பாறை மாவட்டத்தின் ஓய்வு நிலை சிரேஷ்ட பொலிஸ் அத்தியட்சருமான ஜயந்த ரட்ணாயக்க தெரிவித்தார்.
+Jayantha Ratnayake, a senior official from the United People's Power in Ampara District, predicts Sajith Premadasa's victory in the upcoming presidential election, highlighting his ability to unite people across racial, religious, linguistic, and caste lines. The announcement was made during a gathering led by Eastern Provincial Council Chairman Chandradasa Kalapatti, attended by several party leaders, including Dr. Tilak Rajapaksa. Ratnayake emphasizes Premadasa's commitment to serving the poor and his father's legacy of progressive policies, suggesting a widespread anticipation for Premadasa's return to power.
 
-கிழக்கு மாகாண சபை அவை தலைவர் சந்திரதாஸ கலப்பதியின் அம்பாறை இல்லத்தில் திங்கட்கிழமை (12) ஐக்கிய மக்கள் சக்தியின் அம்பாறை மாவட்டத்துக்கான உயர் மட்ட ஆலோசனை குழு கூட்டம் இடம்பெற்றது.
+🟩
 
-இதில் ஐக்கிய மக்கள் சக்தியில் அண்மையில் இணைந்த அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்திய கலாநிதி திலக் ராஜபக்ஸ அடங்கலாக கட்சியின் மாவட்ட  முக்கியஸ்தர்கள் பலரும் கலந்து கொண்டனர்.
+The United People's Power District Organizer and Senior Superintendent of Police of the Ampara District, Jayantha Ratnayake, said that Sajith Premadasa is sure to win the upcoming presidential election.
 
-கூட்டம் நிறைவடைந்த பிற்பாடு  ஊடகவியலாளர்கள் மத்தியில் பேசியபோது ஜயந்த ரட்ணாயக்க மேலும் தெரிவித்தவை வருமாறு
+Eastern Provincial Council, Chairman Chandradasa Kalapatti's Ampara Home was held on Monday (12) at the United People's Power of Ampara District.
 
-தலைவர் சஜித் பிரேமதாச இந்த நாட்டு மக்கள் அனைவரினதும் கண்மணி ஆவார். இனம், மதம், மொழி, சாதி போன்ற வேறுபாடுகளுக்கு அப்பால்  எல்லா மக்களையும் அரவணைத்து நடப்பவர். அனைத்து இன மக்களும் சேர்ந்து எமது நாட்டின் தலைமைத்துவத்தை அவரிடம் ஒப்படைக்கும் காலம் மலர்ந்துள்ளது.
+A large number of party's leaders, including Dr. Tilak Rajapaksa, a member of the Ampara District Parliamentarian Dr. Tilak Rajapaksa, participated in the event.
+
+Speaking to journalists after the meeting was over, Jayantha Ratnayaka further stated
+
+Chairman Sajith Premadasa is the eye of all the people of this country. He is the one who embraces all people beyond the differences such as race, religion, language and caste. Together with all ethnicities, the time has blossomed to hand over the leadership of our country to him.
 
 ...
 
 [Data](articles/e3c2bd23.json)
 
+[Extended Data](ext_articles/e3c2bd23.ext.json)
+
 ---
 
-### அதிர்வை ஏற்படுத்தி இருக்கும் சூர்யாவின் 'கங்குவா' பட முன்னோட்டம்
+### Surya's 'Gangua' film preview
 
 *2024-08-12 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190926) · `ta`
 
-இந்திய அளவில் ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருக்கும் நடிகர் சூர்யாவின் 'கங்குவா' பட முன்னோட்டம் வெளியாகி பெரும் அதிர்வை ஏற்படுத்தி வருகிறது. இந்த முன்னோட்டம் வெளியான ஒரு மணி தியாலத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு புதிய சாதனையை படைத்திருக்கிறது.
+"Surya's 'Gangua' film preview, featuring Bollywood stars Bobby Deol and Disha Patani, directed by Siva, and composed by Devi Sri Prasad, broke records with over a million views in its first hour. The film, produced by Studio Green and U V Creations, is set for worldwide release in various Indian languages on October 10th."
 
-முன்னணி நட்சத்திர இயக்குநர் சிவா இயக்கத்தில் உருவாகி இருக்கும் 'கங்குவா' எனும் திரைப்படத்தில் சூர்யா, பொலிவுட் நடிகர்கள் பாபி தியோல் மற்றும் திஷா படானி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌
+🟩
 
-வெற்றி பழனிச்சாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார். ஃபான்டஸி எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் மற்றும் யூ வி கிரியேசன்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+Actor Surya's 'Gangua' preview of the Indian fan. The preview has been visited by more than a million viewers within an hour of release and set a new record.
 
-இந்தத் திரைப்படத்தின் டீசர் மற்றும் ஃபயர் சாங் ஆகியவை வெளியாகி மில்லியன் கணக்கிலான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+Surya, Bollywood actors Bobby Deol and Disha Patani have starred in the film 'Gangua' directed by leading star director Siva.
 
-...
+The film has been composed by 'Rock Star' Devi Sri Prasad for the film.. The film is being produced by Studio Green and U V Creations, which is being prepared as Fanty Exercise Entertainment.
+
+The film's teaser and Fire Song have been released and have been a record of millions of viewers.
+
+In this case, the film has been released.A stunning scenes - Surya's character - verses - background music - have been a great welcome as it is aimed at the audience to look at them again.
+
+In addition, the film will be released in other Indian languages ​​including Tamil at the film House around the world on the 10th of October.
+
+◼️
 
 [Data](articles/38f834cb.json)
+
+[Extended Data](ext_articles/38f834cb.ext.json)
 
 ---
 
@@ -198,25 +220,35 @@ In the recent past, more than 450 people, including the police officers, police 
 
 ---
 
-### 28 தொடர்சியான முடிவுகளின் பின்னர் வெற்றிதோல்வியின்றி முடிவடைந்த தென் ஆபிரிக்க - மே. தீவுகள் டெஸ்ட்
+### South Africa, which ended without success after 28 successive results. Islands test
 
 *2024-08-12 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190943) · `ta`
 
-தென் ஆபிரிக்காவுக்கும் மேற்கிந்தியத் தீவுகளுக்கும் இடையில் ட்ரினிடாட், போர்ட் ஒவ் ஸ்பெய்ன் விளையாட்டரங்கில் மழையினால் பாதிக்கப்பட்ட முதலாவது டெஸ்ட் கிரிக்கெட் போட்டி வெற்றிதோல்யின்றி முடிவடைந்தது.
+In a rain-affected Test cricket match at Trinidad and Port of Spain Stadium, South Africa and the West Indies ended without a clear winner. The series concluded with 28 Tests from July 2023 to July 2024, where South Africa set a target of 298 runs for the West Indies in the final innings. Despite losing their last six wickets quickly in the first innings, the West Indies managed 92 runs in the second innings but couldn't reach the target due to time constraints. Both teams' positions in the ICC World Test Championships remained unchanged, with South Africa at 26.67% and the West Indies at 20.83%.
 
-2023 ஜூலை மாதத்திலிருந்து இந்த வருடம் ஜுலை மாதம் வரை விளையாடப்பட்ட 28 டெஸ்ட் போட்டிகளில்  முடிவு  கிட்டிய நிலையில் இந்தப் போட்டி வெற்றிதோல்வியின்றி முடிவடைந்துள்ளது.
+🟩
 
-அப் போட்டியின் கடைசி நாளன்று மேற்கிந்தியத் தீவுகளுக்கு கடைசி இன்னிங்ஸில் 298 ஓட்டங்களை தென் ஆபிரிக்கா வெற்றி இலக்காக நிர்ணயித்தது.
+The first Test cricket match affected by the rain at the Trinidad and Port of Spain Stadium between South Africa and the West Indies ended without success.
 
-298 ஓட்டங்கள் என்ற வெற்றி இலக்கை அடைவதைவிட 63 ஓவர்களை எவ்வாறு சமாளிப்பது என்பதிலேயே மேற்கிந்தியத் தீவுகள் குறியாக இருந்தது.
+The tournament ended in 28 Tests from July 2023 to July this year.
 
-ஏனெனில் முதல் இன்னிங்ஸில் மேற்கிந்தியத் தீவுகள் அதன் கடைசி 6 விக்கெட்களை 16.1 ஓவர்களில் 60 ஓட்டங்கள் வித்தியாசத்தில் இழந்திருந்தது.
+South Africa set a target of 298 runs in the last innings of the West Indies on the last day of the match.
 
-எவ்வாறாயினும் இரண்டாவது இன்னிங்ஸில் அலிக் அத்தானெஸ் பெற்ற 92 ஓட்டங்களின் உதவியுடன் மேற்கிந்தியத் தீவுகள் 56.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 201 ஓட்டங்களைப் பெற்றிருந்தபோது ஆட்டத்தை முடிவுக்குக் கொண்டுவர   இரண்டு அணிகளினதும் தலைவர் தீர்மானித்தனர்.
+The West Indies were aimed at how to deal with 63 overs, rather than the winning target of 298 runs.
+
+This is because in the first innings, the West Indies lost its last 6 wickets in 16.1 overs by 60 runs.
+
+However, with the help of 92 runs in the second innings, the leader of the two teams decided to end the match when the West Indies lost 5 wickets in 56.2 overs.
+
+The two teams are in the same position as the ICC World Test Championships ended in the face of the World Test Championships.
+
+South Africa continued to rank 26.67 percent with 16 points and the West Indies continued at 9th with 20.83 per cent.
 
 ...
 
 [Data](articles/444e23e9.json)
+
+[Extended Data](ext_articles/444e23e9.ext.json)
 
 ---
 
@@ -264,21 +296,27 @@ Prasanna Vithanage, Vice President of the Liquor License Association, commented 
 
 ---
 
-### 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தல்; நாளையுடன் நிறைவு - தேர்தல்கள் ஆணைக்குழு
+### 32 candidates control;Completed with tomorrow- Elections Commission
 
 *2024-08-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190941) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை (12ஆம் திகதி திங்கட்கிழமை) 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட 16  வேட்பாளர்களும், வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சை வேட்பாளராக 15 பேரும் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+32 candidates, including independents and representatives from various political parties, have been approved to run in the upcoming presidential election. Control payments are due tomorrow at 12 noon, with nomination acceptance from 9 am to 11 pm. Key figures like Osala Herath, Sajith Premadasa, and Mahinda Devage are among the recognized candidates.
 
-கட்டுப்பணம் செலுத்தல் நாளை புதன்கிழமை நண்பகல் 12 மணியுடன் நிறைவு பெறும். அத்துடன் நாளை மறுதினம் வியாழக்கிழமை காலை 9 மணி முதல் 11 மணிவரையான காலப்பகுதியில் வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்படும்.
+🟩
 
-ஐதுருஸ் முஹம்மது இல்யாஸ் , எம் திலகராஜா,பா.அரியநேத்திரன்,  ஆகியோர் சுயாதீன வேட்பாளராக போட்டியிடவுள்ளதுடன்,ஐக்கிய ஜனநாயக கூட்டணியின் சார்பில் மொஹமட் இன்பாஸ் போட்டியிடவுள்ளார்.
+32 candidates have been controlled so far (Monday 12th Monday) to contest the presidential election. The Elections Commission has announced that 16 candidates to contest on behalf of the recognized political parties, 1 candidate for other political parties and 15 as independent candidates.
 
-ஜனாதிபதித் தேர்தலுக்கான ஆரம்பக்கட்ட பணிகளை தேர்தல்கள் ஆணைக்குழு நிறைவு செய்துள்ளது.இதற்கமைய கட்டுப்பணம் செலுத்தல் மற்றும் வேட்புமனுக்களை பொறுப்பேற்றல் நாளையும்,நாளை மறுதினமும் இடம்பெறவுள்ளது.
+Control Payment will be completed tomorrow at 12 noon. The nominations will be accepted from 9am to 11pm tomorrow.
+
+Ithurus Muhammad Ilyas, M Tilakaraja and Pa Ariyanethran will contest as an independent candidate and Mohammed Inbas will contest on behalf of the United Democratic Alliance.
+
+The Election Commission has completed the preliminary work for the presidential election.
 
 ...
 
 [Data](articles/930225d3.json)
+
+[Extended Data](ext_articles/930225d3.ext.json)
 
 ---
 
@@ -380,19 +418,27 @@ The Central Committee member of the Tamil People's Alliance (TNA), which is part
 
 ---
 
-### வட, கிழக்கில் இந்தியாவுடன் எமக்கு எவ்வித போட்டியுமில்லை : தமிழ் பாராளுமன்ற உறுப்பினர்களிடத்தில் சீனத்தூதுவர் தெரிவிப்பு
+### We have no competition with India in the North and East: Chinese Ambassador
 
 *2024-08-12 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190940) · `ta`
 
-வடக்கு, கிழக்கு மாகாணங்களில் இந்தியாவுடன் தமக்கு எந்தவொரு போட்டியும் இல்லை என தமிழ் பாராளுமன்ற உறுப்பினர்களிடத்தில் தெரிவித்திருக்கும் சீனத்தூதுவர் சி சென்ஹொங் இந்தியாவுடன் மிகநெருக்கமாகப் பணியாற்றுவதற்கான காரணத்தைக் கேட்டறிந்திருக்கிறார்.
+Chinese Ambassador C. Senhong met with Tamil MPs from Sri Lanka's Northern and Eastern provinces, discussing political issues ahead of the country's presidential election. He assured them of China's non-interference with India in their regions, emphasizing China's commitment to Sri Lanka's sovereignty.
 
-இலங்கைக்கான சீனத்தூதுவர் சி சென்ஹொங் மற்றும் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன், இரா.சாணக்கியனுக்கும் இடையிலான சந்திப்பொன்று திங்கட்கிழமை (12) கொழும்பிலுள்ள சீனத்தூதரகத்தில் நடைபெற்றது.
+🟩
 
-நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில், சமகால அரசியல் நிலைவரம் மற்றும் தமிழ்த்தேசிய அரசியல் கட்சிகளின் நிலைப்பாடு உள்ளிட்ட விடயங்கள் தொடர்பில் விரிவாகக் கலந்துரையாடும் நோக்கிலேயே சீனத்தூதரகத்தினால் இச்சந்திப்புக்கு அழைப்புவிடுக்கப்பட்டிருந்தது.
+Chinese Ambassador C. Senhong, who has told Tamil MPs in the Northern and Eastern Provinces that he has no competition with India.
+
+A meeting between Chinese Ambassador to Sri Lanka C. Senhong and MPs of the Sri Lanka Tamil National Alliance (TNA) MA Sumanthiran and R. Sanakiyan were held on Monday (12) at the Chinese Embassy in Colombo.
+
+As the country's ninth presidential election is scheduled for September 21, the Chinese embassy was invited to discuss the issue of contemporary political status and the positions of the Tamil national political parties.
+
+Accordingly, Chinese Ambassador C Senhong questioned the success of the major candidates to contest the upcoming presidential election and the position of the public candidate on behalf of the Tamils.
 
 ...
 
 [Data](articles/b6db23f9.json)
+
+[Extended Data](ext_articles/b6db23f9.ext.json)
 
 ---
 
@@ -642,19 +688,25 @@ During the interrogation of the driver, it has been revealed that the bus had su
 
 ---
 
-### அரசாங்க அச்சகத்திற்கு பலத்த பாதுகாப்பு
+### Strong security to the Government Press
 
 *2024-08-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190913) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கு அச்சுப் பணிகள் ஆரம்பிக்கப்பட்டுள்ள நிலையில் அரச அச்சகத் திணைக்களத்தின் பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+Security at the State Press Department has been bolstered ahead of the presidential election, with initial printing tasks now in progress under the Elections Commission. Following the dispatch of ballots post-August 15, additional security measures were implemented at the request of the Elections Commission.
 
-தேர்தல்கள் ஆணைக்குழுவினால் வழிநடத்தப்பட்ட ஆரம்பகட்ட அச்சிடும் பணிகள்  நடைபெற்று வருவதாக அரச அச்சகர் கங்கா கல்பனீ லியனகே  உறுதிப்படுத்தினார்.
+🟩
 
-ஓகஸ்ட் 15ஆம் திகதிக்குப் பின்னர் வாக்குச் சீட்டுகள் அனுப்பிவைக்கப்பட்ட பின்னர் பாதுகாப்பு நடவடிக்கைகளை மேலும் பலப்படுத்துமாறு தேர்தல்கள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளதாக லியனகே குறிப்பிட்டுள்ளார்.
+The security of the State Press Department has been enhanced as print work has begun for the upcoming presidential election.
+
+State Amaker Ganga Kalpani Liyanage confirmed that the preliminary printing work was underway by the Elections Commission.
+
+Liyanage said that after the ballot was sent after August 15, the Elections Commission had asked the Elections Commission to further strengthen security measures.
 
 ◼️
 
 [Data](articles/0c7780a7.json)
+
+[Extended Data](ext_articles/0c7780a7.ext.json)
 
 ---
 
@@ -728,23 +780,33 @@ The two Tests will commence on September 18 and 26 the Galle International Crick
 
 ---
 
-### ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ எமக்கு சவாலல்ல : பிரசன்ன ரணதுங்க
+### Presidential candidate Namal Rajapaksa is not a challenge for us: Prasanna Ranatunga
 
 *2024-08-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190921) · `ta`
 
-ஜனாதிபதித் தேர்தலில் எமக்கும், ஐக்கிய மக்கள் சக்திக்கும் இடையில் தான் போட்டி நிலவும். ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ எமக்கு சவாலல்ல, மஹிந்த ராஜபக்ஷ மீது நாட்டு மக்கள் மரியாதை வைத்துள்ளாரே தவிர ராஜபக்ஷ குடும்பத்தின் மீது மரியாதை வைக்கவில்லை என வீடமைப்பு மற்றும் நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+Housing Minister Prasanna Ranatunga dismisses Namal Rajapaksa as a threat in the upcoming presidential election, highlighting the real competition lies between their party and the United People's Power. He respects Mahinda Rajapaksa but criticizes public sentiment towards the Rajapaksa family. Their focus remains on supporting President Ranil Wickremesinghe, aiming to form a government under his leadership.
 
-கொழும்பில் ஞாயிற்றுக்கிழமை (11)  மாலை இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மீது நாங்கள் இன்றும் மரியாதை வைத்துள்ளோம்.அதேபோல் நாட்டு மக்களும் மரியாதை வைத்துள்ளார்கள்.
+There is a rival between us and the United People's Power in the presidential election. Housing and Urban Development Minister Prasanna Ranatunga said that the presidential candidate Namal Rajapaksa is not a challenge, but the people have honored Mahinda Rajapaksa and not respecting the Rajapakse family.
 
-ஆனால் ராஜபக்ஷ குடும்பத்தின் மீது நாட்டு மக்கள் மரியாதை வைத்திருக்கவில்லை என்பதை குறிப்பிட்டுக் கொள்ள வேண்டும்.
+He was speaking to the media after the event on Sunday evening in Colombo.
 
-முதலாவதும் நாடு , இரண்டாவதும் நாடு, மூன்றாவதும் நாடு என்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ குறிப்பிடுவார்.
+We still have respect for former President Mahinda Rajapakse.
+
+But it must be noted that the people of the country did not respect the Rajapaksa family.
+
+Former President Mahinda Rajapakse will refer to the first and the country, the second and the third.
+
+We have decided to support President Ranil Wickremesinghe as we should only think about the country at present.
+
+Contest between us and the United People's Power in the presidential election. Presidential candidate Namal Rajapaksa is not a challenge for us, but the contest between Presidential candidate Battaramulle Seelaratne Thera and Namal Rajapaksa.
 
 ...
 
 [Data](articles/5af00335.json)
+
+[Extended Data](ext_articles/5af00335.ext.json)
 
 ---
 
@@ -1494,25 +1556,31 @@ This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Elector
 
 ---
 
-### நான் ஒரு செவித்திறன் குறைபாடுடைய பெண் என்பதில் பெருமையடைகிறேன் - தென்னாபிரிக்க அழகு ராணி
+### I am proud to be a hearing defective woman - the queen of the South African beauty
 
 *2024-08-12 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190889) · `ta`
 
-மியா லு ரூக்ஸ் என்ற செவித்திறன் குறைபாடுடைய பெண்ணொருவர் முதன் முறையாக தென்னாபிரிக்காவில் அழகு ராணி பட்டத்தை சூடியுள்ளார்.
+Mia Lu Ruke, a 28-year-old with profound hearing loss, became the first deaf woman to win a beauty pageant in South Africa. Despite her disability, she achieved her dream and aims to inspire others with disabilities. She hopes to use her platform to advocate for the rights of the disabled.
 
-சமூகத்தில் ஒதுக்கப்பட்டவர்கள் என்னைப் போலவே வெறித்தனமான கனவுகளை அடைய தனது வெற்றி உதவும் என்று நம்புகிறேன். மாற்றுத் திறனாளிகளுக்கு உதவ விரும்புகிறேன் என மியா லு ரூக்ஸ் தெரிவித்துள்ளார்.
+🟩
 
-28 வயதுடைய மியா லு ரூக்ஸ்க்கு ஒரு வயதில் ஆழ்ந்த செவித்திறன் குறைபாடு இருப்பது கண்டறியப்பட்டது. அதன் பின்பு அவரது காதில் கோக்லியர் மின்னணு சாதனம் பொறுத்தப்பட்டது.
+For the first time, a woman with a deafening woman named Mia Lu Ruke has set a beauty queen in South Africa for the first time.
 
-அத்துடன், முதல் வார்த்தையை பேசுவதற்கு இரண்டு வருடங்கள் பேச்சு திறன் சிகிச்சை அளிக்கப்பட்டுள்ளது.
+I hope that those who are reserved in the community will help me achieve fanatic dreams like me. "I would like to help the disabled," Mia Lu Rukes said.
 
-இந்நிலையில், மியா லு ரூக்ஸ்  தற்போது அவர் மொடல் மற்றும் சந்தைப்படுத்தல் மேலாளராகவுள்ளார்.
+28 -year -old Mia Lu Rukes was found to have a deep hearing impairment at an age. After that, the Cocilery electronic device in his ear was concerned.
 
-"நான் ஒரு தென்னாப்பிரிக்க செவித்திறன் குறைபாடுடைய பெண்  என்பதில் பெருமையடைகிறேன், ஒதுக்கப்படுவதால் ஏற்படும் வலி எப்படி இருக்கும் என்று எனக்குத் தெரியும். நான் எல்லைகளை உடைப்பதற்காக இந்த கிரகத்தில் படைக்கப்பட்டுள்ளேன் என்பதை தற்போது அறிகிறேன்.  நான் அதை இன்றிரவு செய்துள்ளேன் என தெரிவித்துள்ளார்.
+Also, two years of speech skills have been given to speak the first word.
+
+In this case, Mia Lu Ruke is currently the model and marketing manager.
+
+"I am proud that I am a South African hearing woman. I know what the pain is caused by being assigned. I now know that I am created on this planet to break the borders.I have done it tonight, ”he said.
 
 ◼️
 
 [Data](articles/d6490ba8.json)
+
+[Extended Data](ext_articles/d6490ba8.ext.json)
 
 ---
 

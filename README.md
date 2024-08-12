@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 14:09:45**
+As of **2024-08-12 14:20:59**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 6,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,273 (100.0%) of 40,275 articles have been extended.
+40,275 (100.0%) of 40,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ආගමන හා විගමන නිලධාරීන්ට විමල්ගෙන් නඩු
+### Wimal cases filed against immigration officers
 
 *2024-08-12 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199851) · `si`
 
-සිය කීර්තිනාමයට සිදුවූ හානිය වෙනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා රුපියල් මිලියන 1000ක වන්දි මුදලක් ඉල්ලා ආගමන හා විගමන නිලධාරීන් දෙදෙනෙකුට එරෙහිව කොළඹ දිසා අධිකරණය හමුවේ නඩු පවරා තිබේ.
+MP Wimal Weerawansa filed a lawsuit against two immigration officers, alleging wrongful arrest and damage to his reputation. The incident occurred when he tried to leave Sri Lanka for Dubai in 2015, presenting his diplomatic passport. He was later arrested and taken to court, leading to this legal action seeking compensation.
 
-ඒ පසුගිය යහපාලන රජය සමයේ කිසිදු හේතුවක් නොමැතිව තමන්ව ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගෙන මීගමුව මහෙස්ත්‍රාත් අධිකරණයේ නඩු පැවරීම තුළින් සිය කීර්තිනාමයට හානි සිදුවූ බව පවසමිනි.
+🟩
 
-අද (12) පවරා ඇති මෙම නඩුව තුළින් වගඋත්තරකරුවන් ලෙස ආගමන හා විගමන දෙපාර්තමේන්තුවේ බලයලත් නිලධාරී එරංග රඹුක්වැල්ල, ජ්‍යෙෂ්ඨ බලයලත් නිලධාරී සුජීව රත්නායක හා නීතිපතිවරයාව නම්කර තිබේ.
+MP Wimal Weerawansa has filed a case before the Colombo District Court against two Immigration and Emigration officials for compensation for its compensation for its reputation.
 
-අදාළ පෙත්සම තුළින් මන්ත්‍රීවරයා පෙන්වා දී ඇත්තේ තමන් 2015 වසරේ ඔක්තෝබර් මස 23 වනදා විදේශීය රටවල් තුනක පැවැත්වීමට නියමිතව තිබූ සම්මන්ත්‍රණවලට සහභාගීවීම සඳහා ඩුබායි බලා පිටත්වයාමට කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බවයි.
+The last good governance was arrested by the government under the Immigration and Emigration Act and legalized in the Negombo Magistrate Court without any reason.
 
-එහිදී විදේශගත වීම සඳහා තමා රාජ්‍යතාන්ත්‍රික විදේශ ගමන් බලපත්‍රය ඉදිරිපත් කළ බවත් එහි සිටි ආගමන හා විගමන නිලධාරීන් දත්ත පද්ධතිය පරීක්ෂා කර එය අක්‍රීය ගුවන් බලපත්‍රයක් බවට ප්‍රකාශය කළ බවත් එම පැමිණිල්ලේ සඳහන්ව තිබේ.
+Eranga Rambukwella, Authorities, Senior Authorized Officer Mr. Sujeewa Ratnayake and the Attorney General has been named as respondents to respondents today.
+
+The MP had pointed out that he returned to the Katunayake Airport to get into Dubai to participate in Dubai on October 23, 2015.
+
+The complaint states that he had submitted the diplomatic passport to go abroad and made the statement to the Immigration and Emigration Officers.
+
+Later he was arrested by the Criminal Investigation Officers and the Criminal Investigation Officers were arrested and produced before the Negombo Magistrate's Court.The MP said that it was severely damaged by its reputation.
 
 ...
 
 [Data](articles/64fabd4b.json)
 
+[Extended Data](ext_articles/64fabd4b.ext.json)
+
 ---
 
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+### An announcement of the weather
 
 *2024-08-12 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199850) · `si`
 
-තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Heavy rains expected in Galle, Matara, and other districts with over 100mm showers.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 100 ඉක්මවූ තද වැසි ඇති විය හැකිය.
+🟩
+
+The Department of Meteorology has issued an announcement of heavy rains.
+
+The Galle and Matara districts can have a heavy showers exceeding 100 millimeters in the Western, Sabaragamuwa, Central and Matara districts.
 
 ◼️
 
 [Data](articles/8b6fd9b2.json)
+
+[Extended Data](ext_articles/8b6fd9b2.ext.json)
 
 ---
 
@@ -1758,6 +1772,22 @@ If the Light Rail Development Program was not canceled by 2020, the development 
 
 ---
 
+### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
+
+*2024-08-12 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
+
+From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
+
+This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
+
+...
+
+[Data](articles/63e11237.json)
+
+[Extended Data](ext_articles/63e11237.ext.json)
+
+---
+
 ### The two Chief  similarities between Sri Lanka’s 2022 ‘youth aragalaya’ and Bangladesh’s youth uprising in 2024
 
 *2024-08-12 03:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84516) · `en`
@@ -2271,23 +2301,5 @@ Moderated by CIMA Global 2022/23 President Melanie J. Kanaka, and Sri Lanka Huma
 [Data](articles/612fd5cf.json)
 
 [Extended Data](ext_articles/612fd5cf.ext.json)
-
----
-
-### Presidential Hopefuls Should Give Top Priority To Make Sri Lanka A Creative Economy – Part I
-
-*2024-08-11 22:51:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-hopefuls-should-give-top-priority-to-make-sri-lanka-a-creative-economy-part-i/) · `en`
-
-There is a long list of Presidential hopefuls, but the voters will focus on five or six of them. From among them, one will be elected as the leader to steer the country to progress and prosperity. However, if they are to deliver prosperity to people, they should adopt policy strategies to accelerate economic growth at an unparalleled level of 8-9% annually over the next 25 years. This requires Sri Lanka to generate new inventions which should be commercially produced for the local as well as for global markets through innovations.
-
-Hence, inventions and innovations should receive the highest priority of those aspiring to win the forthcoming Presidential election in their policy strategies. This article series will provide the needed guidance to those Presidential hopefuls. It is an updated and a modified version of a previous paper written by the author for the Association of Professional Bankers.
-
-Modern economies should be aptly termed innovation or creative economies
-
-...
-
-[Data](articles/5b734491.json)
-
-[Extended Data](ext_articles/5b734491.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 14:55:28**
+As of **2024-08-12 15:06:34**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 6,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,278 (100.0%) of 40,280 articles have been extended.
+40,280 (100.0%) of 40,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ජූලි මාසයේ ICC ක්‍රීඩිකාව චමරි
+### ICC athletes in July
 
 *2024-08-12 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199853) · `si`
 
-ජූලි මාසයේ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ක්‍රීඩිකාව ලෙස ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු තෝරාගත් බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිවේදනය කළේය.
+In July, ICC named Chamari, the captain of the Sri Lanka women's cricket team, as its Player of the Month. This recognition comes after her team won the Asian Trophy for the first time, marking a significant achievement for Chamari, who is 34 years old. This is her third such honor, following previous wins by the West Indies team (three times) and Australia's Associate Gardner (four times).
 
-එහිදී ඉන්දීය ක්‍රීඩිකාවන් වන ස්මිත්‍රී මන්ධනා සහ ශෆාලි වර්මා ගෙන් ඇයට දැඩි තරගයක් එල්ල්වුණි.
+🟩
 
-පසුගිය මාසයේදී ශ්‍රී ලංකා කාන්තා කණ්ඩායම පළමු වරට ආසියානු කුසලානය ජයගත් අතර ඒ සඳහා චමරි ගෙන් විශාල දායකත්වයක් ලැබුණි.
+The International Cricket Council (IU) announced that Chamari, captain Chamari selected as the International Cricket Council in July, was selected.
 
-34 හැවිරිදි වියේ පසුවන චමරි මෙම සම්මානය දිනාගත් තුන්වැනි අවස්ථාව මෙයවෙයි.
+Indian players, Minister of Sinhalese, Sungia Paradesha and Shfali Werma gave her a strong match.
 
-මේ වනවිට බටහිර ඉන්දීය කොදෙව් කණ්ඩායමේ හේලි මැතිව්ස් එම සම්මානය තුන් වරක් දිනාගෙන ඇති අතර ඔස්ට්‍රේලියාවේ ඇෂ්ලේ ගාර්ඩ්නර් මෙම සම්මානය සිව් වරක් දිනාගත්තාය.
+Last month, the Sri Lanka women's team won the Asian Trophy for the first time and made a huge contributor to Chamari.
+
+Chamari, who was 34, was the third occasion that won the award.
+
+The West Indies team has won the award three times and Australia's Associate Gardner won the year four times.
 
 ◼️
 
 [Data](articles/534d50d4.json)
 
+[Extended Data](ext_articles/534d50d4.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවේ මන්ත්‍රීධූර දෙකක් හිස් වූ බව මැතිවරණ කොමිසමට දන්වයි
+### Elections Commission tells the election commission that two seats were empty
 
 *2024-08-12 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199852) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීධුර දෙකක් පුරප්පාඩුවී ඇති බව පාර්ලිමේන්තුව විසින් මැතිවරණ කොමිෂන් සභාවට දන්වා තිබේ.
+The Parliament notified the Elections Commission about two vacant parliamentary seats. The Acting Chief Secretary, Chaminda Kularatne, filled these vacancies for the 9th parliamentary seat in the Galle District, previously held by MP Harin Fernando, focusing on reconciliation and the national list. This action aligns with Articles 64(1) and 64(5) of the Parliamentary Electorate Act, No. 1 of 1981.
 
-සමගි ජන බලවේගය නියෝජනය කළ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී මනූෂ නානායක්කාර සහ එම පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී හරීන් ප්‍රනාන්දු යන මහත්වරුන්ගේ පාර්ලිමේන්තු මන්ත්‍රීධුර අහෝසි වීම හේතුවෙන් පසුගිය 09 වැනිදා සිට දින නවවැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුර දෙකක පුරප්පාඩුවක් ඇති වී ඇති බව පාර්ලිමේන්තුවේ වැඩබලන මහ ලේකම් චමින්ද කුලරත්න මහතා මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිඛිතව දන්වා යවා තිබේ.
+🟩
 
-1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) සහ 64 (5) යන වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+The Parliament has informed the Elections Commission that two parliamentary seats have been vacant.
+
+Acting Chief Secretary Chaminda Kularatne has elected two seminaries of the 9th parliamentary seat by Galle District MP Harin Fernando, who represented the reconciliation, and the national list MP Harin Fernando.The Chairman of the House has been informed in writing.
+
+This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Electorate Act, No. 1 of 1981.
 
 ◼️
 
 [Data](articles/3d2877f2.json)
+
+[Extended Data](ext_articles/3d2877f2.ext.json)
 
 ---
 

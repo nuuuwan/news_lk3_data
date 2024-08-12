@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 22:36:17**
+As of **2024-08-12 22:54:47**
 
 ## Newspaper Stats
 
-*Scraped **40,347** Articles*
+*Scraped **40,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,444
 dailyftlk | 2,593
-adalk | 3,708
+adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,347 (100.0%) of 40,347 articles have been extended.
+40,347 (100.0%) of 40,348 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -261,6 +261,22 @@ The 'Sivaganga' shipping service has been delayed due to technical disorder and 
 [Data](articles/6ef9d8aa.json)
 
 [Extended Data](ext_articles/6ef9d8aa.ext.json)
+
+---
+
+### ලංකාවේ පළමු තරු හතේ හෝටලය මහනුවර ඉදි වෙයි
+
+*2024-08-12 18:59:25* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමු-තරු-හතේ-හෝටලය-මහනුවර-ඉදි-වෙයි/11-411332) · `si`
+
+ශ්‍රී ලංකාවට පැමිණෙන සංචාරකයන්ට මෙරට සුන්දරත්වය සේම හරිත වටපිටාව සම්බන්ධයෙන් ඉහළම අත්දැකීමක් ලබාදීමට ආරම්භ කිරීමට නියමිත මෙරට ප්‍රථම තරු -07 හෝටල් ව්‍යාපෘතියක් වන අවියානා පෞද්ගලික හෝටල් සංකීර්ණයේ (Aviyana Private Chalet Ceylon) ඉදිකිරීම් කටයුතු මේ වනවිට සියයට 70%කින් පමණ නිමා වී තිබේ .
+
+ශ්‍රී ලංකා ආර්ථිකයට මෙන්ම සංචාරක ව්‍යාපාර ක්ෂේත්‍රයට විශාල ශක්තියක් ලබාදෙමින් මහනුවර උඩිස්පත්තුවේ සුන්දර රමණීය පරිසරයක රුපියල් බිලියන 08 ක ආයෝජනයක් සහිතව එම හෝටල් සංකීර්ණය ඉදි වෙමින් පවතින අතර එහි පළමු අදියර නොවැම්බර් මාසයේදී විවෘත කිරීමට සැලසුම් කොට ඇති බව අවියානා හෝටල් සමූහයේ සභාපති හා ප්‍රධාන විධායක නිලධාරී ආචාර්ය තිසර හේවාවසම් මහතා පවසයි .
+
+මහනුවර ඇසළ පෙරහර මංගල්‍යයට සමගාමීව මහනුවර කැන්ඩි සිටි සෙන්ටර් හිදී මේ මස 20 වැනි දින දක්වා දියත් කෙරෙන හෝටල් ව්‍යාපෘතිය හා සම්බන්ධ ප්‍රවර්ධන වැඩසටහනකට එක්වෙමින් ඒ මහතා ඒ බව අවධාරණය කළේය .
+
+...
+
+[Data](articles/1e562c6c.json)
 
 ---
 
@@ -2251,33 +2267,5 @@ Due to the revision, the waterfront will be implemented in Akmeemana, Bope, Poth
 [Data](articles/26eb8ec5.json)
 
 [Extended Data](ext_articles/26eb8ec5.ext.json)
-
----
-
-### The experience of a Sri Lankan in the middle of the UK carries
-
-*2024-08-12 11:19:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj625k257djo) · `si`
-
-Chanaka Balasuriya, a 90-year-old Sri Lankan migrant in the UK, experienced severe violence linked to anti-migration sentiments. Following a knife attack incident at a Taylor Swift Club, which spread via social media, causing unrest across England, including Urland. Communities responded by repairing damaged mosques and businesses. Despite initial financial hardship, Balasuriya found support from locals, including a beauty salon owner raising over £11,000 for repairs. He urges unity and healing amidst ongoing caution due to past racist experiences.
-
-🟩
-
-The 90-year-old Chanaka Balasuriya, who migrated to the UK from Sri Lanka, was severely affected by the 200-year-old violence from Sri Lanka.
-
-During a ceremony held at a Taylor Swift the Taylor Swift Club, three children were plundered by the anti-migration rebels after the death hall of the deadly knife.
-
-The violence spread through England and cities of Urland, the violence spread through the Internet, and the wrong propaganda spread through the Internet.
-
-Since then, thousands of people have taken steps to street to prevent further attacks and have taken steps to repair their communities [damaged] mosques and business places.
-
-Financially, the experience of Balasuriya's riots, who were surrounded by the people around him, was a tip of a way to get rid of such situations.
-
-The grieving people gathered to honor girls who were grieved in the knives on July 30 hours after a hundred and two hours, Southport.
-
-...
-
-[Data](articles/be833047.json)
-
-[Extended Data](ext_articles/be833047.ext.json)
 
 ---

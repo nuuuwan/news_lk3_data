@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 21:56:07**
+As of **2024-08-12 22:09:05**
 
 ## Newspaper Stats
 
-*Scraped **40,345** Articles*
+*Scraped **40,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,444
 dailyftlk | 2,593
-adalk | 3,707
+adalk | 3,708
 adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,345 (100.0%) of 40,345 articles have been extended.
+40,345 (100.0%) of 40,346 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -257,6 +257,24 @@ One of the 01 political parties and 15 independent candidates have deposited bai
 [Data](articles/8affb79f.json)
 
 [Extended Data](ext_articles/8affb79f.ext.json)
+
+---
+
+### හෙදියගේ හිසට කතුරෙන් පහර දුන්නාට විශේෂඥ වෛද්‍යවරයාට රු. 50000ක් වන්දි ගෙවන්න වෙයි
+
+*2024-08-12 18:42:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙදියගේ-හිසට-කතුරෙන්-පහර-දුන්නාට-විශේෂඥ-වෛද්‍යවරයාට-රු--50000ක්-වන්දි-ගෙවන්න-වෙයි/11-411331) · `si`
+
+දියවැඩියා රෝගියෙකුගේ මහපට ඇඟිල්ල කපා දැමීමේ ශල්‍යකර්මය කරමින් සිටියදී ඒ සඳහා භාවිතා කළ අස්ථි කපා දැමීමේ කතුරෙන් හෙදියගේ හිසට පහරදීමෙන් ඇගේ මූලික අයිතිවාසිකම් කඩවී ඇතැයි තීන්දු කළ සිය පෞද්ගලික මුදලින් ඇයට රුපියල් 50,000/-ක වන්දිියක් ගෙවීමට විශේෂඥ ශල්‍ය වෛද්‍යවරයාට නියම කළ ශ්‍රේෂ්ඨාධිකරණය රුපියල් 10,000/-ක වන්දියක් ගෙවවීමට රජයට නියම කළේය.
+
+මීට වසර 05කට පෙර කුරුණෑගල මහ රෝහලේ ශල්‍යගාරයේදී විශේෂඥ ශල්‍ය වෛද්‍යවරයා ශල්‍යකර්මය කරමින් සිටියදී කෝපාවිෂ්ඨව පෙත්සම්කාරියට කතුරෙන් පහරදී ඇති බවට ඉදිරිපත් වු සාක්කි මඟින් ශල්‍ය වෛද්‍යවරයා පෙත්සම්කාර හෙදියගේ මූලික අයිතිවාසිකම් කඩකර ඇතැය තීන්දු කරමින් මෙලෙස වන්දිගෙවීමටට නියම කෙරිණී.
+
+කුරුණෑගල මහරෝහලේ ශල්‍ය අංශයේ සේවය කළ හෙද නිලධාරිනි මාධවී බුද්ධිකා රාජගුරු මහත්මියට මෙලෙස වන්දි ගෙවීමට නියම කරන් ලද්දේ කුරූණෑගල මහ රෝහලේ විශේෂඥ ශල්‍ය වෛද්‍ය අශෝක විජයමාන්න මහතාටය.
+
+සිය මුලික අයිතිවාසිකම් කඩකර ඇතැයි සඳහන් කරමින් බුද්ධිකා රාජගුරු මහත්මිය විසින් විශේෂඥ ශල්‍ය වෛද්‍ය අශෝක විජයමාන්න මහතා ඇතුළු 6 දෙනෙකු වගඋත්තරකරුවන් වශයෙන් නම් කරමින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණී.
+
+...
+
+[Data](articles/2890c0ee.json)
 
 ---
 
@@ -2255,33 +2273,5 @@ The subsequent questions were addressed by the people because the Life -term mem
 [Data](articles/44c4ba37.json)
 
 [Extended Data](ext_articles/44c4ba37.ext.json)
-
----
-
-### Senthil's crowd in the crowd: exit by questioning eyes
-
-*2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்-கேள்விக்-கணைகளால்-வெளியேறினார்/75-342018) · `ta`
-
-In a meeting organized by Eastern Province Governor Senthil Thondaman regarding the Thirukoneswaram Temple's development, concerns arose over the disappearance of a valuable Chola period necklace. Despite attempts to conclude the meeting abruptly, attendees raised critical questions about the necklace's theft, the urgency of the meeting, and the broader issues affecting the temple. The governor failed to address these queries satisfactorily, leaving many unanswered.
-
-🟩
-
-The unrest was held at an official meeting organized by the Governor of the Eastern Province Senthil Thondaman on the Thirukoneswaram temple.
-
-A meeting of General Council members on the development of Thirukoneswaram Temple was held on Sunday (11)
-
-Senthil Thondaman said that he had made arrangements to build the Raja Tower at the Tirukoneswara Temple.In this case, a tali worth several hundred crores of rupees in the Chola period has been stolen.
-
-Governor Senthil Thondaman, who ended the meeting in a hurry, tried to go without giving people the opportunity to question the people
-
-The subsequent questions were addressed by the people because the Life -term members of Trincomalee who attended the meeting were in the position that you should answer their question.
-
-௦௧. When the court handed over the temple to the Administrative Council in 2009, there was no such Chola period jewelery.
-
-...
-
-[Data](articles/7aceeb94.json)
-
-[Extended Data](ext_articles/7aceeb94.ext.json)
 
 ---

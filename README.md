@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 13:21:02**
+As of **2024-08-12 13:36:42**
 
 ## Newspaper Stats
 
-*Scraped **40,268** Articles*
+*Scraped **40,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,98 @@ colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,431
 dailyftlk | 2,593
-adalk | 3,694
-adaderanalk | 4,688
+adalk | 3,695
+adaderanalk | 4,689
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
-adaderanasinhalalk | 6,847
+adaderanasinhalalk | 6,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,258 (100.0%) of 40,268 articles have been extended.
+40,268 (100.0%) of 40,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ஜனாதிபதி தேர்தல் மூலம் மீண்டும் அரசியலில் தலைதூக்க முயலும் ராஜபக்ஷ குடும்பம் - மிகக் கடினமான சூழலில் நாமல்
+### අගෝස්තු 15 රාජගිරියට විශේෂ ආරක්ෂාවක්
+
+*2024-08-12 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199849) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාර ගැනෙන අගෝස්තු 15 වැනිදා මැතිවරණ කොමිෂන් සභා කාර්යාලය පිහිටි සරණ මාවත ආශ්‍රිත ප්‍රදේශය විශේෂ ආරක්ෂක කලාපයක් ලෙස නම් කර තිබේ.
+
+එබැවින්, එදිනට එම ප්‍රදේශයට රාජකාරී හෝ වෙනත් කටයුතු සඳහා පැමිණීමෙන් වළකින ලෙසට ජනතාවගෙන් ඉල්ලා සිටින බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/268d3cd5.json)
+
+---
+
+### Storm brings torrential rain to Japan, disrupts transport
+
+*2024-08-12 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101172/storm-brings-torrential-rain-to-japan-disrupts-transport) · `en`
+
+Tropical Storm Maria made landfall on Monday in Japan’s northern region of Iwate, bringing torrential rain that disrupted flights and rail services while forcing people in some areas to evacuate homes, but there were no immediate reports of casualties.
+
+The storm, packing maximum wind speeds of 72 kph (45 mph), is expected to move towards the Sea of Japan.
+
+The Japan Meteorological Agency warned of risks from mudslides and floods after record-breaking rainfall over the last two days in some cities of the region.
+
+The government will do its best to tackle the situation, Prime Minister Fumio Kishida told reporters. “We’ll continue to provide information to residents and support those evacuating,” he said.
+
+Although Japan is observing a holiday, some high-speed bullet trains and regular services have been suspended in Iwate and other northern areas, while Japan Airlines and All Nippon Airways also cancelled flights with the affected regions.
+
+...
+
+[Data](articles/0892099c.json)
+
+---
+
+### Rajapaksa's family, who is trying to resume politics through the presidential election - in the most difficult environment
 
 *2024-08-12 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190855) · `ta`
 
-இலங்கை 2022ம் ஆண்டின் மிகமோசமான நாட்டை முடக்கிய பொருளாதார நெருக்கடியின் பின்னர் முதலாவது தேர்தலை எதிர்கொள்ள தயாராகும்வேளையில் ராஜபக்ச குடும்பம் அதன் அரசியல் வாரிசினை அறிவித்துள்ளது.
+In the wake of Sri Lanka's economic crisis, the Rajapaksa family, led by Namal Rajapaksa, aims to make a political comeback in the upcoming presidential election. Despite facing significant challenges, including public discontent and a historical verdict blaming them for the economic crisis, the family seeks to regain power. Analysts predict a tough road ahead for Namal Rajapaksa, who must prove his leadership amidst ongoing protests and skepticism about his ability to address the nation's issues effectively.
 
-பல அரசியல் ஆய்வாளர்கள் இதனை அந்த குடும்பத்தின் அரசியல் மறுபிரவேச முயற்சியாக கருதுகின்றனர்.
+🟩
 
-இந்த வாரம் ராஜபக்சாக்கள் தலைமையிலான ஸ்ரீலங்கா பொதுஜனபெரமுன யுத்தகால தலைவர் மகிந்த ராஜபக்சவின் 38 வயது மகன் நாமல் ராஜபக்சவை செப்டம்பர் 21ம் திகதி ஜனாதிபதி தேர்தலிற்கான வேட்பாளராக அறிவித்;தது.
+The Rajapaksa family has announced its political success as Sri Lanka is ready to face the first election following the economic crisis of 2022.
 
-2022 போராட்டக்காரர்கள் கோரிய இளம் தலைவர் என அவரது தந்தையால் வர்ணிக்கப்பட்ட நாமல்ராஜபக்சவிற்கு மிகவும் கடினமான ஒரு பணி காத்திருக்கின்றது என்கின்றனர் அரசியல் ஆய்வாளர்கள்.
+Many political researchers consider this as a political recurrence of the family.
 
-பிரிவினைவாத விடுதலைப்புலிகளுடனானமூன்று தசாப்தகால உள்நாட்டு யுத்தத்தின் இறுதிதருணங்களில் இந்த குடும்பம் முன்னணிக்கு வந்தது – பிரபலமானது.
+This week, the Sri Lankan PA, the Sri Lankan PA, was announced as a candidate for the presidential election on September 21 as the 38 -year -old son of war leader Mahinda Rajapaksa.
 
-2009 இல் இலங்கை இராணுவத்தின் வெற்றியை தொடர்ந்து இவர்கள் யுத்தவீரர்கள் என அழைக்கப்பட்டனர் குறிப்பாக இலங்கையின் பெரும்பான்மை சமூகத்தினால்.
+Political analysts say that a very difficult task is awaiting a very difficult task for Namalrajapaksa, described by his father as a young leader demanded by 2022 protesters.
+
+The family came to the fore in the final days of the three decades of civil war with the separatist Liberation Tigers - popular.
+
+Following the victory of the Sri Lankan military in 2009, they were called war veterans, especially by the majority community in Sri Lanka.
+
+After two decades of politics, the lineage continued to decline in the civilian protests caused by the economic crisis of the country.
 
 ...
 
 [Data](articles/faa76187.json)
+
+[Extended Data](ext_articles/faa76187.ext.json)
+
+---
+
+### අලි සබ්රිට තවත් අමාත්‍ය ධුරයක්
+
+*2024-08-12 12:54:51* · [`adalk`](https://www.ada.lk/breaking_news/අලි-සබ්රිට-තවත්-අමාත්‍ය-ධුරයක්/11-411322) · `si`
+
+විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා මීට සුළු වේලාවකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ අධිකර, බන්ධනාගාර හා ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණ අමාත්‍ය ධුරයේද දිවුරුම් දී තිබේ.
+
+එම අමාත්‍ය ධුරයේ කටයුතු කළ විජයදාස රාජපක්ෂ මහතා ජනාධිපතිවරණයට ඉදිරිපත් වීම හේතුවෙන් පසුගියදා ඉල්ලා අස්වූ අතර, පසුව අග්‍රාමාත්‍යවරයා සමග සාකච්ඡා කිරීමෙන් පසු අධිකරණ අමාත්‍ය ධුරය ජනාධිපතිවරයා යටතට ගනිමින් අති විශේෂ ගැසට් නිවේදනයක්ද නිකුත් කළේය.
+
+◼️
+
+[Data](articles/9a8dd38c.json)
 
 ---
 
@@ -74,17 +130,23 @@ It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, rec
 
 ---
 
-### நீதி அமைச்சராக பதவியேற்றார் அலிசப்ரி
+### Alizabri was sworn in as Minister of Justice
 
 *2024-08-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190882) · `ta`
 
-நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சராக வெளிவிவகார அமைச்சர் அலி சப்ரி இன்று திங்கட்கிழமை (12) ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+Ali Sabri, previously External Affairs Minister, was sworn in as the Minister of Justice, Prison Affairs, and Constitutional Reforms, replacing Vijayadasa Rajapakse who resigned. The appointment was made in the presence of President Ranil Wickremesinghe, following the release of a high-level gazette.
 
-முன்னாள் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷவின் இராஜினாமா செய்ததை அடுத்து ஜனாதிபதியின் கீழ் நீதி, சிறைச்சாலை விவகாரங்கள் மற்றும்  அரசியலமைப்பு மறுசீரமைப்பு ஆகிய அமைச்சுக்களை உள்ளடக்கிய அதிவிசேட வர்த்தமானி கடந்த வாரம் வெளியிடப்பட்டது.
+🟩
+
+External Affairs Minister Ali Sabri was sworn in as the Minister of Justice, Prison Affairs and Constitutional Reforms in the presence of President Ranil Wickremesinghe today (12).
+
+Following the resignation of former Justice Minister Vijayadasa Rajapakse, the high -level gazette, which includes the Ministries of Justice, Prison Affairs and Constitutional Reforms under the President, was released last week.
 
 ◼️
 
 [Data](articles/5f087ddd.json)
+
+[Extended Data](ext_articles/5f087ddd.ext.json)
 
 ---
 
@@ -186,21 +248,27 @@ On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest 
 
 ---
 
-### யாழில்  மூதாட்டி சடலமாக மீட்பு
+### Rescue
 
 *2024-08-12 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190872) · `ta`
 
-யாழ்ப்பாணத்தில் தனிமையில் வசித்த மூதாட்டி ஒருவர், சந்தேகத்திற்கு இடமான முறையில், உயிரிழந்துள்ள நிலையில் , அயல் வீட்டு இளைஞன் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளார்.
+An elderly woman, Nadesapillai Saraswathiyambal (80), was found dead in her home in Jaffna's northern Meesala area. The Kodikamam police arrested a local youth during their investigation.
 
-மீசாலை வடக்கு பகுதியைச்  சேர்ந்த நடேசப்பிள்ளை சரஸ்வதியம்பாள் (வயது 80) என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-மூதாட்டி சந்தேகத்திற்கு இடமான முறையில் உயிரிழந்த நிலையில் நேற்றைய தினம் (11)  ஞாயிற்றுக்கிழமை சடலமாக மீட்கப்பட்டுள்ளார்.
+A neighbor of a neighbor has been arrested on suspicion of suspicion, a resident of Jaffna.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த கொடிகாமம்  பொலிஸார் மூதாட்டியின் வீட்டிற்கு அருகில் வசித்து வந்த இளைஞனை சந்தேகத்தில் கைது செய்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The deceased is Nadesapillai Saraswathiyambal (age 80) from the northern part of Meesala.
+
+Muthathi was found dead on Sunday (11) yesterday.
+
+Kodikamam police, who were conducting investigations into the incident, have arrested a youth who lived near the house of the grandmother.
 
 ◼️
 
 [Data](articles/52fea2cc.json)
+
+[Extended Data](ext_articles/52fea2cc.ext.json)
 
 ---
 
@@ -264,17 +332,23 @@ The Presidential Election is scheduled to be held on September 21 and Nomination
 
 ---
 
-### பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுக்கும் எதிர்க்கட்சித் தலைவருக்கும் இடையில் புரிந்துணர்வு உடன்படிக்கை கைச்சாத்து
+### Memorandum of Understanding between Plantation Political Party leaders and Opposition Leader
 
 *2024-08-12 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190876) · `ta`
 
-பெருந்தோட்ட மக்களை  வலுவூட்டும் நோக்கில் பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுடன் எதிர்க்கட்சித் தலைவர்சஜித் பிரேமதாச இன்று திங்கட்கிழமை (12) புரிந்துணர்வு உடன்படிக்கையில் கைச்சாத்திட்டார்.
+The Opposition Leader and plantation party leaders signed an MoU to empower plantation communities. Key figures include Opposition Leader Sajith Premadasa, MP Mano Ganesan, Palani Thikambaram, and M. Udayakumara, who will advocate for plantation residents' rights.
 
-இந்த புரிந்துணர்வு உடன்படிக்கையில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, பாராளுமன்ற உறுப்பினர் மனோ கணேசன்,  பழனி திகாம்பரம் மற்றும் எம்.உதயகுமார உள்ளிட்ட தோட்ட மக்களை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் இதில் கையொப்பமிட்டனர்.
+🟩
+
+Opposition Leader of the Opposition today (12) signed a Memorandum of Understanding (MoU) with the leaders of the plantation political party to strengthen the plantation people.
+
+The Memorandum of Understanding (MoU) signed the Member of Parliament to represent the people of the plantation, including Opposition Leader Sajith Premadasa, Member of Parliament Mano Ganesan, Palani Thikambaram and M. Udayakumara.
 
 ◼️
 
 [Data](articles/73d3426a.json)
+
+[Extended Data](ext_articles/73d3426a.ext.json)
 
 ---
 
@@ -338,21 +412,27 @@ His son Luck Ranasinghe, a nephew Luck Ranasinghe has deposited bail.
 
 ---
 
-### பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகார பேச்சுவார்த்தை தேர்தல் சட்ட மீறலாகும் - ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா
+### Plantation workers' salary talks are violation of election law - Tranperenshi International Sri Lanka
 
 *2024-08-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190874) · `ta`
 
-ஜனாதிபதித் தேர்தல் இடம்பெறவுள்ள நிலையில் பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து பேச்சுவார்த்தையில் ஈடுபடுவது தேர்தல் சட்ட மீறலாகும்  என   ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா தெரிவித்துள்ளது.
+Tranperenshi International Sri Lanka claims negotiating plantation workers' wages ahead of elections violates election laws. Trade unions plan a decision today, with negotiations set for Monday.
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து பேச்சுவார்த்தை இன்று திங்கட்கிழமை (12) இடம் பெறுகின்றது.
+🟩
 
-இன்றைய தினம் இதற்கு ஒரு தீர்க்கமான முடிவு எட்டப்படும் என எதிர்பார்ப்பதாக சம்பள நிர்ணய சபையில் அங்கத்துவம் வகிக்கும்  தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Tranperenshi International Sri Lanka has said that it is a violation of the election law to negotiate the wage affair of plantation workers as the presidential election is due.
 
-இந்நிலையில்,  பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் குறித்து  பேச்சுவார்த்தையில் ஈடுபடுவது தேர்தல் சட்ட மீறலாகும்  என  ட்ரான்பெரன்ஷி இன்டர்நேஷனல் ஸ்ரீ லங்கா தெரிவித்துள்ளது.
+Negotiations on the salary issue of plantation workers will be held on Monday (12).
+
+It is noteworthy that the trade unions in the Salary Council have said that a decisive decision will be reached today.
+
+In this case, Tranperenshi International Sri Lanka has said that it is a violation of the election law to negotiate on the salary issue of plantation workers.
 
 ◼️
 
 [Data](articles/4419f174.json)
+
+[Extended Data](ext_articles/4419f174.ext.json)
 
 ---
 
@@ -458,17 +538,23 @@ Issuing a statement, the International Committee of the Red Cross (ICRC) said th
 
 ---
 
-### ஜனாதிபதித் தேர்தல் ; வேட்புமனுவில் கையொப்பமிட்டார் அநுர
+### Presidential election;Anura signed the nomination
 
 *2024-08-12 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190871) · `ta`
 
-எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலுக்காக இன்று திங்கட்கிழமை (12) முற்பகல் மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க வேட்பாளர் வேட்புமனுவில் கையொப்பமிட்டார்.
+National People's Power Leader Anura Kumara Dissanayake nominated himself for president at the People's Liberation Front's headquarters, with key party officials in attendance.
 
-இந்நிகழ்வில் தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் வைத்தியர் நிஹால் அபேசிங்க, மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் ரில்வின் சில்வா உள்ளிட்ட தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர்கள் சிலரும் கலந்துகொண்டிருந்தனர்.
+🟩
+
+National People's Power Leader Anura Kumara Dissanayake signed the candidate for the presidential election on Monday (12) at the People's Liberation Front's headquarters.
+
+Some members of the National Executive Council, including the General Secretary of the National People's Power, Dr. Nihal Abeysinghe and the General Secretary of the Janatha Vimukthi Peramuna Rilvin Silva were also present.
 
 ◼️
 
 [Data](articles/e3e6f5b3.json)
+
+[Extended Data](ext_articles/e3e6f5b3.ext.json)
 
 ---
 
@@ -606,21 +692,27 @@ Meanwhile, the Vennappuwa Police is carrying out further investigations and will
 
 ---
 
-### பொருட்களை வழங்குவதன்  மூலம்  வாக்குகளைப் பெற முடியாது - அமைச்சர் பிரசன்ன ரணதுங்க
+### Voting cannot be obtained by supplying goods - Minister Prasanna Ranatunga
 
 *2024-08-12 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190864) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்காக கம்பஹா மாவட்டத்தில் உள்ள அனைத்து தொகுதிளையும் உள்ளடக்கிய வகையில் ஜனாதிபதி தேர்தல் கூட்டு நடவடிக்கை குழுக்கள் நியமிக்கப்படவுள்ளன.
+Minister Prasanna Ranatunga announced the formation of Presidential Election Joint Committees across Gampaha district constituencies to support President Ranil Wickremesinghe's campaign. These committees, including representatives from various parties, will focus on home-to-house visits, agent appointments, and campaign organization. The initiative marks a significant step towards uniting different political factions under a common goal, emphasizing the importance of ideological support over material incentives in securing votes.
 
-அமைச்சர் பிரசன்ன ரணதுங்க மற்றும் கம்பஹா மாவட்ட பா.உ களின் தலைமையில் நேற்றுமுன்தினம் சனிக்கிழமை  (10) மற்றும் நேற்று ஞாயிற்றுக்கிழமை (11) இந்தக் குழுக்கள் நியமிக்கப்பட்டன.
+🟩
 
-இந்தக் குழுக்களை ஸ்தாபிப்பதில், ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி, பொதுஜன ஐக்கிய முன்னணி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட ஜனாதிபதிக்கு ஆதரவான அனைத்துக் கட்சிகளின் பிரதிநிதிகளும் இந்தக் கூட்டமைப்பில் உள்ளடங்குகின்றது.
+The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
 
-வீடு வீடாகச் செல்லுதல், வாக்கெடுப்பு நிலையங்களில் முகவர்களை நியமித்தல், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஜனாதிபதித் தேர்தல் பிரசாரங்களை ஒழுங்கமைத்தல், சம்பந்தப்பட்ட தொகுதி மட்டத்தில் ஒழுங்கமைத்தல் மற்றும் வழிநடத்துதல் ஆகியன இந்தத் தொகுதிகளின் கூட்டுக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளன.
+The committees were appointed by Minister Prasanna Ranatunga and the Gampaha District MPs yesterday (10) and Sunday (11).
+
+In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka Peoples Alliance, the United National Party, the Sri Lanka Freedom Party, the PA and the United People's Power.
+
+Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
 
 ...
 
 [Data](articles/d978bed2.json)
+
+[Extended Data](ext_articles/d978bed2.ext.json)
 
 ---
 
@@ -754,19 +846,25 @@ This marks a 10.3% increase compared to the same period last year, according to 
 
 ---
 
-### பெருந்தோட்ட தொழிலாளர்களின் சம்பள விவகாரம் : சம்பள நிர்ணய சபை சற்று முன் கூடியது
+### Plantation workers' salary affair
 
 *2024-08-12 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/190866) · `ta`
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பளம் தொடர்பில் தீர்மானிப்பதற்காக சம்பள நிர்ணய சபை சற்று முன் கூடியது. முதலாளிமார் சம்மேளனமும் வருகை தந்துள்ளது. இதற்கு முன்னர் மூன்று சந்தர்ப்பங்களில் சம்பள நிர்ணய சபை கூட்டப்பட்ட போது முதலாளிமார் சம்மேளனம் அதை புறக்கணித்திருந்தது.
+After delays, plantation workers received their salaries slightly ahead of schedule. The Employers Federation, previously unresponsive to three salary council meetings, surprisingly attended one. This visit sparked hopes among trade union members for a significant outcome from the council meeting.
 
-எனினும், இம்முறை சம்பள நிர்ணய சபைக்கு முதலாளிமார் சமேளனம் வருகை தந்துள்ளமை விசேட அம்சமாகும்.
+🟩
 
-எனவே, இன்றைய தினம் இதற்கு ஒரு தீர்க்கமான முடிவு எட்டப்படும் என எதிர்பார்ப்பதாக சம்பள நிர்ணய சபையில் அங்கத்துவம் வகிக்கும் தொழிற்சங்கங்கள் நம்பிக்கை வெளியிட்டுள்ளன.
+Plantation workers' salaries were met a little before the salary council. The Employers Federation has also visited. Earlier, the Employers Federation had ignored it when the salary council was convened on three occasions.
+
+However, this is a special feature that the Employer Society has visited the Salary Council.
+
+Therefore, the trade unions, which are a member of the Salary Council, have expressed hope that a decisive decision will be reached today.
 
 ◼️
 
 [Data](articles/4f167fc6.json)
+
+[Extended Data](ext_articles/4f167fc6.ext.json)
 
 ---
 
@@ -994,21 +1092,29 @@ It was reported that the 2 helicopters of propellers were inaccessible while fly
 
 ---
 
-### මැතිවරණ කොමසාරිස් ජනරාල් කළ ඉල්ලිම
+### Request made by the Commissioner General of Elections
 
 *2024-08-12 09:44:48* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමසාරිස්-ජනරාල්-කළ-ඉල්ලිම/11-411315) · `si`
 
-යුරෝපිය සංගමයේ සහ ආසියානු මැතිවරණ නිරික්ෂකයන්ගේ සංගමයේ නිලධාරින් රැසක් සහ දේශිය මැතිවරණ නිරික්ෂකයන් රැසක් ජනාධිපතිවරණ නිරික්ෂණ කටයුතු සදහා ඉල්ලිම් කර ඇති බව මැතිවරණ කොමසාරිස් ජෙනරාල් සමන් ශ්‍රි රත්නායක මහතා පැවසිය.
+Saman Sri Ratnayake, the Commissioner General of Elections, has sought assistance from EU and Asian electoral opposition officials for the upcoming presidential election. He mentioned receiving over 320 complaints about misuse of state property but assured measures are in place to address this. The initiative aims to educate election campaign officers across nine provinces through awareness programs.
 
-සමන් ශ්‍රි රත්නායක මහතා ඒ බැව් කියා සිටියේ නුවරඑලිය දිස්ත්‍රික්කයේ මැතිවරණ රාජකාරි සදහා යොදවන පොලිස් නිලධාරින්, රාජ්‍ය නිලධාරින් දැනුවත් කිරිම සදහා (11) දින පස්වරුවේ නුවරඑලිය දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති දැනුවත් කිරිමේ වැඩසටහනට සහභාගි විමෙන් අනතුරුව මාධ්‍යට අදහස් දක්වමිණි.
+🟩
 
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු මැතිවරණ කොමසාරිස් ජෙනරාල්වරයා කියා සිටියේ
+Elections Commissioner General Saman Sri Ratnayake said that many officials of the European Union and Asian Electoral Opposition have been requested for presidential election.
 
-"මේ වන විට රාජ්‍ය දේපල අවභාවිතාව සම්බන්ධයෙන් පැමිණිලි 320 කට ආසන්න ප්‍රමාණයක් ලැබිලා තියෙනවා, මේ සම්බන්ධයෙන් අපි විමර්ෂණ කටයුතු සිදු කරනවා.සෑම දිස්ත්‍රික්කයකම රාජ්‍ය දේපල අවභාවිතාව සම්බන්ධයෙන් සොයා බැලිමට කණ්ඩායම් පත් කරලා තියෙනවා, මැතිවරණ සමයේ සිදුවිය හැකි වංචාවන් වැලක්විම සදහා පොලිසිය සහ දිස්ත්‍රික් ලේකම් කාර්යාල නිලධාරින් සමග අපි සාකච්ඡා කරනවා ඒ වැලැක්විම සදහා.
+Mr. Saman Sri Ratnayake said that the police officers deployed for election duties and police officers in Nuwara Eliya district were speaking to the media after participating in the awareness program at the Nuwara Eliya District Secretariat.
 
-...
+The Commissioner General of Elections The General said that
+
+"We have received nearly 320 complaints regarding state property misbehations.With the discussion we will not prevent this.
+
+The project is doing this to educate all the officers involved in election campaign including nine provinces.
+
+◼️
 
 [Data](articles/7c92278d.json)
+
+[Extended Data](ext_articles/7c92278d.ext.json)
 
 ---
 
@@ -1587,6 +1693,8 @@ In essence, there are only two similarities. First, both Hasina and Rajapaksa, c
 ...
 
 [Data](articles/042c1a40.json)
+
+[Extended Data](ext_articles/042c1a40.ext.json)
 
 ---
 
@@ -2199,65 +2307,5 @@ Sammu Asan, who was so relaxed with a lot of success, did not lose the game with
 [Data](articles/832a6bb9.json)
 
 [Extended Data](ext_articles/832a6bb9.ext.json)
-
----
-
-### St. Joseph Hospital Negombo announces free daily OPD clinic
-
-*2024-08-11 22:02:00* · [`islandlk`](http://island.lk/st-joseph-hospital-negombo-announces-free-daily-opd-clinic/) · `en`
-
-St. Joseph Hospital in Negombo dedicated to providing accessible and high-quality medical services to the community in the area, has announced a daily OPD service for free.
-
-The service is available from 7am to 12 pm, the first of its kind in Sri Lanka.
-
-The hospital is affiliated with the esteemed Kids & Teens Medical Group and St. Gianna Medical Group in Los Angeles, USA, the largest paediatric group in California.
-
-At the helm of this partnership are Sunil De Silva, the CEO/CFO of St. Joseph Hospital and Kids & Teens Medical Group, and his wife, Dr. Janesri De Silva, the medical director for both institutions.
-
-With over 22 years of experience in paediatric, Dr. Janesri De Silva brings a wealth of knowledge and a nurturing touch to our care. This collaboration allows the Hospital to bring world-class paediatric care to Sri Lanka.
-
-The Hospital is planning to have more than 50 rooms including luxurious suites to provide comfort and privacy for its patients.
-
-...
-
-[Data](articles/a49a8f79.json)
-
-[Extended Data](ext_articles/a49a8f79.ext.json)
-
----
-
-### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
-
-*2024-08-11 21:58:00* · [`islandlk`](http://island.lk/aia-sri-lanka-becomes-first-ever-sri-lankan-award-winner-at-hashtag-asia-awards/) · `en`
-
-AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Awards 2024. The company’s long standing lifesaving project the “Poson Safety Programme” campaign not only secured a coveted finalist spot in the highly competitive “Best Integrated Social Media Campaign” category, but also emerged victorious as the Silver winner in the “Best Social Media Campaign: Facebook” category. This remarkable accomplishment marks the first time a Sri Lankan brand has reached the finalist stage and secured an award at the Hashtag Asia Awards, solidifying AIA Sri Lanka’s position as a leader in innovative social media marketing within the region.
-
-...
-
-[Data](articles/70b0934c.json)
-
-[Extended Data](ext_articles/70b0934c.ext.json)
-
----
-
-### Flying insect light trap introduced to SL market
-
-*2024-08-11 21:56:00* · [`islandlk`](http://island.lk/flying-insect-light-trap-introduced-to-sl-market/) · `en`
-
-Exterminators PLC has introduced the Practika LED insect light trap to the local market in collaboration with Pelsis-UK Limited and Sentario UK Limited.
-
-Practika LED is an easy-to-service, effective LED insect light trap, ideal for food preparation, commercial kitchens, food production, supermarkets, and similar locations. Practika LED advanced UV LED technology delivers lower running costs, high efficacy, and sustainable insect monitoring.
-
-The design of the Practika LED insect light trap allows for easy and quick servicing, with a swing-open front guard that holds in place for convenience. The trap also features an aluminium construction for better UV light reflection and lightweight materials for easy handling and transportation.
-
-HNB FINANCE unveils three new gold loan units in Beliatta, Kurunegala and Kuliyapitiya
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/bc717f89.json)
-
-[Extended Data](ext_articles/bc717f89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 21:07:01**
+As of **2024-08-12 21:21:08**
 
 ## Newspaper Stats
 
-*Scraped **40,344** Articles*
+*Scraped **40,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,331
 economynextcom | 2,444
 dailyftlk | 2,593
 adalk | 3,707
-adaderanalk | 4,702
+adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,119
 virakesarilk | 6,385
@@ -26,25 +26,47 @@ adaderanasinhalalk | 6,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,342 (100.0%) of 40,344 articles have been extended.
+40,344 (100.0%) of 40,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### බංග්ලාදේශයේ තත්ත්වය සාමාන්‍ය අතට
+### Dhoni-backed Garuda Aerospace enters Sri Lankan market to target agricultural sector
+
+*2024-08-12 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101187/dhoni-backed-garuda-aerospace-enters-sri-lankan-market-to-target-agricultural-sector) · `en`
+
+Cricketer M S Dhoni-backed drone technology firm Garuda Aerospace on Monday announced its entry in the Sri Lankan market where it will primarily target agricultural sector to enhance farming practices, besides exploring opportunities in homeland security and industrial applications.
+
+As part of the company’s global expansion plans, the foray into Sri Lanka will also support Garuda in capitalising on the country’s strategic location and drone-friendly regulatory environment, Garuda Aerospace said.
+
+The company said it is looking to spread its presence in at least 50 countries over the next few years, and has set aside USD 10 million, of the over Rs 100 crore revenue it delivered in FY24, to fuel the international growth.
+
+...
+
+[Data](articles/70cb3d53.json)
+
+---
+
+### The situation in Bangladesh is normal
 
 *2024-08-12 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199865) · `si`
 
-හිටපු අගමැතිනී ෂෙයික් හසීනා බලයෙන් පහකළ ශිෂ්‍ය විප්ලවයෙන්  අනතුරුව නොසන්සුන්ව පැවති බංග්ලාදේශයේ දෛනික කටයුතු නව භාරකාර රජය යටතේ සාමාන්‍ය අතට හැරෙමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Bangladesh's situation remains calm despite foreign media reporting on the new government taking control of highways and the arrest of former PM Sheikh Hasina. Recent violence resulted in over 450 deaths, including law enforcement personnel.
 
-මෙතෙක් ශිෂ්‍යයින් අතට ගොස් තිබූ මහාමාර්ගවල පාලනය නැවතත් තමන් අතට ගනිමින් පොලිස් නිලධාරීන් රාජකාරීවල නිරතව සිටින බවත් එම වාර්තා පෙන්වා දෙයි.
+🟩
 
-පසුගිය දිනවල පැවති ප්‍රචණ්ඩ ක්‍රියා හමුවේ ශෙයික් හසීනාගේ පක්ෂයේ මන්ත්‍රීවරුන්, පොලිස් නිලධාරීන් ඇතුළු 450කට වැඩි පිරිසක් ඝාතනයට ලක්වූහ.
+Foreign media reports that the daily activities of the former Prime Minister Sheikh Hasena have come to the new custody government.
+
+The reports indicate that the government has taken over the highways.
+
+In the recent past, more than 450 people, including the police officers, police officers and police officers were killed in the recent past violence.
 
 ◼️
 
 [Data](articles/ef57c862.json)
+
+[Extended Data](ext_articles/ef57c862.ext.json)
 
 ---
 
@@ -408,21 +430,27 @@ Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has assigned DFCC Bank 
 
 ---
 
-### මොනරාගල පොහොට්ටු මන්ත්‍රී පහෙන් හතරක් රනිල්ට
+### Four fifth MP to Ranil
 
 *2024-08-12 17:17:36* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-පොහොට්ටු-මන්ත්‍රී-පහෙන්-හතරක්-රනිල්ට/11-411330) · `si`
 
-මොනරාගල දිස්ත්‍රික්කයේ ශ්‍රීලංකා පොදුජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් පස්දෙනාගෙන් හතරදෙනෙකුගේ සහාය ජනාධිපතිවරණයේ ස්වාධීන අපේක්ෂක රනිල් වික්‍රමසිංහ මහතාට ලබාදීමට අද (12දා) මොනරාගල වැල්ලවාය පාර සීලාන් රීච් නිවාඩු නිකේතනයේ පැවති රැස්වීමකදී තීරණය කෙරිණි.
+At a meeting chaired by Housing Minister Prasanna Ranatunga, several MPs including AP Jagath Pushpakumara and Vijitha Bandara, along with former Uva Provincial Councillors, endorsed Ranil Wickremesinghe for the presidential election. The event took place on the Wellawaya road, emphasizing the importance of this location in the decision-making process.
 
-නිවාස හා නාගරික සංවර්ධන ඇමති ප්‍රසන්න රණතුංග මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්විණි.
+🟩
 
-මොනරාගල දිස්ත්‍රික්කයේ ශ්‍රීලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විදේශ රැකියා රාජ්‍ය ඇමති ඒ.පී ජගත් පුෂ්පකුමාර පිරිවෙන් අධ්‍යාපන රාජ්‍ය ඇමති විජිත බේරුගොඩ,මොනරාගල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති පා.ම කුමාරසිරි රත්නායක,පා.ම වෛද්‍ය ගයාශාන් නවනන්ද යන මහත්වරුන් මෙසේ සහාය පළකර සිටියහ.
+The Wellawaya road in Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road to the presidential election was decided to hand over the Sri Lanka Front.
 
-ඌව පළාත් සභාවේ හිටපු මන්ත්‍රීවරුන් දිස්ත්‍රික්කයේ ප්‍රාදේශීය සභා වල සභාපතිවරුන් උප සභාපතිවරුන් ඇතුළු ප්‍රාදේශීය සභා මන්ත්‍රීවරුන් විශාල් පිරිසක් මෙම අවස්ථාවට සහභාගී වූ අතර ඔවුන් සියලු දෙනා දෑත් ඔසවා ජනපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණයට ප්‍රතිඥා දුන්හ.
+The meeting was held under the patronage of Housing and Urban Development Minister Prasanna Ranatunga.
+
+State Minister AP Jagath Pushpakumara Padala Primary Education Minister AP Jagath Pushpakumara Padaya Director of State Coordinating Committee of Parliament Vijitha Banagaha, MPs, MP Vijitha Banagaha, MP Gayzaran Navananda expressed their support.
+
+Former members of the Uva Provincial Councilors in the Uva Provincial Councils including Vice Chairmen, including Vice Chairmen, attended the victory of Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/6da3ce63.json)
+
+[Extended Data](ext_articles/6da3ce63.ext.json)
 
 ---
 
@@ -2253,31 +2281,5 @@ The subsequent questions were addressed by the people because the Life -term mem
 [Data](articles/7aceeb94.json)
 
 [Extended Data](ext_articles/7aceeb94.ext.json)
-
----
-
-### Sri Lanka has been in charge of Ranil not in charge of the country
-
-*2024-08-12 11:16:31* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-රට-භාර-නොගත්තානම්-ලංකාවත්-බංග්ලාදේශයක්-වෙලා/11-411318) · `si`
-
-Prasanna Ranatunga, Sri Lanka's Minister of Urban and Housing Development, praised President Ranil Wickremesinghe, suggesting his leadership prevented the country from deteriorating further. He emphasized Wickremesinghe's importance in maintaining stability and improving the nation's situation. At a Polonnaruwa District Convention, attendees, including 96 former local government members, pledged support for Wickremesinghe in the upcoming presidential election, highlighting their confidence in his leadership.
-
-🟩
-
-Minister of Urban and Housing Development Prasanna Ranatunga says that if President Ranil Wickremesinghe has not accepted the country today, Sri Lanka may have become worse to Bangladesh today.
-
-The Minister emphasizes that Ranil Wickremesinghe is the purpose of the so-called bangladesh to be the president of our country and that if President Ranil Wickremesinghe is again the president, the country will be the country like the bungalow.
-
-Minister Prasanna Ranatunga said he was still an Original quantity that he could not do politics without ears.
-
-Minister Prasanna Ranatunga addressing the Polonnaruwa District Convention in Polonnaruwa (09) last Friday.
-
-They pledged to lift up all Parliamentary, Provincial Councils in the Polonnaruwa District and lifted people representatives and support Ranil Wickremesinghe in the next presidential election.
-
-...
-
-[Data](articles/f92848bf.json)
-
-[Extended Data](ext_articles/f92848bf.ext.json)
 
 ---

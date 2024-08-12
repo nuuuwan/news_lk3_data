@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 06:04:56**
+As of **2024-08-12 06:27:03**
 
 ## Newspaper Stats
 
-*Scraped **40,184** Articles*
+*Scraped **40,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,080
 virakesarilk | 6,376
-adaderanasinhalalk | 6,832
+adaderanasinhalalk | 6,833
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,184 (100.0%) of 40,184 articles have been extended.
+40,184 (100.0%) of 40,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ඉදිරි දින කිහිපයේ ගිගුරුම් සහිත වැසි
+
+*2024-08-12 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199833) · `si`
+
+ඉදිරි දින කිහිපයේදී දිවයිනේ සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+කළුතර, ගාල්ල, මාතර සහ රත්නපුර දිස්ත්‍රික්කවල උදෑසන කාලයේදී ද වැසි ස්වල්පයක් ඇතිවිය හැක.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ, උතුරු සහ උතුරුමැද පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බව දන්වා තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/a54c0fab.json)
+
+---
 
 ### Presidential candidate Wijeyadasa Rajapaksa
 
@@ -2293,27 +2313,5 @@ It is also reported that the team belonging to Yoshitha Rohitha's marketing comp
 [Data](articles/9908b031.json)
 
 [Extended Data](ext_articles/9908b031.ext.json)
-
----
-
-### Stock of illegally imported iPhones and laptops confiscated
-
-*2024-08-11 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101143/stock-of-illegally-imported-iphones-and-laptops-confiscated) · `en`
-
-A stock of smart phones and laptops which were illegally brought to Sri Lanka without paying customs duty has been confiscated.
-
-The contraband, containing 36 iPhones and 6 laptops has been discovered in the possession of three passengers who had arrived on a flight from Dubai around 12:30 a.m. at the Bandaranaike International Airport (BIA) in Katunayake yesterday (10).
-
-The trio was taken into custody by a group of officers of the Criminal Investigation Department (CID) at the airport while they were attempting to exit the airport with the devices concealed in their luggage.
-
-The arrested individuals, identified as residents of Dematagoda and Colombo, have been handed over to Sri Lanka Customs for further investigation. Following a thorough inspection, the mobile phones and laptops were officially confiscated.
-
-Additionally, the Deputy Director of Customs has imposed a fine of Rs. 1.6 million on the three suspects.
-
-◼️
-
-[Data](articles/9cec4554.json)
-
-[Extended Data](ext_articles/9cec4554.ext.json)
 
 ---

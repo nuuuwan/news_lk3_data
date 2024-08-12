@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 14:36:26**
+As of **2024-08-12 14:55:28**
 
 ## Newspaper Stats
 
-*Scraped **40,278** Articles*
+*Scraped **40,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 4,690
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
-adaderanasinhalalk | 6,850
+adaderanasinhalalk | 6,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,275 (100.0%) of 40,278 articles have been extended.
+40,278 (100.0%) of 40,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ජූලි මාසයේ ICC ක්‍රීඩිකාව චමරි
+
+*2024-08-12 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199853) · `si`
+
+ජූලි මාසයේ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ක්‍රීඩිකාව ලෙස ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු තෝරාගත් බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිවේදනය කළේය.
+
+එහිදී ඉන්දීය ක්‍රීඩිකාවන් වන ස්මිත්‍රී මන්ධනා සහ ශෆාලි වර්මා ගෙන් ඇයට දැඩි තරගයක් එල්ල්වුණි.
+
+පසුගිය මාසයේදී ශ්‍රී ලංකා කාන්තා කණ්ඩායම පළමු වරට ආසියානු කුසලානය ජයගත් අතර ඒ සඳහා චමරි ගෙන් විශාල දායකත්වයක් ලැබුණි.
+
+34 හැවිරිදි වියේ පසුවන චමරි මෙම සම්මානය දිනාගත් තුන්වැනි අවස්ථාව මෙයවෙයි.
+
+මේ වනවිට බටහිර ඉන්දීය කොදෙව් කණ්ඩායමේ හේලි මැතිව්ස් එම සම්මානය තුන් වරක් දිනාගෙන ඇති අතර ඔස්ට්‍රේලියාවේ ඇෂ්ලේ ගාර්ඩ්නර් මෙම සම්මානය සිව් වරක් දිනාගත්තාය.
+
+◼️
+
+[Data](articles/534d50d4.json)
+
+---
+
+### පාර්ලිමේන්තුවේ මන්ත්‍රීධූර දෙකක් හිස් වූ බව මැතිවරණ කොමිසමට දන්වයි
+
+*2024-08-12 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199852) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීධුර දෙකක් පුරප්පාඩුවී ඇති බව පාර්ලිමේන්තුව විසින් මැතිවරණ කොමිෂන් සභාවට දන්වා තිබේ.
+
+සමගි ජන බලවේගය නියෝජනය කළ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී මනූෂ නානායක්කාර සහ එම පක්ෂයේ ජාතික ලැයිස්තු මන්ත්‍රී හරීන් ප්‍රනාන්දු යන මහත්වරුන්ගේ පාර්ලිමේන්තු මන්ත්‍රීධුර අහෝසි වීම හේතුවෙන් පසුගිය 09 වැනිදා සිට දින නවවැනි පාර්ලිමේන්තුවේ මන්ත්‍රී ධුර දෙකක පුරප්පාඩුවක් ඇති වී ඇති බව පාර්ලිමේන්තුවේ වැඩබලන මහ ලේකම් චමින්ද කුලරත්න මහතා මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිඛිතව දන්වා යවා තිබේ.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) සහ 64 (5) යන වගන්තිය ප්‍රකාරව මෙම දැනුම් දීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/3d2877f2.json)
+
+---
 
 ### Chamari named ICC Women’s Player of the Month for July 2024
 
@@ -47,6 +83,8 @@ This is the third ICC Women’s Player of the Month award for the 34-year-old, m
 ...
 
 [Data](articles/569cb315.json)
+
+[Extended Data](ext_articles/569cb315.ext.json)
 
 ---
 
@@ -98,19 +136,27 @@ The Galle and Matara districts can have a heavy showers exceeding 100 millimeter
 
 ---
 
-### ජනපතිවරණ අපේක්ෂකයෝ බහුතරය රූකඩ
+### Majority of presidential election candidates puppets
 
 *2024-08-12 13:32:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-අපේක්ෂකයෝ-බහුතරය-රූකඩ/11-411325) · `si`
 
-ජනපතිවරණයට ඉදිරිිපත්වන ස්වාධීන අපේක්ෂකයෙකු තැබිය යුතු ඇප මුදල රුපියල් මිලියන 10 දක්වා ඉහළ නැංවිය යුතු බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද (12) පෙරවරුවේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.
+In a press conference, a leader criticized the presidential election system in Sri Lanka, highlighting issues like high campaign costs, misuse of media, and the influence of big parties over smaller candidates. The speaker proposed reducing the bail amount for independent candidates to Rs 10 million to prevent misuse of funds and suggested banning candidates who have been defeated in the past parliamentary elections from future campaigns.
 
-"1981 දී ජනාධිපතිවරණ පනත සම්මත කරන විට පක්ෂයක අපේක්ෂකයෙකුට රු 50,000ක් ස්වාධීන අපේක්ෂකයෙකුට රු 75,000ක් විධියට ඇප මුදල් නියම කළා.  මේ ඇප මුදල් ඉල්ලීමෙන් බලාපොරොත්තු වෙන්නේ බොරු අපේක්ෂකයින් ඡන්දයට එන එක වැලැක්වීම.  මොකද යම් අපේක්ෂකයෙක් 5%කට අඩුවෙන් ඡන්ද ගත්තොත් ඇප මුදල රාජ සන්තක වන නිසා.
+🟩
 
-ලංකා ඉතිහාසයේ පැවැත්වුණු සෑම ජනපතිවරණයකම ප්‍රධාන අපේක්ෂකයින් දෙන්නා හැරුණු විට අනිත් සියළුම අපේක්ෂකයින්ගේ ඇප මුදල රාජ සන්තක වෙලා.  ඒත් සෑම ජනපතිවරණයකටම අපේක්ෂකයින් බුරුතු පිටින් ඉදිරිපත් වෙනවා.  2019 ජනපතිවරණයට අපේක්ෂකයින් 35ක්.  මේ පාර ඊටත් වැඩි වේවි.  ඒ ඇයි?
+Leader of Leader of Leader of Leader of the Leader of the Leader of the Leader of the JHU. He was speaking at a press conference held at the party headquarters at the party headquarters this morning.
+
+"When the presidential election bill was passed in 1981, a candidate of a party was bailed by Rs.Because.
+
+The bail of all other candidates except the two main candidates in the history of Sri Lanka are confiscated.But all the presidents are submitting to the candidates.35 candidates for the 2019 presidential electionThis time will grow.Why?
+
+Some candidates pays a cash cash and present the main candidates.The President uses the opponent candidates using the media space for those candidates.Others become a famous person in the country.Or what is the reason why you ought to get rubbish?There are also a candidate for a third term in two occasions.
 
 ...
 
 [Data](articles/51a4dcc8.json)
+
+[Extended Data](ext_articles/51a4dcc8.ext.json)
 
 ---
 
@@ -754,23 +800,29 @@ The subsequent questions were addressed by the people because the Life -term mem
 
 ---
 
-### රනිල් රට භාර නොගත්තානම් ලංකාවත් බංග්ලාදේශයක් වෙලා
+### Sri Lanka has been in charge of Ranil not in charge of the country
 
 *2024-08-12 11:16:31* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-රට-භාර-නොගත්තානම්-ලංකාවත්-බංග්ලාදේශයක්-වෙලා/11-411318) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එදා රට භාර නොගත්තේනම් ශ්‍රී ලංකාව  අද බංගලාදේශයටත් වඩා නරක තත්වයට  පත්වීමට ඉඩ තිබූ බව නාගරික හා නිවාස සංවර්ධන අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Prasanna Ranatunga, Sri Lanka's Minister of Urban and Housing Development, praised President Ranil Wickremesinghe, suggesting his leadership prevented the country from deteriorating further. He emphasized Wickremesinghe's importance in maintaining stability and improving the nation's situation. At a Polonnaruwa District Convention, attendees, including 96 former local government members, pledged support for Wickremesinghe in the upcoming presidential election, highlighting their confidence in his leadership.
 
-ඇමතිවරයා අවධාරණය කරන්නේ අද බංගලාදේශයට අත්ව ඇති ඉරණම අපේ රටට ඇති කිරීම ඊනියා අරගලයේ අරමුණ වූ බවත් රනිල් වික්‍රමසිංහ මහතා යළි ජනාධිපති නොවුනහොත් බංගලදේශය මෙන් රට විසාලාවක් වනු ඇති බවයි.
+🟩
 
-ජන මතයට කන් නොදී දේශපාලනය කළ නොහැකි බවද කී ඇමති ප්‍රසන්න රණතුංග මහතා තමන් තවමත් ඔර්ජිනල් පොහොට්ටුවෙක් බවද කීවේය.
+Minister of Urban and Housing Development Prasanna Ranatunga says that if President Ranil Wickremesinghe has not accepted the country today, Sri Lanka may have become worse to Bangladesh today.
 
-ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව කියා සිටියේ පසුගිය  සිකුරාදා (09) පොලොන්නරුවේ පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොලොන්නරු දිස්ත්‍රික් සමුළුව අමතමිනි.
+The Minister emphasizes that Ranil Wickremesinghe is the purpose of the so-called bangladesh to be the president of our country and that if President Ranil Wickremesinghe is again the president, the country will be the country like the bungalow.
 
-රැස්ව සිටි පොලොන්නරුව දිස්ත්‍රික්කයේ සියළුම පාර්ලිමේන්තු, පළාත් සභා සහ පළාත් පාලන පොහොට්ටු මහජන නියෝජිතයන් අත ඔසවා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බවට මෙහිදී ප්‍රතිඥා දුන්හ.
+Minister Prasanna Ranatunga said he was still an Original quantity that he could not do politics without ears.
+
+Minister Prasanna Ranatunga addressing the Polonnaruwa District Convention in Polonnaruwa (09) last Friday.
+
+They pledged to lift up all Parliamentary, Provincial Councils in the Polonnaruwa District and lifted people representatives and support Ranil Wickremesinghe in the next presidential election.
 
 ...
 
 [Data](articles/f92848bf.json)
+
+[Extended Data](ext_articles/f92848bf.ext.json)
 
 ---
 
@@ -2259,41 +2311,5 @@ Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666
 [Data](articles/92a1d16a.json)
 
 [Extended Data](ext_articles/92a1d16a.ext.json)
-
----
-
-### SL envoy meets with Kuala Lumpur and Selangor Indian Chamber of Commerce and Industry
-
-*2024-08-11 23:51:23* · [`dailyftlk`](https://www.ft.lk/business/SL-envoy-meets-with-Kuala-Lumpur-and-Selangor-Indian-Chamber-of-Commerce-and-Industry/34-765407) · `en`
-
-High Commissioner of Sri Lanka in Malaysia Air Chief Marshal (Rtd.) Sumangala Dias engaged in a productive meeting with the Kuala Lumpur and Selangor Indian Chamber of Commerce and Industry (KLSICCI) at the High Commission on 26 July.
-
-The meeting was held with the participation of President Nivas Ragavan and other key office bearers of the KLSICCI, focusing on the enhancement of bilateral trade, investment, tourism, and employment opportunities for Sri Lanka.
-
-During the meeting, High Commissioner Sumangala Dias emphasised the importance of collaborative efforts to address the current trade imbalance. He highlighted the need to bolster Sri Lankan exports to Malaysia and to promote Sri Lanka as a significant outbound tourism destination for Malaysians. Ragavan expressed the Chamber’s commitment to facilitating connections between Sri Lankan retail businesses and the Malaysian market.
-
-...
-
-[Data](articles/73e7175e.json)
-
-[Extended Data](ext_articles/73e7175e.ext.json)
-
----
-
-### Building a sustainable future: Impact of RPCs on Sri Lanka’s economy and environment
-
-*2024-08-11 23:29:07* · [`dailyftlk`](https://www.ft.lk/columns/Building-a-sustainable-future-Impact-of-RPCs-on-Sri-Lanka-s-economy-and-environment/4-765401) · `en`
-
-The transformation brought by privatisation has led to remarkable improvements across the plantation sector
-
-RPCs have led the industry in replanting efforts, covering over 60% of VP tea and over 70,000 hectares of rubber. They have adopted stringent environmental protection standards, with 13 out of 21 RPCs securing the Green Frog seal of compliance, meeting the prestigious Global Sustainable Agriculture Network standard. Many RPCs are also certified by the Forest Stewardship Council, ensuring responsible forest management and supply chain practices. RPC factories hold numerous internationally accredited certifications, including HACCP, ISO 22000, and Fair Trade, guaranteeing consumer safety and environmental protection. RPC estates promote ‘Ceylon Tea’ as clean, ethical, and sustainable, with significant certifications
-
-Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation industry remains a key economic pillar
-
-...
-
-[Data](articles/e50db7cd.json)
-
-[Extended Data](ext_articles/e50db7cd.ext.json)
 
 ---

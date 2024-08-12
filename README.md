@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 11:20:57**
+As of **2024-08-12 11:36:38**
 
 ## Newspaper Stats
 
-*Scraped **40,230** Articles*
+*Scraped **40,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
-adalk | 3,689
-adaderanalk | 4,681
+adalk | 3,691
+adaderanalk | 4,682
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,093
+tamilmirrorlk | 5,096
 virakesarilk | 6,377
 adaderanasinhalalk | 6,843
 
@@ -26,53 +26,157 @@ adaderanasinhalalk | 6,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,227 (100.0%) of 40,230 articles have been extended.
+40,230 (100.0%) of 40,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### විදෙස් ප්‍රේෂණ ඉහළ ට
+### இன்று 15 மணித்தியால நீர்வெட்டு
+
+*2024-08-12 11:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-15-மணித்தியால-நீர்வெட்டு/175-342019) · `ta`
+
+காலியில் சில பகுதிகளில் 15 மணிநேர  நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை (NWSDB) தெரிவித்துள்ளது.
+
+அதன்படி, இன்று (12) திங்கட்கிழமை பிற்பகல் 01.00 மணி முதல் நாளை (13)  செவ்வாய்க்கிழமை அதிகாலை 4.00 மணி வரை நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+திருத்தப்பணிகள் காரணமாகவே அக்மீமன, போபே ,பொத்தல, ஹபராதுவ மற்றும் அஹுங்கம ஆகிய பகுதிகளில் குறித்த நீர்வெட்டு  அமுல்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/26eb8ec5.json)
+
+---
+
+### செந்திலின் கூட்டத்தில் பதற்றம்: கேள்விக் கணைகளால் வெளியேறினார்
+
+*2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்-கேள்விக்-கணைகளால்-வெளியேறினார்/75-342018) · `ta`
+
+திருக்கோணேஸ்வரம் ஆலயம் சம்பந்தமான கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்  ஏற்பாடு செய்த உத்தியோக பூர்வமற்ற கூட்டத்தில் அமைதியின்மை ஏற்பட்டது.
+
+திருக்கோணேஸ்வரம் ஆலய அபிவிருத்தி சம்பந்தமான பொது சபை உறுப்பினர்களுக்கான கூட்டம் ஒன்று அவசர அவசரமாக ஞாயிற்றுக்கிழமை (11)  ஆளுநர் செந்தில் தொண்டமானால் யாப்புக்கு முரணாக நடத்தப்பட்டது
+
+அங்கு கருத்து தெரிவித்த செந்தில் தொண்டமான், திருக்கோணேஸ்வர ஆலயத்தில் ராஜ கோபுரம் கட்டுவதற்கான ஏற்பாடு தன்னால் செய்யப்பட்டுள்ளது என்றார்.  இந்நிலையில், சோழர் காலத்து பல நூறு கோடி ரூபாய் பெறுமதியான தாலி ஒன்று களவு போய் உள்ளது என்றார்.
+
+கூட்டத்தை அவசரமாக முடித்த ஆளுநர் செந்தில் தொண்டமான்,    மக்களுக்கு கேள்வி கேட்க வாய்ப்பு வழங்காமல் செல்ல முயன்றார்
+
+கூட்டத்திற்கு வருகை தந்த திருகோணமலை சேர்ந்த ஆயுள் கால உறுப்பினர்கள் ,தமது கேள்விக்கு நீங்கள் பதில் கூறியே ஆக வேண்டும் என்ற நிலைப்பாட்டில் இருந்த காரணத்தால் பின் வரும் கேள்விகள் விளக்கங்கள் மக்களால் கூறப்பட்டன
+
+...
+
+[Data](articles/7aceeb94.json)
+
+---
+
+### மூன்று பிள்ளைகளின் தாய் சடலமாக மீட்பு
+
+*2024-08-12 11:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பிள்ளைகளின்-தாய்-சடலமாக-மீட்பு/175-342016) · `ta`
+
+மதுரங்குளிய, நல்லந்தல்வ பிரதேசத்தில் மூன்று பிள்ளைகளின்  தாயொருவர் வீட்டுக்குள் மர்மமான முறையில் கொலை செய்யப்பட்டுள்ளார்.
+
+71 வயதுடைய, மூன்று பிள்ளைகளின் தாயாரே இவ்வாறு கொலை செய்யப்பட்டுள்ளதாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+
+தனக்குச் சொந்தமான தென்னந்தோப்பில்  உள்ள வீட்டில் வசித்து வந்த நிலையில், படுக்கையில் கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+
+உடலில் வெளிப்புற காயங்கள் எதுவும் காணப்படவில்லை என்றும் சம்பவம் தொடர்பான விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f2d5099b.json)
+
+---
+
+### පැය 24ට මැතිවරණ පැමිණිලි 17ක්
+
+*2024-08-12 11:02:12* · [`adalk`](https://www.ada.lk/breaking_news/පැය-24ට-මැතිවරණ-පැමිණිලි-17ක්/11-411317) · `si`
+
+ගත වූ පැය 24ක කාලය තුළ සිය කොමිෂන් සභාවට  මැතිවරණ පැමිණිලි 17ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව අද(12දා) නිකුත් කළ නිවේදනයක සඳහන් කර ඇත.
+
+එමෙන්ම 2024.07.31 වැනිදා සිට 2024.08.11 වැනිදා දක්වා සමස්ථ පැමිණිලි 337ක් ලැබී ඇති බවද අදාළ නිවේදනයේ සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/a72ef6e3.json)
+
+---
+
+### Sri Lankan prisoner who fled India arrested on Vennappuwa shores
+
+*2024-08-12 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101165/sri-lankan-prisoner-who-fled-india-arrested-on-vennappuwa-shores) · `en`
+
+A Sri Lankan national escapee from a prison in India, who attempted to secretly disembark on the shores of Thal Deka (Kadawatha), Vennappuwa by an Indian fishing boat, has been arrested by the Sri Lanka Navy.
+
+The apprehension has been carried out during a coordinated operation by the Sri Lanka Navy and the police, based on information provided by Naval Intelligence.
+
+It has been revealed that the suspect was previously arrested in India in 2021 for involvement in drug trafficking.
+
+Meanwhile, the Vennappuwa Police is carrying out further investigations and will proceed with legal action concerning the suspect and the Indian fishing boat, the navy said.
+
+◼️
+
+[Data](articles/2e3aea12.json)
+
+---
+
+### Foreign remittances
 
 *2024-08-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199844) · `si`
 
-2024 ජූලි මාසයේදී විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ ඩොලර් මිලියන 566.8ක් ශ්‍රී ලංකාවට ලැබී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Sri Lanka received $566.8 million in foreign remittances in July 2024, bringing the total for January-July to $3.71 billion, a 10.3% increase from the same period in 2023.
 
-ඒ අනුව 2024 වසරේ ජනවාරි-ජූලි කාලපරිච්ඡේදය තුළ දී ඩොලර් බිලියන 3.71ක් මෙරටට ලැබී තිබේ.
+🟩
 
-එය පසුගිය වසරේ එම කාලයට සාපේක්ෂව 10.3%ක වර්ධනයක් බව ද ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+In July, 2024, Sri Lanka has received $ 566.8 million to Sri Lanka.
+
+Accordingly, in the January-July, the country received $ 3.71 billion.
+
+The Central Bank said that this was 10.3% over the same period last year.
 
 ◼️
 
 [Data](articles/edc312b7.json)
 
+[Extended Data](ext_articles/edc312b7.ext.json)
+
 ---
 
-### வேட்புமனுவில் கையொப்பமிட்டார் அனுர
+### Anura signed the nomination
 
 *2024-08-12 10:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவில்-கையொப்பமிட்டார்-அனுர/175-342013) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்காக மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் அனுரகுமார திஸாநாயக்க வேட்பாளர் வேட்புமனுவில் செவ்வாய்க்கிழமை (12) கையொப்பமிட்டுள்ளார்.
+Anura Dissanayake nominated for presidency, supported by NEC members including Nihal Abeysinghe and Dilvin Silva.
 
-தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் தோழர் வைத்தியர் நிஹால் அபேசிங்க, மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் டில்வின் சில்வாவை உள்ளிட்ட தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர்கள் சிலரும் கலந்துகொண்டிருந்தனர்.
+🟩
+
+Anuragumara Dissanayake has signed the candidate on Tuesday (12) for the presidential election.
+
+Some members of the National Executive Council, including the General Secretary of the National People's Power, Comrade Nihal Abeysinghe and the General Secretary of the Janatha Vimukthi Peramuna (JVP), Dilvin Silva, were also present.
 
 ◼️
 
 [Data](articles/0569b3bc.json)
 
+[Extended Data](ext_articles/0569b3bc.ext.json)
+
 ---
 
-### தேர்தல் முறைப்பாடுகள் தொடர்ந்து அதிகரிப்பு
+### Election Complaints Continued Increase
 
 *2024-08-12 10:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடுகள்-தொடர்ந்து-அதிகரிப்பு/175-342012) · `ta`
 
-கடந்த 24 மணித்தியாலங்களில் மாத்திரம் 17 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தேர்தல்கள் ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+In the past 24 hours alone, 17 election complaints were filed, bringing the total to 337 since July 31.
 
-ஜூலை 31 முதல் நேற்று (11) வரை 337 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தேர்தல் ஆணைக்குழு குறிப்பிட்டுள்ளது.
+🟩
+
+The Election Commission has pointed out that 17 election complaints have been reported in the last 24 hours.
+
+The Election Commission said that 337 election complaints have been reported from July 31 to yesterday.
 
 ◼️
 
 [Data](articles/18e14675.json)
+
+[Extended Data](ext_articles/18e14675.ext.json)
 
 ---
 
@@ -615,6 +719,20 @@ The general  public is kindly requested to take adequate precautions to minimiz
 [Data](articles/aebd139a.json)
 
 [Extended Data](ext_articles/aebd139a.ext.json)
+
+---
+
+### සීතා නුවර පෙරහරට එයි
+
+*2024-08-12 07:50:20* · [`adalk`](https://www.ada.lk/breaking_news/සීතා-නුවර-පෙරහරට-එයි/11-411312) · `si`
+
+මහියංගන රජමහා විහාරයේ පෙරහරට සහභාගි වෙමින් සිටියදී වෙඩි ප්‍රහාරයකට ලක්ව දැඩි අසාධ්‍ය තත්ත්වයට පත් වූ සීතා ඇතින්න සම්පූර්ණයෙන් සුව වීමෙන් පසු මෙවර මහනුවර ඇසළ පෙරහැරේ පත්තිනි දේවාලයේ පෙරහරට සහභාගි වීම සඳහා මහනුවරට පැමිණ සිටී.
+
+පසුගිය වසරේ සැප්තැම්බර් මස 30 වැනි දින රාත්‍රි මහියංගන රජමා විහාරයේ පෙරහර නිමාවීමෙන් පසු සීතා ඇතින්න විවේකීව සිටින අවස්ථාවේදී කිසියම් පුද්ගලයකුගේ වෙඩි ප්‍රහාරයකට ලක් ලක්වූ අතර එය එවකට මහත් ආන්දෝලනාත්මක සිදුවීමක් විය .
+
+◼️
+
+[Data](articles/ce5830e8.json)
 
 ---
 
@@ -2135,127 +2253,5 @@ It is important to clarify why we stop him, rather than stopping the Tamil gener
 [Data](articles/770c084c.json)
 
 [Extended Data](ext_articles/770c084c.ext.json)
-
----
-
-### Roshan Ranasinghe
-
-*2024-08-11 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199825) · `si`
-
-Roshan Ranasinghe, ex-Sports Minister, announced at the Sri Lanka Foundation Institute that the upcoming presidential election will proceed as planned.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe says that the presidential election will be forwarded to the coming presidential election.
-
-He was speaking at a function held at the Sri Lanka Foundation Institute.
-
-◼️
-
-[Data](articles/e60aefd6.json)
-
-[Extended Data](ext_articles/e60aefd6.ext.json)
-
----
-
-### Namal takes the percentage of Mahinda admitted to Mahinda in 2005
-
-*2024-08-11 17:22:07* · [`adalk`](https://www.ada.lk/breaking_news/2005දී-මහින්ද-ගත්ත-ප්‍රතිශතයම-මෙවර-නාමල්-ගන්නවා/11-411308) · `si`
-
-MP Johnston Fernando revealed that Namal Rajapaksa obtained the vote percentage of President Mahinda Rajapaksa from the 2005 presidential election.
-
-🟩
-
-MP Johnston Fernando said that the percentage of votes polled by President Mahinda Rajapaksa at the 2005 presidential election was obtained by Namal Rajapaksa at the Presidential Election.
-
-◼️
-
-[Data](articles/c054fdf7.json)
-
-[Extended Data](ext_articles/c054fdf7.ext.json)
-
----
-
-### The preliminary printing of presidential election begins
-
-*2024-08-11 17:14:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-අදාළ-මූලික-මුද්‍රණ-කටයුතු-ආරම්භ-කරයි/11-411307) · `si`
-
-Preliminary printing of the presidential election has started, as announced by government official Ganani Liyanage. The Elections Commission sought advice on printing ballot sizes for candidates today.
-
-🟩
-
-The government princes Ganani Liyanage said that the preliminary printing of the presidential election has already begun.
-
-Today, the Elections Commission has asked the Elections Commission about how the ballot papers should be printed under the size of candidates.
-
-◼️
-
-[Data](articles/023c8f1a.json)
-
-[Extended Data](ext_articles/023c8f1a.ext.json)
-
----
-
-### The escaped Hasin accused America
-
-*2024-08-11 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199824) · `si`
-
-Hasina, former PM of Bangladesh, accuses the US of interfering in her country's affairs, citing potential threats to its sovereignty. She warns against violence as she urges citizens not to retaliate against her resignation.
-
-🟩
-
-Bangladesh, Prime Minister of Bangladesh, who resigned from the respiring of the US, says the US Prime Minister Shaikh Husanna.
-
-She added that if the United States gave the US to the United States to ensure power in the Bay of Bay of Bay of Bay of Bay.
-
-Indian media reports that the first time has been released in the first time since the first time has fled the country after the escalation of the students' escalation of the students of Bangladesh.
-
-However, he said that he would ask the people of Bangladesh not to prosecute their resignation to prevent further violence in the country.
-
-◼️
-
-[Data](articles/96f86405.json)
-
-[Extended Data](ext_articles/96f86405.ext.json)
-
----
-
-### A special gazette notification of the Election Commission
-
-*2024-08-11 17:07:19* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිසමෙන්-අතිවිශේෂ-ගැසට්-නිවේදනයක්/11-411306) · `si`
-
-The Election Commission issued a gazette on January 29, 2024, amending its previous one from January 16, 2023. This amendment allocates names to 84 recognized political parties, including animals like chickens, cobras, collies, camels, and others such as Tofey, cow, ama, carrots, crocodiles, tortoises, bails, tobawas, Casbawas, Bazaunas, bamboos, and bamboos.
-
-🟩
-
-The Elections Commission (Elections) issued a new gazette issued on January 29, 2024, amended the gazette issued on January 16, 2023.
-
-Accordingly, the gazette notification has already been allocated for 84 recognized political parties.The chicken, the cobra, and including the collies, and the camel.Also, the political parties have not yet been given. Tofey, cow, ama, carrots, carrots, crocodile, tortoon, bail, tobawa, bail, Casbawa, and Bazauna, bamboo, bamboo.
-
-◼️
-
-[Data](articles/8c682f91.json)
-
-[Extended Data](ext_articles/8c682f91.ext.json)
-
----
-
-### Going to vote…
-
-*2024-08-11 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190827) · `ta`
-
-The upcoming presidential election on September 21st is crucial for selecting the country's ninth executive president. It's essential for citizens to participate, ensuring their voice is heard through their vote. Before voting, individuals must verify their eligibility on the Election Commission's website. On election day, voters should bring their voter card and a valid form of identification, such as a National Identity Card, passport, or service license. The voting process involves marking the preferred candidate's number on the ballot. If no candidate achieves a majority, a runoff may occur based on preferential voting. It's vital for voters to educate themselves on the candidates' policies and make informed decisions.
-
-🟩
-
-The presidential election referendum to elect the ninth executive president will be held on September 21st. Nominations for the election will be held at the Election Commission office from 9 am to 11 pm.Following the election campaigns will take place very seriously.Political party representatives and candidates will be actively involved in election campaigns.
-
-Accordingly, the election period has already begun to heat up.The electoral field is becoming more and more of the coalition settings, the creation of camps and supporting campaigns. As far as the election is concerned, people should vote in the election. This is the democratic right of the people.No one should give up that right.People should go and vote on the 21st.One of the contesting candidates must be selected.
-
-...
-
-[Data](articles/1c41800c.json)
-
-[Extended Data](ext_articles/1c41800c.ext.json)
 
 ---

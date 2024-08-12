@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 17:57:30**
+As of **2024-08-12 18:17:20**
 
 ## Newspaper Stats
 
-*Scraped **40,317** Articles*
+*Scraped **40,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 381
 islandlk | 2,331
-economynextcom | 2,437
+economynextcom | 2,443
 dailyftlk | 2,593
-adalk | 3,702
+adalk | 3,703
 adaderanalk | 4,698
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,112
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,316 (100.0%) of 40,317 articles have been extended.
+40,316 (100.0%) of 40,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Sri Lanka’s DFCC Bank planned green bond given expected rating of A- (lka)
+
+*2024-08-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-planned-green-bond-given-expected-rating-of-a-lka-176484/) · `en`
+
+ECONOMYNEXT – A planned green bond issue of up to 2.5 billion rupees by Sri Lanka’s DFCC Bank has been given an A- (lka) expected rating, by Fitch Ratings.
+
+The bond was given the same National Long Term Rating as DFCC Bank because “it constitutes a direct, unconditional, unsubordinated and unsecured obligation of the bank, and will rank pari passu with all of its present and future unsecured and unsubordinated obligations.”
+
+The notes, which would be the first listed green bond issuance in Sri Lanka, will mature in three years with fixed coupons, Fitch said.
+
+The proceeds from the bond issuance will be used to finance eligible green projects such as photovoltaic power generation.
+
+Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has assigned DFCC Bank PLC’s (A-(lka)/Stable) proposed Sri Lankan rupee-denominated senior unsecured listed green bonds of up to LKR2.5 billion an expected National Long-Term Rating of ‘A-(EXP)(lka)’.
+
+...
+
+[Data](articles/ce408c0d.json)
+
+---
 
 ### ශ්‍රී ලංකාවට එන නවසීලන්ත ටෙස්ට් කණ්ඩායම
 
@@ -47,6 +67,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3ba3dbe8.json)
+
+---
+
+### Sri Lanka bond yields up, rupee closes stronger at 299.50/80
+
+*2024-08-12 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-up-rupee-closes-stronger-at-299-50-80-176470/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.50/80 to the US dollar Monday, from 300.00/20 Friday dealers said, while bond yields were up.
+
+Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
+
+A bond maturing on 15.12.2026 closed stable at 11.05/10 percent.
+
+A bond maturing on 15.12.2027 closed at 12.05/20 percent, down from 12.10/20 percent.
+
+A bond maturing on 15.09.2029 closed at 12.65/80 percent, up from 12.60.70 percent.
+
+A bond maturing on 15.05.2030 closed at 12.85/13.00 percent. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/b997afb5.json)
 
 ---
 
@@ -75,6 +117,46 @@ Preliminary investigations have revealed that the driver of the three-wheeler ca
 [Data](articles/01f0d04a.json)
 
 [Extended Data](ext_articles/01f0d04a.ext.json)
+
+---
+
+### බිහිසුණු බස් රථ අනතුරක්
+
+*2024-08-12 16:51:05* · [`adalk`](https://www.ada.lk/breaking_news/බිහිසුණු-බස්-රථ-අනතුරක්/11-411328) · `si`
+
+බණ්ඩාරගම කැස්බෑව මාර්ගයේ ගල් කඩේ හංදියේදී ලංගම බස් රථයක් මාර්ගයේ  රැඳී සිටි පුද්ගලයන් දෙදෙනෙකු මතට කඩා වැදී එක් අයකු මිය ගොස් තවත් අයකු බරපතළ තුවාල ලබා ඇතැයි බණ්ඩාරගම පොලිසිය කියයි
+
+සිදුවූ අනතුරින් බස් රථයේ ගමන් ගත් කාන්තාවගේ අතක ටද ආබාධයට ලක්වී රෝහල් ගත වූ බව බණ්ඩාරගම රෝහලේ ප්‍රකාශකයෙක් පැවසීය
+
+අනතුරින් මියගොස් ඇත්තේ අකුරැස්ස ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 45-55 පුද්ගලයෙකි
+
+බණ්ඩාරගම ප්‍රදේශයේ විහාරස්ථානයක ඉදිකිරීම් කටයුත්තක් සඳහා  අනතුරට පත් පුද්ගලයන් දෙදෙනා සහ තවත් පුද්ගලයකු ඊයේ (12) දින පැමිණ  ආපනශාලාවකින් දහවල් ආහාර ලබාගෙන තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+...
+
+[Data](articles/b17de7c8.json)
+
+---
+
+### Sri Lanka stocks close up, turnover remains low
+
+*2024-08-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-176472/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.08 percent, or 9.26 points, at 11,312; while the more liquid S&P SL20 Index closed up 0.28 percent, or 8.91 points, at 3,233.
+
+“Despite the market ending positively, investor participation was minimal,” Softlogic Stockbrokers said. “It was a dull day with very low turnover.”
+
+There was one crossing recorded; A local to local transaction on Kelani Tyres Plc contributed 38 million rupees to the turnover. The share closed flat at 75.00 rupees.
+
+Foreign buying was seen in Commercial Bank of Ceylon Plc (up at 91.40), Ceylinco Holdings Plc non-voting (flat at 925.00), Renuka Agri Foods Plc (down at 2.90), and Hatton National Bank Plc non-voting (down at 140.00).
+
+Foreign selling was seen in John Keells Holdings Plc (down at 178.00), Dialog Axiata Plc (flat at 9.30), Access Engineering Plc (flat 21.80), and Nations Trust Bank Plc (down at 119.00).
+
+...
+
+[Data](articles/973c001d.json)
 
 ---
 
@@ -206,6 +288,24 @@ Our correspondent said that a three-wheeler was hit by the back of a lorry.
 
 ---
 
+### Sri Lanka Parliament informs Election Commission of two vacant seats
+
+*2024-08-12 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-informs-election-commission-of-two-vacant-seats-176457/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament has informed the Election Commission that two Parliamentary seats are vacant.
+
+Acting General Secretary of the Parliament Chaminda Kularatne informed the Chairman of the Election Commission in writing that two Parliamentary seats in the Ninth Parliament have become vacant from August 9.
+
+This is due to the cancellation of parliamentary seats of legislators Manusha Nanayakkara and Harin Fernando after the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel the two was legally valid.
+
+Galle District Member of Parliament Nanayakkara and National List Member of Parliament Harin Fernando had challeged the SJB’s decision to remove them from their party membership after the two crossed over to support President Ranil Wickremesinghe. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/35f28277.json)
+
+---
+
 ### Israel is trying to face a attack
 
 *2024-08-12 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199856) · `si`
@@ -289,6 +389,26 @@ Three persons were killed and three were injured in a daytime vehicle accident i
 [Data](articles/9ecdbc36.json)
 
 [Extended Data](ext_articles/9ecdbc36.ext.json)
+
+---
+
+### Speaker endorses Sri Lanka Economic Transformation Bill
+
+*2024-08-12 15:37:00* · [`economynextcom`](https://economynext.com/speaker-endorses-sri-lanka-economic-transformation-bill-176440/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Speaker Mahinda Yapa Abeywardana has signed the certificate on the Economic Transformation, a statement from the Parliament said.
+
+The Bill which aimed to make provisions for a national policy on economic transformation, was presented to Parliament on May 22.
+
+It was debated in Parliament on July 25, and was passed with amendments and without a vote.
+
+The Bill will come into effect as the Economic Transformation Act No. 45 of 2024.
+
+The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/1fbd5c99.json)
 
 ---
 
@@ -779,6 +899,26 @@ Therefore, the Chairman of the Elections Commission, the Chairman of the Electio
 [Data](articles/268d3cd5.json)
 
 [Extended Data](ext_articles/268d3cd5.ext.json)
+
+---
+
+### Sri Lanka’s Justice Ministry goes to Sabry after Wijedasa resignation
+
+*2024-08-12 13:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-justice-ministry-goes-to-sabry-after-wijedasa-resignation-176393/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesimghe appointed Foreign Minister Ali Sabry MP as the Justice Minister on Monday (12) after the position fell vacant after the resignation of the former cabinet minister Wijeyadasa Rajapakshe.
+
+“MP Ali Sabry took oath as the Minister of Justice, Prison Affairs & Constitutional Reforms before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago in addition to his current portfolio as the Minister of Foreign Affairs,” the President’s Media Division (PMD) said in a statement.
+
+Rajapakshe, the former Justice Minister resigned from his portfolio on July 25 citing that he was contesting in the upcoming presidential poll scheduled for Sept 21.
+
+Rajapakshe has already given his nomination to contest in the poll under National Democratic Front (NDF).
+
+Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and has held various positions including cabinet portfolios.
+
+...
+
+[Data](articles/791b68f2.json)
 
 ---
 
@@ -2093,175 +2233,5 @@ It was reported that the 2 helicopters of propellers were inaccessible while fly
 [Data](articles/ec2a2fd1.json)
 
 [Extended Data](ext_articles/ec2a2fd1.ext.json)
-
----
-
-### Helly fell on the hotel: pilot death
-
-*2024-08-12 09:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹோட்டலின்-மீது-ஹெலி-விழுந்தது-விமானி-உயிரிழப்பு/50-342005) · `ta`
-
-A helicopter crash-landed on a hotel roof in Cairns, Australia, killing the pilot. The incident occurred at the Hilton Double Tree Hotel, where more than 100 guests were safely evacuated. No injuries were reported among the guests.
-
-🟩
-
-A helicopter fell on the roof of a star hotel in Australia, and its pilot died.
-
-The swimming pool is located at the Hilton Double Tree Hotel operating in Cairns Cairns in the northern part.
-
-In the meantime, two people, including a pilot, crashed on the roof of the star hotel at around 2 am this morning.
-
-It is reported that the pilot died on the spot when the helicopter fell on the fire.
-
-More than 100 people in the hotel have been rescued from there. Preliminary reports have revealed that there were no injured in the accident.
-
-It was reported that the 2 helicopters of propellers were inaccessible while flying in the sky.
-
-◼️
-
-[Data](articles/fda15dc0.json)
-
-[Extended Data](ext_articles/fda15dc0.ext.json)
-
----
-
-### Request made by the Commissioner General of Elections
-
-*2024-08-12 09:44:48* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමසාරිස්-ජනරාල්-කළ-ඉල්ලිම/11-411315) · `si`
-
-Saman Sri Ratnayake, the Commissioner General of Elections, has sought assistance from EU and Asian electoral opposition officials for the upcoming presidential election. He mentioned receiving over 320 complaints about misuse of state property but assured measures are in place to address this. The initiative aims to educate election campaign officers across nine provinces through awareness programs.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake said that many officials of the European Union and Asian Electoral Opposition have been requested for presidential election.
-
-Mr. Saman Sri Ratnayake said that the police officers deployed for election duties and police officers in Nuwara Eliya district were speaking to the media after participating in the awareness program at the Nuwara Eliya District Secretariat.
-
-The Commissioner General of Elections The General said that
-
-"We have received nearly 320 complaints regarding state property misbehations.With the discussion we will not prevent this.
-
-The project is doing this to educate all the officers involved in election campaign including nine provinces.
-
-◼️
-
-[Data](articles/7c92278d.json)
-
-[Extended Data](ext_articles/7c92278d.ext.json)
-
----
-
-### Several fatal accidents - 5 dead
-
-*2024-08-12 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199840) · `si`
-
-In separate road accidents across the island, five fatalities occurred: two motorcyclists collided with a concrete stake and a tractor in Pooneryn and Tissapura; a 41-year-old died when his motorcycle hit a stake near Kurundagahapalla; and a bus crash on the Colombo-Kandy road resulted in the deaths of two passengers, aged 38 and 43 from Matale and Kegalle.
-
-🟩
-
-Five persons were killed in road accidents in several parts of the island, police said.
-
-The accident had occurred yesterday in the police divisions yesterday (11) was held at Pooneryn, Uhana, Elpitiya and Warakapola.
-
-A motorbike travel from Pooneryn to Jaffna has clashed with a concrete stake.
-
-Meanwhile, a motorbike was reported to pass a tractor in Tissapura and had reportedly damaged the motorcycle driving tractor in danger.
-
-A 41-year-old killed in Elpitiya to Colombo near the Kurundagahapalla road on the Portugahapulliya road.
-
-Meanwhile, a bus traveling from Kandy to Colombo in the Colombo-Kandy-Kandy road, a bus traveling from Kandy to Colombo has died behind the direction.
-
-After the bus collided with the motorcycle, the motorcycle rolled out the front wheel and the bus was killed in the front wheel.
-
-The victims were identified as 38 and 43 years old residents of Matale and Kegalle.
-
-◼️
-
-[Data](articles/aea84cc7.json)
-
-[Extended Data](ext_articles/aea84cc7.ext.json)
-
----
-
-### “We will announce within a few more days”
-
-*2024-08-12 09:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்னும்-சில-நாட்களுக்குள்-அறிவிப்போம்/175-342004) · `ta`
-
-Champika Ranawaka announced plans to endorse a future presidential candidate soon, hinting at a shift from previous alliances. He thanked Mahinda Rajapaksa for introducing Namal Rajapaksa but didn't mention Dhammika Perera's fate.
-
-🟩
-
-Parliamentarian Patali Champika Ranawaka, who formed the United People's Power Party and formed the UNP, said his position at a meeting held at the Kessewa Municipal Auditorium yesterday afternoon.
-
-“Within a few days, we will support the candidate we have chosen as the next president of the country. We will tell you who it is in a few more days. What happened to Dhammika Perera for others.
-
-The Rajapaksas followed them and eventually thrown away. We thank Mahinda Rajapaksa for presenting Namal Rajapaksa, ”the MP said.. Remble
-
-◼️
-
-[Data](articles/b7ab8f54.json)
-
-[Extended Data](ext_articles/b7ab8f54.ext.json)
-
----
-
-### IMF classifies Sri Lanka’s exchange regime as ‘other managed’
-
-*2024-08-12 09:40:00* · [`economynextcom`](https://economynext.com/imf-classifies-sri-lankas-exchange-regime-as-other-managed-176326/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s exchange rate arrangement involving ad hoc interventions, which has so far remained stable and provided a strong foundation for economic activities to resume amid broadly deflationary monetary policy, has been classified as ‘other managed’ by the International Monetary Fund.
-
-Especially after 1978 as the IMF’s Second Amendment to its Articles deprived members of a credible anchor for money, countries ended up with various exchange rates arrangements, which collapse due to conflicting money and exchange policies, triggering high inflation, social unrest and political upheavals.
-
-“The de jure exchange rate arrangement is classified as free floating, while the de facto exchange rate arrangement is classified as other managed,” the IMF said in its last economic report.
-
-...
-
-[Data](articles/6e688a7a.json)
-
-[Extended Data](ext_articles/6e688a7a.ext.json)
-
----
-
-### IMF classifies Sri Lanka’s exchange regime as ‘other managed’ arrangement
-
-*2024-08-12 09:40:00* · [`economynextcom`](https://economynext.com/imf-classifies-sri-lankas-exchange-regime-as-other-managed-arrangement-176326/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s exchange rate arrangement involving ad hoc interventions, which has so far remained stable and provided a strong foundation for economic activities to resume amid broadly deflationary monetary policy, has been classified as ‘other managed’ by the International Monetary Fund.
-
-Especially after 1978 as the IMF’s Second Amendment to its Articles deprived members of a credible anchor for money, countries ended up with various exchange rates arrangements, which collapse due to conflicting money and exchange policies, triggering high inflation, social unrest and political upheavals.
-
-“The de jure exchange rate arrangement is classified as free floating, while the de facto exchange rate arrangement is classified as other managed,” the IMF said in its last economic report.
-
-...
-
-[Data](articles/ac4a81a7.json)
-
-[Extended Data](ext_articles/ac4a81a7.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 299.85/300.00 to US dollar
-
-*2024-08-12 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-85-300-00-to-us-dollar-176329/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.85/300.00 to the US dollar on Monday, dealers said. Bond yields were steady, they said, and stocks opened up 0.11 percent.
-
-In the secondary market, treasury bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 11.00/10 percent, from 11.05/10 percent.
-
-A bond maturing on 15.12.2027 was quoted stable at 12.10/20 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.20/40 percent.
-
-A bond maturing on 15.12.2029 was quoted stable at 12.60/70 percent.
-
-In equities, Colombo’s All Share Price Index opened 12.91 points higher at 11,316, while the S&P SL20 of more liquid stocks opened up at 0.20 percent or 6.48 points to 3,231.
-
-◼️
-
-[Data](articles/5af9734c.json)
-
-[Extended Data](ext_articles/5af9734c.ext.json)
 
 ---

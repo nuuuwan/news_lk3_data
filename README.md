@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 12:10:22**
+As of **2024-08-12 12:21:26**
 
 ## Newspaper Stats
 
-*Scraped **40,244** Articles*
+*Scraped **40,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,692
-adaderanalk | 4,684
+adaderanalk | 4,687
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,099
 virakesarilk | 6,377
@@ -26,37 +26,101 @@ adaderanasinhalalk | 6,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,241 (100.0%) of 40,244 articles have been extended.
+40,244 (100.0%) of 40,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### இரண்டு கட்சிகளின் பிரதிநிதிகளுக்கு அழைப்பு
+### AKD signs nomination papers for Presidential Election
+
+*2024-08-12 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101170/akd-signs-nomination-papers-for-presidential-election) · `en`
+
+Leader of the National People’s Power (NPP) and Member of Parliament Anura Kumara Dissanayake has signed his nomination papers to contest the upcoming Presidential Election scheduled for September 21.
+
+The event took place at the Janatha Vimukthi Peramuna (JVP) head office this morning (12).
+
+The ceremony was attended by several NPP’s national executive members, including General Secretary of NPP Nihal Abeysinghe and General Secretary of JVP Tilvin Silva.
+
+◼️
+
+[Data](articles/a00ae9e4.json)
+
+---
+
+### Nearly 20 more election-related complaints within last 24 hours - EC
+
+*2024-08-12 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101169/nearly-20-more-election-related-complaints-within-last-24-hours-ec) · `en`
+
+The complaints received by the Election Commission of Sri Lanka related to the upcoming presidential election have further increased.
+
+The Election Commission says that 17 more complaints have been received within the past 24 hours pertaining to the 2024 Presidential Election.
+
+Accordingly, a total of 337 election complaints have been reported between July 31 and yesterday (11), the Election Commission said.
+
+The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024.
+
+◼️
+
+[Data](articles/1360758a.json)
+
+---
+
+### Presidential Election 2024: Ex-Sports Minister Roshan Ranasinghe places deposit
+
+*2024-08-12 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101168/presidential-election-2024-ex-sports-minister-roshan-ranasinghe-places-deposit) · `en`
+
+Bonds have been placed on behalf of former Sports Minister Roshan Ranasinghe today (12), to contest in the 2024 Presidential Election as an independent candidate.
+
+Aloka Ranasinghe, a relative of the ex-minister, has paced the cash deposit on behalf of Ranasinghe.
+
+On Sunday (11), Roshan Ranasinghe announced his presidential candidacy while addressing a function held at the Sri Lanka Foundation Institute.
+
+The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024, as per a gazette extraordinary issued by the Election Commission of Sri Lanka.
+
+◼️
+
+[Data](articles/872d9ca7.json)
+
+---
+
+### Call to representatives of two parties
 
 *2024-08-12 11:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கட்சிகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342023) · `ta`
 
-இரண்டு அரசியல் கட்சிகளின் பிரதிநிதிகள் தேசிய தேர்தல்கள் ஆணைக்குழுவிற்கு திங்கட்கிழமை (12) அழைக்கப்பட்டுள்ளனர்.
+Representatives from the United SLFP and Lanka Janata Party will meet the National Elections Commission on Monday to address concerns related to party secretaries.
 
-ஐக்கிய லங்கா பொதுச் சபைக் கட்சி மற்றும் லங்கா ஜனதா கட்சியின் பிரதிநிதிகளை, அந்த கட்சிகளின் செயலாளர்களின் பிரச்சனைகள் குறித்து விவாதிப்பதற்றகாக அழைக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+🟩
+
+Representatives of two political parties have been summoned to the National Elections Commission on Monday (12).
+
+The Elections Commission further stated that representatives of the United SLFP and the Lanka Janata Party (BJP) have been invited to discuss the issues of the secretaries of the party.
 
 ◼️
 
 [Data](articles/1e9628ca.json)
 
+[Extended Data](ext_articles/1e9628ca.ext.json)
+
 ---
 
-### රොෂාන්ටත් ඇප තියයි
+### Roshan also bailed
 
 *2024-08-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199846) · `si`
 
-මෙවර ජනාධිපතිවරණයට ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වන හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා වෙනුවෙන් ඇප තැන්පත් කර තිබේ.
+Roshan Ranasinghe, former Sports Minister, is now an independent presidential candidate. His son and nephew, both named Luck Ranasinghe, have posted bail for him.
 
-ඒ මහතාගේ ඥාති පුත්‍රයෙකු වන  ආලෝක රණසිංහ මහතා විසින් එලෙස ඇප මුදල් තැන්පත් කර ඇත.
+🟩
+
+Former Sports Minister Roshan Ranasinghe has been placed as an independent candidate for the presidential election this year.
+
+His son Luck Ranasinghe, a nephew Luck Ranasinghe has deposited bail.
 
 ◼️
 
 [Data](articles/fd54818a.json)
+
+[Extended Data](ext_articles/fd54818a.ext.json)
 
 ---
 
@@ -162,17 +226,23 @@ Issuing a statement, the International Committee of the Red Cross (ICRC) said th
 
 ---
 
-### පොහොසත් රටක් ලස්සන ජීවිතයක් ජනතාවට  උරුමකර දීමට අනුර නාම යෝජනා අත්සන් කරයි
+### Anura signs Anura's nominations to give a beautiful life to the people
 
 *2024-08-12 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/පොහොසත්-රටක්-ලස්සන-ජීවිතයක්-ජනතාවට--උරුමකර-දීමට-අනුර-නාම-යෝජනා-අත්සන්-කරයි/11-411319) · `si`
 
-එළඹෙන සැප්තැම්බර් 21 දින පැවැත්වෙන ජනාධිපතිවරණය වෙනුවෙන් අද (12) පෙරවරුවේ ජ.වි.පෙ. ප්‍රධාන කාර්යාලයේදී ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක සහෝදරයා අපේක්ෂක නාමයෝජනා පත්‍රයට අත්සන් තැබීය.
+Comrade Anura Kumara Dissanayake filed his candidacy for the presidential election on September 21st, supported by several National Executive Members of the JVP, including Dr. Nihal Abeysinghe and Tilvin Silva.
 
-මෙම අවස්ථාවට ජාතික ජන බලවේගයේ ප්‍රධාන ලේකම් වෛද්‍ය නිහාල් අබේසිංහ, ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් ටිල්වින් සිල්වා යන සහෝදරවරු ඇතුළුව ජාතික විධායක සභික සහෝදර සහෝදරවරු කිහිප දෙනෙක්ද සහභාගි වූහ.
+🟩
+
+JVP this morning for the presidential election held on 21st September. Comrade Anura Kumara Dissanayake signed a candidate nomination at the Head Office.
+
+Several National Executive Members of the National Executive Members of the JVP Dr. Nihal Abeysinghe and the General Secretary of the JVP Tilvin Silva were also present at the occasion.
 
 ◼️
 
 [Data](articles/979dcaa5.json)
+
+[Extended Data](ext_articles/979dcaa5.ext.json)
 
 ---
 
@@ -2231,57 +2301,5 @@ He said this while addressing an event under the Sri Lanka Foundation.
 [Data](articles/56f5b3ae.json)
 
 [Extended Data](ext_articles/56f5b3ae.ext.json)
-
----
-
-### Roshan Ranasinghe ...
-
-*2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-களத்தில்/175-341975) · `ta`
-
-Former Sports Minister Roshan Ranasinghe announced his candidacy for the upcoming presidential election during a Sri Lanka Foundation event.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe has said that he will contest the upcoming presidential election.
-
-He said this while addressing an event under the Sri Lanka Foundation.
-
-◼️
-
-[Data](articles/afe1c1d3.json)
-
-[Extended Data](ext_articles/afe1c1d3.ext.json)
-
----
-
-### Bipolar challenges
-
-*2024-08-11 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/190825) · `ta`
-
-New Delhi is buzzing about Bangladesh's upcoming government, its stance towards India, foreign policy, and handling of China.
-
-🟩
-
-New Delhi has appeared in New Delhi, such as how the next government in Bangladesh is, how firm it will be, its foreign policy and relations with India, and how it is going to handle China.
-
-◼️
-
-[Data](articles/5133e8a6.json)
-
-[Extended Data](ext_articles/5133e8a6.ext.json)
-
----
-
-### Heart Health Vs. Hearsay: Why Your Arteries Don’t Care About Conspiracies
-
-*2024-08-11 17:51:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/heart-health-vs-hearsay-why-your-arteries-dont-care-about-conspiracies/) · `en`
-
-I remember back in the ’70s, my high school teacher was a chain smoker, yet he lived well into old age without any apparent harm. Fast forward to today, and smoking is banned in public indoor spaces, especially in schools, due to the well-documented dangers of secondhand smoke. These stories seem contradictory, but they don’t shake our understanding because we know that not everyone who smokes will develop cancer. Yet, despite knowing someone like my teacher, we wouldn’t dare proclaim from the rooftops that smoking is safe.
-
-...
-
-[Data](articles/2db05dd3.json)
-
-[Extended Data](ext_articles/2db05dd3.ext.json)
 
 ---

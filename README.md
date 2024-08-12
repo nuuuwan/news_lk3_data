@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 11:56:30**
+As of **2024-08-12 12:10:22**
 
 ## Newspaper Stats
 
-*Scraped **40,241** Articles*
+*Scraped **40,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,92 @@ colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
-adalk | 3,691
+adalk | 3,692
 adaderanalk | 4,684
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,098
+tamilmirrorlk | 5,099
 virakesarilk | 6,377
-adaderanasinhalalk | 6,844
+adaderanasinhalalk | 6,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,236 (100.0%) of 40,241 articles have been extended.
+40,241 (100.0%) of 40,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### புரிந்துணர்வு உடன்படிக்கை கைச்சாத்து (காணொளி)
+### இரண்டு கட்சிகளின் பிரதிநிதிகளுக்கு அழைப்பு
+
+*2024-08-12 11:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கட்சிகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342023) · `ta`
+
+இரண்டு அரசியல் கட்சிகளின் பிரதிநிதிகள் தேசிய தேர்தல்கள் ஆணைக்குழுவிற்கு திங்கட்கிழமை (12) அழைக்கப்பட்டுள்ளனர்.
+
+ஐக்கிய லங்கா பொதுச் சபைக் கட்சி மற்றும் லங்கா ஜனதா கட்சியின் பிரதிநிதிகளை, அந்த கட்சிகளின் செயலாளர்களின் பிரச்சனைகள் குறித்து விவாதிப்பதற்றகாக அழைக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1e9628ca.json)
+
+---
+
+### රොෂාන්ටත් ඇප තියයි
+
+*2024-08-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199846) · `si`
+
+මෙවර ජනාධිපතිවරණයට ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වන හිටපු ක්‍රීඩා අමාත්‍ය රොෂාන් රණසිංහ මහතා වෙනුවෙන් ඇප තැන්පත් කර තිබේ.
+
+ඒ මහතාගේ ඥාති පුත්‍රයෙකු වන  ආලෝක රණසිංහ මහතා විසින් එලෙස ඇප මුදල් තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/fd54818a.json)
+
+---
+
+### Memorandum of Understanding (Video)
 
 *2024-08-12 11:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புரிந்துணர்வு-உடன்படிக்கை-கைச்சாத்து-காணொளி/175-342021) · `ta`
 
-பெருந்தோட்ட மக்களை  வலுவூட்டும் நோக்கில் பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுடன் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச புரிந்துணர்வு உடன்படிக்கையில் திங்கட்கிழமை (12) கைச்சாத்திட்டார்.
+Opposition leader Sajith Premadasa, along with other parliament members, signed a Memorandum of Understanding aimed at bolstering support for plantation communities.
 
-இந்த புரிந்துணர்வு உடன்படிக்கையில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, பாராளுமன்ற உறுப்பினர் மனோ கணேசன், பழனி திகாம்பரம் மற்றும் எம்.உதயகுமார் உள்ளிட்ட தோட்ட மக்களை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் இதில் கையொப்பமிட்டனர்.
+🟩
+
+Opposition leader Sajith Premadasa signed a Memorandum of Understanding (MoU) with the leaders of the plantation political party to strengthen the plantation people.
+
+The Memorandum of Understanding (MoU) signed the signed by Members of Parliament to represent the plantation people including Opposition Leader Sajith Premadasa, Member of Parliament Mano Ganesan, Palani Thikambaram and M. Udayakumar.
 
 ◼️
 
 [Data](articles/d6231307.json)
 
+[Extended Data](ext_articles/d6231307.ext.json)
+
 ---
 
-### தேர்தல் ஆணைக்குழு -GS இடையில் சந்திப்பு
+### Meeting between the Election Commission -GS
 
 *2024-08-12 11:31:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-GS-இடையில்-சந்திப்பு/175-342020) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பான கடமைகளை சுமூகமாக நடத்துவதை உறுதி செய்வதற்காக வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அகில இலங்கை கிராம சேவை உத்தியோகத்தர் சங்கத்தின் உறுப்பினர்களை தேர்தல்கள் ஆணைக்குழு சந்திக்கவுள்ளது.
+The Elections Commission is meeting with the striking All Ceylon Grama Niladhari Association to ensure a smooth presidential election. Despite the Grama Niladhari Officers' planned withdrawal from duties, the Commission assures no disruption to the election process.
 
-பணிப்பகிஷ்கரிப்புக்கு மத்தியிலும் ஜனாதிபதி தேர்தல் தொடர்பான சகல கடமைகளையும் செய்வதற்கு அதிகாரிகள் முன்னர் இணக்கம் தெரிவித்திருந்தனர் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-எவ்வாறாயினும், தேர்தல் நடைமுறைக்கு ஏதேனும் இடையூறு ஏற்படாத வகையில் சம்பந்தப்பட்ட அதிகாரிகளுடன் ஆணைக்குழு இந்த கலந்துரையாடலை ஏற்பாடு செய்துள்ளது.
+The Elections Commission will meet members of the All Ceylon Grama Niladhari Association, which is on strike to ensure that the presidential election is smooth.
 
-கிராம சேவை உத்தியோகத்தர்கள் இன்று (12) மற்றும் நாளை (13) சகல கடமைகளில் இருந்தும் விலகுவதாக அறிவித்துள்ளனர்.cs
+Elections Commission Chairman RMAL Ratnayake said that the authorities had previously agreed to perform all the duties of the presidential election despite the work.
+
+However, the Commission has organized the discussion with the relevant authorities that there is no disruption to the election process.
+
+Grama Niladhari Officers have announced that they will withdraw from all duties today (12) and tomorrow (13).
 
 ◼️
 
 [Data](articles/77381a7a.json)
+
+[Extended Data](ext_articles/77381a7a.ext.json)
 
 ---
 
@@ -80,21 +120,29 @@ The fire comes less than a week after Ukraine’s forces launched their largest 
 
 [Data](articles/f4cd7e68.json)
 
+[Extended Data](ext_articles/f4cd7e68.ext.json)
+
 ---
 
-### අනුර නාමයෝජනා අත්සන් තබයි
+### Anura nominations sign
 
 *2024-08-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199845) · `si`
 
-එළැඹෙන සැප්තැම්බර් 21 දින පැවැත්වෙන ජනාධිපතිවරණය වෙනුවෙන් අනුර කුමාර දිසානායක මහතා අපේක්ෂක නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+Anura Kumara Dissanayake filed his candidacy for president on September 21. The event took place at the JVP headquarters, with key party officials including Dr. Nihal Abeysinghe and Tilvin Silva in attendance.
 
-ඒ අද (12) පෙරවරුවේ ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේදී ය.
+🟩
 
-මෙම අවස්ථාවට ජාතික ජන බලවේගයේ ප්‍රධාන ලේකම් වෛද්‍ය නිහාල් අබේසිංහ, ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් ටිල්වින් සිල්වා යන මහත්වරු ඇතුළුව ජාතික විධායක සභිකයින් කිහිප දෙනෙක්ද සහභාගි වූහ.
+Anura Kumara Dissanayake has signed a candidate nomination for the presidential election on the 21st September election.
+
+The JVP is at the Head Office this morning.
+
+Several national executives, the General Secretary of the National JVP Dr. Nihal Abeysinghe and the General Secretary of the JVP Tilvin Silva were also present.
 
 ◼️
 
 [Data](articles/c4c9b35b.json)
+
+[Extended Data](ext_articles/c4c9b35b.ext.json)
 
 ---
 
@@ -109,6 +157,22 @@ Issuing a statement, the International Committee of the Red Cross (ICRC) said th
 ...
 
 [Data](articles/9f173b1a.json)
+
+[Extended Data](ext_articles/9f173b1a.ext.json)
+
+---
+
+### පොහොසත් රටක් ලස්සන ජීවිතයක් ජනතාවට  උරුමකර දීමට අනුර නාම යෝජනා අත්සන් කරයි
+
+*2024-08-12 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/පොහොසත්-රටක්-ලස්සන-ජීවිතයක්-ජනතාවට--උරුමකර-දීමට-අනුර-නාම-යෝජනා-අත්සන්-කරයි/11-411319) · `si`
+
+එළඹෙන සැප්තැම්බර් 21 දින පැවැත්වෙන ජනාධිපතිවරණය වෙනුවෙන් අද (12) පෙරවරුවේ ජ.වි.පෙ. ප්‍රධාන කාර්යාලයේදී ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක සහෝදරයා අපේක්ෂක නාමයෝජනා පත්‍රයට අත්සන් තැබීය.
+
+මෙම අවස්ථාවට ජාතික ජන බලවේගයේ ප්‍රධාන ලේකම් වෛද්‍ය නිහාල් අබේසිංහ, ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් ටිල්වින් සිල්වා යන සහෝදරවරු ඇතුළුව ජාතික විධායක සභික සහෝදර සහෝදරවරු කිහිප දෙනෙක්ද සහභාගි වූහ.
+
+◼️
+
+[Data](articles/979dcaa5.json)
 
 ---
 
@@ -2219,59 +2283,5 @@ I remember back in the ’70s, my high school teacher was a chain smoker, yet he
 [Data](articles/2db05dd3.json)
 
 [Extended Data](ext_articles/2db05dd3.ext.json)
-
----
-
-### Is the military plot true?
-
-*2024-08-11 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/190822) · `ta`
-
-During the Arakalaya struggle, Gotabhaya Rajapaksa's home was surrounded by protesters. The President allegedly contacted Madurai Vidanage, asking the Army Commander Savendra Silva to enhance his security.
-
-🟩
-
-At the time when the Arakalaya struggle began, Gotabhaya Rajapaksa's Meerihana house was surrounded by demonstrators. At that point, Madurai Vidanage has said that President Gotabhaya Rajapakse, who was president, had called him and asked the Army Commander Savendra Silva to increase his safety.
-
-◼️
-
-[Data](articles/bad168b1.json)
-
-[Extended Data](ext_articles/bad168b1.ext.json)
-
----
-
-### Democratic rise in Bangladesh
-
-*2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190815) · `ta`
-
-Bangladesh's military, now in charge, vows to investigate and punish those responsible for student deaths, signaling a shift towards democracy.
-
-🟩
-
-The military, which has temporarily assumed responsibility in Bangladesh, has announced that it will punish the culprits in a thorough investigation of the killings of students in the country.
-
-◼️
-
-[Data](articles/199699a6.json)
-
-[Extended Data](ext_articles/199699a6.ext.json)
-
----
-
-### Agreements for Political Alliance - The tactics of deceiving Muslims
-
-*2024-08-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190819) · `ta`
-
-ALM Ataullah supports Ranil Wickremesinghe, while the Muslim Congress backs Sajith Premadasa, despite parliamentary members favoring Wickremesinghe.
-
-🟩
-
-National Congress leader ALM Ataullah has expressed his support for Ranil Wickremesinghe, who is contesting independently. The support of the Muslim Congress as expected on the other hand has been given to Sajith Premadasa. The resolution is taken at the top of the Muslim Congress. However, the party's parliamentarians have a position to support Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/c06a5eef.json)
-
-[Extended Data](ext_articles/c06a5eef.ext.json)
 
 ---

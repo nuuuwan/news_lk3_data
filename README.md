@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 13:56:12**
+As of **2024-08-12 14:09:45**
 
 ## Newspaper Stats
 
-*Scraped **40,273** Articles*
+*Scraped **40,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 4,689
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
-adaderanasinhalalk | 6,848
+adaderanasinhalalk | 6,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,271 (100.0%) of 40,273 articles have been extended.
+40,273 (100.0%) of 40,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ආගමන හා විගමන නිලධාරීන්ට විමල්ගෙන් නඩු
+
+*2024-08-12 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199851) · `si`
+
+සිය කීර්තිනාමයට සිදුවූ හානිය වෙනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා රුපියල් මිලියන 1000ක වන්දි මුදලක් ඉල්ලා ආගමන හා විගමන නිලධාරීන් දෙදෙනෙකුට එරෙහිව කොළඹ දිසා අධිකරණය හමුවේ නඩු පවරා තිබේ.
+
+ඒ පසුගිය යහපාලන රජය සමයේ කිසිදු හේතුවක් නොමැතිව තමන්ව ආගමන හා විගමන පනත යටතේ අත්අඩංගුවට ගෙන මීගමුව මහෙස්ත්‍රාත් අධිකරණයේ නඩු පැවරීම තුළින් සිය කීර්තිනාමයට හානි සිදුවූ බව පවසමිනි.
+
+අද (12) පවරා ඇති මෙම නඩුව තුළින් වගඋත්තරකරුවන් ලෙස ආගමන හා විගමන දෙපාර්තමේන්තුවේ බලයලත් නිලධාරී එරංග රඹුක්වැල්ල, ජ්‍යෙෂ්ඨ බලයලත් නිලධාරී සුජීව රත්නායක හා නීතිපතිවරයාව නම්කර තිබේ.
+
+අදාළ පෙත්සම තුළින් මන්ත්‍රීවරයා පෙන්වා දී ඇත්තේ තමන් 2015 වසරේ ඔක්තෝබර් මස 23 වනදා විදේශීය රටවල් තුනක පැවැත්වීමට නියමිතව තිබූ සම්මන්ත්‍රණවලට සහභාගීවීම සඳහා ඩුබායි බලා පිටත්වයාමට කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බවයි.
+
+එහිදී විදේශගත වීම සඳහා තමා රාජ්‍යතාන්ත්‍රික විදේශ ගමන් බලපත්‍රය ඉදිරිපත් කළ බවත් එහි සිටි ආගමන හා විගමන නිලධාරීන් දත්ත පද්ධතිය පරීක්ෂා කර එය අක්‍රීය ගුවන් බලපත්‍රයක් බවට ප්‍රකාශය කළ බවත් එම පැමිණිල්ලේ සඳහන්ව තිබේ.
+
+...
+
+[Data](articles/64fabd4b.json)
+
+---
+
+### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-08-12 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199850) · `si`
+
+තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 100 ඉක්මවූ තද වැසි ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/8b6fd9b2.json)
+
+---
 
 ### The Geopolitics of Democracy
 
@@ -431,6 +465,8 @@ Anyone familiar with the history of Sri Lanka must recognize the fact that even 
 ...
 
 [Data](articles/06bfc070.json)
+
+[Extended Data](ext_articles/06bfc070.ext.json)
 
 ---
 
@@ -2253,41 +2289,5 @@ Modern economies should be aptly termed innovation or creative economies
 [Data](articles/5b734491.json)
 
 [Extended Data](ext_articles/5b734491.ext.json)
-
----
-
-### International Youth Day 2024 from ‘Clicks to Progress’
-
-*2024-08-11 22:48:53* · [`dailyftlk`](https://www.ft.lk/columns/International-Youth-Day-2024-from-Clicks-to-Progress/4-765397) · `en`
-
-Youth not only represent the future of our nations but are one of society’s main agents of change and progress for any country. As stated by United Nations Secretary General António Guterres, “Achieving the Sustainable Development Goals requires a seismic shift – which can only happen if we empower young people and work with them as equals.”
-
-In 1999, the United Nations General Assembly endorsed the recommendation by the World Conference of Ministers of Youth (Lisbon, 8-12 August 1998) that 12 August be declared International Youth Day. Over the last two decades, the annual International Youth Day celebrations have covered a wide array of themes relevant to young people, from food security and mental health to intergenerational solidarity and green skills, highlighting critical connections between youth and sustainable development.
-
-...
-
-[Data](articles/6c102b6f.json)
-
-[Extended Data](ext_articles/6c102b6f.ext.json)
-
----
-
-### United States top medals table at end of Paris Olympics
-
-*2024-08-11 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101159/united-states-top-medals-table-at-end-of-paris-olympics) · `en`
-
-(Reuters) - The United States topped the medals table at the Paris Olympics with 40 golds after the final title was decided on Sunday, finishing above China only by virtue of their 44 silvers.
-
-China, who were the last team apart from the U.S. to top the standings when they did it on home soil at the 2008 Beijing Games, also won 40 golds but managed only 27 silvers.
-
-The U.S. women’s basketball team secured their country’s pre-eminence by edging host nation France in a breathless finish to win the final gold of the Games. The U.S. also won most total medals with 126 to China’s 91.
-
-France won 16 golds to finish fifth on the table and their total tally of 64 medals was their best for more than a century.
-
-◼️
-
-[Data](articles/c9155eef.json)
-
-[Extended Data](ext_articles/c9155eef.ext.json)
 
 ---

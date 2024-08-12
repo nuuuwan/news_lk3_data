@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 08:16:31**
+As of **2024-08-12 08:36:29**
 
 ## Newspaper Stats
 
-*Scraped **40,200** Articles*
+*Scraped **40,203** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 345
 newsfirstlk | 363
-bbccomsinhala | 375
+bbccomsinhala | 376
 colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,686
-adaderanalk | 4,676
+adaderanalk | 4,677
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,081
+tamilmirrorlk | 5,082
 virakesarilk | 6,376
 adaderanasinhalalk | 6,835
 
@@ -26,47 +26,77 @@ adaderanasinhalalk | 6,835
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,195 (100.0%) of 40,200 articles have been extended.
+40,198 (100.0%) of 40,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### තරුණ පුද්ගලයෙක් දුම්රියේ ගැටෙයි
+### Evening thundershowers expected in most parts of the island
+
+*2024-08-12 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101160/evening-thundershowers-expected-in-most-parts-of-the-island) · `en`
+
+The Meteorology Department says atmospheric  conditions are favorable for development of evening thundershowers in the island during the next few days.
+
+Showers or thundershowers will occur at most places in the island during the evening or night.
+
+A few Showers may occur in Kaluthara, Galle, Matara and Rathnapura districts during the morning too while heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Southern, Northern and North-central provinces, it said.
+
+The general  public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/aebd139a.json)
+
+---
+
+### Youth collides a train
 
 *2024-08-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199836) · `si`
 
-කොළඹ සිට බදුල්ල දක්වා ධාවනය වූ සීඝ්‍රගාමී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+A fatal train accident occurred near Pilimatalawa and Koanger Railway Stations, killing a 35-year-old man. The Peradeniya Police are investigating.
 
-පිළිමතලාව සහ පැණිදෙනිය දුම්රිය ස්ථාන අතර ප්‍රදේශයේ දී ඊයේ (11) රාත්‍රියේ සිදුව ඇති මෙම අනතුර සම්බන්ධව පේරාදෙණිය පොලීසිය විසින් විමර්ශනයක් ද ආරම්භ කර තිබේ.
+🟩
 
-මරණකරු අවුරුදු 35ක් පමණ වන පුද්ගලයෙකු බවත් උස අඩි 06 අඟල් 04ක් පමණ වන අතර, දම්පාට කොට කලිසමක් හා අළු පැහැති ටී ෂර්ට් එකක් ඇඳ සිටි අයෙකු බවත් පොලීසිය පවසයි.
+A person was killed and killed by a train that was traveling from Colombo to Badulla.
 
-මෘතදේහය පේරාදෙණිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර පේරාදෙණිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+The Peradeniya Police have also launched an investigation into the accident at the area between Pilimatalawa and Koanger Railway Stations.
+
+The deceased is a 35 year old person and four feet of height, police said.
+
+The body has been placed at the Peradeniya hospital morgue and Peradeniya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/780ddbdd.json)
 
+[Extended Data](ext_articles/780ddbdd.ext.json)
+
 ---
 
-### ග්‍රාම නිලධාරීන්ගේ වර්ජන ජනාධිපතිවරණය ට බලපායි ද ?
+### Will the strike of the Grama Niladhari strike affect the presidential election?
 
 *2024-08-12 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199834) · `si`
 
-ජනාධිපතිවරණය සම්බන්ධයෙන් වන සියලු කාර්යයන් ගැටලුවකින් තොරව සිදුකිරීමට ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානය මීට පෙර එකඟතාවය පළ කළ ද යළිත් ඔවුන් සමග සාකච්ඡා කිරීමට බලාපොරොත්තු වන බව මැතිවරණ කොමිසම පවසයි.
+The Grama Niladhari strike may impact the presidential election as the community plans a two-day duty removal and a week-long protest. However, the Elections Commission assures no issues with discussing election functions. The situation remains uncertain due to conflicting statements.
 
-ග්‍රාම නිලධාරීන් දියත්කර ඇති වර්ජන ක්‍රියාමාර්ගය හරහා ජනාධිපතිවරණයට බලපෑමක් එල්ල වන්නේ ද යන්න සම්බන්ධයෙන් මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතාගෙන් "අද දෙරණ" කළ විමසීමක දී ඔහු මේ බව පැවසීය.
+🟩
 
-කෙසේවෙතත්, අද (12) සහ හෙට (13) සියලු රාජකාරී වලින් ඉවත් වන බවත් දීපව්‍යාප්ත විරෝධතා සතියක් ද ආරම්භ කරන බවත් ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානය පවසයි.
+The Elections Commission says that the Grama Niladhari UPFA UPFA has agreed to discuss all the functions of the presidential election without problems.
 
-එම සන්ධානයේ සම සභාපති නන්දන රණසිංහ මහතා ප්‍රකාශ කළේ ගැසට් කරන ලද ග්‍රාම නිලධාරීන්ගේ සේවා ව්‍යවස්ථාවට සිය යෝජනා ඇතුළත් නොකිරීම හේතුවෙන් මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය ගන්නා බවයි.
+The President of the Election Commission Chairman of the Election of the Election Commission Mr. RMA Mr. RMA Mr. RM VL Ratnaky has said this from the Presidential election.
 
-අද පෙරවරුවේ රාජ්‍ය පරිපාලන අමාත්‍යංශය ඉදිරිපිට දී නිහඬ විරෝධතා ව්‍යාපාරයක නිරත වන බව ද ඒ මහතා වැඩිදුරට සඳහන් කළේය.
+However, the GCC community says that today (12) and tomorrow (13) will be removed from all duties and will also launch a weekly protest week.
+
+The Alliance Samaja Chairman Nandana Ranasinghe said that the trade union action would be taken due to the non-section of the service of the Grama Niladhari.
+
+He further stated that he is engaged in a silent protest in front of the Ministry of Public Administration this morning.
 
 ◼️
 
 [Data](articles/8ecbd6da.json)
+
+[Extended Data](ext_articles/8ecbd6da.ext.json)
 
 ---
 
@@ -217,6 +247,44 @@ After World War II, the next two years, the bitter quarrel that proved war -rela
 [Data](articles/bd4c18dc.json)
 
 [Extended Data](ext_articles/bd4c18dc.ext.json)
+
+---
+
+### '80 ට ආසන්නයි. ඒත් මට 18 තරුණ කොල්ලෙක් කරන වැඩ කරන්න පුළුවන්.'
+
+*2024-08-12 02:01:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gz7jpkwdlo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''වයස යන එකයි වැරදි. ඒක පොඩ්ඩක් බ්ලොක් කරගත්තොත් හරි''
+
+'80 ට ආසන්නයි. ඒත් මට 18 තරුණ කොල්ලෙක් කරන වැඩ කරන්න පුළුවන්.'
+
+කුලියාපිටිය, කිරිමැටියාව ප්‍රදේශයේ පිහිටි හිඳව ගම්මානයේ ජීවත් වෙන ආර්.ඩබ්ලිව්. ගුණසේන ජීවත් වයස අවුරුදු 80කට ආසන්න වූවෙකි.
+
+ඔහු පවසන්නේ සිනාසෙමින්, නිතරම සතුටින් සිටීම සහ කිසියම් වැඩක නිරත වීම තුළින් ඉතා සෞඛ්‍ය සම්පන්න ජීවිතයක් ගතකළ හැකි බවය.
+
+''80ට ආසන්නයි මම. ඒ වුණාට මට සාමාන්‍යයෙන් 18, 19 කොල්ලෙක් කරන වැඩ කරන්න පුළුවන්.'' යනුවෙන් ආර්.ඩබ්ලිව්. ගුණසේන BBC සිංහල සේවයට පැවසුවේය.
+
+ඉවතලන ප්ලාස්ටික් බෝතල් යොදාගෙන විසිතුරු නිර්මාණ කිරීම, කොහු ඉදල් සැදීම සහ ලණු ඇඹරීම ඔහු සිදු කරයි.
+
+◼️
+
+[Data](articles/2be3b4e1.json)
+
+---
+
+### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு
+
+*2024-08-12 01:31:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-341996) · `ta`
+
+இந்த மாதத்தின் முதல் 4 நாட்களில் மாத்திரம் 26,889 சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை தந்துள்ளனர்.
+
+இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை வெளியிட்டுள்ள புதுப்பிக்கப்பட்ட தரவுகளுக்கமைய, இந்தியாவிலிருந்தே அதிகளவான சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+
+அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில், 12 இலட்சத்து 24,948 சுற்றுலாப் பயணிகள் நாட்டுக்கு வந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/5e01e752.json)
 
 ---
 
@@ -2197,79 +2265,5 @@ This decision was communicated by the co-President of the Grama Niladhari office
 [Data](articles/283722c0.json)
 
 [Extended Data](ext_articles/283722c0.ext.json)
-
----
-
-### The boulder collapsed on a mountaineer during a trip
-
-*2024-08-11 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190807) · `ta`
-
-A 37-year-old man from Muruttuve, Tehiyovitta, died after a boulder fell on him while trekking in the Ambuluwawa hills with four friends. The incident occurred despite the man not informing his wife about the trip.
-
-🟩
-
-Police said that the man was killed when a boulder collapsed on a man who was trekking through a mistake to travel in the Ambuluwawa hills.
-
-One of them was killed when a group of four people were climbing the mountain, police said.
-
-The deceased is said to be a 37 -year -old from the Muruttuve, Tehiyovitta and he is the father of two children.
-
-When the police were investigating the matter, the person who had been involved in the accident had traveled with his four friends without telling his wife.
-
-◼️
-
-[Data](articles/595e894c.json)
-
-[Extended Data](ext_articles/595e894c.ext.json)
-
----
-
-### Massive fire on the ship: the noise of the explosion was heard
-
-*2024-08-11 12:40:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பலில்-பாரிய-தீ-வெடிப்பு-சத்தமும்-கேட்டது/175-341958) · `ta`
-
-Fire and explosion occurred at Colombo port on Sunday, causing significant damage but quickly contained by port staff. Damage assessment ongoing.
-
-🟩
-
-A senior official of the Sri Lanka Ports Authority said that a fire and explosion occurred on Sunday morning at an anchor at the Colombo port.
-
-The official said that the port employees, including the Port Fire Division, had extinguished the fire and would have caused great destruction if the fire was unable to extinguish.
-
-The Senior Officer added that the damage to the ship has not yet been estimated.
-
-◼️
-
-[Data](articles/fdd9523e.json)
-
-[Extended Data](ext_articles/fdd9523e.ext.json)
-
----
-
-### Traffic Police attacked school student - Sri Lanka Human Rights Commission inquiry
-
-*2024-08-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190793) · `ta`
-
-Sri Lanka's Human Rights Commission is probing an incident where a 16-year-old schoolboy was brutally assaulted by police officers from the Biyagala division for allegedly riding a motorcycle without a helmet. The boy, along with a friend, was chased, stopped, and attacked after visiting a store. The victim suffered severe injuries and was hospitalized. The Police Inspector General has been asked to submit a report on this matter.
-
-🟩
-
-The Human Rights Commission of Sri Lanka is investigating the brutal assault of a 16 -year -old schoolgirl for allegedly abusing a motorcycle by a group of police officers of the Biyagala Police Transport Division.
-
-The student had gone to a nearby shop on his father's motorcycle on the 7th and his friend was not wearing a helmet.
-
-Subsequently, the Security Division of the Bayagala Police Transport Division chased the two men and stopped the motorcycle and attacked them.
-
-Police officers who chased them were reportedly beaten in the ear of a student who was sitting behind a motorcycle and that a motorcycle student was severely beaten.
-
-A school student who was attacked has been admitted to the Nagoda Teaching Hospital in Kalutara for treatment, police said.
-
-The Chairman of the Commission Nimal Punjihewa said that the Police Inspector General of Police has been informed to submit a report to the Human Rights Commission regarding the incident.
-
-◼️
-
-[Data](articles/fec05eef.json)
-
-[Extended Data](ext_articles/fec05eef.ext.json)
 
 ---

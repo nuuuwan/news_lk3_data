@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 09:36:32**
+As of **2024-08-12 09:55:53**
 
 ## Newspaper Stats
 
-*Scraped **40,209** Articles*
+*Scraped **40,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,687
-adaderanalk | 4,679
+adaderanalk | 4,680
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,082
+tamilmirrorlk | 5,083
 virakesarilk | 6,377
 adaderanasinhalalk | 6,837
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 6,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,209 (100.0%) of 40,209 articles have been extended.
+40,209 (100.0%) of 40,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### சந்திரிக்காவின் ஆதரவு யாருக்கு?
+
+*2024-08-12 09:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரிக்காவின்-ஆதரவு-யாருக்கு/175-342002) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எந்தவொரு வேட்பாளருக்கும் ஆதரவளிக்கப் போவதில்லை என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்தார்.
+
+அத்தனகல்ல தொகுதியில் செயற்படும் ஸ்ரீலங்கா சுதந்திரக் கட்சி உறுப்பினர்களுடன் நிட்டம்புவ ஹொரகொல்ல பண்டாரநாயக்க ஞாபகார்த்த நூலக வளாகத்தின் கேட்போர் கூடத்தில்  இடம்பெற்ற விசேட கலந்துரையாடலில் இதை தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சில உறுப்பினர்கள் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவளிக்குமாறு கருத்துத் தெரிவித்துள்ளனர்.
+
+தான் எந்த வேட்பாளருக்கும் ஆதரவளிக்கப் போவதில்லை என்றும், அத்தனகல்ல பிரதேசத்தில் செயற்படும் ஸ்ரீலங்கா சுதந்திரக் கட்சி தாம் விரும்பும் வேட்பாளருக்கு ஆதரவளிப்பதில் தனக்கு ஆட்சேபனை இல்லை எனவும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/cc557798.json)
+
+---
+
+### Helicopter crashes into roof of Cairns Hilton DoubleTree hotel, killing pilot
+
+*2024-08-12 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101163/helicopter-crashes-into-roof-of-cairns-hilton-doubletree-hotel-killing-pilot) · `en`
+
+A helicopter crashed into the roof of a hotel in the popular northern Australian tourist town of Cairns, killing the pilot and forcing the evacuation of hundreds of guests, authorities said on Monday.
+
+Emergency crews were called at about 2 a.m. on Monday (1600 GMT on Sunday) after a twin-engine helicopter collided with the hotel roof, causing a fire on top of the building and triggering evacuations, Queensland state police said in a statement.
+
+Police said forensic investigations were underway to formally identify the pilot. He was declared dead at the scene.
+
+“There were no injuries sustained by people on the ground,” the police statement said.
+
+The crash occurred at Hilton’s, Double Tree Hotel in the city of Cairns, a major gateway to Australia’s Great Barrier Reef, Australian media reported.
+
+Two of the helicopter’s rotor blades came off and one landed in the hotel pool, media reports said.
+
+...
+
+[Data](articles/62305a32.json)
+
+---
 
 ### Person dies after being hit by train
 
@@ -2233,61 +2273,5 @@ Investigations have revealed that the car driver had been deployed at the time o
 [Data](articles/a96da7a0.json)
 
 [Extended Data](ext_articles/a96da7a0.ext.json)
-
----
-
-### The newly taken car in front of the house burned
-
-*2024-08-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199814) · `si`
-
-A car similar to a Wagonr, recently bought, was destroyed by a fire in the Jayamawatha area of Beliatta. The incident occurred yesterday, and its cost hasn't been assessed yet. Investigations are ongoing by the Beliatta Police.
-
-🟩
-
-A group of Wagonr type car, which was worth around Rs.
-
-The incident was reported from yesterday at the Jayamawatha area in Beliatta, Beliatta, Beliatta.
-
-The owner of that house was purchased a few days ago.
-
-The car was completely destroyed by the fire, Ada Derana reporter said.
-
-The loss of the fire has not been calculated and Beliatta Police are conducting further investigations.
-
-◼️
-
-[Data](articles/7d6ad484.json)
-
-[Extended Data](ext_articles/7d6ad484.ext.json)
-
----
-
-### Abulnadu in Tamil Nadu deceived by Sri Lankans
-
-*2024-08-11 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199813) · `si`
-
-Indian authorities arrested a key suspect in a human trafficking ring targeting Sri Lankans in Tamil Nadu after a three-year investigation. The suspect, Sugar Abul Khan, allegedly lured Sri Lankans with false promises of Canadian jobs, leading to the exploitation of about 38 individuals. In June 2021, 13 were rescued, and several others involved in the racket have been apprehended.
-
-🟩
-
-Indian Investigation Agency has arrested a key suspect in connection with a human trafficking in Tamil Nadu targeting Sri Lankans.
-
-The Indian police were investigated for about three years to arrest the suspect named Sugar Abul Khan.
-
-Indian media has reported that the human trafficking has been carried out with the Ettase of the suspect with the Elitorism.
-
-They had taken Sri Lankans to the state of Tamil Nadu by sea, carrying out the pseudo-statements that Canada's jobs.
-
-About 38 Sri Lankans have been victims of this smuggler.
-
-In June 2021, 13 Sri Lankans were rescued by the Tamil Nadu police.
-
-Several suspects involved in the racket have been arrested and the main suspect, who was hiding for three years, has been arrested in Ramanathan at Ramanathan yesterday (10).
-
-◼️
-
-[Data](articles/14156412.json)
-
-[Extended Data](ext_articles/14156412.ext.json)
 
 ---

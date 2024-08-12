@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 16:36:28**
+As of **2024-08-12 16:54:16**
 
 ## Newspaper Stats
 
-*Scraped **40,308** Articles*
+*Scraped **40,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 2,331
 economynextcom | 2,437
 dailyftlk | 2,593
 adalk | 3,700
-adaderanalk | 4,697
+adaderanalk | 4,698
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,111
 virakesarilk | 6,385
-adaderanasinhalalk | 6,855
+adaderanasinhalalk | 6,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,303 (100.0%) of 40,308 articles have been extended.
+40,308 (100.0%) of 40,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Greek wildfire spreads to edge of Athens; towns, hospitals evacuated
+
+*2024-08-12 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101181/greek-wildfire-spreads-to-edge-of-athens-towns-hospitals-evacuated) · `en`
+
+A fast-moving wildfire fuelled by gale-force winds spread to the edge of Athens on Monday, torching trees, houses and cars and forcing evacuations of several hospitals and a dozen towns and villages, Greek authorities said.
+
+Hundreds of wildfires have broken out across Greece since May. While summer fires are common in Greece, extraordinarily hot and dry weather linked to climate change have made blazes more frequent and intense. Wildfires fanned by extreme heat have also raged this month in parts of Spain and the Balkans.
+
+More than 670 firefighters backed by volunteers, 183 fire engines, 32 waterbombing planes and helicopters battled the latest wildfire that broke out at 3 p.m. (midday GMT) on Sunday near Varnavas 35 km (20 miles) north of the capital.
+
+By Monday the conflagration, the worst in Greece this year, had advanced to the village of Grammatiko, the seaside municipality of Nea Makri and the fringes of Athens’ densely populated northern suburbs at the heavily wooded Mount Penteli.
+
+...
+
+[Data](articles/c3c68ef3.json)
+
+---
+
+### CTB බස් රථය මාර්ගයෙන් ඉවතට පනී - ජීවිත දෙකක් අහිමිවෙයි
+
+*2024-08-12 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199858) · `si`
+
+බණ්ඩාරගම - කැස්බෑව මාර්ගයේ වැල්මිල්ල ගල්කඩේ හන්දිය ආසන්නයේදී ලංගම බස් රථයක් මාර්ගයෙන් ඉවතට පැන සිදුවු අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, බස් රථය මාර්ගයේ දකුණු පසින් ඉවතට පැන බස් නැවතුම් පොළේ සිටි පුද්ගලයින් තිදෙනෙකු යටකරමින් වෙළෙඳසැලකට කඩා වැදී ඇති බවය.
+
+අද(12) දහවල් එම අනතුර සිදුව ඇති අතර, බරපතළ තුවාල ලැබූ අයෙක් රෝහල්ගත කර තිබේ.
+
+◼️
+
+[Data](articles/f9c9cad8.json)
+
+---
 
 ### 3 killed, 3 injured after three-wheeler crashes into parked lorry
 
@@ -42,51 +76,71 @@ Three persons including the driver were killed while three others have been inju
 
 [Data](articles/e5bfa8bb.json)
 
+[Extended Data](ext_articles/e5bfa8bb.ext.json)
+
 ---
 
-### பேருந்து மோதி  ஒருவர் மரணம்
+### Bus collides
 
 *2024-08-12 16:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-ஒருவர்-மரணம்/175-342038) · `ta`
 
-பண்டாரகம - கெஸ்பேவ வீதி கல்கடே சந்தியில் நின்று கொண்டிருந்த இருவர் மீது இ . போ . சபைக்கு சொந்தமான பேருந்தொன்று மோதியதில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+In Bandaragama, a bus crash resulted in one fatality and another passenger being hospitalized. Additionally, a 45-55-year-old man from Akuressa passed away in a separate accident.
 
-அக்குரஸ்ஸ பகுதியைச் சேர்ந்த 45 -55 மதிக்கத்தக்க வயதுடைய ஒருவரே விபத்தில் உயிரிழந்துள்ளார்.
+🟩
 
-அத்துடன் பேருந்தில் பயணித்த பெண் ஒருவரும் கையில் பலத்த காயம் ஏற்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது .
+Bandaragama - Kespeva Road. Go. One person was killed when a bus belonging to the congregation was killed and the other was admitted to the hospital.
+
+A 45 -55 -year -old man from Akuressa has died in an accident.
+
+A woman who was traveling in the bus was admitted to the hospital with serious injuries.
 
 ◼️
 
 [Data](articles/d3713a11.json)
 
+[Extended Data](ext_articles/d3713a11.ext.json)
+
 ---
 
-### නුවර පාරේ මාරක අනතුරක් - 3ක් මරුට
+### House in Kandy road - 3 dead
 
 *2024-08-12 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199857) · `si`
 
-කොළඹ - නුවර මාර්ගයේ වේවැල්දෙණිය හංදියේ දී අද (12) සවස සිදුවු මාරක අනතුරකින් දරුවෙකු ඇතුළු තිදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic accident at Weweldeniya Junction on the Colombo-Kandy road, three children were killed when a three-wheeler collided with a lorry from behind.
 
-අප වාර්තාකරු පැවසුවේ, නවතා තිබූ ලොරි රථයක පිටුපසින් පැමිණි ත්‍රිරෝද රථයක් ගැටී අනතුර සිදුව ඇති බවය.
+🟩
+
+Three children, including a child, had died in a fatal accident in Weweldeniya Junction on the Colombo-Kandy road today.
+
+Our correspondent said that a three-wheeler was hit by the back of a lorry.
 
 ◼️
 
 [Data](articles/c473dc62.json)
 
+[Extended Data](ext_articles/c473dc62.ext.json)
+
 ---
 
-### ඊශ්‍රායලය ප්‍රහාරයකට මුහුණදීමට සැරසෙයි
+### Israel is trying to face a attack
 
 *2024-08-12 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199856) · `si`
 
-ඉරානය ඊශ්‍රායලය ට විශාල හමුදා ප්‍රහාරයක් සඳහා සැරසෙමින් සිටින බව ඊශ්‍රායල ආරක්ෂක අමාත්‍ය යෝආව් ගැලන්ට් අමෙරිකානු ආරක්ෂක ලේකම් ලොයිඩ් ඔස්ටින් ට දැනුම් දී තිබේ.
+Israel's Defense Secretary Lloyd Austin warned Israel about a potential large-scale military attack from Iran. This information was shared during a phone call, which has been reported by foreign media. The communication aims to prepare the Israeli Army for this threat.
 
-ඔහු ඒ බව දැනුම්දී දී ඇත්තේ දුරකථන ඇමතුමකින් බව විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-එහිදී ඉරානය ප්‍රහාරයකට මුහුණදීම සඳහා ඊශ්‍රායල හමුදාවේ සූදානම සම්බන්ධයෙන් ඔවුන් දෙදෙනා අදහස් හුවමාරු කරගෙන තිබුණි.
+Israeli defense secretary Lloyd Austin has informed the Israeli defense secretary Lloytin that Iran is preparing for a large military attack.
+
+He was informed and given to a telephone call, foreign media.
+
+They had communicated with the preparation of the Israeli Army to face Iran.
 
 ◼️
 
 [Data](articles/5b02d210.json)
+
+[Extended Data](ext_articles/5b02d210.ext.json)
 
 ---
 
@@ -105,6 +159,8 @@ In 2015, Weerawansa was accused of using an expired passport to fly abroad while
 ...
 
 [Data](articles/6e618763.json)
+
+[Extended Data](ext_articles/6e618763.ext.json)
 
 ---
 
@@ -2181,67 +2237,5 @@ In addition, the body has been placed in the funeral room at the Peradeniya Hosp
 [Data](articles/ac71387c.json)
 
 [Extended Data](ext_articles/ac71387c.ext.json)
-
----
-
-### Sri Lanka wins T20
-
-*2024-08-12 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199838) · `si`
-
-In the first T20 match, Sri Lanka women's cricket team triumphed over Ireland, chasing down a 146-run target with Hersha Samarawickrama scoring 86 not out.
-
-🟩
-
-Sri Lanka won the first Twenty20 match between Sri Lanka women's cricket team and the Irish women's cricket team.
-
-Sri Lanka won the toss and elected to bat. The Irish group scored 145 runs for the loss of 6 wickets at the end of 20 overs.
-
-Chasing a 146-run target, Sri Lanka women scored 149 runs for 4 wickets in 4 balls with three wickets.
-
-Hersha Samarawickraka scored 86 not out in 45 balls.
-
-The second T20 match between the two countries will be held tomorrow (13).
-
-◼️
-
-[Data](articles/3126a57c.json)
-
-[Extended Data](ext_articles/3126a57c.ext.json)
-
----
-
-### First place in the Paris Olympics
-
-*2024-08-12 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199837) · `si`
-
-In the 33rd Paris Olympic Festival, the USA led with 40 total medals, including 4 golds and 44 bronzes, while China followed closely with 25 golds among 91 medals. The event concluded with a grand ceremony attended by athletes from all participating nations, marking a successful and memorable Olympics.
-
-🟩
-
-The 33rd Olympic Festival of Paris was completed today (12).
-
-The United States of America was able to take the lead in the NDKS this year's Olympic Games representing 206 countries.
-
-It was the leading china, who was taking the lead in the medals.
-
-US wins 40 overall medals including 4 gold medals and 44 bronze medals.
-
-China won the second 25 gold medals, including 91 medals including 27 silver and 24 bronze medals.
-
-Athletes representing all countries to the victory event came to the Start D. France.
-
-Tharusi Karunaratne and Aruna views were taken to carry out the Sri Lankan flag.
-
-It was also a significant reason to see 70,000 documents to see the conclusion of the decorated with spending Olympics.
-
-The President of the World Olympic Committee was officially the 2024 Paris Olympics Festival.
-
-The President of the Jagath Olympic Committee officially asserted it to the United States after the United States was officially stated in the United States.
-
-◼️
-
-[Data](articles/3fbbacd5.json)
-
-[Extended Data](ext_articles/3fbbacd5.ext.json)
 
 ---

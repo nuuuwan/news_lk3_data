@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 01:36:30**
+As of **2024-08-13 01:55:20**
 
 ## Newspaper Stats
 
@@ -26,39 +26,53 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,363 (100.0%) of 40,365 articles have been extended.
+40,365 (100.0%) of 40,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ’சவாலை ஏற்க நாம் தயார்’
+### We are ready to accept the challenge
 
 *2024-08-13 00:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவாலை-ஏற்க-நாம்-தயார்/175-342062) · `ta`
 
-பெரும் நெருக்கடிக்குள் இருந்த ஆளும் குழுவினால் எமது நாடு அழுத்தப்பட்டுள்ளது. இதிலிருந்து எமது நாட்டையும் மக்களையும் மீட்டெடுப்பதற்கான சவாலை தேசிய மக்கள் சக்தி ஏற்றுக்கொள்ளத் தயார். எனவே, இன்று நாங்கள் இட்ட இந்த கையொப்பம் நிச்சயமாக வெற்றிக்கான கையொப்பமிடலாக அமையும் என தேசிய மக்கள் சக்தியின் தலைவரும் ஜனாதிபதி வேட்பாளருமான அநுர குமார திசாநாயக்க தெரிவித்தார்.
+Anura Kumara Dissanayake, leader of the National People's Power, is confident about winning the upcoming presidential election, citing strong preparations and support from the public. He believes their efforts, starting over a year and a half ago, will lead to success, promising to tackle the challenges of rebuilding the country post-election.
 
-ஜனாதிபதித் தேர்தல் வேட்புமனுவில் அவர், திங்கட்கிழமை (12) கையொப்பமிட்டார். இந்த வைபவம், மக்கள் விடுதலை முன்னணியின்    தலைமை அலுவலகத்தில் இடம்பெற்றது. அதன்பின்னர் ஊடகங்களுக்கு கருத்துரைத்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-சவால்களை ஏற்க நாம் தயாராகவே இருக்கின்றோம். ஏனென்றால், இப்பொழுது ஏனைய பாசறைகள் ஒவ்வொரு குழுவாகப் பிரிந்து, சிதைந்து அழுக்குகளை சேகரிக்கும் நிலைக்கு மாறியுள்ளது. தேசிய மக்கள் சக்தியாகிய நாம் ஒன்றரை வருடங்களுக்கு முன்னரே எமது பயணத்தை சரியாக ஆரம்பித்தோம் என்றார்.
+Our country is pressed by the ruling group that was under great crisis. From this, the challenge of restoring our country and the people is ready to accept the national people's power. Therefore, this signature we made today will definitely be a signature for the success, said Anura Kumara Dissanayake, the president of the National People's Power and the Presidential candidate.
+
+He signed the presidential election on Monday (12). The ceremony was held at the headquarters of the Janatha Vimukthi Peramuna (JVP). He then commented to the media.
+
+We are ready to accept the challenges. This is because the rest of the pasture has been split into each group and turned to a decomposed and dirty gathering. We, the National People's Power, said, "We started our journey over a year and a half ago."
+
+We are continuing this journey till now, with the most powerful and organized.. Still we have a little more than a month. He said that in a few days, we will be able to carry out our electoral movement.
 
 ...
 
 [Data](articles/3608074b.json)
 
+[Extended Data](ext_articles/3608074b.ext.json)
+
 ---
 
-### விஜயமுனி சொய்சா ஜனாதிபதிக்கு ஆதரவு
+### Vijayamuni Soyza supports the president
 
 *2024-08-13 00:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயமுனி-சொய்சா-ஜனாதிபதிக்கு-ஆதரவு/175-342061) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் கட்டான தேர்தல் அமைப்பாளராக கடமையாற்றிய முன்னாள் அமைச்சர் விஜித் விஜயமுனி சொய்சா எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளார்.
+Former minister Vijith Vijayamuni Soyza, ex-election chief of the United People's Power, pledged support for President Ranil Wickremesinghe ahead of the presidential election. He formally backed the president during a meeting yesterday.
 
-அவர் நேற்று பிற்பகல் ஜனாதிபதியை சந்தித்து தனது ஆதரவை உத்தியோகபூர்வமாக தெரிவித்துள்ளார். (a)
+🟩
+
+Former minister Vijith Vijayamuni Soyza, who has served as the election organizer of the United People's Power, has promised to support President Ranil Wickremesinghe in the upcoming presidential election.
+
+He officially met with the president yesterday afternoon and expressed his support. (A)
 
 ◼️
 
 [Data](articles/85570fe3.json)
+
+[Extended Data](ext_articles/85570fe3.ext.json)
 
 ---
 

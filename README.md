@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 18:56:14**
+As of **2024-08-12 19:07:08**
 
 ## Newspaper Stats
 
-*Scraped **40,328** Articles*
+*Scraped **40,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,700
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,112
 virakesarilk | 6,385
-adaderanasinhalalk | 6,860
+adaderanasinhalalk | 6,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,326 (100.0%) of 40,328 articles have been extended.
+40,329 (100.0%) of 40,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Up to 32 persons
+
+*2024-08-12 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199863) · `si`
+
+Today, 32 candidates from 16 political parties and 1 independent party have been nominated for the presidential election. The Elections Commission Chairman confirmed this, including 15 independent candidates who posted bail.
+
+🟩
+
+At present, 32 candidates have been deposited for the presidential election today.
+
+The Chairman of the Elections Commission has issued a statement and the candidates of 16 recognized political parties have been deposited for the presidential election.
+
+One of the 01 political parties and 15 independent candidates have deposited bail.
+
+◼️
+
+[Data](articles/8affb79f.json)
+
+[Extended Data](ext_articles/8affb79f.ext.json)
+
+---
 
 ### Wealth Trust starts bidding platform for Sri Lanka Treasuries auctions
 
@@ -52,29 +74,39 @@ Wealth Trust said it was leveraging advanced technology to enhance customer conv
 
 [Data](articles/c05ca0e7.json)
 
+[Extended Data](ext_articles/c05ca0e7.ext.json)
+
 ---
 
-### පාසල් සිසුවිය සමූහ දුෂණයට ලක්කළ සැකකාර සිසුන්ට අධිකරණයෙන් නියෝගයක්
+### Court orders the suspect students who were raped into the school girl
 
 *2024-08-12 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199862) · `si`
 
-තණමල්විල ප්‍රදේශයේ පාසලක ඉගෙනුම ලැබූ පාසල් සිසුවියක් දූෂණය කිරීමේ සිද්ධියට සම්බන්ධයෙන් අත්අඩංගුවට ගත් පිරිස අද (12) දින වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු සැකකාර සිසුන් 17 දෙනාගෙන් 14දෙනෙකු බන්ධනාගාර නිලධාරීන් මඟින් පරිවාස භාරයට පත්කරන ලෙස නියෝග කර තිබේ.
+Fourteen out of seventeen suspects involved in the rape case of a schoolgirl in Sri Lanka have been ordered into custody. Three others, including a woman supporting them, were remanded until August 22. The victim, a student from Tanamalwila's main school, was allegedly raped by a classmate at his friend's house. This incident, which started in 2023, involved the recording of the assault and sharing it among seven students. The school's disciplinary committee, including its principal, has been informed, leading to the suspension of several students. The investigation is ongoing, with the police focusing on the involvement of students in various locations, including school premises and private homes.
 
-ඊට අමතරව තවත් සිසුන් තිදෙනෙකු සහ ඔවුන්ට ආධාර අනුබල දුන් කාන්තාව ද අගෝස්තු 22 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+🟩
 
-තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක 11ශ්‍රේණියේ ඉගෙනුම සිසුවියක් එම පාසලේම සිසුවෙක් සමග ප්‍රේම සම්බන්ධයක් පවත්වාගෙන ගොස් තිබේ.
+After the arrests were produced before the Wellawaya Magistrate's Court today (12), 14 of the 17 suspects have been ordered to be taken into custody.
 
-එම සිසුවා, මෙම දැරිය මිතුරෙකුගේ නිවසකට රැගෙන ගොස් එහිදී පළමුවරට ඇය දූෂණය කළ බව වාර්තා වේ.
+In addition, three other students and a woman who supported them were remanded until August 22.
 
-පසුව එම නිවෙසේ සිටි තවත් සිසු පිරිසක් මෙම දැරිය දූෂණය කර එය වීඩියෝගත කර ඇතැයි හෙළිවූ බව පොලීසිය පවසයි.
+A student of 11 main school in Tanamalwila was a romantic relationship with a student with a student.
 
-සැකකාර සිසුන් එම වීඩියෝව දැරියට පෙන්වා බිය ගන්වමින් 2023 වසරේ සිට අවස්ථා 7කදී ඇයව සමූහ දූෂණයට ලක් කර ඇති බව වාර්තා වේ.
+It is reported that the student was taken to a friend's house and had first raped her.
 
-එහිදී සිසුන් 7 දෙනක් මෙම දැරිය ඔය අසලට රැගෙන ගොස් සමූහ ලෙස දූෂණය කර එයද වීඩියෝගත කර තිබේ.
+Another group of students in that house have been raped and advocated by the police, police said.
+
+The suspects have been raped at 7 years from 2023, with the scaming of the video.
+
+Seven students took the girl along with the crowd and raped the girl as a crowd.
+
+The incident has been revealed to the disciplinary committee, including the Principal of the school and the student and those students have been imported and the students have been imported.
 
 ...
 
 [Data](articles/b8b0bf10.json)
+
+[Extended Data](ext_articles/b8b0bf10.ext.json)
 
 ---
 
@@ -2223,33 +2255,5 @@ The Elections Commission says that 337 election complaints have been reported fr
 [Data](articles/3372a4d5.json)
 
 [Extended Data](ext_articles/3372a4d5.ext.json)
-
----
-
-### 7 people killed in religious
-
-*2024-08-12 09:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-வைபவ-நெரிசலில்-சிக்கி-7-பேர்-பலி/175-342007) · `ta`
-
-A tragic incident occurred at the Baba Siddheshwara Nath Temple in Patna, Bihar, where seven people were killed and over 30 injured due to crowd congestion during a religious ceremony. The temple, built during the Gupta era, attracts many devotees annually for its Kumbabishekha festival. Despite the large turnout, inadequate security measures led to the disaster, with criticism aimed at the local administration's handling of the crowd.
-
-🟩
-
-More than 30 people were injured when 7 people were killed in a temple crowd in Patna, Bihar.
-
-The Baba Siddheshwara Nath Temple was held yesterday (11) in the Paravar hills in Jehanabad district of Bihar.
-
-Built during the Guptas period, the Shiva temple is the most famous in the area. It is customary for a large number of devotees to attend this Kumbabishekha festival every year.
-
-In this case, a large number of devotees came to the temple to attend the ceremony yesterday. The crowd seems to have been congestion this morning (Monday).
-
-More than 30 people have been hospitalized with injuries after seven people have been killed in the crowd. The District Collector said this. He said the situation was brought under control.
-
-In a media interview, a relative of the deceased said that the local administration did not make adequate security arrangements despite the annual event.
-
-...
-
-[Data](articles/51214dc3.json)
-
-[Extended Data](ext_articles/51214dc3.ext.json)
 
 ---

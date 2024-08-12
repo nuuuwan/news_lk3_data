@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 00:53:06**
+As of **2024-08-13 01:06:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,359 (100.0%) of 40,363 articles have been extended.
+40,363 (100.0%) of 40,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ ACCA Sri Lanka Member Network Panel (MNP) Chairman Chaaminda Kumarasiri warmly w
 
 [Data](articles/66bb4b3c.json)
 
+[Extended Data](ext_articles/66bb4b3c.ext.json)
+
 ---
 
 ### Athulla Edirisinghe honoured with Japan’s “The Order of the Rising Sun, Gold and Silver Rays”
@@ -59,6 +61,8 @@ Ambassador Mizukoshi commended Edirisinghe for his relentless efforts in promoti
 ...
 
 [Data](articles/9e1c8e1d.json)
+
+[Extended Data](ext_articles/9e1c8e1d.ext.json)
 
 ---
 
@@ -264,6 +268,8 @@ As Sri Lanka emerges from an unprecedented economic crisis that has shaken the f
 
 [Data](articles/b9934c3a.json)
 
+[Extended Data](ext_articles/b9934c3a.ext.json)
+
 ---
 
 ### South Africa, which ended without success after 28 successive results. Islands test
@@ -309,6 +315,8 @@ As we prepare to vote in the 9th Executive President of Sri Lanka, let us recogn
 ...
 
 [Data](articles/d5a8febb.json)
+
+[Extended Data](ext_articles/d5a8febb.ext.json)
 
 ---
 

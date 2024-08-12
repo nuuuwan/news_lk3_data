@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 18:17:20**
+As of **2024-08-12 18:30:50**
 
 ## Newspaper Stats
 
-*Scraped **40,324** Articles*
+*Scraped **40,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,331
 economynextcom | 2,443
 dailyftlk | 2,593
 adalk | 3,703
-adaderanalk | 4,698
+adaderanalk | 4,700
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,112
 virakesarilk | 6,385
@@ -26,11 +26,51 @@ adaderanasinhalalk | 6,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,316 (100.0%) of 40,324 articles have been extended.
+40,324 (100.0%) of 40,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Two arrested with over 150kg of Kerala cannabis in Jaffna
+
+*2024-08-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101184/two-arrested-with-over-150kg-of-kerala-cannabis-in-jaffna) · `en`
+
+Police have arrested two suspects who were in possession of over 150 kilograms of Kerala cannabis in the Ariyale area of Jaffna this morning (12).
+
+The Police Media Division said that the raid was carried out by officers of the Mannar Unit of the Police Narcotics Bureau (PNB).
+
+The arrested suspects have been identified to be aged 39 and 44 and residents of Jaffna and Kilinochchi.
+
+The PNB is carrying out further investigations regarding the suspects.
+
+◼️
+
+[Data](articles/1c72345f.json)
+
+---
+
+### Two killed after bus veers off road and crashes into shop
+
+*2024-08-12 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101183/two-killed-after-bus-veers-off-road-and-crashes-into-shop-) · `en`
+
+Two persons have been killed while another has sustained serious injuries in an accident involving an SLTB bus near the Galkade Junction in Welmilla on the Bandaragama-Kesbewa road.
+
+Accordingly, the bus had veered off the road and ran over two persons near a bus halt before crashing into a roadside shop.
+
+The accident had occurred this afternoon (12) while a female passenger of the bus who sustained serious injuries in the accident has been hospitalized.
+
+The victims in the incident include M.A. Shantha Ranjith, a 53-year-old resident of Akuressa, and S.K. Sumanasiri, a 60-year-old resident of Beralapanathara.
+
+The driver of the bus has been arrested in connection with the accident.
+
+During the interrogation of the driver, it has been revealed that the bus had suddenly veered to the right side of the road and that instead of the brakes he had mistakenly stepped on the accelerator pedal resulting in the accident.
+
+...
+
+[Data](articles/eb04ae52.json)
+
+---
 
 ### Sri Lanka’s DFCC Bank planned green bond given expected rating of A- (lka)
 
@@ -50,23 +90,31 @@ Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has assigned DFCC Bank 
 
 [Data](articles/ce408c0d.json)
 
+[Extended Data](ext_articles/ce408c0d.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට එන නවසීලන්ත ටෙස්ට් කණ්ඩායම
+### New Zealand Test team coming to Sri Lanka
 
 *2024-08-12 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199861) · `si`
 
-ලබන මස ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිත නවසීලන්ත ටෙස්ට් ක්‍රිකට් සංචිතය නම්කර තිබේ.
+The New Zealand cricket team, led by Tim, will tour Sri Lanka next month. The 15-member squad includes Tom Blondel, Michael Bresco, Darn Philips, Ruching Ravindra, Ben Sears, Kane Williamson, and Lill Young. They'll play two Tests at the Galle International Cricket Grounds on September 18 and 26.
 
-ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත එම සංචිතයේ නායකත්වය සඳහා ටිම් සවුති ව නම්කර තිබුණි.
+🟩
 
-එම සංචිතයේ අනෙක් ක්‍රීඩකයින් වන්නේ, ටොම් බ්ලුන්ඩෙල්, මයිකල් බ්‍රෙස්වල්, ඩෙවොන් කොන්වේ, මැට් හෙන්රි, ටොම් ලේතම්, ඩැරීල් මිචල්, විල් ඕ' රූක්, අජාස් පටෙල්, ග්ලෙන් පිලිප්ස්, රචින් රවින්ද්‍රා, මිචෙල් සැන්ටර්, බෙන් සියර්ස්, කේන් විලියම්සන් සහ විල් යං
+The New Zealand Test squad that is to travel in Sri Lanka next month has been named.
 
-සැප්තැම්බර් 18 සහ 26 යන දිනවල එම ටෙස්ට් තරග දෙක ගාල්ල ජාත්‍යන්තර ක්‍රිකට් පිටියේදී ආරම්භවීමට නියමිතය.
+Tim had been named for the leadership of the 15 players.
+
+The other players in the squad are Tom Blondle, Michael Bresco, Darn Philips, Ruching Ravindra, Ben Sears, Kane Williamson and Lill Young
+
+The two Tests will commence on September 18 and 26 the Galle International Cricket Grounds.
 
 ◼️
 
 [Data](articles/3ba3dbe8.json)
+
+[Extended Data](ext_articles/3ba3dbe8.ext.json)
 
 ---
 
@@ -89,6 +137,8 @@ A bond maturing on 15.05.2030 closed at 12.85/13.00 percent. (Colombo/Aug12/2024
 ◼️
 
 [Data](articles/b997afb5.json)
+
+[Extended Data](ext_articles/b997afb5.ext.json)
 
 ---
 
@@ -120,21 +170,31 @@ Preliminary investigations have revealed that the driver of the three-wheeler ca
 
 ---
 
-### බිහිසුණු බස් රථ අනතුරක්
+### A horrible bus accident
 
 *2024-08-12 16:51:05* · [`adalk`](https://www.ada.lk/breaking_news/බිහිසුණු-බස්-රථ-අනතුරක්/11-411328) · `si`
 
-බණ්ඩාරගම කැස්බෑව මාර්ගයේ ගල් කඩේ හංදියේදී ලංගම බස් රථයක් මාර්ගයේ  රැඳී සිටි පුද්ගලයන් දෙදෙනෙකු මතට කඩා වැදී එක් අයකු මිය ගොස් තවත් අයකු බරපතළ තුවාල ලබා ඇතැයි බණ්ඩාරගම පොලිසිය කියයි
+In a tragic bus accident on the Kesbewa road, one person died and several were injured. The victim, aged 45-55 and from Akuressa, was identified after the incident. Two others involved in a nearby cafeteria were also hurt. The SLTB bus, traveling from Bandaragama to Kesbewa, collided with them. Police are investigating the cause, including whether the victims were attempting to cross the road when hit.
 
-සිදුවූ අනතුරින් බස් රථයේ ගමන් ගත් කාන්තාවගේ අතක ටද ආබාධයට ලක්වී රෝහල් ගත වූ බව බණ්ඩාරගම රෝහලේ ප්‍රකාශකයෙක් පැවසීය
+🟩
 
-අනතුරින් මියගොස් ඇත්තේ අකුරැස්ස ප්‍රදේශයේ පදිංචිව සිටි වයස අවුරුදු 45-55 පුද්ගලයෙකි
+Bandaragama police say that one killed in a SLTB bus round road at Kasbwa road on the Kesbwa road on the Kashbewa road.
 
-බණ්ඩාරගම ප්‍රදේශයේ විහාරස්ථානයක ඉදිකිරීම් කටයුත්තක් සඳහා  අනතුරට පත් පුද්ගලයන් දෙදෙනා සහ තවත් පුද්ගලයකු ඊයේ (12) දින පැමිණ  ආපනශාලාවකින් දහවල් ආහාර ලබාගෙන තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+A spokesman for Bandaragama Hospital said that the bus was admitted to the hospital in the accident
+
+The deceased has been identified as a 45-55 year old resident of Akuressa
+
+Police investigations have revealed that the two crash and another had received afternoon in a cafeteria for a construction work of a temple in Bandaragama.
+
+After receiving food, the person who had brought food from the Akuressa had gone to the cafeteria a little to the cafeter and while the other two people stayed on the road until he arrived. The SLTB bus, who was traveling from Bandaragama to Kesbewa, was running in the opposite direction, police said
+
+The man who had gone to the shopping for purchasing for purchasing, the crowd had come into the scene and tried to crumble with the bus and was under the bus.Police say there are
 
 ...
 
 [Data](articles/b17de7c8.json)
+
+[Extended Data](ext_articles/b17de7c8.ext.json)
 
 ---
 
@@ -157,6 +217,8 @@ Foreign selling was seen in John Keells Holdings Plc (down at 178.00), Dialog Ax
 ...
 
 [Data](articles/973c001d.json)
+
+[Extended Data](ext_articles/973c001d.ext.json)
 
 ---
 
@@ -304,6 +366,8 @@ Galle District Member of Parliament Nanayakkara and National List Member of Parl
 
 [Data](articles/35f28277.json)
 
+[Extended Data](ext_articles/35f28277.ext.json)
+
 ---
 
 ### Israel is trying to face a attack
@@ -409,6 +473,8 @@ The bill is part of a series of drafted laws that are to reform Sri Lanka’s le
 ◼️
 
 [Data](articles/1fbd5c99.json)
+
+[Extended Data](ext_articles/1fbd5c99.ext.json)
 
 ---
 
@@ -919,6 +985,8 @@ Rajapakshe, 65, has been in parliament for two decades since 2004 representing d
 ...
 
 [Data](articles/791b68f2.json)
+
+[Extended Data](ext_articles/791b68f2.ext.json)
 
 ---
 
@@ -2181,57 +2249,5 @@ Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 par
 [Data](articles/258d43a1.json)
 
 [Extended Data](ext_articles/258d43a1.ext.json)
-
----
-
-### The next Prime Minister from Badulla
-
-*2024-08-12 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-இருந்து-அடுத்த-பிரதமர்/175-342006) · `ta`
-
-Harin Fernando hints at a potential Prime Minister from Uva Province, mentioning Nimal Siripala de Silva's popularity in Badulla district as a key factor.
-
-🟩
-
-Former Minister Harin Fernando has said that the next Prime Minister of Sri Lanka may be from Uva Province.
-
-He said this while attending the 'Ekwa Jayagamu' event in Badulla on Sunday (11).
-
-“I can feel this. Minister Nimal Siripala de Silva, who attended the meeting, said that if I want to appoint a Prime Minister from the Uva Province, I will accept the responsibility of making him the prime minister if he wins the 9 seats in the Badulla district.
-
-Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 parliamentary elections in Badulla district. Kiss
-
-◼️
-
-[Data](articles/3b4d9fd8.json)
-
-[Extended Data](ext_articles/3b4d9fd8.ext.json)
-
----
-
-### Helly falling at hotel accident pilot death
-
-*2024-08-12 09:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹோட்டலில்-ஹெலி-விழுந்து-விபத்து-விமானி-உயிரிழப்பு/50-342005) · `ta`
-
-A helicopter crash-landed on a hotel roof in Cairns, Australia, killing the pilot. The incident occurred at the Hilton Double Tree Hotel, where over 100 guests were safely evacuated. No injuries were reported among the guests.
-
-🟩
-
-A helicopter fell on the roof of a star hotel in Australia, and its pilot died.
-
-The swimming pool is located at the Hilton Double Tree Hotel, which operates in Cairns Cairns, North.
-
-In the meantime, two people, including a pilot, crashed on the roof of the star hotel at around 2 am this morning.
-
-It is reported that the pilot died on the spot when the helicopter fell on the fire.
-
-More than 100 people in the hotel have been rescued from there. Preliminary reports have revealed that there were no injured in the accident.
-
-It was reported that the 2 helicopters of propellers were inaccessible while flying in the sky.
-
-◼️
-
-[Data](articles/ec2a2fd1.json)
-
-[Extended Data](ext_articles/ec2a2fd1.ext.json)
 
 ---

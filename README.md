@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 14:20:59**
+As of **2024-08-12 14:36:26**
 
 ## Newspaper Stats
 
-*Scraped **40,275** Articles*
+*Scraped **40,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,431
 dailyftlk | 2,593
-adalk | 3,695
-adaderanalk | 4,689
+adalk | 3,697
+adaderanalk | 4,690
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,275 (100.0%) of 40,275 articles have been extended.
+40,275 (100.0%) of 40,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Chamari named ICC Women’s Player of the Month for July 2024
+
+*2024-08-12 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101173/chamari-named-icc-womens-player-of-the-month-for-july-2024) · `en`
+
+Sri Lanka’s talismanic skipper Chamari Athapaththu beat a hot field by overcoming India’s star openers, Smriti Mandhana and Shafali Verma, to win the ICC Women’s Player of the Month for July 2024.
+
+July was prolific for the southpaw, who secured new landmarks. Athapaththu led Sri Lanka to a maiden Women’s Asia Cup 2024 title over seven-time champions India during the month.
+
+This is the third ICC Women’s Player of the Month award for the 34-year-old, making her the joint second-most successful cricketer in the Women’s Player of the Month arena, tied at three awards with West Indies’ Hayley Matthews, sitting behind Australia’s Ashleigh Gardner (four wins).
+
+“I am happy and honored to have been chosen as the ICC Women’s Player of the Month’ for the third time and it is heartening to see such reckoning for the efforts of mine, achieved with the support of my teammates and coaches, being continuously recognised by the cricketing world,” she said.
+
+...
+
+[Data](articles/569cb315.json)
+
+---
 
 ### Wimal cases filed against immigration officers
 
@@ -77,6 +95,22 @@ The Galle and Matara districts can have a heavy showers exceeding 100 millimeter
 [Data](articles/8b6fd9b2.json)
 
 [Extended Data](ext_articles/8b6fd9b2.ext.json)
+
+---
+
+### ජනපතිවරණ අපේක්ෂකයෝ බහුතරය රූකඩ
+
+*2024-08-12 13:32:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-අපේක්ෂකයෝ-බහුතරය-රූකඩ/11-411325) · `si`
+
+ජනපතිවරණයට ඉදිරිිපත්වන ස්වාධීන අපේක්ෂකයෙකු තැබිය යුතු ඇප මුදල රුපියල් මිලියන 10 දක්වා ඉහළ නැංවිය යුතු බව පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද (12) පෙරවරුවේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.
+
+"1981 දී ජනාධිපතිවරණ පනත සම්මත කරන විට පක්ෂයක අපේක්ෂකයෙකුට රු 50,000ක් ස්වාධීන අපේක්ෂකයෙකුට රු 75,000ක් විධියට ඇප මුදල් නියම කළා.  මේ ඇප මුදල් ඉල්ලීමෙන් බලාපොරොත්තු වෙන්නේ බොරු අපේක්ෂකයින් ඡන්දයට එන එක වැලැක්වීම.  මොකද යම් අපේක්ෂකයෙක් 5%කට අඩුවෙන් ඡන්ද ගත්තොත් ඇප මුදල රාජ සන්තක වන නිසා.
+
+ලංකා ඉතිහාසයේ පැවැත්වුණු සෑම ජනපතිවරණයකම ප්‍රධාන අපේක්ෂකයින් දෙන්නා හැරුණු විට අනිත් සියළුම අපේක්ෂකයින්ගේ ඇප මුදල රාජ සන්තක වෙලා.  ඒත් සෑම ජනපතිවරණයකටම අපේක්ෂකයින් බුරුතු පිටින් ඉදිරිපත් වෙනවා.  2019 ජනපතිවරණයට අපේක්ෂකයින් 35ක්.  මේ පාර ඊටත් වැඩි වේවි.  ඒ ඇයි?
+
+...
+
+[Data](articles/51a4dcc8.json)
 
 ---
 
@@ -717,6 +751,26 @@ The subsequent questions were addressed by the people because the Life -term mem
 [Data](articles/7aceeb94.json)
 
 [Extended Data](ext_articles/7aceeb94.ext.json)
+
+---
+
+### රනිල් රට භාර නොගත්තානම් ලංකාවත් බංග්ලාදේශයක් වෙලා
+
+*2024-08-12 11:16:31* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-රට-භාර-නොගත්තානම්-ලංකාවත්-බංග්ලාදේශයක්-වෙලා/11-411318) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එදා රට භාර නොගත්තේනම් ශ්‍රී ලංකාව  අද බංගලාදේශයටත් වඩා නරක තත්වයට  පත්වීමට ඉඩ තිබූ බව නාගරික හා නිවාස සංවර්ධන අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඇමතිවරයා අවධාරණය කරන්නේ අද බංගලාදේශයට අත්ව ඇති ඉරණම අපේ රටට ඇති කිරීම ඊනියා අරගලයේ අරමුණ වූ බවත් රනිල් වික්‍රමසිංහ මහතා යළි ජනාධිපති නොවුනහොත් බංගලදේශය මෙන් රට විසාලාවක් වනු ඇති බවයි.
+
+ජන මතයට කන් නොදී දේශපාලනය කළ නොහැකි බවද කී ඇමති ප්‍රසන්න රණතුංග මහතා තමන් තවමත් ඔර්ජිනල් පොහොට්ටුවෙක් බවද කීවේය.
+
+ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව කියා සිටියේ පසුගිය  සිකුරාදා (09) පොලොන්නරුවේ පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොලොන්නරු දිස්ත්‍රික් සමුළුව අමතමිනි.
+
+රැස්ව සිටි පොලොන්නරුව දිස්ත්‍රික්කයේ සියළුම පාර්ලිමේන්තු, පළාත් සභා සහ පළාත් පාලන පොහොට්ටු මහජන නියෝජිතයන් අත ඔසවා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බවට මෙහිදී ප්‍රතිඥා දුන්හ.
+
+...
+
+[Data](articles/f92848bf.json)
 
 ---
 
@@ -2241,65 +2295,5 @@ Despite challenges like COVID-19 and economic crises, Sri Lanka’s plantation i
 [Data](articles/e50db7cd.json)
 
 [Extended Data](ext_articles/e50db7cd.ext.json)
-
----
-
-### No one can build the PA;Ranil's success is the country's victory - Wimalaweera Dissanayake
-
-*2024-08-11 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/190845) · `ta`
-
-Wimalaweera Dissanayake supports Ranil Wickremesinghe for the upcoming election, emphasizing his leadership during the economic crisis. She highlights Ranil's selfless dedication to the nation over his political future. Despite challenges, including the unfeasibility of building a united front, she advocates for Ranil's victory as crucial for the country's recovery.
-
-🟩
-
-No one can build the Sri Lanka PA. President Ranil Wickremesinghe should win the upcoming election.
-
-While the country was opposed to the worst economic crisis, none of the heroes who are currently speaking of the government have been responsible for the government. The country was on fire. President Ranil Wickremesinghe took the country without considering his political future.
-
-The ruling and opposition parties must remember that no one can do election campaigns if the Age of 20122 is present in the year 20122.
-
-I will be happy if the PA wins, but it is impossible to practice. No one can build public Peramuna. President Ranil Wickremesinghe should win the election. If he wins, the country will win.
-
-The firm structure for recovering from the economic crisis has now been implemented.
-
-◼️
-
-[Data](articles/e2c6c968.json)
-
-[Extended Data](ext_articles/e2c6c968.ext.json)
-
----
-
-### Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part I
-
-*2024-08-11 23:20:26* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-hopefuls-should-give-top-priority-to-make-Sri-Lanka-a-creative-economy-Part-I/4-765399) · `en`
-
-A nation desirous of surviving and prospering should necessarily embrace ‘innovation and creativity’
-
-The innovation inputs consist of five broad categories, namely, institutional structure, human capital and research, infrastructure, market sophistication and business sophistication. In innovation outputs, there are two categories, namely, knowledge and technology and creativity. In all these categories, Sri Lanka’s performance as an innovative economy has been far from the desired. It also opens a wide policy corridor for Sri Lanka Government to adopt for implementation if it is really interested in building its knowledge base and its application in business
-
-...
-
-[Data](articles/50faafae.json)
-
-[Extended Data](ext_articles/50faafae.ext.json)
-
----
-
-### Visionary perspectives: Fireside Chat with Leadership Panel at Human Capital Summit 2024
-
-*2024-08-11 22:52:24* · [`dailyftlk`](https://www.ft.lk/opinion/Visionary-perspectives-Fireside-Chat-with-Leadership-Panel-at-Human-Capital-Summit-2024/14-765398) · `en`
-
-The Leadership Panel of the Human Capital Summit 2024, referred to as the ‘Fireside Chat’, provided a unique platform to discuss the future of human capital management and the evolving landscape of leadership.
-
-In a series of insightful exchanges, the panellists addressed pressing issues such as the integration of innovative technologies, strategic workforce planning, and the role of leadership in navigating global challenges. The discussions highlighted the collective wisdom and forward-thinking strategies essential for building resilient, future-ready institutions.
-
-Moderated by CIMA Global 2022/23 President Melanie J. Kanaka, and Sri Lanka Human Capital Summit 2024 Chairman Dinesh Weerakkody, the panel featured distinguished speakers including 30th Prime Minister of Australia Scott Morrison, former Maldivian President Mohamed Nasheed, and other eminent figures from the realms of government, business, and academia. Following are excerpts:
-
-...
-
-[Data](articles/612fd5cf.json)
-
-[Extended Data](ext_articles/612fd5cf.ext.json)
 
 ---

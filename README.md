@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 22:09:05**
+As of **2024-08-12 22:22:06**
 
 ## Newspaper Stats
 
-*Scraped **40,346** Articles*
+*Scraped **40,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,119
 virakesarilk | 6,385
-adaderanasinhalalk | 6,863
+adaderanasinhalalk | 6,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,345 (100.0%) of 40,346 articles have been extended.
+40,346 (100.0%) of 40,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### නුවර පෙරහැර මාර්ගයේ බියර් විකිණු අයෙක් අත්අඩංගුවට
+
+*2024-08-12 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199866) · `si`
+
+ඓතිහාසික ඇසළ පෙරහැර නිමිත්තෙන් මහනුවර නාගරික සීමාවේ සියලු මත්පැන් අලෙවිසැල් වසා තිබිය දී, පෙරහැර මාර්ගය ආසන්නයේදී වැඩි මිලට 'බියර් කෑන්' අලෙවි කළ වෙළෙඳ සැලක හිමිකරුවෙකු මහනුවර කොට්ඨාස දූෂණ මර්දන අංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පෙරහැර වීදි සංචාරය කරන විටත් අදාළ ස්ථානයේ මත්පැන් විකුණන බවට ලද තොරතුරක් මත මෙම වැටලීම සිදුකර ඇත.
+
+රුපියල් 550කට මිල නියම කර තිබූ 'බියර් කෑන්' එකක් මෙම ස්ථානයේ දී රුපියල් 1,000කට අලෙවි කර තිබෙන බව පොලිස් පරීක්ෂණ මඟින් අනාවරණය වී තිබේ.
+
+සැකකරු මහනුවර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු ඔහුට රුපියල් 30,000ක දඩයක් නියම කර ඇත.
+
+ඇසළ පෙරහර නිමිත්තෙන් මෙම මස 20 වැනි දින දක්වා මහනුවර මත්පැන් අලෙවි සැල් වසා තැබීමට සුරාබදු දෙපාර්තමේන්තුව පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/ec57cb00.json)
+
+---
 
 ### Dhoni-backed Garuda Aerospace enters Sri Lankan market to target agricultural sector
 
@@ -260,21 +280,29 @@ One of the 01 political parties and 15 independent candidates have deposited bai
 
 ---
 
-### හෙදියගේ හිසට කතුරෙන් පහර දුන්නාට විශේෂඥ වෛද්‍යවරයාට රු. 50000ක් වන්දි ගෙවන්න වෙයි
+### Specialist doctor to attack the nurse's head. 50000 will pay compensation
 
 *2024-08-12 18:42:55* · [`adalk`](https://www.ada.lk/breaking_news/හෙදියගේ-හිසට-කතුරෙන්-පහර-දුන්නාට-විශේෂඥ-වෛද්‍යවරයාට-රු--50000ක්-වන්දි-ගෙවන්න-වෙයි/11-411331) · `si`
 
-දියවැඩියා රෝගියෙකුගේ මහපට ඇඟිල්ල කපා දැමීමේ ශල්‍යකර්මය කරමින් සිටියදී ඒ සඳහා භාවිතා කළ අස්ථි කපා දැමීමේ කතුරෙන් හෙදියගේ හිසට පහරදීමෙන් ඇගේ මූලික අයිතිවාසිකම් කඩවී ඇතැයි තීන්දු කළ සිය පෞද්ගලික මුදලින් ඇයට රුපියල් 50,000/-ක වන්දිියක් ගෙවීමට විශේෂඥ ශල්‍ය වෛද්‍යවරයාට නියම කළ ශ්‍රේෂ්ඨාධිකරණය රුපියල් 10,000/-ක වන්දියක් ගෙවවීමට රජයට නියම කළේය.
+A specialist doctor attacked a nurse's head, leading to a Supreme Court case where the court ordered compensation for the nurse due to violation of her fundamental rights. The case involved the Kurunegala General Hospital and highlighted issues of patient safety and medical ethics.
 
-මීට වසර 05කට පෙර කුරුණෑගල මහ රෝහලේ ශල්‍යගාරයේදී විශේෂඥ ශල්‍ය වෛද්‍යවරයා ශල්‍යකර්මය කරමින් සිටියදී කෝපාවිෂ්ඨව පෙත්සම්කාරියට කතුරෙන් පහරදී ඇති බවට ඉදිරිපත් වු සාක්කි මඟින් ශල්‍ය වෛද්‍යවරයා පෙත්සම්කාර හෙදියගේ මූලික අයිතිවාසිකම් කඩකර ඇතැය තීන්දු කරමින් මෙලෙස වන්දිගෙවීමටට නියම කෙරිණී.
+🟩
 
-කුරුණෑගල මහරෝහලේ ශල්‍ය අංශයේ සේවය කළ හෙද නිලධාරිනි මාධවී බුද්ධිකා රාජගුරු මහත්මියට මෙලෙස වන්දි ගෙවීමට නියම කරන් ලද්දේ කුරූණෑගල මහ රෝහලේ විශේෂඥ ශල්‍ය වෛද්‍ය අශෝක විජයමාන්න මහතාටය.
+The Supreme Court, which was appointed to the surgeon of the nurse's head to cut off the fundamental rights of the nurse's head, was a compensation of her own committee, which had decided to base her fundamental rights by attacking the fundamental rights of the nurse.He ordered the government to pay.
 
-සිය මුලික අයිතිවාසිකම් කඩකර ඇතැයි සඳහන් කරමින් බුද්ධිකා රාජගුරු මහත්මිය විසින් විශේෂඥ ශල්‍ය වෛද්‍ය අශෝක විජයමාන්න මහතා ඇතුළු 6 දෙනෙකු වගඋත්තරකරුවන් වශයෙන් නම් කරමින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණී.
+The Sakyya, who had been assaulted by the Sarabasika of the Kurunegala General Hospital five years ago, the Sakya Very was sentenced to the fundamental rights of the Sarabasiyaweera.
+
+Nursing Officer, Nursing Officer of the Kurunegala General Hospital, was appointed to compensation to the Kurunegala General Hospital, the Kurunegala General Hospital.
+
+The petition had been submitted as respondents, including Specialist Surgeons Ashoka Wijayamna, who has violated their basic rights.
+
+The verdict was published by Supreme Court Judge Aetala Wenagapuli with Supreme Court Judge Vijith Balalgoda.
 
 ...
 
 [Data](articles/2890c0ee.json)
+
+[Extended Data](ext_articles/2890c0ee.ext.json)
 
 ---
 
@@ -2245,33 +2273,5 @@ The grieving people gathered to honor girls who were grieved in the knives on Ju
 [Data](articles/be833047.json)
 
 [Extended Data](ext_articles/be833047.ext.json)
-
----
-
-### Senthil's crowd tension
-
-*2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்/75-342018) · `ta`
-
-Unrest arose during a meeting on Thirukoneswaram Temple's development, organized by Eastern Province Governor Senthil Thondaman. He announced plans to build the Raja Tower but faced criticism over missing Chola period jewelry valued at hundreds of crores. The governor abruptly ended the meeting, avoiding public questioning. Attendees, including Life-term members from Trincomalee, demanded answers regarding the jewelry's disappearance and the urgency of the meeting despite pending legal issues.
-
-🟩
-
-The unrest was held at an official meeting organized by the Governor of the Eastern Province Senthil Thondaman on the Thirukoneswaram temple.
-
-A meeting of General Council members on the development of Thirukoneswaram Temple was held on Sunday (11)
-
-Senthil Thondaman said that he had made arrangements to build the Raja Tower at the Tirukoneswara Temple.In this case, a tali worth several hundred crores of rupees in the Chola period has been stolen.
-
-Governor Senthil Thondaman, who ended the meeting in a hurry, tried to go without giving people the opportunity to question the people
-
-The subsequent questions were addressed by the people because the Life -term members of Trincomalee who attended the meeting were in the position that you should answer their question.
-
-௦௧. When the court handed over the temple to the Administrative Council in 2009, there was no such Chola period jewelery.
-
-...
-
-[Data](articles/44c4ba37.json)
-
-[Extended Data](ext_articles/44c4ba37.ext.json)
 
 ---

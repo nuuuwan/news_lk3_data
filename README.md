@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 22:22:06**
+As of **2024-08-12 22:36:17**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,346 (100.0%) of 40,347 articles have been extended.
+40,347 (100.0%) of 40,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### නුවර පෙරහැර මාර්ගයේ බියර් විකිණු අයෙක් අත්අඩංගුවට
+### Suspect sells beer in Kandy Perahera
 
 *2024-08-12 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199866) · `si`
 
-ඓතිහාසික ඇසළ පෙරහැර නිමිත්තෙන් මහනුවර නාගරික සීමාවේ සියලු මත්පැන් අලෙවිසැල් වසා තිබිය දී, පෙරහැර මාර්ගය ආසන්නයේදී වැඩි මිලට 'බියර් කෑන්' අලෙවි කළ වෙළෙඳ සැලක හිමිකරුවෙකු මහනුවර කොට්ඨාස දූෂණ මර්දන අංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect selling overpriced 'Beer Canans' during the Kandy-Esala Perahera was arrested and fined Rs. 30,000 after police raids based on tip-offs about inflated prices. The Excise Department also temporarily closed all liquor outlets in Kandy to curb such practices during the festival.
 
-පෙරහැර වීදි සංචාරය කරන විටත් අදාළ ස්ථානයේ මත්පැන් විකුණන බවට ලද තොරතුරක් මත මෙම වැටලීම සිදුකර ඇත.
+🟩
 
-රුපියල් 550කට මිල නියම කර තිබූ 'බියර් කෑන්' එකක් මෙම ස්ථානයේ දී රුපියල් 1,000කට අලෙවි කර තිබෙන බව පොලිස් පරීක්ෂණ මඟින් අනාවරණය වී තිබේ.
+The Kandy Divisional Corruption General has been arrested by the Kandy Divisional Cannes who were selling 'Beer Canans' at higher prices at higher prices at higher prices to the forefront of the Kandy-Esala Perahera.
 
-සැකකරු මහනුවර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු ඔහුට රුපියල් 30,000ක දඩයක් නියම කර ඇත.
+The raid has been carried out on information that the Perahera was to tour the street.
 
-ඇසළ පෙරහර නිමිත්තෙන් මෙම මස 20 වැනි දින දක්වා මහනුවර මත්පැන් අලෙවි සැල් වසා තැබීමට සුරාබදු දෙපාර්තමේන්තුව පියවර ගෙන තිබුණි.
+Police investigations have revealed that a "beer can 'was purchased at Rs. 550.
+
+The suspect was produced before the Kandy Magistrate's Court and fined Rs. 30,000.
+
+The Excise Department had taken steps to close the Kandy liquor to the 20th of this month to mark the Esala Perahera.
 
 ◼️
 
 [Data](articles/ec57cb00.json)
+
+[Extended Data](ext_articles/ec57cb00.ext.json)
 
 ---
 

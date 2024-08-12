@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 05:39:20**
+As of **2024-08-12 06:04:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,182 (100.0%) of 40,184 articles have been extended.
+40,184 (100.0%) of 40,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -568,6 +568,8 @@ Modern economies should be aptly termed innovation or creative economies
 
 [Data](articles/5b734491.json)
 
+[Extended Data](ext_articles/5b734491.ext.json)
+
 ---
 
 ### International Youth Day 2024 from ‘Clicks to Progress’
@@ -675,6 +677,8 @@ There is still a significant misunderstanding among many people regarding the tr
 ...
 
 [Data](articles/a17bff10.json)
+
+[Extended Data](ext_articles/a17bff10.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 20:36:31**
+As of **2024-08-12 20:55:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,862
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,341 (100.0%) of 40,342 articles have been extended.
+40,342 (100.0%) of 40,342 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -440,19 +440,27 @@ A bond maturing on 15.05.2030 closed at 12.85/13.00 percent. (Colombo/Aug12/2024
 
 ---
 
-### විමල් රජයෙන් රු. බිලියනයක වන්දි ඉල්ලයි
+### Wimal government is Rs. Billions seek compensation
 
 *2024-08-12 16:55:05* · [`adalk`](https://www.ada.lk/breaking_news/විමල්-රජයෙන්-රු--බිලියනයක-වන්දි-ඉල්ලයි/11-411329) · `si`
 
-අවිධිමත් රාජ්‍යතාන්ත්‍රික විදේශ ගමන් බලපත්‍රයක් සන්තකයේ තබා ගත් බවට චෝදනා කරමින් අසත්‍ය කරුණු මත පදනම්ව ද්වේශ සහගතව නඩු පැවරීමෙන් තම කීර්ති නාමයට වු හානියට රුපියල් කෝටි 100ක වන්දියක් ආගමන හා විගමන නිලධාරීන්ගෙන් හා රජයෙන් අයකර දෙන්නැයි ඉල්ලමින් හිටපු අමාත්‍ය විමල් වීරවංශ මහතා කොළඹ දිසා අධිකරණය හමුවේ අද (12) නඩු පැවරීය.
+Former Sri Lankan Minister Wimal Weerawansa faces legal action over allegations related to false regulations and possessing an unverified diplomatic passport. He was detained at Dubai airport but later released on bail. Weerawansa seeks compensation for damages incurred during this incident.
 
-නීතිඥ දිනේෂ් ද සිල්වා මහතා මාර්ගයෙන් විමල් වීරවංශ මහතා පැවරු මෙම නඩුවේ වගඋත්තරකරුවන් වශයෙන් ආගමන හා විගමන දෙපාර්තමේන්තුවේ බලයලත් නිලධාරී එරංග රඹුක්වැල්ල, ජ්‍යෙෂ්ඨ බලයලත් නිලධාරී සුජීව රත්නායක මහත්වරු සහ නීතිපතිවරයා නම් කර ඇත.
+🟩
 
-2015 ඔක්තෝබර් 23 වැනිදා ඩුබායි හරහා ඉතාලියේ රෝමය බලා පිටත්ව යෑමට කටුනායක ගුවන් තොටුපොළට පැමිණි තමන් ඉදිරිපත් කළ රාජ්‍යතාන්තික විදේශ ගමන් බලපත්‍රය ආගමන හා විගමන නිලධාරීන් ගුවන් තොටුපළේ පරිගණක දත්ත පද්ධතියට යොමු කර පරීක්ෂා කර බැලීමෙන් පසු එය අක්‍රිය ගුවන් බලපත්‍රයක් බවට ප්‍රකාශය කළ බව සඳහන් කරන පෙත්සම්කරු විදේශ ගමන් බලපත්‍රය අක්‍රීය තත්වයේ තිබු බැවින් නව විදේශ ගමන් බලපත්‍රයක් එදිනම ලබාගෙන විදේශගතවීමට තැත් කළ බවද සඳහන් කළේය.
+Former minister Wimal Weerawansa, who is unfamiliar with false lawsuits and the government, demanding the result of false issues and the government, demanding the result of false regulations and the government, is demanding the result of false nodes and the government, accusing the possession of an informal diplomatic passport.Sued.
+
+Mr. Wimal Weerawansa has been named by Hon
+
+The petitioner who attended the Dubai on October 23, after examining the computer data system at the airport on October 23, the petitioner, the petitioner states that it was stated to the computer database of the airport, the petitioner, foreign travelThe license was inactive and the new passport was found on the same day and went abroad.
+
+At that time, the Criminal Investigations Officers' Officers arrested against the Criminal Investigation Officers and released on bail after being released on bail after being released on bail and was accused of acquitting its verdict on all chargesIt stated that he was released.
 
 ...
 
 [Data](articles/8b9c9320.json)
+
+[Extended Data](ext_articles/8b9c9320.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 12:36:37**
+As of **2024-08-12 12:54:35**
 
 ## Newspaper Stats
 
-*Scraped **40,252** Articles*
+*Scraped **40,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,431
 dailyftlk | 2,593
-adalk | 3,692
+adalk | 3,693
 adaderanalk | 4,688
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,099
+tamilmirrorlk | 5,100
 virakesarilk | 6,377
-adaderanasinhalalk | 6,845
+adaderanasinhalalk | 6,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,247 (100.0%) of 40,252 articles have been extended.
+40,252 (100.0%) of 40,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### තණමල්විලෙන් වාර්තා වූ අහස පොළොව නුහුලන අපරාධය - පාසල් සිසුන් 17ක් අත්අඩංගුවට
+
+*2024-08-12 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199848) · `si`
+
+තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක 11 ශ්‍රේණියේ පාසල් දැරියක්ව වසරක් තිස්සේ අපයෝජනය කළ පාසල් සිසුන් 17දෙනෙක් පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් තවත් කාන්තාවක් ද පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+දැරියගේ මව චෝදනා කරන්නේ දැරිය වෛද්‍ය පරීක්ෂණයක් සඳහා හම්බන්තොට මහ රෝහලට ඇතුළු කළ අවස්ථාවේදී එහි වෛද්‍යවරයෙක් දැරිය බිය වැද්දීම නිසා ඇය සිය දිවි නසාගැනීමටද උත්සාහ කළ බවයි.
+
+තණමල්විල ප්‍රධාන පාසලක 11ශ්‍රේණියේ ඉගෙනුම ලබන එම සිසුවිය එම පාසලේම සිසුවෙක් සමග ප්‍රේම සම්බන්ධයක් පවත්වාගෙන ගොස් තිබුණි.
+
+පසුව එම සිසුවා , මෙම දැරිය රවටා මිතුරෙකුගේ නිවසකට රැගෙන ගොස් එහිදී පළමුවරට ඇයව දූෂණය කර ඇති බව පැවසෙයි.
+
+අනතුරුව එම නිවෙසේ සිටි තවත් සිසුන් කිහිප‍දෙනකු මෙම දැරියට බලහත්කාරයෙන් මත්පැන් පොවා අපයෝජනය හා දූෂණය කර එය වීඩියෝගත කර ඇති බව පොලීසිය පවසයි.
+
+එම සැකකාර සිසුන් මෙම වීඩියෝ පටය දැරියට පෙන්වමින් 2023 වසරේ සිට අවස්ථා 7කදී ඇයව සමූහ දූෂණයට ලක් කර ඇතැයි පොලීසිය සඳහන් කළේය.
+
+එහි ආසන්නතම සිදුවීම පසුගිය දින සිදුව තිබුණේ කිරිඳි ඔය අසලදී ය.
+
+...
+
+[Data](articles/3f498f82.json)
+
+---
+
+### අලි සබ්රි ට තවත් ඇමති ධුරයක්
+
+*2024-08-12 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199847) · `si`
+
+විදෙස් අමාත්‍ය අලි සබ්රි මහතා අධිකරණ අමාත්‍යවරයා ලෙස දිවුරුම් දී තිබේ.
+
+අධිකරණ අමාත්‍යවරයා වශයෙන් කටයුතු කළ විජයදාස රාජපක්ෂ මහතා ජනාධිපතිවරණයට තරග වැදීම සඳහා පසුගියදා එම අමාත්‍ය ධුරයෙන් ඉල්ලා අස්විය.
+
+◼️
+
+[Data](articles/dbdf988c.json)
+
+---
 
 ### Ali Sabry takes oath as new Justice Minister
 
@@ -47,6 +87,8 @@ On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest 
 ◼️
 
 [Data](articles/521e1363.json)
+
+[Extended Data](ext_articles/521e1363.ext.json)
 
 ---
 
@@ -65,6 +107,22 @@ The ceremony was attended by several NPP’s national executive members, includi
 [Data](articles/a00ae9e4.json)
 
 [Extended Data](ext_articles/a00ae9e4.ext.json)
+
+---
+
+### ஓகஸ்ட் 21 லிருந்து பிரச்சாரம் ஆரம்பம்
+
+*2024-08-12 12:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்ட்-21-லிருந்து-பிரச்சாரம்-ஆரம்பம்/175-342024) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான தனது பிரச்சாரத்தை ஓகஸ்ட் 21 ஆம் திகதி அனுராதபுரத்தில் ஆரம்பிக்கவுள்ளதாக பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் சில தலைவர்கள் ஜனாதிபதியுடன் இணைந்த போதிலும், அடிமட்ட ஆதரவாளர்கள் கட்சிக்கு விசுவாசமாக இருப்பதாக பெர்னாண்டோ சுட்டிக்காட்டினார்.
+
+கட்சியை விட்டு வெளியேறிய பல முன்னாள் SLPP உறுப்பினர்கள் இப்போது மீண்டும் இணைய முற்படுவதாகவும், இது கட்சியின் அடித்தளத்தை வலுப்படுத்துவதற்கான சாத்தியக்கூறுகளை காட்டுவதாகவும் அவர் கூறினார்.cs
+
+◼️
+
+[Data](articles/eca19d5a.json)
 
 ---
 
@@ -494,6 +552,8 @@ NDB Investment Bank Limited and Acuity Partners (Private) Limited are the joint 
 
 [Data](articles/bd0e13ad.json)
 
+[Extended Data](ext_articles/bd0e13ad.ext.json)
+
 ---
 
 ### Sri Lankan worker remittances in first 7 months up by 10.3%
@@ -533,6 +593,8 @@ In the 1980s and early 1990s when the central bank and macro-economists busted t
 ...
 
 [Data](articles/95ea718b.json)
+
+[Extended Data](ext_articles/95ea718b.ext.json)
 
 ---
 
@@ -802,6 +864,8 @@ Especially after 1978 as the IMF’s Second Amendment to its Articles deprived m
 
 [Data](articles/ac4a81a7.json)
 
+[Extended Data](ext_articles/ac4a81a7.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger at 299.85/300.00 to US dollar
@@ -825,6 +889,8 @@ In equities, Colombo’s All Share Price Index opened 12.91 points higher at 11,
 ◼️
 
 [Data](articles/5af9734c.json)
+
+[Extended Data](ext_articles/5af9734c.ext.json)
 
 ---
 
@@ -921,6 +987,26 @@ Two of the helicopter’s rotor blades came off and one landed in the hotel pool
 [Data](articles/62305a32.json)
 
 [Extended Data](ext_articles/62305a32.ext.json)
+
+---
+
+### දරුවෙක් පැහරගෙන යමින් සිටි කොස්තාපල් සොයුරන් දෙදෙනෙක් ඇතුළු හතරක් අල්ලයි
+
+*2024-08-12 09:28:05* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙක්-පැහරගෙන-යමින්-සිටි-කොස්තාපල්-සොයුරන්-දෙදෙනෙක්-ඇතුළු-හතරක්-අල්ලයි/11-411314) · `si`
+
+16 හැවිරිදි පිරිමි දරුවෙකු මෝටර් රථයකින් පැහැර ගෙන යමින් සිටි එකම පවුලේ පොලිස් කොස්තාපල් සොයුරන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ පොලිස් විශේෂ කාර්යාංශයට අනුයුක්තව  හෝමාගම ඒකකයේ සේවය කරන අයෙකු සහ මීගොඩ පොලිසියට අනුයුක්තව සේවය කරන කොස්තාපල්වරුන් දෙදෙනෙකි.
+
+ඇඹිලිපිටියේ පල්ලේගම ප්‍රදේශයේ නිවසක පදිංචි 16 හැවිරිදි  බාල වයස්කාර දරුවෙකු මෝටර් රථයකින් පැහැරගෙන යන බවට  ඇඹිලිපිටිය පොලිසියට ඊයේ (11) ලද තොරතුරකට අනුව මෝටර් රථය ඇඹිලිපිටිය නෝනාගම මාර්ගයේ  පුද්ගලික බැංකුවක් ඉදිරිපිට දී නවතා පරික්ෂා කිරීමේදී ඒ තුළ පුද්ගලයන් සිව් දෙනකු සහ පැහැර ගැනීමට ලක් වූ දරුවා සිට ඇතැයි පොලිසිය කියයි
+
+සැකකරුවන් සම්බන්ධයෙන් සිදුකළ පරික්ෂාවේදී එයින් දෙදෙනකු පොලිස් නිලධාරීන් දෙදෙනකු බවට අනාවරණය වී ඇති අතර දරුවා පැහැර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නැතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+අත්අඩංගුවට ගත් අනෙක් සැකකරුවන් දෙදෙනා පරකඩුව සහ පද්බේරිය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 29 හා 31 අතර පසුවන්නන්ය.
+
+◼️
+
+[Data](articles/d6f5cc29.json)
 
 ---
 
@@ -2207,95 +2293,5 @@ We are going to see what the news is that we are telling the presidential candid
 [Data](articles/3ee22d5d.json)
 
 [Extended Data](ext_articles/3ee22d5d.ext.json)
-
----
-
-### Ready to pay for presidential election - Minister of Finance
-
-*2024-08-11 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/190842) · `ta`
-
-Minister of Finance Ranjith Siyambalapitiya confirms readiness to allocate funds for the upcoming presidential election, as stated during a media interview post-event on Sunday, 11th.
-
-🟩
-
-The Minister of Finance has said that he is ready to pay the money allocated for the presidential election.
-
-Finance Minister Ranjith Siyambalapitiya has said that he is ready to pay the estimated amount for the presidential election.
-
-He said this while speaking to the media after a function held on Sunday, 11th.
-
-◼️
-
-[Data](articles/f3e8dcb8.json)
-
-[Extended Data](ext_articles/f3e8dcb8.ext.json)
-
----
-
-### Perseid meteor shower: Sri Lanka’s northern sky to dazzle with midnight light show tonight
-
-*2024-08-11 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101157/perseid-meteor-shower-sri-lankas-northern-sky-to-dazzle-with-midnight-light-show-tonight) · `en`
-
-The most anticipated meteor shower of the year- the Perseids - will be visible to Sri Lanka tonight (11), after midnight or pre-dawn light hours.
-
-Space Scientist Gihan Weerasekara said this dazzling display will clearly appear to naked-eye from a plain ground on the northern sky of Sri Lanka from 12.00 midnight until the dawn.
-
-Streams of light and color will travel across the sky while explosions of fireballs linger, leaving behind even brighter streaks than the meteor trails from the Perseids passing through the atmosphere.
-
-Visible annually from mid-July to September 1, the Perseid meteor shower is set to peak between Sunday and before dawn Monday this year. Up to 100 meteors are expected per hour, moving at a speed of 133,200 miles per hour (214,365 kilometers per hour), as per reports.
-
-...
-
-[Data](articles/d91fbd75.json)
-
-[Extended Data](ext_articles/d91fbd75.ext.json)
-
----
-
-### Intelligence operation conducted in the Wennappuwa coast
-
-*2024-08-11 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199827) · `si`
-
-A Sri Lankan national was arrested by the Sri Lankan Navy and police near Wennappuwa coast, suspected of drug trafficking. The arrest was made after he attempted to evade capture by an Indian fishing vessel. He had previously faced charges in India in 2021. Legal proceedings against him will be handled by the Wennappuwa Police.
-
-🟩
-
-A Sri Lankan has been arrested by the Sri Lankan at the Wennappuwa coast with Indian custody.
-
-The Navy and the police have been arrested in connection with the Navy Intelligence Unit in connection with the Navy and the police.
-
-The man was arrested by an Indian fishing vessel at the Wennappuwa coastline and tried to secretly.
-
-It was reported that he was arrested in India in 2021 due to drug trafficker charges.
-
-The Navy said that the suspect would be conducted by the Wennappuwa Police about the following legal proceedings regarding the suspect.
-
-◼️
-
-[Data](articles/e8b2faba.json)
-
-[Extended Data](ext_articles/e8b2faba.ext.json)
-
----
-
-### Badges, if not relevant - free ones are with me
-
-*2024-08-11 18:23:18* · [`adalk`](https://www.ada.lk/breaking_news/ලාංඡන--නම්-මට-අදාළ-නෑ---නිදහස්-පාක්ෂිකයන්-මා-සමගයි/11-411311) · `si`
-
-MP Wijesadasa Rajapakse stated at a Colombo briefing that he had support from Sri Lanka's free supporters, dismissing any relevance of badges or names associated with him. He mentioned not needing hand points or votes for Bandaranaike, referencing historical events like the 1956 cartwheel demand and Chandrika's chair request. He also noted that his actions, including building the UPFA's Bulawan, made such symbols irrelevant to him.
-
-🟩
-
-MP Wijesadasa Rajapakse said Sri Lanka's free supporters were with him and that they were not relevant to him, the names of the names of him.
-
-He was speaking at a media briefing held in Colombo today (11).
-
-It's not a problem that I don't have the hand points. No vote for Bandaranaike. The 1956 votes demanded the cart wheel. Chandrika asks for his chair. Mr. Mahinda asked for the Bulawan of the UPFA, I built. Therefore, this logo and the name is not relevant to us.
-
-◼️
-
-[Data](articles/4f938ce7.json)
-
-[Extended Data](ext_articles/4f938ce7.ext.json)
 
 ---

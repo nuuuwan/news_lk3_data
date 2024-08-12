@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 23:21:17**
+As of **2024-08-12 23:37:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,348 (100.0%) of 40,349 articles have been extended.
+40,349 (100.0%) of 40,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### கட்டுப்பணம் செலுத்தியவர்களின் எண்ணிக்கை மேலும் அதிகரிப்பு
+### The number of people who controlled control is further increased
 
 *2024-08-12 23:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தியவர்களின்-எண்ணிக்கை-மேலும்-அதிகரிப்பு/175-342060) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக இன்று (12) வரை 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+As of December 12th, the Election Commission has approved 32 candidates, including 16 from recognized political parties, one other party, and 15 independents, to run in the upcoming presidential election. The deadline for candidate submissions ends on December 14th at noon.
 
-இதன்படி, அங்கீகரிக்கப்பட்ட 16 அரசியல் கட்சிகளும், மற்றுமொரு அரசியல் கட்சியும் மற்றும் 15 சுயேட்சை வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியவர்களில் அடங்குவர்.
+🟩
 
-வேட்பாளர்களுக்காக கட்டுப்பணம் செலுத்தும் காலம் எதிர்வரும் புதன்கிழமை (14) நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது. R
+The Election Commission said that 32 candidates have been controlled till today (12) to contest the presidential election.
+
+Accordingly, 16 recognized political parties, another political party and 15 independent candidates are controlled.
+
+It is worth noting that the relevance period for the candidates will be completed on Wednesday (14) at 12 noon.. Remble
 
 ◼️
 
 [Data](articles/a025bb20.json)
+
+[Extended Data](ext_articles/a025bb20.ext.json)
 
 ---
 

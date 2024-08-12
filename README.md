@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 11:07:51**
+As of **2024-08-12 11:20:57**
 
 ## Newspaper Stats
 
-*Scraped **40,227** Articles*
+*Scraped **40,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,89 @@ dailyftlk | 2,593
 adalk | 3,689
 adaderanalk | 4,681
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,091
+tamilmirrorlk | 5,093
 virakesarilk | 6,377
-adaderanasinhalalk | 6,842
+adaderanasinhalalk | 6,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,220 (100.0%) of 40,227 articles have been extended.
+40,227 (100.0%) of 40,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ராஜஸ்தானில் கன மழையால்  20 பேர் பரிதாப பலி
+### විදෙස් ප්‍රේෂණ ඉහළ ට
+
+*2024-08-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199844) · `si`
+
+2024 ජූලි මාසයේදී විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ ඩොලර් මිලියන 566.8ක් ශ්‍රී ලංකාවට ලැබී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ඒ අනුව 2024 වසරේ ජනවාරි-ජූලි කාලපරිච්ඡේදය තුළ දී ඩොලර් බිලියන 3.71ක් මෙරටට ලැබී තිබේ.
+
+එය පසුගිය වසරේ එම කාලයට සාපේක්ෂව 10.3%ක වර්ධනයක් බව ද ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+
+◼️
+
+[Data](articles/edc312b7.json)
+
+---
+
+### வேட்புமனுவில் கையொப்பமிட்டார் அனுர
+
+*2024-08-12 10:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவில்-கையொப்பமிட்டார்-அனுர/175-342013) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்காக மக்கள் விடுதலை முன்னணியின் தலைமை அலுவலகத்தில் அனுரகுமார திஸாநாயக்க வேட்பாளர் வேட்புமனுவில் செவ்வாய்க்கிழமை (12) கையொப்பமிட்டுள்ளார்.
+
+தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் தோழர் வைத்தியர் நிஹால் அபேசிங்க, மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் டில்வின் சில்வாவை உள்ளிட்ட தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர்கள் சிலரும் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/0569b3bc.json)
+
+---
+
+### தேர்தல் முறைப்பாடுகள் தொடர்ந்து அதிகரிப்பு
+
+*2024-08-12 10:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடுகள்-தொடர்ந்து-அதிகரிப்பு/175-342012) · `ta`
+
+கடந்த 24 மணித்தியாலங்களில் மாத்திரம் 17 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தேர்தல்கள் ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+
+ஜூலை 31 முதல் நேற்று (11) வரை 337 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தேர்தல் ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/18e14675.json)
+
+---
+
+### 20 people killed in heavy rains in Rajasthan
 
 *2024-08-12 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானில்-கன-மழையால்-20-பேர்-பரிதாப-பலி/175-342011) · `ta`
 
-ராஜஸ்தான் மாநிலம் ஜெய்ப்பூரில் கொட்டிய கன மழை காரணமாக, இதுவரை 20 பேர் உயிரிழந்தனர்.
+In Rajasthan, heavy rains have caused floods and fatalities. 20 deaths reported; 5 from a dam overflow in Jaipur, 7 near Srinagar village, and 2 from a motorcycle accident. The state government declared a holiday for pastoral areas and advised caution around water bodies. An emergency meeting was held by CM Bajan Lal Sharma to address disaster management.
 
-ராஜஸ்தான் மாநிலத்தின் ஜெய்ப்பூர், கரௌலி, சவாய் மாதோபூர் உள்ளிட்ட இடங்களில் பெய்த கனமழையால் வெள்ளப்பெருக்கு ஏற்பட்டது. அடுத்த 24 மணி நேரத்தில், பல்வேறு இடங்களில் கனமழை முதல் மிக கனமழை வரை பெய்யும் என வானிலை ஆய்வு மையமும் எச்சரிக்கை விடுத்துள்ளது. இதையடுத்து மழை பாதித்த பகுதிகளில் மாநில அரசு பாசாலைகளுக்கு விடுமுறை அறிவித்துள்ளது.
+🟩
 
-ஜெய்ப்பூரில் நிரம்பி வழியும் கனோடா அணை நீரில் மூழ்கி, 5 இளைஞர்கள் உயிரிழந்த நிலையில், உடல்களை தேடும் பணி நடந்து வருகிறது. மேலும், பாரத்பூரில் ஸ்ரீநகர் கிராமம் அருகே உள்ள ஆற்றில் மூழ்கி, ஏழு சிறுவர்கள் உயிரிழந்தனர்.
+Heavy rains in Jaipur, Rajasthan, have died so far.
 
-அதேசமயம், ஆற்றில் ஏற்பட்ட வெள்ளப்பெருக்கில், மோட்டார் சைக்கிளுடன் அடித்துச் செல்லப்பட்டதில் இரு இளைஞர்கள் இறந்தனர். இந்நிலையில், மழை காரணமாக, இதுவரை 20 பேர் உயிரிழந்துள்ளனர்.
+Heavy rains in Jaipur, Karauli and Sawai Madhopur, Rajasthan, were flooded. In the next 24 hours, the Meteorological Department has also warned that heavy rains will occur in various places.. Subsequently, the state government has announced a holiday for pastoral areas.
 
-இதற்கிடையே, பேரிடர் மேலாண்மை நிலைமையை மறுஆய்வு செய்வதற்காக, முதல்வர் பஜன் லால் சர்மா தலைமையில் அவசர ஆலோசனை கூட்டம் நடந்தது.
+The Kanoda Dam, which is overflowing in Jaipur, is drowned and 5 youths have died.. Also, seven boys were killed in a river near Srinagar village in Bharatpur.
 
-...
+At the same time, two youths were killed when a motorcycle was hit by a motorcycle. In this case, 20 people have died so far due to rain.
+
+Meanwhile, an emergency consultation meeting was chaired by Chief Minister Bajan Lal Sharma to review the disaster management situation.
+
+Speaking on the occasion, he said, 'All the people of the state should be safe without going near the water bodies. People should follow the instructions given by the Disaster Management Department. ”
+
+◼️
 
 [Data](articles/ffb33ead.json)
+
+[Extended Data](ext_articles/ffb33ead.ext.json)
 
 ---
 
@@ -64,35 +116,49 @@ This marks a 10.3% increase compared to the same period last year, according to 
 
 [Data](articles/d1edeaec.json)
 
+[Extended Data](ext_articles/d1edeaec.ext.json)
+
 ---
 
-### තරුණ මවක් සහ පියෙක් හදිසියේ ම ගත් තීරණය
+### A young mother and a father's decision
 
 *2024-08-12 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199843) · `si`
 
-අම්බලන්ගොඩ, බටපොළ ප්‍රදේශයේ නිවසක සිටි තරුණ යුවලක් සියදිවි හානිකරගෙන ඇති බව පොලීසිය පවසයි.
+In Ambalangoda's Batapola area, a young couple tragically ended their lives. The 29-year-old man reportedly left behind a young child whose cries alerted neighbors to the sad event.
 
-එම කාන්තාව 28 හැවිරිදි බවත් පුරුෂයා 29 හැවිරිදි බවත් පොලීසිය පැවසීය.
+🟩
 
-ඔවුන් ගේ කුඩා දරුවාගේ කෑ ගැසීම ඇසී පැමිණි අසල්වාසීන් විසින් සිද්ධිය සම්බන්ධයෙන් පොලීසිය දැනුම්වත් කර තිබුණි.
+A young couple in the Batapola area in Ambalangoda has committed suicide, police said.
+
+The man was 29 years old and the man said that the man was 29 years old.
+
+The neighbors who heard their young child's screams had been informed of the incident.
 
 ◼️
 
 [Data](articles/cef2ab8e.json)
 
+[Extended Data](ext_articles/cef2ab8e.ext.json)
+
 ---
 
-### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළ ට
+### Election Complaints
 
 *2024-08-12 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199842) · `si`
 
-මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙන්නේ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 17ක් වාර්තා වූ බවයි.
+In the past 24 hours, there were 17 election complaints, bringing the total to 337 since July 31.
 
-තවද ජූලි 31 වැනිදා සිට ඊයේ (11) දක්වා ගතවූ කාලය තුළ මැතිවරණ පැමිණිලි මැතිවරණ පැමිණිලි 337ක් වාර්තා වී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+🟩
+
+The Election Commission points out that there were 17 election complaints only during the last 24 hours.
+
+The Elections Commission says that 337 election complaints have been reported from July 31 to yesterday.
 
 ◼️
 
 [Data](articles/3372a4d5.json)
+
+[Extended Data](ext_articles/3372a4d5.ext.json)
 
 ---
 
@@ -172,21 +238,27 @@ Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 par
 
 ---
 
-### பதுளையில் இருந்து அடுத்த பிரதமர்
+### The next Prime Minister from Badulla
 
 *2024-08-12 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-இருந்து-அடுத்த-பிரதமர்/175-342006) · `ta`
 
-இலங்கையின் அடுத்த பிரதமர் ஊவா மாகாணத்தைச் சேர்ந்தவராக இருக்கக்கூடும் என முன்னாள் அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Harin Fernando hints at a potential Prime Minister from Uva Province, mentioning Nimal Siripala de Silva's popularity in Badulla district as a key factor.
 
-பதுளையில்   ஞாயிற்றுக்கிழமை (11)நடைபெற்ற 'ஏக்வா ஜெயகமு' நிகழ்வில் கலந்து கொண்ட போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-"இதை என்னால் உணர முடிகிறது. ஊவா மாகாணத்தில் இருந்து ஒரு பிரதமரை நியமிக்க வேண்டும் என்றால், பதுளை மாவட்டத்தில் உள்ள 9 ஆசனங்களிலும் வெற்றி பெற்றால் ,அவரைப் பிரதமராக்கும் பொறுப்பை நானே ஏற்றுக்கொள்வேன் என கூட்டத்தில் கலந்து கொண்ட அமைச்சர் நிமல் சிறிபால டி சில்வாவை நோக்கி ஹரின் தெரிவித்தார்.
+Former Minister Harin Fernando has said that the next Prime Minister of Sri Lanka may be from Uva Province.
 
-2020 பாராளுமன்றத் தேர்தலில் பதுளை மாவட்ட விருப்பு வாக்கு பட்டியலில் நிமல் சிறிபால டி சில்வா 141,901 வாக்குகளைப் பெற்று முதலிடம் பிடித்தமை குறிப்பிடத்தக்கது. cs
+He said this while attending the 'Ekwa Jayagamu' event in Badulla on Sunday (11).
+
+“I can feel this. Minister Nimal Siripala de Silva, who attended the meeting, said that if I want to appoint a Prime Minister from the Uva Province, I will accept the responsibility of making him the prime minister if he wins the 9 seats in the Badulla district.
+
+Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 parliamentary elections in Badulla district. Kiss
 
 ◼️
 
 [Data](articles/3b4d9fd8.json)
+
+[Extended Data](ext_articles/3b4d9fd8.ext.json)
 
 ---
 
@@ -218,25 +290,31 @@ It was reported that the 2 helicopters of propellers were inaccessible while fly
 
 ---
 
-### ஹோட்டலின் மீது ஹெலி விழுந்தது:  விமானி உயிரிழப்பு
+### Helly fell on the hotel: pilot death
 
 *2024-08-12 09:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹோட்டலின்-மீது-ஹெலி-விழுந்தது-விமானி-உயிரிழப்பு/50-342005) · `ta`
 
-அவுஸ்திரேலியாவில் நட்சத்திர ஹோட்டல் ஒன்றின் மேற்கூரையில் ஹெலிகொப்டர் ஒன்று விழுந்து பயங்கர விபத்து ஏற்பட்டுள்ள நிலையில், அதன் விமானி உயிரிழந்துள்ளார்.
+A helicopter crash-landed on a hotel roof in Cairns, Australia, killing the pilot. The incident occurred at the Hilton Double Tree Hotel, where more than 100 guests were safely evacuated. No injuries were reported among the guests.
 
-வடக்குப் பகுதியில் உள்ள கெய்ர்ன்ஸ் Cairns நகரில் இயங்கி வரும் ஹில்டன் டபுள் ட்ரீ ஹோட்டலில் நீச்சல் குளம் அமைந்துள்ளது.
+🟩
 
-இந்நிலையில், அந்த நட்சத்திர ஹோட்டலின்  மேற்கூரையில் இன்று அதிகாலை 2 மணியளவில் விமானி உட்பட 2 பேர் பயணித்த ஹெலிகொப்டர் விழுந்து விபத்துக்குள்ளானது.
+A helicopter fell on the roof of a star hotel in Australia, and its pilot died.
 
-ஹெலிகொப்டர் விழுந்த வேகத்தில் தீப்பற்றி எறிய தொடங்கிய நிலையில் விமானி சம்பவ இடத்திலேயே உயிரிழந்துவிட்டதாக தகவல் வெளியாகியுள்ளது.
+The swimming pool is located at the Hilton Double Tree Hotel operating in Cairns Cairns in the northern part.
 
-மேலும் ஹோட்டலில் இருந்த 100க்கும் மேற்பட்டோர் அங்கிருந்து மீட்கப்பட்டுள்ளனர். இந்த விபத்தில் அங்கிருந்தவர்களுக்கு காயம் ஏதும் ஏற்படவில்லை என்று முதல்கட்ட தகவல்கள் வெளியாகியுள்ளன.
+In the meantime, two people, including a pilot, crashed on the roof of the star hotel at around 2 am this morning.
 
-வானில் பறந்துகொண்டிருந்தபோது ஹெலிகொப்டர்களின் 2 புரொபெல்லர்களும் [propellers] செயலிழந்ததால் இந்த விபத்து ஏற்பட்டுள்ளதாக தகவல் தெரிவிக்கப்பட்டுள்ளது.S
+It is reported that the pilot died on the spot when the helicopter fell on the fire.
+
+More than 100 people in the hotel have been rescued from there. Preliminary reports have revealed that there were no injured in the accident.
+
+It was reported that the 2 helicopters of propellers were inaccessible while flying in the sky.
 
 ◼️
 
 [Data](articles/fda15dc0.json)
+
+[Extended Data](ext_articles/fda15dc0.ext.json)
 
 ---
 
@@ -2098,17 +2176,23 @@ MP Johnston Fernando said that the percentage of votes polled by President Mahin
 
 ---
 
-### ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු ආරම්භ කරයි
+### The preliminary printing of presidential election begins
 
 *2024-08-11 17:14:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-අදාළ-මූලික-මුද්‍රණ-කටයුතු-ආරම්භ-කරයි/11-411307) · `si`
 
-ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු මේ වන විට ආරම්භ කර තිබෙන බවත් නාමයෝජනා භාර ගැනීමෙන් පසු ඡන්ද පත්‍රිකා මුද්‍රණ කටයුතු ආරම්භ කරන බවත් රජයේ මුද්‍රණාලාධිපති ගංගානි ලියනගේ මහත්මිය සඳහන් කළාය.
+Preliminary printing of the presidential election has started, as announced by government official Ganani Liyanage. The Elections Commission sought advice on printing ballot sizes for candidates today.
 
-අපේක්ෂකයන් ප්‍රමාණය අනුව ඡන්ද පත්‍රිකාව මුද්‍රණය කළ යුතු ආකාරය පිළිබඳව මැතිවරණ කොමිසම විසින් දන්වා එවන බවත් මේ අනුව අදාළ මුද්‍රණ කටයුතු සිදුකරන බවත් දැනට සිදුකර තිබෙන මුද්‍රණ කටයුතු සඳහා රජයෙන් මුදල් ලබා දී තිබෙන බවද ‘අද’ කළ විමසීමකදී පවසා සිටියාය.
+🟩
+
+The government princes Ganani Liyanage said that the preliminary printing of the presidential election has already begun.
+
+Today, the Elections Commission has asked the Elections Commission about how the ballot papers should be printed under the size of candidates.
 
 ◼️
 
 [Data](articles/023c8f1a.json)
+
+[Extended Data](ext_articles/023c8f1a.ext.json)
 
 ---
 
@@ -2173,79 +2257,5 @@ Accordingly, the election period has already begun to heat up.The electoral fiel
 [Data](articles/1c41800c.json)
 
 [Extended Data](ext_articles/1c41800c.ext.json)
-
----
-
-### Sri Lanka moves up in ICC Men’s ODI rankings
-
-*2024-08-11 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101153/sri-lanka-moves-up-in-icc-mens-odi-rankings) · `en`
-
-Sri Lanka men’s cricket team has moved up in the ICC Men’s ODI team rankings while several players have also made notable progress in the ICC ODI rankings following their impressive series win over India for the first time in 27 years.
-
-Accordingly, the lions have climbed up one spot in the Men’s ODI team rankings to place 6th among the best teams of the world.
-
-Meanwhile, Sri Lankan spinner Dunith Wellalage’s career-best figures, after he wrapped up the Indian innings with 5-27, has helped the 21-year-old climb up five spots to 76th position in ICC Men’s ODI bowling rankings.
-
-Sri Lanka’s Janith Liyanage has also made a notable gain moving up 10 spots among the batters after his performance against India at the R. Premadasa Stadium in Colombo.
-
-Avishka Fernando, who struck 96 - the highest individual score of the ODI series against India, has made him progress nine spots in the ICC Men’s ODI batting rankings.
-
-◼️
-
-[Data](articles/c46162c4.json)
-
-[Extended Data](ext_articles/c46162c4.ext.json)
-
----
-
-### South African queen of South Africa to a deaf hospital
-
-*2024-08-11 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199823) · `si`
-
-Mia Le Roux, a deaf young girl from South Africa, made history as the first deaf individual to be crowned a queen. Despite being diagnosed with auditory weakness at 28, she received a hearing aid and learned to speak within two years. Now, she excels as a model and trader, proving that limitations are not boundaries.
-
-🟩
-
-The Queen of South Africa won a deaf young girl named Mia Le Roux.
-
-The first deaf young girl, who was crowned, joined the Mia's record book.
-
-The 28-year-old man who was 28-year-old was diagnosed with auditory weakness.
-
-It is said that a hearing device is installed to facilitate her noise.
-
-She said about two years to play his speech.
-
-Mia is now a model and as a trading manager, "I know that I have sent me the limits ..." I did it tonight ... ".
-
-◼️
-
-[Data](articles/ebc7d42b.json)
-
-[Extended Data](ext_articles/ebc7d42b.ext.json)
-
----
-
-### 16 dengue deaths reported this year
-
-*2024-08-11 17:01:21* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-වසරේ-ගෙවී-ගිය-කාලය-තුළ-ඩෙංගු-මරණ-16ක්-වාර්තා-වෙයි/11-411305) · `si`
-
-This year, there have been 16 dengue-related deaths, with a total of 2,000 fatalities attributed to the disease. Since the beginning of the year, 34,053 dengue patients have been reported, including 14 deaths on January 1st. In June, there were 4,319 cases, May saw 2,647, and April had 10,417. The health sector warns of a widespread outbreak in 21 areas, with 1,308 new cases reported since the 10th of this month alone.
-
-🟩
-
-Two dengue patients were killed in two days, with two thousand deaths due to dengue.
-
-1308 dengue patients have been reported from the 10th of this month from the month of this month.. According to the health sector, 34053 dengue patients have been reported from 1st January this year.
-
-Fourteen deaths have been reported on January 01 this year. With two dengue deaths in the past two days, two dengue deaths have risen to 16.
-
-4319 dengue patients in June, 2647 cases were reported in May and 10417 patients in April and 10417 patients in May. Health sector points out that the dengue medical officer's divisional areas will be widespread in 21 areas.
-
-◼️
-
-[Data](articles/818c31eb.json)
-
-[Extended Data](ext_articles/818c31eb.ext.json)
 
 ---

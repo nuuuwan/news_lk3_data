@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 19:22:09**
+As of **2024-08-12 19:37:23**
 
 ## Newspaper Stats
 
-*Scraped **40,335** Articles*
+*Scraped **40,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,593
 adalk | 3,705
 adaderanalk | 4,701
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,115
+tamilmirrorlk | 5,116
 virakesarilk | 6,385
 adaderanasinhalalk | 6,861
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,329 (100.0%) of 40,335 articles have been extended.
+40,335 (100.0%) of 40,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,45 @@ The Election Commission of Sri Lanka had issued a Gazette on July 26 declaring t
 
 [Data](articles/c1a21f1e.json)
 
+[Extended Data](ext_articles/c1a21f1e.ext.json)
+
 ---
 
-### இலங்கை - இந்திய கப்பல் சேவை மீண்டும் தாமதம்
+### கட்டுப்பணம் செலுத்தினார் அரியநேத்திரன்
+
+*2024-08-12 19:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-அரியநேத்திரன்/175-342045) · `ta`
+
+ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளராக போட்டியிடவுள்ள பா.அரியநேத்திரன் இன்றைய தினம் (12) மாலை கட்டுப்பணம் செலுத்தினார்.
+
+பா.அரியநேத்திரன் சார்பில் தமிழ்த் தேசிய பொதுக் கட்டமைப்பில் அங்கம் வகிக்கும் தமிழ் மக்கள் கூட்டணியின் மத்தியக் குழு உறுப்பினர் த.சிற்பரன் தேர்தல்கள் ஆணைக்குழுவில் கட்டுப்பணம் செலுத்தியதாகத் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/19a6add0.json)
+
+---
+
+### Sri Lanka - Indian shipping service again delayed
 
 *2024-08-12 19:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-மீண்டும்-தாமதம்/175-342044) · `ta`
 
-தமிழகத்தில் இருந்து இலங்கைக்கு முன்னெடுக்கப்படவிருந்த பயணிகள் கப்பல் சேவை மீண்டும் தாமதமடைந்துள்ளாக தெரிவிக்கப்படுகிறது.
+Passenger shipping from Tamil Nadu to Sri Lanka, specifically the 'Sivaganga' service from Nagapattinam to Kankesanthurai, has been indefinitely delayed due to technical issues and bad weather since its scheduled start on the 16th of this month.
 
-எதிர்வரும் 16ஆம் திகதி முதல் நாகப்பட்டினத்தில் இருந்து காங்கேசன்துறைக்கு குறித்த பயணிகள் கப்பல் சேவை மீண்டும் இயக்கப்படும் என அறிவிக்கப்பட்டிருந்தது.
+🟩
 
-எனினும், குறித்த கப்பல் சேவையில் ஆசன முன்பதிவுகளை மேற்கொள்வதற்காக அறிமுகப்படுத்தப்பட்டுள்ள இணையத்தளத்தில் கப்பல் சேவை காலவரையறை இன்றி தாமதமடைந்துள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+Passenger shipping service to Sri Lanka from Tamil Nadu has been delayed.
 
-தொழில்நுட்ப கோளாறு மற்றும் சீரற்ற காலநிலை என்பவற்றின் காரணமாக 'சிவகங்கை' கப்பல் சேவை தாமதமடைந்துள்ளதாக அந்த இணையத்தளத்தில் தெரிவிக்கப்பட்டுள்ளது. R
+From the 16th of this month, it has been announced that the passenger ship from Nagapattinam to Kankesanthurai will be operated.
+
+However, the shipping service has been delayed indefinitely on the website introduced to carry out seat bookings on the shipping service.
+
+The 'Sivaganga' shipping service has been delayed due to technical disorder and inclement weather.. Remble
 
 ◼️
 
 [Data](articles/6ef9d8aa.json)
+
+[Extended Data](ext_articles/6ef9d8aa.ext.json)
 
 ---
 
@@ -92,21 +114,31 @@ One of the 01 political parties and 15 independent candidates have deposited bai
 
 ---
 
-### மாணவி கூட்டு வன்புணர்வு:  பெண் உட்பட 21 மாணவர்களுக்கும் விளக்கமறியல் உத்தரவு
+### Student Joint Violence: Explanation order for 21 students including girl
 
 *2024-08-12 18:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-கூட்டு-வன்புணர்வு-பெண்-உட்பட-21-மாணவர்களுக்கும்-விளக்கமறியல்-உத்தரவு/175-342043) · `ta`
 
-தரம் 11 இல் கல்வி கற்கும் மாணவி ஒருவர் பலமுறை பாலியல் துஷ்பிரயோகத்துக்கு உள்ளான சம்பவம் தொடர்பில் 21 மாணவர்களும் பெண் ஒருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.  சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட அவர்கள், வெல்லவாய மாவட்ட நீதவான் முன்னிலையில் திங்கட்கிழமை (12) ஆஜர்படுத்தப்பட்டனர். அவர்களை எதிர்வரும் 22 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+Twenty-one students and a woman were arrested for the sexual abuse of a 16-year-old female student from Tanamalwila, Moneragala. The victim, who had a crush on another student, was lured to a house where she was assaulted multiple times over a year, with incidents recorded on video. The school administration attempted to conceal the incident. The suspects will face charges at the Wellawaya Magistrate's Court, and the victim is undergoing medical treatment.
 
-மொனராகலை, தனமல்வில பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் 11 ஆம் வகுப்பில் கல்வி கற்கும் 16 வயதுடைய மாணவியொருவரே இவ்வாறு பாலியல் துஷ்பிரயோகத்துக்கு உள்ளாகியுள்ளார்.
+🟩
 
-இந்த  மாணவி தனது பாடசாலையில் கல்வி கற்கும் மாணவரொருவருடன் காதல் உறவில் ஈடுபட்டுள்ள நிலையில் அந்த மாணவன் இந்த மாணவியை ஏமாற்றி மற்றுமொரு மாணவனின் வீட்டிற்கு அழைத்துச் சென்றுள்ளார்.
+Police said 21 students and a woman have been arrested in connection with the incident of sexual abuse of a student in Grade 11..  சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட அவர்கள், வெல்லவாய மாவட்ட நீதவான் முன்னிலையில் திங்கட்கிழமை (12) ஆஜர்படுத்தப்பட்டனர். The magistrate ordered them to be remanded until the 22nd of this month.
 
-இதன்போது, இந்த வீட்டிலிருந்த மாணவர்கள் சிலர் இந்த மாணவிக்கு மதுபானத்தை அருந்தக் கொடுத்து மாணவியை பாலியல் துஷ்பிரயோகம் செய்துள்ளதோடு அதனைக் காணொளிகளாக பதிவு செய்துள்ளனர்.
+A 16 -year -old student who is studying in 11th grade at a school in Tanamalwila, Moneragala has been sexually abused.
+
+The student has been in love with a student in her school and has taken the student to another student's house.
+
+In the meantime, some of the students in the house have been sexually abused by the student to drink alcohol and recorded it as videos.
+
+Since then, the students have been sexually abused 7 times for about a year, threatening the student by showing videos.
+
+The school's principal and the disciplinary committee have been informed about the incident and they have tried to cover up the name of the school.
 
 ...
 
 [Data](articles/fda98098.json)
+
+[Extended Data](ext_articles/fda98098.ext.json)
 
 ---
 
@@ -166,19 +198,25 @@ The incident has been revealed to the disciplinary committee, including the Prin
 
 ---
 
-### கரணமடித்தார் ’சொக்க மல்லி’
+### Carmany Malli
 
 *2024-08-12 18:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரணமடித்தார்-சொக்க-மல்லி/175-342042) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க முன்வந்த இரத்தினபுரி மாவட்ட பாராளுமன்ற உறுப்பினரும் துறைமுக இராஜாங்க அமைச்சருமான பிரேமலால் ஜயசேகர ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இணைய தீர்மானித்துள்ளார்.
+Premalal Jayasekara, Ratnapura District Parliamentarian and Port State Minister, joins Sri Lanka PA, supporting its candidate Namal Rajapaksa. The move was announced at a special media briefing set for tomorrow morning at the party's headquarters.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைமையகத்தில் நாளை (13) காலை நடைபெறும் விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு மீண்டும் கட்சியில் இணைந்து கொள்ளவுள்ளார்.
+🟩
 
-'சொக்க மல்லி' என்றழைக்கப்படும் பிரேமலால் ஜயசேகர, ஸ்ரீ லங்கா ​பொதுஜன பெரமுனவின் வேட்பாளர் நாமல் ராஜபக்சவை ஆதரிப்பதாக, அவரது பேச்சாளர்   தெரிவித்தார்.
+Ratnapura District Parliamentarian and Port State Minister Premalal Jayasekara has decided to join the Sri Lanka PA.
+
+He will join the party at a special media briefing at the headquarters of the Sri Lanka PA's Peramuna tomorrow morning.
+
+His spokesman said that Premalal Jayasekara, known as 'Sokka Malli', supports Namal Rajapaksa, the candidate of the Sri Lanka PA, is supported by the Sri Lanka PA.
 
 ◼️
 
 [Data](articles/8bef2e19.json)
+
+[Extended Data](ext_articles/8bef2e19.ext.json)
 
 ---
 
@@ -352,21 +390,27 @@ The man who had gone to the shopping for purchasing for purchasing, the crowd ha
 
 ---
 
-### මන්ත්‍රී වඩිවේල්ගේ සහාය ජනපතිට
+### President visits MP Vadiwale
 
 *2024-08-12 16:49:27* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වඩිවේල්ගේ-සහාය-ජනපතිට/11-411327) · `si`
 
-එළඹෙන ජනාධිපතිවරණයේ දී ලංකා ජාතික වතු කම්කරු සංගමයේ සහය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව එම පක්ෂයේ මහ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී වඩිවෙල් සුරේෂ් මහතා අද (12දා)  පැවසීය.
+President Ranil Wickremesinghe supports the General Secretary of the National Estate Workers Union for the upcoming presidential election. The President addressed issues like estate workers' salaries, housing, and teacher assistants during his visit to MP Vadiwale in Colombo.
 
-වතු කම්කරු ජනතාව ලක්ෂ 17 ක් සමඟ තමන් එම තීරණය ගත් බවද “එක්ව ජයගමු” මාධ්‍ය හමුවට කොළඹදී එක් වෙමින් මන්ත්‍රීවරයා මේ බව සදහන් කළේය.
+🟩
 
-තමන් ඇතුළු ලංකා ජාතික වතුකම්කරු සංගමයේ දේශපාලන මණ්ඩලය රැස්ව මේ ගැන අවශ්‍ය තීන්දු තීරණ ගත් බවත් නිල වශයෙන් එය ප්‍රකාශ කිරීම තවදුරටත් කල් දැමීමට සිටියත් ජනාධිපතිවරයා අන් කිසිදු රාජ්‍ය නායකයෙක් ලබා නුදුන් සහන රාශියක් වතු කම්කරු ජනතාව වෙත ලබා දුන් නිසා ජනාධිපතිවරයා සහය දීමේ තීරණය ඉක්මනින්ම දැනුම් දීමට කටයුතු කළ බවද මන්ත්‍රීවරයා කියා සිටියේය.
+The General Secretary General of the National Estate Workers Union (Ceylon) will be supported by President Ranil Wickremesinghe in the coming presidential election.
 
-වතු කම්කරු වැටුප්, නිවාස සහ ගුරු සහායක ඇතුළු රැකියා ලබා දෙමින් වතුකරයේ ජනතාවගේ ගැටළු විශාල ප්‍රමාණයක් විසඳීමට ජනාධිපතිවරයාට හැකි වූ බවද වඩිවෙල් සුරේෂ් මන්ත්‍රීවරයා වැඩි දුරටත් කියා සිටියා.
+The MP was speaking at the Jayamanamu journalism in Colombo.
+
+Although the political ownership of the Ceylon Electricity Association (NGOs) were held in the meeting, the President was officially deferred to the public to inform the president so quickly informing the public.He said that he said.
+
+The President added that the President was able to solve a large number of problems of the plantation people, including estate workers' salaries, housing and teacher assistants.
 
 ◼️
 
 [Data](articles/6012496c.json)
+
+[Extended Data](ext_articles/6012496c.ext.json)
 
 ---
 
@@ -2225,29 +2269,5 @@ Speaking on the occasion, he said, 'All the people of the state should be safe w
 [Data](articles/ffb33ead.json)
 
 [Extended Data](ext_articles/ffb33ead.ext.json)
-
----
-
-### Sri Lanka’s HNB to raise upto Rs12bn in debenture issue
-
-*2024-08-12 10:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-to-raise-upto-rs12bn-in-debenture-issue-176357/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hatton National Bank Plc is planning to raise up to 12 billion rupees in a debenture issue, the top-tier bank said.
-
-The Basel III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion feature will be offered at 100 rupees each.
-
-Initially 80 million of the 5-year (2024/2029) 7-year(2024/2031) and 10-year (2024/34) debentures will be issued.
-
-A further 40 million will be issued if the first tranche is oversubscribed, the bank said in a stock exchange filing.
-
-The Colombo Stock Exchange has approved the listing in principle.
-
-NDB Investment Bank Limited and Acuity Partners (Private) Limited are the joint managers of the debenture issue.
-
-◼️
-
-[Data](articles/bd0e13ad.json)
-
-[Extended Data](ext_articles/bd0e13ad.ext.json)
 
 ---

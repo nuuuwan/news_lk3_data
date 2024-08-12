@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 07:31:38**
+As of **2024-08-12 07:54:04**
 
 ## Newspaper Stats
 
-*Scraped **40,186** Articles*
+*Scraped **40,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ dbsjeyarajcom | 345
 newsfirstlk | 363
 bbccomsinhala | 375
 colombotelegraphcom | 381
-islandlk | 2,318
+islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
-adalk | 3,685
+adalk | 3,686
 adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,081
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,833
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,185 (100.0%) of 40,186 articles have been extended.
+40,186 (100.0%) of 40,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,19 +182,25 @@ After World War II, the next two years, the bitter quarrel that proved war -rela
 
 ---
 
-### 3 கோடி இந்திய முட்டைகள் இறக்குமதி
+### 3 crore Indian eggs imported
 
 *2024-08-12 01:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கோடி-இந்திய-முட்டைகள்-இறக்குமதி/175-341994) · `ta`
 
-3 கோடி இந்திய முட்டைகள் முதல் தொகுதி இம்மாதம் இறக்குமதி செய்யப்படும் என இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+Sri Lanka is importing 3 crore Indian eggs this month due to high local prices, exceeding 50 rupees per egg. The procurement process is ongoing under the Sri Lanka State Trade Multipurpose Corporation.
 
-இவ்வருடம் முட்டை இறக்குமதி செய்வது தொடர்பான கொள்முதல் நடவடிக்கைகள் தற்போது இடம்பெற்று வருவதாக இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனத்தின் தலைவர் ஆசிறி வலிசுந்தர தெரிவித்துள்ளார்.
+🟩
 
-உள்ளூர் சந்தையில் ஒரு முட்டை 50 ரூபாவுக்கு மேல் விற்பனையாகி வருவதால் மீண்டும் முட்டை இறக்குமதி செய்யப்பட்டுள்ளது. (a)
+The first block of 3 crore Indian eggs will be imported this month, the Sri Lanka State Trade Multipurpose Corporation said.
+
+The procurement process on the importation of eggs this year is currently underway, said Asiri Valasundara, president of the Sri Lanka State Trade Multipurpose Corporation.
+
+Eggs have been imported again as one egg in the local market is being sold for over 50 rupees. (A)
 
 ◼️
 
 [Data](articles/354c72ee.json)
+
+[Extended Data](ext_articles/354c72ee.ext.json)
 
 ---
 
@@ -710,6 +716,60 @@ Sammu Asan, who was so relaxed with a lot of success, did not lose the game with
 
 ---
 
+### St. Joseph Hospital Negombo announces free daily OPD clinic
+
+*2024-08-11 22:02:00* · [`islandlk`](http://island.lk/st-joseph-hospital-negombo-announces-free-daily-opd-clinic/) · `en`
+
+St. Joseph Hospital in Negombo dedicated to providing accessible and high-quality medical services to the community in the area, has announced a daily OPD service for free.
+
+The service is available from 7am to 12 pm, the first of its kind in Sri Lanka.
+
+The hospital is affiliated with the esteemed Kids & Teens Medical Group and St. Gianna Medical Group in Los Angeles, USA, the largest paediatric group in California.
+
+At the helm of this partnership are Sunil De Silva, the CEO/CFO of St. Joseph Hospital and Kids & Teens Medical Group, and his wife, Dr. Janesri De Silva, the medical director for both institutions.
+
+With over 22 years of experience in paediatric, Dr. Janesri De Silva brings a wealth of knowledge and a nurturing touch to our care. This collaboration allows the Hospital to bring world-class paediatric care to Sri Lanka.
+
+The Hospital is planning to have more than 50 rooms including luxurious suites to provide comfort and privacy for its patients.
+
+...
+
+[Data](articles/a49a8f79.json)
+
+---
+
+### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
+
+*2024-08-11 21:58:00* · [`islandlk`](http://island.lk/aia-sri-lanka-becomes-first-ever-sri-lankan-award-winner-at-hashtag-asia-awards/) · `en`
+
+AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Awards 2024. The company’s long standing lifesaving project the “Poson Safety Programme” campaign not only secured a coveted finalist spot in the highly competitive “Best Integrated Social Media Campaign” category, but also emerged victorious as the Silver winner in the “Best Social Media Campaign: Facebook” category. This remarkable accomplishment marks the first time a Sri Lankan brand has reached the finalist stage and secured an award at the Hashtag Asia Awards, solidifying AIA Sri Lanka’s position as a leader in innovative social media marketing within the region.
+
+...
+
+[Data](articles/70b0934c.json)
+
+---
+
+### Flying insect light trap introduced to SL market
+
+*2024-08-11 21:56:00* · [`islandlk`](http://island.lk/flying-insect-light-trap-introduced-to-sl-market/) · `en`
+
+Exterminators PLC has introduced the Practika LED insect light trap to the local market in collaboration with Pelsis-UK Limited and Sentario UK Limited.
+
+Practika LED is an easy-to-service, effective LED insect light trap, ideal for food preparation, commercial kitchens, food production, supermarkets, and similar locations. Practika LED advanced UV LED technology delivers lower running costs, high efficacy, and sustainable insect monitoring.
+
+The design of the Practika LED insect light trap allows for easy and quick servicing, with a swing-open front guard that holds in place for convenience. The trap also features an aluminium construction for better UV light reflection and lightweight materials for easy handling and transportation.
+
+HNB FINANCE unveils three new gold loan units in Beliatta, Kurunegala and Kuliyapitiya
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/bc717f89.json)
+
+---
+
 ### The Reality Of The Economic Crisis
 
 *2024-08-11 21:52:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-reality-of-the-economic-crisis/) · `en`
@@ -721,6 +781,40 @@ There is still a significant misunderstanding among many people regarding the tr
 [Data](articles/a17bff10.json)
 
 [Extended Data](ext_articles/a17bff10.ext.json)
+
+---
+
+### HNB FINANCE unveils three new gold loan units in Beliatta, Kurunegala and Kuliyapitiya
+
+*2024-08-11 21:52:00* · [`islandlk`](http://island.lk/hnb-finance-unveils-three-new-gold-loan-units-in-beliatta-kurunegala-and-kuliyapitiya/) · `en`
+
+HNB FINANCE PLC recently announced three new Gold Loan Units at its Beliatta, Kurunagala – Metro and Kuliyapitiya branches.
+
+Introduced in response to the growing demand for gold loan services, the newly dedicated Gold Loan Units were introduced at 51/1, Mathara Road, Beliatta; 155, Puttalam Road, Kurunagala; and 355, Madampa Road, Kuliyapitiya.
+
+...
+
+[Data](articles/cf9a36ed.json)
+
+---
+
+### CSE accredited as a Great Place to Work in Sri Lanka
+
+*2024-08-11 21:46:00* · [`islandlk`](http://island.lk/cse-accredited-as-a-great-place-to-work-in-sri-lanka/) · `en`
+
+The Colombo Stock Exchange (CSE) has once again been accredited as a Great Place to Work® in Sri Lanka. This continuous recognition is a testament to the collective efforts of the CSE team in fostering a positive and inclusive work culture for their employees, who are regarded as the organization’s most valuable assets.
+
+The Great Place to Work® accreditation is recognized globally and serves as a benchmark for identifying and celebrating exceptional employee experiences within workplaces. The standard evaluation by Great Place to Work® focuses on five key areas: credibility, respect, fairness, pride, and camaraderie.
+
+AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/174e4487.json)
 
 ---
 
@@ -806,6 +900,28 @@ Thus, some of those who come forward to contest the election have to avoid those
 
 ---
 
+### Disney unveils Avatar 3’s official title and new films
+
+*2024-08-11 20:24:00* · [`islandlk`](http://island.lk/disney-unveils-avatar-3s-official-title-and-new-films/) · `en`
+
+Details of new films including the title of the third instalment of Avatar, an addition to the Star Wars franchise and a sequel to Freaky Friday have been announced at a giant Disney fan event.
+
+Filmmaker James Cameron told a 12,000-strong audience that Avatar: Fire And Ash will “not be what you expect” while US actor Jon Favreau teased a new Star Wars film titled The Mandalorian And Grogu, starring Pedro Pascal.
+
+Actors Lindsay Lohan and Jamie Lee Curtis, stars of the 2003 comedy Freaky Friday, also appeared on stage to promote Freakier Friday, which is set for 2025.
+
+The announcements were made at D23, the biennial convention for members of the official Disney fan club, in California on Friday.
+
+Avatar director Cameron made a surprise appearance alongside the film’s stars Zoe Saldana and Sam Worthington.
+
+The science fiction epic, set for release on 19 December 2025, comes after 2009’s Avatar and its sequel Avatar: The Way Of Water, which was released in 2022.
+
+...
+
+[Data](articles/f80ef15a.json)
+
+---
+
 ### Support for those who provide the Samasti -based power -sharing system in the combined Northeast;The Sinhalese people should be notified - the Tamil party
 
 *2024-08-11 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190843) · `ta`
@@ -831,6 +947,34 @@ We are also going to look at the fact that they are coming to the whole country.
 [Data](articles/5a21d8e4.json)
 
 [Extended Data](ext_articles/5a21d8e4.ext.json)
+
+---
+
+### SLT-MOBITEL Enterprise and .lk to boost micro and SME sector
+
+*2024-08-11 19:39:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-and-lk-to-boost-micro-and-sme-sector/) · `en`
+
+Supporting and digitally empowering Sri Lanka’s small and medium-sized enterprises (SMEs), SLT-MOBITEL Enterprise, has signed a Memorandum of Understanding (MoU) with LK Domain Registry. The strategic partnership aims to enhance the growth and success of Micro businesses and SMEs in the rapidly evolving digital landscape.
+
+LK Domain Registry is the sole administrator for web addresses ending in ‘.lk’ in Sri Lanka and plays a crucial role in supporting the online presence of businesses.
+
+...
+
+[Data](articles/c3b79471.json)
+
+---
+
+### ADB steps up to support accountant entrepreneur in her own venture
+
+*2024-08-11 19:38:00* · [`islandlk`](http://island.lk/adb-steps-up-to-support-accountant-entrepreneur-in-her-own-venture/) · `en`
+
+The Island Financial Review recently met with Chamini Dinusha, a risk-taking female who quit her job as an accountant and deployed her business accounting acumen into her own venture.
+
+Chamini told us that she wanted to harness her full entrepreneurship potential to make the best out of her growth mindset.
+
+...
+
+[Data](articles/0d331e93.json)
 
 ---
 
@@ -953,6 +1097,22 @@ The Navy said that the suspect would be conducted by the Wennappuwa Police about
 [Data](articles/e8b2faba.json)
 
 [Extended Data](ext_articles/e8b2faba.ext.json)
+
+---
+
+### ලාංඡන, නම් මට අදාළ නෑ - නිදහස් පාක්ෂිකයන් මා සමගයි
+
+*2024-08-11 18:23:18* · [`adalk`](https://www.ada.lk/breaking_news/ලාංඡන--නම්-මට-අදාළ-නෑ---නිදහස්-පාක්ෂිකයන්-මා-සමගයි/11-411311) · `si`
+
+ශ්‍රී ලංකා නිදහස් පාක්ෂිකයන් තමා සමග සිටින බවත්, ඒ අනුව තමාට ලාංඡන, නම් අදාළ නොවන බවත් ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+කොළඹ අද(11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+අත ලකුණු මට නෑ කියන එක ප්‍රශ්නයක් නෙවෙයි. බණ්ඩාරනායක අගමැතිවත් අතින් ඡන්දය ඉල්ලලා නෑ. 1956 ඡන්දේ දිනුවේ කරත්ත රෝදයෙන් ඉල්ලලා. චන්ද්‍රිකා මැතිණිය දිණුවේ පුටුවෙන් ඉල්ලලා. මහින්ද මහත්මයා දිණුවේ මම හදපු එක්සත් ජනතා නිදහස් සන්ධානයේ බුලතින් ඉල්ලලා. ඒ නිසා මේ ලාංඡනයයි නමයි අපිට අදාළ නෑ.
+
+◼️
+
+[Data](articles/4f938ce7.json)
 
 ---
 
@@ -2101,217 +2261,5 @@ Basil Rajapaksa said, "I am confident that many people will recover their mistak
 [Data](articles/d288708b.json)
 
 [Extended Data](ext_articles/d288708b.ext.json)
-
----
-
-### Sri Lanka President to push Rs1,700 plantation wage again
-
-*2024-08-11 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-push-rs1700-plantation-wage-again-176320/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has said he will re-convene the Wages Board to mandate a 1,700 rupees a day wage for plantations workers again, according to a speech made in Kandy, his media office said.
-
-Due to a defect in the procedure in mandating the daily wage, Court suspended its operation after planation companies went to court and the gazette was withdrawn.
-
-Plantation managers want a productivity linked wage structure like in small holder sector, to boost yields and already has a scheme in operation in many plantations which allows workers to earn different wages.
-
-President Wickremesinghe had said that 7 companies have agreed to pay the wage of 1,700 rupees a day.
-
-If necessary special laws will be brought to enforce the wage, he was quoted as saying.
-
-Government ministers have also threatened to expropriate the plantations, potentially undermining property rights and the investment environment of the country, over the wage controversy.
-
-...
-
-[Data](articles/4ca16c49.json)
-
-[Extended Data](ext_articles/4ca16c49.ext.json)
-
----
-
-### Good and bad…!
-
-*2024-08-11 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/190801) · `ta`
-
-Due to support from anti-democratic groups, actions against certain individuals were hindered. However, post-Arakal struggle, dynamics changed, leading to the burning of Rajapaksa brothers' homes and forcing Mahinda and his family into hiding. His supporters faced public scrutiny, and key figures like Keheliya Rambukwella faced legal challenges, despite Mahinda's concerns about their impact on his son's political career.
-
-🟩
-
-They were also unable to take action against them because they were supported by some anti -democratic activities. But after the Arakal struggle, everything is upside down. The houses of the Rajapaksa brothers were also burned. Mahinda was also forced to do so with his family. For a long time, Mahinda Believers were unable to head in public. Keheliya Rambukwella, who is his propaganda artillery in Mahinda's government, is now in the detriment of the bail demand.. Even though Mahinda thought that such people would be a danger to his son's political future, they could not be avoided.
-
-◼️
-
-[Data](articles/3c047a49.json)
-
-[Extended Data](ext_articles/3c047a49.ext.json)
-
----
-
-### Olympic Football Gold Medal in 32 years
-
-*2024-08-11 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199810) · `si`
-
-In the Paris Olympics, Spain faced France in the men's football final. Despite leading 1-0 after the first half, France equalized with two goals in the second half. The match went into extra time, where Spain emerged victorious with five more goals, securing the gold medal.
-
-🟩
-
-Spain won the Olympic Games in the Olympic Games.
-
-The host France beat the calendar as 3 to 3 in the final playground of the Paris Olympic Games.
-
-The finals of the male football tournament of the Paris Olympic Games was held between the host France and Spain.
-
-The competition was made from the outset and the first half ended the Spanish as 1 in 3 goals.
-
-France recorded two goals in the second half, accordingly, accordingly, the two goals were collected at the end of the time.
-
-The gold medal was won by winning the final in the additional 5 goals.
-
-◼️
-
-[Data](articles/b0dcc24d.json)
-
-[Extended Data](ext_articles/b0dcc24d.ext.json)
-
----
-
-### Why Doesn’t Sri Lanka Have Hundreds Of Thousands Of Solar Panels?
-
-*2024-08-11 11:43:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-doesnt-sri-lanka-have-hundreds-of-thousands-of-solar-panels/) · `en`
-
-As a country located 9- degree north of the equator, Sri Lanka is blessed with abundance of sun. Sun shines over Sri Lanka with vengeance to the point of feeling burning hot for most of the year. Yes, sun is everywhere. According to Asian Development Bank, a square meter of PV solar panel with 5.7 hours of sun can provide 4.6 KWh of power. That works out to be 807 watt-hours of solar power with a PV panel of 3 ft X 3 ft size every hour.
-
-Another report by the ADB put the potential available capacity of solar power of SL at 16 GW or 16000 MW. This is huge and free power all year. Currently Sri Lanka houses about 750 MW of solar power or a pathetic 4.6% of available solar power.
-
-Sri Lanka currently produces a total of about 5100 MW of power which 58% comes from renewable sources and the rest comes from fossil fuels. In other words, SL produce 2142 MW of power from crude and coal.
-
-...
-
-[Data](articles/bf379e61.json)
-
-[Extended Data](ext_articles/bf379e61.ext.json)
-
----
-
-### Over 50 election-related complaints within last 24 hours - EC
-
-*2024-08-11 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101145/over-50-election-related-complaints-within-last-24-hours-ec) · `en`
-
-The Election Commission says that a total of 51 complaints have been received within the past 24 hours pertaining to the 2024 Presidential Election.
-
-Among them, 25 complaints were filed with the National Election Complaint Management Centre, and 26 were reported to the District Election Complaint Management Centres.
-
-Furthermore, 320 complaints have been received so far during the period from July 31 to yesterday (10), said the Election Commission.
-
-Out of these 320 violations, 214 were directed to the National Election Complaint Management Center, and 106 were reported to District Election Complaint Management Centres.
-
-Accordingly, 317 election law violations were reported between July 31 to August 10, including one act of violence and two other election law violations.
-
-◼️
-
-[Data](articles/d6a0e156.json)
-
-[Extended Data](ext_articles/d6a0e156.ext.json)
-
----
-
-### Digambaram denies allegations of opposing wage hike for plantation workers
-
-*2024-08-11 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101144/digambaram-denies-allegations-of-opposing-wage-hike-for-plantation-workers) · `en`
-
-Nuwara Eliya District Parliamentarian of Workers’ National Front Palani Digambaram denied accusations that he opposed raising the minimum daily wages of plantation workers.
-
-Speaking at a public meeting in Hatton, Digambaram accused President Ranil Wickremesinghe and Minister Manusha Nanayakkara of misleading estate workers and spreading false propaganda.
-
-The MP’s remarks were in response to a statement made by former Minister Manusha Nanayakkara during a meeting with Kandy District Plantation Labour Unions and Youth Leaders, organized by the Ceylon Workers’ Congress on Saturday (Aug 10).
-
-Nanayakkara had alleged that Digambaram had acted against the interests of estate workers by opposing wage increases.
-
-◼️
-
-[Data](articles/ceedb620.json)
-
-[Extended Data](ext_articles/ceedb620.ext.json)
-
----
-
-### Sajith's support Sudarsini Fernandopulle
-
-*2024-08-11 11:25:48* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-සහය-පලකරන්න-සුදර්ශිනී-ප්‍රනාන්‍දුපුල්ලේ-එක්වෙයි/11-411300) · `si`
-
-Dr. Sudarsini Fernandopulle, Gampaha District MP, announced at a press conference in Colombo that Sajith Premadasa endorsed him in the presidential election.
-
-🟩
-
-Ms. Sudarshini Fernandopulle, Gampaha District MP Dr. Sudarsini Fernandopulle, said that Sajith Premadasa supported Sajith Premadasa in the presidential election.
-
-She was speaking at a press conference held in Colombo this morning (11)
-
-◼️
-
-[Data](articles/81e687e6.json)
-
-[Extended Data](ext_articles/81e687e6.ext.json)
-
----
-
-### Sanath Jayasuriya's request before England went to England
-
-*2024-08-11 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199809) · `si`
-
-National Teaching Coach Sanath Jayasuriya expressed confidence in Sri Lanka's cricket team ahead of their series against England. He highlighted the importance of player support and shared his optimism for the tournament's outcome, marking it as his final assignment as a temporary coach. The series includes three Tests, starting in Manchester on August 21, Lords on August 29, and concluding at the London Oval on September 6.
-
-🟩
-
-The National Teaching Coach Sanath Jayasuriya says he believes that all the players of Sri Lanka will do their best in the cricket tournament against England.
-
-He said that before the Sri Lankan players were departed today (11), England would comment to the media in front of SLC.
-
-Jayasuriya demanded that Jayasuriya was asked to support cricketers.
-
-He said that as a temporary coach, the England tournament was his last visit and his hope for the best end of the tournament.
-
-"I haven't thought about it yet. I have only given this tournament. "
-
-For this Test series 18, a reserve was named after 18 players.
-
-Seven players have gone for pre-training.
-
-Leader Dhananjaya De Silva, Dhanan Karunaratne, Angelo Mathews, Kasun Rajitha were reported to go to England.
-
-Three Tests will be held between Sri Lanka and England.
-
-The first match will be opened in Manchester on August 21 and begins in the Lord's Stadium on August 29.
-
-The third and last Test match will begin on September 6 at the London Oval Stadium.
-
-◼️
-
-[Data](articles/d2946797.json)
-
-[Extended Data](ext_articles/d2946797.ext.json)
-
----
-
-### Freedom Party's 'United Front' Ranil
-
-*2024-08-11 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/190790) · `ta`
-
-An MoU between UPFA leaders and a new political alliance, led by Anura Priyadarshana Yapa and Nimal Lansa, will be signed, supporting Ranil Wickremesinghe for president. This includes the PA, Tamil, and Muslim parties. Key figures like Nasir Hamad, Khadar Mastan, and several MPs attended a meeting at the Ramada Hotel.
-
-🟩
-
-A Memorandum of Understanding (MoU) between the leadership of the Sri Lanka Freedom Party (UPFA) and the new political alliance led by parliamentarian Anura Priyadarshana Yapa and Nimal Lansa will be signed on Wednesday 14th.. The coalition has decided to support Ranil Wickremesinghe in the presidential election.
-
-The General Secretary of the PA, Lasantha Alagiyavanna, confirmed that the 'PA' will contest the 'PA' in the 2024 presidential election and will support Ranil Wickremesinghe in the coming presidential election.
-
-Moreover, the Tamil and Muslim parties will join this alliance. A special meeting was held at the Ramada Hotel last Friday night.
-
-Former Minister Nasir Hamad, State Minister Khadar Mastan, Puttalam District Parliamentarian Ali Sabri Rahim, Anuradhapura District Parliamentarian Ishaq Rahman, Ampara District Parliamentarian SMM. Musharraf and many others were present, including former parliamentarian Islam.
-
-...
-
-[Data](articles/dacc6e84.json)
-
-[Extended Data](ext_articles/dacc6e84.ext.json)
 
 ---

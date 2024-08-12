@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 04:36:32**
+As of **2024-08-13 04:55:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,377 (100.0%) of 40,379 articles have been extended.
+40,379 (100.0%) of 40,379 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,43 +168,57 @@ Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML
 
 ---
 
-### இலஞ்சம் வழங்குவதாக குற்றச்சாட்டு
+### Accusing of bribery
 
 *2024-08-13 01:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்குவதாக-குற்றச்சாட்டு/175-342065) · `ta`
 
-வாக்குகளை பெறுவதற்காக அரசியல் பிரதிநிதிகள் சிலர் மக்களுக்கு இலஞ்சம் வழங்குவதாக தேர்தல் கண்காணிப்பாளர்கள் குற்றஞ்சுமத்துகின்றனர்.
+Election monitors report widespread bribery accusations ahead of the presidential vote, with complaints of power abuse and distribution of goods like plastic plates, poultry, and school supplies. The People's Activities Movement has logged 84 complaints, while the Democratic Reform and Election Monitoring Organization reports 44 violations of election laws. Additionally, there have been nine complaints about violence and 320 activities violating election laws, with 103 reported at the District Election Complaint Management Center and 214 at the National level.
 
-ஜனாதிபதித் தேர்தல் தொடர்பில் 84 முறைப்பாடுகள் இதுவரை பதிவாகியுள்ளதாக சுதந்திரமானதும் நீதியானதுமான தேர்தலுக்கான மக்கள் செயற்பாடு இயக்கம் (பெப்ரல்) அமைப்பு தெரிவித்துள்ளது.
+🟩
 
-அவற்றில் பெரும்பாலானவை அதிகாரம் மற்றும் சொத்துகளை முறைகேடாக பயன்படுத்திய குற்றச்சாட்டுக்களென பெப்ரல் அமைப்பின் நிறைவேற்று அதிகாரி ரோஹன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+Election monitors accuse some political representatives of bribing some people to get votes.
 
-பொருளாதார நெருக்கடி நிலவும் இந்தக் காலக்கட்டத்திலும் பிளாஸ்ட்டிக் கதிரைகள், கோழிக்குஞ்சுகள் , பாடசாலை உபகரணங்கள் மக்களுக்கு வழங்கப்படுவதாக அவர் சுட்டிக்காட்டினார்.
+The People's Activities Movement for the Independent and fair election (February) said that 84 complaints have been reported so far regarding the presidential election.
 
-தேர்தலை நோக்காகக் கொண்டு நாடளாவிய ரீதியில் இந்த செயற்பாடுகள் முன்னெடுக்கப்பட்டு வருவதாகவும் இது குறித்து மக்கள் விழிப்புடன் செயற்பட வேண்டும் எனவும் ரோஹன ஹெட்டியாராச்சி வலியுறுத்தியுள்ளார்.
+Most of them are allegations of abusing power and assets, said Rohana Hettiarachchi, Executive Officer of the February.
+
+He pointed out that plastic rays, poultry and school equipment are being provided to the people during this period of economic crisis.
+
+Rohana Hettiarachchi has urged that these activities are being carried out across the country with the aim of the election and that the people should be vigilant.
+
+Meanwhile, the Executive Director of the Democratic Reform and Election Monitoring Organization, Manjula Gajanayake has stated that 44 complaints have been received so far in violation of election laws.
 
 ...
 
 [Data](articles/86fd3270.json)
 
+[Extended Data](ext_articles/86fd3270.ext.json)
+
 ---
 
-### 3 வருடங்களுக்கு வாய் திறக்க கூடாது
+### Do not open the mouth for 3 years
 
 *2024-08-13 01:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வருடங்களுக்கு-வாய்-திறக்க-கூடாது/175-342064) · `ta`
 
-தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது. கம்பனிகளும் தங்களது 5 கோரிக்கைகளை முன்வைத்தன.
+At a plantation workers' council meeting, it was decided not to strike for wage hikes for three years. The demands included paying 50 rupees per kg for fat, reducing the additional allowance from 700 to 350 rupees, and a heated debate resulted in a vote favoring the latter.
 
-“தோட்டத் தொழிலாளர்கள் சம்பள உயர்வை கேட்டு 03 வருடங்களுக்கு போராட்டமோ அல்லது வேறு எந்த நடவடிக்கையையோ முன்னெடுக்கக் கூடாது.” என்பது முதலாவது கோரிக்கையாகும்.
+🟩
 
-“ஒரு கிலோ கிராம் கொழுந்துக்கு 50 ரூபாய் கொடுக்கப்படும்.” என்பது இரண்டாவது கோரிக்கையாகும்.
+A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council. Companies also made their 5 demands.
 
-”மேலதிக கொடுப்பனவு 350 ரூபாவாகும். ஆகவே, அந்த 350 ரூபாவுக்கான கொழுந்தை மாத்திரம் தான் பறிக்க வேண்டும்” என்பது மூன்றாவது கோரிக்கையாகும்.
+“Plantation workers should not carry out a struggle or any other action for three years asking for a pay hike.”The first is the demand.
 
-இதுகுறித்து காரசாரமான வாதவிவாதங்கள் நடைபெற்றன. 1,350 ரூபாவுக்கு ஆதரவாக 11 பேரும் எதிராக 03 பேரும் வாக்களிக்கப்பட்டது.
+“One kilogram of fat will be paid 50 rupees.”Is the second demand.
+
+“The additional allowance is 350 rupees. Therefore, only the 350 rupees should be taken away. ”
+
+There were serious arguments on this. 11 people were voted in favor of 1,350 rupees.
 
 ◼️
 
 [Data](articles/662d2d03.json)
+
+[Extended Data](ext_articles/662d2d03.ext.json)
 
 ---
 

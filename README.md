@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 03:21:04**
+As of **2024-08-13 03:36:32**
 
 ## Newspaper Stats
 
-*Scraped **40,375** Articles*
+*Scraped **40,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,604
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,123
+tamilmirrorlk | 5,124
 virakesarilk | 6,394
 adaderanasinhalalk | 6,864
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,375 (100.0%) of 40,375 articles have been extended.
+40,375 (100.0%) of 40,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -165,6 +165,26 @@ Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML
 [Data](articles/051f6d34.json)
 
 [Extended Data](ext_articles/051f6d34.ext.json)
+
+---
+
+### கம்பனிகளின் கோரிக்கை
+
+*2024-08-13 01:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பனிகளின்-கோரிக்கை/175-342064) · `ta`
+
+தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது. கம்பனிகளும் தங்களது 5 கோரிக்கைகளை முன்வைத்தன.
+
+“தோட்டத் தொழிலாளர்கள் சம்பள உயர்வை கேட்டு 03 வருடங்களுக்கு போராட்டமோ அல்லது வேறு எந்த நடவடிக்கையையோ முன்னெடுக்கக் கூடாது.” என்பது முதலாவது கோரிக்கையாகும்.
+
+“ஒரு கிலோ கிராம் கொழுந்துக்கு 50 ரூபாய் கொடுக்கப்படும்.” என்பது இரண்டாவது கோரிக்கையாகும்.
+
+”மேலதிக கொடுப்பனவு 350 ரூபாவாகும். ஆகவே, அந்த 350 ரூபாவுக்கான கொழுந்தை மாத்திரம் தான் பறிக்க வேண்டும்” என்பது மூன்றாவது கோரிக்கையாகும்.
+
+இதுகுறித்து காரசாரமான வாதவிவாதங்கள் நடைபெற்றன. 1,350 ரூபாவுக்கு ஆதரவாக 11 பேரும் எதிராக 03 பேரும் வாக்களிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/efce03ac.json)
 
 ---
 
@@ -2259,25 +2279,5 @@ It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, rec
 [Data](articles/c07d1bb2.json)
 
 [Extended Data](ext_articles/c07d1bb2.ext.json)
-
----
-
-### Alizabri was sworn in as Minister of Justice
-
-*2024-08-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190882) · `ta`
-
-Ali Sabri, previously External Affairs Minister, was sworn in as the Minister of Justice, Prison Affairs, and Constitutional Reforms, replacing Vijayadasa Rajapakse who resigned. The appointment was made in the presence of President Ranil Wickremesinghe, following the release of a high-level gazette.
-
-🟩
-
-External Affairs Minister Ali Sabri was sworn in as the Minister of Justice, Prison Affairs and Constitutional Reforms in the presence of President Ranil Wickremesinghe today (12).
-
-Following the resignation of former Justice Minister Vijayadasa Rajapakse, the high -level gazette, which includes the Ministries of Justice, Prison Affairs and Constitutional Reforms under the President, was released last week.
-
-◼️
-
-[Data](articles/5f087ddd.json)
-
-[Extended Data](ext_articles/5f087ddd.ext.json)
 
 ---

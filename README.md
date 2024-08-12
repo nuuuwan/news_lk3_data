@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 03:06:07**
+As of **2024-08-13 03:21:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,374 (100.0%) of 40,375 articles have been extended.
+40,375 (100.0%) of 40,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -435,6 +435,8 @@ Sri Lanka is often described as a nation sitting on a treasure chest, surrounded
 ...
 
 [Data](articles/9af8d1ae.json)
+
+[Extended Data](ext_articles/9af8d1ae.ext.json)
 
 ---
 

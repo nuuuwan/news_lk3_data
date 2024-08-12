@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 03:36:32**
+As of **2024-08-13 03:55:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,375 (100.0%) of 40,376 articles have been extended.
+40,376 (100.0%) of 40,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,23 +168,29 @@ Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML
 
 ---
 
-### கம்பனிகளின் கோரிக்கை
+### Companies request
 
 *2024-08-13 01:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பனிகளின்-கோரிக்கை/175-342064) · `ta`
 
-தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது. கம்பனிகளும் தங்களது 5 கோரிக்கைகளை முன்வைத்தன.
+A meeting was held on Monday at the Salary Council to discuss plantation workers' demands. The companies proposed five requests, including a three-year ban on wage hikes, paying 50 rupees per kilogram of fat, and reducing the additional allowance by 350 rupees. Despite heated debates, the proposal was approved by 11 votes.
 
-“தோட்டத் தொழிலாளர்கள் சம்பள உயர்வை கேட்டு 03 வருடங்களுக்கு போராட்டமோ அல்லது வேறு எந்த நடவடிக்கையையோ முன்னெடுக்கக் கூடாது.” என்பது முதலாவது கோரிக்கையாகும்.
+🟩
 
-“ஒரு கிலோ கிராம் கொழுந்துக்கு 50 ரூபாய் கொடுக்கப்படும்.” என்பது இரண்டாவது கோரிக்கையாகும்.
+A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council. Companies also made their 5 demands.
 
-”மேலதிக கொடுப்பனவு 350 ரூபாவாகும். ஆகவே, அந்த 350 ரூபாவுக்கான கொழுந்தை மாத்திரம் தான் பறிக்க வேண்டும்” என்பது மூன்றாவது கோரிக்கையாகும்.
+“Plantation workers should not carry out a struggle or any other action for three years asking for a pay hike.”The first is the demand.
 
-இதுகுறித்து காரசாரமான வாதவிவாதங்கள் நடைபெற்றன. 1,350 ரூபாவுக்கு ஆதரவாக 11 பேரும் எதிராக 03 பேரும் வாக்களிக்கப்பட்டது.
+“One kilogram of fat will be paid 50 rupees.”Is the second demand.
+
+“The additional allowance is 350 rupees. Therefore, only the 350 rupees should be taken away. ”
+
+There were serious arguments on this. 11 people were voted in favor of 1,350 rupees.
 
 ◼️
 
 [Data](articles/efce03ac.json)
+
+[Extended Data](ext_articles/efce03ac.ext.json)
 
 ---
 

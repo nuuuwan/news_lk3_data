@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 05:21:09**
+As of **2024-08-12 05:39:20**
 
 ## Newspaper Stats
 
@@ -26,87 +26,133 @@ adaderanasinhalalk | 6,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,177 (100.0%) of 40,184 articles have been extended.
+40,182 (100.0%) of 40,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ஜனாதிபதி போட்டியில் இருந்து ஜனாதிபதி விலகிக்கொள்ள வேண்டும் - ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ
+### Presidential candidate Wijeyadasa Rajapaksa
 
 *2024-08-12 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190850) · `ta`
 
-ஜனாதிபதியின் ஆலாேசகர் ஒருவர் ஜனாதிபதி வேட்பாளராக போட்டியிடுவது சட்ட விராேதமாகும். அது தொடர்பில் ஜனாதிபதி வெட்கப்பட வேண்டும். சரியாக இருந்தால் அவர் ஜனாதிபதி போட்டியில் இருந்து விலகிக்கொள்ள வேண்டும் என தேசிய ஜனநாயக முன்னணி ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+Wijeyadasa Rajapaksa, a candidate from the National Democratic Front, criticizes the high cost and potential misuse of democracy in Sri Lanka's upcoming presidential election. He argues that the process, which requires significant financial investment and allows for numerous candidates, undermines the democratic process and the right to vote. Rajapaksa also addresses concerns about the involvement of the President's brother in the race, suggesting it could be an attempt to promote the President, which he deems illegal. Despite these criticisms, Rajapaksa asserts his position as the official leader of the Sri Lanka Freedom Party, emphasizing his popularity among party members.
 
-தேசிய ஜனநாயக முன்னணி ஞாயிற்றுக்கிழமை (11) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-இந்தமுறை ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு இதுவரை 27பேர் கட்டுப்பணம் செலுத்தி இருக்கின்றனர். இது ஜனநாயக உரிமையை துஷ்பிரயோகம் செய்யும் செயலாகும். கட்டுப்பணம் செலுத்தியுள்ள அதிகமான வேட்பாளர்களுக்கு 500வாக்குகள் கூட பெற முடியாது. வேட்பாளர்கள் அதிகரிக்கும்போது வாக்குச்சீட்டும் நீலமாகிறது. இதனால் வாக்களிக்கும்போது சாதாரண மக்கள் குழப்படையும் நிலை உருவாகிறது.
+It is legal to contest as a presidential candidate. The President should be ashamed. The National Democratic Front presidential candidate Wijeyadasa Rajapakse said he should quit the presidential competition.
+
+He was speaking at a press conference held in Colombo on Sunday (11).
+
+So far, 27 people have been controlled to contest the presidential election. This is an act of abuse democratic rights. Candidates who have been controlled cannot get 500 votes. The ballot becomes blue as the candidates increase. This creates a confrontation of ordinary people when voting.
+
+It costs 25 million rupees to get a candidate's name on the ballot. There are 27 candidates so far. If so, let's find out how much money it costs. This is a waste of people's money.
 
 ...
 
 [Data](articles/08f157d5.json)
 
+[Extended Data](ext_articles/08f157d5.ext.json)
+
 ---
 
-### மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயில் 37வது ஆண்டு ஆடிப்பூர மஹோற்சவ பெருவிழா
+### Mayurapathi Sri Patrakali Amman Temple 37th Anniversary Adipuram Mahotsava Festival
 
 *2024-08-12 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190847) · `ta`
 
-மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் கோயில் 37வது ஆண்டு ஆடிப்பூர மஹோற்சவ பெருவிழாவின் தீர்த்தோற்சவம் ஞாயிற்றுக்கிழமை (11) காலை வெள்ளவத்தை கடற்கரையில் இடம்பெற்ற போது பிடிக்கப்பட்ட படங்கள்.
+The 37th anniversary celebration of the Mayurapathi Sri Patrakali Amman Temple's Adipuram Mahotsava Festival took place on Sunday morning at Wellawatte beach, capturing memorable moments.
+
+🟩
+
+The films captured during the 37th anniversary Adipuram Mahotsavam festival of the Mayurapathi Sri Patrakali Amman Temple were held on Sunday morning (11) at the Wellawatte beach.
 
 ◼️
 
 [Data](articles/17e4ca54.json)
 
+[Extended Data](ext_articles/17e4ca54.ext.json)
+
 ---
 
-### டிஜிட்டல் முறைமையிலான சுயநிர்ணயத்தை தமிழர்களுக்கு வழங்கலாம் - பாட்டலி சம்பிக்க ரணவக்க
+### Tamils ​​can give digital self -determination - Patali Champika Ranawaka
 
 *2024-08-12 03:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190851) · `ta`
 
-பொருளாதார ரீதியில் நாடு தற்போது அடைந்துள்ள ஒப்பீட்டளவிலான முன்னேற்றத்தை சீர்குலைக்கும் வகையில் ஜனாதிபதி தேர்தலின் போது செயற்படமாட்டோம். அரச கட்டமைப்பு டிஜிட்டல் மயப்படுத்தப்பட்டால் தமிழர்களுக்கு டிஜிட்டல் முறைமை ஊடாக சுயநிர்ணயத்தை வழங்கலாம் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Patali Champika Ranawaka suggests that digitizing Sri Lanka's state structure could grant digital self-determination to Tamils. He emphasizes maintaining peace during the upcoming presidential election, highlighting the importance of addressing corruption and focusing on economic recovery. The Supreme Court's injunction on the new visa distribution system affects public defense minister Tran Ales. The statement underscores the need for transparency and accountability in governance, while also acknowledging the ongoing struggle for self-determination among Tamil communities.
 
-கொழும்பு பிலியந்தல பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற ஐக்கிய குடியரசு முன்னணியின் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தல் தீர்மானமிக்கது. பொருளாதார படுகொலையாளிகளான ராஜபக்ஷர்கள் பொருளாதார பாதிப்புக்கு தீர்வு காண்பதாக குறிப்பிடுகிறார்கள்.பொருளாதார பாதிப்புக்கு பொறுப்புக் கூற வேண்டிய ராஜபக்ஷர்களால் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியுமா என்பதை நாட்டு மக்கள் சிந்திக்க வேண்டும்.
+We will not act during the presidential election to disrupt the relative progress that the country has now achieved. Patali Champika Ranawaka, the leader and Member of Parliament, said that if the state structure is digitized, Tamils ​​can give self -determination through digital system.
+
+He was speaking at a meeting of the UNP on Sunday (11) in the Piliyandala area in Colombo.
+
+The presidential election will be held on September 21st. The Rajapaksas, the economic assassinations, refer to the solution to the economic impact.
+
+Is referred to as the abolition of corruption. The parties, who refer to the corrupt documents, have not taken any action with the evidence.
+
+We are not provoking among the people regarding corruption. We have taken appropriate measures to seek the court.
 
 ...
 
 [Data](articles/75c8f38b.json)
 
+[Extended Data](ext_articles/75c8f38b.ext.json)
+
 ---
 
-### ராஜபக்ஷர்களே நாட்டு மக்களை யாசகர்களாக்கினர் : நாமல் ராஜபக்ஷவை படுதோல்வியடைய செய்து மக்கள் தமது வெறுப்பை வெளிப்படுத்த வேண்டும் - பாட்டலி சம்பிக்க ரணவக்க
+### The Rajapaksas made the people of the country: Namal Rajapakse defeated Rajapakse and people should express their hatred - Batali Champika Ranawaka
 
 *2024-08-12 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190849) · `ta`
 
-நாமல் ராஜபக்ஷவை ஜனாதிபதி வேட்பாளராக களமிறக்கியதற்கு மஹிந்த ராஜபக்ஷவுக்கு நன்றி தெரிவித்துக் கொள்கிறேன். நாட்டை வங்குரோத்து நிலைக்கு தள்ளி ஒட்டுமொத்த மக்களையும் கையேந்த வைத்த ராஜபக்ஷ குடும்பத்துக்கு பதிலடி கொடுக்க வேண்டும். நாமல் ராஜபக்ஷவை படுதோல்வியடைய செய்து மக்கள் தமது வெறுப்பை வெளிப்படுத்த வேண்டும்.
+Batali Champika Ranawaka criticizes the Rajapaksas for the country's economic downfall, urging defeat of Namal Rajapaksa to express public discontent. He thanks Mahinda Rajapaksa for choosing Namal as the presidential candidate, highlighting the need for accountability from the Rajapaksa family. Ranawaka mentions the cancellation of the Light Rail Development Program and questions how the Rajapaksas, blamed for the economic crisis, can propose solutions. He references the Supreme Court's call for responsibility from Gotabhaya Rajapaksa, Mahinda Rajapaksa, and Basil Rajapaksa regarding the economic impact.
 
-நாட்டை வங்குரோத்துக்கு தள்ளியவர்களால் எவ்வாறு பொருளாதாரத்தை மேம்படுத்த முடியும். நாட்டு மக்கள் தெளிவாக சிந்திக்க  வேண்டும். செப்டெம்பர் 21 ராஜபக்ஷர்களுக்கு சிறந்த படிப்பினையை கற்றுக்கொடுக்கும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+🟩
 
-கொழும்பு பிலியந்தல பகுதியில் ஞாயிற்றுக்கிழமை (11) இடம்பெற்ற ஐக்கிய குடியரசு முன்னணியின் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+I thank Mahinda Rajapaksa for fielding Namal Rajapaksa as presidential candidate. The Rajapaksa family, who has put the country to the bankruptcy, should respond to the Rajapaksa family. People must express their hatred by defeating Namal Rajapaksa.
 
-நாட்டுக்கு வருமானத்தை ஈட்டிக் கொடுக்கும் சிறந்த அபிவிருத்தித் திட்டங்களை நல்லாட்சி அரசாங்கத்தில் முன்னெடுத்தோம்.நட்டமடைந்த அரச நிறுவனங்களையும் இலாபமடைய செய்து அதன் பயனை நாட்டு மக்களுக்கு பல்வேறு வழிகளில் பெற்றுக்கொடுத்தோம்.
+How can the economy improve by those who have pushed the country into bankruptcy. The people of the country should be clearly thoughtful. September 21, the Rajapaksa will teach the best lesson for the UNP leader and Member of Parliament, Patali Champika Ranawaka.
+
+He was speaking at a meeting of the UNP on Sunday (11) in the Piliyandala area in Colombo.
+
+We have launched the best development projects to earn income for the country.
+
+Gotabhaya Rajapaksa came to power in 2019 to highlight racism and religiousism. He should mention the country's mischief.
+
+If the Light Rail Development Program was not canceled by 2020, the development plan could have been completed this year.
 
 ...
 
 [Data](articles/ee501b09.json)
 
+[Extended Data](ext_articles/ee501b09.ext.json)
+
 ---
 
-### Factum Perspective: உக்ரைன் - மூலோபாய மற்றும் தொழில்நுட்ப ஹாட்ஹவுஸ்
+### Factum Perspective: Ukraine - Strategic and Technical Hothouse
 
 *2024-08-12 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190848) · `ta`
 
-பெப்ரவரி 24, 2022 அன்று உக்ரைனின் "இராணுவமயப்படுத்தலின் நீக்கத்தை" இலக்காகக் கொண்டு ரஷ்யா தனது "விசேட இராணுவ நடவடிக்கையை" (Spetsialnaya Voennaya Operatsiya - SVO) ஆரம்பித்தது. ரஷ்யப் படைகள் 2014 இல் கிறிமியாவில் மேற்கொண்டதைப் போலவே தங்களது பிரச்சாரத்தை ஆரம்பித்தன. உக்ரேனியப் படைகள் எதிர்க்கவில்லை. ரஷ்யர்கள் தாங்கள் எதிர்கொண்ட எதிர்ப்பின் அளவை எதிர்பார்க்கவில்லை என்பதற்கு ஆதாரங்கள் உள்ளன.
+It seems like you've shared a comprehensive overview of the evolution of warfare tactics and technology from World War II to the present day, focusing on the roles of armored vehicles, drones, and the strategic importance of industrial production capabilities. Your narrative touches on significant historical events, technological advancements, and geopolitical strategies that have shaped modern warfare.
 
-வடக்கில், ரஷ்யர்கள் உக்ரேனிய தலைநகரான கியிவ் அருகே அடையும் வரை நல்ல முன்னேற்றத்தை அடைந்தனர், அங்கு வான்படைத் துருப்புக்கள் அன்டோனோவ் விமான நிலையத்தை கைப்பற்ற முயன்றனர். இங்கே, வலுவான உக்ரேனிய எதிர்ப்பு அவர்களை அவர்களின் வழிகளில் நிறுத்தி, இறுதியில் அவர்களை பின்னோக்கி தள்ளியது.
 
-தெற்கில், ரஷ்யர்கள் ஆழமாக ஊடுருவி, மைக்கோலேவுக்கு வெளியே உள்ள உயர் படைகளால் தடுத்து நிறுத்தப்பட முன்னராக டினீப்பர் ஆற்றைக் கடந்து, கெர்சனைக் கைப்பற்றியதால் மரியுபோல் துறைமுகத்தை ஈரூடகப் படைகள் தாக்கின.
+
+Given the breadth and depth of the topics covered, could you please specify what particular aspect or question you would like assistance with? Whether it's analyzing specific technologies, understanding the implications of certain strategies, or exploring potential future developments, I'm here to help.
+
+🟩
+
+On February 24, 2022, Russia aims Russia's "Special Military Action" (Spetsialnaya Voennaya Operatsiya - SVO) aimed at the removal of Ukraine's "militarization". Russian forces launched their campaign as in 2014 in Crimea. Ukrainian forces do not oppose. There is evidence that the Russians did not expect the extent of the opposition they faced.
+
+In the north, the Russians made good progress until they reached the Ukrainian capital, Kiiv, where the air force tried to capture the Antonov Airport. Here, the strong Ukrainian resistance stopped them in their ways and eventually pushed them backwards.
+
+In the south, the Russian forces attacked the port of Mary, as the Russians were deeply infiltrated and crossed the Dinipper River, crossing the Dinipper River before they were stopped by high forces outside Mikola.
+
+After World War II, the next two years, the bitter quarrel that proved war -related traditional knowledge.
 
 ...
 
 [Data](articles/bd4c18dc.json)
+
+[Extended Data](ext_articles/bd4c18dc.ext.json)
 
 ---
 

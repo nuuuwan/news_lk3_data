@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 00:36:29**
+As of **2024-08-13 00:53:06**
 
 ## Newspaper Stats
 
-*Scraped **40,359** Articles*
+*Scraped **40,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 377
 colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,445
-dailyftlk | 2,593
+dailyftlk | 2,597
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
@@ -26,9 +26,41 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,359 (100.0%) of 40,359 articles have been extended.
+40,359 (100.0%) of 40,363 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-13 (Tuesday)
+
+### ACCA honours over 300 new members cultivating premier accounting talent
+
+*2024-08-13 00:15:34* · [`dailyftlk`](https://www.ft.lk/business/ACCA-honours-over-300-new-members-cultivating-premier-accounting-talent/34-765452) · `en`
+
+Member Network Panel ACCA Chairman Chaaminda Kumarasiri addressing the audience
+
+The Association of Chartered Certified Accountants (ACCA) recently held its New Member Ceremony 2024 at the Courtyard by Marriott in Colombo. The event celebrated the induction of 110 new members and 26 FCCA members present at the event, marking a significant milestone in the professional journeys of these finance professionals. This year also marks the 120th anniversary of ACCA, emphasising its longstanding commitment to fostering global finance talent.
+
+ACCA Sri Lanka Member Network Panel (MNP) Chairman Chaaminda Kumarasiri warmly welcomed and congratulated the new members on their achievements. He encouraged the new members to engage with ACCA’s activities and subcommittees, and to help “lead the accountancy profession for a changed world”.
+
+...
+
+[Data](articles/66bb4b3c.json)
+
+---
+
+### Athulla Edirisinghe honoured with Japan’s “The Order of the Rising Sun, Gold and Silver Rays”
+
+*2024-08-13 00:12:53* · [`dailyftlk`](https://www.ft.lk/business/Athulla-Edirisinghe-honoured-with-Japan-s-The-Order-of-the-Rising-Sun-Gold-and-Silver-Rays/34-765451) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki on 9 August conferred “The Order of the Rising Sun, Gold and Silver Rays” on Athulla Edirisinghe, Japan Sri Lanka Technical and Cultural Association (JASTECA) former President and the Co-Owner/Director “KUURAKU”, a Japanese restaurant in Colombo, in recognition of his outstanding contribution to promoting friendly relations and mutual understanding and cultural exchange between Japan and Sri Lanka.
+
+Ambassador Mizukoshi commended Edirisinghe for his relentless efforts in promoting Japanese-style management systems such as 5S and Kaizen in Sri Lanka. As a long-committed member of JASTECA, and particularly during his tenure as President, his unwavering dedication has greatly contributed to the widespread adoption of these practices across various industries in Sri Lanka, significantly enhancing productivity and fostering closer economic ties between our two nations.
+
+...
+
+[Data](articles/9e1c8e1d.json)
+
+---
 
 ### 2024-08-12 (Monday)
 
@@ -220,6 +252,20 @@ In the recent past, more than 450 people, including the police officers, police 
 
 ---
 
+### Sri Lanka’s make-or-break moment; the leadership Sri Lanka needs
+
+*2024-08-12 20:28:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-make-or-break-moment-the-leadership-Sri-Lanka-needs/4-765442) · `en`
+
+The leadership Sri Lanka needs for a resilient future to propel the nation forward
+
+As Sri Lanka emerges from an unprecedented economic crisis that has shaken the foundations of its society, the nation stands at a pivotal crossroads. The upcoming Presidential election on 21 September, presents an opportunity for transformative leadership capable of steering the country toward economic recovery, social equity, and sustainable development. The next president must possess not only a clear vision but also the pragmatic skills necessary to navigate the complex challenges ahead.
+
+...
+
+[Data](articles/b9934c3a.json)
+
+---
+
 ### South Africa, which ended without success after 28 successive results. Islands test
 
 *2024-08-12 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190943) · `ta`
@@ -249,6 +295,20 @@ South Africa continued to rank 26.67 percent with 16 points and the West Indies 
 [Data](articles/444e23e9.json)
 
 [Extended Data](ext_articles/444e23e9.ext.json)
+
+---
+
+### Quest for system change paralysed by our metathesiophobia
+
+*2024-08-12 20:16:35* · [`dailyftlk`](https://www.ft.lk/columns/Quest-for-system-change-paralysed-by-our-metathesiophobia/4-765439) · `en`
+
+If we are to thrive, as a nation, in this dynamic landscape, we must adopt a mindset that is not fearful of change
+
+As we prepare to vote in the 9th Executive President of Sri Lanka, let us recognise some hard truths. Sri Lanka has very little to show after 76 years of independence. Selfish, sleazy, sly, corrupt and unaccountable leaders and their Governments have, through their policies, actions, and inactions, over the past several years, led the country into various political and economic crises ranging from ethnic conflicts including a 30-year-long civil war, insurrections, constitutional uprisings, race-based riots, ‘Easter bombings’ to economic collapse, social discord and bankruptcy. Bribery and corruption pervade every nook and corner of the system. It has been the scourge of our society particularly in the past half century
+
+...
+
+[Data](articles/d5a8febb.json)
 
 ---
 
@@ -2251,87 +2311,5 @@ The Presidential Election is scheduled to be held on September 21 and Nomination
 [Data](articles/1360758a.json)
 
 [Extended Data](ext_articles/1360758a.ext.json)
-
----
-
-### Memorandum of Understanding between Plantation Political Party leaders and Opposition Leader
-
-*2024-08-12 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/190876) · `ta`
-
-The Opposition Leader and plantation party leaders signed an MoU to empower plantation communities. Key figures include Opposition Leader Sajith Premadasa, MP Mano Ganesan, Palani Thikambaram, and M. Udayakumara, who will advocate for plantation residents' rights.
-
-🟩
-
-Opposition Leader of the Opposition today (12) signed a Memorandum of Understanding (MoU) with the leaders of the plantation political party to strengthen the plantation people.
-
-The Memorandum of Understanding (MoU) signed the Member of Parliament to represent the people of the plantation, including Opposition Leader Sajith Premadasa, Member of Parliament Mano Ganesan, Palani Thikambaram and M. Udayakumara.
-
-◼️
-
-[Data](articles/73d3426a.json)
-
-[Extended Data](ext_articles/73d3426a.ext.json)
-
----
-
-### Presidential Election 2024: Ex-Sports Minister Roshan Ranasinghe places deposit
-
-*2024-08-12 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101168/presidential-election-2024-ex-sports-minister-roshan-ranasinghe-places-deposit) · `en`
-
-Bonds have been placed on behalf of former Sports Minister Roshan Ranasinghe today (12), to contest in the 2024 Presidential Election as an independent candidate.
-
-Aloka Ranasinghe, a relative of the ex-minister, has paced the cash deposit on behalf of Ranasinghe.
-
-On Sunday (11), Roshan Ranasinghe announced his presidential candidacy while addressing a function held at the Sri Lanka Foundation Institute.
-
-The Presidential Election is scheduled to be held on September 21 and Nominations will be accepted on August 15, 2024, as per a gazette extraordinary issued by the Election Commission of Sri Lanka.
-
-◼️
-
-[Data](articles/872d9ca7.json)
-
-[Extended Data](ext_articles/872d9ca7.ext.json)
-
----
-
-### Call to representatives of two parties
-
-*2024-08-12 11:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கட்சிகளின்-பிரதிநிதிகளுக்கு-அழைப்பு/175-342023) · `ta`
-
-Representatives from the United SLFP and Lanka Janata Party will meet the National Elections Commission on Monday to address concerns related to party secretaries.
-
-🟩
-
-Representatives of two political parties have been summoned to the National Elections Commission on Monday (12).
-
-The Elections Commission further stated that representatives of the United SLFP and the Lanka Janata Party (BJP) have been invited to discuss the issues of the secretaries of the party.
-
-◼️
-
-[Data](articles/1e9628ca.json)
-
-[Extended Data](ext_articles/1e9628ca.ext.json)
-
----
-
-### Sri Lanka Navy joins Australia’s military in IPE activities
-
-*2024-08-12 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-joins-australias-military-in-ipe-activities-176370/) · `en`
-
-ECONOMYNEXT – Sri Lanka will engage in joint activities with the Australian military in the Indo-Pacific Endeavour (IPE) activities, starting off with joint work with Sri Lanka Air Force Maritime Squadron, Australia’s embassy in Colombo said.
-
-“The first engagement of IPE 2024 will be a Law of the Sea workshop focused on maritime surveillance and involving members of the Sri Lanka Air Force Maritime Squadron,” the embassy said in a statement.
-
-“Participants will engage in scenario-based training addressing regional security issues such as drug smuggling and illegal fishing.
-
-“Other IPE 2024 activities in Sri Lanka include a combined diving activity that will see members of the Royal Australian Navy and Sri Lankan Navy exchange knowledge and skills.”
-
-IPE supports the Australian Government’s focus on deepening diplomatic and defence partnerships across Southeast Asia and the Northeast Indian Ocean.
-
-...
-
-[Data](articles/92baee35.json)
-
-[Extended Data](ext_articles/92baee35.ext.json)
 
 ---

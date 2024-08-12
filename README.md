@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 09:21:03**
+As of **2024-08-12 09:36:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,207 (100.0%) of 40,209 articles have been extended.
+40,209 (100.0%) of 40,209 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The body has been placed in the mortuary of the Peradeniya Hospital and the Pera
 
 [Data](articles/fc857fb1.json)
 
+[Extended Data](ext_articles/fc857fb1.ext.json)
+
 ---
 
-### ரயில் மோதி ஒருவர் உயிரிழப்பு
+### Train crashes
 
 *2024-08-12 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190856) · `ta`
 
-கொழும்பிலிருந்து பதுளை நோக்கி பயணித்த சீக்ரகாமி ரயில் மோதி இனந்தெரியாத நபரொருவர் உயிரிழந்துள்ளார்.
+A fatal train collision occurred near Pilimathala and Mitteniya railway stations, resulting in the death of a 35-year-old man traveling from Colombo to Badulla. The victim, described as 6 feet 4 inches tall, was wearing purple pants and a gray shirt. His body is at Peradeniya Hospital's mortuary, pending further investigation by the Peradeniya Police.
 
-இந்த சம்பவம் பிலிமத்தலாவை மற்றும் மித்தெனிய ரயில்  நிலையங்களுக்கு இடைப்பட்ட பகுதியில் நேற்று  ஞாயிற்றுக்கிழமை (11) இரவு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-உயிரிழந்தவர்  35 வயதுடைய 06 அடி 04 அங்குல உயரமும் ஊதா நிற காற்சட்டை ,  சாம்பல் நிற சட்டை அணிந்த ஆணொருவர்  என பொலிஸார் தெரிவித்துள்ளனர்.
+A man who was traveling from Colombo to Badulla has died after a train collided with a train.
 
-மேலும்,சடலமானது பேராதனை வைத்தியசாலையில்  பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை பேராதனை பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The incident took place in the area between Pilimathala and Mitteniya railway stations on Sunday night, police said.
+
+The deceased is a 35 -year -old 06 feet 04 inches high and a man wearing a purple pants and gray shirt, police said.
+
+In addition, the body has been placed in the funeral room at the Peradeniya Hospital and further investigations are being carried out by the Peradeniya Police.
 
 ◼️
 
 [Data](articles/ac71387c.json)
+
+[Extended Data](ext_articles/ac71387c.ext.json)
 
 ---
 

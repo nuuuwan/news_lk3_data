@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 19:37:23**
+As of **2024-08-12 19:56:04**
 
 ## Newspaper Stats
 
-*Scraped **40,336** Articles*
+*Scraped **40,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,593
 adalk | 3,705
 adaderanalk | 4,701
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,116
+tamilmirrorlk | 5,117
 virakesarilk | 6,385
 adaderanasinhalalk | 6,861
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,335 (100.0%) of 40,336 articles have been extended.
+40,336 (100.0%) of 40,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ”சுயேட்சை வேட்பாளர்கள் பினாமிகளாக பயன்படுத்தப்படுகின்றனர்”
+
+*2024-08-12 19:37:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சை-வேட்பாளர்கள்-பினாமிகளாக-பயன்படுத்தப்படுகின்றனர்/175-342046) · `ta`
+
+பல சுயேட்சை வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் உண்மையில் போட்டியிடும் வேறு சில வேட்பாளர்களின் பினாமியாக பயன்படுத்தப்படுவதாக முன்னாள் தேர்தல் ஆணையாளர் மஹிந்த தேசப்பிரிய தெரிவித்துள்ளார்.
+
+சுயேட்சை வேட்பாளர்கள் குறித்து தவறாக எதுவும் கூற முடியாது என கோட்டையில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது அவர் கூறினார்.
+
+”ஜனாதிபதி ரணில் எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேச்சை வேட்பாளராக போட்டியிடுகிறார். அவர் இதற்கு முன்னர் தற்போதைய ஜனாதிபதி, முன்னாள் பிரதமர் மற்றும் முன்னாள் எதிர்க்கட்சித் தலைவர் போன்ற பதவிகளை வகித்துள்ளார்”.
+
+"எவ்வாறாயினும், எங்கள் அனுபவத்தின் அடிப்படையில், பல சுயேட்சை வேட்பாளர்கள் உண்மையில் தேர்தலில் போட்டியிடுபவர்களுக்கு பினாமிகளாக செயல்படுகிறார்கள்.
+
+ஒரு குறிப்பிட்ட கட்சியுடன் நேரடி தொடர்பு கொண்ட மூன்று அல்லது நான்கு முன்னாள் எம்.பி.க்கள் ஒரு சுயேச்சை வேட்பாளரை ஆதரிக்க வேட்புமனுக்களை சமர்ப்பித்துள்ளனர் என்பது தெளிவாகிறது.
+
+நான் வெளிப்படையாக இருக்கிறேன். பினாமி வேட்பாளர்களின் பிரச்சினை தொடர்பான எந்தவொரு சவாலையும் சந்திக்க நான் தயாராக இருக்கிறேன்.
+
+...
+
+[Data](articles/59d5cd40.json)
+
+---
 
 ### Five more presidential candidates place deposits as total climbs to 32
 
@@ -54,17 +76,23 @@ The Election Commission of Sri Lanka had issued a Gazette on July 26 declaring t
 
 ---
 
-### கட்டுப்பணம் செலுத்தினார் அரியநேத்திரன்
+### Ariyanethran paid control
 
 *2024-08-12 19:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-அரியநேத்திரன்/175-342045) · `ta`
 
-ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளராக போட்டியிடவுள்ள பா.அரியநேத்திரன் இன்றைய தினம் (12) மாலை கட்டுப்பணம் செலுத்தினார்.
+PA Ariyanethran, a Tamil general candidate for president, was ordered by the Election Commission to halt his campaign activities tonight. This directive comes from the Central Committee of the Tamil People's Alliance (TNA), part of the Tamil National General Framework supporting Ariyanethran.
 
-பா.அரியநேத்திரன் சார்பில் தமிழ்த் தேசிய பொதுக் கட்டமைப்பில் அங்கம் வகிக்கும் தமிழ் மக்கள் கூட்டணியின் மத்தியக் குழு உறுப்பினர் த.சிற்பரன் தேர்தல்கள் ஆணைக்குழுவில் கட்டுப்பணம் செலுத்தியதாகத் தெரிவிக்கப்படுகிறது. R
+🟩
+
+PA Ariyanethran, who is scheduled to contest the presidential election as a Tamil general candidate, has been controlled this evening.
+
+The Central Committee member of the Tamil People's Alliance (TNA), which is part of the Tamil National General Framework on behalf of Ariyanethran, is reportedly controlled by the Election Commission.. Remble
 
 ◼️
 
 [Data](articles/19a6add0.json)
+
+[Extended Data](ext_articles/19a6add0.ext.json)
 
 ---
 
@@ -2241,33 +2269,5 @@ The Election Commission said that 337 election complaints have been reported fro
 [Data](articles/18e14675.json)
 
 [Extended Data](ext_articles/18e14675.ext.json)
-
----
-
-### 20 people killed in heavy rains in Rajasthan
-
-*2024-08-12 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானில்-கன-மழையால்-20-பேர்-பரிதாப-பலி/175-342011) · `ta`
-
-In Rajasthan, heavy rains have caused floods and fatalities. 20 deaths reported; 5 from a dam overflow in Jaipur, 7 near Srinagar village, and 2 from a motorcycle accident. The state government declared a holiday for pastoral areas and advised caution around water bodies. An emergency meeting was held by CM Bajan Lal Sharma to address disaster management.
-
-🟩
-
-Heavy rains in Jaipur, Rajasthan, have died so far.
-
-Heavy rains in Jaipur, Karauli and Sawai Madhopur, Rajasthan, were flooded. In the next 24 hours, the Meteorological Department has also warned that heavy rains will occur in various places.. Subsequently, the state government has announced a holiday for pastoral areas.
-
-The Kanoda Dam, which is overflowing in Jaipur, is drowned and 5 youths have died.. Also, seven boys were killed in a river near Srinagar village in Bharatpur.
-
-At the same time, two youths were killed when a motorcycle was hit by a motorcycle. In this case, 20 people have died so far due to rain.
-
-Meanwhile, an emergency consultation meeting was chaired by Chief Minister Bajan Lal Sharma to review the disaster management situation.
-
-Speaking on the occasion, he said, 'All the people of the state should be safe without going near the water bodies. People should follow the instructions given by the Disaster Management Department. ”
-
-◼️
-
-[Data](articles/ffb33ead.json)
-
-[Extended Data](ext_articles/ffb33ead.ext.json)
 
 ---

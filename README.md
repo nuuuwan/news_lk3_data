@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 17:36:48**
+As of **2024-08-12 17:57:30**
 
 ## Newspaper Stats
 
-*Scraped **40,316** Articles*
+*Scraped **40,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,698
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,112
 virakesarilk | 6,385
-adaderanasinhalalk | 6,858
+adaderanasinhalalk | 6,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,316 (100.0%) of 40,316 articles have been extended.
+40,316 (100.0%) of 40,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ශ්‍රී ලංකාවට එන නවසීලන්ත ටෙස්ට් කණ්ඩායම
+
+*2024-08-12 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199861) · `si`
+
+ලබන මස ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිත නවසීලන්ත ටෙස්ට් ක්‍රිකට් සංචිතය නම්කර තිබේ.
+
+ක්‍රීඩකයින් 15 දෙනෙකුගෙන් සමන්විත එම සංචිතයේ නායකත්වය සඳහා ටිම් සවුති ව නම්කර තිබුණි.
+
+එම සංචිතයේ අනෙක් ක්‍රීඩකයින් වන්නේ, ටොම් බ්ලුන්ඩෙල්, මයිකල් බ්‍රෙස්වල්, ඩෙවොන් කොන්වේ, මැට් හෙන්රි, ටොම් ලේතම්, ඩැරීල් මිචල්, විල් ඕ' රූක්, අජාස් පටෙල්, ග්ලෙන් පිලිප්ස්, රචින් රවින්ද්‍රා, මිචෙල් සැන්ටර්, බෙන් සියර්ස්, කේන් විලියම්සන් සහ විල් යං
+
+සැප්තැම්බර් 18 සහ 26 යන දිනවල එම ටෙස්ට් තරග දෙක ගාල්ල ජාත්‍යන්තර ක්‍රිකට් පිටියේදී ආරම්භවීමට නියමිතය.
+
+◼️
+
+[Data](articles/3ba3dbe8.json)
+
+---
 
 ### The last moment of three including a baby
 
@@ -2245,31 +2263,5 @@ In equities, Colombo’s All Share Price Index opened 12.91 points higher at 11,
 [Data](articles/5af9734c.json)
 
 [Extended Data](ext_articles/5af9734c.ext.json)
-
----
-
-### 5 Sri Lankans arrested in Russia
-
-*2024-08-12 09:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யாவில்-5-இலங்கையர்கள்-கைது/175-342003) · `ta`
-
-Five Sri Lankan former soldiers reportedly arrested by Ukrainian authorities after being found fighting alongside the Russian army. The Sri Lankan embassy in Turkey, which also represents Ukraine, is investigating. Three others who fought with Ukrainian forces have died. Earlier, a Sri Lankan delegation visited Moscow to negotiate the release of those enlisted in the Russian army, but many have signed contracts making it challenging to repatriate them.
-
-🟩
-
-There are reports that five Sri Lankan former soldiers crossed the Russian army have been arrested and detained by Ukrainian authorities.
-
-The Sri Lankan embassy in Turkey, which has been recognized with Ukraine, is investigating the matter following reports in the media regarding the Sri Lankans fighting with the Russian and Ukrainian military.
-
-Ukraine officials told the Sri Lankan embassy on Saturday that five Sri Lankans were detained as war prisoners and three Sri Lankans who fought with the Ukrainian forces had died.
-
-Earlier, a group of ministers from Sri Lanka visited Moscow to release the Sri Lankans joining the Russian army.
-
-Minister of State for Sri Lanka Taraka Balasuriya said that most of the retired Sri Lankan military has been deceived to Russia, promising to offer Russian citizenship, high salary and concessions.
-
-...
-
-[Data](articles/c1862ed7.json)
-
-[Extended Data](ext_articles/c1862ed7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 15:21:01**
+As of **2024-08-12 15:36:21**
 
 ## Newspaper Stats
 
-*Scraped **40,284** Articles*
+*Scraped **40,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 4,692
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,102
 virakesarilk | 6,385
-adaderanasinhalalk | 6,852
+adaderanasinhalalk | 6,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,280 (100.0%) of 40,284 articles have been extended.
+40,284 (100.0%) of 40,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,26 @@ AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Award
 
 ---
 
+### වතු සේවක දෛනික වැටුපට පඩි පාලක සභාවේ අනුමැතිය
+
+*2024-08-12 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199854) · `si`
+
+වතු සේවකයින්ගේ දෛනික වැටුප ලෙස රුපියල් 1,700ක් ලබාදීමේ තීරණය අද (12) පඩි පාලක සභාවේ දී සම්මත වී තිබේ.
+
+වැටුප් වැඩි කිරීම සම්බන්ධයෙන් එහිදී ඡන්ද විමසීමක් ද පවත්වා ඇතැයි වාර්තා වේ.
+
+ජල සම්පාදන හා වැවිලි යටිතල පහසුකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවසුවේ, වැටුප් වැඩි කිරීමට පක්ෂව 14 දෙනෙකු ඡන්දය ප්‍රකාශ කර ඇති අතර, වතු සමාගම් තුනක් ඊට විරුද්ධව ඡන්දය ප්‍රකාශ කර ඇති බවය.
+
+ඒ අනුව වතු සේවකයින් සඳහා දෛනික මූලික වැටුප ලෙස රුපියල් 1,350ක් සහ පැමිණීමේ ප්‍රවර්ධන විශේෂ දීමනාව ලෙස රුපියල් 350ක් ලබාදීමට එකඟතාවකට පැමිණ තිබේ.
+
+මේ අතර වැටුප් ප්‍රශ්නය මහාධිකරණයට කැඳවූ අවස්ථාවේදී නැගෙනහිර පළාත් ආණ්ඩුකාර සහ ශ්‍රී ලංකා කම්කරු කොංග්‍රසයේ සභාපති, සෙන්දිල් තොණ්ඩමන් මහතා අධිකරණයේ සඳහන් වැරදි නිවැරදි කර වැටුප් වැඩිවීමක් ලබා ගැනීමට පූර්ණ සහයෝගය ලබාදුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහ හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාට ස්තූතිය පුද කළේය.
+
+...
+
+[Data](articles/bfc96439.json)
+
+---
+
 ### Election Commission informed of two vacant parliamentary seats
 
 *2024-08-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101175/election-commission-informed-of-two-vacant-parliamentary-seats) · `en`
@@ -60,19 +80,27 @@ On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya�
 
 [Data](articles/7a9389b0.json)
 
+[Extended Data](ext_articles/7a9389b0.ext.json)
+
 ---
 
-### දක්ෂතාවයට ICCයෙන් චමරිට ඇගයීමක්
+### The ICC Yen is evaluated to the cyc
 
 *2024-08-12 14:51:22* · [`adalk`](https://www.ada.lk/sports/දක්ෂතාවයට-ICCයෙන්-චමරිට-ඇගයීමක්/9-411326) · `si`
 
-ජූනි මාසයේ ICC ක්‍රීඩිකාව ලෙස ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නම් කිරීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය කටයුතු කර තිබේ.
+The International Cricket Council (ICC) named Sri Lanka's Chamari Atapattu as its Player of the Month for June, recognizing her outstanding performance during the Asian Cup.
 
-ආසියානු කුසලාන තරගාවලියේදී දැක්වූ දක්ෂතාවයන් පදනම් කර ගනිමින් චමරිව ජූනි මාසයේ ICC ක්‍රීඩිකාව ලෙස නම් කර ඇත.
+🟩
+
+The International Cricket Council has taken steps to name Sri Lanka Leader Chamari Atapattu as ICC player in June.
+
+Based on the skills at the Asian Cup, Chamari has been named as ICC Player in June.
 
 ◼️
 
 [Data](articles/da663cab.json)
+
+[Extended Data](ext_articles/da663cab.ext.json)
 
 ---
 
@@ -91,6 +119,8 @@ The advisory said that thundershowers accompanied by severe lightning are likely
 ...
 
 [Data](articles/818ab3c7.json)
+
+[Extended Data](ext_articles/818ab3c7.ext.json)
 
 ---
 
@@ -458,23 +488,29 @@ The Minister of Wijayadasa resigned in the minister to contest as the Minister o
 
 ---
 
-### සිසුවියකට අතවර කළ 15ක් අල්ලයි
+### 15 arrested for abuse
 
 *2024-08-12 12:19:13* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-අතවර-කළ-15ක්-අල්ලයි/11-411320) · `si`
 
-ඌව පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති දිනේෂ් කරුණානායක මහතාට ඉකුත් හත්වෙනිදා ලද බුද්ධි තොරතුරක් මත තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක ඉගෙනුම ලබන 16 හැවිරිදි පාසල් ශිෂ්‍යාවකට ලිංගික අතවරකළ එම පාසලේම සහ තවත් පාසලක සිසුන් පිරිසක් සහ ඊට අනුබල දුන් සැකකාරියක් තණමල්විල පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.
+In Tanamalwila, 15 individuals, including a 39-year-old woman, were arrested for various sexual offenses against a 16-year-old girl, a school student. The victim was hospitalized for examination, and all suspects are due in court.
 
-අතවරයට පත්වූ දැරිය තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක ඉගෙනුම ලබන එකොළොස් වන වසරේ ඉගෙනුම ලබන ශිෂ්‍යාවකි.
+🟩
 
-නීත්‍යානුකූල භාරකාරත්වයෙන් අපහරණයකර ලිංගික අපයෝජනය සිදුකිරීම,බරපතළ ලිංගික අපයෝජනය සිදුකිරීම,ස්ත්‍රී දූෂණය සහ රංචු ගැසී ස්ත්‍රී දූෂණය සිදුකිරීම යන චෝදනා යටතේ ඉකුත් (11) වෙනිදා මෙම පිරිස අත්අඩංගුවටගෙන ඇත.
+Senior DIG Dinesh Karunanayake, a 16-year-old schoolgirl in Tanamalwila, has been arrested by the Tanamalwila police.
 
-මෙම ස්ත්‍රී දූෂණයට අනුබලදීම සම්බන්ධයෙන් තණමල්විල තැපැල් කාර්යාලය පිටුපස පදිංචි 39 හැවිරිදි කාන්තාවක්ද පොලීසිය මඟින් අත්අඩංගුවටගෙන ඇත.මෙලෙස පොලීසිය භාරයටගෙන ඇති සැකකරුවන් සංඛ්‍යාව 18 දෙනෙකි.
+The victim was a student who was studying at a major school in Tanamalwila area.
 
-අතවරයට ලක්වූ දැරිය වෛද්‍ය පරීක්ෂණයක් සඳහා හම්බන්තොට දිස්ත්‍රික් මහ රෝහලට ඇතුලත්කර ඇති අතර  එයට අනුබල දුන් කාන්තාව සහ සැකකාර පාසල් ශිෂ්‍යයින් අද (12දා) වැල්ලවාය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබිණි.
+The number of allegations have been arrested on the charges of sexual abuse, sexual abuse, sexual abuse, rape and swarm of rape and swarming.
+
+The police also arrested a 39-year-old woman from the back of the Thanamalwila Post Office over the rape.
+
+The victim was rushed to the Hambantota District General Hospital for a medical examination and the woman and the school students were to be produced before the Wellawaya Magistrate's Court today (12).
 
 ◼️
 
 [Data](articles/32d49332.json)
+
+[Extended Data](ext_articles/32d49332.ext.json)
 
 ---
 
@@ -2279,27 +2315,5 @@ Speaking to the media yesterday, Dr. Fernandopulle expressed her decision to sup
 [Data](articles/90631672.json)
 
 [Extended Data](ext_articles/90631672.ext.json)
-
----
-
-### Shanakiyan slams decision to field Tamil common candidate
-
-*2024-08-12 00:08:57* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-slams-decision-to-field-Tamil-common-candidate/56-765417) · `en`
-
-Says there is no need to put forward a Tamil common candidate for the 2024 Presidential election
-
-Criticises idea of several parties with no voter base announcing a common candidate
-
-Claims Tamil people have no interest in a Tamil common candidate at this time
-
-Illankai Tamil Arasu Kadchi (ITAK) Batticaloa District MP Shanakiyan Rasamanickam has asserted that there is no need to put forward a Tamil common candidate for the 2024 Presidential election.
-
-Addressing the media, he criticised the idea of several parties with little to no voter base announcing a common candidate, calling it unacceptable. “There is no need for a common candidate. The Tamil people have no interest in supporting one. One of the current candidates will inevitably become President. There is also speculation that this common candidate was introduced to serve the interests of another candidate, to prevent votes from going elsewhere,” he said.
-
-...
-
-[Data](articles/7510f081.json)
-
-[Extended Data](ext_articles/7510f081.ext.json)
 
 ---

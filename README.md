@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 18:39:57**
+As of **2024-08-12 18:56:14**
 
 ## Newspaper Stats
 
-*Scraped **40,326** Articles*
+*Scraped **40,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,70 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 381
 islandlk | 2,331
-economynextcom | 2,443
+economynextcom | 2,444
 dailyftlk | 2,593
 adalk | 3,703
 adaderanalk | 4,700
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,112
 virakesarilk | 6,385
-adaderanasinhalalk | 6,859
+adaderanasinhalalk | 6,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,326 (100.0%) of 40,326 articles have been extended.
+40,326 (100.0%) of 40,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Wealth Trust starts bidding platform for Sri Lanka Treasuries auctions
+
+*2024-08-12 18:39:00* · [`economynextcom`](https://economynext.com/wealth-trust-starts-bidding-platform-for-sri-lanka-treasuries-auctions-176452/) · `en`
+
+ECONOMYNEXT – Wealth Trusts Securities said it had started an online bidding platform which will allow the public to participate in government securities auctions improving access to Treasuries.
+
+“The newly introduced digital portal is designed with a user-friendly interface that simplifies the process of participating in Treasury Bill and Bond auctions,” Wealth Trust Securities said in a statement.
+
+“It represents a significant innovation in the market, promoting democratization of access to government securities.
+
+“This initiative not only broadens the investment landscape for seasoned investors but also opens up opportunities for new investors by simplifying the process traditionally associated with auction bids.”
+
+The platfrom also has digital client on boarding process allowing new clients to set up accounts online.
+
+Wealth Trust said it was leveraging advanced technology to enhance customer convenience and accessibility.
+
+...
+
+[Data](articles/c05ca0e7.json)
+
+---
+
+### පාසල් සිසුවිය සමූහ දුෂණයට ලක්කළ සැකකාර සිසුන්ට අධිකරණයෙන් නියෝගයක්
+
+*2024-08-12 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199862) · `si`
+
+තණමල්විල ප්‍රදේශයේ පාසලක ඉගෙනුම ලැබූ පාසල් සිසුවියක් දූෂණය කිරීමේ සිද්ධියට සම්බන්ධයෙන් අත්අඩංගුවට ගත් පිරිස අද (12) දින වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු සැකකාර සිසුන් 17 දෙනාගෙන් 14දෙනෙකු බන්ධනාගාර නිලධාරීන් මඟින් පරිවාස භාරයට පත්කරන ලෙස නියෝග කර තිබේ.
+
+ඊට අමතරව තවත් සිසුන් තිදෙනෙකු සහ ඔවුන්ට ආධාර අනුබල දුන් කාන්තාව ද අගෝස්තු 22 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක 11ශ්‍රේණියේ ඉගෙනුම සිසුවියක් එම පාසලේම සිසුවෙක් සමග ප්‍රේම සම්බන්ධයක් පවත්වාගෙන ගොස් තිබේ.
+
+එම සිසුවා, මෙම දැරිය මිතුරෙකුගේ නිවසකට රැගෙන ගොස් එහිදී පළමුවරට ඇය දූෂණය කළ බව වාර්තා වේ.
+
+පසුව එම නිවෙසේ සිටි තවත් සිසු පිරිසක් මෙම දැරිය දූෂණය කර එය වීඩියෝගත කර ඇතැයි හෙළිවූ බව පොලීසිය පවසයි.
+
+සැකකාර සිසුන් එම වීඩියෝව දැරියට පෙන්වා බිය ගන්වමින් 2023 වසරේ සිට අවස්ථා 7කදී ඇයව සමූහ දූෂණයට ලක් කර ඇති බව වාර්තා වේ.
+
+එහිදී සිසුන් 7 දෙනක් මෙම දැරිය ඔය අසලට රැගෙන ගොස් සමූහ ලෙස දූෂණය කර එයද වීඩියෝගත කර තිබේ.
+
+...
+
+[Data](articles/b8b0bf10.json)
+
+---
 
 ### Two arrested with over 150kg of Kerala cannabis in Jaffna
 
@@ -2205,53 +2251,5 @@ In a media interview, a relative of the deceased said that the local administrat
 [Data](articles/51214dc3.json)
 
 [Extended Data](ext_articles/51214dc3.ext.json)
-
----
-
-### A mother killed in the house
-
-*2024-08-12 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199841) · `si`
-
-In Madurankuliya, police investigate a murder in the Nallinduva area. A 71-year-old woman killed a man in his sleep without visible external injuries.
-
-🟩
-
-Madurankuliya Police are conducting a residential information on the residents of Nallinduva area in the Nallinda area in Nallindulaiya, Madurandeliya.
-
-The unfortunate man was murdered by a 71 year old resident of Nallinduwela Region of Madurankuliya.
-
-She has been living in the house where he owned coconut and the children were occasionally attended.
-
-The woman had killed her sleeping couch and her body could not see any external injuries, said policemen.
-
-◼️
-
-[Data](articles/3ec0e87e.json)
-
-[Extended Data](ext_articles/3ec0e87e.ext.json)
-
----
-
-### Who is the next Prime Minister of Sri Lanka?
-
-*2024-08-12 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அடுத்த-பிரதமர்-யார்/175-342006) · `ta`
-
-Harin Fernando hints at a potential future Prime Minister from Sri Lanka's Uva Province, possibly Nimal Siripala de Silva, based on his strong showing in the 2020 parliamentary elections in Badulla district.
-
-🟩
-
-Former Minister Harin Fernando has said that the next Prime Minister of Sri Lanka may be from Uva Province.
-
-He was speaking at the 'Ekwa Jayagamu' event in Badulla yesterday (11).
-
-“I can feel this. Harin said to Harin, who attended the meeting, "Minister Nimal Siripala de Silva, who attended the meeting, said that if a prime minister from the Uva Province is to be appointed and wins all the 9 seats in the Badulla district, I will accept the responsibility of making him the prime minister.
-
-Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 parliamentary elections in Badulla district. Kiss
-
-◼️
-
-[Data](articles/258d43a1.json)
-
-[Extended Data](ext_articles/258d43a1.ext.json)
 
 ---

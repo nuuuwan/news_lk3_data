@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 08:55:39**
+As of **2024-08-12 09:07:38**
 
 ## Newspaper Stats
 
-*Scraped **40,204** Articles*
+*Scraped **40,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,687
-adaderanalk | 4,677
+adaderanalk | 4,678
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,082
 virakesarilk | 6,376
-adaderanasinhalalk | 6,835
+adaderanasinhalalk | 6,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,203 (100.0%) of 40,204 articles have been extended.
+40,204 (100.0%) of 40,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### විස්සයි 20 පළමු තරගයේ ජය ලංකාවට
+
+*2024-08-12 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199838) · `si`
+
+සංචාරක ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම අතර පැවැති පළමු විස්සයි 20 තරගය කඩුලු 07කින් ජය ගැනීමට ශ්‍රී ලංකාව සමත් වී තිබේ.
+
+තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහර දීමේ අවස්ථාව අයර්ලන්ත කණ්ඩායමට ලබා දුන් අතර ඒ අනුව අයර්ලන්ත කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ දී කඩුලු 06ක් දැවී ලකුණු 145ක් ලබා ගැනීමට සමත් විය.
+
+පසුව ලකුණු 146ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 16 පන්දු 04ක් අවසානයේ දී කඩුලු 03ක් පමණක් දැවී ලකුණු 149ක් ලබා ගනිමින් සිය ජයග්‍රහණය වාර්තා කළේය.
+
+මෙහිදී විශිෂ්ට පිතිහරඹයක නිරතවූ හර්ෂිතා සමරවික්‍රම පන්දු 45කදී නොදැවී ලකුණු 86ක් ලබා ගැනීමට ද සමත් වූවාය.
+
+දෙරට අතර දෙවන විස්සයි 20 ක්‍රිකට් තරගය හෙට (13) පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/3126a57c.json)
+
+---
+
+### පැරිස් ඔලිම්පික් උලෙළේ පළමු ස්ථානය අමෙරිකාව ට
+
+*2024-08-12 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199837) · `si`
+
+දින 16ක් පුරා පැරිස් නුවර පැවති 33වැනි ඔලිම්පික් උලෙළ අද (12) අලුයම අවසන් විය.
+
+රටවල් 206ක් නියෝජනය කරමින් තරගකරුවන් 10,714ක් උරෙන් උර ගැටුණු මෙවර ඔලිම්පික් උලෙළේ අවසන් මෙහොතේ පදක්කම් සටහනේ පෙරමුණ ගන්නට අමෙරිකාව සමත් විය.
+
+ඒ එතෙක් පදක්කම් සටහනේ පෙරමුණ ගෙනසිටි චීනය දෙවැනි ස්ථානය ඇද දමමිනි.
+
+අමෙරිකාව රන් පදක්කම් 40ක් රිදී පදක්කම් 44ක් සහ ලෝකඩ පදක්කම් 42ක් ඇතුළුව සමස්ත පදක්කම් 126ක් දිනා ගත්තේය.
+
+දෙවන ස්ථානය දිනාගත් චීනය රන් පදක්කම් 40ක් රිදී පදක්කම් 27ක් සහ ලෝකඩ පදක්කම් 24ක් ඇතුළුව සමස්ත පදක්කම් 91ක් දිනා ගනු ලැබීය.
+
+විචිත්‍රවත් වු සමාප්ති උලෙළට සියලු රටවල් නියෝජනය කරමින් ක්‍රීඩක ක්‍රීඩිකාවන් ස්ටාඩ් ඩී ෆ්‍රරාන්ස් ක්‍රීඩාගාරයට පැමිණියේය.
+
+එහිදී ශ්‍රී ලංකා ධජය ගෙන යාමේ වගකීම තරුෂි කරුණාරත්නට සහ අරුණ දර්ශන ට පැවරී තිබුණි.
+
+වැයුම් ගැයුම්වලින් අලංකාර වු පැරිස් ඔලිම්පික් උලෙළේ සමාප්තිය සියැසින් දැක බලා ගැනීම සඳහා ප්‍රෙක්ෂකයින් 70,000කට ඉඩකඩ වෙන් කර තිබීමත් කැපී පෙනෙන කරුණක් විය.
+
+අනතුරුව ජගත් ඔලිම්පික් කමිටුවේ සභාපති තෝමස් බාච් නිල වශයෙන් 2024 පැරිස් ඔලිම්පික් උලෙළ අවසන් වු බව ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/3fbbacd5.json)
+
+---
+
+### Election Commission plans talks amid Grama Niladhari Officers’ strike
+
+*2024-08-12 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101161/election-commission-plans-talks-amid-grama-niladhari-officers-strike) · `en`
+
+The Election Commission has stated that despite the All-Island Grama Niladhari Officers’ Association previously agreeing to carry out all duties related to the presidential election without issues, they plan to negotiate with the association again.
+
+When inquired by Ada Derana, regarding the potential impact of the Grama Niladhari officers’ strike on the presidential election, the Chairman of the Election Commission, R.M.A.L. Ratnayake revealed this.
+
+However, the Grama Niladhari Officers’ Alliance announced that they will withdraw from all duties today (12) and tomorrow (13) and will begin a week-long nationwide protest.
+
+The co-President of the Grama Niladhari officers’ Alliance Nandana Ranasinghe, stated that the strike is in response to their proposals not being included in the gazetted Grama Niladhari officers’ service constitution.
+
+He also mentioned that they would hold a silent protest in front of the Ministry of Public Administration this morning (12).
+
+◼️
+
+[Data](articles/9ba6a1d2.json)
+
+---
 
 ### Evening thundershowers expected in most parts of the island
 
@@ -1704,21 +1772,27 @@ Mia is now a model and as a trading manager, "I know that I have sent me the lim
 
 ---
 
-### මෙම වසරේ ගෙවී ගිය කාලය තුළ ඩෙංගු මරණ 16ක් වාර්තා වෙයි
+### 16 dengue deaths reported this year
 
 *2024-08-11 17:01:21* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-වසරේ-ගෙවී-ගිය-කාලය-තුළ-ඩෙංගු-මරණ-16ක්-වාර්තා-වෙයි/11-411305) · `si`
 
-ගෙවීගිය දින දෙකක කාලයෙහිද ඩෙංගු රෝගීන් දෙදෙනෙකු මිය ගොස් තිබෙන අතර මේ අනුව මේ වසරේ ගෙවී ගිය කාලයෙහිදී ඩෙංගු රෝගය නිසා පුද්ගල මරණ දහසයක් සිදුව තිබේ.
+This year, there have been 16 dengue-related deaths, with a total of 2,000 fatalities attributed to the disease. Since the beginning of the year, 34,053 dengue patients have been reported, including 14 deaths on January 1st. In June, there were 4,319 cases, May saw 2,647, and April had 10,417. The health sector warns of a widespread outbreak in 21 areas, with 1,308 new cases reported since the 10th of this month alone.
 
-මේ මස 01 වැනි දින සිට මේ මස 10 වැනි දින දක්වා ගෙවීගිය දින 10 තුළදී ඩෙංගු රෝගීන් 1308 ක් වාර්තා වී ඇත. මේ වසරේ ජනවාරි 01 වැනි දින සිට මේ මස 10 වැනි දින දක්වා කාලයෙහිදී ඩෙංගු රෝගීන් 34053 ක් වාර්තා වී තිබෙන බව සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+🟩
 
-මේ වසරේ ජනවාරි 01 වැනි දින සිට මේ මස 08 වැනි දින වන විට ඩෙංගු මරණ 14 ක් වාර්තා වී තිබේ. ගෙවීගිය දින දෙකක කාලයෙහිදී ඩෙංගු මරණ දෙකක් වාර්තා වීමත් සමග එම ප්‍රමාණය 16 ක් දක්වා ඉහළ ගොස් ඇත.
+Two dengue patients were killed in two days, with two thousand deaths due to dengue.
 
-පසුගිය මස දී ඩෙංගු රෝගීන් 4506 ක් ජූනි මාසයේදී ඩෙංගු රෝගීන් 3319 ක්, මැයි මාසයේදී රෝගීන් 2647 ක්, අප්‍රේල් මාසයේදී රෝගීන් 2234 ක්, මාර්තු මාසයේදී රෝගින් 3615 ක්, පෙබරවාරි මාසෙයේදී රෝගීන් 6007 ක් සහ ජනවාරි මාසයේදී රෝගීන් 10417 ක් වාර්තා වී ඇත. ඩෙංගු රෝගය සෞඛ්‍ය වෛද්‍ය නිලධාරි කොට්ඨාස බල ප්‍රදේශ 21ක අධි අවදානම් මට්ටමින් පැතිර යන බවද සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+1308 dengue patients have been reported from the 10th of this month from the month of this month.. According to the health sector, 34053 dengue patients have been reported from 1st January this year.
+
+Fourteen deaths have been reported on January 01 this year. With two dengue deaths in the past two days, two dengue deaths have risen to 16.
+
+4319 dengue patients in June, 2647 cases were reported in May and 10417 patients in April and 10417 patients in May. Health sector points out that the dengue medical officer's divisional areas will be widespread in 21 areas.
 
 ◼️
 
 [Data](articles/818c31eb.json)
+
+[Extended Data](ext_articles/818c31eb.ext.json)
 
 ---
 
@@ -2199,85 +2273,5 @@ Most of the details of Adam Britain's crimes were so cruel that could not be pub
 [Data](articles/b49671cf.json)
 
 [Extended Data](ext_articles/b49671cf.ext.json)
-
----
-
-### Inland Revenue Department warns against fraudulent tax collection schemes
-
-*2024-08-11 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/101147/inland-revenue-department-warns-against-fraudulent-tax-collection-schemes) · `en`
-
-The Commissioner General of Inland Revenue has issued a warning to all taxpayers regarding fraudulent activities involving individuals impersonating Inland Revenue officers to collect money from business owners.
-
-The Commissioner General emphasizes that all recovery of outstanding taxes, across all tax types managed by the Inland Revenue Department (IRD), will be conducted strictly through legal channels, with official written notifications being issued prior to any such actions.
-
-In a statement, the IRD Commissioner General highlighted that it has come to the department’s attention that a group of individuals is approaching business owners, falsely representing themselves as Inland Revenue officers and demanding payment.
-
-Accordingly, he has made it clear that the Inland Revenue Department does not take responsibility for any payments made to these fraudulent individuals.
-
-...
-
-[Data](articles/f4207cea.json)
-
-[Extended Data](ext_articles/f4207cea.ext.json)
-
----
-
-### Civil Security Officer arrested for stealing teacher wallets
-
-*2024-08-11 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190792) · `ta`
-
-A Civil Security Officer was arrested for allegedly stealing over 20,000 rupees from a bank using a stolen ATM card. The incident involved a teacher whose wallet was taken while riding a motorcycle. Surveillance footage led to the arrest of the suspect, who was later presented before the Mahiyanganaya Magistrate's Court.
-
-🟩
-
-ATMs in the wallet stealing one's wallet. Grathurugottai police said that a Civil Security Force officer had been arrested on suspicion of allegedly taking over 20 thousand rupees from the bank using the card.
-
-A 41 -year -old man has been arrested at the Mahaoya Civil Defense Camp. He belongs to the New Medagama, Diyavitagama area.
-
-The teacher has lodged a complaint at the Grathurugottai police station that a teacher residing in the Hobary area on June 01 was stolen from a motorcycle on a motorcycle.
-
-According to the police, the suspect was confirmed that the suspect had gone to the city of Tehiyakanda on the basis of the inspection of the CCTV footage in the area.
-
-Subsequently, the police said that the suspect was being produced by the Mahiyanganaya Magistrate's Court.
-
-◼️
-
-[Data](articles/7dd2756e.json)
-
-[Extended Data](ext_articles/7dd2756e.ext.json)
-
----
-
-### Floor Asanka's firearms' prison prison
-
-*2024-08-11 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199812) · `si`
-
-A secret arrest of a notorious drug dealer and gun trafficker led to the discovery of a substantial cache of weapons and drugs in a hidden bunker in Rajadenagoda. The STF and police raided a two-story house, uncovering over 300 rounds of T-56 ammunition, 50mm ammo, a micro pistol, heroin, cannabis, and hash. Seven suspects, including a 44-year-old prison guard, were apprehended, with investigations linking them to various crimes across Colombo and its suburbs.
-
-🟩
-
-A prison guilty of a prison guilistic and a drug dealer, a drug dealer, was arrested in secret.
-
-The weapons were found at the resident of the Rajagiriya area in Rajagiriya.
-
-Seven suspects were arrested by the STF in Makola recently, along with the police with further questioning.
-
-The Director of the Police Narcotics Bureau Director Hemal Prashathna took action to inspect a two storied house in Rajadenagoda, Rajadenagoda.
-
-In the upper room, investigations were recovered to a secret bunker at the upstairs at the raid.
-
-The police found many weapons hidden weapons in a very substible manner when examining the secret bunker.
-
-The Bureau was taken into custody over 300 T-56 ammunition, 50mm amle, as well as a micro pistol, as well as a micro pistol, as well as a micro pistol, as well as heroin, cannaba and rash.
-
-The suspect was also arrested by a 44-year-old prison guard.
-
-Investigations officers have been used to many crimes in Colombo and suburbs.
-
-◼️
-
-[Data](articles/b557e540.json)
-
-[Extended Data](ext_articles/b557e540.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 02:21:00**
+As of **2024-08-13 02:36:20**
 
 ## Newspaper Stats
 
-*Scraped **40,365** Articles*
+*Scraped **40,367** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 381
+colombotelegraphcom | 382
 islandlk | 2,331
 economynextcom | 2,445
 dailyftlk | 2,597
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,122
+tamilmirrorlk | 5,123
 virakesarilk | 6,394
 adaderanasinhalalk | 6,864
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,365 (100.0%) of 40,365 articles have been extended.
+40,365 (100.0%) of 40,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ’தோட்ட தொழிலாளர்களை ஏமாற்றும் உடன்படிக்கை’
+
+*2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/175-342063) · `ta`
+
+சம்பள நிர்ணய சபையில் நடத்தப்பட்ட பேச்சுவார்த்தை வன்மையாக கண்டித்துள்ள அகில இலங்கை தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்னன் செல்வராஜ், இது தோட்டத் தொழிலாளர்களை ஏமாற்றும் சம்பள உடன்படிக்கையாகும் என்றும் தெரிவித்துள்ளார்.
+
+தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது.
+
+இந்தக் கூட்டத்தில் 10 தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனத்தின் ஊடகப் பேச்சாளர் ரொஷான் ராஜதுரை உள்ளிட்ட கம்பனிகளின் 07 பிரதிநிதிகளும், அரச அதிகாரிகள் 03 பேரும் கலந்துகொண்டனர்.
+
+இதன்போது இலங்கை தொழிலாளர் காங்கிரஸ் மற்றும் ஐக்கிய தேசியக் கட்சியின் தொழிற்சங்கம் தேசிய தோட்டத் தொழிலாளர் சங்கம் தோட்டத் தொழிலாளர்களின் நாட்சம்பளத்தை அதிகரிப்பது தொடர்பான பிரேரணையை கொண்டுவந்தன.
+
+அதாவது, அந்தப் பிரேரணையில் தோட்டத் தொழிலாளர்களின் அடிப்படைச் சம்பளமாக 1,350 ரூபாய் வழங்க வேண்டும் என்று குறிப்பிடப்பட்டிருந்தது. அத்துடன், மேலதிக கொடுப்பனவாக 350 ரூபாய் வழங்க வேண்டும் என்றும் முன் வைக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/ae96d35e.json)
+
+---
 
 ### We are ready to accept the challenge
 
@@ -297,6 +317,20 @@ In the recent past, more than 450 people, including the police officers, police 
 [Data](articles/ef57c862.json)
 
 [Extended Data](ext_articles/ef57c862.ext.json)
+
+---
+
+### The Psychology Of Money: A Book Review
+
+*2024-08-12 20:47:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-psychology-of-money-a-book-review/) · `en`
+
+In the modern world, money is considered as a key to unlocking various barriers to success in someone’s lifetime. As a result, many of us put tremendous effort into learning about various techniques to earn money as fast as possible.  On this journey, have you ever thought about the role of psychology when dealing with money? In his world-best-selling book, titled “The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness” published by Harriman House, Mogan Housel has provided some interesting insights into this arena. In this, he primarily argues that doing well with money has little to do with technical knowledge and a lot to do with our behaviour, which is guided by our thoughts.
+
+In my opinion, this book will assist readers in finding answers to some fundamental questions related to our daily financial life.
+
+...
+
+[Data](articles/eb4ae53f.json)
 
 ---
 
@@ -2279,47 +2313,5 @@ On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest 
 [Data](articles/521e1363.json)
 
 [Extended Data](ext_articles/521e1363.ext.json)
-
----
-
-### Rescue
-
-*2024-08-12 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190872) · `ta`
-
-An elderly woman, Nadesapillai Saraswathiyambal (80), was found dead in her home in Jaffna's northern Meesala area. The Kodikamam police arrested a local youth during their investigation.
-
-🟩
-
-A neighbor of a neighbor has been arrested on suspicion of suspicion, a resident of Jaffna.
-
-The deceased is Nadesapillai Saraswathiyambal (age 80) from the northern part of Meesala.
-
-Muthathi was found dead on Sunday (11) yesterday.
-
-Kodikamam police, who were conducting investigations into the incident, have arrested a youth who lived near the house of the grandmother.
-
-◼️
-
-[Data](articles/52fea2cc.json)
-
-[Extended Data](ext_articles/52fea2cc.ext.json)
-
----
-
-### AKD signs nomination papers for Presidential Election
-
-*2024-08-12 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101170/akd-signs-nomination-papers-for-presidential-election) · `en`
-
-Leader of the National People’s Power (NPP) and Member of Parliament Anura Kumara Dissanayake has signed his nomination papers to contest the upcoming Presidential Election scheduled for September 21.
-
-The event took place at the Janatha Vimukthi Peramuna (JVP) head office this morning (12).
-
-The ceremony was attended by several NPP’s national executive members, including General Secretary of NPP Nihal Abeysinghe and General Secretary of JVP Tilvin Silva.
-
-◼️
-
-[Data](articles/a00ae9e4.json)
-
-[Extended Data](ext_articles/a00ae9e4.ext.json)
 
 ---

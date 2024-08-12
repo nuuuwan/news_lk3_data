@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 13:36:42**
+As of **2024-08-12 13:56:12**
 
 ## Newspaper Stats
 
-*Scraped **40,271** Articles*
+*Scraped **40,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 376
 colombotelegraphcom | 381
-islandlk | 2,329
+islandlk | 2,331
 economynextcom | 2,431
 dailyftlk | 2,593
 adalk | 3,695
@@ -26,23 +26,43 @@ adaderanasinhalalk | 6,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,268 (100.0%) of 40,271 articles have been extended.
+40,271 (100.0%) of 40,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### අගෝස්තු 15 රාජගිරියට විශේෂ ආරක්ෂාවක්
+### The Geopolitics of Democracy
+
+*2024-08-12 13:27:00* · [`islandlk`](http://island.lk/the-geopolitics-of-democracy/) · `en`
+
+On Thursday, July 25, Factum organised the first international screening of Beena Sarwar’s Democracy in Debt: Sri Lanka Beyond the Headlines. Supported by a grant from the Pulitzer Center with institutional facilitation from Factum, the screening, at the Colombo City Centre, saw a sizeable crowd, a cross-section of Sri Lankan and South Asian civil society. This included not just ambassadors and embassy officials, but also think-tank representatives, political analysts, artists, youth, ex-military officials, and corporate figures.
+
+...
+
+[Data](articles/654da9dd.json)
+
+[Extended Data](ext_articles/654da9dd.ext.json)
+
+---
+
+### Special protection for Rajagiriya
 
 *2024-08-12 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199849) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාර ගැනෙන අගෝස්තු 15 වැනිදා මැතිවරණ කොමිෂන් සභා කාර්යාලය පිහිටි සරණ මාවත ආශ්‍රිත ප්‍රදේශය විශේෂ ආරක්ෂක කලාපයක් ලෙස නම් කර තිබේ.
+Rajagiriya's Election Commission office area is now a special security zone due to upcoming elections. This means no one except authorized personnel can enter. Public offices and hospitals near Karacha Magne will close on the 15th. Nominations for the election will take place on the 15th, with objections allowed from 9-11:30 am. After nominations, ballot papers will be prepared. Meanwhile, the Commissioner General of Elections reported receiving nearly 320 complaints about the presidential election while in Nuwara Eliya.
 
-එබැවින්, එදිනට එම ප්‍රදේශයට රාජකාරී හෝ වෙනත් කටයුතු සඳහා පැමිණීමෙන් වළකින ලෙසට ජනතාවගෙන් ඉල්ලා සිටින බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා සඳහන් කළේය.
+🟩
+
+The area of ​​the Election Commission's office, located on August 15, has been named as a special security zone at the Elections Commission's office.
+
+Therefore, the Chairman of the Elections Commission, the Chairman of the Elections for the public to avoid duties or other activities in the area. Mr. Ratnayake said.
 
 ...
 
 [Data](articles/268d3cd5.json)
+
+[Extended Data](ext_articles/268d3cd5.ext.json)
 
 ---
 
@@ -63,6 +83,8 @@ Although Japan is observing a holiday, some high-speed bullet trains and regular
 ...
 
 [Data](articles/0892099c.json)
+
+[Extended Data](ext_articles/0892099c.ext.json)
 
 ---
 
@@ -96,17 +118,23 @@ After two decades of politics, the lineage continued to decline in the civilian 
 
 ---
 
-### අලි සබ්රිට තවත් අමාත්‍ය ධුරයක්
+### Ali Sabra is another Minister
 
 *2024-08-12 12:54:51* · [`adalk`](https://www.ada.lk/breaking_news/අලි-සබ්රිට-තවත්-අමාත්‍ය-ධුරයක්/11-411322) · `si`
 
-විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා මීට සුළු වේලාවකට පෙර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ අධිකර, බන්ධනාගාර හා ආණ්ඩුක්‍රම ප්‍රතිසංස්කරණ අමාත්‍ය ධුරයේද දිවුරුම් දී තිබේ.
+Ali Sabri, appointed as Freedom Minister and previously Minister of Prison and Constitutional Reforms, succeeds Wijayadasa Rajapakse, who resigned. The change follows discussions leading to a presidential election, marked by a special gazette notification.
 
-එම අමාත්‍ය ධුරයේ කටයුතු කළ විජයදාස රාජපක්ෂ මහතා ජනාධිපතිවරණයට ඉදිරිපත් වීම හේතුවෙන් පසුගියදා ඉල්ලා අස්වූ අතර, පසුව අග්‍රාමාත්‍යවරයා සමග සාකච්ඡා කිරීමෙන් පසු අධිකරණ අමාත්‍ය ධුරය ජනාධිපතිවරයා යටතට ගනිමින් අති විශේෂ ගැසට් නිවේදනයක්ද නිකුත් කළේය.
+🟩
+
+Freedom Minister Ali Sabri, a sworn in as Minister of Paradise before President Ranil Wickremesinghe as a few days ago as Minister of Prison and Constitutional Reforms.
+
+Wijayadasa Rajapakse, who was present at the post of President, resigned recently, and after discussing the Presidential election, he issued a special gazette notification under the President.
 
 ◼️
 
 [Data](articles/9a8dd38c.json)
+
+[Extended Data](ext_articles/9a8dd38c.ext.json)
 
 ---
 
@@ -389,6 +417,20 @@ The Elections Commission further stated that representatives of the United SLFP 
 [Data](articles/1e9628ca.json)
 
 [Extended Data](ext_articles/1e9628ca.ext.json)
+
+---
+
+### The Jayewardene tradition from the JR Jayewardene Felicitation Volume of 1978
+
+*2024-08-12 11:46:00* · [`islandlk`](http://island.lk/the-jayewardene-tradition-from-the-jr-jayewardene-felicitation-volume-of-1978/) · `en`
+
+I accede gladly to the request of the compilers of this volume on J. R. Jayawardene to write something about the Jayawardene Tradition, for I belong to a dwindling number who knew his distinguished father and uncles and have read about his earlier forbears.
+
+Anyone familiar with the history of Sri Lanka must recognize the fact that even after foreign domination, the leadership, whether in government, politics or professional life, has come mainly from a leisured and enlightened minority. The spread of education and changes in income levels have to some extent modified the pattern but not eradicated it.
+
+...
+
+[Data](articles/06bfc070.json)
 
 ---
 
@@ -2247,65 +2289,5 @@ France won 16 golds to finish fifth on the table and their total tally of 64 med
 [Data](articles/c9155eef.json)
 
 [Extended Data](ext_articles/c9155eef.ext.json)
-
----
-
-### EU and Commonwealth election observers to monitor prez poll
-
-*2024-08-11 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/101158/eu-and-commonwealth-election-observers-to-monitor-prez-poll) · `en`
-
-The Election Commission has granted permission to international observers to monitor the 2024 Presidential Election.
-
-The Chairman of the Election Commission R.M.A.L. Ratnayake stated that election observers from the European Union (EU) and the Commonwealth have been authorized to monitor the poll.
-
-He said permission has been granted according to a request made by those associations.
-
-Accordingly, it is reported that the election observation teams of the European Union and the Commonwealth are scheduled to visit the island in the coming days.
-
-Meanwhile, the Minister of State for Finance Ranjith Siyambalapitiya says that the money allocated for the upcoming presidential election is sufficient.
-
-The Minister of State points out that even if there are more candidates, it will not be a problem for the presidential election.
-
-◼️
-
-[Data](articles/15bcebdc.json)
-
-[Extended Data](ext_articles/15bcebdc.ext.json)
-
----
-
-### Main Corporations 50 Over Cricket: Ace CCC has been championed by Ashan's great cricket;The action of Isuru Udana was fallen
-
-*2024-08-11 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190844) · `ta`
-
-Ace Capital Corporation clinched the 50-over cricket championship, defeating Colombo Cricket Club (CCC), thanks to key contributions from players like Tanukka Tabare, Raveen de Silva, and Sammu Ashan. Despite early losses, the team bounced back, led by Ashan's 97 runs and supported by solid bowling performances. Isuru Udana stood out with his efficient batting, scoring 80 runs off 46 balls. The tournament concluded with significant financial awards.
-
-🟩
-
-The Ace Capital Corporation won the Champion title in the 50 -over cricket match between the major clubs of the Major CLUB 50 Over Cricket for the year by Sri Lanka Cricket.
-
-The Ace Capital Corporation won by 4 wickets with the help of a half -century in the final against the Colombo Cricket (CCC) on Sunday (11).
-
-Ace Capital Corporation won by 6 wickets in 49 overs with 254 runs in the upcoming match.
-
-The first two players of the Ace Capital Cricket Club lost the game.
-
-However, team captain Tanukka Tabare and Raveen de Silva shared 59 runs in the 3rd wicket.
-
-After losing 48 runs, Raveen de Silva and Sammu Ashan shared 80 runs in the 4th wicket.
-
-Ashan shared 56 runs with Sakuna Liyanage with 25 runs.
-
-The Ace Capital Cricket Club lost 6 wickets in 47 overs and scored 221 runs.
-
-But Ravindu Ratnayake, who was in the aftermath, confirmed the team's victory with Asan Shammu with 22 runs without losing 7 balls.
-
-Sammu Asan, who was so relaxed with a lot of success, did not lose the game with 97 runs.
-
-...
-
-[Data](articles/832a6bb9.json)
-
-[Extended Data](ext_articles/832a6bb9.ext.json)
 
 ---

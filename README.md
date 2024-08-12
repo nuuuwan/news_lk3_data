@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 18:30:50**
+As of **2024-08-12 18:39:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,324 (100.0%) of 40,326 articles have been extended.
+40,326 (100.0%) of 40,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The PNB is carrying out further investigations regarding the suspects.
 ◼️
 
 [Data](articles/1c72345f.json)
+
+[Extended Data](ext_articles/1c72345f.ext.json)
 
 ---
 
@@ -69,6 +71,8 @@ During the interrogation of the driver, it has been revealed that the bus had su
 ...
 
 [Data](articles/eb04ae52.json)
+
+[Extended Data](ext_articles/eb04ae52.ext.json)
 
 ---
 

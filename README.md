@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 12:21:26**
+As of **2024-08-12 12:36:37**
 
 ## Newspaper Stats
 
-*Scraped **40,247** Articles*
+*Scraped **40,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ newsfirstlk | 363
 bbccomsinhala | 376
 colombotelegraphcom | 381
 islandlk | 2,329
-economynextcom | 2,427
+economynextcom | 2,431
 dailyftlk | 2,593
 adalk | 3,692
-adaderanalk | 4,687
+adaderanalk | 4,688
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,099
 virakesarilk | 6,377
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,244 (100.0%) of 40,247 articles have been extended.
+40,247 (100.0%) of 40,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Ali Sabry takes oath as new Justice Minister
+
+*2024-08-12 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101171/ali-sabry-takes-oath-as-new-justice-minister) · `en`
+
+Minister of Foreign Affairs Ali Sabry has taken oath as the new Minister of Justice, Prison Affairs and Constitutional Reforms, before the President, a short while ago.
+
+However on August 07, a Gazette notification was issued bringing the Ministry of Justice, Prison Affairs and Constitutional Reforms under the purview of President Ranil Wickremesinghe.
+
+This move came following the recent resignation of Wijeyadasa Rajapakshe from his ministerial portfolios to contest the upcoming Presidential election.
+
+On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest the upcoming Presidential Election while he stepped down from his ministerial position as the Minister of Justice, Prisons Affairs and Constitutional Reforms on July 29.
+
+◼️
+
+[Data](articles/521e1363.json)
+
+---
 
 ### AKD signs nomination papers for Presidential Election
 
@@ -45,6 +63,8 @@ The ceremony was attended by several NPP’s national executive members, includi
 ◼️
 
 [Data](articles/a00ae9e4.json)
+
+[Extended Data](ext_articles/a00ae9e4.ext.json)
 
 ---
 
@@ -64,6 +84,8 @@ The Presidential Election is scheduled to be held on September 21 and Nomination
 
 [Data](articles/1360758a.json)
 
+[Extended Data](ext_articles/1360758a.ext.json)
+
 ---
 
 ### Presidential Election 2024: Ex-Sports Minister Roshan Ranasinghe places deposit
@@ -81,6 +103,8 @@ The Presidential Election is scheduled to be held on September 21 and Nomination
 ◼️
 
 [Data](articles/872d9ca7.json)
+
+[Extended Data](ext_articles/872d9ca7.ext.json)
 
 ---
 
@@ -450,6 +474,28 @@ Speaking on the occasion, he said, 'All the people of the state should be safe w
 
 ---
 
+### Sri Lanka’s HNB to raise upto Rs12bn in debenture issue
+
+*2024-08-12 10:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-to-raise-upto-rs12bn-in-debenture-issue-176357/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hatton National Bank Plc is planning to raise up to 12 billion rupees in a debenture issue, the top-tier bank said.
+
+The Basel III compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion feature will be offered at 100 rupees each.
+
+Initially 80 million of the 5-year (2024/2029) 7-year(2024/2031) and 10-year (2024/34) debentures will be issued.
+
+A further 40 million will be issued if the first tranche is oversubscribed, the bank said in a stock exchange filing.
+
+The Colombo Stock Exchange has approved the listing in principle.
+
+NDB Investment Bank Limited and Acuity Partners (Private) Limited are the joint managers of the debenture issue.
+
+◼️
+
+[Data](articles/bd0e13ad.json)
+
+---
+
 ### Sri Lankan worker remittances in first 7 months up by 10.3%
 
 *2024-08-12 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101164/sri-lankan-worker-remittances-in-first-7-months-up-by-103) · `en`
@@ -463,6 +509,30 @@ This marks a 10.3% increase compared to the same period last year, according to 
 [Data](articles/d1edeaec.json)
 
 [Extended Data](ext_articles/d1edeaec.ext.json)
+
+---
+
+### Sri Lanka to pay Rs6,000 to state pensioners in October after EC opposition
+
+*2024-08-12 10:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rs6000-to-state-pensioners-in-october-after-ec-opposition-176359/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state pensioners will be paid 6,000 rupees in October after an increase of 3,000 rupees from September was shot down by the Elections Commissions, State Minister for Finance Ranjith Siyambalapitiya said.
+
+The cabinet decided to pay the 3,000 rupee allowance to 700,000 pensioners effective September.
+
+But the elections commission opposed it as an election was declared, Minister Siyambalapitiya said.
+
+As a result, a 6,000 rupee payment would be made with arrears in October. From November 3,000 rupees would be added to the pension, he said.
+
+Earlier this year a 2,500 rupee allowance was given to pensioners.
+
+Unlike unemployed graduates who are hired without actual vacancies, many of Sri Lanka’s current pensioners were in government service working for small salaries.
+
+In the 1980s and early 1990s when the central bank and macro-economists busted the currency incessantly without a credible anchor for money, they got very low real wages.
+
+...
+
+[Data](articles/95ea718b.json)
 
 ---
 
@@ -715,6 +785,46 @@ The Rajapaksas followed them and eventually thrown away. We thank Mahinda Rajapa
 [Data](articles/b7ab8f54.json)
 
 [Extended Data](ext_articles/b7ab8f54.ext.json)
+
+---
+
+### IMF classifies Sri Lanka’s exchange regime as ‘other managed’ arrangement
+
+*2024-08-12 09:40:00* · [`economynextcom`](https://economynext.com/imf-classifies-sri-lankas-exchange-regime-as-other-managed-arrangement-176326/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s exchange rate arrangement involving ad hoc interventions, which has so far remained stable and provided a strong foundation for economic activities to resume amid broadly deflationary monetary policy, has been classified as ‘other managed’ by the International Monetary Fund.
+
+Especially after 1978 as the IMF’s Second Amendment to its Articles deprived members of a credible anchor for money, countries ended up with various exchange rates arrangements, which collapse due to conflicting money and exchange policies, triggering high inflation, social unrest and political upheavals.
+
+“The de jure exchange rate arrangement is classified as free floating, while the de facto exchange rate arrangement is classified as other managed,” the IMF said in its last economic report.
+
+...
+
+[Data](articles/ac4a81a7.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 299.85/300.00 to US dollar
+
+*2024-08-12 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-85-300-00-to-us-dollar-176329/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.85/300.00 to the US dollar on Monday, dealers said. Bond yields were steady, they said, and stocks opened up 0.11 percent.
+
+In the secondary market, treasury bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.00/10 percent, from 11.05/10 percent.
+
+A bond maturing on 15.12.2027 was quoted stable at 12.10/20 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.20/40 percent.
+
+A bond maturing on 15.12.2029 was quoted stable at 12.60/70 percent.
+
+In equities, Colombo’s All Share Price Index opened 12.91 points higher at 11,316, while the S&P SL20 of more liquid stocks opened up at 0.20 percent or 6.48 points to 3,231.
+
+◼️
+
+[Data](articles/5af9734c.json)
 
 ---
 
@@ -2187,119 +2297,5 @@ It's not a problem that I don't have the hand points. No vote for Bandaranaike. 
 [Data](articles/4f938ce7.json)
 
 [Extended Data](ext_articles/4f938ce7.ext.json)
-
----
-
-### No decision yet on reducing Sri Lanka arrack price
-
-*2024-08-11 18:23:00* · [`economynextcom`](https://economynext.com/no-decision-yet-on-reducing-sri-lanka-arrack-price-176323/) · `en`
-
-ECONOMYNEXT – There has been decision taken to reduce the price of arrack, State Minister Ranjith Siyambalapitiya said, amid concerns over inadvertent tax incentives given to hooch makers through after steep tax hikes on top of a currency collapse.
-
-Though there have been requests by various parties to reduce the price of arrack no decision has been taken yet, he was quoted as saying to reporters in Yatiyanthota.
-
-There were commitment given to the World Health Organization and other organizations about maintaining certain tax rates, he said.
-
-Though there is usually desire to reduce the price of goods this can be considered later, he said.
-
-There were reports that the price of a bottle of arrack would be reduced as much at 1,000 rupees.
-
-As legal sales dropped, there are concerns that many less affluent groups are moving to moonshine and other products. (Colombo/Aug11/2024)
-
-◼️
-
-[Data](articles/fc414295.json)
-
-[Extended Data](ext_articles/fc414295.ext.json)
-
----
-
-### Donald Trump’s campaign says its emails were hacked by Iran
-
-*2024-08-11 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/101156/donald-trumps-campaign-says-its-emails-were-hacked-by-iran) · `en`
-
-Former President Donald Trump’s presidential campaign said Saturday that it has been hacked and suggested Iranian actors were involved in stealing and distributing sensitive internal documents.
-
-The campaign provided no specific evidence of Iran’s involvement, but the claim comes a day after Microsoft issued a report detailing foreign agents’ attempts to interfere in the U.S. campaign in 2024.
-
-It cited an instance of an Iranian military intelligence unit in June sending “a spear-phishing email to a high-ranking official of a presidential campaign from a compromised email account of a former senior advisor.”
-
-...
-
-[Data](articles/2c9e6f75.json)
-
-[Extended Data](ext_articles/2c9e6f75.ext.json)
-
----
-
-### The US is two
-
-*2024-08-11 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199826) · `si`
-
-In the Paris Olympics, China surpassed the US in gold medals, leading 40 to 38. Meanwhile, SiFAN from the Netherlands set a new record winning the women's marathon in 2:25, securing her first gold medal. She had previously won bronze in the 10,000m and silver in the 5,000m events.
-
-🟩
-
-China has been able to override the US in the Paris Olympics.
-
-China has now won 40 gold medals and the US has only 38 gold medals.
-
-Meanwhile, Sifa Haszan in the Netherlands in the Netherlands to win the women's marathon gold medal at the 2024 Olympics.
-
-The 31-year-old Sifa marathon was completed during the end of 2 hours and 25 minutes. It is a new Olympic report.
-
-The second place in Ethiopia won the Tigsta of Ethiopia and helen Maoi was placed third in Kenya.
-
-SiFAN won the copper medals from 10,000 and 5,000m events in this year's Olympics.
-
-◼️
-
-[Data](articles/0bc18499.json)
-
-[Extended Data](ext_articles/0bc18499.ext.json)
-
----
-
-### Sri Lankan arrested for illegally visiting Wennappuwa beach by Indian fishing boat
-
-*2024-08-11 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190834) · `ta`
-
-A Sri Lankan man was arrested for illegally entering Wennappuwa beach via an Indian fishing boat. He had previously been detained in 2021 in India for drug offenses. The Sri Lankan navy and police are investigating this latest incident.
-
-🟩
-
-A Sri Lankan man has been arrested for illegally visiting Wennappuwa beach by Indian fishing boat.
-
-He has been arrested by the Sri Lankan navy and the police.
-
-Investigations revealed that the man was arrested in 2021 for drug trafficking in India.
-
-In addition, the Wennappuwa police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/bcc7a0c9.json)
-
-[Extended Data](ext_articles/bcc7a0c9.ext.json)
-
----
-
-### Roshan Ranasinghe is also in the presidential
-
-*2024-08-11 18:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-ரணசிங்கவும்-ஜனாதிபதி-களத்தில்/175-341975) · `ta`
-
-Former Sports Minister Roshan Ranasinghe announced his candidacy for the upcoming presidential election during a Sri Lanka Foundation event.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe has said that he will contest the upcoming presidential election.
-
-He said this while addressing an event under the Sri Lanka Foundation.
-
-◼️
-
-[Data](articles/56f5b3ae.json)
-
-[Extended Data](ext_articles/56f5b3ae.ext.json)
 
 ---

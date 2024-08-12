@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 07:54:04**
+As of **2024-08-12 08:16:31**
 
 ## Newspaper Stats
 
-*Scraped **40,198** Articles*
+*Scraped **40,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 4,676
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,081
 virakesarilk | 6,376
-adaderanasinhalalk | 6,833
+adaderanasinhalalk | 6,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,186 (100.0%) of 40,198 articles have been extended.
+40,195 (100.0%) of 40,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### තරුණ පුද්ගලයෙක් දුම්රියේ ගැටෙයි
+
+*2024-08-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199836) · `si`
+
+කොළඹ සිට බදුල්ල දක්වා ධාවනය වූ සීඝ්‍රගාමී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+
+පිළිමතලාව සහ පැණිදෙනිය දුම්රිය ස්ථාන අතර ප්‍රදේශයේ දී ඊයේ (11) රාත්‍රියේ සිදුව ඇති මෙම අනතුර සම්බන්ධව පේරාදෙණිය පොලීසිය විසින් විමර්ශනයක් ද ආරම්භ කර තිබේ.
+
+මරණකරු අවුරුදු 35ක් පමණ වන පුද්ගලයෙකු බවත් උස අඩි 06 අඟල් 04ක් පමණ වන අතර, දම්පාට කොට කලිසමක් හා අළු පැහැති ටී ෂර්ට් එකක් ඇඳ සිටි අයෙකු බවත් පොලීසිය පවසයි.
+
+මෘතදේහය පේරාදෙණිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර පේරාදෙණිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/780ddbdd.json)
+
+---
+
+### ග්‍රාම නිලධාරීන්ගේ වර්ජන ජනාධිපතිවරණය ට බලපායි ද ?
+
+*2024-08-12 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199834) · `si`
+
+ජනාධිපතිවරණය සම්බන්ධයෙන් වන සියලු කාර්යයන් ගැටලුවකින් තොරව සිදුකිරීමට ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානය මීට පෙර එකඟතාවය පළ කළ ද යළිත් ඔවුන් සමග සාකච්ඡා කිරීමට බලාපොරොත්තු වන බව මැතිවරණ කොමිසම පවසයි.
+
+ග්‍රාම නිලධාරීන් දියත්කර ඇති වර්ජන ක්‍රියාමාර්ගය හරහා ජනාධිපතිවරණයට බලපෑමක් එල්ල වන්නේ ද යන්න සම්බන්ධයෙන් මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතාගෙන් "අද දෙරණ" කළ විමසීමක දී ඔහු මේ බව පැවසීය.
+
+කෙසේවෙතත්, අද (12) සහ හෙට (13) සියලු රාජකාරී වලින් ඉවත් වන බවත් දීපව්‍යාප්ත විරෝධතා සතියක් ද ආරම්භ කරන බවත් ග්‍රාම නිලධාරී වෘත්තිය සමිති සන්ධානය පවසයි.
+
+එම සන්ධානයේ සම සභාපති නන්දන රණසිංහ මහතා ප්‍රකාශ කළේ ගැසට් කරන ලද ග්‍රාම නිලධාරීන්ගේ සේවා ව්‍යවස්ථාවට සිය යෝජනා ඇතුළත් නොකිරීම හේතුවෙන් මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය ගන්නා බවයි.
+
+අද පෙරවරුවේ රාජ්‍ය පරිපාලන අමාත්‍යංශය ඉදිරිපිට දී නිහඬ විරෝධතා ව්‍යාපාරයක නිරත වන බව ද ඒ මහතා වැඩිදුරට සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8ecbd6da.json)
+
+---
 
 ### Thundershowers during the next few days
 
@@ -736,6 +774,8 @@ The Hospital is planning to have more than 50 rooms including luxurious suites t
 
 [Data](articles/a49a8f79.json)
 
+[Extended Data](ext_articles/a49a8f79.ext.json)
+
 ---
 
 ### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
@@ -747,6 +787,8 @@ AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Award
 ...
 
 [Data](articles/70b0934c.json)
+
+[Extended Data](ext_articles/70b0934c.ext.json)
 
 ---
 
@@ -767,6 +809,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/bc717f89.json)
+
+[Extended Data](ext_articles/bc717f89.ext.json)
 
 ---
 
@@ -796,6 +840,8 @@ Introduced in response to the growing demand for gold loan services, the newly d
 
 [Data](articles/cf9a36ed.json)
 
+[Extended Data](ext_articles/cf9a36ed.ext.json)
+
 ---
 
 ### CSE accredited as a Great Place to Work in Sri Lanka
@@ -815,6 +861,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/174e4487.json)
+
+[Extended Data](ext_articles/174e4487.ext.json)
 
 ---
 
@@ -920,6 +968,8 @@ The science fiction epic, set for release on 19 December 2025, comes after 2009�
 
 [Data](articles/f80ef15a.json)
 
+[Extended Data](ext_articles/f80ef15a.ext.json)
+
 ---
 
 ### Support for those who provide the Samasti -based power -sharing system in the combined Northeast;The Sinhalese people should be notified - the Tamil party
@@ -962,6 +1012,8 @@ LK Domain Registry is the sole administrator for web addresses ending in ‘.lk�
 
 [Data](articles/c3b79471.json)
 
+[Extended Data](ext_articles/c3b79471.ext.json)
+
 ---
 
 ### ADB steps up to support accountant entrepreneur in her own venture
@@ -975,6 +1027,8 @@ Chamini told us that she wanted to harness her full entrepreneurship potential t
 ...
 
 [Data](articles/0d331e93.json)
+
+[Extended Data](ext_articles/0d331e93.ext.json)
 
 ---
 
@@ -1100,19 +1154,25 @@ The Navy said that the suspect would be conducted by the Wennappuwa Police about
 
 ---
 
-### ලාංඡන, නම් මට අදාළ නෑ - නිදහස් පාක්ෂිකයන් මා සමගයි
+### Badges, if not relevant - free ones are with me
 
 *2024-08-11 18:23:18* · [`adalk`](https://www.ada.lk/breaking_news/ලාංඡන--නම්-මට-අදාළ-නෑ---නිදහස්-පාක්ෂිකයන්-මා-සමගයි/11-411311) · `si`
 
-ශ්‍රී ලංකා නිදහස් පාක්ෂිකයන් තමා සමග සිටින බවත්, ඒ අනුව තමාට ලාංඡන, නම් අදාළ නොවන බවත් ජනාධිපතිවරණ අපේක්ෂක පාර්ලිමේන්තු මන්ත්‍රී විජයදාස රාජපක්ෂ මහතා පැවසීය.
+MP Wijesadasa Rajapakse stated at a Colombo briefing that he had support from Sri Lanka's free supporters, dismissing any relevance of badges or names associated with him. He mentioned not needing hand points or votes for Bandaranaike, referencing historical events like the 1956 cartwheel demand and Chandrika's chair request. He also noted that his actions, including building the UPFA's Bulawan, made such symbols irrelevant to him.
 
-කොළඹ අද(11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-අත ලකුණු මට නෑ කියන එක ප්‍රශ්නයක් නෙවෙයි. බණ්ඩාරනායක අගමැතිවත් අතින් ඡන්දය ඉල්ලලා නෑ. 1956 ඡන්දේ දිනුවේ කරත්ත රෝදයෙන් ඉල්ලලා. චන්ද්‍රිකා මැතිණිය දිණුවේ පුටුවෙන් ඉල්ලලා. මහින්ද මහත්මයා දිණුවේ මම හදපු එක්සත් ජනතා නිදහස් සන්ධානයේ බුලතින් ඉල්ලලා. ඒ නිසා මේ ලාංඡනයයි නමයි අපිට අදාළ නෑ.
+MP Wijesadasa Rajapakse said Sri Lanka's free supporters were with him and that they were not relevant to him, the names of the names of him.
+
+He was speaking at a media briefing held in Colombo today (11).
+
+It's not a problem that I don't have the hand points. No vote for Bandaranaike. The 1956 votes demanded the cart wheel. Chandrika asks for his chair. Mr. Mahinda asked for the Bulawan of the UPFA, I built. Therefore, this logo and the name is not relevant to us.
 
 ◼️
 
 [Data](articles/4f938ce7.json)
+
+[Extended Data](ext_articles/4f938ce7.ext.json)
 
 ---
 
@@ -2211,55 +2271,5 @@ The Chairman of the Commission Nimal Punjihewa said that the Police Inspector Ge
 [Data](articles/fec05eef.json)
 
 [Extended Data](ext_articles/fec05eef.ext.json)
-
----
-
-### Grama Niladhari makes a hard decision
-
-*2024-08-11 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199811) · `si`
-
-Grama Niladhari staff face dismissal on August 12 and 13. The UPFA Alliance holds a media briefing, led by Nandana Ranasinghe.
-
-🟩
-
-They say that they will be dismissed on 12th and 13 August 12 and 13.
-
-The Alliance of UPFA holding a media briefing of the UPFA, Nandana Ranasinghe, holding a press conference.
-
-◼️
-
-[Data](articles/598f614c.json)
-
-[Extended Data](ext_articles/598f614c.ext.json)
-
----
-
-### Dinesh Gunawardena, Gamini Lokuke, we examined the field of standing as a candidate;We would have supported Vijayadasa - Basil
-
-*2024-08-11 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/190805) · `ta`
-
-Basil Rajapaksa, former Finance Minister, explored potential candidates including Dinesh Gunawardena and Gamini Lokuke for the presidency. Despite considering supporting Vijayadasa Rajapaksa, the party decided to back Namal Rajapaksa due to regional organization requests. The district representatives sought expulsion of those backing Ranil Wickremesinghe, but were advised against it by Mahinda and Gotabaya Rajapaksas. Basil expressed confidence in rectifying past mistakes and ensuring the party's welfare.
-
-🟩
-
-Former Finance Minister Basil Rajapaksa Vijayadasa, who has announced that we will also have expressed his exploring many people, including Dinesh Gunawardena Gamini Lokuke, to appoint the presidential candidate after his quitting of the Thamika Perera competition.
-
-Prime Minister Dinesh Gunawardena Member of Parliament, Kaminilakuke, has examined the candidate of the party's general secretary Sakarakariyawasam.
-
-Due to the request of the party's regional organizations, we decided to appoint Namalrajapaksa.
-
-We would have supported Vijayadasa Rajapaksa, even if we contested under a different party, but he is still a member of the PA in Parliament.
-
-Meanwhile, the district level representatives have requested that the party's decision be expelled from the party and expelled those who supported Ranil Wickremesinghe.
-
-However, Mahinda Rajapaksa and Rajapaksa in hunger have said that this is not the time.
-
-Basil Rajapaksa said, "I am confident that many people will recover their mistakes.
-
-...
-
-[Data](articles/d288708b.json)
-
-[Extended Data](ext_articles/d288708b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 23:07:14**
+As of **2024-08-12 23:21:17**
 
 ## Newspaper Stats
 
-*Scraped **40,348** Articles*
+*Scraped **40,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,593
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,119
+tamilmirrorlk | 5,120
 virakesarilk | 6,385
 adaderanasinhalalk | 6,864
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,348 (100.0%) of 40,348 articles have been extended.
+40,348 (100.0%) of 40,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### கட்டுப்பணம் செலுத்தியவர்களின் எண்ணிக்கை மேலும் அதிகரிப்பு
+
+*2024-08-12 23:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தியவர்களின்-எண்ணிக்கை-மேலும்-அதிகரிப்பு/175-342060) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக இன்று (12) வரை 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதன்படி, அங்கீகரிக்கப்பட்ட 16 அரசியல் கட்சிகளும், மற்றுமொரு அரசியல் கட்சியும் மற்றும் 15 சுயேட்சை வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியவர்களில் அடங்குவர்.
+
+வேட்பாளர்களுக்காக கட்டுப்பணம் செலுத்தும் காலம் எதிர்வரும் புதன்கிழமை (14) நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/a025bb20.json)
+
+---
 
 ### Suspect sells beer in Kandy Perahera
 
@@ -2253,27 +2269,5 @@ Several National Executive Members of the National Executive Members of the JVP 
 [Data](articles/979dcaa5.json)
 
 [Extended Data](ext_articles/979dcaa5.ext.json)
-
----
-
-### 15 hours of water today
-
-*2024-08-12 11:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-15-மணித்தியால-நீர்வெட்டு/175-342019) · `ta`
-
-In Galle, a 15-hour water cut is scheduled from 1 PM Monday to 4 AM Tuesday, affecting areas like Akmeemana, Bope, Pothala, Habarathuwa, and Ahungama due to maintenance work by NWSDB.
-
-🟩
-
-The National Water Supply and Drainage Board (NWSDB) said that 15 hours of water cut will be implemented in some parts of Galle.
-
-Accordingly, the waterway will be implemented from 01.00 pm to 4.00 am on Tuesday (13) at 4.00 am today.
-
-Due to the revision, the waterfront will be implemented in Akmeemana, Bope, Pothala, Habarathuwa and Ahungama.
-
-◼️
-
-[Data](articles/26eb8ec5.json)
-
-[Extended Data](ext_articles/26eb8ec5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 16:21:12**
+As of **2024-08-12 16:36:28**
 
 ## Newspaper Stats
 
-*Scraped **40,306** Articles*
+*Scraped **40,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,331
 economynextcom | 2,437
 dailyftlk | 2,593
 adalk | 3,700
-adaderanalk | 4,696
+adaderanalk | 4,697
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,110
+tamilmirrorlk | 5,111
 virakesarilk | 6,385
 adaderanasinhalalk | 6,855
 
@@ -26,13 +26,41 @@ adaderanasinhalalk | 6,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,303 (100.0%) of 40,306 articles have been extended.
+40,303 (100.0%) of 40,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### මීරිගම මාරක අනතුරක් - 3ක් මරුට
+### 3 killed, 3 injured after three-wheeler crashes into parked lorry
+
+*2024-08-12 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101180/3-killed-3-injured-after-three-wheeler-crashes-into-parked-lorry) · `en`
+
+Three persons including the driver were killed while three others have been injured and hospitalized after the three-wheeler they were travelling in had collided with a parked lorry in the Wewaldeniya area.
+
+◼️
+
+[Data](articles/e5bfa8bb.json)
+
+---
+
+### பேருந்து மோதி  ஒருவர் மரணம்
+
+*2024-08-12 16:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-ஒருவர்-மரணம்/175-342038) · `ta`
+
+பண்டாரகம - கெஸ்பேவ வீதி கல்கடே சந்தியில் நின்று கொண்டிருந்த இருவர் மீது இ . போ . சபைக்கு சொந்தமான பேருந்தொன்று மோதியதில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+
+அக்குரஸ்ஸ பகுதியைச் சேர்ந்த 45 -55 மதிக்கத்தக்க வயதுடைய ஒருவரே விபத்தில் உயிரிழந்துள்ளார்.
+
+அத்துடன் பேருந்தில் பயணித்த பெண் ஒருவரும் கையில் பலத்த காயம் ஏற்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது .
+
+◼️
+
+[Data](articles/d3713a11.json)
+
+---
+
+### නුවර පාරේ මාරක අනතුරක් - 3ක් මරුට
 
 *2024-08-12 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199857) · `si`
 
@@ -2215,47 +2243,5 @@ The President of the Jagath Olympic Committee officially asserted it to the Unit
 [Data](articles/3fbbacd5.json)
 
 [Extended Data](ext_articles/3fbbacd5.ext.json)
-
----
-
-### Election Commission plans talks amid Grama Niladhari Officers’ strike
-
-*2024-08-12 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101161/election-commission-plans-talks-amid-grama-niladhari-officers-strike) · `en`
-
-The Election Commission has stated that despite the All-Island Grama Niladhari Officers’ Association previously agreeing to carry out all duties related to the presidential election without issues, they plan to negotiate with the association again.
-
-When inquired by Ada Derana, regarding the potential impact of the Grama Niladhari officers’ strike on the presidential election, the Chairman of the Election Commission, R.M.A.L. Ratnayake revealed this.
-
-However, the Grama Niladhari Officers’ Alliance announced that they will withdraw from all duties today (12) and tomorrow (13) and will begin a week-long nationwide protest.
-
-The co-President of the Grama Niladhari officers’ Alliance Nandana Ranasinghe, stated that the strike is in response to their proposals not being included in the gazetted Grama Niladhari officers’ service constitution.
-
-He also mentioned that they would hold a silent protest in front of the Ministry of Public Administration this morning (12).
-
-◼️
-
-[Data](articles/9ba6a1d2.json)
-
-[Extended Data](ext_articles/9ba6a1d2.ext.json)
-
----
-
-### Evening thundershowers expected in most parts of the island
-
-*2024-08-12 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101160/evening-thundershowers-expected-in-most-parts-of-the-island) · `en`
-
-The Meteorology Department says atmospheric  conditions are favorable for development of evening thundershowers in the island during the next few days.
-
-Showers or thundershowers will occur at most places in the island during the evening or night.
-
-A few Showers may occur in Kaluthara, Galle, Matara and Rathnapura districts during the morning too while heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Southern, Northern and North-central provinces, it said.
-
-The general  public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/aebd139a.json)
-
-[Extended Data](ext_articles/aebd139a.ext.json)
 
 ---

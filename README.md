@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 15:55:27**
+As of **2024-08-12 16:09:03**
 
 ## Newspaper Stats
 
-*Scraped **40,300** Articles*
+*Scraped **40,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,437
 dailyftlk | 2,593
-adalk | 3,699
+adalk | 3,700
 adaderanalk | 4,695
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,108
+tamilmirrorlk | 5,110
 virakesarilk | 6,385
 adaderanasinhalalk | 6,853
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,285 (100.0%) of 40,300 articles have been extended.
+40,300 (100.0%) of 40,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### நிவாரணம் வழங்க உடனடி நடவ​டிக்கை
+
+*2024-08-12 15:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-உடனடி-நடவ-டிக்கை/175-342036) · `ta`
+
+சிறு போக விவசாயத்தின் பாதிப்புக்கள் தொடர்பான அறிக்கைகளை வழங்குமாறு விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர விவசாயத் திணைக்களத்திற்கு ஆலோசனை வழங்கியுள்ளார்.
+
+அதன்படி சிறுபோகத்தில் விவசாயப் பாதிக்கப்புக்கள் பதிவு செய்யப்பட்ட பிரதேசங்களுக்கு அதற்கான நிவாரணங்களை வழங்குவதற்கு நடவடிக்கை எடுத்ததாக அமைச்சர் விவசாய மற்றும் கமநலக் காப்புறுதிச் சபைக்கு பணிப்புரை விடுத்தார்.
+
+அதிகமான பிரதேசங்களில் இன்னும் விரைவில் அறுவடை இடம்பெறுவதாகவும், அறுவடை முடிந்ததும் உடனடியாக விவசாயப் பாதிப்பிற்கான கொடுப்பனவை வழங்குவதற்கு விவசாய மற்றும் கமநல காப்புறுதிச் சபை நடவடிக்கை எடுத்துள்ளது.
+
+இம்முறை சிறுபோகத்தில் உற்பத்தி செய்யப்பட்ட சகல வயல்களும் 480,000 ஹெக்டயரில் 20இலட்சம் மெட்ரிக் தொன் நெல் அறுவடை கிடைக்கும் என மதிப்பிடப்பட்டிருந்தது.
+
+அறுவடை செய்யப்பட்ட மொத்த நெல் உற்பத்தியில் 77 வீதமானவை நாட்டு நெல் வகைகளும், 11வீதம் சம்பா நெல் என்றும், 12 வீதம் கீறி சம்பா என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/229b9705.json)
+
+---
+
+### வேவல்தெனிய விபத்தில் மூவர் பலி: மூவர் காயம்
+
+*2024-08-12 15:41:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேவல்தெனிய-விபத்தில்-மூவர்-பலி-மூவர்-காயம்/175-342035) · `ta`
+
+வறக்காபொல ​வேவல்தெனிய பிரதேசத்தில் இன்று (12) பகல் இடம்பெற்ற வாகன விபத்தில், மூவர் பலியானதுடன், மூவர் படுகாயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9ecdbc36.json)
+
+---
 
 ### Wages Board passes minimum daily wage for plantation workers
 
@@ -45,6 +77,8 @@ Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman 
 ◼️
 
 [Data](articles/3a813868.json)
+
+[Extended Data](ext_articles/3a813868.ext.json)
 
 ---
 
@@ -63,6 +97,8 @@ The service was virtually flagged off by Prime Minister Narendra Modi on October
 ◼️
 
 [Data](articles/3664c7d6.json)
+
+[Extended Data](ext_articles/3664c7d6.ext.json)
 
 ---
 
@@ -84,21 +120,29 @@ The special security zone will encompass Sarana Mawatha in Rajagiriya, with only
 
 [Data](articles/bb9c4e0c.json)
 
+[Extended Data](ext_articles/bb9c4e0c.ext.json)
+
 ---
 
-### இரண்டு எம்.பிக்களின் ஆசனங்களில் வெற்றிடம்
+### Vacuum in the seats of two MPs
 
 *2024-08-12 15:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-எம்-பிக்களின்-ஆசனங்களில்-வெற்றிடம்/175-342033) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரின் ஆசனங்கள் இரத்து செய்யப்பட்டதன் காரணமாக வெற்றிடமான இரண்டு ஆசனங்கள் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவின் தவிசாளருக்கு அறிவிக்கப்பட்டுள்ளது.
+Two MP seats have become vacant after the Supreme Court upheld the SJB's decision to remove Manusha Nanayakkara and Harin Fernando from the party. The Elections Commission was notified through official channels.
 
-1981 ஆம் ஆண்டு 1 ஆம் இலக்க பாராளுமன்ற தேர்தல் சட்டத்தின் 64(1) மற்றும் 64(5) ஆகிய பிரிவுகளின் பிரகாரம் இரண்டு வெற்றிடங்கள் தொடர்பில் பாராளுமன்றத்தின் பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன எழுத்து மூலம் தேர்தல்கள் ஆணைக்குழு தலைவருக்கு அறிவித்துள்ளார்.
+🟩
 
-காலி மாவட்ட பாராளுமன்ற உறுப்பினர் மனுஷ நாணயக்கார மற்றும் தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினர் ஹரின் பெர்னாண்டோ ஆகியோரை கட்சியில் இருந்து நீக்குவதற்கான ஐக்கிய மக்கள் சக்தியின் (SJB) தீர்மானம் சட்ட ரீதியாக செல்லுபடியாகும் என உயர் நீதிமன்றம் தீர்ப்பு வெளியிட்டமை குறிப்பிடத்தக்கது.cs
+The Elections Commission's Chairman has been informed about two vacant seats due to the cancellation of the seats of MPs Manusha Nanayakkara and Harin Fernando.
+
+The Secretary General of Parliament Saminda Gularatne has informed the Chairman of the Elections Commission in writing of two vacancies in terms of sections 64 (1) and 64 (5) of the Parliamentary Election Act No. 1 in 1981.
+
+The Supreme Court has ruled that the United People's Power (SJB) resolution to remove the Galle District Parliamentarian Manusha Nanayakkara and National List MP Harin Fernando from the party is legally valid.
 
 ◼️
 
 [Data](articles/790f8398.json)
+
+[Extended Data](ext_articles/790f8398.ext.json)
 
 ---
 
@@ -162,21 +206,27 @@ On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya�
 
 ---
 
-### ரூ. 1,700 சம்பள உயர்வு வழங்க தீர்மானம்
+### Rs.. Resolution to provide a salary increase of 1,700
 
 *2024-08-12 14:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-700-சம்பள-உயர்வு-வழங்க-தீர்மானம்/175-342032) · `ta`
 
-தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு வழங்குவதில் தாமதம் ஏற்பட்டிருந்த நிலையில், சம்பள நிர்ணய சபையில் திங்கட்கிழமை (12)  இடம்பெற்ற பேச்சுவார்த்தையில் இறுதி தீர்வு எட்டப்பட்டுள்ளது. வாக்கெடுப்பு மூலமாக 1700 ரூபாய் சம்பளம் வழங்க தீர்மானம் எட்டப்பட்டுள்ளது என கிழக்கு மாகாண ஆளுநரின் ஊடகப் பிரிவு அறிவித்துள்ளது.
+A wage-setting council resolved to increase plantation workers' salaries by 1,700 rupees, a decision welcomed by the Eastern Province Governor Senthil Thondaman and supported by President Ranil Wickremesinghe and former Minister Manusha Nanayakkara. This resolution comes after a delay in payment and follows a referral to the High Court for revision.
 
-சம்பள விடயம், உயர் நீதிமன்றத்திற்கு எடுத்து செல்லப்பட்ட நிலையில், நீதிமன்றத்தால்  குறிப்பிடப்பட்ட தவறுகளை திருத்தி அமைத்து 1,700 ரூபாய் சம்பளம் உயர்வை பெற்றுத்தர முடியுமென அறிவிக்கப்பட்டுள்ளது என அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதற்குமுழு ஒத்துழைப்பு வழங்கிய ஜனாதிபதி ரணில் விக்ரமசிங்க, முன்னாள் அமைச்சர் மனுஷ நாணயக்கார ஆகியோருக்கு  கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிஸின் தலைவருமான செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+The final settlement was reached in a wage -setting council on Monday (12), as plantation workers were delayed in paying a salary of 1700 rupees.. The Media Unit of the Eastern Province Governor has announced that a resolution has been reached by a referendum.
 
-மேலும், இலங்கை தொழிலாளர் காங்கிரஸ்  தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் சம்பளத்தை முன்மொழிந்தது போல அதனை மக்கள் கை பெற்றுக்கொடுக்கும் முழுப்பொறுப்பும்  இலங்கை தொழிலாளர் காங்கிரஸுக்கு உள்ளது எனவும்  செந்தில் தொண்டமான் தெரிவித்துள்ளார்.
+It has been announced that the salary issue has been taken to the High Court and it has been announced that the salary of Rs 1,700 can be revised by the court.
+
+Senthil Thondaman, the Governor of the Eastern Province and the President of the Eastern Province, has thanked President Ranil Wickremesinghe and former Minister Manusha Nanayakkara, who cooperated.
+
+Senthil Thondaman also said that the Ceylon Workers Congress has a full contribution to the Ceylon Workers Congress as a salary of 1,700 rupees for plantation workers.
 
 ◼️
 
 [Data](articles/4f79c91d.json)
+
+[Extended Data](ext_articles/4f79c91d.ext.json)
 
 ---
 
@@ -215,6 +265,8 @@ The funds, committed through a Development Objective Grant Agreement between USA
 ...
 
 [Data](articles/5af5d330.json)
+
+[Extended Data](ext_articles/5af5d330.ext.json)
 
 ---
 
@@ -286,19 +338,25 @@ This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Elector
 
 ---
 
-### ஆசிரியையின் நிர்வாண படம்: மாணவர்கள் இருவர் கைது
+### Teacher's nude picture: two students arrested
 
 *2024-08-12 14:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையின்-நிர்வாண-படம்-மாணவர்கள்-இருவர்-கைது/76-342030) · `ta`
 
-இளம் பெண் ஆசிரியை ஒருவரின் முகத்துக்கு  நிர்வாண புகைப்படத்தை இணைத்து  சமூக வலைத்தளங்களில் வெளியிட்ட குற்றச்சாட்டில் மாத்தளை விஜய வித்தியாலயத்தைச் சேர்ந்த 14 வயதுடைய மாணவர்கள் இருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two 14-year-old students from Matale Vijaya Vidyalaya were arrested for posting a nude photo of a female teacher online, which she had accidentally sent while training them as dancers. The incident sparked outrage, leading to the teacher filing a complaint with the police.
 
-பொல்கொல்ல மகாவலி கல்வி பீடத்தில் இருந்து மாத்தளை விஜய வித்தியாலயத்திற்கு ஒரு வருட பயிற்சிக்காக சென்ற இளம் பெண் ஆசிரியையின் முகத்துக்கு நிர்வாண புகைப்படத்தை இணைத்து சமூக வலைத்தளங்களில் பதிவேற்றம் செய்துள்ளனர்.
+🟩
 
-குறித்த இளம் ஆசிரியை, அந்த பாடசாலைக்கு நடன ஆசிரியையாக பயிற்சியளிக்க நியமிக்கப்பட்டதுடன், அவரின் நிர்வாண புகைப்படம் சமூகவலைத்தளங்களில் பரவியதையடுத்து, மாத்தளை பொலிஸில் முறைப்பாடு செய்ததோடு, சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டு, குறித்த பாடசாலையின் 10ஆம் வருட மாணவர்கள் இருவரும் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டனர்.
+Two 14 -year -old students from Matale Vijaya Vidyalaya have been arrested by police on charges of attaching a naked photo of a young woman teacher to the face of a teacher.
+
+A young woman who went to the Matale Vijaya Vidyalaya from the Mahaweli Education Faculty of Polgolla has uploaded a naked photo to the face of the face of a teacher.
+
+The young teacher was assigned to train the school as a dancer and her naked photo spread on social networks and lodged a complaint with the Matale police and investigated the incident and two 10th year students of the school were arrested on suspicion.
 
 ◼️
 
 [Data](articles/64c94de2.json)
+
+[Extended Data](ext_articles/64c94de2.ext.json)
 
 ---
 
@@ -322,17 +380,23 @@ This is the third ICC Women’s Player of the Month award for the 34-year-old, m
 
 ---
 
-### வானிலை தொடர்பில் வெளியான எச்சரிக்கை
+### Alert
 
 *2024-08-12 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலை-தொடர்பில்-வெளியான-எச்சரிக்கை/175-342029) · `ta`
 
-நாட்டின் சில பகுதிகளில் கடும் மழை பெய்யும் என வானிலை அவதான நிலையம் எச்சரிக்கை விடுத்துள்ளது.
+Heavy rains forecasted across several provinces, with over 100mm expected in Galle, Matara, and surrounding areas.
 
-மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களில் காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+🟩
+
+The Meteorological Department has warned that heavy rains are expected in some parts of the country.
+
+More than 100 millimeters of heavy rainfall in the Galle and Matara districts in the Western, Sabaragamuwa, Central and North Western Provinces.
 
 ◼️
 
 [Data](articles/1774dd58.json)
+
+[Extended Data](ext_articles/1774dd58.ext.json)
 
 ---
 
@@ -353,6 +417,8 @@ The vessel was  scheduled  to unload 995 containers and load 880 containers at t
 ◼️
 
 [Data](articles/6470a894.json)
+
+[Extended Data](ext_articles/6470a894.ext.json)
 
 ---
 
@@ -480,6 +546,8 @@ Rajapakshe, 65, has been in parliament for two decades since 2004 representing d
 
 [Data](articles/c467ddf8.json)
 
+[Extended Data](ext_articles/c467ddf8.ext.json)
+
 ---
 
 ### Storm brings torrential rain to Japan, disrupts transport
@@ -574,17 +642,23 @@ It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, rec
 
 ---
 
-### நீதி அமைச்சராக அலி சப்ரி நியமனம்
+### Ali Sabri appointed Justice Minister
 
 *2024-08-12 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-அமைச்சராக-அலி-சப்ரி-நியமனம்/175-342028) · `ta`
 
-வெளிவிவகார அமைச்சர் அலி சப்ரி, நீதி அமைச்சராக பதவி பிரமாணம் செய்து கொண்டுள்ளார்.
+Ali Sabri, previously External Affairs Minister, has been sworn in as the new Justice Minister following Vijayadasa Rajapakse's resignation to run for president.
 
-நீதி அமைச்சராக பதவி வகித்த விஜயதாச ராஜபக்ச, ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக அந்த அமைச்சுப் பதவியை அண்மையில் இராஜினாமா செய்தார் என்பது குறிப்பிடத்தக்கது .
+🟩
+
+External Affairs Minister Ali Sabri has been sworn in as the Minister of Justice.
+
+It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, recently resigned from the post of Ministry to contest the presidential election.
 
 ◼️
 
 [Data](articles/c07d1bb2.json)
+
+[Extended Data](ext_articles/c07d1bb2.ext.json)
 
 ---
 
@@ -608,19 +682,25 @@ Following the resignation of former Justice Minister Vijayadasa Rajapakse, the h
 
 ---
 
-### பானும், பலாப்பழமும் சின்னங்களில் உள்ளது
+### The pot and the fruit are in the symbols
 
 *2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானும்-பலாப்பழமும்-சின்னங்களில்-உள்ளது/175-342027) · `ta`
 
-அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களுக்கு தேர்தல்கள் ஆணைக்குழுவினால் சின்னங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+The Elections Commission introduced 196 symbols, including 28 animal symbols and various objects like fruits (grapefruit, carrot, apple, mango, pineapple) and items (ice cream, cashew nuts). Special symbols like file, bird feathers, and tools were added to the presidential election ballot.
 
-கொக்லேட், பாண், கேக், டோஃபி, திராட்சை கொத்து, பழக்கூடை, கேரட், ஐஸ்கிரீம், சோளம், வட்டக்காய், முந்திரி பருப்பு,  ஆப்பிள் பழம், பலாப்பழம், மாம்பழம், ஜம்பு பழம், அன்னாசி பழம், தேங்காய் போன்றவையும் சின்னங்களும் உள்ளனர்.
+🟩
 
-இது தவிர கோப்பு (பைல்), பறவை இறகு, சிசி டிவி கேமரா, இடுப்பு பெல்ட், கேஸ் சிலிண்டர், ஊஞ்சல், கெட்டபோல், குதிரை லாடம், கையடக்க தொலைபேசி போன்ற சிறப்பு சின்னங்களும் இந்த ஆண்டு ஜனாதிபதி தேர்தல் வாக்குச்சீட்டில் சேர்க்கப்பட்டுள்ளது.
+Symbols have been introduced by the Elections Commission to recognized political parties and independent groups.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+
+There are also symbols such as colade, pan, cake, tofi, grapefruit, fruit, carrot, carrot, ice cream, corn, roundabe, cashew nuts, apple fruit, jackfruit, mango, jambu fruit, pineapple, coconut.
+
+In addition, special symbols such as file (file), bird feathers, CC TV camera, hip belts, gas cylinder, swing, horsepower, horseback, handheld phone, etc. have been included in the presidential election ballot this year.
 
 ◼️
 
 [Data](articles/662e56ee.json)
+
+[Extended Data](ext_articles/662e56ee.ext.json)
 
 ---
 
@@ -664,6 +744,8 @@ Semasinghe thanked former Minister Manusha Nanayakkara for his “support and de
 
 [Data](articles/da750687.json)
 
+[Extended Data](ext_articles/da750687.ext.json)
+
 ---
 
 ### Heads of the earth wrath the earth of the earth - 17 school children arrested
@@ -699,6 +781,22 @@ It is said that the Principal Principal and the disciplinary committee had also 
 [Data](articles/3f498f82.json)
 
 [Extended Data](ext_articles/3f498f82.ext.json)
+
+---
+
+### කටුනායක ගුවන් ‌තොටේ දිගු පෝලිම්
+
+*2024-08-12 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්-‌තොටේ-දිගු-පෝලිම්/11-411321) · `si`
+
+ශ්‍රී ලංකාවට පැමිණෙන විදේශීය සංචාරකයන් ඇතුළු අනෙකුත් පුද්ගලයන්ට මාර්ගගත ක්‍රමයට ( Online Visa ) වීසා නිකුත් කිරීම   සිදු නොවීම නිසා, කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ ලබා ගන්නා වීසා (On Arrivel Visa ) ලබා ගැනීම සදහා දිගු පෝලිම් කටුනායක ගුවන් තොටුපොළ තුළ  ක්‍රමිකව ඇති වෙමින් පවතී.
+
+ශ්‍රේෂ්ඨාධිකරණය මගින් ඉකුත් 08/02 දින නිකුත් කළ නියෝගයක් අනුව ශ්‍රී ලංකාවට පිවිසීමට වීසා නිකුත් කිරීමේ කටයුතු වලින් වී.එෆ්.එස්.ග්ලෝබල් සමාගම ඉවත් කිරීමට සහ ගුවන් තොටුපොළ තුළ පැරණි ක්‍රමයට සාමාන්‍ය පරිදි වීසා නිකුත් කිරීම සිදු කරන ලෙස ද නියෝග නිකුත් කර තිබුණි .
+
+එහෙත් රජය සහ ආගමන විගමන දෙපාර්තමේන්තුව මේ දක්වා පැරණි ක්‍රමයට සාමාන්‍ය පරිදි මාර්ගගත ක්‍රමයට වීසා ( Online Visa ) නිකුත් කිරීම ආරම්භ කර නොමැති නිසා මේ ආකාරයට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ වීසා ( On Arrivel Visa ) ලබා ගැනීම සදහා දිගු පෝලිම් ඇති වී තිබේ .
+
+...
+
+[Data](articles/6e16c871.json)
 
 ---
 
@@ -929,6 +1027,8 @@ IPE supports the Australian Government’s focus on deepening diplomatic and def
 ...
 
 [Data](articles/92baee35.json)
+
+[Extended Data](ext_articles/92baee35.ext.json)
 
 ---
 
@@ -1768,6 +1868,8 @@ Especially after 1978 as the IMF’s Second Amendment to its Articles deprived m
 
 [Data](articles/6e688a7a.json)
 
+[Extended Data](ext_articles/6e688a7a.ext.json)
+
 ---
 
 ### IMF classifies Sri Lanka’s exchange regime as ‘other managed’ arrangement
@@ -2153,73 +2255,5 @@ He further stated that he is engaged in a silent protest in front of the Ministr
 [Data](articles/8ecbd6da.json)
 
 [Extended Data](ext_articles/8ecbd6da.ext.json)
-
----
-
-### Thundershowers during the next few days
-
-*2024-08-12 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199833) · `si`
-
-Expect widespread showers and thundershowers across the island, especially in Kalutara, Galle, Matara, and Ratnapura districts from the evening onwards. Heavy rainfall possible exceeding 100mm. Take precautions against flooding, landslides, and strong winds.
-
-🟩
-
-The Meteorological Department says that there is an atmospheric atmosprican at the next evening.
-
-Showers or thundershowers during the evening or night in many parts of the island.
-
-Thundershowers will develop at several places in Kalutara, Galle, Matara and Ratnapura districts.
-
-In the Western, Sabaragamuwa, Central, Southern, North and North and North and North and North and North and North and North and North and North and North and North and North and North. Heavy rains can occur at more than 100.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/a54c0fab.json)
-
-[Extended Data](ext_articles/a54c0fab.ext.json)
-
----
-
-### Presidential candidate Wijeyadasa Rajapaksa
-
-*2024-08-12 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/190850) · `ta`
-
-Wijeyadasa Rajapaksa, a candidate from the National Democratic Front, criticizes the high cost and potential misuse of democracy in Sri Lanka's upcoming presidential election. He argues that the process, which requires significant financial investment and allows for numerous candidates, undermines the democratic process and the right to vote. Rajapaksa also addresses concerns about the involvement of the President's brother in the race, suggesting it could be an attempt to promote the President, which he deems illegal. Despite these criticisms, Rajapaksa asserts his position as the official leader of the Sri Lanka Freedom Party, emphasizing his popularity among party members.
-
-🟩
-
-It is legal to contest as a presidential candidate. The President should be ashamed. The National Democratic Front presidential candidate Wijeyadasa Rajapakse said he should quit the presidential competition.
-
-He was speaking at a press conference held in Colombo on Sunday (11).
-
-So far, 27 people have been controlled to contest the presidential election. This is an act of abuse democratic rights. Candidates who have been controlled cannot get 500 votes. The ballot becomes blue as the candidates increase. This creates a confrontation of ordinary people when voting.
-
-It costs 25 million rupees to get a candidate's name on the ballot. There are 27 candidates so far. If so, let's find out how much money it costs. This is a waste of people's money.
-
-...
-
-[Data](articles/08f157d5.json)
-
-[Extended Data](ext_articles/08f157d5.ext.json)
-
----
-
-### Mayurapathi Sri Patrakali Amman Temple 37th Anniversary Adipuram Mahotsava Festival
-
-*2024-08-12 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190847) · `ta`
-
-The 37th anniversary celebration of the Mayurapathi Sri Patrakali Amman Temple's Adipuram Mahotsava Festival took place on Sunday morning at Wellawatte beach, capturing memorable moments.
-
-🟩
-
-The films captured during the 37th anniversary Adipuram Mahotsavam festival of the Mayurapathi Sri Patrakali Amman Temple were held on Sunday morning (11) at the Wellawatte beach.
-
-◼️
-
-[Data](articles/17e4ca54.json)
-
-[Extended Data](ext_articles/17e4ca54.ext.json)
 
 ---

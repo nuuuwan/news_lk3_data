@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 02:36:20**
+As of **2024-08-13 02:55:07**
 
 ## Newspaper Stats
 
-*Scraped **40,367** Articles*
+*Scraped **40,375** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 382
+colombotelegraphcom | 383
 islandlk | 2,331
 economynextcom | 2,445
-dailyftlk | 2,597
+dailyftlk | 2,604
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
@@ -26,29 +26,159 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,365 (100.0%) of 40,367 articles have been extended.
+40,367 (100.0%) of 40,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ’தோட்ட தொழிலாளர்களை ஏமாற்றும் உடன்படிக்கை’
+### TISL launches Presidential Election 2024 watchdog
+
+*2024-08-13 02:16:45* · [`dailyftlk`](https://www.ft.lk/news/TISL-launches-Presidential-Election-2024-watchdog/56-765467) · `en`
+
+The Transparency International Sri Lanka (TISL) has officially launched its 2024 Presidential Election observation program, focusing on the critical issue of public resource misuse.
+
+TISL yesterday outlined the organisation’s extensive efforts to ensure a transparent and fair electoral process, essential for maintaining democratic integrity.
+
+TISL said it has been at the forefront of election monitoring for over two decades, addressing the misuse of public resources — a persistent issue in Sri Lankan elections. Historical data reveals that during the 2019 Presidential election, TISL documented over 100 instances of misuse, including the unauthorised use of Government vehicles and state resources. This misuse led to significant distortions in the electoral playing field and eroded public trust in the process.
+
+...
+
+[Data](articles/16cd4837.json)
+
+---
+
+### Dengue cases in 2024 surpass 34,000, with 16 deaths
+
+*2024-08-13 02:09:17* · [`dailyftlk`](https://www.ft.lk/news/Dengue-cases-in-2024-surpass-34-000-with-16-deaths/56-765466) · `en`
+
+The number of dengue cases reported in 2024 has exceeded 34,000, with 16 deaths attributed to the virus, according to the Epidemiology Unit.
+
+As of 11 August, a total of 34,053 dengue cases have been recorded, with the Colombo district reporting the highest number of cases at 8,201.
+
+The Western Province has seen the highest concentration of cases province-wise, with a total of 13,822 infections reported.
+
+The month of August alone has logged 1,308 new cases, highlighting the ongoing public health challenge posed by the dengue virus.
+
+In response to the rising number of infections, health officials are urging the public to take proactive measures to combat the spread of the disease.
+
+Authorities recommend keeping surroundings clean and eliminating potential mosquito breeding sites, such as stagnant water, to prevent further outbreaks.
+
+...
+
+[Data](articles/61321000.json)
+
+---
+
+### Australia begins Indo-Pacific Endeavour in Sri Lanka
+
+*2024-08-13 02:08:48* · [`dailyftlk`](https://www.ft.lk/news/Australia-begins-Indo-Pacific-Endeavour-in-Sri-Lanka/56-765465) · `en`
+
+Australia’s flagship regional engagement activity, Indo-Pacific Endeavour (IPE), commences this week in Sri Lanka with a number of engagements on bilateral priorities.
+
+IPE supports the Australian Government’s focus on deepening our diplomatic and defence partnerships across Southeast Asia and the Northeast Indian Ocean, and reinforces Australia’s commitment to a peaceful, stable and prosperous region, founded on openness, respect for sovereignty and adherence to agreed rules and norms.
+
+The first engagement of IPE 2024 will be a law of the sea workshop focused on maritime surveillance and involving members of the Sri Lanka Air Force Maritime Squadron. Participants will engage in scenario-based training addressing regional security issues such as drug smuggling and illegal fishing.
+
+Other IPE 2024 activities in Sri Lanka include a combined diving activity that will see members of the Royal Australian Navy and Sri Lankan Navy exchange knowledge and skills.
+
+...
+
+[Data](articles/8853350a.json)
+
+---
+
+### CA Sri Lanka facilitates deep dive into IMF tax reforms and implications
+
+*2024-08-13 01:50:06* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-facilitates-deep-dive-into-IMF-tax-reforms-and-implications/34-765460) · `en`
+
+To facilitate a deeper understanding and gather diverse perspectives of International Monetary Fund (IMF) tax reforms, the CA Sri Lanka recently held a discussion forum.
+
+The IMF issued a comprehensive report following its second review of Sri Lanka’s Extended Fund Facility on 12 June 2024, which sparked lively debates among economists, policymakers and the general public, especially with regard to the revenue proposals.
+
+BDO Partners Partner – Tax Services Dinusha Rajapaksha presented the key revenue and administrative proposals recommended by the IMF, following which a panel discussion was held. The session, moderated by Saman Srilal, featured insights from key resource persons in the field of taxation.
+
+Resource persons included; Gajma & Co. Partner N.R. Gajendran, Finance Ministry Tax Advisor Thanuja Perera, Verité Research Lead Economist Raj Prabu Rajakulendran and Institute of Valuers of Sri Lanka Former General Secretary and OPA Vice President G.J. Sumanasena.
+
+...
+
+[Data](articles/7a4c9d82.json)
+
+---
+
+### OneWorld Duty Free team meets BOI, Port City officials
+
+*2024-08-13 01:49:41* · [`dailyftlk`](https://www.ft.lk/business/OneWorld-Duty-Free-team-meets-BOI-Port-City-officials/34-765459) · `en`
+
+A top level delegation led by OneWorld Duty Free CEO/Founder Keira Zhang met with the Board of Investment Chairman Dinesh Weerakkody and officials of the BOI and Port City Colombo last week to discuss investment opportunities in Sri Lanka and the duty free operation at Port City Colombo
+
+◼️
+
+[Data](articles/d46e3211.json)
+
+---
+
+### Fcode Labs offers free QA masterclass for startup founders
+
+*2024-08-13 01:48:10* · [`dailyftlk`](https://www.ft.lk/business/Fcode-Labs-offers-free-QA-masterclass-for-startup-founders/34-765458) · `en`
+
+Fcode Labs, a leading Health-Tech company, has announced a free online QA masterclass designed specifically for startup founders.
+
+The masterclass will delve into the critical role of quality engineering in the early stages of product development and explore the benefits of a shift-left approach in an agile environment.
+
+Scheduled for 14 August 6 p.m. CET, the masterclass will feature Udara Sembukuttiarachchi, a seasoned expert in the field of quality assurance. Attendees will gain valuable insights into how to implement effective quality control strategies from the outset, leading to faster time-to-market and improved product quality.
+
+Faster Time-to-Market: Startups can accelerate product launch by promptly identifying and fixing issues by including quality assurance (QA) early in the development process.
+
+Better Product Quality: Prompt fault identification and avoidance results in a better product, which raises customer happiness and retention.
+
+...
+
+[Data](articles/a33cda9d.json)
+
+---
+
+### Devaka Cooray and Hiran Cabraal join Jetwing Symphony Board
+
+*2024-08-13 01:46:50* · [`dailyftlk`](https://www.ft.lk/business/Devaka-Cooray-and-Hiran-Cabraal-join-Jetwing-Symphony-Board/34-765457) · `en`
+
+Jetwing Symphony PLC has announced the appointment of Devaka Cooray and Hiran Cabraal to its Board as Non-Executive Independent Directors.
+
+Cooray is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka and the Chartered Institute of Management Accountants of the United Kingdom.
+
+Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML Heavy Equipment Ltd., Unimo Enterprises Ltd., Dutch Lanka Trailer Manufacturers Ltd. and Dutch Lanka Engineering Ltd. He is also the Managing Director of Management Systems Ltd. He serves as Independent Director of Hatton National Bank PLC, JAT Holdings PLC, and George Steuart and Company.
+
+...
+
+[Data](articles/051f6d34.json)
+
+---
+
+### Covenant to deceive plantation workers
 
 *2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/175-342063) · `ta`
 
-சம்பள நிர்ணய சபையில் நடத்தப்பட்ட பேச்சுவார்த்தை வன்மையாக கண்டித்துள்ள அகில இலங்கை தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்னன் செல்வராஜ், இது தோட்டத் தொழிலாளர்களை ஏமாற்றும் சம்பள உடன்படிக்கையாகும் என்றும் தெரிவித்துள்ளார்.
+A meeting at the Salary Council discussed a proposed salary increase for plantation workers, which included a basic wage of Rs 1,350 and an additional allowance of Rs 350. However, companies opposed the increase, demanding no salary hikes for three years and arguing over the allocation of the additional allowance. Despite opposition from several unions and individuals, the proposal was passed by a majority vote. Critics, including Kidnan Selvaraj of the All Ceylon Plantation Workers Union, argue that this agreement betrays plantation workers' rights and struggles.
 
-தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது.
+🟩
 
-இந்தக் கூட்டத்தில் 10 தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனத்தின் ஊடகப் பேச்சாளர் ரொஷான் ராஜதுரை உள்ளிட்ட கம்பனிகளின் 07 பிரதிநிதிகளும், அரச அதிகாரிகள் 03 பேரும் கலந்துகொண்டனர்.
+Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, who condemned the talks at the Salary Council, said it was a salary agreement to deceive plantation workers.
 
-இதன்போது இலங்கை தொழிலாளர் காங்கிரஸ் மற்றும் ஐக்கிய தேசியக் கட்சியின் தொழிற்சங்கம் தேசிய தோட்டத் தொழிலாளர் சங்கம் தோட்டத் தொழிலாளர்களின் நாட்சம்பளத்தை அதிகரிப்பது தொடர்பான பிரேரணையை கொண்டுவந்தன.
+A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council.
 
-அதாவது, அந்தப் பிரேரணையில் தோட்டத் தொழிலாளர்களின் அடிப்படைச் சம்பளமாக 1,350 ரூபாய் வழங்க வேண்டும் என்று குறிப்பிடப்பட்டிருந்தது. அத்துடன், மேலதிக கொடுப்பனவாக 350 ரூபாய் வழங்க வேண்டும் என்றும் முன் வைக்கப்பட்டிருந்தது.
+The meeting was attended by 10 trade unions, three representatives of companies, including Media Spokesperson of the Employers Federation, Roshan Rajadurai and three state officials.
+
+The Ceylon Workers Congress and the United National Party (UNP) National Estate Workers Union issued a proposal on the increase in the plantation workers' union.
+
+That is, the proposal was to pay Rs 1,350 as the basic salary of plantation workers. It was also put forward to pay 350 rupees as additional allowance.
+
+In the meantime, the companies also made their 5 demands. Their first demand is, "Plantation workers should not carry out a salary increase for three years or any other action."That is.
 
 ...
 
 [Data](articles/ae96d35e.json)
+
+[Extended Data](ext_articles/ae96d35e.ext.json)
 
 ---
 
@@ -280,6 +410,20 @@ In addition, the film will be released in other Indian languages ​​including
 
 ---
 
+### To All Presidential Candidates: Harnessing The Ocean: A Strategic Economic Plan For Sri Lanka
+
+*2024-08-12 20:56:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/to-all-presidential-candidates-harnessing-the-ocean-a-strategic-economic-plan-for-sri-lanka/) · `en`
+
+As the race for the presidency intensifies, it is disheartening to see some candidates failing to present concrete economic plans. Instead, they resort to empty rhetoric, hoping to win over voters with hollow promises. However, politics is not a game of words; it requires well-thought-out strategies. Among the most critical elements that any serious economic plan must include is the ocean—an invaluable resource that has long been overlooked.
+
+Sri Lanka is often described as a nation sitting on a treasure chest, surrounded by the vast expanse of the Indian Ocean. This includes a large Exclusive Economic Zone (EEZ) and a significant confidential shelf landmass rich in valuable graphite. Yet, despite the wealth of resources it offers, there has been no comprehensive plan to unlock its true potential. The ocean is not just a body of water; it is a reservoir of economic opportunities that could propel our nation to new heights.
+
+...
+
+[Data](articles/9af8d1ae.json)
+
+---
+
 ### Dhoni-backed Garuda Aerospace enters Sri Lankan market to target agricultural sector
 
 *2024-08-12 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101187/dhoni-backed-garuda-aerospace-enters-sri-lankan-market-to-target-agricultural-sector) · `en`
@@ -331,6 +475,8 @@ In my opinion, this book will assist readers in finding answers to some fundamen
 ...
 
 [Data](articles/eb4ae53f.json)
+
+[Extended Data](ext_articles/eb4ae53f.ext.json)
 
 ---
 
@@ -2117,201 +2263,5 @@ Following the resignation of former Justice Minister Vijayadasa Rajapakse, the h
 [Data](articles/5f087ddd.json)
 
 [Extended Data](ext_articles/5f087ddd.ext.json)
-
----
-
-### The pot and the fruit are in the symbols
-
-*2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானும்-பலாப்பழமும்-சின்னங்களில்-உள்ளது/175-342027) · `ta`
-
-The Elections Commission introduced 196 symbols, including 28 animal symbols and various objects like fruits (grapefruit, carrot, apple, mango, pineapple) and items (ice cream, cashew nuts). Special symbols like file, bird feathers, and tools were added to the presidential election ballot.
-
-🟩
-
-Symbols have been introduced by the Elections Commission to recognized political parties and independent groups.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
-
-There are also symbols such as colade, pan, cake, tofi, grapefruit, fruit, carrot, carrot, ice cream, corn, roundabe, cashew nuts, apple fruit, jackfruit, mango, jambu fruit, pineapple, coconut.
-
-In addition, special symbols such as file (file), bird feathers, CC TV camera, hip belts, gas cylinder, swing, horsepower, horseback, handheld phone, etc. have been included in the presidential election ballot this year.
-
-◼️
-
-[Data](articles/662e56ee.json)
-
-[Extended Data](ext_articles/662e56ee.ext.json)
-
----
-
-### The symbols have a pot and a fruit
-
-*2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சின்னங்களில்-பானும்-பலாப்பழமும்-உள்ளது/175-342027) · `ta`
-
-The Elections Commission introduced 196 symbols, including 28 animal symbols and various objects like fruits, vegetables, tools, and household items, for recognized political parties and independent groups.
-
-🟩
-
-Symbols have been introduced by the Elections Commission to recognized political parties and independent groups.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
-
-There are also symbols such as colade, pan, cake, tofi, grapefruit, fruit, carrot, carrot, ice cream, corn, roundabe, cashew nuts, apple fruit, jackfruit, mango, jambu fruit, pineapple, coconut.
-
-In addition, special symbols such as file (file), bird feathers, CC TV camera, hip belts, gas cylinder, swing, horsepower, horseback, handheld phone, etc. have been included in the presidential election ballot this year.
-
-◼️
-
-[Data](articles/e3c6396a.json)
-
-[Extended Data](ext_articles/e3c6396a.ext.json)
-
----
-
-### Sri Lanka July 2024 remittances rise 10.3-pct to $566.8mn
-
-*2024-08-12 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-july-2024-remittances-rise-10-3-pct-to-566-8mn-176382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming gained 10.3 percent to 566.8 million dollars in July 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
-
-“Remittances from Sri Lankan overseas workers reached USD 566.8 million in July 2024, bringing the total for the first seven months of the year to USD 3.71 billion,” State Minister of Finance Shehan Semasinghe said on X (twitter).
-
-“This represents a 10.3% increase compared to the same period last year, underscoring the vital role of our expatriate community in supporting and strengthening the economy.”
-
-Worker remittances is one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis.
-
-Semasinghe thanked former Minister Manusha Nanayakkara for his “support and dedication to the welfare of our overseas workers, which has greatly contributed to this positive trend.”
-
-...
-
-[Data](articles/da750687.json)
-
-[Extended Data](ext_articles/da750687.ext.json)
-
----
-
-### Heads of the earth wrath the earth of the earth - 17 school children arrested
-
-*2024-08-12 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199848) · `si`
-
-In Thanamalwila, 17 schoolchildren were arrested for allegedly abusing and raping a girl, leading to another arrest. The victim, a grade 11 student, was tricked into a friend's house where she was assaulted by several students. The incident was recorded and shared in 2013. The school's principal and disciplinary committee were aware but did not act due to the suspect's family ties within the school community. The girl expressed her trauma through drawings on her house walls. Following an investigation, the suspects confessed to committing the crimes in various locations, including school premises.
-
-🟩
-
-Police have arrested 17 schoolchildren who have been abused a school girl in the Thanamalwila area.
-
-Another woman has been arrested by the police regarding the incident.
-
-The girl's mother accused the girl who was admitted to the Hambantota General Hospital for a medical examination.
-
-The student who studied in a grade 11 student in Tanamalwila main school had a romantic relationship with a student of the same school.
-
-The student then deceived the girl and took her to a friend's home and said she had been raped for the first time.
-
-And some of the students in the house were forcibly abuse and raping alcohol delegation and violence.
-
-The suspects showed the video in 72013, police said.
-
-The nearest incident was near the recent day at the Kirindi Oya.
-
-Seven students were jointly taken to the girl and raped the girl as a group and it was also wide.
-
-It is said that the Principal Principal and the disciplinary committee had also revealed to the incident.
-
-...
-
-[Data](articles/3f498f82.json)
-
-[Extended Data](ext_articles/3f498f82.ext.json)
-
----
-
-### Long Queue at Katunayake Airport
-
-*2024-08-12 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්-‌තොටේ-දිගු-පෝලිම්/11-411321) · `si`
-
-Katunayake Airport faces long queues for foreign tourists due to delays in implementing an online visa system post-Supreme Court orders. Despite starting tourism in August, especially for events like the Kandy Esala Perahera, issues persist with numerous flights arriving simultaneously.
-
-🟩
-
-For foreign tourists, including foreign tourists and other people to Sri Lanka, the long queue is gradually at the Katunayake Airport.
-
-The Supreme Court has issued orders to remove the VF.S.Lobel to enter Sri Lanka on 22/02.
-
-However, the demise and Immigration and Emigration Department has not started the ancient system to the ONLINE VISA to the Katunayake airport has come to the Katunayake airport.
-
-With the Supreme Court order, the attachment of the online system of work has been impressed by the opening of Sri Lanka and receive a arriver visa.
-
-Sri Lanka's tourism has begun since August, especially foreign tourists, in the Katunayaka airport, especially the Kandy Esala Perahera.
-
-They have been constantly embarrassed due to a large number of aircrafts to the Katunayake airport and the aircraft at the same time.
-
-◼️
-
-[Data](articles/6e16c871.json)
-
-[Extended Data](ext_articles/6e16c871.ext.json)
-
----
-
-### Ali Sabri is another ministerial post
-
-*2024-08-12 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199847) · `si`
-
-Ali Sabri, previously Foreign Minister, is now the Minister of Justice after being sworn in. This follows the resignation of the former Minister of Justice, who will contest for the same position.
-
-🟩
-
-Foreign Minister Ali Sabri has been sworn in as the Minister of Justice.
-
-The Minister of Wijayadasa resigned in the minister to contest as the Minister of Justice.
-
-◼️
-
-[Data](articles/dbdf988c.json)
-
-[Extended Data](ext_articles/dbdf988c.ext.json)
-
----
-
-### 15 arrested for abuse
-
-*2024-08-12 12:19:13* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියකට-අතවර-කළ-15ක්-අල්ලයි/11-411320) · `si`
-
-In Tanamalwila, 15 individuals, including a 39-year-old woman, were arrested for various sexual offenses against a 16-year-old girl, a school student. The victim was hospitalized for examination, and all suspects are due in court.
-
-🟩
-
-Senior DIG Dinesh Karunanayake, a 16-year-old schoolgirl in Tanamalwila, has been arrested by the Tanamalwila police.
-
-The victim was a student who was studying at a major school in Tanamalwila area.
-
-The number of allegations have been arrested on the charges of sexual abuse, sexual abuse, sexual abuse, rape and swarm of rape and swarming.
-
-The police also arrested a 39-year-old woman from the back of the Thanamalwila Post Office over the rape.
-
-The victim was rushed to the Hambantota District General Hospital for a medical examination and the woman and the school students were to be produced before the Wellawaya Magistrate's Court today (12).
-
-◼️
-
-[Data](articles/32d49332.json)
-
-[Extended Data](ext_articles/32d49332.ext.json)
-
----
-
-### Ali Sabry takes oath as new Justice Minister
-
-*2024-08-12 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101171/ali-sabry-takes-oath-as-new-justice-minister) · `en`
-
-Minister of Foreign Affairs Ali Sabry has taken oath as the new Minister of Justice, Prison Affairs and Constitutional Reforms, before the President, a short while ago.
-
-However on August 07, a Gazette notification was issued bringing the Ministry of Justice, Prison Affairs and Constitutional Reforms under the purview of President Ranil Wickremesinghe.
-
-This move came following the recent resignation of Wijeyadasa Rajapakshe from his ministerial portfolios to contest the upcoming Presidential election.
-
-On July 25, MP Wijeyadasa Rajapakshe officially announced that he would contest the upcoming Presidential Election while he stepped down from his ministerial position as the Minister of Justice, Prisons Affairs and Constitutional Reforms on July 29.
-
-◼️
-
-[Data](articles/521e1363.json)
-
-[Extended Data](ext_articles/521e1363.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 10:55:06**
+As of **2024-08-12 11:07:51**
 
 ## Newspaper Stats
 
-*Scraped **40,222** Articles*
+*Scraped **40,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 381
 islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
-adalk | 3,688
-adaderanalk | 4,680
+adalk | 3,689
+adaderanalk | 4,681
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,089
+tamilmirrorlk | 5,091
 virakesarilk | 6,377
-adaderanasinhalalk | 6,841
+adaderanasinhalalk | 6,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,220 (100.0%) of 40,222 articles have been extended.
+40,220 (100.0%) of 40,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### ராஜஸ்தானில் கன மழையால்  20 பேர் பரிதாப பலி
+
+*2024-08-12 10:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானில்-கன-மழையால்-20-பேர்-பரிதாப-பலி/175-342011) · `ta`
+
+ராஜஸ்தான் மாநிலம் ஜெய்ப்பூரில் கொட்டிய கன மழை காரணமாக, இதுவரை 20 பேர் உயிரிழந்தனர்.
+
+ராஜஸ்தான் மாநிலத்தின் ஜெய்ப்பூர், கரௌலி, சவாய் மாதோபூர் உள்ளிட்ட இடங்களில் பெய்த கனமழையால் வெள்ளப்பெருக்கு ஏற்பட்டது. அடுத்த 24 மணி நேரத்தில், பல்வேறு இடங்களில் கனமழை முதல் மிக கனமழை வரை பெய்யும் என வானிலை ஆய்வு மையமும் எச்சரிக்கை விடுத்துள்ளது. இதையடுத்து மழை பாதித்த பகுதிகளில் மாநில அரசு பாசாலைகளுக்கு விடுமுறை அறிவித்துள்ளது.
+
+ஜெய்ப்பூரில் நிரம்பி வழியும் கனோடா அணை நீரில் மூழ்கி, 5 இளைஞர்கள் உயிரிழந்த நிலையில், உடல்களை தேடும் பணி நடந்து வருகிறது. மேலும், பாரத்பூரில் ஸ்ரீநகர் கிராமம் அருகே உள்ள ஆற்றில் மூழ்கி, ஏழு சிறுவர்கள் உயிரிழந்தனர்.
+
+அதேசமயம், ஆற்றில் ஏற்பட்ட வெள்ளப்பெருக்கில், மோட்டார் சைக்கிளுடன் அடித்துச் செல்லப்பட்டதில் இரு இளைஞர்கள் இறந்தனர். இந்நிலையில், மழை காரணமாக, இதுவரை 20 பேர் உயிரிழந்துள்ளனர்.
+
+இதற்கிடையே, பேரிடர் மேலாண்மை நிலைமையை மறுஆய்வு செய்வதற்காக, முதல்வர் பஜன் லால் சர்மா தலைமையில் அவசர ஆலோசனை கூட்டம் நடந்தது.
+
+...
+
+[Data](articles/ffb33ead.json)
+
+---
+
+### Sri Lankan worker remittances in first 7 months up by 10.3%
+
+*2024-08-12 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101164/sri-lankan-worker-remittances-in-first-7-months-up-by-103) · `en`
+
+The remittances from Sri Lankan overseas workers has surged to USD 566.8 million in July 2024, bringing the total for the first seven months of the year to USD 3.71 billion.
+
+This marks a 10.3% increase compared to the same period last year, according to the Central Bank of Sri Lanka (CBSL).
+
+◼️
+
+[Data](articles/d1edeaec.json)
+
+---
+
+### තරුණ මවක් සහ පියෙක් හදිසියේ ම ගත් තීරණය
+
+*2024-08-12 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199843) · `si`
+
+අම්බලන්ගොඩ, බටපොළ ප්‍රදේශයේ නිවසක සිටි තරුණ යුවලක් සියදිවි හානිකරගෙන ඇති බව පොලීසිය පවසයි.
+
+එම කාන්තාව 28 හැවිරිදි බවත් පුරුෂයා 29 හැවිරිදි බවත් පොලීසිය පැවසීය.
+
+ඔවුන් ගේ කුඩා දරුවාගේ කෑ ගැසීම ඇසී පැමිණි අසල්වාසීන් විසින් සිද්ධිය සම්බන්ධයෙන් පොලීසිය දැනුම්වත් කර තිබුණි.
+
+◼️
+
+[Data](articles/cef2ab8e.json)
+
+---
 
 ### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළ ට
 
@@ -119,6 +169,24 @@ Nimal Siripala de Silva tops the list of tops with 141,901 votes in the 2020 par
 [Data](articles/258d43a1.json)
 
 [Extended Data](ext_articles/258d43a1.ext.json)
+
+---
+
+### பதுளையில் இருந்து அடுத்த பிரதமர்
+
+*2024-08-12 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-இருந்து-அடுத்த-பிரதமர்/175-342006) · `ta`
+
+இலங்கையின் அடுத்த பிரதமர் ஊவா மாகாணத்தைச் சேர்ந்தவராக இருக்கக்கூடும் என முன்னாள் அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+பதுளையில்   ஞாயிற்றுக்கிழமை (11)நடைபெற்ற 'ஏக்வா ஜெயகமு' நிகழ்வில் கலந்து கொண்ட போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+"இதை என்னால் உணர முடிகிறது. ஊவா மாகாணத்தில் இருந்து ஒரு பிரதமரை நியமிக்க வேண்டும் என்றால், பதுளை மாவட்டத்தில் உள்ள 9 ஆசனங்களிலும் வெற்றி பெற்றால் ,அவரைப் பிரதமராக்கும் பொறுப்பை நானே ஏற்றுக்கொள்வேன் என கூட்டத்தில் கலந்து கொண்ட அமைச்சர் நிமல் சிறிபால டி சில்வாவை நோக்கி ஹரின் தெரிவித்தார்.
+
+2020 பாராளுமன்றத் தேர்தலில் பதுளை மாவட்ட விருப்பு வாக்கு பட்டியலில் நிமல் சிறிபால டி சில்வா 141,901 வாக்குகளைப் பெற்று முதலிடம் பிடித்தமை குறிப்பிடத்தக்கது. cs
+
+◼️
+
+[Data](articles/3b4d9fd8.json)
 
 ---
 
@@ -2030,6 +2098,20 @@ MP Johnston Fernando said that the percentage of votes polled by President Mahin
 
 ---
 
+### ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු ආරම්භ කරයි
+
+*2024-08-11 17:14:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-අදාළ-මූලික-මුද්‍රණ-කටයුතු-ආරම්භ-කරයි/11-411307) · `si`
+
+ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු මේ වන විට ආරම්භ කර තිබෙන බවත් නාමයෝජනා භාර ගැනීමෙන් පසු ඡන්ද පත්‍රිකා මුද්‍රණ කටයුතු ආරම්භ කරන බවත් රජයේ මුද්‍රණාලාධිපති ගංගානි ලියනගේ මහත්මිය සඳහන් කළාය.
+
+අපේක්ෂකයන් ප්‍රමාණය අනුව ඡන්ද පත්‍රිකාව මුද්‍රණය කළ යුතු ආකාරය පිළිබඳව මැතිවරණ කොමිසම විසින් දන්වා එවන බවත් මේ අනුව අදාළ මුද්‍රණ කටයුතු සිදුකරන බවත් දැනට සිදුකර තිබෙන මුද්‍රණ කටයුතු සඳහා රජයෙන් මුදල් ලබා දී තිබෙන බවද ‘අද’ කළ විමසීමකදී පවසා සිටියාය.
+
+◼️
+
+[Data](articles/023c8f1a.json)
+
+---
+
 ### The escaped Hasin accused America
 
 *2024-08-11 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199824) · `si`
@@ -2165,117 +2247,5 @@ Fourteen deaths have been reported on January 01 this year. With two dengue deat
 [Data](articles/818c31eb.json)
 
 [Extended Data](ext_articles/818c31eb.ext.json)
-
----
-
-### A warning of the Inland Revenue Department
-
-*2024-08-11 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199822) · `si`
-
-The Inland Revenue Department warns against individuals collecting money from businesses. It's taking steps to stop this practice and has filed a complaint with the Sri Lanka Police to arrest those involved. The Commissioner General emphasizes that no one should pay money unless it's officially documented and authorized by him. He advises taxpayers to seek written confirmation for any deductions and to report any issues to the department's regional or head office.
-
-🟩
-
-The Inland Revenue Department says that some individuals have visited the businessmen and collect money.
-
-The Inland Revenue Department is notified to prevent money from giving money to collecting money.
-
-The Inland Revenue Department has lodged a complaint with the Sri Lanka Police to take legal action to take legal action to capture such persons.
-
-The Commissioner General of Inland Revenue has said that he is not responsible for any money charged.
-
-He has informed all taxpayers that the deficit deductions are made in writing and legally only in writing and legally only informed all taxes administered by the Commissioner General of Inland Revenue.
-
-The Commissioner General of Inland Revenue has further stated that he will also report to the Regional Office or Head Office of the Department of Inland Revenue or Head Office.
-
-◼️
-
-[Data](articles/e3df5f48.json)
-
-[Extended Data](ext_articles/e3df5f48.ext.json)
-
----
-
-### Iran hurt Trumps
-
-*2024-08-11 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199821) · `si`
-
-Iranian hackers reportedly accessed internal data on former U.S. President Donald Trump's campaign and VP candidate Mike Pence, potentially aiming to interfere in future elections. The news broke via Politico, highlighting concerns over cyber threats to political campaigns.
-
-🟩
-
-It is reported that Iranian havaries have obtained internally exchanged information about former American President Donald Trump's campaign.
-
-An American News website Politico had revealed information about it.
-
-It emphasizes that they have received information on the quest of Examinations of Trump's election propaganda as well as the Vice Presidential candidate JV vans.
-
-It is thought that the information was to be hacked to intervene in the coming presidential election.
-
-◼️
-
-[Data](articles/7b3f5332.json)
-
-[Extended Data](ext_articles/7b3f5332.ext.json)
-
----
-
-### Prison guard arrested with weapons, ammo and drugs linked to “Gotha Asanka”
-
-*2024-08-11 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/101150/prison-guard-arrested-with-weapons-ammo-and-drugs-linked-to-gotha-asanka-) · `en`
-
-The weapons and ammunition taken into custody along with a prison officer during a raid in the Rajagiriya area last night (10), have been revealed to allegedly belong to the notorious criminal figure and large-scale drug trafficker infamously known as “Gotha Asanka,” who is currently hiding overseas.
-
-The weapons were discovered hidden in a bunker on the upper floor of the prison officer’s house in Rajagiriya, during a raid carried out by the Police Narcotics Bureau (PNB).
-
-The raid has been carried out based on certain information uncovered during the interrogations of seven individuals who were arrested with live ammunition and drugs in the Makola area recently.
-
-Based on the relevant information, police had searched the two-story house which was under construction in the Madinnagoda, Rajagiriya.
-
-...
-
-[Data](articles/7c24e5eb.json)
-
-[Extended Data](ext_articles/7c24e5eb.ext.json)
-
----
-
-### Strike GS first Monday
-
-*2024-08-11 16:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-முதல்-GS-வேலைநிறுத்தம்/175-341967) · `ta`
-
-Village workers in Sri Lanka began a two-day strike from Monday (12), protesting against their conditions. The Grama Niladhari Trade Union Alliance announced the strike, emphasizing the need for better treatment and working conditions.
-
-🟩
-
-Grama Niladhari have warned that the village servants have jumped in the strike since Monday (12) and that the protest will last for two days.
-
-Speaking at a media briefing in Colombo on Sunday (11), Nandana Ranasinghe, co -chairman of the Grama Niladhari Trade Union Alliance, said this.
-
-◼️
-
-[Data](articles/a1c70189.json)
-
-[Extended Data](ext_articles/a1c70189.ext.json)
-
----
-
-### Minister instructs to commence an inquiry into fire on fire in Colombo Port
-
-*2024-08-11 15:59:56* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-නෞකාවක්-ගිනි-ගැනීම-ගැන-පරීක්ෂනයක්-ආරම්භ-කිරීමට-ඇමතිගෙන්-උපදෙස්/11-411304) · `si`
-
-Nimal Siripala de Silva, Minister of Ports and Aviation, ordered an investigation into a fire at the Colombo Port caused by an anchored ship. The incident occurred today (11).
-
-🟩
-
-Minister of Ports and Aviation, Nimal Siripala de Silva has instructed the Ports Authority officials as an inquiry into the fire caused by an anchored ship.
-
-A fire had erupted at the LTTE's anchouing at the Port of Colombo today (11).
-
-◼️
-
-[Data](articles/6df8da39.json)
-
-[Extended Data](ext_articles/6df8da39.ext.json)
 
 ---

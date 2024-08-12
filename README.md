@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 17:06:10**
+As of **2024-08-12 17:20:55**
 
 ## Newspaper Stats
 
-*Scraped **40,313** Articles*
+*Scraped **40,316** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 346
 newsfirstlk | 363
-bbccomsinhala | 376
+bbccomsinhala | 377
 colombotelegraphcom | 381
 islandlk | 2,331
 economynextcom | 2,437
@@ -18,41 +18,69 @@ dailyftlk | 2,593
 adalk | 3,702
 adaderanalk | 4,698
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,111
+tamilmirrorlk | 5,112
 virakesarilk | 6,385
-adaderanasinhalalk | 6,857
+adaderanasinhalalk | 6,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,310 (100.0%) of 40,313 articles have been extended.
+40,313 (100.0%) of 40,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ග්‍රැහැම් තෝර්ප් සිය දිවි නසාගත් බවට අනාවරණයක්
+### බිලිඳෙකු ඇතුළු තිදෙනෙකුගේ අවසන් මොහොත
+
+*2024-08-12 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199860) · `si`
+
+වේවැල්දෙණිය ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් කුඩා බිළිදෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+
+එම අනතුර සිදුවන ආකාරය පිටුපසින් පැමිණි වාහනයක ඉදිරිපස කැමරාවේ සටහන්ව තිබුණි.
+
+පොලීසිය ප්‍රකාශ කළේ, මාර්ගය අසල නවතා තිබූ ලොරි රථයක ත්‍රිරෝද රථයක් ගැටී අද (12) දහවල් එම අනතුර සිදුව ඇති බවය.
+
+අනතුරින් ත්‍රිරෝද රථයේ රියදුරු සහ එහි ගමන් කළ කාන්තාවක් හා මාස 04ක් වයසැති කුඩා බිළිදෙකු මියගොස් තිබේ.
+
+ත්‍රිරෝද රථයේ ගමන් කළ තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි ළමයෙකු බරපතළ තුවාල ලබා වරකාපොළ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පැවසුවේය.
+
+ත්‍රිරෝද රථයේ රියදුරුට නින්ද යාම අනතුරට හේතුව වී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/01f0d04a.json)
+
+---
+
+### Graham Torp revealed that his suicide
 
 *2024-08-12 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199859) · `si`
 
-එංගලන්තයෙන් බිහි වූ විශිෂ්ට පිතිකරුවෙකු වූ ග්‍රැහැම් තෝර්ප් ගේ අභාවය සියදිවි නසා ගැනීමකින් සිදු වූවක් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Graham Thorpe, a renowned English cricketer, tragically took his own life after resigning as chief coach due to stress. His death, which occurred nearly two years ago, was only recently reported, highlighting the private nature of his struggle and subsequent resignation from coaching duties. Thorpe, aged 55, had a distinguished career representing England from 1993 to 2005.
 
-මේ බව තෝර්ප්ගේ බිරිඳ අමන්දා විසින් හෙළිකර ඇති අතර, ඇය වැඩිදුරටත් පවසා ඇත්තේ ඔහු මානසික පීඩනයකින් පසුගිය කාලය පුරාවට දුක්විඳි බවයි.
+🟩
 
-වසර දෙකකට ආසන්න කාලයක සිට දැඩි ලෙස රෝගාතුරව සිටි තෝර්ප් ඉකුත් 05 වැනිදා අභාවප්‍රාප්ත වූ අතර, මිය යන විට 55 වැනි වියේ පසු විය.
+Foreign media reports that the death of Ghaham Turp, a great batsman from England, was a suicide.
 
-කෙසේ නමුත් තොර්ප්ගේ බිරිඳ අනාවරණය කරන තෙක්ම ඔහුගේ මිය යෑමට හේතුව පිළිබඳ කිසිඳු සඳහනක් නොතිබුණි.
+Turp's wife was revealed by Amanda, she added that he was suffering from stress.
 
-2022 මාර්තු මාසයේදී තෝර්ප් ඇෆ්ගනිස්ථාන ප්‍රධාන පුහුණුකරු ලෙස පත් කළත්, එම පත්කිරීමෙන් ටික කලකට පසු ඔහු එම වගකීමෙන් මෙන්ම සියලුම පුහුණුකිරීම් කටයුතු වලින් ඉවත් විය.
+Torpe, who has passed away from nearly two years, passed away on the 5th and was 55 years old at the time of his death.
 
-එතැන් සිට මිය යන තෙක්ම තෝර්ප්ගේ කටයුතු මෙන්ම ඔහුගේ අසනීප තත්ත්වය පිළිබඳ සියලු තොරතුරු පවුලේ අයට පමණක් සීමා විය.
+However, there was no mention of his death until Hersk's wife was disclosed.
 
-වසර 12කට ආසන්න කාලයක් (1993 - 2005) එංගලන්තය නියෝජනය කළ තෝර්ප්, ටෙස්ට් තරග 100කට ක්‍රීඩාකළ කීර්තිමත් වමත් පිතිකරුවෙකි.
+Although Torpe was appointed chief coach in March 2022, he was resigned from the responsibility and all the training activities.
+
+All the information about Thourp's work and his illness were limited to the family.
+
+For nearly 12 years (1993 - 2005) Thorp, who represented England, was a distinguished batsman.
 
 ◼️
 
 [Data](articles/e52595db.json)
+
+[Extended Data](ext_articles/e52595db.ext.json)
 
 ---
 
@@ -684,19 +712,29 @@ On Thursday, July 25, Factum organised the first international screening of Been
 
 ---
 
-### පොහොට්ටුවේ මාතලේ නායකයා නාලක බණ්ඩාර
+### Nalaka Bandara Bandaranaike Matale Head
 
 *2024-08-12 13:26:57* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මාතලේ-නායකයා-නාලක-බණ්ඩාර/11-411324) · `si`
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණේ මාතලේ දිස්ත්‍රික් නව නායකයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාව එම පක්ෂයේ මාතලේ දිස්ත්‍රික් බල මණ්ඩලය ඊයේ (11) වන දින රැස්වූ අවස්ථාවේදී පත් කරගෙන තිබේ.
+Nalaka Bandara Bandaranaike, a Parliamentarian from Matale, has been appointed as the new leader of the Sri Lanka Filling District, succeeding former Cabinet Minister Janaka Bandara Tennakoon. This decision was made during a meeting chaired by Jonarchton Fernando of the UNHRC Matale District Board. The move supports Ranil Wickremesinghe's candidacy, with notable figures like Kurunegala District MP Jannston Fernando and Badulla District MP Tissa Kuttiarachchi attending the event.
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණ මාතලේ දිස්ත්‍රික් බල මණ්ඩලය පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතාගේ ප්‍රධානත්වයෙන් මාතලේ නාවුල සංස්කෘතික මධ්‍යස්ථාන ශ්‍රවණාගාරයේදී රැස්වූ අවස්ථාවේදී මෙම තීරණය ගෙන ඇත.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ලග්ගල ආසන සංවිධායක තිලක් බණ්ඩාර මහතා විසින් මාතලේ දිස්ත්‍රික් පොදු ජන පෙරමුණේ දිස්ත්‍රික් නායක ලෙස නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාගේ නම යෝජනා කළ අතර එම යෝජනාව දඹුල්ල හිටපු නගරාධිපති ජාලිය ඕපාත විසින් ස්ථීර කර පැමිණ සිටි පිරිස ඒකමතිකව අත් උස්සා ස්ථිර කළේය.
+Parliamentarian Nalaka Bandara and Kotte Kotte Kotte as the new leader of the Sri Lanka Filling District at the General Leader of the Sri Lanka District.
 
-...
+The decision was taken when the General Filling of Sri Lanka (UNHRC) Matale District Board of Jonarchton Fernando at the Naula Cultural Center Auditorium.
+
+The Commonwealth District leader of the Ampara General Filling Federation in the Ampara General Front of the Sri Lanka General Front was proposed by the General Folk Federation District Leader of the Ampara General Opatha.
+
+Former Cabinet Minister Janaka Bandara Tennakoon was previously led by the Sri Lanka General Filling in Sri Lanka and the Matale District Minister of Public Minister Rohana Dissanayake and State Minister Pipaina Bandara Tennakoon has come forward for presidential electionThe decision has been taken due to supporting Ranil Wickremesinghe.
+
+Kurunegala District MP Jannston Fernando and Badulla District MP Tissa Kuttiarachchi were also present at the occasion.
+
+◼️
 
 [Data](articles/adcb9245.json)
+
+[Extended Data](ext_articles/adcb9245.ext.json)
 
 ---
 
@@ -764,23 +802,31 @@ Although Japan is observing a holiday, some high-speed bullet trains and regular
 
 ---
 
-### ටි.එන්.ඒ්. සහාය දෙන අපේක්ෂකයා ගැන කියයි
+### TNM. Will tell about the supporter of support
 
 *2024-08-12 13:07:03* · [`adalk`](https://www.ada.lk/breaking_news/ටි-එන්-ඒ්--සහාය-දෙන-අපේක්ෂකයා-ගැන-කියයි/11-411323) · `si`
 
-උතුරු නැගෙනහිර දෙමළ ජනතාවගේ මූලික අවශ්‍යතාවයක් වූ බලය බෙදීමේ කාර්ය වෙනුවෙන් සිය ප්‍රතිපත්ති පිළිගන්නා ජනාධිපති අපෙක්ෂකයාට සිය පක්ෂයේ සහය ලබාදීමට සලකා බැලිය හැකි බවට දෙමළ ජාතික සන්ධානයේ මාධ්‍ය ප්‍රකාශක පාර්ලිමේන්තු මන්ත්‍රී එම්.ඒ සුමන්තිරන් මහතා පවසා සිටියේය.
+MP MA Sumanthiran highlighted the importance of supporting policies aligned with Tamil interests as crucial for unity among Tamils in the Eastern region. He addressed concerns over the Trincomalee court case and the party's stance on presidential elections, emphasizing their commitment to power sharing between Northern and Eastern Tamils. The meeting involved discussions with major presidential candidates, indicating the party's readiness to back a candidate whose policies align with their goals.
 
-මන්ත්‍රීවරය මේ බවසා සිටයේ ඊයේ (11)සවස වවුනියාව ඉලංගෙයි තමිල් අරුසකච්චි පක්ෂ කාර්යාලයේදී එම පක්ෂයේ මධ්‍යම කාරක සභාව රැස්වීමෙන් අනතුරුව මාධ්‍යට අදහස් දක්වමිනි.
+🟩
 
-"අපි අද පක්ෂයේ මධ්‍යම කාරක සභාව වෙනුවෙන් රැස්වුනා. එහිදී අපි ප්‍රධාන කාරනා දෙකක් සකච්ඡා කරා එකක් තමයි අපේ පක්ෂයට එරෙහිව ත්‍රීකුණාමලය දිස අධිකරණයේ පැවත්වෙන නඩුව සම්බන්ධයෙන්.
+TNA Media Spokesperson MP MA Sumanthiran said that the president's supporter of the Tamil people who accept their policies is the key to division of the Tamil people of the Tamil East.
 
-අනිත් කාරණව තමයි මෙවර ජනාධිපතිවරණයේදී අපි කාටද සහය දක්වන්නේ කියන කාරණව ගැන. මේ වෙනකොට දෙමළ දේශපාලන පක්ෂ කිහිපයකින් අරියනේද්‍රන් මහතා පොදු අපෙක්ෂකය වශයෙන් ඉදිරිපත් කරලා තියෙනව. අපි ඒ ගැනත් සකච්ඡා කලා.
+The MP was speaking at the Meeting of the Central Committee at the Ilangai Tamil Secretariat yesterday evening yesterday (11).
 
-නමුත් දෙමළ ජනතාවගේ ප්‍රධානතම දෙමළ දේශපාලන පක්ෂය වන ඉලංගෙයි තමිල් අරුසකච්චි පක්ෂය වන අපේ පක්ෂය විසින් එකතුවෙලා තියෙන උතුරු නැගෙනහිර පලාතේ බලය බෙදාහරින්න ඔින කියන එක තමයි අපි නිතරම කියලා තියෙන්නේ.
+"We met for the Central Committee of the party today. There are two main points that we attend the title of the Trincomalee court against our party.
+
+The other things are the fact that we support who we support the presidential election. Ariyanadhn has already presented the general careful by several Tamil political parties. We worked on it.
+
+However, we always have told us to distribute the power of the North and East, the main Tamil political party, the Tamil political party of the Tamil political party.
+
+We also informed every president's reply to the people today.. We have now discussed with the three major presidential candidate. We have to tell them about it.
 
 ...
 
 [Data](articles/b0d8908f.json)
+
+[Extended Data](ext_articles/b0d8908f.ext.json)
 
 ---
 
@@ -1480,6 +1526,44 @@ Due to the revision, the waterfront will be implemented in Akmeemana, Bope, Poth
 
 ---
 
+### එක්සත් රාජධානියේ කැරලිවලට මැදි වූ ලාංකිකයෙකුගේ අත්දැකීම
+
+*2024-08-12 11:19:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj625k257djo) · `si`
+
+සවුත්පෝර්ට්හි වින්ඩ්සර් මිනි මාර්ට් (Windsor Mini Mart) හිමිකරු වන 90 දශකයේදී ශ්‍රී ලංකාවේ සිට එක්සත් රාජධානියට සංක්‍රමණය වූ 47 හැවිරිදි චානක බාලසූරිය එක්සත් රාජධානිය පුරා පැතිර ගිය ප්‍රචණ්ඩකාරී නොසන්සුන්තාවයෙන් දැඩි ලෙස බලපෑමට ලක් වුණු අතර ඔහු ඉන් පසුව ඇති වුණු දයානුකම්පිත ක්‍රියාවල ප්‍රතිලාභ ලත් අයෙකු ද විය.
+
+'ටේලර් ස්විෆ්ට්' තේමාවක් යටතේ පැවති උත්සවයක් අතරතුර (a Taylor Swift holiday club) ගැහැනු දරුවන් තිදෙනෙකු මාරාන්තික පිහි ඇනුමකට ලක් වූ නර්තන ශාලාවේ සිට සැතපුම් භාගයක් දුරින් පිහිටි ඔහුගේ සිල්ලර භාණ්ඩ අලෙවි සල, එම පිහි ප්‍රහාරයට පසු දින සංක්‍රමණ විරෝධී කැරලිකරුවන් විසින් කොල්ලකන ලදී.
+
+එංගලන්තය පුරා සහ උතුරු අයර්ලන්තයේ නගරවල ඇති වූ මෙම ප්‍රචණ්ඩ ක්‍රියා ඉන්ටර්නෙට් හරහා පැතිර ගිය සහ අන්ත දක්ෂිණාංශික කණ්ඩායම් විසින් පතුරවා හරින ලද වැරදි ප්‍රචාර හරහා තව තවත් ඇවිළී ගියේ ය.
+
+එතැන් සිට, තවදුරටත් ප්‍රහාර සිදුවීම වැළැක්වීම සඳහා දහස් ගණනක් ජනතාව වීදි බැසීමට පියවර ගෙන ඇති අතර ප්‍රජාවන් [හානියට ලක් වූ] මුස්ලිම් පල්ලි සහ ව්‍යාපාරික ස්ථාන අලුත්වැඩියා කිරීමට පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/be833047.json)
+
+---
+
+### செந்திலின் கூட்டத்தில் பதற்றம்
+
+*2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்/75-342018) · `ta`
+
+திருக்கோணேஸ்வரம் ஆலயம் சம்பந்தமான கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்  ஏற்பாடு செய்த உத்தியோக பூர்வமற்ற கூட்டத்தில் அமைதியின்மை ஏற்பட்டது.
+
+திருக்கோணேஸ்வரம் ஆலய அபிவிருத்தி சம்பந்தமான பொது சபை உறுப்பினர்களுக்கான கூட்டம் ஒன்று அவசர அவசரமாக ஞாயிற்றுக்கிழமை (11)  ஆளுநர் செந்தில் தொண்டமானால் யாப்புக்கு முரணாக நடத்தப்பட்டது
+
+அங்கு கருத்து தெரிவித்த செந்தில் தொண்டமான், திருக்கோணேஸ்வர ஆலயத்தில் ராஜ கோபுரம் கட்டுவதற்கான ஏற்பாடு தன்னால் செய்யப்பட்டுள்ளது என்றார்.  இந்நிலையில், சோழர் காலத்து பல நூறு கோடி ரூபாய் பெறுமதியான தாலி ஒன்று களவு போய் உள்ளது என்றார்.
+
+கூட்டத்தை அவசரமாக முடித்த ஆளுநர் செந்தில் தொண்டமான்,    மக்களுக்கு கேள்வி கேட்க வாய்ப்பு வழங்காமல் செல்ல முயன்றார்
+
+கூட்டத்திற்கு வருகை தந்த திருகோணமலை சேர்ந்த ஆயுள் கால உறுப்பினர்கள் ,தமது கேள்விக்கு நீங்கள் பதில் கூறியே ஆக வேண்டும் என்ற நிலைப்பாட்டில் இருந்த காரணத்தால் பின் வரும் கேள்விகள் விளக்கங்கள் மக்களால் கூறப்பட்டன
+
+...
+
+[Data](articles/44c4ba37.json)
+
+---
+
 ### Senthil's crowd in the crowd: exit by questioning eyes
 
 *2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்-கேள்விக்-கணைகளால்-வெளியேறினார்/75-342018) · `ta`
@@ -2163,75 +2247,5 @@ Minister of State for Sri Lanka Taraka Balasuriya said that most of the retired 
 [Data](articles/c1862ed7.json)
 
 [Extended Data](ext_articles/c1862ed7.ext.json)
-
----
-
-### Australia's helicopter collapses
-
-*2024-08-12 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199839) · `si`
-
-A helicopter crashed into a hotel in Caesland, Australia, early this morning, injuring two guests who are now in stable condition. Authorities state the crash was due to unauthorized use of the aircraft.
-
-🟩
-
-It is reported that a helicopter has collapsed on a hotel in Caesland, Australia.
-
-The accident occurred at around 01: 50 this morning and the authorities say that the aircraft has been funded without proper permission.
-
-Two guests at the hotel have been hospitalized and their condition is good.
-
-◼️
-
-[Data](articles/4bbef02e.json)
-
-[Extended Data](ext_articles/4bbef02e.ext.json)
-
----
-
-### Who is the support of Chandrika?
-
-*2024-08-12 09:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரிக்காவின்-ஆதரவு-யாருக்கு/175-342002) · `ta`
-
-Chandrika Bandaranaike Kumaratunga, former president, will not endorse any candidate in the upcoming Sri Lankan presidential election. This decision was made public during a SLFP meeting in Attanagalla, where some members suggested supporting Sajith Premadasa. Despite this, Chandrika expressed neutrality towards the party's local operations in Attanagalla.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga said he would not support any candidate in the upcoming presidential election.
-
-He was speaking at a special discussion held at the auditorium of the Nittambuwa Horakolla Bandaranaike Library Complex with the members of the Sri Lanka Freedom Party (SLFP) in Attanagalla constituency.
-
-Some members of the Sri Lanka Freedom Party (SLFP) have suggested that the presidential candidate Sajith Premadasa has supported.
-
-He said he would not support any candidate and that he had no objection to the support of the Sri Lanka Freedom Party (SLFP) operating in the Attanagalla area.. Remble
-
-◼️
-
-[Data](articles/cc557798.json)
-
-[Extended Data](ext_articles/cc557798.ext.json)
-
----
-
-### Helicopter crashes into roof of Cairns Hilton DoubleTree hotel, killing pilot
-
-*2024-08-12 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101163/helicopter-crashes-into-roof-of-cairns-hilton-doubletree-hotel-killing-pilot) · `en`
-
-A helicopter crashed into the roof of a hotel in the popular northern Australian tourist town of Cairns, killing the pilot and forcing the evacuation of hundreds of guests, authorities said on Monday.
-
-Emergency crews were called at about 2 a.m. on Monday (1600 GMT on Sunday) after a twin-engine helicopter collided with the hotel roof, causing a fire on top of the building and triggering evacuations, Queensland state police said in a statement.
-
-Police said forensic investigations were underway to formally identify the pilot. He was declared dead at the scene.
-
-“There were no injuries sustained by people on the ground,” the police statement said.
-
-The crash occurred at Hilton’s, Double Tree Hotel in the city of Cairns, a major gateway to Australia’s Great Barrier Reef, Australian media reported.
-
-Two of the helicopter’s rotor blades came off and one landed in the hotel pool, media reports said.
-
-...
-
-[Data](articles/62305a32.json)
-
-[Extended Data](ext_articles/62305a32.ext.json)
 
 ---

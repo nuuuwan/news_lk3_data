@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 15:36:21**
+As of **2024-08-12 15:55:27**
 
 ## Newspaper Stats
 
-*Scraped **40,285** Articles*
+*Scraped **40,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 376
 colombotelegraphcom | 381
 islandlk | 2,331
-economynextcom | 2,431
+economynextcom | 2,437
 dailyftlk | 2,593
 adalk | 3,699
-adaderanalk | 4,692
+adaderanalk | 4,695
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,102
+tamilmirrorlk | 5,108
 virakesarilk | 6,385
 adaderanasinhalalk | 6,853
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 6,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,284 (100.0%) of 40,285 articles have been extended.
+40,285 (100.0%) of 40,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Wages Board passes minimum daily wage for plantation workers
+
+*2024-08-12 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101178/wages-board-passes-minimum-daily-wage-for-plantation-workers) · `en`
+
+The Wages Board has decided to provide the Rs. 1,700 daily minimum wage for plantation workers.
+
+The relevant decision has been passed in the Wages Board today (12), with a majority of 14 votes from the plantation companies in favour of increasing the daily minimum wage.
+
+Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman stated that only 3 plantation companies objected to the passing of the decision.
+
+◼️
+
+[Data](articles/3a813868.json)
+
+---
+
+### India-Sri Lanka passenger ferry service to be relaunched on Aug 16
+
+*2024-08-12 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101177/india-sri-lanka-passenger-ferry-service-to-be-relaunched-on-aug-16) · `en`
+
+The much-delayed passenger ferry service connecting Nagapattinam in Tamil Nadu with the Kankesanthurai (KKS) suburb of Jaffna district in the Northern Province of Sri Lanka is set to commence on August 16, Indian media reported.
+
+IndSri Ferry Services Private Limited, the ferry operator, announced that the service bookings will open from midnight today.
+
+There were plans to relaunch it in May but there were delays and it eventually got cancelled.
+
+The service was virtually flagged off by Prime Minister Narendra Modi on October 14 last year with the vessel ‘Cheriyapani’, after a hiatus of nearly 40 years. It was operated by the Shipping Corporation of India under KPVS Private Limited. It was then halted after about a week, owing to rough weather during the North-East monsoon.
+
+◼️
+
+[Data](articles/3664c7d6.json)
+
+---
+
+### Presidential Poll nominations: Special security zone in Rajagiriya on Thursday
+
+*2024-08-12 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101176/presidential-poll-nominations-special-security-zone-in-rajagiriya-on-thursday) · `en`
+
+The vicinity of the Election Commission Office in Rajagiriya will be designated as a special security zone on August 15 as the nominations for the upcoming Presidential Election will be accepted on that date.
+
+The Chairman of the Election Commission, R.M.A.L. Rathnayake has therefore requested the public to avoid the area if possible for any official or personal purposes during this time period.
+
+The nominations will be accepted from 9.00 a.m. to 11 a.m. on Thursday, with the filing of objections permitted between 9.00 a.m. and 11:30 a.m. the same day. The allocation of election symbols for candidates from other parties will be scheduled following the objection period.
+
+Furthermore, the election regulatory body said that the allocation of election symbols for candidates from other parties will be scheduled following the objection period.
+
+The special security zone will encompass Sarana Mawatha in Rajagiriya, with only authorized personnel and vehicles allowed access.
+
+...
+
+[Data](articles/bb9c4e0c.json)
+
+---
+
+### இரண்டு எம்.பிக்களின் ஆசனங்களில் வெற்றிடம்
+
+*2024-08-12 15:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-எம்-பிக்களின்-ஆசனங்களில்-வெற்றிடம்/175-342033) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோரின் ஆசனங்கள் இரத்து செய்யப்பட்டதன் காரணமாக வெற்றிடமான இரண்டு ஆசனங்கள் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவின் தவிசாளருக்கு அறிவிக்கப்பட்டுள்ளது.
+
+1981 ஆம் ஆண்டு 1 ஆம் இலக்க பாராளுமன்ற தேர்தல் சட்டத்தின் 64(1) மற்றும் 64(5) ஆகிய பிரிவுகளின் பிரகாரம் இரண்டு வெற்றிடங்கள் தொடர்பில் பாராளுமன்றத்தின் பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன எழுத்து மூலம் தேர்தல்கள் ஆணைக்குழு தலைவருக்கு அறிவித்துள்ளார்.
+
+காலி மாவட்ட பாராளுமன்ற உறுப்பினர் மனுஷ நாணயக்கார மற்றும் தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினர் ஹரின் பெர்னாண்டோ ஆகியோரை கட்சியில் இருந்து நீக்குவதற்கான ஐக்கிய மக்கள் சக்தியின் (SJB) தீர்மானம் சட்ட ரீதியாக செல்லுபடியாகும் என உயர் நீதிமன்றம் தீர்ப்பு வெளியிட்டமை குறிப்பிடத்தக்கது.cs
+
+◼️
+
+[Data](articles/790f8398.json)
+
+---
 
 ### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
 
@@ -46,23 +116,31 @@ AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Award
 
 ---
 
-### වතු සේවක දෛනික වැටුපට පඩි පාලක සභාවේ අනුමැතිය
+### Approval of the daily wage of the estate worker
 
 *2024-08-12 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199854) · `si`
 
-වතු සේවකයින්ගේ දෛනික වැටුප ලෙස රුපියල් 1,700ක් ලබාදීමේ තීරණය අද (12) පඩි පාලක සභාවේ දී සම්මත වී තිබේ.
+Estate workers' daily wage increased after a poll, supported by key figures including the Minister of Water Supply, the Eastern Province Governor, and the Sri Lanka Labor Congress. The proposal was Rs. 1,700, fully endorsed by the court and other officials.
 
-වැටුප් වැඩි කිරීම සම්බන්ධයෙන් එහිදී ඡන්ද විමසීමක් ද පවත්වා ඇතැයි වාර්තා වේ.
+🟩
 
-ජල සම්පාදන හා වැවිලි යටිතල පහසුකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවසුවේ, වැටුප් වැඩි කිරීමට පක්ෂව 14 දෙනෙකු ඡන්දය ප්‍රකාශ කර ඇති අතර, වතු සමාගම් තුනක් ඊට විරුද්ධව ඡන්දය ප්‍රකාශ කර ඇති බවය.
+The decision to provide Rs.
 
-ඒ අනුව වතු සේවකයින් සඳහා දෛනික මූලික වැටුප ලෙස රුපියල් 1,350ක් සහ පැමිණීමේ ප්‍රවර්ධන විශේෂ දීමනාව ලෙස රුපියල් 350ක් ලබාදීමට එකඟතාවකට පැමිණ තිබේ.
+It is reported that a poll had been held on the wage increasing.
 
-මේ අතර වැටුප් ප්‍රශ්නය මහාධිකරණයට කැඳවූ අවස්ථාවේදී නැගෙනහිර පළාත් ආණ්ඩුකාර සහ ශ්‍රී ලංකා කම්කරු කොංග්‍රසයේ සභාපති, සෙන්දිල් තොණ්ඩමන් මහතා අධිකරණයේ සඳහන් වැරදි නිවැරදි කර වැටුප් වැඩිවීමක් ලබා ගැනීමට පූර්ණ සහයෝගය ලබාදුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහ හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාට ස්තූතිය පුද කළේය.
+Minister of Water Supply and Plantation Infrastructure Speaking
 
-...
+Accordingly, estate workers have agreed to provide Rs.
+
+Meanwhile, the Eastern Province Governor and the Chairman of the Sri Lanka Labor Congress, the Chairman of the Eastern Province and the Chairman of the Sri Lanka Labor Congress, and the President of the Sri Lanka Labor Congress, the Chairman of the Sri Lanka Labor and the Chairman of the Sri Lanka Labor Congress, and former Minister Manusha Nanayakkara gave the fully supported by the court.
+
+Sandil Thondaman said that the Sri Lanka Labor Congress has proposed a salary of Rs. 1,700.
+
+◼️
 
 [Data](articles/bfc96439.json)
+
+[Extended Data](ext_articles/bfc96439.ext.json)
 
 ---
 
@@ -84,6 +162,24 @@ On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya�
 
 ---
 
+### ரூ. 1,700 சம்பள உயர்வு வழங்க தீர்மானம்
+
+*2024-08-12 14:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-700-சம்பள-உயர்வு-வழங்க-தீர்மானம்/175-342032) · `ta`
+
+தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு வழங்குவதில் தாமதம் ஏற்பட்டிருந்த நிலையில், சம்பள நிர்ணய சபையில் திங்கட்கிழமை (12)  இடம்பெற்ற பேச்சுவார்த்தையில் இறுதி தீர்வு எட்டப்பட்டுள்ளது. வாக்கெடுப்பு மூலமாக 1700 ரூபாய் சம்பளம் வழங்க தீர்மானம் எட்டப்பட்டுள்ளது என கிழக்கு மாகாண ஆளுநரின் ஊடகப் பிரிவு அறிவித்துள்ளது.
+
+சம்பள விடயம், உயர் நீதிமன்றத்திற்கு எடுத்து செல்லப்பட்ட நிலையில், நீதிமன்றத்தால்  குறிப்பிடப்பட்ட தவறுகளை திருத்தி அமைத்து 1,700 ரூபாய் சம்பளம் உயர்வை பெற்றுத்தர முடியுமென அறிவிக்கப்பட்டுள்ளது என அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்குமுழு ஒத்துழைப்பு வழங்கிய ஜனாதிபதி ரணில் விக்ரமசிங்க, முன்னாள் அமைச்சர் மனுஷ நாணயக்கார ஆகியோருக்கு  கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிஸின் தலைவருமான செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+
+மேலும், இலங்கை தொழிலாளர் காங்கிரஸ்  தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் சம்பளத்தை முன்மொழிந்தது போல அதனை மக்கள் கை பெற்றுக்கொடுக்கும் முழுப்பொறுப்பும்  இலங்கை தொழிலாளர் காங்கிரஸுக்கு உள்ளது எனவும்  செந்தில் தொண்டமான் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4f79c91d.json)
+
+---
+
 ### The ICC Yen is evaluated to the cyc
 
 *2024-08-12 14:51:22* · [`adalk`](https://www.ada.lk/sports/දක්ෂතාවයට-ICCයෙන්-චමරිට-ඇගයීමක්/9-411326) · `si`
@@ -101,6 +197,24 @@ Based on the skills at the Asian Cup, Chamari has been named as ICC Player in Ju
 [Data](articles/da663cab.json)
 
 [Extended Data](ext_articles/da663cab.ext.json)
+
+---
+
+### USAID gives Sri Lanka $24.5mn grant
+
+*2024-08-12 14:45:00* · [`economynextcom`](https://economynext.com/usaid-gives-sri-lanka-24-5mn-grant-176389/) · `en`
+
+ECONOMYNEXT – The US Agency for International Development (USAID) will give 24.5 million dollars, or 7.2 billion rupees, to strengthen Sri Lanka’s market-driven growth and promote good governance practices.
+
+“This funding is an investment to further support the country’s locally led initiatives to drive sustainable solutions for Sri Lanka’s development challenges,” USAID Assistant Administrator for Bureau of Asia Schiffer said.
+
+The funds, committed through a Development Objective Grant Agreement between USAID and the government of Sri Lanka, will strengthen Sri Lanka’s market-driven growth, foster environmental sustainability and resilience, and promote good governance practices, the US embassy said in a statement.
+
+“Since 1956, the United States has invested in Sri Lanka’s people, empowering them in their entrepreneurial pursuits, strengthening Sri Lanka’s resilience to climate change and macro-economic shocks,” US Ambassador to Sri Lanka Julie Chung said.
+
+...
+
+[Data](articles/5af5d330.json)
 
 ---
 
@@ -172,6 +286,22 @@ This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Elector
 
 ---
 
+### ஆசிரியையின் நிர்வாண படம்: மாணவர்கள் இருவர் கைது
+
+*2024-08-12 14:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையின்-நிர்வாண-படம்-மாணவர்கள்-இருவர்-கைது/76-342030) · `ta`
+
+இளம் பெண் ஆசிரியை ஒருவரின் முகத்துக்கு  நிர்வாண புகைப்படத்தை இணைத்து  சமூக வலைத்தளங்களில் வெளியிட்ட குற்றச்சாட்டில் மாத்தளை விஜய வித்தியாலயத்தைச் சேர்ந்த 14 வயதுடைய மாணவர்கள் இருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பொல்கொல்ல மகாவலி கல்வி பீடத்தில் இருந்து மாத்தளை விஜய வித்தியாலயத்திற்கு ஒரு வருட பயிற்சிக்காக சென்ற இளம் பெண் ஆசிரியையின் முகத்துக்கு நிர்வாண புகைப்படத்தை இணைத்து சமூக வலைத்தளங்களில் பதிவேற்றம் செய்துள்ளனர்.
+
+குறித்த இளம் ஆசிரியை, அந்த பாடசாலைக்கு நடன ஆசிரியையாக பயிற்சியளிக்க நியமிக்கப்பட்டதுடன், அவரின் நிர்வாண புகைப்படம் சமூகவலைத்தளங்களில் பரவியதையடுத்து, மாத்தளை பொலிஸில் முறைப்பாடு செய்ததோடு, சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டு, குறித்த பாடசாலையின் 10ஆம் வருட மாணவர்கள் இருவரும் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/64c94de2.json)
+
+---
+
 ### Chamari named ICC Women’s Player of the Month for July 2024
 
 *2024-08-12 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101173/chamari-named-icc-womens-player-of-the-month-for-july-2024) · `en`
@@ -189,6 +319,40 @@ This is the third ICC Women’s Player of the Month award for the 34-year-old, m
 [Data](articles/569cb315.json)
 
 [Extended Data](ext_articles/569cb315.ext.json)
+
+---
+
+### வானிலை தொடர்பில் வெளியான எச்சரிக்கை
+
+*2024-08-12 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலை-தொடர்பில்-வெளியான-எச்சரிக்கை/175-342029) · `ta`
+
+நாட்டின் சில பகுதிகளில் கடும் மழை பெய்யும் என வானிலை அவதான நிலையம் எச்சரிக்கை விடுத்துள்ளது.
+
+மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களில் காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+
+◼️
+
+[Data](articles/1774dd58.json)
+
+---
+
+### Fire on MSC Capetown III doused at Sri Lanka’s Colombo port
+
+*2024-08-12 13:56:00* · [`economynextcom`](https://economynext.com/fire-on-msc-capetown-iii-doused-at-sri-lankas-colombo-port-176408/) · `en`
+
+ECONOMYNEXT – Firefighters at Colombo Port has put out a fire that suddenly broke out aboard the merchant vessel MSC CAPETOWN III, the Sri Lanka Ports Authority said.
+
+The fire broke out at 0030 hours on August 11, while the vessel was at the port’s Jaye Container Terminal.
+
+Shipping Minister Nimal Siripala de Silva has called for an investigation into the fire after commending staff for fighting the fire quickly, the statement said
+
+Chairman Sri Lanka Ports Authority, Keith Bernard was quoted as saying a comprehensive report on the incident would be prepared and the insurers would also would hold their own inquiries.
+
+The vessel was  scheduled  to unload 995 containers and load 880 containers at the port. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/6470a894.json)
 
 ---
 
@@ -298,6 +462,26 @@ Therefore, the Chairman of the Elections Commission, the Chairman of the Electio
 
 ---
 
+### Sri Lanka’s Justice Ministry goes to Sabry after Wijedasa resignation
+
+*2024-08-12 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-minister-sabry-gets-justice-ministry-after-wijedasa-resignation-176393/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesimghe appointed Foreign Minister Ali Sabry MP as the Justice Minister on Monday (12) after the position fell vacant after the resignation of the former cabinet minister Wijeyadasa Rajapakshe.
+
+“MP Ali Sabry took oath as the Minister of Justice, Prison Affairs & Constitutional Reforms before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago in addition to his current portfolio as the Minister of Foreign Affairs,” the President’s Media Division (PMD) said in a statement.
+
+Rajapakshe, the former Justice Minister resigned from his portfolio on July 25 citing that he was contesting in the upcoming presidential poll scheduled for Sept 21.
+
+Rajapakshe has already given his nomination to contest in the poll under National Democratic Front (NDF).
+
+Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and has held various positions including cabinet portfolios.
+
+...
+
+[Data](articles/c467ddf8.json)
+
+---
+
 ### Storm brings torrential rain to Japan, disrupts transport
 
 *2024-08-12 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101172/storm-brings-torrential-rain-to-japan-disrupts-transport) · `en`
@@ -390,6 +574,20 @@ It is noteworthy that Vijayadasa Rajapakse, who was the Minister of Justice, rec
 
 ---
 
+### நீதி அமைச்சராக அலி சப்ரி நியமனம்
+
+*2024-08-12 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-அமைச்சராக-அலி-சப்ரி-நியமனம்/175-342028) · `ta`
+
+வெளிவிவகார அமைச்சர் அலி சப்ரி, நீதி அமைச்சராக பதவி பிரமாணம் செய்து கொண்டுள்ளார்.
+
+நீதி அமைச்சராக பதவி வகித்த விஜயதாச ராஜபக்ச, ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக அந்த அமைச்சுப் பதவியை அண்மையில் இராஜினாமா செய்தார் என்பது குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/c07d1bb2.json)
+
+---
+
 ### Alizabri was sworn in as Minister of Justice
 
 *2024-08-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/190882) · `ta`
@@ -407,6 +605,22 @@ Following the resignation of former Justice Minister Vijayadasa Rajapakse, the h
 [Data](articles/5f087ddd.json)
 
 [Extended Data](ext_articles/5f087ddd.ext.json)
+
+---
+
+### பானும், பலாப்பழமும் சின்னங்களில் உள்ளது
+
+*2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானும்-பலாப்பழமும்-சின்னங்களில்-உள்ளது/175-342027) · `ta`
+
+அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களுக்கு தேர்தல்கள் ஆணைக்குழுவினால் சின்னங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+
+கொக்லேட், பாண், கேக், டோஃபி, திராட்சை கொத்து, பழக்கூடை, கேரட், ஐஸ்கிரீம், சோளம், வட்டக்காய், முந்திரி பருப்பு,  ஆப்பிள் பழம், பலாப்பழம், மாம்பழம், ஜம்பு பழம், அன்னாசி பழம், தேங்காய் போன்றவையும் சின்னங்களும் உள்ளனர்.
+
+இது தவிர கோப்பு (பைல்), பறவை இறகு, சிசி டிவி கேமரா, இடுப்பு பெல்ட், கேஸ் சிலிண்டர், ஊஞ்சல், கெட்டபோல், குதிரை லாடம், கையடக்க தொலைபேசி போன்ற சிறப்பு சின்னங்களும் இந்த ஆண்டு ஜனாதிபதி தேர்தல் வாக்குச்சீட்டில் சேர்க்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/662e56ee.json)
 
 ---
 
@@ -429,6 +643,26 @@ In addition, special symbols such as file (file), bird feathers, CC TV camera, h
 [Data](articles/e3c6396a.json)
 
 [Extended Data](ext_articles/e3c6396a.ext.json)
+
+---
+
+### Sri Lanka July 2024 remittances rise 10.3-pct to $566.8mn
+
+*2024-08-12 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-july-2024-remittances-rise-10-3-pct-to-566-8mn-176382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming gained 10.3 percent to 566.8 million dollars in July 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
+
+“Remittances from Sri Lankan overseas workers reached USD 566.8 million in July 2024, bringing the total for the first seven months of the year to USD 3.71 billion,” State Minister of Finance Shehan Semasinghe said on X (twitter).
+
+“This represents a 10.3% increase compared to the same period last year, underscoring the vital role of our expatriate community in supporting and strengthening the economy.”
+
+Worker remittances is one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis.
+
+Semasinghe thanked former Minister Manusha Nanayakkara for his “support and dedication to the welfare of our overseas workers, which has greatly contributed to this positive trend.”
+
+...
+
+[Data](articles/da750687.json)
 
 ---
 
@@ -675,6 +909,26 @@ The Elections Commission further stated that representatives of the United SLFP 
 [Data](articles/1e9628ca.json)
 
 [Extended Data](ext_articles/1e9628ca.ext.json)
+
+---
+
+### Sri Lanka Navy joins Australia’s military in IPE activities
+
+*2024-08-12 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-navy-joins-australias-military-in-ipe-activities-176370/) · `en`
+
+ECONOMYNEXT – Sri Lanka will engage in joint activities with the Australian military in the Indo-Pacific Endeavour (IPE) activities, starting off with joint work with Sri Lanka Air Force Maritime Squadron, Australia’s embassy in Colombo said.
+
+“The first engagement of IPE 2024 will be a Law of the Sea workshop focused on maritime surveillance and involving members of the Sri Lanka Air Force Maritime Squadron,” the embassy said in a statement.
+
+“Participants will engage in scenario-based training addressing regional security issues such as drug smuggling and illegal fishing.
+
+“Other IPE 2024 activities in Sri Lanka include a combined diving activity that will see members of the Royal Australian Navy and Sri Lankan Navy exchange knowledge and skills.”
+
+IPE supports the Australian Government’s focus on deepening diplomatic and defence partnerships across Southeast Asia and the Northeast Indian Ocean.
+
+...
+
+[Data](articles/92baee35.json)
 
 ---
 
@@ -1500,6 +1754,22 @@ The Rajapaksas followed them and eventually thrown away. We thank Mahinda Rajapa
 
 ---
 
+### IMF classifies Sri Lanka’s exchange regime as ‘other managed’
+
+*2024-08-12 09:40:00* · [`economynextcom`](https://economynext.com/imf-classifies-sri-lankas-exchange-regime-as-other-managed-176326/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s exchange rate arrangement involving ad hoc interventions, which has so far remained stable and provided a strong foundation for economic activities to resume amid broadly deflationary monetary policy, has been classified as ‘other managed’ by the International Monetary Fund.
+
+Especially after 1978 as the IMF’s Second Amendment to its Articles deprived members of a credible anchor for money, countries ended up with various exchange rates arrangements, which collapse due to conflicting money and exchange policies, triggering high inflation, social unrest and political upheavals.
+
+“The de jure exchange rate arrangement is classified as free floating, while the de facto exchange rate arrangement is classified as other managed,” the IMF said in its last economic report.
+
+...
+
+[Data](articles/6e688a7a.json)
+
+---
+
 ### IMF classifies Sri Lanka’s exchange regime as ‘other managed’ arrangement
 
 *2024-08-12 09:40:00* · [`economynextcom`](https://economynext.com/imf-classifies-sri-lankas-exchange-regime-as-other-managed-arrangement-176326/) · `en`
@@ -1951,369 +2221,5 @@ The films captured during the 37th anniversary Adipuram Mahotsavam festival of t
 [Data](articles/17e4ca54.json)
 
 [Extended Data](ext_articles/17e4ca54.ext.json)
-
----
-
-### Tamils ​​can give digital self -determination - Patali Champika Ranawaka
-
-*2024-08-12 03:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/190851) · `ta`
-
-Patali Champika Ranawaka suggests that digitizing Sri Lanka's state structure could grant digital self-determination to Tamils. He emphasizes maintaining peace during the upcoming presidential election, highlighting the importance of addressing corruption and focusing on economic recovery. The Supreme Court's injunction on the new visa distribution system affects public defense minister Tran Ales. The statement underscores the need for transparency and accountability in governance, while also acknowledging the ongoing struggle for self-determination among Tamil communities.
-
-🟩
-
-We will not act during the presidential election to disrupt the relative progress that the country has now achieved. Patali Champika Ranawaka, the leader and Member of Parliament, said that if the state structure is digitized, Tamils ​​can give self -determination through digital system.
-
-He was speaking at a meeting of the UNP on Sunday (11) in the Piliyandala area in Colombo.
-
-The presidential election will be held on September 21st. The Rajapaksas, the economic assassinations, refer to the solution to the economic impact.
-
-Is referred to as the abolition of corruption. The parties, who refer to the corrupt documents, have not taken any action with the evidence.
-
-We are not provoking among the people regarding corruption. We have taken appropriate measures to seek the court.
-
-...
-
-[Data](articles/75c8f38b.json)
-
-[Extended Data](ext_articles/75c8f38b.ext.json)
-
----
-
-### The Rajapaksas made the people of the country: Namal Rajapakse defeated Rajapakse and people should express their hatred - Batali Champika Ranawaka
-
-*2024-08-12 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/190849) · `ta`
-
-Batali Champika Ranawaka criticizes the Rajapaksas for the country's economic downfall, urging defeat of Namal Rajapaksa to express public discontent. He thanks Mahinda Rajapaksa for choosing Namal as the presidential candidate, highlighting the need for accountability from the Rajapaksa family. Ranawaka mentions the cancellation of the Light Rail Development Program and questions how the Rajapaksas, blamed for the economic crisis, can propose solutions. He references the Supreme Court's call for responsibility from Gotabhaya Rajapaksa, Mahinda Rajapaksa, and Basil Rajapaksa regarding the economic impact.
-
-🟩
-
-I thank Mahinda Rajapaksa for fielding Namal Rajapaksa as presidential candidate. The Rajapaksa family, who has put the country to the bankruptcy, should respond to the Rajapaksa family. People must express their hatred by defeating Namal Rajapaksa.
-
-How can the economy improve by those who have pushed the country into bankruptcy. The people of the country should be clearly thoughtful. September 21, the Rajapaksa will teach the best lesson for the UNP leader and Member of Parliament, Patali Champika Ranawaka.
-
-He was speaking at a meeting of the UNP on Sunday (11) in the Piliyandala area in Colombo.
-
-We have launched the best development projects to earn income for the country.
-
-Gotabhaya Rajapaksa came to power in 2019 to highlight racism and religiousism. He should mention the country's mischief.
-
-If the Light Rail Development Program was not canceled by 2020, the development plan could have been completed this year.
-
-...
-
-[Data](articles/ee501b09.json)
-
-[Extended Data](ext_articles/ee501b09.ext.json)
-
----
-
-### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
-
-*2024-08-12 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
-
-From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
-
-This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
-
-...
-
-[Data](articles/63e11237.json)
-
-[Extended Data](ext_articles/63e11237.ext.json)
-
----
-
-### The two Chief  similarities between Sri Lanka’s 2022 ‘youth aragalaya’ and Bangladesh’s youth uprising in 2024
-
-*2024-08-12 03:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84516) · `en`
-
-Those who unwisely murmur ‘Bangladeshi people power a la Sri Lanka’ in assessing the ‘second liberation’ of Bangladesh following the jubilant toppling of fifteen year one-party rule by former Prime Minister Sheikh Hasina by thousands of youth earlier this month, must restrain their enthusiasm in no small part.
-
-The 2022 youth protests in Sri Lanka precipitating the flight of former President Gotabaya Rajapaksa and the collapse of his Government has led to significantly different outcomes in this country as compared to evolving – and still volatile – developments in Bangladesh.
-
-In essence, there are only two similarities. First, both Hasina and Rajapaksa, consumed by their monstrous political egos, refused to believe that the ‘hordes’ were literally at the door of their respective ‘palaces’ until the eleventh hour.
-
-...
-
-[Data](articles/042c1a40.json)
-
-[Extended Data](ext_articles/042c1a40.ext.json)
-
----
-
-### Factum Perspective: Ukraine - Strategic and Technical Hothouse
-
-*2024-08-12 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190848) · `ta`
-
-It seems like you've shared a comprehensive overview of the evolution of warfare tactics and technology from World War II to the present day, focusing on the roles of armored vehicles, drones, and the strategic importance of industrial production capabilities. Your narrative touches on significant historical events, technological advancements, and geopolitical strategies that have shaped modern warfare.
-
-
-
-Given the breadth and depth of the topics covered, could you please specify what particular aspect or question you would like assistance with? Whether it's analyzing specific technologies, understanding the implications of certain strategies, or exploring potential future developments, I'm here to help.
-
-🟩
-
-On February 24, 2022, Russia aims Russia's "Special Military Action" (Spetsialnaya Voennaya Operatsiya - SVO) aimed at the removal of Ukraine's "militarization". Russian forces launched their campaign as in 2014 in Crimea. Ukrainian forces do not oppose. There is evidence that the Russians did not expect the extent of the opposition they faced.
-
-In the north, the Russians made good progress until they reached the Ukrainian capital, Kiiv, where the air force tried to capture the Antonov Airport. Here, the strong Ukrainian resistance stopped them in their ways and eventually pushed them backwards.
-
-In the south, the Russian forces attacked the port of Mary, as the Russians were deeply infiltrated and crossed the Dinipper River, crossing the Dinipper River before they were stopped by high forces outside Mikola.
-
-After World War II, the next two years, the bitter quarrel that proved war -related traditional knowledge.
-
-...
-
-[Data](articles/bd4c18dc.json)
-
-[Extended Data](ext_articles/bd4c18dc.ext.json)
-
----
-
-### '80 close to '80. But I can do a young boy 18. '
-
-*2024-08-12 02:01:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gz7jpkwdlo) · `si`
-
-Gunasena, aged nearly 80, from Swarb village in Kirimeiyawa, Kuliyapitiya, emphasizes the importance of happiness and hard work for a healthy life. He uses recycled materials like plastic bottles, coir, and ropes for his work, employing mostly young boys around 18 or 19 years old.
-
-🟩
-
-It contains nothing here.Video header, '' The age is wrong. It's a bit blocked if it's okay '
-
-'80 close to '80. But I can do a young boy 18. '
-
-RW lives in the Swarb village in Kirimeiyawa, Kuliyapitiya. Gunasena lives nearly 80 years old.
-
-He says that laughter, being happy, and engaging at any work can lead to a healthy life.
-
-Nearly '' '' '' '' 'I. But I can usually work 18, 19 guys. ". Gunasena told BBC Sinhala service.
-
-He is using discarded plastic bottles, lack of ornamenting, coir rims and ropes.
-
-◼️
-
-[Data](articles/2be3b4e1.json)
-
-[Extended Data](ext_articles/2be3b4e1.ext.json)
-
----
-
-### Increase in attendance of tourists
-
-*2024-08-12 01:31:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-வருகை-அதிகரிப்பு/175-341996) · `ta`
-
-This month, 26,889 tourists visited Sri Lanka within the first four days, marking a significant increase. The majority were from India, and overall tourist arrivals this year total 1,224,948.
-
-🟩
-
-In the first 4 days of this month alone, 26,889 tourists visit the country.
-
-According to the renovated data released by the Sri Lanka Tourism Development Authority, the largest tourists from India have arrived.
-
-In addition, 12 lakhs 24,948 tourists have come to the country so far this year.. (A)
-
-◼️
-
-[Data](articles/5e01e752.json)
-
-[Extended Data](ext_articles/5e01e752.ext.json)
-
----
-
-### 3 crore Indian eggs imported
-
-*2024-08-12 01:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கோடி-இந்திய-முட்டைகள்-இறக்குமதி/175-341994) · `ta`
-
-Sri Lanka is importing 3 crore Indian eggs this month due to high local prices, exceeding 50 rupees per egg. The procurement process is ongoing under the Sri Lanka State Trade Multipurpose Corporation.
-
-🟩
-
-The first block of 3 crore Indian eggs will be imported this month, the Sri Lanka State Trade Multipurpose Corporation said.
-
-The procurement process on the importation of eggs this year is currently underway, said Asiri Valasundara, president of the Sri Lanka State Trade Multipurpose Corporation.
-
-Eggs have been imported again as one egg in the local market is being sold for over 50 rupees. (A)
-
-◼️
-
-[Data](articles/354c72ee.json)
-
-[Extended Data](ext_articles/354c72ee.ext.json)
-
----
-
-### Today is the Rs 1,700 issue
-
-*2024-08-12 01:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-700-விவகாரம்-இன்று-பேச்சு/175-341993) · `ta`
-
-President Ranil Wickremesinghe announced that seven plantation companies have agreed to a Rs 1,700 salary increase for plantation workers. The Minister of Labor will discuss this on Monday, and the President is prepared to enact necessary laws. This decision was made during a public meeting of plantation union youths in Kandy, where Wickremesinghe also assumed the labor ministry's responsibilities after Manusha Nanayakkara's departure due to Supreme Court issues.
-
-🟩
-
-President Ranil Wickremesinghe said that 7 plantation companies have agreed to pay a 1700 salary increase to plantation workers and that the Minister of Labor will speak on Monday (12) and that he is ready to pass the law if necessary.
-
-President Ranil Wickremesinghe announced at a public meeting of the youth of the plantation unions held on Saturday (10) at the 'Kararaliya' stadium in Kandy in organizing the Ceylon Workers Congress.
-
-Manusha Nanayakkara, who served as the Minister of Labor, lost his post in the aftermath of the Supreme Court. Subsequently, President Ranil Wickremesinghe has brought the responsibilities of the Ministry of Labor under him.
-
-◼️
-
-[Data](articles/19e4a359.json)
-
-[Extended Data](ext_articles/19e4a359.ext.json)
-
----
-
-### Special security on Thursday
-
-*2024-08-12 00:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழனன்று-விசேட-பாதுகாப்பு/175-341992) · `ta`
-
-On the 15th, special security and traffic schemes will be in place for the presidential election nomination process. The Elections Commission advised these measures. Only two individuals, including the party secretary, can enter the election office, accompanied by the presidential candidate. Nominations will be accepted from 9 am to 11 am.
-
-🟩
-
-Special security arrangements will be made on the 15th of this month, the day of filing nominations for the presidential election.This special security measures will be implemented on the advice of the Elections Commission.
-
-A special traffic scheme will be implemented on the 15th of this month on the streets of the election office in Rajagiriya.
-
-Elections Commissioner Saman Sri Ratnayake has stated that only two people, including the party secretary, have been allowed to enter the office where the party secretary is accompanied by the presidential candidate.
-
-The nomination for the presidential election will be accepted from 9 am to 11 am on the 15th.
-
-◼️
-
-[Data](articles/4c05dc34.json)
-
-[Extended Data](ext_articles/4c05dc34.ext.json)
-
----
-
-### The goal of the four is to bring down Sajith
-
-*2024-08-12 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-வீழ்த்துவதே-நால்வரின்-இலக்காகும்/175-341991) · `ta`
-
-Nalin Bandara accuses a group including Sarath Fonseka of plotting against Sajith Premadasa. President Ranil Wickremesinghe plans to raise plantation worker wages in Kandy. Minister Tran Ales aims to tackle the VFS transaction scam post-Sajith's win. The group's goal is to defeat Sajith, with Sarath Fonseka's election bid part of the strategy.
-
-🟩
-
-United People's Power MP Nalin Bandara, who accused Field Marshal Sarath Fonseka of contesting the election, said the four were to defeat our party leader Sajith Premadasa.
-
-Speaking at a media briefing of the United People's Power on Sunday (11), Parliamentarian Nalin Bandara said this.
-
-President Ranil Wickremesinghe will take steps to increase the salaries of plantation workers in Kandy. I am currently acting in the process of deceiving the people of the plantation again.
-
-Minister Tran Ales is trying to clean up the VFS transaction scam.Following the victory of Sajith Premadasa September 21, we will first investigate the VFS transaction fraud.
-
-Ranil Wickremesinghe, Mahinda Rajapaksa, Namal Rajapaksa and Anura Kumara. Their purpose is to defeat Sajith Premadasa. As part of this, Sarath Fonseka is also contesting the presidential election, according to Ranil Wickremesinghe's agreement.
-
-◼️
-
-[Data](articles/69d5bfe4.json)
-
-[Extended Data](ext_articles/69d5bfe4.ext.json)
-
----
-
-### Sajith Rajapaksa has become Rajapaksa's strip of Ranil
-
-*2024-08-12 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ராஜபக்ஷ-துண்டு-நீங்கி-சஜித்-ராஜபக்ஷ-ஆகிவிட்டது/175-341990) · `ta`
-
-Joint committees covering all Gampaha districts' constituencies have been appointed to bolster President Ranil Wickremesinghe's campaign, involving various parties. These committees, established by Minister Prasanna Ranatunga and Gampaha district MPs, will focus on home-to-home visits, agent appointments at polling stations, and organizing campaigns. This marks a significant step in uniting different factions for the president's success, emphasizing a new political culture beyond party symbols.
-
-🟩
-
-The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
-
-The committees were appointed by Minister Prasanna Ranatunga and the Gampaha district MPs on Saturday (10) and Sunday (11).
-
-In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka PA, the United National Party, the Sri Lanka Freedom Party, the PA, and the United People's Power.
-
-Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
-
-...
-
-[Data](articles/3c09f6a0.json)
-
-[Extended Data](ext_articles/3c09f6a0.ext.json)
-
----
-
-### Sajith Rajapaksa has become Rajapaksa's strip of Ranil
-
-*2024-08-12 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-ராஜபக்ஷ-துண்டு-நீங்கி-சஜித்-ராஜபக்ஷ-ஆகிவிட்டது/150-341990) · `ta`
-
-Joint committees covering all Gampaha districts' constituencies have been appointed to support President Ranil Wickremesinghe's campaign, involving various parties. These committees, established by Minister Prasanna Ranatunga and Gampaha district MPs, aim to organize home-to-house visits, agent appointments at polling stations, and guide election campaigns at the constituency level. The move signifies a unity effort among supporters, marking a shift towards a new political culture focused on collective victory.
-
-🟩
-
-The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
-
-The committees were appointed by Minister Prasanna Ranatunga and the Gampaha district MPs on Saturday (10) and Sunday (11).
-
-In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka Peoples Alliance, the United National Party, the Sri Lanka Freedom Party, the PA and the United People's Power.
-
-Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
-
-...
-
-[Data](articles/d0d7fbc4.json)
-
-[Extended Data](ext_articles/d0d7fbc4.ext.json)
-
----
-
-### Women's R20 Cricket with Ireland: HarshitaLight success for Sri Lanka
-
-*2024-08-12 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/190846) · `ta`
-
-In the first women's R20 cricket match against Ireland, Sri Lanka emerged victorious thanks to Harshita Samarawickrama's half-century and a strong partnership with Vishmi Gunaratne. Despite Ireland's solid batting performance, Sri Lanka secured a 146-run victory, leading the series 1-0.
-
-🟩
-
-Sri Lanka won the first women's international R20 cricket match between Sri Lanka and Ireland on Sunday (11) at the Dublin, Sentimound and Pembrock Cricket Ground.
-
-Anushka Sanjeevani has been appointed as the captain of the Sri Lanka Women's R20 team for the series as the usual team captain Samari Atapathu played the Hundrat Women's Cricket Tournament in England.
-
-Harshita Samarawickrama's half -century and the best start with Vishmi Gunaratne led to the success of the Sri Lankan women's team.
-
-The Sri Lankan women's team won the toss and elected to win 146 runs in 16.4 overs and scored 149 runs.
-
-With this victory, the women's International T20 series, which has a 2 -match, leads Sri Lanka 1 - 0.
-
-Vishmi Gunaratne and Harshita Samarawickrama shared 83 runs in 10 overs.
-
-Vishmi Gunaratne scored 30 runs. Following him, Kavisha Dilhari lost just 9 runs and Anushka Sanjeevani scored 12 runs.
-
-...
-
-[Data](articles/e1c5f9e4.json)
-
-[Extended Data](ext_articles/e1c5f9e4.ext.json)
-
----
-
-### Sudarshini Fernandopulle to support Sajith
-
-*2024-08-12 00:10:42* · [`dailyftlk`](https://www.ft.lk/news/Sudarshini-Fernandopulle-to-support-Sajith/56-765418) · `en`
-
-Says Sajith Premadasa has capable and experienced team to serve SL compared to others
-
-Stresses country in dire need of strong leadership and solid program which has moved her to support Premadasa
-
-Claims she had intended to retire but was driven by her conscience to support Premadasa for benefit of SL
-
-Expresses confidence of a Sajith Premadasa win at 21 September election
-
-Sri Lanka Podujana Peramuna (SLPP) Gampaha District MP Dr. Sudarshini Fernandopulle has extended her support to Opposition Leader Sajith Premadasa ahead of the 21 September Presidential election.
-
-Speaking to the media yesterday, Dr. Fernandopulle expressed her decision to support Premadasa, stating that she believes he has a capable and experienced team to serve the country, especially when compared to other candidates and groups that have emerged.
-
-“The country is in dire need of strong leadership and a solid program. I believe that he and his team have the ability to bring about that change,” she said.
-
-...
-
-[Data](articles/90631672.json)
-
-[Extended Data](ext_articles/90631672.ext.json)
 
 ---

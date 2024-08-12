@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 00:10:14**
+As of **2024-08-13 00:22:10**
 
 ## Newspaper Stats
 
-*Scraped **40,350** Articles*
+*Scraped **40,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,120
-virakesarilk | 6,385
+virakesarilk | 6,394
 adaderanasinhalalk | 6,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,350 (100.0%) of 40,350 articles have been extended.
+40,350 (100.0%) of 40,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,28 @@ It is worth noting that the relevance period for the candidates will be complete
 [Data](articles/a025bb20.json)
 
 [Extended Data](ext_articles/a025bb20.ext.json)
+
+---
+
+### இலங்கை இராஜதந்திரிகள் மற்றும் அதிகாரிகளுக்கான முதலாவது சிறப்புப் பாடப் பயிற்சித் திட்டம்
+
+*2024-08-12 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190945) · `ta`
+
+சுஷ்மா ஸ்வராஜ் வெளிநாட்டுச் சேவை நிறுவனத்தில் இலங்கை இராஜதந்திரிகள் மற்றும் அதிகாரிகளுக்கான முதலாவது சிறப்புப் பாடப் பயிற்சித் திட்டம் முன்னெடுக்கப்பட்டது.
+
+வெளிவிவகார அமைச்சர் அலி சப்ரியின் வேண்டுகோளின் பேரில் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் சிறப்புப் பாடப் பயிற்சித் திட்டத்தை முன்னெடுத்தார்.
+
+இது அவர்களின் தனிப்பட்ட வளர்ச்சிக்கு மாத்திரமன்றி இலங்கைக்கும் பிராந்தியத்திற்கும் நன்மை பயக்கும் விடயமாக அமையும்.
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் இது குறித்து அவரது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளதாவது,
+
+சுஷ்மா ஸ்வராஜ் வெளிநாட்டுச் சேவை நிறுவனத்தின் சிறப்புப் பாடத்தில் உள்ள இலங்கை தூதர்கள் மற்றும் அதிகாரிகளைச் சந்திப்பதில் மகிழ்ச்சி அடைகிறேன் என்று குறிப்பிட்டார்.
+
+உலகளாவிய ரீதியில் இணைந்து செயல்படுவதன் முக்கியத்துவம் குறித்து விவாதித்ததுடன் டிஜிட்டல் சகாப்தத்தின் சாத்தியங்கள் மற்றும் சவால்கள் பற்றிய கருத்துக்களையும் பரிமாறிக் கொண்டனர்.
+
+◼️
+
+[Data](articles/4df37cfa.json)
 
 ---
 
@@ -98,6 +120,44 @@ The complaints include incentives for government servants, developing various re
 
 ---
 
+### சஜித் வெற்றி கனியை சுவைப்பது திண்ணம் - ஐ.ம. சக்தியின் அம்பாறை மாவட்ட அமைப்பாளர் ஜயந்த ரட்ணாயக்க
+
+*2024-08-12 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190944) · `ta`
+
+சஜித் பிரேமதாச எதிர்வரும் ஜனாதிபதி தேர்தலில் வெற்றி கனியைப் பெறுகின்றமை உறுதி என்று ஐக்கிய மக்கள் சக்தியின் அம்பாறை  மாவட்ட அமைப்பாளரும், அம்பாறை மாவட்டத்தின் ஓய்வு நிலை சிரேஷ்ட பொலிஸ் அத்தியட்சருமான ஜயந்த ரட்ணாயக்க தெரிவித்தார்.
+
+கிழக்கு மாகாண சபை அவை தலைவர் சந்திரதாஸ கலப்பதியின் அம்பாறை இல்லத்தில் திங்கட்கிழமை (12) ஐக்கிய மக்கள் சக்தியின் அம்பாறை மாவட்டத்துக்கான உயர் மட்ட ஆலோசனை குழு கூட்டம் இடம்பெற்றது.
+
+இதில் ஐக்கிய மக்கள் சக்தியில் அண்மையில் இணைந்த அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்திய கலாநிதி திலக் ராஜபக்ஸ அடங்கலாக கட்சியின் மாவட்ட  முக்கியஸ்தர்கள் பலரும் கலந்து கொண்டனர்.
+
+கூட்டம் நிறைவடைந்த பிற்பாடு  ஊடகவியலாளர்கள் மத்தியில் பேசியபோது ஜயந்த ரட்ணாயக்க மேலும் தெரிவித்தவை வருமாறு
+
+தலைவர் சஜித் பிரேமதாச இந்த நாட்டு மக்கள் அனைவரினதும் கண்மணி ஆவார். இனம், மதம், மொழி, சாதி போன்ற வேறுபாடுகளுக்கு அப்பால்  எல்லா மக்களையும் அரவணைத்து நடப்பவர். அனைத்து இன மக்களும் சேர்ந்து எமது நாட்டின் தலைமைத்துவத்தை அவரிடம் ஒப்படைக்கும் காலம் மலர்ந்துள்ளது.
+
+...
+
+[Data](articles/e3c2bd23.json)
+
+---
+
+### அதிர்வை ஏற்படுத்தி இருக்கும் சூர்யாவின் 'கங்குவா' பட முன்னோட்டம்
+
+*2024-08-12 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190926) · `ta`
+
+இந்திய அளவில் ரசிகர்களின் பெரும் எதிர்பார்ப்பில் இருக்கும் நடிகர் சூர்யாவின் 'கங்குவா' பட முன்னோட்டம் வெளியாகி பெரும் அதிர்வை ஏற்படுத்தி வருகிறது. இந்த முன்னோட்டம் வெளியான ஒரு மணி தியாலத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு புதிய சாதனையை படைத்திருக்கிறது.
+
+முன்னணி நட்சத்திர இயக்குநர் சிவா இயக்கத்தில் உருவாகி இருக்கும் 'கங்குவா' எனும் திரைப்படத்தில் சூர்யா, பொலிவுட் நடிகர்கள் பாபி தியோல் மற்றும் திஷா படானி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.‌
+
+வெற்றி பழனிச்சாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார். ஃபான்டஸி எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் மற்றும் யூ வி கிரியேசன்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+இந்தத் திரைப்படத்தின் டீசர் மற்றும் ஃபயர் சாங் ஆகியவை வெளியாகி மில்லியன் கணக்கிலான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+...
+
+[Data](articles/38f834cb.json)
+
+---
+
 ### Dhoni-backed Garuda Aerospace enters Sri Lankan market to target agricultural sector
 
 *2024-08-12 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101187/dhoni-backed-garuda-aerospace-enters-sri-lankan-market-to-target-agricultural-sector) · `en`
@@ -135,6 +195,28 @@ In the recent past, more than 450 people, including the police officers, police 
 [Data](articles/ef57c862.json)
 
 [Extended Data](ext_articles/ef57c862.ext.json)
+
+---
+
+### 28 தொடர்சியான முடிவுகளின் பின்னர் வெற்றிதோல்வியின்றி முடிவடைந்த தென் ஆபிரிக்க - மே. தீவுகள் டெஸ்ட்
+
+*2024-08-12 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190943) · `ta`
+
+தென் ஆபிரிக்காவுக்கும் மேற்கிந்தியத் தீவுகளுக்கும் இடையில் ட்ரினிடாட், போர்ட் ஒவ் ஸ்பெய்ன் விளையாட்டரங்கில் மழையினால் பாதிக்கப்பட்ட முதலாவது டெஸ்ட் கிரிக்கெட் போட்டி வெற்றிதோல்யின்றி முடிவடைந்தது.
+
+2023 ஜூலை மாதத்திலிருந்து இந்த வருடம் ஜுலை மாதம் வரை விளையாடப்பட்ட 28 டெஸ்ட் போட்டிகளில்  முடிவு  கிட்டிய நிலையில் இந்தப் போட்டி வெற்றிதோல்வியின்றி முடிவடைந்துள்ளது.
+
+அப் போட்டியின் கடைசி நாளன்று மேற்கிந்தியத் தீவுகளுக்கு கடைசி இன்னிங்ஸில் 298 ஓட்டங்களை தென் ஆபிரிக்கா வெற்றி இலக்காக நிர்ணயித்தது.
+
+298 ஓட்டங்கள் என்ற வெற்றி இலக்கை அடைவதைவிட 63 ஓவர்களை எவ்வாறு சமாளிப்பது என்பதிலேயே மேற்கிந்தியத் தீவுகள் குறியாக இருந்தது.
+
+ஏனெனில் முதல் இன்னிங்ஸில் மேற்கிந்தியத் தீவுகள் அதன் கடைசி 6 விக்கெட்களை 16.1 ஓவர்களில் 60 ஓட்டங்கள் வித்தியாசத்தில் இழந்திருந்தது.
+
+எவ்வாறாயினும் இரண்டாவது இன்னிங்ஸில் அலிக் அத்தானெஸ் பெற்ற 92 ஓட்டங்களின் உதவியுடன் மேற்கிந்தியத் தீவுகள் 56.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 201 ஓட்டங்களைப் பெற்றிருந்தபோது ஆட்டத்தை முடிவுக்குக் கொண்டுவர   இரண்டு அணிகளினதும் தலைவர் தீர்மானித்தனர்.
+
+...
+
+[Data](articles/444e23e9.json)
 
 ---
 
@@ -179,6 +261,24 @@ Prasanna Vithanage, Vice President of the Liquor License Association, commented 
 [Data](articles/ce3514d6.json)
 
 [Extended Data](ext_articles/ce3514d6.ext.json)
+
+---
+
+### 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தல்; நாளையுடன் நிறைவு - தேர்தல்கள் ஆணைக்குழு
+
+*2024-08-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190941) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிட இதுவரை (12ஆம் திகதி திங்கட்கிழமை) 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர். இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட 16  வேட்பாளர்களும், வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சை வேட்பாளராக 15 பேரும் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+கட்டுப்பணம் செலுத்தல் நாளை புதன்கிழமை நண்பகல் 12 மணியுடன் நிறைவு பெறும். அத்துடன் நாளை மறுதினம் வியாழக்கிழமை காலை 9 மணி முதல் 11 மணிவரையான காலப்பகுதியில் வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்படும்.
+
+ஐதுருஸ் முஹம்மது இல்யாஸ் , எம் திலகராஜா,பா.அரியநேத்திரன்,  ஆகியோர் சுயாதீன வேட்பாளராக போட்டியிடவுள்ளதுடன்,ஐக்கிய ஜனநாயக கூட்டணியின் சார்பில் மொஹமட் இன்பாஸ் போட்டியிடவுள்ளார்.
+
+ஜனாதிபதித் தேர்தலுக்கான ஆரம்பக்கட்ட பணிகளை தேர்தல்கள் ஆணைக்குழு நிறைவு செய்துள்ளது.இதற்கமைய கட்டுப்பணம் செலுத்தல் மற்றும் வேட்புமனுக்களை பொறுப்பேற்றல் நாளையும்,நாளை மறுதினமும் இடம்பெறவுள்ளது.
+
+...
+
+[Data](articles/930225d3.json)
 
 ---
 
@@ -277,6 +377,22 @@ The Central Committee member of the Tamil People's Alliance (TNA), which is part
 [Data](articles/19a6add0.json)
 
 [Extended Data](ext_articles/19a6add0.ext.json)
+
+---
+
+### வட, கிழக்கில் இந்தியாவுடன் எமக்கு எவ்வித போட்டியுமில்லை : தமிழ் பாராளுமன்ற உறுப்பினர்களிடத்தில் சீனத்தூதுவர் தெரிவிப்பு
+
+*2024-08-12 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190940) · `ta`
+
+வடக்கு, கிழக்கு மாகாணங்களில் இந்தியாவுடன் தமக்கு எந்தவொரு போட்டியும் இல்லை என தமிழ் பாராளுமன்ற உறுப்பினர்களிடத்தில் தெரிவித்திருக்கும் சீனத்தூதுவர் சி சென்ஹொங் இந்தியாவுடன் மிகநெருக்கமாகப் பணியாற்றுவதற்கான காரணத்தைக் கேட்டறிந்திருக்கிறார்.
+
+இலங்கைக்கான சீனத்தூதுவர் சி சென்ஹொங் மற்றும் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன், இரா.சாணக்கியனுக்கும் இடையிலான சந்திப்பொன்று திங்கட்கிழமை (12) கொழும்பிலுள்ள சீனத்தூதரகத்தில் நடைபெற்றது.
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடைபெறவுள்ள நிலையில், சமகால அரசியல் நிலைவரம் மற்றும் தமிழ்த்தேசிய அரசியல் கட்சிகளின் நிலைப்பாடு உள்ளிட்ட விடயங்கள் தொடர்பில் விரிவாகக் கலந்துரையாடும் நோக்கிலேயே சீனத்தூதரகத்தினால் இச்சந்திப்புக்கு அழைப்புவிடுக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/b6db23f9.json)
 
 ---
 
@@ -526,6 +642,22 @@ During the interrogation of the driver, it has been revealed that the bus had su
 
 ---
 
+### அரசாங்க அச்சகத்திற்கு பலத்த பாதுகாப்பு
+
+*2024-08-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190913) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கு அச்சுப் பணிகள் ஆரம்பிக்கப்பட்டுள்ள நிலையில் அரச அச்சகத் திணைக்களத்தின் பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+
+தேர்தல்கள் ஆணைக்குழுவினால் வழிநடத்தப்பட்ட ஆரம்பகட்ட அச்சிடும் பணிகள்  நடைபெற்று வருவதாக அரச அச்சகர் கங்கா கல்பனீ லியனகே  உறுதிப்படுத்தினார்.
+
+ஓகஸ்ட் 15ஆம் திகதிக்குப் பின்னர் வாக்குச் சீட்டுகள் அனுப்பிவைக்கப்பட்ட பின்னர் பாதுகாப்பு நடவடிக்கைகளை மேலும் பலப்படுத்துமாறு தேர்தல்கள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளதாக லியனகே குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0c7780a7.json)
+
+---
+
 ### Sri Lanka’s DFCC Bank planned green bond given expected rating of A- (lka)
 
 *2024-08-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-planned-green-bond-given-expected-rating-of-a-lka-176484/) · `en`
@@ -593,6 +725,26 @@ The two Tests will commence on September 18 and 26 the Galle International Crick
 [Data](articles/3ba3dbe8.json)
 
 [Extended Data](ext_articles/3ba3dbe8.ext.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ எமக்கு சவாலல்ல : பிரசன்ன ரணதுங்க
+
+*2024-08-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190921) · `ta`
+
+ஜனாதிபதித் தேர்தலில் எமக்கும், ஐக்கிய மக்கள் சக்திக்கும் இடையில் தான் போட்டி நிலவும். ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ எமக்கு சவாலல்ல, மஹிந்த ராஜபக்ஷ மீது நாட்டு மக்கள் மரியாதை வைத்துள்ளாரே தவிர ராஜபக்ஷ குடும்பத்தின் மீது மரியாதை வைக்கவில்லை என வீடமைப்பு மற்றும் நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+
+கொழும்பில் ஞாயிற்றுக்கிழமை (11)  மாலை இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மீது நாங்கள் இன்றும் மரியாதை வைத்துள்ளோம்.அதேபோல் நாட்டு மக்களும் மரியாதை வைத்துள்ளார்கள்.
+
+ஆனால் ராஜபக்ஷ குடும்பத்தின் மீது நாட்டு மக்கள் மரியாதை வைத்திருக்கவில்லை என்பதை குறிப்பிட்டுக் கொள்ள வேண்டும்.
+
+முதலாவதும் நாடு , இரண்டாவதும் நாடு, மூன்றாவதும் நாடு என்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ குறிப்பிடுவார்.
+
+...
+
+[Data](articles/5af00335.json)
 
 ---
 
@@ -988,6 +1140,36 @@ Three persons were killed and three were injured in a daytime vehicle accident i
 
 ---
 
+### Rajapaksa's family, who is trying to resume politics through the presidential election - in the most difficult environment
+
+*2024-08-12 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190855) · `ta`
+
+In the wake of Sri Lanka's economic crisis, the Rajapaksa family, led by Namal Rajapaksa, aims to make a political comeback in the upcoming presidential election. Despite facing significant challenges, including public discontent and a historical verdict blaming them for the economic crisis, the family seeks to regain power. Analysts predict a tough road ahead for Namal Rajapaksa, who must prove his leadership amidst ongoing protests and skepticism about his ability to address the nation's issues effectively.
+
+🟩
+
+The Rajapaksa family has announced its political success as Sri Lanka is ready to face the first election following the economic crisis of 2022.
+
+Many political researchers consider this as a political recurrence of the family.
+
+This week, the Sri Lankan PA, the Sri Lankan PA, was announced as a candidate for the presidential election on September 21 as the 38 -year -old son of war leader Mahinda Rajapaksa.
+
+Political analysts say that a very difficult task is awaiting a very difficult task for Namalrajapaksa, described by his father as a young leader demanded by 2022 protesters.
+
+The family came to the fore in the final days of the three decades of civil war with the separatist Liberation Tigers - popular.
+
+Following the victory of the Sri Lankan military in 2009, they were called war veterans, especially by the majority community in Sri Lanka.
+
+After two decades of politics, the lineage continued to decline in the civilian protests caused by the economic crisis of the country.
+
+...
+
+[Data](articles/faa76187.json)
+
+[Extended Data](ext_articles/faa76187.ext.json)
+
+---
+
 ### Speaker endorses Sri Lanka Economic Transformation Bill
 
 *2024-08-12 15:37:00* · [`economynextcom`](https://economynext.com/speaker-endorses-sri-lanka-economic-transformation-bill-176440/) · `en`
@@ -1312,6 +1494,28 @@ This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Elector
 
 ---
 
+### நான் ஒரு செவித்திறன் குறைபாடுடைய பெண் என்பதில் பெருமையடைகிறேன் - தென்னாபிரிக்க அழகு ராணி
+
+*2024-08-12 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190889) · `ta`
+
+மியா லு ரூக்ஸ் என்ற செவித்திறன் குறைபாடுடைய பெண்ணொருவர் முதன் முறையாக தென்னாபிரிக்காவில் அழகு ராணி பட்டத்தை சூடியுள்ளார்.
+
+சமூகத்தில் ஒதுக்கப்பட்டவர்கள் என்னைப் போலவே வெறித்தனமான கனவுகளை அடைய தனது வெற்றி உதவும் என்று நம்புகிறேன். மாற்றுத் திறனாளிகளுக்கு உதவ விரும்புகிறேன் என மியா லு ரூக்ஸ் தெரிவித்துள்ளார்.
+
+28 வயதுடைய மியா லு ரூக்ஸ்க்கு ஒரு வயதில் ஆழ்ந்த செவித்திறன் குறைபாடு இருப்பது கண்டறியப்பட்டது. அதன் பின்பு அவரது காதில் கோக்லியர் மின்னணு சாதனம் பொறுத்தப்பட்டது.
+
+அத்துடன், முதல் வார்த்தையை பேசுவதற்கு இரண்டு வருடங்கள் பேச்சு திறன் சிகிச்சை அளிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், மியா லு ரூக்ஸ்  தற்போது அவர் மொடல் மற்றும் சந்தைப்படுத்தல் மேலாளராகவுள்ளார்.
+
+"நான் ஒரு தென்னாப்பிரிக்க செவித்திறன் குறைபாடுடைய பெண்  என்பதில் பெருமையடைகிறேன், ஒதுக்கப்படுவதால் ஏற்படும் வலி எப்படி இருக்கும் என்று எனக்குத் தெரியும். நான் எல்லைகளை உடைப்பதற்காக இந்த கிரகத்தில் படைக்கப்பட்டுள்ளேன் என்பதை தற்போது அறிகிறேன்.  நான் அதை இன்றிரவு செய்துள்ளேன் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d6490ba8.json)
+
+---
+
 ### Teacher's nude picture: two students arrested
 
 *2024-08-12 14:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையின்-நிர்வாண-படம்-மாணவர்கள்-இருவர்-கைது/76-342030) · `ta`
@@ -1619,36 +1823,6 @@ We also informed every president's reply to the people today.. We have now discu
 [Data](articles/b0d8908f.json)
 
 [Extended Data](ext_articles/b0d8908f.ext.json)
-
----
-
-### Rajapaksa's family, who is trying to resume politics through the presidential election - in the most difficult environment
-
-*2024-08-12 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/190855) · `ta`
-
-In the wake of Sri Lanka's economic crisis, the Rajapaksa family, led by Namal Rajapaksa, aims to make a political comeback in the upcoming presidential election. Despite facing significant challenges, including public discontent and a historical verdict blaming them for the economic crisis, the family seeks to regain power. Analysts predict a tough road ahead for Namal Rajapaksa, who must prove his leadership amidst ongoing protests and skepticism about his ability to address the nation's issues effectively.
-
-🟩
-
-The Rajapaksa family has announced its political success as Sri Lanka is ready to face the first election following the economic crisis of 2022.
-
-Many political researchers consider this as a political recurrence of the family.
-
-This week, the Sri Lankan PA, the Sri Lankan PA, was announced as a candidate for the presidential election on September 21 as the 38 -year -old son of war leader Mahinda Rajapaksa.
-
-Political analysts say that a very difficult task is awaiting a very difficult task for Namalrajapaksa, described by his father as a young leader demanded by 2022 protesters.
-
-The family came to the fore in the final days of the three decades of civil war with the separatist Liberation Tigers - popular.
-
-Following the victory of the Sri Lankan military in 2009, they were called war veterans, especially by the majority community in Sri Lanka.
-
-After two decades of politics, the lineage continued to decline in the civilian protests caused by the economic crisis of the country.
-
-...
-
-[Data](articles/faa76187.json)
-
-[Extended Data](ext_articles/faa76187.ext.json)
 
 ---
 
@@ -2091,187 +2265,5 @@ IPE supports the Australian Government’s focus on deepening diplomatic and def
 [Data](articles/92baee35.json)
 
 [Extended Data](ext_articles/92baee35.ext.json)
-
----
-
-### The Jayewardene tradition from the JR Jayewardene Felicitation Volume of 1978
-
-*2024-08-12 11:46:00* · [`islandlk`](http://island.lk/the-jayewardene-tradition-from-the-jr-jayewardene-felicitation-volume-of-1978/) · `en`
-
-I accede gladly to the request of the compilers of this volume on J. R. Jayawardene to write something about the Jayawardene Tradition, for I belong to a dwindling number who knew his distinguished father and uncles and have read about his earlier forbears.
-
-Anyone familiar with the history of Sri Lanka must recognize the fact that even after foreign domination, the leadership, whether in government, politics or professional life, has come mainly from a leisured and enlightened minority. The spread of education and changes in income levels have to some extent modified the pattern but not eradicated it.
-
-...
-
-[Data](articles/06bfc070.json)
-
-[Extended Data](ext_articles/06bfc070.ext.json)
-
----
-
-### Roshan also bailed
-
-*2024-08-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199846) · `si`
-
-Roshan Ranasinghe, former Sports Minister, is now an independent presidential candidate. His son and nephew, both named Luck Ranasinghe, have posted bail for him.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe has been placed as an independent candidate for the presidential election this year.
-
-His son Luck Ranasinghe, a nephew Luck Ranasinghe has deposited bail.
-
-◼️
-
-[Data](articles/fd54818a.json)
-
-[Extended Data](ext_articles/fd54818a.ext.json)
-
----
-
-### Plantation workers' salary talks are violation of election law - Tranperenshi International Sri Lanka
-
-*2024-08-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/190874) · `ta`
-
-Tranperenshi International Sri Lanka claims negotiating plantation workers' wages ahead of elections violates election laws. Trade unions plan a decision today, with negotiations set for Monday.
-
-🟩
-
-Tranperenshi International Sri Lanka has said that it is a violation of the election law to negotiate the wage affair of plantation workers as the presidential election is due.
-
-Negotiations on the salary issue of plantation workers will be held on Monday (12).
-
-It is noteworthy that the trade unions in the Salary Council have said that a decisive decision will be reached today.
-
-In this case, Tranperenshi International Sri Lanka has said that it is a violation of the election law to negotiate on the salary issue of plantation workers.
-
-◼️
-
-[Data](articles/4419f174.json)
-
-[Extended Data](ext_articles/4419f174.ext.json)
-
----
-
-### Memorandum of Understanding (Video)
-
-*2024-08-12 11:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புரிந்துணர்வு-உடன்படிக்கை-கைச்சாத்து-காணொளி/175-342021) · `ta`
-
-Opposition leader Sajith Premadasa, along with other parliament members, signed a Memorandum of Understanding aimed at bolstering support for plantation communities.
-
-🟩
-
-Opposition leader Sajith Premadasa signed a Memorandum of Understanding (MoU) with the leaders of the plantation political party to strengthen the plantation people.
-
-The Memorandum of Understanding (MoU) signed the signed by Members of Parliament to represent the plantation people including Opposition Leader Sajith Premadasa, Member of Parliament Mano Ganesan, Palani Thikambaram and M. Udayakumar.
-
-◼️
-
-[Data](articles/d6231307.json)
-
-[Extended Data](ext_articles/d6231307.ext.json)
-
----
-
-### Meeting between the Election Commission -GS
-
-*2024-08-12 11:31:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-GS-இடையில்-சந்திப்பு/175-342020) · `ta`
-
-The Elections Commission is meeting with the striking All Ceylon Grama Niladhari Association to ensure a smooth presidential election. Despite the Grama Niladhari Officers' planned withdrawal from duties, the Commission assures no disruption to the election process.
-
-🟩
-
-The Elections Commission will meet members of the All Ceylon Grama Niladhari Association, which is on strike to ensure that the presidential election is smooth.
-
-Elections Commission Chairman RMAL Ratnayake said that the authorities had previously agreed to perform all the duties of the presidential election despite the work.
-
-However, the Commission has organized the discussion with the relevant authorities that there is no disruption to the election process.
-
-Grama Niladhari Officers have announced that they will withdraw from all duties today (12) and tomorrow (13).
-
-◼️
-
-[Data](articles/77381a7a.json)
-
-[Extended Data](ext_articles/77381a7a.ext.json)
-
----
-
-### Ukraine and Russia trade accusations over fire at occupied nuclear plant
-
-*2024-08-12 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101167/ukraine-and-russia-trade-accusations-over-fire-at-occupied-nuclear-plant) · `en`
-
-Moscow and Kyiv accused each other of starting a fire on the grounds of Europe’s largest and now Russian-occupied Zaporizhzhia nuclear power plant in Ukraine on Sunday, with both sides reporting no sign of elevated radiation.
-
-The U.N.’s International Atomic Energy Agency (IAEA) nuclear watchdog, which has a presence at the vast six-reactor facility, said its experts had seen strong, dark smoke coming from the northern area of the plant in southern Ukraine following multiple explosions.
-
-“These reckless attacks endanger nuclear safety at the plant and increase the risk of a nuclear accident. They must stop now,” IAEA chief Rafael Grossi warned in a separate statement, without attributing blame for the attack.
-
-The fire comes less than a week after Ukraine’s forces launched their largest incursion into Russian territory since the war-start in 2022, a surprise move that has brought conflict into a new phase, after weeks of Moscow’s battlefield gains.
-
-...
-
-[Data](articles/f4cd7e68.json)
-
-[Extended Data](ext_articles/f4cd7e68.ext.json)
-
----
-
-### Anura nominations sign
-
-*2024-08-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199845) · `si`
-
-Anura Kumara Dissanayake filed his candidacy for president on September 21. The event took place at the JVP headquarters, with key party officials including Dr. Nihal Abeysinghe and Tilvin Silva in attendance.
-
-🟩
-
-Anura Kumara Dissanayake has signed a candidate nomination for the presidential election on the 21st September election.
-
-The JVP is at the Head Office this morning.
-
-Several national executives, the General Secretary of the National JVP Dr. Nihal Abeysinghe and the General Secretary of the JVP Tilvin Silva were also present.
-
-◼️
-
-[Data](articles/c4c9b35b.json)
-
-[Extended Data](ext_articles/c4c9b35b.ext.json)
-
----
-
-### 75 Years of Geneva Conventions: Sri Lanka to adopt Sinhala, Tamil translations
-
-*2024-08-12 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101166/75-years-of-geneva-conventions-sri-lanka-to-adopt-sinhala-tamil-translations) · `en`
-
-In commemoration of the 75th anniversary of the Geneva Conventions, which falls today (Aug 12), Sri Lanka will officially adopt the finalized Sinhala and Tamil translations of the Geneva Conventions in order to ensure the promotion of broader understanding and awareness of international humanitarian law (IHL), reflecting the obligation on the State parties to the Geneva Conventions to ensure the dissemination of their content.
-
-Issuing a statement, the International Committee of the Red Cross (ICRC) said that ratified by all States, the Geneva Conventions of 1949 embody the universal recognition that wars must have limits, and that, regardless of the circumstances, the actions of parties to an armed conflict must be guided by respect for human dignity and compassion.
-
-...
-
-[Data](articles/9f173b1a.json)
-
-[Extended Data](ext_articles/9f173b1a.ext.json)
-
----
-
-### Presidential election;Anura signed the nomination
-
-*2024-08-12 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/190871) · `ta`
-
-National People's Power Leader Anura Kumara Dissanayake nominated himself for president at the People's Liberation Front's headquarters, with key party officials in attendance.
-
-🟩
-
-National People's Power Leader Anura Kumara Dissanayake signed the candidate for the presidential election on Monday (12) at the People's Liberation Front's headquarters.
-
-Some members of the National Executive Council, including the General Secretary of the National People's Power, Dr. Nihal Abeysinghe and the General Secretary of the Janatha Vimukthi Peramuna Rilvin Silva were also present.
-
-◼️
-
-[Data](articles/e3e6f5b3.json)
-
-[Extended Data](ext_articles/e3e6f5b3.ext.json)
 
 ---

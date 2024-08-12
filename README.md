@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 09:07:38**
+As of **2024-08-12 09:21:03**
 
 ## Newspaper Stats
 
-*Scraped **40,207** Articles*
+*Scraped **40,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,67 +16,119 @@ islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,687
-adaderanalk | 4,678
+adaderanalk | 4,679
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,082
-virakesarilk | 6,376
+virakesarilk | 6,377
 adaderanasinhalalk | 6,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,204 (100.0%) of 40,207 articles have been extended.
+40,207 (100.0%) of 40,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### විස්සයි 20 පළමු තරගයේ ජය ලංකාවට
+### Person dies after being hit by train
+
+*2024-08-12 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101162/person-dies-after-being-hit-by-train) · `en`
+
+A person has reportedly died after being hit by a train traveling from Colombo towards Badulla.
+
+Peradeniya Police has also initiated an investigation regarding the accident that occurred last night (11) in the area between Pilimathalawa and Penideniya railway stations.
+
+Police said that the identity of the deceased has not been confirmed as of yet.
+
+Police say that the deceased is a 35-year-old man, 06 feet 04 inches tall, wearing purple shorts and a gray T-shirt.
+
+The body has been placed in the mortuary of the Peradeniya Hospital and the Peradeniya Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fc857fb1.json)
+
+---
+
+### ரயில் மோதி ஒருவர் உயிரிழப்பு
+
+*2024-08-12 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190856) · `ta`
+
+கொழும்பிலிருந்து பதுளை நோக்கி பயணித்த சீக்ரகாமி ரயில் மோதி இனந்தெரியாத நபரொருவர் உயிரிழந்துள்ளார்.
+
+இந்த சம்பவம் பிலிமத்தலாவை மற்றும் மித்தெனிய ரயில்  நிலையங்களுக்கு இடைப்பட்ட பகுதியில் நேற்று  ஞாயிற்றுக்கிழமை (11) இரவு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர்  35 வயதுடைய 06 அடி 04 அங்குல உயரமும் ஊதா நிற காற்சட்டை ,  சாம்பல் நிற சட்டை அணிந்த ஆணொருவர்  என பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும்,சடலமானது பேராதனை வைத்தியசாலையில்  பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை பேராதனை பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ac71387c.json)
+
+---
+
+### Sri Lanka wins T20
 
 *2024-08-12 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199838) · `si`
 
-සංචාරක ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම අතර පැවැති පළමු විස්සයි 20 තරගය කඩුලු 07කින් ජය ගැනීමට ශ්‍රී ලංකාව සමත් වී තිබේ.
+In the first T20 match, Sri Lanka women's cricket team triumphed over Ireland, chasing down a 146-run target with Hersha Samarawickrama scoring 86 not out.
 
-තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහර දීමේ අවස්ථාව අයර්ලන්ත කණ්ඩායමට ලබා දුන් අතර ඒ අනුව අයර්ලන්ත කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ දී කඩුලු 06ක් දැවී ලකුණු 145ක් ලබා ගැනීමට සමත් විය.
+🟩
 
-පසුව ලකුණු 146ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 16 පන්දු 04ක් අවසානයේ දී කඩුලු 03ක් පමණක් දැවී ලකුණු 149ක් ලබා ගනිමින් සිය ජයග්‍රහණය වාර්තා කළේය.
+Sri Lanka won the first Twenty20 match between Sri Lanka women's cricket team and the Irish women's cricket team.
 
-මෙහිදී විශිෂ්ට පිතිහරඹයක නිරතවූ හර්ෂිතා සමරවික්‍රම පන්දු 45කදී නොදැවී ලකුණු 86ක් ලබා ගැනීමට ද සමත් වූවාය.
+Sri Lanka won the toss and elected to bat. The Irish group scored 145 runs for the loss of 6 wickets at the end of 20 overs.
 
-දෙරට අතර දෙවන විස්සයි 20 ක්‍රිකට් තරගය හෙට (13) පැවැත්වීමට නියමිතව තිබේ.
+Chasing a 146-run target, Sri Lanka women scored 149 runs for 4 wickets in 4 balls with three wickets.
+
+Hersha Samarawickraka scored 86 not out in 45 balls.
+
+The second T20 match between the two countries will be held tomorrow (13).
 
 ◼️
 
 [Data](articles/3126a57c.json)
 
+[Extended Data](ext_articles/3126a57c.ext.json)
+
 ---
 
-### පැරිස් ඔලිම්පික් උලෙළේ පළමු ස්ථානය අමෙරිකාව ට
+### First place in the Paris Olympics
 
 *2024-08-12 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199837) · `si`
 
-දින 16ක් පුරා පැරිස් නුවර පැවති 33වැනි ඔලිම්පික් උලෙළ අද (12) අලුයම අවසන් විය.
+In the 33rd Paris Olympic Festival, the USA led with 40 total medals, including 4 golds and 44 bronzes, while China followed closely with 25 golds among 91 medals. The event concluded with a grand ceremony attended by athletes from all participating nations, marking a successful and memorable Olympics.
 
-රටවල් 206ක් නියෝජනය කරමින් තරගකරුවන් 10,714ක් උරෙන් උර ගැටුණු මෙවර ඔලිම්පික් උලෙළේ අවසන් මෙහොතේ පදක්කම් සටහනේ පෙරමුණ ගන්නට අමෙරිකාව සමත් විය.
+🟩
 
-ඒ එතෙක් පදක්කම් සටහනේ පෙරමුණ ගෙනසිටි චීනය දෙවැනි ස්ථානය ඇද දමමිනි.
+The 33rd Olympic Festival of Paris was completed today (12).
 
-අමෙරිකාව රන් පදක්කම් 40ක් රිදී පදක්කම් 44ක් සහ ලෝකඩ පදක්කම් 42ක් ඇතුළුව සමස්ත පදක්කම් 126ක් දිනා ගත්තේය.
+The United States of America was able to take the lead in the NDKS this year's Olympic Games representing 206 countries.
 
-දෙවන ස්ථානය දිනාගත් චීනය රන් පදක්කම් 40ක් රිදී පදක්කම් 27ක් සහ ලෝකඩ පදක්කම් 24ක් ඇතුළුව සමස්ත පදක්කම් 91ක් දිනා ගනු ලැබීය.
+It was the leading china, who was taking the lead in the medals.
 
-විචිත්‍රවත් වු සමාප්ති උලෙළට සියලු රටවල් නියෝජනය කරමින් ක්‍රීඩක ක්‍රීඩිකාවන් ස්ටාඩ් ඩී ෆ්‍රරාන්ස් ක්‍රීඩාගාරයට පැමිණියේය.
+US wins 40 overall medals including 4 gold medals and 44 bronze medals.
 
-එහිදී ශ්‍රී ලංකා ධජය ගෙන යාමේ වගකීම තරුෂි කරුණාරත්නට සහ අරුණ දර්ශන ට පැවරී තිබුණි.
+China won the second 25 gold medals, including 91 medals including 27 silver and 24 bronze medals.
 
-වැයුම් ගැයුම්වලින් අලංකාර වු පැරිස් ඔලිම්පික් උලෙළේ සමාප්තිය සියැසින් දැක බලා ගැනීම සඳහා ප්‍රෙක්ෂකයින් 70,000කට ඉඩකඩ වෙන් කර තිබීමත් කැපී පෙනෙන කරුණක් විය.
+Athletes representing all countries to the victory event came to the Start D. France.
 
-අනතුරුව ජගත් ඔලිම්පික් කමිටුවේ සභාපති තෝමස් බාච් නිල වශයෙන් 2024 පැරිස් ඔලිම්පික් උලෙළ අවසන් වු බව ප්‍රකාශ කළේය.
+Tharusi Karunaratne and Aruna views were taken to carry out the Sri Lankan flag.
 
-...
+It was also a significant reason to see 70,000 documents to see the conclusion of the decorated with spending Olympics.
+
+The President of the World Olympic Committee was officially the 2024 Paris Olympics Festival.
+
+The President of the Jagath Olympic Committee officially asserted it to the United States after the United States was officially stated in the United States.
+
+◼️
 
 [Data](articles/3fbbacd5.json)
+
+[Extended Data](ext_articles/3fbbacd5.ext.json)
 
 ---
 
@@ -97,6 +149,8 @@ He also mentioned that they would hold a silent protest in front of the Ministry
 ◼️
 
 [Data](articles/9ba6a1d2.json)
+
+[Extended Data](ext_articles/9ba6a1d2.ext.json)
 
 ---
 
@@ -2227,51 +2281,5 @@ Several suspects involved in the racket have been arrested and the main suspect,
 [Data](articles/14156412.json)
 
 [Extended Data](ext_articles/14156412.ext.json)
-
----
-
-### The wave of strikes again?Grama Niladhari
-
-*2024-08-11 13:43:35* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජන-රැල්ල-නැවතත්-----ග්‍රාමනිලධාරීන්-දැඩි-තීරණයක/11-411302) · `si`
-
-Grama Niladharis plan a weekly strike starting tomorrow, also deciding to skip work on the days of the strike.
-
-🟩
-
-The Grama Niladharis have decided to start a weekly week from tomorrow (12th).
-
-At the same time, it has been decided to leave the work tomorrow and tomorrow.
-
-◼️
-
-[Data](articles/25df383a.json)
-
-[Extended Data](ext_articles/25df383a.ext.json)
-
----
-
-### Crocodile expert who raped dogs
-
-*2024-08-11 13:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நாய்களை-வன்புணர்ந்து-கொன்ற-முதலை-நிபுணர்/50-341959) · `ta`
-
-A renowned British zoologist, Adam Britain, has been sentenced to 10 years and 5 months in Australian prison for committing 56 acts of sexual assault and animal rape, including four counts of sexual harassment against children. The 53-year-old's actions, which included filming and sharing explicit content, came to light after a video was discovered on his laptop during a search of his rural property in Darwin. Despite the severity of his crimes, some details remain undisclosed due to their graphic nature. Public reaction has been widespread, with many expressing disgust and sorrow over the revelations.
-
-🟩
-
-The news that Britain's famous crocodile expert has been sentenced to 10 years and 5 months in prison for a total of 10 years and 5 months in Australia, after agreed to sexually harass many dogs.
-
-Britain, a leading zoologist, has admitted that he committed 56 crimes of sexual intercourse and animal rape.
-
-He also admitted four allegations of using sexual harassment records against the child.
-
-The 53 -year -old Supreme Court for Australia has investigated the case that the 53 -year -old Adam was tortured until Britain died and shared them online in pseudonym.. These sexual harassment has been overlooked for many years until he gets clues from a video of his. He was arrested in April 2022 after he was searched by his Darwin Property in the countryside. There were video recordings of sexual harassment against the child on his laptop.
-
-Most of the details of Adam Britain's crimes were so cruel that could not be published, so Chief Justice Michael Grand issued a precaution for those in the court.
-
-...
-
-[Data](articles/b49671cf.json)
-
-[Extended Data](ext_articles/b49671cf.ext.json)
 
 ---

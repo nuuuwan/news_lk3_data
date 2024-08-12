@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 10:36:33**
+As of **2024-08-12 10:55:06**
 
 ## Newspaper Stats
 
-*Scraped **40,220** Articles*
+*Scraped **40,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 2,593
 adalk | 3,688
 adaderanalk | 4,680
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,088
+tamilmirrorlk | 5,089
 virakesarilk | 6,377
-adaderanasinhalalk | 6,840
+adaderanasinhalalk | 6,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,220 (100.0%) of 40,220 articles have been extended.
+40,220 (100.0%) of 40,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළ ට
+
+*2024-08-12 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199842) · `si`
+
+මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙන්නේ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ පැමිණිලි 17ක් වාර්තා වූ බවයි.
+
+තවද ජූලි 31 වැනිදා සිට ඊයේ (11) දක්වා ගතවූ කාලය තුළ මැතිවරණ පැමිණිලි මැතිවරණ පැමිණිලි 337ක් වාර්තා වී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/3372a4d5.json)
+
+---
 
 ### 7 people killed in religious
 
@@ -133,6 +147,28 @@ It was reported that the 2 helicopters of propellers were inaccessible while fly
 [Data](articles/ec2a2fd1.json)
 
 [Extended Data](ext_articles/ec2a2fd1.ext.json)
+
+---
+
+### ஹோட்டலின் மீது ஹெலி விழுந்தது:  விமானி உயிரிழப்பு
+
+*2024-08-12 09:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹோட்டலின்-மீது-ஹெலி-விழுந்தது-விமானி-உயிரிழப்பு/50-342005) · `ta`
+
+அவுஸ்திரேலியாவில் நட்சத்திர ஹோட்டல் ஒன்றின் மேற்கூரையில் ஹெலிகொப்டர் ஒன்று விழுந்து பயங்கர விபத்து ஏற்பட்டுள்ள நிலையில், அதன் விமானி உயிரிழந்துள்ளார்.
+
+வடக்குப் பகுதியில் உள்ள கெய்ர்ன்ஸ் Cairns நகரில் இயங்கி வரும் ஹில்டன் டபுள் ட்ரீ ஹோட்டலில் நீச்சல் குளம் அமைந்துள்ளது.
+
+இந்நிலையில், அந்த நட்சத்திர ஹோட்டலின்  மேற்கூரையில் இன்று அதிகாலை 2 மணியளவில் விமானி உட்பட 2 பேர் பயணித்த ஹெலிகொப்டர் விழுந்து விபத்துக்குள்ளானது.
+
+ஹெலிகொப்டர் விழுந்த வேகத்தில் தீப்பற்றி எறிய தொடங்கிய நிலையில் விமானி சம்பவ இடத்திலேயே உயிரிழந்துவிட்டதாக தகவல் வெளியாகியுள்ளது.
+
+மேலும் ஹோட்டலில் இருந்த 100க்கும் மேற்பட்டோர் அங்கிருந்து மீட்கப்பட்டுள்ளனர். இந்த விபத்தில் அங்கிருந்தவர்களுக்கு காயம் ஏதும் ஏற்படவில்லை என்று முதல்கட்ட தகவல்கள் வெளியாகியுள்ளன.
+
+வானில் பறந்துகொண்டிருந்தபோது ஹெலிகொப்டர்களின் 2 புரொபெல்லர்களும் [propellers] செயலிழந்ததால் இந்த விபத்து ஏற்பட்டுள்ளதாக தகவல் தெரிவிக்கப்பட்டுள்ளது.S
+
+◼️
+
+[Data](articles/fda15dc0.json)
 
 ---
 
@@ -2241,57 +2277,5 @@ A fire had erupted at the LTTE's anchouing at the Port of Colombo today (11).
 [Data](articles/6df8da39.json)
 
 [Extended Data](ext_articles/6df8da39.ext.json)
-
----
-
-### The Federation decision to not speak with Ranil
-
-*2024-08-11 15:52:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-பேசாமல்-இருக்க-கூட்டமைப்பு-முடிவு/175-341966) · `ta`
-
-The Tamil National Alliance (TNA) has opted out of discussions with Sri Lanka's President Ranil Wickremesinghe due to preoccupations with election activities. This decision follows an invitation extended to TNA leaders and civil society figures to meet the president. The TNA's stance indicates a reluctance to engage in short-term political dialogues amidst their current focus on elections, with the possibility of revisiting such engagements based on future decisions within their general framework.
-
-🟩
-
-The TNA has decided not to participate in talks with President Ranil Wickremesinghe.
-
-The party leaders and civil society leaders who are part of the Tamil National General Framework were telephoned by the Presidential Secretariat representatives to meet President Ranil Wickremesinghe on Monday (12).
-
-At the meeting, 14 members will not attend the meeting on the basis of the Tamil National General Framework.
-
-Since it is immersed in election work, it will be difficult to attend the meeting as a Tamil National Committee on a short -term call.
-
-Representatives of the Tamil National Alliance (TNA) have decided that the general structure will decide on the decision to accept such calls in the future.
-
-It is noteworthy that a few days ago, the Tamil National Alliance (TNA) was announced as the Tamil general candidate as former MP Bhakiyaselvam Ariyanethran.
-
-◼️
-
-[Data](articles/03379c38.json)
-
-[Extended Data](ext_articles/03379c38.ext.json)
-
----
-
-### Persees that appear in the northern sky
-
-*2024-08-11 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199820) · `si`
-
-A meteor shower visible to the naked eye will light up the northern sky from mid-August to mid-November, according to Space Scientist Gihan Weerasekera. Expect to see hundreds of meteors during this period.
-
-🟩
-
-Space Science Gihan Weerasekera says that a meteorite rain that can be seen by the naked eye today (11) will appear in the northern sky.
-
-The meteorite rain is named after the appearance of the meteorite rain.
-
-The meteor to the mid-August to mid-August to mid-August will be seen by the climax (11).
-
-Space Science Gihan Weerasekera said he would be able to see a hundred meteor to the plains.
-
-◼️
-
-[Data](articles/439e625c.json)
-
-[Extended Data](ext_articles/439e625c.ext.json)
 
 ---

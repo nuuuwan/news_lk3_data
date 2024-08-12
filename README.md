@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 12:54:35**
+As of **2024-08-12 13:07:42**
 
 ## Newspaper Stats
 
-*Scraped **40,256** Articles*
+*Scraped **40,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,593
 adalk | 3,693
 adaderanalk | 4,688
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,100
+tamilmirrorlk | 5,102
 virakesarilk | 6,377
 adaderanasinhalalk | 6,847
 
@@ -26,49 +26,95 @@ adaderanasinhalalk | 6,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,252 (100.0%) of 40,256 articles have been extended.
+40,256 (100.0%) of 40,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### තණමල්විලෙන් වාර්තා වූ අහස පොළොව නුහුලන අපරාධය - පාසල් සිසුන් 17ක් අත්අඩංගුවට
+### நீதி அமைச்சராக அலி சப்ரி
+
+*2024-08-12 12:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-அமைச்சராக-அலி-சப்ரி/175-342028) · `ta`
+
+வெளிவிவகார அமைச்சர் அலி சப்ரி, நீதி அமைச்சராக பதவி பிரமாணம் செய்து கொண்டுள்ளார்.
+
+நீதி அமைச்சராக பதவி வகித்த விஜயதாச ராஜபக்ச, ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக அந்த அமைச்சுப் பதவியை அண்மையில் இராஜினாமா செய்தார் என்பது குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/32365bf6.json)
+
+---
+
+### சின்னங்களில் பானும், பலாப்பழமும் உள்ளது
+
+*2024-08-12 12:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சின்னங்களில்-பானும்-பலாப்பழமும்-உள்ளது/175-342027) · `ta`
+
+அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களுக்கு தேர்தல்கள் ஆணைக்குழுவினால் சின்னங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.  அவ்வாறு அறிமுகப்படுத்தப்பட்ட 196 சின்னங்களில், இருபத்தி எட்டு சின்னங்கள்  வெவ்வேறு விலங்குகளாகும்.
+
+கொக்லேட், பாண், கேக், டோஃபி, திராட்சை கொத்து, பழக்கூடை, கேரட், ஐஸ்கிரீம், சோளம், வட்டக்காய், முந்திரி பருப்பு,  ஆப்பிள் பழம், பலாப்பழம், மாம்பழம், ஜம்பு பழம், அன்னாசி பழம், தேங்காய் போன்றவையும் சின்னங்களும் உள்ளனர்.
+
+இது தவிர கோப்பு (பைல்), பறவை இறகு, சிசி டிவி கேமரா, இடுப்பு பெல்ட், கேஸ் சிலிண்டர், ஊஞ்சல், கெட்டபோல், குதிரை லாடம், கையடக்க தொலைபேசி போன்ற சிறப்பு சின்னங்களும் இந்த ஆண்டு ஜனாதிபதி தேர்தல் வாக்குச்சீட்டில் சேர்க்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e3c6396a.json)
+
+---
+
+### Heads of the earth wrath the earth of the earth - 17 school children arrested
 
 *2024-08-12 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199848) · `si`
 
-තණමල්විල ප්‍රදේශයේ ප්‍රධාන පාසලක 11 ශ්‍රේණියේ පාසල් දැරියක්ව වසරක් තිස්සේ අපයෝජනය කළ පාසල් සිසුන් 17දෙනෙක් පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+In Thanamalwila, 17 schoolchildren were arrested for allegedly abusing and raping a girl, leading to another arrest. The victim, a grade 11 student, was tricked into a friend's house where she was assaulted by several students. The incident was recorded and shared in 2013. The school's principal and disciplinary committee were aware but did not act due to the suspect's family ties within the school community. The girl expressed her trauma through drawings on her house walls. Following an investigation, the suspects confessed to committing the crimes in various locations, including school premises.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් තවත් කාන්තාවක් ද පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+🟩
 
-දැරියගේ මව චෝදනා කරන්නේ දැරිය වෛද්‍ය පරීක්ෂණයක් සඳහා හම්බන්තොට මහ රෝහලට ඇතුළු කළ අවස්ථාවේදී එහි වෛද්‍යවරයෙක් දැරිය බිය වැද්දීම නිසා ඇය සිය දිවි නසාගැනීමටද උත්සාහ කළ බවයි.
+Police have arrested 17 schoolchildren who have been abused a school girl in the Thanamalwila area.
 
-තණමල්විල ප්‍රධාන පාසලක 11ශ්‍රේණියේ ඉගෙනුම ලබන එම සිසුවිය එම පාසලේම සිසුවෙක් සමග ප්‍රේම සම්බන්ධයක් පවත්වාගෙන ගොස් තිබුණි.
+Another woman has been arrested by the police regarding the incident.
 
-පසුව එම සිසුවා , මෙම දැරිය රවටා මිතුරෙකුගේ නිවසකට රැගෙන ගොස් එහිදී පළමුවරට ඇයව දූෂණය කර ඇති බව පැවසෙයි.
+The girl's mother accused the girl who was admitted to the Hambantota General Hospital for a medical examination.
 
-අනතුරුව එම නිවෙසේ සිටි තවත් සිසුන් කිහිප‍දෙනකු මෙම දැරියට බලහත්කාරයෙන් මත්පැන් පොවා අපයෝජනය හා දූෂණය කර එය වීඩියෝගත කර ඇති බව පොලීසිය පවසයි.
+The student who studied in a grade 11 student in Tanamalwila main school had a romantic relationship with a student of the same school.
 
-එම සැකකාර සිසුන් මෙම වීඩියෝ පටය දැරියට පෙන්වමින් 2023 වසරේ සිට අවස්ථා 7කදී ඇයව සමූහ දූෂණයට ලක් කර ඇතැයි පොලීසිය සඳහන් කළේය.
+The student then deceived the girl and took her to a friend's home and said she had been raped for the first time.
 
-එහි ආසන්නතම සිදුවීම පසුගිය දින සිදුව තිබුණේ කිරිඳි ඔය අසලදී ය.
+And some of the students in the house were forcibly abuse and raping alcohol delegation and violence.
+
+The suspects showed the video in 72013, police said.
+
+The nearest incident was near the recent day at the Kirindi Oya.
+
+Seven students were jointly taken to the girl and raped the girl as a group and it was also wide.
+
+It is said that the Principal Principal and the disciplinary committee had also revealed to the incident.
 
 ...
 
 [Data](articles/3f498f82.json)
 
+[Extended Data](ext_articles/3f498f82.ext.json)
+
 ---
 
-### අලි සබ්රි ට තවත් ඇමති ධුරයක්
+### Ali Sabri is another ministerial post
 
 *2024-08-12 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199847) · `si`
 
-විදෙස් අමාත්‍ය අලි සබ්රි මහතා අධිකරණ අමාත්‍යවරයා ලෙස දිවුරුම් දී තිබේ.
+Ali Sabri, previously Foreign Minister, is now the Minister of Justice after being sworn in. This follows the resignation of the former Minister of Justice, who will contest for the same position.
 
-අධිකරණ අමාත්‍යවරයා වශයෙන් කටයුතු කළ විජයදාස රාජපක්ෂ මහතා ජනාධිපතිවරණයට තරග වැදීම සඳහා පසුගියදා එම අමාත්‍ය ධුරයෙන් ඉල්ලා අස්විය.
+🟩
+
+Foreign Minister Ali Sabri has been sworn in as the Minister of Justice.
+
+The Minister of Wijayadasa resigned in the minister to contest as the Minister of Justice.
 
 ◼️
 
 [Data](articles/dbdf988c.json)
+
+[Extended Data](ext_articles/dbdf988c.ext.json)
 
 ---
 
@@ -110,19 +156,25 @@ The ceremony was attended by several NPP’s national executive members, includi
 
 ---
 
-### ஓகஸ்ட் 21 லிருந்து பிரச்சாரம் ஆரம்பம்
+### Campaign Beginning from August 21
 
 *2024-08-12 12:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்ட்-21-லிருந்து-பிரச்சாரம்-ஆரம்பம்/175-342024) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான தனது பிரச்சாரத்தை ஓகஸ்ட் 21 ஆம் திகதி அனுராதபுரத்தில் ஆரம்பிக்கவுள்ளதாக பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Johnston Fernando announced his presidential campaign launch in Anuradhapura on August 21, highlighting grassroots support despite some leaders joining the president. He mentioned efforts by former SLPP members to rejoin, indicating potential party strengthening.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் சில தலைவர்கள் ஜனாதிபதியுடன் இணைந்த போதிலும், அடிமட்ட ஆதரவாளர்கள் கட்சிக்கு விசுவாசமாக இருப்பதாக பெர்னாண்டோ சுட்டிக்காட்டினார்.
+🟩
 
-கட்சியை விட்டு வெளியேறிய பல முன்னாள் SLPP உறுப்பினர்கள் இப்போது மீண்டும் இணைய முற்படுவதாகவும், இது கட்சியின் அடித்தளத்தை வலுப்படுத்துவதற்கான சாத்தியக்கூறுகளை காட்டுவதாகவும் அவர் கூறினார்.cs
+Parliamentarian Johnston Fernando has said that its campaign for the upcoming presidential election will be launched in Anuradhapura on August 21.
+
+Fernando pointed out that some of the leaders of the Sri Lanka PA had joined the president, but the grassroots supporters were loyal to the party.
+
+He said that many former SLPP members who left the party are now trying to re -internet and show the possibility of strengthening the party's foundation.
 
 ◼️
 
 [Data](articles/eca19d5a.json)
+
+[Extended Data](ext_articles/eca19d5a.ext.json)
 
 ---
 
@@ -990,23 +1042,29 @@ Two of the helicopter’s rotor blades came off and one landed in the hotel pool
 
 ---
 
-### දරුවෙක් පැහරගෙන යමින් සිටි කොස්තාපල් සොයුරන් දෙදෙනෙක් ඇතුළු හතරක් අල්ලයි
+### Four constable brothers and two other constable brothers arrested a child
 
 *2024-08-12 09:28:05* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙක්-පැහරගෙන-යමින්-සිටි-කොස්තාපල්-සොයුරන්-දෙදෙනෙක්-ඇතුළු-හතරක්-අල්ලයි/11-411314) · `si`
 
-16 හැවිරිදි පිරිමි දරුවෙකු මෝටර් රථයකින් පැහැර ගෙන යමින් සිටි එකම පවුලේ පොලිස් කොස්තාපල් සොයුරන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+Six constables, including four brothers and two others, arrested a child and two constable sisters who were abducted from a car. The arrests were made by the Police Special Bureau and Meegoda police. The child, aged 11, from Pallegama, Embilipitiya, remains unaccounted for, while two suspects aged 29 to 31 from Paddera and Padbeiya areas are being investigated.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ පොලිස් විශේෂ කාර්යාංශයට අනුයුක්තව  හෝමාගම ඒකකයේ සේවය කරන අයෙකු සහ මීගොඩ පොලිසියට අනුයුක්තව සේවය කරන කොස්තාපල්වරුන් දෙදෙනෙකි.
+🟩
 
-ඇඹිලිපිටියේ පල්ලේගම ප්‍රදේශයේ නිවසක පදිංචි 16 හැවිරිදි  බාල වයස්කාර දරුවෙකු මෝටර් රථයකින් පැහැරගෙන යන බවට  ඇඹිලිපිටිය පොලිසියට ඊයේ (11) ලද තොරතුරකට අනුව මෝටර් රථය ඇඹිලිපිටිය නෝනාගම මාර්ගයේ  පුද්ගලික බැංකුවක් ඉදිරිපිට දී නවතා පරික්ෂා කිරීමේදී ඒ තුළ පුද්ගලයන් සිව් දෙනකු සහ පැහැර ගැනීමට ලක් වූ දරුවා සිට ඇතැයි පොලිසිය කියයි
+Two of the family constable sisters who were abducted by a vehicle from a car have been arrested, police said.
 
-සැකකරුවන් සම්බන්ධයෙන් සිදුකළ පරික්ෂාවේදී එයින් දෙදෙනකු පොලිස් නිලධාරීන් දෙදෙනකු බවට අනාවරණය වී ඇති අතර දරුවා පැහැර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නැතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+The arrested had been arrested by the Police Special Bureau and two constable attached to the Meegoda police.
 
-අත්අඩංගුවට ගත් අනෙක් සැකකරුවන් දෙදෙනා පරකඩුව සහ පද්බේරිය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 29 හා 31 අතර පසුවන්නන්ය.
+Police yesterday (11-year-old child was resident of a car resident in the Pallegama area in Embilipitiya.Says
+
+Two of them have been revealed in connection with the suspects and two police officers have revealed that the cause of the child is not ascerted yet.
+
+The other two suspects were subsided between 29 and 31 resident in Paddera and the Padbeiya area.
 
 ◼️
 
 [Data](articles/d6f5cc29.json)
+
+[Extended Data](ext_articles/d6f5cc29.ext.json)
 
 ---
 
@@ -2239,59 +2297,5 @@ Chamini told us that she wanted to harness her full entrepreneurship potential t
 [Data](articles/0d331e93.json)
 
 [Extended Data](ext_articles/0d331e93.ext.json)
-
----
-
-### Authorization for Foreign Election Monitors
-
-*2024-08-11 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199828) · `si`
-
-Foreign election monitors from the EU and Commonwealth will observe the upcoming presidential campaign. The Elections Commissioner assures funds for the election are adequate despite potential candidate increases.
-
-🟩
-
-Foreign observants have given foreign observers to monitor the presidential election campaign.
-
-Elections Commissioner Chairman R.. M. A. L. Mr. Ratnayake said.
-
-Accordingly, the EU and Commonwealth electoral election monitoring are to arrive in the island to come to the island.
-
-Meanwhile, State Minister Ranjith Siyambalapitiya says that the money allocated for the next presidential election is sufficient.
-
-The State Minister pointed out that even though candidates increase, it is not a problem for the presidential election.
-
-◼️
-
-[Data](articles/2efe14e8.json)
-
-[Extended Data](ext_articles/2efe14e8.ext.json)
-
----
-
-### TNA Action: Declared support
-
-*2024-08-11 19:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சி-அதிரடி-ஆதரவை-அறிவித்தது/175-341977) · `ta`
-
-The Tamil National Alliance (TNA) has expressed its stance on the upcoming presidential election, emphasizing the need for a power-sharing regime in the North and East of Sri Lanka. The party is yet to decide on supporting a candidate but is keen on ensuring the Sinhalese community's interests are addressed. No formal resolution has been made regarding candidate support, and the TNA plans to communicate its demands clearly to all contenders.
-
-🟩
-
-The Tamil National Alliance (TNA) has discussed the upcoming presidential election on who has supported the Tamil National Party (TNA).. A.. Said Sumanthiran.
-
-The presidential candidate who is ready to provide the Samasti -based power -based regime in the North and East will decide on the support of the Sinhalese and the Sinhalese people.
-
-He said this while speaking to the media after the party's central committee meeting was held on Sunday (11) at the Vavuniya office of the TNA.
-
-The position of the main political party of the Tamil people on behalf of the Tamil people is the establishment of a power -shared rule in the North and East.
-
-This is our political position.The meeting also stated that the presidential candidates can support them if they comply. However, no resolution was taken in this regard.
-
-We are going to see what the news is that we are telling the presidential candidates about our request and what the message you are telling in their political statement.
-
-...
-
-[Data](articles/3ee22d5d.json)
-
-[Extended Data](ext_articles/3ee22d5d.ext.json)
 
 ---

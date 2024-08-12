@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 11:36:38**
+As of **2024-08-12 11:56:30**
 
 ## Newspaper Stats
 
-*Scraped **40,236** Articles*
+*Scraped **40,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,193 @@ islandlk | 2,329
 economynextcom | 2,427
 dailyftlk | 2,593
 adalk | 3,691
-adaderanalk | 4,682
+adaderanalk | 4,684
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,096
+tamilmirrorlk | 5,098
 virakesarilk | 6,377
-adaderanasinhalalk | 6,843
+adaderanasinhalalk | 6,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,230 (100.0%) of 40,236 articles have been extended.
+40,236 (100.0%) of 40,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### இன்று 15 மணித்தியால நீர்வெட்டு
+### புரிந்துணர்வு உடன்படிக்கை கைச்சாத்து (காணொளி)
+
+*2024-08-12 11:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புரிந்துணர்வு-உடன்படிக்கை-கைச்சாத்து-காணொளி/175-342021) · `ta`
+
+பெருந்தோட்ட மக்களை  வலுவூட்டும் நோக்கில் பெருந்தோட்ட அரசியல் கட்சித் தலைவர்களுடன் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச புரிந்துணர்வு உடன்படிக்கையில் திங்கட்கிழமை (12) கைச்சாத்திட்டார்.
+
+இந்த புரிந்துணர்வு உடன்படிக்கையில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, பாராளுமன்ற உறுப்பினர் மனோ கணேசன், பழனி திகாம்பரம் மற்றும் எம்.உதயகுமார் உள்ளிட்ட தோட்ட மக்களை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் இதில் கையொப்பமிட்டனர்.
+
+◼️
+
+[Data](articles/d6231307.json)
+
+---
+
+### தேர்தல் ஆணைக்குழு -GS இடையில் சந்திப்பு
+
+*2024-08-12 11:31:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-GS-இடையில்-சந்திப்பு/175-342020) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பான கடமைகளை சுமூகமாக நடத்துவதை உறுதி செய்வதற்காக வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள அகில இலங்கை கிராம சேவை உத்தியோகத்தர் சங்கத்தின் உறுப்பினர்களை தேர்தல்கள் ஆணைக்குழு சந்திக்கவுள்ளது.
+
+பணிப்பகிஷ்கரிப்புக்கு மத்தியிலும் ஜனாதிபதி தேர்தல் தொடர்பான சகல கடமைகளையும் செய்வதற்கு அதிகாரிகள் முன்னர் இணக்கம் தெரிவித்திருந்தனர் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+எவ்வாறாயினும், தேர்தல் நடைமுறைக்கு ஏதேனும் இடையூறு ஏற்படாத வகையில் சம்பந்தப்பட்ட அதிகாரிகளுடன் ஆணைக்குழு இந்த கலந்துரையாடலை ஏற்பாடு செய்துள்ளது.
+
+கிராம சேவை உத்தியோகத்தர்கள் இன்று (12) மற்றும் நாளை (13) சகல கடமைகளில் இருந்தும் விலகுவதாக அறிவித்துள்ளனர்.cs
+
+◼️
+
+[Data](articles/77381a7a.json)
+
+---
+
+### Ukraine and Russia trade accusations over fire at occupied nuclear plant
+
+*2024-08-12 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101167/ukraine-and-russia-trade-accusations-over-fire-at-occupied-nuclear-plant) · `en`
+
+Moscow and Kyiv accused each other of starting a fire on the grounds of Europe’s largest and now Russian-occupied Zaporizhzhia nuclear power plant in Ukraine on Sunday, with both sides reporting no sign of elevated radiation.
+
+The U.N.’s International Atomic Energy Agency (IAEA) nuclear watchdog, which has a presence at the vast six-reactor facility, said its experts had seen strong, dark smoke coming from the northern area of the plant in southern Ukraine following multiple explosions.
+
+“These reckless attacks endanger nuclear safety at the plant and increase the risk of a nuclear accident. They must stop now,” IAEA chief Rafael Grossi warned in a separate statement, without attributing blame for the attack.
+
+The fire comes less than a week after Ukraine’s forces launched their largest incursion into Russian territory since the war-start in 2022, a surprise move that has brought conflict into a new phase, after weeks of Moscow’s battlefield gains.
+
+...
+
+[Data](articles/f4cd7e68.json)
+
+---
+
+### අනුර නාමයෝජනා අත්සන් තබයි
+
+*2024-08-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199845) · `si`
+
+එළැඹෙන සැප්තැම්බර් 21 දින පැවැත්වෙන ජනාධිපතිවරණය වෙනුවෙන් අනුර කුමාර දිසානායක මහතා අපේක්ෂක නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+
+ඒ අද (12) පෙරවරුවේ ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේදී ය.
+
+මෙම අවස්ථාවට ජාතික ජන බලවේගයේ ප්‍රධාන ලේකම් වෛද්‍ය නිහාල් අබේසිංහ, ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් ටිල්වින් සිල්වා යන මහත්වරු ඇතුළුව ජාතික විධායක සභිකයින් කිහිප දෙනෙක්ද සහභාගි වූහ.
+
+◼️
+
+[Data](articles/c4c9b35b.json)
+
+---
+
+### 75 Years of Geneva Conventions: Sri Lanka to adopt Sinhala, Tamil translations
+
+*2024-08-12 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101166/75-years-of-geneva-conventions-sri-lanka-to-adopt-sinhala-tamil-translations) · `en`
+
+In commemoration of the 75th anniversary of the Geneva Conventions, which falls today (Aug 12), Sri Lanka will officially adopt the finalized Sinhala and Tamil translations of the Geneva Conventions in order to ensure the promotion of broader understanding and awareness of international humanitarian law (IHL), reflecting the obligation on the State parties to the Geneva Conventions to ensure the dissemination of their content.
+
+Issuing a statement, the International Committee of the Red Cross (ICRC) said that ratified by all States, the Geneva Conventions of 1949 embody the universal recognition that wars must have limits, and that, regardless of the circumstances, the actions of parties to an armed conflict must be guided by respect for human dignity and compassion.
+
+...
+
+[Data](articles/9f173b1a.json)
+
+---
+
+### 15 hours of water today
 
 *2024-08-12 11:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-15-மணித்தியால-நீர்வெட்டு/175-342019) · `ta`
 
-காலியில் சில பகுதிகளில் 15 மணிநேர  நீர் வெட்டு அமுல்படுத்தப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை (NWSDB) தெரிவித்துள்ளது.
+In Galle, a 15-hour water cut is scheduled from 1 PM Monday to 4 AM Tuesday, affecting areas like Akmeemana, Bope, Pothala, Habarathuwa, and Ahungama due to maintenance work by NWSDB.
 
-அதன்படி, இன்று (12) திங்கட்கிழமை பிற்பகல் 01.00 மணி முதல் நாளை (13)  செவ்வாய்க்கிழமை அதிகாலை 4.00 மணி வரை நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
+🟩
 
-திருத்தப்பணிகள் காரணமாகவே அக்மீமன, போபே ,பொத்தல, ஹபராதுவ மற்றும் அஹுங்கம ஆகிய பகுதிகளில் குறித்த நீர்வெட்டு  அமுல்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+The National Water Supply and Drainage Board (NWSDB) said that 15 hours of water cut will be implemented in some parts of Galle.
+
+Accordingly, the waterway will be implemented from 01.00 pm to 4.00 am on Tuesday (13) at 4.00 am today.
+
+Due to the revision, the waterfront will be implemented in Akmeemana, Bope, Pothala, Habarathuwa and Ahungama.
 
 ◼️
 
 [Data](articles/26eb8ec5.json)
 
+[Extended Data](ext_articles/26eb8ec5.ext.json)
+
 ---
 
-### செந்திலின் கூட்டத்தில் பதற்றம்: கேள்விக் கணைகளால் வெளியேறினார்
+### Senthil's crowd in the crowd: exit by questioning eyes
 
 *2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்-கேள்விக்-கணைகளால்-வெளியேறினார்/75-342018) · `ta`
 
-திருக்கோணேஸ்வரம் ஆலயம் சம்பந்தமான கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்  ஏற்பாடு செய்த உத்தியோக பூர்வமற்ற கூட்டத்தில் அமைதியின்மை ஏற்பட்டது.
+In a meeting organized by Eastern Province Governor Senthil Thondaman regarding the Thirukoneswaram Temple's development, concerns arose over the disappearance of a valuable Chola period necklace. Despite attempts to conclude the meeting abruptly, attendees raised critical questions about the necklace's theft, the urgency of the meeting, and the broader issues affecting the temple. The governor failed to address these queries satisfactorily, leaving many unanswered.
 
-திருக்கோணேஸ்வரம் ஆலய அபிவிருத்தி சம்பந்தமான பொது சபை உறுப்பினர்களுக்கான கூட்டம் ஒன்று அவசர அவசரமாக ஞாயிற்றுக்கிழமை (11)  ஆளுநர் செந்தில் தொண்டமானால் யாப்புக்கு முரணாக நடத்தப்பட்டது
+🟩
 
-அங்கு கருத்து தெரிவித்த செந்தில் தொண்டமான், திருக்கோணேஸ்வர ஆலயத்தில் ராஜ கோபுரம் கட்டுவதற்கான ஏற்பாடு தன்னால் செய்யப்பட்டுள்ளது என்றார்.  இந்நிலையில், சோழர் காலத்து பல நூறு கோடி ரூபாய் பெறுமதியான தாலி ஒன்று களவு போய் உள்ளது என்றார்.
+The unrest was held at an official meeting organized by the Governor of the Eastern Province Senthil Thondaman on the Thirukoneswaram temple.
 
-கூட்டத்தை அவசரமாக முடித்த ஆளுநர் செந்தில் தொண்டமான்,    மக்களுக்கு கேள்வி கேட்க வாய்ப்பு வழங்காமல் செல்ல முயன்றார்
+A meeting of General Council members on the development of Thirukoneswaram Temple was held on Sunday (11)
 
-கூட்டத்திற்கு வருகை தந்த திருகோணமலை சேர்ந்த ஆயுள் கால உறுப்பினர்கள் ,தமது கேள்விக்கு நீங்கள் பதில் கூறியே ஆக வேண்டும் என்ற நிலைப்பாட்டில் இருந்த காரணத்தால் பின் வரும் கேள்விகள் விளக்கங்கள் மக்களால் கூறப்பட்டன
+Senthil Thondaman said that he had made arrangements to build the Raja Tower at the Tirukoneswara Temple.In this case, a tali worth several hundred crores of rupees in the Chola period has been stolen.
+
+Governor Senthil Thondaman, who ended the meeting in a hurry, tried to go without giving people the opportunity to question the people
+
+The subsequent questions were addressed by the people because the Life -term members of Trincomalee who attended the meeting were in the position that you should answer their question.
+
+௦௧. When the court handed over the temple to the Administrative Council in 2009, there was no such Chola period jewelery.
 
 ...
 
 [Data](articles/7aceeb94.json)
 
+[Extended Data](ext_articles/7aceeb94.ext.json)
+
 ---
 
-### மூன்று பிள்ளைகளின் தாய் சடலமாக மீட்பு
+### Mother's body of three children recovery
 
 *2024-08-12 11:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பிள்ளைகளின்-தாய்-சடலமாக-மீட்பு/175-342016) · `ta`
 
-மதுரங்குளிய, நல்லந்தல்வ பிரதேசத்தில் மூன்று பிள்ளைகளின்  தாயொருவர் வீட்டுக்குள் மர்மமான முறையில் கொலை செய்யப்பட்டுள்ளார்.
+A 71-year-old mother of three was found dead in her home in Nallantalwal, Maduranguliya, South India. Police report no external injuries, indicating she may have died in her sleep. The case remains under investigation.
 
-71 வயதுடைய, மூன்று பிள்ளைகளின் தாயாரே இவ்வாறு கொலை செய்யப்பட்டுள்ளதாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+🟩
 
-தனக்குச் சொந்தமான தென்னந்தோப்பில்  உள்ள வீட்டில் வசித்து வந்த நிலையில், படுக்கையில் கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் கூறியுள்ளனர்.
+The mother of three children in Nallantalwal, Maduranguliya has been mysteriously murdered in the house.
 
-உடலில் வெளிப்புற காயங்கள் எதுவும் காணப்படவில்லை என்றும் சம்பவம் தொடர்பான விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The mother of three children, aged 71, has been murdered, Maduranguliya police said.
+
+Police said they were murdered in bed while living in a house in his own South India.
+
+Police said that there were no external injuries in the body and investigations were carried out.
 
 ◼️
 
 [Data](articles/f2d5099b.json)
 
+[Extended Data](ext_articles/f2d5099b.ext.json)
+
 ---
 
-### පැය 24ට මැතිවරණ පැමිණිලි 17ක්
+### 17 election complaints for 24 hours
 
 *2024-08-12 11:02:12* · [`adalk`](https://www.ada.lk/breaking_news/පැය-24ට-මැතිවරණ-පැමිණිලි-17ක්/11-411317) · `si`
 
-ගත වූ පැය 24ක කාලය තුළ සිය කොමිෂන් සභාවට  මැතිවරණ පැමිණිලි 17ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව අද(12දා) නිකුත් කළ නිවේදනයක සඳහන් කර ඇත.
+In the last 24 hours, the Elections Commission reported 17 election-related complaints. Additionally, it received 337 complaints between April 13th and 14th, 2013.
 
-එමෙන්ම 2024.07.31 වැනිදා සිට 2024.08.11 වැනිදා දක්වා සමස්ථ පැමිණිලි 337ක් ලැබී ඇති බවද අදාළ නිවේදනයේ සඳහන් කර ඇත.
+🟩
+
+The Elections Commission (EPL) has issued 17 election related complaints over the past 24 hours.
+
+The announcement has also received 337 complaints from 13.04.2013 to 13.04.2013.
 
 ◼️
 
 [Data](articles/a72ef6e3.json)
+
+[Extended Data](ext_articles/a72ef6e3.ext.json)
 
 ---
 
@@ -115,6 +221,8 @@ Meanwhile, the Vennappuwa Police is carrying out further investigations and will
 ◼️
 
 [Data](articles/2e3aea12.json)
+
+[Extended Data](ext_articles/2e3aea12.ext.json)
 
 ---
 
@@ -722,17 +830,23 @@ The general  public is kindly requested to take adequate precautions to minimiz
 
 ---
 
-### සීතා නුවර පෙරහරට එයි
+### Seetha comes to Perahera
 
 *2024-08-12 07:50:20* · [`adalk`](https://www.ada.lk/breaking_news/සීතා-නුවර-පෙරහරට-එයි/11-411312) · `si`
 
-මහියංගන රජමහා විහාරයේ පෙරහරට සහභාගි වෙමින් සිටියදී වෙඩි ප්‍රහාරයකට ලක්ව දැඩි අසාධ්‍ය තත්ත්වයට පත් වූ සීතා ඇතින්න සම්පූර්ණයෙන් සුව වීමෙන් පසු මෙවර මහනුවර ඇසළ පෙරහැරේ පත්තිනි දේවාලයේ පෙරහරට සහභාගි වීම සඳහා මහනුවරට පැමිණ සිටී.
+Seetha, healed at Mahiyangana, moved to Kandy. Last year's Mahiyangana temple procession ended in a shooting controversy.
 
-පසුගිය වසරේ සැප්තැම්බර් මස 30 වැනි දින රාත්‍රි මහියංගන රජමා විහාරයේ පෙරහර නිමාවීමෙන් පසු සීතා ඇතින්න විවේකීව සිටින අවස්ථාවේදී කිසියම් පුද්ගලයකුගේ වෙඩි ප්‍රහාරයකට ලක් ලක්වූ අතර එය එවකට මහත් ආන්දෝලනාත්මක සිදුවීමක් විය .
+🟩
+
+The Seetha who was in severely recovered from the Mahiyangana Raja Maha Viharaya was recovered to Kandy after healing.
+
+After the completion of the Perahera of Mahiyangana Rajama Temple last year, a person was shot and was a great controversial incident.
 
 ◼️
 
 [Data](articles/ce5830e8.json)
+
+[Extended Data](ext_articles/ce5830e8.ext.json)
 
 ---
 
@@ -2159,99 +2273,5 @@ National Congress leader ALM Ataullah has expressed his support for Ranil Wickre
 [Data](articles/c06a5eef.json)
 
 [Extended Data](ext_articles/c06a5eef.ext.json)
-
----
-
-### How is this unity?
-
-*2024-08-11 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190813) · `ta`
-
-The 1971 Bangladesh liberation war aimed to grant 30% reservations to high-ranking families, sparking discontent among youth and students. Despite initial challenges, under Sheikh Hasina's leadership over the past 15 years, Bangladesh has seen significant progress in poverty reduction and economic growth, largely through loans from Sri Lanka.
-
-🟩
-
-The 1971 freedom struggle offered to provide 30 per cent reservation for the families of the high -rankings, causing disgust and frustration among the youth and students of the country.. Sheikh Hasina was the cause of the growth of Bangladesh in the last 15 years, the recovery of poverty and the economic growth of Sri Lanka's lending.
-
-◼️
-
-[Data](articles/32cdd60d.json)
-
-[Extended Data](ext_articles/32cdd60d.ext.json)
-
----
-
-### Ranasinghe also offers presidential election
-
-*2024-08-11 17:44:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රණසිංහ-කෙනෙකුත්-ඉදිරිපත්-වෙයි/11-411310) · `si`
-
-Former Minister Roshan Ranasinghe announced his candidacy for the upcoming presidential election, emphasizing unity and national development.
-
-🟩
-
-Former Minister Roshan Ranasinghe said he would contest for the next presidential election.
-
-He was speaking at a function held at the Colombo Foundation Institute today (11).
-
-2024 I remember this time that I am on the presidential election. Let's build this country. The first, second, third, three should be our country. Therefore, I remember the heart is the country.
-
-◼️
-
-[Data](articles/9d8db044.json)
-
-[Extended Data](ext_articles/9d8db044.ext.json)
-
----
-
-### Roshan Ranasinghe to also contest presidential candidacy
-
-*2024-08-11 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101154/roshan-ranasinghe-to-also-contest-presidential-candidacy) · `en`
-
-Former Minister of Sports Roshan Ranasinghe has announced his candidacy for the upcoming Presidential Election.
-
-He communicated this while addressing a function held at the Sri Lanka Foundation Institute today (11).
-
-◼️
-
-[Data](articles/17ed2764.json)
-
-[Extended Data](ext_articles/17ed2764.ext.json)
-
----
-
-### Historical Perahera Perahera of the historical Perahera today
-
-*2024-08-11 17:31:17* · [`adalk`](https://www.ada.lk/breaking_news/ඓතිහාසික-ඇසළ-පෙරහැර-මංගල්‍යයේ-දෙවන-කුඹල්-පෙරහැර-අද/11-411309) · `si`
-
-Today marks the second pottery Perahera of the Mount Kandy festival, visiting local streets. The Southern 25-night festival concludes its Changha ceremony at the Sri Dalada Maligawa, lasting 27 minutes.
-
-🟩
-
-The second pottery Perahera of the Mount Kandy Perahera is scheduled to visit the streets today (11).
-
-Southern 25-night Southern Region is due to Changha at the Sri Dalada Maligarahera, with 27 minutes.
-
-◼️
-
-[Data](articles/e04cbf8a.json)
-
-[Extended Data](ext_articles/e04cbf8a.ext.json)
-
----
-
-### Ready to face the challenge?
-
-*2024-08-11 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/190836) · `ta`
-
-We must focus on the reasons behind halting the Tamil general candidate instead of the other party. The groups backing this candidate seem unorganized.
-
-🟩
-
-It is important to clarify why we stop him, rather than stopping the Tamil general candidate. The parties that field the Tamil general candidate on that issue are not working properly.
-
-◼️
-
-[Data](articles/770c084c.json)
-
-[Extended Data](ext_articles/770c084c.ext.json)
 
 ---

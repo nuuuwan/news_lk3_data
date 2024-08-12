@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 07:02:52**
+As of **2024-08-12 07:31:38**
 
 ## Newspaper Stats
 
-*Scraped **40,185** Articles*
+*Scraped **40,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,593
 adalk | 3,685
 adaderanalk | 4,676
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,080
+tamilmirrorlk | 5,081
 virakesarilk | 6,376
 adaderanasinhalalk | 6,833
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,833
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,184 (100.0%) of 40,185 articles have been extended.
+40,185 (100.0%) of 40,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### ඉදිරි දින කිහිපයේ ගිගුරුම් සහිත වැසි
+### Thundershowers during the next few days
 
 *2024-08-12 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199833) · `si`
 
-ඉදිරි දින කිහිපයේදී දිවයිනේ සවස් කාලයේදී ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect widespread showers and thundershowers across the island, especially in Kalutara, Galle, Matara, and Ratnapura districts from the evening onwards. Heavy rainfall possible exceeding 100mm. Take precautions against flooding, landslides, and strong winds.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-කළුතර, ගාල්ල, මාතර සහ රත්නපුර දිස්ත්‍රික්කවල උදෑසන කාලයේදී ද වැසි ස්වල්පයක් ඇතිවිය හැක.
+The Meteorological Department says that there is an atmospheric atmosprican at the next evening.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ, උතුරු සහ උතුරුමැද පළාත්වල ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බව දන්වා තිබේ.
+Showers or thundershowers during the evening or night in many parts of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Thundershowers will develop at several places in Kalutara, Galle, Matara and Ratnapura districts.
+
+In the Western, Sabaragamuwa, Central, Southern, North and North and North and North and North and North and North and North and North and North and North and North and North and North. Heavy rains can occur at more than 100.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
 
 ◼️
 
 [Data](articles/a54c0fab.json)
+
+[Extended Data](ext_articles/a54c0fab.ext.json)
 
 ---
 
@@ -173,6 +179,22 @@ After World War II, the next two years, the bitter quarrel that proved war -rela
 [Data](articles/bd4c18dc.json)
 
 [Extended Data](ext_articles/bd4c18dc.ext.json)
+
+---
+
+### 3 கோடி இந்திய முட்டைகள் இறக்குமதி
+
+*2024-08-12 01:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கோடி-இந்திய-முட்டைகள்-இறக்குமதி/175-341994) · `ta`
+
+3 கோடி இந்திய முட்டைகள் முதல் தொகுதி இம்மாதம் இறக்குமதி செய்யப்படும் என இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+இவ்வருடம் முட்டை இறக்குமதி செய்வது தொடர்பான கொள்முதல் நடவடிக்கைகள் தற்போது இடம்பெற்று வருவதாக இலங்கை அரச வர்த்தக பல்நோக்கு கூட்டுத்தாபனத்தின் தலைவர் ஆசிறி வலிசுந்தர தெரிவித்துள்ளார்.
+
+உள்ளூர் சந்தையில் ஒரு முட்டை 50 ரூபாவுக்கு மேல் விற்பனையாகி வருவதால் மீண்டும் முட்டை இறக்குமதி செய்யப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/354c72ee.json)
 
 ---
 
@@ -2291,27 +2313,5 @@ Former Minister Nasir Hamad, State Minister Khadar Mastan, Puttalam District Par
 [Data](articles/dacc6e84.json)
 
 [Extended Data](ext_articles/dacc6e84.ext.json)
-
----
-
-### Split into the Rajapaksa family
-
-*2024-08-11 11:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஷ-குடும்பத்துக்குள்-பிளவு/175-341954) · `ta`
-
-The Rajapaksa family is divided over the Sri Lanka People's Alliance (SLPA) decision and presidential election, with many supporting Ranil Wickremesinghe. Notably, former Speaker Chamal Rajapaksa and State Minister Sarath Fonseka back Wickremesinghe. Additionally, Yoshitha Rohitha's marketing firm is handling Wickremesinghe's campaign.
-
-🟩
-
-Political sources have said that the Rajapaksa family has disagreed due to the decision of the Sri PA and the presidential election.
-
-Many of the Rajapaksa family, including the Mahinda Rajapaksa family, are in the position of supporting Ranilwickramasinghe. Former Speaker Samalrajapaksa and State Minister Sasheendra Rajapaksa have supported Wickremesinghe and have a position that the party should support him.
-
-It is also reported that the team belonging to Yoshitha Rohitha's marketing company has been given the responsibility of carrying out Ranil Wickremesinghe's campaign.
-
-◼️
-
-[Data](articles/9908b031.json)
-
-[Extended Data](ext_articles/9908b031.ext.json)
 
 ---

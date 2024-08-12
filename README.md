@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 17:20:55**
+As of **2024-08-12 17:36:48**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,313 (100.0%) of 40,316 articles have been extended.
+40,316 (100.0%) of 40,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
 
-### බිලිඳෙකු ඇතුළු තිදෙනෙකුගේ අවසන් මොහොත
+### The last moment of three including a baby
 
 *2024-08-12 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199860) · `si`
 
-වේවැල්දෙණිය ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් කුඩා බිළිදෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+In a tragic accident in Weweldeniya involving a three-wheeler and a lorry, four individuals including a baby died. The incident occurred when the three-wheeler collided with the lorry. Among the deceased were the driver of the three-wheeler, a woman passenger, and the baby. Two more passengers, both women and a boy, were critically injured and taken to Warakapola Hospital. Preliminary reports suggest the accident was caused by the three-wheeler driver.
 
-එම අනතුර සිදුවන ආකාරය පිටුපසින් පැමිණි වාහනයක ඉදිරිපස කැමරාවේ සටහන්ව තිබුණි.
+🟩
 
-පොලීසිය ප්‍රකාශ කළේ, මාර්ගය අසල නවතා තිබූ ලොරි රථයක ත්‍රිරෝද රථයක් ගැටී අද (12) දහවල් එම අනතුර සිදුව ඇති බවය.
+Three persons including a small blend were killed in an accident in Weweldeniya area.
 
-අනතුරින් ත්‍රිරෝද රථයේ රියදුරු සහ එහි ගමන් කළ කාන්තාවක් හා මාස 04ක් වයසැති කුඩා බිළිදෙකු මියගොස් තිබේ.
+The front camera was noted on the front of a vehicle from the back of the accident.
 
-ත්‍රිරෝද රථයේ ගමන් කළ තවත් කාන්තාවන් දෙදෙනෙකු සහ පිරිමි ළමයෙකු බරපතළ තුවාල ලබා වරකාපොළ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පැවසුවේය.
+The police said that the accident had occurred in a three-wheeler in a lorry near the road.
 
-ත්‍රිරෝද රථයේ රියදුරුට නින්ද යාම අනතුරට හේතුව වී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+The driver of the three-wheeler and a woman in the accident and died of a small baby.
+
+Two other women and a boy were seriously injured in the three-wheeler and have been seriously injured and rushed to the Warakapola Hospital.
+
+Preliminary investigations have revealed that the driver of the three-wheeler casualties had been revealed in the accident.
 
 ◼️
 
 [Data](articles/01f0d04a.json)
+
+[Extended Data](ext_articles/01f0d04a.ext.json)
 
 ---
 
@@ -1526,41 +1532,59 @@ Due to the revision, the waterfront will be implemented in Akmeemana, Bope, Poth
 
 ---
 
-### එක්සත් රාජධානියේ කැරලිවලට මැදි වූ ලාංකිකයෙකුගේ අත්දැකීම
+### The experience of a Sri Lankan in the middle of the UK carries
 
 *2024-08-12 11:19:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj625k257djo) · `si`
 
-සවුත්පෝර්ට්හි වින්ඩ්සර් මිනි මාර්ට් (Windsor Mini Mart) හිමිකරු වන 90 දශකයේදී ශ්‍රී ලංකාවේ සිට එක්සත් රාජධානියට සංක්‍රමණය වූ 47 හැවිරිදි චානක බාලසූරිය එක්සත් රාජධානිය පුරා පැතිර ගිය ප්‍රචණ්ඩකාරී නොසන්සුන්තාවයෙන් දැඩි ලෙස බලපෑමට ලක් වුණු අතර ඔහු ඉන් පසුව ඇති වුණු දයානුකම්පිත ක්‍රියාවල ප්‍රතිලාභ ලත් අයෙකු ද විය.
+Chanaka Balasuriya, a 90-year-old Sri Lankan migrant in the UK, experienced severe violence linked to anti-migration sentiments. Following a knife attack incident at a Taylor Swift Club, which spread via social media, causing unrest across England, including Urland. Communities responded by repairing damaged mosques and businesses. Despite initial financial hardship, Balasuriya found support from locals, including a beauty salon owner raising over £11,000 for repairs. He urges unity and healing amidst ongoing caution due to past racist experiences.
 
-'ටේලර් ස්විෆ්ට්' තේමාවක් යටතේ පැවති උත්සවයක් අතරතුර (a Taylor Swift holiday club) ගැහැනු දරුවන් තිදෙනෙකු මාරාන්තික පිහි ඇනුමකට ලක් වූ නර්තන ශාලාවේ සිට සැතපුම් භාගයක් දුරින් පිහිටි ඔහුගේ සිල්ලර භාණ්ඩ අලෙවි සල, එම පිහි ප්‍රහාරයට පසු දින සංක්‍රමණ විරෝධී කැරලිකරුවන් විසින් කොල්ලකන ලදී.
+🟩
 
-එංගලන්තය පුරා සහ උතුරු අයර්ලන්තයේ නගරවල ඇති වූ මෙම ප්‍රචණ්ඩ ක්‍රියා ඉන්ටර්නෙට් හරහා පැතිර ගිය සහ අන්ත දක්ෂිණාංශික කණ්ඩායම් විසින් පතුරවා හරින ලද වැරදි ප්‍රචාර හරහා තව තවත් ඇවිළී ගියේ ය.
+The 90-year-old Chanaka Balasuriya, who migrated to the UK from Sri Lanka, was severely affected by the 200-year-old violence from Sri Lanka.
 
-එතැන් සිට, තවදුරටත් ප්‍රහාර සිදුවීම වැළැක්වීම සඳහා දහස් ගණනක් ජනතාව වීදි බැසීමට පියවර ගෙන ඇති අතර ප්‍රජාවන් [හානියට ලක් වූ] මුස්ලිම් පල්ලි සහ ව්‍යාපාරික ස්ථාන අලුත්වැඩියා කිරීමට පියවර ගෙන ඇත.
+During a ceremony held at a Taylor Swift the Taylor Swift Club, three children were plundered by the anti-migration rebels after the death hall of the deadly knife.
+
+The violence spread through England and cities of Urland, the violence spread through the Internet, and the wrong propaganda spread through the Internet.
+
+Since then, thousands of people have taken steps to street to prevent further attacks and have taken steps to repair their communities [damaged] mosques and business places.
+
+Financially, the experience of Balasuriya's riots, who were surrounded by the people around him, was a tip of a way to get rid of such situations.
+
+The grieving people gathered to honor girls who were grieved in the knives on July 30 hours after a hundred and two hours, Southport.
 
 ...
 
 [Data](articles/be833047.json)
 
+[Extended Data](ext_articles/be833047.ext.json)
+
 ---
 
-### செந்திலின் கூட்டத்தில் பதற்றம்
+### Senthil's crowd tension
 
 *2024-08-12 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/செந்திலின்-கூட்டத்தில்-பதற்றம்/75-342018) · `ta`
 
-திருக்கோணேஸ்வரம் ஆலயம் சம்பந்தமான கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்  ஏற்பாடு செய்த உத்தியோக பூர்வமற்ற கூட்டத்தில் அமைதியின்மை ஏற்பட்டது.
+Unrest arose during a meeting on Thirukoneswaram Temple's development, organized by Eastern Province Governor Senthil Thondaman. He announced plans to build the Raja Tower but faced criticism over missing Chola period jewelry valued at hundreds of crores. The governor abruptly ended the meeting, avoiding public questioning. Attendees, including Life-term members from Trincomalee, demanded answers regarding the jewelry's disappearance and the urgency of the meeting despite pending legal issues.
 
-திருக்கோணேஸ்வரம் ஆலய அபிவிருத்தி சம்பந்தமான பொது சபை உறுப்பினர்களுக்கான கூட்டம் ஒன்று அவசர அவசரமாக ஞாயிற்றுக்கிழமை (11)  ஆளுநர் செந்தில் தொண்டமானால் யாப்புக்கு முரணாக நடத்தப்பட்டது
+🟩
 
-அங்கு கருத்து தெரிவித்த செந்தில் தொண்டமான், திருக்கோணேஸ்வர ஆலயத்தில் ராஜ கோபுரம் கட்டுவதற்கான ஏற்பாடு தன்னால் செய்யப்பட்டுள்ளது என்றார்.  இந்நிலையில், சோழர் காலத்து பல நூறு கோடி ரூபாய் பெறுமதியான தாலி ஒன்று களவு போய் உள்ளது என்றார்.
+The unrest was held at an official meeting organized by the Governor of the Eastern Province Senthil Thondaman on the Thirukoneswaram temple.
 
-கூட்டத்தை அவசரமாக முடித்த ஆளுநர் செந்தில் தொண்டமான்,    மக்களுக்கு கேள்வி கேட்க வாய்ப்பு வழங்காமல் செல்ல முயன்றார்
+A meeting of General Council members on the development of Thirukoneswaram Temple was held on Sunday (11)
 
-கூட்டத்திற்கு வருகை தந்த திருகோணமலை சேர்ந்த ஆயுள் கால உறுப்பினர்கள் ,தமது கேள்விக்கு நீங்கள் பதில் கூறியே ஆக வேண்டும் என்ற நிலைப்பாட்டில் இருந்த காரணத்தால் பின் வரும் கேள்விகள் விளக்கங்கள் மக்களால் கூறப்பட்டன
+Senthil Thondaman said that he had made arrangements to build the Raja Tower at the Tirukoneswara Temple.In this case, a tali worth several hundred crores of rupees in the Chola period has been stolen.
+
+Governor Senthil Thondaman, who ended the meeting in a hurry, tried to go without giving people the opportunity to question the people
+
+The subsequent questions were addressed by the people because the Life -term members of Trincomalee who attended the meeting were in the position that you should answer their question.
+
+௦௧. When the court handed over the temple to the Administrative Council in 2009, there was no such Chola period jewelery.
 
 ...
 
 [Data](articles/44c4ba37.json)
+
+[Extended Data](ext_articles/44c4ba37.ext.json)
 
 ---
 

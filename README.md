@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-12 20:08:33**
+As of **2024-08-12 20:21:37**
 
 ## Newspaper Stats
 
-*Scraped **40,337** Articles*
+*Scraped **40,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 2,331
 economynextcom | 2,444
 dailyftlk | 2,593
 adalk | 3,705
-adaderanalk | 4,701
+adaderanalk | 4,702
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,117
+tamilmirrorlk | 5,119
 virakesarilk | 6,385
-adaderanasinhalalk | 6,861
+adaderanasinhalalk | 6,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,337 (100.0%) of 40,337 articles have been extended.
+40,337 (100.0%) of 40,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-12 (Monday)
+
+### Speaker endorses certificate on Economic Transformation Bill
+
+*2024-08-12 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101186/speaker-endorses-certificate-on-economic-transformation-bill) · `en`
+
+The Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Bill titled “Economic Transformation Bill” recently, the Parliamentary Communications Department said.
+
+The Bill with the objective of providing provisions for National Policy on Economic Transformation, was presented to Parliament on the 22 May 2024.
+
+On the 25 July 2024, the debate of the Second Reading for the Bill was held in Parliament, after which the Bill was passed in Parliament with amendments and without a vote.
+
+Accordingly, this Bill will be known as the Economic Transformation Act No. 45 of 2024, according to the Parliamentary Communications Department.
+
+◼️
+
+[Data](articles/a9f99397.json)
+
+---
+
+### සුරාබදු බලපත්‍ර 200ක් ලබාදීමේ සූදානමක් ?
+
+*2024-08-12 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199864) · `si`
+
+ජනාධිපතිවරණ සමය තුළදී නීතිවිරෝධී අයුරින් සුරාබදු බලපත්‍ර 200ක් පමණ ලබාදීමේ සූදානමක් පවතින බවට මැතිවරණ කොමිෂන් සභාවට පැමිණිල්ලක් ඉදිරිපත්ව තිබේ.
+
+ශ්‍රී ලංකා මත්පැන් බලපත්‍රධාරී සංගමය අද (12) මැතිවරණ කොමිෂන් සභාවට එම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+
+පැමිණිල්ල භාරදීමෙන් පසුව අදහස් දැක්වූ ශ්‍රී ලංකා මත්පැන් බලපත්‍රධාරී සංගමයේ උප සභාපති ප්‍රසන්න විතානගේ මහතා,
+
+"වත්මන් ජනාධිපතිවරයා හා මුදල් අමාත්‍යවරයා මෙවර ජනාධිපතිවරණයේදී අපේක්ෂකයෙකු ලෙස ඇප මුදල් තැන්පත් කර ඇති අවස්ථාවක සුරාබදු දෙපාර්තමේන්තුවේ ප්‍රධානියා වන්නෙත් ඔහු. සුරාබදු දෙපාර්තමේන්තුව විසින් මේ වනවිට නව සුරාබදු බලපත්‍ර 200කට වැඩි ප්‍රමාණයක් දීමට කටයුතු කරගෙන යන බව අපිට තොරතුරු ලැබී තිබෙනවා. ඊට අමතරව ජනාධිපති මැතිවරණය ප්‍රකාශයට පත්කළාට පසු නව බලපත්‍ර 6ක් පමණ පෙර දිනයන් දමා නිකුත් කරලා තියෙනවා."
+
+◼️
+
+[Data](articles/ce3514d6.json)
+
+---
+
+### ”சுயேட்சை வேட்பாளர்கள் பினாமிகள்”
+
+*2024-08-12 19:37:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சை-வேட்பாளர்கள்-பினாமிகள்/175-342046) · `ta`
+
+பல சுயேட்சை வேட்பாளர்கள் ஜனாதிபதி தேர்தலில் உண்மையில் போட்டியிடும் வேறு சில வேட்பாளர்களின் பினாமியாக பயன்படுத்தப்படுவதாக முன்னாள் தேர்தல் ஆணையாளர் மஹிந்த தேசப்பிரிய தெரிவித்துள்ளார்.
+
+சுயேட்சை வேட்பாளர்கள் குறித்து தவறாக எதுவும் கூற முடியாது என கோட்டையில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது அவர் கூறினார்.
+
+”ஜனாதிபதி ரணில் எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேச்சை வேட்பாளராக போட்டியிடுகிறார். அவர் இதற்கு முன்னர் தற்போதைய ஜனாதிபதி, முன்னாள் பிரதமர் மற்றும் முன்னாள் எதிர்க்கட்சித் தலைவர் போன்ற பதவிகளை வகித்துள்ளார்”.
+
+"எவ்வாறாயினும், எங்கள் அனுபவத்தின் அடிப்படையில், பல சுயேட்சை வேட்பாளர்கள் உண்மையில் தேர்தலில் போட்டியிடுபவர்களுக்கு பினாமிகளாக செயல்படுகிறார்கள்.
+
+ஒரு குறிப்பிட்ட கட்சியுடன் நேரடி தொடர்பு கொண்ட மூன்று அல்லது நான்கு முன்னாள் எம்.பி.க்கள் ஒரு சுயேச்சை வேட்பாளரை ஆதரிக்க வேட்புமனுக்களை சமர்ப்பித்துள்ளனர் என்பது தெளிவாகிறது.
+
+நான் வெளிப்படையாக இருக்கிறேன். பினாமி வேட்பாளர்களின் பிரச்சினை தொடர்பான எந்தவொரு சவாலையும் சந்திக்க நான் தயாராக இருக்கிறேன்.
+
+...
+
+[Data](articles/293cd537.json)
+
+---
 
 ### “Independent candidates are used as proxies”
 
@@ -877,6 +935,24 @@ On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya�
 [Data](articles/7a9389b0.json)
 
 [Extended Data](ext_articles/7a9389b0.ext.json)
+
+---
+
+### ரூ. 1,700 சம்பள உயர்வு வழங்க தீர்மானம்
+
+*2024-08-12 14:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரூ-1-700-சம்பள-உயர்வு-வழங்க-தீர்மானம்/150-342032) · `ta`
+
+தோட்ட தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள உயர்வு வழங்குவதில் தாமதம் ஏற்பட்டிருந்த நிலையில், சம்பள நிர்ணய சபையில் திங்கட்கிழமை (12)  இடம்பெற்ற பேச்சுவார்த்தையில் இறுதி தீர்வு எட்டப்பட்டுள்ளது. வாக்கெடுப்பு மூலமாக 1700 ரூபாய் சம்பளம் வழங்க தீர்மானம் எட்டப்பட்டுள்ளது என கிழக்கு மாகாண ஆளுநரின் ஊடகப் பிரிவு அறிவித்துள்ளது.
+
+சம்பள விடயம், உயர் நீதிமன்றத்திற்கு எடுத்து செல்லப்பட்ட நிலையில், நீதிமன்றத்தால்  குறிப்பிடப்பட்ட தவறுகளை திருத்தி அமைத்து 1,700 ரூபாய் சம்பளம் உயர்வை பெற்றுத்தர முடியுமென அறிவிக்கப்பட்டுள்ளது என அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்குமுழு ஒத்துழைப்பு வழங்கிய ஜனாதிபதி ரணில் விக்ரமசிங்க, முன்னாள் அமைச்சர் மனுஷ நாணயக்கார ஆகியோருக்கு  கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிஸின் தலைவருமான செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+
+மேலும், இலங்கை தொழிலாளர் காங்கிரஸ்  தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் சம்பளத்தை முன்மொழிந்தது போல அதனை மக்கள் கை பெற்றுக்கொடுக்கும் முழுப்பொறுப்பும்  இலங்கை தொழிலாளர் காங்கிரஸுக்கு உள்ளது எனவும்  செந்தில் தொண்டமான் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/29a1d07d.json)
 
 ---
 
@@ -2189,91 +2265,5 @@ Meanwhile, the Vennappuwa Police is carrying out further investigations and will
 [Data](articles/2e3aea12.json)
 
 [Extended Data](ext_articles/2e3aea12.ext.json)
-
----
-
-### Voting cannot be obtained by supplying goods - Minister Prasanna Ranatunga
-
-*2024-08-12 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/190864) · `ta`
-
-Minister Prasanna Ranatunga announced the formation of Presidential Election Joint Committees across Gampaha district constituencies to support President Ranil Wickremesinghe's campaign. These committees, including representatives from various parties, will focus on home-to-house visits, agent appointments, and campaign organization. The initiative marks a significant step towards uniting different political factions under a common goal, emphasizing the importance of ideological support over material incentives in securing votes.
-
-🟩
-
-The Presidential Election Joint Committees will be appointed to cover all the constituencies in the Gampaha district for the success of President Ranil Wickremesinghe.
-
-The committees were appointed by Minister Prasanna Ranatunga and the Gampaha District MPs yesterday (10) and Sunday (11).
-
-In the establishment of these groups, the federation includes representatives of all parties supporting the President, including the Sri Lanka Peoples Alliance, the United National Party, the Sri Lanka Freedom Party, the PA and the United People's Power.
-
-Home -to -house, appointing agents at polling stations, organizing President Ranil Wickremesinghe's presidential election campaigns, organizing and guiding at the relevant constituency level have been handed over to the joint committees of these constituencies.
-
-...
-
-[Data](articles/d978bed2.json)
-
-[Extended Data](ext_articles/d978bed2.ext.json)
-
----
-
-### Foreign remittances
-
-*2024-08-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199844) · `si`
-
-Sri Lanka received $566.8 million in foreign remittances in July 2024, bringing the total for January-July to $3.71 billion, a 10.3% increase from the same period in 2023.
-
-🟩
-
-In July, 2024, Sri Lanka has received $ 566.8 million to Sri Lanka.
-
-Accordingly, in the January-July, the country received $ 3.71 billion.
-
-The Central Bank said that this was 10.3% over the same period last year.
-
-◼️
-
-[Data](articles/edc312b7.json)
-
-[Extended Data](ext_articles/edc312b7.ext.json)
-
----
-
-### Anura signed the nomination
-
-*2024-08-12 10:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவில்-கையொப்பமிட்டார்-அனுர/175-342013) · `ta`
-
-Anura Dissanayake nominated for presidency, supported by NEC members including Nihal Abeysinghe and Dilvin Silva.
-
-🟩
-
-Anuragumara Dissanayake has signed the candidate on Tuesday (12) for the presidential election.
-
-Some members of the National Executive Council, including the General Secretary of the National People's Power, Comrade Nihal Abeysinghe and the General Secretary of the Janatha Vimukthi Peramuna (JVP), Dilvin Silva, were also present.
-
-◼️
-
-[Data](articles/0569b3bc.json)
-
-[Extended Data](ext_articles/0569b3bc.ext.json)
-
----
-
-### Election Complaints Continued Increase
-
-*2024-08-12 10:55:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடுகள்-தொடர்ந்து-அதிகரிப்பு/175-342012) · `ta`
-
-In the past 24 hours alone, 17 election complaints were filed, bringing the total to 337 since July 31.
-
-🟩
-
-The Election Commission has pointed out that 17 election complaints have been reported in the last 24 hours.
-
-The Election Commission said that 337 election complaints have been reported from July 31 to yesterday.
-
-◼️
-
-[Data](articles/18e14675.json)
-
-[Extended Data](ext_articles/18e14675.ext.json)
 
 ---

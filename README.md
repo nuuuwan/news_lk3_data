@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 08:36:23**
+As of **2024-08-13 08:55:33**
 
 ## Newspaper Stats
 
-*Scraped **40,405** Articles*
+*Scraped **40,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,604
 adalk | 3,710
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,129
+tamilmirrorlk | 5,130
 virakesarilk | 6,394
 adaderanasinhalalk | 6,873
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,402 (100.0%) of 40,405 articles have been extended.
+40,405 (100.0%) of 40,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### சூடானில் மோதல்: 28 போ் பலி
+
+*2024-08-13 08:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சூடானில்-மோதல்-28-போ்-பலி/50-342071) · `ta`
+
+சூடானின் வடக்கு டாா்பா் மாகாணத்தில் இராணுவத்துக்கும் துணை இராணுவத்துக்கும் இடையே நடைபெற்ற மோதலில் 28 போ் உயிரிழந்துள்ளனர்.
+
+மாகாணத் தலைநகா் எல் பாஷரில் ஆா்.எஸ்.எப் துணை இராணுவப் படை நடத்திய இந்தத் தாக்குதலில் பொதுமக்கள் 28 போ் உயிரிழந்துடன் 46 போ் காயமடைந்ததாகவும் தெரிவிக்கப்படுகிறது.
+
+கடந்த ஆண்டு ஏப்ரல் மாதம் முதல் இரு படைகளுக்கும் இடையே மோதல் நடைபெற்றுவருகிறது. இதில் இதுவரை சுமாா் 15,000 போ் வரை உயிரிழந்துள்ளனர் என தெரிவிக்கப்படுகிறது. (a)
+
+◼️
+
+[Data](articles/05eebed8.json)
+
+---
 
 ### Sri Lanka panel mandates wages for plantations workers
 
@@ -54,43 +70,59 @@ Politicians of the ruling coalition threatened to expropriated plantation compan
 
 [Data](articles/23ca23e1.json)
 
+[Extended Data](ext_articles/23ca23e1.ext.json)
+
 ---
 
-### ඉන්දු - ශ්‍රී ලංකා මගී යාත්‍රා සේවය සිකුරාදා සිට
+### Indo-Sri Lanka Passenger Vessel Service from Friday
 
 *2024-08-13 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199876) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මගී යාත්‍රා සේවය ලබන සිකුරාදා (16) දිනයේ සිට යළි ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+From Friday, a private company resumes passenger ferry services between Nagapatnam, India, and Kankesanthurai, Sri Lanka, after being delayed from its original start date of May 13. Tickets, available since Wednesday, offer seating via an online system.
 
-ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට නියමිතය.
+🟩
 
-පුද්ගලික සමාගමක් විසින් මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමේ අවස්ථාව ද ලබාදී තිබේ.
+The passenger serving between Sri Lanka and India will be re-operated from Friday (16).
 
-ඊයේ (12) දිනයේ සිට මගී යාත්‍රා සේවය සඳහා ප්‍රවේශ පත්‍ර වෙන්කර ගත හැකි බව අදාළ සමාගම දැනුම් දී ඇත.
+The passenger vessel is to be implemented from Nagapatn, India to Kankasanthurai in Sri Lanka.
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මෙම මගී යාත්‍රා සේවය මීට පෙර මැයි මස 13 වන දින ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණ ද විවිධ හේතු නිසා එය කල්දමනු ලැබීය.
+The passenger vessel service is scheduled to be implemented by a private company and the seating seats along the online system.
+
+The company has informed that tickets can be allocated from yesterday (12).
+
+The passenger vessel was planned to be implemented on May 13, even though it was planned to implement this passenger vessel on 13th May before Sri Lanka and India.
 
 ◼️
 
 [Data](articles/c399796a.json)
 
+[Extended Data](ext_articles/c399796a.ext.json)
+
 ---
 
-### ෆේස්බුක් ආධාර කල්ලියක් පෞද්ගලික දත්ත සොරාගැනීමේ ජාවාරමක
+### Facebook aid gang in a personal data stealing racket
 
 *2024-08-13 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199875) · `si`
 
-ෆේස්බුක් ආධාර කණ්ඩායම් ලෙස පෙනී සිටිමින් පුද්ගලයින්ගේ පෞද්ගලික දත්ත සොරකම් කිරීමේ ජාවාරමක් ක්‍රියාත්මක වන බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+Sri Lanka's Computer Emergency Response Team warns against a scam where fraudsters pose as Facebook aid teams to steal personal data. Victims receive messages about temporary Facebook account suspensions and are asked to pay to reactivate them, providing sensitive information in the process. The scam targets business owners of Facebook accounts, urging caution against such deceptive communications.
 
-එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක දමුණුගල මහතා ස සඳහන් කළේ, පසුගිය දින කිහිපය තුළ මේ සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බවය.
+🟩
 
-ෆේස්බුක් ආධාර කණ්ඩායම් ලෙස පෙනී සිටිමින් වට්ස්ඇප් සහ එස්.එම්.එස් පණිවිඩ යොමුකරමින් මෙම ජාවාරම සිදුකරන බව චාරුක දමුණුගල මහතා සඳහන් කළේය.
+The Sri Lanka Computer Emergency Response Team says that a personal database of persons will act as Facebook aid teams.
 
-"ෆේස්බුක් ආධාරක කණ්ඩායම යනුවෙන් ඔබට පණිවිඩයක් ලැබෙන්න පුළුවන් ඔබගේ ෆේස්බුක් ගිණුම හෝ පිටුව තාවකාලිකව අත්හිටුවා ඇති බවට. එය නැවත ලබාගැනීමට ඔවුන් වෙත යම්කිසි මුදලක්... ඒත් එක්කම යම්කිසි පණිවුඩයක් සමග ඔබගේ තොරතුරු යැවිය යුතු බවට යන පණිවුඩයක්... මෙම පණිවුඩය ඔස්සේ ඇත්ත වශයෙන්ම ෆේස්බුක් ලෙස පෙනී සිටිමින් වංචාවක් සිදුකරන බවට අපට පැමිණිලි ලැබිලා තියෙන්නේ.
+Senior Information Security Engineers Charunaka Damunagala has received complaints regarding the last few days.
+
+Tharruka Damunugala said that the racket is being carried out by appearing as Facebook aid teams.
+
+"You may receive a message to the Facebook support team temporarily suspended your Facebook account or page. Some money to get it back.. At the same time, a message to send your information with some message.. This message has complained that Facebook actually appearing as Facebook and makes a fraud.
+
+As a result, if your Facebook page is temporarily suspended or turned off, the WhatsApp will never issue your information or use your information as a message.
 
 ...
 
 [Data](articles/25a3a28e.json)
+
+[Extended Data](ext_articles/25a3a28e.ext.json)
 
 ---
 
@@ -2251,29 +2283,5 @@ Senthil Thondaman also said that the Ceylon Workers Congress has a full contribu
 [Data](articles/29a1d07d.json)
 
 [Extended Data](ext_articles/29a1d07d.ext.json)
-
----
-
-### Rs.. Resolution to provide a salary increase of 1,700
-
-*2024-08-12 14:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-700-சம்பள-உயர்வு-வழங்க-தீர்மானம்/175-342032) · `ta`
-
-A wage-setting council resolved to increase plantation workers' salaries by 1,700 rupees, a decision welcomed by the Eastern Province Governor Senthil Thondaman and supported by President Ranil Wickremesinghe and former Minister Manusha Nanayakkara. This resolution comes after a delay in payment and follows a referral to the High Court for revision.
-
-🟩
-
-The final settlement was reached in a wage -setting council on Monday (12), as plantation workers were delayed in paying a salary of 1700 rupees.. The Media Unit of the Eastern Province Governor has announced that a resolution has been reached by a referendum.
-
-It has been announced that the salary issue has been taken to the High Court and it has been announced that the salary of Rs 1,700 can be revised by the court.
-
-Senthil Thondaman, the Governor of the Eastern Province and the President of the Eastern Province, has thanked President Ranil Wickremesinghe and former Minister Manusha Nanayakkara, who cooperated.
-
-Senthil Thondaman also said that the Ceylon Workers Congress has a full contribution to the Ceylon Workers Congress as a salary of 1,700 rupees for plantation workers.
-
-◼️
-
-[Data](articles/4f79c91d.json)
-
-[Extended Data](ext_articles/4f79c91d.ext.json)
 
 ---

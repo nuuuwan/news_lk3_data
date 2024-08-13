@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 22:55:11**
+As of **2024-08-13 23:07:46**
 
 ## Newspaper Stats
 
-*Scraped **40,563** Articles*
+*Scraped **40,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,732
-adaderanalk | 4,728
+adaderanalk | 4,729
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,163
 virakesarilk | 6,422
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,562 (100.0%) of 40,563 articles have been extended.
+40,563 (100.0%) of 40,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 27 parties join ‘Samagi Bala Sandhanaya’ to support Sajith
+
+*2024-08-13 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101215/27-parties-join-samagi-bala-sandhanaya-to-support-sajith-) · `en`
+
+A total of 27 political parties have entered into a Memorandums of Understanding (MOUs) with the ‘Samagi Bala Sandhanaya’ today (13) in order to support Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
+
+The MOUs were signed by 27 parties including the United People’s Party, the Democratic People’s Congress, and the National Front which are representing the Human Peoples’ Alliance.
+
+Meanwhile, the United Left Front led by President’s Counsel Jayampathy Wickramaratne has also decided to support for Sajith Premadasa in the upcoming election.
+
+◼️
+
+[Data](articles/cf7c5eaf.json)
+
+---
 
 ### The blessing of entrepreneurship Dilith Jayaweera
 
@@ -56,23 +72,29 @@ The Chief Incumbent of the Viharaya was acknowledged that one of the entrepreneu
 
 ---
 
-### விஷ வாயு கசிந்ததில் இருவர் மரணம்
+### Two people die in poisonous gas leak
 
 *2024-08-13 22:02:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷ-வாயு-கசிந்ததில்-இருவர்-மரணம்/175-342115) · `ta`
 
-மாலம்பே, கஹந்தோட்டை வீதி, ஜெயந்தி மாவத்தையில் உள்ள வீடொன்றினுள் விஷ வாயு கசிந்ததில் இருவர் உயிரிழந்துள்ளதாக மாலம்பே பொலிஸார் தெரிவிக்கின்றனர்.
+In Malambe, two individuals died from a chemical reaction releasing toxic fumes. Their bodies are at the Colombo National Hospital's funeral room. The Malampay Police suspect the cause but await identification of the chemicals and further investigation by NUGOD.
 
-உயிரிழந்த இருவரின் சடலங்களும் கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
 
-இவ்வாறு உயிரிழந்த இருவர் சில இரசாயனங்களை கலக்கும்போது நச்சுப் புகை கசிந்ததாலேயே உயிரிழந்திருக்கலாம் என சந்தேகிக்கப்படுவதாக மாலம்பே பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+Two people have been killed in a house in Malambe, Kahantota Road and Jayanthi Mawatha, Malambe police said.
 
-வீட்டில் உள்ள இரசாயனப் பொருட்களை அடையாளம் காண முடியவில்லை எனவும், அந்த நச்சு வாயு இன்னும் வீட்டில் இருப்பதால் விசாரணையை மேற்கொள்வதில் சிரமம் ஏற்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The bodies of the two victims were also kept in the funeral room of the Colombo National Hospital, police said.
 
-சம்பவம் தொடர்பில் நுகேகொடை பொலிஸ் பிரிவுக்குட்பட்ட குற்றப் புலனாய்வுப் பிரிவினர் வந்து விசாரணைகளை மேற்கொண்டனர். R
+A senior official of the Malampay Police said that two people were suspected of being died of toxic smoke while mixing some chemicals.
+
+Police said that the chemicals in the house were not identified and the toxic gas was still at home.
+
+The Criminal Investigation Division (NUGOD) has come to investigate the incident. Remble
 
 ◼️
 
 [Data](articles/ef249f15.json)
+
+[Extended Data](ext_articles/ef249f15.ext.json)
 
 ---
 
@@ -2209,25 +2231,5 @@ Paradise, the latest movie of acclaimed Sri Lankan filmmaker Prasanna Vithanage,
 [Data](articles/c4abb61e.json)
 
 [Extended Data](ext_articles/c4abb61e.ext.json)
-
----
-
-### Cabinet approval to import 3,000MT of raw ginger
-
-*2024-08-13 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101198/cabinet-approval-to-import-3000mt-of-raw-ginger) · `en`
-
-The Cabinet of Ministers has granted approval for the importation of 3,000 metric tons of raw ginger over the next three months, said the Cabinet Spokesperson.
-
-This approval was given based on a joint proposal presented by the Minister of Agriculture and Plantation Industries and the Minister of Trade, Commerce, and Food Security.
-
-During the Cabinet meeting held on July 15, instructions were given to the Secretary of the Ministry of Agriculture and Plantation Industries and the Secretary of the Ministry of Trade, Commerce, and Food Security to jointly explore the possibility of reducing the retail price of ginger to a level affordable to consumers in the local market by facilitating the production of ginger. They were also directed to submit a report with appropriate recommendations in this regard.
-
-Accordingly, based on the recommendations in the report they submitted, the above Cabinet proposal was approved.
-
-◼️
-
-[Data](articles/333d7af4.json)
-
-[Extended Data](ext_articles/333d7af4.ext.json)
 
 ---

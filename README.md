@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 15:55:33**
+As of **2024-08-13 16:09:28**
 
 ## Newspaper Stats
 
-*Scraped **40,501** Articles*
+*Scraped **40,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,453
 dailyftlk | 2,605
-adalk | 3,720
-adaderanalk | 4,718
+adalk | 3,721
+adaderanalk | 4,720
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
-virakesarilk | 6,414
-adaderanasinhalalk | 6,887
+virakesarilk | 6,415
+adaderanasinhalalk | 6,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,500 (100.0%) of 40,501 articles have been extended.
+40,501 (100.0%) of 40,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ஜனாதிபதியை சந்தித்தனர் தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள்
+
+*2024-08-13 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191002) · `ta`
+
+தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள் சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பை ஏற்று திங்கட்கிழமை (12)  மாலை 4 மணியளவில் ஜனாதிபதி செயலகத்தில் தமிழ் ஈழ விடுதலை இயக்கம் சார்பில் அதன் தலைவர் செல்வம் அடைக்கலநாதன், செயலாளர் நாயகம் கோவிந்தன் கருணாகரம் மற்றும் பேச்சாளர் குருசுவாமி சுரேந்திரன் ஆகியோரும்,  ஜனநாயக மக்கள் விடுதலை முன்னணி சார்பில் அதன் தலைவர் தர்மலிங்கம் சித்தார்த்தன், ஜனநாயக போராளிகள் கட்சியின் சார்பில் அதன் தலைவர் வேந்தன் மற்றும் செயலாளர் துளசி ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலிலே,  இந்த சந்திப்புக்கான அழைப்பை ஜனாதிபதி ரணில் விக்ரமசிங்க,  வரும் ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளராக பொதுக் கட்டமைப்பின் உறுப்பினர்களை  சந்திப்பதற்கான அழைப்பினை தனித்தனியாக அரசியல் கட்சிகளுக்கும் பொது அமைப்புகளைச் சார்ந்த பிரதிநிதிகளுக்கும் விடுத்திருந்தார்.
+
+...
+
+[Data](articles/85bcba05.json)
+
+---
+
+### රිය අනතුරකින් පසු එල්ල කළ ප්‍රහාරය
+
+*2024-08-13 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199892) · `si`
+
+හැඳල, වත්තල ප්‍රදේශයේ ත්‍රිරෝද රථයක් හා පාසල් ළමුන් ප්‍රවාහනය කරන වෑන් රථයක් ගැටීමෙන් රිය අනතුරක් සිදුව තිබේ.
+
+අනතුරුව ත්‍රිරෝද රථයේ හිමිකරුගේ පාර්ශ්වය විසින් අදාළ වෑන් රථයේ රියදුරුට පහරදී ඇති අතර ඔහු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබයි.
+
+"ත්‍රී රෝද රථයේ හිටපු කෙනා මගෙන් සල්ලි ඉල්ලන් ගත්තා. මම කියුවා සල්ලි දෙන්න තරම් හානියක් නැහැ නේද කිව්වහම ඒයා කණ්ණාඩිය ගලෝලා එයාම අතින් කඩලා දාලා ඊට පස්සේ සල්ලි ඉල්ලන්න ගත්තා ඊටපස්සෙත් මම ඒත් දෙන්න බැහැ කිව්වහම කෝල් කරලා එයාගේ ළමයි දෙන්නව ගෙන්නලා මට ගැස්සුවා."
+
+◼️
+
+[Data](articles/56129c3e.json)
+
+---
+
+### Special traffic plan in Rajagiriya on Thursday
+
+*2024-08-13 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101205/special-traffic-plan-in-rajagiriya-on-thursday) · `en`
+
+The nominations for the upcoming Presidential Election will be accepted on August 15 from 8 a.m. to 2 p.m. at the Election Secretariat in Rajagiriya.
+
+Accordingly, the police announced that a special traffic plan would be implemented on that day.
+
+◼️
+
+[Data](articles/0f481c8c.json)
+
+---
+
+### Cabinet approves public sector salary revision proposal
+
+*2024-08-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101204/cabinet-approves-public-sector-salary-revision-proposal) · `en`
+
+The Cabinet of Ministers has granted approval for the proposed salary revisions across all sectors of the public service.
+
+An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
+
+The committee engaged with major professional associations of public officials and the broader public sector, analyzed relevant data, and finalized the report.
+
+Based on its recommendations, the Cabinet has approved the President’s proposal to include these salary revisions in the 2025 Budget.
+
+◼️
+
+[Data](articles/1f3e6cb2.json)
+
+---
 
 ### Cabinet approves public sector salary revision proposals for public sector
 
@@ -47,6 +111,8 @@ Based on its recommendations, the Cabinet has approved the President’s proposa
 ◼️
 
 [Data](articles/8f8023b9.json)
+
+[Extended Data](ext_articles/8f8023b9.ext.json)
 
 ---
 
@@ -754,6 +820,22 @@ Meanwhile, the Ministry of Finance has promised to allocate funds based on the e
 
 ---
 
+### ලොරියට යටවී ව්‍යාපාරිකයෙක් මරුට
+
+*2024-08-13 12:23:58* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියට-යටවී-ව්‍යාපාරිකයෙක්-මරුට/11-411343) · `si`
+
+කුඩා ලොරියක් පදවාගෙන බිරිඳ සමග යමින් සිටි ව්‍යාපාරිකයකු මොරගහහේන  වීදියගොඩ දියකඩ මාර්ගයේදී ලොරිය පෙරළී එයට යටවී මියගොස් ඇතැයි මොරගහහේන පොලිසිය කියයි. අනතුරින් මියගිය ව්‍යාපාරිකයාගේ බිරිඳට කිසිදු තුවාලයක් සිදුවී නැත.
+
+අනතුරින් මියගොස් ඇත්තේ වැල්මිල්ල හාලපිටිය පදිංචිව සිටි ආර් ඒ ජිනරත්න නැමැති 67 හැවිරිදි  පුද්ගලයෙකි.
+
+මියගිය ව්‍යාපාරිකයා වීදියගොඩ ප්‍රදේශයේ පවත්වාගෙන යන පලතුරු වෙළඳසැල ඊයේ (12) රාත්‍රී  වසා දමා බිරිඳ සමග ලොරියෙන් නිවස කරා යමින් සිටියදී ලොරි රථය පාලනය කරගත නොහැකිව  මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවෙන් බෑවුමට පෙරළී ලොරියටම යට වී මිය ගොස් ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/d9350df5.json)
+
+---
+
 ### Sri Lanka water tariff cut of up to 10-pct under formula: Minister
 
 *2024-08-13 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-tariff-cut-of-up-to-10-pct-under-formula-minister-176528/) · `en`
@@ -955,6 +1037,12 @@ Russian President Vladimir Putin, who has described Ukraine's attack, has said t
 *2024-08-13 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101198/cabinet-approval-to-import-3000mt-of-raw-ginger) · `en`
 
 The Cabinet of Ministers has granted approval for the importation of 3,000 metric tons of raw ginger over the next three months, said the Cabinet Spokesperson.
+
+This approval was given based on a joint proposal presented by the Minister of Agriculture and Plantation Industries and the Minister of Trade, Commerce, and Food Security.
+
+During the Cabinet meeting held on July 15, instructions were given to the Secretary of the Ministry of Agriculture and Plantation Industries and the Secretary of the Ministry of Trade, Commerce, and Food Security to jointly explore the possibility of reducing the retail price of ginger to a level affordable to consumers in the local market by facilitating the production of ginger. They were also directed to submit a report with appropriate recommendations in this regard.
+
+Accordingly, based on the recommendations in the report they submitted, the above Cabinet proposal was approved.
 
 ◼️
 
@@ -2167,127 +2255,5 @@ The representatives have been informed about the preparations in the Asian Devel
 [Data](articles/7a1f8019.json)
 
 [Extended Data](ext_articles/7a1f8019.ext.json)
-
----
-
-### Mihintale Na Thero stands on Sajith's side
-
-*2024-08-13 07:29:06* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්ත‍ලේ-නා-හිමියෝ-සජිත්ගේ-පැත්තේ-හිට-ගනිති/11-411334) · `si`
-
-Mihintale Na Thero supports Sajith in the upcoming presidential election, aligning with the historical Rajamaha Viharaya and its leaders. The Dhammarathana Leader discussed support strategies with a delegation, including Professor Gamini Ratna and Dunesh Gunatilleke. President Ranil Wickremesinghe is also mentioned for his efforts to improve life in the North and East through education and trade development. The proposal includes addressing basic needs, ensuring religious place preparations, and transferring rights to the Sambuddha Sasana.
-
-🟩
-
-The historical Rajamaha Viharaya, Chief Incumbent of the Historical UPFA presidents to the Presidential candidate and the support of the people of this year's presidential election, the Dhammarathana Leader of the Mihintawalana Viharaya said.
-
-The Leader of the Leaders said this was held at a discussion with the delegation that the delegation was held yesterday (12).
-
-The agreement was made to the leadership letter to the Leadership Thero, Professor Gamini Ratna and Dunesh Gunatilleke, the members of the Intelligence Command.
-
-...
-
-[Data](articles/84483eb9.json)
-
-[Extended Data](ext_articles/84483eb9.ext.json)
-
----
-
-### Sajith's power increases?
-
-*2024-08-13 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199872) · `si`
-
-Sajith Premadasa, the opposition leader, is expected to gain significant support from over 20 political parties for the upcoming presidential election, forming a powerful alliance. The General Secretary of the Jathika Force, Ranjith Madduma Bandara, announced this historic coalition aimed at establishing the strongest presidency ever.
-
-🟩
-
-Nearly 20 other political parties have to join the opposition leader Sajith Premadasa in the next presidential election.
-
-General Secretary of the Jathika Force, Ranjith Madduma Bandara said that the Alliance (UPFA) of the largest parties in the history of the country.
-
-According to the Ranjith Madduma Bandara, another party and other groups will join their alliance.
-
-"On the last morning, a coalition of the country was established. With us, more than 20 other active political parties are allied with us. This continues. For establishing the strongest government in history, we will have space to establish the strongest president. "
-
-◼️
-
-[Data](articles/c4308f57.json)
-
-[Extended Data](ext_articles/c4308f57.ext.json)
-
----
-
-### President's Wedding Rally is Anuradhapura
-
-*2024-08-13 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199871) · `si`
-
-President Ranil Wickremesinghe's election rally in Anuradhapura next Saturday will feature party representatives and supporters. Former Minister Vijith Wijayamuni Soyza has rejoined the Kiranna Society after informing the President. Discussions were held with Tamil parties regarding Northern issues. The New Alliance, including MPs from the Sri Lanka General Front, will back the President on the 16th.
-
-🟩
-
-President Ranil Wickremesinghe's president's election rally is scheduled to be held in Anuradhapura next Saturday.
-
-It is reported that the famil is to be held at the Anuradhapura Salgadu Ground.
-
-Representatives of parties and groups, including the team, to support the President, will participate in this rally.
-
-Meanwhile, former Minister Vijith Wijayamuni Soyza, who served as the Kiran-electoral organizer of the massive presidential election, has joined the Kiranna Society.
-
-It is reported that Vijith Wijayamuni Soyza has informed the President Ranil Wickremesinghe yesterday afternoon.
-
-Meanwhile, a discussion between Tamil parties representing the Northern Province and President Ranil Wickremesinghe has held a discussion yesterday afternoon.
-
-It is reported that the problems of the Tamil people in the North have been discussed at length.
-
-Meanwhile, the New Alliance is due to support President Ranil Wickremesinghe on the 16th.
-
-...
-
-[Data](articles/a7c1b67e.json)
-
-[Extended Data](ext_articles/a7c1b67e.ext.json)
-
----
-
-### Dispute the end of death
-
-*2024-08-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199870) · `si`
-
-In Kotiyagala, a 45-year-old man was murdered with a sharp object due to a personal feud. The incident occurred yesterday morning and led to the arrest of a 27-year-old suspect from the same area.
-
-🟩
-
-In the Kotiyagala area, a person has been assaulted with a sharp instrument.
-
-The murder had been carried out in yesterday morning (12).
-
-The deceased has been identified as a 45 year old resident of Kotiyagala.
-
-The murder had been carried out due to a personal dispute with another priority.
-
-A 27-year-old suspect in the Kotiyaiyagala area has been arrested in the Kotiyaiyagala area.
-
-◼️
-
-[Data](articles/70cd45d5.json)
-
-[Extended Data](ext_articles/70cd45d5.ext.json)
-
----
-
-### The bail is over tomorrow
-
-*2024-08-13 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199869) · `si`
-
-Tomorrow marks the end of the bail period and the deadline for completing the presidential election deposit.
-
-🟩
-
-The deposit of the presidential election is due to be completed tomorrow (14).
-
-◼️
-
-[Data](articles/2059c5fd.json)
-
-[Extended Data](ext_articles/2059c5fd.ext.json)
 
 ---

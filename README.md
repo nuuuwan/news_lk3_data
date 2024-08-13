@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 14:36:32**
+As of **2024-08-13 14:55:50**
 
 ## Newspaper Stats
 
-*Scraped **40,494** Articles*
+*Scraped **40,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,605
 adalk | 3,719
 adaderanalk | 4,716
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,154
+tamilmirrorlk | 5,156
 virakesarilk | 6,413
 adaderanasinhalalk | 6,887
 
@@ -26,23 +26,59 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,482 (100.0%) of 40,494 articles have been extended.
+40,494 (100.0%) of 40,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### 3 தமிழ் எம்.பிக்கள் சஜித்துடன் சந்திப்பு
+### கண்டி மாணவனை காணவில்லை
+
+*2024-08-13 14:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாணவனை-காணவில்லை/76-342104) · `ta`
+
+கண்டி புனித சில்வெஸ்டர் கல்லூரியில் கல்வி கற்கும் 15 வயதுடைய மாணவன் பாடசாலைக்கு சென்று வீடு திரும்பவில்லை என மாணவனின் தாயார் கட்டுகஸ்தோட்டை பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+கட்டுகஸ்தோட்டை ரணவன வீதியை சேர்ந்த மொஹமட் முகறத் முஜாஹித் என்ற மாணவியின் தாயார் செய்த முறைப்பாட்டில் , தனது மகன், திங்கட்கிழமை  (12) பாடசாலைக்கு சென்றுவிட்டு வீடு திரும்பவில்லை என தெரிவித்துள்ளார்.
+
+குறித்த மாணவன் பாடசாலைக்குச் செல்வதாகக் கூறி  திங்கட்கிழமை (12) காலை 6.00 மணியளவில் வீட்டை விட்டுச் சென்றதாகவும் அதன் பின்னர் அவரைப் பற்றிய எந்தத் தகவலும் இல்லை எனவும் தாய் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7d8cc95d.json)
+
+---
+
+### மீண்டும் தாவினார் ”சொக்க மல்லி”
+
+*2024-08-13 14:25:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தாவினார்-சொக்க-மல்லி/175-342103) · `ta`
+
+எதிர்வரும் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதாக முன்னர் அறிவித்திருந்த 'சொக்க மல்லி' எனப்படும் இராஜாங்க அமைச்சர் பிரேமலால் ஜயசேகர, தற்போது தனது ஆதரவை மாற்றியுள்ளார்.
+
+தற்போது ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவிற்கு ஆதரவளிக்கவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/86b26a6f.json)
+
+---
+
+### 3 Tamil MPs meet with Sajith
 
 *2024-08-13 14:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-தமிழ்-எம்-பிக்கள்-சஜித்துடன்-சந்திப்பு/175-342102) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்களான தமிழ் ஈழ விடுதலை இயக்கத்தின் தலைவர் செல்வம் அடைக்கலநாதன்,செயலாளர் நாயகம் கோவிந்தன் கருணாகரம், ஜனநாயக மக்கள் விடுதலை முன்னணியின் தலைவர் தர்மலிங்கம் சித்தார்த்தன் ஆகியோர். ஜனாதிபதி வேட்பாளரும் எதிர்க்கட்சித் தலைவருமான சஜித் ராஜபக்ஷவை, சந்தித்து பேச்சுவார்த்தை நடத்தியுள்ளனர்.
+Tamil MPs from TNA, Tamil Eelam Liberation Movement, and Democratic People's Liberation Front met with Sajith Rajapakse, the opposition leader and presidential candidate, on Tuesday. The discussion took place in the Opposition, following Sajith Premadasa's invitation.
 
-ஜனாதிபதி வேட்பாளரும் எதிர்க் கட்சித் தலைவருமான சஜித் பிரேமதாச அவர்களின் அழைப்பை ஏற்று,   எதிர்க்கட்சி  அலுலகத்தில் இந்த சந்திப்பு, செவ்வாய்க்கிழமை (13) நடைபெற்றது.
+🟩
+
+Tamil National Alliance (TNA) parliamentarians, Tamil Eelam Liberation Movement leader Selvam Adakkalanathan, Secretary General Govindan Karunagaram and Democratic People's Liberation Front leader Dharmalingam Siddharthan. Sajith Rajapakse, the presidential candidate and the leader of the opposition, has held talks.
+
+The meeting was held on Tuesday (13) in the Opposition, accepting the invitation of Presidential candidate and opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/9c9e08c5.json)
+
+[Extended Data](ext_articles/9c9e08c5.ext.json)
 
 ---
 
@@ -64,85 +100,125 @@ The island nation’s more than a century old railway has yet to make breakeven 
 
 [Data](articles/d3db6bd6.json)
 
+[Extended Data](ext_articles/d3db6bd6.ext.json)
+
 ---
 
-### கிரீஸில் காட்டுத் தீ ; ஒருவர் பலி
+### Wild fire in Greece;One killed
 
 *2024-08-13 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190964) · `ta`
 
-கிரீஸ் நாட்டின் தலைநகர் ஏதென்ஸின் சுற்றுவட்டாரப் பகுதிகளில் பரவிய பாரிய காட்டுத் தீயில் சிக்கி ஒருவர் உயிரிழந்துள்ளார்.
+A deadly wildfire near Athens, Greece, has resulted in one fatality and led to the evacuation of thousands. The blaze, which started 35km north of Athens, has destroyed over 100,000 acres and is being fought by more than 700 firefighters. International aid, including aircraft and personnel, has been offered by several countries.
 
-வடக்கு ஏதென்ஸில் உள்ள வ்ரிலிசியா நகரிலுள்ள கடையொன்றில் இருந்து காட்டுத் தீயில் எரிந்த நிலையில்  ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+🟩
 
-ஏதென்ஸின் வடக்கே 35 கிலோ மீற்றர் (22 மைல்) தொலைவில் ஞாயிற்றுக்கிழமை பிற்பகலில் காட்டுத் தீ ஏற்பட்டுள்ளது.
+A man has been killed in a massive wildfire spreading in the surrounding areas of Athens, the capital of Greece.
 
-காட்டுத் தீ வேகமாக பரவி வருவதால் வீடுகள், வணிக நிறுவனங்கள் மற்றும் பாடசாலைகளுக்கு  தீயணைப்பு வீரர்கள் எச்சரிக்கை விடுத்ததை அடுத்து ஆயிரக்கணக்கான மக்கள் வெளியேற்றப்பட்டுள்ளனர்.
+The body of a person has been recovered from a shop in Vrilicia, northern Athens.
 
-700 க்கும் மேற்பட்ட தீயணைப்பு வீரர்கள், 199 தீயணைப்பு இயந்திரங்கள் மற்றும் 35 நீர்குண்டு வீச்சு விமானங்கள் தீயை அணைக்கும் நடவடிக்கையில் ஈடுபட்டுள்ளன.
+A wildfire broke out on Sunday afternoon, 35 km (22 miles) north of Athens.
 
-இரண்டு தீயணைப்பு வீரர்கள் தீக்காயங்களுக்குள்ளாகி சிகிச்சை பெற்றதாக தீயணைப்புத் துறையின் செய்தித் தொடர்பாளர் கர்னல் வசிலியோஸ் வத்ரகோஜியானிஸ் தெரிவித்துள்ளார்.
+Thousands of people have been evacuated after firefighters warned homes, businesses and schools as the wildfire spread rapidly.
+
+Over 700 firefighters, 199 fire trucks and 35 bomb blasts are engaged in extinguishing the fire.
+
+Colonel Vasilios Vadrajojianis said two firefighters were treated for firefighting.
+
+Eyewitnesses say that the fire broke out on Monday, about 82 feet, and the fire broke out at night.
+
+According to Greece National Watch, satellites show that about 100,000 acres of land were destroyed till Monday evening.
+
+This is why people are wearing facial expressions to protect themselves as they are smoking.
+
+Italy offers two aircraft and France and Serbia each helicopter.
 
 ...
 
 [Data](articles/cc0c40f1.json)
 
+[Extended Data](ext_articles/cc0c40f1.ext.json)
+
 ---
 
-### விமல் அணியின் எம்.பி ரணிலுடன் இணைந்தார்
+### Wimal joined the team's MP Ranil
 
 *2024-08-13 13:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-அணியின்-எம்-பி-ரணிலுடன்-இணைந்தார்/175-342100) · `ta`
 
-தேசிய சுதந்திர முன்னணியின் புத்தளம் மாவட்டத் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத் பிரியங்கர ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவைத் தெரிவிக்க ஒன்றிணைந்துள்ளார்.
+Jagath Priyankara, National Freedom Front's Puttalam District President, supports President Ranil Wickremesinghe for the upcoming presidential election. This comes after a meeting between Priyankara and Wickremesinghe. Notably, Wimal Weerawansa, the party's leader and a Member of Parliament, is also backing Wickremesinghe.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்த  ஜகத் பிரியங்கர எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமது ஆதரவை வழங்கவுள்ளதாக தெரிவித்தார்.
+🟩
 
-தேசிய சுதந்திர முன்னணியின் தலைவர் பாராளுமன்ற உறுப்பினர் விமல் வீரவங்ச என்பது குறிப்பிடத்தக்கது.
+National Freedom Front Puttalam District President Jagath Priyankara has united to support President Ranil Wickremesinghe.
+
+Jagath Priyankara, who met President Ranil Wickremesinghe, said he would support his upcoming presidential election.
+
+It is noteworthy that the National Freedom Front leader Wimal Weerawansa is Member of Parliament.
 
 ◼️
 
 [Data](articles/a29ec1c5.json)
 
+[Extended Data](ext_articles/a29ec1c5.ext.json)
+
 ---
 
-### சஜித் பிரேமதாசவுக்கு மிஹிந்தலை மகா விகாரையின் விகாராதிபதி நிபந்தனைகளுடன் ஆதரவு
+### Sajith Premadasa supports the conditions of the Mihintale Maha Vihara
 
 *2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190979) · `ta`
 
-ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவு வழங்குவதாக மிஹிந்தலை மகா விகாரையின் விகாராதிபதி கலாநிதி வலவாஹெங்குனுவெவே தம்மரதன தேரர் தெரிவித்துள்ளார்.
+Dr. Tammaratharata Thera endorses Sajith Premadasa for president, citing his commitment to fulfilling numerous promises under certain conditions.
 
-“நான் எனது தீர்மானத்தை தெரிவித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு  ஆதரவளிக்குமாறு பொதுமக்களை கேட்டுக்கொள்கிறேன். இந்த தீர்மானம் அவர் பல வாக்குறுதிகளை நிறைவேற்றுவார் என்ற  பல நிபந்தனைகளுடன் எடுக்கப்பட்டுள்ளது. இந்த தலைவருக்கு அதிகாரத்தை கொடுத்து அவரை செயல்பட வைப்போம்’ என தம்மரதன தேரர் தெரிவித்துள்ளார்.
+🟩
+
+Dr. Valawahengunuwe Tammaratharata Thera, the Vikramadi of the Mihintale Maha Vihara, has said that he will support opposition leader Sajith Premadasa in the presidential election.
+
+“I urge the public to support Opposition Leader Sajith Premadasa. This resolution is taken with a number of conditions that he will fulfill many promises. "We will give the authority to this leader," he said.
 
 ◼️
 
 [Data](articles/69a20c92.json)
 
+[Extended Data](ext_articles/69a20c92.ext.json)
+
 ---
 
-### வேதனத்தை முன்வைத்து வாக்குகள் சேகரிப்பது வங்குரோத்து அரசியலின் வெளிப்பாடு….!
+### Promoting Votes and Collecting Votes
 
 *2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190986) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசாங்கத்தில் கபினட் அமைச்சராகவும் ஒரு மாகாணத்துக்கு ஆளுநராகவும் இருந்து கொண்டு அதற்குரிய வரப்பிரசாதங்களை அனுபவிக்கும் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளர் மற்றும் தலைவருக்கு வேறு தெரிவுகள் நிச்சயமாக இருந்து விட முடியாது. ஆனால் அவர்கள் பிரதிநிதித்துவப்படுத்தும் மக்களுக்கு இந்த அரசாங்கத்தினால் என்ன கிடைத்தது என்பது தான் தேர்தல் காலத்தில் அவர்கள் முன் வைக்கப்படும் மிகப்பெரிய கேள்வி.
+The General Secretary and Chairman of the Ceylon Workers Congress, holding significant governmental roles, face a critical election question: What benefits has this government delivered to its constituents?
+
+🟩
+
+The General Secretary and Chairman of the Ceylon Workers Congress, who is the Minister of the Kabinet and the Governor of a Province in the government of President Ranil Wickremesinghe, can certainly not be able to make any choices.. But the biggest question they put before the election is what this government has got to the people they represent.
 
 ◼️
 
 [Data](articles/5dd3216e.json)
 
+[Extended Data](ext_articles/5dd3216e.ext.json)
+
 ---
 
-### மட்டக்களப்பு தேற்றாத்தீவில் வாகன விபத்து : இருவர் படுகாயம்
+### Vehicle accident
 
 *2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190987) · `ta`
 
-மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட தேற்றாத்தீவு பிரதான வீதியில் நேற்று திங்கட்கிழமை (12) மாலை இடம்பெற்ற வாகன விபத்து இருவர் படுகாயமடைந்துள்ளனர்.
+A vehicle accident occurred on Thettathivu's main road, involving two motorcycles heading towards Kaluwanchikudi. Two individuals were injured, and the Kaluwanchikudi police are investigating.
 
-களுவாஞ்சிக்குடி  நோக்கி பயணித்த இரு மோட்டார் வண்டிகளும், ஒன்றுடன் ஒன்று பின்பக்கமாக மோதியதில் விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும் , விபத்து தொடர்பான விசாரணையை களுவாஞ்சிகுடி பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+Two persons were injured in a vehicle accident on the main road of Thettathivu, which belongs to the Kaluwanchikudi police division in the Batticaloa district on Monday evening.
+
+Two motorcycles traveling towards Kaluwanchikudi crashed into one another, police said.
+
+In addition, the Kaluwanchikudi police are conducting an investigation into the accident.
 
 ◼️
 
 [Data](articles/8539f425.json)
+
+[Extended Data](ext_articles/8539f425.ext.json)
 
 ---
 
@@ -204,21 +280,27 @@ Accordingly, he has said he will support the present President in the next presi
 
 ---
 
-### ஸ்டார்லிங் இணைய சேவைக்கு தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு அனுமதி
+### Telecommunication Regulatory Commission Allowed for Starling Internet Service
 
 *2024-08-13 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190988) · `ta`
 
-இலங்கையில் செயற்கைக்கோள் தொழில்நுட்பத்தைப் பயன்படுத்தி இணையச் சேவைகளை வழங்குவதற்காக ஸ்டார்லிங்க் தனியார் நிறுவனத்திற்கு   "தொலைத்தொடர்பு சேவை வழங்குநர்" அனுமதித் பத்திரத்தை வழங்க தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது.
+The Telecommunication Regulatory Commission of Sri Lanka has granted Starling Private Company a permit to offer internet services nationwide, leveraging satellite technology similar to SpaceX's Starlink. This decision follows discussions between President Ranil Wickremesinghe and Elon Musk, aiming to expedite the integration of Sri Lanka into the Starlink network. The new service promises significantly faster speeds compared to the current Piper Technology Service, potentially transforming Sri Lanka's tech landscape.
 
-1991 ஆம் ஆண்டின் 25 ஆம் இலக்க இலங்கை தொலைத்தொடர்பு (திருத்தம்) சட்டத்தின் பிரிவு 17 (2) இன் கீழ் இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் (TRCSL) இந்த அனுமதிப் பத்திரம் வழங்கப்பட்டுள்ளதோடு 2024 ஆகஸ்ட் 12 ஆம் திகதி முதல் இந்த அனுமதி  நடைமுறைக்கு வருகிறது.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் உலகப் புகழ்பெற்ற வர்த்தகர் எலான் மஸ்க்கிற்கும் இடையிலான சந்திப்பு அண்மையில் இந்தோனேசியாவில் நடைபெற்றது.  எலான் மஸ்க்கிற்குச் சொந்தமான ஸ்டார்லிங்க் வலையமைப்புடன் இலங்கையை இணைப்பதற்கான விண்ணப்ப செயல்முறையை விரைவுபடுத்துவது குறித்து இதன் போது கலந்துரையாடப்பட்டது.
+The Telecommunication Regulatory Commission has taken steps to issue a "telecommunication service provider" permit to the Starling Private Company to provide internet services in Sri Lanka.
 
-இதன் விளைவாக, செயற்கைக்கோள் தொழில்நுட்பத்தின் மூலம் இலங்கையில் இணைய வசதி சேவைகளை வழங்க ஸ்டார்லிங்க் (Starlink) நிறுவனத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+The permit has been issued by the Sri Lanka Telecom Regulatory Commission (TRCSL) under Section 17 (2) of the Sri Lanka Telecommunication Act No. 25 of 1991 and the permit is being implemented from August 12, 2024.
+
+The meeting between President Ranil Wickremesinghe and the world -renowned businessman Elon Musk was held in Indonesia recently.It was discussed to accelerate the application process for merging Sri Lanka with the Starling Network belonging to Elon Musk.
+
+As a result, Starlink has been approved to provide internet services in Sri Lanka through satellite technology.
 
 ...
 
 [Data](articles/affa9004.json)
+
+[Extended Data](ext_articles/affa9004.ext.json)
 
 ---
 
@@ -285,6 +367,8 @@ The move was initiated after President Wickremesinghe met Musk on the sidelines 
 ...
 
 [Data](articles/9b0a80be.json)
+
+[Extended Data](ext_articles/9b0a80be.ext.json)
 
 ---
 
@@ -386,15 +470,21 @@ The police announced that a special traffic plan is being implemented from 8 am 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-13 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190982) · `ta`
 
-இன்று செவ்வாய்க்கிழமை  (ஆகஸ்ட் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.0812  ஆகவும் விற்பனை விலை ரூபா  304.2751 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On August 13, the US dollar was valued at 295.0812 rupees according to the Central Bank's exchange rate, with a sales price of 304.2751 rupees.
+
+🟩
+
+The US dollar purchasing price was 295.0812, based on the Central Bank's currency exchange rate on Tuesday (August 13) and the sales price were Rs. 304.2751.
 
 ◼️
 
 [Data](articles/c60f8068.json)
+
+[Extended Data](ext_articles/c60f8068.ext.json)
 
 ---
 
@@ -502,25 +592,33 @@ It has also been announced that 7 per cent for household units, including Samurd
 
 ---
 
-### ஈரானின் பதிலடி இவ்வாரம் - வெள்ளை மாளிகை
+### This week of Iran's retaliation - the White House
 
 *2024-08-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190983) · `ta`
 
-இஸ்ரேல் மீது ஈரானும் அதன் ஆதரவு குழுக்களும் இ;வ்வாரம் தாக்குதலை மேற்கொள்ளலாம் என வெள்ளை மாளிகை தெரிவித்துள்ளது.
+In response to potential threats from Iran and its allies, the White House has warned of possible significant attacks on Israel. The U.S. has been bolstering its presence in the region, including sending submarines to the Middle East. This move follows concerns that Iran might retaliate against Israel due to recent assassinations of Hamas and Hezbollah leaders. Despite this, Iran maintains it reserves the right to act against Israel to maintain regional stability.
 
-குறிப்பிடத்தக்க தாக்குதல்களிற்காக நாங்கள் தயாராகயிருக்கவேண்டும் என வெள்ளை மாளிகையின் தேசிய பாதுகாப்பு ஆலோசகர் ஜோன் கேர்பி தெரிவித்துள்ளார்.
+🟩
 
-இதன் காரணமாகவே நாங்கள் கடந்த சில நாட்களாக பிராந்தியத்தில் எனது பிரசன்னத்தை வலுப்படுத்திவருகின்றோம் என அவர் தெரிவித்துள்ளார்.
+The White House said Iran and its support groups could launch an attack on Israel.
 
-ஹமாஸ் தலைவர் ஹெஸ்புல்லா அமைப்பின் தளபதி ஆகியோர் படுகொலை செய்யப்பட்டமைக்கு  பதிலடி கொடுக்கும் விதத்தில் ஈரான் எவ்வேளையிலும் இஸ்ரேல் மீது தாக்குதலை மேற்கொள்ளக்கூடும் என்ற அச்சம் கடந்த சில வாரங்களாக மத்திய கிழக்கில் காண்ப்படுகின்றமை  குறிப்பிடத்தக்கது.
+The White House National Security Advisor John Garphy said we should be prepared for significant attacks.
 
-ஈரான் அடுத்த சில நாட்களில் தாக்குதல்களை மேற்கொள்ளக்கூடும் என தகவல்கள் வெளியாகியுள்ளதை தொடர்ந்து மத்திய கிழக்கிற்குஏவுகணைகளை செலுத்தக்கூடிய நீர்மூழ்கிகளை அனுப்புமாறு அமெரிக்க இராஜாங்க செயலாளர் அன்டனி பிளிங்கென் உத்தரவிட்டுள்ளார்.
+This is why we have been strengthening my presence in the region for the past few days, ”he said.
 
-எவ்35 போர்விமானங்களுடன் கூடிய யுஎஸ்எஸ் ஏபிரஹாம் லி;ங்கனை மத்திய கிழக்கிற்கு வேகமாக செல்லுமாறும் அன்டனி பிளிங்கென் உத்தரவிட்டுள்ளார்
+It is noteworthy that over the past few weeks, the fears that Iran could attack Israel in response to the assassination of Hamas leader Hzbullah Organization.
+
+US Secretary of State Antony Blinken has ordered the sent submarines to the Middle East following reports that Iran could carry out attacks in the next few days.
+
+Antony Plinken has ordered the USS to go to the Middle East with a USS Arabham Li with 35 warriors
+
+Meanwhile, Israeli Defense Minister John, who is in talks with the US Secretary of State, has said that Iran's military issues have revealed a massive attack on Israel.
 
 ...
 
 [Data](articles/0a50046e.json)
+
+[Extended Data](ext_articles/0a50046e.ext.json)
 
 ---
 
@@ -616,15 +714,21 @@ In 1999, Jin made the debut in Delhi. “On the weekends, Lee came to our home a
 
 ---
 
-### 3 ஆயிரம் மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்ய அமைச்சரவை அனுமதி !
+### Cabinet permits to import 3 thousand metric tons of ginger
 
 *2024-08-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190981) · `ta`
 
-எதிர்வரும் மூன்று மாதங்களில் 3,000 மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்வதற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் தெரிவித்துள்ளார்.
+The Cabinet approved importing 3,000 metric tons of ginger over three months.
+
+🟩
+
+The Cabinet spokesman said that the Cabinet has granted permission to import 3,000 metric tons of ginger in the next three months.
 
 ◼️
 
 [Data](articles/a0092325.json)
+
+[Extended Data](ext_articles/a0092325.ext.json)
 
 ---
 
@@ -2151,53 +2255,5 @@ Minister Prasanna Ranatunga, Parliamentarian Vajira Abeywardena and Senior Advis
 [Data](articles/84b4d85d.json)
 
 [Extended Data](ext_articles/84b4d85d.ext.json)
-
----
-
-### How to vote in the election?: The Commission of Elections Commission increases the confusion of the public - Ambika Sakthunanathan
-
-*2024-08-13 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190951) · `ta`
-
-Ambika Sakthunanathan criticizes the Election Commission for confusing the public with unclear instructions on voting, especially regarding preferential votes. She warns against using marks instead of numbers (1, 2, 3) for ranking candidates, as per the Presidential Election Act, emphasizing that such votes could be invalidated.
-
-🟩
-
-Attorney Ambika Chakkunathan has said that the comments and information published by the Election Commission on how to vote in the election is further enhanced by the confusion of the public.
-
-'Our voters are used to the point. So if anyone puts the point on the ballot, we will consider it '1'. Similarly, there is not much clear among the people about the second and third preferential vote, ”the Election Commissioner General Saman Sri Ratnayake said.
-
-It has been stated that the number of preferential votes on the map published with the record can be used as a number 1,2,3, otherwise the first to vote for the candidate who wants to vote and identify the second and third preferential vote 2,3.
-
-Former Commissioner and Lawyer of the Sri Lanka Human Rights Commission, Ambika Sakthunanathan, who has cited the news on its official X site, said, “If our vote is valid, we must vote correctly.
-
-...
-
-[Data](articles/f7d882aa.json)
-
-[Extended Data](ext_articles/f7d882aa.ext.json)
-
----
-
-### Sajith - Prabha Ganeshan will sign the agreement today
-
-*2024-08-13 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190950) · `ta`
-
-Sajith Premadasa, the United People's Power Leader and Presidential candidate, will sign a Memorandum of Understanding with the Humanitarian People's Alliance led by Prabhakanesan tomorrow at 4 PM at the Chinaman Lake Said Hotel in Colombo. The MoU includes 28 leaders from various parties and civil organizations. Despite expressing support for Sajith, Prabha Ganeshan did not attend the signing due to internal conflicts within the United People's Alliance.
-
-🟩
-
-The United People's Power Leader and Presidential candidate Sajith Premadasa will be signed by Prabhakanesan on Tuesday (13) in a memorandum of understanding.
-
-The Memorandum of Understanding (MoU) will be signed between President Sajith Premadasa and the Humanitarian People's Alliance led by Prabhakanesan at four o'clock in the evening at the Chinaman Lake Said Hotel in Colombo.
-
-A total of 28 leaders, including unregistered parties and civil organizations, are signed in the agreement.
-
-The United People's Alliance (UPFA) event was held at the Sugathadasa Indoor Stadium in Colombo. Prabha Ganeshan has expressed his support for Opposition Leader Sajith Premadasa, but did not attend the event that day.. It is noteworthy that Prabha Ganesha did not signed the agreement that day due to internal conflicts in the United People's Alliance.
-
-◼️
-
-[Data](articles/27a178e4.json)
-
-[Extended Data](ext_articles/27a178e4.ext.json)
 
 ---

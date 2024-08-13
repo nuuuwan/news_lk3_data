@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 19:55:04**
+As of **2024-08-13 20:07:33**
 
 ## Newspaper Stats
 
-*Scraped **40,548** Articles*
+*Scraped **40,550** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
-bbccomsinhala | 377
+bbccomsinhala | 378
 colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,460
@@ -18,7 +18,7 @@ dailyftlk | 2,605
 adalk | 3,728
 adaderanalk | 4,726
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,160
+tamilmirrorlk | 5,161
 virakesarilk | 6,421
 adaderanasinhalalk | 6,896
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,548 (100.0%) of 40,548 articles have been extended.
+40,548 (100.0%) of 40,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 36 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்
+
+*2024-08-13 19:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-பேர்-கட்டுப்பணம்-செலுத்தியுள்ளனர்/175-342112) · `ta`
+
+2024 ஜனாதிபதித் தேர்தலுக்காக இதுவரை மொத்தம் 36 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக இலங்கை தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை செலுத்துவதற்கான காலம் நாளை (14) நண்பகல் 12 மணியுடன் நிறைவடையவுள்ளது.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்களை ஏற்றுக்கொள்வது நாளை மறுதினம் (15) காலை 9.00 மணி முதல் 11.00 மணி வரை ஆரம்பமாகவுள்ளது.
+
+வேட்புமனு ஏற்றுக்கொள்ளும் தினத்தன்று இராஜகிரியவில் உள்ள தேர்தல் செயலகத்தில் விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படும் என பொலிஸார் அறிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/17aa2629.json)
+
+---
 
 ### Tanamalvila incident:- Principal, teacher, teachers arrested
 
@@ -68,7 +86,13 @@ The Elections Commission of Sri Lanka says that a total of 36 candidates have pl
 
 This includes 19 candidates representing recognised political parties, 16 independent candidates who have been nominated by a voter and 01 from other political parties.
 
-◼️
+The candidates who have placed deposits within today (13) include the leader of the Mawbima Janatha Party (MJP) and Presidential Candidate of the ‘Sarvajana Balaya’ entrepreneur Dilith Jayaweera, the presidential candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya) Attorney-at-Law Nuwan Bopage, Namal Rajapaksha of the ‘Samabima Party’ and independent candidate Chaminda Anuruddha.
+
+The period for placing deposits for the 2024 Presidential Election is scheduled to end at 12 noon tomorrow (14).
+
+The acceptance of nominations for the upcoming presidential election is scheduled to begin the day after tomorrow (15) from 9.00 a.m. to 11.00 a.m.
+
+...
 
 [Data](articles/1c003bcf.json)
 
@@ -316,6 +340,10 @@ Katunayake airport customs officials are conducting further investigations.
 
 Samagi Jana Balawegaya (SJB) Kalutara District MP Dr. Rajitha Senaratne has met President Ranil Wickremesinghe at the Gangarama Seema Malaka, a short while ago, and pledged his support for the upcoming presidential election.
 
+President Wickremesinghe and MP Senaratne also signed an agreement on the matter during the event.
+
+Speaking to the media, Senaratne said he will work to ensure the victory of President Ranil Wickremesinghe in the 2024 Presidential Election.
+
 ◼️
 
 [Data](articles/301eb3e5.json)
@@ -505,6 +533,8 @@ The four candidates will attend all the 100 campaign meetings and rallies in all
 *2024-08-13 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101207/slpp-mps-supporting-ranil-to-form-new-alliance-minister-proposed-as-gs) · `en`
 
 State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana has been proposed as the General Secretary of the new alliance, which is being formed by the majority of MPs from the Sri Lanka Podujana Peramuna (SLPP).
+
+Meanwhile, the new alliance is scheduled to be unveiled tomorrow (14), Minister Susil Premajayantha told media at a press conference held today.
 
 ◼️
 
@@ -974,7 +1004,7 @@ The committee has recommended that all future recruitments would be made after c
 
 In 2023 Sri Lanka had 1.35 million state workers in 2023, and the salary bill was 939 billion rupees and the pension cost was 372 billion rupees.
 
-The salary hike would cost around 200 billion rupees a year, Minister Gunwardana said.
+The Committee has also recommended that the state worker cadre be reduced to one million by 2030.
 
 ...
 
@@ -1431,6 +1461,28 @@ The world's leading businessman is the Satellite Technology Internet Service of 
 [Data](articles/e539a050.json)
 
 [Extended Data](ext_articles/e539a050.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ජනාධිපතිවරණ ඉතිහාසයේ අමතක නොවන මතක
+
+*2024-08-13 12:52:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn49zd1zdjxo) · `si`
+
+මෙරට 9 වන විධායක ජනාධිපතිවරයා තෝරා පත්කර ගැනීම වෙනුවෙන් පැවැත්වෙන ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම ඇතුළු මූලික කටයුතු මේ වන විට ලහි ලහියේ සිදුවෙමින් පවතී.
+
+1982 වසරේ පැවැත්වූ පළමු ජනාධිපතිවරණයේ සිට අවසන් වරට 2019 වසරේදී පැවති ජනාධිපතිවරණය දක්වා සුවිශේෂී අමතක නොවන සිදුවීම් රැසක් සිදුව ඇති අතර, ඇතැම් සිද්ධි අප්‍රකට ය.
+
+මෙරට ඉතිහාසයේ පළමු වරට 1982 වසරේ පැවති ජනාධිපතිවරණය බොහෝ දෙනාගේ කතාබහට ලක්වූ මැතිවරණයක් විය.
+
+ඊට මුලික හේතුව වූයේ, ශ්‍රී ලංකා නිදහස් පක්ෂයේ නායිකාව මෙන් ම හිටපු අග්‍රාමාත්‍යවරියක වූ සිරිමාවෝ බණ්ඩාරනායකගේ ප්‍රජා අයිතිය අහෝසි කිරීමෙන් පසුව ජනාධිපතිවරණය පැවැත්වීමට කටයුතු සම්පාදනය වීම ය.
+
+ඒ අනුව, 1978 වසරේ පැවති ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනයෙන් ජනාධිපති ධූරයට පත්වූ ජේ.ආර්. ජයවර්ධන වසර දෙකකට පෙර ජනාධිපතිවරණය කැඳවීමට තීරණය කළේ ය.
+
+1982 වසරේ පැවති ජනාධිපතිවරණ නාම යෝජනා භාර ගැනීම එවකට ජනාධිපතිව සිටි ජේ.ආර්. ජයවර්ධනගේ උපන් දිනය දා එනම්, සැප්තැම්බර් මස 17 වන දා සිදු කිරීම විශේෂත්වයක් විය.
+
+...
+
+[Data](articles/b7bfa74b.json)
 
 ---
 
@@ -2183,45 +2235,5 @@ The conductor later revealed that the conductor had later revealed that the cond
 [Data](articles/52d0ecef.json)
 
 [Extended Data](ext_articles/52d0ecef.ext.json)
-
----
-
-### Anura Kumara meets ADB’s Country Director for Sri Lanka
-
-*2024-08-13 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101193/anura-kumara-meets-adbs-country-director-for-sri-lanka) · `en`
-
-Leader of the National People’s Power (NPP) and Member of Parliament Anura Kumara Dissanayake has met with Mr. Takafumi Kadono, the Asian Development Bank’s (ADB) Country Director for Sri Lanka, at the JVP headquarters on Monday (12).
-
-In a post on ‘X’ (formerly Twitter), Dissanayake stated, “We discussed the ongoing development activities being carried out by the Asian Development Bank in Sri Lanka, and Mr. Kadono shared the organization’s continued readiness to provide aid to the country.”
-
-National Executive Member of the National People’s Power (NPP), Mr. Bimal Ratnayake, was also present at the meeting.
-
-◼️
-
-[Data](articles/becead3a.json)
-
-[Extended Data](ext_articles/becead3a.ext.json)
-
----
-
-### Support for Dhammaratna Thera Sajith
-
-*2024-08-13 10:46:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்மரத்ன-தேரர்-சஜித்திற்கு-ஆதரவு/175-342083) · `ta`
-
-Valahagunawewa Dammaratne Thera, chief of the Rajamaha Vihara, announced conditional support for opposition leader Sajith Premadasa in the upcoming presidential election. Despite previous criticism, Thera expressed readiness to back Premadasa if he becomes president, emphasizing the importance of fulfilling campaign promises.
-
-🟩
-
-Valahagunawewa Dammaratne Thera, the chief of the Rajamaha Vihara, said that the opposition leader Sajith Premadasa will be given conditional support in the upcoming presidential election.
-
-Dammaratha Thera, who has been severely criticizing the current government and the opposition leader, said he was ready to support his support if he was elected as the president.
-
-“I urge the public to support this decision and support Sajith Premadasa. But this support must be made with the condition that he will fulfill his promises. We will give this leader and work for him. ”
-
-◼️
-
-[Data](articles/e4bc9da0.json)
-
-[Extended Data](ext_articles/e4bc9da0.ext.json)
 
 ---

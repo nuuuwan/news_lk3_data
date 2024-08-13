@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 11:36:31**
+As of **2024-08-13 11:56:28**
 
 ## Newspaper Stats
 
-*Scraped **40,434** Articles*
+*Scraped **40,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 2,605
 adalk | 3,713
 adaderanalk | 4,711
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,141
+tamilmirrorlk | 5,142
 virakesarilk | 6,394
-adaderanasinhalalk | 6,878
+adaderanasinhalalk | 6,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,431 (100.0%) of 40,434 articles have been extended.
+40,434 (100.0%) of 40,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### අඟහරු ග්‍රහයා මත ද්‍රව ජලය ?
+
+*2024-08-13 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199882) · `si`
+
+අඟහරු ග්‍රහයාගේ ද්‍රව ජලය සහිත ජලාශයක් ඇති බව විද්‍යාඥයින් හඳුනාගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+අඟහරු ග්‍රහයා වෙත නාසා ආයතනය විසින් 2018 දී යැවූ "Insight Lander" නම් යානයෙන් එවූ දත්ත විශ්ලේෂණය මගින් ඒ බව තහවුරු කර ගෙන තිබේ.
+
+මෙම ග්‍රහයාගේ ධ්‍රැවවල අයිස් වූ ජලය සහ වායුගෝලයේ වාෂ්ප තිබීම පිළිබඳ සාක්ෂි තිබූ අතර මෙම ග්‍රහලෝකයේ ද්‍රව ජලය හඳුනාගත් පළමු අවස්ථාව මෙය වෙයි.
+
+◼️
+
+[Data](articles/63fcad1f.json)
+
+---
+
+### திலித் ஜயவீரவுக்கான கட்டுப்பணம் செலுத்தப்பட்டது
+
+*2024-08-13 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342087) · `ta`
+
+2024 ஜனாதிபதித் தேர்தலில் சர்வஜன சக்தி கூட்டணியின் ஜனாதிபதி வேட்பாளராக  போட்டியிடும் திலித் ஜயவீரவுக்கான கட்டுப்பணம்  வைப்பிலிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d69100d8.json)
+
+---
 
 ### 45-year-old hacked to death over personal dispute
 
@@ -50,25 +78,33 @@ A 27-year-old resident of Kotiyalgala has been arrested in connection with the m
 
 [Data](articles/24c521af.json)
 
+[Extended Data](ext_articles/24c521af.ext.json)
+
 ---
 
-### විදෙස් ගමන නතරකළ අනතුර
+### Dissathi Vidyalaya
 
 *2024-08-13 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199881) · `si`
 
-නවතා තිබු මගී ප්‍රවාහන බස් රථයක ත්‍රිරෝද රථයක් ගැටි සිදුවු මාරක අනතුරකින් තිදෙනෙකු බරපතළ තුවාල ලබා හලාවත මහ රෝහලට ඇතුළු කළ බව මුන්දලම පොලීසිය පැවසීය.
+In a tragic accident involving a three-wheeler and a passenger car, two residents of Karakattiya, Madurankuliya, were seriously injured and hospitalized. The incident occurred when the three-wheeler, en route to Katunayake airport, collided with a private passenger bus near Mundalama Hospital. The driver and another occupant of the three-wheeler were treated at Mundalama Hospital.
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ ත්‍රිරෝද රථයෙ ගමන් ගත් මදුරන්කුලිය කරිකට්ටිය ප්‍රදේශයේ පදිංචිකරුවන් පිරිසකි.
+🟩
 
-විදේශ රැකියාවක් සඳහා පිටත් වීමට කටුනායක ගුවන්තොටුපොළ වෙත යමින් සිටි අයෙක්ව රැගෙන යමින් තිබූ ත්‍රිරෝද රථයක් මෙලෙස බස් රථයෙ ගැටි අනතුරට ලක්වි තිබුණි.
+Three-wheeler injured in a three-wheeler in a passenger car parked on a three-wheeler injury was admitted to the Chilaw General Hospital.
 
-පොලීසිය පවසන්නේ පුත්තලම සිට හලාවත දක්වා ගමන් කර තිබු පුද්ගලික මගී ප්‍රවාහන බස් රථයක් මගීන් නංවා ගැනිමට මුන්දලම රෝහල ඉදිරිපිට නවතා තිබියදී පසුපසින් පැමිණි මෙම ත්‍රිරෝද රථය එම බස් රථයේ ගැටී ඇති බවයි.
+The victims were residents of Karakattiya area in Madurankuliya area.
 
-ත්‍රිරෝද රථ රියදුරා, විදේශ රටකට යාම සදහා ගමන් කරමින් සිටි පුද්ගලයා සහ තවත් අයෙක් බරපතළ තුවාල සහිතව  මුන්දලම රෝහලට ඇතුළුකර තිබූ අතර පසුව ඔවුන්ව හලාවත මහ රෝහලට යැවිමට කටයුතු කර තිබුණි.
+A three-wheeler carrying a three-wheeler carrying to Katunayake airport was crashed into the Katunayake Airport.
+
+Police say that the three-wheeler was trailing in front of the Mundalama Hospital to promote a private passenger bus which was traveled from Puttalam to Chilaw.
+
+The three-wheeler driver and another were admitted to the Mundalama Hospital with serious injuries.
 
 ◼️
 
 [Data](articles/be35b603.json)
+
+[Extended Data](ext_articles/be35b603.ext.json)
 
 ---
 
@@ -218,21 +254,29 @@ When Yuvati went outside the house, the young man came and called him and he had
 
 ---
 
-### காதலியை தேடிச் சென்ற தந்தை சடலமாக மீட்பு
+### Father's body recovery
 
 *2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தை-சடலமாக-மீட்பு/175-342082) · `ta`
 
-நீர்கொழும்பில் இருந்து சிலாபம் தொடுவா பிரதேசத்திற்கு தனது 19 வயதுடைய காதலியை தேடிச் சென்ற 30 வயதுடைய இளைஞனின் சடலம் குறித்த பகுதியில் உள்ள பாழடைந்த கிணற்றில் இருந்து மீட்கப்பட்டதாக தொடுவா பொலிஸார் தெரிவித்தனர்.
+In Negombo, the body of 30-year-old Samith Madusanga, who was searching for his 19-year-old girlfriend in Chilaw, was found in a well near Tutuva. Madusanga, from Harichandra Pur, Tibirigaskatuwa, was looking for his girlfriend, who was involved in a romantic relationship with a married man. The girl's parents, aware of her affair, had moved to Mahaveva Thoduwa. When Madusanga arrived to confront them, he fell into the well and died.
 
-நீர்கொழும்பு, திபிரிகஸ்கட்டுவ ஹரிச்சந்திர புர பிரதேசத்தை சேர்ந்த சமித் மதுசங்க என்ற இளைஞனே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார் .
+🟩
 
-ஒரு பிள்ளையின் தந்தையான குறித்த நபர் தனது மனைவியை பிரிந்து வாழ்ந்து வந்த நிலையில் அவர் வசித்து வந்த அதே பகுதியில் உள்ள 19 வயது இளம்பெண் ஒருவருடன் காதல் உறவில் ஈடுபட்டுள்ளார்.
+The body of a 30 -year -old youth who was searching for his 19 -year -old girlfriend from Negombo to Chilaw, was recovered from a dilapidated well in the area, Tutuva police said.
 
-தங்களுடைய மகள் திருமணமான ஒருவருடன் காதல் உறவில் ஈடுபட்டு வருவதை அறிந்த குறித்த பெண்ணின் பெற்றோர்கள் மகளை, மஹவெவ தொடுவா பிரதேசத்தில் உள்ள உறவினரின் வீட்டில் தங்க வைத்துள்ளனர் . இது தொடர்பாக தகவல் அறிந்த இளைஞன் கடந்த 10ஆம் திகதி இரவு தனது காதலியை தேடி அவர் தங்கி இருந்த வீட்டருகில் சென்று மறைவாக இருந்துள்ளார் .
+Samith Madusanga, a young man from the Harichandra Pur, Tibirigaskatuwa, Negombo, has been recovered.
 
-...
+A 19 -year -old teenager in the same area where he lived in a romantic relationship with a child of a child's father is living in love with his wife.
+
+The parents of the woman, who knew that their daughter had a romantic relationship with a married man, stayed at the relative's house in Mahaveva Thoduwa area.. The young man was informed about this and went to the house where he was staying in search of his girlfriend on the night of the 10th.
+
+Relatives of the woman told the police that the young man had come out when he came out of the house and he had called him and he had heard the noise of some of the neighbors falling in a nearby well when some of the young people were chased away to catch the young man.
+
+◼️
 
 [Data](articles/de0ef7e9.json)
+
+[Extended Data](ext_articles/de0ef7e9.ext.json)
 
 ---
 
@@ -2231,53 +2275,5 @@ Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has assigned DFCC Bank 
 [Data](articles/ce408c0d.json)
 
 [Extended Data](ext_articles/ce408c0d.ext.json)
-
----
-
-### Four fifth MP to Ranil
-
-*2024-08-12 17:17:36* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-පොහොට්ටු-මන්ත්‍රී-පහෙන්-හතරක්-රනිල්ට/11-411330) · `si`
-
-At a meeting chaired by Housing Minister Prasanna Ranatunga, several MPs including AP Jagath Pushpakumara and Vijitha Bandara, along with former Uva Provincial Councillors, endorsed Ranil Wickremesinghe for the presidential election. The event took place on the Wellawaya road, emphasizing the importance of this location in the decision-making process.
-
-🟩
-
-The Wellawaya road in Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road in the Wellawaya road to the presidential election was decided to hand over the Sri Lanka Front.
-
-The meeting was held under the patronage of Housing and Urban Development Minister Prasanna Ranatunga.
-
-State Minister AP Jagath Pushpakumara Padala Primary Education Minister AP Jagath Pushpakumara Padaya Director of State Coordinating Committee of Parliament Vijitha Banagaha, MPs, MP Vijitha Banagaha, MP Gayzaran Navananda expressed their support.
-
-Former members of the Uva Provincial Councilors in the Uva Provincial Councils including Vice Chairmen, including Vice Chairmen, attended the victory of Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/6da3ce63.json)
-
-[Extended Data](ext_articles/6da3ce63.ext.json)
-
----
-
-### New Zealand Test team coming to Sri Lanka
-
-*2024-08-12 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199861) · `si`
-
-The New Zealand cricket team, led by Tim, will tour Sri Lanka next month. The 15-member squad includes Tom Blondel, Michael Bresco, Darn Philips, Ruching Ravindra, Ben Sears, Kane Williamson, and Lill Young. They'll play two Tests at the Galle International Cricket Grounds on September 18 and 26.
-
-🟩
-
-The New Zealand Test squad that is to travel in Sri Lanka next month has been named.
-
-Tim had been named for the leadership of the 15 players.
-
-The other players in the squad are Tom Blondle, Michael Bresco, Darn Philips, Ruching Ravindra, Ben Sears, Kane Williamson and Lill Young
-
-The two Tests will commence on September 18 and 26 the Galle International Cricket Grounds.
-
-◼️
-
-[Data](articles/3ba3dbe8.json)
-
-[Extended Data](ext_articles/3ba3dbe8.ext.json)
 
 ---

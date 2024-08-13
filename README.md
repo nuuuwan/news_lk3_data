@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 10:08:08**
+As of **2024-08-13 10:21:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,410 (100.0%) of 40,414 articles have been extended.
+40,414 (100.0%) of 40,414 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint mil
 
 [Data](articles/2e9f63c6.json)
 
+[Extended Data](ext_articles/2e9f63c6.ext.json)
+
 ---
 
 ### More than 47,000 people died in Europe last year due to heat, report says
@@ -63,6 +65,8 @@ The 2023 death toll - below the more than 60,000 heat-related deaths estimated f
 ...
 
 [Data](articles/c83ce411.json)
+
+[Extended Data](ext_articles/c83ce411.ext.json)
 
 ---
 
@@ -111,6 +115,8 @@ Thus, general public is kindly requested to take adequate precautions to minimiz
 ◼️
 
 [Data](articles/ea8e4e28.json)
+
+[Extended Data](ext_articles/ea8e4e28.ext.json)
 
 ---
 
@@ -256,23 +262,31 @@ As a result, if your Facebook page is temporarily suspended or turned off, the W
 
 ---
 
-### රාජිත අද පස්වරුවේ රනිල් ළඟට යයි
+### Rajitha returns to Ranil this afternoon
 
 *2024-08-13 07:41:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-අද-පස්වරුවේ-රනිල්-ළඟට-යයි/11-411335) · `si`
 
-හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දීමට එක්වීමේ සූදානමක් පවතින බව ඒ මහතා ගේ සමීපතම දේශපාලන ප්‍රකාශකයෙක්  පැවසීය .
+Rajitha Senaratne plans to join President Ranil Wickremesinghe, as discussed in a meeting in Panadura. He'll receive an official statement about his involvement in religious activities at Gangarama Viharaya today. Political sources indicate support for Senaratne's potential return, despite associations with opposition leader Sajith Premadasa.
 
-ඒ පිළිබඳ  ජනාධිපති වරයාගේ පාර්ශවයෙන් විශේෂ නියෝජිතයකු සමග හිටපු අමාත්‍ය වරයාගේ සමීපතමයන්ද ඊයේ (12) රාත්‍රි යේ පානදුර ප්‍රදේශයේ විශේෂ සාකච්ඡාවක් පැවැත්වූ  බවද හෙතෙම පැවසීය.
+🟩
 
-හිටපු අමාත්‍ය වරයා අද (13) පස්වරුවේ කොළඹ ගංගාරාම විහාරස්ථානයේදී ආගමික වතාවත් ඉටුකිරිමෙන් පසු ඒ සම්බන්ධයෙන් නිළ ප්‍රකාශයක් ලබාදීමට නියමිත බව වාර්ථාවේ.
+He said that former Minister Rajitha Senaratne is planning to join President Ranil Wickremesinghe.
 
-එම අවස්ථාවට කළුතර දිස්ත්‍රික්කය නියෝජනය කල හිටපු පළාත් පාලන නියෝජිතයින් පිරිසක්ද සහභාගි වීමට සූදානම්ව සිටින බවද සදහන් වේ.
+He added that a special discussion was held in Panadura yesterday (12), the close discussion of former minister with a special representative from the president.
 
-පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න මහතා  පසුගිය මහ මැතිවරණයේදී සමගි ජන බලවේගය නියෝජනය කරමින් කළුතර දිස්ත්‍රික්කයේ තේරී පත්වූ මන්ත්‍රී වරුන් දෙදෙනාගෙන් කෙනෙකි.
+The former Minister will be given a official statement regarding the event of the religious activities at the Gangarama Viharaya in Colombo this afternoon.
 
-...
+It is also said that a group of former local government representatives representing the Kalutara district are being prepared.
+
+Rajitha Senaratne is one of the two elected MPs in Kalutara district representing the reconciliation force at the last general election.
+
+Political sources say that the political activists associated with the opposition leader Sajith Premadasa will not hinder the victory of the former Minister Sajith Premadasa.
+
+◼️
 
 [Data](articles/14d4a9be.json)
+
+[Extended Data](ext_articles/14d4a9be.ext.json)
 
 ---
 

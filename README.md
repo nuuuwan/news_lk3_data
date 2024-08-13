@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 08:55:33**
+As of **2024-08-13 09:07:40**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,405 (100.0%) of 40,406 articles have been extended.
+40,406 (100.0%) of 40,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### சூடானில் மோதல்: 28 போ் பலி
+### Conflict in Sudan: 28 Po Kills
 
 *2024-08-13 08:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சூடானில்-மோதல்-28-போ்-பலி/50-342071) · `ta`
 
-சூடானின் வடக்கு டாா்பா் மாகாணத்தில் இராணுவத்துக்கும் துணை இராணுவத்துக்கும் இடையே நடைபெற்ற மோதலில் 28 போ் உயிரிழந்துள்ளனர்.
+In Sudan's North Dabh province, a clash between military and paramilitary forces resulted in 28 civilian deaths, allegedly caused by the ARSF paramilitary in El Basasar. This conflict, ongoing since April last year, has also led to numerous injuries and fatalities.
 
-மாகாணத் தலைநகா் எல் பாஷரில் ஆா்.எஸ்.எப் துணை இராணுவப் படை நடத்திய இந்தத் தாக்குதலில் பொதுமக்கள் 28 போ் உயிரிழந்துடன் 46 போ் காயமடைந்ததாகவும் தெரிவிக்கப்படுகிறது.
+🟩
 
-கடந்த ஆண்டு ஏப்ரல் மாதம் முதல் இரு படைகளுக்கும் இடையே மோதல் நடைபெற்றுவருகிறது. இதில் இதுவரை சுமாா் 15,000 போ் வரை உயிரிழந்துள்ளனர் என தெரிவிக்கப்படுகிறது. (a)
+28 people have been killed in a clash between the military and the paramilitary in Sudan's North Dabh province.
+
+The attack was carried out by the ARSF paramilitary forces in the provincial capital, El Basasar, and was reportedly injured by 28 civilians.
+
+There has been a clash between two forces since April last year. It is reported that Suma has died so far. (A)
 
 ◼️
 
 [Data](articles/05eebed8.json)
+
+[Extended Data](ext_articles/05eebed8.ext.json)
 
 ---
 

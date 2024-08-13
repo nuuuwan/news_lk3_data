@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 17:21:19**
+As of **2024-08-13 17:36:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,513 (100.0%) of 40,517 articles have been extended.
+40,517 (100.0%) of 40,517 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,35 +42,49 @@ Samagi Jana Balawegaya (SJB) Kalutara District MP Dr. Rajitha Senaratne has met 
 
 [Data](articles/301eb3e5.json)
 
+[Extended Data](ext_articles/301eb3e5.ext.json)
+
 ---
 
-### රාජිත ජනපතිට සහාය පළ කරයි
+### Rajitha supports President
 
 *2024-08-13 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199894) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න මහතා ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව පවසයි.
+MP Rajitha Senaratne pledges support for President Ranil Wickremesinghe, citing confidence in the current administration's economic policies.
 
-මන්ත්‍රීවරයා පවසා ඇත්තේ වත්මන් ජනාධිපතිවරයා ඇතුළු ආණ්ඩුව ගෙන යන ආර්ථික වැඩපිළිවෙළ අඛණ්ඩව ගෙන යා යුතු බව තමන් විශ්වාස කරන බවය.
+🟩
+
+MP Rajitha Senaratne says he will support President Ranil Wickremesinghe in the next presidential election.
+
+The MP has said that he believes that the present President and the government should continue the economic program.
 
 ◼️
 
 [Data](articles/5faf9152.json)
 
+[Extended Data](ext_articles/5faf9152.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායම සමග සුපිරි පුහුණුකරුවෙක් එක්වෙයි
+### Super Trainer to join Sri Lanka
 
 *2024-08-13 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199895) · `si`
 
-එංගලන්ත හිටපු ටෙස්ට් ක්‍රීඩක ඉයන් බෙල් ව එළඹෙන එංගලන්ත සංචාරය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස පත් කර තිබේ.
+Ian Bell, former England cricketer, joins Sri Lanka's team as a batting consultant for their upcoming three-match Test series against England, starting August 16. With 7727 runs in 118 Tests for England, Bell brings extensive experience to the Sri Lankan squad.
 
-ඔහු කණ්ඩායම සමග අගෝස්තු 16 වනදා සිට තරග 3කින් සමන්විත ටෙස්ට් තරගාවලිය නිම වන තෙක් කටයුතු කරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+🟩
 
-එංගලන්තය වෙනුවෙන් ටෙස්ට් තරග 118කට ක්‍රීඩා කර ඇති බෙල් එහිදී රැස් කර ඇති ලකුණු සංඛ්‍යාව 7727කි.
+Former England Ian Bell, Sri Lankan team has been appointed as the Bathirantic Trainer of the Sri Lankan team to visit England.
+
+Sri Lanka Cricket announced that he would work with the team with the three-match Test series from August 16.
+
+7727 runs for 118 Tests for England have been scored there.
 
 ◼️
 
 [Data](articles/c80c6f69.json)
+
+[Extended Data](ext_articles/c80c6f69.ext.json)
 
 ---
 
@@ -1651,6 +1665,8 @@ Dilith Jayaweera who owns the Derana TV network, is a candidate for the presiden
 ...
 
 [Data](articles/71df69b5.json)
+
+[Extended Data](ext_articles/71df69b5.ext.json)
 
 ---
 

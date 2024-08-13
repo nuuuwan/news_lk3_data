@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 16:21:13**
+As of **2024-08-13 16:37:01**
 
 ## Newspaper Stats
 
-*Scraped **40,509** Articles*
+*Scraped **40,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,721
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
-adaderanasinhalalk | 6,888
+adaderanasinhalalk | 6,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,506 (100.0%) of 40,509 articles have been extended.
+40,509 (100.0%) of 40,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ඇෆ්ගන් සහ පාකිස්තාන හමුදා අතර ගැටුමක්
+
+*2024-08-13 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199893) · `si`
+
+පාකිස්තාන සහ ඇෆ්ගනිස්තාන හමුදා අතර දේශසීමාවේ දී ඇතිවූ වෙඩි හුවමාරුවකින් ඇෆ්ගන් සිවිල් වැසියන් තිදෙනෙක් මියගොස් තිබේ.
+
+තලිබාන් ප්‍රකාශකයෙක් ඒ බව පැවසූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+
+දෙරටේ දේශසීමාවේ පිහිටා ඇති Torkham නම් ප්‍රදේශයේදී එම ගැටුම සිදුවී තිබුණි.
+
+තලිබාන් ප්‍රකාශකයා පවසා ඇත්තේ පාකිස්තාන හමුදා ප්‍රහාරයෙන් කාන්තාවක් සහ දරුවන් දෙදෙනෙක් මියගොස් ඇති බවයි.
+
+මේ අතර පාකිස්තාන හමුදා ප්‍රකාශකයෙක් පැවසුවේ ඉන් සිය හමුදා භටයින් තිදෙනෙක් තුවාල ලැබූ බවයි.
+
+◼️
+
+[Data](articles/f3306e02.json)
+
+---
 
 ### More Indian hospitals hit by doctors’ protest against alleged rape and murder
 
@@ -47,6 +67,8 @@ In the capital, New Delhi, junior doctors wearing white coats held posters that 
 ...
 
 [Data](articles/aa2f5fd2.json)
+
+[Extended Data](ext_articles/aa2f5fd2.ext.json)
 
 ---
 
@@ -2251,29 +2273,5 @@ Political sources say that the political activists associated with the oppositio
 [Data](articles/14d4a9be.json)
 
 [Extended Data](ext_articles/14d4a9be.ext.json)
-
----
-
-### A person who went to crossed with her will be hit
-
-*2024-08-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199874) · `si`
-
-A 35-year-old from Divuldeniya drowned near Kelampitiya while trying to cross Ma Oya. The body is at Wathupitiwala hospital, with Naval police investigating.
-
-🟩
-
-A person drowned in the Molamitiya area in Kelampitiya area.
-
-The deceased has been identified as a 35 year old resident of Divuldeniya.
-
-Police say that investigations have been revealed that the deceased was going to crossing Ma Oya to cross the man, police said.
-
-The body has been placed at the Wathupitiwala hospital morgue and Naval police are conducting further investigations.
-
-◼️
-
-[Data](articles/d8b5de1a.json)
-
-[Extended Data](ext_articles/d8b5de1a.ext.json)
 
 ---

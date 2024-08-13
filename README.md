@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 02:06:22**
+As of **2024-08-14 02:21:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,576 (100.0%) of 40,578 articles have been extended.
+40,578 (100.0%) of 40,578 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -406,6 +406,8 @@ Speaking to President Ranil Wickremesinghe has decided to support President Rani
 
 [Data](articles/cc51bca0.json)
 
+[Extended Data](ext_articles/cc51bca0.ext.json)
+
 ---
 
 ### 27 other parties in Sajith's support
@@ -459,6 +461,8 @@ Corruption in Sri Lanka, rooted in colonial times, persisted post-independence w
 ...
 
 [Data](articles/2ba002cd.json)
+
+[Extended Data](ext_articles/2ba002cd.ext.json)
 
 ---
 

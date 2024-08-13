@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 01:55:28**
+As of **2024-08-14 02:06:22**
 
 ## Newspaper Stats
 
-*Scraped **40,576** Articles*
+*Scraped **40,578** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 378
-colombotelegraphcom | 387
+colombotelegraphcom | 389
 islandlk | 2,345
 economynextcom | 2,462
 dailyftlk | 2,614
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,576 (100.0%) of 40,576 articles have been extended.
+40,576 (100.0%) of 40,578 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -398,6 +398,16 @@ Speaking to President Ranil Wickremesinghe has decided to support President Rani
 
 ---
 
+### Far Right Violence In The UK: Migrants Not The Key Issue; Islamophobia Is!
+
+*2024-08-13 20:20:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/far-right-violence-in-the-uk-migrants-not-the-key-issue-islamophobia-is/) · `en`
+
+...
+
+[Data](articles/cc51bca0.json)
+
+---
+
 ### 27 other parties in Sajith's support
 
 *2024-08-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199901) · `si`
@@ -437,6 +447,18 @@ The Customs officers are conducting further investigations into the incident.
 [Data](articles/fd3fb229.json)
 
 [Extended Data](ext_articles/fd3fb229.ext.json)
+
+---
+
+### Navigating Crisis: The Urgent Need For Reform Through Integrity & Leadership In Sri Lanka
+
+*2024-08-13 20:04:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-crisis-the-urgent-need-for-reform-through-integrity-leadership-in-sri-lanka/) · `en`
+
+Corruption in Sri Lanka, rooted in colonial times, persisted post-independence with power concentrated among elites. The 1978 establishment of the executive presidency intensified nepotism and corruption, which became institutionalized over time. Scandals like the 2015 Central Bank bond scam underscore the challenges in holding powerful figures accountable.
+
+...
+
+[Data](articles/2ba002cd.json)
 
 ---
 
@@ -2151,57 +2173,5 @@ Rs.
 [Data](articles/1ff1d54e.json)
 
 [Extended Data](ext_articles/1ff1d54e.ext.json)
-
----
-
-### Correction in the cyst
-
-*2024-08-13 12:32:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்க்கட்டணத்தில்-திருத்தம்/175-342093) · `ta`
-
-Starting August 1, 2023, the National Water Supply and Drainage Board will enforce a revised fee structure. Following the Ceylon Electricity Board's tariff reduction from July 16, 2024, due to decreased costs in fuel, chemicals, and interest rates, the government decided to lower water bills. Specifically, household unit charges will decrease by 7%, benefiting Samurdhi recipients, urban plantation dwellers, state hospitals by 4.5%, and schools and religious sites by 6.3%.
-
-🟩
-
-The National Water Supply and Drainage Board will be implemented on the start of 2023.08.01. At the Cabinet meeting held on 2024.07.15 to implement the fee policy and formula for reviewing the fees.
-
-Considering that the Ceylon Electricity Board (CEB) has reduced the electricity tariffs since 2024.07.16, it is possible to reduce the cyst at some rate, considering the decline in fuel, chemicals and interest.. Accordingly, the Cabinet has approved the proposal submitted by the Minister of Water Supply and Estate Infrastructure to revise the cysts.
-
-It has also been announced that 7 per cent for household units, including Samurdhi beneficiaries and urban plantation houses, will be reduced by 4.5 per cent for state hospitals and 6.3 per cent for schools and places of worship.
-
-◼️
-
-[Data](articles/376efd0a.json)
-
-[Extended Data](ext_articles/376efd0a.ext.json)
-
----
-
-### This week of Iran's retaliation - the White House
-
-*2024-08-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190983) · `ta`
-
-In response to potential threats from Iran and its allies, the White House has warned of possible significant attacks on Israel. The U.S. has been bolstering its presence in the region, including sending submarines to the Middle East. This move follows concerns that Iran might retaliate against Israel due to recent assassinations of Hamas and Hezbollah leaders. Despite this, Iran maintains it reserves the right to act against Israel to maintain regional stability.
-
-🟩
-
-The White House said Iran and its support groups could launch an attack on Israel.
-
-The White House National Security Advisor John Garphy said we should be prepared for significant attacks.
-
-This is why we have been strengthening my presence in the region for the past few days, ”he said.
-
-It is noteworthy that over the past few weeks, the fears that Iran could attack Israel in response to the assassination of Hamas leader Hzbullah Organization.
-
-US Secretary of State Antony Blinken has ordered the sent submarines to the Middle East following reports that Iran could carry out attacks in the next few days.
-
-Antony Plinken has ordered the USS to go to the Middle East with a USS Arabham Li with 35 warriors
-
-Meanwhile, Israeli Defense Minister John, who is in talks with the US Secretary of State, has said that Iran's military issues have revealed a massive attack on Israel.
-
-...
-
-[Data](articles/0a50046e.json)
-
-[Extended Data](ext_articles/0a50046e.ext.json)
 
 ---

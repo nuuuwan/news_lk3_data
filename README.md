@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 15:21:05**
+As of **2024-08-13 15:36:37**
 
 ## Newspaper Stats
 
-*Scraped **40,498** Articles*
+*Scraped **40,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,342
 economynextcom | 2,453
 dailyftlk | 2,605
 adalk | 3,720
-adaderanalk | 4,716
+adaderanalk | 4,717
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
-virakesarilk | 6,413
+virakesarilk | 6,414
 adaderanasinhalalk | 6,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,498 (100.0%) of 40,498 articles have been extended.
+40,498 (100.0%) of 40,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ‘சமூக நலனை முன்னிறுத்தியே மக்கள் காங்கிரஸ் முடிவெடுக்கும்’ - ரிஷாட் பதியுதீன்
+
+*2024-08-13 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190998) · `ta`
+
+சமூகங்களின் நலனை முன்னிறுத்தியே அகில இலங்கை மக்கள் காங்கிரஸ் பொருத்தமான முடிவொன்றினை மேற்கொள்ளுமென மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் தெரிவித்தார்.
+
+“ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளருக்கு ஆதரவு வழங்க வேண்டும்?” என்பது தொடர்பில், கடந்த 10,11,12 ஆகிய தினங்களில் வடக்கு, கிழக்கில் இடம்பெற்ற, மக்களின் கருத்துக்களைக் கேட்டறியும் கலந்துரையாடல்களின் போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+“தலைமையுடன் நட்பையும் உறவுகளையும் கொண்டிருப்பதைக் காரணமாக வைத்து எந்தவொரு ஜனாதிபதி வேட்பாளருக்கும் ஆதரவு வழங்க முடியாது. சுமார் நான்கரை வருடகால ஆட்சியில் நமது சமூகம் எதிர்கொண்ட இன்னல்களை நாம் மறந்துவிட முடியாது. அதேபோன்று, எதிர்க்கட்சியில் நாம் இருந்தவேளை, கட்சியின் ஆதரவாளர்களுக்கும் தலைமைக்கும் ஏற்படுத்திய துன்பங்கள் மறக்கமுடியாதவை.
+
+...
+
+[Data](articles/e3f8521e.json)
+
+---
+
+### Over 29 election-related complaints received within 24 hours - EC
+
+*2024-08-13 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101203/over-29-election-related-complaints-received-within-24-hours-ec) · `en`
+
+The Election Commission of Sri Lanka says that a total of 29 complaints have been received within the last 24 hours, pertaining to the 2024 Presidential Election.
+
+Among them, 15 complaints were filed with the National Election Complaint Management Centre, and 11 were reported to the District Election Complaint Management Centre.
+
+Accordingly, a total of 29 complaints were reported including 26 complaints related to election law violations and 03 other complaints.
+
+Furthermore, a total of 366 complaints have been received so far during the period from July 31 to yesterday (12), said the Election Commission.
+
+Accordingly, this includes 355 election law violations, one act of violence and ten other election law violations.
+
+◼️
+
+[Data](articles/866f3d2d.json)
+
+---
 
 ### TNA met Chinese Ambassador
 
@@ -2251,33 +2287,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/256ad70d.json)
 
 [Extended Data](ext_articles/256ad70d.ext.json)
-
----
-
-### Certified Management Accountants Australia marks Silver Jubilee in Sri Lanka
-
-*2024-08-13 03:40:00* · [`islandlk`](http://island.lk/certified-management-accountants-australia-marks-silver-jubilee-in-sri-lanka/) · `en`
-
-The Certified Management Accountants (CMA) Australia proudly celebrates its 25th anniversary in Sri Lanka this year. The series of year-long celebratory activities commenced with a grand inauguration event at the Courtyard by Marriott Colombo, featuring the unveiling of a special 25th Anniversary Logo and the event was graced by esteemed attendees, including CMA Regional Director for Sri Lanka, Kapila Dodamgoda, President of CMA Australia, Ashan Nissanka, current and past Council Members and lecturers.
-
-...
-
-[Data](articles/189b5a41.json)
-
-[Extended Data](ext_articles/189b5a41.ext.json)
-
----
-
-### Siyapath Finance opens 50th branch in versatile Valaichchenai
-
-*2024-08-13 03:40:00* · [`islandlk`](http://island.lk/siyapath-finance-opens-50th-branch-in-versatile-valaichchenai/) · `en`
-
-Premier homegrown finance company Siyapatha Finance PLC successfully opened its 50th branch in Valaichchenai recently. The new branch opening took place in the presence of Siyapatha Finance PLC Managing Director Ananda Seneviratne, Chief Operating Officer Rajeev De Silva and the senior management as well as Valaichchenai Divisional Secretary Ms. Roshini Vigneshwaran, Assistant Superintendent of Police -Valaichchenai A.L M Jameel, Police Officer in Charge-Valaichchenai S.M.R Bandara , Grama Niladhari -Valaichchenai K. Subash, Chief Manager , Sampath Bank- Valaichchenai A.N. David Nidarshan and representatives of government and private financial institutions.
-
-...
-
-[Data](articles/884b64d9.json)
-
-[Extended Data](ext_articles/884b64d9.ext.json)
 
 ---

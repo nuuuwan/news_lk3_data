@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 14:55:50**
+As of **2024-08-13 15:07:12**
 
 ## Newspaper Stats
 
-*Scraped **40,496** Articles*
+*Scraped **40,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,453
 dailyftlk | 2,605
-adalk | 3,719
+adalk | 3,720
 adaderanalk | 4,716
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,156
+tamilmirrorlk | 5,157
 virakesarilk | 6,413
 adaderanasinhalalk | 6,887
 
@@ -26,39 +26,67 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,494 (100.0%) of 40,496 articles have been extended.
+40,496 (100.0%) of 40,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### கண்டி மாணவனை காணவில்லை
+### சீனத் தூதுவரை சந்தித்தது TNA
+
+*2024-08-13 14:41:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவரை-சந்தித்தது-TNA/175-342105) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன் மற்றும் சாணக்கியன் இராசமாணிக்கம் ஆகியோர் இலங்கைக்கான சீனத் தூதுவர் Qi Zhenhong உடன் கலந்துரையாடலில் ஈடுபட்டுள்ளனர்.
+
+யாழ் மற்றும் மட்டக்களப்பு மாவட்டங்களைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்கள் திங்கட்கிழமை சீனத் தூதுவருடன் மிகவும் சுமுகமான மற்றும் பயனுள்ள கலந்துரையாடல்களை நடத்தியதாக தமிழ்த் தேசியக் கூட்டமைப்பு எக்ஸ் தளத்தில் பதிவிட்டுள்ளது.
+
+சமகால விவகாரங்கள் மற்றும் வடக்கு, கிழக்கு தமிழ் மக்களின் பிரச்சினைகள் தொடர்பில் குறித்த சந்திப்பின் போது கலந்துரையாடப்பட்டதாக தமிழ்த் தேசியக் கூட்டமைப்பு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/89f7d7a8.json)
+
+---
+
+### Kandy student missing
 
 *2024-08-13 14:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாணவனை-காணவில்லை/76-342104) · `ta`
 
-கண்டி புனித சில்வெஸ்டர் கல்லூரியில் கல்வி கற்கும் 15 வயதுடைய மாணவன் பாடசாலைக்கு சென்று வீடு திரும்பவில்லை என மாணவனின் தாயார் கட்டுகஸ்தோட்டை பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+A 15-year-old student from St. Sylvester College, Kandy, has gone missing. The boy, Mohamed Mukarath Mujahid, was last seen leaving his home on Ranavana Road, Katugastota, on Monday morning, stating he was going to school but never returned. His mother filed a complaint with the Katugastota police.
 
-கட்டுகஸ்தோட்டை ரணவன வீதியை சேர்ந்த மொஹமட் முகறத் முஜாஹித் என்ற மாணவியின் தாயார் செய்த முறைப்பாட்டில் , தனது மகன், திங்கட்கிழமை  (12) பாடசாலைக்கு சென்றுவிட்டு வீடு திரும்பவில்லை என தெரிவித்துள்ளார்.
+🟩
 
-குறித்த மாணவன் பாடசாலைக்குச் செல்வதாகக் கூறி  திங்கட்கிழமை (12) காலை 6.00 மணியளவில் வீட்டை விட்டுச் சென்றதாகவும் அதன் பின்னர் அவரைப் பற்றிய எந்தத் தகவலும் இல்லை எனவும் தாய் செய்த முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The student's mother has lodged a complaint with the Katugastota police that a 15 -year -old student at St. Sylvester College, Kandy has not returned home.
+
+The mother of a student named Mohamed Mukarath Mujahid, a student from Ranavana Road, Katugastota, said that her son had not returned home on Monday (12).
+
+According to the mother's complaint, the student had left the house on Monday (12) at 6.00 am claiming to go to school and had no information about him.
 
 ◼️
 
 [Data](articles/7d8cc95d.json)
 
+[Extended Data](ext_articles/7d8cc95d.ext.json)
+
 ---
 
-### மீண்டும் தாவினார் ”சொக்க மல்லி”
+### "Sokku Malli"
 
 *2024-08-13 14:25:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தாவினார்-சொக்க-மல்லி/175-342103) · `ta`
 
-எதிர்வரும் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதாக முன்னர் அறிவித்திருந்த 'சொக்க மல்லி' எனப்படும் இராஜாங்க அமைச்சர் பிரேமலால் ஜயசேகர, தற்போது தனது ஆதரவை மாற்றியுள்ளார்.
+State Minister Premalal Jayasekara, who earlier backed President Ranil Wickremesinghe, now supports Namal Rajapaksa as the presidential candidate of the Sri Lanka People's Alliance (PA).
 
-தற்போது ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவிற்கு ஆதரவளிக்கவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+🟩
+
+State Minister Premalal Jayasekara, who has previously announced that he will support President Ranil Wickremesinghe in the upcoming election, has now changed his support.
+
+He said that the presidential candidate of the Sri Lanka PA would be supported by Namal Rajapaksa.
 
 ◼️
 
 [Data](articles/86b26a6f.json)
+
+[Extended Data](ext_articles/86b26a6f.ext.json)
 
 ---
 
@@ -252,6 +280,8 @@ A complaint with regard to violence has received 355 complaints of other rules a
 
 Sri Lanka Podujana Peramuna (SLPP) Puttalam District MP Jagath Priyankara has met with President Ranil Wickremesinghe and pledged his support to the President in the upcoming Presidential Election.
 
+Priyankara is the Puttalam District leader of the National Freedom Front (NFF) and was sworn in as a Member of Parliament on February 08 to fill the seat left vacant following the death of State Minister Sanath Nishantha.
+
 ◼️
 
 [Data](articles/2dab934c.json)
@@ -396,11 +426,17 @@ The Telecommunication Regulatory Commission (Telecommunication Regulatory Licens
 
 *2024-08-13 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101201/trcsl-issues-license-for-starlink-to-operate-in-sri-lanka-) · `en`
 
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has issued a Telecommunications Service Provider License to Starlink Lanka (Private) Limited.
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has issued a Telecommunications Service Provider License to Elon Musk’s Starlink, the satellite unit of SpaceX, to provide satellite broadband services in Sri Lanka.
 
 This license authorizes the company to provide satellite broadband services in Sri Lanka from August 12, 2024.
 
-◼️
+The TRCSL has issued a Telecommunications Service Provider License under Section 17B of the Sri Lanka Telecommunications Act No. 25 of 1991 as amended, to Starlink Lanka (Private) Limited for the provision of Satellite Broadband Services in Sri Lanka, a statement said.
+
+Sri Lanka’s parliament passed a new telecommunications bill last month, which amended the law for the first time in 28 years, and paved the way for Starlink to enter the country.
+
+On July 09, the Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with amendments.
+
+...
 
 [Data](articles/c7df13a6.json)
 
@@ -1253,6 +1289,22 @@ This reflects the greater ability of the head office to provide extraordinary su
 [Data](articles/63e6315b.json)
 
 [Extended Data](ext_articles/63e6315b.ext.json)
+
+---
+
+### වතු කම්කරු වැටුප රු. 1350ක් දක්වා ඉහළට
+
+*2024-08-13 10:38:22* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-රු--1350ක්-දක්වා-ඉහළට/11-411340) · `si`
+
+වතු කම්කරුවන්ගේ දෛනික වැටුප් වැඩි කිරිම තුලින් ඵලදායිතාවයද ඉහල දැමිමට වතු සමාගම් අපෙක්ෂා කරන බව වතු හාම්පුතුන්ගේ සංගමයේ මාධ්‍ය ප්‍රකාශක රොෂාන් රාජදොරේ මහතා පැවසිය.
+
+පඩි පාලක සභාව, වතු හාම්පුතුන්ගේ සංගමය සහ වතු වෘත්තිය සමිති  (12) දින කම්කරු අමාත්‍යංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් පැවති සාකච්ඡාවෙන් ඇතිකරගත් එකගතාවය මත වතු කම්කරුවෙකුගේ දෛනික වැටුප රු 1350 දක්වා වැඩි කිරිමටත්, එම වැටුපට ඊ.පි.එෆ් සහ ඊ.ටි.එෆ් ගෙවන බවත්, ඊට අමතරව දිනක වැටුපට නෙලිය යුතු අමු තේ දළු කිලෝ 18-20 අතර ප්‍රමාණයටඅමතරව නෙලන සෑම තේ දළු කිලෝවකටම රු 50 ක් ගෙවිමට එකග වු බවයි රොෂාන් රාජදොරේ මහතා කියා සිටියේ.
+
+වතු සමාගම් පාඩු ලබන තත්ත්වයේ තිබියදි වතු කම්කරුවන්ගේ වැටුප 25% කින් වැඩි කිරිමට එකගවුයේ මෙරට තේ කර්මාන්තය තවදුරටත් පවත්වාගෙන යාමේ අරමුණින් බවයි රොෂාන් රාජදොරේ මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/eb5f7543.json)
 
 ---
 
@@ -2213,47 +2265,5 @@ Premier homegrown finance company Siyapatha Finance PLC successfully opened its 
 [Data](articles/884b64d9.json)
 
 [Extended Data](ext_articles/884b64d9.ext.json)
-
----
-
-### United People's Shakti Vijith Vijayamuni The Soyza supports the president
-
-*2024-08-13 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/190952) · `ta`
-
-Vijith Vijayamuni de Soyza, a United People's Power Organizer and ex-Minister, backs President Ranil Wickremesinghe for re-election, citing the president's economic and political policies as key to the nation's progress. This decision was made with the support of his party members, and the announcement was made during a meeting attended by Minister Prasanna Ranatunga, Parliamentarian Vajira Abeywardena, and Senior Advisor Sagala Ratnayake.
-
-🟩
-
-United People's Power Organizer and former Minister Vijith Vijayamuni de Soyza has joined the upcoming presidential election to ensure the victory of President Ranil Wickremesinghe.
-
-Vijith Vijayamuni The Soyza officially announced his support for the president, which met President Ranil Wickremesinghe on Monday afternoon.
-
-He pointed out that there should be a country to do politics, he pointed out that the country is going ahead today because of the economic and political policy of President Ranil Wickremesinghe and that the country can improve through that program.
-
-Therefore, with the blessings of his party members, it has decided to support the president in the upcoming election, he said.
-
-Minister Prasanna Ranatunga, Parliamentarian Vajira Abeywardena and Senior Advisor to National Security Sagala Ratnayake were also present at the meeting.
-
-◼️
-
-[Data](articles/64b3376c.json)
-
-[Extended Data](ext_articles/64b3376c.ext.json)
-
----
-
-### நாமல் ராஜபக்சவின் பிரவேசம் 2024 ஜனாதிபதி தேர்தல் களச் சூழலில் ஏற்படுத்தும் தாக்கம்
-
-*2024-08-13 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84522) · `en`
-
-ரணில் விக்கிரமசிங்க முதலில் பிரதமராகவும் பிறகு ஜனாதிபதியாகவும் அதிகாரத்துக்கு வந்த நேரம் தொடக்கம்  எதிரிகளும்  விமர்சகர்களும் அவரைப்பற்றி பல தவறான கதைகளை கட்டிவிடுவதில் ஈடுபட்டு வந்திருக்கிறார்கள். ஜனாதிபதி தேர்தலுக்கு முகங்கொடுப்பதற்கு அஞ்சுகிறார் என்பதும்  அவர் வழமைக்கு மாறான நடவடிக்கைகள் மூலமாக தேர்தலைப் ஒத்திவைப்பார் என்பதும் அந்த்கதைகளில் ஒன்று.
-
-இந்த போலிக்கதை  தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி தேர்தல் திகதியை வர்த்தமானியில் வெளியிட்டபோது அம்பலமானது. விக்கிரமசிங்கவே ஒரு சுயேச்சை வேட்பாளராக முதலில் தனது கட்டுப்பணத்தையும் செலுத்தினார். இந்த உண்மை  முகங்கொடுக்க இயலாத அவரது எதிரிகள் தற்போது ” பொறுத்திருந்து பாருங்கள். தேர்தலுக்கு முன்னர் அவர் எதையாவது செய்வார் ” என்று கூறி ஆறுதல் அடைகிறார்கள்.
-
-...
-
-[Data](articles/84b4d85d.json)
-
-[Extended Data](ext_articles/84b4d85d.ext.json)
 
 ---

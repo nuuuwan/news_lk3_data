@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 18:39:14**
+As of **2024-08-13 18:55:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,523 (100.0%) of 40,540 articles have been extended.
+40,539 (100.0%) of 40,540 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ The “marketable government lands” within the Port City will be leased for th
 
 [Data](articles/a4b4cf4d.json)
 
+[Extended Data](ext_articles/a4b4cf4d.ext.json)
+
 ---
 
-### ඇසළ පෙරහැර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක්
+### Special security program for the Esala Perahera
 
 *2024-08-13 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199898) · `si`
 
-මහනුවර ඇසළ පෙරහැර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක් සහ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය කටයුතු යොදා තිබේ.
+For the Kandy Esala Perahera, over 6,000 police officers will ensure safety through a special security program and traffic plan. Details about the procession and daily traffic arrangements have been shared publicly.
 
-මේ සඳහා පොලිස් නිලධාරීන් 6000කට අධික නිලධාරීන් පිරිසක් රාජකාරී සඳහා යොදවා ඇති බව පොලීසිය පවසයි.
+🟩
 
-එමෙන්ම පෙරහැර කාලසීමාව තුළ ක්‍රියාත්මක වන රථ වාහන සැලැස්ම හා දෛනික රථවාහන සැලැස්ම පිළිබඳවද පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+Police have taken measures to implement a special security program and a traffic plan for the Kandy Esala Perahera.
+
+Over 6,000 police officers have been deployed for duties.
+
+Police have also issued a statement on the procession of the procession and the daily traffic plan.
 
 ◼️
 
 [Data](articles/941fcca2.json)
+
+[Extended Data](ext_articles/941fcca2.ext.json)
 
 ---
 
@@ -82,6 +90,8 @@ All offered 15 billion rupees of 01 October 2032 bonds were sold at an average y
 
 [Data](articles/6251a354.json)
 
+[Extended Data](ext_articles/6251a354.ext.json)
+
 ---
 
 ### Sri Lanka bond yields up, rupee closes stronger at 299.10/25
@@ -97,6 +107,8 @@ Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to
 ◼️
 
 [Data](articles/b529e33e.json)
+
+[Extended Data](ext_articles/b529e33e.ext.json)
 
 ---
 
@@ -222,15 +234,21 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 
 ---
 
-### ஜனாதிபதி ரணிலை சந்தித்தார் ராஜித
+### Rajitha met President Ranil
 
 *2024-08-13 16:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணிலை-சந்தித்தார்-ராஜித/175-342109) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சற்றுமுன்னர் சந்தித்தார்
+Rajitha Senaratne, an MP from United People's Power, briefly met President Ranil Wickremesinghe.
+
+🟩
+
+United People's Power MP Rajitha Senaratne met President Ranil Wickremesinghe shortly before
 
 ◼️
 
 [Data](articles/0d6d6e4b.json)
+
+[Extended Data](ext_articles/0d6d6e4b.ext.json)
 
 ---
 
@@ -276,6 +294,8 @@ Foreign selling was seen in Dipped Products Plc (up at 33.20), Chevron Lubricant
 
 [Data](articles/6e482cce.json)
 
+[Extended Data](ext_articles/6e482cce.ext.json)
+
 ---
 
 ### Pinnawala and Kitulgala tourist
@@ -302,19 +322,25 @@ About 34% of tourist arrivals will visit Pinnawala Elephant Peet, Minister said.
 
 ---
 
-### பிரதான நான்கு வேட்பாளர்களின் நூறு தேர்தல் பிரசார கூட்டங்கள்..!  16 ஆம் திகதியிலிருந்து ஆரம்பம்
+### One hundred election campaign meetings of the main four candidates ..!Beginning from the 16th
 
 *2024-08-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190996) · `ta`
 
-எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களாக தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க, சஜித் பிரேமதாச, அநுர குமார திசாநாயக்க , நாமல் ராஜபக்ச ஆகியோர்  15 ஆம் திகதி வேட்பு மனு தாக்கல் செய்த பின்னர் நாடெங்கினும் 100 பிரசார கூட்டங்களில் கலந்து கொள்கின்றனர்.
+In a series of 100 election campaign meetings starting from September 15, the main four candidates—President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa—will tour all districts. Wickremesinghe focuses on his IMF-backed economic recovery plan, Premadasa aims to build the economy and fight corruption, Dissanayake emphasizes anti-corruption measures for stability, and Rajapaksa targets youth issues like employment and education.
 
-ஐக்கிய மக்கள் சக்தியின்  தலைவர் சஜித் பிரேமதாச எதிர்வரும் 16 ஆம் திகதி தனது முதலாவது பிரசாரக் கூட்டத்தை குருணாகலில் இருந்தும், சுயேச்சை வேட்பாளராக போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது பிரசார கூட்டத்தை 17 ஆம் திகதி அநுராதபுரத்திலிருந்தும் , தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசாநாயக்க 17 ஆம் திகதி தனது முதலாவது பிரசாரக் கூட்டத்தை அம்பாந்தோட்டையிலிருந்தும், பொதுஜன பெரமுன வேட்பாளர் நாமல் ராஜபக்ச தனது முதலாவது பிரசாரக் கூட்டத்தை 21 ஆம் திகதி அநுராதபுரத்திலிருந்தும் ஆரம்பிக்கவுள்ளனர்.
+🟩
 
-மேற்படி நான்கு வேட்பாளர்களும் அனைத்து மாவட்டங்களிலும் சுமார் 100 பிரசார கூட்டங்களிலும் பேரணிகளிலும்  கலந்து கொள்ளவுள்ளதாக கட்சித்தகவல்கள் தெரிவிக்கின்றன.
+Current President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake and Namal Rajapaksa will be attending 100 campaign meetings on the 15th of September.
+
+United People's Power Leader Sajith Premadasa on the 16th of this month, President Ranil Wickremesinghe, who is contesting as an independent candidate, from Anuradhapura on the 17th of Anuradhapura, the leader of the National People's Power Anuragumara Dissanayake on the 17th of January.Rajapaksa will launch his first campaign meeting from Anuradhapura on the 21st.
+
+The four candidates will attend all the 100 campaign meetings and rallies in all districts.
 
 ...
 
 [Data](articles/18e34de7.json)
+
+[Extended Data](ext_articles/18e34de7.ext.json)
 
 ---
 
@@ -332,19 +358,25 @@ State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana ha
 
 ---
 
-### நட்சத்திர சின்னத்தில் திலித் போட்டியிடுவார் - உதய கம்மன்பில
+### Dilith will compete in the star symbol - Udaya Kammanpila
 
 *2024-08-13 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191008) · `ta`
 
-சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர நட்சத்திரம் சின்னத்தில் தேர்தலில் போட்டியிடவுள்ளார். தேசியத்தை முன்னிலைப்படுத்தி வேட்பாளரை களமிறக்கியுள்ளோம். நாட்டின் சுயாதீனத்தை பாதுகாக்க வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+Dilith Jayaweera, representing the Universal Power, is set to run for president, emphasizing national identity. Udaya Kammanpila supports this move, highlighting the need to safeguard the nation's sovereignty. The campaign begins next week, with a focus on electing leaders who prioritize national interests over party politics.
 
-சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர சார்பில் செவ்வாய்க்கிழமை (13) தேர்தல்கள் ஆணைக்குழுவில் கட்டுப்பணம் செலுத்தினர். இச்சந்தர்ப்பத்தில் கிழக்கு மாகாண முன்னாள் ஆளுநர் அநுராத யஹம்பத், பாராளுமன்ற உறுப்பினர்களான  வீரசுமன வீரசிங்க, கெவிந்து குமாரதுங்க ஆகியோர் கலந்துக் கொண்டனர்.
+🟩
 
-தேசியத்தை முன்னிலைப்படுத்தி ஜனாதிபதி வேட்பாளரை களமிறக்கியுள்ளோம். 69 இலட்ச மக்கள் நாட்டின் இறையாண்மையை கருத்திற் கொண்டு கோட்டாபய ராஜபக்ஷவை ஜனாதிபதியாக தெரிவு செய்தோம். ஆனால் அவர் முறையாக செயற்படவில்லை. மக்களாணை பலவீனமடைய கூடாது என்பதற்காகவே தொழிலதிபர் திலித் ஜயவீரவை ஜனாதிபதி வேட்பாளராக களமிறக்கியுள்ளோம்.
+Dilith Jayaweera's star of the universal power will contest the election. We have fielded candidate to highlight nationality. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the country should protect the independence.
+
+Dilith Jayaweera, the presidential candidate of the universal power, reached the Elections Commission on Tuesday (13). Former Governor of the Eastern Province Anuradha Yahambat, MPs Weerasumana Weerasinghe and Kevindu Kumaratunga were present.
+
+We have fielded the presidential candidate to highlight nationality. We elected Gotabhaya Rajapakse as President with the sovereignty of 69 million people. But he does not act properly. We have fielded businessman Dilith Jayaweera as the presidential candidate so that the people should not weaken.
 
 ...
 
 [Data](articles/1a115ff1.json)
+
+[Extended Data](ext_articles/1a115ff1.ext.json)
 
 ---
 
@@ -374,27 +406,33 @@ Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injur
 
 ---
 
-### கடந்த ஆண்டு ஐரோப்பாவில் கடும் வெப்பத்தால் 47,000 பேர் உயிரிழப்பு
+### 47,000 deaths in Europe last year
 
 *2024-08-13 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190994) · `ta`
 
-கடந்த 2023 ஆம் ஆண்டு  ஐரோப்பாவில் கடும் வெப்பத்தால் தெற்கில் உள்ள நாடுகள் கடுமையாக பாதிக்கப்பட்டு 47,000 க்கும் அதிகமானோர் உயிரிழந்துள்ளார்கள்.
+In 2023, Europe faced severe heatwaves causing over 47,000 deaths across 35 countries, with Greece, Bulgaria, Italy, and Spain hardest hit. This follows a record 60,000 fatalities in 2022. However, efforts against extreme temperatures over two decades have reduced this year's toll by preventing an estimated 80% increase.
 
-இதனை திங்கட்கிழமை  (12) ஸ்பெயினில் உள்ள பார்சிலோனா இன்ஸ்டிடியூட் ஃபார் குளோபல் ஹெல்த் (ஐஎஸ்குளோபல்) தெரிவித்துள்ளது.
+🟩
 
-காலநிலை மாற்றத்தால் தொடர்ந்து வெப்பநிலை அதிகரித்து வருவதால் உலகின் மிக வேகமாக வெப்பமடையும் கண்டத்தில் ஐரோப்பியர்கள் வாழ்வதோடு, உடல் ஆரோக்கியத்தில் பெரிய அளவிலான தாக்கங்களை எதிர்கொள்கின்றனர்.
+In 2023, countries in the south were severely affected by heavy heat in Europe and more than 47,000 people died.
 
-35 ஐரோப்பிய நாடுகளில் முன்னெடுத்த ஆராய்ச்சியில் அதிக வெப்பநிலையால் 47,690 பேர் உயிரிழந்துள்ளதாக ஆராய்ச்சியாளர்கள் மதிப்பிட்டுள்ளனர்.
+This was reported on Monday (12), Barcelona Institute for Global Health (IISculopal) in Spain.
 
-அதில், கிரீஸ், பல்கேரியா, இத்தாலி மற்றும் ஸ்பெயின் ஆகிய நாடுகளில்  அதிகளவான உயிரிழப்புகள் பதிவாகியுள்ளன.
+Europeans live on the most fastest warmth and continent in the world as the temperature continues to rise due to climate change and face large -scale impact on physical health.
 
-2022 ஆம் ஆண்டில் கடும் வெப்பத்தால் 60,000 க்கும் மேற்பட்டவர்கள் உயிரிழந்துள்ள நிலையில், 2023 ஆம் ஆண்டில் குறைந்தளவானவர்களே உயிரிழந்துள்ளனர்.
+Researchers estimate that 47,690 people have been killed due to high temperatures in 35 European countries.
 
-இதற்கு  கடந்த 20 ஆண்டுகளில் கடும் வெப்பநிலையை எதிர்த்து போராடுவதற்கு எடுத்த நடவடிக்கையே காரணமாகும். இல்லாவிடின் உயிரிழப்புகளின் எண்ணிக்கை 80 சதவீதம் அதிகரித்திருக்கும்.
+Of these, Greece, Bulgaria, Italy and Spain have reported the highest number of casualties.
+
+More than 60,000 people have died due to severe heat in 2022, and in 2023, there are fewer people.
+
+This is due to the action taken to fight extreme temperatures over the past 20 years. Otherwise, the number of casualties would have increased by 80 percent.
 
 ◼️
 
 [Data](articles/3bfdc056.json)
+
+[Extended Data](ext_articles/3bfdc056.ext.json)
 
 ---
 
@@ -436,37 +474,51 @@ President Ranil Wickremesinghe has proposed that the firm be given the status of
 
 [Data](articles/074ad96a.json)
 
+[Extended Data](ext_articles/074ad96a.ext.json)
+
 ---
 
-### 'ஆக்கிரமிப்பாளனுக்கு தண்டனை வழங்குவது ஒருதேசத்தின் உரிமை"- இஸ்ரேல் மீது தாக்குதலை மேற்கொள்வதை நியாயப்படுத்தினார் ஈரான் ஜனாதிபதி
+### The Iranian president justified the attack on Israel
 
 *2024-08-13 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191007) · `ta`
 
-ஹமாஸ் தலைவரை கொலை செய்தமைக்காக இஸ்ரேலிற்கு எதிராக பதில் தாக்குதலை மேற்கொள்ளவேண்டும் என ஈரான் சிந்திப்பது சரியான விடயம் என அந்த நாட்டின் ஜனாதிபதி மசூட் பெசெஸ்கியான் தெரிவித்துள்ளார்.
+Iran's President Besseskian, in a call with UK PM Stamer, defended Iran's potential attack on Israel as retaliation for Hamas leader's death, citing Israel's actions as threats to regional security and the need for self-defense against occupation.
 
-பிரிட்டிஸ் பிரதமர் கெய்ர் ஸ்டாமெருடனான தொலைபேசி உரையாடலின் போது ஈரான் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+🟩
 
-ஆக்கிரமிப்பாளனுக்கு தண்டனை வழங்குவது ஒருதேசத்தின் உரிமை என தெரிவித்துள்ள ஈரான் ஜனாதிபதி இவ்வாறான நடவடிக்கை குற்றங்களை ஆக்கிரமிப்பை நிறுத்துவதற்கு தீர்வு எனவும் தெரிவித்துள்ளார்.
+The country's president Masood Besseskian has said that Iran's thinking is to take an attack against Israel for the murder of Hamas leader.
 
-காசாவிலும் வேறு பகுதிகளிலும் இஸ்ரேலின் முன்னொருபோதும் இ;ல்லாத மனிதாபிமான குற்;றங்கள் குறித்த மேற்குலகின் மௌனம் பொறுப்புணர்வற்றது என தெரிவித்துள்ள ஈரான் ஜனாதிபதி இஸ்ரேலின் இந்த நடவடிக்கை பிராந்திய சர்வதேச பாதுகாப்பிற்கு அச்சுறுத்தலை  ஏற்படுத்தும் நடவடிக்கைகளில் இஸ்ரேல் ஈடுபடுவதற்கு தூண்டுகின்றது எனவும் தெரிவித்துள்ளார்.
+The Iranian president made this statement during a telephone conversation with British Prime Minister Kair Stamer.
+
+The Iranian president said that it was the right of the occupant to punish the occupant, and that such action is the solution to the stopping of the occupation.
+
+The silence of the West is inconceivable for the non -humanitarian troubles in Gaza and other parts of the country, saying that Israel's move, Israel's move, has been promoting Israel's involvement in the process of threatening regional international security.
 
 ◼️
 
 [Data](articles/e0645c3a.json)
 
+[Extended Data](ext_articles/e0645c3a.ext.json)
+
 ---
 
-### வியாழக்கிழமை இராஜகிரியவில் விசேட போக்குவரத்து திட்டம்
+### Special Transport Plan in Rajagiriya on Thursday
 
 *2024-08-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191005) · `ta`
 
-இரா­ஜ­கி­ரி­யவில் உள்ள தேர்­தல்கள் ஆணைக்­கு­ழுவின் செய­ல­கத்தில் எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்கள் 15 ஆம் திகதி வியாழக்கிழமை காலை 8 மணி முதல் பிற்பகல் 2 மணி வரை ஏற்றுக்கொள்ளப்படவுள்ளது.
+Nominations for the presidential election will be accepted in Rajagiriya from 8 am to 2 pm on Thursday, 15th. A special traffic plan will be in effect due to this event.
 
-இதனால்,  அன்றைய தினம் விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக என பொலிஸார் அறிவித்துள்ளனர்.
+🟩
+
+The nominations for the upcoming presidential election will be accepted at the Elections Commission Secretariat in Rajagiriya from 8 am to 2 pm on Thursday 15th.
+
+The police have announced that a special traffic plan will be implemented that day.
 
 ◼️
 
 [Data](articles/d213b936.json)
+
+[Extended Data](ext_articles/d213b936.ext.json)
 
 ---
 
@@ -490,19 +542,29 @@ In the capital, New Delhi, junior doctors wearing white coats held posters that 
 
 ---
 
-### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவை சந்தித்தனர் தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள்
+### Representatives of the Tamil National Alliance met Opposition Leader Sajith Premadasa
 
 *2024-08-13 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191004) · `ta`
 
-தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து பேச்சு நடத்திய நிலையில், இன்று செவ்வாய்க்கிழமை (13) தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள் எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாஸவை சந்தித்து கலந்துரையாடியுள்ளனர்.
+Representatives from the Tamil National Alliance (TNA) met with Opposition Leader Sajith Premadasa to discuss a joint presidential candidate focused on addressing Tamil political aspirations. Premadasa emphasized his commitment to resolving Tamil issues, including justice, political prisoner releases, and the implementation of the provincial council structure. He urged unity over ethnic, language, and religious identities in elections. The TNA expressed support for Premadasa's candidacy, highlighting his readiness to address Tamil concerns directly.
 
-ஜனாதிபதி வேட்பாளரும் எதிர்க் கட்சித் தலைவருமான சஜித் பிரேமதாசவின் அழைப்பை ஏற்று  இன்றையதினம் காலை 7.30 மணியளவில் எதிர்க்கட்சி  அலுலகத்தில் தமிழ் ஈழ விடுதலை இயக்கம் சார்பில் அதன் தலைவர் செல்வம் அடைக்கலநாதன், செயலாளர் நாயகம் கோவிந்தன் கருணாகரம் , மற்றும் பேச்சாளர் குருசுவாமி சுரேந்திரன் ஆகியோரும்,  ஜனநாயக மக்கள் விடுதலை முன்னணி சார்பில் அதன் தலைவர் தர்மலிங்கம் சித்தார்த்தன் ஆகியோர் இச்சந்திப்பில் கலந்து கொண்டனர்.
+🟩
 
-மற்றைய தரப்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் வட மாகாண பிரதம அமைப்பாளர் உமாசந்திரா பிரகாஷும் கலந்து கொண்டனர்.
+Representatives of the Tamil National Alliance (TNA) on Tuesday (13) have met Opposition Leader Sajith Premadasa as President Ranil Wickremesinghe met with President Ranil Wickremesinghe in the context of a Tamil National Public Structure General Candidate.
+
+Presidential candidate and opposition leader Sajith Premadasa accepted the invitation of Sajith Premadasa at 7.30 am today.
+
+Opposition leader Sajith Premadasa and Northern Province Chief Organizer Umasandra Prakash were also present.
+
+Sajith Premadasa as the candidate for the presidential election in the coming presidential election, which is to be fielded by the Tamil National General Framework, to the political parties and the representatives of the public organizations separately.
+
+It is on this basis that the above mentioned political parties decided to take part in this meeting to clarify their position on the issue of the Tamil people and to learn about the steps to be taken to solve the political aspirations of the Tamil people.
 
 ...
 
 [Data](articles/f1c38cce.json)
+
+[Extended Data](ext_articles/f1c38cce.ext.json)
 
 ---
 
@@ -671,6 +733,8 @@ Sri Lanka has been spending around $3 billion for those who spend for education 
 ...
 
 [Data](articles/2bf41a5e.json)
+
+[Extended Data](ext_articles/2bf41a5e.ext.json)
 
 ---
 
@@ -1634,6 +1698,8 @@ Paradise, the latest movie of acclaimed Sri Lankan filmmaker Prasanna Vithanage,
 
 [Data](articles/c4abb61e.json)
 
+[Extended Data](ext_articles/c4abb61e.ext.json)
+
 ---
 
 ### Cabinet approval to import 3,000MT of raw ginger
@@ -1908,19 +1974,27 @@ In the 2010 presidential election, former President of the former President Sara
 
 ---
 
-### මොණරාගලින් ශෂි පමණක් නාමල් ළඟ හිටගනියි
+### Shashi standing Shina from Namal
 
 *2024-08-13 10:54:53* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගලින්-ශෂි-පමණක්-නාමල්-ළඟ-හිටගනියි/11-411341) · `si`
 
-ශ්‍රීලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරණයට ඉදිරිපත් වන නාමල් රාජපක්ෂ මහතාට සහයෝගය දැක්වීමේ අරමුණෙන් සංවිධානයකළ සාකච්ඡාවක් මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය සභා වල හිටපු මන්ත්‍රීවරුන් ඇතුළු ග්‍රාමීය නායකයින්ගේ සහභාගීත්වයෙන් ඉකුත් (11) වෙනිදා රාජ්‍ය ඇමති ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ මොනරාගල සිරිගල ප්‍රදේශයේ පිහිටි නිවසේදී පැවැත්විණි.
+A gathering at Moneragala discussed supporting Namal Rajapaksa for the upcoming Sri Lankan presidential election. Key figures like SLFP Chairman Wimal Galagamaarachchi, State Minister Sushindra Rajapaksa, and others emphasized the collective responsibility to lead Namal Rajapaksa as the party's leader. The meeting aimed to solidify support for the Sri Lanka Common Front under Namal Rajapaksa, with participation from various state ministers, MPs, and former officials.
 
-මෙම සාකච්ඡාවට ශ්‍රීලංකා පොදුජන පෙරමුණේ වැල්ලවාය ආසන සංවිධායක ඌව පළාත් සභාවේ හිටපු උප සභාපති විමල් ගලගමආරච්චි ප්‍රාදේශීය සභාපතිවරුන් වන ආර්.එම් රත්නවීර (මොනරාගල),රංජිත් පියදිගම (මැදගම),චමින්ද පුෂ්පකුමාර (මඩුල්ල),සමන් වර්ණකුලසූරිය (සියඹලාණ්ඩුව) යන මහත්වරුන් ඇතුළු ප්‍රාදේශීය සභා මන්ත්‍රීවරුන් සහ අපේක්ෂකයින්ගෙන් විශාල පිරිසක් සහභාගීවී සිටියහ.
+🟩
 
-මෙහිදී පිරිස දැනුවත්කළ වාරිමාර්ග හා ජල සම්පාදන රාජ්‍ය ඇමති ශෂීන්ද්‍ර රාජපක්ෂ මහතා කියා සිටියේ,
+A discussion of the aim of supporting Namal Rajapaksa in the Sri Lanka Arose to the presidential election was held at the residence of the Moneragala, Moneragala.
+
+SLFP Chairman Wimal Galagamaarachchi (Moneragala), Ranjith Papularachchi (Medagama), Saman Palakulasuriya (Medagama), Chaminda Piyakulasey (Magagama), Saman and Siyambalanduwa (Siyambalanduwa)And a large number of candidates attended.
+
+State Minister of Irrigation and Water Supply, Sushindra Rajapaksa, said
+
+For the next presidential election, Namal Rajapaksa's leading is the responsibility of all of us, the leader of the party. Only doing so can protect the Sri Lanka Common Front - Namal Rajapaksa has any doubt.
 
 ...
 
 [Data](articles/fdea6722.json)
+
+[Extended Data](ext_articles/fdea6722.ext.json)
 
 ---
 

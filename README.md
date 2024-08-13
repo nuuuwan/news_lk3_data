@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 06:04:34**
+As of **2024-08-13 06:26:25**
 
 ## Newspaper Stats
 
-*Scraped **40,380** Articles*
+*Scraped **40,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 384
-islandlk | 2,331
+islandlk | 2,342
 economynextcom | 2,445
 dailyftlk | 2,604
 adalk | 3,709
@@ -26,11 +26,35 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,380 (100.0%) of 40,380 articles have been extended.
+40,380 (100.0%) of 40,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### Certified Management Accountants Australia marks Silver Jubilee in Sri Lanka
+
+*2024-08-13 03:40:00* · [`islandlk`](http://island.lk/certified-management-accountants-australia-marks-silver-jubilee-in-sri-lanka/) · `en`
+
+The Certified Management Accountants (CMA) Australia proudly celebrates its 25th anniversary in Sri Lanka this year. The series of year-long celebratory activities commenced with a grand inauguration event at the Courtyard by Marriott Colombo, featuring the unveiling of a special 25th Anniversary Logo and the event was graced by esteemed attendees, including CMA Regional Director for Sri Lanka, Kapila Dodamgoda, President of CMA Australia, Ashan Nissanka, current and past Council Members and lecturers.
+
+...
+
+[Data](articles/189b5a41.json)
+
+---
+
+### Siyapath Finance opens 50th branch in versatile Valaichchenai
+
+*2024-08-13 03:40:00* · [`islandlk`](http://island.lk/siyapath-finance-opens-50th-branch-in-versatile-valaichchenai/) · `en`
+
+Premier homegrown finance company Siyapatha Finance PLC successfully opened its 50th branch in Valaichchenai recently. The new branch opening took place in the presence of Siyapatha Finance PLC Managing Director Ananda Seneviratne, Chief Operating Officer Rajeev De Silva and the senior management as well as Valaichchenai Divisional Secretary Ms. Roshini Vigneshwaran, Assistant Superintendent of Police -Valaichchenai A.L M Jameel, Police Officer in Charge-Valaichchenai S.M.R Bandara , Grama Niladhari -Valaichchenai K. Subash, Chief Manager , Sampath Bank- Valaichchenai A.N. David Nidarshan and representatives of government and private financial institutions.
+
+...
+
+[Data](articles/884b64d9.json)
+
+---
 
 ### TISL launches Presidential Election 2024 watchdog
 
@@ -717,6 +741,54 @@ Prasanna Vithanage, Vice President of the Liquor License Association, commented 
 [Data](articles/ce3514d6.json)
 
 [Extended Data](ext_articles/ce3514d6.ext.json)
+
+---
+
+### CBK Collection unveiled at BCIS Knowledge Centre
+
+*2024-08-12 19:54:00* · [`islandlk`](http://island.lk/cbk-collection-unveiled-at-bcis-knowledge-centre/) · `en`
+
+The CBK Collection of the BCIS Knowledge Centre was officially unveiled on July 31 at the BCIS Library, Colombo. The simple inaugural ceremony was attended by the Chairperson of the Bandaranaike National Memorial Foundation (BNMF) and former President Chandrika Bandaranaike Kumaratunga, the Director General of the BNMF Manuja Kariyapperuma, the Executive Director of the BCIS, Prof. Gamini Keerawella and members of the BCIS Council of Management and Academic Affairs.
+
+• This generous subscription includes over 400 valuable resources such as books, magazines, reports and articles covering important subjects like international relations, political science, economics, law and history.
+
+Certified Management Accountants Australia marks Silver Jubilee in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a92e426f.json)
+
+---
+
+### H One unveils revolutionary AI Bot: Simplifying company Annual Reports for all stakeholders
+
+*2024-08-12 19:52:00* · [`islandlk`](http://island.lk/h-one-unveils-revolutionary-ai-bot-simplifying-company-annual-reports-for-all-stakeholders/) · `en`
+
+Colombo, August 06, 2024: H One, in collaboration with Hayleys PLC, proudly announces the deployment of its latest innovation: an AI-powered chatbot designed to read, interpret, and analyze published annual company reports. The H One Data and AI team, along with Hayleys, and the unwavering guidance and support from Microsoft Sri Lanka were able to succeed in developing the solution for Hayleys PLC – Sri Lanka’s largest public listed and most diversified conglomerate, and its subsidiary Haycarb PLC. “Hayleys Group has once again demonstrated its forward-thinking approach by integrating AI to make complex data accessible and actionable in seconds.”
+
+...
+
+[Data](articles/4fbb5ce5.json)
+
+---
+
+### Corporates’ positive quarterly results temporarily boost bourse
+
+*2024-08-12 19:51:00* · [`islandlk`](http://island.lk/corporates-positive-quarterly-results-temporarily-boost-bourse/) · `en`
+
+The CSE yesterday commenced trading on a positive note in the early sessions as most listed companies are showing satisfactory quarterly results. However, this momentum could not be sustained for long due to the current political uncertainty stemming from the upcoming presidential elections, market analysts said.
+
+The fact is that most investors are worried that a replacement of the present administration would create policy uncertainties, these analysts added. Amid those developments, both indices moved upwards. The All Share Price Index went up by 16.1 points while S and P SL20 rose by 9.37 points.
+
+Turnover stood at Rs 337 million with one crossing. The crossing was reported in Kelani Tyre, which crossed 458,000 shares to the tune of Rs 34.37 million; its shares traded at Rs 75.
+
+...
+
+[Data](articles/38f9136a.json)
 
 ---
 
@@ -2175,117 +2247,5 @@ On Thursday, July 25, Factum organised the first international screening of Been
 [Data](articles/654da9dd.json)
 
 [Extended Data](ext_articles/654da9dd.ext.json)
-
----
-
-### Nalaka Bandara Bandaranaike Matale Head
-
-*2024-08-12 13:26:57* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මාතලේ-නායකයා-නාලක-බණ්ඩාර/11-411324) · `si`
-
-Nalaka Bandara Bandaranaike, a Parliamentarian from Matale, has been appointed as the new leader of the Sri Lanka Filling District, succeeding former Cabinet Minister Janaka Bandara Tennakoon. This decision was made during a meeting chaired by Jonarchton Fernando of the UNHRC Matale District Board. The move supports Ranil Wickremesinghe's candidacy, with notable figures like Kurunegala District MP Jannston Fernando and Badulla District MP Tissa Kuttiarachchi attending the event.
-
-🟩
-
-Parliamentarian Nalaka Bandara and Kotte Kotte Kotte as the new leader of the Sri Lanka Filling District at the General Leader of the Sri Lanka District.
-
-The decision was taken when the General Filling of Sri Lanka (UNHRC) Matale District Board of Jonarchton Fernando at the Naula Cultural Center Auditorium.
-
-The Commonwealth District leader of the Ampara General Filling Federation in the Ampara General Front of the Sri Lanka General Front was proposed by the General Folk Federation District Leader of the Ampara General Opatha.
-
-Former Cabinet Minister Janaka Bandara Tennakoon was previously led by the Sri Lanka General Filling in Sri Lanka and the Matale District Minister of Public Minister Rohana Dissanayake and State Minister Pipaina Bandara Tennakoon has come forward for presidential electionThe decision has been taken due to supporting Ranil Wickremesinghe.
-
-Kurunegala District MP Jannston Fernando and Badulla District MP Tissa Kuttiarachchi were also present at the occasion.
-
-◼️
-
-[Data](articles/adcb9245.json)
-
-[Extended Data](ext_articles/adcb9245.ext.json)
-
----
-
-### Special protection for Rajagiriya
-
-*2024-08-12 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199849) · `si`
-
-Rajagiriya's Election Commission office area is now a special security zone due to upcoming elections. This means no one except authorized personnel can enter. Public offices and hospitals near Karacha Magne will close on the 15th. Nominations for the election will take place on the 15th, with objections allowed from 9-11:30 am. After nominations, ballot papers will be prepared. Meanwhile, the Commissioner General of Elections reported receiving nearly 320 complaints about the presidential election while in Nuwara Eliya.
-
-🟩
-
-The area of ​​the Election Commission's office, located on August 15, has been named as a special security zone at the Elections Commission's office.
-
-Therefore, the Chairman of the Elections Commission, the Chairman of the Elections for the public to avoid duties or other activities in the area. Mr. Ratnayake said.
-
-...
-
-[Data](articles/268d3cd5.json)
-
-[Extended Data](ext_articles/268d3cd5.ext.json)
-
----
-
-### Sri Lanka’s Justice Ministry goes to Sabry after Wijedasa resignation
-
-*2024-08-12 13:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-justice-ministry-goes-to-sabry-after-wijedasa-resignation-176393/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesimghe appointed Foreign Minister Ali Sabry MP as the Justice Minister on Monday (12) after the position fell vacant after the resignation of the former cabinet minister Wijeyadasa Rajapakshe.
-
-“MP Ali Sabry took oath as the Minister of Justice, Prison Affairs & Constitutional Reforms before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago in addition to his current portfolio as the Minister of Foreign Affairs,” the President’s Media Division (PMD) said in a statement.
-
-Rajapakshe, the former Justice Minister resigned from his portfolio on July 25 citing that he was contesting in the upcoming presidential poll scheduled for Sept 21.
-
-Rajapakshe has already given his nomination to contest in the poll under National Democratic Front (NDF).
-
-Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and has held various positions including cabinet portfolios.
-
-...
-
-[Data](articles/791b68f2.json)
-
-[Extended Data](ext_articles/791b68f2.ext.json)
-
----
-
-### Sri Lanka’s Justice Ministry goes to Sabry after Wijedasa resignation
-
-*2024-08-12 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-minister-sabry-gets-justice-ministry-after-wijedasa-resignation-176393/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesimghe appointed Foreign Minister Ali Sabry MP as the Justice Minister on Monday (12) after the position fell vacant after the resignation of the former cabinet minister Wijeyadasa Rajapakshe.
-
-“MP Ali Sabry took oath as the Minister of Justice, Prison Affairs & Constitutional Reforms before President Ranil Wickremesinghe at the Presidential Secretariat a short while ago in addition to his current portfolio as the Minister of Foreign Affairs,” the President’s Media Division (PMD) said in a statement.
-
-Rajapakshe, the former Justice Minister resigned from his portfolio on July 25 citing that he was contesting in the upcoming presidential poll scheduled for Sept 21.
-
-Rajapakshe has already given his nomination to contest in the poll under National Democratic Front (NDF).
-
-Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and has held various positions including cabinet portfolios.
-
-...
-
-[Data](articles/c467ddf8.json)
-
-[Extended Data](ext_articles/c467ddf8.ext.json)
-
----
-
-### Storm brings torrential rain to Japan, disrupts transport
-
-*2024-08-12 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101172/storm-brings-torrential-rain-to-japan-disrupts-transport) · `en`
-
-Tropical Storm Maria made landfall on Monday in Japan’s northern region of Iwate, bringing torrential rain that disrupted flights and rail services while forcing people in some areas to evacuate homes, but there were no immediate reports of casualties.
-
-The storm, packing maximum wind speeds of 72 kph (45 mph), is expected to move towards the Sea of Japan.
-
-The Japan Meteorological Agency warned of risks from mudslides and floods after record-breaking rainfall over the last two days in some cities of the region.
-
-The government will do its best to tackle the situation, Prime Minister Fumio Kishida told reporters. “We’ll continue to provide information to residents and support those evacuating,” he said.
-
-Although Japan is observing a holiday, some high-speed bullet trains and regular services have been suspended in Iwate and other northern areas, while Japan Airlines and All Nippon Airways also cancelled flights with the affected regions.
-
-...
-
-[Data](articles/0892099c.json)
-
-[Extended Data](ext_articles/0892099c.ext.json)
 
 ---

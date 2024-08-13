@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 15:07:12**
+As of **2024-08-13 15:21:05**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,496 (100.0%) of 40,498 articles have been extended.
+40,498 (100.0%) of 40,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### சீனத் தூதுவரை சந்தித்தது TNA
+### TNA met Chinese Ambassador
 
 *2024-08-13 14:41:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவரை-சந்தித்தது-TNA/175-342105) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன் மற்றும் சாணக்கியன் இராசமாணிக்கம் ஆகியோர் இலங்கைக்கான சீனத் தூதுவர் Qi Zhenhong உடன் கலந்துரையாடலில் ஈடுபட்டுள்ளனர்.
+TNA parliamentarians MA Sumanthiran and Chanakyan Rasamanikam met with Chinese Ambassador Qi Zhenhong for discussions focusing on the issues affecting the Tamil community in Sri Lanka's Northern and Eastern regions. The meeting was productive, as per the TNA's statement, highlighting the importance of diplomatic engagement in addressing local concerns.
 
-யாழ் மற்றும் மட்டக்களப்பு மாவட்டங்களைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்கள் திங்கட்கிழமை சீனத் தூதுவருடன் மிகவும் சுமுகமான மற்றும் பயனுள்ள கலந்துரையாடல்களை நடத்தியதாக தமிழ்த் தேசியக் கூட்டமைப்பு எக்ஸ் தளத்தில் பதிவிட்டுள்ளது.
+🟩
 
-சமகால விவகாரங்கள் மற்றும் வடக்கு, கிழக்கு தமிழ் மக்களின் பிரச்சினைகள் தொடர்பில் குறித்த சந்திப்பின் போது கலந்துரையாடப்பட்டதாக தமிழ்த் தேசியக் கூட்டமைப்பு மேலும் தெரிவித்துள்ளது.
+TNA parliamentarians MA Sumanthiran and Chanakyan Rasamanikam are in discussion with Chinese Ambassador to Sri Lanka Qi Zhenhong.
+
+The Tamil National Alliance (TNA) has posted on the X site that MPs from the Jaffna and Batticaloa districts had a very good and effective discussion with the Chinese ambassador on Monday.
+
+The Tamil National Alliance further stated that the meeting was discussed during the meeting on contemporary affairs and the problems of the Tamil people of the North and East.
 
 ◼️
 
 [Data](articles/89f7d7a8.json)
+
+[Extended Data](ext_articles/89f7d7a8.ext.json)
 
 ---
 
@@ -1292,19 +1298,27 @@ This reflects the greater ability of the head office to provide extraordinary su
 
 ---
 
-### වතු කම්කරු වැටුප රු. 1350ක් දක්වා ඉහළට
+### Plantation Labor Salary Rs. Up to 1350
 
 *2024-08-13 10:38:22* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-රු--1350ක්-දක්වා-ඉහළට/11-411340) · `si`
 
-වතු කම්කරුවන්ගේ දෛනික වැටුප් වැඩි කිරිම තුලින් ඵලදායිතාවයද ඉහල දැමිමට වතු සමාගම් අපෙක්ෂා කරන බව වතු හාම්පුතුන්ගේ සංගමයේ මාධ්‍ය ප්‍රකාශක රොෂාන් රාජදොරේ මහතා පැවසිය.
+Estate Companies Association plans to raise plantation workers' daily wages to boost productivity, aiming for a 25% increase to sustain Sri Lanka's tea industry. This move follows a Supreme Court decision supporting higher salaries for efficient workers.
 
-පඩි පාලක සභාව, වතු හාම්පුතුන්ගේ සංගමය සහ වතු වෘත්තිය සමිති  (12) දින කම්කරු අමාත්‍යංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් පැවති සාකච්ඡාවෙන් ඇතිකරගත් එකගතාවය මත වතු කම්කරුවෙකුගේ දෛනික වැටුප රු 1350 දක්වා වැඩි කිරිමටත්, එම වැටුපට ඊ.පි.එෆ් සහ ඊ.ටි.එෆ් ගෙවන බවත්, ඊට අමතරව දිනක වැටුපට නෙලිය යුතු අමු තේ දළු කිලෝ 18-20 අතර ප්‍රමාණයටඅමතරව නෙලන සෑම තේ දළු කිලෝවකටම රු 50 ක් ගෙවිමට එකග වු බවයි රොෂාන් රාජදොරේ මහතා කියා සිටියේ.
+🟩
 
-වතු සමාගම් පාඩු ලබන තත්ත්වයේ තිබියදි වතු කම්කරුවන්ගේ වැටුප 25% කින් වැඩි කිරිමට එකගවුයේ මෙරට තේ කර්මාන්තය තවදුරටත් පවත්වාගෙන යාමේ අරමුණින් බවයි රොෂාන් රාජදොරේ මහතා කියා සිටියේ.
+According to the Estate Companies Association, a spokesman Roshan Rajadrehe said that the daily salaries of plantation workers would improve productivity.
 
-...
+The daily salary of a plantation worker is increasing to Rs.Roshan Rajadora said that every year is Rs.
+
+Roshan Rajadree said that it was the intention of further maintaining the tea industry in Sri Lanka to increase the seller of plantation workers by 25%.
+
+If estate workers are working efficiently, the salary of the plantation workers will be paid to the proposal to increase the new salaries in the case of the Supreme Court in the forest increase of new salaries.He said.
+
+◼️
 
 [Data](articles/eb5f7543.json)
+
+[Extended Data](ext_articles/eb5f7543.ext.json)
 
 ---
 

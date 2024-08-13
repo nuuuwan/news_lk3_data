@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 13:21:26**
+As of **2024-08-13 13:36:20**
 
 ## Newspaper Stats
 
-*Scraped **40,465** Articles*
+*Scraped **40,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,54 +13,152 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 385
 islandlk | 2,342
-economynextcom | 2,446
+economynextcom | 2,451
 dailyftlk | 2,605
-adalk | 3,716
-adaderanalk | 4,714
+adalk | 3,718
+adaderanalk | 4,715
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,149
+tamilmirrorlk | 5,151
 virakesarilk | 6,405
-adaderanasinhalalk | 6,884
+adaderanasinhalalk | 6,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,463 (100.0%) of 40,465 articles have been extended.
+40,465 (100.0%) of 40,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### 15 වනදා විශේෂ රථවාහන සැලැස්මක්
+### ஆடாத ஆசிரியை  நடுவரான சோகம்
+
+*2024-08-13 13:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆடாத-ஆசிரியை-நடுவரான-சோகம்/76-342097) · `ta`
+
+நாடளாவிய ரீதியில் பல வலயங்களில் தற்போது தமிழ்த்தின போட்டிகள் நடைபெறுகின்றன. அதில் சில வலயங்களில் முறைக்கேடுகள் இடம்பெற்றமை தொடர்பான செய்திகள் வெளியாகியிருந்தன.
+
+இந்நிலையில், கண்டி வலயத்தில் ஞாயிற்றுக்கிழமை (11)  நடத்தப்பட்ட தமிழ்த்தின போட்டிகளில் பல முறைகேடுகள் இடம்பெற்றுள்ளன. இந்த போட்டிகள் தெல்தோட்டையில் இடம்பெற்றன.
+
+நடுவர் குழுவில் விடயதானம் தொடர்பில் எவ்விதமான அனுபவமற்றவர்கள் இணைத்துக் கொள்ளப்பட்டுள்ளனர். உதாரணமாக தனி நடனத்துக்கான நடுவர் குழாமில், நடனமே கற்றுக்கொள்ளதா, எவ்விதமான முன் அனுபவமும் இல்லை ஆசிரியை இணைத்துக்கொள்ள பட்டிருந்தார் என குற்றஞ்சாட்டப்பட்டுள்ளது.
+
+நடுவராக பணியாற்றிய அந்த ஆசிரியை ஆரம்பப்பிரிவு நியமனம் உள்ள தமிழ் பாட வளவாளர் என்றும், அந்த ஆசிரியை தனி நடனத்துக்கு வழங்கிய புள்ளியை எவ்வாறு ஏற்றுக்கொள்வது என்றும் கேள்வி எழுப்பப்பட்டுள்ளது.
+
+இந்நிலையில், சுடுகிறது மடியை பிடி என்பது போல, மாணவர்களை போட்டிக்கு அழைத்து வந்த ஆசிரியர்களில் ஒரு சிலரை நடுவர் குழுவில் இணைத்து போட்டிகள் நடத்தப்பட்டுள்ளன.
+
+...
+
+[Data](articles/2b8e825e.json)
+
+---
+
+### STARLINK සේවා සැපයීමට බලපත්‍රය නිකුත් කෙරේ
+
+*2024-08-13 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199888) · `si`
+
+ශ්‍රී ලංකා තුළ චන්ද්‍රිකා තාක්ෂණය ඔස්සේ බ්‍රෝඩ්බෑන්ඩ් සේවා සැපයීම සඳහා STARLINK ලංකා පෞද්ගලික සමාගමට අදාළ බලපත්‍රය නිකුත් කර තිබේ.
+
+විදුලි සංදේශ නියාමන කොමිසම පැවසුවේ, එම සමාගමට විදුලි සංදේශ සේවා සැපයීමේ බලපත්‍රය අගෝස්තු 12﻿ වනදා සිට ක්‍රියාත්මක වන පරිදි නිකුත් කළ බවය.
+
+◼️
+
+[Data](articles/2103688f.json)
+
+---
+
+### TRCSL issues license for Starlink to operate in Sri Lanka
+
+*2024-08-13 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101201/trcsl-issues-license-for-starlink-to-operate-in-sri-lanka-) · `en`
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has issued a Telecommunications Service Provider License to Starlink Lanka (Private) Limited.
+
+This license authorizes the company to provide satellite broadband services in Sri Lanka from August 12, 2024.
+
+◼️
+
+[Data](articles/c7df13a6.json)
+
+---
+
+### පුත්තලමේ පොහොට්ටු මන්ත්‍රීවරයෙක් රනිල්ට සහය පළ කරයි
+
+*2024-08-13 13:03:23* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලමේ-පොහොට්ටු-මන්ත්‍රීවරයෙක්-රනිල්ට-සහය-පළ-කරයි/11-411347) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් ප්‍රියංකර මහතා ඉදිරි ජනාධිපතිවරණයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කරන බව අද(13දා) ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/cd7b62dc.json)
+
+---
+
+### Sri Lanka to import 3,000 metric tonnes of ginger
+
+*2024-08-13 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-3000-metric-tonnes-of-ginger-176557/) · `en`
+
+ECONOMYNEXT – Sri Lanka will import 3,000 metric tonnes of raw ginger within three months to address the shortage of ginger in the local market, Minister Bandula Gunawardena said.
+
+“This will be done in stages so that local growers are not negatively impacted and consumers don’t have to pay unfair prices,” Gunawardena told reporters.
+
+Sri Lanka State Trading (General) Corporation Limited will import the ginger based on recommendations by a committee established to regulate ginger prices, he said.
+
+A kilo of ginger is currently retailing between 3,500 and 4,145 rupees.
+
+In addition to being a cooking staple in the island, it is also a main component of many ayurvedic medicine.
+
+Sri Lanka to release confiscated ginger haul for Ayurveda medicine production
+
+◼️
+
+[Data](articles/93150db4.json)
+
+---
+
+### Special traffic plan on the 15th
 
 *2024-08-13 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199887) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීම අගෝස්තු 15 වනදා රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාලයේදී සිදුකිරීමට නියමිතය.
+On August 15, the Presidential Election nomination process will take place at Rajagiriya's Elections Secretariat from 8 am to 2 pm. A special traffic plan has been announced to manage the expected congestion.
 
-ඒ වෙනුවෙන් එදින උදෑසන 8 සිට පස්වරු 2 දක්වා විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය නිවේදනය කළේය.
+🟩
+
+The nomination of the Presidential Election will be handed over to the Presidential election on August 15 at the Elections Secretariat at Rajagiriya.
+
+The police announced that a special traffic plan is being implemented from 8 am to 2 pm.
 
 ◼️
 
 [Data](articles/9ab28c34.json)
 
+[Extended Data](ext_articles/9ab28c34.ext.json)
+
 ---
 
-### රාජ්‍ය සේවක වැටුප් සංශෝධනයට අමාත්‍ය මණ්ඩල අනුමැතිය
+### Cabinet approval for public servants
 
 *2024-08-13 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199886) · `si`
 
-රාජ්‍ය සේවයේ සියලුම අංශයන්හි වැටුප් සංශෝධනය කිරීම සඳහා වූ යෝජනා සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Cabinet approval has endorsed proposals to revamp public servant salaries, guided by a specialist committee led by former President Mahinda Rajapaksa. The plan includes categorizing public service posts into four levels, ensuring recruitment meets basic qualifications, and limiting staff by 2030. It also aims to introduce performance-based pay, streamline recruitment processes, and reduce costs by utilizing external services. This salary scheme, effective from January 1, 2015, will manage expenses within the current tax policy.
 
-2025 අයවැය මඟින් එම යෝජනා ක්‍රියාත්මක කිරීම සඳහා නිර්දේශ ඇතුළත් වාර්තාවක් ඉදිරිපත් කිරීම සඳහා විශේෂඥ කමිටුවක් පත්කිරීම සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය මීට පෙර ලබා දී තිබුණි.
+🟩
 
-ඒ අනුව හිටපු ජනාධිපති ලේකම් උදය සෙනෙවිරත්න මහතාගේ ප්‍රධානත්වයෙන් පත්කරන ලද විශේෂඥ කමිටුව විසින් රාජ්‍ය නිලධාරීන්ගේ සහ රාජ්‍ය අංශයේ ප්‍රධාන වෘත්තීය සංගම් සමග සාකච්ඡා කර අදාළ තොරතුරු විශ්ලේෂණය කර වාර්තාව සකස් කර ඇත.
+Cabinet approval has been approved by the proposals to revise the salaries of all sectors of the public service.
 
-එකී වාර්තාවේ නිර්දේශ අනුව පහත සඳහන් යෝජනා සඳහා අනුමැතිය ලබාදීමටත් අදාළ යෝජනා 2025 වසරේ අයවැයට ඇතුළත් කර ක්‍රියාත්මක කිරීමටත් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The Budget 2025 was given before the appointment of the Cabinet approval to appoint a specialist committee to submit a report on the proposals.
+
+Accordingly, the specialist committee headed by former President Mahinda Rajapaksa, Udaya Seneviratne, has been analyzed and the report has been prepared with the main professional unions.
+
+According to the recommendation of the report, the President has approved the proposal to approve the following proposals and implement the proposals to the following proposals.
+
+* All the posts of the entire public service are classified under 4 main 4 levels, attracting the performance of the Sri Lanka Fitness (SLQF) and NVQs.Taking into accounting and categorize recruitment qualifications.
+
+* To follow the basic qualifications of recruitment of primary service categories
 
 ...
 
 [Data](articles/c4bd6de0.json)
+
+[Extended Data](ext_articles/c4bd6de0.ext.json)
 
 ---
 
@@ -79,6 +177,18 @@ Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Strug
 [Data](articles/04db6654.json)
 
 [Extended Data](ext_articles/04db6654.ext.json)
+
+---
+
+### நுவானுக்கான கட்டுப்பணம் செலுத்தபட்டது
+
+*2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவானுக்கான-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
+
+மக்கள் போராட்டக் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகேவுக்காண கட்டுப்பணம்  வைப்பிலிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3f381cc8.json)
 
 ---
 
@@ -127,6 +237,24 @@ Meanwhile, the Ministry of Finance has promised to allocate funds based on the e
 [Data](articles/5a9003c9.json)
 
 [Extended Data](ext_articles/5a9003c9.ext.json)
+
+---
+
+### Sri Lanka water tariff cut of up to 10-pct under formula: Minister
+
+*2024-08-13 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-tariff-cut-of-up-to-10-pct-under-formula-minister-176528/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has given approval to cut household water tariffs up to 10 percent under a cost reflective tariff formula, Minister Bandula Gunawardana said.
+
+“Low income domestic users will get a reduction of about 10 percent,” Gunawardena told reporters.
+
+“For the other categories it will be a reduction of about 5.9 percent and 6 percent.”
+
+Water Supply and Drainage Board has seen costs reduce due to recent reductions in electricity and fuel prices, he said. Chemicals costs and interest rate drops were also considered.
+
+◼️
+
+[Data](articles/03014171.json)
 
 ---
 
@@ -648,6 +776,62 @@ Relatives of the woman told the police that the young man had come out when he c
 
 ---
 
+### Fitch upgrades Sri Lanka’s Habib Bank to ‘AA-(lka)’; Outlook stable
+
+*2024-08-13 10:40:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lankas-habib-bank-to-aa-lka-outlook-stable-176514/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has upgraded the national long-term rating of Habib Bank Limited – Sri Lanka Branch to ‘AA-(lka)’, from ‘A(lka)’. The outlook is stable, Fitch Ratings said.
+
+This follows the improved credit profile of the bank’s head office – Habib Bank Limited, Pakistan’s largest bank – following the upgrade of Pakistan’s sovereign rating.
+
+Fitch Upgrades Habib Bank Limited – Sri Lanka Branch to ‘AA-(lka)’; Outlook Stable
+
+Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has upgraded Habib Bank Limited – Sri Lanka Branch’s (HBLSL) National Long-Term Rating to ‘AA-(lka)’, from ‘A(lka)’.
+
+Stronger Head Office Support: The upgrade of HBLSL’s National Rating reflects the improved credit profile of the bank’s head office – Habib Bank Limited (HBL), Pakistan’s largest bank – following the upgrade of Pakistan’s sovereign rating.
+
+This reflects the greater ability of the head office to provide extraordinary support to the Sri Lankan branch.
+
+...
+
+[Data](articles/63e6315b.json)
+
+---
+
+### ජනපතිගේ මංගල ජනපතිවරණ රැළිය අනුරපුරේදී
+
+*2024-08-13 10:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-මංගල-ජනපතිවරණ-රැළිය-අනුරපුරේදී/11-411339) · `si`
+
+මෙවර ජනපතිවරණය වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජය තහවුරු කිරීම වෙනුවෙන් පැවැත්විමට නියමිත ජනාධිපතිවරණ මංගල රැලිය ලබන සෙනසුරාදා අනුරාධපුර සල්ගාදු පිටියේදී පැවැත්වීමට නියමිතය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරයාට සහාය පළකිරීමට එක් වූ කණ්ඩායම ඇතුළු මෙවර ජනාධිපතිවරයාට සහාය පළකරන පක්ෂ සහ කණ්ඩායම්වල නියෝජිතයින් මෙම රැලිය සඳහා සහභාගී වීමට නියමිතය.
+
+◼️
+
+[Data](articles/75a6be06.json)
+
+---
+
+### Sri Lanka Yala rice harvest projected at 1.77mn tonnes
+
+*2024-08-13 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-yala-rice-harvest-projected-at-1-77mn-tonnes-176515/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting a rice harvest of at least 1.771 million metric tonnes in the Yala minor agricultural season that is coming to an end, a projection by the Department of Agriculture shows.
+
+The projection is made based on 477,299 hectares of rice cultivated up the end of June 2024, which was 1 percent lower than last year.
+
+About 88 percent of the Yala season target of 540,627 hactare completed by June with some areas in Kurunegala, Puttalam, Gampaha, Kalutara, Galle and Matara remaining to cultivated.
+
+In the 2023, Yala season, which was also a good year, 1.817 million metric tonnes of rice was harvested with 505,076 hectares cultivated and 491,672 harvested.
+
+The Maha cropping season, which brings most of the rice crop, depends on inter-monsoon rains over which there are some concerns.   (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/e03b84ca.json)
+
+---
+
 ### Business a businessman killed in lorry
 
 *2024-08-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199879) · `si`
@@ -851,6 +1035,28 @@ The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint mil
 [Data](articles/2e9f63c6.json)
 
 [Extended Data](ext_articles/2e9f63c6.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 299.50/70 to US dollar, bond yields steady
+
+*2024-08-13 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-299-50-70-to-us-dollar-bond-yields-steady-176510/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 299.50/70 to the US dollar on Tuesday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.09 percent.
+
+In the secondary market, treasury bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.00/15 percent, from 11.05/10 percent.
+
+A bond maturing on 15.12.2027 was quoted stable at 12.05/20 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.20/40 percent, from 12.30/45 percent.
+
+In equities, Colombo’s All Share Price Index opened 10.15 points higher at 11,322, while the S&P SL20 of more liquid stocks opened up at 0.08 percent or 2.61 points to 3,231.
+
+◼️
+
+[Data](articles/e5e7afe4.json)
 
 ---
 
@@ -2037,239 +2243,5 @@ He officially met with the president yesterday afternoon and expressed his suppo
 [Data](articles/85570fe3.json)
 
 [Extended Data](ext_articles/85570fe3.ext.json)
-
----
-
-### ACCA honours over 300 new members cultivating premier accounting talent
-
-*2024-08-13 00:15:34* · [`dailyftlk`](https://www.ft.lk/business/ACCA-honours-over-300-new-members-cultivating-premier-accounting-talent/34-765452) · `en`
-
-Member Network Panel ACCA Chairman Chaaminda Kumarasiri addressing the audience
-
-The Association of Chartered Certified Accountants (ACCA) recently held its New Member Ceremony 2024 at the Courtyard by Marriott in Colombo. The event celebrated the induction of 110 new members and 26 FCCA members present at the event, marking a significant milestone in the professional journeys of these finance professionals. This year also marks the 120th anniversary of ACCA, emphasising its longstanding commitment to fostering global finance talent.
-
-ACCA Sri Lanka Member Network Panel (MNP) Chairman Chaaminda Kumarasiri warmly welcomed and congratulated the new members on their achievements. He encouraged the new members to engage with ACCA’s activities and subcommittees, and to help “lead the accountancy profession for a changed world”.
-
-...
-
-[Data](articles/66bb4b3c.json)
-
-[Extended Data](ext_articles/66bb4b3c.ext.json)
-
----
-
-### Athulla Edirisinghe honoured with Japan’s “The Order of the Rising Sun, Gold and Silver Rays”
-
-*2024-08-13 00:12:53* · [`dailyftlk`](https://www.ft.lk/business/Athulla-Edirisinghe-honoured-with-Japan-s-The-Order-of-the-Rising-Sun-Gold-and-Silver-Rays/34-765451) · `en`
-
-Japanese Ambassador Mizukoshi Hideaki on 9 August conferred “The Order of the Rising Sun, Gold and Silver Rays” on Athulla Edirisinghe, Japan Sri Lanka Technical and Cultural Association (JASTECA) former President and the Co-Owner/Director “KUURAKU”, a Japanese restaurant in Colombo, in recognition of his outstanding contribution to promoting friendly relations and mutual understanding and cultural exchange between Japan and Sri Lanka.
-
-Ambassador Mizukoshi commended Edirisinghe for his relentless efforts in promoting Japanese-style management systems such as 5S and Kaizen in Sri Lanka. As a long-committed member of JASTECA, and particularly during his tenure as President, his unwavering dedication has greatly contributed to the widespread adoption of these practices across various industries in Sri Lanka, significantly enhancing productivity and fostering closer economic ties between our two nations.
-
-...
-
-[Data](articles/9e1c8e1d.json)
-
-[Extended Data](ext_articles/9e1c8e1d.ext.json)
-
----
-
-### 2024-08-12 (Monday)
-
-### The number of people who controlled control is further increased
-
-*2024-08-12 23:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தியவர்களின்-எண்ணிக்கை-மேலும்-அதிகரிப்பு/175-342060) · `ta`
-
-As of December 12th, the Election Commission has approved 32 candidates, including 16 from recognized political parties, one other party, and 15 independents, to run in the upcoming presidential election. The deadline for candidate submissions ends on December 14th at noon.
-
-🟩
-
-The Election Commission said that 32 candidates have been controlled till today (12) to contest the presidential election.
-
-Accordingly, 16 recognized political parties, another political party and 15 independent candidates are controlled.
-
-It is worth noting that the relevance period for the candidates will be completed on Wednesday (14) at 12 noon.. Remble
-
-◼️
-
-[Data](articles/a025bb20.json)
-
-[Extended Data](ext_articles/a025bb20.ext.json)
-
----
-
-### First Special Course Training Program for Sri Lankan diplomats and officials
-
-*2024-08-12 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190945) · `ta`
-
-The first specialized training program for Sri Lankan diplomats and officials was introduced at the Sushma Swaraj Foreign Service Institute, initiated by India's External Affairs Minister, Ali Sabri, and Indian Foreign Minister, Jaishankar. This initiative aims to enhance personal development and regional cooperation, focusing on global work challenges and digital era opportunities.
-
-🟩
-
-The first special curriculum for Sri Lankan diplomats and officials was launched at Sushma Swaraj Foreign Service Institute.
-
-At the request of External Affairs Minister Ali Sabri, Indian Foreign Minister. Jaishankar launched a special curriculum program.
-
-This will be a beneficial for Sri Lanka and the region for their personal development.
-
-Indian Foreign Minister. Jaishankar refers to this on his X site,
-
-Sushma Swaraj said I am happy to meet Sri Lankan ambassadors and officials in the Special Course of Foreign Service.
-
-They discussed the importance of working globally and exchanged ideas on the possibilities and challenges of the digital era.
-
-◼️
-
-[Data](articles/4df37cfa.json)
-
-[Extended Data](ext_articles/4df37cfa.ext.json)
-
----
-
-### Can The “Hammer & Sickle” Bring Prosperity To Sri Lanka?
-
-*2024-08-12 22:07:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-the-hammer-sickle-bring-prosperity-to-sri-lanka/) · `en`
-
-Sri Lanka is set to hold a Presidential Election in September this year, followed closely by a General Election. However, the country continues to grapple with widespread allegations of malfunction, corruption, fraud, nepotism, and the pervasive influence of party politics across nearly every facet of society.
-
-Over the last 70 years since independence, our governing political parties and coalitions have introduced policies under the guise of Capitalism, Socialism, and Liberalism. They have also advocated local and foreign policies based on Americanisation, Europeanisation, Neutralisation (non-aligned), Globalisation, “Chineseisation” and more recently possible “Indianisation.” All political parties and their coalitions came to power insisting that there was “no other way” to develop the nation other than through the emulation and absorption of one of these political cultures and their policies for economic, social, and political development.
-
-...
-
-[Data](articles/3f9acf2c.json)
-
-[Extended Data](ext_articles/3f9acf2c.ext.json)
-
----
-
-### Suspect sells beer in Kandy Perahera
-
-*2024-08-12 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199866) · `si`
-
-A suspect selling overpriced 'Beer Canans' during the Kandy-Esala Perahera was arrested and fined Rs. 30,000 after police raids based on tip-offs about inflated prices. The Excise Department also temporarily closed all liquor outlets in Kandy to curb such practices during the festival.
-
-🟩
-
-The Kandy Divisional Corruption General has been arrested by the Kandy Divisional Cannes who were selling 'Beer Canans' at higher prices at higher prices at higher prices to the forefront of the Kandy-Esala Perahera.
-
-The raid has been carried out on information that the Perahera was to tour the street.
-
-Police investigations have revealed that a "beer can 'was purchased at Rs. 550.
-
-The suspect was produced before the Kandy Magistrate's Court and fined Rs. 30,000.
-
-The Excise Department had taken steps to close the Kandy liquor to the 20th of this month to mark the Esala Perahera.
-
-◼️
-
-[Data](articles/ec57cb00.json)
-
-[Extended Data](ext_articles/ec57cb00.ext.json)
-
----
-
-### Sri Lanka’s corruption watchdog raises concerns over public resource abuse for polls
-
-*2024-08-12 21:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-corruption-watchdog-raises-concerns-over-public-resource-abuse-for-polls-176495/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL), a non-government organization which is working against corruption, raised concerns over complaints of President Ranil Wickremesinghe’s election campaign using public resources owned by taxpayers money.
-
-TISL, which has been in the island nation for the past 20 years, has deployed 200 officers to observe and collect data on public resource misuse and abuses and it has already received 45 complaints mostly against President Wickremesinghe’s campaign.
-
-The complaints include incentives for government servants, developing various religious places, providing scholarships, opening of houses and buildings, providing computers, using buildings and playgrounds for election rallies, using Presidential Media Division to promote a specific candidate, using state media to promote and demote specific parties, distribution of goods to volunteer organizations, and providing deeds as well as loans, the TISL said.
-
-...
-
-[Data](articles/e47bf414.json)
-
-[Extended Data](ext_articles/e47bf414.ext.json)
-
----
-
-### Sajith's victory. Ampara District Organizer of Shakti Jayantha Ratnayaka
-
-*2024-08-12 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/190944) · `ta`
-
-Jayantha Ratnayake, a senior official from the United People's Power in Ampara District, predicts Sajith Premadasa's victory in the upcoming presidential election, highlighting his ability to unite people across racial, religious, linguistic, and caste lines. The announcement was made during a gathering led by Eastern Provincial Council Chairman Chandradasa Kalapatti, attended by several party leaders, including Dr. Tilak Rajapaksa. Ratnayake emphasizes Premadasa's commitment to serving the poor and his father's legacy of progressive policies, suggesting a widespread anticipation for Premadasa's return to power.
-
-🟩
-
-The United People's Power District Organizer and Senior Superintendent of Police of the Ampara District, Jayantha Ratnayake, said that Sajith Premadasa is sure to win the upcoming presidential election.
-
-Eastern Provincial Council, Chairman Chandradasa Kalapatti's Ampara Home was held on Monday (12) at the United People's Power of Ampara District.
-
-A large number of party's leaders, including Dr. Tilak Rajapaksa, a member of the Ampara District Parliamentarian Dr. Tilak Rajapaksa, participated in the event.
-
-Speaking to journalists after the meeting was over, Jayantha Ratnayaka further stated
-
-Chairman Sajith Premadasa is the eye of all the people of this country. He is the one who embraces all people beyond the differences such as race, religion, language and caste. Together with all ethnicities, the time has blossomed to hand over the leadership of our country to him.
-
-...
-
-[Data](articles/e3c2bd23.json)
-
-[Extended Data](ext_articles/e3c2bd23.ext.json)
-
----
-
-### Surya's 'Gangua' film preview
-
-*2024-08-12 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/190926) · `ta`
-
-"Surya's 'Gangua' film preview, featuring Bollywood stars Bobby Deol and Disha Patani, directed by Siva, and composed by Devi Sri Prasad, broke records with over a million views in its first hour. The film, produced by Studio Green and U V Creations, is set for worldwide release in various Indian languages on October 10th."
-
-🟩
-
-Actor Surya's 'Gangua' preview of the Indian fan. The preview has been visited by more than a million viewers within an hour of release and set a new record.
-
-Surya, Bollywood actors Bobby Deol and Disha Patani have starred in the film 'Gangua' directed by leading star director Siva.
-
-The film has been composed by 'Rock Star' Devi Sri Prasad for the film.. The film is being produced by Studio Green and U V Creations, which is being prepared as Fanty Exercise Entertainment.
-
-The film's teaser and Fire Song have been released and have been a record of millions of viewers.
-
-In this case, the film has been released.A stunning scenes - Surya's character - verses - background music - have been a great welcome as it is aimed at the audience to look at them again.
-
-In addition, the film will be released in other Indian languages ​​including Tamil at the film House around the world on the 10th of October.
-
-◼️
-
-[Data](articles/38f834cb.json)
-
-[Extended Data](ext_articles/38f834cb.ext.json)
-
----
-
-### To All Presidential Candidates: Harnessing The Ocean: A Strategic Economic Plan For Sri Lanka
-
-*2024-08-12 20:56:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/to-all-presidential-candidates-harnessing-the-ocean-a-strategic-economic-plan-for-sri-lanka/) · `en`
-
-As the race for the presidency intensifies, it is disheartening to see some candidates failing to present concrete economic plans. Instead, they resort to empty rhetoric, hoping to win over voters with hollow promises. However, politics is not a game of words; it requires well-thought-out strategies. Among the most critical elements that any serious economic plan must include is the ocean—an invaluable resource that has long been overlooked.
-
-Sri Lanka is often described as a nation sitting on a treasure chest, surrounded by the vast expanse of the Indian Ocean. This includes a large Exclusive Economic Zone (EEZ) and a significant confidential shelf landmass rich in valuable graphite. Yet, despite the wealth of resources it offers, there has been no comprehensive plan to unlock its true potential. The ocean is not just a body of water; it is a reservoir of economic opportunities that could propel our nation to new heights.
-
-...
-
-[Data](articles/9af8d1ae.json)
-
-[Extended Data](ext_articles/9af8d1ae.ext.json)
-
----
-
-### Dhoni-backed Garuda Aerospace enters Sri Lankan market to target agricultural sector
-
-*2024-08-12 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101187/dhoni-backed-garuda-aerospace-enters-sri-lankan-market-to-target-agricultural-sector) · `en`
-
-Cricketer M S Dhoni-backed drone technology firm Garuda Aerospace on Monday announced its entry in the Sri Lankan market where it will primarily target agricultural sector to enhance farming practices, besides exploring opportunities in homeland security and industrial applications.
-
-As part of the company’s global expansion plans, the foray into Sri Lanka will also support Garuda in capitalising on the country’s strategic location and drone-friendly regulatory environment, Garuda Aerospace said.
-
-The company said it is looking to spread its presence in at least 50 countries over the next few years, and has set aside USD 10 million, of the over Rs 100 crore revenue it delivered in FY24, to fuel the international growth.
-
-...
-
-[Data](articles/70cb3d53.json)
-
-[Extended Data](ext_articles/70cb3d53.ext.json)
 
 ---

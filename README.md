@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 04:07:15**
+As of **2024-08-14 04:21:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,586 (100.0%) of 40,591 articles have been extended.
+40,591 (100.0%) of 40,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -214,6 +214,8 @@ On 2 May 2022, the Cabinet of Ministers approved to amend the National Water Sup
 
 [Data](articles/73f7b812.json)
 
+[Extended Data](ext_articles/73f7b812.ext.json)
+
 ---
 
 ### Framework for selecting investors for drinking water sector
@@ -233,6 +235,8 @@ The proposal to implement this selection criteria framework presented by the Wat
 ◼️
 
 [Data](articles/6c7b0d40.json)
+
+[Extended Data](ext_articles/6c7b0d40.ext.json)
 
 ---
 
@@ -578,35 +582,49 @@ In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to
 
 ---
 
-### பெருந்தோட்டப் பகுதிகளில் ஒரே வீட்டில் வசிக்கும் தனிக்குடும்பங்களுக்கும்  அஸ்வெசும கொடுப்பனவு - ஜனாதிபதியின் யோசனைக்கு அமைச்சரவை அங்கீகாரம்
+### Assembly Payment for Separate Families living in the Plantation areas - Cabinet approval for the President's idea
 
 *2024-08-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191010) · `ta`
 
-பெருந்தோட்டப் பகுதிகளில் லயன் அறைகளில் வாழ்கின்ற தோட்டத் தொழிலாளர் குடும்பங்களுக்காக அஸ்வெசும நலன்புரி கொடுப்பனவுகளை வழங்க தீர்மானிக்கப்பட்டுள்ளது. அதாவது ஒரே வீட்டில் வாழும் உப குடும்பங்களுக்கும் இந்த கொடுப்பனவுகளை வழங்கும் தீர்மானத்துக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன தெரிவித்தார்.
+Cabinet approves welfare payments for plantation workers living in shared Lion Rooms, aiming to address the unique challenges faced by families in these conditions. The decision follows the President's directive to consider actual family sizes when distributing benefits under the Welfare Benefits Act of 2022.
 
-அமைச்சரவைத் தீர்மானங்களைக் அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (13) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நலன்புரி நன்மைகள் சபை தற்போது அஸ்வெசும நலன்புரி நன்மைத் திட்டத்தை அமுல்படுத்தி வருகிறது. 2002 ஆண்டின் 24ஆம் இலக்க நலன்புரி நன்மைகள் சட்டத்தின் ஏற்பாடுகளுக்கு அமைய தயாரிக்கப்பட்ட 2022 ஆண்டின் 1  இலக்க நலன்புரி நன்மை கொடுப்பனவு (கொடுப்பனவை பெறுவதற்கு தகைமையான நபர்களைத் தெரிவு செய்தல்) ஒழங்குவிதிகளுக்கு அமைய திட்டத்துக்கான பயனாளிகள் தெரிவு செய்யப்படுகின்றனர்.
+It has been decided to provide welfare payments for plantation workers who live in Lion Rooms in the plantation areas. Cabinet spokesman Bandula Gunawardena said that the Cabinet has approved the decision to provide these allowance to sub -families living in the same house.
+
+He further stated that the weekly press conference to announce the Cabinet resolutions was held on Tuesday (13).
+
+The Welfare Benefits Council is currently implementing the Aswesa Welfare Program. Beneficiaries for the project of the year 2002 are selected for the plan of the year 2002, which is prepared for the provisions of the Welfare Benefits Act of 2022.
+
+Persons or families who meet the qualifications mentioned in those regulations will receive the benefits of getting the benefits. Due to the lack of separate houses in the plantation sector, the individual families of the plantation workers collectively live in the same Layin homes.
 
 ...
 
 [Data](articles/fd7502b8.json)
 
+[Extended Data](ext_articles/fd7502b8.ext.json)
+
 ---
 
-### நாட்டுக்கு நல்லது நடக்க வேண்டும் என்றால் ரணில் விக்கிரமசிங்கவை ஜனாதிபதியாக்க மக்கள் தீர்மானிக்க வேண்டும் - ஆனந்தகுமார்
+### If the country is to be good, the people should decide to make Ranil Wickremesinghe President - Anandakumar
 
 *2024-08-13 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191019) · `ta`
 
-நாட்டின் எதிர்காலம் வளம்பெற வேண்டும் என்றால் ஜனாதிபதி ரணில் விக்ரமசிங்க வெற்றிபெற வேண்டும். இல்லாவி்ட்டால் நாடு மீண்டும் பழைய நிலைக்கே செல்லும். மக்கள் இதனை உணர்ந்து செயற்பட வேண்டும் என ஜனாதிபதியின் தொழிற்சங்க ஏற்பாட்டாளர் சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+Anandakumar urges voters to elect Ranil Wickremesinghe as President for Sri Lanka's prosperity, highlighting his leadership during economic crises and recovery efforts.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-2019 பாராளுமன்ற தேர்தலில் ஐக்கிய தேசிய கட்சியின் தேர்தல் விஞ்ஞாபனத்தில் நாட்டின் பொருளாதார நிலை தொடர்பாகவும் பொருளாதாரத்தை கட்டியெழுப்ப தேவையான நடவடிக்கைகளை எடுக்க தவறும் பட்சத்தில் நாட்டுக்கு ஏற்படும் பாதிப்பு தொடர்பாகவும் தெளிவாக குறிப்பிடப்பட்டிருக்கிறது. தேர்தல் பிரசாரங்களின்போது இந்த விடயங்களை மக்களுக்கு நாங்கள் தெளிவாக தெரிவித்தோம். என்றாலும் அன்று மக்கள் நாங்கள் சொன்னதை நம்பவில்லை. இறுதியாக நாடு வங்குராேத்து அடைந்தது.
+President Ranil Wickremesinghe must win if the future of the country is to flourish. If Ilvitt, the country will go back to the old position. President's union organizer Subbaiah Anandakumar said the people should realize this.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
+
+In the 2019 parliamentary elections, the United National Party's election manifesto is clearly stated on the country's economic status and the impact of the country if it fails to take necessary steps to build the economy.. We made clear these issues during the election campaigns. People don't believe what we said that day. Finally the country reached the bank.
 
 ...
 
 [Data](articles/6a32d8d6.json)
+
+[Extended Data](ext_articles/6a32d8d6.ext.json)
 
 ---
 
@@ -1488,19 +1506,27 @@ The police have announced that a special traffic plan will be implemented that d
 
 ---
 
-### மக்கள் பிழையான தீர்மானம் எடுத்தால் அதன் பாதிப்பை மக்களே அனுபவிக்க நேரிடும் - அகிலவிராஜ் காரியவசம்
+### If people make a wrong decision, people will suffer its impact - Akhilaviraj Kariyawasam
 
 *2024-08-13 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191001) · `ta`
 
-ஊடக பிரசாரங்களையும் அனுபவமில்லாத அரசியல்வாதிகளின் பொய் வாக்குறுதிகளுக்கும் மக்கள் ஏமாந்துவிடக்கூடாது. தேர்தலில் மக்கள் பிழையான தீர்மானம் எடுத்தால் அதன் பெறுபேற்றை மக்களே அனுபவிக்க நேரிடும். அதனால் ரணில் விக்ரமசிங்கவுக்கு இன்னும் ஐந்து வருடங்களுக்காவது சந்தர்ப்பம் வழங்க மக்கள் தீர்மானிக்க வேண்டும் என ஐக்கிய தேசிய கட்சியின் உபதலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+Akhilaviraj Kariyawasam warns against voting for inexperienced politicians, highlighting the potential consequences of electing leaders without substantial experience. He advocates for Ranil Wickremesinghe, emphasizing his ability to stabilize the country and prevent future falls. Kariyawasam stresses the importance of making informed decisions based on candidates' track records and policies, rather than being swayed by media campaigns and false promises.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-வீழ்ச்சியடைந்திருந்த நாட்டை மீட்டெடுத்து, முன்னெடுத்துச்செல்லும் சந்தர்ப்பத்தில் மிகவும் தீர்மானமிக்க தேர்தலுக்கு முகம்கொடுத்துள்ளோம். நாட்டை தொடர்ந்து முன்னெடுத்துச்செல்ல யார் பொருத்தம் என்பதை தெரிவு செய்வதற்கு தற்போது மக்களுக்கு சந்தர்ப்பம் கிடைத்திருக்கிறது.
+People should not be deceived by media propaganda and false promises of inexperienced politicians. If people make a wrong decision in the election, people will experience its results. UNP Vice -President Akhilaviraj Kariyawasam said that the people should decide to give Ranil Wickremesinghe for another five years.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
+
+We have faced the most decisive election in the event of retrieving and carrying out the falling country. People are now offering the opportunity to choose who is appropriate to continue the country.
+
+In many cases in the past in the election of the country's president, people have made a decision on various reasons. In the last presidential election, the country went to the bank by selecting a mistake.
 
 ...
 
 [Data](articles/a669dbf9.json)
+
+[Extended Data](ext_articles/a669dbf9.ext.json)
 
 ---
 

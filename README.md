@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 18:29:13**
+As of **2024-08-13 18:39:14**
 
 ## Newspaper Stats
 
-*Scraped **40,527** Articles*
+*Scraped **40,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 387
 islandlk | 2,344
-economynextcom | 2,453
+economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,727
 adaderanalk | 4,724
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,158
-virakesarilk | 6,415
+virakesarilk | 6,421
 adaderanasinhalalk | 6,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,523 (100.0%) of 40,527 articles have been extended.
+40,523 (100.0%) of 40,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### Sri Lanka Port City land for $100mn Asiri hospital, Gateway campuses
+
+*2024-08-13 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-land-for-100mn-asiri-hospital-gateway-campuses-176651/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the leasing state land within the Colombo Port City to build a hospital, school and university, a government statement said.
+
+Asiri Port City Hospital (Pvt) Ltd is expected to invest 100 million dollars. Gateway International University (Pvt) Ltd is to invest 25 million US dollars in a university and 25 million dollars in a school.
+
+Mayo Clinic of the US was expected to tie up with Asiri Hospitals group for the project.
+
+The Colombo Port City was reclaimed from the sea by China Harbor Engineering Company.
+
+The “marketable government lands” within the Port City will be leased for the hospital and port, the statement said.
+
+◼️
+
+[Data](articles/a4b4cf4d.json)
+
+---
 
 ### ඇසළ පෙරහැර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක්
 
@@ -45,6 +65,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/941fcca2.json)
+
+---
+
+### Sri Lanka sells Rs60bn in 2029 and 2032 bonds
+
+*2024-08-13 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs60bn-in-2029-and-2032-bonds-176657/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 60 billion rupees in 2029 and 2032 bonds, data from the state debt office showed.
+
+All offered 45 billion rupees of 15 June 2029 bonds were sold at an average yield of 12.98 percent.
+
+All offered 15 billion rupees of 01 October 2032 bonds were sold at an average yield of 13.25 percent. (Colombo/Aug13/2024)
+
+◼️
+
+[Data](articles/6251a354.json)
+
+---
+
+### Sri Lanka bond yields up, rupee closes stronger at 299.10/25
+
+*2024-08-13 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-up-rupee-closes-stronger-at-299-10-25-176634/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.10/25 to the US dollar Tuesday, from 299.50/80 Monday dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 11.00/30 percent, up from 11.05/10 percent.
+
+Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
+
+◼️
+
+[Data](articles/b529e33e.json)
 
 ---
 
@@ -204,6 +256,28 @@ As a result the gates will be opened, the people who use the Mahaweli River to t
 
 ---
 
+### Sri Lanka stocks close up, foreign interest returns
+
+*2024-08-13 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-interest-returns-176630/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.31 percent, or 34.93 points, at 11,347; while the more liquid S&P SL20 Index closed up 0.33 percent, or 10.74 points, at 3,244.
+
+“The positivity continued, with foreign interest contributing to a third of the turnover,” Softlogic Stockbrokers said. “There’s been a little bit of investor interest coming in, a sort of marginal recovery.”
+
+There was one crossing recorded; Foreign buying on bluechip conglomerate John Keells Holdings Plc contributed over 100 million rupees to the turnover. The share closed up at 179.50 rupees. The stock was the largest contributor to the turnover in the day.
+
+JKH shares will be ex-rights from September 10, the company said. Rights can be traded from September 26.
+
+Foreign selling was seen in Dipped Products Plc (up at 33.20), Chevron Lubricants Lanka Plc (flat at 119.00), and Laufs Gas Plc non-voting (up at 19.10).
+
+...
+
+[Data](articles/6e482cce.json)
+
+---
+
 ### Pinnawala and Kitulgala tourist
 
 *2024-08-13 16:46:04* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-හා-කිතුල්ගල-සංචාරක-තීරයක්/11-411350) · `si`
@@ -228,6 +302,22 @@ About 34% of tourist arrivals will visit Pinnawala Elephant Peet, Minister said.
 
 ---
 
+### பிரதான நான்கு வேட்பாளர்களின் நூறு தேர்தல் பிரசார கூட்டங்கள்..!  16 ஆம் திகதியிலிருந்து ஆரம்பம்
+
+*2024-08-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190996) · `ta`
+
+எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களாக தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க, சஜித் பிரேமதாச, அநுர குமார திசாநாயக்க , நாமல் ராஜபக்ச ஆகியோர்  15 ஆம் திகதி வேட்பு மனு தாக்கல் செய்த பின்னர் நாடெங்கினும் 100 பிரசார கூட்டங்களில் கலந்து கொள்கின்றனர்.
+
+ஐக்கிய மக்கள் சக்தியின்  தலைவர் சஜித் பிரேமதாச எதிர்வரும் 16 ஆம் திகதி தனது முதலாவது பிரசாரக் கூட்டத்தை குருணாகலில் இருந்தும், சுயேச்சை வேட்பாளராக போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது பிரசார கூட்டத்தை 17 ஆம் திகதி அநுராதபுரத்திலிருந்தும் , தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திசாநாயக்க 17 ஆம் திகதி தனது முதலாவது பிரசாரக் கூட்டத்தை அம்பாந்தோட்டையிலிருந்தும், பொதுஜன பெரமுன வேட்பாளர் நாமல் ராஜபக்ச தனது முதலாவது பிரசாரக் கூட்டத்தை 21 ஆம் திகதி அநுராதபுரத்திலிருந்தும் ஆரம்பிக்கவுள்ளனர்.
+
+மேற்படி நான்கு வேட்பாளர்களும் அனைத்து மாவட்டங்களிலும் சுமார் 100 பிரசார கூட்டங்களிலும் பேரணிகளிலும்  கலந்து கொள்ளவுள்ளதாக கட்சித்தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/18e34de7.json)
+
+---
+
 ### SLPP MPs supporting Ranil to form new alliance; Minister proposed as GS
 
 *2024-08-13 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101207/slpp-mps-supporting-ranil-to-form-new-alliance-minister-proposed-as-gs) · `en`
@@ -239,6 +329,22 @@ State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana ha
 [Data](articles/b2b00b79.json)
 
 [Extended Data](ext_articles/b2b00b79.ext.json)
+
+---
+
+### நட்சத்திர சின்னத்தில் திலித் போட்டியிடுவார் - உதய கம்மன்பில
+
+*2024-08-13 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191008) · `ta`
+
+சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர நட்சத்திரம் சின்னத்தில் தேர்தலில் போட்டியிடவுள்ளார். தேசியத்தை முன்னிலைப்படுத்தி வேட்பாளரை களமிறக்கியுள்ளோம். நாட்டின் சுயாதீனத்தை பாதுகாக்க வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+சர்வஜன சக்தியின் ஜனாதிபதி வேட்பாளர் திலித் ஜயவீர சார்பில் செவ்வாய்க்கிழமை (13) தேர்தல்கள் ஆணைக்குழுவில் கட்டுப்பணம் செலுத்தினர். இச்சந்தர்ப்பத்தில் கிழக்கு மாகாண முன்னாள் ஆளுநர் அநுராத யஹம்பத், பாராளுமன்ற உறுப்பினர்களான  வீரசுமன வீரசிங்க, கெவிந்து குமாரதுங்க ஆகியோர் கலந்துக் கொண்டனர்.
+
+தேசியத்தை முன்னிலைப்படுத்தி ஜனாதிபதி வேட்பாளரை களமிறக்கியுள்ளோம். 69 இலட்ச மக்கள் நாட்டின் இறையாண்மையை கருத்திற் கொண்டு கோட்டாபய ராஜபக்ஷவை ஜனாதிபதியாக தெரிவு செய்தோம். ஆனால் அவர் முறையாக செயற்படவில்லை. மக்களாணை பலவீனமடைய கூடாது என்பதற்காகவே தொழிலதிபர் திலித் ஜயவீரவை ஜனாதிபதி வேட்பாளராக களமிறக்கியுள்ளோம்.
+
+...
+
+[Data](articles/1a115ff1.json)
 
 ---
 
@@ -268,6 +374,30 @@ Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injur
 
 ---
 
+### கடந்த ஆண்டு ஐரோப்பாவில் கடும் வெப்பத்தால் 47,000 பேர் உயிரிழப்பு
+
+*2024-08-13 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190994) · `ta`
+
+கடந்த 2023 ஆம் ஆண்டு  ஐரோப்பாவில் கடும் வெப்பத்தால் தெற்கில் உள்ள நாடுகள் கடுமையாக பாதிக்கப்பட்டு 47,000 க்கும் அதிகமானோர் உயிரிழந்துள்ளார்கள்.
+
+இதனை திங்கட்கிழமை  (12) ஸ்பெயினில் உள்ள பார்சிலோனா இன்ஸ்டிடியூட் ஃபார் குளோபல் ஹெல்த் (ஐஎஸ்குளோபல்) தெரிவித்துள்ளது.
+
+காலநிலை மாற்றத்தால் தொடர்ந்து வெப்பநிலை அதிகரித்து வருவதால் உலகின் மிக வேகமாக வெப்பமடையும் கண்டத்தில் ஐரோப்பியர்கள் வாழ்வதோடு, உடல் ஆரோக்கியத்தில் பெரிய அளவிலான தாக்கங்களை எதிர்கொள்கின்றனர்.
+
+35 ஐரோப்பிய நாடுகளில் முன்னெடுத்த ஆராய்ச்சியில் அதிக வெப்பநிலையால் 47,690 பேர் உயிரிழந்துள்ளதாக ஆராய்ச்சியாளர்கள் மதிப்பிட்டுள்ளனர்.
+
+அதில், கிரீஸ், பல்கேரியா, இத்தாலி மற்றும் ஸ்பெயின் ஆகிய நாடுகளில்  அதிகளவான உயிரிழப்புகள் பதிவாகியுள்ளன.
+
+2022 ஆம் ஆண்டில் கடும் வெப்பத்தால் 60,000 க்கும் மேற்பட்டவர்கள் உயிரிழந்துள்ள நிலையில், 2023 ஆம் ஆண்டில் குறைந்தளவானவர்களே உயிரிழந்துள்ளனர்.
+
+இதற்கு  கடந்த 20 ஆண்டுகளில் கடும் வெப்பநிலையை எதிர்த்து போராடுவதற்கு எடுத்த நடவடிக்கையே காரணமாகும். இல்லாவிடின் உயிரிழப்புகளின் எண்ணிக்கை 80 சதவீதம் அதிகரித்திருக்கும்.
+
+◼️
+
+[Data](articles/3bfdc056.json)
+
+---
+
 ### Northern and Eastern delegation among political representatives in Sajith remained
 
 *2024-08-13 16:16:09* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-හදීසියේම-උතුරු---නැගෙනහිර-දේශපාලන-නියෝජිතයන්-අතර-සාකච්ඡාවක/11-411349) · `si`
@@ -283,6 +413,60 @@ Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, was head
 [Data](articles/eccb676e.json)
 
 [Extended Data](ext_articles/eccb676e.ext.json)
+
+---
+
+### Sri Lanka’s Browns backed Marina in Port City named strategic venture
+
+*2024-08-13 16:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-backed-marina-in-port-city-named-strategic-venture-176627/) · `en`
+
+ECONOMYNEXT – Colombo Marina Development (Pvt) Limited, a venture backed by Sri Lanka’s Browns Investments has been designated an enterprise of primary strategic importance by the cabinet of ministers, a statement said.
+
+The venture has been named a business of primary strategy importance and will be eligible to applicable incentives.
+
+The company is fully owned by Browns Investments, the statement said.
+
+Colombo Marina Development has leased for blocks of land in the Colombo Port City.
+
+The Marina has can dock 243 yachts with capitainerie. There will be entertainment area, retail, restaurant and banquet facilities.
+
+President Ranil Wickremesinghe has proposed that the firm be given the status of a business of strategic importance. (Colombo/Aug12/2024)
+
+◼️
+
+[Data](articles/074ad96a.json)
+
+---
+
+### 'ஆக்கிரமிப்பாளனுக்கு தண்டனை வழங்குவது ஒருதேசத்தின் உரிமை"- இஸ்ரேல் மீது தாக்குதலை மேற்கொள்வதை நியாயப்படுத்தினார் ஈரான் ஜனாதிபதி
+
+*2024-08-13 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191007) · `ta`
+
+ஹமாஸ் தலைவரை கொலை செய்தமைக்காக இஸ்ரேலிற்கு எதிராக பதில் தாக்குதலை மேற்கொள்ளவேண்டும் என ஈரான் சிந்திப்பது சரியான விடயம் என அந்த நாட்டின் ஜனாதிபதி மசூட் பெசெஸ்கியான் தெரிவித்துள்ளார்.
+
+பிரிட்டிஸ் பிரதமர் கெய்ர் ஸ்டாமெருடனான தொலைபேசி உரையாடலின் போது ஈரான் ஜனாதிபதி இதனை தெரிவித்துள்ளார்.
+
+ஆக்கிரமிப்பாளனுக்கு தண்டனை வழங்குவது ஒருதேசத்தின் உரிமை என தெரிவித்துள்ள ஈரான் ஜனாதிபதி இவ்வாறான நடவடிக்கை குற்றங்களை ஆக்கிரமிப்பை நிறுத்துவதற்கு தீர்வு எனவும் தெரிவித்துள்ளார்.
+
+காசாவிலும் வேறு பகுதிகளிலும் இஸ்ரேலின் முன்னொருபோதும் இ;ல்லாத மனிதாபிமான குற்;றங்கள் குறித்த மேற்குலகின் மௌனம் பொறுப்புணர்வற்றது என தெரிவித்துள்ள ஈரான் ஜனாதிபதி இஸ்ரேலின் இந்த நடவடிக்கை பிராந்திய சர்வதேச பாதுகாப்பிற்கு அச்சுறுத்தலை  ஏற்படுத்தும் நடவடிக்கைகளில் இஸ்ரேல் ஈடுபடுவதற்கு தூண்டுகின்றது எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e0645c3a.json)
+
+---
+
+### வியாழக்கிழமை இராஜகிரியவில் விசேட போக்குவரத்து திட்டம்
+
+*2024-08-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191005) · `ta`
+
+இரா­ஜ­கி­ரி­யவில் உள்ள தேர்­தல்கள் ஆணைக்­கு­ழுவின் செய­ல­கத்தில் எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்கள் 15 ஆம் திகதி வியாழக்கிழமை காலை 8 மணி முதல் பிற்பகல் 2 மணி வரை ஏற்றுக்கொள்ளப்படவுள்ளது.
+
+இதனால்,  அன்றைய தினம் விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக என பொலிஸார் அறிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d213b936.json)
 
 ---
 
@@ -303,6 +487,22 @@ In the capital, New Delhi, junior doctors wearing white coats held posters that 
 [Data](articles/aa2f5fd2.json)
 
 [Extended Data](ext_articles/aa2f5fd2.ext.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவை சந்தித்தனர் தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள்
+
+*2024-08-13 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191004) · `ta`
+
+தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து பேச்சு நடத்திய நிலையில், இன்று செவ்வாய்க்கிழமை (13) தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள் எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாஸவை சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+ஜனாதிபதி வேட்பாளரும் எதிர்க் கட்சித் தலைவருமான சஜித் பிரேமதாசவின் அழைப்பை ஏற்று  இன்றையதினம் காலை 7.30 மணியளவில் எதிர்க்கட்சி  அலுலகத்தில் தமிழ் ஈழ விடுதலை இயக்கம் சார்பில் அதன் தலைவர் செல்வம் அடைக்கலநாதன், செயலாளர் நாயகம் கோவிந்தன் கருணாகரம் , மற்றும் பேச்சாளர் குருசுவாமி சுரேந்திரன் ஆகியோரும்,  ஜனநாயக மக்கள் விடுதலை முன்னணி சார்பில் அதன் தலைவர் தர்மலிங்கம் சித்தார்த்தன் ஆகியோர் இச்சந்திப்பில் கலந்து கொண்டனர்.
+
+மற்றைய தரப்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவும் வட மாகாண பிரதம அமைப்பாளர் உமாசந்திரா பிரகாஷும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/f1c38cce.json)
 
 ---
 
@@ -354,9 +554,11 @@ The driver of the van and the vehicle of the van owner of the three-wheeler has 
 
 *2024-08-13 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101205/special-traffic-plan-in-rajagiriya-on-thursday) · `en`
 
-The nominations for the upcoming Presidential Election will be accepted on August 15 from 8 a.m. to 2 p.m. at the Election Secretariat in Rajagiriya.
+The nominations for the upcoming Presidential Election will be accepted from 9.00 a.m. to 11.00 a.m. on August 15 at the Election Secretariat in Rajagiriya.
 
-Accordingly, the police announced that a special traffic plan would be implemented on that day.
+Accordingly, the police announced that a special traffic plan would be implemented from 8.00 a.m. to 2.00 p.m. on that day.
+
+See below for the Police Media Division announcement on the traffic plan...
 
 ◼️
 
@@ -452,6 +654,26 @@ Accordingly, this includes 355 election law violations, one act of violence and 
 
 ---
 
+### Five Malaysian Universities in Sri Lanka to target more students for degrees
+
+*2024-08-13 14:46:00* · [`economynextcom`](https://economynext.com/five-malaysian-universities-in-sri-lanka-to-target-more-students-for-degrees-176594/) · `en`
+
+ECONOMYNEXT – Five Malaysian Universities have arrived in Sri Lanka to promote their courses and target the island nation’s students for degrees and other higher education qualifications.
+
+Sri Lanka is in the top 10 countries with the highest applications to study in Malaysia, based on the latest data from Education Malaysia Global Services (EMGS), a Company Limited by Guarantee (CLBG) under the purview of the Ministry of Higher Education Malaysia.
+
+After an unprecedented economic and foreign exchange crisis in 2022, Sri Lanka has been considering becoming a regional hub for education in order to cut foreign exchange outflow of the country as more students go abroad for higher education.
+
+Sri Lanka banned dollar payments in mid-2022 to contain the dollar outflows from the country after it faced a severe shortage of forex following the rupee being floated in March 2022.
+
+Sri Lanka has been spending around $3 billion for those who spend for education from foreign countries.
+
+...
+
+[Data](articles/2bf41a5e.json)
+
+---
+
 ### TNA met Chinese Ambassador
 
 *2024-08-13 14:41:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவரை-சந்தித்தது-TNA/175-342105) · `ta`
@@ -513,6 +735,30 @@ He said that the presidential candidate of the Sri Lanka PA would be supported b
 [Data](articles/86b26a6f.json)
 
 [Extended Data](ext_articles/86b26a6f.ext.json)
+
+---
+
+### Sri Lanka plans Rs200bn state worker wage hike for 2025
+
+*2024-08-13 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-rs200bn-state-worker-wage-hike-for-2025-176592/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hike state worker wages between 24 to 35 percent in a 2025 budget while trimming grades to reduce salary anomalies, Minister Bandula Gunawardana said.
+
+The salary hikes came from recommendations in an interim report from a committee appointed to study salary increments and anomalies earlier in the year.  The committee consulted 200 persons before making the recommendations.
+
+Cost of living allowances of active workers will be consolidated and increased to 25,000 rupees. Pensioners would get half that.
+
+After the revision the lowest gross salary of a state worker would be 55,000 rupees.
+
+The committee has recommended that all future recruitments would be made after competitive examinations.
+
+In 2023 Sri Lanka had 1.35 million state workers in 2023, and the salary bill was 939 billion rupees and the pension cost was 372 billion rupees.
+
+The salary hike would cost around 200 billion rupees a year, Minister Gunwardana said.
+
+...
+
+[Data](articles/d0851cb7.json)
 
 ---
 
@@ -852,15 +1098,13 @@ The Telecommunication Regulatory Commission (Telecommunication Regulatory Licens
 
 *2024-08-13 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101201/trcsl-issues-license-for-starlink-to-operate-in-sri-lanka-) · `en`
 
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has issued a Telecommunications Service Provider License to Elon Musk’s Starlink, the satellite unit of SpaceX, to provide satellite broadband services in Sri Lanka.
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has officially issued a Telecommunications Service Provider License to Elon Musk’s Starlink, the satellite unit of SpaceX, to provide satellite broadband services in Sri Lanka.
 
 This license authorizes the company to provide satellite broadband services in Sri Lanka from August 12, 2024.
 
+The development follows a recent meeting between President Ranil Wickremesinghe and Elon Musk in Indonesia where they discussed expediting the application process to connect Sri Lanka to the Starlink network, aiming to enhance Sri Lanka’s access to high-speed internet.
+
 The TRCSL has issued a Telecommunications Service Provider License under Section 17B of the Sri Lanka Telecommunications Act No. 25 of 1991 as amended, to Starlink Lanka (Private) Limited for the provision of Satellite Broadband Services in Sri Lanka, a statement said.
-
-Sri Lanka’s parliament passed a new telecommunications bill last month, which amended the law for the first time in 28 years, and paved the way for Starlink to enter the country.
-
-On July 09, the Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with amendments.
 
 ...
 
@@ -1903,285 +2147,5 @@ The Maha cropping season, which brings most of the rice crop, depends on inter-m
 [Data](articles/e03b84ca.json)
 
 [Extended Data](ext_articles/e03b84ca.ext.json)
-
----
-
-### Business a businessman killed in lorry
-
-*2024-08-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199879) · `si`
-
-A 67-year-old businessman, Welmilla Halpitiya A.Jinaratne, died when a truck hit him while he was traveling with his wife on a small lorry in Moragahahena Streetiya Road. The incident occurred near Weeragoda, where his business had recently closed.
-
-🟩
-
-Moragahahena police say that he has died after his wife was heading with his wife on a small lorry with his wife in Moragahahena Streetiya Road.
-
-The deceased has been identified as Welmilla Halpitiya. A. Jinaratne is a 67 year old businessman.
-
-The deceased businesskeeper was closed down in Weeragoda and went to the sloping of the lorry with the wife and died in the opposite direction of the road.
-
-◼️
-
-[Data](articles/d172a728.json)
-
-[Extended Data](ext_articles/d172a728.ext.json)
-
----
-
-### Dilith Jayaweera places deposits to contest Presidential Election
-
-*2024-08-13 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101192/dilith-jayaweera-places-deposits-to-contest-presidential-election) · `en`
-
-The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has placed deposits at the Election Commission this morning (13) to contest the upcoming Presidential Election.
-
-Dr. G. Weerasinghe has placed the deposit on behalf of Dilith Jayaweera to contest the presidential poll.
-
-He will contest the 2024 presidential election from the ‘Sarvajana Balaya’ alliance.
-
-A group of members of the alliance including MP Udaya Gammanpila was present at the occasion.
-
-On August 04, executive member of ‘Sarvajana Balaya’  MP Wimal Weerawansa announced Jayaweera as the Presidential Candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
-
-◼️
-
-[Data](articles/3afc6de6.json)
-
-[Extended Data](ext_articles/3afc6de6.ext.json)
-
----
-
-### 20 people do not provide property details
-
-*2024-08-13 10:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-பேர்-சொத்து-விபரங்களை-வழங்கவில்லை/175-342081) · `ta`
-
-The Election Commission has ordered parliamentary leaders to remind 20 MPs about submitting their property and responsibility details by June 30 annually. Failure to comply by August 31 could result in penalties or imprisonment. The Bribery or Corruption Commission is monitoring these MPs.
-
-🟩
-
-Sources said that at least 20 MPs have failed to submit their property and responsible details.
-
-Responding to this, the Election Commission has ordered parliamentary leaders to remind these MPs once again. Each of the 169 MPs must submit their property details to the Speaker by June 30 annually.
-
-The Bribery or Corruption Corruption Commission is closely observing the situation of these 20 MPs who have not yet fulfilled duties.
-
-Under the new law on the notice of assets and responsibilities, MPs who have failed to submit their details by August 31 each year may face a penalty or two of the twelve months of imprisonment or two.
-
-◼️
-
-[Data](articles/1c24a654.json)
-
-[Extended Data](ext_articles/1c24a654.ext.json)
-
----
-
-### Father killed in plowing machine
-
-*2024-08-13 10:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உழவு-இயந்திரம்-கவிழ்ந்ததில்-தந்தை-பலி/72-342080) · `ta`
-
-In Vavuniya, a 34-year-old father of four died after his plowing machine crashed into an unsafe field while heading to SI Sam.
-
-🟩
-
-A father of four children has died when a plowing machine crashed into the field in Madukanda area in Vavuniya, police said.
-
-The 34 -year -old man from the same area, when he was traveling to SI Sam, the plowing machine crashed into an unsafe field.
-
-◼️
-
-[Data](articles/b665f8ed.json)
-
-[Extended Data](ext_articles/b665f8ed.ext.json)
-
----
-
-### Dilith also bailed
-
-*2024-08-13 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199878) · `si`
-
-Dilith Jayaweera is nominated for the presidential election today (13th).
-
-🟩
-
-Dilith Jayaweera has been deposited as the candidate for the presidential election for the presidential election today (13).
-
-◼️
-
-[Data](articles/858c39fc.json)
-
-[Extended Data](ext_articles/858c39fc.ext.json)
-
----
-
-### "I don't believe in photography"
-
-*2024-08-13 10:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுப்பதில்-எனக்கு-நம்பிக்கை-இல்லை/175-342079) · `ta`
-
-Field Marshal Sarath Fonseka, a presidential candidate, stated he doesn't believe in photography, especially with MPs whose support might be rejected by the public. He aims to gain votes from independent thinkers, avoiding associations that could harm his campaign.
-
-🟩
-
-Presidential candidate Field Marshal Sarath Fonseka today said he did not believe in photography with MPs.
-
-I do not want to get the support of MPs rejected by people. He added that I am only trying to attract more votes and to attract those who think freely.
-
-◼️
-
-[Data](articles/3eaaa082.json)
-
-[Extended Data](ext_articles/3eaaa082.ext.json)
-
----
-
-### Complete period of control
-
-*2024-08-13 09:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பண-காலம்-நிறைவு/175-342077) · `ta`
-
-The process to select the 32 candidates for the 2024 presidential election concludes tomorrow at 12 noon, as announced by the Election Commission.
-
-🟩
-
-The process of controlling the 2024 presidential election will be completed tomorrow (13) at 12 noon.
-
-The Election Commission has said that 32 candidates have been controlled so far to contest the presidential election. Remble
-
-◼️
-
-[Data](articles/91b6b915.json)
-
-[Extended Data](ext_articles/91b6b915.ext.json)
-
----
-
-### Consensus government after presidential election
-
-*2024-08-13 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/190958) · `ta`
-
-In the wake of the presidential election, political parties are vowing public support for candidates while simultaneously emphasizing the importance of adhering to an IMF agreement post-elections. Despite this, election campaigns are in high gear, with promises to fulfill the IMF pact after voting concludes.
-
-🟩
-
-Political parties and MPs are publicly promising their support for a candidate. The stories are not now seen that it is important to implement an agreement with the International Monetary Fund rather than hold elections. On the contrary, the election campaigns are being carried out in full swing and promising to implement the agreement with the International Monetary Fund after the election.
-
-◼️
-
-[Data](articles/f27aabe1.json)
-
-[Extended Data](ext_articles/f27aabe1.ext.json)
-
----
-
-### Indo-Sri Lanka Passenger served on Tuesday
-
-*2024-08-13 09:44:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ශ්‍රී-ලංකා-මගී-ප්‍රවාහන-යාත්‍රා-සේවය-16දා-අරඹයි/11-411338) · `si`
-
-The INDOSRI FERRY Services Private Limited plans to launch its passenger vessel service from Nagapattinam, India, to Kankesanthurai, Sri Lanka, on Friday, after postponing the initial May launch due to various reasons. Booking opened last night.
-
-🟩
-
-The passenger vessel service scheduled to be implemented from Nagaputtam in India to Kankasantaurali in Sri Lanka will be implemented on Friday.
-
-The passenger vessels have been planned by a private company (INDSRI FERRY Services Private Limited) and the opportunity to book seats from the Midnight yesterday.
-
-The passenger serving between Sri Lanka and India had previously planned to be implemented in May, but it was postponed for various reasons.
-
-◼️
-
-[Data](articles/b7334440.json)
-
-[Extended Data](ext_articles/b7334440.ext.json)
-
----
-
-### India-Sri Lanka joint military exercise ‘Mitra Shakti’ begins in Maduru Oya
-
-*2024-08-13 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101190/india-sri-lanka-joint-military-exercise-mitra-shakti-begins-in-maduru-oya) · `en`
-
-The 10th edition of the India-Sri Lanka Joint Military Exercise, MITRA SHAKTI, commenced today at the Army Training School in Maduru Oya, Sri Lanka. Scheduled to run from August 12 to 25, 2024, this exercise marks a significant milestone in enhancing military collaboration between the two nations.
-
-The Indian contingent, comprising 106 personnel, is represented by a Battalion from the Rajputana Rifles, alongside members from other arms and services. The Sri Lankan side is represented by personnel from the Gajaba Regiment of the Sri Lankan Army.
-
-This annual training event alternates between India and Sri Lanka, with the previous edition held in Pune in November 2023.
-
-The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint military capabilities of both nations for counter-insurgency operations in a sub-conventional scenario, in alignment with Chapter VII of the United Nations Mandate. The focus of this year’s exercise will be on operations in a semi-urban environment.
-
-...
-
-[Data](articles/2e9f63c6.json)
-
-[Extended Data](ext_articles/2e9f63c6.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 299.50/70 to US dollar, bond yields steady
-
-*2024-08-13 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-299-50-70-to-us-dollar-bond-yields-steady-176510/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 299.50/70 to the US dollar on Tuesday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.09 percent.
-
-In the secondary market, treasury bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 11.00/15 percent, from 11.05/10 percent.
-
-A bond maturing on 15.12.2027 was quoted stable at 12.05/20 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.20/40 percent, from 12.30/45 percent.
-
-In equities, Colombo’s All Share Price Index opened 10.15 points higher at 11,322, while the S&P SL20 of more liquid stocks opened up at 0.08 percent or 2.61 points to 3,231.
-
-◼️
-
-[Data](articles/e5e7afe4.json)
-
-[Extended Data](ext_articles/e5e7afe4.ext.json)
-
----
-
-### Katunayake
-
-*2024-08-13 09:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-நெருக்கடி-நிலை/175-342074) · `ta`
-
-Due to a Supreme Court order, VFS Global was removed from issuing visas to Sri Lanka, leading to long queues at Katunayake airport for visas upon arrival. The government hasn't started issuing visas there due to these queues. Tourists now must get half their visa at the airport, affecting arrivals during Sri Lanka's peak tourist season starting in August.
-
-🟩
-
-Due to the lack of a visa for foreign tourists and others coming to Sri Lanka, it is reported that long queues are being developed to obtain visa for arrival at the Katunayake airport.
-
-According to a recent Supreme Court order, VFS Global was ordered to remove VFS Global from issuing a visa to Sri Lanka and issued a visa at the airport.
-
-However, the government and the Department of Immigration have not begun issuing a visa at the Katunayake airport, as long queues have been formed.
-
-In the meantime, all tourists coming to Sri Lanka have become the only solution to get one half a visa at the Katunayake airport.
-
-As the tourist season begins in August in Sri Lanka, a large number of foreign tourists visit Sri Lanka through the Katunayake airport to watch the Kandy Esala Perahera Festival. Remble
-
-◼️
-
-[Data](articles/f5216315.json)
-
-[Extended Data](ext_articles/f5216315.ext.json)
-
----
-
-### 13 -year -old student joint venture: five arrests
-
-*2024-08-13 09:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-கைது/175-342073) · `ta`
-
-In Kalutara, five individuals, including a bus conductor, were arrested for allegedly exploiting a 13-year-old girl over two years. The suspects ranged from a married couple to a 60+ year old grandfather. The victim lived with her ill parents and brother, and the abuse occurred due to financial desperation.
-
-🟩
-
-Kalutara North Police said that five persons, including a private bus conductor, have been arrested in connection with the incident of a 13 -year -old schoolgirl for two years.
-
-The police said that the man was arrested for encouraging him to stay in a house in Kalutara, Kalutara, Diyagama area.
-
-Two of the arrested were married and one of them was a grandfather of more than 60 years.
-
-Police said that the girl was living with her sick parents and older brother and that the girl had been raped for two years by deceiving money and other items due to the poverty of the house.
-
-◼️
-
-[Data](articles/701a9789.json)
-
-[Extended Data](ext_articles/701a9789.ext.json)
 
 ---

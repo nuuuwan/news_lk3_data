@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 16:37:01**
+As of **2024-08-13 16:54:02**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,509 (100.0%) of 40,510 articles have been extended.
+40,510 (100.0%) of 40,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ඇෆ්ගන් සහ පාකිස්තාන හමුදා අතර ගැටුමක්
+### A clash between Afghan and Pakistan forces
 
 *2024-08-13 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199893) · `si`
 
-පාකිස්තාන සහ ඇෆ්ගනිස්තාන හමුදා අතර දේශසීමාවේ දී ඇතිවූ වෙඩි හුවමාරුවකින් ඇෆ්ගන් සිවිල් වැසියන් තිදෙනෙක් මියගොස් තිබේ.
+In a border clash near Torkham, three Afghan civilians, including a woman and two children, were killed by the Pakistani Army, while three Pakistani soldiers were injured. The incident was reported by international media, with both sides blaming each other for the violence.
 
-තලිබාන් ප්‍රකාශකයෙක් ඒ බව පැවසූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+🟩
 
-දෙරටේ දේශසීමාවේ පිහිටා ඇති Torkham නම් ප්‍රදේශයේදී එම ගැටුම සිදුවී තිබුණි.
+Three Afghan civilians have died in a shooting between Pakistan and Afghanism.
 
-තලිබාන් ප්‍රකාශකයා පවසා ඇත්තේ පාකිස්තාන හමුදා ප්‍රහාරයෙන් කාන්තාවක් සහ දරුවන් දෙදෙනෙක් මියගොස් ඇති බවයි.
+International media reports that Taliban spokesman said.
 
-මේ අතර පාකිස්තාන හමුදා ප්‍රකාශකයෙක් පැවසුවේ ඉන් සිය හමුදා භටයින් තිදෙනෙක් තුවාල ලැබූ බවයි.
+The conflict had occurred in Torkham, located in the border of the two countries.
+
+The Taliban spokesman has said that a woman and two children were killed in Pakistani Army attack.
+
+Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injured.
 
 ◼️
 
 [Data](articles/f3306e02.json)
+
+[Extended Data](ext_articles/f3306e02.ext.json)
 
 ---
 

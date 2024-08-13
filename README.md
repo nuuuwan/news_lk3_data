@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 05:21:08**
+As of **2024-08-13 05:39:15**
 
 ## Newspaper Stats
 
-*Scraped **40,379** Articles*
+*Scraped **40,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,604
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,126
+tamilmirrorlk | 5,127
 virakesarilk | 6,394
 adaderanasinhalalk | 6,864
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,379 (100.0%) of 40,379 articles have been extended.
+40,379 (100.0%) of 40,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,20 @@ Other IPE 2024 activities in Sri Lanka include a combined diving activity that w
 [Data](articles/8853350a.json)
 
 [Extended Data](ext_articles/8853350a.ext.json)
+
+---
+
+### ஜனநாயகப் போராட்டத்துக்கு அழைப்பு
+
+*2024-08-13 01:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகப்-போராட்டத்துக்கு-அழைப்பு/175-342068) · `ta`
+
+மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரணித்த சிந்துஜாவுக்கு நீதி கேட்டு அந்த வைத்தியசாலை முன்பாக இன்று காலை 9 மணிக்குக் கவனவீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியத்தின் ஏற்பாட்டில் இந்தப் போராட்டம் நடைபெறவுள்ளது. (a)
+
+◼️
+
+[Data](articles/84db84c6.json)
 
 ---
 
@@ -2267,33 +2281,5 @@ Although Japan is observing a holiday, some high-speed bullet trains and regular
 [Data](articles/0892099c.json)
 
 [Extended Data](ext_articles/0892099c.ext.json)
-
----
-
-### TNM. Will tell about the supporter of support
-
-*2024-08-12 13:07:03* · [`adalk`](https://www.ada.lk/breaking_news/ටි-එන්-ඒ්--සහාය-දෙන-අපේක්ෂකයා-ගැන-කියයි/11-411323) · `si`
-
-MP MA Sumanthiran highlighted the importance of supporting policies aligned with Tamil interests as crucial for unity among Tamils in the Eastern region. He addressed concerns over the Trincomalee court case and the party's stance on presidential elections, emphasizing their commitment to power sharing between Northern and Eastern Tamils. The meeting involved discussions with major presidential candidates, indicating the party's readiness to back a candidate whose policies align with their goals.
-
-🟩
-
-TNA Media Spokesperson MP MA Sumanthiran said that the president's supporter of the Tamil people who accept their policies is the key to division of the Tamil people of the Tamil East.
-
-The MP was speaking at the Meeting of the Central Committee at the Ilangai Tamil Secretariat yesterday evening yesterday (11).
-
-"We met for the Central Committee of the party today. There are two main points that we attend the title of the Trincomalee court against our party.
-
-The other things are the fact that we support who we support the presidential election. Ariyanadhn has already presented the general careful by several Tamil political parties. We worked on it.
-
-However, we always have told us to distribute the power of the North and East, the main Tamil political party, the Tamil political party of the Tamil political party.
-
-We also informed every president's reply to the people today.. We have now discussed with the three major presidential candidate. We have to tell them about it.
-
-...
-
-[Data](articles/b0d8908f.json)
-
-[Extended Data](ext_articles/b0d8908f.ext.json)
 
 ---

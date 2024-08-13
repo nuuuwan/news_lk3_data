@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 11:21:15**
+As of **2024-08-13 11:36:31**
 
 ## Newspaper Stats
 
-*Scraped **40,431** Articles*
+*Scraped **40,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
 adalk | 3,713
-adaderanalk | 4,710
+adaderanalk | 4,711
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,140
+tamilmirrorlk | 5,141
 virakesarilk | 6,394
-adaderanasinhalalk | 6,877
+adaderanasinhalalk | 6,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,427 (100.0%) of 40,431 articles have been extended.
+40,431 (100.0%) of 40,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 45-year-old hacked to death over personal dispute
+
+*2024-08-13 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101196/45-year-old-hacked-to-death-over-personal-dispute) · `en`
+
+A person has been hacked to death with a sharp weapon in the Kotiyagala area of Athimale.
+
+The incident has taken place last morning (12), the police said.
+
+The deceased is a 45-year-old resident of the Kotiyagala area of Athimale.
+
+Police stated that the incident had taken place as a result of a personal dispute between the victim and another person.
+
+A 27-year-old resident of Kotiyalgala has been arrested in connection with the murder.
+
+◼️
+
+[Data](articles/24c521af.json)
+
+---
+
+### විදෙස් ගමන නතරකළ අනතුර
+
+*2024-08-13 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199881) · `si`
+
+නවතා තිබු මගී ප්‍රවාහන බස් රථයක ත්‍රිරෝද රථයක් ගැටි සිදුවු මාරක අනතුරකින් තිදෙනෙකු බරපතළ තුවාල ලබා හලාවත මහ රෝහලට ඇතුළු කළ බව මුන්දලම පොලීසිය පැවසීය.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ ත්‍රිරෝද රථයෙ ගමන් ගත් මදුරන්කුලිය කරිකට්ටිය ප්‍රදේශයේ පදිංචිකරුවන් පිරිසකි.
+
+විදේශ රැකියාවක් සඳහා පිටත් වීමට කටුනායක ගුවන්තොටුපොළ වෙත යමින් සිටි අයෙක්ව රැගෙන යමින් තිබූ ත්‍රිරෝද රථයක් මෙලෙස බස් රථයෙ ගැටි අනතුරට ලක්වි තිබුණි.
+
+පොලීසිය පවසන්නේ පුත්තලම සිට හලාවත දක්වා ගමන් කර තිබු පුද්ගලික මගී ප්‍රවාහන බස් රථයක් මගීන් නංවා ගැනිමට මුන්දලම රෝහල ඉදිරිපිට නවතා තිබියදී පසුපසින් පැමිණි මෙම ත්‍රිරෝද රථය එම බස් රථයේ ගැටී ඇති බවයි.
+
+ත්‍රිරෝද රථ රියදුරා, විදේශ රටකට යාම සදහා ගමන් කරමින් සිටි පුද්ගලයා සහ තවත් අයෙක් බරපතළ තුවාල සහිතව  මුන්දලම රෝහලට ඇතුළුකර තිබූ අතර පසුව ඔවුන්ව හලාවත මහ රෝහලට යැවිමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/be35b603.json)
+
+---
 
 ### 2024 Presidential Election: Placing of deposits to conclude tomorrow
 
@@ -54,6 +94,8 @@ Police have announced that a special security program will be implemented in con
 
 [Data](articles/f1657c97.json)
 
+[Extended Data](ext_articles/f1657c97.ext.json)
+
 ---
 
 ### President Ranil to hold inaugural rally of election campaign in A’pura
@@ -75,6 +117,8 @@ It is reported that the discussion was focused on addressing issues faced by the
 ...
 
 [Data](articles/23c4d430.json)
+
+[Extended Data](ext_articles/23c4d430.ext.json)
 
 ---
 
@@ -126,25 +170,57 @@ National Executive Member of the National People’s Power (NPP), Mr. Bimal Ratn
 
 ---
 
-### தம்மரத்ன தேரர் சஜித்திற்கு ஆதரவு
+### Support for Dhammaratna Thera Sajith
 
 *2024-08-13 10:46:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்மரத்ன-தேரர்-சஜித்திற்கு-ஆதரவு/175-342083) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனையுடன் கூடிய ஆதரவை வழங்குவதாக மிஹிந்தலை ரஜமஹா விகாரையின் பிரதம பீடாதிபதி வலஹகுணவெவ தம்மரத்ன தேரர் தெரிவித்துள்ளார்.
+Valahagunawewa Dammaratne Thera, chief of the Rajamaha Vihara, announced conditional support for opposition leader Sajith Premadasa in the upcoming presidential election. Despite previous criticism, Thera expressed readiness to back Premadasa if he becomes president, emphasizing the importance of fulfilling campaign promises.
 
-பிரேமதாச ஜனாதிபதியாக தெரிவு செய்யப்பட்டால் பல வாக்குறுதிகள் நிறைவேற்றப்பட வேண்டும் என்ற நிபந்தனையுடன், தற்போதைய அரசாங்கத்தையும் எதிர்க்கட்சித் தலைவரையும் கடுமையாக விமர்சித்து வரும் தம்மரதன தேரர், தனது ஆதரவை வழங்கத் தயாராக இருப்பதாகத் தெரிவித்தார்.
+🟩
 
-“பொதுமக்களுக்கு இந்த முடிவைத் தெரிவித்து சஜித் பிரேமதாசவுக்கு ஆதரவளிக்குமாறு கேட்டுக்கொள்கிறேன். ஆனால் அவர் நமக்கு அளித்த வாக்குறுதிகளை நிறைவேற்றுவார் என்ற நிபந்தனையுடன் தான் இந்த ஆதரவு வழங்கப்பட வேண்டும். இந்த தலைவருக்கு அதிகாரத்தைக் கொடுத்து அவரைப் பணிபுரிய வைப்போம்” என தம்மரதன தேரர் தெரிவித்தார்.
+Valahagunawewa Dammaratne Thera, the chief of the Rajamaha Vihara, said that the opposition leader Sajith Premadasa will be given conditional support in the upcoming presidential election.
+
+Dammaratha Thera, who has been severely criticizing the current government and the opposition leader, said he was ready to support his support if he was elected as the president.
+
+“I urge the public to support this decision and support Sajith Premadasa. But this support must be made with the condition that he will fulfill his promises. We will give this leader and work for him. ”
 
 ◼️
 
 [Data](articles/e4bc9da0.json)
 
+[Extended Data](ext_articles/e4bc9da0.ext.json)
+
 ---
 
-### காதலியை தேடிச் சென்ற தந்தையொருவர் சடலமாக மீட்பு
+### Father's body recovered
 
 *2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தையொருவர்-சடலமாக-மீட்பு/175-342082) · `ta`
+
+The body of a 30-year-old man named Samith Madusanga, who was looking for his 19-year-old girlfriend, was found in a well near Negombo. The couple, both from the same area, were in a romantic relationship despite the girl being involved with another man. The girl's parents knew about the affair and had moved out, leaving the young man to search for his girlfriend. He discovered her missing and later found her body in the well.
+
+🟩
+
+The body of a 30 -year -old youth who was searching for his 19 -year -old girlfriend from Negombo to Chilaw, was recovered from a dilapidated well in the area, Tutuva police said.
+
+Samith Madusanga, a young man from the Harichandra Pur, Tibirigaskatuwa, Negombo, has been recovered.
+
+A 19 -year -old teenager in the same area where he lived in a romantic relationship with a child of a child's father is living in love with his wife.
+
+The parents of the woman, who knew that their daughter had a romantic relationship with a married man, stayed at the relative's house in Mahaveva Thoduwa area.. The young man was informed about this and went to the house where he was staying in search of his girlfriend on the night of the 10th.
+
+When Yuvati went outside the house, the young man came and called him and he had fled the house when he saw her boyfriend and told relatives that he had heard the noise of the woman when she fled the dilapidated well when he fled to the young man.
+
+◼️
+
+[Data](articles/b2eaa678.json)
+
+[Extended Data](ext_articles/b2eaa678.ext.json)
+
+---
+
+### காதலியை தேடிச் சென்ற தந்தை சடலமாக மீட்பு
+
+*2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தை-சடலமாக-மீட்பு/175-342082) · `ta`
 
 நீர்கொழும்பில் இருந்து சிலாபம் தொடுவா பிரதேசத்திற்கு தனது 19 வயதுடைய காதலியை தேடிச் சென்ற 30 வயதுடைய இளைஞனின் சடலம் குறித்த பகுதியில் உள்ள பாழடைந்த கிணற்றில் இருந்து மீட்கப்பட்டதாக தொடுவா பொலிஸார் தெரிவித்தனர்.
 
@@ -156,7 +232,7 @@ National Executive Member of the National People’s Power (NPP), Mr. Bimal Ratn
 
 ...
 
-[Data](articles/b2eaa678.json)
+[Data](articles/de0ef7e9.json)
 
 ---
 
@@ -2203,83 +2279,5 @@ The two Tests will commence on September 18 and 26 the Galle International Crick
 [Data](articles/3ba3dbe8.json)
 
 [Extended Data](ext_articles/3ba3dbe8.ext.json)
-
----
-
-### Presidential candidate Namal Rajapaksa is not a challenge for us: Prasanna Ranatunga
-
-*2024-08-12 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/190921) · `ta`
-
-Housing Minister Prasanna Ranatunga dismisses Namal Rajapaksa as a threat in the upcoming presidential election, highlighting the real competition lies between their party and the United People's Power. He respects Mahinda Rajapaksa but criticizes public sentiment towards the Rajapaksa family. Their focus remains on supporting President Ranil Wickremesinghe, aiming to form a government under his leadership.
-
-🟩
-
-There is a rival between us and the United People's Power in the presidential election. Housing and Urban Development Minister Prasanna Ranatunga said that the presidential candidate Namal Rajapaksa is not a challenge, but the people have honored Mahinda Rajapaksa and not respecting the Rajapakse family.
-
-He was speaking to the media after the event on Sunday evening in Colombo.
-
-We still have respect for former President Mahinda Rajapakse.
-
-But it must be noted that the people of the country did not respect the Rajapaksa family.
-
-Former President Mahinda Rajapakse will refer to the first and the country, the second and the third.
-
-We have decided to support President Ranil Wickremesinghe as we should only think about the country at present.
-
-Contest between us and the United People's Power in the presidential election. Presidential candidate Namal Rajapaksa is not a challenge for us, but the contest between Presidential candidate Battaramulle Seelaratne Thera and Namal Rajapaksa.
-
-...
-
-[Data](articles/5af00335.json)
-
-[Extended Data](ext_articles/5af00335.ext.json)
-
----
-
-### Sri Lanka bond yields up, rupee closes stronger at 299.50/80
-
-*2024-08-12 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-up-rupee-closes-stronger-at-299-50-80-176470/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.50/80 to the US dollar Monday, from 300.00/20 Friday dealers said, while bond yields were up.
-
-Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed stable at 11.05/10 percent.
-
-A bond maturing on 15.12.2027 closed at 12.05/20 percent, down from 12.10/20 percent.
-
-A bond maturing on 15.09.2029 closed at 12.65/80 percent, up from 12.60.70 percent.
-
-A bond maturing on 15.05.2030 closed at 12.85/13.00 percent. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/b997afb5.json)
-
-[Extended Data](ext_articles/b997afb5.ext.json)
-
----
-
-### Wimal government is Rs. Billions seek compensation
-
-*2024-08-12 16:55:05* · [`adalk`](https://www.ada.lk/breaking_news/විමල්-රජයෙන්-රු--බිලියනයක-වන්දි-ඉල්ලයි/11-411329) · `si`
-
-Former Sri Lankan Minister Wimal Weerawansa faces legal action over allegations related to false regulations and possessing an unverified diplomatic passport. He was detained at Dubai airport but later released on bail. Weerawansa seeks compensation for damages incurred during this incident.
-
-🟩
-
-Former minister Wimal Weerawansa, who is unfamiliar with false lawsuits and the government, demanding the result of false issues and the government, demanding the result of false regulations and the government, is demanding the result of false nodes and the government, accusing the possession of an informal diplomatic passport.Sued.
-
-Mr. Wimal Weerawansa has been named by Hon
-
-The petitioner who attended the Dubai on October 23, after examining the computer data system at the airport on October 23, the petitioner, the petitioner states that it was stated to the computer database of the airport, the petitioner, foreign travelThe license was inactive and the new passport was found on the same day and went abroad.
-
-At that time, the Criminal Investigations Officers' Officers arrested against the Criminal Investigation Officers and released on bail after being released on bail after being released on bail and was accused of acquitting its verdict on all chargesIt stated that he was released.
-
-...
-
-[Data](articles/8b9c9320.json)
-
-[Extended Data](ext_articles/8b9c9320.ext.json)
 
 ---

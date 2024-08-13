@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 16:54:02**
+As of **2024-08-13 17:06:22**
 
 ## Newspaper Stats
 
-*Scraped **40,510** Articles*
+*Scraped **40,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 385
 islandlk | 2,344
 economynextcom | 2,453
 dailyftlk | 2,605
-adalk | 3,721
-adaderanalk | 4,721
+adalk | 3,723
+adaderanalk | 4,722
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,510 (100.0%) of 40,510 articles have been extended.
+40,510 (100.0%) of 40,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### SLPP MPs supporting Ranil to form new alliance; Minister proposed as GS
+
+*2024-08-13 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101207/slpp-mps-supporting-ranil-to-form-new-alliance-minister-proposed-as-gs) · `en`
+
+State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana has been proposed as the General Secretary of the new alliance, which is being formed by the majority of MPs from the Sri Lanka Podujana Peramuna (SLPP).
+
+◼️
+
+[Data](articles/b2b00b79.json)
+
+---
 
 ### A clash between Afghan and Pakistan forces
 
@@ -55,6 +67,18 @@ Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injur
 [Data](articles/f3306e02.json)
 
 [Extended Data](ext_articles/f3306e02.ext.json)
+
+---
+
+### සජිත් හදීසියේම උතුරු - නැගෙනහිර දේශපාලන නියෝජිතයන් අතර සාකච්ඡාවක
+
+*2024-08-13 16:16:09* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-හදීසියේම-උතුරු---නැගෙනහිර-දේශපාලන-නියෝජිතයන්-අතර-සාකච්ඡාවක/11-411349) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේ දී කටයුතු කරන ආකාරය සම්බන්ධයෙන් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ උතුරු නැගෙනහිර දේශපාලන නියෝජිතයන් පිරිසක් අතර සාකච්ඡාවක් අද (13දා) විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතගේ මූලිකත්වයෙන් විපක්ෂ නායක කාර්යාලයේ දී සිදු විය.
+
+◼️
+
+[Data](articles/eccb676e.json)
 
 ---
 
@@ -801,6 +825,22 @@ Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Strug
 [Data](articles/3f381cc8.json)
 
 [Extended Data](ext_articles/3f381cc8.ext.json)
+
+---
+
+### ඊශ්‍රායල් ඉදිකිරීම් රැකියා සඳහා පූර්ව පරීක්ෂණ 15දා අවසන්
+
+*2024-08-13 12:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ඉදිකිරීම්-රැකියා-සඳහා-පූර්ව-පරීක්ෂණ-15දා-අවසන්/11-411344) · `si`
+
+ඊශ්‍රායලයේ ඉදිකිරීම් ක්ෂේත්‍රයේ රැකියා අවස්ථා ශ්‍රි ලාංකික ශ්‍රමිකයින්ට ලබාගැනීමේ අවස්ථාව තවදුරටත් පුළුල් කරමින්, බඳවාගැනීමේ පූර්ව පරීක්ෂණ දැන් ආරම්භ කර ඇති බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.මෙම රැකියා අවස්ථා සඳහා ඇ.ඩෝ. 1500 කට වැඩි වැටුප් හිමිවෙන බව ද  මේ වනවිටත් විශාල පිරිසක් පූර්ව පරීක්ෂණ සඳහා පැමිණෙමින් සිටින බවත් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය වැඩ්දුරටත් පවසයි.
+
+ඒ අනුව වයස අවුරුදු 25-44 අතර ඉදිකිරීම් ක්ෂේත්‍රයේ ෂටරින් කාපෙන්ටර්, ටයිල් අතුරන්නන්, කම්බි බඳින්නන් හා කපරාදුකරුවන්ට යන රැකියාවන්ට අදාළ පළපුරුද්ද සහිත පිරිමි ශ්‍රමිකයින්ට මෙම පරීක්ෂණයන් සඳහා සෘජුවම පෙනී සිටීමට අවස්ථාව උදාවී තිබේ. මෙම රැකියාවන්ට අදාළ පූර්ව පරීක්ෂණ අගෝස්තු මස 15 වෙනි බ්‍රහස්පතින්දා දක්වා පෙරවරු 8.00 සිට මොරටුව, කටුබැද්ද NAITA ආයතනයේදී පැවැත්වේ.
+
+පූර්ව පරීක්ෂණ සඳහා පෙනී සිටීමට රු.6000.00 ක මුදලක් අයකරනු ලබන අතර, මේ සඳහා පෙනී සිටීමට බලාපොරොත්තු වන අයදුම්කරුවන් තමන් යොමුවීමට බලාපොරොත්තු වන රැකියාවට අවශ්‍යවන මෙවලම් හා උපකරණ මෙන්ම විදේශ ගමන් බලපත්‍රයද රැගෙන පැමිණිය යුතුවේ.
+
+◼️
+
+[Data](articles/1ff1d54e.json)
 
 ---
 
@@ -2199,85 +2239,5 @@ Politicians of the ruling coalition threatened to expropriated plantation compan
 [Data](articles/23ca23e1.json)
 
 [Extended Data](ext_articles/23ca23e1.ext.json)
-
----
-
-### Indo-Sri Lanka Passenger Vessel Service from Friday
-
-*2024-08-13 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199876) · `si`
-
-From Friday, a private company resumes passenger ferry services between Nagapatnam, India, and Kankesanthurai, Sri Lanka, after being delayed from its original start date of May 13. Tickets, available since Wednesday, offer seating via an online system.
-
-🟩
-
-The passenger serving between Sri Lanka and India will be re-operated from Friday (16).
-
-The passenger vessel is to be implemented from Nagapatn, India to Kankasanthurai in Sri Lanka.
-
-The passenger vessel service is scheduled to be implemented by a private company and the seating seats along the online system.
-
-The company has informed that tickets can be allocated from yesterday (12).
-
-The passenger vessel was planned to be implemented on May 13, even though it was planned to implement this passenger vessel on 13th May before Sri Lanka and India.
-
-◼️
-
-[Data](articles/c399796a.json)
-
-[Extended Data](ext_articles/c399796a.ext.json)
-
----
-
-### Facebook aid gang in a personal data stealing racket
-
-*2024-08-13 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199875) · `si`
-
-Sri Lanka's Computer Emergency Response Team warns against a scam where fraudsters pose as Facebook aid teams to steal personal data. Victims receive messages about temporary Facebook account suspensions and are asked to pay to reactivate them, providing sensitive information in the process. The scam targets business owners of Facebook accounts, urging caution against such deceptive communications.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Team says that a personal database of persons will act as Facebook aid teams.
-
-Senior Information Security Engineers Charunaka Damunagala has received complaints regarding the last few days.
-
-Tharruka Damunugala said that the racket is being carried out by appearing as Facebook aid teams.
-
-"You may receive a message to the Facebook support team temporarily suspended your Facebook account or page. Some money to get it back.. At the same time, a message to send your information with some message.. This message has complained that Facebook actually appearing as Facebook and makes a fraud.
-
-As a result, if your Facebook page is temporarily suspended or turned off, the WhatsApp will never issue your information or use your information as a message.
-
-...
-
-[Data](articles/25a3a28e.json)
-
-[Extended Data](ext_articles/25a3a28e.ext.json)
-
----
-
-### Rajitha returns to Ranil this afternoon
-
-*2024-08-13 07:41:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-අද-පස්වරුවේ-රනිල්-ළඟට-යයි/11-411335) · `si`
-
-Rajitha Senaratne plans to join President Ranil Wickremesinghe, as discussed in a meeting in Panadura. He'll receive an official statement about his involvement in religious activities at Gangarama Viharaya today. Political sources indicate support for Senaratne's potential return, despite associations with opposition leader Sajith Premadasa.
-
-🟩
-
-He said that former Minister Rajitha Senaratne is planning to join President Ranil Wickremesinghe.
-
-He added that a special discussion was held in Panadura yesterday (12), the close discussion of former minister with a special representative from the president.
-
-The former Minister will be given a official statement regarding the event of the religious activities at the Gangarama Viharaya in Colombo this afternoon.
-
-It is also said that a group of former local government representatives representing the Kalutara district are being prepared.
-
-Rajitha Senaratne is one of the two elected MPs in Kalutara district representing the reconciliation force at the last general election.
-
-Political sources say that the political activists associated with the opposition leader Sajith Premadasa will not hinder the victory of the former Minister Sajith Premadasa.
-
-◼️
-
-[Data](articles/14d4a9be.json)
-
-[Extended Data](ext_articles/14d4a9be.ext.json)
 
 ---

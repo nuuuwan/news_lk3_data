@@ -1,36 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 17:06:22**
+As of **2024-08-13 17:21:19**
 
 ## Newspaper Stats
 
-*Scraped **40,513** Articles*
+*Scraped **40,517** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 385
+colombotelegraphcom | 386
 islandlk | 2,344
 economynextcom | 2,453
 dailyftlk | 2,605
 adalk | 3,723
-adaderanalk | 4,722
+adaderanalk | 4,723
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
-adaderanasinhalalk | 6,889
+adaderanasinhalalk | 6,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,510 (100.0%) of 40,513 articles have been extended.
+40,513 (100.0%) of 40,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### Rajitha Senaratne pledges support to President Ranil
+
+*2024-08-13 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101208/rajitha-senaratne-pledges-support-to-president-ranil) · `en`
+
+Samagi Jana Balawegaya (SJB) Kalutara District MP Dr. Rajitha Senaratne has met President Ranil Wickremesinghe at the Gangarama Seema Malaka, a short while ago, and pledged his support for the upcoming presidential election.
+
+◼️
+
+[Data](articles/301eb3e5.json)
+
+---
+
+### රාජිත ජනපතිට සහාය පළ කරයි
+
+*2024-08-13 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199894) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න මහතා ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරන බව පවසයි.
+
+මන්ත්‍රීවරයා පවසා ඇත්තේ වත්මන් ජනාධිපතිවරයා ඇතුළු ආණ්ඩුව ගෙන යන ආර්ථික වැඩපිළිවෙළ අඛණ්ඩව ගෙන යා යුතු බව තමන් විශ්වාස කරන බවය.
+
+◼️
+
+[Data](articles/5faf9152.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායම සමග සුපිරි පුහුණුකරුවෙක් එක්වෙයි
+
+*2024-08-13 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199895) · `si`
+
+එංගලන්ත හිටපු ටෙස්ට් ක්‍රීඩක ඉයන් බෙල් ව එළඹෙන එංගලන්ත සංචාරය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස පත් කර තිබේ.
+
+ඔහු කණ්ඩායම සමග අගෝස්තු 16 වනදා සිට තරග 3කින් සමන්විත ටෙස්ට් තරගාවලිය නිම වන තෙක් කටයුතු කරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+එංගලන්තය වෙනුවෙන් ටෙස්ට් තරග 118කට ක්‍රීඩා කර ඇති බෙල් එහිදී රැස් කර ඇති ලකුණු සංඛ්‍යාව 7727කි.
+
+◼️
+
+[Data](articles/c80c6f69.json)
+
+---
 
 ### SLPP MPs supporting Ranil to form new alliance; Minister proposed as GS
 
@@ -41,6 +83,8 @@ State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana ha
 ◼️
 
 [Data](articles/b2b00b79.json)
+
+[Extended Data](ext_articles/b2b00b79.ext.json)
 
 ---
 
@@ -70,15 +114,21 @@ Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injur
 
 ---
 
-### සජිත් හදීසියේම උතුරු - නැගෙනහිර දේශපාලන නියෝජිතයන් අතර සාකච්ඡාවක
+### Northern and Eastern delegation among political representatives in Sajith remained
 
 *2024-08-13 16:16:09* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-හදීසියේම-උතුරු---නැගෙනහිර-දේශපාලන-නියෝජිතයන්-අතර-සාකච්ඡාවක/11-411349) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේ දී කටයුතු කරන ආකාරය සම්බන්ධයෙන් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ උතුරු නැගෙනහිර දේශපාලන නියෝජිතයන් පිරිසක් අතර සාකච්ඡාවක් අද (13දා) විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතගේ මූලිකත්වයෙන් විපක්ෂ නායක කාර්යාලයේ දී සිදු විය.
+Sajith Premadasa led a delegation from Northern and Eastern regions, representing the opposition.
+
+🟩
+
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, was headed by Opposition Leader Sajith Premadasa under the patronage of the opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/eccb676e.json)
+
+[Extended Data](ext_articles/eccb676e.ext.json)
 
 ---
 
@@ -828,19 +878,25 @@ Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Strug
 
 ---
 
-### ඊශ්‍රායල් ඉදිකිරීම් රැකියා සඳහා පූර්ව පරීක්ෂණ 15දා අවසන්
+### Previous Tests for Israeli construction jobs
 
 *2024-08-13 12:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ඉදිකිරීම්-රැකියා-සඳහා-පූර්ව-පරීක්ෂණ-15දා-අවසන්/11-411344) · `si`
 
-ඊශ්‍රායලයේ ඉදිකිරීම් ක්ෂේත්‍රයේ රැකියා අවස්ථා ශ්‍රි ලාංකික ශ්‍රමිකයින්ට ලබාගැනීමේ අවස්ථාව තවදුරටත් පුළුල් කරමින්, බඳවාගැනීමේ පූර්ව පරීක්ෂණ දැන් ආරම්භ කර ඇති බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.මෙම රැකියා අවස්ථා සඳහා ඇ.ඩෝ. 1500 කට වැඩි වැටුප් හිමිවෙන බව ද  මේ වනවිටත් විශාල පිරිසක් පූර්ව පරීක්ෂණ සඳහා පැමිණෙමින් සිටින බවත් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය වැඩ්දුරටත් පවසයි.
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has expanded its pre-testing program for employment opportunities, including construction, tile, and wire band sectors, inviting experienced professionals to participate. These pre-tests will take place this Thursday in Moratuwa at 8:00 am, offering direct opportunities for employment with competitive salaries.
 
-ඒ අනුව වයස අවුරුදු 25-44 අතර ඉදිකිරීම් ක්ෂේත්‍රයේ ෂටරින් කාපෙන්ටර්, ටයිල් අතුරන්නන්, කම්බි බඳින්නන් හා කපරාදුකරුවන්ට යන රැකියාවන්ට අදාළ පළපුරුද්ද සහිත පිරිමි ශ්‍රමිකයින්ට මෙම පරීක්ෂණයන් සඳහා සෘජුවම පෙනී සිටීමට අවස්ථාව උදාවී තිබේ. මෙම රැකියාවන්ට අදාළ පූර්ව පරීක්ෂණ අගෝස්තු මස 15 වෙනි බ්‍රහස්පතින්දා දක්වා පෙරවරු 8.00 සිට මොරටුව, කටුබැද්ද NAITA ආයතනයේදී පැවැත්වේ.
+🟩
 
-පූර්ව පරීක්ෂණ සඳහා පෙනී සිටීමට රු.6000.00 ක මුදලක් අයකරනු ලබන අතර, මේ සඳහා පෙනී සිටීමට බලාපොරොත්තු වන අයදුම්කරුවන් තමන් යොමුවීමට බලාපොරොත්තු වන රැකියාවට අවශ්‍යවන මෙවලම් හා උපකරණ මෙන්ම විදේශ ගමන් බලපත්‍රයද රැගෙන පැමිණිය යුතුවේ.
+Sri Lanka Bureau of Foreign Employment (SLBFE) said that prior testing of employment of employment opportunities for Sri Lankan workers have already been expanded to Sri Lankan workers.. The Sri Lanka Foreign Employment (SLBFE) is further stated that a large number of salaries are coming for pre-investigated.
+
+Accordingly, the experience with experience in the construction sector sector, tile sector, tile sector, tile, wire bands and clients, have the opportunity to sit directly to these tests. The pre-tests of these jobs will be held on Thursday, Moratuwa, Moratuwa at 8:00 am at the Moratuwa.
+
+Rs.
 
 ◼️
 
 [Data](articles/1ff1d54e.json)
+
+[Extended Data](ext_articles/1ff1d54e.ext.json)
 
 ---
 
@@ -1586,6 +1642,18 @@ If estate workers are working efficiently, the salary of the plantation workers 
 
 ---
 
+### Dilith Jayaweera’s “Entrepreneurial State”
+
+*2024-08-13 10:35:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dilith-jayaweeras-entrepreneurial-state/) · `en`
+
+Dilith Jayaweera who owns the Derana TV network, is a candidate for the presidential race. Rightfully he thought that must make his views known to the people. So, he put forward his election manifesto a few weeks ago. I am not interested on many things he mentioned in that document as many of them are just promises. But the very title of that manifesto is really interesting and must be analyzed, because such analysis might establish a fundamental methodological approach in analyzing manifestos of other key candidates when they are made public.
+
+...
+
+[Data](articles/71df69b5.json)
+
+---
+
 ### President's Wedding President Mahinda Rajapaksa rally
 
 *2024-08-13 10:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-මංගල-ජනපතිවරණ-රැළිය-අනුරපුරේදී/11-411339) · `si`
@@ -2137,107 +2205,5 @@ The Department of Meteorology has urged the people to take necessary steps to re
 [Data](articles/c11bcd9b.json)
 
 [Extended Data](ext_articles/c11bcd9b.ext.json)
-
----
-
-### 13 Group jog in the grandfather
-
-*2024-08-13 09:12:18* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-සිසුවිය-සමූහ-අපයෝජනය-කළ-පහක්-අල්ලයි/11-411336) · `si`
-
-Thirteen individuals, including a private bus conductor, were arrested for allegedly abusing a 13-year-old girl over two years. The victims lived with her ill parents and an older brother. The suspects, two of whom were married, were apprehended after a declaration by Chief Inspector Damith Jayatilake. The girl was hospitalized in Kalutara and Nagoda, and the suspects were due to appear in court.
-
-🟩
-
-Five including a private bus conductor and five others were arrested regarding a 13-year-old schoolgirl's abuse since two years.
-
-Police said that a private bus conductor from Ramun area in Horana area was a person who was residents of the Damagama area in Kalutara and her residents.
-
-Police say two suspects were married and one of them exceeded one of them.
-
-The girl has been alive with his sick parents and the older brother, police said.
-
-A month ago, the girl had been raised and kept the girl to the house Horana to the house in Horana.
-
-The suspects have been arrested following the declarations obtained by the Chief Inspector Damith Jayatilake, the Chief Inspector Damith Jayatilake, who was taken into custody by a minor girl.
-
-The girl has been admitted to Kalutara and Nagoda surveillance and the suspects were to be produced before the Kalutara Magistrate's Court.
-
-Kalutara North Superintendent of Police is directed by the Chief Inspector Damith Jayathika, OIC of the Women and Women's Bureau.
-
-◼️
-
-[Data](articles/fe99b891.json)
-
-[Extended Data](ext_articles/fe99b891.ext.json)
-
----
-
-### A person who tries to cross Maa Oya drowns
-
-*2024-08-13 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/190955) · `ta`
-
-A man drowned while trying to cross Ma Oya in Kilampitiya, Nalla, with another individual. His body was taken to Vatupittiwala Hospital as police continue investigating the tragedy.
-
-🟩
-
-A man who tried to cross Ma Oya in Kilampitiya, Nalla, has been drowned.
-
-Investigations revealed that the deceased had drowned when the deceased tried to cross Ma Oya with another man.
-
-In addition, the body has been placed at the Vatupittiwala Hospital and the police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/3259e909.json)
-
-[Extended Data](ext_articles/3259e909.ext.json)
-
----
-
-### Conflict in Sudan: 28 Po Kills
-
-*2024-08-13 08:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சூடானில்-மோதல்-28-போ்-பலி/50-342071) · `ta`
-
-In Sudan's North Dabh province, a clash between military and paramilitary forces resulted in 28 civilian deaths, allegedly caused by the ARSF paramilitary in El Basasar. This conflict, ongoing since April last year, has also led to numerous injuries and fatalities.
-
-🟩
-
-28 people have been killed in a clash between the military and the paramilitary in Sudan's North Dabh province.
-
-The attack was carried out by the ARSF paramilitary forces in the provincial capital, El Basasar, and was reportedly injured by 28 civilians.
-
-There has been a clash between two forces since April last year. It is reported that Suma has died so far. (A)
-
-◼️
-
-[Data](articles/05eebed8.json)
-
-[Extended Data](ext_articles/05eebed8.ext.json)
-
----
-
-### Sri Lanka panel mandates wages for plantations workers
-
-*2024-08-13 08:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-panel-mandates-wages-for-plantations-workers-176508/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Wages Board has passed mandated wage of 1,700 rupees a day for plantations workers, which legislators backing the workers, said amounted to 2,000 rupee a day with provident fund benefits.
-
-Plantations companies went to court to block and earlier decision, as politicians threatened to expropriate firms that did not carry out the decision.
-
-“There is a 1350 wage for which there is EPF, ETF and gratuity,” legislator Vadivel Suresh told reporters.
-
-“And there is a 350 incentive. That they have to pay. With the EPF and ETF, it will exceed 2,000 rupees.”
-
-The 1,700 wage was announced by President Ranil Wickremesinghe at a May Day rally earlier in the year.
-
-Politicians of the ruling coalition threatened to expropriated plantation companies that did not pay the mandated wage.
-
-“About 14 boards voted in favour of the 1,700 wage,” Water Minister Jeevan Kumaratunga, who represents the Ceylon Workers Congress, the main labour union, said after the decision.
-
-...
-
-[Data](articles/23ca23e1.json)
-
-[Extended Data](ext_articles/23ca23e1.ext.json)
 
 ---

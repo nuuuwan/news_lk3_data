@@ -1,50 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 18:17:00**
+As of **2024-08-13 18:29:13**
 
 ## Newspaper Stats
 
-*Scraped **40,523** Articles*
+*Scraped **40,527** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 386
+colombotelegraphcom | 387
 islandlk | 2,344
 economynextcom | 2,453
 dailyftlk | 2,605
-adalk | 3,726
+adalk | 3,727
 adaderanalk | 4,724
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,157
+tamilmirrorlk | 5,158
 virakesarilk | 6,415
-adaderanasinhalalk | 6,893
+adaderanasinhalalk | 6,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,522 (100.0%) of 40,523 articles have been extended.
+40,523 (100.0%) of 40,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### අලුත් සන්ධානයේ මහලේකම් රමේෂ් ?
+### ඇසළ පෙරහැර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක්
+
+*2024-08-13 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199898) · `si`
+
+මහනුවර ඇසළ පෙරහැර වෙනුවෙන් විශේෂ ආරක්ෂක වැඩපිළිවෙලක් සහ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය කටයුතු යොදා තිබේ.
+
+මේ සඳහා පොලිස් නිලධාරීන් 6000කට අධික නිලධාරීන් පිරිසක් රාජකාරී සඳහා යොදවා ඇති බව පොලීසිය පවසයි.
+
+එමෙන්ම පෙරහැර කාලසීමාව තුළ ක්‍රියාත්මක වන රථ වාහන සැලැස්ම හා දෛනික රථවාහන සැලැස්ම පිළිබඳවද පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/941fcca2.json)
+
+---
+
+### The Secretary-General of the UPFA Ramesh?
 
 *2024-08-13 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199897) · `si`
 
-එළඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට  සහය පළ කිරීමට තීරණය කළ ශ්‍රී ලංකා පොදුජන පෙරමුණේ සිටි  මන්ත්‍රී කණ්ඩායම විසින් නිර්මාණය කරනු ලබන නව සන්ධානයේ මහලේකම්වරයා ලෙස අමාත්‍ය රමේෂ් පතිරණ මහතා පත්වනු ඇති බව වාර්තා වෙයි.
+Minister Ramesh Pathirana is set to become the Secretary General of the National Alliance (UPFA) and the General Secretary of the Sri Lanka Published General of Parliament, supporting President Ranil Wickremesinghe in the upcoming presidential election. Defense Minister Linee Bandara Tennakoon announced this decision during a media briefing.
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා සඳහන් කළේ මහලේකම්වරයා ලෙස අමාත්‍ය රමේෂ් පතිරණ මහතාගේ නම යෝජනා කළ බවය.
+🟩
 
-හෙට (14) දිනයේදී නව සන්ධානය එළිදැක්වීමට නියමිත බව අද (13) පෙරවරුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා සඳහන් කළේය.
+It is reported that Minister Ramesh Pathirana will be appointed as the Secretary General of the National Alliance (UPFA), the General Secretary of the Sri Lanka Published General of Parliament, who decided to support President Ranil Wickremesinghe at the upcoming presidential election.
+
+Defense Minister Linee Bandara Tennakoon stated that Minister Ramesh Pathirana was proposed to be the Secretary General.
+
+Addressing a media briefing held at a media briefing today (13) will be launched tomorrow (13).
 
 ◼️
 
 [Data](articles/0ed3e2e5.json)
+
+[Extended Data](ext_articles/0ed3e2e5.ext.json)
 
 ---
 
@@ -145,6 +167,18 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 [Data](articles/c80c6f69.json)
 
 [Extended Data](ext_articles/c80c6f69.ext.json)
+
+---
+
+### ஜனாதிபதி ரணிலை சந்தித்தார் ராஜித
+
+*2024-08-13 16:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணிலை-சந்தித்தார்-ராஜித/175-342109) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சற்றுமுன்னர் சந்தித்தார்
+
+◼️
+
+[Data](articles/0d6d6e4b.json)
 
 ---
 
@@ -1346,6 +1380,18 @@ Russian President Vladimir Putin, who has described Ukraine's attack, has said t
 
 ---
 
+### Paradise: A Drama Film That Reflects The Cruel Face Of The Global Social Crisis
+
+*2024-08-13 12:00:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paradise-a-drama-film-that-reflects-the-cruel-face-of-the-global-social-crisis/) · `en`
+
+Paradise, the latest movie of acclaimed Sri Lankan filmmaker Prasanna Vithanage, has now been screening theatres worldwide. Produced by Newton Cinema of India and presented by Mani Ratnam’s Madras Talkies, this multilingual film starring Malayali, Tamil, Muslim and Sinhala cast has already won several foreign accolades. Under the existing fascist persecuting laws on art in Sri Lanka, this work was not censored like one of the Vithanage’s earlier films Purahanda Kaluwara (Death on a Full Moon Day, 1997) only because of these international tributes. Indeed, this is a fascinating, absorbing and tendentious film that makes the connoisseur rethink about his own opinions. It marks a qualitative perfection in the director’s evolution as a filmmaker. It also stimulates fellow artists to become more conscious towards the global socio-political reality.
+
+...
+
+[Data](articles/c4abb61e.json)
+
+---
+
 ### Cabinet approval to import 3,000MT of raw ginger
 
 *2024-08-13 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101198/cabinet-approval-to-import-3000mt-of-raw-ginger) · `en`
@@ -1615,6 +1661,22 @@ In the 2010 presidential election, former President of the former President Sara
 [Data](articles/01113b23.json)
 
 [Extended Data](ext_articles/01113b23.ext.json)
+
+---
+
+### මොණරාගලින් ශෂි පමණක් නාමල් ළඟ හිටගනියි
+
+*2024-08-13 10:54:53* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගලින්-ශෂි-පමණක්-නාමල්-ළඟ-හිටගනියි/11-411341) · `si`
+
+ශ්‍රීලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරණයට ඉදිරිපත් වන නාමල් රාජපක්ෂ මහතාට සහයෝගය දැක්වීමේ අරමුණෙන් සංවිධානයකළ සාකච්ඡාවක් මොනරාගල දිස්ත්‍රික්කයේ ප්‍රාදේශීය සභා වල හිටපු මන්ත්‍රීවරුන් ඇතුළු ග්‍රාමීය නායකයින්ගේ සහභාගීත්වයෙන් ඉකුත් (11) වෙනිදා රාජ්‍ය ඇමති ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ මොනරාගල සිරිගල ප්‍රදේශයේ පිහිටි නිවසේදී පැවැත්විණි.
+
+මෙම සාකච්ඡාවට ශ්‍රීලංකා පොදුජන පෙරමුණේ වැල්ලවාය ආසන සංවිධායක ඌව පළාත් සභාවේ හිටපු උප සභාපති විමල් ගලගමආරච්චි ප්‍රාදේශීය සභාපතිවරුන් වන ආර්.එම් රත්නවීර (මොනරාගල),රංජිත් පියදිගම (මැදගම),චමින්ද පුෂ්පකුමාර (මඩුල්ල),සමන් වර්ණකුලසූරිය (සියඹලාණ්ඩුව) යන මහත්වරුන් ඇතුළු ප්‍රාදේශීය සභා මන්ත්‍රීවරුන් සහ අපේක්ෂකයින්ගෙන් විශාල පිරිසක් සහභාගීවී සිටියහ.
+
+මෙහිදී පිරිස දැනුවත්කළ වාරිමාර්ග හා ජල සම්පාදන රාජ්‍ය ඇමති ශෂීන්ද්‍ර රාජපක්ෂ මහතා කියා සිටියේ,
+
+...
+
+[Data](articles/fdea6722.json)
 
 ---
 
@@ -2121,101 +2183,5 @@ Police said that the girl was living with her sick parents and older brother and
 [Data](articles/701a9789.json)
 
 [Extended Data](ext_articles/701a9789.ext.json)
-
----
-
-### More than 47,000 people died in Europe last year due to heat, report says
-
-*2024-08-13 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101189/more-than-47000-people-died-in-europe-last-year-due-to-heat-report-says) · `en`
-
-More than 47,000 people died in Europe due to scorching temperatures in 2023, with countries in the region’s south hit the hardest, according to a report by the Barcelona Institute for Global Health (ISGlobal) published on Monday.
-
-Last year was the world’s hottest on record. As climate change continues to increase temperatures, Europeans live in the world’s fastest-warming continent, facing growing health risks stemming from intense heat.
-
-The 2023 death toll - below the more than 60,000 heat-related deaths estimated for the previous year - would have been 80% higher without measures introduced in the past 20 years to help people adapt to rising temperatures, such as early warning systems and healthcare improvements, according to the report by the Spanish research centre.
-
-...
-
-[Data](articles/c83ce411.json)
-
-[Extended Data](ext_articles/c83ce411.ext.json)
-
----
-
-### Two persons arrested with more than 150 kg of Kerala ganja in Jaffna
-
-*2024-08-13 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/190956) · `ta`
-
-In Jaffna, police arrested two men, aged 39 and 44, from Jaffna and Kilinochchi, after finding 156 kg of Kerala cannabis worth about 42 million rupees hidden in a coconut grove in the Ariyalai area. The suspects were apprehended based on intelligence tips, and further investigations are ongoing.
-
-🟩
-
-Police have arrested two suspects who had 156 kilograms of Kerala cannabis in Jaffna in Ariyalai area on Monday morning.
-
-Based on the secret information available to the drug detention unit, the people who rushed to the scene recovered the cannabis drug that was hidden in a coconut grove in the Ariyalai area.
-
-The suspects from Jaffna and Kilinochchi, aged 39 and 44, have been arrested in connection with the incident.
-
-About 156 kg of cannabis has been recovered from the arrested persons and their value is reported to be around 42 million rupees.
-
-The Police Drug Prevention Unit is conducting further investigations into the suspects.
-
-◼️
-
-[Data](articles/584a5e4d.json)
-
-[Extended Data](ext_articles/584a5e4d.ext.json)
-
----
-
-### Court order to pay compensate for the nurse who was suspended
-
-*2024-08-13 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199877) · `si`
-
-The Supreme Court ordered a doctor to pay Rs. 10,000 in compensation to a nurse for violating her human rights by attempting to amputate a diabetic patient's leg without consent. The court found the doctor guilty based on evidence presented by the nurse, including being called a liar by the surgeon during the incident. The compensation must be paid within three months.
-
-🟩
-
-The Supreme Court has decided that the specialist person has violated basic human rights in a potential to cut the head of a diabetic at the General Hospital.
-
-Accordingly, the Nurse of the Kurunegala General Hospital has ordered the nurse of the Kurunegala General Hospital as a resident of Wariyapola, which has been under violation of the fundamental rights.
-
-The compensation should be completed within three months and the doctor should pay a compensation of Rs. 10,000 and stated in the decree issued by the Supreme Court.
-
-The verdict was announced with the agreement of the three-judges with a petition filed by a petition filed by a nurse.
-
-The petitioner claims that he went to Surgeon with the respondent with the respondent to the respondent of the assignment of a diabetic patient on March 12, 2019.
-
-The petitioner said he had asked him to cut off the conflict at the time when the surgery was done and asked him to lay the scissors.
-
-...
-
-[Data](articles/2b5e5e47.json)
-
-[Extended Data](ext_articles/2b5e5e47.ext.json)
-
----
-
-### Rain island wide
-
-*2024-08-13 09:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවයින-පුරා-වැස්ස-තවදුරටත්/11-411337) · `si`
-
-Island-wide rainfall expected due to atmospheric turbulence, affecting Western, Sabaragamuwa, Central, Uva, and Southern provinces. Heavy rains possible exceeding 100mm in some areas.
-
-🟩
-
-The Department of Meteorology says that the existing rain condition island wide due to the turbulent disturbance in the lower atmosphere.
-
-Accordingly, showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Uva provinces.
-
-The project will show rain or thundershowers at the evening of other lands.
-
-Some parts of the Western, Sabaragamuwa, Central, Southern and Northwestern provinces are mm mm mm.. Heavy rains can occur at more than 100.
-
-◼️
-
-[Data](articles/7ff0c6ee.json)
-
-[Extended Data](ext_articles/7ff0c6ee.ext.json)
 
 ---

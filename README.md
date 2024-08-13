@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 07:03:01**
+As of **2024-08-13 07:34:08**
 
 ## Newspaper Stats
 
-*Scraped **40,391** Articles*
+*Scraped **40,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,127
 virakesarilk | 6,394
-adaderanasinhalalk | 6,864
+adaderanasinhalalk | 6,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,380 (100.0%) of 40,391 articles have been extended.
+40,387 (100.0%) of 40,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ඇප තැන්පත් කිරීම හෙට දහවලින් අවසන්
+
+*2024-08-13 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199869) · `si`
+
+මෙවර ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම හෙට (14) දහවල් 12න් අවසන් කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/2059c5fd.json)
+
+---
+
+### අදත් මි.මී 100 ඉක්මවූ වැසි
+
+*2024-08-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199867) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල ඇතැම් ප්‍රදේශවලට අද (13) මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා දැනට පවතින වැසි තත්ත්වය තවදුරටත් පවතිනු ඇතැයි බලාපොරොත්තු විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ ඌව පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/256ad70d.json)
+
+---
 
 ### Certified Management Accountants Australia marks Silver Jubilee in Sri Lanka
 
@@ -41,6 +73,8 @@ The Certified Management Accountants (CMA) Australia proudly celebrates its 25th
 ...
 
 [Data](articles/189b5a41.json)
+
+[Extended Data](ext_articles/189b5a41.ext.json)
 
 ---
 
@@ -53,6 +87,8 @@ Premier homegrown finance company Siyapatha Finance PLC successfully opened its 
 ...
 
 [Data](articles/884b64d9.json)
+
+[Extended Data](ext_articles/884b64d9.ext.json)
 
 ---
 
@@ -762,6 +798,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/a92e426f.json)
 
+[Extended Data](ext_articles/a92e426f.ext.json)
+
 ---
 
 ### H One unveils revolutionary AI Bot: Simplifying company Annual Reports for all stakeholders
@@ -773,6 +811,8 @@ Colombo, August 06, 2024: H One, in collaboration with Hayleys PLC, proudly anno
 ...
 
 [Data](articles/4fbb5ce5.json)
+
+[Extended Data](ext_articles/4fbb5ce5.ext.json)
 
 ---
 
@@ -789,6 +829,8 @@ Turnover stood at Rs 337 million with one crossing. The crossing was reported in
 ...
 
 [Data](articles/38f9136a.json)
+
+[Extended Data](ext_articles/38f9136a.ext.json)
 
 ---
 
@@ -2209,43 +2251,5 @@ The Galle and Matara districts can have a heavy showers exceeding 100 millimeter
 [Data](articles/8b6fd9b2.json)
 
 [Extended Data](ext_articles/8b6fd9b2.ext.json)
-
----
-
-### Majority of presidential election candidates puppets
-
-*2024-08-12 13:32:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-අපේක්ෂකයෝ-බහුතරය-රූකඩ/11-411325) · `si`
-
-In a press conference, a leader criticized the presidential election system in Sri Lanka, highlighting issues like high campaign costs, misuse of media, and the influence of big parties over smaller candidates. The speaker proposed reducing the bail amount for independent candidates to Rs 10 million to prevent misuse of funds and suggested banning candidates who have been defeated in the past parliamentary elections from future campaigns.
-
-🟩
-
-Leader of Leader of Leader of Leader of the Leader of the Leader of the Leader of the JHU. He was speaking at a press conference held at the party headquarters at the party headquarters this morning.
-
-"When the presidential election bill was passed in 1981, a candidate of a party was bailed by Rs.Because.
-
-The bail of all other candidates except the two main candidates in the history of Sri Lanka are confiscated.But all the presidents are submitting to the candidates.35 candidates for the 2019 presidential electionThis time will grow.Why?
-
-Some candidates pays a cash cash and present the main candidates.The President uses the opponent candidates using the media space for those candidates.Others become a famous person in the country.Or what is the reason why you ought to get rubbish?There are also a candidate for a third term in two occasions.
-
-...
-
-[Data](articles/51a4dcc8.json)
-
-[Extended Data](ext_articles/51a4dcc8.ext.json)
-
----
-
-### The Geopolitics of Democracy
-
-*2024-08-12 13:27:00* · [`islandlk`](http://island.lk/the-geopolitics-of-democracy/) · `en`
-
-On Thursday, July 25, Factum organised the first international screening of Beena Sarwar’s Democracy in Debt: Sri Lanka Beyond the Headlines. Supported by a grant from the Pulitzer Center with institutional facilitation from Factum, the screening, at the Colombo City Centre, saw a sizeable crowd, a cross-section of Sri Lankan and South Asian civil society. This included not just ambassadors and embassy officials, but also think-tank representatives, political analysts, artists, youth, ex-military officials, and corporate figures.
-
-...
-
-[Data](articles/654da9dd.json)
-
-[Extended Data](ext_articles/654da9dd.ext.json)
 
 ---

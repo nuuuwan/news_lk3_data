@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 16:09:28**
+As of **2024-08-13 16:21:13**
 
 ## Newspaper Stats
 
-*Scraped **40,506** Articles*
+*Scraped **40,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 385
-islandlk | 2,342
+islandlk | 2,344
 economynextcom | 2,453
 dailyftlk | 2,605
 adalk | 3,721
-adaderanalk | 4,720
+adaderanalk | 4,721
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
@@ -26,41 +26,71 @@ adaderanasinhalalk | 6,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,501 (100.0%) of 40,506 articles have been extended.
+40,506 (100.0%) of 40,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ஜனாதிபதியை சந்தித்தனர் தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள்
+### More Indian hospitals hit by doctors’ protest against alleged rape and murder
+
+*2024-08-13 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101206/more-indian-hospitals-hit-by-doctors-protest-against-alleged-rape-and-murder) · `en`
+
+Hospital services were disrupted in several Indian cities on Tuesday, after the nationwide spread of a doctors’ protest against the alleged rape and murder of a 31-year-old doctor in the eastern city of Kolkata, authorities and media said.
+
+Television images showed thousands of doctors marching on Monday to protest the incident at a government-run hospital, calling for justice for the victim and better security measures, paralysing health services in West Bengal state.
+
+The protest rippled nationwide on Tuesday, joined by more than 8,000 government doctors in the western Maharashtra state, home to the financial capital of Mumbai, halting work in all hospital departments except emergency services, media said.
+
+In the capital, New Delhi, junior doctors wearing white coats held posters that read, “Doctors are not punching bags,” as they sat in protest outside a large government hospital to demand an investigation, Reuters Television images showed.
+
+...
+
+[Data](articles/aa2f5fd2.json)
+
+---
+
+### Representatives of the Tamil National General Structure
 
 *2024-08-13 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191002) · `ta`
 
-தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை தமிழ்த் தேசியப் பொது கட்டமைப்பின் பிரதிநிதிகள் சந்தித்து கலந்துரையாடியுள்ளனர்.
+Tamil National Alliance representatives met with Sri Lanka's President Ranil Wickremesinghe regarding the Tamil National Public Structure Common Candidate. The discussion aimed to address the political aspirations of the Tamil people, focusing on resolving issues like the release of political prisoners and economic development. President Wickremesinghe assured progress on these matters, emphasizing his commitment to implementing the provincial council structure and addressing other concerns raised by the Tamil parties.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பை ஏற்று திங்கட்கிழமை (12)  மாலை 4 மணியளவில் ஜனாதிபதி செயலகத்தில் தமிழ் ஈழ விடுதலை இயக்கம் சார்பில் அதன் தலைவர் செல்வம் அடைக்கலநாதன், செயலாளர் நாயகம் கோவிந்தன் கருணாகரம் மற்றும் பேச்சாளர் குருசுவாமி சுரேந்திரன் ஆகியோரும்,  ஜனநாயக மக்கள் விடுதலை முன்னணி சார்பில் அதன் தலைவர் தர்மலிங்கம் சித்தார்த்தன், ஜனநாயக போராளிகள் கட்சியின் சார்பில் அதன் தலைவர் வேந்தன் மற்றும் செயலாளர் துளசி ஆகியோரும் இச்சந்திப்பில் கலந்து கொண்டனர்.
+🟩
 
-தமிழ்த் தேசியப் பொது கட்டமைப்பு பொது வேட்பாளர் ஒருவரை களமிறக்கிய சூழலிலே,  இந்த சந்திப்புக்கான அழைப்பை ஜனாதிபதி ரணில் விக்ரமசிங்க,  வரும் ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளராக பொதுக் கட்டமைப்பின் உறுப்பினர்களை  சந்திப்பதற்கான அழைப்பினை தனித்தனியாக அரசியல் கட்சிகளுக்கும் பொது அமைப்புகளைச் சார்ந்த பிரதிநிதிகளுக்கும் விடுத்திருந்தார்.
+Representatives of the Tamil National Alliance have met with President Ranil Wickremesinghe in the context of the Tamil National Public Structural Candidate.
+
+President Ranil Wickremesinghe accepted the invitation of President Ranil Wickremesinghe on Monday (12) at 4 pm on behalf of the Tamil Eelam Liberation Movement on behalf of the Tamil Eelam Liberation Movement, Secretary General Govindan Karunagaram and speaker Guruswamy Surendran and its leader Dharmalingam Siddharthan on behalf of the Democratic People's Liberation Front.Venthan and Secretary Tulsi also participated in the meeting.
+
+In the context of the Tamil National Public Structure Common Candidate, President Ranil Wickremesinghe has issued an invitation to the political parties and the representatives of the public organizations to meet the members of the general structure as a candidate for the coming presidential election.
 
 ...
 
 [Data](articles/85bcba05.json)
 
+[Extended Data](ext_articles/85bcba05.ext.json)
+
 ---
 
-### රිය අනතුරකින් පසු එල්ල කළ ප්‍රහාරය
+### Attack on a car accident
 
 *2024-08-13 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199892) · `si`
 
-හැඳල, වත්තල ප්‍රදේශයේ ත්‍රිරෝද රථයක් හා පාසල් ළමුන් ප්‍රවාහනය කරන වෑන් රථයක් ගැටීමෙන් රිය අනතුරක් සිදුව තිබේ.
+In a tragic accident involving a three-wheeler and a van carrying schoolchildren in Hendala, both drivers were assaulted at the Colombo National Hospital. The incident started with the three-wheeler passenger demanding money, leading to a confrontation where the van driver responded aggressively.
 
-අනතුරුව ත්‍රිරෝද රථයේ හිමිකරුගේ පාර්ශ්වය විසින් අදාළ වෑන් රථයේ රියදුරුට පහරදී ඇති අතර ඔහු මේ වනවිට කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබයි.
+🟩
 
-"ත්‍රී රෝද රථයේ හිටපු කෙනා මගෙන් සල්ලි ඉල්ලන් ගත්තා. මම කියුවා සල්ලි දෙන්න තරම් හානියක් නැහැ නේද කිව්වහම ඒයා කණ්ණාඩිය ගලෝලා එයාම අතින් කඩලා දාලා ඊට පස්සේ සල්ලි ඉල්ලන්න ගත්තා ඊටපස්සෙත් මම ඒත් දෙන්න බැහැ කිව්වහම කෝල් කරලා එයාගේ ළමයි දෙන්නව ගෙන්නලා මට ගැස්සුවා."
+An accident had occurred when a three-wheeler and a van that transported school children transported by Hendala.
+
+The driver of the van and the vehicle of the van owner of the three-wheeler has been assaulted at the Colombo National Hospital.
+
+"The first one in the three-wheeler asked me for money. I told you not to give money, but when he said, I was able to blew him in his mirror and asked me to give me the two children. "
 
 ◼️
 
 [Data](articles/56129c3e.json)
+
+[Extended Data](ext_articles/56129c3e.ext.json)
 
 ---
 
@@ -75,6 +105,8 @@ Accordingly, the police announced that a special traffic plan would be implement
 ◼️
 
 [Data](articles/0f481c8c.json)
+
+[Extended Data](ext_articles/0f481c8c.ext.json)
 
 ---
 
@@ -93,6 +125,8 @@ Based on its recommendations, the Cabinet has approved the President’s proposa
 ◼️
 
 [Data](articles/1f3e6cb2.json)
+
+[Extended Data](ext_articles/1f3e6cb2.ext.json)
 
 ---
 
@@ -820,19 +854,29 @@ Meanwhile, the Ministry of Finance has promised to allocate funds based on the e
 
 ---
 
-### ලොරියට යටවී ව්‍යාපාරිකයෙක් මරුට
+### Business a business dies after falling into lorry
 
 *2024-08-13 12:23:58* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියට-යටවී-ව්‍යාපාරිකයෙක්-මරුට/11-411343) · `si`
 
-කුඩා ලොරියක් පදවාගෙන බිරිඳ සමග යමින් සිටි ව්‍යාපාරිකයකු මොරගහහේන  වීදියගොඩ දියකඩ මාර්ගයේදී ලොරිය පෙරළී එයට යටවී මියගොස් ඇතැයි මොරගහහේන පොලිසිය කියයි. අනතුරින් මියගිය ව්‍යාපාරිකයාගේ බිරිඳට කිසිදු තුවාලයක් සිදුවී නැත.
+A 67-year-old businessman from Welmsilla Halapitiya died when his fruit business vehicle collided with a small lorry on Moragahahena Streetiya Road. The incident occurred yesterday, and the deceased was identified through a post-mortem examination at Horana Base Hospital. Police investigations suggest the accident happened due to the lorry's negligence, leading to the closure of the deceased's business operations.
 
-අනතුරින් මියගොස් ඇත්තේ වැල්මිල්ල හාලපිටිය පදිංචිව සිටි ආර් ඒ ජිනරත්න නැමැති 67 හැවිරිදි  පුද්ගලයෙකි.
+🟩
 
-මියගිය ව්‍යාපාරිකයා වීදියගොඩ ප්‍රදේශයේ පවත්වාගෙන යන පලතුරු වෙළඳසැල ඊයේ (12) රාත්‍රී  වසා දමා බිරිඳ සමග ලොරියෙන් නිවස කරා යමින් සිටියදී ලොරි රථය පාලනය කරගත නොහැකිව  මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවෙන් බෑවුමට පෙරළී ලොරියටම යට වී මිය ගොස් ඇතැයි පොලිසිය කියයි.
+Moragahahena police say the lorry has been declined in Moragahahena Streetiya Road, a small lorry. The business of the deceased businessman has no injuries.
 
-...
+The deceased has been identified as 67 year old residents of Welmsilla Halapitiya.
+
+The fruits of the deceased have been closed down yesterday (12), the lorry had been reduced to the slope and died in the opposite direction of the lorry.
+
+The lorry area is a zero area as well as the wife of the lorry in the lorry, as well as a group of traveled and a large number of funerals and a small funeral house was brought to the lorry.Police said that he had been sent to the Bandaragama December. The man has died in a short while, police said.
+
+The delegation of the deceased is the post mortem examiner of the Horana Base Hospital in Horana Base Hospital.
+
+◼️
 
 [Data](articles/d9350df5.json)
+
+[Extended Data](ext_articles/d9350df5.ext.json)
 
 ---
 
@@ -2231,29 +2275,5 @@ The body has been placed at the Wathupitiwala hospital morgue and Naval police a
 [Data](articles/d8b5de1a.json)
 
 [Extended Data](ext_articles/d8b5de1a.ext.json)
-
----
-
-### Anura is on another special meeting
-
-*2024-08-13 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199873) · `si`
-
-MP Anura Kumara Dissanayake, part of a Sri Lankan delegation including TakaFumi Kadeno, met with the National Power leader at the JVP headquarters. They discussed the Asian Development Bank's support plans for Sri Lanka, following a review of its development activities there.
-
-🟩
-
-Sri Lankan delegation TakaFumi Kadeno, as well as a delegation, MP Anura Kumara Dissanayake met with leader of the National Power.
-
-The meeting was reported at the Head Office of the JVP yesterday (12).
-
-A review of the development activities carried out by the Asian Development Bank has been conducted in Sri Lanka.
-
-The representatives have been informed about the preparations in the Asian Development Bank to assist Sri Lanka.
-
-◼️
-
-[Data](articles/7a1f8019.json)
-
-[Extended Data](ext_articles/7a1f8019.ext.json)
 
 ---

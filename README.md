@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 10:55:04**
+As of **2024-08-13 11:07:28**
 
 ## Newspaper Stats
 
-*Scraped **40,424** Articles*
+*Scraped **40,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,78 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
-adalk | 3,712
-adaderanalk | 4,707
+adalk | 3,713
+adaderanalk | 4,708
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,138
 virakesarilk | 6,394
-adaderanasinhalalk | 6,876
+adaderanasinhalalk | 6,877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,422 (100.0%) of 40,424 articles have been extended.
+40,424 (100.0%) of 40,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ලොරියක් පෙරළි ව්‍යාපාරිකයෙක් මරුට
+### පාසල් සිසුවියව සමූහ දූෂණයට ලක්කළ කොන්දොස්තර ඇතුළු 5ක් අත්අඩංගුවට
+
+*2024-08-13 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199880) · `si`
+
+අට ශ්‍රේණියේ ඉගෙනුම ලබන පාසල් සිසුවියක්ව වසර දෙකක පමණ කාලයක සිට සමූහ දූෂණයකට ලක්කළ බව කියන සිද්ධියක් සම්බන්ධයෙන් කොන්දොස්තරවරයෙකු ඇතුළු පස්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ, හොරණ රෙමුණ ප්‍රදේශයේ පදිංචි පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු කළුතර, දියගම ප්‍රදේශයේ පදිංචි පුද්ගලයන් තිදෙනෙකු සහ ඇය නිවසක රඳවා ගැනිමට අනුබල දුන් පුද්ගලයෙකු බව කළුතර උතුර පොලීසිය පවසයි.
+
+අත්අඩංගුවට පත්වූවන් අතර දෙදෙනකු විවාහකයින් බවත් ඉන් එක් අයෙකු වයස 60 ඉක්මවූ අයෙකු බවද පොලීසිය සඳහන් කරයි.
+
+දැරිය සිය රෝගි දෙමව්පියන් සහ වැඩිමහල් සොහොයුරා සමග එකට ජීවත්ව සිට ඇති අතර, නිවසේ අගහිඟකම් හේතුවෙන් මුදල් සහ වෙනත් දෑ ලබාදෙමින් දැරිය රවටා වසර දෙකක පමණ කාලයක සිට සමූහ දූෂණයට ලක්කර ඇති බව මෙතෙක් කළ පරීක්ෂණවලදී හෙළිව තිබේ.
+
+අත්අඩංගුවට ගෙන ඇති පෞද්ගලික බස් කොන්දොස්තරවරයා මාසයකට පමණ පෙර දැරිය හොරණ රෙමුණ ප්‍රදේශයේ නිවසට කැටුව ගොස් රඳවා තබාගෙන අතවර කර ඇති අතර, මෙම දැරිය නිවසෙන් අතුරුදහන් වීම සම්බන්ධයෙන් කළුතර උතුර පොලීසියට ලද තොරතුරක් මත පරීක්ෂණ ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/52d0ecef.json)
+
+---
+
+### Anura Kumara meets ADB’s Country Director for Sri Lanka
+
+*2024-08-13 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101193/anura-kumara-meets-adbs-country-director-for-sri-lanka) · `en`
+
+Leader of the National People’s Power (NPP) and Member of Parliament Anura Kumara Dissanayake has met with Mr. Takafumi Kadono, the Asian Development Bank’s (ADB) Country Director for Sri Lanka, at the JVP headquarters on Monday (12).
+
+In a post on ‘X’ (formerly Twitter), Dissanayake stated, “We discussed the ongoing development activities being carried out by the Asian Development Bank in Sri Lanka, and Mr. Kadono shared the organization’s continued readiness to provide aid to the country.”
+
+National Executive Member of the National People’s Power (NPP), Mr. Bimal Ratnayake, was also present at the meeting.
+
+◼️
+
+[Data](articles/becead3a.json)
+
+---
+
+### Business a businessman killed in lorry
 
 *2024-08-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199879) · `si`
 
-මොරගහහේන වීදියගොඩ, දියකඩ මාර්ගයේදී ව්‍යාපාරිකයෙකු සිය බිරිඳ සමග කුඩා ලොරි රථයකින් යමින් සිටියදී එම ලොරිය පෙරළී එයටම යටවීමෙන් ඔහු මියගොස් ඇතැයි මොරගහහේන පොලීසිය පවසයි.
+A 67-year-old businessman, Welmilla Halpitiya A.Jinaratne, died when a truck hit him while he was traveling with his wife on a small lorry in Moragahahena Streetiya Road. The incident occurred near Weeragoda, where his business had recently closed.
 
-අනතුරින් මියගොස් ඇත්තේ වැල්මිල්ල හාලපිටිය පදිංචිව සිටි ආර්. ඒ. ජිනරත්න නමැති 67 හැවිරිදි ව්‍යාපාරිකයෙකි.
+🟩
 
-මියගිය ව්‍යාපාරිකයා වීදියගොඩ ප්‍රදේශයේ පවත්වාගෙන යන පළතුරු වෙළෙඳසැල වසා දමා බිරිඳ සමග ලොරියෙන් යමින් සිටියදී ලොරි රථය මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවෙන් බෑවුමට පෙරළී එම ලොරියටම යටවී මිය ගොස් තිබුණි.
+Moragahahena police say that he has died after his wife was heading with his wife on a small lorry with his wife in Moragahahena Streetiya Road.
+
+The deceased has been identified as Welmilla Halpitiya. A. Jinaratne is a 67 year old businessman.
+
+The deceased businesskeeper was closed down in Weeragoda and went to the sloping of the lorry with the wife and died in the opposite direction of the road.
 
 ◼️
 
 [Data](articles/d172a728.json)
+
+[Extended Data](ext_articles/d172a728.ext.json)
 
 ---
 
@@ -63,6 +105,8 @@ On August 04, executive member of ‘Sarvajana Balaya’  MP Wimal Weerawansa a
 ◼️
 
 [Data](articles/3afc6de6.json)
+
+[Extended Data](ext_articles/3afc6de6.ext.json)
 
 ---
 
@@ -369,6 +413,24 @@ The Department of Meteorology has urged the people to take necessary steps to re
 [Data](articles/c11bcd9b.json)
 
 [Extended Data](ext_articles/c11bcd9b.ext.json)
+
+---
+
+### 13 හැවැරිදි සිසුවිය සමූහ අපයෝජනය කළ පහක් අල්ලයි
+
+*2024-08-13 09:12:18* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-සිසුවිය-සමූහ-අපයෝජනය-කළ-පහක්-අල්ලයි/11-411336) · `si`
+
+වයස අවුරුදු 13 ක  පාසල් සිසුවියක වසර දෙකක පමණ කාලයක සිට සමූහ අපයෝජනයකට ලක්කල බව කියන  සිද්ධියක් සම්බන්ධයෙන් පෞද්ගලික බස් කොන්දොස්තරවරයෙකු ඇතුළු පස්දෙනෙකු  අත්අඩංගුවට ගත්බවත් කළුතර උතුර පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හොරණ රෙමුණ ප්‍රදේශයේ පදිංචි පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු කළුතර, දියගම ප්‍රදේශයේ පදිංචි  පුද්ගලයන් තිදෙනෙකු සහ ඇය නිවසක රදවා ගැනිමට අනුබල දුන් පුද්ගලයෙකු බව පොලිසිය කීය.
+
+අත්අඩංගුවට පත්වූවන් අතර දෙදෙනකු විවාහකයින් බවත් ඉන් එක් අයෙකු වයස 60 ඉක්මවූ සීයා කෙනෙකු බවද පොලිසිය සදහන් කරයි.
+
+දැරිය සිය රෝගි දෙමව්පියන් සහ වැඩිමහල් සොහොයුරා සමග එකට ජීවත්ව සිට ඇති අතර , නිවසේ අගහිගකම් හේතුවෙන් මුදල් සහ වෙනත් දෑ ලබදෙමින් ප්‍රියමනාප දැරිය රවටා වසර දෙකක  පමණ කාලයක සිට සමූහ අතවරයට ලක්කර ඇති බවට මෙතෙක් කල පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිසිය පවසයි.
+
+...
+
+[Data](articles/fe99b891.json)
 
 ---
 
@@ -2217,77 +2279,5 @@ Foreign selling was seen in John Keells Holdings Plc (down at 178.00), Dialog Ax
 [Data](articles/973c001d.json)
 
 [Extended Data](ext_articles/973c001d.ext.json)
-
----
-
-### Graham Torp revealed that his suicide
-
-*2024-08-12 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199859) · `si`
-
-Graham Thorpe, a renowned English cricketer, tragically took his own life after resigning as chief coach due to stress. His death, which occurred nearly two years ago, was only recently reported, highlighting the private nature of his struggle and subsequent resignation from coaching duties. Thorpe, aged 55, had a distinguished career representing England from 1993 to 2005.
-
-🟩
-
-Foreign media reports that the death of Ghaham Turp, a great batsman from England, was a suicide.
-
-Turp's wife was revealed by Amanda, she added that he was suffering from stress.
-
-Torpe, who has passed away from nearly two years, passed away on the 5th and was 55 years old at the time of his death.
-
-However, there was no mention of his death until Hersk's wife was disclosed.
-
-Although Torpe was appointed chief coach in March 2022, he was resigned from the responsibility and all the training activities.
-
-All the information about Thourp's work and his illness were limited to the family.
-
-For nearly 12 years (1993 - 2005) Thorp, who represented England, was a distinguished batsman.
-
-◼️
-
-[Data](articles/e52595db.json)
-
-[Extended Data](ext_articles/e52595db.ext.json)
-
----
-
-### Greek wildfire spreads to edge of Athens; towns, hospitals evacuated
-
-*2024-08-12 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101181/greek-wildfire-spreads-to-edge-of-athens-towns-hospitals-evacuated) · `en`
-
-A fast-moving wildfire fuelled by gale-force winds spread to the edge of Athens on Monday, torching trees, houses and cars and forcing evacuations of several hospitals and a dozen towns and villages, Greek authorities said.
-
-Hundreds of wildfires have broken out across Greece since May. While summer fires are common in Greece, extraordinarily hot and dry weather linked to climate change have made blazes more frequent and intense. Wildfires fanned by extreme heat have also raged this month in parts of Spain and the Balkans.
-
-More than 670 firefighters backed by volunteers, 183 fire engines, 32 waterbombing planes and helicopters battled the latest wildfire that broke out at 3 p.m. (midday GMT) on Sunday near Varnavas 35 km (20 miles) north of the capital.
-
-By Monday the conflagration, the worst in Greece this year, had advanced to the village of Grammatiko, the seaside municipality of Nea Makri and the fringes of Athens’ densely populated northern suburbs at the heavily wooded Mount Penteli.
-
-...
-
-[Data](articles/c3c68ef3.json)
-
-[Extended Data](ext_articles/c3c68ef3.ext.json)
-
----
-
-### The CTB bus jumps away from road - two lives lost
-
-*2024-08-12 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199858) · `si`
-
-A bus accident near Wellassa junction resulted in two fatalities and several hospitalizations due to serious injuries. The bus veered off the road, crashing into a shop and trapping passengers.
-
-🟩
-
-Two persons were killed in an accident near the Wellassa junction on the Bandaragama - Kesbarawa Junction.
-
-Our correspondent said that the bus had fallen on the right side of the road and collapsed into a shop under three people in the bus stop.
-
-The accident had occurred this afternoon today (12), and a serious injuries have been hospitalized.
-
-◼️
-
-[Data](articles/f9c9cad8.json)
-
-[Extended Data](ext_articles/f9c9cad8.ext.json)
 
 ---

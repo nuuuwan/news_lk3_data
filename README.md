@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 08:16:23**
+As of **2024-08-13 08:36:23**
 
 ## Newspaper Stats
 
-*Scraped **40,402** Articles*
+*Scraped **40,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,122 +13,214 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 385
 islandlk | 2,342
-economynextcom | 2,445
+economynextcom | 2,446
 dailyftlk | 2,604
 adalk | 3,710
 adaderanalk | 4,703
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,129
 virakesarilk | 6,394
-adaderanasinhalalk | 6,871
+adaderanasinhalalk | 6,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,395 (100.0%) of 40,402 articles have been extended.
+40,402 (100.0%) of 40,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ඔයෙන් එගොඩ වීමට ගිය පුද්ගලයෙක් සැඩ පහරට හසුවෙයි
+### Sri Lanka panel mandates wages for plantations workers
+
+*2024-08-13 08:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-panel-mandates-wages-for-plantations-workers-176508/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Wages Board has passed mandated wage of 1,700 rupees a day for plantations workers, which legislators backing the workers, said amounted to 2,000 rupee a day with provident fund benefits.
+
+Plantations companies went to court to block and earlier decision, as politicians threatened to expropriate firms that did not carry out the decision.
+
+“There is a 1350 wage for which there is EPF, ETF and gratuity,” legislator Vadivel Suresh told reporters.
+
+“And there is a 350 incentive. That they have to pay. With the EPF and ETF, it will exceed 2,000 rupees.”
+
+The 1,700 wage was announced by President Ranil Wickremesinghe at a May Day rally earlier in the year.
+
+Politicians of the ruling coalition threatened to expropriated plantation companies that did not pay the mandated wage.
+
+“About 14 boards voted in favour of the 1,700 wage,” Water Minister Jeevan Kumaratunga, who represents the Ceylon Workers Congress, the main labour union, said after the decision.
+
+...
+
+[Data](articles/23ca23e1.json)
+
+---
+
+### ඉන්දු - ශ්‍රී ලංකා මගී යාත්‍රා සේවය සිකුරාදා සිට
+
+*2024-08-13 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199876) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මගී යාත්‍රා සේවය ලබන සිකුරාදා (16) දිනයේ සිට යළි ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.
+
+ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට නියමිතය.
+
+පුද්ගලික සමාගමක් විසින් මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමේ අවස්ථාව ද ලබාදී තිබේ.
+
+ඊයේ (12) දිනයේ සිට මගී යාත්‍රා සේවය සඳහා ප්‍රවේශ පත්‍ර වෙන්කර ගත හැකි බව අදාළ සමාගම දැනුම් දී ඇත.
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මෙම මගී යාත්‍රා සේවය මීට පෙර මැයි මස 13 වන දින ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණ ද විවිධ හේතු නිසා එය කල්දමනු ලැබීය.
+
+◼️
+
+[Data](articles/c399796a.json)
+
+---
+
+### ෆේස්බුක් ආධාර කල්ලියක් පෞද්ගලික දත්ත සොරාගැනීමේ ජාවාරමක
+
+*2024-08-13 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199875) · `si`
+
+ෆේස්බුක් ආධාර කණ්ඩායම් ලෙස පෙනී සිටිමින් පුද්ගලයින්ගේ පෞද්ගලික දත්ත සොරකම් කිරීමේ ජාවාරමක් ක්‍රියාත්මක වන බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක දමුණුගල මහතා ස සඳහන් කළේ, පසුගිය දින කිහිපය තුළ මේ සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බවය.
+
+ෆේස්බුක් ආධාර කණ්ඩායම් ලෙස පෙනී සිටිමින් වට්ස්ඇප් සහ එස්.එම්.එස් පණිවිඩ යොමුකරමින් මෙම ජාවාරම සිදුකරන බව චාරුක දමුණුගල මහතා සඳහන් කළේය.
+
+"ෆේස්බුක් ආධාරක කණ්ඩායම යනුවෙන් ඔබට පණිවිඩයක් ලැබෙන්න පුළුවන් ඔබගේ ෆේස්බුක් ගිණුම හෝ පිටුව තාවකාලිකව අත්හිටුවා ඇති බවට. එය නැවත ලබාගැනීමට ඔවුන් වෙත යම්කිසි මුදලක්... ඒත් එක්කම යම්කිසි පණිවුඩයක් සමග ඔබගේ තොරතුරු යැවිය යුතු බවට යන පණිවුඩයක්... මෙම පණිවුඩය ඔස්සේ ඇත්ත වශයෙන්ම ෆේස්බුක් ලෙස පෙනී සිටිමින් වංචාවක් සිදුකරන බවට අපට පැමිණිලි ලැබිලා තියෙන්නේ.
+
+...
+
+[Data](articles/25a3a28e.json)
+
+---
+
+### A person who went to crossed with her will be hit
 
 *2024-08-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199874) · `si`
 
-නාල්ල, කීලම්පිටිය ප්‍රදේශයේදී මා ඔය හරහා එගොඩ වීමට ගිය පුද්ගලයෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+A 35-year-old from Divuldeniya drowned near Kelampitiya while trying to cross Ma Oya. The body is at Wathupitiwala hospital, with Naval police investigating.
 
-එලෙස මියගොස් ඇත්තේ, නාල්ල, දිවුල්දෙණිය ප්‍රදේශයේ පදිංචිව සිටි 35 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-මරණකරු තවත් පුද්ගලයෙකු සමග මා ඔය හරහා එගොඩ වීමට යාමේදී සැඩ පහරකට අසුවී ගසාගෙන ගොස් මෙලෙස දියේ ගිලී ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+A person drowned in the Molamitiya area in Kelampitiya area.
 
-මෘත ශරීරය වතුපිටිවල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ‍නාල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been identified as a 35 year old resident of Divuldeniya.
+
+Police say that investigations have been revealed that the deceased was going to crossing Ma Oya to cross the man, police said.
+
+The body has been placed at the Wathupitiwala hospital morgue and Naval police are conducting further investigations.
 
 ◼️
 
 [Data](articles/d8b5de1a.json)
 
+[Extended Data](ext_articles/d8b5de1a.ext.json)
+
 ---
 
-### අනුර තවත් විශේෂ හමුවක
+### Anura is on another special meeting
 
 *2024-08-13 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199873) · `si`
 
-ආසියානු සංවර්ධන බැංකුවේ ශ්‍රී ලංකා නියෝජිත ටකාෆුමී කැඩෝනෝ මහතා ඇතුළු නියෝජිත පිරිසක් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+MP Anura Kumara Dissanayake, part of a Sri Lankan delegation including TakaFumi Kadeno, met with the National Power leader at the JVP headquarters. They discussed the Asian Development Bank's support plans for Sri Lanka, following a review of its development activities there.
 
-ඊයේ (12) පස්වරුවේ පැලවත්ත ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේ දී එම හමුව පවත්වා ඇති බව වාර්තා වේ.
+🟩
 
-ආසියානු සංවර්ධන බැංකුව විසින් ශ්‍රී ලංකාව තුළ සිදුකරනු ලබන සංවර්ධන කටයුතු පිළිබඳව සමාලෝචනයක් එහිදී සිදුකර තිබේ.
+Sri Lankan delegation TakaFumi Kadeno, as well as a delegation, MP Anura Kumara Dissanayake met with leader of the National Power.
 
-ඉදිරියට ද ශ්‍රී ලංකාවට ආධාර ලබාදීමට ආසියානු සංවර්ධන බැංකුව තුළ වන සූදානම පිළිබඳ එම නියෝජතයින් ජාතික ජන බලවේගය දැනුවත් කර ඇති බව සඳහන්ය.
+The meeting was reported at the Head Office of the JVP yesterday (12).
+
+A review of the development activities carried out by the Asian Development Bank has been conducted in Sri Lanka.
+
+The representatives have been informed about the preparations in the Asian Development Bank to assist Sri Lanka.
 
 ◼️
 
 [Data](articles/7a1f8019.json)
 
+[Extended Data](ext_articles/7a1f8019.ext.json)
+
 ---
 
-### සජිත්ගේ බලය වැඩිවෙයි ?
+### Sajith's power increases?
 
 *2024-08-13 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199872) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළකිරීම වෙනුවෙන් සමගි ජන සන්ධානයට තවත් දේශපාලන පක්ෂ 20කට ආසන්න ප්‍රමාණයක් අද (13) දිනයේ එක්වීමට නියමිතව තිබේ.
+Sajith Premadasa, the opposition leader, is expected to gain significant support from over 20 political parties for the upcoming presidential election, forming a powerful alliance. The General Secretary of the Jathika Force, Ranjith Madduma Bandara, announced this historic coalition aimed at establishing the strongest presidency ever.
 
-සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුම බණ්ඩාර මහතා සඳහන් කළේ, මෙරට ඉතිහාසයේ වැඩිම පක්ෂවලින් සමන්විත සන්ධානය සමගි ජන සන්ධානය බවය.
+🟩
 
-ඒ අනුව ඉදිරියේ දී ද තවත් පක්ෂ සහ කණ්ඩායම් සිය සන්ධානය සමඟ එක්වීමට නියමිත බව රංජිත් මද්දුම බණ්ඩාර මන්ත්‍රීවරයා සඳහන් කළේය.
+Nearly 20 other political parties have to join the opposition leader Sajith Premadasa in the next presidential election.
 
-"පහුගිය 8 වෙනිදා මේ රටේ බිහිවුණ ශක්තිමත්ම සන්ධානයක් පිහිටවුවා. අපිත් සමග තවත් ක්‍රියාකාරී දේශපාලන පක්ෂ 20කට වැඩි ප්‍රමාණයක් සන්ධානගත වෙනවා. මේක දිගින් දිගටම සිදුවෙයි. ඉතිහාසයේ මේ රටේ ශක්තිමත්ම ආණ්ඩුව පිහිටුවන්න, ශක්තිමත්ම ජනාධිපතිවරයා පිහිටුවන්න මේ තුළින් අපිට අවකාශය ලැබෙනවා."
+General Secretary of the Jathika Force, Ranjith Madduma Bandara said that the Alliance (UPFA) of the largest parties in the history of the country.
+
+According to the Ranjith Madduma Bandara, another party and other groups will join their alliance.
+
+"On the last morning, a coalition of the country was established. With us, more than 20 other active political parties are allied with us. This continues. For establishing the strongest government in history, we will have space to establish the strongest president. "
 
 ◼️
 
 [Data](articles/c4308f57.json)
 
+[Extended Data](ext_articles/c4308f57.ext.json)
+
 ---
 
-### ජනපතිගේ මංගල රැලිය අනුරපුරේ
+### President's Wedding Rally is Anuradhapura
 
 *2024-08-13 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199871) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනාධිපතිවරණ මංගල රැලිය ලබන සෙනසුරාදා අනුරාධපුරයේ දී පැවැත්වීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe's election rally in Anuradhapura next Saturday will feature party representatives and supporters. Former Minister Vijith Wijayamuni Soyza has rejoined the Kiranna Society after informing the President. Discussions were held with Tamil parties regarding Northern issues. The New Alliance, including MPs from the Sri Lanka General Front, will back the President on the 16th.
 
-අනුරාධපුර සල්ගාදු පිටියේ දී එම ජනරැලිය පැවැත්වීමට නියමිත බව වාර්තා වේ.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරයාට සහාය පළකිරීමට එක් වූ කණ්ඩායම ඇතුළු මෙවර ජනාධිපතිවරයාට සහාය පළකරන පක්ෂ සහ කණ්ඩායම්වල නියෝජිතයින් මෙම රැලිය සඳහා සහභාගී වීමට නියමිතය.
+President Ranil Wickremesinghe's president's election rally is scheduled to be held in Anuradhapura next Saturday.
 
-මේ අතර ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට සමගි ජනබලවේගයේ කටාන ආසන සංවිධායක ලෙස කටයුතු කළ හිටපු අමාත්‍ය විජිත් විජයමුණි සොයිසා මහතා එක්ව තිබේ.
+It is reported that the famil is to be held at the Anuradhapura Salgadu Ground.
 
-ඊයේ පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී නිල වශයෙන් විජිත් විජයමුණි සොයිසා මහතා ඒ පිළිබඳව දැනුම් දී ඇති බව වාර්තා වේ.
+Representatives of parties and groups, including the team, to support the President, will participate in this rally.
 
-මේ අතර උතුරු පළාත නියෝජනය කරන දෙමළ පක්ෂ නියෝජිතයින් සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර සාකච්ඡාවක් ඊයේ (12) පස්වරුවේ පවත්වා තිබේ.
+Meanwhile, former Minister Vijith Wijayamuni Soyza, who served as the Kiran-electoral organizer of the massive presidential election, has joined the Kiranna Society.
 
-උතුරේ දෙමළ ජනතාවගේ ගැටලු සම්බන්ධයෙන් මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡා වී ඇති බව වාර්තා වේ.
+It is reported that Vijith Wijayamuni Soyza has informed the President Ranil Wickremesinghe yesterday afternoon.
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීම වෙනුවෙන් නව සන්ධානය පිහිටුවීම ලබන 16 වන දින සිදුකිරීමට නියමිතව තිබේ.
+Meanwhile, a discussion between Tamil parties representing the Northern Province and President Ranil Wickremesinghe has held a discussion yesterday afternoon.
+
+It is reported that the problems of the Tamil people in the North have been discussed at length.
+
+Meanwhile, the New Alliance is due to support President Ranil Wickremesinghe on the 16th.
 
 ...
 
 [Data](articles/a7c1b67e.json)
 
+[Extended Data](ext_articles/a7c1b67e.ext.json)
+
 ---
 
-### මරණයෙන් කෙළවර වූ ආරවුල
+### Dispute the end of death
 
 *2024-08-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199870) · `si`
 
-ඇතිමලේ, කොටියාගල ප්‍රදේශයේදී පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+In Kotiyagala, a 45-year-old man was murdered with a sharp object due to a personal feud. The incident occurred yesterday morning and led to the arrest of a 27-year-old suspect from the same area.
 
-ඊයේ (12) උදෑසන කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, කම්මල්යාය, කොටියාගල ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකි.
+In the Kotiyagala area, a person has been assaulted with a sharp instrument.
 
-මරණකරු තවත් පුද්යෙකු සමග අති වූ පුද්ගලික ආරවුලක් හේතුවෙන් මෙම  ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+The murder had been carried out in yesterday morning (12).
 
-සිද්ධිය සම්බන්ධයෙන් කොටියාගල ප්‍රදේශයේ පදිංචි අවුරුදු 27 හැවිරිදි සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+The deceased has been identified as a 45 year old resident of Kotiyagala.
+
+The murder had been carried out due to a personal dispute with another priority.
+
+A 27-year-old suspect in the Kotiyaiyagala area has been arrested in the Kotiyaiyagala area.
 
 ◼️
 
 [Data](articles/70cd45d5.json)
+
+[Extended Data](ext_articles/70cd45d5.ext.json)
 
 ---
 
@@ -266,21 +358,27 @@ Other IPE 2024 activities in Sri Lanka include a combined diving activity that w
 
 ---
 
-### யாழில் 156 கிலோ கஞ்சாவுடன் இருவர் கைது
+### Two arrested with 156 kg of cannabis in Jaffna
 
 *2024-08-13 01:58:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-156-கிலோ-கஞ்சாவுடன்-இருவர்-கைது/175-342069) · `ta`
 
-யாழ்ப்பாணம், அரியாலைப் பகுதியில் 156 கிலோ கிராமுக்கும் மேற்பட்ட கேரள கஞ்சாவுடன் இரண்டு சந்தேகநபர்களைப் பொலிஸார் கைது செய்தனர்.
+In Jaffna, police arrested two individuals, aged 39 and 44, from Jaffna and Kilinochchi, seizing over 156 kg of Kerala ganja. The arrest was part of an operation led by the Mannar Police Drug Eradication Unit, acting on intelligence about a significant amount of money transported from India.
 
-இராணுவப் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த இரகசியத் தகவலையடுத்து மன்னார் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகள், இந்தியாவில் இருந்து கொண்டுவரப்பட்ட ஒரு தொகை கேரள கஞ்சாவை யாழ். அரியாலைப் பகுதியில் வைத்துக் கைப்பற்றினர்.
+🟩
 
-அதனை வைத்திருந்தார்கள் என்ற குற்றச்சாட்டின் கீழ் யாழ்ப்பாணம் மற்றும் கிளிநொச்சி பகுதிகளைச் சேர்ந்த 39 மற்றும் 44 வயதுடைய இருவரே கைது செய்யப்பட்டனர்.
+Police have arrested two suspects with more than 156 kg of Kerala ganja in Ariyalai, Jaffna.
 
-அவர்களிடம் இருந்து 156 கிலோகிராமுக்கும் அதிகமான கேரள கஞ்சா பறிமுதல் செய்யப்பட்டது. (a)
+The Mannar Police Drug Eradication Unit, according to confidential information received by the Army Intelligence Unit, a large sum of money brought from India. They seized the Ariyal area.
+
+Two men, aged 39 and 44, from Jaffna and Kilinochchi were arrested on charges of being held.
+
+More than 156 kilograms of Kerala cannabis seized from them. (A)
 
 ◼️
 
 [Data](articles/debbbc29.json)
+
+[Extended Data](ext_articles/debbbc29.ext.json)
 
 ---
 
@@ -1086,19 +1184,25 @@ I am obviously. I am ready to face any challenge regarding the issue of the prox
 
 ---
 
-### රිෂාඩ්ගේ පක්ෂයේ සහාය කාටද තීරණය 14දා
+### Rishard's party's support decision on the 14th
 
 *2024-08-12 19:06:31* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-සහාය-කාටද-තීරණය-14දා/11-411333) · `si`
 
-රිෂාඩ් බද්යුදින්  මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය මෙවර ජනාධිපතිවරණයේදි සහාය පළ කරන්නේ කාටද යන්න 14 දා ප්‍රකාශයට පත් කරන බව එම කොංග්‍රසය ජාතික සංවිධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී මොහොමඩ් අබ්දුල්ලා මහරුප් මහතා පැවසීය.
+Mohammed Abdullah Maharup, the National Organizer, announced that the All Ceylon Public Organizer's decision on supporting the presidential candidate will be made on the 14th. This decision will be discussed with the Supreme Council at the Colombo Party headquarters and considered through opinions gathered from district conventions.
 
-පක්ෂ නායක රිෂාඩ් බද්යුදින්  මහතාගේ නායකත්වයෙන් 14දා පස්වරුවේ  කොළඹ පක්ෂ මූලස්ථානයට රැස්වන උත්තරීතර මණ්ඩලය සමග සාකච්ඡා කර මෙම තීරණය දැනුම් දෙන බව ජාතික සංවිධායකවරයා පෙන්වා දුන්නේය.
+🟩
 
-දිස්ත්‍රික් මට්ටමේ මේ දිනවල පැවැත්වෙන පක්ෂ දිසා සමුළුවලදී පාක්ෂිකයන්ගේ මතයටද කන් දෙමින් සිටින බවද කීහ.
+The All Ceylon Public Organizer of the National Organizer Mohammed Abdullah Maharup said that the All Ceylon Public Organizer will be announced on the 14th of this year's presidential election.
+
+The National Organizer pointed out that this decision will be informed with the Supreme Council of Colombo-party headquarters at the Colombo Party headquarters.
+
+At the district district conventions, the party is also listening to the opinion.
 
 ◼️
 
 [Data](articles/cf046365.json)
+
+[Extended Data](ext_articles/cf046365.ext.json)
 
 ---
 
@@ -2171,65 +2275,5 @@ Senthil Thondaman also said that the Ceylon Workers Congress has a full contribu
 [Data](articles/4f79c91d.json)
 
 [Extended Data](ext_articles/4f79c91d.ext.json)
-
----
-
-### The ICC Yen is evaluated to the cyc
-
-*2024-08-12 14:51:22* · [`adalk`](https://www.ada.lk/sports/දක්ෂතාවයට-ICCයෙන්-චමරිට-ඇගයීමක්/9-411326) · `si`
-
-The International Cricket Council (ICC) named Sri Lanka's Chamari Atapattu as its Player of the Month for June, recognizing her outstanding performance during the Asian Cup.
-
-🟩
-
-The International Cricket Council has taken steps to name Sri Lanka Leader Chamari Atapattu as ICC player in June.
-
-Based on the skills at the Asian Cup, Chamari has been named as ICC Player in June.
-
-◼️
-
-[Data](articles/da663cab.json)
-
-[Extended Data](ext_articles/da663cab.ext.json)
-
----
-
-### USAID gives Sri Lanka $24.5mn grant
-
-*2024-08-12 14:45:00* · [`economynextcom`](https://economynext.com/usaid-gives-sri-lanka-24-5mn-grant-176389/) · `en`
-
-ECONOMYNEXT – The US Agency for International Development (USAID) will give 24.5 million dollars, or 7.2 billion rupees, to strengthen Sri Lanka’s market-driven growth and promote good governance practices.
-
-“This funding is an investment to further support the country’s locally led initiatives to drive sustainable solutions for Sri Lanka’s development challenges,” USAID Assistant Administrator for Bureau of Asia Schiffer said.
-
-The funds, committed through a Development Objective Grant Agreement between USAID and the government of Sri Lanka, will strengthen Sri Lanka’s market-driven growth, foster environmental sustainability and resilience, and promote good governance practices, the US embassy said in a statement.
-
-“Since 1956, the United States has invested in Sri Lanka’s people, empowering them in their entrepreneurial pursuits, strengthening Sri Lanka’s resilience to climate change and macro-economic shocks,” US Ambassador to Sri Lanka Julie Chung said.
-
-...
-
-[Data](articles/5af5d330.json)
-
-[Extended Data](ext_articles/5af5d330.ext.json)
-
----
-
-### Heavy showers expected; advisory issued for severe lightening
-
-*2024-08-12 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101174/heavy-showers-expected-advisory-issued-for-severe-lightening) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rainfall in Western, Sabaragamuwa, Central and North-western provinces and Galle and Matara districts.
-
-The advisory, which is valid for the next 12 hours ending at 01.30 p.m. tomorrow (13), warns that showers or thundershowers will occur at most places on the island during the evening or night and heavy showers above 100mm are likely at some places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
-
-Meanwhile, the department has also issued an advisory for severe lightening, effective until 11.30 p.m. on Monday (12).
-
-The advisory said that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Anuradhapura, Galle and Matara districts during the evening or night.
-
-...
-
-[Data](articles/818ab3c7.json)
-
-[Extended Data](ext_articles/818ab3c7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 20:07:33**
+As of **2024-08-13 20:21:25**
 
 ## Newspaper Stats
 
-*Scraped **40,550** Articles*
+*Scraped **40,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 3,728
 adaderanalk | 4,726
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,161
-virakesarilk | 6,421
+virakesarilk | 6,422
 adaderanasinhalalk | 6,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,548 (100.0%) of 40,550 articles have been extended.
+40,550 (100.0%) of 40,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### 36 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்
+### 36 people have been controlled
 
 *2024-08-13 19:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-பேர்-கட்டுப்பணம்-செலுத்தியுள்ளனர்/175-342112) · `ta`
 
-2024 ஜனாதிபதித் தேர்தலுக்காக இதுவரை மொத்தம் 36 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக இலங்கை தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+36 candidates have been approved for the 2024 Sri Lankan presidential election, with the deadline for control ending tomorrow at noon. Nominations open tomorrow from 9 am to 11 pm, under a special police security plan at the Rajagiriya Election Secretariat.
 
-இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை செலுத்துவதற்கான காலம் நாளை (14) நண்பகல் 12 மணியுடன் நிறைவடையவுள்ளது.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்களை ஏற்றுக்கொள்வது நாளை மறுதினம் (15) காலை 9.00 மணி முதல் 11.00 மணி வரை ஆரம்பமாகவுள்ளது.
+A total of 36 candidates have been controlled for the 2024 presidential election, the Sri Lanka Elections Commission said.
 
-வேட்புமனு ஏற்றுக்கொள்ளும் தினத்தன்று இராஜகிரியவில் உள்ள தேர்தல் செயலகத்தில் விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படும் என பொலிஸார் அறிவித்துள்ளனர். R
+Meanwhile, the time to pay control of the presidential election will be completed tomorrow (14) at 12 noon.
+
+Accepting the nominations for the upcoming presidential election will begin tomorrow (15) from 9.00 am to 11.00 pm.
+
+Police have announced that a special security program will be implemented at the Election Secretariat in Rajagiriya on the day of the nomination.. Remble
 
 ◼️
 
 [Data](articles/17aa2629.json)
+
+[Extended Data](ext_articles/17aa2629.ext.json)
 
 ---
 
@@ -1134,6 +1140,24 @@ Dr. Valawahengunuwe Tammaratharata Thera, the Vikramadi of the Mihintale Maha Vi
 
 ---
 
+### ஜனாதிபதி தேர்தலுக்கு பின் பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம்  - எஸ்.எம்.சந்திரசேன
+
+*2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190977) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு பின்னர் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம்.பிரதமர் தினேஷ் குணவர்தன தலைமையில் புதிய அரசியல் கூட்டணியை ஸ்தாபிப்போம் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்தார்.
+
+அநுராதபுரம் பகுதியில் செவ்வாய்க்கிழமை (13)  இடம்பெற்ற தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம் என்று குறிப்பிட்டதில் எவ்வித தவறும் கிடையாது.ஜனாதிபதித் தேர்தலுக்கு பின்னர் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம் என்பதை மீண்டும் குறிப்பிடுவேன். பொதுஜன பெரமுனவை நாங்கள் தான் உருவாக்கினோம்.
+
+பொதுஜன பெரமுனவின் உறுப்பினர்களில் பெரும்பாலானோர் ஜனாதிபதி பக்கம் கட்சியின் பெயர் பலகையை மாத்திரம் வைத்திருப்பதில் எவ்வித பயனுமில்லை. கட்சியின் பதவி நிலைகளில் மாற்றம் ஏற்படுத்தப்பட வேண்டும்.
+
+...
+
+[Data](articles/dc43f0fb.json)
+
+---
+
 ### Promoting Votes and Collecting Votes
 
 *2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190986) · `ta`
@@ -1464,25 +1488,31 @@ The world's leading businessman is the Satellite Technology Internet Service of 
 
 ---
 
-### ශ්‍රී ලංකාවේ ජනාධිපතිවරණ ඉතිහාසයේ අමතක නොවන මතක
+### Memorable memory in Sri Lankan presidential history
 
 *2024-08-13 12:52:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn49zd1zdjxo) · `si`
 
-මෙරට 9 වන විධායක ජනාධිපතිවරයා තෝරා පත්කර ගැනීම වෙනුවෙන් පැවැත්වෙන ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම ඇතුළු මූලික කටයුතු මේ වන විට ලහි ලහියේ සිදුවෙමින් පවතී.
+In Sri Lankan presidential history, notable moments include the first election in 1982, followed by significant events such as the banning of political parties, terrorist threats, and the first female president, Chandrika Bandaranaike Kumaratunga. Other highlights include controversial impeachment motions, assassinations, and the 2015 election marked by defections and economic issues.
 
-1982 වසරේ පැවැත්වූ පළමු ජනාධිපතිවරණයේ සිට අවසන් වරට 2019 වසරේදී පැවති ජනාධිපතිවරණය දක්වා සුවිශේෂී අමතක නොවන සිදුවීම් රැසක් සිදුව ඇති අතර, ඇතැම් සිද්ධි අප්‍රකට ය.
+🟩
 
-මෙරට ඉතිහාසයේ පළමු වරට 1982 වසරේ පැවති ජනාධිපතිවරණය බොහෝ දෙනාගේ කතාබහට ලක්වූ මැතිවරණයක් විය.
+The preliminary arrangements, including the deposit of the Presidential Election to be elected to select the 9th Executive President of Sri Lanka, is underway.
 
-ඊට මුලික හේතුව වූයේ, ශ්‍රී ලංකා නිදහස් පක්ෂයේ නායිකාව මෙන් ම හිටපු අග්‍රාමාත්‍යවරියක වූ සිරිමාවෝ බණ්ඩාරනායකගේ ප්‍රජා අයිතිය අහෝසි කිරීමෙන් පසුව ජනාධිපතිවරණය පැවැත්වීමට කටයුතු සම්පාදනය වීම ය.
+The first presidential election held in the 1982 presidential election last year, there were many unique events, which were unique to the presidential election in 2019.
 
-ඒ අනුව, 1978 වසරේ පැවති ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනයෙන් ජනාධිපති ධූරයට පත්වූ ජේ.ආර්. ජයවර්ධන වසර දෙකකට පෙර ජනාධිපතිවරණය කැඳවීමට තීරණය කළේ ය.
+For the first time in the history of the country, the presidential elections in 1982 was a talk.
 
-1982 වසරේ පැවති ජනාධිපතිවරණ නාම යෝජනා භාර ගැනීම එවකට ජනාධිපතිව සිටි ජේ.ආර්. ජයවර්ධනගේ උපන් දිනය දා එනම්, සැප්තැම්බර් මස 17 වන දා සිදු කිරීම විශේෂත්වයක් විය.
+The main reason was to hold the presidential election after the abolition of the community ownership of Sirimavo Bandaranaike, as well as former Prime Minister of Sri Lanka Freedom Party.
+
+Accordingly, the JR who was appointed as the president in the 1978 constitutional amendment of 1978. Jayawardena decided to call for the presidential election two years ago.
+
+Accepting presidential nominations in 1982. It was significant that Jayewardene's birthday was held on 17th September.
 
 ...
 
 [Data](articles/b7bfa74b.json)
+
+[Extended Data](ext_articles/b7bfa74b.ext.json)
 
 ---
 
@@ -2205,35 +2235,5 @@ For the next presidential election, Namal Rajapaksa's leading is the responsibil
 [Data](articles/fdea6722.json)
 
 [Extended Data](ext_articles/fdea6722.ext.json)
-
----
-
-### Five of the conducts who were raped by the school girl arrested
-
-*2024-08-13 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199880) · `si`
-
-In Horana, five individuals, including a private bus conductor, have been arrested for allegedly raping an eighth-grade student over two years. The victim lived with her paralyzed parents and older brother. The conductor, among others, had previously detained the girl a month ago. Investigations uncovered severe sexual abuse dating back three years, with incidents occurring in various locations around Horana and Kalutara North. The girl has been hospitalized in Kalutara and Nagoda Surverts, and the suspects will face charges at the Kalutara Magistrate's Court under the direction of Chief Inspector Damith Jayathika.
-
-🟩
-
-Five, including a conductor, has been arrested in connection with a grade eight student who has been raped for about two years.
-
-The arrested private bus conductor residents of Horana area in Horana area, Kalutara North Police said.
-
-Police say two suspects were married and one of them exceeded one of them.
-
-Investigations have revealed that the girl had been alive with his paralyzed parents and the older brother.
-
-The private bus conductor had detained the girl about a month ago and abused the house of Horana.
-
-According to the investigation of the conductor of Kalutara Police OIC, Damith Jayatilleke and the women's and child staff cops in the investigation, the girl was found at the conductor's house in Horana.Kalutara North Police said.
-
-The conductor later revealed that the conductor had later revealed that the conductor had been seriously sexually abused by various people from three years before the abduction of the girl.
-
-...
-
-[Data](articles/52d0ecef.json)
-
-[Extended Data](ext_articles/52d0ecef.ext.json)
 
 ---

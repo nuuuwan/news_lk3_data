@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 01:07:06**
+As of **2024-08-14 01:21:09**
 
 ## Newspaper Stats
 
-*Scraped **40,567** Articles*
+*Scraped **40,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 378
 colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,462
-dailyftlk | 2,605
+dailyftlk | 2,614
 adalk | 3,732
 adaderanalk | 4,729
 dailymirrorlk | 4,733
@@ -26,9 +26,155 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,567 (100.0%) of 40,567 articles have been extended.
+40,567 (100.0%) of 40,576 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-14 (Wednesday)
+
+### Colombo Business Analytics Forum 2024 today at BMICH
+
+*2024-08-14 00:47:35* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Business-Analytics-Forum-2024-today-at-BMICH/34-765486) · `en`
+
+Recognising the critical role of business analytics in today’s economy, the University of Moratuwa’s Society of Business Analytics (SOBA) will hold the Colombo Business Analytics Forum 2024 today at the BMICH Jasmin Hall from 3.00 p.m. to 7.00 p.m.
+
+This landmark event is the first large-scale business analytics forum in Sri Lanka, designed to bridge the gap between academia and industry by bringing together technology service providers and technology seekers on a single platform.
+
+The event will feature a series of keynote speeches, panel discussions, and workshops. Top experts in IT, AI, Data Science, and Finance will lead the panel discussions, sharing their insights and experiences. This diverse line-up promises to offer valuable perspectives for both seasoned professionals and aspiring business analytics enthusiasts.
+
+...
+
+[Data](articles/5bd0fff6.json)
+
+---
+
+### Cabinet ratifies Sri Lanka-Thailand FTA
+
+*2024-08-14 00:47:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-ratifies-Sri-Lanka-Thailand-FTA/34-765485) · `en`
+
+The Sri Lanka-Thailand Free Trade Agreement (FTA), a significant milestone in the bilateral relations between the two countries, was ratified by the Cabinet of Ministers on Monday.
+
+The agreement, which was signed by the Trade, Commerce and Food Security Minister and the Thai Commerce Minister on 3 February 2024, was tabled in the Parliament on 12 July 2024.
+
+“As stipulated in Section 14.10 of the agreement, the FTA will come into effect on the 30th day following the final notification from the first party to the second party, confirming that all internal legal requirements and procedures have been completed,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He said the FTA marks a key step in Sri Lanka’s efforts to expand its trade network and strengthen economic ties with regional partners.
+
+...
+
+[Data](articles/739dc6d1.json)
+
+---
+
+### Maga Engineering gets Central Highway contracts
+
+*2024-08-14 00:46:58* · [`dailyftlk`](https://www.ft.lk/business/Maga-Engineering-gets-Central-Highway-contracts/34-765484) · `en`
+
+The Cabinet of Ministers on Monday approved the awarding of the IR and IS contract packages for the Central Highway Project to Maga Engineering Ltd.
+
+The decision was made based on the recommendations of the Standing Procurement Committees appointed by the Cabinet, recognising Maga Engineering Ltd. as the substantially responsive lowest bidder.
+
+The Central Highway Project, which is crucial for improving the country’s transport infrastructure, has been divided into 19 construction packages under Part Three of the project. Out of these, 17 packages (from 1A to 1Q) have already been awarded to various contractors.
+
+The IR and IS packages, which were the remaining contracts, were put out for competitive bidding among local construction institutions.
+
+Following a thorough evaluation process, the Standing Procurement Committees recommended Maga Engineering Ltd.
+
+...
+
+[Data](articles/6330fb04.json)
+
+---
+
+### Cabinet clears submission of Import and Export Regulation for Parliamentary approval
+
+*2024-08-14 00:46:34* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-submission-of-Import-and-Export-Regulation-for-Parliamentary-approval/34-765483) · `en`
+
+The Cabinet of Ministers on Monday approved a proposal presented by the President, in his capacity as the Finance, Economic Stabilisation and National Policy Minister, to submit the Import and Export (Control) Regulation No. 10 of 2024 for Parliamentary approval.
+
+This regulation, formulated under the provisions of the Import and Export (Control) Act No. 01 of 1969, was officially published in the Extraordinary Gazette No. 2393/36 dated 18 July 2024.
+
+The new regulation is expected to have significant implications for Sri Lanka’s import and export activities, as it aims to modernise and streamline the regulatory framework governing these sectors.
+
+Once approved, the regulation will provide updated guidelines and controls for importers and exporters, ensuring that Sri Lanka’s trade policies are effectively managed in a rapidly changing global market.
+
+◼️
+
+[Data](articles/952b5679.json)
+
+---
+
+### Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement
+
+*2024-08-14 00:44:04* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-dried-fish-industry-Challenges-innovations-and-Govt-involvement/14-765482) · `en`
+
+The transformation of Sri Lanka’s dried fish industry is well underway
+
+The dried fish industry in Sri Lanka, a significant segment of the local economy, is undergoing a transformation aimed at overcoming long-standing challenges and enhancing its global competitiveness. This sector, traditionally plagued by bureaucratic hurdles, outdated practices, and limited market access, is seeing concerted efforts from various stakeholders, including Government entities, industry associations, and private companies, to streamline processes, modernise operations, and expand market reach.
+
+...
+
+[Data](articles/cb7776e5.json)
+
+---
+
+### 75 years of Geneva Conventions: Global and Sri Lankan perspectives
+
+*2024-08-14 00:40:33* · [`dailyftlk`](https://www.ft.lk/opinion/75-years-of-Geneva-Conventions-Global-and-Sri-Lankan-perspectives/14-765481) · `en`
+
+Geneva, electoral building. Signing of the Final Act of the Diplomatic Conference for the Revision of the Geneva Convention of 1949, delegation of Switzerland
+
+First page of the Geneva Convention of 22 August 1864. (The original document is kept at the Swiss Federal Archives in Bern.)
+
+12 August 2024 marked a poignant milestone – the 75th anniversary of the Geneva Conventions, the cornerstone of International Humanitarian Law (IHL) which regulates the conduct of armed conflict to preserve humanity and reduce suffering, even in the worst of wartime.
+
+...
+
+[Data](articles/790a30f7.json)
+
+---
+
+### Abusing the goddess of law – a disaster pending?
+
+*2024-08-14 00:35:24* · [`dailyftlk`](https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480) · `en`
+
+A nation must treat the judiciary with utmost respect and as an institution second to none
+
+Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was unceremoniously expelled by the Aragalaya activists in July 2022 was fallen abruptly into the lap of Ranil Wickremesinghe (RW) the public opinion was that the biggest harm to democracy in this country was done by the late President and leader of the UNP, J.R. Jayewardene.
+
+...
+
+[Data](articles/23783835.json)
+
+---
+
+### Has Sri Lanka found a clear pathway for economic revival?
+
+*2024-08-14 00:20:27* · [`dailyftlk`](https://www.ft.lk/columns/Has-Sri-Lanka-found-a-clear-pathway-for-economic-revival/4-765479) · `en`
+
+Sri Lanka Government’s resorting to increased taxes created insurmountable hardships to its people
+
+Recently, I have been fortunate to attend a Q & A session of one of the Sydney University Business Schools where I was an alumnus. The theme was the economic revival in the event of future Global Financial Crisis (GFC) and comparison to year 2008 GFC. The panel consisted of eminent professionals of state public sector and academics. This article was aimed to discuss current Sri Lanka economy and the revival process that Government had taken in the context of information gathered at the aforementioned Q & A.
+
+...
+
+[Data](articles/255afc34.json)
+
+---
+
+### ESG Summit 2024 highlights pathways to sustainable business practices
+
+*2024-08-14 00:08:58* · [`dailyftlk`](https://www.ft.lk/opinion/ESG-Summit-2024-highlights-pathways-to-sustainable-business-practices/14-765477) · `en`
+
+Held under the theme ‘Sustainable Pathways to a Brighter Future’, the recent ESG Summit, inaugurated by President Ranil Wickremesinghe, marked a significant step forward for Sri Lanka’s commitment to sustainability. The summit was organised by the Daily FT in collaboration with the Colombo University MBA Alumni Association. The full-day event featured 15 experts sharing transformative insights and innovative solutions in the realms of Environmental, Social, and Governance (ESG) practices.
+
+In his welcome address, University of Colombo MBA Alumni Association President Suraj Radampola expressed a profound commitment to advancing ESG principles within Sri Lanka’s business community. He emphasised the Association’s role in raising awareness about the importance of optimal resource use and protection for future generations.
+
+...
+
+[Data](articles/e62aa0a8.json)
+
+---
 
 ### 2024-08-13 (Tuesday)
 
@@ -2039,203 +2185,5 @@ Meanwhile, Israeli Defense Minister John, who is in talks with the US Secretary 
 [Data](articles/0a50046e.json)
 
 [Extended Data](ext_articles/0a50046e.ext.json)
-
----
-
-### Does the election expenditure exceed allocation?
-
-*2024-08-13 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-ஒதுக்கீட்டைத்-தாண்டுமா/175-342092) · `ta`
-
-With 30 presidential candidates, the Election Commission aims to conduct the election within 10 billion rupees, unsure if funds will suffice. The Commission is concerned about the rising number of candidates, especially commoners, affecting costs. The Ministry of Finance promises to allocate funds based on the Election Commission's estimates, acknowledging potential cost increases due to more candidates.
-
-🟩
-
-Although the number of presidential candidates has now reached 30, the Election Commission is trying to hold the upcoming presidential election within 10 billion rupees, said Elections Commission Chairman RMAL Ratnayake.
-
-In an interview with the Daily Mirror, Ratnayake said, “It is difficult to predict if allocated funds are sufficient. However, if the fund is inadequate, we are forced to demand additional funds.
-
-In the meantime, the Election Commission has expressed concern over the increasing number of candidates as most commoners are contesting the election despite their election results.
-
-According to the current rules, the Commission has not been able to control the number of candidates, but he said that the issue would not be considered during future elections.
-
-Meanwhile, the Ministry of Finance has promised to allocate funds based on the estimates that the Election Commission has put forward in view of the increasing number of candidates.
-
-...
-
-[Data](articles/5a9003c9.json)
-
-[Extended Data](ext_articles/5a9003c9.ext.json)
-
----
-
-### Business a business dies after falling into lorry
-
-*2024-08-13 12:23:58* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියට-යටවී-ව්‍යාපාරිකයෙක්-මරුට/11-411343) · `si`
-
-A 67-year-old businessman from Welmsilla Halapitiya died when his fruit business vehicle collided with a small lorry on Moragahahena Streetiya Road. The incident occurred yesterday, and the deceased was identified through a post-mortem examination at Horana Base Hospital. Police investigations suggest the accident happened due to the lorry's negligence, leading to the closure of the deceased's business operations.
-
-🟩
-
-Moragahahena police say the lorry has been declined in Moragahahena Streetiya Road, a small lorry. The business of the deceased businessman has no injuries.
-
-The deceased has been identified as 67 year old residents of Welmsilla Halapitiya.
-
-The fruits of the deceased have been closed down yesterday (12), the lorry had been reduced to the slope and died in the opposite direction of the lorry.
-
-The lorry area is a zero area as well as the wife of the lorry in the lorry, as well as a group of traveled and a large number of funerals and a small funeral house was brought to the lorry.Police said that he had been sent to the Bandaragama December. The man has died in a short while, police said.
-
-The delegation of the deceased is the post mortem examiner of the Horana Base Hospital in Horana Base Hospital.
-
-◼️
-
-[Data](articles/d9350df5.json)
-
-[Extended Data](ext_articles/d9350df5.ext.json)
-
----
-
-### Sri Lanka water tariff cut of up to 10-pct under formula: Minister
-
-*2024-08-13 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-tariff-cut-of-up-to-10-pct-under-formula-minister-176528/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has given approval to cut household water tariffs up to 10 percent under a cost reflective tariff formula, Minister Bandula Gunawardana said.
-
-“Low income domestic users will get a reduction of about 10 percent,” Gunawardena told reporters.
-
-“For the other categories it will be a reduction of about 5.9 percent and 6 percent.”
-
-Domestic users will see water tariffs reduced by 7 percent, government hospitals reduced by 4.5 percent, and schools and places of religious worship by 6.3 percent.
-
-Water Supply and Drainage Board has seen costs reduce due to recent reductions in electricity and fuel prices, he said. Chemicals costs and interest rate drops were also considered.
-
-◼️
-
-[Data](articles/03014171.json)
-
-[Extended Data](ext_articles/03014171.ext.json)
-
----
-
-### Cabinet approval to reduce water tariffs
-
-*2024-08-13 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101200/cabinet-approval-to-reduce-water-tariffs-) · `en`
-
-The Cabinet of Ministers has granted approval for the National Water Supply and Drainage Board (NWSDB) to reduce the water tariffs based on the tariff formula.
-
-Accordingly, the water tariff of domestic users is to be reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
-
-The Cabinet Spokesman, Minister Bandula Gunawardana stated that the decision was taken according to the agreement reached with the International Monetary Fund (IMF).
-
-◼️
-
-[Data](articles/eb99c9b9.json)
-
-[Extended Data](ext_articles/eb99c9b9.ext.json)
-
----
-
-### Bharatanatyam Station at the age of 13: Chinese little girl's achievement
-
-*2024-08-13 12:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயதில்-பரதநாட்டிய-அரங்கேற்றம்-சீன-சிறுமி-சாதனை/175-342090) · `ta`
-
-A 13-year-old Chinese girl, Lee Musi, has made history by becoming the first to learn Bharatanatyam, a traditional South Indian dance form, under a renowned guru in China. After training for over a decade, she recently performed, impressing both Indian and Chinese audiences. Her journey, supported by her teacher Jin Shan, who debuted in Delhi in 1999, showcases how Bharatanatyam has transcended cultural boundaries, inspiring a deeper appreciation for Indian culture among non-Indians.
-
-🟩
-
-13 -year -old Lee Musi, a 13 -year -old girl in China, has achieved the stage for the art of Bharatanaty.
-
-He is known to be the first person to attend the guru of the country in China, the traditional dance art of South India.
-
-The recent event was attended by famous Bharatanatyam dancer Leela Samson and some Indian representatives participated in the event.. A large number of Chinese also enjoyed this event. This phenomenon is seen as historic specialty.
-
-Lee Musi has been training in Bharata for about 10 years. He has been trained by a Paratha artist in China's Jin Shan.
-
-In 1999, Jin made the debut in Delhi. “On the weekends, Lee came to our home and trained. I was satisfied when I saw this stage of his. It was this art that made the two of us close, ”Jin said.
-
-...
-
-[Data](articles/66f5727d.json)
-
-[Extended Data](ext_articles/66f5727d.ext.json)
-
----
-
-### Cabinet permits to import 3 thousand metric tons of ginger
-
-*2024-08-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190981) · `ta`
-
-The Cabinet approved importing 3,000 metric tons of ginger over three months.
-
-🟩
-
-The Cabinet spokesman said that the Cabinet has granted permission to import 3,000 metric tons of ginger in the next three months.
-
-◼️
-
-[Data](articles/a0092325.json)
-
-[Extended Data](ext_articles/a0092325.ext.json)
-
----
-
-### Nuwan Bopage places deposit to contest Presidential Election
-
-*2024-08-13 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101199/nuwan-bopage-places-deposit-to-contest-presidential-election) · `en`
-
-Attorney-at-Law Nuwan Bopage, the presidential candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya), has officially placed his deposit to contest in the upcoming Presidential Election.
-
-The deposit was made at the Election Commission this morning (13) by Dharmasiri Lankapeli, an executive committee member of the party, on behalf of Nuwan Bopage.
-
-◼️
-
-[Data](articles/9b79672e.json)
-
-[Extended Data](ext_articles/9b79672e.ext.json)
-
----
-
-### Wimal demanding a compensation of Rs 1,000 million
-
-*2024-08-13 12:08:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000-மில்லியன்-நட்டஈடு-கோருகிறார்-விமல்/175-342089) · `ta`
-
-Parliamentarian Wimal Weerawansa sued two immigration officials for Rs 1 billion, claiming his arrest and trial without a proper investigation damaged his reputation. He alleges wrongful detention and unfair treatment upon arrival at the airport in 2015, seeking substantial compensation.
-
-🟩
-
-Parliamentarian Wimal Weerawansa has filed a case in the Colombo District Court against two immigration and immigration officials demanding a compensation of Rs 1,000 million for the stigma of his reputation.
-
-He said that during the last good government, he was arrested under the Immigration and Emigration Act and that the Negombo Magistrate's Court had filed a lawsuit against him.
-
-Two officials of the Department of Immigration and Emigration and the Attorney General were referred to as defendants.
-
-The Member of Parliament pointed out that the Katunayake airport had arrived at the Katunayake airport to attend Dubai to attend the conferences to be held overseas on October 23, 2015.
-
-On October 23, 2015, Wimal Weerawansa arrived at the Bandaranaike International Airport to attend Dubai to attend overseas conferences.
-
-He said that he had issued a diplomatic passport and that the immigration and immigration authorities had verified it and declared it a passport.
-
-...
-
-[Data](articles/4f999ae3.json)
-
-[Extended Data](ext_articles/4f999ae3.ext.json)
-
----
-
-### Dilith Jayaweera too bailed
-
-*2024-08-13 12:08:13* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරත්-ඇප-තියයි/11-411342) · `si`
-
-Dilith Jayaweera, an entrepreneur, was bailed out today (13) for his involvement in the presidential election.
-
-🟩
-
-The presidential election entrepreneurship Entrepreneurship Dilith Jayaweera has been deposited on behalf of Mr. Dilith Jayaweera today (13).
-
-◼️
-
-[Data](articles/3c93b096.json)
-
-[Extended Data](ext_articles/3c93b096.ext.json)
 
 ---

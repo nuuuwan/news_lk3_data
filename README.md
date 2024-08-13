@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 15:36:37**
+As of **2024-08-13 15:55:33**
 
 ## Newspaper Stats
 
-*Scraped **40,500** Articles*
+*Scraped **40,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,342
 economynextcom | 2,453
 dailyftlk | 2,605
 adalk | 3,720
-adaderanalk | 4,717
+adaderanalk | 4,718
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,414
@@ -26,25 +26,51 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,498 (100.0%) of 40,500 articles have been extended.
+40,500 (100.0%) of 40,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ‘சமூக நலனை முன்னிறுத்தியே மக்கள் காங்கிரஸ் முடிவெடுக்கும்’ - ரிஷாட் பதியுதீன்
+### Cabinet approves public sector salary revision proposals for public sector
+
+*2024-08-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101204/cabinet-approves-public-sector-salary-revision-proposals-for-public-sector) · `en`
+
+The Cabinet of Ministers has granted approval for the proposed salary revisions across all sectors of the public service.
+
+An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
+
+The committee engaged with major professional associations of public officials and the broader public sector, analyzed relevant data, and finalized the report.
+
+Based on its recommendations, the Cabinet has approved the President’s proposal to include these salary revisions in the 2025 Budget.
+
+◼️
+
+[Data](articles/8f8023b9.json)
+
+---
+
+### People's Congress decision -making
 
 *2024-08-13 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190998) · `ta`
 
-சமூகங்களின் நலனை முன்னிறுத்தியே அகில இலங்கை மக்கள் காங்கிரஸ் பொருத்தமான முடிவொன்றினை மேற்கொள்ளுமென மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் தெரிவித்தார்.
+Rishad Bathiudeen, leader of the All Ceylon Peoples Congress, emphasized the importance of community welfare in decision-making. He highlighted the need for a president who promotes inter-ethnic harmony, combats racism, supports industrial development, adheres to formal foreign policies, and recognizes Palestine. Decisions will be based on public opinion gathered from various regions, including North and East, ensuring a collective approach towards selecting the most suitable candidate for the presidency.
 
-“ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளருக்கு ஆதரவு வழங்க வேண்டும்?” என்பது தொடர்பில், கடந்த 10,11,12 ஆகிய தினங்களில் வடக்கு, கிழக்கில் இடம்பெற்ற, மக்களின் கருத்துக்களைக் கேட்டறியும் கலந்துரையாடல்களின் போதே அவர் மேற்கண்டவாறு கூறினார்.
+🟩
 
-“தலைமையுடன் நட்பையும் உறவுகளையும் கொண்டிருப்பதைக் காரணமாக வைத்து எந்தவொரு ஜனாதிபதி வேட்பாளருக்கும் ஆதரவு வழங்க முடியாது. சுமார் நான்கரை வருடகால ஆட்சியில் நமது சமூகம் எதிர்கொண்ட இன்னல்களை நாம் மறந்துவிட முடியாது. அதேபோன்று, எதிர்க்கட்சியில் நாம் இருந்தவேளை, கட்சியின் ஆதரவாளர்களுக்கும் தலைமைக்கும் ஏற்படுத்திய துன்பங்கள் மறக்கமுடியாதவை.
+People's Congress leader and parliamentarian Rishad Bathiudeen said that the All Ceylon Peoples Congress would make a relevant decision in line with the welfare of communities.
+
+“Which candidate should support the presidential election?”He said this while hearing the people's views on the North and East on the last 10,11,12.
+
+“Can't support any presidential candidate due to the leadership and relationships with the leadership. We cannot forget the troubles that our society faced in about four and a half years of rule. Similarly, when we were in the opposition, the suffering that the party's supporters and leadership was unforgettable.
+
+After the leadership and the party in Colombo decide, we are not saying that the people come to support this candidate.. After hearing the opinions of the people, we will make decisions on the basis of advice. Whatever the candidate is for the inter -ethnic harmony, we will work to choose him.
 
 ...
 
 [Data](articles/e3f8521e.json)
+
+[Extended Data](ext_articles/e3f8521e.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Accordingly, this includes 355 election law violations, one act of violence and 
 ◼️
 
 [Data](articles/866f3d2d.json)
+
+[Extended Data](ext_articles/866f3d2d.ext.json)
 
 ---
 
@@ -2261,31 +2289,5 @@ The deposit of the presidential election is due to be completed tomorrow (14).
 [Data](articles/2059c5fd.json)
 
 [Extended Data](ext_articles/2059c5fd.ext.json)
-
----
-
-### Showers over 100 mm
-
-*2024-08-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199867) · `si`
-
-Heavy rainfall exceeding 100mm is expected in parts of Western, Sabaragamuwa, Central, Southern, and Northwestern provinces of Sri Lanka. The Meteorology Department warns of potential heavy showers due to atmospheric instability, advising caution against wind and lightning hazards. Showers or thundershowers are predicted across these regions, with specific alerts issued for the evening or night in other areas.
-
-🟩
-
-Some areas in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces are today (13) mm.. Heavy showers that have more than 100 can occur.
-
-The department says Sri Lanka is expected to expect the existing rain condition islandwide due to the turmoil in the lower atmosphere.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Uva provinces.
-
-The Department of Meteorology is speaking at several places in the evening or night during the evening or night in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/256ad70d.json)
-
-[Extended Data](ext_articles/256ad70d.ext.json)
 
 ---

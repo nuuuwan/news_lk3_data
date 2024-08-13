@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 09:36:50**
+As of **2024-08-13 09:55:48**
 
 ## Newspaper Stats
 
-*Scraped **40,406** Articles*
+*Scraped **40,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,75 @@ bbccomsinhala | 377
 colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,446
-dailyftlk | 2,604
-adalk | 3,710
+dailyftlk | 2,605
+adalk | 3,711
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,130
+tamilmirrorlk | 5,131
 virakesarilk | 6,394
-adaderanasinhalalk | 6,873
+adaderanasinhalalk | 6,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,406 (100.0%) of 40,406 articles have been extended.
+40,406 (100.0%) of 40,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### කතුරකින් පහරකෑමට ලක්වූ හෙදියට වන්දි ගෙවන්නැයි විශේෂඥ වෛද්‍යවරයාට අධිකරණ නියෝගයක්
+
+*2024-08-13 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199877) · `si`
+
+කුරුණෑගල මහ රෝහලේ විශේෂඥ ශල්‍ය වෛද්‍යවරයකු විසින් දියවැඩියා රෝගියෙකුගේ පාදයේ මහපට ඇඟිල්ල කපා දැමීම සඳහා යොදාගත් ගත් කතුරකින් හෙදියකගේ හිසට පහර දීම තුළින් එම විශේෂඥ වෛද්‍යවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+
+ඒ අනුව අදාළ මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීමේ සිද්ධියට භාජනය වූ වාරියපොළ ප්‍රදේශයේ පදිංචි හෙදියට රුපියල් 50,000/-ක වන්දියක් සිය පෞද්ගලික මුදල්වලින් ගෙවිය ලෙස කුරුණෑගල මහ රෝහලේ සේවයේ නියුතු විශේෂඥ ශල්‍ය වෛද්‍යවරයාට ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝග කළේය.
+
+එම වන්දි මුදල මාස තුනක් ඇතුළත ගෙවා අවසන් කළ යුතු බවත්ට ඊට අමතරව වෛද්‍යවරයා විසින් හෙදියට රුපියල් 10,000ක වන්දි මුදලක් ගෙවිය යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයේ සඳහන් විය.
+
+හෙද නිලධාරිනියක විසින් ගොනුකොට ඇති පෙත්සමක තීන්දුව දෙමින් විජිත් මළල්ගොඩ, ගාමිණි අමරසේකර සහ අචල වෙංගප්පූලි යන විනිසුරුවරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ බහුතර විනිසුරවරුන්ගේ එකඟත්වය ඇතිව මෙම තීන්දුව ප්‍රකාශයට පත් කෙරිණි.
+
+...
+
+[Data](articles/2b5e5e47.json)
+
+---
+
+### Presidential candidate numbers swell to 32
+
+*2024-08-13 09:22:27* · [`dailyftlk`](https://www.ft.lk/news/Presidential-candidate-numbers-swell-to-32/56-765474) · `en`
+
+MP Roshan Ranasinghe submitted the required cash deposit at the Election Commission of Sri Lanka yesterday, ahead of the impending 15 August deadline for candidates intending to contest in the 21 September Presidential election.
+
+Four other candidates also made their deposits, including Socialist Party of Sri Lanka General Secretary Mahinda Dewage, Democratic United National Front’s Prasanga Suranjeewa Anoj de Silva, and United Democratic Alliance’s Abubakar Mohamed Infaas. Additionally, Tamil Common Candidate P. Ariyanethran also completed the necessary cash deposit.
+
+With the addition of these five candidates, the total number of Presidential candidates has now risen to 32, just three short of the 35 who contested in 2019.
+
+...
+
+[Data](articles/72f8d235.json)
+
+---
+
+### தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை
+
+*2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தின்-கொந்தளிப்பான-தன்மை/175-342072) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேற்கு மாகாணங்களின் சில பகுதிகளில் இன்று (13) 100 மி.மீ க்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக நாடு முழுவதும் தற்போது காணப்படும் மழை நிலை தொடரும் என எதிர்பார்க்கப்படுவதாக திணைக்களம் தெரிவித்துள்ளது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/0b11ed75.json)
+
+---
 
 ### Conflict in Sudan: 28 Po Kills
 
@@ -177,6 +229,22 @@ The representatives have been informed about the preparations in the Asian Devel
 [Data](articles/7a1f8019.json)
 
 [Extended Data](ext_articles/7a1f8019.ext.json)
+
+---
+
+### මිහින්ත‍ලේ නා හිමියෝ සජිත්ගේ පැත්තේ හිට ගනිති
+
+*2024-08-13 07:29:06* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්ත‍ලේ-නා-හිමියෝ-සජිත්ගේ-පැත්තේ-හිට-ගනිති/11-411334) · `si`
+
+මෙවර පැවැත්වෙන ජනාධිපතිවරණ ඡන්ද  විමසීමේදී රටේ ජනතාවගේ සහයෝගය සමගි ජන බල සන්ධානයේ ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතා වෙත ලබා දෙන්නයි ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවාහැංගුනවැවේ ධම්මරතන නායක හිමියන් පැවසූහ.
+
+නායක හිමියන් මේ බව කියා සිටියේ එම නායක හිමියන් විසින් පසුගියදා ජනාධිපති අපේක්ෂකවරුන් වෙත ඉදිරිපත් කරන ලද යෝජනාවලියට සජිත් ප්‍රේමදාස මහතාගේ එකඟතාවය පළවීමෙන් අනතුරුව එම එකගතා ලිපිය පිරිනැමීම සඳහා පැමිණි දූත පිරිස සමග ඊයේ (12දා) පැවති සාකච්ඡාවකදීය.
+
+ඒ සඳහා වූ එකඟතා ලිපිය නායක හිමියන් වෙත පිරිනැමීම සමගි ජන බලවේගය බුද්ධි මණ්ඩපයේ සාමාජිකයින් වන මහාචාර්ය ගාමිණී රත්නත් ශ්‍රී,  හා මහාචාර්ය දුනේෂ් ගුණතිලක යන මහතුන් ඇතුළු දූත පිරිස විසින් සිදු කලහ.
+
+...
+
+[Data](articles/84483eb9.json)
 
 ---
 
@@ -2205,89 +2273,5 @@ The Supreme Court has ruled that the United People's Power (SJB) resolution to r
 [Data](articles/790f8398.json)
 
 [Extended Data](ext_articles/790f8398.ext.json)
-
----
-
-### AIA Sri Lanka becomes first-ever Sri Lankan award winner at Hashtag Asia Awards
-
-*2024-08-12 15:01:00* · [`islandlk`](http://island.lk/aia-sri-lanka-becomes-first-ever-sri-lankan-award-winner-at-hashtag-asia-awards/) · `en`
-
-AIA Sri Lanka has achieved a historic feat at the prestigious Hashtag Asia Awards 2024. The company’s long standing lifesaving project the “Poson Safety Programme” campaign not only secured a coveted finalist spot in the highly competitive “Best Integrated Social Media Campaign” category, but also emerged victorious as the Silver winner in the “Best Social Media Campaign: Facebook” category. This remarkable accomplishment marks the first time a Sri Lankan brand has reached the finalist stage and secured an award at the Hashtag Asia Awards, solidifying AIA Sri Lanka’s position as a leader in innovative social media marketing within the region.
-
-...
-
-[Data](articles/70b0934c.json)
-
-[Extended Data](ext_articles/70b0934c.ext.json)
-
----
-
-### Approval of the daily wage of the estate worker
-
-*2024-08-12 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199854) · `si`
-
-Estate workers' daily wage increased after a poll, supported by key figures including the Minister of Water Supply, the Eastern Province Governor, and the Sri Lanka Labor Congress. The proposal was Rs. 1,700, fully endorsed by the court and other officials.
-
-🟩
-
-The decision to provide Rs.
-
-It is reported that a poll had been held on the wage increasing.
-
-Minister of Water Supply and Plantation Infrastructure Speaking
-
-Accordingly, estate workers have agreed to provide Rs.
-
-Meanwhile, the Eastern Province Governor and the Chairman of the Sri Lanka Labor Congress, the Chairman of the Eastern Province and the Chairman of the Sri Lanka Labor Congress, and the President of the Sri Lanka Labor Congress, the Chairman of the Sri Lanka Labor and the Chairman of the Sri Lanka Labor Congress, and former Minister Manusha Nanayakkara gave the fully supported by the court.
-
-Sandil Thondaman said that the Sri Lanka Labor Congress has proposed a salary of Rs. 1,700.
-
-◼️
-
-[Data](articles/bfc96439.json)
-
-[Extended Data](ext_articles/bfc96439.ext.json)
-
----
-
-### Election Commission informed of two vacant parliamentary seats
-
-*2024-08-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/101175/election-commission-informed-of-two-vacant-parliamentary-seats) · `en`
-
-The Acting General Secretary of the Parliament Chaminda Kularatne has informed the Chairman of the Election Commission in writing that two Parliamentary seats in the Ninth Parliament have become vacant from the 09 August 2024 due to the cancellation of the parliamentary seats of Manusha Nanayakkara and Harin Fernando.
-
-This has been informed in terms of the Sections 64(1) and 64(5) of the Parliamentary Elections Act No. 1 of 1981, the Parliamentary Communications Department said.
-
-On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Galle District Member of Parliament Manusha Nanayakkara and the National List Member of Parliament Harin Fernando from the party is legally valid. As a result, the two Parliamentary seats became vacant.
-
-...
-
-[Data](articles/7a9389b0.json)
-
-[Extended Data](ext_articles/7a9389b0.ext.json)
-
----
-
-### Rs.. Resolution to provide a salary increase of 1,700
-
-*2024-08-12 14:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரூ-1-700-சம்பள-உயர்வு-வழங்க-தீர்மானம்/150-342032) · `ta`
-
-A wage-setting council resolved to increase plantation workers' salaries to 1,700 rupees, a decision welcomed by the Eastern Provincial Governor and President Ranil Wickremesinghe. This follows a delay in payment and legal action, highlighting cooperation between government officials and the Ceylon Workers Congress.
-
-🟩
-
-The final settlement was reached in a wage -setting council on Monday (12), as plantation workers were delayed in paying a salary of 1700 rupees.. The Media Division of the Eastern Provincial Governor has announced that a resolution has been reached by a referendum.
-
-It has been announced that the salary issue has been taken to the High Court and it has been announced that the salary of Rs 1,700 can be revised by the court.
-
-Senthil Thondaman, the Governor of the Eastern Province and the President of the Eastern Province, has thanked President Ranil Wickremesinghe and former Minister Manusha Nanayakkara, who cooperated.
-
-Senthil Thondaman also said that the Ceylon Workers Congress has a full contribution to the Ceylon Workers Congress as a salary of 1,700 rupees for plantation workers.
-
-◼️
-
-[Data](articles/29a1d07d.json)
-
-[Extended Data](ext_articles/29a1d07d.ext.json)
 
 ---

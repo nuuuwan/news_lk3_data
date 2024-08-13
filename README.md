@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 21:21:10**
+As of **2024-08-13 21:36:41**
 
 ## Newspaper Stats
 
-*Scraped **40,555** Articles*
+*Scraped **40,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
-adalk | 3,729
+adalk | 3,730
 adaderanalk | 4,727
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,161
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,555 (100.0%) of 40,555 articles have been extended.
+40,555 (100.0%) of 40,556 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -361,6 +361,22 @@ Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to
 [Data](articles/b529e33e.json)
 
 [Extended Data](ext_articles/b529e33e.ext.json)
+
+---
+
+### එංගලන්ත සංචාරයේදී ශ්‍රී ලංකාවේ පිතිකරණ පුහුණුකරු ඉයන් බෙල්
+
+*2024-08-13 17:46:21* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-සංචාරයේදී-ශ්‍රී-ලංකාවේ-පිතිකරණ-පුහුණුකරු-ඉයන්-බෙල්/9-411355) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ එංගලන්ත සංචාරයට අදාළව 'පිතිකරණ පුහුණුකරු' ලෙස හිටපු එංගලන්ත පිතිකරු ඉයන් බෙල් පත් කිරීමට ශ්‍රී ලංකා ක්‍රිකට් ආයතනය කටයුතු කර තිබේ.
+
+ඉයන් බෙල් අගෝස්තු 16 වන දින කණ්ඩායම සමඟ සිය රාජකාරී ආරම්භ කිරීමට නියමිත අතර තරග සංචාරය අවසවන් වන තෙක් ඔහු කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස කටයුතු කරනු ඇත.
+
+මෙම සංචාරයට ටෙස්ට් තරඟ තුනක් ඇතුළත් වෙයි. ඉයන් බෙල් ටෙස්ට් තරග 118කට ක්‍රීඩා කර ලකුණු 7727ක් රැස්කර තිබේ. පිතිකරණ සාමාන්‍ය 42.69ක් වන අතර ඔහු ටෙස්ට් ශතක 22ක් රැස්කර තිබේ.
+
+◼️
+
+[Data](articles/1c03f442.json)
 
 ---
 
@@ -2211,31 +2227,5 @@ A 27-year-old resident of Kotiyalgala has been arrested in connection with the m
 [Data](articles/24c521af.json)
 
 [Extended Data](ext_articles/24c521af.ext.json)
-
----
-
-### Dissathi Vidyalaya
-
-*2024-08-13 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199881) · `si`
-
-In a tragic accident involving a three-wheeler and a passenger car, two residents of Karakattiya, Madurankuliya, were seriously injured and hospitalized. The incident occurred when the three-wheeler, en route to Katunayake airport, collided with a private passenger bus near Mundalama Hospital. The driver and another occupant of the three-wheeler were treated at Mundalama Hospital.
-
-🟩
-
-Three-wheeler injured in a three-wheeler in a passenger car parked on a three-wheeler injury was admitted to the Chilaw General Hospital.
-
-The victims were residents of Karakattiya area in Madurankuliya area.
-
-A three-wheeler carrying a three-wheeler carrying to Katunayake airport was crashed into the Katunayake Airport.
-
-Police say that the three-wheeler was trailing in front of the Mundalama Hospital to promote a private passenger bus which was traveled from Puttalam to Chilaw.
-
-The three-wheeler driver and another were admitted to the Mundalama Hospital with serious injuries.
-
-◼️
-
-[Data](articles/be35b603.json)
-
-[Extended Data](ext_articles/be35b603.ext.json)
 
 ---

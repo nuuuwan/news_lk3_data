@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 20:55:24**
+As of **2024-08-13 21:06:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,553 (100.0%) of 40,555 articles have been extended.
+40,555 (100.0%) of 40,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ජනපතිට සහාය දෙන්න ගිය ප්‍රේමලාල් නාමල් දැක ආපසු හැරෙයි
+### Premalal Namal visited the President
 
 *2024-08-13 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199902) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කළ රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතාට සහාය දැක්වීමට යළි තීරණය කර තිබුණි.
+State Minister Premalal Jayasekara, supporting President Ranil Wickremesinghe, decides to back his presidential candidacy for the Sri Lanka General Manager. He explains that while there's no issue with the President, party loyalty is crucial, even if the candidate isn't from the party. This decision comes after discussions with the President, with Jayasekara now representing the Sri Lanka General Front in Ratnapura District.
 
-ඔහු අද (13) මේ බව පැවසුවේ බත්තරමුල්ල නෙළුම් මාවත ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ මූලස්ථානයේ දී මාධ්‍යයට අදහස් දක්වමිනි.
+🟩
 
-"ජනාධිපතිතුමා එක්ක ප්‍රශ්ණයක් නැහැ. නමුත් අපිට පක්ෂය පාවා  දීලා යන්න පුළුවන් කමක් නැහැ. ගමේ ජනතාව කියන්නේ අපි ඉන්න පක්ෂයේම ඉන්න කියලා. පක්ෂයෙන් අපේක්ෂකයෙක් දානවා කියලා හරියටම තිබුණේ නැති නිසා ජනාධිපතිතුමාට සහාය දෙනවා කියලා හිටියා. නමුත් පක්ෂයෙන් අපේක්ෂකයෙක් දාපු නිසා අපි අනිවාර්යයෙන්ම පක්ෂයත් එක්ක කටයුතු කරන්න බැඳිලා ඉන්නවා."
+State Minister Premalal Jayasekara who supported President Ranil Wickremesinghe has decided to support the presidential candidate of the Sri Lanka General Manager.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරමින් රත්නපුර දිස්ත්‍රික්කයෙන් තේරී පත්වූ රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා පසුගිය 03 වනදා රත්නපුරයේ පැවති හමුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබුණි.
+He was speaking at the media headquarters at Nelum Mawatha, Battaramulla today (13).
+
+"There is no problem with the President. But it is okay we can betray the party. The people of the village are saying that we stay in the party. There was exactly why it was not exactly a candidate from the party, he had told the President. But we are obligated to deal with the party because a candidate is candidate. "
+
+Speaking to President Ranil Wickremesinghe has decided to support President Ranil Wickremesinghe at Ratnapura District representing the Sri Lanka General Front.
 
 ◼️
 
 [Data](articles/4ca1d420.json)
+
+[Extended Data](ext_articles/4ca1d420.ext.json)
 
 ---
 
@@ -254,21 +260,27 @@ The girl was arrested by the Principal and a teacher and two teachers at the sch
 
 ---
 
-### තවත් වසර පහක් රනිල්ට දුන්නොත් රට නූතන දේශයක් වේවි
+### If given another five years to Ranil, the country will be a modern land
 
 *2024-08-13 18:18:47* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-පහක්-රනිල්ට-දුන්නොත්-රට-නූතන-දේශයක්-වේවි/11-411357) · `si`
 
-සමගි ජන බලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය රාජිත සේනාරත්න මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඉදිරි ජනාධිපතිවරණයේදී සිය සහය ලබාදෙන බව අද (13දා) දැනුම් දුන්නේය. ගංඟාරාම විහාරස්ථ සීමාමාලකයේ දී ඔහු මේ බව ප්‍රකාශයට පත් කළේය.
+Dr. Rajitha Senaratne predicts that under President Ranil Wickremesinghe's leadership, Sri Lanka could transform into a modern nation within five years. This optimistic outlook was shared during a convention at the Gangarama Vihara, where both leaders emphasized their commitment to making significant changes for the betterment of the country.
 
-ජනාධිපති  රනිල් වික්‍රමසිංහ සහ රාජිත සේනාරත්න මහත්වරුන් අතර " රාජිතගේ තීරණය" සම්මුතියට ද මෙහිදී අත්සන් කෙරිණි.
+🟩
 
-මෙහිදී අදහස් දක්වමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසූයේ රාජිත සේනාරත්න මහතා ද තමා මෙන්ම රැඩිකල් තීරණ ගැනීමට ඉදිරිපත් වන හෙයින් තමා සමග එක්වීමට තීරණය කළ බවයි. ජනතාව බලාපොරොත්තුව වන පවතින දේශපාලන ක්‍රමවේදයේ වෙනස කළ යුතු බව ද හෙතෙම කීවේය.
+Kalutara District MP Dr. Rajitha Senaratne, Kalutara District MP Dr. Rajitha Senaratne, informed President Ranil Wickremesinghe meeting President Ranil Wickremesinghe.. He made this statement at the Gangarama Vihara.
 
-මෙහිදී අදහස් දැක්වූ රාජිත සේනාරත්න මහතා පැවසූයේ රනිල්ට තව වසර පහක් දුන්නොත් ලංකාව ලෝකයේ නූතන දේශයක් බවට පත්වන බවට කිසිම සැකයක් නැති බවයි.
+President Ranil Wickremesinghe and Rajitha Senaratne Convention was signed in the event.
+
+President Ranil Wickremesinghe said he had decided to join himself as Rajitha Senaratne is on behalf of him, as Rajitha Senaratne is on behalf of him as well as radical decisions. He also said that the difference between the people who hope should be made.
+
+Speaking at the meeting, Rajitha Senaratne said that if he would give Ranil five more years, there is no doubt that Sri Lanka would become a modern land in the world.
 
 ◼️
 
 [Data](articles/ee7b4f51.json)
+
+[Extended Data](ext_articles/ee7b4f51.ext.json)
 
 ---
 

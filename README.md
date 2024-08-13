@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 14:08:19**
+As of **2024-08-13 14:21:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,480 (100.0%) of 40,482 articles have been extended.
+40,482 (100.0%) of 40,482 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,15 +234,21 @@ The police announced that a special traffic plan is being implemented from 8 am 
 
 ---
 
-### ස්ටාර්ලින්ක් අන්තර්ජාල සේවාවට ලංකාවේ අවසර
+### Starlink internet service in Sri Lanka
 
 *2024-08-13 12:56:32* · [`adalk`](https://www.ada.lk/technology/ස්ටාර්ලින්ක්-අන්තර්ජාල-සේවාවට-ලංකාවේ-අවසර/5-411346) · `si`
 
-ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයෙක් වන ඉලෝන් මස්ක් මහතාට අයත් චන්ද්‍රිකා තාක්ෂණ අන්තර්ජාල සේවාව වන ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව ලංකාව තුළ ක්‍රියාත්මක කිරිමට එම සමාගමට අවශ්‍ය බලපත්‍රය ශ්‍රි ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව විසින් නිකුත් කර තිබේ. ඒ අනුව ඊයේ මධ්‍යම රාත්‍රියේ සිට බලපාන පරිදි මෙම අවසරය ලබාදුන් බවද කොමිෂන් සභාව නිවේදනය කරයි.
+Elon Musk's Starlink internet service has received approval from Sri Lanka's Telecommunications Commission to operate in the country, marking its expansion into another region.
+
+🟩
+
+The world's leading businessman is the Satellite Technology Internet Service of the world, Lellon Musk Internet Service, the Telecommunications Commission of Telecommunication Issue to implement the company in Sri Lanka.. Accordingly, the Commission announced that this permission has been granted since midnight yesterday.
 
 ◼️
 
 [Data](articles/e539a050.json)
+
+[Extended Data](ext_articles/e539a050.ext.json)
 
 ---
 
@@ -1943,6 +1949,8 @@ Minister Prasanna Ranatunga, Parliamentarian Vajira Abeywardena and Senior Advis
 ...
 
 [Data](articles/84b4d85d.json)
+
+[Extended Data](ext_articles/84b4d85d.ext.json)
 
 ---
 

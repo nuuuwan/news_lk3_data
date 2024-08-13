@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 14:21:09**
+As of **2024-08-13 14:36:32**
 
 ## Newspaper Stats
 
-*Scraped **40,482** Articles*
+*Scraped **40,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,138 @@ newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 385
 islandlk | 2,342
-economynextcom | 2,451
+economynextcom | 2,453
 dailyftlk | 2,605
 adalk | 3,719
 adaderanalk | 4,716
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,152
-virakesarilk | 6,405
+tamilmirrorlk | 5,154
+virakesarilk | 6,413
 adaderanasinhalalk | 6,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,482 (100.0%) of 40,482 articles have been extended.
+40,482 (100.0%) of 40,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 3 தமிழ் எம்.பிக்கள் சஜித்துடன் சந்திப்பு
+
+*2024-08-13 14:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-தமிழ்-எம்-பிக்கள்-சஜித்துடன்-சந்திப்பு/175-342102) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்களான தமிழ் ஈழ விடுதலை இயக்கத்தின் தலைவர் செல்வம் அடைக்கலநாதன்,செயலாளர் நாயகம் கோவிந்தன் கருணாகரம், ஜனநாயக மக்கள் விடுதலை முன்னணியின் தலைவர் தர்மலிங்கம் சித்தார்த்தன் ஆகியோர். ஜனாதிபதி வேட்பாளரும் எதிர்க்கட்சித் தலைவருமான சஜித் ராஜபக்ஷவை, சந்தித்து பேச்சுவார்த்தை நடத்தியுள்ளனர்.
+
+ஜனாதிபதி வேட்பாளரும் எதிர்க் கட்சித் தலைவருமான சஜித் பிரேமதாச அவர்களின் அழைப்பை ஏற்று,   எதிர்க்கட்சி  அலுலகத்தில் இந்த சந்திப்பு, செவ்வாய்க்கிழமை (13) நடைபெற்றது.
+
+◼️
+
+[Data](articles/9c9e08c5.json)
+
+---
+
+### Sri Lanka seeks PPP to install solar panels on 300 railway stations: Transport minister
+
+*2024-08-13 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ppp-to-install-solar-panels-on-300-railway-stations-transport-minister-176568/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call for expressions of interest for public private partnerships to install solar panels on 300 railway stations around the island, Minister of Transport Bandula Gunawardena said.
+
+“Areas in the north and east especially, and also to the south in Hambanthota, receive a lot of sunlight. It would be advantageous for the Railways if we can make a profit with solar panels on the stations’ roofs,” Gunawardena told reporters.
+
+The cabinet approved his proposal to call for tenders for PPPs, he said. Previous expressions of interest will be disregarded and new ones will be called instead.
+
+State-run Sri Lanka Railways has been exploring new avenues to boost its revenue including leasing spaces above some stations located in strategic locations, streamlining illegal occupancy of its lands, and increasing transport of goods and parcels.
+
+The island nation’s more than a century old railway has yet to make breakeven in its operations.
+
+...
+
+[Data](articles/d3db6bd6.json)
+
+---
+
+### கிரீஸில் காட்டுத் தீ ; ஒருவர் பலி
+
+*2024-08-13 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190964) · `ta`
+
+கிரீஸ் நாட்டின் தலைநகர் ஏதென்ஸின் சுற்றுவட்டாரப் பகுதிகளில் பரவிய பாரிய காட்டுத் தீயில் சிக்கி ஒருவர் உயிரிழந்துள்ளார்.
+
+வடக்கு ஏதென்ஸில் உள்ள வ்ரிலிசியா நகரிலுள்ள கடையொன்றில் இருந்து காட்டுத் தீயில் எரிந்த நிலையில்  ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+
+ஏதென்ஸின் வடக்கே 35 கிலோ மீற்றர் (22 மைல்) தொலைவில் ஞாயிற்றுக்கிழமை பிற்பகலில் காட்டுத் தீ ஏற்பட்டுள்ளது.
+
+காட்டுத் தீ வேகமாக பரவி வருவதால் வீடுகள், வணிக நிறுவனங்கள் மற்றும் பாடசாலைகளுக்கு  தீயணைப்பு வீரர்கள் எச்சரிக்கை விடுத்ததை அடுத்து ஆயிரக்கணக்கான மக்கள் வெளியேற்றப்பட்டுள்ளனர்.
+
+700 க்கும் மேற்பட்ட தீயணைப்பு வீரர்கள், 199 தீயணைப்பு இயந்திரங்கள் மற்றும் 35 நீர்குண்டு வீச்சு விமானங்கள் தீயை அணைக்கும் நடவடிக்கையில் ஈடுபட்டுள்ளன.
+
+இரண்டு தீயணைப்பு வீரர்கள் தீக்காயங்களுக்குள்ளாகி சிகிச்சை பெற்றதாக தீயணைப்புத் துறையின் செய்தித் தொடர்பாளர் கர்னல் வசிலியோஸ் வத்ரகோஜியானிஸ் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/cc0c40f1.json)
+
+---
+
+### விமல் அணியின் எம்.பி ரணிலுடன் இணைந்தார்
+
+*2024-08-13 13:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-அணியின்-எம்-பி-ரணிலுடன்-இணைந்தார்/175-342100) · `ta`
+
+தேசிய சுதந்திர முன்னணியின் புத்தளம் மாவட்டத் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத் பிரியங்கர ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவைத் தெரிவிக்க ஒன்றிணைந்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்த  ஜகத் பிரியங்கர எதிர்வரும் ஜனாதிபதித் தேர்தலில் தமது ஆதரவை வழங்கவுள்ளதாக தெரிவித்தார்.
+
+தேசிய சுதந்திர முன்னணியின் தலைவர் பாராளுமன்ற உறுப்பினர் விமல் வீரவங்ச என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a29ec1c5.json)
+
+---
+
+### சஜித் பிரேமதாசவுக்கு மிஹிந்தலை மகா விகாரையின் விகாராதிபதி நிபந்தனைகளுடன் ஆதரவு
+
+*2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190979) · `ta`
+
+ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனைகளுடன் ஆதரவு வழங்குவதாக மிஹிந்தலை மகா விகாரையின் விகாராதிபதி கலாநிதி வலவாஹெங்குனுவெவே தம்மரதன தேரர் தெரிவித்துள்ளார்.
+
+“நான் எனது தீர்மானத்தை தெரிவித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு  ஆதரவளிக்குமாறு பொதுமக்களை கேட்டுக்கொள்கிறேன். இந்த தீர்மானம் அவர் பல வாக்குறுதிகளை நிறைவேற்றுவார் என்ற  பல நிபந்தனைகளுடன் எடுக்கப்பட்டுள்ளது. இந்த தலைவருக்கு அதிகாரத்தை கொடுத்து அவரை செயல்பட வைப்போம்’ என தம்மரதன தேரர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/69a20c92.json)
+
+---
+
+### வேதனத்தை முன்வைத்து வாக்குகள் சேகரிப்பது வங்குரோத்து அரசியலின் வெளிப்பாடு….!
+
+*2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190986) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசாங்கத்தில் கபினட் அமைச்சராகவும் ஒரு மாகாணத்துக்கு ஆளுநராகவும் இருந்து கொண்டு அதற்குரிய வரப்பிரசாதங்களை அனுபவிக்கும் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளர் மற்றும் தலைவருக்கு வேறு தெரிவுகள் நிச்சயமாக இருந்து விட முடியாது. ஆனால் அவர்கள் பிரதிநிதித்துவப்படுத்தும் மக்களுக்கு இந்த அரசாங்கத்தினால் என்ன கிடைத்தது என்பது தான் தேர்தல் காலத்தில் அவர்கள் முன் வைக்கப்படும் மிகப்பெரிய கேள்வி.
+
+◼️
+
+[Data](articles/5dd3216e.json)
+
+---
+
+### மட்டக்களப்பு தேற்றாத்தீவில் வாகன விபத்து : இருவர் படுகாயம்
+
+*2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190987) · `ta`
+
+மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட தேற்றாத்தீவு பிரதான வீதியில் நேற்று திங்கட்கிழமை (12) மாலை இடம்பெற்ற வாகன விபத்து இருவர் படுகாயமடைந்துள்ளனர்.
+
+களுவாஞ்சிக்குடி  நோக்கி பயணித்த இரு மோட்டார் வண்டிகளும், ஒன்றுடன் ஒன்று பின்பக்கமாக மோதியதில் விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும் , விபத்து தொடர்பான விசாரணையை களுவாஞ்சிகுடி பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/8539f425.json)
+
+---
 
 ### Election Complaints
 
@@ -90,6 +204,24 @@ Accordingly, he has said he will support the present President in the next presi
 
 ---
 
+### ஸ்டார்லிங் இணைய சேவைக்கு தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு அனுமதி
+
+*2024-08-13 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190988) · `ta`
+
+இலங்கையில் செயற்கைக்கோள் தொழில்நுட்பத்தைப் பயன்படுத்தி இணையச் சேவைகளை வழங்குவதற்காக ஸ்டார்லிங்க் தனியார் நிறுவனத்திற்கு   "தொலைத்தொடர்பு சேவை வழங்குநர்" அனுமதித் பத்திரத்தை வழங்க தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது.
+
+1991 ஆம் ஆண்டின் 25 ஆம் இலக்க இலங்கை தொலைத்தொடர்பு (திருத்தம்) சட்டத்தின் பிரிவு 17 (2) இன் கீழ் இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் (TRCSL) இந்த அனுமதிப் பத்திரம் வழங்கப்பட்டுள்ளதோடு 2024 ஆகஸ்ட் 12 ஆம் திகதி முதல் இந்த அனுமதி  நடைமுறைக்கு வருகிறது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் உலகப் புகழ்பெற்ற வர்த்தகர் எலான் மஸ்க்கிற்கும் இடையிலான சந்திப்பு அண்மையில் இந்தோனேசியாவில் நடைபெற்றது.  எலான் மஸ்க்கிற்குச் சொந்தமான ஸ்டார்லிங்க் வலையமைப்புடன் இலங்கையை இணைப்பதற்கான விண்ணப்ப செயல்முறையை விரைவுபடுத்துவது குறித்து இதன் போது கலந்துரையாடப்பட்டது.
+
+இதன் விளைவாக, செயற்கைக்கோள் தொழில்நுட்பத்தின் மூலம் இலங்கையில் இணைய வசதி சேவைகளை வழங்க ஸ்டார்லிங்க் (Starlink) நிறுவனத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/affa9004.json)
+
+---
+
 ### Allow to Starling
 
 *2024-08-13 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டார்லிங்க்குக்கு-அனுமதி/175-342099) · `ta`
@@ -133,6 +265,26 @@ Students have been invited at 8 am for the competitions, and the competitions ha
 [Data](articles/2b8e825e.json)
 
 [Extended Data](ext_articles/2b8e825e.ext.json)
+
+---
+
+### TRCSL grants licence to Elon Musk’s Starlink for satellite broadband services
+
+*2024-08-13 13:14:00* · [`economynextcom`](https://economynext.com/trcsl-grants-licence-to-elon-musks-starlink-for-satellite-broadband-services-176575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s telecommunication regulator has granted a telecommunications service provider license to a locally incorporated firm of Starlink satellite system founded by Elon Musk, billionaire head of SpaceX and Tesla, President Ranil Wickremesinghe’s office said.
+
+The island nation last month amended its Telecommunications Regulatory Commission (TRC) Act to accommodate the Starlink satellite system.
+
+“The TRCSL has granted a Telecommunications Service Provider License to STARLINK LANKA (PVT) LTD to provide Satellite Broadband Services in SL from August 12, 2024,” the President’s Media Division said in a statement.
+
+The island nation granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process.
+
+The move was initiated after President Wickremesinghe met Musk on the sidelines of the 10th World Water Forum in Indonesia three months ago.
+
+...
+
+[Data](articles/9b0a80be.json)
 
 ---
 
@@ -231,6 +383,18 @@ The police announced that a special traffic plan is being implemented from 8 am 
 [Data](articles/9ab28c34.json)
 
 [Extended Data](ext_articles/9ab28c34.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-13 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190982) · `ta`
+
+இன்று செவ்வாய்க்கிழமை  (ஆகஸ்ட் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.0812  ஆகவும் விற்பனை விலை ரூபா  304.2751 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c60f8068.json)
 
 ---
 
@@ -338,6 +502,28 @@ It has also been announced that 7 per cent for household units, including Samurd
 
 ---
 
+### ஈரானின் பதிலடி இவ்வாரம் - வெள்ளை மாளிகை
+
+*2024-08-13 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190983) · `ta`
+
+இஸ்ரேல் மீது ஈரானும் அதன் ஆதரவு குழுக்களும் இ;வ்வாரம் தாக்குதலை மேற்கொள்ளலாம் என வெள்ளை மாளிகை தெரிவித்துள்ளது.
+
+குறிப்பிடத்தக்க தாக்குதல்களிற்காக நாங்கள் தயாராகயிருக்கவேண்டும் என வெள்ளை மாளிகையின் தேசிய பாதுகாப்பு ஆலோசகர் ஜோன் கேர்பி தெரிவித்துள்ளார்.
+
+இதன் காரணமாகவே நாங்கள் கடந்த சில நாட்களாக பிராந்தியத்தில் எனது பிரசன்னத்தை வலுப்படுத்திவருகின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+ஹமாஸ் தலைவர் ஹெஸ்புல்லா அமைப்பின் தளபதி ஆகியோர் படுகொலை செய்யப்பட்டமைக்கு  பதிலடி கொடுக்கும் விதத்தில் ஈரான் எவ்வேளையிலும் இஸ்ரேல் மீது தாக்குதலை மேற்கொள்ளக்கூடும் என்ற அச்சம் கடந்த சில வாரங்களாக மத்திய கிழக்கில் காண்ப்படுகின்றமை  குறிப்பிடத்தக்கது.
+
+ஈரான் அடுத்த சில நாட்களில் தாக்குதல்களை மேற்கொள்ளக்கூடும் என தகவல்கள் வெளியாகியுள்ளதை தொடர்ந்து மத்திய கிழக்கிற்குஏவுகணைகளை செலுத்தக்கூடிய நீர்மூழ்கிகளை அனுப்புமாறு அமெரிக்க இராஜாங்க செயலாளர் அன்டனி பிளிங்கென் உத்தரவிட்டுள்ளார்.
+
+எவ்35 போர்விமானங்களுடன் கூடிய யுஎஸ்எஸ் ஏபிரஹாம் லி;ங்கனை மத்திய கிழக்கிற்கு வேகமாக செல்லுமாறும் அன்டனி பிளிங்கென் உத்தரவிட்டுள்ளார்
+
+...
+
+[Data](articles/0a50046e.json)
+
+---
+
 ### Does the election expenditure exceed allocation?
 
 *2024-08-13 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-ஒதுக்கீட்டைத்-தாண்டுமா/175-342092) · `ta`
@@ -373,6 +559,8 @@ ECONOMYNEXT – Sri Lanka’s cabinet has given approval to cut household water 
 “Low income domestic users will get a reduction of about 10 percent,” Gunawardena told reporters.
 
 “For the other categories it will be a reduction of about 5.9 percent and 6 percent.”
+
+Domestic users will see water tariffs reduced by 7 percent, government hospitals reduced by 4.5 percent, and schools and places of religious worship by 6.3 percent.
 
 Water Supply and Drainage Board has seen costs reduce due to recent reductions in electricity and fuel prices, he said. Chemicals costs and interest rate drops were also considered.
 
@@ -425,6 +613,18 @@ In 1999, Jin made the debut in Delhi. “On the weekends, Lee came to our home a
 [Data](articles/66f5727d.json)
 
 [Extended Data](ext_articles/66f5727d.ext.json)
+
+---
+
+### 3 ஆயிரம் மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்ய அமைச்சரவை அனுமதி !
+
+*2024-08-13 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190981) · `ta`
+
+எதிர்வரும் மூன்று மாதங்களில் 3,000 மெற்றிக் தொன் இஞ்சியை இறக்குமதி செய்வதற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a0092325.json)
 
 ---
 
@@ -511,6 +711,32 @@ The above Cabinet proposal was presented based on the recommendations of the rep
 [Data](articles/80ef1a71.json)
 
 [Extended Data](ext_articles/80ef1a71.ext.json)
+
+---
+
+### Russia's 1000 squaremm of Ukrainian soldiers - 28 villages were seized.
+
+*2024-08-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190953) · `ta`
+
+In a significant turn during the ongoing conflict, Ukrainian forces have reclaimed control over 28 villages previously held by Russian troops, marking the first time in two-and-a-half years that Ukrainian territory has been retaken. This development comes amidst ongoing military actions in the Garks region, with Ukrainian President Volodymyr Zelensky stating that Russia's aggression has escalated, affecting neighboring countries. In response, Russian President Vladimir Putin has vowed to expel Ukrainian soldiers from Russian soil, indicating a potential escalation in tensions. The situation remains dire, with reports of civilian casualties adding to the urgency of the conflict.
+
+🟩
+
+Ukrainian soldiers have been under the control of Ukraine for the first time in the two -and -a -half -year war, with Ukrainian soldiers under their control, as Ukrainian soldiers have been attacked into Russia.
+
+He said that Ukrainian soldiers are continuing their military action in the Garks region.
+
+Ukrainian President Wolidemir Jelensky says that Russia's war has been taken to the door of others.
+
+Russian President Vladimir Putin, who has described Ukraine's attack, has said that he is going to kick Ukraine soldiers from his country.
+
+28 villages have fallen to Ukraine soldiers, 12 civilians have been killed and the situation is worse, a locals said.
+
+◼️
+
+[Data](articles/0afca07a.json)
+
+[Extended Data](ext_articles/0afca07a.ext.json)
 
 ---
 
@@ -1832,32 +2058,6 @@ The deposit of the presidential election is due to be completed tomorrow (14).
 
 ---
 
-### Russia's 1000 squaremm of Ukrainian soldiers - 28 villages were seized.
-
-*2024-08-13 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/190953) · `ta`
-
-In a significant turn during the ongoing conflict, Ukrainian forces have reclaimed control over 28 villages previously held by Russian troops, marking the first time in two-and-a-half years that Ukrainian territory has been retaken. This development comes amidst ongoing military actions in the Garks region, with Ukrainian President Volodymyr Zelensky stating that Russia's aggression has escalated, affecting neighboring countries. In response, Russian President Vladimir Putin has vowed to expel Ukrainian soldiers from Russian soil, indicating a potential escalation in tensions. The situation remains dire, with reports of civilian casualties adding to the urgency of the conflict.
-
-🟩
-
-Ukrainian soldiers have been under the control of Ukraine for the first time in the two -and -a -half -year war, with Ukrainian soldiers under their control, as Ukrainian soldiers have been attacked into Russia.
-
-He said that Ukrainian soldiers are continuing their military action in the Garks region.
-
-Ukrainian President Wolidemir Jelensky says that Russia's war has been taken to the door of others.
-
-Russian President Vladimir Putin, who has described Ukraine's attack, has said that he is going to kick Ukraine soldiers from his country.
-
-28 villages have fallen to Ukraine soldiers, 12 civilians have been killed and the situation is worse, a locals said.
-
-◼️
-
-[Data](articles/0afca07a.json)
-
-[Extended Data](ext_articles/0afca07a.ext.json)
-
----
-
 ### Showers over 100 mm
 
 *2024-08-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199867) · `si`
@@ -1999,251 +2199,5 @@ The United People's Alliance (UPFA) event was held at the Sugathadasa Indoor Sta
 [Data](articles/27a178e4.json)
 
 [Extended Data](ext_articles/27a178e4.ext.json)
-
----
-
-### Vadivel Suresh promises to recover the case of plantation assistant teacher appointment
-
-*2024-08-13 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/190949) · `ta`
-
-Vadivel Suresh, a Parliamentarian, announced that President Ranil Wickremesinghe has pledged to revive the case of plantation assistant teachers and allocate 7 perch land as initially planned. This promise came after discussions and negotiations aimed at improving conditions for plantation workers, including a resolution to increase their daily wage to 1700 rupees. The President also committed to addressing the suspension of plantation assistant teachers' cases and promised to consult with Faizer Mustafa regarding the matter. The Sri Lanka National Plantation Workers Union expressed its support for President Wickremesinghe's efforts to resolve plantation issues.
-
-🟩
-
-President Ranil Wickremesinghe has promised to take steps to recover the petition filed by the Plantation Assistant Teacher.
-
-Parliamentarian Vadivel Suresh said that the president had urged the president to provide 7 perch land as mentioned in the government of goodwill before making plantations.
-
-He further stated at a press conference held on Monday (12) at President Ranil Wickremesinghe's political office located on Loris Road, Bambalapitiya.
-
-After several rounds of negotiations and court proceedings, a resolution has been passed to pay a daily salary of 1700 rupees to plantation workers.. We thank President Ranil Wickremesinghe and former Labor Minister Manusha Nanayakkara.
-
-...
-
-[Data](articles/00f5c286.json)
-
-[Extended Data](ext_articles/00f5c286.ext.json)
-
----
-
-### TISL launches Presidential Election 2024 watchdog
-
-*2024-08-13 02:16:45* · [`dailyftlk`](https://www.ft.lk/news/TISL-launches-Presidential-Election-2024-watchdog/56-765467) · `en`
-
-The Transparency International Sri Lanka (TISL) has officially launched its 2024 Presidential Election observation program, focusing on the critical issue of public resource misuse.
-
-TISL yesterday outlined the organisation’s extensive efforts to ensure a transparent and fair electoral process, essential for maintaining democratic integrity.
-
-TISL said it has been at the forefront of election monitoring for over two decades, addressing the misuse of public resources — a persistent issue in Sri Lankan elections. Historical data reveals that during the 2019 Presidential election, TISL documented over 100 instances of misuse, including the unauthorised use of Government vehicles and state resources. This misuse led to significant distortions in the electoral playing field and eroded public trust in the process.
-
-...
-
-[Data](articles/16cd4837.json)
-
-[Extended Data](ext_articles/16cd4837.ext.json)
-
----
-
-### Dengue cases in 2024 surpass 34,000, with 16 deaths
-
-*2024-08-13 02:09:17* · [`dailyftlk`](https://www.ft.lk/news/Dengue-cases-in-2024-surpass-34-000-with-16-deaths/56-765466) · `en`
-
-The number of dengue cases reported in 2024 has exceeded 34,000, with 16 deaths attributed to the virus, according to the Epidemiology Unit.
-
-As of 11 August, a total of 34,053 dengue cases have been recorded, with the Colombo district reporting the highest number of cases at 8,201.
-
-The Western Province has seen the highest concentration of cases province-wise, with a total of 13,822 infections reported.
-
-The month of August alone has logged 1,308 new cases, highlighting the ongoing public health challenge posed by the dengue virus.
-
-In response to the rising number of infections, health officials are urging the public to take proactive measures to combat the spread of the disease.
-
-Authorities recommend keeping surroundings clean and eliminating potential mosquito breeding sites, such as stagnant water, to prevent further outbreaks.
-
-...
-
-[Data](articles/61321000.json)
-
-[Extended Data](ext_articles/61321000.ext.json)
-
----
-
-### Australia begins Indo-Pacific Endeavour in Sri Lanka
-
-*2024-08-13 02:08:48* · [`dailyftlk`](https://www.ft.lk/news/Australia-begins-Indo-Pacific-Endeavour-in-Sri-Lanka/56-765465) · `en`
-
-Australia’s flagship regional engagement activity, Indo-Pacific Endeavour (IPE), commences this week in Sri Lanka with a number of engagements on bilateral priorities.
-
-IPE supports the Australian Government’s focus on deepening our diplomatic and defence partnerships across Southeast Asia and the Northeast Indian Ocean, and reinforces Australia’s commitment to a peaceful, stable and prosperous region, founded on openness, respect for sovereignty and adherence to agreed rules and norms.
-
-The first engagement of IPE 2024 will be a law of the sea workshop focused on maritime surveillance and involving members of the Sri Lanka Air Force Maritime Squadron. Participants will engage in scenario-based training addressing regional security issues such as drug smuggling and illegal fishing.
-
-Other IPE 2024 activities in Sri Lanka include a combined diving activity that will see members of the Royal Australian Navy and Sri Lankan Navy exchange knowledge and skills.
-
-...
-
-[Data](articles/8853350a.json)
-
-[Extended Data](ext_articles/8853350a.ext.json)
-
----
-
-### Two arrested with 156 kg of cannabis in Jaffna
-
-*2024-08-13 01:58:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-156-கிலோ-கஞ்சாவுடன்-இருவர்-கைது/175-342069) · `ta`
-
-In Jaffna, police arrested two individuals, aged 39 and 44, from Jaffna and Kilinochchi, seizing over 156 kg of Kerala ganja. The arrest was part of an operation led by the Mannar Police Drug Eradication Unit, acting on intelligence about a significant amount of money transported from India.
-
-🟩
-
-Police have arrested two suspects with more than 156 kg of Kerala ganja in Ariyalai, Jaffna.
-
-The Mannar Police Drug Eradication Unit, according to confidential information received by the Army Intelligence Unit, a large sum of money brought from India. They seized the Ariyal area.
-
-Two men, aged 39 and 44, from Jaffna and Kilinochchi were arrested on charges of being held.
-
-More than 156 kilograms of Kerala cannabis seized from them. (A)
-
-◼️
-
-[Data](articles/debbbc29.json)
-
-[Extended Data](ext_articles/debbbc29.ext.json)
-
----
-
-### Call for a democratic struggle
-
-*2024-08-13 01:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகப்-போராட்டத்துக்கு-அழைப்பு/175-342068) · `ta`
-
-A democratic struggle is called against injustice, with a protest planned at Mannar District General Hospital at 9 am, organized by the Mannar District Public Organizations Union.
-
-🟩
-
-Sindhuja, who died at the Mannar District General Hospital, will take justice in front of the hospital at 9 am.
-
-The protest will be held in the arrangement of the Mannar District Public Organizations Union. (A)
-
-◼️
-
-[Data](articles/84db84c6.json)
-
-[Extended Data](ext_articles/84db84c6.ext.json)
-
----
-
-### CA Sri Lanka facilitates deep dive into IMF tax reforms and implications
-
-*2024-08-13 01:50:06* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-facilitates-deep-dive-into-IMF-tax-reforms-and-implications/34-765460) · `en`
-
-To facilitate a deeper understanding and gather diverse perspectives of International Monetary Fund (IMF) tax reforms, the CA Sri Lanka recently held a discussion forum.
-
-The IMF issued a comprehensive report following its second review of Sri Lanka’s Extended Fund Facility on 12 June 2024, which sparked lively debates among economists, policymakers and the general public, especially with regard to the revenue proposals.
-
-BDO Partners Partner – Tax Services Dinusha Rajapaksha presented the key revenue and administrative proposals recommended by the IMF, following which a panel discussion was held. The session, moderated by Saman Srilal, featured insights from key resource persons in the field of taxation.
-
-Resource persons included; Gajma & Co. Partner N.R. Gajendran, Finance Ministry Tax Advisor Thanuja Perera, Verité Research Lead Economist Raj Prabu Rajakulendran and Institute of Valuers of Sri Lanka Former General Secretary and OPA Vice President G.J. Sumanasena.
-
-...
-
-[Data](articles/7a4c9d82.json)
-
-[Extended Data](ext_articles/7a4c9d82.ext.json)
-
----
-
-### OneWorld Duty Free team meets BOI, Port City officials
-
-*2024-08-13 01:49:41* · [`dailyftlk`](https://www.ft.lk/business/OneWorld-Duty-Free-team-meets-BOI-Port-City-officials/34-765459) · `en`
-
-A top level delegation led by OneWorld Duty Free CEO/Founder Keira Zhang met with the Board of Investment Chairman Dinesh Weerakkody and officials of the BOI and Port City Colombo last week to discuss investment opportunities in Sri Lanka and the duty free operation at Port City Colombo
-
-◼️
-
-[Data](articles/d46e3211.json)
-
-[Extended Data](ext_articles/d46e3211.ext.json)
-
----
-
-### Fcode Labs offers free QA masterclass for startup founders
-
-*2024-08-13 01:48:10* · [`dailyftlk`](https://www.ft.lk/business/Fcode-Labs-offers-free-QA-masterclass-for-startup-founders/34-765458) · `en`
-
-Fcode Labs, a leading Health-Tech company, has announced a free online QA masterclass designed specifically for startup founders.
-
-The masterclass will delve into the critical role of quality engineering in the early stages of product development and explore the benefits of a shift-left approach in an agile environment.
-
-Scheduled for 14 August 6 p.m. CET, the masterclass will feature Udara Sembukuttiarachchi, a seasoned expert in the field of quality assurance. Attendees will gain valuable insights into how to implement effective quality control strategies from the outset, leading to faster time-to-market and improved product quality.
-
-Faster Time-to-Market: Startups can accelerate product launch by promptly identifying and fixing issues by including quality assurance (QA) early in the development process.
-
-Better Product Quality: Prompt fault identification and avoidance results in a better product, which raises customer happiness and retention.
-
-...
-
-[Data](articles/a33cda9d.json)
-
-[Extended Data](ext_articles/a33cda9d.ext.json)
-
----
-
-### Devaka Cooray and Hiran Cabraal join Jetwing Symphony Board
-
-*2024-08-13 01:46:50* · [`dailyftlk`](https://www.ft.lk/business/Devaka-Cooray-and-Hiran-Cabraal-join-Jetwing-Symphony-Board/34-765457) · `en`
-
-Jetwing Symphony PLC has announced the appointment of Devaka Cooray and Hiran Cabraal to its Board as Non-Executive Independent Directors.
-
-Cooray is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka and the Chartered Institute of Management Accountants of the United Kingdom.
-
-Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML Heavy Equipment Ltd., Unimo Enterprises Ltd., Dutch Lanka Trailer Manufacturers Ltd. and Dutch Lanka Engineering Ltd. He is also the Managing Director of Management Systems Ltd. He serves as Independent Director of Hatton National Bank PLC, JAT Holdings PLC, and George Steuart and Company.
-
-...
-
-[Data](articles/051f6d34.json)
-
-[Extended Data](ext_articles/051f6d34.ext.json)
-
----
-
-### Best Team To Face The Future
-
-*2024-08-13 01:30:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/best-team-to-face-the-future/) · `en`
-
-With little over a month before presidential elections are due, the speculations about elections not being held have come to a halt which is a testament to the democratic spirit in the country. The election commission has invited Commonwealth and EU election monitors to observe the elections. Political parties and parliamentarians alike are publicly committing themselves to one candidate or to the other. Assertions such as the importance of implementing the IMF agreement rather than holding elections are no longer to be heard. On the contrary, the election campaign is in full swing and includes promises such as to implement the IMF agreement after the elections with amendments.
-
-...
-
-[Data](articles/97793861.json)
-
-[Extended Data](ext_articles/97793861.ext.json)
-
----
-
-### Accusing of bribery
-
-*2024-08-13 01:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்குவதாக-குற்றச்சாட்டு/175-342065) · `ta`
-
-Election monitors report widespread bribery accusations ahead of the presidential vote, with complaints of power abuse and distribution of goods like plastic plates, poultry, and school supplies. The People's Activities Movement has logged 84 complaints, while the Democratic Reform and Election Monitoring Organization reports 44 violations of election laws. Additionally, there have been nine complaints about violence and 320 activities violating election laws, with 103 reported at the District Election Complaint Management Center and 214 at the National level.
-
-🟩
-
-Election monitors accuse some political representatives of bribing some people to get votes.
-
-The People's Activities Movement for the Independent and fair election (February) said that 84 complaints have been reported so far regarding the presidential election.
-
-Most of them are allegations of abusing power and assets, said Rohana Hettiarachchi, Executive Officer of the February.
-
-He pointed out that plastic rays, poultry and school equipment are being provided to the people during this period of economic crisis.
-
-Rohana Hettiarachchi has urged that these activities are being carried out across the country with the aim of the election and that the people should be vigilant.
-
-Meanwhile, the Executive Director of the Democratic Reform and Election Monitoring Organization, Manjula Gajanayake has stated that 44 complaints have been received so far in violation of election laws.
-
-...
-
-[Data](articles/86fd3270.json)
-
-[Extended Data](ext_articles/86fd3270.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 22:09:49**
+As of **2024-08-13 22:21:55**
 
 ## Newspaper Stats
 
-*Scraped **40,558** Articles*
+*Scraped **40,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,730
-adaderanalk | 4,727
+adaderanalk | 4,728
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,162
 virakesarilk | 6,422
@@ -26,43 +26,69 @@ adaderanasinhalalk | 6,899
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,556 (100.0%) of 40,558 articles have been extended.
+40,558 (100.0%) of 40,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### அரசாங்க அச்சகத்தின் பாதுகாப்பு அதிகரிப்பு
+### Two dead after inhaling toxic chemical fumes in Malabe
+
+*2024-08-13 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101214/two-dead-after-inhaling-toxic-chemical-fumes-in-malabe) · `en`
+
+Two persons have reportedly died after inhaling toxic fumes at a residence in the Kahanthota area in Malabe.
+
+Police said that the deceased, aged 45 and 63  years, had died due to inhaling toxic fumes from certain chemicals they were trying to mix.
+
+◼️
+
+[Data](articles/0b023fb6.json)
+
+---
+
+### Increase in security of the Government Press
 
 *2024-08-13 21:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அச்சகத்தின்-பாதுகாப்பு-அதிகரிப்பு/175-342114) · `ta`
 
-அரசாங்க அச்சகத்தின் பாதுகாப்பிற்காக நாளை (14) முதல் பொலிஸ் சோதனைச் சாவடி அமைக்கப்படவுள்ளதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+From tomorrow, a police checkpoint will protect the Government Press, ensuring the safety of workers printing ballots for the September 21 presidential election. The Borella Police will man the station, with 60-70 officers, including a Chief Police Inspector, present due to State Media Officer Chandrani Liyanage's request. Additionally, 10 Special Task Force officers will be on duty throughout the election period.
 
-செப்டெம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கான வாக்குச் சீட்டுகள் அச்சிடப்படும் பணிகள் நாளை முதல் ஆரம்பிக்கப்படவுள்ளன.
+🟩
 
-அரச ஊடகப் பொறுப்பதிகாரி சந்திராணி லியனகேவின் எழுத்து மூலமான வேண்டுகோளுக்கு இணங்க, பொரளை பொலிஸாரின் கீழ் இந்த பொலிஸ் நிலையம் ஸ்தாபிக்கப்படவுள்ளதுடன், பிரதம பொலிஸ் பரிசோதகர் உட்பட 60 – 70 பொலிஸ் உத்தியோகத்தர்கள் இதற்காக கடமையில் ஈடுபடுத்தப்படவுள்ளனர்.
+A high -ranking police official said that a police checkpoint will be set up from tomorrow (14) for the protection of the Government Press.
 
-மேலும், ஜனாதிபதி தேர்தல் முடியும் வரையில் 10 பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கடமையில் ஈடுபடுத்தப்பட உள்ளதாக அறிவிக்கப்பட்டுள்ளது. R
+Work on printed ballot for the presidential election on September 21 will commence from tomorrow.
+
+The police station will be established under the Borella Police and 60 - 70 police officers, including the Chief Police Inspector, will be on duty at the written request of the State Media Officer Chandrani Liyanage.
+
+In addition, 10 police Special Task Force officers are expected to be on duty until the presidential election is over.. Remble
 
 ◼️
 
 [Data](articles/41ef90a3.json)
 
+[Extended Data](ext_articles/41ef90a3.ext.json)
+
 ---
 
-### විෂ වායුවක් නිසා දෙදෙනෙක් මරුට
+### Two killed in poisonous gas
 
 *2024-08-13 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199903) · `si`
 
-මාලබේ කහන්තොට පාර ජයන්ති මාවතේ නිවසක් තුළ විෂ වායුවක් ආඝ්‍රාණ වීමෙන් පුද්ගලයන් දෙදෙනෙකු මියගොස් තිබේ.
+In Malabe, two individuals died from inhaling toxic gas released during a chemical mixing incident. They were rushed to Colombo National Hospital but succumbed to their injuries. The police confirmed their deaths at the scene.
 
-ඔවුන් දෙදෙනා යම්කිසි රසායන ද්‍රව්‍ය කිහිපයක් මිශ්‍ර කිරීමට යාමේදී මෙම විෂ වායුව ආඝ්‍රාණ වී ඇති අතර එහිදී ඇතිවූ හුස්ම ගැනීමේ අපහසුතාවය හේතුවෙන් කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබුණි.
+🟩
 
-පොලීසිය සඳහන් කළේ එම පුද්ගලයන් දෙදෙනා එහිදී මියගොස් තිබූ බවය.
+Two persons were killed by two people in a house in the house of Malabe Kentota road.
+
+The toxic gas is aligned when they are going to mix several chemicals and was admitted to the Colombo National Hospital due to the inconvenience caused by the breath.
+
+Police said that the two persons had died there.
 
 ◼️
 
 [Data](articles/dcc85f91.json)
+
+[Extended Data](ext_articles/dcc85f91.ext.json)
 
 ---
 
@@ -2205,27 +2231,5 @@ The executive committee member of the party is by Dharmasiri Lankapaleli.
 [Data](articles/dbe41f04.json)
 
 [Extended Data](ext_articles/dbe41f04.ext.json)
-
----
-
-### Liquid water on Mars?
-
-*2024-08-13 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199882) · `si`
-
-Scientists have confirmed the presence of liquid water on Mars, as reported by the NASA InSight lander. This discovery suggests the existence of heated water beneath the planet's surface, indicating potential geological activity and a more complex climate than previously thought.
-
-🟩
-
-Scientists reporting that there is a liquid watery of Mars has a liquid water.
-
-This has been confirmed by NASIGHT LANDER "by NASIGHT LANDER" to Mars.
-
-This is evidence of the heated water and the atmosphere of the planet and the steam of the atmosphere.
-
-◼️
-
-[Data](articles/63fcad1f.json)
-
-[Extended Data](ext_articles/63fcad1f.ext.json)
 
 ---

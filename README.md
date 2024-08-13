@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 21:55:49**
+As of **2024-08-13 22:09:49**
 
 ## Newspaper Stats
 
-*Scraped **40,556** Articles*
+*Scraped **40,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 2,605
 adalk | 3,730
 adaderanalk | 4,727
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,161
+tamilmirrorlk | 5,162
 virakesarilk | 6,422
-adaderanasinhalalk | 6,898
+adaderanasinhalalk | 6,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,556 (100.0%) of 40,556 articles have been extended.
+40,556 (100.0%) of 40,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### அரசாங்க அச்சகத்தின் பாதுகாப்பு அதிகரிப்பு
+
+*2024-08-13 21:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அச்சகத்தின்-பாதுகாப்பு-அதிகரிப்பு/175-342114) · `ta`
+
+அரசாங்க அச்சகத்தின் பாதுகாப்பிற்காக நாளை (14) முதல் பொலிஸ் சோதனைச் சாவடி அமைக்கப்படவுள்ளதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+செப்டெம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கான வாக்குச் சீட்டுகள் அச்சிடப்படும் பணிகள் நாளை முதல் ஆரம்பிக்கப்படவுள்ளன.
+
+அரச ஊடகப் பொறுப்பதிகாரி சந்திராணி லியனகேவின் எழுத்து மூலமான வேண்டுகோளுக்கு இணங்க, பொரளை பொலிஸாரின் கீழ் இந்த பொலிஸ் நிலையம் ஸ்தாபிக்கப்படவுள்ளதுடன், பிரதம பொலிஸ் பரிசோதகர் உட்பட 60 – 70 பொலிஸ் உத்தியோகத்தர்கள் இதற்காக கடமையில் ஈடுபடுத்தப்படவுள்ளனர்.
+
+மேலும், ஜனாதிபதி தேர்தல் முடியும் வரையில் 10 பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கடமையில் ஈடுபடுத்தப்பட உள்ளதாக அறிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/41ef90a3.json)
+
+---
+
+### විෂ වායුවක් නිසා දෙදෙනෙක් මරුට
+
+*2024-08-13 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199903) · `si`
+
+මාලබේ කහන්තොට පාර ජයන්ති මාවතේ නිවසක් තුළ විෂ වායුවක් ආඝ්‍රාණ වීමෙන් පුද්ගලයන් දෙදෙනෙකු මියගොස් තිබේ.
+
+ඔවුන් දෙදෙනා යම්කිසි රසායන ද්‍රව්‍ය කිහිපයක් මිශ්‍ර කිරීමට යාමේදී මෙම විෂ වායුව ආඝ්‍රාණ වී ඇති අතර එහිදී ඇතිවූ හුස්ම ගැනීමේ අපහසුතාවය හේතුවෙන් කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබුණි.
+
+පොලීසිය සඳහන් කළේ එම පුද්ගලයන් දෙදෙනා එහිදී මියගොස් තිබූ බවය.
+
+◼️
+
+[Data](articles/dcc85f91.json)
+
+---
 
 ### Premalal Namal visited the President
 
@@ -367,6 +401,10 @@ Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to
 ### Sri Lankan battrical coach Ian Bell, Sri Lanka's visit to England
 
 *2024-08-13 17:46:21* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-සංචාරයේදී-ශ්‍රී-ලංකාවේ-පිතිකරණ-පුහුණුකරු-ඉයන්-බෙල්/9-411355) · `si`
+
+Ian Bell, appointed as Sri Lanka's batting coach, will join the team in England on August 16 ahead of three Test matches. Known for scoring 7727 runs with a high of 118 and averaging 42.69, Bell has also notched 22 Test centuries.
+
+🟩
 
 Sri Lanka Cricket has been appointed as the 'Batika Trainer' for England's visit to England.
 
@@ -2189,45 +2227,5 @@ This is evidence of the heated water and the atmosphere of the planet and the st
 [Data](articles/63fcad1f.json)
 
 [Extended Data](ext_articles/63fcad1f.ext.json)
-
----
-
-### Control was paid to Dilith Jayaweera
-
-*2024-08-13 11:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342087) · `ta`
-
-Dilith Jayaweera, running for president under the Alliance Alliance in the 2024 election, gained control.
-
-🟩
-
-In the 2024 presidential election, the control of Dilith Jayaweera, who is contesting as the presidential candidate of the Alliance Alliance.
-
-◼️
-
-[Data](articles/d69100d8.json)
-
-[Extended Data](ext_articles/d69100d8.ext.json)
-
----
-
-### 45-year-old hacked to death over personal dispute
-
-*2024-08-13 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101196/45-year-old-hacked-to-death-over-personal-dispute) · `en`
-
-A person has been hacked to death with a sharp weapon in the Kotiyagala area of Athimale.
-
-The incident has taken place last morning (12), the police said.
-
-The deceased is a 45-year-old resident of the Kotiyagala area of Athimale.
-
-Police stated that the incident had taken place as a result of a personal dispute between the victim and another person.
-
-A 27-year-old resident of Kotiyalgala has been arrested in connection with the murder.
-
-◼️
-
-[Data](articles/24c521af.json)
-
-[Extended Data](ext_articles/24c521af.ext.json)
 
 ---

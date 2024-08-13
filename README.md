@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 17:36:43**
+As of **2024-08-13 17:57:28**
 
 ## Newspaper Stats
 
-*Scraped **40,517** Articles*
+*Scraped **40,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 386
 islandlk | 2,344
 economynextcom | 2,453
 dailyftlk | 2,605
-adalk | 3,723
-adaderanalk | 4,723
+adalk | 3,726
+adaderanalk | 4,724
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
-adaderanasinhalalk | 6,891
+adaderanasinhalalk | 6,892
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,517 (100.0%) of 40,517 articles have been extended.
+40,517 (100.0%) of 40,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### Sri Lanka appoint Ian Bell as batting coach for England tour
+
+*2024-08-13 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101209/sri-lanka-appoint-ian-bell-as-batting-coach-for-england-tour) · `en`
+
+Sri Lanka Cricket (SLC) has appointed the former England batsman Ian Bell as the ‘Batting Coach’ of the national team for the ongoing tour.
+
+He will start working with the team on August 16th and remain until the conclusion of the three-test match series, the SLC said in a statement.
+
+The former England batsman has played in 118 test matches and scored 7,727 runs at an average of 42.69 and has 22 test centuries under his belt.
+
+“We appointed Ian to bring in a person with local knowledge to help the players with key insights on the conditions there. Ian has a lot of experience playing in England, and we believe his input will help our team in this crucial tour,” said CEO of Sri Lanka Cricket, Ashley De Silva.
+
+◼️
+
+[Data](articles/7b4ab385.json)
+
+---
+
+### නීතිවිරෝධි ලෙස රැගෙන ආ රන් බිස්කට් අත්අඩංගුවට
+
+*2024-08-13 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199896) · `si`
+
+නීතිවිරෝධි ලෙස මෙරටට රැගෙන ආ හාර කෝටි හතලිස් ලක්ෂයක් වටිනා රන් බිස්කට් 16ක් රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් සිය භාරයට ගෙන තිබේ.
+
+අද (13) උදෑසන කටුනායක ගුවන්තොටුපොළට ඩුබායි සිට මෙරටට පැමිණි ගාල්ල ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් මෙම රන් බිස්කට් රැගෙන විත් තිබුණි.
+
+ඔහු මෙම රන් බිස්කට් 08 බැගින් වූ පාර්සල් 02ක් ලෙස සකස් කර ඔහු විසින් රැගෙන ආ පැති බෑගයක සහ ගුවන්තොටුපොළ ගමන් මලු රැගෙන යාමට ඇති ට්‍රොලියක යට අලවා ගුවන්තොටුපොළින් පිටත් කිරීමට සූදානම් වී තිබුණි.
+
+මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් සිදු කරයි.
+
+◼️
+
+[Data](articles/740b177e.json)
+
+---
 
 ### Rajitha Senaratne pledges support to President Ranil
 
@@ -85,6 +121,40 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 [Data](articles/c80c6f69.json)
 
 [Extended Data](ext_articles/c80c6f69.ext.json)
+
+---
+
+### මහ වැස්ස නිසා පොල්ගොල්ල ජලාශයේ වාන් දොරටු විවෘත කෙරේ
+
+*2024-08-13 16:56:29* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැස්ස-නිසා-පොල්ගොල්ල-ජලාශයේ-වාන්-දොරටු-විවෘත-කෙරේ/11-411351) · `si`
+
+මහනුවර අවට ප්‍රදේශවලට අද (13) පස්වරුවේ ඇද හැලුන  අධික වර්ෂාව නිසා පොල්ගොල්ල මහවැලි ජලාශයේ වාන් දොරටු තුනක්  විවෘත කළ  බව වේල්ල භාර ඉංජිනේරු කාර්යාලය  සඳහන් කළේය.
+
+ඒ අනුව පොල්ගොල්ල වේල්ලේ වාන් දොරටු   තුනක්,  අඩි (3') බැගින් ඉහළට ඔසවා ඇති අතර මේ හේතුවෙන් ජලාශය පහළට මහවැලි ගඟට තත්පරයට ඝණ අඩි 7400 ක පමණ ජල ප්‍රමාණයක් නිකුත්කරන බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය.
+
+මේ හේතුවෙන් පවතින වර්ෂාව අනුව දොරටු විවෘත කරන බැවින් පොල්ගොල්ල වේල්ලට පහළින් වික්ටෝරියා ජලාශය දක්වා  මහවැලි ගඟ භාවිතා කරන ජනතාව අවධානයෙන් සිටිය යුතු බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය
+
+◼️
+
+[Data](articles/0b261f81.json)
+
+---
+
+### පින්නවල හා කිතුල්ගල සංචාරක තීරයක්
+
+*2024-08-13 16:46:04* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-හා-කිතුල්ගල-සංචාරක-තීරයක්/11-411350) · `si`
+
+පින්නවල කිතුල්ගල සංචාරක තීරය සංවර්ධනය කිරීමේ වැඩසටහනට අදාලව හඳුනාගෙන ඇති ව්‍යාපෘති ක්‍රියාත්මක කිරීම පිණිස ප්‍රසන්න රණතුංග අමාත්‍යවරයා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවූ බව ප්‍රවාහන මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+කැබිනට් ප්‍රකාශකවරයා මේ බව පැවසුවේ අද (13) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+
+පින්නවලත් කිතුල්ගල සංචාරක කලාපයත් ආවරණය වන පරිදි සංචාරක කලාපයක් ඉදිකිරීමට 2024 අයවැය යෝජනාවකින් ඉදිරිපත් කළ බවද ඒ සඳහා සංචාරක සහ ඉඩම් අමාත්‍යංශය වෙත රුපියල් මිලියන 750ක ප්‍රතිපාදන වෙන්කර ඇතැයිද අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+
+මෙරටට පැමිණෙන සංචාරකයින්ගෙන් 34%ක් පමණ පින්නවල අලි සුරතල් බැලීමට යන බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1f2373cf.json)
 
 ---
 
@@ -853,6 +923,24 @@ According to the recommendation of the report, the President has approved the pr
 [Data](articles/c4bd6de0.json)
 
 [Extended Data](ext_articles/c4bd6de0.ext.json)
+
+---
+
+### දියණියගේ රූපලාවන්‍යාගාරය විවෘත කිරිමට පැමිණි මව පඩිපෙළින් වැටි මරුට
+
+*2024-08-13 12:39:44* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-රූපලාවන්‍යාගාරය-විවෘත-කිරිමට-පැමිණි-මව-පඩිපෙළින්-වැටි-මරුට/11-411345) · `si`
+
+සිය දියණියගේ රූපලාවන්‍යාගාරය විවෘත කිරීමේ අවස්ථාවට පැමිණ සිටියදී පියගැට පෙළෙන් පය ලෙස ඇද වැටී තුවාල ලැබූ මව ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+
+මෙසේ මිය ගොස් ඇත්තේ පිළියන්දල සිද්ධමුල්ල අංක 120 හි පදිංචි වීරසිංහ පතිරණගේ නන්දාවතී නමැති (78) හැවිරිදි කාන්තාවක බව පොලිසිය කියයි.
+
+මෙම කාන්තාව හෝමාගම නගර මධ්‍යයේ තෙමහල් ගොඩනැගිල්ලක දෙවන මහලේ සිය දියණිය විසින් විවෘත කිරීමට නියමිතව තිබූ රූපලාවණ්‍යාගාරයට පැමිණ සිටියදී දෙවන මහලේ සිට පළමු මහලට බැස යාම සදහා ඉදි කර තිබූ පියගැට පෙලෙන් බිමට බැස යාමට සූදානම් වෙද්දී පය ලෙස්සා අඩි හතරක් පමණ පහලට ඇද වැටී අනතුරකට ලක්ව තිබුණි.
+
+අනතුරින් ඇයගේ හිසට බරපතල තුවාල සිදුව බිම වැටී සිටියදී ඒ බව දුටු සැමියා ක්ෂණිකව ක්‍රියාත්මක වී පැමිණ සිටි පිරිසගේ සහායෙන් ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කොට ඇති අතර එහි ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මියගොස් තිබේ.
+
+...
+
+[Data](articles/b4bd7990.json)
 
 ---
 
@@ -2109,117 +2197,5 @@ Police said that steps are being taken to bring the suspect to the Mahiyangana M
 [Data](articles/325afeaa.json)
 
 [Extended Data](ext_articles/325afeaa.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-08-13 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101188/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the prevailing showery condition over the island is expected to continue further due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and Uva provinces.
-
-Showers or thundershowers will also occur at several places elsewhere of the island during the evening or night, it said.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Southern and North-western provinces while showers may occur over the eastern coastal areas during the morning too, the department added.
-
-Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ea8e4e28.json)
-
-[Extended Data](ext_articles/ea8e4e28.ext.json)
-
----
-
-### Presidential candidate numbers swell to 32
-
-*2024-08-13 09:22:27* · [`dailyftlk`](https://www.ft.lk/news/Presidential-candidate-numbers-swell-to-32/56-765474) · `en`
-
-MP Roshan Ranasinghe submitted the required cash deposit at the Election Commission of Sri Lanka yesterday, ahead of the impending 15 August deadline for candidates intending to contest in the 21 September Presidential election.
-
-Four other candidates also made their deposits, including Socialist Party of Sri Lanka General Secretary Mahinda Dewage, Democratic United National Front’s Prasanga Suranjeewa Anoj de Silva, and United Democratic Alliance’s Abubakar Mohamed Infaas. Additionally, Tamil Common Candidate P. Ariyanethran also completed the necessary cash deposit.
-
-With the addition of these five candidates, the total number of Presidential candidates has now risen to 32, just three short of the 35 who contested in 2019.
-
-...
-
-[Data](articles/72f8d235.json)
-
-[Extended Data](ext_articles/72f8d235.ext.json)
-
----
-
-### The turbulent nature of the atmosphere
-
-*2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தின்-கொந்தளிப்பான-தன்மை/175-342072) · `ta`
-
-Heavy rainfall is expected in several Sri Lankan provinces today due to atmospheric turbulence. The Department of Meteorology predicts ongoing rain nationwide and warns of potential thunderstorms and dangerous conditions like heavy winds and lightning strikes. It advises residents to prepare accordingly.
-
-🟩
-
-The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
-
-The department said that due to the turbulence of the nearby atmosphere of Sri Lanka, the current rainfall across the country is expected to continue.
-
-The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/0b11ed75.json)
-
-[Extended Data](ext_articles/0b11ed75.ext.json)
-
----
-
-### Turmoil in the lower atmosphere
-
-*2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்-வளிமண்டலத்தில்-கொந்தளிப்பு/175-342072) · `ta`
-
-Heavy rainfall is expected in several regions of Sri Lanka due to atmospheric turbulence, continuing from previous days. The Department of Meteorology warns of potential thunderstorms in the evening or night across the country. It advises citizens to prepare for possible heavy winds and lightning strikes.
-
-🟩
-
-The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
-
-Due to the turbulence of the low -lying atmosphere near Sri Lanka, the current rainfall is expected to continue across the country, the department said.
-
-The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/5c11db47.json)
-
-[Extended Data](ext_articles/5c11db47.ext.json)
-
----
-
-### Turmoil in the inferior atmosphere
-
-*2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு/175-342072) · `ta`
-
-Heavy rainfall is expected in several provinces of Sri Lanka today, continuing from atmospheric turbulence. The Department of Meteorology warns of potential thunderstorms in the evening or night elsewhere. They advise citizens to prepare for possible heavy winds and lightning strikes.
-
-🟩
-
-The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
-
-The department said that due to the turbulence of the nearby atmosphere of Sri Lanka, the current rainfall across the country is expected to continue.
-
-The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/c11bcd9b.json)
-
-[Extended Data](ext_articles/c11bcd9b.ext.json)
 
 ---

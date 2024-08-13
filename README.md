@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 00:09:58**
+As of **2024-08-14 00:21:10**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,564 (100.0%) of 40,567 articles have been extended.
+40,567 (100.0%) of 40,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### களுத்துறை தாய் - சேய் வைத்தியசாலையில் பதற்றம்
+### Kalutara Mother - Tension at Chey Hospital
 
 *2024-08-13 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தாய்-சேய்-வைத்தியசாலையில்-பதற்றம்/175-342128) · `ta`
 
-களுத்துறையில் தாய் - சேய் வைத்தியசாலையில் இன்று (13) இரவு திடீரென தீ சமிக்ஞை ஒலித்ததால் வைத்தியசாலை ஊழியர்களும் நோயாளர்களும் தீ அச்சத்தினால் வைத்தியசாலைகளை விட்டு வெளியேறியுள்ளர்.
+A sudden fire alarm evacuated staff and patients from the Chey Hospital in Kalutara. Firefighters quickly responded, monitoring the area for over an hour, including the hospital's power systems. The incident highlighted concerns about the fire warning system's operation.
 
-தீ எச்சரிக்கை சமிக்ஞை ஒலித்ததையடுத்து, களுத்துறை மாநகரசபையின் தீயணைப்புப் பிரிவினர் தயார்படுத்தப்பட்டதுடன், பாதுகாப்புப் படையினரும் வைத்தியசாலை ஊழியர்களும் இணைந்து வைத்தியசாலை கட்டடத்தில் இருந்து நோயாளிகளை வெளியேற்றும் பணியில் ஈடுபட்டனர்.
+🟩
 
-தீயணைப்பு வீரர்கள் உடனடியாக வந்து மருத்துவமனையின் மின் அமைப்பு உட்பட மருத்துவமனையை சுமார் ஒரு மணி நேரம் கண்காணித்து பாதுகாப்பை உறுதிசெய்னர்.
+Hospital staff and patients have left the hospitals due to fire due to a sudden fire signal at the mother -Chey hospital in Kalutara.
 
-இரண்டாவது மாடியில் பொருத்தப்பட்ட தீ எச்சரிக்கை சுவிட்ச் சிலரால் இயக்கப்பட்டது, பின்னர் கட்டிடத்தின் தீ எச்சரிக்கை இயக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+Following the fire alarm signal, the firefighters of the Kalutara Municipal Council were prepared and the security forces and hospital staff were working to evacuate patients from the hospital building.
+
+Firefighters immediately arrived and monitored the hospital for about an hour, including the power system of the hospital.
+
+The fire warning switch fitted on the second floor was directed by some, and then the building's fire warning was operated. Remble
 
 ◼️
 
 [Data](articles/7f7d2ad9.json)
+
+[Extended Data](ext_articles/7f7d2ad9.ext.json)
 
 ---
 
@@ -199,6 +205,8 @@ In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to
 ...
 
 [Data](articles/a1b8b668.json)
+
+[Extended Data](ext_articles/a1b8b668.ext.json)
 
 ---
 
@@ -357,6 +365,8 @@ The Cabinet of Ministers approved the proposal to enter into an MOU between loca
 ...
 
 [Data](articles/28b009c3.json)
+
+[Extended Data](ext_articles/28b009c3.ext.json)
 
 ---
 

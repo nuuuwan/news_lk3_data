@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 20:36:31**
+As of **2024-08-13 20:55:24**
 
 ## Newspaper Stats
 
-*Scraped **40,553** Articles*
+*Scraped **40,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,60 @@ colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
-adalk | 3,728
+adalk | 3,729
 adaderanalk | 4,727
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,161
 virakesarilk | 6,422
-adaderanasinhalalk | 6,897
+adaderanasinhalalk | 6,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,551 (100.0%) of 40,553 articles have been extended.
+40,553 (100.0%) of 40,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### සජිත්ගේ සහායට තවත් පක්ෂ 27ක්
+### ජනපතිට සහාය දෙන්න ගිය ප්‍රේමලාල් නාමල් දැක ආපසු හැරෙයි
+
+*2024-08-13 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199902) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කළ රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතාට සහාය දැක්වීමට යළි තීරණය කර තිබුණි.
+
+ඔහු අද (13) මේ බව පැවසුවේ බත්තරමුල්ල නෙළුම් මාවත ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ මූලස්ථානයේ දී මාධ්‍යයට අදහස් දක්වමිනි.
+
+"ජනාධිපතිතුමා එක්ක ප්‍රශ්ණයක් නැහැ. නමුත් අපිට පක්ෂය පාවා  දීලා යන්න පුළුවන් කමක් නැහැ. ගමේ ජනතාව කියන්නේ අපි ඉන්න පක්ෂයේම ඉන්න කියලා. පක්ෂයෙන් අපේක්ෂකයෙක් දානවා කියලා හරියටම තිබුණේ නැති නිසා ජනාධිපතිතුමාට සහාය දෙනවා කියලා හිටියා. නමුත් පක්ෂයෙන් අපේක්ෂකයෙක් දාපු නිසා අපි අනිවාර්යයෙන්ම පක්ෂයත් එක්ක කටයුතු කරන්න බැඳිලා ඉන්නවා."
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරමින් රත්නපුර දිස්ත්‍රික්කයෙන් තේරී පත්වූ රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා පසුගිය 03 වනදා රත්නපුරයේ පැවති හමුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබුණි.
+
+◼️
+
+[Data](articles/4ca1d420.json)
+
+---
+
+### 27 other parties in Sajith's support
 
 *2024-08-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199901) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ නායක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීම වෙනුවෙන් දේශපාලන පක්ෂ 27ක් සමගි ජන සන්ධානය සමග ගිවිසුම් ගතවී තිබේ.
+Sajith Premadasa, Samagi UPFA leader, has secured support from 27 political parties, including the United Lanka Public Party and the Democratic People's Congress, for his opposition leadership. Additionally, Dr. Jayampathi Wickramaratne will back him in the upcoming presidential election.
 
-මෙලෙස ගිවිසුම් ගතවී ඇත්තේ මානුෂිය ජනතා සන්ධානය නියෝජනය කරන එක්සත් ලංකා පොදුජන පක්ෂය, ප්‍රජාතන්ත්‍රවාදී ජනතා කොංග්‍රසය, ජාතික පෙරමුණ ඇතුලු පක්ෂ 27කි.
+🟩
 
-මේ අතර ඉදිරි ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දැක්වීමට ආචාර්ය ජයම්පති වික්‍රමරත්න මහතා ඇතුළු එක්සත් වාමාංශික පෙරමුණ ද තීරණය කර තිබේ.
+Samagi UPFA leader leader Leader Leader Leader Sajith Premadasa has contracted the 27 political parties to support the opposition leader Sajith Premadasa.
+
+The United Lanka Public Party representing the humanitarian People's Join, Democratic People's Congress, National Front, including 27 parties, including the National Front.
+
+Meanwhile, Dr. Jayampathi Wickramaratne, Dr. Jayampathi Wickramaratne, has also decided to support Sajith Premadasa in the next presidential election.
 
 ◼️
 
 [Data](articles/bfccd541.json)
+
+[Extended Data](ext_articles/bfccd541.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ The Customs officers are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/fd3fb229.json)
+
+[Extended Data](ext_articles/fd3fb229.ext.json)
 
 ---
 
@@ -225,6 +251,24 @@ The girl was arrested by the Principal and a teacher and two teachers at the sch
 [Data](articles/78f569d3.json)
 
 [Extended Data](ext_articles/78f569d3.ext.json)
+
+---
+
+### තවත් වසර පහක් රනිල්ට දුන්නොත් රට නූතන දේශයක් වේවි
+
+*2024-08-13 18:18:47* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-පහක්-රනිල්ට-දුන්නොත්-රට-නූතන-දේශයක්-වේවි/11-411357) · `si`
+
+සමගි ජන බලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය රාජිත සේනාරත්න මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඉදිරි ජනාධිපතිවරණයේදී සිය සහය ලබාදෙන බව අද (13දා) දැනුම් දුන්නේය. ගංඟාරාම විහාරස්ථ සීමාමාලකයේ දී ඔහු මේ බව ප්‍රකාශයට පත් කළේය.
+
+ජනාධිපති  රනිල් වික්‍රමසිංහ සහ රාජිත සේනාරත්න මහත්වරුන් අතර " රාජිතගේ තීරණය" සම්මුතියට ද මෙහිදී අත්සන් කෙරිණි.
+
+මෙහිදී අදහස් දක්වමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසූයේ රාජිත සේනාරත්න මහතා ද තමා මෙන්ම රැඩිකල් තීරණ ගැනීමට ඉදිරිපත් වන හෙයින් තමා සමග එක්වීමට තීරණය කළ බවයි. ජනතාව බලාපොරොත්තුව වන පවතින දේශපාලන ක්‍රමවේදයේ වෙනස කළ යුතු බව ද හෙතෙම කීවේය.
+
+මෙහිදී අදහස් දැක්වූ රාජිත සේනාරත්න මහතා පැවසූයේ රනිල්ට තව වසර පහක් දුන්නොත් ලංකාව ලෝකයේ නූතන දේශයක් බවට පත්වන බවට කිසිම සැකයක් නැති බවයි.
+
+◼️
+
+[Data](articles/ee7b4f51.json)
 
 ---
 
@@ -2181,55 +2225,5 @@ The three-wheeler driver and another were admitted to the Mundalama Hospital wit
 [Data](articles/be35b603.json)
 
 [Extended Data](ext_articles/be35b603.ext.json)
-
----
-
-### 2024 Presidential Election: Placing of deposits to conclude tomorrow
-
-*2024-08-13 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101195/2024-presidential-election-placing-of-deposits-to-conclude-tomorrow) · `en`
-
-The placing of deposits for the 2024 Presidential Election is scheduled to be concluded from 12 noon tomorrow (14).
-
-The Election Commission has stated that 32 individuals have already placed deposits to contest in the presidential election.
-
-Among these, are 16 candidates from recognized political parties and one from other political party have placed deposits.
-
-Additionally, 15 independent candidates have also deposited money for the upcoming presidential election.
-
-It is reported that another group of individuals plan to place their deposits today (13) for the presidential election.
-
-The acceptance of nominations for the upcoming presidential election is scheduled to begin the day after tomorrow (15) from 9.00 a.m. to 11.00 a.m.
-
-Police have announced that a special security program will be implemented in connection with the election secretariat in Rajagiriya on the day of the nomination acceptance.
-
-◼️
-
-[Data](articles/f1657c97.json)
-
-[Extended Data](ext_articles/f1657c97.ext.json)
-
----
-
-### President Ranil to hold inaugural rally of election campaign in A’pura
-
-*2024-08-13 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101194/president-ranil-to-hold-inaugural-rally-of-election-campaign-in-apura) · `en`
-
-The inaugural public rally in the election campaign of President Ranil Wickremesinghe for the upcoming Presidential Election will be held on August 17 at the Salgado Stadium in Anuradhapura.
-
-This rally will include representatives from various parties and groups supporting the President, including those who joined from the Sri Lanka Podujana Peramuna (SLPP).
-
-Meanwhile, former Minister Vijith Vijayamuni Soysa has announced his support for President Ranil Wickremesinghe in the upcoming Presidential Election.
-
-He has officially communicated this decision during a meeting with the President last afternoon (12).
-
-Meanwhile, a discussion was held between the representatives of the Tamil parties representing the Northern Province and President Ranil Wickramasinghe on Monday (12).
-
-It is reported that the discussion was focused on addressing issues faced by the Tamil community in the North.
-
-...
-
-[Data](articles/23c4d430.json)
-
-[Extended Data](ext_articles/23c4d430.ext.json)
 
 ---

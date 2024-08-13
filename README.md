@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 13:06:30**
+As of **2024-08-13 13:21:26**
 
 ## Newspaper Stats
 
-*Scraped **40,463** Articles*
+*Scraped **40,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 4,714
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,149
 virakesarilk | 6,405
-adaderanasinhalalk | 6,882
+adaderanasinhalalk | 6,884
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,463 (100.0%) of 40,463 articles have been extended.
+40,463 (100.0%) of 40,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 15 වනදා විශේෂ රථවාහන සැලැස්මක්
+
+*2024-08-13 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199887) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීම අගෝස්තු 15 වනදා රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාලයේදී සිදුකිරීමට නියමිතය.
+
+ඒ වෙනුවෙන් එදින උදෑසන 8 සිට පස්වරු 2 දක්වා විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/9ab28c34.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප් සංශෝධනයට අමාත්‍ය මණ්ඩල අනුමැතිය
+
+*2024-08-13 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199886) · `si`
+
+රාජ්‍ය සේවයේ සියලුම අංශයන්හි වැටුප් සංශෝධනය කිරීම සඳහා වූ යෝජනා සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+2025 අයවැය මඟින් එම යෝජනා ක්‍රියාත්මක කිරීම සඳහා නිර්දේශ ඇතුළත් වාර්තාවක් ඉදිරිපත් කිරීම සඳහා විශේෂඥ කමිටුවක් පත්කිරීම සඳහා අමාත්‍ය මණ්ඩල අනුමැතිය මීට පෙර ලබා දී තිබුණි.
+
+ඒ අනුව හිටපු ජනාධිපති ලේකම් උදය සෙනෙවිරත්න මහතාගේ ප්‍රධානත්වයෙන් පත්කරන ලද විශේෂඥ කමිටුව විසින් රාජ්‍ය නිලධාරීන්ගේ සහ රාජ්‍ය අංශයේ ප්‍රධාන වෘත්තීය සංගම් සමග සාකච්ඡා කර අදාළ තොරතුරු විශ්ලේෂණය කර වාර්තාව සකස් කර ඇත.
+
+එකී වාර්තාවේ නිර්දේශ අනුව පහත සඳහන් යෝජනා සඳහා අනුමැතිය ලබාදීමටත් අදාළ යෝජනා 2025 වසරේ අයවැයට ඇතුළත් කර ක්‍රියාත්මක කිරීමටත් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+...
+
+[Data](articles/c4bd6de0.json)
+
+---
 
 ### Nuwan Bopage is the control of the restriction
 
@@ -2239,43 +2271,5 @@ The company said it is looking to spread its presence in at least 50 countries o
 [Data](articles/70cb3d53.json)
 
 [Extended Data](ext_articles/70cb3d53.ext.json)
-
----
-
-### The situation in Bangladesh is normal
-
-*2024-08-12 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199865) · `si`
-
-Bangladesh's situation remains calm despite foreign media reporting on the new government taking control of highways and the arrest of former PM Sheikh Hasina. Recent violence resulted in over 450 deaths, including law enforcement personnel.
-
-🟩
-
-Foreign media reports that the daily activities of the former Prime Minister Sheikh Hasena have come to the new custody government.
-
-The reports indicate that the government has taken over the highways.
-
-In the recent past, more than 450 people, including the police officers, police officers and police officers were killed in the recent past violence.
-
-◼️
-
-[Data](articles/ef57c862.json)
-
-[Extended Data](ext_articles/ef57c862.ext.json)
-
----
-
-### The Psychology Of Money: A Book Review
-
-*2024-08-12 20:47:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-psychology-of-money-a-book-review/) · `en`
-
-In the modern world, money is considered as a key to unlocking various barriers to success in someone’s lifetime. As a result, many of us put tremendous effort into learning about various techniques to earn money as fast as possible.  On this journey, have you ever thought about the role of psychology when dealing with money? In his world-best-selling book, titled “The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness” published by Harriman House, Mogan Housel has provided some interesting insights into this arena. In this, he primarily argues that doing well with money has little to do with technical knowledge and a lot to do with our behaviour, which is guided by our thoughts.
-
-In my opinion, this book will assist readers in finding answers to some fundamental questions related to our daily financial life.
-
-...
-
-[Data](articles/eb4ae53f.json)
-
-[Extended Data](ext_articles/eb4ae53f.ext.json)
 
 ---

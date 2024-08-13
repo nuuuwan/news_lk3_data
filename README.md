@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 05:39:15**
+As of **2024-08-13 06:04:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,379 (100.0%) of 40,380 articles have been extended.
+40,380 (100.0%) of 40,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -94,17 +94,23 @@ Other IPE 2024 activities in Sri Lanka include a combined diving activity that w
 
 ---
 
-### ஜனநாயகப் போராட்டத்துக்கு அழைப்பு
+### Call for a democratic struggle
 
 *2024-08-13 01:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகப்-போராட்டத்துக்கு-அழைப்பு/175-342068) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையில் மரணித்த சிந்துஜாவுக்கு நீதி கேட்டு அந்த வைத்தியசாலை முன்பாக இன்று காலை 9 மணிக்குக் கவனவீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+A democratic struggle is called against injustice, with a protest planned at Mannar District General Hospital at 9 am, organized by the Mannar District Public Organizations Union.
 
-மன்னார் மாவட்ட பொது அமைப்புகளின் ஒன்றியத்தின் ஏற்பாட்டில் இந்தப் போராட்டம் நடைபெறவுள்ளது. (a)
+🟩
+
+Sindhuja, who died at the Mannar District General Hospital, will take justice in front of the hospital at 9 am.
+
+The protest will be held in the arrangement of the Mannar District Public Organizations Union. (A)
 
 ◼️
 
 [Data](articles/84db84c6.json)
+
+[Extended Data](ext_articles/84db84c6.ext.json)
 
 ---
 

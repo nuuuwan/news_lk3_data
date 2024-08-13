@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 20:21:25**
+As of **2024-08-13 20:36:31**
 
 ## Newspaper Stats
 
-*Scraped **40,551** Articles*
+*Scraped **40,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,728
-adaderanalk | 4,726
+adaderanalk | 4,727
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,161
 virakesarilk | 6,422
-adaderanasinhalalk | 6,896
+adaderanasinhalalk | 6,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,550 (100.0%) of 40,551 articles have been extended.
+40,551 (100.0%) of 40,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### සජිත්ගේ සහායට තවත් පක්ෂ 27ක්
+
+*2024-08-13 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199901) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී සමගි ජන සන්ධානයේ නායක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීම වෙනුවෙන් දේශපාලන පක්ෂ 27ක් සමගි ජන සන්ධානය සමග ගිවිසුම් ගතවී තිබේ.
+
+මෙලෙස ගිවිසුම් ගතවී ඇත්තේ මානුෂිය ජනතා සන්ධානය නියෝජනය කරන එක්සත් ලංකා පොදුජන පක්ෂය, ප්‍රජාතන්ත්‍රවාදී ජනතා කොංග්‍රසය, ජාතික පෙරමුණ ඇතුලු පක්ෂ 27කි.
+
+මේ අතර ඉදිරි ජනාධිපතිවරණයේදී සජිත් ප්‍රේමදාස මහතාට සහාය දැක්වීමට ආචාර්ය ජයම්පති වික්‍රමරත්න මහතා ඇතුළු එක්සත් වාමාංශික පෙරමුණ ද තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/bfccd541.json)
+
+---
+
+### Passenger arrested with 16 gold biscuits worth Rs. 440 million at BIA
+
+*2024-08-13 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101213/passenger-arrested-with-16-gold-biscuits-worth-rs-440-million-at-bia) · `en`
+
+The officers of the Narcotics Control Unit of Sri Lanka Customs have seized 16 gold biscuits, estimated to be worth around Rs. 440 million, smuggled into the country by a passenger at the Bandaranaike International Airport (BIA) in Katunayake.
+
+A businessman from Galle who had arrived in the country from Dubai had reproetdly attempted to smuggle these gold biscuits this morning (13).
+
+He had concealed the gold biscuits in two parcels, each containing eight pieces, and had placed them in a side bag and pasted it under a luggage trolley, before preparing to exit from the airport.
+
+The Customs officers are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fd3fb229.json)
+
+---
 
 ### 36 people have been controlled
 
@@ -1140,21 +1174,35 @@ Dr. Valawahengunuwe Tammaratharata Thera, the Vikramadi of the Mihintale Maha Vi
 
 ---
 
-### ஜனாதிபதி தேர்தலுக்கு பின் பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம்  - எஸ்.எம்.சந்திரசேன
+### After the presidential election, we will seize the power of the PA - SM Chandrasena
 
 *2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190977) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கு பின்னர் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம்.பிரதமர் தினேஷ் குணவர்தன தலைமையில் புதிய அரசியல் கூட்டணியை ஸ்தாபிப்போம் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.சந்திரசேன தெரிவித்தார்.
+Following the presidential election, the Sri Lanka People's Alliance (PA) plans to assert its power, as announced by SM Chandrasena after a meeting with organizers. The PA, primarily used for the presidential campaign, needs a shift in strategy. A new coalition led by Prime Minister Dinesh Gunawardena will include PA members. The first rally supporting President Ranil Wickremesinghe is scheduled for the 17th, reflecting the majority view within the PA that Wickremesinghe should lead the government, aligning with public sentiment. The statement calls on former President Mahinda Rajapaksa to heed the people's wishes.
 
-அநுராதபுரம் பகுதியில் செவ்வாய்க்கிழமை (13)  இடம்பெற்ற தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம் என்று குறிப்பிட்டதில் எவ்வித தவறும் கிடையாது.ஜனாதிபதித் தேர்தலுக்கு பின்னர் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் அதிகாரத்தை கைப்பற்றுவோம் என்பதை மீண்டும் குறிப்பிடுவேன். பொதுஜன பெரமுனவை நாங்கள் தான் உருவாக்கினோம்.
+After the presidential election, we will seize the power of the Sri Lanka PA.
 
-பொதுஜன பெரமுனவின் உறுப்பினர்களில் பெரும்பாலானோர் ஜனாதிபதி பக்கம் கட்சியின் பெயர் பலகையை மாத்திரம் வைத்திருப்பதில் எவ்வித பயனுமில்லை. கட்சியின் பதவி நிலைகளில் மாற்றம் ஏற்படுத்தப்பட வேண்டும்.
+He was speaking to the media after a meeting with the constituency organizers held on Tuesday (13) in Anuradhapura.
 
-...
+There is nothing wrong with noting that the power of the PA will be seized.. We just created the PA.
+
+Most of the members of the PA had only use the party's name board on the presidential side. The position of the party must be changed.
+
+The new political coalition will be formed under the leadership of Prime Minister Dinesh Gunawardena to include members of the PA.
+
+The first election rally in support of President Ranil Wickremesinghe will be held at the Salkadu Ground on the 17th of this month.
+
+Most members of the PA are firmly in the position that President Ranil Wickremesinghe should create a government headed by President Ranil Wickremesinghe. The people of the country are in the same position.
+
+Therefore, we urge former President Mahinda Rajapaksa to act on the aspirations of the people.
+
+◼️
 
 [Data](articles/dc43f0fb.json)
+
+[Extended Data](ext_articles/dc43f0fb.ext.json)
 
 ---
 
@@ -2183,57 +2231,5 @@ It is reported that the discussion was focused on addressing issues faced by the
 [Data](articles/23c4d430.json)
 
 [Extended Data](ext_articles/23c4d430.ext.json)
-
----
-
-### Asking Sajith to support - no one is my support - Chandrika
-
-*2024-08-13 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/190966) · `ta`
-
-Chandrika Kumaratunga, a senior SLFP member, announced her decision not to support any candidate in the upcoming presidential election, despite appeals from other parties. She previously supported Sarath Fonseka in 2010 and Maithripala Sirisena in 2015, but did not endorse any candidate in 2019.
-
-🟩
-
-Former President Chandrika Kumaratunga says she has decided to support anyone in the upcoming presidential election.
-
-Speaking to some of the members of the Sri Lanka Freedom Party (SLFP) in Gampaha, he said that some members of the Sri Lanka Freedom Party (SLFP) have appealed to the United People's Power and the Opposition Leader, but I have decided not to support anyone.
-
-Chandrika Kumaratunga said that I am a senior member of the Sri Lanka Freedom Party (SLFP), the party's Boshakar, the members of the Sri Lanka Freedom Party (SLFP) during the presidential election.
-
-There is no objection to this, but I will not support anyone, ”he said.
-
-Meanwhile, a former president's decision has been confirmed by a former president's decision that Morning is not supportive of anyone.
-
-In the 2010 presidential election, former President of the former President Sarath Fonseka supported Sarath Fonseka.
-
-...
-
-[Data](articles/01113b23.json)
-
-[Extended Data](ext_articles/01113b23.ext.json)
-
----
-
-### Shashi standing Shina from Namal
-
-*2024-08-13 10:54:53* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගලින්-ශෂි-පමණක්-නාමල්-ළඟ-හිටගනියි/11-411341) · `si`
-
-A gathering at Moneragala discussed supporting Namal Rajapaksa for the upcoming Sri Lankan presidential election. Key figures like SLFP Chairman Wimal Galagamaarachchi, State Minister Sushindra Rajapaksa, and others emphasized the collective responsibility to lead Namal Rajapaksa as the party's leader. The meeting aimed to solidify support for the Sri Lanka Common Front under Namal Rajapaksa, with participation from various state ministers, MPs, and former officials.
-
-🟩
-
-A discussion of the aim of supporting Namal Rajapaksa in the Sri Lanka Arose to the presidential election was held at the residence of the Moneragala, Moneragala.
-
-SLFP Chairman Wimal Galagamaarachchi (Moneragala), Ranjith Papularachchi (Medagama), Saman Palakulasuriya (Medagama), Chaminda Piyakulasey (Magagama), Saman and Siyambalanduwa (Siyambalanduwa)And a large number of candidates attended.
-
-State Minister of Irrigation and Water Supply, Sushindra Rajapaksa, said
-
-For the next presidential election, Namal Rajapaksa's leading is the responsibility of all of us, the leader of the party. Only doing so can protect the Sri Lanka Common Front - Namal Rajapaksa has any doubt.
-
-...
-
-[Data](articles/fdea6722.json)
-
-[Extended Data](ext_articles/fdea6722.ext.json)
 
 ---

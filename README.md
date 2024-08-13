@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 03:55:42**
+As of **2024-08-14 04:07:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,578 (100.0%) of 40,591 articles have been extended.
+40,586 (100.0%) of 40,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ National People’s Power (NPP) Presidential candidate Anura Kumara Dissanayake 
 
 [Data](articles/91c8cb98.json)
 
+[Extended Data](ext_articles/91c8cb98.ext.json)
+
 ---
 
 ### Pro-RW Pohottuwa faction forms new alliance
@@ -67,6 +69,8 @@ He noted that discussions had taken place and decisions were made regarding the 
 ...
 
 [Data](articles/69f9b190.json)
+
+[Extended Data](ext_articles/69f9b190.ext.json)
 
 ---
 
@@ -87,6 +91,8 @@ The acceptance of nominations for the upcoming Presidential Election is schedule
 ◼️
 
 [Data](articles/7346df8b.json)
+
+[Extended Data](ext_articles/7346df8b.ext.json)
 
 ---
 
@@ -110,6 +116,8 @@ Speaking at the event, Senaratne described Wickremesinghe as a “man of our tim
 
 [Data](articles/4856ea2f.json)
 
+[Extended Data](ext_articles/4856ea2f.ext.json)
+
 ---
 
 ### Govt. to relax rules on repatriation of export earnings
@@ -130,6 +138,8 @@ These changes are expected to provide greater flexibility for exporters, enablin
 
 [Data](articles/9e897a10.json)
 
+[Extended Data](ext_articles/9e897a10.ext.json)
+
 ---
 
 ### Cabinet green lights importing 3,000 tons of ginger amid shortage
@@ -147,6 +157,8 @@ Speaking at the weekly post-Cabinet meeting media briefing, he said the State Tr
 ...
 
 [Data](articles/24560668.json)
+
+[Extended Data](ext_articles/24560668.ext.json)
 
 ---
 
@@ -166,6 +178,8 @@ He said the initiative is part of a broader effort to enhance the country’s re
 
 [Data](articles/04219feb.json)
 
+[Extended Data](ext_articles/04219feb.ext.json)
+
 ---
 
 ### SLANZBC hosts 29th AGM with discussion on ‘Road to Sri Lanka’s Economic Growth’
@@ -181,6 +195,8 @@ Jiffy Products SL Managing Director Ruwan Rajapakse will continue to serve the c
 ...
 
 [Data](articles/f3ae9719.json)
+
+[Extended Data](ext_articles/f3ae9719.ext.json)
 
 ---
 

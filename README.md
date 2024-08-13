@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 09:55:48**
+As of **2024-08-13 10:08:08**
 
 ## Newspaper Stats
 
-*Scraped **40,410** Articles*
+*Scraped **40,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
-adalk | 3,711
-adaderanalk | 4,703
+adalk | 3,712
+adaderanalk | 4,706
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,131
 virakesarilk | 6,394
@@ -26,27 +26,91 @@ adaderanasinhalalk | 6,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,406 (100.0%) of 40,410 articles have been extended.
+40,410 (100.0%) of 40,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### කතුරකින් පහරකෑමට ලක්වූ හෙදියට වන්දි ගෙවන්නැයි විශේෂඥ වෛද්‍යවරයාට අධිකරණ නියෝගයක්
+### India-Sri Lanka joint military exercise ‘Mitra Shakti’ begins in Maduru Oya
+
+*2024-08-13 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101190/india-sri-lanka-joint-military-exercise-mitra-shakti-begins-in-maduru-oya) · `en`
+
+The 10th edition of the India-Sri Lanka Joint Military Exercise, MITRA SHAKTI, commenced today at the Army Training School in Maduru Oya, Sri Lanka. Scheduled to run from August 12 to 25, 2024, this exercise marks a significant milestone in enhancing military collaboration between the two nations.
+
+The Indian contingent, comprising 106 personnel, is represented by a Battalion from the Rajputana Rifles, alongside members from other arms and services. The Sri Lankan side is represented by personnel from the Gajaba Regiment of the Sri Lankan Army.
+
+This annual training event alternates between India and Sri Lanka, with the previous edition held in Pune in November 2023.
+
+The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint military capabilities of both nations for counter-insurgency operations in a sub-conventional scenario, in alignment with Chapter VII of the United Nations Mandate. The focus of this year’s exercise will be on operations in a semi-urban environment.
+
+...
+
+[Data](articles/2e9f63c6.json)
+
+---
+
+### More than 47,000 people died in Europe last year due to heat, report says
+
+*2024-08-13 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101189/more-than-47000-people-died-in-europe-last-year-due-to-heat-report-says) · `en`
+
+More than 47,000 people died in Europe due to scorching temperatures in 2023, with countries in the region’s south hit the hardest, according to a report by the Barcelona Institute for Global Health (ISGlobal) published on Monday.
+
+Last year was the world’s hottest on record. As climate change continues to increase temperatures, Europeans live in the world’s fastest-warming continent, facing growing health risks stemming from intense heat.
+
+The 2023 death toll - below the more than 60,000 heat-related deaths estimated for the previous year - would have been 80% higher without measures introduced in the past 20 years to help people adapt to rising temperatures, such as early warning systems and healthcare improvements, according to the report by the Spanish research centre.
+
+...
+
+[Data](articles/c83ce411.json)
+
+---
+
+### Court order to pay compensate for the nurse who was suspended
 
 *2024-08-13 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199877) · `si`
 
-කුරුණෑගල මහ රෝහලේ විශේෂඥ ශල්‍ය වෛද්‍යවරයකු විසින් දියවැඩියා රෝගියෙකුගේ පාදයේ මහපට ඇඟිල්ල කපා දැමීම සඳහා යොදාගත් ගත් කතුරකින් හෙදියකගේ හිසට පහර දීම තුළින් එම විශේෂඥ වෛද්‍යවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.
+The Supreme Court ordered a doctor to pay Rs. 10,000 in compensation to a nurse for violating her human rights by attempting to amputate a diabetic patient's leg without consent. The court found the doctor guilty based on evidence presented by the nurse, including being called a liar by the surgeon during the incident. The compensation must be paid within three months.
 
-ඒ අනුව අදාළ මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීමේ සිද්ධියට භාජනය වූ වාරියපොළ ප්‍රදේශයේ පදිංචි හෙදියට රුපියල් 50,000/-ක වන්දියක් සිය පෞද්ගලික මුදල්වලින් ගෙවිය ලෙස කුරුණෑගල මහ රෝහලේ සේවයේ නියුතු විශේෂඥ ශල්‍ය වෛද්‍යවරයාට ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝග කළේය.
+🟩
 
-එම වන්දි මුදල මාස තුනක් ඇතුළත ගෙවා අවසන් කළ යුතු බවත්ට ඊට අමතරව වෛද්‍යවරයා විසින් හෙදියට රුපියල් 10,000ක වන්දි මුදලක් ගෙවිය යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයේ සඳහන් විය.
+The Supreme Court has decided that the specialist person has violated basic human rights in a potential to cut the head of a diabetic at the General Hospital.
 
-හෙද නිලධාරිනියක විසින් ගොනුකොට ඇති පෙත්සමක තීන්දුව දෙමින් විජිත් මළල්ගොඩ, ගාමිණි අමරසේකර සහ අචල වෙංගප්පූලි යන විනිසුරුවරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ බහුතර විනිසුරවරුන්ගේ එකඟත්වය ඇතිව මෙම තීන්දුව ප්‍රකාශයට පත් කෙරිණි.
+Accordingly, the Nurse of the Kurunegala General Hospital has ordered the nurse of the Kurunegala General Hospital as a resident of Wariyapola, which has been under violation of the fundamental rights.
+
+The compensation should be completed within three months and the doctor should pay a compensation of Rs. 10,000 and stated in the decree issued by the Supreme Court.
+
+The verdict was announced with the agreement of the three-judges with a petition filed by a petition filed by a nurse.
+
+The petitioner claims that he went to Surgeon with the respondent with the respondent to the respondent of the assignment of a diabetic patient on March 12, 2019.
+
+The petitioner said he had asked him to cut off the conflict at the time when the surgery was done and asked him to lay the scissors.
 
 ...
 
 [Data](articles/2b5e5e47.json)
+
+[Extended Data](ext_articles/2b5e5e47.ext.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-08-13 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/101188/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the prevailing showery condition over the island is expected to continue further due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and Uva provinces.
+
+Showers or thundershowers will also occur at several places elsewhere of the island during the evening or night, it said.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Southern and North-western provinces while showers may occur over the eastern coastal areas during the morning too, the department added.
+
+Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ea8e4e28.json)
 
 ---
 
@@ -64,23 +128,31 @@ With the addition of these five candidates, the total number of Presidential can
 
 [Data](articles/72f8d235.json)
 
+[Extended Data](ext_articles/72f8d235.ext.json)
+
 ---
 
-### தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை
+### The turbulent nature of the atmosphere
 
 *2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தின்-கொந்தளிப்பான-தன்மை/175-342072) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேற்கு மாகாணங்களின் சில பகுதிகளில் இன்று (13) 100 மி.மீ க்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall is expected in several Sri Lankan provinces today due to atmospheric turbulence. The Department of Meteorology predicts ongoing rain nationwide and warns of potential thunderstorms and dangerous conditions like heavy winds and lightning strikes. It advises residents to prepare accordingly.
 
-இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக நாடு முழுவதும் தற்போது காணப்படும் மழை நிலை தொடரும் என எதிர்பார்க்கப்படுவதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+The department said that due to the turbulence of the nearby atmosphere of Sri Lanka, the current rainfall across the country is expected to continue.
+
+The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/0b11ed75.json)
+
+[Extended Data](ext_articles/0b11ed75.ext.json)
 
 ---
 
@@ -184,6 +256,26 @@ As a result, if your Facebook page is temporarily suspended or turned off, the W
 
 ---
 
+### රාජිත අද පස්වරුවේ රනිල් ළඟට යයි
+
+*2024-08-13 07:41:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-අද-පස්වරුවේ-රනිල්-ළඟට-යයි/11-411335) · `si`
+
+හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දීමට එක්වීමේ සූදානමක් පවතින බව ඒ මහතා ගේ සමීපතම දේශපාලන ප්‍රකාශකයෙක්  පැවසීය .
+
+ඒ පිළිබඳ  ජනාධිපති වරයාගේ පාර්ශවයෙන් විශේෂ නියෝජිතයකු සමග හිටපු අමාත්‍ය වරයාගේ සමීපතමයන්ද ඊයේ (12) රාත්‍රි යේ පානදුර ප්‍රදේශයේ විශේෂ සාකච්ඡාවක් පැවැත්වූ  බවද හෙතෙම පැවසීය.
+
+හිටපු අමාත්‍ය වරයා අද (13) පස්වරුවේ කොළඹ ගංගාරාම විහාරස්ථානයේදී ආගමික වතාවත් ඉටුකිරිමෙන් පසු ඒ සම්බන්ධයෙන් නිළ ප්‍රකාශයක් ලබාදීමට නියමිත බව වාර්ථාවේ.
+
+එම අවස්ථාවට කළුතර දිස්ත්‍රික්කය නියෝජනය කල හිටපු පළාත් පාලන නියෝජිතයින් පිරිසක්ද සහභාගි වීමට සූදානම්ව සිටින බවද සදහන් වේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න මහතා  පසුගිය මහ මැතිවරණයේදී සමගි ජන බලවේගය නියෝජනය කරමින් කළුතර දිස්ත්‍රික්කයේ තේරී පත්වූ මන්ත්‍රී වරුන් දෙදෙනාගෙන් කෙනෙකි.
+
+...
+
+[Data](articles/14d4a9be.json)
+
+---
+
 ### A person who went to crossed with her will be hit
 
 *2024-08-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199874) · `si`
@@ -232,19 +324,25 @@ The representatives have been informed about the preparations in the Asian Devel
 
 ---
 
-### මිහින්ත‍ලේ නා හිමියෝ සජිත්ගේ පැත්තේ හිට ගනිති
+### Mihintale Na Thero stands on Sajith's side
 
 *2024-08-13 07:29:06* · [`adalk`](https://www.ada.lk/breaking_news/මිහින්ත‍ලේ-නා-හිමියෝ-සජිත්ගේ-පැත්තේ-හිට-ගනිති/11-411334) · `si`
 
-මෙවර පැවැත්වෙන ජනාධිපතිවරණ ඡන්ද  විමසීමේදී රටේ ජනතාවගේ සහයෝගය සමගි ජන බල සන්ධානයේ ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතා වෙත ලබා දෙන්නයි ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය ආචාර්ය වලවාහැංගුනවැවේ ධම්මරතන නායක හිමියන් පැවසූහ.
+Mihintale Na Thero supports Sajith in the upcoming presidential election, aligning with the historical Rajamaha Viharaya and its leaders. The Dhammarathana Leader discussed support strategies with a delegation, including Professor Gamini Ratna and Dunesh Gunatilleke. President Ranil Wickremesinghe is also mentioned for his efforts to improve life in the North and East through education and trade development. The proposal includes addressing basic needs, ensuring religious place preparations, and transferring rights to the Sambuddha Sasana.
 
-නායක හිමියන් මේ බව කියා සිටියේ එම නායක හිමියන් විසින් පසුගියදා ජනාධිපති අපේක්ෂකවරුන් වෙත ඉදිරිපත් කරන ලද යෝජනාවලියට සජිත් ප්‍රේමදාස මහතාගේ එකඟතාවය පළවීමෙන් අනතුරුව එම එකගතා ලිපිය පිරිනැමීම සඳහා පැමිණි දූත පිරිස සමග ඊයේ (12දා) පැවති සාකච්ඡාවකදීය.
+🟩
 
-ඒ සඳහා වූ එකඟතා ලිපිය නායක හිමියන් වෙත පිරිනැමීම සමගි ජන බලවේගය බුද්ධි මණ්ඩපයේ සාමාජිකයින් වන මහාචාර්ය ගාමිණී රත්නත් ශ්‍රී,  හා මහාචාර්ය දුනේෂ් ගුණතිලක යන මහතුන් ඇතුළු දූත පිරිස විසින් සිදු කලහ.
+The historical Rajamaha Viharaya, Chief Incumbent of the Historical UPFA presidents to the Presidential candidate and the support of the people of this year's presidential election, the Dhammarathana Leader of the Mihintawalana Viharaya said.
+
+The Leader of the Leaders said this was held at a discussion with the delegation that the delegation was held yesterday (12).
+
+The agreement was made to the leadership letter to the Leadership Thero, Professor Gamini Ratna and Dunesh Gunatilleke, the members of the Intelligence Command.
 
 ...
 
 [Data](articles/84483eb9.json)
+
+[Extended Data](ext_articles/84483eb9.ext.json)
 
 ---
 
@@ -2187,91 +2285,5 @@ The bill is part of a series of drafted laws that are to reform Sri Lanka’s le
 [Data](articles/1fbd5c99.json)
 
 [Extended Data](ext_articles/1fbd5c99.ext.json)
-
----
-
-### Wages Board passes minimum daily wage for plantation workers
-
-*2024-08-12 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/101178/wages-board-passes-minimum-daily-wage-for-plantation-workers) · `en`
-
-The Wages Board has decided to provide the Rs. 1,700 daily minimum wage for plantation workers.
-
-The relevant decision has been passed in the Wages Board today (12), with a majority of 14 votes from the plantation companies in favour of increasing the daily minimum wage.
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman stated that only 3 plantation companies objected to the passing of the decision.
-
-Accordingly, it has been agreed to provide plantation workers with a minimum daily wage of Rs. 1,350 along with a special attendance allowance of Rs. 350.
-
-Meanwhile, when the wage issue of the plantation workers was brought before the High Court, the Governor of the Eastern Province and the President of the Ceylon Workers’ Congress (CWC), Senthil Thondaman, expressed his gratitude to President Ranil Wickremesinghe and the former minister Manusha Nanayakkara for providing their full support for increasing the daily minimum wage of plantation workers.
-
-...
-
-[Data](articles/3a813868.json)
-
-[Extended Data](ext_articles/3a813868.ext.json)
-
----
-
-### India-Sri Lanka passenger ferry service to be relaunched on Aug 16
-
-*2024-08-12 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101177/india-sri-lanka-passenger-ferry-service-to-be-relaunched-on-aug-16) · `en`
-
-The much-delayed passenger ferry service connecting Nagapattinam in Tamil Nadu with the Kankesanthurai (KKS) suburb of Jaffna district in the Northern Province of Sri Lanka is set to commence on August 16, Indian media reported.
-
-IndSri Ferry Services Private Limited, the ferry operator, announced that the service bookings will open from midnight today.
-
-There were plans to relaunch it in May but there were delays and it eventually got cancelled.
-
-The service was virtually flagged off by Prime Minister Narendra Modi on October 14 last year with the vessel ‘Cheriyapani’, after a hiatus of nearly 40 years. It was operated by the Shipping Corporation of India under KPVS Private Limited. It was then halted after about a week, owing to rough weather during the North-East monsoon.
-
-◼️
-
-[Data](articles/3664c7d6.json)
-
-[Extended Data](ext_articles/3664c7d6.ext.json)
-
----
-
-### Presidential Poll nominations: Special security zone in Rajagiriya on Thursday
-
-*2024-08-12 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101176/presidential-poll-nominations-special-security-zone-in-rajagiriya-on-thursday) · `en`
-
-The vicinity of the Election Commission Office in Rajagiriya will be designated as a special security zone on August 15 as the nominations for the upcoming Presidential Election will be accepted on that date.
-
-The Chairman of the Election Commission, R.M.A.L. Rathnayake has therefore requested the public to avoid the area if possible for any official or personal purposes during this time period.
-
-The nominations will be accepted from 9.00 a.m. to 11 a.m. on Thursday, with the filing of objections permitted between 9.00 a.m. and 11:30 a.m. the same day. The allocation of election symbols for candidates from other parties will be scheduled following the objection period.
-
-Furthermore, the election regulatory body said that the allocation of election symbols for candidates from other parties will be scheduled following the objection period.
-
-The special security zone will encompass Sarana Mawatha in Rajagiriya, with only authorized personnel and vehicles allowed access.
-
-...
-
-[Data](articles/bb9c4e0c.json)
-
-[Extended Data](ext_articles/bb9c4e0c.ext.json)
-
----
-
-### Vacuum in the seats of two MPs
-
-*2024-08-12 15:03:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-எம்-பிக்களின்-ஆசனங்களில்-வெற்றிடம்/175-342033) · `ta`
-
-Two MP seats have become vacant after the Supreme Court upheld the SJB's decision to remove Manusha Nanayakkara and Harin Fernando from the party. The Elections Commission was notified through official channels.
-
-🟩
-
-The Elections Commission's Chairman has been informed about two vacant seats due to the cancellation of the seats of MPs Manusha Nanayakkara and Harin Fernando.
-
-The Secretary General of Parliament Saminda Gularatne has informed the Chairman of the Elections Commission in writing of two vacancies in terms of sections 64 (1) and 64 (5) of the Parliamentary Election Act No. 1 in 1981.
-
-The Supreme Court has ruled that the United People's Power (SJB) resolution to remove the Galle District Parliamentarian Manusha Nanayakkara and National List MP Harin Fernando from the party is legally valid.
-
-◼️
-
-[Data](articles/790f8398.json)
-
-[Extended Data](ext_articles/790f8398.ext.json)
 
 ---

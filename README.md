@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 19:36:29**
+As of **2024-08-13 19:55:04**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,545 (100.0%) of 40,548 articles have been extended.
+40,548 (100.0%) of 40,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### தணமல்வில சம்பவம் :- அதிபர், ஆசிரியர், ஆசிரியைகள் கைது
+### Tanamalvila incident:- Principal, teacher, teachers arrested
 
 *2024-08-13 19:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தணமல்வில-சம்பவம்-அதிபர்-ஆசிரியர்-ஆசிரியைகள்-கைது/175-342111) · `ta`
 
-தணமல்வில பகுதியில் 16 வயதான சிறுமியை பாடசாலை மாணவர்கள் 22 பேர் தொடர் கூட்டு பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் மேலும் பலர் கைது செய்யப்பட்டுள்ளனர்.
+In Tanamalwila, a 16-year-old girl was sexually abused by 22 students; 17 were arrested. The school's principal, two teachers, and another suspect were also detained for allegedly hiding the crime. Further inquiries are ongoing.
 
-கைது செய்யப்பட்டவர்களில் பாடசாலை அதிபர், பாடசாலை ஆசிரியர் மற்றும் இரண்டு ஆசிரியைகளும் அடங்குகின்றனர்.
+🟩
 
-சிறுமி கூட்டு பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்ட சம்பவத்தை பொலிஸாருக்கு அறிவிக்காது, மறைப்பதற்கு முயற்சித்ததாக கூறப்படும் சம்பவம் தொடர்பிலேயே நான்கு சந்தேகநபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+A 16 -year -old girl has been arrested in connection with a joint sexual abuse of a 16 -year -old girl in Tanamalwila.
 
-இந்த கூட்டு பாலியல் துஷ்பிரயோக சம்பவத்துடன் 22 மாணவர்கள் தொடர்புப்பட்ட நிலையில், அவர்களில் 17 மாணவர்கள் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+The arrested include the school principal, the school teacher and the two teachers.
 
-அத்துடன், இந்த சம்பவம் தொடர்பில் நேற்றைய தினம் பெண்ணொருவரும் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Four suspects have been arrested in connection with the alleged incident of allegedly attempting to hide the incident.
 
-இந்த சம்பவம் தொடர்பில் தணமல்வில பொலிஸார் மேலதிக விசாரணைகளை தொடர்ந்தும் நடாத்தி வருகின்றனர். R
+Of these 22 students have been involved in the joint sexual abuse, 17 of them have been arrested and interrogated.
+
+In addition, a woman was arrested and placed in interrogation yesterday.
+
+Tanamalwila police are conducting further investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/99d23ac6.json)
+
+[Extended Data](ext_articles/99d23ac6.ext.json)
 
 ---
 
@@ -66,25 +72,35 @@ This includes 19 candidates representing recognised political parties, 16 indepe
 
 [Data](articles/1c003bcf.json)
 
+[Extended Data](ext_articles/1c003bcf.ext.json)
+
 ---
 
-### சிறுமி பாலியல் வன்கொடுமை ; அதிபர் உட்பட நால்வர் கைது
+### Minor sexual harassment;Four persons including chancellor
 
 *2024-08-13 19:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பாலியல்-வன்கொடுமை-அதிபர்-உட்பட-நால்வர்-கைது/175-342110) · `ta`
 
-பாடசாலை மாணவியொருவரை பாலியல் வன்கொடுமை செய்யப்பட்ட சம்பவம் தொடர்பான அனைத்து தகவல்களையும் பொலிஸாருக்கு தெரியாமல் மறைத்த தனமல்வில தேசிய பாடசாலையின் அதிபர் உட்பட நால்வர் செவ்வாய்க்கிழமை (13) மாலை கைது செய்யப்பட்டதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+Four individuals, including the Chancellor of Thanamalwila National School, were arrested for failing to address a sexual abuse case involving a female student. The Principal, Deputy Principal, Teacher Advisor, and a disciplinary committee member were among those arrested. The Director of Education acknowledged the mishandling of the complaint by the school officials. Additionally, 21 students and a woman were detained for allegedly participating in the abuse, which was captured on video. The victim, a 16-year-old, was threatened and abused over a period of a year. The school administration was aware but attempted to conceal the incident.
 
-குறித்த பாடசாலையின் அதிபர், பிரதி அதிபர், ஆசிரியர் ஆலோசகர் மற்றும் ஒழுக்காற்று குழுவிற்கு பொறுப்பான ஆசிரியர் ஆகிய நால்வரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இந்தச் சம்பவம் தொடர்பில் பொலிஸாரால் தனமல்வில வலயக் கல்விப் பணிப்பாளரிடம் வாக்குமூலம் பெற்றுள்ளனர்.
+Four persons, including the Chancellor of the Thanamalwila National School, were arrested on Tuesday evening (13) evening, who was unaware of the incident of the incident of sexual abuse of a schoolgirl.
 
-சம்பவம் தொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு அவர் பணிப்புரை வழங்கியதாகவும், பாடசாலை அதிபர் உள்ளிட்ட குழுவினர் அந்த தீர்மானத்தை நடைமுறைப்படுத்தவில்லை எனவும் அவர் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The four were arrested as the Principal of the school, the Deputy Principal, the Teacher Advisor and the Teacher in charge of the disciplinary committee.
 
-மேலும் , சிறுமியை துஷ்பிரயோகம் செய்ததாக கூறப்படும் 21 மாணவர்களையும் அதற்கு உடந்தையாக இருந்த பெண் ஒருவரையும் ஓகஸ்ட் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வெள்ளவாய நீதவான் உத்தரவிட்டுள்ளார் .
+The police have confessed to the Director of Education of the Tanamalwila Zonal Education regarding the incident.
+
+He said in a statement that he had issued a directive to lodge a complaint with the police and that the school principal, including the school principal, did not implement the resolution.
+
+In addition, the Wellawa Magistrate has ordered the detention of 21 students and a woman who was accused of abusing the girl until August 22.
+
+The magistrate has also ordered the detainees of the 21 school students to be detained at the Bandarawela Suraksha Children's Home.
 
 ...
 
 [Data](articles/a8abee58.json)
+
+[Extended Data](ext_articles/a8abee58.ext.json)
 
 ---
 

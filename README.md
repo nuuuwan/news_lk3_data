@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 21:36:41**
+As of **2024-08-13 21:55:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,555 (100.0%) of 40,556 articles have been extended.
+40,556 (100.0%) of 40,556 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -364,19 +364,21 @@ Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to
 
 ---
 
-### එංගලන්ත සංචාරයේදී ශ්‍රී ලංකාවේ පිතිකරණ පුහුණුකරු ඉයන් බෙල්
+### Sri Lankan battrical coach Ian Bell, Sri Lanka's visit to England
 
 *2024-08-13 17:46:21* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-සංචාරයේදී-ශ්‍රී-ලංකාවේ-පිතිකරණ-පුහුණුකරු-ඉයන්-බෙල්/9-411355) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ එංගලන්ත සංචාරයට අදාළව 'පිතිකරණ පුහුණුකරු' ලෙස හිටපු එංගලන්ත පිතිකරු ඉයන් බෙල් පත් කිරීමට ශ්‍රී ලංකා ක්‍රිකට් ආයතනය කටයුතු කර තිබේ.
+Sri Lanka Cricket has been appointed as the 'Batika Trainer' for England's visit to England.
 
-ඉයන් බෙල් අගෝස්තු 16 වන දින කණ්ඩායම සමඟ සිය රාජකාරී ආරම්භ කිරීමට නියමිත අතර තරග සංචාරය අවසවන් වන තෙක් ඔහු කණ්ඩායමේ පිතිකරණ පුහුණුකරු ලෙස කටයුතු කරනු ඇත.
+Ian Bell is scheduled to commence its duties with the team on August 16 and he will work as the bite of the team until the tour visit.
 
-මෙම සංචාරයට ටෙස්ට් තරඟ තුනක් ඇතුළත් වෙයි. ඉයන් බෙල් ටෙස්ට් තරග 118කට ක්‍රීඩා කර ලකුණු 7727ක් රැස්කර තිබේ. පිතිකරණ සාමාන්‍ය 42.69ක් වන අතර ඔහු ටෙස්ට් ශතක 22ක් රැස්කර තිබේ.
+This visit includes three Test matches.Ian Bell played 118 runs and scored 7727 runs. 42.69 in battrici is 42.69 and he has scored 22 Test centuries.
 
 ◼️
 
 [Data](articles/1c03f442.json)
+
+[Extended Data](ext_articles/1c03f442.ext.json)
 
 ---
 

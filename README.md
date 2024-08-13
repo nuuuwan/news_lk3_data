@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 17:57:28**
+As of **2024-08-13 18:17:00**
 
 ## Newspaper Stats
 
-*Scraped **40,522** Articles*
+*Scraped **40,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,724
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,157
 virakesarilk | 6,415
-adaderanasinhalalk | 6,892
+adaderanasinhalalk | 6,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,517 (100.0%) of 40,522 articles have been extended.
+40,522 (100.0%) of 40,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### අලුත් සන්ධානයේ මහලේකම් රමේෂ් ?
+
+*2024-08-13 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199897) · `si`
+
+එළඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට  සහය පළ කිරීමට තීරණය කළ ශ්‍රී ලංකා පොදුජන පෙරමුණේ සිටි  මන්ත්‍රී කණ්ඩායම විසින් නිර්මාණය කරනු ලබන නව සන්ධානයේ මහලේකම්වරයා ලෙස අමාත්‍ය රමේෂ් පතිරණ මහතා පත්වනු ඇති බව වාර්තා වෙයි.
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා සඳහන් කළේ මහලේකම්වරයා ලෙස අමාත්‍ය රමේෂ් පතිරණ මහතාගේ නම යෝජනා කළ බවය.
+
+හෙට (14) දිනයේදී නව සන්ධානය එළිදැක්වීමට නියමිත බව අද (13) පෙරවරුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/0ed3e2e5.json)
+
+---
 
 ### Sri Lanka appoint Ian Bell as batting coach for England tour
 
@@ -48,23 +64,31 @@ The former England batsman has played in 118 test matches and scored 7,727 runs 
 
 [Data](articles/7b4ab385.json)
 
+[Extended Data](ext_articles/7b4ab385.ext.json)
+
 ---
 
-### නීතිවිරෝධි ලෙස රැගෙන ආ රන් බිස්කට් අත්අඩංගුවට
+### Gold biscuits arrested for illegal
 
 *2024-08-13 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199896) · `si`
 
-නීතිවිරෝධි ලෙස මෙරටට රැගෙන ආ හාර කෝටි හතලිස් ලක්ෂයක් වටිනා රන් බිස්කට් 16ක් රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් සිය භාරයට ගෙන තිබේ.
+Customs officials in Sri Lanka have arrested a businessman for attempting to smuggle 32 gold biscuits worth 16 crore rupees from Dubai to Katunayake. The arrest occurred after the businessman tried to leave the country without declaring the items. Further investigations are ongoing at the Katunayake airport.
 
-අද (13) උදෑසන කටුනායක ගුවන්තොටුපොළට ඩුබායි සිට මෙරටට පැමිණි ගාල්ල ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් මෙම රන් බිස්කට් රැගෙන විත් තිබුණි.
+🟩
 
-ඔහු මෙම රන් බිස්කට් 08 බැගින් වූ පාර්සල් 02ක් ලෙස සකස් කර ඔහු විසින් රැගෙන ආ පැති බෑගයක සහ ගුවන්තොටුපොළ ගමන් මලු රැගෙන යාමට ඇති ට්‍රොලියක යට අලවා ගුවන්තොටුපොළින් පිටත් කිරීමට සූදානම් වී තිබුණි.
+The Customs Drug Administration Division has taken 16 biscuits of the Customs Drug Administration and 16 crores were brought to Sri Lanka.
 
-මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු කටුනායක ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් සිදු කරයි.
+The gold biscuits were taken by a businessman in Galle from Dubai to Katunayake to Katunayake this morning.
+
+He was prepared to depart to two parcels of the gold biscuits and was pasted to depart from a transit and carrying airport bags.
+
+Katunayake airport customs officials are conducting further investigations.
 
 ◼️
 
 [Data](articles/740b177e.json)
+
+[Extended Data](ext_articles/740b177e.ext.json)
 
 ---
 
@@ -124,37 +148,49 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 
 ---
 
-### මහ වැස්ස නිසා පොල්ගොල්ල ජලාශයේ වාන් දොරටු විවෘත කෙරේ
+### Sluice gates of the Polgolla Reservoir opens due to Maha rains
 
 *2024-08-13 16:56:29* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැස්ස-නිසා-පොල්ගොල්ල-ජලාශයේ-වාන්-දොරටු-විවෘත-කෙරේ/11-411351) · `si`
 
-මහනුවර අවට ප්‍රදේශවලට අද (13) පස්වරුවේ ඇද හැලුන  අධික වර්ෂාව නිසා පොල්ගොල්ල මහවැලි ජලාශයේ වාන් දොරටු තුනක්  විවෘත කළ  බව වේල්ල භාර ඉංජිනේරු කාර්යාලය  සඳහන් කළේය.
+Due to heavy rains in Kandy, three sluice gates of the Polgolla Dam have been opened, releasing water into the Mahaweli River. This action affects users of the river downstream, including those near the Victoria Reservoir, advising caution.
 
-ඒ අනුව පොල්ගොල්ල වේල්ලේ වාන් දොරටු   තුනක්,  අඩි (3') බැගින් ඉහළට ඔසවා ඇති අතර මේ හේතුවෙන් ජලාශය පහළට මහවැලි ගඟට තත්පරයට ඝණ අඩි 7400 ක පමණ ජල ප්‍රමාණයක් නිකුත්කරන බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය.
+🟩
 
-මේ හේතුවෙන් පවතින වර්ෂාව අනුව දොරටු විවෘත කරන බැවින් පොල්ගොල්ල වේල්ලට පහළින් වික්ටෝරියා ජලාශය දක්වා  මහවැලි ගඟ භාවිතා කරන ජනතාව අවධානයෙන් සිටිය යුතු බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය
+The dam in the Mahaweli Reservoir of Polgolla has opened three sluice gates of the Anuradhapura Mahaweli reservoir due to heavy rains in Kandy.
+
+Accordingly, three sluice gates of Polgolla Dam (3), the reservoir, the reservoir will be released to the Mahaweli River.
+
+As a result the gates will be opened, the people who use the Mahaweli River to the Victoria Reservoir should be attentive as the gates are opened as the gates will be opened.
 
 ◼️
 
 [Data](articles/0b261f81.json)
 
+[Extended Data](ext_articles/0b261f81.ext.json)
+
 ---
 
-### පින්නවල හා කිතුල්ගල සංචාරක තීරයක්
+### Pinnawala and Kitulgala tourist
 
 *2024-08-13 16:46:04* · [`adalk`](https://www.ada.lk/breaking_news/පින්නවල-හා-කිතුල්ගල-සංචාරක-තීරයක්/11-411350) · `si`
 
-පින්නවල කිතුල්ගල සංචාරක තීරය සංවර්ධනය කිරීමේ වැඩසටහනට අදාලව හඳුනාගෙන ඇති ව්‍යාපෘති ක්‍රියාත්මක කිරීම පිණිස ප්‍රසන්න රණතුංග අමාත්‍යවරයා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවූ බව ප්‍රවාහන මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+The government has approved a project to develop Pinnawala and Kitulgala as major tourist zones, aiming to boost tourism and attract about 34% of tourists to the Pinnawala Elephant Orphanage.
 
-කැබිනට් ප්‍රකාශකවරයා මේ බව පැවසුවේ අද (13) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+🟩
 
-පින්නවලත් කිතුල්ගල සංචාරක කලාපයත් ආවරණය වන පරිදි සංචාරක කලාපයක් ඉදිකිරීමට 2024 අයවැය යෝජනාවකින් ඉදිරිපත් කළ බවද ඒ සඳහා සංචාරක සහ ඉඩම් අමාත්‍යංශය වෙත රුපියල් මිලියන 750ක ප්‍රතිපාදන වෙන්කර ඇතැයිද අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media Cabinet says that the cabinet paper was submitted to the Developing Projects in the Development of Pinnawala Kitulgala.
 
-මෙරටට පැමිණෙන සංචාරකයින්ගෙන් 34%ක් පමණ පින්නවල අලි සුරතල් බැලීමට යන බවද අමාත්‍යවරයා සඳහන් කළේය.
+The Cabinet spokesman made this statement at a press briefing in the Government Information Department today (13).
+
+The Minister further stated that the 2013 budget proposal was made to construct a tourist zone to cover a tourist zone to cover the tournament of Pinnawala.
+
+About 34% of tourist arrivals will visit Pinnawala Elephant Peet, Minister said.
 
 ◼️
 
 [Data](articles/1f2373cf.json)
+
+[Extended Data](ext_articles/1f2373cf.ext.json)
 
 ---
 
@@ -926,21 +962,29 @@ According to the recommendation of the report, the President has approved the pr
 
 ---
 
-### දියණියගේ රූපලාවන්‍යාගාරය විවෘත කිරිමට පැමිණි මව පඩිපෙළින් වැටි මරුට
+### Mother who arrived at the opening of daughter's beauty salon dies
 
 *2024-08-13 12:39:44* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-රූපලාවන්‍යාගාරය-විවෘත-කිරිමට-පැමිණි-මව-පඩිපෙළින්-වැටි-මරුට/11-411345) · `si`
 
-සිය දියණියගේ රූපලාවන්‍යාගාරය විවෘත කිරීමේ අවස්ථාවට පැමිණ සිටියදී පියගැට පෙළෙන් පය ලෙස ඇද වැටී තුවාල ලැබූ මව ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+A mother died after falling from the second floor of her daughter's beauty salon during its opening ceremony. She was taken to Homagama Base Hospital but succumbed to her injuries. Identified as 78-year-old Weerasinghe Pathirana, she lived at Sitamulla No. 120. Her husband also suffered a head injury in the incident and was hospitalized. The body was handled by Death Superintendent Pathyaka Udaya Kumara and Dr. Damith Attanayake, with an autopsy concluding the cause of death.
 
-මෙසේ මිය ගොස් ඇත්තේ පිළියන්දල සිද්ධමුල්ල අංක 120 හි පදිංචි වීරසිංහ පතිරණගේ නන්දාවතී නමැති (78) හැවිරිදි කාන්තාවක බව පොලිසිය කියයි.
+🟩
 
-මෙම කාන්තාව හෝමාගම නගර මධ්‍යයේ තෙමහල් ගොඩනැගිල්ලක දෙවන මහලේ සිය දියණිය විසින් විවෘත කිරීමට නියමිතව තිබූ රූපලාවණ්‍යාගාරයට පැමිණ සිටියදී දෙවන මහලේ සිට පළමු මහලට බැස යාම සදහා ඉදි කර තිබූ පියගැට පෙලෙන් බිමට බැස යාමට සූදානම් වෙද්දී පය ලෙස්සා අඩි හතරක් පමණ පහලට ඇද වැටී අනතුරකට ලක්ව තිබුණි.
+The mother was rushed to the Homagama Base Hospital for treatment at the Homagama Base Hospital for treatment, the mother was injured in the hospital.
 
-අනතුරින් ඇයගේ හිසට බරපතල තුවාල සිදුව බිම වැටී සිටියදී ඒ බව දුටු සැමියා ක්ෂණිකව ක්‍රියාත්මක වී පැමිණ සිටි පිරිසගේ සහායෙන් ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කොට ඇති අතර එහි ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මියගොස් තිබේ.
+The deceased has been identified as Weerasinghe Pathirana (78), a resident of Sitamulla No. 120, police said.
+
+The woman was in the second floor of the second floor of the second floor of the second floor of Homagama, the foot of the second floor was ready to go down to the first floor and had fallen into the ground and had fallen into the ground.
+
+The husband had admitted to the Homagama Base Hospital with the assistance of the victims of his head in the accident. The deceased has been identified as receiving treatment.
+
+The mobilization of the remains of the remains of the remains were carried out by the Death Death Superintendent Pathyaka Udaya Kumara (12) by Dr. Damith Attanayake.
 
 ...
 
 [Data](articles/b4bd7990.json)
+
+[Extended Data](ext_articles/b4bd7990.ext.json)
 
 ---
 
@@ -2173,29 +2217,5 @@ Some parts of the Western, Sabaragamuwa, Central, Southern and Northwestern prov
 [Data](articles/7ff0c6ee.json)
 
 [Extended Data](ext_articles/7ff0c6ee.ext.json)
-
----
-
-### One person arrested with drugs brought from Colombo to Mahiyangana for sale
-
-*2024-08-13 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/190957) · `ta`
-
-A 34-year-old man was arrested in Mahiyanganaya for possessing 100 tablets and 125mg of heroin, intended for sale. The arrest followed a raid based on tip-off about drug trafficking from Colombo. Police plan to present him before the Mahiyangana Magistrate's Court.
-
-🟩
-
-A suspect was arrested on Monday afternoon with 100 drugs and 125 milligrams of heroin brought for sale to the Mahiyanganaya area, police said.
-
-A 34 -year -old man from Tehikolala Mahiyanganaya area has been arrested, police said.
-
-Police said that the suspect was seized from the suspect during a raid on the basis of confidential information available to the police that the suspect was bringing drugs from Colombo and selling drugs in Mahiyanganaya areas.
-
-Police said that steps are being taken to bring the suspect to the Mahiyangana Magistrate's Court.
-
-◼️
-
-[Data](articles/325afeaa.json)
-
-[Extended Data](ext_articles/325afeaa.ext.json)
 
 ---

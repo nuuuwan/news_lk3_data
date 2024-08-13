@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 12:36:27**
+As of **2024-08-13 12:54:57**
 
 ## Newspaper Stats
 
-*Scraped **40,457** Articles*
+*Scraped **40,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
-adalk | 3,714
-adaderanalk | 4,713
+adalk | 3,716
+adaderanalk | 4,714
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,146
+tamilmirrorlk | 5,149
 virakesarilk | 6,405
 adaderanasinhalalk | 6,882
 
@@ -26,29 +26,97 @@ adaderanasinhalalk | 6,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,454 (100.0%) of 40,457 articles have been extended.
+40,457 (100.0%) of 40,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### 13 வயதில் பரதநாட்டிய அரங்கேற்றம்: சீன சிறுமி சாதனை
+### நுவான் போபகேவுக்காண கட்டுப்பணம் செலுத்தபட்டது
+
+*2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவான்-போபகேவுக்காண-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
+
+மக்கள் போராட்டக் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகேவுக்காண கட்டுப்பணம்  வைப்பிலிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/04db6654.json)
+
+---
+
+### நீர்க்கட்டணத்தில் திருத்தம்
+
+*2024-08-13 12:32:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்க்கட்டணத்தில்-திருத்தம்/175-342093) · `ta`
+
+தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தற்போதுள்ள நீர்க்கட்டணங்கள் 2023.08.01 அன்று தொடக்கம் நடைமுறைப்படுத்தப்படுகின்றது. குறித்த கட்டணங்களை மீளாய்வு செய்வதற்கான கட்டணக் கொள்கை மற்றும் சூத்திரத்தை அமுல்படுத்துவதற்காக 2024.07.15 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+2024.07.16 ஆம் திகதியிலிருந்து இலங்கை மின்சார சபை மின்சாரக் கட்டணத்தை குறைத்துள்ளமையாலும், எரிபொருள், இரசாயனப் பதார்த்தங்கள் மற்றும் வட்டிக் கிரயம் போன்றவற்றின் கிரயம் குறைவடைந்திருப்பதைக் கருத்திலெடுத்து, நீர்க்கட்டணத்தை ஓரளவ வீதத்தில் குறைப்பதற்கான இயலுமை காணப்படுகின்றது. அதற்கமைய, பின்வரும் வகையில் நீர்க்கட்டணங்களைத் திருத்தம் செய்வதற்காக நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+சமுர்த்திப் பயனாளிகள் மற்றும் நகர்ப்புற தோட்ட வீடுகள் தவிர்ந்த வீட்டு அலகுகளுக்கு 7 வீதமும் அரச மருத்துவமனைகளுக்கு 4.5 சதவீதமும் பாடசாலைகள் மற்றும் வணக்கத் தலங்களுக்கு 6.3 சதவீதமும் குறைக்கப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/376efd0a.json)
+
+---
+
+### தேர்தல் செலவுகள் ஒதுக்கீட்டைத் தாண்டுமா?
+
+*2024-08-13 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-ஒதுக்கீட்டைத்-தாண்டுமா/175-342092) · `ta`
+
+ஜனாதிபதித் தேர்தல் வேட்பாளர்களின் எண்ணிக்கை தற்போது 30ஐ எட்டியுள்ள போதிலும், எதிர்வரும் ஜனாதிபதித் தேர்தலை 10 பில்லியன் ரூபா ஒதுக்கீட்டிற்குள் நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு முயற்சித்து வருவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+டெய்லி மிரருக்குப் பேட்டியளித்த ரத்நாயக்க, “ஒதுக்கீடு செய்யப்பட்ட நிதி போதுமானதாக இருக்குமா என்று இப்போதே கணிப்பது கடினமாகும். இருப்பினும், நிதி போதுமானதாக இல்லை என்றால், கூடுதல் நிதியைக் கோர வேண்டிய கட்டாயத்தில் உள்ளோம்.
+
+இதற்கிடையில், பெரும்பாலான சாமான்யர்கள் தமது தேர்தல்  முடிவுகள் தெரிந்தும் தேர்தலில் போட்டியிடுவதால் அதிகரித்துள்ள வேட்பாளர்கள் எண்ணிக்கை குறித்து தேர்தல் ஆணைக்குழு கவலை தெரிவித்துள்ளது.
+
+தற்போதைய விதிமுறைகளின்படி, வேட்பாளர்களின் எண்ணிக்கையை ஆணைக்குழுவால் கட்டுப்படுத்த முடியவில்லை, ஆனால் எதிர்கால தேர்தல்களின் போது இந்த சிக்கல் குறித்து பரிசீலிக்கவுள்ளாதாக அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/5a9003c9.json)
+
+---
+
+### Cabinet approval to reduce water tariffs
+
+*2024-08-13 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/101200/cabinet-approval-to-reduce-water-tariffs-) · `en`
+
+The Cabinet of Ministers has granted approval for the National Water Supply and Drainage Board (NWSDB) to reduce the water tariffs based on the tariff formula.
+
+Accordingly, the water tariff of domestic users is to be reduced by 7%, government hospitals by 4.5%, schools and religious places of worship by 6.3%.
+
+The Cabinet Spokesman, Minister Bandula Gunawardana stated that the decision was taken according to the agreement reached with the International Monetary Fund (IMF).
+
+◼️
+
+[Data](articles/eb99c9b9.json)
+
+---
+
+### Bharatanatyam Station at the age of 13: Chinese little girl's achievement
 
 *2024-08-13 12:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயதில்-பரதநாட்டிய-அரங்கேற்றம்-சீன-சிறுமி-சாதனை/175-342090) · `ta`
 
-சீனாவில் 13 வயதான லீ முசி என்ற சிறுமி பரதநாட்டிய கலையில் அரங்கேற்றம் புரிந்து சாதனை படைத்துள்ளார்.
+A 13-year-old Chinese girl, Lee Musi, has made history by becoming the first to learn Bharatanatyam, a traditional South Indian dance form, under a renowned guru in China. After training for over a decade, she recently performed, impressing both Indian and Chinese audiences. Her journey, supported by her teacher Jin Shan, who debuted in Delhi in 1999, showcases how Bharatanatyam has transcended cultural boundaries, inspiring a deeper appreciation for Indian culture among non-Indians.
 
-தென்னிந்தியாவின் பாரம்பரிய நடனக் கலையான பரதநாட்டியத்தை சீனாவில் அந்த நாட்டின் குருவிடம் பயின்று, அங்கேயே அரங்கேற்றம் செய்த முதல் நபர் என அவர் அறியப்படுகிறார்.
+🟩
 
-அண்மையில் நடந்த இந்த அரங்கேற்ற நிகழ்வில் பிரபல பரதநாட்டிய நடன கலைஞர் லீலா சாம்சன் மற்றும் இந்திய பிரதிநிதிகள் சிலர் பங்கேற்றனர். இந்த நிகழ்வை திரளான சீனர்களும் பார்த்து ரசித்தனர். இந்த நிகழ்வு வரலாற்று சிறப்பு மிக்கதாக பார்க்கப்படுகிறது.
+13 -year -old Lee Musi, a 13 -year -old girl in China, has achieved the stage for the art of Bharatanaty.
 
-சுமார் 10 ஆண்டு காலமாக பரத கலையில் பயிற்சி பெற்று வந்துள்ளார் லீ முசி. அவருக்கு சீனாவின் ஜின் ஷான் என்ற பரத கலைஞர் பயிற்சி கொடுத்துள்ளார்.
+He is known to be the first person to attend the guru of the country in China, the traditional dance art of South India.
 
-கடந்த 1999-ல் டெல்லியில் ஜின், அரங்கேற்றம் செய்திருந்தார். “வார இறுதி நாட்களில் லீ, எங்கள் வீட்டுக்கே வந்து பயிற்சி பெற்றார். அவரது இந்த அரங்கேற்றத்தை பார்க்கும் போது மன நிறைவு எனக்கு ஏற்பட்டது. எங்கள் இருவரையும் ஒருவகையில் நெருங்க செய்தது இந்த கலைதான்” என ஜின் தெரிவித்தார்.
+The recent event was attended by famous Bharatanatyam dancer Leela Samson and some Indian representatives participated in the event.. A large number of Chinese also enjoyed this event. This phenomenon is seen as historic specialty.
+
+Lee Musi has been training in Bharata for about 10 years. He has been trained by a Paratha artist in China's Jin Shan.
+
+In 1999, Jin made the debut in Delhi. “On the weekends, Lee came to our home and trained. I was satisfied when I saw this stage of his. It was this art that made the two of us close, ”Jin said.
 
 ...
 
 [Data](articles/66f5727d.json)
+
+[Extended Data](ext_articles/66f5727d.ext.json)
 
 ---
 
@@ -64,23 +132,47 @@ The deposit was made at the Election Commission this morning (13) by Dharmasiri 
 
 [Data](articles/9b79672e.json)
 
+[Extended Data](ext_articles/9b79672e.ext.json)
+
 ---
 
-### ரூ.1,000 மில்லியன் நட்டஈடு கோருகிறார் விமல்
+### Wimal demanding a compensation of Rs 1,000 million
 
 *2024-08-13 12:08:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000-மில்லியன்-நட்டஈடு-கோருகிறார்-விமல்/175-342089) · `ta`
 
-பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தனது நற்பெயருக்கு ஏற்பட்ட களங்கத்திற்காக 1,000 மில்லியன் ரூபா நட்டஈடு கோரி குடிவரவு மற்றும் குடியகல்வு அதிகாரிகள் இருவருக்கு எதிராக கொழும்பு மாவட்ட நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்துள்ளார்.
+Parliamentarian Wimal Weerawansa sued two immigration officials for Rs 1 billion, claiming his arrest and trial without a proper investigation damaged his reputation. He alleges wrongful detention and unfair treatment upon arrival at the airport in 2015, seeking substantial compensation.
 
-கடந்த நல்லாட்சி அரசாங்கத்தின் போது காரணமின்றி குடிவரவு குடியகல்வு சட்டத்தின் தான் கீழ் கைது செய்யப்பட்டதாகவும், நீர்கொழும்பு நீதவான் நீதிமன்றில் தனக்கெதிராக வழக்குத் தாக்கல் செய்து தனது நற்பெயருக்கு களங்கம் ஏற்படுத்தியதாகவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-மனுவில் குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தின் அதிகாரிகள் இருவர் மற்றும் சட்டமா அதிபர் ஆகியோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+Parliamentarian Wimal Weerawansa has filed a case in the Colombo District Court against two immigration and immigration officials demanding a compensation of Rs 1,000 million for the stigma of his reputation.
 
-2015 ஆம் ஆண்டு ஒக்டோபர் மாதம் 23 ஆம் திகதி  வெளிநாடுகளில் நடைபெறவிருந்த மாநாடுகளில் பங்கேற்பதற்காக டுபாய் செல்வதற்காக கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்ததாக குறித்த மனுவின் மூலம் பாராளுமன்ற உறுப்பினர் சுட்டிக்காட்டியுள்ளார்.
+He said that during the last good government, he was arrested under the Immigration and Emigration Act and that the Negombo Magistrate's Court had filed a lawsuit against him.
+
+Two officials of the Department of Immigration and Emigration and the Attorney General were referred to as defendants.
+
+The Member of Parliament pointed out that the Katunayake airport had arrived at the Katunayake airport to attend Dubai to attend the conferences to be held overseas on October 23, 2015.
+
+On October 23, 2015, Wimal Weerawansa arrived at the Bandaranaike International Airport to attend Dubai to attend overseas conferences.
+
+He said that he had issued a diplomatic passport and that the immigration and immigration authorities had verified it and declared it a passport.
 
 ...
 
 [Data](articles/4f999ae3.json)
+
+[Extended Data](ext_articles/4f999ae3.ext.json)
+
+---
+
+### දිලිත් ජයවීරත් ඇප තියයි
+
+*2024-08-13 12:08:13* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරත්-ඇප-තියයි/11-411342) · `si`
+
+සර්වජන බලයේ ජනාධිපතිවරණ අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා වෙනුවෙන් අද(13දා) ඇප තැන්පත් කර ති​බේ.
+
+◼️
+
+[Data](articles/3c93b096.json)
 
 ---
 
@@ -657,6 +749,22 @@ Political parties and MPs are publicly promising their support for a candidate. 
 [Data](articles/f27aabe1.json)
 
 [Extended Data](ext_articles/f27aabe1.ext.json)
+
+---
+
+### ඉන්දු - ශ්‍රී ලංකා මගී ප්‍රවාහන යාත්‍රා සේවය 16දා අරඹයි
+
+*2024-08-13 09:44:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ශ්‍රී-ලංකා-මගී-ප්‍රවාහන-යාත්‍රා-සේවය-16දා-අරඹයි/11-411338) · `si`
+
+ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබු මගී යාත්‍රා සේවය ලබන සිකුරාදා දිනයේදී සිට ක්‍රියාත්මක කිරිමට සැලසුම් කර තිබේ.
+
+පුද්ගලික සමාගමක් (IndSri Ferry Services Private Limited) විසින් මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර ඊයේ මධ්‍යම රාත්‍රි සිට මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමේ අවස්ථාව ද ලබාදී තිබේ.
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මෙම මගී යාත්‍රා සේවය මීට පෙර මැයි මාසයේදි ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණ ද විවිධ හේතු නිසා එය කල්දමනු ලැබීය.
+
+◼️
+
+[Data](articles/b7334440.json)
 
 ---
 
@@ -2135,135 +2243,5 @@ In my opinion, this book will assist readers in finding answers to some fundamen
 [Data](articles/eb4ae53f.json)
 
 [Extended Data](ext_articles/eb4ae53f.ext.json)
-
----
-
-### Sri Lanka’s make-or-break moment; the leadership Sri Lanka needs
-
-*2024-08-12 20:28:06* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-make-or-break-moment-the-leadership-Sri-Lanka-needs/4-765442) · `en`
-
-The leadership Sri Lanka needs for a resilient future to propel the nation forward
-
-As Sri Lanka emerges from an unprecedented economic crisis that has shaken the foundations of its society, the nation stands at a pivotal crossroads. The upcoming Presidential election on 21 September, presents an opportunity for transformative leadership capable of steering the country toward economic recovery, social equity, and sustainable development. The next president must possess not only a clear vision but also the pragmatic skills necessary to navigate the complex challenges ahead.
-
-...
-
-[Data](articles/b9934c3a.json)
-
-[Extended Data](ext_articles/b9934c3a.ext.json)
-
----
-
-### South Africa, which ended without success after 28 successive results. Islands test
-
-*2024-08-12 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/190943) · `ta`
-
-In a rain-affected Test cricket match at Trinidad and Port of Spain Stadium, South Africa and the West Indies ended without a clear winner. The series concluded with 28 Tests from July 2023 to July 2024, where South Africa set a target of 298 runs for the West Indies in the final innings. Despite losing their last six wickets quickly in the first innings, the West Indies managed 92 runs in the second innings but couldn't reach the target due to time constraints. Both teams' positions in the ICC World Test Championships remained unchanged, with South Africa at 26.67% and the West Indies at 20.83%.
-
-🟩
-
-The first Test cricket match affected by the rain at the Trinidad and Port of Spain Stadium between South Africa and the West Indies ended without success.
-
-The tournament ended in 28 Tests from July 2023 to July this year.
-
-South Africa set a target of 298 runs in the last innings of the West Indies on the last day of the match.
-
-The West Indies were aimed at how to deal with 63 overs, rather than the winning target of 298 runs.
-
-This is because in the first innings, the West Indies lost its last 6 wickets in 16.1 overs by 60 runs.
-
-However, with the help of 92 runs in the second innings, the leader of the two teams decided to end the match when the West Indies lost 5 wickets in 56.2 overs.
-
-The two teams are in the same position as the ICC World Test Championships ended in the face of the World Test Championships.
-
-South Africa continued to rank 26.67 percent with 16 points and the West Indies continued at 9th with 20.83 per cent.
-
-...
-
-[Data](articles/444e23e9.json)
-
-[Extended Data](ext_articles/444e23e9.ext.json)
-
----
-
-### Quest for system change paralysed by our metathesiophobia
-
-*2024-08-12 20:16:35* · [`dailyftlk`](https://www.ft.lk/columns/Quest-for-system-change-paralysed-by-our-metathesiophobia/4-765439) · `en`
-
-If we are to thrive, as a nation, in this dynamic landscape, we must adopt a mindset that is not fearful of change
-
-As we prepare to vote in the 9th Executive President of Sri Lanka, let us recognise some hard truths. Sri Lanka has very little to show after 76 years of independence. Selfish, sleazy, sly, corrupt and unaccountable leaders and their Governments have, through their policies, actions, and inactions, over the past several years, led the country into various political and economic crises ranging from ethnic conflicts including a 30-year-long civil war, insurrections, constitutional uprisings, race-based riots, ‘Easter bombings’ to economic collapse, social discord and bankruptcy. Bribery and corruption pervade every nook and corner of the system. It has been the scourge of our society particularly in the past half century
-
-...
-
-[Data](articles/d5a8febb.json)
-
-[Extended Data](ext_articles/d5a8febb.ext.json)
-
----
-
-### Speaker endorses certificate on Economic Transformation Bill
-
-*2024-08-12 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101186/speaker-endorses-certificate-on-economic-transformation-bill) · `en`
-
-The Speaker of Parliament Mahinda Yapa Abeywardana has endorsed the certificate on the Bill titled “Economic Transformation Bill” recently, the Parliamentary Communications Department said.
-
-The Bill with the objective of providing provisions for National Policy on Economic Transformation, was presented to Parliament on the 22 May 2024.
-
-On the 25 July 2024, the debate of the Second Reading for the Bill was held in Parliament, after which the Bill was passed in Parliament with amendments and without a vote.
-
-Accordingly, this Bill will be known as the Economic Transformation Act No. 45 of 2024, according to the Parliamentary Communications Department.
-
-◼️
-
-[Data](articles/a9f99397.json)
-
-[Extended Data](ext_articles/a9f99397.ext.json)
-
----
-
-### Plans to provide 200 Excise License?
-
-*2024-08-12 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199864) · `si`
-
-A complaint alleges plans to issue up to 200 new excise licenses before the presidential election, with the current President and Finance Minister linked to the Excise Department. The Liquor License Association has voiced concerns, highlighting recent issuance of six new licenses post-election announcement.
-
-🟩
-
-A complaint has been lodged with the Elections Commission that there is a plan to provide up to 200 Excise permits during the presidential election.
-
-The License License Association has lodged a complaint with the Election Commission today.
-
-Prasanna Vithanage, Vice President of the Liquor License Association, commented on the complaint
-
-"The present President and the Minister of Finance is the head of the Excise Department at the time of deposits as a candidate this time. We have received information that the Excise Department will continue to hand over more new Excise License. In addition, after the presidential election was announced, about 6 new licenses have been issued. "
-
-◼️
-
-[Data](articles/ce3514d6.json)
-
-[Extended Data](ext_articles/ce3514d6.ext.json)
-
----
-
-### CBK Collection unveiled at BCIS Knowledge Centre
-
-*2024-08-12 19:54:00* · [`islandlk`](http://island.lk/cbk-collection-unveiled-at-bcis-knowledge-centre/) · `en`
-
-The CBK Collection of the BCIS Knowledge Centre was officially unveiled on July 31 at the BCIS Library, Colombo. The simple inaugural ceremony was attended by the Chairperson of the Bandaranaike National Memorial Foundation (BNMF) and former President Chandrika Bandaranaike Kumaratunga, the Director General of the BNMF Manuja Kariyapperuma, the Executive Director of the BCIS, Prof. Gamini Keerawella and members of the BCIS Council of Management and Academic Affairs.
-
-• This generous subscription includes over 400 valuable resources such as books, magazines, reports and articles covering important subjects like international relations, political science, economics, law and history.
-
-Certified Management Accountants Australia marks Silver Jubilee in Sri Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a92e426f.json)
-
-[Extended Data](ext_articles/a92e426f.ext.json)
 
 ---

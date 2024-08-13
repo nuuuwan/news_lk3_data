@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 07:52:57**
+As of **2024-08-13 08:16:23**
 
 ## Newspaper Stats
 
-*Scraped **40,395** Articles*
+*Scraped **40,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,122 @@ colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,445
 dailyftlk | 2,604
-adalk | 3,709
+adalk | 3,710
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,128
+tamilmirrorlk | 5,129
 virakesarilk | 6,394
-adaderanasinhalalk | 6,866
+adaderanasinhalalk | 6,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,393 (100.0%) of 40,395 articles have been extended.
+40,395 (100.0%) of 40,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ඔයෙන් එගොඩ වීමට ගිය පුද්ගලයෙක් සැඩ පහරට හසුවෙයි
+
+*2024-08-13 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199874) · `si`
+
+නාල්ල, කීලම්පිටිය ප්‍රදේශයේදී මා ඔය හරහා එගොඩ වීමට ගිය පුද්ගලයෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, නාල්ල, දිවුල්දෙණිය ප්‍රදේශයේ පදිංචිව සිටි 35 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු තවත් පුද්ගලයෙකු සමග මා ඔය හරහා එගොඩ වීමට යාමේදී සැඩ පහරකට අසුවී ගසාගෙන ගොස් මෙලෙස දියේ ගිලී ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+මෘත ශරීරය වතුපිටිවල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ‍නාල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/d8b5de1a.json)
+
+---
+
+### අනුර තවත් විශේෂ හමුවක
+
+*2024-08-13 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199873) · `si`
+
+ආසියානු සංවර්ධන බැංකුවේ ශ්‍රී ලංකා නියෝජිත ටකාෆුමී කැඩෝනෝ මහතා ඇතුළු නියෝජිත පිරිසක් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+
+ඊයේ (12) පස්වරුවේ පැලවත්ත ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේ දී එම හමුව පවත්වා ඇති බව වාර්තා වේ.
+
+ආසියානු සංවර්ධන බැංකුව විසින් ශ්‍රී ලංකාව තුළ සිදුකරනු ලබන සංවර්ධන කටයුතු පිළිබඳව සමාලෝචනයක් එහිදී සිදුකර තිබේ.
+
+ඉදිරියට ද ශ්‍රී ලංකාවට ආධාර ලබාදීමට ආසියානු සංවර්ධන බැංකුව තුළ වන සූදානම පිළිබඳ එම නියෝජතයින් ජාතික ජන බලවේගය දැනුවත් කර ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/7a1f8019.json)
+
+---
+
+### සජිත්ගේ බලය වැඩිවෙයි ?
+
+*2024-08-13 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199872) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළකිරීම වෙනුවෙන් සමගි ජන සන්ධානයට තවත් දේශපාලන පක්ෂ 20කට ආසන්න ප්‍රමාණයක් අද (13) දිනයේ එක්වීමට නියමිතව තිබේ.
+
+සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුම බණ්ඩාර මහතා සඳහන් කළේ, මෙරට ඉතිහාසයේ වැඩිම පක්ෂවලින් සමන්විත සන්ධානය සමගි ජන සන්ධානය බවය.
+
+ඒ අනුව ඉදිරියේ දී ද තවත් පක්ෂ සහ කණ්ඩායම් සිය සන්ධානය සමඟ එක්වීමට නියමිත බව රංජිත් මද්දුම බණ්ඩාර මන්ත්‍රීවරයා සඳහන් කළේය.
+
+"පහුගිය 8 වෙනිදා මේ රටේ බිහිවුණ ශක්තිමත්ම සන්ධානයක් පිහිටවුවා. අපිත් සමග තවත් ක්‍රියාකාරී දේශපාලන පක්ෂ 20කට වැඩි ප්‍රමාණයක් සන්ධානගත වෙනවා. මේක දිගින් දිගටම සිදුවෙයි. ඉතිහාසයේ මේ රටේ ශක්තිමත්ම ආණ්ඩුව පිහිටුවන්න, ශක්තිමත්ම ජනාධිපතිවරයා පිහිටුවන්න මේ තුළින් අපිට අවකාශය ලැබෙනවා."
+
+◼️
+
+[Data](articles/c4308f57.json)
+
+---
+
+### ජනපතිගේ මංගල රැලිය අනුරපුරේ
+
+*2024-08-13 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199871) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජනාධිපතිවරණ මංගල රැලිය ලබන සෙනසුරාදා අනුරාධපුරයේ දී පැවැත්වීමට නියමිතව තිබේ.
+
+අනුරාධපුර සල්ගාදු පිටියේ දී එම ජනරැලිය පැවැත්වීමට නියමිත බව වාර්තා වේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරයාට සහාය පළකිරීමට එක් වූ කණ්ඩායම ඇතුළු මෙවර ජනාධිපතිවරයාට සහාය පළකරන පක්ෂ සහ කණ්ඩායම්වල නියෝජිතයින් මෙම රැලිය සඳහා සහභාගී වීමට නියමිතය.
+
+මේ අතර ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට සමගි ජනබලවේගයේ කටාන ආසන සංවිධායක ලෙස කටයුතු කළ හිටපු අමාත්‍ය විජිත් විජයමුණි සොයිසා මහතා එක්ව තිබේ.
+
+ඊයේ පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී නිල වශයෙන් විජිත් විජයමුණි සොයිසා මහතා ඒ පිළිබඳව දැනුම් දී ඇති බව වාර්තා වේ.
+
+මේ අතර උතුරු පළාත නියෝජනය කරන දෙමළ පක්ෂ නියෝජිතයින් සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර සාකච්ඡාවක් ඊයේ (12) පස්වරුවේ පවත්වා තිබේ.
+
+උතුරේ දෙමළ ජනතාවගේ ගැටලු සම්බන්ධයෙන් මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡා වී ඇති බව වාර්තා වේ.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීම වෙනුවෙන් නව සන්ධානය පිහිටුවීම ලබන 16 වන දින සිදුකිරීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/a7c1b67e.json)
+
+---
+
+### මරණයෙන් කෙළවර වූ ආරවුල
+
+*2024-08-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199870) · `si`
+
+ඇතිමලේ, කොටියාගල ප්‍රදේශයේදී පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (12) උදෑසන කාලයේදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, කම්මල්යාය, කොටියාගල ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු තවත් පුද්යෙකු සමග අති වූ පුද්ගලික ආරවුලක් හේතුවෙන් මෙම  ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් කොටියාගල ප්‍රදේශයේ පදිංචි අවුරුදු 27 හැවිරිදි සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/70cd45d5.json)
+
+---
 
 ### The bail is over tomorrow
 
@@ -166,6 +266,24 @@ Other IPE 2024 activities in Sri Lanka include a combined diving activity that w
 
 ---
 
+### யாழில் 156 கிலோ கஞ்சாவுடன் இருவர் கைது
+
+*2024-08-13 01:58:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-156-கிலோ-கஞ்சாவுடன்-இருவர்-கைது/175-342069) · `ta`
+
+யாழ்ப்பாணம், அரியாலைப் பகுதியில் 156 கிலோ கிராமுக்கும் மேற்பட்ட கேரள கஞ்சாவுடன் இரண்டு சந்தேகநபர்களைப் பொலிஸார் கைது செய்தனர்.
+
+இராணுவப் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த இரகசியத் தகவலையடுத்து மன்னார் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகள், இந்தியாவில் இருந்து கொண்டுவரப்பட்ட ஒரு தொகை கேரள கஞ்சாவை யாழ். அரியாலைப் பகுதியில் வைத்துக் கைப்பற்றினர்.
+
+அதனை வைத்திருந்தார்கள் என்ற குற்றச்சாட்டின் கீழ் யாழ்ப்பாணம் மற்றும் கிளிநொச்சி பகுதிகளைச் சேர்ந்த 39 மற்றும் 44 வயதுடைய இருவரே கைது செய்யப்பட்டனர்.
+
+அவர்களிடம் இருந்து 156 கிலோகிராமுக்கும் அதிகமான கேரள கஞ்சா பறிமுதல் செய்யப்பட்டது. (a)
+
+◼️
+
+[Data](articles/debbbc29.json)
+
+---
+
 ### Call for a democratic struggle
 
 *2024-08-13 01:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகப்-போராட்டத்துக்கு-அழைப்பு/175-342068) · `ta`
@@ -270,6 +388,8 @@ With little over a month before presidential elections are due, the speculations
 
 [Data](articles/97793861.json)
 
+[Extended Data](ext_articles/97793861.ext.json)
+
 ---
 
 ### Accusing of bribery
@@ -352,23 +472,31 @@ There were serious arguments on this. 11 people were voted in favor of 1,350 rup
 
 ---
 
-### ’தோட்ட தொழிலாளர்களை ஏமாற்றும் உடன்படிக்கை’
+### Covenant to deceive plantation workers
 
 *2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/150-342063) · `ta`
 
-சம்பள நிர்ணய சபையில் நடத்தப்பட்ட பேச்சுவார்த்தை வன்மையாக கண்டித்துள்ள அகில இலங்கை தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்னன் செல்வராஜ், இது தோட்டத் தொழிலாளர்களை ஏமாற்றும் சம்பள உடன்படிக்கையாகும் என்றும் தெரிவித்துள்ளார்.
+A meeting at the Salary Council discussed a proposed salary increase for plantation workers, offering Rs 1,350 plus a 350 rupee allowance. However, companies opposed immediate increases, arguing for a delay and reduction of the additional allowance. Despite opposition from several unions and individuals, the proposal passed with a majority vote. Critics, including Kidnan Selvaraj of the All Ceylon Plantation Workers Union, accuse parties involved of deception and betrayal towards workers' rights.
 
-தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது.
+🟩
 
-இந்தக் கூட்டத்தில் 10 தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனத்தின் ஊடகப் பேச்சாளர் ரொஷான் ராஜதுரை உள்ளிட்ட கம்பனிகளின் 07 பிரதிநிதிகளும், அரச அதிகாரிகள் 03 பேரும் கலந்துகொண்டனர்.
+Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, who has condemned the talks at the Salary Council, said it was a salary agreement to deceive the plantation workers.
 
-இதன்போது இலங்கை தொழிலாளர் காங்கிரஸ் மற்றும் ஐக்கிய தேசியக் கட்சியின் தொழிற்சங்கம் தேசிய தோட்டத் தொழிலாளர் சங்கம் தோட்டத் தொழிலாளர்களின் நாட்சம்பளத்தை அதிகரிப்பது தொடர்பான பிரேரணையை கொண்டுவந்தன.
+A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council.
 
-அதாவது, அந்தப் பிரேரணையில் தோட்டத் தொழிலாளர்களின் அடிப்படைச் சம்பளமாக 1,350 ரூபாய் வழங்க வேண்டும் என்று குறிப்பிடப்பட்டிருந்தது. அத்துடன், மேலதிக கொடுப்பனவாக 350 ரூபாய் வழங்க வேண்டும் என்றும் முன் வைக்கப்பட்டிருந்தது.
+The meeting was attended by 10 trade unions, three representatives of companies, including Media Spokesperson of the Employers Federation, Roshan Rajadurai and three state officials.
+
+The Ceylon Workers Congress and the United National Party (UNP) National Estate Workers Union issued a proposal on the increase in the plantation workers' union.
+
+That is, the proposal was to pay Rs 1,350 as the basic salary of plantation workers. It was also put forward to pay 350 rupees as additional allowance.
+
+In the meantime, the companies also made their 5 demands. Their first demand is, "Plantation workers should not carry out a salary increase for three years or any other action."That is.
 
 ...
 
 [Data](articles/327f755d.json)
+
+[Extended Data](ext_articles/327f755d.ext.json)
 
 ---
 
@@ -955,6 +1083,22 @@ I am obviously. I am ready to face any challenge regarding the issue of the prox
 [Data](articles/59d5cd40.json)
 
 [Extended Data](ext_articles/59d5cd40.ext.json)
+
+---
+
+### රිෂාඩ්ගේ පක්ෂයේ සහාය කාටද තීරණය 14දා
+
+*2024-08-12 19:06:31* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-සහාය-කාටද-තීරණය-14දා/11-411333) · `si`
+
+රිෂාඩ් බද්යුදින්  මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය මෙවර ජනාධිපතිවරණයේදි සහාය පළ කරන්නේ කාටද යන්න 14 දා ප්‍රකාශයට පත් කරන බව එම කොංග්‍රසය ජාතික සංවිධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී මොහොමඩ් අබ්දුල්ලා මහරුප් මහතා පැවසීය.
+
+පක්ෂ නායක රිෂාඩ් බද්යුදින්  මහතාගේ නායකත්වයෙන් 14දා පස්වරුවේ  කොළඹ පක්ෂ මූලස්ථානයට රැස්වන උත්තරීතර මණ්ඩලය සමග සාකච්ඡා කර මෙම තීරණය දැනුම් දෙන බව ජාතික සංවිධායකවරයා පෙන්වා දුන්නේය.
+
+දිස්ත්‍රික් මට්ටමේ මේ දිනවල පැවැත්වෙන පක්ෂ දිසා සමුළුවලදී පාක්ෂිකයන්ගේ මතයටද කන් දෙමින් සිටින බවද කීහ.
+
+◼️
+
+[Data](articles/cf046365.json)
 
 ---
 
@@ -2087,165 +2231,5 @@ The advisory said that thundershowers accompanied by severe lightning are likely
 [Data](articles/818ab3c7.json)
 
 [Extended Data](ext_articles/818ab3c7.ext.json)
-
----
-
-### ICC athletes in July
-
-*2024-08-12 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199853) · `si`
-
-In July, ICC named Chamari, the captain of the Sri Lanka women's cricket team, as its Player of the Month. This recognition comes after her team won the Asian Trophy for the first time, marking a significant achievement for Chamari, who is 34 years old. This is her third such honor, following previous wins by the West Indies team (three times) and Australia's Associate Gardner (four times).
-
-🟩
-
-The International Cricket Council (IU) announced that Chamari, captain Chamari selected as the International Cricket Council in July, was selected.
-
-Indian players, Minister of Sinhalese, Sungia Paradesha and Shfali Werma gave her a strong match.
-
-Last month, the Sri Lanka women's team won the Asian Trophy for the first time and made a huge contributor to Chamari.
-
-Chamari, who was 34, was the third occasion that won the award.
-
-The West Indies team has won the award three times and Australia's Associate Gardner won the year four times.
-
-◼️
-
-[Data](articles/534d50d4.json)
-
-[Extended Data](ext_articles/534d50d4.ext.json)
-
----
-
-### Elections Commission tells the election commission that two seats were empty
-
-*2024-08-12 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199852) · `si`
-
-The Parliament notified the Elections Commission about two vacant parliamentary seats. The Acting Chief Secretary, Chaminda Kularatne, filled these vacancies for the 9th parliamentary seat in the Galle District, previously held by MP Harin Fernando, focusing on reconciliation and the national list. This action aligns with Articles 64(1) and 64(5) of the Parliamentary Electorate Act, No. 1 of 1981.
-
-🟩
-
-The Parliament has informed the Elections Commission that two parliamentary seats have been vacant.
-
-Acting Chief Secretary Chaminda Kularatne has elected two seminaries of the 9th parliamentary seat by Galle District MP Harin Fernando, who represented the reconciliation, and the national list MP Harin Fernando.The Chairman of the House has been informed in writing.
-
-This was made in terms of Article 64 (1) and 64 (5) of the Parliamentary Electorate Act, No. 1 of 1981.
-
-◼️
-
-[Data](articles/3d2877f2.json)
-
-[Extended Data](ext_articles/3d2877f2.ext.json)
-
----
-
-### I am proud to be a hearing defective woman - the queen of the South African beauty
-
-*2024-08-12 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/190889) · `ta`
-
-Mia Lu Ruke, a 28-year-old with profound hearing loss, became the first deaf woman to win a beauty pageant in South Africa. Despite her disability, she achieved her dream and aims to inspire others with disabilities. She hopes to use her platform to advocate for the rights of the disabled.
-
-🟩
-
-For the first time, a woman with a deafening woman named Mia Lu Ruke has set a beauty queen in South Africa for the first time.
-
-I hope that those who are reserved in the community will help me achieve fanatic dreams like me. "I would like to help the disabled," Mia Lu Rukes said.
-
-28 -year -old Mia Lu Rukes was found to have a deep hearing impairment at an age. After that, the Cocilery electronic device in his ear was concerned.
-
-Also, two years of speech skills have been given to speak the first word.
-
-In this case, Mia Lu Ruke is currently the model and marketing manager.
-
-"I am proud that I am a South African hearing woman. I know what the pain is caused by being assigned. I now know that I am created on this planet to break the borders.I have done it tonight, ”he said.
-
-◼️
-
-[Data](articles/d6490ba8.json)
-
-[Extended Data](ext_articles/d6490ba8.ext.json)
-
----
-
-### Teacher's nude picture: two students arrested
-
-*2024-08-12 14:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையின்-நிர்வாண-படம்-மாணவர்கள்-இருவர்-கைது/76-342030) · `ta`
-
-Two 14-year-old students from Matale Vijaya Vidyalaya were arrested for posting a nude photo of a female teacher online, which she had accidentally sent while training them as dancers. The incident sparked outrage, leading to the teacher filing a complaint with the police.
-
-🟩
-
-Two 14 -year -old students from Matale Vijaya Vidyalaya have been arrested by police on charges of attaching a naked photo of a young woman teacher to the face of a teacher.
-
-A young woman who went to the Matale Vijaya Vidyalaya from the Mahaweli Education Faculty of Polgolla has uploaded a naked photo to the face of the face of a teacher.
-
-The young teacher was assigned to train the school as a dancer and her naked photo spread on social networks and lodged a complaint with the Matale police and investigated the incident and two 10th year students of the school were arrested on suspicion.
-
-◼️
-
-[Data](articles/64c94de2.json)
-
-[Extended Data](ext_articles/64c94de2.ext.json)
-
----
-
-### Chamari named ICC Women’s Player of the Month for July 2024
-
-*2024-08-12 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101173/chamari-named-icc-womens-player-of-the-month-for-july-2024) · `en`
-
-Sri Lanka’s talismanic skipper Chamari Athapaththu beat a hot field by overcoming India’s star openers, Smriti Mandhana and Shafali Verma, to win the ICC Women’s Player of the Month for July 2024.
-
-July was prolific for the southpaw, who secured new landmarks. Athapaththu led Sri Lanka to a maiden Women’s Asia Cup 2024 title over seven-time champions India during the month.
-
-This is the third ICC Women’s Player of the Month award for the 34-year-old, making her the joint second-most successful cricketer in the Women’s Player of the Month arena, tied at three awards with West Indies’ Hayley Matthews, sitting behind Australia’s Ashleigh Gardner (four wins).
-
-“I am happy and honored to have been chosen as the ICC Women’s Player of the Month’ for the third time and it is heartening to see such reckoning for the efforts of mine, achieved with the support of my teammates and coaches, being continuously recognised by the cricketing world,” she said.
-
-...
-
-[Data](articles/569cb315.json)
-
-[Extended Data](ext_articles/569cb315.ext.json)
-
----
-
-### Alert
-
-*2024-08-12 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலை-தொடர்பில்-வெளியான-எச்சரிக்கை/175-342029) · `ta`
-
-Heavy rains forecasted across several provinces, with over 100mm expected in Galle, Matara, and surrounding areas.
-
-🟩
-
-The Meteorological Department has warned that heavy rains are expected in some parts of the country.
-
-More than 100 millimeters of heavy rainfall in the Galle and Matara districts in the Western, Sabaragamuwa, Central and North Western Provinces.
-
-◼️
-
-[Data](articles/1774dd58.json)
-
-[Extended Data](ext_articles/1774dd58.ext.json)
-
----
-
-### Fire on MSC Capetown III doused at Sri Lanka’s Colombo port
-
-*2024-08-12 13:56:00* · [`economynextcom`](https://economynext.com/fire-on-msc-capetown-iii-doused-at-sri-lankas-colombo-port-176408/) · `en`
-
-ECONOMYNEXT – Firefighters at Colombo Port has put out a fire that suddenly broke out aboard the merchant vessel MSC CAPETOWN III, the Sri Lanka Ports Authority said.
-
-The fire broke out at 0030 hours on August 11, while the vessel was at the port’s Jaye Container Terminal.
-
-Shipping Minister Nimal Siripala de Silva has called for an investigation into the fire after commending staff for fighting the fire quickly, the statement said
-
-Chairman Sri Lanka Ports Authority, Keith Bernard was quoted as saying a comprehensive report on the incident would be prepared and the insurers would also would hold their own inquiries.
-
-The vessel was  scheduled  to unload 995 containers and load 880 containers at the port. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/6470a894.json)
-
-[Extended Data](ext_articles/6470a894.ext.json)
 
 ---

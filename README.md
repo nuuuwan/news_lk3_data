@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 19:06:43**
+As of **2024-08-13 19:21:30**
 
 ## Newspaper Stats
 
-*Scraped **40,542** Articles*
+*Scraped **40,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,68 @@ colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
-adalk | 3,727
+adalk | 3,728
 adaderanalk | 4,725
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,158
 virakesarilk | 6,421
-adaderanasinhalalk | 6,894
+adaderanasinhalalk | 6,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,540 (100.0%) of 40,542 articles have been extended.
+40,542 (100.0%) of 40,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
+### ඇප තැන්පත් කළ පිරිස 36 දක්වා ඉහළට
+
+*2024-08-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199900) · `si`
+
+මෙරව ජනාධිපතිවරණය සඳහා ඇප තැබූ පිරිස 36 දක්වා ඉහළ ගොස් තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව සඳහන් කර ඇත්තේ පිළිගත් දේශපාලන පක්ෂ 19ක් සහ  වෙනත් දේශපාලන පක්ෂ 01ක් මෙලෙස ඇප තැන්පත් කර ඇති බවයි.
+
+තවද ඡන්ද හිමියෙකු විසින් නාමයෝජනා කළ අපේක්ෂකයින් සංඛයාව 16ක් වන බවත් එම නිවේදනයේ සඳහන්.
+
+◼️
+
+[Data](articles/204e4160.json)
+
+---
+
 ### Gang rape of school girl: Principal, 2 teachers arrested for concealing incident
 
 *2024-08-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101211/gang-rape-of-school-girl-principal-2-teachers-arrested-for-concealing-incident) · `en`
 
-The principal and three teachers, including two female teachers, at a school in Thanamalwila have been arrested by police for allegedly concealing the incident of a 16-year-old girl who was gang raped and abused for a year by a group of students.
+The principal and three teachers, including two female teachers, at a school in Thanamalvila have been arrested by police for concealing the incident of a 16-year-old girl who was gang raped and abused for a year by students.
+
+They have been arrested today (13) by Thanamalvila Police and are accused of concealing the incident despite being aware of said information and not reporting it to the police.
+
+It was reported recently that some 17 schoolboys have been arrested on charges of having allegedly sexually abused and gang-raped a schoolgirl in Thanamalvila over the course of the last year.
 
 ◼️
 
 [Data](articles/b32f31af.json)
+
+[Extended Data](ext_articles/b32f31af.ext.json)
+
+---
+
+### දැරියකට සිදුකළ දූෂණය සැඟවූ විදුහල්පති ඇතුළු 03ක් අත්අඩංගුවට
+
+*2024-08-13 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199899) · `si`
+
+තණමල්විල පොලිස් වසමේ පාසල් දැරිය දූෂණයට අදාළව තොරතුරු දැනගෙන එම තොරතුරු පොලීසියට නොදී වසන් කෙරූ සැකකරුවන් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එම දැරිය අධ්‍යාපනය ලබමින් සිටි පාසලේ විදුහල්පතිවරයා සහ ගුරුවරයෙක් මෙන්ම ගුරුවරියන් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/78f569d3.json)
 
 ---
 
@@ -243,6 +279,24 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 [Data](articles/c80c6f69.json)
 
 [Extended Data](ext_articles/c80c6f69.ext.json)
+
+---
+
+### ජීවන වියදම් දීමනාව ලෙස රු. 25000ක් දෙන්න කැබිනට් අනුමැතිය
+
+*2024-08-13 16:58:19* · [`adalk`](https://www.ada.lk/breaking_news/ජීවන-වියදම්-දීමනාව-ලෙස-රු--25000ක්-දෙන්න-කැබිනට්-අනුමැතිය/11-411352) · `si`
+
+2025 පාදක වසර ලෙස සළකා ජීවන වියදම් දීමනා සඳහා සිදුකර ඇති විවිධ ගැලපීම් හා මේ වනවිටත් එක් කොට ඇති දීමනා සියල්ල ඒකාබද්ධ කොට සියලුම රජයේ සේවකයන් සඳහා සෑම වසර 03 කටම වරක් සංශෝධනය කිරීමට යටත්ව ජීවන වියදම් දීමනාව ලෙස මාසිකව රුපියල් 25000ක් ගෙවීමට මුදල්, ජාතික ප්‍රතිපත්ති සම්පාදක අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වී ඇති බව කැබිනට් ප්‍රකාශක, ප්‍රවාහන හා මහාමාර්ග, ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ අද (13) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවට එක් වෙමිනි.
+
+රාජ්‍ය සේවයේ අවම ආරම්භක මාසික වැටුප සියයට 24ක අවම ප්‍රතිශතයකින් වැඩි කොට, ජීවන වියදම් දීමනාව සමග දළ වැටුප රුපියල් 55,000ක් ලෙස ගෙන අනෙකුත් තනතුරු සඳහා මූලික වැටුප ඒ අනුව ගැලපීමට කටයුතු කරන බවද අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+එසේම ව්‍යාපරික, රාජ්‍ය සමාගම් හා බැංකු හැර අන් සියලුම රාජ්‍ය ආයතන සඳහා මෙම නව වැටුප් හා දීමනා ක්‍රමවේදය ක්‍රියාත්මක කෙරෙන බවද හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/97f0535e.json)
 
 ---
 
@@ -2155,63 +2209,5 @@ This reflects the greater ability of the head office to provide extraordinary su
 [Data](articles/63e6315b.json)
 
 [Extended Data](ext_articles/63e6315b.ext.json)
-
----
-
-### Plantation Labor Salary Rs. Up to 1350
-
-*2024-08-13 10:38:22* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-රු--1350ක්-දක්වා-ඉහළට/11-411340) · `si`
-
-Estate Companies Association plans to raise plantation workers' daily wages to boost productivity, aiming for a 25% increase to sustain Sri Lanka's tea industry. This move follows a Supreme Court decision supporting higher salaries for efficient workers.
-
-🟩
-
-According to the Estate Companies Association, a spokesman Roshan Rajadrehe said that the daily salaries of plantation workers would improve productivity.
-
-The daily salary of a plantation worker is increasing to Rs.Roshan Rajadora said that every year is Rs.
-
-Roshan Rajadree said that it was the intention of further maintaining the tea industry in Sri Lanka to increase the seller of plantation workers by 25%.
-
-If estate workers are working efficiently, the salary of the plantation workers will be paid to the proposal to increase the new salaries in the case of the Supreme Court in the forest increase of new salaries.He said.
-
-◼️
-
-[Data](articles/eb5f7543.json)
-
-[Extended Data](ext_articles/eb5f7543.ext.json)
-
----
-
-### Dilith Jayaweera’s “Entrepreneurial State”
-
-*2024-08-13 10:35:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dilith-jayaweeras-entrepreneurial-state/) · `en`
-
-Dilith Jayaweera who owns the Derana TV network, is a candidate for the presidential race. Rightfully he thought that must make his views known to the people. So, he put forward his election manifesto a few weeks ago. I am not interested on many things he mentioned in that document as many of them are just promises. But the very title of that manifesto is really interesting and must be analyzed, because such analysis might establish a fundamental methodological approach in analyzing manifestos of other key candidates when they are made public.
-
-...
-
-[Data](articles/71df69b5.json)
-
-[Extended Data](ext_articles/71df69b5.ext.json)
-
----
-
-### President's Wedding President Mahinda Rajapaksa rally
-
-*2024-08-13 10:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-මංගල-ජනපතිවරණ-රැළිය-අනුරපුරේදී/11-411339) · `si`
-
-A rally supporting President Ranil Wickremesinghe will be held on Saturday, featuring representatives from various parties and groups. This event aims to show solidarity with the President amidst ongoing political activities.
-
-🟩
-
-President Ranil Wickremesinghe will be held to ensure President Ranil Wickremesinghe this time President Ranil Wickremesinghe will be held on Saturday.
-
-Representatives of parties and groups, including the team, to support the President, will participate in this rally.
-
-◼️
-
-[Data](articles/75a6be06.json)
-
-[Extended Data](ext_articles/75a6be06.ext.json)
 
 ---

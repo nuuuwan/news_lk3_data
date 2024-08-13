@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 03:37:32**
+As of **2024-08-14 03:55:42**
 
 ## Newspaper Stats
 
-*Scraped **40,578** Articles*
+*Scraped **40,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,211 @@ bbccomsinhala | 378
 colombotelegraphcom | 389
 islandlk | 2,345
 economynextcom | 2,462
-dailyftlk | 2,614
+dailyftlk | 2,624
 adalk | 3,732
 adaderanalk | 4,729
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,164
-virakesarilk | 6,422
+virakesarilk | 6,425
 adaderanasinhalalk | 6,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,578 (100.0%) of 40,578 articles have been extended.
+40,578 (100.0%) of 40,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### AKD denounces political culture of crossovers and media manipulation
+
+*2024-08-14 03:26:14* · [`dailyftlk`](https://www.ft.lk/news/AKD-denounces-political-culture-of-crossovers-and-media-manipulation/56-765516) · `en`
+
+NPP Presidential candidate Anura Kumara Dissanayake expresses belief elections will not be free and fair but says party is determined to represent people in democratic manner
+
+Accuses some media organisations of promoting their preferred candidates ahead of elections
+
+Says those who continue to speak of 88/89 are not doing so with genuine intent but as an excuse to not support NPP
+
+On possible threats to his life, Dissanayake says such concerns being raised is proof SL indicates lack of democratic environment
+
+National People’s Power (NPP) Presidential candidate Anura Kumara Dissanayake has said while his party has employed a systematic and robust approach to election propaganda and public awareness, other parties have exploited the political culture of crossovers to advance their agendas.
+
+...
+
+[Data](articles/91c8cb98.json)
+
+---
+
+### Pro-RW Pohottuwa faction forms new alliance
+
+*2024-08-14 03:24:54* · [`dailyftlk`](https://www.ft.lk/news/Pro-RW-Pohottuwa-faction-forms-new-alliance/56-765515) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) MPs who have pledged their support to President Ranil Wickremesinghe have formed a new political alliance.
+
+The formation of the alliance was announced by State Minister Premitha Bandara Tennekoon yesterday. He also revealed that Minister Dr. Ramesh Pathirana will serve as the General Secretary of the new alliance.
+
+Addressing the media in Colombo, Tennekoon said that the goal is to form a broad alliance comprising a majority of MPs from the SLPP Parliamentary group. He announced that the work of the alliance will commence in the next few days.
+
+He noted that discussions had taken place and decisions were made regarding the office bearers. He also emphasised that the group is united and has no disagreements about the decisions that were made.
+
+...
+
+[Data](articles/69f9b190.json)
+
+---
+
+### 36 candidates place deposits for Presidential Election so far
+
+*2024-08-14 03:24:36* · [`dailyftlk`](https://www.ft.lk/news/36-candidates-place-deposits-for-Presidential-Election-so-far/56-765514) · `en`
+
+Thirty six candidates have placed cash deposits so far for the 2024 Presidential Election.
+
+The Elections Commission of Sri Lanka said the total includes 19 candidates representing recognised political parties, 16 independent candidates who have been nominated by a voter and 01 from other political parties.
+
+The candidates who have placed deposits included the leader of the Mawbima Janatha Party (MJP) and Presidential Candidate of the ‘Sarvajana Balaya’ entrepreneur Dilith Jayaweera, the Presidential Candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya) Attorney-at-Law Nuwan Bopage, Namal Rajapaksha of the ‘Samabima Party’ and independent candidate Chaminda Anuruddha.
+
+The period for placing deposits for the 2024 Presidential Election is scheduled to end at 12 noon today.
+
+The acceptance of nominations for the upcoming Presidential Election is scheduled to begin tomorrow from 9.00 a.m. to 11.00 a.m.
+
+◼️
+
+[Data](articles/7346df8b.json)
+
+---
+
+### Ranil “a man of our time” says Rajitha at MoU signing
+
+*2024-08-14 03:24:18* · [`dailyftlk`](https://www.ft.lk/news/Ranil-a-man-of-our-time-says-Rajitha-at-MoU-signing/56-765513) · `en`
+
+SJB MP Dr. Rajitha Senaratne signs MoU with President Ranil Wickremesinghe to support his candidacy
+
+Says Wickremesinghe’s efforts to rebuild SL moved him to support him
+
+Reveals Sajith Premadasa promised to grant national list slot to his son in return for his support
+
+Stresses he is not willing to contribute to SL’s downfall by persisting with certain political agendas which will disrupt President’s program
+
+Samagi Jana Balawegaya (SJB) MP Dr Rajitha Senaratne signed a Memorandum of Understanding (MoU) with President Ranil Wickremesinghe at the Gangaramaya Temple in Colombo yesterday, committing his support to Wickremesinghe in the upcoming Presidential Election.
+
+Speaking at the event, Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. Senaratne said this moved him to support the President in his candidacy.
+
+...
+
+[Data](articles/4856ea2f.json)
+
+---
+
+### Govt. to relax rules on repatriation of export earnings
+
+*2024-08-14 03:22:29* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-relax-rules-on-repatriation-of-export-earnings/34-765512) · `en`
+
+The Government has decided to relax the current rules governing the repatriation of export earnings, responding to requests from exporters, their representatives, and various Government agencies.
+
+The move aims to address the concerns raised by stakeholders over the stringent regulations currently in place under ‘Rules for Repatriation of Export Earnings No. 01 of 2022.’
+
+The proposed amendments will be enacted under the authority of the Sri Lanka Central Bank Act No. 16 of 2023. The updated rules, designated as ‘Rules 01 of 2024,’ were published in the Extraordinary Gazette No. 2391/02 on 1 July 2024.
+
+The Cabinet’s approval paves the way for these new regulations to be submitted to Parliament for final approval.
+
+These changes are expected to provide greater flexibility for exporters, enabling them to better manage their earnings in light of current economic challenges.
+
+...
+
+[Data](articles/9e897a10.json)
+
+---
+
+### Cabinet green lights importing 3,000 tons of ginger amid shortage
+
+*2024-08-14 03:21:58* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-importing-3-000-tons-of-ginger-amid-shortage/34-765511) · `en`
+
+The Cabinet of Ministers approved at its meeting on Monday the importation of 3,000 tons of raw ginger within three months to address the shortage of ginger in the market.
+
+The move comes amid a kilo of ginger retailing between Rs. 3,500 to 4,200 at present.
+
+“The importation will be done in stages to ensure that local growers are not negatively impacted and consumers do not have to pay unreasonable prices,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he said the State Trading Corporation of Sri Lanka (STC) will import the ginger, based on the recommendations by a committee established to regulate ginger prices.
+
+...
+
+[Data](articles/24560668.json)
+
+---
+
+### Rooftop solar initiative calls for EoIs from PPPs in 300 railway stations
+
+*2024-08-14 03:20:55* · [`dailyftlk`](https://www.ft.lk/business/Rooftop-solar-initiative-calls-for-EoIs-from-PPPs-in-300-railway-stations/34-765510) · `en`
+
+In a move aimed at expanding solar power generation, the Cabinet of Ministers on Monday approved a proposal to call for Expressions of Interest (EoIs) from public-private partnerships (PPP) to install rooftop solar panels on 300 railway stations across Sri Lanka.
+
+Speaking at the weekly post-Cabinet meeting media briefing, Cabinet Co-Spokesman and Transport Minister Bandula Gunawardena highlighted that over 300 stations and buildings owned by Sri Lanka Railways have been identified as suitable sites for the project.
+
+He said the initiative is part of a broader effort to enhance the country’s renewable energy capacity by leveraging the extensive infrastructure of the railway network.
+
+“Areas in the North and East, as well as parts of the South like Hambantota, receive abundant sunlight. It would be advantageous for the Railways if we can generate a profit by installing rooftop solar panels on these stations,” Gunawardena noted.
+
+...
+
+[Data](articles/04219feb.json)
+
+---
+
+### SLANZBC hosts 29th AGM with discussion on ‘Road to Sri Lanka’s Economic Growth’
+
+*2024-08-14 03:20:34* · [`dailyftlk`](https://www.ft.lk/business/SLANZBC-hosts-29th-AGM-with-discussion-on-Road-to-Sri-Lanka-s-Economic-Growth/34-765509) · `en`
+
+The 29th Annual General Meeting of the Sri Lanka – Australia – New Zealand Business Council (SLANZBC) of the Ceylon Chamber of Commerce was held recently, with Australian High Commissioner to Sri Lanka Paul Stephens and New Zealand High Commissioner to Sri Lanka and Maldives David Pine in attendance as chief guests.
+
+South Asia Gateway Terminals Ltd. Commercial and Marketing Senior Manager Udara Cumaratunga was re-elected as President of the Council for 2024/25. Vice-Presidents elected for 2024/25 include Island Leisure Lanka Ltd. Managing Director Chandana Amaradasa, Spillburg Holdings Ltd. Managing Director M.H.K.M. Hameez, Lidechsi Group of Companies Chairman Lionel D.C. Silva, and Hayleys Agriculture Holdings Ltd. Managing Director Jayanthi Dharmasena.
+
+Jiffy Products SL Managing Director Ruwan Rajapakse will continue to serve the committee as immediate past president.
+
+...
+
+[Data](articles/f3ae9719.json)
+
+---
+
+### Cabinet nod to gazette Bill for National Water Supply and Drainage Board
+
+*2024-08-14 03:19:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-gazette-Bill-for-National-Water-Supply-and-Drainage-Board/34-765508) · `en`
+
+The Cabinet of Ministers on Monday approved publishing the Bill for National Water Supply and Drainage Board (Amendment) in the Gazette and thereafter table the same in the Parliament for approval.
+
+The move follows clearance received to the Bill prepared by the Legal Draftsman from the Attorney General.
+
+On 2 May 2022, the Cabinet of Ministers approved to amend the National Water Supply and Drainage Board Act. The proposal to this effect submitted by Water Supply and Estate Infrastructure Facilities Development Minister Jeevan Thondaman was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/73f7b812.json)
+
+---
+
+### Framework for selecting investors for drinking water sector
+
+*2024-08-14 03:18:56* · [`dailyftlk`](https://www.ft.lk/business/Framework-for-selecting-investors-for-drinking-water-sector/34-765507) · `en`
+
+The Cabinet of Ministers at its meeting on Monday approved a new framework for selecting investors for the drinking water sector.
+
+The framework, prepared by the Water Supply and Estate Infrastructure Facilities Development Ministry was developed under the supervision of a monitoring committee comprising experts in the field, stakeholder agencies and academics.
+
+This newly approved framework is expected to enhance transparency and efficiency in the selection of investors for drinking water projects across the country.
+
+By incorporating input from a wide range of experts and stakeholders, the framework aims to ensure that investment decisions are made in a manner that best serves the long-term needs of water supply infrastructure.
+
+The proposal to implement this selection criteria framework presented by the Water Supply and Estate Infrastructure Facilities Development Minister Jeevan Thondaman was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6c7b0d40.json)
+
+---
 
 ### Colombo Business Analytics Forum 2024 today at BMICH
 
@@ -371,6 +559,38 @@ In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to
 [Data](articles/a1b8b668.json)
 
 [Extended Data](ext_articles/a1b8b668.ext.json)
+
+---
+
+### பெருந்தோட்டப் பகுதிகளில் ஒரே வீட்டில் வசிக்கும் தனிக்குடும்பங்களுக்கும்  அஸ்வெசும கொடுப்பனவு - ஜனாதிபதியின் யோசனைக்கு அமைச்சரவை அங்கீகாரம்
+
+*2024-08-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191010) · `ta`
+
+பெருந்தோட்டப் பகுதிகளில் லயன் அறைகளில் வாழ்கின்ற தோட்டத் தொழிலாளர் குடும்பங்களுக்காக அஸ்வெசும நலன்புரி கொடுப்பனவுகளை வழங்க தீர்மானிக்கப்பட்டுள்ளது. அதாவது ஒரே வீட்டில் வாழும் உப குடும்பங்களுக்கும் இந்த கொடுப்பனவுகளை வழங்கும் தீர்மானத்துக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சரவை பேச்சாளர் பந்துல குணவர்தன தெரிவித்தார்.
+
+அமைச்சரவைத் தீர்மானங்களைக் அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (13) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நலன்புரி நன்மைகள் சபை தற்போது அஸ்வெசும நலன்புரி நன்மைத் திட்டத்தை அமுல்படுத்தி வருகிறது. 2002 ஆண்டின் 24ஆம் இலக்க நலன்புரி நன்மைகள் சட்டத்தின் ஏற்பாடுகளுக்கு அமைய தயாரிக்கப்பட்ட 2022 ஆண்டின் 1  இலக்க நலன்புரி நன்மை கொடுப்பனவு (கொடுப்பனவை பெறுவதற்கு தகைமையான நபர்களைத் தெரிவு செய்தல்) ஒழங்குவிதிகளுக்கு அமைய திட்டத்துக்கான பயனாளிகள் தெரிவு செய்யப்படுகின்றனர்.
+
+...
+
+[Data](articles/fd7502b8.json)
+
+---
+
+### நாட்டுக்கு நல்லது நடக்க வேண்டும் என்றால் ரணில் விக்கிரமசிங்கவை ஜனாதிபதியாக்க மக்கள் தீர்மானிக்க வேண்டும் - ஆனந்தகுமார்
+
+*2024-08-13 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191019) · `ta`
+
+நாட்டின் எதிர்காலம் வளம்பெற வேண்டும் என்றால் ஜனாதிபதி ரணில் விக்ரமசிங்க வெற்றிபெற வேண்டும். இல்லாவி்ட்டால் நாடு மீண்டும் பழைய நிலைக்கே செல்லும். மக்கள் இதனை உணர்ந்து செயற்பட வேண்டும் என ஜனாதிபதியின் தொழிற்சங்க ஏற்பாட்டாளர் சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+2019 பாராளுமன்ற தேர்தலில் ஐக்கிய தேசிய கட்சியின் தேர்தல் விஞ்ஞாபனத்தில் நாட்டின் பொருளாதார நிலை தொடர்பாகவும் பொருளாதாரத்தை கட்டியெழுப்ப தேவையான நடவடிக்கைகளை எடுக்க தவறும் பட்சத்தில் நாட்டுக்கு ஏற்படும் பாதிப்பு தொடர்பாகவும் தெளிவாக குறிப்பிடப்பட்டிருக்கிறது. தேர்தல் பிரசாரங்களின்போது இந்த விடயங்களை மக்களுக்கு நாங்கள் தெளிவாக தெரிவித்தோம். என்றாலும் அன்று மக்கள் நாங்கள் சொன்னதை நம்பவில்லை. இறுதியாக நாடு வங்குராேத்து அடைந்தது.
+
+...
+
+[Data](articles/6a32d8d6.json)
 
 ---
 
@@ -1252,6 +1472,22 @@ The police have announced that a special traffic plan will be implemented that d
 
 ---
 
+### மக்கள் பிழையான தீர்மானம் எடுத்தால் அதன் பாதிப்பை மக்களே அனுபவிக்க நேரிடும் - அகிலவிராஜ் காரியவசம்
+
+*2024-08-13 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191001) · `ta`
+
+ஊடக பிரசாரங்களையும் அனுபவமில்லாத அரசியல்வாதிகளின் பொய் வாக்குறுதிகளுக்கும் மக்கள் ஏமாந்துவிடக்கூடாது. தேர்தலில் மக்கள் பிழையான தீர்மானம் எடுத்தால் அதன் பெறுபேற்றை மக்களே அனுபவிக்க நேரிடும். அதனால் ரணில் விக்ரமசிங்கவுக்கு இன்னும் ஐந்து வருடங்களுக்காவது சந்தர்ப்பம் வழங்க மக்கள் தீர்மானிக்க வேண்டும் என ஐக்கிய தேசிய கட்சியின் உபதலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (13) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+வீழ்ச்சியடைந்திருந்த நாட்டை மீட்டெடுத்து, முன்னெடுத்துச்செல்லும் சந்தர்ப்பத்தில் மிகவும் தீர்மானமிக்க தேர்தலுக்கு முகம்கொடுத்துள்ளோம். நாட்டை தொடர்ந்து முன்னெடுத்துச்செல்ல யார் பொருத்தம் என்பதை தெரிவு செய்வதற்கு தற்போது மக்களுக்கு சந்தர்ப்பம் கிடைத்திருக்கிறது.
+
+...
+
+[Data](articles/a669dbf9.json)
+
+---
+
 ### More Indian hospitals hit by doctors’ protest against alleged rape and murder
 
 *2024-08-13 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101206/more-indian-hospitals-hit-by-doctors-protest-against-alleged-rape-and-murder) · `en`
@@ -1899,283 +2135,5 @@ The move was initiated after President Wickremesinghe met Musk on the sidelines 
 [Data](articles/9b0a80be.json)
 
 [Extended Data](ext_articles/9b0a80be.ext.json)
-
----
-
-### License issued to provide Starlink Services
-
-*2024-08-13 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199888) · `si`
-
-Starlink Lanka received a license from Sri Lanka's Telecommunication Regulatory Commission to offer broadband services via satellite technology starting August 12.
-
-🟩
-
-The license has been issued to Starlink Lanka Private Company to provide Broadband services through satellite technology in Sri Lanka.
-
-The Telecommunication Regulatory Commission (Telecommunication Regulatory License to provide Telecommunication License to operate from August 12.
-
-◼️
-
-[Data](articles/2103688f.json)
-
-[Extended Data](ext_articles/2103688f.ext.json)
-
----
-
-### TRCSL issues license for Starlink to operate in Sri Lanka
-
-*2024-08-13 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101201/trcsl-issues-license-for-starlink-to-operate-in-sri-lanka-) · `en`
-
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has officially issued a Telecommunications Service Provider License to Elon Musk’s Starlink, the satellite unit of SpaceX, to provide satellite broadband services in Sri Lanka.
-
-This license authorizes the company to provide satellite broadband services in Sri Lanka from August 12, 2024.
-
-The development follows a recent meeting between President Ranil Wickremesinghe and Elon Musk in Indonesia where they discussed expediting the application process to connect Sri Lanka to the Starlink network, aiming to enhance Sri Lanka’s access to high-speed internet.
-
-The TRCSL has issued a Telecommunications Service Provider License under Section 17B of the Sri Lanka Telecommunications Act No. 25 of 1991 as amended, to Starlink Lanka (Private) Limited for the provision of Satellite Broadband Services in Sri Lanka, a statement said.
-
-...
-
-[Data](articles/c7df13a6.json)
-
-[Extended Data](ext_articles/c7df13a6.ext.json)
-
----
-
-### MP Puttalam supports Ranil
-
-*2024-08-13 13:03:23* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලමේ-පොහොට්ටු-මන්ත්‍රීවරයෙක්-රනිල්ට-සහය-පළ-කරයි/11-411347) · `si`
-
-MP Jagath Priyankara receives support from President Ranil Wickremesinghe for the upcoming presidential election on March 13th.
-
-🟩
-
-Jagath Priyankara, MP Jagath Priyankara, Jagath Priyankara, is supported by President Ranil Wickremesinghe in the next presidential election today (13).
-
-◼️
-
-[Data](articles/cd7b62dc.json)
-
-[Extended Data](ext_articles/cd7b62dc.ext.json)
-
----
-
-### Sri Lanka to import 3,000 metric tonnes of ginger
-
-*2024-08-13 13:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-3000-metric-tonnes-of-ginger-176557/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import 3,000 metric tonnes of raw ginger within three months to address the shortage of ginger in the local market, Minister Bandula Gunawardena said.
-
-“This will be done in stages so that local growers are not negatively impacted and consumers don’t have to pay unfair prices,” Gunawardena told reporters.
-
-Sri Lanka State Trading (General) Corporation Limited will import the ginger based on recommendations by a committee established to regulate ginger prices, he said.
-
-A kilo of ginger is currently retailing between 3,500 and 4,145 rupees.
-
-In addition to being a cooking staple in the island, it is also a main component of many ayurvedic medicine.
-
-Sri Lanka to release confiscated ginger haul for Ayurveda medicine production
-
-◼️
-
-[Data](articles/93150db4.json)
-
-[Extended Data](ext_articles/93150db4.ext.json)
-
----
-
-### Special traffic plan on the 15th
-
-*2024-08-13 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199887) · `si`
-
-On August 15, the Presidential Election nomination process will take place at Rajagiriya's Elections Secretariat from 8 am to 2 pm. A special traffic plan has been announced to manage the expected congestion.
-
-🟩
-
-The nomination of the Presidential Election will be handed over to the Presidential election on August 15 at the Elections Secretariat at Rajagiriya.
-
-The police announced that a special traffic plan is being implemented from 8 am to 2 pm.
-
-◼️
-
-[Data](articles/9ab28c34.json)
-
-[Extended Data](ext_articles/9ab28c34.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-13 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/190982) · `ta`
-
-On August 13, the US dollar was valued at 295.0812 rupees according to the Central Bank's exchange rate, with a sales price of 304.2751 rupees.
-
-🟩
-
-The US dollar purchasing price was 295.0812, based on the Central Bank's currency exchange rate on Tuesday (August 13) and the sales price were Rs. 304.2751.
-
-◼️
-
-[Data](articles/c60f8068.json)
-
-[Extended Data](ext_articles/c60f8068.ext.json)
-
----
-
-### Starlink internet service in Sri Lanka
-
-*2024-08-13 12:56:32* · [`adalk`](https://www.ada.lk/technology/ස්ටාර්ලින්ක්-අන්තර්ජාල-සේවාවට-ලංකාවේ-අවසර/5-411346) · `si`
-
-Elon Musk's Starlink internet service has received approval from Sri Lanka's Telecommunications Commission to operate in the country, marking its expansion into another region.
-
-🟩
-
-The world's leading businessman is the Satellite Technology Internet Service of the world, Lellon Musk Internet Service, the Telecommunications Commission of Telecommunication Issue to implement the company in Sri Lanka.. Accordingly, the Commission announced that this permission has been granted since midnight yesterday.
-
-◼️
-
-[Data](articles/e539a050.json)
-
-[Extended Data](ext_articles/e539a050.ext.json)
-
----
-
-### Memorable memory in Sri Lankan presidential history
-
-*2024-08-13 12:52:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn49zd1zdjxo) · `si`
-
-In Sri Lankan presidential history, notable moments include the first election in 1982, followed by significant events such as the banning of political parties, terrorist threats, and the first female president, Chandrika Bandaranaike Kumaratunga. Other highlights include controversial impeachment motions, assassinations, and the 2015 election marked by defections and economic issues.
-
-🟩
-
-The preliminary arrangements, including the deposit of the Presidential Election to be elected to select the 9th Executive President of Sri Lanka, is underway.
-
-The first presidential election held in the 1982 presidential election last year, there were many unique events, which were unique to the presidential election in 2019.
-
-For the first time in the history of the country, the presidential elections in 1982 was a talk.
-
-The main reason was to hold the presidential election after the abolition of the community ownership of Sirimavo Bandaranaike, as well as former Prime Minister of Sri Lanka Freedom Party.
-
-Accordingly, the JR who was appointed as the president in the 1978 constitutional amendment of 1978. Jayawardena decided to call for the presidential election two years ago.
-
-Accepting presidential nominations in 1982. It was significant that Jayewardene's birthday was held on 17th September.
-
-...
-
-[Data](articles/b7bfa74b.json)
-
-[Extended Data](ext_articles/b7bfa74b.ext.json)
-
----
-
-### Cabinet approval for public servants
-
-*2024-08-13 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199886) · `si`
-
-Cabinet approval has endorsed proposals to revamp public servant salaries, guided by a specialist committee led by former President Mahinda Rajapaksa. The plan includes categorizing public service posts into four levels, ensuring recruitment meets basic qualifications, and limiting staff by 2030. It also aims to introduce performance-based pay, streamline recruitment processes, and reduce costs by utilizing external services. This salary scheme, effective from January 1, 2015, will manage expenses within the current tax policy.
-
-🟩
-
-Cabinet approval has been approved by the proposals to revise the salaries of all sectors of the public service.
-
-The Budget 2025 was given before the appointment of the Cabinet approval to appoint a specialist committee to submit a report on the proposals.
-
-Accordingly, the specialist committee headed by former President Mahinda Rajapaksa, Udaya Seneviratne, has been analyzed and the report has been prepared with the main professional unions.
-
-According to the recommendation of the report, the President has approved the proposal to approve the following proposals and implement the proposals to the following proposals.
-
-* All the posts of the entire public service are classified under 4 main 4 levels, attracting the performance of the Sri Lanka Fitness (SLQF) and NVQs.Taking into accounting and categorize recruitment qualifications.
-
-* To follow the basic qualifications of recruitment of primary service categories
-
-...
-
-[Data](articles/c4bd6de0.json)
-
-[Extended Data](ext_articles/c4bd6de0.ext.json)
-
----
-
-### Mother who arrived at the opening of daughter's beauty salon dies
-
-*2024-08-13 12:39:44* · [`adalk`](https://www.ada.lk/breaking_news/දියණියගේ-රූපලාවන්‍යාගාරය-විවෘත-කිරිමට-පැමිණි-මව-පඩිපෙළින්-වැටි-මරුට/11-411345) · `si`
-
-A mother died after falling from the second floor of her daughter's beauty salon during its opening ceremony. She was taken to Homagama Base Hospital but succumbed to her injuries. Identified as 78-year-old Weerasinghe Pathirana, she lived at Sitamulla No. 120. Her husband also suffered a head injury in the incident and was hospitalized. The body was handled by Death Superintendent Pathyaka Udaya Kumara and Dr. Damith Attanayake, with an autopsy concluding the cause of death.
-
-🟩
-
-The mother was rushed to the Homagama Base Hospital for treatment at the Homagama Base Hospital for treatment, the mother was injured in the hospital.
-
-The deceased has been identified as Weerasinghe Pathirana (78), a resident of Sitamulla No. 120, police said.
-
-The woman was in the second floor of the second floor of the second floor of the second floor of Homagama, the foot of the second floor was ready to go down to the first floor and had fallen into the ground and had fallen into the ground.
-
-The husband had admitted to the Homagama Base Hospital with the assistance of the victims of his head in the accident. The deceased has been identified as receiving treatment.
-
-The mobilization of the remains of the remains of the remains were carried out by the Death Death Superintendent Pathyaka Udaya Kumara (12) by Dr. Damith Attanayake.
-
-...
-
-[Data](articles/b4bd7990.json)
-
-[Extended Data](ext_articles/b4bd7990.ext.json)
-
----
-
-### Nuwan Bopage is the control of the restriction
-
-*2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவான்-போபகேவுக்காண-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
-
-Attorney-at-Law Nuwan Bopage, a presidential candidate for the People's Struggle Alliance, faces restrictions.
-
-🟩
-
-Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Struggle Alliance has been restricted.
-
-◼️
-
-[Data](articles/04db6654.json)
-
-[Extended Data](ext_articles/04db6654.ext.json)
-
----
-
-### The control of the Nuwan has been paid
-
-*2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவானுக்கான-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
-
-Nuwan Bopage, attorney-at-law and presidential candidate for the People's Struggle Alliance, has been restrained.
-
-🟩
-
-Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Struggle Alliance has been restricted.
-
-◼️
-
-[Data](articles/3f381cc8.json)
-
-[Extended Data](ext_articles/3f381cc8.ext.json)
-
----
-
-### Previous Tests for Israeli construction jobs
-
-*2024-08-13 12:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ඉදිකිරීම්-රැකියා-සඳහා-පූර්ව-පරීක්ෂණ-15දා-අවසන්/11-411344) · `si`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has expanded its pre-testing program for employment opportunities, including construction, tile, and wire band sectors, inviting experienced professionals to participate. These pre-tests will take place this Thursday in Moratuwa at 8:00 am, offering direct opportunities for employment with competitive salaries.
-
-🟩
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) said that prior testing of employment of employment opportunities for Sri Lankan workers have already been expanded to Sri Lankan workers.. The Sri Lanka Foreign Employment (SLBFE) is further stated that a large number of salaries are coming for pre-investigated.
-
-Accordingly, the experience with experience in the construction sector sector, tile sector, tile sector, tile, wire bands and clients, have the opportunity to sit directly to these tests. The pre-tests of these jobs will be held on Thursday, Moratuwa, Moratuwa at 8:00 am at the Moratuwa.
-
-Rs.
-
-◼️
-
-[Data](articles/1ff1d54e.json)
-
-[Extended Data](ext_articles/1ff1d54e.ext.json)
 
 ---

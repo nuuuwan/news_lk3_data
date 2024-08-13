@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 01:36:30**
+As of **2024-08-14 01:55:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,567 (100.0%) of 40,576 articles have been extended.
+40,576 (100.0%) of 40,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The event will feature a series of keynote speeches, panel discussions, and work
 
 [Data](articles/5bd0fff6.json)
 
+[Extended Data](ext_articles/5bd0fff6.ext.json)
+
 ---
 
 ### Cabinet ratifies Sri Lanka-Thailand FTA
@@ -63,6 +65,8 @@ He said the FTA marks a key step in Sri Lanka’s efforts to expand its trade ne
 ...
 
 [Data](articles/739dc6d1.json)
+
+[Extended Data](ext_articles/739dc6d1.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ Following a thorough evaluation process, the Standing Procurement Committees rec
 
 [Data](articles/6330fb04.json)
 
+[Extended Data](ext_articles/6330fb04.ext.json)
+
 ---
 
 ### Cabinet clears submission of Import and Export Regulation for Parliamentary approval
@@ -102,6 +108,8 @@ Once approved, the regulation will provide updated guidelines and controls for i
 
 [Data](articles/952b5679.json)
 
+[Extended Data](ext_articles/952b5679.ext.json)
+
 ---
 
 ### Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement
@@ -115,6 +123,8 @@ The dried fish industry in Sri Lanka, a significant segment of the local economy
 ...
 
 [Data](articles/cb7776e5.json)
+
+[Extended Data](ext_articles/cb7776e5.ext.json)
 
 ---
 
@@ -132,6 +142,8 @@ First page of the Geneva Convention of 22 August 1864. (The original document is
 
 [Data](articles/790a30f7.json)
 
+[Extended Data](ext_articles/790a30f7.ext.json)
+
 ---
 
 ### Abusing the goddess of law – a disaster pending?
@@ -145,6 +157,8 @@ Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was uncerem
 ...
 
 [Data](articles/23783835.json)
+
+[Extended Data](ext_articles/23783835.ext.json)
 
 ---
 
@@ -160,6 +174,8 @@ Recently, I have been fortunate to attend a Q & A session of one of the Sydney U
 
 [Data](articles/255afc34.json)
 
+[Extended Data](ext_articles/255afc34.ext.json)
+
 ---
 
 ### ESG Summit 2024 highlights pathways to sustainable business practices
@@ -173,6 +189,8 @@ In his welcome address, University of Colombo MBA Alumni Association President S
 ...
 
 [Data](articles/e62aa0a8.json)
+
+[Extended Data](ext_articles/e62aa0a8.ext.json)
 
 ---
 

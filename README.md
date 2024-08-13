@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 10:36:23**
+As of **2024-08-13 10:55:04**
 
 ## Newspaper Stats
 
-*Scraped **40,422** Articles*
+*Scraped **40,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,91 +16,155 @@ islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
 adalk | 3,712
-adaderanalk | 4,706
+adaderanalk | 4,707
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,138
 virakesarilk | 6,394
-adaderanasinhalalk | 6,875
+adaderanasinhalalk | 6,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,414 (100.0%) of 40,422 articles have been extended.
+40,422 (100.0%) of 40,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### 20 பேர் சொத்து விபரங்களை வழங்கவில்லை
+### ලොරියක් පෙරළි ව්‍යාපාරිකයෙක් මරුට
+
+*2024-08-13 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199879) · `si`
+
+මොරගහහේන වීදියගොඩ, දියකඩ මාර්ගයේදී ව්‍යාපාරිකයෙකු සිය බිරිඳ සමග කුඩා ලොරි රථයකින් යමින් සිටියදී එම ලොරිය පෙරළී එයටම යටවීමෙන් ඔහු මියගොස් ඇතැයි මොරගහහේන පොලීසිය පවසයි.
+
+අනතුරින් මියගොස් ඇත්තේ වැල්මිල්ල හාලපිටිය පදිංචිව සිටි ආර්. ඒ. ජිනරත්න නමැති 67 හැවිරිදි ව්‍යාපාරිකයෙකි.
+
+මියගිය ව්‍යාපාරිකයා වීදියගොඩ ප්‍රදේශයේ පවත්වාගෙන යන පළතුරු වෙළෙඳසැල වසා දමා බිරිඳ සමග ලොරියෙන් යමින් සිටියදී ලොරි රථය මාර්ගයේ ප්‍රතිවිරුද්ධ දිශාවෙන් බෑවුමට පෙරළී එම ලොරියටම යටවී මිය ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/d172a728.json)
+
+---
+
+### Dilith Jayaweera places deposits to contest Presidential Election
+
+*2024-08-13 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101192/dilith-jayaweera-places-deposits-to-contest-presidential-election) · `en`
+
+The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has placed deposits at the Election Commission this morning (13) to contest the upcoming Presidential Election.
+
+He will contest the 2024 presidential election from the ‘Sarvajana Balaya’ alliance.
+
+A group of members of the alliance including MP Udaya Gammanpila was present at the occasion.
+
+On August 04, executive member of ‘Sarvajana Balaya’  MP Wimal Weerawansa announced Jayaweera as the Presidential Candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
+
+◼️
+
+[Data](articles/3afc6de6.json)
+
+---
+
+### 20 people do not provide property details
 
 *2024-08-13 10:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-பேர்-சொத்து-விபரங்களை-வழங்கவில்லை/175-342081) · `ta`
 
-குறைந்தபட்சம் 20 பாராளுமன்ற உறுப்பினர்கள் தங்கள் சொத்து மற்றும் பொறுப்பு விபரங்களை சமர்ப்பிக்கத் தவறியுள்ளதாக தகவலறிந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+The Election Commission has ordered parliamentary leaders to remind 20 MPs about submitting their property and responsibility details by June 30 annually. Failure to comply by August 31 could result in penalties or imprisonment. The Bribery or Corruption Commission is monitoring these MPs.
 
-இதற்குப் பதிலளித்த தேர்தல் ஆணையம், இந்த எம்.பி.க்களுக்கு மீண்டும் ஒருமுறை நினைவூட்டுமாறு பாராளுமன்றத் தலைவர்களுக்கு உத்தரவிட்டுள்ளது. 169 எம்.பி.க்களில் ஒவ்வொருவரும் ஆண்டுதோறும் ஜூன் 30ஆம் திகதிக்குள் தங்கள் சொத்து விபரங்களை சபாநாயகரிடம் சமர்ப்பிக்க வேண்டும்.
+🟩
 
-இதுவரை கடமைகளை நிறைவேற்றாத இந்த 20 பாராளுமன்ற உறுப்பினர்கள் தொடர்பிலான நிலைமையை இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டு விசாரணை ஆணைக்குழு உன்னிப்பாக அவதானித்து வருகின்றது.
+Sources said that at least 20 MPs have failed to submit their property and responsible details.
 
-சொத்துக்கள் மற்றும் பொறுப்புகள் பற்றிய அறிவிப்பு தொடர்பான புதிய சட்டத்தின் கீழ், ஒவ்வொரு ஆண்டும் ஓகஸ்ட் 31 ஆம் திகதிக்குள் தங்கள் விபரங்களை சமர்ப்பிக்கத் தவறிய எம்.பி.க்கள் ஒரு வருடம் வரையான சிறைத்தண்டனை மற்றும் பன்னிரெண்டு மாத ஊதியத்திற்கு சமமான அபராதம் அல்லது இரண்டையும் சந்திக்க நேரிடலாம்.
+Responding to this, the Election Commission has ordered parliamentary leaders to remind these MPs once again. Each of the 169 MPs must submit their property details to the Speaker by June 30 annually.
+
+The Bribery or Corruption Corruption Commission is closely observing the situation of these 20 MPs who have not yet fulfilled duties.
+
+Under the new law on the notice of assets and responsibilities, MPs who have failed to submit their details by August 31 each year may face a penalty or two of the twelve months of imprisonment or two.
 
 ◼️
 
 [Data](articles/1c24a654.json)
 
+[Extended Data](ext_articles/1c24a654.ext.json)
+
 ---
 
-### உழவு இயந்திரம் கவிழ்ந்ததில் தந்தை பலி
+### Father killed in plowing machine
 
 *2024-08-13 10:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உழவு-இயந்திரம்-கவிழ்ந்ததில்-தந்தை-பலி/72-342080) · `ta`
 
-வவுனியா மடுகந்த பிரதேசத்தில் உழவு இயந்திரம் வயல்வெளியில் கவிழ்ந்து விபத்துக்குள்ளானதில் நான்கு பிள்ளைகளின் தந்தை ஒருவர் உயிரிழந்துள்ளதாக மடுகந்த பொலிஸார் தெரிவித்தனர்.
+In Vavuniya, a 34-year-old father of four died after his plowing machine crashed into an unsafe field while heading to SI Sam.
 
-உயிரிழந்தவர் அதே பகுதியைச் சேர்ந்த 34 வயதான ஒருவரே, அவர் எஸ்ஐ சாம் என்ற இடத்திற்குச் சென்று கொண்டிருந்தபோது, ​​உழவு இயந்திரம் பாதுகாப்பற்ற வயல்வெளியில் கவிழ்ந்தது.
+🟩
+
+A father of four children has died when a plowing machine crashed into the field in Madukanda area in Vavuniya, police said.
+
+The 34 -year -old man from the same area, when he was traveling to SI Sam, the plowing machine crashed into an unsafe field.
 
 ◼️
 
 [Data](articles/b665f8ed.json)
 
+[Extended Data](ext_articles/b665f8ed.ext.json)
+
 ---
 
-### දිලිත්ටත් ඇප තියයි
+### Dilith also bailed
 
 *2024-08-13 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199878) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා සර්වජන බලය එකමුතුවේ අපේක්ෂකයා ලෙස දිලිත් ජයවීර මහතා වෙනුවෙන් අද (13) ඇප මුදල් තැන්පත් කර තිබේ.
+Dilith Jayaweera is nominated for the presidential election today (13th).
+
+🟩
+
+Dilith Jayaweera has been deposited as the candidate for the presidential election for the presidential election today (13).
 
 ◼️
 
 [Data](articles/858c39fc.json)
 
+[Extended Data](ext_articles/858c39fc.ext.json)
+
 ---
 
-### ”புகைப்படம் எடுப்பதில் எனக்கு நம்பிக்கை இல்லை”
+### "I don't believe in photography"
 
 *2024-08-13 10:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுப்பதில்-எனக்கு-நம்பிக்கை-இல்லை/175-342079) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களை கவர்ந்து அவர்களுடன் புகைப்படம் எடுப்பதில் தனக்கு நம்பிக்கை இல்லை என ஜனாதிபதி வேட்பாளர் பீல்ட் மார்ஷல் சரத் பொன்சேகா இன்று தெரிவித்துள்ளார்.
+Field Marshal Sarath Fonseka, a presidential candidate, stated he doesn't believe in photography, especially with MPs whose support might be rejected by the public. He aims to gain votes from independent thinkers, avoiding associations that could harm his campaign.
 
-மக்களால் நிராகரிக்கப்பட்ட எம்.பிக்களின் ஆதரவை நான் பெற விரும்பவில்லை. அதிக வாக்குகளை ஈர்க்கவும், சுதந்திரமாக சிந்திப்பவர்களை ஈர்க்கவும் மட்டுமே முயற்சிக்கிறேன் என அவர் மேலும் தெரிவித்தார்.
+🟩
+
+Presidential candidate Field Marshal Sarath Fonseka today said he did not believe in photography with MPs.
+
+I do not want to get the support of MPs rejected by people. He added that I am only trying to attract more votes and to attract those who think freely.
 
 ◼️
 
 [Data](articles/3eaaa082.json)
 
+[Extended Data](ext_articles/3eaaa082.ext.json)
+
 ---
 
-### கட்டுப்பண காலம்  நிறைவு
+### Complete period of control
 
 *2024-08-13 09:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பண-காலம்-நிறைவு/175-342077) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை செலுத்தும் நடவடிக்கை நாளை (13)  நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளது.
+The process to select the 32 candidates for the 2024 presidential election concludes tomorrow at 12 noon, as announced by the Election Commission.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக இதுவரை 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது. R
+🟩
+
+The process of controlling the 2024 presidential election will be completed tomorrow (13) at 12 noon.
+
+The Election Commission has said that 32 candidates have been controlled so far to contest the presidential election. Remble
 
 ◼️
 
 [Data](articles/91b6b915.json)
+
+[Extended Data](ext_articles/91b6b915.ext.json)
 
 ---
 
@@ -124,41 +188,53 @@ The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint mil
 
 ---
 
-### கட்டுநாயக்கவில் நெருக்கடி நிலை
+### Katunayake
 
 *2024-08-13 09:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-நெருக்கடி-நிலை/175-342074) · `ta`
 
-இலங்கைக்கு வரும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கும் ஏனையவர்களுக்கும் நிகழ்நிலை விசா வழங்கப்படாமை காரணமாக கட்டுநாயக்க விமான நிலையத்தில் வருகைக்கான விசாவைப் பெறுவதற்கு நீண்ட வரிசைகள் உருவாகி வருவதாக தெரிவிக்கப்படுகிறது.
+Due to a Supreme Court order, VFS Global was removed from issuing visas to Sri Lanka, leading to long queues at Katunayake airport for visas upon arrival. The government hasn't started issuing visas there due to these queues. Tourists now must get half their visa at the airport, affecting arrivals during Sri Lanka's peak tourist season starting in August.
 
-அண்மையில் உச்ச நீதிமன்றம் பிறப்பித்த உத்தரவின்படி, இலங்கைக்குள் நுழைவதற்கான விசா வழங்குவதில் இருந்து VFS Global நிறுவனத்தை நீக்கி, பழைய முறைப்படி விமான நிலையத்தில் விசா வழங்கவும் உத்தரவு பிறப்பிக்கப்பட்டது.
+🟩
 
-எனினும், அரசாங்கமும் குடிவரவு திணைக்களமும் பழைய முறைப்படி நிகழ்நிலை விசா வழங்குவதை ஆரம்பிக்காததால் கட்டுநாயக்க விமான நிலையத்தில் விசா பெற நீண்ட வரிசைகள் உருவாகியுள்ளன.
+Due to the lack of a visa for foreign tourists and others coming to Sri Lanka, it is reported that long queues are being developed to obtain visa for arrival at the Katunayake airport.
 
-இந்த நிலையில், இலங்கைக்கு வரும் அனைத்து சுற்றுலாப் பயணிகளுக்கும் கட்டுநாயக்க விமான நிலையத்தில் ஒன் அரைவல் விசாவைப் பெறுவதே ஒரே தீர்வாக மாறியுள்ளது.
+According to a recent Supreme Court order, VFS Global was ordered to remove VFS Global from issuing a visa to Sri Lanka and issued a visa at the airport.
 
-இலங்கையில் ஒகஸ்ட் மாதம் முதல் சுற்றுலாப் பருவம் ஆரம்பமாகியுள்ள நிலையில், கண்டி எசல பெரஹெரா திருவிழாவைக் காண ஏராளமான வெளிநாட்டு சுற்றுலாப் பயணிகள் கட்டுநாயக்க விமான நிலையத்தின் ஊடாக இலங்கைக்கு வருகின்றனர். R
+However, the government and the Department of Immigration have not begun issuing a visa at the Katunayake airport, as long queues have been formed.
+
+In the meantime, all tourists coming to Sri Lanka have become the only solution to get one half a visa at the Katunayake airport.
+
+As the tourist season begins in August in Sri Lanka, a large number of foreign tourists visit Sri Lanka through the Katunayake airport to watch the Kandy Esala Perahera Festival. Remble
 
 ◼️
 
 [Data](articles/f5216315.json)
 
+[Extended Data](ext_articles/f5216315.ext.json)
+
 ---
 
-### 13 வயது மாணவி கூட்டு வன்புணர்வு: ஐவர் கைது
+### 13 -year -old student joint venture: five arrests
 
 *2024-08-13 09:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-கைது/175-342073) · `ta`
 
-13 வயதுடைய பாடசாலை மாணவி ஒருவர் இரண்டு வருடங்களாக கூட்டு வன்புணர்வுக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் தனியார் பஸ் நடத்துனர் உட்பட ஐவர் கைது செய்யப்பட்டுள்ளதாகவும் களுத்துறை வடக்கு பொலிஸார் தெரிவித்தனர்.
+In Kalutara, five individuals, including a bus conductor, were arrested for allegedly exploiting a 13-year-old girl over two years. The suspects ranged from a married couple to a 60+ year old grandfather. The victim lived with her ill parents and brother, and the abuse occurred due to financial desperation.
 
-ஹொரணை ரெமுன பிரதேசத்தில் வசிக்கும் தனியார் பஸ் நடத்துனர், களுத்துறை, தியகம பிரதேசத்தில் வசிக்கும் மூவர் மற்றும் அவரை வீடொன்றில் தங்கவைக்க ஊக்குவித்த நபரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்டவர்களில் இருவர் திருமணமானவர்கள் எனவும் அவர்களில் ஒருவர் 60 வயதுக்கு மேற்பட்ட தாத்தா எனவும் பொலிஸார் தெரிவித்தனர்.
+Kalutara North Police said that five persons, including a private bus conductor, have been arrested in connection with the incident of a 13 -year -old schoolgirl for two years.
 
-குறித்த சிறுமி தனது நோயுற்ற பெற்றோர் மற்றும் மூத்த சகோதரனுடன் வசித்து வருவதாகவும், வீட்டின் வறுமை காரணமாக பணம் மற்றும் பிற பொருட்களை வழங்கி ஏமாற்றி இரண்டு வருடங்களாக சிறுமி கூட்டு பலாத்காரம் செய்துள்ளமை  தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The police said that the man was arrested for encouraging him to stay in a house in Kalutara, Kalutara, Diyagama area.
+
+Two of the arrested were married and one of them was a grandfather of more than 60 years.
+
+Police said that the girl was living with her sick parents and older brother and that the girl had been raped for two years by deceiving money and other items due to the poverty of the house.
 
 ◼️
 
 [Data](articles/701a9789.json)
+
+[Extended Data](ext_articles/701a9789.ext.json)
 
 ---
 
@@ -272,21 +348,27 @@ The Department of Meteorology has urged the people to take necessary steps to re
 
 ---
 
-### தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பு
+### Turmoil in the inferior atmosphere
 
 *2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு/175-342072) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேற்கு மாகாணங்களின் சில பகுதிகளில் இன்று (13) 100 மி.மீ க்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall is expected in several provinces of Sri Lanka today, continuing from atmospheric turbulence. The Department of Meteorology warns of potential thunderstorms in the evening or night elsewhere. They advise citizens to prepare for possible heavy winds and lightning strikes.
 
-இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக நாடு முழுவதும் தற்போது காணப்படும் மழை நிலை தொடரும் என எதிர்பார்க்கப்படுவதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+The department said that due to the turbulence of the nearby atmosphere of Sri Lanka, the current rainfall across the country is expected to continue.
+
+The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/c11bcd9b.json)
+
+[Extended Data](ext_articles/c11bcd9b.ext.json)
 
 ---
 
@@ -2207,47 +2289,5 @@ The accident had occurred this afternoon today (12), and a serious injuries have
 [Data](articles/f9c9cad8.json)
 
 [Extended Data](ext_articles/f9c9cad8.ext.json)
-
----
-
-### 3 killed, 3 injured after three-wheeler crashes into parked lorry
-
-*2024-08-12 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101180/3-killed-3-injured-after-three-wheeler-crashes-into-parked-lorry) · `en`
-
-Three persons including an infant were killed while three others have been injured and hospitalised after the three-wheeler they were travelling in had crashed into a lorry parked on the roadside in the Wewaldeniya area.
-
-A three-wheeler traveling from Colombo to Kandy had veered off the road and collided with a lorry parked on the roadside at Wewaldeniya in the Danowita police division on the Colombo-Kandy main road.
-
-Accordingly, the driver of the three-wheeler (60), a woman (64) and a four-month-old infant who were traveling in the vehicle have reportedly died in the incident which had occurred this afternoon (12).
-
-Police said that two other females and a boy who were also traveling in the three-wheeler were critically injured in the crash and were admitted to the Warakapola Hospital. The five-year-old boy and one of the females have been transferred to the Colombo National Hospital for further treatment.
-
-...
-
-[Data](articles/e5bfa8bb.json)
-
-[Extended Data](ext_articles/e5bfa8bb.ext.json)
-
----
-
-### Bus collides
-
-*2024-08-12 16:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-மோதி-ஒருவர்-மரணம்/175-342038) · `ta`
-
-In Bandaragama, a bus crash resulted in one fatality and another passenger being hospitalized. Additionally, a 45-55-year-old man from Akuressa passed away in a separate accident.
-
-🟩
-
-Bandaragama - Kespeva Road. Go. One person was killed when a bus belonging to the congregation was killed and the other was admitted to the hospital.
-
-A 45 -55 -year -old man from Akuressa has died in an accident.
-
-A woman who was traveling in the bus was admitted to the hospital with serious injuries.
-
-◼️
-
-[Data](articles/d3713a11.json)
-
-[Extended Data](ext_articles/d3713a11.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 23:56:31**
+As of **2024-08-14 00:09:58**
 
 ## Newspaper Stats
 
-*Scraped **40,564** Articles*
+*Scraped **40,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 378
 colombotelegraphcom | 387
 islandlk | 2,345
-economynextcom | 2,460
+economynextcom | 2,462
 dailyftlk | 2,605
 adalk | 3,732
 adaderanalk | 4,729
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,163
+tamilmirrorlk | 5,164
 virakesarilk | 6,422
 adaderanasinhalalk | 6,900
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,564 (100.0%) of 40,564 articles have been extended.
+40,564 (100.0%) of 40,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### களுத்துறை தாய் - சேய் வைத்தியசாலையில் பதற்றம்
+
+*2024-08-13 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தாய்-சேய்-வைத்தியசாலையில்-பதற்றம்/175-342128) · `ta`
+
+களுத்துறையில் தாய் - சேய் வைத்தியசாலையில் இன்று (13) இரவு திடீரென தீ சமிக்ஞை ஒலித்ததால் வைத்தியசாலை ஊழியர்களும் நோயாளர்களும் தீ அச்சத்தினால் வைத்தியசாலைகளை விட்டு வெளியேறியுள்ளர்.
+
+தீ எச்சரிக்கை சமிக்ஞை ஒலித்ததையடுத்து, களுத்துறை மாநகரசபையின் தீயணைப்புப் பிரிவினர் தயார்படுத்தப்பட்டதுடன், பாதுகாப்புப் படையினரும் வைத்தியசாலை ஊழியர்களும் இணைந்து வைத்தியசாலை கட்டடத்தில் இருந்து நோயாளிகளை வெளியேற்றும் பணியில் ஈடுபட்டனர்.
+
+தீயணைப்பு வீரர்கள் உடனடியாக வந்து மருத்துவமனையின் மின் அமைப்பு உட்பட மருத்துவமனையை சுமார் ஒரு மணி நேரம் கண்காணித்து பாதுகாப்பை உறுதிசெய்னர்.
+
+இரண்டாவது மாடியில் பொருத்தப்பட்ட தீ எச்சரிக்கை சுவிட்ச் சிலரால் இயக்கப்பட்டது, பின்னர் கட்டிடத்தின் தீ எச்சரிக்கை இயக்கப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/7f7d2ad9.json)
+
+---
 
 ### 27 parties join ‘Samagi Bala Sandhanaya’ to support Sajith
 
@@ -163,6 +181,24 @@ Police said that the two persons had died there.
 [Data](articles/dcc85f91.json)
 
 [Extended Data](ext_articles/dcc85f91.ext.json)
+
+---
+
+### Double Trouble for Namal as Sri Lanka Nominations Set to Close
+
+*2024-08-13 21:21:00* · [`economynextcom`](https://economynext.com/double-trouble-for-namal-as-sri-lanka-nominations-set-to-close-176685/) · `en`
+
+ECONOMYNEXT – The heir apparent of the Rajapaksa dynasty will face an unusual challenge in the September 21 presidential election, with his loyalists confronted by another Namal Rajapaksha on the ballot paper.
+
+With 36 candidates having paid their deposits to get on the ticket by Tuesday evening and one more day left to pay, the 2024 ballot paper is set to be the longest yet.
+
+Adding two Namals with the same last name makes the voting slip potentially the most confusing—at least for Namal’s loyalists. Fielding candidates with names similar to main contenders has been a tried-and-tested tactic before, notably by the Rajapaksas themselves.
+
+In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to confuse voters of Maithripala Sirisena—the opposition’s common candidate—but also gave him a makeover to resemble the man from Polonnaruwa.
+
+...
+
+[Data](articles/a1b8b668.json)
 
 ---
 
@@ -303,6 +339,24 @@ The acceptance of nominations for the upcoming presidential election is schedule
 [Data](articles/1c003bcf.json)
 
 [Extended Data](ext_articles/1c003bcf.ext.json)
+
+---
+
+### Sri Lanka universities to sign MOU with foreign peers for academic, ranking support
+
+*2024-08-13 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-universities-to-sign-mou-with-foreign-peers-for-academic-ranking-support-176670/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-owned universities will sign a memorandum of understanding (MOU) with the world’s top universities to raise the ranking of local universities and develop higher education cooperation, the government said.
+
+World ranking of Sri Lankan universities has declined sharply in the past few decades with University of Colombo topping the latest world ranking list with a rank of 1591 followed by University of Peradeniya being ranked in 2017.
+
+The Cabinet of Ministers approved the proposal to enter into an MOU between local universities and foreign universities, a cabinet document said.
+
+“These Memorandum of Understanding and Cooperation Agreements have been prepared according to the observations and recommendations of the Ministry of foreign affairs, Department of National Planning and Department of External Resources,” the cabinet document said.
+
+...
+
+[Data](articles/28b009c3.json)
 
 ---
 
@@ -2173,69 +2227,5 @@ The presidential election entrepreneurship Entrepreneurship Dilith Jayaweera has
 [Data](articles/3c93b096.json)
 
 [Extended Data](ext_articles/3c93b096.ext.json)
-
----
-
-### Decision to import 3000 tons of ginger
-
-*2024-08-13 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199885) · `si`
-
-Sri Lanka's Cabinet approved importing 3,000 metric tons of ginger, based on proposals from the Ministers of Agriculture and Commerce. The decision aims to stabilize local market prices, with a focus report due July 15th.
-
-🟩
-
-The Cabinet approval has approved the importation of 3,000 metric to the Government of Sri Lanka by the commercial (varied) of the Government of Sri Lanka (various varied) of the Government of Sri Lanka (various).
-
-The approval was given based on the joint proposal made by Minister of Agriculture and Plantation Industries and the joint proposal made by the Minister of Commerce and Food Security.
-
-July 15, the Secretary of the Ministry of Agriculture and Foods and Food Security to the Ministry of Agriculture and Plantation Industries and the Ministry of Agriculture and Food Security have to look at the retail prices of the local market and to submit a report to the customer in the local market.Advised at the Cabinet Meeting held at the Cabinet Meeting.
-
-The above Cabinet proposal was presented based on the recommendations of the report they submitted.
-
-◼️
-
-[Data](articles/80ef1a71.json)
-
-[Extended Data](ext_articles/80ef1a71.ext.json)
-
----
-
-### Russia's 1000 squaremm of Ukrainian soldiers - 28 villages were seized.
-
-*2024-08-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/190953) · `ta`
-
-In a significant turn during the ongoing conflict, Ukrainian forces have reclaimed control over 28 villages previously held by Russian troops, marking the first time in two-and-a-half years that Ukrainian territory has been retaken. This development comes amidst ongoing military actions in the Garks region, with Ukrainian President Volodymyr Zelensky stating that Russia's aggression has escalated, affecting neighboring countries. In response, Russian President Vladimir Putin has vowed to expel Ukrainian soldiers from Russian soil, indicating a potential escalation in tensions. The situation remains dire, with reports of civilian casualties adding to the urgency of the conflict.
-
-🟩
-
-Ukrainian soldiers have been under the control of Ukraine for the first time in the two -and -a -half -year war, with Ukrainian soldiers under their control, as Ukrainian soldiers have been attacked into Russia.
-
-He said that Ukrainian soldiers are continuing their military action in the Garks region.
-
-Ukrainian President Wolidemir Jelensky says that Russia's war has been taken to the door of others.
-
-Russian President Vladimir Putin, who has described Ukraine's attack, has said that he is going to kick Ukraine soldiers from his country.
-
-28 villages have fallen to Ukraine soldiers, 12 civilians have been killed and the situation is worse, a locals said.
-
-◼️
-
-[Data](articles/0afca07a.json)
-
-[Extended Data](ext_articles/0afca07a.ext.json)
-
----
-
-### Paradise: A Drama Film That Reflects The Cruel Face Of The Global Social Crisis
-
-*2024-08-13 12:00:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paradise-a-drama-film-that-reflects-the-cruel-face-of-the-global-social-crisis/) · `en`
-
-Paradise, the latest movie of acclaimed Sri Lankan filmmaker Prasanna Vithanage, has now been screening theatres worldwide. Produced by Newton Cinema of India and presented by Mani Ratnam’s Madras Talkies, this multilingual film starring Malayali, Tamil, Muslim and Sinhala cast has already won several foreign accolades. Under the existing fascist persecuting laws on art in Sri Lanka, this work was not censored like one of the Vithanage’s earlier films Purahanda Kaluwara (Death on a Full Moon Day, 1997) only because of these international tributes. Indeed, this is a fascinating, absorbing and tendentious film that makes the connoisseur rethink about his own opinions. It marks a qualitative perfection in the director’s evolution as a filmmaker. It also stimulates fellow artists to become more conscious towards the global socio-political reality.
-
-...
-
-[Data](articles/c4abb61e.json)
-
-[Extended Data](ext_articles/c4abb61e.ext.json)
 
 ---

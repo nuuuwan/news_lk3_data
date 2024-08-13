@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 12:54:57**
+As of **2024-08-13 13:06:30**
 
 ## Newspaper Stats
 
@@ -26,55 +26,75 @@ adaderanasinhalalk | 6,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,457 (100.0%) of 40,463 articles have been extended.
+40,463 (100.0%) of 40,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### நுவான் போபகேவுக்காண கட்டுப்பணம் செலுத்தபட்டது
+### Nuwan Bopage is the control of the restriction
 
 *2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவான்-போபகேவுக்காண-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
 
-மக்கள் போராட்டக் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகேவுக்காண கட்டுப்பணம்  வைப்பிலிடப்பட்டுள்ளது.
+Attorney-at-Law Nuwan Bopage, a presidential candidate for the People's Struggle Alliance, faces restrictions.
+
+🟩
+
+Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Struggle Alliance has been restricted.
 
 ◼️
 
 [Data](articles/04db6654.json)
 
+[Extended Data](ext_articles/04db6654.ext.json)
+
 ---
 
-### நீர்க்கட்டணத்தில் திருத்தம்
+### Correction in the cyst
 
 *2024-08-13 12:32:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்க்கட்டணத்தில்-திருத்தம்/175-342093) · `ta`
 
-தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தற்போதுள்ள நீர்க்கட்டணங்கள் 2023.08.01 அன்று தொடக்கம் நடைமுறைப்படுத்தப்படுகின்றது. குறித்த கட்டணங்களை மீளாய்வு செய்வதற்கான கட்டணக் கொள்கை மற்றும் சூத்திரத்தை அமுல்படுத்துவதற்காக 2024.07.15 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+Starting August 1, 2023, the National Water Supply and Drainage Board will enforce a revised fee structure. Following the Ceylon Electricity Board's tariff reduction from July 16, 2024, due to decreased costs in fuel, chemicals, and interest rates, the government decided to lower water bills. Specifically, household unit charges will decrease by 7%, benefiting Samurdhi recipients, urban plantation dwellers, state hospitals by 4.5%, and schools and religious sites by 6.3%.
 
-2024.07.16 ஆம் திகதியிலிருந்து இலங்கை மின்சார சபை மின்சாரக் கட்டணத்தை குறைத்துள்ளமையாலும், எரிபொருள், இரசாயனப் பதார்த்தங்கள் மற்றும் வட்டிக் கிரயம் போன்றவற்றின் கிரயம் குறைவடைந்திருப்பதைக் கருத்திலெடுத்து, நீர்க்கட்டணத்தை ஓரளவ வீதத்தில் குறைப்பதற்கான இயலுமை காணப்படுகின்றது. அதற்கமைய, பின்வரும் வகையில் நீர்க்கட்டணங்களைத் திருத்தம் செய்வதற்காக நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+🟩
 
-சமுர்த்திப் பயனாளிகள் மற்றும் நகர்ப்புற தோட்ட வீடுகள் தவிர்ந்த வீட்டு அலகுகளுக்கு 7 வீதமும் அரச மருத்துவமனைகளுக்கு 4.5 சதவீதமும் பாடசாலைகள் மற்றும் வணக்கத் தலங்களுக்கு 6.3 சதவீதமும் குறைக்கப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது.
+The National Water Supply and Drainage Board will be implemented on the start of 2023.08.01. At the Cabinet meeting held on 2024.07.15 to implement the fee policy and formula for reviewing the fees.
+
+Considering that the Ceylon Electricity Board (CEB) has reduced the electricity tariffs since 2024.07.16, it is possible to reduce the cyst at some rate, considering the decline in fuel, chemicals and interest.. Accordingly, the Cabinet has approved the proposal submitted by the Minister of Water Supply and Estate Infrastructure to revise the cysts.
+
+It has also been announced that 7 per cent for household units, including Samurdhi beneficiaries and urban plantation houses, will be reduced by 4.5 per cent for state hospitals and 6.3 per cent for schools and places of worship.
 
 ◼️
 
 [Data](articles/376efd0a.json)
 
+[Extended Data](ext_articles/376efd0a.ext.json)
+
 ---
 
-### தேர்தல் செலவுகள் ஒதுக்கீட்டைத் தாண்டுமா?
+### Does the election expenditure exceed allocation?
 
 *2024-08-13 12:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவுகள்-ஒதுக்கீட்டைத்-தாண்டுமா/175-342092) · `ta`
 
-ஜனாதிபதித் தேர்தல் வேட்பாளர்களின் எண்ணிக்கை தற்போது 30ஐ எட்டியுள்ள போதிலும், எதிர்வரும் ஜனாதிபதித் தேர்தலை 10 பில்லியன் ரூபா ஒதுக்கீட்டிற்குள் நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு முயற்சித்து வருவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+With 30 presidential candidates, the Election Commission aims to conduct the election within 10 billion rupees, unsure if funds will suffice. The Commission is concerned about the rising number of candidates, especially commoners, affecting costs. The Ministry of Finance promises to allocate funds based on the Election Commission's estimates, acknowledging potential cost increases due to more candidates.
 
-டெய்லி மிரருக்குப் பேட்டியளித்த ரத்நாயக்க, “ஒதுக்கீடு செய்யப்பட்ட நிதி போதுமானதாக இருக்குமா என்று இப்போதே கணிப்பது கடினமாகும். இருப்பினும், நிதி போதுமானதாக இல்லை என்றால், கூடுதல் நிதியைக் கோர வேண்டிய கட்டாயத்தில் உள்ளோம்.
+🟩
 
-இதற்கிடையில், பெரும்பாலான சாமான்யர்கள் தமது தேர்தல்  முடிவுகள் தெரிந்தும் தேர்தலில் போட்டியிடுவதால் அதிகரித்துள்ள வேட்பாளர்கள் எண்ணிக்கை குறித்து தேர்தல் ஆணைக்குழு கவலை தெரிவித்துள்ளது.
+Although the number of presidential candidates has now reached 30, the Election Commission is trying to hold the upcoming presidential election within 10 billion rupees, said Elections Commission Chairman RMAL Ratnayake.
 
-தற்போதைய விதிமுறைகளின்படி, வேட்பாளர்களின் எண்ணிக்கையை ஆணைக்குழுவால் கட்டுப்படுத்த முடியவில்லை, ஆனால் எதிர்கால தேர்தல்களின் போது இந்த சிக்கல் குறித்து பரிசீலிக்கவுள்ளாதாக அவர் தெரிவித்தார்.
+In an interview with the Daily Mirror, Ratnayake said, “It is difficult to predict if allocated funds are sufficient. However, if the fund is inadequate, we are forced to demand additional funds.
+
+In the meantime, the Election Commission has expressed concern over the increasing number of candidates as most commoners are contesting the election despite their election results.
+
+According to the current rules, the Commission has not been able to control the number of candidates, but he said that the issue would not be considered during future elections.
+
+Meanwhile, the Ministry of Finance has promised to allocate funds based on the estimates that the Election Commission has put forward in view of the increasing number of candidates.
 
 ...
 
 [Data](articles/5a9003c9.json)
+
+[Extended Data](ext_articles/5a9003c9.ext.json)
 
 ---
 
@@ -91,6 +111,8 @@ The Cabinet Spokesman, Minister Bandula Gunawardana stated that the decision was
 ◼️
 
 [Data](articles/eb99c9b9.json)
+
+[Extended Data](ext_articles/eb99c9b9.ext.json)
 
 ---
 
@@ -164,15 +186,21 @@ He said that he had issued a diplomatic passport and that the immigration and im
 
 ---
 
-### දිලිත් ජයවීරත් ඇප තියයි
+### Dilith Jayaweera too bailed
 
 *2024-08-13 12:08:13* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරත්-ඇප-තියයි/11-411342) · `si`
 
-සර්වජන බලයේ ජනාධිපතිවරණ අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා වෙනුවෙන් අද(13දා) ඇප තැන්පත් කර ති​බේ.
+Dilith Jayaweera, an entrepreneur, was bailed out today (13) for his involvement in the presidential election.
+
+🟩
+
+The presidential election entrepreneurship Entrepreneurship Dilith Jayaweera has been deposited on behalf of Mr. Dilith Jayaweera today (13).
 
 ◼️
 
 [Data](articles/3c93b096.json)
+
+[Extended Data](ext_articles/3c93b096.ext.json)
 
 ---
 
@@ -752,19 +780,25 @@ Political parties and MPs are publicly promising their support for a candidate. 
 
 ---
 
-### ඉන්දු - ශ්‍රී ලංකා මගී ප්‍රවාහන යාත්‍රා සේවය 16දා අරඹයි
+### Indo-Sri Lanka Passenger served on Tuesday
 
 *2024-08-13 09:44:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ශ්‍රී-ලංකා-මගී-ප්‍රවාහන-යාත්‍රා-සේවය-16දා-අරඹයි/11-411338) · `si`
 
-ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබු මගී යාත්‍රා සේවය ලබන සිකුරාදා දිනයේදී සිට ක්‍රියාත්මක කිරිමට සැලසුම් කර තිබේ.
+The INDOSRI FERRY Services Private Limited plans to launch its passenger vessel service from Nagapattinam, India, to Kankesanthurai, Sri Lanka, on Friday, after postponing the initial May launch due to various reasons. Booking opened last night.
 
-පුද්ගලික සමාගමක් (IndSri Ferry Services Private Limited) විසින් මෙම මගී යාත්‍රා සේවය ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර ඊයේ මධ්‍යම රාත්‍රි සිට මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමේ අවස්ථාව ද ලබාදී තිබේ.
+🟩
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර මෙම මගී යාත්‍රා සේවය මීට පෙර මැයි මාසයේදි ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබුණ ද විවිධ හේතු නිසා එය කල්දමනු ලැබීය.
+The passenger vessel service scheduled to be implemented from Nagaputtam in India to Kankasantaurali in Sri Lanka will be implemented on Friday.
+
+The passenger vessels have been planned by a private company (INDSRI FERRY Services Private Limited) and the opportunity to book seats from the Midnight yesterday.
+
+The passenger serving between Sri Lanka and India had previously planned to be implemented in May, but it was postponed for various reasons.
 
 ◼️
 
 [Data](articles/b7334440.json)
+
+[Extended Data](ext_articles/b7334440.ext.json)
 
 ---
 

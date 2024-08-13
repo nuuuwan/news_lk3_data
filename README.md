@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 22:21:55**
+As of **2024-08-13 22:36:32**
 
 ## Newspaper Stats
 
-*Scraped **40,559** Articles*
+*Scraped **40,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 387
 islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
-adalk | 3,730
+adalk | 3,732
 adaderanalk | 4,728
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,162
 virakesarilk | 6,422
-adaderanasinhalalk | 6,899
+adaderanasinhalalk | 6,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,558 (100.0%) of 40,559 articles have been extended.
+40,559 (100.0%) of 40,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### ව්‍යවසායක දිලිත් ජයවීරට සඟරුවනේ ආශිර්වාදය
+
+*2024-08-13 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199904) · `si`
+
+ජනාධිපතිධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා ඊයේ (12) පස්වරුවේ බෙල්ලන්විල රජමහා විහාරස්ථානයට ගොස් ආගමික වතාවත් වල නිරත විය.
+
+එහිදී 'එක්ව නංවමු රටක් සතුට පිරුණු හෙටක්' නම් සර්වජන බලය උපායමාර්ගික වැඩපිළිවෙලේ දෙවන කෙටුම්පත බෙල්ලන්විල විහාරාධිපති බෙල්ලන්විල ධම්මරතන හිමිට පිළිගැන්වීම ද සිදුවිය.
+
+මෙහිදී දිලිත් ජයවීර මහතාට ආශිර්වාද කරමින් විහාරාධිපති හිමි පැවසුවේ රට ඉදිරියට ගෙන යාම සඳහා අවශ්‍ය ඉදිරි දැක්මක් ඇති අයෙක් ලෙස ව්‍යවසායක දිලිත් ජයවීර මහතාව සඟරුවන පිළිගන්නා බවයි.
+
+"අවංකවම කියන්න ඕනේ දැනට අපිට බලාපොරොත්තු තියන්න පුලුවන් දෙන්නෙකුට වැඩිය නැහැ. එහෙම කතා කරනකොට ඔබතුමා තමයි මුලටම එන්නේ. මේ තත්ත්වයෙන් රට ගොඩගන්න හැකියාවක් තියෙන කෙනෙක් හැටියට මම සලකනවා. ඔබතුමාට මේ රටේ වර්තමාන තියෙන ප්‍රශ්න පිළිබඳව ඒවාට හේතු පිළිබඳව ඉතා පැහැදිලි අවබෝධයක් තියෙනවා. ඒ වගේම අපේ රට ඉදිරියට ගෙනයාම සඳහා අවශ්‍ය ඉදිරි දැක්මක් තියෙන කෙනෙක් හැටියට අපි පිළිගන්නවා. බොහොම සතුටු වෙනවා ඔබතුමාට අනාගතයේදී මේ රටේ යහපත සඳහා විශාල සේවාවක් කරන්නට හැකියාව ශක්තිය ලැබෙයි කියලා."
+
+◼️
+
+[Data](articles/eb9772d5.json)
+
+---
 
 ### Two dead after inhaling toxic chemical fumes in Malabe
 
@@ -43,6 +61,8 @@ Police said that the deceased, aged 45 and 63  years, had died due to inhaling 
 ◼️
 
 [Data](articles/0b023fb6.json)
+
+[Extended Data](ext_articles/0b023fb6.ext.json)
 
 ---
 
@@ -300,6 +320,20 @@ It was reported recently that some 17 schoolboys have been arrested on charges o
 
 ---
 
+### තණමල්විල දැරිය අතවර කිරීමේ සිදුවීම වසන් කිරීමට පාසලේ විදුහල්පති, ගුරුවරයෙක් හා ගුරුවරියන් දෙදෙනෙක් අ
+
+*2024-08-13 18:42:19* · [`adalk`](https://www.ada.lk/breaking_news/තණමල්විල-දැරිය-අතවර-කිරීමේ-සිදුවීම-වසන්-කිරීමට-පාසලේ-විදුහල්පති--ගුරුවරයෙක්-හා-ගුරුවරියන්-දෙදෙනෙක්-අ/11-411358) · `si`
+
+තණමල්විල පොලිස් වසමේ පාසල් දැරියක් දූෂණය කිරීමට අදාළව තොරතුරු දැනගෙන අදාළ තොරතුරු දැනගෙන එම තොරතුරු පොලීසියට දැනුම් නොදී වසන් කිරීමේ සිදුවීමට අදාළව පුද්ගලයන් සිව් දෙනෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+ඒ අනුව දැරිය අධ්‍යාපනය ලබන පාසලේ විදුහල්පතිවරයා, එම පාසලේ ගුරුවරයෙක් හා ගුරුවරියන් දෙදෙනෙක් මෙසේ තණමල්විල පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/add0a827.json)
+
+---
+
 ### Three hiding corruption arrested
 
 *2024-08-13 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199899) · `si`
@@ -403,6 +437,18 @@ All offered 15 billion rupees of 01 October 2032 bonds were sold at an average y
 [Data](articles/6251a354.json)
 
 [Extended Data](ext_articles/6251a354.ext.json)
+
+---
+
+### ඉඟුරු ටොන් 3000ක් ආනයනය කරයි
+
+*2024-08-13 18:03:26* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-ටොන්-3000ක්-ආනයනය-කරයි/11-411356) · `si`
+
+දේශීය ඉඟුරු මිල නියාමනය කිරීම වෙනුවෙන් අමු ඉඟුරු මෙට්‍රික් ටොන් 3000ක් අදියර ගතව ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.ඉඟුරු ආනයනය කිරිම රජයේ වාණිජ විවිධ නීතිගත සංස්ථාව හරහා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/1bfe5566.json)
 
 ---
 
@@ -2163,73 +2209,5 @@ Cabinet approval has been given to reduce the water charges by 10% to the domest
 [Data](articles/5a2904b5.json)
 
 [Extended Data](ext_articles/5a2904b5.ext.json)
-
----
-
-### Shah Rukh
-
-*2024-08-13 11:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/முதியவரை-தள்ளி-விட்ட-ஷாருக்-காணொளி/54-342088) · `ta`
-
-Shah Rukh Khan, a renowned Bollywood actor, recently attended the Locarno Film Awards in Switzerland, where he received the 'Bardo Allah Carriyara' award, making him the first Indian recipient. His appearance has sparked discussions on social media, with some expressing concern over his health while others reassure it's just a postponement due to his busy schedule.
-
-🟩
-
-A video of Super Bollywood actor Shah Rukh Khan, who attended the Locarno Film Awards in Switzerland, is now spreading on social media.
-
-While many who have seen the video, Shah Rukh Khan has expressed his concern, his supporters have said that Shah Rukh has been postponed.
-
-Shah Rukh won the 'Bardo Allah Carriyara' award during the ceremony and is the first Indian to win this valuable award.
-
-◼️
-
-[Data](articles/25ffa128.json)
-
-[Extended Data](ext_articles/25ffa128.ext.json)
-
----
-
-### Sindhuja in Mannar call for justice for a democratic struggle
-
-*2024-08-13 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190973) · `ta`
-
-The Mannar District Public Organizations Union demands justice for Sindhuja Mararaj, whose death at Mannar District General Hospital remains unaddressed. They argue that delayed justice is akin to forgetting it. The union calls for a democratic struggle against the Central and Provincial Health Officers, urging participation from all sides to seek accountability and prevent future tragedies. The protest is scheduled for 9 am on Tuesday (13) outside the hospital.
-
-🟩
-
-The Mannar District Public Organizations Union has called for a democratic struggle on Tuesday (13) seeking justice for Sindhuja in Mannar.
-
-The death of Sindhuja Mararaj, who died on the 28th of last month at the Mannar District General Hospital, has not taken any action.
-
-We consider delayed justice as a forgotten justice. Therefore, the deceased should justice for the recklessness of the hospital. There should be no such murder.
-
-Therefore, the Mannar District Public Organizations Union has called on all sides to participate in the struggle on a moral basis as Sindhuja is seeking justice against the Central and Provincial Health Officers who are hoping to protect the accused.
-
-The protest will be held in front of the Mannar District General Hospital at 9 am on Tuesday (13).
-
-◼️
-
-[Data](articles/6eac85bb.json)
-
-[Extended Data](ext_articles/6eac85bb.ext.json)
-
----
-
-### People's Struggle UPFA candidate bail
-
-*2024-08-13 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199883) · `si`
-
-Nuwan Bopage, a lawyer and UPFA candidate, secured bail through his attorney, also named Nuwan Bopage. The party's executive committee member, Dharmasiri Lankapaleli, facilitated this process.
-
-🟩
-
-Attorney at the Presidential Security candidate, lawyer, Nuwan Bopage has deposited for Mr. lawyer Nuwan Bopage.
-
-The executive committee member of the party is by Dharmasiri Lankapaleli.
-
-◼️
-
-[Data](articles/dbe41f04.json)
-
-[Extended Data](ext_articles/dbe41f04.ext.json)
 
 ---

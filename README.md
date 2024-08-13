@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 13:56:08**
+As of **2024-08-13 14:08:19**
 
 ## Newspaper Stats
 
-*Scraped **40,480** Articles*
+*Scraped **40,482** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 346
+dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,451
 dailyftlk | 2,605
-adalk | 3,718
+adalk | 3,719
 adaderanalk | 4,716
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,152
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,476 (100.0%) of 40,480 articles have been extended.
+40,480 (100.0%) of 40,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### මැතිවරණ පැමිණිලි තවත් ඉහළට
+### Election Complaints
 
 *2024-08-13 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199890) · `si`
 
-ගත වූ පැය 24ක කාලය තුළ මැතිවරණ පැමිණිලි 29ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+In the last 24 hours, 44 election complaints were filed: 15 national, 29 district, and 3 others about violations. Since July 31, there have been 366 complaints, including 355 about violence and other rule breaches.
 
-ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 15ක් සහ දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 11ක් ලෙස නීති උල්ලංඝනය කිරීම් සම්බන්ධයෙන් පැමිණිලි 26ක් සහ වෙනත් පැමිණිලි 03ක් ලෙස සමස්ත පැමිණිලි 29ක් ලැබී ඇති බව සඳහන්ය.
+🟩
 
-මේ අතර පසුගිය ජුලි 31 සිට ඊයේ (12) දිනය දක්වා සමස්ත පැමිණිලි 366ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission says that 29 election complaints have been received during the past 24 hours.
 
-මෙහිදි ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ පැමිණිල්ලක් වෙනත් පැමිණි 10ක් සහ නීතිරීති උල්ලංඝනය කිරීම් සම්බන්ධයෙන් පැමිණිලි 355ක් ලැබී ඇති බව වාර්තා වෙයි.
+The National Elections Complaint Management Center has received 15 complaints and the District Election Production Management Center has received 29 complaints and three other complaints regarding violations.
+
+Meanwhile, 366 complaints have been received from July 31 to yesterday (12).
+
+A complaint with regard to violence has received 355 complaints of other rules and violations.
 
 ◼️
 
 [Data](articles/bf1644b0.json)
+
+[Extended Data](ext_articles/bf1644b0.ext.json)
 
 ---
 
@@ -60,31 +66,45 @@ Sri Lanka Podujana Peramuna (SLPP) Puttalam District MP Jagath Priyankara has me
 
 [Data](articles/2dab934c.json)
 
+[Extended Data](ext_articles/2dab934c.ext.json)
+
 ---
 
-### ජගත් ප්‍රියංකරගේ සහාය රනිල්ට
+### Jagath Priyankara support to Ranil
 
 *2024-08-13 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199889) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පුත්තලම් දිස්ත්‍රික්ක පාර්ලිමේන්තු මන්ත්‍රී ජගත් ප්‍රියංකර මහතා රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර තිබේ.
+Jagath Priyankara, the MP from Puttalam District, has pledged his support for Ranil Wickremesinghe, stating he will back him in the upcoming presidential election.
 
-ඒ අනුව ඉදිරි ජනාධිපතිවරණයේ දී වත්මන් ජනාධිපතිවරයාට සහාය පළ කරන බව ඔහු පවසා ඇත.
+🟩
+
+Jagath Priyankara, Puttalam District MP Jagath Priyankara has assisted Ranil Wickremesinghe.
+
+Accordingly, he has said he will support the present President in the next presidential election.
 
 ◼️
 
 [Data](articles/10eb3994.json)
 
+[Extended Data](ext_articles/10eb3994.ext.json)
+
 ---
 
-### ஸ்டார்லிங்க்குக்கு அனுமதி
+### Allow to Starling
 
 *2024-08-13 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டார்லிங்க்குக்கு-அனுமதி/175-342099) · `ta`
 
-இலங்கையில் செயற்கைக்கோள் தொழில்நுட்பத்தைப் பயன்படுத்தி இணையச் சேவைகளை வழங்குவதற்காக ஸ்டார்லிங்க் தனியார் நிறுவனத்திற்கு   ஆகஸ்ட் 12 முதல் அமுலாகும் வகையில்  தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் "தொலைத்தொடர்பு சேவை வழங்குநர்" அனுமதித் பத்திரம் வழங்கப்பட்டுள்ளது என ஜனாதிபதி ஊடகப்பிரிவு அறிவித்துள்ளது.
+The Telecommunications Regulatory Commission in Sri Lanka has approved a license for a Telecommunication Service Provider to offer satellite-based internet services starting August 12th.
+
+🟩
+
+The Presidential Media Division has announced that the "Telecommunication Service Provider" has been issued by the Telecommunications Regulatory Commission with the Telecommunications Regulatory Commission with implementation from August 12 to provide internet services using satellite technology in Sri Lanka.
 
 ◼️
 
 [Data](articles/0cd78e31.json)
+
+[Extended Data](ext_articles/0cd78e31.ext.json)
 
 ---
 
@@ -211,6 +231,18 @@ The police announced that a special traffic plan is being implemented from 8 am 
 [Data](articles/9ab28c34.json)
 
 [Extended Data](ext_articles/9ab28c34.ext.json)
+
+---
+
+### ස්ටාර්ලින්ක් අන්තර්ජාල සේවාවට ලංකාවේ අවසර
+
+*2024-08-13 12:56:32* · [`adalk`](https://www.ada.lk/technology/ස්ටාර්ලින්ක්-අන්තර්ජාල-සේවාවට-ලංකාවේ-අවසර/5-411346) · `si`
+
+ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයෙක් වන ඉලෝන් මස්ක් මහතාට අයත් චන්ද්‍රිකා තාක්ෂණ අන්තර්ජාල සේවාව වන ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව ලංකාව තුළ ක්‍රියාත්මක කිරිමට එම සමාගමට අවශ්‍ය බලපත්‍රය ශ්‍රි ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව විසින් නිකුත් කර තිබේ. ඒ අනුව ඊයේ මධ්‍යම රාත්‍රියේ සිට බලපාන පරිදි මෙම අවසරය ලබාදුන් බවද කොමිෂන් සභාව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/e539a050.json)
 
 ---
 
@@ -1900,6 +1932,20 @@ Minister Prasanna Ranatunga, Parliamentarian Vajira Abeywardena and Senior Advis
 
 ---
 
+### நாமல் ராஜபக்சவின் பிரவேசம் 2024 ஜனாதிபதி தேர்தல் களச் சூழலில் ஏற்படுத்தும் தாக்கம்
+
+*2024-08-13 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84522) · `en`
+
+ரணில் விக்கிரமசிங்க முதலில் பிரதமராகவும் பிறகு ஜனாதிபதியாகவும் அதிகாரத்துக்கு வந்த நேரம் தொடக்கம்  எதிரிகளும்  விமர்சகர்களும் அவரைப்பற்றி பல தவறான கதைகளை கட்டிவிடுவதில் ஈடுபட்டு வந்திருக்கிறார்கள். ஜனாதிபதி தேர்தலுக்கு முகங்கொடுப்பதற்கு அஞ்சுகிறார் என்பதும்  அவர் வழமைக்கு மாறான நடவடிக்கைகள் மூலமாக தேர்தலைப் ஒத்திவைப்பார் என்பதும் அந்த்கதைகளில் ஒன்று.
+
+இந்த போலிக்கதை  தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி தேர்தல் திகதியை வர்த்தமானியில் வெளியிட்டபோது அம்பலமானது. விக்கிரமசிங்கவே ஒரு சுயேச்சை வேட்பாளராக முதலில் தனது கட்டுப்பணத்தையும் செலுத்தினார். இந்த உண்மை  முகங்கொடுக்க இயலாத அவரது எதிரிகள் தற்போது ” பொறுத்திருந்து பாருங்கள். தேர்தலுக்கு முன்னர் அவர் எதையாவது செய்வார் ” என்று கூறி ஆறுதல் அடைகிறார்கள்.
+
+...
+
+[Data](articles/84b4d85d.json)
+
+---
+
 ### How to vote in the election?: The Commission of Elections Commission increases the confusion of the public - Ambika Sakthunanathan
 
 *2024-08-13 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/190951) · `ta`
@@ -2191,57 +2237,5 @@ Meanwhile, the Executive Director of the Democratic Reform and Election Monitori
 [Data](articles/86fd3270.json)
 
 [Extended Data](ext_articles/86fd3270.ext.json)
-
----
-
-### Do not open the mouth for 3 years
-
-*2024-08-13 01:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வருடங்களுக்கு-வாய்-திறக்க-கூடாது/175-342064) · `ta`
-
-At a plantation workers' council meeting, it was decided not to strike for wage hikes for three years. The demands included paying 50 rupees per kg for fat, reducing the additional allowance from 700 to 350 rupees, and a heated debate resulted in a vote favoring the latter.
-
-🟩
-
-A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council. Companies also made their 5 demands.
-
-“Plantation workers should not carry out a struggle or any other action for three years asking for a pay hike.”The first is the demand.
-
-“One kilogram of fat will be paid 50 rupees.”Is the second demand.
-
-“The additional allowance is 350 rupees. Therefore, only the 350 rupees should be taken away. ”
-
-There were serious arguments on this. 11 people were voted in favor of 1,350 rupees.
-
-◼️
-
-[Data](articles/662d2d03.json)
-
-[Extended Data](ext_articles/662d2d03.ext.json)
-
----
-
-### Companies request
-
-*2024-08-13 01:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பனிகளின்-கோரிக்கை/175-342064) · `ta`
-
-A meeting was held on Monday at the Salary Council to discuss plantation workers' demands. The companies proposed five requests, including a three-year ban on wage hikes, paying 50 rupees per kilogram of fat, and reducing the additional allowance by 350 rupees. Despite heated debates, the proposal was approved by 11 votes.
-
-🟩
-
-A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council. Companies also made their 5 demands.
-
-“Plantation workers should not carry out a struggle or any other action for three years asking for a pay hike.”The first is the demand.
-
-“One kilogram of fat will be paid 50 rupees.”Is the second demand.
-
-“The additional allowance is 350 rupees. Therefore, only the 350 rupees should be taken away. ”
-
-There were serious arguments on this. 11 people were voted in favor of 1,350 rupees.
-
-◼️
-
-[Data](articles/efce03ac.json)
-
-[Extended Data](ext_articles/efce03ac.ext.json)
 
 ---

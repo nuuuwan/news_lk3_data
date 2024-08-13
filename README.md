@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 11:07:28**
+As of **2024-08-13 11:21:15**
 
 ## Newspaper Stats
 
-*Scraped **40,427** Articles*
+*Scraped **40,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
 adalk | 3,713
-adaderanalk | 4,708
+adaderanalk | 4,710
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,138
+tamilmirrorlk | 5,140
 virakesarilk | 6,394
 adaderanasinhalalk | 6,877
 
@@ -26,29 +26,85 @@ adaderanasinhalalk | 6,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,424 (100.0%) of 40,427 articles have been extended.
+40,427 (100.0%) of 40,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### පාසල් සිසුවියව සමූහ දූෂණයට ලක්කළ කොන්දොස්තර ඇතුළු 5ක් අත්අඩංගුවට
+### 2024 Presidential Election: Placing of deposits to conclude tomorrow
+
+*2024-08-13 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101195/2024-presidential-election-placing-of-deposits-to-conclude-tomorrow) · `en`
+
+The placing of deposits for the 2024 Presidential Election is scheduled to be concluded from 12 noon tomorrow (14).
+
+The Election Commission has stated that 32 individuals have already placed deposits to contest in the presidential election.
+
+Among these, are 16 candidates from recognized political parties and one from other political party have placed deposits.
+
+Additionally, 15 independent candidates have also deposited money for the upcoming presidential election.
+
+It is reported that another group of individuals plan to place their deposits today (13) for the presidential election.
+
+The acceptance of nominations for the upcoming presidential election is scheduled to begin the day after tomorrow (15) from 9.00 a.m. to 11.00 a.m.
+
+Police have announced that a special security program will be implemented in connection with the election secretariat in Rajagiriya on the day of the nomination acceptance.
+
+◼️
+
+[Data](articles/f1657c97.json)
+
+---
+
+### President Ranil to hold inaugural rally of election campaign in A’pura
+
+*2024-08-13 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101194/president-ranil-to-hold-inaugural-rally-of-election-campaign-in-apura) · `en`
+
+The inaugural public rally in the election campaign of President Ranil Wickremesinghe for the upcoming Presidential Election will be held on August 17 at the Salgado Stadium in Anuradhapura.
+
+This rally will include representatives from various parties and groups supporting the President, including those who joined from the Sri Lanka Podujana Peramuna (SLPP).
+
+Meanwhile, former Minister Vijith Vijayamuni Soysa has announced his support for President Ranil Wickremesinghe in the upcoming Presidential Election.
+
+He has officially communicated this decision during a meeting with the President last afternoon (12).
+
+Meanwhile, a discussion was held between the representatives of the Tamil parties representing the Northern Province and President Ranil Wickramasinghe on Monday (12).
+
+It is reported that the discussion was focused on addressing issues faced by the Tamil community in the North.
+
+...
+
+[Data](articles/23c4d430.json)
+
+---
+
+### Five of the conducts who were raped by the school girl arrested
 
 *2024-08-13 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199880) · `si`
 
-අට ශ්‍රේණියේ ඉගෙනුම ලබන පාසල් සිසුවියක්ව වසර දෙකක පමණ කාලයක සිට සමූහ දූෂණයකට ලක්කළ බව කියන සිද්ධියක් සම්බන්ධයෙන් කොන්දොස්තරවරයෙකු ඇතුළු පස්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Horana, five individuals, including a private bus conductor, have been arrested for allegedly raping an eighth-grade student over two years. The victim lived with her paralyzed parents and older brother. The conductor, among others, had previously detained the girl a month ago. Investigations uncovered severe sexual abuse dating back three years, with incidents occurring in various locations around Horana and Kalutara North. The girl has been hospitalized in Kalutara and Nagoda Surverts, and the suspects will face charges at the Kalutara Magistrate's Court under the direction of Chief Inspector Damith Jayathika.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ, හොරණ රෙමුණ ප්‍රදේශයේ පදිංචි පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු කළුතර, දියගම ප්‍රදේශයේ පදිංචි පුද්ගලයන් තිදෙනෙකු සහ ඇය නිවසක රඳවා ගැනිමට අනුබල දුන් පුද්ගලයෙකු බව කළුතර උතුර පොලීසිය පවසයි.
+🟩
 
-අත්අඩංගුවට පත්වූවන් අතර දෙදෙනකු විවාහකයින් බවත් ඉන් එක් අයෙකු වයස 60 ඉක්මවූ අයෙකු බවද පොලීසිය සඳහන් කරයි.
+Five, including a conductor, has been arrested in connection with a grade eight student who has been raped for about two years.
 
-දැරිය සිය රෝගි දෙමව්පියන් සහ වැඩිමහල් සොහොයුරා සමග එකට ජීවත්ව සිට ඇති අතර, නිවසේ අගහිඟකම් හේතුවෙන් මුදල් සහ වෙනත් දෑ ලබාදෙමින් දැරිය රවටා වසර දෙකක පමණ කාලයක සිට සමූහ දූෂණයට ලක්කර ඇති බව මෙතෙක් කළ පරීක්ෂණවලදී හෙළිව තිබේ.
+The arrested private bus conductor residents of Horana area in Horana area, Kalutara North Police said.
 
-අත්අඩංගුවට ගෙන ඇති පෞද්ගලික බස් කොන්දොස්තරවරයා මාසයකට පමණ පෙර දැරිය හොරණ රෙමුණ ප්‍රදේශයේ නිවසට කැටුව ගොස් රඳවා තබාගෙන අතවර කර ඇති අතර, මෙම දැරිය නිවසෙන් අතුරුදහන් වීම සම්බන්ධයෙන් කළුතර උතුර පොලීසියට ලද තොරතුරක් මත පරීක්ෂණ ආරම්භ කර ඇත.
+Police say two suspects were married and one of them exceeded one of them.
+
+Investigations have revealed that the girl had been alive with his paralyzed parents and the older brother.
+
+The private bus conductor had detained the girl about a month ago and abused the house of Horana.
+
+According to the investigation of the conductor of Kalutara Police OIC, Damith Jayatilleke and the women's and child staff cops in the investigation, the girl was found at the conductor's house in Horana.Kalutara North Police said.
+
+The conductor later revealed that the conductor had later revealed that the conductor had been seriously sexually abused by various people from three years before the abduction of the girl.
 
 ...
 
 [Data](articles/52d0ecef.json)
+
+[Extended Data](ext_articles/52d0ecef.ext.json)
 
 ---
 
@@ -65,6 +121,42 @@ National Executive Member of the National People’s Power (NPP), Mr. Bimal Ratn
 ◼️
 
 [Data](articles/becead3a.json)
+
+[Extended Data](ext_articles/becead3a.ext.json)
+
+---
+
+### தம்மரத்ன தேரர் சஜித்திற்கு ஆதரவு
+
+*2024-08-13 10:46:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தம்மரத்ன-தேரர்-சஜித்திற்கு-ஆதரவு/175-342083) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு நிபந்தனையுடன் கூடிய ஆதரவை வழங்குவதாக மிஹிந்தலை ரஜமஹா விகாரையின் பிரதம பீடாதிபதி வலஹகுணவெவ தம்மரத்ன தேரர் தெரிவித்துள்ளார்.
+
+பிரேமதாச ஜனாதிபதியாக தெரிவு செய்யப்பட்டால் பல வாக்குறுதிகள் நிறைவேற்றப்பட வேண்டும் என்ற நிபந்தனையுடன், தற்போதைய அரசாங்கத்தையும் எதிர்க்கட்சித் தலைவரையும் கடுமையாக விமர்சித்து வரும் தம்மரதன தேரர், தனது ஆதரவை வழங்கத் தயாராக இருப்பதாகத் தெரிவித்தார்.
+
+“பொதுமக்களுக்கு இந்த முடிவைத் தெரிவித்து சஜித் பிரேமதாசவுக்கு ஆதரவளிக்குமாறு கேட்டுக்கொள்கிறேன். ஆனால் அவர் நமக்கு அளித்த வாக்குறுதிகளை நிறைவேற்றுவார் என்ற நிபந்தனையுடன் தான் இந்த ஆதரவு வழங்கப்பட வேண்டும். இந்த தலைவருக்கு அதிகாரத்தைக் கொடுத்து அவரைப் பணிபுரிய வைப்போம்” என தம்மரதன தேரர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e4bc9da0.json)
+
+---
+
+### காதலியை தேடிச் சென்ற தந்தையொருவர் சடலமாக மீட்பு
+
+*2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தையொருவர்-சடலமாக-மீட்பு/175-342082) · `ta`
+
+நீர்கொழும்பில் இருந்து சிலாபம் தொடுவா பிரதேசத்திற்கு தனது 19 வயதுடைய காதலியை தேடிச் சென்ற 30 வயதுடைய இளைஞனின் சடலம் குறித்த பகுதியில் உள்ள பாழடைந்த கிணற்றில் இருந்து மீட்கப்பட்டதாக தொடுவா பொலிஸார் தெரிவித்தனர்.
+
+நீர்கொழும்பு, திபிரிகஸ்கட்டுவ ஹரிச்சந்திர புர பிரதேசத்தை சேர்ந்த சமித் மதுசங்க என்ற இளைஞனே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார் .
+
+ஒரு பிள்ளையின் தந்தையான குறித்த நபர் தனது மனைவியை பிரிந்து வாழ்ந்து வந்த நிலையில் அவர் வசித்து வந்த அதே பகுதியில் உள்ள 19 வயது இளம்பெண் ஒருவருடன் காதல் உறவில் ஈடுபட்டுள்ளார்.
+
+தங்களுடைய மகள் திருமணமான ஒருவருடன் காதல் உறவில் ஈடுபட்டு வருவதை அறிந்த குறித்த பெண்ணின் பெற்றோர்கள் மகளை, மஹவெவ தொடுவா பிரதேசத்தில் உள்ள உறவினரின் வீட்டில் தங்க வைத்துள்ளனர் . இது தொடர்பாக தகவல் அறிந்த இளைஞன் கடந்த 10ஆம் திகதி இரவு தனது காதலியை தேடி அவர் தங்கி இருந்த வீட்டருகில் சென்று மறைவாக இருந்துள்ளார் .
+
+...
+
+[Data](articles/b2eaa678.json)
 
 ---
 
@@ -416,21 +508,35 @@ The Department of Meteorology has urged the people to take necessary steps to re
 
 ---
 
-### 13 හැවැරිදි සිසුවිය සමූහ අපයෝජනය කළ පහක් අල්ලයි
+### 13 Group jog in the grandfather
 
 *2024-08-13 09:12:18* · [`adalk`](https://www.ada.lk/breaking_news/13-හැවැරිදි-සිසුවිය-සමූහ-අපයෝජනය-කළ-පහක්-අල්ලයි/11-411336) · `si`
 
-වයස අවුරුදු 13 ක  පාසල් සිසුවියක වසර දෙකක පමණ කාලයක සිට සමූහ අපයෝජනයකට ලක්කල බව කියන  සිද්ධියක් සම්බන්ධයෙන් පෞද්ගලික බස් කොන්දොස්තරවරයෙකු ඇතුළු පස්දෙනෙකු  අත්අඩංගුවට ගත්බවත් කළුතර උතුර පොලිසිය පවසයි.
+Thirteen individuals, including a private bus conductor, were arrested for allegedly abusing a 13-year-old girl over two years. The victims lived with her ill parents and an older brother. The suspects, two of whom were married, were apprehended after a declaration by Chief Inspector Damith Jayatilake. The girl was hospitalized in Kalutara and Nagoda, and the suspects were due to appear in court.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හොරණ රෙමුණ ප්‍රදේශයේ පදිංචි පෞද්ගලික බස් රථ කොන්දොස්තරවරයෙකු කළුතර, දියගම ප්‍රදේශයේ පදිංචි  පුද්ගලයන් තිදෙනෙකු සහ ඇය නිවසක රදවා ගැනිමට අනුබල දුන් පුද්ගලයෙකු බව පොලිසිය කීය.
+🟩
 
-අත්අඩංගුවට පත්වූවන් අතර දෙදෙනකු විවාහකයින් බවත් ඉන් එක් අයෙකු වයස 60 ඉක්මවූ සීයා කෙනෙකු බවද පොලිසිය සදහන් කරයි.
+Five including a private bus conductor and five others were arrested regarding a 13-year-old schoolgirl's abuse since two years.
 
-දැරිය සිය රෝගි දෙමව්පියන් සහ වැඩිමහල් සොහොයුරා සමග එකට ජීවත්ව සිට ඇති අතර , නිවසේ අගහිගකම් හේතුවෙන් මුදල් සහ වෙනත් දෑ ලබදෙමින් ප්‍රියමනාප දැරිය රවටා වසර දෙකක  පමණ කාලයක සිට සමූහ අතවරයට ලක්කර ඇති බවට මෙතෙක් කල පරීක්ෂණ වලදී හෙලිව ඇති බව පොලිසිය පවසයි.
+Police said that a private bus conductor from Ramun area in Horana area was a person who was residents of the Damagama area in Kalutara and her residents.
 
-...
+Police say two suspects were married and one of them exceeded one of them.
+
+The girl has been alive with his sick parents and the older brother, police said.
+
+A month ago, the girl had been raised and kept the girl to the house Horana to the house in Horana.
+
+The suspects have been arrested following the declarations obtained by the Chief Inspector Damith Jayatilake, the Chief Inspector Damith Jayatilake, who was taken into custody by a minor girl.
+
+The girl has been admitted to Kalutara and Nagoda surveillance and the suspects were to be produced before the Kalutara Magistrate's Court.
+
+Kalutara North Superintendent of Police is directed by the Chief Inspector Damith Jayathika, OIC of the Women and Women's Bureau.
+
+◼️
 
 [Data](articles/fe99b891.json)
+
+[Extended Data](ext_articles/fe99b891.ext.json)
 
 ---
 
@@ -2175,109 +2281,5 @@ At that time, the Criminal Investigations Officers' Officers arrested against th
 [Data](articles/8b9c9320.json)
 
 [Extended Data](ext_articles/8b9c9320.ext.json)
-
----
-
-### The last moment of three including a baby
-
-*2024-08-12 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199860) · `si`
-
-In a tragic accident in Weweldeniya involving a three-wheeler and a lorry, four individuals including a baby died. The incident occurred when the three-wheeler collided with the lorry. Among the deceased were the driver of the three-wheeler, a woman passenger, and the baby. Two more passengers, both women and a boy, were critically injured and taken to Warakapola Hospital. Preliminary reports suggest the accident was caused by the three-wheeler driver.
-
-🟩
-
-Three persons including a small blend were killed in an accident in Weweldeniya area.
-
-The front camera was noted on the front of a vehicle from the back of the accident.
-
-The police said that the accident had occurred in a three-wheeler in a lorry near the road.
-
-The driver of the three-wheeler and a woman in the accident and died of a small baby.
-
-Two other women and a boy were seriously injured in the three-wheeler and have been seriously injured and rushed to the Warakapola Hospital.
-
-Preliminary investigations have revealed that the driver of the three-wheeler casualties had been revealed in the accident.
-
-◼️
-
-[Data](articles/01f0d04a.json)
-
-[Extended Data](ext_articles/01f0d04a.ext.json)
-
----
-
-### A horrible bus accident
-
-*2024-08-12 16:51:05* · [`adalk`](https://www.ada.lk/breaking_news/බිහිසුණු-බස්-රථ-අනතුරක්/11-411328) · `si`
-
-In a tragic bus accident on the Kesbewa road, one person died and several were injured. The victim, aged 45-55 and from Akuressa, was identified after the incident. Two others involved in a nearby cafeteria were also hurt. The SLTB bus, traveling from Bandaragama to Kesbewa, collided with them. Police are investigating the cause, including whether the victims were attempting to cross the road when hit.
-
-🟩
-
-Bandaragama police say that one killed in a SLTB bus round road at Kasbwa road on the Kesbwa road on the Kashbewa road.
-
-A spokesman for Bandaragama Hospital said that the bus was admitted to the hospital in the accident
-
-The deceased has been identified as a 45-55 year old resident of Akuressa
-
-Police investigations have revealed that the two crash and another had received afternoon in a cafeteria for a construction work of a temple in Bandaragama.
-
-After receiving food, the person who had brought food from the Akuressa had gone to the cafeteria a little to the cafeter and while the other two people stayed on the road until he arrived. The SLTB bus, who was traveling from Bandaragama to Kesbewa, was running in the opposite direction, police said
-
-The man who had gone to the shopping for purchasing for purchasing, the crowd had come into the scene and tried to crumble with the bus and was under the bus.Police say there are
-
-...
-
-[Data](articles/b17de7c8.json)
-
-[Extended Data](ext_articles/b17de7c8.ext.json)
-
----
-
-### President visits MP Vadiwale
-
-*2024-08-12 16:49:27* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-වඩිවේල්ගේ-සහාය-ජනපතිට/11-411327) · `si`
-
-President Ranil Wickremesinghe supports the General Secretary of the National Estate Workers Union for the upcoming presidential election. The President addressed issues like estate workers' salaries, housing, and teacher assistants during his visit to MP Vadiwale in Colombo.
-
-🟩
-
-The General Secretary General of the National Estate Workers Union (Ceylon) will be supported by President Ranil Wickremesinghe in the coming presidential election.
-
-The MP was speaking at the Jayamanamu journalism in Colombo.
-
-Although the political ownership of the Ceylon Electricity Association (NGOs) were held in the meeting, the President was officially deferred to the public to inform the president so quickly informing the public.He said that he said.
-
-The President added that the President was able to solve a large number of problems of the plantation people, including estate workers' salaries, housing and teacher assistants.
-
-◼️
-
-[Data](articles/6012496c.json)
-
-[Extended Data](ext_articles/6012496c.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover remains low
-
-*2024-08-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-remains-low-176472/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.08 percent, or 9.26 points, at 11,312; while the more liquid S&P SL20 Index closed up 0.28 percent, or 8.91 points, at 3,233.
-
-“Despite the market ending positively, investor participation was minimal,” Softlogic Stockbrokers said. “It was a dull day with very low turnover.”
-
-There was one crossing recorded; A local to local transaction on Kelani Tyres Plc contributed 38 million rupees to the turnover. The share closed flat at 75.00 rupees.
-
-Foreign buying was seen in Commercial Bank of Ceylon Plc (up at 91.40), Ceylinco Holdings Plc non-voting (flat at 925.00), Renuka Agri Foods Plc (down at 2.90), and Hatton National Bank Plc non-voting (down at 140.00).
-
-Foreign selling was seen in John Keells Holdings Plc (down at 178.00), Dialog Axiata Plc (flat at 9.30), Access Engineering Plc (flat 21.80), and Nations Trust Bank Plc (down at 119.00).
-
-...
-
-[Data](articles/973c001d.json)
-
-[Extended Data](ext_articles/973c001d.ext.json)
 
 ---

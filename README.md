@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 18:55:50**
+As of **2024-08-13 19:06:43**
 
 ## Newspaper Stats
 
-*Scraped **40,540** Articles*
+*Scraped **40,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 377
 colombotelegraphcom | 387
-islandlk | 2,344
+islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,727
-adaderanalk | 4,724
+adaderanalk | 4,725
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,158
 virakesarilk | 6,421
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,539 (100.0%) of 40,540 articles have been extended.
+40,540 (100.0%) of 40,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### Gang rape of school girl: Principal, 2 teachers arrested for concealing incident
+
+*2024-08-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101211/gang-rape-of-school-girl-principal-2-teachers-arrested-for-concealing-incident) · `en`
+
+The principal and three teachers, including two female teachers, at a school in Thanamalwila have been arrested by police for allegedly concealing the incident of a 16-year-old girl who was gang raped and abused for a year by a group of students.
+
+◼️
+
+[Data](articles/b32f31af.json)
+
+---
 
 ### Sri Lanka Port City land for $100mn Asiri hospital, Gateway campuses
 
@@ -823,6 +835,8 @@ The salary hike would cost around 200 billion rupees a year, Minister Gunwardana
 ...
 
 [Data](articles/d0851cb7.json)
+
+[Extended Data](ext_articles/d0851cb7.ext.json)
 
 ---
 
@@ -2199,27 +2213,5 @@ Representatives of parties and groups, including the team, to support the Presid
 [Data](articles/75a6be06.json)
 
 [Extended Data](ext_articles/75a6be06.ext.json)
-
----
-
-### Sri Lanka Yala rice harvest projected at 1.77mn tonnes
-
-*2024-08-13 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-yala-rice-harvest-projected-at-1-77mn-tonnes-176515/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting a rice harvest of at least 1.771 million metric tonnes in the Yala minor agricultural season that is coming to an end, a projection by the Department of Agriculture shows.
-
-The projection is made based on 477,299 hectares of rice cultivated up the end of June 2024, which was 1 percent lower than last year.
-
-About 88 percent of the Yala season target of 540,627 hactare completed by June with some areas in Kurunegala, Puttalam, Gampaha, Kalutara, Galle and Matara remaining to cultivated.
-
-In the 2023, Yala season, which was also a good year, 1.817 million metric tonnes of rice was harvested with 505,076 hectares cultivated and 491,672 harvested.
-
-The Maha cropping season, which brings most of the rice crop, depends on inter-monsoon rains over which there are some concerns.   (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/e03b84ca.json)
-
-[Extended Data](ext_articles/e03b84ca.ext.json)
 
 ---

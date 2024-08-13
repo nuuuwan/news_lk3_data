@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 13:36:20**
+As of **2024-08-13 13:56:08**
 
 ## Newspaper Stats
 
-*Scraped **40,476** Articles*
+*Scraped **40,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,123 @@ islandlk | 2,342
 economynextcom | 2,451
 dailyftlk | 2,605
 adalk | 3,718
-adaderanalk | 4,715
+adaderanalk | 4,716
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,151
+tamilmirrorlk | 5,152
 virakesarilk | 6,405
-adaderanasinhalalk | 6,885
+adaderanasinhalalk | 6,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,465 (100.0%) of 40,476 articles have been extended.
+40,476 (100.0%) of 40,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ஆடாத ஆசிரியை  நடுவரான சோகம்
+### මැතිවරණ පැමිණිලි තවත් ඉහළට
+
+*2024-08-13 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199890) · `si`
+
+ගත වූ පැය 24ක කාලය තුළ මැතිවරණ පැමිණිලි 29ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 15ක් සහ දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 11ක් ලෙස නීති උල්ලංඝනය කිරීම් සම්බන්ධයෙන් පැමිණිලි 26ක් සහ වෙනත් පැමිණිලි 03ක් ලෙස සමස්ත පැමිණිලි 29ක් ලැබී ඇති බව සඳහන්ය.
+
+මේ අතර පසුගිය ජුලි 31 සිට ඊයේ (12) දිනය දක්වා සමස්ත පැමිණිලි 366ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+මෙහිදි ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ පැමිණිල්ලක් වෙනත් පැමිණි 10ක් සහ නීතිරීති උල්ලංඝනය කිරීම් සම්බන්ධයෙන් පැමිණිලි 355ක් ලැබී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/bf1644b0.json)
+
+---
+
+### MP Jagath Priyankara pledges support to President Ranil
+
+*2024-08-13 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101202/mp-jagath-priyankara-pledges-support-to-president-ranil) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Puttalam District MP Jagath Priyankara has met with President Ranil Wickremesinghe and pledged his support to the President in the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/2dab934c.json)
+
+---
+
+### ජගත් ප්‍රියංකරගේ සහාය රනිල්ට
+
+*2024-08-13 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199889) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පුත්තලම් දිස්ත්‍රික්ක පාර්ලිමේන්තු මන්ත්‍රී ජගත් ප්‍රියංකර මහතා රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කර තිබේ.
+
+ඒ අනුව ඉදිරි ජනාධිපතිවරණයේ දී වත්මන් ජනාධිපතිවරයාට සහාය පළ කරන බව ඔහු පවසා ඇත.
+
+◼️
+
+[Data](articles/10eb3994.json)
+
+---
+
+### ஸ்டார்லிங்க்குக்கு அனுமதி
+
+*2024-08-13 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டார்லிங்க்குக்கு-அனுமதி/175-342099) · `ta`
+
+இலங்கையில் செயற்கைக்கோள் தொழில்நுட்பத்தைப் பயன்படுத்தி இணையச் சேவைகளை வழங்குவதற்காக ஸ்டார்லிங்க் தனியார் நிறுவனத்திற்கு   ஆகஸ்ட் 12 முதல் அமுலாகும் வகையில்  தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் "தொலைத்தொடர்பு சேவை வழங்குநர்" அனுமதித் பத்திரம் வழங்கப்பட்டுள்ளது என ஜனாதிபதி ஊடகப்பிரிவு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0cd78e31.json)
+
+---
+
+### Sickness
 
 *2024-08-13 13:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆடாத-ஆசிரியை-நடுவரான-சோகம்/76-342097) · `ta`
 
-நாடளாவிய ரீதியில் பல வலயங்களில் தற்போது தமிழ்த்தின போட்டிகள் நடைபெறுகின்றன. அதில் சில வலயங்களில் முறைக்கேடுகள் இடம்பெற்றமை தொடர்பான செய்திகள் வெளியாகியிருந்தன.
+Tamil Nadu competitions faced irregularities, especially in the Kandy Zone. Issues included inexperienced personnel, like referees accompanying dancers, questioning their qualifications. Competitions started late, ended late, causing inconvenience for students and parents without transport. Parents criticized poor organization by the Kandy Zonal Education Workshop, with complaints unaddressed. Contact details for feedback were provided.
 
-இந்நிலையில், கண்டி வலயத்தில் ஞாயிற்றுக்கிழமை (11)  நடத்தப்பட்ட தமிழ்த்தின போட்டிகளில் பல முறைகேடுகள் இடம்பெற்றுள்ளன. இந்த போட்டிகள் தெல்தோட்டையில் இடம்பெற்றன.
+🟩
 
-நடுவர் குழுவில் விடயதானம் தொடர்பில் எவ்விதமான அனுபவமற்றவர்கள் இணைத்துக் கொள்ளப்பட்டுள்ளனர். உதாரணமாக தனி நடனத்துக்கான நடுவர் குழாமில், நடனமே கற்றுக்கொள்ளதா, எவ்விதமான முன் அனுபவமும் இல்லை ஆசிரியை இணைத்துக்கொள்ள பட்டிருந்தார் என குற்றஞ்சாட்டப்பட்டுள்ளது.
+Tamil Nadu competitions are currently being held in many zones nationwide. There have been reports of irregularities in some zones.
 
-நடுவராக பணியாற்றிய அந்த ஆசிரியை ஆரம்பப்பிரிவு நியமனம் உள்ள தமிழ் பாட வளவாளர் என்றும், அந்த ஆசிரியை தனி நடனத்துக்கு வழங்கிய புள்ளியை எவ்வாறு ஏற்றுக்கொள்வது என்றும் கேள்வி எழுப்பப்பட்டுள்ளது.
+In this context, there have been many irregularities in the Tamil Nadu competitions held on Sunday (11) in the Kandy Zone. These matches were held in Teltota.
 
-இந்நிலையில், சுடுகிறது மடியை பிடி என்பது போல, மாணவர்களை போட்டிக்கு அழைத்து வந்த ஆசிரியர்களில் ஒரு சிலரை நடுவர் குழுவில் இணைத்து போட்டிகள் நடத்தப்பட்டுள்ளன.
+What kind of inexperienced people have been incorporated into the matter. For example, in the arbitration group for a separate dance, it is alleged that the teacher was accompanied by the teacher to learn or not.
+
+It has been questioned as to how the teacher who served as the referee was a Tamil curriculum, and how the teacher accepted the point of giving the teacher for a separate dance.
+
+In this case, a few of the teachers who brought the students to the competition have been held in the jury.
+
+Students have been invited at 8 am for the competitions, and the competitions have begun at 12 noon.The competitions have been completed at 10 pm.
 
 ...
 
 [Data](articles/2b8e825e.json)
 
+[Extended Data](ext_articles/2b8e825e.ext.json)
+
 ---
 
-### STARLINK සේවා සැපයීමට බලපත්‍රය නිකුත් කෙරේ
+### License issued to provide Starlink Services
 
 *2024-08-13 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199888) · `si`
 
-ශ්‍රී ලංකා තුළ චන්ද්‍රිකා තාක්ෂණය ඔස්සේ බ්‍රෝඩ්බෑන්ඩ් සේවා සැපයීම සඳහා STARLINK ලංකා පෞද්ගලික සමාගමට අදාළ බලපත්‍රය නිකුත් කර තිබේ.
+Starlink Lanka received a license from Sri Lanka's Telecommunication Regulatory Commission to offer broadband services via satellite technology starting August 12.
 
-විදුලි සංදේශ නියාමන කොමිසම පැවසුවේ, එම සමාගමට විදුලි සංදේශ සේවා සැපයීමේ බලපත්‍රය අගෝස්තු 12﻿ වනදා සිට ක්‍රියාත්මක වන පරිදි නිකුත් කළ බවය.
+🟩
+
+The license has been issued to Starlink Lanka Private Company to provide Broadband services through satellite technology in Sri Lanka.
+
+The Telecommunication Regulatory Commission (Telecommunication Regulatory License to provide Telecommunication License to operate from August 12.
 
 ◼️
 
 [Data](articles/2103688f.json)
+
+[Extended Data](ext_articles/2103688f.ext.json)
 
 ---
 
@@ -78,17 +148,25 @@ This license authorizes the company to provide satellite broadband services in S
 
 [Data](articles/c7df13a6.json)
 
+[Extended Data](ext_articles/c7df13a6.ext.json)
+
 ---
 
-### පුත්තලමේ පොහොට්ටු මන්ත්‍රීවරයෙක් රනිල්ට සහය පළ කරයි
+### MP Puttalam supports Ranil
 
 *2024-08-13 13:03:23* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලමේ-පොහොට්ටු-මන්ත්‍රීවරයෙක්-රනිල්ට-සහය-පළ-කරයි/11-411347) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ජගත් ප්‍රියංකර මහතා ඉදිරි ජනාධිපතිවරණයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කරන බව අද(13දා) ප්‍රකාශයට පත්කර තිබේ.
+MP Jagath Priyankara receives support from President Ranil Wickremesinghe for the upcoming presidential election on March 13th.
+
+🟩
+
+Jagath Priyankara, MP Jagath Priyankara, Jagath Priyankara, is supported by President Ranil Wickremesinghe in the next presidential election today (13).
 
 ◼️
 
 [Data](articles/cd7b62dc.json)
+
+[Extended Data](ext_articles/cd7b62dc.ext.json)
 
 ---
 
@@ -111,6 +189,8 @@ Sri Lanka to release confiscated ginger haul for Ayurveda medicine production
 ◼️
 
 [Data](articles/93150db4.json)
+
+[Extended Data](ext_articles/93150db4.ext.json)
 
 ---
 
@@ -180,15 +260,21 @@ Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Strug
 
 ---
 
-### நுவானுக்கான கட்டுப்பணம் செலுத்தபட்டது
+### The control of the Nuwan has been paid
 
 *2024-08-13 12:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவானுக்கான-கட்டுப்பணம்-செலுத்தபட்டது/175-342094) · `ta`
 
-மக்கள் போராட்டக் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகேவுக்காண கட்டுப்பணம்  வைப்பிலிடப்பட்டுள்ளது.
+Nuwan Bopage, attorney-at-law and presidential candidate for the People's Struggle Alliance, has been restrained.
+
+🟩
+
+Attorney -at -Law Nuwan Bopage, the presidential candidate of the People's Struggle Alliance has been restricted.
 
 ◼️
 
 [Data](articles/3f381cc8.json)
+
+[Extended Data](ext_articles/3f381cc8.ext.json)
 
 ---
 
@@ -255,6 +341,8 @@ Water Supply and Drainage Board has seen costs reduce due to recent reductions i
 ◼️
 
 [Data](articles/03014171.json)
+
+[Extended Data](ext_articles/03014171.ext.json)
 
 ---
 
@@ -796,19 +884,27 @@ This reflects the greater ability of the head office to provide extraordinary su
 
 [Data](articles/63e6315b.json)
 
+[Extended Data](ext_articles/63e6315b.ext.json)
+
 ---
 
-### ජනපතිගේ මංගල ජනපතිවරණ රැළිය අනුරපුරේදී
+### President's Wedding President Mahinda Rajapaksa rally
 
 *2024-08-13 10:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-මංගල-ජනපතිවරණ-රැළිය-අනුරපුරේදී/11-411339) · `si`
 
-මෙවර ජනපතිවරණය වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජය තහවුරු කිරීම වෙනුවෙන් පැවැත්විමට නියමිත ජනාධිපතිවරණ මංගල රැලිය ලබන සෙනසුරාදා අනුරාධපුර සල්ගාදු පිටියේදී පැවැත්වීමට නියමිතය.
+A rally supporting President Ranil Wickremesinghe will be held on Saturday, featuring representatives from various parties and groups. This event aims to show solidarity with the President amidst ongoing political activities.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ජනාධිපතිවරයාට සහාය පළකිරීමට එක් වූ කණ්ඩායම ඇතුළු මෙවර ජනාධිපතිවරයාට සහාය පළකරන පක්ෂ සහ කණ්ඩායම්වල නියෝජිතයින් මෙම රැලිය සඳහා සහභාගී වීමට නියමිතය.
+🟩
+
+President Ranil Wickremesinghe will be held to ensure President Ranil Wickremesinghe this time President Ranil Wickremesinghe will be held on Saturday.
+
+Representatives of parties and groups, including the team, to support the President, will participate in this rally.
 
 ◼️
 
 [Data](articles/75a6be06.json)
+
+[Extended Data](ext_articles/75a6be06.ext.json)
 
 ---
 
@@ -829,6 +925,8 @@ The Maha cropping season, which brings most of the rice crop, depends on inter-m
 ◼️
 
 [Data](articles/e03b84ca.json)
+
+[Extended Data](ext_articles/e03b84ca.ext.json)
 
 ---
 
@@ -1057,6 +1155,8 @@ In equities, Colombo’s All Share Price Index opened 10.15 points higher at 11,
 ◼️
 
 [Data](articles/e5e7afe4.json)
+
+[Extended Data](ext_articles/e5e7afe4.ext.json)
 
 ---
 
@@ -2143,105 +2243,5 @@ There were serious arguments on this. 11 people were voted in favor of 1,350 rup
 [Data](articles/efce03ac.json)
 
 [Extended Data](ext_articles/efce03ac.ext.json)
-
----
-
-### Covenant to deceive plantation workers
-
-*2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/150-342063) · `ta`
-
-A meeting at the Salary Council discussed a proposed salary increase for plantation workers, offering Rs 1,350 plus a 350 rupee allowance. However, companies opposed immediate increases, arguing for a delay and reduction of the additional allowance. Despite opposition from several unions and individuals, the proposal passed with a majority vote. Critics, including Kidnan Selvaraj of the All Ceylon Plantation Workers Union, accuse parties involved of deception and betrayal towards workers' rights.
-
-🟩
-
-Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, who has condemned the talks at the Salary Council, said it was a salary agreement to deceive the plantation workers.
-
-A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council.
-
-The meeting was attended by 10 trade unions, three representatives of companies, including Media Spokesperson of the Employers Federation, Roshan Rajadurai and three state officials.
-
-The Ceylon Workers Congress and the United National Party (UNP) National Estate Workers Union issued a proposal on the increase in the plantation workers' union.
-
-That is, the proposal was to pay Rs 1,350 as the basic salary of plantation workers. It was also put forward to pay 350 rupees as additional allowance.
-
-In the meantime, the companies also made their 5 demands. Their first demand is, "Plantation workers should not carry out a salary increase for three years or any other action."That is.
-
-...
-
-[Data](articles/327f755d.json)
-
-[Extended Data](ext_articles/327f755d.ext.json)
-
----
-
-### Covenant to deceive plantation workers
-
-*2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/175-342063) · `ta`
-
-A meeting at the Salary Council discussed a proposed salary increase for plantation workers, which included a basic wage of Rs 1,350 and an additional allowance of Rs 350. However, companies opposed the increase, demanding no salary hikes for three years and arguing over the allocation of the additional allowance. Despite opposition from several unions and individuals, the proposal was passed by a majority vote. Critics, including Kidnan Selvaraj of the All Ceylon Plantation Workers Union, argue that this agreement betrays plantation workers' rights and struggles.
-
-🟩
-
-Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, who condemned the talks at the Salary Council, said it was a salary agreement to deceive plantation workers.
-
-A meeting of the plantation workers' decision was convened on Monday (12) at the Salary Council.
-
-The meeting was attended by 10 trade unions, three representatives of companies, including Media Spokesperson of the Employers Federation, Roshan Rajadurai and three state officials.
-
-The Ceylon Workers Congress and the United National Party (UNP) National Estate Workers Union issued a proposal on the increase in the plantation workers' union.
-
-That is, the proposal was to pay Rs 1,350 as the basic salary of plantation workers. It was also put forward to pay 350 rupees as additional allowance.
-
-In the meantime, the companies also made their 5 demands. Their first demand is, "Plantation workers should not carry out a salary increase for three years or any other action."That is.
-
-...
-
-[Data](articles/ae96d35e.json)
-
-[Extended Data](ext_articles/ae96d35e.ext.json)
-
----
-
-### We are ready to accept the challenge
-
-*2024-08-13 00:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவாலை-ஏற்க-நாம்-தயார்/175-342062) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, is confident about winning the upcoming presidential election, citing strong preparations and support from the public. He believes their efforts, starting over a year and a half ago, will lead to success, promising to tackle the challenges of rebuilding the country post-election.
-
-🟩
-
-Our country is pressed by the ruling group that was under great crisis. From this, the challenge of restoring our country and the people is ready to accept the national people's power. Therefore, this signature we made today will definitely be a signature for the success, said Anura Kumara Dissanayake, the president of the National People's Power and the Presidential candidate.
-
-He signed the presidential election on Monday (12). The ceremony was held at the headquarters of the Janatha Vimukthi Peramuna (JVP). He then commented to the media.
-
-We are ready to accept the challenges. This is because the rest of the pasture has been split into each group and turned to a decomposed and dirty gathering. We, the National People's Power, said, "We started our journey over a year and a half ago."
-
-We are continuing this journey till now, with the most powerful and organized.. Still we have a little more than a month. He said that in a few days, we will be able to carry out our electoral movement.
-
-...
-
-[Data](articles/3608074b.json)
-
-[Extended Data](ext_articles/3608074b.ext.json)
-
----
-
-### Vijayamuni Soyza supports the president
-
-*2024-08-13 00:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயமுனி-சொய்சா-ஜனாதிபதிக்கு-ஆதரவு/175-342061) · `ta`
-
-Former minister Vijith Vijayamuni Soyza, ex-election chief of the United People's Power, pledged support for President Ranil Wickremesinghe ahead of the presidential election. He formally backed the president during a meeting yesterday.
-
-🟩
-
-Former minister Vijith Vijayamuni Soyza, who has served as the election organizer of the United People's Power, has promised to support President Ranil Wickremesinghe in the upcoming presidential election.
-
-He officially met with the president yesterday afternoon and expressed his support. (A)
-
-◼️
-
-[Data](articles/85570fe3.json)
-
-[Extended Data](ext_articles/85570fe3.ext.json)
 
 ---

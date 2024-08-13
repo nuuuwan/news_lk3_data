@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 12:21:23**
+As of **2024-08-13 12:36:27**
 
 ## Newspaper Stats
 
-*Scraped **40,454** Articles*
+*Scraped **40,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,342
 economynextcom | 2,446
 dailyftlk | 2,605
 adalk | 3,714
-adaderanalk | 4,712
+adaderanalk | 4,713
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,144
+tamilmirrorlk | 5,146
 virakesarilk | 6,405
 adaderanasinhalalk | 6,882
 
@@ -26,27 +26,85 @@ adaderanasinhalalk | 6,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,451 (100.0%) of 40,454 articles have been extended.
+40,454 (100.0%) of 40,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ඉඟුරු මෙට්‍රික් ටොන් 3000ක් ආනයනයට තීරණයක්
+### 13 வயதில் பரதநாட்டிய அரங்கேற்றம்: சீன சிறுமி சாதனை
+
+*2024-08-13 12:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயதில்-பரதநாட்டிய-அரங்கேற்றம்-சீன-சிறுமி-சாதனை/175-342090) · `ta`
+
+சீனாவில் 13 வயதான லீ முசி என்ற சிறுமி பரதநாட்டிய கலையில் அரங்கேற்றம் புரிந்து சாதனை படைத்துள்ளார்.
+
+தென்னிந்தியாவின் பாரம்பரிய நடனக் கலையான பரதநாட்டியத்தை சீனாவில் அந்த நாட்டின் குருவிடம் பயின்று, அங்கேயே அரங்கேற்றம் செய்த முதல் நபர் என அவர் அறியப்படுகிறார்.
+
+அண்மையில் நடந்த இந்த அரங்கேற்ற நிகழ்வில் பிரபல பரதநாட்டிய நடன கலைஞர் லீலா சாம்சன் மற்றும் இந்திய பிரதிநிதிகள் சிலர் பங்கேற்றனர். இந்த நிகழ்வை திரளான சீனர்களும் பார்த்து ரசித்தனர். இந்த நிகழ்வு வரலாற்று சிறப்பு மிக்கதாக பார்க்கப்படுகிறது.
+
+சுமார் 10 ஆண்டு காலமாக பரத கலையில் பயிற்சி பெற்று வந்துள்ளார் லீ முசி. அவருக்கு சீனாவின் ஜின் ஷான் என்ற பரத கலைஞர் பயிற்சி கொடுத்துள்ளார்.
+
+கடந்த 1999-ல் டெல்லியில் ஜின், அரங்கேற்றம் செய்திருந்தார். “வார இறுதி நாட்களில் லீ, எங்கள் வீட்டுக்கே வந்து பயிற்சி பெற்றார். அவரது இந்த அரங்கேற்றத்தை பார்க்கும் போது மன நிறைவு எனக்கு ஏற்பட்டது. எங்கள் இருவரையும் ஒருவகையில் நெருங்க செய்தது இந்த கலைதான்” என ஜின் தெரிவித்தார்.
+
+...
+
+[Data](articles/66f5727d.json)
+
+---
+
+### Nuwan Bopage places deposit to contest Presidential Election
+
+*2024-08-13 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101199/nuwan-bopage-places-deposit-to-contest-presidential-election) · `en`
+
+Attorney-at-Law Nuwan Bopage, the presidential candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya), has officially placed his deposit to contest in the upcoming Presidential Election.
+
+The deposit was made at the Election Commission this morning (13) by Dharmasiri Lankapeli, an executive committee member of the party, on behalf of Nuwan Bopage.
+
+◼️
+
+[Data](articles/9b79672e.json)
+
+---
+
+### ரூ.1,000 மில்லியன் நட்டஈடு கோருகிறார் விமல்
+
+*2024-08-13 12:08:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000-மில்லியன்-நட்டஈடு-கோருகிறார்-விமல்/175-342089) · `ta`
+
+பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தனது நற்பெயருக்கு ஏற்பட்ட களங்கத்திற்காக 1,000 மில்லியன் ரூபா நட்டஈடு கோரி குடிவரவு மற்றும் குடியகல்வு அதிகாரிகள் இருவருக்கு எதிராக கொழும்பு மாவட்ட நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்துள்ளார்.
+
+கடந்த நல்லாட்சி அரசாங்கத்தின் போது காரணமின்றி குடிவரவு குடியகல்வு சட்டத்தின் தான் கீழ் கைது செய்யப்பட்டதாகவும், நீர்கொழும்பு நீதவான் நீதிமன்றில் தனக்கெதிராக வழக்குத் தாக்கல் செய்து தனது நற்பெயருக்கு களங்கம் ஏற்படுத்தியதாகவும் அவர் தெரிவித்துள்ளார்.
+
+மனுவில் குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தின் அதிகாரிகள் இருவர் மற்றும் சட்டமா அதிபர் ஆகியோர் பிரதிவாதிகளாக குறிப்பிடப்பட்டுள்ளனர்.
+
+2015 ஆம் ஆண்டு ஒக்டோபர் மாதம் 23 ஆம் திகதி  வெளிநாடுகளில் நடைபெறவிருந்த மாநாடுகளில் பங்கேற்பதற்காக டுபாய் செல்வதற்காக கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்ததாக குறித்த மனுவின் மூலம் பாராளுமன்ற உறுப்பினர் சுட்டிக்காட்டியுள்ளார்.
+
+...
+
+[Data](articles/4f999ae3.json)
+
+---
+
+### Decision to import 3000 tons of ginger
 
 *2024-08-13 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199885) · `si`
 
-ඉදිරි මාස 03ක කාලසීමාව තුළ අමු ඉඟුරු මෙට්‍රික්ටොන් 3,000ක් ශ්‍රී ලංකා රජයේ වාණිජ (විවිධ) නීතිගත සංස්ථාව මඟින් අදියර වශයෙන් ආනයනය කිරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+Sri Lanka's Cabinet approved importing 3,000 metric tons of ginger, based on proposals from the Ministers of Agriculture and Commerce. The decision aims to stabilize local market prices, with a focus report due July 15th.
 
-කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍යවරයා සහ වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍යවරයා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව මත පදනම්ව එම අනුමැතිය දී තිබුණි.
+🟩
 
-ඉඟුරු නිෂ්පාදනය සඳහා පහසුකම් සලසමින්, දේශීය වෙළෙඳපොළ තුළ පාරිභෝගිකයාට දැරිය හැකි මට්ටමකට ඉඟුරුවල සිල්ලර මිල අඩු කිරීමේ හැකියාව එක්ව සොයා බලා, ඒ සම්බන්ධයෙන් යෝග්‍ය නිර්දේශ සහිත වාර්තාවක් ඉදිරිපත් කරන ලෙස කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම්ට සහ වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍යාංශයේ ලේකම්ට  ජුලි 15 වනදා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී උපදෙස් ලබා දී ඇත.
+The Cabinet approval has approved the importation of 3,000 metric to the Government of Sri Lanka by the commercial (varied) of the Government of Sri Lanka (various varied) of the Government of Sri Lanka (various).
 
-ඔවුන් ඉදිරිපත් කරන ලද වාර්තාවේ නිර්දේශ මත පදනම්ව ඉහත අමාත්‍ය මණ්ඩල යෝජනාව ඉදිරිපත් කර තිබුණි.
+The approval was given based on the joint proposal made by Minister of Agriculture and Plantation Industries and the joint proposal made by the Minister of Commerce and Food Security.
+
+July 15, the Secretary of the Ministry of Agriculture and Foods and Food Security to the Ministry of Agriculture and Plantation Industries and the Ministry of Agriculture and Food Security have to look at the retail prices of the local market and to submit a report to the customer in the local market.Advised at the Cabinet Meeting held at the Cabinet Meeting.
+
+The above Cabinet proposal was presented based on the recommendations of the report they submitted.
 
 ◼️
 
 [Data](articles/80ef1a71.json)
+
+[Extended Data](ext_articles/80ef1a71.ext.json)
 
 ---
 
@@ -59,6 +117,8 @@ The Cabinet of Ministers has granted approval for the importation of 3,000 metri
 ◼️
 
 [Data](articles/333d7af4.json)
+
+[Extended Data](ext_articles/333d7af4.ext.json)
 
 ---
 
@@ -854,21 +914,27 @@ The Department of Meteorology has urged the people to take necessary steps to re
 
 ---
 
-### தாழ் வளிமண்டலத்தில் கொந்தளிப்பு
+### Turmoil in the lower atmosphere
 
 *2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்-வளிமண்டலத்தில்-கொந்தளிப்பு/175-342072) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேற்கு மாகாணங்களின் சில பகுதிகளில் இன்று (13) 100 மி.மீ க்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall is expected in several regions of Sri Lanka due to atmospheric turbulence, continuing from previous days. The Department of Meteorology warns of potential thunderstorms in the evening or night across the country. It advises citizens to prepare for possible heavy winds and lightning strikes.
 
-இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக நாடு முழுவதும் தற்போது காணப்படும் மழை நிலை தொடரும் என எதிர்பார்க்கப்படுவதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology said that heavy rainfall is likely in some parts of the Western, Sabaragamuwa, Central, South and Northwestern provinces today (13).
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+Due to the turbulence of the low -lying atmosphere near Sri Lanka, the current rainfall is expected to continue across the country, the department said.
+
+The Department of Meteorology has announced that rainfall or thunderstorms will occur in the evening or night in other parts of the country.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/5c11db47.json)
+
+[Extended Data](ext_articles/5c11db47.ext.json)
 
 ---
 
@@ -2199,61 +2265,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/a92e426f.json)
 
 [Extended Data](ext_articles/a92e426f.ext.json)
-
----
-
-### H One unveils revolutionary AI Bot: Simplifying company Annual Reports for all stakeholders
-
-*2024-08-12 19:52:00* · [`islandlk`](http://island.lk/h-one-unveils-revolutionary-ai-bot-simplifying-company-annual-reports-for-all-stakeholders/) · `en`
-
-Colombo, August 06, 2024: H One, in collaboration with Hayleys PLC, proudly announces the deployment of its latest innovation: an AI-powered chatbot designed to read, interpret, and analyze published annual company reports. The H One Data and AI team, along with Hayleys, and the unwavering guidance and support from Microsoft Sri Lanka were able to succeed in developing the solution for Hayleys PLC – Sri Lanka’s largest public listed and most diversified conglomerate, and its subsidiary Haycarb PLC. “Hayleys Group has once again demonstrated its forward-thinking approach by integrating AI to make complex data accessible and actionable in seconds.”
-
-...
-
-[Data](articles/4fbb5ce5.json)
-
-[Extended Data](ext_articles/4fbb5ce5.ext.json)
-
----
-
-### Corporates’ positive quarterly results temporarily boost bourse
-
-*2024-08-12 19:51:00* · [`islandlk`](http://island.lk/corporates-positive-quarterly-results-temporarily-boost-bourse/) · `en`
-
-The CSE yesterday commenced trading on a positive note in the early sessions as most listed companies are showing satisfactory quarterly results. However, this momentum could not be sustained for long due to the current political uncertainty stemming from the upcoming presidential elections, market analysts said.
-
-The fact is that most investors are worried that a replacement of the present administration would create policy uncertainties, these analysts added. Amid those developments, both indices moved upwards. The All Share Price Index went up by 16.1 points while S and P SL20 rose by 9.37 points.
-
-Turnover stood at Rs 337 million with one crossing. The crossing was reported in Kelani Tyre, which crossed 458,000 shares to the tune of Rs 34.37 million; its shares traded at Rs 75.
-
-...
-
-[Data](articles/38f9136a.json)
-
-[Extended Data](ext_articles/38f9136a.ext.json)
-
----
-
-### 32 candidates control;Completed with tomorrow- Elections Commission
-
-*2024-08-12 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/190941) · `ta`
-
-32 candidates, including independents and representatives from various political parties, have been approved to run in the upcoming presidential election. Control payments are due tomorrow at 12 noon, with nomination acceptance from 9 am to 11 pm. Key figures like Osala Herath, Sajith Premadasa, and Mahinda Devage are among the recognized candidates.
-
-🟩
-
-32 candidates have been controlled so far (Monday 12th Monday) to contest the presidential election. The Elections Commission has announced that 16 candidates to contest on behalf of the recognized political parties, 1 candidate for other political parties and 15 as independent candidates.
-
-Control Payment will be completed tomorrow at 12 noon. The nominations will be accepted from 9am to 11pm tomorrow.
-
-Ithurus Muhammad Ilyas, M Tilakaraja and Pa Ariyanethran will contest as an independent candidate and Mohammed Inbas will contest on behalf of the United Democratic Alliance.
-
-The Election Commission has completed the preliminary work for the presidential election.
-
-...
-
-[Data](articles/930225d3.json)
-
-[Extended Data](ext_articles/930225d3.ext.json)
 
 ---

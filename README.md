@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 07:34:08**
+As of **2024-08-13 07:52:57**
 
 ## Newspaper Stats
 
-*Scraped **40,393** Articles*
+*Scraped **40,395** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 346
 newsfirstlk | 363
 bbccomsinhala | 377
-colombotelegraphcom | 384
+colombotelegraphcom | 385
 islandlk | 2,342
 economynextcom | 2,445
 dailyftlk | 2,604
 adalk | 3,709
 adaderanalk | 4,703
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,127
+tamilmirrorlk | 5,128
 virakesarilk | 6,394
 adaderanasinhalalk | 6,866
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,387 (100.0%) of 40,393 articles have been extended.
+40,393 (100.0%) of 40,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ඇප තැන්පත් කිරීම හෙට දහවලින් අවසන්
+### The bail is over tomorrow
 
 *2024-08-13 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199869) · `si`
 
-මෙවර ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම හෙට (14) දහවල් 12න් අවසන් කිරීමට නියමිතව තිබේ.
+Tomorrow marks the end of the bail period and the deadline for completing the presidential election deposit.
+
+🟩
+
+The deposit of the presidential election is due to be completed tomorrow (14).
 
 ◼️
 
 [Data](articles/2059c5fd.json)
 
+[Extended Data](ext_articles/2059c5fd.ext.json)
+
 ---
 
-### අදත් මි.මී 100 ඉක්මවූ වැසි
+### Showers over 100 mm
 
 *2024-08-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199867) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල ඇතැම් ප්‍රදේශවලට අද (13) මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall exceeding 100mm is expected in parts of Western, Sabaragamuwa, Central, Southern, and Northwestern provinces of Sri Lanka. The Meteorology Department warns of potential heavy showers due to atmospheric instability, advising caution against wind and lightning hazards. Showers or thundershowers are predicted across these regions, with specific alerts issued for the evening or night in other areas.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා දැනට පවතින වැසි තත්ත්වය තවදුරටත් පවතිනු ඇතැයි බලාපොරොත්තු විය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ ඌව පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Some areas in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces are today (13) mm.. Heavy showers that have more than 100 can occur.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+The department says Sri Lanka is expected to expect the existing rain condition islandwide due to the turmoil in the lower atmosphere.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Uva provinces.
+
+The Department of Meteorology is speaking at several places in the evening or night during the evening or night in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/256ad70d.json)
+
+[Extended Data](ext_articles/256ad70d.ext.json)
 
 ---
 
@@ -248,6 +260,18 @@ Cooray is the Chairman of United Motors PLC, UML Property Developments Ltd., UML
 
 ---
 
+### Best Team To Face The Future
+
+*2024-08-13 01:30:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/best-team-to-face-the-future/) · `en`
+
+With little over a month before presidential elections are due, the speculations about elections not being held have come to a halt which is a testament to the democratic spirit in the country. The election commission has invited Commonwealth and EU election monitors to observe the elections. Political parties and parliamentarians alike are publicly committing themselves to one candidate or to the other. Assertions such as the importance of implementing the IMF agreement rather than holding elections are no longer to be heard. On the contrary, the election campaign is in full swing and includes promises such as to implement the IMF agreement after the elections with amendments.
+
+...
+
+[Data](articles/97793861.json)
+
+---
+
 ### Accusing of bribery
 
 *2024-08-13 01:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்குவதாக-குற்றச்சாட்டு/175-342065) · `ta`
@@ -325,6 +349,26 @@ There were serious arguments on this. 11 people were voted in favor of 1,350 rup
 [Data](articles/efce03ac.json)
 
 [Extended Data](ext_articles/efce03ac.ext.json)
+
+---
+
+### ’தோட்ட தொழிலாளர்களை ஏமாற்றும் உடன்படிக்கை’
+
+*2024-08-13 00:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தோட்ட-தொழிலாளர்களை-ஏமாற்றும்-உடன்படிக்கை/150-342063) · `ta`
+
+சம்பள நிர்ணய சபையில் நடத்தப்பட்ட பேச்சுவார்த்தை வன்மையாக கண்டித்துள்ள அகில இலங்கை தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்னன் செல்வராஜ், இது தோட்டத் தொழிலாளர்களை ஏமாற்றும் சம்பள உடன்படிக்கையாகும் என்றும் தெரிவித்துள்ளார்.
+
+தோட்டத் தொழிலாளர்களின் நாட்சம்பளம் தொடர்பில் முடிவெடுப்பதற்கான கூட்டம்  சம்பள நிர்ணயச் சபையில் திங்கட்கிழமை (12) கூட்டப்பட்டது.
+
+இந்தக் கூட்டத்தில் 10 தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனத்தின் ஊடகப் பேச்சாளர் ரொஷான் ராஜதுரை உள்ளிட்ட கம்பனிகளின் 07 பிரதிநிதிகளும், அரச அதிகாரிகள் 03 பேரும் கலந்துகொண்டனர்.
+
+இதன்போது இலங்கை தொழிலாளர் காங்கிரஸ் மற்றும் ஐக்கிய தேசியக் கட்சியின் தொழிற்சங்கம் தேசிய தோட்டத் தொழிலாளர் சங்கம் தோட்டத் தொழிலாளர்களின் நாட்சம்பளத்தை அதிகரிப்பது தொடர்பான பிரேரணையை கொண்டுவந்தன.
+
+அதாவது, அந்தப் பிரேரணையில் தோட்டத் தொழிலாளர்களின் அடிப்படைச் சம்பளமாக 1,350 ரூபாய் வழங்க வேண்டும் என்று குறிப்பிடப்பட்டிருந்தது. அத்துடன், மேலதிக கொடுப்பனவாக 350 ரூபாய் வழங்க வேண்டும் என்றும் முன் வைக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/327f755d.json)
 
 ---
 
@@ -2203,53 +2247,5 @@ The vessel was  scheduled  to unload 995 containers and load 880 containers at t
 [Data](articles/6470a894.json)
 
 [Extended Data](ext_articles/6470a894.ext.json)
-
----
-
-### Wimal cases filed against immigration officers
-
-*2024-08-12 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199851) · `si`
-
-MP Wimal Weerawansa filed a lawsuit against two immigration officers, alleging wrongful arrest and damage to his reputation. The incident occurred when he tried to leave Sri Lanka for Dubai in 2015, presenting his diplomatic passport. He was later arrested and taken to court, leading to this legal action seeking compensation.
-
-🟩
-
-MP Wimal Weerawansa has filed a case before the Colombo District Court against two Immigration and Emigration officials for compensation for its compensation for its reputation.
-
-The last good governance was arrested by the government under the Immigration and Emigration Act and legalized in the Negombo Magistrate Court without any reason.
-
-Eranga Rambukwella, Authorities, Senior Authorized Officer Mr. Sujeewa Ratnayake and the Attorney General has been named as respondents to respondents today.
-
-The MP had pointed out that he returned to the Katunayake Airport to get into Dubai to participate in Dubai on October 23, 2015.
-
-The complaint states that he had submitted the diplomatic passport to go abroad and made the statement to the Immigration and Emigration Officers.
-
-Later he was arrested by the Criminal Investigation Officers and the Criminal Investigation Officers were arrested and produced before the Negombo Magistrate's Court.The MP said that it was severely damaged by its reputation.
-
-...
-
-[Data](articles/64fabd4b.json)
-
-[Extended Data](ext_articles/64fabd4b.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-08-12 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199850) · `si`
-
-Heavy rains expected in Galle, Matara, and other districts with over 100mm showers.
-
-🟩
-
-The Department of Meteorology has issued an announcement of heavy rains.
-
-The Galle and Matara districts can have a heavy showers exceeding 100 millimeters in the Western, Sabaragamuwa, Central and Matara districts.
-
-◼️
-
-[Data](articles/8b6fd9b2.json)
-
-[Extended Data](ext_articles/8b6fd9b2.ext.json)
 
 ---

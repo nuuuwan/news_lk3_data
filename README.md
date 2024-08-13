@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 23:07:46**
+As of **2024-08-13 23:21:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,563 (100.0%) of 40,564 articles have been extended.
+40,564 (100.0%) of 40,564 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, the United Left Front led by President’s Counsel Jayampathy Wickram
 ◼️
 
 [Data](articles/cf7c5eaf.json)
+
+[Extended Data](ext_articles/cf7c5eaf.ext.json)
 
 ---
 
@@ -104,7 +106,11 @@ The Criminal Investigation Division (NUGOD) has come to investigate the incident
 
 Two persons have reportedly died after inhaling toxic fumes at a residence in the Kahanthota area in Malabe.
 
-Police said that the deceased, aged 45 and 63  years, had died due to inhaling toxic fumes from certain chemicals they were trying to mix.
+Police said that the deceased, aged 45 and 63 years and residents of Monaragala and Kahanthota, had died last evening (12) due to inhaling toxic fumes from certain chemicals they were trying to mix.
+
+The two victim who were exposed to the toxic fumes were pronounced dead upon admission to the Colombo National Hospital, police said.
+
+The bodies have been placed in the mortuary of the Colombo National Hospital while Malabe Police is conducting further investigations into the incident.
 
 ◼️
 

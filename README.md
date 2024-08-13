@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 19:21:30**
+As of **2024-08-13 19:36:29**
 
 ## Newspaper Stats
 
-*Scraped **40,545** Articles*
+*Scraped **40,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,345
 economynextcom | 2,460
 dailyftlk | 2,605
 adalk | 3,728
-adaderanalk | 4,725
+adaderanalk | 4,726
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,158
+tamilmirrorlk | 5,160
 virakesarilk | 6,421
 adaderanasinhalalk | 6,896
 
@@ -26,25 +26,87 @@ adaderanasinhalalk | 6,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,542 (100.0%) of 40,545 articles have been extended.
+40,545 (100.0%) of 40,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
 
-### ඇප තැන්පත් කළ පිරිස 36 දක්වා ඉහළට
+### தணமல்வில சம்பவம் :- அதிபர், ஆசிரியர், ஆசிரியைகள் கைது
+
+*2024-08-13 19:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தணமல்வில-சம்பவம்-அதிபர்-ஆசிரியர்-ஆசிரியைகள்-கைது/175-342111) · `ta`
+
+தணமல்வில பகுதியில் 16 வயதான சிறுமியை பாடசாலை மாணவர்கள் 22 பேர் தொடர் கூட்டு பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் மேலும் பலர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் பாடசாலை அதிபர், பாடசாலை ஆசிரியர் மற்றும் இரண்டு ஆசிரியைகளும் அடங்குகின்றனர்.
+
+சிறுமி கூட்டு பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தப்பட்ட சம்பவத்தை பொலிஸாருக்கு அறிவிக்காது, மறைப்பதற்கு முயற்சித்ததாக கூறப்படும் சம்பவம் தொடர்பிலேயே நான்கு சந்தேகநபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்த கூட்டு பாலியல் துஷ்பிரயோக சம்பவத்துடன் 22 மாணவர்கள் தொடர்புப்பட்ட நிலையில், அவர்களில் 17 மாணவர்கள் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+அத்துடன், இந்த சம்பவம் தொடர்பில் நேற்றைய தினம் பெண்ணொருவரும் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+இந்த சம்பவம் தொடர்பில் தணமல்வில பொலிஸார் மேலதிக விசாரணைகளை தொடர்ந்தும் நடாத்தி வருகின்றனர். R
+
+◼️
+
+[Data](articles/99d23ac6.json)
+
+---
+
+### 36 candidates place deposits for presidential election so far
+
+*2024-08-13 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101212/36-candidates-place-deposits-for-presidential-election-so-far) · `en`
+
+The Elections Commission of Sri Lanka says that a total of 36 candidates have placed cash deposits so far for the 2024 Presidential Election.
+
+This includes 19 candidates representing recognised political parties, 16 independent candidates who have been nominated by a voter and 01 from other political parties.
+
+◼️
+
+[Data](articles/1c003bcf.json)
+
+---
+
+### சிறுமி பாலியல் வன்கொடுமை ; அதிபர் உட்பட நால்வர் கைது
+
+*2024-08-13 19:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பாலியல்-வன்கொடுமை-அதிபர்-உட்பட-நால்வர்-கைது/175-342110) · `ta`
+
+பாடசாலை மாணவியொருவரை பாலியல் வன்கொடுமை செய்யப்பட்ட சம்பவம் தொடர்பான அனைத்து தகவல்களையும் பொலிஸாருக்கு தெரியாமல் மறைத்த தனமல்வில தேசிய பாடசாலையின் அதிபர் உட்பட நால்வர் செவ்வாய்க்கிழமை (13) மாலை கைது செய்யப்பட்டதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பாடசாலையின் அதிபர், பிரதி அதிபர், ஆசிரியர் ஆலோசகர் மற்றும் ஒழுக்காற்று குழுவிற்கு பொறுப்பான ஆசிரியர் ஆகிய நால்வரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+இந்தச் சம்பவம் தொடர்பில் பொலிஸாரால் தனமல்வில வலயக் கல்விப் பணிப்பாளரிடம் வாக்குமூலம் பெற்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு அவர் பணிப்புரை வழங்கியதாகவும், பாடசாலை அதிபர் உள்ளிட்ட குழுவினர் அந்த தீர்மானத்தை நடைமுறைப்படுத்தவில்லை எனவும் அவர் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும் , சிறுமியை துஷ்பிரயோகம் செய்ததாக கூறப்படும் 21 மாணவர்களையும் அதற்கு உடந்தையாக இருந்த பெண் ஒருவரையும் ஓகஸ்ட் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வெள்ளவாய நீதவான் உத்தரவிட்டுள்ளார் .
+
+...
+
+[Data](articles/a8abee58.json)
+
+---
+
+### The bail deposits up to 36
 
 *2024-08-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199900) · `si`
 
-මෙරව ජනාධිපතිවරණය සඳහා ඇප තැබූ පිරිස 36 දක්වා ඉහළ ගොස් තිබේ.
+36 individuals have posted bail, coinciding with the presidential election. A joint statement was released by 20 political entities, including 19 reputable ones and another party. There are 16 nominated candidates.
 
-නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව සඳහන් කර ඇත්තේ පිළිගත් දේශපාලන පක්ෂ 19ක් සහ  වෙනත් දේශපාලන පක්ෂ 01ක් මෙලෙස ඇප තැන්පත් කර ඇති බවයි.
+🟩
 
-තවද ඡන්ද හිමියෙකු විසින් නාමයෝජනා කළ අපේක්ෂකයින් සංඛයාව 16ක් වන බවත් එම නිවේදනයේ සඳහන්.
+Meanwhile, 36 people have gone to the presidential election.
+
+Issuing a statement issued by 19 reputable political parties and 1 other political parties have been deposited.
+
+The number of nominated candidates is 16, and the number of nominated candidates.
 
 ◼️
 
 [Data](articles/204e4160.json)
+
+[Extended Data](ext_articles/204e4160.ext.json)
 
 ---
 
@@ -66,17 +128,23 @@ It was reported recently that some 17 schoolboys have been arrested on charges o
 
 ---
 
-### දැරියකට සිදුකළ දූෂණය සැඟවූ විදුහල්පති ඇතුළු 03ක් අත්අඩංගුවට
+### Three hiding corruption arrested
 
 *2024-08-13 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199899) · `si`
 
-තණමල්විල පොලිස් වසමේ පාසල් දැරිය දූෂණයට අදාළව තොරතුරු දැනගෙන එම තොරතුරු පොලීසියට නොදී වසන් කෙරූ සැකකරුවන් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Four individuals were arrested by the Thanamalwila Police Division: three for corruption and one girl detained by school authorities.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එම දැරිය අධ්‍යාපනය ලබමින් සිටි පාසලේ විදුහල්පතිවරයා සහ ගුරුවරයෙක් මෙන්ම ගුරුවරියන් දෙදෙනෙකි.
+🟩
+
+Four suspects have been arrested by the Thanamalwila Police Division in the Thanamalwila police division.
+
+The girl was arrested by the Principal and a teacher and two teachers at the school.
 
 ◼️
 
 [Data](articles/78f569d3.json)
+
+[Extended Data](ext_articles/78f569d3.ext.json)
 
 ---
 
@@ -282,21 +350,27 @@ Sri Lanka Cricket announced that he would work with the team with the three-matc
 
 ---
 
-### ජීවන වියදම් දීමනාව ලෙස රු. 25000ක් දෙන්න කැබිනට් අනුමැතිය
+### As the cost of living allowance. Give 25,000 Cabinet approval
 
 *2024-08-13 16:58:19* · [`adalk`](https://www.ada.lk/breaking_news/ජීවන-වියදම්-දීමනාව-ලෙස-රු--25000ක්-දෙන්න-කැබිනට්-අනුමැතිය/11-411352) · `si`
 
-2025 පාදක වසර ලෙස සළකා ජීවන වියදම් දීමනා සඳහා සිදුකර ඇති විවිධ ගැලපීම් හා මේ වනවිටත් එක් කොට ඇති දීමනා සියල්ල ඒකාබද්ධ කොට සියලුම රජයේ සේවකයන් සඳහා සෑම වසර 03 කටම වරක් සංශෝධනය කිරීමට යටත්ව ජීවන වියදම් දීමනාව ලෙස මාසිකව රුපියල් 25000ක් ගෙවීමට මුදල්, ජාතික ප්‍රතිපත්ති සම්පාදක අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වී ඇති බව කැබිනට් ප්‍රකාශක, ප්‍රවාහන හා මහාමාර්ග, ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+The Cabinet has approved a proposal to amend the Co-Insurance Allowance every three years, focusing on improving livelihood costs. This decision impacts government agencies, excluding public companies and banks, with a 24% increase in the monthly salary.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ අද (13) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවට එක් වෙමිනි.
+🟩
 
-රාජ්‍ය සේවයේ අවම ආරම්භක මාසික වැටුප සියයට 24ක අවම ප්‍රතිශතයකින් වැඩි කොට, ජීවන වියදම් දීමනාව සමග දළ වැටුප රුපියල් 55,000ක් ලෙස ගෙන අනෙකුත් තනතුරු සඳහා මූලික වැටුප ඒ අනුව ගැලපීමට කටයුතු කරන බවද අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+As the Minister of National Policy Form as the Co-Insurance Allowance to be amended for every 3 years, as the Cost of Livelihoods, as well as the payment of RsThe President's proposal has been approved by the Cabinet, Transport and Highways Dr. Bandula Gunawardena says that the Cabinet has approved the approval of the Cabinet.
 
-එසේම ව්‍යාපරික, රාජ්‍ය සමාගම් හා බැංකු හැර අන් සියලුම රාජ්‍ය ආයතන සඳහා මෙම නව වැටුප් හා දීමනා ක්‍රමවේදය ක්‍රියාත්මක කෙරෙන බවද හෙතෙම සඳහන් කළේය.
+The Minister was speaking at a press conference to inform the Cabinet decisions held in the Government Information Department this morning.
+
+The Minister added that the mainstandoned monthly salary of 24 percent is Rs.
+
+He added that the new salaries and allowance methodology will be implemented to all government agencies other than the proposals, public companies and banks.
 
 ◼️
 
 [Data](articles/97f0535e.json)
+
+[Extended Data](ext_articles/97f0535e.ext.json)
 
 ---
 
@@ -2133,81 +2207,5 @@ Dammaratha Thera, who has been severely criticizing the current government and t
 [Data](articles/e4bc9da0.json)
 
 [Extended Data](ext_articles/e4bc9da0.ext.json)
-
----
-
-### Father's body recovered
-
-*2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தையொருவர்-சடலமாக-மீட்பு/175-342082) · `ta`
-
-The body of a 30-year-old man named Samith Madusanga, who was looking for his 19-year-old girlfriend, was found in a well near Negombo. The couple, both from the same area, were in a romantic relationship despite the girl being involved with another man. The girl's parents knew about the affair and had moved out, leaving the young man to search for his girlfriend. He discovered her missing and later found her body in the well.
-
-🟩
-
-The body of a 30 -year -old youth who was searching for his 19 -year -old girlfriend from Negombo to Chilaw, was recovered from a dilapidated well in the area, Tutuva police said.
-
-Samith Madusanga, a young man from the Harichandra Pur, Tibirigaskatuwa, Negombo, has been recovered.
-
-A 19 -year -old teenager in the same area where he lived in a romantic relationship with a child of a child's father is living in love with his wife.
-
-The parents of the woman, who knew that their daughter had a romantic relationship with a married man, stayed at the relative's house in Mahaveva Thoduwa area.. The young man was informed about this and went to the house where he was staying in search of his girlfriend on the night of the 10th.
-
-When Yuvati went outside the house, the young man came and called him and he had fled the house when he saw her boyfriend and told relatives that he had heard the noise of the woman when she fled the dilapidated well when he fled to the young man.
-
-◼️
-
-[Data](articles/b2eaa678.json)
-
-[Extended Data](ext_articles/b2eaa678.ext.json)
-
----
-
-### Father's body recovery
-
-*2024-08-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-தேடிச்-சென்ற-தந்தை-சடலமாக-மீட்பு/175-342082) · `ta`
-
-In Negombo, the body of 30-year-old Samith Madusanga, who was searching for his 19-year-old girlfriend in Chilaw, was found in a well near Tutuva. Madusanga, from Harichandra Pur, Tibirigaskatuwa, was looking for his girlfriend, who was involved in a romantic relationship with a married man. The girl's parents, aware of her affair, had moved to Mahaveva Thoduwa. When Madusanga arrived to confront them, he fell into the well and died.
-
-🟩
-
-The body of a 30 -year -old youth who was searching for his 19 -year -old girlfriend from Negombo to Chilaw, was recovered from a dilapidated well in the area, Tutuva police said.
-
-Samith Madusanga, a young man from the Harichandra Pur, Tibirigaskatuwa, Negombo, has been recovered.
-
-A 19 -year -old teenager in the same area where he lived in a romantic relationship with a child of a child's father is living in love with his wife.
-
-The parents of the woman, who knew that their daughter had a romantic relationship with a married man, stayed at the relative's house in Mahaveva Thoduwa area.. The young man was informed about this and went to the house where he was staying in search of his girlfriend on the night of the 10th.
-
-Relatives of the woman told the police that the young man had come out when he came out of the house and he had called him and he had heard the noise of some of the neighbors falling in a nearby well when some of the young people were chased away to catch the young man.
-
-◼️
-
-[Data](articles/de0ef7e9.json)
-
-[Extended Data](ext_articles/de0ef7e9.ext.json)
-
----
-
-### Fitch upgrades Sri Lanka’s Habib Bank to ‘AA-(lka)’; Outlook stable
-
-*2024-08-13 10:40:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lankas-habib-bank-to-aa-lka-outlook-stable-176514/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has upgraded the national long-term rating of Habib Bank Limited – Sri Lanka Branch to ‘AA-(lka)’, from ‘A(lka)’. The outlook is stable, Fitch Ratings said.
-
-This follows the improved credit profile of the bank’s head office – Habib Bank Limited, Pakistan’s largest bank – following the upgrade of Pakistan’s sovereign rating.
-
-Fitch Upgrades Habib Bank Limited – Sri Lanka Branch to ‘AA-(lka)’; Outlook Stable
-
-Fitch Ratings – Colombo – 12 Aug 2024: Fitch Ratings has upgraded Habib Bank Limited – Sri Lanka Branch’s (HBLSL) National Long-Term Rating to ‘AA-(lka)’, from ‘A(lka)’.
-
-Stronger Head Office Support: The upgrade of HBLSL’s National Rating reflects the improved credit profile of the bank’s head office – Habib Bank Limited (HBL), Pakistan’s largest bank – following the upgrade of Pakistan’s sovereign rating.
-
-This reflects the greater ability of the head office to provide extraordinary support to the Sri Lankan branch.
-
-...
-
-[Data](articles/63e6315b.json)
-
-[Extended Data](ext_articles/63e6315b.ext.json)
 
 ---

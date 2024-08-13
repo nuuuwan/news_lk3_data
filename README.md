@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-13 10:21:06**
+As of **2024-08-13 10:36:23**
 
 ## Newspaper Stats
 
-*Scraped **40,414** Articles*
+*Scraped **40,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 2,605
 adalk | 3,712
 adaderanalk | 4,706
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,131
+tamilmirrorlk | 5,138
 virakesarilk | 6,394
-adaderanasinhalalk | 6,874
+adaderanasinhalalk | 6,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,414 (100.0%) of 40,414 articles have been extended.
+40,414 (100.0%) of 40,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-13 (Tuesday)
+
+### 20 பேர் சொத்து விபரங்களை வழங்கவில்லை
+
+*2024-08-13 10:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-பேர்-சொத்து-விபரங்களை-வழங்கவில்லை/175-342081) · `ta`
+
+குறைந்தபட்சம் 20 பாராளுமன்ற உறுப்பினர்கள் தங்கள் சொத்து மற்றும் பொறுப்பு விபரங்களை சமர்ப்பிக்கத் தவறியுள்ளதாக தகவலறிந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதற்குப் பதிலளித்த தேர்தல் ஆணையம், இந்த எம்.பி.க்களுக்கு மீண்டும் ஒருமுறை நினைவூட்டுமாறு பாராளுமன்றத் தலைவர்களுக்கு உத்தரவிட்டுள்ளது. 169 எம்.பி.க்களில் ஒவ்வொருவரும் ஆண்டுதோறும் ஜூன் 30ஆம் திகதிக்குள் தங்கள் சொத்து விபரங்களை சபாநாயகரிடம் சமர்ப்பிக்க வேண்டும்.
+
+இதுவரை கடமைகளை நிறைவேற்றாத இந்த 20 பாராளுமன்ற உறுப்பினர்கள் தொடர்பிலான நிலைமையை இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டு விசாரணை ஆணைக்குழு உன்னிப்பாக அவதானித்து வருகின்றது.
+
+சொத்துக்கள் மற்றும் பொறுப்புகள் பற்றிய அறிவிப்பு தொடர்பான புதிய சட்டத்தின் கீழ், ஒவ்வொரு ஆண்டும் ஓகஸ்ட் 31 ஆம் திகதிக்குள் தங்கள் விபரங்களை சமர்ப்பிக்கத் தவறிய எம்.பி.க்கள் ஒரு வருடம் வரையான சிறைத்தண்டனை மற்றும் பன்னிரெண்டு மாத ஊதியத்திற்கு சமமான அபராதம் அல்லது இரண்டையும் சந்திக்க நேரிடலாம்.
+
+◼️
+
+[Data](articles/1c24a654.json)
+
+---
+
+### உழவு இயந்திரம் கவிழ்ந்ததில் தந்தை பலி
+
+*2024-08-13 10:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உழவு-இயந்திரம்-கவிழ்ந்ததில்-தந்தை-பலி/72-342080) · `ta`
+
+வவுனியா மடுகந்த பிரதேசத்தில் உழவு இயந்திரம் வயல்வெளியில் கவிழ்ந்து விபத்துக்குள்ளானதில் நான்கு பிள்ளைகளின் தந்தை ஒருவர் உயிரிழந்துள்ளதாக மடுகந்த பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் அதே பகுதியைச் சேர்ந்த 34 வயதான ஒருவரே, அவர் எஸ்ஐ சாம் என்ற இடத்திற்குச் சென்று கொண்டிருந்தபோது, ​​உழவு இயந்திரம் பாதுகாப்பற்ற வயல்வெளியில் கவிழ்ந்தது.
+
+◼️
+
+[Data](articles/b665f8ed.json)
+
+---
+
+### දිලිත්ටත් ඇප තියයි
+
+*2024-08-13 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199878) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා සර්වජන බලය එකමුතුවේ අපේක්ෂකයා ලෙස දිලිත් ජයවීර මහතා වෙනුවෙන් අද (13) ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/858c39fc.json)
+
+---
+
+### ”புகைப்படம் எடுப்பதில் எனக்கு நம்பிக்கை இல்லை”
+
+*2024-08-13 10:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுப்பதில்-எனக்கு-நம்பிக்கை-இல்லை/175-342079) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களை கவர்ந்து அவர்களுடன் புகைப்படம் எடுப்பதில் தனக்கு நம்பிக்கை இல்லை என ஜனாதிபதி வேட்பாளர் பீல்ட் மார்ஷல் சரத் பொன்சேகா இன்று தெரிவித்துள்ளார்.
+
+மக்களால் நிராகரிக்கப்பட்ட எம்.பிக்களின் ஆதரவை நான் பெற விரும்பவில்லை. அதிக வாக்குகளை ஈர்க்கவும், சுதந்திரமாக சிந்திப்பவர்களை ஈர்க்கவும் மட்டுமே முயற்சிக்கிறேன் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3eaaa082.json)
+
+---
+
+### கட்டுப்பண காலம்  நிறைவு
+
+*2024-08-13 09:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பண-காலம்-நிறைவு/175-342077) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை செலுத்தும் நடவடிக்கை நாளை (13)  நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளது.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக இதுவரை 32 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/91b6b915.json)
+
+---
 
 ### India-Sri Lanka joint military exercise ‘Mitra Shakti’ begins in Maduru Oya
 
@@ -49,6 +121,44 @@ The primary objective of Joint Exercise MITRA SHAKTI is to bolster the joint mil
 [Data](articles/2e9f63c6.json)
 
 [Extended Data](ext_articles/2e9f63c6.ext.json)
+
+---
+
+### கட்டுநாயக்கவில் நெருக்கடி நிலை
+
+*2024-08-13 09:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-நெருக்கடி-நிலை/175-342074) · `ta`
+
+இலங்கைக்கு வரும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கும் ஏனையவர்களுக்கும் நிகழ்நிலை விசா வழங்கப்படாமை காரணமாக கட்டுநாயக்க விமான நிலையத்தில் வருகைக்கான விசாவைப் பெறுவதற்கு நீண்ட வரிசைகள் உருவாகி வருவதாக தெரிவிக்கப்படுகிறது.
+
+அண்மையில் உச்ச நீதிமன்றம் பிறப்பித்த உத்தரவின்படி, இலங்கைக்குள் நுழைவதற்கான விசா வழங்குவதில் இருந்து VFS Global நிறுவனத்தை நீக்கி, பழைய முறைப்படி விமான நிலையத்தில் விசா வழங்கவும் உத்தரவு பிறப்பிக்கப்பட்டது.
+
+எனினும், அரசாங்கமும் குடிவரவு திணைக்களமும் பழைய முறைப்படி நிகழ்நிலை விசா வழங்குவதை ஆரம்பிக்காததால் கட்டுநாயக்க விமான நிலையத்தில் விசா பெற நீண்ட வரிசைகள் உருவாகியுள்ளன.
+
+இந்த நிலையில், இலங்கைக்கு வரும் அனைத்து சுற்றுலாப் பயணிகளுக்கும் கட்டுநாயக்க விமான நிலையத்தில் ஒன் அரைவல் விசாவைப் பெறுவதே ஒரே தீர்வாக மாறியுள்ளது.
+
+இலங்கையில் ஒகஸ்ட் மாதம் முதல் சுற்றுலாப் பருவம் ஆரம்பமாகியுள்ள நிலையில், கண்டி எசல பெரஹெரா திருவிழாவைக் காண ஏராளமான வெளிநாட்டு சுற்றுலாப் பயணிகள் கட்டுநாயக்க விமான நிலையத்தின் ஊடாக இலங்கைக்கு வருகின்றனர். R
+
+◼️
+
+[Data](articles/f5216315.json)
+
+---
+
+### 13 வயது மாணவி கூட்டு வன்புணர்வு: ஐவர் கைது
+
+*2024-08-13 09:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மாணவி-கூட்டு-வன்புணர்வு-ஐவர்-கைது/175-342073) · `ta`
+
+13 வயதுடைய பாடசாலை மாணவி ஒருவர் இரண்டு வருடங்களாக கூட்டு வன்புணர்வுக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் தனியார் பஸ் நடத்துனர் உட்பட ஐவர் கைது செய்யப்பட்டுள்ளதாகவும் களுத்துறை வடக்கு பொலிஸார் தெரிவித்தனர்.
+
+ஹொரணை ரெமுன பிரதேசத்தில் வசிக்கும் தனியார் பஸ் நடத்துனர், களுத்துறை, தியகம பிரதேசத்தில் வசிக்கும் மூவர் மற்றும் அவரை வீடொன்றில் தங்கவைக்க ஊக்குவித்த நபரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர்களில் இருவர் திருமணமானவர்கள் எனவும் அவர்களில் ஒருவர் 60 வயதுக்கு மேற்பட்ட தாத்தா எனவும் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சிறுமி தனது நோயுற்ற பெற்றோர் மற்றும் மூத்த சகோதரனுடன் வசித்து வருவதாகவும், வீட்டின் வறுமை காரணமாக பணம் மற்றும் பிற பொருட்களை வழங்கி ஏமாற்றி இரண்டு வருடங்களாக சிறுமி கூட்டு பலாத்காரம் செய்துள்ளமை  தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/701a9789.json)
 
 ---
 
@@ -159,6 +269,24 @@ The Department of Meteorology has urged the people to take necessary steps to re
 [Data](articles/0b11ed75.json)
 
 [Extended Data](ext_articles/0b11ed75.ext.json)
+
+---
+
+### தாழ்வான வளிமண்டலத்தில் கொந்தளிப்பு
+
+*2024-08-13 09:19:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாழ்வான-வளிமண்டலத்தில்-கொந்தளிப்பு/175-342072) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேற்கு மாகாணங்களின் சில பகுதிகளில் இன்று (13) 100 மி.மீ க்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக நாடு முழுவதும் தற்போது காணப்படும் மழை நிலை தொடரும் என எதிர்பார்க்கப்படுவதாக திணைக்களம் தெரிவித்துள்ளது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/c11bcd9b.json)
 
 ---
 
@@ -2121,183 +2249,5 @@ A woman who was traveling in the bus was admitted to the hospital with serious i
 [Data](articles/d3713a11.json)
 
 [Extended Data](ext_articles/d3713a11.ext.json)
-
----
-
-### House in Kandy road - 3 dead
-
-*2024-08-12 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199857) · `si`
-
-In a tragic accident at Weweldeniya Junction on the Colombo-Kandy road, three children were killed when a three-wheeler collided with a lorry from behind.
-
-🟩
-
-Three children, including a child, had died in a fatal accident in Weweldeniya Junction on the Colombo-Kandy road today.
-
-Our correspondent said that a three-wheeler was hit by the back of a lorry.
-
-◼️
-
-[Data](articles/c473dc62.json)
-
-[Extended Data](ext_articles/c473dc62.ext.json)
-
----
-
-### Sri Lanka Parliament informs Election Commission of two vacant seats
-
-*2024-08-12 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-informs-election-commission-of-two-vacant-seats-176457/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament has informed the Election Commission that two Parliamentary seats are vacant.
-
-Acting General Secretary of the Parliament Chaminda Kularatne informed the Chairman of the Election Commission in writing that two Parliamentary seats in the Ninth Parliament have become vacant from August 9.
-
-This is due to the cancellation of parliamentary seats of legislators Manusha Nanayakkara and Harin Fernando after the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel the two was legally valid.
-
-Galle District Member of Parliament Nanayakkara and National List Member of Parliament Harin Fernando had challeged the SJB’s decision to remove them from their party membership after the two crossed over to support President Ranil Wickremesinghe. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/35f28277.json)
-
-[Extended Data](ext_articles/35f28277.ext.json)
-
----
-
-### Israel is trying to face a attack
-
-*2024-08-12 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199856) · `si`
-
-Israel's Defense Secretary Lloyd Austin warned Israel about a potential large-scale military attack from Iran. This information was shared during a phone call, which has been reported by foreign media. The communication aims to prepare the Israeli Army for this threat.
-
-🟩
-
-Israeli defense secretary Lloyd Austin has informed the Israeli defense secretary Lloytin that Iran is preparing for a large military attack.
-
-He was informed and given to a telephone call, foreign media.
-
-They had communicated with the preparation of the Israeli Army to face Iran.
-
-◼️
-
-[Data](articles/5b02d210.json)
-
-[Extended Data](ext_articles/5b02d210.ext.json)
-
----
-
-### Wimal files case against two immigration officers seeking Rs. 1 billion in damages
-
-*2024-08-12 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/101179/wimal-files-case-against-two-immigration-officers-seeking-rs-1-billion-in-damages) · `en`
-
-MP Wimal Weerawansa has filed a case against two officers of the Immigration and Emigration Department before the Colombo District Court seeking Rs. 1,000 million as compensation for alleged defamation.
-
-The former minister says he was arrested under the Immigration and Emigration Act for no reason during the previous ‘Yahapalana’ (good governance) government and a case was filed before the Negombo Magistrate’s Court, and that this had harmed his reputation.
-
-In this case which was filed today (12), the authorized officer of the Immigration and Emigration Department Eranga Rambukwella, senior authorized officer Sujeewa Rathnayake and the Attorney General have been named as respondents.
-
-In 2015, Weerawansa was accused of using an expired passport to fly abroad while the MP was preparing to travel to Europe for a series of lectures, following an invitation from Sri Lankan expatriates in Dubai and Italy.
-
-...
-
-[Data](articles/6e618763.json)
-
-[Extended Data](ext_articles/6e618763.ext.json)
-
----
-
-### Instant Conduct Tik to provide relief
-
-*2024-08-12 15:42:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணம்-வழங்க-உடனடி-நடவ-டிக்கை/175-342036) · `ta`
-
-Mahinda Amaraweera, the Minister of Agriculture and Plantation Industries, has directed the Agriculture Department to report on small agriculture impacts. He also instructed the Agricultural and Agrarian Insurance Board to offer relief to registered minority areas, ensuring quick assistance post-harvest. The board estimates that this season's minor crop will cover 480,000 hectares of paddy, with 77% being regular paddy, 11% samba paddy, and 12% scratch samba.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera has advised the Agriculture Department to submit reports on the impact of small agriculture.
-
-Accordingly, the Minister has issued a directive to the Agricultural and Agrarian Insurance Board that steps have been taken to provide relief to registered areas registered in the minority.
-
-The Agricultural and Agrarian Insurance Board has taken steps to provide the harvest in the area soon and that the harvest is over immediately after the harvest is over.
-
-It was estimated that all the fields produced in the minor this time would be available in 480,000 hectares of paddy.
-
-It is noteworthy that 77 percent of the total harvested total paddy production is paddy, 11 percent of samba paddy and 12 % scratch samba.
-
-◼️
-
-[Data](articles/229b9705.json)
-
-[Extended Data](ext_articles/229b9705.ext.json)
-
----
-
-### Three killed in accident
-
-*2024-08-12 15:41:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேவல்தெனிய-விபத்தில்-மூவர்-பலி-மூவர்-காயம்/175-342035) · `ta`
-
-In a tragic accident in Vekapola Vewaldeniya, three died and three were injured during the day.
-
-🟩
-
-Three persons were killed and three were injured in a daytime vehicle accident in the Vekapola Vewaldeniya area today (12), police said.
-
-◼️
-
-[Data](articles/9ecdbc36.json)
-
-[Extended Data](ext_articles/9ecdbc36.ext.json)
-
----
-
-### Rajapaksa's family, who is trying to resume politics through the presidential election - in the most difficult environment
-
-*2024-08-12 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/190855) · `ta`
-
-In the wake of Sri Lanka's economic crisis, the Rajapaksa family, led by Namal Rajapaksa, aims to make a political comeback in the upcoming presidential election. Despite facing significant challenges, including public discontent and a historical verdict blaming them for the economic crisis, the family seeks to regain power. Analysts predict a tough road ahead for Namal Rajapaksa, who must prove his leadership amidst ongoing protests and skepticism about his ability to address the nation's issues effectively.
-
-🟩
-
-The Rajapaksa family has announced its political success as Sri Lanka is ready to face the first election following the economic crisis of 2022.
-
-Many political researchers consider this as a political recurrence of the family.
-
-This week, the Sri Lankan PA, the Sri Lankan PA, was announced as a candidate for the presidential election on September 21 as the 38 -year -old son of war leader Mahinda Rajapaksa.
-
-Political analysts say that a very difficult task is awaiting a very difficult task for Namalrajapaksa, described by his father as a young leader demanded by 2022 protesters.
-
-The family came to the fore in the final days of the three decades of civil war with the separatist Liberation Tigers - popular.
-
-Following the victory of the Sri Lankan military in 2009, they were called war veterans, especially by the majority community in Sri Lanka.
-
-After two decades of politics, the lineage continued to decline in the civilian protests caused by the economic crisis of the country.
-
-...
-
-[Data](articles/faa76187.json)
-
-[Extended Data](ext_articles/faa76187.ext.json)
-
----
-
-### Speaker endorses Sri Lanka Economic Transformation Bill
-
-*2024-08-12 15:37:00* · [`economynextcom`](https://economynext.com/speaker-endorses-sri-lanka-economic-transformation-bill-176440/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Speaker Mahinda Yapa Abeywardana has signed the certificate on the Economic Transformation, a statement from the Parliament said.
-
-The Bill which aimed to make provisions for a national policy on economic transformation, was presented to Parliament on May 22.
-
-It was debated in Parliament on July 25, and was passed with amendments and without a vote.
-
-The Bill will come into effect as the Economic Transformation Act No. 45 of 2024.
-
-The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/1fbd5c99.json)
-
-[Extended Data](ext_articles/1fbd5c99.ext.json)
 
 ---

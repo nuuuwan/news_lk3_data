@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 11:36:42**
+As of **2024-08-14 11:56:26**
 
 ## Newspaper Stats
 
-*Scraped **40,654** Articles*
+*Scraped **40,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ newsfirstlk | 363
 bbccomsinhala | 378
 colombotelegraphcom | 389
 islandlk | 2,354
-economynextcom | 2,462
+economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,738
 dailymirrorlk | 4,733
-adaderanalk | 4,740
-tamilmirrorlk | 5,179
+adaderanalk | 4,741
+tamilmirrorlk | 5,180
 virakesarilk | 6,432
 adaderanasinhalalk | 6,914
 
@@ -26,49 +26,125 @@ adaderanasinhalalk | 6,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,650 (100.0%) of 40,654 articles have been extended.
+40,655 (100.0%) of 40,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### වැඩබලන පොලිස්පතිවරයෙකු පත්කරන්නැයි ඉල්ලා FR පෙත්සමක්
+### Janaka Ratnayake places deposit to contest Presidential Election
+
+*2024-08-14 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101227/janaka-ratnayake-places-deposit-to-contest-presidential-election) · `en`
+
+Former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL), Janaka Ratnayake is running for the presidential election this year as the candidate of the ‘United Lanka Podujana Party’.
+
+The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, has placed the security deposit on behalf of Janaka Ratnayake at the Election Commission this morning (14).
+
+◼️
+
+[Data](articles/b4a497c4.json)
+
+[Extended Data](ext_articles/b4a497c4.ext.json)
+
+---
+
+### Increase in leakage consumption following tax hike
+
+*2024-08-14 11:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-உயர்வைத்-தொடர்ந்து-கசிப்பு-நுகர்வு-அதிகரிப்பு/175-342148) · `ta`
+
+Following a tax hike, illegal liquor consumption rose from 19% to 30%, impacting state revenue. The excise commissioner noted a rapid price increase in legal alcohol, affecting sales and revenue targets. Despite restrictions in some districts limiting access to state-owned liquor, the illegal market thrives, highlighting the need for effective regulation and licensing strategies to meet the 2024 budget goal of Rs 232 billion.
+
+🟩
+
+The Commissioner General of Excise MJ Gunasiri said that illegal liquor consumption, especially 'leak' consumption, has increased from 19% to 30% following tax hikes.
+
+Commenting on the media, following the tax increase, the prices of alcoholism have increased rapidly with illegal liquor market.
+
+The sector is the third main sector of the state's revenue, and the 2024 budget proposal is aimed at earning Rs 232 billion this year.
+
+“It is surprising that the state has not been granted permission for liquor in some districts. In these districts, people have to travel at least 30 to 40 kilometers to find the state -owned liquor road.
+
+However, persons who sell illegal liquor continue to work in these areas without restrictions, ”he said.
+
+July 31, 2024. 122 billion government revenues were charged, and to reach the target more than Rs.. 110 billion is required.
+
+...
+
+[Data](articles/0f9a42e0.json)
+
+[Extended Data](ext_articles/0f9a42e0.ext.json)
+
+---
+
+### FR petition demanding to appoint a acting IGP
 
 *2024-08-14 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199920) · `si`
 
-වැඩබලන පොලිස්පතිවරයෙකු පත්කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් වුණි.
+A fundamental rights petition was filed with the Supreme Court requesting an acting Inspector General of Police (IGP). The petition names President Ranil Wickremesinghe and the Attorney General as respondents.
 
-එහි වගඋත්තරකරුවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හා නීතිපතිවරයා නම් කර තිබේ.
+🟩
+
+A fundamental rights petition filed a fundamental rights petition to the Supreme Court demanding a acting IGP.
+
+President Ranil Wickremesinghe and the Attorney General have been named as respondents.
 
 ◼️
 
 [Data](articles/60cf7ae0.json)
 
+[Extended Data](ext_articles/60cf7ae0.ext.json)
+
 ---
 
-### නාමල් රාජපක්ෂ නාමයෝජනා පත්‍රයට අත්සන් තබයි
+### Sri Lanka, Egypt sign agreement for diplomacy training, explore trade ties
+
+*2024-08-14 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-egypt-sign-agreement-for-diplomacy-training-explore-trade-ties-176714/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Egypt have agreed to strengthen cooperation in diplomatic training, capacity building, research and studies in diplomacy between the two countries.
+
+The MoU will see the Bandaranaike International Diplomatic Training Institute (BIDTI) and the Institute for Diplomatic Studies of the Ministry of Foreign Affairs of Egypt consolidate cooperation.
+
+Foreign Minister Ali Sabry who visited Egypt from August 7-11, met Egypt’s Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt Badr Abdelatty to review bilateral relations between Sri Lanka and Egypt.
+
+“Both sides noted the potential to expand the relations between the two countries by fostering closer links in the fields of trade, investment, tourism, education, culture, archaeology, maritime transport, renewable energy, and climate change,” a statement by the Ministry of Foreign Affairs said.
+
+...
+
+[Data](articles/c74bfe38.json)
+
+[Extended Data](ext_articles/c74bfe38.ext.json)
+
+---
+
+### Namal Rajapaksa signs to nomination papers
 
 *2024-08-14 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199919) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+Namal Rajapaksa has been nominated as the presidential candidate by the Sri Lanka General Front, signing his nomination papers at a residence in Wijerama. This move comes amidst expectations from President Ranil Wickremesinghe for a candidate announcement. Meanwhile, the Sri Lanka Klean Front also named a candidate, while UNP MP Dhammika Perera expressed readiness to run if offered but later withdrew his candidacy, leading to Namal Rajapaksa's declaration as the Civil Front's candidate.
 
-මහින්ද රාජපක්ෂ මහතාගේ විජේරාමයේ පිහිටි නිවසේ දී නාමල් රාජපක්ෂ මහතා එලෙස නාමයෝනා පත්‍රයට අත්සන් තැබීය.
+🟩
 
-මේ අතර අද (14) උදෑසන ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කෙරුණි.
+Namal Rajapaksa has signed the nomination after the presidency of the Sri Lanka General Front.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට එළැඹෙන ජනාධිපතිවරණයේදී සහාය ලබා දෙතැයි ආරම්භයේදී අපේක්ෂා කෙරිණි.
+Namal Rajapaksa signed the name of Namal Rajapaksa at the house in Wijerama, Mahinda Rajapaksa.
 
-නමුත් එම පක්ෂයේ කිහිපදෙනෙකුගේ ස්ථාවරය වූයේ ජනාධිපතිවරණ අපේක්ෂකයෙක් පක්ෂයෙන් ඉදිරිපත් කළ යුතු බවය.
+Meanwhile, Sri Lanka Klean Front was deposited as the presidential candidate of the Sri Lanka General Manager.
 
-එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ව්‍යාපාරික ධම්මික පෙරේරා මහතා පවසා සිටියේ පක්ෂය තමාට අපේක්ෂකත්වය ලබා දෙන්නේ නම් ඔහු එය භාරගැනීමට සූදානම් බවයි.
+President Ranil Wickremesinghe was expecting the President Ranil Wickremesinghe at the beginning of the presidential election.
 
-නමුත් ඒ මහතා තමා ජනාධිපතිවරණයට ඉදිරිපත් නොවන බව දන්වමින් ශ්‍රී ලංකා පොදුජන පෙරමුණට ලිපියක් යොමුකර ඇති බව අගෝස්තු 06 වනදා වාර්තා වුණි.
+However, the stand of the party was that a presidential candidate should be presented in the party.
 
-ඒ අනුව පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතාගේ නම අගෝස්තු 7 වෙනිදා ප්‍රකාශයට පත් කළේය.
+UNP MP Dhammika Perera said that if the party gives him candidacy, he was ready to accept it.
+
+However, he had written to the Sri Lanka Civil Aruormro, informing him that he would not contest the presidential election.
+
+Accordingly, Namal Rajapaksa declared the name of Mr. Namal Rajapaksa as the presidential candidate of the Civil Front.
 
 ◼️
 
 [Data](articles/8f69b9a4.json)
+
+[Extended Data](ext_articles/8f69b9a4.ext.json)
 
 ---
 
@@ -108,7 +184,15 @@ The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal R
 
 Former Justice Minister Dr. Wijeyadasa Rajapakshe has signed his nomination papers to contest the upcoming Presidential Election, which is scheduled to be held on September 21.
 
-◼️
+He signed the nominations at his residence in Nawala amid the blessings of the Venerable Maha Sanga, said Ada Derana Reporter.
+
+Rajapakshe had placed a deposit with the Election Commission as a candidate for the 2024 Presidential Election on August 01.
+
+Rajapakshe had placed the deposit as the presidential candidate of the National Democratic Front.
+
+It was initially stated that the former minister would be contesting this year’s presidential election with the support of the faction of former chairman of the Sri Lanka Freedom Party (SLFP), ex-president Maithripala Sirisena.
+
+...
 
 [Data](articles/1f1abacb.json)
 
@@ -373,6 +457,28 @@ Applications for postal voting for the presidential election have been completed
 [Data](articles/24653212.json)
 
 [Extended Data](ext_articles/24653212.ext.json)
+
+---
+
+### Sri Lanka rupee opens slightly higher at 299.05/20 to US dollar, bond yields steady
+
+*2024-08-14 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-higher-at-299-05-20-to-us-dollar-bond-yields-steady-176698/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly higher at 299.05/20 to the US dollar on Wednesday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.28 percent.
+
+In the secondary market, treasury bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.05/25 percent, down from 11.00/30 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.02/12 percent, from 13.00/15 percent.
+
+A bond maturing on 15.05.2030 was quoted at 13.20/30 percent.
+
+In equities, Colombo’s All Share Price Index opened 31.42 points higher at 11,378, while the S&P SL20 of more liquid stocks opened up at 0.16 percent or 19.47 points to 3,264.
+
+◼️
+
+[Data](articles/0cbf5c64.json)
 
 ---
 
@@ -997,6 +1103,28 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara stated that a special secu
 [Data](articles/a6e38195.json)
 
 [Extended Data](ext_articles/a6e38195.ext.json)
+
+---
+
+### Sri Lanka positive growth momentum to continue: CB Governor
+
+*2024-08-14 07:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-positive-growth-momentum-to-continue-cb-governor-176689/) · `en`
+
+ECONOMYNEXT – There are clears signs in leading indicators that Sri Lanka’s positive growth seen in the early part of 2024 will continue, with low inflation and the exchange rate also stable, Central Bank Governor Nandalal Weerasinghe said.
+
+In the first quarter of 2024 Sri Lanka’s economy grew 5.3 percent, according to an estimate by the state statistics office.
+
+“Subsequent to the strong positive growth in the first part of this year, leading indicators point to a continuation of this positive growth momentum during the of the remainder this year,” Governor Weerasinghe told participants of an  international forum organized by the Insurance Association of Sri Lanka.
+
+“External sector stability has been restored to a great extent.”
+
+Sri Lanka started to show positive growth with inflation falling and the exchange rate ‘broadly stable’ which has also allowed the central bank to lower policy rates.
+
+During the last currency crisis, the insurance sector also suffered, he said.
+
+...
+
+[Data](articles/e416fa0e.json)
 
 ---
 
@@ -2035,109 +2163,5 @@ The magistrate has also ordered the detainees of the 21 school students to be de
 [Data](articles/a8abee58.json)
 
 [Extended Data](ext_articles/a8abee58.ext.json)
-
----
-
-### The bail deposits up to 36
-
-*2024-08-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199900) · `si`
-
-36 individuals have posted bail, coinciding with the presidential election. A joint statement was released by 20 political entities, including 19 reputable ones and another party. There are 16 nominated candidates.
-
-🟩
-
-Meanwhile, 36 people have gone to the presidential election.
-
-Issuing a statement issued by 19 reputable political parties and 1 other political parties have been deposited.
-
-The number of nominated candidates is 16, and the number of nominated candidates.
-
-◼️
-
-[Data](articles/204e4160.json)
-
-[Extended Data](ext_articles/204e4160.ext.json)
-
----
-
-### Kaminda and Vandesige to England
-
-*2024-08-13 18:56:25* · [`adalk`](https://www.ada.lk/breaking_news/කමිඳු-හා-වැන්ඩසේගේ-අද-එංගලන්තයට/11-411359) · `si`
-
-Sri Lanka's Mendis and Vandis will travel to England today for a Test tour, despite visa delays affecting player attendance. Their first match is scheduled for August 21.
-
-🟩
-
-Sri Lanka Mendis and Geoffrey Vandis, Sri Lanka Test team, will leave for England today (14th), a senior officer of Sri Lanka cricket said. The two players who are supposed to participate in the visit to England Test tour.. Sri Lanka left for England recently for the tournament.
-
-Attendance of Jeffrey Vandesy is the delay of his visa application, he delays his visa application, but his visa delay was delayed due to the delay of his visa application.. The main midnight of the Kamminda squad, as well as an additional spinner is to be played
-
-However, Vesha's Visa has been released, however, and Komick's visa will be received this morning and the higher officer.. The Sri Lankan team will also participate in the training competition today (14).
-
-The first match of the 3-match test series will commence on August 21.
-
-◼️
-
-[Data](articles/80f3877d.json)
-
-[Extended Data](ext_articles/80f3877d.ext.json)
-
----
-
-### Gang rape of school girl: Principal, 2 teachers arrested for concealing incident
-
-*2024-08-13 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101211/gang-rape-of-school-girl-principal-2-teachers-arrested-for-concealing-incident) · `en`
-
-The principal and three teachers, including two female teachers, at a school in Thanamalvila have been arrested by police for concealing the incident of a 16-year-old girl who was gang raped and abused for a year by students.
-
-They have been arrested today (13) by Thanamalvila Police and are accused of concealing the incident despite being aware of said information and not reporting it to the police.
-
-It was reported recently that some 17 schoolboys have been arrested on charges of having allegedly sexually abused and gang-raped a schoolgirl in Thanamalvila over the course of the last year.
-
-◼️
-
-[Data](articles/b32f31af.json)
-
-[Extended Data](ext_articles/b32f31af.ext.json)
-
----
-
-### School Principal, teacher and two teachers in the Tanamalwila girl a
-
-*2024-08-13 18:42:19* · [`adalk`](https://www.ada.lk/breaking_news/තණමල්විල-දැරිය-අතවර-කිරීමේ-සිදුවීම-වසන්-කිරීමට-පාසලේ-විදුහල්පති--ගුරුවරයෙක්-හා-ගුරුවරියන්-දෙදෙනෙක්-අ/11-411358) · `si`
-
-Principal and two teachers from Tanamalwila school arrested by police.
-
-🟩
-
-Four persons have been arrested by the Police Media Spokesperson's Spokesman's Office.
-
-Accordingly, the Principal of the school education and two teachers of the school have been arrested by the Thanamalwila police.
-
-◼️
-
-[Data](articles/add0a827.json)
-
-[Extended Data](ext_articles/add0a827.ext.json)
-
----
-
-### Three hiding corruption arrested
-
-*2024-08-13 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199899) · `si`
-
-Four individuals were arrested by the Thanamalwila Police Division: three for corruption and one girl detained by school authorities.
-
-🟩
-
-Four suspects have been arrested by the Thanamalwila Police Division in the Thanamalwila police division.
-
-The girl was arrested by the Principal and a teacher and two teachers at the school.
-
-◼️
-
-[Data](articles/78f569d3.json)
-
-[Extended Data](ext_articles/78f569d3.ext.json)
 
 ---

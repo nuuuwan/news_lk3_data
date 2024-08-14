@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 19:06:49**
+As of **2024-08-14 19:21:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,736 (100.0%) of 40,741 articles have been extended.
+40,741 (100.0%) of 40,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### අතාවුල්ලා ඇතුළු පිරිසගේ සහාය රනිල්ට
+### Ranil to support Athaullah
 
 *2024-08-14 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199942) · `si`
 
-ජාතික කොංග්‍රසයේ නායක දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඒ. එල්. එම්. අතාවුල්ලා මහතා ඇතුළු එම පක්ෂයේ නියෝජිතයින් ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+National Congress leaders, including Digamadulla District MP L.M., and Patriotic Folk Party's Sahagath Hewapathirana, have pledged support for President Ranil Wickremesinghe in the upcoming presidential election.
 
-මේ අතර දේශප්‍රේමී ජන බලවේගය පක්ෂයේ නායක සුගත් හේවාපතිරණ මහතා ඇතුළු එම පක්ෂයේ නියෝජිත පිරිසක් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සහාය පළ කර ඇත.
+🟩
 
-ඔවුන් අද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඉදිරි ජනාධිපතිවරණයේදී සිය සහාය ලබාදෙන බව දැනුම්දී තිබේ.
+National Congress leader Digamadulla District Parliamentarian. L. M. The representatives of the party and the representatives of the party have decided to support President Ranil Wickremesinghe in the next presidential election.
+
+Meanwhile, the Leader of the Patriotic Folk Person Sahagath Hewapathirana and the party's delegation has also supported President Ranil Wickremesinghe.
+
+They have been told by President Ranil Wickremesinghe today and will be supported in the next presidential election.
 
 ◼️
 
 [Data](articles/3054b090.json)
+
+[Extended Data](ext_articles/3054b090.ext.json)
 
 ---
 
@@ -60,55 +66,75 @@ Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawe
 
 [Data](articles/7f4daae6.json)
 
+[Extended Data](ext_articles/7f4daae6.ext.json)
+
 ---
 
-### ඇප තැන්පත් කිරීමට අදාළ පැමිණිලි නෑ
+### There are no complaints related to deposit
 
 *2024-08-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199941) · `si`
 
-ජනාධිපතිවරණයට අදාළව ඇප තැන්පත් කිරීම සම්බන්ධයෙන් මෙතෙක් පැමිණිලි කිසිවක් ලැබී නැති බව මැතිවරණ කොමිසමේ සභාපති පවසයි.
+No complaints about deposit were made to the Election Commission, chaired by RMAL. Mr. Ratnayake mentioned issues with certain party secretaries, leading to the commission being reassigned. The affected parties agreed to resolve secretary-related problems, resulting in the Election Commission deciding against fielding candidates from these two parties.
 
-එම කොමිසමේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසන්නේ ඇතැම් පක්ෂවල ලේකම්වරුන් සම්බන්ධයෙන් ගැටළු පැවැති බවය.
+🟩
 
-මේ හේතුවෙන් එම ගැටළුකාරි පක්ෂ මැතිවරණ කොමිසම හමුවේ කැඳවා පක්ෂ එකඟතාවයෙන් ලේකම්වරයෙකු පත්කර ගැනීමට අවස්ථාව ලබා දුන් බවත් ඔහු පැවසීය.
+The Chairman of the Election of the Elections has not yet received any complaints regarding the deposit of the presidential election.
 
-ඒ අනුව එක් පක්ෂයක් ලේකම් ධුරයේ ගැටළු නිරාකරණය කිරීමට එකඟ වූ බවත් අනෙක් පක්ෂ දෙක ඒ සඳහා එකඟ නොවූ බවත් සභාපතිවරයා පැවසුවේ.
+Chairman of the Commission, RMAL. Mr. Ratnayake says that issues have been held regarding the secretaries of certain parties.
 
-මේ හේතුවෙන්  අදාළ පක්ෂ දෙක සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට අවස්ථාව ලබා නොදීමට මැතිවරණ කොමිසම තීරණය කළ බවත් සභාපතිවරයා පැවසීය.
+As a result, the probleming commission was taken over by the Election and the party conventions allowed a secretary to appoint a secretary.
+
+Accordingly, the party agreed to solve the issues of the Secretary and the other two parties agreed to it.
+
+As a result, the Elections Commission has decided not to offer a candidate for the two parties.
 
 ◼️
 
 [Data](articles/da293bf8.json)
 
+[Extended Data](ext_articles/da293bf8.ext.json)
+
 ---
 
-### ரூ.300 இலட்சத்தை இலஞ்சமாக பெற முயன்ற குழு கைது
+### A group arrested for attempting to bribe Rs.
 
 *2024-08-14 18:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-300-இலட்சத்தை-இலஞ்சமாக-பெற-முயன்ற-குழு-கைது/175-342176) · `ta`
 
-இலங்கை பொதுப் பயன்பாட்டு ஆணைக்குழுவின் முன்னாள் தலைவர்  ஜானக ரத்நாயக்கவின் பெயரை முன்மொழிவதற்கு 300 இலட்சம் ரூபாய் இலஞ்சம் பெற்ற போது, ​​கட்சியின் செயலாளர் மற்றும் பல செயற்குழு உறுப்பினர்கள் கைது செய்யப்பட்டதாக  இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் பேச்சாளர் ஒருவர்   தெரிவித்தார். .
+A bribery attempt involving Rs 300 lakh was thwarted as the secretary and several executive committee members were arrested. The incident occurred at a trade complex in Welikada, where they allegedly sought to influence the naming of Janaka Ratnayake by the Sri Lankan General Utilities Commission. The arrests were made based on complaints from the Citizenship Organization Chairman and the Chairman of the Correctional Rights Organization against Bribery and Waste.
 
-இலஞ்ச ஊழல் மற்றும் வீண்விரயத்திற்கு எதிரான பிரஜாவுரிமை அமைப்பின் தலைவர்  கமந்த துஷார இலஞ்ச ஆணைக்குழுவில் செய்த முறைப்பாட்டிற்கு அமைய வெலிக்கடை பிரதேசத்தில் உள்ள பிரபல வர்த்தக வளாகம் ஒன்றில் வைத்து இந்த குழுவினர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-பொரளை வெலிக்கடை பிளாசா வர்த்தக நிலையத்தில் இன்று (14) பிற்பகல் பணம் பெற்றுக்கொண்ட போதே குறித்த நபர்கள் கைது செய்யப்பட்டதாகவும் பேச்சாளர் தெரிவித்தார்.
+A spokesperson of the Commission to investigate bribery or corruption said that when the party's secretary and several executive committee members were arrested when the bribe of Rs 300 lakhs was arrested when the Sri Lankan General Utilities Commission was bribed to propose the name of Janaka Ratnayake.. .
 
-கைது செய்யப்பட்டவர்களில் அக்கட்சியின் முன்னாள் செயலாளரும், 2015ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிட்ட வேட்பாளரும் அடங்குவதாகவும் அவர்களின் வாக்குமூலங்கள் தற்போது பதிவு செய்யப்பட்டு வருவதாகவும் பேச்சாளர் தெரிவித்தார்.
+The group has been arrested at a popular trade complex in Welikada area on a complaint lodged by the Citizenship Organization Chairman Kamantha Dushara, the Chairman of the Correctional Rights Organization against Bribery and Waste.
+
+The spokesman said that the persons were arrested while receiving money from the Welikada Plaza Trade Center this afternoon.
+
+The spokesman said the former secretary of the arrested and the candidate for the 2015 presidential election and their affidavits are currently being registered.
 
 ◼️
 
 [Data](articles/c57fbd5d.json)
 
+[Extended Data](ext_articles/c57fbd5d.ext.json)
+
 ---
 
-### அத்தாவுல்லா, ரணிலுக்கு ஆதரவு
+### Athaullah, support for Ranil
 
 *2024-08-14 18:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தாவுல்லா-ரணிலுக்கு-ஆதரவு/175-342175) · `ta`
 
-தேசிய காங்கிரசின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ஏ.எல்.எம். அத்தாவுல்லா, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து தனது ஆதரவை தெரிவித்துள்ளார்.
+Athaullah, leader of the National Congress, supports President Ranil Wickremesinghe, emphasizing unity and cooperation.
+
+🟩
+
+The National Congress President and Member of Parliament ALM. Athaullah met President Ranil Wickremesinghe and expressed his support.
 
 ◼️
 
 [Data](articles/db7f65fb.json)
+
+[Extended Data](ext_articles/db7f65fb.ext.json)
 
 ---
 

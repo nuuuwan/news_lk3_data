@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 16:53:58**
+As of **2024-08-14 17:06:31**
 
 ## Newspaper Stats
 
-*Scraped **40,723** Articles*
+*Scraped **40,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,77 @@ dailymirrorlk | 4,733
 adaderanalk | 4,751
 tamilmirrorlk | 5,194
 virakesarilk | 6,450
-adaderanasinhalalk | 6,927
+adaderanasinhalalk | 6,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,722 (100.0%) of 40,723 articles have been extended.
+40,723 (100.0%) of 40,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### සීගිරියේදී සංචාරකයන්ට බඹර ප්‍රහාරයක්
+### කමිඳු ගේ සහ වැන්ඩර්සේ ගේ වීසා ගැටලුව විසඳෙයි
+
+*2024-08-14 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199937) · `si`
+
+ශ්‍රී ලංකා ටෙස්ට් සංචිතයට නම්කර සිටින කමිඳු මෙන්ඩිස් සහ ජෙෆ්රි වැන්ඩර්සේ හෙට (15) එංගලන්තය බලා පිටත්වීමට නියමිත බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම පසුගිය 11 වනදා එංගලන්තය බලා පිටත් වූ අතර මෙම ක්‍රීඩකයින් දෙදෙනාට එදින යාමට නොහැකි වුණි.
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර ටෙස්ට් තරග 3ක් පැවැත්වීමට නියමිත අතර එහි පළමු තරගය අගෝස්තු 21 වනදා මැන්චෙස්ටර් හීදී ආරම්භ වෙයි.
+
+◼️
+
+[Data](articles/297ed24b.json)
+
+---
+
+### අලුත් පත් කිරීම් කිහිපයකට නිර්දේශ ලබාදෙයි
+
+*2024-08-14 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199936) · `si`
+
+නව තානාපතිවරුන් 06 දෙනෙක්, මහ කොමසාරිස්වරයෙක්, අමාත්‍යාංශ ලේකම්වරුන් දෙදෙනෙක් සහ ව්‍යවස්ථාපිත ආයතන සභාපතිවරයෙක් පත්කිරීමට පාර්ලිමේන්තුවේ උසස් නිලතල පිළිබඳ කාරක සභාවේ නිර්දේශය ලබාදී තිබේ.
+
+ඒ අනුව, ඉන්දුනීසියානු ජනරජයේ ශ්‍රී ලංකා තානාපති ලෙස එස්. ඒ. පී. පී. සේරම් මහත්මියගේ නමද, කටාර් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති ලෙස ආර්.එස්.කේ අසාර්ඩ් මහත්මිය‍ගේ නමද උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර ඇත.
+
+එමෙන්ම රුසියානු සමූහාණ්ඩුවේ ශ්‍රී ලංකා තානාපති ලෙස එස්.කේ. ගුණසේකර මහත්මියගේ නමද, ඊජිප්තු අරාබි ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස ඒ.එස්.කේ. සෙනවිරත්න මහතාගේ නමද  උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර ඇත.
+
+තවද ඉරාන ඉස්ලාමීය ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස එන්.එම් ෂහීඩ් මහතාගේ නමද, බහරේන් රාජධානියේ ශ්‍රී ලංකා තානාපති ලෙස වයි.කේ. ගුණසේකර මහත්මියගේ නමද, නවසීලන්තයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා ලෙස එස්.පී වල්පිට ගමගේ මහතාගේ නමද උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර තිබේ.
+
+...
+
+[Data](articles/50d0aa54.json)
+
+---
+
+### Wasp attack in Sigiriya
 
 *2024-08-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199935) · `si`
 
-සීගිරිය සිංහපාදය අසල දී සංචාරකයින් පිරිසකට බඹර ප්‍රහාරයක් එල්ලවීමත් සමග සීගිරිය සංචාරකයින් සඳහා තාවකාලිකව වසා දැමීමට මධ්‍යම සංස්කෘතික අරමුදල පියවර ගෙන තිබේ.
+Due to a wasp attack, the Central Cultural Fund site in Sigiriya has temporarily closed to tourists. Thirteen locals were hospitalized after being stung. The influx of tourists is believed to have disturbed the wasps. Once the wasps calm down, the site will reopen, and measures are being studied to prevent future attacks.
 
-අද (14) පස්වරුවේ එල්ල වී ඇති බඹර ප්‍රහාරයෙන් විදෙස් සංචාරයකයින් 26 දෙනෙකු මෙන්ම දේශීය සංචාරකයින් 13 දෙනෙකු ප්‍රතිකාර සඳහා සීගිරිය ග්‍රාමීය රෝහලට ඇතුලත් කර ඇත.
+🟩
 
-බඹරුන් ඇවිස්සීමට මේ දිනවල පවතින අධික අව් රශ්මිය සහ අධික සංචාරකයින්ගේ පැමිණීම හේතුව වන්නට ඇතැයි සංචාරක මග පෙන්වන්නන් සැක පළ කර තිබේ.
+The Central Cultural Fund has been temporarily closed for a tourist arrivals near the Sinhapath of Sigiriya.
 
-මේ සම්බන්ධව අදහස් දැක්වූ මධ්‍යම සංස්කෘතික අරමුදලේ සීගිරි ව්‍යාපෘති කළමනාකාර තුසිත හේරත් පවසන්නේ බඹරුන් ඇවිස්සුණු අවස්ථාවේ දී සීගිරිය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ලබාගෙන තිබූ නමුත් ඇතුළුවීමට නොහැකි වූ පිරිසගේ මුදල් නැවත ලබා දීමට අවශ්‍ය පියවර ගන්නා බවය.
+The wasp attack on wasp attack and 13 local tourists have been admitted to the Sigiriya Rural Hospital for treatment this afternoon.
 
-කෙසේ වෙතත් බඹරුන්ගේ සන්සුන්භාවය ඇතිවූ විගස සීගිරිය සංචාරකයන්ට නැවත  විවෘත කිරීමට අවශ්‍ය පියවර ගන්නා බවත් ඔහු පවසයි.
+Travel guides have been suspected that the excessive arm and excessive tourist arrivals were due to stirring wasps.
 
-තවද බඹරුන් පළවා හැරීම සඳහා ජලවාශ්ප විදින ක්‍රමවේදයක් මේ වන විට අධ්‍යයනය කරමින් පවතින බව ද ඔහු පවසයි.
+The Sigiriya Project Manager of the Central Cultural Fund Sigiriya Herath, who spoke in this regard, it is necessary to redefine the money to visit Sigiriya when they were stirring.
+
+However, as soon as the calmness of the wasps, Sigiriya will be reopened to the tourists.
+
+He also said that a technique is currently studying a technique for providing the wasps.
 
 ◼️
 
 [Data](articles/8f9bc7b4.json)
+
+[Extended Data](ext_articles/8f9bc7b4.ext.json)
 
 ---
 
@@ -62,9 +102,13 @@ The nominations for the upcoming Presidential Election will be accepted from 9.0
 
 Accordingly, the police announced that a special traffic plan would be implemented from 8.00 a.m. to 2.00 p.m. tomorrow.
 
-See below for the Police Media Division announcement on the traffic plan....
+Meanwhile, the vicinity of the Election Commission Office in Rajagiriya is to be designated as a special security zone tomorrow due to the accepting of nominations.
 
-◼️
+The Chairman of the Election Commission, R.M.A.L. Rathnayake has therefore requested the public to avoid the area if possible for any official or personal purposes during this time period.
+
+The special security zone will encompass Sarana Mawatha in Rajagiriya, with only authorized personnel and vehicles allowed access.
+
+...
 
 [Data](articles/5d7c1373.json)
 
@@ -190,7 +234,13 @@ President Ranil Wickremesinghe has signed his nomination papers today (14) to co
 
 He has signed the nomination papers at his political office in Flower Road, Colombo.
 
-◼️
+On July 26, President’s Counsel Ronald Perera had placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate..
+
+President Wickremesinghe had confirmed that he will contest the upcoming Presidential Election as an independent candidate, while addressing a public meeting held in Galle, on July 27.
+
+The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election had concluded at 12 noon today (14). The Election Commission has stated that in total 40 individuals have placed deposits to contest the upcoming presidential election.
+
+...
 
 [Data](articles/0cfbfef9.json)
 
@@ -560,6 +610,8 @@ A van traveling from Anuradhapura to Vavuniya has collided with a three -wheeler
 
 The leader of the United Republic Front (Eksath Janaraja Peramuna) MP Patali Champika Ranawaka had signed agreement to support SJB leader Sajith Premadasa at the upcoming Presidential Election.
 
+The relevant agreement was signed by Opposition Leader Sajith Premadasa on behalf of the SJB and former Minister Champika Ranawaka on behalf of the United Republic Front.
+
 ◼️
 
 [Data](articles/8db7fb5c.json)
@@ -744,17 +796,15 @@ The Sri Lanka General Assembly, 92 Members of Parliament, an independent candida
 
 The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election has concluded at 12 noon today (14).
 
-Four candidates have placed deposits within today, the final day for the placing of bonds.
+Four candidates have placed deposits within today, the final day for the placing of bonds, including MP Namal Rajapaksa from the Sri Lanka Podujana Peramuna (SLPP), Janaka Ratnayake from the ‘United Lanka Podujana Party’, Lalith De Silva of the ‘United National Freedom Party’ and independent candidate Sarath Kumara Gunarathne.
 
 The Election Commission has stated that in total 40 individuals have placed deposits to contest the upcoming presidential election.
+
+This includes 22 candidates from recognized political parties, 01 from other political parties and 17 independent candidates nominated by a voter.
 
 The placing of deposits related to the presidential election commenced on July 26 and concluded at 12 noon today.
 
 The acceptance of nominations for the upcoming presidential election is scheduled to begin tomorrow (15) from 9.00 a.m. to 11.00 a.m.
-
-Meanwhile, the Election Commission of Sri Lanka says that a total of 42 complaints have been received within the last 24 hours, pertaining to the 2024 Presidential Election.
-
-Accordingly, 37 complaints related to election law violations and 03 other complaints were reported.
 
 ...
 
@@ -2163,45 +2213,5 @@ District Secretariats, election offices and police have been allocated for the e
 [Data](articles/c55110cd.json)
 
 [Extended Data](ext_articles/c55110cd.ext.json)
-
----
-
-### Namal Rajapaksa places deposit to contest Presidential Election
-
-*2024-08-14 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101219/namal-rajapaksa-places-deposit-to-contest-presidential-election) · `en`
-
-The security deposit has been placed for the presidential candidate of the Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa to contest the upcoming Presidential Election.
-
-SLPP General Secretary Sagara Kariyawasam has placed the deposit on behalf of Namal Rajapaksa at the Election Commission this morning (14).
-
-“The security deposit was placed at the auspicious moment, marking another step forward in the journey to victory. We will ensure that Namal Rajapaksa will be sworn in as the ninth President by September 22. After the nominations are handed over tomorrow, the election campaign will begin immediately,” said Sagara Kariyawasam.
-
-The SLPP officially announced its National Organiser, MP Namal Rajapaksa, as the party’s candidate for the upcoming Presidential Election on August 07.
-
-SLPP General Secretary, Sagara Kariyawasam, made this announcement during a ceremony at the party’s headquarters in Nelum Mawatha.
-
-...
-
-[Data](articles/49976d59.json)
-
-[Extended Data](ext_articles/49976d59.ext.json)
-
----
-
-### Ocean bail on Namal
-
-*2024-08-14 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199912) · `si`
-
-Namal, a candidate for the 2024 General Anuradhapura presidency, has been granted bail by the Civil Committee.
-
-🟩
-
-The 2024 General Anuradhapura has been placed bail to the presidency of the Civil Committee.
-
-◼️
-
-[Data](articles/9a805de3.json)
-
-[Extended Data](ext_articles/9a805de3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 10:21:03**
+As of **2024-08-14 10:36:39**
 
 ## Newspaper Stats
 
-*Scraped **40,628** Articles*
+*Scraped **40,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,462
 dailyftlk | 2,625
-adalk | 3,734
+adalk | 3,736
 dailymirrorlk | 4,733
 adaderanalk | 4,736
 tamilmirrorlk | 5,171
-virakesarilk | 6,428
+virakesarilk | 6,432
 adaderanasinhalalk | 6,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,628 (100.0%) of 40,628 articles have been extended.
+40,628 (100.0%) of 40,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### தபால்மூல வாக்களிப்புக்கான திகதிகள் அறிவிப்பு
+
+*2024-08-14 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191044) · `ta`
+
+ஜனாதிபதித் தேர்தலில் தபால்மூல வாக்களிப்புக்கான திகதிகள் இன்று புதன்கிழமை (14) காலை தேர்தல்கள் ஆணைக்குழுவால் அறிவிக்கப்பட்டுள்ளது.
+
+அதன்படி, செப்டம்பர் மாதம் 4, 5 மற்றும் 6 ஆம் திகதிகளில் தபால்மூல வாக்களிப்பு  நடைபெறும். குறித்த திகதிகளில் வாக்களிக்க முடியாதவர்களுக்கு செப்டம்பர் மாதம் 11 மற்றும் 12 ஆம் திகதிகள் வாக்களிப்பு நடைபெறும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0ab50301.json)
+
+---
+
+### The date for postal voting will be announced today
+
+*2024-08-14 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191038) · `ta`
+
+The Elections Commission will announce the date for postal voting on Wednesday (14), after applications closed on the 9th.
+
+🟩
+
+The Elections Commission said that the date of the upcoming presidential election will be announced on Wednesday (14).
+
+Applications for postal voting for the presidential election have been completed by the 9th.
+
+◼️
+
+[Data](articles/24653212.json)
+
+[Extended Data](ext_articles/24653212.ext.json)
+
+---
 
 ### Dilith Dilith Jayaweera signs for Nomination
 
@@ -102,6 +136,40 @@ UNP leader Patali Champika Ranawaka will join the United People's Power in suppo
 
 ---
 
+### கட்டுப்பணம் செலுத்தினார் நாமல் ராஜபக்ஷ
+
+*2024-08-14 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191041) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ சார்பில் இன்று புதன்கிழமை (14) காலை கட்டுப் பணம் செலுத்தப்பட்டது.
+
+இவரது சார்பில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் சாகர காரியவசம் கட்டுப்பணத்தை செலுத்தினார்.
+
+ஜனாதிபதி தேர்தலுக்கு கட்டுப்பணத்தைச் செலுத்தும் நடவடிக்கைகள் இன்றையதினம் நண்பகல் 12.00 மணியுடன் நிறைவடைவதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0e625a13.json)
+
+---
+
+### யாழ். தென்மராட்சியில் சட்டவிரோதமாக மண் ஏற்றிச் சென்ற இருவர் கைது
+
+*2024-08-14 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191039) · `ta`
+
+யாழ்.தென்மராட்சி கொடிகாமம் பொலிஸ் பிரிவிற்குட்பட்ட எழுதுமட்டுவாள் பகுதியில் சட்டவிரோதமாக மணல் ஏற்றிச்சென்ற இரண்டு டிப்பர் வாகனங்கள் கொடிகாமம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளதுடன் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கொடிகாமம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய கொடிகாமம் பொலிஸ் நிலைய பதில் பொறுப்பதிகாரியான பிரதான பொலிஸ் பரிசோதகர் சிவலிங்கம் பிரபாகரன் அவர்களின் தலைமையில் கீழ் கொடிகாமம் பொலிஸ் நிலைய நிர்வாகப் பிரிவு பொறுப்பதிகாரியான தினேஸ் குணதிலக அவர்களுடன் குற்றத்தடுப்பு பிரிவு பொலிஸ் அதிகாரிகளான எஸ்.ஐ.டிலான் சேமசிங்க, வியஜரட்ன மற்றும் தேவதாஸ் ஆகியோரால் குறித்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+நேற்று செவ்வாய்க்கிழமை (13)  அதிகாலை 4.30 மணியளவில் கிளாலி பகுதியிலிருந்து கொடிகாமம் நோக்கி சட்டவிரோத மணலுடன் சென்று கொண்டிருந்த  டிப்பர் வாகனங்களே பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+கைது செய்யப்பட்ட இரு சந்தேகநபர்களும் நேற்றையதினம் சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்ட நிலையில் 14 நாட்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1f51c80a.json)
+
+---
+
 ### Confrontation between two groups
 
 *2024-08-14 09:33:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இரு-குழுக்களுக்கிடையே-மோதல்/71-342136) · `ta`
@@ -164,6 +232,46 @@ Sri Lanka's General Secretary Sakara Kariyawasam has reached control of the upco
 
 ---
 
+### Death of two people who breathed toxic gas in Malabee
+
+*2024-08-14 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191040) · `ta`
+
+In Malabe, two individuals aged 45 and 63 died after inhaling toxic fumes while mixing chemicals in their home. The incident occurred in Kahantota and is under investigation by local authorities.
+
+🟩
+
+Two people have died in breathing chemical toxic gas in a residential area in the Kahantota area of ​​Malabe.
+
+The two were killed yesterday evening (12) after breathing the toxic gas that was exposed when the two tried to mix some chemicals.
+
+Two of them, aged 45 and 63 from Moneragala and Kahantota, have died, police said.
+
+The bodies have been placed in the funeral room of the Colombo National Hospital and Malabe police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/4c952c39.json)
+
+[Extended Data](ext_articles/4c952c39.ext.json)
+
+---
+
+### திருகோணமலை, குச்சவெளி, இலந்தைக்குளம் பகுதியில் விகாரை அமைக்க காணி துப்புரவு ; அரச அதிகாரிகள் நேரடி விஜயம்
+
+*2024-08-14 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191037) · `ta`
+
+திருகோணமலை, குச்சவெளி இலந்தைக்குளம் பகுதியில் விகாரைக்காக அத்துமீறி துப்பரவு செய்யப்பட்ட மக்களுடைய காணிகளை திருகோணமலை மாவட்ட அரசாங்க அதிபர், குச்சவெளி பிரதேச செயலாளர் உள்ளிட்ட அரச அதிகாரிகள் நேற்று செவ்வாய்க்கிழமை  (13) அவ்விடத்திற்கு நேரடியாக விஜயம் மேற்கொண்டு பார்வையிட்டனர்.
+
+இதன்போது, மக்களுடைய காணிக்குரிய ஆவணங்கள் ஆராயப்பட்டதுடன், குறித்த மக்களுடைய காணிகளை விடுவிப்பது தொடர்பாக சம்பந்தப்பட்ட அதிகாரிகளுடனும், சம்பந்தப்பட்ட விகாராதிபதியுடனும் கலந்துரையாடி விரைவில் நடவடிக்கை எடுப்பதாகவும் தெரிவித்தனர்.
+
+குச்சவெளி - இலந்தைக்குளம் 5ஆம் கட்டைப்பகுதியில் கடந்த மாதம் 25ஆம் திகதி இரவில் இருந்து பௌத்த பிக்கு ஒருவரின் தலைமையில் புத்த விகாரை அமைப்பதற்காக மக்களுடைய காணி துப்பரவு செய்யப்பட்டு வந்த நிலையில் குச்சவெளி பிரதேச செயலாளரின் கவனத்திற்கு குறித்த விடயம் கொண்டு வரப்பட்டதைத் தொடர்ந்து குறித்த நடவடிக்கை தற்காலிகமாக இடை நிறுத்தப்பட்டிருந்தது. அதனைத் தொடர்ந்து குறித்த விடயம் பாராளுமன்ற உறுப்பினர்கள் உட்பட உயர்மட்ட அரச அதிகாரிகளுடைய கவனத்திற்கும் கொண்டு செல்லப்பட்டிருந்தது.
+
+...
+
+[Data](articles/b22a1dc2.json)
+
+---
+
 ### Related on Postal Voting
 
 *2024-08-14 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199913) · `si`
@@ -220,30 +328,6 @@ The 2024 General Anuradhapura has been placed bail to the presidency of the Civi
 
 ---
 
-### Death of two people who breathed toxic gas in Malabee
-
-*2024-08-14 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191040) · `ta`
-
-In Malabe, two individuals aged 45 and 63 died after inhaling toxic fumes while mixing chemicals in their home. The incident occurred in Kahantota and is under investigation by local authorities.
-
-🟩
-
-Two people have died in breathing chemical toxic gas in a residential area in the Kahantota area of ​​Malabe.
-
-The two were killed yesterday evening (12) after breathing the toxic gas that was exposed when the two tried to mix some chemicals.
-
-Two of them, aged 45 and 63 from Moneragala and Kahantota, have died, police said.
-
-The bodies have been placed in the funeral room of the Colombo National Hospital and Malabe police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/4c952c39.json)
-
-[Extended Data](ext_articles/4c952c39.ext.json)
-
----
-
 ### 2024 Presidential Election: Placing of deposits to conclude today
 
 *2024-08-14 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101218/2024-presidential-election-placing-of-deposits-to-conclude-today) · `en`
@@ -265,26 +349,6 @@ The Acting Police Media Spokesperson DIG Ruwan Gunasekara announced that a speci
 [Data](articles/094ff583.json)
 
 [Extended Data](ext_articles/094ff583.ext.json)
-
----
-
-### The date for postal voting will be announced today
-
-*2024-08-14 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191038) · `ta`
-
-The Elections Commission will announce the date for postal voting on Wednesday (14), after applications closed on the 9th.
-
-🟩
-
-The Elections Commission said that the date of the upcoming presidential election will be announced on Wednesday (14).
-
-Applications for postal voting for the presidential election have been completed by the 9th.
-
-◼️
-
-[Data](articles/24653212.json)
-
-[Extended Data](ext_articles/24653212.ext.json)
 
 ---
 
@@ -1462,6 +1526,22 @@ The Cabinet of Ministers approved the proposal to enter into an MOU between loca
 
 ---
 
+### ජූලි මාසයේ විදේශ ප්‍රේෂණ ලැබීම් ඇ.ඩො.මි. 566.8 ක්
+
+*2024-08-13 19:10:12* · [`adalk`](https://www.ada.lk/breaking_news/ජූලි-මාසයේ-විදේශ-ප්‍රේෂණ-ලැබීම්-ඇ-ඩො-මි--566-8-ක්/11-411360) · `si`
+
+2023 වර්ෂයේ ජූලි මාසයට සාපේක්ෂව, 2024 ජූලි මාසයේ ශ්‍රි ලාංකිකයින් විදේශ රැකියා සඳහා යොමුවීම 15%න් ඉහළ ගොස් තිබේ. පසුගිය වසරේ ජූලි මාසයේ ශ්‍රමිකයින් 25,025 දෙනෙකු රැකියා සඳහා විදේශ ගතවී ගතවී ඇති අතර, එය 2024 වර්ෂයේ 28,758 ක් දක්වා ඉහළ ගොස් ඇති බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ දත්ත වාර්තා පෙන්වා දෙයි.
+
+2024 අගෝස්තු 13 වන දින දක්වා ගතවූ මාස 7ක කාලය තුළ ශ්‍රි ලාංකිකයින් 187,796 දෙනෙකු රැකියා සඳහා විදේශ ගතවී ඇති අතර, ඒ අතරට ස්වයං මාර්ගයෙන් විදේශ ගතවූවන් 110,939 දෙනෙකු සහ රැකියා නියෝජිතායතන මාර්ගයෙන් විදේශ ගතවූවන් 76,857 දෙනෙකු අයත් වේ.
+
+මෙම කාලය තුළ වැඩි පිරිසක් විදේශ ගතවී ඇත්තේ කුවේට් රාජ්‍යයට වන අතර, එම ප්‍රමාණය 42,481 කි. දෙවනුව වැඩිම පිරිසක් රැකියා සඳහා යොමුවී ඇත්තේ සෞදි අරාබියට වන අතර, එම ප්‍රමාණය 31,265 කි.
+
+...
+
+[Data](articles/80f96cda.json)
+
+---
+
 ### Minor sexual harassment;Four persons including chancellor
 
 *2024-08-13 19:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பாலியல்-வன்கொடுமை-அதிபர்-உட்பட-நால்வர்-கைது/175-342110) · `ta`
@@ -1509,6 +1589,22 @@ The number of nominated candidates is 16, and the number of nominated candidates
 [Data](articles/204e4160.json)
 
 [Extended Data](ext_articles/204e4160.ext.json)
+
+---
+
+### කමිඳු හා වැන්ඩසේගේ අද එංගලන්තයට
+
+*2024-08-13 18:56:25* · [`adalk`](https://www.ada.lk/breaking_news/කමිඳු-හා-වැන්ඩසේගේ-අද-එංගලන්තයට/11-411359) · `si`
+
+ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් කණ්ඩායමේ සාමාජිකයන් වූ කමිඳු මෙන්ඩිස් හා ජෙෆ්රි වැන්ඩසේ අද (14දා) එංගලන්තය බලා පිටත් වීමට නියමිත බව, ශ්‍රී ලංකා ක්‍රිකට්හි ඉහළ නිලධාරියෙකු පැවසීය. එලඹෙන එංගලන්ත ටෙස්ට් තරග සංචාරය සඳහා සහභාගි වීමට නියමිතව සිටින මෙම ක්‍රීඩකයන් දෙදෙනාට වීසා ප්‍රමාදයක් හේතුවෙන් පසුගියදා ශ්‍රී ලංකා කණ්ඩායම සමගින් එංගලන්තය බලා පිටත්වීමට නොහැකි විය. තරගාවලිය සඳහා ශ්‍රී ලංකා කණ්ඩායම පසුගියදා (11දා) එංගලන්තය බලා පිටත් විය.
+
+එහිදී දකුණත් දඟපන්දු යවන ජෙෆ්රි වැන්ඩසේ ප්‍රමාද වී සංචිතයට කැඳවීම නිසා ඔහුගේ වීසා අයදුම්පත යොමු කිරීම පමා කිරීම සිදුවුවත්, කමිඳුගේ අයදුම්පත ප්‍රධාන සංචිතයේ අනෙක් අයදුම්පත් සමගින් භාර දීමට කටයුතු කර තිබියදීත් ඔහුගේ වීසා ප්‍රමාද වීම ගැටලුසහගතය. කමිඳු සංචිතයේ ප්‍රධාන මැදපෙළ පිතිකරුවෙකු මෙන්ම, අතිරේක දඟපන්දුයවන්නෙකු ලෙසින්ද ක්‍රීඩා කිරීමට නියමිතය
+
+කෙසේ වෙතත් වැන්ඩසේගේ වීසා මේ වන විට නිකුත්වී ඇති බවත්, කමිඳුගේ වීසා අද (14දා) උදෑසන ලැබීමට නියමිත බවත්, අදාළ ඉහළ නිළධාරියා තහවුරු කළේය. ශ්‍රී ලංකා කණ්ඩායම අද (14දා) පුහුණු තරගයකටද සහභාගී වීමට නියමිතය.
+
+...
+
+[Data](articles/80f3877d.json)
 
 ---
 
@@ -1987,139 +2083,5 @@ About 34% of tourist arrivals will visit Pinnawala Elephant Peet, Minister said.
 [Data](articles/1f2373cf.json)
 
 [Extended Data](ext_articles/1f2373cf.ext.json)
-
----
-
-### One hundred election campaign meetings of the main four candidates ..!Beginning from the 16th
-
-*2024-08-13 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/190996) · `ta`
-
-In a series of 100 election campaign meetings starting from September 15, the main four candidates—President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa—will tour all districts. Wickremesinghe focuses on his IMF-backed economic recovery plan, Premadasa aims to build the economy and fight corruption, Dissanayake emphasizes anti-corruption measures for stability, and Rajapaksa targets youth issues like employment and education.
-
-🟩
-
-Current President Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake and Namal Rajapaksa will be attending 100 campaign meetings on the 15th of September.
-
-United People's Power Leader Sajith Premadasa on the 16th of this month, President Ranil Wickremesinghe, who is contesting as an independent candidate, from Anuradhapura on the 17th of Anuradhapura, the leader of the National People's Power Anuragumara Dissanayake on the 17th of January.Rajapaksa will launch his first campaign meeting from Anuradhapura on the 21st.
-
-The four candidates will attend all the 100 campaign meetings and rallies in all districts.
-
-...
-
-[Data](articles/18e34de7.json)
-
-[Extended Data](ext_articles/18e34de7.ext.json)
-
----
-
-### SLPP MPs supporting Ranil to form new alliance; Minister proposed as GS
-
-*2024-08-13 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101207/slpp-mps-supporting-ranil-to-form-new-alliance-minister-proposed-as-gs) · `en`
-
-State Minister Pramitha Bandara Tennakoon says that Minister Ramesh Pathirana has been proposed as the General Secretary of the new alliance, which is being formed by the majority of MPs from the Sri Lanka Podujana Peramuna (SLPP).
-
-Meanwhile, the new alliance is scheduled to be unveiled tomorrow (14), Minister Susil Premajayantha told media at a press conference held today.
-
-◼️
-
-[Data](articles/b2b00b79.json)
-
-[Extended Data](ext_articles/b2b00b79.ext.json)
-
----
-
-### Dilith will compete in the star symbol - Udaya Kammanpila
-
-*2024-08-13 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191008) · `ta`
-
-Dilith Jayaweera, representing the Universal Power, is set to run for president, emphasizing national identity. Udaya Kammanpila supports this move, highlighting the need to safeguard the nation's sovereignty. The campaign begins next week, with a focus on electing leaders who prioritize national interests over party politics.
-
-🟩
-
-Dilith Jayaweera's star of the universal power will contest the election. We have fielded candidate to highlight nationality. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the country should protect the independence.
-
-Dilith Jayaweera, the presidential candidate of the universal power, reached the Elections Commission on Tuesday (13). Former Governor of the Eastern Province Anuradha Yahambat, MPs Weerasumana Weerasinghe and Kevindu Kumaratunga were present.
-
-We have fielded the presidential candidate to highlight nationality. We elected Gotabhaya Rajapakse as President with the sovereignty of 69 million people. But he does not act properly. We have fielded businessman Dilith Jayaweera as the presidential candidate so that the people should not weaken.
-
-...
-
-[Data](articles/1a115ff1.json)
-
-[Extended Data](ext_articles/1a115ff1.ext.json)
-
----
-
-### A clash between Afghan and Pakistan forces
-
-*2024-08-13 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199893) · `si`
-
-In a border clash near Torkham, three Afghan civilians, including a woman and two children, were killed by the Pakistani Army, while three Pakistani soldiers were injured. The incident was reported by international media, with both sides blaming each other for the violence.
-
-🟩
-
-Three Afghan civilians have died in a shooting between Pakistan and Afghanism.
-
-International media reports that Taliban spokesman said.
-
-The conflict had occurred in Torkham, located in the border of the two countries.
-
-The Taliban spokesman has said that a woman and two children were killed in Pakistani Army attack.
-
-Meanwhile, a Pakistani Army spokesman said that three of his soldiers were injured.
-
-◼️
-
-[Data](articles/f3306e02.json)
-
-[Extended Data](ext_articles/f3306e02.ext.json)
-
----
-
-### 47,000 deaths in Europe last year
-
-*2024-08-13 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/190994) · `ta`
-
-In 2023, Europe faced severe heatwaves causing over 47,000 deaths across 35 countries, with Greece, Bulgaria, Italy, and Spain hardest hit. This follows a record 60,000 fatalities in 2022. However, efforts against extreme temperatures over two decades have reduced this year's toll by preventing an estimated 80% increase.
-
-🟩
-
-In 2023, countries in the south were severely affected by heavy heat in Europe and more than 47,000 people died.
-
-This was reported on Monday (12), Barcelona Institute for Global Health (IISculopal) in Spain.
-
-Europeans live on the most fastest warmth and continent in the world as the temperature continues to rise due to climate change and face large -scale impact on physical health.
-
-Researchers estimate that 47,690 people have been killed due to high temperatures in 35 European countries.
-
-Of these, Greece, Bulgaria, Italy and Spain have reported the highest number of casualties.
-
-More than 60,000 people have died due to severe heat in 2022, and in 2023, there are fewer people.
-
-This is due to the action taken to fight extreme temperatures over the past 20 years. Otherwise, the number of casualties would have increased by 80 percent.
-
-◼️
-
-[Data](articles/3bfdc056.json)
-
-[Extended Data](ext_articles/3bfdc056.ext.json)
-
----
-
-### Northern and Eastern delegation among political representatives in Sajith remained
-
-*2024-08-13 16:16:09* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-හදීසියේම-උතුරු---නැගෙනහිර-දේශපාලන-නියෝජිතයන්-අතර-සාකච්ඡාවක/11-411349) · `si`
-
-Sajith Premadasa led a delegation from Northern and Eastern regions, representing the opposition.
-
-🟩
-
-Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, was headed by Opposition Leader Sajith Premadasa under the patronage of the opposition leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/eccb676e.json)
-
-[Extended Data](ext_articles/eccb676e.ext.json)
 
 ---

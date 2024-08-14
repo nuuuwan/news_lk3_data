@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 11:07:34**
+As of **2024-08-14 11:21:26**
 
 ## Newspaper Stats
 
-*Scraped **40,647** Articles*
+*Scraped **40,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,462
 dailyftlk | 2,625
 adalk | 3,738
 dailymirrorlk | 4,733
-adaderanalk | 4,737
+adaderanalk | 4,740
 tamilmirrorlk | 5,178
 virakesarilk | 6,432
 adaderanasinhalalk | 6,911
@@ -26,11 +26,57 @@ adaderanasinhalalk | 6,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,646 (100.0%) of 40,647 articles have been extended.
+40,647 (100.0%) of 40,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### Namal Rajapaksa signs nominations for Presidential Election
+
+*2024-08-14 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101226/namal-rajapaksa-signs-nominations-for-presidential-election) · `en`
+
+The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal Rajapaksa has signed his nomination papers to contest the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/ba7fc863.json)
+
+---
+
+### Wijeyadasa signs nomination papers for Presidential Election
+
+*2024-08-14 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101225/wijeyadasa-signs-nomination-papers-for-presidential-election) · `en`
+
+Former Justice Minister Dr. Wijeyadasa Rajapakshe has signed his nomination papers to contest the upcoming Presidential Election, which is scheduled to be held on September 21.
+
+◼️
+
+[Data](articles/1f1abacb.json)
+
+---
+
+### TM Dilshan joins SJB to back Sajith in presidential election
+
+*2024-08-14 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101224/tm-dilshan-joins-sjb-to-back-sajith-in-presidential-election) · `en`
+
+Former Sri Lankan cricketer Tillakaratne Dilshan, has decided to support the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+
+Dilshan has joined the Samagi Jana Balawegaya with the aim of supporting Sajith Premadasa’s journey of building the country, the party said in a statement.
+
+Tillakaratne Dilshan, commonly known as TM Dilshan, had represented the Sri Lankan national cricket team for almost 17 years and also served as the team’s captain for a period.
+
+Tillakaratne Dilshan served as the captain of the Sri Lanka national cricket team, across formats between May 2010 and January 2012.
+
+Dilshan made his international debut in 1999 and was part of the Sri Lanka team that won the World Twenty20 in 2014. He appeared in 87 Tests, 329 ODIs and 78 T20 games for Sri Lanka.
+
+Dilshan announced his retirement from Test cricket on 9 October 2013. He retired from ODI cricket on 28 August 2016 and from T20I cricket on 9 September 2016.
+
+...
+
+[Data](articles/98d4d05f.json)
+
+---
 
 ### I. M. Tilshan combined with C.
 
@@ -50,31 +96,39 @@ Tilakaratne Dilshan, a former Sri Lankan cricket team, joined the United People'
 
 ---
 
-### වෛද්‍යවරියක් දුෂණය කර මරා දැමීමේ සිදුවීමක්  හේතුවෙන් ඉන්දියාව රත්වෙයි
+### India leaves due to an incident of rape and killing
 
 *2024-08-14 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199917) · `si`
 
-ඉන්දීය වෛද්‍යවරියක් දූෂණය කර මරා දැමීමේ සිදුවීමක් මුල්කර ගෙන එරට වෛද්‍යවරුන් ඇතුළු වෛද්‍ය ක්ෂේත්‍රයට සම්බන්ධ වෘත්තිකයින් විරෝධතා ආරම්භ කර තිබේ.
+In response to a tragic incident involving the rape and murder of a 31-year-old Indian doctor, healthcare professionals across India have initiated protests demanding justice. They've called upon the Indian Central Investigation Bureau to probe the case. The victim's body was discovered at RGKar Medical College, leading to the arrest of a volunteer and the resignation of the college's principal.
 
-එමෙන්ම අපරාධය පිළිබදව විමර්ශනය කිරීම ඉන්දීය මධ්‍යම විමර්ශනය කාර්යාංශයට භාරගෙන ලෙසට ඔවුන් ඉල්ලීම් කරයි.
+🟩
 
-31 හැවිරිදි ඉන්දීය වෛද්‍යවරියක් දූෂණය කර මරා දැමීමේ පුවතක් වාර්තා වුණේ මීට දින කිහිපයකට පෙරාතුවය.
+Professionals involved in the medicine, including doctors, have commenced protest with a rape and killing an Indian doctor.
 
-එම සිදුවීම මුල්කරගෙන මේ වනවිට ඉන්දියාවේ නොසන්සුන් තත්ත්වයක් උද්ගතව තිබේ.
+They also request the Bureau to the Bureau of India to investigate the crime.
 
-ඒ ඝාතනය කෙරුණු වෛද්‍යවරියට යුක්තිය ඉටුකරන ලෙසට ඉල්ලීම් කරමින් ඇරඹි විරෝධතා හේතුවෙනි.
+A 31-year-old Indian doctor was reportedly reported a few days ago.
 
-ඉන්දීය වෛද්‍යවරුන්, හෙදියන් ඇතුළු වෛද්‍ය ක්ෂේත්‍රයට සම්බන්ධ සිය ගණනක් මෙම විරෝධතාවලට එක්ව සිටී.
+India has been launched and in India.
 
-විරෝධතාකරුවන් ඉල්ලීම් කරන්නේ, අපරාධය සම්බන්ධයෙන් විමර්ශන කිරීමට ඉන්දීය මධ්‍යම විමර්ශන කාර්යංශයට භාරදිය යුතු බවටය.
+It is due to protests that began to seek justice to bring justice to the murder.
 
-ඝාතනය කෙරුණු වෛද්‍යවරියාගේ මළ සිරුරු සොයාගෙන තිබුණේ පසුගිය 9 වැනිදා ආර්.ජී.කාර් වෛද්‍ය විද්‍යාලයේ සම්මන්ත්‍රණ ශාලාවක් තුළ තිබියදීය.
+Hundreds of Indian doctors, nurses and nurses are joined the protests.
 
-වෛද්‍ය විද්‍යාලයේ සේවය කළ ස්වේච්ඡා සේවකයෙකු සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+Protesters offer requests to submit to the Indian Central Investigation Bureau to investigate the crime.
 
-...
+The bodies of the murder of the murder were found in a conference room at RGKar Medical College on the 9th.
+
+Indian media reports that a volunteer working at the medical school has been arrested in connection with the incident.
+
+The principal of the Medical College has also resigned from office.
+
+◼️
 
 [Data](articles/08ae52bb.json)
+
+[Extended Data](ext_articles/08ae52bb.ext.json)
 
 ---
 
@@ -2079,59 +2133,5 @@ Citing whistleblower documents, Hindenburg said on Saturday that Madhabi Puri Bu
 [Data](articles/b58d1951.json)
 
 [Extended Data](ext_articles/b58d1951.ext.json)
-
----
-
-### Sri Lanka sells Rs60bn in 2029 and 2032 bonds
-
-*2024-08-13 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs60bn-in-2029-and-2032-bonds-176657/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 60 billion rupees in 2029 and 2032 bonds, data from the state debt office showed.
-
-All offered 45 billion rupees of 15 June 2029 bonds were sold at an average yield of 12.98 percent.
-
-All offered 15 billion rupees of 01 October 2032 bonds were sold at an average yield of 13.25 percent. (Colombo/Aug13/2024)
-
-◼️
-
-[Data](articles/6251a354.json)
-
-[Extended Data](ext_articles/6251a354.ext.json)
-
----
-
-### 3000 tons of ginger imports
-
-*2024-08-13 18:03:26* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-ටොන්-3000ක්-ආනයනය-කරයි/11-411356) · `si`
-
-The government has approved importing 3000 metric tons of raw ginger to stabilize the local market.
-
-🟩
-
-The Cabinet approval has been approved to import 3000 metric tons of Raw ginger to regulate local ginger.
-
-◼️
-
-[Data](articles/1bfe5566.json)
-
-[Extended Data](ext_articles/1bfe5566.ext.json)
-
----
-
-### Sri Lanka bond yields up, rupee closes stronger at 299.10/25
-
-*2024-08-13 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-up-rupee-closes-stronger-at-299-10-25-176634/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.10/25 to the US dollar Tuesday, from 299.50/80 Monday dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 11.00/30 percent, up from 11.05/10 percent.
-
-Sri Lanka’s bond yields have been moving up, over policy uncertainty linked to elections, with reduced demand for longer tenors, dealers said.
-
-◼️
-
-[Data](articles/b529e33e.json)
-
-[Extended Data](ext_articles/b529e33e.ext.json)
 
 ---

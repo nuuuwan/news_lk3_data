@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 13:56:59**
+As of **2024-08-14 14:09:28**
 
 ## Newspaper Stats
 
-*Scraped **40,684** Articles*
+*Scraped **40,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,742
+adalk | 3,743
 dailymirrorlk | 4,733
 adaderanalk | 4,744
-tamilmirrorlk | 5,186
+tamilmirrorlk | 5,188
 virakesarilk | 6,439
-adaderanasinhalalk | 6,918
+adaderanasinhalalk | 6,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,684 (100.0%) of 40,684 articles have been extended.
+40,684 (100.0%) of 40,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### දැරියකට මරු කැඳවූ අධිවේගයේ අනතුර
+
+*2024-08-14 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199927) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් අවුරුදු 02ක කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අද (14) උදෑසන එම අනතුර සිදුව තිබුණේ, දක්ෂිණ අධිවේගී මාර්ගයේ ඇල්පිටිය පොලිස් වසමේදීය.
+
+මත්තල දෙස සිට කොට්ටාව දෙසට ගමන් ගත් වෑන් රථයක ටයරයේ හුළං බැසීම හේතුවෙන් අධිවේගී මාර්ගයේ මැද ආරක්ෂිත වැටේ වැදී පෙරළීමෙන් එම අනතුර සිදුව තිබුණි.
+
+අනතුරින් වෑන් රථයේ ගමන්ගත් කුඩා දරුවන් තිදෙනෙකු තුවාල ලබා ඇල්පිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු එක් කුඩා දැරියක් මියගොස් තිබේ.
+
+එලෙස මියගොස් තිබුණේ කතරගම වැඩිහිටිකන්ද ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02යි මාස 02ක දැරියකි.
+
+අනතුර සිදුවන අවස්ථාවේ වෑන් රථයේ කුඩා දරුවන් ඇතුළු වැඩිහිටියන් 12 දෙනෙකු පමණ ගමන් කර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/3cd663ce.json)
+
+---
+
+### சீகிரியவில் குளவி கொட்டு: 70 பேர் பாதிப்பு
+
+*2024-08-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-குளவி-கொட்டு-70-பேர்-பாதிப்பு/175-342159) · `ta`
+
+சீகிரியவில் குளவிகள் கலைந்து கொட்டியதில் சுற்றுலா பயணிகள் 70 பேர் பாதிக்கப்பட்டு, வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a728a13b.json)
+
+---
+
+### விஞ்ஞானம் கற்ற 16 மாணவர்கள் பாதிப்பு
+
+*2024-08-14 13:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஞ்ஞானம்-கற்ற-16-மாணவர்கள்-பாதிப்பு/175-342158) · `ta`
+
+அனுராதபுரவில் உள்ள பாடசாலை ஒன்றின் விஞ்ஞான ஆய்வுக் கூட்டத்தில் நடந்த விபத்தில் 16 மாணவர்கள் பாதிக்கப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/2f9367f3.json)
+
+---
+
+### පාසල් නිවාඩුව ගැන නිවේදනයක්
+
+*2024-08-14 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199926) · `si`
+
+2024 වර්ෂයේ රජයේ සහ හා රජයේ අනුමත පෞද්ගලික සිංහල හා දෙමළ පාසල්වල දෙවන පාසල් වාරය අවසන් කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව එම පාසල්වල දෙවන පාසල් වාරය අගෝස්තු 16 වන සිකුරාදා දින අවසන් වේ.
+
+◼️
+
+[Data](articles/9db753d3.json)
+
+---
 
 ### 40 candidates place deposits for 2024 Presidential Election as deadline ends
 
@@ -129,6 +189,18 @@ The new alliance is to contest for the post elections under the chair.
 [Data](articles/82e6914f.json)
 
 [Extended Data](ext_articles/82e6914f.ext.json)
+
+---
+
+### ඇප තැන්පත් කරන්න දුන් කාලය අවසන්
+
+*2024-08-14 12:57:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කරන්න-දුන්-කාලය-අවසන්/11-411368) · `si`
+
+2024 ජනාධිපිතවරණය සඳහා ඇප මුදල් භාර දීම සඳහා ලබා දුන් කාලය අවසන් වී තිබේ.
+
+◼️
+
+[Data](articles/5616d643.json)
 
 ---
 
@@ -2157,97 +2229,5 @@ Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was uncerem
 [Data](articles/23783835.json)
 
 [Extended Data](ext_articles/23783835.ext.json)
-
----
-
-### Abusing the goddess of law – a disaster pending?
-
-*2024-08-14 00:35:24* · [`dailyftlk`](https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480) · `en`
-
-A nation must treat the judiciary with utmost respect and as an institution second to none
-
-Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was unceremoniously expelled by the Aragalaya activists in July 2022 was fallen abruptly into the lap of Ranil Wickremesinghe (RW) the public opinion was that the biggest harm to democracy in this country was done by the late President and leader of the UNP, J.R. Jayewardene.
-
-...
-
-[Data](articles/47d746e4.json)
-
-[Extended Data](ext_articles/47d746e4.ext.json)
-
----
-
-### Has Sri Lanka found a clear pathway for economic revival?
-
-*2024-08-14 00:20:27* · [`dailyftlk`](https://www.ft.lk/columns/Has-Sri-Lanka-found-a-clear-pathway-for-economic-revival/4-765479) · `en`
-
-Sri Lanka Government’s resorting to increased taxes created insurmountable hardships to its people
-
-Recently, I have been fortunate to attend a Q & A session of one of the Sydney University Business Schools where I was an alumnus. The theme was the economic revival in the event of future Global Financial Crisis (GFC) and comparison to year 2008 GFC. The panel consisted of eminent professionals of state public sector and academics. This article was aimed to discuss current Sri Lanka economy and the revival process that Government had taken in the context of information gathered at the aforementioned Q & A.
-
-...
-
-[Data](articles/255afc34.json)
-
-[Extended Data](ext_articles/255afc34.ext.json)
-
----
-
-### ESG Summit 2024 highlights pathways to sustainable business practices
-
-*2024-08-14 00:08:58* · [`dailyftlk`](https://www.ft.lk/opinion/ESG-Summit-2024-highlights-pathways-to-sustainable-business-practices/14-765477) · `en`
-
-Held under the theme ‘Sustainable Pathways to a Brighter Future’, the recent ESG Summit, inaugurated by President Ranil Wickremesinghe, marked a significant step forward for Sri Lanka’s commitment to sustainability. The summit was organised by the Daily FT in collaboration with the Colombo University MBA Alumni Association. The full-day event featured 15 experts sharing transformative insights and innovative solutions in the realms of Environmental, Social, and Governance (ESG) practices.
-
-In his welcome address, University of Colombo MBA Alumni Association President Suraj Radampola expressed a profound commitment to advancing ESG principles within Sri Lanka’s business community. He emphasised the Association’s role in raising awareness about the importance of optimal resource use and protection for future generations.
-
-...
-
-[Data](articles/e62aa0a8.json)
-
-[Extended Data](ext_articles/e62aa0a8.ext.json)
-
----
-
-### 2024-08-13 (Tuesday)
-
-### Kalutara Mother - Tension at Chey Hospital
-
-*2024-08-13 23:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தாய்-சேய்-வைத்தியசாலையில்-பதற்றம்/175-342128) · `ta`
-
-A sudden fire alarm evacuated staff and patients from the Chey Hospital in Kalutara. Firefighters quickly responded, monitoring the area for over an hour, including the hospital's power systems. The incident highlighted concerns about the fire warning system's operation.
-
-🟩
-
-Hospital staff and patients have left the hospitals due to fire due to a sudden fire signal at the mother -Chey hospital in Kalutara.
-
-Following the fire alarm signal, the firefighters of the Kalutara Municipal Council were prepared and the security forces and hospital staff were working to evacuate patients from the hospital building.
-
-Firefighters immediately arrived and monitored the hospital for about an hour, including the power system of the hospital.
-
-The fire warning switch fitted on the second floor was directed by some, and then the building's fire warning was operated. Remble
-
-◼️
-
-[Data](articles/7f7d2ad9.json)
-
-[Extended Data](ext_articles/7f7d2ad9.ext.json)
-
----
-
-### 27 parties join ‘Samagi Bala Sandhanaya’ to support Sajith
-
-*2024-08-13 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101215/27-parties-join-samagi-bala-sandhanaya-to-support-sajith-) · `en`
-
-A total of 27 political parties have entered into a Memorandums of Understanding (MOUs) with the ‘Samagi Bala Sandhanaya’ today (13) in order to support Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
-
-The MOUs were signed by 27 parties including the United People’s Party, the Democratic People’s Congress, and the National Front which are representing the Human Peoples’ Alliance.
-
-Meanwhile, the United Left Front led by President’s Counsel Jayampathy Wickramaratne has also decided to support for Sajith Premadasa in the upcoming election.
-
-◼️
-
-[Data](articles/cf7c5eaf.json)
-
-[Extended Data](ext_articles/cf7c5eaf.ext.json)
 
 ---

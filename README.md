@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 06:25:15**
+As of **2024-08-14 07:02:55**
 
 ## Newspaper Stats
 
-*Scraped **40,600** Articles*
+*Scraped **40,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,624
 adalk | 3,732
 adaderanalk | 4,729
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,164
+tamilmirrorlk | 5,165
 virakesarilk | 6,425
 adaderanasinhalalk | 6,900
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,600 (100.0%) of 40,600 articles have been extended.
+40,600 (100.0%) of 40,601 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -237,6 +237,20 @@ The proposal to implement this selection criteria framework presented by the Wat
 [Data](articles/6c7b0d40.json)
 
 [Extended Data](ext_articles/6c7b0d40.ext.json)
+
+---
+
+### மரத்தில் மோதி ஜீப் விபத்து: ஒருவர் காயம்
+
+*2024-08-14 01:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-ஜீப்-விபத்து-ஒருவர்-காயம்/175-342129) · `ta`
+
+தம்புள்ளை - பக்கமூன வீதியில் 14 ஆவது மைல்கல் அருகில் இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளார். இந்த விபத்து நேற்று இடம்பெற்றுள்ளது.
+
+ஜீப் வாகனம் ஒன்று வீதியை விட்டு விலகி மரமொன்றுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/033b8204.json)
 
 ---
 
@@ -2129,27 +2143,5 @@ The General Secretary and Chairman of the Ceylon Workers Congress, who is the Mi
 [Data](articles/5dd3216e.json)
 
 [Extended Data](ext_articles/5dd3216e.ext.json)
-
----
-
-### Vehicle accident
-
-*2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190987) · `ta`
-
-A vehicle accident occurred on Thettathivu's main road, involving two motorcycles heading towards Kaluwanchikudi. Two individuals were injured, and the Kaluwanchikudi police are investigating.
-
-🟩
-
-Two persons were injured in a vehicle accident on the main road of Thettathivu, which belongs to the Kaluwanchikudi police division in the Batticaloa district on Monday evening.
-
-Two motorcycles traveling towards Kaluwanchikudi crashed into one another, police said.
-
-In addition, the Kaluwanchikudi police are conducting an investigation into the accident.
-
-◼️
-
-[Data](articles/8539f425.json)
-
-[Extended Data](ext_articles/8539f425.ext.json)
 
 ---

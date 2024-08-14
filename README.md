@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 22:10:57**
+As of **2024-08-14 22:22:18**
 
 ## Newspaper Stats
 
-*Scraped **40,759** Articles*
+*Scraped **40,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,758
 tamilmirrorlk | 5,198
 virakesarilk | 6,459
-adaderanasinhalalk | 6,937
+adaderanasinhalalk | 6,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,758 (100.0%) of 40,759 articles have been extended.
+40,759 (100.0%) of 40,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### MJP ආසන සංවිධායකවරුන්ට පත්වීම් ලිපි ප්‍රදානය කෙරේ
+
+*2024-08-14 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199948) · `si`
+
+දේශපාලනඥයින් බල කඳවුරු මාරු කළ ද ජනතාව එලෙස එකතු වන බවක් පෙනී නොයන බව මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+එම පක්ෂයේ ආසන සංවිධායකවරුන්ට පත්වීම් ලිපි ප්‍රදානය කිරීමේ අවස්ථාවට අද (14) එක්වෙමින් ඔහු මෙම අදහස් පළ කළේය.
+
+මව්බිම ජනතා පක්ෂයේ හාලිඇල, හපුතලේ, වියලුව, නෝර්වුඩ්, ආගරපතන සහ වැලිමඩ යන බලප්‍රදේශවල ආසන සංවිධායකවරුන්ට පත්වීම් ලිපි ප්‍රදානය කිරීම පක්ෂ ප්‍රධාන කාර්යාලයේදී මෙලෙස අද සිදුකෙරුණේ පක්ෂ නායක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙනි.
+
+එහිදී අදහස් දැක්වූ  මව්බිම ජනතා පක්ෂයේ නායක ව්‍යවාසයක දිලිත් ජයවීර මහතා,
+
+"දැන් නායකයින් අර පක්ෂයට යනවා... මේ පක්ෂයට යනවා. නමුත් ප්‍රාදේශීය දේශපාලකයින් කිහිපදෙනෙකු හැරුණුවිට මහ පොළොවේ මිනිස්සු මුහුවන බවක් පෙන්නේ නැහැ."
+
+මේ අතර, මව්බිම ජනතා පක්ෂයේ කොළඹ දිස්ත්‍රික් ලිය බල කාන්තා බලමුළුව කොළඹ නව නගර ශාලාවේදී අද පැවැත්වුණි.
+
+◼️
+
+[Data](articles/9455a551.json)
+
+---
 
 ### Sajith's support for Rishad Bathiudeen
 
@@ -232,19 +254,25 @@ Speaking, Bangladesh headed was thanked the President's wishes and as soon as th
 
 ---
 
-### ශ්‍රේෂ්ඨාධිකරණ තීරණයෙන් බන්දු ලාල්ට තනතුරක්
+### Bandu Lal Lal Lal was on the Supreme Court decision
 
 *2024-08-14 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-තීරණයෙන්-බන්දු-ලාල්ට-තනතුරක්/11-411376) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී මනූෂ නානායක්කාර මහතාගෙන් හිස් වූ පාර්ලිමේන්තු අසුන සඳහා බන්දුල ලාල් බණ්ඩාරිගොඩ මහතා තෝරා පත්කරන ලද බව මැතිවරණ කොමිෂන් සභාව අද(14දා) අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+The Supreme Court's decision involves Bandu Lal Lal, while the Elections Commission issued a special gazette notification. Manusha Nanayakkara and Harin Fernando have lost their posts, but no final decision has been made regarding Harin Fernando's appointment to the national list.
 
-පසුගියදා ලබා දුන් ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග මනූෂ නානායක්කාර මහතාට සහ හරීන් ප්‍රනාන්දු මහතාට පාර්ලිමේන්තු මන්ත්‍රී ධුර අහිමි වූ අතර, ඒ අනුව මෙම පත් කිරීම සිදු කර ඇත.
+🟩
 
-කෙසේ වෙතත් හරීන් ප්‍රානාන්දු මහතාගේ හිස් වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා පත් කරන්නේ කවුරුන්ද යන්න පිළිබඳ මෙතෙක් අවසන් තීරණයක් ගෙන නොමැති බව පක්ෂ ජ්‍යේෂඨයෙකු සඳහන් කළේය.
+The Elections Commission (Elections) has issued a special gazette notification today (14).
+
+Manusha Nanayakkara lost the post of Deputy Court recently and Mr. Harin Fernando lost the parliamentary term, accordingly.
+
+However, a party ratrist stated that no final decision has been taken so far, however, has not taken a final decision on who appoints Harin Fernando's empty national lists.
 
 ◼️
 
 [Data](articles/e6973455.json)
+
+[Extended Data](ext_articles/e6973455.ext.json)
 
 ---
 
@@ -2187,37 +2215,5 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/bca1b985.json)
 
 [Extended Data](ext_articles/bca1b985.ext.json)
-
----
-
-### Namal Rajapaksa signs to nomination papers
-
-*2024-08-14 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199919) · `si`
-
-Namal Rajapaksa has been nominated as the presidential candidate by the Sri Lanka General Front, signing his nomination papers at a residence in Wijerama. This move comes amidst expectations from President Ranil Wickremesinghe for a candidate announcement. Meanwhile, the Sri Lanka Klean Front also named a candidate, while UNP MP Dhammika Perera expressed readiness to run if offered but later withdrew his candidacy, leading to Namal Rajapaksa's declaration as the Civil Front's candidate.
-
-🟩
-
-Namal Rajapaksa has signed the nomination after the presidency of the Sri Lanka General Front.
-
-Namal Rajapaksa signed the name of Namal Rajapaksa at the house in Wijerama, Mahinda Rajapaksa.
-
-Meanwhile, Sri Lanka Klean Front was deposited as the presidential candidate of the Sri Lanka General Manager.
-
-President Ranil Wickremesinghe was expecting the President Ranil Wickremesinghe at the beginning of the presidential election.
-
-However, the stand of the party was that a presidential candidate should be presented in the party.
-
-UNP MP Dhammika Perera said that if the party gives him candidacy, he was ready to accept it.
-
-However, he had written to the Sri Lanka Civil Aruormro, informing him that he would not contest the presidential election.
-
-Accordingly, Namal Rajapaksa declared the name of Mr. Namal Rajapaksa as the presidential candidate of the Civil Front.
-
-◼️
-
-[Data](articles/8f69b9a4.json)
-
-[Extended Data](ext_articles/8f69b9a4.ext.json)
 
 ---

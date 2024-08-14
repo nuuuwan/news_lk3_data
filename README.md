@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 02:06:29**
+As of **2024-08-15 02:21:14**
 
 ## Newspaper Stats
 
-*Scraped **40,778** Articles*
+*Scraped **40,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 379
 colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,476
-dailyftlk | 2,625
+dailyftlk | 2,626
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
-tamilmirrorlk | 5,199
+tamilmirrorlk | 5,200
 virakesarilk | 6,463
 adaderanasinhalalk | 6,939
 
@@ -26,9 +26,39 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,778 (100.0%) of 40,778 articles have been extended.
+40,778 (100.0%) of 40,780 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-15 (Thursday)
+
+### Governance and economy: Inseparable twins
+
+*2024-08-15 02:02:03* · [`dailyftlk`](https://www.ft.lk/columns/Governance-and-economy-Inseparable-twins/4-765536) · `en`
+
+Assuming that the 21 September Presidential election would be held as scheduled, the two most challenging issues facing the winner would be to reform Sri Lanka’s moribund system of governance and renegotiate with IMF parts of its economic reparation agenda so that the local economy could be put on sound footing to withstand the negative effects from turbulence from outside. Governance and economy are inseparable twins and no economic model or development plan could succeed when governments that are responsible to implement them remain corrupt and incompetent.
+
+...
+
+[Data](articles/70260cc3.json)
+
+---
+
+### தாய்லாந்து பிரதமர் பதவி நீக்கம்
+
+*2024-08-15 01:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-பதவி-நீக்கம்/50-342180) · `ta`
+
+தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் அரசியலமைப்பை மீறியதாக நீதிமன்றம் தீர்ப்பளித்ததையடுத்து அவர் பதவியிலிருந்து நீக்கப்பட்டுள்ளார்.
+
+சிறைத்தண்டனை அனுபவித்து வரும் ஒருவரை அமைச்சரவை உறுப்பினராக நியமித்ததன் மூலம் நெறிமுறைகளை மீறியதன் அடிப்படையில் இப்பதவி நீக்க உத்தரவு வழங்கப்பட்டதாக வெளிநாட்டு செய்திகள் தெரிவிக்கின்றன.
+
+கடந்த ஆண்டு தேர்தலில் அதிக இடங்களைப் பெற்ற நாட்டின் பிரபலமான முற்போக்கு மூவ் ஃபார்வர்ட்  கட்சியை நீதிமன்றம் கலைத்து, அதன் தலைவர்களை 10 ஆண்டுகளுக்கு அரசியலில் இருந்து தடை செய்து ஒரு வாரத்திற்குப் பிறகு இத்தீர்ப்பு அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/fec39d16.json)
+
+---
 
 ### 2024-08-14 (Wednesday)
 
@@ -2223,51 +2253,5 @@ Female doctor is lying half -naked in a flood. After that, the police seized the
 [Data](articles/ee7b7b75.json)
 
 [Extended Data](ext_articles/ee7b7b75.ext.json)
-
----
-
-### Maithri - Minister Mahinda Amaraweera
-
-*2024-08-14 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191067) · `ta`
-
-Maithripala Sirisena, ex-President of SLFP, left Wijedasa Rajapaksa, leading to party crises, according to Agriculture Minister Mahinda Amaraweera. He criticized Sirisena for damaging the party during a press conference at President Ranil Wickremesinghe's office. Amaraweera emphasized the importance of fulfilling campaign promises and urged voters not to be misled by false promises. He predicted President Wickremesinghe's victory in the upcoming elections, stating that only two main candidates would succeed, while others might lose due to vote splitting or affiliations with other parties.
-
-🟩
-
-Former President of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena abandoned Wijedasa Rajapaksa. Agriculture Minister Mahinda Amaraweera said that he has degraded the party and eventually in crisis.
-
-He further stated at a press conference held on Monday (12) at President Ranil Wickremesinghe's political office located on Loris Road, Bambalapitiya.
-
-Anyone can criticize the programs implemented by our government. But they cannot be carried out properly. Even if the opposition parties do not support our program, they may not have been acting in disrepair.
-
-Therefore, people should not be deceived by relying on false promises. But people are now directly aware that President Ranil Wickremesinghe's promises are fulfilled. The people of the country will not vote for the loser, not the winner of the election.
-
-...
-
-[Data](articles/e23d53cf.json)
-
-[Extended Data](ext_articles/e23d53cf.ext.json)
-
----
-
-### Special Message from Election Commissioner
-
-*2024-08-14 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199922) · `si`
-
-In the upcoming presidential election, voters with disabilities can use a temporary ID. To verify identity, bring a valid National Identity Card, Driving License, Passport, or a retired pension department ID. If lacking these, visit the election office with your Grama Niladhari for a temporary ID.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that the temporary ID issued by the disabled in the coming presidential election can be used.
-
-Q. What should be taken to ensure the identity of voters?
-
-"Valid National Identity Card, Valid Driving License or Valid Passport, Retired Identity Card issued by the Department of Pensions. At that accompanying the identity card issued by the Department of Registration of Persons to the Gentile Priest, and those who have none can go to the election office with their Grama Niladhari and get a temporary ID of a temporary ID. However, this year, we were specifically mentioned this year, and we issued a temporary identity card to them, the temporary ID. "
-
-◼️
-
-[Data](articles/96b529c0.json)
-
-[Extended Data](ext_articles/96b529c0.ext.json)
 
 ---

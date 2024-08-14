@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 16:36:43**
+As of **2024-08-14 16:53:58**
 
 ## Newspaper Stats
 
-*Scraped **40,722** Articles*
+*Scraped **40,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 4,751
 tamilmirrorlk | 5,194
 virakesarilk | 6,450
-adaderanasinhalalk | 6,926
+adaderanasinhalalk | 6,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,716 (100.0%) of 40,722 articles have been extended.
+40,722 (100.0%) of 40,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### සීගිරියේදී සංචාරකයන්ට බඹර ප්‍රහාරයක්
+
+*2024-08-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199935) · `si`
+
+සීගිරිය සිංහපාදය අසල දී සංචාරකයින් පිරිසකට බඹර ප්‍රහාරයක් එල්ලවීමත් සමග සීගිරිය සංචාරකයින් සඳහා තාවකාලිකව වසා දැමීමට මධ්‍යම සංස්කෘතික අරමුදල පියවර ගෙන තිබේ.
+
+අද (14) පස්වරුවේ එල්ල වී ඇති බඹර ප්‍රහාරයෙන් විදෙස් සංචාරයකයින් 26 දෙනෙකු මෙන්ම දේශීය සංචාරකයින් 13 දෙනෙකු ප්‍රතිකාර සඳහා සීගිරිය ග්‍රාමීය රෝහලට ඇතුලත් කර ඇත.
+
+බඹරුන් ඇවිස්සීමට මේ දිනවල පවතින අධික අව් රශ්මිය සහ අධික සංචාරකයින්ගේ පැමිණීම හේතුව වන්නට ඇතැයි සංචාරක මග පෙන්වන්නන් සැක පළ කර තිබේ.
+
+මේ සම්බන්ධව අදහස් දැක්වූ මධ්‍යම සංස්කෘතික අරමුදලේ සීගිරි ව්‍යාපෘති කළමනාකාර තුසිත හේරත් පවසන්නේ බඹරුන් ඇවිස්සුණු අවස්ථාවේ දී සීගිරිය නැරඹීම සඳහා ප්‍රවේශපත්‍ර ලබාගෙන තිබූ නමුත් ඇතුළුවීමට නොහැකි වූ පිරිසගේ මුදල් නැවත ලබා දීමට අවශ්‍ය පියවර ගන්නා බවය.
+
+කෙසේ වෙතත් බඹරුන්ගේ සන්සුන්භාවය ඇතිවූ විගස සීගිරිය සංචාරකයන්ට නැවත  විවෘත කිරීමට අවශ්‍ය පියවර ගන්නා බවත් ඔහු පවසයි.
+
+තවද බඹරුන් පළවා හැරීම සඳහා ජලවාශ්ප විදින ක්‍රමවේදයක් මේ වන විට අධ්‍යයනය කරමින් පවතින බව ද ඔහු පවසයි.
+
+◼️
+
+[Data](articles/8f9bc7b4.json)
+
+---
 
 ### Special traffic plan in Rajagiriya tomorrow
 
@@ -45,6 +67,8 @@ See below for the Police Media Division announcement on the traffic plan....
 ◼️
 
 [Data](articles/5d7c1373.json)
+
+[Extended Data](ext_articles/5d7c1373.ext.json)
 
 ---
 
@@ -66,55 +90,75 @@ Police stated that twelve passengers including children and adults were travelli
 
 [Data](articles/7103bc86.json)
 
+[Extended Data](ext_articles/7103bc86.ext.json)
+
 ---
 
-### රාජගිරිය අවට හෙට විශේෂ රථවාහන සැලැස්මක්
+### Special traffic plan in Rajagiriya tomorrow
 
 *2024-08-14 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199934) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීම අගෝස්තු 15 වනදා රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාලයේදී සිදුකිරීමට නියමිතය.
+Tomorrow in Rajagiriya, a special traffic plan will be in effect from 8 am to 2 pm due to the nomination handover for the Presidential Election at the Elections Secretariat.
 
-ඒ වෙනුවෙන් එදින උදෑසන 8 සිට පස්වරු 2 දක්වා විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය නිවේදනය කළේය.
+🟩
+
+The nomination of the Presidential Election will be handed over to the Presidential election on August 15 at the Elections Secretariat at Rajagiriya.
+
+The police announced that a special traffic plan is being implemented from 8 am to 2 pm.
 
 ◼️
 
 [Data](articles/e19d4689.json)
 
+[Extended Data](ext_articles/e19d4689.ext.json)
+
 ---
 
-### விலை கொடுத்து வாங்கிய மனைவிக்கு ஷொக்
+### Shock for the wife who bought the price
 
 *2024-08-14 16:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-கொடுத்து-வாங்கிய-மனைவிக்கு-ஷொக்/175-342170) · `ta`
 
-மதுபோதைக்கு அடிமையான ஒருவர் திரைப்படத்தில் வரும் காட்சியை போன்று செய்த சம்பவமொன்று அப்பகுதியினர் மட்டுமில்லாமல் செய்தியை கேட்டவர்களுக்கும் ஆச்சிரியத்தை ஏற்படுத்தியுள்ளது.
+A shocking incident occurred in Rajasthan where Prem Ram Mcwal, aged 40, from Narasingapura village, allegedly attacked his wife, tied her feet to a motorbike, and dragged her through muddy roads. Villagers present witnessed but did not intervene, instead recording the event on their phones. The motive behind the attack seems to stem from a dispute over the woman's wish for her sister to return home. The victim's family reportedly received a compensation of Rs 2 lakh for 10 months. Police have promised to take action against those who filmed the incident without attempting to stop it.
 
-இந்தியாவின் ராஜஸ்தான் நரசிங்கபுரா கிராமத்தை சேர்ந்த பிரேம் ராம் மெக்வால் என்பவர் (வயது 40), மனைவியை தாக்கி அவரது கால்களை மோட்டார் சைக்கிளில் கட்டி கரடுமுரடான மண் சாலையில் இழுத்துச் சென்றுள்ளார்.
+🟩
 
-சம்பவத்தை பார்வையிட்ட  கிராமத்தவர்கள் எவரும் ​அவரை தடுக்க முன்வரவில்லை என்பதுடன் அனைவரும் அலைபேசியூடாக காணொளி எடுத்துக்கொண்டிருந்ததாக தெரிவிக்கப்பட்டுள்ளது,
+An incident that made a scene in the film was a surprise to the people who heard the news.
 
-இதுகுறித்து பொலிஸார் கூறும்போது, ம்பவத்தை தடுக்காமல் படம் பிடிப்பதில்ஆர்வம் காட்டியவர் மீதும் நடவடிக்கை எடுக்கப்படும். அப்பெண் தனது சகோதரி வீட்டுக்கு செல்ல விரும்பியதால் அவருக்கும் அவரது கணவருக்கும் தகராறு ஏற்பட்டதாக தெரிகிறது.
+Prem Ram Mcwal (age 40) from Narasingapura village in Rajasthan, India, attacked his wife and tied his feet on a motorbike and dragged him on the rough mud road.
 
-இதற்கிடையில்,  அப்பெண்ணை 10 மாதங்களுக்கு முன் குறித்த நபர் ரூ.2 லட்சம் கொடுத்து விலைக்கு வாங்கி வந்ததாகவும் தெரிவிக்கப்படுகிறது,
+It has been reported that no villagers who visited the incident have come forward to prevent him and everyone has been taking the video via the phone.
+
+According to the police, action will be taken against the person who shot the film without preventing the death.. She and her husband seem to have had a dispute because the woman wanted her sister to go home.
+
+In the meantime, the woman has been bought for Rs 2 lakh for 10 months.
 
 ◼️
 
 [Data](articles/692da522.json)
 
+[Extended Data](ext_articles/692da522.ext.json)
+
 ---
 
-### පුද්ගල ආදායම් බදු මට්ටම සංශෝධනයට රජයෙන් යෝජනාවක්
+### Govt. A repair tax level amendment
 
 *2024-08-14 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199933) · `si`
 
-පසුගිය සමයේ සිදු කළ බදු ප්‍රතිසංස්කරණවලින් පීඩාවට පත් මධ්‍යම මට්ටමේ බදු ගෙවන්නන් සඳහා සහන සැලසීමේ අරමුණින් පුද්ගල ආදායම් බදු මට්ටම රුපියල් 500,000 සිට රුපියල් 720,000 දක්වා සංශෝධනය කිරීමට රජය විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලට යෝජනා කර තිබේ.
+The government proposes amending personal income tax to Rs., influenced by the Presidential Media Unit's success. The IMF suggests adjustments for broader tax relief, especially for lower-income groups, while maintaining the original proposal's intent.
 
-ජනාධිපති මාධ්‍ය අංශය පවසන්නේ මෙම වසරේ බදු ආදායම පෙන්නුම් කරන ලද ශක්තිමත් කාර්ය සාධනය හේතුවෙන් එම යෝජනාව සිදුකළ බවය.
+🟩
 
-එම යෝජනාව සඳහා IMF විසින් සංශෝධන ඉදිරිපත් කර ඇති අතර පහළ බදු මට්ටම්වලට අයත් පිරිස සඳහා වැඩි සහනයක් ලබාදීම, මධ්‍යම මට්ටමට ද ඒ හා සමාන සහන සලසමින්, ඉහළ ආදායම් ලබන්නන් සඳහා තරමක් අඩු සහන ලබාදීමට මෙන්ම මෙම යෝජනාවේ හරය නොවෙනස්ව තබා ගැනීම ඊට අයත් වේ.
+The government has proposed to the IMF to amend the personal income tax payments to Rs.
+
+The proposal was made due to the strong performance of the Presidential Media Unit.
+
+The IMF has submitted amendments to the proposal and provide more low relief to the lower taxes, and equal relief to the medium level, and keeping the meaning of the proposal.
 
 ◼️
 
 [Data](articles/ab2945a8.json)
+
+[Extended Data](ext_articles/ab2945a8.ext.json)
 
 ---
 
@@ -154,17 +198,23 @@ He has signed the nomination papers at his political office in Flower Road, Colo
 
 ---
 
-### ජනාධිපතිවරණය ගැන රනිල් දැන් ගත්ත තීරණය මෙන්න
+### Here is the decision of Ranil about the presidential election
 
 *2024-08-14 15:16:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-ගැන-රනිල්-දැන්-ගත්ත-තීරණය-මෙන්න/11-411371) · `si`
 
-ජනාධිපතිවරණ අපේක්ෂක වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර සිය නාමයෝජනා පත්‍රය සඳහා අත්සන් කර තිබේ.
+Ranil Wickremesinghe recently submitted his nomination papers for the upcoming presidential election, signing them at his party office on Flower Road, Colombo.
 
-කොළඹ මල් පාරේ පිහිටි සිය පක්ෂ කාර්යාලයේදී ජනාධිපතිවරයා මෙලෙස සිය නාමයෝජනා පත්‍රයට අත්සන් කර ඇත.
+🟩
+
+Ranil Wickremesinghe has been signed for his nomination paper for a few moments ago before the presidential candidate candidates.
+
+The President has signed a nomination papers at his party office on Flower Road, Colombo.
 
 ◼️
 
 [Data](articles/9a0d93b0.json)
+
+[Extended Data](ext_articles/9a0d93b0.ext.json)
 
 ---
 
@@ -2153,29 +2203,5 @@ The 2024 General Anuradhapura has been placed bail to the presidency of the Civi
 [Data](articles/9a805de3.json)
 
 [Extended Data](ext_articles/9a805de3.ext.json)
-
----
-
-### 2024 Presidential Election: Placing of deposits to conclude today
-
-*2024-08-14 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101218/2024-presidential-election-placing-of-deposits-to-conclude-today) · `en`
-
-The placing of deposits for the 2024 Presidential Election is scheduled to be concluded from 12 noon today (14).
-
-The Election Commission has stated that 36 individuals have already placed deposits to contest in the presidential election.
-
-Among these, are 19 candidates from recognized political parties and one from other political party have placed deposits.
-
-Additionally, 16 independent candidates have also deposited money for the upcoming presidential election.
-
-The acceptance of nominations for the upcoming presidential election is scheduled to begin tomorrow (15) from 9.00 a.m. to 11.00 a.m.
-
-The Acting Police Media Spokesperson DIG Ruwan Gunasekara announced that a special security arrangement will be implemented in the vicinity of the Election Secretariat in Rajagiriya on the day of the nominations acceptance.
-
-◼️
-
-[Data](articles/094ff583.json)
-
-[Extended Data](ext_articles/094ff583.ext.json)
 
 ---

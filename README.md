@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 02:36:16**
+As of **2024-08-15 02:54:50**
 
 ## Newspaper Stats
 
-*Scraped **40,782** Articles*
+*Scraped **40,783** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 379
-colombotelegraphcom | 390
+colombotelegraphcom | 391
 islandlk | 2,354
 economynextcom | 2,476
 dailyftlk | 2,626
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,780 (100.0%) of 40,782 articles have been extended.
+40,782 (100.0%) of 40,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,35 +68,51 @@ The verdict was announced a week later after the court dissolved the country's p
 
 ---
 
-### நாகபட்டினம் - காங்கேசன்துறை கப்பல் போக்குவரத்து நாளை முதல் மீள ஆரம்பம்
+### Nagapattinam - Kankesanthurai Ship Traffic
 
 *2024-08-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191118) · `ta`
 
-நாகபட்டினத்தில் இருந்து காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை நாளை வெள்ளிக்கிழமை (16) முதல் ஆரம்பமாகவுள்ளது.
+The Nagapattinam-Kankesanthurai shipping service, initially halted due to storms and monsoons, resumes tomorrow after a successful test run.
 
-தமிழகத்தின் நாகபட்டினத்திலிருந்து இலங்கையின் காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை கடந்த ஆண்டு ஒக்டோபர் 14 ஆம் திகதி ஆரம்பிக்கப்பட்ட நிலையில், புயல் மற்றும் வட, கிழக்கு பருவமழையைக் காரணங்காட்டி, அச்சேவை ஒக்டோபர் 23 ஆம் திகதி திடீரென இடைநிறுத்தப்பட்டது.
+🟩
 
-இக்கப்பல் போக்குவரத்து வெகுவிரைவில் மீள ஆரம்பிக்கப்படும் என அறிவிக்கப்பட்டிருந்த நிலையில், கடந்த 10 ஆம் திகதி 'சிவகங்கை' பயணிகள் கப்பலின் சோதனை ஓட்டம் நடைபெற்றது. அதற்கமைய அன்றைய தினம் காலை 8 மணியளவில் நாகபட்டினத்திலிருந்து புறப்பட்ட 'சிவகங்கை' பயணிகள் கப்பல், அன்று நண்பகல் 12.00 மணியளவில் காங்கேசன்துறையை வந்தடைந்தது.
+The shipping service from Nagapattinam to Kankesanthurai will commence tomorrow (16).
 
-இந்த சோதனை ஓட்டம் வெற்றிகரமாக நிறைவடைந்த நிலையில், நாகபட்டினம் முதல் காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை நாளைய தினத்திலிருந்து மீள ஆரம்பிக்கப்படவிருப்பதாக உத்தியோகபூர்வமாக அறிவிக்கப்பட்டுள்ளது.
+The shipping service from Nagapattinam in Tamil Nadu was launched on October 14 last year, due to the storm and the North and East monsoon, and the Azee was suspended on October 23.
+
+The 'Sivaganga' passenger ship's test drive was held on the 10th of last month, as the ship was announced to be resumed soon.. The 'Sivaganga' passenger ship, which departed from Nagapattinam at 8 am that day, arrived at Kankesanthurai at 12 noon.
+
+As the test run has been successfully completed, it has been officially announced that the shipping service for Nagapattinam to Kankesanthurai will be resumed from dayday.
 
 ◼️
 
 [Data](articles/e3e18ec9.json)
 
+[Extended Data](ext_articles/e3e18ec9.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் போட்டியிட 40 பேர் கட்டுப்பணம் செலுத்தல் - தேர்தல்கள் ஆணைக்குழு
+### Control of 40 people to contest presidential election - Elections Commission
 
 *2024-08-15 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191117) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு  40  பேர்  இதுவரை வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர்.இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட  22  பேரும், வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சை வேட்பாளராக 17 பேரும் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+The Elections Commission announced 22 candidates for the upcoming presidential election, including 4 individuals who registered as independent candidates or part of independent political parties during a 14-day registration period starting July 26. This includes notable figures like Ranil Wickremesinghe, Sarath Fonseka, and others representing various political fronts such as New Democratic Front, United People's Shakti, and more.
 
-2019 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு 41 பேர் கட்டுப்பணம் செலுத்தியிருந்த நிலையில் 35 பேர் மாத்திரம் வேட்புமனுக்களை சமர்த்தித்து போட்டியிட்டனர்.ஒன்பதாவது ஜனாதிபதித் தேர்தல் எதிர்வரும் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள நிலையில் தேர்தலில் போட்டியிடுவதற்கு ...40 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+🟩
+
+The Elections Commission has announced that there are 22 candidates to contest for the presidential election.
+
+Of the 41 candidates, only 35 candidates contested the 2019 presidential election. Only 35 candidates contested.
+
+The official announcement for the presidential election was announced on July 26. A 14-day period was granted to pay for the payment. During this period, 4 people have been controlled as an independent political party and an independent candidate.
+
+New Democratic Front - Osala Herath, Ceylon Workers Party - ASP Liyanage, United People's Shakti Sajith Premadasa, National Development Front - SK Pandaranaike, National Democratic Front - Vijayadasa Rajapaksa, United Socialist PartyUrumaya Party-Sarath Manamendra
 
 ...
 
 [Data](articles/02506195.json)
+
+[Extended Data](ext_articles/02506195.ext.json)
 
 ---
 
@@ -313,6 +329,18 @@ As a country where Sri Lanka lives, it is necessary to create a political system
 [Data](articles/eb8528cf.json)
 
 [Extended Data](ext_articles/eb8528cf.ext.json)
+
+---
+
+### Machinery Of Influence: Lessons From The Different Systems Of Propaganda In Nazi Germany & Imperial Japan
+
+*2024-08-14 20:44:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/machinery-of-influence-lessons-from-the-different-systems-of-propaganda-in-nazi-germany-imperial-japan/) · `en`
+
+It would not be wrong to say that WWII saw the zenith of the use of propaganda in the history of mankind. Both the Allies and the Axis powers extensively utilized propaganda to influence public opinion and bolster their war efforts. Propaganda, the strategic dissemination of information to shape perceptions and behaviors, was employed to boost morale, demonize the enemy, and secure civilian and military support for the war effort.
+
+...
+
+[Data](articles/b64b3f1e.json)
 
 ---
 
@@ -2213,27 +2241,5 @@ The time given to hand over the bail for the last 2024 is over.
 [Data](articles/5616d643.json)
 
 [Extended Data](ext_articles/5616d643.ext.json)
-
----
-
-### Special announcement from Commissioner General of Elections
-
-*2024-08-14 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101229/special-announcement-from-commissioner-general-of-elections) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, has stated that persons with disabilities can use the temporary ID card issued to them when voting in the upcoming presidential election.
-
-He made these remarks while speaking to the media today (14).
-
-The 2024 presidential election is scheduled to be held on September 21.
-
-When asked what document must be produced to verify the identity of voters, he responded:
-
-“A valid national identity card, a valid driver’s license, or a valid passport; an elderly identity card issued by the Department of Social Services; or a pensioner’s identity card issued by the Department of Pensions. Additionally, the identity card issued by the Department of Registration of Persons to Reverend Priests is acceptable. For those who do not have any of these, they can go to the election office with their Grama Niladhari officers and obtain a temporary ID card.
-
-...
-
-[Data](articles/cfd793fc.json)
-
-[Extended Data](ext_articles/cfd793fc.ext.json)
 
 ---

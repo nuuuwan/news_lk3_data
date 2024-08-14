@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 21:21:19**
+As of **2024-08-14 21:36:37**
 
 ## Newspaper Stats
 
@@ -104,7 +104,15 @@ The party should be named as a national listing MP in the 2020 General Elections
 
 *2024-08-14 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101244/rishads-acmc-to-support-sajith-in-presidential-poll) · `en`
 
-All Ceylon Makkal Congress (ACMC) MP Rishad Bathiudeen has pledged his party’s support to the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+Leader of the All Ceylon Makkal Congress (ACMC) MP Rishad Bathiudeen has pledged his party’s support to the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+
+On August 07, Rishad Bathiudeen’s ACMC had said it would announce the candidate the party will support in the upcoming presidential election on August 14.
+
+The leader of the ACMC, former minister Bathiudeen, stated that this decision was taken during the party’s Supreme Council meeting on August 6.
+
+He had stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they would continue participate in the alliance’s meetings.
+
+He had also stated that both the SJB and President Ranil Wickremesinghe had requested the ACMC for support ahead of the presidential poll.
 
 ◼️
 

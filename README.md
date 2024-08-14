@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 23:56:23**
+As of **2024-08-15 00:09:25**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,763 (100.0%) of 40,777 articles have been extended.
+40,771 (100.0%) of 40,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### சஜித் - பாட்டலி புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+### Sajith - Patali Memorandum of Understanding Agreement
 
 *2024-08-14 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191116) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்திக்கும்,பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தலைமையிலான ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+An MoU was signed between Sajith Premadasa's United People's Power and Patali Champika Ranawaka's UNP, pledging support for Sajith in the upcoming presidential election. The agreement emphasizes unity for national interests and criticizes previous governments' handling of the economy and corruption.
 
-இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+🟩
 
-இரு தரப்பினருக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் புதன்கிழமை (14) தலவத்துகொட பகுதியில் இடம்பெற்றது.ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார, ஐக்கிய குடியரசு முன்னணியின் பொதுச்செயலாளர் கருணாரத்ன ஆகியோர் புரிந்துணர்வு ஒப்பந்தங்களில் கைச்சாத்திட்டனர்.
+A Memorandum of Understanding (MoU) was signed between the United People's Power, led by opposition leader Sajith Premadasa and the UNP led by MP Patali Champika Ranawaka.
 
-இதன்போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்கள்,சுயாதீன எதிரணியின் உறுப்பினர்கள் உட்பட ஐக்கிய குடியரசு முன்னணியினர் மற்றும் சிவில் அமைப்பினர் ஆகியோர் கலந்துக் கொண்டனர்.
+UNP leader Patali Champika Ranawaka has said that the presidential election will be supported by the United People's Alliance's presidential candidate Sajith Premadasa.
 
-இதனை தொடர்ந்து உரையாற்றிய ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க குறிப்பிட்டதாவது,
+The Memorandum of Understanding between the two sides was held on Wednesday (14).
+
+The United People's Power MPs, including members of the Independent Opposition, were present.
+
+Speaking on the occasion, the UNP leader Patali Champika Ranawaka said,
+
+The people of the country, including the president and the prime minister who came to power with the people of the country in 2019, chased down the government.
+
+The country has improved with the country's free health and free education.. The parties who criticize 75 years of politics must be held responsible for the economic crisis.
 
 ...
 
 [Data](articles/f0a7a265.json)
+
+[Extended Data](ext_articles/f0a7a265.ext.json)
 
 ---
 
@@ -160,37 +170,53 @@ Meanwhile, the Colombo District Writing Women's Fort of Colombo District, the Co
 
 ---
 
-### 13 இல் வழங்கப்படும் அதிகாரங்கள் மீண்டும் பறிக்கப்படாதவாறு அரசியலமைப்பு மாற்றியமைக்கப்படவேண்டும் - ரணிலிடம் சுமந்திரன் வலியுறுத்தல்
+### The Constitution must be changed so that the powers granted in 13 are not re -seized - Sumanthiran urges Ranil
 
 *2024-08-14 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191115) · `ta`
 
-அரசியலமைப்புக்கான 13 ஆவது திருத்தத்தில் பறிக்கப்பட்ட அதிகாரங்களைத் திருப்பித்தருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க வாக்குறுதியளித்திருக்கும் நிலையில், அவ்வாறு வழங்கப்படும் அதிகாரங்கள் மீண்டும் பறிக்கப்படாதவாறு அரசியலமைப்பு மாற்றியமைக்கப்படவேண்டும் எனவும், எதிர்வரும் ஜனாதிபதித்தேர்தலுக்கு முன்னதாக அதற்குரிய உத்தரவாதத்தை வழங்கவேண்டும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் வலியுறுத்தியுள்ளார்.
+Sumanthiran urges Wickremesinghe to amend the Constitution to prevent power reclamation under the 13th Amendment, ensuring provincial councils' autonomy post-presidential election.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனுக்கும் இடையிலான சந்திப்பு புதன்கிழமை (14) காலை 11.30 மணிக்கு ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+🟩
 
-இச்சந்திப்பின்போது அரசியலமைப்புக்கான 13 ஆவது திருத்தத்தில் நடைமுறைப்படுத்துவதற்கு உத்தேசித்துள்ள விடயங்களை உள்ளடக்கி அண்மையில் சுமந்திரனிடம் கையளித்த ஆவணத்தை ஏனைய தமிழ் அரசியல் கட்சிகளின் பிரதிநிதிகளுக்கும் வழங்கியிருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe has urged President Ranil Wickremesinghe that the Constitution should be changed so that the powers of the Constitution have not been repeated and given a guarantee before the upcoming presidential election.
+
+The meeting between President Ranil Wickremesinghe and MP MA Sumanthiran of the Sri Lanka Tamil National Alliance (TNA) MA Sumanthiran was held at the Presidential Secretariat at 11.30 am on Wednesday.
+
+President Ranil Wickremesinghe said that during the meeting, representatives of other Tamil political parties have been given a recent document to Sumanthiran, which includes the issues that are intended to implement the 13th Amendment to the Constitution.
+
+At the same time, the two discussed the laws that needed to be implemented in the document and the laws to be lifted.
 
 ...
 
 [Data](articles/530263bc.json)
 
+[Extended Data](ext_articles/530263bc.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலை முன்னிட்டு ரணில், சஜித் - சமத்துவக் கட்சியினரிடையே தனித்தனி சந்திப்பு
+### A separate meeting between Ranil, Sajith and Equality Party ahead of the presidential election
 
 *2024-08-14 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191114) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களான ரணில் விக்கிரமசிங்க, மற்றும் சஜித் பிரேமதாச ஆகியோருக்கும் சமத்துவக் கட்சிக்குமிடையில் தனித்தனியாகச் சந்திப்புகள் நடந்துள்ளன.
+In a pre-presidential election meeting, Ranil Wickremesinghe, Sajith Premadasa, and the Equality Party discussed the ongoing oppression of Tamil people in Sri Lanka, emphasizing the need for a swift resolution to ethnic issues to foster economic growth and political pluralism. The Equality Party highlighted its stance on the election, focusing on achieving demands and strengthening Tamil communities. However, no major candidate has shown solid plans to address the ethnic issue comprehensively, leading to uncertainty among voters.
 
-கடந்தவாரம் கொழும்பில் இடம்பெற்ற இச் இ சந்திப்புகளில் சமத்துவக் கட்சியின் பொதுச் செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான முருகேசு சந்திரகுமார், கட்சியின் தவிசாளர் சு. மனோகரன் ஆகியோர் பங்கேற்றிருந்தனர்.
+🟩
 
-“தமிழ்பேசும் மக்கள் தொடர்ந்தும் இனரீதியாகப் பல வழிகளிலும் ஒடுக்கப்படுகின்றனர். இதற்குத் தீர்வைக்காண முடியாதிருப்பது நாட்டின் தோல்வியே  எனவும்.  அதிகாரத்தில் இருப்போரும் அதிகாரத்துக்கு  வெளியே இருந்து அரசியல் செய்வோரும் இதற்கு பொறுப்பேற்க வேண்டும். இன ஒடுக்குமுறை தொடர்வதால், பிரச்சினைகளும் பாதுகாப்பற்ற நிலையும் தொடருகின்றன.
+There have been separate meetings between Ranil Wickremesinghe and Sajith Premadasa and the Equality Party.
 
-யுத்தம் முடிந்த பிறகும் தமிழ் பேசும் மக்கள் நடத்துகின்ற போராட்டங்களே இதற்குச் சாட்சி. இனியும் கால நீடிப்புச் செய்யாமல் இனப்பிரச்சினைக்குத் தீர்வைக் காண வேண்டும். அதற்கான கால வரையறையும் அட்டவணையும் அவசியமாகும்.
+At the meeting held in Colombo last week, the General Secretary of the Equality Party and former MP Murukesu Chandrakumar. Manoharan was also present.
+
+“The Tamil people continue to be oppressed in many ways. It is the failure of the country to find a solution.Those who are in power and those who do politics from outside power should be held responsible for this. As ethnic repression continues, problems and unsafe conditions continue.
+
+This is the struggles of the Tamil speaking people after the end of the war. You have to find a solution to the ethnic problem without being prolonged. It is necessary for the timely definition and table.
+
+As a country where Sri Lanka lives, it is necessary to create a political system for pluralism and independence.
 
 ...
 
 [Data](articles/eb8528cf.json)
+
+[Extended Data](ext_articles/eb8528cf.ext.json)
 
 ---
 
@@ -365,6 +391,8 @@ Financial assets – debt instruments were down 4.6 percent to 620 billion rupee
 ...
 
 [Data](articles/7b545d61.json)
+
+[Extended Data](ext_articles/7b545d61.ext.json)
 
 ---
 
@@ -766,6 +794,8 @@ Loans to customers was barely changed at 957 billion rupees by end June from 954
 
 [Data](articles/6658b672.json)
 
+[Extended Data](ext_articles/6658b672.ext.json)
+
 ---
 
 ### Sri Lanka bond yields steady, rupee closes at 299.15/25
@@ -783,6 +813,8 @@ A bond maturing on 01.10.2032 closed at 13.25/50 percent, down from 13.30/70 per
 ◼️
 
 [Data](articles/566d4dec.json)
+
+[Extended Data](ext_articles/566d4dec.ext.json)
 
 ---
 
@@ -841,6 +873,8 @@ The 12-month bills fell 3 basis points to 10.03 percent, with 35 billion offered
 ◼️
 
 [Data](articles/e804e77e.json)
+
+[Extended Data](ext_articles/e804e77e.ext.json)
 
 ---
 
@@ -983,6 +1017,8 @@ Hatton National Bank Plc voting was flat at 180.00, while non-voting was up at 1
 ...
 
 [Data](articles/0266756c.json)
+
+[Extended Data](ext_articles/0266756c.ext.json)
 
 ---
 

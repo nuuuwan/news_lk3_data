@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 15:36:38**
+As of **2024-08-14 15:55:25**
 
 ## Newspaper Stats
 
-*Scraped **40,710** Articles*
+*Scraped **40,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,743
+adalk | 3,745
 dailymirrorlk | 4,733
-adaderanalk | 4,748
+adaderanalk | 4,749
 tamilmirrorlk | 5,192
 virakesarilk | 6,448
 adaderanasinhalalk | 6,924
@@ -26,67 +26,117 @@ adaderanasinhalalk | 6,924
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,706 (100.0%) of 40,710 articles have been extended.
+40,710 (100.0%) of 40,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### ජනපති නාමයෝජනා පත්‍රයට අත්සන් තබයි
+### Ranil Wickremesinghe signs nominations for Presidential Election
+
+*2024-08-14 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101235/ranil-wickremesinghe-signs-nominations-for-presidential-election) · `en`
+
+President Ranil Wickremesinghe has signed his nomination papers today (14) to contest the upcoming Presidential Election.
+
+He has signed the nomination papers at his political office in Flower Road, Colombo.
+
+◼️
+
+[Data](articles/0cfbfef9.json)
+
+---
+
+### President signal to nomination
 
 *2024-08-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199932) · `si`
 
-එළඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (14) පස්වරුවේ සිය නාමයෝජනා පත්‍රයට අත්සන් තැබීය.
+President Ranil Wickremesinghe submitted his nomination papers on April 14th to run in the upcoming presidential election.
+
+🟩
+
+President Ranil Wickremesinghe signed his nomination papers today (14) to contest the next presidential election.
 
 ◼️
 
 [Data](articles/d39ea49d.json)
 
+[Extended Data](ext_articles/d39ea49d.ext.json)
+
 ---
 
-### விபத்தில் குழந்தை பலி;12 பேருக்கு காயம்
+### Child killed in accident; 12 injured
 
 *2024-08-14 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குழந்தை-பலி-12-பேருக்கு-காயம்/175-342167) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் எல்பிட்டிக்கு அருகில் இன்று காலை இடம்பெற்ற விபத்தில் 2 வயது குழந்தை உயிரிழந்துள்ளதுடன் 12 பேர் காயமடைந்துள்ளனர்.
+In a tragic accident near Elpitiya on the Southern Highway, a 2-year-old child was killed and 12 others, including three children, were injured. The incident happened when a vehicle's tire burst, causing it to crash into a security fence while en route from Mattala to Kottawa.
 
-மத்தலயில் இருந்து கொட்டாவ நோக்கி பயணித்த வாகனத்தின் டயர் வெடித்ததால் நெடுஞ்சாலையின் நடுவில் உள்ள பாதுகாப்பு வேலியில் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-விபத்தில் 3 குழந்தைகள் உட்பட 12 பேர் காயமடைந்துள்ளனர். காயமடைந்தவர்கள் எல்பிட்டிய வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில், கதிர்காமத்தைச் சேர்ந்த 2 வயது சிறுமி உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+A 2 -year -old child was killed and 12 others were injured in an accident this morning near Elpitiya on the Southern Highway.
+
+The accident occurred when the tire of the vehicle traveling from Mattala to Kottawa crashed into a security fence in the middle of the highway.
+
+12 people, including 3 children in an accident, were injured. A 2 -year -old girl from Kadirgama has died after being taken to Elpitiya Hospital.
 
 ◼️
 
 [Data](articles/519eb7d0.json)
 
+[Extended Data](ext_articles/519eb7d0.ext.json)
+
 ---
 
-### வேட்பு மனுவில் கையொப்பமிட்டார் ஜனாதிபதி
+### අවුරුදු 05කට රට භාර ගන්න අ​පේක්ෂකයන් 40ක් ඇප තියයි
+
+*2024-08-14 15:09:44* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-05කට-රට-භාර-ගන්න-අ​පේක්ෂකයන්-40ක්-ඇප-තියයි/11-411370) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 40 දෙනෙකු ඇප තැන්පත් කර ඇති බව මැතිවරණ කොමිෂණ් සභාව අද(14දා) සඳහන් කළේය.
+
+◼️
+
+[Data](articles/0050204b.json)
+
+---
+
+### The president signed the nomination
 
 *2024-08-14 15:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-கையொப்பமிட்டார்-ஜனாதிபதி/175-342166) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கான வேட்பு மனுவில் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் கையொப்பமிட்டார்.
+President Ranil Wickremesinghe nominated himself for the upcoming presidential election, signing the papers at his office in Colombo.
 
-இது தொடர்பான  நிகழ்வு  கொழும்பு பிளவர் வீதியிலுள்ள அவரது அரசியல் அலுவலகத்தில் இடம்பெற்றது.
+🟩
+
+President Ranil Wickremesinghe signed a nomination papers to contest the upcoming presidential election.
+
+The event took place at his political office at Belver Road, Colombo.
 
 ◼️
 
 [Data](articles/d511fa4c.json)
 
+[Extended Data](ext_articles/d511fa4c.ext.json)
+
 ---
 
-### තායිලන්ත අගමැතිව ධුරයෙන් ඉවත් කිරීමට අධිකරණ නියෝගයක්
+### Court order to remove Thai Prime Minister
 
 *2024-08-14 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199930) · `si`
 
-තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් ව ධුරයෙන් ඉවත් කිරීමට එරට අධිකරණයක් නියෝග කර තිබේ.
+Thai PM Secreta ousted over hiring jailed lawyer linked to judge bribery. Current cabinet continues till new PM named by Parliament.
 
-ඒ, එරට විනිසුරුවරයෙකුට අල්ලස් දීමට තැත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සිරගතව නිදහස් වූ නීතිඥවරයෙකු කැබිනට් අමාත්‍යවරයෙකු ලෙස පත් කිරීම හේතුවෙනි.
+🟩
 
-පාර්ලිමේන්තුවෙන් නව අගමැතිවරයෙක් පත් කරන තුරු වත්මන් කැබිනට් මණ්ඩලය ක්‍රියාත්මක වන බවද වාර්තා වෙයි.
+Thailand Prime Minister Secrete has been ordered to be removed from the post.
+
+It was due to appointing a prison lawyer who was imprisoned as a prison in connection with an attempt to bribery a judge.
+
+It is reported that the current Cabinet is operating until a new Prime Minister is appointed by Parliament.
 
 ◼️
 
 [Data](articles/746e22e1.json)
+
+[Extended Data](ext_articles/746e22e1.ext.json)
 
 ---
 
@@ -435,6 +485,20 @@ Accordingly, the second schools in these schools will end on Friday 16th August.
 [Data](articles/9db753d3.json)
 
 [Extended Data](ext_articles/9db753d3.ext.json)
+
+---
+
+### 9වැනි ජනාධිපතිවරණය - තීරණාත්මක දෙවැනි මනාපය ?
+
+*2024-08-14 13:32:00* · [`adalk`](https://www.ada.lk/opinion/9වැනි-ජනාධිපතිවරණය---තීරණාත්මක-දෙවැනි-මනාපය--/2-411369) · `si`
+
+සති ගණනාවක් පුරා පැතිර ගිය අනාවැකි සහ කටකතාවලට තිත තබමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ස්වාධීන අපේක්ෂකයෙකු ලෙසද, නාමල් රාජපක්ෂ මහතා ශ්‍රී ලංකා පොදුජන පෙරමුණ (SLPP) අපේක්ෂකයෙකු ලෙසද සැප්තැම්බර් 21වැනිදා පැවැත්වීමට නියමිත ජනාධිපතිවරණයට ඉදිරිපත් වන බව නිවේදනය කළේ එය සිවුකොන් තරගයක් බවට පත් කරමිනි. සමගි ජන බලවේගයේ (SJB) සජිත් ප්‍රේමදාස, ජාතික ජන බලවේගයේ (JJB) අනුර කුමාර දිසානායක අනෙක් ප්‍රමුඛ අපේක්ෂකයන් දෙදෙනාය.
+
+ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා, විජයදාස රාජපක්ෂ , දිලිත් ජයවීර සහ තවත් අපේක්ෂකයන් රැසක් තරග බිමේ සිටියද ප්‍රධාන තරගය වනුයේ ඉහත කී අපේක්ෂකයන් හතරදෙනා අතරය.
+
+...
+
+[Data](articles/7e56fc2c.json)
 
 ---
 
@@ -2139,85 +2203,5 @@ President Ranil Wickremesinghe made this statement by participating in the openi
 [Data](articles/537d4b73.json)
 
 [Extended Data](ext_articles/537d4b73.ext.json)
-
----
-
-### The bail deposits ends this afternoon
-
-*2024-08-14 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199909) · `si`
-
-Bail deposits conclude today, with the presidential election deposit deadline also set for completion. The Elections Commission reports 36 payments made, including 19 recognized political parties and one other, with 16 independents ready for the next election. Nominations close at 9 am tomorrow, accompanied by a special security plan for the election office.
-
-🟩
-
-The deposit of the presidential election is due to be completed today (14).
-
-The Elections Commission states that 36 people have been paid to the presidential election.
-
-The Elections Commission states that 19 recognized political parties and another political party are among them.
-
-As independent candidates, 16 people have already deposited money for the next presidential election.
-
-Nominations will be taken up to 11 am tomorrow (15) at 9am.
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara stated that a special security program is also planned to implement a special security program in the election office on the date of acceptance.
-
-◼️
-
-[Data](articles/a6e38195.json)
-
-[Extended Data](ext_articles/a6e38195.ext.json)
-
----
-
-### Sri Lanka positive growth momentum to continue: CB Governor
-
-*2024-08-14 07:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-positive-growth-momentum-to-continue-cb-governor-176689/) · `en`
-
-ECONOMYNEXT – There are clears signs in leading indicators that Sri Lanka’s positive growth seen in the early part of 2024 will continue, with low inflation and the exchange rate also stable, Central Bank Governor Nandalal Weerasinghe said.
-
-In the first quarter of 2024 Sri Lanka’s economy grew 5.3 percent, according to an estimate by the state statistics office.
-
-“Subsequent to the strong positive growth in the first part of this year, leading indicators point to a continuation of this positive growth momentum during the of the remainder this year,” Governor Weerasinghe told participants of an  international forum organized by the Insurance Association of Sri Lanka.
-
-“External sector stability has been restored to a great extent.”
-
-Sri Lanka started to show positive growth with inflation falling and the exchange rate ‘broadly stable’ which has also allowed the central bank to lower policy rates.
-
-During the last currency crisis, the insurance sector also suffered, he said.
-
-...
-
-[Data](articles/e416fa0e.json)
-
-[Extended Data](ext_articles/e416fa0e.ext.json)
-
----
-
-### Estate employee salary is issued Rs. 1,700
-
-*2024-08-14 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199908) · `si`
-
-A gazette notification has been issued, signed by Mr. Jayasundera, detailing staff pay adjustments including a daily wage increase for tea and rubber plantation workers to Rs. 1,700, with additional productivity incentives. The Chairman of the Pay of Staff, K.K.A., and the Stable Control Chairman have endorsed these changes, aiming to address concerns raised by protesters.
-
-🟩
-
-The gazette notification has been issued to cover Rs. 1,700.
-
-Chairman of the Pay of Staff. K. K. A. The gazette notification has been issued with the signature of Mr. Jayasundera.
-
-The gazette notification stated that the daily wage of a tea plantation worker should be carried out subject to Employees Provident Fund and Employees' Trust Fund Payments.
-
-In addition, a sum of Rs. 350 is Rs. 350 as a productivity based incentive.
-
-The gazette notification stated that the daily wage of rubber plantation should be increased to Rs 1,700.
-
-The Chairman of the Stabile Control will further stated in the gazette notification to direct the protesters on these proposals.
-
-◼️
-
-[Data](articles/5517cfe7.json)
-
-[Extended Data](ext_articles/5517cfe7.ext.json)
 
 ---

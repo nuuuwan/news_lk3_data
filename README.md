@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 12:54:32**
+As of **2024-08-14 13:06:06**
 
 ## Newspaper Stats
 
-*Scraped **40,676** Articles*
+*Scraped **40,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,112 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,741
 dailymirrorlk | 4,733
-adaderanalk | 4,742
+adaderanalk | 4,743
 tamilmirrorlk | 5,185
 virakesarilk | 6,439
-adaderanasinhalalk | 6,915
+adaderanasinhalalk | 6,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,673 (100.0%) of 40,676 articles have been extended.
+40,676 (100.0%) of 40,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### கொன்று பலாத்காரம்: தூங்கி எழுந்து துணி துவைத்த கொலையாளி
+### Special announcement from Commissioner General of Elections
+
+*2024-08-14 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/101229/special-announcement-from-commissioner-general-of-elections) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, has stated that persons with disabilities can use the temporary ID card issued to them when voting in the upcoming presidential election.
+
+He made these remarks while speaking to the media today (14).
+
+The 2024 presidential election is scheduled to be held on September 21.
+
+When asked what document must be produced to verify the identity of voters, he responded:
+
+“A valid national identity card, a valid driver’s license, or a valid passport; an elderly identity card issued by the Department of Social Services; or a pensioner’s identity card issued by the Department of Pensions. Additionally, the identity card issued by the Department of Registration of Persons to Reverend Priests is acceptable. For those who do not have any of these, they can go to the election office with their Grama Niladhari officers and obtain a temporary ID card.
+
+...
+
+[Data](articles/cfd793fc.json)
+
+---
+
+### 2024 ජනාධිපතිවරණය: ඇප මුදල් භාරගැනීම අවසන්
+
+*2024-08-14 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199923) · `si`
+
+2024 ජනාධිපතිවරණයට අදාළ ඇප මුදල් භාර ගැනීමේ කටයුතු අද (14) දහවල් අවසන් වුණි.
+
+මැතිවරණ කොමිෂන් සභාව සඳහන් කළේ මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා අපේක්ෂකයින් 38 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බවයි.
+
+පිළිගත් දේශපාලන පක්ෂ 20ක් සහ වෙනත් දේශපාලන පක්ෂයක් සහ ස්වාධීන අපේක්ෂකයින් ලෙස පුද්ගලයින් 17 දෙනෙකු ඉදිරි ජනාධිපතිවරණය සඳහා අද (14) දහවල් වන විට ඇප මුදල් තැන්පත් කර තිබුණි.
+
+ජනාධිපතිවරණයට අදාළව ඇප මුදල් භාර ගැනීමේ කටයුතු ජුලි මස 26වන දින ආරම්භ වු අතර එය මධ්‍යාහ්න 12ට අවසන් කෙරුණි.
+
+මේ අතර ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද විමසීමේ දින මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත් කළේය.
+
+එම කොමිසම නිවේදනය කර ඇත්තේ සැප්තැම්බර් 4, 5 ,6 යන තෙදින තැපැල් ඡන්ද සලකුණු කිරීම සඳහා පහසුකම් සලසන බවයි.
+
+සැප්තැම්බර් 4 වනදා දිස්ත්‍රික් ලේකම් කාර්යාල සහ මැතිවරණ ලේකම් කාර්යාල සහ පොලීයේ සේවයේ නියුතු අය සඳහා තැපැල් ඡන්ද සලකුණු කිරීමට පහසුකම් සැපයෙයි.
+
+සලකුණු නොකර ලද තැපැල් ඡන්ද පත්‍රිකා සලකුණු කිරීම සඳහා නැවත සැප්තැම්බර් 11 සහ 12 යන දිනයන්හි අවස්ථාව ලබාදෙන බවද මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+...
+
+[Data](articles/7290549b.json)
+
+---
+
+### Killing
 
 *2024-08-14 12:19:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொன்று-பலாத்காரம்-தூங்கி-எழுந்து-துணி-துவைத்த-கொலையாளி/175-342156) · `ta`
 
-மிக கொடூரமான முறையில் வைத்திய பெண்ணை கொலை செய்த கொலையாளி, நன்றாக தூங்கி எழுந்து துணிகளை துவைத்து காய போட்டுவிட்டு, பணிக்குச் சென்றுள்ளார். ஆனால், அவர் ஒன்றை மட்டும் கழுவ மறந்தமையால் மாட்டிக்கொண்டார்.
+A female doctor was brutally murdered in Kolkata, her body discovered in a seminar hall at the Government Hospital where she studied. The suspect, identified as Sanjay Roy, a volunteer at the hospital, was caught on CCTV entering and leaving the scene around the time of the murder. He was arrested after evidence linked him to the crime, including a missing Bluetooth headset and bloodstains on his shoes. The case has sparked outrage, leading to protests and strikes by doctors nationwide, and a petition for the case to be transferred to the Central Intelligence Unit.
 
-கொல்கத்தா பெண் டாக்டர் கொலையில், அடுத்தடுத்த தகவல்கள் வெளிவந்தவாறே உள்ளன. இது தொடர்பான விசாரணையும் நடந்து கொண்டிருக்கிறது. கொல்கத்தாவில் உள்ள அரசு மருத்துவமனையில் இரண்டாம் ஆண்டு முதுநிலை மருத்துவம் பயின்று வந்துள்ளார் அந்த பெண் டாக்டர். 2 நாட்களுக்கு முன்பு, அதே மருத்துவமனையின் 3வது மாடியிலுள்ள கருத்தரங்கு அரங்கில் பிணமாக மீட்கப்பட்டார். அன்றைய தினம் நைட் டியூட்டியில் இருந்தபோது, இவரை பலாத்காரம் செய்து கொலை செய்திருக்கிறார்கள்.
+🟩
 
-மருத்துவமனையில் மாணவர்களுக்கென தனி ஓய்வுஅறை இல்லாததால் மருத்துவமனையின் நான்காவது மாடியில் உள்ள செமினார் ஹாலுக்கு ஓய்வெடுக்க சென்றுள்ளார்.  ஆனால், காலை நீண்ட நேரமாகியும் அவர் திரும்பி வராததால் மற்ற மாணவர்கள் அவரைத் தொடர்புகொள்ள முயற்சித்தும் முடியாமல் போனது. அதனால், சகமாணவர் ஒருவர் அவரைத்தேடி செமினார் ஹாலுக்கு சென்றபோதுதான், பிணமாக கிடக்கும் மாணவியை கண்டு அலறியுள்ளனர்.
+The murderer who murdered a doctor in a horrific manner, sleeps well and washed her clothes and went to work. But he was trapped because he had forgotten to wash alone.
+
+In the murder of Kolkata female doctor, subsequent reports are revealed. Investigations are ongoing. The second year of Masters at the Government Hospital in Kolkata. 2 days ago, the corpse was recovered at the seminar at the 3rd floor of the same hospital. When he was in Night Tuti that day, he was raped and murdered.
+
+Since the hospital students have no rest, she has gone to the Seminar Hall on the fourth floor of the hospital.But the other students could not try to contact him because he did not return in the morning. So, when a fellow man went to the seminar hall, they screamed at the corpse.
+
+Female doctor is lying half -naked in a flood. After that, the police seized the body and sent it to the Post Mart. Sanjay Roy has been arrested by 3 separate units in this regard.
 
 ...
 
 [Data](articles/ee7b7b75.json)
 
+[Extended Data](ext_articles/ee7b7b75.ext.json)
+
 ---
 
-### விஜேதாசவை கைவிட்டு பிரிதொரு தரப்புடன் இணைய தயாராகும் மைத்திரி - அமைச்சர் மஹிந்த அமரவீர
+### Maithri - Minister Mahinda Amaraweera
 
 *2024-08-14 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/191067) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் முன்னாள் தலைவர் மைத்திரிபால சிறிசேன, விஜேதாச ராஜபக்ஷவை கைவிட்டு பிரிதொரு தரப்புடன் இணையவுள்ளார். அவர் கட்சியையும் சீரழித்து இறுதியில் விஜேதாச ராஜபக்ஷவையும் நெருக்கடிக்கு உள்ளாக்கியுள்ளதாக விவசாயத்துறை அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Maithripala Sirisena, ex-President of SLFP, left Wijedasa Rajapaksa, leading to party crises, according to Agriculture Minister Mahinda Amaraweera. He criticized Sirisena for damaging the party during a press conference at President Ranil Wickremesinghe's office. Amaraweera emphasized the importance of fulfilling campaign promises and urged voters not to be misled by false promises. He predicted President Wickremesinghe's victory in the upcoming elections, stating that only two main candidates would succeed, while others might lose due to vote splitting or affiliations with other parties.
 
-பம்பலப்பிட்டி லோரிஸ் வீதியில் அமைந்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசியல் அலுவலகத்தில் திங்கட்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-எமது அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுள்ள வேலைத்திட்டங்கள் தொடர்பில் எவருக்கும் குறை கூறிக் கொண்டிருக்க முடியும். ஆனால் அவற்றை அவர்களால் முறையாக முன் கொண்டு செல்ல முடியாது. எதிர்க்கட்சிகள் எமது வேலைத்திட்டத்தை ஆதரிக்காவிட்டாலும், அவற்றை சீர்குலைக்கும் வகையில் செயற்படாமல் இருந்திருக்கலாம்.
+Former President of the Sri Lanka Freedom Party (SLFP) Maithripala Sirisena abandoned Wijedasa Rajapaksa. Agriculture Minister Mahinda Amaraweera said that he has degraded the party and eventually in crisis.
+
+He further stated at a press conference held on Monday (12) at President Ranil Wickremesinghe's political office located on Loris Road, Bambalapitiya.
+
+Anyone can criticize the programs implemented by our government. But they cannot be carried out properly. Even if the opposition parties do not support our program, they may not have been acting in disrepair.
+
+Therefore, people should not be deceived by relying on false promises. But people are now directly aware that President Ranil Wickremesinghe's promises are fulfilled. The people of the country will not vote for the loser, not the winner of the election.
 
 ...
 
 [Data](articles/e23d53cf.json)
+
+[Extended Data](ext_articles/e23d53cf.ext.json)
 
 ---
 
@@ -130,19 +192,25 @@ He has said that even if he resigned from the party's leadership and the prime m
 
 ---
 
-### “ பிரதமர் பதவியிலிருந்து ஃபுமியோ கிஷிடா விலக முடிவு ”
+### "Fumio Kishida decided to resign from Prime Minister"
 
 *2024-08-14 11:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-பதவியிலிருந்து-ஃபுமியோ-கிஷிடா-விலக-முடிவு/50-342154) · `ta`
 
-ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலக முடிவு செய்துள்ளதாக ஜப்பானிய பிரதமர் ஃபுமியோ கிஷிடா , டோக்கியோவில் நடைபெற்ற ஊடக சந்திப்பொன்றின் போது கூறியுள்ளார்
+Fumio Kishida announced his resignation as Japan's Prime Minister, stating he won't seek re-election as the Liberal Democratic Party's leader. Despite stepping down, he assures support from both the party and its new leader.
 
-ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் புதிய தலைவரை தேர்ந்தெடுப்பதற்கான தேர்தல் செப்டம்பரில் நடாத்த உள்ள நிலையில் பிரதமர் கிஷிடா மீண்டும் கட்சித் தலைவர் பதவியை எதிர்பார்க்கவில்லை என்று தெளிவுபடுத்தியுள்ளார்.
+🟩
 
-கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலகினாலும், கட்சிக்கும், கட்சியின் புதிய தலைவருக்கும் முழு ஆதரவு வழங்குவதாகவும் அவர் கூறியுள்ளார் .
+Japanese Prime Minister Fumio Kishita said during a media briefing in Tokyo
+
+Prime Minister Kishida has made it clear that the party is not expected to be the party leader again as the election to elect the new leader of the ruling Liberal Democratic Party in September.
+
+He has said that even if he resigned from the party's leadership and the prime ministerial post, the party and the new leader of the party are fully supportive.
 
 ◼️
 
 [Data](articles/8513ce06.json)
+
+[Extended Data](ext_articles/8513ce06.ext.json)
 
 ---
 
@@ -2153,51 +2221,5 @@ In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to
 [Data](articles/a1b8b668.json)
 
 [Extended Data](ext_articles/a1b8b668.ext.json)
-
----
-
-### Assembly Payment for Separate Families living in the Plantation areas - Cabinet approval for the President's idea
-
-*2024-08-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191010) · `ta`
-
-Cabinet approves welfare payments for plantation workers living in shared Lion Rooms, aiming to address the unique challenges faced by families in these conditions. The decision follows the President's directive to consider actual family sizes when distributing benefits under the Welfare Benefits Act of 2022.
-
-🟩
-
-It has been decided to provide welfare payments for plantation workers who live in Lion Rooms in the plantation areas. Cabinet spokesman Bandula Gunawardena said that the Cabinet has approved the decision to provide these allowance to sub -families living in the same house.
-
-He further stated that the weekly press conference to announce the Cabinet resolutions was held on Tuesday (13).
-
-The Welfare Benefits Council is currently implementing the Aswesa Welfare Program. Beneficiaries for the project of the year 2002 are selected for the plan of the year 2002, which is prepared for the provisions of the Welfare Benefits Act of 2022.
-
-Persons or families who meet the qualifications mentioned in those regulations will receive the benefits of getting the benefits. Due to the lack of separate houses in the plantation sector, the individual families of the plantation workers collectively live in the same Layin homes.
-
-...
-
-[Data](articles/fd7502b8.json)
-
-[Extended Data](ext_articles/fd7502b8.ext.json)
-
----
-
-### If the country is to be good, the people should decide to make Ranil Wickremesinghe President - Anandakumar
-
-*2024-08-13 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191019) · `ta`
-
-Anandakumar urges voters to elect Ranil Wickremesinghe as President for Sri Lanka's prosperity, highlighting his leadership during economic crises and recovery efforts.
-
-🟩
-
-President Ranil Wickremesinghe must win if the future of the country is to flourish. If Ilvitt, the country will go back to the old position. President's union organizer Subbaiah Anandakumar said the people should realize this.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
-
-In the 2019 parliamentary elections, the United National Party's election manifesto is clearly stated on the country's economic status and the impact of the country if it fails to take necessary steps to build the economy.. We made clear these issues during the election campaigns. People don't believe what we said that day. Finally the country reached the bank.
-
-...
-
-[Data](articles/6a32d8d6.json)
-
-[Extended Data](ext_articles/6a32d8d6.ext.json)
 
 ---

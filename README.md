@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 13:36:26**
+As of **2024-08-14 13:56:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,918
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,679 (100.0%) of 40,684 articles have been extended.
+40,684 (100.0%) of 40,684 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,61 +54,81 @@ Accordingly, 37 complaints related to election law violations and 03 other compl
 
 [Data](articles/5828ee29.json)
 
+[Extended Data](ext_articles/5828ee29.ext.json)
+
 ---
 
-### ஜனக்கவுக்கான கட்டுப்பணம் செலுத்தப்பட்டது
+### The control was paid for the Janaka
 
 *2024-08-14 13:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக்கவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342157) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் (PUCSL) முன்னாள் தலைவர் ஜனக ரத்நாயக்கவுக்கு கட்டுப்பணம் செலுத்தப்பட்டுள்ளது.
+Janaka Ratnayake, former PUCSL president, cannot run in the 2024 Sri Lankan presidential election due to a bond issue. Party secretary Nihal Premakumara Deshapriya submitted the bond at the National Elections Commission on behalf of Ratnayake.
 
-கட்சியின் செயலாளர் நிஹால் பிரேமகுமார தேசப்பிரிய இன்று தேசிய தேர்தல்கள் ஆணைக்குழுவில் ஜனக ரத்நாயக்கவின் சார்பில் பத்திரத்தை கையளித்தார்.
+🟩
+
+Former President of the Sri Lanka Public Utilities Commission (PUCSL) has been restricted to contesting the 2024 presidential election.
+
+Party secretary Nihal Premakumara Deshapriya handed over the bond on behalf of Janaka Ratnayake at the National Elections Commission today.
 
 ◼️
 
 [Data](articles/2e4c2c01.json)
 
+[Extended Data](ext_articles/2e4c2c01.ext.json)
+
 ---
 
-### ජනාධිපතිවරණයට අපේක්ෂකයින් 40ක්
+### 40 candidates for presidential election
 
 *2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199925) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 40 දෙනෙකු සඳහා ඇප තැන්පත් කර තිබේ.
+40 candidates have been nominated for the 2024 presidential election, with deposit payments made from July 26 to August 14. The nomination acceptance process will occur on August 15 at the Elections Commission, which has declared the area a special security zone during this period.
 
-ජනාධිපතිවරණයට අදාළව ඇප මුදල් භාර ගැනීමේ කටයුතු ජූලි මස 26වන දින ආරම්භ වු අතර එය අද (14) මධ්‍යාහ්න 12ට අවසන් කෙරුණි.
+🟩
 
-2024 ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාර ගැනීම හෙට (15) පෙරවරු 9 සිට 11 දක්වා මැතිවරණ කොමිෂන් සභාවේදී සිදු කෙරේ.
+The 2024 deposits were placed on 40 candidates for the presidential election.
 
-එම කාලසීමාව ඇතුළත මැතිවරණ කොමිෂන් සභාව පිහිටි සරණ මාවත ආශ්‍රිත ප්‍රදේශය විශේෂ ආරක්ෂක කලාපයක් ලෙස ප්‍රකාශයට පත්කර ඇති අතර, ඒ ආශ්‍රිත මාර්ගවල විශේෂ රථවාහන සැලැස්මක් ද ක්‍රියාත්මකය.
+The bailout of the presidential election began on July 26, completed today (14).
+
+The acceptance of nominations pertaining to the Presidential election will take place tomorrow (15) at the Elections Commission.
+
+The area is announced as a special security zone, located in the Election Commission within the time period.
 
 ◼️
 
 [Data](articles/09dfc51a.json)
 
+[Extended Data](ext_articles/09dfc51a.ext.json)
+
 ---
 
-### අනුර ප්‍රියදර්ශන ගේ නායකත්වයෙන් එන අලුත් සන්ධානය
+### Alliance coming from the leadership of Anura Priyadarshana
 
 *2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199924) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය හා නව සන්ධානය අද (14) පොදුජන එක්සත් පෙරමුණ ලෙස සන්ධානගත වුණි.
+Anura Priyadarshana Yapa leads the General United Front, an alliance between the Sri Lanka Freedom Party and the New UPFA. Lasantha Alagiyawanna serves as its treasurer and general secretary. The alliance includes several other parties and groups, with Nimal Lansa among them. A leadership council headed by Nimal Siripala de Silva and comprising 21 members of the SLFP has been formed. This coalition aims to compete in upcoming elections.
 
-එහි නායකත්වය හිමිව ඇත්තේ  හිටපු අමාත්‍ය අනුර ප්‍රියදර්ශන යාපා මහතාට ය.
+🟩
 
-එහි මහ ලේකම් ලෙස ලසන්ත අලගියවන්න මහතා ද භාණ්ඩාගාරික ලෙස චාමර සම්පත් මහතාද පත්කර තිබුණි.
+The Sri Lanka Freedom Party and the New UPFA were allied as the General United Front.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය, නිමල් ලන්සා ඇතුළු මන්ත්‍රීවරුන්ගෙන් සැදුම්ලත් නව සන්ධානය සහ තවත් පක්ෂ සහ කණ්ඩායම් කිහිපයක් එක්ව පොදුජන එක්සත් පෙරමුණ ලෙස සන්ධානගත වීම අද (14) කොළඹදී සිදුවුණි.
+Former Minister Anura Priyadarshana Yapa has been captained its leadership.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික, රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් මෙහිදී එම සන්ධානයේ තනතුරු ප්‍රකාශයට පත් කරනු ලැබීය.
+Lasantha Alagiyawanna was also appointed as Treasurer as its general secretary.
 
-එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ඇතුළු 21 දෙනෙකුගෙන් යුත් නායකත්ව මණ්ඩලයක් ද එම සන්ධානය වෙනුවෙන් පත් කර තිබේ.
+The UPFA and several other parties and groups, including the Sri Lanka Freedom Party, Nimal Lansa, was partnered by several other parties and groups in Colombo today (14).
 
-නව සන්ධානය පුටුව ලකුණ යටතේ ඉදිරි මැතිවරණ සදහා තරග කිරීමට නියමිත ය.
+The Alliance (SLFP) Treasurer, State Minister Lasantha Alagiyawanna was published by Hon.
+
+The Alliance has also appointed a leadership council of Nimal Siripala de Silva and 21 members of the SLFP.
+
+The new alliance is to contest for the post elections under the chair.
 
 ◼️
 
 [Data](articles/82e6914f.json)
+
+[Extended Data](ext_articles/82e6914f.ext.json)
 
 ---
 
@@ -350,15 +370,21 @@ Meanwhile, the time to control the candidates will be completed today (14) at 12
 
 ---
 
-### නිලතල හිමිවූ අලුත්ම පිරිස මෙන්න
+### Here are the new crowd
 
 *2024-08-14 11:35:01* · [`adalk`](https://www.ada.lk/breaking_news/නිලතල-හිමිවූ-අලුත්ම-පිරිස-මෙන්න/11-411367) · `si`
 
-නව තානාපතිවරයන් හය දෙනෙක්, මහ කොමසාරිස්වරයෙක්, අමාත්‍යාංශ ලේකම්වරුන්  දෙදෙනෙක්  සහ ව්‍යවස්ථාපිත ආයතන සභාපතිවරයෙක් පත්කිරීමට පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවේ නිර්දේශය ලබා දී තිබේ.
+The Committee on the High Courts in Parliament has recommended the appointment of six new ambassadors and a High Commissioner. This decision involves two Ministries and Statutory Institutions.
+
+🟩
+
+Six new ambassadors, High Commissioner, a High Commissioner, has been given the recommendation of the Committee on the High Courts in Parliament to appoint two Ministries and Statutory Institutions.
 
 ◼️
 
 [Data](articles/513e813a.json)
+
+[Extended Data](ext_articles/513e813a.ext.json)
 
 ---
 

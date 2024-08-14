@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 19:36:37**
+As of **2024-08-14 19:55:13**
 
 ## Newspaper Stats
 
-*Scraped **40,743** Articles*
+*Scraped **40,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,749
 dailymirrorlk | 4,733
-adaderanalk | 4,755
+adaderanalk | 4,756
 tamilmirrorlk | 5,197
 virakesarilk | 6,453
-adaderanasinhalalk | 6,933
+adaderanasinhalalk | 6,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,741 (100.0%) of 40,743 articles have been extended.
+40,743 (100.0%) of 40,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### බංග්ලාදේශ භාරකාර රජයේ  ප්‍රධානියාට ජනපති දුන් ඇමතුම
+
+*2024-08-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199943) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බංග්ලාදේශ භාරකාර රජයේ ප්‍රධානියා වන මුහම්මද් යුනුස් මහතාට දුරකථනයෙන් අමතා සිය සුබ පැතුම් පිරිනමා තිබේ.
+
+බංග්ලාදේශයේ නීතිය හා සාමය රැකීමට භාරකාර රජයේ ප්‍රධානියා ට හැකිවනු ඇතැයි තමන් විශ්වාස කරන බව ජනාධිපතිවරයා එහිදී පවසා ඇත.
+
+එමෙන්ම බංග්ලාදේශයේ සිටින ශ්‍රී ලාංකික ආයෝජකයින්ට අඛන්ඩව එහි රැඳී සිටිමින් සිය ආයෝජන කටයුතු සිදුකරන ලෙස තමා දැනුම් දුන් බවද ජනාධිපතිවරයා යූනුස් මහතා ට පවසා තිබේ.
+
+ජනාධිපතිවරයා මෙහිදී පවසා ඇත්තේ බංග්ලාදේශයට ආර්ථික වශයෙන් දියුණු වීමට ශ්‍රී ලංකාවට ලබා දිය හැකි සෑම උපකාරයක්ම සිදුකරන බවයි.
+
+මෙහිදි අදහස් දක්වමින් බංග්ලාදේශ ප්‍රධානියා ජනාධිපතිවරයාගේ සුබ පැතුමට ස්තූතිය පළ කර ඇති අතර අවස්ථාවක් ලද විගස බංග්ලාදේශ‍යට පැමිණ රට යථා තත්ත්වය ට පත් කිරීම සඳහා අවශ්‍ය මග පෙන්වීම කරන ලෙසත් ජනාධිපතිවරයාගෙන් ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/c1cd1dab.json)
+
+---
+
+### President phones Dr. Yunus, pledges Sri Lanka’s support to Bangladesh’s recovery
+
+*2024-08-14 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101242/president-phones-dr-yunus-pledges-sri-lankas-support-to-bangladeshs-recovery) · `en`
+
+In a telephone conversation, President Ranil Wickremesinghe has offered his warm congratulations to Nobel Peace Prize laureate Dr. Muhammad Yunus, who was recently sworn in as the head of Bangladesh’s interim government.
+
+The President has also reportedly stated that he is confident that Dr. Yunus will be able to maintain law and order in Bangladesh.
+
+President Wickremesinghe has informed the new Chief Adviser of the interim government of Bangladesh that he will request the Sri Lankan investors in Bangladesh to continue to stay there and carry on with investment activities.
+
+The President has also pledged that Sri Lanka will provide assistance in every possible way for Bangladesh to develop economically.
+
+Chief Adviser of Bangladesh’s interim government, who has expressed his gratitude for the Sri Lankan President’s greetings, has requested President Wickremesinghe to visit Bangladesh at the earliest opportunity and to provide the necessary guidance for the recovery of the country.
+
+...
+
+[Data](articles/00828cbd.json)
+
+---
 
 ### Ranil to support Athaullah
 
@@ -70,17 +110,23 @@ Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawe
 
 ---
 
-### ඉහළට ගිය පැතුම
+### The long wish
 
 *2024-08-14 18:39:54* · [`adalk`](https://www.ada.lk/sports/ඉහළට-ගිය-පැතුම/9-411374) · `si`
 
-ශ්‍රී ලංකා ආරම්භක පිතිකරු පැතුම් නිශ්ශංක එක්දින පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී ඉදිරියට පැමිණ තිබේ.
+Nissanka, Sri Lanka's opening batsman, moves up to the ODI team, shifting his base to the 8th position.
 
-ඒ අනුව 08 වැනි ස්ථානය දක්වා ස්ථානයකින් ඔහු ඉදිරියට පැමිණ ඇත.
+🟩
+
+Sri Lanka Opening batsman, Nissanka, has been prowarded to the ODI batsmen.
+
+Accordingly, he has come forward from a location to 08th.
 
 ◼️
 
 [Data](articles/c4efc248.json)
+
+[Extended Data](ext_articles/c4efc248.ext.json)
 
 ---
 
@@ -516,23 +562,29 @@ The police announced that a special traffic plan is being implemented from 8 am 
 
 ---
 
-### 11වැනිදා නිවසින් අතුරුදන්වූ මදුෂාන් කොත්මලේ ජලාශයට ආවේ කොහොමද ?
+### How did Madushan Kotmale reservoir have gone missing from home on the 11th?
 
 *2024-08-14 16:07:54* · [`adalk`](https://www.ada.lk/breaking_news/11වැනිදා-නිවසින්-අතුරුදන්වූ-මදුෂාන්-කොත්මලේ-ජලාශයට-ආවේ-කොහොමද--/11-411372) · `si`
 
-නිවසින් අතුරුදහන්ව සිටි තරුණයෙකුගේ මළ සිරුර ඉහල කොත්මලේ ජලාශයේ පාවෙමින් තිබියදි (14) දින සොයා ගත් බව තලවකැලේ පොලිසිය පැවසිය.
+Madushan Kotmale, a 24-year-old, went missing from his home on November 11th. His body was later discovered in the upper Kotmale reservoir. The Talawakele police received a complaint about his disappearance and identified the body through a testament brought by relatives. The case is now under investigation by the Colombo district's forensic medical examiner and the Nuwara Eliya Magistrate.
 
-මෙසේ සොයා ගනු ලැබුවේ තලවකැලේ වත්තේ ඉහල කොටසේ පදිංචිව සිටි එස්. මදුෂාන් නැමැති 24 හැවිරිදි තරුණයාගේ සිරුරයි.
+🟩
 
-එම තරුණයා ඉකුත් (11) දින සිට නිවසින් අතුරුදහන් වි සිටන බවට එම තරුණයාගේ දෙමාපියන් විසින් තලවකැලේ පොලිසිට පැමිණිල්ලක්ද කර  තිබුණි.
+The body of a young man who was missing from the house was found in the upper Kotmale reservoir (14), the Talawakele police said.
 
-තලවකැලේ පුඩළුඔය මාර්ගයේ ජලාශය හරහා ඉදිකර තිබෙන පාලම යට නාදුනන පිරිම මල සිරුරක් පාවෙමින් තිබෙන බවට ප්‍රදේශවාසින් විසින් තලවකැලේ පොලිසිට වෙත  ලබා දුන් තොරතුරක් මත තලවකැලේ පොලිසිට විසින් සිරුර ගොඩ ගෙන පරික්ෂා කිරිමෙදි ඥාතින් විසින් සිරුර හදුනා ගෙන ඇත.
+The victim in the upper part of Talawakele estate. Madushan was the body of 24 year old youth.
 
-සිරුර සම්බන්ධයෙන් නුවරඑළිය මහේස්ත්‍රාත්වරයාගේ ස්ථාන පර්ක්ෂාවෙන් පසු   සිරුර පස්ශාත් මරණ පරික්ෂණය සදහ නුවරඑළිය දිස්ත්‍රික් මහ රොහලේ අධිකරණ වෛද්‍ය වරයා වෙත යොමු කරන බව තලවකැලේ පොලිසිය පැවසිය. ( I J)
+The young man had lodged a complaint with the Talawakele police that the young man had disappeared from the house from the day (11).
+
+The body has been identified by the relatives of Talawakele due to a testament that has been brought to Talawakele Police on information constructed by the Talawakele road.
+
+Talawakele Police said that the body of the Maha Death was forwarded to the forensic medical medical examination of the Colombo district for a cricket of the Nuwara Eliya Magistrate.. (I J)
 
 ◼️
 
 [Data](articles/32197dd7.json)
+
+[Extended Data](ext_articles/32197dd7.ext.json)
 
 ---
 
@@ -2181,47 +2233,5 @@ Meanwhile, Hashhan Tilakaratne, a former Sri Lankan cricketer, and his wife Apsz
 [Data](articles/9b99b420.json)
 
 [Extended Data](ext_articles/9b99b420.ext.json)
-
----
-
-### New laws to be introduced to combat underworld activities using advanced technology – President
-
-*2024-08-14 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101223/new-laws-to-be-introduced-to-combat-underworld-activities-using-advanced-technology-president) · `en`
-
-President Ranil Wickremesinghe emphasized that, following the establishment of law and order in July 2022, the citizens will have the opportunity to vote for a new President on September 21, 2024.
-
-The President also highlighted that it is the responsibility of himself as the President, the Election Commission and the Police Department to support free and independent elections by maintaining law and order in the country.
-
-President Ranil Wickremesinghe made this statement during the opening of the Special Operations Command of the Police Special Task Force in Sri Jayawardanepura, last afternoon (13).
-
-The President emphasized that following the Presidential Election on September 21, violence must be avoided, and urged everyone to act responsibly.
-
-President Ranil Wickremesinghe, upon arriving at the Special Operations Command in Sri Jayawardanepura, was warmly received with the Police Special Task Force Excellence Awards.
-
-...
-
-[Data](articles/0711f25c.json)
-
-[Extended Data](ext_articles/0711f25c.ext.json)
-
----
-
-### Ocean will be bailed on Namal
-
-*2024-08-14 10:10:50* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-වෙනුවෙන්-සාගර-ඇප-වෙයි/11-411363) · `si`
-
-Namal Rajapaksa, MP and son of former President Mahinda Rajapaksa, has been nominated as a candidate for the upcoming Presidential Election in Sri Lanka. The nomination was supported by Sagar Kariyawasam, Secretary General of the Sri Lanka General Front.
-
-🟩
-
-MP Namal Rajapaksa has deposited for the Presidential Election Candidate (14)
-
-The Secretary General of the Sri Lanka General Front Sagar Kariyawasam has been deposited.
-
-◼️
-
-[Data](articles/371d781f.json)
-
-[Extended Data](ext_articles/371d781f.ext.json)
 
 ---

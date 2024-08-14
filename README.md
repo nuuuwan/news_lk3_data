@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 12:10:19**
+As of **2024-08-14 12:21:12**
 
 ## Newspaper Stats
 
-*Scraped **40,663** Articles*
+*Scraped **40,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,625
 adalk | 3,741
 dailymirrorlk | 4,733
 adaderanalk | 4,742
-tamilmirrorlk | 5,180
+tamilmirrorlk | 5,183
 virakesarilk | 6,432
 adaderanasinhalalk | 6,914
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,659 (100.0%) of 40,663 articles have been extended.
+40,663 (100.0%) of 40,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### “ பிரதமர் பதவியிலிருந்து விலக முடிவு ”
+
+*2024-08-14 11:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-பதவியிலிருந்து-விலக-முடிவு/50-342154) · `ta`
+
+ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலக முடிவு செய்துள்ளதாக ஜப்பானிய பிரதமர் ஃபுமியோ கிஷிடா , டோக்கியோவில் நடைபெற்ற ஊடக சந்திப்பொன்றின் போது கூறியுள்ளார்
+
+ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் புதிய தலைவரை தேர்ந்தெடுப்பதற்கான தேர்தல் செப்டம்பரில் நடாத்த உள்ள நிலையில் பிரதமர் கிஷிடா மீண்டும் கட்சித் தலைவர் பதவியை எதிர்பார்க்கவில்லை என்று தெளிவுபடுத்தியுள்ளார்.
+
+கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலகினாலும், கட்சிக்கும், கட்சியின் புதிய தலைவருக்கும் முழு ஆதரவு வழங்குவதாகவும் அவர் கூறியுள்ளார் .
+
+◼️
+
+[Data](articles/191e27a5.json)
+
+---
 
 ### FR petition filed seeking court order to appoint Acting IGP
 
@@ -46,17 +62,41 @@ President Ranil Wickremesinghe and the Attorney General have been named as respo
 
 [Data](articles/0c2915ab.json)
 
+[Extended Data](ext_articles/0c2915ab.ext.json)
+
 ---
 
-### නැවැත්වූ බසය ඉදිරියෙන් පාර මාරුවීමට ගිය ඇයට අත්වූ ඉරණම
+### 15 நிமிடங்கள் மட்டுமே உள்ளன
+
+*2024-08-14 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-நிமிடங்கள்-மட்டுமே-உள்ளன/175-342153) · `ta`
+
+நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக செவ்வாய்க்கிழமை (13) வரை 36 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இம்முறை ஜனாதிபதித் தேர்தலில் அங்கீகரிக்கப்பட்ட 20 அரசியல் கட்சிகளின் வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் அறிக்கை ஒன்றில் குறிப்பிட்டுள்ளார். 16 சுயேட்சை வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+இதேவேளை வேட்பாளர்களுக்காக கட்டுப்பணம் செலுத்தும் காலம் இன்று (14)  நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec24d2df.json)
+
+---
+
+### The fate of her fate who went to shift the road to the stopped bus
 
 *2024-08-14 11:32:59* · [`adalk`](https://www.ada.lk/breaking_news/නැවැත්වූ-බසය-ඉදිරියෙන්-පාර-මාරුවීමට-ගිය-ඇයට-අත්වූ-ඉරණම/11-411366) · `si`
 
-කොළඹ - වැල්ලවාය මාර්ගයේ තංගල්ල රෝහලට හැරෙන හන්දිය ආසන්නයේදී මාතර දෙස සිට කතරගම දෙසට ධාවනය වූ බස් රථයක් මගීන් බැස්සවීම සඳහා නතර කර නැවත ඉදිරියට ධාවනය කිරීමේදී බස්රථයට ඉදිරියෙන් පාර මාරුවීමට ගිය කාන්තාවකගේ ගැටී අනතුරක් වී ඇත. එසේ අනතුරට ලක්වූ කාන්තාව ඊයේ (13) රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව ප්‍රථිකාර ලබමින් සිටියදී මිය ගෙස් ඇති බව පොලීසිය පවසයි. එසේ මියගොස් ඇත්තේ 41 හැවිරිදි බෙලිඅත්ත ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+A tragic accident occurred when a woman, a 41-year-old from Beliatta, was hit by a bus near the Colombo-Wellawaya junction. She was rushed to Tangalle Hospital but succumbed to her injuries.
+
+🟩
+
+A bus traveling from Matara to Tangalle Hospital on Colombo-Wellawaya road route towards the Colombo-Wellawaya junction is an accident in front of a woman who has been shifted to the bus in front of the bus. The victim was admitted to the hospital yesterday (13) and died while receiving treatment. The deceased has been identified as a 41 year old resident of Beliatta.
 
 ◼️
 
 [Data](articles/8b4a7b35.json)
+
+[Extended Data](ext_articles/8b4a7b35.ext.json)
 
 ---
 
@@ -76,17 +116,23 @@ The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, 
 
 ---
 
-### ජනපති සටනට JR වෙනුවෙන් ඇප තැන්පත් කරයි
+### President deposits bail to JR
 
 *2024-08-14 11:28:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සටනට-JR-වෙනුවෙන්-ඇප-තැන්පත්-කරයි/11-411365) · `si`
 
-මහජන උපයෝගිතා කොමිසමේ හිටපු සභාපති ජනක රත්නායක ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත අතර, ඔහු වෙනුවෙන් අද(14දා) ඇප මුදල් තැන්පත් කර තිබේ.
+Former PUC Chairman JR contests presidential election; President deposits his bail.
 
-එක්සත් ලංකා පොදුජන පක්ෂයේ ලේකම්වරයා විසින් මෙලෙස ඔහු වෙනුවෙන් ඇප තැන්පත් කර ඇත.
+🟩
+
+The former Chairman of the Public Utilities Commission is to contest the next presidential election and the money has been deposited for him today (14).
+
+The Secretary to the United Ceylon General Party General has been bailed for him.
 
 ◼️
 
 [Data](articles/89afc71b.json)
+
+[Extended Data](ext_articles/89afc71b.ext.json)
 
 ---
 
@@ -287,6 +333,18 @@ Tilakaratne Dilshan, a former Sri Lankan cricket team, joined the United People'
 [Data](articles/602dbb4a.json)
 
 [Extended Data](ext_articles/602dbb4a.ext.json)
+
+---
+
+### ஐ.ம.ச.வுடன் இணைந்தார் டில்ஷான்
+
+*2024-08-14 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-வுடன்-இணைந்தார்-டில்ஷான்/175-342146) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் நாட்டைக் கட்டியெழுப்பும் பயணத்திற்கு ஆதரவளிக்கும் நோக்கில் இலங்கை கிரிக்கெட் அணியின் முன்னாள் திறமையான சகலதுறை ஆட்டக்காரரான திலகரத்ன டில்ஷான் புதன்கிழமை (14) ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார்.
+
+◼️
+
+[Data](articles/97e46a3b.json)
 
 ---
 
@@ -1954,17 +2012,23 @@ Meanwhile, Dr. Jayampathi Wickramaratne, Dr. Jayampathi Wickramaratne, has also 
 
 ---
 
-### පුනරුදයට රටම එකට 17දා අනුර ගාල්ලට
+### Fourteen Galle to the Renaissance
 
 *2024-08-13 20:11:27* · [`adalk`](https://www.ada.lk/breaking_news/පුනරුදයට-රටම-එකට-17දා-අනුර-ගාල්ලට/11-411362) · `si`
 
-‘පුනරුදයට රටම එකට’ ජාතික ජන බලවේගයේ ජනාධිපතිවරණ මැතිවරණය ප්‍රචාරක ජන හමු මාලාවේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා සහභාගි වන ගාල්ල දිස්ත්‍රික් ප්‍රධාන රැලිය මෙම මස 17වන දින සවස 04.00ට ගාල්ල සමනල ක්‍රීඩාංගණයේදී පැවැත්වේ.
+A rally in Galle's Samanala Stadium on the 17th will host discussions on the Presidential Election, led by former JVP organizer Nalin Hewage and featuring national and expert speakers.
 
-ජාතික ජන බලවේගයේ දේශපාලන නායකයන් හා විද්වතුන් රැසකගේ ප්‍රධානත්වයෙන් මෙම ජන හමුව පැවැත්වෙන බව ජාතික ජන බලවේගයේ විධායක සභික, ජනතා විමුක්ති පෙරමුණේ ගාල්ල දිස්ත්‍රික් සංවිධායක හිටපු පළාත් සභා මන්ත්‍රී නලින් හේවගේ මහතා පැවසීය.
+🟩
+
+Galle District rally will be held on the 17th of this month at the Samanala Stadium of the Presidential Election of the National Agency election.
+
+Former JVP District Organizer of the JVP Nalin Hewage said that the meeting will be held under the patronage of the national prostitute and several experts.
 
 ◼️
 
 [Data](articles/9d4ffe7f.json)
+
+[Extended Data](ext_articles/9d4ffe7f.ext.json)
 
 ---
 
@@ -2081,63 +2145,5 @@ The MMBL-Pathfinder Group’s joint-venture investment portfolio consists of par
 [Data](articles/dbf947b9.json)
 
 [Extended Data](ext_articles/dbf947b9.ext.json)
-
----
-
-### SDC, CCC and SLBA explore Blended Finance instruments to support agricultural transformation
-
-*2024-08-13 19:17:00* · [`islandlk`](http://island.lk/sdc-ccc-and-slba-explore-blended-finance-instruments-to-support-agricultural-transformation/) · `en`
-
-The 2024 Financing for Sustainable Development Report reveals that nearly USD 4.2 trillion is needed annually worldwide to meet the Sustainable Development Goals (SDGs) by 2030. Developing countries, including Sri Lanka, face a significant funding gap and it is estimated that they may require an additional USD 2.5-3.0 trillion each year to realistically meet these targets. However, many developing countries face diverse financial constraints which create additional challenges when investing in vital sectors to deliver economic, social, and environmental benefits.
-
-...
-
-[Data](articles/f9771c86.json)
-
-[Extended Data](ext_articles/f9771c86.ext.json)
-
----
-
-### Cable Solutions’ IPO oversubscribed on opening day; attracts diverse investors
-
-*2024-08-13 19:16:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-oversubscribed-on-opening-day-attracts-diverse-investors/) · `en`
-
-The IPO of shares of Cable Solutions Ltd, Sri Lanka’s leading specialized manufacturer of integrated cables, received active, broad-based interest from diverse investors and was oversubscribed on the opening day of the IPO.
-
-Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666,600 new ordinary voting shares of the company, together with the sale of an existing 66,120,000 shares of the company by four of its non-majority shareholders. As a result, the company was able to successfully raise Rs. 109,999,500/- by way of its offer for subscription with the remaining funds being utilised to accommodate a part sale from minority shareholders.
-
-...
-
-[Data](articles/fb1b2c1d.json)
-
-[Extended Data](ext_articles/fb1b2c1d.ext.json)
-
----
-
-### Tanamalvila incident:- Principal, teacher, teachers arrested
-
-*2024-08-13 19:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தணமல்வில-சம்பவம்-அதிபர்-ஆசிரியர்-ஆசிரியைகள்-கைது/175-342111) · `ta`
-
-In Tanamalwila, a 16-year-old girl was sexually abused by 22 students; 17 were arrested. The school's principal, two teachers, and another suspect were also detained for allegedly hiding the crime. Further inquiries are ongoing.
-
-🟩
-
-A 16 -year -old girl has been arrested in connection with a joint sexual abuse of a 16 -year -old girl in Tanamalwila.
-
-The arrested include the school principal, the school teacher and the two teachers.
-
-Four suspects have been arrested in connection with the alleged incident of allegedly attempting to hide the incident.
-
-Of these 22 students have been involved in the joint sexual abuse, 17 of them have been arrested and interrogated.
-
-In addition, a woman was arrested and placed in interrogation yesterday.
-
-Tanamalwila police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/99d23ac6.json)
-
-[Extended Data](ext_articles/99d23ac6.ext.json)
 
 ---

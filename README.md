@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 12:21:12**
+As of **2024-08-14 12:36:31**
 
 ## Newspaper Stats
 
-*Scraped **40,666** Articles*
+*Scraped **40,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,70 @@ adalk | 3,741
 dailymirrorlk | 4,733
 adaderanalk | 4,742
 tamilmirrorlk | 5,183
-virakesarilk | 6,432
-adaderanasinhalalk | 6,914
+virakesarilk | 6,438
+adaderanasinhalalk | 6,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,663 (100.0%) of 40,666 articles have been extended.
+40,666 (100.0%) of 40,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### “ பிரதமர் பதவியிலிருந்து விலக முடிவு ”
+### මැතිවරණ කොමසාරිස්ගෙන් විශේෂ පණිවුඩයක්
+
+*2024-08-14 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199922) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී ආබාධිත පුද්ගලයින් ඡන්දය භාවිත කිරීමේදී ඔවුන්ට නිකුත්කර ඇති තාවකාලික හැඳුනුම්පත භාවිත කළ හැකි බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+ප්‍රශ්නය - ඡන්ද දායකයින්ගේ අනන්‍යතාවය තහවුරු කිරීම සඳහා අනිවාර්යයෙන් ම රැගෙන ආ යුත්තේ මොනවාද ?
+
+"වලංගු ජාතික හැඳුනුම්පතක්, වලංගු රියදුරු බලපත්‍රයක් හෝ වලංගු ගුවන් ගමන් බලපත්‍රයක්, සමාජ සේවා දෙපාර්තමේන්තුව විසින් නිකුත්කර ඇති වැඩිහිටි හැඳුනුම්පත, විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවෙන් නිකුත් කර ඇති විශ්‍රාමික හැඳුනුම්පත. ඒ එක්කම පූජ්‍ය පූජක උතුමන් වෙත පුද්ගලයින් ලියාපදිංචි කිරිමේ දෙපාර්තමේන්තුව විසින් නිකුත් කළ හැඳුනුම්පත, ඒ වගේම මේ කිසිම දෙයක් නැති අයට පුළුවන් තමන්ගේ ග්‍රාම නිලධාරීවරයා සමග මැතිවරණ කාර්යාලයට ගිහිල්ලා තාවකාලික හැඳුනුම්පතක් ලබාගන්න. එත් එක්කම මෙවර විශේෂයෙන්ම සඳහන් කරලා තිබුණා ආබාධිති ප්‍රජාව සඳහා අපි නිකුත්කළා තවකාලික හැඳුනුම්පතක් ඔවුන්ට ඒ තාවකාලික හැඳුනුම්පත පාචිච්චි කිරීමේ හැකියාව තියෙනවා."
+
+◼️
+
+[Data](articles/96b529c0.json)
+
+---
+
+### அம்பாறையில் மாணவன் மீது தாக்குதல்
+
+*2024-08-14 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191057) · `ta`
+
+அம்பாறையில் பாடசாலையொன்றில் கல்வி கற்கும் மாணவன் மீது அதே பாடசாலையைச் சேர்ந்த மாணவர் குழு தாக்குதல் மேற்கொண்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயர்தரத்தில் விஞ்ஞான பிரிவில் கல்வி பயிலும் 6 மாணவர்களால்  வணிக பிரிவு மாணவன் மீது தாக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், தாக்குதலுக்குள்ளான மாணவனின் உடலில் சிறு காயங்கள் காணப்படுவதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளதோடு, சம்பவம் தொடர்பாக அம்பாறை பொலிஸாரினால்  விசாரணை  முன்னெடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/658a9553.json)
+
+---
+
+### “Decision to step down as Prime Minister”
 
 *2024-08-14 11:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-பதவியிலிருந்து-விலக-முடிவு/50-342154) · `ta`
 
-ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலக முடிவு செய்துள்ளதாக ஜப்பானிய பிரதமர் ஃபுமியோ கிஷிடா , டோக்கியோவில் நடைபெற்ற ஊடக சந்திப்பொன்றின் போது கூறியுள்ளார்
+Japanese PM Fumio Kishida announced his decision to step down, indicating he won't seek re-election as party leader ahead of the Liberal Democratic Party's leadership vote in September. Despite resigning, he assures full support from the party and its new leader.
 
-ஆளும் லிபரல் டெமாக்ரடிக் கட்சியின் புதிய தலைவரை தேர்ந்தெடுப்பதற்கான தேர்தல் செப்டம்பரில் நடாத்த உள்ள நிலையில் பிரதமர் கிஷிடா மீண்டும் கட்சித் தலைவர் பதவியை எதிர்பார்க்கவில்லை என்று தெளிவுபடுத்தியுள்ளார்.
+🟩
 
-கட்சியின் தலைமைப் பதவியிலிருந்தும், பிரதமர் பதவியிலிருந்தும் விலகினாலும், கட்சிக்கும், கட்சியின் புதிய தலைவருக்கும் முழு ஆதரவு வழங்குவதாகவும் அவர் கூறியுள்ளார் .
+Japanese Prime Minister Fumio Kishita said during a media briefing in Tokyo
+
+Prime Minister Kishida has made it clear that the party is not expected to re -expect the post of party leader as elections to elect the new leader of the ruling Liberal Democratic Party in September.
+
+He has said that even if he resigned from the party's leadership and the prime ministerial post, the party and the new leader of the party are fully supportive.
 
 ◼️
 
 [Data](articles/191e27a5.json)
+
+[Extended Data](ext_articles/191e27a5.ext.json)
 
 ---
 
@@ -66,19 +104,25 @@ President Ranil Wickremesinghe and the Attorney General have been named as respo
 
 ---
 
-### 15 நிமிடங்கள் மட்டுமே உள்ளன
+### There are only 15 minutes
 
 *2024-08-14 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-நிமிடங்கள்-மட்டுமே-உள்ளன/175-342153) · `ta`
 
-நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக செவ்வாய்க்கிழமை (13) வரை 36 வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+The Election Commission has until Tuesday (13) to approve 36 candidates, including 20 from recognized political parties and 16 independents, for the upcoming presidential election. The deadline for candidate approval ends today (14) at 12 noon.
 
-இம்முறை ஜனாதிபதித் தேர்தலில் அங்கீகரிக்கப்பட்ட 20 அரசியல் கட்சிகளின் வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் அறிக்கை ஒன்றில் குறிப்பிட்டுள்ளார். 16 சுயேட்சை வேட்பாளர்களும் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+🟩
 
-இதேவேளை வேட்பாளர்களுக்காக கட்டுப்பணம் செலுத்தும் காலம் இன்று (14)  நண்பகல் 12.00 மணியுடன் நிறைவடையவுள்ளமை குறிப்பிடத்தக்கது.
+The Election Commission said that 36 candidates have been given control till Tuesday (13) to contest the upcoming presidential election.
+
+The Chairman of the Elections Commission stated in a statement that the candidates of the 20 political parties recognized in the presidential election have been controlled. 16 independent candidates have also been controlled.
+
+Meanwhile, the time to control the candidates will be completed today (14) at 12 noon.
 
 ◼️
 
 [Data](articles/ec24d2df.json)
+
+[Extended Data](ext_articles/ec24d2df.ext.json)
 
 ---
 
@@ -136,6 +180,42 @@ The Secretary to the United Ceylon General Party General has been bailed for him
 
 ---
 
+### பெல்கொரொட் எல்லையில் அவசரநிலையை பிரகடனம் செய்தது ரஸ்யா - உள்ளே ஊருடுவிய உக்ரைன் படையினர் தொடர்ந்தும் தாக்குதல்
+
+*2024-08-14 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191061) · `ta`
+
+உக்ரைனிய படையினரின் புதிய தாக்குதல்களை தொடர்;ந்து ரஸ்யா தனது பெல்கொரொட் எல்லை பிராந்தியத்தில் அவசரகால நிலைமையை அறிவித்துள்ளது.
+
+ரஸ்யாவிற்குள் ஊருடுவியுள்ள உக்ரைனிய படையினர் பல சதுர கிலோமீற்றரினை தமது கட்டுப்பாட்டின் கீழ் கொண்டுவந்துள்ளதாக அறிவித்துள்ள நிலையிலேயே பெல்கொரொட் எல்லையில் ரஸ்யா அவசரநிலைமையை  பிரகடனம் செய்துள்ளது.
+
+பெல்கொரொட் பிராந்தியத்தில் நிலைமை  தொடர்ந்தும் கடினமானதாக பதற்றமானதாக காணப்படுகின்றது என பெல்கொரொட் ஆளுநர் தெரிவித்துள்ளார்.
+
+உக்ரைனிய படையினர் முன்னேறத் தொடங்கியதை தொடர்ந்து பெல்கிரொட்டின் எல்லைப்பகுதிகளில் இருந்து  பொதுமக்கள் அவசரஅவசரமாக வெளியேற்றப்பட்டமை குறிப்பிடத்தக்கது.
+
+இரண்டாம் உலக யுத்தத்தின் பின்னர் ரஸ்யாவிற்குள் வேறுநாட்டு படையொன்றை நுழைந்துள்ளமை இதுவே முதல்தடவை.
+
+◼️
+
+[Data](articles/6b912cda.json)
+
+---
+
+### நாட்டின் எதிர்காலத்தை தீர்மானிப்பதில் நீதி அமைச்சின் கடப்பாடுகள் முக்கியமாகும் - நீதி அமைச்சர் அலிசப்ரி
+
+*2024-08-14 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191060) · `ta`
+
+சர்வதேச சமூகத்துடன் செயற்படும்போது நல்லிணக்க செயற்பாடுகள் மிகவும் அத்தியாவசியமாகும். அதேநேரம் நாட்டின் எதிர்காலத்தை தீர்மானிப்பதில் நீதி அமைச்சின் கடப்பாடுகள் முக்கியமாகும். அதனால் இந்த துறைகளின் செயற்பாடுகளை துரிதப்படுத்த நடவடிக்கை எடுக்க வேண்டும் என நீதி அமைச்சர் அலிசப்ரி தெரிவித்தார்.
+
+நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சராக நியமிக்கப்பட்டுள்ள அலிசப்ரி செவ்வாய்க்கிழமை (13) தனது கடமைகளை நீதி அமைச்சில் பொறுப்பேற்ற பின்னர் அமைச்சின் அதிகாரிகளுடன் கலந்துரையாடியபோதே இவ்வாறு தெரிவித்தார்.
+
+இந்த கலந்துரையாடலின்போது அமைச்சின் செயற்பாடுகளின் முன்னேற்றங்கள் தொடர்பாக அவர் கேட்டறிந்ததுடன் இடை நடுவில் நிறுத்தப்பட்டிருக்கும் நீதிமன்ற அடிப்படை வசதிகளை மேன்படுத்தல், சட்ட மறுசீரமைப்பு செயற்பாடுகள், டிஜிடல் மயமாக்கும் நிகழ்ச்சித்திட்டங்கள் நல்லிணக்க செயற்பாடுகள் மற்றும் இரசாயன பகுப்பாய்வு திணைக்களத்தின் நடவடிக்கைகள் போன்ற துறைகளுக்கு முன்னுரிமை வழங்கி செயற்படவேண்டிய முறை தொடர்பில் ஆலோசனை வழங்கினார்.
+
+...
+
+[Data](articles/3eb2ae58.json)
+
+---
+
 ### Increase in leakage consumption following tax hike
 
 *2024-08-14 11:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-உயர்வைத்-தொடர்ந்து-கசிப்பு-நுகர்வு-அதிகரிப்பு/175-342148) · `ta`
@@ -190,9 +270,11 @@ President Ranil Wickremesinghe and the Attorney General have been named as respo
 
 ECONOMYNEXT – Sri Lanka and Egypt have agreed to strengthen cooperation in diplomatic training, capacity building, research and studies in diplomacy between the two countries.
 
-The MoU will see the Bandaranaike International Diplomatic Training Institute (BIDTI) and the Institute for Diplomatic Studies of the Ministry of Foreign Affairs of Egypt consolidate cooperation.
+The MoU will see cooperation between the Bandaranaike International Diplomatic Training Institute (BIDTI) and the Institute for Diplomatic Studies of the Ministry of Foreign Affairs of Egypt.
 
-Foreign Minister Ali Sabry who visited Egypt from August 7-11, met Egypt’s Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt Badr Abdelatty to review bilateral relations between Sri Lanka and Egypt.
+It was signed by Foreign Minister Ali Sabry and Egypt’s Minister of Foreign Affairs, Emigration and Expatriates Badr Abdelatty during Sabry’s visit to Egypt.
+
+The two ministers also reviewed bilateral relations between Sri Lanka and Egypt.
 
 “Both sides noted the potential to expand the relations between the two countries by fostering closer links in the fields of trade, investment, tourism, education, culture, archaeology, maritime transport, renewable energy, and climate change,” a statement by the Ministry of Foreign Affairs said.
 
@@ -201,6 +283,22 @@ Foreign Minister Ali Sabry who visited Egypt from August 7-11, met Egypt’s Min
 [Data](articles/c74bfe38.json)
 
 [Extended Data](ext_articles/c74bfe38.ext.json)
+
+---
+
+### தாய்மாமன் உயிரிழந்த கவலையில் மருமகன் தவறான முடிவெடுத்து உயிர்மாய்ப்பு!
+
+*2024-08-14 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191056) · `ta`
+
+யாழில் தாய்மாமன் உயிரிழந்த சோகத்தில் மருமகன் ஒருவர் செவ்வாய்க்கிழமை (14) தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+
+குறித்த இளைஞனின் தாய்மாமன் கடந்த 5 மாதங்களுக்கு முன்னர் உயிரிழந்துள்ளார். இந்நிலையில் குறித்த இளைஞன் மனவிரக்தியில் இருந்துள்ளார். இந்நிலையில், நேற்றையதினம் தவறான முடிவெடுத்து, வீட்டுக்கு பின்னால் உயிரை மாய்த்துக்கொண்டுள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/bca1b985.json)
 
 ---
 
@@ -258,13 +356,39 @@ Janaka Ratnayake served as the Chairman of the Public Utilities Commission.
 
 ---
 
+### சிறைச்சாலை தலைமையகத்தின் கண்காணிப்பாளரிடம் மேற்கொண்ட விசாரணையில்  இருவர் கைது
+
+*2024-08-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191047) · `ta`
+
+வெளிநாட்டில் தலைமறைவாகியுள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் போதைப்பொருள் கடத்தல்காரருமான " கோத்தா அசங்க"வுக்கு சொந்தமான துப்பாக்கிகளை தனது வீட்டில் வைத்து இரகசியமாக விற்பனை செய்து வந்த குற்றச்சாட்டின் அடிப்படையில் கைது செய்யப்பட்ட சிறைச்சாலை தலைமையகத்தின் கண்காணிப்பாளரிடம் மேற்கொண்ட  விசாரணையில்  மேலும் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் போதைப்பொருள் குற்றத்தடுப்பு பிரிவினர் தெரிவித்துள்ளனர்.
+
+சந்தேகநபர்கள் இருவரும் கடவத்தை மற்றும் பேலியகொடை ஆகிய பிரதேசங்களில் வைத்து கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து 40 இலட்சம் ரூபா பெறுமதியான 373 கிலோ கிராம் போதைப்பொருள் , 12 தோட்டாக்கள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a7a9d070.json)
+
+---
+
 ### Namal Rajapaksa signs nominations for Presidential Election
 
 *2024-08-14 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101226/namal-rajapaksa-signs-nominations-for-presidential-election) · `en`
 
 The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal Rajapaksa has signed his nomination papers to contest the upcoming Presidential Election.
 
-◼️
+He signed the nominations at former Prime Minister Mahinda Rajapaksa’s residence on Wijerama Road, Colombo 07.
+
+Meanwhile, the security deposit was placed for SLPP candidate Namal Rajapaksa this morning (14).
+
+SLPP General Secretary Sagara Kariyawasam had placed the deposit on behalf of Namal Rajapaksa at the Election Commission.
+
+“The security deposit was placed at the auspicious moment, marking another step forward in the journey to victory. We will ensure that Namal Rajapaksa will be sworn in as the ninth President by September 22. After the nominations are handed over tomorrow, the election campaign will begin immediately,” said Sagara Kariyawasam.
+
+The SLPP officially announced its National Organiser, MP Namal Rajapaksa, as the party’s candidate for the upcoming Presidential Election on August 07.
+
+...
 
 [Data](articles/ba7fc863.json)
 
@@ -318,6 +442,30 @@ Dilshan announced his retirement from Test cricket on 9 October 2013. He retired
 
 ---
 
+### ஒரே பெயரில் வேட்பாளர் ; ஜனாதிபதி தேர்தலில் வித்தியாசமான சவாலை  எதிர்கொள்கின்றார் நாமல்
+
+*2024-08-14 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191048) · `ta`
+
+ராஜபக்ச பரம்பரையின் அடுத்த முடிக்குரிய வாரிசு எதிர்வரும் ஜனாதிபதி தேர்தலில் வித்தியாசமான சவால் ஒன்றை  எதிர்கொள்கின்றார்.
+
+செவ்வாய்கிழமை மாலை வரை 36 வேட்பாளர்கள் கட்டுப்பணம்செலுத்தியுள்ள நிலையில் இலங்கையின் வாக்காளர்கள் முன்னொருபோதும் இல்லாத நீளமான வாக்குசீட்டினை எதிர்கொள்கின்றனர்.
+
+இந்த வாக்குசீட்டில் இரண்டு நாமல்கள் காணப்படுவது வாக்குசீட்டினை குழப்பம் மிகுந்ததாக மாற்றியுள்ளது.ஆகக்குறைந்தது நாமல் ராஜபக்ச விசுவாசிகளுக்காவது.
+
+ஒரே பெயருடைய வேட்பாளர்களை நிறுத்துவது என்பது கடந்தகாலங்களில் ராஜபக்சாக்கள் பயன்படுத்திய ஒரு தந்திரோபாயம்.
+
+2015 இல் அப்போதைய ஜனாதிபதி தேர்தலில் எதிர்கட்சிகளின் பொதுவேட்பாளராக  போட்டியிட்ட மைத்திரிபால சிறிசேனவின் ஆதரவாளர்களை குழப்புவதற்காக ராஜபக்சாக்கள் சிறிசேன என்பவரை நிறுத்தினர் . மைத்திரிபால சிறிசேன போன்ற தோற்றமுடையவராக அவர் காணப்பட்டார்.
+
+இந்த ஏமாற்று வேலையால் பலர் ஏமாறாத போதிலும் ராஜபக்சக்காள் நிறுத்திய ஏஆர் சிறிசேன 18174 வாக்குகளை பெற்றார்.
+
+அவரது பெயரை சி;ங்களத்தில் எழுதினால் அது ராஜபக்சாக்களின் வாரிசின் பெயரை ஒத்ததாக காணப்படும்.
+
+...
+
+[Data](articles/d21a5d77.json)
+
+---
+
 ### I. M. Tilshan combined with C.
 
 *2024-08-14 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-வுடன்-இணைந்த-டில்ஷான்/175-342146) · `ta`
@@ -336,15 +484,21 @@ Tilakaratne Dilshan, a former Sri Lankan cricket team, joined the United People'
 
 ---
 
-### ஐ.ம.ச.வுடன் இணைந்தார் டில்ஷான்
+### Tilshan joined the IMC
 
 *2024-08-14 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-வுடன்-இணைந்தார்-டில்ஷான்/175-342146) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் நாட்டைக் கட்டியெழுப்பும் பயணத்திற்கு ஆதரவளிக்கும் நோக்கில் இலங்கை கிரிக்கெட் அணியின் முன்னாள் திறமையான சகலதுறை ஆட்டக்காரரான திலகரத்ன டில்ஷான் புதன்கிழமை (14) ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டார்.
+Tilakaratne Dilshan, ex-Sri Lanka cricketer, joined the United People's Power party on April 14th to back opposition leader Sajith Premadasa.
+
+🟩
+
+Tilakaratne Dilshan, a former Sri Lankan cricket team, joined the United People's Power on Wednesday (14) to support the journey of opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/97e46a3b.json)
+
+[Extended Data](ext_articles/97e46a3b.ext.json)
 
 ---
 
@@ -2009,141 +2163,5 @@ Meanwhile, Dr. Jayampathi Wickramaratne, Dr. Jayampathi Wickramaratne, has also 
 [Data](articles/bfccd541.json)
 
 [Extended Data](ext_articles/bfccd541.ext.json)
-
----
-
-### Fourteen Galle to the Renaissance
-
-*2024-08-13 20:11:27* · [`adalk`](https://www.ada.lk/breaking_news/පුනරුදයට-රටම-එකට-17දා-අනුර-ගාල්ලට/11-411362) · `si`
-
-A rally in Galle's Samanala Stadium on the 17th will host discussions on the Presidential Election, led by former JVP organizer Nalin Hewage and featuring national and expert speakers.
-
-🟩
-
-Galle District rally will be held on the 17th of this month at the Samanala Stadium of the Presidential Election of the National Agency election.
-
-Former JVP District Organizer of the JVP Nalin Hewage said that the meeting will be held under the patronage of the national prostitute and several experts.
-
-◼️
-
-[Data](articles/9d4ffe7f.json)
-
-[Extended Data](ext_articles/9d4ffe7f.ext.json)
-
----
-
-### Passenger arrested with 16 gold biscuits worth Rs. 440 million at BIA
-
-*2024-08-13 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101213/passenger-arrested-with-16-gold-biscuits-worth-rs-440-million-at-bia) · `en`
-
-The officers of the Narcotics Control Unit of Sri Lanka Customs have seized 16 gold biscuits, estimated to be worth around Rs. 440 million, smuggled into the country by a passenger at the Bandaranaike International Airport (BIA) in Katunayake.
-
-A businessman from Galle who had arrived in the country from Dubai had reproetdly attempted to smuggle these gold biscuits this morning (13).
-
-He had concealed the gold biscuits in two parcels, each containing eight pieces, and had placed them in a side bag and pasted it under a luggage trolley, before preparing to exit from the airport.
-
-The Customs officers are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/fd3fb229.json)
-
-[Extended Data](ext_articles/fd3fb229.ext.json)
-
----
-
-### Anuradansa and Sajith charged from Anura
-
-*2024-08-13 20:05:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-හා-සජිත්ට-අනුරගෙන්-චෝදනාවක්/11-411361) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power, accused the President and Opposition Leader of misusing state resources for elections. He announced their campaign kickoff on July 17th, with major rallies in Tangalle, Batticaloa, and Galle, covering all districts. The campaign includes city-to-village meetings and focuses on sectors like tourism and energy, aiming to address Sri Lanka's dollar crisis. They plan to release their economic policy on September 3rd, emphasizing education, health, and food security.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake said that the President and the Opposition Leader is using state property and money for their election campaigns.. Mr. Dissanayake said the voter's voter was started with a bribery process.
-
-Mr. Dissanayake made this statement at a press conference held at the Head Office of the JVP today.
-
-"Our election campaign has been decided to commence Saturday 17th Saturday 17th. Three main great rallies have been prepared in Tangalle, Batticaloa and Galle and Galle.
-
-Then, including the North and East, has arranged for the election campaign representing all seats in every district of Sri Lanka.. Also, a series of meetings from cities have been prepared to village. Our election campaign has been included in the homes of home negotiations.
-
-...
-
-[Data](articles/22c60c80.json)
-
-[Extended Data](ext_articles/22c60c80.ext.json)
-
----
-
-### Navigating Crisis: The Urgent Need For Reform Through Integrity & Leadership In Sri Lanka
-
-*2024-08-13 20:04:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-crisis-the-urgent-need-for-reform-through-integrity-leadership-in-sri-lanka/) · `en`
-
-Corruption in Sri Lanka, rooted in colonial times, persisted post-independence with power concentrated among elites. The 1978 establishment of the executive presidency intensified nepotism and corruption, which became institutionalized over time. Scandals like the 2015 Central Bank bond scam underscore the challenges in holding powerful figures accountable.
-
-...
-
-[Data](articles/2ba002cd.json)
-
-[Extended Data](ext_articles/2ba002cd.ext.json)
-
----
-
-### 36 people have been controlled
-
-*2024-08-13 19:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-பேர்-கட்டுப்பணம்-செலுத்தியுள்ளனர்/175-342112) · `ta`
-
-36 candidates have been approved for the 2024 Sri Lankan presidential election, with the deadline for control ending tomorrow at noon. Nominations open tomorrow from 9 am to 11 pm, under a special police security plan at the Rajagiriya Election Secretariat.
-
-🟩
-
-A total of 36 candidates have been controlled for the 2024 presidential election, the Sri Lanka Elections Commission said.
-
-Meanwhile, the time to pay control of the presidential election will be completed tomorrow (14) at 12 noon.
-
-Accepting the nominations for the upcoming presidential election will begin tomorrow (15) from 9.00 am to 11.00 pm.
-
-Police have announced that a special security program will be implemented at the Election Secretariat in Rajagiriya on the day of the nomination.. Remble
-
-◼️
-
-[Data](articles/17aa2629.json)
-
-[Extended Data](ext_articles/17aa2629.ext.json)
-
----
-
-### HNB Assurance surpasses international benchmarks
-
-*2024-08-13 19:21:00* · [`islandlk`](http://island.lk/hnb-assurance-surpasses-international-benchmarks/) · `en`
-
-HNB Assurance PLC unveiled the results of its recent survey, conducted in partnership with Great Place to Work. The findings revealed an impressive Employee Net Promoter Score (eNPS) of 38%, drastically outpacing the international average of 27%, within the insurance industry.
-
-The eNPS is a critical metric that measures employee satisfaction and loyalty, providing valuable insights into the overall health of the organization. It reflects how likely employees are to recommend their workplace to others, serving as a key indicator of engagement and morale.
-
-Over the past few years, HNB Assurance has experienced an impressive growth trajectory, achieving and maintaining double the rate of the industry’s growth. With the company keen on sustaining this steady advance, it is crucial to continually understand and nurture its internal health. This is where the eNPS proves invaluable, offering valuable insights into employee sentiment and identifying areas for improvement.
-
-...
-
-[Data](articles/453b60ef.json)
-
-[Extended Data](ext_articles/453b60ef.ext.json)
-
----
-
-### MMBL-Pathfinder Group joint-venture foreign exchange earnings to top US$ 425 million this year
-
-*2024-08-13 19:19:00* · [`islandlk`](http://island.lk/mmbl-pathfinder-group-joint-venture-foreign-exchange-earnings-to-top-us-425-million-this-year/) · `en`
-
-The MMBL-Pathfinder Group joint-venture portfolio of investments is expected to yield nearly US$ 425 million in foreign exchange to Sri Lanka in 2024, a significant increase from the US$ 250 million it earned in 2023.
-
-The MMBL-Pathfinder Group’s joint-venture investment portfolio consists of partnerships and strategic alliances with a wide network of globally reputed companies. These operate in niche markets dealing in financial and remittance services, export logistics, petroleum support services, pioneering ventures in tourism and leisure, and technology and innovation-related activities.
-
-...
-
-[Data](articles/dbf947b9.json)
-
-[Extended Data](ext_articles/dbf947b9.ext.json)
 
 ---

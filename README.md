@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 00:09:25**
+As of **2024-08-15 00:21:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,771 (100.0%) of 40,777 articles have been extended.
+40,777 (100.0%) of 40,777 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1316,6 +1316,8 @@ The country’s Commissioner General of Elections Saman Sri Rathnayake has said 
 
 [Data](articles/1755163f.json)
 
+[Extended Data](ext_articles/1755163f.ext.json)
+
 ---
 
 ### Here is the decision of Ranil about the presidential election
@@ -1524,6 +1526,8 @@ The move raised the government’s tax revenue, but millions of state and privat
 
 [Data](articles/bd046601.json)
 
+[Extended Data](ext_articles/bd046601.ext.json)
+
 ---
 
 ### Sri Lanka approves appointments of six ambassadors, high commissioner, 3 officials
@@ -1543,6 +1547,8 @@ D T K Bernard’s appointment as chairman and chief executive officer of the Sri
 ◼️
 
 [Data](articles/bb0cd531.json)
+
+[Extended Data](ext_articles/bb0cd531.ext.json)
 
 ---
 
@@ -1917,6 +1923,8 @@ The newly opened Special Operations Command is set to act as the primary hub for
 ...
 
 [Data](articles/ac000457.json)
+
+[Extended Data](ext_articles/ac000457.ext.json)
 
 ---
 

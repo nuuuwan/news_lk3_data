@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 18:16:50**
+As of **2024-08-14 18:29:14**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 6,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,735 (100.0%) of 40,736 articles have been extended.
+40,736 (100.0%) of 40,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### சிகிரியாவை பார்க்க தடை
+### Banning to see Sigiria
 
 *2024-08-14 17:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகிரியாவை-பார்க்க-தடை/175-342174) · `ta`
 
-70 உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் குளவி கொட்டுக்கு இலக்கானதை அடுத்து, சிகிரியாவிற்குள் நுழைவதை மத்திய கலா சார நிதியத்தினால் புதன்கிழமை (14) பிற்பகல் இடைநிறுத்தியது.
+Due to a wasp attack, the Central Kala Fund suspended tours to Sigiriya, affecting 70 tourists. 26 foreigners and 13 locals were injured, with many leaving the hospital untreated. This is the first such incident, possibly triggered by heat and high tourist activity. Tour guides recommend protective measures against wasps to prevent future losses. The project is exploring steam spraying as a solution and plans to refund affected tourists.
 
-குளவிகளின் அபாயம் காரணமாக நூற்றுக்கணக்கான சுற்றுலாப் பயணிகள் சிகிரியாவுக்குச் செல்லும் வாய்ப்பை இன்று (14) இழந்துள்ளதாக சிகிரியா திட்ட முகாமையாளர் துசித ஹேரத் தெரிவித்தார்.
+🟩
 
-26 வெளிநாட்டு சுற்றுலாப் பயணிகளும் 13 உள்ளூர் சுற்றுலாப் பயணிகளும் காயமடைந்து சிகிரிய பிரதேச வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளனர். மேலும் பலர் மருத்துவமனையில் சிகிச்சை பெறாமல் வெளியேறிவிட்டனர் என்றார்.
+Following the target of 70 domestic and foreign tourists, the Central Kala Fund was suspended on Wednesday afternoon (14).
 
-சுற்றுலாப் பயணிகள் குளவிகளின் தாக்குதலை எதிர்கொள்வது இதுவே முதல் முறை என்றும் அவர்களில் பெரும்பாலோர் இந்த சம்பவத்தால் அதிர்ச்சியடைந்துள்ளதாகவும் அந்த அதிகாரி கூறினார்.
+Sigiriya Project Manager Dusitha Herath said that hundreds of tourists have lost their chances of traveling to Sigiriya due to the danger of the wasp.
 
-நிலவும் கடுமையான வெப்பம் மற்றும் சுற்றுலாப் பயணிகளின் அதிக வருகையால் குளவிகளின் கூடுகள் கலைந்திருக்கலாம் என  நம்பப்படுகிறது.
+26 foreign tourists and 13 local tourists have been injured and admitted to the emergency department of Sikiriya Divisional Hospital. He also said that many people left the hospital without treatment.
+
+The official said that this is the first time that tourists face the wasp attack and most of them are shocked by the incident.
+
+It is believed that the nests of the wasps may have been dissolved due to the existing heat and the high advent of tourists.
+
+Meanwhile, tour guides have suggested that steps should be taken to protect tourists without a wasp attack and that there will be a huge loss.
 
 ...
 
 [Data](articles/d217f981.json)
+
+[Extended Data](ext_articles/d217f981.ext.json)
 
 ---
 

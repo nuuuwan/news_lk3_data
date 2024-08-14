@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 17:37:13**
+As of **2024-08-14 17:57:25**
 
 ## Newspaper Stats
 
-*Scraped **40,731** Articles*
+*Scraped **40,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,162 @@ colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,746
+adalk | 3,747
 dailymirrorlk | 4,733
-adaderanalk | 4,752
+adaderanalk | 4,754
 tamilmirrorlk | 5,194
 virakesarilk | 6,453
-adaderanasinhalalk | 6,930
+adaderanasinhalalk | 6,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,727 (100.0%) of 40,731 articles have been extended.
+40,731 (100.0%) of 40,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### තණමල්විල පාසල් දැරියගේ සිද්ධියේ විදුහල්පති ඇතුලු සිව්දෙනොට ඇප
+### නව ව්‍යවස්ථාවක් නිර්මාණය කිරීමට මුල පරණ බව ජනාධිපතිවරණ අපේක්ෂකයෙකු  කියයි
+
+*2024-08-14 17:34:03* · [`adalk`](https://www.ada.lk/breaking_news/නව-ව්‍යවස්ථාවක්-නිර්මාණය-කිරීමට-මුල-පරණ-බව-ජනාධිපතිවරණ-අපේක්ෂකයෙකු--කියයි/11-411373) · `si`
+
+සිය ආණ්ඩුවක් යටතේ නව ව්‍යවස්ථාවක් නිර්මාණය කිරීමට මුලපුරණ  බව සමගි ජන සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+◼️
+
+[Data](articles/efe21634.json)
+
+---
+
+### Party secretary among several arrested for taking Rs. 30M bribe from Janaka Ratnayake
+
+*2024-08-14 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101240/party-secretary-among-several-arrested-for-taking-rs-30m-bribe-from-janaka-ratnayake) · `en`
+
+A group of officials including the Secretary of the “United Lanka Podujana Party” (Eksath Lanka Podujana Pakshaya) have been arrested while soliciting a bribe from the party’s presidential candidate, former PUCSL chairman Janaka Ratnayake.
+
+They have reportedly been arrested today by officers of the Bribery Commission while accepting the bribe of Rs. 30 million from Mr. Ratnayake, the party’s presidential candidate.
+
+Former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL), Janaka Ratnayake is running for the presidential election this year as the candidate of the ‘United Lanka Podujana Party’ (Eksath Lanka Podujana Pakshaya).
+
+The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, had placed the security deposit on behalf of Janaka Ratnayake at the Election Commission this morning (14).
+
+◼️
+
+[Data](articles/860ceca3.json)
+
+---
+
+### ජනක ජනපති සටනට එන පක්ෂයේ ලේකම් ඇතුළු පිරිසක් අත්අඩංගුවට
+
+*2024-08-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199940) · `si`
+
+සිය පක්ෂයේ ජනාධිපති අපේක්ෂක ධුරය ලබාදීම සඳහා රුපියල් කෝටි 03ක අල්ලස් මුදලක් ලබා ගැනීමට උත්සාහ කළ එක්සත් ලංකා පොදුජන පක්ෂයේ ලේකම් ඇතුළු නිලධාරීන් පිරිසක් අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව මගින් අද (14) පස්වරුවේ අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ, එම පක්ෂයෙන් ජනාධිපති අපේක්ෂකයා ලෙස අද පෙරවරුවේ ඇප මුදල් තැන්පත් කළ මහජන උපයෝගිතා කොමිසමේ හිටපු සභාපති ජනක රත්නායක මහතා සිදුකළ පැමිණිල්ලකට අනුවය.
+
+◼️
+
+[Data](articles/626f525b.json)
+
+---
+
+### Principal of the Tanamalwila school girl includes
 
 *2024-08-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199939) · `si`
 
-තණමල්විල පාසල් දැරියක් දූෂණය කිරීමේ සිද්ධියට අදාළව තොරතුරු දැනගෙන එම තොරතුරු පොලීසියට නොදී වසන් කෙරූ සිද්ධිය සම්බන්ධව අත්අඩංගුවට ගත් විදුහල්පති ඇතුළු සැකකරුවන් සිව්දෙනා ඇප මත නිදහස් කර තිබේ.
+The principal and four suspects from the Tanamalwila school incident have been released on bail, ordered to appear before the Wellawaya Magistrate's Court.
 
-අදාළ සැකකරුවන් අද (14) වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී එක් අයෙකුට රුපියල් ලක්ෂ දෙක බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+🟩
+
+The Principal and four suspects have been released on bail.
+
+The Magistrate ordered that the suspects were produced before the Wellawaya Magistrate's Court today (14) on two personal bail of Rs.
 
 ◼️
 
 [Data](articles/630e970a.json)
 
+[Extended Data](ext_articles/630e970a.ext.json)
+
 ---
 
-### பனிக்கரடி தாக்கி ஆர்க்டிக் ரேடார் தளத்தின் ஊழியர் உயிரிழப்பு
+### Employee of the Arctic Radar site
 
 *2024-08-14 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191098) · `ta`
 
-கனடாவின் வடக்கு நுனாவட் பகுதியிலுள்ள ஆர்க்டிக் ரேடார் தளத்தில் பணிப்புரிந்த ஊழியர்  ஒருவர் இரண்டு பனிக் கரடிகள் தாக்கியதில் உயிரிழந்துள்ளார்.
+An employee at the Arctic Radar site in Nunavut, Canada, died from a rare snow bear attack, the second such incident in recent years. Snow bear populations, affected by global warming, are decreasing. Meanwhile, a black bear attack in Montana endangered a child, highlighting the danger these animals pose despite their smaller size compared to polar bears.
 
-இந்த தாக்குதல் சம்பவம் பாஃபின் தீவின் தென்கிழக்கே உள்ள ப்ரெவூர்ட் தீவில் இடம்பெற்றுள்ளது.
+🟩
 
-உயிரிழந்தவர் கனேடிய அரசாங்கத்தின் சார்பாக ரேடார் பாதுகாப்பு தளங்களை இயக்கும்  நிறுவனமான நாசிட்டுக் கார்ப்பரேஷன் நிறுவனத்தில் பணிபுரிந்தவராவார்.
+An employee who worked at the Arctic Radar site in the northern Nunawat of Canada has died after being hit by two snow bears.
 
-இந்த பகுதிகளில் மனிதர்கள் மீது பனிக் கரடி தாக்கும் சம்பவம் மிகவும் அரிதாகவே நிகழும்.
+The attack took place on Breward Island, southeast of Bafin Island.
 
-"எங்கள் ஊழியர்களின் பாதுகாப்பு மற்றும் நல்வாழ்வு முக்கியமாக ஒன்றாகும். மேலும் ஊழியர்களுக்கு பாதுகாப்பான பணிச்சூழலை உறுதி செய்வதில் நாங்கள் மிகவும் கடமைப்பட்டுள்ளோம்." என நிறுவனம் தெரிவித்துள்ளது.
+The deceased is working at the Nasituk Corporation, a company that operates radar security sites on behalf of the Canadian government.
 
-கடந்த ஆண்டு  மனிதர்களை  பனிக் கரடி  தாக்கிய சம்பவத்திற்கு பிறகு பதிவான இரண்டாவது சம்பவம் இதுவாகும்.
+In these areas, the snow bear attack on humans is rarely occurring.
 
-கடந்த ஆண்டு அலாஸ்கன் கிராமத்தில் ஒரு பெண் மற்றும் அவரது 1 வயது மகன் பனிக் கரடி தாக்கி கொல்லப்பட்டனர்.
+“The safety and well -being of our employees is one of the main. We are very obliged to ensure a safe workshop for employees, ”the company said.
+
+This is the second incident that followed after the snow bear struck last year.
+
+Last year, a woman and her 1 -year -old son were attacked by a bear in the village of Alaskan.
+
+Two -thirds of the world's snow bears ie 17,000 bears in Canada. The number of snow bears is decreasing. Scientists say that the global warming is the cause of the destruction of glaciers and the destruction of places for reproduction.
 
 ...
 
 [Data](articles/8f0a9d5f.json)
 
+[Extended Data](ext_articles/8f0a9d5f.ext.json)
+
 ---
 
-### எங்களது தெரிவு ரணில் விக்கிரமசிங்கவே; 13வது திருத்தம் தொடர்ந்தும் நீடிக்கவேண்டும், அதை நடைமுறைப்படுத்தவேண்டும் என துணிச்சலாக தெரிவிப்பவர் அவரே - அலி சப்ரி
+### Our choice is Ranil Wickremesinghe;He is the one who bravely declares that the 13th Amendment should continue and practice it - Ali Sabri
 
 *2024-08-14 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191086) · `ta`
 
-13வது திருத்தம் தொடர்ந்தும் நீடிக்க வேண்டும், அதனை நடைமுறைப்படுத்த வேண்டும் என துணிச்சலாக தெரிவிப்பவர் ரணில் விக்கிரமசிங்கவே. ஜனாதிபதி தேர்தலிற்கு முன்பாக இலங்கையின் அரசியல் சூழமைவில் இதனை தெரிவிப்பது சாத்தியமில்லை. இது மிகவும் கடினமான விடயம் என குறிப்பிட்டுள்ள வெளிவிவகார மற்றும் நீதி அமைச்சர் அலி சப்ரி, எங்களுக்கு உள்ள தெரிவுகளில் ரணில் விக்கிரமசிங்கவே மிகவும் பொருத்தமானவர் என குறிப்பிட்டுள்ளார்.
+In the midst of Sri Lanka's political climate, the focus shifts towards Ranil Wickremesinghe, praised for his bravery in advocating for the continuation and implementation of the 13th Amendment, a stance considered bold amidst the pre-presidential election dynamics. Despite historical political differences, the emphasis is on addressing current challenges, particularly economic ones, rather than adhering strictly to party lines. Wickremesinghe is highlighted for his experience and potential to navigate the complexities of governance, including economic management and foreign relations. The decision by the Sri Lanka PA to field its own candidate is noted, with internal support leaning towards Wickremesinghe due to his leadership in initiating economic recovery efforts. The majority of the Sri Lanka PA's MPs have chosen Wickremesinghe, indicating a significant alignment within the party. Criticisms from Namal Rajapaksa are acknowledged as part of democratic discourse, while Wickremesinghe's suitability in fostering a common Sri Lankan identity is underscored through his track record of addressing issues affecting the common good. The upcoming election is anticipated to feature strong contenders, with the outcome to be determined by the voters on September 21st.
 
-கேள்வி - உங்கள் அரசியல் வாழ்க்கை முழுவதும் நீங்கள் எதிராக செயற்பட்ட ஒருவருக்கு ஆதரவாக பிரச்சாரம் செய்வது குறித்து உங்கள் உணர்வுகள் என்ன?
+🟩
 
-பதில் - இது அரசியலின் ஒரு பகுதி. கட்சிகள், அரசியல் தலைவர்களுடன் இணைந்திருப்பது குறித்து பிடிவாதமாக இருப்பதை விட தற்போதைய சவால்கள் முன்னுரிமைகள் குறித்து ஆராய்ந்து ஏனைய எல்லாவற்றையும் விட நாட்டுக்கு முன்னுரிமை வழங்குவது அவசியம்.
+Ranil Wickremesinghe is brave enough that the 13th Amendment should continue and implement it. It is impossible to report this in Sri Lanka's political environment before the presidential election. External Affairs and Justice Minister Ali Sabri said that this is the most difficult issue, saying that Ranil Wickremesinghe is very relevant in our choices.
 
-ஆகவே இந்த தருணத்தில் எது முக்கியம் என்றால் நாடே முக்கியம். குறிப்பாக பொருளாதாரம்.
+Question - What are your feelings about campaigning in favor of someone who has worked against you throughout your political life?
 
-இந்த சவால்களை எதிர்கொள்ளக்கூடிய ஒருவரை நாங்கள் தெரிவு செய்யவேண்டும். இதன் காரணமாகவே நான் அவரை தெரிவு செய்கின்றேன்.
+Answer - This is a part of politics. It is necessary to examine the current challenges and priority to the country than to be stubborn about parties and political leaders.
+
+So what is important in this moment. Especially economics.
+
+We must choose someone who can face these challenges. Because of this I choose him.
+
+Question - You have consistently stated that it is the most important thing to strengthen the country's stability. Do you not think that anyone like Dhammika can help at this moment?
 
 ...
 
 [Data](articles/386c7e4d.json)
+
+[Extended Data](ext_articles/386c7e4d.ext.json)
+
+---
+
+### President reveals plans to provide income tax relief and IMF’s counter proposal
+
+*2024-08-14 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101239/president-reveals-plans-to-provide-income-tax-relief-and-imfs-counter-proposal) · `en`
+
+President Ranil Wickremesinghe has revealed plans to provide relief for personal income tax in the near future as the government is considering adjustments to the personal income tax structure to provide relief to taxpayers, the President’s Media Division reported.
+
+Following the strong performance in tax revenue this year, the government has proposed to the International Monetary Fund (IMF) an adjustment in Personal Income Tax slabs from Rs. 500,000 to Rs. 720,000, aiming to provide relief to mid-level taxpayers affected by recent tax reforms, he said.
+
+The IMF, in turn, has suggested changes, offering more relief to lower bands, similar relief for mid-level taxpayers and slightly less for higher earners, while keeping the proposal’s core intact, he said.
+
+The President revealed this while delivering the keynote address at the University Lecturers’ Conference held at the Water’s Edge Hotel last evening (13).
+
+...
+
+[Data](articles/4319beaa.json)
 
 ---
 
@@ -206,17 +290,23 @@ The special security zone will encompass Sarana Mawatha in Rajagiriya, with only
 
 ---
 
-### வேட்புமனுவில் கையெழுத்திட்டார் ஜனாதிபதி ரணில் விக்ரமசிங்க
+### President Ranil Wickremesinghe signed the nomination
 
 *2024-08-14 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191099) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கான வேட்பு மனுவில் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று புதன்கிழமை (14) கையெழுத்திட்டார்.
+President Ranil Wickremesinghe nominated himself for the upcoming presidential election on Wednesday, signing the papers at his office in Colombo.
 
-இது தொடர்பான  நிகழ்வு  கொழும்பு பிளவர் வீதியிலுள்ள அவரது அரசியல் அலுவலகத்தில் இடம்பெற்றது.
+🟩
+
+President Ranil Wickremesinghe signed a nomination papers to contest the upcoming presidential election on Wednesday (14).
+
+The event took place at his political office at Belver Road, Colombo.
 
 ◼️
 
 [Data](articles/ed4998e6.json)
+
+[Extended Data](ext_articles/ed4998e6.ext.json)
 
 ---
 
@@ -2115,95 +2205,5 @@ UNP leader Patali Champika Ranawaka will join the United People's Power in suppo
 [Data](articles/eece71ff.json)
 
 [Extended Data](ext_articles/eece71ff.ext.json)
-
----
-
-### Namal Rajapaksa paid control
-
-*2024-08-14 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191041) · `ta`
-
-Namal Rajapaksa, a presidential candidate from the Sri Lanka People's Party (PA), received payment on Wednesday morning, managed by party General Secretary Sakara Kariyawasam. The Election Commission announced that the presidential election process would conclude by 12 noon today.
-
-🟩
-
-Sri Lanka PA's presidential candidate Namal Rajapaksa was paid on Wednesday morning (14).
-
-On behalf of him, the General Secretary of the Sri Lanka PA had been controlled by Sakara Kariyawasam.
-
-The Elections Commission said that the proceedings of the presidential election will be completed at 12 noon today.
-
-◼️
-
-[Data](articles/0e625a13.json)
-
-[Extended Data](ext_articles/0e625a13.ext.json)
-
----
-
-### Yall. Two persons arrested for illegally loading mud in Thenmarachchi
-
-*2024-08-14 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191039) · `ta`
-
-In Thenmarachchi, two individuals were arrested for illegally transporting mud using two seized tipper trucks. The operation, led by the Kodikamam police, involved the arrest of two suspects at the Chavakachcheri Magistrate's Court.
-
-🟩
-
-Two tipper vehicles illegally transported by sand in Jaffna Theenmarachchi Kodikamam Police Division have been seized by the Kodikamam police and two persons have been arrested.
-
-According to the confidential information received by the Kodikamam Police, the Chief Inspector of Police, Sivalingam Prabhakaran, who was in charge of the Kodikamam Police Station, under the patronage of the Kodikamam Police Station Management Unit, Dinesh Gunathilaka, the Criminal Investigation Department, S. Dillan Semavasinghe and Devadas and Devadas, were arrested.
-
-Tipper vehicles were seized from the Klali area to Kodikamam at around 4.30 am on Tuesday (13).
-
-The two suspects who were arrested were arrested at the Chavakachcheri Magistrate's Court yesterday, police said.
-
-◼️
-
-[Data](articles/1f51c80a.json)
-
-[Extended Data](ext_articles/1f51c80a.ext.json)
-
----
-
-### Confrontation between two groups
-
-*2024-08-14 09:33:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இரு-குழுக்களுக்கிடையே-மோதல்/71-342136) · `ta`
-
-In a clash between two groups near Jaffna-Chendangulam, three boats were burned, and another was severely damaged. The incident led to public intervention to prevent further fires. Despite the destruction, no arrests have been made, with the Ilavalai police investigating the cause.
-
-🟩
-
-Three boats were set on fire and a boat was completely damaged in a clash between two groups in the Jaffna -Chendangulam area.
-
-Some of the wads are burnt and destroyed. Knowing this, the public gathered there to control the spread of fire.
-
-Ilavalai police are conducting investigations as no one has been arrested in connection with the incident so far. Remble
-
-◼️
-
-[Data](articles/71887008.json)
-
-[Extended Data](ext_articles/71887008.ext.json)
-
----
-
-### Group clash in Jaffna: Fire for boats
-
-*2024-08-14 09:33:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-குழு-மோதல்-படகுகளுக்கு-தீ-வைப்பு/71-342136) · `ta`
-
-In Jaffna-Chendangulam, a group clash led to three boats being set on fire and one severely damaged. The community worked to prevent further damage from spreading fires. Investigations are ongoing by Ilavalai police without any arrests made.
-
-🟩
-
-Three boats were set on fire and a boat was completely damaged in a clash between two groups in the Jaffna -Chendangulam area.
-
-Some of the wads are burnt and destroyed. Knowing this, the public gathered there to control the spread of fire.
-
-Ilavalai police are conducting investigations as no one has been arrested in connection with the incident so far. Remble
-
-◼️
-
-[Data](articles/94d4537e.json)
-
-[Extended Data](ext_articles/94d4537e.ext.json)
 
 ---

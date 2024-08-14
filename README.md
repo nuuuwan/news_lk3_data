@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 08:55:52**
+As of **2024-08-14 09:08:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,610 (100.0%) of 40,615 articles have been extended.
+40,615 (100.0%) of 40,615 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,45 +52,61 @@ The Acting Police Media Spokesperson DIG Ruwan Gunasekara announced that a speci
 
 [Data](articles/094ff583.json)
 
+[Extended Data](ext_articles/094ff583.ext.json)
+
 ---
 
-### தபால்மூல வாக்களிப்புக்கான திகதி இன்று அறிவிக்கப்படும்
+### The date for postal voting will be announced today
 
 *2024-08-14 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191038) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலுக்கான திகதி இன்று புதன்கிழமை (14) அறிவிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Elections Commission will announce the date for postal voting on Wednesday (14), after applications closed on the 9th.
 
-ஜனாதிபதித் தேர்தலுக்கு தபால்மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது கடந்த 09 ஆம் திகதியுடன் நிறைவடைந்துள்ளது.
+🟩
+
+The Elections Commission said that the date of the upcoming presidential election will be announced on Wednesday (14).
+
+Applications for postal voting for the presidential election have been completed by the 9th.
 
 ◼️
 
 [Data](articles/24653212.json)
 
+[Extended Data](ext_articles/24653212.ext.json)
+
 ---
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Fatal accidents that have been killed
 
 *2024-08-14 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199911) · `si`
 
-ප්‍රදේශ කිහිපයක සිදුවු රිය අනතුරු හේතුවෙන් කාන්තාවන් දෙදෙනෙකු ඇතුළු පස්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Yesterday, fatal road accidents resulted in the deaths of four individuals across various locations. A lorry collision in Puttalam killed two, injuring one woman who was rushed to Puttalam Hospital. In Milapitiya, a man was killed in another incident. A bus crash near Colombo-Wellawaya Hospital left a woman hospitalized in Tangalle. Additionally, in Batticaloa-Kalmunai, a motorbike accident resulted in the death of a 20-year-old and injuries to two others. Lastly, a motorcyclist was fatally injured after being hit by a lorry in Manampitiya.
 
-පොලීසිය සඳහන් කළේ, ඊයේ (13) දිනය තුළ එම අනතුරු සිදුව ඇති බවය.
+🟩
 
-පුත්තලම - ත්‍රිකුණාමලය මාර්ගයේ 17 හන්දිය ආසන්නයේ දී අනුරාධපුර සිට පුත්තලම දෙසට ධාවනය වූ ලොරි රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදුව තිබේ.
+Two persons including two men and women were killed in road accidents in several areas.
 
-අනතුරින් මාර්ගය අයිනේ රැඳී සිටි කාන්තාවක් තුවාල ලබා පුත්තලම රෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්ව ඇත.
+Police said that the accidents occurred yesterday (13).
 
-එලෙස මියගොස් ඇත්තේ අවුරුදු 70ක් වූ 17 කණුව, අලුත්ගම ප්‍රදේශයේ පදිංචිකාරියකි.
+A lorry traveling to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam has accidentally raised.
 
-මේ අතර, තැන්නේකුඹුර - රාගල මාර්ගයේ මයිලපිටිය ප්‍රදේශයේ දී වාහනයක ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+A woman was injured and admitted to the Puttalam Hospital in rushing at the accident.
 
-එලෙස මියගොස් ඇත්තේ අවුරුදු 70 ක් වූ මොරවක ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The deceased has been identified as 170 years in the Aluthgama area.
 
-මේ අතර කොළඹ - වැල්ලවාය ප්‍රධාන මාර්ගයේ තංගල්ල රෝහලට හැරෙන හංදියේ දී මාතර සිට කතරගම දෙසට ධාවනය වූ බස් රථයක් මගීන් බැස්සවීම සඳහා නතර කර නැවත ඉදිරියට ගමන් කිරීමේ දී බසයට ඉදිරියෙන් පාර මාරුවීමට ගිය කාන්තාවක් ගැටී අනතුරක් සිදුව තිබුණි.
+Meanwhile, a person was killed and killed in a vehicle in the Milapitiya area in Galankumbura - Ragala road.
+
+The deceased has been identified as a 70 year resident of Morawaka.
+
+Meanwhile, a bus traveling from Matara to Kataragama on the Colombo-Wellawaya Hospital on the Colombo-Wellawaya hospital, a bus to be shipped to the bus and returned to the bus in front of the bus.
+
+The woman, a 41-year-old resident of Beliwatta, was admitted to the Tangalle Hospital.
 
 ...
 
 [Data](articles/a6e19911.json)
+
+[Extended Data](ext_articles/a6e19911.ext.json)
 
 ---
 
@@ -112,19 +128,27 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/d519b1c5.json)
 
+[Extended Data](ext_articles/d519b1c5.ext.json)
+
 ---
 
-### தேயிலை, இறப்பர் தொழிற்றுறை தொழிலாளர்களுக்கான வேதனம் குறித்த வர்த்தமானி வெளியீடு
+### Gazette Release on Tea and Rubber Workers
 
 *2024-08-14 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191036) · `ta`
 
-தேயிலை, இறப்பர் தொழிற்றுறை தொழிலாளர்களுக்கான வேதனம் குறித்த வர்த்தமானி அறிவிப்பு சம்பள நிர்ணய சபையால் வெளியிடப்பட்டுள்ளது.
+The Gazette Notice for Tea and Rubber Workers, issued by the Salary Standing Board, announces a base salary of 1350 rupees plus a production promotion pay of 350 rupees.
 
-அதன்படி, அடிப்படை சம்பளம் 1350 ரூபாவும் உற்பத்தி ஊக்குவிப்பு கொடுப்பனவு 350 ரூபாவும் வழங்கப்படும் என்று வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+🟩
+
+The Gazette Notice of Tea and Rubber Workers has been issued by the Salary Standing Board.
+
+According to the Gazette, the base salary will be given 1350 rupees and the production promotion pay will be paid 350 rupees.
 
 ◼️
 
 [Data](articles/f1209c32.json)
+
+[Extended Data](ext_articles/f1209c32.ext.json)
 
 ---
 

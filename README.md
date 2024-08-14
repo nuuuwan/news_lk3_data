@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 20:55:20**
+As of **2024-08-14 21:06:28**
 
 ## Newspaper Stats
 
@@ -26,59 +26,77 @@ adaderanasinhalalk | 6,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,754 (100.0%) of 40,758 articles have been extended.
+40,758 (100.0%) of 40,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### රිෂාඩ් බදියුදීන්ගේ සහාය සජිත් ට
+### Sajith's support for Rishad Bathiudeen
 
 *2024-08-14 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199946) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී සමස්ත ලංකා මහජන කොංග්‍රසය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+The All Ceylon Public Congress will back opposition leader Sajith Premadasa in the upcoming presidential election, as announced by UNP Leader and party MP Rishard Bathiudeen.
 
-එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් මහතා ඒ බව පවසයි.
+🟩
+
+The All Ceylon Public Congress has decided to support opposition leader Sajith Premadasa at the next presidential election.
+
+UNP Leader of the party MP Rishard Bathiudeen said that.
 
 ◼️
 
 [Data](articles/f24991d9.json)
 
+[Extended Data](ext_articles/f24991d9.ext.json)
+
 ---
 
-### හික්කඩුවේ වැරදුණු කුරුමාණම
+### The incorrect tins in Hikkaduwa
 
 *2024-08-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199945) · `si`
 
-හික්කඩුව නගරයේදී ත්‍රීරෝද රථ රියදුරෙකුට වෙඩිතැබීමට ගත් උත්සායක් ව්‍යර්ථ වී තිබේ.
+In Hikkaduwa, two men tried to shoot a three-wheeler driver with T-56 rifles, but the guns malfunctioned. The driver managed to escape. Police are investigating.
 
-ටී56 ගිනි අවියක් ඇතැතිව යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් අද (14) පස්වරුවේදී මෙම වෙඩිතැබීම සිදු කිරීමට උත්සාහ දරා ඇති නමුත් ගිනිඅවිය ක්‍රියාත්මක වී නොමැති බව අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
+🟩
 
-ත්‍රීරෝද රථ රියදුරු එම අවස්ථාවේදී දිව ගොස් සැඟව ඇති අතර වෙඩිතැබීමට පැමිණි දෙදෙනා පළාගොස් ඇති බවද පොලීසිය පවසයි.
+An enables to shooting a three-wheeler driver in Hikkaduwa.
 
-එම ස්ථානයේ තිබී ටී56 ජීව උණ්ඩයක්ද හමුවී ඇති අතර සිද්ධිය සම්බන්ධයෙන් හික්කඩුව පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+Two t-56 rifle have attempted to carry out this shooting at a motorcycle this evening, but the firearm has revealed that the firearm has been implemented.
+
+The three-wheeler driver has come to running at the time, police said.
+
+The Hikkaduwa Police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/8146cc04.json)
 
+[Extended Data](ext_articles/8146cc04.ext.json)
+
 ---
 
-### මනූෂ වෙනුවට බණ්ඩාරිගොඩගේ නම ගැසට් කරයි
+### The name of Bandaraigoda instead gazettes
 
 *2024-08-14 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199944) · `si`
 
-මනූෂ නානායක්කාර ඉවත් කිරීමෙන් පුරප්පාඩු වූ සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ධූරය සඳහා බන්දුල ලාල් බණ්ඩාරිගොඩ මහතාගේ නම මැතිවරණ කොමිෂන් සභාව විසින් ගැසට් කර තිබේ.
+Bandula Lal Bandaraigoda's name has been officially registered by the Elections Commission for the Galle District parliamentary seat. The Supreme Court upheld the legitimacy of Samaga Fernando and Harin Fernando's party memberships on September 9th. Manusha Nanayakkara, coming second in the district's preferential vote list, is now eligible for Parliament. He was previously listed as a national MP in the 2020 General Elections and the reconciliation process.
 
-මනුෂ නානායක්කාර සහ හරීන් ප්‍රනාන්දුගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය පක්ෂය ගනු ලැබූ තීරණය නිත්‍යානුකූල බවට ශ්‍රේෂ්ඨාධිකරණය ඉකුත් 09 වනදා තීන්දු කිරීමත් සමග ඔවුන්ට මෙලෙස පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමි වුණි.
+🟩
 
-මනූෂ නානායක්කාර මහතා 2020 මැතිවරණයේ දී සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් මනාප ලැයිස්තුවේ දෙවන ස්ථානයට පත් වෙමින් පාර්ලිමේන්තුවට තේරී පත්වීම හේතුවෙන් මනාප ලැයිස්තුවේ තෙවන ස්ථානයට පත්වූ බන්දුලාල් බණ්ඩාරිගොඩ මහතාට පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව හිමිවී තිබේ.
+The name of Bandula Lal Bandaraigoda has been gazetted by the Elections Commission for the Galle District Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary.
 
-2020 වසරේ පැවති මහ මැතිවරණයේ දී හරීන් ප්‍රනාන්දු මහතා සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස පාර්ලිමේන්තුවට පත්වීම හේතුවෙන් ඔහුගේ පුරප්පාඩුව සඳහා සුදුස්සෙකු නම් කිරීම ද සමගි ජන බලවේගය පක්ෂය විසින් සිදුකළ යුතු ය.
+The Supreme Court was determined that the decision of the Samaga Fernando and Harin Fernando's party membership was legitimated on the 9th.
+
+Manusha Nanayakkara, who was elected second in the Galle District preferential preferential votes list, was entitled to Parliament.
+
+The party should be named as a national listing MP in the 2020 General Elections, as a national listing MP in the reconciliation.
 
 ◼️
 
 [Data](articles/2af74ee0.json)
+
+[Extended Data](ext_articles/2af74ee0.ext.json)
 
 ---
 
@@ -91,6 +109,8 @@ All Ceylon Makkal Congress (ACMC) MP Rishad Bathiudeen has pledged his party’s
 ◼️
 
 [Data](articles/0b793712.json)
+
+[Extended Data](ext_articles/0b793712.ext.json)
 
 ---
 

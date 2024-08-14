@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 15:55:25**
+As of **2024-08-14 16:08:40**
 
 ## Newspaper Stats
 
-*Scraped **40,713** Articles*
+*Scraped **40,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,625
 adalk | 3,745
 dailymirrorlk | 4,733
 adaderanalk | 4,749
-tamilmirrorlk | 5,192
+tamilmirrorlk | 5,193
 virakesarilk | 6,448
 adaderanasinhalalk | 6,924
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,924
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,710 (100.0%) of 40,713 articles have been extended.
+40,713 (100.0%) of 40,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### வேட்பு மனுவில் விஜயதாச கையொப்பம்
+
+*2024-08-14 15:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-விஜயதாச-கையொப்பம்/175-342168) · `ta`
+
+நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கான வேட்பு மனுவில் முன்னாள் நீதியமைச்சர் விஜயதாச ராஜபக்ஷ சற்று முன்னர் கையொப்பமிட்டார்.
+
+இது தொடர்பான  நிகழ்வு  கொழும்பு நாவலாவில் உள்ள அவரது இல்லத்தில்  நடைபெற்றது. இதன்போது சர்வமத தலைவர்கள் கலந்துக்கொண்டு ஆசிர்வதித்tதுள்ளனர் .
+
+◼️
+
+[Data](articles/75354469.json)
+
+---
 
 ### Ranil Wickremesinghe signs nominations for Presidential Election
 
@@ -43,6 +57,8 @@ He has signed the nomination papers at his political office in Flower Road, Colo
 ◼️
 
 [Data](articles/0cfbfef9.json)
+
+[Extended Data](ext_articles/0cfbfef9.ext.json)
 
 ---
 
@@ -86,15 +102,21 @@ The accident occurred when the tire of the vehicle traveling from Mattala to Kot
 
 ---
 
-### අවුරුදු 05කට රට භාර ගන්න අ​පේක්ෂකයන් 40ක් ඇප තියයි
+### 40 papers backed up for five years
 
 *2024-08-14 15:09:44* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-05කට-රට-භාර-ගන්න-අ​පේක්ෂකයන්-40ක්-ඇප-තියයි/11-411370) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 40 දෙනෙකු ඇප තැන්පත් කර ඇති බව මැතිවරණ කොමිෂණ් සභාව අද(14දා) සඳහන් කළේය.
+40 candidates are confirmed for the upcoming presidential election, supported by evidence from 40 academic papers stored for five years.
+
+🟩
+
+The Elections Commissioner also stated that 40 candidates have been placed on the next presidential election.
 
 ◼️
 
 [Data](articles/0050204b.json)
+
+[Extended Data](ext_articles/0050204b.ext.json)
 
 ---
 
@@ -488,17 +510,25 @@ Accordingly, the second schools in these schools will end on Friday 16th August.
 
 ---
 
-### 9වැනි ජනාධිපතිවරණය - තීරණාත්මක දෙවැනි මනාපය ?
+### The 9th presidential election - the crucial preferential
 
 *2024-08-14 13:32:00* · [`adalk`](https://www.ada.lk/opinion/9වැනි-ජනාධිපතිවරණය---තීරණාත්මක-දෙවැනි-මනාපය--/2-411369) · `si`
 
-සති ගණනාවක් පුරා පැතිර ගිය අනාවැකි සහ කටකතාවලට තිත තබමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ස්වාධීන අපේක්ෂකයෙකු ලෙසද, නාමල් රාජපක්ෂ මහතා ශ්‍රී ලංකා පොදුජන පෙරමුණ (SLPP) අපේක්ෂකයෙකු ලෙසද සැප්තැම්බර් 21වැනිදා පැවැත්වීමට නියමිත ජනාධිපතිවරණයට ඉදිරිපත් වන බව නිවේදනය කළේ එය සිවුකොන් තරගයක් බවට පත් කරමිනි. සමගි ජන බලවේගයේ (SJB) සජිත් ප්‍රේමදාස, ජාතික ජන බලවේගයේ (JJB) අනුර කුමාර දිසානායක අනෙක් ප්‍රමුඛ අපේක්ෂකයන් දෙදෙනාය.
+In the 9th Sri Lankan presidential election, Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa are key contenders. Wickremesinghe, an independent candidate backed by the SLPP and UNP, faces tight competition. Polls indicate a close race, with no clear winner expected to secure over 50% of the votes in the first round. The importance of second preferences looms large, potentially influencing the outcome.
 
-ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා, විජයදාස රාජපක්ෂ , දිලිත් ජයවීර සහ තවත් අපේක්ෂකයන් රැසක් තරග බිමේ සිටියද ප්‍රධාන තරගය වනුයේ ඉහත කී අපේක්ෂකයන් හතරදෙනා අතරය.
+🟩
+
+President Ranil Wickremesinghe has been an independent candidate as an independent candidate and the Sri Lanka Appointment (SLPP) candidate for weeks and rumors.. Sajith Premadasa, Sajith Premadasa, National JJs (JJB) Anura Kumara Dissanayake is the other two leading candidates.
+
+Field Marshal Sarath Fonseka, Wijeyadasa Rajapakse, Dilith Jayaweera and many other candidates in the ground, the four candidates will be over.
+
+The Sri Lanka General Assembly, 92 Members of Parliament, an independent candidate and the UNP (UNP) was a massive strength to support the leader of the UNP (UNP). This happened after the Rajapaksas made to submit a candidate on the Sri Lanka General Man. Even though Wickremasinghe's tight opponent, Wimal Weerawansa, was reluctant, was ahead of the candidate list.
 
 ...
 
 [Data](articles/7e56fc2c.json)
+
+[Extended Data](ext_articles/7e56fc2c.ext.json)
 
 ---
 
@@ -2181,27 +2211,5 @@ President Ranil Wickremesinghe, who participated in the inauguration of the Spec
 [Data](articles/f70a4d1e.json)
 
 [Extended Data](ext_articles/f70a4d1e.ext.json)
-
----
-
-### President reminds the country
-
-*2024-08-14 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199910) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of maintaining law and order to ensure a free and fair presidential election on September 21. He highlights the collective responsibility of the police, election commission, and citizens to prevent post-election violence and uphold democratic principles.
-
-🟩
-
-President Ranil Wickremesinghe says that the people of this country have received the opportunity to select a president by establishing law and order in July 2022.
-
-He said he was his responsibility to ensure that the country will ensure free and independent election in the country by consolidating law and order.
-
-President Ranil Wickremesinghe made this statement by participating in the opening of the Special Operations Command of the Special Operations Command of the Special Task Force.
-
-...
-
-[Data](articles/537d4b73.json)
-
-[Extended Data](ext_articles/537d4b73.ext.json)
 
 ---

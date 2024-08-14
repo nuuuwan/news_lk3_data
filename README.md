@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 18:39:28**
+As of **2024-08-14 18:55:56**
 
 ## Newspaper Stats
 
@@ -86,11 +86,11 @@ A group of officials including the Secretary of the “United Lanka Podujana Par
 
 They have reportedly been arrested today by officers of the Bribery Commission while accepting the bribe of Rs. 30 million from Mr. Ratnayake, the party’s presidential candidate.
 
-Former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL), Janaka Ratnayake is running for the presidential election this year as the candidate of the ‘United Lanka Podujana Party’ (Eksath Lanka Podujana Pakshaya).
+The suspects have been arrested based on a complaint lodged by the former PUCSL chairman, on behalf of whom the security deposit was placed this morning as the party’s presidential candidate.
 
-The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, had placed the security deposit on behalf of Janaka Ratnayake at the Election Commission this morning (14).
+The arrested persons including the secretary of the “United Lanka Podujana Party” are accused of attempting to solicit a bribe of Rs. 30 million from Mr. Ratnayake in exchange for making him the party’s presidential candidate.
 
-◼️
+...
 
 [Data](articles/860ceca3.json)
 
@@ -472,11 +472,11 @@ President Ranil Wickremesinghe has signed his nomination papers today (14) to co
 
 He has signed the nomination papers at his political office in Flower Road, Colombo.
 
+Prime Minister Dinesh Gunawardena, Ministers Nimal Siripala de Silva, Ali Sabry, Kanchana Wijesekera, Bandula Gunawardena and other government MPs were also present on the occasion.
+
 On July 26, President’s Counsel Ronald Perera had placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate..
 
 President Wickremesinghe had confirmed that he will contest the upcoming Presidential Election as an independent candidate, while addressing a public meeting held in Galle, on July 27.
-
-The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election had concluded at 12 noon today (14). The Election Commission has stated that in total 40 individuals have placed deposits to contest the upcoming presidential election.
 
 ...
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 08:15:45**
+As of **2024-08-14 08:25:47**
 
 ## Newspaper Stats
 
-*Scraped **40,608** Articles*
+*Scraped **40,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,462
 dailyftlk | 2,624
-adalk | 3,732
-adaderanalk | 4,729
+adalk | 3,733
+adaderanalk | 4,730
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,168
 virakesarilk | 6,425
@@ -26,59 +26,89 @@ adaderanasinhalalk | 6,904
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,604 (100.0%) of 40,608 articles have been extended.
+40,608 (100.0%) of 40,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### 1,700 ரூபாய் சம்பளம்: வர்த்தமானி வெளியானது
+### Gazette issued stipulating daily wage of plantation workers
+
+*2024-08-14 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101216/gazette-issued-stipulating-daily-wage-of-plantation-workers-) · `en`
+
+The Wages Board has issued a Gazette stipulating Rs. 1,350 as the daily wage and a productive incentive of Rs. 350 for tea and rubber sector workers.
+
+◼️
+
+[Data](articles/1e28b6f7.json)
+
+---
+
+### 1,700 rupees salary: Gazette released
 
 *2024-08-14 07:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-வர்த்தமானி-வெளியானது/175-342132) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளத்தை  1,700 ரூபாவாக அதிகரித்து மீண்டுமொரு வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+Plantation workers' daily wage increased to Rs 1,700, including a production-based promotion allowance of Rs 350. Objections must be submitted by 12 noon on the 28th.
 
-இதன்படி, நாளாந்த அடிப்படை வேதனமாக 1,350 ரூபாவும், உற்பத்தி அடிப்படையிலான ஊக்குவிப்பு கொடுப்பனவாக 350 ரூபாவுமாக 1,700 ரூபாய் வழங்கப்பட வேண்டும் என குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-குறித்த வர்த்தமானி அறிவித்தலுக்கு ஏதேனும் ஆட்சேபனைகள் காணப்படுமாயின் அதற்கான காரணங்களுடன் எதிர்வரும் 28ஆம் திகதி மதியம் 12 மணிக்கு முன்னர் சமர்ப்பிக்குமாறு அறிவிக்கப்பட்டுள்ளது. (a)
+Another gazette notification has been released by the daily salary of plantation workers to Rs 1,700.
+
+Accordingly, 1,350 rupees as a daily basis and Rs 1,700 as a production -based promotion allowance.
+
+If any objections to the gazette notification are found, it has been announced to be submitted before 12 noon on the 28th of this month.. (A)
 
 ◼️
 
 [Data](articles/3fc80b10.json)
 
+[Extended Data](ext_articles/3fc80b10.ext.json)
+
 ---
 
-### ’தேர்தலை நடத்துவது துறைசார் நிறுவனங்களின் பொறுப்பு’
+### The responsibility of sector corporations
 
 *2024-08-14 07:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்துவது-துறைசார்-நிறுவனங்களின்-பொறுப்பு/175-342131) · `ta`
 
-2022 ஆம் ஆண்டு ஜூலை மாதம் நாட்டில் சட்டம் ஒழுங்கை நிலைநாட்ட பாடுபட்டதன் மூலம் 2024 ஆம் ஆண்டு செப்டம்பர் மாதம் 21 ஆம் திகதி ஜனாதிபதியை தெரிவு செய்வதற்கு இந்நாட்டு மக்கள் தமது வாக்குகளைப் பயன்படுத்தவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+In July 2022, President Ranil Wickremesinghe emphasized the importance of maintaining law and order ahead of Sri Lanka's presidential election on September 21, 2024. He thanked security personnel for their commitment and highlighted the roles of the Elections Commission and Police Department in ensuring a fair and orderly election.
 
-அதற்காக அர்ப்பணிப்புடன் செயற்பட்ட அனைத்து பாதுகாப்பு தரப்பு உறுப்பினர்களுக்கும் ஜனாதிபதி தனது நன்றியைத் தெரிவித்தார்.
+🟩
 
-அத்துடன், சட்டம் ஒழுங்கை உறுதிப்படுத்தி நாட்டில் சுதந்திரமான தேர்தலுக்கு ஒத்துழைப்பது ஜனாதிபதி என்ற வகையில் தனதும் தேர்தல்கள் ஆணைக்குழு மற்றும் பொலிஸ் திணைக்களம் ஆகிய தரப்பினரதும் பொறுப்பு என ஜனாதிபதி சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe said the people of the country would use their votes to elect the President on September 21, 2024 by striving to uphold law and order in the country in July 2022.
 
-பொலிஸ் விசேட அதிரடிப்படையின் ஸ்ரீ ஜெயவர்தனபுர விசேட அதிரடிப் படை நடவடிக்கை மையத்தைத் திறந்து வைக்கும் நிகழ்வில் நேற்று கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். (a)
+The President expressed his gratitude to all security members who had been committed to that.
+
+The President also pointed out that it was the President of the Elections Commission and the Police Department to ensure law and order and cooperate with the independent election in the country.
+
+President Ranil Wickremesinghe, who participated in the inauguration of the Special Task Force Action Center of the Police Special Task Force. (A)
 
 ◼️
 
 [Data](articles/8d67dda0.json)
 
+[Extended Data](ext_articles/8d67dda0.ext.json)
+
 ---
 
-### රටටම යුතුකම මතක් කරන ජනපති
+### President reminds the country
 
 *2024-08-14 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199910) · `si`
 
-2022 ජූලි මාසයේදී රට තුළ නීතිය හා සාමය ස්ථාපිත කිරීම හේතුවෙන් තම ඡන්දය භාවිතා කර ජනාධිපතිවරයෙක් තෝරා ගැනීමට මේ රටේ ජනතාවට අවස්ථාව ලැබී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of maintaining law and order to ensure a free and fair presidential election on September 21. He highlights the collective responsibility of the police, election commission, and citizens to prevent post-election violence and uphold democratic principles.
 
-ඔහු  සඳහන් කළේ, නීතිය හා සාමය තහවුරු කරමින් රට තුළ නිදහස් සහ ස්වාධීන මැතිවරණයක් පැවැත්වීමට සහාය ලබාදීම ජනාධිපතිවරයා ලෙස තමාගේද වගකීමක් බවය.
+🟩
 
-පොලිස් විශේෂ කාර්ය බලකායේ ශ්‍රී ජයවර්ධනපුර විශේෂ මෙහෙයුම් විධානය විවෘත කිරිමේ අවස්ථාවට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+President Ranil Wickremesinghe says that the people of this country have received the opportunity to select a president by establishing law and order in July 2022.
+
+He said he was his responsibility to ensure that the country will ensure free and independent election in the country by consolidating law and order.
+
+President Ranil Wickremesinghe made this statement by participating in the opening of the Special Operations Command of the Special Operations Command of the Special Task Force.
 
 ...
 
 [Data](articles/537d4b73.json)
+
+[Extended Data](ext_articles/537d4b73.ext.json)
 
 ---
 
@@ -372,21 +402,27 @@ The proposal to implement this selection criteria framework presented by the Wat
 
 ---
 
-### விபத்தில் குடும்பஸ்தர் ஒருவர் மரணம்
+### Death of a family member in accident
 
 *2024-08-14 01:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-ஒருவர்-மரணம்/175-342130) · `ta`
 
-மாத்தறை, திக்வெல்ல பொலிஸ் பிரிவுக்குட்பட்ட மாத்தறை - கதிர்காமம் வீதியில் மாலியத்த பிரதேசத்தில் நேற்று இரவு இந்த விபத்து இடம்பெற்றுள்ளது என்று பொலிஸார் தெரிவித்துள்ளனர்.
+In a tragic accident on the Matara-Kadirgamam road, a motorcyclist heading from Dikwella to Matara collided with a cow, resulting in his death upon admission to the hospital. The Dikwella police are investigating the incident.
 
-திக்வெல்லவிலிருந்து மாத்தறை நோக்கிப் பயணித்த மோட்டார் சைக்கிள் ஒன்று வீதியில் சென்றுகொண்டிருந்த மாடு ஒன்றுடன்  மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-இதன்போது மோட்டார் சைக்கிளை செலுத்தியவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் சேர்க்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+The accident took place last night at Matara - Kadirgamam road belonging to the Matara and Dikwella police division, police said.
 
-இந்த சம்பவம் தொடர்பான மேலதிக விசாரணைகளை திக்வெல்ல பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+The accident occurred when a motorcycle traveling from Dikwella to Matara collided with a cow on the road.
+
+The motorcycle driver has died after being admitted to the hospital after being injured.
+
+Dikwella police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/bb16d8d3.json)
+
+[Extended Data](ext_articles/bb16d8d3.ext.json)
 
 ---
 
@@ -873,6 +909,24 @@ The Customs officers are conducting further investigations into the incident.
 [Data](articles/fd3fb229.json)
 
 [Extended Data](ext_articles/fd3fb229.ext.json)
+
+---
+
+### ජනපතිට හා සජිත්ට අනුරගෙන් චෝදනාවක්
+
+*2024-08-13 20:05:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-හා-සජිත්ට-අනුරගෙන්-චෝදනාවක්/11-411361) · `si`
+
+ජනාධිපතිවරයා හා විපක්ෂනායකවරයා තමන්ගේ මැතිවරණ ප්‍රචාරණ කටයුතු වෙනුවෙන් රාජ්‍ය දේපළ හා මුදල් යොදාගනිමින් සිටින බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය. ඡන්දදායකයාට අල්ලස් දීමේ ක්‍රියාවලියක්ද ආරම්භ කර ඇති බවද දිසානායක මහතා ප්‍රකාශ කළේය.
+
+දිසානායක මහතා මේ බව පැවසුවේ අද (13දා) ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේ පැවති මාධ්‍ය හමුවේදීය.
+
+“අපේ මැතිවරණ ව්‍යාපාරය 17වැනි සෙනසුරාදා ආරම්භ කිරීමට තීරණය කොට තිබෙනවා. හම්බන්තොට දිස්ත්‍රික්කයේ තංගල්ල නගරයේදීත්, මාතර නගරයේදීත්, ගාල්ල නගරයේදීත් ප්‍රධාන මහ රැලි තුනක් පැවැත්වීමට සූදානම් කොට තිබෙනවා.
+
+ඉන්පසුව උතුරු නැගෙනහිර පළාත් ඇතුළත්ව ලංකාවේ සෑම දිස්ත්‍රික්කයකම සියලු ආසන නියෝජනය වන පරිදි මැතිවරණ ව්‍යාපාරය දියත් කිරීමට කටයුතු සූදානම් කොට තිබෙනවා. ඒ වගේම නගරවල සිට ගම් දක්වා තවත් රැස්වීම් මාලාවක් සූදානම් කර තිබෙනවා. ඒ වගේම නිවෙස් ආශ්‍රිතව කරන ගෘහස්ථ සාකච්ඡා ගෙයින් ගෙට ගොස් කරන ජනතාව දැනුම්වත් කිරීම් අපගේ මැතිවරණ ව්‍යාපාරයට ඇතුළත් කොට තිබෙනවා.
+
+...
+
+[Data](articles/22c60c80.json)
 
 ---
 
@@ -2083,51 +2137,5 @@ According to the mother's complaint, the student had left the house on Monday (1
 [Data](articles/7d8cc95d.json)
 
 [Extended Data](ext_articles/7d8cc95d.ext.json)
-
----
-
-### "Sokku Malli"
-
-*2024-08-13 14:25:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தாவினார்-சொக்க-மல்லி/175-342103) · `ta`
-
-State Minister Premalal Jayasekara, who earlier backed President Ranil Wickremesinghe, now supports Namal Rajapaksa as the presidential candidate of the Sri Lanka People's Alliance (PA).
-
-🟩
-
-State Minister Premalal Jayasekara, who has previously announced that he will support President Ranil Wickremesinghe in the upcoming election, has now changed his support.
-
-He said that the presidential candidate of the Sri Lanka PA would be supported by Namal Rajapaksa.
-
-◼️
-
-[Data](articles/86b26a6f.json)
-
-[Extended Data](ext_articles/86b26a6f.ext.json)
-
----
-
-### Sri Lanka plans Rs200bn state worker wage hike for 2025
-
-*2024-08-13 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-rs200bn-state-worker-wage-hike-for-2025-176592/) · `en`
-
-ECONOMYNEXT – Sri Lanka will hike state worker wages between 24 to 35 percent in a 2025 budget while trimming grades to reduce salary anomalies, Minister Bandula Gunawardana said.
-
-The salary hikes came from recommendations in an interim report from a committee appointed to study salary increments and anomalies earlier in the year.  The committee consulted 200 persons before making the recommendations.
-
-Cost of living allowances of active workers will be consolidated and increased to 25,000 rupees. Pensioners would get half that.
-
-After the revision the lowest gross salary of a state worker would be 55,000 rupees.
-
-The committee has recommended that all future recruitments would be made after competitive examinations.
-
-In 2023 Sri Lanka had 1.35 million state workers in 2023, and the salary bill was 939 billion rupees and the pension cost was 372 billion rupees.
-
-The Committee has also recommended that the state worker cadre be reduced to one million by 2030.
-
-...
-
-[Data](articles/d0851cb7.json)
-
-[Extended Data](ext_articles/d0851cb7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 02:21:14**
+As of **2024-08-15 02:36:16**
 
 ## Newspaper Stats
 
-*Scraped **40,780** Articles*
+*Scraped **40,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
 tamilmirrorlk | 5,200
-virakesarilk | 6,463
+virakesarilk | 6,465
 adaderanasinhalalk | 6,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,778 (100.0%) of 40,780 articles have been extended.
+40,780 (100.0%) of 40,782 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,21 +42,61 @@ Assuming that the 21 September Presidential election would be held as scheduled,
 
 [Data](articles/70260cc3.json)
 
+[Extended Data](ext_articles/70260cc3.ext.json)
+
 ---
 
-### தாய்லாந்து பிரதமர் பதவி நீக்கம்
+### Thailand prime minister
 
 *2024-08-15 01:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-பதவி-நீக்கம்/50-342180) · `ta`
 
-தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் அரசியலமைப்பை மீறியதாக நீதிமன்றம் தீர்ப்பளித்ததையடுத்து அவர் பதவியிலிருந்து நீக்கப்பட்டுள்ளார்.
+Thailand's Prime Minister Srettha Thavisin was dismissed due to constitutional violations, including unethical practices like appointing a cabinet member based on improper grounds. This decision came a week after the dissolution of the Move Forward Party and a 10-year political ban on its leaders.
 
-சிறைத்தண்டனை அனுபவித்து வரும் ஒருவரை அமைச்சரவை உறுப்பினராக நியமித்ததன் மூலம் நெறிமுறைகளை மீறியதன் அடிப்படையில் இப்பதவி நீக்க உத்தரவு வழங்கப்பட்டதாக வெளிநாட்டு செய்திகள் தெரிவிக்கின்றன.
+🟩
 
-கடந்த ஆண்டு தேர்தலில் அதிக இடங்களைப் பெற்ற நாட்டின் பிரபலமான முற்போக்கு மூவ் ஃபார்வர்ட்  கட்சியை நீதிமன்றம் கலைத்து, அதன் தலைவர்களை 10 ஆண்டுகளுக்கு அரசியலில் இருந்து தடை செய்து ஒரு வாரத்திற்குப் பிறகு இத்தீர்ப்பு அறிவிக்கப்பட்டுள்ளது. (a)
+He has been sacked after a court ruled that Thailand Prime Minister Shreta Tavis had violated the constitution.
+
+Foreign reports say that the appointment of a cabinet member as a Cabinet member has been issued on the basis of violation of ethics.
+
+The verdict was announced a week later after the court dissolved the country's popular progressive Move Forward Party and ban its leaders from politics for 10 years.. (A)
 
 ◼️
 
 [Data](articles/fec39d16.json)
+
+[Extended Data](ext_articles/fec39d16.ext.json)
+
+---
+
+### நாகபட்டினம் - காங்கேசன்துறை கப்பல் போக்குவரத்து நாளை முதல் மீள ஆரம்பம்
+
+*2024-08-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191118) · `ta`
+
+நாகபட்டினத்தில் இருந்து காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை நாளை வெள்ளிக்கிழமை (16) முதல் ஆரம்பமாகவுள்ளது.
+
+தமிழகத்தின் நாகபட்டினத்திலிருந்து இலங்கையின் காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை கடந்த ஆண்டு ஒக்டோபர் 14 ஆம் திகதி ஆரம்பிக்கப்பட்ட நிலையில், புயல் மற்றும் வட, கிழக்கு பருவமழையைக் காரணங்காட்டி, அச்சேவை ஒக்டோபர் 23 ஆம் திகதி திடீரென இடைநிறுத்தப்பட்டது.
+
+இக்கப்பல் போக்குவரத்து வெகுவிரைவில் மீள ஆரம்பிக்கப்படும் என அறிவிக்கப்பட்டிருந்த நிலையில், கடந்த 10 ஆம் திகதி 'சிவகங்கை' பயணிகள் கப்பலின் சோதனை ஓட்டம் நடைபெற்றது. அதற்கமைய அன்றைய தினம் காலை 8 மணியளவில் நாகபட்டினத்திலிருந்து புறப்பட்ட 'சிவகங்கை' பயணிகள் கப்பல், அன்று நண்பகல் 12.00 மணியளவில் காங்கேசன்துறையை வந்தடைந்தது.
+
+இந்த சோதனை ஓட்டம் வெற்றிகரமாக நிறைவடைந்த நிலையில், நாகபட்டினம் முதல் காங்கேசன்துறைக்கான கப்பல் போக்குவரத்து சேவை நாளைய தினத்திலிருந்து மீள ஆரம்பிக்கப்படவிருப்பதாக உத்தியோகபூர்வமாக அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e3e18ec9.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் போட்டியிட 40 பேர் கட்டுப்பணம் செலுத்தல் - தேர்தல்கள் ஆணைக்குழு
+
+*2024-08-15 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191117) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு  40  பேர்  இதுவரை வேட்பாளர்கள் கட்டுப்பணம் செலுத்தியுள்ளனர்.இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகள் சார்பில் போட்டியிட  22  பேரும், வேறு அரசியல் கட்சிகள் சார்பில் போட்டியிட 1 வேட்பாளரும், சுயேட்சை வேட்பாளராக 17 பேரும் கட்டுப்பணம் செலுத்தியுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+2019 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு 41 பேர் கட்டுப்பணம் செலுத்தியிருந்த நிலையில் 35 பேர் மாத்திரம் வேட்புமனுக்களை சமர்த்தித்து போட்டியிட்டனர்.ஒன்பதாவது ஜனாதிபதித் தேர்தல் எதிர்வரும் மாதம் 21 ஆம் திகதி இடம்பெறவுள்ள நிலையில் தேர்தலில் போட்டியிடுவதற்கு ...40 பேர் கட்டுப்பணம் செலுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/02506195.json)
 
 ---
 
@@ -2195,63 +2235,5 @@ When asked what document must be produced to verify the identity of voters, he r
 [Data](articles/cfd793fc.json)
 
 [Extended Data](ext_articles/cfd793fc.ext.json)
-
----
-
-### 2024 Presidential Election: Guideline is over
-
-*2024-08-14 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199923) · `si`
-
-The deadline for the 2024 Presidential Election ended today, with 38 candidates nominated, including 20 from recognized political parties and 17 independents. The nomination process started on July 26 and concluded today. The Elections Commission has also set dates for postal voting: September 4, 5, and 6. By September 11 and 12, all postal ballot papers will be marked. So far, 42 complaints have been filed, with 37 related to election laws, and 22 each to the National Election Complaint Management Center and district election complaint centers since July 31.
-
-🟩
-
-The bail of the Presidential Election 2024 was over the afternoon today (14).
-
-The Elections Commission stated that 38 candidates have been deposited for the presidential election.
-
-Twenty-recognized political parties and 17 persons as independent candidates and 17 persons were deposited for the next presidential election today (14).
-
-Workers on the presidential election began on the 26th of July and was completed at 12 weeks.
-
-Meanwhile the Elections Commission (EPL) has published the postal voting day of the presidential election.
-
-The commission announced that September 4, 5, 6, is facilitated for postal voting.
-
-On September 4, the postal voting facilities to employed on district secretariats and election secretariats and the election secretariats.
-
-The Elections Commission says that the number of postal ballot papers will be marked by September 11 and 12.
-
-Meanwhile, 42 complaints have been reported in the past 24 hours in connection with the presidential election.
-
-...
-
-[Data](articles/7290549b.json)
-
-[Extended Data](ext_articles/7290549b.ext.json)
-
----
-
-### Killing
-
-*2024-08-14 12:19:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொன்று-பலாத்காரம்-தூங்கி-எழுந்து-துணி-துவைத்த-கொலையாளி/175-342156) · `ta`
-
-A female doctor was brutally murdered in Kolkata, her body discovered in a seminar hall at the Government Hospital where she studied. The suspect, identified as Sanjay Roy, a volunteer at the hospital, was caught on CCTV entering and leaving the scene around the time of the murder. He was arrested after evidence linked him to the crime, including a missing Bluetooth headset and bloodstains on his shoes. The case has sparked outrage, leading to protests and strikes by doctors nationwide, and a petition for the case to be transferred to the Central Intelligence Unit.
-
-🟩
-
-The murderer who murdered a doctor in a horrific manner, sleeps well and washed her clothes and went to work. But he was trapped because he had forgotten to wash alone.
-
-In the murder of Kolkata female doctor, subsequent reports are revealed. Investigations are ongoing. The second year of Masters at the Government Hospital in Kolkata. 2 days ago, the corpse was recovered at the seminar at the 3rd floor of the same hospital. When he was in Night Tuti that day, he was raped and murdered.
-
-Since the hospital students have no rest, she has gone to the Seminar Hall on the fourth floor of the hospital.But the other students could not try to contact him because he did not return in the morning. So, when a fellow man went to the seminar hall, they screamed at the corpse.
-
-Female doctor is lying half -naked in a flood. After that, the police seized the body and sent it to the Post Mart. Sanjay Roy has been arrested by 3 separate units in this regard.
-
-...
-
-[Data](articles/ee7b7b75.json)
-
-[Extended Data](ext_articles/ee7b7b75.ext.json)
 
 ---

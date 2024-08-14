@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 08:25:47**
+As of **2024-08-14 08:36:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,904
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,608 (100.0%) of 40,610 articles have been extended.
+40,610 (100.0%) of 40,610 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The Wages Board has issued a Gazette stipulating Rs. 1,350 as the daily wage and
 ◼️
 
 [Data](articles/1e28b6f7.json)
+
+[Extended Data](ext_articles/1e28b6f7.ext.json)
 
 ---
 
@@ -912,21 +914,27 @@ The Customs officers are conducting further investigations into the incident.
 
 ---
 
-### ජනපතිට හා සජිත්ට අනුරගෙන් චෝදනාවක්
+### Anuradansa and Sajith charged from Anura
 
 *2024-08-13 20:05:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-හා-සජිත්ට-අනුරගෙන්-චෝදනාවක්/11-411361) · `si`
 
-ජනාධිපතිවරයා හා විපක්ෂනායකවරයා තමන්ගේ මැතිවරණ ප්‍රචාරණ කටයුතු වෙනුවෙන් රාජ්‍ය දේපළ හා මුදල් යොදාගනිමින් සිටින බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය. ඡන්දදායකයාට අල්ලස් දීමේ ක්‍රියාවලියක්ද ආරම්භ කර ඇති බවද දිසානායක මහතා ප්‍රකාශ කළේය.
+Anura Kumara Dissanayake, leader of the National Power, accused the President and Opposition Leader of misusing state resources for elections. He announced their campaign kickoff on July 17th, with major rallies in Tangalle, Batticaloa, and Galle, covering all districts. The campaign includes city-to-village meetings and focuses on sectors like tourism and energy, aiming to address Sri Lanka's dollar crisis. They plan to release their economic policy on September 3rd, emphasizing education, health, and food security.
 
-දිසානායක මහතා මේ බව පැවසුවේ අද (13දා) ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේ පැවති මාධ්‍ය හමුවේදීය.
+🟩
 
-“අපේ මැතිවරණ ව්‍යාපාරය 17වැනි සෙනසුරාදා ආරම්භ කිරීමට තීරණය කොට තිබෙනවා. හම්බන්තොට දිස්ත්‍රික්කයේ තංගල්ල නගරයේදීත්, මාතර නගරයේදීත්, ගාල්ල නගරයේදීත් ප්‍රධාන මහ රැලි තුනක් පැවැත්වීමට සූදානම් කොට තිබෙනවා.
+Leader of the National Power Anura Kumara Dissanayake said that the President and the Opposition Leader is using state property and money for their election campaigns.. Mr. Dissanayake said the voter's voter was started with a bribery process.
 
-ඉන්පසුව උතුරු නැගෙනහිර පළාත් ඇතුළත්ව ලංකාවේ සෑම දිස්ත්‍රික්කයකම සියලු ආසන නියෝජනය වන පරිදි මැතිවරණ ව්‍යාපාරය දියත් කිරීමට කටයුතු සූදානම් කොට තිබෙනවා. ඒ වගේම නගරවල සිට ගම් දක්වා තවත් රැස්වීම් මාලාවක් සූදානම් කර තිබෙනවා. ඒ වගේම නිවෙස් ආශ්‍රිතව කරන ගෘහස්ථ සාකච්ඡා ගෙයින් ගෙට ගොස් කරන ජනතාව දැනුම්වත් කිරීම් අපගේ මැතිවරණ ව්‍යාපාරයට ඇතුළත් කොට තිබෙනවා.
+Mr. Dissanayake made this statement at a press conference held at the Head Office of the JVP today.
+
+"Our election campaign has been decided to commence Saturday 17th Saturday 17th. Three main great rallies have been prepared in Tangalle, Batticaloa and Galle and Galle.
+
+Then, including the North and East, has arranged for the election campaign representing all seats in every district of Sri Lanka.. Also, a series of meetings from cities have been prepared to village. Our election campaign has been included in the homes of home negotiations.
 
 ...
 
 [Data](articles/22c60c80.json)
+
+[Extended Data](ext_articles/22c60c80.ext.json)
 
 ---
 

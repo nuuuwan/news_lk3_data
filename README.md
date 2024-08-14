@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 07:51:14**
+As of **2024-08-14 08:15:45**
 
 ## Newspaper Stats
 
-*Scraped **40,604** Articles*
+*Scraped **40,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,81 +18,149 @@ dailyftlk | 2,624
 adalk | 3,732
 adaderanalk | 4,729
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,165
+tamilmirrorlk | 5,168
 virakesarilk | 6,425
-adaderanasinhalalk | 6,903
+adaderanasinhalalk | 6,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,601 (100.0%) of 40,604 articles have been extended.
+40,604 (100.0%) of 40,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### ඇප තැන්පත් කිරීම අද දහවල් 12න් අවසන්
+### 1,700 ரூபாய் சம்பளம்: வர்த்தமானி வெளியானது
+
+*2024-08-14 07:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-வர்த்தமானி-வெளியானது/175-342132) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளத்தை  1,700 ரூபாவாக அதிகரித்து மீண்டுமொரு வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, நாளாந்த அடிப்படை வேதனமாக 1,350 ரூபாவும், உற்பத்தி அடிப்படையிலான ஊக்குவிப்பு கொடுப்பனவாக 350 ரூபாவுமாக 1,700 ரூபாய் வழங்கப்பட வேண்டும் என குறிப்பிடப்பட்டுள்ளது.
+
+குறித்த வர்த்தமானி அறிவித்தலுக்கு ஏதேனும் ஆட்சேபனைகள் காணப்படுமாயின் அதற்கான காரணங்களுடன் எதிர்வரும் 28ஆம் திகதி மதியம் 12 மணிக்கு முன்னர் சமர்ப்பிக்குமாறு அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/3fc80b10.json)
+
+---
+
+### ’தேர்தலை நடத்துவது துறைசார் நிறுவனங்களின் பொறுப்பு’
+
+*2024-08-14 07:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்துவது-துறைசார்-நிறுவனங்களின்-பொறுப்பு/175-342131) · `ta`
+
+2022 ஆம் ஆண்டு ஜூலை மாதம் நாட்டில் சட்டம் ஒழுங்கை நிலைநாட்ட பாடுபட்டதன் மூலம் 2024 ஆம் ஆண்டு செப்டம்பர் மாதம் 21 ஆம் திகதி ஜனாதிபதியை தெரிவு செய்வதற்கு இந்நாட்டு மக்கள் தமது வாக்குகளைப் பயன்படுத்தவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அதற்காக அர்ப்பணிப்புடன் செயற்பட்ட அனைத்து பாதுகாப்பு தரப்பு உறுப்பினர்களுக்கும் ஜனாதிபதி தனது நன்றியைத் தெரிவித்தார்.
+
+அத்துடன், சட்டம் ஒழுங்கை உறுதிப்படுத்தி நாட்டில் சுதந்திரமான தேர்தலுக்கு ஒத்துழைப்பது ஜனாதிபதி என்ற வகையில் தனதும் தேர்தல்கள் ஆணைக்குழு மற்றும் பொலிஸ் திணைக்களம் ஆகிய தரப்பினரதும் பொறுப்பு என ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் ஸ்ரீ ஜெயவர்தனபுர விசேட அதிரடிப் படை நடவடிக்கை மையத்தைத் திறந்து வைக்கும் நிகழ்வில் நேற்று கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/8d67dda0.json)
+
+---
+
+### රටටම යුතුකම මතක් කරන ජනපති
+
+*2024-08-14 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199910) · `si`
+
+2022 ජූලි මාසයේදී රට තුළ නීතිය හා සාමය ස්ථාපිත කිරීම හේතුවෙන් තම ඡන්දය භාවිතා කර ජනාධිපතිවරයෙක් තෝරා ගැනීමට මේ රටේ ජනතාවට අවස්ථාව ලැබී ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු  සඳහන් කළේ, නීතිය හා සාමය තහවුරු කරමින් රට තුළ නිදහස් සහ ස්වාධීන මැතිවරණයක් පැවැත්වීමට සහාය ලබාදීම ජනාධිපතිවරයා ලෙස තමාගේද වගකීමක් බවය.
+
+පොලිස් විශේෂ කාර්ය බලකායේ ශ්‍රී ජයවර්ධනපුර විශේෂ මෙහෙයුම් විධානය විවෘත කිරිමේ අවස්ථාවට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/537d4b73.json)
+
+---
+
+### The bail deposits ends this afternoon
 
 *2024-08-14 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199909) · `si`
 
-මෙවර ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම අද (14) දහවල් 12න් අවසන් කිරීමට නියමිතව තිබේ.
+Bail deposits conclude today, with the presidential election deposit deadline also set for completion. The Elections Commission reports 36 payments made, including 19 recognized political parties and one other, with 16 independents ready for the next election. Nominations close at 9 am tomorrow, accompanied by a special security plan for the election office.
 
-මැතිවරණ කොමිෂන් සභාව සඳහන් කළේ, මේ වන විට ජනාධිපතිවරණය සඳහා ඉදිරිපත් වීමට පුද්ගලයින් 36 දෙනෙක් ඇප මුදල් තැන්පත් කර ඇති බවය.
+🟩
 
-පිළිගත් දේශපාලන පක්ෂ පක්ෂ 19ක් සහ වෙනත් දේශපාලන පක්ෂයක් ඒ අතර වන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The deposit of the presidential election is due to be completed today (14).
 
-ස්වාධීන අපේක්ෂකයින් ලෙස පුද්ගලයින් 16 දෙනෙකු ද ඉදිරි ජනාධිපතිවරණය සඳහා මේ වන විට ඇප මුදල් තැන්පත් කර තිබේ.
+The Elections Commission states that 36 people have been paid to the presidential election.
 
-එළැඹෙන ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරගැනීම හෙට (15) පෙරවරු 9ට ආරම්භ කිරීමට නියමිත එදින අතර පෙරවරු 11 දක්වා නාමයෝජනා භාරගැනීම සිදුකිරීමට නියමිතය.
+The Elections Commission states that 19 recognized political parties and another political party are among them.
 
-නාමයෝජනා භාරගන්නා දිනයේ දී මැතිවරණ කාර්යාලය ආශ්‍රිතව විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ද සැලසුම් කර ඇති බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා සඳහන් කළේය.
+As independent candidates, 16 people have already deposited money for the next presidential election.
+
+Nominations will be taken up to 11 am tomorrow (15) at 9am.
+
+Acting Police Media Spokesperson DIG Ruwan Gunasekara stated that a special security program is also planned to implement a special security program in the election office on the date of acceptance.
 
 ◼️
 
 [Data](articles/a6e38195.json)
 
+[Extended Data](ext_articles/a6e38195.ext.json)
+
 ---
 
-### වතු සේවක වැටුප රු 1,700 කළ ගැසට්ටුව නිකුත් කෙරේ
+### Estate employee salary is issued Rs. 1,700
 
 *2024-08-14 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199908) · `si`
 
-වතු කම්කරු දෛනික වැටුප රුපියල් 1,700 දක්වා ඉහළ නැවීමට අදාළ ගැසට් නිවේදනය නිකුත් කර තිබේ.
+A gazette notification has been issued, signed by Mr. Jayasundera, detailing staff pay adjustments including a daily wage increase for tea and rubber plantation workers to Rs. 1,700, with additional productivity incentives. The Chairman of the Pay of Staff, K.K.A., and the Stable Control Chairman have endorsed these changes, aiming to address concerns raised by protesters.
 
-පඩි පාලක සභාවේ සභාපති එච්. කේ. කේ. ඒ. ජයසුන්දර මහතාගේ අත්සනින් යුතුව මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන්ය.
+🟩
 
-තේ වතු කම්කරුවකුගේ දෛනික වැටුප 1,350 ලෙස එහි සඳහන් වන අතර එම වැටුප සේවක අර්ථසාධක අරමුදල් සහ සේවා නියුක්තිකයින්ගේ භාර අරමුදල් ගෙවීම්වලට යටත්ව සිදුකළ යුතු බව අදාළ ගැසට් නිවේදනයේ සඳහන් වේ.
+The gazette notification has been issued to cover Rs. 1,700.
 
-ඊට අමතරව ඵලදායිතාව මත පදනම් වූ දිරි දීමානාවක් ලෙස රුපියල් 350ක මුදලක්ද ගෙවිය යුතු බව එම ගැසට් නිවේදනයේ තවදුරටත් සඳහන්ය.
+Chairman of the Pay of Staff. K. K. A. The gazette notification has been issued with the signature of Mr. Jayasundera.
 
-එමෙන්ම රබර් වතු කම්කරුවන්ගේ දෛනික වැටුප ද 1,700 දක්වා ඉහළ නැංවිය යුතු බවටද අදාළ ගැසට් නිවේදනයේ සඳහන් වේ.
+The gazette notification stated that the daily wage of a tea plantation worker should be carried out subject to Employees Provident Fund and Employees' Trust Fund Payments.
 
-මෙම යෝජනා සම්බන්ධයෙන් වන විරෝධතා, එසේ විරුද්ධ වීමට හේතුවන කරුණු පිළිබඳ ප්‍රකාශයක්ද සමඟ එළැඹෙන 28 වනදා මධ්‍යාහ්න 12ට පෙර තමා වෙත යොමු කරන ලෙස පඩි පාලක සභාවේ සභාපතිවරයා අදාළ ගැසට් නිවේදනයේ තවදුරටත් සඳහන් කර තිබේ.
+In addition, a sum of Rs. 350 is Rs. 350 as a productivity based incentive.
+
+The gazette notification stated that the daily wage of rubber plantation should be increased to Rs 1,700.
+
+The Chairman of the Stabile Control will further stated in the gazette notification to direct the protesters on these proposals.
 
 ◼️
 
 [Data](articles/5517cfe7.json)
 
+[Extended Data](ext_articles/5517cfe7.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-08-14 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199906) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of showers and thundershowers across the Western, Sabaragamuwa Provinces, and Galle/Matara districts, with heavy rainfall possible. Thundershowers expected in the evening/night, strong winds and lightning risks advised.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක් තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorology announces that showers or thundershowers will occur at times in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ වයඹ පළාතෙත් අම්පාර, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+Thundershowers will develop at several places in the evening or night during the evening or night.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+Some areas are mm. Strong rain can be over 50.
+
+At times, there is now from time to time in the central hills, in the central hills and Ampara, Moneragala and Hambantota districts.. Strong winds can occur 30-40 times.
+
+The public is kindly requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7d1fcd55.json)
+
+[Extended Data](ext_articles/7d1fcd55.ext.json)
 
 ---
 
@@ -301,6 +369,24 @@ The proposal to implement this selection criteria framework presented by the Wat
 [Data](articles/6c7b0d40.json)
 
 [Extended Data](ext_articles/6c7b0d40.ext.json)
+
+---
+
+### விபத்தில் குடும்பஸ்தர் ஒருவர் மரணம்
+
+*2024-08-14 01:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-ஒருவர்-மரணம்/175-342130) · `ta`
+
+மாத்தறை, திக்வெல்ல பொலிஸ் பிரிவுக்குட்பட்ட மாத்தறை - கதிர்காமம் வீதியில் மாலியத்த பிரதேசத்தில் நேற்று இரவு இந்த விபத்து இடம்பெற்றுள்ளது என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+திக்வெல்லவிலிருந்து மாத்தறை நோக்கிப் பயணித்த மோட்டார் சைக்கிள் ஒன்று வீதியில் சென்றுகொண்டிருந்த மாடு ஒன்றுடன்  மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+இதன்போது மோட்டார் சைக்கிளை செலுத்தியவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் சேர்க்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+இந்த சம்பவம் தொடர்பான மேலதிக விசாரணைகளை திக்வெல்ல பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/bb16d8d3.json)
 
 ---
 
@@ -2043,105 +2129,5 @@ The Committee has also recommended that the state worker cadre be reduced to one
 [Data](articles/d0851cb7.json)
 
 [Extended Data](ext_articles/d0851cb7.ext.json)
-
----
-
-### 3 Tamil MPs meet with Sajith
-
-*2024-08-13 14:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-தமிழ்-எம்-பிக்கள்-சஜித்துடன்-சந்திப்பு/175-342102) · `ta`
-
-Tamil MPs from TNA, Tamil Eelam Liberation Movement, and Democratic People's Liberation Front met with Sajith Rajapakse, the opposition leader and presidential candidate, on Tuesday. The discussion took place in the Opposition, following Sajith Premadasa's invitation.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarians, Tamil Eelam Liberation Movement leader Selvam Adakkalanathan, Secretary General Govindan Karunagaram and Democratic People's Liberation Front leader Dharmalingam Siddharthan. Sajith Rajapakse, the presidential candidate and the leader of the opposition, has held talks.
-
-The meeting was held on Tuesday (13) in the Opposition, accepting the invitation of Presidential candidate and opposition leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/9c9e08c5.json)
-
-[Extended Data](ext_articles/9c9e08c5.ext.json)
-
----
-
-### Sri Lanka seeks PPP to install solar panels on 300 railway stations: Transport minister
-
-*2024-08-13 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-ppp-to-install-solar-panels-on-300-railway-stations-transport-minister-176568/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call for expressions of interest for public private partnerships to install solar panels on 300 railway stations around the island, Minister of Transport Bandula Gunawardena said.
-
-“Areas in the north and east especially, and also to the south in Hambanthota, receive a lot of sunlight. It would be advantageous for the Railways if we can make a profit with solar panels on the stations’ roofs,” Gunawardena told reporters.
-
-The cabinet approved his proposal to call for tenders for PPPs, he said. Previous expressions of interest will be disregarded and new ones will be called instead.
-
-State-run Sri Lanka Railways has been exploring new avenues to boost its revenue including leasing spaces above some stations located in strategic locations, streamlining illegal occupancy of its lands, and increasing transport of goods and parcels.
-
-The island nation’s more than a century old railway has yet to make breakeven in its operations.
-
-...
-
-[Data](articles/d3db6bd6.json)
-
-[Extended Data](ext_articles/d3db6bd6.ext.json)
-
----
-
-### Wild fire in Greece;One killed
-
-*2024-08-13 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/190964) · `ta`
-
-A deadly wildfire near Athens, Greece, has resulted in one fatality and led to the evacuation of thousands. The blaze, which started 35km north of Athens, has destroyed over 100,000 acres and is being fought by more than 700 firefighters. International aid, including aircraft and personnel, has been offered by several countries.
-
-🟩
-
-A man has been killed in a massive wildfire spreading in the surrounding areas of Athens, the capital of Greece.
-
-The body of a person has been recovered from a shop in Vrilicia, northern Athens.
-
-A wildfire broke out on Sunday afternoon, 35 km (22 miles) north of Athens.
-
-Thousands of people have been evacuated after firefighters warned homes, businesses and schools as the wildfire spread rapidly.
-
-Over 700 firefighters, 199 fire trucks and 35 bomb blasts are engaged in extinguishing the fire.
-
-Colonel Vasilios Vadrajojianis said two firefighters were treated for firefighting.
-
-Eyewitnesses say that the fire broke out on Monday, about 82 feet, and the fire broke out at night.
-
-According to Greece National Watch, satellites show that about 100,000 acres of land were destroyed till Monday evening.
-
-This is why people are wearing facial expressions to protect themselves as they are smoking.
-
-Italy offers two aircraft and France and Serbia each helicopter.
-
-...
-
-[Data](articles/cc0c40f1.json)
-
-[Extended Data](ext_articles/cc0c40f1.ext.json)
-
----
-
-### Wimal joined the team's MP Ranil
-
-*2024-08-13 13:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-அணியின்-எம்-பி-ரணிலுடன்-இணைந்தார்/175-342100) · `ta`
-
-Jagath Priyankara, National Freedom Front's Puttalam District President, supports President Ranil Wickremesinghe for the upcoming presidential election. This comes after a meeting between Priyankara and Wickremesinghe. Notably, Wimal Weerawansa, the party's leader and a Member of Parliament, is also backing Wickremesinghe.
-
-🟩
-
-National Freedom Front Puttalam District President Jagath Priyankara has united to support President Ranil Wickremesinghe.
-
-Jagath Priyankara, who met President Ranil Wickremesinghe, said he would support his upcoming presidential election.
-
-It is noteworthy that the National Freedom Front leader Wimal Weerawansa is Member of Parliament.
-
-◼️
-
-[Data](articles/a29ec1c5.json)
-
-[Extended Data](ext_articles/a29ec1c5.ext.json)
 
 ---

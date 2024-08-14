@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 07:30:39**
+As of **2024-08-14 07:51:14**
 
 ## Newspaper Stats
 
-*Scraped **40,601** Articles*
+*Scraped **40,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,81 @@ adaderanalk | 4,729
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,165
 virakesarilk | 6,425
-adaderanasinhalalk | 6,900
+adaderanasinhalalk | 6,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,601 (100.0%) of 40,601 articles have been extended.
+40,601 (100.0%) of 40,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### ඇප තැන්පත් කිරීම අද දහවල් 12න් අවසන්
+
+*2024-08-14 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199909) · `si`
+
+මෙවර ජනාධිපතිවරණය සඳහා ඇප මුදල් තැන්පත් කිරීම අද (14) දහවල් 12න් අවසන් කිරීමට නියමිතව තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව සඳහන් කළේ, මේ වන විට ජනාධිපතිවරණය සඳහා ඉදිරිපත් වීමට පුද්ගලයින් 36 දෙනෙක් ඇප මුදල් තැන්පත් කර ඇති බවය.
+
+පිළිගත් දේශපාලන පක්ෂ පක්ෂ 19ක් සහ වෙනත් දේශපාලන පක්ෂයක් ඒ අතර වන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ස්වාධීන අපේක්ෂකයින් ලෙස පුද්ගලයින් 16 දෙනෙකු ද ඉදිරි ජනාධිපතිවරණය සඳහා මේ වන විට ඇප මුදල් තැන්පත් කර තිබේ.
+
+එළැඹෙන ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරගැනීම හෙට (15) පෙරවරු 9ට ආරම්භ කිරීමට නියමිත එදින අතර පෙරවරු 11 දක්වා නාමයෝජනා භාරගැනීම සිදුකිරීමට නියමිතය.
+
+නාමයෝජනා භාරගන්නා දිනයේ දී මැතිවරණ කාර්යාලය ආශ්‍රිතව විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ද සැලසුම් කර ඇති බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a6e38195.json)
+
+---
+
+### වතු සේවක වැටුප රු 1,700 කළ ගැසට්ටුව නිකුත් කෙරේ
+
+*2024-08-14 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199908) · `si`
+
+වතු කම්කරු දෛනික වැටුප රුපියල් 1,700 දක්වා ඉහළ නැවීමට අදාළ ගැසට් නිවේදනය නිකුත් කර තිබේ.
+
+පඩි පාලක සභාවේ සභාපති එච්. කේ. කේ. ඒ. ජයසුන්දර මහතාගේ අත්සනින් යුතුව මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන්ය.
+
+තේ වතු කම්කරුවකුගේ දෛනික වැටුප 1,350 ලෙස එහි සඳහන් වන අතර එම වැටුප සේවක අර්ථසාධක අරමුදල් සහ සේවා නියුක්තිකයින්ගේ භාර අරමුදල් ගෙවීම්වලට යටත්ව සිදුකළ යුතු බව අදාළ ගැසට් නිවේදනයේ සඳහන් වේ.
+
+ඊට අමතරව ඵලදායිතාව මත පදනම් වූ දිරි දීමානාවක් ලෙස රුපියල් 350ක මුදලක්ද ගෙවිය යුතු බව එම ගැසට් නිවේදනයේ තවදුරටත් සඳහන්ය.
+
+එමෙන්ම රබර් වතු කම්කරුවන්ගේ දෛනික වැටුප ද 1,700 දක්වා ඉහළ නැංවිය යුතු බවටද අදාළ ගැසට් නිවේදනයේ සඳහන් වේ.
+
+මෙම යෝජනා සම්බන්ධයෙන් වන විරෝධතා, එසේ විරුද්ධ වීමට හේතුවන කරුණු පිළිබඳ ප්‍රකාශයක්ද සමඟ එළැඹෙන 28 වනදා මධ්‍යාහ්න 12ට පෙර තමා වෙත යොමු කරන ලෙස පඩි පාලක සභාවේ සභාපතිවරයා අදාළ ගැසට් නිවේදනයේ තවදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/5517cfe7.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-08-14 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199906) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ඇතැම් ප්‍රදේශවලට මි.මී. 50ට වැඩි තරමක් තද වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ වයඹ පළාතෙත් අම්පාර, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7d1fcd55.json)
+
+---
 
 ### AKD denounces political culture of crossovers and media manipulation
 
@@ -2079,75 +2143,5 @@ It is noteworthy that the National Freedom Front leader Wimal Weerawansa is Memb
 [Data](articles/a29ec1c5.json)
 
 [Extended Data](ext_articles/a29ec1c5.ext.json)
-
----
-
-### Sajith Premadasa supports the conditions of the Mihintale Maha Vihara
-
-*2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190979) · `ta`
-
-Dr. Tammaratharata Thera endorses Sajith Premadasa for president, citing his commitment to fulfilling numerous promises under certain conditions.
-
-🟩
-
-Dr. Valawahengunuwe Tammaratharata Thera, the Vikramadi of the Mihintale Maha Vihara, has said that he will support opposition leader Sajith Premadasa in the presidential election.
-
-“I urge the public to support Opposition Leader Sajith Premadasa. This resolution is taken with a number of conditions that he will fulfill many promises. "We will give the authority to this leader," he said.
-
-◼️
-
-[Data](articles/69a20c92.json)
-
-[Extended Data](ext_articles/69a20c92.ext.json)
-
----
-
-### After the presidential election, we will seize the power of the PA - SM Chandrasena
-
-*2024-08-13 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/190977) · `ta`
-
-Following the presidential election, the Sri Lanka People's Alliance (PA) plans to assert its power, as announced by SM Chandrasena after a meeting with organizers. The PA, primarily used for the presidential campaign, needs a shift in strategy. A new coalition led by Prime Minister Dinesh Gunawardena will include PA members. The first rally supporting President Ranil Wickremesinghe is scheduled for the 17th, reflecting the majority view within the PA that Wickremesinghe should lead the government, aligning with public sentiment. The statement calls on former President Mahinda Rajapaksa to heed the people's wishes.
-
-🟩
-
-After the presidential election, we will seize the power of the Sri Lanka PA.
-
-He was speaking to the media after a meeting with the constituency organizers held on Tuesday (13) in Anuradhapura.
-
-There is nothing wrong with noting that the power of the PA will be seized.. We just created the PA.
-
-Most of the members of the PA had only use the party's name board on the presidential side. The position of the party must be changed.
-
-The new political coalition will be formed under the leadership of Prime Minister Dinesh Gunawardena to include members of the PA.
-
-The first election rally in support of President Ranil Wickremesinghe will be held at the Salkadu Ground on the 17th of this month.
-
-Most members of the PA are firmly in the position that President Ranil Wickremesinghe should create a government headed by President Ranil Wickremesinghe. The people of the country are in the same position.
-
-Therefore, we urge former President Mahinda Rajapaksa to act on the aspirations of the people.
-
-◼️
-
-[Data](articles/dc43f0fb.json)
-
-[Extended Data](ext_articles/dc43f0fb.ext.json)
-
----
-
-### Promoting Votes and Collecting Votes
-
-*2024-08-13 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/190986) · `ta`
-
-The General Secretary and Chairman of the Ceylon Workers Congress, holding significant governmental roles, face a critical election question: What benefits has this government delivered to its constituents?
-
-🟩
-
-The General Secretary and Chairman of the Ceylon Workers Congress, who is the Minister of the Kabinet and the Governor of a Province in the government of President Ranil Wickremesinghe, can certainly not be able to make any choices.. But the biggest question they put before the election is what this government has got to the people they represent.
-
-◼️
-
-[Data](articles/5dd3216e.json)
-
-[Extended Data](ext_articles/5dd3216e.ext.json)
 
 ---

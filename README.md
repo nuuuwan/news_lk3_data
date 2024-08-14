@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 05:39:17**
+As of **2024-08-14 06:04:13**
 
 ## Newspaper Stats
 
-*Scraped **40,593** Articles*
+*Scraped **40,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 378
 colombotelegraphcom | 389
-islandlk | 2,347
+islandlk | 2,354
 economynextcom | 2,462
 dailyftlk | 2,624
 adalk | 3,732
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,591 (100.0%) of 40,593 articles have been extended.
+40,600 (100.0%) of 40,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -744,6 +744,70 @@ Police have announced that a special security program will be implemented at the
 
 ---
 
+### HNB Assurance surpasses international benchmarks
+
+*2024-08-13 19:21:00* · [`islandlk`](http://island.lk/hnb-assurance-surpasses-international-benchmarks/) · `en`
+
+HNB Assurance PLC unveiled the results of its recent survey, conducted in partnership with Great Place to Work. The findings revealed an impressive Employee Net Promoter Score (eNPS) of 38%, drastically outpacing the international average of 27%, within the insurance industry.
+
+The eNPS is a critical metric that measures employee satisfaction and loyalty, providing valuable insights into the overall health of the organization. It reflects how likely employees are to recommend their workplace to others, serving as a key indicator of engagement and morale.
+
+Over the past few years, HNB Assurance has experienced an impressive growth trajectory, achieving and maintaining double the rate of the industry’s growth. With the company keen on sustaining this steady advance, it is crucial to continually understand and nurture its internal health. This is where the eNPS proves invaluable, offering valuable insights into employee sentiment and identifying areas for improvement.
+
+...
+
+[Data](articles/453b60ef.json)
+
+[Extended Data](ext_articles/453b60ef.ext.json)
+
+---
+
+### MMBL-Pathfinder Group joint-venture foreign exchange earnings to top US$ 425 million this year
+
+*2024-08-13 19:19:00* · [`islandlk`](http://island.lk/mmbl-pathfinder-group-joint-venture-foreign-exchange-earnings-to-top-us-425-million-this-year/) · `en`
+
+The MMBL-Pathfinder Group joint-venture portfolio of investments is expected to yield nearly US$ 425 million in foreign exchange to Sri Lanka in 2024, a significant increase from the US$ 250 million it earned in 2023.
+
+The MMBL-Pathfinder Group’s joint-venture investment portfolio consists of partnerships and strategic alliances with a wide network of globally reputed companies. These operate in niche markets dealing in financial and remittance services, export logistics, petroleum support services, pioneering ventures in tourism and leisure, and technology and innovation-related activities.
+
+...
+
+[Data](articles/dbf947b9.json)
+
+[Extended Data](ext_articles/dbf947b9.ext.json)
+
+---
+
+### SDC, CCC and SLBA explore Blended Finance instruments to support agricultural transformation
+
+*2024-08-13 19:17:00* · [`islandlk`](http://island.lk/sdc-ccc-and-slba-explore-blended-finance-instruments-to-support-agricultural-transformation/) · `en`
+
+The 2024 Financing for Sustainable Development Report reveals that nearly USD 4.2 trillion is needed annually worldwide to meet the Sustainable Development Goals (SDGs) by 2030. Developing countries, including Sri Lanka, face a significant funding gap and it is estimated that they may require an additional USD 2.5-3.0 trillion each year to realistically meet these targets. However, many developing countries face diverse financial constraints which create additional challenges when investing in vital sectors to deliver economic, social, and environmental benefits.
+
+...
+
+[Data](articles/f9771c86.json)
+
+[Extended Data](ext_articles/f9771c86.ext.json)
+
+---
+
+### Cable Solutions’ IPO oversubscribed on opening day; attracts diverse investors
+
+*2024-08-13 19:16:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-oversubscribed-on-opening-day-attracts-diverse-investors/) · `en`
+
+The IPO of shares of Cable Solutions Ltd, Sri Lanka’s leading specialized manufacturer of integrated cables, received active, broad-based interest from diverse investors and was oversubscribed on the opening day of the IPO.
+
+Managed by Asia Securities Advisors Ltd., the issue saw subscriptions for 14,666,600 new ordinary voting shares of the company, together with the sale of an existing 66,120,000 shares of the company by four of its non-majority shareholders. As a result, the company was able to successfully raise Rs. 109,999,500/- by way of its offer for subscription with the remaining funds being utilised to accommodate a part sale from minority shareholders.
+
+...
+
+[Data](articles/fb1b2c1d.json)
+
+[Extended Data](ext_articles/fb1b2c1d.ext.json)
+
+---
+
 ### Tanamalvila incident:- Principal, teacher, teachers arrested
 
 *2024-08-13 19:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தணமல்வில-சம்பவம்-அதிபர்-ஆசிரியர்-ஆசிரியைகள்-கைது/175-342111) · `ta`
@@ -987,6 +1051,26 @@ Police have also issued a statement on the procession of the procession and the 
 [Data](articles/941fcca2.json)
 
 [Extended Data](ext_articles/941fcca2.ext.json)
+
+---
+
+### Adani Group rocked by Hindenburg allegations against SEBI
+
+*2024-08-13 18:11:00* · [`islandlk`](http://island.lk/adani-group-rocked-by-hindenburg-allegations-against-sebi/) · `en`
+
+Adani Group, the Indian conglomerate rocked by a Hindenburg Research report last year, has faced another heavy share selloff after the short seller accused the head of India’s market regulator of having links to offshore funds also used by the group.
+
+About $2.43bn, or 1 percent, was wiped off the market value of Adani companies by the end of the trading day on Monday although that was a substantial recovery from earlier losses of more than $13bn.
+
+The battle between Hindenburg Research and Adani Group began 18 months ago  when the United States-based short seller alleged Adani improperly used tax havens, accusations the group denied again on Sunday, saying its overseas holding structure was fully transparent.
+
+Citing whistleblower documents, Hindenburg said on Saturday that Madhabi Puri Buch, chairperson of the market regulator Securities and Exchange Board of India (SEBI) since 2022, has a conflict of interest in the Adani matter due to previous investments.
+
+...
+
+[Data](articles/b58d1951.json)
+
+[Extended Data](ext_articles/b58d1951.ext.json)
 
 ---
 
@@ -1724,6 +1808,48 @@ Accordingly, this includes 355 election law violations, one act of violence and 
 
 ---
 
+### Import and Export (Control) regulation No.10 of 2024 issued under the import and Export (Control) Act No. 01 of 1969 for Parliament’s approval
+
+*2024-08-13 15:04:00* · [`islandlk`](http://island.lk/import-and-export-control-regulation-no-10-of-2024-issued-under-the-import-and-export-control-act-no-01-of-1969-for-parliaments-approval/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the   Presented in his capacity as the Minister of Finance, Economic Stabilization and National Policy to submit the import and Export (Control) regulation No.10 of the 2024 formulated under the provisions of the import and Export (Control) Act No. 01 of 1969 and published in the Extra Ordinary Gazette No. 2393/36 dated 18-07-2024 for the approval of  the Parliament.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/01f21e6d.json)
+
+[Extended Data](ext_articles/01f21e6d.ext.json)
+
+---
+
+### Cabinet approves ratification of Sri Lanka- Thailand FTA
+
+*2024-08-13 14:57:00* · [`islandlk`](http://island.lk/cabinet-approves-ratification-of-sri-lanka-thailand-fta/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the
+
+President in his capacity as  Minister of Finance, Economic Stabilization and National Policy to ratify the Sri Lanka-Thailand Free Trade Agreement
+
+The Sri Lanka-Thailand Free Trade Agreement between Sri Lanka and Thailand was signed by the Minister of Trade, Commercial and Food Security of Sri Lanka and Minister of Commercial of Thailand on 03-02-2024 and the said agreement has been tabled in the Parliament on 12-07-2024.
+
+In terms of the section 14.10 of the said agreement it will be effective from the thirtieth day of the following the final notification of first party to the second party that the internal legal requirements and the procedure has been completed.
+
+Import and Export (Control) regulation No.10 of 2024 issued under the import and Export (Control) Act No. 01 of 1969 for Parliament’s approval
+
+Archeologically valued Miocene Limestone deposit at Aruvakkalu in Puttalum to be protected
+
+...
+
+[Data](articles/a30a368f.json)
+
+[Extended Data](ext_articles/a30a368f.ext.json)
+
+---
+
 ### Five Malaysian Universities in Sri Lanka to target more students for degrees
 
 *2024-08-13 14:46:00* · [`economynextcom`](https://economynext.com/five-malaysian-universities-in-sri-lanka-to-target-more-students-for-degrees-176594/) · `en`
@@ -2025,157 +2151,5 @@ In addition, the Kaluwanchikudi police are conducting an investigation into the 
 [Data](articles/8539f425.json)
 
 [Extended Data](ext_articles/8539f425.ext.json)
-
----
-
-### Election Complaints
-
-*2024-08-13 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199890) · `si`
-
-In the last 24 hours, 44 election complaints were filed: 15 national, 29 district, and 3 others about violations. Since July 31, there have been 366 complaints, including 355 about violence and other rule breaches.
-
-🟩
-
-The Elections Commission says that 29 election complaints have been received during the past 24 hours.
-
-The National Elections Complaint Management Center has received 15 complaints and the District Election Production Management Center has received 29 complaints and three other complaints regarding violations.
-
-Meanwhile, 366 complaints have been received from July 31 to yesterday (12).
-
-A complaint with regard to violence has received 355 complaints of other rules and violations.
-
-◼️
-
-[Data](articles/bf1644b0.json)
-
-[Extended Data](ext_articles/bf1644b0.ext.json)
-
----
-
-### MP Jagath Priyankara pledges support to President Ranil
-
-*2024-08-13 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101202/mp-jagath-priyankara-pledges-support-to-president-ranil) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Puttalam District MP Jagath Priyankara has met with President Ranil Wickremesinghe and pledged his support to the President in the upcoming Presidential Election.
-
-Priyankara is the Puttalam District leader of the National Freedom Front (NFF) and was sworn in as a Member of Parliament on February 08 to fill the seat left vacant following the death of State Minister Sanath Nishantha.
-
-◼️
-
-[Data](articles/2dab934c.json)
-
-[Extended Data](ext_articles/2dab934c.ext.json)
-
----
-
-### Jagath Priyankara support to Ranil
-
-*2024-08-13 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199889) · `si`
-
-Jagath Priyankara, the MP from Puttalam District, has pledged his support for Ranil Wickremesinghe, stating he will back him in the upcoming presidential election.
-
-🟩
-
-Jagath Priyankara, Puttalam District MP Jagath Priyankara has assisted Ranil Wickremesinghe.
-
-Accordingly, he has said he will support the present President in the next presidential election.
-
-◼️
-
-[Data](articles/10eb3994.json)
-
-[Extended Data](ext_articles/10eb3994.ext.json)
-
----
-
-### Telecommunication Regulatory Commission Allowed for Starling Internet Service
-
-*2024-08-13 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/190988) · `ta`
-
-The Telecommunication Regulatory Commission of Sri Lanka has granted Starling Private Company a permit to offer internet services nationwide, leveraging satellite technology similar to SpaceX's Starlink. This decision follows discussions between President Ranil Wickremesinghe and Elon Musk, aiming to expedite the integration of Sri Lanka into the Starlink network. The new service promises significantly faster speeds compared to the current Piper Technology Service, potentially transforming Sri Lanka's tech landscape.
-
-🟩
-
-The Telecommunication Regulatory Commission has taken steps to issue a "telecommunication service provider" permit to the Starling Private Company to provide internet services in Sri Lanka.
-
-The permit has been issued by the Sri Lanka Telecom Regulatory Commission (TRCSL) under Section 17 (2) of the Sri Lanka Telecommunication Act No. 25 of 1991 and the permit is being implemented from August 12, 2024.
-
-The meeting between President Ranil Wickremesinghe and the world -renowned businessman Elon Musk was held in Indonesia recently.It was discussed to accelerate the application process for merging Sri Lanka with the Starling Network belonging to Elon Musk.
-
-As a result, Starlink has been approved to provide internet services in Sri Lanka through satellite technology.
-
-...
-
-[Data](articles/affa9004.json)
-
-[Extended Data](ext_articles/affa9004.ext.json)
-
----
-
-### Allow to Starling
-
-*2024-08-13 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டார்லிங்க்குக்கு-அனுமதி/175-342099) · `ta`
-
-The Telecommunications Regulatory Commission in Sri Lanka has approved a license for a Telecommunication Service Provider to offer satellite-based internet services starting August 12th.
-
-🟩
-
-The Presidential Media Division has announced that the "Telecommunication Service Provider" has been issued by the Telecommunications Regulatory Commission with the Telecommunications Regulatory Commission with implementation from August 12 to provide internet services using satellite technology in Sri Lanka.
-
-◼️
-
-[Data](articles/0cd78e31.json)
-
-[Extended Data](ext_articles/0cd78e31.ext.json)
-
----
-
-### Sickness
-
-*2024-08-13 13:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆடாத-ஆசிரியை-நடுவரான-சோகம்/76-342097) · `ta`
-
-Tamil Nadu competitions faced irregularities, especially in the Kandy Zone. Issues included inexperienced personnel, like referees accompanying dancers, questioning their qualifications. Competitions started late, ended late, causing inconvenience for students and parents without transport. Parents criticized poor organization by the Kandy Zonal Education Workshop, with complaints unaddressed. Contact details for feedback were provided.
-
-🟩
-
-Tamil Nadu competitions are currently being held in many zones nationwide. There have been reports of irregularities in some zones.
-
-In this context, there have been many irregularities in the Tamil Nadu competitions held on Sunday (11) in the Kandy Zone. These matches were held in Teltota.
-
-What kind of inexperienced people have been incorporated into the matter. For example, in the arbitration group for a separate dance, it is alleged that the teacher was accompanied by the teacher to learn or not.
-
-It has been questioned as to how the teacher who served as the referee was a Tamil curriculum, and how the teacher accepted the point of giving the teacher for a separate dance.
-
-In this case, a few of the teachers who brought the students to the competition have been held in the jury.
-
-Students have been invited at 8 am for the competitions, and the competitions have begun at 12 noon.The competitions have been completed at 10 pm.
-
-...
-
-[Data](articles/2b8e825e.json)
-
-[Extended Data](ext_articles/2b8e825e.ext.json)
-
----
-
-### TRCSL grants licence to Elon Musk’s Starlink for satellite broadband services
-
-*2024-08-13 13:14:00* · [`economynextcom`](https://economynext.com/trcsl-grants-licence-to-elon-musks-starlink-for-satellite-broadband-services-176575/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s telecommunication regulator has granted a telecommunications service provider license to a locally incorporated firm of Starlink satellite system founded by Elon Musk, billionaire head of SpaceX and Tesla, President Ranil Wickremesinghe’s office said.
-
-The island nation last month amended its Telecommunications Regulatory Commission (TRC) Act to accommodate the Starlink satellite system.
-
-“The TRCSL has granted a Telecommunications Service Provider License to STARLINK LANKA (PVT) LTD to provide Satellite Broadband Services in SL from August 12, 2024,” the President’s Media Division said in a statement.
-
-The island nation granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process.
-
-The move was initiated after President Wickremesinghe met Musk on the sidelines of the 10th World Water Forum in Indonesia three months ago.
-
-...
-
-[Data](articles/9b0a80be.json)
-
-[Extended Data](ext_articles/9b0a80be.ext.json)
 
 ---

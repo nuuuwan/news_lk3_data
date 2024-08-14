@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 04:21:21**
+As of **2024-08-15 05:18:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,787 (100.0%) of 40,790 articles have been extended.
+40,790 (100.0%) of 40,790 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ At the Special Ministerial Plenary at the Bay of Bengal Initiative for Multi-Sec
 
 [Data](articles/8bcecff2.json)
 
+[Extended Data](ext_articles/8bcecff2.ext.json)
+
 ---
 
 ### EDB releases flagship statistical publication “Export Performance Indicators 2023”
@@ -62,6 +64,8 @@ The data compiled in “Export Performance Indicators 2023” is presented along
 
 [Data](articles/f0b65cdb.json)
 
+[Extended Data](ext_articles/f0b65cdb.ext.json)
+
 ---
 
 ### Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul
@@ -75,6 +79,8 @@ With only 8% of citizens thinking that the country is going in the right directi
 ...
 
 [Data](articles/7c29812f.json)
+
+[Extended Data](ext_articles/7c29812f.ext.json)
 
 ---
 

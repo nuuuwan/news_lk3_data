@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 09:55:56**
+As of **2024-08-14 10:08:05**
 
 ## Newspaper Stats
 
-*Scraped **40,625** Articles*
+*Scraped **40,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,100 @@ economynextcom | 2,462
 dailyftlk | 2,625
 adalk | 3,734
 dailymirrorlk | 4,733
-adaderanalk | 4,734
+adaderanalk | 4,736
 tamilmirrorlk | 5,171
 virakesarilk | 6,428
-adaderanasinhalalk | 6,907
+adaderanasinhalalk | 6,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,620 (100.0%) of 40,625 articles have been extended.
+40,625 (100.0%) of 40,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### சஜித்துடன் இணைந்தார் பாட்டலி
+### සර්වජන අපේක්ෂක දිලිත් ජයවීර නාමයෝජනා පත්‍රයට අත්සන් තබයි
+
+*2024-08-14 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199914) · `si`
+
+සර්වජන බලය  ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+
+◼️
+
+[Data](articles/3ce4091e.json)
+
+---
+
+### Dilith Jayaweera signs nomination papers for Presidential Election
+
+*2024-08-14 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101222/dilith-jayaweera-signs-nomination-papers-for-presidential-election) · `en`
+
+The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has signed his nomination papers to contest the upcoming Presidential Election scheduled for September 21.
+
+◼️
+
+[Data](articles/64c4398e.json)
+
+---
+
+### Japan PM Kishida to step down as scandals prove too much
+
+*2024-08-14 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101221/japan-pm-kishida-to-step-down-as-scandals-prove-too-much) · `en`
+
+Japanese Prime Minister Fumio Kishida said he will step down in September, ending a three-year term marred by political scandals and paving the way for a new premier to address the impact of rising prices.
+
+“I will continue to do everything I can as prime minister until then end of my term in September,” Kishida said in a televised press conference on Wednesday to announce his decision not seek re-election as Liberal Democratic Party (LDP) leader.
+
+His decision to quit triggers a contest to replace him as party boss, and by extension as the leader of the world’s fourth-biggest economy.
+
+Kishida’s public support eroded amid revelations about the party’s ties to the controversial Unification Church, and more recently, unrecorded political donations made at LDP fundraising parties.
+
+...
+
+[Data](articles/5b8f2cfb.json)
+
+---
+
+### Patali joined Sajith
 
 *2024-08-14 09:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-பாட்டலி/175-342137) · `ta`
 
-ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவாக ஐக்கிய குடியரசு முன்னணி தலைவர் பாட்டலி சம்பிக்க ரணவக்க, ஐக்கிய மக்கள் சக்தியில் இணையவுள்ளார்.
+UNP leader Patali Champika Ranawaka joins United People's Power to back presidential candidate Sajith Premadasa.
+
+🟩
+
+UNP leader Patali Champika Ranawaka will join the United People's Power in support of presidential candidate Sajith Premadasa.
 
 ◼️
 
 [Data](articles/eece71ff.json)
 
+[Extended Data](ext_articles/eece71ff.ext.json)
+
 ---
 
-### இரு குழுக்களுக்கிடையே மோதல்
+### Confrontation between two groups
 
 *2024-08-14 09:33:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இரு-குழுக்களுக்கிடையே-மோதல்/71-342136) · `ta`
 
-யாழ்ப்பாணம் - சேந்தாங்குளம் பகுதியில் இரு குழுக்கள் இடையே ஏற்பட்ட மோதலில் மூன்று படகுகள் தீ வைத்து எரிக்கப்பட்டதுடன் ஒரு படகு முற்றாக சேதமடைந்தது.
+In a clash between two groups near Jaffna-Chendangulam, three boats were burned, and another was severely damaged. The incident led to public intervention to prevent further fires. Despite the destruction, no arrests have been made, with the Ilavalai police investigating the cause.
 
-இதன்போது சில வாடிகளும் எரிந்து நாசமானது. இதனையறிந்து அங்கு கூடிய பொதுமக்கள் தீப் பரவலை கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+🟩
 
-சம்பவம் தொடர்பாக இதுவரை எவரும் கைது செய்யப்பட்டாத நிலையில் இளவாலை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+Three boats were set on fire and a boat was completely damaged in a clash between two groups in the Jaffna -Chendangulam area.
+
+Some of the wads are burnt and destroyed. Knowing this, the public gathered there to control the spread of fire.
+
+Ilavalai police are conducting investigations as no one has been arrested in connection with the incident so far. Remble
 
 ◼️
 
 [Data](articles/71887008.json)
+
+[Extended Data](ext_articles/71887008.ext.json)
 
 ---
 
@@ -78,17 +132,25 @@ Meanwhile, September 11 and 12 have been allocated as additional dates for those
 
 [Data](articles/961d1d0c.json)
 
+[Extended Data](ext_articles/961d1d0c.ext.json)
+
 ---
 
-### கட்டுப்பணம் செலுத்தினார் நாமல்
+### Namal has paid control
 
 *2024-08-14 09:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-நாமல்/175-342135) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் எதிர்வரும் ஜனாதிபதித் தேர்தலில் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் சார்பில் கட்டுப்பணம் செலுத்தினார்.
+Sakara Kariyawasam, Sri Lanka's General Secretary, has taken charge of the upcoming presidential election on behalf of Namal Rajapaksa, a parliamentarian.
+
+🟩
+
+Sri Lanka's General Secretary Sakara Kariyawasam has reached control of the upcoming presidential election on behalf of parliamentarian Namal Rajapaksa.
 
 ◼️
 
 [Data](articles/ec48d7a3.json)
+
+[Extended Data](ext_articles/ec48d7a3.ext.json)
 
 ---
 
@@ -853,6 +915,8 @@ Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was uncerem
 ...
 
 [Data](articles/47d746e4.json)
+
+[Extended Data](ext_articles/47d746e4.ext.json)
 
 ---
 
@@ -2047,73 +2111,5 @@ Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, was head
 [Data](articles/eccb676e.json)
 
 [Extended Data](ext_articles/eccb676e.ext.json)
-
----
-
-### Sri Lanka’s Browns backed Marina in Port City named strategic venture
-
-*2024-08-13 16:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-backed-marina-in-port-city-named-strategic-venture-176627/) · `en`
-
-ECONOMYNEXT – Colombo Marina Development (Pvt) Limited, a venture backed by Sri Lanka’s Browns Investments has been designated an enterprise of primary strategic importance by the cabinet of ministers, a statement said.
-
-The venture has been named a business of primary strategy importance and will be eligible to applicable incentives.
-
-The company is fully owned by Browns Investments, the statement said.
-
-Colombo Marina Development has leased for blocks of land in the Colombo Port City.
-
-The Marina has can dock 243 yachts with capitainerie. There will be entertainment area, retail, restaurant and banquet facilities.
-
-President Ranil Wickremesinghe has proposed that the firm be given the status of a business of strategic importance. (Colombo/Aug12/2024)
-
-◼️
-
-[Data](articles/074ad96a.json)
-
-[Extended Data](ext_articles/074ad96a.ext.json)
-
----
-
-### The Iranian president justified the attack on Israel
-
-*2024-08-13 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/191007) · `ta`
-
-Iran's President Besseskian, in a call with UK PM Stamer, defended Iran's potential attack on Israel as retaliation for Hamas leader's death, citing Israel's actions as threats to regional security and the need for self-defense against occupation.
-
-🟩
-
-The country's president Masood Besseskian has said that Iran's thinking is to take an attack against Israel for the murder of Hamas leader.
-
-The Iranian president made this statement during a telephone conversation with British Prime Minister Kair Stamer.
-
-The Iranian president said that it was the right of the occupant to punish the occupant, and that such action is the solution to the stopping of the occupation.
-
-The silence of the West is inconceivable for the non -humanitarian troubles in Gaza and other parts of the country, saying that Israel's move, Israel's move, has been promoting Israel's involvement in the process of threatening regional international security.
-
-◼️
-
-[Data](articles/e0645c3a.json)
-
-[Extended Data](ext_articles/e0645c3a.ext.json)
-
----
-
-### Special Transport Plan in Rajagiriya on Thursday
-
-*2024-08-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191005) · `ta`
-
-Nominations for the presidential election will be accepted in Rajagiriya from 8 am to 2 pm on Thursday, 15th. A special traffic plan will be in effect due to this event.
-
-🟩
-
-The nominations for the upcoming presidential election will be accepted at the Elections Commission Secretariat in Rajagiriya from 8 am to 2 pm on Thursday 15th.
-
-The police have announced that a special traffic plan will be implemented that day.
-
-◼️
-
-[Data](articles/d213b936.json)
-
-[Extended Data](ext_articles/d213b936.ext.json)
 
 ---

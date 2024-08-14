@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 22:22:18**
+As of **2024-08-14 22:36:24**
 
 ## Newspaper Stats
 
-*Scraped **40,760** Articles*
+*Scraped **40,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,751
 dailymirrorlk | 4,733
-adaderanalk | 4,758
+adaderanalk | 4,759
 tamilmirrorlk | 5,198
 virakesarilk | 6,459
 adaderanasinhalalk | 6,938
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,938
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,759 (100.0%) of 40,760 articles have been extended.
+40,759 (100.0%) of 40,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### Ukraine is advancing deeper into Russia, Zelenskiy says
+
+*2024-08-14 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101245/ukraine-is-advancing-deeper-into-russia-zelenskiy-says) · `en`
+
+Ukraine said on Wednesday its forces had advanced further into Russia’s Kursk region in the biggest foreign incursion into Russia since World War Two, posing a dilemma for President Vladimir Putin according to U.S. President Joe Biden.
+
+Thousands of Ukrainian troops rammed through the Russian border in the early hours of Aug. 6 into Russia’s western Kursk region in what Putin called a major provocation aimed at gaining a stronger hand in possible future ceasefire talks.
+
+Ukraine has carved out a slice of the Russian border region of Kursk and though Putin said the Russian army would push out the Ukrainian troops, more than a week of intense battles have so far failed to oust them.
+
+Ukrainian President Volodymyr Zelenskiy said Kyiv’s forces were continuing to gain ground in the Kursk region and that they had taken another one to two kilometres on Wednesday.
+
+...
+
+[Data](articles/3a1d58c0.json)
+
+---
 
 ### MJP ආසන සංවිධායකවරුන්ට පත්වීම් ලිපි ප්‍රදානය කෙරේ
 
@@ -2193,27 +2211,5 @@ Many suspected that the President was trying to postpone elections and very few 
 [Data](articles/596f9834.json)
 
 [Extended Data](ext_articles/596f9834.ext.json)
-
----
-
-### The nephew of the mother -in -law's death
-
-*2024-08-14 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191056) · `ta`
-
-A tragic incident occurred when a young man, who had been in depression since his mother's death five months ago, made a wrong decision leading to his own death. The sudden death investigation officer confirmed the cause after an autopsy.
-
-🟩
-
-A son -in -law has made a wrong decision on Tuesday (14) in the tragedy of the death of a mother in Jaffna.
-
-The mother of the young man died five months ago. In this case, the young man is in depression. In this case, he made a wrong decision yesterday and died behind the house.
-
-Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/bca1b985.json)
-
-[Extended Data](ext_articles/bca1b985.ext.json)
 
 ---

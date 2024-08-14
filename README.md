@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 18:55:56**
+As of **2024-08-14 19:06:49**
 
 ## Newspaper Stats
 
-*Scraped **40,736** Articles*
+*Scraped **40,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,747
 dailymirrorlk | 4,733
-adaderanalk | 4,754
-tamilmirrorlk | 5,195
+adaderanalk | 4,755
+tamilmirrorlk | 5,197
 virakesarilk | 6,453
-adaderanasinhalalk | 6,931
+adaderanasinhalalk | 6,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,736 (100.0%) of 40,736 articles have been extended.
+40,736 (100.0%) of 40,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### අතාවුල්ලා ඇතුළු පිරිසගේ සහාය රනිල්ට
+
+*2024-08-14 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199942) · `si`
+
+ජාතික කොංග්‍රසයේ නායක දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඒ. එල්. එම්. අතාවුල්ලා මහතා ඇතුළු එම පක්ෂයේ නියෝජිතයින් ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+මේ අතර දේශප්‍රේමී ජන බලවේගය පක්ෂයේ නායක සුගත් හේවාපතිරණ මහතා ඇතුළු එම පක්ෂයේ නියෝජිත පිරිසක් ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සහාය පළ කර ඇත.
+
+ඔවුන් අද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී ඉදිරි ජනාධිපතිවරණයේදී සිය සහාය ලබාදෙන බව දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/3054b090.json)
+
+---
+
+### Athaullah’s National Congress also pledges support to Ranil
+
+*2024-08-14 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101241/athaullahs-national-congress-also-pledges-support-to-ranil) · `en`
+
+A delegation from the “National Congress”, the party led by Digamadulla District MP A. L. M. Athaullah, have met with President Ranil Wickremesinghe today and pledged their support for him in the forthcoming presidential election.
+
+Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawegaya”, has also met with President Wickremesinghe and pledged their support to him today.
+
+◼️
+
+[Data](articles/7f4daae6.json)
+
+---
+
+### ඇප තැන්පත් කිරීමට අදාළ පැමිණිලි නෑ
+
+*2024-08-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199941) · `si`
+
+ජනාධිපතිවරණයට අදාළව ඇප තැන්පත් කිරීම සම්බන්ධයෙන් මෙතෙක් පැමිණිලි කිසිවක් ලැබී නැති බව මැතිවරණ කොමිසමේ සභාපති පවසයි.
+
+එම කොමිසමේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසන්නේ ඇතැම් පක්ෂවල ලේකම්වරුන් සම්බන්ධයෙන් ගැටළු පැවැති බවය.
+
+මේ හේතුවෙන් එම ගැටළුකාරි පක්ෂ මැතිවරණ කොමිසම හමුවේ කැඳවා පක්ෂ එකඟතාවයෙන් ලේකම්වරයෙකු පත්කර ගැනීමට අවස්ථාව ලබා දුන් බවත් ඔහු පැවසීය.
+
+ඒ අනුව එක් පක්ෂයක් ලේකම් ධුරයේ ගැටළු නිරාකරණය කිරීමට එකඟ වූ බවත් අනෙක් පක්ෂ දෙක ඒ සඳහා එකඟ නොවූ බවත් සභාපතිවරයා පැවසුවේ.
+
+මේ හේතුවෙන්  අදාළ පක්ෂ දෙක සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට අවස්ථාව ලබා නොදීමට මැතිවරණ කොමිසම තීරණය කළ බවත් සභාපතිවරයා පැවසීය.
+
+◼️
+
+[Data](articles/da293bf8.json)
+
+---
+
+### ரூ.300 இலட்சத்தை இலஞ்சமாக பெற முயன்ற குழு கைது
+
+*2024-08-14 18:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-300-இலட்சத்தை-இலஞ்சமாக-பெற-முயன்ற-குழு-கைது/175-342176) · `ta`
+
+இலங்கை பொதுப் பயன்பாட்டு ஆணைக்குழுவின் முன்னாள் தலைவர்  ஜானக ரத்நாயக்கவின் பெயரை முன்மொழிவதற்கு 300 இலட்சம் ரூபாய் இலஞ்சம் பெற்ற போது, ​​கட்சியின் செயலாளர் மற்றும் பல செயற்குழு உறுப்பினர்கள் கைது செய்யப்பட்டதாக  இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் பேச்சாளர் ஒருவர்   தெரிவித்தார். .
+
+இலஞ்ச ஊழல் மற்றும் வீண்விரயத்திற்கு எதிரான பிரஜாவுரிமை அமைப்பின் தலைவர்  கமந்த துஷார இலஞ்ச ஆணைக்குழுவில் செய்த முறைப்பாட்டிற்கு அமைய வெலிக்கடை பிரதேசத்தில் உள்ள பிரபல வர்த்தக வளாகம் ஒன்றில் வைத்து இந்த குழுவினர் கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+பொரளை வெலிக்கடை பிளாசா வர்த்தக நிலையத்தில் இன்று (14) பிற்பகல் பணம் பெற்றுக்கொண்ட போதே குறித்த நபர்கள் கைது செய்யப்பட்டதாகவும் பேச்சாளர் தெரிவித்தார்.
+
+கைது செய்யப்பட்டவர்களில் அக்கட்சியின் முன்னாள் செயலாளரும், 2015ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிட்ட வேட்பாளரும் அடங்குவதாகவும் அவர்களின் வாக்குமூலங்கள் தற்போது பதிவு செய்யப்பட்டு வருவதாகவும் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c57fbd5d.json)
+
+---
+
+### அத்தாவுல்லா, ரணிலுக்கு ஆதரவு
+
+*2024-08-14 18:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தாவுல்லா-ரணிலுக்கு-ஆதரவு/175-342175) · `ta`
+
+தேசிய காங்கிரசின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ஏ.எல்.எம். அத்தாவுல்லா, ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து தனது ஆதரவை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/db7f65fb.json)
+
+---
 
 ### Banning to see Sigiria
 
@@ -2123,113 +2203,5 @@ Applications for postal voting for the presidential election have been completed
 [Data](articles/24653212.json)
 
 [Extended Data](ext_articles/24653212.ext.json)
-
----
-
-### Sri Lanka rupee opens slightly higher at 299.05/20 to US dollar, bond yields steady
-
-*2024-08-14 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-higher-at-299-05-20-to-us-dollar-bond-yields-steady-176698/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly higher at 299.05/20 to the US dollar on Wednesday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.28 percent.
-
-In the secondary market, treasury bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 11.05/25 percent, down from 11.00/30 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.02/12 percent, from 13.00/15 percent.
-
-A bond maturing on 15.05.2030 was quoted at 13.20/30 percent.
-
-In equities, Colombo’s All Share Price Index opened 31.42 points higher at 11,378, while the S&P SL20 of more liquid stocks opened up at 0.16 percent or 19.47 points to 3,264.
-
-◼️
-
-[Data](articles/0cbf5c64.json)
-
-[Extended Data](ext_articles/0cbf5c64.ext.json)
-
----
-
-### Postal voting dates announcement
-
-*2024-08-14 09:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்மூல-வாக்களிப்பு-திகதிகள்-அறிவிப்பு/175-342138) · `ta`
-
-The Election Commission has set postal voting for the 2024 presidential election on September 4, 5, and 6. For those unable to vote by post, the highest priority days are September 11 and 12.
-
-🟩
-
-The Election Commission has announced the date of voting by post to consider the 2024 presidential election.
-
-The postal vote will be held on September 04, 05 and 6, the Elections Commission said.
-
-Meanwhile, on the 11th and 12th of September, the highest date for those who cannot vote by post has been reserved.
-
-◼️
-
-[Data](articles/21944fed.json)
-
-[Extended Data](ext_articles/21944fed.ext.json)
-
----
-
-### Dilith Dilith Jayaweera signs for Nomination
-
-*2024-08-14 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199914) · `si`
-
-Entrepreneur and security force presidential candidate Dilith Jayaweera has officially signed his nomination papers.
-
-🟩
-
-The security force presidential candidate entrepreneur, Dilith Jayaweera has signed nomination paper.
-
-◼️
-
-[Data](articles/3ce4091e.json)
-
-[Extended Data](ext_articles/3ce4091e.ext.json)
-
----
-
-### Dilith Jayaweera signs nomination papers for Presidential Election
-
-*2024-08-14 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/101222/dilith-jayaweera-signs-nomination-papers-for-presidential-election) · `en`
-
-The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has signed his nomination papers to contest the upcoming Presidential Election scheduled for September 21.
-
-The signing of the nomination papers was carried out at Mawbima Janatha Party (MJP) head office in Borella.
-
-The party leaders of the ‘Sarvajana Balaya’ alliance, Vasudeva Nanayakkara, D. E. W. Gunasekera, Wimal Weerawansa, Udaya Gammanpila, Gevindu Kumarathunga were present at the occasion.
-
-He will contest the 2024 presidential election from the ‘Sarvajana Balaya’ alliance under the symbol of the ‘Star’.
-
-On August 04, executive member of ‘Sarvajana Balaya’ MP Wimal Weerawansa announced Jayaweera as the Presidential Candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
-
-Meanwhile, the security deposit was placed at the Election Commission yesterday (13) for Dilith Jayaweera to contest the upcoming Presidential Election.
-
-...
-
-[Data](articles/64c4398e.json)
-
-[Extended Data](ext_articles/64c4398e.ext.json)
-
----
-
-### Japan PM Kishida to step down as scandals prove too much
-
-*2024-08-14 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/101221/japan-pm-kishida-to-step-down-as-scandals-prove-too-much) · `en`
-
-Japanese Prime Minister Fumio Kishida said he will step down in September, ending a three-year term marred by political scandals and paving the way for a new premier to address the impact of rising prices.
-
-“I will continue to do everything I can as prime minister until then end of my term in September,” Kishida said in a televised press conference on Wednesday to announce his decision not seek re-election as Liberal Democratic Party (LDP) leader.
-
-His decision to quit triggers a contest to replace him as party boss, and by extension as the leader of the world’s fourth-biggest economy.
-
-Kishida’s public support eroded amid revelations about the party’s ties to the controversial Unification Church, and more recently, unrecorded political donations made at LDP fundraising parties.
-
-...
-
-[Data](articles/5b8f2cfb.json)
-
-[Extended Data](ext_articles/5b8f2cfb.ext.json)
 
 ---

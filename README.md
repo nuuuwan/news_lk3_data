@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 13:21:13**
+As of **2024-08-14 13:36:26**
 
 ## Newspaper Stats
 
-*Scraped **40,679** Articles*
+*Scraped **40,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,741
+adalk | 3,742
 dailymirrorlk | 4,733
-adaderanalk | 4,743
-tamilmirrorlk | 5,185
+adaderanalk | 4,744
+tamilmirrorlk | 5,186
 virakesarilk | 6,439
-adaderanasinhalalk | 6,916
+adaderanasinhalalk | 6,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,678 (100.0%) of 40,679 articles have been extended.
+40,679 (100.0%) of 40,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### 40 candidates place deposits for 2024 Presidential Election as deadline ends
+
+*2024-08-14 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101230/40-candidates-place-deposits-for-2024-presidential-election-as-deadline-ends) · `en`
+
+The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election has concluded at 12 noon today (14).
+
+Four candidates have placed deposits within today, the final day for the placing of bonds.
+
+The Election Commission has stated that in total 40 individuals have placed deposits to contest the upcoming presidential election.
+
+The placing of deposits related to the presidential election commenced on July 26 and concluded at 12 noon today.
+
+The acceptance of nominations for the upcoming presidential election is scheduled to begin tomorrow (15) from 9.00 a.m. to 11.00 a.m.
+
+Meanwhile, the Election Commission of Sri Lanka says that a total of 42 complaints have been received within the last 24 hours, pertaining to the 2024 Presidential Election.
+
+Accordingly, 37 complaints related to election law violations and 03 other complaints were reported.
+
+...
+
+[Data](articles/5828ee29.json)
+
+---
+
+### ஜனக்கவுக்கான கட்டுப்பணம் செலுத்தப்பட்டது
+
+*2024-08-14 13:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக்கவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342157) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் (PUCSL) முன்னாள் தலைவர் ஜனக ரத்நாயக்கவுக்கு கட்டுப்பணம் செலுத்தப்பட்டுள்ளது.
+
+கட்சியின் செயலாளர் நிஹால் பிரேமகுமார தேசப்பிரிய இன்று தேசிய தேர்தல்கள் ஆணைக்குழுவில் ஜனக ரத்நாயக்கவின் சார்பில் பத்திரத்தை கையளித்தார்.
+
+◼️
+
+[Data](articles/2e4c2c01.json)
+
+---
+
+### ජනාධිපතිවරණයට අපේක්ෂකයින් 40ක්
+
+*2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199925) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් 40 දෙනෙකු සඳහා ඇප තැන්පත් කර තිබේ.
+
+ජනාධිපතිවරණයට අදාළව ඇප මුදල් භාර ගැනීමේ කටයුතු ජූලි මස 26වන දින ආරම්භ වු අතර එය අද (14) මධ්‍යාහ්න 12ට අවසන් කෙරුණි.
+
+2024 ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාර ගැනීම හෙට (15) පෙරවරු 9 සිට 11 දක්වා මැතිවරණ කොමිෂන් සභාවේදී සිදු කෙරේ.
+
+එම කාලසීමාව ඇතුළත මැතිවරණ කොමිෂන් සභාව පිහිටි සරණ මාවත ආශ්‍රිත ප්‍රදේශය විශේෂ ආරක්ෂක කලාපයක් ලෙස ප්‍රකාශයට පත්කර ඇති අතර, ඒ ආශ්‍රිත මාර්ගවල විශේෂ රථවාහන සැලැස්මක් ද ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/09dfc51a.json)
+
+---
+
+### අනුර ප්‍රියදර්ශන ගේ නායකත්වයෙන් එන අලුත් සන්ධානය
+
+*2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199924) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය හා නව සන්ධානය අද (14) පොදුජන එක්සත් පෙරමුණ ලෙස සන්ධානගත වුණි.
+
+එහි නායකත්වය හිමිව ඇත්තේ  හිටපු අමාත්‍ය අනුර ප්‍රියදර්ශන යාපා මහතාට ය.
+
+එහි මහ ලේකම් ලෙස ලසන්ත අලගියවන්න මහතා ද භාණ්ඩාගාරික ලෙස චාමර සම්පත් මහතාද පත්කර තිබුණි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය, නිමල් ලන්සා ඇතුළු මන්ත්‍රීවරුන්ගෙන් සැදුම්ලත් නව සන්ධානය සහ තවත් පක්ෂ සහ කණ්ඩායම් කිහිපයක් එක්ව පොදුජන එක්සත් පෙරමුණ ලෙස සන්ධානගත වීම අද (14) කොළඹදී සිදුවුණි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික, රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් මෙහිදී එම සන්ධානයේ තනතුරු ප්‍රකාශයට පත් කරනු ලැබීය.
+
+එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ඇතුළු 21 දෙනෙකුගෙන් යුත් නායකත්ව මණ්ඩලයක් ද එම සන්ධානය වෙනුවෙන් පත් කර තිබේ.
+
+නව සන්ධානය පුටුව ලකුණ යටතේ ඉදිරි මැතිවරණ සදහා තරග කිරීමට නියමිත ය.
+
+◼️
+
+[Data](articles/82e6914f.json)
+
+---
 
 ### Special announcement from Commissioner General of Elections
 
@@ -234,7 +314,13 @@ Attorney-at-Law R.S.P. Ranasuriya has submitted the FR petition to the Supreme C
 
 President Ranil Wickremesinghe and the Attorney General have been named as respondents in the petition.
 
-◼️
+On July 24, the Supreme Court issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
+
+The Supreme Court had also ordered the President to name a suitable person for the position of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon.
+
+...
 
 [Data](articles/0c2915ab.json)
 
@@ -261,6 +347,18 @@ Meanwhile, the time to control the candidates will be completed today (14) at 12
 [Data](articles/ec24d2df.json)
 
 [Extended Data](ext_articles/ec24d2df.ext.json)
+
+---
+
+### නිලතල හිමිවූ අලුත්ම පිරිස මෙන්න
+
+*2024-08-14 11:35:01* · [`adalk`](https://www.ada.lk/breaking_news/නිලතල-හිමිවූ-අලුත්ම-පිරිස-මෙන්න/11-411367) · `si`
+
+නව තානාපතිවරයන් හය දෙනෙක්, මහ කොමසාරිස්වරයෙක්, අමාත්‍යාංශ ලේකම්වරුන්  දෙදෙනෙක්  සහ ව්‍යවස්ථාපිත ආයතන සභාපතිවරයෙක් පත්කිරීමට පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවේ නිර්දේශය ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/513e813a.json)
 
 ---
 
@@ -1598,25 +1696,33 @@ The Chairman of the Stabile Control will further stated in the gazette notificat
 
 ---
 
-### ජනපති රනිල් වික්‍රමසිංහට ජනාධිපතිවරණයට ඉදිරිපත් වීමේ වරම් අහිමි වෙයි ද?
+### Will he loses the presidential election to Ranil Wickremesinghe?
 
 *2024-08-14 06:41:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c79w88q8yndo) · `si`
 
-ජනපති රනිල් වික්‍රමසිංහට ජනාධිපතිවරණයට ඉදිරිපත් වීමේ වරම් අහිමි වෙයි ද?
+A fundamental rights petition has been filed against President Ranil Wickremesinghe, accusing him of constitutional violations and seeking to prevent his candidacy in the upcoming presidential election. The petitioner demands the appointment of a functioning Inspector General of Police and alleges misuse of power. The case highlights concerns over presidential authority and the potential impact on the election outcome.
 
-වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ ඉදිරි ජනාධිපතිවරණයේදී අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් වීමට නුසුදුසු බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා නීතිඥවරයෙකු ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+🟩
 
-ජනාධිපතිවරයා චේතනාන්විතව ම ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය කර තිබෙන බැවින් ඔහුට ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් කිරීම නුසුදුසු බවත් පෙත්සම්කරු චෝදනා කර ඇත.
+Will he loses the presidential election to Ranil Wickremesinghe?
 
-සැප්තැම්බර් මස 21 වනදා පැවැත්වීමට නියමිත ජනාධිපතිවරණයේදී අපේක්ෂකයෙකු වශයෙන් රනිල් වික්‍රමසිංහ ඉදිරිපත්වීම වළක්වාලමින් අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සම්කරු ශ්‍රේෂ්ඨාධිකරණයෙන් වැඩිදුරත් ඉල්ලා තිබේ.
+A lawyer has presented a fundamental rights petition for the Supreme Court demanding a decision to promote the inappropriate President Ranil Wickremesinghe as a candidate in the next presidential election.
 
-පෙත්සම්කරු මෙම මූලික අයිතිවාසිකම් පෙත්සම ඉදිරිපත් කර ඇත්තේ, පොලිස් දෙපාර්තමේන්තුව සඳහා වැඩ බලන පොලිස්පතිවරයෙකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සිටිමිනි.
+The petitioner has accused the President of the President as a candidate for presidential election, as the President is intentionally violated.
 
-පෙත්සමේ වග උත්තරකරුවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ, ජනාධිපතිවරයා වෙනුවෙන් නීතිපතිවරයා හා නීතිපතිවරයා නම් කර තිබේ.
+The petitioner has demanded further reveal to the presence of Ranil Wickremesinghe as a candidate in the presidential election on September 21.
+
+The petitioner has presented these fundamental rights petition to issue an order to appoint a working IGP for the Police Department.
+
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, the Attorney General and the Attorney General have been named as the respondents of the petition.
+
+The petitioner claims that the President has been sworn in as the President under Article 30 (1) of the Constitution.
 
 ...
 
 [Data](articles/450bf003.json)
+
+[Extended Data](ext_articles/450bf003.ext.json)
 
 ---
 
@@ -2117,121 +2223,5 @@ Meanwhile, the United Left Front led by President’s Counsel Jayampathy Wickram
 [Data](articles/cf7c5eaf.json)
 
 [Extended Data](ext_articles/cf7c5eaf.ext.json)
-
----
-
-### The blessing of entrepreneurship Dilith Jayaweera
-
-*2024-08-13 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199904) · `si`
-
-Dilith Jayaweera, an entrepreneur, visited the Bellanwila Rajamaha Viharaya and presented a bill to the Chief Incumbent. The Chief praised Jayaweera for his visionary approach, highlighting his leadership in reviving the nation and his commitment to serving the country's betterment.
-
-🟩
-
-Entrepreneurship Entrepreneurship Dilith Jayaweera went to the Bellanwila Rajamaha Viharaya yesterday (12).
-
-There was also a presented to the 'Bellanwila Chief Incumbent Bellanwila Chief Incumbent Bellanwila Chief Incumbent named Bellanwila Chief Incumbent' bill.
-
-The Chief Incumbent of the Viharaya was acknowledged that one of the entrepreneurship Dilith Jayaweera is a visionary manner that bless Dilith Jayaweera.
-
-"Frankly I need to say that we have no more than two people. When you talk, you are coming in the first. As a man of recovering the country from this situation, I consider it. You have a clear understanding of the reasons why you are in this country. And as a vision that has a vision to move forward our country. It's very happy that you will be able to make a great service for the good in this country. "
-
-◼️
-
-[Data](articles/eb9772d5.json)
-
-[Extended Data](ext_articles/eb9772d5.ext.json)
-
----
-
-### Two people die in poisonous gas leak
-
-*2024-08-13 22:02:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஷ-வாயு-கசிந்ததில்-இருவர்-மரணம்/175-342115) · `ta`
-
-In Malambe, two individuals died from a chemical reaction releasing toxic fumes. Their bodies are at the Colombo National Hospital's funeral room. The Malampay Police suspect the cause but await identification of the chemicals and further investigation by NUGOD.
-
-🟩
-
-Two people have been killed in a house in Malambe, Kahantota Road and Jayanthi Mawatha, Malambe police said.
-
-The bodies of the two victims were also kept in the funeral room of the Colombo National Hospital, police said.
-
-A senior official of the Malampay Police said that two people were suspected of being died of toxic smoke while mixing some chemicals.
-
-Police said that the chemicals in the house were not identified and the toxic gas was still at home.
-
-The Criminal Investigation Division (NUGOD) has come to investigate the incident. Remble
-
-◼️
-
-[Data](articles/ef249f15.json)
-
-[Extended Data](ext_articles/ef249f15.ext.json)
-
----
-
-### Two dead after inhaling toxic chemical fumes in Malabe
-
-*2024-08-13 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101214/two-dead-after-inhaling-toxic-chemical-fumes-in-malabe) · `en`
-
-Two persons have reportedly died after inhaling toxic fumes at a residence in the Kahanthota area in Malabe.
-
-Police said that the deceased, aged 45 and 63 years and residents of Monaragala and Kahanthota, had died last evening (12) due to inhaling toxic fumes from certain chemicals they were trying to mix.
-
-The two victim who were exposed to the toxic fumes were pronounced dead upon admission to the Colombo National Hospital, police said.
-
-The bodies have been placed in the mortuary of the Colombo National Hospital while Malabe Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/0b023fb6.json)
-
-[Extended Data](ext_articles/0b023fb6.ext.json)
-
----
-
-### Increase in security of the Government Press
-
-*2024-08-13 21:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அச்சகத்தின்-பாதுகாப்பு-அதிகரிப்பு/175-342114) · `ta`
-
-From tomorrow, a police checkpoint will protect the Government Press, ensuring the safety of workers printing ballots for the September 21 presidential election. The Borella Police will man the station, with 60-70 officers, including a Chief Police Inspector, present due to State Media Officer Chandrani Liyanage's request. Additionally, 10 Special Task Force officers will be on duty throughout the election period.
-
-🟩
-
-A high -ranking police official said that a police checkpoint will be set up from tomorrow (14) for the protection of the Government Press.
-
-Work on printed ballot for the presidential election on September 21 will commence from tomorrow.
-
-The police station will be established under the Borella Police and 60 - 70 police officers, including the Chief Police Inspector, will be on duty at the written request of the State Media Officer Chandrani Liyanage.
-
-In addition, 10 police Special Task Force officers are expected to be on duty until the presidential election is over.. Remble
-
-◼️
-
-[Data](articles/41ef90a3.json)
-
-[Extended Data](ext_articles/41ef90a3.ext.json)
-
----
-
-### Two killed in poisonous gas
-
-*2024-08-13 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199903) · `si`
-
-In Malabe, two individuals died from inhaling toxic gas released during a chemical mixing incident. They were rushed to Colombo National Hospital but succumbed to their injuries. The police confirmed their deaths at the scene.
-
-🟩
-
-Two persons were killed by two people in a house in the house of Malabe Kentota road.
-
-The toxic gas is aligned when they are going to mix several chemicals and was admitted to the Colombo National Hospital due to the inconvenience caused by the breath.
-
-Police said that the two persons had died there.
-
-◼️
-
-[Data](articles/dcc85f91.json)
-
-[Extended Data](ext_articles/dcc85f91.ext.json)
 
 ---

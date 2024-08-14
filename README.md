@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 10:08:05**
+As of **2024-08-14 10:21:03**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,625 (100.0%) of 40,628 articles have been extended.
+40,628 (100.0%) of 40,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### සර්වජන අපේක්ෂක දිලිත් ජයවීර නාමයෝජනා පත්‍රයට අත්සන් තබයි
+### Dilith Dilith Jayaweera signs for Nomination
 
 *2024-08-14 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199914) · `si`
 
-සර්වජන බලය  ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+Entrepreneur and security force presidential candidate Dilith Jayaweera has officially signed his nomination papers.
+
+🟩
+
+The security force presidential candidate entrepreneur, Dilith Jayaweera has signed nomination paper.
 
 ◼️
 
 [Data](articles/3ce4091e.json)
+
+[Extended Data](ext_articles/3ce4091e.ext.json)
 
 ---
 
@@ -53,6 +59,8 @@ The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has sig
 ◼️
 
 [Data](articles/64c4398e.json)
+
+[Extended Data](ext_articles/64c4398e.ext.json)
 
 ---
 
@@ -71,6 +79,8 @@ Kishida’s public support eroded amid revelations about the party’s ties to t
 ...
 
 [Data](articles/5b8f2cfb.json)
+
+[Extended Data](ext_articles/5b8f2cfb.ext.json)
 
 ---
 

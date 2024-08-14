@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 20:36:27**
+As of **2024-08-14 20:55:20**
 
 ## Newspaper Stats
 
-*Scraped **40,754** Articles*
+*Scraped **40,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,750
 dailymirrorlk | 4,733
-adaderanalk | 4,757
+adaderanalk | 4,758
 tamilmirrorlk | 5,198
 virakesarilk | 6,459
-adaderanasinhalalk | 6,934
+adaderanasinhalalk | 6,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,752 (100.0%) of 40,754 articles have been extended.
+40,754 (100.0%) of 40,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### රිෂාඩ් බදියුදීන්ගේ සහාය සජිත් ට
+
+*2024-08-14 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199946) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී සමස්ත ලංකා මහජන කොංග්‍රසය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් මහතා ඒ බව පවසයි.
+
+◼️
+
+[Data](articles/f24991d9.json)
+
+---
+
+### හික්කඩුවේ වැරදුණු කුරුමාණම
+
+*2024-08-14 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199945) · `si`
+
+හික්කඩුව නගරයේදී ත්‍රීරෝද රථ රියදුරෙකුට වෙඩිතැබීමට ගත් උත්සායක් ව්‍යර්ථ වී තිබේ.
+
+ටී56 ගිනි අවියක් ඇතැතිව යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් අද (14) පස්වරුවේදී මෙම වෙඩිතැබීම සිදු කිරීමට උත්සාහ දරා ඇති නමුත් ගිනිඅවිය ක්‍රියාත්මක වී නොමැති බව අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
+
+ත්‍රීරෝද රථ රියදුරු එම අවස්ථාවේදී දිව ගොස් සැඟව ඇති අතර වෙඩිතැබීමට පැමිණි දෙදෙනා පළාගොස් ඇති බවද පොලීසිය පවසයි.
+
+එම ස්ථානයේ තිබී ටී56 ජීව උණ්ඩයක්ද හමුවී ඇති අතර සිද්ධිය සම්බන්ධයෙන් හික්කඩුව පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+
+◼️
+
+[Data](articles/8146cc04.json)
+
+---
+
+### මනූෂ වෙනුවට බණ්ඩාරිගොඩගේ නම ගැසට් කරයි
+
+*2024-08-14 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199944) · `si`
+
+මනූෂ නානායක්කාර ඉවත් කිරීමෙන් පුරප්පාඩු වූ සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ධූරය සඳහා බන්දුල ලාල් බණ්ඩාරිගොඩ මහතාගේ නම මැතිවරණ කොමිෂන් සභාව විසින් ගැසට් කර තිබේ.
+
+මනුෂ නානායක්කාර සහ හරීන් ප්‍රනාන්දුගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය පක්ෂය ගනු ලැබූ තීරණය නිත්‍යානුකූල බවට ශ්‍රේෂ්ඨාධිකරණය ඉකුත් 09 වනදා තීන්දු කිරීමත් සමග ඔවුන්ට මෙලෙස පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමි වුණි.
+
+මනූෂ නානායක්කාර මහතා 2020 මැතිවරණයේ දී සමගි ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් මනාප ලැයිස්තුවේ දෙවන ස්ථානයට පත් වෙමින් පාර්ලිමේන්තුවට තේරී පත්වීම හේතුවෙන් මනාප ලැයිස්තුවේ තෙවන ස්ථානයට පත්වූ බන්දුලාල් බණ්ඩාරිගොඩ මහතාට පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව හිමිවී තිබේ.
+
+2020 වසරේ පැවති මහ මැතිවරණයේ දී හරීන් ප්‍රනාන්දු මහතා සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස පාර්ලිමේන්තුවට පත්වීම හේතුවෙන් ඔහුගේ පුරප්පාඩුව සඳහා සුදුස්සෙකු නම් කිරීම ද සමගි ජන බලවේගය පක්ෂය විසින් සිදුකළ යුතු ය.
+
+◼️
+
+[Data](articles/2af74ee0.json)
+
+---
+
+### Rishad’s ACMC to support Sajith in presidential poll
+
+*2024-08-14 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101244/rishads-acmc-to-support-sajith-in-presidential-poll) · `en`
+
+All Ceylon Makkal Congress (ACMC) MP Rishad Bathiudeen has pledged his party’s support to the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/0b793712.json)
+
+---
 
 ### Risad's party supports Sajith
 
@@ -64,19 +126,25 @@ The Election Commission has gazetted Samagi Jana Balawegaya (SJB) member Bandula
 
 ---
 
-### தனிநபர் வருமான வரிக்கு விரைவில் நிவாரணம்
+### Relief as soon as the individual income tax
 
 *2024-08-14 20:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்-வருமான-வரிக்கு-விரைவில்-நிவாரணம்/175-342177) · `ta`
 
-தனிநபர் வருமான வரிக்கு விரைவில் நிவாரணம் வழங்க எதிர்பார்ப்பதாகவும், அதற்காக சர்வதேச நாணய நிதியம் மற்றும் திறைசேரி ஆகியவற்றினால் ஏற்கனவே சமர்ப்பிக்கப்பட்டுள்ள இரண்டு முன்மொழிவுகள் தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced that proposals from the International Monetary Fund (IMF) and the Treasury aim to reform individual income tax, potentially benefiting scholars and the middle class. This was disclosed during a conference at a Battaramulla hospital.
 
-அதற்காக திறைசேரி சமர்ப்பித்த பரிந்துரையையும் சர்வதேச நாணய நிதியம் (IMF)முன்வைத்த மாற்றுப் பரிந்துரையையும் பரிசீலித்து வருவதாக தெரிவித்த ஜனாதிபதி, வரி எல்லையை விரிவுபடுத்துவதற்கும் சர்வதேச நாணய நிதியம் முன்வைத்திருக்கும் பரிந்துரைகள் அறிஞர்கள், நடுத்தர வர்க்க சமூகத்திற்கும் நன்மை பயப்பதாக அமையும் என்பதால் அது தொடர்பில் கவனம் செலுத்தியள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-பத்தரமுல்லையில் உள்ள தனியார் விருந்தகம் ஒன்றில் நேற்று (13) மாலை நடைபெற்ற மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார். R
+President Ranil Wickremesinghe said that the two proposals already submitted by the International Monetary Fund and Treasury have been focused on the individual income tax.
+
+The President said that the recommendations of the Treasury and the IMF proposed by the International Monetary Fund (IMF) were considering the recommendation of the International Monetary Fund (IMF) and that the IMF proposed to expand the tax border would benefit the scholars and the middle class community.
+
+President Ranil Wickremesinghe said this while addressing a conference held at a private hospital in Battaramulla yesterday evening (13) evening.. Remble
 
 ◼️
 
 [Data](articles/532acf90.json)
+
+[Extended Data](ext_articles/532acf90.ext.json)
 
 ---
 
@@ -154,15 +222,21 @@ Chief Adviser of Bangladesh’s interim government, who has expressed his gratit
 
 ---
 
-### පාඨලිගේ සහාය සජිත්ට
+### Ready's support to Sajith
 
 *2024-08-14 19:09:05* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලිගේ-සහාය-සජිත්ට/11-411375) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රි පාඨලී චම්පික රණවක මහතාගේ නායකත්වයෙන් යුත් එක්සත් ජනරජ පෙරමුණ මෙවර ජනපතිවරණයේදී විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට සහාය දැක්වීමට තීරණය කර තිබේ. පාඨලී චම්පික රණවක මහතා කොළඹදි මාධ්‍ය හමුවක් පවත්වමින් මේ බව ප්‍රකාශ කළේය.
+Patali Champika Ranawaka, a member of the United Republic of Sri Lanka's Parliament, announced his support for Opposition Leader Sajith Premadasa in the upcoming Presidential election during a media briefing in Colombo.
+
+🟩
+
+United Republic of Member of Parliament Palogal Patali Champika Ranawaka has decided to support Opposition Leader Sajith Premadasa in this year's Presidential election. Patali Champika Ranawaka holds a media briefing in Colombo.
 
 ◼️
 
 [Data](articles/45e77467.json)
+
+[Extended Data](ext_articles/45e77467.ext.json)
 
 ---
 
@@ -2119,97 +2193,5 @@ Janaka Ratnayake served as the Chairman of the Public Utilities Commission.
 [Data](articles/f8217cba.json)
 
 [Extended Data](ext_articles/f8217cba.ext.json)
-
----
-
-### Two persons arrested for investigation into the superintendent of the prison headquarters
-
-*2024-08-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191047) · `ta`
-
-Two individuals were arrested by the Superintendent of Prison Headquarters for allegedly selling firearms owned by "Gota Asanga" to international drug traffickers. The arrests took place in Kadawatha and Peliyagoda, leading to the seizure of 373 kg of drugs and 12 bullets valued at Rs 40 lakhs.
-
-🟩
-
-Two more suspects have been arrested by the Superintendent of Prison Headquarters, who were arrested on charges of secretly selling guns belonging to "Gota Asanga", an organized culprit and narcotocine abroad.
-
-The two suspects have been arrested in Kadawatha and Peliyagoda areas, police said.
-
-373 kilograms of drugs and 12 bullets worth Rs 40 lakhs have been seized from the arrested suspects, police said.
-
-◼️
-
-[Data](articles/a7a9d070.json)
-
-[Extended Data](ext_articles/a7a9d070.ext.json)
-
----
-
-### Namal Rajapaksa signs nominations for Presidential Election
-
-*2024-08-14 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/101226/namal-rajapaksa-signs-nominations-for-presidential-election) · `en`
-
-The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal Rajapaksa has signed his nomination papers to contest the upcoming Presidential Election.
-
-He signed the nominations at former Prime Minister Mahinda Rajapaksa’s residence on Wijerama Road, Colombo 07.
-
-Meanwhile, the security deposit was placed for SLPP candidate Namal Rajapaksa this morning (14).
-
-SLPP General Secretary Sagara Kariyawasam had placed the deposit on behalf of Namal Rajapaksa at the Election Commission.
-
-“The security deposit was placed at the auspicious moment, marking another step forward in the journey to victory. We will ensure that Namal Rajapaksa will be sworn in as the ninth President by September 22. After the nominations are handed over tomorrow, the election campaign will begin immediately,” said Sagara Kariyawasam.
-
-The SLPP officially announced its National Organiser, MP Namal Rajapaksa, as the party’s candidate for the upcoming Presidential Election on August 07.
-
-...
-
-[Data](articles/ba7fc863.json)
-
-[Extended Data](ext_articles/ba7fc863.ext.json)
-
----
-
-### Wijeyadasa signs nomination papers for Presidential Election
-
-*2024-08-14 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101225/wijeyadasa-signs-nomination-papers-for-presidential-election) · `en`
-
-Former Justice Minister Dr. Wijeyadasa Rajapakshe has signed his nomination papers to contest the upcoming Presidential Election, which is scheduled to be held on September 21.
-
-He signed the nominations at his residence in Nawala amid the blessings of the Venerable Maha Sanga, said Ada Derana Reporter.
-
-Rajapakshe had placed a deposit with the Election Commission as a candidate for the 2024 Presidential Election on August 01.
-
-Rajapakshe had placed the deposit as the presidential candidate of the National Democratic Front.
-
-It was initially stated that the former minister would be contesting this year’s presidential election with the support of the faction of former chairman of the Sri Lanka Freedom Party (SLFP), ex-president Maithripala Sirisena.
-
-...
-
-[Data](articles/1f1abacb.json)
-
-[Extended Data](ext_articles/1f1abacb.ext.json)
-
----
-
-### TM Dilshan joins SJB to back Sajith in presidential election
-
-*2024-08-14 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/101224/tm-dilshan-joins-sjb-to-back-sajith-in-presidential-election) · `en`
-
-Former Sri Lankan cricketer Tillakaratne Dilshan, has decided to support the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
-
-Dilshan has joined the Samagi Jana Balawegaya with the aim of supporting Sajith Premadasa’s journey of building the country, the party said in a statement.
-
-Tillakaratne Dilshan, commonly known as TM Dilshan, had represented the Sri Lankan national cricket team for almost 17 years and also served as the team’s captain for a period.
-
-Tillakaratne Dilshan served as the captain of the Sri Lanka national cricket team, across formats between May 2010 and January 2012.
-
-Dilshan made his international debut in 1999 and was part of the Sri Lanka team that won the World Twenty20 in 2014. He appeared in 87 Tests, 329 ODIs and 78 T20 games for Sri Lanka.
-
-Dilshan announced his retirement from Test cricket on 9 October 2013. He retired from ODI cricket on 28 August 2016 and from T20I cricket on 9 September 2016.
-
-...
-
-[Data](articles/98d4d05f.json)
-
-[Extended Data](ext_articles/98d4d05f.ext.json)
 
 ---

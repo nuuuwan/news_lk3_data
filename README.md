@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 19:55:13**
+As of **2024-08-14 20:07:45**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,743 (100.0%) of 40,745 articles have been extended.
+40,745 (100.0%) of 40,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### බංග්ලාදේශ භාරකාර රජයේ  ප්‍රධානියාට ජනපති දුන් ඇමතුම
+### President to call for the head of the Bangladesh Trustees
 
 *2024-08-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199943) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බංග්ලාදේශ භාරකාර රජයේ ප්‍රධානියා වන මුහම්මද් යුනුස් මහතාට දුරකථනයෙන් අමතා සිය සුබ පැතුම් පිරිනමා තිබේ.
+President Ranil Wickremesinghe plans to speak with Muhammad Yunus, head of the Bangladesh Trustee government, expressing confidence in his ability to maintain law and order. He advises Sri Lankan investors to stay and invest in Bangladesh, promising economic support to both countries. Yunus appreciates the President's support and vows to work towards restoring stability in Bangladesh.
 
-බංග්ලාදේශයේ නීතිය හා සාමය රැකීමට භාරකාර රජයේ ප්‍රධානියා ට හැකිවනු ඇතැයි තමන් විශ්වාස කරන බව ජනාධිපතිවරයා එහිදී පවසා ඇත.
+🟩
 
-එමෙන්ම බංග්ලාදේශයේ සිටින ශ්‍රී ලාංකික ආයෝජකයින්ට අඛන්ඩව එහි රැඳී සිටිමින් සිය ආයෝජන කටයුතු සිදුකරන ලෙස තමා දැනුම් දුන් බවද ජනාධිපතිවරයා යූනුස් මහතා ට පවසා තිබේ.
+President Ranil Wickremesinghe calls Muhammad Yunus, the head of the Bangladesh Trustee government, was backed by Muhammad Yunus.
 
-ජනාධිපතිවරයා මෙහිදී පවසා ඇත්තේ බංග්ලාදේශයට ආර්ථික වශයෙන් දියුණු වීමට ශ්‍රී ලංකාවට ලබා දිය හැකි සෑම උපකාරයක්ම සිදුකරන බවයි.
+The President has said he believed that the Head of Trustee would be able to protect law and order in Bangladesh.
 
-මෙහිදි අදහස් දක්වමින් බංග්ලාදේශ ප්‍රධානියා ජනාධිපතිවරයාගේ සුබ පැතුමට ස්තූතිය පළ කර ඇති අතර අවස්ථාවක් ලද විගස බංග්ලාදේශ‍යට පැමිණ රට යථා තත්ත්වය ට පත් කිරීම සඳහා අවශ්‍ය මග පෙන්වීම කරන ලෙසත් ජනාධිපතිවරයාගෙන් ඉල්ලා තිබේ.
+The President has also told Mr. Yunusi that he had informed the Sri Lankan investors in Bangladesh to stay there and invest their investments.
+
+The President has said that all helps will be provided to Sri Lanka to improve the economy to Bangladesh economically improve.
+
+Speaking, Bangladesh headed was thanked the President's wishes and as soon as the chance and as soon as the opportunity to restore the country to recover the country.
 
 ◼️
 
 [Data](articles/c1cd1dab.json)
+
+[Extended Data](ext_articles/c1cd1dab.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Chief Adviser of Bangladesh’s interim government, who has expressed his gratit
 ...
 
 [Data](articles/00828cbd.json)
+
+[Extended Data](ext_articles/00828cbd.ext.json)
 
 ---
 

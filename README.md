@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 14:55:23**
+As of **2024-08-14 15:06:23**
 
 ## Newspaper Stats
 
-*Scraped **40,693** Articles*
+*Scraped **40,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,743
 dailymirrorlk | 4,733
-adaderanalk | 4,746
+adaderanalk | 4,748
 tamilmirrorlk | 5,188
 virakesarilk | 6,439
 adaderanasinhalalk | 6,922
@@ -26,29 +26,69 @@ adaderanasinhalalk | 6,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,692 (100.0%) of 40,693 articles have been extended.
+40,693 (100.0%) of 40,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### එංගලන්ත නායකයා තුවාල ලබයි
+### Thai Prime Minister Srettha Thavisin removed from office by court order
+
+*2024-08-14 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101234/thai-prime-minister-srettha-thavisin-removed-from-office-by-court-order) · `en`
+
+BANGKOK (AP) — A court in Thailand on Wednesday removed Prime Minister Srettha Thavisin from office over an ethical violation, further shaking up Thai politics after the court-ordered dissolution of the main opposition party a week ago.
+
+The case for which the Constitutional Court judged Srettha involved his appointment of a Cabinet member who had been imprisoned over an alleged attempt to bribe a court official.
+
+The court voted 5:4 against Srettha and the ruling removed him from office immediately.
+
+The Cabinet will remain in place on a caretaker basis until Parliament approves a new prime minister. There is no time limit for Parliament to fill the position.
+
+...
+
+[Data](articles/77b3e92e.json)
+
+---
+
+### Second school term to end on Friday
+
+*2024-08-14 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101233/second-school-term-to-end-on-friday-) · `en`
+
+The Ministry of Education has issued a notice regarding the completion of the second term for both government and government-approved private Sinhala and Tamil medium schools in 2024.
+
+Accordingly, the second term of all government and government-approved schools (Sinhala and Tamil medium) will end on Friday (August 16).
+
+Meanwhile, the schools are scheduled to reopen for the first phase of the third term on August 26 (Monday).
+
+◼️
+
+[Data](articles/da388057.json)
+
+---
+
+### England captain is injured
 
 *2024-08-14 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199929) · `si`
 
-එංගලන්ත ටෙස්ට් නායක බෙන් ස්ටොක්ස් ට එළැඹෙන ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් තරගාවලිය අහිමි වී තිබේ.
+Ben Stokes, England's Test captain, suffered an injury, leading to his loss in the series against Sri Lanka. Despite this setback, he remains optimistic and plans to lead the team during the Pakistan tour in October. The first Test match between Sri Lanka and England is scheduled for August 21 in Manchester.
 
-ඔහු වෙනුවට ශ්‍රී ලංකාව සමග පැවැත්වෙන ටෙස්ට් තරගාවලියේ එංගලන්ත කණ්ඩායමේ නායකත්වය ඔලි පෝප් ට පවරා තිබේ.
+🟩
 
-ස්ටොක්ස් ගේ ආබාධයේ බරපතළ කම ඊයේ (13) සිදුකළ ස්කෑන් පරීක්ෂණයකින් හෙළිවී තිබුණි.
+England Test leader Ben Stokes had lost the Sri Lanka-England Test series.
 
-ඒ අනුව එළැඹෙන ඔක්තෝබර් මාසයේ පැවැත්වෙන පාකිස්තාන සංචාරයට එක්වීමට ඔහු සැලසුම් කර ඇති බව සඳහන් ය.
+He has been assigned the leader of the England team in the Test series with Sri Lanka with Sri Lanka.
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය අගෝස්තු 21 වනදා මැන්චෙස්ටර් හිදී පැවැත්වෙයි.
+The seriousness of the Stokes of Stokes was revealed yesterday (13).
+
+Accordingly, he plans to join Pakistani tour in October.
+
+The first Test between Sri Lanka and England will be held at Manchester on August 21.
 
 ◼️
 
 [Data](articles/bc7c2d8e.json)
+
+[Extended Data](ext_articles/bc7c2d8e.ext.json)
 
 ---
 
@@ -2223,47 +2263,5 @@ The event will feature a series of keynote speeches, panel discussions, and work
 [Data](articles/5bd0fff6.json)
 
 [Extended Data](ext_articles/5bd0fff6.ext.json)
-
----
-
-### Cabinet ratifies Sri Lanka-Thailand FTA
-
-*2024-08-14 00:47:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-ratifies-Sri-Lanka-Thailand-FTA/34-765485) · `en`
-
-The Sri Lanka-Thailand Free Trade Agreement (FTA), a significant milestone in the bilateral relations between the two countries, was ratified by the Cabinet of Ministers on Monday.
-
-The agreement, which was signed by the Trade, Commerce and Food Security Minister and the Thai Commerce Minister on 3 February 2024, was tabled in the Parliament on 12 July 2024.
-
-“As stipulated in Section 14.10 of the agreement, the FTA will come into effect on the 30th day following the final notification from the first party to the second party, confirming that all internal legal requirements and procedures have been completed,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-He said the FTA marks a key step in Sri Lanka’s efforts to expand its trade network and strengthen economic ties with regional partners.
-
-...
-
-[Data](articles/739dc6d1.json)
-
-[Extended Data](ext_articles/739dc6d1.ext.json)
-
----
-
-### Maga Engineering gets Central Highway contracts
-
-*2024-08-14 00:46:58* · [`dailyftlk`](https://www.ft.lk/business/Maga-Engineering-gets-Central-Highway-contracts/34-765484) · `en`
-
-The Cabinet of Ministers on Monday approved the awarding of the IR and IS contract packages for the Central Highway Project to Maga Engineering Ltd.
-
-The decision was made based on the recommendations of the Standing Procurement Committees appointed by the Cabinet, recognising Maga Engineering Ltd. as the substantially responsive lowest bidder.
-
-The Central Highway Project, which is crucial for improving the country’s transport infrastructure, has been divided into 19 construction packages under Part Three of the project. Out of these, 17 packages (from 1A to 1Q) have already been awarded to various contractors.
-
-The IR and IS packages, which were the remaining contracts, were put out for competitive bidding among local construction institutions.
-
-Following a thorough evaluation process, the Standing Procurement Committees recommended Maga Engineering Ltd.
-
-...
-
-[Data](articles/6330fb04.json)
-
-[Extended Data](ext_articles/6330fb04.ext.json)
 
 ---

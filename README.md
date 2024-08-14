@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 19:21:10**
+As of **2024-08-14 19:36:37**
 
 ## Newspaper Stats
 
-*Scraped **40,741** Articles*
+*Scraped **40,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,747
+adalk | 3,749
 dailymirrorlk | 4,733
 adaderanalk | 4,755
 tamilmirrorlk | 5,197
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,741 (100.0%) of 40,741 articles have been extended.
+40,741 (100.0%) of 40,743 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,20 @@ Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawe
 [Data](articles/7f4daae6.json)
 
 [Extended Data](ext_articles/7f4daae6.ext.json)
+
+---
+
+### ඉහළට ගිය පැතුම
+
+*2024-08-14 18:39:54* · [`adalk`](https://www.ada.lk/sports/ඉහළට-ගිය-පැතුම/9-411374) · `si`
+
+ශ්‍රී ලංකා ආරම්භක පිතිකරු පැතුම් නිශ්ශංක එක්දින පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී ඉදිරියට පැමිණ තිබේ.
+
+ඒ අනුව 08 වැනි ස්ථානය දක්වා ස්ථානයකින් ඔහු ඉදිරියට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/c4efc248.json)
 
 ---
 
@@ -499,6 +513,26 @@ The police announced that a special traffic plan is being implemented from 8 am 
 [Data](articles/e19d4689.json)
 
 [Extended Data](ext_articles/e19d4689.ext.json)
+
+---
+
+### 11වැනිදා නිවසින් අතුරුදන්වූ මදුෂාන් කොත්මලේ ජලාශයට ආවේ කොහොමද ?
+
+*2024-08-14 16:07:54* · [`adalk`](https://www.ada.lk/breaking_news/11වැනිදා-නිවසින්-අතුරුදන්වූ-මදුෂාන්-කොත්මලේ-ජලාශයට-ආවේ-කොහොමද--/11-411372) · `si`
+
+නිවසින් අතුරුදහන්ව සිටි තරුණයෙකුගේ මළ සිරුර ඉහල කොත්මලේ ජලාශයේ පාවෙමින් තිබියදි (14) දින සොයා ගත් බව තලවකැලේ පොලිසිය පැවසිය.
+
+මෙසේ සොයා ගනු ලැබුවේ තලවකැලේ වත්තේ ඉහල කොටසේ පදිංචිව සිටි එස්. මදුෂාන් නැමැති 24 හැවිරිදි තරුණයාගේ සිරුරයි.
+
+එම තරුණයා ඉකුත් (11) දින සිට නිවසින් අතුරුදහන් වි සිටන බවට එම තරුණයාගේ දෙමාපියන් විසින් තලවකැලේ පොලිසිට පැමිණිල්ලක්ද කර  තිබුණි.
+
+තලවකැලේ පුඩළුඔය මාර්ගයේ ජලාශය හරහා ඉදිකර තිබෙන පාලම යට නාදුනන පිරිම මල සිරුරක් පාවෙමින් තිබෙන බවට ප්‍රදේශවාසින් විසින් තලවකැලේ පොලිසිට වෙත  ලබා දුන් තොරතුරක් මත තලවකැලේ පොලිසිට විසින් සිරුර ගොඩ ගෙන පරික්ෂා කිරිමෙදි ඥාතින් විසින් සිරුර හදුනා ගෙන ඇත.
+
+සිරුර සම්බන්ධයෙන් නුවරඑළිය මහේස්ත්‍රාත්වරයාගේ ස්ථාන පර්ක්ෂාවෙන් පසු   සිරුර පස්ශාත් මරණ පරික්ෂණය සදහ නුවරඑළිය දිස්ත්‍රික් මහ රොහලේ අධිකරණ වෛද්‍ය වරයා වෙත යොමු කරන බව තලවකැලේ පොලිසිය පැවසිය. ( I J)
+
+◼️
+
+[Data](articles/32197dd7.json)
 
 ---
 
@@ -2189,45 +2223,5 @@ The Secretary General of the Sri Lanka General Front Sagar Kariyawasam has been 
 [Data](articles/371d781f.json)
 
 [Extended Data](ext_articles/371d781f.ext.json)
-
----
-
-### Dates for postal voting
-
-*2024-08-14 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191044) · `ta`
-
-Postal voting for the presidential election will take place on September 4, 5, and 6, with additional dates on the 11th and 12th for those unable to vote earlier.
-
-🟩
-
-The Dates for Postal Voting in the presidential election have been announced by the Election Commission on Wednesday morning.
-
-Accordingly, the postal vote will be held on September 4, 5 and 6. The Elections Commission has announced that voting will be held on the 11th and 12th of September for those who cannot vote on the date.
-
-◼️
-
-[Data](articles/0ab50301.json)
-
-[Extended Data](ext_articles/0ab50301.ext.json)
-
----
-
-### The date for postal voting will be announced today
-
-*2024-08-14 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191038) · `ta`
-
-The Elections Commission will announce the date for postal voting on Wednesday (14), after applications closed on the 9th.
-
-🟩
-
-The Elections Commission said that the date of the upcoming presidential election will be announced on Wednesday (14).
-
-Applications for postal voting for the presidential election have been completed by the 9th.
-
-◼️
-
-[Data](articles/24653212.json)
-
-[Extended Data](ext_articles/24653212.ext.json)
 
 ---

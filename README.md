@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 23:36:54**
+As of **2024-08-14 23:56:23**
 
 ## Newspaper Stats
 
-*Scraped **40,763** Articles*
+*Scraped **40,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ newsfirstlk | 363
 bbccomsinhala | 379
 colombotelegraphcom | 390
 islandlk | 2,354
-economynextcom | 2,465
+economynextcom | 2,476
 dailyftlk | 2,625
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
 tamilmirrorlk | 5,199
-virakesarilk | 6,459
+virakesarilk | 6,462
 adaderanasinhalalk | 6,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,763 (100.0%) of 40,763 articles have been extended.
+40,763 (100.0%) of 40,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### சஜித் - பாட்டலி புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
+
+*2024-08-14 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191116) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் சக்திக்கும்,பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தலைமையிலான ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது.
+
+இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் ஐக்கிய மக்கள் கூட்டணியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதாக ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+இரு தரப்பினருக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் புதன்கிழமை (14) தலவத்துகொட பகுதியில் இடம்பெற்றது.ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார, ஐக்கிய குடியரசு முன்னணியின் பொதுச்செயலாளர் கருணாரத்ன ஆகியோர் புரிந்துணர்வு ஒப்பந்தங்களில் கைச்சாத்திட்டனர்.
+
+இதன்போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்கள்,சுயாதீன எதிரணியின் உறுப்பினர்கள் உட்பட ஐக்கிய குடியரசு முன்னணியினர் மற்றும் சிவில் அமைப்பினர் ஆகியோர் கலந்துக் கொண்டனர்.
+
+இதனை தொடர்ந்து உரையாற்றிய ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க குறிப்பிட்டதாவது,
+
+...
+
+[Data](articles/f0a7a265.json)
+
+---
 
 ### Malabe ice producing 2 lives
 
@@ -137,6 +157,40 @@ Meanwhile, the Colombo District Writing Women's Fort of Colombo District, the Co
 [Data](articles/9455a551.json)
 
 [Extended Data](ext_articles/9455a551.ext.json)
+
+---
+
+### 13 இல் வழங்கப்படும் அதிகாரங்கள் மீண்டும் பறிக்கப்படாதவாறு அரசியலமைப்பு மாற்றியமைக்கப்படவேண்டும் - ரணிலிடம் சுமந்திரன் வலியுறுத்தல்
+
+*2024-08-14 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191115) · `ta`
+
+அரசியலமைப்புக்கான 13 ஆவது திருத்தத்தில் பறிக்கப்பட்ட அதிகாரங்களைத் திருப்பித்தருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க வாக்குறுதியளித்திருக்கும் நிலையில், அவ்வாறு வழங்கப்படும் அதிகாரங்கள் மீண்டும் பறிக்கப்படாதவாறு அரசியலமைப்பு மாற்றியமைக்கப்படவேண்டும் எனவும், எதிர்வரும் ஜனாதிபதித்தேர்தலுக்கு முன்னதாக அதற்குரிய உத்தரவாதத்தை வழங்கவேண்டும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் வலியுறுத்தியுள்ளார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனுக்கும் இடையிலான சந்திப்பு புதன்கிழமை (14) காலை 11.30 மணிக்கு ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+இச்சந்திப்பின்போது அரசியலமைப்புக்கான 13 ஆவது திருத்தத்தில் நடைமுறைப்படுத்துவதற்கு உத்தேசித்துள்ள விடயங்களை உள்ளடக்கி அண்மையில் சுமந்திரனிடம் கையளித்த ஆவணத்தை ஏனைய தமிழ் அரசியல் கட்சிகளின் பிரதிநிதிகளுக்கும் வழங்கியிருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+...
+
+[Data](articles/530263bc.json)
+
+---
+
+### ஜனாதிபதி தேர்தலை முன்னிட்டு ரணில், சஜித் - சமத்துவக் கட்சியினரிடையே தனித்தனி சந்திப்பு
+
+*2024-08-14 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191114) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களான ரணில் விக்கிரமசிங்க, மற்றும் சஜித் பிரேமதாச ஆகியோருக்கும் சமத்துவக் கட்சிக்குமிடையில் தனித்தனியாகச் சந்திப்புகள் நடந்துள்ளன.
+
+கடந்தவாரம் கொழும்பில் இடம்பெற்ற இச் இ சந்திப்புகளில் சமத்துவக் கட்சியின் பொதுச் செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான முருகேசு சந்திரகுமார், கட்சியின் தவிசாளர் சு. மனோகரன் ஆகியோர் பங்கேற்றிருந்தனர்.
+
+“தமிழ்பேசும் மக்கள் தொடர்ந்தும் இனரீதியாகப் பல வழிகளிலும் ஒடுக்கப்படுகின்றனர். இதற்குத் தீர்வைக்காண முடியாதிருப்பது நாட்டின் தோல்வியே  எனவும்.  அதிகாரத்தில் இருப்போரும் அதிகாரத்துக்கு  வெளியே இருந்து அரசியல் செய்வோரும் இதற்கு பொறுப்பேற்க வேண்டும். இன ஒடுக்குமுறை தொடர்வதால், பிரச்சினைகளும் பாதுகாப்பற்ற நிலையும் தொடருகின்றன.
+
+யுத்தம் முடிந்த பிறகும் தமிழ் பேசும் மக்கள் நடத்துகின்ற போராட்டங்களே இதற்குச் சாட்சி. இனியும் கால நீடிப்புச் செய்யாமல் இனப்பிரச்சினைக்குத் தீர்வைக் காண வேண்டும். அதற்கான கால வரையறையும் அட்டவணையும் அவசியமாகும்.
+
+...
+
+[Data](articles/eb8528cf.json)
 
 ---
 
@@ -285,6 +339,32 @@ President Ranil Wickremesinghe said this while addressing a conference held at a
 [Data](articles/532acf90.json)
 
 [Extended Data](ext_articles/532acf90.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank net up 111-pct in June quarter
+
+*2024-08-14 19:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-111-pct-in-june-quarter-176814/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 111 percent from a year ago to 7.9 billion rupees in the June 2024 quarter helped by higher net interest income despite higher bad loan provisioning, interim accounts show.
+
+The bank reported earnings of 5.92 rupees per share for the quarter.
+
+Commercial Bank group net interest income went up 67 percent to 30.9 billion rupees even as interest income fell 8 percent to 68.9 billion rupees and interest expense fell at a faster 33 percent to 34.9 billion rupees.
+
+Net fee and commission income grew 4.8 percent to 5.4 billion rupees.
+
+Losses from trading were 1.7 billion rupees, down from 6.6 billion a year earlier.
+
+Loans and advances to customers were up 4.8 percent to 1,233 billion rupees, amid an expansion in foreign currency loans.
+
+Stage 3 bad loans were 4.87 percent, down from 5.85 percent.
+
+Financial assets – debt instruments were down 4.6 percent to 620 billion rupees.
+
+...
+
+[Data](articles/7b545d61.json)
 
 ---
 
@@ -668,6 +748,44 @@ Opposition candidate opposition candidate Sajith Premadasa, Sajith Premadasa, Sa
 
 ---
 
+### Sri Lanka’s HNB profits up 262-pct in June quarter
+
+*2024-08-14 17:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-profits-up-262-pct-in-june-quarter-176803/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hatton National Bank group reported profits of 8.5 billion rupees for the June 2024 quarter, up 262 percent from a year ago, helped by sharply lower provisions, even as net interest income fell, interim accounts showed.
+
+HNb group which also includes an insurance unit reported earnings of 14.99 rupees for the quarter. In the 6 months to June earnings were 27.59 rupees on total profits of 15.7 billion rupees.
+
+Group net interest income fell 13 percent to 27.25 billion rupees, with interest income falling 27 percent to 59.4 billion rupees despite interest expense falling 35 percent to 32.1 billion rupees.
+
+Impairment provisions were down to 814 million rupees from 17.7 billion rupees. Last years provisions were up partly due to sovereign bond provisions.
+
+Loans to customers was barely changed at 957 billion rupees by end June from 954 billion in December at bank level. Debt instruments were up 19 percent to 651 billion rupees.
+
+...
+
+[Data](articles/6658b672.json)
+
+---
+
+### Sri Lanka bond yields steady, rupee closes at 299.15/25
+
+*2024-08-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-steady-rupee-closes-at-299-15-25-176810/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 299.15/25 to the US dollar Wednesday, from 299.10/25 Tuesday dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.05/30 percent, up from 11.00/30 percent.
+
+A bond maturing on 15.06.2029 closed stable at 13.00/15 percent.
+
+A bond maturing on 01.10.2032 closed at 13.25/50 percent, down from 13.30/70 percent.
+
+◼️
+
+[Data](articles/566d4dec.json)
+
+---
+
 ### Party secretary among several arrested for taking Rs. 30M bribe from Janaka Ratnayake
 
 *2024-08-14 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101240/party-secretary-among-several-arrested-for-taking-rs-30m-bribe-from-janaka-ratnayake) · `en`
@@ -705,6 +823,24 @@ The former Chairman of the Public Utilities Commission of Public Utilities Commi
 [Data](articles/626f525b.json)
 
 [Extended Data](ext_articles/626f525b.ext.json)
+
+---
+
+### Sri Lanka Treasury bill yields up across shorter maturities
+
+*2024-08-14 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-across-shorter-maturities-176802/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 3-month and 6-month treasury bill yields were up at Wednesday’s auction while the 12-month was down, with all offered 130 billion bills sold, data from the debt office showed.
+
+The 3-month yield was up 17 basis points to 9.39 percent, with 60 billion rupees offered and 60.9 billion rupees of bills sold.
+
+The 6-month yield was up 12 basis points to 9.68 percent, with 35 billion offered and 48.5 billion rupees of bills sold.
+
+The 12-month bills fell 3 basis points to 10.03 percent, with 35 billion offered and 20.5 billion rupees of bills sold. (Colombo/Aug14/2024)
+
+◼️
+
+[Data](articles/e804e77e.json)
 
 ---
 
@@ -825,6 +961,28 @@ The President revealed this while delivering the keynote address at the Universi
 [Data](articles/59f3b6f3.json)
 
 [Extended Data](ext_articles/59f3b6f3.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banking stocks see interest
+
+*2024-08-14 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-stocks-see-interest-176800/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.58 percent, or 66.30 points, at 11,413; while the more liquid S&P SL20 Index closed up 1.05 percent, or 34.13 points, at 3,278.
+
+“Turnover crossed the one billion mark for the first time this month,” Softlogic Stockbrokers said. “There was mixed participation from both local and foreign investors.”
+
+Interest in banks was seen due to many posting positive interim results. Commercial Bank of Ceylon Plc was up at 92.90 despite its Bangladesh exposure.
+
+“Banks are seeing interest because the banking results that have come out so far look ok. It could also be a bit of profit-taking.”
+
+Hatton National Bank Plc voting was flat at 180.00, while non-voting was up at 142.50. The bank had posted a profit after tax of 15.4 billion rupees during the six months ended June 2024.
+
+...
+
+[Data](articles/0266756c.json)
 
 ---
 
@@ -1102,6 +1260,28 @@ President Wickremesinghe had confirmed that he will contest the upcoming Preside
 
 ---
 
+### 40 presidential candidates vie for Sri Lanka’s top job
+
+*2024-08-14 15:34:00* · [`economynextcom`](https://economynext.com/40-presidential-candidates-vie-for-sri-lankas-top-job-176772/) · `en`
+
+ECONOMYNEXT – Sri Lanka will have 40 candidates contesting at the upcoming Presidential Election on September 21, an Election Commission list showed.
+
+The deadline for accepting candidate deposits was 12 noon today (14), at which point monies had been paid for 40 candidates.
+
+Nominations will be accepted between 9 am and 11 am on Thursday (15). Complaints will be entertained until 11.30 am.
+
+There are 17 independent candidates, 22 from recognised parties, and 1 other party.
+
+As per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
+
+The country’s Commissioner General of Elections Saman Sri Rathnayake has said that each additional candidate on the presidential election ballot increases costs by about 200 million rupees.
+
+...
+
+[Data](articles/1755163f.json)
+
+---
+
 ### Here is the decision of Ranil about the presidential election
 
 *2024-08-14 15:16:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-ගැන-රනිල්-දැන්-ගත්ත-තීරණය-මෙන්න/11-411371) · `si`
@@ -1289,6 +1469,44 @@ Meanwhile, the Ministry of Education said that the educational activities for th
 [Data](articles/0a9e88ad.json)
 
 [Extended Data](ext_articles/0a9e88ad.ext.json)
+
+---
+
+### Sri Lanka govt pitches income tax relief to IMF ahead of polls
+
+*2024-08-14 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-pitches-income-tax-relief-to-imf-ahead-of-polls-176757/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government has proposed to the International Monetary Fund (IMF) an income tax relief by adjusting tax slabs, President Ranil Wickremesinghe’s office said, as the tax burden has become a key topic in the presidential election campaign.
+
+The presidential election has been scheduled for September 21 and President Wickremesinghe is contesting in a broader independent coalition.
+
+Under the economic reforms committed to the IMF, Wickremesinghe’s administration raised the maximum limit of personal income tax to 36 percent from 24 percent, while reducing the slabs to 500,000 rupees. The move came after Sri Lanka was hit by an unprecedented economic crisis in 2022.
+
+The move raised the government’s tax revenue, but millions of state and private sector employees complained over the Wickremesinghe government’s decision on raising the tax rate and reducing the tax slabs.
+
+...
+
+[Data](articles/bd046601.json)
+
+---
+
+### Sri Lanka approves appointments of six ambassadors, high commissioner, 3 officials
+
+*2024-08-14 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-appointments-of-six-ambassadors-high-commissioner-3-officials-176756/) · `en`
+
+ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved the appointments of 6 new ambassadors, a high commissioner, 2 ministry secretaries and a chairman of a statutory body.
+
+The Committee on High Posts approved S A P P Seram as ambassador of Sri Lanka to Indonesia and R S K Azard as ambassador to Qatar, it said in a statement.
+
+S K Gunasekara was appointed ambassador to the Russian Federation, A S K Senaviratne to Egypt, N M Shaheed to Iran, Y K Gunasekara to Bahrain and S P Walpita Gamage was appointed high commissioner to New Zealand.
+
+The Committee appointed B K P Chandrakirthi as secretary to the Ministry of Environment and S Weerasinghe as secretary to the Ministry of Industry.
+
+D T K Bernard’s appointment as chairman and chief executive officer of the Sri Lanka Export Development Board was also approved. (Colombo/Aug14/2024)
+
+◼️
+
+[Data](articles/bb0cd531.json)
 
 ---
 
@@ -1644,6 +1862,28 @@ The Sri Lanka General Assembly, 92 Members of Parliament, an independent candida
 
 ---
 
+### Sri Lanka president proposes anti-narcotics agency with police, military and civil participation
+
+*2024-08-14 13:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-proposes-anti-narcotics-agency-with-police-military-and-civil-participation-176742/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President has proposed establishing a new agency under the Anti-Narcotics Act with police, military, and civil agencies presence in a single entity.
+
+“This agency could be tasked with long-term engagement in combating drug-related activities,” Ranil Wickremesinghe was quoted as saying by his media division, during the opening of the Special Operations Command of the Police Special Task Force in Sri Jayewardenepura, on Tuesday (13).
+
+“It is crucial that drug dealers are prevented from undermining society.
+
+“Today, individuals involved in the underworld can exploit new technology, necessitating the introduction of specific laws to control them.
+
+“I propose establishing a new agency under the Anti-Narcotics Act, which would consolidate all police, military, and civil agencies into a single entity with designated powers.”
+
+The newly opened Special Operations Command is set to act as the primary hub for managing public order and motorcycle patrols.
+
+...
+
+[Data](articles/ac000457.json)
+
+---
+
 ### 40 candidates place deposits for 2024 Presidential Election as deadline ends
 
 *2024-08-14 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101230/40-candidates-place-deposits-for-2024-presidential-election-as-deadline-ends) · `en`
@@ -1981,265 +2221,5 @@ Hospital sources said that there were minor injuries in the body of a student wh
 [Data](articles/658a9553.json)
 
 [Extended Data](ext_articles/658a9553.ext.json)
-
----
-
-### “Decision to step down as Prime Minister”
-
-*2024-08-14 11:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-பதவியிலிருந்து-விலக-முடிவு/50-342154) · `ta`
-
-Japanese PM Fumio Kishida announced his decision to step down, indicating he won't seek re-election as party leader ahead of the Liberal Democratic Party's leadership vote in September. Despite resigning, he assures full support from the party and its new leader.
-
-🟩
-
-Japanese Prime Minister Fumio Kishita said during a media briefing in Tokyo
-
-Prime Minister Kishida has made it clear that the party is not expected to re -expect the post of party leader as elections to elect the new leader of the ruling Liberal Democratic Party in September.
-
-He has said that even if he resigned from the party's leadership and the prime ministerial post, the party and the new leader of the party are fully supportive.
-
-◼️
-
-[Data](articles/191e27a5.json)
-
-[Extended Data](ext_articles/191e27a5.ext.json)
-
----
-
-### "Fumio Kishida decided to resign from Prime Minister"
-
-*2024-08-14 11:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரதமர்-பதவியிலிருந்து-ஃபுமியோ-கிஷிடா-விலக-முடிவு/50-342154) · `ta`
-
-Fumio Kishida announced his resignation as Japan's Prime Minister, stating he won't seek re-election as the Liberal Democratic Party's leader. Despite stepping down, he assures support from both the party and its new leader.
-
-🟩
-
-Japanese Prime Minister Fumio Kishita said during a media briefing in Tokyo
-
-Prime Minister Kishida has made it clear that the party is not expected to be the party leader again as the election to elect the new leader of the ruling Liberal Democratic Party in September.
-
-He has said that even if he resigned from the party's leadership and the prime ministerial post, the party and the new leader of the party are fully supportive.
-
-◼️
-
-[Data](articles/8513ce06.json)
-
-[Extended Data](ext_articles/8513ce06.ext.json)
-
----
-
-### FR petition filed seeking court order to appoint Acting IGP
-
-*2024-08-14 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101228/fr-petition-filed-seeking-court-order-to-appoint-acting-igp) · `en`
-
-A Fundamental Rights petition has been filed at the Supreme Court, requesting to issue an order to the President to appoint an Acting Inspector General of Police (IGP).
-
-Attorney-at-Law R.S.P. Ranasuriya has submitted the FR petition to the Supreme Court.
-
-President Ranil Wickremesinghe and the Attorney General have been named as respondents in the petition.
-
-On July 24, the Supreme Court issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
-
-The Supreme Court had also ordered the President to name a suitable person for the position of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon.
-
-...
-
-[Data](articles/0c2915ab.json)
-
-[Extended Data](ext_articles/0c2915ab.ext.json)
-
----
-
-### There are only 15 minutes
-
-*2024-08-14 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-நிமிடங்கள்-மட்டுமே-உள்ளன/175-342153) · `ta`
-
-The Election Commission has until Tuesday (13) to approve 36 candidates, including 20 from recognized political parties and 16 independents, for the upcoming presidential election. The deadline for candidate approval ends today (14) at 12 noon.
-
-🟩
-
-The Election Commission said that 36 candidates have been given control till Tuesday (13) to contest the upcoming presidential election.
-
-The Chairman of the Elections Commission stated in a statement that the candidates of the 20 political parties recognized in the presidential election have been controlled. 16 independent candidates have also been controlled.
-
-Meanwhile, the time to control the candidates will be completed today (14) at 12 noon.
-
-◼️
-
-[Data](articles/ec24d2df.json)
-
-[Extended Data](ext_articles/ec24d2df.ext.json)
-
----
-
-### Here are the new crowd
-
-*2024-08-14 11:35:01* · [`adalk`](https://www.ada.lk/breaking_news/නිලතල-හිමිවූ-අලුත්ම-පිරිස-මෙන්න/11-411367) · `si`
-
-The Committee on the High Courts in Parliament has recommended the appointment of six new ambassadors and a High Commissioner. This decision involves two Ministries and Statutory Institutions.
-
-🟩
-
-Six new ambassadors, High Commissioner, a High Commissioner, has been given the recommendation of the Committee on the High Courts in Parliament to appoint two Ministries and Statutory Institutions.
-
-◼️
-
-[Data](articles/513e813a.json)
-
-[Extended Data](ext_articles/513e813a.ext.json)
-
----
-
-### The fate of her fate who went to shift the road to the stopped bus
-
-*2024-08-14 11:32:59* · [`adalk`](https://www.ada.lk/breaking_news/නැවැත්වූ-බසය-ඉදිරියෙන්-පාර-මාරුවීමට-ගිය-ඇයට-අත්වූ-ඉරණම/11-411366) · `si`
-
-A tragic accident occurred when a woman, a 41-year-old from Beliatta, was hit by a bus near the Colombo-Wellawaya junction. She was rushed to Tangalle Hospital but succumbed to her injuries.
-
-🟩
-
-A bus traveling from Matara to Tangalle Hospital on Colombo-Wellawaya road route towards the Colombo-Wellawaya junction is an accident in front of a woman who has been shifted to the bus in front of the bus. The victim was admitted to the hospital yesterday (13) and died while receiving treatment. The deceased has been identified as a 41 year old resident of Beliatta.
-
-◼️
-
-[Data](articles/8b4a7b35.json)
-
-[Extended Data](ext_articles/8b4a7b35.ext.json)
-
----
-
-### Janaka Ratnayake places deposit to contest Presidential Election
-
-*2024-08-14 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101227/janaka-ratnayake-places-deposit-to-contest-presidential-election) · `en`
-
-Former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL), Janaka Ratnayake is running for the presidential election this year as the candidate of the ‘United Lanka Podujana Party’.
-
-The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, has placed the security deposit on behalf of Janaka Ratnayake at the Election Commission this morning (14).
-
-◼️
-
-[Data](articles/b4a497c4.json)
-
-[Extended Data](ext_articles/b4a497c4.ext.json)
-
----
-
-### President deposits bail to JR
-
-*2024-08-14 11:28:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සටනට-JR-වෙනුවෙන්-ඇප-තැන්පත්-කරයි/11-411365) · `si`
-
-Former PUC Chairman JR contests presidential election; President deposits his bail.
-
-🟩
-
-The former Chairman of the Public Utilities Commission is to contest the next presidential election and the money has been deposited for him today (14).
-
-The Secretary to the United Ceylon General Party General has been bailed for him.
-
-◼️
-
-[Data](articles/89afc71b.json)
-
-[Extended Data](ext_articles/89afc71b.ext.json)
-
----
-
-### Russia - Ukraine soldiers continued to attack the Belgorot border
-
-*2024-08-14 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191061) · `ta`
-
-In response to Ukrainian military advances, Russia has declared an emergency in the Belgorod region, marking the first incursion into Russian territory since WWII. Civilians have been evacuated due to the escalating conflict.
-
-🟩
-
-Russia has announced an emergency situation in its Belgorot border region after a series of new attacks by Ukrainian soldiers.
-
-Russia has declared the emergency of the Belgorot border as it has announced that Ukrainian soldiers have been brought under the control of several square kilometers under Russia.
-
-The Governor of Belgorot said the situation in the Belgorot region continues to be difficult.
-
-It is noteworthy that the civilians were urgently evicted from the border of Belgirot after Ukrainian soldiers began to progress.
-
-This is the first time that a country has entered Russia after World War II.
-
-◼️
-
-[Data](articles/6b912cda.json)
-
-[Extended Data](ext_articles/6b912cda.ext.json)
-
----
-
-### The obligations of the Ministry of Justice in determining the future of the country are important - Justice Minister Alisabri
-
-*2024-08-14 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191060) · `ta`
-
-Justice Minister Alisabri emphasizes the crucial role of the Ministry of Justice in shaping the nation's future, highlighting the importance of reconciliation efforts, especially with the international community. He urges swift action in improving ministry operations, prioritizing departments like Reconciliation and Chemical Analysis, and accelerating justice processes. Since 2020, the ministry has been actively working towards these goals.
-
-🟩
-
-Reconciliation activities are more essential when working with the international community. At the same time, the obligations of the Ministry of Justice are important in determining the future of the country. Justice Minister Alisabri said that steps should be taken to expedite the activities of these sectors.
-
-Alizabri, who was appointed as the Minister of Justice, Prison and Constitutional Reforms, said this while discussing his duties on Tuesday (13) after taking over the Ministry of Justice.
-
-During the discussion, he heard about the improvements of the ministry's activities and advised the system of priority to the departments of the departments of the Department of Reconciliation, Reconciliation and Chemical Analysis Department.
-
-At the same time, prioritize the measures to be completed quickly. Not only is the trial, but the obligations of the Ministry of Justice are important in determining the future of the country.
-
-...
-
-[Data](articles/3eb2ae58.json)
-
-[Extended Data](ext_articles/3eb2ae58.ext.json)
-
----
-
-### Increase in leakage consumption following tax hike
-
-*2024-08-14 11:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-உயர்வைத்-தொடர்ந்து-கசிப்பு-நுகர்வு-அதிகரிப்பு/175-342148) · `ta`
-
-Following a tax hike, illegal liquor consumption rose from 19% to 30%, impacting state revenue. The excise commissioner noted a rapid price increase in legal alcohol, affecting sales and revenue targets. Despite restrictions in some districts limiting access to state-owned liquor, the illegal market thrives, highlighting the need for effective regulation and licensing strategies to meet the 2024 budget goal of Rs 232 billion.
-
-🟩
-
-The Commissioner General of Excise MJ Gunasiri said that illegal liquor consumption, especially 'leak' consumption, has increased from 19% to 30% following tax hikes.
-
-Commenting on the media, following the tax increase, the prices of alcoholism have increased rapidly with illegal liquor market.
-
-The sector is the third main sector of the state's revenue, and the 2024 budget proposal is aimed at earning Rs 232 billion this year.
-
-“It is surprising that the state has not been granted permission for liquor in some districts. In these districts, people have to travel at least 30 to 40 kilometers to find the state -owned liquor road.
-
-However, persons who sell illegal liquor continue to work in these areas without restrictions, ”he said.
-
-July 31, 2024. 122 billion government revenues were charged, and to reach the target more than Rs.. 110 billion is required.
-
-...
-
-[Data](articles/0f9a42e0.json)
-
-[Extended Data](ext_articles/0f9a42e0.ext.json)
-
----
-
-### FR petition demanding to appoint a acting IGP
-
-*2024-08-14 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199920) · `si`
-
-A fundamental rights petition was filed with the Supreme Court requesting an acting Inspector General of Police (IGP). The petition names President Ranil Wickremesinghe and the Attorney General as respondents.
-
-🟩
-
-A fundamental rights petition filed a fundamental rights petition to the Supreme Court demanding a acting IGP.
-
-President Ranil Wickremesinghe and the Attorney General have been named as respondents.
-
-◼️
-
-[Data](articles/60cf7ae0.json)
-
-[Extended Data](ext_articles/60cf7ae0.ext.json)
 
 ---

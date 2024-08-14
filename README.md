@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 17:06:31**
+As of **2024-08-14 17:21:27**
 
 ## Newspaper Stats
 
-*Scraped **40,725** Articles*
+*Scraped **40,727** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 379
-colombotelegraphcom | 389
+colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,746
 dailymirrorlk | 4,733
-adaderanalk | 4,751
+adaderanalk | 4,752
 tamilmirrorlk | 5,194
 virakesarilk | 6,450
 adaderanasinhalalk | 6,929
@@ -26,43 +26,73 @@ adaderanasinhalalk | 6,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,723 (100.0%) of 40,725 articles have been extended.
+40,725 (100.0%) of 40,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### කමිඳු ගේ සහ වැන්ඩර්සේ ගේ වීසා ගැටලුව විසඳෙයි
+### President reveals plans to provide income tax relief and IMF’s counter proposal
+
+*2024-08-14 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101239/president-reveals-plans-to-provide-income-tax-relief-and-imfs-counter-proposal-) · `en`
+
+President Ranil Wickremesinghe has revealed plans to provide relief for personal income tax in the near future as the government is considering adjustments to the personal income tax structure to provide relief to taxpayers, the President’s Media Division reported.
+
+Following the strong performance in tax revenue this year, the government has proposed to the International Monetary Fund (IMF) an adjustment in Personal Income Tax slabs from Rs. 500,000 to Rs. 720,000, aiming to provide relief to mid-level taxpayers affected by recent tax reforms, he said.
+
+The IMF, in turn, has suggested changes, offering more relief to lower bands, similar relief for mid-level taxpayers and slightly less for higher earners, while keeping the proposal’s core intact, he said.
+
+The President revealed this while delivering the keynote address at the University Lecturers’ Conference held at the Water’s Edge Hotel last evening (13).
+
+...
+
+[Data](articles/59f3b6f3.json)
+
+---
+
+### The Vesa's visa problem solves the problem
 
 *2024-08-14 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199937) · `si`
 
-ශ්‍රී ලංකා ටෙස්ට් සංචිතයට නම්කර සිටින කමිඳු මෙන්ඩිස් සහ ජෙෆ්රි වැන්ඩර්සේ හෙට (15) එංගලන්තය බලා පිටත්වීමට නියමිත බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+Kumindu Mendis and Geoffrey Wandder, due to leave for England tomorrow, missed the Sri Lankan cricket team's departure on the 11th. They'll join the squad for three Tests against England, starting with the first match in Manchester on 21st August.
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම පසුගිය 11 වනදා එංගලන්තය බලා පිටත් වූ අතර මෙම ක්‍රීඩකයින් දෙදෙනාට එදින යාමට නොහැකි වුණි.
+🟩
 
-ශ්‍රී ලංකාව සහ එංගලන්තය අතර ටෙස්ට් තරග 3ක් පැවැත්වීමට නියමිත අතර එහි පළමු තරගය අගෝස්තු 21 වනදා මැන්චෙස්ටර් හීදී ආරම්භ වෙයි.
+Kumindu Mendis and Geoffrey Wandder is due to leave for England tomorrow (15) to visit the Sri Lanka Test squad.
+
+The Sri Lankan cricket team left for England on the 11th and the two players were unable to go.
+
+Three Tests will be held between Sri Lanka and England and the first match begins in Manchester on 21st August.
 
 ◼️
 
 [Data](articles/297ed24b.json)
 
+[Extended Data](ext_articles/297ed24b.ext.json)
+
 ---
 
-### අලුත් පත් කිරීම් කිහිපයකට නිර්දේශ ලබාදෙයි
+### Recommendation for several new appointments
 
 *2024-08-14 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199936) · `si`
 
-නව තානාපතිවරුන් 06 දෙනෙක්, මහ කොමසාරිස්වරයෙක්, අමාත්‍යාංශ ලේකම්වරුන් දෙදෙනෙක් සහ ව්‍යවස්ථාපිත ආයතන සභාපතිවරයෙක් පත්කිරීමට පාර්ලිමේන්තුවේ උසස් නිලතල පිළිබඳ කාරක සභාවේ නිර්දේශය ලබාදී තිබේ.
+Several new diplomatic appointments have been made, including six ambassadors and a High Commissioner. Notably, Mrs. Seraum is now the Sri Lankan Ambassador to Indonesia, Mrs. Asard to Qatar, SK to Russia, Mrs. Gunasekera to Egypt, NM Shahid to Iran, and BKP to Bahrain. Additionally, Mrs. Gunasekera is the Commissioner in New Zealand. In domestic roles, BKP is the new Secretary of the Ministry of Environment, while Mr. Weerasinghe takes the position of Secretary of the Ministry of Industry. Dr. DTK is appointed as the Chairman of the Sri Lanka Export Development Board and CEO, with Mr. Bernard also receiving an appointment.
 
-ඒ අනුව, ඉන්දුනීසියානු ජනරජයේ ශ්‍රී ලංකා තානාපති ලෙස එස්. ඒ. පී. පී. සේරම් මහත්මියගේ නමද, කටාර් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති ලෙස ආර්.එස්.කේ අසාර්ඩ් මහත්මිය‍ගේ නමද උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර ඇත.
+🟩
 
-එමෙන්ම රුසියානු සමූහාණ්ඩුවේ ශ්‍රී ලංකා තානාපති ලෙස එස්.කේ. ගුණසේකර මහත්මියගේ නමද, ඊජිප්තු අරාබි ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස ඒ.එස්.කේ. සෙනවිරත්න මහතාගේ නමද  උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර ඇත.
+Six new ambassadors, a High Commissioner, Appointment of two Secretaries of the Ministry and Statutory Institutions
 
-තවද ඉරාන ඉස්ලාමීය ජනරජයේ ශ්‍රී ලංකා තානාපතිවරයා ලෙස එන්.එම් ෂහීඩ් මහතාගේ නමද, බහරේන් රාජධානියේ ශ්‍රී ලංකා තානාපති ලෙස වයි.කේ. ගුණසේකර මහත්මියගේ නමද, නවසීලන්තයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා ලෙස එස්.පී වල්පිට ගමගේ මහතාගේ නමද උසස් නිලතල පිළිබඳ කාරක සභාව විසින් නිර්දේශ කර තිබේ.
+Accordingly, the Sri Lankan Ambassador to the Indonesian Republic. A. P. P. Mrs. Seraum, Sri Lankan Ambassador to Qatar, Mrs. RSK Asard's name and Mrs. RSK Asard has also recommended by the Committee on High Posts.
+
+SK is the Sri Lankan Ambassador to the Russian Federation. Mrs. Gunasekera as the Sri Lankan Ambassador to the Egyptian Republic of Arabic. Mr. Seneviratne's name is also recommended by the Committee on High Posts.
+
+NM Shahid's Ambassador to the Iranian Islamic Republic is the Sri Lankan Ambassador of the Kingdom of Bahrain.. Mrs. Gunasekera and the Commissioner of Sri Lanka in New Zealand has also recommended by the Committee on High Posts.
 
 ...
 
 [Data](articles/50d0aa54.json)
+
+[Extended Data](ext_articles/50d0aa54.ext.json)
 
 ---
 
@@ -1412,6 +1442,20 @@ The two ministers also reviewed bilateral relations between Sri Lanka and Egypt.
 
 ---
 
+### Hobson’s Choice?
+
+*2024-08-14 11:15:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hobsons-choice/) · `en`
+
+There has been a sigh of relief that President Ranil Wickremesinghe has called for the presidential elections and the Elections Commission has declared September 21st as the day of reckoning for Sri Lanka.
+
+Many suspected that the President was trying to postpone elections and very few believed that President Ranil Wickremesinghe will call for the election as scheduled. He pulled out his magic wand and 85% of the lotuses chose his lake to thrive. There could be many more surprises prior to September 21st.
+
+...
+
+[Data](articles/596f9834.json)
+
+---
+
 ### The nephew of the mother -in -law's death
 
 *2024-08-14 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191056) · `ta`
@@ -2167,51 +2211,5 @@ The bodies have been placed in the funeral room of the Colombo National Hospital
 [Data](articles/4c952c39.json)
 
 [Extended Data](ext_articles/4c952c39.ext.json)
-
----
-
-### Land cleaning to set up Vihara in Trincomalee, Kuchchaveli, Illandaikulam area;State officials directly visited
-
-*2024-08-14 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191037) · `ta`
-
-State officials visited Trincomalee's Kuchchaveli-Illandaikulam area to oversee land cleanup for a Buddhist Vihara setup. The process involves investigating land documents, with actions to be taken soon by relevant authorities. This initiative has led to the suspension of the Kuchchaveli-Illandaikulam 5th Kuttai, causing concern among locals displaced during the war, fearing displacement again despite being resettled.
-
-🟩
-
-Government officials, including the Trincomalee District Government Agent, Kuchchaveli Divisional Secretary, visited the site on Tuesday (13).
-
-In the meantime, the people's land documents were investigated and the relevant authorities and the relevant Vikramadi would take action soon.
-
-Kuchchaveli - Illandaikulam 5th Kuttai was suspended following the issue of the Kuchchaveli Divisional Secretariat as the people's land was cleaned up to set up a Buddhist Vihara under the leadership of a Buddhist monk from the night of the 25th of last month.. Subsequently, the matter was taken to the attention of top state officials, including MPs.
-
-People who lived in the Lantaikulam area have been displaced in the 1990s and adjoining periods due to the war, and the people are concerned that the people who have long had been resettled in the area, despite the fact that the people have not been resettled.
-
-◼️
-
-[Data](articles/b22a1dc2.json)
-
-[Extended Data](ext_articles/b22a1dc2.ext.json)
-
----
-
-### Related on Postal Voting
-
-*2024-08-14 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199913) · `si`
-
-The Elections Commission announced postal voting details for the 2024 presidential election, including issuance and posting dates. District Secretariats, election offices, and police are involved in the process.
-
-🟩
-
-The Elections Commission has published the postal voting on the 2024 presidential election.
-
-Accordingly, the issuance of postal votes and handing over postal votes and handing over to the post will be held on 26.08.200.
-
-District Secretariats, election offices and police have been allocated for the election offices and police.
-
-◼️
-
-[Data](articles/c55110cd.json)
-
-[Extended Data](ext_articles/c55110cd.ext.json)
 
 ---

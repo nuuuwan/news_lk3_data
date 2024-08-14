@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 15:06:23**
+As of **2024-08-14 15:21:16**
 
 ## Newspaper Stats
 
-*Scraped **40,695** Articles*
+*Scraped **40,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,625
 adalk | 3,743
 dailymirrorlk | 4,733
 adaderanalk | 4,748
-tamilmirrorlk | 5,188
-virakesarilk | 6,439
+tamilmirrorlk | 5,190
+virakesarilk | 6,448
 adaderanasinhalalk | 6,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,693 (100.0%) of 40,695 articles have been extended.
+40,695 (100.0%) of 40,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### இரண்டாம் தவணை விடுமுறை குறித்து கல்வி அமைச்சு அறிவிப்பு
+
+*2024-08-14 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191090) · `ta`
+
+இந்த ஆண்டுக்கான இரண்டாம் தவணை பாடசாலை கற்கைகள்  நிறைவடைவது தொடர்பாக கல்வி அமைச்சினால் அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+இதேவேளை, மூன்றாம் தவணைக்கான கல்வி செயற்பாடுகள் எதிர்வரும் ஆகஸ்ட் 26ஆம் திகதி மீண்டும் ஆரம்பிக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0a9e88ad.json)
+
+---
+
+### நாமலுக்கு கோட்டா ஆதரவு
+
+*2024-08-14 14:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-கோட்டா-ஆதரவு/175-342165) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிட்டு ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுக்கு முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ தனது ஆதரவை வழங்கியுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவினால் வேட்பு மனுவில் கையொப்பமிடும் நிகழ்வில் கோட்டாபய ராஜபக்ச கலந்துகொண்டார்.
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ இன்று காலை கொழும்பு விஜேராமவில் உள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இல்லத்தில் வைத்து வேட்பு மனுவில் கையொப்பமிட்டார்.
+
+◼️
+
+[Data](articles/246b41ab.json)
+
+---
 
 ### Thai Prime Minister Srettha Thavisin removed from office by court order
 
@@ -48,6 +78,22 @@ The Cabinet will remain in place on a caretaker basis until Parliament approves 
 
 [Data](articles/77b3e92e.json)
 
+[Extended Data](ext_articles/77b3e92e.ext.json)
+
+---
+
+### மூன்றாம் தவணை 26 ஆரம்பம்
+
+*2024-08-14 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-26-ஆரம்பம்/175-342164) · `ta`
+
+அரச மற்றும் அரசால் அங்கீகரிக்கப்பட்ட தனியார் பாடசாலைகளின் இரண்டாம் தவணை 2024 ஓகஸ்ட் 16,   வெள்ளிக்கிழமையுடன் முடிவடைகிறது.
+
+2024 ஆம் ஆண்டிற்கான மூன்றாம் தவணையின் முதல் கட்டம் 2024 ஓகஸ்ட்  26 ஆம் திகதி திங்கள் அன்று ஆரம்பமாகுமென கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c70997bb.json)
+
 ---
 
 ### Second school term to end on Friday
@@ -63,6 +109,8 @@ Meanwhile, the schools are scheduled to reopen for the first phase of the third 
 ◼️
 
 [Data](articles/da388057.json)
+
+[Extended Data](ext_articles/da388057.ext.json)
 
 ---
 
@@ -89,6 +137,46 @@ The first Test between Sri Lanka and England will be held at Manchester on Augus
 [Data](articles/bc7c2d8e.json)
 
 [Extended Data](ext_articles/bc7c2d8e.ext.json)
+
+---
+
+### 'பாதவத்தி'யை பேசு பொருளாக்கிய மாரி செல்வராஜ்
+
+*2024-08-14 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191087) · `ta`
+
+இயக்குநர் மாரி செல்வராஜ் இயக்கத்தில் வெளியான 'கர்ணன்' படத்தில் இடம்பெற்ற 'கண்டா வரச் சொல்லுங்க..' என்ற பாடல் மூலம் கதையின் நாயகனுக்கு இசை இலக்கிய வடிவத்தில் உருவகம் கொடுத்த மாரி செல்வராஜ் - சந்தோஷ் நாராயணன் கூட்டணி - மீண்டும் அது போன்றதொரு மாயஜாலத்தை 'வாழை' படத்திலும் நிகழ்த்தி இருக்கிறது.
+
+'வாழை' படத்தில் இடம்பெற்ற 'யப்பா நீ போன வழி பாதையில மண்டியிட்ட  பாதவத்தி நா மண்டியிட்ட பாதவத்தி..'  என தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் இணையத்தில் வெளியாகி, இலக்கிய உலகிலும், பொது வெளியிலும், இணைய தலைமுறையினரிடத்திலும் பேசு பொருளாக மாறி இருக்கிறது.
+
+...
+
+[Data](articles/ee90749f.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்திக்கும் ஐக்கிய குடியரசு முன்னணிக்கும் இடையில் புரிந்துணர்வு  ஒப்பந்தம் கைச்சாத்து
+
+*2024-08-14 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191089) · `ta`
+
+ஐக்கிய மக்கள் சக்திக்கும் ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான புரிந்துணர்வு  ஒப்பந்தம் இன்று புதன்கிழமை (14) கைச்சாத்திடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/20e872ad.json)
+
+---
+
+### முச்சக்கர வண்டி - வேன் மோதி விபத்து ; இருவர் படுகாயம்
+
+*2024-08-14 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191083) · `ta`
+
+முச்சக்கர வண்டியுடன் வேன் மோதி விபத்துக்குள்ளாகியுள்ளானதில்  இருவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக இரட்டைபெரியகுளம் பொலிஸார் தெரிவித்தனர்.
+
+அநுராதபுரத்தில் இருந்து வவுனியா நோக்கி பயணித்த வேன் ஒன்று, வவுனியாவில் இருந்து அநுராதபுரத்தை நோக்கி பயணித்த முச்சக்கரவண்டியுடன் மோதியே குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a1a5598b.json)
 
 ---
 
@@ -145,6 +233,22 @@ During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced 
 [Data](articles/2363220a.json)
 
 [Extended Data](ext_articles/2363220a.ext.json)
+
+---
+
+### யாழ். சேந்தாங்குளத்தில் மோதல் ; வாடிகள் , படகுகளுக்கு தீ வைப்பு
+
+*2024-08-14 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191082) · `ta`
+
+சேந்தாங்குளம் கடற்கரையில் நேற்று செவ்வாய்க்கிழமை (13) இரவு இரு குழுக்களுக்கு இடையில் ஏற்பட்ட வாய்த்தர்க்கம் மோதலாக மாறியதை அடுத்து, கடற்கரையில் இருந்த மீன் வாடி மற்றும் படகுகளுக்கு தீ வைக்கப்பட்டுள்ளது.
+
+படகுகள் மற்றும் வாடிகளுக்கு தீ வைக்கப்பட்டதை அடுத்து , ஊரவர்கள் ஒன்று கூடி , தீயினை அனைத்ததுடன் , சம்பவம் தொடர்பில் இளவாலை பொலிஸாருக்கு அறிவித்தனர்.
+
+மோதலில் ஈடுபட்ட  இரு தரப்பினரும் தப்பி சென்றுள்ள நிலையில், பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/236d57a9.json)
 
 ---
 
@@ -258,6 +362,42 @@ Accordingly, 37 complaints related to election law violations and 03 other compl
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-14 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191076) · `ta`
+
+இன்று புதன்கிழமை (ஆகஸ்ட் 14) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா  294.5495ஆகவும் விற்பனை விலை ரூபா  303.8200  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9a96031f.json)
+
+---
+
+### வேட்புமனுவில் கையெழுத்திட்டார்  நாமல்
+
+*2024-08-14 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191078) · `ta`
+
+2024 ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ வேட்புமனு பத்திரத்தில் கைச்சாத்திட்டார்.
+
+◼️
+
+[Data](articles/92ba71ff.json)
+
+---
+
+### வேட்புமனுவில் கையெழுத்திட்டார் விஜயதாச ராஜபக்ஷ
+
+*2024-08-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191071) · `ta`
+
+2024 ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பாராளுமன்ற உறுப்பினர் விஜயதாச ராஜபக்ஷ தேசிய ஜனநாயக முன்னணி சார்பில் ஜனாதிபதி வேட்பாளராக போட்டியிடுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1d349e4d.json)
+
+---
+
 ### The control was paid for the Janaka
 
 *2024-08-14 13:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக்கவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342157) · `ta`
@@ -329,6 +469,22 @@ The new alliance is to contest for the post elections under the chair.
 [Data](articles/82e6914f.json)
 
 [Extended Data](ext_articles/82e6914f.ext.json)
+
+---
+
+### கட்டுப்பணம் செலுத்தினார் ஜனக ரத்நாயக்க
+
+*2024-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191075) · `ta`
+
+பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் முன்னாள் தலைவர் ஜனக ரத்நாயக்க ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக கட்டுப்பணத்தை செலுத்தியுள்ளார்.
+
+2024 ஜனாதிபதி தேர்தலில் எக்சத் லங்கா பொதுஜனவின் (United Lanka Podujana Party) ஜனாதிபதி வேட்பாளராக ஜனக ரத்நாயக்க போட்டியிடவுள்ளார்.
+
+ஜனக ரத்நாயக்கவின் சார்பில் கட்சியின் செயலாளர் நிஹால் பிரேமகுமார தேசப்பிரிய இராஜகிரியவிலுள்ள தேர்தல் ஆணைக்குழுவில் கட்டுப்பணத்தை செலுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/eebbb563.json)
 
 ---
 
@@ -2035,233 +2191,5 @@ He noted that discussions had taken place and decisions were made regarding the 
 [Data](articles/69f9b190.json)
 
 [Extended Data](ext_articles/69f9b190.ext.json)
-
----
-
-### 36 candidates place deposits for Presidential Election so far
-
-*2024-08-14 03:24:36* · [`dailyftlk`](https://www.ft.lk/news/36-candidates-place-deposits-for-Presidential-Election-so-far/56-765514) · `en`
-
-Thirty six candidates have placed cash deposits so far for the 2024 Presidential Election.
-
-The Elections Commission of Sri Lanka said the total includes 19 candidates representing recognised political parties, 16 independent candidates who have been nominated by a voter and 01 from other political parties.
-
-The candidates who have placed deposits included the leader of the Mawbima Janatha Party (MJP) and Presidential Candidate of the ‘Sarvajana Balaya’ entrepreneur Dilith Jayaweera, the Presidential Candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya) Attorney-at-Law Nuwan Bopage, Namal Rajapaksha of the ‘Samabima Party’ and independent candidate Chaminda Anuruddha.
-
-The period for placing deposits for the 2024 Presidential Election is scheduled to end at 12 noon today.
-
-The acceptance of nominations for the upcoming Presidential Election is scheduled to begin tomorrow from 9.00 a.m. to 11.00 a.m.
-
-◼️
-
-[Data](articles/7346df8b.json)
-
-[Extended Data](ext_articles/7346df8b.ext.json)
-
----
-
-### Ranil “a man of our time” says Rajitha at MoU signing
-
-*2024-08-14 03:24:18* · [`dailyftlk`](https://www.ft.lk/news/Ranil-a-man-of-our-time-says-Rajitha-at-MoU-signing/56-765513) · `en`
-
-SJB MP Dr. Rajitha Senaratne signs MoU with President Ranil Wickremesinghe to support his candidacy
-
-Says Wickremesinghe’s efforts to rebuild SL moved him to support him
-
-Reveals Sajith Premadasa promised to grant national list slot to his son in return for his support
-
-Stresses he is not willing to contribute to SL’s downfall by persisting with certain political agendas which will disrupt President’s program
-
-Samagi Jana Balawegaya (SJB) MP Dr Rajitha Senaratne signed a Memorandum of Understanding (MoU) with President Ranil Wickremesinghe at the Gangaramaya Temple in Colombo yesterday, committing his support to Wickremesinghe in the upcoming Presidential Election.
-
-Speaking at the event, Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. Senaratne said this moved him to support the President in his candidacy.
-
-...
-
-[Data](articles/4856ea2f.json)
-
-[Extended Data](ext_articles/4856ea2f.ext.json)
-
----
-
-### Govt. to relax rules on repatriation of export earnings
-
-*2024-08-14 03:22:29* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-relax-rules-on-repatriation-of-export-earnings/34-765512) · `en`
-
-The Government has decided to relax the current rules governing the repatriation of export earnings, responding to requests from exporters, their representatives, and various Government agencies.
-
-The move aims to address the concerns raised by stakeholders over the stringent regulations currently in place under ‘Rules for Repatriation of Export Earnings No. 01 of 2022.’
-
-The proposed amendments will be enacted under the authority of the Sri Lanka Central Bank Act No. 16 of 2023. The updated rules, designated as ‘Rules 01 of 2024,’ were published in the Extraordinary Gazette No. 2391/02 on 1 July 2024.
-
-The Cabinet’s approval paves the way for these new regulations to be submitted to Parliament for final approval.
-
-These changes are expected to provide greater flexibility for exporters, enabling them to better manage their earnings in light of current economic challenges.
-
-...
-
-[Data](articles/9e897a10.json)
-
-[Extended Data](ext_articles/9e897a10.ext.json)
-
----
-
-### Cabinet green lights importing 3,000 tons of ginger amid shortage
-
-*2024-08-14 03:21:58* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-green-lights-importing-3-000-tons-of-ginger-amid-shortage/34-765511) · `en`
-
-The Cabinet of Ministers approved at its meeting on Monday the importation of 3,000 tons of raw ginger within three months to address the shortage of ginger in the market.
-
-The move comes amid a kilo of ginger retailing between Rs. 3,500 to 4,200 at present.
-
-“The importation will be done in stages to ensure that local growers are not negatively impacted and consumers do not have to pay unreasonable prices,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he said the State Trading Corporation of Sri Lanka (STC) will import the ginger, based on the recommendations by a committee established to regulate ginger prices.
-
-...
-
-[Data](articles/24560668.json)
-
-[Extended Data](ext_articles/24560668.ext.json)
-
----
-
-### Rooftop solar initiative calls for EoIs from PPPs in 300 railway stations
-
-*2024-08-14 03:20:55* · [`dailyftlk`](https://www.ft.lk/business/Rooftop-solar-initiative-calls-for-EoIs-from-PPPs-in-300-railway-stations/34-765510) · `en`
-
-In a move aimed at expanding solar power generation, the Cabinet of Ministers on Monday approved a proposal to call for Expressions of Interest (EoIs) from public-private partnerships (PPP) to install rooftop solar panels on 300 railway stations across Sri Lanka.
-
-Speaking at the weekly post-Cabinet meeting media briefing, Cabinet Co-Spokesman and Transport Minister Bandula Gunawardena highlighted that over 300 stations and buildings owned by Sri Lanka Railways have been identified as suitable sites for the project.
-
-He said the initiative is part of a broader effort to enhance the country’s renewable energy capacity by leveraging the extensive infrastructure of the railway network.
-
-“Areas in the North and East, as well as parts of the South like Hambantota, receive abundant sunlight. It would be advantageous for the Railways if we can generate a profit by installing rooftop solar panels on these stations,” Gunawardena noted.
-
-...
-
-[Data](articles/04219feb.json)
-
-[Extended Data](ext_articles/04219feb.ext.json)
-
----
-
-### SLANZBC hosts 29th AGM with discussion on ‘Road to Sri Lanka’s Economic Growth’
-
-*2024-08-14 03:20:34* · [`dailyftlk`](https://www.ft.lk/business/SLANZBC-hosts-29th-AGM-with-discussion-on-Road-to-Sri-Lanka-s-Economic-Growth/34-765509) · `en`
-
-The 29th Annual General Meeting of the Sri Lanka – Australia – New Zealand Business Council (SLANZBC) of the Ceylon Chamber of Commerce was held recently, with Australian High Commissioner to Sri Lanka Paul Stephens and New Zealand High Commissioner to Sri Lanka and Maldives David Pine in attendance as chief guests.
-
-South Asia Gateway Terminals Ltd. Commercial and Marketing Senior Manager Udara Cumaratunga was re-elected as President of the Council for 2024/25. Vice-Presidents elected for 2024/25 include Island Leisure Lanka Ltd. Managing Director Chandana Amaradasa, Spillburg Holdings Ltd. Managing Director M.H.K.M. Hameez, Lidechsi Group of Companies Chairman Lionel D.C. Silva, and Hayleys Agriculture Holdings Ltd. Managing Director Jayanthi Dharmasena.
-
-Jiffy Products SL Managing Director Ruwan Rajapakse will continue to serve the committee as immediate past president.
-
-...
-
-[Data](articles/f3ae9719.json)
-
-[Extended Data](ext_articles/f3ae9719.ext.json)
-
----
-
-### Cabinet nod to gazette Bill for National Water Supply and Drainage Board
-
-*2024-08-14 03:19:16* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-gazette-Bill-for-National-Water-Supply-and-Drainage-Board/34-765508) · `en`
-
-The Cabinet of Ministers on Monday approved publishing the Bill for National Water Supply and Drainage Board (Amendment) in the Gazette and thereafter table the same in the Parliament for approval.
-
-The move follows clearance received to the Bill prepared by the Legal Draftsman from the Attorney General.
-
-On 2 May 2022, the Cabinet of Ministers approved to amend the National Water Supply and Drainage Board Act. The proposal to this effect submitted by Water Supply and Estate Infrastructure Facilities Development Minister Jeevan Thondaman was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/73f7b812.json)
-
-[Extended Data](ext_articles/73f7b812.ext.json)
-
----
-
-### Framework for selecting investors for drinking water sector
-
-*2024-08-14 03:18:56* · [`dailyftlk`](https://www.ft.lk/business/Framework-for-selecting-investors-for-drinking-water-sector/34-765507) · `en`
-
-The Cabinet of Ministers at its meeting on Monday approved a new framework for selecting investors for the drinking water sector.
-
-The framework, prepared by the Water Supply and Estate Infrastructure Facilities Development Ministry was developed under the supervision of a monitoring committee comprising experts in the field, stakeholder agencies and academics.
-
-This newly approved framework is expected to enhance transparency and efficiency in the selection of investors for drinking water projects across the country.
-
-By incorporating input from a wide range of experts and stakeholders, the framework aims to ensure that investment decisions are made in a manner that best serves the long-term needs of water supply infrastructure.
-
-The proposal to implement this selection criteria framework presented by the Water Supply and Estate Infrastructure Facilities Development Minister Jeevan Thondaman was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/6c7b0d40.json)
-
-[Extended Data](ext_articles/6c7b0d40.ext.json)
-
----
-
-### Death of a family member in accident
-
-*2024-08-14 01:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-ஒருவர்-மரணம்/175-342130) · `ta`
-
-In a tragic accident on the Matara-Kadirgamam road, a motorcyclist heading from Dikwella to Matara collided with a cow, resulting in his death upon admission to the hospital. The Dikwella police are investigating the incident.
-
-🟩
-
-The accident took place last night at Matara - Kadirgamam road belonging to the Matara and Dikwella police division, police said.
-
-The accident occurred when a motorcycle traveling from Dikwella to Matara collided with a cow on the road.
-
-The motorcycle driver has died after being admitted to the hospital after being injured.
-
-Dikwella police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/bb16d8d3.json)
-
-[Extended Data](ext_articles/bb16d8d3.ext.json)
-
----
-
-### Jeep crashed into wood: one injury
-
-*2024-08-14 01:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-ஜீப்-விபத்து-ஒருவர்-காயம்/175-342129) · `ta`
-
-A jeep crash into a tree near the 14th milestone on Dambulla-Pakamuna road resulted in one injury yesterday.
-
-🟩
-
-One person was injured in an accident near the 14th milestone on Dambulla - Pakamuna road. The accident took place yesterday.
-
-The accident occurred when a jeep crashed into a tree with a tree.
-
-◼️
-
-[Data](articles/033b8204.json)
-
-[Extended Data](ext_articles/033b8204.ext.json)
-
----
-
-### Colombo Business Analytics Forum 2024 today at BMICH
-
-*2024-08-14 00:47:35* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Business-Analytics-Forum-2024-today-at-BMICH/34-765486) · `en`
-
-Recognising the critical role of business analytics in today’s economy, the University of Moratuwa’s Society of Business Analytics (SOBA) will hold the Colombo Business Analytics Forum 2024 today at the BMICH Jasmin Hall from 3.00 p.m. to 7.00 p.m.
-
-This landmark event is the first large-scale business analytics forum in Sri Lanka, designed to bridge the gap between academia and industry by bringing together technology service providers and technology seekers on a single platform.
-
-The event will feature a series of keynote speeches, panel discussions, and workshops. Top experts in IT, AI, Data Science, and Finance will lead the panel discussions, sharing their insights and experiences. This diverse line-up promises to offer valuable perspectives for both seasoned professionals and aspiring business analytics enthusiasts.
-
-...
-
-[Data](articles/5bd0fff6.json)
-
-[Extended Data](ext_articles/5bd0fff6.ext.json)
 
 ---

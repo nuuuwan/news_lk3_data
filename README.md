@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 21:06:28**
+As of **2024-08-14 21:21:19**
 
 ## Newspaper Stats
 
@@ -138,7 +138,11 @@ The All Ceylon Peoples Congress, led by Rishad Bathiudeen, has decided to suppor
 
 The Election Commission has gazetted Samagi Jana Balawegaya (SJB) member Bandula Lal Bandarigoda’s name to fill the parliamentary vacancy created by the recent removal of Galle District MP Manusha Nanayakkara.
 
-◼️
+The Acting General Secretary of the Parliament Chaminda Kularatne had informed the Chairman of the Election Commission in writing on August 12 that two Parliamentary seats in the Ninth Parliament have become vacant from the 09 August 2024 due to the cancellation of the parliamentary seats of Manusha Nanayakkara and Harin Fernando.
+
+On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Galle District Member of Parliament Manusha Nanayakkara and the National List Member of Parliament Harin Fernando from the party is legally valid. As a result, the two Parliamentary seats became vacant.
+
+...
 
 [Data](articles/17820cbc.json)
 

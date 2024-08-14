@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 14:36:38**
+As of **2024-08-14 14:55:23**
 
 ## Newspaper Stats
 
-*Scraped **40,692** Articles*
+*Scraped **40,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,746
 tamilmirrorlk | 5,188
 virakesarilk | 6,439
-adaderanasinhalalk | 6,921
+adaderanasinhalalk | 6,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,690 (100.0%) of 40,692 articles have been extended.
+40,692 (100.0%) of 40,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### එංගලන්ත නායකයා තුවාල ලබයි
+
+*2024-08-14 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199929) · `si`
+
+එංගලන්ත ටෙස්ට් නායක බෙන් ස්ටොක්ස් ට එළැඹෙන ශ්‍රී ලංකා - එංගලන්ත ටෙස්ට් තරගාවලිය අහිමි වී තිබේ.
+
+ඔහු වෙනුවට ශ්‍රී ලංකාව සමග පැවැත්වෙන ටෙස්ට් තරගාවලියේ එංගලන්ත කණ්ඩායමේ නායකත්වය ඔලි පෝප් ට පවරා තිබේ.
+
+ස්ටොක්ස් ගේ ආබාධයේ බරපතළ කම ඊයේ (13) සිදුකළ ස්කෑන් පරීක්ෂණයකින් හෙළිවී තිබුණි.
+
+ඒ අනුව එළැඹෙන ඔක්තෝබර් මාසයේ පැවැත්වෙන පාකිස්තාන සංචාරයට එක්වීමට ඔහු සැලසුම් කර ඇති බව සඳහන් ය.
+
+ශ්‍රී ලංකාව සහ එංගලන්තය අතර පළමු ටෙස්ට් තරගය අගෝස්තු 21 වනදා මැන්චෙස්ටර් හිදී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/bc7c2d8e.json)
+
+---
 
 ### Patali Champika to support Sajith in Presidential Election
 
@@ -42,19 +62,27 @@ The leader of the United Republic Front (Eksath Janaraja Peramuna) MP Patali Cha
 
 [Data](articles/8db7fb5c.json)
 
+[Extended Data](ext_articles/8db7fb5c.ext.json)
+
 ---
 
-### පාඨලීගේ සහාය සජිත්ට
+### Sajith appointed Patali's support
 
 *2024-08-14 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199928) · `si`
 
-එක්සත් ජනරජ පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළකිරීමට තීරණය කර තිබේ.
+Parliamentarian Patali Champika Ranawaka backs Opposition Leader Sajith Premadasa for presidency, aligning UPFA with UPFA.
 
-ඒ අනුව එක්සත් ජනරජ පෙරමුණ, සමගි ජන සන්ධානය සමග සන්ධාන ගත වීම අද සිදුකෙරුණි.
+🟩
+
+Parliamentarian Patali Champika Ranawaka has decided to support Opposition Leader Sajith Premadasa in the next presidential election.
+
+Accordingly, the UPFA has held alliance with the UPFA.
 
 ◼️
 
 [Data](articles/998f6aa6.json)
+
+[Extended Data](ext_articles/998f6aa6.ext.json)
 
 ---
 
@@ -2237,25 +2265,5 @@ Following a thorough evaluation process, the Standing Procurement Committees rec
 [Data](articles/6330fb04.json)
 
 [Extended Data](ext_articles/6330fb04.ext.json)
-
----
-
-### Cabinet clears submission of Import and Export Regulation for Parliamentary approval
-
-*2024-08-14 00:46:34* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-submission-of-Import-and-Export-Regulation-for-Parliamentary-approval/34-765483) · `en`
-
-The Cabinet of Ministers on Monday approved a proposal presented by the President, in his capacity as the Finance, Economic Stabilisation and National Policy Minister, to submit the Import and Export (Control) Regulation No. 10 of 2024 for Parliamentary approval.
-
-This regulation, formulated under the provisions of the Import and Export (Control) Act No. 01 of 1969, was officially published in the Extraordinary Gazette No. 2393/36 dated 18 July 2024.
-
-The new regulation is expected to have significant implications for Sri Lanka’s import and export activities, as it aims to modernise and streamline the regulatory framework governing these sectors.
-
-Once approved, the regulation will provide updated guidelines and controls for importers and exporters, ensuring that Sri Lanka’s trade policies are effectively managed in a rapidly changing global market.
-
-◼️
-
-[Data](articles/952b5679.json)
-
-[Extended Data](ext_articles/952b5679.ext.json)
 
 ---

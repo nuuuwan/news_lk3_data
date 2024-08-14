@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 07:02:55**
+As of **2024-08-14 07:30:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,600 (100.0%) of 40,601 articles have been extended.
+40,601 (100.0%) of 40,601 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -240,17 +240,23 @@ The proposal to implement this selection criteria framework presented by the Wat
 
 ---
 
-### மரத்தில் மோதி ஜீப் விபத்து: ஒருவர் காயம்
+### Jeep crashed into wood: one injury
 
 *2024-08-14 01:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-ஜீப்-விபத்து-ஒருவர்-காயம்/175-342129) · `ta`
 
-தம்புள்ளை - பக்கமூன வீதியில் 14 ஆவது மைல்கல் அருகில் இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளார். இந்த விபத்து நேற்று இடம்பெற்றுள்ளது.
+A jeep crash into a tree near the 14th milestone on Dambulla-Pakamuna road resulted in one injury yesterday.
 
-ஜீப் வாகனம் ஒன்று வீதியை விட்டு விலகி மரமொன்றுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
+
+One person was injured in an accident near the 14th milestone on Dambulla - Pakamuna road. The accident took place yesterday.
+
+The accident occurred when a jeep crashed into a tree with a tree.
 
 ◼️
 
 [Data](articles/033b8204.json)
+
+[Extended Data](ext_articles/033b8204.ext.json)
 
 ---
 

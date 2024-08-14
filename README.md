@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 20:21:24**
+As of **2024-08-14 20:36:27**
 
 ## Newspaper Stats
 
-*Scraped **40,752** Articles*
+*Scraped **40,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,749
+adalk | 3,750
 dailymirrorlk | 4,733
 adaderanalk | 4,757
-tamilmirrorlk | 5,197
+tamilmirrorlk | 5,198
 virakesarilk | 6,459
 adaderanasinhalalk | 6,934
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,745 (100.0%) of 40,752 articles have been extended.
+40,752 (100.0%) of 40,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### ரிசாத்தின் கட்சி சஜித்திற்கு ஆதரவு
+### Risad's party supports Sajith
 
 *2024-08-14 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191113) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் சஜித் பிரேமதாசவிற்கு ஆதரவளிப்பதற்கு ரிசாத் பதியுதீன் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரஸ் தீர்மானித்துள்ளது.
+Rishad Bathiudeen's party, the All Ceylon Peoples Congress, backs Sajith Premadasa for president in the upcoming election.
+
+🟩
+
+The All Ceylon Peoples Congress, led by Rishad Bathiudeen, has decided to support Sajith Premadasa in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/9566b852.json)
+
+[Extended Data](ext_articles/9566b852.ext.json)
 
 ---
 
@@ -54,25 +60,49 @@ The Election Commission has gazetted Samagi Jana Balawegaya (SJB) member Bandula
 
 [Data](articles/17820cbc.json)
 
+[Extended Data](ext_articles/17820cbc.ext.json)
+
 ---
 
-### பங்களாதேஷ் புதிய பிரதமருக்கு சட்டம் ஒழுங்கை நிறைவேற்ற முடியும் - ரணில் விக்கிரமசிங்க
+### தனிநபர் வருமான வரிக்கு விரைவில் நிவாரணம்
+
+*2024-08-14 20:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்-வருமான-வரிக்கு-விரைவில்-நிவாரணம்/175-342177) · `ta`
+
+தனிநபர் வருமான வரிக்கு விரைவில் நிவாரணம் வழங்க எதிர்பார்ப்பதாகவும், அதற்காக சர்வதேச நாணய நிதியம் மற்றும் திறைசேரி ஆகியவற்றினால் ஏற்கனவே சமர்ப்பிக்கப்பட்டுள்ள இரண்டு முன்மொழிவுகள் தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அதற்காக திறைசேரி சமர்ப்பித்த பரிந்துரையையும் சர்வதேச நாணய நிதியம் (IMF)முன்வைத்த மாற்றுப் பரிந்துரையையும் பரிசீலித்து வருவதாக தெரிவித்த ஜனாதிபதி, வரி எல்லையை விரிவுபடுத்துவதற்கும் சர்வதேச நாணய நிதியம் முன்வைத்திருக்கும் பரிந்துரைகள் அறிஞர்கள், நடுத்தர வர்க்க சமூகத்திற்கும் நன்மை பயப்பதாக அமையும் என்பதால் அது தொடர்பில் கவனம் செலுத்தியள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+பத்தரமுல்லையில் உள்ள தனியார் விருந்தகம் ஒன்றில் நேற்று (13) மாலை நடைபெற்ற மாநாட்டில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார். R
+
+◼️
+
+[Data](articles/532acf90.json)
+
+---
+
+### Ranil Wickremesinghe can fulfill law and order for the new Prime Minister of Bangladesh
 
 *2024-08-14 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191112) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பங்களாதேஷ் புதிய பிரதமர் முஹம்மத் யூனுஸை தொலைபேசியில் அழைத்து அன்பான வாழ்த்துக்களை தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has spoken with Bangladesh's new PM, Muhammad Yunus, expressing confidence in his ability to maintain law and order. He advised Sri Lankan investors in Bangladesh to continue investing and offered support for Bangladesh's economic development. The Bangladeshi PM thanked him and requested a visit from the President.
 
-பங்களாதேஷில் சட்டம் மற்றும் ஒழுங்கை நிலைநாட்டுவதற்கு யூனுஸால் முடியும் என்று தான் நம்புவதாகவும் ஜனாதிபதி குறிப்பிட்டுள்ளார்.
+🟩
 
-பங்களாதேஷில் உள்ள இலங்கை முதலீட்டாளர்களை அங்கு தொடர்ந்து தங்கி முதலீட்டு நடவடிக்கைகளை மேற்கொள்ளுமாறு தான் ஆலோசனை வழங்கியுள்ளதாகவும் பங்களாதேஷின் புதிய பிரதமருக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has telephoned Bangladesh's new Prime Minister Muhammad Yunus.
 
-பங்களாதேஷ் பொருளாதார ரீதியில் அபிவிருத்தியடைய இலங்கை சகல வழிகளிலும் உதவுவதாக ஜனாதிபதி உறுதியளித்துள்ளார்.
+The president also noted that Yunus could be able to uphold law and order in Bangladesh.
 
-ஜனாதிபதியின் வாழ்த்துக்களுக்கு நன்றி தெரிவித்துள்ள பங்களாதேஷ் பிரதமர், சந்தர்ப்பம் கிடைத்தால் விரைவில் பங்களாதேஷுக்கு வந்து நாட்டை மீட்டெடுப்பதற்கு தேவையான வழிகாட்டல்களை வழங்குமாறு ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளார்.
+President Ranil Wickremesinghe has told the new Prime Minister of Bangladesh that he has advised Sri Lankan investors in Bangladesh to stay there and carry out investment activities.
+
+The President has promised to help Sri Lanka in all ways to develop Bangladesh economically.
+
+The Bangladesh Prime Minister, who thanked the President, has asked the President to come to Bangladesh to Bangladesh as soon as possible.
 
 ◼️
 
 [Data](articles/b2a790fa.json)
+
+[Extended Data](ext_articles/b2a790fa.ext.json)
 
 ---
 
@@ -121,6 +151,18 @@ Chief Adviser of Bangladesh’s interim government, who has expressed his gratit
 [Data](articles/00828cbd.json)
 
 [Extended Data](ext_articles/00828cbd.ext.json)
+
+---
+
+### පාඨලිගේ සහාය සජිත්ට
+
+*2024-08-14 19:09:05* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලිගේ-සහාය-සජිත්ට/11-411375) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රි පාඨලී චම්පික රණවක මහතාගේ නායකත්වයෙන් යුත් එක්සත් ජනරජ පෙරමුණ මෙවර ජනපතිවරණයේදී විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට සහාය දැක්වීමට තීරණය කර තිබේ. පාඨලී චම්පික රණවක මහතා කොළඹදි මාධ්‍ය හමුවක් පවත්වමින් මේ බව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/45e77467.json)
 
 ---
 
@@ -208,17 +250,23 @@ As a result, the Elections Commission has decided not to offer a candidate for t
 
 ---
 
-### எக்சத் லங்கா பொதுஜன கட்சியின் செயலாளர் கைது
+### Arrested by the Secretary of the Excat Lanka PA
 
 *2024-08-14 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191111) · `ta`
 
-தமது ஜனாதிபதி வேட்பாளர் பதவியை வழங்குவதற்காக 03 கோடி ரூபாவை இலஞ்சமாக பெற முற்பட்ட எக்சத் லங்கா பொதுஜன  கட்சியின்  செயலாளர் உள்ளிட்ட அதிகாரிகள் குழுவொன்றை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு 14ஆம் திகதி புதன்கிழமை பிற்பகல் கைது செய்துள்ளது.
+The Bribery Corruption Commission arrested officials, including the Secretary of the Excat Lanka PA, accused of seeking Rs 3 crore bribes for endorsing a presidential candidate. The arrest includes former Chairman Janaka Ratnayake, implicated in controlling the party's candidate.
 
-பொதுப் பயன்பாட்டு ஆணைக்குழுவின் முன்னாள் தலைவர் ஜானக ரத்நாயக்க, அந்தக் கட்சியின் ஜனாதிபதி வேட்பாளராக  புதன்கிழமை (14) காலை கட்டுப்பணத்தை செலுத்திவிட்டு செய்த முறைப்பாட்டுக்கு அமைய அவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Bribery Corruption Commission has arrested a group of officials, including the Secretary of the Excat Lanka PA, who sought bribes Rs 3 crore for the granting of their presidential candidate.
+
+Former Chairman of the Public Utilities Commission Janaka Ratnayake has been arrested on a complaint that the party's presidential candidate has been controlled on Wednesday morning (14).
 
 ◼️
 
 [Data](articles/e057b746.json)
+
+[Extended Data](ext_articles/e057b746.ext.json)
 
 ---
 
@@ -264,35 +312,49 @@ The National Congress President and Member of Parliament ALM. Athaullah met Pres
 
 ---
 
-### சந்தர்ப்பத்தைப் பயன்படுத்தி ஜனாதிபதி வேட்பாளர்களுடன் அதிகாரப்பகிர்வு குறித்து பேரம் பேசுவதே சிறந்த அணுகுமுறை - சுமந்திரனிடம் இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு
+### The best attitude is to bargain with the presidential candidates using the opportunity -Indian High Commissioner to Sumanthiran
 
 *2024-08-14 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191110) · `ta`
 
-இம்முறை ஜனாதிபதித்தேர்தலில் போட்டியிடும் வேட்பாளர்களில் யாரை ஆதரிப்பது எனத் தீர்மானிப்பதற்கு முன்னர், அதிகாரப்பகிர்வை முழுமையாக நடைமுறைப்படுத்துவதுடன் அதற்கு அப்பால் செல்வது குறித்து சகல வேட்பாளர்களுடனும் பேரம் பேசுவது சிறந்த அணுகுமுறை எனவும், இவ்வாறான சந்தர்ப்பங்களிலேயே அவற்றைப் பெற்றுக்கொள்ளமுடியும் எனவும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனிடம் சுட்டிக்காட்டியுள்ளார்.
+The Indian High Commissioner suggested bargaining with presidential candidates to ensure full implementation of power, highlighting the importance of addressing unfulfilled constitutional amendments and administrative powers during the election process.
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா மற்றும் இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் ஆகியோருக்கு இடையிலான சந்திப்பு புதன்கிழமை (14) காலை 10.00 மணிக்கு கொழும்பிலுள்ள இந்திய இல்லத்தில் நடைபெற்றது.
+🟩
 
-இச்சந்திப்பின்போது எதிர்வரும் ஜனாதிபதித்தேர்தலில் போட்டியிடவுள்ள பிரதான வேட்பாளர்களுடன் தமிழர்களுக்கான அரசியல் தீர்வு குறித்து பேசிய விடயங்களை சுமந்திரன் உயர்ஸ்தானிகரிடம் விரிவாக எடுத்துரைத்தார்.
+The Indian High Commissioner Santosh Ja has pointed out that this time, before deciding which of the candidates contesting the presidential election, it is the best approach to the authority to fully implement the power of power and go beyond all the candidates.
+
+The meeting between Indian High Commissioner Santosh Ja and Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran was held at the Indian residence in Colombo at 10.00 am on Wednesday.
+
+During the meeting, Sumanthiran explained to the High Commissioner about the political solution to the Tamils ​​with the major candidates to contest the upcoming presidential election.
 
 ...
 
 [Data](articles/04e582c2.json)
 
+[Extended Data](ext_articles/04e582c2.ext.json)
+
 ---
 
-### இன, மத ரீதியாக பயணிக்க முற்படும் எதிரணி ரவுப் ஹக்கீமின் கருத்துக்கள் ஏற்றுக் கொள்ள முடியாதவை - ஜீவன் தொண்டமான் விசனம்
+### Opponent Rauf Hakeem's views unacceptable - Jeevan Thondaman
 
 *2024-08-14 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191109) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்ரஸ் தலைவர் ரவுப் ஹக்கீம் தமது அரசாங்கம் ஆட்சியமைத்தால் கிழக்கிற்கு மத ரீதியான ஆளுநர் ஒருவரைப் பெற்றுக் கொள்ள முடியும் என்று தெரிவித்துள்ளார். இதன் மூலம் அந்த அரசாங்கம் எவ்வாறானதாக இருக்கும் என்பதை புரிந்து கொள்ள முடியும் என்று நீர் வழங்கல் அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+Rauf Hakeem, leader of the Sri Lankan Muslim Congress, promises a religious governor for the East if his party governs. Jeevan Thondaman, Water Supply Minister, supports this, indicating alignment with the government's 100-day plan. The National Council meets on the 18th to decide election support. Hakeem signs an agreement for a religious minister, emphasizing non-discrimination among Tamils, Sinhalese, and Muslims. Critics predict failure for President Ranil Wickremesinghe due to religious and ethnic biases, suggesting a polarized political landscape.
 
-நாமும் ஜனாதிபதியும் 100 நாள் வேலைத்திட்டத்துக்கமைய செயற்பட்டு வருகின்றோம். எனவே புதிதாக ஒப்பந்தங்களில் கையெழுத்திடுவதற்கு ஒன்றும் இல்லை. 18ஆம் திகதி கொட்டகலையில் எமது தேசிய சபை கூடி ஜனாதிபதித் தேர்தலில் யாரை ஆதரிப்பது என்பதைத் தீர்மானிக்கும்.
+🟩
 
-ஸ்ரீலங்கா முஸ்லிம் காங்ரஸ் தலைவர் ரவுப் ஹக்கீம், தான் ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளதாகவும் அதற்கமைய அடுத்து தமது அரசாங்கம் ஆட்சியமைத்தால் கிழக்கில் மத ரீதியாக ஒரு ஆளுனரைப் பெற்றுக் கொள்ளலாம் எனக் குறிப்பிட்டுள்ளார். மத ரீதியாக ஒரு அமைச்சர் கிடைப்பார் என்றும் குறிப்பிட்டுள்ளார்.
+Sri Lankan Muslim Congress leader Rauf Hakeem has said that if his government rules, he can get a religious governor to the East.. Water Supply Minister Jeevan Thondaman said that this could be understood what the government would be.
+
+We and the President are working for the 100 -day program. So there is nothing to sign new contracts. Our National Council will convene on the 18th and decide who will support the presidential election.
+
+Sri Lanka Muslim Congress leader Rauf Hakeem has stated that he has signed the agreement and then if his government rules, he can get a religious governor in the East.. He also mentioned that a religious minister will get.
+
+In our government we think as Sri Lankans. We have no discrimination of Tamil, Sinhala and Muslim in any case. Our purpose is to take the country a Sri Lankan. But based on what they refer, it is predicted to be what their government is.
 
 ...
 
 [Data](articles/4db5afc9.json)
+
+[Extended Data](ext_articles/4db5afc9.ext.json)
 
 ---
 
@@ -324,21 +386,31 @@ Meanwhile, tour guides have suggested that steps should be taken to protect tour
 
 ---
 
-### தமிழ் பொது வேட்பாளர் மக்களை பாதுகாக்கவா? ; தோல்வி அடைந்த ரணிலை பாதுகாக்கவா? - சந்திரசேகரன் கேள்வி!
+### Will the Tamil general candidate protect the people?;Protect Ranil?- Chandrasekaran question!
 
 *2024-08-14 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191107) · `ta`
 
-தமிழ் ஜனாதிபதி வேட்பாளர் நியமனம் தமிழ் மக்களின் அபிலாசைகளை வென்றெடுப்பதற்கான எண்ணத்தை மாற்றி தோல்வி அடைந்த ரணில் விக்ரம் சிங்கவை வெல்ல வைக்கும் முயற்சியாக அமைவதாக மக்கள் விடுதலை முன்னணியின் யாழ்.மாவட்ட அமைப்பாளர் இராமலிங்கம் சந்திரசேகரன் குற்றச்சாட்டினார்.
+Chandrasekaran criticizes Ranil Vikram Singh, accusing him of not aligning with Tamil aspirations. He suggests that Tamil political parties' talks with Ranil, despite his controversial past, may deceive the Tamil community. The statement highlights concerns over the potential appointment of a Tamil general presidential candidate and the implications for Tamil interests.
 
-இன்று புதன்கிழமை (14) யாழ்ப்பாணத்தில் உள்ள அவரது கட்சி அலுவலகத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போது அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ் பொது ஜனாதிபதி வேட்பாளர் ஒருவர் நியமிக்கப்பட வேண்டும்  தமிழ் மக்களின் எதிர்பார்த்த கோரிக்கை அவர் ஊடாக பிரதிபலிக்க வேண்டும் என்ற எண்ணத்தில் உருவாக்கப்பட்டது.
+Jaffna Mawatha organizer of the Janatha Vimukthi Peramuna (Jaffna), Ramalingam Chandrasekaran, has accused Ranil Vikram Singh to change the idea of ​​winning the aspirations of the Tamil people.
 
-இந்த உருவாக்கத்தின் பின்னணியில் சிவில் அமைப்புகள் புத்திஜீவிகள் பலர் பங்காற்றிய நிலையில் அவர்களுடன் இணைந்து பொதுக் கட்டமைப்பில்  கையப்பமிட்ட தமிழ் அரசியல் கட்சிகள் ஜனாதிபதியிடம் ஓடிச் சென்று பேசிய நிகழ்வு கடந்த வாரம் இடம்பெற்றது.
+He was speaking at a media briefing held at his party office in Jaffna on Wednesday (14).
+
+It was created in the hope that a Tamil general presidential candidate should be appointed by the Tamil people's expected demand.
+
+In the wake of this creation, the Tamil political parties, who have signed a general structure, have been speaking to the president last week.
+
+The current president and the candidate of the presidential election, the current president and the candidate contesting the upcoming presidential election, can be understood by the aim of appointing a Tamil general candidate.
+
+While the history of the Tamil people in the history of the United National Party, the Tamil parties are talking to Ranil, which is a deceit for their people.
 
 ...
 
 [Data](articles/86a2721c.json)
+
+[Extended Data](ext_articles/86a2721c.ext.json)
 
 ---
 
@@ -2139,55 +2211,5 @@ Dilshan announced his retirement from Test cricket on 9 October 2013. He retired
 [Data](articles/98d4d05f.json)
 
 [Extended Data](ext_articles/98d4d05f.ext.json)
-
----
-
-### Candidate in the same name;Namal faces a different challenge in the presidential election
-
-*2024-08-14 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/191048) · `ta`
-
-In Sri Lanka's presidential election, Namal Rajapaksa faces unique challenges due to the presence of other candidates with similar names. This situation, reminiscent of past tactics by the Rajapaksas to confuse voters, has led to a confusing electoral landscape. Despite attempts to split votes among similarly named candidates, such strategies have historically failed to significantly impact the outcome.
-
-🟩
-
-The next -haired successor of the Rajapaksa lineage faces a different challenge in the upcoming presidential election.
-
-Sri Lanka's voters face an unprecedented long -standing ballot as 36 candidates have been restricted until Tuesday evening.
-
-Two nams in this ballot have turned the ballot into a confusion.
-
-Stopping candidates of the same name is a tactic used by Rajapaksas in the past.
-
-Rajapaksas stopped Sirisena to confuse Maithripala Sirisena's supporters who contested the presidential election in the 2015 presidential election as the general candidate of the opposition parties.. He was seen as a look like Maithripala Sirisena.
-
-AR Sirisena, who stopped Rajapaksakkal, received 18174 votes, though many were not disappointed by this deception.
-
-If his name is written in C.S.
-
-However, the letter H in English is overwhelmed by a few people.
-
-...
-
-[Data](articles/d21a5d77.json)
-
-[Extended Data](ext_articles/d21a5d77.ext.json)
-
----
-
-### I. M. Tilshan combined with C.
-
-*2024-08-14 10:37:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-வுடன்-இணைந்த-டில்ஷான்/175-342146) · `ta`
-
-Former Sri Lankan cricketers I.M. Tilshan and T. Dilshan joined the United People's Power party to back opposition leader Sajith Premadasa.
-
-🟩
-
-Tilakaratne Dilshan, a former Sri Lankan cricket team, joined the United People's Power on Wednesday (14) to support the journey of opposition leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/602dbb4a.json)
-
-[Extended Data](ext_articles/602dbb4a.ext.json)
 
 ---

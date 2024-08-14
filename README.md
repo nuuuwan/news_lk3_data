@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 09:08:34**
+As of **2024-08-14 09:21:04**
 
 ## Newspaper Stats
 
-*Scraped **40,615** Articles*
+*Scraped **40,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,462
 dailyftlk | 2,624
-adalk | 3,733
+adalk | 3,734
 adaderanalk | 4,732
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,168
-virakesarilk | 6,427
-adaderanasinhalalk | 6,905
+virakesarilk | 6,428
+adaderanasinhalalk | 6,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,615 (100.0%) of 40,615 articles have been extended.
+40,615 (100.0%) of 40,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### තැපැල් ඡන්ද විමසීමට අදාළ දින ප්‍රකාශයට පත්කෙරේ
+
+*2024-08-14 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199913) · `si`
+
+2024 ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද ප්‍රකාශයට පත්කරන දින මැතිවරණ කොමිසම විසින් ප්‍රකාශයට පත්කර ඇත.
+
+ඒ අනුව තැපැල් ඡන්ද නිකුත් කිරීම හා තැපෑලට භාරදීම 2024.08.26 වන දා සිදුකරන බව එම කොමිසම පැවසීය.
+
+තැපැල් සලකුණු කිරීම සඳහා දිස්ත්‍රික් ලේකම් කාර්යාල, මැතිවරණ කාර්යාල සහ පොලීසිය සඳහා වෙන්කර ඇත්තේ සැප්තැම්බර් 4 වනදාය.
+
+◼️
+
+[Data](articles/c55110cd.json)
+
+---
+
+### නාමල් වෙනුවෙන් සාගර ඇප තියයි
+
+*2024-08-14 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199912) · `si`
+
+2024 පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකත්වය වෙනුවෙන් නාමල් රාජපක්ෂ මහතා වෙනුවෙන් ඇප තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/9a805de3.json)
+
+---
+
+### மாலபேயில் நச்சு வாயுவை சுவாசித்த இருவர் உயிரிழப்பு
+
+*2024-08-14 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191040) · `ta`
+
+மாலபே, கஹந்தோட்டை பகுதியிலுள்ள குடியிருப்பு ஒன்றில் இரசாயன நச்சு வாயுவை சுவாசித்த இருவர் உயிரிழந்துள்ளார்கள்.
+
+இருவரும் சில இரசாயனங்களை கலக்க முயன்றபோது வெளிவந்த நச்சு வாயுவை சுவாசித்ததால் நேற்று (12) மாலை உயிரிழந்துள்ளனர்.
+
+மொனராகலை மற்றும் கஹந்தோட்டை ஆகிய பகுதிகளைச் சேர்ந்த  45 மற்றும் 63 வயதுகளையுடைய இருவரே  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சடலங்கள்  கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மாலபே பொலிஸார்  முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/4c952c39.json)
+
+---
 
 ### 2024 Presidential Election: Placing of deposits to conclude today
 
@@ -1568,6 +1614,18 @@ Katunayake airport customs officials are conducting further investigations.
 
 ---
 
+### නාම යෝජනා භාර දෙන දිනයේදී විශේෂ රථ වාහන සැලැස්මක්
+
+*2024-08-13 17:14:58* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-භාර-දෙන-දිනයේදී-විශේෂ-රථ-වාහන-සැලැස්මක්/11-411353) · `si`
+
+ජනාධිපතිවරණය 2024 සඳහා නාම යෝජනා භාර දීම 2024.08.15 වන දින මැතිවරණ මහා ලේකම් කාර්යාලයේ දී සිදු කිරීමට නියමිතය. මේ අනුව එම ප්‍ර දේශය අළලා විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලිස් මූලස්ථානය කටයුතු කර තිබේ. ඊට අදාළ නිවේදනය පහතින් දැක්වෙයි.
+
+◼️
+
+[Data](articles/53e6d482.json)
+
+---
+
 ### Rajitha Senaratne pledges support to President Ranil
 
 *2024-08-13 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101208/rajitha-senaratne-pledges-support-to-president-ranil) · `en`
@@ -2071,91 +2129,5 @@ See below for the Police Media Division announcement on the traffic plan...
 [Data](articles/0f481c8c.json)
 
 [Extended Data](ext_articles/0f481c8c.ext.json)
-
----
-
-### Cabinet approves public sector salary revision proposal
-
-*2024-08-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101204/cabinet-approves-public-sector-salary-revision-proposal) · `en`
-
-The Cabinet of Ministers has granted approval for the proposed salary revisions across all sectors of the public service.
-
-An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
-
-The committee engaged with major professional associations of public officials and the broader public sector, analyzed relevant data, and finalized the report.
-
-Based on its recommendations, the Cabinet has approved the President’s proposal to include these salary revisions in the 2025 Budget.
-
-◼️
-
-[Data](articles/1f3e6cb2.json)
-
-[Extended Data](ext_articles/1f3e6cb2.ext.json)
-
----
-
-### Cabinet approves public sector salary revision proposals for public sector
-
-*2024-08-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101204/cabinet-approves-public-sector-salary-revision-proposals-for-public-sector) · `en`
-
-The Cabinet of Ministers has granted approval for the proposed salary revisions across all sectors of the public service.
-
-An expert committee, chaired by former Presidential Secretary Udaya Seneviratne, was previously appointed to prepare a report with recommendations for implementing these proposals in the 2025 budget.
-
-The committee engaged with major professional associations of public officials and the broader public sector, analyzed relevant data, and finalized the report.
-
-Based on its recommendations, the Cabinet has approved the President’s proposal to include these salary revisions in the 2025 Budget.
-
-◼️
-
-[Data](articles/8f8023b9.json)
-
-[Extended Data](ext_articles/8f8023b9.ext.json)
-
----
-
-### People's Congress decision -making
-
-*2024-08-13 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/190998) · `ta`
-
-Rishad Bathiudeen, leader of the All Ceylon Peoples Congress, emphasized the importance of community welfare in decision-making. He highlighted the need for a president who promotes inter-ethnic harmony, combats racism, supports industrial development, adheres to formal foreign policies, and recognizes Palestine. Decisions will be based on public opinion gathered from various regions, including North and East, ensuring a collective approach towards selecting the most suitable candidate for the presidency.
-
-🟩
-
-People's Congress leader and parliamentarian Rishad Bathiudeen said that the All Ceylon Peoples Congress would make a relevant decision in line with the welfare of communities.
-
-“Which candidate should support the presidential election?”He said this while hearing the people's views on the North and East on the last 10,11,12.
-
-“Can't support any presidential candidate due to the leadership and relationships with the leadership. We cannot forget the troubles that our society faced in about four and a half years of rule. Similarly, when we were in the opposition, the suffering that the party's supporters and leadership was unforgettable.
-
-After the leadership and the party in Colombo decide, we are not saying that the people come to support this candidate.. After hearing the opinions of the people, we will make decisions on the basis of advice. Whatever the candidate is for the inter -ethnic harmony, we will work to choose him.
-
-...
-
-[Data](articles/e3f8521e.json)
-
-[Extended Data](ext_articles/e3f8521e.ext.json)
-
----
-
-### Over 29 election-related complaints received within 24 hours - EC
-
-*2024-08-13 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101203/over-29-election-related-complaints-received-within-24-hours-ec) · `en`
-
-The Election Commission of Sri Lanka says that a total of 29 complaints have been received within the last 24 hours, pertaining to the 2024 Presidential Election.
-
-Among them, 15 complaints were filed with the National Election Complaint Management Centre, and 11 were reported to the District Election Complaint Management Centre.
-
-Accordingly, a total of 29 complaints were reported including 26 complaints related to election law violations and 03 other complaints.
-
-Furthermore, a total of 366 complaints have been received so far during the period from July 31 to yesterday (12), said the Election Commission.
-
-Accordingly, this includes 355 election law violations, one act of violence and ten other election law violations.
-
-◼️
-
-[Data](articles/866f3d2d.json)
-
-[Extended Data](ext_articles/866f3d2d.ext.json)
 
 ---

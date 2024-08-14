@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 08:36:38**
+As of **2024-08-14 08:55:52**
 
 ## Newspaper Stats
 
-*Scraped **40,610** Articles*
+*Scraped **40,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,117 @@ islandlk | 2,354
 economynextcom | 2,462
 dailyftlk | 2,624
 adalk | 3,733
-adaderanalk | 4,730
+adaderanalk | 4,732
 dailymirrorlk | 4,733
 tamilmirrorlk | 5,168
-virakesarilk | 6,425
-adaderanasinhalalk | 6,904
+virakesarilk | 6,427
+adaderanasinhalalk | 6,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,610 (100.0%) of 40,610 articles have been extended.
+40,610 (100.0%) of 40,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### 2024 Presidential Election: Placing of deposits to conclude today
+
+*2024-08-14 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101218/2024-presidential-election-placing-of-deposits-to-conclude-today) · `en`
+
+The placing of deposits for the 2024 Presidential Election is scheduled to be concluded from 12 noon today (14).
+
+The Election Commission has stated that 36 individuals have already placed deposits to contest in the presidential election.
+
+Among these, are 19 candidates from recognized political parties and one from other political party have placed deposits.
+
+Additionally, 16 independent candidates have also deposited money for the upcoming presidential election.
+
+The acceptance of nominations for the upcoming presidential election is scheduled to begin tomorrow (15) from 9.00 a.m. to 11.00 a.m.
+
+The Acting Police Media Spokesperson DIG Ruwan Gunasekara announced that a special security arrangement will be implemented in the vicinity of the Election Secretariat in Rajagiriya on the day of the nominations acceptance.
+
+◼️
+
+[Data](articles/094ff583.json)
+
+---
+
+### தபால்மூல வாக்களிப்புக்கான திகதி இன்று அறிவிக்கப்படும்
+
+*2024-08-14 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191038) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலுக்கான திகதி இன்று புதன்கிழமை (14) அறிவிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஜனாதிபதித் தேர்தலுக்கு தபால்மூல வாக்களிப்புக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது கடந்த 09 ஆம் திகதியுடன் நிறைவடைந்துள்ளது.
+
+◼️
+
+[Data](articles/24653212.json)
+
+---
+
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-08-14 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199911) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවු රිය අනතුරු හේතුවෙන් කාන්තාවන් දෙදෙනෙකු ඇතුළු පස්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (13) දිනය තුළ එම අනතුරු සිදුව ඇති බවය.
+
+පුත්තලම - ත්‍රිකුණාමලය මාර්ගයේ 17 හන්දිය ආසන්නයේ දී අනුරාධපුර සිට පුත්තලම දෙසට ධාවනය වූ ලොරි රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදුව තිබේ.
+
+අනතුරින් මාර්ගය අයිනේ රැඳී සිටි කාන්තාවක් තුවාල ලබා පුත්තලම රෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්ව ඇත.
+
+එලෙස මියගොස් ඇත්තේ අවුරුදු 70ක් වූ 17 කණුව, අලුත්ගම ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මේ අතර, තැන්නේකුඹුර - රාගල මාර්ගයේ මයිලපිටිය ප්‍රදේශයේ දී වාහනයක ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ අවුරුදු 70 ක් වූ මොරවක ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර කොළඹ - වැල්ලවාය ප්‍රධාන මාර්ගයේ තංගල්ල රෝහලට හැරෙන හංදියේ දී මාතර සිට කතරගම දෙසට ධාවනය වූ බස් රථයක් මගීන් බැස්සවීම සඳහා නතර කර නැවත ඉදිරියට ගමන් කිරීමේ දී බසයට ඉදිරියෙන් පාර මාරුවීමට ගිය කාන්තාවක් ගැටී අනතුරක් සිදුව තිබුණි.
+
+...
+
+[Data](articles/a6e19911.json)
+
+---
+
+### Fairly heavy showers, strong winds expected in parts of the island
+
+*2024-08-14 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101217/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places, it said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over the Western slopes of the central hills and in the North-western province and in Ampara, Monaragala and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d519b1c5.json)
+
+---
+
+### தேயிலை, இறப்பர் தொழிற்றுறை தொழிலாளர்களுக்கான வேதனம் குறித்த வர்த்தமானி வெளியீடு
+
+*2024-08-14 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191036) · `ta`
+
+தேயிலை, இறப்பர் தொழிற்றுறை தொழிலாளர்களுக்கான வேதனம் குறித்த வர்த்தமானி அறிவிப்பு சம்பள நிர்ணய சபையால் வெளியிடப்பட்டுள்ளது.
+
+அதன்படி, அடிப்படை சம்பளம் 1350 ரூபாவும் உற்பத்தி ஊக்குவிப்பு கொடுப்பனவு 350 ரூபாவும் வழங்கப்படும் என்று வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f1209c32.json)
+
+---
 
 ### Gazette issued stipulating daily wage of plantation workers
 
@@ -2037,113 +2133,5 @@ Accordingly, this includes 355 election law violations, one act of violence and 
 [Data](articles/866f3d2d.json)
 
 [Extended Data](ext_articles/866f3d2d.ext.json)
-
----
-
-### Import and Export (Control) regulation No.10 of 2024 issued under the import and Export (Control) Act No. 01 of 1969 for Parliament’s approval
-
-*2024-08-13 15:04:00* · [`islandlk`](http://island.lk/import-and-export-control-regulation-no-10-of-2024-issued-under-the-import-and-export-control-act-no-01-of-1969-for-parliaments-approval/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the   Presented in his capacity as the Minister of Finance, Economic Stabilization and National Policy to submit the import and Export (Control) regulation No.10 of the 2024 formulated under the provisions of the import and Export (Control) Act No. 01 of 1969 and published in the Extra Ordinary Gazette No. 2393/36 dated 18-07-2024 for the approval of  the Parliament.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/01f21e6d.json)
-
-[Extended Data](ext_articles/01f21e6d.ext.json)
-
----
-
-### Cabinet approves ratification of Sri Lanka- Thailand FTA
-
-*2024-08-13 14:57:00* · [`islandlk`](http://island.lk/cabinet-approves-ratification-of-sri-lanka-thailand-fta/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the
-
-President in his capacity as  Minister of Finance, Economic Stabilization and National Policy to ratify the Sri Lanka-Thailand Free Trade Agreement
-
-The Sri Lanka-Thailand Free Trade Agreement between Sri Lanka and Thailand was signed by the Minister of Trade, Commercial and Food Security of Sri Lanka and Minister of Commercial of Thailand on 03-02-2024 and the said agreement has been tabled in the Parliament on 12-07-2024.
-
-In terms of the section 14.10 of the said agreement it will be effective from the thirtieth day of the following the final notification of first party to the second party that the internal legal requirements and the procedure has been completed.
-
-Import and Export (Control) regulation No.10 of 2024 issued under the import and Export (Control) Act No. 01 of 1969 for Parliament’s approval
-
-Archeologically valued Miocene Limestone deposit at Aruvakkalu in Puttalum to be protected
-
-...
-
-[Data](articles/a30a368f.json)
-
-[Extended Data](ext_articles/a30a368f.ext.json)
-
----
-
-### Five Malaysian Universities in Sri Lanka to target more students for degrees
-
-*2024-08-13 14:46:00* · [`economynextcom`](https://economynext.com/five-malaysian-universities-in-sri-lanka-to-target-more-students-for-degrees-176594/) · `en`
-
-ECONOMYNEXT – Five Malaysian Universities have arrived in Sri Lanka to promote their courses and target the island nation’s students for degrees and other higher education qualifications.
-
-Sri Lanka is in the top 10 countries with the highest applications to study in Malaysia, based on the latest data from Education Malaysia Global Services (EMGS), a Company Limited by Guarantee (CLBG) under the purview of the Ministry of Higher Education Malaysia.
-
-After an unprecedented economic and foreign exchange crisis in 2022, Sri Lanka has been considering becoming a regional hub for education in order to cut foreign exchange outflow of the country as more students go abroad for higher education.
-
-Sri Lanka banned dollar payments in mid-2022 to contain the dollar outflows from the country after it faced a severe shortage of forex following the rupee being floated in March 2022.
-
-Sri Lanka has been spending around $3 billion for those who spend for education from foreign countries.
-
-...
-
-[Data](articles/2bf41a5e.json)
-
-[Extended Data](ext_articles/2bf41a5e.ext.json)
-
----
-
-### TNA met Chinese Ambassador
-
-*2024-08-13 14:41:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவரை-சந்தித்தது-TNA/175-342105) · `ta`
-
-TNA parliamentarians MA Sumanthiran and Chanakyan Rasamanikam met with Chinese Ambassador Qi Zhenhong for discussions focusing on the issues affecting the Tamil community in Sri Lanka's Northern and Eastern regions. The meeting was productive, as per the TNA's statement, highlighting the importance of diplomatic engagement in addressing local concerns.
-
-🟩
-
-TNA parliamentarians MA Sumanthiran and Chanakyan Rasamanikam are in discussion with Chinese Ambassador to Sri Lanka Qi Zhenhong.
-
-The Tamil National Alliance (TNA) has posted on the X site that MPs from the Jaffna and Batticaloa districts had a very good and effective discussion with the Chinese ambassador on Monday.
-
-The Tamil National Alliance further stated that the meeting was discussed during the meeting on contemporary affairs and the problems of the Tamil people of the North and East.
-
-◼️
-
-[Data](articles/89f7d7a8.json)
-
-[Extended Data](ext_articles/89f7d7a8.ext.json)
-
----
-
-### Kandy student missing
-
-*2024-08-13 14:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாணவனை-காணவில்லை/76-342104) · `ta`
-
-A 15-year-old student from St. Sylvester College, Kandy, has gone missing. The boy, Mohamed Mukarath Mujahid, was last seen leaving his home on Ranavana Road, Katugastota, on Monday morning, stating he was going to school but never returned. His mother filed a complaint with the Katugastota police.
-
-🟩
-
-The student's mother has lodged a complaint with the Katugastota police that a 15 -year -old student at St. Sylvester College, Kandy has not returned home.
-
-The mother of a student named Mohamed Mukarath Mujahid, a student from Ranavana Road, Katugastota, said that her son had not returned home on Monday (12).
-
-According to the mother's complaint, the student had left the house on Monday (12) at 6.00 am claiming to go to school and had no information about him.
-
-◼️
-
-[Data](articles/7d8cc95d.json)
-
-[Extended Data](ext_articles/7d8cc95d.ext.json)
 
 ---

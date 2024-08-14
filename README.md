@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 22:54:33**
+As of **2024-08-14 23:06:15**
 
 ## Newspaper Stats
 
@@ -26,51 +26,69 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,761 (100.0%) of 40,763 articles have been extended.
+40,763 (100.0%) of 40,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### ජීවිත 2ක් බිලි ගත් මාලබේ අයිස් නිපදවීම ගැන තොරතුරු රැසක්
+### Malabe ice producing 2 lives
 
 *2024-08-14 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199949) · `si`
 
-මාලබේ කහන්තොට පාර ජයන්ති මාවතේ නිවසක් තුළ විෂ වායුවක් ආඝ්‍රාණ වීමෙන් පුද්ගලයන් දෙදෙනෙකු මිය යාම සම්බන්ධව තොරතුරු රැසක් අනාවරණය වී තිබේ.
+In Malabe, Kandy Road, a toxic gas leak led to the discovery of two deceased individuals, aged 45 and 63. The Malabe Police, following directives from the Western South DIG, investigated the scene. Preliminary medical examinations suggest the victims died due to chemical exposure, possibly linked to illicit ice drug production. Authorities, including the Ranawaka Department and STF bomb squad, collected chemical samples for analysis. Despite initial concerns, it was determined the chemicals did not constitute explosive material. Further inspections by the Sri Lanka Atomic Energy Regulatory Council and the Governing Body confirmed no radioactive threats. The police discovered another property in Nedimala owned by one of the deceased, which they sealed off. Investigations continue to determine the nature of the victims' activities and financial circumstances, particularly focusing on recent earnings.
 
-මෙම සිද්ධියෙන් මිය ගොස් ඇත්තේ 45 හැවිරිදි හා 63 හැවිරිදි පුද්ගලයන් දෙදෙනෙකි.
+🟩
 
-ඒ අනුව බස්නාහිර දකුණ භාර නියෝජ්‍ය පොලිස්පති ගයංග මාරපන මහතාගේ උපදෙස් පරිදි මාලබේ පොලීසිය අදාළ නිවස අද (14) පුළුල් පරීක්ෂාවට ලක්කර තිබුණි.
+Tisement of poisonous gas in Malabe Kentota road has revealed many information about two persons.
 
-රසායනික ද්‍රව්‍යයක් මිශ්‍රණය කිරීමට යෑමේදී ඇතිවූ විෂ දුමක් හේතුවෙන් මියගිය පුද්ගලයන් දෙදෙනාට ශ්වසන අපහසුතා ඇති වී තිබෙන බව වෛද්‍ය පරීක්ෂණවලින් හෙළිවී තිබේ.
+The deceased has been identified as two 45 year old and 63 years old.
 
-එම රසායන ද්‍රව්‍ය අයිස් මත්ද්‍රව්‍ය සැකසීමට යොදාගන්නා බවට සැක කරන අතර මොවුන් දෙදෙනා අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීමට උත්සාහ කිරීමේදී මෙම තත්ත්වය මතුවී ඇතැයි පොලීසිය සැක කරයි.
+According to the instructions of DIG in charge of the Western South, the Malabe Police had investigated the house today (14).
 
-ඒ අනුව මේ පිළිබඳව නිසි අයුරින් තහවුරු කරගැනීම සඳහා රසපරීක්ෂක දෙපාර්තමේන්තුවේ නිලධාරීන් පැමිණ අදාළ රසායනික ද්‍රව්‍යයේ සාම්පල රැගෙන ගොස් තිබේ.
+Medical investigations have revealed that the two deceased have caused the two deceased to the blend of chemicals.
+
+Police suspect that the chemicals are being used to arbitrary, and the two suspects have erupted when they try to produce ice drugs.
+
+Accordingly, the officers of the Ranawaka Department have come and taken the samples of the chemicals concerned with this.
+
+Meanwhile, the STF bomb bomb officers came and inspected the chemicals on the chemicals to ensure that they would produce explosives.
+
+The revealed that the explosives do not produce explosives using those chemicals.
 
 ...
 
 [Data](articles/5d36c0a3.json)
 
+[Extended Data](ext_articles/5d36c0a3.ext.json)
+
 ---
 
-### சஜித்தை ஆதரித்தது ஏன்?: ரிஷாட் விளக்கம்
+### Why did Sajith support?: Rishad Explanation
 
 *2024-08-14 22:23:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-ஆதரித்தது-ஏன்-ரிஷாட்-விளக்கம்/175-342179) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸ் கட்சி ஜனாதிபதித் தேர்தலில் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்கும் என, அக்கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் இன்று (14) தெரிவித்தார்.
+Rishad Bathiudeen announced that the All Ceylon Peoples Congress Party will back Sajith Premadasa in the presidential election, based on widespread consultations across the North and East of Sri Lanka. The decision was reached after gathering input from various stakeholders, including district representatives and party volunteers, ensuring a unified party stance.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் எந்த வேட்பாளருக்கு ஆதரவு வழங்குவது என்பது தொடர்பிலான, அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் ஊடகவியலாளர் சந்திப்பு, இன்று (14) மாலை வெள்ளவத்தை, கிரீன் பெலஸ் மண்டபத்தில் இடம்பெற்ற போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-அகில இலங்கை மக்கள் காங்கிரஸ் கட்சியின் உயர்பீடம், அரசியல் அதிகாரபீடம் ஆகியன, இன்று மாலை கொழும்பில் கூடி, ஏகமனதாக தீர்மானத்தை எடுத்துள்ளதாகவும் அவர் தெரிவித்தார்.
+Rishad Bathiudeen, the leader of the party, said today (14) that the All Ceylon Peoples Congress Party will support Sajith Premadasa in the presidential election.
 
-மேலும், "கடந்த இரண்டு வாரங்களுக்கு மேலாக வடக்கு, கிழக்கில் பல இடங்களுக்குச் சென்று மக்களையும் மாவட்ட பிரதிநிதிகளையும் கட்சித் தொண்டர்களையும் ஆதரவாளர்களையும் சந்தித்து, மக்களின் கருத்துக்களைக் கேட்டறிந்தோம்.
+He was speaking at the All Ceylon Peoples Congress Party's media briefing on which the candidate to support the upcoming presidential election was held at the Green Belus Hall in Wellawat this evening.
 
-அதற்கு முன்னதாக, கட்சியின் உயர்பீடத்திலும் இந்த விடயம் தொடர்பில் கலந்துரையாடினோம். இன்று மாலை கட்சியின் உயர்பீடம் மீண்டும் கூடியதுடன், உயர்பீட உறுப்பினர்களின் கருத்துக்களையும் கேட்டறிந்துகொண்டோம்.
+He said that the All Ceylon Peoples Congress Party and the political authority have gathered in Colombo this evening and made a unanimous decision.
+
+Moreover, over the last two weeks, we went to many places in the North and East and met people, district representatives, party volunteers and supporters and heard the people's views.
+
+Prior to that, we had discussed this issue in the party's highways. This evening, the party's high -end side was reunited and we heard the views of the high -ranking members.
+
+Similarly, it was unanimously decided to support Sajith Premadasa after the people's views were put forward in the high.
 
 ...
 
 [Data](articles/d5263386.json)
+
+[Extended Data](ext_articles/d5263386.ext.json)
 
 ---
 

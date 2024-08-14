@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 01:20:59**
+As of **2024-08-15 01:36:32**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,777 (100.0%) of 40,778 articles have been extended.
+40,778 (100.0%) of 40,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### சுயநல அரசியல் நோக்கத்தால் உதவி ஆசிரியர் நியமனத்துக்கு இடையூறு - அமைச்சர் ஜீவன்
+### Disruption of Assistant Teacher Appointment
 
 *2024-08-14 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191104) · `ta`
 
-சுய நல அரசியலுக்காகவே பெருந்தோட்ட உதவி ஆசிரியர் நியமன விவகாரத்தில் இடையூறுகள் ஏற்படுத்தப்படுகின்றன. இது தொடர்பில் அடுத்த அமைச்சரவைக்குள் தீர்வினை வழங்குவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்துள்ளதாக நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+Water Supply and Estate Infrastructure Minister Jeevan Thondaman announced that President Ranil Wickremesinghe has committed to resolving issues related to the appointment of plantation assistant teachers. He mentioned India's interest in assisting with infrastructure development for the Kotagala Teachers' Training College, aiming to transform it into a comprehensive university over five years. This initiative is part of broader efforts to enhance educational opportunities in the region, addressing concerns raised by former Minister Arumugan Thondaman about disruptions in appointments due to selfish interests. The government has allocated funds and sought Indian support for this project, which includes upgrading facilities and curriculum approval from the University Grants Commission.
 
-கொட்டகலை ஆசிரியர் பயிற்சி கலாசாலையை உயர் கல்வி நிறுவனமாக்குவதற்கு உட்கட்டமைப்பு வசதிகளை ஏற்படுத்துவதற்கு இந்தியாவிடம் உதவிகள் கோரப்பட்டுள்ளதாகவும், 5 வருட திட்டமிடலுக்கமைய அங்கு ஒரு முழுமையான பல்கலைக்கழகத்தை உருவாக்க முடியும் என்ற நம்புவதாகவும் அமைச்சர் ஜீவன் தொண்டமான் மேலும் தெரிவித்தார்.
+🟩
 
-பம்பலப்பிட்டி லோரிஸ் வீதியில் அமைந்துள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசியல் அலுவலகத்தில் புதன்கிழமை (14) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+Plantation Assistant Teacher Appointment. Water Supply and Estate Infrastructure Minister Jeevan Thondaman said that President Ranil Wickremesinghe has promised to provide a solution to the next Cabinet.
 
-மறைந்த முன்னாள் அமைச்சர் ஆறுமுகன் தொண்டமான் பெருந்தோட்ட உதவி ஆசிரியர் நியமனம் வழங்க நடவடிக்கை எடுத்த போதும் இதே நபரால் அதற்கு இடையூறு ஏற்படுத்தப்பட்டது. சுயநலத்தின் காரணமாகவே இவ்வாறான நடவடிக்கை முன்னெடுக்கப்படுகிறது.
+Minister Jeevan Thondaman added that India has requested India to assist in infrastructure to make the Kotagala Teachers' Training College and create a complete university there for a 5 -year plan.
+
+He further stated at a press conference held at President Ranil Wickremesinghe's Political Office at Loris Road, Bambalapitiya on Wednesday (14).
+
+Former Minister Arumugan Thondaman has taken steps to appoint the Plantation Assistant Editor, but it was disrupted by the same person.. Such action is carried out because of selfishness.
+
+But every occasion cannot be accommodated. I have discussed this with President Ranil Wickremesinghe and Education Minister Susil Premjayantha. The appointment of graduates in the hill country is also a problem.
 
 ...
 
 [Data](articles/1b585620.json)
+
+[Extended Data](ext_articles/1b585620.ext.json)
 
 ---
 

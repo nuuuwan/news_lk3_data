@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 11:56:26**
+As of **2024-08-14 12:10:19**
 
 ## Newspaper Stats
 
-*Scraped **40,659** Articles*
+*Scraped **40,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,738
+adalk | 3,741
 dailymirrorlk | 4,733
-adaderanalk | 4,741
+adaderanalk | 4,742
 tamilmirrorlk | 5,180
 virakesarilk | 6,432
 adaderanasinhalalk | 6,914
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,655 (100.0%) of 40,659 articles have been extended.
+40,659 (100.0%) of 40,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### FR petition filed seeking court order to appoint Acting IGP
+
+*2024-08-14 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101228/fr-petition-filed-seeking-court-order-to-appoint-acting-igp) · `en`
+
+A Fundamental Rights petition has been filed at the Supreme Court, requesting to issue an order to the President to appoint an Acting Inspector General of Police (IGP).
+
+Attorney-at-Law R.S.P. Ranasuriya has submitted the FR petition to the Supreme Court.
+
+President Ranil Wickremesinghe and the Attorney General have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/0c2915ab.json)
+
+---
+
+### නැවැත්වූ බසය ඉදිරියෙන් පාර මාරුවීමට ගිය ඇයට අත්වූ ඉරණම
+
+*2024-08-14 11:32:59* · [`adalk`](https://www.ada.lk/breaking_news/නැවැත්වූ-බසය-ඉදිරියෙන්-පාර-මාරුවීමට-ගිය-ඇයට-අත්වූ-ඉරණම/11-411366) · `si`
+
+කොළඹ - වැල්ලවාය මාර්ගයේ තංගල්ල රෝහලට හැරෙන හන්දිය ආසන්නයේදී මාතර දෙස සිට කතරගම දෙසට ධාවනය වූ බස් රථයක් මගීන් බැස්සවීම සඳහා නතර කර නැවත ඉදිරියට ධාවනය කිරීමේදී බස්රථයට ඉදිරියෙන් පාර මාරුවීමට ගිය කාන්තාවකගේ ගැටී අනතුරක් වී ඇත. එසේ අනතුරට ලක්වූ කාන්තාව ඊයේ (13) රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව ප්‍රථිකාර ලබමින් සිටියදී මිය ගෙස් ඇති බව පොලීසිය පවසයි. එසේ මියගොස් ඇත්තේ 41 හැවිරිදි බෙලිඅත්ත ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+
+◼️
+
+[Data](articles/8b4a7b35.json)
+
+---
 
 ### Janaka Ratnayake places deposit to contest Presidential Election
 
@@ -45,6 +73,20 @@ The Secretary of the United Lanka Podujana Party, Nihal Premakumara Deshapriya, 
 [Data](articles/b4a497c4.json)
 
 [Extended Data](ext_articles/b4a497c4.ext.json)
+
+---
+
+### ජනපති සටනට JR වෙනුවෙන් ඇප තැන්පත් කරයි
+
+*2024-08-14 11:28:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සටනට-JR-වෙනුවෙන්-ඇප-තැන්පත්-කරයි/11-411365) · `si`
+
+මහජන උපයෝගිතා කොමිසමේ හිටපු සභාපති ජනක රත්නායක ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත අතර, ඔහු වෙනුවෙන් අද(14දා) ඇප මුදල් තැන්පත් කර තිබේ.
+
+එක්සත් ලංකා පොදුජන පක්ෂයේ ලේකම්වරයා විසින් මෙලෙස ඔහු වෙනුවෙන් ඇප තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/89afc71b.json)
 
 ---
 
@@ -148,19 +190,25 @@ Accordingly, Namal Rajapaksa declared the name of Mr. Namal Rajapaksa as the pre
 
 ---
 
-### ජනක රත්නායක ට ඇප තියයි
+### Janaka Ratnayake bailed
 
 *2024-08-14 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199918) · `si`
 
-එක්සත් ලංකා පොදුජන පක්ෂය වෙනුවෙන් ජනක රත්නායක මහතා මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත්වෙයි.
+Janaka Ratnayake, contesting for the United Ceylon General Party, was recently bailed. The party's Secretary, Nihal Pre-Dayumara Deshapriya, also received bail. Janaka previously served as the Chairman of the Public Utilities Commission.
 
-ඒ මහතා වෙනුවෙන් එක්සත් ලංකා පොදුජන පක්ෂයේ ලේකම් නිහාල් ප්‍රේම කුමාර දේශප්‍රිය විසින් අද (14) ඇප තැන්පත් කරනු ලැබීය.
+🟩
 
-ජනක රත්නායක මහතා කලක් මහජන උපයෝගීතා කොමිසමේ සභාපති ලෙස කටයුතු කළේය.
+Janaka Ratnayake is contesting for the United Ceylon General Party.
+
+The Secretary of the United Ceylon General Party Secretary Nihal Pre-Dayumara Deshapriya was bailed today (14).
+
+Janaka Ratnayake served as the Chairman of the Public Utilities Commission.
 
 ◼️
 
 [Data](articles/f8217cba.json)
+
+[Extended Data](ext_articles/f8217cba.ext.json)
 
 ---
 
@@ -320,19 +368,25 @@ Further, the official announcement of the presidential election dates will be ma
 
 ---
 
-### தபால் மூல வாக்களிப்பு திகதிகளை மறுத்தது ஆணைக்குழு
+### Commission denied postal voting dates
 
 *2024-08-14 10:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-திகதிகளை-மறுத்தது-ஆணைக்குழு/175-342145) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தபால் மூல வாக்குகளை பதிவு செய்தல்   தொடர்பில் ஊடகங்களில் திகதிகள் குறிப்பிடப்பட்டுள்ளது.
+Media reported postal vote registration dates for the upcoming presidential election are unofficial. The Election Commission clarified it hasn't announced these dates yet and will do so soon.
 
-இது,  தேர்தல் ஆணையத்தின் உத்தியோகபூர்வ அறிவிப்பு அல்ல என தேர்தல் ஆணையகம் தெரிவித்துள்ளது.
+🟩
 
-மேலும், ஜனாதிபதி தேர்தல் திகதிகள் தொடர்பிலான உத்தியோகபூர்வ அறிவிப்பு விரைவில் விடுக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது,
+Dates are mentioned in the media regarding the registration of postal votes in the upcoming presidential election.
+
+This is not the official announcement of the Election Commission, the Election Commission said.
+
+Further, the official announcement of the presidential election will be made soon.
 
 ◼️
 
 [Data](articles/e43c3a7e.json)
+
+[Extended Data](ext_articles/e43c3a7e.ext.json)
 
 ---
 
@@ -479,6 +533,8 @@ In equities, Colombo’s All Share Price Index opened 31.42 points higher at 11,
 ◼️
 
 [Data](articles/0cbf5c64.json)
+
+[Extended Data](ext_articles/0cbf5c64.ext.json)
 
 ---
 
@@ -1125,6 +1181,8 @@ During the last currency crisis, the insurance sector also suffered, he said.
 ...
 
 [Data](articles/e416fa0e.json)
+
+[Extended Data](ext_articles/e416fa0e.ext.json)
 
 ---
 
@@ -1896,6 +1954,20 @@ Meanwhile, Dr. Jayampathi Wickramaratne, Dr. Jayampathi Wickramaratne, has also 
 
 ---
 
+### පුනරුදයට රටම එකට 17දා අනුර ගාල්ලට
+
+*2024-08-13 20:11:27* · [`adalk`](https://www.ada.lk/breaking_news/පුනරුදයට-රටම-එකට-17දා-අනුර-ගාල්ලට/11-411362) · `si`
+
+‘පුනරුදයට රටම එකට’ ජාතික ජන බලවේගයේ ජනාධිපතිවරණ මැතිවරණය ප්‍රචාරක ජන හමු මාලාවේ ජනාධිපති අපේක්ෂක අනුර කුමාර දිසානායක මහතා සහභාගි වන ගාල්ල දිස්ත්‍රික් ප්‍රධාන රැලිය මෙම මස 17වන දින සවස 04.00ට ගාල්ල සමනල ක්‍රීඩාංගණයේදී පැවැත්වේ.
+
+ජාතික ජන බලවේගයේ දේශපාලන නායකයන් හා විද්වතුන් රැසකගේ ප්‍රධානත්වයෙන් මෙම ජන හමුව පැවැත්වෙන බව ජාතික ජන බලවේගයේ විධායක සභික, ජනතා විමුක්ති පෙරමුණේ ගාල්ල දිස්ත්‍රික් සංවිධායක හිටපු පළාත් සභා මන්ත්‍රී නලින් හේවගේ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/9d4ffe7f.json)
+
+---
+
 ### Passenger arrested with 16 gold biscuits worth Rs. 440 million at BIA
 
 *2024-08-13 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/101213/passenger-arrested-with-16-gold-biscuits-worth-rs-440-million-at-bia) · `en`
@@ -2067,101 +2139,5 @@ Tanamalwila police are conducting further investigations into the incident. Remb
 [Data](articles/99d23ac6.json)
 
 [Extended Data](ext_articles/99d23ac6.ext.json)
-
----
-
-### 36 candidates place deposits for presidential election so far
-
-*2024-08-13 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/101212/36-candidates-place-deposits-for-presidential-election-so-far) · `en`
-
-The Elections Commission of Sri Lanka says that a total of 36 candidates have placed cash deposits so far for the 2024 Presidential Election.
-
-This includes 19 candidates representing recognised political parties, 16 independent candidates who have been nominated by a voter and 01 from other political parties.
-
-The candidates who have placed deposits within today (13) include the leader of the Mawbima Janatha Party (MJP) and Presidential Candidate of the ‘Sarvajana Balaya’ entrepreneur Dilith Jayaweera, the presidential candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya) Attorney-at-Law Nuwan Bopage, Namal Rajapaksha of the ‘Samabima Party’ and independent candidate Chaminda Anuruddha.
-
-The period for placing deposits for the 2024 Presidential Election is scheduled to end at 12 noon tomorrow (14).
-
-The acceptance of nominations for the upcoming presidential election is scheduled to begin the day after tomorrow (15) from 9.00 a.m. to 11.00 a.m.
-
-...
-
-[Data](articles/1c003bcf.json)
-
-[Extended Data](ext_articles/1c003bcf.ext.json)
-
----
-
-### Sri Lanka universities to sign MOU with foreign peers for academic, ranking support
-
-*2024-08-13 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-universities-to-sign-mou-with-foreign-peers-for-academic-ranking-support-176670/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-owned universities will sign a memorandum of understanding (MOU) with the world’s top universities to raise the ranking of local universities and develop higher education cooperation, the government said.
-
-World ranking of Sri Lankan universities has declined sharply in the past few decades with University of Colombo topping the latest world ranking list with a rank of 1591 followed by University of Peradeniya being ranked in 2017.
-
-The Cabinet of Ministers approved the proposal to enter into an MOU between local universities and foreign universities, a cabinet document said.
-
-“These Memorandum of Understanding and Cooperation Agreements have been prepared according to the observations and recommendations of the Ministry of foreign affairs, Department of National Planning and Department of External Resources,” the cabinet document said.
-
-...
-
-[Data](articles/28b009c3.json)
-
-[Extended Data](ext_articles/28b009c3.ext.json)
-
----
-
-### Foreign remittances received in July is US $. 566.8
-
-*2024-08-13 19:10:12* · [`adalk`](https://www.ada.lk/breaking_news/ජූලි-මාසයේ-විදේශ-ප්‍රේෂණ-ලැබීම්-ඇ-ඩො-මි--566-8-ක්/11-411360) · `si`
-
-In July 2024, Sri Lanka saw a 15% increase in foreign remittances to $566.8 million, with 187,796 citizens employed overseas, primarily in Kuwait (42,481) and Saudi Arabia (31,265). Notably, employment in Israel surged from 1,912 in 2023 to 5,128 in 2024.
-
-🟩
-
-Sri Lankans have increased by 15% in July 2024 compared to July 2023. The Sri Lanka Bureau of Foreign Employment Bureau points out that 25,025 workers have been abroad in July last year.
-
-In the last seven months, 187,796 Sri Lankans have been abroad to work in the past 13 months and is owned by 110,939 and 76,857 students from employment.
-
-Most of these people have been abroad to Kuwait and that size is 42,481. Second, the largest number of employment is on Saudi Arabia, and the size is 31,265.
-
-Similarly, Sri Lankans rapid growth in Israel's jobs in 2024 compared to 2023. In 2023, there were only 1,912 Sri Lankans, and 5,128 people in 2024 have increased to the reference to Israel.
-
-Meanwhile, Foreign Remittances receive US $ 566.8 million in July 2024, while US $ 3.71 billion has been received by US $ 3.71 billion.
-
-◼️
-
-[Data](articles/80f96cda.json)
-
-[Extended Data](ext_articles/80f96cda.ext.json)
-
----
-
-### Minor sexual harassment;Four persons including chancellor
-
-*2024-08-13 19:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பாலியல்-வன்கொடுமை-அதிபர்-உட்பட-நால்வர்-கைது/175-342110) · `ta`
-
-Four individuals, including the Chancellor of Thanamalwila National School, were arrested for failing to address a sexual abuse case involving a female student. The Principal, Deputy Principal, Teacher Advisor, and a disciplinary committee member were among those arrested. The Director of Education acknowledged the mishandling of the complaint by the school officials. Additionally, 21 students and a woman were detained for allegedly participating in the abuse, which was captured on video. The victim, a 16-year-old, was threatened and abused over a period of a year. The school administration was aware but attempted to conceal the incident.
-
-🟩
-
-Four persons, including the Chancellor of the Thanamalwila National School, were arrested on Tuesday evening (13) evening, who was unaware of the incident of the incident of sexual abuse of a schoolgirl.
-
-The four were arrested as the Principal of the school, the Deputy Principal, the Teacher Advisor and the Teacher in charge of the disciplinary committee.
-
-The police have confessed to the Director of Education of the Tanamalwila Zonal Education regarding the incident.
-
-He said in a statement that he had issued a directive to lodge a complaint with the police and that the school principal, including the school principal, did not implement the resolution.
-
-In addition, the Wellawa Magistrate has ordered the detention of 21 students and a woman who was accused of abusing the girl until August 22.
-
-The magistrate has also ordered the detainees of the 21 school students to be detained at the Bandarawela Suraksha Children's Home.
-
-...
-
-[Data](articles/a8abee58.json)
-
-[Extended Data](ext_articles/a8abee58.ext.json)
 
 ---

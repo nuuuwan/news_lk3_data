@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 16:20:58**
+As of **2024-08-14 16:36:43**
 
 ## Newspaper Stats
 
-*Scraped **40,716** Articles*
+*Scraped **40,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,745
+adalk | 3,746
 dailymirrorlk | 4,733
-adaderanalk | 4,749
-tamilmirrorlk | 5,193
+adaderanalk | 4,751
+tamilmirrorlk | 5,194
 virakesarilk | 6,450
-adaderanasinhalalk | 6,924
+adaderanasinhalalk | 6,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,714 (100.0%) of 40,716 articles have been extended.
+40,716 (100.0%) of 40,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### Special traffic plan in Rajagiriya tomorrow
+
+*2024-08-14 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101237/special-traffic-plan-in-rajagiriya-tomorrow) · `en`
+
+The nominations for the upcoming Presidential Election will be accepted from 9.00 a.m. to 11.00 a.m. tomorrow (August 15) at the Election Secretariat in Rajagiriya.
+
+Accordingly, the police announced that a special traffic plan would be implemented from 8.00 a.m. to 2.00 p.m. tomorrow.
+
+See below for the Police Media Division announcement on the traffic plan....
+
+◼️
+
+[Data](articles/5d7c1373.json)
+
+---
+
+### Two-year-old killed in crash on Southern Expressway
+
+*2024-08-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101236/two-year-old-killed-in-crash-on-southern-expressway-) · `en`
+
+A two-year-old girl has died in an accident that occurred on the Southern Expressway this morning (14) in the Elpitiya Police Division.
+
+The accident had occurred when a van travelling from Mattala towards Kottawa collided with the safety guardrail in the middle of the expressway due to a tyre puncture and toppling on the road.
+
+Three children who were travelling in the van have sustained injuries and one of them, a two-year-old girl, succumbed to injuries after being admitted to the Elpitiya Base Hospital.
+
+The deceased is a 02-year-old resident of the Wedihiti Kanda area in Kataragama.
+
+Police stated that twelve passengers including children and adults were travelling in the van at the time of the incident.
+
+◼️
+
+[Data](articles/7103bc86.json)
+
+---
+
+### රාජගිරිය අවට හෙට විශේෂ රථවාහන සැලැස්මක්
+
+*2024-08-14 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199934) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා නාමයෝජනා භාරදීම අගෝස්තු 15 වනදා රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාලයේදී සිදුකිරීමට නියමිතය.
+
+ඒ වෙනුවෙන් එදින උදෑසන 8 සිට පස්වරු 2 දක්වා විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/e19d4689.json)
+
+---
+
+### விலை கொடுத்து வாங்கிய மனைவிக்கு ஷொக்
+
+*2024-08-14 16:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-கொடுத்து-வாங்கிய-மனைவிக்கு-ஷொக்/175-342170) · `ta`
+
+மதுபோதைக்கு அடிமையான ஒருவர் திரைப்படத்தில் வரும் காட்சியை போன்று செய்த சம்பவமொன்று அப்பகுதியினர் மட்டுமில்லாமல் செய்தியை கேட்டவர்களுக்கும் ஆச்சிரியத்தை ஏற்படுத்தியுள்ளது.
+
+இந்தியாவின் ராஜஸ்தான் நரசிங்கபுரா கிராமத்தை சேர்ந்த பிரேம் ராம் மெக்வால் என்பவர் (வயது 40), மனைவியை தாக்கி அவரது கால்களை மோட்டார் சைக்கிளில் கட்டி கரடுமுரடான மண் சாலையில் இழுத்துச் சென்றுள்ளார்.
+
+சம்பவத்தை பார்வையிட்ட  கிராமத்தவர்கள் எவரும் ​அவரை தடுக்க முன்வரவில்லை என்பதுடன் அனைவரும் அலைபேசியூடாக காணொளி எடுத்துக்கொண்டிருந்ததாக தெரிவிக்கப்பட்டுள்ளது,
+
+இதுகுறித்து பொலிஸார் கூறும்போது, ம்பவத்தை தடுக்காமல் படம் பிடிப்பதில்ஆர்வம் காட்டியவர் மீதும் நடவடிக்கை எடுக்கப்படும். அப்பெண் தனது சகோதரி வீட்டுக்கு செல்ல விரும்பியதால் அவருக்கும் அவரது கணவருக்கும் தகராறு ஏற்பட்டதாக தெரிகிறது.
+
+இதற்கிடையில்,  அப்பெண்ணை 10 மாதங்களுக்கு முன் குறித்த நபர் ரூ.2 லட்சம் கொடுத்து விலைக்கு வாங்கி வந்ததாகவும் தெரிவிக்கப்படுகிறது,
+
+◼️
+
+[Data](articles/692da522.json)
+
+---
+
+### පුද්ගල ආදායම් බදු මට්ටම සංශෝධනයට රජයෙන් යෝජනාවක්
+
+*2024-08-14 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199933) · `si`
+
+පසුගිය සමයේ සිදු කළ බදු ප්‍රතිසංස්කරණවලින් පීඩාවට පත් මධ්‍යම මට්ටමේ බදු ගෙවන්නන් සඳහා සහන සැලසීමේ අරමුණින් පුද්ගල ආදායම් බදු මට්ටම රුපියල් 500,000 සිට රුපියල් 720,000 දක්වා සංශෝධනය කිරීමට රජය විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලට යෝජනා කර තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය පවසන්නේ මෙම වසරේ බදු ආදායම පෙන්නුම් කරන ලද ශක්තිමත් කාර්ය සාධනය හේතුවෙන් එම යෝජනාව සිදුකළ බවය.
+
+එම යෝජනාව සඳහා IMF විසින් සංශෝධන ඉදිරිපත් කර ඇති අතර පහළ බදු මට්ටම්වලට අයත් පිරිස සඳහා වැඩි සහනයක් ලබාදීම, මධ්‍යම මට්ටමට ද ඒ හා සමාන සහන සලසමින්, ඉහළ ආදායම් ලබන්නන් සඳහා තරමක් අඩු සහන ලබාදීමට මෙන්ම මෙම යෝජනාවේ හරය නොවෙනස්ව තබා ගැනීම ඊට අයත් වේ.
+
+◼️
+
+[Data](articles/ab2945a8.json)
+
+---
 
 ### Vijayadasa signature on the nomination
 
@@ -68,6 +154,20 @@ He has signed the nomination papers at his political office in Flower Road, Colo
 
 ---
 
+### ජනාධිපතිවරණය ගැන රනිල් දැන් ගත්ත තීරණය මෙන්න
+
+*2024-08-14 15:16:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-ගැන-රනිල්-දැන්-ගත්ත-තීරණය-මෙන්න/11-411371) · `si`
+
+ජනාධිපතිවරණ අපේක්ෂක වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු මොහොතකට පෙර සිය නාමයෝජනා පත්‍රය සඳහා අත්සන් කර තිබේ.
+
+කොළඹ මල් පාරේ පිහිටි සිය පක්ෂ කාර්යාලයේදී ජනාධිපතිවරයා මෙලෙස සිය නාමයෝජනා පත්‍රයට අත්සන් කර ඇත.
+
+◼️
+
+[Data](articles/9a0d93b0.json)
+
+---
+
 ### President signal to nomination
 
 *2024-08-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199932) · `si`
@@ -86,19 +186,29 @@ President Ranil Wickremesinghe signed his nomination papers today (14) to contes
 
 ---
 
-### விஷ்ணு விஷால் வழங்கும் 'ஹாட் ஸ்பாட் 2'
+### Vishnu Vishal's 'Hot Spot 2'
 
 *2024-08-14 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191084) · `ta`
 
-இயக்குநர் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகும் 'ஹாட்.ஸ்பாட் 2' திரைப்படத்தை நடிகர் விஷ்ணு விஷால் வழங்குகிறார். இதற்கான அதிகாரப்பூர்வ அறிவிப்பு பிரத்யேக காணொளியாக வெளியிடப்பட்டிருக்கிறது.
+Vishnu Vishal stars in "Hot Spot 2," directed by Vignesh Karthik, alongside Kalaiyarasan, Sofia, Gauri Kishan, and others. The first "Hot Spot" was a commercial and critical success, sparking anticipation for its sequel, "Conditional Kaviyam." The cast and release details for the second installment are expected to be announced soon.
 
-கலையரசன், சோபியா, கௌரி கிஷன், ஆதித்யா பாஸ்கர், அம்மு அபிராமி சாண்டி மாஸ்டர், ஜனனி ஆகியோர் நடிப்பில் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகி இந்த ஆண்டு மார்ச் மாதம் வெளியான திரைப்படம் 'ஹாட் ஸ்பாட்'. இந்த திரைப்படத்தின் முன்னோட்டம் வெளியாகி கண்டனங்களையும், சர்ச்சைகளையும் ஏற்படுத்தியது.
+🟩
 
-அதன் பிறகு இந்த திரைப்படம் பட மாளிகைக்கான ரசிகர்கள் மற்றும் டிஜிட்டல் தள ரசிகர்களின் ஏகோபித்த வரவேற்பை பெற்று வணிக ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியை பெற்றது. இதனைத் தொடர்ந்து இப்படத்தின் அடுத்த பாகம் எப்போது வெளியாகும்? என்ற கேள்வியும் எழுந்தது.
+Actor Vishnu Vishal presents the movie 'Hot.Spot 2' directed by director Vignesh Karthik. The official announcement has been released as an exclusive video.
 
-...
+Vignesh Karthik starring Kalaiyarasan, Sofia, Gauri Kishan, Aditya Bhaskar, Ammu Abirami Sandy Master and Janani starred in the film 'Hot Spot' this year.. The preview of the film was revealed and controversy.
+
+The film was then received by fans and digital site fans for the film House, commercially and critically successful. When will the next part of the film be released?The question also arose.
+
+Director Vignesh Karthik - Producer K. J.. Vishnu Vishal's Vishnu Vishal Studios presents the leading star and producer of 'Hot Spot 2' co -starring Bala Mani Morban.. The announcement has been released as a video.
+
+The next part of the Hot Spot, referred to as 'Conditional Kaviyam', is to be announced as a two -mast.. The official announcement of the actors, actresses and technicians will be released soon.
+
+◼️
 
 [Data](articles/2fd54f95.json)
+
+[Extended Data](ext_articles/2fd54f95.ext.json)
 
 ---
 
@@ -124,21 +234,27 @@ The accident occurred when the tire of the vehicle traveling from Mattala to Kot
 
 ---
 
-### பரத் நடிக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' படத்தின் செகண்ட் லுக் போஸ்டர் வெளியீடு
+### Second look poster release of Bharat starring 'Ons Aban A Time in Madras'
 
 *2024-08-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191091) · `ta`
 
-தமிழ் திரையுலகில் சந்தை மதிப்புள்ள நட்சத்திர நடிகரான பரத் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' எனும் படத்தின் செகண்ட் லுக் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+The second look poster for "Ons Aban A Time in Madras," directed by Prasad Murugan, features Bharat, Shaun, Rajaji, Abirami, Anjali Nair, and Pavithra Lakshmi. Composed by K.S. Kalidas and R. Jose Franklin, and produced by MP Anand under Freede Film Factory, the film is set to release soon. The poster, showcasing the main characters and a gun, has sparked interest among fans.
 
-இயக்குநர் பிரசாத் முருகன் இயக்கத்தில் உருவாகி இருக்கும் ' ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்'  எனும் திரைப்படத்தில் பரத், ஷான், ராஜாஜி, அபிராமி, அஞ்சலி நாயர், பவித்ரா லக்ஷ்மி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கே. எஸ். காளிதாஸ் மற்றும் ஆர். கண்ணா ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜோஸ் பிராங்கிளின் இசையமைத்திருக்கிறார். கிரைம் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஃபிரைடே பிலிம் ஃபேக்டரி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் கேப்டன் எம்பி ஆனந்த் தயாரித்திருக்கிறார்.
+The second look poster of the film 'Ons Aban A Time in Madras' has been released in the Tamil film industry.
 
-இந்த திரைப்படத்தின் அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருக்கிறது . இந்நிலையில் இப்படத்தின் செகண்ட் லுக் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதில் படத்தில் நடித்திருக்கும் முக்கிய கதாபாத்திரங்களின் தோற்றமும், துப்பாக்கி எனும் ஆயுதமும் இடம் பிடித்திருப்பதால் ரசிகர்களின் கவனத்தை கவர்ந்திருக்கிறது.
+Directed by director Prasad Murugan, 'Ons Aban A Time in Madras', Bharat, Shaun, Rajaji, Abirami, Anjali Nair, Pavithra Lakshmi.
+
+K. S.. Kalidas and R. Jose Franklin has composed the film, which has been recorded by Kanna. The film was produced by producer MP Anand on behalf of Freede Film Factory.
+
+All the tasks of this movie are completed and waiting for the release. In this case, the second look poster of the film has been released. The appearance of the main characters in the film and the weapon of the gun has attracted the attention of the fans.
 
 ◼️
 
 [Data](articles/320ea4cc.json)
+
+[Extended Data](ext_articles/320ea4cc.ext.json)
 
 ---
 
@@ -2061,147 +2177,5 @@ The Acting Police Media Spokesperson DIG Ruwan Gunasekara announced that a speci
 [Data](articles/094ff583.json)
 
 [Extended Data](ext_articles/094ff583.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-08-14 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199911) · `si`
-
-Yesterday, fatal road accidents resulted in the deaths of four individuals across various locations. A lorry collision in Puttalam killed two, injuring one woman who was rushed to Puttalam Hospital. In Milapitiya, a man was killed in another incident. A bus crash near Colombo-Wellawaya Hospital left a woman hospitalized in Tangalle. Additionally, in Batticaloa-Kalmunai, a motorbike accident resulted in the death of a 20-year-old and injuries to two others. Lastly, a motorcyclist was fatally injured after being hit by a lorry in Manampitiya.
-
-🟩
-
-Two persons including two men and women were killed in road accidents in several areas.
-
-Police said that the accidents occurred yesterday (13).
-
-A lorry traveling to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam to Puttalam has accidentally raised.
-
-A woman was injured and admitted to the Puttalam Hospital in rushing at the accident.
-
-The deceased has been identified as 170 years in the Aluthgama area.
-
-Meanwhile, a person was killed and killed in a vehicle in the Milapitiya area in Galankumbura - Ragala road.
-
-The deceased has been identified as a 70 year resident of Morawaka.
-
-Meanwhile, a bus traveling from Matara to Kataragama on the Colombo-Wellawaya Hospital on the Colombo-Wellawaya hospital, a bus to be shipped to the bus and returned to the bus in front of the bus.
-
-The woman, a 41-year-old resident of Beliwatta, was admitted to the Tangalle Hospital.
-
-...
-
-[Data](articles/a6e19911.json)
-
-[Extended Data](ext_articles/a6e19911.ext.json)
-
----
-
-### Fairly heavy showers, strong winds expected in parts of the island
-
-*2024-08-14 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101217/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some places, it said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over the Western slopes of the central hills and in the North-western province and in Ampara, Monaragala and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d519b1c5.json)
-
-[Extended Data](ext_articles/d519b1c5.ext.json)
-
----
-
-### Gazette Release on Tea and Rubber Workers
-
-*2024-08-14 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191036) · `ta`
-
-The Gazette Notice for Tea and Rubber Workers, issued by the Salary Standing Board, announces a base salary of 1350 rupees plus a production promotion pay of 350 rupees.
-
-🟩
-
-The Gazette Notice of Tea and Rubber Workers has been issued by the Salary Standing Board.
-
-According to the Gazette, the base salary will be given 1350 rupees and the production promotion pay will be paid 350 rupees.
-
-◼️
-
-[Data](articles/f1209c32.json)
-
-[Extended Data](ext_articles/f1209c32.ext.json)
-
----
-
-### Gazette issued stipulating daily wage of plantation workers
-
-*2024-08-14 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101216/gazette-issued-stipulating-daily-wage-of-plantation-workers-) · `en`
-
-The Wages Board has issued a Gazette stipulating Rs. 1,350 as the daily wage and a productive incentive of Rs. 350 for tea and rubber sector workers.
-
-The Gazette, signed by the chairman of the Wages Board, H.K.K.A. Jayasundara, states that the daily minimum wage for plantation workers is set at Rs.1, 350 and this wage is to be paid subjected to the payments for the Employees Provident Fund (EPF) and Employees’ Trust Fund (ETF), as mentioned in the Gazette notification.
-
-Additionally, the chairman of the Wages Board has indicated in the Gazette that any objections to these proposals must be submitted to him before 12 noon on August 28, accompanied by a statement explaining the reasons for the objections.
-
-◼️
-
-[Data](articles/1e28b6f7.json)
-
-[Extended Data](ext_articles/1e28b6f7.ext.json)
-
----
-
-### Salary of Rs 1,700: There is no gazette in Tamil
-
-*2024-08-14 07:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ1-700-சம்பளம்-தமிழில்-வர்த்தமானி-இல்லை/175-342132) · `ta`
-
-A new gazette notification increases plantation workers' daily wage from Rs 1,350 to Rs 1,700, with the option for a production-based promotion allowance. However, this notification is only available in English and Sinhala, not in Tamil, causing confusion among Tamil-speaking workers who seek clarity in their native language.
-
-🟩
-
-Another gazette notification has been released by the daily salary of plantation workers to Rs 1,700.
-
-The Gazette Notification has been released by the Commissioner of Labor MKKS Jayasundara. This gazette notification has been released only in English and Sinhala languages. The Tamil Language Gazette has not yet been issued on the website of the Government Press Department (Wednesday (14) until 9.45 am).
-
-Accordingly, 1,350 rupees as a daily basis and Rs 1,700 as a production -based promotion allowance.
-
-If any objections to the gazette notification are found, it has been announced to be submitted before 12 noon on the 28th.
-
-Plantation workers in both Sinhala and English. The workers are of the opinion that it can be fully understood if it is in Tamil.(a)
-
-◼️
-
-[Data](articles/02e6f15a.json)
-
-[Extended Data](ext_articles/02e6f15a.ext.json)
-
----
-
-### 1,700 rupees salary: Gazette released
-
-*2024-08-14 07:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-வர்த்தமானி-வெளியானது/175-342132) · `ta`
-
-Plantation workers' daily wage increased to Rs 1,700, including a production-based promotion allowance of Rs 350. Objections must be submitted by 12 noon on the 28th.
-
-🟩
-
-Another gazette notification has been released by the daily salary of plantation workers to Rs 1,700.
-
-Accordingly, 1,350 rupees as a daily basis and Rs 1,700 as a production -based promotion allowance.
-
-If any objections to the gazette notification are found, it has been announced to be submitted before 12 noon on the 28th of this month.. (A)
-
-◼️
-
-[Data](articles/3fc80b10.json)
-
-[Extended Data](ext_articles/3fc80b10.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 03:55:03**
+As of **2024-08-15 04:08:00**
 
 ## Newspaper Stats
 
-*Scraped **40,783** Articles*
+*Scraped **40,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 379
 colombotelegraphcom | 391
 islandlk | 2,354
 economynextcom | 2,476
-dailyftlk | 2,626
+dailyftlk | 2,630
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
@@ -26,11 +26,83 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,783 (100.0%) of 40,783 articles have been extended.
+40,783 (100.0%) of 40,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### AICPA-CIMA’s CGMA Leadership Academy shapes future accounting, finance, and business leaders
+
+*2024-08-15 03:53:07* · [`dailyftlk`](https://www.ft.lk/business/AICPA-CIMA-s-CGMA-Leadership-Academy-shapes-future-accounting-finance-and-business-leaders/34-765545) · `en`
+
+Fourth edition of flagship leadership program is set to return to Kuala Lumpur in October 2024
+
+The world’s premier finance and accounting body, AICPA-CIMA, together as the Association of International Certified Professional Accountants, will host the fourth edition of their flagship leadership program, the CGMA Leadership Academy, in Kuala Lumpur, Malaysia, from 7-10 October under the theme “Transformative Leadership for a Sustainable Future.”
+
+Over four days, Chartered Global Management Accountants (CGMA designation holders) will have access to curated content, high-profile speakers, live case study discussions, and knowledge-sharing roundtables on topics such as ‘ESG and business sustainability’, ‘digital transformation and AI’, ‘effective communication and interpersonal skills’, and ‘leadership and fostering resilience’.
+
+...
+
+[Data](articles/6c70e01e.json)
+
+---
+
+### Blast in container ship: Cause to be determined after thorough probe says Harbour Master
+
+*2024-08-15 03:47:18* · [`dailyftlk`](https://www.ft.lk/business/Blast-in-container-ship-Cause-to-be-determined-after-thorough-probe-says-Harbour-Master/34-765544) · `en`
+
+Colombo port and JCT back to business as usual since no damage caused to machinery or equipment
+
+The cause of the recent blast aboard the container vessel MV MSC CAPETOWN III at the Port of Colombo will be determined following comprehensive investigations.
+
+The explosion, which occurred on 11 August at around 0030 hours near the Bay 42 area of the vessel which was berthed at JCT4, led to an immediate evacuation of all operations staff and crew members from the affected area of the vessel.
+
+Harbour Master Capt. Nirmal Silva reassured that the fire, which followed the blast, did not cause any damage to the machinery or equipment at the Jaya Container Terminal (JCT).
+
+“The extent of the damage to the cargo and the overall findings will depend on the investigations, which may also involve the expertise of foreign specialists. There will be a report for each affected container,” Capt. Silva told the Daily FT.
+
+...
+
+[Data](articles/7c323bf2.json)
+
+---
+
+### David Pieris Automobiles opens pre-bookings for NETA electric SUVs
+
+*2024-08-15 03:42:47* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Automobiles-opens-pre-bookings-for-NETA-electric-SUVs/34-765543) · `en`
+
+David Pieris Automobiles Ltd. (DPA) has announced the opening of pre-bookings for NETA, the electric and innovative vehicle, for permit holders.
+
+This intelligent and affordable electric vehicle, backed by the trusted David Pieris Group, will soon make its debut on Sri Lankan roads in two models: the NETA X (SUV) and the NETA Aya (Crossover).
+
+DPA recently entered into a strategic partnership with Hozon New Energy Automobile Co., Ltd. for the localised production and distribution of NETA electric vehicles in Sri Lanka. This collaboration marks a significant milestone, representing NETA’s first assembly project in South Asia and affirming DPA’s strong presence and expertise in the Local Value Addition (LVA) sector.
+
+The NETA X boasts an impressive driving range of 500 km (NEDC) and delivers a maximum power output of 163 PS (120 kW). It is equipped with an advanced driver assistance system (ADAS) to enhance safety and convenience.
+
+...
+
+[Data](articles/4439189d.json)
+
+---
+
+### Litro expands supply and distribution network
+
+*2024-08-15 03:35:30* · [`dailyftlk`](https://www.ft.lk/business/Litro-expands-supply-and-distribution-network/34-765542) · `en`
+
+Chairman and CEO Muditha Peiris (centre) with Sales and Marketing/Corporate Affairs Director Janaka Pathirathna (left)
+
+Litro Gas Lanka, Sri Lanka’s leading LPG provider, has announced significant developments in its supply and distribution network. The company has undertaken a series of strategic initiatives aimed at enhancing the accessibility and reliability of LPG services across the country.
+
+As per the Sales and Marketing Plans for 2024, areas are identified for supplier and distribution expansion.
+
+The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and Navalady-Batticaloa have been refurbished, featuring new office infrastructure and an expanded vehicle fleet. These upgrades are set to improve the quality of service and delivery efficiency.
+
+...
+
+[Data](articles/f97d3abc.json)
+
+---
 
 ### Governance and economy: Inseparable twins
 
@@ -2149,99 +2221,5 @@ Party secretary Nihal Premakumara Deshapriya handed over the bond on behalf of J
 [Data](articles/2e4c2c01.json)
 
 [Extended Data](ext_articles/2e4c2c01.ext.json)
-
----
-
-### 40 candidates for presidential election
-
-*2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199925) · `si`
-
-40 candidates have been nominated for the 2024 presidential election, with deposit payments made from July 26 to August 14. The nomination acceptance process will occur on August 15 at the Elections Commission, which has declared the area a special security zone during this period.
-
-🟩
-
-The 2024 deposits were placed on 40 candidates for the presidential election.
-
-The bailout of the presidential election began on July 26, completed today (14).
-
-The acceptance of nominations pertaining to the Presidential election will take place tomorrow (15) at the Elections Commission.
-
-The area is announced as a special security zone, located in the Election Commission within the time period.
-
-◼️
-
-[Data](articles/09dfc51a.json)
-
-[Extended Data](ext_articles/09dfc51a.ext.json)
-
----
-
-### Alliance coming from the leadership of Anura Priyadarshana
-
-*2024-08-14 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199924) · `si`
-
-Anura Priyadarshana Yapa leads the General United Front, an alliance between the Sri Lanka Freedom Party and the New UPFA. Lasantha Alagiyawanna serves as its treasurer and general secretary. The alliance includes several other parties and groups, with Nimal Lansa among them. A leadership council headed by Nimal Siripala de Silva and comprising 21 members of the SLFP has been formed. This coalition aims to compete in upcoming elections.
-
-🟩
-
-The Sri Lanka Freedom Party and the New UPFA were allied as the General United Front.
-
-Former Minister Anura Priyadarshana Yapa has been captained its leadership.
-
-Lasantha Alagiyawanna was also appointed as Treasurer as its general secretary.
-
-The UPFA and several other parties and groups, including the Sri Lanka Freedom Party, Nimal Lansa, was partnered by several other parties and groups in Colombo today (14).
-
-The Alliance (SLFP) Treasurer, State Minister Lasantha Alagiyawanna was published by Hon.
-
-The Alliance has also appointed a leadership council of Nimal Siripala de Silva and 21 members of the SLFP.
-
-The new alliance is to contest for the post elections under the chair.
-
-◼️
-
-[Data](articles/82e6914f.json)
-
-[Extended Data](ext_articles/82e6914f.ext.json)
-
----
-
-### Janaka Ratnayake paid control
-
-*2024-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191075) · `ta`
-
-Janaka Ratnayake, ex-Chairman of the Public Utilities Commission, will run for president in 2024 under the United Lanka Podujana Party banner. The party secretary, Nihal Premakumara, was recently controlled by the Election Commission in Rajagiriya on Ratnayake's behalf.
-
-🟩
-
-Former Chairman of the Public Utilities Commission Janaka Ratnayake has paid control to contest the presidential election.
-
-Janaka Ratnayake will contest the 2024 presidential election as the presidential candidate of the United Lanka Podujana Party.
-
-It is noteworthy that the party secretary Nihal Premakumara has been controlled by the Election Commission in Rajagiriya on behalf of Janaka Ratnayake.
-
-◼️
-
-[Data](articles/eebbb563.json)
-
-[Extended Data](ext_articles/eebbb563.ext.json)
-
----
-
-### The time to deposit the bail
-
-*2024-08-14 12:57:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කරන්න-දුන්-කාලය-අවසන්/11-411368) · `si`
-
-The deadline for posting bail in 2024 has passed.
-
-🟩
-
-The time given to hand over the bail for the last 2024 is over.
-
-◼️
-
-[Data](articles/5616d643.json)
-
-[Extended Data](ext_articles/5616d643.ext.json)
 
 ---

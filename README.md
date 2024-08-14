@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 16:08:40**
+As of **2024-08-14 16:20:58**
 
 ## Newspaper Stats
 
-*Scraped **40,714** Articles*
+*Scraped **40,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,36 @@ adalk | 3,745
 dailymirrorlk | 4,733
 adaderanalk | 4,749
 tamilmirrorlk | 5,193
-virakesarilk | 6,448
+virakesarilk | 6,450
 adaderanasinhalalk | 6,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,713 (100.0%) of 40,714 articles have been extended.
+40,714 (100.0%) of 40,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### வேட்பு மனுவில் விஜயதாச கையொப்பம்
+### Vijayadasa signature on the nomination
 
 *2024-08-14 15:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-விஜயதாச-கையொப்பம்/175-342168) · `ta`
 
-நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கான வேட்பு மனுவில் முன்னாள் நீதியமைச்சர் விஜயதாச ராஜபக்ஷ சற்று முன்னர் கையொப்பமிட்டார்.
+Vijayadasa Rajapaksa, former Justice Minister, filed his nomination for the upcoming presidential election at his home in Nawala, Colombo, with blessings from Sarvamadam leaders.
 
-இது தொடர்பான  நிகழ்வு  கொழும்பு நாவலாவில் உள்ள அவரது இல்லத்தில்  நடைபெற்றது. இதன்போது சர்வமத தலைவர்கள் கலந்துக்கொண்டு ஆசிர்வதித்tதுள்ளனர் .
+🟩
+
+Former Justice Minister Vijayadasa Rajapaksa signed a short time in a nomination papers to contest the upcoming presidential election.
+
+The event was held at his residence in Nawala, Colombo. Sarvamadam leaders attended and blessed.
 
 ◼️
 
 [Data](articles/75354469.json)
+
+[Extended Data](ext_articles/75354469.ext.json)
 
 ---
 
@@ -80,6 +86,22 @@ President Ranil Wickremesinghe signed his nomination papers today (14) to contes
 
 ---
 
+### விஷ்ணு விஷால் வழங்கும் 'ஹாட் ஸ்பாட் 2'
+
+*2024-08-14 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191084) · `ta`
+
+இயக்குநர் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகும் 'ஹாட்.ஸ்பாட் 2' திரைப்படத்தை நடிகர் விஷ்ணு விஷால் வழங்குகிறார். இதற்கான அதிகாரப்பூர்வ அறிவிப்பு பிரத்யேக காணொளியாக வெளியிடப்பட்டிருக்கிறது.
+
+கலையரசன், சோபியா, கௌரி கிஷன், ஆதித்யா பாஸ்கர், அம்மு அபிராமி சாண்டி மாஸ்டர், ஜனனி ஆகியோர் நடிப்பில் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகி இந்த ஆண்டு மார்ச் மாதம் வெளியான திரைப்படம் 'ஹாட் ஸ்பாட்'. இந்த திரைப்படத்தின் முன்னோட்டம் வெளியாகி கண்டனங்களையும், சர்ச்சைகளையும் ஏற்படுத்தியது.
+
+அதன் பிறகு இந்த திரைப்படம் பட மாளிகைக்கான ரசிகர்கள் மற்றும் டிஜிட்டல் தள ரசிகர்களின் ஏகோபித்த வரவேற்பை பெற்று வணிக ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியை பெற்றது. இதனைத் தொடர்ந்து இப்படத்தின் அடுத்த பாகம் எப்போது வெளியாகும்? என்ற கேள்வியும் எழுந்தது.
+
+...
+
+[Data](articles/2fd54f95.json)
+
+---
+
 ### Child killed in accident; 12 injured
 
 *2024-08-14 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குழந்தை-பலி-12-பேருக்கு-காயம்/175-342167) · `ta`
@@ -99,6 +121,24 @@ The accident occurred when the tire of the vehicle traveling from Mattala to Kot
 [Data](articles/519eb7d0.json)
 
 [Extended Data](ext_articles/519eb7d0.ext.json)
+
+---
+
+### பரத் நடிக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' படத்தின் செகண்ட் லுக் போஸ்டர் வெளியீடு
+
+*2024-08-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191091) · `ta`
+
+தமிழ் திரையுலகில் சந்தை மதிப்புள்ள நட்சத்திர நடிகரான பரத் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்' எனும் படத்தின் செகண்ட் லுக் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் பிரசாத் முருகன் இயக்கத்தில் உருவாகி இருக்கும் ' ஒன்ஸ் அபான் எ டைம் இன் மெட்ராஸ்'  எனும் திரைப்படத்தில் பரத், ஷான், ராஜாஜி, அபிராமி, அஞ்சலி நாயர், பவித்ரா லக்ஷ்மி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கே. எஸ். காளிதாஸ் மற்றும் ஆர். கண்ணா ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜோஸ் பிராங்கிளின் இசையமைத்திருக்கிறார். கிரைம் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஃபிரைடே பிலிம் ஃபேக்டரி எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் கேப்டன் எம்பி ஆனந்த் தயாரித்திருக்கிறார்.
+
+இந்த திரைப்படத்தின் அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருக்கிறது . இந்நிலையில் இப்படத்தின் செகண்ட் லுக் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதில் படத்தில் நடித்திருக்கும் முக்கிய கதாபாத்திரங்களின் தோற்றமும், துப்பாக்கி எனும் ஆயுதமும் இடம் பிடித்திருப்பதால் ரசிகர்களின் கவனத்தை கவர்ந்திருக்கிறது.
+
+◼️
+
+[Data](articles/320ea4cc.json)
 
 ---
 
@@ -2163,53 +2203,5 @@ If any objections to the gazette notification are found, it has been announced t
 [Data](articles/3fc80b10.json)
 
 [Extended Data](ext_articles/3fc80b10.ext.json)
-
----
-
-### The responsibility of sector corporations
-
-*2024-08-14 07:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்துவது-துறைசார்-நிறுவனங்களின்-பொறுப்பு/175-342131) · `ta`
-
-In July 2022, President Ranil Wickremesinghe emphasized the importance of maintaining law and order ahead of Sri Lanka's presidential election on September 21, 2024. He thanked security personnel for their commitment and highlighted the roles of the Elections Commission and Police Department in ensuring a fair and orderly election.
-
-🟩
-
-President Ranil Wickremesinghe said the people of the country would use their votes to elect the President on September 21, 2024 by striving to uphold law and order in the country in July 2022.
-
-The President expressed his gratitude to all security members who had been committed to that.
-
-The President also pointed out that it was the President of the Elections Commission and the Police Department to ensure law and order and cooperate with the independent election in the country.
-
-President Ranil Wickremesinghe, who participated in the inauguration of the Special Task Force Action Center of the Police Special Task Force. (A)
-
-◼️
-
-[Data](articles/8d67dda0.json)
-
-[Extended Data](ext_articles/8d67dda0.ext.json)
-
----
-
-### Conducting a telephone election is a departmental responsibility
-
-*2024-08-14 07:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேர்தலை-நடத்துவது-துறைசார்ந்த-பொறுப்பு/150-342131) · `ta`
-
-In July 2022, President Ranil Wickremesinghe announced that Sri Lanka's presidential election will be held on September 21, 2024, emphasizing the importance of maintaining law and order. He thanked security personnel for their commitment and highlighted the roles of the Elections Commission and Police Department in ensuring a fair and peaceful election.
-
-🟩
-
-President Ranil Wickremesinghe said the people of the country would use their votes to elect the President on September 21, 2024 by striving to uphold law and order in the country in July 2022.
-
-The President expressed his gratitude to all security members who had been committed to that.
-
-The President also pointed out that it was the President of the Elections Commission and the Police Department to ensure law and order and cooperate with the independent election in the country.
-
-President Ranil Wickremesinghe, who participated in the inauguration of the Special Task Force Action Center of the Police Special Task Force. (A)
-
-◼️
-
-[Data](articles/f70a4d1e.json)
-
-[Extended Data](ext_articles/f70a4d1e.ext.json)
 
 ---

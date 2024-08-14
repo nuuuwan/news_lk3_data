@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 21:56:52**
+As of **2024-08-14 22:10:57**
 
 ## Newspaper Stats
 
-*Scraped **40,758** Articles*
+*Scraped **40,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 390
 islandlk | 2,354
 economynextcom | 2,465
 dailyftlk | 2,625
-adalk | 3,750
+adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,758
 tamilmirrorlk | 5,198
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,758 (100.0%) of 40,758 articles have been extended.
+40,758 (100.0%) of 40,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,22 @@ Speaking, Bangladesh headed was thanked the President's wishes and as soon as th
 [Data](articles/c1cd1dab.json)
 
 [Extended Data](ext_articles/c1cd1dab.ext.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණ තීරණයෙන් බන්දු ලාල්ට තනතුරක්
+
+*2024-08-14 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-තීරණයෙන්-බන්දු-ලාල්ට-තනතුරක්/11-411376) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී මනූෂ නානායක්කාර මහතාගෙන් හිස් වූ පාර්ලිමේන්තු අසුන සඳහා බන්දුල ලාල් බණ්ඩාරිගොඩ මහතා තෝරා පත්කරන ලද බව මැතිවරණ කොමිෂන් සභාව අද(14දා) අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+
+පසුගියදා ලබා දුන් ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග මනූෂ නානායක්කාර මහතාට සහ හරීන් ප්‍රනාන්දු මහතාට පාර්ලිමේන්තු මන්ත්‍රී ධුර අහිමි වූ අතර, ඒ අනුව මෙම පත් කිරීම සිදු කර ඇත.
+
+කෙසේ වෙතත් හරීන් ප්‍රානාන්දු මහතාගේ හිස් වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා පත් කරන්නේ කවුරුන්ද යන්න පිළිබඳ මෙතෙක් අවසන් තීරණයක් ගෙන නොමැති බව පක්ෂ ජ්‍යේෂඨයෙකු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e6973455.json)
 
 ---
 
@@ -2203,27 +2219,5 @@ Accordingly, Namal Rajapaksa declared the name of Mr. Namal Rajapaksa as the pre
 [Data](articles/8f69b9a4.json)
 
 [Extended Data](ext_articles/8f69b9a4.ext.json)
-
----
-
-### Janaka Ratnayake bailed
-
-*2024-08-14 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199918) · `si`
-
-Janaka Ratnayake, contesting for the United Ceylon General Party, was recently bailed. The party's Secretary, Nihal Pre-Dayumara Deshapriya, also received bail. Janaka previously served as the Chairman of the Public Utilities Commission.
-
-🟩
-
-Janaka Ratnayake is contesting for the United Ceylon General Party.
-
-The Secretary of the United Ceylon General Party Secretary Nihal Pre-Dayumara Deshapriya was bailed today (14).
-
-Janaka Ratnayake served as the Chairman of the Public Utilities Commission.
-
-◼️
-
-[Data](articles/f8217cba.json)
-
-[Extended Data](ext_articles/f8217cba.ext.json)
 
 ---

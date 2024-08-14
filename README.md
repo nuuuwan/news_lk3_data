@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 15:21:16**
+As of **2024-08-14 15:36:38**
 
 ## Newspaper Stats
 
-*Scraped **40,706** Articles*
+*Scraped **40,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,117 @@ dailyftlk | 2,625
 adalk | 3,743
 dailymirrorlk | 4,733
 adaderanalk | 4,748
-tamilmirrorlk | 5,190
+tamilmirrorlk | 5,192
 virakesarilk | 6,448
-adaderanasinhalalk | 6,922
+adaderanasinhalalk | 6,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,695 (100.0%) of 40,706 articles have been extended.
+40,706 (100.0%) of 40,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### இரண்டாம் தவணை விடுமுறை குறித்து கல்வி அமைச்சு அறிவிப்பு
+### ජනපති නාමයෝජනා පත්‍රයට අත්සන් තබයි
+
+*2024-08-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199932) · `si`
+
+එළඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (14) පස්වරුවේ සිය නාමයෝජනා පත්‍රයට අත්සන් තැබීය.
+
+◼️
+
+[Data](articles/d39ea49d.json)
+
+---
+
+### விபத்தில் குழந்தை பலி;12 பேருக்கு காயம்
+
+*2024-08-14 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குழந்தை-பலி-12-பேருக்கு-காயம்/175-342167) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் எல்பிட்டிக்கு அருகில் இன்று காலை இடம்பெற்ற விபத்தில் 2 வயது குழந்தை உயிரிழந்துள்ளதுடன் 12 பேர் காயமடைந்துள்ளனர்.
+
+மத்தலயில் இருந்து கொட்டாவ நோக்கி பயணித்த வாகனத்தின் டயர் வெடித்ததால் நெடுஞ்சாலையின் நடுவில் உள்ள பாதுகாப்பு வேலியில் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் 3 குழந்தைகள் உட்பட 12 பேர் காயமடைந்துள்ளனர். காயமடைந்தவர்கள் எல்பிட்டிய வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில், கதிர்காமத்தைச் சேர்ந்த 2 வயது சிறுமி உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/519eb7d0.json)
+
+---
+
+### வேட்பு மனுவில் கையொப்பமிட்டார் ஜனாதிபதி
+
+*2024-08-14 15:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-கையொப்பமிட்டார்-ஜனாதிபதி/175-342166) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கான வேட்பு மனுவில் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் கையொப்பமிட்டார்.
+
+இது தொடர்பான  நிகழ்வு  கொழும்பு பிளவர் வீதியிலுள்ள அவரது அரசியல் அலுவலகத்தில் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/d511fa4c.json)
+
+---
+
+### තායිලන්ත අගමැතිව ධුරයෙන් ඉවත් කිරීමට අධිකරණ නියෝගයක්
+
+*2024-08-14 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199930) · `si`
+
+තායිලන්ත අග්‍රාමාත්‍ය ස්‍රෙතා තවිසින් ව ධුරයෙන් ඉවත් කිරීමට එරට අධිකරණයක් නියෝග කර තිබේ.
+
+ඒ, එරට විනිසුරුවරයෙකුට අල්ලස් දීමට තැත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සිරගතව නිදහස් වූ නීතිඥවරයෙකු කැබිනට් අමාත්‍යවරයෙකු ලෙස පත් කිරීම හේතුවෙනි.
+
+පාර්ලිමේන්තුවෙන් නව අගමැතිවරයෙක් පත් කරන තුරු වත්මන් කැබිනට් මණ්ඩලය ක්‍රියාත්මක වන බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/746e22e1.json)
+
+---
+
+### Ministry of Education on the second installment holiday
 
 *2024-08-14 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191090) · `ta`
 
-இந்த ஆண்டுக்கான இரண்டாம் தவணை பாடசாலை கற்கைகள்  நிறைவடைவது தொடர்பாக கல்வி அமைச்சினால் அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+The Ministry of Education announced the completion of the second installment for this year and confirmed that educational activities for the third term will resume on August 26.
 
-இதேவேளை, மூன்றாம் தவணைக்கான கல்வி செயற்பாடுகள் எதிர்வரும் ஆகஸ்ட் 26ஆம் திகதி மீண்டும் ஆரம்பிக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
+
+The Ministry of Education has issued a notification regarding the completion of the second installment of this year.
+
+Meanwhile, the Ministry of Education said that the educational activities for the third term will be resumed on August 26.
 
 ◼️
 
 [Data](articles/0a9e88ad.json)
 
+[Extended Data](ext_articles/0a9e88ad.ext.json)
+
 ---
 
-### நாமலுக்கு கோட்டா ஆதரவு
+### Kota support for Namal
 
 *2024-08-14 14:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-கோட்டா-ஆதரவு/175-342165) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலை முன்னிட்டு ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுக்கு முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ தனது ஆதரவை வழங்கியுள்ளார்.
+Former President Gotabhaya Rajapakse supports Namal Rajapakse for president, participating in his nomination signing.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவினால் வேட்பு மனுவில் கையொப்பமிடும் நிகழ்வில் கோட்டாபய ராஜபக்ச கலந்துகொண்டார்.
+🟩
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ இன்று காலை கொழும்பு விஜேராமவில் உள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இல்லத்தில் வைத்து வேட்பு மனுவில் கையொப்பமிட்டார்.
+Former President Gotabhaya Rajapakse has given his support to the presidential candidate Namal Rajapakse, the Sri Lanka PA (SLPP), ahead of the upcoming presidential election.
+
+Gotabhaya Rajapaksa participated in the signing of the nomination papers by MP Namal Rajapaksa to contest the upcoming presidential election.
+
+Parliamentarian Namal Rajapaksa signed a nomination papers at the residence of former President Mahinda Rajapaksa in Wijerama, Colombo this morning.
 
 ◼️
 
 [Data](articles/246b41ab.json)
+
+[Extended Data](ext_articles/246b41ab.ext.json)
 
 ---
 
@@ -82,17 +152,23 @@ The Cabinet will remain in place on a caretaker basis until Parliament approves 
 
 ---
 
-### மூன்றாம் தவணை 26 ஆரம்பம்
+### The third term is the beginning of 26
 
 *2024-08-14 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-26-ஆரம்பம்/175-342164) · `ta`
 
-அரச மற்றும் அரசால் அங்கீகரிக்கப்பட்ட தனியார் பாடசாலைகளின் இரண்டாம் தவணை 2024 ஓகஸ்ட் 16,   வெள்ளிக்கிழமையுடன் முடிவடைகிறது.
+The third term in the academic year 2024 begins on August 26th, ending the second phase of private and state-approved private schools on August 16th.
 
-2024 ஆம் ஆண்டிற்கான மூன்றாம் தவணையின் முதல் கட்டம் 2024 ஓகஸ்ட்  26 ஆம் திகதி திங்கள் அன்று ஆரம்பமாகுமென கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
+
+The second installment of private and state -approved private schools ends on August 16, 2024.
+
+The first phase of the third term for 2024 will commence on Monday, August 26, 2024, the Ministry of Education said.
 
 ◼️
 
 [Data](articles/c70997bb.json)
+
+[Extended Data](ext_articles/c70997bb.ext.json)
 
 ---
 
@@ -140,43 +216,63 @@ The first Test between Sri Lanka and England will be held at Manchester on Augus
 
 ---
 
-### 'பாதவத்தி'யை பேசு பொருளாக்கிய மாரி செல்வராஜ்
+### Mari Selvaraj, who made the meaning of 'Padavathi'
 
 *2024-08-14 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191087) · `ta`
 
-இயக்குநர் மாரி செல்வராஜ் இயக்கத்தில் வெளியான 'கர்ணன்' படத்தில் இடம்பெற்ற 'கண்டா வரச் சொல்லுங்க..' என்ற பாடல் மூலம் கதையின் நாயகனுக்கு இசை இலக்கிய வடிவத்தில் உருவகம் கொடுத்த மாரி செல்வராஜ் - சந்தோஷ் நாராயணன் கூட்டணி - மீண்டும் அது போன்றதொரு மாயஜாலத்தை 'வாழை' படத்திலும் நிகழ்த்தி இருக்கிறது.
+Director Mari Selvaraj's song "Kanda Varakkaranga" from "Kanda Varachunga" and "Yapa Nee Padavathi" from "Banana" have gained popularity, blending music and literature. Written by Selvaraj, sung by Jaya Murthy and Meenakshi Ilayaraja, and featuring Santosh Narayan's music, these songs focus on the taste of Avala, resonating with audiences and critics alike. Selvaraj's unique style and contributions to both films have established him as a significant figure in Tamil cinema.
 
-'வாழை' படத்தில் இடம்பெற்ற 'யப்பா நீ போன வழி பாதையில மண்டியிட்ட  பாதவத்தி நா மண்டியிட்ட பாதவத்தி..'  என தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் இணையத்தில் வெளியாகி, இலக்கிய உலகிலும், பொது வெளியிலும், இணைய தலைமுறையினரிடத்திலும் பேசு பொருளாக மாறி இருக்கிறது.
+🟩
+
+The song 'Kanda Varakkaranga ..' directed by director Mari Selvaraj, which was featured in the film 'Kanda Varachunga ..' in the form of music literature, has been performed in the form of music literature - again in the movie 'Banana'.
+
+The song 'Yapa Nee Padavathi Padavathi Na Mandi Mandi Padavathi', which was featured in the film 'Banana', has been released on the Internet and has become a speech in the literary world, public publication and internet generation.
+
+The song is written by director - producer - songwriter Mari Selvaraj and sung by playback singer Jaya Murthy and playback singer Meenakshi Ilayaraja.. The lyrics, which focusing on the taste of Avala, and the enchanting music of Santosh Narayan, are the royal instruments of the royal instruments and the loudest reading of the musical instrument, which is still known as the royal instruments, the song is gaining a huge welcome as fans moisturize their eyes.
 
 ...
 
 [Data](articles/ee90749f.json)
 
+[Extended Data](ext_articles/ee90749f.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்திக்கும் ஐக்கிய குடியரசு முன்னணிக்கும் இடையில் புரிந்துணர்வு  ஒப்பந்தம் கைச்சாத்து
+### Memorandum of Understanding (MoU
 
 *2024-08-14 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191089) · `ta`
 
-ஐக்கிய மக்கள் சக்திக்கும் ஐக்கிய குடியரசு முன்னணிக்கும் இடையிலான புரிந்துணர்வு  ஒப்பந்தம் இன்று புதன்கிழமை (14) கைச்சாத்திடப்பட்டுள்ளது.
+The United People's Power and the United Republic of India have signed a Memorandum of Understanding today (14).
+
+🟩
+
+A Memorandum of Understanding (MoU) between the United People's Power and the United Republic of India has signed today (14).
 
 ◼️
 
 [Data](articles/20e872ad.json)
 
+[Extended Data](ext_articles/20e872ad.ext.json)
+
 ---
 
-### முச்சக்கர வண்டி - வேன் மோதி விபத்து ; இருவர் படுகாயம்
+### Three -wheeler - van collisionTwo injured
 
 *2024-08-14 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191083) · `ta`
 
-முச்சக்கர வண்டியுடன் வேன் மோதி விபத்துக்குள்ளாகியுள்ளானதில்  இருவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக இரட்டைபெரியகுளம் பொலிஸார் தெரிவித்தனர்.
+In a collision between a van and a three-wheeler near Vavuniya, two individuals were seriously injured and rushed to the hospital. The accident occurred as one vehicle was heading towards Anuradhapura while the other was returning from there.
 
-அநுராதபுரத்தில் இருந்து வவுனியா நோக்கி பயணித்த வேன் ஒன்று, வவுனியாவில் இருந்து அநுராதபுரத்தை நோக்கி பயணித்த முச்சக்கரவண்டியுடன் மோதியே குறித்த விபத்து இடம்பெற்றுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
+
+Two persons have been admitted to the Vavuniya Hospital after being injured when a van collided with a three -wheeler
+
+A van traveling from Anuradhapura to Vavuniya has collided with a three -wheeler traveling from Vavuniya to Anuradhapura, police said.
 
 ◼️
 
 [Data](articles/a1a5598b.json)
+
+[Extended Data](ext_articles/a1a5598b.ext.json)
 
 ---
 
@@ -236,19 +332,25 @@ During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced 
 
 ---
 
-### யாழ். சேந்தாங்குளத்தில் மோதல் ; வாடிகள் , படகுகளுக்கு தீ வைப்பு
+### Yall. Conflict in Chendangulam;Watters, fire to boats
 
 *2024-08-14 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191082) · `ta`
 
-சேந்தாங்குளம் கடற்கரையில் நேற்று செவ்வாய்க்கிழமை (13) இரவு இரு குழுக்களுக்கு இடையில் ஏற்பட்ட வாய்த்தர்க்கம் மோதலாக மாறியதை அடுத்து, கடற்கரையில் இருந்த மீன் வாடி மற்றும் படகுகளுக்கு தீ வைக்கப்பட்டுள்ளது.
+A clash in Chendangulam led to fires on boats and the beach, causing panic among locals. The incident was reported to the Ilavalai police, who are investigating. Both conflicting parties have fled the scene.
 
-படகுகள் மற்றும் வாடிகளுக்கு தீ வைக்கப்பட்டதை அடுத்து , ஊரவர்கள் ஒன்று கூடி , தீயினை அனைத்ததுடன் , சம்பவம் தொடர்பில் இளவாலை பொலிஸாருக்கு அறிவித்தனர்.
+🟩
 
-மோதலில் ஈடுபட்ட  இரு தரப்பினரும் தப்பி சென்றுள்ள நிலையில், பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Fishing and boats on the beach have been set on fire after a clash between two groups in the Senthangulam beach last night (13).
+
+Following the setting of boats and waters, the townspeople gathered together and informed the Ilavalai police in connection with the incident.
+
+Police are conducting investigations as the two sides involved in the clash have fled.
 
 ◼️
 
 [Data](articles/236d57a9.json)
+
+[Extended Data](ext_articles/236d57a9.ext.json)
 
 ---
 
@@ -362,39 +464,57 @@ Accordingly, 37 complaints related to election law violations and 03 other compl
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-14 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191076) · `ta`
 
-இன்று புதன்கிழமை (ஆகஸ்ட் 14) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா  294.5495ஆகவும் விற்பனை விலை ரூபா  303.8200  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+As of August 14, the US dollar is valued at 294.5495 according to the latest exchange rates announced by the Central Bank.
+
+🟩
+
+The US dollar purchasing price was 294.5495 based on the currency exchange rate released today (August 14) at the Central Bank.
 
 ◼️
 
 [Data](articles/9a96031f.json)
 
+[Extended Data](ext_articles/9a96031f.ext.json)
+
 ---
 
-### வேட்புமனுவில் கையெழுத்திட்டார்  நாமல்
+### Namal signed the nomination
 
 *2024-08-14 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191078) · `ta`
 
-2024 ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ வேட்புமனு பத்திரத்தில் கைச்சாத்திட்டார்.
+Namal Rajapaksa, PA's presidential candidate, has officially signed his nomination papers to run in the 2024 presidential election.
+
+🟩
+
+PA's presidential candidate Namal Rajapaksa signed the nomination papers to contest the 2024 presidential election.
 
 ◼️
 
 [Data](articles/92ba71ff.json)
 
+[Extended Data](ext_articles/92ba71ff.ext.json)
+
 ---
 
-### வேட்புமனுவில் கையெழுத்திட்டார் விஜயதாச ராஜபக்ஷ
+### Vijayadasa Rajapaksa signed the nomination
 
 *2024-08-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191071) · `ta`
 
-2024 ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக பாராளுமன்ற உறுப்பினர் விஜயதாச ராஜபக்ஷ தேசிய ஜனநாயக முன்னணி சார்பில் ஜனாதிபதி வேட்பாளராக போட்டியிடுகின்றமை குறிப்பிடத்தக்கது.
+MP Vijayadasa Rajapaksa, representing the National Democratic Front, has officially nominated himself for the 2024 presidential election.
+
+🟩
+
+It is noteworthy that MP Vijayadasa Rajapakse is contesting on behalf of the National Democratic Front to contest the 2024 presidential election.
 
 ◼️
 
 [Data](articles/1d349e4d.json)
+
+[Extended Data](ext_articles/1d349e4d.ext.json)
 
 ---
 
@@ -472,19 +592,25 @@ The new alliance is to contest for the post elections under the chair.
 
 ---
 
-### கட்டுப்பணம் செலுத்தினார் ஜனக ரத்நாயக்க
+### Janaka Ratnayake paid control
 
 *2024-08-14 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191075) · `ta`
 
-பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் முன்னாள் தலைவர் ஜனக ரத்நாயக்க ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக கட்டுப்பணத்தை செலுத்தியுள்ளார்.
+Janaka Ratnayake, ex-Chairman of the Public Utilities Commission, will run for president in 2024 under the United Lanka Podujana Party banner. The party secretary, Nihal Premakumara, was recently controlled by the Election Commission in Rajagiriya on Ratnayake's behalf.
 
-2024 ஜனாதிபதி தேர்தலில் எக்சத் லங்கா பொதுஜனவின் (United Lanka Podujana Party) ஜனாதிபதி வேட்பாளராக ஜனக ரத்நாயக்க போட்டியிடவுள்ளார்.
+🟩
 
-ஜனக ரத்நாயக்கவின் சார்பில் கட்சியின் செயலாளர் நிஹால் பிரேமகுமார தேசப்பிரிய இராஜகிரியவிலுள்ள தேர்தல் ஆணைக்குழுவில் கட்டுப்பணத்தை செலுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+Former Chairman of the Public Utilities Commission Janaka Ratnayake has paid control to contest the presidential election.
+
+Janaka Ratnayake will contest the 2024 presidential election as the presidential candidate of the United Lanka Podujana Party.
+
+It is noteworthy that the party secretary Nihal Premakumara has been controlled by the Election Commission in Rajagiriya on behalf of Janaka Ratnayake.
 
 ◼️
 
 [Data](articles/eebbb563.json)
+
+[Extended Data](ext_articles/eebbb563.ext.json)
 
 ---
 
@@ -2093,103 +2219,5 @@ The Chairman of the Stabile Control will further stated in the gazette notificat
 [Data](articles/5517cfe7.json)
 
 [Extended Data](ext_articles/5517cfe7.ext.json)
-
----
-
-### Will he loses the presidential election to Ranil Wickremesinghe?
-
-*2024-08-14 06:41:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c79w88q8yndo) · `si`
-
-A fundamental rights petition has been filed against President Ranil Wickremesinghe, accusing him of constitutional violations and seeking to prevent his candidacy in the upcoming presidential election. The petitioner demands the appointment of a functioning Inspector General of Police and alleges misuse of power. The case highlights concerns over presidential authority and the potential impact on the election outcome.
-
-🟩
-
-Will he loses the presidential election to Ranil Wickremesinghe?
-
-A lawyer has presented a fundamental rights petition for the Supreme Court demanding a decision to promote the inappropriate President Ranil Wickremesinghe as a candidate in the next presidential election.
-
-The petitioner has accused the President of the President as a candidate for presidential election, as the President is intentionally violated.
-
-The petitioner has demanded further reveal to the presence of Ranil Wickremesinghe as a candidate in the presidential election on September 21.
-
-The petitioner has presented these fundamental rights petition to issue an order to appoint a working IGP for the Police Department.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, the Attorney General and the Attorney General have been named as the respondents of the petition.
-
-The petitioner claims that the President has been sworn in as the President under Article 30 (1) of the Constitution.
-
-...
-
-[Data](articles/450bf003.json)
-
-[Extended Data](ext_articles/450bf003.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-08-14 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199906) · `si`
-
-The Department of Meteorology warns of showers and thundershowers across the Western, Sabaragamuwa Provinces, and Galle/Matara districts, with heavy rainfall possible. Thundershowers expected in the evening/night, strong winds and lightning risks advised.
-
-🟩
-
-The Department of Meteorology announces that showers or thundershowers will occur at times in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
-
-Thundershowers will develop at several places in the evening or night during the evening or night.
-
-Some areas are mm. Strong rain can be over 50.
-
-At times, there is now from time to time in the central hills, in the central hills and Ampara, Moneragala and Hambantota districts.. Strong winds can occur 30-40 times.
-
-The public is kindly requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7d1fcd55.json)
-
-[Extended Data](ext_articles/7d1fcd55.ext.json)
-
----
-
-### AKD denounces political culture of crossovers and media manipulation
-
-*2024-08-14 03:26:14* · [`dailyftlk`](https://www.ft.lk/news/AKD-denounces-political-culture-of-crossovers-and-media-manipulation/56-765516) · `en`
-
-NPP Presidential candidate Anura Kumara Dissanayake expresses belief elections will not be free and fair but says party is determined to represent people in democratic manner
-
-Accuses some media organisations of promoting their preferred candidates ahead of elections
-
-Says those who continue to speak of 88/89 are not doing so with genuine intent but as an excuse to not support NPP
-
-On possible threats to his life, Dissanayake says such concerns being raised is proof SL indicates lack of democratic environment
-
-National People’s Power (NPP) Presidential candidate Anura Kumara Dissanayake has said while his party has employed a systematic and robust approach to election propaganda and public awareness, other parties have exploited the political culture of crossovers to advance their agendas.
-
-...
-
-[Data](articles/91c8cb98.json)
-
-[Extended Data](ext_articles/91c8cb98.ext.json)
-
----
-
-### Pro-RW Pohottuwa faction forms new alliance
-
-*2024-08-14 03:24:54* · [`dailyftlk`](https://www.ft.lk/news/Pro-RW-Pohottuwa-faction-forms-new-alliance/56-765515) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) MPs who have pledged their support to President Ranil Wickremesinghe have formed a new political alliance.
-
-The formation of the alliance was announced by State Minister Premitha Bandara Tennekoon yesterday. He also revealed that Minister Dr. Ramesh Pathirana will serve as the General Secretary of the new alliance.
-
-Addressing the media in Colombo, Tennekoon said that the goal is to form a broad alliance comprising a majority of MPs from the SLPP Parliamentary group. He announced that the work of the alliance will commence in the next few days.
-
-He noted that discussions had taken place and decisions were made regarding the office bearers. He also emphasised that the group is united and has no disagreements about the decisions that were made.
-
-...
-
-[Data](articles/69f9b190.json)
-
-[Extended Data](ext_articles/69f9b190.ext.json)
 
 ---

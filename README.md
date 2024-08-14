@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 11:21:26**
+As of **2024-08-14 11:36:42**
 
 ## Newspaper Stats
 
-*Scraped **40,650** Articles*
+*Scraped **40,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 2,625
 adalk | 3,738
 dailymirrorlk | 4,733
 adaderanalk | 4,740
-tamilmirrorlk | 5,178
+tamilmirrorlk | 5,179
 virakesarilk | 6,432
-adaderanasinhalalk | 6,911
+adaderanasinhalalk | 6,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,647 (100.0%) of 40,650 articles have been extended.
+40,650 (100.0%) of 40,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### වැඩබලන පොලිස්පතිවරයෙකු පත්කරන්නැයි ඉල්ලා FR පෙත්සමක්
+
+*2024-08-14 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199920) · `si`
+
+වැඩබලන පොලිස්පතිවරයෙකු පත්කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් වුණි.
+
+එහි වගඋත්තරකරුවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හා නීතිපතිවරයා නම් කර තිබේ.
+
+◼️
+
+[Data](articles/60cf7ae0.json)
+
+---
+
+### නාමල් රාජපක්ෂ නාමයෝජනා පත්‍රයට අත්සන් තබයි
+
+*2024-08-14 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199919) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා නාමයෝජනා පත්‍රයට අත්සන් තබා තිබේ.
+
+මහින්ද රාජපක්ෂ මහතාගේ විජේරාමයේ පිහිටි නිවසේ දී නාමල් රාජපක්ෂ මහතා එලෙස නාමයෝනා පත්‍රයට අත්සන් තැබීය.
+
+මේ අතර අද (14) උදෑසන ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කෙරුණි.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට එළැඹෙන ජනාධිපතිවරණයේදී සහාය ලබා දෙතැයි ආරම්භයේදී අපේක්ෂා කෙරිණි.
+
+නමුත් එම පක්ෂයේ කිහිපදෙනෙකුගේ ස්ථාවරය වූයේ ජනාධිපතිවරණ අපේක්ෂකයෙක් පක්ෂයෙන් ඉදිරිපත් කළ යුතු බවය.
+
+එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ව්‍යාපාරික ධම්මික පෙරේරා මහතා පවසා සිටියේ පක්ෂය තමාට අපේක්ෂකත්වය ලබා දෙන්නේ නම් ඔහු එය භාරගැනීමට සූදානම් බවයි.
+
+නමුත් ඒ මහතා තමා ජනාධිපතිවරණයට ඉදිරිපත් නොවන බව දන්වමින් ශ්‍රී ලංකා පොදුජන පෙරමුණට ලිපියක් යොමුකර ඇති බව අගෝස්තු 06 වනදා වාර්තා වුණි.
+
+ඒ අනුව පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා ලෙස නාමල් රාජපක්ෂ මහතාගේ නම අගෝස්තු 7 වෙනිදා ප්‍රකාශයට පත් කළේය.
+
+◼️
+
+[Data](articles/8f69b9a4.json)
+
+---
+
+### ජනක රත්නායක ට ඇප තියයි
+
+*2024-08-14 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199918) · `si`
+
+එක්සත් ලංකා පොදුජන පක්ෂය වෙනුවෙන් ජනක රත්නායක මහතා මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත්වෙයි.
+
+ඒ මහතා වෙනුවෙන් එක්සත් ලංකා පොදුජන පක්ෂයේ ලේකම් නිහාල් ප්‍රේම කුමාර දේශප්‍රිය විසින් අද (14) ඇප තැන්පත් කරනු ලැබීය.
+
+ජනක රත්නායක මහතා කලක් මහජන උපයෝගීතා කොමිසමේ සභාපති ලෙස කටයුතු කළේය.
+
+◼️
+
+[Data](articles/f8217cba.json)
+
+---
 
 ### Namal Rajapaksa signs nominations for Presidential Election
 
@@ -41,6 +97,8 @@ The presidential candidate of the Sri Lanka Podujana Peramuna (SLPP), MP Namal R
 ◼️
 
 [Data](articles/ba7fc863.json)
+
+[Extended Data](ext_articles/ba7fc863.ext.json)
 
 ---
 
@@ -53,6 +111,8 @@ Former Justice Minister Dr. Wijeyadasa Rajapakshe has signed his nomination pape
 ◼️
 
 [Data](articles/1f1abacb.json)
+
+[Extended Data](ext_articles/1f1abacb.ext.json)
 
 ---
 
@@ -75,6 +135,8 @@ Dilshan announced his retirement from Test cricket on 9 October 2013. He retired
 ...
 
 [Data](articles/98d4d05f.json)
+
+[Extended Data](ext_articles/98d4d05f.ext.json)
 
 ---
 
@@ -171,6 +233,22 @@ Further, the official announcement of the presidential election dates will be ma
 [Data](articles/814a883c.json)
 
 [Extended Data](ext_articles/814a883c.ext.json)
+
+---
+
+### தபால் மூல வாக்களிப்பு திகதிகளை மறுத்தது ஆணைக்குழு
+
+*2024-08-14 10:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-திகதிகளை-மறுத்தது-ஆணைக்குழு/175-342145) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தபால் மூல வாக்குகளை பதிவு செய்தல்   தொடர்பில் ஊடகங்களில் திகதிகள் குறிப்பிடப்பட்டுள்ளது.
+
+இது,  தேர்தல் ஆணையத்தின் உத்தியோகபூர்வ அறிவிப்பு அல்ல என தேர்தல் ஆணையகம் தெரிவித்துள்ளது.
+
+மேலும், ஜனாதிபதி தேர்தல் திகதிகள் தொடர்பிலான உத்தியோகபூர்வ அறிவிப்பு விரைவில் விடுக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது,
+
+◼️
+
+[Data](articles/e43c3a7e.json)
 
 ---
 
@@ -344,7 +422,17 @@ The security force presidential candidate entrepreneur, Dilith Jayaweera has sig
 
 The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera has signed his nomination papers to contest the upcoming Presidential Election scheduled for September 21.
 
-◼️
+The signing of the nomination papers was carried out at Mawbima Janatha Party (MJP) head office in Borella.
+
+The party leaders of the ‘Sarvajana Balaya’ alliance, Vasudeva Nanayakkara, D. E. W. Gunasekera, Wimal Weerawansa, Udaya Gammanpila, Gevindu Kumarathunga were present at the occasion.
+
+He will contest the 2024 presidential election from the ‘Sarvajana Balaya’ alliance under the symbol of the ‘Star’.
+
+On August 04, executive member of ‘Sarvajana Balaya’ MP Wimal Weerawansa announced Jayaweera as the Presidential Candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
+
+Meanwhile, the security deposit was placed at the Election Commission yesterday (13) for Dilith Jayaweera to contest the upcoming Presidential Election.
+
+...
 
 [Data](articles/64c4398e.json)
 
@@ -616,7 +704,13 @@ The security deposit has been placed for the presidential candidate of the Sri L
 
 SLPP General Secretary Sagara Kariyawasam has placed the deposit on behalf of Namal Rajapaksa at the Election Commission this morning (14).
 
-◼️
+“The security deposit was placed at the auspicious moment, marking another step forward in the journey to victory. We will ensure that Namal Rajapaksa will be sworn in as the ninth President by September 22. After the nominations are handed over tomorrow, the election campaign will begin immediately,” said Sagara Kariyawasam.
+
+The SLPP officially announced its National Organiser, MP Namal Rajapaksa, as the party’s candidate for the upcoming Presidential Election on August 07.
+
+SLPP General Secretary, Sagara Kariyawasam, made this announcement during a ceremony at the party’s headquarters in Nelum Mawatha.
+
+...
 
 [Data](articles/49976d59.json)
 
@@ -2045,93 +2139,5 @@ The girl was arrested by the Principal and a teacher and two teachers at the sch
 [Data](articles/78f569d3.json)
 
 [Extended Data](ext_articles/78f569d3.ext.json)
-
----
-
-### If given another five years to Ranil, the country will be a modern land
-
-*2024-08-13 18:18:47* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-පහක්-රනිල්ට-දුන්නොත්-රට-නූතන-දේශයක්-වේවි/11-411357) · `si`
-
-Dr. Rajitha Senaratne predicts that under President Ranil Wickremesinghe's leadership, Sri Lanka could transform into a modern nation within five years. This optimistic outlook was shared during a convention at the Gangarama Vihara, where both leaders emphasized their commitment to making significant changes for the betterment of the country.
-
-🟩
-
-Kalutara District MP Dr. Rajitha Senaratne, Kalutara District MP Dr. Rajitha Senaratne, informed President Ranil Wickremesinghe meeting President Ranil Wickremesinghe.. He made this statement at the Gangarama Vihara.
-
-President Ranil Wickremesinghe and Rajitha Senaratne Convention was signed in the event.
-
-President Ranil Wickremesinghe said he had decided to join himself as Rajitha Senaratne is on behalf of him, as Rajitha Senaratne is on behalf of him as well as radical decisions. He also said that the difference between the people who hope should be made.
-
-Speaking at the meeting, Rajitha Senaratne said that if he would give Ranil five more years, there is no doubt that Sri Lanka would become a modern land in the world.
-
-◼️
-
-[Data](articles/ee7b4f51.json)
-
-[Extended Data](ext_articles/ee7b4f51.ext.json)
-
----
-
-### Sri Lanka Port City land for $100mn Asiri hospital, Gateway campuses
-
-*2024-08-13 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-land-for-100mn-asiri-hospital-gateway-campuses-176651/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the leasing state land within the Colombo Port City to build a hospital, school and university, a government statement said.
-
-Asiri Port City Hospital (Pvt) Ltd is expected to invest 100 million dollars. Gateway International University (Pvt) Ltd is to invest 25 million US dollars in a university and 25 million dollars in a school.
-
-Mayo Clinic of the US was expected to tie up with Asiri Hospitals group for the project.
-
-The Colombo Port City was reclaimed from the sea by China Harbor Engineering Company.
-
-The “marketable government lands” within the Port City will be leased for the hospital and port, the statement said.
-
-◼️
-
-[Data](articles/a4b4cf4d.json)
-
-[Extended Data](ext_articles/a4b4cf4d.ext.json)
-
----
-
-### Special security program for the Esala Perahera
-
-*2024-08-13 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199898) · `si`
-
-For the Kandy Esala Perahera, over 6,000 police officers will ensure safety through a special security program and traffic plan. Details about the procession and daily traffic arrangements have been shared publicly.
-
-🟩
-
-Police have taken measures to implement a special security program and a traffic plan for the Kandy Esala Perahera.
-
-Over 6,000 police officers have been deployed for duties.
-
-Police have also issued a statement on the procession of the procession and the daily traffic plan.
-
-◼️
-
-[Data](articles/941fcca2.json)
-
-[Extended Data](ext_articles/941fcca2.ext.json)
-
----
-
-### Adani Group rocked by Hindenburg allegations against SEBI
-
-*2024-08-13 18:11:00* · [`islandlk`](http://island.lk/adani-group-rocked-by-hindenburg-allegations-against-sebi/) · `en`
-
-Adani Group, the Indian conglomerate rocked by a Hindenburg Research report last year, has faced another heavy share selloff after the short seller accused the head of India’s market regulator of having links to offshore funds also used by the group.
-
-About $2.43bn, or 1 percent, was wiped off the market value of Adani companies by the end of the trading day on Monday although that was a substantial recovery from earlier losses of more than $13bn.
-
-The battle between Hindenburg Research and Adani Group began 18 months ago  when the United States-based short seller alleged Adani improperly used tax havens, accusations the group denied again on Sunday, saying its overseas holding structure was fully transparent.
-
-Citing whistleblower documents, Hindenburg said on Saturday that Madhabi Puri Buch, chairperson of the market regulator Securities and Exchange Board of India (SEBI) since 2022, has a conflict of interest in the Adani matter due to previous investments.
-
-...
-
-[Data](articles/b58d1951.json)
-
-[Extended Data](ext_articles/b58d1951.ext.json)
 
 ---

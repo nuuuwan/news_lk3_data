@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 14:21:09**
+As of **2024-08-14 14:36:38**
 
 ## Newspaper Stats
 
-*Scraped **40,690** Articles*
+*Scraped **40,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,743
 dailymirrorlk | 4,733
-adaderanalk | 4,745
+adaderanalk | 4,746
 tamilmirrorlk | 5,188
 virakesarilk | 6,439
-adaderanasinhalalk | 6,920
+adaderanasinhalalk | 6,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,689 (100.0%) of 40,690 articles have been extended.
+40,690 (100.0%) of 40,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
+
+### Patali Champika to support Sajith in Presidential Election
+
+*2024-08-14 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101232/patali-champika-to-support-sajith-in-presidential-election) · `en`
+
+The leader of the United Republic Front (Eksath Janaraja Peramuna) MP Patali Champika Ranawaka had signed agreement to support SJB leader Sajith Premadasa at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/8db7fb5c.json)
+
+---
+
+### පාඨලීගේ සහාය සජිත්ට
+
+*2024-08-14 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199928) · `si`
+
+එක්සත් ජනරජ පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළකිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව එක්සත් ජනරජ පෙරමුණ, සමගි ජන සන්ධානය සමග සන්ධාන ගත වීම අද සිදුකෙරුණි.
+
+◼️
+
+[Data](articles/998f6aa6.json)
+
+---
 
 ### New alliance led by Anura Yapa formed as ‘People’s Alliance’
 
@@ -49,6 +75,8 @@ During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced 
 ...
 
 [Data](articles/2363220a.json)
+
+[Extended Data](ext_articles/2363220a.ext.json)
 
 ---
 
@@ -2229,39 +2257,5 @@ Once approved, the regulation will provide updated guidelines and controls for i
 [Data](articles/952b5679.json)
 
 [Extended Data](ext_articles/952b5679.ext.json)
-
----
-
-### Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement
-
-*2024-08-14 00:44:04* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-dried-fish-industry-Challenges-innovations-and-Govt-involvement/14-765482) · `en`
-
-The transformation of Sri Lanka’s dried fish industry is well underway
-
-The dried fish industry in Sri Lanka, a significant segment of the local economy, is undergoing a transformation aimed at overcoming long-standing challenges and enhancing its global competitiveness. This sector, traditionally plagued by bureaucratic hurdles, outdated practices, and limited market access, is seeing concerted efforts from various stakeholders, including Government entities, industry associations, and private companies, to streamline processes, modernise operations, and expand market reach.
-
-...
-
-[Data](articles/cb7776e5.json)
-
-[Extended Data](ext_articles/cb7776e5.ext.json)
-
----
-
-### 75 years of Geneva Conventions: Global and Sri Lankan perspectives
-
-*2024-08-14 00:40:33* · [`dailyftlk`](https://www.ft.lk/opinion/75-years-of-Geneva-Conventions-Global-and-Sri-Lankan-perspectives/14-765481) · `en`
-
-Geneva, electoral building. Signing of the Final Act of the Diplomatic Conference for the Revision of the Geneva Convention of 1949, delegation of Switzerland
-
-First page of the Geneva Convention of 22 August 1864. (The original document is kept at the Swiss Federal Archives in Bern.)
-
-12 August 2024 marked a poignant milestone – the 75th anniversary of the Geneva Conventions, the cornerstone of International Humanitarian Law (IHL) which regulates the conduct of armed conflict to preserve humanity and reduce suffering, even in the worst of wartime.
-
-...
-
-[Data](articles/790a30f7.json)
-
-[Extended Data](ext_articles/790a30f7.ext.json)
 
 ---

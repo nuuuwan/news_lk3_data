@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 04:08:00**
+As of **2024-08-15 04:21:21**
 
 ## Newspaper Stats
 
-*Scraped **40,787** Articles*
+*Scraped **40,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 379
 colombotelegraphcom | 391
 islandlk | 2,354
 economynextcom | 2,476
-dailyftlk | 2,630
+dailyftlk | 2,633
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
@@ -26,11 +26,57 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,783 (100.0%) of 40,787 articles have been extended.
+40,787 (100.0%) of 40,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### Sri Lanka’s economic potential on show at BIMSTEC Summit in New Delhi
+
+*2024-08-15 04:07:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-economic-potential-on-show-at-BIMSTEC-Summit-in-New-Delhi/34-765548) · `en`
+
+From left: Ceylon Chamber of Commerce Assistant Secretary General Dinithi Dias, Ceylon Cold Stores Consumer Foods President Daminda Gamlath, Hayleys Advantis Deputy Managing Director Dr. Asanka Ratnayake, High Commissioner of Sri Lanka to India Kshenuka Senewiratne, Sunshine Healthcare Director and Sunshine Medical Devices & Lina Manufacturing CEO Dr. T. Sayandhan
+
+The Ceylon Chamber of Commerce, together with its Member companies, represented Sri Lanka at the BIMSTEC Business Summit held on 6-7 August in New Delhi.
+
+At the Special Ministerial Plenary at the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), High Commissioner of Sri Lanka to India Kshenuka Senewiratne, addressed the need for greater economic integration with the region, and the importance of establishing the BIMSTEC Free Trade Agreement (FTA) to foster regional prosperity.
+
+...
+
+[Data](articles/8bcecff2.json)
+
+---
+
+### EDB releases flagship statistical publication “Export Performance Indicators 2023”
+
+*2024-08-15 03:58:27* · [`dailyftlk`](https://www.ft.lk/business/EDB-releases-flagship-statistical-publication-Export-Performance-Indicators-2023/34-765547) · `en`
+
+The latest edition provides statistical information related to Sri Lanka’s external trade and its contribution to major economic indicators such as the trade balance and GDP, and individual sectoral involvement for the year 2023 and the five preceding years.
+
+This volume is the 37th volume of this publication, and its previous editions have been constantly used as a comprehensive and trustworthy reference by exporters, researchers, and policymakers.
+
+The data compiled in “Export Performance Indicators 2023” is presented along with trade statistics for the last 11 years, along with a comprehensive analysis of Sri Lanka’s export trade, products and services, from the year 2013 up to the year 2023, including export regions per product, their market growth, and projected export forecast.
+
+...
+
+[Data](articles/f0b65cdb.json)
+
+---
+
+### Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul
+
+*2024-08-15 03:56:44* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-presents-social-democratic-progressive-centrist-alternative-Namal-goes-Rahul/4-765546) · `en`
+
+“Sri Lankans are more likely to think the country is headed in the wrong direction than people in any other country where this is polled. In June–July 2024, a global average of 62% of adults polled by IPSOS in 29 countries thought their country was headed in the wrong direction compared with 93% in Sri Lanka.”
+
+With only 8% of citizens thinking that the country is going in the right direction and 72% thinking it is “on the wrong track”, it would be borderline lunacy to assume that Ranil, ably supported by the most detested parliamentarians since 1970-77, could get into double-digits in September. “…Public views towards the country’s direction have worsened since July 2023, driven by a steady decline in uncommitted respondents.” (Ibid)
+
+...
+
+[Data](articles/7c29812f.json)
+
+---
 
 ### AICPA-CIMA’s CGMA Leadership Academy shapes future accounting, finance, and business leaders
 
@@ -45,6 +91,8 @@ Over four days, Chartered Global Management Accountants (CGMA designation holder
 ...
 
 [Data](articles/6c70e01e.json)
+
+[Extended Data](ext_articles/6c70e01e.ext.json)
 
 ---
 
@@ -66,6 +114,8 @@ Harbour Master Capt. Nirmal Silva reassured that the fire, which followed the bl
 
 [Data](articles/7c323bf2.json)
 
+[Extended Data](ext_articles/7c323bf2.ext.json)
+
 ---
 
 ### David Pieris Automobiles opens pre-bookings for NETA electric SUVs
@@ -84,6 +134,8 @@ The NETA X boasts an impressive driving range of 500 km (NEDC) and delivers a ma
 
 [Data](articles/4439189d.json)
 
+[Extended Data](ext_articles/4439189d.ext.json)
+
 ---
 
 ### Litro expands supply and distribution network
@@ -101,6 +153,8 @@ The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and
 ...
 
 [Data](articles/f97d3abc.json)
+
+[Extended Data](ext_articles/f97d3abc.ext.json)
 
 ---
 
@@ -2165,61 +2219,5 @@ The US dollar purchasing price was 294.5495 based on the currency exchange rate 
 [Data](articles/9a96031f.json)
 
 [Extended Data](ext_articles/9a96031f.ext.json)
-
----
-
-### Namal signed the nomination
-
-*2024-08-14 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191078) · `ta`
-
-Namal Rajapaksa, PA's presidential candidate, has officially signed his nomination papers to run in the 2024 presidential election.
-
-🟩
-
-PA's presidential candidate Namal Rajapaksa signed the nomination papers to contest the 2024 presidential election.
-
-◼️
-
-[Data](articles/92ba71ff.json)
-
-[Extended Data](ext_articles/92ba71ff.ext.json)
-
----
-
-### Vijayadasa Rajapaksa signed the nomination
-
-*2024-08-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191071) · `ta`
-
-MP Vijayadasa Rajapaksa, representing the National Democratic Front, has officially nominated himself for the 2024 presidential election.
-
-🟩
-
-It is noteworthy that MP Vijayadasa Rajapakse is contesting on behalf of the National Democratic Front to contest the 2024 presidential election.
-
-◼️
-
-[Data](articles/1d349e4d.json)
-
-[Extended Data](ext_articles/1d349e4d.ext.json)
-
----
-
-### The control was paid for the Janaka
-
-*2024-08-14 13:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக்கவுக்கான-கட்டுப்பணம்-செலுத்தப்பட்டது/175-342157) · `ta`
-
-Janaka Ratnayake, former PUCSL president, cannot run in the 2024 Sri Lankan presidential election due to a bond issue. Party secretary Nihal Premakumara Deshapriya submitted the bond at the National Elections Commission on behalf of Ratnayake.
-
-🟩
-
-Former President of the Sri Lanka Public Utilities Commission (PUCSL) has been restricted to contesting the 2024 presidential election.
-
-Party secretary Nihal Premakumara Deshapriya handed over the bond on behalf of Janaka Ratnayake at the National Elections Commission today.
-
-◼️
-
-[Data](articles/2e4c2c01.json)
-
-[Extended Data](ext_articles/2e4c2c01.ext.json)
 
 ---

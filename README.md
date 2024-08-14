@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 13:06:06**
+As of **2024-08-14 13:21:13**
 
 ## Newspaper Stats
 
-*Scraped **40,678** Articles*
+*Scraped **40,679** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
-bbccomsinhala | 378
+bbccomsinhala | 379
 colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,676 (100.0%) of 40,678 articles have been extended.
+40,678 (100.0%) of 40,679 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,31 +50,41 @@ When asked what document must be produced to verify the identity of voters, he r
 
 [Data](articles/cfd793fc.json)
 
+[Extended Data](ext_articles/cfd793fc.ext.json)
+
 ---
 
-### 2024 ජනාධිපතිවරණය: ඇප මුදල් භාරගැනීම අවසන්
+### 2024 Presidential Election: Guideline is over
 
 *2024-08-14 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199923) · `si`
 
-2024 ජනාධිපතිවරණයට අදාළ ඇප මුදල් භාර ගැනීමේ කටයුතු අද (14) දහවල් අවසන් වුණි.
+The deadline for the 2024 Presidential Election ended today, with 38 candidates nominated, including 20 from recognized political parties and 17 independents. The nomination process started on July 26 and concluded today. The Elections Commission has also set dates for postal voting: September 4, 5, and 6. By September 11 and 12, all postal ballot papers will be marked. So far, 42 complaints have been filed, with 37 related to election laws, and 22 each to the National Election Complaint Management Center and district election complaint centers since July 31.
 
-මැතිවරණ කොමිෂන් සභාව සඳහන් කළේ මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වීම සඳහා අපේක්ෂකයින් 38 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බවයි.
+🟩
 
-පිළිගත් දේශපාලන පක්ෂ 20ක් සහ වෙනත් දේශපාලන පක්ෂයක් සහ ස්වාධීන අපේක්ෂකයින් ලෙස පුද්ගලයින් 17 දෙනෙකු ඉදිරි ජනාධිපතිවරණය සඳහා අද (14) දහවල් වන විට ඇප මුදල් තැන්පත් කර තිබුණි.
+The bail of the Presidential Election 2024 was over the afternoon today (14).
 
-ජනාධිපතිවරණයට අදාළව ඇප මුදල් භාර ගැනීමේ කටයුතු ජුලි මස 26වන දින ආරම්භ වු අතර එය මධ්‍යාහ්න 12ට අවසන් කෙරුණි.
+The Elections Commission stated that 38 candidates have been deposited for the presidential election.
 
-මේ අතර ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද විමසීමේ දින මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත් කළේය.
+Twenty-recognized political parties and 17 persons as independent candidates and 17 persons were deposited for the next presidential election today (14).
 
-එම කොමිසම නිවේදනය කර ඇත්තේ සැප්තැම්බර් 4, 5 ,6 යන තෙදින තැපැල් ඡන්ද සලකුණු කිරීම සඳහා පහසුකම් සලසන බවයි.
+Workers on the presidential election began on the 26th of July and was completed at 12 weeks.
 
-සැප්තැම්බර් 4 වනදා දිස්ත්‍රික් ලේකම් කාර්යාල සහ මැතිවරණ ලේකම් කාර්යාල සහ පොලීයේ සේවයේ නියුතු අය සඳහා තැපැල් ඡන්ද සලකුණු කිරීමට පහසුකම් සැපයෙයි.
+Meanwhile the Elections Commission (EPL) has published the postal voting day of the presidential election.
 
-සලකුණු නොකර ලද තැපැල් ඡන්ද පත්‍රිකා සලකුණු කිරීම සඳහා නැවත සැප්තැම්බර් 11 සහ 12 යන දිනයන්හි අවස්ථාව ලබාදෙන බවද මැතිවරණ කොමිෂන් සභාව පවසයි.
+The commission announced that September 4, 5, 6, is facilitated for postal voting.
+
+On September 4, the postal voting facilities to employed on district secretariats and election secretariats and the election secretariats.
+
+The Elections Commission says that the number of postal ballot papers will be marked by September 11 and 12.
+
+Meanwhile, 42 complaints have been reported in the past 24 hours in connection with the presidential election.
 
 ...
 
 [Data](articles/7290549b.json)
+
+[Extended Data](ext_articles/7290549b.ext.json)
 
 ---
 
@@ -1588,6 +1598,28 @@ The Chairman of the Stabile Control will further stated in the gazette notificat
 
 ---
 
+### ජනපති රනිල් වික්‍රමසිංහට ජනාධිපතිවරණයට ඉදිරිපත් වීමේ වරම් අහිමි වෙයි ද?
+
+*2024-08-14 06:41:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c79w88q8yndo) · `si`
+
+ජනපති රනිල් වික්‍රමසිංහට ජනාධිපතිවරණයට ඉදිරිපත් වීමේ වරම් අහිමි වෙයි ද?
+
+වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ ඉදිරි ජනාධිපතිවරණයේදී අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් වීමට නුසුදුසු බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා නීතිඥවරයෙකු ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ජනාධිපතිවරයා චේතනාන්විතව ම ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය කර තිබෙන බැවින් ඔහුට ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් කිරීම නුසුදුසු බවත් පෙත්සම්කරු චෝදනා කර ඇත.
+
+සැප්තැම්බර් මස 21 වනදා පැවැත්වීමට නියමිත ජනාධිපතිවරණයේදී අපේක්ෂකයෙකු වශයෙන් රනිල් වික්‍රමසිංහ ඉදිරිපත්වීම වළක්වාලමින් අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සම්කරු ශ්‍රේෂ්ඨාධිකරණයෙන් වැඩිදුරත් ඉල්ලා තිබේ.
+
+පෙත්සම්කරු මෙම මූලික අයිතිවාසිකම් පෙත්සම ඉදිරිපත් කර ඇත්තේ, පොලිස් දෙපාර්තමේන්තුව සඳහා වැඩ බලන පොලිස්පතිවරයෙකු පත් කරන ලෙස ජනාධිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සිටිමිනි.
+
+පෙත්සමේ වග උත්තරකරුවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ, ජනාධිපතිවරයා වෙනුවෙන් නීතිපතිවරයා හා නීතිපතිවරයා නම් කර තිබේ.
+
+...
+
+[Data](articles/450bf003.json)
+
+---
+
 ### Showers in several areas
 
 *2024-08-14 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199906) · `si`
@@ -2201,25 +2233,5 @@ Police said that the two persons had died there.
 [Data](articles/dcc85f91.json)
 
 [Extended Data](ext_articles/dcc85f91.ext.json)
-
----
-
-### Double Trouble for Namal as Sri Lanka Nominations Set to Close
-
-*2024-08-13 21:21:00* · [`economynextcom`](https://economynext.com/double-trouble-for-namal-as-sri-lanka-nominations-set-to-close-176685/) · `en`
-
-ECONOMYNEXT – The heir apparent of the Rajapaksa dynasty will face an unusual challenge in the September 21 presidential election, with his loyalists confronted by another Namal Rajapaksha on the ballot paper.
-
-With 36 candidates having paid their deposits to get on the ticket by Tuesday evening and one more day left to pay, the 2024 ballot paper is set to be the longest yet.
-
-Adding two Namals with the same last name makes the voting slip potentially the most confusing—at least for Namal’s loyalists. Fielding candidates with names similar to main contenders has been a tried-and-tested tactic before, notably by the Rajapaksas themselves.
-
-In 2015, the Rajapaksas not only fielded another “Sirisena” in an attempt to confuse voters of Maithripala Sirisena—the opposition’s common candidate—but also gave him a makeover to resemble the man from Polonnaruwa.
-
-...
-
-[Data](articles/a1b8b668.json)
-
-[Extended Data](ext_articles/a1b8b668.ext.json)
 
 ---

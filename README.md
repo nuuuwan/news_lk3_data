@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 09:21:04**
+As of **2024-08-14 09:55:56**
 
 ## Newspaper Stats
 
-*Scraped **40,619** Articles*
+*Scraped **40,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 378
 colombotelegraphcom | 389
 islandlk | 2,354
 economynextcom | 2,462
-dailyftlk | 2,624
+dailyftlk | 2,625
 adalk | 3,734
-adaderanalk | 4,732
 dailymirrorlk | 4,733
-tamilmirrorlk | 5,168
+adaderanalk | 4,734
+tamilmirrorlk | 5,171
 virakesarilk | 6,428
 adaderanasinhalalk | 6,907
 
@@ -26,55 +26,149 @@ adaderanasinhalalk | 6,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,615 (100.0%) of 40,619 articles have been extended.
+40,620 (100.0%) of 40,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### තැපැල් ඡන්ද විමසීමට අදාළ දින ප්‍රකාශයට පත්කෙරේ
+### சஜித்துடன் இணைந்தார் பாட்டலி
+
+*2024-08-14 09:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-பாட்டலி/175-342137) · `ta`
+
+ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவுக்கு ஆதரவாக ஐக்கிய குடியரசு முன்னணி தலைவர் பாட்டலி சம்பிக்க ரணவக்க, ஐக்கிய மக்கள் சக்தியில் இணையவுள்ளார்.
+
+◼️
+
+[Data](articles/eece71ff.json)
+
+---
+
+### இரு குழுக்களுக்கிடையே மோதல்
+
+*2024-08-14 09:33:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இரு-குழுக்களுக்கிடையே-மோதல்/71-342136) · `ta`
+
+யாழ்ப்பாணம் - சேந்தாங்குளம் பகுதியில் இரு குழுக்கள் இடையே ஏற்பட்ட மோதலில் மூன்று படகுகள் தீ வைத்து எரிக்கப்பட்டதுடன் ஒரு படகு முற்றாக சேதமடைந்தது.
+
+இதன்போது சில வாடிகளும் எரிந்து நாசமானது. இதனையறிந்து அங்கு கூடிய பொதுமக்கள் தீப் பரவலை கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+
+சம்பவம் தொடர்பாக இதுவரை எவரும் கைது செய்யப்பட்டாத நிலையில் இளவாலை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/71887008.json)
+
+---
+
+### Election Commission announces postal voting dates
+
+*2024-08-14 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101220/election-commission-announces-postal-voting-dates) · `en`
+
+The Election Commission has announced the dates allocated for the marking of postal votes in the upcoming Presidential Election 2024.
+
+Accordingly, the commission stated that the issuance and delivery of postal votes will be carried out on August 26.
+
+Postal voting for the Presidential Election will be held on September 04, 05 and 06.
+
+September 4 is reserved for District Secretariats, Election Offices and Police for marking postal votes.
+
+Meanwhile, September 11 and 12 have been allocated as additional dates for those who were unable to mark their postal vote.
+
+◼️
+
+[Data](articles/961d1d0c.json)
+
+---
+
+### கட்டுப்பணம் செலுத்தினார் நாமல்
+
+*2024-08-14 09:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணம்-செலுத்தினார்-நாமல்/175-342135) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் எதிர்வரும் ஜனாதிபதித் தேர்தலில் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் சார்பில் கட்டுப்பணம் செலுத்தினார்.
+
+◼️
+
+[Data](articles/ec48d7a3.json)
+
+---
+
+### Related on Postal Voting
 
 *2024-08-14 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199913) · `si`
 
-2024 ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද ප්‍රකාශයට පත්කරන දින මැතිවරණ කොමිසම විසින් ප්‍රකාශයට පත්කර ඇත.
+The Elections Commission announced postal voting details for the 2024 presidential election, including issuance and posting dates. District Secretariats, election offices, and police are involved in the process.
 
-ඒ අනුව තැපැල් ඡන්ද නිකුත් කිරීම හා තැපෑලට භාරදීම 2024.08.26 වන දා සිදුකරන බව එම කොමිසම පැවසීය.
+🟩
 
-තැපැල් සලකුණු කිරීම සඳහා දිස්ත්‍රික් ලේකම් කාර්යාල, මැතිවරණ කාර්යාල සහ පොලීසිය සඳහා වෙන්කර ඇත්තේ සැප්තැම්බර් 4 වනදාය.
+The Elections Commission has published the postal voting on the 2024 presidential election.
+
+Accordingly, the issuance of postal votes and handing over postal votes and handing over to the post will be held on 26.08.200.
+
+District Secretariats, election offices and police have been allocated for the election offices and police.
 
 ◼️
 
 [Data](articles/c55110cd.json)
 
+[Extended Data](ext_articles/c55110cd.ext.json)
+
 ---
 
-### නාමල් වෙනුවෙන් සාගර ඇප තියයි
+### Namal Rajapaksa places deposit to contest Presidential Election
+
+*2024-08-14 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101219/namal-rajapaksa-places-deposit-to-contest-presidential-election) · `en`
+
+The security deposit has been placed for the presidential candidate of the Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa to contest the upcoming Presidential Election.
+
+SLPP General Secretary Sagara Kariyawasam has placed the deposit on behalf of Namal Rajapaksa at the Election Commission this morning (14).
+
+◼️
+
+[Data](articles/49976d59.json)
+
+[Extended Data](ext_articles/49976d59.ext.json)
+
+---
+
+### Ocean bail on Namal
 
 *2024-08-14 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199912) · `si`
 
-2024 පොදුජන පෙරමුණේ ජනාධිපති ධුර අපේක්ෂකත්වය වෙනුවෙන් නාමල් රාජපක්ෂ මහතා වෙනුවෙන් ඇප තැන්පත් කර තිබේ.
+Namal, a candidate for the 2024 General Anuradhapura presidency, has been granted bail by the Civil Committee.
+
+🟩
+
+The 2024 General Anuradhapura has been placed bail to the presidency of the Civil Committee.
 
 ◼️
 
 [Data](articles/9a805de3.json)
 
+[Extended Data](ext_articles/9a805de3.ext.json)
+
 ---
 
-### மாலபேயில் நச்சு வாயுவை சுவாசித்த இருவர் உயிரிழப்பு
+### Death of two people who breathed toxic gas in Malabee
 
 *2024-08-14 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/191040) · `ta`
 
-மாலபே, கஹந்தோட்டை பகுதியிலுள்ள குடியிருப்பு ஒன்றில் இரசாயன நச்சு வாயுவை சுவாசித்த இருவர் உயிரிழந்துள்ளார்கள்.
+In Malabe, two individuals aged 45 and 63 died after inhaling toxic fumes while mixing chemicals in their home. The incident occurred in Kahantota and is under investigation by local authorities.
 
-இருவரும் சில இரசாயனங்களை கலக்க முயன்றபோது வெளிவந்த நச்சு வாயுவை சுவாசித்ததால் நேற்று (12) மாலை உயிரிழந்துள்ளனர்.
+🟩
 
-மொனராகலை மற்றும் கஹந்தோட்டை ஆகிய பகுதிகளைச் சேர்ந்த  45 மற்றும் 63 வயதுகளையுடைய இருவரே  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two people have died in breathing chemical toxic gas in a residential area in the Kahantota area of ​​Malabe.
 
-சடலங்கள்  கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மாலபே பொலிஸார்  முன்னெடுத்துள்ளனர்.
+The two were killed yesterday evening (12) after breathing the toxic gas that was exposed when the two tried to mix some chemicals.
+
+Two of them, aged 45 and 63 from Moneragala and Kahantota, have died, police said.
+
+The bodies have been placed in the funeral room of the Colombo National Hospital and Malabe police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/4c952c39.json)
+
+[Extended Data](ext_articles/4c952c39.ext.json)
 
 ---
 
@@ -203,6 +297,10 @@ According to the Gazette, the base salary will be given 1350 rupees and the prod
 *2024-08-14 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101216/gazette-issued-stipulating-daily-wage-of-plantation-workers-) · `en`
 
 The Wages Board has issued a Gazette stipulating Rs. 1,350 as the daily wage and a productive incentive of Rs. 350 for tea and rubber sector workers.
+
+The Gazette, signed by the chairman of the Wages Board, H.K.K.A. Jayasundara, states that the daily minimum wage for plantation workers is set at Rs.1, 350 and this wage is to be paid subjected to the payments for the Employees Provident Fund (EPF) and Employees’ Trust Fund (ETF), as mentioned in the Gazette notification.
+
+Additionally, the chairman of the Wages Board has indicated in the Gazette that any objections to these proposals must be submitted to him before 12 noon on August 28, accompanied by a statement explaining the reasons for the objections.
 
 ◼️
 
@@ -741,6 +839,20 @@ Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was uncerem
 [Data](articles/23783835.json)
 
 [Extended Data](ext_articles/23783835.ext.json)
+
+---
+
+### Abusing the goddess of law – a disaster pending?
+
+*2024-08-14 00:35:24* · [`dailyftlk`](https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480) · `en`
+
+A nation must treat the judiciary with utmost respect and as an institution second to none
+
+Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was unceremoniously expelled by the Aragalaya activists in July 2022 was fallen abruptly into the lap of Ranil Wickremesinghe (RW) the public opinion was that the biggest harm to democracy in this country was done by the late President and leader of the UNP, J.R. Jayewardene.
+
+...
+
+[Data](articles/47d746e4.json)
 
 ---
 
@@ -1614,15 +1726,21 @@ Katunayake airport customs officials are conducting further investigations.
 
 ---
 
-### නාම යෝජනා භාර දෙන දිනයේදී විශේෂ රථ වාහන සැලැස්මක්
+### Special traffic plan on the date of handing over nominations
 
 *2024-08-13 17:14:58* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-භාර-දෙන-දිනයේදී-විශේෂ-රථ-වාහන-සැලැස්මක්/11-411353) · `si`
 
-ජනාධිපතිවරණය 2024 සඳහා නාම යෝජනා භාර දීම 2024.08.15 වන දින මැතිවරණ මහා ලේකම් කාර්යාලයේ දී සිදු කිරීමට නියමිතය. මේ අනුව එම ප්‍ර දේශය අළලා විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලිස් මූලස්ථානය කටයුතු කර තිබේ. ඊට අදාළ නිවේදනය පහතින් දැක්වෙයි.
+On 15.08.2014, nominations for the Presidential Election 2024 will be submitted to the Election Secretariat. In preparation, the police headquarters have implemented a special traffic plan to ensure smooth operations during this period.
+
+🟩
+
+Nominations for the Presidential Election 2024 will be handed over to the Election Secretariat on 15.08.2014. Accordingly, the police headquarters have been operating a special vehicle plan. The relevant announcement is given below.
 
 ◼️
 
 [Data](articles/53e6d482.json)
+
+[Extended Data](ext_articles/53e6d482.ext.json)
 
 ---
 
@@ -1997,137 +2115,5 @@ The police have announced that a special traffic plan will be implemented that d
 [Data](articles/d213b936.json)
 
 [Extended Data](ext_articles/d213b936.ext.json)
-
----
-
-### If people make a wrong decision, people will suffer its impact - Akhilaviraj Kariyawasam
-
-*2024-08-13 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191001) · `ta`
-
-Akhilaviraj Kariyawasam warns against voting for inexperienced politicians, highlighting the potential consequences of electing leaders without substantial experience. He advocates for Ranil Wickremesinghe, emphasizing his ability to stabilize the country and prevent future falls. Kariyawasam stresses the importance of making informed decisions based on candidates' track records and policies, rather than being swayed by media campaigns and false promises.
-
-🟩
-
-People should not be deceived by media propaganda and false promises of inexperienced politicians. If people make a wrong decision in the election, people will experience its results. UNP Vice -President Akhilaviraj Kariyawasam said that the people should decide to give Ranil Wickremesinghe for another five years.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (13).
-
-We have faced the most decisive election in the event of retrieving and carrying out the falling country. People are now offering the opportunity to choose who is appropriate to continue the country.
-
-In many cases in the past in the election of the country's president, people have made a decision on various reasons. In the last presidential election, the country went to the bank by selecting a mistake.
-
-...
-
-[Data](articles/a669dbf9.json)
-
-[Extended Data](ext_articles/a669dbf9.ext.json)
-
----
-
-### More Indian hospitals hit by doctors’ protest against alleged rape and murder
-
-*2024-08-13 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101206/more-indian-hospitals-hit-by-doctors-protest-against-alleged-rape-and-murder) · `en`
-
-Hospital services were disrupted in several Indian cities on Tuesday, after the nationwide spread of a doctors’ protest against the alleged rape and murder of a 31-year-old doctor in the eastern city of Kolkata, authorities and media said.
-
-Television images showed thousands of doctors marching on Monday to protest the incident at a government-run hospital, calling for justice for the victim and better security measures, paralysing health services in West Bengal state.
-
-The protest rippled nationwide on Tuesday, joined by more than 8,000 government doctors in the western Maharashtra state, home to the financial capital of Mumbai, halting work in all hospital departments except emergency services, media said.
-
-In the capital, New Delhi, junior doctors wearing white coats held posters that read, “Doctors are not punching bags,” as they sat in protest outside a large government hospital to demand an investigation, Reuters Television images showed.
-
-...
-
-[Data](articles/aa2f5fd2.json)
-
-[Extended Data](ext_articles/aa2f5fd2.ext.json)
-
----
-
-### Representatives of the Tamil National Alliance met Opposition Leader Sajith Premadasa
-
-*2024-08-13 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191004) · `ta`
-
-Representatives from the Tamil National Alliance (TNA) met with Opposition Leader Sajith Premadasa to discuss a joint presidential candidate focused on addressing Tamil political aspirations. Premadasa emphasized his commitment to resolving Tamil issues, including justice, political prisoner releases, and the implementation of the provincial council structure. He urged unity over ethnic, language, and religious identities in elections. The TNA expressed support for Premadasa's candidacy, highlighting his readiness to address Tamil concerns directly.
-
-🟩
-
-Representatives of the Tamil National Alliance (TNA) on Tuesday (13) have met Opposition Leader Sajith Premadasa as President Ranil Wickremesinghe met with President Ranil Wickremesinghe in the context of a Tamil National Public Structure General Candidate.
-
-Presidential candidate and opposition leader Sajith Premadasa accepted the invitation of Sajith Premadasa at 7.30 am today.
-
-Opposition leader Sajith Premadasa and Northern Province Chief Organizer Umasandra Prakash were also present.
-
-Sajith Premadasa as the candidate for the presidential election in the coming presidential election, which is to be fielded by the Tamil National General Framework, to the political parties and the representatives of the public organizations separately.
-
-It is on this basis that the above mentioned political parties decided to take part in this meeting to clarify their position on the issue of the Tamil people and to learn about the steps to be taken to solve the political aspirations of the Tamil people.
-
-...
-
-[Data](articles/f1c38cce.json)
-
-[Extended Data](ext_articles/f1c38cce.ext.json)
-
----
-
-### Representatives of the Tamil National General Structure
-
-*2024-08-13 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191002) · `ta`
-
-Tamil National Alliance representatives met with Sri Lanka's President Ranil Wickremesinghe regarding the Tamil National Public Structure Common Candidate. The discussion aimed to address the political aspirations of the Tamil people, focusing on resolving issues like the release of political prisoners and economic development. President Wickremesinghe assured progress on these matters, emphasizing his commitment to implementing the provincial council structure and addressing other concerns raised by the Tamil parties.
-
-🟩
-
-Representatives of the Tamil National Alliance have met with President Ranil Wickremesinghe in the context of the Tamil National Public Structural Candidate.
-
-President Ranil Wickremesinghe accepted the invitation of President Ranil Wickremesinghe on Monday (12) at 4 pm on behalf of the Tamil Eelam Liberation Movement on behalf of the Tamil Eelam Liberation Movement, Secretary General Govindan Karunagaram and speaker Guruswamy Surendran and its leader Dharmalingam Siddharthan on behalf of the Democratic People's Liberation Front.Venthan and Secretary Tulsi also participated in the meeting.
-
-In the context of the Tamil National Public Structure Common Candidate, President Ranil Wickremesinghe has issued an invitation to the political parties and the representatives of the public organizations to meet the members of the general structure as a candidate for the coming presidential election.
-
-...
-
-[Data](articles/85bcba05.json)
-
-[Extended Data](ext_articles/85bcba05.ext.json)
-
----
-
-### Attack on a car accident
-
-*2024-08-13 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199892) · `si`
-
-In a tragic accident involving a three-wheeler and a van carrying schoolchildren in Hendala, both drivers were assaulted at the Colombo National Hospital. The incident started with the three-wheeler passenger demanding money, leading to a confrontation where the van driver responded aggressively.
-
-🟩
-
-An accident had occurred when a three-wheeler and a van that transported school children transported by Hendala.
-
-The driver of the van and the vehicle of the van owner of the three-wheeler has been assaulted at the Colombo National Hospital.
-
-"The first one in the three-wheeler asked me for money. I told you not to give money, but when he said, I was able to blew him in his mirror and asked me to give me the two children. "
-
-◼️
-
-[Data](articles/56129c3e.json)
-
-[Extended Data](ext_articles/56129c3e.ext.json)
-
----
-
-### Special traffic plan in Rajagiriya on Thursday
-
-*2024-08-13 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101205/special-traffic-plan-in-rajagiriya-on-thursday) · `en`
-
-The nominations for the upcoming Presidential Election will be accepted from 9.00 a.m. to 11.00 a.m. on August 15 at the Election Secretariat in Rajagiriya.
-
-Accordingly, the police announced that a special traffic plan would be implemented from 8.00 a.m. to 2.00 p.m. on that day.
-
-See below for the Police Media Division announcement on the traffic plan...
-
-◼️
-
-[Data](articles/0f481c8c.json)
-
-[Extended Data](ext_articles/0f481c8c.ext.json)
 
 ---

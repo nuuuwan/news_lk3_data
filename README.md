@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-14 14:09:28**
+As of **2024-08-14 14:21:09**
 
 ## Newspaper Stats
 
-*Scraped **40,689** Articles*
+*Scraped **40,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,465
 dailyftlk | 2,625
 adalk | 3,743
 dailymirrorlk | 4,733
-adaderanalk | 4,744
+adaderanalk | 4,745
 tamilmirrorlk | 5,188
 virakesarilk | 6,439
 adaderanasinhalalk | 6,920
@@ -26,69 +26,113 @@ adaderanasinhalalk | 6,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,684 (100.0%) of 40,689 articles have been extended.
+40,689 (100.0%) of 40,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-14 (Wednesday)
 
-### දැරියකට මරු කැඳවූ අධිවේගයේ අනතුර
+### New alliance led by Anura Yapa formed as ‘People’s Alliance’
+
+*2024-08-14 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101231/new-alliance-led-by-anura-yapa-formed-as-peoples-alliance) · `en`
+
+The Sri Lanka Freedom Party (SLFP) faction led by Minister Nimal Siripala de Silva and the “New Alliance” today (14) launched a new alliance under the name “Podujana Eksath Peramuna” (People’s Alliance).
+
+Former minister Anura Priyadarshana Yapa has been named as the leader of the new alliance.
+
+State Minister Lasantha Alagiyawanna has been appointed as the General Secretary, while State Minister Chamara Sampath Dassanayake has been appointed as the Treasurer.
+
+This new alliance, which includes the SLFP faction led by Nimal Siripala, the “New Alliance” which comprises of MPs including  Nimal Lanza and several others parties and groups, was officially formed in Colombo today (14).
+
+During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced the positions within the alliance, which also includes a leadership council of 21 members including the Chairman of SLFP, Minister Nimal Siripala de Silva.
+
+...
+
+[Data](articles/2363220a.json)
+
+---
+
+### Launching of a girl killed
 
 *2024-08-14 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199927) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් අවුරුදු 02ක කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+A two-year-old girl died in an accident on the Southern Expressway near Elpitiya, caused by a van collision. Three other children were injured and taken to the hospital. The van carried 12 adults and was traveling from Mattala to Kottawa when the incident happened.
 
-අද (14) උදෑසන එම අනතුර සිදුව තිබුණේ, දක්ෂිණ අධිවේගී මාර්ගයේ ඇල්පිටිය පොලිස් වසමේදීය.
+🟩
 
-මත්තල දෙස සිට කොට්ටාව දෙසට ගමන් ගත් වෑන් රථයක ටයරයේ හුළං බැසීම හේතුවෙන් අධිවේගී මාර්ගයේ මැද ආරක්ෂිත වැටේ වැදී පෙරළීමෙන් එම අනතුර සිදුව තිබුණි.
+Two-year-old girl was killed in an accident on the Southern Expressway.
 
-අනතුරින් වෑන් රථයේ ගමන්ගත් කුඩා දරුවන් තිදෙනෙකු තුවාල ලබා ඇල්පිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු එක් කුඩා දැරියක් මියගොස් තිබේ.
+The accident had occurred this morning at the Elpitiya Police Division on the Southern Expressway.
 
-එලෙස මියගොස් තිබුණේ කතරගම වැඩිහිටිකන්ද ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 02යි මාස 02ක දැරියකි.
+The accident had occurred due to the triumph of the highway due to the triumph of the highway from Mattala towards Kottawa.
 
-අනතුර සිදුවන අවස්ථාවේ වෑන් රථයේ කුඩා දරුවන් ඇතුළු වැඩිහිටියන් 12 දෙනෙකු පමණ ගමන් කර ඇති බව පොලීසිය පවසයි.
+Three young children were injured in the van and rushed to the Elpitiya hospital.
+
+The deceased was a two-year-old girl, Kataragama, a resident of Kataragama.
+
+Police say that about 12 adults in the van had traveled at the time of the accident.
 
 ◼️
 
 [Data](articles/3cd663ce.json)
 
+[Extended Data](ext_articles/3cd663ce.ext.json)
+
 ---
 
-### சீகிரியவில் குளவி கொட்டு: 70 பேர் பாதிப்பு
+### Waste of Sigiriya: 70 people vulnerable
 
 *2024-08-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-குளவி-கொட்டு-70-பேர்-பாதிப்பு/175-342159) · `ta`
 
-சீகிரியவில் குளவிகள் கலைந்து கொட்டியதில் சுற்றுலா பயணிகள் 70 பேர் பாதிக்கப்பட்டு, வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+70 tourists hospitalized due to wasp stings at Sigiriya, highlighting safety concerns.
+
+🟩
+
+70 tourists have been admitted to the hospital after the wasps dissolved in Sigiriya.
 
 ◼️
 
 [Data](articles/a728a13b.json)
 
+[Extended Data](ext_articles/a728a13b.ext.json)
+
 ---
 
-### விஞ்ஞானம் கற்ற 16 மாணவர்கள் பாதிப்பு
+### Impact 16 students learning science
 
 *2024-08-14 13:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஞ்ஞானம்-கற்ற-16-மாணவர்கள்-பாதிப்பு/175-342158) · `ta`
 
-அனுராதபுரவில் உள்ள பாடசாலை ஒன்றின் விஞ்ஞான ஆய்வுக் கூட்டத்தில் நடந்த விபத்தில் 16 மாணவர்கள் பாதிக்கப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+An accident at a school in Anuradhapura during a science study affected 16 students.
+
+🟩
+
+16 students have been affected by the accident at a scientific study at a school in Anuradhapura.
 
 ◼️
 
 [Data](articles/2f9367f3.json)
 
+[Extended Data](ext_articles/2f9367f3.ext.json)
+
 ---
 
-### පාසල් නිවාඩුව ගැන නිවේදනයක්
+### Announcement on school vacation
 
 *2024-08-14 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199926) · `si`
 
-2024 වර්ෂයේ රජයේ සහ හා රජයේ අනුමත පෞද්ගලික සිංහල හා දෙමළ පාසල්වල දෙවන පාසල් වාරය අවසන් කිරීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education announced that the second term of government and approved private Sinhala and Tamil schools will conclude on Friday, August 16th.
 
-ඒ අනුව එම පාසල්වල දෙවන පාසල් වාරය අගෝස්තු 16 වන සිකුරාදා දින අවසන් වේ.
+🟩
+
+The Ministry of Education has issued a statement regarding the completion of the second school term of the government and the approved private Sinhala and Tamil schools in the year.
+
+Accordingly, the second schools in these schools will end on Friday 16th August.
 
 ◼️
 
 [Data](articles/9db753d3.json)
+
+[Extended Data](ext_articles/9db753d3.ext.json)
 
 ---
 
@@ -192,15 +236,21 @@ The new alliance is to contest for the post elections under the chair.
 
 ---
 
-### ඇප තැන්පත් කරන්න දුන් කාලය අවසන්
+### The time to deposit the bail
 
 *2024-08-14 12:57:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-තැන්පත්-කරන්න-දුන්-කාලය-අවසන්/11-411368) · `si`
 
-2024 ජනාධිපිතවරණය සඳහා ඇප මුදල් භාර දීම සඳහා ලබා දුන් කාලය අවසන් වී තිබේ.
+The deadline for posting bail in 2024 has passed.
+
+🟩
+
+The time given to hand over the bail for the last 2024 is over.
 
 ◼️
 
 [Data](articles/5616d643.json)
+
+[Extended Data](ext_articles/5616d643.ext.json)
 
 ---
 
@@ -2213,21 +2263,5 @@ First page of the Geneva Convention of 22 August 1864. (The original document is
 [Data](articles/790a30f7.json)
 
 [Extended Data](ext_articles/790a30f7.ext.json)
-
----
-
-### Abusing the goddess of law – a disaster pending?
-
-*2024-08-14 00:35:24* · [`dailyftlk`](https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480) · `en`
-
-A nation must treat the judiciary with utmost respect and as an institution second to none
-
-Until the leftover piece of the Presidency of Gotabaya Rajapaksa who was unceremoniously expelled by the Aragalaya activists in July 2022 was fallen abruptly into the lap of Ranil Wickremesinghe (RW) the public opinion was that the biggest harm to democracy in this country was done by the late President and leader of the UNP, J.R. Jayewardene.
-
-...
-
-[Data](articles/23783835.json)
-
-[Extended Data](ext_articles/23783835.ext.json)
 
 ---

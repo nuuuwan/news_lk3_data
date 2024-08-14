@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 02:54:50**
+As of **2024-08-15 03:06:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,782 (100.0%) of 40,783 articles have been extended.
+40,783 (100.0%) of 40,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -341,6 +341,8 @@ It would not be wrong to say that WWII saw the zenith of the use of propaganda i
 ...
 
 [Data](articles/b64b3f1e.json)
+
+[Extended Data](ext_articles/b64b3f1e.ext.json)
 
 ---
 

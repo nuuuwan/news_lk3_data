@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 21:36:38**
+As of **2024-08-15 21:56:15**
 
 ## Newspaper Stats
 
-*Scraped **40,950** Articles*
+*Scraped **40,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,488
 dailyftlk | 2,646
-adalk | 3,771
+adalk | 3,772
 dailymirrorlk | 4,733
 adaderanalk | 4,781
 tamilmirrorlk | 5,233
-virakesarilk | 6,487
-adaderanasinhalalk | 6,966
+virakesarilk | 6,489
+adaderanasinhalalk | 6,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,949 (100.0%) of 40,950 articles have been extended.
+40,950 (100.0%) of 40,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### රතු සීනි ජාවාරමක් ගැන තොරතුරු
+
+*2024-08-15 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199978) · `si`
+
+ඉන්දියානු රතු සීනි ලෙස හඳුන්වමින් මෙරට වෙළෙඳපොළට එන සීනි ජාවාරමක තොරතුරු හෙළි කරගැනීමට පාරිභෝගික කටයුතු අධිකාරිය සමත්වී තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකාවේ නිෂ්පාදිත රතු සීනි සමග ඉන්දියාවෙන් ආනයනය කරන ලද සුදු සීනි මිශ්‍ර කරමින් මෙම රතු සීනි මෙරට වෙළෙඳපොළට නිකුත් කරන බව හෙළිවී ඇත.
+
+අද (15) ඇඹිලිපිටිය ප්‍රදේශයේදී සිදුකළ වැටලීමකදී මෙම ජාවාරම පිළිබඳ තොරතුරු අනාවරණය කෙරුණි.
+
+අදාළ ව්‍යාපාරිකයා කාලයක් තිස්සේ මෙම ජාවාරම සිදුකර ඇති බවට සැක කෙරෙයි.
+
+එම ස්ථානයේ තිබී කිලෝග්‍රෑම් 50 හිස් සීනි ඇසුරුම් 2500කට අධික ප්‍රමාණයක් සොයාගෙන ඇති අතර ඒවා තුළ තිබූ සීනි ඉන්දියානු රතු සීනි ලෙස වෙළෙඳපොළ තුළ අලෙවි කර තිබේද යන්න පිළිබඳව විමර්ශන ක්‍රියාත්මකය.
+
+මෙලෙස මිශ්‍ර කරන ලද රතු සීනි කිලෝවක් රුපියල් 300ක පමණ මිලකට අලෙවිකර ඇති බවද නිලධාරීන් පවසයි.
+
+සුදු සීනි කිලෝවක් රුපියල් 240 බැගින් සහ රතු සීනි කිලෝවක් රුපියල් 310 බැගින් අදාළ ව්‍යාපාරිකයා මිලදී ගෙන ඇති බවට ද හඳුනාගෙන තිබේ.
+
+මේ අතර මිනිස් පරිභෝජනයට නුසුදුසු පරිප්පු කිලෝ 1000ක් පිටකොටුව ආදුරුප්පු වීදියෙන් සොයාගෙන තිබේ.
+
+...
+
+[Data](articles/4b795b99.json)
+
+---
+
+### சமையல் எரிவாயு சின்னம் ஜனாதிபதிக்கு கிடைத்த இறைவனின் ஆசிர்வாதம் - ஐக்கிய தேசிய கட்சி
+
+*2024-08-15 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191179) · `ta`
+
+சமையல் எரிவாயு வரிசையை முடிவுக்கு கொண்டுவந்த  ரணில் விக்ரமசிங்கவுக்கு சமையல் எரிவாயு சிலிண்டர் சின்னமாக கிடைத்திருப்பது இறைவனின் ஆசிர்வாதமாகும். மக்களின் இதயத்தை தொடக்கூடிய இந்த சின்னம், நிச்சயமாக ரணிலை வெற்றிபெறச்செய்யும் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+நாட்டு மக்கள் சமையல் எரிவாயுக்காக வரிசையில் இருந்த சந்தர்ப்பத்திலேயே ரணில் விக்ரமசிங்க நாட்டை பொறுப்பேற்று,எரிவாயு பிரச்சினைக்கு தீர்வை பெற்றுக்கொடுத்தார். ரணில் விக்ரமசிங்கவின் இந்த மகத்தான பணிக்கு இறைவனின் ஆசிர்வாதமாகவே அவருக்கு சமையல் எரிவாயு சிலிண்டர் தேர்தல் சின்னமாக கிடைத்திருக்கிறது. சமையல் எரிவாயு வரிசையின் நினைவுகளுடன் சிலிண்டர் சின்னத்தை வெற்றிபெறச்செய்ய முடியும் என்ற நம்பிக்கை எமக்கு இருக்கிறது.
+
+...
+
+[Data](articles/ce1d869b.json)
+
+---
 
 ### EU to deploy observation mission to Sri Lanka for Presidential Election
 
@@ -48,23 +90,9 @@ The High Representative of the Union for Foreign Affairs and Security Policy and
 
 ---
 
-### අපේක්ෂකයින්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව ට විශේෂ කමිටුවක්
-
-*2024-08-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199977) · `si`
-
-ජනාධිපතිවරණ සමයේ අපේක්ෂකයින්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව සඳහා විශේෂ කමිටුවක් පත් කර ඇති බව පොලීසිය පවසයි.
-
-වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා පැවසුවේ බුද්ධි තොරතුරු මත එක් එක් අපේක්ෂකයාට ලබා දෙන ආරක්ෂාව පිළිබඳව තීරණය කරන බවය.
-
-...
-
-[Data](articles/0f39edfa.json)
-
----
-
 ### 7 workers of the wasp shed;Admission at the hospital
 
-*2024-08-15 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191178) · `ta`
+*2024-08-15 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191178) · `ta`
 
 Seven workers plucking tea at Bogawantalawa Gargaswold were stung by wasps and hospitalized after a wasp nest was disturbed. The incident occurred at 5 pm on Thursday, the 15th, under the Norwood Police Division.
 
@@ -81,6 +109,46 @@ It is noteworthy that the Bogawantalawa Gergaswold suburban garden tea has disso
 [Data](articles/52ce3074.json)
 
 [Extended Data](ext_articles/52ce3074.ext.json)
+
+---
+
+### எந்த வேட்பாளரும் ரணிலுக்கு சவாலாகப்போவதில்லை : ஆஷு மாரசிங்க
+
+*2024-08-15 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191167) · `ta`
+
+வேட்புமனு தாக்கல் செய்துள்ள வேட்பாளர்களில் நாட்டின் எதிர்காலத்துக்காக முன்வந்திருக்கும் ஒரே வேட்பாளர் ரணில் விக்ரமசிங்க மாத்திரமாகும். அதனால் எந்த வேட்பாளரும் ரணில் விக்ரமசிங்கவுக்கு சவாலாகப்போவதில்லை என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (15) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தலுக்காக நேற்றைய தினம் 39 வேட்பாளர்கள் வேட்புமனு தாக்கல் செய்தார்கள். இந்த வேட்பாளர்களில் நாட்டுக்காக முன்வந்திருக்கும் ஒரே வேட்பாளர் ரணில் விக்ரமசிங்க மாத்திரமாகும். ஏனைய வேட்பாளர்கள் அனைவரும் பல்வேறு சுயநல காரணங்களுக்கே போட்டியிடுகின்றனர்.
+
+அதனால் நாட்டின் எதிர்காலம், மக்களின் எதிர்காலம் தொடர்பில் சிந்தித்து செயற்பட்டு வரும் ரணில் விக்ரமசிங்கவை வெற்றிபெறச்செய்ய மக்கள் அணி திறளவேண்டும்.
+
+...
+
+[Data](articles/bee818bd.json)
+
+---
+
+### Special committee to protect candidates and former presidents
+
+*2024-08-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199977) · `si`
+
+A special committee has been formed to ensure the security of election candidates and former presidents, led by the Secretary to the Ministry of Defense. This committee assesses threats and adjusts security measures as needed, notifying candidates about potential risks and providing protection for all events.
+
+🟩
+
+A special committee has been appointed to protect the candidates and former presidential election.
+
+Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for the candidate is determined by intelligence.
+
+"The security of candidates and the security of candidates have been appointed to monitor the safety of former president's security. The chief of the committee is presidentially owned by the Secretary to the Ministry of Defense. It will provide any protection for every candidate. In addition, an assessment of the threats to each candidate. That assessment is done by that committee. Accordingly, if the committee is required to increase protection, increase the security. Accordingly, he protects every candidate. Accordingly, each candidate is notified regarding the meetings participating in the meetings and provides the necessary protection for the meetings. The necessary notifications will be done in the incident. "
+
+◼️
+
+[Data](articles/0f39edfa.json)
+
+[Extended Data](ext_articles/0f39edfa.ext.json)
 
 ---
 
@@ -131,6 +199,24 @@ It has been decided to give time to two questions that have been adjourned from 
 [Data](articles/1846964c.json)
 
 [Extended Data](ext_articles/1846964c.ext.json)
+
+---
+
+### ලබන සතියේ පාර්ලිමේන්තුව රැස්වන්නේ 21දා පමණයි
+
+*2024-08-15 19:15:07* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සතියේ-පාර්ලිමේන්තුව-රැස්වන්නේ-21දා-පමණයි/11-411398) · `si`
+
+අගෝස්තු මස දෙවැනි රැස්වීම් සතියේ පාර්ලිමේන්තුව 21 වැනි බදාදා පමණක් රැස්වීමට කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පසුගිය 08 වැනිදා රැස්වූ පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කළ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+මේ අනුව අගෝස්තු 21 වැනි බදාදා පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා සුරාබදු ආඥා පනත යටතේ අංක 2366/39 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළ කරනු ලැබූ නිවේදනය සහ කොළඹ වරාය නගරය ආර්ථික කොමිෂන් සභාව පනත යටතේ අංක 2387/38 දරන අතිවිශේෂ ගැසට් පත්‍රයේ පළ කර ඇති නියෝග විවාදයට ගැනීමට මෙහිදී තීරණය වී ඇත.
+
+අනතුරුව වර්ල්ඩ් ලයිෆ් ලයින් යෝගා ආයතනය (සංස්ථාගත කිරීමේ) පෞද්ගලික මන්ත්‍රී පනත් කෙටුම්පත දෙවැනිවර කියවීමෙන් අනතුරුව ව්‍යවස්ථාදායක ස්ථාවර කාරක සභාව වෙත යොමු කිරීමට ද නියමිතව තිබේ.
+
+ඉන්පසු ප.ව 5.00 සිට ප.ව 5.30 දක්වා සභාව කල්තබන අවස්ථාවේ ප්‍රශ්න 2ක් සඳහා කාලය වෙන් කිරීමට ද මෙහිදී තීරණය වී ඇත.
+
+◼️
+
+[Data](articles/f551c577.json)
 
 ---
 
@@ -2181,97 +2267,5 @@ He added that Anurakumara or Sajith would win and no matter who wins, he said.
 [Data](articles/652006af.json)
 
 [Extended Data](ext_articles/652006af.ext.json)
-
----
-
-### 39 presidential candidates submit nominations
-
-*2024-08-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101253/39-presidential-candidates-submit-nominations) · `en`
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake announced that 39 out of 40 candidates who have placed bonds to contest the 2024 Presidential Election have submitted their nominations thus far.
-
-He stated this while addressing the presidential candidates, signatories and others in attendance at the Election Secretariat for the submission of nominations.
-
-He stated that a total of 40 candidates had placed deposits for the election and that of them 39 have so far hand over their nominations while one more candidate is yet to hand over nominations for the presidential poll.
-
-The submission of nominations, which commenced at 9.00 a.m. this morning at the Presidential Secretariat, will conclude at 11.00 a.m.
-
-◼️
-
-[Data](articles/2df7f545.json)
-
-[Extended Data](ext_articles/2df7f545.ext.json)
-
----
-
-### Murder after sexual violence in Kolkata
-
-*2024-08-15 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191128) · `ta`
-
-Thousands protested in Kolkata against the murder of a female doctor, highlighting a week of demonstrations. Women from various backgrounds joined, inspired by social media calls. The protests turned violent as some damaged the hospital's emergency department. Despite the late-night start, the rallies were marked by unity and a strong message for women's rights, reflecting a significant show of solidarity and demand for justice.
-
-🟩
-
-Thousands of women staged protests last night in protest of the murder of a female doctor at Kolkata's royal hospital.
-
-It is noteworthy that demonstrations have been held in Kolkata over the past one week, expressing fierce opposition to the murder of a female doctor.
-
-Following the requests made by social media, women from all sides of the community participated in the rally.
-
-Some people who entered the hospital where the incident of sexual violence have damaged the hospital's emergency department.
-
-In other parts of Kolkata, the women marched in the night with the light of the mobile phone, the candle and other lights.
-
-At 12 o'clock at night, the trend of the demonstration has changed in a way that refers to India's independence.
-
-"We have never seen a large number of women in Kolkata," a reporter said.
-
-After midnight, a woman who attended her 13 -year -old daughter would see if she could rectify the situation through massive demonstrations, and let her be aware of her rights.
-
-...
-
-[Data](articles/3fba8bdd.json)
-
-[Extended Data](ext_articles/3fba8bdd.ext.json)
-
----
-
-### Mano greeted Tilakar
-
-*2024-08-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலகரை-வாழ்த்தினார்-மனோ/175-342207) · `ta`
-
-Mano Ganesan, a former parliamentarian, congratulated the Elections Commission for filing a nomination for former MP Mayilvankanam Tilakraj.
-
-🟩
-
-Former parliamentarian Mano Ganesan congratulated the Elections Commission to file a nomination of former MP Mayilvankanam Tilakraj.
-
-◼️
-
-[Data](articles/33e41f16.json)
-
-[Extended Data](ext_articles/33e41f16.ext.json)
-
----
-
-### WHO declares monkeypox a global public health emergency
-
-*2024-08-15 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101252/who-declares-monkeypox-a-global-public-health-emergency) · `en`
-
-The World Health Organization on Wednesday declared mpox a global public health emergency for the second time in two years, following an outbreak of the viral infection in Democratic Republic of Congo that has spread to neighbouring countries.
-
-An emergency committee met earlier on Wednesday to advise WHO Director-General Tedros Adhanom Ghebreyesus on whether the disease outbreak constitutes a “public health emergency of international concern,” or PHEIC.
-
-PHEIC status is WHO’s highest level of alert and aims to accelerate research, funding and international public health measures and cooperation to contain a disease.
-
-“It’s clear that a coordinated international response is essential to stop these outbreaks and save lives,” said Tedros.
-
-Mpox can spread through close contact. Usually mild, it is fatal in rare cases. It causes flu-like symptoms and pus-filled lesions on the body.
-
-...
-
-[Data](articles/cf46c870.json)
-
-[Extended Data](ext_articles/cf46c870.ext.json)
 
 ---

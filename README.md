@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 08:37:19**
+As of **2024-08-15 08:55:32**
 
 ## Newspaper Stats
 
-*Scraped **40,815** Articles*
+*Scraped **40,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,637
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
-tamilmirrorlk | 5,202
+tamilmirrorlk | 5,205
 virakesarilk | 6,467
 adaderanasinhalalk | 6,947
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,815 (100.0%) of 40,815 articles have been extended.
+40,815 (100.0%) of 40,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### தேர்தல் அச்சுப்பணிகள் நாளை முதல் ஆரம்பம்
+
+*2024-08-15 08:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அச்சுப்பணிகள்-நாளை-முதல்-ஆரம்பம்/175-342196) · `ta`
+
+ஜனாதிபதி தேர்தலுடன் தொடர்புடைய அச்சுப்பணிகள் நாளை முதல் ஆரம்பிக்கப்படவுள்ளதாக அரச அச்சகர் கங்கா கல்பனி லியனகே தெரிவித்துள்ளார்.
+
+இன்று வேட்புமனு தாக்கல் நிறைவடைந்து தேர்தல்கள் ஆணைக்குழுவின் அனுமதி கிடைத்ததன் பின்னர் அச்சுப்பணிகள் ஆரம்பிக்கப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+
+இம்முறை ஜனாதிபதி தேர்தலில் களமிறங்கும் வேட்பாளர்களின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், 2019 ஆம் ஆண்டு பயன்படுத்தப்பட்ட வாக்குச்சீட்டுடன் ஒப்பிடும் போது குறிப்பிடத்தக்க மாற்றம் ஏதும் இடம்பெறாது  எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/979fff68.json)
+
+---
+
+### வேட்புமனு தாக்கல் இன்று
+
+*2024-08-15 08:28:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனு-தாக்கல்-இன்று/175-342195) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்களின் வேட்புமனுக்கள் இன்று காலை 9 மணி முதல் முற்பகல் 11 மணி வரை ஏற்றுக்கொள்ளப்படவுள்ளன.
+
+இதற்கான ஆட்சேபனைகளை முன்வைப்பதற்கு காலை 9 மணி முதல் முற்பகல் 11.30 வரை சந்தர்ப்பம் வழங்கப்படவுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/a6beefb2.json)
+
+---
 
 ### Harin and Manusha's Minister beat President
 
@@ -539,6 +569,22 @@ Meanwhile, the number of representatives visiting with candidates who file nomin
 [Data](articles/c1e22659.json)
 
 [Extended Data](ext_articles/c1e22659.ext.json)
+
+---
+
+### கொழும்பில் இன்று விசேட பாதுகாப்பு
+
+*2024-08-15 02:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கொழும்பில்-இன்று-விசேட-பாதுகாப்பு/150-342181) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான வேட்புமனு தாக்கல் செய்யும் தினமான இன்று விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்படவுள்ளன.
+
+இராஜகிரியவில் உள்ள தேர்தல் அலுவலகத்தை அண்மித்த வீதிகளில் இன்று விசேட போக்குவரத்துத் திட்டம் அமுல்படுத்தப்படவுள்ளது.
+
+இதேவேளை, வேட்புமனுக்களைத் தாக்கல் செய்யும் வேட்பாளர்களுடன் வருகைதரும் பிரதிநிதிகளின் எண்ணிக்கையும் மட்டுப்படுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/c7b0a2ca.json)
 
 ---
 
@@ -2195,67 +2241,5 @@ It is reported that the current Cabinet is operating until a new Prime Minister 
 [Data](articles/746e22e1.json)
 
 [Extended Data](ext_articles/746e22e1.ext.json)
-
----
-
-### Ministry of Education on the second installment holiday
-
-*2024-08-14 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191090) · `ta`
-
-The Ministry of Education announced the completion of the second installment for this year and confirmed that educational activities for the third term will resume on August 26.
-
-🟩
-
-The Ministry of Education has issued a notification regarding the completion of the second installment of this year.
-
-Meanwhile, the Ministry of Education said that the educational activities for the third term will be resumed on August 26.
-
-◼️
-
-[Data](articles/0a9e88ad.json)
-
-[Extended Data](ext_articles/0a9e88ad.ext.json)
-
----
-
-### Sri Lanka govt pitches income tax relief to IMF ahead of polls
-
-*2024-08-14 14:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-pitches-income-tax-relief-to-imf-ahead-of-polls-176757/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government has proposed to the International Monetary Fund (IMF) an income tax relief by adjusting tax slabs, President Ranil Wickremesinghe’s office said, as the tax burden has become a key topic in the presidential election campaign.
-
-The presidential election has been scheduled for September 21 and President Wickremesinghe is contesting in a broader independent coalition.
-
-Under the economic reforms committed to the IMF, Wickremesinghe’s administration raised the maximum limit of personal income tax to 36 percent from 24 percent, while reducing the slabs to 500,000 rupees. The move came after Sri Lanka was hit by an unprecedented economic crisis in 2022.
-
-The move raised the government’s tax revenue, but millions of state and private sector employees complained over the Wickremesinghe government’s decision on raising the tax rate and reducing the tax slabs.
-
-...
-
-[Data](articles/bd046601.json)
-
-[Extended Data](ext_articles/bd046601.ext.json)
-
----
-
-### Sri Lanka approves appointments of six ambassadors, high commissioner, 3 officials
-
-*2024-08-14 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-appointments-of-six-ambassadors-high-commissioner-3-officials-176756/) · `en`
-
-ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved the appointments of 6 new ambassadors, a high commissioner, 2 ministry secretaries and a chairman of a statutory body.
-
-The Committee on High Posts approved S A P P Seram as ambassador of Sri Lanka to Indonesia and R S K Azard as ambassador to Qatar, it said in a statement.
-
-S K Gunasekara was appointed ambassador to the Russian Federation, A S K Senaviratne to Egypt, N M Shaheed to Iran, Y K Gunasekara to Bahrain and S P Walpita Gamage was appointed high commissioner to New Zealand.
-
-The Committee appointed B K P Chandrakirthi as secretary to the Ministry of Environment and S Weerasinghe as secretary to the Ministry of Industry.
-
-D T K Bernard’s appointment as chairman and chief executive officer of the Sri Lanka Export Development Board was also approved. (Colombo/Aug14/2024)
-
-◼️
-
-[Data](articles/bb0cd531.json)
-
-[Extended Data](ext_articles/bb0cd531.ext.json)
 
 ---

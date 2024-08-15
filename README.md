@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 10:36:27**
+As of **2024-08-15 10:55:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,834 (100.0%) of 40,840 articles have been extended.
+40,840 (100.0%) of 40,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,17 +50,25 @@ This year’s Esala Festival will officially come to an end after the Nilames to
 
 [Data](articles/1d394d74.json)
 
+[Extended Data](ext_articles/1d394d74.ext.json)
+
 ---
 
-### வேட்புமனுக்களை கையளிக்க ரணில், சஜித் தேர்தல் ஆணைக்குழுவுக்கு வருகை !
+### Ranil visits Sajith Election Commission to hand over nominations
 
 *2024-08-15 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191126) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ ஆகியோர்  எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்களை கையளிப்பதற்காக இராஜகிரியவில் உள்ள தேர்தல்கள் ஆணைக்குழுவிற்கு வருகை தந்துள்ளனர்.
+President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa submitted their nominations for the upcoming presidential election at the Elections Commission in Rajagiriya.
+
+🟩
+
+President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have visited the Elections Commission in Rajagiriya to hand over the nominations for the upcoming presidential election.
 
 ◼️
 
 [Data](articles/0e835e61.json)
+
+[Extended Data](ext_articles/0e835e61.ext.json)
 
 ---
 
@@ -108,21 +116,27 @@ Fever as the basic symptoms of fever are shown as the emergence of skin injuries
 
 ---
 
-### தமிழ் முற்போக்கு கூட்டணியின் வேலுகுமார் ஜனாதிபதி ரணிலுக்கு ஆதரவு !
+### Velukumar supports President Ranil of Tamil Progressive Alliance
 
 *2024-08-15 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191124) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணியின் பாராளுமன்ற உறுப்பினர் வேலுகுமார் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தனது ஆதரவைத் தெரிவித்துள்ளார்.
+Velukumar, a TPA MP, backs President Ranil Wickremesinghe, contrasting with the TNA's support for Sajith Premadasa. He plans to meet Wickremesinghe and submitted his nomination for the presidential election.
 
-இதேவேளை, தமிழ் முற்போக்குக் கூட்டணி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவுக்கு ஆதரவை வழங்குவதாக சில நாட்களுக்கு முன்னர் அறிவித்திருந்த நிலையில், தமிழ் முற்போக்குக் கூட்டணியின் பாராளுமன்ற உறுப்பினரான வேலுக்குமார் தனது முடிவை இன்று வியாழக்கிழமை (15) அறிவித்துள்ளார்.
+🟩
 
-பாராளுமன்ற உறுப்பினர் வேலு குமார், இன்று காலை  ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து ஆதரவளிப்பதாக உறுதியளித்தார்.
+Velukumar, Member of Parliament of the Tamil Progressive Alliance, expressed his support for President Ranil Wickremesinghe.
 
-ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுவை சமர்ப்பிப்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தல்கள் ஆணைக்குழுவுக்கு செல்வதற்கு முன்னர் பிளவர் வீதியில் உள்ள ஜனாதிபதியின் அலுவலகத்திற்கு சென்ற வேலுகுமார் தனது ஆதரவை தெரிவித்துள்ளார்.
+Meanwhile, the Tamil Progressive Alliance (TNA) parliamentarian Velukumar announced his decision on Thursday (15) as the Tamil Progressive Alliance (TNA) announced his support for opposition leader Sajith Premadasa a few days ago.
+
+Parliamentarian Velu Kumar promised to meet President Ranil Wickremesinghe this morning.
+
+Velukumar, who went to the President's office on Flower Road before he went to the Elections Commission to submit the nomination for the presidential election.
 
 ◼️
 
 [Data](articles/88fd2377.json)
+
+[Extended Data](ext_articles/88fd2377.ext.json)
 
 ---
 
@@ -164,6 +178,8 @@ The MP had met with President Ranil at his office in Flower Road prior to the la
 
 [Data](articles/d90b4967.json)
 
+[Extended Data](ext_articles/d90b4967.ext.json)
+
 ---
 
 ### Another Member of the Samagi Power to support the President
@@ -186,15 +202,21 @@ He was elected to Parliament from the Kandy District representing the reconcilia
 
 ---
 
-### வேட்பு மனுவில் கையெழுத்திட்டார் சஜித் !
+### Sajith signed the nomination
 
 *2024-08-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191125) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடும் ஐக்கிய மக்கள் சக்தியின் தலைவரும், தற்போதைய எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச இன்று வியாழக்கிழமை (15) தனது வேட்பு மனுவில் கையெழுத்திட்டார்.
+Sajith Premadasa, leading the United People's Power as opposition, signed his nomination for the 2024 presidential race on Thursday (15).
+
+🟩
+
+Sajith Premadasa, the leader of the United People's Power and the current opposition leader, who is contesting the 2024 presidential election, signed his nomination on Thursday (15).
 
 ◼️
 
 [Data](articles/cda7c732.json)
+
+[Extended Data](ext_articles/cda7c732.ext.json)
 
 ---
 
@@ -367,6 +389,8 @@ Against this backdrop, the vicinity of the Election Commission Office in Rajagir
 ...
 
 [Data](articles/17150dd7.json)
+
+[Extended Data](ext_articles/17150dd7.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 19:54:45**
+As of **2024-08-15 20:06:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,940 (100.0%) of 40,941 articles have been extended.
+40,941 (100.0%) of 40,941 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,17 +90,23 @@ A spokesman for the incident inquiry into the incident, a spokesman said that an
 
 ---
 
-### නාමල් හෙට අනුරපුරින් වැඩ අරඹයි
+### Namal starts work forward tomorrow
 
 *2024-08-15 18:34:06* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-හෙට-අනුරපුරින්-වැඩ-අරඹයි/11-411393) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා හෙට දිනයේදී අනුරාධපුර අටමස්ථාන වැඳ පුදා ආශිර්වාද ලබා ගැනීමට නියමිතය.
+Tomorrow, Namal begins his work as a presidential candidate, including paying respects at Atamasthana Anuradhapura and holding his first rally there. Today, he submitted his nomination for the presidential election.
 
-අද දිනයේදී ඔහු ජනපතිවරණය සඳහා නාම යොජනා භාර දුන්නේය. නාමල් රාජපක්ෂ මහතාගේ මංගල රැළියද අනුරාධපුරයේදී පැවැත්වීමට නියමිතව තිබේ.
+🟩
+
+Presidential candidate, Presidential candidate, is due to pay homage to the Atamasthana Anuradhapura at Anuradhapura tomorrow.
+
+Today he handed over the names of the names for the presidential election. Namal Rajapaksa's maiden rally is also scheduled to be held in Anuradhapura.
 
 ◼️
 
 [Data](articles/c7e307a4.json)
+
+[Extended Data](ext_articles/c7e307a4.ext.json)
 
 ---
 

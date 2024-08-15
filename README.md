@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 03:06:21**
+As of **2024-08-16 03:36:38**
 
 ## Newspaper Stats
 
-*Scraped **40,972** Articles*
+*Scraped **40,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,490
-dailyftlk | 2,654
+dailyftlk | 2,655
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
-tamilmirrorlk | 5,236
-virakesarilk | 6,489
+tamilmirrorlk | 5,237
+virakesarilk | 6,492
 adaderanasinhalalk | 6,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,970 (100.0%) of 40,972 articles have been extended.
+40,973 (100.0%) of 40,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### வெற்றிக்காக போட்டியிடவில்லை; தமிழர்களின் ஒற்றுமையை பலப்படுத்தவே போட்டியிடுகிறேன் - பா.அரியநேத்திரன்
+
+*2024-08-16 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191182) · `ta`
+
+தேர்தலில் வெற்றிப் பெறுவதற்காக போட்டியிடவில்லை, தமிழ் மக்களின் ஒற்றுமையை ஒரு சக்தியாக இலங்கை அரசுக்கும், சர்வதேசத்துக்கும் காண்பிப்பதற்காகவே போட்டியிடுகிறேன் என தமிழ் பொதுவேட்பாளரான பா.அரியநேத்திரன் தெரிவித்தார்.
+
+தேர்தல்கள் ஆணைக்குழுவில் வியாழக்கிழமை (16) இடம்பெற்ற வேட்புமனு கையளிப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சிங்கள அரச தலைவர்களுடன் பேச்சுவார்த்தையில் ஈடுபடவில்லை, கடந்த கால பேச்சுவார்த்தைகள் தோல்வியடைந்துள்ளன. இதன் காரணமாகவே இம்முறை தனித்து போட்டியில் இறங்கியுள்ளோம்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் நாங்கள் பேச்சுவார்த்தையில் ஈடுபடவில்லை. தமிழ் பொது கட்டமைப்பின் ஒரு தரப்பினர் பேச்சுவார்த்தையில் ஈடுபட்டுள்ளார்கள். யோசனைகள் முன்வைக்கப்பட்டு அவை பரிசீலிக்கப்படுகிறது.
+
+எமது தேர்தல் விஞ்ஞாபனத்தை வெகு விரைவில் வெளியிடுவோம். அத்துடன் தேர்தல் பிரச்சாரங்களையும் முன்னெடுப்போம். இலங்கை வாழ் தமிழ் மக்களின் ஒத்துழைப்பை எதிர்பார்த்துள்ளோம். எமது வெற்றி அரசுக்கு ஒரு எடுத்துக்காட்டாக அமையும் என்றார்.
+
+◼️
+
+[Data](articles/7b5106c1.json)
+
+---
+
+### “Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake
+
+*2024-08-16 02:53:29* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-has-vision-and-capability-to-lead-SL-towards-a-better-future-Gen-Daya-Ratnayake/14-765610) · `en`
+
+Says experienced and capable leaders are expressing their interest to join SJB
+
+Confirms implementing comprehensive framework, strategic plan and implementation policies to eradicate corruption
+
+Ensures to bring all past wrongdoers to justice under SJB Govt.
+
+Says a talented professional team of SJB to formulate policies and guidelines to address existing burning issues
+
+Commends SJB leader Premadasa for taking initiatives as opposition leader to implement people-centric programs
+
+Says SJB’s ex-servicemen movement represents disciplined, experienced, mature, and deeply patriotic segment of population
+
+Claims many of the most respected ex-servicemen, with proven track records and recognised service, are with the SJB’s Ranawiru movement
+
+Says SJB intends to fully utilise ex-servicemen in nation building through establishing an Ex-Servicemen’s Secretariat
+
+Claims military officers appointed to top posts under previous Gotabaya Rajapaksa Govt. performed well
+
+...
+
+[Data](articles/6557293f.json)
+
+[Extended Data](ext_articles/6557293f.ext.json)
+
+---
 
 ### Harry Jayawardena: Hardnosed businessman with the softest heartbeat
 
@@ -43,6 +93,8 @@ It was a time not just of exile but abandonment; for reasons of convenience or f
 ...
 
 [Data](articles/46488a84.json)
+
+[Extended Data](ext_articles/46488a84.ext.json)
 
 ---
 
@@ -57,6 +109,8 @@ Speaking after the signing of the MoU at Gangaramaya, Senaratne described Wickre
 ...
 
 [Data](articles/53b051e3.json)
+
+[Extended Data](ext_articles/53b051e3.ext.json)
 
 ---
 
@@ -194,6 +248,42 @@ Scientists are worried about the speed of spreading the new variant of the virus
 
 ---
 
+### நாட்டின் ஒற்றையாட்சியை எம்மால் மாத்திரமே பாதுகாக்க முடியும்தேர்தலில் அமோக வெற்றி பெறுவோம் - நாமல் ராஜபக்ஷ உறுதி
+
+*2024-08-16 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191181) · `ta`
+
+நாட்டின் ஒற்றையாட்சி மற்றும் தேசிய உற்பத்தி ஆகியவற்றை எம்மால் மாத்திரமே பாதுகாக்க முடியும்.தேர்தலில் நிச்சயம் வெற்றிப் பெறுவோம்.கொள்கையை முன்னிலைப்படுத்தி செயற்படுவதால் எவரும் எமக்கு சவாலல்ல என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+தேர்தல்கள் ஆணைக்குழுவில் வியாழக்கிழமை (15) வேட்புமனுவை சமர்ப்பித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+இடம்பெறவுள்ள ஜனாதிபதித் தேர்தல் தீர்மானமிக்கது.நாட்டின் ஒற்றையாட்சி மற்றும் தேசிய உற்பத்திகளை எம்மால் மாத்திரமே பாதுகாக்க முடியும்.இந்த தேர்தலில் நாங்கள் நிச்சயம் வெற்றிப் பெறுவோம்.அதற்கான செயற்பாடுகளை முன்னெடுத்துள்ளோம்.
+
+நபர்களை அடிப்படையாகக் கொண்டு நாங்கள் செயற்படவில்லை. கொள்கைகளை முன்னிலைப்படுத்தி செயற்படுகிறோம்.நாங்கள் செயற்படுகிறோம்.அரசியலில் நண்பரும் இல்லை எதிரியும் இல்லை என்பார்கள்.ஆகவே எம்மை விட்டுச் சென்றவர்கள் மீண்டும் எம்முடன் இணைவார்கள் என்றார்.
+
+...
+
+[Data](articles/693624f5.json)
+
+---
+
+### மலையக தமிழர் சமூகம் உப குழு
+
+*2024-08-16 00:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-சமூகம்-உப-குழு/175-342257) · `ta`
+
+இலங்கை மனித உரிமைகள் ஆணைக்குழுவினால்   08 முக்கிய கருப்பொருள்களை கொண்டு  அமைத்துள்ள உபகுழுவில் மலையக தமிழர்களுக்கு நிலவும்  மனித உரிமைகள் சார் பிரச்சனைகள் தொடர்பில் ஆராய்வத ற்காக மலையக தமிழர் சமூகம் என்ற உப குழுவையும்   அமைத்துள்ளது.
+
+இது இலங்கை வரலாற்றில் முதன் முதலாக மலையக மக்கள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவினால்  அமைத்துள்ள முதலாவது  உப குழு என்பது குறிப்பிடத்தக்கதாகும்.
+
+குறித்த  உப குழுவின் முதலாவது கூட்டத்தொடர்  இலங்கை மனித உரிமைகள் அணைக்குழுவின் தலமையகத்தில் ஆணையாளர் பேராசிரியர் தை .தனராஜ் தலைமையில் புதன்கிழமை (14) இடம்பெற்றது.
+
+கலந்துரையாடலில் உபகுழுவின் செயலாளர் சட்டத்தரணி கபிலன் வில்லவராஜன்,பணிப்பாளர் நிஹால் சந்திரஸ்ரீ ,இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் ஏனைய ஆணையாளர்களான கலாநிதி கிஹான் குணாதிலக்க , பேராசிரியர் பர்ஹானா ஹனிபா ஆகியோரோடு , ஆணைக்குழுவின் முக்கிய அதிகாரிகளோடும்  ,மலையக சமூகத்தை பிரதிநித்துவப்படுத்தி இவ்  உபகுழுவுக்கு தெரிவுசெய்யப்பட்ட சிவஞானம் பிரபாகரன் ,திருமதி பி .யோகேஸ்வரி .கந்தையா தனபாலசிங்கம் ஆகியோரும் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/65abac41.json)
+
+---
+
 ### 2024-08-15 (Thursday)
 
 ### Rs.. Mango auction for 2,85,000
@@ -235,6 +325,24 @@ The diplomatic minister said that all party leaders should be more concerned abo
 [Data](articles/dcd31849.json)
 
 [Extended Data](ext_articles/dcd31849.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுவை கையளித்த ஜனாதிபதி வரலாற்று சிறப்புமிக்க தலதா மாளிகைக்குச் சென்று ஆசி பெற்றார்
+
+*2024-08-15 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191180) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுவை வியாழக்கிழமை (15) கையளித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, வரலாற்று சிறப்புமிக்க கண்டி தலதா மாளிகைக்கு சென்று மத வழிபாடுகளில் ஈடுபட்டு ஆசி பெற்றார்.
+
+தலதா மாளிகைக்கு வருகை தந்த ஜனாதிபதி ரணில் விக்ரமசிங்கவை, தியவடன நிலமே பிரதீப் நிலங்க தேல வரவேற்றார். பின்னர் தலதா மாளிகையின் மேல்மாடிக்கு சென்ற ஜனாதிபதி, மத வழிபாடுகளில் ஈடுபட்டார். தலதா மாளிகைக்கு வருகை தந்திருந்த மக்களிடம் நலன் விசாரித்த ஜனாதிபதி அவர்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்காக, அவர்கள் வாழ்த்து தெரிவித்தனர்.
+
+பின்னர் மல்வத்து மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து பீடத்தின் மகாநாயக்க வண. ஸ்ரீ சுமங்கல தேரரின் ஆசிர்வாதத்தைப் பெற்றுக் கொண்ட பின்னர் தேரருடன் சிறு கலந்துரையாடலில் ஈடுபட்டார். தேரர் பிரித் பாராயணம் செய்து  ஜனாதிபதிக்கு ஆசி வழங்கினார்.
+
+...
+
+[Data](articles/7b120f9c.json)
 
 ---
 
@@ -2133,133 +2241,5 @@ The President of Ukraine said that his soldiers have jumped one more than a half
 [Data](articles/b11c84b3.json)
 
 [Extended Data](ext_articles/b11c84b3.ext.json)
-
----
-
-### Presidential election 2024: President pays 39 candidates to fight
-
-*2024-08-15 12:39:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4lv4ngdv9o) · `si`
-
-In the 2024 Presidential Election, 39 candidates have been nominated, including three who protested during the nomination process. The election will take place on September 21, with all candidates expressing their intentions to the election commission.
-
-🟩
-
-Nothing is containing novidio headquarters, presidential election campaign ... What are the main candidates?
-
-A total of 39 candidates handed over the names of 39 candidates for the Presidential Election Day today (August 15).
-
-The Elections Commissioner Chairman RM V.L Ratnayake announced that there were three protests during the period of the protest period.
-
-Accordingly, 39 candidates contest for the 2124 presidential election on September 21, and several candidates expressed their views in front of the election commissioner of Rajagiriya.
-
-◼️
-
-[Data](articles/22f3f8a0.json)
-
-[Extended Data](ext_articles/22f3f8a0.ext.json)
-
----
-
-### Election Commission alert for television bandwidth
-
-*2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-தேர்தல்-ஆணைக்குழு-எச்சரிக்கை/175-342220) · `ta`
-
-The Election Commission warned a TV channel for violating election media guidelines, citing complaints about slanderous morning show content. The Commissioner highlighted violations including discussing ongoing court cases, promoting a specific candidate, and biased reporting against political parties. The Commission urged the broadcaster to follow ethical standards and election guidelines.
-
-🟩
-
-The Election Commission has issued a warning of a popular television band on violating election media guidelines.
-
-The Commissioner General of Elections Saman Sree Ratnayake issued a letter to the Broadcasting Company and said that the Commission had received several complaints against the news of the bandwidth.
-
-In these complaints, the Commission described the contents of the morning show published by slanderous reports.
-
-The Election Commission said that the television bandwidth was engaged in violation of media protocols and was discussing the ongoing court cases and promoting a certain candidate.
-
-Moreover, the Commission said that slanderous reports were made against political parties, and that only one party was clearly advertised in broadcasting.
-
-The Election Commission urged the company to adhere to media ethics and election media guidelines.
-
-◼️
-
-[Data](articles/25436bf7.json)
-
-[Extended Data](ext_articles/25436bf7.ext.json)
-
----
-
-### Alert to the television bandwidth
-
-*2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-எச்சரிக்கை/175-342220) · `ta`
-
-The Election Commission warned a popular TV network for violating election media guidelines, citing complaints about slanderous morning show content. The Commissioner highlighted violations including discussing ongoing court cases and promoting a specific candidate without fairness. The Commission urged adherence to ethical standards and election guidelines.
-
-🟩
-
-The Election Commission has issued a warning of a popular television band on violating election media guidelines.
-
-The Commissioner General of Elections Saman Sree Ratnayake issued a letter to the Broadcasting Company and said that the Commission had received several complaints against the news of the bandwidth.
-
-In these complaints, the Commission described the contents of the morning show published by slanderous reports.
-
-The Election Commission said that the television bandwidth was engaged in violation of media protocols and was discussing the ongoing court cases and promoting a certain candidate.
-
-Moreover, the Commission said that slanderous reports were made against political parties, while only one party was made clear in broadcasting.
-
-The Election Commission urged the company to adhere to media ethics and election media guidelines.
-
-◼️
-
-[Data](articles/7af8d198.json)
-
-[Extended Data](ext_articles/7af8d198.ext.json)
-
----
-
-### Election pamphlet
-
-*2024-08-15 12:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தேர்தல்-வேண்டாமென-துண்டுப்பிரசுரம்/71-342219) · `ta`
-
-C. Gajendran, General Secretary of the Tamil National People's Front and MP, distributed election pamphlets to voters.
-
-🟩
-
-Significantly, the General Secretary of the Tamil National People's Front and Member of Parliament, C. Gajendran, has made leaflets by providing leaflets to the people.
-
-◼️
-
-[Data](articles/11cf9b68.json)
-
-[Extended Data](ext_articles/11cf9b68.ext.json)
-
----
-
-### There is violence after any election
-
-*2024-08-15 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/ඕනැම-මැතිවරණයකින්-පසු--ප්‍රචණ්ඩ-ක්‍රියා-ඇති-වෙනවා/11-411387) · `si`
-
-Elections in the country, following the establishment of law and order in July 2022, were peaceful. New laws aimed at suppressing underworld activities through advanced technology are being introduced. President Ranil Wickremesinghe highlighted the importance of maintaining law and order to prevent violence post-elections and to protect the nation from underworld influence. He emphasized the role of the Special Task Force in managing public order and combating terrorism and extremism. The President also discussed the need for new legislation to tackle modern challenges posed by technology in the hands of criminal elements, aiming to preserve the country's democratic system and fundamental rights.
-
-🟩
-
-The people have been able to select a president on September 21, 2024 due to the establishment of law and order in July 2022
-
-Underworld or drug dealer cannot allow the country to destroy the country.
-
-New laws will be brought to suppress underworld activities in new technology - President.
-
-President Ranil Wickremesinghe has provided the opportunity to establish law and order in July 20, 2024, to establish law and order in July 2024, and the people of this country were given the opportunity to vote for the president.Said.
-
-The President also pointed out that the President is also responsible for providing the support and independent election in the country by consolidating law and order.
-
-President Ranil Wickremesinghe made this statement at the opening of the Special Operations Command of the Police Special Task Force (13).
-
-The President emphasized that there was no violence in the country after the presidential election on the 21st presidential election.
-
-...
-
-[Data](articles/1a3f19a4.json)
-
-[Extended Data](ext_articles/1a3f19a4.ext.json)
 
 ---

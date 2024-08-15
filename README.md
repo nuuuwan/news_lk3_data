@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 03:21:14**
+As of **2024-08-16 03:06:21**
 
 ## Newspaper Stats
 
-*Scraped **40,973** Articles*
+*Scraped **40,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,490
-dailyftlk | 2,655
+dailyftlk | 2,654
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
@@ -26,39 +26,11 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,970 (100.0%) of 40,973 articles have been extended.
+40,970 (100.0%) of 40,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
-
-### “Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake
-
-*2024-08-16 02:53:29* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-has-vision-and-capability-to-lead-SL-towards-a-better-future-Gen-Daya-Ratnayake/14-765610) · `en`
-
-Says experienced and capable leaders are expressing their interest to join SJB
-
-Confirms implementing comprehensive framework, strategic plan and implementation policies to eradicate corruption
-
-Ensures to bring all past wrongdoers to justice under SJB Govt.
-
-Says a talented professional team of SJB to formulate policies and guidelines to address existing burning issues
-
-Commends SJB leader Premadasa for taking initiatives as opposition leader to implement people-centric programs
-
-Says SJB’s ex-servicemen movement represents disciplined, experienced, mature, and deeply patriotic segment of population
-
-Claims many of the most respected ex-servicemen, with proven track records and recognised service, are with the SJB’s Ranawiru movement
-
-Says SJB intends to fully utilise ex-servicemen in nation building through establishing an Ex-Servicemen’s Secretariat
-
-Claims military officers appointed to top posts under previous Gotabaya Rajapaksa Govt. performed well
-
-...
-
-[Data](articles/6557293f.json)
-
----
 
 ### Harry Jayawardena: Hardnosed businessman with the softest heartbeat
 
@@ -2259,5 +2231,35 @@ Significantly, the General Secretary of the Tamil National People's Front and Me
 [Data](articles/11cf9b68.json)
 
 [Extended Data](ext_articles/11cf9b68.ext.json)
+
+---
+
+### There is violence after any election
+
+*2024-08-15 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/ඕනැම-මැතිවරණයකින්-පසු--ප්‍රචණ්ඩ-ක්‍රියා-ඇති-වෙනවා/11-411387) · `si`
+
+Elections in the country, following the establishment of law and order in July 2022, were peaceful. New laws aimed at suppressing underworld activities through advanced technology are being introduced. President Ranil Wickremesinghe highlighted the importance of maintaining law and order to prevent violence post-elections and to protect the nation from underworld influence. He emphasized the role of the Special Task Force in managing public order and combating terrorism and extremism. The President also discussed the need for new legislation to tackle modern challenges posed by technology in the hands of criminal elements, aiming to preserve the country's democratic system and fundamental rights.
+
+🟩
+
+The people have been able to select a president on September 21, 2024 due to the establishment of law and order in July 2022
+
+Underworld or drug dealer cannot allow the country to destroy the country.
+
+New laws will be brought to suppress underworld activities in new technology - President.
+
+President Ranil Wickremesinghe has provided the opportunity to establish law and order in July 20, 2024, to establish law and order in July 2024, and the people of this country were given the opportunity to vote for the president.Said.
+
+The President also pointed out that the President is also responsible for providing the support and independent election in the country by consolidating law and order.
+
+President Ranil Wickremesinghe made this statement at the opening of the Special Operations Command of the Police Special Task Force (13).
+
+The President emphasized that there was no violence in the country after the presidential election on the 21st presidential election.
+
+...
+
+[Data](articles/1a3f19a4.json)
+
+[Extended Data](ext_articles/1a3f19a4.ext.json)
 
 ---

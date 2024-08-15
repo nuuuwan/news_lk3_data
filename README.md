@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 10:08:19**
+As of **2024-08-15 10:21:03**
 
 ## Newspaper Stats
 
-*Scraped **40,833** Articles*
+*Scraped **40,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,476
 dailyftlk | 2,638
-adalk | 3,753
+adalk | 3,754
 dailymirrorlk | 4,733
 adaderanalk | 4,763
 tamilmirrorlk | 5,208
@@ -26,73 +26,99 @@ adaderanasinhalalk | 6,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,826 (100.0%) of 40,833 articles have been extended.
+40,833 (100.0%) of 40,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### තවත් භයානක රෝගයක් පැතිරෙයි
+### Another dangerous disease spreads
 
 *2024-08-15 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199961) · `si`
 
-අප්‍රිකානු මහාද්වීපයේ ප්‍රදේශ කිහිපයක පැතිරයන 'එම්පොක්ස්' වසංගතය ලොව අවධානයට ලක්විය යුතු මහජන සෞඛ්‍ය හදිසි තත්ත්වයක් ලෙස ලෝක සෞඛ්‍ය සංවිධානය දැනුම්දී තිබේ.
+A deadly disease outbreak in Africa, affecting over 14,000 people and causing 450 deaths in Kotago. Symptoms include fever and skin lesions. Emphox spreads through sexual contact and respiratory droplets.
 
-කොංගෝ හි එම රෝගය වැළඳී දී පුද්ගලයින් 450 ක් පමණ ජීවිතක්ෂයට පත්විය. ආසාදිත වූ ගණන 14,000කට ආසන්නය.
+🟩
 
-මේ වනවිට මෙම රෝගය බුරුන්ඩි, මධ්‍යම අප්‍රිකානු ජනරජය, කෙන්යාව සහ රුවන්ඩාව වැනි රටවලින් වාර්තා වී තිබේ.
+The World Health Organization has informed the Side of the African continent as a state of health, as a state of health, which should be taken to the world.
 
-'එම්පොක්ස්' ආසාදනය වන්නේ ලිංගික සබඳතා සහ වෙනත් සමීප සබඳතා ඔස්සේ සහ ආසාදිතයෙක් සමග කතාකරන විට හෝ එවැනි පුද්ගලයෙක් ආසන්නයේ සිට හුස්ම ගන්නා විටදී බව ලෝක සෞඛ්‍ය සංවිධානය පැවසීය.
+About 450 people died in Kotago. The number of infected is close to 14,000.
 
-එහි මූලික රෝග ලක්ෂණ ලෙස උණ ඇතිවීම, සමෙහි තුවාල මතුවීම ලෙස දැක්වෙයි. සෑම ආසාදිතයින් 100කින් 4 දෙනෙක් පමණ මරණයට පත්වීමට ඉඩ ඇති බව සඳහන් ය.
+The disease is currently reported from countries such as Burundi, Central African Republic, Kenya and Rwanda.
+
+"Emphox infects with sexual relations and other close relationships and breathing from such a person when it comes to such a person.
+
+Fever as the basic symptoms of fever are shown as the emergence of skin injuries. It is said that about 4 in every 100 infections may be killed.
 
 ◼️
 
 [Data](articles/fdf5f03a.json)
 
+[Extended Data](ext_articles/fdf5f03a.ext.json)
+
 ---
 
-### அவசர நிலை அறிவித்தது  உலக சுகாதார அமைப்பு
+### The World Health Organization declared an emergency
 
 *2024-08-15 09:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அவசர-நிலை-அறிவித்தது-உலக-சுகாதார-அமைப்பு/50-342202) · `ta`
 
-உலக நாடுகளிடையே குரங்கு அம்மை பரவல் அதிகரித்து வரும் நிலையில், சர்வதேச பொது சுகாதார அவசர நிலையை உலக சுகாதார அமைப்பு பிறப்பித்துள்ளது.
+The World Health Organization (WHO) has declared a global health emergency due to the rapid spread of a rare infectious disease known as "monkey amma" or "emboxes," which originated in Africa in 2022 and has now spread to over 100 countries. This disease primarily affects humans through contact with infected animals, causing symptoms such as fever, rash, headache, muscle pain, and cough. The WHO estimates a fatality rate of 10%, with a significant increase in infections reported in African countries. Immediate isolation and medical attention are advised for those exhibiting symptoms after exposure to infected individuals. A vaccine developed by Danish company Emanwex has been approved by the European Union for use against the disease.
 
-குரங்கு அம்மை என்பது ஒரு அரிய வகை தொற்று நோய். இந்த நோயை எம்பாக்ஸ் என்று அழைக்கின்றனர். இது மனிதர்களுக்கு இடையே எளிதில் பரவாது. நோய்த் தொற்றால் பாதிக்கப்பட்ட விலங்குகளிடமிருந்தே மனிதர்களுக்குப் பரவுகிறது. இந்த நோய் பாதிப்பு ஏற்பட்டவர்களில், 10இல் ஒருவர் இறக்க வாய்ப்பு உள்ளதாக உலக சுகாதார நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-கொரோனாவைப் போல 2022 முதல் பரவத் தொடங்கிய இந்த நோயானது முதலில் ஆபிரிக்க நாடுகளில் பாதிப்பு கண்டறியப்பட்டது. தற்போது, மெல்ல மெல்ல 100க்கும் மேற்பட்ட நாடுகளில் பரவத் தொடங்கியுள்ளது.
+With the spread of monkey in the world, the World Health Organization has issued an international public health emergency.
 
-ஆபிரிக்க நாடுகளில் மட்டும் 17 ஆயிரத்திற்கும் மேற்பட்டோர் இந்தத் தொற்றால் பாதிக்கப்பட்டுள்ளனர். அவர்களில் 517 பேர் உயிரிழந்துள்ளனர். கடந்த ஆண்டோடு ஒப்பிடுகையில், இந்தாண்டு 160% இந்த நோய் தொற்றின் பரவல் அதிகரித்துள்ளது.
+Monkey Amma is a rare type of infection. This disease is called emboxes. It does not spread easily between humans. Spread to humans from infected animals. The World Health Organization said that one out of 10 is likely to die.
+
+The disease, which began to spread since 2022, like Corona, was first diagnosed in African countries. Currently, slowly, over 100 countries have begun to spread.
+
+In African countries alone more than 17 thousand people have been affected by the infection. 517 of them died. Compared to last year, 160% of the infection has increased.
+
+When the disease began to spread in 2022, the monkey in Kerala was recently confirmed. Meanwhile, a 34 -year -old man from West Delhi has been diagnosed with monkey ammunition.
 
 ...
 
 [Data](articles/7bb56d57.json)
 
+[Extended Data](ext_articles/7bb56d57.ext.json)
+
 ---
 
-### සමගි ජන බලවේගයේ තවත් මන්ත්‍රීවරයෙක් ජනපතිට සහාය දෙයි
+### Another Member of the Samagi Power to support the President
 
 *2024-08-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199960) · `si`
 
-සමගි ජන බලවේගය පාර්ලිමේන්තු මන්ත්‍රී එම් වේලු කුමාර් මහතා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+Samagi, a political party, will back Ranil Wickremesinghe in the upcoming presidential election. Wickremesinghe, previously elected to Parliament from Kandy District as part of the reconciliation force, is now set to receive Samagi's support.
 
-ඔහු සමගි ජන බලවේගය නියෝජනය කරමින් පසුගිය මහ මැතිවරණයේදී මහනුවර දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුවට තේරි පත්වුණි.
+🟩
+
+Samagi-forthcoming arrival has decided to support Ranil Wickremesinghe in the next presidential election.
+
+He was elected to Parliament from the Kandy District representing the reconciliation force last general.
 
 ◼️
 
 [Data](articles/418795f1.json)
 
+[Extended Data](ext_articles/418795f1.ext.json)
+
 ---
 
-### சஜித் பிரேமதாச, வேட்பு மனுவில் கையொப்பமிட்டார்
+### Sajith Premadasa signed the nomination
 
 *2024-08-15 09:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-வேட்பு-மனுவில்-கையொப்பமிட்டார்/175-342199) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடும் ஐக்கிய மக்கள் சக்தியின் தலைவரும், தற்போதைய எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச இன்றைய தினம் (15)  சற்று நேரத்துக்கு முன்னர் தனது வேட்பு மனுவில் கையெழுத்திட்டார்.
+Sajith Premadasa, leading the United People's Power as opposition, has nominated himself for the 2024 presidential race, signing his papers recently.
+
+🟩
+
+Sajith Premadasa, the leader of the United People's Power and the current opposition leader, who is contesting the 2024 presidential election, signed his nomination a short time ago.
 
 ◼️
 
 [Data](articles/d05d533c.json)
+
+[Extended Data](ext_articles/d05d533c.ext.json)
 
 ---
 
@@ -132,15 +158,41 @@ As per the Supreme Court verdict and SJB’s constitution, Harin Fernando and Ma
 
 ---
 
-### ரணிலை சந்தித்தார் வேலுகுமார்
+### Velukumar met Ranil
 
 *2024-08-15 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலை-சந்தித்தார்-வேலுகுமார்/76-342198) · `ta`
 
-கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலுகுமார், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சற்றுமுன்னர் சந்தித்து தனது ஆதரவை தெரிவித்துள்ளார் என ஜனாதிபதி ஊடக ப்பிரிவு அறிவித்துள்ளார்.
+Kandy district MP Velukumar backs President Ranil Wickremesinghe.
+
+🟩
+
+Kandy district parliamentarian Velukumar has announced his support for President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/dc468957.json)
+
+[Extended Data](ext_articles/dc468957.ext.json)
+
+---
+
+### හංවැල්ල කෘෘර ඝාතනයට තවත් දෙකක් අල්ලයි
+
+*2024-08-15 09:24:32* · [`adalk`](https://www.ada.lk/breaking_news/හංවැල්ල-කෘෘර-ඝාතනයට-තවත්-දෙකක්-අල්ලයි/11-411379) · `si`
+
+හංවැල්ල  තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේදී පුද්ගලයෙකු තියුණු ආයුධ වලින් පහර දී ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් තවත් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට හංවැල්ල ගාලබැඳිහේන ප්‍රදේශයේදී අත්අඩංගුවට  ගත් බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+
+මෙලෙස ඝාතනයට ලක්ව තිබුනේ වරකාපොල  නැව්ගල  අංක 23 නිවසේ පදිංචිව සිටි එච් කේ මහේෂ් ගුණරත්න 31 යන අයයි
+
+ඉකුත් 6 වෙනිදින මෙම ඝාතනය සිදුකර තිබූ අතර සිදුකළ විමර්ශනවලදී වයස අවුරුදු 34 පුද්ගලයන් දෙදෙනෙකු උඩුමුල්ල හා වටරැක ප්‍රදේශවලදී අත්අඩංගුවට ගැනීමට හැකි වූ බවත් පොලිසිය සඳහන් කරයි
+
+මෙම ඝාතනය සම්බන්ධයෙන් මීට පෙරද හංවැල්ල  පොලිසිය මගින් පුද්ගලයන් දෙදෙනකු මෙන්ම යතුරු පැදියක් සහ තියුණු ආයුධයක්ද අත්අඩංගුවට ගෙන තිබිණි. ඝාතනයට හේතුව මත්කුඩු සම්බන්ධයෙන් මුදල් ආරවුලක් බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරුවන් අවිස්සාවේල්ල අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/89dfbe67.json)
 
 ---
 
@@ -316,23 +368,29 @@ Accordingly, the President has issued the gazette notification while keeping the
 
 ---
 
-### වෙඩික්කරු සමග පොර බදා ත්‍රිරෝද රියදුරු මරණයෙන් බේරෙයි
+### Three-wheeler driver escapes the death of the shooter
 
 *2024-08-15 07:52:44* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩික්කරු-සමග-පොර-බදා-ත්‍රිරෝද-රියදුරු-මරණයෙන්-බේරෙයි/11-411378) · `si`
 
-හික්කඩුව නගර මධ්‍යයේ ත්‍රිරෝද රථ රියදුරෙකුට ඊයේ (14දා) පස්වරුවේදී යතුරු පැදියකින් පැමිණි නාදුනන දෙදෙනෙකු  ටී පනස් හය වර්ගයේ ගිනි අවියකින් වෙඩි තැබීමට ගත් උත්සාහය ව්‍යවර්ථව ගොස් ඇති බව හික්කඩුව පොලීසිය කියයි.
+A three-wheeler driver narrowly escaped being shot by a gunman at the Hikkaduwa Trader of Treaders. The driver was targeted but managed to flee, hiding from the shooter. Both parties then escaped together towards Ambalangoda. The motive behind the shooting remains unclear, and police continue investigating.
 
-ටී පනස් හය වර්ගයේ ගිනිඅවියෙන්  වෙඩි තැබීමට පැමිණි පුද්ගලයා සමග  ත්‍රීරෝද රථ රියදුරු  පොර බදා ඇති බවත් පසුව වෙඩි තැබීමට පැමිණි අය අතේ තිබූ ටී පනස් හය වර්ගයේ ගිනි අවිය බිම වැටී ඇති බවද පොලීසිය කියයි.
+🟩
 
-මේ අවසරයෙන් ත්‍රිරෝද රථ රියදුරු දිව ගොස් සැගවී ඇති බවත් වෙඩි තැබීමට පැමිණි පුද්ගලයා තමා අතින් බිමට වැටුණ ගිනි අවිය අහුලාගෙන තමන් සමග ආ යතුරු පැදිකරු සමග පලා ගොස් ඇති බවත් පොලීසිය කියයි.
+The attempt to shoot at a motorcycle at the Hikkaduwa Treader of the Treader of Treaders in the Hikkaduwa Treader
 
-මොවුන් දෙදෙනා පලා ගොස් ඇත්තේ හික්කඩුවේ සිට අම්බලන්ගොඩ දෙසට බවද පොලීසිය කියයි.
+Police say that the three-wheeler driver was faded with the person who was shooting in the Tightest six-100 firearm, police said.
 
-නාදුනන තුවක්කුකරුවන් වෙඩි තැබීමට පැමිණ ඇත්තේ හික්කඩුවේම පදිංචි හතලිස්පස් හැවිරිදි ත්‍රීරෝද රථ රියදුරකුට බවද පොලීසිය කියයි. වෙඩි තැබීමට ආ හේතුව මෙතෙක් අනාවරණයවී නැති බවද පොලීසිය කියයි.හික්කඩුව පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+Police say that the three-wheeler driver has running and hidden from this permission, police said.
+
+The two had fled to the police say that the two have fled from Hikkaduwa to Ambalangoda to Ambalangoda.
+
+The unidentified gunmen had come to shoot the forty-year-old three-year-old driver in Hikkaduwa. The police say that the cause of shooting is yet to be ascertained. Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/be671469.json)
+
+[Extended Data](ext_articles/be671469.ext.json)
 
 ---
 
@@ -800,21 +858,27 @@ Vedaranyam fishermen again and again by Sri Lankan Tamil fishermen. Vedaranyam C
 
 ---
 
-### 2024 ජනාධිපතිවරණය පැවැත්වීමේ ප්‍රධාන අභියෝගය කුමක්ද?
+### 2024 The main challenge of the presidential election?
 
 *2024-08-15 02:26:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdjwy90jwrvo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ජනාධිපතිවරණය 2024: අද නාමයෝජනා භාර ගැනීම සිදුවන්නේ කෙසේ ද?
+The main challenge of the 2024 presidential election is managing the high number of candidates, with 40 having already deposited their nominations. The Election Commission faces difficulties in processing these nominations and conducting the election efficiently.
 
-2024 ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා නාම යෝජනා අද (අගෝස්තු 15 වැනිදා) පෙරවරු 9 සිට 11 දක්වා භාර ගැනීමට නියමිතය.
+🟩
 
-ජනාධිපතිවරණය වෙනුවෙන් අපේක්ෂකයින් 40 දෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+It contains nothing here.Vadide Head, Presidential Election 2024: How to accept today's nomination?
 
-නාම යෝජනා භාර ගැනීම සඳහා පවතින සූදානම සහ මෙවර ජනාධිපති මැතිවරණය පැවැත්වීමේදී මැතිවරණ කොමිෂන් සභාව මුහුණ දෙන අභියෝග මොනවාද යන්න පිළිබඳව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක බීබීසී සිංහල වෙත පැහැදිලි කළේය.
+Nominations for the Presidential Election Election will be taken up from 9 to 11 am (August 15).
+
+Forty candidates have deposited for the presidential election.
+
+The Chairman of the Elections Commission RM V.L. Ratnayake explained what the challenges facing the Election Commission to take over the nominations and holding the presidential election.
 
 ◼️
 
 [Data](articles/010c1b5a.json)
+
+[Extended Data](ext_articles/010c1b5a.ext.json)
 
 ---
 
@@ -2183,27 +2247,5 @@ The event took place at his political office at Belver Road, Colombo.
 [Data](articles/ed4998e6.json)
 
 [Extended Data](ext_articles/ed4998e6.ext.json)
-
----
-
-### Two-year-old killed in crash on Southern Expressway
-
-*2024-08-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101236/two-year-old-killed-in-crash-on-southern-expressway-) · `en`
-
-A two-year-old girl has died in an accident that occurred on the Southern Expressway this morning (14) in the Elpitiya Police Division.
-
-The accident had occurred when a van travelling from Mattala towards Kottawa collided with the safety guardrail in the middle of the expressway due to a tyre puncture and toppling on the road.
-
-Three children who were travelling in the van have sustained injuries and one of them, a two-year-old girl, succumbed to injuries after being admitted to the Elpitiya Base Hospital.
-
-The deceased is a 02-year-old resident of the Wedihiti Kanda area in Kataragama.
-
-Police stated that twelve passengers including children and adults were travelling in the van at the time of the incident.
-
-◼️
-
-[Data](articles/7103bc86.json)
-
-[Extended Data](ext_articles/7103bc86.ext.json)
 
 ---

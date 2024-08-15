@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 11:07:31**
+As of **2024-08-15 11:21:12**
 
 ## Newspaper Stats
 
-*Scraped **40,846** Articles*
+*Scraped **40,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 2,638
 adalk | 3,757
 dailymirrorlk | 4,733
 adaderanalk | 4,767
-tamilmirrorlk | 5,208
+tamilmirrorlk | 5,212
 virakesarilk | 6,471
-adaderanasinhalalk | 6,952
+adaderanasinhalalk | 6,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,840 (100.0%) of 40,846 articles have been extended.
+40,846 (100.0%) of 40,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### නාමයෝජනා භාරදීම අවසන්
+
+*2024-08-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199964) · `si`
+
+2024 ජනාධිපතිවරණයට අදාළ නාමයෝජනා භාරගැනීම රාජගිරියේ පිහිටි මැතිවරණ ලේකම් කාර්යාලයේදී අද (15) සිදුකළේය.
+
+මැතිවරණ කොමිසම පැවසුවේ ඇප තැබු අපේක්ෂකයින් 40 දෙනා අතුරින් 39 දෙනෙකු නාමයෝජනා භාරදුන් බවයි.
+
+නාමයෝජනා භාරගැනීම උදෑසන 9ට ආරම්භ කළ අතර එම කටයුතු නිමවූයේ උදෑසන 11ට ය.
+
+◼️
+
+[Data](articles/d00003f8.json)
+
+---
+
+### “ அனுர அல்லது சஜித் வெற்றி பெறுவார்கள் ”
+
+*2024-08-15 10:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-அல்லது-சஜித்-வெற்றி-பெறுவார்கள்/175-342208) · `ta`
+
+இலங்கையின் தலைமைத்துவம் கண்டிப்பாக மாற வேண்டும் எனவும், இம்முறையும் மக்கள் தவறிழைத்தால் மிகவும் சோகமான சூழலுக்கு முகம் கொடுக்க வேண்டி வரும் எனவும் ஜனாதிபதி வேட்பாளர் ஏ.எஸ். பி. லியனகே, வேட்புமனுக்களை கையளித்த பின்னர் தெரிவித்தார்.
+
+இலங்கை மக்கள் 75 வருடங்களாக ஊழல்வாதிகளால் ஏமாற்றப்பட்டு வந்துள்ளதுடன் இந்த தேர்தலில் ஊழல்வாதிகள் அனைவரும் அரசாங்கத்துடன் இணைந்து உள்ளதாகவும் அவர் தெரிவித்தார்.
+
+அனுரகுமார    அல்லது சஜித் வெற்றி பெறுவார்கள் என்றும், யார் வெற்றி பெற்றாலும் பிரச்சினை இல்லை என்றும் அவர் மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/652006af.json)
+
+---
+
+### திலகரை வாழ்த்தினார் மனோ
+
+*2024-08-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலகரை-வாழ்த்தினார்-மனோ/175-342207) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிடும் முன்னாள் பாராளுமன்ற உறுப்பினர் மயில்வாகனம் திலக்ராஜ் வேட்புமனுவை தாக்கல் செய்வதற்காக தேர்தல்கள் ஆணைக்குழுவுக்கு வருகைதந்திருந்த போது, அங்கிருந்த பாராளுமன்ற உறுப்பினர் மனோ கணேசன் வாழ்த்தினார்.
+
+◼️
+
+[Data](articles/33e41f16.json)
+
+---
 
 ### WHO declares monkeypox a global public health emergency
 
@@ -50,69 +94,131 @@ Mpox can spread through close contact. Usually mild, it is fatal in rare cases. 
 
 [Data](articles/cf46c870.json)
 
+[Extended Data](ext_articles/cf46c870.ext.json)
+
 ---
 
-### අයිස් මත්ද්‍රව්‍ය සමග දෙදෙනෙකු අල්ලයි
+### Two arrested with ice drug
 
 *2024-08-15 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199963) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත ඔරුගොඩවත්ත ප්‍රදේශයේ දී සිදුකළ වැටලීම් දෙකක දී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 150යි මිලිග්‍රෑම් 600ක් පොලිස් භාරයට ගෙන තිබේ.
+In Orugodawatta, two suspects aged 35-53 were arrested during a raid, thanks to a tip-off. They were found with 12 ice narcotics and 720mg, along with Rs. 98,700 from drug sales.
 
-වැටලීමේ දී සැකකරුවන් දෙදනෙකු අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගන්නා අවස්ථාවේදී එක් සැකකරුවෙකු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 12යි මිලිග්‍රෑම් 720ක්ද පොලිස් භාරයට ගෙන තිබේ.
+🟩
 
-මත්ද්‍රව්‍ය විකුණා උපයාගත් බවට සැකකරෙන මුදලින් රුපියල් 98,700/-ක්ද එක් සැකකරුවෙකු සන්තකයේ තිබී හමුවී තිබුණි.
+Two raids were taken into custody in the Orugodawatta area on a tip off received by the Colombo Crimes Division.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 53 යන වයස්වල පසුවන ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
+Two suspects have been arrested in the raid and the suspects were taken into custody with 12 ice narcotics and 720 milligrams.
+
+One of the suspects were found in the possession of Rs. 98,700 / - from the money that sold drugs.
+
+The suspects were residents of Orugodawatta, who was aged between 35 and 53 years.
 
 ◼️
 
 [Data](articles/6fdb4269.json)
 
+[Extended Data](ext_articles/6fdb4269.ext.json)
+
 ---
 
-### ජනපති රනිල් නාම යෝජනා භාර දෙයි
+### Ranil submits nominations
 
 *2024-08-15 10:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රනිල්-නාම-යෝජනා-භාර-දෙයි/11-411383) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුලු මොහොතකට පෙර සිය නාමයෝජනා පත්‍රය භාර දීම සිදු කළේය.
+President Ranil Wickremesinghe quickly submitted his nomination paper, just a minute after the deadline, to the Elections Commission in Rajagiriya.
 
-රාජගිරිය මැතිවරණ කොමිෂන් සභාව වෙත පැමිණ මෙලෙස නාම යෝජනා භාර දීම සිදු කළේය.
+🟩
+
+President Ranil Wickremesinghe handed over his nomination paper before a minute.
+
+The nomination proposal was handed over to the Elections Commission Rajagiriya.
 
 ◼️
 
 [Data](articles/5fba9566.json)
 
+[Extended Data](ext_articles/5fba9566.ext.json)
+
 ---
 
-### මෙරටට පැමිණි විදෙස් සංචාරකයින් ගණන ලක්ෂ 12 ඉක්මවයි
+### அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியீடு
+
+*2024-08-15 10:37:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-342206) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கீழ் மூன்று அமைச்சுப் பதவிகளைக் கொண்டுவருவதற்கான விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, சுற்றுலா, காணி மற்றும் விளையாட்டு , இளைஞர் விவகாரங்கள் அத்துடன் தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு ஆகிய அமைச்சுக்கள் ஜனாதிபதியின் கீழ் கொண்டு வரப்பட்டுள்ளன.
+
+முன்னாள் அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் இதற்கு முன்னர் இந்த அமைச்சுப் பதவிகளை வகித்தனர்.
+
+இந்த பதவிகள் பாராளுமன்ற உறுப்பினர்கள் தங்கள் பாராளுமன்ற ஆசனங்களை இழந்ததால் வெற்றிடமாகியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6ff5175e.json)
+
+---
+
+### Tourist arrivals over Rs.
 
 *2024-08-15 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199962) · `si`
 
-ඒ අනුව වසරේ මේ දක්වා කාලය තුළ සංචාරකයින් 1,271,432 දෙනෙකු දිවයිනට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+This year, Sri Lanka welcomed 1,271,432 tourists, with Indians making up the majority (237,649). Other notable visitors included Russians, Brits, Germans, Chinese, and French. A significant influx occurred recently, with 73,373 tourists arriving in just the first 11 days of the month.
 
-ඉන් වැඩි දෙනෙකු ඉන්දීය සංචාරකයින් වන අතර එම සංඛ්‍යාව 237,649කි.
+🟩
 
-එමෙන්ම රුසියාව, බ්‍රිතාන්‍ය, ජර්මනිය, චීනය සහ ප්‍රංශය ඇතුළු රටවලින් ද වැඩි වශයෙන් සංචාරකයින් දිවයිනට පැමිණ තිබේ.
+Accordingly, 1,271,432 tourists had arrived in the island this year, the Sri Lanka Tourism Development Authority stated that 1,271,432 tourists had arrived in the island.
 
-මේ අතර මේ මස මුල් දින 11 තුළ සංචාරකයින් 73,373 දෙනෙකු දිවයිනට පැමිණ තිබේ.
+Most of them are Indian tourists and 237,649.
+
+Most of the countries including Russia, British, Germany, China and France have also arrived in Sri Lanka.
+
+73,373 tourists arrived in the island in the first 11 days of this month.
 
 ◼️
 
 [Data](articles/c607dafe.json)
 
+[Extended Data](ext_articles/c607dafe.ext.json)
+
 ---
 
-### සජබ මන්ත්‍රීවරයෙක් ජනපතිගේ සහයට එයි
+### Member of Commety comes to President's assistant
 
 *2024-08-15 10:25:38* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-මන්ත්‍රීවරයෙක්-ජනපතිගේ-සහයට-එයි/11-411382) · `si`
 
-සමගි ජන බලවේගය නියෝජනය කරන තවත් මන්ත්‍රීවරයෙක් ජනාධිපතිවරණ අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීම සිදු කර තිබේ.
+MP Karu Kumar supports President Ranil Wickremesinghe's stance on reconciliation, as announced on 15th.
 
-ඒ අනුව වේලු කුමාර් මහතා මෙලෙම අද(15දා) ජනාධිපතිවරයාට සහය පළ කර ඇත.
+🟩
+
+Another MP who represents the reconciliation is supported by President Ranil Wickremesinghe.
+
+Mr. Karu Kumar has supported the President today (15).
 
 ◼️
 
 [Data](articles/ad7f95d0.json)
+
+[Extended Data](ext_articles/ad7f95d0.ext.json)
+
+---
+
+### போலி இணையத்தளங்கள் குறித்து எச்சரிக்கை!
+
+*2024-08-15 10:22:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இணையத்தளங்கள்-குறித்து-எச்சரிக்கை/175-342205) · `ta`
+
+இலங்கை கணினி அவசர தயார்நிலைக் குழு | ஒருங்கிணைப்பு மையம் (SLCERT|CC) பொது மக்களை தேர்தல் காலத்தில் தனிப்பட்ட தகவல்களை சேகரிப்பதை ஊக்குவிக்கும் இணைப்புகளுக்குள் உள்நுழைய வேண்டாம் என்று எச்சரித்துள்ளது.
+
+ஜனாதிபதி தேர்தலை இலக்கு வைத்து உத்தியோகபூர்வ சேவைகள் என்ற பெயரில் தனிப்பட்ட முக்கிய தகவல்களை சேகரிக்கும் இணையத்தளம் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக SLCERT சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருகா தமுனுபொல டெய்லி மிரருக்கு தெரிவித்தார்.
+
+“போலி இணையதளம் தேர்தல் ஆணையத்தின் அதிகாரப்பூர்வ இணையதளத்தை ஒத்திருந்தது. இது தேர்தலுக்கு முன்னதாக பல்வேறு பொதுத்துறை காலியிடங்களுக்கு புதிய பணியாளர்களை ஆட்சேர்ப்பு செய்வதாக விளம்பரப்படுத்தியதுடன் புதிய விண்ணப்பங்களை இலவசமாக ஏற்றுக்கொள்வதற்கு ஒரு பக்கம் திறக்கப்பட்டுள்ளது என்றும் அவர் விளக்கினார்.
+
+"உள்நுழைவுக்குப் பிறகு, தனிப்பட்ட தகவலுடன் ஒரு கேள்வித்தாளை நிரப்ப விண்ணப்பதாரர்கள் கேட்கப்படுகின்றனர். முடிவில், பல வட்ஸ்அப் குழுக்களில் இறுதி இணைப்பைப் பகிருமாறும் அதில் தெரிவிக்கப்படுகிறது”என்று அவர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/16b273a5.json)
 
 ---
 
@@ -174,19 +280,25 @@ The Election Commission has begun the process of accepting nominations for the 2
 
 ---
 
-### කෝණේස්වරම් කෝවිලේ පිළිමයකට පළඳවා තිබූ දේවාභරණ අතුරුදන් වෙලා
+### The statue of the Colansewaram Kovil has disappeared
 
 *2024-08-15 10:03:15* · [`adalk`](https://www.ada.lk/breaking_news/කෝණේස්වරම්-කෝවිලේ-පිළිමයකට-පළඳවා-තිබූ-දේවාභරණ-අතුරුදන්-වෙලා/11-411380) · `si`
 
-ත්‍රිකුණාමලය කෝණේස්වරන් කෝවිලේ දේව පිළිමයකට පළඳවා තිබූ රන් තාලියක් හා පා සලඹක් අතුරුදහන් වීමේ සිද්ධියක් සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ඇතැයි ත්‍රිකුණාමල මූලස්ථාන පොලිසිය කියයි.
+The golden foot and tail of the Konasevan Kovil statue have vanished, leading to a police inquiry. A local filed a complaint about the missing parts, prompting the Trincomalee Police's Criminal Division to investigate, aided by CCTV footage from the area.
 
-කෝවිලේ ආවතේව කරනු ලබන කාන්තාවක් වන ත්‍රිකුණාමලය, ඕර්ස් හිල් කන්නගිපුරම් පදිංචි අරුල් දාස් අරූෂා නැමැතිය මෙම දේවාභරණ අතුරුදහන් වීමේ සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමල පොලිසියට පැමිණිලි කර ඇති අතර අතුරුදහන් දේවාභරණවල වටිනාකම සඳහන් කර නැතැයි පොලිසිය පෙන්වා දෙයි .
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමල මූලාස්ථාන පොලිසියේ අපරාධ අංශය පරීක්ෂණයක් ආරම්භ කර ඇති අතර කෝවිල් පරිසරය සවිකර ඇති සී.සී.ටි.වී කැමරා පද්ධතිය අක්‍රිය වී ඇති බව නිරීක්ෂණය වී තිබේ .
+Police say an inquiry into the disappearance of a gold tal and foot of the Konasevan Kovil, Trincomalee Police said.
+
+Aurul Hill Kannagipuram, Trincomalee, Hill Kannagipuram, a resident of the Kovil, has lodged a complaint with the Trincomalee Police regarding the disappearance of these paths.
+
+The Criminal Division of Trincomalee Police has launched an investigation into the incident and the CCTT cameras installed the Kovil environment.
 
 ◼️
 
 [Data](articles/626099fb.json)
+
+[Extended Data](ext_articles/626099fb.ext.json)
 
 ---
 
@@ -2097,105 +2209,5 @@ While the history of the Tamil people in the history of the United National Part
 [Data](articles/86a2721c.json)
 
 [Extended Data](ext_articles/86a2721c.ext.json)
-
----
-
-### A presidential candidate points out that the oldest is route to create a new constitution
-
-*2024-08-14 17:34:03* · [`adalk`](https://www.ada.lk/breaking_news/නව-ව්‍යවස්ථාවක්-නිර්මාණය-කිරීමට-මුල-පරණ-බව-ජනාධිපතිවරණ-අපේක්ෂකයෙකු--කියයි/11-411373) · `si`
-
-Presidential candidate argues creating a new constitution from scratch is the oldest method. Opposition candidate Sajith Premadasa claims the current constitution was established during his administration.
-
-🟩
-
-Opposition candidate opposition candidate Sajith Premadasa, Sajith Premadasa, Sajith Premadasa, said that the new constitution was created under his government.
-
-◼️
-
-[Data](articles/efe21634.json)
-
-[Extended Data](ext_articles/efe21634.ext.json)
-
----
-
-### Sri Lanka’s HNB profits up 262-pct in June quarter
-
-*2024-08-14 17:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-profits-up-262-pct-in-june-quarter-176803/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hatton National Bank group reported profits of 8.5 billion rupees for the June 2024 quarter, up 262 percent from a year ago, helped by sharply lower provisions, even as net interest income fell, interim accounts showed.
-
-HNb group which also includes an insurance unit reported earnings of 14.99 rupees for the quarter. In the 6 months to June earnings were 27.59 rupees on total profits of 15.7 billion rupees.
-
-Group net interest income fell 13 percent to 27.25 billion rupees, with interest income falling 27 percent to 59.4 billion rupees despite interest expense falling 35 percent to 32.1 billion rupees.
-
-Impairment provisions were down to 814 million rupees from 17.7 billion rupees. Last years provisions were up partly due to sovereign bond provisions.
-
-Loans to customers was barely changed at 957 billion rupees by end June from 954 billion in December at bank level. Debt instruments were up 19 percent to 651 billion rupees.
-
-...
-
-[Data](articles/6658b672.json)
-
-[Extended Data](ext_articles/6658b672.ext.json)
-
----
-
-### Sri Lanka bond yields steady, rupee closes at 299.15/25
-
-*2024-08-14 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-steady-rupee-closes-at-299-15-25-176810/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 299.15/25 to the US dollar Wednesday, from 299.10/25 Tuesday dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 11.05/30 percent, up from 11.00/30 percent.
-
-A bond maturing on 15.06.2029 closed stable at 13.00/15 percent.
-
-A bond maturing on 01.10.2032 closed at 13.25/50 percent, down from 13.30/70 percent.
-
-◼️
-
-[Data](articles/566d4dec.json)
-
-[Extended Data](ext_articles/566d4dec.ext.json)
-
----
-
-### Party secretary among several arrested for taking Rs. 30M bribe from Janaka Ratnayake
-
-*2024-08-14 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/101240/party-secretary-among-several-arrested-for-taking-rs-30m-bribe-from-janaka-ratnayake) · `en`
-
-A group of officials including the Secretary of the “United Lanka Podujana Party” (Eksath Lanka Podujana Pakshaya) have been arrested while soliciting a bribe from the party’s presidential candidate, former PUCSL chairman Janaka Ratnayake.
-
-They have reportedly been arrested today by officers of the Bribery Commission while accepting the bribe of Rs. 30 million from Mr. Ratnayake, the party’s presidential candidate.
-
-The suspects have been arrested based on a complaint lodged by the former PUCSL chairman, on behalf of whom the security deposit was placed this morning as the party’s presidential candidate.
-
-The arrested persons including the secretary of the “United Lanka Podujana Party” are accused of attempting to solicit a bribe of Rs. 30 million from Mr. Ratnayake in exchange for making him the party’s presidential candidate.
-
-...
-
-[Data](articles/860ceca3.json)
-
-[Extended Data](ext_articles/860ceca3.ext.json)
-
----
-
-### UNP secretary including party secretary to fight for Janaka
-
-*2024-08-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199940) · `si`
-
-United Ceylon General Party Secretary and others were arrested by the Bribery Investigation Commission for allegedly accepting a bribe. The former Chairman of the People's Utilities Commission posted bail after being nominated as a presidential candidate.
-
-🟩
-
-The United Ceylon General Party Secretary and other officials were arrested by the Bribery Investigation Commission (Investigation Divisional Secretariat) to obtain a bribe of Rs.
-
-The former Chairman of the Public Utilities Commission of Public Utilities Commission (People's Utilities Commission has deposited the bail as the Presidential candidate this morning.
-
-◼️
-
-[Data](articles/626f525b.json)
-
-[Extended Data](ext_articles/626f525b.ext.json)
 
 ---

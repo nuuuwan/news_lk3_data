@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 08:15:04**
+As of **2024-08-15 08:37:19**
 
 ## Newspaper Stats
 
-*Scraped **40,812** Articles*
+*Scraped **40,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
 tamilmirrorlk | 5,202
-virakesarilk | 6,465
-adaderanasinhalalk | 6,946
+virakesarilk | 6,467
+adaderanasinhalalk | 6,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,811 (100.0%) of 40,812 articles have been extended.
+40,815 (100.0%) of 40,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### Harin and Manusha's Minister beat President
+
+*2024-08-15 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199958) · `si`
+
+In a move led by three ministers, including Manusha Nanayakkara and Harin Fernando, a gazette notification was issued under President Ranil Wickremesinghe, reassigning the Ministry of Labor and Foreign Employment. This action came after the duo lost their ministerial portfolios due to seat vacancies.
+
+🟩
+
+Three minister has issued a special gazette notification under President Ranil Wickremesinghe.
+
+Accordingly, the Minister of Labor and Foreign Employment (Labor and Foreign Employment) has been taken under the President of the Ministry of Labor and Foreign Employment.
+
+The former ministers, Manusha Nanayakkara and Harin Fernando, who was previously taken in the ministerial portfolio, had been vacancies with the loss of their seats.
+
+Accordingly, the President has issued the gazette notification while keeping the minister.
+
+◼️
+
+[Data](articles/1003b874.json)
+
+[Extended Data](ext_articles/1003b874.ext.json)
+
+---
+
+### The doors of the PA are open - Minister Nimal calls for all parties
+
+*2024-08-15 07:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191119) · `ta`
+
+Minister Nimal invites all parties to join the PA, emphasizing its unique approach to democracy and inclusivity. The PA aims to revitalize Sri Lanka's politics by creating a modern alliance that prioritizes public welfare over party interests, inspired by the failed Sri Lanka Freedom Party. This new coalition seeks to foster broad-based political dialogue, ensuring representation for all segments of society, including minorities.
+
+🟩
+
+Political parties in Sri Lanka are always in the grip of the party leader and the democratic sacrifices that should be made for the people and the party are avoided. But the PA is not the same. So the PA, the United People's Power, the JVP. Nimal Siripala de Silva called for anyone to join us.
+
+He further stated that the PA was held at the Votes Edge Hotel on Wednesday (14).
+
+The PA is a camp that has brought the country's politics to the politics. It was decided to make the old alliance ideal for modern time and fulfill the wishes of the people. We changed the yap and changed the legal conditions and formed this new alliance.
+
+Political parties in Sri Lanka are always in the grip of the party leader and the democratic sacrifices that should be made for the people and the party are avoided. Party politics was destroyed as the leaders of political parties did not understand the legitimate needs of the common people. The Sri Lanka Freedom Party can be an example.
+
+...
+
+[Data](articles/9f15ed00.json)
+
+[Extended Data](ext_articles/9f15ed00.ext.json)
+
+---
 
 ### 11 killed in rabies
 
@@ -264,6 +312,36 @@ The week is being celebrated by the High Commission of India and its cultural ar
 
 ---
 
+### The filing of nominations will be closed from 6 pm to 2 pm today;Only permission can enter- the Elections Commission
+
+*2024-08-15 04:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191120) · `ta`
+
+Nominations close today from 6 pm to 2 pm at the Elections Commission. The 9th executive power election, with 40 contestants, is on Thursday. Nominations are accepted from 9 am to 11 am today, with 22 candidates from political parties, 1 candidate, and 17 independents. Of the 41 initially allowed for the 2019 election, 35 contested. Security measures are in place, including special traffic operations and police presence.
+
+🟩
+
+The country's 9th executive power will be held on Thursday (15) as 40 people have been restricted to contest the presidential election.
+
+Nominations will be accepted at the Elections Commission's office from 9 am to 11 am today (15).
+
+The Elections Commission has announced that there are 22 candidates to contest on behalf of the recognized political parties, 1 candidate and 17 as independent candidates.
+
+Of the 41 people who were controlled to contest the 2019 presidential election, only 35 contested the nominations.
+
+With the ninth presidential election to be held on the 21st of this month, 40 people have been restricted to contest the election.
+
+The official announcement for the presidential election was announced on July 26 last year.
+
+During this period, 40 people have been controlled by the recognized political parties, another political party and an independent candidate.
+
+...
+
+[Data](articles/d2679d9f.json)
+
+[Extended Data](ext_articles/d2679d9f.ext.json)
+
+---
+
 ### Colombo Marina Development nominated as primary venture in Port City
 
 *2024-08-15 04:24:11* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Marina-Development-nominated-as-primary-venture-in-Port-City/34-765549) · `en`
@@ -416,21 +494,29 @@ The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and
 
 ---
 
-### தமிழக மீனவர்கள் மீது தாக்குதல்
+### Tamil Nadu fishermen attack
 
 *2024-08-15 02:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மீது-தாக்குதல்/175-342182) · `ta`
 
-வேதாரண்யம் மீனவர்கள் நால்வரை இலங்கையை சேர்ந்த தமிழ் மீனவர்கள் கடுமையாகத் தாக்கி விரட்டி அடித்துள்ள சம்பவம் தமிழக மீனவர்கள் மத்தியில் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+Vedaranyam fishermen in Tamil Nadu were attacked by Sri Lankan Tamil fishermen, resulting in injuries and theft of 700 kg of nets. The incident, involving four Vedaranyam fishermen in two boats, was marked by violence with swords and iron pipes. The victims were hospitalized after the attack. Investigations are ongoing by the Vedaranyam Coast Guard Police.
 
-கோடியக்கரைக்கு கிழக்கே 15 கடல்மைல் தொலைவில் நான்கு மீனவர்கள் மீன் பிடித்துக்கொண்டிருந்தபோது இரவு 10.30 மணியளவில் இரண்டு படகுகளில் அங்கு சென்ற இலங்கையைச் சேர்ந்த தமிழ் பேசத் தெரிந்த 6 நபர்கள் வேதாரண்யம் மீனவர்களின் படகை சூழ்ந்து கொண்டு அவர்களின் படகில் ஏறி நான்கு பேரையும் வாள்களை கழுத்தில் வைத்து மிரட்டியும், இரும்புப் பைப்புகளை கொண்டு தாக்கியும் உள்ளனர்.
+🟩
 
-அத்துடன், படகில் இருந்த 700 கிலோ வலைகளை எடுத்துக் கொண்டு அங்கிருந்து சென்றுள்ளனர்.
+The incident in which Vedaranyam fishermen have been hit by Tamil fishermen from Sri Lanka have been hit by a shock among Tamil Nadu fishermen.
 
-இதையடுத்து, காயமடைந்த நான்கு மீனவர்களும் நேற்று  மதியம் ஆறுகாட்டுத்துறை கடற்கரைக்கு திரும்பினர். அவர்களின் முதுகின் பின்புறத்தில் இரும்பு பைப்பால் அடித்ததில் உள்காயம் ஏற்பட்டுள்ளதால் அவர்கள் உடனடியாக வேதாரண்யம் அரசு தலைமை மருத்துவமனையில் சேர்க்கப்பட்டனர்.
+When four fishermen were fishing in two boats at around 10.30 pm, when four fishermen were fishing in two boats east of Kodiyakkara, six people who had gone there in two boats, surrounded the boat of Vedaranyam fishermen and attacked four people in their boat and attacked the swords with iron pipes.
 
-...
+In addition, they have taken 700 kg of nets on the boat.
+
+The four fishermen who were injured returned to the coast of six years yesterday afternoon. They were immediately rushed to the Vedaranyam Government Head Hospital as they were influenced by the iron pipe hitting the back of their backs.
+
+Vedaranyam fishermen again and again by Sri Lankan Tamil fishermen. Vedaranyam Coast Guard Police are investigating the matter, Tamil Nadu media reports. (A)
+
+◼️
 
 [Data](articles/07169271.json)
+
+[Extended Data](ext_articles/07169271.ext.json)
 
 ---
 
@@ -2171,67 +2257,5 @@ D T K Bernard’s appointment as chairman and chief executive officer of the Sri
 [Data](articles/bb0cd531.json)
 
 [Extended Data](ext_articles/bb0cd531.ext.json)
-
----
-
-### Kota support for Namal
-
-*2024-08-14 14:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-கோட்டா-ஆதரவு/175-342165) · `ta`
-
-Former President Gotabhaya Rajapakse supports Namal Rajapakse for president, participating in his nomination signing.
-
-🟩
-
-Former President Gotabhaya Rajapakse has given his support to the presidential candidate Namal Rajapakse, the Sri Lanka PA (SLPP), ahead of the upcoming presidential election.
-
-Gotabhaya Rajapaksa participated in the signing of the nomination papers by MP Namal Rajapaksa to contest the upcoming presidential election.
-
-Parliamentarian Namal Rajapaksa signed a nomination papers at the residence of former President Mahinda Rajapaksa in Wijerama, Colombo this morning.
-
-◼️
-
-[Data](articles/246b41ab.json)
-
-[Extended Data](ext_articles/246b41ab.ext.json)
-
----
-
-### Thai Prime Minister Srettha Thavisin removed from office by court order
-
-*2024-08-14 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/101234/thai-prime-minister-srettha-thavisin-removed-from-office-by-court-order) · `en`
-
-BANGKOK (AP) — A court in Thailand on Wednesday removed Prime Minister Srettha Thavisin from office over an ethical violation, further shaking up Thai politics after the court-ordered dissolution of the main opposition party a week ago.
-
-The case for which the Constitutional Court judged Srettha involved his appointment of a Cabinet member who had been imprisoned over an alleged attempt to bribe a court official.
-
-The court voted 5:4 against Srettha and the ruling removed him from office immediately.
-
-The Cabinet will remain in place on a caretaker basis until Parliament approves a new prime minister. There is no time limit for Parliament to fill the position.
-
-...
-
-[Data](articles/77b3e92e.json)
-
-[Extended Data](ext_articles/77b3e92e.ext.json)
-
----
-
-### The third term is the beginning of 26
-
-*2024-08-14 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-26-ஆரம்பம்/175-342164) · `ta`
-
-The third term in the academic year 2024 begins on August 26th, ending the second phase of private and state-approved private schools on August 16th.
-
-🟩
-
-The second installment of private and state -approved private schools ends on August 16, 2024.
-
-The first phase of the third term for 2024 will commence on Monday, August 26, 2024, the Ministry of Education said.
-
-◼️
-
-[Data](articles/c70997bb.json)
-
-[Extended Data](ext_articles/c70997bb.ext.json)
 
 ---

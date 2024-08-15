@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 14:55:23**
+As of **2024-08-15 15:06:10**
 
 ## Newspaper Stats
 
@@ -26,37 +26,53 @@ adaderanasinhalalk | 6,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,892 (100.0%) of 40,894 articles have been extended.
+40,894 (100.0%) of 40,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ப.அரியநேத்திரனுக்கு ’சங்கு’ சின்னம்
+### P.
 
 *2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ப-அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
+
+It seems like there was no text provided after "Summarize the following into 200 characters:". Could you please provide the text you'd like summarized?
+
+🟩
 
 ◼️
 
 [Data](articles/a75b1d6c.json)
 
+[Extended Data](ext_articles/a75b1d6c.ext.json)
+
 ---
 
-### මැතිවරණ සමයේදී නොකළ යුතු දේ
+### What should not be done during the election period
 
 *2024-08-15 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199968) · `si`
 
-ජනාධිපතිවරණයට අදාළව පක්ෂ අපේක්ෂකයන් සහ ආධාරකරුවන් සිදු නොකළ යුතු ක්‍රියාවන් පිළිබඳ මැතිවරණ කොමිෂන් සභාව විසින් මැතිවරණ කොමිෂන් කාර්යාලයේදී අද (15) අපේක්ෂකයින්ව දැනුම්වත් කෙරිණි.
+Candidates must avoid distributing materials, demonstrations, unauthorized advertising, loudspeaker misuse without permission, bribery, promoting via religious programs or sacred places, and engaging in political activities outside of election-related tasks during the election period. Violations may lead to legal action and are punishable under the law.
 
-ඒ අනුව මෙකී නිතීවිරෝධී ක්‍රියා, වැරදි, දූෂණ ක්‍රියා සිදුකිරීම, විධාන උල්ලංඝනය කිරීම පිළිබඳ දඬුවම ජනාධිපතිවරයා තෝරා පත් කර ගැනීම පිළිබඳ පනතේ සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ පැහැදිළිව දක්වා ඇතැයි ද මෙහි ඇතැම් වැරදි සඳහා දඬුවම තේරි පත්වීම අහිමි වීම සහ ප්‍රජා අයිතිය අහිමි වීම බව මැතිවරණ කොමසාරිස් ආර්.එම්.ඒ.එල්. රත්නායක මහතා එහිදී පැවසීය.
+🟩
 
-ජනාධිපතිවරයා තෝරා පත් කර ගැනීම පිළිබඳ වූ පනතේ 74 වන වගන්තිය යටතේ නාමයෝජනා දින සිට ඡන්ද විමසීම අවසන් වන දින තෙක් අපේක්ෂකයෙකු තෝරා පත්කර ගැනීමේ ඉඩකඩ වැඩි කිරීම සඳහා හෝ තවත් අපේක්ෂකයෙකු අගතියට පත් කිරීම සඳහා ප්‍රචාරක පත්‍රිකා සහ අනෙකුත් දෑ ප්‍රදර්ශනය කිරීම, බෙදා හැරීම නොකළ යුතු වෙයි.
+The Elections Commission also informed the candidates at the Elections Commission today (15) at the Elections Commission regarding the actions that should not be done in connection with the presidential election.
 
-සියලුම අපේක්ෂකයින්ගේ අවධානය මේ සම්බන්ධව  යොමුකර ඇති අතර මේ සඳහා වූ නීතිමය කටයුතු සිදු කිරීම සඳහා පොලිස්පතිවරයා වෙත අදාළ උපදෙස් මැතිවරණ කොමිෂන් සභාව විසින් ලබා දී තිබේ.
+The Commissioner General of Elections R.R. Elections Commissioner R.S.MAL. Mr. Ratnayake said.
+
+Under Section 74 of Section 74 of the Act, Section 74 of the Act, Section 74 of the Act, Section 74 of the nomination scheme shall not be distributing, demonstration.
+
+The attention of all candidates has been referred to this and the Election Commission has provided the instructions relevant to the IGP to carry out the legal proceedings.
+
+Elections related to the presidential election or other advertising photos or such paintings can be propagated at the preparation of the announcement, near the area or the formal permission of announcement.
+
+During the election, candidates can use loudspeakers to promote candidates, and the loudspeakers can only be used on the proper permission.
 
 ...
 
 [Data](articles/03aea447.json)
+
+[Extended Data](ext_articles/03aea447.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 15:20:50**
+As of **2024-08-15 15:36:25**
 
 ## Newspaper Stats
 
-*Scraped **40,898** Articles*
+*Scraped **40,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,480
 dailyftlk | 2,640
 adalk | 3,764
 dailymirrorlk | 4,733
-adaderanalk | 4,775
-tamilmirrorlk | 5,225
+adaderanalk | 4,776
+tamilmirrorlk | 5,226
 virakesarilk | 6,480
 adaderanasinhalalk | 6,957
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,894 (100.0%) of 40,898 articles have been extended.
+40,898 (100.0%) of 40,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### Protests escalate in India over gruesome rape and murder of doctor
+
+*2024-08-15 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101262/protests-escalate-in-india-over-gruesome-rape-and-murder-of-doctor) · `en`
+
+Thousands of women marched across several Indian cities overnight and Prime Minister Narendra Modi called for strict punishment for crimes against women, as outrage and protests against the gruesome rape and murder of a doctor escalated.
+
+Holding candles and posters that said “reclaim the night”, women held marches across cities, including the eastern Indian city of Kolkata, where the rape and murder of a trainee doctor last week has triggered protests by fellow medics, demanding better and safer working conditions.
+
+Many government hospitals in cities across India suspended all services except emergency departments earlier this week, as junior doctors sat outside in protest, demanding justice for the victim.
+
+The 31-year-old doctor was found dead on Friday. Police said she had been raped and murdered and a police volunteer was subsequently arrested in connection with the crime.
+
+...
+
+[Data](articles/6ed1bc14.json)
+
+---
 
 ### New alliance led by Anura Yapa formed as ‘People’s Alliance’
 
@@ -51,6 +69,8 @@ The newly-formed alliance plans to contest the upcoming elections under the symb
 ◼️
 
 [Data](articles/1d25b542.json)
+
+[Extended Data](ext_articles/1d25b542.ext.json)
 
 ---
 
@@ -74,6 +94,8 @@ Meanwhile, the security deposit was placed at the Election Commission on Tuesday
 
 [Data](articles/acf31a09.json)
 
+[Extended Data](ext_articles/acf31a09.ext.json)
+
 ---
 
 ### P.
@@ -92,13 +114,19 @@ It seems like there was no text provided after "Summarize the following into 200
 
 ---
 
-### அரியநேத்திரனுக்கு ’சங்கு’ சின்னம்
+### The symbol symbol of the telephone
 
 *2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
+
+The telephone symbolizes communication and connection, bridging distances and enabling instant voice transmission across the globe.
+
+🟩
 
 ◼️
 
 [Data](articles/e73105b1.json)
+
+[Extended Data](ext_articles/e73105b1.ext.json)
 
 ---
 
@@ -342,23 +370,31 @@ Accordingly, the President has given the Gas Cylinder to the President for the n
 
 ---
 
-### කෝවිල් දේව පූජාවෙදී අඹ ගෙඩිය රුපියල් 285,000 කට වෙන්දේසි වෙයි
+### The mango is auctioned at Rs. 285,000 at Kovil Deva
 
 *2024-08-15 13:16:26* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-දේව-පූජාවෙදී-අඹ-ගෙඩිය-රුපියල්-285-000-කට-වෙන්දේසි-වෙයි/11-411389) · `si`
 
-වවුනියාව, උක්කුලාන්කුලම හින්දු කෝවිලේ පැවති දේව මෙහෙයකින් අනතුරුව පැවත්වෙන පූජා භාණ්ඩ වෙන්දේසිකදී එහි තිබූ අඹ ගෙඩියක් රුපියල් 285,000 ක මුදලකට ඊයේ රාත්‍රියේ වෙන්දෙසී වූ බවට කෝවිල් භාරකාර මණ්ඩලය පැවසීය.
+A rare mango sold for Rs. 285,000 at Kovil Deva's Hindu temple auction, part of annual festivities, was bought by Chandran Syntaja. The proceeds support temple development, education, and community harmony.
 
-මෙම වෙන්දේසිය ඊයේ (14) සවස පවත්වා තිබුණේ උක්කුලාන්කුලම් සිද්දි විනායගර් කෝවිලේ පැවති වාර්ෂික දේව මංගල්‍යය වෙනුවෙනි.
+🟩
 
-අදාල නෙද්දේසියේදී මෙම අඹ ගොඩිය මිලට ගනු ලැබුවේ වවුනියාව, උක්කුලාන්කුලම ප්‍රදේශයේ පදිංචි චන්ද්‍රන් සින්දුජා නමැති කාන්තාවක් විසිනි.
+The Kovil Trust Board said that the auction of sacrificing goods held at the Hindu Kovil at the Hindu Kovil in the Hindu Kovil at the Hindu Kovil of Ukkakulankulam.
 
-කෙසේ වෙතත් පසුගිය 2023 වසරේ අගෝස්තු මාසයේදීද මෙම හින්දු කෝවිලේම පැවති වෙන්දේසියේදී අදාල කාන්තාව විසින් අඹගෙඩියක් 162,000 ක මුදලක් ලබාදී මිලට ගනු ලැබීය.
+The auction was held yesterday (14) to the Annual Festival held at the Sidhagager Kovil yesterday.
 
-මෙම කාන්තාව විසින් කෝවිලේ සංවර්ධන කටයුතු වෙනුවෙන් අදාල මුදල් ලබාදීම සඳහා එවැනි මිලකට මෙම අඹ ගෙඩිය වෙන්දේසියේදී මුදල් ලබා දීම සිදුකල අතර ඊට අමතරව මෙම අඹ ගෙඩිය තමන්ගේ නිවසට රැගෙන ගොස් තැන්පත් කිරීමෙන් නිවසට මෙන්ම පවුලට ඇතිවන්නාවූ කරදර හා දෝෂයන් තුරන් වී සාමය සෞභාග්‍ය උදාවන බවටද හින්දු ජනතාවගේ විශ්වශයක් පවතියි.
+The mango file was purchased by a woman named Chandran Syntaja, a resident of Ukkulankulam area in general area Naddés.
 
-...
+However, the woman at the Auction at the Hindu Kovil was purchased at the Auction at the Hindu Kovil in August 2023.
+
+This mango is funded at the auction to provide the money for the development of the temple and the universities of the Hindus and the peace of the family and the peaceful for the family and the family will be eradicated..
+
+Hindu Kovils in the Northern Province have been held these days and a mango of the Hindu Kovil of Vavuniya has been auctioned for Rs. 95,000 and 3 million in the Hindu Kovil.
+
+◼️
 
 [Data](articles/920b343d.json)
+
+[Extended Data](ext_articles/920b343d.ext.json)
 
 ---
 
@@ -739,6 +775,24 @@ But they have changed their position.
 [Data](articles/d8e9ed03.json)
 
 [Extended Data](ext_articles/d8e9ed03.ext.json)
+
+---
+
+### கைகொடுத்தார் ரணில்: கும்பிட்டார் சஜித்
+
+*2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/150-342216) · `ta`
+
+தேர்தல்கள் ஆணைக்குழுவில் 2024 தேர்தலுக்கான வேட்பு மனுக்களை தாக்கல் செய்யும் பணி வியாழக்கிழமை (15) காலை 9 மணிக்கு ஆரம்பமாகி பகல் 11 மணியுடன் நிறைவடைந்தது.
+
+வேட்புமனுக்கள் தொடர்பான ஆட்சேபனைகளை தெரிவிக்க, காலை 11  மணி முதல் 11.30 மணி வரை நேரம் ஒதுக்கப்பட்டிருந்தது. மொத்தமாக 40 பேர் கட்டுப்பணம் செலுத்தியிருந்தனர். எனினும், வேட்பு மனுக்களை 39 பேர் மட்டுமே தாக்கல் செய்தனர்
+
+அதன்பின்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தான் அமர்ந்திருந்த  ஆசனத்தில் இருந்து எழும்பி பின்னால் சென்றார்.  அப்போது, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு கைலாகு கொடுத்து வாழ்த்துவதற்கு கையை நீட்டினார்.
+
+எனினும், தனக்கு ஒதுக்கப்பட்டிருந்த ஆசனத்திலேயே அமர்ந்திருந்த சஜித் பிரேமதாச கையை கொடுக்காது, கைக்கூப்பி  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு வணக்கம் செலுத்தினார்.
+
+◼️
+
+[Data](articles/66c452d7.json)
 
 ---
 
@@ -2205,47 +2259,5 @@ Over four days, Chartered Global Management Accountants (CGMA designation holder
 [Data](articles/6c70e01e.json)
 
 [Extended Data](ext_articles/6c70e01e.ext.json)
-
----
-
-### Blast in container ship: Cause to be determined after thorough probe says Harbour Master
-
-*2024-08-15 03:47:18* · [`dailyftlk`](https://www.ft.lk/business/Blast-in-container-ship-Cause-to-be-determined-after-thorough-probe-says-Harbour-Master/34-765544) · `en`
-
-Colombo port and JCT back to business as usual since no damage caused to machinery or equipment
-
-The cause of the recent blast aboard the container vessel MV MSC CAPETOWN III at the Port of Colombo will be determined following comprehensive investigations.
-
-The explosion, which occurred on 11 August at around 0030 hours near the Bay 42 area of the vessel which was berthed at JCT4, led to an immediate evacuation of all operations staff and crew members from the affected area of the vessel.
-
-Harbour Master Capt. Nirmal Silva reassured that the fire, which followed the blast, did not cause any damage to the machinery or equipment at the Jaya Container Terminal (JCT).
-
-“The extent of the damage to the cargo and the overall findings will depend on the investigations, which may also involve the expertise of foreign specialists. There will be a report for each affected container,” Capt. Silva told the Daily FT.
-
-...
-
-[Data](articles/7c323bf2.json)
-
-[Extended Data](ext_articles/7c323bf2.ext.json)
-
----
-
-### David Pieris Automobiles opens pre-bookings for NETA electric SUVs
-
-*2024-08-15 03:42:47* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Automobiles-opens-pre-bookings-for-NETA-electric-SUVs/34-765543) · `en`
-
-David Pieris Automobiles Ltd. (DPA) has announced the opening of pre-bookings for NETA, the electric and innovative vehicle, for permit holders.
-
-This intelligent and affordable electric vehicle, backed by the trusted David Pieris Group, will soon make its debut on Sri Lankan roads in two models: the NETA X (SUV) and the NETA Aya (Crossover).
-
-DPA recently entered into a strategic partnership with Hozon New Energy Automobile Co., Ltd. for the localised production and distribution of NETA electric vehicles in Sri Lanka. This collaboration marks a significant milestone, representing NETA’s first assembly project in South Asia and affirming DPA’s strong presence and expertise in the Local Value Addition (LVA) sector.
-
-The NETA X boasts an impressive driving range of 500 km (NEDC) and delivers a maximum power output of 163 PS (120 kW). It is equipped with an advanced driver assistance system (ADAS) to enhance safety and convenience.
-
-...
-
-[Data](articles/4439189d.json)
-
-[Extended Data](ext_articles/4439189d.ext.json)
 
 ---

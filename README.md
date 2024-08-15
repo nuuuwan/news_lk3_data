@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 18:28:17**
+As of **2024-08-15 18:38:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,935 (100.0%) of 40,936 articles have been extended.
+40,936 (100.0%) of 40,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Justice Elizabeth Raper found Ms Danaratna worked from 6am to 10pm, seven days a
 ...
 
 [Data](articles/5eb32d7c.json)
+
+[Extended Data](ext_articles/5eb32d7c.ext.json)
 
 ---
 

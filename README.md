@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 17:57:32**
+As of **2024-08-15 18:16:22**
 
 ## Newspaper Stats
 
-*Scraped **40,925** Articles*
+*Scraped **40,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,48 +13,146 @@ newsfirstlk | 363
 bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
-economynextcom | 2,480
+economynextcom | 2,488
 dailyftlk | 2,646
-adalk | 3,765
+adalk | 3,766
 dailymirrorlk | 4,733
 adaderanalk | 4,779
 tamilmirrorlk | 5,233
 virakesarilk | 6,482
-adaderanasinhalalk | 6,963
+adaderanasinhalalk | 6,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,921 (100.0%) of 40,925 articles have been extended.
+40,925 (100.0%) of 40,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ரிஷாட் பதியுதீன் சஜித்துடன் ஒப்பந்தம்
+### Sri Lanka SOE sale process was slow to avoid reversals
+
+*2024-08-15 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-soe-sale-process-was-slow-to-avoid-reversals-176926/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state enterprises privatization is slow due to the process that was followed to ensure that the transactions were transparent and there was no risk of being reversed, SOE restructuring unit chief Suresh Shah said.
+
+“If it is reversed it would have damaged the investment environment in the country,” Shah told a forum organized by Advocata, a Colombo based think tank. “Particularly if the investor was a foreign investor.”
+
+Courts reversed the privatization of Sri Lanka Insurance after a public interest petition alleged a flaw in the process.
+
+“We were very conscious of that, and because of this we have put several controls and procedures in place to ensure the transparency, and credibility of the whole process. As a result, it has taken time.”
+
+“You are taking these companies that are not necessarily the most efficient, not the most competitive and giving it to a new investor.”
+
+The SOE unit began the process last year and was planning to finish them by August 2024.
+
+...
+
+[Data](articles/afcd48f9.json)
+
+---
+
+### මෝදි ගේන්න යන නීති
+
+*2024-08-15 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199975) · `si`
+
+ඉන්දියාවේ 78 වෙනි නිදහස් දින සැමරුම අද (15) එරට නවදිල්ලි අගනුවරදී අගමැති නරේන්ද්‍ර මෝදිගේ ප්‍රධානත්වයෙන් පැවත්වුණි.
+
+විවිධ අංගවලින් හැඩවූ නිදහස් දින සැමරුමට 6, 000ක පමණ පිරිසක් ආරාධනා ලබා සිටි අතර ඒ අතරට පැරිස් ඔලිම්පික් උළෙලට  එක්වූ ක්‍රීඩක ක්‍රීඩිකාවන්, පාසල් සිසුන් මෙන්ම දේශසීමා මාර්ග ව්‍යාපෘතියක කම්කරුවන් පිරිසක් ද අයත් ය.
+
+එහිදී දැඩි ලෙස අදහස් පළ කළ අගමැති මෝදි අවධාරණය කර සිටියේ කාන්තාවන්ට එරෙහි අපරාධ සිදුකරන්නන්ට ප්‍රසිද්ධ දඬුවම් ලබාදිය හැකි නීති සකස් කරන බවටය.
+
+මේ අතර ඉන්දියාවේ 78 වන නිදහස් දිනය වෙනුවෙන් අමෙරිකාව ද සුබ පැතුම් එක් කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ අමෙරිකානු රාජ්‍ය ලේකම්වරයා එලෙස සුබ පැතුම් එක්කර තිබූ බවය.
+
+◼️
+
+[Data](articles/af4a41f9.json)
+
+---
+
+### Agreement with Rishad Bathiudeen Sajith
 
 *2024-08-15 17:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-சஜித்துடன்-ஒப்பந்தம்/175-342237) · `ta`
 
-ஜனாதிபதி தேர்தலில் சஜித் பிரேமதாசாவுக்கு ஆதரவளித்துள்ள அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் இது தொடர்பான உடன்படிக்கையில், வியாழக்கிழமை (15)  அன்று கைச்சாத்திட்டுள்ளார்.
+Rishad Bathiudeen, leader of the All Ceylon People's Congress, endorsed Sajith Premadasa in the presidential election and signed an agreement on Thursday (15).
+
+🟩
+
+All Ceylon People's Congress leader Rishad Bathiudeen, who supported Sajith Premadasa in the presidential election, signed an agreement on Thursday (15).
 
 ◼️
 
 [Data](articles/753bd423.json)
 
+[Extended Data](ext_articles/753bd423.ext.json)
+
 ---
 
-### ජනපති දළදා සමිඳුන් වැඳ ආශිර්වාද ලබාගනී
+### Sri Lanka bond yields down, rupee stronger at 298.95/299.05
+
+*2024-08-15 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-rupee-stronger-at-298-95-299-05-176949/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 298.95/299.05 to the US dollar Thursday, from 299.15/25 Wednesday dealers said, while bond yields marginally declined.
+
+A bond maturing on 15.12.2026 closed at 11.05/20 percent, down from 11.05/30 percent.
+
+A bond maturing on 15.12.2027 closed at 12.05/20 percent, down from 12.15/25 percent.
+
+A bond maturing on 15.06.2029 closed at 13.00/10 percent, down from 13.00/15 percent.
+
+A bond maturing on 01.10.2032 closed at 13.20/30 percent, down from 13.25/50 percent.
+
+◼️
+
+[Data](articles/702a1672.json)
+
+---
+
+### President pays the Santada
 
 *2024-08-15 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199974) · `si`
 
-එළඹෙන ජනාධිපතිවරණය සඳහා අද (15) දිනයේ නාමයෝජනා භාරදීමෙන් අනතුරුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහනුවර ශ්‍රී දළදා මාළිගාව වෙත ගොස් දළදා සමිඳුන් වැඳ ආශිර්වාද ලබා ගත්තේය.
+President Ranil Wickremesinghe visited religious sites in Kandy post-nomination, including Dalada Maligawa and several other temples, meeting Buddhist monks.
 
-අනතුරුව මහනුවර අස්ගිරි සහ මල්වතු මහා විහාර වෙතද ගිය ජනාධිපතිවරයා, මල්වතු මහා විහාර පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගලාභිධාන මහානායක හිමි සහ අස්ගිරි මහා විහාර පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන මහානායක හිමි බැහැදැක ආශිර්වාද ලබාගත් අතර පසුව කෙටි පිළිසඳරක ද නිරතවිය.
+🟩
+
+President Ranil Wickremesinghe visited the Dalada Maligawa, Kandy after handing over nominations for the upcoming presidential election today (15).
+
+Then the President visited Asgiriya and Malwathu Maha Viharaya, Mahanaathu Maha Vihara Maha Vihara, Mahanathana Maha Viharaya, Mahanaanayake and the Mahananena Maha Viharaya Maha Viharaya, the Mahanaanayake of the Malwathu Maha Viharaya.
 
 ◼️
 
 [Data](articles/318c9a7b.json)
+
+[Extended Data](ext_articles/318c9a7b.ext.json)
+
+---
+
+### Sri Lanka’s Cable Solutions begins trading on CSE Diri Savi Board
+
+*2024-08-15 17:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-begins-trading-on-cse-diri-savi-board-176953/) · `en`
+
+ECONOMYNEXT – Shares of Sri Lanka’s Cable Solutions Limited (CODE: CSLK-N-0000) began trading on the Colombo Stock Exchange on Wednesday.
+
+The company’s initial public offering for over 80 million ordinary voting shares for sale at 7.50 rupees a share, was oversubscribed on the opening day.
+
+The shares have been listed on the Diri Savi Board of the CSE. The occasion was marked with a special Bell Ringing Ceremony.
+
+The event was attended by Cable Solutions Limited, Tempest PE Partners and CSE officials.
+
+“The compliance and regulatory framework you now enter will further strengthen your company’s standing, leading to significant long-term benefits,” CSE CEO Rajeeva Bandaranaike said.
+
+“I believe export growth is inseparably connected with investor confidence, and with strong investor support, I am
+
+optimistic about our continued growth,” Cable Solutions Managing Director Pawan Tejwani said.
+
+...
+
+[Data](articles/9e327bba.json)
 
 ---
 
@@ -101,6 +199,32 @@ SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanaya
 [Data](articles/a1288d1b.json)
 
 [Extended Data](ext_articles/a1288d1b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks attract interest
+
+*2024-08-15 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-attract-interest-176941/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 1.03 percent, or 117.60 points, at 11,531; while the more liquid S&P SL20 Index closed up 1.31 percent, or 42.79 points, at 3,308.
+
+Interest in banking stocks continued with many having posted positive interim results.
+
+Commercial Bank of Ceylon Plc voting closed up at 94.00 and non-voting was up at 77.00.
+
+Hatton National Bank Plc voting was up at 182.00, while non-voting was up at 146.25. The bank had posted a profit after tax of 15.4 billion rupees during the six months ended June 2024.
+
+“Banks are seeing interest because the banking results that have come out so far look ok.”
+
+Sampath Bank Plc was up at 77.20, DFCC Bank Plc was down at 72.30. National Development Bank Plc was up at 70.10.
+
+Top contributors to the ASPI included Ceylinco Holdings Plc (up at 2,550.00) and John Keells Holdings Plc (up at 182.00), in addition to Sampath, Commercial and DFCC Banks.
+
+...
+
+[Data](articles/05f5c9a3.json)
 
 ---
 
@@ -350,21 +474,27 @@ Ten luxury buses have been deployed for the bus service and will be charged from
 
 ---
 
-### தேர்தல் ஆணைக்குழு 'கோப்பிகடை "போல காணப்படுகின்றது - விஜயதாச
+### The Election Commission looks like 'Kopikadai' - Vijayadasa
 
 *2024-08-15 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191160) · `ta`
 
-வேட்பு மனுதாக்கல் செய்யும் நடவடிக்கைகளின் போது  தேர்தல் ஆணைக்குழு ஒழுக்கம் கட்டுப்பாட்டை  பேண தவறிவிட்டதாக தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி தேர்தல் வேட்பாளர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+Vijayadasa Rajapakse criticizes the Election Commission for lack of discipline during nominations, comparing it unfavorably to past practices. He highlights the emergence of numerous groups and the use of 'dummy' candidates to sway votes, urging both the commission and the public to uphold standards.
 
-கடந்த காலங்களில் தேர்தல் ஆணைக்குழு நீதிமன்றம் போல காணப்படும் ஒழுக்கம்  அமைதி பேணப்படும் என தெரிவித்துள்ள அவர் இம்முறை அது 'கோப்பிகடை" போல காணப்படுகின்றது பல குழுக்கள் உருவாகியுள்ளன என விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+🟩
 
-ஒரு வேட்பாளரை வெற்றிபெறச்செய்வதற்காக  பல 'டம்மி" வேட்பாளர்கள் நிறுத்தப்பட்டுள்ளனர்,ஒரு வேட்பாளருக்காக 15 முதல் 20 வரையிலான 'டம்மி" வேட்பாளர்கள் நிறுத்தப்பட்டுள்ளனர்,அவர்கள் காடையர்கள் போல நடந்துகொண்டனர் எனவும் அவர் தெரிவித்துள்ளார்.
+The National Democratic Front's presidential candidate Vijayadasa Rajapakse says that the Election Commission failed to maintain discipline during the nomination process.
 
-வேட்பாளர்கள் மத்தியில் ஒழுக்கத்தை பேணுவதற்கு தேர்தல் ஆணைக்குழு முயலவேண்டும் என வேண்டுகோள் விடுத்துள்ள விஜயதாச ராஜபக்ச மக்கள் ஒழுக்கமான விதத்தில் நடந்துகொள்ளவேண்டும் என வேண்டுகோள் விடுப்பதற்கு முன்னர் நாங்கள் அவ்வாறு நடந்துகொள்ளவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+Vijayadasa Rajapaksa said that in the past, the discipline of the Election Commission will be maintained, and that many groups have been formed this time.
+
+He said that several 'dummy "candidates have been fielded to win a candidate, and that the' dummy” candidates from 15 to 20 have been fielded for a candidate.
+
+Vijayadasa Rajapakse, who has appealed to the Election Commission to maintain discipline among the candidates, has called for the people to do so before we appeal to the people.
 
 ◼️
 
 [Data](articles/b863b9d6.json)
+
+[Extended Data](ext_articles/b863b9d6.ext.json)
 
 ---
 
@@ -387,6 +517,20 @@ However, the Tamil Progressive Alliance has decided to support Opposition Leader
 [Data](articles/a56ca6cf.json)
 
 [Extended Data](ext_articles/a56ca6cf.ext.json)
+
+---
+
+### ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් 39 දෙනා
+
+*2024-08-15 15:38:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සඳහා-ඉදිරිපත්-වන-අපේක්ෂකයින්-39-දෙනා/11-411392) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා  ඇපමුදල් තැන්පත්කල 40 දෙනා අතුරින් 39 දෙනකු නාමයෝජනා සඳහා ඉදිරිපත් වූ අතර එම 39 ගේම නම් පිළිගත් බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා සඳහන් කලේය.
+
+ඒ අනුව පිළිගත් අයගේ නම් මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා විසින් මෙසේ ප්‍රකාශයට පත් කර සිටියි.
+
+◼️
+
+[Data](articles/74c883c2.json)
 
 ---
 
@@ -630,25 +774,33 @@ During the election, candidates can use loudspeakers to promote candidates, and 
 
 ---
 
-### பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது - சுதந்திர தின உரையில் இந்திய பிரதமர் மோடி
+### Crimes against women are painful - Indian Prime Minister Modi in Independence Day speech
 
 *2024-08-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191140) · `ta`
 
-பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது. அது தொடர்பாக விரைவாக விசாரிக்கப்பட வேண்டும் என  இந்திய பிரதமர் நரேந்திர மோடி தெரிவித்துள்ளார்.
+In his Independence Day speech, PM Modi emphasized swift investigation and severe punishment for crimes against women, urging community trust. He also announced the creation of 75,000 new medical education seats over five years to keep students from studying abroad, highlighting infrastructure development and cautioning against casteism and negativity.
 
-இந்தியாவின் 78-வது சுதந்திர தினத்தை முன்னிட்டு இன்று வியாழக்கிழமை (15) டெல்லி செங்கோட்டையில் தேசியக்கொடி ஏற்றி வைத்த இந்திய பிரதமர் மோடி நாட்டு மக்களுக்கு உரையாற்றினார்.
+🟩
 
-பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது. அது தொடர்பாக விரைவாக விசாரிக்கப்பட வேண்டும்.
+Crimes against women are painful. Indian Prime Minister Narendra Modi has said that the matter should be investigated quickly.
 
-மேலும் இந்த குற்ற செயல்களில் ஈடுபடுபவர்களுக்கு கடுமையான தண்டனை வழங்கப்பட வேண்டும், சமூகத்தில் நம்பிக்கையை ஏற்படுத்துவது முக்கியம்.
+Indian Prime Minister Modi addressed the nation on Thursday (15) on the occasion of India's 78th Independence Day.
 
-அண்டை நாடுகளில் அமைதியை உறுதி செய்ய நாம் கடமைப்பட்டுள்ளோம். அடுத்த 5 ஆண்டுகளில் 75,000 புதிய மருத்துவ கல்வி பயில்வதற்கான இடங்கள்
+Crimes against women are painful. It should be investigated quickly.
 
-உருவாக்கப்படும். இதன் மூலம் நம் மாணவர்கள் வெளிநாடுகளில் சென்று மருத்துவம் பயில வேண்டிய அவசியம் இருக்காது. கடந்த 10 ஆண்டுகளில்  நாட்டின் உள்கட்டமைப்பை பலப்படுத்துவதில் பெரிய நகர்வுகள் மேற்கொள்ளப்பட்டுள்ளன.
+And those who are involved in these crimes should be severely punished and it is important to have confidence in the community.
 
-...
+We are obliged to ensure peace in neighboring countries. Places for 75,000 new medical education in the next 5 years
+
+Will be created. By this, our students do not need to go abroad and study medicine. In the last 10 years, there have been major moves in strengthening the country's infrastructure.
+
+People need to understand some people who always act with negative intentions and create stability in the country. Giving priority and casteism to those who need the community is a bad thing.
+
+◼️
 
 [Data](articles/6d93d36b.json)
+
+[Extended Data](ext_articles/6d93d36b.ext.json)
 
 ---
 
@@ -716,6 +868,46 @@ The news was published on the front page of the Weerakesari magazine, which was 
 
 ---
 
+### Sri Lanka cabinet sub-committee to solve VFS Global-ETA visa stand-off
+
+*2024-08-15 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-sub-committee-to-solve-vfs-global-eta-visa-stand-off-176900/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet had discussed the delay in re-starting online visas after courts suspended the controversial VFS Global deal where tourists were charged high fees to go through website which the travel trade said was difficult to navigate.
+
+Though courts ordered that the earlier system operated by Mobitel, be restored, until hearing of the case is complete, the Department of Immigration has not yet restored the system.
+
+Minister Bandula Gunawardana said the matter was discussed at this week’s cabinet meeting and a discussion of ministry secretaries was also arranged.
+
+“The President also appointed a cabinet sub-committee to find a solution to this in a short time,” Minister Gunawardana said.
+
+Public Security Minister Tiran Alles told reporters last week that the since the Immigration Department’s back-end platform been changed to match the VFS Global system with new visa categories, it would take time to go back to the old system.
+
+...
+
+[Data](articles/cf5cc709.json)
+
+---
+
+### Sri Lanka president contests election with gas cylinder symbol, says “Still more to be done”
+
+*2024-08-15 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-contests-election-with-gas-cylinder-symbol-says-still-more-to-be-done-176904/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe handed in his nomination papers for the September 21 election at the Election Commission today, opting to contest under a symbol of a domestic cooking gas cylinder.
+
+“Today, I officially announce my candidacy for President of Sri Lanka, and to continue my duties to you, the Sri Lankan people,” Wickremesinghe tweeted, after changing his twitter handle from RW_UNP to @RW_SRILANKA.
+
+Wickremesinghe is the leader of the United National Party, but is contesting as an independent candidate.
+
+“Sri Lanka is on a journey. Since 2022, we have worked hard together to recover from our past challenges, but there is still more to be done.
+
+“My commitment to you and our country is unwavering. Together, we will continue to build a prosperous future, but that can only be done with stability.”
+
+...
+
+[Data](articles/8d612b65.json)
+
+---
+
 ### The lamp symbol for Fonseka
 
 *2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-விளக்கு-சின்னம்/175-342225) · `ta`
@@ -749,6 +941,26 @@ Field Marshal Sarath Fonseka, who is contesting as an independent candidate in t
 [Data](articles/ea5a9858.json)
 
 [Extended Data](ext_articles/ea5a9858.ext.json)
+
+---
+
+### Sri Lanka Coast Guard given ATVs by Australian Border Force
+
+*2024-08-15 13:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-coast-guard-given-atvs-by-australian-border-force-176895/) · `en`
+
+ECONOMYNEXT – The Australian Border Force has gifted Sri Lanka Coast Guard (SLCG) three all-terrain vehicles (ATVs) to boost SLCG’s existing land coastal patrol activities.
+
+“Like Australia, we bear similar civil maritime security threats and are committed to working together to combat maritime crime,” Director-General of SLCG, Rear Admiral Pujitha Vithana said.
+
+The small, motorised, off-highway vehicles are generally used on rough ground. The ATVs will be deployed in various places including Colombo, Galle, and Trincomalee.
+
+Each ATV will be equipped with a land focussed drone to detect illegal activities in coastal areas.
+
+SLCG will use the additional ATVs to uplift their existing onshore patrols and operational activity to protect the community from maritime crime and people smuggling, a joint statement by the Australian Border Force and SLCG said.
+
+...
+
+[Data](articles/245bfd29.json)
 
 ---
 
@@ -975,6 +1187,24 @@ Meanwhile, MP's parliamentarian MMI. Talkumar, Colombo District MP Gayasan Nawas
 [Data](articles/542cb80f.json)
 
 [Extended Data](ext_articles/542cb80f.ext.json)
+
+---
+
+### Sri Lanka welcomes Canada proscription of LTTE, World Tamil Movement
+
+*2024-08-15 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-canada-proscription-of-ltte-world-tamil-movement-176882/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government has welcomed Canada’s decision to retain the Liberation Tigers of Tamil Eelam (LTTE) along with the World Tamil Movement (WTM) as terrorist entities.
+
+Canada first listed the LTTE as a terrorist entity under the Criminal Code in April 2006. It is a statutory requirement to undertake a review every five years. The latest review process concluded in June 2024.
+
+According to the recent review, Canada maintains that the remnants of the LTTE have an international fundraising and procurement network that still exists, Sri Lanka’s Ministry of Foreign Affairs said in a statement.
+
+“The review of the WTM notes that the group continues to play a facilitating role in the LTTE’s terrorist activities by fundraising on their behalf. This decision taken following a rigorous review process, reaffirms the continued threat posed by these organizations.”
+
+...
+
+[Data](articles/b4a4eff5.json)
 
 ---
 
@@ -2025,213 +2255,5 @@ In equities, Colombo’s All Share Price Index opened 61.31 points higher at 11,
 [Data](articles/a196558d.json)
 
 [Extended Data](ext_articles/a196558d.ext.json)
-
----
-
-### SJB MP Velu Kumar pledges support to President Ranil
-
-*2024-08-15 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101250/sjb-mp-velu-kumar-pledges-support-to-president-ranil-) · `en`
-
-Kandy District Samagi Jana Balawegaya (SJB) MP M. Velu Kumar has pledged his support to President Ranil Wickremesinghe at the upcoming Presidential Election.
-
-The MP had met with President Ranil at his office in Flower Road prior to the latter departing for the submission of his presidential election nomination.
-
-◼️
-
-[Data](articles/d90b4967.json)
-
-[Extended Data](ext_articles/d90b4967.ext.json)
-
----
-
-### Another Member of the Samagi Power to support the President
-
-*2024-08-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199960) · `si`
-
-Samagi, a political party, will back Ranil Wickremesinghe in the upcoming presidential election. Wickremesinghe, previously elected to Parliament from Kandy District as part of the reconciliation force, is now set to receive Samagi's support.
-
-🟩
-
-Samagi-forthcoming arrival has decided to support Ranil Wickremesinghe in the next presidential election.
-
-He was elected to Parliament from the Kandy District representing the reconciliation force last general.
-
-◼️
-
-[Data](articles/418795f1.json)
-
-[Extended Data](ext_articles/418795f1.ext.json)
-
----
-
-### Sajith signed the nomination
-
-*2024-08-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191125) · `ta`
-
-Sajith Premadasa, leading the United People's Power as opposition, signed his nomination for the 2024 presidential race on Thursday (15).
-
-🟩
-
-Sajith Premadasa, the leader of the United People's Power and the current opposition leader, who is contesting the 2024 presidential election, signed his nomination on Thursday (15).
-
-◼️
-
-[Data](articles/cda7c732.json)
-
-[Extended Data](ext_articles/cda7c732.ext.json)
-
----
-
-### Sajith Premadasa signed the nomination
-
-*2024-08-15 09:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-வேட்பு-மனுவில்-கையொப்பமிட்டார்/175-342199) · `ta`
-
-Sajith Premadasa, leading the United People's Power as opposition, has nominated himself for the 2024 presidential race, signing his papers recently.
-
-🟩
-
-Sajith Premadasa, the leader of the United People's Power and the current opposition leader, who is contesting the 2024 presidential election, signed his nomination a short time ago.
-
-◼️
-
-[Data](articles/d05d533c.json)
-
-[Extended Data](ext_articles/d05d533c.ext.json)
-
----
-
-### Accepting nominations for 2024 Presidential Election begins
-
-*2024-08-15 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101249/accepting-nominations-for-2024-presidential-election-begins-) · `en`
-
-The accepting of nominations for the upcoming Presidential Election commenced at 9.00 a.m. today at the Election Secretariat in Rajagiriya.
-
-Nominations will be accepted until 11.00 a.m. today at the secretariat.
-
-Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 will submit their nominations at the Election Commission office until 11.00 a.m. today.
-
-Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
-
-The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election concluded at 12 noon on Wednesday (14), while 40 individuals in total have placed deposits to contest the upcoming presidential election.
-
-...
-
-[Data](articles/7d1814fe.json)
-
-[Extended Data](ext_articles/7d1814fe.ext.json)
-
----
-
-### Harin and Manusha’s ministries brought under President’s purview
-
-*2024-08-15 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101248/harin-and-manushas-ministries-brought-under-presidents-purview) · `en`
-
-A Gazette notification has been issued bringing the Ministry of Tourism and Lands, the Ministry of Sports and Youth Affairs and the Ministry of Labour and Foreign Employment under the purview of President Ranil Wickremesinghe.
-
-This move comes following the recent removal of Manusha Nanayakkara and Harin Fernando from their MP seats, as per a court order.
-
-The Supreme Court ruled on Friday (09) that the decision taken by the Samagi Jana Balawegaya (SJB) to suspend the party membership of Manush Nanayakkara and Harin Fernando was lawful while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
-
-As per the Supreme Court verdict and SJB’s constitution, Harin Fernando and Manusha Nanayakkara were disqualified from holding seats in Parliament.
-
-...
-
-[Data](articles/bb9e5eaa.json)
-
-[Extended Data](ext_articles/bb9e5eaa.ext.json)
-
----
-
-### Velukumar met Ranil
-
-*2024-08-15 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலை-சந்தித்தார்-வேலுகுமார்/76-342198) · `ta`
-
-Kandy district MP Velukumar backs President Ranil Wickremesinghe.
-
-🟩
-
-Kandy district parliamentarian Velukumar has announced his support for President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/dc468957.json)
-
-[Extended Data](ext_articles/dc468957.ext.json)
-
----
-
-### Two arrested over Hanwella works
-
-*2024-08-15 09:24:32* · [`adalk`](https://www.ada.lk/breaking_news/හංවැල්ල-කෘෘර-ඝාතනයට-තවත්-දෙකක්-අල්ලයි/11-411379) · `si`
-
-In Hanwella, two individuals were arrested over a murder linked to a drug-related cash dispute. The victim, Hac Aka Mahesh Gunaratne, was killed on June 6th near Thummadara Kumari Falls. The suspects were apprehended in Udumulla and Watareka, with further inquiries ongoing by the Western Province, South District Criminal Division.
-
-🟩
-
-The Western District of the South District has been arrested in the Hanwella Kummy Kumari on the road to Thummadara Kumari Falls in Hanwella.
-
-The victim was Hac Aka Mahesh Gunaratne, a resident of No. 23 at the house - Warakapola Shilar.
-
-The assassination was carried out on the 6th and he was arrested in Udumulla and Watareka areas.
-
-The Hanwella police have previously been arrested by the Hanwella police in the Hanwella police.. Police investigations have revealed that the cause of the killing was a cash dispute in the drug.
-
-The suspects are to be produced before the Avissawella court. Western Province, South District Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/89dfbe67.json)
-
-[Extended Data](ext_articles/89dfbe67.ext.json)
-
----
-
-### Cabinet nod to lease land for hospitals, schools, universities in Colombo Port City
-
-*2024-08-15 08:59:47* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-lease-land-for-hospitals-schools-universities-in-Colombo-Port-City/34-765575) · `en`
-
-The Cabinet of Ministers on Monday approved entering into agreements to lease land within the Colombo Port City for the development of hospitals, schools and universities.
-
-The decision is in line with the provisions of Section 6(1) (C) of the Colombo Port City Economic Commission Act No.11 of 2021.
-
-Under this section of the Act, the Colombo Port City Economic Commission has the authority to lease marketable State lands within its jurisdiction. In line with this mandate, the Commission has invited proposals from investors for the development of educational and healthcare facilities within the Port City.
-
-As a result, proposals have been submitted by Asiri Port City Hospital Ltd., Gateway International School Ltd., and Gateway International University Ltd. These proposals include a $ 100 million investment for a hospital and $ 25 million each for a school and a university.
-
-...
-
-[Data](articles/935ac730.json)
-
-[Extended Data](ext_articles/935ac730.ext.json)
-
----
-
-### Nominal accepting - Living
-
-*2024-08-15 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199959) · `si`
-
-Nominations for the presidential election are now open, closing at 11:00 AM today at the Election Commission Office in Rajagiriya. Despite protests, appointments are available from 9:00 AM to 11:30 AM. The commission confirmed the completion of the election process yesterday, with 40 candidates nominated. Candidates' selection will consider all protests received. Independent candidates are receiving voting signs. Security measures are in place around the Elections Secretariat due to potential protests.
-
-🟩
-
-The acceptance of nominations pertaining to the presidential election has commenced.
-
-According to the Elections Commission, nominations will be accepted at the Election Commission Office at Rajagiriya until 11.00 am.
-
-Appointment has been given to the presence of protests from 9.00 am to 11.30am.
-
-The Elections Commission said that the bail of the presidential election was completed yesterday (14), according to the Elections Commission that 40 candidates have been paid.
-
-The Elections Commission will be announced by the candidates who were selected for the presidential election after considering the protests that submitted after the nomination.
-
-The Elections Commission states that voting signs are being issued for independent candidates.
-
-Meanwhile, police have taken steps to implement a special security program in the Elections Secretariat premises and surrounding areas to accept nominations.
-
-◼️
-
-[Data](articles/c7f66181.json)
-
-[Extended Data](ext_articles/c7f66181.ext.json)
 
 ---

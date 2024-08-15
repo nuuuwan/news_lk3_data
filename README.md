@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 15:06:10**
+As of **2024-08-15 15:20:50**
 
 ## Newspaper Stats
 
-*Scraped **40,894** Articles*
+*Scraped **40,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,480
-dailyftlk | 2,638
-adalk | 3,763
+dailyftlk | 2,640
+adalk | 3,764
 dailymirrorlk | 4,733
 adaderanalk | 4,775
-tamilmirrorlk | 5,224
+tamilmirrorlk | 5,225
 virakesarilk | 6,480
 adaderanasinhalalk | 6,957
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 6,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,894 (100.0%) of 40,894 articles have been extended.
+40,894 (100.0%) of 40,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### New alliance led by Anura Yapa formed as ‘People’s Alliance’
+
+*2024-08-15 14:58:16* · [`dailyftlk`](https://www.ft.lk/news/New-alliance-led-by-Anura-Yapa-formed-as-People-s-Alliance/56-765579) · `en`
+
+The Sri Lanka Freedom Party (SLFP) faction led by Minister Nimal Siripala de Silva and the “New Alliance” yesterday launched a new alliance under the name “Podujana Eksath Peramuna” (People’s Alliance).
+
+Former Minister Anura Priyadarshana Yapa was named as the leader of the new alliance.
+
+State Minister Lasantha Alagiyawanna has been appointed as the General Secretary, while State Minister Chamara Sampath Dassanayake has been appointed as the Treasurer.
+
+This new alliance, which includes the SLFP faction led by Nimal Siripala, the “New Alliance” which comprises of MPs including Nimal Lanza and several others parties and groups, was officially formed in Colombo.
+
+During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced the positions within the alliance, which also includes a leadership council of 21 members including the Chairman of SLFP, Minister Nimal Siripala de Silva.
+
+The newly-formed alliance plans to contest the upcoming elections under the symbol of the ‘chair’.
+
+◼️
+
+[Data](articles/1d25b542.json)
+
+---
+
+### Dilith Jayaweera signs nomination papers for Presidential election
+
+*2024-08-15 14:50:55* · [`dailyftlk`](https://www.ft.lk/news/Dilith-Jayaweera-signs-nomination-papers-for-Presidential-election/56-765578) · `en`
+
+The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera yesterday signed his nomination papers to contest the upcoming Presidential election scheduled for 21 September.
+
+The signing of the nomination papers was carried out at Mawbima Janatha Party (MJP) head office in Borella.
+
+The party leaders of the ‘Sarvajana Balaya’ alliance, Vasudeva Nanayakkara, D.E.W. Gunasekera, Wimal Weerawansa, Udaya Gammanpila, Gevindu Kumarathunga were present at the occasion.
+
+He will contest the 2024 Presidential election from the ‘Sarvajana Balaya’ alliance under the symbol of the ‘Star’.
+
+On 4 August, executive member of ‘Sarvajana Balaya’ MP Wimal Weerawansa announced Jayaweera as the Presidential candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
+
+Meanwhile, the security deposit was placed at the Election Commission on Tuesday for Dilith Jayaweera to contest the upcoming Presidential election.
+
+...
+
+[Data](articles/acf31a09.json)
+
+---
 
 ### P.
 
@@ -45,6 +89,16 @@ It seems like there was no text provided after "Summarize the following into 200
 [Data](articles/a75b1d6c.json)
 
 [Extended Data](ext_articles/a75b1d6c.ext.json)
+
+---
+
+### அரியநேத்திரனுக்கு ’சங்கு’ சின்னம்
+
+*2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
+
+◼️
+
+[Data](articles/e73105b1.json)
 
 ---
 
@@ -288,13 +342,41 @@ Accordingly, the President has given the Gas Cylinder to the President for the n
 
 ---
 
+### කෝවිල් දේව පූජාවෙදී අඹ ගෙඩිය රුපියල් 285,000 කට වෙන්දේසි වෙයි
+
+*2024-08-15 13:16:26* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-දේව-පූජාවෙදී-අඹ-ගෙඩිය-රුපියල්-285-000-කට-වෙන්දේසි-වෙයි/11-411389) · `si`
+
+වවුනියාව, උක්කුලාන්කුලම හින්දු කෝවිලේ පැවති දේව මෙහෙයකින් අනතුරුව පැවත්වෙන පූජා භාණ්ඩ වෙන්දේසිකදී එහි තිබූ අඹ ගෙඩියක් රුපියල් 285,000 ක මුදලකට ඊයේ රාත්‍රියේ වෙන්දෙසී වූ බවට කෝවිල් භාරකාර මණ්ඩලය පැවසීය.
+
+මෙම වෙන්දේසිය ඊයේ (14) සවස පවත්වා තිබුණේ උක්කුලාන්කුලම් සිද්දි විනායගර් කෝවිලේ පැවති වාර්ෂික දේව මංගල්‍යය වෙනුවෙනි.
+
+අදාල නෙද්දේසියේදී මෙම අඹ ගොඩිය මිලට ගනු ලැබුවේ වවුනියාව, උක්කුලාන්කුලම ප්‍රදේශයේ පදිංචි චන්ද්‍රන් සින්දුජා නමැති කාන්තාවක් විසිනි.
+
+කෙසේ වෙතත් පසුගිය 2023 වසරේ අගෝස්තු මාසයේදීද මෙම හින්දු කෝවිලේම පැවති වෙන්දේසියේදී අදාල කාන්තාව විසින් අඹගෙඩියක් 162,000 ක මුදලක් ලබාදී මිලට ගනු ලැබීය.
+
+මෙම කාන්තාව විසින් කෝවිලේ සංවර්ධන කටයුතු වෙනුවෙන් අදාල මුදල් ලබාදීම සඳහා එවැනි මිලකට මෙම අඹ ගෙඩිය වෙන්දේසියේදී මුදල් ලබා දීම සිදුකල අතර ඊට අමතරව මෙම අඹ ගෙඩිය තමන්ගේ නිවසට රැගෙන ගොස් තැන්පත් කිරීමෙන් නිවසට මෙන්ම පවුලට ඇතිවන්නාවූ කරදර හා දෝෂයන් තුරන් වී සාමය සෞභාග්‍ය උදාවන බවටද හින්දු ජනතාවගේ විශ්වශයක් පවතියි.
+
+...
+
+[Data](articles/920b343d.json)
+
+---
+
 ### President Ranil to contest under ‘Gas Cylinder’ symbol
 
 *2024-08-15 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101259/president-ranil-to-contest-under-gas-cylinder-symbol) · `en`
 
 The Election Commission has assigned the “Gas Cylinder” symbol to President Ranil Wickremesinghe, who is contesting this year’s presidential election as an independent candidate.
 
-◼️
+President Ranil Wickremesinghe signed his nomination papers on Wednesday (14) at his political office in Flower Road, Colombo to contest the upcoming Presidential Election.
+
+President Wickremesinghe, accompanied by Prime Minister Dinesh Gunawardena, arrived at the Election Commission in Rajagiriya this morning and submitted his nomination papers for the upcoming presidential election.
+
+On July 26, President’s Counsel Ronald Perera had placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
+
+President Wickremesinghe had confirmed that he will contest the upcoming Presidential Election as an independent candidate, while addressing a public meeting held in Galle, on July 27.
+
+...
 
 [Data](articles/a50b7fa4.json)
 
@@ -366,7 +448,7 @@ President Ranil Wickremesinghe, the leader of the United National Party, filed a
 
 *2024-08-15 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-uswatte-confectionary-resumes-potato-snack-176865/) · `en`
 
-ECONOMYNEXT – Sri Lanka confectioner Uswatte said it had resumed producing a potato chip snack after it had to be stopped due to a curb on potato imports by the government.
+ECONOMYNEXT – Sri Lanka confectioner Uswatte said it had resumed producing a potato chip snack after it had to be stopped due to restrictions on potato imports by the government at the time.
 
 “Potato Chips are king among all categories of snack food around the world, and we are more than happy to be able to bring this beloved brand of potato chip back to Sri Lanka,” Chairman of Uswatte Confectionery Works Pvt Ltd Quintus Perera said.
 
@@ -2165,97 +2247,5 @@ The NETA X boasts an impressive driving range of 500 km (NEDC) and delivers a ma
 [Data](articles/4439189d.json)
 
 [Extended Data](ext_articles/4439189d.ext.json)
-
----
-
-### Litro expands supply and distribution network
-
-*2024-08-15 03:35:30* · [`dailyftlk`](https://www.ft.lk/business/Litro-expands-supply-and-distribution-network/34-765542) · `en`
-
-Chairman and CEO Muditha Peiris (centre) with Sales and Marketing/Corporate Affairs Director Janaka Pathirathna (left)
-
-Litro Gas Lanka, Sri Lanka’s leading LPG provider, has announced significant developments in its supply and distribution network. The company has undertaken a series of strategic initiatives aimed at enhancing the accessibility and reliability of LPG services across the country.
-
-As per the Sales and Marketing Plans for 2024, areas are identified for supplier and distribution expansion.
-
-The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and Navalady-Batticaloa have been refurbished, featuring new office infrastructure and an expanded vehicle fleet. These upgrades are set to improve the quality of service and delivery efficiency.
-
-...
-
-[Data](articles/f97d3abc.json)
-
-[Extended Data](ext_articles/f97d3abc.ext.json)
-
----
-
-### Tamil Nadu fishermen attack
-
-*2024-08-15 02:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மீது-தாக்குதல்/175-342182) · `ta`
-
-Vedaranyam fishermen in Tamil Nadu were attacked by Sri Lankan Tamil fishermen, resulting in injuries and theft of 700 kg of nets. The incident, involving four Vedaranyam fishermen in two boats, was marked by violence with swords and iron pipes. The victims were hospitalized after the attack. Investigations are ongoing by the Vedaranyam Coast Guard Police.
-
-🟩
-
-The incident in which Vedaranyam fishermen have been hit by Tamil fishermen from Sri Lanka have been hit by a shock among Tamil Nadu fishermen.
-
-When four fishermen were fishing in two boats at around 10.30 pm, when four fishermen were fishing in two boats east of Kodiyakkara, six people who had gone there in two boats, surrounded the boat of Vedaranyam fishermen and attacked four people in their boat and attacked the swords with iron pipes.
-
-In addition, they have taken 700 kg of nets on the boat.
-
-The four fishermen who were injured returned to the coast of six years yesterday afternoon. They were immediately rushed to the Vedaranyam Government Head Hospital as they were influenced by the iron pipe hitting the back of their backs.
-
-Vedaranyam fishermen again and again by Sri Lankan Tamil fishermen. Vedaranyam Coast Guard Police are investigating the matter, Tamil Nadu media reports. (A)
-
-◼️
-
-[Data](articles/07169271.json)
-
-[Extended Data](ext_articles/07169271.ext.json)
-
----
-
-### 2024 The main challenge of the presidential election?
-
-*2024-08-15 02:26:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdjwy90jwrvo) · `si`
-
-The main challenge of the 2024 presidential election is managing the high number of candidates, with 40 having already deposited their nominations. The Election Commission faces difficulties in processing these nominations and conducting the election efficiently.
-
-🟩
-
-It contains nothing here.Vadide Head, Presidential Election 2024: How to accept today's nomination?
-
-Nominations for the Presidential Election Election will be taken up from 9 to 11 am (August 15).
-
-Forty candidates have deposited for the presidential election.
-
-The Chairman of the Elections Commission RM V.L. Ratnayake explained what the challenges facing the Election Commission to take over the nominations and holding the presidential election.
-
-◼️
-
-[Data](articles/010c1b5a.json)
-
-[Extended Data](ext_articles/010c1b5a.ext.json)
-
----
-
-### Special security in Colombo today
-
-*2024-08-15 02:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-விசேட-பாதுகாப்பு/175-342181) · `ta`
-
-Security tightens in Colombo ahead of nomination day for the presidential election, with special traffic schemes around Rajagiriya and limited visitor access to candidates.
-
-🟩
-
-Special security arrangements will be made today, the day of filing nominations for the presidential election.
-
-A special traffic scheme is to be implemented on the streets near the election office in Rajagiriya today.
-
-Meanwhile, the number of representatives visiting with candidates who file nominations has been limited. (A)
-
-◼️
-
-[Data](articles/c1e22659.json)
-
-[Extended Data](ext_articles/c1e22659.ext.json)
 
 ---

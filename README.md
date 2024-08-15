@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 11:56:34**
+As of **2024-08-15 12:10:42**
 
 ## Newspaper Stats
 
-*Scraped **40,858** Articles*
+*Scraped **40,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
-economynextcom | 2,476
+economynextcom | 2,478
 dailyftlk | 2,638
 adalk | 3,758
 dailymirrorlk | 4,733
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,855 (100.0%) of 40,858 articles have been extended.
+40,858 (100.0%) of 40,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ரஷ்யாவின் மற்றொரு பகுதியிலும்  அவசரநிலை பிரகடனம்
+### Emergency declaration in another part of Russia
 
 *2024-08-15 11:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-மற்றொரு-பகுதியிலும்-அவசரநிலை-பிரகடனம்/50-342215) · `ta`
 
-ரஷ்யாவின் கூர்ஸ்க் பிராந்தியத்துக்குள் உக்ரைன் இராணுவம் தொடர்ந்து முன்னேறிவரும் நிலையில், அண்டை பிராந்தியமான பெல்கொரோடிலும் அவசரநிலை அறிவிக்கப்பட்டுள்ளது.
+An emergency has been declared in Pelgorod due to the Ukrainian army's advancement into the Cursk region of Russia, causing damage and civilian injuries. This escalation follows three years of conflict, marked by Russia's invasion of Ukraine on February 24, 2022, and subsequent attacks. Despite initial aggression from Russian forces, Ukraine's resistance, bolstered by Western aid, has led to significant territorial gains, including areas deep within Russia. Recent advances saw Ukrainian troops entering Russian territory, prompting the evacuation of locals and the declaration of emergencies to manage the situation.
 
-உக்ரைன் – ரஷ்யா இடையிலான போர் சுமார் 3 ஆண்டுகளாக நடைபெற்று வருகிறது. கடந்த 2022ஆம் ஆண்டு பெப்ரவரி 24ஆம் திகதி சிறப்பு இராணுவ நடவடிக்கை என்ற பெயரில் ரஷ்யா தனது தாக்குதல்களை நடத்தியது.
+🟩
 
-ரஷ்யாவின் தொடர் தாக்குதல்களால் உக்ரைனில் உயிர் மற்றும் உடைமை இழப்புகள் தொடர்ந்து அதிகரித்தன. ஆரம்பத்தில் ரஷ்ய ஜனாதிபதி புட்டினின் படைகள் ஆக்ரோஷமாக இருந்தன. பின்னர் ஜெலன்ஸ்கியின் இராணுவமும் மேற்கத்திய ஆயுதங்களின் உதவியுடன் எதிர் தாக்குதல்களை நடத்தி ரஷ்யாவை அதிர வைத்தது.
+Emergency has been declared in the neighboring region of Pelgorod as the Ukrainian army continues to advance within the Cursk region of Russia.
 
-இந்த சூழலில் கடந்த 6ஆம் திகதி ரஷ்யாவின் எல்லைப் பிராந்தியமான கூர்ஸ{க்குள் பீரங்கிகள் மற்றும் கவச வாகனங்களுடன் சுமார் 1,000 உக்ரைன் படையினர் சமீபத்தில் நுழைந்தனர். உக்ரைன் படையினர் அங்கு ஒரு வாரமாக தாக்குதல் நடத்தி வருகின்றனர். இதன் காரணமாக அப்பகுதியில் இருந்த மக்கள் பாதுகாப்பான இடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+The war between Ukraine and Russia has been going on for about 3 years. On February 24, 2022, Russia carried out its attacks in the name of special military operations.
+
+Life and possession of Ukraine continued to increase in Ukraine by a series of attacks on Russia. Initially the forces of Russian President Putin were aggressive. Gelanciesi's army then carried out opposition attacks with the help of Western weapons and shocked Russia.
+
+In this context, about 1,000 Ukraine soldiers recently entered with artillery and armored vehicles within the Russian border region of Russia.. Ukrainian soldiers have been attacking there for a week. Due to this, people in the area have been sent to a safe place.
 
 ...
 
 [Data](articles/aa3a4eb9.json)
 
+[Extended Data](ext_articles/aa3a4eb9.ext.json)
+
 ---
 
-### பேருந்து விபத்தில் மாணவர்கள் உட்பட 19 பேர் காயம்
+### 19 people injured in bus accident
 
 *2024-08-15 11:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-மாணவர்கள்-உட்பட-19-பேர்-காயம்/175-342214) · `ta`
 
-அனுராதபுரம் - பாதெனிய பிரதான வீதியில் ஸ்ராவஸ்திபுர சந்திக்கு அருகில் சிசு செரிய பேருந்தொன்றுடன் ஆடைத் தொழிற்சாலை ஊழியர்களை ஏற்றிச்சென்ற பேருந்தொன்று மோதி விபத்துக்குள்ளானதில் நான்கு மாணவர்கள் உட்பட 19 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக அனுராதபுரம் பொலிஸார் தெரிவித்தனர் .
+A bus crash involving 19 people, including four students, occurred near Anuradhapura-Badeniya. The bus hit a stationary cherry picker truck, injuring all onboard. Victims are hospitalized, and the driver is in custody.
 
-ஊழியர்களை ஏற்றிச் சென்ற பேருந்து , ஸ்ராவஸ்திபுர சந்திக்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த சிசு செரிய பேருந்தின் பின்புறம் மோதி இவ் விபத்து இடம்பெற்றுள்ளது .
+🟩
 
-காயமடைந்தவர்கள் அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் ஆடைத் தொழிற்சாலை ஊழியர்களை ஏற்றிச் சென்ற பேருந்தின் சாரதியை பொலிஸார் கைது செய்துள்ளனர்.
+Anuradhapura police said that 19 persons, including four students, were injured when a bus collided with a garment factory with an informed factory near the Stravastipura junction on the Anuradhapura -Badeniya main road.
+
+The accident occurred when the bus carrying the employees collided with the back of the infant cherry bus parked near the Sravastipura junction.
+
+The injured have been admitted to the Anuradhapura Teaching Hospital and the driver of the bus carrying the garment factory staff has been arrested.
 
 ◼️
 
 [Data](articles/b40f1d78.json)
+
+[Extended Data](ext_articles/b40f1d78.ext.json)
 
 ---
 
@@ -434,21 +446,33 @@ The Election Commission has begun the process of accepting nominations for the 2
 
 ---
 
-### ’’වැලිකඩ ඇස් ලොට්ටා’’ අත්අඩංගුවට
+### Welikada Ayunda Lata arrested
 
 *2024-08-15 10:08:54* · [`adalk`](https://www.ada.lk/breaking_news/’’වැලිකඩ-ඇස්-ලොට්ටා’’-අත්අඩංගුවට/11-411381) · `si`
 
-යතුරුපැදියකින් අලව්වේ සිට පැමිණ කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවල  පොලිස් වසම් ගණනාවක නිවාසවලට අලුයම් කාලයේදී ඇතුළු වී නිදා සිටි කාන්තාවන්ගේ අත්පා බැඳ රුපියල් කෝටි 1  1/2 ක් පමණ වටිනා රන් භාණ්ඩ ඇතුළු දේපල කොල්ලකෑ "වැලිකඩ ඇස් ලොට්ටා" අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+In Alawwa, a suspect named Welikada Latta was arrested by a large police force, recovering goods worth around Rs. 55 lakhs, including drugs, guns, cameras, and cash. The arrest followed complaints about the suspect entering Ragama, Tawala Mattegoda, and Kottawa Police Divisions. Investigations reveal the suspect allegedly sold drug receipts and used the proceeds to mortgage items for alcohol, which were later found in the suspect's possession.
 
-එම සැකකරු කොල්ල කන ලද රුපියල් ලක්ෂ 55 ක් පමණ වටිනා ඩ්‍රිල්  , ගයින්ඩර් , කැමරා ජංගම දුරකථන  , ක්‍රීම් වර්ග ඇතුළු  ,උණු කරන ලද රන් කැබලි, පොලිසිය මගින් සොයාගෙන ඇත.
+🟩
 
-ඉකුත් මාස කීපය තුළ  රාගම ගනේ මුල්ල මත්තේගොඩ හා කොට්ටාව පොලිස් වසම් නිවාස හයකට අළුයම් කාලයේදී ඇතුළු වූ පුද්ගලයකු  එම ඇතැම් නිවාසවලව තනිව සිටි කාන්තාවන් ඇඳ මතම බැඳදමා රන් භාණ්ඩ ඇතුළු දේපල කොල්ලකා පලා ගොස් ඇති බවට එම පොලිසි වලට පැමිණිලි ලැබී තිබූ බව පොලිසිය කියයි.
+Western Province says Welikada Latta, "Welikada Ltta" has been arrested in Alawwaway from Alawwawe and a large number of police divisions in Colombo..
 
-අදාළ සැකකරු සම්බන්ධයෙන් පොලිස් කොස්තාපල් 83774 සුදීර නිලධාරියාට ලද තොරතුරුවලට අනුව රාජගිරිය බණ්ඩාරනායක පුර ප්‍රදේශයේදී සැකකරු අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී  අදාල පොලිස් වසම්වල  සිදු කළ කොල්ලකෑම් සියල්ල සැකකරු විසින් සිදු කළ බවට අනාවරණය වී යැයි පොලිසිය කියයි.
+The suspect was recovered by the police, including droth, ginner, cameras phones, cream, about Rs. 55 lakhs worth Rs.
+
+Police said that the police had received complaints that a person who entered in the Ragama Tawala Mattegoda and Kottawa Police Divisions in the Ragama road.
+
+Police say that the suspect was arrested by the suspect in the Bandaranaike Pura area in Rajagiriya regarding the suspect.
+
+According to the police said that the property was plundered by the suspect, a woman and two other people have been placed mortgage in Rajagiriya.
+
+Police investigations have revealed that allegedly sold the receipts of drugs that have been re-sold in the items that have been mortgaged for alcohol, allegedly have a mortgage for alcohol.
+
+Accordingly, police found part of the items that had been sold in the suspect's statements.
 
 ...
 
 [Data](articles/4d32544a.json)
+
+[Extended Data](ext_articles/4d32544a.ext.json)
 
 ---
 
@@ -547,6 +571,32 @@ When the disease began to spread in 2022, the monkey in Kerala was recently conf
 [Data](articles/7bb56d57.json)
 
 [Extended Data](ext_articles/7bb56d57.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 299.05/20 to US dollar, bond yields steady
+
+*2024-08-15 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-05-20-to-us-dollar-bond-yields-steady-176852/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.00/15 to the US dollar on Thursday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.54 percent.
+
+The rupee closed at 299.15/25 to the greenback on Wednesday.
+
+In the secondary market, treasury bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.10/20 percent, up from 11.05/30 percent.
+
+A bond maturing on 15.12.2027 was quoted at 12.20/25 percent, up from 12.15/25 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.95/13.15 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.95/13.20 percent, down from 13.00/15 percent.
+
+In equities, Colombo’s All Share Price Index opened 61.31 points higher at 11,475, while the S&P SL20 of more liquid stocks opened up at 1.00 percent or 32.82 points to 3,298.
+
+◼️
+
+[Data](articles/a196558d.json)
 
 ---
 
@@ -979,6 +1029,28 @@ The police also recovered 02 motorbikes used for the crime and the Hanwella Poli
 [Data](articles/5d54c46c.json)
 
 [Extended Data](ext_articles/5d54c46c.ext.json)
+
+---
+
+### Sri Lanka’s JKH, Nepal’s CG Corp see compelling case for BYD EVs
+
+*2024-08-15 07:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-nepals-cg-corp-see-compelling-case-for-byd-evs-176817/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings has teamed up with Nepal’s Chaudhary Group, to sell electric vehicles made by China’s BYD, banking on a shift from internal combustion engines.
+
+JKH Chairman Krishan Balendra said the already diversified group entered the electric vehicle business after careful thought because there was a ‘compelling opportunity.’
+
+“We saw electric vehicles had a very promising future,” Balendra said. ” We think there will be a lot of people who will switch from petrol to election vehicles.”
+
+Nirvana Chaudhary, Managing Director, CG Corp Global, said in Nepal, every 8 out of 10 new cars sold are now electric vehicles.
+
+Sri Lanka also produced renewable energy, making the case for new energy vehicles, and the trend was in line with Sri Lanka’s aims to boost renewable energy use by 2030, he said.
+
+CG group had started marketing vehicles in Nepal 40 years ago partnering with Japan’s Suzuki, he said.
+
+...
+
+[Data](articles/f2fa756c.json)
 
 ---
 
@@ -2171,51 +2243,5 @@ Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawe
 [Data](articles/7f4daae6.json)
 
 [Extended Data](ext_articles/7f4daae6.ext.json)
-
----
-
-### The long wish
-
-*2024-08-14 18:39:54* · [`adalk`](https://www.ada.lk/sports/ඉහළට-ගිය-පැතුම/9-411374) · `si`
-
-Nissanka, Sri Lanka's opening batsman, moves up to the ODI team, shifting his base to the 8th position.
-
-🟩
-
-Sri Lanka Opening batsman, Nissanka, has been prowarded to the ODI batsmen.
-
-Accordingly, he has come forward from a location to 08th.
-
-◼️
-
-[Data](articles/c4efc248.json)
-
-[Extended Data](ext_articles/c4efc248.ext.json)
-
----
-
-### There are no complaints related to deposit
-
-*2024-08-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199941) · `si`
-
-No complaints about deposit were made to the Election Commission, chaired by RMAL. Mr. Ratnayake mentioned issues with certain party secretaries, leading to the commission being reassigned. The affected parties agreed to resolve secretary-related problems, resulting in the Election Commission deciding against fielding candidates from these two parties.
-
-🟩
-
-The Chairman of the Election of the Elections has not yet received any complaints regarding the deposit of the presidential election.
-
-Chairman of the Commission, RMAL. Mr. Ratnayake says that issues have been held regarding the secretaries of certain parties.
-
-As a result, the probleming commission was taken over by the Election and the party conventions allowed a secretary to appoint a secretary.
-
-Accordingly, the party agreed to solve the issues of the Secretary and the other two parties agreed to it.
-
-As a result, the Elections Commission has decided not to offer a candidate for the two parties.
-
-◼️
-
-[Data](articles/da293bf8.json)
-
-[Extended Data](ext_articles/da293bf8.ext.json)
 
 ---

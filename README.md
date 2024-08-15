@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 19:21:35**
+As of **2024-08-15 19:36:37**
 
 ## Newspaper Stats
 
-*Scraped **40,939** Articles*
+*Scraped **40,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ dailymirrorlk | 4,733
 adaderanalk | 4,780
 tamilmirrorlk | 5,233
 virakesarilk | 6,482
-adaderanasinhalalk | 6,964
+adaderanasinhalalk | 6,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,936 (100.0%) of 40,939 articles have been extended.
+40,939 (100.0%) of 40,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### පේරේ විද්‍යා සිසුන් හතරකගේ ශිෂ්‍යභාවය තාවකාලිකව අහෝසි කරයි
+### ගුවන්තොටුපොළේ නව AC බස් සේවයට විරෝධයක්
+
+*2024-08-15 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199976) · `si`
+
+කටුනායක ගුවන්තොටුපොළේ සිට කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය දක්වා ක්‍රියාත්මක වන පරිදි අද (15) උදෑසන ආරම්භ කළ නව සුඛෝපභෝගී බස් රථ සේවාවට විරෝධය පළකරමින් ගුවන්තොටුපොළේ සිට කොළඹ කොටුව දක්වා ධාවනය වන සුඛෝපභෝගී බස් රථ සංගමය වර්ජනයක් ආරම්භ කර තිබේ.
+
+මෙහිදී එම බස් රථ සංගමයේ සභාපති ඉන්දික ගුණසේකර මහතා පවසා සිටියේ, ජනාධිපතිවරණයක් ප්‍රකාශයට පත් කර ඇති කාලසීමාවක නව රැකියා සඳහා පත්වීම් ලබාදීමට නොහැකි සේම නව බස් රථ සඳහා ද එම නිර්දේශ ඒ ආකාරයටම බලපවත්වන බවයි.
+
+තම සංගමයේ සුඛෝපභෝගී බස් රථ 71ක් ලියාපදිංචි කර තිබුණත්, ඉන් බස් රථ 42ක් දිනකට ධාවනය නොවන බවත් පැවසූ ඉන්දික ගුණසේකර මහතා පෙන්වා දුන්නේ ලියාපදිංචි බස් රථයක් මාසයක් තුළ දී ධාවනයෙහි යෙදෙන්නේ දින 10ක් පමණක් බවයි.
+
+එමෙන්ම තම සංගමයේ බස් රථ ද මීට පෙර කටුනායක ගුවන්තොටුපොළෙන් ගමන් ආරම්භ කළ බවත්, පසුව ආරක්ෂක හේතූන් සහ වෙනත් දේශපාලනික බලපෑම් මත ඇවරිවත්ත නගරයේ සිට තම ගමන්වාර ආරම්භ කිරීමට සිදුවූ බවත් පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/19695e0d.json)
+
+---
+
+### The scholarship of four licenses of Perpetu is temporarily abolished
 
 *2024-08-15 18:45:33* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-විද්‍යා-සිසුන්-හතරකගේ-ශිෂ්‍යභාවය-තාවකාලිකව-අහෝසි-කරයි/11-411394) · `si`
 
-පේරාදෙණිය විශ්ව විද්‍යාලයේ විද්‍යා පීඨයේ සිසුන් දෙදෙනෙකුට තවත් සිසුන් පිරිසක් විසින් පහරදී එක් සිසුවෙකුගේ කනකට බරපතල තුවාල සිදුකළ බව කියන සිසුන් හතර දෙනකුගේ ශිෂ්‍ය භාවය තාවකාලිකව අහෝසි කිරීමට විශ්ව විද්‍යාල විනය පාලක අංශය පියවර ගෙන තිබේ.
+The University of Peradeniya has temporarily suspended scholarships for four students and initiated disciplinary inquiries after two science faculty students were expelled. The Disciplinary Religion Department and Peradeniya Police are investigating the incident. The affected students were hospitalized and then moved to the Akber Hostel. The Vice Chancellor has also suspended disciplinary actions against these students.
 
-එම සිද්ධිය සම්බන්ධයෙන් පේරාදෙණිය විශ්වවිද්‍යාලයේ විනය පාලක අංශය විසින් විමර්ශනයක් ආරම්භ කොට ඇති අතර පේරාදෙණිය පොලිසිය විසින්ද විමර්ශනයක් ආරම්භ කොට තිබේ .
+🟩
 
-පහර කෑමට ලක්වු සිසුන් දෙදෙනා නේවාසිකව සිටි අක්බර් නේවාසිකාගාරයට ඇතුළු වී 2024.08.12 දින රාත්‍රී බරපතල පහරදීමක් සිදුකොට ඇති බව කියන අතර පහර කෑමට ලක්වූ එක් සිසුවෙක් පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා මහනුවර ජාතික රෝහලට ඇතුළත් කොට තිබේ .පහර කෑමට ලක් වූ අනෙක් සිසුවා පේරාදෙණිය ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ලබා පිටව ගොස් තිබේ .
+The university disciplinary division has been temporarily abolished to abolish the student of two students from the Faculty of Science, University of Peradeniya.
 
-පහරදීමට සම්බන්ධ බවට හඳුනාගත් සිසුන් හතර දෙනාට එරෙහිව විනය පරීක්ෂණයක් පවත්වා තීරණයක් ලබා දෙනතුරු වහාම ක්‍රියාත්මක වන පරිදි ශිෂ්‍ය භාවය අත්හිටුවීමට පේරාදෙණිය විශ්වවිද්‍යාලයේ උප කුලපති මහාචාර්ය ටෙරන්ස් මදුජිත් මහතා පියවර ගෙන තිබේ .
+The Disciplinary Religion Department has begun an investigation into the incident and the Peradeniya Police have launched an investigation.
+
+The two students have been admitted to the Akber Hostel, which was admitted to the Peradeniya Teaching Hospital on 12.04.2024.Treasured from the Peradeniya Teaching Hospital
+
+Vice Chancellor of the University of Peradeniya has taken steps to suspend a disciplinary inquiry against the four students who have identified a disciplinary inquiry.
+
+A spokesman for the incident inquiry into the incident, a spokesman said that an investigation had already been initiated to the attack on the assault had already begun to submit the attack on the attack.. He added that the arrests have been a problem with those students are appearing in fake names.
 
 ...
 
 [Data](articles/0378553e.json)
+
+[Extended Data](ext_articles/0378553e.ext.json)
 
 ---
 
@@ -1336,19 +1362,31 @@ The US dollar purchasing price was 294.5113 rupees and the sales price were 303.
 
 ---
 
-### පුද්ගල ආදායම් බද්දට නුදුරේදීම සහනයක්
+### Relief in the near future taxon
 
 *2024-08-15 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ආදායම්-බද්දට-නුදුරේදීම-සහනයක්/11-411388) · `si`
 
-පුද්ගල ආදායම් බද්ද සඳහා නුදුරේදීම සහනයක් ලබාදීමට අපේක්ෂා කරන බවත්, ඒ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල සහ මහා භාණ්ඩාගාරය විසින් මේ වනවිටත් ඉදිරිපත් කර ඇති යෝජනා දෙකක් සම්බන්ධයෙන් අවධානය යොමු කර ඇති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced plans for tax relief, focusing on individual income taxes, and discussed broad reforms aimed at revitalizing Sri Lanka's economy. He highlighted the importance of independent state universities to improve higher education quality. The President also mentioned agreements with international creditors, setting targets for fiscal discipline and economic growth, including reducing government debt and increasing foreign reserves.
 
-ඒ වෙනුවෙන් මහා භාණ්ඩාගාරය විසින් ඉදිරිපත් කරන ලද යෝජනාවත්, ඒ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) විසින් ඉදිරිපත් කර ඇති ප්‍රති යෝජනාවත් සලකා බලමින් සිටින බව සඳහන් කළ ජනාධිපතිවරයා, බදු පරාසය පුළුල් කිරීම සඳහා යෝජනා කර ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනාව, විද්වතුන් ඇතුළු මධ්‍යම පාන්තික ප්‍රජාව වෙත ප්‍රතිලාභ ගෙන දෙන බැවින් ඒ පිළිබඳ සිය අවධානය යොමුවී ඇති බව ද සඳහන් කළේය.
+🟩
 
-එමෙන්ම ආර්ථිකය ප්‍රකෘතිමත් කිරීම ඉලක්ක කරගනිමින් මෙරට උසස් අධ්‍යාපන ක්‍රමයේ පරිවර්තනයක් සිදු කිරීම සඳහා වන පුළුල් ප්‍රතිසංස්කරණ සැලැස්මක් ක්‍රියාත්මක කිරිමට බලාපොරොත්තු වන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+President Ranil Wickremesinghe said that he intends to provide relief to the Individual Income Tax and the IMF and the Treasury.
+
+The President said that the proposal made by the Treasury (IMF) is also considered by the International Monetary Fund (IMF).He also said that it has been focused on it as it benefits.
+
+The President also expected to implement a broad reforms plan to carry out an translation of the higher education system in Sri Lanka targeting the economy.
+
+President Ranil Wickremesinghe made these comments the keynote address held at the Waters Edge Hotel, Battaramulla, Battaramulla, Battaramulla, Battaramulla.
+
+The President also emphasized the importance of providing independence to state universities to enhance the quality of higher education in Sri Lanka.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/5d2bb248.json)
+
+[Extended Data](ext_articles/5d2bb248.ext.json)
 
 ---
 
@@ -1382,21 +1420,27 @@ The President of Ukraine said that his soldiers have jumped one more than a half
 
 ---
 
-### ජනාධිපතිවරණය 2024: ජනපති සටනට අපේක්ෂකයින් 39ක්
+### Presidential election 2024: President pays 39 candidates to fight
 
 *2024-08-15 12:39:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4lv4ngdv9o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ජනාධිපතිවරණ ඡන්ද සටන ඇරඹෙයි...ප්‍රධාන අපේක්ෂකයින් මොකද කියන්නේ ?
+In the 2024 Presidential Election, 39 candidates have been nominated, including three who protested during the nomination process. The election will take place on September 21, with all candidates expressing their intentions to the election commission.
 
-2024 ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා අපේක්ෂකයින් 39 දෙනෙක් අද (අගෝස්තු 15 වැනිදා) නාම යෝජනා භාර දුන්හ.
+🟩
 
-විරෝධතා දැක්වීමේ කාලසීමාව තුළ විරෝධතා 3ක් ඉදිරිපත් වුව ද, එම විරෝධතා ප්‍රතික්ෂේප කළ බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක නිවේදනය කළේය.
+Nothing is containing novidio headquarters, presidential election campaign ... What are the main candidates?
 
-ඒ අනුව ලබන සැප්තැම්බර් 21 වන දා පැවැත්වෙන 2024 ජනාධිපතිවරණය සඳහා  අපේක්ෂකයින් 39 දෙනෙකු තරග කරන අතර අපේක්ෂකයින් කිහිප දෙනෙක් රාජගිරිය මැතිවරණ කොමිෂන් සභාව ඉදිරිපිටදී මාධ්‍ය වෙත අදහස් පළ කළහ.
+A total of 39 candidates handed over the names of 39 candidates for the Presidential Election Day today (August 15).
+
+The Elections Commissioner Chairman RM V.L Ratnayake announced that there were three protests during the period of the protest period.
+
+Accordingly, 39 candidates contest for the 2124 presidential election on September 21, and several candidates expressed their views in front of the election commissioner of Rajagiriya.
 
 ◼️
 
 [Data](articles/22f3f8a0.json)
+
+[Extended Data](ext_articles/22f3f8a0.ext.json)
 
 ---
 
@@ -2229,27 +2273,5 @@ Accordingly, police found part of the items that had been sold in the suspect's 
 [Data](articles/4d32544a.json)
 
 [Extended Data](ext_articles/4d32544a.ext.json)
-
----
-
-### The statue of the Colansewaram Kovil has disappeared
-
-*2024-08-15 10:03:15* · [`adalk`](https://www.ada.lk/breaking_news/කෝණේස්වරම්-කෝවිලේ-පිළිමයකට-පළඳවා-තිබූ-දේවාභරණ-අතුරුදන්-වෙලා/11-411380) · `si`
-
-The golden foot and tail of the Konasevan Kovil statue have vanished, leading to a police inquiry. A local filed a complaint about the missing parts, prompting the Trincomalee Police's Criminal Division to investigate, aided by CCTV footage from the area.
-
-🟩
-
-Police say an inquiry into the disappearance of a gold tal and foot of the Konasevan Kovil, Trincomalee Police said.
-
-Aurul Hill Kannagipuram, Trincomalee, Hill Kannagipuram, a resident of the Kovil, has lodged a complaint with the Trincomalee Police regarding the disappearance of these paths.
-
-The Criminal Division of Trincomalee Police has launched an investigation into the incident and the CCTT cameras installed the Kovil environment.
-
-◼️
-
-[Data](articles/626099fb.json)
-
-[Extended Data](ext_articles/626099fb.ext.json)
 
 ---

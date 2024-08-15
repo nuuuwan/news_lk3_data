@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 17:20:57**
+As of **2024-08-15 17:37:42**
 
 ## Newspaper Stats
 
-*Scraped **40,919** Articles*
+*Scraped **40,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,480
-dailyftlk | 2,645
+dailyftlk | 2,646
 adalk | 3,765
 dailymirrorlk | 4,733
 adaderanalk | 4,779
-tamilmirrorlk | 5,231
+tamilmirrorlk | 5,232
 virakesarilk | 6,480
 adaderanasinhalalk | 6,962
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,912 (100.0%) of 40,919 articles have been extended.
+40,919 (100.0%) of 40,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### තිදෙනෙක් මරු තුරුලට යැවූ අධික වේගය
+### The high speed of three dead people
 
 *2024-08-15 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199973) · `si`
 
-දිවුලපිටිය - මීගමුව මාර්ගයේ, දුනගහ හන්දිය ප්‍රදේශයේ අද (15) පෙරවරුවේ සිදු වූ රිය අනතුරකින් තිදෙනෙකු මියගොස් තිබේ.
+In a tragic accident at Dunagaha Junction, three individuals died when a speeding three-wheeler collided with a tipper truck heading towards Negombo. Two men and one woman, aged 30, 38, and 45, were fatally injured. The woman was critically injured and hospitalized at Gampaha Hospital.
 
-පොලීසිය පැවසුවේ ගොඩිගමුව - දුනගහ මාර්ගයේ දිවුලපිටිය දෙසට ගමන් කිරීම සඳහා අධික වේගයෙන් පැමිණි ත්‍රිරෝද රථයක රියදුරුට එහි වේගය පාලනය කර ගැනීමට නොහැකිව ත්‍රිරෝද රථය මාර්ගයේ පෙරළි ගොස් දිවුලපිටිය දෙස සිට මීගමුව දෙසට ධාවනය කළ ටිපර් රථයක ගැටී එම අනතුර සිදුව ඇති බවයි.
+🟩
 
-ත්‍රිරෝද රථයේ ගමන් ගත් පිරිමි පුද්ගලයින් දෙදෙනෙකු එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්වී ඇති බව වාර්තා විය.
+Three killed in an accident in the Dunagaha Junction, Dunagaha Junction, Divulapitiya - Negombo road.
 
-බරපතළ තුවාල ලැබූ කාන්තාවක් සහ තවත් පුද්ගලයෙකු රෝහල් ගත කර පසු පිරිමි පුද්ගලයා ද මියගොස් තිබේ.
+Police said that the driver of a high-ranking three-wheeler to travel towards the Divulapitiya to travel towards the Divulapitiya in Palapitiya, a tipper hit by a tipper to Negombo.
 
-මියගොස් ඇත්තේ අවුරුදු 30, 38, 45ක් වූ ගොඩිගමුව ප්‍රදේශයේ පදිංචිව සිටි පිරිසකි.
+It was reported that two men who were traveling in the three-wheeler were killed.
 
-පොලීසිය පැවසුවේ කාන්තාව වැඩිදුර ප්‍රතිකාර සඳහා ගම්පහ රෝහලට ඇතුළත් කර ඇති බවයි.
+A woman was also killed after a serious injurious woman and another.
+
+The deceased has been identified as 30, 38, 45, 45, 45, 45.
+
+The police said that the woman had been admitted to the Gampaha Hospital for further treatment.
 
 ◼️
 
 [Data](articles/68c239c0.json)
+
+[Extended Data](ext_articles/68c239c0.ext.json)
 
 ---
 
@@ -68,43 +74,61 @@ SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanaya
 
 [Data](articles/a1288d1b.json)
 
+[Extended Data](ext_articles/a1288d1b.ext.json)
+
 ---
 
-### සජිත් - බදියුදීන් ගිවිසුමකට අත්සන් තබයි
+### Sajith-Happinine signs an agreement
 
 *2024-08-15 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199972) · `si`
 
-ජනාධිපති ධූර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය ලබාදීම සඳහා සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක රිෂාඩ් බදියුදීන් මහතා අද (15) ගිවිසුමකට අත්සන් තැබීය.
+Rishad Bathiudeen, leader of the All Ceylon Public Congress, signed an agreement with opposition leader Sajith Premadasa, pledging support for him in the upcoming presidential election. Additionally, three MPs from the All Ceylon People's Congress, including Anuradhapura District MP Ishak Rahuman and Puttalam District Parliamentarian Ali Sabri Rahhim, announced their support for President Ranil Wickremesinghe.
 
-කොළඹ ප්‍රධාන පෙළේ හෝටලකදී අද දහවල් රිෂාඩ් බදියුදීන් මහතා සහ සජිත් ප්‍රේමදාස මහතා අදාළ ගිවිසුමට අත්සන් තබා ඇත.
+🟩
 
-ඊයේ (14) මාධ්‍ය හමුවක් කැඳවමින් සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් සඳහන් කළේ ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහයෝගය පළ කරන බවය.
+The All Ceylon Public Congress leader Rishad Bathiudeen signed an agreement today (15).
 
-සමස්ත ලංකා මහජන කොංග්‍රසයේ උත්තරීතර මණ්ඩලය රැස්වී එම තීරණය ගත් බවද ඔහු එහිදී පවසා තිබුණි.
+Mr. Rishad Bathiudeen and Sajith Premadasa have signed the agreement at a leading hotel in Colombo.
 
-මේ අතර රිෂාඩ් බදියුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය නියෝජනය කරමින් සමගි ජන බලවේගය ඔස්සේ පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරුන් තිදෙනෙකු ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබුණි.
+The All Ceylon Public Congress leader Rishard Bathiudeen stated that the Leader of the Opposition will be supported at the next presidential election yesterday.
 
-...
+He had said that the Supreme Council of the All Island People's Congress met with the decision.
+
+Meanwhile, three MPs who were entrusted with the All Ceylon People's Congress, led by Rishad Bathiudeen decided to support Ranil Wickremesinghe in the next presidential election.
+
+Anuradhapura District MP Ishak Rahuman, Puttalam District Parliamentarian Ali Sabri Rahhim, MP, has decided to support the President.
+
+◼️
 
 [Data](articles/7519c4f5.json)
 
+[Extended Data](ext_articles/7519c4f5.ext.json)
+
 ---
 
-### ”தேநீர் கடையைப் போல் இருந்தது”
+### "Like a tea shop"
 
 *2024-08-15 16:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேநீர்-கடையைப்-போல்-இருந்தது/175-342234) · `ta`
 
-தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ, இன்று முற்பகல் வேட்புமனுக்களை கையளிக்கும் போது தேர்தல்கள் ஆணைக்குழு ஒழுக்கத்தை பேணத் தவறியதாக விமர்சித்துள்ளார்.
+Vijayadasa Rajapakse criticizes the Election Commission for its handling of nominations, comparing it unfavorably to a "village tea shop" gathering. He accuses the commission of allowing numerous proxy candidates to support specific individuals, likening them to gang members. Rajapakse urges the commission to set an example of discipline before asking others to do so, highlighting a potential contradiction with SLFP division leader Maithripala Sirisena's endorsement of his candidacy.
 
-"முன்னதாக, தேர்தல் ஆணைக்குழு நீதிமன்றத்தைப் போல் ஒழுக்கத்தைக் கடைபிடித்ததுடன் மரியாதையையும் பேணி வந்தது. ஆனால், இம்முறை அது பல கும்பல்கள் கூடியிருக்கும் கிராமத்து தேநீர் கடையைப் போல் இருந்தது” என்று ராஜபக்ஷ கூறினார்.
+🟩
 
-நாட்டின் முதல் குடிமகனாக வேண்டும் என்று முன்வந்தவர்களின் நடத்தை வருத்தத்தை அளிக்கிறது என முன்னாள் அமைச்சர் தேர்தல்கள் ஆணைக்குழு அதிகாரிகளிடம் வேட்புமனுவை கையளித்த பின்னர் ஊடகங்களுக்கு கருத்துத் தெரிவித்தார்.
+Vijayadasa Rajapakse, the presidential candidate of the National Democratic Front, has criticized the Election Commission for failing to maintain morals when he handed over nominations earlier today.
 
-"ஒரு வேட்பாளரை ஊக்குவிப்பதற்காக அங்கு சில பினாமி போலி வேட்பாளர்கள் இருந்தனர்" என்று ராஜபக்ஷ குற்றம் சாட்டினார். “அவ்வாறான போலிகள் ஒரு வேட்பாளருக்கு குறைந்தது 15 முதல் 20 பேர் வரை இருந்தனர். அவர்கள் கும்பல்களில் குண்டர்கள் போல் நடந்து கொண்டனர்,” என்றார்.
+"Earlier, the Election Commission has entered the court as a court and maintained the honor. But this time it was like a village tea shop where many gangs gathered, ”Rajapakse said.
+
+After handing over the nomination to the former ministerial election commission officials, he told the media that the behavior of those who came forward to become the first citizens of the country.
+
+Rajapakse alleges that "there were some proxy fake candidates to promote a candidate,". “Such fakes were at least 15 to 20 people for a candidate. They behaved like thugs in gangs. ”
+
+Rajapakse urged the Elections Commission to maintain discipline among candidates. “Before we ask people to maintain discipline, we must be a role model,” he said, he said.
 
 ...
 
 [Data](articles/f35a4c19.json)
+
+[Extended Data](ext_articles/f35a4c19.ext.json)
 
 ---
 
@@ -166,23 +190,53 @@ The court has also set to release 6 other suspects arrested on the incident on p
 
 ---
 
-### சஜித் வெற்றிக்கோஷம்
+### Sajith triumph
 
 *2024-08-15 16:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-வெற்றிக்கோஷம்/175-342233) · `ta`
 
-2024 ஜனாதிபதித் தேர்தலில் வேட்புமனுப் பத்திரம் கையளிக்கச் சென்ற எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவைத் தெரிவிப்பதற்காக ராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் ஆணைக்குழுவிற்கு அருகில் பெருந்திரளான கட்சி ஆதரவாளர்கள் ஒன்றுகூடிருந்தனர்.
+Supporters rallied near Sri Lanka's Election Commission in Rajagiriya for opposition leader Sajith Premadasa, who submitted his nomination for the 2024 presidential election. Following this, he addressed the crowd.
 
-வேட்புமனுவை கையளித்த பின்னர், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கூடியிருந்த ஆதரவாளர்கள் மத்தியில்  உரையாற்றினார்.
+🟩
+
+A large number of party supporters gathered near the Elections Commission located in Rajagiriya to support the opposition leader Sajith Premadasa, who had filed a nomination papers in the 2024 presidential election.
+
+After handing over the nomination, opposition leader Sajith Premadasa addressed the gathering.
 
 ◼️
 
 [Data](articles/3c824d4f.json)
 
+[Extended Data](ext_articles/3c824d4f.ext.json)
+
 ---
 
-### மாணவி துஷ்பிரயோகம்;காதலன் கைது
+### Student abuse; lover arrested
 
 *2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-துஷ்பிரயோகம்-காதலன்-கைது/175-342232) · `ta`
+
+A 19-year-old was arrested for allegedly sexually abusing a 16-year-old schoolgirl he had a relationship with. The incident occurred near Thetakukamanda, and both parties have been referred for medical examinations.
+
+🟩
+
+A 19 -year -old youth was arrested by Kadirgamam police on Wednesday evening on Wednesday evening on suspicion of sexually abusing a schoolgirl in Grade 11 at Kadirgamam National School.
+
+The suspect has been arrested by the police, who are investigating the complaint of the school principal.
+
+Investigations revealed that the 16 -year -old girl fell in love with the suspect and took her to the Thetakukamanda area and took off her clothes there.
+
+However, the student has been sent to the Kadirgamam Hospital for medical examination and the suspect is to be produced before the court.
+
+◼️
+
+[Data](articles/0e7a877f.json)
+
+[Extended Data](ext_articles/0e7a877f.ext.json)
+
+---
+
+### ஆடைகளை களைந்து அணைத்த காதலன் கைது
+
+*2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடைகளை-களைந்து-அணைத்த-காதலன்-கைது/175-342232) · `ta`
 
 கதிர்காமம் தேசிய பாடசாலையில் தரம் 11 இல் கல்வி கற்கும் பாடசாலை மாணவியை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய சந்தேகத்தின் பேரில் 19 வயது இளைஞன் ஒருவர் கதிர்காமம் பொலிஸாரால் நேற்று புதன்கிழமை (14) புதன்கிழமை மாலை கைது செய்யப்பட்டுள்ளார்.
 
@@ -194,21 +248,27 @@ The court has also set to release 6 other suspects arrested on the incident on p
 
 ◼️
 
-[Data](articles/0e7a877f.json)
+[Data](articles/94f800d4.json)
 
 ---
 
-### ரணிலுடன் இணைந்தார் அலி சப்ரி ரஹீம்
+### Ali Sabri Rahim joined Ranil
 
 *2024-08-15 16:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சப்ரி-ரஹீம்/175-342231) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸை பிரதிநிதித்துவப்படுத்தும் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம், திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் சட்டத்தரணி எஸ்.எம்.எம்.முஷாரப் மற்றும் எஸ்.ஜே.பி அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் இஷாக் ரகுமான் ஆகியோர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவை வழங்கியுள்ளனர்.
+Parliamentarians Ali Sabri Rahim (Puttalam), SMM Musharaf (Digamadulla), and Ishak Raghuman (Anuradhapura) endorse President Ranil Wickremesinghe for re-election, pledging their support during a media briefing.
 
-விசேட ஊடகவியலாளர் சந்திப்பைக் கூட்டிய அவர்கள் எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்கு தமது ஆதரவை வழங்குவதாக உறுதியளித்தனர்.
+🟩
+
+Puttalam District Parliamentarian Ali Sabri Rahim, Digamadulla District Parliamentarian SMM Musharaf and SJP Anuradhapura District Parliamentarian Ishak Raghuman have supported President Ranil Wickremesinghe.
+
+They convened a special media briefing and promised to support President Ranil Wickremesinghe's victory in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/50da4b23.json)
+
+[Extended Data](ext_articles/50da4b23.ext.json)
 
 ---
 
@@ -297,6 +357,24 @@ Earlier in the day,  Eksath Lanka Podujana Pakshaya Secretary Nihal Premakumara
 [Data](articles/b9f3e8e0.json)
 
 [Extended Data](ext_articles/b9f3e8e0.ext.json)
+
+---
+
+### National Congress led by MP A.L.M. Ataullah joins forces with President
+
+*2024-08-15 15:14:33* · [`dailyftlk`](https://www.ft.lk/news/National-Congress-led-by-MP-A-L-M-Ataullah-joins-forces-with-President/56-765584) · `en`
+
+Member of Parliament A.L.M. Ataullah and the National Congress, which he leads, have pledged their support to President Ranil Wickremesinghe in the upcoming Presidential election.
+
+Ataullah and his representatives met with the President yesterday to formally announce their backing. He expressed confidence in the President's approach to resolving the country's ethnic issues, emphasising that addressing economic and political challenges is crucial. As a result, he is committed to securing the President's victory.
+
+During the meeting, the National Congress presented a proposal outlining their suggestions for resolving the ethnic problem.
+
+Additionally, the Deshapremi Jana Balawegaya (DJB) has also declared its support for President Wickremesinghe.
+
+...
+
+[Data](articles/61d9592c.json)
 
 ---
 
@@ -2163,47 +2241,5 @@ The Commissioner General of the Elections Commission Saman Sri Ratnayake said th
 [Data](articles/a6beefb2.json)
 
 [Extended Data](ext_articles/a6beefb2.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-08-15 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101246/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology states that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts today (15).
-
-Meanwhile, showers or thundershowers may occur at several places in Eastern and Uva and provinces and in Matale, Polonnaruwa and Mullaittivu districts during the evening or night, it added.
-
-Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
-
-◼️
-
-[Data](articles/1cfcbab7.json)
-
-[Extended Data](ext_articles/1cfcbab7.ext.json)
-
----
-
-### Harin and Manusha's Minister beat President
-
-*2024-08-15 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199958) · `si`
-
-In a move led by three ministers, including Manusha Nanayakkara and Harin Fernando, a gazette notification was issued under President Ranil Wickremesinghe, reassigning the Ministry of Labor and Foreign Employment. This action came after the duo lost their ministerial portfolios due to seat vacancies.
-
-🟩
-
-Three minister has issued a special gazette notification under President Ranil Wickremesinghe.
-
-Accordingly, the Minister of Labor and Foreign Employment (Labor and Foreign Employment) has been taken under the President of the Ministry of Labor and Foreign Employment.
-
-The former ministers, Manusha Nanayakkara and Harin Fernando, who was previously taken in the ministerial portfolio, had been vacancies with the loss of their seats.
-
-Accordingly, the President has issued the gazette notification while keeping the minister.
-
-◼️
-
-[Data](articles/1003b874.json)
-
-[Extended Data](ext_articles/1003b874.ext.json)
 
 ---

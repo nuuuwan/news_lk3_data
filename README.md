@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 09:21:21**
+As of **2024-08-15 09:36:44**
 
 ## Newspaper Stats
 
-*Scraped **40,820** Articles*
+*Scraped **40,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,45 +14,99 @@ bbccomsinhala | 379
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,476
-dailyftlk | 2,637
+dailyftlk | 2,638
 adalk | 3,752
 dailymirrorlk | 4,733
-adaderanalk | 4,759
+adaderanalk | 4,761
 tamilmirrorlk | 5,205
-virakesarilk | 6,467
+virakesarilk | 6,468
 adaderanasinhalalk | 6,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,818 (100.0%) of 40,820 articles have been extended.
+40,820 (100.0%) of 40,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### නාමයෝජනා භාරගැනීම - සජීවි විකාශය
+### 2024 ஜனாதிபதித் தேர்தல் : வேட்பு மனுத் தாக்கல் ஆரம்பம்
+
+*2024-08-15 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான வேட்பு மனுக்களை ஏற்கும் நடவடிக்கை தேர்தல் ஆணைக்குழுவில் ஆரம்பமாகியுள்ளது.
+
+◼️
+
+[Data](articles/2e8dc0b0.json)
+
+---
+
+### Cabinet nod to lease land for hospitals, schools, universities in Colombo Port City
+
+*2024-08-15 08:59:47* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-lease-land-for-hospitals-schools-universities-in-Colombo-Port-City/34-765575) · `en`
+
+The Cabinet of Ministers on Monday approved entering into agreements to lease land within the Colombo Port City for the development of hospitals, schools and universities.
+
+The decision is in line with the provisions of Section 6(1) (C) of the Colombo Port City Economic Commission Act No.11 of 2021.
+
+Under this section of the Act, the Colombo Port City Economic Commission has the authority to lease marketable State lands within its jurisdiction. In line with this mandate, the Commission has invited proposals from investors for the development of educational and healthcare facilities within the Port City.
+
+As a result, proposals have been submitted by Asiri Port City Hospital Ltd., Gateway International School Ltd., and Gateway International University Ltd. These proposals include a $ 100 million investment for a hospital and $ 25 million each for a school and a university.
+
+...
+
+[Data](articles/935ac730.json)
+
+---
+
+### Nominal accepting - Living
 
 *2024-08-15 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199959) · `si`
 
-ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාරගැනීමේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+Nominations for the presidential election are now open, closing at 11:00 AM today at the Election Commission Office in Rajagiriya. Despite protests, appointments are available from 9:00 AM to 11:30 AM. The commission confirmed the completion of the election process yesterday, with 40 candidates nominated. Candidates' selection will consider all protests received. Independent candidates are receiving voting signs. Security measures are in place around the Elections Secretariat due to potential protests.
 
-ඒ අනුව පෙරවරු 11.00 දක්වා රාජගිරියේ පිහිටි මැතිවරණ කොමිෂන් සභා කාර්යාලයේ ශ්‍රවණාගාරයේදී නාමයෝජනා භාරගැනීම සිදුකෙරෙන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-එහිදි විරෝධතා ඉදිරිපත් කිරීම සඳහා පෙරවරු 9.00 සිට පෙරවරු 11.30 දක්වා අවස්ථාව ලබා දී තිබේ.
+The acceptance of nominations pertaining to the presidential election has commenced.
 
-මෙවර ජනාධිපතිවරණයට අදාළ ඇප මුදල් භාරගැනීමේ කාලය ඊයේ (14) දහවල් 12.00න් අවසන් වූ අතර ඒ අනුව අපේක්ෂකයින් 40 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+According to the Elections Commission, nominations will be accepted at the Election Commission Office at Rajagiriya until 11.00 am.
 
-නාමයෝජනා භාරගැනීමේ කටයුතුවලින් අනතුරුව ඉදිරිපත් වූ විරෝධතා සලකා බලා ජනාධිපතිවරණයට තෝරාගනු ලැබූ අපේක්ෂකයින් පිළිබඳව මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත්කිරීමට නියමිතය.
+Appointment has been given to the presence of protests from 9.00 am to 11.30am.
 
-එහිදී ස්වාධීනව ඉදිරිපත් වී සිටින අපේක්ෂකයින් සඳහා ඡන්ද සලකුණු නිකුත් කිරීම ද සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission said that the bail of the presidential election was completed yesterday (14), according to the Elections Commission that 40 candidates have been paid.
 
-මේ අතර නාම යෝජනා පත්‍ර භාරගැනීම වෙනුවෙන් මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රය සහ අවට ප්‍රදේශවල විශේෂ ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+The Elections Commission will be announced by the candidates who were selected for the presidential election after considering the protests that submitted after the nomination.
+
+The Elections Commission states that voting signs are being issued for independent candidates.
+
+Meanwhile, police have taken steps to implement a special security program in the Elections Secretariat premises and surrounding areas to accept nominations.
 
 ◼️
 
 [Data](articles/c7f66181.json)
+
+[Extended Data](ext_articles/c7f66181.ext.json)
+
+---
+
+### 2024 Prez poll candidates to submit nominations today; special security zone in Rajagiriya
+
+*2024-08-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101247/2024-prez-poll-candidates-to-submit-nominations-today-special-security-zone-in-rajagiriya) · `en`
+
+The acceptance of nominations for the 2024 Presidential Election is scheduled to begin today from 9.00 a.m. to 11.00 a.m. at the Election Commission office in Rajagiriya.
+
+Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 are required to visit the Election Commission office to submit their nominations, the election regulatory body said.
+
+Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
+
+Against this backdrop, the vicinity of the Election Commission Office in Rajagiriya has been designated as a special security zone due to the accepting of nominations, while the Sri Lanka Police announced that a special traffic plan would be implemented in the area from 8.00 a.m. to 2.00 p.m. today.
+
+...
+
+[Data](articles/7b6b15b5.json)
 
 ---
 
@@ -95,6 +149,22 @@ The Commissioner General of the Elections Commission Saman Sri Ratnayake said th
 [Data](articles/a6beefb2.json)
 
 [Extended Data](ext_articles/a6beefb2.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-08-15 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101246/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology states that showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts today (15).
+
+Meanwhile, showers or thundershowers may occur at several places in Eastern and Uva and provinces and in Matale, Polonnaruwa and Mullaittivu districts during the evening or night, it added.
+
+Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers, according to the Met. Department.
+
+◼️
+
+[Data](articles/1cfcbab7.json)
 
 ---
 
@@ -1060,17 +1130,23 @@ The Hikkaduwa Police are conducting further investigations into the incident.
 
 ---
 
-### කතරගම වාසනාට මහනුවරදී ලැබුණ භාග්‍යය
+### The blessing in Kandy to Kataragama
 
 *2024-08-14 20:21:30* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-වාසනාට-මහනුවරදී-ලැබුණ-භාග්‍යය/11-411377) · `si`
 
-කන්ද උඩරට ඓතිහාසික ඇසළ පෙරහරේ අවසන් කුඹල් පෙරහර අද (14) වීදි සංචාරය කරනු ලැබීය.
+The final Kumbal Perahera of the Kandy East Esala Perahera concluded today, drawing praise from Kataragama Vasana Headsa.
 
-අවසන් කුඹල් පෙරහරේ සධාතුක කරඬුව වැඩම කරවීමේ භාග්‍ය උදා කරනු ලැබුවේ කතරගම වාසනා හස්තියා විසිනි .වාසනා හස්තියාගේ දෑල ඇතුන් ලෙස දළදා මාලිගාව ඇත්පන්තියේ මියන් රාජා සහ කෝට්ටේ රාජා හස්තියා ගමන් කරනු ලැබීය.
+🟩
+
+The final kumbal Perahera of the Kandy East Esala Perahera was visited today (14).
+
+The conclusion of the final Kumbal Perahera was praised by Kataragama Vasana Headsa.
 
 ◼️
 
 [Data](articles/3689aa84.json)
+
+[Extended Data](ext_articles/3689aa84.ext.json)
 
 ---
 
@@ -2165,95 +2241,5 @@ President Ranil Wickremesinghe signed his nomination papers today (14) to contes
 [Data](articles/d39ea49d.json)
 
 [Extended Data](ext_articles/d39ea49d.ext.json)
-
----
-
-### Vishnu Vishal's 'Hot Spot 2'
-
-*2024-08-14 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/191084) · `ta`
-
-Vishnu Vishal stars in "Hot Spot 2," directed by Vignesh Karthik, alongside Kalaiyarasan, Sofia, Gauri Kishan, and others. The first "Hot Spot" was a commercial and critical success, sparking anticipation for its sequel, "Conditional Kaviyam." The cast and release details for the second installment are expected to be announced soon.
-
-🟩
-
-Actor Vishnu Vishal presents the movie 'Hot.Spot 2' directed by director Vignesh Karthik. The official announcement has been released as an exclusive video.
-
-Vignesh Karthik starring Kalaiyarasan, Sofia, Gauri Kishan, Aditya Bhaskar, Ammu Abirami Sandy Master and Janani starred in the film 'Hot Spot' this year.. The preview of the film was revealed and controversy.
-
-The film was then received by fans and digital site fans for the film House, commercially and critically successful. When will the next part of the film be released?The question also arose.
-
-Director Vignesh Karthik - Producer K. J.. Vishnu Vishal's Vishnu Vishal Studios presents the leading star and producer of 'Hot Spot 2' co -starring Bala Mani Morban.. The announcement has been released as a video.
-
-The next part of the Hot Spot, referred to as 'Conditional Kaviyam', is to be announced as a two -mast.. The official announcement of the actors, actresses and technicians will be released soon.
-
-◼️
-
-[Data](articles/2fd54f95.json)
-
-[Extended Data](ext_articles/2fd54f95.ext.json)
-
----
-
-### Child killed in accident; 12 injured
-
-*2024-08-14 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குழந்தை-பலி-12-பேருக்கு-காயம்/175-342167) · `ta`
-
-In a tragic accident near Elpitiya on the Southern Highway, a 2-year-old child was killed and 12 others, including three children, were injured. The incident happened when a vehicle's tire burst, causing it to crash into a security fence while en route from Mattala to Kottawa.
-
-🟩
-
-A 2 -year -old child was killed and 12 others were injured in an accident this morning near Elpitiya on the Southern Highway.
-
-The accident occurred when the tire of the vehicle traveling from Mattala to Kottawa crashed into a security fence in the middle of the highway.
-
-12 people, including 3 children in an accident, were injured. A 2 -year -old girl from Kadirgama has died after being taken to Elpitiya Hospital.
-
-◼️
-
-[Data](articles/519eb7d0.json)
-
-[Extended Data](ext_articles/519eb7d0.ext.json)
-
----
-
-### Second look poster release of Bharat starring 'Ons Aban A Time in Madras'
-
-*2024-08-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191091) · `ta`
-
-The second look poster for "Ons Aban A Time in Madras," directed by Prasad Murugan, features Bharat, Shaun, Rajaji, Abirami, Anjali Nair, and Pavithra Lakshmi. Composed by K.S. Kalidas and R. Jose Franklin, and produced by MP Anand under Freede Film Factory, the film is set to release soon. The poster, showcasing the main characters and a gun, has sparked interest among fans.
-
-🟩
-
-The second look poster of the film 'Ons Aban A Time in Madras' has been released in the Tamil film industry.
-
-Directed by director Prasad Murugan, 'Ons Aban A Time in Madras', Bharat, Shaun, Rajaji, Abirami, Anjali Nair, Pavithra Lakshmi.
-
-K. S.. Kalidas and R. Jose Franklin has composed the film, which has been recorded by Kanna. The film was produced by producer MP Anand on behalf of Freede Film Factory.
-
-All the tasks of this movie are completed and waiting for the release. In this case, the second look poster of the film has been released. The appearance of the main characters in the film and the weapon of the gun has attracted the attention of the fans.
-
-◼️
-
-[Data](articles/320ea4cc.json)
-
-[Extended Data](ext_articles/320ea4cc.ext.json)
-
----
-
-### 40 papers backed up for five years
-
-*2024-08-14 15:09:44* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-05කට-රට-භාර-ගන්න-අ​පේක්ෂකයන්-40ක්-ඇප-තියයි/11-411370) · `si`
-
-40 candidates are confirmed for the upcoming presidential election, supported by evidence from 40 academic papers stored for five years.
-
-🟩
-
-The Elections Commissioner also stated that 40 candidates have been placed on the next presidential election.
-
-◼️
-
-[Data](articles/0050204b.json)
-
-[Extended Data](ext_articles/0050204b.ext.json)
 
 ---

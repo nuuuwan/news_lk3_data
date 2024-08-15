@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 17:06:23**
+As of **2024-08-15 17:20:57**
 
 ## Newspaper Stats
 
-*Scraped **40,912** Articles*
+*Scraped **40,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 2,480
 dailyftlk | 2,645
 adalk | 3,765
 dailymirrorlk | 4,733
-adaderanalk | 4,778
-tamilmirrorlk | 5,227
+adaderanalk | 4,779
+tamilmirrorlk | 5,231
 virakesarilk | 6,480
-adaderanasinhalalk | 6,960
+adaderanasinhalalk | 6,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,912 (100.0%) of 40,912 articles have been extended.
+40,912 (100.0%) of 40,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### තිදෙනෙක් මරු තුරුලට යැවූ අධික වේගය
+
+*2024-08-15 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199973) · `si`
+
+දිවුලපිටිය - මීගමුව මාර්ගයේ, දුනගහ හන්දිය ප්‍රදේශයේ අද (15) පෙරවරුවේ සිදු වූ රිය අනතුරකින් තිදෙනෙකු මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ ගොඩිගමුව - දුනගහ මාර්ගයේ දිවුලපිටිය දෙසට ගමන් කිරීම සඳහා අධික වේගයෙන් පැමිණි ත්‍රිරෝද රථයක රියදුරුට එහි වේගය පාලනය කර ගැනීමට නොහැකිව ත්‍රිරෝද රථය මාර්ගයේ පෙරළි ගොස් දිවුලපිටිය දෙස සිට මීගමුව දෙසට ධාවනය කළ ටිපර් රථයක ගැටී එම අනතුර සිදුව ඇති බවයි.
+
+ත්‍රිරෝද රථයේ ගමන් ගත් පිරිමි පුද්ගලයින් දෙදෙනෙකු එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්වී ඇති බව වාර්තා විය.
+
+බරපතළ තුවාල ලැබූ කාන්තාවක් සහ තවත් පුද්ගලයෙකු රෝහල් ගත කර පසු පිරිමි පුද්ගලයා ද මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ අවුරුදු 30, 38, 45ක් වූ ගොඩිගමුව ප්‍රදේශයේ පදිංචිව සිටි පිරිසකි.
+
+පොලීසිය පැවසුවේ කාන්තාව වැඩිදුර ප්‍රතිකාර සඳහා ගම්පහ රෝහලට ඇතුළත් කර ඇති බවයි.
+
+◼️
+
+[Data](articles/68c239c0.json)
+
+---
+
+### Rishad’s ACMC inks agreement to support Sajith
+
+*2024-08-15 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101267/rishads-acmc-inks-agreement-to-support-sajith) · `en`
+
+The All Ceylon Makkal Congress (ACMC), led by MP Rishad Bathiudeen, has signed an agreement with the ‘Samagi Jana Sandhanaya’ to support Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
+
+The agreement was signed by Samagi Jana Balawegaya (SJB) leader and presidential candidate Sajith Premadasa and ACMC leader, former Minister Rishad Bathiudeen, at the Cinnamon Lake Hotel in Colombo.
+
+SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and other party members were also present at the occasion.
+
+◼️
+
+[Data](articles/a1288d1b.json)
+
+---
+
+### සජිත් - බදියුදීන් ගිවිසුමකට අත්සන් තබයි
+
+*2024-08-15 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199972) · `si`
+
+ජනාධිපති ධූර අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය ලබාදීම සඳහා සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක රිෂාඩ් බදියුදීන් මහතා අද (15) ගිවිසුමකට අත්සන් තැබීය.
+
+කොළඹ ප්‍රධාන පෙළේ හෝටලකදී අද දහවල් රිෂාඩ් බදියුදීන් මහතා සහ සජිත් ප්‍රේමදාස මහතා අදාළ ගිවිසුමට අත්සන් තබා ඇත.
+
+ඊයේ (14) මාධ්‍ය හමුවක් කැඳවමින් සමස්ත ලංකා මහජන කොංග්‍රසයේ නායක පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් සඳහන් කළේ ඉදිරි ජනාධිපතිවරණයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහයෝගය පළ කරන බවය.
+
+සමස්ත ලංකා මහජන කොංග්‍රසයේ උත්තරීතර මණ්ඩලය රැස්වී එම තීරණය ගත් බවද ඔහු එහිදී පවසා තිබුණි.
+
+මේ අතර රිෂාඩ් බදියුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය නියෝජනය කරමින් සමගි ජන බලවේගය ඔස්සේ පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරුන් තිදෙනෙකු ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබුණි.
+
+...
+
+[Data](articles/7519c4f5.json)
+
+---
+
+### ”தேநீர் கடையைப் போல் இருந்தது”
+
+*2024-08-15 16:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேநீர்-கடையைப்-போல்-இருந்தது/175-342234) · `ta`
+
+தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ, இன்று முற்பகல் வேட்புமனுக்களை கையளிக்கும் போது தேர்தல்கள் ஆணைக்குழு ஒழுக்கத்தை பேணத் தவறியதாக விமர்சித்துள்ளார்.
+
+"முன்னதாக, தேர்தல் ஆணைக்குழு நீதிமன்றத்தைப் போல் ஒழுக்கத்தைக் கடைபிடித்ததுடன் மரியாதையையும் பேணி வந்தது. ஆனால், இம்முறை அது பல கும்பல்கள் கூடியிருக்கும் கிராமத்து தேநீர் கடையைப் போல் இருந்தது” என்று ராஜபக்ஷ கூறினார்.
+
+நாட்டின் முதல் குடிமகனாக வேண்டும் என்று முன்வந்தவர்களின் நடத்தை வருத்தத்தை அளிக்கிறது என முன்னாள் அமைச்சர் தேர்தல்கள் ஆணைக்குழு அதிகாரிகளிடம் வேட்புமனுவை கையளித்த பின்னர் ஊடகங்களுக்கு கருத்துத் தெரிவித்தார்.
+
+"ஒரு வேட்பாளரை ஊக்குவிப்பதற்காக அங்கு சில பினாமி போலி வேட்பாளர்கள் இருந்தனர்" என்று ராஜபக்ஷ குற்றம் சாட்டினார். “அவ்வாறான போலிகள் ஒரு வேட்பாளருக்கு குறைந்தது 15 முதல் 20 பேர் வரை இருந்தனர். அவர்கள் கும்பல்களில் குண்டர்கள் போல் நடந்து கொண்டனர்,” என்றார்.
+
+...
+
+[Data](articles/f35a4c19.json)
+
+---
 
 ### A powerful earthquake in Taiwan
 
@@ -87,6 +163,52 @@ The court has also set to release 6 other suspects arrested on the incident on p
 [Data](articles/c5230791.json)
 
 [Extended Data](ext_articles/c5230791.ext.json)
+
+---
+
+### சஜித் வெற்றிக்கோஷம்
+
+*2024-08-15 16:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-வெற்றிக்கோஷம்/175-342233) · `ta`
+
+2024 ஜனாதிபதித் தேர்தலில் வேட்புமனுப் பத்திரம் கையளிக்கச் சென்ற எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவைத் தெரிவிப்பதற்காக ராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் ஆணைக்குழுவிற்கு அருகில் பெருந்திரளான கட்சி ஆதரவாளர்கள் ஒன்றுகூடிருந்தனர்.
+
+வேட்புமனுவை கையளித்த பின்னர், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கூடியிருந்த ஆதரவாளர்கள் மத்தியில்  உரையாற்றினார்.
+
+◼️
+
+[Data](articles/3c824d4f.json)
+
+---
+
+### மாணவி துஷ்பிரயோகம்;காதலன் கைது
+
+*2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-துஷ்பிரயோகம்-காதலன்-கைது/175-342232) · `ta`
+
+கதிர்காமம் தேசிய பாடசாலையில் தரம் 11 இல் கல்வி கற்கும் பாடசாலை மாணவியை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய சந்தேகத்தின் பேரில் 19 வயது இளைஞன் ஒருவர் கதிர்காமம் பொலிஸாரால் நேற்று புதன்கிழமை (14) புதன்கிழமை மாலை கைது செய்யப்பட்டுள்ளார்.
+
+பாடசாலை அதிபரின் முறைப்பாட்டிற்கு அமைய விசாரணைகளை மேற்கொண்ட பொலிஸார் சந்தேக நபரை கைது செய்துள்ளனர்.
+
+விசாரணையில் 16 வயது சிறுமி, சந்தேக நபரை காதலித்து வந்ததையும், அவர் தெட்டகமுகந்த பகுதிக்கு அழைத்துச் சென்று, அங்கு தனது ஆடைகளை கழற்றி தன்னை அணைத்துக்கொண்டதாகவும் தெரிவித்துள்ளார்.
+
+எனினும், மாணவி மருத்துவ பரிசோதனைக்காக கதிர்காமம் வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டதுடன் சந்தேக நபர் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0e7a877f.json)
+
+---
+
+### ரணிலுடன் இணைந்தார் அலி சப்ரி ரஹீம்
+
+*2024-08-15 16:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சப்ரி-ரஹீம்/175-342231) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸை பிரதிநிதித்துவப்படுத்தும் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம், திகாமடுல்ல மாவட்ட பாராளுமன்ற உறுப்பினர் சட்டத்தரணி எஸ்.எம்.எம்.முஷாரப் மற்றும் எஸ்.ஜே.பி அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் இஷாக் ரகுமான் ஆகியோர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவை வழங்கியுள்ளனர்.
+
+விசேட ஊடகவியலாளர் சந்திப்பைக் கூட்டிய அவர்கள் எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வெற்றிக்கு தமது ஆதரவை வழங்குவதாக உறுதியளித்தனர்.
+
+◼️
+
+[Data](articles/50da4b23.json)
 
 ---
 
@@ -1144,15 +1266,13 @@ Twenty more Sri Lankan nationals, who were held hostage in the cybercrime camps 
 
 Accordingly, the rescued Sri Lankans have safely arrived in Thailand and are in the custody of Thailand’s Department of Immigration and Emigration, according to the Foreign Affairs Ministry.
 
-Meanwhile, it was also reported that all of them are in good health condition.
+Sri Lanka Ambassador in Thailand Wijayanthi Edirisinghe visited Mae Sot, Thailand today and met with the rescued Sri Lankans and inquired into their welfare, the ministry said.
+
+Meanwhile, it was also reported that all of them are in good health condition, and that and Thai authorities are facilitating Consular assistance.
 
 The Ministry of Foreign Affairs further stated that measures are underway to facilitate their repatriation to Sri Lanka.
 
-Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and they were safely repatriated to the island on April 18, 2024.
-
-It is reported that around 28 more Sri Lankan nationals are still being held in the relevant cybercrime camps in Myanmar.
-
-◼️
+...
 
 [Data](articles/2e775258.json)
 
@@ -2085,179 +2205,5 @@ Accordingly, the President has issued the gazette notification while keeping the
 [Data](articles/1003b874.json)
 
 [Extended Data](ext_articles/1003b874.ext.json)
-
----
-
-### Three-wheeler driver escapes the death of the shooter
-
-*2024-08-15 07:52:44* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩික්කරු-සමග-පොර-බදා-ත්‍රිරෝද-රියදුරු-මරණයෙන්-බේරෙයි/11-411378) · `si`
-
-A three-wheeler driver narrowly escaped being shot by a gunman at the Hikkaduwa Trader of Treaders. The driver was targeted but managed to flee, hiding from the shooter. Both parties then escaped together towards Ambalangoda. The motive behind the shooting remains unclear, and police continue investigating.
-
-🟩
-
-The attempt to shoot at a motorcycle at the Hikkaduwa Treader of the Treader of Treaders in the Hikkaduwa Treader
-
-Police say that the three-wheeler driver was faded with the person who was shooting in the Tightest six-100 firearm, police said.
-
-Police say that the three-wheeler driver has running and hidden from this permission, police said.
-
-The two had fled to the police say that the two have fled from Hikkaduwa to Ambalangoda to Ambalangoda.
-
-The unidentified gunmen had come to shoot the forty-year-old three-year-old driver in Hikkaduwa. The police say that the cause of shooting is yet to be ascertained. Police are conducting further investigations.
-
-◼️
-
-[Data](articles/be671469.json)
-
-[Extended Data](ext_articles/be671469.ext.json)
-
----
-
-### The doors of the PA are open - Minister Nimal calls for all parties
-
-*2024-08-15 07:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191119) · `ta`
-
-Minister Nimal invites all parties to join the PA, emphasizing its unique approach to democracy and inclusivity. The PA aims to revitalize Sri Lanka's politics by creating a modern alliance that prioritizes public welfare over party interests, inspired by the failed Sri Lanka Freedom Party. This new coalition seeks to foster broad-based political dialogue, ensuring representation for all segments of society, including minorities.
-
-🟩
-
-Political parties in Sri Lanka are always in the grip of the party leader and the democratic sacrifices that should be made for the people and the party are avoided. But the PA is not the same. So the PA, the United People's Power, the JVP. Nimal Siripala de Silva called for anyone to join us.
-
-He further stated that the PA was held at the Votes Edge Hotel on Wednesday (14).
-
-The PA is a camp that has brought the country's politics to the politics. It was decided to make the old alliance ideal for modern time and fulfill the wishes of the people. We changed the yap and changed the legal conditions and formed this new alliance.
-
-Political parties in Sri Lanka are always in the grip of the party leader and the democratic sacrifices that should be made for the people and the party are avoided. Party politics was destroyed as the leaders of political parties did not understand the legitimate needs of the common people. The Sri Lanka Freedom Party can be an example.
-
-...
-
-[Data](articles/9f15ed00.json)
-
-[Extended Data](ext_articles/9f15ed00.ext.json)
-
----
-
-### 11 killed in rabies
-
-*2024-08-15 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199957) · `si`
-
-This year, 11 people have died from rabies in Sri Lanka, according to epidemiological reports. Community health specialist Dr. Athula Liyanapathirana attributes these deaths to a lack of awareness about rabies. Despite efforts to reduce deaths last year, the number of fatalities has increased this year. To combat this, 300 government hospitals in Sri Lanka will receive anti-rabies vaccines, which are also available at private hospitals. Dr. Liyanapathirana emphasizes the importance of vaccination after being bitten by an animal suspected of having rabies, as the virus can enter the body through bites, scratches, or even contact with mucous membranes. Symptoms typically appear within three months.
-
-🟩
-
-Epidemiological Electrical states that 11 persons have died in rabies this year.
-
-Its community health specialist Dr. Athula Liyanapathirana stated that deaths are reported due to ignorance of rabies.
-
-"Awareness is caused by lack of rabies caused by rabies. Last year, we have been able to reduce the number of deaths over half of the year. However, it is already reported that 11 deaths reported this year. All these deaths are due to the treatment of our treatment. About 300 government hospitals in Sri Lanka will be given an anti Rabiis Vackin. Apparently, the insection hospitals are given at around 100 in times of exciting. This is free. If we have to do is resort to medical treatment, if we do. "
-
-Specialist Dr. Athula Liyanapathirana expressed these views regarding rabies contagious.
-
-...
-
-[Data](articles/ff1a8e93.json)
-
-[Extended Data](ext_articles/ff1a8e93.ext.json)
-
----
-
-### Two suspects were boxes
-
-*2024-08-15 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199956) · `si`
-
-Two suspects, aged 34 from Udumulla and Watareka, were arrested for a murder committed with sharp weapons on June 6th. The crime involved two motorbikes, which were seized by the Hanwella Police for further investigation.
-
-🟩
-
-Two suspects have been arrested in connection with the murder of a person with sharp weapons.
-
-The murder had taken place on the 6th of this month on the 6th of this month.
-
-The officers of the Western Province South Criminal Division have been arrested by the officials of the Criminal Division in Padukka Parkhana.
-
-The suspects are residents of Udumulla and Watareka areas, aged 34 years.
-
-The police also recovered 02 motorbikes used for the crime and the Hanwella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/5d54c46c.json)
-
-[Extended Data](ext_articles/5d54c46c.ext.json)
-
----
-
-### Sri Lanka’s JKH, Nepal’s CG Corp see compelling case for BYD EVs
-
-*2024-08-15 07:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-nepals-cg-corp-see-compelling-case-for-byd-evs-176817/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s John Keells Holdings has teamed up with Nepal’s Chaudhary Group, to sell electric vehicles made by China’s BYD, banking on a shift from internal combustion engines.
-
-JKH Chairman Krishan Balendra said the already diversified group entered the electric vehicle business after careful thought because there was a ‘compelling opportunity.’
-
-“We saw electric vehicles had a very promising future,” Balendra said. ” We think there will be a lot of people who will switch from petrol to election vehicles.”
-
-Nirvana Chaudhary, Managing Director, CG Corp Global, said in Nepal, every 8 out of 10 new cars sold are now electric vehicles.
-
-Sri Lanka also produced renewable energy, making the case for new energy vehicles, and the trend was in line with Sri Lanka’s aims to boost renewable energy use by 2030, he said.
-
-CG group had started marketing vehicles in Nepal 40 years ago partnering with Japan’s Suzuki, he said.
-
-...
-
-[Data](articles/f2fa756c.json)
-
-[Extended Data](ext_articles/f2fa756c.ext.json)
-
----
-
-### The first Randoli Perahera of the Perahera Festival today
-
-*2024-08-15 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199955) · `si`
-
-The first Randoli Perahera of the Kandy Esala Perahera, a historic festival, will parade through the streets today after commissioning the paddy fields from the 10th. It will visit the Pradeep Nilame and Diyawadana Nilame of the Sri Dalada Maligawa. Additionally, the National Shuran Center of Maradamadu Deva Madha holds its annual festival this morning, featuring the Most Venerable Emanuel Fernando.
-
-🟩
-
-The first Randoli Perahera of the historic Kandy Esala Perahera is due to visit the streets today.
-
-This year's Esala Perahera commissioned the paddy fields from the 10th to the streets yesterday.
-
-The Randoli Perahera from today will visit the Pradeep Nilame of the Sri Dalada Maligawa, Diyawadana Nilame of the Sri Dalada Maligawa.
-
-Meanwhile, the annual Festival of the National Shuran Center of Maradamadu Deva Madha will be held this morning.
-
-The Maradamadu Annual Festival will hold the Divine annual feast this year with the participation of the Most Venerable Emanuel Fernando.
-
-◼️
-
-[Data](articles/e36df948.json)
-
-[Extended Data](ext_articles/e36df948.ext.json)
-
----
-
-### Two fatal accidents
-
-*2024-08-15 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199954) · `si`
-
-In separate incidents, two motorcyclists died when losing control on roads in Matale and another passenger was critically injured in a three-wheeler accident in Pramlandan Madhu, both occurring yesterday.
-
-🟩
-
-Two persons were killed in two fatal accidents in the country yesterday.
-
-Motorcyclists were killed in a motorcycle who was unable to control a motorcycle on the Senaqal Kovil on the Rattota road in Matale.
-
-Meanwhile, one of two persons who were traveling in a three-wheeler in Pomalandan junction in Pamalandan junction in Pamalandadan Madhu in Pramlandan Madhu took place on the road.
-
-The victim was rushed to the Murukkan Hospital after he was seriously injured.
-
-◼️
-
-[Data](articles/d75cdfac.json)
-
-[Extended Data](ext_articles/d75cdfac.ext.json)
 
 ---

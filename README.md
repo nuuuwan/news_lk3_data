@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 14:21:12**
+As of **2024-08-15 14:36:34**
 
 ## Newspaper Stats
 
-*Scraped **40,888** Articles*
+*Scraped **40,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,480
 dailyftlk | 2,638
-adalk | 3,762
+adalk | 3,763
 dailymirrorlk | 4,733
-adaderanalk | 4,773
+adaderanalk | 4,775
 tamilmirrorlk | 5,223
 virakesarilk | 6,480
-adaderanasinhalalk | 6,955
+adaderanasinhalalk | 6,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,880 (100.0%) of 40,888 articles have been extended.
+40,888 (100.0%) of 40,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### வரலாற்றில் இன்று : “அன்னை இந்தியா சுதந்திரமடைந்துவிட்டாள்”  - 1947 வீரகேசரியில்...
+### බදියුදීන්ගේ මන්ත්‍රීවරු තිදෙනෙක් රනිල්ට එක් වෙයි
+
+*2024-08-15 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199967) · `si`
+
+රිෂාඩ් බදියුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය නියෝජනය කරමින් සමගි ජන බලවේගය හරහා පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරුන් තිදෙනෙකු ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන්, පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්රි රහීම්, දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නීතීඥ එස්.එම්.එම් මුෂාරෆ් මෙලෙස ජනාධිපතිවරයාට සහ පළ කිරීමට තීරණය කර ඇත.
+
+ඔවුන් මීට සුළු මොහොතකට පෙර විශේෂ මාධ්‍ය හමුවක් කැඳවා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/e5ee2975.json)
+
+---
+
+### Jetstar Asia to launch low-cost direct flights from Singapore to Colombo
+
+*2024-08-15 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101261/jetstar-asia-to-launch-low-cost-direct-flights-from-singapore-to-colombo) · `en`
+
+Jetstar Asia Airways has announced it will become the only low-cost carrier to fly direct from Singapore to Colombo, Sri Lanka, as the new service takes off on 21 November 2024.
+
+The Singapore low-cost carrier will operate five return services each week using their fleet of Airbus A320s, offering more than 90,000 low fares between the two destinations each year.
+
+Issuing a statement, Jetstar Asia stated that the split schedule will offer morning and evening departures from Changi Airport providing choice for those starting their journey in Singapore and easy connections for those travelling via Singapore on Jetstar Airways’ (JQ) daily service from Melbourne or the up to six weekly flights from Perth.
+
+To celebrate the announcement, Jetstar Asia has launched one-way sale fares from Singapore to Colombo from just SG$149, making Sri Lanka more accessible than ever. Club Jetstar members have access to even lower fares, starting from SG$139.
+
+...
+
+[Data](articles/4a512a23.json)
+
+---
+
+### Today in History: "Mother India has become independent" - 1947
 
 *2024-08-15 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191148) · `ta`
 
-இந்தியாவின் 78ஆவது சுதந்திர தினம் இந்தியாவில் மட்டுமன்றி இலங்கையிலும் இன்று (15) கொண்டாடப்பட்டு வருகிறது.
+On August 15, 1947, India celebrated its 78th Independence Day, marking the end of British rule. This significant event was highlighted in the Weerakesari magazine, featuring the editorial "Mother India is independent." The celebration extends beyond India's borders, with festivities in Sri Lanka as well.
 
-இந்தியா 1947ஆம் ஆண்டு ஆகஸ்ட் 15ஆம் திகதி பிரித்தானிய ஆட்சியிலிருந்து சுதந்திரம் பெற்றது.
+🟩
 
-இது தொடர்பான செய்தி,  அவ்வாண்டு இதே திகதியில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் “அன்னை இந்தியா சுதந்திரமடைந்துவிட்டாள்”  எனும் தலையங்கத்தில் பிரசுரிக்கப்பட்டது.
+India's 78th Independence Day is being celebrated not only in India but also in Sri Lanka.
+
+India gained independence from British rule on August 15, 1947.
+
+The news was published on the front page of the Weerakesari magazine, which was published on the same date, in the editorial "Mother India is independent".
 
 ◼️
 
 [Data](articles/3e7581bb.json)
+
+[Extended Data](ext_articles/3e7581bb.ext.json)
 
 ---
 
@@ -66,69 +106,125 @@ Field Marshal Sarath Fonseka, who is contesting as an independent candidate in t
 
 ---
 
-### பொன்சேகாவுக்கு லந்தர் சின்னம்
+### Lander logo for Fonseka
 
 *2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-லந்தர்-சின்னம்/175-342225) · `ta`
 
-ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடும் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கு தேர்தல்கள் ஆணைக்குழுவினால் 'லந்தர்' சின்னம் வழங்கப்பட்டுள்ளது.
+Field Marshal Sarath Fonseka, running as an independent in Sri Lanka's presidential election, was assigned the 'Lander' symbol by the Elections Commission.
+
+🟩
+
+Field Marshal Sarath Fonseka, who is contesting as an independent candidate in the presidential election, has been given the 'Lander' symbol by the Elections Commission.
 
 ◼️
 
 [Data](articles/ea5a9858.json)
 
+[Extended Data](ext_articles/ea5a9858.ext.json)
+
 ---
 
-### ஜனாதிபதி வேட்பாளர் ரணிலுக்கு ஆதரவு தெரிவித்துள்ள முஷாரப், இஷாக் ரஹ்மான், அலி சப்ரி ரஹீம்
+### Several MPs, politicians from various parties pledge support to President Ranil
+
+*2024-08-15 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101260/several-mps-politicians-from-various-parties-pledge-support-to-president-ranil) · `en`
+
+Members of Parliament (MPs), former ministers, ex-parliamentarians and politicians from various political parties have today (15) pledged their support to President Ranil Wickremesinghe in the upcoming presidential election.
+
+Accordingly, SJB Anuradhapura District MP Ishak Rahuman, representing Rishad Bathiudeen’s All Ceylon Makkal Congress (ACMC), Puttalam District MP Ali Sabri Raheem and Digamadulla District MP Attorney-at-Law S.M.M. Muszhaaraff convened a special press conference, a short while ago.
+
+During the press briefing, the three Muslim parliamentarians pledged to extend their support for the victory of President Wickremesinghe in the 2024 presidential election.
+
+...
+
+[Data](articles/a7eb17a3.json)
+
+---
+
+### Musharraf, Ishaq Rahman, who supports the presidential candidate Ranil, and Ali Sabri Rahim
 
 *2024-08-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191147) · `ta`
 
-ரிஷாத் பதியுதீனின் அகில இலங்கை மக்கள் காங்கிரஸ் எம்.பி.எஸ்.எம்.எம். முஷாரப், ஐக்கிய மக்கள் சக்தியின் எம்.பி.இஷாக் ரஹ்மான், முஸ்லிம் தேசியக் கூட்டணியின் எம்.பி.அலி சப்ரி ரஹிம் ஆகியோர் சுயேட்சை ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு தெரிவித்துள்ளனர்.
+Musharraf, Ishaq Rahman, and Ali Sabri Rahim, along with Rishad Bathiudeen's All Ceylon Peoples Congress MPs, have endorsed independent presidential candidate Ranil Wickremesinghe. They announced their support during a press conference at Bambalapitiya's political office.
 
-பம்பலபிட்டியில் அமைந்துள்ள  அரசியல் அலுவலகத்தில் சற்று முன்னர் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு அவர்கள்  ஜனாதிபதி வேட்பாளர் ரணில் விக்ரமசிங்கவுக்கு தமது ஆதரவை வெளிப்படுத்தினர்.
+🟩
+
+All Ceylon Peoples Congress MPSMM of Rishad Bathiudeen. Musharraf, United People's Power MP Ishaq Rahman and Muslim National Alliance MP Ali Sabri Rahim have supported Independent Presidential candidate Ranil Wickremesinghe.
+
+They participated in a press conference held a short while ago at the political office in Bambalapitiya and expressed their support to the presidential candidate Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/7f2f220d.json)
 
+[Extended Data](ext_articles/7f2f220d.ext.json)
+
 ---
 
-### தமிழ் பொது வேட்பாளரின் சின்னம் அறிவிப்பு
+### The symbol of the Tamil general candidate
 
 *2024-08-15 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191146) · `ta`
 
-நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் வடக்கு - கிழக்கை பிரதிநிதித்துவப்படுத்தி முன்னாள் பாராளுமன்ற உறுப்பினர் அரியநேத்திரன் போட்டியிடவுள்ளார்.
+Ariyanethran, a former MP, is the Tamil general candidate for the upcoming presidential election, backed by Tamil nationalist parties and civil groups. His nomination was recently confirmed.
 
-தமிழ் தேசியம் சார்ந்த கட்சிகள் மற்றும் சமூக மட்ட சிவில் அமைப்புகள் இணைந்து பொதுக்கட்டமைப்பு ஒன்றினை உருவாக்கி, இந்த பொது வேட்பாளரை களமிறக்குகின்றன.
+🟩
 
-அந்தவகையில், தமிழ் பொது வேட்பாளர் ப.அஅரியநேத்திரனின் நியமனப் பத்திரம் சற்றுமுன் ஏற்றுக் கொள்ளப்பட்டு விட்டதாக தமிழ் பொதுக் கட்டமைப்பு அறிவித்துள்ளது.
+Former parliamentarian Ariyanethran will contest the upcoming presidential election representing the North and East.
+
+Tamil nationalist parties and community level civil organizations are forming a public organization and fielding this common candidate.
+
+In that respect, the Tamil general structure has announced that the appointment of Tamil general candidate PA Ariyanethran has been accepted shortly before.
 
 ◼️
 
 [Data](articles/7cb18e8f.json)
 
+[Extended Data](ext_articles/7cb18e8f.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் போட்டியிட 39 பேர் தகுதி : தேர்தல்கள் ஆணைக்குழு
+### 39 eligible to contest presidential election: Elections Commission
 
 *2024-08-15 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191136) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கட்டுப்பணம் செலுத்திய 40 வேட்பாளர்களில் 39 பேர் இதுவரை தமது வேட்புமனுக்களை சமர்ப்பித்துள்ளதாகவும், அவர்கள் 39 பேரும் தேர்தலில் போட்டியிடத் தகுதிபெற்றுள்ளதாகவும் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்துள்ளார்.
+39 out of 40 potential presidential candidates for 2024 have submitted their nominations and are eligible to run, except for independent candidate Sarath Kumara Gunaratne, who didn't submit his papers. The Elections Commission Chairman urged fairness in campaigning, rejecting three objections on nominations, and advised against false portrayals online and excessive use of plastics in campaigns.
 
-இதேவேளை, சுயேட்சை வேட்பாளர் சரத் குமார குணரத்ன வேட்புமனு பத்திரத்தை சமர்பிக்கவில்லை எனவும் குறிப்பிட்டார்.
+🟩
 
-வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட பின்னர் இடம்பெற்ற ஊடக சந்திப்பின் போதே தேர்தல்கள் ஆணைக்குழுவின் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+The Chairman of the Elections Commission said that 39 of the 40 candidates who controlled the presidential election in 2024 have submitted their nominations and 39 are eligible to contest the election.
 
-வேட்பு மனுத்தாக்கல் நிறைவடைந்துள்ளது. அனைவருக்கும் நன்றி. நீதியான முறையில் தேர்தலை நடத்த வேட்பாளர்கள் ஒத்துழையுங்கள்.
+Meanwhile, Independent candidate Sarath Kumara Gunaratne said he did not submit the nomination papers.
 
-தாக்கல் செய்யப்பட்ட 39 வேட்பு மனுக்களில் 3 வேட்பு மனுக்கள் மீது முன்வைக்கப்பட்ட ஆட்சேபனைகள் மூன்றும் நிராகரிக்கப்பட்டுள்ளன.
+The Chairman of the Elections Commission said this during a media briefing held after the nominations were accepted.
 
-சமூக வலைத்தளங்கள் ஊடாக தவறான மற்றும் வெறுப்பூட்டும் சித்தரிப்புக்களுடனான பிரச்சாரங்களை மேற்கொள்வதை சிவில் பிரஜைகள் தவிர்த்துக்கொள்ள வேண்டும்.
+The nomination petition has been completed. Thank you for everyone. Cooperate with candidates to hold the election in a fair manner.
 
-ஒரு வேட்பாளருக்கு மாத்திரம் விசேட சலுகை வழங்கும் ஊடகங்கள் தொடர்பில் அவதானம் செலுத்தப்படும்.
+Of the 39 filed nominations, three objections on 3 nominations have been rejected.
 
-...
+Civil citizens must avoid campaigns with false and disgusting portrayals through social websites.
+
+Only a candidate will be given a special concession to the media.
+
+He added that candidates should consider environmental protection and avoid using polythene and plastic for election campaigns.
+
+◼️
 
 [Data](articles/9b0639a2.json)
+
+[Extended Data](ext_articles/9b0639a2.ext.json)
+
+---
+
+### ජනාධිපති රනිල්ට ලැබුණු ඡන්ද ලකුණ මෙන්න
+
+*2024-08-15 13:16:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-රනිල්ට-ලැබුණු-ඡන්ද-ලකුණ-මෙන්න/11-411390) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ස්වාධීන අපේක්ෂකයෙක් ලෙස ඉදිරිපත් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට හිමිවූ ඡන්ද ලකුණ ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව ජනාධිපතිවරයාට ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීම සඳහා “ගෑස් සිලින්ඩරය” ලකුණ මැතිවරණ කොමිෂන් සභාව විසින් ලබා දී ඇත.
+
+◼️
+
+[Data](articles/01970e4a.json)
 
 ---
 
@@ -146,15 +242,21 @@ The Election Commission has assigned the “Gas Cylinder” symbol to President 
 
 ---
 
-### சுயேட்சை வேட்பாளர் ரணிலின் தேர்தல் சின்னம் "கேஸ் சிலிண்டர்"
+### Ranil's election symbol "Gase Cylinder"
 
 *2024-08-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191143) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தேர்தல் சின்னமாக "கேஸ் சிலிண்டர்" சின்னத்தை தேர்தல்கள் ஆணைக்குழு வழங்கியுள்ளது.
+President Ranil Wickremesinghe, running independently in the upcoming presidential election, has been assigned the "Gas Cylinder" symbol by the Election Commission.
+
+🟩
+
+The Election Commission has given the "Gase cylinder" symbol to President Ranil Wickremesinghe, who is contesting as an independent candidate in the upcoming presidential election.
 
 ◼️
 
 [Data](articles/72f93120.json)
+
+[Extended Data](ext_articles/72f93120.ext.json)
 
 ---
 
@@ -222,35 +324,51 @@ The chips are available in three flavours, Cheese & Onion, Salted, and Hot N Spi
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-15 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191142) · `ta`
 
-இன்று வியாழக்கிழமை (ஆகஸ்ட் 15) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.5113 ரூபாவாகவும், விற்பனை விலை 303.7761 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar's buying rate was 294.5113 rupees and selling rate was 303.7761 rupees according to the Central Bank's latest update on August 15.
+
+🟩
+
+The US dollar purchasing price was 294.5113 rupees and the sales price were 303.7761 rupees based on a currency exchange rate released by the Central Bank on Thursday (August 15).
 
 ◼️
 
 [Data](articles/e84d9e26.json)
 
+[Extended Data](ext_articles/e84d9e26.ext.json)
+
 ---
 
-### கைதுசெய்த ரஸ்ய படையினரை மனிதாபிமான ரீதியில் நடத்துகின்றோம்  - அந்த நாட்டிடம் ஒப்படைப்பது குறித்து பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் - உக்ரைன்
+### We are conducting humanitarian soldiers arrested - we are in talks about handing over to that country - Ukraine
 
 *2024-08-15 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191139) · `ta`
 
-கடந்த வாரம் உக்ரைன் படையினர் கைப்பற்றிய ரஸ்யாவின் போர்கைதிகள் குறித்து ரஸ்ய அதிகாரிகளுடன் தொடர்புகொண்டுள்ளதாக மனித உரிமைகளிற்கான உக்ரைனின் நாடாளுமன்ற ஆணையாளர் டிமிட்ரோ லுபினெட்ஸ் தெரிவித்துள்ளார்.
+Ukraine's parliamentary commissioner, Dimitro Lupients, revealed that Ukrainian soldiers made contact with Russian forces last week, leading to the arrest of Russian soldiers. These prisoners are being held in a special camp while discussions proceed regarding their handover to the Russian government. The situation remains tense as Ukrainian soldiers continue operations within Russia, despite Russia declaring an emergency due to the incursion.
 
-நீங்கள் ரஸ்ய படையினர் சரணடைவதை பார்த்திருப்பீர்கள்என தெரிவித்திருப்பீர்கள் என குறிப்பிட்டுள்ள அவர் உக்ரைன் படையினர் ஜெனீவா சாசனத்தின் படி போர்கைதிகளை கையாள்வதை பார்த்திருப்பீர்கள்ரஸ்ய படையினரின் யுத்த கால உரிமைகளை உறுதி செய்வதை பார்த்திருப்பீர்கள் என தெரிவித்துள்ளார்.
+🟩
 
-கைதுசெய்யப்பட்ட ரஸ்ய படையினரை எவரும் சித்திரவதை செய்வதில்லைஎவரும் சுடுவதில்லைஆனால் ரஸ்ய படையினர் அதனை செய்கின்றனர் என அவர் தெரிவித்துள்ளார்.
+Ukraine's parliamentary commissioner Dimitro Lupients said that Ukrainian soldiers had contacted Russia's warriors last week.
 
-கைதுசெய்யப்பட்ட ரஸ்ய படையினரை விசேட முகாமிற்கு கொண்டு சென்றுள்ளோம்இ அவர்களை ரஸ்ய அரசாங்கத்திடம் ஒப்படைப்பது குறித்து பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் என அவர் தெரிவித்துள்ளார்.
+He said that you would have said that you would have seen the Russian soldiers surrender, he said, "You have seen that the Ukraine soldiers are dealing with warlords according to the Geneva Charter."
 
-ரஸ்யாவிற்குள் நுழைந்துள்ள உக்ரைன் படையினர் பல திசைகளில் தொடர்ந்தும் முன்னேறிவருகின்றனர் என உக்ரைன் தெரிவித்துள்ளது.
+He said that no one to torture the arrested Russian soldiers, but Russian soldiers are doing it.
+
+We have taken the arrested soldiers to a special camp and we are in talks about handing them over to the Russian government.
+
+Ukrainian soldiers who have entered Russia are continuing in many directions, Ukraine said.
+
+Russia has announced an emergency in the area following the seizure of some parts of the Ukrainian soldiers who carried out a Tetir attack on Russia's Carek region last week.
+
+The President of Ukraine said that his soldiers have jumped one more than a half kilometers in Garksky since Wednesday morning.
 
 ...
 
 [Data](articles/b11c84b3.json)
+
+[Extended Data](ext_articles/b11c84b3.ext.json)
 
 ---
 
@@ -2115,103 +2233,5 @@ Assuming that the 21 September Presidential election would be held as scheduled,
 [Data](articles/70260cc3.json)
 
 [Extended Data](ext_articles/70260cc3.ext.json)
-
----
-
-### Thailand prime minister
-
-*2024-08-15 01:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பிரதமர்-பதவி-நீக்கம்/50-342180) · `ta`
-
-Thailand's Prime Minister Srettha Thavisin was dismissed due to constitutional violations, including unethical practices like appointing a cabinet member based on improper grounds. This decision came a week after the dissolution of the Move Forward Party and a 10-year political ban on its leaders.
-
-🟩
-
-He has been sacked after a court ruled that Thailand Prime Minister Shreta Tavis had violated the constitution.
-
-Foreign reports say that the appointment of a cabinet member as a Cabinet member has been issued on the basis of violation of ethics.
-
-The verdict was announced a week later after the court dissolved the country's popular progressive Move Forward Party and ban its leaders from politics for 10 years.. (A)
-
-◼️
-
-[Data](articles/fec39d16.json)
-
-[Extended Data](ext_articles/fec39d16.ext.json)
-
----
-
-### Nagapattinam - Kankesanthurai Ship Traffic
-
-*2024-08-15 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191118) · `ta`
-
-The Nagapattinam-Kankesanthurai shipping service, initially halted due to storms and monsoons, resumes tomorrow after a successful test run.
-
-🟩
-
-The shipping service from Nagapattinam to Kankesanthurai will commence tomorrow (16).
-
-The shipping service from Nagapattinam in Tamil Nadu was launched on October 14 last year, due to the storm and the North and East monsoon, and the Azee was suspended on October 23.
-
-The 'Sivaganga' passenger ship's test drive was held on the 10th of last month, as the ship was announced to be resumed soon.. The 'Sivaganga' passenger ship, which departed from Nagapattinam at 8 am that day, arrived at Kankesanthurai at 12 noon.
-
-As the test run has been successfully completed, it has been officially announced that the shipping service for Nagapattinam to Kankesanthurai will be resumed from dayday.
-
-◼️
-
-[Data](articles/e3e18ec9.json)
-
-[Extended Data](ext_articles/e3e18ec9.ext.json)
-
----
-
-### Control of 40 people to contest presidential election - Elections Commission
-
-*2024-08-15 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191117) · `ta`
-
-The Elections Commission announced 22 candidates for the upcoming presidential election, including 4 individuals who registered as independent candidates or part of independent political parties during a 14-day registration period starting July 26. This includes notable figures like Ranil Wickremesinghe, Sarath Fonseka, and others representing various political fronts such as New Democratic Front, United People's Shakti, and more.
-
-🟩
-
-The Elections Commission has announced that there are 22 candidates to contest for the presidential election.
-
-Of the 41 candidates, only 35 candidates contested the 2019 presidential election. Only 35 candidates contested.
-
-The official announcement for the presidential election was announced on July 26. A 14-day period was granted to pay for the payment. During this period, 4 people have been controlled as an independent political party and an independent candidate.
-
-New Democratic Front - Osala Herath, Ceylon Workers Party - ASP Liyanage, United People's Shakti Sajith Premadasa, National Development Front - SK Pandaranaike, National Democratic Front - Vijayadasa Rajapaksa, United Socialist PartyUrumaya Party-Sarath Manamendra
-
-...
-
-[Data](articles/02506195.json)
-
-[Extended Data](ext_articles/02506195.ext.json)
-
----
-
-### 2024-08-14 (Wednesday)
-
-### Disruption of Assistant Teacher Appointment
-
-*2024-08-14 23:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191104) · `ta`
-
-Water Supply and Estate Infrastructure Minister Jeevan Thondaman announced that President Ranil Wickremesinghe has committed to resolving issues related to the appointment of plantation assistant teachers. He mentioned India's interest in assisting with infrastructure development for the Kotagala Teachers' Training College, aiming to transform it into a comprehensive university over five years. This initiative is part of broader efforts to enhance educational opportunities in the region, addressing concerns raised by former Minister Arumugan Thondaman about disruptions in appointments due to selfish interests. The government has allocated funds and sought Indian support for this project, which includes upgrading facilities and curriculum approval from the University Grants Commission.
-
-🟩
-
-Plantation Assistant Teacher Appointment. Water Supply and Estate Infrastructure Minister Jeevan Thondaman said that President Ranil Wickremesinghe has promised to provide a solution to the next Cabinet.
-
-Minister Jeevan Thondaman added that India has requested India to assist in infrastructure to make the Kotagala Teachers' Training College and create a complete university there for a 5 -year plan.
-
-He further stated at a press conference held at President Ranil Wickremesinghe's Political Office at Loris Road, Bambalapitiya on Wednesday (14).
-
-Former Minister Arumugan Thondaman has taken steps to appoint the Plantation Assistant Editor, but it was disrupted by the same person.. Such action is carried out because of selfishness.
-
-But every occasion cannot be accommodated. I have discussed this with President Ranil Wickremesinghe and Education Minister Susil Premjayantha. The appointment of graduates in the hill country is also a problem.
-
-...
-
-[Data](articles/1b585620.json)
-
-[Extended Data](ext_articles/1b585620.ext.json)
 
 ---

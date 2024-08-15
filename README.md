@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 01:55:26**
+As of **2024-08-16 02:06:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,962 (100.0%) of 40,963 articles have been extended.
+40,963 (100.0%) of 40,963 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,27 @@ Scientists are worried about the speed of spreading the new variant of the virus
 
 ### 2024-08-15 (Thursday)
 
-### கீதாவுக்கு கோபம்
+### Anger for Geeta
 
 *2024-08-15 23:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீதாவுக்கு-கோபம்/175-342254) · `ta`
 
-ஜனாதிபதித் தேர்தலில் எத்தனை வேட்பாளர்கள் போட்டியிட்டாலும் பெண்களின் பிரதிநிதித்துவம் வழங்கப்படாமை மிகவும் வருத்தமளிக்கும் விடயம் என சிறுவர் மற்றும் மகளிர் விவகார அமைச்சர் திருமதி கீதா குமாரசிங்க தெரிவித்தார்.
+Mrs. Geeta Kumarasinghe, Child and Women's Affairs Minister, expressed disappointment over low female representation in Sri Lanka's presidential election, highlighting that despite claims of gender equality, women's representation remains under 6% in parliament. She urged political leaders to prioritize women's rights, criticizing the lack of female candidates in the recent elections as insufficient.
 
-கொழும்பில் வியாழக்கிழமை (15)  இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கருத்துரைத்த போதே இராஜாங்க அமைச்சர் கீதா குமாரசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் கூட பெண்களுக்கு உரிய இடமும் சமமான இடமும் வழங்கப்பட வேண்டும் என கட்சித் தலைவர்கள் பெருமையுடன் கூறினாலும் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் 6 சதவீதத்திற்கும் குறைவாகவே காணப்படுவதாக இராஜாங்க அமைச்சர் தெரிவித்தார்.
+Child and Women's Affairs Minister Mrs. Geeta Kumarasinghe said that no matter how many candidates contested the presidential election, it is very sad that women's representation is very sad.
 
-ஒரு நாட்டில் பெண் உரிமைகள் தொடர்பில் அனைத்து கட்சித் தலைவர்களும் அதிக அக்கறை காட்ட வேண்டும் என தெரிவித்த இராஜாங்க அமைச்சர், இம்முறை பெண் பிரதிநிதித்துவம் இல்லாத ஜனாதிபதி வேட்பாளர் பட்டியல் துடுப்பு இல்லாத படகு போன்றது எனவும் தெரிவித்தார்.
+State Minister Geeta Kumarasinghe said this while addressing a special media briefing held in Colombo on Thursday (15).
+
+The Minister of State said that even in parliament, the party's representation in parliament is less than 6 per cent, though party leaders proudly claim that women should be given a place and equal place.
+
+The diplomatic minister said that all party leaders should be more concerned about women's rights in a country, and that this time the list of presidential candidates who are not represented is like a paddle boat.
 
 ◼️
 
 [Data](articles/dcd31849.json)
+
+[Extended Data](ext_articles/dcd31849.ext.json)
 
 ---
 

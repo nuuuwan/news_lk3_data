@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 00:21:08**
+As of **2024-08-16 00:36:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,959 (100.0%) of 40,961 articles have been extended.
+40,961 (100.0%) of 40,961 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -528,6 +528,8 @@ CEB revenues fell 16.5 percent to 146.6 billion rupees in the June quarter, cost
 
 [Data](articles/7073bd18.json)
 
+[Extended Data](ext_articles/7073bd18.ext.json)
+
 ---
 
 ### Sri Lankan diplomat ordered to pay over $500,000 in unpaid wages to domestic worker
@@ -569,6 +571,8 @@ These Sri Lankans traveled to Myanmar seeking foreign employment using tourist v
 ...
 
 [Data](articles/409f2d51.json)
+
+[Extended Data](ext_articles/409f2d51.ext.json)
 
 ---
 

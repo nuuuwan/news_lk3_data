@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 22:09:56**
+As of **2024-08-15 22:21:04**
 
 ## Newspaper Stats
 
-*Scraped **40,955** Articles*
+*Scraped **40,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,102 @@ economynextcom | 2,488
 dailyftlk | 2,646
 adalk | 3,772
 dailymirrorlk | 4,733
-adaderanalk | 4,781
+adaderanalk | 4,783
 tamilmirrorlk | 5,233
 virakesarilk | 6,489
-adaderanasinhalalk | 6,968
+adaderanasinhalalk | 6,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,954 (100.0%) of 40,955 articles have been extended.
+40,955 (100.0%) of 40,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ස්වීඩනයෙන් මංකිපොක්ස් රෝගියෙක් හමුවෙයි
+### 2036 ඔලිම්පික් සත්කාරකත්ව සටනට ඉන්දියාවත්
+
+*2024-08-15 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199981) · `si`
+
+2036 වසරේ ඔලිම්පික් උළෙලේ සත්කාරකත්වය ලබාගැනීම ඉන්දියාවේ සිහිනය බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි පවසා සිටියේය.
+
+ඉන්දියාවේ 78වැනි නිදහස් දින සැමරුම වෙනුවෙන් නවදිල්ලිහි රතු බල කොටුවේ අද (15) පැවැති උත්සවයේදී හෙතෙම එය හෙළිකළේය.
+
+“2036 ඔලිම්පික් උළෙල පැවැත්වීම ඉන්දියාවේ සිහිනය, අපි ඒ සඳහා සූදානම් වෙමින් සිටිනවා" මෝදි පැවසීය.
+
+හෙතෙම මෙහිදී වැඩිදුරටත් අනාවරණය කර සිටියේ, මහා පරිමාණ ගෝලීය ඉසව් සඳහා සත්කාරකත්වය ලබාදීමේ හැකියාව ඉන්දියාවට ඇති බවයි.
+
+ඒ අනුව විදෙස් මාධ්‍ය වැඩිදුරටත් අනාවරණය කර සිටින්නේ, ඉන්දියාවට 2036 ඔලිම්පික් උළෙලේ සත්කාරක්තවය ලැබුණහොත් සත්කාරක නගරය ලෙසින් අහමදාබාද් නම් කරනු ඇති බවයි.
+
+අහමදාබාද් යනු ඉන්දීය අග්‍රමාත්‍යවරයාගේ දේශපාලනයේ බල කඳවුර ලෙසින් සැලකෙන ගුජරාට් ප්‍රාන්තයේ විශාලම නගරයයි.
+
+ඉන්දියාව මීට පෙර ඉතිහාසයේ කිසිඳු දිනක ඔලිම්පික් උළෙලකට සත්කාරකත්වය ලබාදී නොමැති අතර, ඔවුන් අවසන් වරට බහු ක්‍රීඩා උළෙලකට සත්කාරකත්වය ලබා දී ඇත්තේ 2010 වසරේ දිල්ලිහි පැවති පොදුරාජ්‍ය මණ්ඩලීය ක්‍රීඩා උළෙලටයි.
+
+එමෙන්ම ඔවුන් වසර 42කින් (1982 වසරේදී) ආසියානු ක්‍රීඩා උළෙලකට හෝ සත්කාරකත්වය ලබා දී නොමැත.
+
+...
+
+[Data](articles/0ae396af.json)
+
+---
+
+### Sweden confirms first case of Mpox
+
+*2024-08-15 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101271/sweden-confirms-first-case-of-mpox) · `en`
+
+Sweden said on Thursday it had confirmed a first case of mpox, a viral infection that spreads through close contact.
+
+Earlier on Thursday, the World Health Organization declared mpox a global public health emergency for the second time in two years, following an outbreak in Democratic Republic of Congo that has spread to other countries.
+
+“We have now also during the afternoon had confirmation that we have one case in Sweden of the more grave type of mpox, the one called Clade I,” Health and Social Affairs Minister Jakob Forssmed told a news conference.
+
+◼️
+
+[Data](articles/47339694.json)
+
+---
+
+### Missing a mankix in Sweden
 
 *2024-08-15 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199980) · `si`
 
-අප්‍රිකානු මහද්වීපයෙන් පිටත වාර්තා වූ ප්‍රථම මංකිපොක්ස් රෝගියා ස්වීඩනයෙන් වාර්තාවී තිබේ.
+The first case of "mankix," a rapidly spreading disease similar to "pimpodies," has been reported outside Africa in Sweden. This outbreak has prompted the World Health Organization to take notice due to its potential public health implications. In Congo, the disease has caused significant concern, with nearly 14,000 infections and over 450 deaths. Symptoms include fever and skin lesions, and it spreads through close contact or respiratory droplets.
 
-ජාත්‍යන්තර මාධ්‍ය පවසන්නේ එම ප්‍රභේදය වේගයෙන් ව්‍යප්ත වන ප්‍රභේදයක් බවට හඳුනාගෙන ඇති බවය.
+🟩
 
-අප්‍රිකානු මහාද්වීපයේ ප්‍රදේශ කිහිපයක පැතිරයන 'එම්පොක්ස්' හෙවත් 'මංකිපොක්ස්' වසංගතය ලොව අවධානයට ලක්විය යුතු මහජන සෞඛ්‍ය හදිසි තත්ත්වයක් ලෙස ලෝක සෞඛ්‍ය සංවිධානය ද දැනුම්දී තිබුණි.
+The first milkx patient recorded outside the African continent is reported from Sweden.
 
-කොංගෝ හි එම රෝගය වැළඳී පුද්ගලයින් 450ක් පමණ ජීවිතක්ෂයට පත්විය. ආසාදිත වූ ගණන 14,000කට ආසන්නය.
+International media states that the variety has been identified as a rapid variety.
 
-'එම්පොක්ස්' ආසාදනය වන්නේ ලිංගික සබඳතා සහ වෙනත් සමීප සබඳතා ඔස්සේ සහ ආසාදිතයෙක් සමග කතාකරන විට හෝ එවැනි පුද්ගලයෙක් ආසන්නයේ සිට හුස්ම ගන්නා විටදී බව ලෝක සෞඛ්‍ය සංවිධානය පැවසීය.
+The World Health Organization has also been informed as a public health, whether 'pimpodies', or 'mankix' in several areas on the African continent.
 
-එහි මූලික රෝග ලක්ෂණ ලෙස උණ ඇතිවීම, සමෙහි තුවාල මතුවීම ලෙස දැක්වෙයි. සෑම ආසාදිතයින් 100කින් 4 දෙනෙක් පමණ මරණයට පත්වීමට ඉඩ ඇති බව සඳහන් ය.
+About 450 people died in Congo. The number of infected is close to 14,000.
+
+"Emphox infects with sexual relations and other close relationships and breathing from such a person when it comes to such a person.
+
+Fever as the basic symptoms of fever are shown as the emergence of skin injuries. It is said that about 4 in every 100 infections may be killed.
 
 ◼️
 
 [Data](articles/75f382fe.json)
+
+[Extended Data](ext_articles/75f382fe.ext.json)
+
+---
+
+### Obtaining passports after paying money is people’s right, SOC tells Immigration Dept.
+
+*2024-08-15 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101270/obtaining-passports-after-paying-money-is-peoples-right-soc-tells-immigration-dept) · `en`
+
+The Chairman of the Sectoral Oversight Committee on Open and Accountable Government, Member of Parliament Jagath Kumara Sumitraarachchi, recently informed the Controller General of Immigration and Emigration to take immediate action to issue passports in a way that does not inconvenience the public.
+
+This was discussed when the Department of Immigration and Emigration was summoned to the Sectoral Oversight Committee on An Open and Accountable Government to consider the new "Immigration" Bill, the Parliamentary Communications Department said in a statement.
+
+...
+
+[Data](articles/3171374f.json)
 
 ---
 
@@ -2229,73 +2291,5 @@ It is noteworthy that the filing of nominations began at 9 am.
 [Data](articles/77f88756.json)
 
 [Extended Data](ext_articles/77f88756.ext.json)
-
----
-
-### Three -wheeler
-
-*2024-08-15 11:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-சாரதி-மீது-துப்பாக்கிச்-சூடு/175-342210) · `ta`
-
-In Hikkaduwa, two masked men on a motorcycle attempted to shoot a three-wheeler driver with a T-56 rifle but missed. The driver escaped, leaving behind a bullet at the scene. Police are investigating.
-
-🟩
-
-An incident that failed to shoot a three -wheeler driver was reported yesterday (14th) in the Hikkaduwa area.
-
-Police say two unidentified men on a motorcycle with a T-56 rifle have tried to shoot the three-wheeler driver.
-
-However, the driver has fled the scene after the clash between the driver and the attackers has fallen and the gunmen have left the area.
-
-A T-56 rifle bullet has been found at the scene of the incident as the Hikkaduwa police are investigating the incident.
-
-◼️
-
-[Data](articles/a20ee171.json)
-
-[Extended Data](ext_articles/a20ee171.ext.json)
-
----
-
-### 2024 Presidential Poll: Accepting nominations concludes
-
-*2024-08-15 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101254/2024-presidential-poll-accepting-nominations-concludes-) · `en`
-
-The accepting of nominations for the upcoming Presidential Election concluded at 11.00 a.m. today (15) at the Election Secretariat in Rajagiriya.
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake announced that a total of 39 out of 40 candidates who have placed bonds to contest the 2024 Presidential Election have submitted their nominations.
-
-The written objections for the nominations can be submitted until 11.30 a.m. today, he said.
-
-The nominations were accepted from 9.00 a.m. to 11 a.m. on Thursday, with the filing of objections permitted between 9.00 a.m. and 11:30 a.m. The allocation of election symbols for candidates from other parties is scheduled following the objection period.
-
-The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election concluded at 12 noon on Wednesday (14), while 40 individuals in total have placed deposits to contest the upcoming presidential election.
-
-...
-
-[Data](articles/25718a7d.json)
-
-[Extended Data](ext_articles/25718a7d.ext.json)
-
----
-
-### Nomination submission is over
-
-*2024-08-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199964) · `si`
-
-Nominations for the 2024 presidential election closed today after opening at 9 am and concluding at 11 am. The Electoral Commission confirmed that all but one candidate have been cleared to run.
-
-🟩
-
-2024 Accepting nominations for the presidential election was accepted at the Elections Secretariat in Rajagiriya today (15).
-
-The Electoral Commission said that 39 of the 40 candidates were bail.
-
-Nominations were opened at 9 am and the work was completed at 11 am.
-
-◼️
-
-[Data](articles/d00003f8.json)
-
-[Extended Data](ext_articles/d00003f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 13:06:32**
+As of **2024-08-15 13:21:09**
 
 ## Newspaper Stats
 
-*Scraped **40,869** Articles*
+*Scraped **40,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ newsfirstlk | 363
 bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
-economynextcom | 2,478
+economynextcom | 2,480
 dailyftlk | 2,638
 adalk | 3,760
 dailymirrorlk | 4,733
 adaderanalk | 4,772
 tamilmirrorlk | 5,217
 virakesarilk | 6,473
-adaderanasinhalalk | 6,954
+adaderanasinhalalk | 6,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,867 (100.0%) of 40,869 articles have been extended.
+40,869 (100.0%) of 40,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### ජනපති ගෑස් සිලින්ඩරයෙන් තරගබිමට
+
+*2024-08-15 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199966) · `si`
+
+2024 ජනාධිපතිවරණයේ ස්වාධීන අපේක්ෂකයෙක් ලෙස ඉදිරිපත් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඡන්ද සලකුණ ලෙස ගෑස් සිලින්ඩරය ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/542cb80f.json)
+
+---
+
+### Sri Lanka’s Uswatte Confectionary resumes potato snack
+
+*2024-08-15 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-uswatte-confectionary-resumes-potato-snack-176865/) · `en`
+
+ECONOMYNEXT – Sri Lanka confectioner Uswatte said it had resumed producing a potato chip snack after it had to be stopped due to a curb on potato imports by the government.
+
+“Potato Chips are king among all categories of snack food around the world, and we are more than happy to be able to bring this beloved brand of potato chip back to Sri Lanka,” Chairman of Uswatte Confectionery Works Pvt Ltd Quintus Perera said.
+
+“The reintroduction of the Chirpy Chip brand, provides us with an opportunity to create a premium potato chip brand, that meets international standards.”
+
+Chirpy Chips were first introduced into the market in 1994 but were discontinued due to government polices at the time, that placed restriction on the import of high-quality potatoes to the country, the company said.
+
+The chips are available in three flavours, Cheese & Onion, Salted, and Hot N Spicy, and come in packs of 16g at 70 rupees, 24g at 100 rupees, 50g at 200 rupees and 73g at 300 rupees.
+
+...
+
+[Data](articles/326321c2.json)
+
+---
 
 ### EC accepts nominations of all 39 presidential candidates
 
@@ -71,6 +103,24 @@ Accordingly, 39 candidates were eligible for the presidential election.
 [Data](articles/38b51748.json)
 
 [Extended Data](ext_articles/38b51748.ext.json)
+
+---
+
+### Sri Lanka Presidential poll gets 39 nominations
+
+*2024-08-15 12:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-poll-gets-39-nominations-176862/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Elections Commission said it had accepted 39 nominations from candidates for the upcoming Presidential poll.
+
+Nominations were filed by 22 recognized parties, one other party and 16 persons nominated by electors, Elections Commission Chairman R M A L  Rathnayake said, Thursday.
+
+Objections made in regards to Janaka Kumara Ratnayake was rejected by the Commission Chairman R M A L  Rathnayake said, Thursday.
+
+Up to August 14,  40 persons had made deposits. (Colombo/Aug15/2024)
+
+◼️
+
+[Data](articles/3d9776f2.json)
 
 ---
 
@@ -130,17 +180,23 @@ President Ranil Wickremesinghe then left the hall at 11.35 am. At the time, Oppo
 
 ---
 
-### අපේක්ෂකයන් 39 දෙනෙකු නාමයෝජන භාරදෙයි
+### 39 candidates handed over nominations
 
 *2024-08-15 11:38:47* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-39-දෙනෙකු-නාමයෝජන-භාරදෙයි/11-411385) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 39 දෙනෙකු නාමයෝජනා භාර දී තිබේ.
+All 39 presidential election candidates submitted their nominations between March 15th and 11 am today.
 
-නාමයෝජනා භාරගැනීම අද (15දා) පෙරවරු 09ට ආරම්භ වූ අතර, පෙරවරු 11ට අවසන් විය.
+🟩
+
+39 candidates have handed over nominations for the Presidential Election 2024.
+
+Nominations commenced today (15th) and ended at 11 am today.
 
 ◼️
 
 [Data](articles/d2ee0902.json)
+
+[Extended Data](ext_articles/d2ee0902.ext.json)
 
 ---
 
@@ -236,15 +292,21 @@ The injured have been admitted to the Anuradhapura Teaching Hospital and the dri
 
 ---
 
-### රිෂාඩ්ගේ පක්ෂයේ සහාය සජිත්ට
+### Sajith to support Rishad's party
 
 *2024-08-15 11:14:43* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-සහාය-සජිත්ට/11-411384) · `si`
 
-හිටපු අමාත්‍ය,  පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බද්යුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසයේ සහාය විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ලබාදිමට තීරණය කර තිබේ. එම පක්ෂයේ උත්තරිතර මණ්ඩලය ඊයේ (14දා) රැස්වී මෙම තීරනය ගෙන තිබේ.
+Opposition Leader Sajith Premadasa will support Rishad Bathiudeen's All Ceylon Public Congress after a party meeting.
+
+🟩
+
+Opposition Leader Sajith Premadasa has decided to hand over the All Ceylon Public Congress, led by former Minister Rishad Bathiudeen. The decision of the party was meeting yesterday (14).
 
 ◼️
 
 [Data](articles/139e64ca.json)
+
+[Extended Data](ext_articles/139e64ca.ext.json)
 
 ---
 
@@ -2189,63 +2251,5 @@ The party should be named as a national listing MP in the 2020 General Elections
 [Data](articles/2af74ee0.json)
 
 [Extended Data](ext_articles/2af74ee0.ext.json)
-
----
-
-### Rishad’s ACMC to support Sajith in presidential poll
-
-*2024-08-14 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101244/rishads-acmc-to-support-sajith-in-presidential-poll) · `en`
-
-Leader of the All Ceylon Makkal Congress (ACMC) MP Rishad Bathiudeen has pledged his party’s support to the opposition leader and Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa at the upcoming Presidential Election.
-
-On August 07, Rishad Bathiudeen’s ACMC had said it would announce the candidate the party will support in the upcoming presidential election on August 14.
-
-The leader of the ACMC, former minister Bathiudeen, stated that this decision was taken during the party’s Supreme Council meeting on August 6.
-
-He had stated that since the ACMC is still in the ‘Samagi Jana Sandanaya’, they would continue participate in the alliance’s meetings.
-
-He had also stated that both the SJB and President Ranil Wickremesinghe had requested the ACMC for support ahead of the presidential poll.
-
-◼️
-
-[Data](articles/0b793712.json)
-
-[Extended Data](ext_articles/0b793712.ext.json)
-
----
-
-### Risad's party supports Sajith
-
-*2024-08-14 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191113) · `ta`
-
-Rishad Bathiudeen's party, the All Ceylon Peoples Congress, backs Sajith Premadasa for president in the upcoming election.
-
-🟩
-
-The All Ceylon Peoples Congress, led by Rishad Bathiudeen, has decided to support Sajith Premadasa in the upcoming presidential election.
-
-◼️
-
-[Data](articles/9566b852.json)
-
-[Extended Data](ext_articles/9566b852.ext.json)
-
----
-
-### Bandarigoda’s name gazetted to fill Manusha’s seat in Parliament
-
-*2024-08-14 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101243/bandarigodas-name-gazetted-to-fill-manushas-seat-in-parliament) · `en`
-
-The Election Commission has gazetted Samagi Jana Balawegaya (SJB) member Bandula Lal Bandarigoda’s name to fill the parliamentary vacancy created by the recent removal of Galle District MP Manusha Nanayakkara.
-
-The Acting General Secretary of the Parliament Chaminda Kularatne had informed the Chairman of the Election Commission in writing on August 12 that two Parliamentary seats in the Ninth Parliament have become vacant from the 09 August 2024 due to the cancellation of the parliamentary seats of Manusha Nanayakkara and Harin Fernando.
-
-On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya’s (SJB) decision to expel Galle District Member of Parliament Manusha Nanayakkara and the National List Member of Parliament Harin Fernando from the party is legally valid. As a result, the two Parliamentary seats became vacant.
-
-...
-
-[Data](articles/17820cbc.json)
-
-[Extended Data](ext_articles/17820cbc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 21:21:21**
+As of **2024-08-15 21:36:38**
 
 ## Newspaper Stats
 
-*Scraped **40,949** Articles*
+*Scraped **40,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 4,781
 tamilmirrorlk | 5,233
 virakesarilk | 6,487
-adaderanasinhalalk | 6,965
+adaderanasinhalalk | 6,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,948 (100.0%) of 40,949 articles have been extended.
+40,949 (100.0%) of 40,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,22 @@ The High Representative of the Union for Foreign Affairs and Security Policy and
 ...
 
 [Data](articles/9573b5fe.json)
+
+[Extended Data](ext_articles/9573b5fe.ext.json)
+
+---
+
+### අපේක්ෂකයින්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව ට විශේෂ කමිටුවක්
+
+*2024-08-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199977) · `si`
+
+ජනාධිපතිවරණ සමයේ අපේක්ෂකයින්ගේ සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව සඳහා විශේෂ කමිටුවක් පත් කර ඇති බව පොලීසිය පවසයි.
+
+වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති රුවන් ගුණසේකර මහතා පැවසුවේ බුද්ධි තොරතුරු මත එක් එක් අපේක්ෂකයාට ලබා දෙන ආරක්ෂාව පිළිබඳව තීරණය කරන බවය.
+
+...
+
+[Data](articles/0f39edfa.json)
 
 ---
 
@@ -2257,29 +2273,5 @@ Mpox can spread through close contact. Usually mild, it is fatal in rare cases. 
 [Data](articles/cf46c870.json)
 
 [Extended Data](ext_articles/cf46c870.ext.json)
-
----
-
-### Two arrested with ice drug
-
-*2024-08-15 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199963) · `si`
-
-In Orugodawatta, two suspects aged 35-53 were arrested during a raid, thanks to a tip-off. They were found with 12 ice narcotics and 720mg, along with Rs. 98,700 from drug sales.
-
-🟩
-
-Two raids were taken into custody in the Orugodawatta area on a tip off received by the Colombo Crimes Division.
-
-Two suspects have been arrested in the raid and the suspects were taken into custody with 12 ice narcotics and 720 milligrams.
-
-One of the suspects were found in the possession of Rs. 98,700 / - from the money that sold drugs.
-
-The suspects were residents of Orugodawatta, who was aged between 35 and 53 years.
-
-◼️
-
-[Data](articles/6fdb4269.json)
-
-[Extended Data](ext_articles/6fdb4269.ext.json)
 
 ---

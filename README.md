@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 07:48:21**
+As of **2024-08-15 08:15:04**
 
 ## Newspaper Stats
 
-*Scraped **40,811** Articles*
+*Scraped **40,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,637
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
-tamilmirrorlk | 5,201
+tamilmirrorlk | 5,202
 virakesarilk | 6,465
 adaderanasinhalalk | 6,946
 
@@ -26,67 +26,85 @@ adaderanasinhalalk | 6,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,808 (100.0%) of 40,811 articles have been extended.
+40,811 (100.0%) of 40,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ජලභීතිකා රෝගයෙන් පුද්ගලයින් 11ක් මරුට
+### 11 killed in rabies
 
 *2024-08-15 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199957) · `si`
 
-ජලභීතිකාව හේතුවෙන් මේ වසරේ ගත වු කාලය තුළ පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව වසංගත රෝග විද්‍යායතනය පවසයි.
+This year, 11 people have died from rabies in Sri Lanka, according to epidemiological reports. Community health specialist Dr. Athula Liyanapathirana attributes these deaths to a lack of awareness about rabies. Despite efforts to reduce deaths last year, the number of fatalities has increased this year. To combat this, 300 government hospitals in Sri Lanka will receive anti-rabies vaccines, which are also available at private hospitals. Dr. Liyanapathirana emphasizes the importance of vaccination after being bitten by an animal suspected of having rabies, as the virus can enter the body through bites, scratches, or even contact with mucous membranes. Symptoms typically appear within three months.
 
-එහි ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය අතුල ලියනපතිරණ මහතා සඳහන් කළේ, ජලභීතිකාව පිළිබඳ ජනතාවගේ නොදැනුවත්භාවය හේතුවෙන් මෙලෙස මරණ වාර්තා වන බවය.
+🟩
 
-"දැනුවත්කම මදභාවය නිසාම තමා ජලභීතිකාව නිසා සිදුවන මරණ සිදුවෙන්නේ. ගිය අවුරුද්ද වෙනකොට අපිට ඊට කලින් අවුරුද්දට වැඩිය මරණ සංඛ්‍යාව භාගයකට අඩුකරගන්න පුළුවන් වෙලා තියෙනවා. නමුත් මේ අවුරුද්දේ දැනටමත් මරණ 11ක් විතර වාර්තා වෙනවා. මේ සියලුම මරණ සිදුවෙලා තියෙන්නේ අපි දෙන ප්‍රතිකාර නිසිලෙස සිදුනොකිරීම නිසයි. ලංකාවේ දැනට රජයේ රෝහල් 300ක විතර ඇන්ටි රේබීස් වැක්සින් එක ලබාදෙනවා. වඩා උග්‍ර සපාකෑමට ලක්වූ අවස්ථාවක ඊට අදාළ එන්නතත් රෝහල් 100ක පමණ ලබාදෙනවා. මේක නොමිලේ ලබාදෙන්නේ. අපි කළ යුත්තේ සපා කෑමකට ලක්වුවහොත් වහාම වෛද්‍ය ප්‍රතිකාර සඳහා යොමුවීමයි."
+Epidemiological Electrical states that 11 persons have died in rabies this year.
 
-ජලභීතිකාව බෝවීම සම්බන්ධයෙන් ද විශේෂඥ වෛද්‍ය අතුල ලියනපතිරණ මහතා මෙලෙස අදහස් පළ කළේය.
+Its community health specialist Dr. Athula Liyanapathirana stated that deaths are reported due to ignorance of rabies.
+
+"Awareness is caused by lack of rabies caused by rabies. Last year, we have been able to reduce the number of deaths over half of the year. However, it is already reported that 11 deaths reported this year. All these deaths are due to the treatment of our treatment. About 300 government hospitals in Sri Lanka will be given an anti Rabiis Vackin. Apparently, the insection hospitals are given at around 100 in times of exciting. This is free. If we have to do is resort to medical treatment, if we do. "
+
+Specialist Dr. Athula Liyanapathirana expressed these views regarding rabies contagious.
 
 ...
 
 [Data](articles/ff1a8e93.json)
 
+[Extended Data](ext_articles/ff1a8e93.ext.json)
+
 ---
 
-### ඝාතන සැකකරුවන් දෙදෙනෙක් කොටු
+### Two suspects were boxes
 
 *2024-08-15 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199956) · `si`
 
-තියුණු ආයුධවලින් පහර දී පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් වූ සිද්ධියකට අදාළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects, aged 34 from Udumulla and Watareka, were arrested for a murder committed with sharp weapons on June 6th. The crime involved two motorbikes, which were seized by the Hanwella Police for further investigation.
 
-හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේ දී පසුගිය 06 වැනිදා මෙම ඝාතනය සිදුව තිබුණි.
+🟩
 
-බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් අපරාධය සම්බන්ධයෙන් සිදුකළ විමර්ශනයකින් අනතුරුව මීට අදාළ සැකකරුවන් දෙදෙනෙකු පාදුක්ක ගාලබැදිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested in connection with the murder of a person with sharp weapons.
 
-සැකකරුවන් අවුරුදු 34ක් වසසැති උඩුමුල්ල හා වටරැක ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+The murder had taken place on the 6th of this month on the 6th of this month.
 
-අපරාධය සඳහා යොදාගත් යතුරුපැදි 02ක් ද පොලීසිය විසින් සොයාගෙන ඇති අතර සිද්ධිය සම්බන්ධව හංවැල්ල පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+The officers of the Western Province South Criminal Division have been arrested by the officials of the Criminal Division in Padukka Parkhana.
+
+The suspects are residents of Udumulla and Watareka areas, aged 34 years.
+
+The police also recovered 02 motorbikes used for the crime and the Hanwella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5d54c46c.json)
 
+[Extended Data](ext_articles/5d54c46c.ext.json)
+
 ---
 
-### පෙරහැර මංගල්‍යයේ පළමු රන්දෝලි පෙරහැර අද
+### The first Randoli Perahera of the Perahera Festival today
 
 *2024-08-15 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199955) · `si`
 
-ඓතිහාසික මහනුවර ඇසළ පෙරහැර මංගල්‍යයේ පළමු රන්දෝලි පෙරහැර අද (15) වීදි සංචාරය කිරීමට නියමිතව තිබේ.
+The first Randoli Perahera of the Kandy Esala Perahera, a historic festival, will parade through the streets today after commissioning the paddy fields from the 10th. It will visit the Pradeep Nilame and Diyawadana Nilame of the Sri Dalada Maligawa. Additionally, the National Shuran Center of Maradamadu Deva Madha holds its annual festival this morning, featuring the Most Venerable Emanuel Fernando.
 
-මෙවර ඇසළ පෙරහැර මංගල්‍යයේ කුඹල් පෙරහැර පසුගිය 10 වැනිදා සිට ඊයේ (14) දිනය දක්වා වීදි සංචාරය කෙරුණි.
+🟩
 
-අද දිනයේ සිට රන්දෝලී පෙරහැර වීදී සංචාරය සිදුකෙරෙන අතර අවසන් රන්දෝලී පෙරහැර 19 වන දින රාත්‍රී වීදි සංචාරය කිරීමට නියමිත බව ශ්‍රී දළදා මාළිගාවේ ප්‍රධාන දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා සඳහන් කළේය.
+The first Randoli Perahera of the historic Kandy Esala Perahera is due to visit the streets today.
 
-මේ අතර මරදමඩු දේව මාතාවන්ගේ ජාතික සිද්ධස්ථානයේ වාර්ෂික මහා මංගල්‍යය අද උදෑසන පැවැත්වීමට නියමිතව තිබේ.
+This year's Esala Perahera commissioned the paddy fields from the 10th to the streets yesterday.
 
-මන්නාරම රදගුරු අති උතුම් එමානුවෙල් ප්‍රනාන්දු හිමිපාණන්ගේ ප්‍රධානත්වයෙන් හලාවත රදගුරු අති උතුම් විමල්සිරි ජයසූරිය හිමිපාණන්ගේ සහභාගීත්වයෙන් මෙවර මරදමඩු වාර්ෂික මංගල්‍යය දිව්‍ය පුජාව පැවැත්වීමට නියමිතය.
+The Randoli Perahera from today will visit the Pradeep Nilame of the Sri Dalada Maligawa, Diyawadana Nilame of the Sri Dalada Maligawa.
+
+Meanwhile, the annual Festival of the National Shuran Center of Maradamadu Deva Madha will be held this morning.
+
+The Maradamadu Annual Festival will hold the Divine annual feast this year with the participation of the Most Venerable Emanuel Fernando.
 
 ◼️
 
 [Data](articles/e36df948.json)
+
+[Extended Data](ext_articles/e36df948.ext.json)
 
 ---
 
@@ -395,6 +413,24 @@ The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and
 [Data](articles/f97d3abc.json)
 
 [Extended Data](ext_articles/f97d3abc.ext.json)
+
+---
+
+### தமிழக மீனவர்கள் மீது தாக்குதல்
+
+*2024-08-15 02:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மீது-தாக்குதல்/175-342182) · `ta`
+
+வேதாரண்யம் மீனவர்கள் நால்வரை இலங்கையை சேர்ந்த தமிழ் மீனவர்கள் கடுமையாகத் தாக்கி விரட்டி அடித்துள்ள சம்பவம் தமிழக மீனவர்கள் மத்தியில் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+கோடியக்கரைக்கு கிழக்கே 15 கடல்மைல் தொலைவில் நான்கு மீனவர்கள் மீன் பிடித்துக்கொண்டிருந்தபோது இரவு 10.30 மணியளவில் இரண்டு படகுகளில் அங்கு சென்ற இலங்கையைச் சேர்ந்த தமிழ் பேசத் தெரிந்த 6 நபர்கள் வேதாரண்யம் மீனவர்களின் படகை சூழ்ந்து கொண்டு அவர்களின் படகில் ஏறி நான்கு பேரையும் வாள்களை கழுத்தில் வைத்து மிரட்டியும், இரும்புப் பைப்புகளை கொண்டு தாக்கியும் உள்ளனர்.
+
+அத்துடன், படகில் இருந்த 700 கிலோ வலைகளை எடுத்துக் கொண்டு அங்கிருந்து சென்றுள்ளனர்.
+
+இதையடுத்து, காயமடைந்த நான்கு மீனவர்களும் நேற்று  மதியம் ஆறுகாட்டுத்துறை கடற்கரைக்கு திரும்பினர். அவர்களின் முதுகின் பின்புறத்தில் இரும்பு பைப்பால் அடித்ததில் உள்காயம் ஏற்பட்டுள்ளதால் அவர்கள் உடனடியாக வேதாரண்யம் அரசு தலைமை மருத்துவமனையில் சேர்க்கப்பட்டனர்.
+
+...
+
+[Data](articles/07169271.json)
 
 ---
 
@@ -2197,23 +2233,5 @@ The first phase of the third term for 2024 will commence on Monday, August 26, 2
 [Data](articles/c70997bb.json)
 
 [Extended Data](ext_articles/c70997bb.ext.json)
-
----
-
-### Second school term to end on Friday
-
-*2024-08-14 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101233/second-school-term-to-end-on-friday-) · `en`
-
-The Ministry of Education has issued a notice regarding the completion of the second term for both government and government-approved private Sinhala and Tamil medium schools in 2024.
-
-Accordingly, the second term of all government and government-approved schools (Sinhala and Tamil medium) will end on Friday (August 16).
-
-Meanwhile, the schools are scheduled to reopen for the first phase of the third term on August 26 (Monday).
-
-◼️
-
-[Data](articles/da388057.json)
-
-[Extended Data](ext_articles/da388057.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 16:36:30**
+As of **2024-08-15 16:53:41**
 
 ## Newspaper Stats
 
-*Scraped **40,910** Articles*
+*Scraped **40,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,68 @@ economynextcom | 2,480
 dailyftlk | 2,645
 adalk | 3,765
 dailymirrorlk | 4,733
-adaderanalk | 4,777
+adaderanalk | 4,778
 tamilmirrorlk | 5,227
 virakesarilk | 6,480
-adaderanasinhalalk | 6,959
+adaderanasinhalalk | 6,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,903 (100.0%) of 40,910 articles have been extended.
+40,910 (100.0%) of 40,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### එක්සත් ලංකා පොදුජන පක්ෂයේ සභාපති සහ ලේකම් රිමාන්ඩ්
+### තායිවානයේ ප්‍රබල භූකම්පනයක්
+
+*2024-08-15 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199971) · `si`
+
+තායිවානයේ යිලාන් පළාතේ ප්‍රබල භූකම්පනයක් සිදුව ඇති බව එරට කාලගුණික මධ්‍යස්ථානය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/2a76e433.json)
+
+---
+
+### Party chairman and secretary remanded over bribe from prez candidate Janaka Ratnayake
+
+*2024-08-15 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101266/party-chairman-and-secretary-remanded-over-bribe-from-prez-candidate-janaka-ratnayake) · `en`
+
+The Chairman and the Secretary of the “United Lanka Podujana Party” (Eksath Lanka Podujana Pakshaya), who were arrested for allegedly soliciting a bribe from the party’s presidential candidate, former PUCSL chairman Janaka Ratnayake, have been ordered to be remanded until August 27.
+
+Meanwhile, six other suspects arrested in connection with the incident have been ordered released on personal bails of Rs. 2 million each.
+
+It was reported yesterday (14) that a group of officials of the party including its Secretary were arrested by the officers of the Bribery Commission while accepting a bribe of Rs. 30 million from Mr. Ratnayake, the party’s presidential candidate.
+
+The suspects have been arrested based on a complaint lodged by the former PUCSL chairman, on behalf of whom the security deposit was placed last morning as the party’s presidential candidate.
+
+...
+
+[Data](articles/5419bcde.json)
+
+---
+
+### United Ceylon Public Party Chairman and Secretary remanded
 
 *2024-08-15 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199970) · `si`
 
-ජනක රත්නායක මහතාට එක්සත් ලංකා පොදු ජන පක්ෂයේ ජනාධිපති අපේක්ෂකත්වය ලබාදීම සඳහා රුපියල් කෝටි 03ක අල්ලසක් ලබාගත්තේ යැයි සැකපිට අත්අඩංගුවට ගත් එම පක්ෂයේ සභාපතිවරයා හා ලේකම්වරයා ලබන 27 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (15) නියම කළේය.
+The Chairman and Secretary of the United Ceylon Public Party were remanded after being arrested as suspects linked to the United Lanka Commonwealth presidential candidate. The court released six other suspects on personal bail of Rs. 20 million.
 
-එම සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් තවත් සැකකරුවන් 06 දෙනෙකු රුපියල් ලක්ෂ 20 බැගින් වූ පුද්ගලික ඇප මත මුදා හැරීමට ද අධිකරණය නියම කර තිබේ.
+🟩
+
+The party chairman and secretary was arrested for the suspects to be arrested in charge of the United Lanka Commonwealth presidential candidate of the United Lanka.
+
+The court has also set to release 6 other suspects arrested on the incident on personal bail of Rs. 20 million.
 
 ◼️
 
 [Data](articles/c5230791.json)
+
+[Extended Data](ext_articles/c5230791.ext.json)
 
 ---
 
@@ -130,6 +166,8 @@ Earlier in the day,  Eksath Lanka Podujana Pakshaya Secretary Nihal Premakumara
 
 [Data](articles/b9f3e8e0.json)
 
+[Extended Data](ext_articles/b9f3e8e0.ext.json)
+
 ---
 
 ### Patali and Rishad to support Sajith
@@ -141,6 +179,8 @@ The Ekasath Jana Raja Peramuna (EJRP), led by MP Patali Champika Ranawaka, signe
 ...
 
 [Data](articles/c5155b6c.json)
+
+[Extended Data](ext_articles/c5155b6c.ext.json)
 
 ---
 
@@ -164,6 +204,8 @@ In his rally address, Bopage emphasised that the main issue to address is the pl
 
 [Data](articles/c473c881.json)
 
+[Extended Data](ext_articles/c473c881.ext.json)
+
 ---
 
 ### ECSL fires warning shot to TV channel over biased reporting
@@ -180,6 +222,8 @@ The ECSL highlighted that some of the main accusations against the network inclu
 
 [Data](articles/d8b6bf73.json)
 
+[Extended Data](ext_articles/d8b6bf73.ext.json)
+
 ---
 
 ### President Ranil Wickremesinghe signs nomination papers
@@ -193,6 +237,8 @@ The event took place at his political office on Flower Road, Colombo. The Maha S
 ◼️
 
 [Data](articles/4977bb6c.json)
+
+[Extended Data](ext_articles/4977bb6c.ext.json)
 
 ---
 
@@ -484,19 +530,29 @@ In that respect, the Tamil general structure has announced that the appointment 
 
 ---
 
-### කටුනායක  සිට කොළඹ කොටුවට හා මා කුඹුරට සුඛෝපභෝගී බස් රථ සේවාවක්
+### Luxury bus service for Colombo Fort and I
 
 *2024-08-15 13:34:00* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක--සිට-කොළඹ-කොටුවට-හා-මා-කුඹුරට-සුඛෝපභෝගී-බස්-රථ-සේවාවක්/11-411391) · `si`
 
-ශ්‍රී ලංකා ගුවන් සේවා ඉතිහාසයේ මෙතෙක් පැවති විශාලතම ගැටළුවකට විසදුමක් ලෙස කටුනායක ගුවන් තොටුපොළ  සිට කොළඹ , කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මා කුඹුර බහු විධ ප්‍රවාහන මධ්‍යස්ථානය කරා නව සුඛෝපභෝගී බස් රථ සේවාවක් (Air Port Terminal Shuttle Service ) 08/15 දින ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් රූබසිංහ මහතා විසින් කටුනායක ගුවන් තොටුපොළෙන් ආරම්භ කළේය .
+Sri Lanka introduces a new luxury bus service from Katunayake airport to Colombo Fort, aimed at improving transportation for foreign tourists. Organized by the Ministry of Transport and Highways in collaboration with a private firm, this service connects to the Colombo-Katunayake Expressway. The inaugural bus ride took place on August 15th, with fares set at 10,000 rupees per trip. This initiative addresses previous transportation challenges, offering a more convenient option for travelers arriving at the Bandaranaike International Airport.
 
-මෙතෙක් ශ්‍රී ලංකාවේ සංචාරය සදහා පැමිණෙන විදේශීය සංචාරකයන් මෙරට තුළ සංචාරය සදහා ප්‍රවාහන සේවා ආයතනයක පහසුකම් ලබා නොගන්නේ නම් ඔවුන් සිය බඩුබාහිරාදිය සමග ගුවන් තොටුපොළේ සිට කිලෝ මීටර් 02 ක් පමණ දුරින් පිහිටි ඇවරිවත්ත බස් නැවතුම් පොළ කරා ගමන් කළ යුතුව තිබුණි .
+🟩
 
-මෙම නව බස් සේවාව සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගම , ප්‍රවාහන සහ මහා මාර්ග අමාත්‍යාංශය , පෞද්ගලික බස් රථ  සමාගමක් ඒකාබද්ධ වී සංවිධානය කර ඇති අතර , ගුවන් තොටුපොළෙන් පිටත් වන මෙම බස් රථ කොළඹ - කටුනායක අධිවේගී මාර්ගය ඔස්සේ , අතරමැද නැවැත්වීමකින් තොරව සිය ගමනාන්තය කරා පිවිසෙන ආකාරයට මෙම බස් රථ ගමනාගමනය සූදානම් කර තිබේ .
+New luxury railway station from Katunayake airport and a new luxury bus service to the multi-purpose transport center in Sri Lanka Aviation.Ranjith Rubasinghe commenced at the Katunayake airport.
+
+If foreign tourists arriving in Sri Lanka so far, they should have traveled to the airport from the airport, about 2 km from the airport.
+
+The new bus service has been jointly organized by the Ministry of Transport and Highways, a private bus firm, which has been joined the Colombo-Katunayake Expressway, on the Colombo-Katunayake Expressway, on the Colombo-Katunayake Expressway.The bus has been prepared in the way.
+
+A large number of buses have been deployed for the new bus service and 10,000 rupees for one passage will be charged for one passage.
+
+The first bus of the new bus service at the Bandaranaike International Airport on 08/15 from the Bandaranaike Transport Center
 
 ...
 
 [Data](articles/bfe8f3e6.json)
+
+[Extended Data](ext_articles/bfe8f3e6.ext.json)
 
 ---
 
@@ -2195,61 +2251,5 @@ The victim was rushed to the Murukkan Hospital after he was seriously injured.
 [Data](articles/d75cdfac.json)
 
 [Extended Data](ext_articles/d75cdfac.ext.json)
-
----
-
-### More Sri Lankans released from Myanmar Cyber ​​Zone
-
-*2024-08-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199953) · `si`
-
-25 Sri Lankans held in Myanmar's cyber zone are now free, under Thai immigration custody. The Foreign Ministry plans to repatriate them via the embassy in Thailand. Initially, 56 faced detention, with 8 freed in March, leaving 28 still detained.
-
-🟩
-
-Twenty five Sri Lankans trapped in Myanmar Crimes Zone were released.
-
-The group of Sri Lankans are in the custody of the Department of Immigration and Emigration of Thailand.
-
-The Ministry of External Affairs stated that arrangements will be taken to bring them to the country through the Sri Lankan Embassy in Thailand.
-
-About 56 Sri Lankans were forcibly detained in the cyber crimes in the cyber crimes in the cyber cricket issue and eight of them were liberated last March.
-
-It is reported that about 28 Sri Lankans have been detained in Myanmar Criminal Zone.
-
-◼️
-
-[Data](articles/ec77cf5d.json)
-
-[Extended Data](ext_articles/ec77cf5d.ext.json)
-
----
-
-### Nominations today
-
-*2024-08-15 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199952) · `si`
-
-Today marks the deadline for accepting nominations for the upcoming presidential election. The Elections Commission office in Rajagiriya will close its doors at 11:00 AM, despite protests from 9:00 AM to 11:30 AM. Yesterday, 40 candidates were nominated, and the commission will announce the final list post-protest evaluation. Security measures, including a special police deployment, are in place around the Elections Secretariat to ensure a smooth process.
-
-🟩
-
-The acceptance of nominations related to the presidential election is due to be held today (15).
-
-The Elections Commission states that nominations will be accepted at the Election Commission Office of the Elections Commission at Rajagiriya until 11.00 am.
-
-Appointment has been given to the presence of protests from 9.00 am to 11.30am.
-
-The Elections Commission said that the bail of the presidential election was completed yesterday (14), according to the Elections Commission that 40 candidates have been paid.
-
-The Elections Commission will be announced by the candidates who were selected for the presidential election after considering the protests that submitted after the nomination.
-
-The Elections Commission states that voting signs are being issued for independent candidates.
-
-Meanwhile, police have taken steps to implement a special security program in the Elections Secretariat premises and surrounding areas to accept nominations.
-
-...
-
-[Data](articles/d25e941a.json)
-
-[Extended Data](ext_articles/d25e941a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 12:22:02**
+As of **2024-08-15 12:36:48**
 
 ## Newspaper Stats
 
-*Scraped **40,864** Articles*
+*Scraped **40,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,478
 dailyftlk | 2,638
 adalk | 3,758
 dailymirrorlk | 4,733
-adaderanalk | 4,769
+adaderanalk | 4,772
 tamilmirrorlk | 5,217
 virakesarilk | 6,473
 adaderanasinhalalk | 6,954
@@ -26,63 +26,125 @@ adaderanasinhalalk | 6,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,858 (100.0%) of 40,864 articles have been extended.
+40,864 (100.0%) of 40,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ජනපති සටනට එන අපේක්ෂකයින් මෙන්න
+### EC accepts nominations of all 39 presidential candidates
+
+*2024-08-15 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101257/ec-accepts-nominations-of-all-39-presidential-candidates) · `en`
+
+The Election Commission of Sri Lanka says it has accepted the nominations of all 39 presidential candidates who submitted their nominations today (15) for the 2024 Presidential Election.
+
+The Election Commission Chairman R.M.A.L. Rathnayake announced that the three objections presented following the nomination submission, were rejected.
+
+Addressing the candidates, signatories and others present at the Election Secretariat, he said that 39 candidates had submitted nominations during the allocated period from 9.00 a.m. to 11.00 a.m. today. This includes 22 candidates from recognized political parties, 1 from other parties and 16 independent candidates.
+
+He added that three objections had been submitted during the period allocated for the presenting of objections which ended at 11.30 a.m.
+
+...
+
+[Data](articles/b8271837.json)
+
+---
+
+### Here are the candidates contestants to fight
 
 *2024-08-15 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199965) · `si`
 
-2024 ජනාධිපතිවරණ අපේක්ෂයින් නාමයෝජනා භාරගැනීමෙන් අනතුරුව විරෝධතා තුනක් ඉදිරිපත් වූ බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission accepted nomination submissions late but then rejected protests against it, making 39 candidates eligible for the upcoming presidential election.
 
-එහෙත් එම විරෝධතා මැතිවරණ පනත අනුව ප්‍රතික්ෂේප කිරීමට මැතිවරණ කොමිසමේ බලධාරීන් පියවර ගෙන තිබුණි.
+🟩
 
-ඒ අනුව ජනාධිපතිවරණයට අපේක්ෂකයින් 39 දෙනෙකු සුදුසුකම් ලැබූ බව මැතිවරණ කොමිසම නිවේදනය කළේය.
+The Elections Commission states that the Presidential Elections Testing of the Presidential Elections Testing was submitted after accepting nominations.
+
+However, the Elections Commission authorities have taken steps to reject the protests according to the Elections Act.
+
+Accordingly, 39 candidates were eligible for the presidential election.
 
 ◼️
 
 [Data](articles/38b51748.json)
 
+[Extended Data](ext_articles/38b51748.ext.json)
+
 ---
 
-### வடக்கு, கிழக்கில் வாழும் தமிழ் மக்களிற்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது; இந்த விடயத்தில் ஏனைய கட்சிகளை போல ஐக்கிய சோசலிச கட்சி தடுமாறவில்லை - சிறிதுங்க
+### The right to self -determination has the right to the Tamil people living in the North and East;The United Socialist Party does not stumble like other parties on this issue -
 
 *2024-08-15 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191132) · `ta`
 
-வடக்கு, கிழக்கில் வாழும் தமிழ் சமூகத்தினருக்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது என நாங்கள் உறுதியாக நம்புகின்றோம் என தெரிவித்துள்ள ஐக்கிய சோசலிச கட்சியின் ஜனாதிபதி தேர்தல் வேட்பாளர் சிறிதுங்கஜெயசூரிய இந்த விடயத்தில் கட்சி ஒருபோதும் ஏனைய கட்சிகளை போல தடுமாறியதில்லை என தெரிவித்துள்ளார்.
+The United Socialist Party supports the Tamil community's right to self-determination in Sri Lanka's North and East, differing from other parties' stances. They argue against using the 13th Amendment as a vote-grabbing tactic among minorities. Despite potential national disagreement, they believe in fairness and oppose the notion that granting self-determination would lead to division, citing past political shifts as evidence.
 
-தேர்தல்களின் போது சிறுபான்மை இனத்தவர்களிடமிருந்து வாக்குகளை பெறுவதற்காக கருவியாக 13 வது திருத்தம் பயன்படுத்தப்படுகின்றது.
+🟩
 
-எனினும் ஐக்கிய சோசலிச கட்சியை சேர்ந்த நாங்கள்  நிலையான உறுதியான கொள்கையை கொண்டுள்ளோம்.
+The United Socialist Party's presidential candidate Sinhangjayasuriya has said that the party has never stumbled on the issue of the Tamil community in the North and East.
 
-வடக்குகிழக்கில் வாழும் தமிழ் சமூகத்தினருக்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது என நாங்கள் உறுதியாக நம்புகின்றோம்.
+The 13th Amendment is used as a tool to get votes from minorities during elections.
 
-எங்களின் இந்த நிலைப்பாட்டிற்கு நாட்டின் சில பகுதிகளில் ஆதரவில்லாமல் இருக்கலாம்,ஆனால் இது நியாயமானது நீதியானது என நாங்கள் கருதுகின்றோம்.
+However, we belong to the United Socialist Party.
 
-தற்போதைய 13 வதுதிருத்தத்தை நடைமுறைப்படுத்துவது குறித்து வடக்குகிழக்கு மக்கள் அதிக ஆர்வம் கொண்டுள்ளனர் என நாங்கள் கருதவில்லை.
+We firmly believe that the Tamil community in the North East has the right to self -determination.
 
-...
+Our position may not be supported in some parts of the country, but we think this is fair.
+
+We do not think that the people of the North East are more interested in implementing the current 13 -year -old.
+
+We do not think that giving the Tamils ​​the right to self -determination will divide the country.
+
+For example, the JVP once strongly opposed the 13th Amendment and used violence against it.
+
+But they have changed their position.
+
+◼️
 
 [Data](articles/d8e9ed03.json)
 
+[Extended Data](ext_articles/d8e9ed03.ext.json)
+
 ---
 
-### கைகொடுத்தார் ரணில்: கும்பிட்டார் சஜித்
+### Ranil: Kumbittar Sajith
 
 *2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/175-342216) · `ta`
 
-தேர்தல்கள் ஆணைக்குழுவில் 2024 தேர்தலுக்கான வேட்பு மனுக்களை தாக்கல் செய்யும் பணி வியாழக்கிழமை (15) காலை 9 மணிக்கு ஆரம்பமாகி பகல் 11 மணியுடன் நிறைவடைந்தது.
+Nominations for the 2024 election opened and closed with 39 candidates participating. President Ranil Wickremesinghe exited early, missing a handshake offer from Opposition Leader Sajith Premadasa, who instead bowed in respect.
 
-வேட்புமனுக்கள் தொடர்பான ஆட்சேபனைகளை தெரிவிக்க, காலை 11  மணி முதல் 11.30 மணி வரை நேரம் ஒதுக்கப்பட்டிருந்தது. மொத்தமாக 40 பேர் கட்டுப்பணம் செலுத்தியிருந்தனர். எனினும், வேட்பு மனுக்களை 39 பேர் மட்டுமே தாக்கல் செய்தனர்
+🟩
 
-அதன்பின்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அந்த மண்டபத்தில் இருந்து பகல்11.35 மணியளவில் வெளியேறினார். அப்போது, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு கைலாகு கொடுத்து வாழ்த்துவதற்கு கையை நீட்டினார். எனினும், தனக்கு ஒதுக்கப்பட்டிருந்த ஆசனத்திலேயே அமர்ந்திருந்த சஜித் பிரேமதாச கையை கொடுக்காது, கைக்கூப்பி  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு வணக்கம் செலுத்தினார்.
+The process of filing nominations for the 2024 election at the Elections Commission began on Thursday (15) and ended at 11 am.
+
+Time was allocated from 11 am to 11.30 pm to express objections on nominations. A total of 40 people were controlled. However, only 39 candidates filed nominations
+
+President Ranil Wickremesinghe then left the hall at 11.35 am. At the time, Opposition Leader Sajith extended his hand to congratulate Premadasa.. However, Sajith Premadasa, who was sitting on the seat he was allocated, would not give his hand, but also bowed down to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/d946e8f4.json)
+
+[Extended Data](ext_articles/d946e8f4.ext.json)
+
+---
+
+### Sri Lanka’s tourist arrivals exceed 1.25 million
+
+*2024-08-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101256/sri-lankas-tourist-arrivals-exceed-125-million) · `en`
+
+The total number of foreign tourist arrivals recorded in Sri Lanka this year has exceeded 1,250,000.
+
+According to the Sri Lanka Tourism Development Authority, approximately 1,271,432 foreign tourists have visited the island so far this year.
+
+A majority of the foreign visitors are Indian tourists and this figure is 237,649.
+
+In addition to this, large numbers of tourists from countries including Russia, Britain, Germany, China and France have also arrived in the island this year.
+
+Meanwhile, it is also reported that a total of 73,373 tourists have visited the island in the first 11 days of this month.
+
+◼️
+
+[Data](articles/4efea9b7.json)
 
 ---
 
@@ -107,6 +169,28 @@ In this context, about 1,000 Ukraine soldiers recently entered with artillery an
 [Data](articles/aa3a4eb9.json)
 
 [Extended Data](ext_articles/aa3a4eb9.ext.json)
+
+---
+
+### 20 Sri Lankans trapped in Myanmar cyber camps rescued
+
+*2024-08-15 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101255/20-sri-lankans-trapped-in-myanmar-cyber-camps-rescued) · `en`
+
+Twenty more Sri Lankan nationals, who were held hostage in the cybercrime camps in Myawaddy area of Myanmar have been rescued, Sri Lanka’s Ministry of Foreign Affairs confirmed.
+
+Accordingly, the rescued Sri Lankans have safely arrived in Thailand and are in the custody of Thailand’s Department of Immigration and Emigration, according to the Foreign Affairs Ministry.
+
+Meanwhile, it was also reported that all of them are in good health condition.
+
+The Ministry of Foreign Affairs further stated that measures are underway to facilitate their repatriation to Sri Lanka.
+
+Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and they were safely repatriated to the island on April 18, 2024.
+
+It is reported that around 28 more Sri Lankan nationals are still being held in the relevant cybercrime camps in Myanmar.
+
+◼️
+
+[Data](articles/2e775258.json)
 
 ---
 
@@ -264,25 +348,35 @@ The submission of nominations, which commenced at 9.00 a.m. this morning at the 
 
 ---
 
-### கொல்கத்தாவில் பெண் மருத்துவர் பாலியல் வன்முறையின் பின்னர் கொலை - எதிர்ப்பு தெரிவித்து இரவில் பெண்கள் பெரும் ஆர்ப்பாட்டம் - நாங்கள் கால்நடைகளை விட பெறுமதியற்றவர்கள் என வேதனை
+### Murder after sexual violence in Kolkata
 
 *2024-08-15 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191128) · `ta`
 
-கொல்கத்தா அரச மருத்துவமனையில் பெண் மருத்துவர் பாலியல் வன்முறைக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து ஆயிரக்கணக்கான பெண்கள் நேற்று இரவு ஆர்ப்பாட்ட போராட்டங்களை முன்னெடுத்தனர்.
+Thousands protested in Kolkata against the murder of a female doctor, highlighting a week of demonstrations. Women from various backgrounds joined, inspired by social media calls. The protests turned violent as some damaged the hospital's emergency department. Despite the late-night start, the rallies were marked by unity and a strong message for women's rights, reflecting a significant show of solidarity and demand for justice.
 
-பெண் மருத்துவர் பாலியல் வன்முறைக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்டமைக்கு கடும் எதிர்ப்பை தெரிவித்து கடந்த ஒரு வாரகாலமாக கொல்கத்தாவில் ஆர்ப்பாட்ட பேரணிகள் இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+🟩
 
-சமூக ஊடகங்களின் மூலம் விடுக்கப்பட்ட வேண்டுகோள்களை தொடர்ந்து சமூகத்தின் அனைத்து தரப்பையும் சேர்ந்த பெண்கள் இந்த ஆர்ப்பாட்ட பேரணியில் கலந்துகொண்டனர்.
+Thousands of women staged protests last night in protest of the murder of a female doctor at Kolkata's royal hospital.
 
-பாலியல் வன்முறை சம்பவம் இடம்பெற்ற மருத்துவமனைக்குள் புகுந்த சிலர் மருத்துவமனையின் அவசரசேவை பிரிவை சேதப்படுத்தியுள்ளனர்.
+It is noteworthy that demonstrations have been held in Kolkata over the past one week, expressing fierce opposition to the murder of a female doctor.
 
-கொல்கத்தாவின் ஏனைய பகுதிகளில் இரவில் மொபைபோனின் வெளிச்சத்தினையும்,மெழுகுதிரிiயையும் வேறு வெளிச்சங்களையும் ஏந்தியவாறு பெண்கள் பேரணியாக சென்றுள்ளனர்.
+Following the requests made by social media, women from all sides of the community participated in the rally.
 
-இரவு 12 மணியானதும் இந்தியாவின் சுதந்திர பிறப்பை குறிக்கும் விதத்தில ஆர்ப்பாட்டத்தின் போக்கு மாறியுள்ளது.
+Some people who entered the hospital where the incident of sexual violence have damaged the hospital's emergency department.
+
+In other parts of Kolkata, the women marched in the night with the light of the mobile phone, the candle and other lights.
+
+At 12 o'clock at night, the trend of the demonstration has changed in a way that refers to India's independence.
+
+"We have never seen a large number of women in Kolkata," a reporter said.
+
+After midnight, a woman who attended her 13 -year -old daughter would see if she could rectify the situation through massive demonstrations, and let her be aware of her rights.
 
 ...
 
 [Data](articles/3fba8bdd.json)
+
+[Extended Data](ext_articles/3fba8bdd.ext.json)
 
 ---
 
@@ -673,6 +767,8 @@ In equities, Colombo’s All Share Price Index opened 61.31 points higher at 11,
 ◼️
 
 [Data](articles/a196558d.json)
+
+[Extended Data](ext_articles/a196558d.ext.json)
 
 ---
 
@@ -1127,6 +1223,8 @@ CG group had started marketing vehicles in Nepal 40 years ago partnering with Ja
 ...
 
 [Data](articles/f2fa756c.json)
+
+[Extended Data](ext_articles/f2fa756c.ext.json)
 
 ---
 
@@ -2167,79 +2265,5 @@ Financial assets – debt instruments were down 4.6 percent to 620 billion rupee
 [Data](articles/7b545d61.json)
 
 [Extended Data](ext_articles/7b545d61.ext.json)
-
----
-
-### Ranil Wickremesinghe can fulfill law and order for the new Prime Minister of Bangladesh
-
-*2024-08-14 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191112) · `ta`
-
-President Ranil Wickremesinghe has spoken with Bangladesh's new PM, Muhammad Yunus, expressing confidence in his ability to maintain law and order. He advised Sri Lankan investors in Bangladesh to continue investing and offered support for Bangladesh's economic development. The Bangladeshi PM thanked him and requested a visit from the President.
-
-🟩
-
-President Ranil Wickremesinghe has telephoned Bangladesh's new Prime Minister Muhammad Yunus.
-
-The president also noted that Yunus could be able to uphold law and order in Bangladesh.
-
-President Ranil Wickremesinghe has told the new Prime Minister of Bangladesh that he has advised Sri Lankan investors in Bangladesh to stay there and carry out investment activities.
-
-The President has promised to help Sri Lanka in all ways to develop Bangladesh economically.
-
-The Bangladesh Prime Minister, who thanked the President, has asked the President to come to Bangladesh to Bangladesh as soon as possible.
-
-◼️
-
-[Data](articles/b2a790fa.json)
-
-[Extended Data](ext_articles/b2a790fa.ext.json)
-
----
-
-### President to call for the head of the Bangladesh Trustees
-
-*2024-08-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199943) · `si`
-
-President Ranil Wickremesinghe plans to speak with Muhammad Yunus, head of the Bangladesh Trustee government, expressing confidence in his ability to maintain law and order. He advises Sri Lankan investors to stay and invest in Bangladesh, promising economic support to both countries. Yunus appreciates the President's support and vows to work towards restoring stability in Bangladesh.
-
-🟩
-
-President Ranil Wickremesinghe calls Muhammad Yunus, the head of the Bangladesh Trustee government, was backed by Muhammad Yunus.
-
-The President has said he believed that the Head of Trustee would be able to protect law and order in Bangladesh.
-
-The President has also told Mr. Yunusi that he had informed the Sri Lankan investors in Bangladesh to stay there and invest their investments.
-
-The President has said that all helps will be provided to Sri Lanka to improve the economy to Bangladesh economically improve.
-
-Speaking, Bangladesh headed was thanked the President's wishes and as soon as the chance and as soon as the opportunity to restore the country to recover the country.
-
-◼️
-
-[Data](articles/c1cd1dab.json)
-
-[Extended Data](ext_articles/c1cd1dab.ext.json)
-
----
-
-### Bandu Lal Lal Lal was on the Supreme Court decision
-
-*2024-08-14 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-තීරණයෙන්-බන්දු-ලාල්ට-තනතුරක්/11-411376) · `si`
-
-The Supreme Court's decision involves Bandu Lal Lal, while the Elections Commission issued a special gazette notification. Manusha Nanayakkara and Harin Fernando have lost their posts, but no final decision has been made regarding Harin Fernando's appointment to the national list.
-
-🟩
-
-The Elections Commission (Elections) has issued a special gazette notification today (14).
-
-Manusha Nanayakkara lost the post of Deputy Court recently and Mr. Harin Fernando lost the parliamentary term, accordingly.
-
-However, a party ratrist stated that no final decision has been taken so far, however, has not taken a final decision on who appoints Harin Fernando's empty national lists.
-
-◼️
-
-[Data](articles/e6973455.json)
-
-[Extended Data](ext_articles/e6973455.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 07:24:49**
+As of **2024-08-15 07:48:21**
 
 ## Newspaper Stats
 
-*Scraped **40,808** Articles*
+*Scraped **40,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,77 +20,153 @@ dailymirrorlk | 4,733
 adaderanalk | 4,759
 tamilmirrorlk | 5,201
 virakesarilk | 6,465
-adaderanasinhalalk | 6,943
+adaderanasinhalalk | 6,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,805 (100.0%) of 40,808 articles have been extended.
+40,808 (100.0%) of 40,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### මාරක රිය අනතුරු දෙකක්
+### ජලභීතිකා රෝගයෙන් පුද්ගලයින් 11ක් මරුට
+
+*2024-08-15 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199957) · `si`
+
+ජලභීතිකාව හේතුවෙන් මේ වසරේ ගත වු කාලය තුළ පුද්ගලයින් 11 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව වසංගත රෝග විද්‍යායතනය පවසයි.
+
+එහි ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය අතුල ලියනපතිරණ මහතා සඳහන් කළේ, ජලභීතිකාව පිළිබඳ ජනතාවගේ නොදැනුවත්භාවය හේතුවෙන් මෙලෙස මරණ වාර්තා වන බවය.
+
+"දැනුවත්කම මදභාවය නිසාම තමා ජලභීතිකාව නිසා සිදුවන මරණ සිදුවෙන්නේ. ගිය අවුරුද්ද වෙනකොට අපිට ඊට කලින් අවුරුද්දට වැඩිය මරණ සංඛ්‍යාව භාගයකට අඩුකරගන්න පුළුවන් වෙලා තියෙනවා. නමුත් මේ අවුරුද්දේ දැනටමත් මරණ 11ක් විතර වාර්තා වෙනවා. මේ සියලුම මරණ සිදුවෙලා තියෙන්නේ අපි දෙන ප්‍රතිකාර නිසිලෙස සිදුනොකිරීම නිසයි. ලංකාවේ දැනට රජයේ රෝහල් 300ක විතර ඇන්ටි රේබීස් වැක්සින් එක ලබාදෙනවා. වඩා උග්‍ර සපාකෑමට ලක්වූ අවස්ථාවක ඊට අදාළ එන්නතත් රෝහල් 100ක පමණ ලබාදෙනවා. මේක නොමිලේ ලබාදෙන්නේ. අපි කළ යුත්තේ සපා කෑමකට ලක්වුවහොත් වහාම වෛද්‍ය ප්‍රතිකාර සඳහා යොමුවීමයි."
+
+ජලභීතිකාව බෝවීම සම්බන්ධයෙන් ද විශේෂඥ වෛද්‍ය අතුල ලියනපතිරණ මහතා මෙලෙස අදහස් පළ කළේය.
+
+...
+
+[Data](articles/ff1a8e93.json)
+
+---
+
+### ඝාතන සැකකරුවන් දෙදෙනෙක් කොටු
+
+*2024-08-15 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199956) · `si`
+
+තියුණු ආයුධවලින් පහර දී පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් වූ සිද්ධියකට අදාළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+හංවැල්ල පොලිස් වසමේ තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේ දී පසුගිය 06 වැනිදා මෙම ඝාතනය සිදුව තිබුණි.
+
+බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් අපරාධය සම්බන්ධයෙන් සිදුකළ විමර්ශනයකින් අනතුරුව මීට අදාළ සැකකරුවන් දෙදෙනෙකු පාදුක්ක ගාලබැදිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් අවුරුදු 34ක් වසසැති උඩුමුල්ල හා වටරැක ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+අපරාධය සඳහා යොදාගත් යතුරුපැදි 02ක් ද පොලීසිය විසින් සොයාගෙන ඇති අතර සිද්ධිය සම්බන්ධව හංවැල්ල පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+
+◼️
+
+[Data](articles/5d54c46c.json)
+
+---
+
+### පෙරහැර මංගල්‍යයේ පළමු රන්දෝලි පෙරහැර අද
+
+*2024-08-15 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199955) · `si`
+
+ඓතිහාසික මහනුවර ඇසළ පෙරහැර මංගල්‍යයේ පළමු රන්දෝලි පෙරහැර අද (15) වීදි සංචාරය කිරීමට නියමිතව තිබේ.
+
+මෙවර ඇසළ පෙරහැර මංගල්‍යයේ කුඹල් පෙරහැර පසුගිය 10 වැනිදා සිට ඊයේ (14) දිනය දක්වා වීදි සංචාරය කෙරුණි.
+
+අද දිනයේ සිට රන්දෝලී පෙරහැර වීදී සංචාරය සිදුකෙරෙන අතර අවසන් රන්දෝලී පෙරහැර 19 වන දින රාත්‍රී වීදි සංචාරය කිරීමට නියමිත බව ශ්‍රී දළදා මාළිගාවේ ප්‍රධාන දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා සඳහන් කළේය.
+
+මේ අතර මරදමඩු දේව මාතාවන්ගේ ජාතික සිද්ධස්ථානයේ වාර්ෂික මහා මංගල්‍යය අද උදෑසන පැවැත්වීමට නියමිතව තිබේ.
+
+මන්නාරම රදගුරු අති උතුම් එමානුවෙල් ප්‍රනාන්දු හිමිපාණන්ගේ ප්‍රධානත්වයෙන් හලාවත රදගුරු අති උතුම් විමල්සිරි ජයසූරිය හිමිපාණන්ගේ සහභාගීත්වයෙන් මෙවර මරදමඩු වාර්ෂික මංගල්‍යය දිව්‍ය පුජාව පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/e36df948.json)
+
+---
+
+### Two fatal accidents
 
 *2024-08-15 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199954) · `si`
 
-දිවයින පුරා ඊයේ (14) සිදුවූ මාරක රිය අනතුරු දෙකකින් පුද්ගලයන් දෙදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+In separate incidents, two motorcyclists died when losing control on roads in Matale and another passenger was critically injured in a three-wheeler accident in Pramlandan Madhu, both occurring yesterday.
 
-මාතලේ පොලිස් වසමේ මාතලේ රත්තොට මාර්ගයේ සින්නකට්ටි කෝවිල අසලින් ඇති අතුරු මාර්ගයක ධාවනය වූ යතුරුපැදියක් යතුරුපැදිකරුට පාලනය කරගත නොහැකිව සිදුවූ අනතුරකින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු ජීවිතක්ෂයට පත්ව තිබේ.
+🟩
 
-මේ අතර මඩු පොලිස් වසමේ පූමලන්දාන් මඩු මාර්ගයේ පූමලාන්දාන් හන්දිය ප්‍රදේශයේදී මඩු හන්දිය දෙසට ධාවනය වූ ත්‍රීරෝද රථයක ගමන් ගත් පුද්ගලයින් දෙදෙනෙකුගෙන් එක් අයෙකු මාර්ගය මතට වැටී අනතුරක් සිදුව තිබේ.
+Two persons were killed in two fatal accidents in the country yesterday.
 
-අනතුරින් බරපතළ තුවාල ලැබූ පුද්ගලයා මුරුක්කන් රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+Motorcyclists were killed in a motorcycle who was unable to control a motorcycle on the Senaqal Kovil on the Rattota road in Matale.
+
+Meanwhile, one of two persons who were traveling in a three-wheeler in Pomalandan junction in Pamalandan junction in Pamalandadan Madhu in Pramlandan Madhu took place on the road.
+
+The victim was rushed to the Murukkan Hospital after he was seriously injured.
 
 ◼️
 
 [Data](articles/d75cdfac.json)
 
+[Extended Data](ext_articles/d75cdfac.ext.json)
+
 ---
 
-### මියන්මාරයේ සයිබර් කලාපයෙන් තවත් ලාංකිකයින් පිරිසක් මුදාගැනේ
+### More Sri Lankans released from Myanmar Cyber ​​Zone
 
 *2024-08-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199953) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ කලාපයේ සිරවී සිටි තවත් ශ්‍රී ලාංකිකයින් 20 දෙනෙකු ඉන් මුදාගැනීමට සමත්ව තිබේ.
+25 Sri Lankans held in Myanmar's cyber zone are now free, under Thai immigration custody. The Foreign Ministry plans to repatriate them via the embassy in Thailand. Initially, 56 faced detention, with 8 freed in March, leaving 28 still detained.
 
-අදාළ ශ්‍රී ලාංකිකයින් පිරිස මේ වන විට තායිලන්තයේ ආගමන විගමන දෙපාර්තමේන්තුව භාරයේ සිටින බව විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේය.
+🟩
 
-තායිලන්තයේ පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය හරහා එම පිරිස මෙරටට ගෙන්වාගැනීම සඳහා අවශ්‍ය කටයුතු සිදුකරමින් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේය.
+Twenty five Sri Lankans trapped in Myanmar Crimes Zone were released.
 
-මියෙන්මාරයේ සයිබර් අපරාධ කලාපයේ ශ්‍රී ලාංකිකයින් 56 දෙනෙකු පමණ බලහත්කාරයෙන් රඳවාගෙන සිටි අතර ඉන් අට දෙනෙකු පසුගිය මාර්තු මාසයේ මුදාගනු ලැබීය.
+The group of Sri Lankans are in the custody of the Department of Immigration and Emigration of Thailand.
 
-තවත් ශ්‍රී ලාංකිකයින් 28 දෙනෙකු පමණ මියන්මාරයේ සයිබර් අපරාධ කලාපයේ රඳවාගෙන සිටින බව වාර්තා වේ.
+The Ministry of External Affairs stated that arrangements will be taken to bring them to the country through the Sri Lankan Embassy in Thailand.
+
+About 56 Sri Lankans were forcibly detained in the cyber crimes in the cyber crimes in the cyber cricket issue and eight of them were liberated last March.
+
+It is reported that about 28 Sri Lankans have been detained in Myanmar Criminal Zone.
 
 ◼️
 
 [Data](articles/ec77cf5d.json)
 
+[Extended Data](ext_articles/ec77cf5d.ext.json)
+
 ---
 
-### නාමයෝජනා භාරගැනීම අද
+### Nominations today
 
 *2024-08-15 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199952) · `si`
 
-ජනාධිපතිවරණයට අදාළව නාමයෝජනා භාරගැනීමේ කටයුතු අද (15) සිදුකිරීමට නියමිතව තිබේ.
+Today marks the deadline for accepting nominations for the upcoming presidential election. The Elections Commission office in Rajagiriya will close its doors at 11:00 AM, despite protests from 9:00 AM to 11:30 AM. Yesterday, 40 candidates were nominated, and the commission will announce the final list post-protest evaluation. Security measures, including a special police deployment, are in place around the Elections Secretariat to ensure a smooth process.
 
-උදෑසන 9.00 සිට පෙරවරු 11.00 දක්වා රාජගිරියේ පිහිටි මැතිවරණ කොමිෂන් සභා කාර්යාලයේ ශ්‍රවණාගාරයේදී නාමයෝජනා භාරගැනීම සිදුකෙරෙන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+🟩
 
-එහිදි විරෝධතා ඉදිරිපත් කිරීම සඳහා පෙරවරු 9.00 සිට පෙරවරු 11.30 දක්වා අවස්ථාව ලබා දී තිබේ.
+The acceptance of nominations related to the presidential election is due to be held today (15).
 
-මෙවර ජනාධිපතිවරණයට අදාළ ඇප මුදල් භාරගැනීමේ කාලය ඊයේ (14) දහවල් 12.00න් අවසන් වූ අතර ඒ අනුව අපේක්ෂකයින් 40 දෙනෙකු ඇප මුදල් තැන්පත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission states that nominations will be accepted at the Election Commission Office of the Elections Commission at Rajagiriya until 11.00 am.
 
-නාමයෝජනා භාරගැනීමේ කටයුතුවලින් අනතුරුව ඉදිරිපත් වූ විරෝධතා සලකා බලා ජනාධිපතිවරණයට තෝරාගනු ලැබූ අපේක්ෂකයින් පිළිබඳව මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත්කිරීමට නියමිතය.
+Appointment has been given to the presence of protests from 9.00 am to 11.30am.
 
-එහිදී ස්වාධීනව ඉදිරිපත් වී සිටින අපේක්ෂකයින් සඳහා ඡන්ද සලකුණු නිකුත් කිරීම ද සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+The Elections Commission said that the bail of the presidential election was completed yesterday (14), according to the Elections Commission that 40 candidates have been paid.
 
-මේ අතර නාම යෝජනා පත්‍ර භාරගැනීම වෙනුවෙන් මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රය සහ අවට ප්‍රදේශවල විශේෂ ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+The Elections Commission will be announced by the candidates who were selected for the presidential election after considering the protests that submitted after the nomination.
+
+The Elections Commission states that voting signs are being issued for independent candidates.
+
+Meanwhile, police have taken steps to implement a special security program in the Elections Secretariat premises and surrounding areas to accept nominations.
 
 ...
 
 [Data](articles/d25e941a.json)
+
+[Extended Data](ext_articles/d25e941a.ext.json)
 
 ---
 
@@ -2139,71 +2215,5 @@ Meanwhile, the schools are scheduled to reopen for the first phase of the third 
 [Data](articles/da388057.json)
 
 [Extended Data](ext_articles/da388057.ext.json)
-
----
-
-### England captain is injured
-
-*2024-08-14 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199929) · `si`
-
-Ben Stokes, England's Test captain, suffered an injury, leading to his loss in the series against Sri Lanka. Despite this setback, he remains optimistic and plans to lead the team during the Pakistan tour in October. The first Test match between Sri Lanka and England is scheduled for August 21 in Manchester.
-
-🟩
-
-England Test leader Ben Stokes had lost the Sri Lanka-England Test series.
-
-He has been assigned the leader of the England team in the Test series with Sri Lanka with Sri Lanka.
-
-The seriousness of the Stokes of Stokes was revealed yesterday (13).
-
-Accordingly, he plans to join Pakistani tour in October.
-
-The first Test between Sri Lanka and England will be held at Manchester on August 21.
-
-◼️
-
-[Data](articles/bc7c2d8e.json)
-
-[Extended Data](ext_articles/bc7c2d8e.ext.json)
-
----
-
-### Mari Selvaraj, who made the meaning of 'Padavathi'
-
-*2024-08-14 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191087) · `ta`
-
-Director Mari Selvaraj's song "Kanda Varakkaranga" from "Kanda Varachunga" and "Yapa Nee Padavathi" from "Banana" have gained popularity, blending music and literature. Written by Selvaraj, sung by Jaya Murthy and Meenakshi Ilayaraja, and featuring Santosh Narayan's music, these songs focus on the taste of Avala, resonating with audiences and critics alike. Selvaraj's unique style and contributions to both films have established him as a significant figure in Tamil cinema.
-
-🟩
-
-The song 'Kanda Varakkaranga ..' directed by director Mari Selvaraj, which was featured in the film 'Kanda Varachunga ..' in the form of music literature, has been performed in the form of music literature - again in the movie 'Banana'.
-
-The song 'Yapa Nee Padavathi Padavathi Na Mandi Mandi Padavathi', which was featured in the film 'Banana', has been released on the Internet and has become a speech in the literary world, public publication and internet generation.
-
-The song is written by director - producer - songwriter Mari Selvaraj and sung by playback singer Jaya Murthy and playback singer Meenakshi Ilayaraja.. The lyrics, which focusing on the taste of Avala, and the enchanting music of Santosh Narayan, are the royal instruments of the royal instruments and the loudest reading of the musical instrument, which is still known as the royal instruments, the song is gaining a huge welcome as fans moisturize their eyes.
-
-...
-
-[Data](articles/ee90749f.json)
-
-[Extended Data](ext_articles/ee90749f.ext.json)
-
----
-
-### Memorandum of Understanding (MoU
-
-*2024-08-14 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191089) · `ta`
-
-The United People's Power and the United Republic of India have signed a Memorandum of Understanding today (14).
-
-🟩
-
-A Memorandum of Understanding (MoU) between the United People's Power and the United Republic of India has signed today (14).
-
-◼️
-
-[Data](articles/20e872ad.json)
-
-[Extended Data](ext_articles/20e872ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 12:10:42**
+As of **2024-08-15 12:22:02**
 
 ## Newspaper Stats
 
-*Scraped **40,860** Articles*
+*Scraped **40,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,638
 adalk | 3,758
 dailymirrorlk | 4,733
 adaderanalk | 4,769
-tamilmirrorlk | 5,216
-virakesarilk | 6,471
-adaderanasinhalalk | 6,953
+tamilmirrorlk | 5,217
+virakesarilk | 6,473
+adaderanasinhalalk | 6,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,858 (100.0%) of 40,860 articles have been extended.
+40,858 (100.0%) of 40,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### ජනපති සටනට එන අපේක්ෂකයින් මෙන්න
+
+*2024-08-15 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199965) · `si`
+
+2024 ජනාධිපතිවරණ අපේක්ෂයින් නාමයෝජනා භාරගැනීමෙන් අනතුරුව විරෝධතා තුනක් ඉදිරිපත් වූ බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+එහෙත් එම විරෝධතා මැතිවරණ පනත අනුව ප්‍රතික්ෂේප කිරීමට මැතිවරණ කොමිසමේ බලධාරීන් පියවර ගෙන තිබුණි.
+
+ඒ අනුව ජනාධිපතිවරණයට අපේක්ෂකයින් 39 දෙනෙකු සුදුසුකම් ලැබූ බව මැතිවරණ කොමිසම නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/38b51748.json)
+
+---
+
+### வடக்கு, கிழக்கில் வாழும் தமிழ் மக்களிற்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது; இந்த விடயத்தில் ஏனைய கட்சிகளை போல ஐக்கிய சோசலிச கட்சி தடுமாறவில்லை - சிறிதுங்க
+
+*2024-08-15 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191132) · `ta`
+
+வடக்கு, கிழக்கில் வாழும் தமிழ் சமூகத்தினருக்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது என நாங்கள் உறுதியாக நம்புகின்றோம் என தெரிவித்துள்ள ஐக்கிய சோசலிச கட்சியின் ஜனாதிபதி தேர்தல் வேட்பாளர் சிறிதுங்கஜெயசூரிய இந்த விடயத்தில் கட்சி ஒருபோதும் ஏனைய கட்சிகளை போல தடுமாறியதில்லை என தெரிவித்துள்ளார்.
+
+தேர்தல்களின் போது சிறுபான்மை இனத்தவர்களிடமிருந்து வாக்குகளை பெறுவதற்காக கருவியாக 13 வது திருத்தம் பயன்படுத்தப்படுகின்றது.
+
+எனினும் ஐக்கிய சோசலிச கட்சியை சேர்ந்த நாங்கள்  நிலையான உறுதியான கொள்கையை கொண்டுள்ளோம்.
+
+வடக்குகிழக்கில் வாழும் தமிழ் சமூகத்தினருக்கு சுயநிர்ணய உரிமைக்கான உரிமையுள்ளது என நாங்கள் உறுதியாக நம்புகின்றோம்.
+
+எங்களின் இந்த நிலைப்பாட்டிற்கு நாட்டின் சில பகுதிகளில் ஆதரவில்லாமல் இருக்கலாம்,ஆனால் இது நியாயமானது நீதியானது என நாங்கள் கருதுகின்றோம்.
+
+தற்போதைய 13 வதுதிருத்தத்தை நடைமுறைப்படுத்துவது குறித்து வடக்குகிழக்கு மக்கள் அதிக ஆர்வம் கொண்டுள்ளனர் என நாங்கள் கருதவில்லை.
+
+...
+
+[Data](articles/d8e9ed03.json)
+
+---
+
+### கைகொடுத்தார் ரணில்: கும்பிட்டார் சஜித்
+
+*2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/175-342216) · `ta`
+
+தேர்தல்கள் ஆணைக்குழுவில் 2024 தேர்தலுக்கான வேட்பு மனுக்களை தாக்கல் செய்யும் பணி வியாழக்கிழமை (15) காலை 9 மணிக்கு ஆரம்பமாகி பகல் 11 மணியுடன் நிறைவடைந்தது.
+
+வேட்புமனுக்கள் தொடர்பான ஆட்சேபனைகளை தெரிவிக்க, காலை 11  மணி முதல் 11.30 மணி வரை நேரம் ஒதுக்கப்பட்டிருந்தது. மொத்தமாக 40 பேர் கட்டுப்பணம் செலுத்தியிருந்தனர். எனினும், வேட்பு மனுக்களை 39 பேர் மட்டுமே தாக்கல் செய்தனர்
+
+அதன்பின்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அந்த மண்டபத்தில் இருந்து பகல்11.35 மணியளவில் வெளியேறினார். அப்போது, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு கைலாகு கொடுத்து வாழ்த்துவதற்கு கையை நீட்டினார். எனினும், தனக்கு ஒதுக்கப்பட்டிருந்த ஆசனத்திலேயே அமர்ந்திருந்த சஜித் பிரேமதாச கையை கொடுக்காது, கைக்கூப்பி  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு வணக்கம் செலுத்தினார்.
+
+◼️
+
+[Data](articles/d946e8f4.json)
+
+---
 
 ### Emergency declaration in another part of Russia
 
@@ -207,6 +261,28 @@ The submission of nominations, which commenced at 9.00 a.m. this morning at the 
 [Data](articles/2df7f545.json)
 
 [Extended Data](ext_articles/2df7f545.ext.json)
+
+---
+
+### கொல்கத்தாவில் பெண் மருத்துவர் பாலியல் வன்முறையின் பின்னர் கொலை - எதிர்ப்பு தெரிவித்து இரவில் பெண்கள் பெரும் ஆர்ப்பாட்டம் - நாங்கள் கால்நடைகளை விட பெறுமதியற்றவர்கள் என வேதனை
+
+*2024-08-15 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191128) · `ta`
+
+கொல்கத்தா அரச மருத்துவமனையில் பெண் மருத்துவர் பாலியல் வன்முறைக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்டமைக்கு எதிர்ப்பு தெரிவித்து ஆயிரக்கணக்கான பெண்கள் நேற்று இரவு ஆர்ப்பாட்ட போராட்டங்களை முன்னெடுத்தனர்.
+
+பெண் மருத்துவர் பாலியல் வன்முறைக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்டமைக்கு கடும் எதிர்ப்பை தெரிவித்து கடந்த ஒரு வாரகாலமாக கொல்கத்தாவில் ஆர்ப்பாட்ட பேரணிகள் இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+
+சமூக ஊடகங்களின் மூலம் விடுக்கப்பட்ட வேண்டுகோள்களை தொடர்ந்து சமூகத்தின் அனைத்து தரப்பையும் சேர்ந்த பெண்கள் இந்த ஆர்ப்பாட்ட பேரணியில் கலந்துகொண்டனர்.
+
+பாலியல் வன்முறை சம்பவம் இடம்பெற்ற மருத்துவமனைக்குள் புகுந்த சிலர் மருத்துவமனையின் அவசரசேவை பிரிவை சேதப்படுத்தியுள்ளனர்.
+
+கொல்கத்தாவின் ஏனைய பகுதிகளில் இரவில் மொபைபோனின் வெளிச்சத்தினையும்,மெழுகுதிரிiயையும் வேறு வெளிச்சங்களையும் ஏந்தியவாறு பெண்கள் பேரணியாக சென்றுள்ளனர்.
+
+இரவு 12 மணியானதும் இந்தியாவின் சுதந்திர பிறப்பை குறிக்கும் விதத்தில ஆர்ப்பாட்டத்தின் போக்கு மாறியுள்ளது.
+
+...
+
+[Data](articles/3fba8bdd.json)
 
 ---
 
@@ -410,6 +486,24 @@ This year’s Esala Festival will officially come to an end after the Nilames to
 
 ---
 
+### 2024 presidential election: nominations begin
+
+*2024-08-15 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
+
+Nominations for the 2024 presidential election have started, as announced by the Election Commission.
+
+🟩
+
+The Election Commission has begun the process of accepting nominations for the 2024 presidential election.
+
+◼️
+
+[Data](articles/2e8dc0b0.json)
+
+[Extended Data](ext_articles/2e8dc0b0.ext.json)
+
+---
+
 ### Ranil visits Sajith Election Commission to hand over nominations
 
 *2024-08-15 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191126) · `ta`
@@ -425,24 +519,6 @@ President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have visit
 [Data](articles/0e835e61.json)
 
 [Extended Data](ext_articles/0e835e61.ext.json)
-
----
-
-### 2024 presidential election: nominations begin
-
-*2024-08-15 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
-
-Nominations for the 2024 presidential election have started, as announced by the Election Commission.
-
-🟩
-
-The Election Commission has begun the process of accepting nominations for the 2024 presidential election.
-
-◼️
-
-[Data](articles/2e8dc0b0.json)
-
-[Extended Data](ext_articles/2e8dc0b0.ext.json)
 
 ---
 
@@ -2165,83 +2241,5 @@ However, a party ratrist stated that no final decision has been taken so far, ho
 [Data](articles/e6973455.json)
 
 [Extended Data](ext_articles/e6973455.ext.json)
-
----
-
-### President phones Dr. Yunus, pledges Sri Lanka’s support to Bangladesh’s recovery
-
-*2024-08-14 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101242/president-phones-dr-yunus-pledges-sri-lankas-support-to-bangladeshs-recovery) · `en`
-
-In a telephone conversation, President Ranil Wickremesinghe has offered his warm congratulations to Nobel Peace Prize laureate Dr. Muhammad Yunus, who was recently sworn in as the head of Bangladesh’s interim government.
-
-The President has also reportedly stated that he is confident that Dr. Yunus will be able to maintain law and order in Bangladesh.
-
-President Wickremesinghe has informed the new Chief Adviser of the interim government of Bangladesh that he will request the Sri Lankan investors in Bangladesh to continue to stay there and carry on with investment activities.
-
-The President has also pledged that Sri Lanka will provide assistance in every possible way for Bangladesh to develop economically.
-
-Chief Adviser of Bangladesh’s interim government, who has expressed his gratitude for the Sri Lankan President’s greetings, has requested President Wickremesinghe to visit Bangladesh at the earliest opportunity and to provide the necessary guidance for the recovery of the country.
-
-...
-
-[Data](articles/00828cbd.json)
-
-[Extended Data](ext_articles/00828cbd.ext.json)
-
----
-
-### Ready's support to Sajith
-
-*2024-08-14 19:09:05* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලිගේ-සහාය-සජිත්ට/11-411375) · `si`
-
-Patali Champika Ranawaka, a member of the United Republic of Sri Lanka's Parliament, announced his support for Opposition Leader Sajith Premadasa in the upcoming Presidential election during a media briefing in Colombo.
-
-🟩
-
-United Republic of Member of Parliament Palogal Patali Champika Ranawaka has decided to support Opposition Leader Sajith Premadasa in this year's Presidential election. Patali Champika Ranawaka holds a media briefing in Colombo.
-
-◼️
-
-[Data](articles/45e77467.json)
-
-[Extended Data](ext_articles/45e77467.ext.json)
-
----
-
-### Ranil to support Athaullah
-
-*2024-08-14 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199942) · `si`
-
-National Congress leaders, including Digamadulla District MP L.M., and Patriotic Folk Party's Sahagath Hewapathirana, have pledged support for President Ranil Wickremesinghe in the upcoming presidential election.
-
-🟩
-
-National Congress leader Digamadulla District Parliamentarian. L. M. The representatives of the party and the representatives of the party have decided to support President Ranil Wickremesinghe in the next presidential election.
-
-Meanwhile, the Leader of the Patriotic Folk Person Sahagath Hewapathirana and the party's delegation has also supported President Ranil Wickremesinghe.
-
-They have been told by President Ranil Wickremesinghe today and will be supported in the next presidential election.
-
-◼️
-
-[Data](articles/3054b090.json)
-
-[Extended Data](ext_articles/3054b090.ext.json)
-
----
-
-### Athaullah’s National Congress also pledges support to Ranil
-
-*2024-08-14 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/101241/athaullahs-national-congress-also-pledges-support-to-ranil) · `en`
-
-A delegation from the “National Congress”, the party led by Digamadulla District MP A. L. M. Athaullah, have met with President Ranil Wickremesinghe today and pledged their support for him in the forthcoming presidential election.
-
-Meanwhile, Mr. Sugath Hewapathirana, the leader of the “Deshapremi Jana Balawegaya”, has also met with President Wickremesinghe and pledged their support to him today.
-
-◼️
-
-[Data](articles/7f4daae6.json)
-
-[Extended Data](ext_articles/7f4daae6.ext.json)
 
 ---

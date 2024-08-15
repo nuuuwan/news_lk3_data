@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 19:36:37**
+As of **2024-08-15 19:54:45**
 
 ## Newspaper Stats
 
-*Scraped **40,940** Articles*
+*Scraped **40,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,488
 dailyftlk | 2,646
-adalk | 3,768
+adalk | 3,769
 dailymirrorlk | 4,733
 adaderanalk | 4,780
 tamilmirrorlk | 5,233
@@ -26,27 +26,41 @@ adaderanasinhalalk | 6,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,939 (100.0%) of 40,940 articles have been extended.
+40,940 (100.0%) of 40,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### ගුවන්තොටුපොළේ නව AC බස් සේවයට විරෝධයක්
+### Objections to New AC bus service at airport
 
 *2024-08-15 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199976) · `si`
 
-කටුනායක ගුවන්තොටුපොළේ සිට කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය දක්වා ක්‍රියාත්මක වන පරිදි අද (15) උදෑසන ආරම්භ කළ නව සුඛෝපභෝගී බස් රථ සේවාවට විරෝධය පළකරමින් ගුවන්තොටුපොළේ සිට කොළඹ කොටුව දක්වා ධාවනය වන සුඛෝපභෝගී බස් රථ සංගමය වර්ජනයක් ආරම්භ කර තිබේ.
+Luxury Bus Association strikes against new AC bus service at the airport due to delayed delivery of buses. Indika Gunasekera, president, mentions 71 luxury buses are registered but not yet operational. He criticizes the lack of action from transport authorities and suggests using 42 buses temporarily. Passengers are charged 300 rupees for the journey. The issue has been brought to the attention of the President and relevant authorities for immediate resolution.
 
-මෙහිදී එම බස් රථ සංගමයේ සභාපති ඉන්දික ගුණසේකර මහතා පවසා සිටියේ, ජනාධිපතිවරණයක් ප්‍රකාශයට පත් කර ඇති කාලසීමාවක නව රැකියා සඳහා පත්වීම් ලබාදීමට නොහැකි සේම නව බස් රථ සඳහා ද එම නිර්දේශ ඒ ආකාරයටම බලපවත්වන බවයි.
+🟩
 
-තම සංගමයේ සුඛෝපභෝගී බස් රථ 71ක් ලියාපදිංචි කර තිබුණත්, ඉන් බස් රථ 42ක් දිනකට ධාවනය නොවන බවත් පැවසූ ඉන්දික ගුණසේකර මහතා පෙන්වා දුන්නේ ලියාපදිංචි බස් රථයක් මාසයක් තුළ දී ධාවනයෙහි යෙදෙන්නේ දින 10ක් පමණක් බවයි.
+The Luxury Bus Association of the airport to Colombo Fort has commenced a strike from the airport to Colombo Fort today (15).
 
-එමෙන්ම තම සංගමයේ බස් රථ ද මීට පෙර කටුනායක ගුවන්තොටුපොළෙන් ගමන් ආරම්භ කළ බවත්, පසුව ආරක්ෂක හේතූන් සහ වෙනත් දේශපාලනික බලපෑම් මත ඇවරිවත්ත නගරයේ සිට තම ගමන්වාර ආරම්භ කිරීමට සිදුවූ බවත් පෙන්වා දුන්නේය.
+The President of the Bus Association Indika Gunasekera said that new buses could not be given to new jobs in a timely declared and new buses would be provided for new buses.
 
-...
+Indika Gunasekera said that 71 luxury buses of their association were registered.
+
+He pointed out that the buses of their association have commenced their travels from the Katunayake airport.
+
+As such, the acting of these acts of acting was not carried out by the Chairman of the Western Province Transport Authority, the Transport and Highways Ministry and the National Transport Commission has commenced.
+
+If there is such a real need, 42 buses can be used for now.
+
+He also indicated that one passenger charges for these destinations 300 rupees.
+
+His bus union has been referred to the President and the relevant sector authorities, reveal to the immediate solution to the problem.
+
+◼️
 
 [Data](articles/19695e0d.json)
+
+[Extended Data](ext_articles/19695e0d.ext.json)
 
 ---
 
@@ -73,6 +87,20 @@ A spokesman for the incident inquiry into the incident, a spokesman said that an
 [Data](articles/0378553e.json)
 
 [Extended Data](ext_articles/0378553e.ext.json)
+
+---
+
+### නාමල් හෙට අනුරපුරින් වැඩ අරඹයි
+
+*2024-08-15 18:34:06* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-හෙට-අනුරපුරින්-වැඩ-අරඹයි/11-411393) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා හෙට දිනයේදී අනුරාධපුර අටමස්ථාන වැඳ පුදා ආශිර්වාද ලබා ගැනීමට නියමිතය.
+
+අද දිනයේදී ඔහු ජනපතිවරණය සඳහා නාම යොජනා භාර දුන්නේය. නාමල් රාජපක්ෂ මහතාගේ මංගල රැළියද අනුරාධපුරයේදී පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/c7e307a4.json)
 
 ---
 
@@ -2243,35 +2271,5 @@ President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have visit
 [Data](articles/0e835e61.json)
 
 [Extended Data](ext_articles/0e835e61.ext.json)
-
----
-
-### Welikada Ayunda Lata arrested
-
-*2024-08-15 10:08:54* · [`adalk`](https://www.ada.lk/breaking_news/’’වැලිකඩ-ඇස්-ලොට්ටා’’-අත්අඩංගුවට/11-411381) · `si`
-
-In Alawwa, a suspect named Welikada Latta was arrested by a large police force, recovering goods worth around Rs. 55 lakhs, including drugs, guns, cameras, and cash. The arrest followed complaints about the suspect entering Ragama, Tawala Mattegoda, and Kottawa Police Divisions. Investigations reveal the suspect allegedly sold drug receipts and used the proceeds to mortgage items for alcohol, which were later found in the suspect's possession.
-
-🟩
-
-Western Province says Welikada Latta, "Welikada Ltta" has been arrested in Alawwaway from Alawwawe and a large number of police divisions in Colombo..
-
-The suspect was recovered by the police, including droth, ginner, cameras phones, cream, about Rs. 55 lakhs worth Rs.
-
-Police said that the police had received complaints that a person who entered in the Ragama Tawala Mattegoda and Kottawa Police Divisions in the Ragama road.
-
-Police say that the suspect was arrested by the suspect in the Bandaranaike Pura area in Rajagiriya regarding the suspect.
-
-According to the police said that the property was plundered by the suspect, a woman and two other people have been placed mortgage in Rajagiriya.
-
-Police investigations have revealed that allegedly sold the receipts of drugs that have been re-sold in the items that have been mortgaged for alcohol, allegedly have a mortgage for alcohol.
-
-Accordingly, police found part of the items that had been sold in the suspect's statements.
-
-...
-
-[Data](articles/4d32544a.json)
-
-[Extended Data](ext_articles/4d32544a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 14:08:32**
+As of **2024-08-15 14:21:12**
 
 ## Newspaper Stats
 
-*Scraped **40,880** Articles*
+*Scraped **40,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,117 @@ dailyftlk | 2,638
 adalk | 3,762
 dailymirrorlk | 4,733
 adaderanalk | 4,773
-tamilmirrorlk | 5,222
-virakesarilk | 6,473
+tamilmirrorlk | 5,223
+virakesarilk | 6,480
 adaderanasinhalalk | 6,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,878 (100.0%) of 40,880 articles have been extended.
+40,880 (100.0%) of 40,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### பொன்சேகாவுக்கு விளக்கு ​​சின்னம்
+### வரலாற்றில் இன்று : “அன்னை இந்தியா சுதந்திரமடைந்துவிட்டாள்”  - 1947 வீரகேசரியில்...
+
+*2024-08-15 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191148) · `ta`
+
+இந்தியாவின் 78ஆவது சுதந்திர தினம் இந்தியாவில் மட்டுமன்றி இலங்கையிலும் இன்று (15) கொண்டாடப்பட்டு வருகிறது.
+
+இந்தியா 1947ஆம் ஆண்டு ஆகஸ்ட் 15ஆம் திகதி பிரித்தானிய ஆட்சியிலிருந்து சுதந்திரம் பெற்றது.
+
+இது தொடர்பான செய்தி,  அவ்வாண்டு இதே திகதியில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் “அன்னை இந்தியா சுதந்திரமடைந்துவிட்டாள்”  எனும் தலையங்கத்தில் பிரசுரிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/3e7581bb.json)
+
+---
+
+### The lamp symbol for Fonseka
 
 *2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-விளக்கு-சின்னம்/175-342225) · `ta`
 
-ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடும் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கு தேர்தல்கள் ஆணைக்குழுவினால் “விளக்கு” ​​சின்னம் வழங்கப்பட்டுள்ளது.
+Field Marshal Sarath Fonseka, running as an independent in Sri Lanka's presidential election, was assigned the "lamp" symbol by the Election Commission.
+
+🟩
+
+Field Marshal Sarath Fonseka, who is contesting as an independent candidate in the presidential election, has been given the "lamp" symbol by the Election Commission.
 
 ◼️
 
 [Data](articles/9118686d.json)
+
+[Extended Data](ext_articles/9118686d.ext.json)
+
+---
+
+### பொன்சேகாவுக்கு லந்தர் சின்னம்
+
+*2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-லந்தர்-சின்னம்/175-342225) · `ta`
+
+ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடும் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கு தேர்தல்கள் ஆணைக்குழுவினால் 'லந்தர்' சின்னம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ea5a9858.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர் ரணிலுக்கு ஆதரவு தெரிவித்துள்ள முஷாரப், இஷாக் ரஹ்மான், அலி சப்ரி ரஹீம்
+
+*2024-08-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191147) · `ta`
+
+ரிஷாத் பதியுதீனின் அகில இலங்கை மக்கள் காங்கிரஸ் எம்.பி.எஸ்.எம்.எம். முஷாரப், ஐக்கிய மக்கள் சக்தியின் எம்.பி.இஷாக் ரஹ்மான், முஸ்லிம் தேசியக் கூட்டணியின் எம்.பி.அலி சப்ரி ரஹிம் ஆகியோர் சுயேட்சை ஜனாதிபதி வேட்பாளர் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு தெரிவித்துள்ளனர்.
+
+பம்பலபிட்டியில் அமைந்துள்ள  அரசியல் அலுவலகத்தில் சற்று முன்னர் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு அவர்கள்  ஜனாதிபதி வேட்பாளர் ரணில் விக்ரமசிங்கவுக்கு தமது ஆதரவை வெளிப்படுத்தினர்.
+
+◼️
+
+[Data](articles/7f2f220d.json)
+
+---
+
+### தமிழ் பொது வேட்பாளரின் சின்னம் அறிவிப்பு
+
+*2024-08-15 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191146) · `ta`
+
+நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் வடக்கு - கிழக்கை பிரதிநிதித்துவப்படுத்தி முன்னாள் பாராளுமன்ற உறுப்பினர் அரியநேத்திரன் போட்டியிடவுள்ளார்.
+
+தமிழ் தேசியம் சார்ந்த கட்சிகள் மற்றும் சமூக மட்ட சிவில் அமைப்புகள் இணைந்து பொதுக்கட்டமைப்பு ஒன்றினை உருவாக்கி, இந்த பொது வேட்பாளரை களமிறக்குகின்றன.
+
+அந்தவகையில், தமிழ் பொது வேட்பாளர் ப.அஅரியநேத்திரனின் நியமனப் பத்திரம் சற்றுமுன் ஏற்றுக் கொள்ளப்பட்டு விட்டதாக தமிழ் பொதுக் கட்டமைப்பு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/7cb18e8f.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் போட்டியிட 39 பேர் தகுதி : தேர்தல்கள் ஆணைக்குழு
+
+*2024-08-15 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191136) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக கட்டுப்பணம் செலுத்திய 40 வேட்பாளர்களில் 39 பேர் இதுவரை தமது வேட்புமனுக்களை சமர்ப்பித்துள்ளதாகவும், அவர்கள் 39 பேரும் தேர்தலில் போட்டியிடத் தகுதிபெற்றுள்ளதாகவும் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்துள்ளார்.
+
+இதேவேளை, சுயேட்சை வேட்பாளர் சரத் குமார குணரத்ன வேட்புமனு பத்திரத்தை சமர்பிக்கவில்லை எனவும் குறிப்பிட்டார்.
+
+வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட பின்னர் இடம்பெற்ற ஊடக சந்திப்பின் போதே தேர்தல்கள் ஆணைக்குழுவின் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+வேட்பு மனுத்தாக்கல் நிறைவடைந்துள்ளது. அனைவருக்கும் நன்றி. நீதியான முறையில் தேர்தலை நடத்த வேட்பாளர்கள் ஒத்துழையுங்கள்.
+
+தாக்கல் செய்யப்பட்ட 39 வேட்பு மனுக்களில் 3 வேட்பு மனுக்கள் மீது முன்வைக்கப்பட்ட ஆட்சேபனைகள் மூன்றும் நிராகரிக்கப்பட்டுள்ளன.
+
+சமூக வலைத்தளங்கள் ஊடாக தவறான மற்றும் வெறுப்பூட்டும் சித்தரிப்புக்களுடனான பிரச்சாரங்களை மேற்கொள்வதை சிவில் பிரஜைகள் தவிர்த்துக்கொள்ள வேண்டும்.
+
+ஒரு வேட்பாளருக்கு மாத்திரம் விசேட சலுகை வழங்கும் ஊடகங்கள் தொடர்பில் அவதானம் செலுத்தப்படும்.
+
+...
+
+[Data](articles/9b0639a2.json)
 
 ---
 
@@ -55,6 +143,18 @@ The Election Commission has assigned the “Gas Cylinder” symbol to President 
 [Data](articles/a50b7fa4.json)
 
 [Extended Data](ext_articles/a50b7fa4.ext.json)
+
+---
+
+### சுயேட்சை வேட்பாளர் ரணிலின் தேர்தல் சின்னம் "கேஸ் சிலிண்டர்"
+
+*2024-08-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191143) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிடும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தேர்தல் சின்னமாக "கேஸ் சிலிண்டர்" சின்னத்தை தேர்தல்கள் ஆணைக்குழு வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/72f93120.json)
 
 ---
 
@@ -122,6 +222,38 @@ The chips are available in three flavours, Cheese & Onion, Salted, and Hot N Spi
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-08-15 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191142) · `ta`
+
+இன்று வியாழக்கிழமை (ஆகஸ்ட் 15) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.5113 ரூபாவாகவும், விற்பனை விலை 303.7761 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/e84d9e26.json)
+
+---
+
+### கைதுசெய்த ரஸ்ய படையினரை மனிதாபிமான ரீதியில் நடத்துகின்றோம்  - அந்த நாட்டிடம் ஒப்படைப்பது குறித்து பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் - உக்ரைன்
+
+*2024-08-15 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191139) · `ta`
+
+கடந்த வாரம் உக்ரைன் படையினர் கைப்பற்றிய ரஸ்யாவின் போர்கைதிகள் குறித்து ரஸ்ய அதிகாரிகளுடன் தொடர்புகொண்டுள்ளதாக மனித உரிமைகளிற்கான உக்ரைனின் நாடாளுமன்ற ஆணையாளர் டிமிட்ரோ லுபினெட்ஸ் தெரிவித்துள்ளார்.
+
+நீங்கள் ரஸ்ய படையினர் சரணடைவதை பார்த்திருப்பீர்கள்என தெரிவித்திருப்பீர்கள் என குறிப்பிட்டுள்ள அவர் உக்ரைன் படையினர் ஜெனீவா சாசனத்தின் படி போர்கைதிகளை கையாள்வதை பார்த்திருப்பீர்கள்ரஸ்ய படையினரின் யுத்த கால உரிமைகளை உறுதி செய்வதை பார்த்திருப்பீர்கள் என தெரிவித்துள்ளார்.
+
+கைதுசெய்யப்பட்ட ரஸ்ய படையினரை எவரும் சித்திரவதை செய்வதில்லைஎவரும் சுடுவதில்லைஆனால் ரஸ்ய படையினர் அதனை செய்கின்றனர் என அவர் தெரிவித்துள்ளார்.
+
+கைதுசெய்யப்பட்ட ரஸ்ய படையினரை விசேட முகாமிற்கு கொண்டு சென்றுள்ளோம்இ அவர்களை ரஸ்ய அரசாங்கத்திடம் ஒப்படைப்பது குறித்து பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் என அவர் தெரிவித்துள்ளார்.
+
+ரஸ்யாவிற்குள் நுழைந்துள்ள உக்ரைன் படையினர் பல திசைகளில் தொடர்ந்தும் முன்னேறிவருகின்றனர் என உக்ரைன் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/b11c84b3.json)
+
+---
+
 ### Election Commission alert for television bandwidth
 
 *2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-தேர்தல்-ஆணைக்குழு-எச்சரிக்கை/175-342220) · `ta`
@@ -150,23 +282,31 @@ The Election Commission urged the company to adhere to media ethics and election
 
 ---
 
-### தொலைக்காட்சி அலைவரிசைக்கு  எச்சரிக்கை
+### Alert to the television bandwidth
 
 *2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-எச்சரிக்கை/175-342220) · `ta`
 
-தேர்தல் ஊடக வழிகாட்டுதல்களை மீறியதாக பிரபல தொலைக்காட்சி அலைவரிசை ஒன்றுக்கு தேர்தல் ஆணைக்குழு எச்சரிக்கை விடுத்துள்ளது.
+The Election Commission warned a popular TV network for violating election media guidelines, citing complaints about slanderous morning show content. The Commissioner highlighted violations including discussing ongoing court cases and promoting a specific candidate without fairness. The Commission urged adherence to ethical standards and election guidelines.
 
-தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஶ்ரீ ரத்நாயக்க ஒளிபரப்பு நிறுவனத்திற்கு கடிதம் ஒன்றை விடுத்து, அந்த அலைவரிசையின் செய்திகளுக்கு எதிராக ஆணைக்குழுவுக்கு பல முறைப்பாடுகள் கிடைத்துள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-இந்த முறைப்பாடுகளில், அவதூறான அறிக்கைகள் வெளியிடப்பட்ட காலை நிகழ்ச்சியின் உள்ளடக்கங்கள் குறித்து ஆணைக்குழு விவரித்துள்ளது.
+The Election Commission has issued a warning of a popular television band on violating election media guidelines.
 
-குறித்த தொலைக்காட்சி அலைவரிசை ஊடக நெறிமுறைகளை மீறும் நடைமுறைகளில் ஈடுபட்டுள்ளதுடன் நீதிமன்றத்தில் நடந்து வரும் வழக்குகள் பற்றி குறித்த சனலில் கலந்துரையாடப்பட்டதாகவும் ஒரு குறிப்பிட்ட வேட்பாளரை  அலைவரிசை ஊக்குவித்து வருவதாகவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+The Commissioner General of Elections Saman Sree Ratnayake issued a letter to the Broadcasting Company and said that the Commission had received several complaints against the news of the bandwidth.
 
-மேலும், அரசியல் கட்சிகளுக்கு எதிராக அவதூறான அறிக்கைகள் வெளியிடப்பட்டதாகவும், அதேசமயம் ஒரு கட்சி மாத்திரம் ஒளிபரப்பு வேளைகளில் தெளிவாக விளம்பரப்படுத்தப்பட்டதாகவும், ஆணைக்குழு கூறியது.
+In these complaints, the Commission described the contents of the morning show published by slanderous reports.
 
-...
+The Election Commission said that the television bandwidth was engaged in violation of media protocols and was discussing the ongoing court cases and promoting a certain candidate.
+
+Moreover, the Commission said that slanderous reports were made against political parties, while only one party was made clear in broadcasting.
+
+The Election Commission urged the company to adhere to media ethics and election media guidelines.
+
+◼️
 
 [Data](articles/7af8d198.json)
+
+[Extended Data](ext_articles/7af8d198.ext.json)
 
 ---
 
@@ -2073,209 +2213,5 @@ But every occasion cannot be accommodated. I have discussed this with President 
 [Data](articles/1b585620.json)
 
 [Extended Data](ext_articles/1b585620.ext.json)
-
----
-
-### Sajith - Patali Memorandum of Understanding Agreement
-
-*2024-08-14 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191116) · `ta`
-
-An MoU was signed between Sajith Premadasa's United People's Power and Patali Champika Ranawaka's UNP, pledging support for Sajith in the upcoming presidential election. The agreement emphasizes unity for national interests and criticizes previous governments' handling of the economy and corruption.
-
-🟩
-
-A Memorandum of Understanding (MoU) was signed between the United People's Power, led by opposition leader Sajith Premadasa and the UNP led by MP Patali Champika Ranawaka.
-
-UNP leader Patali Champika Ranawaka has said that the presidential election will be supported by the United People's Alliance's presidential candidate Sajith Premadasa.
-
-The Memorandum of Understanding between the two sides was held on Wednesday (14).
-
-The United People's Power MPs, including members of the Independent Opposition, were present.
-
-Speaking on the occasion, the UNP leader Patali Champika Ranawaka said,
-
-The people of the country, including the president and the prime minister who came to power with the people of the country in 2019, chased down the government.
-
-The country has improved with the country's free health and free education.. The parties who criticize 75 years of politics must be held responsible for the economic crisis.
-
-...
-
-[Data](articles/f0a7a265.json)
-
-[Extended Data](ext_articles/f0a7a265.ext.json)
-
----
-
-### Malabe ice producing 2 lives
-
-*2024-08-14 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199949) · `si`
-
-In Malabe, Kandy Road, a toxic gas leak led to the discovery of two deceased individuals, aged 45 and 63. The Malabe Police, following directives from the Western South DIG, investigated the scene. Preliminary medical examinations suggest the victims died due to chemical exposure, possibly linked to illicit ice drug production. Authorities, including the Ranawaka Department and STF bomb squad, collected chemical samples for analysis. Despite initial concerns, it was determined the chemicals did not constitute explosive material. Further inspections by the Sri Lanka Atomic Energy Regulatory Council and the Governing Body confirmed no radioactive threats. The police discovered another property in Nedimala owned by one of the deceased, which they sealed off. Investigations continue to determine the nature of the victims' activities and financial circumstances, particularly focusing on recent earnings.
-
-🟩
-
-Tisement of poisonous gas in Malabe Kentota road has revealed many information about two persons.
-
-The deceased has been identified as two 45 year old and 63 years old.
-
-According to the instructions of DIG in charge of the Western South, the Malabe Police had investigated the house today (14).
-
-Medical investigations have revealed that the two deceased have caused the two deceased to the blend of chemicals.
-
-Police suspect that the chemicals are being used to arbitrary, and the two suspects have erupted when they try to produce ice drugs.
-
-Accordingly, the officers of the Ranawaka Department have come and taken the samples of the chemicals concerned with this.
-
-Meanwhile, the STF bomb bomb officers came and inspected the chemicals on the chemicals to ensure that they would produce explosives.
-
-The revealed that the explosives do not produce explosives using those chemicals.
-
-...
-
-[Data](articles/5d36c0a3.json)
-
-[Extended Data](ext_articles/5d36c0a3.ext.json)
-
----
-
-### Why did Sajith support?: Rishad Explanation
-
-*2024-08-14 22:23:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-ஆதரித்தது-ஏன்-ரிஷாட்-விளக்கம்/175-342179) · `ta`
-
-Rishad Bathiudeen announced that the All Ceylon Peoples Congress Party will back Sajith Premadasa in the presidential election, based on widespread consultations across the North and East of Sri Lanka. The decision was reached after gathering input from various stakeholders, including district representatives and party volunteers, ensuring a unified party stance.
-
-🟩
-
-Rishad Bathiudeen, the leader of the party, said today (14) that the All Ceylon Peoples Congress Party will support Sajith Premadasa in the presidential election.
-
-He was speaking at the All Ceylon Peoples Congress Party's media briefing on which the candidate to support the upcoming presidential election was held at the Green Belus Hall in Wellawat this evening.
-
-He said that the All Ceylon Peoples Congress Party and the political authority have gathered in Colombo this evening and made a unanimous decision.
-
-Moreover, over the last two weeks, we went to many places in the North and East and met people, district representatives, party volunteers and supporters and heard the people's views.
-
-Prior to that, we had discussed this issue in the party's highways. This evening, the party's high -end side was reunited and we heard the views of the high -ranking members.
-
-Similarly, it was unanimously decided to support Sajith Premadasa after the people's views were put forward in the high.
-
-...
-
-[Data](articles/d5263386.json)
-
-[Extended Data](ext_articles/d5263386.ext.json)
-
----
-
-### Ukraine is advancing deeper into Russia, Zelenskiy says
-
-*2024-08-14 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/101245/ukraine-is-advancing-deeper-into-russia-zelenskiy-says) · `en`
-
-Ukraine said on Wednesday its forces had advanced further into Russia’s Kursk region in the biggest foreign incursion into Russia since World War Two, posing a dilemma for President Vladimir Putin according to U.S. President Joe Biden.
-
-Thousands of Ukrainian troops rammed through the Russian border in the early hours of Aug. 6 into Russia’s western Kursk region in what Putin called a major provocation aimed at gaining a stronger hand in possible future ceasefire talks.
-
-Ukraine has carved out a slice of the Russian border region of Kursk and though Putin said the Russian army would push out the Ukrainian troops, more than a week of intense battles have so far failed to oust them.
-
-Ukrainian President Volodymyr Zelenskiy said Kyiv’s forces were continuing to gain ground in the Kursk region and that they had taken another one to two kilometres on Wednesday.
-
-...
-
-[Data](articles/3a1d58c0.json)
-
-[Extended Data](ext_articles/3a1d58c0.ext.json)
-
----
-
-### Appointment letters to MJP electorate
-
-*2024-08-14 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199948) · `si`
-
-Dilith Jayaweera criticized politicians, stating people have been handed over to them. He addressed party electoral organizers in Haliela, Haputale, etc., emphasizing the lack of genuine political leaders. Additionally, a women's fort event took place in Colombo's new city hall.
-
-🟩
-
-Dilith Janatha Entrepreneurship Diliva Entrepreneurship Dilith Jayaweera says that the people have been transferred to the politicians.
-
-He was speaking at a meeting of appointment letters to the party's electoral organizers today (14).
-
-The appointment letters to the electoral organizer for the territory of the country, Haliela, Haputale, Dakarawa, Norwood, Agarapathana and Welimada.
-
-Speaking on the occasion, the motherland's leadership leader Dilith Jayaweera,
-
-"The leaders are now going to the party ... Going to this party. But there is no such political politicians unlikely to the earth. "
-
-Meanwhile, the Colombo District Writing Women's Fort of Colombo District, the Colombo district writing Women's Fort was held today at the new city hall.
-
-◼️
-
-[Data](articles/9455a551.json)
-
-[Extended Data](ext_articles/9455a551.ext.json)
-
----
-
-### The Constitution must be changed so that the powers granted in 13 are not re -seized - Sumanthiran urges Ranil
-
-*2024-08-14 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/191115) · `ta`
-
-Sumanthiran urges Wickremesinghe to amend the Constitution to prevent power reclamation under the 13th Amendment, ensuring provincial councils' autonomy post-presidential election.
-
-🟩
-
-President Ranil Wickremesinghe has urged President Ranil Wickremesinghe that the Constitution should be changed so that the powers of the Constitution have not been repeated and given a guarantee before the upcoming presidential election.
-
-The meeting between President Ranil Wickremesinghe and MP MA Sumanthiran of the Sri Lanka Tamil National Alliance (TNA) MA Sumanthiran was held at the Presidential Secretariat at 11.30 am on Wednesday.
-
-President Ranil Wickremesinghe said that during the meeting, representatives of other Tamil political parties have been given a recent document to Sumanthiran, which includes the issues that are intended to implement the 13th Amendment to the Constitution.
-
-At the same time, the two discussed the laws that needed to be implemented in the document and the laws to be lifted.
-
-...
-
-[Data](articles/530263bc.json)
-
-[Extended Data](ext_articles/530263bc.ext.json)
-
----
-
-### A separate meeting between Ranil, Sajith and Equality Party ahead of the presidential election
-
-*2024-08-14 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191114) · `ta`
-
-In a pre-presidential election meeting, Ranil Wickremesinghe, Sajith Premadasa, and the Equality Party discussed the ongoing oppression of Tamil people in Sri Lanka, emphasizing the need for a swift resolution to ethnic issues to foster economic growth and political pluralism. The Equality Party highlighted its stance on the election, focusing on achieving demands and strengthening Tamil communities. However, no major candidate has shown solid plans to address the ethnic issue comprehensively, leading to uncertainty among voters.
-
-🟩
-
-There have been separate meetings between Ranil Wickremesinghe and Sajith Premadasa and the Equality Party.
-
-At the meeting held in Colombo last week, the General Secretary of the Equality Party and former MP Murukesu Chandrakumar. Manoharan was also present.
-
-“The Tamil people continue to be oppressed in many ways. It is the failure of the country to find a solution.Those who are in power and those who do politics from outside power should be held responsible for this. As ethnic repression continues, problems and unsafe conditions continue.
-
-This is the struggles of the Tamil speaking people after the end of the war. You have to find a solution to the ethnic problem without being prolonged. It is necessary for the timely definition and table.
-
-As a country where Sri Lanka lives, it is necessary to create a political system for pluralism and independence.
-
-...
-
-[Data](articles/eb8528cf.json)
-
-[Extended Data](ext_articles/eb8528cf.ext.json)
-
----
-
-### Sandun continuing his fruitful business ventures
-
-*2024-08-14 20:50:00* · [`islandlk`](http://island.lk/sandun-continuing-his-fruitful-business-ventures/) · `en`
-
-Last year, an article titled “Sandun, Regional Expert with a New Mission in Sri Lanka” in the local media showcased his remarkable achievements and clear vision. A year later, Sandun has not only continued his journey of success but also followed his path to become an entrepreneur, a regional and global logistics leader. This follow-up article explores his past year’s progress, upcoming projects, and perspectives on the future of logistics.
-
-Sandun’s journey began in the early 1990s in Sri Lanka. He worked with corporates such as John Keells Holdings and Aitken Spence PLC where he rose to become a General Manager in 2002, heading a joint venture in Bangladesh for five years, navigating significant challenges whilst gaining invaluable experience competing with major players.
-
-...
-
-[Data](articles/ed44a4f3.json)
-
-[Extended Data](ext_articles/ed44a4f3.ext.json)
 
 ---

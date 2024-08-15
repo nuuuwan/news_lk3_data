@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 02:36:46**
+As of **2024-08-16 02:55:11**
 
 ## Newspaper Stats
 
-*Scraped **40,964** Articles*
+*Scraped **40,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,490
-dailyftlk | 2,646
+dailyftlk | 2,652
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
@@ -26,11 +26,107 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,963 (100.0%) of 40,964 articles have been extended.
+40,964 (100.0%) of 40,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Elections, regime shift, and transformation of the State
+
+*2024-08-16 02:34:03* · [`dailyftlk`](https://www.ft.lk/columns/Elections-regime-shift-and-transformation-of-the-State/4-765607) · `en`
+
+The resulting battles will thus to a large degree continue to determine the ultimate significance of any regime that emerges in the immediate aftermath of the election – Pic by Shehan Gunasekara
+
+Elections offer an opportunity to measure the re-composition of social forces. New coalitions are tested, new alliances become possible, and ultimately there is a period of policy convergence. Under ideal circumstances, this process results in the consolidation of a new regime capable of governing over the long run. In a parliamentary democratic system, such a hegemonic bloc can accommodate the rotation of parties in and out of power. The clearest examples in Sri Lanka’s post-independence history, of course, are the ‘intermediate regime’ from 1956 to 1977 and the neoliberal ‘open economy’ that has characterised policy making from 1977 up to the present.
+
+...
+
+[Data](articles/99e9bed4.json)
+
+---
+
+### Rishad’s ACMC inks agreement to support Sajith
+
+*2024-08-16 02:30:16* · [`dailyftlk`](https://www.ft.lk/news/Rishad-s-ACMC-inks-agreement-to-support-Sajith/56-765605) · `en`
+
+The All Ceylon Makkal Congress (ACMC), led by MP Rishad Bathiudeen, yesterday signed an agreement with the ‘Samagi Jana Sandhanaya’ to support Opposition leader Sajith Premadasa in the next month’s Presidential election. The agreement was signed by Samagi Jana Balawegaya (SJB) leader and Presidential candidate Sajith Premadasa and ACMC leader, former Minister Rishad Bathiudeen, at the Cinnamon Lakeside in Colombo. SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and other party members were also present at the occasion.
+
+◼️
+
+[Data](articles/3556b83e.json)
+
+---
+
+### More Muslim MPs join President
+
+*2024-08-16 02:29:24* · [`dailyftlk`](https://www.ft.lk/news/More-Muslim-MPs-join-President/56-765604) · `en`
+
+Three of the four MPs of the All-Ceylon Makkal Congress (ACMC) have expressed their support to President Ranil Wickremesinghe in the next month’s election.
+
+They are MP for Digamadulla District Attorney at Law S.M.M. Muszhaaraff, MP for Puttalam District Ali Sabri Rahim and Anuradhapura District MP Ishaq Rahuman who came from SJB ticket.
+
+Muszhaaraff said: “Although ACMC leader and MP Rishad Bathiudeen has stated his support for Sajith Premadasa, the Muslim community is backing President Ranil Wickremesinghe. The leader of our party claimed that their decision was based on consultations with people across the country. We, however, dispute this claim.”
+
+The MP also stated that President Ranil Wickremesinghe will have the support of the Muslim community, regardless of the decisions made by party leaders.
+
+The MP also noted that Sajith Premadasa failed to conduct a proper investigation into Rishad Bathiudeen while he was in prison, treating him as if he was a member of a different party.
+
+◼️
+
+[Data](articles/f473beaa.json)
+
+---
+
+### Ranil garners further support from activists
+
+*2024-08-16 02:29:09* · [`dailyftlk`](https://www.ft.lk/news/Ranil-garners-further-support-from-activists/56-765603) · `en`
+
+SJB MP M. Velukumar yesterday met with President Ranil Wickremesinghe to pledge his support at the upcoming election.
+
+Former State Minister of Provincial Councils and Local Government has committed to actively supporting President Wickremesinghe’s re-election campaign.
+
+She met with the President on Wednesday and praised his leadership during the country’s crisis, asserting that his continued leadership is crucial for the nation’s recovery. Former MP Gunasekaran Shankar also assured President Wickremesinghe of his full support in the upcoming election.
+
+◼️
+
+[Data](articles/112f4622.json)
+
+---
+
+### Party Chairman and Secretary remanded over bribe from candidate Janaka Ratnayake
+
+*2024-08-16 02:28:52* · [`dailyftlk`](https://www.ft.lk/news/Party-Chairman-and-Secretary-remanded-over-bribe-from-candidate-Janaka-Ratnayake/56-765602) · `en`
+
+United Lanka Podujana Party (Eksath Lanka Podujana Pakshaya) Chairman and Secretary were yesterday ordered to be remanded until 27 August for allegedly soliciting a bribe from the party’s Presidential candidate former PUCSL Chairman Janaka Ratnayake.
+
+Six other suspects arrested in connection with the incident have been ordered released on personal bails of Rs. 2 million each.
+
+On Wednesday a group of officials of the party including its Secretary were arrested by the officers of the Bribery Commission while accepting a bribe of Rs. 30 million from Ratnayake, the party’s Presidential candidate.
+
+The suspects were arrested based on a complaint lodged by Ratnayake, on behalf of whom the security deposit was placed last morning as the party’s Presidential candidate.
+
+◼️
+
+[Data](articles/9393987f.json)
+
+---
+
+### Three ministerial portfolios brought under President’s purview
+
+*2024-08-16 02:28:39* · [`dailyftlk`](https://www.ft.lk/news/Three-ministerial-portfolios-brought-under-President-s-purview/56-765601) · `en`
+
+The ministerial portfolios of Tourism and Lands, Sports and Youth Affairs and the Labour and Foreign Employment have been brought under the purview of the President Ranil Wickremesinghe through an Extraordinary Gazette issued on Wednesday.
+
+The Gazette Notification issued by the Secretary to the President Saman Ekanayake by order of the President stated that it was issued after having consulted with the Prime Minister under Article 44 (3) of the Constitution.
+
+The move comes after former Ministers Harin Fernando and Manusha Nanayakkara lost their Parliamentary seats last week as the Supreme Court ruling upheld their expulsion from the Samagi Jana Balawegaya (SJB).
+
+◼️
+
+[Data](articles/2b294e6e.json)
+
+---
 
 ### The monkey has been diagnosed with the disease
 
@@ -60,15 +156,21 @@ Scientists are worried about the speed of spreading the new variant of the virus
 
 ### 2024-08-15 (Thursday)
 
-### ரூ. 2,85,000 க்கு மாம்பழம் ஏலம்
+### Rs.. Mango auction for 2,85,000
 
 *2024-08-15 23:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-85-000-க்கு-மாம்பழம்-ஏலம்/175-342255) · `ta`
 
-வவுனியா உக்குளங்குளம் ஸ்ரீ சித்த விநாயகர் ஆலய வருடாந்த உற்சவத்தின் போது மாம்பழம் ஒன்று 2,85,000 ரூபாய்க்கு ஏலம் போனது.
+During the Sri Siddha Vinayagar Temple's annual festival in Vavuniya, a mango was auctioned for a record-breaking Rs 2,85,000.
+
+🟩
+
+During the annual festival of Sri Siddha Vinayagar Temple in Vavuniya, a mango bid for Rs 2,85,000.
 
 ◼️
 
 [Data](articles/84048213.json)
+
+[Extended Data](ext_articles/84048213.ext.json)
 
 ---
 
@@ -2167,147 +2269,5 @@ He added that three objections had been submitted during the period allocated fo
 [Data](articles/b8271837.json)
 
 [Extended Data](ext_articles/b8271837.ext.json)
-
----
-
-### Here are the candidates contestants to fight
-
-*2024-08-15 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199965) · `si`
-
-The Elections Commission accepted nomination submissions late but then rejected protests against it, making 39 candidates eligible for the upcoming presidential election.
-
-🟩
-
-The Elections Commission states that the Presidential Elections Testing of the Presidential Elections Testing was submitted after accepting nominations.
-
-However, the Elections Commission authorities have taken steps to reject the protests according to the Elections Act.
-
-Accordingly, 39 candidates were eligible for the presidential election.
-
-◼️
-
-[Data](articles/38b51748.json)
-
-[Extended Data](ext_articles/38b51748.ext.json)
-
----
-
-### Sri Lanka Presidential poll gets 39 nominations
-
-*2024-08-15 12:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-poll-gets-39-nominations-176862/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Elections Commission said it had accepted 39 nominations from candidates for the upcoming Presidential poll.
-
-Nominations were filed by 22 recognized parties, one other party and 16 persons nominated by electors, Elections Commission Chairman R M A L  Rathnayake said, Thursday.
-
-Objections made in regards to Janaka Kumara Ratnayake was rejected by the Commission Chairman R M A L  Rathnayake said, Thursday.
-
-Up to August 14,  40 persons had made deposits. (Colombo/Aug15/2024)
-
-◼️
-
-[Data](articles/3d9776f2.json)
-
-[Extended Data](ext_articles/3d9776f2.ext.json)
-
----
-
-### The right to self -determination has the right to the Tamil people living in the North and East;The United Socialist Party does not stumble like other parties on this issue -
-
-*2024-08-15 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/191132) · `ta`
-
-The United Socialist Party supports the Tamil community's right to self-determination in Sri Lanka's North and East, differing from other parties' stances. They argue against using the 13th Amendment as a vote-grabbing tactic among minorities. Despite potential national disagreement, they believe in fairness and oppose the notion that granting self-determination would lead to division, citing past political shifts as evidence.
-
-🟩
-
-The United Socialist Party's presidential candidate Sinhangjayasuriya has said that the party has never stumbled on the issue of the Tamil community in the North and East.
-
-The 13th Amendment is used as a tool to get votes from minorities during elections.
-
-However, we belong to the United Socialist Party.
-
-We firmly believe that the Tamil community in the North East has the right to self -determination.
-
-Our position may not be supported in some parts of the country, but we think this is fair.
-
-We do not think that the people of the North East are more interested in implementing the current 13 -year -old.
-
-We do not think that giving the Tamils ​​the right to self -determination will divide the country.
-
-For example, the JVP once strongly opposed the 13th Amendment and used violence against it.
-
-But they have changed their position.
-
-◼️
-
-[Data](articles/d8e9ed03.json)
-
-[Extended Data](ext_articles/d8e9ed03.ext.json)
-
----
-
-### Ranil: Kumbittar Sajith
-
-*2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/150-342216) · `ta`
-
-Nominations for the 2024 election opened and closed with 39 candidates participating. An objection period followed, during which President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa had an awkward encounter where Sajith refused to shake hands with Ranil, instead bowing in greeting.
-
-🟩
-
-The process of filing nominations for the 2024 election at the Elections Commission began on Thursday (15) and ended at 11 am.
-
-Time was allocated from 11 am to 11.30 pm to express objections on nominations. A total of 40 people were controlled. However, only 39 candidates filed nominations
-
-Then President Ranil Wickremesinghe got up from the seat he was sitting and went behind him.At the time, Opposition Leader Sajith extended his hand to greeted Premadasa.
-
-However, Sajith Premadasa, who was sitting on the seat he was allocated, would not give his hand, but also bowed down to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/66c452d7.json)
-
-[Extended Data](ext_articles/66c452d7.ext.json)
-
----
-
-### Ranil: Kumbittar Sajith
-
-*2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/175-342216) · `ta`
-
-Nominations for the 2024 election opened and closed with 39 candidates participating. President Ranil Wickremesinghe exited early, missing a handshake offer from Opposition Leader Sajith Premadasa, who instead bowed in respect.
-
-🟩
-
-The process of filing nominations for the 2024 election at the Elections Commission began on Thursday (15) and ended at 11 am.
-
-Time was allocated from 11 am to 11.30 pm to express objections on nominations. A total of 40 people were controlled. However, only 39 candidates filed nominations
-
-President Ranil Wickremesinghe then left the hall at 11.35 am. At the time, Opposition Leader Sajith extended his hand to congratulate Premadasa.. However, Sajith Premadasa, who was sitting on the seat he was allocated, would not give his hand, but also bowed down to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/d946e8f4.json)
-
-[Extended Data](ext_articles/d946e8f4.ext.json)
-
----
-
-### 39 candidates handed over nominations
-
-*2024-08-15 11:38:47* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-39-දෙනෙකු-නාමයෝජන-භාරදෙයි/11-411385) · `si`
-
-All 39 presidential election candidates submitted their nominations between March 15th and 11 am today.
-
-🟩
-
-39 candidates have handed over nominations for the Presidential Election 2024.
-
-Nominations commenced today (15th) and ended at 11 am today.
-
-◼️
-
-[Data](articles/d2ee0902.json)
-
-[Extended Data](ext_articles/d2ee0902.ext.json)
 
 ---

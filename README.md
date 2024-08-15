@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 11:21:12**
+As of **2024-08-15 11:37:00**
 
 ## Newspaper Stats
 
-*Scraped **40,851** Articles*
+*Scraped **40,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,476
 dailyftlk | 2,638
 adalk | 3,757
 dailymirrorlk | 4,733
-adaderanalk | 4,767
-tamilmirrorlk | 5,212
+adaderanalk | 4,769
+tamilmirrorlk | 5,214
 virakesarilk | 6,471
 adaderanasinhalalk | 6,953
 
@@ -26,53 +26,143 @@ adaderanasinhalalk | 6,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,846 (100.0%) of 40,851 articles have been extended.
+40,851 (100.0%) of 40,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### නාමයෝජනා භාරදීම අවසන්
+### 39 பேர் வேட்புமனு தாக்கல்
+
+*2024-08-15 11:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/39-பேர்-வேட்புமனு-தாக்கல்/175-342211) · `ta`
+
+கட்டுப்பணம் செலுத்திய 40 வேட்பாளர்களில் 39 பேர் வேட்புமனுவை தாக்கல் செய்துள்ளதாக இலங்கை தேர்தல்கள் ஆணையாளர் அறிவித்துள்ளார்.
+
+கட்டுப்பணம் செலுத்திய 40 பேரில் 39 பேர், இராஜகிரியவில் உள்ள தேர்தல் செயலகத்தில் இன்று (15)  வேட்புமனு தாக்கல் செய்துள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+காலை 9 மணிக்கு வேட்புமனு தாக்கல் தொடங்கி 11 மணிக்கு நிறைவடைந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/77f88756.json)
+
+---
+
+### முச்சக்கர வண்டி சாரதி மீது துப்பாக்கிச் சூடு
+
+*2024-08-15 11:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-சாரதி-மீது-துப்பாக்கிச்-சூடு/175-342210) · `ta`
+
+முச்சக்கர வண்டி சாரதியை இலக்கு வைத்து நடாத்தப்பட்ட துப்பாக்கிச் சூடு தோல்வியடைந்த சம்பவம் ஒன்று நேற்று (14) மாலை ஹிக்கடுவை பகுதியில் பதிவாகியுள்ளது.
+
+T-56 ரக துப்பாக்கியுடன் மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் முச்சக்கர வண்டி சாரதியை நோக்கி துப்பாக்கிச் சூடு நடத்த முயற்சித்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+எவ்வாறாயினும், துப்பாக்கிப் பிரயோகம் தவறியதால், சாரதிக்கும் தாக்குதல் நடாத்தியவர்களுக்கும் இடையில் கைகலப்பு ஏற்பட்டதைத் தொடர்ந்து சாரதி தப்பியோடி மறைந்ததுடன், துப்பாக்கிதாரிகளும் குறித்த பிரதேசத்தை விட்டு வெளியேறியுள்ளனர்.
+
+சம்பவம் தொடர்பில் ஹிக்கடுவ பொலிஸார் விசாரணைகளை மேற்கொண்டு வரும் நிலையில், சம்பவ இடத்தில் டி-56 ரக துப்பாக்கி தோட்டா ஒன்று கண்டுபிடிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a20ee171.json)
+
+---
+
+### 2024 Presidential Poll: Accepting nominations concludes
+
+*2024-08-15 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101254/2024-presidential-poll-accepting-nominations-concludes-) · `en`
+
+The accepting of nominations for the upcoming Presidential Election concluded at 11.00 a.m. today (15) at the Election Secretariat in Rajagiriya.
+
+The Chairman of the Election Commission R.M.A.L. Rathnayake announced that a total of 39 out of 40 candidates who have placed bonds to contest the 2024 Presidential Election have submitted their nominations.
+
+The written objections for the nominations can be submitted until 11.30 a.m. today, he said.
+
+The nominations were accepted from 9.00 a.m. to 11 a.m. on Thursday, with the filing of objections permitted between 9.00 a.m. and 11:30 a.m. The allocation of election symbols for candidates from other parties is scheduled following the objection period.
+
+The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election concluded at 12 noon on Wednesday (14), while 40 individuals in total have placed deposits to contest the upcoming presidential election.
+
+...
+
+[Data](articles/25718a7d.json)
+
+---
+
+### Nomination submission is over
 
 *2024-08-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199964) · `si`
 
-2024 ජනාධිපතිවරණයට අදාළ නාමයෝජනා භාරගැනීම රාජගිරියේ පිහිටි මැතිවරණ ලේකම් කාර්යාලයේදී අද (15) සිදුකළේය.
+Nominations for the 2024 presidential election closed today after opening at 9 am and concluding at 11 am. The Electoral Commission confirmed that all but one candidate have been cleared to run.
 
-මැතිවරණ කොමිසම පැවසුවේ ඇප තැබු අපේක්ෂකයින් 40 දෙනා අතුරින් 39 දෙනෙකු නාමයෝජනා භාරදුන් බවයි.
+🟩
 
-නාමයෝජනා භාරගැනීම උදෑසන 9ට ආරම්භ කළ අතර එම කටයුතු නිමවූයේ උදෑසන 11ට ය.
+2024 Accepting nominations for the presidential election was accepted at the Elections Secretariat in Rajagiriya today (15).
+
+The Electoral Commission said that 39 of the 40 candidates were bail.
+
+Nominations were opened at 9 am and the work was completed at 11 am.
 
 ◼️
 
 [Data](articles/d00003f8.json)
 
+[Extended Data](ext_articles/d00003f8.ext.json)
+
 ---
 
-### “ அனுர அல்லது சஜித் வெற்றி பெறுவார்கள் ”
+### “Anura or Sajith will win”
 
 *2024-08-15 10:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-அல்லது-சஜித்-வெற்றி-பெறுவார்கள்/175-342208) · `ta`
 
-இலங்கையின் தலைமைத்துவம் கண்டிப்பாக மாற வேண்டும் எனவும், இம்முறையும் மக்கள் தவறிழைத்தால் மிகவும் சோகமான சூழலுக்கு முகம் கொடுக்க வேண்டி வரும் எனவும் ஜனாதிபதி வேட்பாளர் ஏ.எஸ். பி. லியனகே, வேட்புமனுக்களை கையளித்த பின்னர் தெரிவித்தார்.
+AS emphasizes the need for change in Sri Lanka's leadership, highlighting corruption as a major issue. B. Liyanage predicts victory for either Anura or Sajith, regardless of the outcome.
 
-இலங்கை மக்கள் 75 வருடங்களாக ஊழல்வாதிகளால் ஏமாற்றப்பட்டு வந்துள்ளதுடன் இந்த தேர்தலில் ஊழல்வாதிகள் அனைவரும் அரசாங்கத்துடன் இணைந்து உள்ளதாகவும் அவர் தெரிவித்தார்.
+🟩
 
-அனுரகுமார    அல்லது சஜித் வெற்றி பெறுவார்கள் என்றும், யார் வெற்றி பெற்றாலும் பிரச்சினை இல்லை என்றும் அவர் மேலும் குறிப்பிட்டார்.
+The presidential candidate AS has said that the leadership of Sri Lanka must change and this time will face the sad environment if people fail this time.. B.. Liyanage said after handing over the nominations.
+
+He said that the Sri Lankan people have been deceived by the corrupt for 75 years and that all corrupt people have joined the government in this election.
+
+He added that Anurakumara or Sajith would win and no matter who wins, he said.
 
 ◼️
 
 [Data](articles/652006af.json)
 
+[Extended Data](ext_articles/652006af.ext.json)
+
 ---
 
-### திலகரை வாழ்த்தினார் மனோ
+### 39 presidential candidates submit nominations
+
+*2024-08-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101253/39-presidential-candidates-submit-nominations) · `en`
+
+The Chairman of the Election Commission R.M.A.L. Rathnayake announced that 39 out of 40 candidates who have placed bonds to contest the 2024 Presidential Election have submitted their nominations thus far.
+
+He stated this while addressing the presidential candidates, signatories and others in attendance at the Election Secretariat for the submission of nominations.
+
+He stated that a total of 40 candidates had placed deposits for the election and that of them 39 have so far hand over their nominations while one more candidate is yet to hand over nominations for the presidential poll.
+
+The submission of nominations, which commenced at 9.00 a.m. this morning at the Presidential Secretariat, will conclude at 11.00 a.m.
+
+◼️
+
+[Data](articles/2df7f545.json)
+
+---
+
+### Mano greeted Tilakar
 
 *2024-08-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலகரை-வாழ்த்தினார்-மனோ/175-342207) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடும் முன்னாள் பாராளுமன்ற உறுப்பினர் மயில்வாகனம் திலக்ராஜ் வேட்புமனுவை தாக்கல் செய்வதற்காக தேர்தல்கள் ஆணைக்குழுவுக்கு வருகைதந்திருந்த போது, அங்கிருந்த பாராளுமன்ற உறுப்பினர் மனோ கணேசன் வாழ்த்தினார்.
+Mano Ganesan, a former parliamentarian, congratulated the Elections Commission for filing a nomination for former MP Mayilvankanam Tilakraj.
+
+🟩
+
+Former parliamentarian Mano Ganesan congratulated the Elections Commission to file a nomination of former MP Mayilvankanam Tilakraj.
 
 ◼️
 
 [Data](articles/33e41f16.json)
+
+[Extended Data](ext_articles/33e41f16.ext.json)
 
 ---
 
@@ -142,21 +232,27 @@ The nomination proposal was handed over to the Elections Commission Rajagiriya.
 
 ---
 
-### அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியீடு
+### Highs Gazette Notification Release
 
 *2024-08-15 10:37:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-342206) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கீழ் மூன்று அமைச்சுப் பதவிகளைக் கொண்டுவருவதற்கான விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+A gazette notification has restructured three ministries under President Ranil Wickremesinghe: Tourism, Land & Sports, Youth Affairs, Labor, and Foreign Employment. This move follows the loss of parliamentary seats by former ministers Manusha Nanayakkara and Harin Fernando, leaving the positions vacant.
 
-இதன்படி, சுற்றுலா, காணி மற்றும் விளையாட்டு , இளைஞர் விவகாரங்கள் அத்துடன் தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு ஆகிய அமைச்சுக்கள் ஜனாதிபதியின் கீழ் கொண்டு வரப்பட்டுள்ளன.
+🟩
 
-முன்னாள் அமைச்சர்களான மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர் இதற்கு முன்னர் இந்த அமைச்சுப் பதவிகளை வகித்தனர்.
+A special gazette notification has been issued to bring three ministry posts under President Ranil Wickremesinghe.
 
-இந்த பதவிகள் பாராளுமன்ற உறுப்பினர்கள் தங்கள் பாராளுமன்ற ஆசனங்களை இழந்ததால் வெற்றிடமாகியமை குறிப்பிடத்தக்கது.
+Accordingly, the Ministries of Tourism, Land and Sports, Youth Affairs as well as labor and foreign employment have been brought under the President.
+
+Former ministers Manusha Nanayakkara and Harin Fernando have previously held the ministry posts.
+
+It is noteworthy that these positions were vacant because MPs lost their parliamentary seats.
 
 ◼️
 
 [Data](articles/6ff5175e.json)
+
+[Extended Data](ext_articles/6ff5175e.ext.json)
 
 ---
 
@@ -204,21 +300,29 @@ Mr. Karu Kumar has supported the President today (15).
 
 ---
 
-### போலி இணையத்தளங்கள் குறித்து எச்சரிக்கை!
+### Warning on fake websites!
 
 *2024-08-15 10:22:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இணையத்தளங்கள்-குறித்து-எச்சரிக்கை/175-342205) · `ta`
 
-இலங்கை கணினி அவசர தயார்நிலைக் குழு | ஒருங்கிணைப்பு மையம் (SLCERT|CC) பொது மக்களை தேர்தல் காலத்தில் தனிப்பட்ட தகவல்களை சேகரிப்பதை ஊக்குவிக்கும் இணைப்புகளுக்குள் உள்நுழைய வேண்டாம் என்று எச்சரித்துள்ளது.
+A fake website resembling Sri Lanka's Election Commission's official site has been identified by SLCERT. It collects personal data under the guise of hiring for public sector jobs. Users are warned against sharing personal information on such sites and are advised to verify official communications through authorized channels.
 
-ஜனாதிபதி தேர்தலை இலக்கு வைத்து உத்தியோகபூர்வ சேவைகள் என்ற பெயரில் தனிப்பட்ட முக்கிய தகவல்களை சேகரிக்கும் இணையத்தளம் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக SLCERT சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருகா தமுனுபொல டெய்லி மிரருக்கு தெரிவித்தார்.
+🟩
 
-“போலி இணையதளம் தேர்தல் ஆணையத்தின் அதிகாரப்பூர்வ இணையதளத்தை ஒத்திருந்தது. இது தேர்தலுக்கு முன்னதாக பல்வேறு பொதுத்துறை காலியிடங்களுக்கு புதிய பணியாளர்களை ஆட்சேர்ப்பு செய்வதாக விளம்பரப்படுத்தியதுடன் புதிய விண்ணப்பங்களை இலவசமாக ஏற்றுக்கொள்வதற்கு ஒரு பக்கம் திறக்கப்பட்டுள்ளது என்றும் அவர் விளக்கினார்.
+Sri Lanka Computer Emergency Ready Committee |The Coordination Center (Slcert |
 
-"உள்நுழைவுக்குப் பிறகு, தனிப்பட்ட தகவலுடன் ஒரு கேள்வித்தாளை நிரப்ப விண்ணப்பதாரர்கள் கேட்கப்படுகின்றனர். முடிவில், பல வட்ஸ்அப் குழுக்களில் இறுதி இணைப்பைப் பகிருமாறும் அதில் தெரிவிக்கப்படுகிறது”என்று அவர் மேலும் கூறினார்.
+SLCERT Senior Information Safety Engineer Saruka Tamunubola told the Daily Mirror that a website for collecting personal information in the name of official services targeting the presidential election has been found.
+
+“Fake website resembles the official website of the Election Commission. He explained that it was promoted to recruit new employees for various public sector vacancies before the election and opened a page for free accepting new applications.
+
+"After login, applicants are asked to fill a questionnaire with personal information. In the end, it is also reported to share the final link in many WhatsApp groups, ”he added.
+
+The Election Commission, which received the complaints, has been asked by formalism to investigate the matter.. Tamunubola also said that the victims lodged a complaint with SLCERT.
 
 ...
 
 [Data](articles/16b273a5.json)
+
+[Extended Data](ext_articles/16b273a5.ext.json)
 
 ---
 
@@ -2107,107 +2211,5 @@ The National Congress President and Member of Parliament ALM. Athaullah met Pres
 [Data](articles/db7f65fb.json)
 
 [Extended Data](ext_articles/db7f65fb.ext.json)
-
----
-
-### The best attitude is to bargain with the presidential candidates using the opportunity -Indian High Commissioner to Sumanthiran
-
-*2024-08-14 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191110) · `ta`
-
-The Indian High Commissioner suggested bargaining with presidential candidates to ensure full implementation of power, highlighting the importance of addressing unfulfilled constitutional amendments and administrative powers during the election process.
-
-🟩
-
-The Indian High Commissioner Santosh Ja has pointed out that this time, before deciding which of the candidates contesting the presidential election, it is the best approach to the authority to fully implement the power of power and go beyond all the candidates.
-
-The meeting between Indian High Commissioner Santosh Ja and Sri Lanka Tamil National Alliance (TNA) parliamentarian MA Sumanthiran was held at the Indian residence in Colombo at 10.00 am on Wednesday.
-
-During the meeting, Sumanthiran explained to the High Commissioner about the political solution to the Tamils ​​with the major candidates to contest the upcoming presidential election.
-
-...
-
-[Data](articles/04e582c2.json)
-
-[Extended Data](ext_articles/04e582c2.ext.json)
-
----
-
-### Opponent Rauf Hakeem's views unacceptable - Jeevan Thondaman
-
-*2024-08-14 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/191109) · `ta`
-
-Rauf Hakeem, leader of the Sri Lankan Muslim Congress, promises a religious governor for the East if his party governs. Jeevan Thondaman, Water Supply Minister, supports this, indicating alignment with the government's 100-day plan. The National Council meets on the 18th to decide election support. Hakeem signs an agreement for a religious minister, emphasizing non-discrimination among Tamils, Sinhalese, and Muslims. Critics predict failure for President Ranil Wickremesinghe due to religious and ethnic biases, suggesting a polarized political landscape.
-
-🟩
-
-Sri Lankan Muslim Congress leader Rauf Hakeem has said that if his government rules, he can get a religious governor to the East.. Water Supply Minister Jeevan Thondaman said that this could be understood what the government would be.
-
-We and the President are working for the 100 -day program. So there is nothing to sign new contracts. Our National Council will convene on the 18th and decide who will support the presidential election.
-
-Sri Lanka Muslim Congress leader Rauf Hakeem has stated that he has signed the agreement and then if his government rules, he can get a religious governor in the East.. He also mentioned that a religious minister will get.
-
-In our government we think as Sri Lankans. We have no discrimination of Tamil, Sinhala and Muslim in any case. Our purpose is to take the country a Sri Lankan. But based on what they refer, it is predicted to be what their government is.
-
-...
-
-[Data](articles/4db5afc9.json)
-
-[Extended Data](ext_articles/4db5afc9.ext.json)
-
----
-
-### Banning to see Sigiria
-
-*2024-08-14 17:43:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகிரியாவை-பார்க்க-தடை/175-342174) · `ta`
-
-Due to a wasp attack, the Central Kala Fund suspended tours to Sigiriya, affecting 70 tourists. 26 foreigners and 13 locals were injured, with many leaving the hospital untreated. This is the first such incident, possibly triggered by heat and high tourist activity. Tour guides recommend protective measures against wasps to prevent future losses. The project is exploring steam spraying as a solution and plans to refund affected tourists.
-
-🟩
-
-Following the target of 70 domestic and foreign tourists, the Central Kala Fund was suspended on Wednesday afternoon (14).
-
-Sigiriya Project Manager Dusitha Herath said that hundreds of tourists have lost their chances of traveling to Sigiriya due to the danger of the wasp.
-
-26 foreign tourists and 13 local tourists have been injured and admitted to the emergency department of Sikiriya Divisional Hospital. He also said that many people left the hospital without treatment.
-
-The official said that this is the first time that tourists face the wasp attack and most of them are shocked by the incident.
-
-It is believed that the nests of the wasps may have been dissolved due to the existing heat and the high advent of tourists.
-
-Meanwhile, tour guides have suggested that steps should be taken to protect tourists without a wasp attack and that there will be a huge loss.
-
-...
-
-[Data](articles/d217f981.json)
-
-[Extended Data](ext_articles/d217f981.ext.json)
-
----
-
-### Will the Tamil general candidate protect the people?;Protect Ranil?- Chandrasekaran question!
-
-*2024-08-14 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/191107) · `ta`
-
-Chandrasekaran criticizes Ranil Vikram Singh, accusing him of not aligning with Tamil aspirations. He suggests that Tamil political parties' talks with Ranil, despite his controversial past, may deceive the Tamil community. The statement highlights concerns over the potential appointment of a Tamil general presidential candidate and the implications for Tamil interests.
-
-🟩
-
-Jaffna Mawatha organizer of the Janatha Vimukthi Peramuna (Jaffna), Ramalingam Chandrasekaran, has accused Ranil Vikram Singh to change the idea of ​​winning the aspirations of the Tamil people.
-
-He was speaking at a media briefing held at his party office in Jaffna on Wednesday (14).
-
-It was created in the hope that a Tamil general presidential candidate should be appointed by the Tamil people's expected demand.
-
-In the wake of this creation, the Tamil political parties, who have signed a general structure, have been speaking to the president last week.
-
-The current president and the candidate of the presidential election, the current president and the candidate contesting the upcoming presidential election, can be understood by the aim of appointing a Tamil general candidate.
-
-While the history of the Tamil people in the history of the United National Party, the Tamil parties are talking to Ranil, which is a deceit for their people.
-
-...
-
-[Data](articles/86a2721c.json)
-
-[Extended Data](ext_articles/86a2721c.ext.json)
 
 ---

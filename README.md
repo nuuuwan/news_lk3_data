@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 08:55:32**
+As of **2024-08-15 09:07:07**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 6,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,815 (100.0%) of 40,818 articles have been extended.
+40,818 (100.0%) of 40,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### தேர்தல் அச்சுப்பணிகள் நாளை முதல் ஆரம்பம்
+### Election Prints are the beginning of tomorrow
 
 *2024-08-15 08:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அச்சுப்பணிகள்-நாளை-முதல்-ஆரம்பம்/175-342196) · `ta`
 
-ஜனாதிபதி தேர்தலுடன் தொடர்புடைய அச்சுப்பணிகள் நாளை முதல் ஆரம்பிக்கப்படவுள்ளதாக அரச அச்சகர் கங்கா கல்பனி லியனகே தெரிவித்துள்ளார்.
+State Minister Ganga Kalpani Liyanage announced that the presidential election process begins tomorrow, with candidate nominations concluding today post-Elections Commission approval. He noted an increase in presidential hopefuls but expects no substantial difference from the 2019 election lineup.
 
-இன்று வேட்புமனு தாக்கல் நிறைவடைந்து தேர்தல்கள் ஆணைக்குழுவின் அனுமதி கிடைத்ததன் பின்னர் அச்சுப்பணிகள் ஆரம்பிக்கப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+🟩
 
-இம்முறை ஜனாதிபதி தேர்தலில் களமிறங்கும் வேட்பாளர்களின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், 2019 ஆம் ஆண்டு பயன்படுத்தப்பட்ட வாக்குச்சீட்டுடன் ஒப்பிடும் போது குறிப்பிடத்தக்க மாற்றம் ஏதும் இடம்பெறாது  எனவும் அவர் தெரிவித்துள்ளார். (a)
+State Amaker Ganga Kalpani Liyanage says that the presidential elections will be launched from tomorrow.
+
+He said that the nominations will be completed today after the approval of the Elections Commission, he said.
+
+He said that the number of candidates for the presidential election has increased, and there will be no significant change compared to the 2019 ballot.. (A)
 
 ◼️
 
 [Data](articles/979fff68.json)
 
+[Extended Data](ext_articles/979fff68.ext.json)
+
 ---
 
-### வேட்புமனு தாக்கல் இன்று
+### Nomination filing today
 
 *2024-08-15 08:28:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனு-தாக்கல்-இன்று/175-342195) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்களின் வேட்புமனுக்கள் இன்று காலை 9 மணி முதல் முற்பகல் 11 மணி வரை ஏற்றுக்கொள்ளப்படவுள்ளன.
+Nominations for the presidential election open from 9 am to 11 am today. Objections can be presented until 11.30 am.
 
-இதற்கான ஆட்சேபனைகளை முன்வைப்பதற்கு காலை 9 மணி முதல் முற்பகல் 11.30 வரை சந்தர்ப்பம் வழங்கப்படவுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார். (a)
+🟩
+
+The nominations of candidates contesting the presidential election will be accepted from 9 am to 11 am today.
+
+The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the opportunity will be issued from 9 am to 11.30 am to present the objections.. (A)
 
 ◼️
 
 [Data](articles/a6beefb2.json)
+
+[Extended Data](ext_articles/a6beefb2.ext.json)
 
 ---
 
@@ -572,19 +584,25 @@ Meanwhile, the number of representatives visiting with candidates who file nomin
 
 ---
 
-### கொழும்பில் இன்று விசேட பாதுகாப்பு
+### Special security in Colombo today
 
 *2024-08-15 02:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கொழும்பில்-இன்று-விசேட-பாதுகாப்பு/150-342181) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான வேட்புமனு தாக்கல் செய்யும் தினமான இன்று விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்படவுள்ளன.
+Today, special security measures are in place for the presidential nomination filing day in Colombo. A unique traffic plan is being enforced around the Rajagiriya election office. Additionally, the number of candidate visitors has been restricted.
 
-இராஜகிரியவில் உள்ள தேர்தல் அலுவலகத்தை அண்மித்த வீதிகளில் இன்று விசேட போக்குவரத்துத் திட்டம் அமுல்படுத்தப்படவுள்ளது.
+🟩
 
-இதேவேளை, வேட்புமனுக்களைத் தாக்கல் செய்யும் வேட்பாளர்களுடன் வருகைதரும் பிரதிநிதிகளின் எண்ணிக்கையும் மட்டுப்படுத்தப்பட்டுள்ளது. (a)
+Special security arrangements will be made today, the day of filing nominations for the presidential election.
+
+A special traffic scheme is to be implemented on the streets near the election office in Rajagiriya today.
+
+Meanwhile, the number of representatives visiting with candidates who file nominations has been limited. (A)
 
 ◼️
 
 [Data](articles/c7b0a2ca.json)
+
+[Extended Data](ext_articles/c7b0a2ca.ext.json)
 
 ---
 

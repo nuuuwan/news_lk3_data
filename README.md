@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 05:39:17**
+As of **2024-08-15 06:02:49**
 
 ## Newspaper Stats
 
-*Scraped **40,790** Articles*
+*Scraped **40,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 379
 colombotelegraphcom | 391
-islandlk | 2,354
+islandlk | 2,363
 economynextcom | 2,476
 dailyftlk | 2,633
 adalk | 3,751
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,790 (100.0%) of 40,790 articles have been extended.
+40,798 (100.0%) of 40,799 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -464,6 +464,60 @@ As a country where Sri Lanka lives, it is necessary to create a political system
 
 ---
 
+### Sandun continuing his fruitful business ventures
+
+*2024-08-14 20:50:00* · [`islandlk`](http://island.lk/sandun-continuing-his-fruitful-business-ventures/) · `en`
+
+Last year, an article titled “Sandun, Regional Expert with a New Mission in Sri Lanka” in the local media showcased his remarkable achievements and clear vision. A year later, Sandun has not only continued his journey of success but also followed his path to become an entrepreneur, a regional and global logistics leader. This follow-up article explores his past year’s progress, upcoming projects, and perspectives on the future of logistics.
+
+Sandun’s journey began in the early 1990s in Sri Lanka. He worked with corporates such as John Keells Holdings and Aitken Spence PLC where he rose to become a General Manager in 2002, heading a joint venture in Bangladesh for five years, navigating significant challenges whilst gaining invaluable experience competing with major players.
+
+...
+
+[Data](articles/ed44a4f3.json)
+
+[Extended Data](ext_articles/ed44a4f3.ext.json)
+
+---
+
+### Dual Digital Zone openings in Kandy and Katugastota
+
+*2024-08-14 20:48:00* · [`islandlk`](http://island.lk/dual-digital-zone-openings-in-kandy-and-katugastota/) · `en`
+
+In a strategic move to enhance digital banking accessibility and customer convenience, Pan Asia Bank, known for its innovative approach to banking, has launched state-of-the-art Digital Zones in both Kandy and Katugastota. This dual opening reinforces the bank’s commitment to bringing advanced banking services closer to its customers in these key regions.
+
+The new Digital Zones are equipped with cutting-edge technology, offering customers a seamless banking experience with a suite of self-service facilities available 24/7.
+
+Naleen Edirisinghe, CEO of Pan Asia Bank, stated “We are proud to expand our digital footprint with the launch of new Digital Zones in Katugastota and Kandy. This marks another step forward in our mission to bring world-class banking solutions closer to our customers”
+
+...
+
+[Data](articles/6a268176.json)
+
+[Extended Data](ext_articles/6a268176.ext.json)
+
+---
+
+### Indonesian Festival 2024 combines the sublime and the enthralling
+
+*2024-08-14 20:47:00* · [`islandlk`](http://island.lk/indonesian-festival-2024-combines-the-sublime-and-the-enthralling/) · `en`
+
+The embassy of Indonesia together with the Sri Lanka Indonesia Friendship Association (SLIFA) organized “The Indonesian Festival” on August 10th at the premises of the embassy of Indonesia, at 400/50, Sarana Road, Colombo 7, which commenced at 2.00 pm. .
+
+“The Indonesian Festival” was a cultural evening and bazaar and was organized for the third consecutive year. All proceeds from this event will be in aid of charity.
+
+The bazaar was declared opened by Dewi Gustina Tobing, ambassador for Indonesia in Sri Lanka and Maldives. She was received by the President of SLIFA, Nihal Jayasuriya and members of the Executive Committee. This festival was also attended by some foreign ambassador in Sri Lanka.
+
+The Chief Guest at the Indonesian Festival and cultural show was Ms. Kushani Anusha Rohanadeera, Secretary General of Parliament of Sri Lanka. She was received by Dewi Gustina Tobing, Nihal Jayasuriya and members of the Indonesian embassy and members of the Executive Committee.
+
+...
+
+[Data](articles/5256e354.json)
+
+[Extended Data](ext_articles/5256e354.ext.json)
+
+---
+
 ### Machinery Of Influence: Lessons From The Different Systems Of Propaganda In Nazi Germany & Imperial Japan
 
 *2024-08-14 20:44:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/machinery-of-influence-lessons-from-the-different-systems-of-propaganda-in-nazi-germany-imperial-japan/) · `en`
@@ -475,6 +529,24 @@ It would not be wrong to say that WWII saw the zenith of the use of propaganda i
 [Data](articles/b64b3f1e.json)
 
 [Extended Data](ext_articles/b64b3f1e.ext.json)
+
+---
+
+### Heavy foreign investor interest in blue chips pushes CSE turnover past Rs. I billion
+
+*2024-08-14 20:43:00* · [`islandlk`](http://island.lk/heavy-foreign-investor-interest-in-blue-chips-pushes-cse-turnover-past-rs-i-billion/) · `en`
+
+The stock market kicked off on a strong note yesterday with satisfactory retail and institutional participation. Heavy foreign investor interest in blue chip companies and positive quarterly results for banking sector counters aided the market.
+
+The All Share Price Index gained 9.9 points, pushing the turnover past the Rs 1 billion level, market analysts said.
+
+The S and P SL20 rose up by 34.1 points. Turnover stood at Rs 1.3 billion with three crossings. Those crossings were reported in JKH, which crossed 1.3 million shares to the tune of Rs 233 million; its shares traded at Rs 179.50, Hayleys 250,000 shares crossed for Rs 23.5 million; its shares traded at Rs 94 and Standard Capital 652,000 shares crossed for Rs 32.8 million; its shares sold at Rs 35.
+
+...
+
+[Data](articles/42857f54.json)
+
+[Extended Data](ext_articles/42857f54.ext.json)
 
 ---
 
@@ -2137,93 +2209,5 @@ Accordingly, the second schools in these schools will end on Friday 16th August.
 [Data](articles/9db753d3.json)
 
 [Extended Data](ext_articles/9db753d3.ext.json)
-
----
-
-### The 9th presidential election - the crucial preferential
-
-*2024-08-14 13:32:00* · [`adalk`](https://www.ada.lk/opinion/9වැනි-ජනාධිපතිවරණය---තීරණාත්මක-දෙවැනි-මනාපය--/2-411369) · `si`
-
-In the 9th Sri Lankan presidential election, Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, and Namal Rajapaksa are key contenders. Wickremesinghe, an independent candidate backed by the SLPP and UNP, faces tight competition. Polls indicate a close race, with no clear winner expected to secure over 50% of the votes in the first round. The importance of second preferences looms large, potentially influencing the outcome.
-
-🟩
-
-President Ranil Wickremesinghe has been an independent candidate as an independent candidate and the Sri Lanka Appointment (SLPP) candidate for weeks and rumors.. Sajith Premadasa, Sajith Premadasa, National JJs (JJB) Anura Kumara Dissanayake is the other two leading candidates.
-
-Field Marshal Sarath Fonseka, Wijeyadasa Rajapakse, Dilith Jayaweera and many other candidates in the ground, the four candidates will be over.
-
-The Sri Lanka General Assembly, 92 Members of Parliament, an independent candidate and the UNP (UNP) was a massive strength to support the leader of the UNP (UNP). This happened after the Rajapaksas made to submit a candidate on the Sri Lanka General Man. Even though Wickremasinghe's tight opponent, Wimal Weerawansa, was reluctant, was ahead of the candidate list.
-
-...
-
-[Data](articles/7e56fc2c.json)
-
-[Extended Data](ext_articles/7e56fc2c.ext.json)
-
----
-
-### Sri Lanka president proposes anti-narcotics agency with police, military and civil participation
-
-*2024-08-14 13:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-proposes-anti-narcotics-agency-with-police-military-and-civil-participation-176742/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President has proposed establishing a new agency under the Anti-Narcotics Act with police, military, and civil agencies presence in a single entity.
-
-“This agency could be tasked with long-term engagement in combating drug-related activities,” Ranil Wickremesinghe was quoted as saying by his media division, during the opening of the Special Operations Command of the Police Special Task Force in Sri Jayewardenepura, on Tuesday (13).
-
-“It is crucial that drug dealers are prevented from undermining society.
-
-“Today, individuals involved in the underworld can exploit new technology, necessitating the introduction of specific laws to control them.
-
-“I propose establishing a new agency under the Anti-Narcotics Act, which would consolidate all police, military, and civil agencies into a single entity with designated powers.”
-
-The newly opened Special Operations Command is set to act as the primary hub for managing public order and motorcycle patrols.
-
-...
-
-[Data](articles/ac000457.json)
-
-[Extended Data](ext_articles/ac000457.ext.json)
-
----
-
-### 40 candidates place deposits for 2024 Presidential Election as deadline ends
-
-*2024-08-14 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101230/40-candidates-place-deposits-for-2024-presidential-election-as-deadline-ends) · `en`
-
-The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election has concluded at 12 noon today (14).
-
-Four candidates have placed deposits within today, the final day for the placing of bonds, including MP Namal Rajapaksa from the Sri Lanka Podujana Peramuna (SLPP), Janaka Ratnayake from the ‘United Lanka Podujana Party’, Lalith De Silva of the ‘United National Freedom Party’ and independent candidate Sarath Kumara Gunarathne.
-
-The Election Commission has stated that in total 40 individuals have placed deposits to contest the upcoming presidential election.
-
-This includes 22 candidates from recognized political parties, 01 from other political parties and 17 independent candidates nominated by a voter.
-
-The placing of deposits related to the presidential election commenced on July 26 and concluded at 12 noon today.
-
-The acceptance of nominations for the upcoming presidential election is scheduled to begin tomorrow (15) from 9.00 a.m. to 11.00 a.m.
-
-...
-
-[Data](articles/5828ee29.json)
-
-[Extended Data](ext_articles/5828ee29.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-14 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191076) · `ta`
-
-As of August 14, the US dollar is valued at 294.5495 according to the latest exchange rates announced by the Central Bank.
-
-🟩
-
-The US dollar purchasing price was 294.5495 based on the currency exchange rate released today (August 14) at the Central Bank.
-
-◼️
-
-[Data](articles/9a96031f.json)
-
-[Extended Data](ext_articles/9a96031f.ext.json)
 
 ---

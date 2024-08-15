@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 10:55:13**
+As of **2024-08-15 11:07:31**
 
 ## Newspaper Stats
 
-*Scraped **40,840** Articles*
+*Scraped **40,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,476
 dailyftlk | 2,638
-adalk | 3,754
+adalk | 3,757
 dailymirrorlk | 4,733
-adaderanalk | 4,766
+adaderanalk | 4,767
 tamilmirrorlk | 5,208
 virakesarilk | 6,471
-adaderanasinhalalk | 6,950
+adaderanasinhalalk | 6,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,840 (100.0%) of 40,840 articles have been extended.
+40,840 (100.0%) of 40,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### WHO declares monkeypox a global public health emergency
+
+*2024-08-15 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101252/who-declares-monkeypox-a-global-public-health-emergency) · `en`
+
+The World Health Organization on Wednesday declared mpox a global public health emergency for the second time in two years, following an outbreak of the viral infection in Democratic Republic of Congo that has spread to neighbouring countries.
+
+An emergency committee met earlier on Wednesday to advise WHO Director-General Tedros Adhanom Ghebreyesus on whether the disease outbreak constitutes a “public health emergency of international concern,” or PHEIC.
+
+PHEIC status is WHO’s highest level of alert and aims to accelerate research, funding and international public health measures and cooperation to contain a disease.
+
+“It’s clear that a coordinated international response is essential to stop these outbreaks and save lives,” said Tedros.
+
+Mpox can spread through close contact. Usually mild, it is fatal in rare cases. It causes flu-like symptoms and pus-filled lesions on the body.
+
+...
+
+[Data](articles/cf46c870.json)
+
+---
+
+### අයිස් මත්ද්‍රව්‍ය සමග දෙදෙනෙකු අල්ලයි
+
+*2024-08-15 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199963) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත ඔරුගොඩවත්ත ප්‍රදේශයේ දී සිදුකළ වැටලීම් දෙකක දී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 150යි මිලිග්‍රෑම් 600ක් පොලිස් භාරයට ගෙන තිබේ.
+
+වැටලීමේ දී සැකකරුවන් දෙදනෙකු අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගන්නා අවස්ථාවේදී එක් සැකකරුවෙකු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 12යි මිලිග්‍රෑම් 720ක්ද පොලිස් භාරයට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය විකුණා උපයාගත් බවට සැකකරෙන මුදලින් රුපියල් 98,700/-ක්ද එක් සැකකරුවෙකු සන්තකයේ තිබී හමුවී තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 53 යන වයස්වල පසුවන ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/6fdb4269.json)
+
+---
+
+### ජනපති රනිල් නාම යෝජනා භාර දෙයි
+
+*2024-08-15 10:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රනිල්-නාම-යෝජනා-භාර-දෙයි/11-411383) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුලු මොහොතකට පෙර සිය නාමයෝජනා පත්‍රය භාර දීම සිදු කළේය.
+
+රාජගිරිය මැතිවරණ කොමිෂන් සභාව වෙත පැමිණ මෙලෙස නාම යෝජනා භාර දීම සිදු කළේය.
+
+◼️
+
+[Data](articles/5fba9566.json)
+
+---
+
+### මෙරටට පැමිණි විදෙස් සංචාරකයින් ගණන ලක්ෂ 12 ඉක්මවයි
+
+*2024-08-15 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199962) · `si`
+
+ඒ අනුව වසරේ මේ දක්වා කාලය තුළ සංචාරකයින් 1,271,432 දෙනෙකු දිවයිනට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+
+ඉන් වැඩි දෙනෙකු ඉන්දීය සංචාරකයින් වන අතර එම සංඛ්‍යාව 237,649කි.
+
+එමෙන්ම රුසියාව, බ්‍රිතාන්‍ය, ජර්මනිය, චීනය සහ ප්‍රංශය ඇතුළු රටවලින් ද වැඩි වශයෙන් සංචාරකයින් දිවයිනට පැමිණ තිබේ.
+
+මේ අතර මේ මස මුල් දින 11 තුළ සංචාරකයින් 73,373 දෙනෙකු දිවයිනට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/c607dafe.json)
+
+---
+
+### සජබ මන්ත්‍රීවරයෙක් ජනපතිගේ සහයට එයි
+
+*2024-08-15 10:25:38* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-මන්ත්‍රීවරයෙක්-ජනපතිගේ-සහයට-එයි/11-411382) · `si`
+
+සමගි ජන බලවේගය නියෝජනය කරන තවත් මන්ත්‍රීවරයෙක් ජනාධිපතිවරණ අපේක්ෂක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීම සිදු කර තිබේ.
+
+ඒ අනුව වේලු කුමාර් මහතා මෙලෙම අද(15දා) ජනාධිපතිවරයාට සහය පළ කර ඇත.
+
+◼️
+
+[Data](articles/ad7f95d0.json)
+
+---
 
 ### First Randoli Perahera of Kandy Esala Festival commences tonight
 
@@ -87,6 +171,22 @@ The Election Commission has begun the process of accepting nominations for the 2
 [Data](articles/2e8dc0b0.json)
 
 [Extended Data](ext_articles/2e8dc0b0.ext.json)
+
+---
+
+### කෝණේස්වරම් කෝවිලේ පිළිමයකට පළඳවා තිබූ දේවාභරණ අතුරුදන් වෙලා
+
+*2024-08-15 10:03:15* · [`adalk`](https://www.ada.lk/breaking_news/කෝණේස්වරම්-කෝවිලේ-පිළිමයකට-පළඳවා-තිබූ-දේවාභරණ-අතුරුදන්-වෙලා/11-411380) · `si`
+
+ත්‍රිකුණාමලය කෝණේස්වරන් කෝවිලේ දේව පිළිමයකට පළඳවා තිබූ රන් තාලියක් හා පා සලඹක් අතුරුදහන් වීමේ සිද්ධියක් සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කර ඇතැයි ත්‍රිකුණාමල මූලස්ථාන පොලිසිය කියයි.
+
+කෝවිලේ ආවතේව කරනු ලබන කාන්තාවක් වන ත්‍රිකුණාමලය, ඕර්ස් හිල් කන්නගිපුරම් පදිංචි අරුල් දාස් අරූෂා නැමැතිය මෙම දේවාභරණ අතුරුදහන් වීමේ සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමල පොලිසියට පැමිණිලි කර ඇති අතර අතුරුදහන් දේවාභරණවල වටිනාකම සඳහන් කර නැතැයි පොලිසිය පෙන්වා දෙයි .
+
+සිද්ධිය සම්බන්ධයෙන් ත්‍රිකුණාමල මූලාස්ථාන පොලිසියේ අපරාධ අංශය පරීක්ෂණයක් ආරම්භ කර ඇති අතර කෝවිල් පරිසරය සවිකර ඇති සී.සී.ටි.වී කැමරා පද්ධතිය අක්‍රිය වී ඇති බව නිරීක්ෂණය වී තිබේ .
+
+◼️
+
+[Data](articles/626099fb.json)
 
 ---
 
@@ -2097,145 +2197,5 @@ The former Chairman of the Public Utilities Commission of Public Utilities Commi
 [Data](articles/626f525b.json)
 
 [Extended Data](ext_articles/626f525b.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields up across shorter maturities
-
-*2024-08-14 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-up-across-shorter-maturities-176802/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 3-month and 6-month treasury bill yields were up at Wednesday’s auction while the 12-month was down, with all offered 130 billion bills sold, data from the debt office showed.
-
-The 3-month yield was up 17 basis points to 9.39 percent, with 60 billion rupees offered and 60.9 billion rupees of bills sold.
-
-The 6-month yield was up 12 basis points to 9.68 percent, with 35 billion offered and 48.5 billion rupees of bills sold.
-
-The 12-month bills fell 3 basis points to 10.03 percent, with 35 billion offered and 20.5 billion rupees of bills sold. (Colombo/Aug14/2024)
-
-◼️
-
-[Data](articles/e804e77e.json)
-
-[Extended Data](ext_articles/e804e77e.ext.json)
-
----
-
-### Principal of the Tanamalwila school girl includes
-
-*2024-08-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199939) · `si`
-
-The principal and four suspects from the Tanamalwila school incident have been released on bail, ordered to appear before the Wellawaya Magistrate's Court.
-
-🟩
-
-The Principal and four suspects have been released on bail.
-
-The Magistrate ordered that the suspects were produced before the Wellawaya Magistrate's Court today (14) on two personal bail of Rs.
-
-◼️
-
-[Data](articles/630e970a.json)
-
-[Extended Data](ext_articles/630e970a.ext.json)
-
----
-
-### Employee of the Arctic Radar site
-
-*2024-08-14 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191098) · `ta`
-
-An employee at the Arctic Radar site in Nunavut, Canada, died from a rare snow bear attack, the second such incident in recent years. Snow bear populations, affected by global warming, are decreasing. Meanwhile, a black bear attack in Montana endangered a child, highlighting the danger these animals pose despite their smaller size compared to polar bears.
-
-🟩
-
-An employee who worked at the Arctic Radar site in the northern Nunawat of Canada has died after being hit by two snow bears.
-
-The attack took place on Breward Island, southeast of Bafin Island.
-
-The deceased is working at the Nasituk Corporation, a company that operates radar security sites on behalf of the Canadian government.
-
-In these areas, the snow bear attack on humans is rarely occurring.
-
-“The safety and well -being of our employees is one of the main. We are very obliged to ensure a safe workshop for employees, ”the company said.
-
-This is the second incident that followed after the snow bear struck last year.
-
-Last year, a woman and her 1 -year -old son were attacked by a bear in the village of Alaskan.
-
-Two -thirds of the world's snow bears ie 17,000 bears in Canada. The number of snow bears is decreasing. Scientists say that the global warming is the cause of the destruction of glaciers and the destruction of places for reproduction.
-
-...
-
-[Data](articles/8f0a9d5f.json)
-
-[Extended Data](ext_articles/8f0a9d5f.ext.json)
-
----
-
-### Our choice is Ranil Wickremesinghe;He is the one who bravely declares that the 13th Amendment should continue and practice it - Ali Sabri
-
-*2024-08-14 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191086) · `ta`
-
-In the midst of Sri Lanka's political climate, the focus shifts towards Ranil Wickremesinghe, praised for his bravery in advocating for the continuation and implementation of the 13th Amendment, a stance considered bold amidst the pre-presidential election dynamics. Despite historical political differences, the emphasis is on addressing current challenges, particularly economic ones, rather than adhering strictly to party lines. Wickremesinghe is highlighted for his experience and potential to navigate the complexities of governance, including economic management and foreign relations. The decision by the Sri Lanka PA to field its own candidate is noted, with internal support leaning towards Wickremesinghe due to his leadership in initiating economic recovery efforts. The majority of the Sri Lanka PA's MPs have chosen Wickremesinghe, indicating a significant alignment within the party. Criticisms from Namal Rajapaksa are acknowledged as part of democratic discourse, while Wickremesinghe's suitability in fostering a common Sri Lankan identity is underscored through his track record of addressing issues affecting the common good. The upcoming election is anticipated to feature strong contenders, with the outcome to be determined by the voters on September 21st.
-
-🟩
-
-Ranil Wickremesinghe is brave enough that the 13th Amendment should continue and implement it. It is impossible to report this in Sri Lanka's political environment before the presidential election. External Affairs and Justice Minister Ali Sabri said that this is the most difficult issue, saying that Ranil Wickremesinghe is very relevant in our choices.
-
-Question - What are your feelings about campaigning in favor of someone who has worked against you throughout your political life?
-
-Answer - This is a part of politics. It is necessary to examine the current challenges and priority to the country than to be stubborn about parties and political leaders.
-
-So what is important in this moment. Especially economics.
-
-We must choose someone who can face these challenges. Because of this I choose him.
-
-Question - You have consistently stated that it is the most important thing to strengthen the country's stability. Do you not think that anyone like Dhammika can help at this moment?
-
-...
-
-[Data](articles/386c7e4d.json)
-
-[Extended Data](ext_articles/386c7e4d.ext.json)
-
----
-
-### President reveals plans to provide income tax relief and IMF’s counter proposal
-
-*2024-08-14 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101239/president-reveals-plans-to-provide-income-tax-relief-and-imfs-counter-proposal) · `en`
-
-President Ranil Wickremesinghe has revealed plans to provide relief for personal income tax in the near future as the government is considering adjustments to the personal income tax structure to provide relief to taxpayers, the President’s Media Division reported.
-
-Following the strong performance in tax revenue this year, the government has proposed to the International Monetary Fund (IMF) an adjustment in Personal Income Tax slabs from Rs. 500,000 to Rs. 720,000, aiming to provide relief to mid-level taxpayers affected by recent tax reforms, he said.
-
-The IMF, in turn, has suggested changes, offering more relief to lower bands, similar relief for mid-level taxpayers and slightly less for higher earners, while keeping the proposal’s core intact, he said.
-
-The President revealed this while delivering the keynote address at the University Lecturers’ Conference held at the Water’s Edge Hotel last evening (13).
-
-...
-
-[Data](articles/4319beaa.json)
-
-[Extended Data](ext_articles/4319beaa.ext.json)
-
----
-
-### President reveals plans to provide income tax relief and IMF’s counter proposal
-
-*2024-08-14 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/101239/president-reveals-plans-to-provide-income-tax-relief-and-imfs-counter-proposal-) · `en`
-
-President Ranil Wickremesinghe has revealed plans to provide relief for personal income tax in the near future as the government is considering adjustments to the personal income tax structure to provide relief to taxpayers, the President’s Media Division reported.
-
-Following the strong performance in tax revenue this year, the government has proposed to the International Monetary Fund (IMF) an adjustment in Personal Income Tax slabs from Rs. 500,000 to Rs. 720,000, aiming to provide relief to mid-level taxpayers affected by recent tax reforms, he said.
-
-The IMF, in turn, has suggested changes, offering more relief to lower bands, similar relief for mid-level taxpayers and slightly less for higher earners, while keeping the proposal’s core intact, he said.
-
-The President revealed this while delivering the keynote address at the University Lecturers’ Conference held at the Water’s Edge Hotel last evening (13).
-
-...
-
-[Data](articles/59f3b6f3.json)
-
-[Extended Data](ext_articles/59f3b6f3.ext.json)
 
 ---

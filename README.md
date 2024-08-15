@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 02:21:23**
+As of **2024-08-16 02:36:46**
 
 ## Newspaper Stats
 
-*Scraped **40,963** Articles*
+*Scraped **40,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,646
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
-tamilmirrorlk | 5,235
+tamilmirrorlk | 5,236
 virakesarilk | 6,489
 adaderanasinhalalk | 6,969
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,963 (100.0%) of 40,963 articles have been extended.
+40,963 (100.0%) of 40,964 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,18 @@ Scientists are worried about the speed of spreading the new variant of the virus
 ---
 
 ### 2024-08-15 (Thursday)
+
+### ரூ. 2,85,000 க்கு மாம்பழம் ஏலம்
+
+*2024-08-15 23:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-85-000-க்கு-மாம்பழம்-ஏலம்/175-342255) · `ta`
+
+வவுனியா உக்குளங்குளம் ஸ்ரீ சித்த விநாயகர் ஆலய வருடாந்த உற்சவத்தின் போது மாம்பழம் ஒன்று 2,85,000 ரூபாய்க்கு ஏலம் போனது.
+
+◼️
+
+[Data](articles/84048213.json)
+
+---
 
 ### Anger for Geeta
 
@@ -2297,27 +2309,5 @@ Nominations commenced today (15th) and ended at 11 am today.
 [Data](articles/d2ee0902.json)
 
 [Extended Data](ext_articles/d2ee0902.ext.json)
-
----
-
-### Sri Lanka’s tourist arrivals exceed 1.25 million
-
-*2024-08-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101256/sri-lankas-tourist-arrivals-exceed-125-million) · `en`
-
-The total number of foreign tourist arrivals recorded in Sri Lanka this year has exceeded 1,250,000.
-
-According to the Sri Lanka Tourism Development Authority, approximately 1,271,432 foreign tourists have visited the island so far this year.
-
-A majority of the foreign visitors are Indian tourists and this figure is 237,649.
-
-In addition to this, large numbers of tourists from countries including Russia, Britain, Germany, China and France have also arrived in the island this year.
-
-Meanwhile, it is also reported that a total of 73,373 tourists have visited the island in the first 11 days of this month.
-
-◼️
-
-[Data](articles/4efea9b7.json)
-
-[Extended Data](ext_articles/4efea9b7.ext.json)
 
 ---

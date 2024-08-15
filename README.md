@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 13:36:51**
+As of **2024-08-15 13:56:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,869 (100.0%) of 40,878 articles have been extended.
+40,876 (100.0%) of 40,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,35 +42,49 @@ The Election Commission has assigned the “Gas Cylinder” symbol to President 
 
 [Data](articles/a50b7fa4.json)
 
+[Extended Data](ext_articles/a50b7fa4.ext.json)
+
 ---
 
-### ජනපති ගෑස් සිලින්ඩරය ලකුණුන් තරගබිමට
+### President's gas cylinder marks
 
 *2024-08-15 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199966) · `si`
 
-2024 ජනාධිපතිවරණයේ ස්වාධීන අපේක්ෂකයෙක් ලෙස ඉදිරිපත් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඡන්ද සලකුණ ලෙස ගෑස් සිලින්ඩරය ලබාදී තිබේ.
+Ranil Wickremesinghe uses a gas cylinder as his symbol in the 2024 presidential race, marking it as a unique campaign feature. This move also involves several notable figures including MP Gayasan Nawasaram Sharimani Wijewewa, former Minister Sirimani Wijerachchi, and others from the United People's Front, highlighting a collective effort behind his candidacy.
 
-මේ අතර ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපතිවරයාගේ ජයග්‍රහණය තහවුරු කිරීමට කැපවන බව සමගි ජන බලවේගය පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී එම්. වේලුකුමාර්, ශ්‍රී ලංකා පොදුජන පෙරමුණේ මොණරාගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගයාශාන් නවනන්ද, දිගාමඩුල්ල දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රි සහ හිටපු ඇමතිනි ශ්‍රීයානි විජේවික්‍රම, හිටපු පාර්ලිමේන්තු මන්ත්‍රී ගුණසේකරම් ශංගර්, එක්සත් ජනතා පෙරමුණ පක්ෂයේ නායක ආචාර්ය සිරිමසිරි හපුආරච්චි යන මහත්ම මහත්මිහු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සහතික වී තිබේ.
+🟩
+
+The gas cylider has been given as President Ranil Wickremesinghe's election signifier as an independent candidate of the 2024 presidential election.
+
+Meanwhile, MP's parliamentarian MMI. Talkumar, Colombo District MP Gayasan Nawasaram Sharimani Wijewewa, leader, leader of former MPs, and former Minister of Parliamentarian Sirimani Wijerachchi, leader of the United People's Front, and former Minister of Parliamentarian Sirimani Wijerachchi.
 
 ◼️
 
 [Data](articles/542cb80f.json)
 
+[Extended Data](ext_articles/542cb80f.ext.json)
+
 ---
 
-### ஜனாதிபதி எரிவாயு சிலிண்டர் சின்னம்
+### The symbol of the president's gas cylinder
 
 *2024-08-15 13:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எரிவாயு-சிலிண்டர்-சின்னம்/175-342223) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க 2024 ஜனாதிபதி தேர்தலில் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிடவுள்ளார்.
+President Ranil Wickremesinghe, leading the United National Party, contests the 2024 presidential election as an independent candidate under the "gas cylinder" symbol. Among 39 contenders, he stands out, preparing for the race on September 21.
 
-ஐக்கிய தேசியக் கட்சியின் தலைவரான ஜனாதிபதி ரணில் விக்கிரமசிங்க,    சுயேட்சை வேட்பாளராக வேட்புமனு தாக்கல் செய்தார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க உட்பட 39 வேட்பாளர்கள் இந்த ஆண்டு செப்டம்பர் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதி தேர்தலில் போட்டியிட தகுதி பெற்றுள்ளனர்.
+President Ranil Wickremesinghe will contest the 2024 presidential election at the gas cylinder symbol.
+
+President Ranil Wickremesinghe, the leader of the United National Party, filed a nomination as an independent candidate.
+
+39 candidates, including President Ranil Wickremesinghe, are eligible to contest the presidential election on September 21 this year.
 
 ◼️
 
 [Data](articles/a94d5db1.json)
+
+[Extended Data](ext_articles/a94d5db1.ext.json)
 
 ---
 
@@ -92,59 +106,83 @@ The chips are available in three flavours, Cheese & Onion, Salted, and Hot N Spi
 
 [Data](articles/326321c2.json)
 
+[Extended Data](ext_articles/326321c2.ext.json)
+
 ---
 
-### தொலைக்காட்சி அலைவரிசைக்கு தேர்தல் ஆணைக்குழு எச்சரிக்கை
+### Election Commission alert for television bandwidth
 
 *2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-தேர்தல்-ஆணைக்குழு-எச்சரிக்கை/175-342220) · `ta`
 
-தேர்தல் ஊடக வழிகாட்டுதல்களை மீறியதாக பிரபல தொலைக்காட்சி அலைவரிசை ஒன்றுக்கு தேர்தல் ஆணைக்குழு எச்சரிக்கை விடுத்துள்ளது.
+The Election Commission warned a TV channel for violating election media guidelines, citing complaints about slanderous morning show content. The Commissioner highlighted violations including discussing ongoing court cases, promoting a specific candidate, and biased reporting against political parties. The Commission urged the broadcaster to follow ethical standards and election guidelines.
 
-தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஶ்ரீ ரத்நாயக்க ஒளிபரப்பு நிறுவனத்திற்கு கடிதம் ஒன்றை விடுத்து, அந்த அலைவரிசையின் செய்திகளுக்கு எதிராக ஆணைக்குழுவுக்கு பல முறைப்பாடுகள் கிடைத்துள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-இந்த முறைப்பாடுகளில், அவதூறான அறிக்கைகள் வெளியிடப்பட்ட காலை நிகழ்ச்சியின் உள்ளடக்கங்கள் குறித்து ஆணைக்குழு விவரித்துள்ளது.
+The Election Commission has issued a warning of a popular television band on violating election media guidelines.
 
-குறித்த தொலைக்காட்சி அலைவரிசை ஊடக நெறிமுறைகளை மீறும் நடைமுறைகளில் ஈடுபட்டுள்ளதுடன் நீதிமன்றத்தில் நடந்து வரும் வழக்குகள் பற்றி குறித்த சனலில் கலந்துரையாடப்பட்டதாகவும் ஒரு குறிப்பிட்ட வேட்பாளரை  அலைவரிசை ஊக்குவித்து வருவதாகவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+The Commissioner General of Elections Saman Sree Ratnayake issued a letter to the Broadcasting Company and said that the Commission had received several complaints against the news of the bandwidth.
 
-மேலும், அரசியல் கட்சிகளுக்கு எதிராக அவதூறான அறிக்கைகள் வெளியிடப்பட்டதாகவும், அதேசமயம் ஒரு கட்சி மாத்திரம் ஒளிபரப்பு வேளைகளில் தெளிவாக விளம்பரப்படுத்தப்பட்டதாகவும், ஆணைக்குழு கூறியது.
+In these complaints, the Commission described the contents of the morning show published by slanderous reports.
 
-...
+The Election Commission said that the television bandwidth was engaged in violation of media protocols and was discussing the ongoing court cases and promoting a certain candidate.
+
+Moreover, the Commission said that slanderous reports were made against political parties, and that only one party was clearly advertised in broadcasting.
+
+The Election Commission urged the company to adhere to media ethics and election media guidelines.
+
+◼️
 
 [Data](articles/25436bf7.json)
 
+[Extended Data](ext_articles/25436bf7.ext.json)
+
 ---
 
-### தேர்தல் வேண்டாமென துண்டுப்பிரசுரம்
+### Election pamphlet
 
 *2024-08-15 12:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தேர்தல்-வேண்டாமென-துண்டுப்பிரசுரம்/71-342219) · `ta`
 
-தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான செ.கஜேந்திரன், தமிழ் தேசிய மக்கள் முன்னணியின் உறுப்பினர்கள் துண்டு பிரசுரங்களை வழங்கி மக்களுக்கு தமது நிலைப்பாடுகளை தெளிவுபடுத்தியிருந்தமை குறிப்பிடத்தக்கது.
+C. Gajendran, General Secretary of the Tamil National People's Front and MP, distributed election pamphlets to voters.
+
+🟩
+
+Significantly, the General Secretary of the Tamil National People's Front and Member of Parliament, C. Gajendran, has made leaflets by providing leaflets to the people.
 
 ◼️
 
 [Data](articles/11cf9b68.json)
 
+[Extended Data](ext_articles/11cf9b68.ext.json)
+
 ---
 
-### ඕනැම මැතිවරණයකින් පසු  ප්‍රචණ්ඩ ක්‍රියා ඇති වෙනවා
+### There is violence after any election
 
 *2024-08-15 12:27:17* · [`adalk`](https://www.ada.lk/breaking_news/ඕනැම-මැතිවරණයකින්-පසු--ප්‍රචණ්ඩ-ක්‍රියා-ඇති-වෙනවා/11-411387) · `si`
 
-2022 ජූලි මාසයේ දී රට තුළ නීතිය හා සාමය ස්ථාපිත කළ නිසා 2024  සැප්තැම්බර් 21දා  ජනාධිපතිවරයෙක් තෝරා ගැනීමට ජනතාවට අවස්ථාව ලැබී තිබෙනවා
+Elections in the country, following the establishment of law and order in July 2022, were peaceful. New laws aimed at suppressing underworld activities through advanced technology are being introduced. President Ranil Wickremesinghe highlighted the importance of maintaining law and order to prevent violence post-elections and to protect the nation from underworld influence. He emphasized the role of the Special Task Force in managing public order and combating terrorism and extremism. The President also discussed the need for new legislation to tackle modern challenges posed by technology in the hands of criminal elements, aiming to preserve the country's democratic system and fundamental rights.
 
-පාතාලයට හෝ මත්ද්‍රව්‍ය ජාවාරම් කරුවන්ට රට විනාශ කිරීමට ඉඩ දිය නොහැකියි.
+🟩
 
-නව තාක්ෂණය භාවිතයෙන් සිදුවන පාතාල ක්‍රියාවන් මැඩලීමට ද නව නීති ගෙන එනවා – ජනපති.
+The people have been able to select a president on September 21, 2024 due to the establishment of law and order in July 2022
 
-2022 ජූලි මාසයේදී රට තුළ නීතිය හා සාමය ස්ථාපිත කිරීමට කටයුතු කළ නිසා 2024 සැප්තැම්බර් 21 දා තම ඡන්දය භාවිතා කර ජනාධිපතිවරයෙක් තෝරා ගැනීමට මේ රටේ ජනතාවට අවස්ථාව ලැබී ඇති බවත්, ඒ වෙනුවෙන් කැපවී කටයුතු කළ මෙරට සියලු ආරක්ෂක අංශ සාමාජිකයන්ට තම ස්තූතිය පිරිනමන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Underworld or drug dealer cannot allow the country to destroy the country.
 
-එසේම නීතිය හා සාමය තහවුරු කරමින් රට තුළ නිදහස් සහ ස්වාධීන මැතිවරණයක් පැවැත්වීමට සහාය ලබාදීම ජනාධිපතිවරයා ලෙස තමාගේද, මැතිවරණ කොමිසමේ මෙන්ම පොලිස් දෙපාර්තමේන්තුවේ ද වගකීම බව ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+New laws will be brought to suppress underworld activities in new technology - President.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ  පොලිස් විශේෂ කාර්ය බලකායේ ශ්‍රී ජයවර්ධනපුර විශේෂ මෙහෙයුම් විධානය  විවෘත කිරිමේ අවස්ථාවට අද (13) පස්වරුවේ එක් වෙමිනි.
+President Ranil Wickremesinghe has provided the opportunity to establish law and order in July 20, 2024, to establish law and order in July 2024, and the people of this country were given the opportunity to vote for the president.Said.
+
+The President also pointed out that the President is also responsible for providing the support and independent election in the country by consolidating law and order.
+
+President Ranil Wickremesinghe made this statement at the opening of the Special Operations Command of the Police Special Task Force (13).
+
+The President emphasized that there was no violence in the country after the presidential election on the 21st presidential election.
 
 ...
 
 [Data](articles/1a3f19a4.json)
+
+[Extended Data](ext_articles/1a3f19a4.ext.json)
 
 ---
 

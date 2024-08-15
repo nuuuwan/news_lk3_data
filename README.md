@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 22:54:21**
+As of **2024-08-15 23:06:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,958 (100.0%) of 40,959 articles have been extended.
+40,959 (100.0%) of 40,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -272,23 +272,31 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 
 ---
 
-### නව ඉලෙක්ට්‍රොනික විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීම ඔක්තෝබර් අගදී
+### Issuing new electronic foreign passports in late October
 
 *2024-08-15 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-ඉලෙක්ට්‍රොනික-විදෙස්-ගමන්-බලපත්‍ර-නිකුත්-කිරීම-ඔක්තෝබර්-අගදී/11-411399) · `si`
 
-ජනතාව අපහසුතාවට පත්‍ නොවන පරිදි විදෙස් ගමන් බලපත්‍ර ලබා දීමට වහාම ක්‍රියාමාර්ග ගන්න - විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව ආගමන හා විගමන පාලක ජනරාල්වරයාට දැනුම් දෙයි
+In late October, new electronic passports will be issued, addressing concerns raised by the Sectoral Oversight Committee on an Open and Responsible Government. This move comes after the committee urged swift action to avoid embarrassment to citizens. The introduction of e-passports marks a significant shift, with the Controller General of Immigration and Emigration highlighting its benefits and the need for transparency. The new "Immigration Bill," aimed at modernizing immigration laws and combating human smuggling, has faced challenges but remains a priority. The bill, initially drafted in 2017, seeks to align immigration practices with current societal and technological norms, ensuring efficiency and security in passport issuance and management.
 
-මිනිස් අවහරණය (Human Smuggling)  සදහා ප්‍රථම වරට මෙම නව පනත් කෙටුම්පත මගින්  නව නීති...
+🟩
 
-ජනතාව අපහසුතාවට පත්‍ නොවන පරිදි විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීමට වහාම ක්‍රියාමාර්ග ගන්නා ලෙස විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගරු ජගත් කුමාර සුමිත්‍රාආරච්චි මහතා විසින් ආගමන හා විගමන පාලක ජනරාල්වරයාට පසුගියදා දැනුම් දෙන ලදී.
+Take immediate action to provide foreign passports for the people, as the people are not embarrassed - the Sectoral Oversight Committee on an Open and Responsible Government informs the Controller General of Immigration and Emigration
 
-නව “ආගමන”  පනත් කෙටුම්පත සලකා බැලීම සදහා විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවට ආගමන හා විගමන දෙපාර්තමේන්තුව කැඳවා  තිබූ අවස්ථාවේදී මෙම දැනුම් දීම සිදු විය.
+For the first time for the human self-sauggling, the new bill is the first law ...
 
-මෙහිදී අදහස් දක්වමින් ආගමන විගමන පාලක ජනරාල් හර්ෂ ඉලුක්පිටිය මහතා පැවසුවේ 2023 වසරේ ගමන් බලපත්‍ර දස ලක්ෂයකට ආසන්න ප්‍රමාණයක් නිකුත් කර තිබුන ද විදේශගතව තිබුනේ ඉන් 23%ක් පමණක් බවත් ඉතිරි 77%  විදෙස් ගමන් බලපත්‍ර භාවිතා කර නොමැති බවත්ය.
+Jagath Kumara Sumidrachchi recently informed the immigration general revealed to the immigration and an Employed Controller of Parliament.
+
+This was notified when the Department of Immigration and Emigration had been called for the Sectoral Oversight Committee on an open and responsible government to consider the New "Immigration 'Bill.
+
+The Controller General of the Immigration General Harsha Iluopitiya said that the remaining 77% had not been used for 23% of them.
+
+The E-Passport (e-passport) is due to be introduced to the next October, he added that the new electronic license is demanded to demand a passport to passports and obtaining passports from obtaining passports.
 
 ...
 
 [Data](articles/88123a6b.json)
+
+[Extended Data](ext_articles/88123a6b.ext.json)
 
 ---
 

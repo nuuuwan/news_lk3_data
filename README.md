@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 16:09:28**
+As of **2024-08-15 16:21:12**
 
 ## Newspaper Stats
 
-*Scraped **40,902** Articles*
+*Scraped **40,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,480
 dailyftlk | 2,640
 adalk | 3,764
 dailymirrorlk | 4,733
-adaderanalk | 4,776
+adaderanalk | 4,777
 tamilmirrorlk | 5,227
 virakesarilk | 6,480
 adaderanasinhalalk | 6,958
@@ -26,45 +26,75 @@ adaderanasinhalalk | 6,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,900 (100.0%) of 40,902 articles have been extended.
+40,902 (100.0%) of 40,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### කටුනායක ගුවන්තොටුපොළේ සිට නව සුඛෝපභෝගී බස් සේවාවක්
+### Sri Lanka welcomes Canada’s decision to retain LTTE as terrorist entity
+
+*2024-08-15 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101265/sri-lanka-welcomes-canadas-decision-to-retain-ltte-as-terrorist-entity) · `en`
+
+The Government of Sri Lanka has welcomed the decision of the Government of Canada to retain the Liberation Tigers of Tamil Eelam (LTTE) along with the World Tamil Movement (WTM) as terrorist entities.
+
+Issuing a statement, Sri Lanka’s Ministry of Foreign Affairs said that according to the recent review, Canada maintains that the remnants of the LTTE have an international fundraising and procurement network that still exists.
+
+The review of the WTM notes that the group continues to play a facilitating role in the LTTE’s terrorist activities by fundraising on their behalf. This decision taken following a rigorous review process, reaffirms the continued threat posed by these organizations, it added.
+
+The Government of Canada first listed the LTTE as a terrorist entity under the Criminal Code on 6 April 2006 and it is a statutory requirement to undertake a review every five years. The latest review process concluded in June 2024.
+
+...
+
+[Data](articles/295f9e8a.json)
+
+---
+
+### New luxury bus service from Katunayake airport
 
 *2024-08-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199969) · `si`
 
-කටුනායක ගුවන්තොටුපොළේ සිට කොළඹ කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය දක්වා නව සුඛෝපභෝගී බස් රථ සේවාවක් අද (15) ආරම්භ කළේය.
+A new luxury bus service operates from Katunayake airport to Colombo Fort Station and Makumbura Transport Center. Ideal for foreign tourists, it offers direct travel without expressway interruptions. Jointly managed by the Airport and Aviation Ministry, the Ministry of Transport and Highways, and a private company, this service includes ten luxury buses charging per passenger for each journey.
 
-ශ්‍රී ලංකාවේ සංචාරය සඳහා පැමිණෙන විදේශීය සංචාරකයන් මෙරට තුළ සංචාරය සඳහා ප්‍රවාහන සේවා ආයතනයක පහසුකම් ලබා නොගන්නේ නම්, ඔවුන් ගුවන්තොටුපොළේ සිට කිලෝ මීටර් 2ක් පමණ දුරින් පිහිටි ඇවරිවත්ත බස් නැවතුම්පොළ වෙත පැමිණිය යුතුය.
+🟩
 
-ඒ අනුව ගුවන්තොටුපොළෙන් පිටත් වන මෙම බස් රථ කොළඹ - කටුනායක අධිවේගී මාර්ගය ඔස්සේ අතරමැද නැවැත්වීමකින් තොරව ගමනාන්තය කරා පිවිසෙයි.
+A new luxury bus service from Katunayake from Katunayake to Colombo Fort to Colombo Fort Station and the Makumbura Multiple Transport Center (15).
 
-මෙම නව බස් සේවාව සීමාසහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා සමාගම, ප්‍රවාහන සහ මහා මාර්ග අමාත්‍යාංශය සහ පෞද්ගලික බස් රථ සමාගමක් ඒකාබද්ධව ක්‍රියාත්මක වේ.
+If foreign tourists traveling for Sri Lanka's visit to Sri Lanka, they should come to the airport bus stand from the airport, about 2 km from the airport.
 
-සුඛෝපභෝගී විශාල ප්‍රමාණයේ බස් රථ 10ක් මෙම බස් රථ සේවාව සඳහා යොදවා ඇති අතර, එක් ගමන් වාරයක් සදහා රුපියල් 3,000ක මුදලක් එක් මගියෙකුගෙන් අය කිරීමට කටයුතු යොදා ඇත.
+Accordingly, the buses leave the airport and enter the destination without being interrupted by the Colombo-Katunayake Expressway.
+
+The new bus service is jointly operating in the Airport and Aviation Ministry, the Ministry of Transport and Highways and a private bus firm.
+
+Ten luxury buses have been deployed for the bus service and will be charged from one passenger for one passage.
 
 ◼️
 
 [Data](articles/6bc8f86c.json)
 
+[Extended Data](ext_articles/6bc8f86c.ext.json)
+
 ---
 
-### கண்டி கழுதை: மனோ கொதிப்பு
+### Kandy Donkey: Mano boiling
 
 *2024-08-15 15:53:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-கழுதை-மனோ-கொதிப்பு/175-342229) · `ta`
 
-“நொண்டி குதிரையுடன் கூட்டு சேர்ந்த கண்டி கழுதை” என பாராளுமன்ற உறுப்பினரும் தமிழ் முற்போக்கு கூட்டணியின் தலைவருமான ம​னோ கணேசன் கிண்டல் செய்துள்ளார்.
+Mano Ganesan, MP and Tamil Progressive Alliance leader, made a playful remark about a Kandy donkey and a lame horse. Meanwhile, Velukumar, another MP from the alliance, backs President Ranil Wickremesinghe for the upcoming presidential election, contrasting with the alliance's decision to support Opposition Leader Sajith Premadasa.
 
-தமிழ் முற்போக்கு கூட்டணியின்யின் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலுகுமார், அடுத்த ஜனாதிபதி  தேர்தலில் சுயேட்சை வேட்பாளரான ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்க இன்று (15) தீர்மானித்தார்.
+🟩
 
-எனினும், தமிழ் முற்போக்கு கூட்டணியின், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவையே ஆதரிக்க தீர்மானித்துள்ளது. இந்நிலையிலேயே மேற்கண்டவாறு தெரிவித்துள்ளார்.
+Member of Parliament and leader of the Tamil Progressive Alliance, Mano Ganesan, has teased the "Kandy donkey with a lame horse".
+
+Kandy District Parliamentarian of the Tamil Progressive Alliance Velukumar today decided to support President Ranil Wickremesinghe, the independent candidate in the next presidential election.
+
+However, the Tamil Progressive Alliance has decided to support Opposition Leader Sajith Premadasa. In this case, he said the above.
 
 ◼️
 
 [Data](articles/a56ca6cf.json)
+
+[Extended Data](ext_articles/a56ca6cf.ext.json)
 
 ---
 
@@ -2251,23 +2281,5 @@ At the Special Ministerial Plenary at the Bay of Bengal Initiative for Multi-Sec
 [Data](articles/8bcecff2.json)
 
 [Extended Data](ext_articles/8bcecff2.ext.json)
-
----
-
-### EDB releases flagship statistical publication “Export Performance Indicators 2023”
-
-*2024-08-15 03:58:27* · [`dailyftlk`](https://www.ft.lk/business/EDB-releases-flagship-statistical-publication-Export-Performance-Indicators-2023/34-765547) · `en`
-
-The latest edition provides statistical information related to Sri Lanka’s external trade and its contribution to major economic indicators such as the trade balance and GDP, and individual sectoral involvement for the year 2023 and the five preceding years.
-
-This volume is the 37th volume of this publication, and its previous editions have been constantly used as a comprehensive and trustworthy reference by exporters, researchers, and policymakers.
-
-The data compiled in “Export Performance Indicators 2023” is presented along with trade statistics for the last 11 years, along with a comprehensive analysis of Sri Lanka’s export trade, products and services, from the year 2013 up to the year 2023, including export regions per product, their market growth, and projected export forecast.
-
-...
-
-[Data](articles/f0b65cdb.json)
-
-[Extended Data](ext_articles/f0b65cdb.ext.json)
 
 ---

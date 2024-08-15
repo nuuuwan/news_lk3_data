@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 06:02:49**
+As of **2024-08-15 07:02:32**
 
 ## Newspaper Stats
 
-*Scraped **40,799** Articles*
+*Scraped **40,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,105 @@ bbccomsinhala | 379
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,476
-dailyftlk | 2,633
+dailyftlk | 2,637
 adalk | 3,751
 dailymirrorlk | 4,733
 adaderanalk | 4,759
-tamilmirrorlk | 5,200
+tamilmirrorlk | 5,201
 virakesarilk | 6,465
-adaderanasinhalalk | 6,939
+adaderanasinhalalk | 6,940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,798 (100.0%) of 40,799 articles have been extended.
+40,799 (100.0%) of 40,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### සවස් කාලයේදී ගිගුරුම් සහිත වැසි
+
+*2024-08-15 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199951) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ, පොළොන්නරුව සහ මුලතිව් දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/437b0d55.json)
+
+---
+
+### ICA announces 1st International Half-Marathon in Colombo
+
+*2024-08-15 05:53:32* · [`dailyftlk`](https://www.ft.lk/news/ICA-announces-1st-International-Half-Marathon-in-Colombo/56-765563) · `en`
+
+To promote Sri Lanka as premier tourist destination for leisure and sporting events
+
+All proceeds from marathon will be used for ICA’s CSR initiatives including organ donation awareness, supporting orphanages and tree planting
+
+The Indian Cultural Association (ICA) is excited to announce the launch of its first International Half-Marathon, set to officially kick off on 1 September, 2024, from Galle Face Green, Colombo. This highly anticipated event aims to position Sri Lanka as a prime destination for both leisure and sporting events, attracting attention from around the world, with the aim of registering over 1400 athletes from multiple countries. The marathon will allow the ICA to fund their CSR initiatives including self-pledging of organ donation, helping orphanages and planting Na Trees, in local schools, symbolising a green footprint from each of the race participants.
+
+...
+
+[Data](articles/d4c1a3a7.json)
+
+---
+
+### Pakistan High Commission celebrates 78th anniversary of Independence Day of Pakistan
+
+*2024-08-15 05:50:55* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-celebrates-78th-anniversary-of-Independence-Day-of-Pakistan/56-765562) · `en`
+
+The High Commission of Pakistan and the Pakistani community in Sri Lanka yesterday celebrated the 78th Independence Day of Pakistan with traditional fervour and resolve to make Pakistan a strong, dynamic, progressive, tolerant, and democratic Islamic welfare State.
+
+The High Commissioner of the Islamic Republic of Pakistan in Sri Lanka Major General (Retd) Faheem-Ul-Aziz HI (M) hoisted the national flag of Pakistan in an impressive ceremony at the Pakistan High Commission in Colombo. The special messages of the President and the Prime Minister of Pakistan were read out for the audience.
+
+In his speech, the Pakistani High Commissioner highlighted the importance of the day. He emphasised the significance of the vision of Quaid-e-Azam Mohammad Ali Jinnah and poet-philosopher Allama Muhammad Iqbal, who envisioned Pakistan as a peaceful and prosperous nation.
+
+...
+
+[Data](articles/0da81fa6.json)
+
+---
+
+### Bharat Sri Lanka Maitri Week begins
+
+*2024-08-15 05:48:38* · [`dailyftlk`](https://www.ft.lk/news/Bharat-Sri-Lanka-Maitri-Week-begins/56-765561) · `en`
+
+Bharat Kosh, a repository of Indic-knowledge, was inaugurated by High Commissioner of India to Sri Lanka Santosh Jha at the Colombo Public Library on Monday.
+
+The Bharat Kosh at the centurion old Colombo Public Library showcases a curated selection of books on India and written by Indian authors, comprising artefacts, and cultural treasures that celebrate India’s diverse heritage and reflects the deep historical and cultural ties between India and Sri Lanka. The inauguration of Bharat Kosh marks the commencement of the Bharat Sri Lanka Maitri Week 2024, a week-long celebration highlighting the vibrant cultural and artistic exchanges between India and Sri Lanka.
+
+The week is being celebrated by the High Commission of India and its cultural arm Swami Vivekananda Cultural Centre to commemorate the 78th Independence Day of India. A highlight of the celebrations will be the Bharat Sri Lanka Maitri Utsav being organised from 15-18 August at Colombo’s iconic Independence Square and Park.
+
+...
+
+[Data](articles/4c9c476d.json)
+
+---
+
+### Colombo Marina Development nominated as primary venture in Port City
+
+*2024-08-15 04:24:11* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Marina-Development-nominated-as-primary-venture-in-Port-City/34-765549) · `en`
+
+The Cabinet of Ministers on Monday approved the nomination of Colombo Marina Development Ltd., as a primary venture with strategic development status under the provisions of the Colombo Port City Economic Commission Act No. 11 of 2021. This designation will allow the company to receive specific incentives and encouragements pertinent to the project.
+
+As part of this initiative, four plots of land within the Colombo Port City area have been leased to Colombo Marina Development.
+
+The company, which operates under the sole authority of Browns Investment Private Company, is responsible for the ‘Recreation Port’ (MARINA) development project.
+
+The project is set to create a state-of-the-art facility with the capacity to harbour 243 marine vessels. In addition to its core marina function, the development will feature exclusive guest clubs, dining options, retail outlets, recreation areas, event spaces and ample parking facilities.
+
+...
+
+[Data](articles/3edf53f3.json)
+
+---
 
 ### Sri Lanka’s economic potential on show at BIMSTEC Summit in New Delhi
 
@@ -161,6 +243,22 @@ The existing distributor yards in Aluthgama, Panadura, Palamunai-Batticaloa, and
 [Data](articles/f97d3abc.json)
 
 [Extended Data](ext_articles/f97d3abc.ext.json)
+
+---
+
+### கொழும்பில் இன்று விசேட பாதுகாப்பு
+
+*2024-08-15 02:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-விசேட-பாதுகாப்பு/175-342181) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான வேட்புமனு தாக்கல் செய்யும் தினமான இன்று விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்படவுள்ளன.
+
+இராஜகிரியவில் உள்ள தேர்தல் அலுவலகத்தை அண்மித்த வீதிகளில் இன்று விசேட போக்குவரத்துத் திட்டம் அமுல்படுத்தப்படவுள்ளது.
+
+இதேவேளை, வேட்புமனுக்களைத் தாக்கல் செய்யும் வேட்பாளர்களுடன் வருகைதரும் பிரதிநிதிகளின் எண்ணிக்கையும் மட்டுப்படுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/c1e22659.json)
 
 ---
 
@@ -2081,133 +2179,5 @@ Accordingly, the UPFA has held alliance with the UPFA.
 [Data](articles/998f6aa6.json)
 
 [Extended Data](ext_articles/998f6aa6.ext.json)
-
----
-
-### New alliance led by Anura Yapa formed as ‘People’s Alliance’
-
-*2024-08-14 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/101231/new-alliance-led-by-anura-yapa-formed-as-peoples-alliance) · `en`
-
-The Sri Lanka Freedom Party (SLFP) faction led by Minister Nimal Siripala de Silva and the “New Alliance” today (14) launched a new alliance under the name “Podujana Eksath Peramuna” (People’s Alliance).
-
-Former minister Anura Priyadarshana Yapa has been named as the leader of the new alliance.
-
-State Minister Lasantha Alagiyawanna has been appointed as the General Secretary, while State Minister Chamara Sampath Dassanayake has been appointed as the Treasurer.
-
-This new alliance, which includes the SLFP faction led by Nimal Siripala, the “New Alliance” which comprises of MPs including  Nimal Lanza and several others parties and groups, was officially formed in Colombo today (14).
-
-During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced the positions within the alliance, which also includes a leadership council of 21 members including the Chairman of SLFP, Minister Nimal Siripala de Silva.
-
-...
-
-[Data](articles/2363220a.json)
-
-[Extended Data](ext_articles/2363220a.ext.json)
-
----
-
-### Yall. Conflict in Chendangulam;Watters, fire to boats
-
-*2024-08-14 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191082) · `ta`
-
-A clash in Chendangulam led to fires on boats and the beach, causing panic among locals. The incident was reported to the Ilavalai police, who are investigating. Both conflicting parties have fled the scene.
-
-🟩
-
-Fishing and boats on the beach have been set on fire after a clash between two groups in the Senthangulam beach last night (13).
-
-Following the setting of boats and waters, the townspeople gathered together and informed the Ilavalai police in connection with the incident.
-
-Police are conducting investigations as the two sides involved in the clash have fled.
-
-◼️
-
-[Data](articles/236d57a9.json)
-
-[Extended Data](ext_articles/236d57a9.ext.json)
-
----
-
-### Launching of a girl killed
-
-*2024-08-14 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199927) · `si`
-
-A two-year-old girl died in an accident on the Southern Expressway near Elpitiya, caused by a van collision. Three other children were injured and taken to the hospital. The van carried 12 adults and was traveling from Mattala to Kottawa when the incident happened.
-
-🟩
-
-Two-year-old girl was killed in an accident on the Southern Expressway.
-
-The accident had occurred this morning at the Elpitiya Police Division on the Southern Expressway.
-
-The accident had occurred due to the triumph of the highway due to the triumph of the highway from Mattala towards Kottawa.
-
-Three young children were injured in the van and rushed to the Elpitiya hospital.
-
-The deceased was a two-year-old girl, Kataragama, a resident of Kataragama.
-
-Police say that about 12 adults in the van had traveled at the time of the accident.
-
-◼️
-
-[Data](articles/3cd663ce.json)
-
-[Extended Data](ext_articles/3cd663ce.ext.json)
-
----
-
-### Waste of Sigiriya: 70 people vulnerable
-
-*2024-08-14 13:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-குளவி-கொட்டு-70-பேர்-பாதிப்பு/175-342159) · `ta`
-
-70 tourists hospitalized due to wasp stings at Sigiriya, highlighting safety concerns.
-
-🟩
-
-70 tourists have been admitted to the hospital after the wasps dissolved in Sigiriya.
-
-◼️
-
-[Data](articles/a728a13b.json)
-
-[Extended Data](ext_articles/a728a13b.ext.json)
-
----
-
-### Impact 16 students learning science
-
-*2024-08-14 13:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஞ்ஞானம்-கற்ற-16-மாணவர்கள்-பாதிப்பு/175-342158) · `ta`
-
-An accident at a school in Anuradhapura during a science study affected 16 students.
-
-🟩
-
-16 students have been affected by the accident at a scientific study at a school in Anuradhapura.
-
-◼️
-
-[Data](articles/2f9367f3.json)
-
-[Extended Data](ext_articles/2f9367f3.ext.json)
-
----
-
-### Announcement on school vacation
-
-*2024-08-14 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199926) · `si`
-
-The Ministry of Education announced that the second term of government and approved private Sinhala and Tamil schools will conclude on Friday, August 16th.
-
-🟩
-
-The Ministry of Education has issued a statement regarding the completion of the second school term of the government and the approved private Sinhala and Tamil schools in the year.
-
-Accordingly, the second schools in these schools will end on Friday 16th August.
-
-◼️
-
-[Data](articles/9db753d3.json)
-
-[Extended Data](ext_articles/9db753d3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 13:56:02**
+As of **2024-08-15 14:08:32**
 
 ## Newspaper Stats
 
-*Scraped **40,878** Articles*
+*Scraped **40,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,638
 adalk | 3,762
 dailymirrorlk | 4,733
 adaderanalk | 4,773
-tamilmirrorlk | 5,220
+tamilmirrorlk | 5,222
 virakesarilk | 6,473
 adaderanasinhalalk | 6,955
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,876 (100.0%) of 40,878 articles have been extended.
+40,878 (100.0%) of 40,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### பொன்சேகாவுக்கு விளக்கு ​​சின்னம்
+
+*2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-விளக்கு-சின்னம்/175-342225) · `ta`
+
+ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடும் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்கு தேர்தல்கள் ஆணைக்குழுவினால் “விளக்கு” ​​சின்னம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9118686d.json)
+
+---
 
 ### President Ranil to contest under ‘Gas Cylinder’ symbol
 
@@ -138,6 +150,26 @@ The Election Commission urged the company to adhere to media ethics and election
 
 ---
 
+### தொலைக்காட்சி அலைவரிசைக்கு  எச்சரிக்கை
+
+*2024-08-15 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைக்காட்சி-அலைவரிசைக்கு-எச்சரிக்கை/175-342220) · `ta`
+
+தேர்தல் ஊடக வழிகாட்டுதல்களை மீறியதாக பிரபல தொலைக்காட்சி அலைவரிசை ஒன்றுக்கு தேர்தல் ஆணைக்குழு எச்சரிக்கை விடுத்துள்ளது.
+
+தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஶ்ரீ ரத்நாயக்க ஒளிபரப்பு நிறுவனத்திற்கு கடிதம் ஒன்றை விடுத்து, அந்த அலைவரிசையின் செய்திகளுக்கு எதிராக ஆணைக்குழுவுக்கு பல முறைப்பாடுகள் கிடைத்துள்ளதாக தெரிவித்துள்ளார்.
+
+இந்த முறைப்பாடுகளில், அவதூறான அறிக்கைகள் வெளியிடப்பட்ட காலை நிகழ்ச்சியின் உள்ளடக்கங்கள் குறித்து ஆணைக்குழு விவரித்துள்ளது.
+
+குறித்த தொலைக்காட்சி அலைவரிசை ஊடக நெறிமுறைகளை மீறும் நடைமுறைகளில் ஈடுபட்டுள்ளதுடன் நீதிமன்றத்தில் நடந்து வரும் வழக்குகள் பற்றி குறித்த சனலில் கலந்துரையாடப்பட்டதாகவும் ஒரு குறிப்பிட்ட வேட்பாளரை  அலைவரிசை ஊக்குவித்து வருவதாகவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+மேலும், அரசியல் கட்சிகளுக்கு எதிராக அவதூறான அறிக்கைகள் வெளியிடப்பட்டதாகவும், அதேசமயம் ஒரு கட்சி மாத்திரம் ஒளிபரப்பு வேளைகளில் தெளிவாக விளம்பரப்படுத்தப்பட்டதாகவும், ஆணைக்குழு கூறியது.
+
+...
+
+[Data](articles/7af8d198.json)
+
+---
+
 ### Election pamphlet
 
 *2024-08-15 12:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தேர்தல்-வேண்டாமென-துண்டுப்பிரசுரம்/71-342219) · `ta`
@@ -186,21 +218,31 @@ The President emphasized that there was no violence in the country after the pre
 
 ---
 
-### සෞඛ්‍ය නිලධාරීන්ට තැපැල් ඡන්දය නැතිවීමෙන් අයිතිවාසිකම් උල්ලංඝනය වෙනවලු
+### Health Officers' Lost Postal Voting
 
 *2024-08-15 12:11:50* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-නිලධාරීන්ට-තැපැල්-ඡන්දය-නැතිවීමෙන්-අයිතිවාසිකම්-උල්ලංඝනය-වෙනවලු/11-411386) · `si`
 
-සෞඛ්‍ය ක්ෂේත්‍රයේ රැකියාවල නිරත නිලධාරීන් හට තැපැල් ඡන්ද භාවිතා කිරීමට අවස්ථාව ලබා නොදීමෙන් ඔවුන්ගේ මූලික අයිතිවාසිකමක් උල්ලංඝනය වීමේ අවදානමක් පවතින බව සමස්ත ලංකා හෙද සංගමයේ සභාපති රවින්ද්‍ර කහදවආරච්චි මහතා පවසයි.
+Ravindra Kunadwarachchi, president of the All Ceylon Nurses Association, highlights that health sector workers, including about 3600 nurses both locally and abroad, face restrictions on postal voting. He urges the Elections Commission to allow postal voting for nursing staff, emphasizing the need for pre-approval of leaves due to the nature of their service. If not addressed, legal actions post-elections are considered.
 
-කහදවආරච්චි මහතා මෙසේ ප්‍රකාශ කරනු ලැබුවේ  සෞඛ්‍ය ක්ෂේත්‍රයේ විශේෂයෙන් හෙද කාර්ය මණ්ඩලය සඳහා තැපැල් ඡන්ද අයිතිය  ලබා නොදීම පිළිබඳ මාධ්‍ය මාතලේදී පැවති දැනුවත් කිරීමේ මාධ්‍ය සාකච්ඡාවකට ඊයේ (15) වන දින එක්වෙමින්ය.
+🟩
 
-රට තුළ සෞඛ්‍ය ක්ෂේත්‍රයේ හෙද කාර්ය මණ්ඩලයේ   හෙද හෙදියන් 3600 ක් පමණ සේවය අතහැර ගොස් විදේශ ගතවී ඇති බවත් රට පුරා දැඩි හෙද හිඟයක් පවතින බැවින් තැපැල් ඡන්ද අයිතිය ලබා නොදුන්නොත් රට පුරා විසිරී සිටින මොවුන්ගේ ඡන්ද අයිතිය උල්ලංඝනය වනවා.
+The All Ceylon Nurses Association President Ravindra Kunadwarachchi says that the officers who work in the health sector are not allowed to use postal votes.
 
-මේ පිළිබඳව සංඝමයක් ලෙස අපි මැතිවරණ කොමිසන් සභාවෙන් හෙද කාර්ය මණ්ඩලය සඳහා තැපැල් අයිතිය ලබා දෙන ලෙස ඉල්ලා සිටියත් ඔවුන් ලිඛිතව අප වෙත දන්වා ඇත්තේ 1981 අංක 15 දරන මැතිවරණ පනත අනුව මැතිවරණ රාජකාරී සඳහා සෘජුවම දායක වන සෞඛ්‍ය කාර්ය මණ්ඩලය හැර අනෙකුත් කාර්ය මණ්ඩල වලටතැපැල් ඡන්ද අයිතිය ලබාදීමට නොහැකි බව.
+Mr. Kawadavarachchi stated:
+
+About 3600 nurses in the health sector in the country have abandoned and abroad, and the number of votes throughout the country is violated throughout the country.
+
+As a constituent of this, we have asked the Elections Commission to give post ownership to the Nursing staff in writing and the Elections Staff, which directly contributes directly to the election duties in writing, the Elections Staff directly contributed directly to the election duties.That is.
+
+According to the Election Act, the Health Secretary has been authorized to provide leave to the safety of all employees to ensure the voice secretary of all employees.
+
+By the nature of our service, we cannot inform the holidays and should be made in advance.
 
 ...
 
 [Data](articles/ea8c4501.json)
+
+[Extended Data](ext_articles/ea8c4501.ext.json)
 
 ---
 
@@ -261,6 +303,8 @@ Up to August 14,  40 persons had made deposits. (Colombo/Aug15/2024)
 ◼️
 
 [Data](articles/3d9776f2.json)
+
+[Extended Data](ext_articles/3d9776f2.ext.json)
 
 ---
 
@@ -2233,43 +2277,5 @@ Sandun’s journey began in the early 1990s in Sri Lanka. He worked with corpora
 [Data](articles/ed44a4f3.json)
 
 [Extended Data](ext_articles/ed44a4f3.ext.json)
-
----
-
-### Dual Digital Zone openings in Kandy and Katugastota
-
-*2024-08-14 20:48:00* · [`islandlk`](http://island.lk/dual-digital-zone-openings-in-kandy-and-katugastota/) · `en`
-
-In a strategic move to enhance digital banking accessibility and customer convenience, Pan Asia Bank, known for its innovative approach to banking, has launched state-of-the-art Digital Zones in both Kandy and Katugastota. This dual opening reinforces the bank’s commitment to bringing advanced banking services closer to its customers in these key regions.
-
-The new Digital Zones are equipped with cutting-edge technology, offering customers a seamless banking experience with a suite of self-service facilities available 24/7.
-
-Naleen Edirisinghe, CEO of Pan Asia Bank, stated “We are proud to expand our digital footprint with the launch of new Digital Zones in Katugastota and Kandy. This marks another step forward in our mission to bring world-class banking solutions closer to our customers”
-
-...
-
-[Data](articles/6a268176.json)
-
-[Extended Data](ext_articles/6a268176.ext.json)
-
----
-
-### Indonesian Festival 2024 combines the sublime and the enthralling
-
-*2024-08-14 20:47:00* · [`islandlk`](http://island.lk/indonesian-festival-2024-combines-the-sublime-and-the-enthralling/) · `en`
-
-The embassy of Indonesia together with the Sri Lanka Indonesia Friendship Association (SLIFA) organized “The Indonesian Festival” on August 10th at the premises of the embassy of Indonesia, at 400/50, Sarana Road, Colombo 7, which commenced at 2.00 pm. .
-
-“The Indonesian Festival” was a cultural evening and bazaar and was organized for the third consecutive year. All proceeds from this event will be in aid of charity.
-
-The bazaar was declared opened by Dewi Gustina Tobing, ambassador for Indonesia in Sri Lanka and Maldives. She was received by the President of SLIFA, Nihal Jayasuriya and members of the Executive Committee. This festival was also attended by some foreign ambassador in Sri Lanka.
-
-The Chief Guest at the Indonesian Festival and cultural show was Ms. Kushani Anusha Rohanadeera, Secretary General of Parliament of Sri Lanka. She was received by Dewi Gustina Tobing, Nihal Jayasuriya and members of the Indonesian embassy and members of the Executive Committee.
-
-...
-
-[Data](articles/5256e354.json)
-
-[Extended Data](ext_articles/5256e354.ext.json)
 
 ---

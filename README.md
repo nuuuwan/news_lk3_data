@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 01:06:21**
+As of **2024-08-16 01:21:13**
 
 ## Newspaper Stats
 
-*Scraped **40,961** Articles*
+*Scraped **40,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,646
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
-tamilmirrorlk | 5,233
+tamilmirrorlk | 5,234
 virakesarilk | 6,489
 adaderanasinhalalk | 6,969
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,961 (100.0%) of 40,961 articles have been extended.
+40,961 (100.0%) of 40,962 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-16 (Friday)
+
+### குரங்கம்மை நோய் கண்டறியப்பட்டுள்ளது
+
+*2024-08-16 00:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-நோய்-கண்டறியப்பட்டுள்ளது/50-342258) · `ta`
+
+குரங்கம்மை நேயானது வேகமாக பரவி வரும் ஒன்று என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+குரங்கம்மை (எம்-பாக்ஸ்) நோய்த்தொற்றை சர்வதேச சுகாதார நெருக்கடியாக உலக சுகாதார நிறுவனம் அறிவித்துள்ளது.
+
+எம்-பாக்ஸ் அல்லது குரங்கம்மை, கொடிய நோய்த்தொற்று வகையைச் சேர்ந்தது. இது முதலில் கொங்கோ நாட்டில் வேகமாகப் பரவியதால் சுமார் 450 நபர்கள் உயிரிழந்தனர்.
+
+தற்போது, இந்த நோய்த்தொற்று மத்திய மற்றும் கிழக்கு ஆபிரிக்காவின் சில பகுதிகளில் பரவி வருகிறது.
+
+மேலும் இந்த வைரஸின் புதிய வகை திரிபு (Variant) மக்கள் மத்தியில் பரவும் வேகம் மற்றும் இதனால் அதிகரிக்கும் இறப்பு விகிதம் குறித்து விஞ்ஞானிகள் கவலையில் உள்ளனர். R
+
+◼️
+
+[Data](articles/f75ac1d3.json)
+
+---
 
 ### 2024-08-15 (Thursday)
 
@@ -2291,27 +2313,5 @@ In this context, about 1,000 Ukraine soldiers recently entered with artillery an
 [Data](articles/aa3a4eb9.json)
 
 [Extended Data](ext_articles/aa3a4eb9.ext.json)
-
----
-
-### 20 Sri Lankans trapped in Myanmar cyber camps rescued
-
-*2024-08-15 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/101255/20-sri-lankans-trapped-in-myanmar-cyber-camps-rescued) · `en`
-
-Twenty more Sri Lankan nationals, who were held hostage in the cybercrime camps in Myawaddy area of Myanmar have been rescued, Sri Lanka’s Ministry of Foreign Affairs confirmed.
-
-Accordingly, the rescued Sri Lankans have safely arrived in Thailand and are in the custody of Thailand’s Department of Immigration and Emigration, according to the Foreign Affairs Ministry.
-
-Sri Lanka Ambassador in Thailand Wijayanthi Edirisinghe visited Mae Sot, Thailand today and met with the rescued Sri Lankans and inquired into their welfare, the ministry said.
-
-Meanwhile, it was also reported that all of them are in good health condition, and that and Thai authorities are facilitating Consular assistance.
-
-The Ministry of Foreign Affairs further stated that measures are underway to facilitate their repatriation to Sri Lanka.
-
-...
-
-[Data](articles/2e775258.json)
-
-[Extended Data](ext_articles/2e775258.ext.json)
 
 ---

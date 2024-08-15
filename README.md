@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 21:06:39**
+As of **2024-08-15 21:21:21**
 
 ## Newspaper Stats
 
-*Scraped **40,948** Articles*
+*Scraped **40,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,488
 dailyftlk | 2,646
 adalk | 3,771
 dailymirrorlk | 4,733
-adaderanalk | 4,780
+adaderanalk | 4,781
 tamilmirrorlk | 5,233
 virakesarilk | 6,487
 adaderanasinhalalk | 6,965
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,946 (100.0%) of 40,948 articles have been extended.
+40,948 (100.0%) of 40,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### EU to deploy observation mission to Sri Lanka for Presidential Election
+
+*2024-08-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101269/eu-to-deploy-observation-mission-to-sri-lanka-for-presidential-election) · `en`
+
+Following an invitation by the Election Commission of Sri Lanka, the European Union has decided to deploy an Election Observation Mission (EOM) to Sri Lanka to observe the Presidential Election scheduled for 21 September 2024. The EU has a long history of accompanying electoral processes in Sri Lanka and has deployed EOMs on six occasions, the last in 2019, reflecting the EU’s commitment and partnership with the country.
+
+The High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission, Josep Borrell, has appointed Nacho Sánchez Amor, Member of the European Parliament, as Chief Observer.
+
+...
+
+[Data](articles/9573b5fe.json)
+
+---
 
 ### 7 workers of the wasp shed;Admission at the hospital
 
@@ -156,37 +170,43 @@ His bus union has been referred to the President and the relevant sector authori
 
 ---
 
-### අයිස් හදන්න ගියැයි සැකකරන මරණකරුට අයත් ස්ථාන කිහිපයකින් තවත් රසායනික ද්‍රව්‍ය සොයා ගනියි
+### More chemicals found in several places belonging to the deceased who was going to make ice
 
 *2024-08-15 19:03:16* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-හදන්න-ගියැයි-සැකකරන-මරණකරුට-අයත්-ස්ථාන-කිහිපයකින්-තවත්-රසායනික-ද්‍රව්‍ය-සොයා-ගනියි/11-411396) · `si`
 
-අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කරමින් සිටියදී විෂදුමාරයක් ආග්‍රහණය වීමෙන් මියගිය බවට සැක කරන මාලඹේ කහන්තොට පාර ,ජයන්ති මාවතේ ග්‍රින් ටෙරන්ස් හි නිවසේ හිමිකරුට අයත් දෙහිවල ප්‍රදේශයේ කාමර කුලියට දෙන හෝටලයක සහ කොහුවල ඔහුගේ මවගේ නිවසේ පරික්ෂා කිරීමේදී රසායනික ද්‍රව්‍ය  අඩංගු තවත්
+Chemicals linked to ice production were found in various locations within a house, leading to suspicions about drug activities. The discovery included plastic containers and bottles across multiple rooms. Authorities also found a rare, non-commercially available brown liquid, believed to be used in illicit activities. The premises have been sealed off for further investigation.
 
-ප්ලාස්ටික්  කෑන් කීපයක් හා බෝතල් කීපයක් හමු වූ  බව පොලිසිය සඳහන් කරයි.
-
-කොහුවල කඩවත පාර නිවස තුළ වර්ග කීපයක රසායනික ද්‍රව අඩංගු ප්ලාස්ටික් කෑන්  5 ක්  මෙන්ම ඒවා බහාලන ප්ලාස්ටික් ඇසුරුම් පෙට්ටි ද  ,දෙහිවල ධර්මාරාම පාරේ කාමර කුලියට ලබා දෙන හෝටලයක ගබඩාවක් තුළ  දියර වර්ග අඩංගු ප්ලාස්ටික් කෑන් 10 ක් මෙන්ම  "වහා ගිනි   ගන්නා සුළුයි" යනුවෙන් හා "වස' යනුවෙන් හඳුන්වන  ලාංඡන  සහිත දුඹුරු පැහැති දියර බෝතලයක්ද  ඒ අතර තිබූ බව පොලිසිය සඳහන් කරයි.
-
-අදාළ දියර වර්ගය  සාමාන්‍ය වෙළඳපොළේ අලෙවියට නොමැති බවත් රසායනාගාරවලද ඉතා ස්වල්ප වශයෙන් ඇති බවත් සෞඛ්‍යයට සම්බන්ධ උසස් නිලධාරියෙක් පැවසීය.
+🟩
 
 ...
 
 [Data](articles/4662a638.json)
 
+[Extended Data](ext_articles/4662a638.ext.json)
+
 ---
 
-### JR ගෙන් කෝටි තුනක් අල්ලස් ගන්න හැදූ පක්ෂ සභාපති හා ලේකම් රිමාන්ඩ්
+### Participa Chairman and Secretary of the party remanded for three million bribes from JR
 
 *2024-08-15 18:53:59* · [`adalk`](https://www.ada.lk/breaking_news/JR-ගෙන්-කෝටි-තුනක්-අල්ලස්-ගන්න-හැදූ-පක්ෂ-සභාපති-හා-ලේකම්-රිමාන්ඩ්/11-411395) · `si`
 
-ඉදිරි ජනාධිපතිරවණයට එක්සත් ලංකා පොදුජන පක්ෂයෙන් නාමයෝජනා දීම ඇතුළු සියළු කටයුතු කරදීම සඳහා ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිසමේ හිටපු සභාපතිවරයකු වු ජනක රත්නායක මහතාගෙන් රුපියල් කෝටි 03ක අල්ලසක් ඉල්ලා ලබාගනිද්දී අත්අඩංගුවට ගත් බව කියමින් අධිකරණයට ඉදිරිපත් කළ සැකකරුවන් 08 දෙනාගෙන් එම පක්ෂයේ සභාපතිවරයා සහ ලේකම්වරයා ලබන 27 වැනිදා තෙක් රිමාන්ඩ් බාරයට පත් කළ කොළඹ අතිරේක මහේස්ත්‍රාත් මොහොමඩ් රිස්වාන් මහතා සෙසු සැකකරුවන් 06 දෙනා ඇප මත මුදාහැරීමට අද (15) කියම කළේය.
+Eight suspects, including the Chairman and Secretary of a party, were arrested for allegedly receiving three million bribes. They were remanded until the 27th of this month but later released on bail. The Permanent Secretary and six board members were also implicated. The UNP President's Secretary and another board member were arrested separately. The suspects were accused of accepting bribes and being involved in activities related to the LTTE. Investigations continue, with CCTV footage playing a crucial role.
 
-එක්සත් ලංකා පොදුජන පක්ෂයේ නිත්‍ය ලේකම්වරයා ඇතුළු කුත්‍යාධිකාරී මණ්ඩලයේ සාමාජිකයින් 06 දෙනෙකු රුපියල් ලක්ෂ 20 බැගින් වටිනා ඇපකරුවන්ගේ බැඳුම්කර මත සැකකරුවන් මුදා හැරීමට නියම කළේය.
+🟩
 
-අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂම  මගින් අත්අඩංගුවට ගෙන  අධිකරණයට ඉදිරිපත් කළ මාතර හක්මන පදිංචි පක්ෂයේ සභාපති හේවා වලිමුණිගේ නිහාල් ප්‍රේම කුමාර, මාතර හක්මන දෙනගම පදිංචි පක්ෂයේ ලේකම් රුවන්තිලක පේදුරුආරච්චි මෙලෙස රක්ෂිත බන්ධනාගාර ගත කෙරිණී.
+Eight suspects who were arrested by Janaka Ratnayake, who was arrested by the United Ceylon Public Utilities Commission of the United Ceylon Public Republic of the United Ceylon Public Commissioner, remanded until the 27th of this month.The six suspects were released today (15) to release the six suspects on bail.
+
+The Permanent Secretary to the United Ceylon General Secretary of the United Ceylon General Secretary, six members of the Board of Directors were ordered to release the suspects on collaboration bonds of Rs.
+
+UNP President's Secretary Ruwanthilaka Peteruarachchi, who was arrested by the Bribery Commission, was arrested by the Commission, Matara and Hakmana, Matara.
+
+Martin Rangani Weerawardena, Member of the Board of Sri Lanka, was arrested in connection with the incident.And Gampola journalism is Kumari Swarnalatha.
 
 ...
 
 [Data](articles/27eed0bb.json)
+
+[Extended Data](ext_articles/27eed0bb.ext.json)
 
 ---
 
@@ -2261,25 +2281,5 @@ The suspects were residents of Orugodawatta, who was aged between 35 and 53 year
 [Data](articles/6fdb4269.json)
 
 [Extended Data](ext_articles/6fdb4269.ext.json)
-
----
-
-### Ranil submits nominations
-
-*2024-08-15 10:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රනිල්-නාම-යෝජනා-භාර-දෙයි/11-411383) · `si`
-
-President Ranil Wickremesinghe quickly submitted his nomination paper, just a minute after the deadline, to the Elections Commission in Rajagiriya.
-
-🟩
-
-President Ranil Wickremesinghe handed over his nomination paper before a minute.
-
-The nomination proposal was handed over to the Elections Commission Rajagiriya.
-
-◼️
-
-[Data](articles/5fba9566.json)
-
-[Extended Data](ext_articles/5fba9566.ext.json)
 
 ---

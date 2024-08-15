@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 20:21:13**
+As of **2024-08-15 20:36:48**
 
 ## Newspaper Stats
 
@@ -26,71 +26,101 @@ adaderanasinhalalk | 6,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,941 (100.0%) of 40,946 articles have been extended.
+40,946 (100.0%) of 40,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### குளவி கொட்டுக்கு இளக்காகிய 7 தொழிலாளர்கள் ; வைத்தியசாலையில் அனுமதி
+### 7 workers of the wasp shed;Admission at the hospital
 
 *2024-08-15 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191178) · `ta`
 
-நோர்வூட் பொலிஸ் பிரிவிற்குட்பட்ட பொகவந்தலாவ கெர்க்கஸ்வோல்ட் கீழ் பிரிவு தோட்ட தேயிலை மலையில் தேயிலை பறித்து கொண்டிருந்த 7 தொழிலாளர்கள் குளவி கொட்டுக்கு இலக்காகி பொகவந்தலாவ மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்தனர்.
+Seven workers plucking tea at Bogawantalawa Gargaswold were stung by wasps and hospitalized after a wasp nest was disturbed. The incident occurred at 5 pm on Thursday, the 15th, under the Norwood Police Division.
 
-15ஆம் திகதி வியாழக்கிழமை மாலை 5 மணி அளவில் இந்த சம்பவம்இடம்பெற்றதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
 
-பொகவந்தலாவ கெர்க்கஸ்வோல்ட் கீழ்ப்பிரிவு தோட்ட தேயிலை மழையில் மரம் ஒன்றில் இருந்த குளவி கூடு கலைந்து வந்து தொழிலாளர்களை தாக்கியுள்ளமை குறிப்பிடத்தக்கது.
+Norwood police said that seven workers who had plucked tea at the Tea Mountain of the Bogawantalawa Gargaswold under the Norwood Police Division were admitted to the Bogawantalawa District Hospital.
+
+The incident took place at 5 pm on Thursday, the 15th, police said.
+
+It is noteworthy that the Bogawantalawa Gergaswold suburban garden tea has dissolved a wasp nest in a tree and hit the workers.
 
 ◼️
 
 [Data](articles/52ce3074.json)
 
+[Extended Data](ext_articles/52ce3074.ext.json)
+
 ---
 
-### நுவரெலியாவில் தொடர் திருட்டில் ஈடுபட்டு வந்த திருடர்கள் விளக்கமறியலில்
+### Thieves involved in a series of theft in Nuwara Eliya
 
 *2024-08-15 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191177) · `ta`
 
-நுவரெலியா பொலிஸ் பிரிவிற்குட்பட்ட லபுக்கலை கொண்டக்கலை பகுதியைச் சேர்ந்த இருவர் ஏராளமான  இடங்களில் பணம் , நகை உட்பட பெருமளவிலான இலத்திரனியல் உபகரணங்களையும் கொள்ளையிட்ட திருடர்களை புதன்கிழமை (14)  கைது செய்துள்ளனர்.
+In Nuwara Eliya, two thieves, aged 43 and 29, were arrested for stealing electronics, cash, and jewelry worth over Rs 5 lakhs from various locations. They admitted to breaking into a home in Lapukkalai and stealing Rs 20,000. Both were remanded for 14 days after being charged.
 
-குறித்த இருவரில் ஒருவர் 43 வயதுடைய இரண்டு பிள்ளைகளின் தந்தை எனவும் இவரின் மனைவி வெளிநாட்டில் பணிபுரிந்து வருவதாகவும் மற்றொருவர் 29 வயதுடையவர் எனவும் குறித்த திருடன் பல திருட்டு சம்பவங்களில் தொடர்புடையவர் என்றும் இறுதியில் வலப்பனை நீதிமன்றத்தினால் பிடியாணை பிறப்பிக்கப்பட்ட நிலையில் இவர் பொலிஸாரால் தேடப்பட்டு வந்தவர் எனவும் பல முறை விளக்க மறியலில் வைக்கப்பட்டவர் என பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
 
-இறுதியில் ஆகஸ்ட் (13) திகதி இரவு நுவரெலியா லபுக்கலை குடாஒயா பகுதியில் உள்ள வீடொன்றில் ஜன்னலை உடைத்து உள்நுழைந்த இவ்விரு திருடர்களும் வீட்டில் பாதுகாப்பாக வைக்கப்பட்டிருந்த பணப்பையில் இருந்த 20 ஆயிரம் ரூபாய் பணத்தை திருடிச் சென்றதை ஒப்புக் கொண்டுள்ளதாகவும் தெரிவித்தனர்.
+Two persons belonging to the Nuwara Eliya Police Division have arrested thieves on Wednesday (14) who robbed a large number of electronic equipment including money and jewelery in a large number of places.
 
-...
+One of the two children aged 43 years old, his wife is working abroad, and another is 29 years old, and that the thief is involved in several thefts and that he has been searched by the police.
+
+Eventually, on the night of August (13), the two thieves who broke the window in a house in Lapukkalai, Nuwara Eliya, have confessed that they have stolen 20 thousand rupees of money from the wallet in the house.
+
+However, the Nuwara Eliya headquarters said that two thieves had seized more electronic equipment and many other materials stolen from the house and that they were worth Rs 5 lakhs.
+
+The two suspects were produced before the Nuwara Eliya District Magistrate's Court on Thursday (15). The magistrate has ordered the two men to be kept in remand for 14 days.
+
+◼️
 
 [Data](articles/5a045e2a.json)
 
+[Extended Data](ext_articles/5a045e2a.ext.json)
+
 ---
 
-### பாராளுமன்றம் 21 ஆம் திகதி மாத்திரம் கூடும்; பாராளுமன்ற அலுவல்கள் பற்றிய குழுவில் தீர்மானம்
+### Parliament will only meet on the 21st;Resolution on the Committee on Parliamentary Affairs
 
 *2024-08-15 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/191176) · `ta`
 
-ஆகஸ்ட் மாத இரண்டாம் அமர்வு வாரத்துக்கான பாராளுமன்ற அமர்வை 21 ஆம் திகதி புதன்கிழமை மாத்திரம் கூட்டுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.  சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன தலைமையில் கடந்த வாரம் கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இவ்வாறு தீர்மானிக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
+The Parliament will convene on August 21st for its second session, focusing on oral answers and debates on liquor ordinance and Colombo Port City Economic Authority Act regulations. The Varld Laip Lain Yoga Company's bill will undergo a second review. Two postponed questions will also be addressed.
 
-அதற்கமைய, ஆகஸ்ட் 21 ஆம் திகதி புதன்கிழமை காலை 9.30 மணி முதல்  10.30 வரை வாய்மூல விடைக்கான வினாக்களுக்காக நேரம் ஒதுக்கப்பட்டுள்ளது. அதனையடுத்து ம10.30 மணி முதல் மாலை 5.00 மணி வரை மதுவரிக் கட்டளைச் சட்டத்தின் கீழ் 2366/39 ஆம் இலக்க அதிவிசேட வர்த்தமானியில் வெளியிடப்பட்ட அறிவித்தல் மற்றும் கொழும்பு துறைமுக நகரப் பொருளாதார ஆணைக்குழுச் சட்டத்தின் கீழ் 2387/38 ஆம் இலக்க அதிவிசேட வர்த்தமானியில் வெளியிடப்பட்ட ஒழுங்குவிதிகளை விவாதத்துக்கு எடுத்துக்கொள்ளத் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-அதனையடுத்து, வர்ள்ட் லய்ப் லய்ன் யோகா நிறுவனம் (கூட்டிணைத்தல்) தனியார் உறுப்பினர் சட்டமூலம் இரண்டாம் மதிப்பீட்டிற்காக பிரேரிக்கப்பட்டு சட்டவாக்க நிலையியற் குழுவுக்கு ஆற்றுப்படுத்தப்படவுள்ளது.
+It is decided to convene the parliamentary session for the second session of August on Wednesday 21st.Parliamentary Secretary General Kushani Rohanadeera said that this was decided at a meeting of Parliamentary Affairs last week under the chairmanship of Speaker Mahinda Yapa Abeywardena.
 
-...
+Accordingly, on Wednesday, August 21, from 9.30 am to 10.30 am, the time is allocated for oral answers.. Subsequently, the notification issued at the High Gazette No. 2366/39 under the Liquor Ordinance from 10.30 pm to 5.00 pm has been decided to debate the regulations issued at the Colombo Port City Economic Authority Act No. 2387/38.
+
+Subsequently, the Varld Laip Lain Yoga Company (Compassion) Private Membership Bill will be proposed for a second assessment and will be presented to the Legal Standing Committee.
+
+It has been decided to give time to two questions that have been adjourned from 5.00 pm to 5.30 pm.
+
+◼️
 
 [Data](articles/1846964c.json)
 
+[Extended Data](ext_articles/1846964c.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலை புறக்கணிக்குமாறு கோரி யாழில் துண்டுப் பிரசுரம் வழங்கல்!
+### Pamphlet in Jaffna demanding boycott of presidential election
 
 *2024-08-15 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191175) · `ta`
 
-புதன்கிழமை (14) பிற்பகல் யாழ்ப்பாணம் நகர் பகுதியில் தமிழ் தேசிய மக்கள் முன்னணியினால் இந்த துண்டு பிரசுரங்கள் பொதுமக்களுக்கு வழங்கப்பட்டது.
+In Jaffna, the Tamil National People's Front (TNA) distributed pamphlets urging a boycott of the upcoming presidential election. The initiative was led by TNA's General Secretary and MP, C. Gajendran, who handed out the leaflets to the public.
 
-தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் நாடாளுமன்ற உறுப்பினருமான செ.கஜேந்திரன், தமிழ் தேசிய மக்கள் முன்னணியின் உறுப்பினர்கள் துண்டு பிரசுரங்களை வழங்கி மக்களுக்கு தமது நிலைப்பாடுகளை தெளிவுபடுத்தியிருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+These leaflets were issued to the public by the Tamil National People's Front (TNA) in Jaffna Nagar on Wednesday afternoon.
+
+It is noteworthy that the General Secretary of the Tamil National People's Front and Member of Parliament, C. Gajendran, made leaflets by providing leaflets to the people.
 
 ◼️
 
 [Data](articles/44686f66.json)
+
+[Extended Data](ext_articles/44686f66.ext.json)
 
 ---
 
@@ -328,25 +358,33 @@ optimistic about our continued growth,” Cable Solutions Managing Director Pawa
 
 ---
 
-### காட்டு யானை தாக்கியதில் விவசாயி உயிரிழப்பு !
+### Farmer killed in wild elephant attack
 
 *2024-08-15 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191164) · `ta`
 
-வாழைச்சேனை  கிரான் பிரதேச செயலாளர் பிரிவின் சின்னமியான்கல் வயல் பிரதேசத்தில் காட்டு யானை தாக்கியதில் விவசாயி ஒருவர் உயிரிழந்துள்ளதாக வாழைச்சேனை பொலிஸார்  தெரிவித்தனர்.
+A 62-year-old farmer, Ma Subramaniam, was tragically killed by a wild elephant in the Valaichenai region. The incident occurred near Chinnamiyankal Vaikkal, where the farmer resided temporarily for work. Despite being from Mavadivembi, he lived with his family in Chinamiyanangal village. This unfortunate event took place on Wednesday evening, leaving his wife and five children mourning his loss. His body was taken for autopsy at the Valaichenai Base Hospital on Thursday.
 
-மாவடிவேம்பைச் சேர்ந்த (62) வயதுடைய 5 பிள்ளைகளின் தந்தையான மா.சுப்பிரமணியம் என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-மாவடிவேம்பை பிறப்பிடமாகக் கொண்டாலும் தொழில் நிமித்தம் தமது மனைவியுடன் சின்னமியான்கல் கிராமத்தில் வசித்து வந்துள்ளார்.
+Valaichenai police said that a farmer was killed in a wild elephant attack in the Chinnamiyankal Vaikkal area of ​​the Valaichenai Gran Divisional Secretariat Division.
 
-நேற்று புதன்கிழமை மாலை (14) வழக்கம் போல் மேய்ச்சலுக்கு சென்ற தமது மாடுகளை கூட்டி வரும்போது இருள் சூழ்ந்து காணப்பட்டதனால் வழியில் நின்ற யானை அவரை தாக்கியுள்ளது.
+The deceased is Ma Subramaniam, the father of 5 children aged 62 (62) from Mavadivembi.
 
-இவரது அழுகுரல் சத்தம் கேட்டு வாடியில் நின்ற மனைவி  கணவரை  யானையின் தாக்குதலில் இருந்து காப்பற்ற ஓடியபோதும் முயற்சி பலனின்றிபோயுள்ளது.
+Despite the birthplace of Mavadivembi, he lived with his wife in Chinamiyanangal village for business.
 
-இன்று வியாழக்கிழமை (15) உயிரிழந்தவரின் சடலம் வாழைச்சேனை ஆதார வைத்தியசாலையில் பிரேத பரிசோதனைக்காக வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+On Wednesday evening (14), the elephant who was standing on the way was attacked by the darkest of their cows as usual.
 
-...
+The attempt was fruitless even when the wife of the elephant ran away from the elephant's attack, hearing the noise of her crying.
+
+The body of the deceased on Thursday (15) was placed at the Valaichenai Base Hospital for autopsy, police said.
+
+Vadivel Rames Anandan, the sudden death investigation officer who was investigating the deaths, has ordered the body of the body of the body of the body.
+
+◼️
 
 [Data](articles/90747542.json)
+
+[Extended Data](ext_articles/90747542.ext.json)
 
 ---
 

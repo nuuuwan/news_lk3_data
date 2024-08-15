@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 02:55:11**
+As of **2024-08-16 03:06:21**
 
 ## Newspaper Stats
 
-*Scraped **40,970** Articles*
+*Scraped **40,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,490
-dailyftlk | 2,652
+dailyftlk | 2,654
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,964 (100.0%) of 40,970 articles have been extended.
+40,970 (100.0%) of 40,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Harry Jayawardena: Hardnosed businessman with the softest heartbeat
+
+*2024-08-16 02:49:48* · [`dailyftlk`](https://www.ft.lk/columns/Harry-Jayawardena-Hardnosed-businessman-with-the-softest-heartbeat/4-765609) · `en`
+
+Almost 20 years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many SriLankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala. These attacks came just after my friend Lasantha Wickrematunge implored me to leave the countryand not too long before he himself was killed.
+
+It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
+
+...
+
+[Data](articles/46488a84.json)
+
+---
+
+### Rajitha Senaratne’s crossover and the politics of SJB defections
+
+*2024-08-16 02:40:34* · [`dailyftlk`](https://www.ft.lk/columns/Rajitha-Senaratne-s-crossover-and-the-politics-of-SJB-defections/4-765608) · `en`
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha Senaratne is the latest among well-known politicians to throw in their lot with incumbent President Ranil Wickremesinghe. The Samagi Jana Balawegaya (SJB) MP for Kalutara district met with the President at the Gangaramaya temple in Colombo on 13 August and signed a Memorandum of Understanding (MoU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for 21 September 2024. Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MoU at Gangaramaya, Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports, Senaratne had stated this motivated him into supporting Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/53b051e3.json)
+
+---
 
 ### Elections, regime shift, and transformation of the State
 
@@ -44,6 +72,8 @@ Elections offer an opportunity to measure the re-composition of social forces. N
 
 [Data](articles/99e9bed4.json)
 
+[Extended Data](ext_articles/99e9bed4.ext.json)
+
 ---
 
 ### Rishad’s ACMC inks agreement to support Sajith
@@ -55,6 +85,8 @@ The All Ceylon Makkal Congress (ACMC), led by MP Rishad Bathiudeen, yesterday si
 ◼️
 
 [Data](articles/3556b83e.json)
+
+[Extended Data](ext_articles/3556b83e.ext.json)
 
 ---
 
@@ -76,6 +108,8 @@ The MP also noted that Sajith Premadasa failed to conduct a proper investigation
 
 [Data](articles/f473beaa.json)
 
+[Extended Data](ext_articles/f473beaa.ext.json)
+
 ---
 
 ### Ranil garners further support from activists
@@ -91,6 +125,8 @@ She met with the President on Wednesday and praised his leadership during the co
 ◼️
 
 [Data](articles/112f4622.json)
+
+[Extended Data](ext_articles/112f4622.ext.json)
 
 ---
 
@@ -110,6 +146,8 @@ The suspects were arrested based on a complaint lodged by Ratnayake, on behalf o
 
 [Data](articles/9393987f.json)
 
+[Extended Data](ext_articles/9393987f.ext.json)
+
 ---
 
 ### Three ministerial portfolios brought under President’s purview
@@ -125,6 +163,8 @@ The move comes after former Ministers Harin Fernando and Manusha Nanayakkara los
 ◼️
 
 [Data](articles/2b294e6e.json)
+
+[Extended Data](ext_articles/2b294e6e.ext.json)
 
 ---
 
@@ -2221,53 +2261,5 @@ The President emphasized that there was no violence in the country after the pre
 [Data](articles/1a3f19a4.json)
 
 [Extended Data](ext_articles/1a3f19a4.ext.json)
-
----
-
-### Health Officers' Lost Postal Voting
-
-*2024-08-15 12:11:50* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-නිලධාරීන්ට-තැපැල්-ඡන්දය-නැතිවීමෙන්-අයිතිවාසිකම්-උල්ලංඝනය-වෙනවලු/11-411386) · `si`
-
-Ravindra Kunadwarachchi, president of the All Ceylon Nurses Association, highlights that health sector workers, including about 3600 nurses both locally and abroad, face restrictions on postal voting. He urges the Elections Commission to allow postal voting for nursing staff, emphasizing the need for pre-approval of leaves due to the nature of their service. If not addressed, legal actions post-elections are considered.
-
-🟩
-
-The All Ceylon Nurses Association President Ravindra Kunadwarachchi says that the officers who work in the health sector are not allowed to use postal votes.
-
-Mr. Kawadavarachchi stated:
-
-About 3600 nurses in the health sector in the country have abandoned and abroad, and the number of votes throughout the country is violated throughout the country.
-
-As a constituent of this, we have asked the Elections Commission to give post ownership to the Nursing staff in writing and the Elections Staff, which directly contributes directly to the election duties in writing, the Elections Staff directly contributed directly to the election duties.That is.
-
-According to the Election Act, the Health Secretary has been authorized to provide leave to the safety of all employees to ensure the voice secretary of all employees.
-
-By the nature of our service, we cannot inform the holidays and should be made in advance.
-
-...
-
-[Data](articles/ea8c4501.json)
-
-[Extended Data](ext_articles/ea8c4501.ext.json)
-
----
-
-### EC accepts nominations of all 39 presidential candidates
-
-*2024-08-15 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101257/ec-accepts-nominations-of-all-39-presidential-candidates) · `en`
-
-The Election Commission of Sri Lanka says it has accepted the nominations of all 39 presidential candidates who submitted their nominations today (15) for the 2024 Presidential Election.
-
-The Election Commission Chairman R.M.A.L. Rathnayake announced that the three objections presented following the nomination submission, were rejected.
-
-Addressing the candidates, signatories and others present at the Election Secretariat, he said that 39 candidates had submitted nominations during the allocated period from 9.00 a.m. to 11.00 a.m. today. This includes 22 candidates from recognized political parties, 1 from other parties and 16 independent candidates.
-
-He added that three objections had been submitted during the period allocated for the presenting of objections which ended at 11.30 a.m.
-
-...
-
-[Data](articles/b8271837.json)
-
-[Extended Data](ext_articles/b8271837.ext.json)
 
 ---

@@ -1,36 +1,100 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 09:55:44**
+As of **2024-08-15 10:08:19**
 
 ## Newspaper Stats
 
-*Scraped **40,826** Articles*
+*Scraped **40,833** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
-bbccomsinhala | 379
+bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,476
 dailyftlk | 2,638
-adalk | 3,752
+adalk | 3,753
 dailymirrorlk | 4,733
 adaderanalk | 4,763
-tamilmirrorlk | 5,205
+tamilmirrorlk | 5,208
 virakesarilk | 6,468
-adaderanasinhalalk | 6,948
+adaderanasinhalalk | 6,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,824 (100.0%) of 40,826 articles have been extended.
+40,826 (100.0%) of 40,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### තවත් භයානක රෝගයක් පැතිරෙයි
+
+*2024-08-15 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199961) · `si`
+
+අප්‍රිකානු මහාද්වීපයේ ප්‍රදේශ කිහිපයක පැතිරයන 'එම්පොක්ස්' වසංගතය ලොව අවධානයට ලක්විය යුතු මහජන සෞඛ්‍ය හදිසි තත්ත්වයක් ලෙස ලෝක සෞඛ්‍ය සංවිධානය දැනුම්දී තිබේ.
+
+කොංගෝ හි එම රෝගය වැළඳී දී පුද්ගලයින් 450 ක් පමණ ජීවිතක්ෂයට පත්විය. ආසාදිත වූ ගණන 14,000කට ආසන්නය.
+
+මේ වනවිට මෙම රෝගය බුරුන්ඩි, මධ්‍යම අප්‍රිකානු ජනරජය, කෙන්යාව සහ රුවන්ඩාව වැනි රටවලින් වාර්තා වී තිබේ.
+
+'එම්පොක්ස්' ආසාදනය වන්නේ ලිංගික සබඳතා සහ වෙනත් සමීප සබඳතා ඔස්සේ සහ ආසාදිතයෙක් සමග කතාකරන විට හෝ එවැනි පුද්ගලයෙක් ආසන්නයේ සිට හුස්ම ගන්නා විටදී බව ලෝක සෞඛ්‍ය සංවිධානය පැවසීය.
+
+එහි මූලික රෝග ලක්ෂණ ලෙස උණ ඇතිවීම, සමෙහි තුවාල මතුවීම ලෙස දැක්වෙයි. සෑම ආසාදිතයින් 100කින් 4 දෙනෙක් පමණ මරණයට පත්වීමට ඉඩ ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/fdf5f03a.json)
+
+---
+
+### அவசர நிலை அறிவித்தது  உலக சுகாதார அமைப்பு
+
+*2024-08-15 09:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அவசர-நிலை-அறிவித்தது-உலக-சுகாதார-அமைப்பு/50-342202) · `ta`
+
+உலக நாடுகளிடையே குரங்கு அம்மை பரவல் அதிகரித்து வரும் நிலையில், சர்வதேச பொது சுகாதார அவசர நிலையை உலக சுகாதார அமைப்பு பிறப்பித்துள்ளது.
+
+குரங்கு அம்மை என்பது ஒரு அரிய வகை தொற்று நோய். இந்த நோயை எம்பாக்ஸ் என்று அழைக்கின்றனர். இது மனிதர்களுக்கு இடையே எளிதில் பரவாது. நோய்த் தொற்றால் பாதிக்கப்பட்ட விலங்குகளிடமிருந்தே மனிதர்களுக்குப் பரவுகிறது. இந்த நோய் பாதிப்பு ஏற்பட்டவர்களில், 10இல் ஒருவர் இறக்க வாய்ப்பு உள்ளதாக உலக சுகாதார நிறுவனம் தெரிவித்துள்ளது.
+
+கொரோனாவைப் போல 2022 முதல் பரவத் தொடங்கிய இந்த நோயானது முதலில் ஆபிரிக்க நாடுகளில் பாதிப்பு கண்டறியப்பட்டது. தற்போது, மெல்ல மெல்ல 100க்கும் மேற்பட்ட நாடுகளில் பரவத் தொடங்கியுள்ளது.
+
+ஆபிரிக்க நாடுகளில் மட்டும் 17 ஆயிரத்திற்கும் மேற்பட்டோர் இந்தத் தொற்றால் பாதிக்கப்பட்டுள்ளனர். அவர்களில் 517 பேர் உயிரிழந்துள்ளனர். கடந்த ஆண்டோடு ஒப்பிடுகையில், இந்தாண்டு 160% இந்த நோய் தொற்றின் பரவல் அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/7bb56d57.json)
+
+---
+
+### සමගි ජන බලවේගයේ තවත් මන්ත්‍රීවරයෙක් ජනපතිට සහාය දෙයි
+
+*2024-08-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199960) · `si`
+
+සමගි ජන බලවේගය පාර්ලිමේන්තු මන්ත්‍රී එම් වේලු කුමාර් මහතා ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කර තිබේ.
+
+ඔහු සමගි ජන බලවේගය නියෝජනය කරමින් පසුගිය මහ මැතිවරණයේදී මහනුවර දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුවට තේරි පත්වුණි.
+
+◼️
+
+[Data](articles/418795f1.json)
+
+---
+
+### சஜித் பிரேமதாச, வேட்பு மனுவில் கையொப்பமிட்டார்
+
+*2024-08-15 09:33:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-வேட்பு-மனுவில்-கையொப்பமிட்டார்/175-342199) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடும் ஐக்கிய மக்கள் சக்தியின் தலைவரும், தற்போதைய எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச இன்றைய தினம் (15)  சற்று நேரத்துக்கு முன்னர் தனது வேட்பு மனுவில் கையெழுத்திட்டார்.
+
+◼️
+
+[Data](articles/d05d533c.json)
+
+---
 
 ### Accepting nominations for 2024 Presidential Election begins
 
@@ -43,6 +107,8 @@ Nominations will be accepted until 11.00 a.m. today at the secretariat.
 ◼️
 
 [Data](articles/7d1814fe.json)
+
+[Extended Data](ext_articles/7d1814fe.ext.json)
 
 ---
 
@@ -61,6 +127,20 @@ As per the Supreme Court verdict and SJB’s constitution, Harin Fernando and Ma
 ...
 
 [Data](articles/bb9e5eaa.json)
+
+[Extended Data](ext_articles/bb9e5eaa.ext.json)
+
+---
+
+### ரணிலை சந்தித்தார் வேலுகுமார்
+
+*2024-08-15 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலை-சந்தித்தார்-வேலுகுமார்/76-342198) · `ta`
+
+கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலுகுமார், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சற்றுமுன்னர் சந்தித்து தனது ஆதரவை தெரிவித்துள்ளார் என ஜனாதிபதி ஊடக ப்பிரிவு அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/dc468957.json)
 
 ---
 
@@ -233,6 +313,26 @@ Accordingly, the President has issued the gazette notification while keeping the
 [Data](articles/1003b874.json)
 
 [Extended Data](ext_articles/1003b874.ext.json)
+
+---
+
+### වෙඩික්කරු සමග පොර බදා ත්‍රිරෝද රියදුරු මරණයෙන් බේරෙයි
+
+*2024-08-15 07:52:44* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩික්කරු-සමග-පොර-බදා-ත්‍රිරෝද-රියදුරු-මරණයෙන්-බේරෙයි/11-411378) · `si`
+
+හික්කඩුව නගර මධ්‍යයේ ත්‍රිරෝද රථ රියදුරෙකුට ඊයේ (14දා) පස්වරුවේදී යතුරු පැදියකින් පැමිණි නාදුනන දෙදෙනෙකු  ටී පනස් හය වර්ගයේ ගිනි අවියකින් වෙඩි තැබීමට ගත් උත්සාහය ව්‍යවර්ථව ගොස් ඇති බව හික්කඩුව පොලීසිය කියයි.
+
+ටී පනස් හය වර්ගයේ ගිනිඅවියෙන්  වෙඩි තැබීමට පැමිණි පුද්ගලයා සමග  ත්‍රීරෝද රථ රියදුරු  පොර බදා ඇති බවත් පසුව වෙඩි තැබීමට පැමිණි අය අතේ තිබූ ටී පනස් හය වර්ගයේ ගිනි අවිය බිම වැටී ඇති බවද පොලීසිය කියයි.
+
+මේ අවසරයෙන් ත්‍රිරෝද රථ රියදුරු දිව ගොස් සැගවී ඇති බවත් වෙඩි තැබීමට පැමිණි පුද්ගලයා තමා අතින් බිමට වැටුණ ගිනි අවිය අහුලාගෙන තමන් සමග ආ යතුරු පැදිකරු සමග පලා ගොස් ඇති බවත් පොලීසිය කියයි.
+
+මොවුන් දෙදෙනා පලා ගොස් ඇත්තේ හික්කඩුවේ සිට අම්බලන්ගොඩ දෙසට බවද පොලීසිය කියයි.
+
+නාදුනන තුවක්කුකරුවන් වෙඩි තැබීමට පැමිණ ඇත්තේ හික්කඩුවේම පදිංචි හතලිස්පස් හැවිරිදි ත්‍රීරෝද රථ රියදුරකුට බවද පොලීසිය කියයි. වෙඩි තැබීමට ආ හේතුව මෙතෙක් අනාවරණයවී නැති බවද පොලීසිය කියයි.හික්කඩුව පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/be671469.json)
 
 ---
 
@@ -697,6 +797,24 @@ Vedaranyam fishermen again and again by Sri Lankan Tamil fishermen. Vedaranyam C
 [Data](articles/07169271.json)
 
 [Extended Data](ext_articles/07169271.ext.json)
+
+---
+
+### 2024 ජනාධිපතිවරණය පැවැත්වීමේ ප්‍රධාන අභියෝගය කුමක්ද?
+
+*2024-08-15 02:26:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdjwy90jwrvo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ජනාධිපතිවරණය 2024: අද නාමයෝජනා භාර ගැනීම සිදුවන්නේ කෙසේ ද?
+
+2024 ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා නාම යෝජනා අද (අගෝස්තු 15 වැනිදා) පෙරවරු 9 සිට 11 දක්වා භාර ගැනීමට නියමිතය.
+
+ජනාධිපතිවරණය වෙනුවෙන් අපේක්ෂකයින් 40 දෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+
+නාම යෝජනා භාර ගැනීම සඳහා පවතින සූදානම සහ මෙවර ජනාධිපති මැතිවරණය පැවැත්වීමේදී මැතිවරණ කොමිෂන් සභාව මුහුණ දෙන අභියෝග මොනවාද යන්න පිළිබඳව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක බීබීසී සිංහල වෙත පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/010c1b5a.json)
 
 ---
 
@@ -2087,165 +2205,5 @@ Police stated that twelve passengers including children and adults were travelli
 [Data](articles/7103bc86.json)
 
 [Extended Data](ext_articles/7103bc86.ext.json)
-
----
-
-### Special traffic plan in Rajagiriya tomorrow
-
-*2024-08-14 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199934) · `si`
-
-Tomorrow in Rajagiriya, a special traffic plan will be in effect from 8 am to 2 pm due to the nomination handover for the Presidential Election at the Elections Secretariat.
-
-🟩
-
-The nomination of the Presidential Election will be handed over to the Presidential election on August 15 at the Elections Secretariat at Rajagiriya.
-
-The police announced that a special traffic plan is being implemented from 8 am to 2 pm.
-
-◼️
-
-[Data](articles/e19d4689.json)
-
-[Extended Data](ext_articles/e19d4689.ext.json)
-
----
-
-### How did Madushan Kotmale reservoir have gone missing from home on the 11th?
-
-*2024-08-14 16:07:54* · [`adalk`](https://www.ada.lk/breaking_news/11වැනිදා-නිවසින්-අතුරුදන්වූ-මදුෂාන්-කොත්මලේ-ජලාශයට-ආවේ-කොහොමද--/11-411372) · `si`
-
-Madushan Kotmale, a 24-year-old, went missing from his home on November 11th. His body was later discovered in the upper Kotmale reservoir. The Talawakele police received a complaint about his disappearance and identified the body through a testament brought by relatives. The case is now under investigation by the Colombo district's forensic medical examiner and the Nuwara Eliya Magistrate.
-
-🟩
-
-The body of a young man who was missing from the house was found in the upper Kotmale reservoir (14), the Talawakele police said.
-
-The victim in the upper part of Talawakele estate. Madushan was the body of 24 year old youth.
-
-The young man had lodged a complaint with the Talawakele police that the young man had disappeared from the house from the day (11).
-
-The body has been identified by the relatives of Talawakele due to a testament that has been brought to Talawakele Police on information constructed by the Talawakele road.
-
-Talawakele Police said that the body of the Maha Death was forwarded to the forensic medical medical examination of the Colombo district for a cricket of the Nuwara Eliya Magistrate.. (I J)
-
-◼️
-
-[Data](articles/32197dd7.json)
-
-[Extended Data](ext_articles/32197dd7.ext.json)
-
----
-
-### Shock for the wife who bought the price
-
-*2024-08-14 16:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-கொடுத்து-வாங்கிய-மனைவிக்கு-ஷொக்/175-342170) · `ta`
-
-A shocking incident occurred in Rajasthan where Prem Ram Mcwal, aged 40, from Narasingapura village, allegedly attacked his wife, tied her feet to a motorbike, and dragged her through muddy roads. Villagers present witnessed but did not intervene, instead recording the event on their phones. The motive behind the attack seems to stem from a dispute over the woman's wish for her sister to return home. The victim's family reportedly received a compensation of Rs 2 lakh for 10 months. Police have promised to take action against those who filmed the incident without attempting to stop it.
-
-🟩
-
-An incident that made a scene in the film was a surprise to the people who heard the news.
-
-Prem Ram Mcwal (age 40) from Narasingapura village in Rajasthan, India, attacked his wife and tied his feet on a motorbike and dragged him on the rough mud road.
-
-It has been reported that no villagers who visited the incident have come forward to prevent him and everyone has been taking the video via the phone.
-
-According to the police, action will be taken against the person who shot the film without preventing the death.. She and her husband seem to have had a dispute because the woman wanted her sister to go home.
-
-In the meantime, the woman has been bought for Rs 2 lakh for 10 months.
-
-◼️
-
-[Data](articles/692da522.json)
-
-[Extended Data](ext_articles/692da522.ext.json)
-
----
-
-### Govt. A repair tax level amendment
-
-*2024-08-14 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199933) · `si`
-
-The government proposes amending personal income tax to Rs., influenced by the Presidential Media Unit's success. The IMF suggests adjustments for broader tax relief, especially for lower-income groups, while maintaining the original proposal's intent.
-
-🟩
-
-The government has proposed to the IMF to amend the personal income tax payments to Rs.
-
-The proposal was made due to the strong performance of the Presidential Media Unit.
-
-The IMF has submitted amendments to the proposal and provide more low relief to the lower taxes, and equal relief to the medium level, and keeping the meaning of the proposal.
-
-◼️
-
-[Data](articles/ab2945a8.json)
-
-[Extended Data](ext_articles/ab2945a8.ext.json)
-
----
-
-### Vijayadasa signature on the nomination
-
-*2024-08-14 15:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-விஜயதாச-கையொப்பம்/175-342168) · `ta`
-
-Vijayadasa Rajapaksa, former Justice Minister, filed his nomination for the upcoming presidential election at his home in Nawala, Colombo, with blessings from Sarvamadam leaders.
-
-🟩
-
-Former Justice Minister Vijayadasa Rajapaksa signed a short time in a nomination papers to contest the upcoming presidential election.
-
-The event was held at his residence in Nawala, Colombo. Sarvamadam leaders attended and blessed.
-
-◼️
-
-[Data](articles/75354469.json)
-
-[Extended Data](ext_articles/75354469.ext.json)
-
----
-
-### Ranil Wickremesinghe signs nominations for Presidential Election
-
-*2024-08-14 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/101235/ranil-wickremesinghe-signs-nominations-for-presidential-election) · `en`
-
-President Ranil Wickremesinghe has signed his nomination papers today (14) to contest the upcoming Presidential Election.
-
-He has signed the nomination papers at his political office in Flower Road, Colombo.
-
-Prime Minister Dinesh Gunawardena, Ministers Nimal Siripala de Silva, Ali Sabry, Kanchana Wijesekera, Bandula Gunawardena and other government MPs were also present on the occasion.
-
-On July 26, President’s Counsel Ronald Perera had placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate..
-
-President Wickremesinghe had confirmed that he will contest the upcoming Presidential Election as an independent candidate, while addressing a public meeting held in Galle, on July 27.
-
-...
-
-[Data](articles/0cfbfef9.json)
-
-[Extended Data](ext_articles/0cfbfef9.ext.json)
-
----
-
-### 40 presidential candidates vie for Sri Lanka’s top job
-
-*2024-08-14 15:34:00* · [`economynextcom`](https://economynext.com/40-presidential-candidates-vie-for-sri-lankas-top-job-176772/) · `en`
-
-ECONOMYNEXT – Sri Lanka will have 40 candidates contesting at the upcoming Presidential Election on September 21, an Election Commission list showed.
-
-The deadline for accepting candidate deposits was 12 noon today (14), at which point monies had been paid for 40 candidates.
-
-Nominations will be accepted between 9 am and 11 am on Thursday (15). Complaints will be entertained until 11.30 am.
-
-There are 17 independent candidates, 22 from recognised parties, and 1 other party.
-
-As per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
-
-The country’s Commissioner General of Elections Saman Sri Rathnayake has said that each additional candidate on the presidential election ballot increases costs by about 200 million rupees.
-
-...
-
-[Data](articles/1755163f.json)
-
-[Extended Data](ext_articles/1755163f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 10:21:03**
+As of **2024-08-15 10:36:27**
 
 ## Newspaper Stats
 
-*Scraped **40,834** Articles*
+*Scraped **40,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,476
 dailyftlk | 2,638
 adalk | 3,754
 dailymirrorlk | 4,733
-adaderanalk | 4,763
+adaderanalk | 4,766
 tamilmirrorlk | 5,208
-virakesarilk | 6,468
+virakesarilk | 6,471
 adaderanasinhalalk | 6,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,833 (100.0%) of 40,834 articles have been extended.
+40,834 (100.0%) of 40,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### First Randoli Perahera of Kandy Esala Festival commences tonight
+
+*2024-08-15 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101251/first-randoli-perahera-of-kandy-esala-festival-commences-tonight) · `en`
+
+The first Randoli Perahera of the Kandy Esala Festival is scheduled commence tonight (15) with the historic procession, one of the oldest and grandest festivals in Sri Lanka, parading the streets of Kandy.
+
+The first Randoli Perahera will parade the streets for five days until August 19.
+
+The Sri Dalada Esala Perahera of the Scared Temple of the Tooth Relic (Sri Dalada Maligawa) in Kandy with the first Kumbal Perahera parading the streets commenced on Saturday (10). The Kumbal Perahera was held for 5 days until August 14.
+
+The Kandy Esala festival will draw to an end following the water-cutting ceremony at the Mahaweli River in Getambe on August 31.
+
+This year’s Esala Festival will officially come to an end after the Nilames together with the Diyawadana Nilame of the Temple of Tooth Relic, Pradeep Nilanga Dela present the Sannasa (Scroll) to the President.
+
+...
+
+[Data](articles/1d394d74.json)
+
+---
+
+### வேட்புமனுக்களை கையளிக்க ரணில், சஜித் தேர்தல் ஆணைக்குழுவுக்கு வருகை !
+
+*2024-08-15 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191126) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ ஆகியோர்  எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுக்களை கையளிப்பதற்காக இராஜகிரியவில் உள்ள தேர்தல்கள் ஆணைக்குழுவிற்கு வருகை தந்துள்ளனர்.
+
+◼️
+
+[Data](articles/0e835e61.json)
+
+---
+
+### 2024 presidential election: nominations begin
+
+*2024-08-15 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
+
+Nominations for the 2024 presidential election have started, as announced by the Election Commission.
+
+🟩
+
+The Election Commission has begun the process of accepting nominations for the 2024 presidential election.
+
+◼️
+
+[Data](articles/2e8dc0b0.json)
+
+[Extended Data](ext_articles/2e8dc0b0.ext.json)
+
+---
 
 ### Another dangerous disease spreads
 
@@ -55,6 +105,24 @@ Fever as the basic symptoms of fever are shown as the emergence of skin injuries
 [Data](articles/fdf5f03a.json)
 
 [Extended Data](ext_articles/fdf5f03a.ext.json)
+
+---
+
+### தமிழ் முற்போக்கு கூட்டணியின் வேலுகுமார் ஜனாதிபதி ரணிலுக்கு ஆதரவு !
+
+*2024-08-15 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191124) · `ta`
+
+தமிழ் முற்போக்கு கூட்டணியின் பாராளுமன்ற உறுப்பினர் வேலுகுமார் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தனது ஆதரவைத் தெரிவித்துள்ளார்.
+
+இதேவேளை, தமிழ் முற்போக்குக் கூட்டணி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவுக்கு ஆதரவை வழங்குவதாக சில நாட்களுக்கு முன்னர் அறிவித்திருந்த நிலையில், தமிழ் முற்போக்குக் கூட்டணியின் பாராளுமன்ற உறுப்பினரான வேலுக்குமார் தனது முடிவை இன்று வியாழக்கிழமை (15) அறிவித்துள்ளார்.
+
+பாராளுமன்ற உறுப்பினர் வேலு குமார், இன்று காலை  ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து ஆதரவளிப்பதாக உறுதியளித்தார்.
+
+ஜனாதிபதித் தேர்தலுக்கான வேட்புமனுவை சமர்ப்பிப்பதற்காக ஜனாதிபதி ரணில் விக்கிரமசிங்க தேர்தல்கள் ஆணைக்குழுவுக்கு செல்வதற்கு முன்னர் பிளவர் வீதியில் உள்ள ஜனாதிபதியின் அலுவலகத்திற்கு சென்ற வேலுகுமார் தனது ஆதரவை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/88fd2377.json)
 
 ---
 
@@ -84,6 +152,20 @@ When the disease began to spread in 2022, the monkey in Kerala was recently conf
 
 ---
 
+### SJB MP Velu Kumar pledges support to President Ranil
+
+*2024-08-15 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101250/sjb-mp-velu-kumar-pledges-support-to-president-ranil-) · `en`
+
+Kandy District Samagi Jana Balawegaya (SJB) MP M. Velu Kumar has pledged his support to President Ranil Wickremesinghe at the upcoming Presidential Election.
+
+The MP had met with President Ranil at his office in Flower Road prior to the latter departing for the submission of his presidential election nomination.
+
+◼️
+
+[Data](articles/d90b4967.json)
+
+---
+
 ### Another Member of the Samagi Power to support the President
 
 *2024-08-15 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199960) · `si`
@@ -101,6 +183,18 @@ He was elected to Parliament from the Kandy District representing the reconcilia
 [Data](articles/418795f1.json)
 
 [Extended Data](ext_articles/418795f1.ext.json)
+
+---
+
+### வேட்பு மனுவில் கையெழுத்திட்டார் சஜித் !
+
+*2024-08-15 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191125) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடும் ஐக்கிய மக்கள் சக்தியின் தலைவரும், தற்போதைய எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச இன்று வியாழக்கிழமை (15) தனது வேட்பு மனுவில் கையெழுத்திட்டார்.
+
+◼️
+
+[Data](articles/cda7c732.json)
 
 ---
 
@@ -130,7 +224,13 @@ The accepting of nominations for the upcoming Presidential Election commenced at
 
 Nominations will be accepted until 11.00 a.m. today at the secretariat.
 
-◼️
+Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 will submit their nominations at the Election Commission office until 11.00 a.m. today.
+
+Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
+
+The deadline for the placing of deposits for the candidates contesting the 2024 Presidential Election concluded at 12 noon on Wednesday (14), while 40 individuals in total have placed deposits to contest the upcoming presidential election.
+
+...
 
 [Data](articles/7d1814fe.json)
 
@@ -176,41 +276,29 @@ Kandy district parliamentarian Velukumar has announced his support for President
 
 ---
 
-### හංවැල්ල කෘෘර ඝාතනයට තවත් දෙකක් අල්ලයි
+### Two arrested over Hanwella works
 
 *2024-08-15 09:24:32* · [`adalk`](https://www.ada.lk/breaking_news/හංවැල්ල-කෘෘර-ඝාතනයට-තවත්-දෙකක්-අල්ලයි/11-411379) · `si`
 
-හංවැල්ල  තුම්මෝදර කුමාරි ඇල්ලට යන මාර්ගයේදී පුද්ගලයෙකු තියුණු ආයුධ වලින් පහර දී ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් තවත් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට හංවැල්ල ගාලබැඳිහේන ප්‍රදේශයේදී අත්අඩංගුවට  ගත් බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+In Hanwella, two individuals were arrested over a murder linked to a drug-related cash dispute. The victim, Hac Aka Mahesh Gunaratne, was killed on June 6th near Thummadara Kumari Falls. The suspects were apprehended in Udumulla and Watareka, with further inquiries ongoing by the Western Province, South District Criminal Division.
 
-මෙලෙස ඝාතනයට ලක්ව තිබුනේ වරකාපොල  නැව්ගල  අංක 23 නිවසේ පදිංචිව සිටි එච් කේ මහේෂ් ගුණරත්න 31 යන අයයි
+🟩
 
-ඉකුත් 6 වෙනිදින මෙම ඝාතනය සිදුකර තිබූ අතර සිදුකළ විමර්ශනවලදී වයස අවුරුදු 34 පුද්ගලයන් දෙදෙනෙකු උඩුමුල්ල හා වටරැක ප්‍රදේශවලදී අත්අඩංගුවට ගැනීමට හැකි වූ බවත් පොලිසිය සඳහන් කරයි
+The Western District of the South District has been arrested in the Hanwella Kummy Kumari on the road to Thummadara Kumari Falls in Hanwella.
 
-මෙම ඝාතනය සම්බන්ධයෙන් මීට පෙරද හංවැල්ල  පොලිසිය මගින් පුද්ගලයන් දෙදෙනකු මෙන්ම යතුරු පැදියක් සහ තියුණු ආයුධයක්ද අත්අඩංගුවට ගෙන තිබිණි. ඝාතනයට හේතුව මත්කුඩු සම්බන්ධයෙන් මුදල් ආරවුලක් බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The victim was Hac Aka Mahesh Gunaratne, a resident of No. 23 at the house - Warakapola Shilar.
 
-සැකකරුවන් අවිස්සාවේල්ල අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය පරීක්ෂණ පවත්වයි.
+The assassination was carried out on the 6th and he was arrested in Udumulla and Watareka areas.
+
+The Hanwella police have previously been arrested by the Hanwella police in the Hanwella police.. Police investigations have revealed that the cause of the killing was a cash dispute in the drug.
+
+The suspects are to be produced before the Avissawella court. Western Province, South District Criminal Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/89dfbe67.json)
 
----
-
-### 2024 presidential election: nominations begin
-
-*2024-08-15 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
-
-Nominations for the 2024 presidential election have started, as announced by the Election Commission.
-
-🟩
-
-The Election Commission has begun the process of accepting nominations for the 2024 presidential election.
-
-◼️
-
-[Data](articles/2e8dc0b0.json)
-
-[Extended Data](ext_articles/2e8dc0b0.ext.json)
+[Extended Data](ext_articles/89dfbe67.ext.json)
 
 ---
 
@@ -261,6 +349,24 @@ Meanwhile, police have taken steps to implement a special security program in th
 [Data](articles/c7f66181.json)
 
 [Extended Data](ext_articles/c7f66181.ext.json)
+
+---
+
+### 2024 Prez poll candidates submit nominations today; special security zone in Rajagiriya
+
+*2024-08-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101247/2024-prez-poll-candidates-submit-nominations-today-special-security-zone-in-rajagiriya) · `en`
+
+The acceptance of nominations for the 2024 Presidential Election is scheduled to begin today from 9.00 a.m. to 11.00 a.m. at the Election Commission office in Rajagiriya.
+
+Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 are required to visit the Election Commission office to submit their nominations, the election regulatory body said.
+
+Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
+
+Against this backdrop, the vicinity of the Election Commission Office in Rajagiriya has been designated as a special security zone due to the accepting of nominations, while the Sri Lanka Police announced that a special traffic plan would be implemented in the area from 8.00 a.m. to 2.00 p.m. today.
+
+...
+
+[Data](articles/17150dd7.json)
 
 ---
 
@@ -2107,145 +2213,5 @@ The President revealed this while delivering the keynote address at the Universi
 [Data](articles/59f3b6f3.json)
 
 [Extended Data](ext_articles/59f3b6f3.ext.json)
-
----
-
-### Sri Lanka stocks close up, banking stocks see interest
-
-*2024-08-14 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-stocks-see-interest-176800/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.58 percent, or 66.30 points, at 11,413; while the more liquid S&P SL20 Index closed up 1.05 percent, or 34.13 points, at 3,278.
-
-“Turnover crossed the one billion mark for the first time this month,” Softlogic Stockbrokers said. “There was mixed participation from both local and foreign investors.”
-
-Interest in banks was seen due to many posting positive interim results. Commercial Bank of Ceylon Plc was up at 92.90 despite its Bangladesh exposure.
-
-“Banks are seeing interest because the banking results that have come out so far look ok. It could also be a bit of profit-taking.”
-
-Hatton National Bank Plc voting was flat at 180.00, while non-voting was up at 142.50. The bank had posted a profit after tax of 15.4 billion rupees during the six months ended June 2024.
-
-...
-
-[Data](articles/0266756c.json)
-
-[Extended Data](ext_articles/0266756c.ext.json)
-
----
-
-### The Vesa's visa problem solves the problem
-
-*2024-08-14 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199937) · `si`
-
-Kumindu Mendis and Geoffrey Wandder, due to leave for England tomorrow, missed the Sri Lankan cricket team's departure on the 11th. They'll join the squad for three Tests against England, starting with the first match in Manchester on 21st August.
-
-🟩
-
-Kumindu Mendis and Geoffrey Wandder is due to leave for England tomorrow (15) to visit the Sri Lanka Test squad.
-
-The Sri Lankan cricket team left for England on the 11th and the two players were unable to go.
-
-Three Tests will be held between Sri Lanka and England and the first match begins in Manchester on 21st August.
-
-◼️
-
-[Data](articles/297ed24b.json)
-
-[Extended Data](ext_articles/297ed24b.ext.json)
-
----
-
-### Recommendation for several new appointments
-
-*2024-08-14 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199936) · `si`
-
-Several new diplomatic appointments have been made, including six ambassadors and a High Commissioner. Notably, Mrs. Seraum is now the Sri Lankan Ambassador to Indonesia, Mrs. Asard to Qatar, SK to Russia, Mrs. Gunasekera to Egypt, NM Shahid to Iran, and BKP to Bahrain. Additionally, Mrs. Gunasekera is the Commissioner in New Zealand. In domestic roles, BKP is the new Secretary of the Ministry of Environment, while Mr. Weerasinghe takes the position of Secretary of the Ministry of Industry. Dr. DTK is appointed as the Chairman of the Sri Lanka Export Development Board and CEO, with Mr. Bernard also receiving an appointment.
-
-🟩
-
-Six new ambassadors, a High Commissioner, Appointment of two Secretaries of the Ministry and Statutory Institutions
-
-Accordingly, the Sri Lankan Ambassador to the Indonesian Republic. A. P. P. Mrs. Seraum, Sri Lankan Ambassador to Qatar, Mrs. RSK Asard's name and Mrs. RSK Asard has also recommended by the Committee on High Posts.
-
-SK is the Sri Lankan Ambassador to the Russian Federation. Mrs. Gunasekera as the Sri Lankan Ambassador to the Egyptian Republic of Arabic. Mr. Seneviratne's name is also recommended by the Committee on High Posts.
-
-NM Shahid's Ambassador to the Iranian Islamic Republic is the Sri Lankan Ambassador of the Kingdom of Bahrain.. Mrs. Gunasekera and the Commissioner of Sri Lanka in New Zealand has also recommended by the Committee on High Posts.
-
-...
-
-[Data](articles/50d0aa54.json)
-
-[Extended Data](ext_articles/50d0aa54.ext.json)
-
----
-
-### Wasp attack in Sigiriya
-
-*2024-08-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199935) · `si`
-
-Due to a wasp attack, the Central Cultural Fund site in Sigiriya has temporarily closed to tourists. Thirteen locals were hospitalized after being stung. The influx of tourists is believed to have disturbed the wasps. Once the wasps calm down, the site will reopen, and measures are being studied to prevent future attacks.
-
-🟩
-
-The Central Cultural Fund has been temporarily closed for a tourist arrivals near the Sinhapath of Sigiriya.
-
-The wasp attack on wasp attack and 13 local tourists have been admitted to the Sigiriya Rural Hospital for treatment this afternoon.
-
-Travel guides have been suspected that the excessive arm and excessive tourist arrivals were due to stirring wasps.
-
-The Sigiriya Project Manager of the Central Cultural Fund Sigiriya Herath, who spoke in this regard, it is necessary to redefine the money to visit Sigiriya when they were stirring.
-
-However, as soon as the calmness of the wasps, Sigiriya will be reopened to the tourists.
-
-He also said that a technique is currently studying a technique for providing the wasps.
-
-◼️
-
-[Data](articles/8f9bc7b4.json)
-
-[Extended Data](ext_articles/8f9bc7b4.ext.json)
-
----
-
-### Special traffic plan in Rajagiriya tomorrow
-
-*2024-08-14 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/101237/special-traffic-plan-in-rajagiriya-tomorrow) · `en`
-
-The nominations for the upcoming Presidential Election will be accepted from 9.00 a.m. to 11.00 a.m. tomorrow (August 15) at the Election Secretariat in Rajagiriya.
-
-Accordingly, the police announced that a special traffic plan would be implemented from 8.00 a.m. to 2.00 p.m. tomorrow.
-
-Meanwhile, the vicinity of the Election Commission Office in Rajagiriya is to be designated as a special security zone tomorrow due to the accepting of nominations.
-
-The Chairman of the Election Commission, R.M.A.L. Rathnayake has therefore requested the public to avoid the area if possible for any official or personal purposes during this time period.
-
-The special security zone will encompass Sarana Mawatha in Rajagiriya, with only authorized personnel and vehicles allowed access.
-
-...
-
-[Data](articles/5d7c1373.json)
-
-[Extended Data](ext_articles/5d7c1373.ext.json)
-
----
-
-### President Ranil Wickremesinghe signed the nomination
-
-*2024-08-14 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191099) · `ta`
-
-President Ranil Wickremesinghe nominated himself for the upcoming presidential election on Wednesday, signing the papers at his office in Colombo.
-
-🟩
-
-President Ranil Wickremesinghe signed a nomination papers to contest the upcoming presidential election on Wednesday (14).
-
-The event took place at his political office at Belver Road, Colombo.
-
-◼️
-
-[Data](articles/ed4998e6.json)
-
-[Extended Data](ext_articles/ed4998e6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 16:21:12**
+As of **2024-08-15 16:36:30**
 
 ## Newspaper Stats
 
-*Scraped **40,903** Articles*
+*Scraped **40,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,37 @@ bbccomsinhala | 380
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,480
-dailyftlk | 2,640
-adalk | 3,764
+dailyftlk | 2,645
+adalk | 3,765
 dailymirrorlk | 4,733
 adaderanalk | 4,777
 tamilmirrorlk | 5,227
 virakesarilk | 6,480
-adaderanasinhalalk | 6,958
+adaderanasinhalalk | 6,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,902 (100.0%) of 40,903 articles have been extended.
+40,903 (100.0%) of 40,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### එක්සත් ලංකා පොදුජන පක්ෂයේ සභාපති සහ ලේකම් රිමාන්ඩ්
+
+*2024-08-15 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199970) · `si`
+
+ජනක රත්නායක මහතාට එක්සත් ලංකා පොදු ජන පක්ෂයේ ජනාධිපති අපේක්ෂකත්වය ලබාදීම සඳහා රුපියල් කෝටි 03ක අල්ලසක් ලබාගත්තේ යැයි සැකපිට අත්අඩංගුවට ගත් එම පක්ෂයේ සභාපතිවරයා හා ලේකම්වරයා ලබන 27 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (15) නියම කළේය.
+
+එම සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් තවත් සැකකරුවන් 06 දෙනෙකු රුපියල් ලක්ෂ 20 බැගින් වූ පුද්ගලික ඇප මත මුදා හැරීමට ද අධිකරණය නියම කර තිබේ.
+
+◼️
+
+[Data](articles/c5230791.json)
+
+---
 
 ### Sri Lanka welcomes Canada’s decision to retain LTTE as terrorist entity
 
@@ -47,6 +61,8 @@ The Government of Canada first listed the LTTE as a terrorist entity under the C
 ...
 
 [Data](articles/295f9e8a.json)
+
+[Extended Data](ext_articles/295f9e8a.ext.json)
 
 ---
 
@@ -95,6 +111,88 @@ However, the Tamil Progressive Alliance has decided to support Opposition Leader
 [Data](articles/a56ca6cf.json)
 
 [Extended Data](ext_articles/a56ca6cf.ext.json)
+
+---
+
+### Seven arrested for soliciting bribe from Janaka Ratnayake
+
+*2024-08-15 15:18:49* · [`dailyftlk`](https://www.ft.lk/news/Seven-arrested-for-soliciting-bribe-from-Janaka-Ratnayake/56-765585) · `en`
+
+Several officials, including the secretary of the Eksath Lanka Podujana Pakshaya, have been arrested by the Bribery Commission for soliciting a bribe of Rs. 30 million from former PUCSL Chairman and Presidential candidate Janaka Ratnayake. The election related bribery incident is the first of its kind leading up to the 2024 Presidential election.
+
+The arrests took place in Borella yesterday while the party officials were allegedly accepting the bribe to secure Ratnayake’s nomination from the party.
+
+The operation followed a complaint lodged by Citizen’s Movement Against Fraud, Corruption, and Waste Chairman Kamantha Thushara. Thushara reported the bribery attempt on behalf of Ratnayake, who is running for President as the candidate of the Eksath Lanka Podujana Pakshaya.
+
+Earlier in the day,  Eksath Lanka Podujana Pakshaya Secretary Nihal Premakumara Deshapriya had submitted the security deposit for Ratnayake at the Election Commission.
+
+◼️
+
+[Data](articles/b9f3e8e0.json)
+
+---
+
+### Patali and Rishad to support Sajith
+
+*2024-08-15 15:12:44* · [`dailyftlk`](https://www.ft.lk/news/Patali-and-Rishad-to-support-Sajith/56-765583) · `en`
+
+The Ekasath Jana Raja Peramuna (EJRP), led by MP Patali Champika Ranawaka, signed a Memorandum of Understanding (MoU) today to support Presidential candidate Sajith Premadasa. The MoU was formalised at the Grand Monarch Hotel, with Patali Champika Ranawaka and party Secretary Bandula Chandarasekara representing EJRP, while Sajith Premadasa and Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara represented the SJB.
+
+...
+
+[Data](articles/c5155b6c.json)
+
+---
+
+### Aragalaya Presidential candidate slams capitalism
+
+*2024-08-15 15:10:13* · [`dailyftlk`](https://www.ft.lk/news/Aragalaya-Presidential-candidate-slams-capitalism/56-765582) · `en`
+
+JAS Presidential candidate Nuwan Bopage says main issue to be addressed is plight of SL’s working people and how their situation can be improved
+
+Criticises exploitation of informal sector workers in SL and blames capitalism for it
+
+Says people will suffer same fate regardless of Ranil Wickremesinghe, Sajith Premadasa or Anura Kumara being elected
+
+Jana Aragala Sandhanaya (JAS) Presidential hopeful, Attorney-at-Law Nuwan Bopage, launched a scathing critique of capitalism yesterday.
+
+In his rally address, Bopage emphasised that the main issue to address is the plight of Sri Lanka’s working people and how their situation can be improved.
+
+“A survey by JETRO has revealed that Sri Lanka has the lowest wages in the region,” Bopage noted. “It highlights that a garment worker who generates substantial revenue earns only Rs. 16,000.”
+
+...
+
+[Data](articles/c473c881.json)
+
+---
+
+### ECSL fires warning shot to TV channel over biased reporting
+
+*2024-08-15 15:07:55* · [`dailyftlk`](https://www.ft.lk/news/ECSL-fires-warning-shot-to-TV-channel-over-biased-reporting/56-765581) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has issued a warning to a Sinhala language television channel for potentially violating election laws by disregarding the media guidelines set by the ECSL during the election period.
+
+In a communique to the media network, the ECSL noted that the channel had ignored the issued guidelines, highlighting that this constitutes a violation of election laws and urging the network to address the matter promptly.
+
+The ECSL highlighted that some of the main accusations against the network include allocating most of its airtime to promote a single candidate and airing morning programs that express insulting opinions about other candidates. Another serious allegation is that the network has been making statements that violate media ethics, even regarding ongoing court proceedings.
+
+...
+
+[Data](articles/d8b6bf73.json)
+
+---
+
+### President Ranil Wickremesinghe signs nomination papers
+
+*2024-08-15 15:06:31* · [`dailyftlk`](https://www.ft.lk/news/President-Ranil-Wickremesinghe-signs-nomination-papers/56-765580) · `en`
+
+President Ranil Wickremesinghe officially signed his nomination paper yesterday for the upcoming Presidential election.
+
+The event took place at his political office on Flower Road, Colombo. The Maha Sangha chanted Seth Pirith and offered blessings, while priests from other religions also performed rituals and gave their blessings. The ceremony was attended by Prime Minister Dinesh Gunawardena, many ministers, and a large gathering of supporters, including representatives from political parties and organisations backing President Wickremesinghe in the election.
+
+◼️
+
+[Data](articles/4977bb6c.json)
 
 ---
 
@@ -383,6 +481,22 @@ In that respect, the Tamil general structure has announced that the appointment 
 [Data](articles/7cb18e8f.json)
 
 [Extended Data](ext_articles/7cb18e8f.ext.json)
+
+---
+
+### කටුනායක  සිට කොළඹ කොටුවට හා මා කුඹුරට සුඛෝපභෝගී බස් රථ සේවාවක්
+
+*2024-08-15 13:34:00* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක--සිට-කොළඹ-කොටුවට-හා-මා-කුඹුරට-සුඛෝපභෝගී-බස්-රථ-සේවාවක්/11-411391) · `si`
+
+ශ්‍රී ලංකා ගුවන් සේවා ඉතිහාසයේ මෙතෙක් පැවති විශාලතම ගැටළුවකට විසදුමක් ලෙස කටුනායක ගුවන් තොටුපොළ  සිට කොළඹ , කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මා කුඹුර බහු විධ ප්‍රවාහන මධ්‍යස්ථානය කරා නව සුඛෝපභෝගී බස් රථ සේවාවක් (Air Port Terminal Shuttle Service ) 08/15 දින ප්‍රවාහන සහ මහාමාර්ග අමාත්‍යාංශයේ ලේකම් රංජිත් රූබසිංහ මහතා විසින් කටුනායක ගුවන් තොටුපොළෙන් ආරම්භ කළේය .
+
+මෙතෙක් ශ්‍රී ලංකාවේ සංචාරය සදහා පැමිණෙන විදේශීය සංචාරකයන් මෙරට තුළ සංචාරය සදහා ප්‍රවාහන සේවා ආයතනයක පහසුකම් ලබා නොගන්නේ නම් ඔවුන් සිය බඩුබාහිරාදිය සමග ගුවන් තොටුපොළේ සිට කිලෝ මීටර් 02 ක් පමණ දුරින් පිහිටි ඇවරිවත්ත බස් නැවතුම් පොළ කරා ගමන් කළ යුතුව තිබුණි .
+
+මෙම නව බස් සේවාව සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගම , ප්‍රවාහන සහ මහා මාර්ග අමාත්‍යාංශය , පෞද්ගලික බස් රථ  සමාගමක් ඒකාබද්ධ වී සංවිධානය කර ඇති අතර , ගුවන් තොටුපොළෙන් පිටත් වන මෙම බස් රථ කොළඹ - කටුනායක අධිවේගී මාර්ගය ඔස්සේ , අතරමැද නැවැත්වීමකින් තොරව සිය ගමනාන්තය කරා පිවිසෙන ආකාරයට මෙම බස් රථ ගමනාගමනය සූදානම් කර තිබේ .
+
+...
+
+[Data](articles/bfe8f3e6.json)
 
 ---
 
@@ -2137,149 +2251,5 @@ Meanwhile, police have taken steps to implement a special security program in th
 [Data](articles/d25e941a.json)
 
 [Extended Data](ext_articles/d25e941a.ext.json)
-
----
-
-### Thundershowers during the evening
-
-*2024-08-15 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199951) · `si`
-
-Expect showers or thundershowers in Western, Sabaragamuwa, North Western provinces, and districts including Kandy, Nuwara Eliya, Galle, Matara, Matale, Polonnaruwa, and Mullaitivu. The Department of Meteorology advises caution against wind and lightning risks due to thunderstorms.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology announced that showers or night thundershowers during the evening or night in the Matale, Polonnaruwa and Mullaitivu Districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/437b0d55.json)
-
-[Extended Data](ext_articles/437b0d55.ext.json)
-
----
-
-### ICA announces 1st International Half-Marathon in Colombo
-
-*2024-08-15 05:53:32* · [`dailyftlk`](https://www.ft.lk/news/ICA-announces-1st-International-Half-Marathon-in-Colombo/56-765563) · `en`
-
-To promote Sri Lanka as premier tourist destination for leisure and sporting events
-
-All proceeds from marathon will be used for ICA’s CSR initiatives including organ donation awareness, supporting orphanages and tree planting
-
-The Indian Cultural Association (ICA) is excited to announce the launch of its first International Half-Marathon, set to officially kick off on 1 September, 2024, from Galle Face Green, Colombo. This highly anticipated event aims to position Sri Lanka as a prime destination for both leisure and sporting events, attracting attention from around the world, with the aim of registering over 1400 athletes from multiple countries. The marathon will allow the ICA to fund their CSR initiatives including self-pledging of organ donation, helping orphanages and planting Na Trees, in local schools, symbolising a green footprint from each of the race participants.
-
-...
-
-[Data](articles/d4c1a3a7.json)
-
-[Extended Data](ext_articles/d4c1a3a7.ext.json)
-
----
-
-### Pakistan High Commission celebrates 78th anniversary of Independence Day of Pakistan
-
-*2024-08-15 05:50:55* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-celebrates-78th-anniversary-of-Independence-Day-of-Pakistan/56-765562) · `en`
-
-The High Commission of Pakistan and the Pakistani community in Sri Lanka yesterday celebrated the 78th Independence Day of Pakistan with traditional fervour and resolve to make Pakistan a strong, dynamic, progressive, tolerant, and democratic Islamic welfare State.
-
-The High Commissioner of the Islamic Republic of Pakistan in Sri Lanka Major General (Retd) Faheem-Ul-Aziz HI (M) hoisted the national flag of Pakistan in an impressive ceremony at the Pakistan High Commission in Colombo. The special messages of the President and the Prime Minister of Pakistan were read out for the audience.
-
-In his speech, the Pakistani High Commissioner highlighted the importance of the day. He emphasised the significance of the vision of Quaid-e-Azam Mohammad Ali Jinnah and poet-philosopher Allama Muhammad Iqbal, who envisioned Pakistan as a peaceful and prosperous nation.
-
-...
-
-[Data](articles/0da81fa6.json)
-
-[Extended Data](ext_articles/0da81fa6.ext.json)
-
----
-
-### Bharat Sri Lanka Maitri Week begins
-
-*2024-08-15 05:48:38* · [`dailyftlk`](https://www.ft.lk/news/Bharat-Sri-Lanka-Maitri-Week-begins/56-765561) · `en`
-
-Bharat Kosh, a repository of Indic-knowledge, was inaugurated by High Commissioner of India to Sri Lanka Santosh Jha at the Colombo Public Library on Monday.
-
-The Bharat Kosh at the centurion old Colombo Public Library showcases a curated selection of books on India and written by Indian authors, comprising artefacts, and cultural treasures that celebrate India’s diverse heritage and reflects the deep historical and cultural ties between India and Sri Lanka. The inauguration of Bharat Kosh marks the commencement of the Bharat Sri Lanka Maitri Week 2024, a week-long celebration highlighting the vibrant cultural and artistic exchanges between India and Sri Lanka.
-
-The week is being celebrated by the High Commission of India and its cultural arm Swami Vivekananda Cultural Centre to commemorate the 78th Independence Day of India. A highlight of the celebrations will be the Bharat Sri Lanka Maitri Utsav being organised from 15-18 August at Colombo’s iconic Independence Square and Park.
-
-...
-
-[Data](articles/4c9c476d.json)
-
-[Extended Data](ext_articles/4c9c476d.ext.json)
-
----
-
-### The filing of nominations will be closed from 6 pm to 2 pm today;Only permission can enter- the Elections Commission
-
-*2024-08-15 04:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191120) · `ta`
-
-Nominations close today from 6 pm to 2 pm at the Elections Commission. The 9th executive power election, with 40 contestants, is on Thursday. Nominations are accepted from 9 am to 11 am today, with 22 candidates from political parties, 1 candidate, and 17 independents. Of the 41 initially allowed for the 2019 election, 35 contested. Security measures are in place, including special traffic operations and police presence.
-
-🟩
-
-The country's 9th executive power will be held on Thursday (15) as 40 people have been restricted to contest the presidential election.
-
-Nominations will be accepted at the Elections Commission's office from 9 am to 11 am today (15).
-
-The Elections Commission has announced that there are 22 candidates to contest on behalf of the recognized political parties, 1 candidate and 17 as independent candidates.
-
-Of the 41 people who were controlled to contest the 2019 presidential election, only 35 contested the nominations.
-
-With the ninth presidential election to be held on the 21st of this month, 40 people have been restricted to contest the election.
-
-The official announcement for the presidential election was announced on July 26 last year.
-
-During this period, 40 people have been controlled by the recognized political parties, another political party and an independent candidate.
-
-...
-
-[Data](articles/d2679d9f.json)
-
-[Extended Data](ext_articles/d2679d9f.ext.json)
-
----
-
-### Colombo Marina Development nominated as primary venture in Port City
-
-*2024-08-15 04:24:11* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Marina-Development-nominated-as-primary-venture-in-Port-City/34-765549) · `en`
-
-The Cabinet of Ministers on Monday approved the nomination of Colombo Marina Development Ltd., as a primary venture with strategic development status under the provisions of the Colombo Port City Economic Commission Act No. 11 of 2021. This designation will allow the company to receive specific incentives and encouragements pertinent to the project.
-
-As part of this initiative, four plots of land within the Colombo Port City area have been leased to Colombo Marina Development.
-
-The company, which operates under the sole authority of Browns Investment Private Company, is responsible for the ‘Recreation Port’ (MARINA) development project.
-
-The project is set to create a state-of-the-art facility with the capacity to harbour 243 marine vessels. In addition to its core marina function, the development will feature exclusive guest clubs, dining options, retail outlets, recreation areas, event spaces and ample parking facilities.
-
-...
-
-[Data](articles/3edf53f3.json)
-
-[Extended Data](ext_articles/3edf53f3.ext.json)
-
----
-
-### Sri Lanka’s economic potential on show at BIMSTEC Summit in New Delhi
-
-*2024-08-15 04:07:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-economic-potential-on-show-at-BIMSTEC-Summit-in-New-Delhi/34-765548) · `en`
-
-From left: Ceylon Chamber of Commerce Assistant Secretary General Dinithi Dias, Ceylon Cold Stores Consumer Foods President Daminda Gamlath, Hayleys Advantis Deputy Managing Director Dr. Asanka Ratnayake, High Commissioner of Sri Lanka to India Kshenuka Senewiratne, Sunshine Healthcare Director and Sunshine Medical Devices & Lina Manufacturing CEO Dr. T. Sayandhan
-
-The Ceylon Chamber of Commerce, together with its Member companies, represented Sri Lanka at the BIMSTEC Business Summit held on 6-7 August in New Delhi.
-
-At the Special Ministerial Plenary at the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), High Commissioner of Sri Lanka to India Kshenuka Senewiratne, addressed the need for greater economic integration with the region, and the importance of establishing the BIMSTEC Free Trade Agreement (FTA) to foster regional prosperity.
-
-...
-
-[Data](articles/8bcecff2.json)
-
-[Extended Data](ext_articles/8bcecff2.ext.json)
 
 ---

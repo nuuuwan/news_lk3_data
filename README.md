@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 17:37:42**
+As of **2024-08-15 17:57:32**
 
 ## Newspaper Stats
 
-*Scraped **40,921** Articles*
+*Scraped **40,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 2,646
 adalk | 3,765
 dailymirrorlk | 4,733
 adaderanalk | 4,779
-tamilmirrorlk | 5,232
-virakesarilk | 6,480
-adaderanasinhalalk | 6,962
+tamilmirrorlk | 5,233
+virakesarilk | 6,482
+adaderanasinhalalk | 6,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,919 (100.0%) of 40,921 articles have been extended.
+40,921 (100.0%) of 40,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### ரிஷாட் பதியுதீன் சஜித்துடன் ஒப்பந்தம்
+
+*2024-08-15 17:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-சஜித்துடன்-ஒப்பந்தம்/175-342237) · `ta`
+
+ஜனாதிபதி தேர்தலில் சஜித் பிரேமதாசாவுக்கு ஆதரவளித்துள்ள அகில இலங்கை மக்கள் காங்கிரஸின் தலைவர் ரிஷாட் பதியுதீன் இது தொடர்பான உடன்படிக்கையில், வியாழக்கிழமை (15)  அன்று கைச்சாத்திட்டுள்ளார்.
+
+◼️
+
+[Data](articles/753bd423.json)
+
+---
+
+### ජනපති දළදා සමිඳුන් වැඳ ආශිර්වාද ලබාගනී
+
+*2024-08-15 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199974) · `si`
+
+එළඹෙන ජනාධිපතිවරණය සඳහා අද (15) දිනයේ නාමයෝජනා භාරදීමෙන් අනතුරුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මහනුවර ශ්‍රී දළදා මාළිගාව වෙත ගොස් දළදා සමිඳුන් වැඳ ආශිර්වාද ලබා ගත්තේය.
+
+අනතුරුව මහනුවර අස්ගිරි සහ මල්වතු මහා විහාර වෙතද ගිය ජනාධිපතිවරයා, මල්වතු මහා විහාර පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගලාභිධාන මහානායක හිමි සහ අස්ගිරි මහා විහාර පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥාණරතන මහානායක හිමි බැහැදැක ආශිර්වාද ලබාගත් අතර පසුව කෙටි පිළිසඳරක ද නිරතවිය.
+
+◼️
+
+[Data](articles/318c9a7b.json)
+
+---
 
 ### The high speed of three dead people
 
@@ -234,21 +260,27 @@ However, the student has been sent to the Kadirgamam Hospital for medical examin
 
 ---
 
-### ஆடைகளை களைந்து அணைத்த காதலன் கைது
+### Lover arrested for hugging clothes
 
 *2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடைகளை-களைந்து-அணைத்த-காதலன்-கைது/175-342232) · `ta`
 
-கதிர்காமம் தேசிய பாடசாலையில் தரம் 11 இல் கல்வி கற்கும் பாடசாலை மாணவியை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய சந்தேகத்தின் பேரில் 19 வயது இளைஞன் ஒருவர் கதிர்காமம் பொலிஸாரால் நேற்று புதன்கிழமை (14) புதன்கிழமை மாலை கைது செய்யப்பட்டுள்ளார்.
+A 19-year-old was arrested for allegedly sexually abusing a 16-year-old girl he claimed to be in love with. The incident occurred near Thetakukamanda, and both parties have been referred for medical examinations.
 
-பாடசாலை அதிபரின் முறைப்பாட்டிற்கு அமைய விசாரணைகளை மேற்கொண்ட பொலிஸார் சந்தேக நபரை கைது செய்துள்ளனர்.
+🟩
 
-விசாரணையில் 16 வயது சிறுமி, சந்தேக நபரை காதலித்து வந்ததையும், அவர் தெட்டகமுகந்த பகுதிக்கு அழைத்துச் சென்று, அங்கு தனது ஆடைகளை கழற்றி தன்னை அணைத்துக்கொண்டதாகவும் தெரிவித்துள்ளார்.
+A 19 -year -old youth was arrested by the Kadirgamam police on Wednesday evening on Wednesday evening on suspicion of sexually abusing a schoolgirl in Grade 11 at Kadirgamam National School.
 
-எனினும், மாணவி மருத்துவ பரிசோதனைக்காக கதிர்காமம் வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டதுடன் சந்தேக நபர் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+The suspect has been arrested by the police, who are investigating the complaint of the school principal.
+
+Investigations revealed that the 16 -year -old girl fell in love with the suspect and took her to the Thetakukamanda area and took off her clothes there.
+
+However, the student has been sent to the Kadirgamam Hospital for medical examination and the suspect is to be produced before the court.
 
 ◼️
 
 [Data](articles/94f800d4.json)
+
+[Extended Data](ext_articles/94f800d4.ext.json)
 
 ---
 
@@ -318,6 +350,24 @@ Ten luxury buses have been deployed for the bus service and will be charged from
 
 ---
 
+### தேர்தல் ஆணைக்குழு 'கோப்பிகடை "போல காணப்படுகின்றது - விஜயதாச
+
+*2024-08-15 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191160) · `ta`
+
+வேட்பு மனுதாக்கல் செய்யும் நடவடிக்கைகளின் போது  தேர்தல் ஆணைக்குழு ஒழுக்கம் கட்டுப்பாட்டை  பேண தவறிவிட்டதாக தேசிய ஜனநாயக முன்னணியின் ஜனாதிபதி தேர்தல் வேட்பாளர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+
+கடந்த காலங்களில் தேர்தல் ஆணைக்குழு நீதிமன்றம் போல காணப்படும் ஒழுக்கம்  அமைதி பேணப்படும் என தெரிவித்துள்ள அவர் இம்முறை அது 'கோப்பிகடை" போல காணப்படுகின்றது பல குழுக்கள் உருவாகியுள்ளன என விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+
+ஒரு வேட்பாளரை வெற்றிபெறச்செய்வதற்காக  பல 'டம்மி" வேட்பாளர்கள் நிறுத்தப்பட்டுள்ளனர்,ஒரு வேட்பாளருக்காக 15 முதல் 20 வரையிலான 'டம்மி" வேட்பாளர்கள் நிறுத்தப்பட்டுள்ளனர்,அவர்கள் காடையர்கள் போல நடந்துகொண்டனர் எனவும் அவர் தெரிவித்துள்ளார்.
+
+வேட்பாளர்கள் மத்தியில் ஒழுக்கத்தை பேணுவதற்கு தேர்தல் ஆணைக்குழு முயலவேண்டும் என வேண்டுகோள் விடுத்துள்ள விஜயதாச ராஜபக்ச மக்கள் ஒழுக்கமான விதத்தில் நடந்துகொள்ளவேண்டும் என வேண்டுகோள் விடுப்பதற்கு முன்னர் நாங்கள் அவ்வாறு நடந்துகொள்ளவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/b863b9d6.json)
+
+---
+
 ### Kandy Donkey: Mano boiling
 
 *2024-08-15 15:53:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-கழுதை-மனோ-கொதிப்பு/175-342229) · `ta`
@@ -375,6 +425,8 @@ Additionally, the Deshapremi Jana Balawegaya (DJB) has also declared its support
 ...
 
 [Data](articles/61d9592c.json)
+
+[Extended Data](ext_articles/61d9592c.ext.json)
 
 ---
 
@@ -575,6 +627,28 @@ During the election, candidates can use loudspeakers to promote candidates, and 
 [Data](articles/03aea447.json)
 
 [Extended Data](ext_articles/03aea447.ext.json)
+
+---
+
+### பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது - சுதந்திர தின உரையில் இந்திய பிரதமர் மோடி
+
+*2024-08-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191140) · `ta`
+
+பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது. அது தொடர்பாக விரைவாக விசாரிக்கப்பட வேண்டும் என  இந்திய பிரதமர் நரேந்திர மோடி தெரிவித்துள்ளார்.
+
+இந்தியாவின் 78-வது சுதந்திர தினத்தை முன்னிட்டு இன்று வியாழக்கிழமை (15) டெல்லி செங்கோட்டையில் தேசியக்கொடி ஏற்றி வைத்த இந்திய பிரதமர் மோடி நாட்டு மக்களுக்கு உரையாற்றினார்.
+
+பெண்களுக்கு எதிரான குற்றங்கள் வேதனை அளிக்கிறது. அது தொடர்பாக விரைவாக விசாரிக்கப்பட வேண்டும்.
+
+மேலும் இந்த குற்ற செயல்களில் ஈடுபடுபவர்களுக்கு கடுமையான தண்டனை வழங்கப்பட வேண்டும், சமூகத்தில் நம்பிக்கையை ஏற்படுத்துவது முக்கியம்.
+
+அண்டை நாடுகளில் அமைதியை உறுதி செய்ய நாம் கடமைப்பட்டுள்ளோம். அடுத்த 5 ஆண்டுகளில் 75,000 புதிய மருத்துவ கல்வி பயில்வதற்கான இடங்கள்
+
+உருவாக்கப்படும். இதன் மூலம் நம் மாணவர்கள் வெளிநாடுகளில் சென்று மருத்துவம் பயில வேண்டிய அவசியம் இருக்காது. கடந்த 10 ஆண்டுகளில்  நாட்டின் உள்கட்டமைப்பை பலப்படுத்துவதில் பெரிய நகர்வுகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+...
+
+[Data](articles/6d93d36b.json)
 
 ---
 
@@ -2159,87 +2233,5 @@ Meanwhile, police have taken steps to implement a special security program in th
 [Data](articles/c7f66181.json)
 
 [Extended Data](ext_articles/c7f66181.ext.json)
-
----
-
-### 2024 Prez poll candidates submit nominations today; special security zone in Rajagiriya
-
-*2024-08-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101247/2024-prez-poll-candidates-submit-nominations-today-special-security-zone-in-rajagiriya) · `en`
-
-The acceptance of nominations for the 2024 Presidential Election is scheduled to begin today from 9.00 a.m. to 11.00 a.m. at the Election Commission office in Rajagiriya.
-
-Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 are required to visit the Election Commission office to submit their nominations, the election regulatory body said.
-
-Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
-
-Against this backdrop, the vicinity of the Election Commission Office in Rajagiriya has been designated as a special security zone due to the accepting of nominations, while the Sri Lanka Police announced that a special traffic plan would be implemented in the area from 8.00 a.m. to 2.00 p.m. today.
-
-...
-
-[Data](articles/17150dd7.json)
-
-[Extended Data](ext_articles/17150dd7.ext.json)
-
----
-
-### 2024 Prez poll candidates to submit nominations today; special security zone in Rajagiriya
-
-*2024-08-15 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/101247/2024-prez-poll-candidates-to-submit-nominations-today-special-security-zone-in-rajagiriya) · `en`
-
-The acceptance of nominations for the 2024 Presidential Election is scheduled to begin today from 9.00 a.m. to 11.00 a.m. at the Election Commission office in Rajagiriya.
-
-Accordingly, candidates who have made their deposits by 12.00 noon on 14 August 2024 for the presidential election to be held on September 21 are required to visit the Election Commission office to submit their nominations, the election regulatory body said.
-
-Meanwhile, the written objections can be submitted by opposing candidates or individuals who have signed the nomination papers of opposing candidates between 9.00 a.m. to 11.30 a.m. on the day of nomination.
-
-Against this backdrop, the vicinity of the Election Commission Office in Rajagiriya has been designated as a special security zone due to the accepting of nominations, while the Sri Lanka Police announced that a special traffic plan would be implemented in the area from 8.00 a.m. to 2.00 p.m. today.
-
-...
-
-[Data](articles/7b6b15b5.json)
-
-[Extended Data](ext_articles/7b6b15b5.ext.json)
-
----
-
-### Election Prints are the beginning of tomorrow
-
-*2024-08-15 08:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அச்சுப்பணிகள்-நாளை-முதல்-ஆரம்பம்/175-342196) · `ta`
-
-State Minister Ganga Kalpani Liyanage announced that the presidential election process begins tomorrow, with candidate nominations concluding today post-Elections Commission approval. He noted an increase in presidential hopefuls but expects no substantial difference from the 2019 election lineup.
-
-🟩
-
-State Amaker Ganga Kalpani Liyanage says that the presidential elections will be launched from tomorrow.
-
-He said that the nominations will be completed today after the approval of the Elections Commission, he said.
-
-He said that the number of candidates for the presidential election has increased, and there will be no significant change compared to the 2019 ballot.. (A)
-
-◼️
-
-[Data](articles/979fff68.json)
-
-[Extended Data](ext_articles/979fff68.ext.json)
-
----
-
-### Nomination filing today
-
-*2024-08-15 08:28:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனு-தாக்கல்-இன்று/175-342195) · `ta`
-
-Nominations for the presidential election open from 9 am to 11 am today. Objections can be presented until 11.30 am.
-
-🟩
-
-The nominations of candidates contesting the presidential election will be accepted from 9 am to 11 am today.
-
-The Commissioner General of the Elections Commission Saman Sri Ratnayake said that the opportunity will be issued from 9 am to 11.30 am to present the objections.. (A)
-
-◼️
-
-[Data](articles/a6beefb2.json)
-
-[Extended Data](ext_articles/a6beefb2.ext.json)
 
 ---

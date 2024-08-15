@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 19:06:17**
+As of **2024-08-15 19:21:35**
 
 ## Newspaper Stats
 
-*Scraped **40,936** Articles*
+*Scraped **40,939** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 347
 newsfirstlk | 363
-bbccomsinhala | 380
+bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,488
 dailyftlk | 2,646
-adalk | 3,766
+adalk | 3,768
 dailymirrorlk | 4,733
 adaderanalk | 4,780
 tamilmirrorlk | 5,233
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,936 (100.0%) of 40,936 articles have been extended.
+40,936 (100.0%) of 40,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### පේරේ විද්‍යා සිසුන් හතරකගේ ශිෂ්‍යභාවය තාවකාලිකව අහෝසි කරයි
+
+*2024-08-15 18:45:33* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-විද්‍යා-සිසුන්-හතරකගේ-ශිෂ්‍යභාවය-තාවකාලිකව-අහෝසි-කරයි/11-411394) · `si`
+
+පේරාදෙණිය විශ්ව විද්‍යාලයේ විද්‍යා පීඨයේ සිසුන් දෙදෙනෙකුට තවත් සිසුන් පිරිසක් විසින් පහරදී එක් සිසුවෙකුගේ කනකට බරපතල තුවාල සිදුකළ බව කියන සිසුන් හතර දෙනකුගේ ශිෂ්‍ය භාවය තාවකාලිකව අහෝසි කිරීමට විශ්ව විද්‍යාල විනය පාලක අංශය පියවර ගෙන තිබේ.
+
+එම සිද්ධිය සම්බන්ධයෙන් පේරාදෙණිය විශ්වවිද්‍යාලයේ විනය පාලක අංශය විසින් විමර්ශනයක් ආරම්භ කොට ඇති අතර පේරාදෙණිය පොලිසිය විසින්ද විමර්ශනයක් ආරම්භ කොට තිබේ .
+
+පහර කෑමට ලක්වු සිසුන් දෙදෙනා නේවාසිකව සිටි අක්බර් නේවාසිකාගාරයට ඇතුළු වී 2024.08.12 දින රාත්‍රී බරපතල පහරදීමක් සිදුකොට ඇති බව කියන අතර පහර කෑමට ලක්වූ එක් සිසුවෙක් පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා මහනුවර ජාතික රෝහලට ඇතුළත් කොට තිබේ .පහර කෑමට ලක් වූ අනෙක් සිසුවා පේරාදෙණිය ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ලබා පිටව ගොස් තිබේ .
+
+පහරදීමට සම්බන්ධ බවට හඳුනාගත් සිසුන් හතර දෙනාට එරෙහිව විනය පරීක්ෂණයක් පවත්වා තීරණයක් ලබා දෙනතුරු වහාම ක්‍රියාත්මක වන පරිදි ශිෂ්‍ය භාවය අත්හිටුවීමට පේරාදෙණිය විශ්වවිද්‍යාලයේ උප කුලපති මහාචාර්ය ටෙරන්ස් මදුජිත් මහතා පියවර ගෙන තිබේ .
+
+...
+
+[Data](articles/0378553e.json)
+
+---
 
 ### Sri Lankan diplomat ordered to pay over $500,000 in unpaid wages to domestic worker
 
@@ -1318,6 +1336,22 @@ The US dollar purchasing price was 294.5113 rupees and the sales price were 303.
 
 ---
 
+### පුද්ගල ආදායම් බද්දට නුදුරේදීම සහනයක්
+
+*2024-08-15 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ආදායම්-බද්දට-නුදුරේදීම-සහනයක්/11-411388) · `si`
+
+පුද්ගල ආදායම් බද්ද සඳහා නුදුරේදීම සහනයක් ලබාදීමට අපේක්ෂා කරන බවත්, ඒ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල සහ මහා භාණ්ඩාගාරය විසින් මේ වනවිටත් ඉදිරිපත් කර ඇති යෝජනා දෙකක් සම්බන්ධයෙන් අවධානය යොමු කර ඇති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඒ වෙනුවෙන් මහා භාණ්ඩාගාරය විසින් ඉදිරිපත් කරන ලද යෝජනාවත්, ඒ සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) විසින් ඉදිරිපත් කර ඇති ප්‍රති යෝජනාවත් සලකා බලමින් සිටින බව සඳහන් කළ ජනාධිපතිවරයා, බදු පරාසය පුළුල් කිරීම සඳහා යෝජනා කර ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනාව, විද්වතුන් ඇතුළු මධ්‍යම පාන්තික ප්‍රජාව වෙත ප්‍රතිලාභ ගෙන දෙන බැවින් ඒ පිළිබඳ සිය අවධානය යොමුවී ඇති බව ද සඳහන් කළේය.
+
+එමෙන්ම ආර්ථිකය ප්‍රකෘතිමත් කිරීම ඉලක්ක කරගනිමින් මෙරට උසස් අධ්‍යාපන ක්‍රමයේ පරිවර්තනයක් සිදු කිරීම සඳහා වන පුළුල් ප්‍රතිසංස්කරණ සැලැස්මක් ක්‍රියාත්මක කිරිමට බලාපොරොත්තු වන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/5d2bb248.json)
+
+---
+
 ### We are conducting humanitarian soldiers arrested - we are in talks about handing over to that country - Ukraine
 
 *2024-08-15 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191139) · `ta`
@@ -1345,6 +1379,24 @@ The President of Ukraine said that his soldiers have jumped one more than a half
 [Data](articles/b11c84b3.json)
 
 [Extended Data](ext_articles/b11c84b3.ext.json)
+
+---
+
+### ජනාධිපතිවරණය 2024: ජනපති සටනට අපේක්ෂකයින් 39ක්
+
+*2024-08-15 12:39:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4lv4ngdv9o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ජනාධිපතිවරණ ඡන්ද සටන ඇරඹෙයි...ප්‍රධාන අපේක්ෂකයින් මොකද කියන්නේ ?
+
+2024 ජනාධිපතිවරණ ඡන්ද විමසීම සඳහා අපේක්ෂකයින් 39 දෙනෙක් අද (අගෝස්තු 15 වැනිදා) නාම යෝජනා භාර දුන්හ.
+
+විරෝධතා දැක්වීමේ කාලසීමාව තුළ විරෝධතා 3ක් ඉදිරිපත් වුව ද, එම විරෝධතා ප්‍රතික්ෂේප කළ බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක නිවේදනය කළේය.
+
+ඒ අනුව ලබන සැප්තැම්බර් 21 වන දා පැවැත්වෙන 2024 ජනාධිපතිවරණය සඳහා  අපේක්ෂකයින් 39 දෙනෙකු තරග කරන අතර අපේක්ෂකයින් කිහිප දෙනෙක් රාජගිරිය මැතිවරණ කොමිෂන් සභාව ඉදිරිපිටදී මාධ්‍ය වෙත අදහස් පළ කළහ.
+
+◼️
+
+[Data](articles/22f3f8a0.json)
 
 ---
 
@@ -2199,81 +2251,5 @@ The Criminal Division of Trincomalee Police has launched an investigation into t
 [Data](articles/626099fb.json)
 
 [Extended Data](ext_articles/626099fb.ext.json)
-
----
-
-### Another dangerous disease spreads
-
-*2024-08-15 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199961) · `si`
-
-A deadly disease outbreak in Africa, affecting over 14,000 people and causing 450 deaths in Kotago. Symptoms include fever and skin lesions. Emphox spreads through sexual contact and respiratory droplets.
-
-🟩
-
-The World Health Organization has informed the Side of the African continent as a state of health, as a state of health, which should be taken to the world.
-
-About 450 people died in Kotago. The number of infected is close to 14,000.
-
-The disease is currently reported from countries such as Burundi, Central African Republic, Kenya and Rwanda.
-
-"Emphox infects with sexual relations and other close relationships and breathing from such a person when it comes to such a person.
-
-Fever as the basic symptoms of fever are shown as the emergence of skin injuries. It is said that about 4 in every 100 infections may be killed.
-
-◼️
-
-[Data](articles/fdf5f03a.json)
-
-[Extended Data](ext_articles/fdf5f03a.ext.json)
-
----
-
-### Velukumar supports President Ranil of Tamil Progressive Alliance
-
-*2024-08-15 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191124) · `ta`
-
-Velukumar, a TPA MP, backs President Ranil Wickremesinghe, contrasting with the TNA's support for Sajith Premadasa. He plans to meet Wickremesinghe and submitted his nomination for the presidential election.
-
-🟩
-
-Velukumar, Member of Parliament of the Tamil Progressive Alliance, expressed his support for President Ranil Wickremesinghe.
-
-Meanwhile, the Tamil Progressive Alliance (TNA) parliamentarian Velukumar announced his decision on Thursday (15) as the Tamil Progressive Alliance (TNA) announced his support for opposition leader Sajith Premadasa a few days ago.
-
-Parliamentarian Velu Kumar promised to meet President Ranil Wickremesinghe this morning.
-
-Velukumar, who went to the President's office on Flower Road before he went to the Elections Commission to submit the nomination for the presidential election.
-
-◼️
-
-[Data](articles/88fd2377.json)
-
-[Extended Data](ext_articles/88fd2377.ext.json)
-
----
-
-### The World Health Organization declared an emergency
-
-*2024-08-15 09:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அவசர-நிலை-அறிவித்தது-உலக-சுகாதார-அமைப்பு/50-342202) · `ta`
-
-The World Health Organization (WHO) has declared a global health emergency due to the rapid spread of a rare infectious disease known as "monkey amma" or "emboxes," which originated in Africa in 2022 and has now spread to over 100 countries. This disease primarily affects humans through contact with infected animals, causing symptoms such as fever, rash, headache, muscle pain, and cough. The WHO estimates a fatality rate of 10%, with a significant increase in infections reported in African countries. Immediate isolation and medical attention are advised for those exhibiting symptoms after exposure to infected individuals. A vaccine developed by Danish company Emanwex has been approved by the European Union for use against the disease.
-
-🟩
-
-With the spread of monkey in the world, the World Health Organization has issued an international public health emergency.
-
-Monkey Amma is a rare type of infection. This disease is called emboxes. It does not spread easily between humans. Spread to humans from infected animals. The World Health Organization said that one out of 10 is likely to die.
-
-The disease, which began to spread since 2022, like Corona, was first diagnosed in African countries. Currently, slowly, over 100 countries have begun to spread.
-
-In African countries alone more than 17 thousand people have been affected by the infection. 517 of them died. Compared to last year, 160% of the infection has increased.
-
-When the disease began to spread in 2022, the monkey in Kerala was recently confirmed. Meanwhile, a 34 -year -old man from West Delhi has been diagnosed with monkey ammunition.
-
-...
-
-[Data](articles/7bb56d57.json)
-
-[Extended Data](ext_articles/7bb56d57.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 09:36:44**
+As of **2024-08-15 09:55:44**
 
 ## Newspaper Stats
 
-*Scraped **40,824** Articles*
+*Scraped **40,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,476
 dailyftlk | 2,638
 adalk | 3,752
 dailymirrorlk | 4,733
-adaderanalk | 4,761
+adaderanalk | 4,763
 tamilmirrorlk | 5,205
 virakesarilk | 6,468
 adaderanasinhalalk | 6,948
@@ -26,21 +26,59 @@ adaderanasinhalalk | 6,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,820 (100.0%) of 40,824 articles have been extended.
+40,824 (100.0%) of 40,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### 2024 ஜனாதிபதித் தேர்தல் : வேட்பு மனுத் தாக்கல் ஆரம்பம்
+### Accepting nominations for 2024 Presidential Election begins
+
+*2024-08-15 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101249/accepting-nominations-for-2024-presidential-election-begins-) · `en`
+
+The accepting of nominations for the upcoming Presidential Election commenced at 9.00 a.m. today at the Election Secretariat in Rajagiriya.
+
+Nominations will be accepted until 11.00 a.m. today at the secretariat.
+
+◼️
+
+[Data](articles/7d1814fe.json)
+
+---
+
+### Harin and Manusha’s ministries brought under President’s purview
+
+*2024-08-15 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/101248/harin-and-manushas-ministries-brought-under-presidents-purview) · `en`
+
+A Gazette notification has been issued bringing the Ministry of Tourism and Lands, the Ministry of Sports and Youth Affairs and the Ministry of Labour and Foreign Employment under the purview of President Ranil Wickremesinghe.
+
+This move comes following the recent removal of Manusha Nanayakkara and Harin Fernando from their MP seats, as per a court order.
+
+The Supreme Court ruled on Friday (09) that the decision taken by the Samagi Jana Balawegaya (SJB) to suspend the party membership of Manush Nanayakkara and Harin Fernando was lawful while dismissing a petition filed by the two ministers seeking an order declaring that the SJB’s decision to remove them from the party is unlawful.
+
+As per the Supreme Court verdict and SJB’s constitution, Harin Fernando and Manusha Nanayakkara were disqualified from holding seats in Parliament.
+
+...
+
+[Data](articles/bb9e5eaa.json)
+
+---
+
+### 2024 presidential election: nominations begin
 
 *2024-08-15 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/191123) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான வேட்பு மனுக்களை ஏற்கும் நடவடிக்கை தேர்தல் ஆணைக்குழுவில் ஆரம்பமாகியுள்ளது.
+Nominations for the 2024 presidential election have started, as announced by the Election Commission.
+
+🟩
+
+The Election Commission has begun the process of accepting nominations for the 2024 presidential election.
 
 ◼️
 
 [Data](articles/2e8dc0b0.json)
+
+[Extended Data](ext_articles/2e8dc0b0.ext.json)
 
 ---
 
@@ -59,6 +97,8 @@ As a result, proposals have been submitted by Asiri Port City Hospital Ltd., Gat
 ...
 
 [Data](articles/935ac730.json)
+
+[Extended Data](ext_articles/935ac730.ext.json)
 
 ---
 
@@ -107,6 +147,8 @@ Against this backdrop, the vicinity of the Election Commission Office in Rajagir
 ...
 
 [Data](articles/7b6b15b5.json)
+
+[Extended Data](ext_articles/7b6b15b5.ext.json)
 
 ---
 
@@ -165,6 +207,8 @@ Thus, general public is kindly requested to take adequate precautions to minimiz
 ◼️
 
 [Data](articles/1cfcbab7.json)
+
+[Extended Data](ext_articles/1cfcbab7.ext.json)
 
 ---
 
@@ -2203,43 +2247,5 @@ The country’s Commissioner General of Elections Saman Sri Rathnayake has said 
 [Data](articles/1755163f.json)
 
 [Extended Data](ext_articles/1755163f.ext.json)
-
----
-
-### Here is the decision of Ranil about the presidential election
-
-*2024-08-14 15:16:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-ගැන-රනිල්-දැන්-ගත්ත-තීරණය-මෙන්න/11-411371) · `si`
-
-Ranil Wickremesinghe recently submitted his nomination papers for the upcoming presidential election, signing them at his party office on Flower Road, Colombo.
-
-🟩
-
-Ranil Wickremesinghe has been signed for his nomination paper for a few moments ago before the presidential candidate candidates.
-
-The President has signed a nomination papers at his party office on Flower Road, Colombo.
-
-◼️
-
-[Data](articles/9a0d93b0.json)
-
-[Extended Data](ext_articles/9a0d93b0.ext.json)
-
----
-
-### President signal to nomination
-
-*2024-08-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199932) · `si`
-
-President Ranil Wickremesinghe submitted his nomination papers on April 14th to run in the upcoming presidential election.
-
-🟩
-
-President Ranil Wickremesinghe signed his nomination papers today (14) to contest the next presidential election.
-
-◼️
-
-[Data](articles/d39ea49d.json)
-
-[Extended Data](ext_articles/d39ea49d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 16:53:41**
+As of **2024-08-15 17:06:23**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,960
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,910 (100.0%) of 40,912 articles have been extended.
+40,912 (100.0%) of 40,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### තායිවානයේ ප්‍රබල භූකම්පනයක්
+### A powerful earthquake in Taiwan
 
 *2024-08-15 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199971) · `si`
 
-තායිවානයේ යිලාන් පළාතේ ප්‍රබල භූකම්පනයක් සිදුව ඇති බව එරට කාලගුණික මධ්‍යස්ථානය නිවේදනය කළේය.
+A significant earthquake struck Taiwan, causing widespread damage and concern among residents.
+
+🟩
+
+A powerful earthquake in the province of Taiwan announced the event.
 
 ◼️
 
 [Data](articles/2a76e433.json)
+
+[Extended Data](ext_articles/2a76e433.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ The suspects have been arrested based on a complaint lodged by the former PUCSL 
 ...
 
 [Data](articles/5419bcde.json)
+
+[Extended Data](ext_articles/5419bcde.ext.json)
 
 ---
 

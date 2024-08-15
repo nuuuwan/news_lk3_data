@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 01:21:13**
+As of **2024-08-16 01:36:37**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,961 (100.0%) of 40,962 articles have been extended.
+40,962 (100.0%) of 40,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### குரங்கம்மை நோய் கண்டறியப்பட்டுள்ளது
+### The monkey has been diagnosed with the disease
 
 *2024-08-16 00:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-நோய்-கண்டறியப்பட்டுள்ளது/50-342258) · `ta`
 
-குரங்கம்மை நேயானது வேகமாக பரவி வரும் ஒன்று என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+A deadly M-box virus outbreak, initially in Congo, killing 450, now spreading in Central and East Africa, prompts WHO to declare it an international health crisis due to its rapid spread and high mortality rate.
 
-குரங்கம்மை (எம்-பாக்ஸ்) நோய்த்தொற்றை சர்வதேச சுகாதார நெருக்கடியாக உலக சுகாதார நிறுவனம் அறிவித்துள்ளது.
+🟩
 
-எம்-பாக்ஸ் அல்லது குரங்கம்மை, கொடிய நோய்த்தொற்று வகையைச் சேர்ந்தது. இது முதலில் கொங்கோ நாட்டில் வேகமாகப் பரவியதால் சுமார் 450 நபர்கள் உயிரிழந்தனர்.
+International media reports that the monk is spreading rapidly.
 
-தற்போது, இந்த நோய்த்தொற்று மத்திய மற்றும் கிழக்கு ஆபிரிக்காவின் சில பகுதிகளில் பரவி வருகிறது.
+The World Health Organization has declared an international health crisis as an international health crisis.
 
-மேலும் இந்த வைரஸின் புதிய வகை திரிபு (Variant) மக்கள் மத்தியில் பரவும் வேகம் மற்றும் இதனால் அதிகரிக்கும் இறப்பு விகிதம் குறித்து விஞ்ஞானிகள் கவலையில் உள்ளனர். R
+M-box or monkey, belonging to the type of deadly infection. It was first rapidly spreading in the Congo, and about 450 people died.
+
+Currently, the infection is spreading in some parts of Central and East Africa.
+
+Scientists are worried about the speed of spreading the new variant of the virus and the increasing death rate among the people.. Remble
 
 ◼️
 
 [Data](articles/f75ac1d3.json)
+
+[Extended Data](ext_articles/f75ac1d3.ext.json)
 
 ---
 

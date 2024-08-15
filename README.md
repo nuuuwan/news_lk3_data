@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 22:21:04**
+As of **2024-08-15 22:36:38**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,955 (100.0%) of 40,958 articles have been extended.
+40,958 (100.0%) of 40,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### 2036 ඔලිම්පික් සත්කාරකත්ව සටනට ඉන්දියාවත්
+### India to fight 2036 Olympic host
 
 *2024-08-15 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199981) · `si`
 
-2036 වසරේ ඔලිම්පික් උළෙලේ සත්කාරකත්වය ලබාගැනීම ඉන්දියාවේ සිහිනය බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි පවසා සිටියේය.
+India aims to host the 2036 Olympic Games, with PM Narendra Modi expressing readiness and confidence in the country's capability to organize such large-scale events. The announcement was made during the Red Power ceremony in New Delhi. Ahmedabad, Gujarat's largest city, is speculated to be the host venue. This marks India's ambition to return to the international sporting stage after hosting the Asian Games last in 1982. The decision is expected to be finalized by the International Olympic Committee (IOC) in its upcoming meeting, with competition from countries like Saudi Arabia, Qatar, and Turkey.
 
-ඉන්දියාවේ 78වැනි නිදහස් දින සැමරුම වෙනුවෙන් නවදිල්ලිහි රතු බල කොටුවේ අද (15) පැවැති උත්සවයේදී හෙතෙම එය හෙළිකළේය.
+🟩
 
-“2036 ඔලිම්පික් උළෙල පැවැත්වීම ඉන්දියාවේ සිහිනය, අපි ඒ සඳහා සූදානම් වෙමින් සිටිනවා" මෝදි පැවසීය.
+Indian Prime Minister Narendra Modi told Indian Narendra Modi that taking hosting at the Olympic Games in 2036 is the dream of India.
 
-හෙතෙම මෙහිදී වැඩිදුරටත් අනාවරණය කර සිටියේ, මහා පරිමාණ ගෝලීය ඉසව් සඳහා සත්කාරකත්වය ලබාදීමේ හැකියාව ඉන්දියාවට ඇති බවයි.
+He was revealed at the ceremony of the Red Power in New Delhi today (15) in the Red Power Fort in New Delhi today.
 
-ඒ අනුව විදෙස් මාධ්‍ය වැඩිදුරටත් අනාවරණය කර සිටින්නේ, ඉන්දියාවට 2036 ඔලිම්පික් උළෙලේ සත්කාරක්තවය ලැබුණහොත් සත්කාරක නගරය ලෙසින් අහමදාබාද් නම් කරනු ඇති බවයි.
+"The 2036 Olympic Festival is the dream of India, we are preparing for it," Modi said.
 
-අහමදාබාද් යනු ඉන්දීය අග්‍රමාත්‍යවරයාගේ දේශපාලනයේ බල කඳවුර ලෙසින් සැලකෙන ගුජරාට් ප්‍රාන්තයේ විශාලම නගරයයි.
+He further revealed that India has the ability to host the large-scale global events.
 
-ඉන්දියාව මීට පෙර ඉතිහාසයේ කිසිඳු දිනක ඔලිම්පික් උළෙලකට සත්කාරකත්වය ලබාදී නොමැති අතර, ඔවුන් අවසන් වරට බහු ක්‍රීඩා උළෙලකට සත්කාරකත්වය ලබා දී ඇත්තේ 2010 වසරේ දිල්ලිහි පැවති පොදුරාජ්‍ය මණ්ඩලීය ක්‍රීඩා උළෙලටයි.
+Accordingly, foreign media further reveals that Ahmedabad will name Ahmedabad as the host to the 2036 Olympic Games.
 
-එමෙන්ම ඔවුන් වසර 42කින් (1982 වසරේදී) ආසියානු ක්‍රීඩා උළෙලකට හෝ සත්කාරකත්වය ලබා දී නොමැත.
+Ahmedabad is the largest city in Gujarat, which is considered as the power camp of the Indian Prime Minister.
+
+India has not hosted any day in history, and they have been hosted to a multi-sport celebration in 2010.
+
+They have not given a Asian Games in 42 years (1982).
+
+However, in addition to the 2036 Olympics, several other countries, including Saudi Arabia, Qatar and Turkey, are also expected to contest.
 
 ...
 
 [Data](articles/0ae396af.json)
+
+[Extended Data](ext_articles/0ae396af.ext.json)
 
 ---
 
@@ -71,6 +79,8 @@ Earlier on Thursday, the World Health Organization declared mpox a global public
 ◼️
 
 [Data](articles/47339694.json)
+
+[Extended Data](ext_articles/47339694.ext.json)
 
 ---
 
@@ -113,6 +123,8 @@ This was discussed when the Department of Immigration and Emigration was summone
 ...
 
 [Data](articles/3171374f.json)
+
+[Extended Data](ext_articles/3171374f.ext.json)
 
 ---
 

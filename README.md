@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 15:55:45**
+As of **2024-08-15 16:09:28**
 
 ## Newspaper Stats
 
-*Scraped **40,900** Articles*
+*Scraped **40,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 2,640
 adalk | 3,764
 dailymirrorlk | 4,733
 adaderanalk | 4,776
-tamilmirrorlk | 5,226
+tamilmirrorlk | 5,227
 virakesarilk | 6,480
-adaderanasinhalalk | 6,957
+adaderanasinhalalk | 6,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,900 (100.0%) of 40,900 articles have been extended.
+40,900 (100.0%) of 40,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### කටුනායක ගුවන්තොටුපොළේ සිට නව සුඛෝපභෝගී බස් සේවාවක්
+
+*2024-08-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199969) · `si`
+
+කටුනායක ගුවන්තොටුපොළේ සිට කොළඹ කොටුව ප්‍රධාන දුම්රිය ස්ථානය සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය දක්වා නව සුඛෝපභෝගී බස් රථ සේවාවක් අද (15) ආරම්භ කළේය.
+
+ශ්‍රී ලංකාවේ සංචාරය සඳහා පැමිණෙන විදේශීය සංචාරකයන් මෙරට තුළ සංචාරය සඳහා ප්‍රවාහන සේවා ආයතනයක පහසුකම් ලබා නොගන්නේ නම්, ඔවුන් ගුවන්තොටුපොළේ සිට කිලෝ මීටර් 2ක් පමණ දුරින් පිහිටි ඇවරිවත්ත බස් නැවතුම්පොළ වෙත පැමිණිය යුතුය.
+
+ඒ අනුව ගුවන්තොටුපොළෙන් පිටත් වන මෙම බස් රථ කොළඹ - කටුනායක අධිවේගී මාර්ගය ඔස්සේ අතරමැද නැවැත්වීමකින් තොරව ගමනාන්තය කරා පිවිසෙයි.
+
+මෙම නව බස් සේවාව සීමාසහිත ගුවන්තොටුපොළ සහ ගුවන් සේවා සමාගම, ප්‍රවාහන සහ මහා මාර්ග අමාත්‍යාංශය සහ පෞද්ගලික බස් රථ සමාගමක් ඒකාබද්ධව ක්‍රියාත්මක වේ.
+
+සුඛෝපභෝගී විශාල ප්‍රමාණයේ බස් රථ 10ක් මෙම බස් රථ සේවාව සඳහා යොදවා ඇති අතර, එක් ගමන් වාරයක් සදහා රුපියල් 3,000ක මුදලක් එක් මගියෙකුගෙන් අය කිරීමට කටයුතු යොදා ඇත.
+
+◼️
+
+[Data](articles/6bc8f86c.json)
+
+---
+
+### கண்டி கழுதை: மனோ கொதிப்பு
+
+*2024-08-15 15:53:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-கழுதை-மனோ-கொதிப்பு/175-342229) · `ta`
+
+“நொண்டி குதிரையுடன் கூட்டு சேர்ந்த கண்டி கழுதை” என பாராளுமன்ற உறுப்பினரும் தமிழ் முற்போக்கு கூட்டணியின் தலைவருமான ம​னோ கணேசன் கிண்டல் செய்துள்ளார்.
+
+தமிழ் முற்போக்கு கூட்டணியின்யின் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலுகுமார், அடுத்த ஜனாதிபதி  தேர்தலில் சுயேட்சை வேட்பாளரான ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆதரிக்க இன்று (15) தீர்மானித்தார்.
+
+எனினும், தமிழ் முற்போக்கு கூட்டணியின், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸவையே ஆதரிக்க தீர்மானித்துள்ளது. இந்நிலையிலேயே மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a56ca6cf.json)
+
+---
 
 ### Protests escalate in India over gruesome rape and murder of doctor
 
@@ -2233,39 +2269,5 @@ The data compiled in “Export Performance Indicators 2023” is presented along
 [Data](articles/f0b65cdb.json)
 
 [Extended Data](ext_articles/f0b65cdb.ext.json)
-
----
-
-### Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul
-
-*2024-08-15 03:56:44* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-presents-social-democratic-progressive-centrist-alternative-Namal-goes-Rahul/4-765546) · `en`
-
-“Sri Lankans are more likely to think the country is headed in the wrong direction than people in any other country where this is polled. In June–July 2024, a global average of 62% of adults polled by IPSOS in 29 countries thought their country was headed in the wrong direction compared with 93% in Sri Lanka.”
-
-With only 8% of citizens thinking that the country is going in the right direction and 72% thinking it is “on the wrong track”, it would be borderline lunacy to assume that Ranil, ably supported by the most detested parliamentarians since 1970-77, could get into double-digits in September. “…Public views towards the country’s direction have worsened since July 2023, driven by a steady decline in uncommitted respondents.” (Ibid)
-
-...
-
-[Data](articles/7c29812f.json)
-
-[Extended Data](ext_articles/7c29812f.ext.json)
-
----
-
-### AICPA-CIMA’s CGMA Leadership Academy shapes future accounting, finance, and business leaders
-
-*2024-08-15 03:53:07* · [`dailyftlk`](https://www.ft.lk/business/AICPA-CIMA-s-CGMA-Leadership-Academy-shapes-future-accounting-finance-and-business-leaders/34-765545) · `en`
-
-Fourth edition of flagship leadership program is set to return to Kuala Lumpur in October 2024
-
-The world’s premier finance and accounting body, AICPA-CIMA, together as the Association of International Certified Professional Accountants, will host the fourth edition of their flagship leadership program, the CGMA Leadership Academy, in Kuala Lumpur, Malaysia, from 7-10 October under the theme “Transformative Leadership for a Sustainable Future.”
-
-Over four days, Chartered Global Management Accountants (CGMA designation holders) will have access to curated content, high-profile speakers, live case study discussions, and knowledge-sharing roundtables on topics such as ‘ESG and business sustainability’, ‘digital transformation and AI’, ‘effective communication and interpersonal skills’, and ‘leadership and fostering resilience’.
-
-...
-
-[Data](articles/6c70e01e.json)
-
-[Extended Data](ext_articles/6c70e01e.ext.json)
 
 ---

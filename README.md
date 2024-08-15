@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 18:16:22**
+As of **2024-08-15 18:28:17**
 
 ## Newspaper Stats
 
-*Scraped **40,935** Articles*
+*Scraped **40,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,488
 dailyftlk | 2,646
 adalk | 3,766
 dailymirrorlk | 4,733
-adaderanalk | 4,779
+adaderanalk | 4,780
 tamilmirrorlk | 5,233
 virakesarilk | 6,482
 adaderanasinhalalk | 6,964
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,925 (100.0%) of 40,935 articles have been extended.
+40,935 (100.0%) of 40,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
+
+### Sri Lankan diplomat ordered to pay over $500,000 in unpaid wages to domestic worker
+
+*2024-08-15 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101268/sri-lankan-diplomat-ordered-to-pay-over-500000-in-unpaid-wages-to-domestic-worker) · `en`
+
+An Australian Federal Court judge has slammed the Home Affairs Department for failing to properly scrutinise a Sri Lankan diplomat who confiscated a staffer’s passport and gave her just two days leave in three years, Australian media reported today.
+
+Sri Lanka’s former deputy high commissioner to Australia has been ordered to pay $543,000 in unpaid wages and interest to a domestic worker and now faces a large fine for breaches of employment laws.
+
+Himalee Arunatilaka, who served in Canberra from 2015 to 2018, denied her employee, Priyanka Danaratna, minimum pay and conditions during time in Australia, the court found.
+
+Justice Elizabeth Raper found Ms Danaratna worked from 6am to 10pm, seven days a week and was only allowed two days off in that time after she burnt her hand with cooking oil.
+
+...
+
+[Data](articles/5eb32d7c.json)
+
+---
 
 ### Sri Lanka SOE sale process was slow to avoid reversals
 
@@ -52,25 +70,33 @@ The SOE unit began the process last year and was planning to finish them by Augu
 
 [Data](articles/afcd48f9.json)
 
+[Extended Data](ext_articles/afcd48f9.ext.json)
+
 ---
 
-### මෝදි ගේන්න යන නීති
+### The rules that Modi
 
 *2024-08-15 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199975) · `si`
 
-ඉන්දියාවේ 78 වෙනි නිදහස් දින සැමරුම අද (15) එරට නවදිල්ලි අගනුවරදී අගමැති නරේන්ද්‍ර මෝදිගේ ප්‍රධානත්වයෙන් පැවත්වුණි.
+India celebrated its 78th Independence Day in New Delhi, with PM Narendra Modi emphasizing strong punishment for crimes against women. The event featured various elements including participation from school children and updates on the landscape road project. The US also recognized the occasion, with the American Secretary of State extending congratulations.
 
-විවිධ අංගවලින් හැඩවූ නිදහස් දින සැමරුමට 6, 000ක පමණ පිරිසක් ආරාධනා ලබා සිටි අතර ඒ අතරට පැරිස් ඔලිම්පික් උළෙලට  එක්වූ ක්‍රීඩක ක්‍රීඩිකාවන්, පාසල් සිසුන් මෙන්ම දේශසීමා මාර්ග ව්‍යාපෘතියක කම්කරුවන් පිරිසක් ද අයත් ය.
+🟩
 
-එහිදී දැඩි ලෙස අදහස් පළ කළ අගමැති මෝදි අවධාරණය කර සිටියේ කාන්තාවන්ට එරෙහි අපරාධ සිදුකරන්නන්ට ප්‍රසිද්ධ දඬුවම් ලබාදිය හැකි නීති සකස් කරන බවටය.
+The 78th Independence Day Celebrations of India in New Narendra Modiyage was held under the patronage of Narendra Modiyya in New Delhi.
 
-මේ අතර ඉන්දියාවේ 78 වන නිදහස් දිනය වෙනුවෙන් අමෙරිකාව ද සුබ පැතුම් එක් කර තිබේ.
+Around 6,000 of the Independence Day, which was shaped with different elements, included in the Paris Olympics, school children and landscape road project.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ අමෙරිකානු රාජ්‍ය ලේකම්වරයා එලෙස සුබ පැතුම් එක්කර තිබූ බවය.
+The prime minister, Modi, heavily commented, stressed that the criminal laws against women would prepare well-punitive laws.
+
+Meanwhile, America also joined the 78th Independence Day of India.
+
+Foreign media reports that the American Secretary of State had greeted this congratulations.
 
 ◼️
 
 [Data](articles/af4a41f9.json)
+
+[Extended Data](ext_articles/af4a41f9.ext.json)
 
 ---
 
@@ -109,6 +135,8 @@ A bond maturing on 01.10.2032 closed at 13.20/30 percent, down from 13.25/50 per
 ◼️
 
 [Data](articles/702a1672.json)
+
+[Extended Data](ext_articles/702a1672.ext.json)
 
 ---
 
@@ -153,6 +181,8 @@ optimistic about our continued growth,” Cable Solutions Managing Director Pawa
 ...
 
 [Data](articles/9e327bba.json)
+
+[Extended Data](ext_articles/9e327bba.ext.json)
 
 ---
 
@@ -225,6 +255,8 @@ Top contributors to the ASPI included Ceylinco Holdings Plc (up at 2,550.00) and
 ...
 
 [Data](articles/05f5c9a3.json)
+
+[Extended Data](ext_articles/05f5c9a3.ext.json)
 
 ---
 
@@ -520,17 +552,23 @@ However, the Tamil Progressive Alliance has decided to support Opposition Leader
 
 ---
 
-### ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් 39 දෙනා
+### 39 candidates contesting for the presidential election
 
 *2024-08-15 15:38:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සඳහා-ඉදිරිපත්-වන-අපේක්ෂකයින්-39-දෙනා/11-411392) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා  ඇපමුදල් තැන්පත්කල 40 දෙනා අතුරින් 39 දෙනකු නාමයෝජනා සඳහා ඉදිරිපත් වූ අතර එම 39 ගේම නම් පිළිගත් බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා සඳහන් කලේය.
+39 candidates have been nominated for the upcoming presidential election, as announced by the Election Commission Chairman.
 
-ඒ අනුව පිළිගත් අයගේ නම් මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා විසින් මෙසේ ප්‍රකාශයට පත් කර සිටියි.
+🟩
+
+The Chairman of the Election Commission stated that 39 of the 40s were nominated for the presidential election.
+
+Accordingly, the Chairman of the Election Commission has stated:
 
 ◼️
 
 [Data](articles/74c883c2.json)
+
+[Extended Data](ext_articles/74c883c2.ext.json)
 
 ---
 
@@ -886,6 +924,8 @@ Public Security Minister Tiran Alles told reporters last week that the since the
 
 [Data](articles/cf5cc709.json)
 
+[Extended Data](ext_articles/cf5cc709.ext.json)
+
 ---
 
 ### Sri Lanka president contests election with gas cylinder symbol, says “Still more to be done”
@@ -905,6 +945,8 @@ Wickremesinghe is the leader of the United National Party, but is contesting as 
 ...
 
 [Data](articles/8d612b65.json)
+
+[Extended Data](ext_articles/8d612b65.ext.json)
 
 ---
 
@@ -961,6 +1003,8 @@ SLCG will use the additional ATVs to uplift their existing onshore patrols and o
 ...
 
 [Data](articles/245bfd29.json)
+
+[Extended Data](ext_articles/245bfd29.ext.json)
 
 ---
 
@@ -1205,6 +1249,8 @@ According to the recent review, Canada maintains that the remnants of the LTTE h
 ...
 
 [Data](articles/b4a4eff5.json)
+
+[Extended Data](ext_articles/b4a4eff5.ext.json)
 
 ---
 
@@ -2227,33 +2273,5 @@ When the disease began to spread in 2022, the monkey in Kerala was recently conf
 [Data](articles/7bb56d57.json)
 
 [Extended Data](ext_articles/7bb56d57.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 299.05/20 to US dollar, bond yields steady
-
-*2024-08-15 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-05-20-to-us-dollar-bond-yields-steady-176852/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 299.00/15 to the US dollar on Thursday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.54 percent.
-
-The rupee closed at 299.15/25 to the greenback on Wednesday.
-
-In the secondary market, treasury bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 11.10/20 percent, up from 11.05/30 percent.
-
-A bond maturing on 15.12.2027 was quoted at 12.20/25 percent, up from 12.15/25 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.95/13.15 percent.
-
-A bond maturing on 15.06.2029 was quoted at 12.95/13.20 percent, down from 13.00/15 percent.
-
-In equities, Colombo’s All Share Price Index opened 61.31 points higher at 11,475, while the S&P SL20 of more liquid stocks opened up at 1.00 percent or 32.82 points to 3,298.
-
-◼️
-
-[Data](articles/a196558d.json)
-
-[Extended Data](ext_articles/a196558d.ext.json)
 
 ---

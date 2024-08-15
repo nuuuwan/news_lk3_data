@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 00:09:50**
+As of **2024-08-16 00:21:08**
 
 ## Newspaper Stats
 
-*Scraped **40,959** Articles*
+*Scraped **40,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,363
-economynextcom | 2,488
+economynextcom | 2,490
 dailyftlk | 2,646
 adalk | 3,773
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,959 (100.0%) of 40,959 articles have been extended.
+40,959 (100.0%) of 40,961 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -512,6 +512,24 @@ Today he handed over the names of the names for the presidential election. Namal
 
 ---
 
+### Sri Lanka’s CEB reports Rs34 bn profit for June 2024 quarter
+
+*2024-08-15 18:23:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-reports-rs34-bn-profit-for-june-2024-quarter-176976/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) has reported a profit of 34.5 billion rupees for the three months ended on June 30, a 67 percent jump compared to 20.7 billion rupees in the same quarter in 2023 despite a fall in the revenue, interim accounts showed.
+
+The state-run utility provider reported profits of 119.2 billion rupees for the first six months of this year, compared to a loss of 13.7 billion rupees last year.
+
+The CEB’s finance cost in the June quarter fell more than 60 percent to 7.6 billion rupees compared to 19.3 billion last year.
+
+CEB revenues fell 16.5 percent to 146.6 billion rupees in the June quarter, cost of sales fell 20 percent to 109.6 billion rupees and  the gross profit also fell 4.3 percent to 37 billion rupees for the quarter.
+
+...
+
+[Data](articles/7073bd18.json)
+
+---
+
 ### Sri Lankan diplomat ordered to pay over $500,000 in unpaid wages to domestic worker
 
 *2024-08-15 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/101268/sri-lankan-diplomat-ordered-to-pay-over-500000-in-unpaid-wages-to-domestic-worker) · `en`
@@ -529,6 +547,28 @@ Justice Elizabeth Raper found Ms Danaratna worked from 6am to 10pm, seven days a
 [Data](articles/5eb32d7c.json)
 
 [Extended Data](ext_articles/5eb32d7c.ext.json)
+
+---
+
+### 20 Sri Lankans rescued from Myanmar cybercriminal operations
+
+*2024-08-15 17:54:00* · [`economynextcom`](https://economynext.com/20-sri-lankans-rescued-from-myanmar-cybercriminal-operations-176968/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been able to arrange the release of twenty Sri Lankans who were stranded in a human trafficking scheme in Myanmar, its Ministry of Foreign Affairs said.
+
+The Sri Lanka Missions in Yangon and Bangkok worked to ensure their safe release, and they are now in Mae Sot, Thailand, the ministry said in a statement.
+
+“All the rescued Sri Lankans are in good health, and Thai authorities are facilitating Consular assistance,” the ministry said.
+
+The Sri Lankan Embassy in Bangkok is coordinating with Thai authorities to repatriate them.
+
+These Sri Lankans traveled to Myanmar seeking foreign employment using tourist visas, and were lured into cybercriminal operations and became victims of human trafficking.
+
+“The Ministry of Foreign Affairs urges the public to be cautious and to adhere to the proper procedures when pursuing employment opportunities abroad, so as not to fall victim to human trafficking.”
+
+...
+
+[Data](articles/409f2d51.json)
 
 ---
 
@@ -2269,45 +2309,5 @@ The Ministry of Foreign Affairs further stated that measures are underway to fac
 [Data](articles/2e775258.json)
 
 [Extended Data](ext_articles/2e775258.ext.json)
-
----
-
-### 19 people injured in bus accident
-
-*2024-08-15 11:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-மாணவர்கள்-உட்பட-19-பேர்-காயம்/175-342214) · `ta`
-
-A bus crash involving 19 people, including four students, occurred near Anuradhapura-Badeniya. The bus hit a stationary cherry picker truck, injuring all onboard. Victims are hospitalized, and the driver is in custody.
-
-🟩
-
-Anuradhapura police said that 19 persons, including four students, were injured when a bus collided with a garment factory with an informed factory near the Stravastipura junction on the Anuradhapura -Badeniya main road.
-
-The accident occurred when the bus carrying the employees collided with the back of the infant cherry bus parked near the Sravastipura junction.
-
-The injured have been admitted to the Anuradhapura Teaching Hospital and the driver of the bus carrying the garment factory staff has been arrested.
-
-◼️
-
-[Data](articles/b40f1d78.json)
-
-[Extended Data](ext_articles/b40f1d78.ext.json)
-
----
-
-### Sajith to support Rishad's party
-
-*2024-08-15 11:14:43* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-සහාය-සජිත්ට/11-411384) · `si`
-
-Opposition Leader Sajith Premadasa will support Rishad Bathiudeen's All Ceylon Public Congress after a party meeting.
-
-🟩
-
-Opposition Leader Sajith Premadasa has decided to hand over the All Ceylon Public Congress, led by former Minister Rishad Bathiudeen. The decision of the party was meeting yesterday (14).
-
-◼️
-
-[Data](articles/139e64ca.json)
-
-[Extended Data](ext_articles/139e64ca.ext.json)
 
 ---

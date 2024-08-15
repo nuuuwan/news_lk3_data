@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 15:36:25**
+As of **2024-08-15 15:55:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,898 (100.0%) of 40,900 articles have been extended.
+40,900 (100.0%) of 40,900 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The 31-year-old doctor was found dead on Friday. Police said she had been raped 
 ...
 
 [Data](articles/6ed1bc14.json)
+
+[Extended Data](ext_articles/6ed1bc14.ext.json)
 
 ---
 
@@ -778,21 +780,27 @@ But they have changed their position.
 
 ---
 
-### கைகொடுத்தார் ரணில்: கும்பிட்டார் சஜித்
+### Ranil: Kumbittar Sajith
 
 *2024-08-15 11:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கைகொடுத்தார்-ரணில்-கும்பிட்டார்-சஜித்/150-342216) · `ta`
 
-தேர்தல்கள் ஆணைக்குழுவில் 2024 தேர்தலுக்கான வேட்பு மனுக்களை தாக்கல் செய்யும் பணி வியாழக்கிழமை (15) காலை 9 மணிக்கு ஆரம்பமாகி பகல் 11 மணியுடன் நிறைவடைந்தது.
+Nominations for the 2024 election opened and closed with 39 candidates participating. An objection period followed, during which President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa had an awkward encounter where Sajith refused to shake hands with Ranil, instead bowing in greeting.
 
-வேட்புமனுக்கள் தொடர்பான ஆட்சேபனைகளை தெரிவிக்க, காலை 11  மணி முதல் 11.30 மணி வரை நேரம் ஒதுக்கப்பட்டிருந்தது. மொத்தமாக 40 பேர் கட்டுப்பணம் செலுத்தியிருந்தனர். எனினும், வேட்பு மனுக்களை 39 பேர் மட்டுமே தாக்கல் செய்தனர்
+🟩
 
-அதன்பின்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தான் அமர்ந்திருந்த  ஆசனத்தில் இருந்து எழும்பி பின்னால் சென்றார்.  அப்போது, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு கைலாகு கொடுத்து வாழ்த்துவதற்கு கையை நீட்டினார்.
+The process of filing nominations for the 2024 election at the Elections Commission began on Thursday (15) and ended at 11 am.
 
-எனினும், தனக்கு ஒதுக்கப்பட்டிருந்த ஆசனத்திலேயே அமர்ந்திருந்த சஜித் பிரேமதாச கையை கொடுக்காது, கைக்கூப்பி  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு வணக்கம் செலுத்தினார்.
+Time was allocated from 11 am to 11.30 pm to express objections on nominations. A total of 40 people were controlled. However, only 39 candidates filed nominations
+
+Then President Ranil Wickremesinghe got up from the seat he was sitting and went behind him.At the time, Opposition Leader Sajith extended his hand to greeted Premadasa.
+
+However, Sajith Premadasa, who was sitting on the seat he was allocated, would not give his hand, but also bowed down to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/66c452d7.json)
+
+[Extended Data](ext_articles/66c452d7.ext.json)
 
 ---
 

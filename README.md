@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 12:36:48**
+As of **2024-08-15 12:54:13**
 
 ## Newspaper Stats
 
-*Scraped **40,867** Articles*
+*Scraped **40,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,363
 economynextcom | 2,478
 dailyftlk | 2,638
-adalk | 3,758
+adalk | 3,760
 dailymirrorlk | 4,733
 adaderanalk | 4,772
 tamilmirrorlk | 5,217
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,864 (100.0%) of 40,867 articles have been extended.
+40,867 (100.0%) of 40,869 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He added that three objections had been submitted during the period allocated fo
 ...
 
 [Data](articles/b8271837.json)
+
+[Extended Data](ext_articles/b8271837.ext.json)
 
 ---
 
@@ -128,6 +130,20 @@ President Ranil Wickremesinghe then left the hall at 11.35 am. At the time, Oppo
 
 ---
 
+### අපේක්ෂකයන් 39 දෙනෙකු නාමයෝජන භාරදෙයි
+
+*2024-08-15 11:38:47* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-39-දෙනෙකු-නාමයෝජන-භාරදෙයි/11-411385) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයන් 39 දෙනෙකු නාමයෝජනා භාර දී තිබේ.
+
+නාමයෝජනා භාරගැනීම අද (15දා) පෙරවරු 09ට ආරම්භ වූ අතර, පෙරවරු 11ට අවසන් විය.
+
+◼️
+
+[Data](articles/d2ee0902.json)
+
+---
+
 ### Sri Lanka’s tourist arrivals exceed 1.25 million
 
 *2024-08-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101256/sri-lankas-tourist-arrivals-exceed-125-million) · `en`
@@ -145,6 +161,8 @@ Meanwhile, it is also reported that a total of 73,373 tourists have visited the 
 ◼️
 
 [Data](articles/4efea9b7.json)
+
+[Extended Data](ext_articles/4efea9b7.ext.json)
 
 ---
 
@@ -192,6 +210,8 @@ It is reported that around 28 more Sri Lankan nationals are still being held in 
 
 [Data](articles/2e775258.json)
 
+[Extended Data](ext_articles/2e775258.ext.json)
+
 ---
 
 ### 19 people injured in bus accident
@@ -213,6 +233,18 @@ The injured have been admitted to the Anuradhapura Teaching Hospital and the dri
 [Data](articles/b40f1d78.json)
 
 [Extended Data](ext_articles/b40f1d78.ext.json)
+
+---
+
+### රිෂාඩ්ගේ පක්ෂයේ සහාය සජිත්ට
+
+*2024-08-15 11:14:43* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-සහාය-සජිත්ට/11-411384) · `si`
+
+හිටපු අමාත්‍ය,  පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බද්යුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසයේ සහාය විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ලබාදිමට තීරණය කර තිබේ. එම පක්ෂයේ උත්තරිතර මණ්ඩලය ඊයේ (14දා) රැස්වී මෙම තීරනය ගෙන තිබේ.
+
+◼️
+
+[Data](articles/139e64ca.json)
 
 ---
 
@@ -2215,55 +2247,5 @@ On 09 August 2024, the Supreme Court determined that the Samagi Jana Balawegaya�
 [Data](articles/17820cbc.json)
 
 [Extended Data](ext_articles/17820cbc.ext.json)
-
----
-
-### Relief as soon as the individual income tax
-
-*2024-08-14 20:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிநபர்-வருமான-வரிக்கு-விரைவில்-நிவாரணம்/175-342177) · `ta`
-
-President Ranil Wickremesinghe announced that proposals from the International Monetary Fund (IMF) and the Treasury aim to reform individual income tax, potentially benefiting scholars and the middle class. This was disclosed during a conference at a Battaramulla hospital.
-
-🟩
-
-President Ranil Wickremesinghe said that the two proposals already submitted by the International Monetary Fund and Treasury have been focused on the individual income tax.
-
-The President said that the recommendations of the Treasury and the IMF proposed by the International Monetary Fund (IMF) were considering the recommendation of the International Monetary Fund (IMF) and that the IMF proposed to expand the tax border would benefit the scholars and the middle class community.
-
-President Ranil Wickremesinghe said this while addressing a conference held at a private hospital in Battaramulla yesterday evening (13) evening.. Remble
-
-◼️
-
-[Data](articles/532acf90.json)
-
-[Extended Data](ext_articles/532acf90.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank net up 111-pct in June quarter
-
-*2024-08-14 19:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-111-pct-in-june-quarter-176814/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Commercial Bank of Ceylon grew 111 percent from a year ago to 7.9 billion rupees in the June 2024 quarter helped by higher net interest income despite higher bad loan provisioning, interim accounts show.
-
-The bank reported earnings of 5.92 rupees per share for the quarter.
-
-Commercial Bank group net interest income went up 67 percent to 30.9 billion rupees even as interest income fell 8 percent to 68.9 billion rupees and interest expense fell at a faster 33 percent to 34.9 billion rupees.
-
-Net fee and commission income grew 4.8 percent to 5.4 billion rupees.
-
-Losses from trading were 1.7 billion rupees, down from 6.6 billion a year earlier.
-
-Loans and advances to customers were up 4.8 percent to 1,233 billion rupees, amid an expansion in foreign currency loans.
-
-Stage 3 bad loans were 4.87 percent, down from 5.85 percent.
-
-Financial assets – debt instruments were down 4.6 percent to 620 billion rupees.
-
-...
-
-[Data](articles/7b545d61.json)
-
-[Extended Data](ext_articles/7b545d61.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-15 14:36:34**
+As of **2024-08-15 14:55:23**
 
 ## Newspaper Stats
 
-*Scraped **40,892** Articles*
+*Scraped **40,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,67 @@ dailyftlk | 2,638
 adalk | 3,763
 dailymirrorlk | 4,733
 adaderanalk | 4,775
-tamilmirrorlk | 5,223
+tamilmirrorlk | 5,224
 virakesarilk | 6,480
-adaderanasinhalalk | 6,956
+adaderanasinhalalk | 6,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,888 (100.0%) of 40,892 articles have been extended.
+40,892 (100.0%) of 40,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-15 (Thursday)
 
-### බදියුදීන්ගේ මන්ත්‍රීවරු තිදෙනෙක් රනිල්ට එක් වෙයි
+### ப.அரியநேத்திரனுக்கு ’சங்கு’ சின்னம்
+
+*2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ப-அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
+
+◼️
+
+[Data](articles/a75b1d6c.json)
+
+---
+
+### මැතිවරණ සමයේදී නොකළ යුතු දේ
+
+*2024-08-15 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199968) · `si`
+
+ජනාධිපතිවරණයට අදාළව පක්ෂ අපේක්ෂකයන් සහ ආධාරකරුවන් සිදු නොකළ යුතු ක්‍රියාවන් පිළිබඳ මැතිවරණ කොමිෂන් සභාව විසින් මැතිවරණ කොමිෂන් කාර්යාලයේදී අද (15) අපේක්ෂකයින්ව දැනුම්වත් කෙරිණි.
+
+ඒ අනුව මෙකී නිතීවිරෝධී ක්‍රියා, වැරදි, දූෂණ ක්‍රියා සිදුකිරීම, විධාන උල්ලංඝනය කිරීම පිළිබඳ දඬුවම ජනාධිපතිවරයා තෝරා පත් කර ගැනීම පිළිබඳ පනතේ සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ පැහැදිළිව දක්වා ඇතැයි ද මෙහි ඇතැම් වැරදි සඳහා දඬුවම තේරි පත්වීම අහිමි වීම සහ ප්‍රජා අයිතිය අහිමි වීම බව මැතිවරණ කොමසාරිස් ආර්.එම්.ඒ.එල්. රත්නායක මහතා එහිදී පැවසීය.
+
+ජනාධිපතිවරයා තෝරා පත් කර ගැනීම පිළිබඳ වූ පනතේ 74 වන වගන්තිය යටතේ නාමයෝජනා දින සිට ඡන්ද විමසීම අවසන් වන දින තෙක් අපේක්ෂකයෙකු තෝරා පත්කර ගැනීමේ ඉඩකඩ වැඩි කිරීම සඳහා හෝ තවත් අපේක්ෂකයෙකු අගතියට පත් කිරීම සඳහා ප්‍රචාරක පත්‍රිකා සහ අනෙකුත් දෑ ප්‍රදර්ශනය කිරීම, බෙදා හැරීම නොකළ යුතු වෙයි.
+
+සියලුම අපේක්ෂකයින්ගේ අවධානය මේ සම්බන්ධව  යොමුකර ඇති අතර මේ සඳහා වූ නීතිමය කටයුතු සිදු කිරීම සඳහා පොලිස්පතිවරයා වෙත අදාළ උපදෙස් මැතිවරණ කොමිෂන් සභාව විසින් ලබා දී තිබේ.
+
+...
+
+[Data](articles/03aea447.json)
+
+---
+
+### Three Years of Bathiudeen joins Ranil
 
 *2024-08-15 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199967) · `si`
 
-රිෂාඩ් බදියුදීන් මහතාගේ නායකත්වයෙන් යුත් සමස්ත ලංකා මහජන කොංග්‍රසය නියෝජනය කරමින් සමගි ජන බලවේගය හරහා පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරුන් තිදෙනෙකු ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීමට තීරණය කර තිබේ.
+Rishad Bathiudeen, leading the All Ceylon Public Congress, supports Ranil Wickremesinghe for president. Members Isak Raham, Ali Sabri Rahaim, and SMM Musharraf will back this decision publicly.
 
-ඒ අනුව අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන්, පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්රි රහීම්, දිගාමඩුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නීතීඥ එස්.එම්.එම් මුෂාරෆ් මෙලෙස ජනාධිපතිවරයාට සහ පළ කිරීමට තීරණය කර ඇත.
+🟩
 
-ඔවුන් මීට සුළු මොහොතකට පෙර විශේෂ මාධ්‍ය හමුවක් කැඳවා මේ බව පැවසීය.
+Three members visited the Parliament to represent the All Ceylon Public Congress, led by Rishad Bathiudeen, has decided to support Ranil Wickremesinghe in the next presidential election.
+
+Accordingly, Anuradhapura District MP Isak Raham, Puttalam District Parliamentarian Ali Sabri Rahaim, MP Attorney, MP Attorney at Law SMM Musharraf has decided to publish and the President.
+
+He summoned a special press meeting a short while ago.
 
 ◼️
 
 [Data](articles/e5ee2975.json)
+
+[Extended Data](ext_articles/e5ee2975.ext.json)
 
 ---
 
@@ -63,6 +97,8 @@ To celebrate the announcement, Jetstar Asia has launched one-way sale fares from
 ...
 
 [Data](articles/4a512a23.json)
+
+[Extended Data](ext_articles/4a512a23.ext.json)
 
 ---
 
@@ -137,6 +173,8 @@ During the press briefing, the three Muslim parliamentarians pledged to extend t
 ...
 
 [Data](articles/a7eb17a3.json)
+
+[Extended Data](ext_articles/a7eb17a3.ext.json)
 
 ---
 
@@ -214,17 +252,23 @@ He added that candidates should consider environmental protection and avoid usin
 
 ---
 
-### ජනාධිපති රනිල්ට ලැබුණු ඡන්ද ලකුණ මෙන්න
+### Here is the election sign of President Ranil
 
 *2024-08-15 13:16:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-රනිල්ට-ලැබුණු-ඡන්ද-ලකුණ-මෙන්න/11-411390) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ස්වාධීන අපේක්ෂකයෙක් ලෙස ඉදිරිපත් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට හිමිවූ ඡන්ද ලකුණ ප්‍රකාශයට පත් කර තිබේ.
+President Ranil Wickremesinghe has released his campaign symbol, a gas cylinder, for his upcoming presidential run as an independent candidate.
 
-ඒ අනුව ජනාධිපතිවරයාට ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීම සඳහා “ගෑස් සිලින්ඩරය” ලකුණ මැතිවරණ කොමිෂන් සභාව විසින් ලබා දී ඇත.
+🟩
+
+President Ranil Wickremesinghe has published the voter sign of President Ranil Wickremesinghe, who was contesting as independent candidate at the next presidential election.
+
+Accordingly, the President has given the Gas Cylinder to the President for the next presidential election.
 
 ◼️
 
 [Data](articles/01970e4a.json)
+
+[Extended Data](ext_articles/01970e4a.ext.json)
 
 ---
 
@@ -2197,41 +2241,5 @@ Meanwhile, the number of representatives visiting with candidates who file nomin
 [Data](articles/c1e22659.json)
 
 [Extended Data](ext_articles/c1e22659.ext.json)
-
----
-
-### Special security in Colombo today
-
-*2024-08-15 02:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கொழும்பில்-இன்று-விசேட-பாதுகாப்பு/150-342181) · `ta`
-
-Today, special security measures are in place for the presidential nomination filing day in Colombo. A unique traffic plan is being enforced around the Rajagiriya election office. Additionally, the number of candidate visitors has been restricted.
-
-🟩
-
-Special security arrangements will be made today, the day of filing nominations for the presidential election.
-
-A special traffic scheme is to be implemented on the streets near the election office in Rajagiriya today.
-
-Meanwhile, the number of representatives visiting with candidates who file nominations has been limited. (A)
-
-◼️
-
-[Data](articles/c7b0a2ca.json)
-
-[Extended Data](ext_articles/c7b0a2ca.ext.json)
-
----
-
-### Governance and economy: Inseparable twins
-
-*2024-08-15 02:02:03* · [`dailyftlk`](https://www.ft.lk/columns/Governance-and-economy-Inseparable-twins/4-765536) · `en`
-
-Assuming that the 21 September Presidential election would be held as scheduled, the two most challenging issues facing the winner would be to reform Sri Lanka’s moribund system of governance and renegotiate with IMF parts of its economic reparation agenda so that the local economy could be put on sound footing to withstand the negative effects from turbulence from outside. Governance and economy are inseparable twins and no economic model or development plan could succeed when governments that are responsible to implement them remain corrupt and incompetent.
-
-...
-
-[Data](articles/70260cc3.json)
-
-[Extended Data](ext_articles/70260cc3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 01:36:37**
+As of **2024-08-16 01:55:26**
 
 ## Newspaper Stats
 
-*Scraped **40,962** Articles*
+*Scraped **40,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,646
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
-tamilmirrorlk | 5,234
+tamilmirrorlk | 5,235
 virakesarilk | 6,489
 adaderanasinhalalk | 6,969
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,962 (100.0%) of 40,962 articles have been extended.
+40,962 (100.0%) of 40,963 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,24 @@ Scientists are worried about the speed of spreading the new variant of the virus
 ---
 
 ### 2024-08-15 (Thursday)
+
+### கீதாவுக்கு கோபம்
+
+*2024-08-15 23:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீதாவுக்கு-கோபம்/175-342254) · `ta`
+
+ஜனாதிபதித் தேர்தலில் எத்தனை வேட்பாளர்கள் போட்டியிட்டாலும் பெண்களின் பிரதிநிதித்துவம் வழங்கப்படாமை மிகவும் வருத்தமளிக்கும் விடயம் என சிறுவர் மற்றும் மகளிர் விவகார அமைச்சர் திருமதி கீதா குமாரசிங்க தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (15)  இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கருத்துரைத்த போதே இராஜாங்க அமைச்சர் கீதா குமாரசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+பாராளுமன்றத்தில் கூட பெண்களுக்கு உரிய இடமும் சமமான இடமும் வழங்கப்பட வேண்டும் என கட்சித் தலைவர்கள் பெருமையுடன் கூறினாலும் பாராளுமன்றத்தில் பெண்களின் பிரதிநிதித்துவம் 6 சதவீதத்திற்கும் குறைவாகவே காணப்படுவதாக இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+ஒரு நாட்டில் பெண் உரிமைகள் தொடர்பில் அனைத்து கட்சித் தலைவர்களும் அதிக அக்கறை காட்ட வேண்டும் என தெரிவித்த இராஜாங்க அமைச்சர், இம்முறை பெண் பிரதிநிதித்துவம் இல்லாத ஜனாதிபதி வேட்பாளர் பட்டியல் துடுப்பு இல்லாத படகு போன்றது எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/dcd31849.json)
+
+---
 
 ### India to fight 2036 Olympic host
 
@@ -2295,29 +2313,5 @@ Meanwhile, it is also reported that a total of 73,373 tourists have visited the 
 [Data](articles/4efea9b7.json)
 
 [Extended Data](ext_articles/4efea9b7.ext.json)
-
----
-
-### Emergency declaration in another part of Russia
-
-*2024-08-15 11:35:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-மற்றொரு-பகுதியிலும்-அவசரநிலை-பிரகடனம்/50-342215) · `ta`
-
-An emergency has been declared in Pelgorod due to the Ukrainian army's advancement into the Cursk region of Russia, causing damage and civilian injuries. This escalation follows three years of conflict, marked by Russia's invasion of Ukraine on February 24, 2022, and subsequent attacks. Despite initial aggression from Russian forces, Ukraine's resistance, bolstered by Western aid, has led to significant territorial gains, including areas deep within Russia. Recent advances saw Ukrainian troops entering Russian territory, prompting the evacuation of locals and the declaration of emergencies to manage the situation.
-
-🟩
-
-Emergency has been declared in the neighboring region of Pelgorod as the Ukrainian army continues to advance within the Cursk region of Russia.
-
-The war between Ukraine and Russia has been going on for about 3 years. On February 24, 2022, Russia carried out its attacks in the name of special military operations.
-
-Life and possession of Ukraine continued to increase in Ukraine by a series of attacks on Russia. Initially the forces of Russian President Putin were aggressive. Gelanciesi's army then carried out opposition attacks with the help of Western weapons and shocked Russia.
-
-In this context, about 1,000 Ukraine soldiers recently entered with artillery and armored vehicles within the Russian border region of Russia.. Ukrainian soldiers have been attacking there for a week. Due to this, people in the area have been sent to a safe place.
-
-...
-
-[Data](articles/aa3a4eb9.json)
-
-[Extended Data](ext_articles/aa3a4eb9.ext.json)
 
 ---

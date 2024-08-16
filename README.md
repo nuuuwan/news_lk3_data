@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 08:15:33**
+As of **2024-08-16 08:25:05**
 
 ## Newspaper Stats
 
-*Scraped **41,005** Articles*
+*Scraped **41,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailyftlk | 2,664
 adalk | 3,774
 dailymirrorlk | 4,733
 adaderanalk | 4,784
-tamilmirrorlk | 5,239
+tamilmirrorlk | 5,241
 virakesarilk | 6,494
-adaderanasinhalalk | 6,973
+adaderanasinhalalk | 6,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,003 (100.0%) of 41,005 articles have been extended.
+41,005 (100.0%) of 41,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### பாடசாலைகளுக்கு இன்றுடன் விடுமுறை
+
+*2024-08-16 08:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-இன்றுடன்-விடுமுறை/175-342268) · `ta`
+
+அரச மற்றும் அரச அனுமதி பெற்ற தமிழ் மற்றும் சிங்கள பாடசாலைகளுக்கு இன்று முதல் விடுமுறை வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+அதற்கமைய, மூன்றாம் தவணையின் முதலாம் கட்டம் எதிர்வரும் 26 ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகும் என அமைச்சு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/9ddff0d7.json)
+
+---
+
+### පොහොට්ටු මන්ත්‍රීවරුන්ට විනය ක්‍රියාමාර්ග ගැනීමට සැරසෙයි
+
+*2024-08-16 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199988) · `si`
+
+2024 ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීම සඳහා එක්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+
+ඒ, සම්බන්ධයෙන් වන ලිපි කඩිනමින් එම මන්ත්‍රීවරුන් වෙත යොමුකිරීමට කටයුතු කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+විනය ක්‍රියාමාර්ග ගැනීමෙන් අනතුරුව පක්ෂයේ තීරණයට එරෙහි වූ මන්ත්‍රීවරුන්ගේ පක්ෂ සාමාජිකත්වය අහෝසි වනු ඇති බවද සඳහන් ය.
+
+ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණ ගන්නා ක්‍රියාමාර්ග සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා එහි දේශපාලන මණ්ඩලය පසුගියදා රැස්වී තිබුණි.
+
+එහිදී පක්ෂයෙන් අපේක්ෂකයෙකු නම් කිරීමට තීරණය කළ අතර, එම තීරණයට එරෙහි වූ මන්ත්‍රීවරුන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගන්නා බවටද තීරණය කෙරුණි.
+
+කෙසේ වෙතත් පක්ෂයේ තීරණයට එරෙහිවූ මන්ත්‍රීවරුන් සම්බන්ධයෙන් කඩිනමින් ක්‍රියාමාර්ග ගන්නා ලෙසට පසුගිය සති කිහිපය පුරා පක්ෂයේ දේශපාලන මණ්ඩලයට දැඩි බලපෑම් එල්ලකර ඇති බවද වාර්තා වෙයි.
+
+...
+
+[Data](articles/b96c48fe.json)
+
+---
+
+### ජනාධිපතිවරණයේදී වියදම් කළ හැකි මුදල ?
+
+*2024-08-16 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199987) · `si`
+
+එළඹෙන ජනාධිපතිවරණයේදී එක් ඡන්දදායකයෙකු වෙනුවෙන් අපේක්ෂකයෙකු හට වියදම් කළ හැකි මුදල් ප්‍රමාණය සම්බන්ධයෙන් අවසන් තීරණයක් අද (16) දිනයේ ගනු ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කර සිටියේ, මැතිවරණ කොමිෂන් සභාව සහ දේශපාලන පක්ෂ නියෝජිතයින් අතර අද පැවැත්වෙන සාකච්ඡාවකදී මෙම තීරණය ගනු ඇති බවය.
+
+◼️
+
+[Data](articles/c82beba4.json)
+
+---
+
+### ஸ்ரீபுரயில் துப்பாக்கிச் சூடு: இளைஞன் பலி
+
+*2024-08-16 07:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீபுரயில்-துப்பாக்கிச்-சூடு-இளைஞன்-பலி/175-342267) · `ta`
+
+அநுராதபுரம் - ஸ்ரீபுர, கெமுனுபுர, பிள்ளையார் சந்தியில் இன்று அதிகாலை மோட்டார் சைக்கிளில் வந்த நபரொருவரால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் 26 வயதுடைய நபர் கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ரி - 56 ரக துப்பாக்கியால் இந்த துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/b7c812cb.json)
+
+---
 
 ### Youth killed in shooting at Sripura
 
@@ -452,21 +516,31 @@ In the retail market top seven companies that mainly contributed to the turnover
 
 ---
 
-### தமிழ் வேட்பாளர் விவகாரத்தில் தமிழரசுக் கட்சி விரைவான தீர்மானத்தை எடுக்க வேண்டும் - சி.வி.விக்கினேஸ்வரன் கோரிக்கை
+### TNA should make a rapid decision on Tamil candidate affairs - CV Vigneswaran
 
 *2024-08-16 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191183) · `ta`
 
-தமிழ் மக்களின் அடையாளமாக விளங்கும் பா.அரியேத்திரனுக்கு அனைத்து தமிழர்களும் வாக்களிக்க வேண்டும்.தமிழ் வேட்பாளர் விவகாரத்தில் இலங்கை தமிழரசுக் கட்சி உறுதியான தீர்மானத்தை எடுக்காமல் இருப்பது கவலைக்குரியது.
+CV Vigneswaran urges TNA to swiftly decide on Tamil candidate, emphasizing the importance of unity among Tamils for the upcoming elections. He highlights the need for a clear stance without party conflicts, advocating for all Tamils to support P. Ariyaderan, seen as a symbol of the Tamil people. Despite majority support within the Sri Lanka Tamil National Party, a decision remains pending due to objections from minority parties.
 
-தமிழர்களின் எதிர்காலத்தை கருத்திற் கொண்டு விரைவான தீர்மானத்தை எடுக்க வேண்டும் என்பதை பணிவுடன் கேட்டுக் கொள்கிறேன் என தமிழ் மக்கள் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் தெரிவித்தார்.
+🟩
 
-தேர்தல்கள் ஆணைக்குழுவில் வியாழக்கிழமை (15) இடம்பெற்ற வேட்புமனு கையளிப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+All Tamils ​​have to vote for the Tamil people who are the symbol of the Tamil people.
 
-தமிழ் பொது வேட்பாளரான பா.அரியேத்திரன் சங்கு சின்னத்தில் போட்டியிடுகிறார். ஜனாதிபதித் தேர்தலில் கட்சி சார்பில் சிந்திக்காமல் தமிழ் மக்கள் சார்பில் சிந்திக்க வேண்டும். இதற்கான கட்டாயம் தற்போது தோற்றம் பெற்றுள்ளது.
+"I am humbled by the Tamil People's Alliance (TNA) leader and Member of Parliament CV Vigneswaran," he said.
+
+He was speaking to the media after the nomination papers held on Thursday (15) at the Elections Commission.
+
+Tamil general candidate P. Ariyaderan is contesting in the Sangu symbol. The presidential election should be thought of on behalf of the Tamil people without thinking. This is a must.
+
+To make a decision about the future of the Tamil people without being conflicted with the party. 89 party parties have chosen PA Ariendran as a symbol of the Tamil people. It is no longer necessary to talk about him or his party.
+
+All the Tamil people should vote for Ariyaderan, who is a symbol of the Tamil people. It is sad that the Sri Lankan TNA does not make a firm decision on the Tamil candidate issue.
 
 ...
 
 [Data](articles/a7bf9716.json)
+
+[Extended Data](ext_articles/a7bf9716.ext.json)
 
 ---
 
@@ -1052,19 +1126,25 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 
 ---
 
-### අමාත්‍යධුර තුනක් ජනපති යටතට
+### Ministers for three under the president
 
 *2024-08-15 19:56:26* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යධුර-තුනක්-ජනපති-යටතට/11-411402) · `si`
 
-අමාත්‍ය ධුර තුනක් ජනාධිපතිවරයා යටතට පත් කරගනිමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ඒ අනුව සංචාරක හා ඉඩම් අමාත්‍යාංශය, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යාංශය, කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මෙලෙස ජනාධිපතිවරයා යටතට පත් කර ඇත.
+President Ranil Wickremesinghe has appointed three ministers, including the Ministries of Travel and Lands, and Sports and Youth Affairs, directly under his purview. This move follows discussions with the Prime Minister and comes after the abolition of electoral courts led to the election of Ministers Manusha Nanayakkara and Harin Fernando to Parliament.
 
-ජනාධිපති ලේකම්වරයා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර ඇති අතර, අග්‍රාමාත්‍යවරයා සමගද සාකච්ඡා කිරීමෙන් අනතුරුව මෙම තීරණය ගත් බව ගැසට් නිවේදනයේ සඳහන් වේ.
+🟩
 
-එම අමාත්‍ය ධුරවල කටයුතු කළ සමගි ජනබලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත් වූ මනූෂ නානායක්කාර හා පත් කරන ලද මන්ත්‍රී හරීන් ප්‍රනාන්දු යන මහත්වරුන්ගේ මන්ත්‍රී ධුර අහෝසි කරමින් නිකුත් කරන ලද අධිකරණ නියෝගයෙන් පසු අමාත්‍ය ධුර පුරප්පාඩු විය. ඒ අනුව ජනාධිපතිවරයා විසින් මෙම තීරණයට එළඹ තිබේ.
+President Ranil Wickremesinghe has issued a special gazette notification by appointing three ministerial portfolios. Accordingly, the Ministry of Travel and Lands, Ministry of Sports and Youth Affairs has been brought under the President under the President.
+
+The gazette notification has been issued by the Secretary to the President and this decision has been taken after discussing with the Prime Minister.
+
+Minister of Manusha Nanayakkara, who was elected to parliament with the abolition of the electoral courts, was abolished by the Harin Fernando, who was elected to Parliament with the abolition of MP Harin Fernando.. Accordingly, the President has taken this decision.
 
 ◼️
 
 [Data](articles/5fc8097d.json)
+
+[Extended Data](ext_articles/5fc8097d.ext.json)
 
 ---
 
@@ -2117,101 +2197,5 @@ It seems like there was no text provided after "Summarize the following into 200
 [Data](articles/a75b1d6c.json)
 
 [Extended Data](ext_articles/a75b1d6c.ext.json)
-
----
-
-### The symbol symbol of the telephone
-
-*2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
-
-The telephone symbolizes communication and connection, bridging distances and enabling instant voice transmission across the globe.
-
-🟩
-
-◼️
-
-[Data](articles/e73105b1.json)
-
-[Extended Data](ext_articles/e73105b1.ext.json)
-
----
-
-### What should not be done during the election period
-
-*2024-08-15 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199968) · `si`
-
-Candidates must avoid distributing materials, demonstrations, unauthorized advertising, loudspeaker misuse without permission, bribery, promoting via religious programs or sacred places, and engaging in political activities outside of election-related tasks during the election period. Violations may lead to legal action and are punishable under the law.
-
-🟩
-
-The Elections Commission also informed the candidates at the Elections Commission today (15) at the Elections Commission regarding the actions that should not be done in connection with the presidential election.
-
-The Commissioner General of Elections R.R. Elections Commissioner R.S.MAL. Mr. Ratnayake said.
-
-Under Section 74 of Section 74 of the Act, Section 74 of the Act, Section 74 of the Act, Section 74 of the nomination scheme shall not be distributing, demonstration.
-
-The attention of all candidates has been referred to this and the Election Commission has provided the instructions relevant to the IGP to carry out the legal proceedings.
-
-Elections related to the presidential election or other advertising photos or such paintings can be propagated at the preparation of the announcement, near the area or the formal permission of announcement.
-
-During the election, candidates can use loudspeakers to promote candidates, and the loudspeakers can only be used on the proper permission.
-
-...
-
-[Data](articles/03aea447.json)
-
-[Extended Data](ext_articles/03aea447.ext.json)
-
----
-
-### Crimes against women are painful - Indian Prime Minister Modi in Independence Day speech
-
-*2024-08-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191140) · `ta`
-
-In his Independence Day speech, PM Modi emphasized swift investigation and severe punishment for crimes against women, urging community trust. He also announced the creation of 75,000 new medical education seats over five years to keep students from studying abroad, highlighting infrastructure development and cautioning against casteism and negativity.
-
-🟩
-
-Crimes against women are painful. Indian Prime Minister Narendra Modi has said that the matter should be investigated quickly.
-
-Indian Prime Minister Modi addressed the nation on Thursday (15) on the occasion of India's 78th Independence Day.
-
-Crimes against women are painful. It should be investigated quickly.
-
-And those who are involved in these crimes should be severely punished and it is important to have confidence in the community.
-
-We are obliged to ensure peace in neighboring countries. Places for 75,000 new medical education in the next 5 years
-
-Will be created. By this, our students do not need to go abroad and study medicine. In the last 10 years, there have been major moves in strengthening the country's infrastructure.
-
-People need to understand some people who always act with negative intentions and create stability in the country. Giving priority and casteism to those who need the community is a bad thing.
-
-◼️
-
-[Data](articles/6d93d36b.json)
-
-[Extended Data](ext_articles/6d93d36b.ext.json)
-
----
-
-### Three Years of Bathiudeen joins Ranil
-
-*2024-08-15 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199967) · `si`
-
-Rishad Bathiudeen, leading the All Ceylon Public Congress, supports Ranil Wickremesinghe for president. Members Isak Raham, Ali Sabri Rahaim, and SMM Musharraf will back this decision publicly.
-
-🟩
-
-Three members visited the Parliament to represent the All Ceylon Public Congress, led by Rishad Bathiudeen, has decided to support Ranil Wickremesinghe in the next presidential election.
-
-Accordingly, Anuradhapura District MP Isak Raham, Puttalam District Parliamentarian Ali Sabri Rahaim, MP Attorney, MP Attorney at Law SMM Musharraf has decided to publish and the President.
-
-He summoned a special press meeting a short while ago.
-
-◼️
-
-[Data](articles/e5ee2975.json)
-
-[Extended Data](ext_articles/e5ee2975.ext.json)
 
 ---

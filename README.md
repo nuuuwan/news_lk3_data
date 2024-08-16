@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 13:21:15**
+As of **2024-08-16 13:36:44**
 
 ## Newspaper Stats
 
-*Scraped **41,057** Articles*
+*Scraped **41,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
 adaderanalk | 4,793
-tamilmirrorlk | 5,253
+tamilmirrorlk | 5,254
 virakesarilk | 6,505
 adaderanasinhalalk | 6,982
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,055 (100.0%) of 41,057 articles have been extended.
+41,057 (100.0%) of 41,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### தேரரை சந்தித்தார் அநுர குமார
+
+*2024-08-16 13:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரை-சந்தித்தார்-அநுர-குமார/175-342281) · `ta`
+
+தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் தோழர் அநுர குமார திசாநாயக்க மீரிகம கந்தன்கமுவ ஸ்ரீ வித்யாவாச பிரிவென் மஹா விகாரையில் ராமக்ஞ மஹா நிக்காயவின் மஹா நாயக்க தேரர் சங்கைக்குரிய மக்குலேவே விமல நாயக்க தேரரை இன்று (16) முற்பகல் சந்தித்தார்.
+
+இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய தோழர் அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+
+இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் தோழர் விஜித ஹேரத்தும் பங்கேற்றார்.
+
+◼️
+
+[Data](articles/9ad51c58.json)
+
+---
 
 ### Sri Lanka’s headline inflation expected to remain below target - CBSL
 
@@ -46,21 +62,31 @@ Furthermore, it mentioned that the Central Bank of Sri Lanka conducts monetary p
 
 [Data](articles/7b564843.json)
 
+[Extended Data](ext_articles/7b564843.ext.json)
+
 ---
 
-### ஆப்பிரிக்காவுக்கு வெளியே  சுவீடனில் குரங்கம்மை பாதிப்பு
+### The impact of the monarchy in Sweden outside Africa
 
 *2024-08-16 13:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்பிரிக்காவுக்கு-வெளியே-சுவீடனில்-குரங்கம்மை-பாதிப்பு/50-342280) · `ta`
 
-குரங்கம்மை பாதிப்பு என்பது ஒரு வகை வைரசால் ஏற்பட கூடிய தொற்று நோய் ஆகும். ஆப்பிரிக்காவில் நடப்பு ஆண்டில் குழந்தைகள் மற்றும் முதியவர்கள் என 13 நாடுகளில் குரங்கம்மை பாதிப்பு கண்டறியப்பட்டு உள்ளது. இதுபற்றி ஆப்பிரிக்காவின் நோய் கட்டுப்பாடு மற்றும் தடுப்பு மையம் சமீபத்தில் வெளியிட்ட அறிவிப்பில், குரங்கம்மை பாதிப்பு பொது சுகாதார அவசரகால நிலையாக உருவாகி உள்ளது. 500-க்கும் மேற்பட்டோர் உயிரிழந்து உள்ளனர்.
+The impact of the Monkeypox virus, primarily affecting children and the elderly in Africa, has led to over 500 deaths across 13 countries, with the highest incidence in the Congo. This outbreak, which has seen a 160% increase in cases and a 19% rise in deaths compared to the previous year, has prompted international concern and the declaration of a global health emergency by the WHO. The virus, which spreads easily among close contacts, has also been identified in Sweden in a traveler returning from Africa, highlighting the potential for global spread despite limited vaccine availability in Africa.
 
-அதனால், இதனை தடுத்து நிறுத்த சர்வதேச உதவி வேண்டும் என கேட்டு கொண்டுள்ளது. இந்த 13 நாடுகளில் காங்கோ நாட்டில் 96 சதவீதம் அளவுக்கு பாதிப்புகளும் மற்றும் மரணங்களும் ஏற்பட்டு உள்ளன. கடந்த ஆண்டின் இதே காலகட்டத்துடன் ஒப்பிடும்போது, காங்கோவில் பாதிப்புகள் 160 சதவீதமும், மரணங்கள் 19 சதவீதமும் உயர்ந்து உள்ளன.
+🟩
 
-இந்த பாதிப்புக்கு, நடப்பு ஆண்டில் ஆப்பிரிக்க நாடுகளில் இதுவரை 524 பேர் பலியாகி உள்ளனர். 14 ஆயிரத்திற்கும் மேற்பட்டோருக்கு பாதிப்புகள் ஏற்பட்டு உள்ளன என்றும் தெரிவித்து இருந்தது.
+The impact of monkey is a type of infection caused by a type of virus. In the current year, the impact of children and the elderly in Africa has been detected in 13 countries. In a recent announcement issued by Africa's Disease Control and Prevention Center. More than 500 people have died.
+
+So, it is asked for international assistance to stop this. Of these 13 countries, 96 percent of the Congo have been affected by death and death. Compared to the same period last year, the impacts of the Congo rose by 160 percent and deaths by 19 percent.
+
+For this impact, 524 people have been killed in African countries in the current year. It also reported that more than 14 thousand people were affected.
+
+The new form of virus, which is spreading in African countries, has spread from Congo to neighboring countries including Brundi, Kenya, Rwanda and Uganda.. However, there are low vaccines in Africa.
 
 ...
 
 [Data](articles/d08e5957.json)
+
+[Extended Data](ext_articles/d08e5957.ext.json)
 
 ---
 
@@ -2217,31 +2243,5 @@ Minister of Manusha Nanayakkara, who was elected to parliament with the abolitio
 [Data](articles/5fc8097d.json)
 
 [Extended Data](ext_articles/5fc8097d.ext.json)
-
----
-
-### It increases the rain again
-
-*2024-08-15 19:49:11* · [`adalk`](https://www.ada.lk/breaking_news/ආයෙත්-වැස්ස-වැඩි-වෙයි/11-411401) · `si`
-
-Over the next few days, the Meteorology Department predicts a rise in rainfall across the southwest regions of the island, including heavy showers in the Western, Sabaragamuwa, Galle, and Matara districts. Additionally, eastern and Uva provinces may experience showers and thunderstorms in the evenings or nights. Coastal areas from Galle to Batticaloa, Hambantota, Pottuvil, and Mannar via Puttalam could see rough seas, potentially reaching 50-55 knots.
-
-🟩
-
-In the next few days, the Meteorology Department states that there is a temporary increase in the existing rain condition in the southwest areas of the island.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Galle and Matara districts today (16th).. Heavy rains can occur at more than 100.
-
-In the evening or night in the Eastern and Uva provinces, there will be showers and thundershowers and to take steps to reduce the damages caused by thunderstorms.
-
-From Galle to Batticaloa, Hambantota and Pottuvil, the wedding in the sea areas off the coast to Mannar via Puttalam via Puttalam is time.. May be increased to 50-55.
-
-Sea areas beyond the coast extending from Galle to Matara and Pottuvil via Batticaloa and Chilaw to Mannar via Puttalam. The sea areas can be temporarily strong in the sea, then the sea areas can be temporarily.
-
-◼️
-
-[Data](articles/2546c7ae.json)
-
-[Extended Data](ext_articles/2546c7ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 22:10:27**
+As of **2024-08-16 22:21:49**
 
 ## Newspaper Stats
 
-*Scraped **41,130** Articles*
+*Scraped **41,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,805
+adaderanalk | 4,806
 tamilmirrorlk | 5,267
 virakesarilk | 6,527
 adaderanasinhalalk | 7,001
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,130 (100.0%) of 41,130 articles have been extended.
+41,130 (100.0%) of 41,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Ferry service between Sri Lanka and India resumes
+
+*2024-08-16 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101295/ferry-service-between-sri-lanka-and-india-resumes) · `en`
+
+The passenger ferry service between Nagapattinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka, which was earlier launched in October 2023, has resumed on Friday (August 16) after repeated delays.
+
+The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed its maiden journey between Nagapattinam and KKS in approximately 4 hours with around 50 passengers on board. The passengers were welcomed at the KKS port by the Consul General of India at Jaffna.
+
+“This resumption of ferry service is a testament to the broader effort to enhance maritime connectivity between India and Sri Lanka,” the Indian High Commission in Sri Lanka said.
+
+In order to make service more affordable for passengers, Government of India has decided to provide financial assistance of over LKR 25 million per month, for a period of one year, to cover relevant charges and operating costs at Nagapattinam port.
+
+...
+
+[Data](articles/000afc01.json)
+
+---
 
 ### Indo-Sri Lanka's first passenger vessel to visit the island
 
@@ -2281,31 +2299,5 @@ Govindan Karunagaram has made such an allegation for political purposes. Remble
 [Data](articles/9341bd88.json)
 
 [Extended Data](ext_articles/9341bd88.ext.json)
-
----
-
-### Chanakyan bought Rs 60 crore from Ranil
-
-*2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலிடமிருந்து-60-கோடி-ரூபாய்-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
-
-Chanakyan, a TNA MP, denies allegations by Relo organization secretary Govindan Karunagaram that he received Rs 60 crore from President Ranil Wickremesinghe. He claims the money is for district development programs, not personal use.
-
-🟩
-
-Relo organization secretary and parliamentarian Govindan Karunagaram alleges that Parliamentarian Ranil Wickremesinghe has personally received Rs 60 crore from President Ranil Wickremesinghe.
-
-However, in response to the allegation, the Sri Lanka Tamil National Alliance (TNA) parliamentarian R. Sanakian said,
-
-He noted that he was awarded a multi -pronged fund for MPs for the District Development Programs.
-
-In view of the proposals made by them, the funds provided by the district are currently undergoing development programs in the district.
-
-Govindan Karunagaram has made such an allegation for political purposes. Remble
-
-◼️
-
-[Data](articles/e4c249f2.json)
-
-[Extended Data](ext_articles/e4c249f2.ext.json)
 
 ---

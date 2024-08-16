@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 11:07:07**
+As of **2024-08-16 11:21:08**
 
 ## Newspaper Stats
 
-*Scraped **41,029** Articles*
+*Scraped **41,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,490
 dailyftlk | 2,664
 adalk | 3,777
 dailymirrorlk | 4,733
-adaderanalk | 4,789
-tamilmirrorlk | 5,245
+adaderanalk | 4,790
+tamilmirrorlk | 5,246
 virakesarilk | 6,497
 adaderanasinhalalk | 6,979
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,028 (100.0%) of 41,029 articles have been extended.
+41,029 (100.0%) of 41,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Daughter of former Thai Prime Minister Thaksin will be nominated as new leader in parliamentary vote
+
+*2024-08-16 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101278/daughter-of-former-thai-prime-minister-thaksin-will-be-nominated-as-new-leader-in-parliamentary-vote) · `en`
+
+Paetongtarn Shinawatra, the daughter of former Thai Prime Minister Thaksin Shinawatra, will be nominated as the country’s new prime minister in a parliamentary vote, her party and its coalition partners said Thursday.
+
+The move follows the removal of former Prime Minister Srettha Thavisin by court order over an ethical violation a day earlier.
+
+Leaders of the 11 party-coalition led by Paetongtarn’s populist Pheu Thai party declared their support for her at a news conference on Thursday after the party’s secretary-general Sorawong Thienthong announced her candidacy.
+
+Paetongtarn thanked her party and the coalition partners for their support, adding she is ready to move the country forward.
+
+“I have confidence in Pheu Thai. I have confidence in all government coalition parties to bring our country out of the economic crisis,” she said. Pheu Thai had campaigned heavily on improving Thailand’s sluggish economy.
+
+...
+
+[Data](articles/8954f6b2.json)
+
+---
+
+### 19ஆம் திகதி supermoon
+
+*2024-08-16 10:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19ஆம்-திகதி-supermoon/175-342274) · `ta`
+
+இந்த ஆண்டின் முதல் முழு நிலவு (supermoon) எதிர்வரும் திங்கட்கிழமை (19) வானில் காணலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+வழக்கத்தைவிட அது இன்னும் அருகில் தோன்றவிருப்பதால் நிலவின் ஒளி அதிகரித்த நிலையில் காணப்படும்.
+
+இரண்டு வெவ்வேறு விண்ணுலக நிகழ்வுகள் நேரும்போது பெரு முழு நிலவு தோன்றுகிறதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/86c19d66.json)
+
+---
 
 ### 34 parties and alliances sign agreement to back Ranil at prez poll
 
@@ -43,6 +79,8 @@ The signing of the agreement was carried out at Waters Edge Hotel in Battaramull
 ◼️
 
 [Data](articles/3802e4b4.json)
+
+[Extended Data](ext_articles/3802e4b4.ext.json)
 
 ---
 
@@ -2211,43 +2249,5 @@ Rajapakse urged the Elections Commission to maintain discipline among candidates
 [Data](articles/f35a4c19.json)
 
 [Extended Data](ext_articles/f35a4c19.ext.json)
-
----
-
-### A powerful earthquake in Taiwan
-
-*2024-08-15 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199971) · `si`
-
-A significant earthquake struck Taiwan, causing widespread damage and concern among residents.
-
-🟩
-
-A powerful earthquake in the province of Taiwan announced the event.
-
-◼️
-
-[Data](articles/2a76e433.json)
-
-[Extended Data](ext_articles/2a76e433.ext.json)
-
----
-
-### Party chairman and secretary remanded over bribe from prez candidate Janaka Ratnayake
-
-*2024-08-15 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/101266/party-chairman-and-secretary-remanded-over-bribe-from-prez-candidate-janaka-ratnayake) · `en`
-
-The Chairman and the Secretary of the “United Lanka Podujana Party” (Eksath Lanka Podujana Pakshaya), who were arrested for allegedly soliciting a bribe from the party’s presidential candidate, former PUCSL chairman Janaka Ratnayake, have been ordered to be remanded until August 27.
-
-Meanwhile, six other suspects arrested in connection with the incident have been ordered released on personal bails of Rs. 2 million each.
-
-It was reported yesterday (14) that a group of officials of the party including its Secretary were arrested by the officers of the Bribery Commission while accepting a bribe of Rs. 30 million from Mr. Ratnayake, the party’s presidential candidate.
-
-The suspects have been arrested based on a complaint lodged by the former PUCSL chairman, on behalf of whom the security deposit was placed last morning as the party’s presidential candidate.
-
-...
-
-[Data](articles/5419bcde.json)
-
-[Extended Data](ext_articles/5419bcde.ext.json)
 
 ---

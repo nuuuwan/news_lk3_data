@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 10:55:02**
+As of **2024-08-16 11:07:07**
 
 ## Newspaper Stats
 
-*Scraped **41,028** Articles*
+*Scraped **41,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,490
 dailyftlk | 2,664
 adalk | 3,777
 dailymirrorlk | 4,733
-adaderanalk | 4,788
+adaderanalk | 4,789
 tamilmirrorlk | 5,245
 virakesarilk | 6,497
 adaderanasinhalalk | 6,979
@@ -26,35 +26,61 @@ adaderanasinhalalk | 6,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,025 (100.0%) of 41,028 articles have been extended.
+41,028 (100.0%) of 41,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### රනිල් ට පක්ෂ හා සන්ධාන 34ක සහාය
+### 34 parties and alliances sign agreement to back Ranil at prez poll
+
+*2024-08-16 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101277/34-parties-and-alliances-sign-agreement-to-back-ranil-at-prez-poll) · `en`
+
+A total of 34 political parties and alliances signed the “Puluwan Sri Lanka” agreement today, expressing their support for President Ranil Wickremesinghe in the upcoming presidential election.
+
+The signing of the agreement was carried out at Waters Edge Hotel in Battaramulla this morning (16).
+
+◼️
+
+[Data](articles/3802e4b4.json)
+
+---
+
+### Ranil supports the support of 34 coals
 
 *2024-08-16 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199993) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් "පුළුවන් ශ්‍රී ලංකා” සම්මුතියට පක්ෂ හා සන්ධාන 34ක් අත්සන් කර තිබේ.
+President Ranil Wickremesinghe signs Sri Lanka's Convention supporting 34 coal parties at the Wateus Edge Hotel in Battaramulla ahead of the next presidential election.
 
-අද (16) පෙරවරුවේ බත්තරමුල්ල වෝටස් එජ් හෝටලයේ දී ඊට අත්සන් තබා ඇත.
+🟩
+
+Sri Lanka 'Convention (34) parties have been signed by President Ranil Wickremesinghe in the next presidential election.
+
+At the Wateus Edge Hotel in Battaramulla today (16) was signed.
 
 ◼️
 
 [Data](articles/fde43c70.json)
 
+[Extended Data](ext_articles/fde43c70.ext.json)
+
 ---
 
-### මහින්ද සහ නාමල් ආශිර්වාද ගන්න යයි
+### Mahinda and Namal to be blessed
 
 *2024-08-16 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199992) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඇතුළු පිරිසක් අද (16) අනුරාධපුර ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැදපුදා ආශිර්වාද ලබාගෙන තිබුණි.
+Namal Rajapaksa and former President Mahinda Rajapaksa received blessings from the Jaya Sri Maha Bodhi.
+
+🟩
+
+Namal Rajapaksa and former President Mahinda Rajapaksa and former President Mahinda Rajapaksa and former President Mahinda Rajapaksa had obtained the blessings of the Jaya Sri Maha Bodhi.
 
 ◼️
 
 [Data](articles/c2985e1a.json)
+
+[Extended Data](ext_articles/c2985e1a.ext.json)
 
 ---
 
@@ -1492,19 +1518,25 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 
 ---
 
-### අපේක්ෂකයන් වැඩිවෙයි - මුද්‍රණ වියදමත් වැඩි වෙයි
+### The candidates increase - printing costs increase
 
 *2024-08-15 20:02:37* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-වැඩිවෙයි---මුද්‍රණ-වියදමත්-වැඩි-වෙයි/11-411403) · `si`
 
-ජනාධිපතිවරණය සඳහා අපෙක්ෂකයන් 39 දෙනෙකු ඉදිරිපත් වීම නිසා මැතිවරණයට අදාළ මුද්‍රණ කටයුතුවලට දැනට ඇස්තමේන්තු කර තිබෙන මුදල ඉහළ යා හැකි බව රජයේ මුද්‍රණාලයේ සේවකයෝ සඳහන් කරති.
+With 39 candidates in the upcoming presidential election, the government printing press anticipates increased printing costs due to the higher number of names to print on each ballot paper, similar to the 2019 election where 26-inch ballots were used for 39 candidates.
 
-2019 වසරේ පැවැති ජනාධිපතිවරණයට අදාළව අපෙක්ෂකයන් 35 ක් ඉදිරිපත් වූ අතර මෙම ප්‍රමාණය මෙවරද ඉදිරිපත්  විය හැකි බවට අනුමාන කර මුද්‍රණ වියදම් ලෙස රුපියල් මිලියන අටසීයක මුදලක් වැයවෙතැයි ගණන් බලා තිබුණි.
+🟩
 
-එවර මැතිවරණයේදි අඟල් 26 ක ඡන්ද පත්‍රිකාවක් සකස් කර තිබු අතර මෙවර අපේක්ෂකයන් 39 ක් ඉදිරිපත් වී සිටින නිසා මුද්‍රණ වියදම් ඉහළ යාම සිදුවේ.
+The employees of the government printing press states that there will be 39 stresses for the presidential election.
+
+The 2019 presidential election was raised in the 2019 presidential election.
+
+In the last election, a 26-inch ballot papers were prepared and 39 candidates were presenting.
 
 ◼️
 
 [Data](articles/10267074.json)
+
+[Extended Data](ext_articles/10267074.ext.json)
 
 ---
 
@@ -2217,25 +2249,5 @@ The suspects have been arrested based on a complaint lodged by the former PUCSL 
 [Data](articles/5419bcde.json)
 
 [Extended Data](ext_articles/5419bcde.ext.json)
-
----
-
-### United Ceylon Public Party Chairman and Secretary remanded
-
-*2024-08-15 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199970) · `si`
-
-The Chairman and Secretary of the United Ceylon Public Party were remanded after being arrested as suspects linked to the United Lanka Commonwealth presidential candidate. The court released six other suspects on personal bail of Rs. 20 million.
-
-🟩
-
-The party chairman and secretary was arrested for the suspects to be arrested in charge of the United Lanka Commonwealth presidential candidate of the United Lanka.
-
-The court has also set to release 6 other suspects arrested on the incident on personal bail of Rs. 20 million.
-
-◼️
-
-[Data](articles/c5230791.json)
-
-[Extended Data](ext_articles/c5230791.ext.json)
 
 ---

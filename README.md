@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 15:21:13**
+As of **2024-08-16 15:36:46**
 
 ## Newspaper Stats
 
-*Scraped **41,072** Articles*
+*Scraped **41,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
-adaderanalk | 4,795
-tamilmirrorlk | 5,257
+adaderanalk | 4,796
+tamilmirrorlk | 5,258
 virakesarilk | 6,510
 adaderanasinhalalk | 6,986
 
@@ -26,23 +26,65 @@ adaderanasinhalalk | 6,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,069 (100.0%) of 41,072 articles have been extended.
+41,072 (100.0%) of 41,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### குமார் வெல்கம, பௌசி ரணிலுக்கு ஆதரவு
+### Thousands in Japan’s eastern region ordered to evacuate as Typhoon Ampil approaches
+
+*2024-08-16 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101285/thousands-in-japans-eastern-region-ordered-to-evacuate-as-typhoon-ampil-approaches) · `en`
+
+Japan grounded hundreds of flights and urged tens of thousands of people to evacuate in the eastern parts of the country on Friday, as a strong typhoon caused power blackouts in the middle of a major summer holiday week.
+
+Typhoon Ampil, categorised as “very strong” by the Japan Meteorological Agency (JMA), was situated off the Pacific coast of Japan’s main island at 3 p.m. (0600 GMT). The agency has two higher categories - “very strong” and “violent”.
+
+The typhoon is expected to get close to the eastern region of Kanto, which includes the capital Tokyo, on Friday evening.
+
+Ampil has wind speeds of 45 metres per second with maximum gust of 60 metres per second (216 kph/134 mph), according to the JMA.
+
+“The Kanto region is expected to experience fierce winds that could cause injuries from flying debris or even overturn trucks in motion,” the JMA warned on its website.
+
+...
+
+[Data](articles/aad62366.json)
+
+---
+
+### “பார் உரிமம் கலாசாரம் நம்மிடம் இல்லை”
+
+*2024-08-16 15:16:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-உரிமம்-கலாசாரம்-நம்மிடம்-இல்லை/175-342286) · `ta`
+
+நாடு தற்போது இயல்பு நிலையில் இருப்பதாக ஜானாதிபதி  கூறினாலும்,நாட்டில் உருவாகியிருப்பது புதியதொரு   நிலையாகும். இதனால் நாட்டு மக்கள்  தொழில்களை இழந்து, ஜீவனோபாயத்தினை இழந்து வறுமை நிலைக்கு தள்ளப்பட்டுள்ளதன் காரணமாக மக்கள் பெரும் கவலையில் இருக்கின்றனர். மக்களின் நுகர்வு, முதலீடு, சேமிப்பு மற்றும் உற்பத்தி ஆகியவை இல்லாமால் போயுள்ள காரணத்தினால் நாட்டின் ஏற்றுமதி பாரியளவு வீழ்ச்சியடைந்துள்ளது. இக்காரணத்தால் நாட்டின் புதியதொரு இயல்புநிலை உருவாகியுள்ளது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+மக்களின் வாழ்வாதாரத்தை குறைத்து , பணத்தினை சட்டைப் பைகளில் அடைத்து, செலவழிக்க முடியாதொரு நிலை உருவாகியுள்ளது. நாட்டை நாசமாக்கி, அதளபாதாளத்திற்கு கொண்டுசென்றுள்ள  ஒரு சாதாரண நிலையே நாட்டில் நிலவி வருகிறது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  தெரிவித்தார்.
+
+கண்டி மல்வத்த மற்றும் அஸ்கிரி பீட மகா நாயக்க தேரரை வௌ்ளிக்கிழமை (16)  சந்தித்து ஆசிர்வாதம் பெற்றுக் கொண்டதன் பிற்பாடு   ஊடகங்களுக்கு கருத்துத்  தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/bdf66afd.json)
+
+---
+
+### Kumar Welgama, Bausi Ranil support
 
 *2024-08-16 14:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-பௌசி-ரணிலுக்கு-ஆதரவு/175-342285) · `ta`
 
-ஜனாதிபதி தேர்தலில் சுயேட்சையாக போட்டியிடும் ஐக்கிய தேசியக் கட்சியின் தலைவரான ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு, ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான குமார் வெல்கம மற்றும் ஏ.எச்.எம் பௌசி ஆகியோர் ஆதரவளித்துள்ளனர்.
+Ranil Wickremesinghe supports Kumar Welgama and AHM Fouzi, both held at a hotel event themed "Sri Lanka." 34 parties signed a MOU.
 
-இவர்கள், இருவரும், பத்தரமுல்ல ​வோட்ட​ர்​சேஜ் ஹோட்டலில் ​“இலங்கையால் முடியும்” என்ற தொனிப்பொருளில் விசேட நிகழ்ச்சி நடைபெற்றது. இதில் நடைபெற்ற புரிந்துணர்வு ஒப்பந்தத்தில் 34 கட்சிகள் கையொப்பமிட்டனர்.
+🟩
+
+President Ranil Wickremesinghe, the leader of the United National Party (UNP), who is contesting the presidential election, has supported the United People's Power MP Kumar Welgama and AHM Fouzi.
+
+Both of them were held at the Battaramulla Votar Saj Hotel under the theme "Sri Lanka.". 34 parties signed the Memorandum of Understanding.
 
 ◼️
 
 [Data](articles/0d2dd29e.json)
+
+[Extended Data](ext_articles/0d2dd29e.ext.json)
 
 ---
 
@@ -112,21 +154,27 @@ Nishanga Bandula Karunaratne, who served as the Chairman of the Court of Appeal,
 
 ---
 
-### සාවද්‍ය පුවතක් ගැන සජබයෙන් නිවේදනයක්
+### Announcement on a falsephone
 
 *2024-08-16 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200000) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සමගි ජන සන්ධානය හා එක්ව ඇතැයි පැවසෙන පුවත සාවද්‍ය බව සමගි ජන බලවේගයේ මාධ්‍ය ප්‍රකාශක එස්. එම්. මරික්කාර් මහතා පවසයි.
+Mr. Marikkar announced that the reconciliation force doesn't require the former President's help. He criticized the government's propaganda, highlighting its spread of false news and social media misinformation. The government is encouraging citizens to monitor media activities of all candidates, especially those challenging during the election season.
 
-සමගි ජන බලවේගය වෙනුවෙන් නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, හිටපු ජනාධිපතිවරයා සමග සන්ධානගත වීමක් හෝ එවැනි සහායක් හෝ ලබාගැනීමට සමගි ජන සන්ධානයට අවශ්‍යතාවයක් නොමැති බවය.
+🟩
 
-එළැඹෙන ජනාධිපතිවරණයේ දී නියත පරාජය හමුවේ වියරු වැටී සිටින ආණ්ඩුවට හිතවාදී ප්‍රචාරක කණ්ඩායම් විසින් අසත්‍ය පුවත් නිර්මාණය කර, ජනමාධ්‍ය හා සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය කරන වැඩපිළිවෙලක නිරත වන බව ද මරික්කාර් මහතා අවධාරණය කරයි.
+Media Spokesman S. Summary of the Power Spokesman S.. M. Mr. Marikkar says.
 
-මෙම මැතිවරණ කාලසීමාව තුළ සියලු පක්ෂයන්ට අභියෝගයක් වී ඇති සමගි ජන සන්ධානයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට එරෙහිව ආණ්ඩුව සහ ඔවුන් සමග ඩීල් දේශපාලනයේ නිරත සියලු අපේක්ෂකයින්ගේ මාධ්‍ය මෙහෙයුම් පිළිබඳ විමසිලිමත්ව බුද්ධියෙන් ග්‍රහණය කරගන්නා ලෙස  සමගි ජන බලවේගය ජනතාවගෙන් ඉල්ලා සිටී.
+He made announcement for the reconciliation force and there is no need for the former President or to obtain such assistance.
+
+Marikkar emphasizes that a program is being propagated by the government's propaganda team by the government's propaganda campaigns, considering false news and social media.
+
+The government urges the public to capture the media operations of all the candidates who have been in Caroling, who is challenging to all parties during this election period.
 
 ◼️
 
 [Data](articles/783ef452.json)
+
+[Extended Data](ext_articles/783ef452.ext.json)
 
 ---
 
@@ -194,21 +242,27 @@ This appointment has been made until the President of the Court of Appeal Justic
 
 ---
 
-### වැඩබලන අභියාචනාධිකරණ සභාපති පත් කෙරේ
+### Acting Court of Appeal will be appointed
 
 *2024-08-16 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199999) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වැඩබලන අභියාචනාධිකරණ සභාපතිවරයා වශයෙන් අභියාචනාධිකරණ විනිසුරු ආර්. එම්. සෝභිත රාජකරුණා මහතා පත්කර තිබේ.
+The Acting Court of Appeal has been established with President Ranil Wickremesinghe as its chairman. M. Sobhitha Rajakaruna has been appointed as a judge and sworn in by the President. Nissanka Bandula Karunaratne, former President of the Court of Appeal, has been appointed elsewhere. Secretary Saman Ekanayake attended the event.
 
-ඒ අනුව ආර්. එම්. සෝභිත රාජකරුණා මහතා අද (16) පෙරවරුවේ වැඩබලන අභියාචනාධිකරණ සභාපතිවරයා වශයෙන් ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+🟩
 
-අභියාචනාධිකරණ සභාපති විනිසුරු ලෙස කටයුතු කළ නිශ්ශංක බන්දුල කරුණාරත්න මහතා දිවයිනෙන් බැහැරවීම හේතුවෙන් ඒ මහතා නැවත දිවයිනට පැමිණෙන තෙක් මෙම පත්කිරීම සිදුකර ඇත.
+President Ranil Wickremesinghe president as chairman of the Acting Court Judge. M. Mr. Sobhitha Rajakaruna has been appointed.
 
-ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද මෙම අවස්ථාවට එක්ව සිටියේය.
+Accordingly the r. M. Sobhitha Rajakaruna was sworn in before the Presidential Secretariat today (16) before President Ranil Wickremesinghe at the Presidential Secretariat this morning.
+
+Nissanka Bandula Karunaratne, who was the President of the Court of Appeal, has been appointed as the island due to the exclusion of the island.
+
+Secretary to the President Saman Ekanayake was also present at the occasion.
 
 ◼️
 
 [Data](articles/cb5e8519.json)
+
+[Extended Data](ext_articles/cb5e8519.ext.json)
 
 ---
 
@@ -2167,49 +2221,5 @@ The Commissioner and Professor, the Commissioner and Professor. The sub -committ
 [Data](articles/65abac41.json)
 
 [Extended Data](ext_articles/65abac41.ext.json)
-
----
-
-### 2024-08-15 (Thursday)
-
-### Rs.. Mango auction for 2,85,000
-
-*2024-08-15 23:50:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-85-000-க்கு-மாம்பழம்-ஏலம்/175-342255) · `ta`
-
-During the Sri Siddha Vinayagar Temple's annual festival in Vavuniya, a mango was auctioned for a record-breaking Rs 2,85,000.
-
-🟩
-
-During the annual festival of Sri Siddha Vinayagar Temple in Vavuniya, a mango bid for Rs 2,85,000.
-
-◼️
-
-[Data](articles/84048213.json)
-
-[Extended Data](ext_articles/84048213.ext.json)
-
----
-
-### Anger for Geeta
-
-*2024-08-15 23:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கீதாவுக்கு-கோபம்/175-342254) · `ta`
-
-Mrs. Geeta Kumarasinghe, Child and Women's Affairs Minister, expressed disappointment over low female representation in Sri Lanka's presidential election, highlighting that despite claims of gender equality, women's representation remains under 6% in parliament. She urged political leaders to prioritize women's rights, criticizing the lack of female candidates in the recent elections as insufficient.
-
-🟩
-
-Child and Women's Affairs Minister Mrs. Geeta Kumarasinghe said that no matter how many candidates contested the presidential election, it is very sad that women's representation is very sad.
-
-State Minister Geeta Kumarasinghe said this while addressing a special media briefing held in Colombo on Thursday (15).
-
-The Minister of State said that even in parliament, the party's representation in parliament is less than 6 per cent, though party leaders proudly claim that women should be given a place and equal place.
-
-The diplomatic minister said that all party leaders should be more concerned about women's rights in a country, and that this time the list of presidential candidates who are not represented is like a paddle boat.
-
-◼️
-
-[Data](articles/dcd31849.json)
-
-[Extended Data](ext_articles/dcd31849.ext.json)
 
 ---

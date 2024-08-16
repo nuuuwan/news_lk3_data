@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 01:06:22**
+As of **2024-08-17 01:21:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,150 (100.0%) of 41,155 articles have been extended.
+41,155 (100.0%) of 41,155 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ He said that the reports of Sirisena joining forces with the SJB are entirely fa
 
 [Data](articles/1b013f52.json)
 
+[Extended Data](ext_articles/1b013f52.ext.json)
+
 ---
 
 ### SLMC MP Moulana backs President
@@ -67,6 +69,8 @@ Moulana has been active in politics since 1988 and was first elected to Parliame
 ◼️
 
 [Data](articles/0c6dc843.json)
+
+[Extended Data](ext_articles/0c6dc843.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ Speaking at the inaugural rally launching Premadasa’s election campaign in Kur
 
 [Data](articles/1c8ce011.json)
 
+[Extended Data](ext_articles/1c8ce011.ext.json)
+
 ---
 
 ### Ferry service between Nagapattinam and Kankesanthurai resumes
@@ -108,21 +114,29 @@ In order to make the service more affordable for passengers, the Government of I
 
 [Data](articles/f919cf60.json)
 
+[Extended Data](ext_articles/f919cf60.ext.json)
+
 ---
 
-### ’தடுப்பூசி உற்பத்திகளை விரைவுபடுத்துக’
+### Costly speed the products vaccine products
 
 *2024-08-17 00:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-உற்பத்திகளை-விரைவுபடுத்துக/175-342309) · `ta`
 
-எம்பொக்ஸ் நோய்த் தடுப்பூசிகள் உற்பத்தி செய்யும் செயற்பாடுகளை விரைவுபடுத்துமாறு உலக சுகாதார ஸ்தாபனம், விடயத்துடன் தொடர்புடைய நிறுவனங்களை அறிவுறுத்தியுள்ளது.
+The WHO has declared a health emergency due to the spread of Empox virus across 13 African nations, advising vaccine-related companies to expedite production.
 
-எம்பொக்ஸ் நோய் தாக்கம் அதிகரித்துள்ள நிலையில் உலக சுகாதார ஸ்தாபனம் அதனை உலக பொது சுகாதார அவசரகால நிலையாக பிரகடனப்படுத்தியுள்ள நிலையில் இவ் அறிவுறுத்தலையும் விடுத்துள்ளது.
+🟩
 
-எம்பொக்ஸ் என்ற குரங்கு காய்ச்சலானது ஆபிரிக்க கண்டத்தின் 13 நாடுகளில் பரவியுள்ளதாக அந்த ஸ்தாபனம் தெரிவித்துள்ளது. (a)
+The World Health Organization has advised companies related to the issue of Empox's vaccines.
+
+The World Health Organization has issued this instruction as the World Health Organization has declared it as a state of emergency as the Empox's disease has increased.
+
+The establishment reported that the monkey fever, Embox, spreads in 13 countries of the African continent. (A)
 
 ◼️
 
 [Data](articles/b8aa659b.json)
+
+[Extended Data](ext_articles/b8aa659b.ext.json)
 
 ---
 

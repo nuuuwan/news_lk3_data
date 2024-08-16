@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 17:21:38**
+As of **2024-08-16 17:36:50**
 
 ## Newspaper Stats
 
-*Scraped **41,087** Articles*
+*Scraped **41,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,74 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,780
 dailymirrorlk | 4,733
-adaderanalk | 4,799
+adaderanalk | 4,800
 tamilmirrorlk | 5,261
-virakesarilk | 6,510
-adaderanasinhalalk | 6,991
+virakesarilk | 6,514
+adaderanasinhalalk | 6,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,086 (100.0%) of 41,087 articles have been extended.
+41,087 (100.0%) of 41,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### මෙරට විශ්‍රාමික හමුදා නිලධාරින් පිරිසක් යුක්‍රේන ආරක්ෂක අංශ භාරයට
+### දික්වැල්ල වරදකරු වෙයි
+
+*2024-08-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200007) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ල තහනම් උත්තේජක නීති උල්ලංඝනය කිරීමේ චෝදනාවට වරදකරු වී තිබේ.
+
+2024 ලංකා ප්‍රිමියර් ලීග් (LPL) තරගාවලිය අතරතුර සිදුකළ තහනම් උත්තේජක පරීක්ෂණයකදී ඒ බව හෙළිවී ඇත.
+
+◼️
+
+[Data](articles/f862de16.json)
+
+---
+
+### Ukrainian security depends in Sri Lanka
 
 *2024-08-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200006) · `si`
 
-රුසියානු යුද්ධයට ගිය ශ්‍රී ලාංකික විශ්‍රාමික හමුදා සාමාජිකයින් 05 දෙනෙකු යුක්‍රේන ආරක්ෂක අංශ භාරයට ගෙන තිබේ.
+Five retired Sri Lankan military personnel from the Russian war were detained by Ukrainian security forces upon entering Russia. The Ukrainian government notified the Sri Lankan embassy in Turkey about this incident. Measures are being taken to inform family members and diplomatic efforts are underway for their release.
 
-විදේශ කටයුතු අමාත්‍යංශය පැවසුවේ යුක්‍රේන රජය විසින් තුර්කියේ පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයට මේ සම්බන්ධයෙන් නිල දැනුම්දීමක් සිදුකර ඇති බවය.
+🟩
 
-රුසියානු දේශසීමා හරහා යුක්‍රේනයට ඇතුළු වීමේදී මොවුන් මෙලෙස යුක්‍රේන ආරක්ෂක අංශ භාරයට ගෙන ඇති බව පැවසෙයි.
+Five Sri Lankan retirement army soldiers from the Russian war have been taken into custody.
 
-මේ සම්බන්ධයෙන් විදේශ කටයුතු අමාත්‍යංශය විසින් අදාළ ශ්‍රී ලාංකිකයින්ගේ ඥාතීන් දැනුවත් කිරීමට ද පියවර ගෙන ඇත.
+The External Affairs Ministry said that the Ukrainian government had officially had an official notification for the Sri Lankan embassy in Turkey.
 
-යුක්‍රේන ආරක්ෂක අංශ භාරයට ගත් ශ්‍රී ලාංකිකයින් 5 දෙනා මුදා ගැනීම සදහා අවශ්‍ය මැදිහත්වීම සිදුකරන බවද විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+They are said to be taken into custody by the Ukrainian security forces during their entering the Russian borders.
+
+Steps have also been taken to educate the relatives of Sri Lankans in this regard.
+
+The Ministry of External Affairs says that the necessary mediation is being carried out for the release of the five Sri Lankans taken into the Ukrainian defense sector.
 
 ◼️
 
 [Data](articles/63f7a620.json)
+
+[Extended Data](ext_articles/63f7a620.ext.json)
+
+---
+
+### Niroshan Dickwella found guilty of doping violation
+
+*2024-08-16 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101289/niroshan-dickwella-found-guilty-of-doping-violation) · `en`
+
+Sri Lankan cricketer Niroshan Dickwella has been found guilty of a doping violation during the recent Lanka Premiere League (LPL).
+
+This has reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
+
+Meanwhile, sources said that Dickwella has been suspended from all forms of cricket due to the alleged doping violation.
+
+◼️
+
+[Data](articles/dde22b55.json)
 
 ---
 
@@ -68,6 +104,18 @@ Accordingly, the Election Commission has issued electoral symbols to 17 independ
 
 ---
 
+### ரணிலுடன் இணைந்தார் அலி சாஹிர் மௌலானா
+
+*2024-08-16 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191238) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பாராளுமன்ற உறுப்பினர் அலி சாஹிர் மௌலானா ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணைந்து எதிர்வரும் ஜனாதிபதி தேர்தலுக்கு ஆதரவை வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/385674d4.json)
+
+---
+
 ### Ali Sahir joined Ranil
 
 *2024-08-16 16:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சாஹிர்/175-342289) · `ta`
@@ -83,6 +131,18 @@ UNP sources said that Opposition MP Ali Zahir Maulana met President Ranil Wickre
 [Data](articles/aabff9fe.json)
 
 [Extended Data](ext_articles/aabff9fe.ext.json)
+
+---
+
+### நாமலை களமிறக்கியதால் ராஜபக்ச குடும்பத்துக்குள் ஏற்பட்டுள்ள முறுகல்…!
+
+*2024-08-16 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191235) · `ta`
+
+பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக வர்த்தகரும் எம்.பியுமான தம்மிக்க பெரேராவே  பெயரிடப்படுவார் என்றே ஆரம்பத்திலிருந்து நம்பப்பட்டு வந்தது. கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் பல சந்தர்ப்பங்களில் அதை வெளிப்படுத்தியிருந்தார். அதற்கு மகிந்த தரப்பிலிருந்து எவரும் மறுப்பையும் தெரிவிக்கவில்லை.   பொதுஜன பெரமுன தமது கட்சியிலிருந்தே ஒருவரை தெரிவு செய்யும் என்றும் அவர் யார் என்பதை 7 ஆம் திகதி அறிவிப்போம் என்றும் கட்சித் தரப்பில் கூறப்பட்டது. அப்போது வரை வேட்பாளர் தம்மிக்க தான் என்பதும் உறுதியாகியிருந்தது.  எனினும் 6 ஆம் திகதி தனிப்பட்ட காரணங்களுக்காக தான் இதிலிருந்து விலகிக்கொள்வதாக தம்மிக்க  பொதுஜன பெரமுனவின் செயலாளருக்கு கடிதம் அனுப்பி விட்டார். வேறு வழியின்றி மகிந்த தனது அரசியல் வாரிசான நாமல் ராஜபக்சவை களமிறக்கி விட்டார். எனினும் நாமலை மகிந்த களமிறக்கியமைக்கு கோட்டாபயவைத் தவிர பஸில், சமல் மற்றும் சமலின் மகன் சசீந்திர ஆகியோர் தமது அதிருப்தியை வெளிப்படுத்தியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/a90c963c.json)
 
 ---
 
@@ -144,6 +204,22 @@ Accordingly, the people have been allowed to go to the temple every Friday from 
 
 ---
 
+### சேருவில தங்கநகர் யுவதி கொலை ; வழக்கு விசாரணையில் இருவருக்கு பிணை
+
+*2024-08-16 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191227) · `ta`
+
+படுகொலை செய்யப்பட்ட தங்கநகர் யுவதியின் கொலைமீதான வழக்கு விசாரணை  மூதூர் நீதிமன்ற நீதிபதி திருமதி தஸ்னீம் முகமட் பௌசான் முன்னிலையில் விசாரணைக்காக இன்று வெள்ளிக்கிழமை  (16) எடுத்துக் கொள்ளப்பட்டது.
+
+இதன்போது குறித்த கொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரின் சகோதரியான 7ஆம் எதிராளி மற்றும் 4ஆம் எதிராளிகளுக்கு பிணை வழங்கியும், ஏனைய 5 சந்தேகநபர்களுக்கு விளக்கமறியலை மேலும் 14 நாட்கள் நீடித்தும் உத்தரவிட்டுள்ளார்.
+
+குறித்த வழக்கானது இன்றைய தினம்  மூன்றாவது தடவையாக மூதூர் நீதவான் நீதிமன்றில் வழக்கு விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது. இதன்போது எதிரிகள் சார்பில் முன்வைத்த பிணை விண்ணப்பத்தை ஆராய்ந்த நீதிபதி குறித்த தரப்பினரிடம் மேற்கொள்ளப்பட்ட விசாரணையின் அடிப்படையில்  கொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரான காதலனின் சகோதரியான 7ஆம் எதிராளியையும், ஜே.சி.பி இயந்திரத்தின் தரகரான 4ஆம் எதிராளியையும் பிணையில் விடுவிக்க உத்தரவிட்டதோடு ஏனைய 5 பேரையும் விசாரணைக்கு உட்படுத்தும் முகமாக விளக்கமறியலை எதிர்வரும் 30ஆம் திகதிவரை நீடித்தும் கட்டளை பிறப்பித்திருந்தார்.
+
+...
+
+[Data](articles/021b0350.json)
+
+---
+
 ### Here is the votes of independent candidates
 
 *2024-08-16 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200004) · `si`
@@ -181,6 +257,26 @@ Therefore, Marikkar urged the public to be vigilant of such misinformation, emph
 [Data](articles/b22055fd.json)
 
 [Extended Data](ext_articles/b22055fd.ext.json)
+
+---
+
+### 4 இந்திய தேசிய திரைப்பட விருதுகளை குவித்த பொன்னியின் செல்வன்
+
+*2024-08-16 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191229) · `ta`
+
+இந்திய தேசிய திரைப்பட விருதுகள் இன்று வெள்ளிக்கிழமை (16) அறிவிக்கப்பட்டன. சிறந்த தமிழ் திரைப்படமாக, மணிரத்னம் தயாரித்து இயக்கிய பொன்னியின் செல்வன் பாகம் 1 தெரிவு செய்யப்பட்டது. இந்த படத்துக்கு 4 விருதுகள் அறிவிக்கப்பட்டுள்ளன.
+
+கடந்த 2022ம் ஆண்டுக்கான இந்திய தேசிய திரைப்பட விருதுகள் இன்றைய தினம் டில்லியில் அறிவிக்கப்பட்டன.
+
+*சிறந்த பின்னணி இசை - ஏ.ஆர்.ரகுமான் (பொன்னியின் செல்வன் 1) 7வது தேசிய விருதை பெறுகிறார்.
+
+* சிறந்த திரைப்பட புத்தகம் - கிஷோர் குமாரின் வாழ்க்கை வரலாறு புத்தகம்
+
+* சிறந்த பாடகர் - பிரம்மாஸ்திரா படத்துக்காக கேசரியா பாடலை பாடிய அர்ஜித் சிங்குக்கு
+
+◼️
+
+[Data](articles/0da7957a.json)
 
 ---
 
@@ -2109,137 +2205,5 @@ Union Bank announced the appointment of Dilshan Rodrigo as its new Director/Chie
 [Data](articles/26a33ee3.json)
 
 [Extended Data](ext_articles/26a33ee3.ext.json)
-
----
-
-### The resulting impacts of the shock of the rebellion of the South Asian population;Lessons for India
-
-*2024-08-16 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191184) · `ta`
-
-India faces significant challenges in navigating political upheavals across South Asia, highlighted by events like the overthrow of governments in Myanmar, Afghanistan, Pakistan, Sri Lanka, Nepal, and Bangladesh. These events underscore the need for India to adopt a more nuanced diplomatic approach, engaging with a broader range of political actors and avoiding alignment with specific factions. Lessons learned include the importance of understanding local dynamics, supporting democratic processes, and maintaining relationships with all political stakeholders, regardless of their stance towards India. Additionally, India must balance its geopolitical interests with its commitment to regional cooperation and avoid being drawn into conflicts between larger powers.
-
-🟩
-
-Since the beginning of this decade, India has been shocking together after its abroad events.
-
-The conspiracy in Myanmar in 2021 and the reign of the Taliban again in Afghanistan. Prime Minister Imran was overthrown in Pakistan in 2022. President Gotabhaya Rajapakse was chased away from power due to the agitation of the people in Sri Lanka.
-
-The fall of the coalition government in Nepal had the same impact, while the President Soli government defeated the Maldivian elections with close ties with India.. Prime Minister Olayi's government, which has the lowest friendship with India.
-
-Next, the Bangladesh People's Rebellion has suddenly chased Prime Minister Sheikh Hasina from office. He has fled to India. Based on how India has been greatly confident on the Hasina government, India can realize the shock of India.
-
-India has stumbled on how to have ties with those who take office after Hasina.
-
-...
-
-[Data](articles/069ea2eb.json)
-
-[Extended Data](ext_articles/069ea2eb.ext.json)
-
----
-
-### Strong 1H 2024 performance from Nations Trust Bank
-
-*2024-08-16 03:46:00* · [`islandlk`](http://island.lk/strong-1h-2024-performance-from-nations-trust-bank/) · `en`
-
-Nations Trust Bank PLC reported a strong performance in the first half of 2024, achieving a Profit After Tax (PAT) of LKR 8 Bn, up 31% YoY.
-
-Commenting on the results, Hemantha Gunetilleke, Director & Chief Executive Officer of Nations Trust Bank said “The Bank recorded a strong first half, highlighting continued growth across our customer segments. The Bank’s strong capital base, healthy liquidity buffers, robust risk management models and continued focus on digital empowerment are the fundamental strengths that continue to drive the Bank’s performance”
-
-The bank’s financial performance is supported by its strong capital position, with Tier I Capital at 16.62% and a Total Capital Adequacy Ratio of 17.83%, well above the regulatory requirements of 8.5% and 12.5%, respectively.
-
-A strong liquidity buffer was maintained with a Liquidity Coverage Ratio of 298% against the regulatory requirement of 100%.
-
-...
-
-[Data](articles/c0fae6cd.json)
-
-[Extended Data](ext_articles/c0fae6cd.ext.json)
-
----
-
-### HNB Group records Rs 16.2 Bn in PAT for 6 months
-
-*2024-08-16 03:45:00* · [`islandlk`](http://island.lk/hnb-group-records-rs-16-2-bn-in-pat-for-6-months/) · `en`
-
-Hatton National Bank PLC posted a profit before tax of Rs 25.8 Bn and a profit after tax of Rs 15.4 Bn during the six months ended June 2024. The Group recorded a consolidated PBT and PAT of Rs 27.0 Bn and Rs 16.2 Bn, respectively for the period.
-
-Commenting on the performance Chairman Nihal Jayawardene stated that “Sri Lanka has come a long way since the devastating economic crisis, and has taken steady steps towards stabilization. While uncertainties and challenges prevail, we reiterate our commitment to deliver sustainable growth for all our stakeholders”.
-
-...
-
-[Data](articles/061db2b3.json)
-
-[Extended Data](ext_articles/061db2b3.ext.json)
-
----
-
-### Bourse on recovery track but turnover yet to pick up
-
-*2024-08-16 03:41:00* · [`islandlk`](http://island.lk/bourse-on-recovery-track-but-turnover-yet-to-pick-up/) · `en`
-
-The share market showed some indications of picking-up yesterday. The All- Share Price Index went up by 121.5 points while S and P SL20 rose by 43.8 points. Turnover stood at Rs 776 million with one crossing. The crossing was reported in Melstacope, which crossed 250,000 shares the tune of Rs 20.2 million; its shares traded at Rs 81.
-
-In the retail market top seven companies that mainly contributed to the turnover were; Melstacope Rs 74.9 million (924,000 shares traded), HNB Rs 66.3 million (365,000 shares traded), Lanka Milk Foods Rs 39.3million (1.4 million shares traded), Hayley’s Fabrics Rs 38.8 million (784,000 shares traded), Access Engineering Rs 38 million (1.7 million shares traded), CTC Rs 36.7 million (29000 shares traded) and Dialog Axiata Rs 35.5 million (3.9 million shares traded). During the day 30.8 million share volumes changed hands in 9000 transactions.
-
-...
-
-[Data](articles/ea16e237.json)
-
-[Extended Data](ext_articles/ea16e237.ext.json)
-
----
-
-### TNA should make a rapid decision on Tamil candidate affairs - CV Vigneswaran
-
-*2024-08-16 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191183) · `ta`
-
-CV Vigneswaran urges TNA to swiftly decide on Tamil candidate, emphasizing the importance of unity among Tamils for the upcoming elections. He highlights the need for a clear stance without party conflicts, advocating for all Tamils to support P. Ariyaderan, seen as a symbol of the Tamil people. Despite majority support within the Sri Lanka Tamil National Party, a decision remains pending due to objections from minority parties.
-
-🟩
-
-All Tamils ​​have to vote for the Tamil people who are the symbol of the Tamil people.
-
-"I am humbled by the Tamil People's Alliance (TNA) leader and Member of Parliament CV Vigneswaran," he said.
-
-He was speaking to the media after the nomination papers held on Thursday (15) at the Elections Commission.
-
-Tamil general candidate P. Ariyaderan is contesting in the Sangu symbol. The presidential election should be thought of on behalf of the Tamil people without thinking. This is a must.
-
-To make a decision about the future of the Tamil people without being conflicted with the party. 89 party parties have chosen PA Ariendran as a symbol of the Tamil people. It is no longer necessary to talk about him or his party.
-
-All the Tamil people should vote for Ariyaderan, who is a symbol of the Tamil people. It is sad that the Sri Lankan TNA does not make a firm decision on the Tamil candidate issue.
-
-...
-
-[Data](articles/a7bf9716.json)
-
-[Extended Data](ext_articles/a7bf9716.ext.json)
-
----
-
-### Not competing for success;I am competing to strengthen the unity of Tamils ​​- Pa.
-
-*2024-08-16 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191182) · `ta`
-
-The individual stated they are not running for office but aiming to bolster Tamil unity. They mentioned no discussions with Sinhala state leaders due to past failures, opting for a separate contest. No talks with President Ranil Wickremesinghe, only with a party representing the Tamil public. An election manifesto is forthcoming, along with campaigns seeking support from Sri Lankan Tamils, emphasizing success as a model for the state.
-
-🟩
-
-"I am not contesting the election," he said.
-
-He was speaking to the media after the nomination papers held on Thursday (16) at the Elections Commission.
-
-Sinhala state leaders are not in talks, past negotiations have failed. This is why we have come up with a separate competition this time.
-
-We are not negotiating with President Ranil Wickremesinghe. A party of the Tamil public structure is in talks. The ideas are presented and considered.
-
-We will release our election manifesto soon. We will also carry out election campaigns. We are looking for the cooperation of the Tamil people living in Sri Lanka. He said our success would be an example of the state.
-
-◼️
-
-[Data](articles/7b5106c1.json)
-
-[Extended Data](ext_articles/7b5106c1.ext.json)
 
 ---

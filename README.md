@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 14:36:44**
+As of **2024-08-16 14:55:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,060 (100.0%) of 41,062 articles have been extended.
+41,062 (100.0%) of 41,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ As a result, the trains running past Demodara railway station will possibly expe
 
 [Data](articles/f65e5deb.json)
 
+[Extended Data](ext_articles/f65e5deb.ext.json)
+
 ---
 
 ### Acting President appointed to Court of Appeal
@@ -59,6 +61,8 @@ Accordingly, Justice Rajakaruna took oath as the Acting President of the Court o
 ◼️
 
 [Data](articles/2a87ef98.json)
+
+[Extended Data](ext_articles/2a87ef98.ext.json)
 
 ---
 

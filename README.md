@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 18:28:09**
+As of **2024-08-16 18:39:03**
 
 ## Newspaper Stats
 
-*Scraped **41,103** Articles*
+*Scraped **41,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,782
 dailymirrorlk | 4,733
-adaderanalk | 4,800
+adaderanalk | 4,802
 tamilmirrorlk | 5,261
 virakesarilk | 6,519
 adaderanasinhalalk | 6,995
@@ -26,61 +26,113 @@ adaderanasinhalalk | 6,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,097 (100.0%) of 41,103 articles have been extended.
+41,103 (100.0%) of 41,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### විශ්මි ගුණරත්නගෙන් වාර්තාවක්
+### Niroshan Dickwella suspended from all forms of cricket
+
+*2024-08-16 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101291/-niroshan-dickwella-suspended-from-all-forms-of-cricket) · `en`
+
+Sri Lankan cricketer Niroshan Dickwella has been suspended from participating in all forms of cricket with immediate effect until further notice due to an alleged anti-doping violation, Sri Lanka Cricket (SLC) announced.
+
+Dickwella found guilty of a doping violation during the recent Lanka Premiere League (LPL).
+
+This has reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
+
+◼️
+
+[Data](articles/13fb6d56.json)
+
+---
+
+### A report from Simiti Gunaratne
 
 *2024-08-16 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200010) · `si`
 
-සිය එක්දින ක්‍රිකට් දිවියේ මංගල ශතකය වාර්තා කිරීමට 18 හැවිරිදි විශ්මි ගුණරත්න අද (16) සමත් වුණි.
+Siathi Gunaratne, 18, made history by becoming the first Sri Lankan woman to score a century in a one-day match, scoring 101 runs against Ireland. This achievement is notable as it occurred during the first game of a three-match series between Sri Lanka Women and Ireland Women.
 
-මේ සමග ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩිකාවක වන චමරි අතපත්තු හැරෙන්නට එක්දින තරගයක දී ශතකයක් රැස්කළ පළමු ක්‍රීඩිකාව බවට පත් වීමට ද විශ්මි ගුණරත්න සමත් වුණි.
+🟩
 
-අයර්ලන්ත කණ්ඩායමට එරෙහිව ලකුණු 101ක් රැස් කරමින් ඇය මෙම වාර්තාව තබා තිබේ.
+An 18-year-old Siathi Gunaratne was recorded today (16).
 
-විශ්මි අද වාර්තා අතරට එක්ව ඇත්තේ එක්දින ශතකයක් වාර්තා කළ ළාබාලතම ශ්‍රී ලාංකිකයා ලෙසය.
+With this, Simiti Gunaratne was able to become the first player of a century in a one-day player in a one-day event.
 
-සංචාරක ශ්‍රී ලංකා කාන්තා පිල සහ අයර්ලන්ත කාන්තා පිල අතර තරග 3කින් සමන්විත එක්දින තරගාවලියේ පළමු තරගය අද බෙල්ෆාස්ට් හිදී ආරම්භ වුණි.
+She held this report with 101 runs against the Irish team.
+
+Amazi reports were among the records as the youngest Sri Lankan who scored one day century.
+
+The first match of the 3-match One Day Championship between Sri Lanka Women's Women and Irish Women's squad began today.
 
 ◼️
 
 [Data](articles/54609f4e.json)
 
+[Extended Data](ext_articles/54609f4e.ext.json)
+
 ---
 
-### டிமான்டி காலனி 2 - விமர்சனம்
+### Vishmi Gunaratne smashes maiden ODI century against Ireland
+
+*2024-08-16 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101290/vishmi-gunaratne-smashes-maiden-odi-century-against-ireland) · `en`
+
+Sri Lanka’s Vishmi Gunaratne has become the first Sri Lanka Women’s player other than Chamari Athapaththu to score an ODI Century in the 1st ODI against Ireland being played in Belfast.
+
+Gunaratne smashed an impressive total of 101 in just 98 deliveries helping Sri Lanka to reach 194/5 against Ireland at the end of 38 overs.
+
+Earlier today (16), Ireland women won the toss and decided to bowl against Sri Lanka in the 1st ODI of the three match series.
+
+◼️
+
+[Data](articles/2c89f842.json)
+
+---
+
+### Demandy Colony 2 - Review
 
 *2024-08-16 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191253) · `ta`
 
-தயாரிப்பு : பிடிஜி யுனிவர்சல் & ஞானமுத்து பட்டறை & வைட் நைட்ஸ் என்டர்டெய்ன்மென்ட்
+"Demandy Colony 2," a horror thriller sequel, continues the story of Srinivasan (Arulnidhi), who survives his apparent death. Directed by Ajay Gnanamuthu, it diverges from typical ghost stories, focusing on a mysterious chain and paranormal powers. The plot thickens with the introduction of Debbie's (Priya Bhavani Shankar) suicidal husband and a quest involving a Chinese monk. Performances, especially by Priya Bhavani Shankar and Muthukumar, stand out. While the first half is stronger, the film offers a unique horror experience, despite some shortcomings in visual effects.
 
-நடிகர்கள் : அருள்நிதி, பிரியா பவானி சங்கர், அருண்பாண்டியன், முத்துக்குமார், மீனாட்சி கோவிந்தராஜன் , அர்ச்சனா ரவிச்சந்திரன், சர்ஜனோ காலித் மற்றும் பலர்.
+🟩
 
-இயக்குநர் அஜய் ஞானமுத்து இயக்கத்தில் அருள்நிதி நடிப்பில் 2015 ஆம் ஆண்டில் வெளியான 'டிமான்டி காலனி' படத்தின் இரண்டாம் பாகம் வெளியாகி இருக்கிறது. பெரும் எதிர்பார்ப்பை ஏற்படுத்திய இந்த ஹாரர் திரில்லர் திரைப்படம்- அந்த பிரிவு ரசிகர்களின் எதிர்பார்ப்பை நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+Product: PDG Universal & Gnanamuttu Workshop & White Nights Entertainment
+
+Actors: Arulnidhi, Priya Bhavani Shankar, Arunpandian, Muthukumar, Meenakshi Govindarajan, Archana Ravichandran, Sarjano Khalid and many others.
+
+The second part of the film 'Demandi Colony', which was released in 2015, starring Arunnidhi starring director Ajay Gnanamuthu.. This horror thriller, which was a huge expectation- did that section meet the expectations of fans?Or not?We will continue to see.
+
+At the end of the first part of the film 'Demandi Colony', the hero of the story Srinivasan (Arulnidhi) is shown to be dead. But in the second part, Srinivasan has shown that he is fighting for life. Who saved him with this?What did they save?Question arises. Along with this, the chain will be featured in the first part of the film. What was it?The question also arises. The story of the second part is written in response to these questions.
 
 ...
 
 [Data](articles/5b5521bb.json)
 
+[Extended Data](ext_articles/5b5521bb.ext.json)
+
 ---
 
-### தங்கலான் - விமர்சனம்
+### Thangalan - Review
 
 *2024-08-16 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191252) · `ta`
 
-நடிகர்கள் : சீயான் விக்ரம், பார்வதி, மாளவிகா மோகனன், ஹரி கிருஷ்ணன், பசுபதி,  டேனியல் கால்டாகிரோன் மற்றும் பலர்
+"Thangalan, a farmer in Tamil Nadu, loses his land to landlords but dreams of restoring it with gold promised by the British. His quest leads him to uncover ancient tales and fight for justice, set against a backdrop of historical oppression and resistance."
 
-தமிழகத்தின் வட பகுதி கிராமம் ஒன்றில் தனக்கு சொந்தமான சிறிய காணியில் விவசாயம் செய்கிறார் தங்கலான். (விக்ரம்) இவருக்கு கங்கம்மா ( பார்வதி) என்ற மனைவியும் அசோகன் என்ற மகன் மற்றும் இரண்டு மகளுடனும் வாழ்கிறார். அந்தக் காலகட்டத்தில் ஜமீன்தார் எனப்படும் நில பிரபுக்களின் ஆதிக்க வர்க்கத்தின் சதி காரணமாக அவருக்கு சொந்தமான சிறிய நிலத்தையும் பறி கொடுக்கிறார்.
+🟩
 
-அத்துடன் பண்ணை அடிமையாகவும் வாழ வேண்டிய சூழல் உருவாகிறது.  இந்தத் தருணத்தில் அவருடைய பிள்ளைகளுக்கு பேய் கதை ஒன்றை தங்கலான் சொல்கிறார். சில நூற்றாண்டுகளுக்கு முன் தற்போதைய கோலார் எனும் பகுதியில் அவருடைய மூதாதையர்கள் ( காடையன்)  தங்கம் எடுத்துக் கொண்டிருந்ததையும் அப்பகுதியை ஆண்ட மன்னன் ஒருவனின் ஆணைக்கு இணங்க அந்த மலை பகுதியில் காவல் தெய்வமாக திகழும் ஆரத்தி ( மாளவிகா மோகனன்)  என்ற பெண்மணி இதற்கு தடை ஏற்படுத்தியதையும், காடையன், அவரை வீழ்த்தியதை கதையாக விவரிக்கிறார்.
+Actors: Seyan Vikram, Parvati, Malavika Mohanan, Hari Krishnan, Pasupathi, Daniel Caltakiron and many others
+
+Thangalan is farming in his own small land in a village in the northern part of Tamil Nadu. (Vikram) He lives with his wife Gangamma (Parvati), son of Asokan and two daughter. During that period, he also seized the small land belonging to his own due to the conspiracy of the dominant class of the landlords known as Zamindar.
+
+There is also an environment where farm is addicted.At this moment, Thangalan tells his children a ghost story. A few centuries ago, she describes the story of Kadayan, who was taken by his ancestors (Kadayan) in the present Kolar, and a woman named Arathi (Malavika Mohanan), who was the guardian deity in the hill area, in accordance with the decree of a king who ruled the area.
 
 ...
 
 [Data](articles/4e6f4f26.json)
+
+[Extended Data](ext_articles/4e6f4f26.ext.json)
 
 ---
 
@@ -102,37 +154,51 @@ Former President Maithripala Sirisena says he has not decided to support any can
 
 ---
 
-### அஜித்குமார் நடிக்கும் 'விடாமுயற்சி' படத்தின் அடுத்த அப்டேட்
+### Ajit Kumar's next update
 
 *2024-08-16 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191250) · `ta`
 
-அஜித் குமார் நடிப்பில் தயாராகி வரும் 'விடா முயற்சி' படத்தில் நடிக்கும் நடிகர்களின் கதாப்பாத்திரத் தோற்றத்தை புகைப்படங்களாக படக்குழுவினர் வெளியிட்டு வருகின்றனர். அந்த வகையில் தற்போது நடிகர் நிகில் நாயரின் கதாப்பாத்திர தோற்றத்தை படக்குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+"Ajith Kumar stars in 'Vida Tudiyam,' playing the sole villain opposite Nikhil Nair, whose character details were recently unveiled. Directed by Mahila Thurmani, with music by Anirudh and cinematography by Om Prakash, the film is produced by Subhashkaran under Leica Productions. Shooting is nearly complete, and the team has shared a photo of Nikhil Nair's role, stirring excitement among Ajith's fans."
 
-இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், ஆரவ், திரிஷா, ரெஜினா கசான்றா, நிகில் நாயர் உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+🟩
 
-ஓம் பிரகாஷ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் சுபாஷ்கரன் தயாரிக்கிறார்.
+The film crew is releasing the role of the actors starring Ajith Kumar starring in 'Vida Tudiyam' starring Ajith Kumar. The film crew has now released the role of actor Nikhil Nair.
 
-இப்படத்தின் படப்பிடிப்பு விரைவில் நிறைவடையும் நிலையில் இருப்பதால் படக் குழுவினர் படத்தைப் பற்றிய புதிய தகவல்களை புகைப்படத்துடன் வெளியிட்டு.வருகிறார்கள். அந்த வகையில் இந்த திரைப்படத்தில் நடித்திருக்கும் நடிகர் நிகில் நாயர் ஏற்று நடித்திருக்கும் கதாபாத்திரத்தின் தோற்ற புகைப்படத்தை படக் குழுவினர் வெளியிட்டுள்ளனர்.‌
+Ajith Kumar, Arjun, Arav, Trisha, Regina Kasadha, Nikhil Nair, starring director and actor Mahila Thurmani.
 
-...
+Anirudh has composed the film, which is being recorded by Om Prakash. The film is being produced as Exan Entertainer and is produced by famous producer Subhashkaran on behalf of Leica Productions.
+
+The shooting of the film is nearing completion soon and the film crew posted new information about the film with a photo.. The film crew has released a photo of the role of actor Nikhil Nair in the film.
+
+It is revealed that Ajith is the only villain in the film, and Ajith is the only appearance in the backdrop of Nikhil Nair, who appears in actor Nikhil Rakat Look.. Ajith's fans are excited because the villains are too much.
+
+◼️
 
 [Data](articles/d3d5c9af.json)
 
+[Extended Data](ext_articles/d3d5c9af.ext.json)
+
 ---
 
-### புதுக்குடியிருப்பில் விடுதலைப்புலிகளின் புதையலை தேடிய அகழ்வு பணி
+### Excavation work in search of the treasure of the Liberation Tigers
 
 *2024-08-16 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191248) · `ta`
 
-யுத்த காலத்தில் விடுதலை புலிகள் ஆயுதங்கள் மற்றும் தங்கம் மறைத்து வைத்திருந்ததாக சந்தேகிக்கப்படும் முல்லைத்தீவு புதுக்குடியிருப்பு மந்துவில் பகுதியிலுள்ள தனியார் காணியில் இன்று வெள்ளிக்கிழமை (16)  முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் மேற்பார்வையில் அகழ்வுப் பணிகள் இடம்பெற்றிருந்தது.
+Excavation in Mullaitivu aimed at uncovering LTTE treasure yielded no results. Led by Judge Dharmalingam Pradeepan, the operation involved police, soldiers, and local officials but found nothing after several hours of digging. The judge then ordered the site to be sealed.
 
-புதுக்குடியிருப்பு பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதியின் உத்தரவின் பேரில் பொலிஸ் விசேட அதிரடிப்படையின் வெடிகுண்டு செயலிழப்பு பிரிவு, பொலிஸார், இராணுவத்தினர், கிராம சேவையாளர் மற்றும் புதுக்குடியிருப்பு பொலிஸார் இணைந்து அகழ்வு பணிகளை மேற்கொண்டிருந்தனர்.
+🟩
 
-பைக்கோ இயந்திரத்தின் உதவியுடன் நிலத்தில் பல மணிநேரம் அகழ்வு மேற்கொள்ளப்பட்ட போதும் ஆயுதங்களோ அல்லது வேறு எதனையும் கண்டுபிடிக்க முடியவில்லை. தோண்டப்பட்ட இடங்களில் எதுவும் கிடைக்காததால், மீண்டும் தோண்டப்பட்ட இடங்களை மூட நடவடிக்கை எடுக்குமாறு நீதிபதி தர்மலிங்கம் உத்தரவிட்டதனை தொடர்ந்து மூடப்பட்டிருந்தது.
+Excavation work was carried out under the supervision of Mullaitivu District Court Judge Dharmalingam Pradeepan on Friday (16) in a private land in the Mullaitivu Pudukkudiyiruppu Manduvil area, which was suspected to have been hiding the LTTE during the war.
+
+According to the information received by the Pudukkudiyiruppu police, the Mullaitivu District Court Judge, on the orders of the Mullaitivu District Court, was carrying out excavation work by the Police, Soldiers, Soldiers, Grama Niladhari and Pudukkudiyiruppu police.
+
+With the help of the Pico machine for several hours of excavation on the ground, we could not find arms or anything else. Since no excavations were available, it was followed by the order of Judge Dharmalingam to take action to close the excavated areas.
 
 ◼️
 
 [Data](articles/d7f263f4.json)
+
+[Extended Data](ext_articles/d7f263f4.ext.json)
 
 ---
 
@@ -164,23 +230,29 @@ This is the first time a National UPFA candidate a Presidential UPFA in a presid
 
 ---
 
-### இளைஞனின் மரணத்திற்கு நீதி கோரி மல்லாவியில் பாரிய ஆர்ப்பாட்டம்!
+### Massive demonstration in Mallavi demanding justice for the death of young man!
 
 *2024-08-16 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191246) · `ta`
 
-இளைஞனின் மரணத்திற்கு நீதி கோரி மல்லாவி பகுதியில் பொதுமக்கள் ,பொது அமைப்புக்கள் மற்றும் வர்த்தக சங்கம் என்பன இணைந்து பாரிய அளவிலான கவனயீர்ப்பு போராட்டம் ஒன்றினை இன்று வெள்ளிக்கிழமை (16) காலை மேற்கொண்டிருந்தன.
+In Mallavi, a large crowd protested the death of Anandarasan Sajeevan, demanding swift justice. The rally, starting at the bus station, reached the police station, with shops closing in solidarity. Public organizations and unions voiced frustration over the lack of arrests in the case, despite ongoing police investigations. Political figures attended, emphasizing the need for quick action against the perpetrators.
 
-கனடா செல்ல தயாரான மல்லாவி யோகபுரம் பகுதியினைச் சேர்ந்த ஆனந்தராசன் சஜீவன் என்ற இளைஞன் கடந்த 29.07.2024 அன்று காணாமல் போன நிலையில் மல்லாவி வவுனிக்குளம் பகுதியிலிருந்து மறுநாள் சடலமாக மீட்கப்பட்டார்.
+🟩
 
-19 நாட்களாகியும் குறித்த இளைஞனின் மரணத்திற்கு காரணமானவர்கள் எவரும் இதுவரை கைது செய்யப்படவில்லை என்பதுடன் , பொலிஸாரின் விசாரணைகள் மந்தகதியில் நடப்பதாக கூறியும், துரித கதியில் விசாரணைகளை முன்னெடுத்து குற்றவாளிகளை நீதியின் முன் நிறுத்த வேண்டும் என்றும் கூறியே பொதுமக்கள் மற்றும் பொது அமைப்புக்களினால் இன்றையதினம் குறித்த போராட்டம் முன்னேடுக்கப்பட்டிருந்தது.
+The public, public organizations and trade union in Mallavi area demanded justice for the death of the youth.
 
-மல்லாவி மத்திய பஸ் நிலையத்தில் ஆரம்பமாகிய பேரணி மல்லாவி போலிஸ் நிலையம் வரை சென்றிருந்தது.
+Anandarasan Sajeevan from Mallavi Yogapuram, which is ready to go to Canada, was found dead from the Vavunikulam area on 29.07.2024.
 
-இதேவேளை, குறித்த போராட்த்திற்கு ஆதரவாக இன்றைய தினம் மல்லாவி பகுதிகளில் வர்த்தக நிலையங்கள் யாவும் மூடப்பட்டிருந்தமையும் அவதானிக்க கூடியதாக இருந்தது.
+The struggle of the public and public organizations has been advanced today, claiming that none of the people responsible for the death of the youth for 19 days have not yet been arrested, claiming that the police investigations are underway, and that the culprits should be carried out in a fast -paced investigation.
+
+The rally, which started at the Mallavi Central Bus Station, went up to the Mallavi Police Station.
+
+At the same time, it was also possible to observe that all the shops in Mallavi were closed today in support of the struggle.
 
 ...
 
 [Data](articles/95bc7eee.json)
+
+[Extended Data](ext_articles/95bc7eee.ext.json)
 
 ---
 
@@ -2209,49 +2281,5 @@ The first match of the three-match Test series between the two countries is due 
 [Data](articles/425442bf.json)
 
 [Extended Data](ext_articles/425442bf.ext.json)
-
----
-
-### North Korea that opens borders
-
-*2024-08-16 06:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எல்லைகளை-திறக்கும்-வட-கொரியா/50-342259) · `ta`
-
-After a five-year hiatus due to COVID-19, North Korea plans to reopen its borders to foreign tourists starting next December, allowing visitors from countries other than South Korea.
-
-🟩
-
-Five years later, North Korea has decided to open its borders for a foreign tourist tourist.
-
-According to international media reports, it has been decided to open its borders from next December.
-
-North Korea has closed its boundaries for tourists for nearly five years due to the spread of Corona.
-
-In the meantime, other tourists other than South Korea have been allowed to visit North Korea.. (A)
-
-◼️
-
-[Data](articles/4e6373d1.json)
-
-[Extended Data](ext_articles/4e6373d1.ext.json)
-
----
-
-### WISTA Sri Lanka marks decade of empowering women
-
-*2024-08-16 06:45:00* · [`dailyftlk`](https://www.ft.lk/business/WISTA-Sri-Lanka-marks-decade-of-empowering-women/34-765619) · `en`
-
-WISTA Sri Lanka Committee with renowned thought leadership keynote speaker Karen Leong
-
-WISTA Sri Lanka celebrating its 10th anniversary with all past Presidents
-
-WISTA Sri Lanka celebrated its 10th anniversary with a dynamic keynote discussion on ‘Charting the Course of Success in a Disruptive World’ featuring the renowned global transformation thought leader, Karen Leong at the event held at the Cinnamon Grand Colombo this week.
-
-Established in 2014, WISTA Sri Lanka was initiated with the goal of providing a crucial platform for women to connect and drive progress, becoming phenomenally instrumental in empowering women within the maritime industry.
-
-...
-
-[Data](articles/1e7ca9c9.json)
-
-[Extended Data](ext_articles/1e7ca9c9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 05:39:00**
+As of **2024-08-16 06:03:36**
 
 ## Newspaper Stats
 
-*Scraped **40,977** Articles*
+*Scraped **40,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 347
 newsfirstlk | 363
 bbccomsinhala | 381
 colombotelegraphcom | 391
-islandlk | 2,363
+islandlk | 2,372
 economynextcom | 2,490
 dailyftlk | 2,655
 adalk | 3,773
@@ -26,11 +26,77 @@ adaderanasinhalalk | 6,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,977 (100.0%) of 40,977 articles have been extended.
+40,985 (100.0%) of 40,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Union Bank appoints Dilshan Rodrigo as Chief Executive Officer
+
+*2024-08-16 03:47:00* · [`islandlk`](http://island.lk/union-bank-appoints-dilshan-rodrigo-as-chief-executive-officer/) · `en`
+
+Union Bank announced the appointment of Dilshan Rodrigo as its new Director/Chief Executive Officer, effective 16 August 2024. With an impressive career spanning over two decades in the banking sector, Rodrigo’s appointment signifies a transformative moment for the bank. Under his leadership, Union Bank aims to navigate the evolving landscape of Sri Lanka’s banking industry and become a beacon of innovation and customer-centric strategies in an era of digitalization.
+
+...
+
+[Data](articles/26a33ee3.json)
+
+[Extended Data](ext_articles/26a33ee3.ext.json)
+
+---
+
+### Strong 1H 2024 performance from Nations Trust Bank
+
+*2024-08-16 03:46:00* · [`islandlk`](http://island.lk/strong-1h-2024-performance-from-nations-trust-bank/) · `en`
+
+Nations Trust Bank PLC reported a strong performance in the first half of 2024, achieving a Profit After Tax (PAT) of LKR 8 Bn, up 31% YoY.
+
+Commenting on the results, Hemantha Gunetilleke, Director & Chief Executive Officer of Nations Trust Bank said “The Bank recorded a strong first half, highlighting continued growth across our customer segments. The Bank’s strong capital base, healthy liquidity buffers, robust risk management models and continued focus on digital empowerment are the fundamental strengths that continue to drive the Bank’s performance”
+
+The bank’s financial performance is supported by its strong capital position, with Tier I Capital at 16.62% and a Total Capital Adequacy Ratio of 17.83%, well above the regulatory requirements of 8.5% and 12.5%, respectively.
+
+A strong liquidity buffer was maintained with a Liquidity Coverage Ratio of 298% against the regulatory requirement of 100%.
+
+...
+
+[Data](articles/c0fae6cd.json)
+
+[Extended Data](ext_articles/c0fae6cd.ext.json)
+
+---
+
+### HNB Group records Rs 16.2 Bn in PAT for 6 months
+
+*2024-08-16 03:45:00* · [`islandlk`](http://island.lk/hnb-group-records-rs-16-2-bn-in-pat-for-6-months/) · `en`
+
+Hatton National Bank PLC posted a profit before tax of Rs 25.8 Bn and a profit after tax of Rs 15.4 Bn during the six months ended June 2024. The Group recorded a consolidated PBT and PAT of Rs 27.0 Bn and Rs 16.2 Bn, respectively for the period.
+
+Commenting on the performance Chairman Nihal Jayawardene stated that “Sri Lanka has come a long way since the devastating economic crisis, and has taken steady steps towards stabilization. While uncertainties and challenges prevail, we reiterate our commitment to deliver sustainable growth for all our stakeholders”.
+
+...
+
+[Data](articles/061db2b3.json)
+
+[Extended Data](ext_articles/061db2b3.ext.json)
+
+---
+
+### Bourse on recovery track but turnover yet to pick up
+
+*2024-08-16 03:41:00* · [`islandlk`](http://island.lk/bourse-on-recovery-track-but-turnover-yet-to-pick-up/) · `en`
+
+The share market showed some indications of picking-up yesterday. The All- Share Price Index went up by 121.5 points while S and P SL20 rose by 43.8 points. Turnover stood at Rs 776 million with one crossing. The crossing was reported in Melstacope, which crossed 250,000 shares the tune of Rs 20.2 million; its shares traded at Rs 81.
+
+In the retail market top seven companies that mainly contributed to the turnover were; Melstacope Rs 74.9 million (924,000 shares traded), HNB Rs 66.3 million (365,000 shares traded), Lanka Milk Foods Rs 39.3million (1.4 million shares traded), Hayley’s Fabrics Rs 38.8 million (784,000 shares traded), Access Engineering Rs 38 million (1.7 million shares traded), CTC Rs 36.7 million (29000 shares traded) and Dialog Axiata Rs 35.5 million (3.9 million shares traded). During the day 30.8 million share volumes changed hands in 9000 transactions.
+
+...
+
+[Data](articles/ea16e237.json)
+
+[Extended Data](ext_articles/ea16e237.ext.json)
+
+---
 
 ### Not competing for success;I am competing to strengthen the unity of Tamils ​​- Pa.
 
@@ -2171,103 +2237,5 @@ President Ranil Wickremesinghe, the leader of the United National Party, filed a
 [Data](articles/a94d5db1.json)
 
 [Extended Data](ext_articles/a94d5db1.ext.json)
-
----
-
-### Sri Lanka’s Uswatte Confectionary resumes potato snack
-
-*2024-08-15 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-uswatte-confectionary-resumes-potato-snack-176865/) · `en`
-
-ECONOMYNEXT – Sri Lanka confectioner Uswatte said it had resumed producing a potato chip snack after it had to be stopped due to restrictions on potato imports by the government at the time.
-
-“Potato Chips are king among all categories of snack food around the world, and we are more than happy to be able to bring this beloved brand of potato chip back to Sri Lanka,” Chairman of Uswatte Confectionery Works Pvt Ltd Quintus Perera said.
-
-“The reintroduction of the Chirpy Chip brand, provides us with an opportunity to create a premium potato chip brand, that meets international standards.”
-
-Chirpy Chips were first introduced into the market in 1994 but were discontinued due to government polices at the time, that placed restriction on the import of high-quality potatoes to the country, the company said.
-
-The chips are available in three flavours, Cheese & Onion, Salted, and Hot N Spicy, and come in packs of 16g at 70 rupees, 24g at 100 rupees, 50g at 200 rupees and 73g at 300 rupees.
-
-...
-
-[Data](articles/326321c2.json)
-
-[Extended Data](ext_articles/326321c2.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-15 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/191142) · `ta`
-
-The US dollar's buying rate was 294.5113 rupees and selling rate was 303.7761 rupees according to the Central Bank's latest update on August 15.
-
-🟩
-
-The US dollar purchasing price was 294.5113 rupees and the sales price were 303.7761 rupees based on a currency exchange rate released by the Central Bank on Thursday (August 15).
-
-◼️
-
-[Data](articles/e84d9e26.json)
-
-[Extended Data](ext_articles/e84d9e26.ext.json)
-
----
-
-### Relief in the near future taxon
-
-*2024-08-15 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ආදායම්-බද්දට-නුදුරේදීම-සහනයක්/11-411388) · `si`
-
-President Ranil Wickremesinghe announced plans for tax relief, focusing on individual income taxes, and discussed broad reforms aimed at revitalizing Sri Lanka's economy. He highlighted the importance of independent state universities to improve higher education quality. The President also mentioned agreements with international creditors, setting targets for fiscal discipline and economic growth, including reducing government debt and increasing foreign reserves.
-
-🟩
-
-President Ranil Wickremesinghe said that he intends to provide relief to the Individual Income Tax and the IMF and the Treasury.
-
-The President said that the proposal made by the Treasury (IMF) is also considered by the International Monetary Fund (IMF).He also said that it has been focused on it as it benefits.
-
-The President also expected to implement a broad reforms plan to carry out an translation of the higher education system in Sri Lanka targeting the economy.
-
-President Ranil Wickremesinghe made these comments the keynote address held at the Waters Edge Hotel, Battaramulla, Battaramulla, Battaramulla, Battaramulla.
-
-The President also emphasized the importance of providing independence to state universities to enhance the quality of higher education in Sri Lanka.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/5d2bb248.json)
-
-[Extended Data](ext_articles/5d2bb248.ext.json)
-
----
-
-### We are conducting humanitarian soldiers arrested - we are in talks about handing over to that country - Ukraine
-
-*2024-08-15 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191139) · `ta`
-
-Ukraine's parliamentary commissioner, Dimitro Lupients, revealed that Ukrainian soldiers made contact with Russian forces last week, leading to the arrest of Russian soldiers. These prisoners are being held in a special camp while discussions proceed regarding their handover to the Russian government. The situation remains tense as Ukrainian soldiers continue operations within Russia, despite Russia declaring an emergency due to the incursion.
-
-🟩
-
-Ukraine's parliamentary commissioner Dimitro Lupients said that Ukrainian soldiers had contacted Russia's warriors last week.
-
-He said that you would have said that you would have seen the Russian soldiers surrender, he said, "You have seen that the Ukraine soldiers are dealing with warlords according to the Geneva Charter."
-
-He said that no one to torture the arrested Russian soldiers, but Russian soldiers are doing it.
-
-We have taken the arrested soldiers to a special camp and we are in talks about handing them over to the Russian government.
-
-Ukrainian soldiers who have entered Russia are continuing in many directions, Ukraine said.
-
-Russia has announced an emergency in the area following the seizure of some parts of the Ukrainian soldiers who carried out a Tetir attack on Russia's Carek region last week.
-
-The President of Ukraine said that his soldiers have jumped one more than a half kilometers in Garksky since Wednesday morning.
-
-...
-
-[Data](articles/b11c84b3.json)
-
-[Extended Data](ext_articles/b11c84b3.ext.json)
 
 ---

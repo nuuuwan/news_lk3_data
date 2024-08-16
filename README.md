@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 21:21:15**
+As of **2024-08-16 21:36:44**
 
 ## Newspaper Stats
 
-*Scraped **41,125** Articles*
+*Scraped **41,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,120 @@ adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,805
 tamilmirrorlk | 5,265
-virakesarilk | 6,526
-adaderanasinhalalk | 6,999
+virakesarilk | 6,527
+adaderanasinhalalk | 7,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,119 (100.0%) of 41,125 articles have been extended.
+41,125 (100.0%) of 41,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ஜனாதிபதி தேர்தலை புறக்கணிக்க கோரி வவுனியா நகரில் துண்டுபிரசுரம் வழங்கல்
+### රාජාට වෙඩි තැබූ පොලීසියේ තිදෙනා අල්ලයි
+
+*2024-08-16 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200015) · `si`
+
+දඹුල්ල දම්පුර ප්‍රදේශයේ දී වන අලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ වූ පොලිස් නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/7d070508.json)
+
+---
+
+### கொழும்பின் பல பகுதிகளில் கனமழை பெய்யும் என வானிலை ஆய்வு மையம் எச்சரிக்கை!
+
+*2024-08-16 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191263) · `ta`
+
+கொழும்பு மற்றும் அதனை அண்மித்த பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக, கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளன.
+
+இதன்படி, மேல், சப்ரகமுவ மாகாணங்கள் மற்றும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களில் கனமழை பெய்யும் எனவும்  மக்கள் அக்கறையுடன் இருக்க வேண்டுமெனவும் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+அடுத்த 24 மணி நேரத்தில் அந்தப் பகுதிகள். 100 மீட்டருக்கும் அதிகமான கனமழை பெய்யும்.
+
+கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளமையினால், கடும் வாகன நெரிசல் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக தீவின் தென்மேற்கு பகுதிகளில் இந்த நிலை ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/73a1133b.json)
+
+---
+
+### Pamphlet supply in Vavuniya City
 
 *2024-08-16 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191236) · `ta`
 
-ஜனாதிபதி தேர்தலை புறக்கணிக்க கோரி தமிழ் தேசிய மக்கள் முன்னணியினரால் வவுனியா நகரில் இன்று வெள்ளிக்கிழமை (16)  துண்டு பிரசுரம் விநியோகிக்கப்பட்டது.
+The Tamil National People's Front in Vavuniya distributed a pamphlet urging a boycott of the upcoming presidential election until the removal of the unity constitution and the establishment of the Samasti constitution. The event was attended by MP Selvarajah Gajendran and several party supporters.
 
-ஒற்றையாட்சி அரசியலமைப்பு நீக்கப்பட்டு சமஸ்டி அரசியலமைப்பு உருவாக்கப்படுவதற்கான உத்தரவாதம் வழங்கப்படும் வரை ஜனாதிபதி தேர்தலை பகிஷ்கரிப்போம் என்ற தொனி பொருளில் குறித்த துண்டு பிரசுரம் விநியோகிக்கப்பட்டது.
+🟩
 
-இதன்போது தமிழ் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன், கட்சியின் ஆதரவாளர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+The Tamil National People's Front issued a pamphlet today (16) in Vavuniya by the Tamil National People's Front demanding the boycott of the presidential election.
+
+The pamphlet was distributed in the tone of the tone of the presidential election until the unity constitution was removed and the Samasti constitution was created.
+
+Tamil National People's Front MP Selvarajah Gajendran and many supporters of the party were present.
 
 ◼️
 
 [Data](articles/f67d2fe2.json)
 
+[Extended Data](ext_articles/f67d2fe2.ext.json)
+
 ---
 
-### கொழும்பின் பல பகுதிகள் வெள்ளத்தில் மூழ்கியது
+### Many parts of Colombo were flooded
 
 *2024-08-16 21:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-பல-பகுதிகள்-வெள்ளத்தில்-மூழ்கியது/175-342294) · `ta`
 
-கொழும்பு மற்றும் அதனை அண்மித்த பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக, கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளன.
+Heavy rains in Colombo and nearby regions have caused widespread flooding. The Department of Meteorology forecasts over 100mm of rain in various parts of the country within the next 24 hours, affecting provinces like Western, Sabaragamuwa, and districts including Galle, Matara, Kandy, and Nuwara Eliya.
 
-இதேவேளை, நாட்டின் பல பகுதிகளில் எதிர்வரும் 24 மணித்தியாலங்களில் 100 மில்லிமீட்டருக்கும் அதிக மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+🟩
 
-இதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் மழையுடனான வானிலை நிலவும் என திணைக்களம் எதிர்வு கூறியுள்ளது. R
+Due to heavy rains in Colombo and its adjacent areas, many parts of Colombo have been submerged.
+
+Meanwhile, the Department of Meteorology has predicted more than 100 millimeters of rain in many parts of the country in the next 24 hours.
+
+Accordingly, the Department of Rainfall has predicted rainfall in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.. Remble
 
 ◼️
 
 [Data](articles/faec0062.json)
 
+[Extended Data](ext_articles/faec0062.ext.json)
+
 ---
 
-### கோட்டாவுக்கு ஆணை வழங்கிய மக்கள் ராஜபக்ஷர்கள் குடும்பம் மீது வைராக்கியம் : நாமலுக்கு வாக்குகளை பெறுவது சவால் மிக்கது - கம்மன்பில
+### Rajapakse's family who gave orders to Kota
 
 *2024-08-16 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191245) · `ta`
 
-கோட்டபய ராஜபக்ஷவுக்கு ஆணை வழங்கிய 69 இலட்ச மக்கள் ராஜபக்ஷர்கள் குடும்பம் மீது வைராக்கியத்துடன் உள்ளார்கள். தேர்தலில் 3 சதவீத வாக்குகளை பெறுவது கூட பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவுக்கு சவாலானது என பிவிதுறு ஹெல உறுமய கட்சியின்  பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+Rajapaksa family commands significant support, with 69 lakh orders for Gotabhaya Rajapaksa, indicating enthusiasm for his policies rather than familial wealth. Despite challenges from the Pivituru Hela Urumaya Party, the presidential race features 39 contestants, including several allied with major candidates. The electoral landscape is influenced by a 1981 law affecting campaign funding, allowing unrecognized parties to contest. Voter indecision remains high, with 22% undecided, complicating predictions.
 
-கொழும்பில் உள்ள சர்வஜன கட்சியின் காரியாலயத்தில் வெள்ளிக்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் இம்முறை 39 பேர் போட்டியிடுகிறார்கள். பிரதான ஜனாதிபதி வேட்பாளர்களின் சகாக்களாகவே ஒரு தரப்பினர் போட்டியிடுகிறார்கள்.கட்டுப்பணம் வைப்பிலிடும் தொகை குறைவானதால் எவ்வித வரையறைகளும் இல்லாமல் பலர் போட்டியிடுகிறார்கள்.
+69 lakhs of people who have ordered Gotabhaya Rajapaksa are zealous on the family. Udaya Kammanpila, MP of the Pivituru Hela Urumaya Party, said that even 3 percent of the vote in the election was challenging the presidential candidate of the PA.
 
-1981 ஆம் ஆண்டு அறிமுகப்படுத்தப்பட்ட கட்டுப்பணம் தான் இன்றும் அமுலில் உள்ளது. அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகளுக்கு 5000 ரூபா, சுயேட்சை வேட்பாளருக்கு 75000 ரூபா  என்ற அடிப்படையில் கட்டுப்பண தொகை காணப்படுகிறது.பொருளாதார பாதிப்புக்கு பின்னர் வாழ்க்கை செலவுகள் பன்மடங்கு அதிகரித்துள்ள நிலையில் கட்டுப்பண தொகை அதிகரிக்கப்படவில்லை.
+He made this statement during a media briefing held at the Alliance office in Colombo on Friday (16).
+
+39 contesting this time in the presidential election. A party is contesting as colleagues of the main presidential candidates.
+
+The control that introduced in 1981 is still in effect today. 5000 rupees for recognized political parties and an independent candidate of 75,000 rupees.
+
+Political parties, which do not win a seat in the parliamentary election, are contesting the presidential election as a political party approved in the presidential election.
+
+It is impossible to mention who is in the presidential election. Because 22 percent of the voters have not yet decided on who to vote.
 
 ...
 
 [Data](articles/337c8efb.json)
+
+[Extended Data](ext_articles/337c8efb.ext.json)
 
 ---
 
@@ -124,39 +178,57 @@ The National Building and Research Organization (NBRO) says that the warning not
 
 ---
 
-### ஊக்கமருந்து பாவனை தடுப்பு விதிகளை மீறியமைக்காக கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்லவுக்கு தடை
+### Cricketer Niroshan Dikwella ban
 
 *2024-08-16 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/191262) · `ta`
 
-ஊக்கமருந்து பாவனை தடுப்பு விதிகளை மீறினார் என்ற குற்றச்சாட்டின் பேரில் இலங்கையின் முன்னாள் கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்லவுக்கு சகலவிதமான கிரிக்கெட் போட்டிகளிலும் ஈடுபட தடை விதிக்கப்பட்டுள்ளதாக ஸ்ரீலங்கா கிரிக்கெட் அறிவித்துள்ளது.
+Niroshan Dikwella, a former Sri Lankan cricketer, has been banned from all forms of cricket due to involvement in doping during the Lanka Premier League. The ban will be officially notified again. This action aims to maintain integrity in sports, conducted in collaboration with the Ministry of Sports and WADA guidelines.
 
-உடன் அமுலுக்கு வரும்வகையில் விதிக்கப்பட்டுள்ள இந்தத் தடை மறு அறிவித்தல்ரை நீடிக்கும் என ஸ்ரீலங்கா கிரிக்கெட் வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-அண்மையில் நடந்து முடிந்த லங்கா பிறீமியர் லீக் (LPL) போட்டிகளின்போது இலங்கை ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தினால் (SLADA) நடத்தப்பட்ட ஊக்கமருந்து பாவனை தொடர்பான பரிசோதனையின் மூலம் நிரோஷன் திக்வெல்ல ஊக்கமருந்து பாவனையில் ஈடுபட்டது தெரியவந்துள்ளது.
+Sri Lanka Cricket has announced that former Sri Lankan cricketer Niroshan Dikwella has been banned from engaging in all kinds of cricket.
 
-விளையாட்டுத்துறையில் நேர்மைத்துவத்தை உறுதிப்படுத்தும் வகையில் இத்தகைய பரிசோதனைகள் நடத்தப்படுவதாக அந்த அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளது.
+Sri Lanka Cricket has issued a statement that the ban imposed on it will be re -notified.
 
-உலக ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தின் (WADA) வழிகாட்டல்களுக்கு அமைய விளையாட்டுத்துறை அமைச்சுடன் இணைந்து இத்தகைய பரிசோதனை நடத்தப்படுவது வழமையாகும்.
+During the recently concluded Lanka Premier League (LPL) competitions, it has been revealed that Niroshan Dikwella was involved in the use of a doping doping by the Sri Lanka Drug Prevention Agency (SLADA).
 
-...
+The report further stated that such experiments are being conducted to ensure honesty in the sports sector.
+
+It is customary to conduct such tests in collaboration with the Ministry of Sports in accordance with the guidelines of the World Doping Prevention Agency (WADA).
+
+Sri Lanka Girik Gate said its aim was to ensure cricket as an unused sport.
+
+Sri Lanka Cricket is conducting such experiments in collaboration with the Ministry of Sports in the event of local competitions to avoid violating the rules of doping in the game.
+
+◼️
 
 [Data](articles/2cd243ce.json)
 
+[Extended Data](ext_articles/2cd243ce.ext.json)
+
 ---
 
-### இடைக்கால ஜனாதிபதியொருவரைத் தெரிவு செய்யப்போவதாக எண்ணிக் கொண்டு கட்சி தாவுகின்றனர் - எதிர்க்கட்சி தலைவர்
+### The party jumps to elect an interim president - opposition leader
 
 *2024-08-16 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191261) · `ta`
 
-பாராளுமன்றத்தில் இடைக்கால ஜனாதிபதியொருவரைத் தெரிவு செய்யப்போவதாக நினைத்துக் கொண்டு தற்போது பலரும் கட்சி தாவிக் கொண்டிருக்கின்றனர். ஆனால் செப்டெம்பர் 21ஆம் திகதி 170 இலட்சம் வாக்காளர்களே தமக்கான ஜனாதிபதியை தெரிவு செய்யப் போகிறார்கள் என்பதை நினைவுபடுத்துவதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa, the opposition leader, announced that only 170 lakh voters will elect the next president, contrary to expectations of an interim president being chosen. He emphasized the importance of unity and fighting against corruption, promising to end corrupt practices and political cultures. Premadasa also highlighted the need for financial transparency, stating that funds allocated should go towards education rather than personal gains.
 
-வேட்புமனு தாக்கல் செய்ததன் பின்னர் வெள்ளிக்கிழமை (16) காலை கண்டியில் சர்வமத வழிபாடுகளில் ஈடுபட்ட எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தனது முதலாவது தேர்தல் பிரசாரக் கூட்டத்தை குருணாகல் மாவட்டத்தில் நடத்தினார். இந்தக் கூட்டத்தில் உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-இலங்கை தாயை பலப்படுத்தும் பயணத்தில் எம்முடன் இணைந்து கொள்ளுமாறு குருணாகால் மக்களுக்கும் நாட்டு மக்களுக்கும் அழைப்பு விடுக்கின்றேன். நாம் நடைமுறை சாத்தியமான முற்போக்கான எதிர்க்கட்சி என்ற ரீதியில் மக்களுக்காக குரல் கொடுத்து அவர்களுக்காக போராடினோம். ஐக்கிய மக்கள் சக்தியின் நிபுணத்துவ குழு ஊழல் மோசடிக்காக போராடியது. நான் மேடைகளில் நாடகங்களை அரங்கேற்றவில்லை. வெற்று ஆவண கோப்புகளை காட்டி மக்களை ஏமாற்றவில்லை.
+Many people are now joining the party, thinking that he is going to elect an interim president in Parliament. But on September 21, opposition leader Sajith Premadasa said that only 170 lakh voters are going to elect their president.
+
+Opposition Leader Sajith Premadasa held his first election campaign in Kurunegala district on Friday morning (16) after the nomination was filed.. Speaking at the meeting, he added.
+
+I invite the people and the people of Kurunegala to join us on the journey of strengthening the Sri Lankan mother. As a practical potential progressive opposition, we voiced for the people and fought for them. United People's Power Professional Group fought for corruption scandal. I did not make plays on stage. Does not disappoint people showing empty documentary files.
+
+I am proud to say that the Rajapaksas have been put in court in the court of opposition.. I recall that the Rajapaksas were responsible for the fact that our legal action was the cause of the country's vangrott.
 
 ...
 
 [Data](articles/585c87e4.json)
+
+[Extended Data](ext_articles/585c87e4.ext.json)
 
 ---
 
@@ -266,21 +338,27 @@ As a result, traffic congestion has also arisen and the police have also taken s
 
 ---
 
-### பயணிகள் சேவை கப்பலானது சற்றுமுன் நாகையிலிருந்து காங்கேசன் துறையை வந்தடைந்தது!
+### The passenger service came to the Kankesan department from Naga shortly before!
 
 *2024-08-16 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/191260) · `ta`
 
-நாகபட்டினத்திலிருந்து காங்கேசன் துறைக்கான பயணிகள் கப்பல் போக்குவரத்து சேவை 16ஆம் திகதி வெள்ளிக்கிழமை முதல் ஆரம்பமாகியுள்ளது.
+The passenger shipping service between Nagapattinam and Kankesanthurai began on October 14 but was suspended due to bad weather on October 23. It resumed recently, with ships departing from Nagapattinam reaching Kankesanthurai within hours.
 
-அந்தவகையில் இந்தியாவின் - நாகபட்டினத்திலிருந்து நண்பகல் 12 மணியளவில் பயணத்தை ஆரம்பித்த பயணிகள் கப்பல் 5 மணியளவில் யாழ்ப்பாணம் - காங்கேசன்துறையை வந்தடைந்தது.
+🟩
 
-இந்த பயணிகள் கப்பல் போக்குவரத்து சேவை கடந்த ஆண்டு ஒக்டோபர் 14 ஆம் திகதி ஆரம்பிக்கப்பட்ட நிலையில், சீரற்ற காலநிலை காரணமாக கடந்த வருடம் ஒக்டோபர் 23 ஆம் திகதி இடைநிறுத்தப்பட்டது.
+The passenger shipping service from Nagapattinam to the Kankesan sector has started on Friday 16th.
 
-கடந்த 10 ஆம் திகதி சிவகங்கை பயணிகள் கப்பலின் சோதனை ஓட்டம் நடைபெற்ற நிலையில் அன்று காலை 8 மணியளவில் நாகபட்டினத்திலிருந்து புறப்பட்ட சிவகங்கை பயணிகள் கப்பல், நண்பகல் 12 மணியளவில் காங்கேசன்துறையை வந்தடைந்தது.
+The passenger ship, which started the journey from Nagapattinam at 12 noon, reached Jaffna - Kankesanthurai at 5 pm.
+
+The passenger shipping service was launched on October 14 last year, due to inclement weather, suspended on October 23 last year.
+
+The Sivaganga passenger ship, which departed from Nagapattinam at 8 am on the 10th of this month, arrived at Kankesanthurai at 12 noon.
 
 ◼️
 
 [Data](articles/fb2adcf8.json)
+
+[Extended Data](ext_articles/fb2adcf8.ext.json)
 
 ---
 
@@ -2229,59 +2307,5 @@ It is the Presidential election in Sri Lanka by the number of candidates. Even t
 [Data](articles/fb0d8df0.json)
 
 [Extended Data](ext_articles/fb0d8df0.ext.json)
-
----
-
-### Raja killed in police welled
-
-*2024-08-16 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199990) · `si`
-
-A wild elephant named Raja, aged 35 and blind in one eye, was shot dead by police officers near Dambulla Bakamuna. The incident occurred last night and has caused tension between locals and law enforcement.
-
-🟩
-
-Wildlife officials say that the Velaga officials have died in a shooting of a shooting of the police.
-
-The Wella, Dambura, has been shot dead in the Dambulla Bakamuna main road.
-
-The owl wildlife officials said that the shooting had been carried out last night (15).
-
-The victim is a wild elephant, known as the "Raja 'that one of the 35-year old eye is invisible.
-
-Residents say that this is no problem with this elite.
-
-According to the Bakamuna Police claiming that three policemen who were working on the owners of the owl police station at the three-wheeler of the police.
-
-As a result of the incident, the residents and the police have been in a warm area.
-
-Habarana Assistant Superintendent Superintendent
-
-◼️
-
-[Data](articles/6517f59f.json)
-
-[Extended Data](ext_articles/6517f59f.ext.json)
-
----
-
-### Action against SLPP members who supported Ranil
-
-*2024-08-16 09:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளித்த-SLPP-உறுப்பினர்களுக்கு-எதிராக-நடவடிக்கை/175-342271) · `ta`
-
-Disciplinary action will be taken against SLPP members supporting Ranil Wickremesinghe for the 2024 presidential election. The Sri Lanka PA plans to send letters to MPs soon, potentially leading to cancellation of their party memberships post-discipline.
-
-🟩
-
-It has been decided to take disciplinary action against members of the Sri Lanka PA, which has decided to support Ranil Wickremesinghe in the 2024 presidential election.
-
-A spokesman for the Sri Lanka Peoples Alliance (PA) said that the letters will be sent to MPs soon.
-
-It is also reported that the party membership of MPs will be canceled after disciplinary action. Remble
-
-◼️
-
-[Data](articles/06b956fd.json)
-
-[Extended Data](ext_articles/06b956fd.ext.json)
 
 ---

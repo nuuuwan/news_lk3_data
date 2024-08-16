@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 03:36:35**
+As of **2024-08-17 03:55:07**
 
 ## Newspaper Stats
 
-*Scraped **41,159** Articles*
+*Scraped **41,160** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 348
 newsfirstlk | 363
 bbccomsinhala | 382
-colombotelegraphcom | 392
+colombotelegraphcom | 393
 islandlk | 2,372
 economynextcom | 2,499
 dailyftlk | 2,676
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,158 (100.0%) of 41,159 articles have been extended.
+41,159 (100.0%) of 41,160 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -448,6 +448,8 @@ Sri Lanka is once again facing a male-dominated presidential race. As of August 
 
 [Data](articles/6fa2ab68.json)
 
+[Extended Data](ext_articles/6fa2ab68.ext.json)
+
 ---
 
 ### Indo-Sri Lanka's first passenger vessel to visit the island
@@ -797,6 +799,20 @@ The situation has occurred due to the turbulent in-atmosphere in the lower atmos
 [Data](articles/ae1f9dd8.json)
 
 [Extended Data](ext_articles/ae1f9dd8.ext.json)
+
+---
+
+### “A Comfortable Abode”
+
+*2024-08-16 19:42:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-comfortable-abode/) · `en`
+
+This month, known as “Nikini,” holds great significance in the Buddhist calendar as it marks the First Dhamma Sangayana (First Buddhist Council), which took place on the full moon day of this month. This pivotal event occurred three months after the passing of Lord Buddha when senior monks, led by Mahākāśyapa Thero, convened to establish and reinforce the monastic disciplines. This decision was prompted by concerns over the misbehaviour of a monk within the noble Sangha community.
+
+On this auspicious Nikini Poya day, I wish to share some Dhamma that deeply resonated with me. I recently listened to a recorded interview with Mr. A.S. Balasooriya, a respected Buddhist layperson from Sri Lanka, who offered insightful reflections on a poem from the Theragatha. The interview, conducted in Sinhalese, was broadcast on Sri Lanka TV and provided a profound exploration of the teachings.
+
+...
+
+[Data](articles/56a68e06.json)
 
 ---
 
@@ -2209,27 +2225,5 @@ Jaffna District Government Agent. It is noteworthy that the devotees visited the
 [Data](articles/0675446b.json)
 
 [Extended Data](ext_articles/0675446b.ext.json)
-
----
-
-### Thera met Anura Kumara
-
-*2024-08-16 13:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரை-சந்தித்தார்-அநுர-குமார/175-342281) · `ta`
-
-Anura Kumara Dissanayake, the National People's Power presidential candidate, met Makuleway Vimala Nayaka Thera, head of Ramagna Maha Nikaya's Maha Viharaya, discussing the country's politics and receiving their support for his presidency. Comrade Vijitha Herath, another party member, was also there.
-
-🟩
-
-Comrade Anura Kumara Dissanayake, the Presidential candidate of the National People's Power, met with Makuleway Vimala Nayaka Thera, the Maha Nikayaka Thera of Ramagna Maha Nikaya's Maha Viharaya at Sri Vidyaavasa Paraven Maha Viharaya.
-
-Comrade Anura Kumara Dissanayake, who had discussed the political situation in the country today, had received their goodwill for the success of the president.
-
-Comrade Vijitha Herath, a member of the National Executive Council of the National People's Power, was also present.
-
-◼️
-
-[Data](articles/9ad51c58.json)
-
-[Extended Data](ext_articles/9ad51c58.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 11:21:08**
+As of **2024-08-16 11:36:46**
 
 ## Newspaper Stats
 
-*Scraped **41,031** Articles*
+*Scraped **41,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 4,790
 tamilmirrorlk | 5,246
 virakesarilk | 6,497
-adaderanasinhalalk | 6,979
+adaderanasinhalalk | 6,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,029 (100.0%) of 41,031 articles have been extended.
+41,031 (100.0%) of 41,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### චමරි සිඩ්නි තන්ඩර්ස් වෙනුවෙන් ගිවිසුම් ගත වෙයි
+
+*2024-08-16 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199994) · `si`
+
+වත්මන් කාන්තා ක්‍රිකට් පිටියේ කැපී පෙනෙන ක්‍රීඩිකාවක් බවට පත්වී සිටින ශ්‍රී ලංකා නායිකා චමරි අතපත්තු ඔස්ට්‍රේලියානු කාන්තා බිග් බෑෂ් ලීගයේ (WBBL) ඉදිරි වාර තුන සඳහා සිඩ්නි තන්ඩර්ස් සමඟින් ගිවිසුම් ගතවී ඇත.
+
+ඇය පෙර අදියරේදී ද (2023-24) ක්‍රීඩා කරනු ලැබුවේ සිඩ්නි තන්ඩර්ස් සමගින් වුවත්, එවර ඇයට එම අවස්ථාව උදා වූයේ ආබාධයකට ලක් වූ ක්‍රීඩිකාවකගේ ආදේශ කිරීමක් පිරවීම වෙනුවෙනි.
+
+කෙසේ නමුත් එම අදියරේදී තුන්ඉරියව්වෙන්ම දක්ෂතා දැක්වීමට චමරි සමත් වූ අතර, ඇය ඉනිම් 14කදී අර්ධ ශතක 05ක් සමගින් ලකුණු 552ක් රැස්කිරීමට සමත් විය.
+
+එය එම අදියරේ පිතිකාරිණියක රැස්කළ දෙවැනි වැඩිම ලකුණු සංඛ්‍යාවද වූ අතර, එහි ඉනිමක සාමාන්‍ය 42.46ක් විය.
+
+ඊට අමතරව ඇය එහිදී කඩුලු 9ක්ද දවාගනිමින් සිඩ්නි තන්ඩර්ස් වෙනුවෙන් දස්කම් දැක් වූවාය.
+
+චමරිගේ එම සුවිශේෂී දක්ෂතා හේතුවෙන් තරගාවලියේ වීරවරියට හිමි සම්මානයද දිනාගත්තාය.
+
+කෙසේ නමුත් කණ්ඩායම් 08ක සහභාගිත්වයෙන් පැවැත්වෙන මෙම තරගාවලියේදී සිඩ්නි කණ්ඩායමට එවර ප්‍රසාද ලකුණු සටහනේ 04වැනි ස්ථානයෙන් නැවතීමට සිදුවිය.
+
+එළබෙන බිග් බෑෂ් කාන්තා ලීගය මෙම වසරේ ඔක්තෝබර් 27වනදා ආරම්භ වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/80f17cff.json)
+
+---
 
 ### Daughter of former Thai Prime Minister Thaksin will be nominated as new leader in parliamentary vote
 
@@ -50,21 +76,29 @@ Paetongtarn thanked her party and the coalition partners for their support, addi
 
 [Data](articles/8954f6b2.json)
 
+[Extended Data](ext_articles/8954f6b2.ext.json)
+
 ---
 
-### 19ஆம் திகதி supermoon
+### Supermoon on the 19th
 
 *2024-08-16 10:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19ஆம்-திகதி-supermoon/175-342274) · `ta`
 
-இந்த ஆண்டின் முதல் முழு நிலவு (supermoon) எதிர்வரும் திங்கட்கிழமை (19) வானில் காணலாம் என தெரிவிக்கப்பட்டுள்ளது.
+The first Supermoon of 2023, appearing closer and brighter than usual, will grace our skies on January 19th. This phenomenon occurs when the Moon orbits closest to Earth, enhancing its luminosity.
 
-வழக்கத்தைவிட அது இன்னும் அருகில் தோன்றவிருப்பதால் நிலவின் ஒளி அதிகரித்த நிலையில் காணப்படும்.
+🟩
 
-இரண்டு வெவ்வேறு விண்ணுலக நிகழ்வுகள் நேரும்போது பெரு முழு நிலவு தோன்றுகிறதாக தெரிவிக்கப்படுகின்றது. R
+The first full moon this year (Supermoon) is expected to be seen in the sky on Monday (19).
+
+The light of the moon will be increased as it will appear more close than usual.
+
+It is reported that the full moon appears when two different celestial events occur. Remble
 
 ◼️
 
 [Data](articles/86c19d66.json)
+
+[Extended Data](ext_articles/86c19d66.ext.json)
 
 ---
 
@@ -2223,31 +2257,5 @@ Anuradhapura District MP Ishak Rahuman, Puttalam District Parliamentarian Ali Sa
 [Data](articles/7519c4f5.json)
 
 [Extended Data](ext_articles/7519c4f5.ext.json)
-
----
-
-### "Like a tea shop"
-
-*2024-08-15 16:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேநீர்-கடையைப்-போல்-இருந்தது/175-342234) · `ta`
-
-Vijayadasa Rajapakse criticizes the Election Commission for its handling of nominations, comparing it unfavorably to a "village tea shop" gathering. He accuses the commission of allowing numerous proxy candidates to support specific individuals, likening them to gang members. Rajapakse urges the commission to set an example of discipline before asking others to do so, highlighting a potential contradiction with SLFP division leader Maithripala Sirisena's endorsement of his candidacy.
-
-🟩
-
-Vijayadasa Rajapakse, the presidential candidate of the National Democratic Front, has criticized the Election Commission for failing to maintain morals when he handed over nominations earlier today.
-
-"Earlier, the Election Commission has entered the court as a court and maintained the honor. But this time it was like a village tea shop where many gangs gathered, ”Rajapakse said.
-
-After handing over the nomination to the former ministerial election commission officials, he told the media that the behavior of those who came forward to become the first citizens of the country.
-
-Rajapakse alleges that "there were some proxy fake candidates to promote a candidate,". “Such fakes were at least 15 to 20 people for a candidate. They behaved like thugs in gangs. ”
-
-Rajapakse urged the Elections Commission to maintain discipline among candidates. “Before we ask people to maintain discipline, we must be a role model,” he said, he said.
-
-...
-
-[Data](articles/f35a4c19.json)
-
-[Extended Data](ext_articles/f35a4c19.ext.json)
 
 ---

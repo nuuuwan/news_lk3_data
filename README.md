@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 19:21:10**
+As of **2024-08-16 19:36:51**
 
 ## Newspaper Stats
 
-*Scraped **41,108** Articles*
+*Scraped **41,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,104 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,783
 dailymirrorlk | 4,733
-adaderanalk | 4,802
-tamilmirrorlk | 5,261
+adaderanalk | 4,803
+tamilmirrorlk | 5,262
 virakesarilk | 6,521
-adaderanasinhalalk | 6,995
+adaderanasinhalalk | 6,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,106 (100.0%) of 41,108 articles have been extended.
+41,108 (100.0%) of 41,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட்டில் சதம் குவித்த இரண்டாவது இலங்கை வீராங்கனை விஷ்மி
+### Ex-President Maithripala reveals stance on presidential candidates
 
-*2024-08-16 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191259) · `ta`
+*2024-08-16 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/101292/ex-president-maithripala-reveals-stance-on-presidential-candidates) · `en`
 
-அயர்லாந்துக்கு எதிராக பெல்ஃபாஸ்டில் நடைபெற்றுவரும் முதலாவது மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 19 வயதை நெருங்கும் பருவமங்கை விஷ்மி குணரட்ன, கன்னிச் சதம் குவித்து வரலாறு படைத்தார்.
+Former President Maithripala Sirisena states that he has not decided to support any of the candidates who are contesting the 2024 Presidential Election.
 
-இலங்கை அணித் தலைவி சமரி அத்தபத்தவுக்குப் பின்னர் மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட்டில் சதம் குவித்த இரண்டாவது வீராங்கனை என்ற பெருமையை விஷ்மி குணரட்ன பெற்றுக்கொண்டார்.
+Issuing a statement, Sirisena also refuted certain media reports and the statements made by some politicians of both the ruling party and the opposition regarding him.
 
-எதிர்வரும் வியாழக்கிழமை 22ஆம் திகதி தனது 19ஆவது பிறந்த நாளைக்  கொண்டாடவுள்ள விஷ்மி குணரட்ன, இன்றைய போட்டியின் ஆரம்பத்தில் நிதானத்தைக் கடைப்பிடித்த போதிலும் நேரஞ்செல்ல செல்ல திறமையாகத் துடுப்பெடுத்தாடி சதத்தைப் பெற்றார்.
+Meanwhile, the former President also highlighted that as the issues that has arisen within the Sri Lanka Freedom Party (SLFP) is currently being resolved in the courts and that the court has not yet given a decision as to who is the president of the party.
 
-வழமையான அணித் தலைவி சமரி அத்தபத்து தான் எதிர்கொண்ட முதல் பந்திலேயே ஆட்டம் இழந்தபோதிலும் மறுபக்கத்தில் நிதானத்துடன் துடுப்பெடுத்தாடிய விஷ்மி குணரட்ன, 97 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 101 ஓட்டங்களைப் பெற்றார்.
+Accordingly, he emphasized that only the SLFP’s Chairman has full authority under the party’s Constitution, there is no validity in the appointments and decisions made by any other member of the party.
 
-மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் சமரி அத்தபத்து மாத்திரமே இதற்கு முன்னர் சதம் குவித்திருந்தார். அவர் இதுவரை 9 சதங்களைக் கவித்துள்ளார்.
+◼️
+
+[Data](articles/75029563.json)
+
+---
+
+### මැතිවරණ කොමිසමේ වැඩට බාධා කළ සැකකරුට ඇප
+
+*2024-08-16 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200011) · `si`
+
+නාමයෝජනා භාරගන්නා අවස්ථාවේදී මැතිවරණ කොමිසමේ කටයුතුවලට බාධා වන ආකාරයෙන් කටයුතු කළේ යැයි අත්අඩංගුවට ගත් සැකකරුවකු ඇප මත මුදාහැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+රුහුණු ජනතා පක්ෂයේ සාමාජිකයකු බව කියන අයෙකු වැලිකඩ පොලීසිය මගින් මෙලෙස අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+පොලීසිය අධිකරණයට කරුණු දක්වමින් පවසා ඇත්තේ මැතිවරණ කාර්යාලයට ඇතුළු වී නාමයෝජනා භාරගන්නා නිලධාරීන්ගේ  කටයුතුවලට බාධාවන අයුරින් කටයුතු කිරීම හේතුවෙන් සැකකරු අත්අඩංගුවට ගත් බවය.
+
+සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පවසා ඇත්තේ සැකකරුට නාමයෝජනා භාර ගන්නා ස්ථානයට ඇතුළු වීම සඳහා ප්‍රවේශ පත්‍රයක් තිබූ බවයි.
+
+එමෙන්ම නාම යෝජනාවක් සම්බන්ධයෙන් විරෝධතා දැක්වීමට යාමේ දී ඔහු අත්අඩංගුවට ගෙන තිබූ බවත් නීතිඥවරයා අධිකරණය හමුවේ කරුණු පවසා තිබේ.
+
+ඒ අනුව ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා සැකකරු ඇප මත මුදා හැරීමට නියෝග කර තිබේ.
+
+එසේම සැකකරුගේ දුරකථන හා පරිගණකය පරීක්ෂා කිරීම සඳහා පොලීසියට අවශ්‍ය සහාය ලබා දෙන ලෙසත් සැකකරුට නියෝග කර ඇත.
 
 ...
 
+[Data](articles/da04329e.json)
+
+---
+
+### மைத்திரியின் அதிரடி அறிவிப்பு
+
+*2024-08-16 19:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-அதிரடி-அறிவிப்பு/175-342292) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் எந்தவொரு வேட்பாளர்களுக்கும் தாம் ஆதரவளிக்கப்போவதில்லை என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+விசேட ஊடக அறிக்கை ஒன்றை வௌியிட்டு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இதனை தெரிவித்துள்ளார்.
+
+அதேபோல், சில ஊடகங்கள் மற்றும் அரசியல்வாதிகள் என்னைப்பற்றி வெளியிடும் கருத்துக்களில் எவ்வித உண்மையும் இல்லை எனவும் அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/bb904aab.json)
+
+---
+
+### Vishmi is the second Sri Lankan player who scored a century in women's international cricket
+
+*2024-08-16 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/191259) · `ta`
+
+Vishmi Gunaratne, aged 19, made history as the second Sri Lankan woman to score a century in women's international cricket, following in the footsteps of captain Samari Attapatta. Playing in her first ODI in Belfast against Ireland, Vishmi celebrated her birthday by scoring 101 runs off 97 balls, including 9 fours and 3 sixes. This achievement came just days before her 19th birthday, marking a significant milestone in her young career.
+
+🟩
+
+Vishmi Gunaratne made a history of 19 years of age in the first women's ODIs in Belfast against Ireland.
+
+Vishmi Gunaratne became the second player to score a century in women's international cricket after Sri Lankan captain Samari Attapatha.
+
+Vishmi Gunaratne, who is celebrating her 19th birthday on the 22nd of this month, has been able to get a century in the beginning of today's competition.
+
+Vishmi Gunaratne, who scored 97 balls, scored 101 runs with 9 fours and 3 sixes, despite the first ball of the match he faced in the first ball.
+
+Samari Attapattu had previously scored a century in women's international cricket. He has so far pointed out 9 centuries.
+
+Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 wickets in 44 overs a short time ago.
+
+◼️
+
 [Data](articles/fc5ca8bb.json)
+
+[Extended Data](ext_articles/fc5ca8bb.ext.json)
 
 ---
 
@@ -70,21 +136,29 @@ This has reportedly been revealed following a doping test conducted by the Sri L
 
 ---
 
-### மட்டக்களப்பு மாவட்டத்தில் காட்டு யானைகளின் அட்டகாசம்; பயன் தரும் தென்னை மரங்கள் அழிப்பினால் மக்கள் பாதிப்பு
+### Wild elephants in Batticaloa district;People's vulnerabilities are affected by the destruction of coconut trees
 
 *2024-08-16 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/191257) · `ta`
 
-காட்டு யானைகளின் தாக்குதலால் மட்டக்களப்பு மாவட்டத்தில் கடந்த 2007 ஆம் ஆண்டு தொடக்கம் இன்று வரை மக்களின் வீடுகளையும் அவர்களது பயிர் நிலங்கள், அதிகளவான தென்னை மரங்களையும் அழித்து வருவதாகவும் இதற்கான தீர்வு இம்மக்களுக்குக் கிடைக்கவில்லை. என முன்னாள் கிழக்கு மாகாண சபை உறுப்பினர் இரா. துரைரெத்தினம் கவலை தெரிவித்துள்ளார்.
+Wild elephants in Batticaloa since 2007 have devastated homes, crops, and coconut trees, impacting locals' livelihoods. In recent attacks, farms and coconut plantations were ruined, affecting rural coconut production and community income. Despite efforts to address the issue, solutions remain elusive.
 
-வெள்ளிக்கிழமை அதிகாலை (16ம் திகதி) பன்சேனை மற்றும் புல்லுமலை பகுதியில் மக்கள் குடியிருப்புக்குள் ஊடுருவிய காட்டு யானைகள் விவசாயிகளின் குடிசையினையும் பல தென்னை மரங்களையும் அழித்துச் சேதப்படுத்தியுள்ளது.
+🟩
 
-இந்த அனர்த்தத்தைப் பார்வையிட்ட பின் கருத்து தெரிவிக்கையில் அவர் மேற்படி விடயத்தைச் சுட்டிக்காட்டினார்.
+Due to the attack of wild elephants, the Batticaloa district has been destroying the homes of the people, their crop lands and more coconut trees from 2007 to the present day.. Former Eastern Provincial Council Member. Durairatnam expressed concern.
 
-கடந்த ஏழு மாதங்களில் மட்டக்களப்பு மாவட்டத்தில் வவுணதீவு, பட்டிப்பளை, வெல்லாவெளி, கிரான், ஏறாவூர் பற்று (செங்கலடி ) வாகரை  போன்ற பிரதேச செயலாளர் பிரிவுகளில் சுமார் 950 தொடக்கம் 1200 எண்ணிக்கையிலான தென்னை மரங்களை காட்டு யானைகள் அழித்து துவசம் செய்துள்ளது.
+In the early hours of Friday morning (16), wild elephants infiltrated the residence of the people of Bansen and Pullumalai have damaged the farmers' huts and many coconut trees.
+
+After visiting the disaster, he pointed out the matter.
+
+In the last seven months, wild elephants have destroyed about 950 to 1200 coconut trees in the Divisional Secretariat Divisions such as Vavunathivu, Padippalai, Wellaveli, Gran, Eravur Pattipalai (Chengaladi) Vaharai.
+
+These beneficial coconut trees are now enjoying the impact of the destruction of the wage industry and the life of the people.. This will affect local rural coconut production and people's livelihood in the future.
 
 ...
 
 [Data](articles/32f80eb7.json)
+
+[Extended Data](ext_articles/32f80eb7.ext.json)
 
 ---
 
@@ -2211,65 +2285,5 @@ Police said the shooting was carried out with a 56 -rifle.. (A)
 [Data](articles/b7c812cb.json)
 
 [Extended Data](ext_articles/b7c812cb.ext.json)
-
----
-
-### Sri Lanka to breach inflation target till 2025 first quarter: Central Bank
-
-*2024-08-16 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-breach-inflation-target-till-2025-first-quarter-central-bank-176979/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation is expected to be below 3 percent up to the first quarter of 2025 the central bank said, after maintaining inflation around the same levels in the past several months, breaching the lower level of a 5 percent inflation target.
-
-Sri Lanka’s central bank has proposed a 5 percent inflation target, plus or minus two percent to President Ranil Wickremesinghe, who has apparently accepted it without question.
-
-The agency now projects inflation, giving baseline forecasts and probable projected inflation.
-
-“Given that the quarterly average inflation recorded during Q2-2024 was also below the target by more than 2 percentage points, the projections imply a possible breach of the inflation target, as stipulated in Section 26(5) of the CBA, on the downside in Q3-2024 for the first time, as inflation would have been below the target by more than 2 percentage points during two consecutive quarters,” the central bank said.
-
-...
-
-[Data](articles/7cff700d.json)
-
-[Extended Data](ext_articles/7cff700d.ext.json)
-
----
-
-### Youth killed in shooting at Sripura
-
-*2024-08-16 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101272/youth-killed-in-shooting-at-sripura) · `en`
-
-A 26-year-old person has been shot dead at Pillayar Junction in Gemunupura, Sripura early this morning (16).
-
-Police said the shooting was carried out by an unidentified gunman who had arrived on a motorcycle and using a T56 assault rifle.
-
-The 26-year-old victim, who was killed on the spot following the shooting, is a resident of Kawanthissapura, Sripura.
-
-The motive behind the shooting has not yet been uncovered while Sri Pura Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/fc1d322c.json)
-
-[Extended Data](ext_articles/fc1d322c.ext.json)
-
----
-
-### Sri Lanka kills a person
-
-*2024-08-16 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199986) · `si`
-
-A person was shot and killed today in Sri Lanka, at the Gemunupura Palleyar junction in the Sri Pillai Division. The police confirmed the incident.
-
-🟩
-
-Police say that a shot of shooting has been murdered today (16).
-
-The shooting was carried out at the Gemunupura Palleyar junction in the Sri Pills Division.
-
-◼️
-
-[Data](articles/daa6232c.json)
-
-[Extended Data](ext_articles/daa6232c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 08:25:05**
+As of **2024-08-16 08:36:46**
 
 ## Newspaper Stats
 
@@ -26,73 +26,97 @@ adaderanasinhalalk | 6,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,005 (100.0%) of 41,009 articles have been extended.
+41,009 (100.0%) of 41,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### பாடசாலைகளுக்கு இன்றுடன் விடுமுறை
+### Holidays for schools today
 
 *2024-08-16 08:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-இன்றுடன்-விடுமுறை/175-342268) · `ta`
 
-அரச மற்றும் அரச அனுமதி பெற்ற தமிழ் மற்றும் சிங்கள பாடசாலைகளுக்கு இன்று முதல் விடுமுறை வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+Tamil and Sinhala schools received holiday permits due to state reasons, allowing the first phase of the third installment to commence on April 26th.
 
-அதற்கமைய, மூன்றாம் தவணையின் முதலாம் கட்டம் எதிர்வரும் 26 ஆம் திகதி திங்கட்கிழமை ஆரம்பமாகும் என அமைச்சு குறிப்பிட்டுள்ளது. (a)
+🟩
+
+Tamil and Sinhala schools with state and state permits have been granted holidays from today, the Ministry of Education said.
+
+Accordingly, the first phase of the third installment will begin on Monday, the 26th of this month.. (A)
 
 ◼️
 
 [Data](articles/9ddff0d7.json)
 
+[Extended Data](ext_articles/9ddff0d7.ext.json)
+
 ---
 
-### පොහොට්ටු මන්ත්‍රීවරුන්ට විනය ක්‍රියාමාර්ග ගැනීමට සැරසෙයි
+### Pays MPs to take measures to take action
 
 *2024-08-16 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199988) · `si`
 
-2024 ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීම සඳහා එක්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ මන්ත්‍රීවරුන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+President Wickremesinghe plans to discipline Sri Lanka Civil Service members opposing his 2024 presidential bid. The move comes after a political council meeting where it was decided to name a party candidate and act against dissenters. This follows reports of influence from the party's Political Bureau and requests from activists for membership revocation.
 
-ඒ, සම්බන්ධයෙන් වන ලිපි කඩිනමින් එම මන්ත්‍රීවරුන් වෙත යොමුකිරීමට කටයුතු කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ප්‍රකාශකයෙකු සඳහන් කළේය.
+🟩
 
-විනය ක්‍රියාමාර්ග ගැනීමෙන් අනතුරුව පක්ෂයේ තීරණයට එරෙහි වූ මන්ත්‍රීවරුන්ගේ පක්ෂ සාමාජිකත්වය අහෝසි වනු ඇති බවද සඳහන් ය.
+It has been reported that the President has decided to take disciplinary action against the members of the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment of the Sri Lanka General Wickremesinghe in the 2024 presidential election.
 
-ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණ ගන්නා ක්‍රියාමාර්ග සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා එහි දේශපාලන මණ්ඩලය පසුගියදා රැස්වී තිබුණි.
+A spokesperson of the Sri Lanka General Manage said that the MPs will be referred to the MPs soon.
 
-එහිදී පක්ෂයෙන් අපේක්ෂකයෙකු නම් කිරීමට තීරණය කළ අතර, එම තීරණයට එරෙහි වූ මන්ත්‍රීවරුන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගන්නා බවටද තීරණය කෙරුණි.
+It is said that after taking disciplinary action, the party membership of the members who opposed the decision of the party will be abolished.
 
-කෙසේ වෙතත් පක්ෂයේ තීරණයට එරෙහිවූ මන්ත්‍රීවරුන් සම්බන්ධයෙන් කඩිනමින් ක්‍රියාමාර්ග ගන්නා ලෙසට පසුගිය සති කිහිපය පුරා පක්ෂයේ දේශපාලන මණ්ඩලයට දැඩි බලපෑම් එල්ලකර ඇති බවද වාර්තා වෙයි.
+The Political Council was recently gathered to discuss the Sri Lanka Civil Arumen's Front in the presidential election.
+
+It was decided to name a candidate from the party, and it was decided to take disciplinary action against MPs who opposed the decision.
+
+However, it is reported that the party's Political Bureau has been influenced by the party's Political Bureau over the past few weeks to take measures to take action against the party's decision.
 
 ...
 
 [Data](articles/b96c48fe.json)
 
+[Extended Data](ext_articles/b96c48fe.ext.json)
+
 ---
 
-### ජනාධිපතිවරණයේදී වියදම් කළ හැකි මුදල ?
+### Is the money possible at the presidential election?
 
 *2024-08-16 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199987) · `si`
 
-එළඹෙන ජනාධිපතිවරණයේදී එක් ඡන්දදායකයෙකු වෙනුවෙන් අපේක්ෂකයෙකු හට වියදම් කළ හැකි මුදල් ප්‍රමාණය සම්බන්ධයෙන් අවසන් තීරණයක් අද (16) දිනයේ ගනු ඇති බව පැෆ්රල් සංවිධානය පවසයි.
+PAFFREL expects to decide the campaign spending limit for candidates in the upcoming presidential election today. The decision will be made after a meeting involving the Elections Commission and political party representatives.
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කර සිටියේ, මැතිවරණ කොමිෂන් සභාව සහ දේශපාලන පක්ෂ නියෝජිතයින් අතර අද පැවැත්වෙන සාකච්ඡාවකදී මෙම තීරණය ගනු ඇති බවය.
+🟩
+
+PAFFREL organization says that a final decision will be spent on the amount of money that a candidate will be spent on a candidate in the coming presidential election will be held today.
+
+Executive Director Rohana Hettiarachchi said that this decision will be taken at a meeting between the Elections Commission and political parties representatives.
 
 ◼️
 
 [Data](articles/c82beba4.json)
 
+[Extended Data](ext_articles/c82beba4.ext.json)
+
 ---
 
-### ஸ்ரீபுரயில் துப்பாக்கிச் சூடு: இளைஞன் பலி
+### Sripuri shooting: Young man killed
 
 *2024-08-16 07:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீபுரயில்-துப்பாக்கிச்-சூடு-இளைஞன்-பலி/175-342267) · `ta`
 
-அநுராதபுரம் - ஸ்ரீபுர, கெமுனுபுர, பிள்ளையார் சந்தியில் இன்று அதிகாலை மோட்டார் சைக்கிளில் வந்த நபரொருவரால் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் 26 வயதுடைய நபர் கொல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Anuradhapura-Sripura, a 26-year-old man was fatally shot while riding a motorcycle near Pillaiyar junction. The incident occurred early this morning, and it's reported that a 56-rifle was used in the shooting.
 
-ரி - 56 ரக துப்பாக்கியால் இந்த துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். (a)
+🟩
+
+A 26 -year -old man has been killed in a motorcycle at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning, police said.
+
+Police said the shooting was carried out with a 56 -rifle.. (A)
 
 ◼️
 
 [Data](articles/b7c812cb.json)
+
+[Extended Data](ext_articles/b7c812cb.ext.json)
 
 ---
 

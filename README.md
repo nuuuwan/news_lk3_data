@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 23:21:16**
+As of **2024-08-16 23:37:08**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,133 (100.0%) of 41,136 articles have been extended.
+41,136 (100.0%) of 41,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### யாழில் சகோதரனுடன் மோட்டார் சைக்கிளில் பயணித்த பெண் கீழே விழுந்து மரணம்!
+### Woman traveling on a motorbike with her brother in Jaffna falls down
 
 *2024-08-16 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191264) · `ta`
 
-சகோதரனுடன் மோட்டார் சைக்கிளில் சென்ற பெண் ஒருவர் கீழே விழுந்து, வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் வெள்ளிக்கிழமை (16) உயிரிழந்துள்ளார். சாந்தை - பண்டத்தரிப்பு பகுதியைச் சேர்ந்த 33 வயதுடைய  பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்.
+A woman, 33, died after falling off a motorbike without a helmet while riding with her brother in Jaffna. They had visited the Krishnan Temple and were returning home when the accident occurred. She was first taken to the Tellippalai Base Hospital and later to another hospital, where she passed away. An autopsy was conducted by A. Jayapalasingham, and her body was released to her family.
 
-கடந்த 11ஆம் திகதி குறித்த பெண் பொன்னாலை கிருஷ்ணன் கோவிலுக்குச் சென்றுள்ளார். பின்னர் தனது சகோதரனுடன் தலைக்கவசம் இன்றி மோட்டார் சைக்கிளில் வீட்டுக்கு வந்து கொண்டிருந்த வேளை மாதகல் - பொன்னாலை வீதியில் குறித்த பெண் தவறி திடீரென கீழே விழுந்து மயக்கம் அடைந்துள்ளார்.
+🟩
 
-இந்நிலையில் சங்கானை வைத்தியசாலைக்கு அழைத்துச் செல்லப்பட்டு, மேலதிக சிகிச்சைக்காக தெல்லிப்பழை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் வெள்ளிக்கிழமை (16) உயிரிழந்துள்ளார்
+A woman who was riding a motorbike with her brother died on Friday (16) as she was admitted to hospital. The 33 -year -old woman from Shantha - Pandathara area has died.
 
-சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது.
+On the 11th, the woman has visited the Krishnan Temple. Later, when she was coming home with her brother on a motorbike without a helmet, the woman suddenly fell down on Madagal - Ponnalai road.
+
+He was taken to the hospital on Friday (16) after being taken to the Tellippalai Base Hospital for further treatment.
+
+A sudden death investigator, A. Jayapalasingham. The body has been handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/492cd9e2.json)
+
+[Extended Data](ext_articles/492cd9e2.ext.json)
 
 ---
 
@@ -194,19 +200,27 @@ It is noteworthy that the situation is due to the turbulence of the low -lying a
 
 ---
 
-### தேர்தல் சட்டங்களை பின்பற்றி பிரசார நடவடிக்கைகளை மேற்கொள்ளவும் - அனைத்து வேட்பாளர்களிடமும் பெப்ரல் அமைப்பு வேண்டுகோள்
+### Follow the election laws and carry out campaigns
 
 *2024-08-16 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191241) · `ta`
 
-தேர்தல் செலவு ஒழுங்குபடுத்தல் சட்டம் செயற்படுத்தப்படுவதால் ஜனாதிபதி தேர்தலில் போட்டியிடும் அனைத்து வேட்பாளர்களும் தேர்தல் சட்ட திட்டங்களை பின்பற்றி கெளரவமான முறையில் பிரசார நடவடிக்கைகளில் ஈடுபட வேண்டும். தேர்தல் செலவு சட்டத்தை மீறி செயற்பட்டால் மூன்று வருடங்களுக்கு எந்தவொரு தேர்தலிலும் போட்டியிட முடியாமல் போகும் என பெப்ரல் அமைப்பினர் நிறைவேற்றுப் பணிப்பாளர் ராேஹன ஹெட்டியாரச்சி தெரிவித்தார்.
+Candidates must adhere to election laws during campaigns, including the Election Cost Regulatory Act, which prohibits violations leading to a three-year ban from running. The act aims to prevent violence and voter bribery, emphasizing transparency in campaign spending.
 
-பெப்ரல் அமைப்பு வெள்ளிக்கிழமை (16) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலில் போட்டியிட வேட்புமனு தாக்கல் செய்துள்ள வேட்பாளர்கள் எந்தவகையிலும் வன்முறை சம்பவங்கள் ஏற்படாதவகையில் தங்களின் தேர்தல் பிரசார நடவடிக்கைகளில் ஈடுபட வேண்டும். அதேபோன்று சூழலுக்கு பாதிப்பு ஏற்படும் பிரசார  நடவடிக்கைகளில் இருந்து தவிர்ந்துகொள்ளுமாறும் வாக்காளர்களை பணத்துக்கு வாங்குவதற்கு முயற்சிக்க வேண்டாம் எனவும் அனைத்து வேட்பாளர்களையும் கேட்டுக்கொள்கிறோம்.
+All candidates contesting the presidential election should be honored in honor of election law plans as the Election Cost Regulatory Act is implemented.. The Executive Director of the February said that if the election cost law is violated, it will not be able to contest for three years.
+
+He was speaking at a press conference held in Colombo on Friday (16).
+
+Candidates who have filed nominations to contest the presidential election must engage in their election campaign so as not to cause incidents of violence.. Similarly, we urge all candidates not to try to get out of the campaigns that are affected by the environment and do not try to buy voters.
+
+Moreover, for the first time in this election, the Election Expenditure Regulatory Act has been implemented. Therefore, in accordance with the law where the cost of the candidates is defined. There is a lack of office of candidates who violate this law.
 
 ...
 
 [Data](articles/3d748108.json)
+
+[Extended Data](ext_articles/3d748108.ext.json)
 
 ---
 
@@ -232,19 +246,29 @@ Tamil National People's Front MP Selvarajah Gajendran and many supporters of the
 
 ---
 
-### எம் கையாலேயே எம் கண்களைக் குருடாக்கும் தென்னிலங்கை அரசியல் சக்திகள் : தமிழ் மக்கள் அவதானமாக செயற்படவேண்டும் என்கிறார் சுரேஷ்
+### Political forces of South Sri Lanka, who are blinded by our eyes
 
 *2024-08-16 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191233) · `ta`
 
-எம்மவர்களைக் கொண்டே எம்மைப் பிரித்தாண்டு எமது ஒற்றுமையை சிதைத்து, எமது அபிலாசைகளைக் குழிதோண்டிப் புதைத்து எம்மீது மீண்டும் ஒடுக்குமுறைகளை மேற்கொள்வதற்கு எம்மிடமே ஆணை பெறுவதற்கு தென்னிலங்கை அரசியல்வாதிகள் முயற்சிக்கின்றனர்.
+South Sri Lanka's political landscape is marked by tensions between local politicians aiming to suppress Tamil aspirations and national figures seeking Tamil support for the 2024 presidential election. Key contenders Ranil Wickremesinghe, Sajith Premadasa, and Anuragumara Dissanayake frequent the North and East, engaging with Tamil parties and individuals. Despite internal discussions and a Memorandum of Understanding among Tamil groups advocating for a joint candidate, external pressures and political maneuverings, particularly from Sumanthiran, complicate efforts towards unity and representation. Historical failures in constitutional amendments and lack of progress on key issues like the 13th Amendment highlight ongoing challenges. The situation underscores the complexities and challenges faced by Tamil communities in navigating Sri Lankan politics and securing their rights.
 
-எனவே நாம் விழிப்புடன் இருந்து எம்மை பலியிடத் துடிக்கும் சக்திகளைப் புறந்தள்ளி அவர்களின் விருப்பம் நிறைவேறாமல் பார்த்துக்கொள்ள வேண்டும் என்று ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணியின் தலைவர் சுரேஷ் க. பிரேமச்சந்திரன் அறைகூவல் விடுத்துள்ளார்.
+🟩
 
-2024 ஆம் ஆண்டிற்கான ஜனாதிபதித் தேர்தலில் தமிழ் மக்களின் வாக்குகளைப் பெற்றுக்கொள்வதற்காக அதன் முக்கிய வேட்பாளர்களான ரணில் விக்கிரமசிங்க, சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க போன்றோர் அடிக்கடி வடக்கு - கிழக்குக்கு வருவதும் அங்குள்ள பல்வேறு கட்சிகளையும் தனிநபர்களையும் சந்தித்துப் பேசுவதும் இப்பொழுது கிரமமாக நடைபெற்று வருகின்றது.
+The South Sri Lankan politicians are trying to get the decree of our unity and bury our aspirations and re -oppress us.
+
+So we should be vigilant and ignore the forces that are trying to sacrifice us and take care of their desire to not fulfill their desire.. Premachandran has made a call.
+
+Ranil Wickremesinghe, Sajith Premadasa and Anuragumara Dissanayake, the main candidates of the Tamil people in the 2024 presidential election, are frequently coming to the North and East and meeting various parties and individuals there.
+
+In addition to this, the Tamil parties are looking to come to Colombo and they are looking for them, such as Sumanthiran and Chanakyan, on the other hand.
+
+In particular, Sumanthiran has repeatedly met Ranil Wickremesinghe and giving them a great news, and the newspapers are about to write about the fact that Ranil Wickremesinghe is going to solve the problems of the Tamil people.
 
 ...
 
 [Data](articles/239d9dce.json)
+
+[Extended Data](ext_articles/239d9dce.ext.json)
 
 ---
 

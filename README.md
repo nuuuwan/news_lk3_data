@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 11:56:26**
+As of **2024-08-16 12:10:06**
 
 ## Newspaper Stats
 
-*Scraped **41,041** Articles*
+*Scraped **41,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,778
 dailymirrorlk | 4,733
-adaderanalk | 4,790
+adaderanalk | 4,792
 tamilmirrorlk | 5,250
 virakesarilk | 6,497
 adaderanasinhalalk | 6,981
@@ -26,25 +26,71 @@ adaderanasinhalalk | 6,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,032 (100.0%) of 41,041 articles have been extended.
+41,040 (100.0%) of 41,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### පාකිස්තානයෙන් 'මංකිපොක්ස්' රෝගීන් හමුවෙයි
+### Paetongtarn Shinawatra becomes Thailand’s youngest PM
+
+*2024-08-16 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101280/paetongtarn-shinawatra-becomes-thailands-youngest-pm) · `en`
+
+Thailand’s Parliament elected Paetongtarn Shinawatra, the youngest daughter of the divisive former leader Thaksin Shinawatra, as the country’s new prime minister Friday.
+
+Paetongtarn becomes Thailand’s third leader from the Shinawatra family, after her father, who was ousted by coup before returning from exile last year, and her aunt Yingluck Shinawatra, who lives in exile. Paetongtarn also became Thailand’s second female prime minister after her aunt and the country’s youngest leader at 37.
+
+She is the leader of the ruling Pheu Thai party but was not an elected lawmaker, which was not required for her to be a candidate for prime minister. Paetongtarn was the sole nominee and got a majority of the votes in Parliament with the voting ongoing.
+
+The last prime minister had been removed by the Constitutional Court two days ago over an ethics violation.
+
+...
+
+[Data](articles/08d36cfd.json)
+
+---
+
+### Mpox virus detected in Pakistan, health authorities say
+
+*2024-08-16 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101279/mpox-virus-detected-in-pakistan-health-authorities-say) · `en`
+
+Pakistan has detected three patients with the mpox virus, the health department in northern Khyber Pakhtunkhwa province said on Friday.
+
+The viral infection was detected in the patients on their arrival from the United Arab Emirates, the department said. The World Health Organization has declared recent outbreak of the disease as a public health emergency of international concern after a new variant of the virus has been identified.
+
+Pakistan has had cases of mpox, also called monkeypox, previously. It was not immediately clear which variant was detected in the patients.
+
+Two of the patients had been confirmed to have mpox, said Salim Khan, the director general of health services for Khyber Pakhtunkhwa.
+
+A third patient’s samples had been sent to the National Health Institute in the capital, Islamabad, for confirmation, he said, adding all three patients were being quarantined.
+
+A spokesperson for Pakistan’s national health ministry said Pakistan has detected one suspected case of mpox.
+
+...
+
+[Data](articles/bddee92a.json)
+
+---
+
+### Pakistan meets 'Mascox'
 
 *2024-08-16 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199995) · `si`
 
-එරට සෞඛ්‍ය අංශ ඒ බව තහවුරු කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+Health officials confirm cases of 'Mascox' in Pakistan, linked to UAE patients. Three individuals quarantined; cause unknown.
 
-එම රෝගීන් තිදෙනා එක්සත් අරාබි එමීර් රාජ්‍යයේ සිට පාකිස්තානයට ඇතුළුවීමේදී හඳුනාගෙන ඇති බවද එම වාර්තා පවසයි.
+🟩
 
-අදාළ රෝගීන් තිදෙනා නිරෝධායන කටයුතු සඳහා යොමුකර ඇති අතර ඔවුන්ට වැළඳී ඇති ප්‍රභේදය තවමත් තහවුරු කරගෙන නොමැත.
+Foreign media reports that the health sector has confirmed this.
+
+According to the reports, the three patients have been identified from the United Arabic Emirates.
+
+The three patients have been directed to quarantine and has not yet been established.
 
 ◼️
 
 [Data](articles/8ae7e6e1.json)
+
+[Extended Data](ext_articles/8ae7e6e1.ext.json)
 
 ---
 
@@ -65,6 +111,8 @@ The hand protection segment, which produces rubber gloves, also operates in Thai
 ...
 
 [Data](articles/1be422ca.json)
+
+[Extended Data](ext_articles/1be422ca.ext.json)
 
 ---
 
@@ -202,6 +250,8 @@ In equities, Colombo’s All Share Price Index opened 11.21 points higher at 11,
 
 [Data](articles/2c912347.json)
 
+[Extended Data](ext_articles/2c912347.ext.json)
+
 ---
 
 ### Mahinda and Namal to be blessed
@@ -222,23 +272,29 @@ Namal Rajapaksa and former President Mahinda Rajapaksa and former President Mahi
 
 ---
 
-### “ரூ. 60 கோடி வாங்கினார் சாணக்கியன்”
+### “The. 60 crores bought by Chanakyan ”
 
 *2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் இருந்து பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,  தனிப்பட்ட முறையில் 60 கோடி ரூபாயைப் பெற்றுக்கொண்டுள்ளதாக ரெலோ அமைப்பின் செயலாளரும் பாராளுமன்ற உறுப்பினருமான கோவிந்தன் கருணாகரம் குற்றஞ்சாட்டியுள்ளார்.
+Chanakyan, a Relo organization secretary, alleges that Parliamentarian Ranil Wickremesinghe received Rs 60 crore from President Wickremesinghe. However, TNA MP R. Sanakian clarifies it as a multi-pronged fund for MPs' District Development Programs. Govindan Karunagaram's accusation is seen as politically motivated.
 
-எவ்வாறாயினும் குறித்த குற்றச்சாட்டுக்குப் பதிலளித்துள்ள இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,
+🟩
 
-மாவட்ட அபிவிருத்தி வேலைத்திட்டங்களுக்காக பாராளுமன்ற உறுப்பினர்களுக்கான பன்முகப்படுத்தப்பட்ட நிதியே தமக்கு வழங்கப்பட்டதாகக் குறிப்பிட்டார்.
+Relo organization secretary and parliamentarian Govindan Karunagaram alleges that Parliamentarian Ranil Wickremesinghe has personally received Rs 60 crore from President Ranil Wickremesinghe.
 
-தம்மால் முன்வைக்கப்பட்ட முன்மொழிவுகளைக் கருத்திற்கொண்டு, வழங்கப்பட்ட அந்த நிதியில் தற்போது மாவட்டத்தில் அபிவிருத்தி வேலைத்திட்டங்கள் இடம்பெற்று வருகின்றன.
+However, the Sri Lanka Tamil National Alliance (TNA) parliamentarian R. Sanakian said, "
 
-இந்த நிலையில் அரசியல் நோக்கத்திற்காகக் கோவிந்தன் கருணாகரம் இவ்வாறான குற்றச்சாட்டை முன்வைத்துள்ளதாக பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார். R
+He noted that he was awarded a multi -pronged fund for MPs for the District Development Programs.
+
+In view of the proposals made by them, the funds provided by the district are currently undergoing development programs in the district.
+
+Govindan Karunagaram has made such an allegation for political purposes. Remble
 
 ◼️
 
 [Data](articles/9341bd88.json)
+
+[Extended Data](ext_articles/9341bd88.ext.json)
 
 ---
 
@@ -268,19 +324,25 @@ Govindan Karunagaram has made such an allegation for political purposes. Remble
 
 ---
 
-### “கிராமத்துக்கு தவறாமல் வரும் ஆபத்தான விலங்கு”
+### “The most dangerous animal that is regularly for the village”
 
 *2024-08-16 09:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமத்துக்கு-தவறாமல்-வரும்-ஆபத்தான-விலங்கு/175-342272) · `ta`
 
-கிராமத்தின் மேல் உள்ள காப்புக்காடு பகுதியில் இருந்து மாலை நேரத்தில் கிராமத்திற்கு வரம் பெரிய சிறுத்தைப் புலி கடந்த சில நாட்களாக வீடுகளில் வளர்க்கப்படும் நாய், மாடு போன்ற விலங்குகளை பிடித்து உண்பது வழக்கமாகிவிட்டது. மான் போன்ற விலங்குகள் வேட்டையாடப்படுவதையும் கிராம மக்கள் பார்த்துள்ளனர்.
+A large leopard-tiger hybrid has been spotted near a village, posing a threat to villagers and their children. The sighting has led to concern and fear among the community, who have reported it to the police and wildlife authorities.
 
-இது தொடர்பில் பொலிஸ் மற்றும் வனஜீவராசிகள் அலுவலகத்திற்கு ஏற்கனவே அறிவித்துள்ளதாக கிராம மக்கள் தெரிவித்துள்ளனர்.
+🟩
 
-இப்பிரச்னைக்கு உடனடி நடவடிக்கை எடுக்காவிட்டால், கிராம மக்களும், அவர்களது குழந்தைகளும் கடும் ஆபத்தை சந்திக்க நேரிடும் என்பதால், அப்பகுதியில் உள்ள அனைவரும்  அச்சத்தில் உள்ளனர் என குறிப்பிடப்பட்டுள்ளது. R
+It has become customary for the large leopard tiger to be grown in home for the past few days from the upper back of the village to the village.. Villagers have also seen animals like deer.
+
+The villagers have already informed the police and wildlife office in this regard.
+
+If the problem is not taken, the villagers and their children will be at risk, so everyone in the area is afraid.. Remble
 
 ◼️
 
 [Data](articles/4707de50.json)
+
+[Extended Data](ext_articles/4707de50.ext.json)
 
 ---
 
@@ -360,19 +422,25 @@ It is also reported that the party membership of MPs will be canceled after disc
 
 ---
 
-### ரணிலுக்கு ஆதரவளித்த ‘மொட்டுகளுக்கு’ சிக்கல்
+### Problem for the buds that supported Ranil
 
 *2024-08-16 09:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளித்த-மொட்டுகளுக்கு-சிக்கல்/175-342271) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க தீர்மானித்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+Disciplinary action will be taken against SLPA members supporting Ranil Wickremesinghe for the 2024 presidential election. Letters to MPs will be dispatched soon, leading to potential cancellation of their party memberships.
 
-இது தொடர்பான கடிதங்கள் விரைவில் பாராளுமன்ற உறுப்பினர்களுக்கு அனுப்பி வைக்கப்படும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-ஒழுக்காற்று நடவடிக்கைகளின் பின்னர் கட்சியின் தீர்மானத்திற்கு எதிர்ப்பு தெரிவிக்கும் பாராளுமன்ற உறுப்பினர்களின் கட்சி உறுப்புரிமை இரத்து செய்யப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது. R
+It has been decided to take disciplinary action against members of the Sri Lanka PA, which has decided to support Ranil Wickremesinghe in the 2024 presidential election.
+
+A spokesman for the Sri Lanka Peoples Alliance (PA) said that the letters will be sent to MPs soon.
+
+It is also reported that the party membership of MPs will be canceled after disciplinary action. Remble
 
 ◼️
 
 [Data](articles/b622fe68.json)
+
+[Extended Data](ext_articles/b622fe68.ext.json)
 
 ---
 
@@ -442,19 +510,25 @@ The SLPP politburo recently met to discuss the party’s approach to the preside
 
 ---
 
-### தனமல்வில சம்பவம் : சிறுமிக்கு அச்சுறுத்தல் அழைப்பு
+### Tanamalwila incident: Threatening to the girl
 
 *2024-08-16 08:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனமல்வில-சம்பவம்-சிறுமிக்கு-அச்சுறுத்தல்-அழைப்பு/76-342269) · `ta`
 
-தனமல்வில பிரதேசத்தில் 16 வயதுடைய சிறுமியை பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டு வரும் நிலையில் குறித்த சிறுமிக்கு, தான் பொலிஸ் அத்தியட்சகர் என கூறி வாக்குமூலம் பெற முயன்ற தொலைப்பேசி அழைப்போன்று கிடைக்கப்பட்டுள்ளதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+In Dhanamalwila, a 16-year-old girl was threatened over the phone by someone claiming to be a police superintendent, related to an investigation into her rape case. Following a parental complaint, police initiated an inquiry, arresting four schoolchildren suspected in the incident. The victim is hospitalized at Rijway Arya Hospital.
 
-இது தொடர்பில் அவரது பெற்றோர் செய்த முறைப்பாட்டின் பிரகாரம் பொலிஸ் தலைமையகம் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதேவேளை, சம்பவம் தொடர்பில் மேலும் நான்கு பாடசாலை மாணவர்கள் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதுடன், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய போது எதிர்வரும் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்துள்ளார்.
+🟩
 
-மேலும் பாதிக்கப்பட்ட சிறுமி ரிஜ்வே ஆர்யா வைத்தியாசலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+Dhanamalwila police said that the girl has received a telephone call for the girl to be a police superintendent as he is investigating the incident of raping a 16 -year -old girl in Dhanamalwila.
+
+It is reported that the police headquarters have begun investigations according to the complaint made by her parents in this regard. Meanwhile, four more schoolchildren have been arrested on suspicion of the incident and the magistrate has ordered them to be remanded until the 28th of this month.
+
+It is noteworthy that the victim was admitted to the Rijway Arya Hospital.
 
 ◼️
 
 [Data](articles/2fd6d60e.json)
+
+[Extended Data](ext_articles/2fd6d60e.ext.json)
 
 ---
 
@@ -687,6 +761,8 @@ The agency now projects inflation, giving baseline forecasts and probable projec
 ...
 
 [Data](articles/7cff700d.json)
+
+[Extended Data](ext_articles/7cff700d.ext.json)
 
 ---
 
@@ -2157,55 +2233,5 @@ These Sri Lankans traveled to Myanmar seeking foreign employment using tourist v
 [Data](articles/409f2d51.json)
 
 [Extended Data](ext_articles/409f2d51.ext.json)
-
----
-
-### Sri Lanka SOE sale process was slow to avoid reversals
-
-*2024-08-15 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-soe-sale-process-was-slow-to-avoid-reversals-176926/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state enterprises privatization is slow due to the process that was followed to ensure that the transactions were transparent and there was no risk of being reversed, SOE restructuring unit chief Suresh Shah said.
-
-“If it is reversed it would have damaged the investment environment in the country,” Shah told a forum organized by Advocata, a Colombo based think tank. “Particularly if the investor was a foreign investor.”
-
-Courts reversed the privatization of Sri Lanka Insurance after a public interest petition alleged a flaw in the process.
-
-“We were very conscious of that, and because of this we have put several controls and procedures in place to ensure the transparency, and credibility of the whole process. As a result, it has taken time.”
-
-“You are taking these companies that are not necessarily the most efficient, not the most competitive and giving it to a new investor.”
-
-The SOE unit began the process last year and was planning to finish them by August 2024.
-
-...
-
-[Data](articles/afcd48f9.json)
-
-[Extended Data](ext_articles/afcd48f9.ext.json)
-
----
-
-### The rules that Modi
-
-*2024-08-15 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199975) · `si`
-
-India celebrated its 78th Independence Day in New Delhi, with PM Narendra Modi emphasizing strong punishment for crimes against women. The event featured various elements including participation from school children and updates on the landscape road project. The US also recognized the occasion, with the American Secretary of State extending congratulations.
-
-🟩
-
-The 78th Independence Day Celebrations of India in New Narendra Modiyage was held under the patronage of Narendra Modiyya in New Delhi.
-
-Around 6,000 of the Independence Day, which was shaped with different elements, included in the Paris Olympics, school children and landscape road project.
-
-The prime minister, Modi, heavily commented, stressed that the criminal laws against women would prepare well-punitive laws.
-
-Meanwhile, America also joined the 78th Independence Day of India.
-
-Foreign media reports that the American Secretary of State had greeted this congratulations.
-
-◼️
-
-[Data](articles/af4a41f9.json)
-
-[Extended Data](ext_articles/af4a41f9.ext.json)
 
 ---

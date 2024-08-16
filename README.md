@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 14:55:49**
+As of **2024-08-16 15:07:01**
 
 ## Newspaper Stats
 
-*Scraped **41,062** Articles*
+*Scraped **41,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,89 @@ dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
 adaderanalk | 4,795
-tamilmirrorlk | 5,254
-virakesarilk | 6,505
+tamilmirrorlk | 5,256
+virakesarilk | 6,510
 adaderanasinhalalk | 6,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,062 (100.0%) of 41,062 articles have been extended.
+41,062 (100.0%) of 41,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### ரயில் தடம்புரள்வு ; மலையக ரயில் சேவைகள் தாமதம்
+
+*2024-08-16 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191224) · `ta`
+
+பதுளை, தெமோதரை ரயில் நிலையத்திற்கு அருகில் அருகில் இன்று (16) பிற்பகல் ரயில் ஒன்று தடம் புரண்டுள்ளதால் மலையக மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளது.
+
+இதனால் தெமோதரை புகையிரத நிலையத்தை கடந்து செல்லும் ரயில்கள் தாமதமடையும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/50390df9.json)
+
+---
+
+### கந்தகாடு கைதி தப்பியோட்டம்
+
+*2024-08-16 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-கைதி-தப்பியோட்டம்/175-342284) · `ta`
+
+பொலன்னறுவை வெலிகந்த கந்தகாடு புனர்வாழ்வு நிலையத்தில் புனர்வாழ்வளிக்கப்பட்டு வந்த கைதி ஒருவர் பயிற்சி நிலையத்தில் இருந்து தப்பிச் சென்றுள்ளதாக வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
+
+பொலன்னறுவை, களுகெலே, பந்தனகல பிரதேசத்தில் வசிக்கும் 26 வயதுடைய ஒருவரே இவ்வாறு தப்பிச் சென்றுள்ளதாக விசாரணைகளை பொலிஸார் தெரிவித்தனர்.
+
+கந்தகாடு புனர்வாழ்வு பயிற்சி நிலையத்தில் 94 கைதிகள் புனர்வாழ்வளிக்கப்பட்டு வருவதாகவும், தற்போது 93  இருப்பதாகவும் பயிற்சி நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+
+தப்பியோடிய கைதியை கைது செய்வதற்கான விசேட நடவடிக்கை இராணுவத்தினரால் ஆரம்பிக்கப்பட்டுள்ளதாகவும் வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/1ce3d45d.json)
+
+---
+
+### மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக நீதியரசர் ஆர். எம். சோபித ராஜகருணா நியமனம்
+
+*2024-08-16 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191221) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக நீதியரசர் ஆர். எம்.சோபித ராஜகருணா நியமிக்கப்பட்டுள்ளார்.
+
+மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக ஆர்.எம்.சோபித ராஜகருணா இன்று வெள்ளிக்கிழமை (16) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டார்.
+
+மேன்முறையீட்டு நீதிமன்றத்தின் தலைவராக கடமையாற்றிய நிஷ்சங்க பந்துல கருணாரத்ன, வெளிநாடு சென்றுள்ள நிலையில் அவர்  நாடு திரும்பும் வரை இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/951a3a75.json)
+
+---
+
+### பாகிஸ்தானில் குரங்கம்மை பாதிப்பு
+
+*2024-08-16 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191211) · `ta`
+
+பாகிஸ்தானில் குரங்கம்மை நோயினால் பாதிக்கப்பட்ட மூன்று பேர் அடையாளம் காணப்பட்டுள்ளதாக வடக்கு கைபர் பக்துன்க்வா மாகாணத்தில் உள்ள சுகாதாரத் திணைக்களம் இன்று வெள்ளிக்கிழமை (16) தெரிவித்துள்ளது.
+
+ஐக்கிய அரபு எமிரேட்ஸூக்கு பயணம் மேற்கொண்டு விட்டு பாகிஸ்தானுக்கு திரும்பியவர்களில் குரங்கம்மை பாதிப்பு கண்டறியப்பட்டுள்ளது.
+
+பாகிஸ்தானில் குரங்கம்மை நோய் தொற்றினால் பாதிக்கப்பட்ட நோயாளிகளில் எந்த மாறுபாடு கொண்ட வைரஸ்  கண்டறியப்பட்டது என்பது தெரியவில்லை.
+
+அவர்களில் இருவருக்கு குரங்கம்மை நோய் உறுதி செய்யப்பட்டுள்ளது. மூன்றாவது நோயாளியின் மாதிரிகள் தலைநகர் இஸ்லாமாபாத்தில் உள்ள தேசிய சுகாதார நிறுவனத்திற்கு உறுதிப்படுத்துவதற்காக அனுப்பப்பட்டுள்ளன.
+
+மேலும், மூன்று நோயாளிகள் தனிமைப்படுத்தப்பட்டுள்ளார்கள் என கைபர் பக்துன்க்வாவிற்கான சுகாதார சேவைகளின் பணிப்பாளர் சலீம் கான் தெரிவித்துள்ளார்.
+
+ஆனால், பாகிஸ்தானில் குரங்கம்மை நோயினால்  பாதிக்கப்பட்டுள்ளதாக சந்தேகிக்கப்படும் ஒரு நோயாளி மாத்திரம் அடையாளம் காணப்பட்டுள்ளதாக அந்நாட்டு தேசிய சுகாதார அமைச்சகத்தின் செய்தித் தொடர்பாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e8ac64e4.json)
+
+---
 
 ### Trains on Up-country Line to experience delays
 
@@ -58,11 +128,27 @@ Justice Sobhitha Rajakaruna has been appointed as the Acting President of the Co
 
 Accordingly, Justice Rajakaruna took oath as the Acting President of the Court of Appeal before President Ranil Wickremesinghe at the President’s Office this morning (16), the PMD added.
 
+This appointment has been made until the President of the Court of Appeal Justice Nissanka Bandula Karunaratne, who is currently overseas, returns to the island.
+
 ◼️
 
 [Data](articles/2a87ef98.json)
 
 [Extended Data](ext_articles/2a87ef98.ext.json)
+
+---
+
+### மேன்முறையீட்டு நீதிமன்ற பதில் தலைவர் நியமிப்பு
+
+*2024-08-16 14:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேன்முறையீட்டு-நீதிமன்ற-பதில்-தலைவர்-நியமிப்பு/175-342283) · `ta`
+
+மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக சோபித ராஜகருணா ஜனாதிபதி அலுவலகத்தில் வௌ்ளிக்கிழமை (16) ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டார்.
+
+மேன்முறையீட்டு நீதிமன்றத்தின் தலைவராக கடமையாற்றிய  நிஷங்க பந்துல கருணாரத்ன தீவை விட்டு வெளியேறும் வரை இந்த நியமனம் வழங்கப்பட்டுள்ளது. இந்நிகழ்வில் ஜனாதிபதியின் செயலாளர்  சமன் ஏக்கநாயக்கவும் கலந்துகொண்டார்.
+
+◼️
+
+[Data](articles/d9f99ad4.json)
 
 ---
 
@@ -92,6 +178,18 @@ We will remove the black speech that is spread throughout the energy sector. Wil
 
 ---
 
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-08-16 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191216) · `ta`
+
+இன்று வெள்ளிக்கிழமை  (ஆகஸ்ட் 16) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.3160 ரூபா ஆகவும் விற்பனை விலை 303.5267 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bf5b6813.json)
+
+---
+
 ### UNP replies to Sajith
 
 *2024-08-16 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199997) · `si`
@@ -115,6 +213,22 @@ Meanwhile, a Pirith Club, Kandy was held at the Kandyan, Kandy's workshop.
 [Data](articles/1e9521d0.json)
 
 [Extended Data](ext_articles/1e9521d0.ext.json)
+
+---
+
+### வலி வடக்கு நகுலேஸ்வரம் கிராம அலுவலர் பிரிவில் ஶ்ரீமத் நாராயன சுவாமி ஆலய வழிபாட்டிற்கு  அனுமதி
+
+*2024-08-16 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191213) · `ta`
+
+வலி வடக்கு நகுலேஸ்வரம் கிராம அலுவலர் பிரிவில் மிக நீண்ட காலமாக உயர் பாதுகாப்பு வலய பிரதேசத்தில் அமைந்துள்ள ஶ்ரீமத் நாராயன சுவாமி ஆலய வழிபாட்டிற்கு  இன்று வெள்ளிக்கிழமை (16) முதல் அனுமதி வழங்கப்பட்டுள்ளது.
+
+வாரத்தின் ஒவ்வொரு வெள்ளிக்கிழமையும் இவ் ஆலயத்திற்கு சென்று வழிபாடுகளை மேற்கொள்ள  அனுமதி வழங்கப்பட்டுள்ளது.
+
+யாழ் மாவட்ட அரசாங்க அதிபர் ம. பிரதிபன் மற்றும் செஞ்சொற்செல்வர் ஆறுதிருமுருகன்  பங்குபற்றலுடன் பக்தர்கள் இன்றையதினம் இவ் ஆலயத்திற்கு சென்று வழிபாடுகளை மேற்கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0675446b.json)
 
 ---
 
@@ -726,6 +840,28 @@ In this case, for the first time outside Africa, in Sweden,. The virus belongs t
 
 ---
 
+### Shooting in Anuradhapura;One killed
+
+*2024-08-16 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
+
+A shooting at Pillaiyar junction in Anuradhapura resulted in one fatality. Police are investigating the use of a T56 rifle and the motive behind the incident, with no suspects identified yet.
+
+🟩
+
+One person was killed in a shooting at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning.
+
+Police investigations revealed that the T56 rifle has been used for the shooting.
+
+In addition, the cause of the shooting has not yet been identified and investigations are being carried out to find the suspects, police said.
+
+◼️
+
+[Data](articles/d0a0a2f0.json)
+
+[Extended Data](ext_articles/d0a0a2f0.ext.json)
+
+---
+
 ### “The. 60 crores bought by Chanakyan ”
 
 *2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
@@ -895,28 +1031,6 @@ It is also reported that the party membership of MPs will be canceled after disc
 [Data](articles/b622fe68.json)
 
 [Extended Data](ext_articles/b622fe68.ext.json)
-
----
-
-### Shooting in Anuradhapura;One killed
-
-*2024-08-16 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
-
-A shooting at Pillaiyar junction in Anuradhapura resulted in one fatality. Police are investigating the use of a T56 rifle and the motive behind the incident, with no suspects identified yet.
-
-🟩
-
-One person was killed in a shooting at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning.
-
-Police investigations revealed that the T56 rifle has been used for the shooting.
-
-In addition, the cause of the shooting has not yet been identified and investigations are being carried out to find the suspects, police said.
-
-◼️
-
-[Data](articles/d0a0a2f0.json)
-
-[Extended Data](ext_articles/d0a0a2f0.ext.json)
 
 ---
 
@@ -2081,171 +2195,5 @@ Earlier on Thursday, the World Health Organization declared mpox a global public
 [Data](articles/47339694.json)
 
 [Extended Data](ext_articles/47339694.ext.json)
-
----
-
-### Missing a mankix in Sweden
-
-*2024-08-15 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199980) · `si`
-
-The first case of "mankix," a rapidly spreading disease similar to "pimpodies," has been reported outside Africa in Sweden. This outbreak has prompted the World Health Organization to take notice due to its potential public health implications. In Congo, the disease has caused significant concern, with nearly 14,000 infections and over 450 deaths. Symptoms include fever and skin lesions, and it spreads through close contact or respiratory droplets.
-
-🟩
-
-The first milkx patient recorded outside the African continent is reported from Sweden.
-
-International media states that the variety has been identified as a rapid variety.
-
-The World Health Organization has also been informed as a public health, whether 'pimpodies', or 'mankix' in several areas on the African continent.
-
-About 450 people died in Congo. The number of infected is close to 14,000.
-
-"Emphox infects with sexual relations and other close relationships and breathing from such a person when it comes to such a person.
-
-Fever as the basic symptoms of fever are shown as the emergence of skin injuries. It is said that about 4 in every 100 infections may be killed.
-
-◼️
-
-[Data](articles/75f382fe.json)
-
-[Extended Data](ext_articles/75f382fe.ext.json)
-
----
-
-### Obtaining passports after paying money is people’s right, SOC tells Immigration Dept.
-
-*2024-08-15 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/101270/obtaining-passports-after-paying-money-is-peoples-right-soc-tells-immigration-dept) · `en`
-
-The Chairman of the Sectoral Oversight Committee on Open and Accountable Government, Member of Parliament Jagath Kumara Sumitraarachchi, recently informed the Controller General of Immigration and Emigration to take immediate action to issue passports in a way that does not inconvenience the public.
-
-This was discussed when the Department of Immigration and Emigration was summoned to the Sectoral Oversight Committee on An Open and Accountable Government to consider the new "Immigration" Bill, the Parliamentary Communications Department said in a statement.
-
-...
-
-[Data](articles/3171374f.json)
-
-[Extended Data](ext_articles/3171374f.ext.json)
-
----
-
-### Information about a red sugar racket
-
-*2024-08-15 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199978) · `si`
-
-A sugar racket involving the sale of mixed red sugar in Sri Lanka was uncovered in Embilipitiya. Authorities seized over 2,500 kg of sugar, including 1,000 kg of unfit-for-consumption dhal, and arrested a businessman. The red sugar, priced at Rs. 300 per kg, was being sold as Indian Red Sugar, while white sugar was sold at Rs. 240 per kg.
-
-🟩
-
-The Consumer Affairs Authority has been able to reveal the details of a sugar racket coming into the local market as the Indian Red Sugar.
-
-It has been revealed that the red sugar is released to the Sri Lankan market, mixing from India with red sugar in Sri Lanka.
-
-The racket was revealed during a raid in the Embilipitiya area this morning (15).
-
-The businessman has been conducting the racket for a long time.
-
-More than 2,500 kilograms of six kilograms was found in the location, and the sugar was found on the market as Indian Red Sugar.
-
-According to officials, a kilo of red sugar has been sold at Rs. 300.
-
-The businessman has also identified a kilo of white sugar costs Rs. 240 per kilo of Rs.
-
-Meanwhile, 1000kg of dhal unworthy of human consumption have been recovered from the Paluppu Street.
-
-The Consumer Affairs Authority officials said that the fishermen were sending the stock of dhal to the market and packed the fungi.
-
-◼️
-
-[Data](articles/4b795b99.json)
-
-[Extended Data](ext_articles/4b795b99.ext.json)
-
----
-
-### The Blessing of the Lord's Blessing to the President -the United National Party
-
-*2024-08-15 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191179) · `ta`
-
-Ranil Wickremesinghe, leader of Sri Lanka's United National Party (UNP), is praised for resolving the cooking gas shortage, likened to receiving divine blessings through the election symbol of a cooking gas cylinder. This move, aimed at touching the hearts of the people, is believed to secure his victory. Wickremesinghe's efforts to alleviate the gas crisis and broader economic issues are highlighted as crucial steps towards national development.
-
-🟩
-
-Ranil Wickremesinghe, who ended the cooking gas line, got the blessing of the cooking gas cylinder is the blessing of the Lord. Former United National Party (UNP) parliamentarian Ashu Marasinghe said the symbol, which can touch the heart of the people, will certainly win Ranil.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (15).
-
-Ranil Wickremesinghe took over the country and resolved the gas problem while the people were in line for cooking gas. The blessing of the Lord Ranil Wickremesinghe is the blessing of the Cooking gas cylinder election symbol.. We are confident that the cylinder symbol can succeed with the memories of the cooking gas line.
-
-Ranil Wickremesinghe is important to improve this country as much as the people are cooking gas. No cooking gas if Ranil is not. So much so that cooking gas is in the heart of the people of the cylinder. This country cannot be built without Ranil Wickremesinghe.
-
-...
-
-[Data](articles/ce1d869b.json)
-
-[Extended Data](ext_articles/ce1d869b.ext.json)
-
----
-
-### EU to deploy observation mission to Sri Lanka for Presidential Election
-
-*2024-08-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101269/eu-to-deploy-observation-mission-to-sri-lanka-for-presidential-election) · `en`
-
-Following an invitation by the Election Commission of Sri Lanka, the European Union has decided to deploy an Election Observation Mission (EOM) to Sri Lanka to observe the Presidential Election scheduled for 21 September 2024. The EU has a long history of accompanying electoral processes in Sri Lanka and has deployed EOMs on six occasions, the last in 2019, reflecting the EU’s commitment and partnership with the country.
-
-The High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission, Josep Borrell, has appointed Nacho Sánchez Amor, Member of the European Parliament, as Chief Observer.
-
-...
-
-[Data](articles/9573b5fe.json)
-
-[Extended Data](ext_articles/9573b5fe.ext.json)
-
----
-
-### 7 workers of the wasp shed;Admission at the hospital
-
-*2024-08-15 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191178) · `ta`
-
-Seven workers plucking tea at Bogawantalawa Gargaswold were stung by wasps and hospitalized after a wasp nest was disturbed. The incident occurred at 5 pm on Thursday, the 15th, under the Norwood Police Division.
-
-🟩
-
-Norwood police said that seven workers who had plucked tea at the Tea Mountain of the Bogawantalawa Gargaswold under the Norwood Police Division were admitted to the Bogawantalawa District Hospital.
-
-The incident took place at 5 pm on Thursday, the 15th, police said.
-
-It is noteworthy that the Bogawantalawa Gergaswold suburban garden tea has dissolved a wasp nest in a tree and hit the workers.
-
-◼️
-
-[Data](articles/52ce3074.json)
-
-[Extended Data](ext_articles/52ce3074.ext.json)
-
----
-
-### No candidate is going to challenge Ranil: Ashu Marasinghe
-
-*2024-08-15 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191167) · `ta`
-
-Ashu Marasinghe stated at a UNP press conference that Ranil Wickremesinghe is the sole candidate for the presidency, with no challenges expected from the 39 nominees. Marasinghe emphasized Wickremesinghe's focus on national and public futures, noting widespread support across various parties. Despite a few backing Sajith Premadasa, the majority align with Wickremesinghe, including discussions from the United People's Power. Recent polls and analyses also favor Wickremesinghe, ensuring his victory in the upcoming presidential election.
-
-🟩
-
-Ranil Wickremesinghe is the only candidate for the future of the country's candidates.. Former UNP parliamentarian Ashu Marasinghe said no candidate would challenge Ranil Wickremesinghe.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Thursday (15).
-
-39 candidates filed nominations for the presidential election yesterday. Ranil Wickremesinghe is the only candidate for these candidates. All other candidates are contesting for various selfish reasons.
-
-So the people should be able to win Ranil Wickremesinghe, who is thinking about the future of the country and the future of the people.
-
-Many other parties have come forward to support Ranil Wickremesinghe after the presidential election was announced. There are many more.
-
-...
-
-[Data](articles/bee818bd.json)
-
-[Extended Data](ext_articles/bee818bd.ext.json)
 
 ---

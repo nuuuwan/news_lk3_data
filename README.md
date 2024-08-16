@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 11:36:46**
+As of **2024-08-16 11:56:26**
 
 ## Newspaper Stats
 
-*Scraped **41,032** Articles*
+*Scraped **41,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,48 +13,90 @@ newsfirstlk | 363
 bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,372
-economynextcom | 2,490
+economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,777
+adalk | 3,778
 dailymirrorlk | 4,733
 adaderanalk | 4,790
-tamilmirrorlk | 5,246
+tamilmirrorlk | 5,250
 virakesarilk | 6,497
-adaderanasinhalalk | 6,980
+adaderanasinhalalk | 6,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,031 (100.0%) of 41,032 articles have been extended.
+41,032 (100.0%) of 41,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### චමරි සිඩ්නි තන්ඩර්ස් වෙනුවෙන් ගිවිසුම් ගත වෙයි
+### පාකිස්තානයෙන් 'මංකිපොක්ස්' රෝගීන් හමුවෙයි
+
+*2024-08-16 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199995) · `si`
+
+එරට සෞඛ්‍ය අංශ ඒ බව තහවුරු කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම රෝගීන් තිදෙනා එක්සත් අරාබි එමීර් රාජ්‍යයේ සිට පාකිස්තානයට ඇතුළුවීමේදී හඳුනාගෙන ඇති බවද එම වාර්තා පවසයි.
+
+අදාළ රෝගීන් තිදෙනා නිරෝධායන කටයුතු සඳහා යොමුකර ඇති අතර ඔවුන්ට වැළඳී ඇති ප්‍රභේදය තවමත් තහවුරු කරගෙන නොමැත.
+
+◼️
+
+[Data](articles/8ae7e6e1.json)
+
+---
+
+### Hayleys ‘AAA(lka)’ rating confirmed by Fitch, water purification, gold to help
+
+*2024-08-16 11:20:00* · [`economynextcom`](https://economynext.com/hayleys-aaalka-rating-confirmed-by-fitch-water-purification-gold-to-help-177036/) · `en`
+
+ECONOMYNEXT – Fitch has confirmed an ‘AAA(lka)’ rating of Sri Lanka’s Hayleys group, saying revenues will rise driven by defensive segments like such as gloves, agriculture and activated carbon, used for purification, accounting for 28 percent of revenues.
+
+“Up to 70 percent of purification segment revenue is from water purification and gold mining, with demand for both increasing due to the scarcity of drinking water and for gold as a safe haven,” Fitch said.
+
+Direct and indirect exports accounted for 54 percent of revenue, with only 30 percent coming from Europe and the US, indicating low exposure to slower-growth developed markets.
+
+Hayleys’ manufacturing locations are also diversified beyond Sri Lanka with 55 percent of its purification segment capacity is in Sri Lanka, with the rest in Thailand and Indonesia.
+
+The hand protection segment, which produces rubber gloves, also operates in Thailand, the world’s largest source of natural rubber.
+
+...
+
+[Data](articles/1be422ca.json)
+
+---
+
+### Chamari Tunders agree to Tunders
 
 *2024-08-16 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199994) · `si`
 
-වත්මන් කාන්තා ක්‍රිකට් පිටියේ කැපී පෙනෙන ක්‍රීඩිකාවක් බවට පත්වී සිටින ශ්‍රී ලංකා නායිකා චමරි අතපත්තු ඔස්ට්‍රේලියානු කාන්තා බිග් බෑෂ් ලීගයේ (WBBL) ඉදිරි වාර තුන සඳහා සිඩ්නි තන්ඩර්ස් සමඟින් ගිවිසුම් ගතවී ඇත.
+Chamari Atapattu, Sri Lanka's cricket leader, joins the Sydney Thunders in the Women's Bash League (WBBL). Despite being part of the team, she notably scored 552 runs with five half-centuries in 14 matches, making her the second-highest run-scorer. Additionally, she took nine wickets and was awarded the hero of the tournament. However, the Sydney Thunders finished fourth with eight teams competing. The WBBL starts on October 27.
 
-ඇය පෙර අදියරේදී ද (2023-24) ක්‍රීඩා කරනු ලැබුවේ සිඩ්නි තන්ඩර්ස් සමගින් වුවත්, එවර ඇයට එම අවස්ථාව උදා වූයේ ආබාධයකට ලක් වූ ක්‍රීඩිකාවකගේ ආදේශ කිරීමක් පිරවීම වෙනුවෙනි.
+🟩
 
-කෙසේ නමුත් එම අදියරේදී තුන්ඉරියව්වෙන්ම දක්ෂතා දැක්වීමට චමරි සමත් වූ අතර, ඇය ඉනිම් 14කදී අර්ධ ශතක 05ක් සමගින් ලකුණු 552ක් රැස්කිරීමට සමත් විය.
+Sri Lanka Leader Chamari Atapattu, who has become a striking at least player in the current women's cricket, has contracted the Thandrelean Women's Bash League (WBBL) with Sydney Thunders.
 
-එය එම අදියරේ පිතිකාරිණියක රැස්කළ දෙවැනි වැඩිම ලකුණු සංඛ්‍යාවද වූ අතර, එහි ඉනිමක සාමාන්‍ය 42.46ක් විය.
+Although she was with Sydney Thunders, she was with Sydney Thunders with Sydney Thunders, even though she was played with Sydney Thunders.
 
-ඊට අමතරව ඇය එහිදී කඩුලු 9ක්ද දවාගනිමින් සිඩ්නි තන්ඩර්ස් වෙනුවෙන් දස්කම් දැක් වූවාය.
+However, Chamari managed to be performed in the stage at the stage, she was able to score 552 runs with five half centuries in 14 Irram.
 
-චමරිගේ එම සුවිශේෂී දක්ෂතා හේතුවෙන් තරගාවලියේ වීරවරියට හිමි සම්මානයද දිනාගත්තාය.
+It was the second highest scorer of the batsman in the phase, and 42.46 were at the innings.
 
-කෙසේ නමුත් කණ්ඩායම් 08ක සහභාගිත්වයෙන් පැවැත්වෙන මෙම තරගාවලියේදී සිඩ්නි කණ්ඩායමට එවර ප්‍රසාද ලකුණු සටහනේ 04වැනි ස්ථානයෙන් නැවතීමට සිදුවිය.
+In addition, she was playing 9 wickets and the Sydney Thunders.
 
-එළබෙන බිග් බෑෂ් කාන්තා ලීගය මෙම වසරේ ඔක්තෝබර් 27වනදා ආරම්භ වීමට නියමිතව ඇත.
+Chamari won the award for the herowara in the tournament due to the exceptional talent.
+
+However, with eight teams participating in the event, the Sydney team had to stop at the 4th place in the same bonus mark.
+
+The operable Big Bash Women's League is due to start on October 27 this year.
 
 ◼️
 
 [Data](articles/80f17cff.json)
+
+[Extended Data](ext_articles/80f17cff.ext.json)
 
 ---
 
@@ -138,6 +180,30 @@ At the Wateus Edge Hotel in Battaramulla today (16) was signed.
 
 ---
 
+### Sri Lanka rupee opens stronger at 298.50/60 to US dollar, bond yields down
+
+*2024-08-16 10:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-50-60-to-us-dollar-bond-yields-down-177027/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 298.50/60 to the US dollar on Friday, dealers said. Bond yields were slightly down, they said, and stocks opened up 0.10 percent.
+
+The rupee closed at 298.95/299.05 to the greenback on Thursday.
+
+In the secondary market, treasury bond yields were down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.10/20 percent, up from 11.05/20 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.85/95 percent, down from 12.95/13.05 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.95/13.00 percent, down from 13.00/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 11.21 points higher at 11,542, while the S&P SL20 of more liquid stocks opened up at 0.46 percent or 15.37 points to 3,324.
+
+◼️
+
+[Data](articles/2c912347.json)
+
+---
+
 ### Mahinda and Namal to be blessed
 
 *2024-08-16 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199992) · `si`
@@ -153,6 +219,26 @@ Namal Rajapaksa and former President Mahinda Rajapaksa and former President Mahi
 [Data](articles/c2985e1a.json)
 
 [Extended Data](ext_articles/c2985e1a.ext.json)
+
+---
+
+### “ரூ. 60 கோடி வாங்கினார் சாணக்கியன்”
+
+*2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் இருந்து பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,  தனிப்பட்ட முறையில் 60 கோடி ரூபாயைப் பெற்றுக்கொண்டுள்ளதாக ரெலோ அமைப்பின் செயலாளரும் பாராளுமன்ற உறுப்பினருமான கோவிந்தன் கருணாகரம் குற்றஞ்சாட்டியுள்ளார்.
+
+எவ்வாறாயினும் குறித்த குற்றச்சாட்டுக்குப் பதிலளித்துள்ள இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,
+
+மாவட்ட அபிவிருத்தி வேலைத்திட்டங்களுக்காக பாராளுமன்ற உறுப்பினர்களுக்கான பன்முகப்படுத்தப்பட்ட நிதியே தமக்கு வழங்கப்பட்டதாகக் குறிப்பிட்டார்.
+
+தம்மால் முன்வைக்கப்பட்ட முன்மொழிவுகளைக் கருத்திற்கொண்டு, வழங்கப்பட்ட அந்த நிதியில் தற்போது மாவட்டத்தில் அபிவிருத்தி வேலைத்திட்டங்கள் இடம்பெற்று வருகின்றன.
+
+இந்த நிலையில் அரசியல் நோக்கத்திற்காகக் கோவிந்தன் கருணாகரம் இவ்வாறான குற்றச்சாட்டை முன்வைத்துள்ளதாக பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/9341bd88.json)
 
 ---
 
@@ -179,6 +265,22 @@ Govindan Karunagaram has made such an allegation for political purposes. Remble
 [Data](articles/e4c249f2.json)
 
 [Extended Data](ext_articles/e4c249f2.ext.json)
+
+---
+
+### “கிராமத்துக்கு தவறாமல் வரும் ஆபத்தான விலங்கு”
+
+*2024-08-16 09:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமத்துக்கு-தவறாமல்-வரும்-ஆபத்தான-விலங்கு/175-342272) · `ta`
+
+கிராமத்தின் மேல் உள்ள காப்புக்காடு பகுதியில் இருந்து மாலை நேரத்தில் கிராமத்திற்கு வரம் பெரிய சிறுத்தைப் புலி கடந்த சில நாட்களாக வீடுகளில் வளர்க்கப்படும் நாய், மாடு போன்ற விலங்குகளை பிடித்து உண்பது வழக்கமாகிவிட்டது. மான் போன்ற விலங்குகள் வேட்டையாடப்படுவதையும் கிராம மக்கள் பார்த்துள்ளனர்.
+
+இது தொடர்பில் பொலிஸ் மற்றும் வனஜீவராசிகள் அலுவலகத்திற்கு ஏற்கனவே அறிவித்துள்ளதாக கிராம மக்கள் தெரிவித்துள்ளனர்.
+
+இப்பிரச்னைக்கு உடனடி நடவடிக்கை எடுக்காவிட்டால், கிராம மக்களும், அவர்களது குழந்தைகளும் கடும் ஆபத்தை சந்திக்க நேரிடும் என்பதால், அப்பகுதியில் உள்ள அனைவரும்  அச்சத்தில் உள்ளனர் என குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/4707de50.json)
 
 ---
 
@@ -258,6 +360,22 @@ It is also reported that the party membership of MPs will be canceled after disc
 
 ---
 
+### ரணிலுக்கு ஆதரவளித்த ‘மொட்டுகளுக்கு’ சிக்கல்
+
+*2024-08-16 09:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளித்த-மொட்டுகளுக்கு-சிக்கல்/175-342271) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க தீர்மானித்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இது தொடர்பான கடிதங்கள் விரைவில் பாராளுமன்ற உறுப்பினர்களுக்கு அனுப்பி வைக்கப்படும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+ஒழுக்காற்று நடவடிக்கைகளின் பின்னர் கட்சியின் தீர்மானத்திற்கு எதிர்ப்பு தெரிவிக்கும் பாராளுமன்ற உறுப்பினர்களின் கட்சி உறுப்புரிமை இரத்து செய்யப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/b622fe68.json)
+
+---
+
 ### Shooting in Anuradhapura;One killed
 
 *2024-08-16 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
@@ -321,6 +439,22 @@ The SLPP politburo recently met to discuss the party’s approach to the preside
 [Data](articles/0eafdfd6.json)
 
 [Extended Data](ext_articles/0eafdfd6.ext.json)
+
+---
+
+### தனமல்வில சம்பவம் : சிறுமிக்கு அச்சுறுத்தல் அழைப்பு
+
+*2024-08-16 08:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனமல்வில-சம்பவம்-சிறுமிக்கு-அச்சுறுத்தல்-அழைப்பு/76-342269) · `ta`
+
+தனமல்வில பிரதேசத்தில் 16 வயதுடைய சிறுமியை பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டு வரும் நிலையில் குறித்த சிறுமிக்கு, தான் பொலிஸ் அத்தியட்சகர் என கூறி வாக்குமூலம் பெற முயன்ற தொலைப்பேசி அழைப்போன்று கிடைக்கப்பட்டுள்ளதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+
+இது தொடர்பில் அவரது பெற்றோர் செய்த முறைப்பாட்டின் பிரகாரம் பொலிஸ் தலைமையகம் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதேவேளை, சம்பவம் தொடர்பில் மேலும் நான்கு பாடசாலை மாணவர்கள் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதுடன், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய போது எதிர்வரும் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்துள்ளார்.
+
+மேலும் பாதிக்கப்பட்ட சிறுமி ரிஜ்வே ஆர்யா வைத்தியாசலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2fd6d60e.json)
 
 ---
 
@@ -535,6 +669,24 @@ Police said the shooting was carried out with a 56 -rifle.. (A)
 [Data](articles/b7c812cb.json)
 
 [Extended Data](ext_articles/b7c812cb.ext.json)
+
+---
+
+### Sri Lanka to breach inflation target till 2025 first quarter: Central Bank
+
+*2024-08-16 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-breach-inflation-target-till-2025-first-quarter-central-bank-176979/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation is expected to be below 3 percent up to the first quarter of 2025 the central bank said, after maintaining inflation around the same levels in the past several months, breaching the lower level of a 5 percent inflation target.
+
+Sri Lanka’s central bank has proposed a 5 percent inflation target, plus or minus two percent to President Ranil Wickremesinghe, who has apparently accepted it without question.
+
+The agency now projects inflation, giving baseline forecasts and probable projected inflation.
+
+“Given that the quarterly average inflation recorded during Q2-2024 was also below the target by more than 2 percentage points, the projections imply a possible breach of the inflation target, as stipulated in Section 26(5) of the CBA, on the downside in Q3-2024 for the first time, as inflation would have been below the target by more than 2 percentage points during two consecutive quarters,” the central bank said.
+
+...
+
+[Data](articles/7cff700d.json)
 
 ---
 
@@ -1590,6 +1742,22 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 
 ---
 
+### මාස 8ට සංචාරකයන් ලක්ෂ 12ක් ඇවිත්
+
+*2024-08-15 20:14:05* · [`adalk`](https://www.ada.lk/breaking_news/මාස-8ට-සංචාරකයන්-ලක්ෂ-12ක්-ඇවිත්/11-411404) · `si`
+
+මෙම වසරේ ගෙවුණු මාස 8ක කාලයෙහි  විදෙස් සංචාරකයන් 1,271,432 දෙනෙකු  දිවයිනට පැමිණ තිබේ.
+
+ඉන් වැඩි දෙනෙකු ඉන්දීය සංචාරකයන් වන අතර එම සංඛ්‍යාව 237,649කි.
+
+ඊට අමතරව රුසියාව, බ්‍රිතාන්‍ය, ජර්මනිය, චීනය සහ ප්‍රංශය ඇතුළු රටවලින් ද වැඩි වශයෙන් සංචාරකයන් දිවයිනට පැමිණ තිබේ. මේ අතර මේ මස මුල් දින 11 තුළ පමණක් සංචාරකයන් 73,373 දෙනෙකු දිවයිනට පැමිණ ඇත.2023 වසරේ දී මෙරටට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 1,487,303 කි.
+
+◼️
+
+[Data](articles/a2641fc5.json)
+
+---
+
 ### The candidates increase - printing costs increase
 
 *2024-08-15 20:02:37* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-වැඩිවෙයි---මුද්‍රණ-වියදමත්-වැඩි-වෙයි/11-411403) · `si`
@@ -2039,223 +2207,5 @@ Foreign media reports that the American Secretary of State had greeted this cong
 [Data](articles/af4a41f9.json)
 
 [Extended Data](ext_articles/af4a41f9.ext.json)
-
----
-
-### Agreement with Rishad Bathiudeen Sajith
-
-*2024-08-15 17:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிஷாட்-பதியுதீன்-சஜித்துடன்-ஒப்பந்தம்/175-342237) · `ta`
-
-Rishad Bathiudeen, leader of the All Ceylon People's Congress, endorsed Sajith Premadasa in the presidential election and signed an agreement on Thursday (15).
-
-🟩
-
-All Ceylon People's Congress leader Rishad Bathiudeen, who supported Sajith Premadasa in the presidential election, signed an agreement on Thursday (15).
-
-◼️
-
-[Data](articles/753bd423.json)
-
-[Extended Data](ext_articles/753bd423.ext.json)
-
----
-
-### Sri Lanka bond yields down, rupee stronger at 298.95/299.05
-
-*2024-08-15 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-down-rupee-stronger-at-298-95-299-05-176949/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 298.95/299.05 to the US dollar Thursday, from 299.15/25 Wednesday dealers said, while bond yields marginally declined.
-
-A bond maturing on 15.12.2026 closed at 11.05/20 percent, down from 11.05/30 percent.
-
-A bond maturing on 15.12.2027 closed at 12.05/20 percent, down from 12.15/25 percent.
-
-A bond maturing on 15.06.2029 closed at 13.00/10 percent, down from 13.00/15 percent.
-
-A bond maturing on 01.10.2032 closed at 13.20/30 percent, down from 13.25/50 percent.
-
-◼️
-
-[Data](articles/702a1672.json)
-
-[Extended Data](ext_articles/702a1672.ext.json)
-
----
-
-### President pays the Santada
-
-*2024-08-15 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199974) · `si`
-
-President Ranil Wickremesinghe visited religious sites in Kandy post-nomination, including Dalada Maligawa and several other temples, meeting Buddhist monks.
-
-🟩
-
-President Ranil Wickremesinghe visited the Dalada Maligawa, Kandy after handing over nominations for the upcoming presidential election today (15).
-
-Then the President visited Asgiriya and Malwathu Maha Viharaya, Mahanaathu Maha Vihara Maha Vihara, Mahanathana Maha Viharaya, Mahanaanayake and the Mahananena Maha Viharaya Maha Viharaya, the Mahanaanayake of the Malwathu Maha Viharaya.
-
-◼️
-
-[Data](articles/318c9a7b.json)
-
-[Extended Data](ext_articles/318c9a7b.ext.json)
-
----
-
-### Sri Lanka’s Cable Solutions begins trading on CSE Diri Savi Board
-
-*2024-08-15 17:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-cable-solutions-begins-trading-on-cse-diri-savi-board-176953/) · `en`
-
-ECONOMYNEXT – Shares of Sri Lanka’s Cable Solutions Limited (CODE: CSLK-N-0000) began trading on the Colombo Stock Exchange on Wednesday.
-
-The company’s initial public offering for over 80 million ordinary voting shares for sale at 7.50 rupees a share, was oversubscribed on the opening day.
-
-The shares have been listed on the Diri Savi Board of the CSE. The occasion was marked with a special Bell Ringing Ceremony.
-
-The event was attended by Cable Solutions Limited, Tempest PE Partners and CSE officials.
-
-“The compliance and regulatory framework you now enter will further strengthen your company’s standing, leading to significant long-term benefits,” CSE CEO Rajeeva Bandaranaike said.
-
-“I believe export growth is inseparably connected with investor confidence, and with strong investor support, I am
-
-optimistic about our continued growth,” Cable Solutions Managing Director Pawan Tejwani said.
-
-...
-
-[Data](articles/9e327bba.json)
-
-[Extended Data](ext_articles/9e327bba.ext.json)
-
----
-
-### Farmer killed in wild elephant attack
-
-*2024-08-15 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191164) · `ta`
-
-A 62-year-old farmer, Ma Subramaniam, was tragically killed by a wild elephant in the Valaichenai region. The incident occurred near Chinnamiyankal Vaikkal, where the farmer resided temporarily for work. Despite being from Mavadivembi, he lived with his family in Chinamiyanangal village. This unfortunate event took place on Wednesday evening, leaving his wife and five children mourning his loss. His body was taken for autopsy at the Valaichenai Base Hospital on Thursday.
-
-🟩
-
-Valaichenai police said that a farmer was killed in a wild elephant attack in the Chinnamiyankal Vaikkal area of ​​the Valaichenai Gran Divisional Secretariat Division.
-
-The deceased is Ma Subramaniam, the father of 5 children aged 62 (62) from Mavadivembi.
-
-Despite the birthplace of Mavadivembi, he lived with his wife in Chinamiyanangal village for business.
-
-On Wednesday evening (14), the elephant who was standing on the way was attacked by the darkest of their cows as usual.
-
-The attempt was fruitless even when the wife of the elephant ran away from the elephant's attack, hearing the noise of her crying.
-
-The body of the deceased on Thursday (15) was placed at the Valaichenai Base Hospital for autopsy, police said.
-
-Vadivel Rames Anandan, the sudden death investigation officer who was investigating the deaths, has ordered the body of the body of the body of the body.
-
-◼️
-
-[Data](articles/90747542.json)
-
-[Extended Data](ext_articles/90747542.ext.json)
-
----
-
-### The high speed of three dead people
-
-*2024-08-15 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199973) · `si`
-
-In a tragic accident at Dunagaha Junction, three individuals died when a speeding three-wheeler collided with a tipper truck heading towards Negombo. Two men and one woman, aged 30, 38, and 45, were fatally injured. The woman was critically injured and hospitalized at Gampaha Hospital.
-
-🟩
-
-Three killed in an accident in the Dunagaha Junction, Dunagaha Junction, Divulapitiya - Negombo road.
-
-Police said that the driver of a high-ranking three-wheeler to travel towards the Divulapitiya to travel towards the Divulapitiya in Palapitiya, a tipper hit by a tipper to Negombo.
-
-It was reported that two men who were traveling in the three-wheeler were killed.
-
-A woman was also killed after a serious injurious woman and another.
-
-The deceased has been identified as 30, 38, 45, 45, 45, 45.
-
-The police said that the woman had been admitted to the Gampaha Hospital for further treatment.
-
-◼️
-
-[Data](articles/68c239c0.json)
-
-[Extended Data](ext_articles/68c239c0.ext.json)
-
----
-
-### Rishad’s ACMC inks agreement to support Sajith
-
-*2024-08-15 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101267/rishads-acmc-inks-agreement-to-support-sajith) · `en`
-
-The All Ceylon Makkal Congress (ACMC), led by MP Rishad Bathiudeen, has signed an agreement with the ‘Samagi Jana Sandhanaya’ to support Opposition Leader Sajith Premadasa in the upcoming Presidential Election.
-
-The agreement was signed by Samagi Jana Balawegaya (SJB) leader and presidential candidate Sajith Premadasa and ACMC leader, former Minister Rishad Bathiudeen, at the Cinnamon Lake Hotel in Colombo.
-
-SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and other party members were also present at the occasion.
-
-◼️
-
-[Data](articles/a1288d1b.json)
-
-[Extended Data](ext_articles/a1288d1b.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks attract interest
-
-*2024-08-15 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-attract-interest-176941/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 1.03 percent, or 117.60 points, at 11,531; while the more liquid S&P SL20 Index closed up 1.31 percent, or 42.79 points, at 3,308.
-
-Interest in banking stocks continued with many having posted positive interim results.
-
-Commercial Bank of Ceylon Plc voting closed up at 94.00 and non-voting was up at 77.00.
-
-Hatton National Bank Plc voting was up at 182.00, while non-voting was up at 146.25. The bank had posted a profit after tax of 15.4 billion rupees during the six months ended June 2024.
-
-“Banks are seeing interest because the banking results that have come out so far look ok.”
-
-Sampath Bank Plc was up at 77.20, DFCC Bank Plc was down at 72.30. National Development Bank Plc was up at 70.10.
-
-Top contributors to the ASPI included Ceylinco Holdings Plc (up at 2,550.00) and John Keells Holdings Plc (up at 182.00), in addition to Sampath, Commercial and DFCC Banks.
-
-...
-
-[Data](articles/05f5c9a3.json)
-
-[Extended Data](ext_articles/05f5c9a3.ext.json)
-
----
-
-### Sajith-Happinine signs an agreement
-
-*2024-08-15 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199972) · `si`
-
-Rishad Bathiudeen, leader of the All Ceylon Public Congress, signed an agreement with opposition leader Sajith Premadasa, pledging support for him in the upcoming presidential election. Additionally, three MPs from the All Ceylon People's Congress, including Anuradhapura District MP Ishak Rahuman and Puttalam District Parliamentarian Ali Sabri Rahhim, announced their support for President Ranil Wickremesinghe.
-
-🟩
-
-The All Ceylon Public Congress leader Rishad Bathiudeen signed an agreement today (15).
-
-Mr. Rishad Bathiudeen and Sajith Premadasa have signed the agreement at a leading hotel in Colombo.
-
-The All Ceylon Public Congress leader Rishard Bathiudeen stated that the Leader of the Opposition will be supported at the next presidential election yesterday.
-
-He had said that the Supreme Council of the All Island People's Congress met with the decision.
-
-Meanwhile, three MPs who were entrusted with the All Ceylon People's Congress, led by Rishad Bathiudeen decided to support Ranil Wickremesinghe in the next presidential election.
-
-Anuradhapura District MP Ishak Rahuman, Puttalam District Parliamentarian Ali Sabri Rahhim, MP, has decided to support the President.
-
-◼️
-
-[Data](articles/7519c4f5.json)
-
-[Extended Data](ext_articles/7519c4f5.ext.json)
 
 ---

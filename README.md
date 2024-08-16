@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 21:36:44**
+As of **2024-08-16 21:56:20**
 
 ## Newspaper Stats
 
-*Scraped **41,127** Articles*
+*Scraped **41,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 2,664
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,805
-tamilmirrorlk | 5,265
+tamilmirrorlk | 5,267
 virakesarilk | 6,527
-adaderanasinhalalk | 7,000
+adaderanasinhalalk | 7,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,125 (100.0%) of 41,127 articles have been extended.
+41,125 (100.0%) of 41,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### ඉන්දු - ශ්‍රී ලංකා පළමු මගී යාත්‍රාව දිවයිනට
+
+*2024-08-16 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200016) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ආරම්භ වූ මගී යාත්‍රා සේවයේ පළමු යාත්‍රාව අද (16) දිවයිනට ළඟා වුණි.
+
+ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා යාත්‍රා කළ මෙම යාත්‍රාවේ මගීන් 41ක් ගමන් ගෙන තිබුණි.
+
+මෙම යාත්‍රාව සෑම දිනකම උදෑසන 8 ඉන්දියාවේ නාගපට්නම්වලින් පිටත්වන අතර එය ශ්‍රී ලංකාවේ කන්කසන්තුරෛ සිට සවස 2ට නැවත ගමන් අරඹයි.
+
+◼️
+
+[Data](articles/7e79a19b.json)
+
+---
+
+### நாமல் ஜனாதிபதியானால்....
+
+*2024-08-16 21:20:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ஜனாதிபதியானால்/175-342295) · `ta`
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ ஜனாதிபதியானால் அவரது தலைமையில் உருவாக்கப்படும் அரசாங்கத்தில் பிரதமர் பதவி ஜோன்ஸ்டன் பெர்னாண்டோவிற்கே வழங்கப்படும் என ரஷ்யாவுக்கான முன்னாள் இலங்கை தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8f696c3e.json)
+
+---
 
 ### රාජාට වෙඩි තැබූ පොලීසියේ තිදෙනා අල්ලයි
 
@@ -83,6 +111,22 @@ Tamil National People's Front MP Selvarajah Gajendran and many supporters of the
 [Data](articles/f67d2fe2.json)
 
 [Extended Data](ext_articles/f67d2fe2.ext.json)
+
+---
+
+### கொழும்பின் பல பகுதிகள் வெள்ளத்தில் மூழ்கின
+
+*2024-08-16 21:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-பல-பகுதிகள்-வெள்ளத்தில்-மூழ்கின/175-342294) · `ta`
+
+கொழும்பு மற்றும் அதனை அண்மித்த பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக, கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளன.
+
+இதேவேளை, நாட்டின் பல பகுதிகளில் எதிர்வரும் 24 மணித்தியாலங்களில் 100 மில்லிமீட்டருக்கும் அதிக மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் மழையுடனான வானிலை நிலவும் என திணைக்களம் எதிர்வு கூறியுள்ளது. R
+
+◼️
+
+[Data](articles/beb757e0.json)
 
 ---
 
@@ -2233,79 +2277,5 @@ Govindan Karunagaram has made such an allegation for political purposes. Remble
 [Data](articles/e4c249f2.json)
 
 [Extended Data](ext_articles/e4c249f2.ext.json)
-
----
-
-### “The most dangerous animal that is regularly for the village”
-
-*2024-08-16 09:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமத்துக்கு-தவறாமல்-வரும்-ஆபத்தான-விலங்கு/175-342272) · `ta`
-
-A large leopard-tiger hybrid has been spotted near a village, posing a threat to villagers and their children. The sighting has led to concern and fear among the community, who have reported it to the police and wildlife authorities.
-
-🟩
-
-It has become customary for the large leopard tiger to be grown in home for the past few days from the upper back of the village to the village.. Villagers have also seen animals like deer.
-
-The villagers have already informed the police and wildlife office in this regard.
-
-If the problem is not taken, the villagers and their children will be at risk, so everyone in the area is afraid.. Remble
-
-◼️
-
-[Data](articles/4707de50.json)
-
-[Extended Data](ext_articles/4707de50.ext.json)
-
----
-
-### Dangerous animal that comes to the village daily - people in fear
-
-*2024-08-16 09:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-கிராமத்திற்கு-வரும்-ஆபத்தான-விலங்கு-அச்சத்தில்-மக்கள்/175-342272) · `ta`
-
-A large leopard tiger has been spotted near a village, causing fear among residents. Animals like deer have also been sighted. The situation has been reported to the police and wildlife office. If the issue isn't addressed, there's a risk to villagers and their children, leading to widespread anxiety.
-
-🟩
-
-It has become customary for the large leopard tiger to be grown in home for the past few days from the upper back of the village to the village.. Villagers have also seen animals like deer.
-
-The villagers have already informed the police and wildlife office in this regard.
-
-If the problem is not taken, the villagers and their children will be at risk, so everyone in the area is afraid.. Remble
-
-◼️
-
-[Data](articles/96d122bb.json)
-
-[Extended Data](ext_articles/96d122bb.ext.json)
-
----
-
-### Will the President increase the candidates to the country?
-
-*2024-08-16 09:39:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyjdq0j400o) · `si`
-
-The text discusses the increasing number of candidates in Sri Lanka's presidential elections, from 6 in 1988 to 40 in 2024, impacting election costs and logistics due to longer ballots and higher printing expenses. The Elections Commission faces challenges in managing the growing number of candidates and their associated costs, which have doubled since 2015. Critics argue that the proliferation of candidates undermines democratic principles, suggesting measures like increasing bail amounts to curb excessive candidacies.
-
-🟩
-
-Highlights of the candidates who have recently presented to the recent presence have been highlighted.
-
-The reason for the increase in the number of candidates, the expected expenses and needs of the presidential election is to increase and need more resources.
-
-There are two possible ways to be a candidate for the presidential election. The presence as a candidate for a recognized political party or is an independent candidate.
-
-The candidates of a recognized political party should be bail of Rs.
-
-The Candidates who have qualified as presidential candidates have been named as presidential candidates.
-
-Six presidential candidates, which were comprised of six presidential candidates, was contesting for the 1988 presidential election after the first presidential election.
-
-It is the Presidential election in Sri Lanka by the number of candidates. Even though the dealers were given only by the recognized political parties, two independent candidates were presented in the 1994 presidential election.
-
-...
-
-[Data](articles/fb0d8df0.json)
-
-[Extended Data](ext_articles/fb0d8df0.ext.json)
 
 ---

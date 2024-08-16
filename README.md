@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 09:36:48**
+As of **2024-08-16 09:55:43**
 
 ## Newspaper Stats
 
-*Scraped **41,018** Articles*
+*Scraped **41,021** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 347
+dbsjeyarajcom | 348
 newsfirstlk | 363
 bbccomsinhala | 381
 colombotelegraphcom | 391
@@ -18,7 +18,7 @@ dailyftlk | 2,664
 adalk | 3,775
 dailymirrorlk | 4,733
 adaderanalk | 4,788
-tamilmirrorlk | 5,241
+tamilmirrorlk | 5,243
 virakesarilk | 6,497
 adaderanasinhalalk | 6,976
 
@@ -26,43 +26,71 @@ adaderanasinhalalk | 6,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,013 (100.0%) of 41,018 articles have been extended.
+41,018 (100.0%) of 41,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### அநுராதபுரத்தில் துப்பாக்கிச் சூடு ; ஒருவர் பலி
+### ரணிலுக்கு ஆதரவளித்த SLPP உறுப்பினர்களுக்கு  எதிராக நடவடிக்கை
+
+*2024-08-16 09:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளித்த-SLPP-உறுப்பினர்களுக்கு-எதிராக-நடவடிக்கை/175-342271) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க தீர்மானித்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இது தொடர்பான கடிதங்கள் விரைவில் பாராளுமன்ற உறுப்பினர்களுக்கு அனுப்பி வைக்கப்படும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+ஒழுக்காற்று நடவடிக்கைகளின் பின்னர் கட்சியின் தீர்மானத்திற்கு எதிர்ப்பு தெரிவிக்கும் பாராளுமன்ற உறுப்பினர்களின் கட்சி உறுப்புரிமை இரத்து செய்யப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/06b956fd.json)
+
+---
+
+### Shooting in Anuradhapura;One killed
 
 *2024-08-16 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
 
-அநுராதபுரம் - ஸ்ரீபுர, கெமுனுபுர, பிள்ளையார் சந்தியில் இன்று  வெள்ளிக்கிழமை (16) அதிகாலை இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A shooting at Pillaiyar junction in Anuradhapura resulted in one fatality. Police are investigating the use of a T56 rifle and the motive behind the incident, with no suspects identified yet.
 
-இந்த துப்பாக்கிச் சூட்டுக்கு T56 ரக துப்பாக்கி பயன்படுத்தப்பட்டுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-மேலும், துப்பாக்கிச் சூட்டுக்கான காரணம் இதுவரை கண்டறியப்படவில்லை எனவும்  சந்தேக நபர்களை கண்டறிவதற்காக  விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+One person was killed in a shooting at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning.
+
+Police investigations revealed that the T56 rifle has been used for the shooting.
+
+In addition, the cause of the shooting has not yet been identified and investigations are being carried out to find the suspects, police said.
 
 ◼️
 
 [Data](articles/d0a0a2f0.json)
 
+[Extended Data](ext_articles/d0a0a2f0.ext.json)
+
 ---
 
-### යතුරුපැදි අනතුරකින් තරුණයෙක් මරුට
+### Youth killed in motorcycle accident
 
 *2024-08-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199989) · `si`
 
-යතුරුපැදි දෙකක් එකිනෙක ගැටී සිදුවූ අනතුරකින් එක් යතුරුපැදිකරුවෙක් බරපතළ තුවාල ලබා රෝහල්ගත කිරීමෙන් පසු මියගොස් තිබේ.
+In a tragic accident on Jaggala road, two motorcyclists died after colliding with each other and a telephone line near Hanwella. They were hospitalized but succumbed to their injuries.
 
-මෙම අනතුර සිදුවී ඇත්තේ ඊයේ (15) හංවැල්ල පොලිස් වසමේ ඇඹුල්ගම පනාගොඩ මාර්ගයේ ජල්තර ප්‍රදේශයේදීය.
+🟩
 
-යතුරුපැදි දෙක එකිනෙක ගැටීමෙන් අනතුරුව එක් යතුරුපැදියක් මාර්ගයෙන් ඉවතට පැන අසල තිබූ දුරකථන රැහැන් කණුවක ද ගැටී තිබේ.
+Two motorcyclists killed in a accident and died after hospitalization.
 
-අනතුරෙන් යතුරුපැදි දෙකෙහිම පැදිකරුවන් දෙදෙනා තුවාල ලබා හෝමාගම රෝහලට ඇතුළත් කෙරුණු අතර පසුව එක් අයෙක් මියගොස් තිබුණි.
+The accident had taken place yesterday (15) in Jaggala road in the Hanwella Police Division.
+
+After the two motorbikes collided, one motorcycle had collided with one motorcycle and a nearby telephone line.
+
+The two motorbikes were injured and rushed to the Homagama Hospital while he was later killed and one had died.
 
 ◼️
 
 [Data](articles/80621338.json)
+
+[Extended Data](ext_articles/80621338.ext.json)
 
 ---
 
@@ -82,6 +110,26 @@ The SLPP politburo recently met to discuss the party’s approach to the preside
 
 [Data](articles/0eafdfd6.json)
 
+[Extended Data](ext_articles/0eafdfd6.ext.json)
+
+---
+
+### தனமல்வில சம்பவம் : சிறுமிக்கு தொலைப்பேசி அழைப்பு
+
+*2024-08-16 08:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனமல்வில-சம்பவம்-சிறுமிக்கு-தொலைப்பேசி-அழைப்பு/76-342269) · `ta`
+
+தனமல்வில பிரதேசத்தில் 16 வயதுடைய சிறுமியை  பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டு வரும் நிலையில் குறித்த சிறுமிக்கு, தான் பொலிஸ் அத்தியட்சகர் என கூறி வாக்குமூலம் பெற முயன்ற தொலைப்பேசி அழைப்போன்று கிடைக்கப்பட்டுள்ளதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+
+இது தொடர்பில் அவரது பெற்றோர் செய்த முறைப்பாட்டின் பிரகாரம் பொலிஸ் தலைமையகம் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதேவேளை, சம்பவம் தொடர்பில் மேலும் நான்கு பாடசாலை மாணவர்கள் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதுடன், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய போது எதிர்வரும் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்துள்ளார்.
+
+மேலும் பாதிக்கப்பட்ட சிறுமி ரிஜ்வே ஆர்யா வைத்தியாசலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b6818186.json)
+
 ---
 
 ### Decision on election spending limit to be finalized today
@@ -100,19 +148,27 @@ The Executive Director of PAFFREL, Rohana Hettiarachchi, stated that this decisi
 
 ---
 
-### விடுதலைப்புலிகள் இயக்கம் மீதான தடையைத் தொடர்ந்து பேணும் கனடாவின் நிலைப்பாட்டுக்கு இலங்கை வரவேற்பு
+### Sri Lanka welcomes Canada's position following the ban on the Liberation Tigers of Tamil Eelam (LTTE)
 
 *2024-08-16 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191187) · `ta`
 
-கனேடிய அரசாங்கத்தினால் அண்மையில் புதுப்பிக்கப்பட்ட தடைசெய்யப்பட்ட அமைப்புக்கள் அடங்கிய பட்டியலில் தமிழீழ விடுதலைப்புலிகள் இயக்கம் மீளவும் உள்ளடக்கப்பட்டிருப்பது குறித்து இலங்கை அரசாங்கம் வரவேற்பு வெளியிட்டுள்ளது.
+Sri Lanka appreciates Canada's continued inclusion of the Liberation Tigers of Tamil Eelam (LTTE) on its list of banned organizations, acknowledging the group's ongoing international fundraising efforts and potential threat.
 
-கனேடிய அரசாங்கம் கடந்த 2006 ஆம் ஆண்டு தமிழீழ விடுதலைப்புலிகள் இயக்கத்தை தடைசெய்யப்பட்ட அமைப்புக்களின் பட்டியலில் உள்ளடக்கியது. அப்பட்டியல் 5 வருடங்களுக்கு ஒருமுறை மீளாய்வுக்கு உட்படுத்தப்படும். அதற்கமைய இவ்வருடம் ஜுன் மாதம் 7 ஆம் திகதி அப்பட்டியல் மீளப்புதுப்பிக்கப்பட்டிருக்கின்றது. அவ்வாறு புதுப்பிக்கப்பட்ட பட்டியலிலும் விடுதலைப்புலிகள் இயக்கத்தின் பெயர் உள்ளடக்கப்பட்டிருக்கின்றது. இதற்கு வரவேற்பு தெரிவித்து வெளிவிவகார அமைச்சினால் அறிக்கையொன்று வெளியிடப்பட்டுள்ளது.
+🟩
 
-அவ்வறிக்கையில் 'கனடாவைத் தளமாகக்கொண்டு இயங்கிய உலகத்தமிழ் அமைப்புடன் இணைந்ததாக தமிழீழ விடுதலைப்புலிகள் இயக்கத்தையும் தடைசெய்யப்பட்ட அமைப்புக்களின் பட்டியலில் தொடர்ந்து உள்ளடக்குவதற்கு கனேடிய அரசாங்கம் எடுத்திருக்கும் தீர்மானத்தை வரவேற்கிறோம்' எனத் தெரிவிக்கப்பட்டுள்ளது.
+The Sri Lankan government has welcomed the list of recently renewed organizations by the Canadian government.
+
+The Canadian government included the list of banned organizations in 2006 in 2006. The edition will be subjected to a review once in 5 years. Accordingly, the post was reinstated on the 7th of June this year. The updated list also includes the name of the Liberation Tigers of Tamil Eelam (LTTE). A statement has been issued by the Foreign Ministry to welcome this.
+
+It is said that the Canadian government has decided to continue to include the Liberation Tigers of Tamil Eelam (LTTE) and the Liberation Tigers of Tamil Eelam (LTTE) to join the World Tamil Organization.
+
+According to the recent renewal review by the Canadian government, the Ministry of External Affairs has pointed out that the remnants of the Liberation Tigers of Tamil Eelam (LTTE) are reportedly engaged in fundraising internationally.
 
 ...
 
 [Data](articles/f83ead32.json)
+
+[Extended Data](ext_articles/f83ead32.ext.json)
 
 ---
 
@@ -966,6 +1022,22 @@ The PA's supporters gathered in front of the Elections Commission and greeted Na
 
 ---
 
+### 
+
+*2024-08-16 00:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84539) · `en`
+
+s 39 presidential aspirants will contest a crucial poll in Sri Lanka on September 21, the Election Commission said on Thursday (August 15, 2024), after closing nominations.
+
+Incumbent President Ranil Wickremesinghe, who rose to the top office through a parliamentary vote during the island nation’s 2022 crisis, is seeking a mandate to take forward his government’s economic reform agenda.
+
+Mr. Wickremesinghe, 75, is contesting as an independent candidate on a “stability”plank, while his main challengers Opposition Leader Sajith Premadasa, who broke away from Mr. Wickremesinghe’s United National Party following political differences, and Anura Kumara Dissanayake, who leads the centre-left National People’s Power alliance, are promising change.
+
+...
+
+[Data](articles/36a6e9ea.json)
+
+---
+
 ### Upcountry Tamil community sub -committee
 
 *2024-08-16 00:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-சமூகம்-உப-குழு/175-342257) · `ta`
@@ -1322,21 +1394,29 @@ Minister of Manusha Nanayakkara, who was elected to parliament with the abolitio
 
 ---
 
-### අපේක්ෂකයන්ට ආරක්ෂාව දීම තර්ජන තක්සේරුවක් අනුවයි
+### Providing security for candidates is based on a threat assessment
 
 *2024-08-15 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්ට-ආරක්ෂාව-දීම-තර්ජන-තක්සේරුවක්-අනුවයි/11-411400) · `si`
 
-ජනාධිපතිවරණයට ඉදිරිපත් වී සිටින සෑම අපේක්ෂකයෙකුටම ආරක්ෂාව ලබා දෙන බවත්,  එක් එක් අපේක්ෂකයාට තිබෙන තර්ජන අනුව තක්සේරුවක් සිදුකර වැඩි දුර ආරක්ෂාවක් ලබා දෙන බවත්, පොලිස්  මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්තිපති නීතිඥ රුවන් ගුණසේකර මහතා සඳහන් කළේය.
+Security for election candidates is enhanced through a comprehensive threat assessment process. Intelligence reports guide a committee in allocating increased protection, supervised by officials including former presidents. All police are briefed on electoral laws, ensuring incidents are legally addressed, possibly involving the Attorney General's Department for prosecution.
 
-අදාළ තක්සෙරුව සිදුකරනු ලබන්නේ බුද්ධි අංශ විසින් බවත්, තක්සේරුව සිදුකර එම වර්තාව කමිටුවකට ලබා දෙන බවත්, මේ අනුව අදාළ කමිටුව විසින් ආරක්ෂාව වැඩි කිරීමට කටයුතු කරන  බවත් හෙතෙම පවසා සිටියේය.
+🟩
 
-ජනාධිපතිවරණ කාලසීමාවෙහිදී අපේක්ෂකයන්ගේ ආරක්ෂාව සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව පිළිබඳව අධීක්ෂණය කිරීම සඳහා කමිටුවක් පත් කර තිබෙන බවත්, මෙම කමිටුවේ සභාපතිත්වය දරන්නේ මහජන ආරක්ෂක අමාත්‍යංශ ලේකම් විසින් බවත් ඒ මහතා සඳහන් කළේය.
+Police Media Spokesperson DS Ruwan Gunasekera said that every candidate who has presented to the presidential election will be provided and provides greater protection.
 
-මූලිකව සැම අපේක්ෂකයෙකුට යම් ආරක්ෂාවක් හිමිවන බවත්,  එක් එක් අපේක්ෂකයා සභාගිවන රැස්වීම් පිළිබඳව කල්වේලා ඇතිව දැනුම් දීමෙන් අනතුරුව රැස් වීම සඳහත් අවශ්‍ය ආරක්ෂාව ලබා දෙන බවත් පැවසීය.
+The Tharuzing is carried out by intelligence and assessed the report and will be provided to a committee and will increase the protection by the committee.
+
+He said that a committee has been appointed to supervise the safety and former presidential election and the appointment of former presidents has been appointed by the Secretary to the Ministry of Defense.
+
+He said that a candidate is primarily protection and that the meeting will be given to the meetings of the meetings.
+
+All police officers have been informed of the legal provisions of the Presidential Election and that the photographs of the incident will then be taken up and considering the incident and take necessary legal action.
 
 ...
 
 [Data](articles/65a0d1c1.json)
+
+[Extended Data](ext_articles/65a0d1c1.ext.json)
 
 ---
 
@@ -2153,67 +2233,5 @@ Vijayadasa Rajapakse, who has appealed to the Election Commission to maintain di
 [Data](articles/b863b9d6.json)
 
 [Extended Data](ext_articles/b863b9d6.ext.json)
-
----
-
-### Kandy Donkey: Mano boiling
-
-*2024-08-15 15:53:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-கழுதை-மனோ-கொதிப்பு/175-342229) · `ta`
-
-Mano Ganesan, MP and Tamil Progressive Alliance leader, made a playful remark about a Kandy donkey and a lame horse. Meanwhile, Velukumar, another MP from the alliance, backs President Ranil Wickremesinghe for the upcoming presidential election, contrasting with the alliance's decision to support Opposition Leader Sajith Premadasa.
-
-🟩
-
-Member of Parliament and leader of the Tamil Progressive Alliance, Mano Ganesan, has teased the "Kandy donkey with a lame horse".
-
-Kandy District Parliamentarian of the Tamil Progressive Alliance Velukumar today decided to support President Ranil Wickremesinghe, the independent candidate in the next presidential election.
-
-However, the Tamil Progressive Alliance has decided to support Opposition Leader Sajith Premadasa. In this case, he said the above.
-
-◼️
-
-[Data](articles/a56ca6cf.json)
-
-[Extended Data](ext_articles/a56ca6cf.ext.json)
-
----
-
-### 39 candidates contesting for the presidential election
-
-*2024-08-15 15:38:54* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සඳහා-ඉදිරිපත්-වන-අපේක්ෂකයින්-39-දෙනා/11-411392) · `si`
-
-39 candidates have been nominated for the upcoming presidential election, as announced by the Election Commission Chairman.
-
-🟩
-
-The Chairman of the Election Commission stated that 39 of the 40s were nominated for the presidential election.
-
-Accordingly, the Chairman of the Election Commission has stated:
-
-◼️
-
-[Data](articles/74c883c2.json)
-
-[Extended Data](ext_articles/74c883c2.ext.json)
-
----
-
-### Seven arrested for soliciting bribe from Janaka Ratnayake
-
-*2024-08-15 15:18:49* · [`dailyftlk`](https://www.ft.lk/news/Seven-arrested-for-soliciting-bribe-from-Janaka-Ratnayake/56-765585) · `en`
-
-Several officials, including the secretary of the Eksath Lanka Podujana Pakshaya, have been arrested by the Bribery Commission for soliciting a bribe of Rs. 30 million from former PUCSL Chairman and Presidential candidate Janaka Ratnayake. The election related bribery incident is the first of its kind leading up to the 2024 Presidential election.
-
-The arrests took place in Borella yesterday while the party officials were allegedly accepting the bribe to secure Ratnayake’s nomination from the party.
-
-The operation followed a complaint lodged by Citizen’s Movement Against Fraud, Corruption, and Waste Chairman Kamantha Thushara. Thushara reported the bribery attempt on behalf of Ratnayake, who is running for President as the candidate of the Eksath Lanka Podujana Pakshaya.
-
-Earlier in the day,  Eksath Lanka Podujana Pakshaya Secretary Nihal Premakumara Deshapriya had submitted the security deposit for Ratnayake at the Election Commission.
-
-◼️
-
-[Data](articles/b9f3e8e0.json)
-
-[Extended Data](ext_articles/b9f3e8e0.ext.json)
 
 ---

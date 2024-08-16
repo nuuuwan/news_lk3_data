@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 15:36:46**
+As of **2024-08-16 15:55:35**
 
 ## Newspaper Stats
 
-*Scraped **41,074** Articles*
+*Scraped **41,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 4,796
 tamilmirrorlk | 5,258
 virakesarilk | 6,510
-adaderanasinhalalk | 6,986
+adaderanasinhalalk | 6,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,072 (100.0%) of 41,074 articles have been extended.
+41,074 (100.0%) of 41,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### පරිභෝජනයට නුසුදුසු පරිප්පු තොගයක් අල්ලයි
+
+*2024-08-16 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200003) · `si`
+
+මිනිස් පරිභෝජනයට නුසුදුසු පරිප්පු කිලෝග්‍රෑම් 1000ක් පිටකොටුව ආදුරුප්පු වීදියේ ගබඩාවක තිබී සොයාගෙන තිබේ.
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියට ලැබුණු තොරතුරකට අනුව සිදුකළ වැටලීමකදී ප්‍රසිද්ධ ආහාර ආනයන ආයතනයකට අයත් ගබඩාවක තිබී මෙම පරිප්පු තොගය සොයාගෙන ඇත.
+
+වැටලීම සිදුකළ අවස්ථාවේ පරිප්පු තොගය දිලීර ඉවත්කොට නැවත සකස්කර වෙළෙඳපොළට යැවීම සඳහා ඇසුරුම්කරමින් තිබූ බවයි පාරිභෝගික කටයුතු අධිකාරිය පැවසුවේ.
+
+පාරිභෝගික කටයුතු පිළිබ﻿ඳ අධිකාරිය අදාළ පරිප්පු තොගය සිය භාරයට ගෙන ඇති අතර ඒ පිළිබඳ විමර්ශන සිදුකර නඩු පැවරීමට නියමිතයි.
+
+◼️
+
+[Data](articles/ef4278ad.json)
+
+---
+
+### Tiktok තහනමට එරෙහිව අමෙරිකාව සමග සටනක්
+
+*2024-08-16 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200002) · `si`
+
+චීන බයිට්ඩාන්ස් සමාගමේ ජනප්‍රිය වීඩියෝ හුවමාරු යෙදවුම 'ටික්ටොක්' අමෙරිකානු මෙහෙයුම් විකුණා දමන ලෙසත්, මාස 06ක් ඇතුළත එය සිදුනොකළ හොත් අමෙරිකාවේ ටික්ටොක් තහනම් කරන බවටත් කොංග්‍රස් මණ්ඩලය සම්මත කරගත් නීතියට එරෙහිව බයිට්ඩාන්ස් සමාගම ඉදිරිපත් කළ පෙත්සම අමෙරිකානු ෆෙඩරල් අභියාචනාධිකරණයේදී විභාග කිරීම දැන් ආරම්භ වී තිබේ.
+
+ඊයේ (15) එම අධිකරණ විභාගයේ පළමු දිනයේදී චීන බයිට්ඩාන්ස් සමාගම ප්‍රකාශ කළේ, එම සිද්ධියේදී අධිකරණ දෙපාර්තමේන්තුව සැබෑ කරුණු විකෘති කිරීමක් සිදුකර ඇති බවය.
+
+අමෙරිකාවේ ටික්ටොක් ග්‍රාහකයන්ගේ දත්ත චීන රජය විසින් ලබාගන්නා බවට අධිකරණ දෙපාර්තමේන්තුවේ නීතිඥයන් සිදුකළ කරුණු දැක්වීම පිළිබඳව ඔවුන් මෙහිදී විශේෂයෙන් සඳහන් කළේය.
+
+චීන රජය අමෙරිකානුවන් දත්ත එක්රැස් කිරීමට මෙන්ම, ඔවුන්ට දැකිය හැකි අන්තර්ගතය (content)වෙනස් කරන බවත්, එය අමෙරිකාවේ ජාතික ආරක්ෂාවට තර්ජනයක් බවත් අධිකරණ දෙපාර්තමේන්තුවේ නීතිඥයන් කියා සිටියේය.
+
+එහෙත් ටික්ටොක් යෙදවුමේ අමෙරිකානු මෙහෙයුමේදී ලබාගන්නා දත්ත ගබඩා කර ඇත්තේ අමෙරිකාවේ බවත් එය ඔරකල් සමාගමේ 'ක්ලවුඩ් සර්වර්ස්වල' ගබඩා කෙරෙන බවත් බයිට් ඩාන්ස් සමාගම පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/cda6480e.json)
+
+---
 
 ### Thousands in Japan’s eastern region ordered to evacuate as Typhoon Ampil approaches
 
@@ -50,21 +88,31 @@ Ampil has wind speeds of 45 metres per second with maximum gust of 60 metres per
 
 [Data](articles/aad62366.json)
 
+[Extended Data](ext_articles/aad62366.ext.json)
+
 ---
 
-### “பார் உரிமம் கலாசாரம் நம்மிடம் இல்லை”
+### "We don't have a Bar License Culture"
 
 *2024-08-16 15:16:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-உரிமம்-கலாசாரம்-நம்மிடம்-இல்லை/175-342286) · `ta`
 
-நாடு தற்போது இயல்பு நிலையில் இருப்பதாக ஜானாதிபதி  கூறினாலும்,நாட்டில் உருவாகியிருப்பது புதியதொரு   நிலையாகும். இதனால் நாட்டு மக்கள்  தொழில்களை இழந்து, ஜீவனோபாயத்தினை இழந்து வறுமை நிலைக்கு தள்ளப்பட்டுள்ளதன் காரணமாக மக்கள் பெரும் கவலையில் இருக்கின்றனர். மக்களின் நுகர்வு, முதலீடு, சேமிப்பு மற்றும் உற்பத்தி ஆகியவை இல்லாமால் போயுள்ள காரணத்தினால் நாட்டின் ஏற்றுமதி பாரியளவு வீழ்ச்சியடைந்துள்ளது. இக்காரணத்தால் நாட்டின் புதியதொரு இயல்புநிலை உருவாகியுள்ளது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Despite claiming normalcy, the country faces significant challenges including business losses, poverty, and a drastic fall in exports due to reduced consumption, investment, and production. The Opposition Leader highlights the inability of citizens to afford basic needs and criticizes the government's handling of the economy, suggesting a lack of cultural practices like bar licensing, bidding, and grants. He promises to foster a non-alcoholic society under the United People's Power Government, aiming to alleviate national suffering through economic restructuring and adherence to international monetary fund conditions.
 
-மக்களின் வாழ்வாதாரத்தை குறைத்து , பணத்தினை சட்டைப் பைகளில் அடைத்து, செலவழிக்க முடியாதொரு நிலை உருவாகியுள்ளது. நாட்டை நாசமாக்கி, அதளபாதாளத்திற்கு கொண்டுசென்றுள்ள  ஒரு சாதாரண நிலையே நாட்டில் நிலவி வருகிறது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  தெரிவித்தார்.
+🟩
 
-கண்டி மல்வத்த மற்றும் அஸ்கிரி பீட மகா நாயக்க தேரரை வௌ்ளிக்கிழமை (16)  சந்தித்து ஆசிர்வாதம் பெற்றுக் கொண்டதன் பிற்பாடு   ஊடகங்களுக்கு கருத்துத்  தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Although the country claims that the country is currently in normal, it is a new situation in the country. The people are in great concern because of the loss of businesses, the loss of life and the poverty.. The country's exports have fallen massive due to lack of consumption, investment, savings and production of people. Opposition Leader Sajith Premadasa said that the country's new defaults have created.
+
+There is an unable to spend the livelihood of the people, put money into the shirt pockets. Opposition Leader Sajith Premadasa said that the country is a normal state of ruin and transporting the country.
+
+He said this while speaking to the media after he met the Kandy Malwatta and Asgiri Peeta Maha Nayaka Thera on Wednesday (16).
+
+They say that the shoulders of the nation have been loaded and the default has been created. The Leader of the Opposition pointed out that we will not respond to a variety of stupid and deceiving ideas.
 
 ...
 
 [Data](articles/bdf66afd.json)
+
+[Extended Data](ext_articles/bdf66afd.ext.json)
 
 ---
 
@@ -2177,49 +2225,5 @@ The PA's supporters gathered in front of the Elections Commission and greeted Na
 [Data](articles/693624f5.json)
 
 [Extended Data](ext_articles/693624f5.ext.json)
-
----
-
-### 39 Candidates  Contesting in Sri Lanka’s Presidential Election Scheduled for 21 September;Incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and JVP/NPP Leader Anura Kumara Dissanayake  are top Contenders
-
-*2024-08-16 00:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84539) · `en`
-
-As many as  39 presidential aspirants will contest a crucial poll in Sri Lanka on September 21, the Election Commission said on Thursday (August 15, 2024), after closing nominations.
-
-Incumbent President Ranil Wickremesinghe, who rose to the top office through a parliamentary vote during the island nation’s 2022 crisis, is seeking a mandate to take forward his government’s economic reform agenda.
-
-Mr. Wickremesinghe, 75, is contesting as an independent candidate on a “stability”plank, while his main challengers Opposition Leader Sajith Premadasa, who broke away from Mr. Wickremesinghe’s United National Party following political differences, and Anura Kumara Dissanayake, who leads the centre-left National People’s Power alliance, are promising change.
-
-...
-
-[Data](articles/36a6e9ea.json)
-
-[Extended Data](ext_articles/36a6e9ea.ext.json)
-
----
-
-### Upcountry Tamil community sub -committee
-
-*2024-08-16 00:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தமிழர்-சமூகம்-உப-குழு/175-342257) · `ta`
-
-The Human Rights Commission of Sri Lanka established its first-ever sub-committee for the Upcountry Tamil Society, focusing on eight key themes. This significant move marks a historic step in addressing human rights concerns among the hill country's population. The inaugural meeting, chaired by Commissioner Professor Thaya, included notable figures like Attorney-at-Law Kapilan Vilavarajan and Dr. Kihan Gunatilaka, emphasizing the commission's commitment to tackling practical human rights issues.
-
-🟩
-
-The Human Rights Commission of Sri Lanka has set up a sub -committee of the Upcountry Tamil Society for the Human Rights Committee, which has been set up by 08 key themes.
-
-It is noteworthy that this is the first sub -committee set up by the Human Rights Commission of Sri Lanka on the people of the hill country in the history of Sri Lanka.
-
-The first session of the sub -committee was held on Wednesday (14) under the patronage of Commissioner Professor Thaya.
-
-Attorney -at -Law Kapilan Vilavarajan, Director Nihal Chandrasree, Dr. Kihan Gunatilaka, Professor Burhana Haniba Also attended.
-
-The Commissioner and Professor, the Commissioner and Professor. The sub -committee on the setting up of the sub -committee on Tanaraj was followed by the Commission on the issue of human rights issues on practical human rights issues.
-
-◼️
-
-[Data](articles/65abac41.json)
-
-[Extended Data](ext_articles/65abac41.ext.json)
 
 ---

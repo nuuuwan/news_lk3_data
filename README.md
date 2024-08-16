@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 15:07:01**
+As of **2024-08-16 15:21:13**
 
 ## Newspaper Stats
 
-*Scraped **41,069** Articles*
+*Scraped **41,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,87 +18,143 @@ dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
 adaderanalk | 4,795
-tamilmirrorlk | 5,256
+tamilmirrorlk | 5,257
 virakesarilk | 6,510
-adaderanasinhalalk | 6,984
+adaderanasinhalalk | 6,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,062 (100.0%) of 41,069 articles have been extended.
+41,069 (100.0%) of 41,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ரயில் தடம்புரள்வு ; மலையக ரயில் சேவைகள் தாமதம்
+### குமார் வெல்கம, பௌசி ரணிலுக்கு ஆதரவு
+
+*2024-08-16 14:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-பௌசி-ரணிலுக்கு-ஆதரவு/175-342285) · `ta`
+
+ஜனாதிபதி தேர்தலில் சுயேட்சையாக போட்டியிடும் ஐக்கிய தேசியக் கட்சியின் தலைவரான ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு, ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான குமார் வெல்கம மற்றும் ஏ.எச்.எம் பௌசி ஆகியோர் ஆதரவளித்துள்ளனர்.
+
+இவர்கள், இருவரும், பத்தரமுல்ல ​வோட்ட​ர்​சேஜ் ஹோட்டலில் ​“இலங்கையால் முடியும்” என்ற தொனிப்பொருளில் விசேட நிகழ்ச்சி நடைபெற்றது. இதில் நடைபெற்ற புரிந்துணர்வு ஒப்பந்தத்தில் 34 கட்சிகள் கையொப்பமிட்டனர்.
+
+◼️
+
+[Data](articles/0d2dd29e.json)
+
+---
+
+### Train disruption;Mountain Rail Services delayed
 
 *2024-08-16 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191224) · `ta`
 
-பதுளை, தெமோதரை ரயில் நிலையத்திற்கு அருகில் அருகில் இன்று (16) பிற்பகல் ரயில் ஒன்று தடம் புரண்டுள்ளதால் மலையக மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளது.
+Train derailment near Badulla's Temodara station caused delays in hill country services. Trains through Temodara are affected.
 
-இதனால் தெமோதரை புகையிரத நிலையத்தை கடந்து செல்லும் ரயில்கள் தாமதமடையும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+Train services have been delayed at the hill country as a train derailed this afternoon near the Temodara railway station in Badulla.
+
+The train department said that trains crossing the Temodara railway station will delay.
 
 ◼️
 
 [Data](articles/50390df9.json)
 
+[Extended Data](ext_articles/50390df9.ext.json)
+
 ---
 
-### கந்தகாடு கைதி தப்பியோட்டம்
+### Sagittarius prisoner escapes
 
 *2024-08-16 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-கைதி-தப்பியோட்டம்/175-342284) · `ta`
 
-பொலன்னறுவை வெலிகந்த கந்தகாடு புனர்வாழ்வு நிலையத்தில் புனர்வாழ்வளிக்கப்பட்டு வந்த கைதி ஒருவர் பயிற்சி நிலையத்தில் இருந்து தப்பிச் சென்றுள்ளதாக வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
+A rehabilitated prisoner from the Welikanda Kandagadu Rehabilitation Center in Polonnaruwa has escaped, leaving 93 out of 94 inmates. The 26-year-old from Polonnaruwa's Kalukele, Bandanagala area is now the subject of a military-led search.
 
-பொலன்னறுவை, களுகெலே, பந்தனகல பிரதேசத்தில் வசிக்கும் 26 வயதுடைய ஒருவரே இவ்வாறு தப்பிச் சென்றுள்ளதாக விசாரணைகளை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கந்தகாடு புனர்வாழ்வு பயிற்சி நிலையத்தில் 94 கைதிகள் புனர்வாழ்வளிக்கப்பட்டு வருவதாகவும், தற்போது 93  இருப்பதாகவும் பயிற்சி நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+Welikanda police say that a prisoner who was rehabilitated at the Welikanda Kandagadu Rehabilitation Center in Polonnaruwa has fled the training center.
 
-தப்பியோடிய கைதியை கைது செய்வதற்கான விசேட நடவடிக்கை இராணுவத்தினரால் ஆரம்பிக்கப்பட்டுள்ளதாகவும் வெலிகந்த பொலிஸார் தெரிவிக்கின்றனர்.
+Police said the 26 -year -old man from Polonnaruwa, Kalukele, Bandanagala area had escaped.
+
+A training center official said that 94 prisoners are being rehabilitated at the Kandagadu Rehabilitation Training Center and is currently 93.
+
+Welikanda police say that special measures have been initiated by the military to arrest the fled prisoner.
 
 ◼️
 
 [Data](articles/1ce3d45d.json)
 
+[Extended Data](ext_articles/1ce3d45d.ext.json)
+
 ---
 
-### மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக நீதியரசர் ஆர். எம். சோபித ராஜகருணா நியமனம்
+### Judge R. M.. Sobitha Rajakaruna appointment
 
 *2024-08-16 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191221) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக நீதியரசர் ஆர். எம்.சோபித ராஜகருணா நியமிக்கப்பட்டுள்ளார்.
+Justice RM Sobitha Rajakaruna was sworn in as the President of the Court of Appeal on Friday, replacing Nishanga Bandula Karunaratna, who will serve as acting chairman upon his return.
 
-மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக ஆர்.எம்.சோபித ராஜகருணா இன்று வெள்ளிக்கிழமை (16) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டார்.
+🟩
 
-மேன்முறையீட்டு நீதிமன்றத்தின் தலைவராக கடமையாற்றிய நிஷ்சங்க பந்துல கருணாரத்ன, வெளிநாடு சென்றுள்ள நிலையில் அவர்  நாடு திரும்பும் வரை இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+Justice R.. M. Sopitha Rajakaruna has been appointed.
+
+RM Sopitha Rajakaruna was sworn in as the President of the Court of Appeal on Friday (16) in the presence of President Ranil Wickremesinghe.
+
+Nishanga Bandula Karunaratne, who served as the Chairman of the Court of Appeal, has been appointed until he returns to the country.
 
 ◼️
 
 [Data](articles/951a3a75.json)
 
+[Extended Data](ext_articles/951a3a75.ext.json)
+
 ---
 
-### பாகிஸ்தானில் குரங்கம்மை பாதிப்பு
+### සාවද්‍ය පුවතක් ගැන සජබයෙන් නිවේදනයක්
+
+*2024-08-16 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200000) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සමගි ජන සන්ධානය හා එක්ව ඇතැයි පැවසෙන පුවත සාවද්‍ය බව සමගි ජන බලවේගයේ මාධ්‍ය ප්‍රකාශක එස්. එම්. මරික්කාර් මහතා පවසයි.
+
+සමගි ජන බලවේගය වෙනුවෙන් නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, හිටපු ජනාධිපතිවරයා සමග සන්ධානගත වීමක් හෝ එවැනි සහායක් හෝ ලබාගැනීමට සමගි ජන සන්ධානයට අවශ්‍යතාවයක් නොමැති බවය.
+
+එළැඹෙන ජනාධිපතිවරණයේ දී නියත පරාජය හමුවේ වියරු වැටී සිටින ආණ්ඩුවට හිතවාදී ප්‍රචාරක කණ්ඩායම් විසින් අසත්‍ය පුවත් නිර්මාණය කර, ජනමාධ්‍ය හා සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය කරන වැඩපිළිවෙලක නිරත වන බව ද මරික්කාර් මහතා අවධාරණය කරයි.
+
+මෙම මැතිවරණ කාලසීමාව තුළ සියලු පක්ෂයන්ට අභියෝගයක් වී ඇති සමගි ජන සන්ධානයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට එරෙහිව ආණ්ඩුව සහ ඔවුන් සමග ඩීල් දේශපාලනයේ නිරත සියලු අපේක්ෂකයින්ගේ මාධ්‍ය මෙහෙයුම් පිළිබඳ විමසිලිමත්ව බුද්ධියෙන් ග්‍රහණය කරගන්නා ලෙස  සමගි ජන බලවේගය ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/783ef452.json)
+
+---
+
+### The impact of the monarchy in Pakistan
 
 *2024-08-16 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191211) · `ta`
 
-பாகிஸ்தானில் குரங்கம்மை நோயினால் பாதிக்கப்பட்ட மூன்று பேர் அடையாளம் காணப்பட்டுள்ளதாக வடக்கு கைபர் பக்துன்க்வா மாகாணத்தில் உள்ள சுகாதாரத் திணைக்களம் இன்று வெள்ளிக்கிழமை (16) தெரிவித்துள்ளது.
+In Pakistan, three cases of a mysterious illness resembling monarchy have been identified, two confirmed, with the third sample sent for confirmation. Patients traveled from UAE, and the exact virus variant remains unknown. Three patients are isolated in Khyber Pakhtunkhwa.
 
-ஐக்கிய அரபு எமிரேட்ஸூக்கு பயணம் மேற்கொண்டு விட்டு பாகிஸ்தானுக்கு திரும்பியவர்களில் குரங்கம்மை பாதிப்பு கண்டறியப்பட்டுள்ளது.
+🟩
 
-பாகிஸ்தானில் குரங்கம்மை நோய் தொற்றினால் பாதிக்கப்பட்ட நோயாளிகளில் எந்த மாறுபாடு கொண்ட வைரஸ்  கண்டறியப்பட்டது என்பது தெரியவில்லை.
+The Health Department in the North Khyber Pakhtunkhwa Province said that three people have been identified in Pakistan.
 
-அவர்களில் இருவருக்கு குரங்கம்மை நோய் உறுதி செய்யப்பட்டுள்ளது. மூன்றாவது நோயாளியின் மாதிரிகள் தலைநகர் இஸ்லாமாபாத்தில் உள்ள தேசிய சுகாதார நிறுவனத்திற்கு உறுதிப்படுத்துவதற்காக அனுப்பப்பட்டுள்ளன.
+The impact of the monarchs has been found to return to Pakistan after traveling to the United Arab Emirates.
 
-மேலும், மூன்று நோயாளிகள் தனிமைப்படுத்தப்பட்டுள்ளார்கள் என கைபர் பக்துன்க்வாவிற்கான சுகாதார சேவைகளின் பணிப்பாளர் சலீம் கான் தெரிவித்துள்ளார்.
+It is not known which variation virus in Pakistan was diagnosed with patients with the infection.
 
-ஆனால், பாகிஸ்தானில் குரங்கம்மை நோயினால்  பாதிக்கப்பட்டுள்ளதாக சந்தேகிக்கப்படும் ஒரு நோயாளி மாத்திரம் அடையாளம் காணப்பட்டுள்ளதாக அந்நாட்டு தேசிய சுகாதார அமைச்சகத்தின் செய்தித் தொடர்பாளர் தெரிவித்துள்ளார்.
+Two of them have been confirmed. The third patient's samples have been sent to confirm the National Health Organization in the capital Islamabad.
+
+Three patients have been isolated, said Salim Khan, Director of Health Services for Khyber Pakhtunkhwa.
+
+However, a spokesman for the National Health Ministry said that only a patient suspected of being suffering from monarchy in Pakistan has been identified.
 
 ◼️
 
 [Data](articles/e8ac64e4.json)
+
+[Extended Data](ext_articles/e8ac64e4.ext.json)
 
 ---
 
@@ -138,17 +194,41 @@ This appointment has been made until the President of the Court of Appeal Justic
 
 ---
 
-### மேன்முறையீட்டு நீதிமன்ற பதில் தலைவர் நியமிப்பு
+### වැඩබලන අභියාචනාධිකරණ සභාපති පත් කෙරේ
+
+*2024-08-16 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199999) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වැඩබලන අභියාචනාධිකරණ සභාපතිවරයා වශයෙන් අභියාචනාධිකරණ විනිසුරු ආර්. එම්. සෝභිත රාජකරුණා මහතා පත්කර තිබේ.
+
+ඒ අනුව ආර්. එම්. සෝභිත රාජකරුණා මහතා අද (16) පෙරවරුවේ වැඩබලන අභියාචනාධිකරණ සභාපතිවරයා වශයෙන් ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+
+අභියාචනාධිකරණ සභාපති විනිසුරු ලෙස කටයුතු කළ නිශ්ශංක බන්දුල කරුණාරත්න මහතා දිවයිනෙන් බැහැරවීම හේතුවෙන් ඒ මහතා නැවත දිවයිනට පැමිණෙන තෙක් මෙම පත්කිරීම සිදුකර ඇත.
+
+ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද මෙම අවස්ථාවට එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/cb5e8519.json)
+
+---
+
+### The Chairman of the Court of Appeal
 
 *2024-08-16 14:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேன்முறையீட்டு-நீதிமன்ற-பதில்-தலைவர்-நியமிப்பு/175-342283) · `ta`
 
-மேன்முறையீட்டு நீதிமன்றத்தின் பதில் தலைவராக சோபித ராஜகருணா ஜனாதிபதி அலுவலகத்தில் வௌ்ளிக்கிழமை (16) ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டார்.
+Nishanka Bandula Karunaratne stepped down as the Chairman of the Court of Appeal, and President Ranil Wickremesinghe took his oath in his presence on Wednesday (16). Also present was President Saman Ekanayake.
 
-மேன்முறையீட்டு நீதிமன்றத்தின் தலைவராக கடமையாற்றிய  நிஷங்க பந்துல கருணாரத்ன தீவை விட்டு வெளியேறும் வரை இந்த நியமனம் வழங்கப்பட்டுள்ளது. இந்நிகழ்வில் ஜனாதிபதியின் செயலாளர்  சமன் ஏக்கநாயக்கவும் கலந்துகொண்டார்.
+🟩
+
+President Ranil Wickremesinghe was sworn in in the presence of President Ranil Wickremesinghe on Wednesday (16).
+
+The appointment has been appointed until Nishanka Bandula Karunaratne left the island of the Court of Appeal.. President of the President Saman Ekanayake was also present at the event.
 
 ◼️
 
 [Data](articles/d9f99ad4.json)
+
+[Extended Data](ext_articles/d9f99ad4.ext.json)
 
 ---
 
@@ -178,15 +258,21 @@ We will remove the black speech that is spread throughout the energy sector. Wil
 
 ---
 
-### இன்றைய நாணயமாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-08-16 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191216) · `ta`
 
-இன்று வெள்ளிக்கிழமை  (ஆகஸ்ட் 16) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 294.3160 ரூபா ஆகவும் விற்பனை விலை 303.5267 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On August 16, the US dollar's buying rate was 294.3160 rupees and selling rate was 303.5267 rupees according to the Central Bank's exchange rate.
+
+🟩
+
+The US dollar purchasing price was 294.3160 ​​rupees and the sales price were 303.5267 rupees based on the Central Bank's currency exchange rate on Friday (August 16).
 
 ◼️
 
 [Data](articles/bf5b6813.json)
+
+[Extended Data](ext_articles/bf5b6813.ext.json)
 
 ---
 
@@ -216,19 +302,25 @@ Meanwhile, a Pirith Club, Kandy was held at the Kandyan, Kandy's workshop.
 
 ---
 
-### வலி வடக்கு நகுலேஸ்வரம் கிராம அலுவலர் பிரிவில் ஶ்ரீமத் நாராயன சுவாமி ஆலய வழிபாட்டிற்கு  அனுமதி
+### Srimath Narayana Swamy Temple Worship
 
 *2024-08-16 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191213) · `ta`
 
-வலி வடக்கு நகுலேஸ்வரம் கிராம அலுவலர் பிரிவில் மிக நீண்ட காலமாக உயர் பாதுகாப்பு வலய பிரதேசத்தில் அமைந்துள்ள ஶ்ரீமத் நாராயன சுவாமி ஆலய வழிபாட்டிற்கு  இன்று வெள்ளிக்கிழமை (16) முதல் அனுமதி வழங்கப்பட்டுள்ளது.
+Starting this Friday, devotees have permission to visit the Shrimath Narayana Swamy Temple in the High Security Zone every week. The Jaffna District Government Agent approved this, allowing for weekly worship sessions. Today's visit included Prathan and Red Sewar Sarudirumurugan, marking a significant occasion.
 
-வாரத்தின் ஒவ்வொரு வெள்ளிக்கிழமையும் இவ் ஆலயத்திற்கு சென்று வழிபாடுகளை மேற்கொள்ள  அனுமதி வழங்கப்பட்டுள்ளது.
+🟩
 
-யாழ் மாவட்ட அரசாங்க அதிபர் ம. பிரதிபன் மற்றும் செஞ்சொற்செல்வர் ஆறுதிருமுருகன்  பங்குபற்றலுடன் பக்தர்கள் இன்றையதினம் இவ் ஆலயத்திற்கு சென்று வழிபாடுகளை மேற்கொண்டமை குறிப்பிடத்தக்கது.
+The worship of the Shrimath Narayana Swamy Temple, located in the High Security Zone, has been granted permission from Friday (16).
+
+Every Friday of the week is allowed to visit the temple and perform the worship.
+
+Jaffna District Government Agent. It is noteworthy that the devotees visited the temple today with the participation of Prathan and Red Sewar Sarudirumurugan.
 
 ◼️
 
 [Data](articles/0675446b.json)
+
+[Extended Data](ext_articles/0675446b.ext.json)
 
 ---
 
@@ -2119,81 +2211,5 @@ The diplomatic minister said that all party leaders should be more concerned abo
 [Data](articles/dcd31849.json)
 
 [Extended Data](ext_articles/dcd31849.ext.json)
-
----
-
-### The president, who handed over the nomination for the presidential election, visited the historic Dalada House
-
-*2024-08-15 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191180) · `ta`
-
-After submitting his nomination for the presidential election, President Ranil Wickremesinghe visited the historic Dalada House in Kandy, engaging in religious rituals and discussions. Welcoming Pradeep Nilanga Tela, he also received blessings from Sri Sumangala Thera at the Malwathu Maha Vihara and Sri Gnanaradana Thera at the Asgiri Maha Vihara. These visits were marked by congratulations on his electoral victory and discussions on public welfare.
-
-🟩
-
-President Ranil Wickremesinghe, who handed over the nomination for the upcoming presidential election on Thursday (15), visited the historic Kandy Dalada House and engaged in religious rituals.
-
-President Ranil Wickremesinghe, who visited the Dalada House, welcomed Pradeep Nilanga Tela. The president then went to the top of the Dalada House and engaged in religious rituals. The President had discussed the welfare of the people who had visited the Dalada House.
-
-They congratulated President Ranil Wickremesinghe's victory in the upcoming presidential election.
-
-President Ranil Wickremesinghe, who later visited the Malwathu Maha Vihara. After receiving the blessings of Sri Sumangala Thera, he engaged in a minor discussion with Thera. Thera was recited and blessed with the President.
-
-...
-
-[Data](articles/7b120f9c.json)
-
-[Extended Data](ext_articles/7b120f9c.ext.json)
-
----
-
-### India to fight 2036 Olympic host
-
-*2024-08-15 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199981) · `si`
-
-India aims to host the 2036 Olympic Games, with PM Narendra Modi expressing readiness and confidence in the country's capability to organize such large-scale events. The announcement was made during the Red Power ceremony in New Delhi. Ahmedabad, Gujarat's largest city, is speculated to be the host venue. This marks India's ambition to return to the international sporting stage after hosting the Asian Games last in 1982. The decision is expected to be finalized by the International Olympic Committee (IOC) in its upcoming meeting, with competition from countries like Saudi Arabia, Qatar, and Turkey.
-
-🟩
-
-Indian Prime Minister Narendra Modi told Indian Narendra Modi that taking hosting at the Olympic Games in 2036 is the dream of India.
-
-He was revealed at the ceremony of the Red Power in New Delhi today (15) in the Red Power Fort in New Delhi today.
-
-"The 2036 Olympic Festival is the dream of India, we are preparing for it," Modi said.
-
-He further revealed that India has the ability to host the large-scale global events.
-
-Accordingly, foreign media further reveals that Ahmedabad will name Ahmedabad as the host to the 2036 Olympic Games.
-
-Ahmedabad is the largest city in Gujarat, which is considered as the power camp of the Indian Prime Minister.
-
-India has not hosted any day in history, and they have been hosted to a multi-sport celebration in 2010.
-
-They have not given a Asian Games in 42 years (1982).
-
-However, in addition to the 2036 Olympics, several other countries, including Saudi Arabia, Qatar and Turkey, are also expected to contest.
-
-...
-
-[Data](articles/0ae396af.json)
-
-[Extended Data](ext_articles/0ae396af.ext.json)
-
----
-
-### Sweden confirms first case of Mpox
-
-*2024-08-15 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/101271/sweden-confirms-first-case-of-mpox) · `en`
-
-Sweden said on Thursday it had confirmed a first case of mpox, a viral infection that spreads through close contact.
-
-Earlier on Thursday, the World Health Organization declared mpox a global public health emergency for the second time in two years, following an outbreak in Democratic Republic of Congo that has spread to other countries.
-
-“We have now also during the afternoon had confirmation that we have one case in Sweden of the more grave type of mpox, the one called Clade I,” Health and Social Affairs Minister Jakob Forssmed told a news conference.
-
-◼️
-
-[Data](articles/47339694.json)
-
-[Extended Data](ext_articles/47339694.ext.json)
 
 ---

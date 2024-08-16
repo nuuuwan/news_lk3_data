@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 13:06:19**
+As of **2024-08-16 13:21:15**
 
 ## Newspaper Stats
 
-*Scraped **41,055** Articles*
+*Scraped **41,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
-adaderanalk | 4,792
-tamilmirrorlk | 5,252
+adaderanalk | 4,793
+tamilmirrorlk | 5,253
 virakesarilk | 6,505
 adaderanasinhalalk | 6,982
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,055 (100.0%) of 41,055 articles have been extended.
+41,055 (100.0%) of 41,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Sri Lanka’s headline inflation expected to remain below target - CBSL
+
+*2024-08-16 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101281/sri-lankas-headline-inflation-expected-to-remain-below-target-cbsl) · `en`
+
+The Central Bank of Sri Lanka (CBSL) predicts that the headline inflation is expected to be below the target in the forthcoming months, and reach the 5% target with appropriate policies in the medium term.
+
+In its monetary policy report for the month of August 2024, the CBSL has highlighted that the economic growth recovery towards the potential level is expected to continue over the medium term with appropriate policies.
+
+Furthermore, it mentioned that the Central Bank of Sri Lanka conducts monetary policy under a Flexible Inflation Targeting (FIT) framework, aimed at maintaining inflation at the target rate of 5%, while supporting economic growth to reach its potential.
+
+...
+
+[Data](articles/7b564843.json)
+
+---
+
+### ஆப்பிரிக்காவுக்கு வெளியே  சுவீடனில் குரங்கம்மை பாதிப்பு
+
+*2024-08-16 13:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்பிரிக்காவுக்கு-வெளியே-சுவீடனில்-குரங்கம்மை-பாதிப்பு/50-342280) · `ta`
+
+குரங்கம்மை பாதிப்பு என்பது ஒரு வகை வைரசால் ஏற்பட கூடிய தொற்று நோய் ஆகும். ஆப்பிரிக்காவில் நடப்பு ஆண்டில் குழந்தைகள் மற்றும் முதியவர்கள் என 13 நாடுகளில் குரங்கம்மை பாதிப்பு கண்டறியப்பட்டு உள்ளது. இதுபற்றி ஆப்பிரிக்காவின் நோய் கட்டுப்பாடு மற்றும் தடுப்பு மையம் சமீபத்தில் வெளியிட்ட அறிவிப்பில், குரங்கம்மை பாதிப்பு பொது சுகாதார அவசரகால நிலையாக உருவாகி உள்ளது. 500-க்கும் மேற்பட்டோர் உயிரிழந்து உள்ளனர்.
+
+அதனால், இதனை தடுத்து நிறுத்த சர்வதேச உதவி வேண்டும் என கேட்டு கொண்டுள்ளது. இந்த 13 நாடுகளில் காங்கோ நாட்டில் 96 சதவீதம் அளவுக்கு பாதிப்புகளும் மற்றும் மரணங்களும் ஏற்பட்டு உள்ளன. கடந்த ஆண்டின் இதே காலகட்டத்துடன் ஒப்பிடும்போது, காங்கோவில் பாதிப்புகள் 160 சதவீதமும், மரணங்கள் 19 சதவீதமும் உயர்ந்து உள்ளன.
+
+இந்த பாதிப்புக்கு, நடப்பு ஆண்டில் ஆப்பிரிக்க நாடுகளில் இதுவரை 524 பேர் பலியாகி உள்ளனர். 14 ஆயிரத்திற்கும் மேற்பட்டோருக்கு பாதிப்புகள் ஏற்பட்டு உள்ளன என்றும் தெரிவித்து இருந்தது.
+
+...
+
+[Data](articles/d08e5957.json)
+
+---
 
 ### Suspect arrested for ganja drug
 
@@ -403,6 +435,8 @@ The leader of the opposition who visited the Dalada House, including the Diyawad
 A total of 34 political parties and alliances signed the “Puluwan Sri Lanka” agreement today, expressing their support for President Ranil Wickremesinghe in the upcoming presidential election.
 
 The signing of the agreement was carried out at Waters Edge Hotel in Battaramulla this morning (16).
+
+Addressing the opening ceremony of the “Puluwan Sri Lanka” convention, President Ranil Wickremesinghe emphasized that the 34 political parties and alliances that signed the convention did so not only to form a political coalition but also to shape the future of the country and its people.
 
 ◼️
 
@@ -2209,59 +2243,5 @@ Sea areas beyond the coast extending from Galle to Matara and Pottuvil via Batti
 [Data](articles/2546c7ae.json)
 
 [Extended Data](ext_articles/2546c7ae.ext.json)
-
----
-
-### Providing security for candidates is based on a threat assessment
-
-*2024-08-15 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්ට-ආරක්ෂාව-දීම-තර්ජන-තක්සේරුවක්-අනුවයි/11-411400) · `si`
-
-Security for election candidates is enhanced through a comprehensive threat assessment process. Intelligence reports guide a committee in allocating increased protection, supervised by officials including former presidents. All police are briefed on electoral laws, ensuring incidents are legally addressed, possibly involving the Attorney General's Department for prosecution.
-
-🟩
-
-Police Media Spokesperson DS Ruwan Gunasekera said that every candidate who has presented to the presidential election will be provided and provides greater protection.
-
-The Tharuzing is carried out by intelligence and assessed the report and will be provided to a committee and will increase the protection by the committee.
-
-He said that a committee has been appointed to supervise the safety and former presidential election and the appointment of former presidents has been appointed by the Secretary to the Ministry of Defense.
-
-He said that a candidate is primarily protection and that the meeting will be given to the meetings of the meetings.
-
-All police officers have been informed of the legal provisions of the Presidential Election and that the photographs of the incident will then be taken up and considering the incident and take necessary legal action.
-
-...
-
-[Data](articles/65a0d1c1.json)
-
-[Extended Data](ext_articles/65a0d1c1.ext.json)
-
----
-
-### Issuing new electronic foreign passports in late October
-
-*2024-08-15 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-ඉලෙක්ට්‍රොනික-විදෙස්-ගමන්-බලපත්‍ර-නිකුත්-කිරීම-ඔක්තෝබර්-අගදී/11-411399) · `si`
-
-In late October, new electronic passports will be issued, addressing concerns raised by the Sectoral Oversight Committee on an Open and Responsible Government. This move comes after the committee urged swift action to avoid embarrassment to citizens. The introduction of e-passports marks a significant shift, with the Controller General of Immigration and Emigration highlighting its benefits and the need for transparency. The new "Immigration Bill," aimed at modernizing immigration laws and combating human smuggling, has faced challenges but remains a priority. The bill, initially drafted in 2017, seeks to align immigration practices with current societal and technological norms, ensuring efficiency and security in passport issuance and management.
-
-🟩
-
-Take immediate action to provide foreign passports for the people, as the people are not embarrassed - the Sectoral Oversight Committee on an Open and Responsible Government informs the Controller General of Immigration and Emigration
-
-For the first time for the human self-sauggling, the new bill is the first law ...
-
-Jagath Kumara Sumidrachchi recently informed the immigration general revealed to the immigration and an Employed Controller of Parliament.
-
-This was notified when the Department of Immigration and Emigration had been called for the Sectoral Oversight Committee on an open and responsible government to consider the New "Immigration 'Bill.
-
-The Controller General of the Immigration General Harsha Iluopitiya said that the remaining 77% had not been used for 23% of them.
-
-The E-Passport (e-passport) is due to be introduced to the next October, he added that the new electronic license is demanded to demand a passport to passports and obtaining passports from obtaining passports.
-
-...
-
-[Data](articles/88123a6b.json)
-
-[Extended Data](ext_articles/88123a6b.ext.json)
 
 ---

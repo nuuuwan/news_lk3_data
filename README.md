@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 18:16:26**
+As of **2024-08-16 18:28:09**
 
 ## Newspaper Stats
 
-*Scraped **41,097** Articles*
+*Scraped **41,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 3,782
 dailymirrorlk | 4,733
 adaderanalk | 4,800
 tamilmirrorlk | 5,261
-virakesarilk | 6,514
-adaderanasinhalalk | 6,994
+virakesarilk | 6,519
+adaderanasinhalalk | 6,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,095 (100.0%) of 41,097 articles have been extended.
+41,097 (100.0%) of 41,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### විශ්මි ගුණරත්නගෙන් වාර්තාවක්
+
+*2024-08-16 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200010) · `si`
+
+සිය එක්දින ක්‍රිකට් දිවියේ මංගල ශතකය වාර්තා කිරීමට 18 හැවිරිදි විශ්මි ගුණරත්න අද (16) සමත් වුණි.
+
+මේ සමග ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩිකාවක වන චමරි අතපත්තු හැරෙන්නට එක්දින තරගයක දී ශතකයක් රැස්කළ පළමු ක්‍රීඩිකාව බවට පත් වීමට ද විශ්මි ගුණරත්න සමත් වුණි.
+
+අයර්ලන්ත කණ්ඩායමට එරෙහිව ලකුණු 101ක් රැස් කරමින් ඇය මෙම වාර්තාව තබා තිබේ.
+
+විශ්මි අද වාර්තා අතරට එක්ව ඇත්තේ එක්දින ශතකයක් වාර්තා කළ ළාබාලතම ශ්‍රී ලාංකිකයා ලෙසය.
+
+සංචාරක ශ්‍රී ලංකා කාන්තා පිල සහ අයර්ලන්ත කාන්තා පිල අතර තරග 3කින් සමන්විත එක්දින තරගාවලියේ පළමු තරගය අද බෙල්ෆාස්ට් හිදී ආරම්භ වුණි.
+
+◼️
+
+[Data](articles/54609f4e.json)
+
+---
+
+### டிமான்டி காலனி 2 - விமர்சனம்
+
+*2024-08-16 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191253) · `ta`
+
+தயாரிப்பு : பிடிஜி யுனிவர்சல் & ஞானமுத்து பட்டறை & வைட் நைட்ஸ் என்டர்டெய்ன்மென்ட்
+
+நடிகர்கள் : அருள்நிதி, பிரியா பவானி சங்கர், அருண்பாண்டியன், முத்துக்குமார், மீனாட்சி கோவிந்தராஜன் , அர்ச்சனா ரவிச்சந்திரன், சர்ஜனோ காலித் மற்றும் பலர்.
+
+இயக்குநர் அஜய் ஞானமுத்து இயக்கத்தில் அருள்நிதி நடிப்பில் 2015 ஆம் ஆண்டில் வெளியான 'டிமான்டி காலனி' படத்தின் இரண்டாம் பாகம் வெளியாகி இருக்கிறது. பெரும் எதிர்பார்ப்பை ஏற்படுத்திய இந்த ஹாரர் திரில்லர் திரைப்படம்- அந்த பிரிவு ரசிகர்களின் எதிர்பார்ப்பை நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+...
+
+[Data](articles/5b5521bb.json)
+
+---
+
+### தங்கலான் - விமர்சனம்
+
+*2024-08-16 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191252) · `ta`
+
+நடிகர்கள் : சீயான் விக்ரம், பார்வதி, மாளவிகா மோகனன், ஹரி கிருஷ்ணன், பசுபதி,  டேனியல் கால்டாகிரோன் மற்றும் பலர்
+
+தமிழகத்தின் வட பகுதி கிராமம் ஒன்றில் தனக்கு சொந்தமான சிறிய காணியில் விவசாயம் செய்கிறார் தங்கலான். (விக்ரம்) இவருக்கு கங்கம்மா ( பார்வதி) என்ற மனைவியும் அசோகன் என்ற மகன் மற்றும் இரண்டு மகளுடனும் வாழ்கிறார். அந்தக் காலகட்டத்தில் ஜமீன்தார் எனப்படும் நில பிரபுக்களின் ஆதிக்க வர்க்கத்தின் சதி காரணமாக அவருக்கு சொந்தமான சிறிய நிலத்தையும் பறி கொடுக்கிறார்.
+
+அத்துடன் பண்ணை அடிமையாகவும் வாழ வேண்டிய சூழல் உருவாகிறது.  இந்தத் தருணத்தில் அவருடைய பிள்ளைகளுக்கு பேய் கதை ஒன்றை தங்கலான் சொல்கிறார். சில நூற்றாண்டுகளுக்கு முன் தற்போதைய கோலார் எனும் பகுதியில் அவருடைய மூதாதையர்கள் ( காடையன்)  தங்கம் எடுத்துக் கொண்டிருந்ததையும் அப்பகுதியை ஆண்ட மன்னன் ஒருவனின் ஆணைக்கு இணங்க அந்த மலை பகுதியில் காவல் தெய்வமாக திகழும் ஆரத்தி ( மாளவிகா மோகனன்)  என்ற பெண்மணி இதற்கு தடை ஏற்படுத்தியதையும், காடையன், அவரை வீழ்த்தியதை கதையாக விவரிக்கிறார்.
+
+...
+
+[Data](articles/4e6f4f26.json)
+
+---
 
 ### Maithri is independent
 
@@ -47,6 +99,40 @@ Former President Maithripala Sirisena says he has not decided to support any can
 [Data](articles/ac948abc.json)
 
 [Extended Data](ext_articles/ac948abc.ext.json)
+
+---
+
+### அஜித்குமார் நடிக்கும் 'விடாமுயற்சி' படத்தின் அடுத்த அப்டேட்
+
+*2024-08-16 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/191250) · `ta`
+
+அஜித் குமார் நடிப்பில் தயாராகி வரும் 'விடா முயற்சி' படத்தில் நடிக்கும் நடிகர்களின் கதாப்பாத்திரத் தோற்றத்தை புகைப்படங்களாக படக்குழுவினர் வெளியிட்டு வருகின்றனர். அந்த வகையில் தற்போது நடிகர் நிகில் நாயரின் கதாப்பாத்திர தோற்றத்தை படக்குழுவினர் வெளியிட்டிருக்கிறார்கள்.
+
+இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், ஆரவ், திரிஷா, ரெஜினா கசான்றா, நிகில் நாயர் உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+
+ஓம் பிரகாஷ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் சுபாஷ்கரன் தயாரிக்கிறார்.
+
+இப்படத்தின் படப்பிடிப்பு விரைவில் நிறைவடையும் நிலையில் இருப்பதால் படக் குழுவினர் படத்தைப் பற்றிய புதிய தகவல்களை புகைப்படத்துடன் வெளியிட்டு.வருகிறார்கள். அந்த வகையில் இந்த திரைப்படத்தில் நடித்திருக்கும் நடிகர் நிகில் நாயர் ஏற்று நடித்திருக்கும் கதாபாத்திரத்தின் தோற்ற புகைப்படத்தை படக் குழுவினர் வெளியிட்டுள்ளனர்.‌
+
+...
+
+[Data](articles/d3d5c9af.json)
+
+---
+
+### புதுக்குடியிருப்பில் விடுதலைப்புலிகளின் புதையலை தேடிய அகழ்வு பணி
+
+*2024-08-16 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191248) · `ta`
+
+யுத்த காலத்தில் விடுதலை புலிகள் ஆயுதங்கள் மற்றும் தங்கம் மறைத்து வைத்திருந்ததாக சந்தேகிக்கப்படும் முல்லைத்தீவு புதுக்குடியிருப்பு மந்துவில் பகுதியிலுள்ள தனியார் காணியில் இன்று வெள்ளிக்கிழமை (16)  முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் மேற்பார்வையில் அகழ்வுப் பணிகள் இடம்பெற்றிருந்தது.
+
+புதுக்குடியிருப்பு பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதியின் உத்தரவின் பேரில் பொலிஸ் விசேட அதிரடிப்படையின் வெடிகுண்டு செயலிழப்பு பிரிவு, பொலிஸார், இராணுவத்தினர், கிராம சேவையாளர் மற்றும் புதுக்குடியிருப்பு பொலிஸார் இணைந்து அகழ்வு பணிகளை மேற்கொண்டிருந்தனர்.
+
+பைக்கோ இயந்திரத்தின் உதவியுடன் நிலத்தில் பல மணிநேரம் அகழ்வு மேற்கொள்ளப்பட்ட போதும் ஆயுதங்களோ அல்லது வேறு எதனையும் கண்டுபிடிக்க முடியவில்லை. தோண்டப்பட்ட இடங்களில் எதுவும் கிடைக்காததால், மீண்டும் தோண்டப்பட்ட இடங்களை மூட நடவடிக்கை எடுக்குமாறு நீதிபதி தர்மலிங்கம் உத்தரவிட்டதனை தொடர்ந்து மூடப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/d7f263f4.json)
 
 ---
 
@@ -78,21 +164,51 @@ This is the first time a National UPFA candidate a Presidential UPFA in a presid
 
 ---
 
-### චීනයෙන් ඉඟුරු ගෙන්වනවාට විරෝධය
+### இளைஞனின் மரணத்திற்கு நீதி கோரி மல்லாவியில் பாரிய ஆர்ப்பாட்டம்!
+
+*2024-08-16 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191246) · `ta`
+
+இளைஞனின் மரணத்திற்கு நீதி கோரி மல்லாவி பகுதியில் பொதுமக்கள் ,பொது அமைப்புக்கள் மற்றும் வர்த்தக சங்கம் என்பன இணைந்து பாரிய அளவிலான கவனயீர்ப்பு போராட்டம் ஒன்றினை இன்று வெள்ளிக்கிழமை (16) காலை மேற்கொண்டிருந்தன.
+
+கனடா செல்ல தயாரான மல்லாவி யோகபுரம் பகுதியினைச் சேர்ந்த ஆனந்தராசன் சஜீவன் என்ற இளைஞன் கடந்த 29.07.2024 அன்று காணாமல் போன நிலையில் மல்லாவி வவுனிக்குளம் பகுதியிலிருந்து மறுநாள் சடலமாக மீட்கப்பட்டார்.
+
+19 நாட்களாகியும் குறித்த இளைஞனின் மரணத்திற்கு காரணமானவர்கள் எவரும் இதுவரை கைது செய்யப்படவில்லை என்பதுடன் , பொலிஸாரின் விசாரணைகள் மந்தகதியில் நடப்பதாக கூறியும், துரித கதியில் விசாரணைகளை முன்னெடுத்து குற்றவாளிகளை நீதியின் முன் நிறுத்த வேண்டும் என்றும் கூறியே பொதுமக்கள் மற்றும் பொது அமைப்புக்களினால் இன்றையதினம் குறித்த போராட்டம் முன்னேடுக்கப்பட்டிருந்தது.
+
+மல்லாவி மத்திய பஸ் நிலையத்தில் ஆரம்பமாகிய பேரணி மல்லாவி போலிஸ் நிலையம் வரை சென்றிருந்தது.
+
+இதேவேளை, குறித்த போராட்த்திற்கு ஆதரவாக இன்றைய தினம் மல்லாவி பகுதிகளில் வர்த்தக நிலையங்கள் யாவும் மூடப்பட்டிருந்தமையும் அவதானிக்க கூடியதாக இருந்தது.
+
+...
+
+[Data](articles/95bc7eee.json)
+
+---
+
+### Protest against China
 
 *2024-08-16 17:11:00* · [`adalk`](https://www.ada.lk/breaking_news/චීනයෙන්-ඉඟුරු-ගෙන්වනවාට-විරෝධය/11-411409) · `si`
 
-දේශීය  ඉඟුරු අස්වැන්න නෙලන අවස්ථාවේදී චීනයෙන් ඉඟුරුගෙන්වීමට රජය ලබාදුන් අවසරයට විරෝධය පාමින් ඉඟුරු අතු වලින් සැරසුණු ගොවීහු පිරිසක් 16 දින දඹුල්ල ආර්ථික මධ්‍යස්ථානය ඉදිරිපිට විරෝධතාවයක නිරත වූහ.
+Ginger farmers protested at the Dambulla Economic Center against high prices and alleged unfair trade practices, including hiding imported goods in containers meant for local produce. They demanded action from the Ministry of Agriculture and Trade, threatening further protests if their demands weren't met.
 
-පසුගිය කාලයේ ඉඟුරු ආනයනය සම්පූර්ණයෙන්ම නවතා දමා තිබුණු වකවානුවක දේශීය ඉඟුරු ගොවීන් විශාල පිරිවැයක් දරමින් ඉඟුරු වගාකළ බවත් ඉඟුරු අස්වැන්න  නෙලීම  ආරම්භ වෙද්දී චීනයෙන් ඉඟුරු ගෙන්වීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බව අනුමැතිය වහාම හකුලා ගන්නා ලෙස මෙම ඉඟුරු ගොවීහු   රජයට බල කරමින් මෙසේ උද්ඝෝෂණයක නිරත වූහ.
+🟩
 
-මේ දිනවලින් ඉඟුරු කිලෝවක තොග මිල රුපියල් හත්සියේ සිට 1800 දක්වා මිලක් පවතින බවත් පසුගිය මාසයේ ඉඟුරු කිලෝවක් රුපියල් දෙදහසක්  දෙදහස් පන්සීයත් අතර ඉහළ අගයකට අලෙවි වූ බව ගොවීන් කියති.
+At the 16th, a group of funds for the incentive branches were protesting against the Dambulla Economic Center.
 
-ඉඟුරු ලංකාවට ගෙන්වීම සඳහා තහනම් කර තිබුණු අවස්ථාවක අර්තාපල් අල ලොකු ලූනු සහ විවිධ භාණ්ඩ  වර්ග ආනයනය කරන කන්ටේනර් රථවල ඉතා සූක්ෂම ලෙස සඟවා මෙවන විටත් විදේශීය රටවල ඉඟුරු කිලෝ ලක්ෂ ගණනාවක් වෙළඳපලට ගෙන්වා තිබෙන බව ගොවීන් පවසති.
+The ginger farmers were protested to take a large amount of ginger in a period of imports of ginger imports and imported ginger in a time when the ginger began to import ginger when it comes to gloomy.
+
+Farmers say that the bulk of the bulk in a kilogram of ginger has a price to Rs.
+
+Farmers say that the imported containers of potatoes and various items are hidden in containers and thousands of ginger in the container in the containers, which imported the imported containers of many parts of the local onions and largeities in the container.
+
+They say that the allegations made by farmers and the police had to interve charge of the farmers and the police have intervened in the Dambulla Economic Center in the Dambulla Economic Center last week.
+
+The raw ginger peasants who join the protest say that this process is subject to the protester to sell the hinges of the hinger.
 
 ...
 
 [Data](articles/63248a96.json)
+
+[Extended Data](ext_articles/63248a96.ext.json)
 
 ---
 
@@ -314,15 +430,23 @@ Nadeskumar Vinodhini (age 25) from Thanganagar village in the Seruvila Divisiona
 
 ---
 
-### දිලිත්ගේ මැතිවරණ ව්‍යාපාරයේදි උදයට ලැබුණ තනතුර
+### Designary Design During Dilith's Elections
 
 *2024-08-16 15:40:16* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ගේ-මැතිවරණ-ව්‍යාපාරයේදි-උදයට-ලැබුණ-තනතුර/11-411407) · `si`
 
-සර්වජන අපේකෂක ව්‍යවසායක නීතිඥ දිලිත් ජයවීර මහතාගේ මැතිවරණ මෙහෙයුම් ප්‍රධානි ලෙස පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා පත්කර තිබේ. අද කොළඹදී පැවැති මාධ්‍ය හමුවකදී උදය ගම්මන්පිල මහතා ප්‍රකාශ ‌කළේ දිලිත් ජයවිර මහතගේ මැතිවරන  මාධ්‍ය ප්‍රධානි ලෙස පාර්ලිමේන්තු මන්ත්‍රි ගාමිණි වලේබොඩ මහතාග මාධ්‍ය ප්‍රකාශක ලෙස තරුණ මාධ්‍යවේදියෙකු වන දනිඳු විතානවසම් මහතාවත් පත් කර ඇති බවයි.
+Udaya Gammanpila, a member of Parliamentarian Gammanpila, has been appointed as the Chief Operations Officer for Dilith Jayaweera's Election Attorney team. In a press conference, he highlighted Dilith Jayaweera's unique approach to politics, emphasizing entrepreneurship, psychological and spiritual development, and accountability. This marks a significant shift in political strategies, focusing on innovation and direct engagement with voters.
+
+🟩
+
+Member of Parliamentarian Gammanpila has been appointed as the Chief Operations Chief of Dilith Jayaweera's Election Attorney at Law Dilith Jayaweera Entrepreneurship Attorney at Law Dilith Jayaweera's Electoral Attorney at Law Dilith Jayaweera.. At a press conference held in Colombo today, Udaya Gammanpila, Udaya Gammanpila, a media spokesman, has been appointed as a media spokesman as a media spokesman as a media spokesman.
+
+Speaking further Mr. Udaya Gammanpila said: "For the first time in the history of the National Political Political Cleaning of the Jayaratne of the Dilith Jayaweera is the first time in the history of Jaffna. We're going to JaffnaSince we were sown among the Sinhalese and the Sinhalese and the Sinhalese Tamils, we sowed the country's attempt to sow the main city in another country.Because necessary to defeat politics.
 
 ...
 
 [Data](articles/f50d6a63.json)
+
+[Extended Data](ext_articles/f50d6a63.ext.json)
 
 ---
 
@@ -2129,117 +2253,5 @@ Established in 2014, WISTA Sri Lanka was initiated with the goal of providing a 
 [Data](articles/1e7ca9c9.json)
 
 [Extended Data](ext_articles/1e7ca9c9.ext.json)
-
----
-
-### hSenidBiz’s PeoplesHR Cloud drives 1Q FY25 success, exit ARR hits $ 3 m
-
-*2024-08-16 06:42:08* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-s-PeoplesHR-Cloud-drives-1Q-FY25-success-exit-ARR-hits-3-m/34-765618) · `en`
-
-hSenid Business Solutions (hBS) has announced its financial results for the quarter ending 30 June 2024, reporting a significant Year-over-Year growth of 30.5% with total revenue reaching Rs. 466 million.
-
-The PeoplesHR Cloud Business continued to be the primary driver of growth, showcasing a Year-over-Year growth of 27.9%. Recurring subscription revenues accounted for 84.9% of the PeoplesHR Cloud Business, recording a Year-over-Year growth of 44.2%.
-
-The company surpassed an exit Annualised Recurring Revenue (ARR) of $ 3.5 million during the quarter, with total recurring revenues accounting for 57.7% of the total revenue. New deal closures for the quarter amounted to $ 357,482, reflecting a 44% Year-over-Year growth, with 87.5% of these new deals being PeoplesHR Cloud deals, and 46.5% sourced through the company’s channel partner network.
-
-...
-
-[Data](articles/8a13a5df.json)
-
-[Extended Data](ext_articles/8a13a5df.ext.json)
-
----
-
-### Fentons Smart Facilities enhances service excellence by joining IWFM
-
-*2024-08-16 06:40:41* · [`dailyftlk`](https://www.ft.lk/business/Fentons-Smart-Facilities-enhances-service-excellence-by-joining-IWFM/34-765617) · `en`
-
-From left: AGM – Group Compliance Nisal Liyanage, Compliance Executive Ishani Jayakodi, Managing Director Hasith Prematillake, Director/CEO Sujith De Alwis, AGM Fentons – Smart Facilities Tharaka Heenkenda
-
-Fentons Smart Facilities (FSF), the sole facility management service provider in Sri Lanka to receive ISO 41001:2018 Facility Management System certification, announces its corporate membership in the Institute of Workplace and Facilities Management (IWFM).
-
-Hayleys Fentons Managing Director Hasith Prematillake says: “This new affiliation with IWFM, an internationally renowned professional body, signifies an exciting phase of growth and opportunity and emphasises our commitment to keeping up with industry standards and best practices. We look forward to leveraging IWFM’s resources to further enhance our service offering and deliver unparalleled value to our clients.”
-
-...
-
-[Data](articles/90d8aea1.json)
-
-[Extended Data](ext_articles/90d8aea1.ext.json)
-
----
-
-### 16th Annual General Meeting of Indo Lanka Chamber of Commerce and Industry
-
-*2024-08-16 06:25:58* · [`dailyftlk`](https://www.ft.lk/business/16th-Annual-General-Meeting-of-Indo-Lanka-Chamber-of-Commerce-and-Industry/34-765616) · `en`
-
-The 16th Annual General meeting of the Indo Lanka Chamber of Commerce and Industry (ILCCI) was held on 8 August at Taj Samudra, Colombo.
-
-Speaking at the occasion, the Chief Guest High Commissioner of India Santosh Jha, stated that “India stands as Sri Lanka’s largest source of tourism, its principal trade partner, and the foremost contributor to Foreign Direct Investment.” He further highlighted the importance of not just capitalising on short-term opportunities, but also focusing on medium and long-term investments that will drive mutual growth for both countries.
-
-...
-
-[Data](articles/a963f28d.json)
-
-[Extended Data](ext_articles/a963f28d.ext.json)
-
----
-
-### WindForce soars to new heights with stellar quarterly performance
-
-*2024-08-16 06:24:49* · [`dailyftlk`](https://www.ft.lk/business/WindForce-soars-to-new-heights-with-stellar-quarterly-performance/34-765615) · `en`
-
-WindForce PLC, has announced an outstanding financial performance for the first quarter of the 2024/25 fiscal year.
-
-The company reported a robust 87% surge in EBITDA reaching Rs. 1.95 billion, a significant leap from Rs. 1 billion in the same period last year. This remarkable growth highlights the company’s strategic advancements and market strength.
-
-The group’s consolidated revenue for the quarter ending 30 June soared to Rs. 1.56 billion, marking a 28% increase from Rs. 1.22 billion in the previous year. Net profits also demonstrated substantial growth, climbing 27% to Rs. 652 million, up from Rs. 514 billion recorded in the first quarter of last year.
-
-This exceptional financial performance was largely driven by the successful commissioning of the Hiruras 15 MW wind power plant in June/July 2023, which significantly enhanced WindForce’s production capacity and revenue streams.
-
-...
-
-[Data](articles/dc462802.json)
-
-[Extended Data](ext_articles/dc462802.ext.json)
-
----
-
-### IFPRI invites submissions for ‘Delivering for Nutrition in South Asia: Connecting the Dots Across Systems’ conference
-
-*2024-08-16 06:23:55* · [`dailyftlk`](https://www.ft.lk/business/IFPRI-invites-submissions-for-Delivering-for-Nutrition-in-South-Asia-Connecting-the-Dots-Across-Systems-conference/34-765614) · `en`
-
-The International Food Policy Research Institute (IFPRI) has announced a call for research studies and implementation experiences from across South Asia ahead of its upcoming conference, ‘Delivering for Nutrition in South Asia: Connecting the Dots Across Systems.’
-
-The event will be held in a hybrid mode in Colombo, Sri Lanka and online from 3-5 December.
-
-Co-hosted by IFPRI, CGIAR and a consortium of global and regional partners, the conference aims to bring together researchers, policymakers, program implementers, and stakeholders from various sectors to discuss innovative strategies for improving nutrition outcomes in South Asia.
-
-The conference will focus on the complex connection between nutrition and its determinants, serving as a critical platform for exchanging knowledge and fostering collaboration.
-
-...
-
-[Data](articles/88d18509.json)
-
-[Extended Data](ext_articles/88d18509.ext.json)
-
----
-
-### Celebration of 78th Independence Day of India
-
-*2024-08-16 06:23:20* · [`dailyftlk`](https://www.ft.lk/news/Celebration-of-78th-Independence-Day-of-India/56-765613) · `en`
-
-The 78th Independence Day of India was celebrated with great fervour in different parts of Sri Lanka yesterday.
-
-The main event in Colombo was held at “India House”, the official residence of High Commissioner of India. High Commissioner of India to Sri Lanka Santosh Jha hoisted India’s National Flag and inspected the Guard of Honour. He also read excerpts of the address by President of India to the nation on the eve of the 78th Independence Day.
-
-Several cultural events added vibrancy to the celebrations. The Sri Lanka Navy Band delivered melodious tunes, embodying valour and patriotism, while the visiting ICCR troupe from India, led by Ranjith Gogoi, captivated the audience with a soulful Bihu dance performance.
-
-High Commissioner and officers of High Commission of India also paid homage at the Indian Peace Keeping Force (IPKF) Memorial to the memory of the Indian soldiers of IPKF who made the supreme sacrifice defending peace and unity of Sri Lanka.
-
-...
-
-[Data](articles/98caa5c5.json)
-
-[Extended Data](ext_articles/98caa5c5.ext.json)
 
 ---

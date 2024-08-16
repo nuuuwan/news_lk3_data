@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 00:21:14**
+As of **2024-08-17 00:36:22**
 
 ## Newspaper Stats
 
-*Scraped **41,143** Articles*
+*Scraped **41,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 382
 colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,499
-dailyftlk | 2,665
+dailyftlk | 2,672
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
@@ -26,11 +26,117 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,142 (100.0%) of 41,143 articles have been extended.
+41,143 (100.0%) of 41,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### Sri Lanka taps prospects for more exports to Pakistan
+
+*2024-08-17 00:15:15* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-taps-prospects-for-more-exports-to-Pakistan/34-765669) · `en`
+
+The Consulate General of Sri Lanka in Karachi in collaboration with the Department of Commerce of Sri Lanka facilitated Sri Lanka’s participation at the 19th My Karachi – Oasis of Harmony Exhibition held from 2 to 4 August at the Karachi Expo Centre.
+
+Sri Lankan exporters, including Maliban Biscuits, Tea Talk, Orange Electrics, and SriLankan Airlines joined the Consulate General to showcase their products and services at the event. The participation of Sri Lanka aimed to boost Sri Lankan exports to Pakistan and encourage more Pakistani tourists to visit the country.
+
+The Sri Lanka pavilion received an enthusiastic response from Pakistani businesses and extensive media coverage. Government officials, key chamber heads, and the Sri Lankan Consul General Jagath Abeywarna were among the distinguished visitors to the Sri Lanka stall.
+
+◼️
+
+[Data](articles/c442099c.json)
+
+---
+
+### Pelwatte Dairy launches landmark initiative with international support
+
+*2024-08-17 00:14:00* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-launches-landmark-initiative-with-international-support/34-765668) · `en`
+
+Pelwatte Dairy Industries Ltd., has launched an innovative project titled “Inclusion of women in the formal dairy supply chain for economic empowerment of women farmers.”
+
+This initiative, which commenced in October 2022, aims to empower women farmers, enhance the local dairy industry’s capabilities, and promote sustainable agricultural practices. The project is supported by Solidaridad Asia Network and funded by the Canadian Government, demonstrating a robust international partnership committed to socio-economic development.
+
+...
+
+[Data](articles/488a14d3.json)
+
+---
+
+### SL, Saudi Arabia discuss boosting bilateral trade
+
+*2024-08-17 00:13:14* · [`dailyftlk`](https://www.ft.lk/business/SL-Saudi-Arabia-discuss-boosting-bilateral-trade/34-765667) · `en`
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad met with Saudi Arabia’s General Authority of Foreign Trade (GAFT) Governor Mohammad Alabduljabar at GAFT Headquarters in Riyadh on 7 August.
+
+While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, GAFT Governor Mohammad Alabduljabar stressed the importance of enhancing bilateral cooperation between the two countries in potential sectors for win-win benefits. He extended GAFT’s support towards this end.
+
+...
+
+[Data](articles/1e940437.json)
+
+---
+
+### Lankan envoy in Malaysia meets with Small and Medium Enterprises Association
+
+*2024-08-17 00:12:33* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Malaysia-meets-with-Small-and-Medium-Enterprises-Association/34-765666) · `en`
+
+Sri Lankan High Commissioner to Malaysia Air Chief Marshal (Rtd.) Sumangala Dias held a fruitful meeting with the Small and Medium Enterprises Association of Malaysia (SAMENTA) at the High Commission recently.
+
+This meeting marked a significant step towards strengthening collaboration and networking between Sri Lankan business entities and Malaysian entrepreneurs.
+
+SAMENTA, a pivotal organisation established in 1986, represents and advocates for the interests of small and medium-sized enterprises (SMEs) in Malaysia. SMEs form the backbone of the Malaysian economy, accounting for 98.5% of all Malaysian enterprises. Their vital role in economic growth and development underscores the importance of fostering international partnerships.
+
+...
+
+[Data](articles/d53548a1.json)
+
+---
+
+### Heracle Holdings moves into new office premises
+
+*2024-08-17 00:11:42* · [`dailyftlk`](https://www.ft.lk/business/Heracle-Holdings-moves-into-new-office-premises/34-765665) · `en`
+
+Heracle Holdings, a fully-owned subsidiary of rapidly expanding conglomerate Lyceum Global Holdings Ltd., recently embarked on a path of growth, progress, and new beginnings from a brand new headquarters of operations in Nugegoda.
+
+The new office premises were ceremoniously declared open by Lyceum Global Holdings Ltd. Group Chairman and Chief Executive Officer Nikitha Grero. Heracle Holdings Chief Executive Officer Sameera Hewage, Heracle Holdings Director Dr. Seevali Jayawickrama, Heracle Holdings Senior Manager Tracy Morritt, Heracle Holdings Sales and Marketing Head Marlon Fernando, and other senior management personnel and staff were also present.
+
+...
+
+[Data](articles/dff2db4b.json)
+
+---
+
+### Sanasa Life Insurance signs MoU in collaboration with Colombo-Re and Carekleen
+
+*2024-08-17 00:10:20* · [`dailyftlk`](https://www.ft.lk/business/Sanasa-Life-Insurance-signs-MoU-in-collaboration-with-Colombo-Re-and-Carekleen/34-765664) · `en`
+
+Officers from Sanasa Life Insurance, Colombo-Re Insurance Brokers, and Carekleen at the MoU signing ceremony
+
+Stemming from its ethics of supporting the underprivileged, Sanasa Life Insurance has revolutionised the insurance landscape by providing various innovative and affordable insurance solutions. It is with this background that Sanasa Life Insurance partnered with Colombo-Re Ltd., and Carekleen Ltd., to bring yet another insurance policy to provide an affordable insurance scheme for the employees of Carekleen.
+
+...
+
+[Data](articles/f88ad198.json)
+
+---
+
+### Hobson’s choice?
+
+*2024-08-17 00:08:46* · [`dailyftlk`](https://www.ft.lk/columns/Hobson-s-choice/4-765663) · `en`
+
+Sri Lanka’s remarkable recovery should be credited to the able leadership of President Wickremesinghe and his political and bureaucratic team
+
+I see President Wickremesinghe’s policies as the only option for Sri Lanka in the immediate future. I sincerely hope that whoever is elected on the 22nd will not try to reinvent the wheel as President Gotabaya Rajapaksa did and destroyed our country. I strongly believe in the old adage “A known devil is better than an unknown angel”
+
+There has been a sigh of relief that President Ranil Wickremesinghe has called for the Presidential elections and the Elections Commission has declared 21 September as the day of reckoning for Sri Lanka.
+
+Many suspected that the President was trying to postpone elections and very few believed that President Ranil Wickremesinghe will call for the election as scheduled. He pulled out his magic wand and 85% of the lotuses chose his lake to thrive. There could be many more surprises prior to 21 September.
+
+...
+
+[Data](articles/a6611fab.json)
+
+---
 
 ### Presidential Election 2024: What is the political economy awaiting Sri Lanka?
 
@@ -41,6 +147,8 @@ The Presidential Election 2024 is crucial by all standards in view of the curren
 ...
 
 [Data](articles/ed39ccf1.json)
+
+[Extended Data](ext_articles/ed39ccf1.ext.json)
 
 ---
 
@@ -2125,175 +2233,5 @@ Mahinda Amaraweera said that the president rejected the request and told him not
 [Data](articles/f084c1c6.json)
 
 [Extended Data](ext_articles/f084c1c6.ext.json)
-
----
-
-### Mpox virus detected in Pakistan, health authorities say
-
-*2024-08-16 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101279/mpox-virus-detected-in-pakistan-health-authorities-say) · `en`
-
-Pakistan has detected three patients with the mpox virus, the health department in northern Khyber Pakhtunkhwa province said on Friday.
-
-The viral infection was detected in the patients on their arrival from the United Arab Emirates, the department said. The World Health Organization has declared recent outbreak of the disease as a public health emergency of international concern after a new variant of the virus has been identified.
-
-Pakistan has had cases of mpox, also called monkeypox, previously. It was not immediately clear which variant was detected in the patients.
-
-Two of the patients had been confirmed to have mpox, said Salim Khan, the director general of health services for Khyber Pakhtunkhwa.
-
-A third patient’s samples had been sent to the National Health Institute in the capital, Islamabad, for confirmation, he said, adding all three patients were being quarantined.
-
-A spokesperson for Pakistan’s national health ministry said Pakistan has detected one suspected case of mpox.
-
-...
-
-[Data](articles/bddee92a.json)
-
-[Extended Data](ext_articles/bddee92a.ext.json)
-
----
-
-### Pakistan meets 'Mascox'
-
-*2024-08-16 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199995) · `si`
-
-Health officials confirm cases of 'Mascox' in Pakistan, linked to UAE patients. Three individuals quarantined; cause unknown.
-
-🟩
-
-Foreign media reports that the health sector has confirmed this.
-
-According to the reports, the three patients have been identified from the United Arabic Emirates.
-
-The three patients have been directed to quarantine and has not yet been established.
-
-◼️
-
-[Data](articles/8ae7e6e1.json)
-
-[Extended Data](ext_articles/8ae7e6e1.ext.json)
-
----
-
-### Employees' salary to be increased - Central Bank of Sri Lanka
-
-*2024-08-16 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191199) · `ta`
-
-The Central Bank of Sri Lanka announced plans to increase salaries for both state and private sector employees to match the cost of living, citing favorable economic growth and low inflation projections. It emphasized the importance of wage adjustments to avoid negative impacts on its monetary policy program and warned against frequent changes in economic policies due to political shifts.
-
-🟩
-
-The Central Bank of Sri Lanka said that the salary increase of state and private sector workers amidst the economic recovery, the Central Bank of Sri Lanka said, "The salaries of the employee for the current cost of living should be increased.
-
-This was stated at a media briefing at the Central Bank's auditorium in the Central Bank of Sri Lanka.
-
-The Central Bank of Sri Lanka said that economic growth was favorable in the first quarter of 2024 and that primary inflation would be low from 2025 to quarter.
-
-The Central Bank of Sri Lanka (Central Bank) states that the Currency Policy Report includes a special reference to the inflation destination under the Flexible Inflation Goals.
-
-While political uncertainty has adverse impacts on economic recovery, the Central Bank of Sri Lanka says that the high level of skilled discharge can lead to labor shortages and low production capacity.
-
-...
-
-[Data](articles/1c714d23.json)
-
-[Extended Data](ext_articles/1c714d23.ext.json)
-
----
-
-### Hayleys ‘AAA(lka)’ rating confirmed by Fitch, water purification, gold to help
-
-*2024-08-16 11:20:00* · [`economynextcom`](https://economynext.com/hayleys-aaalka-rating-confirmed-by-fitch-water-purification-gold-to-help-177036/) · `en`
-
-ECONOMYNEXT – Fitch has confirmed an ‘AAA(lka)’ rating of Sri Lanka’s Hayleys group, saying revenues will rise driven by defensive segments like such as gloves, agriculture and activated carbon, used for purification, accounting for 28 percent of revenues.
-
-“Up to 70 percent of purification segment revenue is from water purification and gold mining, with demand for both increasing due to the scarcity of drinking water and for gold as a safe haven,” Fitch said.
-
-Direct and indirect exports accounted for 54 percent of revenue, with only 30 percent coming from Europe and the US, indicating low exposure to slower-growth developed markets.
-
-Hayleys’ manufacturing locations are also diversified beyond Sri Lanka with 55 percent of its purification segment capacity is in Sri Lanka, with the rest in Thailand and Indonesia.
-
-The hand protection segment, which produces rubber gloves, also operates in Thailand, the world’s largest source of natural rubber.
-
-...
-
-[Data](articles/1be422ca.json)
-
-[Extended Data](ext_articles/1be422ca.ext.json)
-
----
-
-### Chamari Tunders agree to Tunders
-
-*2024-08-16 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199994) · `si`
-
-Chamari Atapattu, Sri Lanka's cricket leader, joins the Sydney Thunders in the Women's Bash League (WBBL). Despite being part of the team, she notably scored 552 runs with five half-centuries in 14 matches, making her the second-highest run-scorer. Additionally, she took nine wickets and was awarded the hero of the tournament. However, the Sydney Thunders finished fourth with eight teams competing. The WBBL starts on October 27.
-
-🟩
-
-Sri Lanka Leader Chamari Atapattu, who has become a striking at least player in the current women's cricket, has contracted the Thandrelean Women's Bash League (WBBL) with Sydney Thunders.
-
-Although she was with Sydney Thunders, she was with Sydney Thunders with Sydney Thunders, even though she was played with Sydney Thunders.
-
-However, Chamari managed to be performed in the stage at the stage, she was able to score 552 runs with five half centuries in 14 Irram.
-
-It was the second highest scorer of the batsman in the phase, and 42.46 were at the innings.
-
-In addition, she was playing 9 wickets and the Sydney Thunders.
-
-Chamari won the award for the herowara in the tournament due to the exceptional talent.
-
-However, with eight teams participating in the event, the Sydney team had to stop at the 4th place in the same bonus mark.
-
-The operable Big Bash Women's League is due to start on October 27 this year.
-
-◼️
-
-[Data](articles/80f17cff.json)
-
-[Extended Data](ext_articles/80f17cff.ext.json)
-
----
-
-### Daughter of former Thai Prime Minister Thaksin will be nominated as new leader in parliamentary vote
-
-*2024-08-16 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/101278/daughter-of-former-thai-prime-minister-thaksin-will-be-nominated-as-new-leader-in-parliamentary-vote) · `en`
-
-Paetongtarn Shinawatra, the daughter of former Thai Prime Minister Thaksin Shinawatra, will be nominated as the country’s new prime minister in a parliamentary vote, her party and its coalition partners said Thursday.
-
-The move follows the removal of former Prime Minister Srettha Thavisin by court order over an ethical violation a day earlier.
-
-Leaders of the 11 party-coalition led by Paetongtarn’s populist Pheu Thai party declared their support for her at a news conference on Thursday after the party’s secretary-general Sorawong Thienthong announced her candidacy.
-
-Paetongtarn thanked her party and the coalition partners for their support, adding she is ready to move the country forward.
-
-“I have confidence in Pheu Thai. I have confidence in all government coalition parties to bring our country out of the economic crisis,” she said. Pheu Thai had campaigned heavily on improving Thailand’s sluggish economy.
-
-...
-
-[Data](articles/8954f6b2.json)
-
-[Extended Data](ext_articles/8954f6b2.ext.json)
-
----
-
-### Supermoon on the 19th
-
-*2024-08-16 10:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19ஆம்-திகதி-supermoon/175-342274) · `ta`
-
-The first Supermoon of 2023, appearing closer and brighter than usual, will grace our skies on January 19th. This phenomenon occurs when the Moon orbits closest to Earth, enhancing its luminosity.
-
-🟩
-
-The first full moon this year (Supermoon) is expected to be seen in the sky on Monday (19).
-
-The light of the moon will be increased as it will appear more close than usual.
-
-It is reported that the full moon appears when two different celestial events occur. Remble
-
-◼️
-
-[Data](articles/86c19d66.json)
-
-[Extended Data](ext_articles/86c19d66.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 17:06:39**
+As of **2024-08-16 17:21:38**
 
 ## Newspaper Stats
 
-*Scraped **41,086** Articles*
+*Scraped **41,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,799
 tamilmirrorlk | 5,261
 virakesarilk | 6,510
-adaderanasinhalalk | 6,990
+adaderanasinhalalk | 6,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,085 (100.0%) of 41,086 articles have been extended.
+41,086 (100.0%) of 41,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### මෙරට විශ්‍රාමික හමුදා නිලධාරින් පිරිසක් යුක්‍රේන ආරක්ෂක අංශ භාරයට
+
+*2024-08-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200006) · `si`
+
+රුසියානු යුද්ධයට ගිය ශ්‍රී ලාංකික විශ්‍රාමික හමුදා සාමාජිකයින් 05 දෙනෙකු යුක්‍රේන ආරක්ෂක අංශ භාරයට ගෙන තිබේ.
+
+විදේශ කටයුතු අමාත්‍යංශය පැවසුවේ යුක්‍රේන රජය විසින් තුර්කියේ පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලයට මේ සම්බන්ධයෙන් නිල දැනුම්දීමක් සිදුකර ඇති බවය.
+
+රුසියානු දේශසීමා හරහා යුක්‍රේනයට ඇතුළු වීමේදී මොවුන් මෙලෙස යුක්‍රේන ආරක්ෂක අංශ භාරයට ගෙන ඇති බව පැවසෙයි.
+
+මේ සම්බන්ධයෙන් විදේශ කටයුතු අමාත්‍යංශය විසින් අදාළ ශ්‍රී ලාංකිකයින්ගේ ඥාතීන් දැනුවත් කිරීමට ද පියවර ගෙන ඇත.
+
+යුක්‍රේන ආරක්ෂක අංශ භාරයට ගත් ශ්‍රී ලාංකිකයින් 5 දෙනා මුදා ගැනීම සදහා අවශ්‍ය මැදිහත්වීම සිදුකරන බවද විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+
+◼️
+
+[Data](articles/63f7a620.json)
+
+---
 
 ### 2024 Presidential Election: Symbols of independent candidates
 
@@ -43,6 +63,8 @@ Accordingly, the Election Commission has issued electoral symbols to 17 independ
 ◼️
 
 [Data](articles/e68995c3.json)
+
+[Extended Data](ext_articles/e68995c3.ext.json)
 
 ---
 
@@ -2219,35 +2241,5 @@ We will release our election manifesto soon. We will also carry out election cam
 [Data](articles/7b5106c1.json)
 
 [Extended Data](ext_articles/7b5106c1.ext.json)
-
----
-
-### “Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake
-
-*2024-08-16 02:53:29* · [`dailyftlk`](https://www.ft.lk/opinion/Sajith-has-vision-and-capability-to-lead-SL-towards-a-better-future-Gen-Daya-Ratnayake/14-765610) · `en`
-
-Says experienced and capable leaders are expressing their interest to join SJB
-
-Confirms implementing comprehensive framework, strategic plan and implementation policies to eradicate corruption
-
-Ensures to bring all past wrongdoers to justice under SJB Govt.
-
-Says a talented professional team of SJB to formulate policies and guidelines to address existing burning issues
-
-Commends SJB leader Premadasa for taking initiatives as opposition leader to implement people-centric programs
-
-Says SJB’s ex-servicemen movement represents disciplined, experienced, mature, and deeply patriotic segment of population
-
-Claims many of the most respected ex-servicemen, with proven track records and recognised service, are with the SJB’s Ranawiru movement
-
-Says SJB intends to fully utilise ex-servicemen in nation building through establishing an Ex-Servicemen’s Secretariat
-
-Claims military officers appointed to top posts under previous Gotabaya Rajapaksa Govt. performed well
-
-...
-
-[Data](articles/6557293f.json)
-
-[Extended Data](ext_articles/6557293f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 09:09:01**
+As of **2024-08-16 09:21:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,011 (100.0%) of 41,013 articles have been extended.
+41,013 (100.0%) of 41,013 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Executive Director of PAFFREL, Rohana Hettiarachchi, stated that this decisi
 
 [Data](articles/decdb0c2.json)
 
+[Extended Data](ext_articles/decdb0c2.ext.json)
+
 ---
 
 ### Second school term ends today
@@ -59,6 +61,8 @@ Meanwhile, the schools are scheduled to reopen for the first phase of the third 
 ◼️
 
 [Data](articles/5c28ef9c.json)
+
+[Extended Data](ext_articles/5c28ef9c.ext.json)
 
 ---
 
@@ -201,6 +205,10 @@ Police said the shooting was carried out with a 56 -rifle.. (A)
 A 26-year-old person has been shot dead at Pillayar Junction in Gemunupura, Sripura early this morning (16).
 
 Police said the shooting was carried out by an unidentified gunman who had arrived on a motorcycle and using a T56 assault rifle.
+
+The 26-year-old victim, who was killed on the spot following the shooting, is a resident of Kawanthissapura, Sripura.
+
+The motive behind the shooting has not yet been uncovered while Sri Pura Police is conducting further investigations into the incident.
 
 ◼️
 
@@ -1492,9 +1500,11 @@ Today he handed over the names of the names for the presidential election. Namal
 
 ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) has reported a profit of 34.5 billion rupees for the three months ended on June 30, a 67 percent jump compared to 20.7 billion rupees in the same quarter in 2023 despite a fall in the revenue, interim accounts showed.
 
+The profits came from lower financial expenses and falling costs even as a tariff reduction, reduced revenues.
+
 The state-run utility provider reported profits of 119.2 billion rupees for the first six months of this year, compared to a loss of 13.7 billion rupees last year.
 
-The CEB’s finance cost in the June quarter fell more than 60 percent to 7.6 billion rupees compared to 19.3 billion last year.
+The CEB’s finance cost in the June quarter fell more than 60 percent to 7.6 billion rupees compared to 19.3 billion last year, helping the profits.
 
 CEB revenues fell 16.5 percent to 146.6 billion rupees in the June quarter, cost of sales fell 20 percent to 109.6 billion rupees and  the gross profit also fell 4.3 percent to 37 billion rupees for the quarter.
 

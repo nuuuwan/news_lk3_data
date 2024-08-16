@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 03:06:14**
+As of **2024-08-17 03:21:21**
 
 ## Newspaper Stats
 
-*Scraped **41,155** Articles*
+*Scraped **41,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
 tamilmirrorlk | 5,269
-virakesarilk | 6,530
+virakesarilk | 6,533
 adaderanasinhalalk | 7,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,155 (100.0%) of 41,155 articles have been extended.
+41,155 (100.0%) of 41,158 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -275,6 +275,62 @@ The Presidential Election 2024 is crucial by all standards in view of the curren
 ---
 
 ### 2024-08-16 (Friday)
+
+### யாழில் வயிற்றுக் குற்று காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் உயிரிழப்பு!
+
+*2024-08-16 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191267) · `ta`
+
+வயிற்றுக் குற்று காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஆணொருவர் சிகிச்சை பலனின்றி 15ஆம் திகதி வியாழக்கிழமை உயிரிழந்துள்ளார். புன்னாலை கட்டுவன் தெற்கு பகுதியைச் சேர்ந்த 35 வயதுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் கடந்த 14ஆம் திகதி வயிற்றுக் குற்று காரணமாக சிகிச்சைக்காக யாழ்ப்பாணம் போதனை வைத்தியசாலையில் அனுமதிக்கப்பட்டார். இந்நிலையில் வியாழக்கிழமை (15) இரவு உயிரிழந்துள்ளார்.
+
+சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/b69e232e.json)
+
+---
+
+### ஊழல் மோசடியை ஒழிக்கின்ற ஆட்சிக்காக அனைவரும் அணிதிரள்வோம் - சஜித் பிரேமதாஸ
+
+*2024-08-16 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191266) · `ta`
+
+இந்நாட்டின் வரலாறு புதிதாக எழுதப்படுகின்ற இந்த சந்தர்ப்பத்தில் இந்த வேலைத்திட்டத்தின் சாட்சியாளர்களாக அல்லாமல் பங்காளர்களாக மாறி நாட்டின் வெற்றிப் பயணத்தில் பங்குதாரர்களாக இணைந்துகொள்வதோடு நாட்டை வலுவூட்டும் இந்தப் பயணத்தின் தலைவர்களாக மாறி செயற்படுமாறு எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+நடைமுறை ரீதியாகவும் முற்போக்கு ரீதியாகவும் இந்தக் காலத்தில் மக்களுக்காக கருத்துக்களை முன்வைத்து போராட்டங்களை நடத்தியுள்ளதோடு, ஊழல் மோசடியை இல்லாது ஒழிக்கின்ற நோக்கில் பாரிய வேலைத்திட்டங்களை முன்னெடுத்துள்ளோம்.
+
+ஏனைய கட்சித் தலைவர்களை போன்று மேடைகளில் ஏறி நாடகங்களை அரங்கேற்றாது வெற்றுப் பைல்களை காண்பித்து மாக்களை ஏமாற்றுகின்ற நாடகங்களில் நடிக்காது, செயற்பட்டுள்ளோம். நாட்டை வங்கரோத்து நிலைக்கு கொண்டு சென்ற ராஜபக்ஸக்களை சட்டத்தின் முன் நிறுத்தி ராஜபக்ஸக்கள் நிதி மோசடியில் ஈடுபட்டமைக்கு எதிராக நடவடிக்கை எடுத்துள்ளோம் என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/1624bfa4.json)
+
+---
+
+### விஷ்மியின் சதத்தை வீணடித்தது ப்ரெண்டகாஸ்டின் சதம்; இலங்கையை வீழ்த்தியது அயர்லாந்து
+
+*2024-08-16 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191265) · `ta`
+
+பெல்ஃபாஸ்ட், ஸ்டோமன்ட் சிவில் சேவைகள் கிரிக்கெட் கழக விளையாட்டரங்கில் நடைபெற்ற இலங்கைக்கு எதிரான முதலாவது மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 3 விக்கெட்களால் அயர்லாந்து வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் அயர்லாந்து 1 - 0 என்ற ஆட்டக் கணக்கில் முன்னிலை அடைந்தது.
+
+ஓலா ப்ரெண்டகாஸ்ட் குவித்த ஆட்டம் இழக்காத கன்னிச் சதம் அயர்லாந்தின் வெற்றியில் பிரதான பங்காற்றியது. இதன் காரணமாக விஷ்மி குணரட்னவின் கன்னிச் சதம் வீண் போனது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 50 ஓவர்களில் 8 விக்கெட்களை இழந்து 260 ஓட்டங்களைப் பெற்றது.
+
+அணித் தலைவி சமரி அத்தபத்து தான் எதிர்கொண்ட முதல் பந்திலேயே ஆட்டம் இழந்து வெளியேறினார்.
+
+இந் நிலையில் விஷ்மி குணரட்னவும் ஹசினி பெரேராவும் 3ஆவது விக்கெட்டில் 122 ஓட்டங்களைப் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தனர்.
+
+துடுப்பாட்டத்தை நிதானத்துடன் ஆரம்பித்து பின்னர் வேகத்தை அதிகரித்த விஷ்மி குணரட்ன, 97 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 101 ஓட்டங்களைப் பெற்றார்.
+
+...
+
+[Data](articles/57cc3cce.json)
+
+---
 
 ### Woman traveling on a motorbike with her brother in Jaffna falls down
 
@@ -2159,79 +2215,5 @@ Furthermore, it mentioned that the Central Bank of Sri Lanka conducts monetary p
 [Data](articles/7b564843.json)
 
 [Extended Data](ext_articles/7b564843.ext.json)
-
----
-
-### The impact of the monarchy in Sweden outside Africa
-
-*2024-08-16 13:00:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்பிரிக்காவுக்கு-வெளியே-சுவீடனில்-குரங்கம்மை-பாதிப்பு/50-342280) · `ta`
-
-The impact of the Monkeypox virus, primarily affecting children and the elderly in Africa, has led to over 500 deaths across 13 countries, with the highest incidence in the Congo. This outbreak, which has seen a 160% increase in cases and a 19% rise in deaths compared to the previous year, has prompted international concern and the declaration of a global health emergency by the WHO. The virus, which spreads easily among close contacts, has also been identified in Sweden in a traveler returning from Africa, highlighting the potential for global spread despite limited vaccine availability in Africa.
-
-🟩
-
-The impact of monkey is a type of infection caused by a type of virus. In the current year, the impact of children and the elderly in Africa has been detected in 13 countries. In a recent announcement issued by Africa's Disease Control and Prevention Center. More than 500 people have died.
-
-So, it is asked for international assistance to stop this. Of these 13 countries, 96 percent of the Congo have been affected by death and death. Compared to the same period last year, the impacts of the Congo rose by 160 percent and deaths by 19 percent.
-
-For this impact, 524 people have been killed in African countries in the current year. It also reported that more than 14 thousand people were affected.
-
-The new form of virus, which is spreading in African countries, has spread from Congo to neighboring countries including Brundi, Kenya, Rwanda and Uganda.. However, there are low vaccines in Africa.
-
-...
-
-[Data](articles/d08e5957.json)
-
-[Extended Data](ext_articles/d08e5957.ext.json)
-
----
-
-### Suspect arrested for ganja drug
-
-*2024-08-16 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191197) · `ta`
-
-A man was arrested in Jaffna for possessing 3kg of cannabis in his hostel room. The arrest occurred at a hotel in the Nunavu area, based on police intelligence. He is now held at the Chavakachcheri police station.
-
-🟩
-
-A man has been arrested for allegedly staying with 3 kg of cannabis in a hostel in Jaffna.
-
-Police said that a person was arrested on Thursday (15) at a hotel in the Nunavu area of ​​the Chavakachcheri police division, according to confidential information received by the police that a person was staying with three kilograms of cannabis package.
-
-The police said that the suspect was being detained at the Chavakachcheri police station.
-
-◼️
-
-[Data](articles/92e2a1ce.json)
-
-[Extended Data](ext_articles/92e2a1ce.ext.json)
-
----
-
-### Four persons, including sub-president who scored teacher
-
-*2024-08-16 11:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியை-அடித்த-உப-அதிபர்-உட்பட-நால்வர்-கைது/76-342278) · `ta`
-
-A teacher from Udapusallawa Tamil Vidyalaya, under the Welimada Education Workshop, was assaulted and arrested alongside the Vice Chancellor and two others for allegedly attacking him. The incident occurred on August 13, 2024, leading to the teacher's hospitalization. The victim, who faced discrimination at the school, filed a complaint against his assailants, prompting their arrest. The case highlights issues of workplace harassment and the need for justice.
-
-🟩
-
-A teacher from the Telmar estate at the Udapusallawa Tamil Vidyalaya, which is under the Welimada Education Workshop in Badulla, has been arrested by the Uva Paranagama police, including the Vice Chancellor who is on duty at the same school.
-
-The teacher, including the Chancellor of the Vidyalaya, who is working on the teacher, has lodged a complaint at the Uva Paranagama police station that he was assaulted.
-
-The attack took place on Tuesday (13.08.2024). The arrest was taken in accordance with a complaint lodged at the police station.
-
-At the same time, the teacher who was attacked was admitted to the Udappusallawa Divisional Hospital for treatment and returned home after treatment.
-
-The victim said that a complaint lodged at the police station was appropriately lodged with the attackers in the incident.
-
-The teacher who has been on duty at the school for the past five years has been sidelined by the school principal for about one and a half years.
-
-...
-
-[Data](articles/9c361cd7.json)
-
-[Extended Data](ext_articles/9c361cd7.ext.json)
 
 ---

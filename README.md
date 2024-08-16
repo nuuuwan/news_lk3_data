@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 05:06:21**
+As of **2024-08-17 05:21:12**
 
 ## Newspaper Stats
 
-*Scraped **41,160** Articles*
+*Scraped **41,162** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 348
+dbsjeyarajcom | 350
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,160 (100.0%) of 41,160 articles have been extended.
+41,160 (100.0%) of 41,162 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1098,6 +1098,22 @@ These beneficial coconut trees are now enjoying the impact of the destruction of
 
 ---
 
+### 34 Political Parties and Alliances Endose Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.
+
+*2024-08-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84553) · `en`
+
+President Ranil Wickremesinghe yesterday highlighted the significance of the newly signed ‘Puluwan Sri Lanka’ (Sri Lanka Can) agreement, stressing that it is not intended to form a new political party but rather to unite the nation and build a brighter future.
+
+The agreement, endorsed by 34 political parties and alliances, symbolises a collective commitment to overcoming the country’s challenges and rebuilding for the future.
+
+The ‘Puluwan Sri Lanka’ agreement, according to the President, represents a new force in Sri Lankan politics, aiming to unite all communities and ensure long-term progress for the nation. He said the country has emerged as a new force, uniting when the country’s political parties were in disarray, and it is essential to continue this program for another five years, during which a new leadership would have been born in this country, one that the country has not seen in recent times.
+
+...
+
+[Data](articles/57ec957f.json)
+
+---
+
 ### A report from Simiti Gunaratne
 
 *2024-08-16 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200010) · `si`
@@ -1143,6 +1159,18 @@ President Ranil Wickremesinghe, who is also the island nation’s Finance Minist
 [Data](articles/b8707a13.json)
 
 [Extended Data](ext_articles/b8707a13.ext.json)
+
+---
+
+### Hardnosed businessman with the softest heartbeat  Harry Jayawardena Celebrates  82nd Birthday on  on 17th August 2024
+
+*2024-08-16 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84548) · `en`
+
+Almost twenty years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many Sri Lankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala. These attacks came just after my friend Lasantha Wickramatunge implored me to leave the country and not too long before he himself was killed. It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
+
+...
+
+[Data](articles/28f2a77c.json)
 
 ---
 
@@ -2179,53 +2207,5 @@ The US dollar purchasing price was 294.3160 ​​rupees and the sales price wer
 [Data](articles/bf5b6813.json)
 
 [Extended Data](ext_articles/bf5b6813.ext.json)
-
----
-
-### UNP replies to Sajith
-
-*2024-08-16 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199997) · `si`
-
-Sajith Premadasa criticizes the government for failing to address economic issues like job losses and poverty, despite President's claims of normalcy. He visited religious leaders in Kandy after being nominated for the presidency.
-
-🟩
-
-Opposition Leader Sajith Premadasa says that there is a generalization that has fallen into the bottom of the country affected by the people.
-
-He was speaking at the media this morning after the visit to the Chief Prelate of the Chief Prelate of the Chief Prelate of the Asgiriya monks.
-
-Opposition Leader Sajith Premadasa arrived in Kandy today after they were nominated by the Presidential election.
-
-"President says everything is normal. The really story.. People have lost their jobs. Poverty up. The new average has taken the economy of the people. "
-
-Meanwhile, a Pirith Club, Kandy was held at the Kandyan, Kandy's workshop.
-
-◼️
-
-[Data](articles/1e9521d0.json)
-
-[Extended Data](ext_articles/1e9521d0.ext.json)
-
----
-
-### Srimath Narayana Swamy Temple Worship
-
-*2024-08-16 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/191213) · `ta`
-
-Starting this Friday, devotees have permission to visit the Shrimath Narayana Swamy Temple in the High Security Zone every week. The Jaffna District Government Agent approved this, allowing for weekly worship sessions. Today's visit included Prathan and Red Sewar Sarudirumurugan, marking a significant occasion.
-
-🟩
-
-The worship of the Shrimath Narayana Swamy Temple, located in the High Security Zone, has been granted permission from Friday (16).
-
-Every Friday of the week is allowed to visit the temple and perform the worship.
-
-Jaffna District Government Agent. It is noteworthy that the devotees visited the temple today with the participation of Prathan and Red Sewar Sarudirumurugan.
-
-◼️
-
-[Data](articles/0675446b.json)
-
-[Extended Data](ext_articles/0675446b.ext.json)
 
 ---

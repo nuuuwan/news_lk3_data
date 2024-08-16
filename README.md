@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 17:36:50**
+As of **2024-08-16 17:57:41**
 
 ## Newspaper Stats
 
-*Scraped **41,093** Articles*
+*Scraped **41,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,81 @@ dailymirrorlk | 4,733
 adaderanalk | 4,800
 tamilmirrorlk | 5,261
 virakesarilk | 6,514
-adaderanasinhalalk | 6,992
+adaderanasinhalalk | 6,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,087 (100.0%) of 41,093 articles have been extended.
+41,095 (100.0%) of 41,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### දික්වැල්ල වරදකරු වෙයි
+### Maithri is independent
+
+*2024-08-16 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200009) · `si`
+
+Former President Maithripala Sirisena hasn't chosen a candidate for Sri Lanka's upcoming presidential election, maintaining his independence.
+
+🟩
+
+Former President Maithripala Sirisena says he has not decided to support any candidate who is contesting the approach presidential election.
+
+◼️
+
+[Data](articles/ac948abc.json)
+
+[Extended Data](ext_articles/ac948abc.ext.json)
+
+---
+
+### Dilith's victory debut rally in Jaffna
+
+*2024-08-16 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200008) · `si`
+
+Presidential candidate Dilith Jayaweera made his debut in Jaffna, visiting religious sites and engaging in friendly conversations. His rally marks the first time a National UPFA candidate campaigns in Jaffna, signaling a significant event in local political history.
+
+🟩
+
+The presidential power presidential candidate Dilith Jayaweera has arrived at the Haunapitiya Gangarama Viharaya this morning.
+
+The first day, Dilith Jayaweera and visited the Assembly Thera owners of the Kirinda Thera.
+
+Subsequently, Dilith Jayaweera was a friendly conversation with the Aragas.
+
+The Entrepreneral Dilith Jayaweera also saw how the Entrepreneral Dilith Jayaweera is involved in a friendly conversation.
+
+Meanwhile, Mangala rally in the Surgerage Rally the presidency is to be launched in Jaffna tomorrow (17).
+
+This is the first time a National UPFA candidate a Presidential UPFA in a presidential election is the first time in the history of Jaffna.
+
+◼️
+
+[Data](articles/57b8e819.json)
+
+[Extended Data](ext_articles/57b8e819.ext.json)
+
+---
+
+### Dikwella is offended
 
 *2024-08-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200007) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ල තහනම් උත්තේජක නීති උල්ලංඝනය කිරීමේ චෝදනාවට වරදකරු වී තිබේ.
+Niroshan Dikwella, a Sri Lanka cricketer, was convicted for violating banned stimulant laws during the 2024 Lanka Premier League (LPL) tournament after a probe into his use of such substances.
 
-2024 ලංකා ප්‍රිමියර් ලීග් (LPL) තරගාවලිය අතරතුර සිදුකළ තහනම් උත්තේජක පරීක්ෂණයකදී ඒ බව හෙළිවී ඇත.
+🟩
+
+Sri Lanka Cricketer Niroshan Dikwella has been convicted of violating banned stimuli laws.
+
+It is revealed at a banned stimulant investigation during the 2024 Lanka Premier League (LPL) tournament.
 
 ◼️
 
 [Data](articles/f862de16.json)
+
+[Extended Data](ext_articles/f862de16.ext.json)
 
 ---
 
@@ -86,6 +138,8 @@ Meanwhile, sources said that Dickwella has been suspended from all forms of cric
 
 [Data](articles/dde22b55.json)
 
+[Extended Data](ext_articles/dde22b55.ext.json)
+
 ---
 
 ### 2024 Presidential Election: Symbols of independent candidates
@@ -104,15 +158,21 @@ Accordingly, the Election Commission has issued electoral symbols to 17 independ
 
 ---
 
-### ரணிலுடன் இணைந்தார் அலி சாஹிர் மௌலானா
+### Ali Sahir Maulana joined Ranil
 
 *2024-08-16 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191238) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பாராளுமன்ற உறுப்பினர் அலி சாஹிர் மௌலானா ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணைந்து எதிர்வரும் ஜனாதிபதி தேர்தலுக்கு ஆதரவை வழங்கியுள்ளார்.
+Sri Lanka Muslim Congress MP Ali Zahir Maulana backs President Ranil Wickremesinghe for the upcoming presidential election.
+
+🟩
+
+Sri Lanka Muslim Congress MP Ali Zahir Maulana has supported President Ranil Wickremesinghe with support for the upcoming presidential election.
 
 ◼️
 
 [Data](articles/385674d4.json)
+
+[Extended Data](ext_articles/385674d4.ext.json)
 
 ---
 
@@ -134,15 +194,21 @@ UNP sources said that Opposition MP Ali Zahir Maulana met President Ranil Wickre
 
 ---
 
-### நாமலை களமிறக்கியதால் ராஜபக்ச குடும்பத்துக்குள் ஏற்பட்டுள்ள முறுகல்…!
+### Rajapaksa's family
 
 *2024-08-16 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191235) · `ta`
 
-பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக வர்த்தகரும் எம்.பியுமான தம்மிக்க பெரேராவே  பெயரிடப்படுவார் என்றே ஆரம்பத்திலிருந்து நம்பப்பட்டு வந்தது. கட்சியின் பொதுச்செயலாளர் சாகர காரியவசம் பல சந்தர்ப்பங்களில் அதை வெளிப்படுத்தியிருந்தார். அதற்கு மகிந்த தரப்பிலிருந்து எவரும் மறுப்பையும் தெரிவிக்கவில்லை.   பொதுஜன பெரமுன தமது கட்சியிலிருந்தே ஒருவரை தெரிவு செய்யும் என்றும் அவர் யார் என்பதை 7 ஆம் திகதி அறிவிப்போம் என்றும் கட்சித் தரப்பில் கூறப்பட்டது. அப்போது வரை வேட்பாளர் தம்மிக்க தான் என்பதும் உறுதியாகியிருந்தது.  எனினும் 6 ஆம் திகதி தனிப்பட்ட காரணங்களுக்காக தான் இதிலிருந்து விலகிக்கொள்வதாக தம்மிக்க  பொதுஜன பெரமுனவின் செயலாளருக்கு கடிதம் அனுப்பி விட்டார். வேறு வழியின்றி மகிந்த தனது அரசியல் வாரிசான நாமல் ராஜபக்சவை களமிறக்கி விட்டார். எனினும் நாமலை மகிந்த களமிறக்கியமைக்கு கோட்டாபயவைத் தவிர பஸில், சமல் மற்றும் சமலின் மகன் சசீந்திர ஆகியோர் தமது அதிருப்தியை வெளிப்படுத்தியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+Dhammika Perera was expected to be the PA's presidential candidate, but he withdrew due to personal reasons. Instead, Mahinda Rajapaksa nominated his son, Namal Rajapaksa. However, there's discontent within the party about this choice.
+
+🟩
+
+From the outset, it was believed that businessman and MP Dhammika Perera would be named as the Presidential candidate of the PA. The party's general secretary Sakara Kariyawasam had revealed it on many occasions. No one refuses from Mahinda's side.The party said that the PA would choose one from his party and that he would announce who he was on the 7th.. Until then, it was certain that the candidate was Tamika.However, on the 6th, he sent a letter to the secretary of the PA, saying that he would quit this for personal reasons. Mahinda Rajapaksa has fielded his political successor Namal Rajapaksa. However, it is reported that Basil, Samal and Samal's son Sasheendra have expressed their dissatisfaction with Namal's Mahinda Passenger.
 
 ◼️
 
 [Data](articles/a90c963c.json)
+
+[Extended Data](ext_articles/a90c963c.ext.json)
 
 ---
 
@@ -169,6 +235,8 @@ The Batticaloa District of Sri Lanka Muslim Congress Party Ali Seri Saheer Moula
 *2024-08-16 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101287/slmcs-ali-zahir-moulana-pledges-support-to-president-ranil) · `en`
 
 Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana has met with President Ranil Wickremesinghe and assured his support at the upcoming Presidential Election.
+
+The Deputy Leader of the SLMC has met with President Wickremesinghe at his political office on Flower Road, Colombo this afternoon (16).
 
 ◼️
 
@@ -204,19 +272,27 @@ Accordingly, the people have been allowed to go to the temple every Friday from 
 
 ---
 
-### சேருவில தங்கநகர் யுவதி கொலை ; வழக்கு விசாரணையில் இருவருக்கு பிணை
+### Murder of Thanganagar YouthBail for two people in the trial
 
 *2024-08-16 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191227) · `ta`
 
-படுகொலை செய்யப்பட்ட தங்கநகர் யுவதியின் கொலைமீதான வழக்கு விசாரணை  மூதூர் நீதிமன்ற நீதிபதி திருமதி தஸ்னீம் முகமட் பௌசான் முன்னிலையில் விசாரணைக்காக இன்று வெள்ளிக்கிழமை  (16) எடுத்துக் கொள்ளப்பட்டது.
+In a court hearing, two suspects in the murder of Nadeskumar Vinodhini from Thanganagar were released on bail, while five others remain in custody for further questioning. The case, now before the Muttur Court, involves seven individuals initially arrested as suspects.
 
-இதன்போது குறித்த கொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரின் சகோதரியான 7ஆம் எதிராளி மற்றும் 4ஆம் எதிராளிகளுக்கு பிணை வழங்கியும், ஏனைய 5 சந்தேகநபர்களுக்கு விளக்கமறியலை மேலும் 14 நாட்கள் நீடித்தும் உத்தரவிட்டுள்ளார்.
+🟩
 
-குறித்த வழக்கானது இன்றைய தினம்  மூன்றாவது தடவையாக மூதூர் நீதவான் நீதிமன்றில் வழக்கு விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது. இதன்போது எதிரிகள் சார்பில் முன்வைத்த பிணை விண்ணப்பத்தை ஆராய்ந்த நீதிபதி குறித்த தரப்பினரிடம் மேற்கொள்ளப்பட்ட விசாரணையின் அடிப்படையில்  கொலையுடன் தொடர்புடைய பிரதான சந்தேகநபரான காதலனின் சகோதரியான 7ஆம் எதிராளியையும், ஜே.சி.பி இயந்திரத்தின் தரகரான 4ஆம் எதிராளியையும் பிணையில் விடுவிக்க உத்தரவிட்டதோடு ஏனைய 5 பேரையும் விசாரணைக்கு உட்படுத்தும் முகமாக விளக்கமறியலை எதிர்வரும் 30ஆம் திகதிவரை நீடித்தும் கட்டளை பிறப்பித்திருந்தார்.
+The murder of the murdered Thanganagar woman was taken up today (16) in the presence of Muttur Court Judge Mrs. Dasneem Mohammed Fausan.
+
+He has been granted bail to the 7th opponent of the main suspect and the 4th opponents involved in the murder, and the other five suspects will be remanded for a further 14 days.
+
+The case was taken up for the third time today at the Muttur Magistrate's Court. Based on the investigation of the bail application on behalf of the enemy, he ordered the release of the 7th opponent of the main suspect in the murder and the 4th opponent of the JCP machine, the 4th opponent of the JCP machine.
+
+Nadeskumar Vinodhini (age 25) from Thanganagar village in the Seruvila Divisional Secretariat Division was murdered and was recovered on the 5th of July after being buried in a well in a quarter of the village.
 
 ...
 
 [Data](articles/021b0350.json)
+
+[Extended Data](ext_articles/021b0350.ext.json)
 
 ---
 
@@ -260,23 +336,29 @@ Therefore, Marikkar urged the public to be vigilant of such misinformation, emph
 
 ---
 
-### 4 இந்திய தேசிய திரைப்பட விருதுகளை குவித்த பொன்னியின் செல்வன்
+### Ponni Selvan, who accumulated 4 Indian National Film Awards
 
 *2024-08-16 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191229) · `ta`
 
-இந்திய தேசிய திரைப்பட விருதுகள் இன்று வெள்ளிக்கிழமை (16) அறிவிக்கப்பட்டன. சிறந்த தமிழ் திரைப்படமாக, மணிரத்னம் தயாரித்து இயக்கிய பொன்னியின் செல்வன் பாகம் 1 தெரிவு செய்யப்பட்டது. இந்த படத்துக்கு 4 விருதுகள் அறிவிக்கப்பட்டுள்ளன.
+"Ponni Selvan Part 1 won Best Tamil Film at the 2022 Indian National Film Awards, with AR Rahman receiving his 7th award for Best Background Music."
 
-கடந்த 2022ம் ஆண்டுக்கான இந்திய தேசிய திரைப்பட விருதுகள் இன்றைய தினம் டில்லியில் அறிவிக்கப்பட்டன.
+🟩
 
-*சிறந்த பின்னணி இசை - ஏ.ஆர்.ரகுமான் (பொன்னியின் செல்வன் 1) 7வது தேசிய விருதை பெறுகிறார்.
+The Indian National Film Awards were announced today (16). Ponni Selvan Part 1 was selected as the best Tamil film, Mani Ratnam. 4 awards have been announced for the film.
 
-* சிறந்த திரைப்பட புத்தகம் - கிஷோர் குமாரின் வாழ்க்கை வரலாறு புத்தகம்
+The Indian National Film Awards for 2022 were announced in Delhi today.
 
-* சிறந்த பாடகர் - பிரம்மாஸ்திரா படத்துக்காக கேசரியா பாடலை பாடிய அர்ஜித் சிங்குக்கு
+*Best Background Music - AR Rahman (Ponni Selvan 1) receives 7th National Award.
+
+* Best Movie Book - Biography of Kishore Kumar
+
+* Best Singer
 
 ◼️
 
 [Data](articles/0da7957a.json)
+
+[Extended Data](ext_articles/0da7957a.ext.json)
 
 ---
 
@@ -2171,39 +2253,5 @@ The Department of Meteorologies requests the public to take necessary steps to r
 [Data](articles/acb2a45c.json)
 
 [Extended Data](ext_articles/acb2a45c.ext.json)
-
----
-
-### Seylan Bank marks key milestone in enhancing students’ education
-
-*2024-08-16 06:20:05* · [`dailyftlk`](https://www.ft.lk/news/Seylan-Bank-marks-key-milestone-in-enhancing-students-education/56-765611) · `en`
-
-250th Seylan Pahasara library signifies persistent progress in 11-year journey
-
-Seylan Bank recently unveiled its 250th Seylan Pahasara library at St. Anthony’s Tamil Maha Vidyalam in Colombo 14, marking a significant milestone in a mission to enhance literacy and education across Sri Lanka.
-
-Since its inception over 11 years ago, the initiative has been a powerful catalyst for change, transforming the lives of countless Sri Lankan students, fostering community development and sustainable growth.
-
-Launched in 2013, the Seylan Pahasara library project was conceived to address the educational needs of schools who are most in need due to the lack of access to resources and assistance. The initiative was introduced in conjunction with the Bank’s 25th anniversary and supports schools with low resources across the country, reflecting a broader vision of contributing to the nation’s future through education.
-
-...
-
-[Data](articles/0487b022.json)
-
-[Extended Data](ext_articles/0487b022.ext.json)
-
----
-
-### Union Bank appoints Dilshan Rodrigo as Chief Executive Officer
-
-*2024-08-16 03:47:00* · [`islandlk`](http://island.lk/union-bank-appoints-dilshan-rodrigo-as-chief-executive-officer/) · `en`
-
-Union Bank announced the appointment of Dilshan Rodrigo as its new Director/Chief Executive Officer, effective 16 August 2024. With an impressive career spanning over two decades in the banking sector, Rodrigo’s appointment signifies a transformative moment for the bank. Under his leadership, Union Bank aims to navigate the evolving landscape of Sri Lanka’s banking industry and become a beacon of innovation and customer-centric strategies in an era of digitalization.
-
-...
-
-[Data](articles/26a33ee3.json)
-
-[Extended Data](ext_articles/26a33ee3.ext.json)
 
 ---

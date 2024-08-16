@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 18:39:03**
+As of **2024-08-16 18:55:44**
 
 ## Newspaper Stats
 
-*Scraped **41,105** Articles*
+*Scraped **41,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,782
+adalk | 3,783
 dailymirrorlk | 4,733
 adaderanalk | 4,802
 tamilmirrorlk | 5,261
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,103 (100.0%) of 41,105 articles have been extended.
+41,105 (100.0%) of 41,106 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ This has reportedly been revealed following a doping test conducted by the Sri L
 ◼️
 
 [Data](articles/13fb6d56.json)
+
+[Extended Data](ext_articles/13fb6d56.ext.json)
 
 ---
 
@@ -87,6 +89,8 @@ Earlier today (16), Ireland women won the toss and decided to bowl against Sri L
 ◼️
 
 [Data](articles/2c89f842.json)
+
+[Extended Data](ext_articles/2c89f842.ext.json)
 
 ---
 
@@ -301,6 +305,22 @@ It is revealed at a banned stimulant investigation during the 2024 Lanka Premier
 [Data](articles/f862de16.json)
 
 [Extended Data](ext_articles/f862de16.ext.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනයට බාධා
+
+*2024-08-16 17:02:43* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-411408) · `si`
+
+බදුල්ල සිට මහනුවර බලා ධාවනය වෙමින් තිබූ අංක 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය අද (16) දහවල් දෙමෝදර දුම්රිය ස්ථානය අසල දී පිලීපැනිමට ලක් වීමෙන් උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ කොටුව අතර දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි .
+
+බදුල්ල දුම්රිය ස්ථානයෙන් අද (16)පෙරවරු 11.30 ට පමණ මහනුවර බලා ගමන් ආරම්භ කළ අංක 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය දෙමෝදර දුම්රිය ස්ථානය ට ලගා වෙමින් තිබියදී මෙසේ පිළීපැනිමට ලක් වූ බවත්, දුම්රියේ භාණ්ඩ ප්‍රවාහන පෙට්ටියක් (වැගන් එකක්) පිලීපැනිමට ලක් විනැයි දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය .
+
+පිලිපැනීමට ලක්ව ඇති භාණ්ඩ ප්‍රවාහන  මිශ්‍ර දුම්රියේ පිලීගත  කිරිමට බදුල්ල දුම්රිය ස්ථානයේ සිට දුම්රිය ආපදා ඒකකයේ නිලධාරීන් පැමිණීම ට නියමිත බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් පැවසීය .
+
+◼️
+
+[Data](articles/5bc331be.json)
 
 ---
 
@@ -2249,37 +2269,5 @@ The first phase of the third term will be opened on Monday 26th Ministry of Educ
 [Data](articles/bc5b188f.json)
 
 [Extended Data](ext_articles/bc5b188f.ext.json)
-
----
-
-### England Lions leading 185 runs
-
-*2024-08-16 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199984) · `si`
-
-In the first day of the Sri Lanka tour, England Lions dominated with 324 runs in 89.2 overs, led by 18-year-old Hamza Sheikh with 91 runs. Sri Lanka replied with 139 runs, bowled out by Summan Akhtar with 5/32. Prabath Jayasuriya took 5/312 for Sri Lanka.
-
-🟩
-
-The first innings of the first day of the Sri Lanka Tourist Sri Lanka and the Lions of England were in their first innings player scored 324 runs in 89.2 overs.
-
-Hamza Sheikh, 18-year-old Hamza Sheikh scored 91 runs off 204 runs.
-
-In addition, the Youth batsman was 78 runs while he faced 96 balls.
-
-Among the Sri Lankan bowlers, Prabath Jayasuriya, who was frequent bowled out for 5 wickets and sent 312 overs.
-
-Sri Lanka scored only 139 runs in 43.5 overs.
-
-Dimuth Karunaratne scored 26 runs while it was the highest number of batsman.
-
-Summan Akhtar, who exhibited a prominent bowler for Lions, took 5 wickets for 32 wickets.
-
-The first match of the three-match Test series between the two countries is due to start at Manchester on 21st month.
-
-◼️
-
-[Data](articles/425442bf.json)
-
-[Extended Data](ext_articles/425442bf.ext.json)
 
 ---

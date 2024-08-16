@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 08:36:46**
+As of **2024-08-16 08:56:07**
 
 ## Newspaper Stats
 
-*Scraped **41,009** Articles*
+*Scraped **41,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,490
 dailyftlk | 2,664
 adalk | 3,774
 dailymirrorlk | 4,733
-adaderanalk | 4,784
+adaderanalk | 4,785
 tamilmirrorlk | 5,241
-virakesarilk | 6,494
+virakesarilk | 6,495
 adaderanasinhalalk | 6,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,009 (100.0%) of 41,009 articles have been extended.
+41,009 (100.0%) of 41,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### மைத்திரிபால சிறிசேன ஐ.ம.ச.வுக்கு சென்றால் நல்லது ; விஜயதாச ராஜபக்ஷ
+
+*2024-08-16 08:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191186) · `ta`
+
+எனக்கு ஆதரவளித்துவந்த மைத்திரிபால சிறிசேன ஐக்கிய மக்கள் சக்தியுடன் இணைந்துகொள்ளப்போவதாக கேள்விப்பட்டேன். அவர் அவ்வாறு சென்றால் மிகவும் நல்லது என நினைக்கிறேன் என தேசிய ஜனநாயக  முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+இராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் செயலகத்தில் வியாழக்கிழமை ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக வேட்புமனு தாக்கல் செய்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+வேட்புமனு தாக்கல் செய்யும்போது இதுவரை காலம் பின்பற்றப்பட்டுவந்த ஒழுக்கம் கடைப்பிடிக்கப்படுவதை காணக்கூடியதாக இருக்கவில்லை. ஒரு சில வேட்பாளர்கள் தங்களின் ஆதரவாளர்களுடன் தேர்தல் ஆணைக்குழுவுக்குள் மிகவும் ஒழுக்க ஈனமாக செயற்பட்டதுடன் கிராமங்களில் செயற்படுவது போல் குழுக்கள் குழுக்களாக செயற்பட்டு வந்ததை காணக்கூடியதாக இருந்தது.
+
+...
+
+[Data](articles/960482ba.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-08-16 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101273/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says prevailing showery condition over the South Western parts of the Island is expected to be temporarily enhanced today and tomorrow.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa provinces and in Galle and Matara districts while showers or thundershowers will occur at several places in Eastern and Uva provinces during the evening or night, it added.
+
+Thus, general  public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4c0aaff9.json)
+
+---
 
 ### Holidays for schools today
 
@@ -2181,45 +2215,5 @@ The newly-formed alliance plans to contest the upcoming elections under the symb
 [Data](articles/1d25b542.json)
 
 [Extended Data](ext_articles/1d25b542.ext.json)
-
----
-
-### Dilith Jayaweera signs nomination papers for Presidential election
-
-*2024-08-15 14:50:55* · [`dailyftlk`](https://www.ft.lk/news/Dilith-Jayaweera-signs-nomination-papers-for-Presidential-election/56-765578) · `en`
-
-The leader of Mawbima Janatha Party (MJP), entrepreneur Dilith Jayaweera yesterday signed his nomination papers to contest the upcoming Presidential election scheduled for 21 September.
-
-The signing of the nomination papers was carried out at Mawbima Janatha Party (MJP) head office in Borella.
-
-The party leaders of the ‘Sarvajana Balaya’ alliance, Vasudeva Nanayakkara, D.E.W. Gunasekera, Wimal Weerawansa, Udaya Gammanpila, Gevindu Kumarathunga were present at the occasion.
-
-He will contest the 2024 Presidential election from the ‘Sarvajana Balaya’ alliance under the symbol of the ‘Star’.
-
-On 4 August, executive member of ‘Sarvajana Balaya’ MP Wimal Weerawansa announced Jayaweera as the Presidential candidate of the alliance during its convention held at the Sugathadasa Indoor Stadium in Colombo.
-
-Meanwhile, the security deposit was placed at the Election Commission on Tuesday for Dilith Jayaweera to contest the upcoming Presidential election.
-
-...
-
-[Data](articles/acf31a09.json)
-
-[Extended Data](ext_articles/acf31a09.ext.json)
-
----
-
-### P.
-
-*2024-08-15 14:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ப-அரியநேத்திரனுக்கு-சங்கு-சின்னம்/175-342226) · `ta`
-
-It seems like there was no text provided after "Summarize the following into 200 characters:". Could you please provide the text you'd like summarized?
-
-🟩
-
-◼️
-
-[Data](articles/a75b1d6c.json)
-
-[Extended Data](ext_articles/a75b1d6c.ext.json)
 
 ---

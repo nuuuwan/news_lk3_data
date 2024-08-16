@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 10:21:19**
+As of **2024-08-16 10:36:19**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,023 (100.0%) of 41,025 articles have been extended.
+41,025 (100.0%) of 41,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ரணிலிடமிருந்து 60 கோடி ரூபாய் வாங்கினார் சாணக்கியன்
+### Chanakyan bought Rs 60 crore from Ranil
 
 *2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலிடமிருந்து-60-கோடி-ரூபாய்-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் இருந்து பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,  தனிப்பட்ட முறையில் 60 கோடி ரூபாயைப் பெற்றுக்கொண்டுள்ளதாக ரெலோ அமைப்பின் செயலாளரும் பாராளுமன்ற உறுப்பினருமான கோவிந்தன் கருணாகரம் குற்றஞ்சாட்டியுள்ளார்.
+Chanakyan, a TNA MP, denies allegations by Relo organization secretary Govindan Karunagaram that he received Rs 60 crore from President Ranil Wickremesinghe. He claims the money is for district development programs, not personal use.
 
-எவ்வாறாயினும் குறித்த குற்றச்சாட்டுக்குப் பதிலளித்துள்ள இலங்கை தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்,
+🟩
 
-மாவட்ட அபிவிருத்தி வேலைத்திட்டங்களுக்காக பாராளுமன்ற உறுப்பினர்களுக்கான பன்முகப்படுத்தப்பட்ட நிதியே தமக்கு வழங்கப்பட்டதாகக் குறிப்பிட்டார்.
+Relo organization secretary and parliamentarian Govindan Karunagaram alleges that Parliamentarian Ranil Wickremesinghe has personally received Rs 60 crore from President Ranil Wickremesinghe.
 
-தம்மால் முன்வைக்கப்பட்ட முன்மொழிவுகளைக் கருத்திற்கொண்டு, வழங்கப்பட்ட அந்த நிதியில் தற்போது மாவட்டத்தில் அபிவிருத்தி வேலைத்திட்டங்கள் இடம்பெற்று வருகின்றன.
+However, in response to the allegation, the Sri Lanka Tamil National Alliance (TNA) parliamentarian R. Sanakian said,
 
-இந்த நிலையில் அரசியல் நோக்கத்திற்காகக் கோவிந்தன் கருணாகரம் இவ்வாறான குற்றச்சாட்டை முன்வைத்துள்ளதாக பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார். R
+He noted that he was awarded a multi -pronged fund for MPs for the District Development Programs.
+
+In view of the proposals made by them, the funds provided by the district are currently undergoing development programs in the district.
+
+Govindan Karunagaram has made such an allegation for political purposes. Remble
 
 ◼️
 
 [Data](articles/e4c249f2.json)
+
+[Extended Data](ext_articles/e4c249f2.ext.json)
 
 ---
 
@@ -1482,21 +1488,29 @@ Minister of Manusha Nanayakkara, who was elected to parliament with the abolitio
 
 ---
 
-### ආයෙත් වැස්ස වැඩි වෙයි
+### It increases the rain again
 
 *2024-08-15 19:49:11* · [`adalk`](https://www.ada.lk/breaking_news/ආයෙත්-වැස්ස-වැඩි-වෙයි/11-411401) · `si`
 
-දිවයිනේ  නිරිත දිග  ප්‍රදේශවල  දැනට පවතින වැසි තත්ත්වයේ තාවකාලික වැඩි වීමක් ඉදිරි දින කිහිප යේදී  බලාපොරොත්තු  වන බව කාලගුණ විද්‍යා දෙපාර්ත මේන්තුව සඳහන් කරයි.
+Over the next few days, the Meteorology Department predicts a rise in rainfall across the southwest regions of the island, including heavy showers in the Western, Sabaragamuwa, Galle, and Matara districts. Additionally, eastern and Uva provinces may experience showers and thunderstorms in the evenings or nights. Coastal areas from Galle to Batticaloa, Hambantota, Pottuvil, and Mannar via Puttalam could see rough seas, potentially reaching 50-55 knots.
 
-අද(16දා) බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත්,  බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවද දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+🟩
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවත්, ගිගුරුම්  සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසත් ජනතාවගෙන් ඉල්ලා සිටියි.
+In the next few days, the Meteorology Department states that there is a temporary increase in the existing rain condition in the southwest areas of the island.
 
-ගාල්ල සිට මාතර, හම්බන්තොට සහ පොතුවිල් හරහා මඩකලපුව දක්වා සහ හලාවත සිට පුත්තලම හරහා මන්නාරම දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 50-55 දක්වා වැඩි විය හැකිය.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Galle and Matara districts today (16th).. Heavy rains can occur at more than 100.
 
-...
+In the evening or night in the Eastern and Uva provinces, there will be showers and thundershowers and to take steps to reduce the damages caused by thunderstorms.
+
+From Galle to Batticaloa, Hambantota and Pottuvil, the wedding in the sea areas off the coast to Mannar via Puttalam via Puttalam is time.. May be increased to 50-55.
+
+Sea areas beyond the coast extending from Galle to Matara and Pottuvil via Batticaloa and Chilaw to Mannar via Puttalam. The sea areas can be temporarily strong in the sea, then the sea areas can be temporarily.
+
+◼️
 
 [Data](articles/2546c7ae.json)
+
+[Extended Data](ext_articles/2546c7ae.ext.json)
 
 ---
 

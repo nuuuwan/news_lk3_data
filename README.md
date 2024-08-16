@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 16:36:33**
+As of **2024-08-16 16:53:58**
 
 ## Newspaper Stats
 
-*Scraped **41,084** Articles*
+*Scraped **41,085** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 348
 newsfirstlk | 363
-bbccomsinhala | 381
+bbccomsinhala | 382
 colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,083 (100.0%) of 41,084 articles have been extended.
+41,084 (100.0%) of 41,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ரணிலுடன் இணைந்தார்  அலி சாஹிர்
+### Ali Sahir joined Ranil
 
 *2024-08-16 16:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சாஹிர்/175-342289) · `ta`
 
-எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்   அலி சாஹிர் மௌலானா ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து ஜனாதிபதி தேர்தலில் தனது ஆதரவை உறுதியளித்ததாக ஐக்கிய தேசிய கட்சி வட்டாரங்கள் தெரிவித்தன.
+Opposition MP Ali Zahir Maulana supports President Ranil Wickremesinghe in the upcoming presidential election after meeting him.
+
+🟩
+
+UNP sources said that Opposition MP Ali Zahir Maulana met President Ranil Wickremesinghe and promised his support in the presidential election.
 
 ◼️
 
 [Data](articles/aabff9fe.json)
+
+[Extended Data](ext_articles/aabff9fe.ext.json)
 
 ---
 
@@ -1318,6 +1324,28 @@ If the problem is not taken, the villagers and their children will be at risk, s
 
 ---
 
+### ජනපති අපේක්ෂකයන් වැඩි වීම රටට බරක්ද ?
+
+*2024-08-16 09:39:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyjdq0j400o) · `si`
+
+මෑතකාලීන ජනාධිපතිවරණවලට ඉදිරිපත් වන අපේක්ෂකයන් සංඛ්‍යාව කැපීපෙනෙන ලෙස ඉහළ යාම සමාජ කතාබහකට ලක්ව තිබේ.
+
+අපේක්ෂකයන් ප්‍රමාණය වැඩිවීමත් සමඟ ජනාධිපතිවරණයේ අපේක්ෂිත වියදම් සහ අවශ්‍යතා සෑම අතකින් ම පාහේ ඉහළ යාමත්, ඒ සඳහා වැඩි සම්පත් ප්‍රමාණයක් අවශ්‍ය වීමත් එයට හේතුවයි.
+
+ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් විය හැකි ආකාර දෙකකි. ඒ පිළිගත් දේශපාලන පක්ෂයක අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වීම හෝ ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වීමයි.
+
+පිළිගත් දේශපාලන පක්ෂයකින් ඉදිරිපත් වන අපේක්ෂකයන් සඳහා රු.50,000ක ඇප මුදලක් ද, ස්වාධීන හෝ වෙනත් දේශපාලන පක්ෂයකින් ඉදිරිපත්වන අපේක්ෂකයන් රු.75,000ක ඇප මුදලක් ද මැතිවරණ කොමිෂන් සභාවේ තැන්පත් කළ යුතු ය.
+
+එලෙස නියමිත දිනට ඇප මුදල් තැන්පත් කර නාමයෝජනා මැතිවරණ කොමිසමට ඉදිරිපත් කළ අපේක්ෂකයන් අතුරින් සුදුසුකම් ලැබූ අපේක්ෂකයන් ජනාධිපතිවරණ අපේක්ෂකයන් ලෙස නම් කිරීම සිදුවෙයි.
+
+ජනාධිපති අපේක්ෂකයන් සයදෙනෙකුගෙන් සමන්විතව පැවති 1982 පළමු ජනාධිපතිවරණයෙන් පසුව පැවති 1988 ජනාධිපතිවරණයට ඉදිරිපත්ව සිටියේ අපේක්ෂකයන් තිදෙනෙකු පමණි.
+
+...
+
+[Data](articles/fb0d8df0.json)
+
+---
+
 ### Raja killed in police welled
 
 *2024-08-16 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199990) · `si`
@@ -2215,21 +2243,5 @@ It was a time not just of exile but abandonment; for reasons of convenience or f
 [Data](articles/46488a84.json)
 
 [Extended Data](ext_articles/46488a84.ext.json)
-
----
-
-### Rajitha Senaratne’s crossover and the politics of SJB defections
-
-*2024-08-16 02:40:34* · [`dailyftlk`](https://www.ft.lk/columns/Rajitha-Senaratne-s-crossover-and-the-politics-of-SJB-defections/4-765608) · `en`
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha Senaratne is the latest among well-known politicians to throw in their lot with incumbent President Ranil Wickremesinghe. The Samagi Jana Balawegaya (SJB) MP for Kalutara district met with the President at the Gangaramaya temple in Colombo on 13 August and signed a Memorandum of Understanding (MoU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for 21 September 2024. Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MoU at Gangaramaya, Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports, Senaratne had stated this motivated him into supporting Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/53b051e3.json)
-
-[Extended Data](ext_articles/53b051e3.ext.json)
 
 ---

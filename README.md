@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 20:06:55**
+As of **2024-08-16 20:21:09**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,111 (100.0%) of 41,115 articles have been extended.
+41,115 (100.0%) of 41,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### මි. මී 100 ඉක්මවූ වැසි  - ඉදිරි පැය 24 සැලකිලිමත් වන්න
+### Rs. Showers over 100 mees - take the 24 hour care
 
 *2024-08-16 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200013) · `si`
 
-තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Heavy rains expected in Western, Sabaragamuwa, Galle, Matara, Kandy, and Nuwara Eliya districts within 24 hours, exceeding 100 mm. The Department of Meteorology advises caution against strong winds and lightning during thunderstorms due to atmospheric turbulence.
 
-ඒ අනුව බස්නාහිර සහ සබරගමුව පළාත් සහ ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ජනතාවට මේ පිළිබඳ සැලකිලිමත් වන ලෙස එම දෙපාර්තමේන්තුව දැනුම්දෙයි.
+🟩
 
-එම ප්‍රදේශවලට ඉදිරි පැය 24 තුළ මි. මී 100 ඉක්මවූ තද වැසි ඇති වේ.
+The Department of Meteorology has issued an announcement of heavy rains.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු අනතුරු අවම කරගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Accordingly, the people in the Western and Sabaragamuwa Provincial and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts are informed.
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාව හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍රදේශවල මෙම තත්ත්වය හටගෙන තිබේ.
+In the next 24 hours, those areas. Heavy showers exceeding 100 mees.
+
+The Department of Meteorology urges the public to minimize temporary strong winds and lightning accidents with thunderstorms.
+
+The situation has occurred due to the turbulent in-atmosphere in the lower atmosphere.
 
 ◼️
 
 [Data](articles/ae1f9dd8.json)
+
+[Extended Data](ext_articles/ae1f9dd8.ext.json)
 
 ---
 
@@ -64,35 +70,49 @@ Police said that as a result, only one lane is open for vehicular movements towa
 
 [Data](articles/38c4361e.json)
 
+[Extended Data](ext_articles/38c4361e.ext.json)
+
 ---
 
-### இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்லவிற்கு தடை
+### Sri Lankan cricketer banned Niroshan Dikwella
 
 *2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-வீரர்-நிரோஷன்-திக்வெல்லவிற்கு-தடை/175-342293) · `ta`
 
-ஊக்கமருந்து தடுப்பு சட்டத்தை மீறியதாக இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்ல மீது குற்றம்சாட்டப்பட்டுள்ளது.
+Niroshan Dikwella, a Sri Lankan cricketer, has been banned from all cricket activities due to allegations of violating the Pharmaceutical Prevention Act. This comes after a doping test during the 2024 Lanka Premier League (LPL) tournament, conducted by the Sri Lanka Drug Prevention Agency (SLADA).
 
-2024 லங்கா பிரீமியர் லீக் (LPL) போட்டித் தொடரில், இலங்கை ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தினால் (SLADA) நடத்தப்பட்ட ஊக்கமருந்து சோதனையில் இது தெரியவந்துள்ளது.
+🟩
 
-அதன்படி, மறு அறிவித்தல் வரை அனைத்து வகையான கிரிக்கெட் போட்டிகளிலும் அவருக்கு தடை விதிக்கப்பட்டுள்ளது.  R
+Sri Lankan cricketer Niroshan Dikwella has been accused of violating the Pharmaceutical Prevention Act.
+
+This was revealed in a doping test conducted by the Sri Lanka Drug Prevention Agency (SLADA) in the 2024 Lanka Premier League (LPL) tournament.
+
+Accordingly, he has been banned in all kinds of cricket matches until re -announcement.R
 
 ◼️
 
 [Data](articles/fae8b053.json)
 
+[Extended Data](ext_articles/fae8b053.ext.json)
+
 ---
 
-### දක්ෂිණ අධිවේගයේ අනතුරක්
+### An accident on Southern Expressway
 
 *2024-08-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200012) · `si`
 
-බස් රථයක් සහ කන්ටේනර් රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+A bus and container collision caused an accident on the Southern Expressway, leading to traffic congestion. Police limited vehicles to one lane towards Matara to manage the situation.
 
-මේ හේතුවෙන් රථවාහන තදබදයක්ද මතුව ඇති අතර මාතර දෙසට වාහන ධාවනය එක් මංතීරුවකට සීමා කිරීමටත් පොලීසිය පියවර ගෙන තිබේ.
+🟩
+
+The accident had occurred when a bus and container collided with each other.
+
+As a result, traffic congestion has also arisen and the police have also taken steps to restrict the vehicle to Matara to one lane.
 
 ◼️
 
 [Data](articles/55eb8dde.json)
+
+[Extended Data](ext_articles/55eb8dde.ext.json)
 
 ---
 

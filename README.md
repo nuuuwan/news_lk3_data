@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 00:36:22**
+As of **2024-08-17 00:54:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,143 (100.0%) of 41,150 articles have been extended.
+41,150 (100.0%) of 41,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The Sri Lanka pavilion received an enthusiastic response from Pakistani business
 
 [Data](articles/c442099c.json)
 
+[Extended Data](ext_articles/c442099c.ext.json)
+
 ---
 
 ### Pelwatte Dairy launches landmark initiative with international support
@@ -60,6 +62,8 @@ This initiative, which commenced in October 2022, aims to empower women farmers,
 
 [Data](articles/488a14d3.json)
 
+[Extended Data](ext_articles/488a14d3.ext.json)
+
 ---
 
 ### SL, Saudi Arabia discuss boosting bilateral trade
@@ -73,6 +77,8 @@ While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, GAFT Gove
 ...
 
 [Data](articles/1e940437.json)
+
+[Extended Data](ext_articles/1e940437.ext.json)
 
 ---
 
@@ -90,6 +96,8 @@ SAMENTA, a pivotal organisation established in 1986, represents and advocates fo
 
 [Data](articles/d53548a1.json)
 
+[Extended Data](ext_articles/d53548a1.ext.json)
+
 ---
 
 ### Heracle Holdings moves into new office premises
@@ -104,6 +112,8 @@ The new office premises were ceremoniously declared open by Lyceum Global Holdin
 
 [Data](articles/dff2db4b.json)
 
+[Extended Data](ext_articles/dff2db4b.ext.json)
+
 ---
 
 ### Sanasa Life Insurance signs MoU in collaboration with Colombo-Re and Carekleen
@@ -117,6 +127,8 @@ Stemming from its ethics of supporting the underprivileged, Sanasa Life Insuranc
 ...
 
 [Data](articles/f88ad198.json)
+
+[Extended Data](ext_articles/f88ad198.ext.json)
 
 ---
 
@@ -135,6 +147,8 @@ Many suspected that the President was trying to postpone elections and very few 
 ...
 
 [Data](articles/a6611fab.json)
+
+[Extended Data](ext_articles/a6611fab.ext.json)
 
 ---
 

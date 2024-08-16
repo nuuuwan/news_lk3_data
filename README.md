@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 16:08:51**
+As of **2024-08-16 16:21:13**
 
 ## Newspaper Stats
 
-*Scraped **41,081** Articles*
+*Scraped **41,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,88 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,780
 dailymirrorlk | 4,733
-adaderanalk | 4,797
+adaderanalk | 4,798
 tamilmirrorlk | 5,260
 virakesarilk | 6,510
-adaderanasinhalalk | 6,989
+adaderanasinhalalk | 6,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,074 (100.0%) of 41,081 articles have been extended.
+41,081 (100.0%) of 41,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### 34 வருடங்களின் பின் வழிபட அனுமதி
+### පාර්ලිමේන්තු මන්ත්‍රී අලී සහීර් මවුලානා ජනපතිට සහාය දක්වයි
+
+*2024-08-16 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200005) · `si`
+
+ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රස් පක්ෂයේ මඩකපුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලී සහීර් මවුලානා මහතා ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/dd020464.json)
+
+---
+
+### SLMC’s Ali Zahir Moulana pledges support to President Ranil
+
+*2024-08-16 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101287/slmcs-ali-zahir-moulana-pledges-support-to-president-ranil) · `en`
+
+Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana has met with President Ranil Wickremesinghe and assured his support at the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/e8ed240a.json)
+
+---
+
+### Permit to worship after 34 years
 
 *2024-08-16 15:53:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/34-வருடங்களின்-பின்-வழிபட-அனுமதி/46-342288) · `ta`
 
-யாழ்ப்பாணம் - காங்கேசன்துறை மேற்கு கிராமசேவகர் பிரிவுக்குட்பட்ட கீரிமலை கிருஸ்ணர் ஆலயத்துக்கு சென்று வழிபட வௌ்ளிக்கிழமை (16) அனுமதி வழங்கப்பட்டது. அங்கு பெருமளவிலான மக்கள் சென்று பொங்கல் பொங்கி சிறப்பு பூஜை வழிபாடுகளில் ஈடுபட்டனர்.
+After 34 years, the Kirimalai Krishnar Temple in Sri Lanka reopened for worship, allowing many to attend the Pongal Pongi special pooja. The temple, previously restricted due to its location within a high-security zone controlled by the Navy, is now accessible to the public, including on Fridays. This decision was welcomed by locals, with government agents and navy officials present at the reopening.
 
-கடந்த முப்பது வருட காலத்திற்கும் மேலாக இராணுவத்தின் உயர்பாதுகாப்பு வலயத்தினுள்ளே கடற்படையினரின் கட்டுப்பாட்டிலே காணப்பட்ட பழமைவாய்ந்த கீரிமலை கிருஸ்ணர் ஆலய வழிபாடுகளுக்கு  அனுமதி வழங்கப்பட்டநிலையில் அங்கு சென்ற பொது மக்கள் ஆலயத்தை சிரமதானம் செய்ததன் பின்னர் பொங்கல் பொங்கி பூஜை வழிபாடுகளை மேற்கொண்டனர்.
+🟩
 
-நீண்ட காலத்தின் பின்னர் தமது ஆலயத்திற்குச செல்ல அனுமதிக்கப்பட்டதை மிகவும் சந்தோசமாக வரவேற்ற பொது மக்கள் ஆலயம் சிதைவடைத்திருப்பதை பார்த்து கடும் மனவேதனை அடைந்திருந்தனர்.
+Permission was granted to worship the Kirimalai Krishnar Temple, which belongs to the Jaffna - Kankesanthurai West Grama Sevakar Division.. There, a large number of people went to the Pongal Pongi special pooja.
 
-இதன்போது யாழ்ப்பாண மாவட்ட பதில் அரசாங்க அதிபர் ம.பிரதீபன், யாழ்ப்பாண மாவட்ட மேலதிக அரசாங்க அதிபர் ஶ்ரீமோகன், செஞ்சொற் செல்வர் ஆறு திருமுருகன், கடற்படை அதிகாரிகள், பொதுமக்கள் உள்ளிட்ட பலரும் கலந்துகொண்டனர்.
+For more than thirty years of the last thirty years, the public who went to the temple of Kirimalai Krishna, who had been under the control of the Navy under the military's High Security Zone, had been permitted to worship the temple after the Pongal Pongi Pooja was performed after the temple was admitted to the temple.
+
+The general public was very happy to see that the temple was degenerated after a long time.
+
+Jaffna District Government Agent Mr. Pradeepan, Jaffna District Additional Government Agent Srimohan, Red Selvar River Thirumurugan, Navy officials and civilians were present.
+
+Accordingly, the people have been allowed to go to the temple every Friday from today.
 
 ...
 
 [Data](articles/054fdcf5.json)
 
+[Extended Data](ext_articles/054fdcf5.ext.json)
+
 ---
 
-### ස්වාධීන අපේක්ෂකයින්ගේ ඡන්ද ලකුණු මෙන්න
+### Here is the votes of independent candidates
 
 *2024-08-16 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200004) · `si`
 
-සැප්තැම්බර් 21 වනදා පැවැත්වෙන ජනාධිපතිවරණයට තරග කිරීම සඳහා නාමයෝජනා භාරදුන් ස්වාධීන අපේක්ෂකයින් සඳහා මේ වනවිට ඡන්ද ලකුණ ලබා දී තිබේ.
+The Elections Commission has issued polling marks for 17 independent candidates in the presidential election held on September 21.
 
-ඒ අනුව මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන ස්වාධීන අපේක්ෂකයින් 17 දෙනෙකුට ඔවුන්ගේ ඡන්ද ලකුණ මැතිවරණ කොමිෂන් සභාව විසින් මෙලෙස නිකුත් කර තිබේ.
+🟩
+
+The polling mark has already been issued for independent candidates who handed over the presidential election on September 21.
+
+Accordingly, 17 independent candidates contesting the presidential election have been issued by the Elections Commission.
 
 ◼️
 
 [Data](articles/420d0b12.json)
+
+[Extended Data](ext_articles/420d0b12.ext.json)
 
 ---
 
@@ -80,59 +118,81 @@ Therefore, Marikkar urged the public to be vigilant of such misinformation, emph
 
 [Data](articles/b22055fd.json)
 
+[Extended Data](ext_articles/b22055fd.ext.json)
+
 ---
 
-### පරිභෝජනයට නුසුදුසු පරිප්පු තොගයක් අල්ලයි
+### Licensing of damages inappropriate for consumption arrested
 
 *2024-08-16 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200003) · `si`
 
-මිනිස් පරිභෝජනයට නුසුදුසු පරිප්පු කිලෝග්‍රෑම් 1000ක් පිටකොටුව ආදුරුප්පු වීදියේ ගබඩාවක තිබී සොයාගෙන තිබේ.
+In a raid, 1000 kg of unfit-for-consumption dhal were seized from a warehouse owned by a prominent food importer. The Consumer Affairs Authority (CAA) removed the stock and took it into custody during the operation.
 
-පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියට ලැබුණු තොරතුරකට අනුව සිදුකළ වැටලීමකදී ප්‍රසිද්ධ ආහාර ආනයන ආයතනයකට අයත් ගබඩාවක තිබී මෙම පරිප්පු තොගය සොයාගෙන ඇත.
+🟩
 
-වැටලීම සිදුකළ අවස්ථාවේ පරිප්පු තොගය දිලීර ඉවත්කොට නැවත සකස්කර වෙළෙඳපොළට යැවීම සඳහා ඇසුරුම්කරමින් තිබූ බවයි පාරිභෝගික කටයුතු අධිකාරිය පැවසුවේ.
+1000 kilograms of dhal in unwilling to human consumption have been found in a pulley pupil store.
 
-පාරිභෝගික කටයුතු පිළිබ﻿ඳ අධිකාරිය අදාළ පරිප්පු තොගය සිය භාරයට ගෙන ඇති අතර ඒ පිළිබඳ විමර්ශන සිදුකර නඩු පැවරීමට නියමිතයි.
+The lentille was found in a warehouse belonging to a well-known food importing personnel in a raid conducted by the Consumer Affairs Authority.
+
+The Consumer Affairs Authority said that the stock of dhal was removed and sending the fungi at the time of the raid.
+
+The Consumer Affairs Authority of the Consumer Affairs has taken the lentils and will be taken into custody.
 
 ◼️
 
 [Data](articles/ef4278ad.json)
 
+[Extended Data](ext_articles/ef4278ad.ext.json)
+
 ---
 
-### ​மைத்திரியின் செய்தியை மறுத்தார் மரிக்கார்
+### Marikar denies Maithri's message
 
 *2024-08-16 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-செய்தியை-மறுத்தார்-மரிக்கார்/175-342287) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஐக்கிய மக்கள் சக்தியில்  இணைந்துகொண்டார் என்ற செய்தி உண்மைக்குப் புறம்பானது என ஐக்கிய மக்கள் சக்தியின் செய்தி தொடர்பாளர் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்துள்ளார்.
+SM Marikar, spokesperson for the United People's Power, dismisses rumors that former President Maithripala Sirisena has joined their party, calling it a "false story" spread by a defeated government.
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, ஐக்கிய மக்கள் சக்தியில்   இணைந்துகொண்டதாக பரப்பப்படும் செய்தியை அவர் மறுத்துள்ளார்.
+🟩
 
-"இது தோல்வியை எதிர்நோக்கும் அரசாங்கத்தால் பரப்பப்படும் பொய்யான கதையாகும். அரசாங்கமும் அதன் கூட்டாளிகளும் தற்போது போலியான கதைகளை பரப்புகின்றனர்" என பாராளுமன்ற உறுப்பினர் மரிக்கார் தெரிவித்துள்ளார்.
+United People's Power spokesman SM Marikar says the news that former President Maithripala Sirisena joined the United People's Power is untrue.
+
+Former President Maithripala Sirisena has denied the news that he has joined the United People's Power.
+
+“This is a false story that is spread by the government that faces defeat. The government and its allies are currently spreading fake stories, ”said MP Marikar.
 
 ◼️
 
 [Data](articles/6007a74b.json)
 
+[Extended Data](ext_articles/6007a74b.ext.json)
+
 ---
 
-### Tiktok තහනමට එරෙහිව අමෙරිකාව සමග සටනක්
+### A fight with America against the ban on tiktom
 
 *2024-08-16 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200002) · `si`
 
-චීන බයිට්ඩාන්ස් සමාගමේ ජනප්‍රිය වීඩියෝ හුවමාරු යෙදවුම 'ටික්ටොක්' අමෙරිකානු මෙහෙයුම් විකුණා දමන ලෙසත්, මාස 06ක් ඇතුළත එය සිදුනොකළ හොත් අමෙරිකාවේ ටික්ටොක් තහනම් කරන බවටත් කොංග්‍රස් මණ්ඩලය සම්මත කරගත් නීතියට එරෙහිව බයිට්ඩාන්ස් සමාගම ඉදිරිපත් කළ පෙත්සම අමෙරිකානු ෆෙඩරල් අභියාචනාධිකරණයේදී විභාග කිරීම දැන් ආරම්භ වී තිබේ.
+In a legal battle over TikTok's U.S. operations, ByteDance argues against claims of data manipulation by the Chinese government, stating all U.S. user data is stored domestically. The U.S. government, under President Biden, banned TikTok due to national security concerns unless ByteDance divests its American operations within six months. This move follows previous attempts by the Trump administration to restrict TikTok. Despite opposition from some quarters, including former President Trump, the ban remains in effect, with potential exceptions for political figures like Vice President Kamala Harris who use TikTok for campaigning.
 
-ඊයේ (15) එම අධිකරණ විභාගයේ පළමු දිනයේදී චීන බයිට්ඩාන්ස් සමාගම ප්‍රකාශ කළේ, එම සිද්ධියේදී අධිකරණ දෙපාර්තමේන්තුව සැබෑ කරුණු විකෘති කිරීමක් සිදුකර ඇති බවය.
+🟩
 
-අමෙරිකාවේ ටික්ටොක් ග්‍රාහකයන්ගේ දත්ත චීන රජය විසින් ලබාගන්නා බවට අධිකරණ දෙපාර්තමේන්තුවේ නීතිඥයන් සිදුකළ කරුණු දැක්වීම පිළිබඳව ඔවුන් මෙහිදී විශේෂයෙන් සඳහන් කළේය.
+The Petroleum of the Condor to sell Ticktock to sell Ticktock in six months, to sell Ticktock, which was not done within six months, to sell Ticktock 'Ticktock within six months and the US Federal Court of Appeal.
 
-චීන රජය අමෙරිකානුවන් දත්ත එක්රැස් කිරීමට මෙන්ම, ඔවුන්ට දැකිය හැකි අන්තර්ගතය (content)වෙනස් කරන බවත්, එය අමෙරිකාවේ ජාතික ආරක්ෂාවට තර්ජනයක් බවත් අධිකරණ දෙපාර්තමේන්තුවේ නීතිඥයන් කියා සිටියේය.
+On the first day of the courts yesterday (15th), the Bitdans said the following Department of Justice had been distorted.
 
-එහෙත් ටික්ටොක් යෙදවුමේ අමෙරිකානු මෙහෙයුමේදී ලබාගන්නා දත්ත ගබඩා කර ඇත්තේ අමෙරිකාවේ බවත් එය ඔරකල් සමාගමේ 'ක්ලවුඩ් සර්වර්ස්වල' ගබඩා කෙරෙන බවත් බයිට් ඩාන්ස් සමාගම පෙන්වා දුන්නේය.
+They were also mentioned in the lawyers of the Justice Department that the US government was acquired by the Chinese government.
+
+Attorney at the judiciary, the lawyers of the Justice Department said that the Chinese government changes the data (content they can see.
+
+But the bite Dance pointed out that the data obtained in the American operation in the American operation in the American operation is stored in the United States and said that it was stored in Cloud Servers.
+
+The Tictock content is managed by Bitdans that it is imperative that the recommendation machine (content remendation engine).
 
 ...
 
 [Data](articles/cda6480e.json)
+
+[Extended Data](ext_articles/cda6480e.ext.json)
 
 ---
 
@@ -958,15 +1018,21 @@ United People's Power AHM Fouzi and Kumara Welgama have supported President Rani
 
 ---
 
-### පක්ෂ හා සන්ධාන 34ක් ජනපති සමග ගිවිසුමකට
+### 34 party and 34 coals have to go into agreement
 
 *2024-08-16 10:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ හා-සන්ධාන-34ක්-ජනපති-සමග-ගිවිසුමකට/11-411406) · `si`
 
-ඉදිරි ජනපතිවරණයේදී ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරිම වෙනුවෙන් පක්ෂ හා සන්ධාන 34ක් අද පෙරවරුවේදි කොළඹ වෝටර්ස් එජ් හෝටලයේදී ගිවිසුමකට අත්සන් තැබීය. මෙහිදී ජනපතිගේ ප්‍රධානත්වයෙන් ජයගමු ශ්‍රි ලංකා සම්මුතියට ඔවුන් අත්සන් කරනු ලැබිය.
+34 parties and 34 coalitions agreed at Waters Edge Hotel, Colombo, to back Ranil Wickremesinghe in the upcoming presidential election, marking a significant step towards his candidacy.
+
+🟩
+
+Party and 34 coals signed an agreement at Waters Edge Hotel in Colombo this morning to support Ranil Wickremesinghe in the next Presidential election. The President was headed by the President to the Jayawishu Sri Lanka Convention.
 
 ◼️
 
 [Data](articles/f9599271.json)
+
+[Extended Data](ext_articles/f9599271.ext.json)
 
 ---
 
@@ -2161,41 +2227,5 @@ Elections offer an opportunity to measure the re-composition of social forces. N
 [Data](articles/99e9bed4.json)
 
 [Extended Data](ext_articles/99e9bed4.ext.json)
-
----
-
-### Rishad’s ACMC inks agreement to support Sajith
-
-*2024-08-16 02:30:16* · [`dailyftlk`](https://www.ft.lk/news/Rishad-s-ACMC-inks-agreement-to-support-Sajith/56-765605) · `en`
-
-The All Ceylon Makkal Congress (ACMC), led by MP Rishad Bathiudeen, yesterday signed an agreement with the ‘Samagi Jana Sandhanaya’ to support Opposition leader Sajith Premadasa in the next month’s Presidential election. The agreement was signed by Samagi Jana Balawegaya (SJB) leader and Presidential candidate Sajith Premadasa and ACMC leader, former Minister Rishad Bathiudeen, at the Cinnamon Lakeside in Colombo. SJB General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and other party members were also present at the occasion.
-
-◼️
-
-[Data](articles/3556b83e.json)
-
-[Extended Data](ext_articles/3556b83e.ext.json)
-
----
-
-### More Muslim MPs join President
-
-*2024-08-16 02:29:24* · [`dailyftlk`](https://www.ft.lk/news/More-Muslim-MPs-join-President/56-765604) · `en`
-
-Three of the four MPs of the All-Ceylon Makkal Congress (ACMC) have expressed their support to President Ranil Wickremesinghe in the next month’s election.
-
-They are MP for Digamadulla District Attorney at Law S.M.M. Muszhaaraff, MP for Puttalam District Ali Sabri Rahim and Anuradhapura District MP Ishaq Rahuman who came from SJB ticket.
-
-Muszhaaraff said: “Although ACMC leader and MP Rishad Bathiudeen has stated his support for Sajith Premadasa, the Muslim community is backing President Ranil Wickremesinghe. The leader of our party claimed that their decision was based on consultations with people across the country. We, however, dispute this claim.”
-
-The MP also stated that President Ranil Wickremesinghe will have the support of the Muslim community, regardless of the decisions made by party leaders.
-
-The MP also noted that Sajith Premadasa failed to conduct a proper investigation into Rishad Bathiudeen while he was in prison, treating him as if he was a member of a different party.
-
-◼️
-
-[Data](articles/f473beaa.json)
-
-[Extended Data](ext_articles/f473beaa.ext.json)
 
 ---

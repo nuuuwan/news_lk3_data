@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 07:50:53**
+As of **2024-08-16 08:15:33**
 
 ## Newspaper Stats
 
-*Scraped **41,004** Articles*
+*Scraped **41,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,490
 dailyftlk | 2,664
-adalk | 3,773
+adalk | 3,774
 dailymirrorlk | 4,733
 adaderanalk | 4,784
 tamilmirrorlk | 5,239
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,996 (100.0%) of 41,004 articles have been extended.
+41,003 (100.0%) of 41,005 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Police said the shooting was carried out by an unidentified gunman who had arriv
 ◼️
 
 [Data](articles/fc1d322c.json)
+
+[Extended Data](ext_articles/fc1d322c.ext.json)
 
 ---
 
@@ -272,6 +274,8 @@ The conference will focus on the complex connection between nutrition and its de
 
 [Data](articles/88d18509.json)
 
+[Extended Data](ext_articles/88d18509.ext.json)
+
 ---
 
 ### Celebration of 78th Independence Day of India
@@ -290,6 +294,8 @@ High Commissioner and officers of High Commission of India also paid homage at t
 
 [Data](articles/98caa5c5.json)
 
+[Extended Data](ext_articles/98caa5c5.ext.json)
+
 ---
 
 ### Ali Sabry engages in bilateral talks in Cairo to enhance ties between Sri Lanka and Egypt
@@ -304,25 +310,33 @@ Minister Sabry held productive discussions with his counterpart Dr. Abdelatty an
 
 [Data](articles/45b2c784.json)
 
+[Extended Data](ext_articles/45b2c784.ext.json)
+
 ---
 
-### අද සහ හෙට වැස්ස වැඩි වෙයි
+### Today and tomorrow increases
 
 *2024-08-16 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199983) · `si`
 
-දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අද (16) සහ හෙට (17) දිනවලදී  බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department forecasts heavy rainfall from today (16th) through tomorrow (17th), particularly affecting the Western, Sabaragamuwa, Northwestern provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Expect thunderstorms developing across these regions, with potential for over 100mm of rain in some areas. The department advises residents to prepare for possible damage and take precautions against the weather conditions.
 
-ඒ අනුව  බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වියහැකි බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැකිය.
+The Meteorological Department says that today (16) and tomorrow (17), a temporary increase in the current area of ​​the island.
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Thundershowers will develop at several places in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇති වියහැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains may occur over 100.
+
+Showers or thundershowers will occur at evening or night in the East and Uva provinces.
+
+The Department of Meteorologies requests the public to take necessary steps to reduce the damages caused by thundershowers.
 
 ◼️
 
 [Data](articles/acb2a45c.json)
+
+[Extended Data](ext_articles/acb2a45c.ext.json)
 
 ---
 
@@ -342,6 +356,8 @@ Launched in 2013, the Seylan Pahasara library project was conceived to address t
 
 [Data](articles/0487b022.json)
 
+[Extended Data](ext_articles/0487b022.ext.json)
+
 ---
 
 ### Union Bank appoints Dilshan Rodrigo as Chief Executive Officer
@@ -358,19 +374,29 @@ Union Bank announced the appointment of Dilshan Rodrigo as its new Director/Chie
 
 ---
 
-### தெற்காசிய மக்கள் கிளர்ச்சிகளின் அதிர்ச்சியின் விளைவான தாக்கங்கள்; இந்தியாவுக்கான படிப்பினைகள்
+### The resulting impacts of the shock of the rebellion of the South Asian population;Lessons for India
 
 *2024-08-16 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191184) · `ta`
 
-இந்த தசாப்தத்தின் தொடக்கத்தில் இருந்து இந்தியாவுக்கு அதன் அயல்நாடுகளில் இடம்பெற்றுவரும் நிகழ்வுகள் ஒன்றுக்குப்பின் ஒன்றாக அதிர்ச்சியை கொடுத்துவருகின்றன.
+India faces significant challenges in navigating political upheavals across South Asia, highlighted by events like the overthrow of governments in Myanmar, Afghanistan, Pakistan, Sri Lanka, Nepal, and Bangladesh. These events underscore the need for India to adopt a more nuanced diplomatic approach, engaging with a broader range of political actors and avoiding alignment with specific factions. Lessons learned include the importance of understanding local dynamics, supporting democratic processes, and maintaining relationships with all political stakeholders, regardless of their stance towards India. Additionally, India must balance its geopolitical interests with its commitment to regional cooperation and avoid being drawn into conflicts between larger powers.
 
-2021 ஆம் ஆண்டில் மியன்மாரில் சதிப்புரட்சியும் ஆப்கானிஸ்தானில் மீண்டும் தலிபான்களின் ஆட்சியும். 2022 ஆம் ஆண்டில் பாகிஸ்தானில் பிரதமர்  இம்ரான் பதவி கவிழ்க்கப்பட்டார். இலங்கையில் மக்கள் கிளர்ச்சியினால் ஜனாதிபதி கோட்டாபய ராஜபக்ச அதிகாரத்தில் இருந்து விரட்டப்பட்டார்.
+🟩
 
-அதற்கு பிறகு மாலைதீவு தேர்தலில் இந்தியாவுடன் மிகவும் நெருக்கமான உறவுகளைப் பேணிவந்த ஜனாதிபதி சோலீ அரசாங்கம் தோற்கடிக்கப்பட்ட அதேவேளை, நேபாளத்திலும் கூட்டரசாங்கங்களின் வீழ்ச்சி அதே தாக்கத்தை ஏற்படுத்தியது. இந்தியாவுடன் குறைந்தளவு நட்புறவைக் கொண்ட பிரதமர் ஒலீயின் அரசாங்கம் பதவிக்கு வந்தது.
+Since the beginning of this decade, India has been shocking together after its abroad events.
+
+The conspiracy in Myanmar in 2021 and the reign of the Taliban again in Afghanistan. Prime Minister Imran was overthrown in Pakistan in 2022. President Gotabhaya Rajapakse was chased away from power due to the agitation of the people in Sri Lanka.
+
+The fall of the coalition government in Nepal had the same impact, while the President Soli government defeated the Maldivian elections with close ties with India.. Prime Minister Olayi's government, which has the lowest friendship with India.
+
+Next, the Bangladesh People's Rebellion has suddenly chased Prime Minister Sheikh Hasina from office. He has fled to India. Based on how India has been greatly confident on the Hasina government, India can realize the shock of India.
+
+India has stumbled on how to have ties with those who take office after Hasina.
 
 ...
 
 [Data](articles/069ea2eb.json)
+
+[Extended Data](ext_articles/069ea2eb.ext.json)
 
 ---
 
@@ -1023,6 +1049,22 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 [Data](articles/0f39edfa.json)
 
 [Extended Data](ext_articles/0f39edfa.ext.json)
+
+---
+
+### අමාත්‍යධුර තුනක් ජනපති යටතට
+
+*2024-08-15 19:56:26* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යධුර-තුනක්-ජනපති-යටතට/11-411402) · `si`
+
+අමාත්‍ය ධුර තුනක් ජනාධිපතිවරයා යටතට පත් කරගනිමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ඒ අනුව සංචාරක හා ඉඩම් අමාත්‍යාංශය, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යාංශය, කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මෙලෙස ජනාධිපතිවරයා යටතට පත් කර ඇත.
+
+ජනාධිපති ලේකම්වරයා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර ඇති අතර, අග්‍රාමාත්‍යවරයා සමගද සාකච්ඡා කිරීමෙන් අනතුරුව මෙම තීරණය ගත් බව ගැසට් නිවේදනයේ සඳහන් වේ.
+
+එම අමාත්‍ය ධුරවල කටයුතු කළ සමගි ජනබලවේගයෙන් පාර්ලිමේන්තුවට තේරී පත් වූ මනූෂ නානායක්කාර හා පත් කරන ලද මන්ත්‍රී හරීන් ප්‍රනාන්දු යන මහත්වරුන්ගේ මන්ත්‍රී ධුර අහෝසි කරමින් නිකුත් කරන ලද අධිකරණ නියෝගයෙන් පසු අමාත්‍ය ධුර පුරප්පාඩු විය. ඒ අනුව ජනාධිපතිවරයා විසින් මෙම තීරණයට එළඹ තිබේ.
+
+◼️
+
+[Data](articles/5fc8097d.json)
 
 ---
 
@@ -2171,25 +2213,5 @@ He summoned a special press meeting a short while ago.
 [Data](articles/e5ee2975.json)
 
 [Extended Data](ext_articles/e5ee2975.ext.json)
-
----
-
-### Jetstar Asia to launch low-cost direct flights from Singapore to Colombo
-
-*2024-08-15 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101261/jetstar-asia-to-launch-low-cost-direct-flights-from-singapore-to-colombo) · `en`
-
-Jetstar Asia Airways has announced it will become the only low-cost carrier to fly direct from Singapore to Colombo, Sri Lanka, as the new service takes off on 21 November 2024.
-
-The Singapore low-cost carrier will operate five return services each week using their fleet of Airbus A320s, offering more than 90,000 low fares between the two destinations each year.
-
-Issuing a statement, Jetstar Asia stated that the split schedule will offer morning and evening departures from Changi Airport providing choice for those starting their journey in Singapore and easy connections for those travelling via Singapore on Jetstar Airways’ (JQ) daily service from Melbourne or the up to six weekly flights from Perth.
-
-To celebrate the announcement, Jetstar Asia has launched one-way sale fares from Singapore to Colombo from just SG$149, making Sri Lanka more accessible than ever. Club Jetstar members have access to even lower fares, starting from SG$139.
-
-...
-
-[Data](articles/4a512a23.json)
-
-[Extended Data](ext_articles/4a512a23.ext.json)
 
 ---

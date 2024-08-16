@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 19:36:51**
+As of **2024-08-16 19:54:47**
 
 ## Newspaper Stats
 
-*Scraped **41,111** Articles*
+*Scraped **41,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,783
 dailymirrorlk | 4,733
-adaderanalk | 4,803
-tamilmirrorlk | 5,262
+adaderanalk | 4,804
+tamilmirrorlk | 5,263
 virakesarilk | 6,521
 adaderanasinhalalk | 6,996
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,108 (100.0%) of 41,111 articles have been extended.
+41,111 (100.0%) of 41,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### Heavy traffic congestion on Southern Expressway due to accident
+
+*2024-08-16 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/101293/heavy-traffic-congestion-on-southern-expressway-due-to-accident-) · `en`
+
+A passenger bus and a container truck have collided in the Galanigama area along the Southern Expressway causing heavy traffic congestion, the police said.
+
+Police said that as a result, only one lane is open for vehicular movements towards Matara.
+
+◼️
+
+[Data](articles/38c4361e.json)
+
+---
+
+### இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்லவிற்கு தடை
+
+*2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கிரிக்கெட்-வீரர்-நிரோஷன்-திக்வெல்லவிற்கு-தடை/175-342293) · `ta`
+
+ஊக்கமருந்து தடுப்பு சட்டத்தை மீறியதாக இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்ல மீது குற்றம்சாட்டப்பட்டுள்ளது.
+
+2024 லங்கா பிரீமியர் லீக் (LPL) போட்டித் தொடரில், இலங்கை ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தினால் (SLADA) நடத்தப்பட்ட ஊக்கமருந்து சோதனையில் இது தெரியவந்துள்ளது.
+
+அதன்படி, மறு அறிவித்தல் வரை அனைத்து வகையான கிரிக்கெட் போட்டிகளிலும் அவருக்கு தடை விதிக்கப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/fae8b053.json)
+
+---
 
 ### Ex-President Maithripala reveals stance on presidential candidates
 
@@ -48,45 +78,61 @@ Accordingly, he emphasized that only the SLFP’s Chairman has full authority un
 
 [Data](articles/75029563.json)
 
+[Extended Data](ext_articles/75029563.ext.json)
+
 ---
 
-### මැතිවරණ කොමිසමේ වැඩට බාධා කළ සැකකරුට ඇප
+### Suspect released on bail
 
 *2024-08-16 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200011) · `si`
 
-නාමයෝජනා භාරගන්නා අවස්ථාවේදී මැතිවරණ කොමිසමේ කටයුතුවලට බාධා වන ආකාරයෙන් කටයුතු කළේ යැයි අත්අඩංගුවට ගත් සැකකරුවකු ඇප මත මුදාහැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+A suspect arrested for obstructing elections was released on bail by the Colombo Magistrate's Court. The arrest involved members of the Welikada Police and the Ruhuna People's Party. The suspect, represented by President's Counsel Maithree Gunaratne, claimed possession of a nomination entry ticket but was also accused of protesting against a nomination proposal. The court ordered the suspect to assist the police in checking his phone and computer and scheduled another hearing for September.
 
-රුහුණු ජනතා පක්ෂයේ සාමාජිකයකු බව කියන අයෙකු වැලිකඩ පොලීසිය මගින් මෙලෙස අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+🟩
 
-පොලීසිය අධිකරණයට කරුණු දක්වමින් පවසා ඇත්තේ මැතිවරණ කාර්යාලයට ඇතුළු වී නාමයෝජනා භාරගන්නා නිලධාරීන්ගේ  කටයුතුවලට බාධාවන අයුරින් කටයුතු කිරීම හේතුවෙන් සැකකරු අත්අඩංගුවට ගත් බවය.
+The Colombo Magistrate's Court has ordered the release of a suspect who was arrested by the suspects to obstruct the Elections Commission at the time of the acceptance of nominations.
 
-සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පවසා ඇත්තේ සැකකරුට නාමයෝජනා භාර ගන්නා ස්ථානයට ඇතුළු වීම සඳහා ප්‍රවේශ පත්‍රයක් තිබූ බවයි.
+The Welikada police were arrested by the Welikada Police and a member of the Ruhuna People's Party.
 
-එමෙන්ම නාම යෝජනාවක් සම්බන්ධයෙන් විරෝධතා දැක්වීමට යාමේ දී ඔහු අත්අඩංගුවට ගෙන තිබූ බවත් නීතිඥවරයා අධිකරණය හමුවේ කරුණු පවසා තිබේ.
+The police have been arrested by the police that the suspect was arrested as a result of the activities of the officers who were nominated.
 
-ඒ අනුව ඉදිරිපත් වූ කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරයා සැකකරු ඇප මත මුදා හැරීමට නියෝග කර තිබේ.
+President's Counsel Maithree Gunaratne appearing on behalf of the suspect said that the suspect had a ticket to enter the nomination-handing place.
 
-එසේම සැකකරුගේ දුරකථන හා පරිගණකය පරීක්ෂා කිරීම සඳහා පොලීසියට අවශ්‍ය සහාය ලබා දෙන ලෙසත් සැකකරුට නියෝග කර ඇත.
+The lawyer has also been arrested in court that he had been arrested in protest of a nomination proposal.
 
-...
+The Magistrate ordered the suspect on bail.
+
+The suspect has also been ordered to support the police to check the suspect's telephone and computer.
+
+The court has also set to call the case again on September.
+
+◼️
 
 [Data](articles/da04329e.json)
 
+[Extended Data](ext_articles/da04329e.ext.json)
+
 ---
 
-### மைத்திரியின் அதிரடி அறிவிப்பு
+### Maithri's Action Notice
 
 *2024-08-16 19:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-அதிரடி-அறிவிப்பு/175-342292) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் எந்தவொரு வேட்பாளர்களுக்கும் தாம் ஆதரவளிக்கப்போவதில்லை என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena, former president, states he won't back any candidate in the upcoming presidential election. He also denies rumors spread by certain media and politicians about him.
 
-விசேட ஊடக அறிக்கை ஒன்றை வௌியிட்டு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இதனை தெரிவித்துள்ளார்.
+🟩
 
-அதேபோல், சில ஊடகங்கள் மற்றும் அரசியல்வாதிகள் என்னைப்பற்றி வெளியிடும் கருத்துக்களில் எவ்வித உண்மையும் இல்லை எனவும் அவர் குறிப்பிட்டுள்ளார். R
+Former President Maithripala Sirisena says he will not support any candidates contesting the upcoming presidential election.
+
+Former President Maithripala Sirisena said this.
+
+Similarly, he noted that there is no truth in the comments that some media and politicians make about me. Remble
 
 ◼️
 
 [Data](articles/bb904aab.json)
+
+[Extended Data](ext_articles/bb904aab.ext.json)
 
 ---
 
@@ -2245,45 +2291,5 @@ However, it is reported that the party's Political Bureau has been influenced by
 [Data](articles/b96c48fe.json)
 
 [Extended Data](ext_articles/b96c48fe.ext.json)
-
----
-
-### Is the money possible at the presidential election?
-
-*2024-08-16 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199987) · `si`
-
-PAFFREL expects to decide the campaign spending limit for candidates in the upcoming presidential election today. The decision will be made after a meeting involving the Elections Commission and political party representatives.
-
-🟩
-
-PAFFREL organization says that a final decision will be spent on the amount of money that a candidate will be spent on a candidate in the coming presidential election will be held today.
-
-Executive Director Rohana Hettiarachchi said that this decision will be taken at a meeting between the Elections Commission and political parties representatives.
-
-◼️
-
-[Data](articles/c82beba4.json)
-
-[Extended Data](ext_articles/c82beba4.ext.json)
-
----
-
-### Sripuri shooting: Young man killed
-
-*2024-08-16 07:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீபுரயில்-துப்பாக்கிச்-சூடு-இளைஞன்-பலி/175-342267) · `ta`
-
-In Anuradhapura-Sripura, a 26-year-old man was fatally shot while riding a motorcycle near Pillaiyar junction. The incident occurred early this morning, and it's reported that a 56-rifle was used in the shooting.
-
-🟩
-
-A 26 -year -old man has been killed in a motorcycle at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning, police said.
-
-Police said the shooting was carried out with a 56 -rifle.. (A)
-
-◼️
-
-[Data](articles/b7c812cb.json)
-
-[Extended Data](ext_articles/b7c812cb.ext.json)
 
 ---

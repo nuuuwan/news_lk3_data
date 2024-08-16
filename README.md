@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 12:54:51**
+As of **2024-08-16 13:06:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,054 (100.0%) of 41,055 articles have been extended.
+41,055 (100.0%) of 41,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,23 +472,31 @@ In the upcoming presidential election, 34 parties and alliances have signed a co
 
 ---
 
-### ජනපති සටනේ රහස් - ජනාධිපති අපේක්ෂකයන් කතා කළේ මොනවාද?
+### What did the secretary candidates speak the Presidential fight?
 
 *2024-08-16 10:27:54* · [`adalk`](https://www.ada.lk/opinion/ජනපති-සටනේ-රහස්---ජනාධිපති-අපේක්ෂකයන්-කතා-කළේ-මොනවාද-/2-411405) · `si`
 
-ජනාධිපතිවරණයේ නාමයෝජනා බාරගැනීමේ අවස්ථාවේදී බොහෝදෙනෙකුගේ අවධානය යොමු වී තිබුණේ ජනාධිපති අපේක්ෂකයන් එකිනෙකාට මුණගැසුණු අවස්ථාවන් දෙසටයි.
+In the lead-up to the presidential elections, various candidates including Ranil Wickremesinghe, Sajith Premadasa, and others engaged in discussions and interactions. Notably, Namal Rajapaksa, associated with both the Sri Lankan Civil Front and his family's political history, was mentioned frequently. Despite initial concerns about candidate meetings, these interactions continued, with Wickremesinghe meeting with Dinesh Gunawardena and others. Dr. Wijayadasa Rajapaksa also visited Wickremesinghe, discussing legal matters. Meanwhile, Namal Rajapaksa received support from various quarters, including Anura Kumara Dissanayake. The nomination period concluded with a mix of support and criticism, highlighting the dynamic nature of the electoral process.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ ස්වාධීන අපේක්ෂකයෙකු ලෙස නාමයෝජනා බාරදුන් අතර, විපක්ෂ නායක සජිත් ප්‍රේමදාස නාමයෝජනා බාරදුන්නේ සමගි ජනබලවේගයේ අපේක්ෂකයා ලෙසය.
+🟩
 
-ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂකයා ලෙස එහි නායක අනුර කුමාර දිසානායක නාමයෝජනා බාරදුන් අතර, ශ්‍රී ලංකා පොදුජන පෙරමුණ වෙනුනේ නාමයෝජනා බාරදුන්නේ එම පක්ෂයේ ජාතික සංවිධායක ලක්ෂමන් නාමල් රාජපක්ෂය.
+At the time of taking over the nominations of the presidential election, many were concerned about when the presidential candidates meet each other.
 
-ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා, දිලිත් ජයවීර, ජනාධිපති නීතිඥ ආචාර්ය විජේදාස රාජපක්ෂ, පූජ්‍ය බත්තරමුල්ලේ සීලරතන හිමි ඇතුළු 39දෙනෙක් 9වැනි විධායක ජනාධිපතිවරයා තෝරා පත්කර ගැන්ම වෙනුවෙන් නාමයෝජනා භාරදී තිබුණි.
+President Ranil Wickremesinghe handed over nominations as an independent candidate and the opposition leader Sajith Premadasa was nominated as the candidate of reconciliation.
 
-ඒ අපේක්ෂකයන්ගේ නම් ප්‍රකාශ කරන විට බොහෝ දෙනෙකුගේ අවධානය යොමු වූයේ නාමල් රාජපක්ෂ යනුවෙන් නම් දෙකක් සඳහන් වීමයි. එක් නාමල් රාජපක්ෂ කෙනෙකු ශ්‍රී ලංකා පොදුජන පෙරමුණ හෙවත් පොහොට්ටුවේය. අනෙක් නාමල් රාජපක්ෂ සමබිම පක්ෂයේය.
+Leader of the Sri Lanka Kumara Dissanayake was handed over to the Sri Lanka Kumara Kumara Dissanayake as the presidential candidate of the national popularity.
+
+Field Marshal Sarath Fonseka, Dilith Jayaweera, President's Counsel Dr. Wijedasa Rajapakse, Ven
+
+When the names of those candidates, many were referring to two names as Namal Rajapaksa. One Namal Rajapaksa has made a Sri Lankan Civil Front or Pogket. The other Namal Rajapaksa is the party.
+
+Namal Rajapaksa's name was known as Lakshman Namal Rajapaksa. The name Lakshman is not a new name for the Rajapaksas. Lakshman Rajapakse is Mahinda Rajapaksa's big bapane. Lakshman Rajapaksa's daughter Nirupama Rajapaksa.
 
 ...
 
 [Data](articles/b5754705.json)
+
+[Extended Data](ext_articles/b5754705.ext.json)
 
 ---
 

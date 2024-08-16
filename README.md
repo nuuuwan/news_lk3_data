@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 20:55:11**
+As of **2024-08-16 21:06:12**
 
 ## Newspaper Stats
 
-*Scraped **41,118** Articles*
+*Scraped **41,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,804
+adaderanalk | 4,805
 tamilmirrorlk | 5,264
 virakesarilk | 6,521
 adaderanasinhalalk | 6,999
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,115 (100.0%) of 41,118 articles have been extended.
+41,118 (100.0%) of 41,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### දිස්ත්‍රික්ක තුනකට අනතුරු ඇඟවීමක්
+### Advisory issued for heavy rainfall in parts of the country
+
+*2024-08-16 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/101294/advisory-issued-for-heavy-rainfall-in-parts-of-the-country) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rainfall, valid for the next 12 hours, for the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Prevailing showery condition over the South Western parts of the Island is expected to enhanced due to the low-level atmospheric disturbance in the vicinity of Sri Lanka during today and tomorrow (17), it said.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the advisory warns.
+
+The general public is therefore kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2620f4f6.json)
+
+---
+
+### A warning to three districts
 
 *2024-08-16 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200014) · `si`
 
-පවතින අධික වර්ෂාව හමුවේ දිස්ත්‍රික්ක තුනක් සඳහා පූර්ව නායයාමේ අනතුරු ඇඟවීම් නිකුත් කිරීමට පියවර ගෙන තිබේ.
+Pre-landslide alerts have been issued for four areas: Neluwa, Elhugoda, Elpitiya, and Pitabeddaras in Matara district. The NBRO warns these regions starting from today at 7:30 pm.
 
-ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නෙළුව, ඇල්පිටිය, ⁠නාගොඩ, ⁠යක්කලමුල්ල යන ප්‍රදේශ සඳහාත් කළුතර දිස්ත්‍රික්කයේ හොරණ, ⁠මතුගම මෙන්ම මාතර දිස්ත්‍රික්කයේ පිටබැද්දර යන ප්‍රදේශ සඳහාත් මේ අනුව නායයෑමේ අනතුරු ඇ﻿ඟවීම් නිකුත් කර ඇත.
+🟩
 
-අද (16) පස්වරු 7.30 සිට හෙට පස්වරු 7.30 දක්වා වූ කාලය තුළ මෙම අනතුරු ඇඟවීමේ නිවේදනය වලංගු බව ජාතික ගොඩනැගිලි හා පර්යේෂණ සංවිධානය පවසයි.
+Steps have been taken to issue pre-landslides alerts for three districts in the face of existence.
+
+The landslide has been issued for Neluwa, Elhugoda, Elpitiya, and Pitabeddaras in the Matara district.
+
+The National Building and Research Organization (NBRO) says that the warning notification is valid today (16) at 7.30 pm tomorrow.
 
 ◼️
 
 [Data](articles/f6df8310.json)
+
+[Extended Data](ext_articles/f6df8310.ext.json)
 
 ---
 
@@ -90,19 +114,25 @@ Police said that as a result, only one lane is open for vehicular movements towa
 
 ---
 
-### நிரோஷனுக்கு தடை
+### Banning for Nirotion
 
 *2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரோஷனுக்கு-தடை/175-342293) · `ta`
 
-ஊக்கமருந்து தடுப்பு சட்டத்தை மீறியதாக இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்ல மீது குற்றம்சாட்டப்பட்டுள்ளது.
+Niroshan Dikwella, a Sri Lankan cricketer, has been banned from all cricket activities due to violating the Pharmaceutical Prevention Act during the 2024 Lanka Premier League. The ban follows a doping test conducted by SLADA.
 
-2024 லங்கா பிரீமியர் லீக் (LPL) போட்டித் தொடரில், இலங்கை ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தினால் (SLADA) நடத்தப்பட்ட ஊக்கமருந்து சோதனையில் இது தெரியவந்துள்ளது.
+🟩
 
-அதன்படி, மறு அறிவித்தல் வரை அனைத்து வகையான கிரிக்கெட் போட்டிகளிலும் அவருக்கு தடை விதிக்கப்பட்டுள்ளது.  R
+Sri Lankan cricketer Niroshan Dikwella has been accused of violating the Pharmaceutical Prevention Act.
+
+This was revealed in a doping test conducted by the Sri Lanka Drug Prevention Agency (SLADA) in the 2024 Lanka Premier League (LPL) tournament.
+
+Accordingly, he has been banned in all kinds of cricket matches until re -announcement.R
 
 ◼️
 
 [Data](articles/cc64bee6.json)
+
+[Extended Data](ext_articles/cc64bee6.ext.json)
 
 ---
 
@@ -250,19 +280,27 @@ Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 
 
 ---
 
-### ජයගැනීමෙන් පසු තාක්ෂණික විප්ලවයක් ඇති කරනවා
+### After winning a technical revolution
 
 *2024-08-16 18:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ජයගැනීමෙන්-පසු-තාක්ෂණික-විප්ලවයක්-ඇති-කරනවා/11-411410) · `si`
 
-තමන් ජයග්‍රහණය කිරීමෙන් පසුව මේ රටේ තාක්ෂණික විප්ලවයක් ඇති කරන බවත් මෙරට විරැකියාවට තිත තබන බවත් තරුණයන් කෘෂිකාර්මික විවසායකයන් බවට පත් කිරීමේ වැඩසටහනක් දියත් කරන බව  පොදු පෙරමුණු ජනාධිපතික්ෂක් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්‍ෂ මහතා 16 දින පස්වරුවේ දඹුල්ලේ දී පැවසීය.
+Namal Rajapaksa, following a victory, emphasized the importance of a technical revolution led by the youth to transform the country. This sentiment was echoed during his warm reception at a ceremony organized by the Dambulla Economic Center, en route from Anuradhapura to Kandy, where he addressed numerous supporters. His focus on addressing unemployment and fostering technological advancement resonated with the crowd.
 
-නාමල් රාජපක්ෂ මහතා පිළිගැනීමේ උත්සවයක් දඹුල්ල ආර්ථික මධ්‍යස්ථානය අසලදී පැවැත්විණි , දඹුල්ල හිටපු නගරාධි පති ජාලිය ඕපාත මහතා මෙම පිළිගැනීමේ උත්සවය සංවිධානය කොට තිබෙනු අතර පාර්ලිමේන්තු මන්ත්‍රී නාලක කෝට්ටේ ගොඩ මහතා ද මෙම අවස්ථාවට එක්ව සිටියහ.
+🟩
 
-අනුරාධපුරයේ සිට මහනුවර බලා ගමන් කරමින් සිටියදී මෙම පිළිගැනීමේ උත්සවය සංවිධානය කොට තිබිණි, එහිදී විශාල පිරිසක් නාමල් රාජපක්ෂ මහතා පිළිගැනීම සඳහා දඹුල්ල  ආර්ථික මධ්‍යස්ථානයේ අසලට පැමිණ සිටියහ .
+Namal Rajapaksa said that the youth would have a technical revolution in this country after they win and put an technical revolution in the country.
 
-...
+The welcome ceremony was organized by the Dambulla Economic Center by the Dambulla Economic Center.
+
+The welcome ceremony was organized while traveling from Anuradhapura to Kandy, a large number of people were in the Dambulla Economic Center to accept Namal Rajapaksa.
+
+Namal Rajapaksa was warmly welcomed with the people, the Rajapaksa journalists who came to the road to the unemployment under their government and implement a technical revolution in the country and implementing a technical revolution.
+
+◼️
 
 [Data](articles/dad07bf2.json)
+
+[Extended Data](ext_articles/dad07bf2.ext.json)
 
 ---
 
@@ -2267,29 +2305,5 @@ The Executive Director of PAFFREL, Rohana Hettiarachchi, stated that this decisi
 [Data](articles/decdb0c2.json)
 
 [Extended Data](ext_articles/decdb0c2.ext.json)
-
----
-
-### Sri Lanka welcomes Canada's position following the ban on the Liberation Tigers of Tamil Eelam (LTTE)
-
-*2024-08-16 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191187) · `ta`
-
-Sri Lanka appreciates Canada's continued inclusion of the Liberation Tigers of Tamil Eelam (LTTE) on its list of banned organizations, acknowledging the group's ongoing international fundraising efforts and potential threat.
-
-🟩
-
-The Sri Lankan government has welcomed the list of recently renewed organizations by the Canadian government.
-
-The Canadian government included the list of banned organizations in 2006 in 2006. The edition will be subjected to a review once in 5 years. Accordingly, the post was reinstated on the 7th of June this year. The updated list also includes the name of the Liberation Tigers of Tamil Eelam (LTTE). A statement has been issued by the Foreign Ministry to welcome this.
-
-It is said that the Canadian government has decided to continue to include the Liberation Tigers of Tamil Eelam (LTTE) and the Liberation Tigers of Tamil Eelam (LTTE) to join the World Tamil Organization.
-
-According to the recent renewal review by the Canadian government, the Ministry of External Affairs has pointed out that the remnants of the Liberation Tigers of Tamil Eelam (LTTE) are reportedly engaged in fundraising internationally.
-
-...
-
-[Data](articles/f83ead32.json)
-
-[Extended Data](ext_articles/f83ead32.ext.json)
 
 ---

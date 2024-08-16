@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 22:36:28**
+As of **2024-08-16 22:54:46**
 
 ## Newspaper Stats
 
-*Scraped **41,131** Articles*
+*Scraped **41,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ dailymirrorlk | 4,733
 adaderanalk | 4,806
 tamilmirrorlk | 5,267
 virakesarilk | 6,527
-adaderanasinhalalk | 7,001
+adaderanasinhalalk | 7,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,130 (100.0%) of 41,131 articles have been extended.
+41,131 (100.0%) of 41,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### අයර්ලන්තයට ජය
+
+*2024-08-16 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200017) · `si`
+
+අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට එරෙහි තරග 03කින් යුත් එක්දින ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් පැවති පළමු තරගයෙන් ජය ගැනීමට අයර්ලන්ත කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/e29919ff.json)
+
+---
 
 ### Ferry service between Sri Lanka and India resumes
 
@@ -47,6 +59,8 @@ In order to make service more affordable for passengers, Government of India has
 ...
 
 [Data](articles/000afc01.json)
+
+[Extended Data](ext_articles/000afc01.ext.json)
 
 ---
 
@@ -2273,31 +2287,5 @@ In addition, the cause of the shooting has not yet been identified and investiga
 [Data](articles/d0a0a2f0.json)
 
 [Extended Data](ext_articles/d0a0a2f0.ext.json)
-
----
-
-### “The. 60 crores bought by Chanakyan ”
-
-*2024-08-16 10:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-60-கோடி-வாங்கினார்-சாணக்கியன்/175-342273) · `ta`
-
-Chanakyan, a Relo organization secretary, alleges that Parliamentarian Ranil Wickremesinghe received Rs 60 crore from President Wickremesinghe. However, TNA MP R. Sanakian clarifies it as a multi-pronged fund for MPs' District Development Programs. Govindan Karunagaram's accusation is seen as politically motivated.
-
-🟩
-
-Relo organization secretary and parliamentarian Govindan Karunagaram alleges that Parliamentarian Ranil Wickremesinghe has personally received Rs 60 crore from President Ranil Wickremesinghe.
-
-However, the Sri Lanka Tamil National Alliance (TNA) parliamentarian R. Sanakian said, "
-
-He noted that he was awarded a multi -pronged fund for MPs for the District Development Programs.
-
-In view of the proposals made by them, the funds provided by the district are currently undergoing development programs in the district.
-
-Govindan Karunagaram has made such an allegation for political purposes. Remble
-
-◼️
-
-[Data](articles/9341bd88.json)
-
-[Extended Data](ext_articles/9341bd88.ext.json)
 
 ---

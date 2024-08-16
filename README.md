@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 10:36:19**
+As of **2024-08-16 10:55:02**
 
 ## Newspaper Stats
 
-*Scraped **41,025** Articles*
+*Scraped **41,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,490
 dailyftlk | 2,664
-adalk | 3,776
+adalk | 3,777
 dailymirrorlk | 4,733
 adaderanalk | 4,788
 tamilmirrorlk | 5,245
 virakesarilk | 6,497
-adaderanasinhalalk | 6,977
+adaderanasinhalalk | 6,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,025 (100.0%) of 41,025 articles have been extended.
+41,025 (100.0%) of 41,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### රනිල් ට පක්ෂ හා සන්ධාන 34ක සහාය
+
+*2024-08-16 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199993) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් "පුළුවන් ශ්‍රී ලංකා” සම්මුතියට පක්ෂ හා සන්ධාන 34ක් අත්සන් කර තිබේ.
+
+අද (16) පෙරවරුවේ බත්තරමුල්ල වෝටස් එජ් හෝටලයේ දී ඊට අත්සන් තබා ඇත.
+
+◼️
+
+[Data](articles/fde43c70.json)
+
+---
+
+### මහින්ද සහ නාමල් ආශිර්වාද ගන්න යයි
+
+*2024-08-16 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199992) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂක නාමල් රාජපක්ෂ මහතා සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඇතුළු පිරිසක් අද (16) අනුරාධපුර ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැදපුදා ආශිර්වාද ලබාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/c2985e1a.json)
+
+---
 
 ### Chanakyan bought Rs 60 crore from Ranil
 
@@ -1114,11 +1140,11 @@ The PA's supporters gathered in front of the Elections Commission and greeted Na
 
 ---
 
-### 
+### 39 Candidates  Contesting in Sri Lanka’s Presidential Election Scheduled for 21 September;Incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and JVP/NPP Leader Anura Kumara Dissanayake  are top Contenders
 
 *2024-08-16 00:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84539) · `en`
 
-s 39 presidential aspirants will contest a crucial poll in Sri Lanka on September 21, the Election Commission said on Thursday (August 15, 2024), after closing nominations.
+As many as  39 presidential aspirants will contest a crucial poll in Sri Lanka on September 21, the Election Commission said on Thursday (August 15, 2024), after closing nominations.
 
 Incumbent President Ranil Wickremesinghe, who rose to the top office through a parliamentary vote during the island nation’s 2022 crisis, is seeking a mandate to take forward his government’s economic reform agenda.
 
@@ -1463,6 +1489,22 @@ Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for
 [Data](articles/0f39edfa.json)
 
 [Extended Data](ext_articles/0f39edfa.ext.json)
+
+---
+
+### අපේක්ෂකයන් වැඩිවෙයි - මුද්‍රණ වියදමත් වැඩි වෙයි
+
+*2024-08-15 20:02:37* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-වැඩිවෙයි---මුද්‍රණ-වියදමත්-වැඩි-වෙයි/11-411403) · `si`
+
+ජනාධිපතිවරණය සඳහා අපෙක්ෂකයන් 39 දෙනෙකු ඉදිරිපත් වීම නිසා මැතිවරණයට අදාළ මුද්‍රණ කටයුතුවලට දැනට ඇස්තමේන්තු කර තිබෙන මුදල ඉහළ යා හැකි බව රජයේ මුද්‍රණාලයේ සේවකයෝ සඳහන් කරති.
+
+2019 වසරේ පැවැති ජනාධිපතිවරණයට අදාළව අපෙක්ෂකයන් 35 ක් ඉදිරිපත් වූ අතර මෙම ප්‍රමාණය මෙවරද ඉදිරිපත්  විය හැකි බවට අනුමාන කර මුද්‍රණ වියදම් ලෙස රුපියල් මිලියන අටසීයක මුදලක් වැයවෙතැයි ගණන් බලා තිබුණි.
+
+එවර මැතිවරණයේදි අඟල් 26 ක ඡන්ද පත්‍රිකාවක් සකස් කර තිබු අතර මෙවර අපේක්ෂකයන් 39 ක් ඉදිරිපත් වී සිටින නිසා මුද්‍රණ වියදම් ඉහළ යාම සිදුවේ.
+
+◼️
+
+[Data](articles/10267074.json)
 
 ---
 
@@ -2195,73 +2237,5 @@ The court has also set to release 6 other suspects arrested on the incident on p
 [Data](articles/c5230791.json)
 
 [Extended Data](ext_articles/c5230791.ext.json)
-
----
-
-### Sajith triumph
-
-*2024-08-15 16:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-வெற்றிக்கோஷம்/175-342233) · `ta`
-
-Supporters rallied near Sri Lanka's Election Commission in Rajagiriya for opposition leader Sajith Premadasa, who submitted his nomination for the 2024 presidential election. Following this, he addressed the crowd.
-
-🟩
-
-A large number of party supporters gathered near the Elections Commission located in Rajagiriya to support the opposition leader Sajith Premadasa, who had filed a nomination papers in the 2024 presidential election.
-
-After handing over the nomination, opposition leader Sajith Premadasa addressed the gathering.
-
-◼️
-
-[Data](articles/3c824d4f.json)
-
-[Extended Data](ext_articles/3c824d4f.ext.json)
-
----
-
-### Student abuse; lover arrested
-
-*2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவி-துஷ்பிரயோகம்-காதலன்-கைது/175-342232) · `ta`
-
-A 19-year-old was arrested for allegedly sexually abusing a 16-year-old schoolgirl he had a relationship with. The incident occurred near Thetakukamanda, and both parties have been referred for medical examinations.
-
-🟩
-
-A 19 -year -old youth was arrested by Kadirgamam police on Wednesday evening on Wednesday evening on suspicion of sexually abusing a schoolgirl in Grade 11 at Kadirgamam National School.
-
-The suspect has been arrested by the police, who are investigating the complaint of the school principal.
-
-Investigations revealed that the 16 -year -old girl fell in love with the suspect and took her to the Thetakukamanda area and took off her clothes there.
-
-However, the student has been sent to the Kadirgamam Hospital for medical examination and the suspect is to be produced before the court.
-
-◼️
-
-[Data](articles/0e7a877f.json)
-
-[Extended Data](ext_articles/0e7a877f.ext.json)
-
----
-
-### Lover arrested for hugging clothes
-
-*2024-08-15 16:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடைகளை-களைந்து-அணைத்த-காதலன்-கைது/175-342232) · `ta`
-
-A 19-year-old was arrested for allegedly sexually abusing a 16-year-old girl he claimed to be in love with. The incident occurred near Thetakukamanda, and both parties have been referred for medical examinations.
-
-🟩
-
-A 19 -year -old youth was arrested by the Kadirgamam police on Wednesday evening on Wednesday evening on suspicion of sexually abusing a schoolgirl in Grade 11 at Kadirgamam National School.
-
-The suspect has been arrested by the police, who are investigating the complaint of the school principal.
-
-Investigations revealed that the 16 -year -old girl fell in love with the suspect and took her to the Thetakukamanda area and took off her clothes there.
-
-However, the student has been sent to the Kadirgamam Hospital for medical examination and the suspect is to be produced before the court.
-
-◼️
-
-[Data](articles/94f800d4.json)
-
-[Extended Data](ext_articles/94f800d4.ext.json)
 
 ---

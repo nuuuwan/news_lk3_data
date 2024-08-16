@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 00:54:10**
+As of **2024-08-17 01:06:22**
 
 ## Newspaper Stats
 
-*Scraped **41,150** Articles*
+*Scraped **41,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 382
 colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,499
-dailyftlk | 2,672
+dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
-tamilmirrorlk | 5,268
+tamilmirrorlk | 5,269
 virakesarilk | 6,530
 adaderanasinhalalk | 7,002
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,150 (100.0%) of 41,150 articles have been extended.
+41,150 (100.0%) of 41,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### SJB and Maithripala refute alliance rumours
+
+*2024-08-17 00:55:09* · [`dailyftlk`](https://www.ft.lk/news/SJB-and-Maithripala-refute-alliance-rumours/56-765688) · `en`
+
+SJB says party has no intention or need to join hands with Maithripala Sirisena as reported
+
+Says such claims are entirely fabricated and are being disseminated by Govt.-aligned groups
+
+Maithrpala Sirisena says he has not made any decision to support a candidate in 2024 Presidential Election yet
+
+The Samagi Jana Balawegaya (SJB) has refuted claims that former President Maithripala Sirisena has joined their ranks in support of SJB leader Sajith Premadasa’s Presidential candidacy.
+
+In a statement released yesterday, SJB Media Spokesperson S.M. Marikkar accused Government-aligned groups of fabricating and spreading false news through both traditional and social media channels.
+
+He said that the reports of Sirisena joining forces with the SJB are entirely fabricated and emphasised that the SJB has no intention or need to form an alliance with Sirisena.
+
+...
+
+[Data](articles/1b013f52.json)
+
+---
+
+### SLMC MP Moulana backs President
+
+*2024-08-17 00:54:50* · [`dailyftlk`](https://www.ft.lk/news/SLMC-MP-Moulana-backs-President/56-765687) · `en`
+
+Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana yesterday pledged his support to President Ranil Wickremesinghe.
+
+Moulana, who met with the President at the Presidential Operations Office, confirmed his backing for Wickremesinghe in the upcoming Presidential Election.
+
+Moulana has been active in politics since 1988 and was first elected to Parliament in 1994.
+
+◼️
+
+[Data](articles/0c6dc843.json)
+
+---
+
+### Marikkar declares Sajith Premadasa the people’s choice
+
+*2024-08-17 00:54:10* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-declares-Sajith-Premadasa-the-people-s-choice/56-765686) · `en`
+
+SJB’s S.M. Marikkar describes Ranil Wickremesinghe, Namal Rajapaksa as part of SL’s aristocratic class and AKD as supporter of class
+
+Says upcoming Presidential Election will be battle of SL’s classes and Premadasa is leader of common man
+
+Accuses Govt. of issuing bar permits and handing out financial incentives to secure support
+
+Samagi Jana Balawegaya (SJB) MP and Media Spokesman S.M. Marikkar has declared that within the next 40 days, SJB leader Sajith Premadasa, the leader of the common people, will be elected President.
+
+Speaking at the inaugural rally launching Premadasa’s election campaign in Kurunegala yesterday, Marikkar asserted that not all 39 candidates running in the election are genuine contenders. He noted that, aside from Premadasa, there are only three other serious candidates.
+
+...
+
+[Data](articles/1c8ce011.json)
+
+---
+
+### Ferry service between Nagapattinam and Kankesanthurai resumes
+
+*2024-08-17 00:52:32* · [`dailyftlk`](https://www.ft.lk/news/Ferry-service-between-Nagapattinam-and-Kankesanthurai-resumes/56-765685) · `en`
+
+The passenger ferry service between Nagapattinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka resumed yesterday.
+
+The transport service, which was launched earlier in October 2023, was temporarily halted.
+
+The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed its maiden journey between Nagapattinam and KKS in around four hours with around 50 passengers on board. The passengers were welcomed at the KKS Port by the Consul General of India at Jaffna.
+
+This resumption of the ferry service is a testament to the broader effort to enhance maritime connectivity between India and Sri Lanka.
+
+In order to make the service more affordable for passengers, the Government of India has decided to provide financial assistance of over Rs. 25 million per month, for a period of one year, to cover relevant charges and operating costs at Nagapattinam Port.
+
+...
+
+[Data](articles/f919cf60.json)
+
+---
+
+### ’தடுப்பூசி உற்பத்திகளை விரைவுபடுத்துக’
+
+*2024-08-17 00:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-உற்பத்திகளை-விரைவுபடுத்துக/175-342309) · `ta`
+
+எம்பொக்ஸ் நோய்த் தடுப்பூசிகள் உற்பத்தி செய்யும் செயற்பாடுகளை விரைவுபடுத்துமாறு உலக சுகாதார ஸ்தாபனம், விடயத்துடன் தொடர்புடைய நிறுவனங்களை அறிவுறுத்தியுள்ளது.
+
+எம்பொக்ஸ் நோய் தாக்கம் அதிகரித்துள்ள நிலையில் உலக சுகாதார ஸ்தாபனம் அதனை உலக பொது சுகாதார அவசரகால நிலையாக பிரகடனப்படுத்தியுள்ள நிலையில் இவ் அறிவுறுத்தலையும் விடுத்துள்ளது.
+
+எம்பொக்ஸ் என்ற குரங்கு காய்ச்சலானது ஆபிரிக்க கண்டத்தின் 13 நாடுகளில் பரவியுள்ளதாக அந்த ஸ்தாபனம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/b8aa659b.json)
+
+---
 
 ### Sri Lanka taps prospects for more exports to Pakistan
 
@@ -2125,127 +2219,5 @@ The teacher who has been on duty at the school for the past five years has been 
 [Data](articles/9c361cd7.json)
 
 [Extended Data](ext_articles/9c361cd7.ext.json)
-
----
-
-### Work for three years continuously;Salaries on the basis of 65 % per day;Injustice inflicted on a woman working at the Sri Lankan diplomat's house in Australia
-
-*2024-08-16 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191200) · `ta`
-
-Priyanka Tanaratne, a Sri Lankan woman employed at a diplomat's residence in Australia from 2015 to 2018, faced exploitation, earning just $11,211 over three years despite working non-stop except for two days' leave. She was paid less than the minimum wage, denied overtime pay, and lacked proper documentation. The Australian court found her employer, Himali Arunathilaka, a Sri Lankan deputy ambassador, guilty of violating labor laws, ordering her to pay $543,000 in back wages and damages.
-
-🟩
-
-Priyanka Tanaratne came from Sri Lanka to work at the Sri Lankan diplomat's house just a decade ago.
-
-However, when he came to Canberra, David Hillary, one of the partners of Ketan Woods, said that his beliefs were broken when he was in a slave arrangement.
-
-He was hired from 2015 to 2018 at the residence of Himali Arunathilaka, a Sri Lankan deputy ambassador to Australia.
-
-He worked for three years and seven days, only two days of leave during that period, and David Hilart says he was given leave for two days as he shot his hand while cooking.
-
-Over the next three years, he has only paid $ 11,211.
-
-David Hillary says that the woman has been working for three consecutive years.
-
-When the Sri Lankan woman started working in Australia, Australia's basic salary was $ 656 per 38 hours.
-
-He was paid a lower salary, and David Hillary, who claimed that he had worked for more time than he was allowed. This is contrary to Australia's laws.
-
-...
-
-[Data](articles/84b72908.json)
-
-[Extended Data](ext_articles/84b72908.ext.json)
-
----
-
-### Thailand's highest person to be appointed as Prime Minister
-
-*2024-08-16 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199996) · `si`
-
-Shirianathra Thai, the daughter of Thailand's former Prime Minister, has become the country's youngest Prime Minister, making history as the fourth woman to hold this position.
-
-🟩
-
-Prime Minister PM Thai Shirianathra has been elected to the removal of the Prime Minister of Thai Prime Minister.
-
-She is the daughter of the Prime Minister of Thai Thaiman and the youth of the past.
-
-During her ten decades, the fourth politician appointed as Prime Minister of Shadow.
-
-◼️
-
-[Data](articles/a392fe31.json)
-
-[Extended Data](ext_articles/a392fe31.ext.json)
-
----
-
-### Health Department Warning in Tamil Nadu regarding the epidemic
-
-*2024-08-16 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191195) · `ta`
-
-Tamil Nadu's Health Department issued a warning due to an epidemic, confirming infections in Africa and Sweden. WHO declared it an emergency. They've circulated guidelines to district health officials and airport health officers. It advises caution, especially towards travelers from Congo and Central Africa, requiring temperature checks. Those arriving from affected areas within the last 21 days should be monitored closely. If symptoms appear, they must inform airlines to help prevent further spread.
-
-🟩
-
-Infection in African countries is also confirmed in Sweden. The World Health Organization has already declared an emergency.
-
-In this case, the Tamil Nadu Public Health Department has sent a circular to the health officials of the district and the health officials of the airports in Tamil Nadu.
-
-“If the rest of the monk is vulnerable, if the rest of the. Also, the authorities must be cautious. In particular, those who come from Congo and Central African countries should be cautious. Travelers should undergo a temperature test.
-
-Find those who come from the affected countries within the last 21 days. Strengthen the arrangements to prescribe people who have signs of monkeys.
-
-If anyone is diagnosed with the impact, he must report to the airline he traveled. The airline must take steps to prevent the spread of infection ”
-
-◼️
-
-[Data](articles/5fa33d41.json)
-
-[Extended Data](ext_articles/5fa33d41.ext.json)
-
----
-
-### Paetongtarn Shinawatra becomes Thailand’s youngest PM
-
-*2024-08-16 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101280/paetongtarn-shinawatra-becomes-thailands-youngest-pm) · `en`
-
-Thailand’s Parliament elected Paetongtarn Shinawatra, the youngest daughter of the divisive former leader Thaksin Shinawatra, as the country’s new prime minister Friday.
-
-Paetongtarn becomes Thailand’s third leader from the Shinawatra family, after her father, who was ousted by coup before returning from exile last year, and her aunt Yingluck Shinawatra, who lives in exile. Paetongtarn also became Thailand’s second female prime minister after her aunt and the country’s youngest leader at 37.
-
-She is the leader of the ruling Pheu Thai party but was not an elected lawmaker, which was not required for her to be a candidate for prime minister. Paetongtarn was the sole nominee and got a majority of the votes in Parliament with the voting ongoing.
-
-The last prime minister had been removed by the Constitutional Court two days ago over an ethics violation.
-
-...
-
-[Data](articles/08d36cfd.json)
-
-[Extended Data](ext_articles/08d36cfd.ext.json)
-
----
-
-### Ranil boycotted Maithri's messenger
-
-*2024-08-16 11:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-தூதை-புறக்கணித்தார்-ரணில்/175-342275) · `ta`
-
-Maithripala Sirisena sent a message to Ranil Wickremesinghe during the presidential election, which was rejected by Wickremesinghe. The Agriculture Minister, Mahinda Amaraweera, revealed this, stating Wickremesinghe advised against supporting someone he deemed unreliable. This incident highlights the political tensions and dynamics within Sri Lanka's political landscape.
-
-🟩
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera has said that former President Maithripala Sirisena had sent a message to Ranil Wickremesinghe in the presidential election, but the president had rejected the request.
-
-Mahinda Amaraweera said that the president rejected the request and told him not to support the unbeliever.
-
-“The former leader of our party is now unable to go. No party wants him to accept him. When he distorts his confidence, he is now looking for a lot of garbage somewhere. However, a former president said, "We are sorry for the so -downed state," the minister said, "The Minister said," We are meeting representatives of the Sri Lanka Freedom Party (SLFP) election committee in Beliam. "
-
-◼️
-
-[Data](articles/f084c1c6.json)
-
-[Extended Data](ext_articles/f084c1c6.ext.json)
 
 ---

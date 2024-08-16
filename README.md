@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 09:21:03**
+As of **2024-08-16 09:36:48**
 
 ## Newspaper Stats
 
-*Scraped **41,013** Articles*
+*Scraped **41,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,490
 dailyftlk | 2,664
-adalk | 3,774
+adalk | 3,775
 dailymirrorlk | 4,733
-adaderanalk | 4,787
+adaderanalk | 4,788
 tamilmirrorlk | 5,241
-virakesarilk | 6,495
-adaderanasinhalalk | 6,975
+virakesarilk | 6,497
+adaderanasinhalalk | 6,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,013 (100.0%) of 41,013 articles have been extended.
+41,013 (100.0%) of 41,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### அநுராதபுரத்தில் துப்பாக்கிச் சூடு ; ஒருவர் பலி
+
+*2024-08-16 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
+
+அநுராதபுரம் - ஸ்ரீபுர, கெமுனுபுர, பிள்ளையார் சந்தியில் இன்று  வெள்ளிக்கிழமை (16) அதிகாலை இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த துப்பாக்கிச் சூட்டுக்கு T56 ரக துப்பாக்கி பயன்படுத்தப்பட்டுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+
+மேலும், துப்பாக்கிச் சூட்டுக்கான காரணம் இதுவரை கண்டறியப்படவில்லை எனவும்  சந்தேக நபர்களை கண்டறிவதற்காக  விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d0a0a2f0.json)
+
+---
+
+### යතුරුපැදි අනතුරකින් තරුණයෙක් මරුට
+
+*2024-08-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199989) · `si`
+
+යතුරුපැදි දෙකක් එකිනෙක ගැටී සිදුවූ අනතුරකින් එක් යතුරුපැදිකරුවෙක් බරපතළ තුවාල ලබා රෝහල්ගත කිරීමෙන් පසු මියගොස් තිබේ.
+
+මෙම අනතුර සිදුවී ඇත්තේ ඊයේ (15) හංවැල්ල පොලිස් වසමේ ඇඹුල්ගම පනාගොඩ මාර්ගයේ ජල්තර ප්‍රදේශයේදීය.
+
+යතුරුපැදි දෙක එකිනෙක ගැටීමෙන් අනතුරුව එක් යතුරුපැදියක් මාර්ගයෙන් ඉවතට පැන අසල තිබූ දුරකථන රැහැන් කණුවක ද ගැටී තිබේ.
+
+අනතුරෙන් යතුරුපැදි දෙකෙහිම පැදිකරුවන් දෙදෙනා තුවාල ලබා හෝමාගම රෝහලට ඇතුළත් කෙරුණු අතර පසුව එක් අයෙක් මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/80621338.json)
+
+---
+
+### SLPP to take disciplinary action against members supporting President Ranil
+
+*2024-08-16 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101276/slpp-to-take-disciplinary-action-against-members-supporting-president-ranil) · `en`
+
+It has been reported that strict disciplinary action has been decided against members of the Sri Lanka Podujana Peramuna (SLPP) who are supporting Ranil Wickramasinghe in the 2024 presidential election.
+
+A spokesperson for the SLPP stated that letters informing of this decision will be forwarded to the relevant MPs as soon as possible.
+
+It is also mentioned that after taking disciplinary actions, the party membership of MPs who opposed the party’s decision will be cancelled.
+
+The SLPP politburo recently met to discuss the party’s approach to the presidential election. During the meeting, it was decided to nominate a candidate from the party and to suspend the membership of any member acting against the party’s decisions, regardless of their position.
+
+...
+
+[Data](articles/0eafdfd6.json)
+
+---
 
 ### Decision on election spending limit to be finalized today
 
@@ -45,6 +97,22 @@ The Executive Director of PAFFREL, Rohana Hettiarachchi, stated that this decisi
 [Data](articles/decdb0c2.json)
 
 [Extended Data](ext_articles/decdb0c2.ext.json)
+
+---
+
+### விடுதலைப்புலிகள் இயக்கம் மீதான தடையைத் தொடர்ந்து பேணும் கனடாவின் நிலைப்பாட்டுக்கு இலங்கை வரவேற்பு
+
+*2024-08-16 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191187) · `ta`
+
+கனேடிய அரசாங்கத்தினால் அண்மையில் புதுப்பிக்கப்பட்ட தடைசெய்யப்பட்ட அமைப்புக்கள் அடங்கிய பட்டியலில் தமிழீழ விடுதலைப்புலிகள் இயக்கம் மீளவும் உள்ளடக்கப்பட்டிருப்பது குறித்து இலங்கை அரசாங்கம் வரவேற்பு வெளியிட்டுள்ளது.
+
+கனேடிய அரசாங்கம் கடந்த 2006 ஆம் ஆண்டு தமிழீழ விடுதலைப்புலிகள் இயக்கத்தை தடைசெய்யப்பட்ட அமைப்புக்களின் பட்டியலில் உள்ளடக்கியது. அப்பட்டியல் 5 வருடங்களுக்கு ஒருமுறை மீளாய்வுக்கு உட்படுத்தப்படும். அதற்கமைய இவ்வருடம் ஜுன் மாதம் 7 ஆம் திகதி அப்பட்டியல் மீளப்புதுப்பிக்கப்பட்டிருக்கின்றது. அவ்வாறு புதுப்பிக்கப்பட்ட பட்டியலிலும் விடுதலைப்புலிகள் இயக்கத்தின் பெயர் உள்ளடக்கப்பட்டிருக்கின்றது. இதற்கு வரவேற்பு தெரிவித்து வெளிவிவகார அமைச்சினால் அறிக்கையொன்று வெளியிடப்பட்டுள்ளது.
+
+அவ்வறிக்கையில் 'கனடாவைத் தளமாகக்கொண்டு இயங்கிய உலகத்தமிழ் அமைப்புடன் இணைந்ததாக தமிழீழ விடுதலைப்புலிகள் இயக்கத்தையும் தடைசெய்யப்பட்ட அமைப்புக்களின் பட்டியலில் தொடர்ந்து உள்ளடக்குவதற்கு கனேடிய அரசாங்கம் எடுத்திருக்கும் தீர்மானத்தை வரவேற்கிறோம்' எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f83ead32.json)
 
 ---
 
@@ -1254,6 +1322,24 @@ Minister of Manusha Nanayakkara, who was elected to parliament with the abolitio
 
 ---
 
+### අපේක්ෂකයන්ට ආරක්ෂාව දීම තර්ජන තක්සේරුවක් අනුවයි
+
+*2024-08-15 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්ට-ආරක්ෂාව-දීම-තර්ජන-තක්සේරුවක්-අනුවයි/11-411400) · `si`
+
+ජනාධිපතිවරණයට ඉදිරිපත් වී සිටින සෑම අපේක්ෂකයෙකුටම ආරක්ෂාව ලබා දෙන බවත්,  එක් එක් අපේක්ෂකයාට තිබෙන තර්ජන අනුව තක්සේරුවක් සිදුකර වැඩි දුර ආරක්ෂාවක් ලබා දෙන බවත්, පොලිස්  මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්තිපති නීතිඥ රුවන් ගුණසේකර මහතා සඳහන් කළේය.
+
+අදාළ තක්සෙරුව සිදුකරනු ලබන්නේ බුද්ධි අංශ විසින් බවත්, තක්සේරුව සිදුකර එම වර්තාව කමිටුවකට ලබා දෙන බවත්, මේ අනුව අදාළ කමිටුව විසින් ආරක්ෂාව වැඩි කිරීමට කටයුතු කරන  බවත් හෙතෙම පවසා සිටියේය.
+
+ජනාධිපතිවරණ කාලසීමාවෙහිදී අපේක්ෂකයන්ගේ ආරක්ෂාව සහ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව පිළිබඳව අධීක්ෂණය කිරීම සඳහා කමිටුවක් පත් කර තිබෙන බවත්, මෙම කමිටුවේ සභාපතිත්වය දරන්නේ මහජන ආරක්ෂක අමාත්‍යංශ ලේකම් විසින් බවත් ඒ මහතා සඳහන් කළේය.
+
+මූලිකව සැම අපේක්ෂකයෙකුට යම් ආරක්ෂාවක් හිමිවන බවත්,  එක් එක් අපේක්ෂකයා සභාගිවන රැස්වීම් පිළිබඳව කල්වේලා ඇතිව දැනුම් දීමෙන් අනතුරුව රැස් වීම සඳහත් අවශ්‍ය ආරක්ෂාව ලබා දෙන බවත් පැවසීය.
+
+...
+
+[Data](articles/65a0d1c1.json)
+
+---
+
 ### Issuing new electronic foreign passports in late October
 
 *2024-08-15 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-ඉලෙක්ට්‍රොනික-විදෙස්-ගමන්-බලපත්‍ර-නිකුත්-කිරීම-ඔක්තෝබර්-අගදී/11-411399) · `si`
@@ -2129,97 +2215,5 @@ Earlier in the day,  Eksath Lanka Podujana Pakshaya Secretary Nihal Premakumara
 [Data](articles/b9f3e8e0.json)
 
 [Extended Data](ext_articles/b9f3e8e0.ext.json)
-
----
-
-### National Congress led by MP A.L.M. Ataullah joins forces with President
-
-*2024-08-15 15:14:33* · [`dailyftlk`](https://www.ft.lk/news/National-Congress-led-by-MP-A-L-M-Ataullah-joins-forces-with-President/56-765584) · `en`
-
-Member of Parliament A.L.M. Ataullah and the National Congress, which he leads, have pledged their support to President Ranil Wickremesinghe in the upcoming Presidential election.
-
-Ataullah and his representatives met with the President yesterday to formally announce their backing. He expressed confidence in the President's approach to resolving the country's ethnic issues, emphasising that addressing economic and political challenges is crucial. As a result, he is committed to securing the President's victory.
-
-During the meeting, the National Congress presented a proposal outlining their suggestions for resolving the ethnic problem.
-
-Additionally, the Deshapremi Jana Balawegaya (DJB) has also declared its support for President Wickremesinghe.
-
-...
-
-[Data](articles/61d9592c.json)
-
-[Extended Data](ext_articles/61d9592c.ext.json)
-
----
-
-### Patali and Rishad to support Sajith
-
-*2024-08-15 15:12:44* · [`dailyftlk`](https://www.ft.lk/news/Patali-and-Rishad-to-support-Sajith/56-765583) · `en`
-
-The Ekasath Jana Raja Peramuna (EJRP), led by MP Patali Champika Ranawaka, signed a Memorandum of Understanding (MoU) today to support Presidential candidate Sajith Premadasa. The MoU was formalised at the Grand Monarch Hotel, with Patali Champika Ranawaka and party Secretary Bandula Chandarasekara representing EJRP, while Sajith Premadasa and Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara represented the SJB.
-
-...
-
-[Data](articles/c5155b6c.json)
-
-[Extended Data](ext_articles/c5155b6c.ext.json)
-
----
-
-### Aragalaya Presidential candidate slams capitalism
-
-*2024-08-15 15:10:13* · [`dailyftlk`](https://www.ft.lk/news/Aragalaya-Presidential-candidate-slams-capitalism/56-765582) · `en`
-
-JAS Presidential candidate Nuwan Bopage says main issue to be addressed is plight of SL’s working people and how their situation can be improved
-
-Criticises exploitation of informal sector workers in SL and blames capitalism for it
-
-Says people will suffer same fate regardless of Ranil Wickremesinghe, Sajith Premadasa or Anura Kumara being elected
-
-Jana Aragala Sandhanaya (JAS) Presidential hopeful, Attorney-at-Law Nuwan Bopage, launched a scathing critique of capitalism yesterday.
-
-In his rally address, Bopage emphasised that the main issue to address is the plight of Sri Lanka’s working people and how their situation can be improved.
-
-“A survey by JETRO has revealed that Sri Lanka has the lowest wages in the region,” Bopage noted. “It highlights that a garment worker who generates substantial revenue earns only Rs. 16,000.”
-
-...
-
-[Data](articles/c473c881.json)
-
-[Extended Data](ext_articles/c473c881.ext.json)
-
----
-
-### ECSL fires warning shot to TV channel over biased reporting
-
-*2024-08-15 15:07:55* · [`dailyftlk`](https://www.ft.lk/news/ECSL-fires-warning-shot-to-TV-channel-over-biased-reporting/56-765581) · `en`
-
-The Election Commission of Sri Lanka (ECSL) has issued a warning to a Sinhala language television channel for potentially violating election laws by disregarding the media guidelines set by the ECSL during the election period.
-
-In a communique to the media network, the ECSL noted that the channel had ignored the issued guidelines, highlighting that this constitutes a violation of election laws and urging the network to address the matter promptly.
-
-The ECSL highlighted that some of the main accusations against the network include allocating most of its airtime to promote a single candidate and airing morning programs that express insulting opinions about other candidates. Another serious allegation is that the network has been making statements that violate media ethics, even regarding ongoing court proceedings.
-
-...
-
-[Data](articles/d8b6bf73.json)
-
-[Extended Data](ext_articles/d8b6bf73.ext.json)
-
----
-
-### President Ranil Wickremesinghe signs nomination papers
-
-*2024-08-15 15:06:31* · [`dailyftlk`](https://www.ft.lk/news/President-Ranil-Wickremesinghe-signs-nomination-papers/56-765580) · `en`
-
-President Ranil Wickremesinghe officially signed his nomination paper yesterday for the upcoming Presidential election.
-
-The event took place at his political office on Flower Road, Colombo. The Maha Sangha chanted Seth Pirith and offered blessings, while priests from other religions also performed rituals and gave their blessings. The ceremony was attended by Prime Minister Dinesh Gunawardena, many ministers, and a large gathering of supporters, including representatives from political parties and organisations backing President Wickremesinghe in the election.
-
-◼️
-
-[Data](articles/4977bb6c.json)
-
-[Extended Data](ext_articles/4977bb6c.ext.json)
 
 ---

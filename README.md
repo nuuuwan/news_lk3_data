@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 12:21:15**
+As of **2024-08-16 12:36:52**
 
 ## Newspaper Stats
 
@@ -26,99 +26,139 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,043 (100.0%) of 41,054 articles have been extended.
+41,054 (100.0%) of 41,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### யாழில் விடுதி ஒன்றில் கஞ்சா போதைப்பொருளுடன் சந்தேகநபர் கைது !
+### Suspect arrested for ganja drug
 
 *2024-08-16 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/191197) · `ta`
 
-யாழ்ப்பாணத்தில் விடுதி ஒன்றில் 3 கிலோ கஞ்சா போதைப்பொருளுடன் தங்கியிருந்த நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A man was arrested in Jaffna for possessing 3kg of cannabis in his hostel room. The arrest occurred at a hotel in the Nunavu area, based on police intelligence. He is now held at the Chavakachcheri police station.
 
-சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட நுணாவில் பகுதியில் உள்ள விடுதியொன்றில் நேற்று வியாழக்கிழமை (15) நபர் ஒருவர் மூன்று கிலோ கஞ்சா பொதியுடன் தங்கியிருப்பதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற ரகசிய தகவலின் அடிப்படையில், கஞ்சாவுடன் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும் , சந்தேகநபரை சாவகச்சேரி பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை மேற்கொண்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+A man has been arrested for allegedly staying with 3 kg of cannabis in a hostel in Jaffna.
+
+Police said that a person was arrested on Thursday (15) at a hotel in the Nunavu area of ​​the Chavakachcheri police division, according to confidential information received by the police that a person was staying with three kilograms of cannabis package.
+
+The police said that the suspect was being detained at the Chavakachcheri police station.
 
 ◼️
 
 [Data](articles/92e2a1ce.json)
 
+[Extended Data](ext_articles/92e2a1ce.ext.json)
+
 ---
 
-### ஆசிரியை அடித்த உப-அதிபர் உட்பட நால்வர் கைது
+### Four persons, including sub-president who scored teacher
 
 *2024-08-16 11:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியை-அடித்த-உப-அதிபர்-உட்பட-நால்வர்-கைது/76-342278) · `ta`
 
-பதுளை, வெலிமடை கல்வி பணிமனைக்குட்பட்ட உடபுஸ்ஸல்லாவ அலக்கொலை தமிழ் வித்தியாலயத்தில் பணியாற்றும் டெல்மார் தோட்டத்தை சேர்ந்த ஆசிரியை ஒருவர் கடமை நேரத்தில் தாக்குதலுக்கு இலக்காகியமை தொடர்பாக அதே பாடசாலையில் கடமையாற்றும் உப அதிபர் உட்பட நால்வர் ஊவா பரணகம பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+A teacher from Udapusallawa Tamil Vidyalaya, under the Welimada Education Workshop, was assaulted and arrested alongside the Vice Chancellor and two others for allegedly attacking him. The incident occurred on August 13, 2024, leading to the teacher's hospitalization. The victim, who faced discrimination at the school, filed a complaint against his assailants, prompting their arrest. The case highlights issues of workplace harassment and the need for justice.
 
-ஆசிரியை மீதான  இந்த தாக்குதலில் தான் பணியாற்றும் வித்தியாலயத்தின்  அதிபர் உள்ளிட்ட அவருக்கு தேவையான ஆசிரியர்கள் ஈடுப்பட்டதாக தாக்குதலுக்கு உள்ளான ஆசிரியை ஊவா பரணகம பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+🟩
 
-குறித்த தாக்குதல் சம்பவம் (13.08.2024) செவ்வாய் கிழமை இடம்பெற்றுள்ளது. இதன்போது தாக்குதலுக்கு இலக்கான ஆசிரியை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டுக்கு அமைவாக இந்த  கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது குறிப்பிடத்தக்கது.
+A teacher from the Telmar estate at the Udapusallawa Tamil Vidyalaya, which is under the Welimada Education Workshop in Badulla, has been arrested by the Uva Paranagama police, including the Vice Chancellor who is on duty at the same school.
 
-அதே நேரத்தில் தாக்குதலுக்கு உள்ளான ஆசிரியை  உடப்புசல்லாவ பிரதேச வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டு சிகிச்சையின் பின் வீடு திரும்பியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The teacher, including the Chancellor of the Vidyalaya, who is working on the teacher, has lodged a complaint at the Uva Paranagama police station that he was assaulted.
+
+The attack took place on Tuesday (13.08.2024). The arrest was taken in accordance with a complaint lodged at the police station.
+
+At the same time, the teacher who was attacked was admitted to the Udappusallawa Divisional Hospital for treatment and returned home after treatment.
+
+The victim said that a complaint lodged at the police station was appropriately lodged with the attackers in the incident.
+
+The teacher who has been on duty at the school for the past five years has been sidelined by the school principal for about one and a half years.
 
 ...
 
 [Data](articles/9c361cd7.json)
 
+[Extended Data](ext_articles/9c361cd7.ext.json)
+
 ---
 
-### மூன்று வருடங்கள் தொடர்ச்சியாக வேலை ; ஒரு நாளைக்கு 65 சதம் என்ற அடிப்படையில் சம்பளம் ;  அவுஸ்திரேலியாவில் இலங்கை இராஜதந்திரியின் வீட்டில் பணிபுரிந்த பெண்ணிற்கு இழைக்கப்பட்ட அநீதி
+### Work for three years continuously;Salaries on the basis of 65 % per day;Injustice inflicted on a woman working at the Sri Lankan diplomat's house in Australia
 
 *2024-08-16 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/191200) · `ta`
 
-ஒரு தசாப்தகாலத்திற்கு முன்னர் இலங்கை இராஜதந்திரியின் வீட்டில் பணியாற்றுவதற்காக பிரியங்கா தனரட்ண  இலங்கையிலிருந்து அவுஸ்திரேலியா வந்தவேளை அவர் மிகுந்த நம்பிக்கையுடன் காணப்பட்டார்.
+Priyanka Tanaratne, a Sri Lankan woman employed at a diplomat's residence in Australia from 2015 to 2018, faced exploitation, earning just $11,211 over three years despite working non-stop except for two days' leave. She was paid less than the minimum wage, denied overtime pay, and lacked proper documentation. The Australian court found her employer, Himali Arunathilaka, a Sri Lankan deputy ambassador, guilty of violating labor laws, ordering her to pay $543,000 in back wages and damages.
 
-எனினும், அவர் கான்பெராவிற்கு வந்து அடிமைத்தனம் மிக்க  ஏற்பாட்டில் சிக்குண்ட வேளை அவரது நம்பிக்கைகள் தகர்ந்தன என்கின்றார் கிளேட்டன் உட்ஸ் என்ற சட்டநிறுவனத்தின் பங்காளர்களில் ஒருவரான டேவிட் ஹிலார்ட்.
+🟩
 
-அவ்வேளை  அவுஸ்திரேலியாவிற்கான இலங்கையின் பிரதி  தூதுவராக பணியாற்றிய ஹிமாலி அருணதிலகவின் வீட்டில் 2015 முதல் 2018 வரை தனரட்ண வேலைக்கு அமர்த்தப்பட்டார்.
+Priyanka Tanaratne came from Sri Lanka to work at the Sri Lankan diplomat's house just a decade ago.
 
-மூன்று வருடங்களும் அவர் ஏழு நாளும் வேலை செய்தார்,அந்த காலப்பகுதியில் இரண்டுநாட்கள் மாத்திரம் விடுப்பு வழங்கினார்கள் ,உணவு சமைக்கும் போது தனது கையை சுட்டுக்கொண்டதால் அந்த இரண்டு நாட்களும் விடுப்பு வழங்கினார்கள் என்கின்றார் டேவிட் ஹிலார்ட்.
+However, when he came to Canberra, David Hillary, one of the partners of Ketan Woods, said that his beliefs were broken when he was in a slave arrangement.
 
-அடுத்த மூன்று வருட காலப்பகுதியிலும் அவருக்கு 11,211 அமெரிக்க டொலர் சம்பளத்தினை மாத்திரம் வழங்கியுள்ளனர்.
+He was hired from 2015 to 2018 at the residence of Himali Arunathilaka, a Sri Lankan deputy ambassador to Australia.
 
-அந்த பெண் மூன்று வருடங்கள் தொடர்ச்சியாக வேலை செய்தார் ஒரு நாளைக்கு 65 சதம் வழங்கியுள்ளனர் என்கின்றார் டேவிட் ஹிலார்ட்.
+He worked for three years and seven days, only two days of leave during that period, and David Hilart says he was given leave for two days as he shot his hand while cooking.
+
+Over the next three years, he has only paid $ 11,211.
+
+David Hillary says that the woman has been working for three consecutive years.
+
+When the Sri Lankan woman started working in Australia, Australia's basic salary was $ 656 per 38 hours.
+
+He was paid a lower salary, and David Hillary, who claimed that he had worked for more time than he was allowed. This is contrary to Australia's laws.
 
 ...
 
 [Data](articles/84b72908.json)
 
+[Extended Data](ext_articles/84b72908.ext.json)
+
 ---
 
-### තායිලන්ත අගමැති ධුරයට ලාබාලතම කෙනෙක්
+### Thailand's highest person to be appointed as Prime Minister
 
 *2024-08-16 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199996) · `si`
 
-තායිලන්ත අගමැති ශ්‍රේත්තා තවීසින් ධුරයෙන් ඉවත් කිරීමත් සමග හිස්වු ධුරය සඳහා පියු තායි පක්ෂ නායිකා පේටොන්ටාන් ෂිනවත්‍රා  පාර්ලිමේන්තු ඡන්ද විමසීමෙන් තේරී පත්වී තිබේ.
+Shirianathra Thai, the daughter of Thailand's former Prime Minister, has become the country's youngest Prime Minister, making history as the fourth woman to hold this position.
 
-හිටපු තායිලන්ත අගමැති තක්ෂින් ෂිනවත්ගේ දියණිය වන ඇය වාර්තා අතරට එක්වන්නේ එරට අගමැති ධුරයට පත් ලාබාලතම කෙනා ලෙසය.
+🟩
 
-එමෙන්ම ඇය ගෙවුණු දශක දෙකක කාලය තුළ දී ෂිනවත් පරම්පරාවෙන් තායිලන්ත අගමැති ධුරයට පත් සිව්වන දේශපාලනඥයා වීමත් විශේෂත්වයකි.
+Prime Minister PM Thai Shirianathra has been elected to the removal of the Prime Minister of Thai Prime Minister.
+
+She is the daughter of the Prime Minister of Thai Thaiman and the youth of the past.
+
+During her ten decades, the fourth politician appointed as Prime Minister of Shadow.
 
 ◼️
 
 [Data](articles/a392fe31.json)
 
+[Extended Data](ext_articles/a392fe31.ext.json)
+
 ---
 
-### குரங்கம்மை தொற்று தொடர்பில் தமிழகத்தில் சுகாதாரத்துறை எச்சரிக்கை
+### Health Department Warning in Tamil Nadu regarding the epidemic
 
 *2024-08-16 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/191195) · `ta`
 
-ஆபிரிக்க நாடுகளில் வேகமாக பரவிய குரங்கம்மை நோய் தொற்று, சுவீடன் நாட்டிலும் உறுதியாகியுள்ளது. ஏற்கெனவே அதன் பரவலையொட்டி உலக சுகாதார ஸ்தாபனம், அவசர நிலையை பிரகடனப்படுத்தியுள்ளது.
+Tamil Nadu's Health Department issued a warning due to an epidemic, confirming infections in Africa and Sweden. WHO declared it an emergency. They've circulated guidelines to district health officials and airport health officers. It advises caution, especially towards travelers from Congo and Central Africa, requiring temperature checks. Those arriving from affected areas within the last 21 days should be monitored closely. If symptoms appear, they must inform airlines to help prevent further spread.
 
-இந்நிலையில், தமிழக பொதுசுகாதாரத்துறை மாவட்ட சுகாதார அதிகாரிகளுக்கும், தமிழ்நாட்டிலுள்ள விமான நிலையங்களின் சுகாதார அதிகாரிகளுக்கும் சுற்றறிக்கை அனுப்பியுள்ளது.
+🟩
 
-"குரங்கம்மை பாதிப்புள்ளவர்கள் என யார் மீதாவது சந்தேகமிருந்தால், உடனடியாக தெரிவிக்க வேண்டும். மேலும், அதிகாரிகள் எச்சரிக்கையுடன் இருக்க வேண்டும். குறிப்பாக, காங்கோ மற்றும் மத்திய ஆப்பிரிக்க நாடுகளிலிருந்தும் வருபவர்கள் குறித்து எச்சரிக்கையுடன் இருக்க வேண்டும். பயணிகளுக்கு வெப்ப நிலை பரிசோதனை மேற்கொள்ளவேண்டும்.
+Infection in African countries is also confirmed in Sweden. The World Health Organization has already declared an emergency.
 
-கடந்த 21 நாட்களுக்குள் குரங்கம்மை பாதிக்கப்பட்ட நாடுகளிலிருந்து வந்தவர்களை கண்டறியவும். குரங்கம்மை அறிகுறிகள் இருப்பவர்களை மருத்துவமனைகளுக்கு பரிந்துரைப்பதற்காக ஏற்பாடுகளை வலுப்படுத்தவும்.
+In this case, the Tamil Nadu Public Health Department has sent a circular to the health officials of the district and the health officials of the airports in Tamil Nadu.
 
-...
+“If the rest of the monk is vulnerable, if the rest of the. Also, the authorities must be cautious. In particular, those who come from Congo and Central African countries should be cautious. Travelers should undergo a temperature test.
+
+Find those who come from the affected countries within the last 21 days. Strengthen the arrangements to prescribe people who have signs of monkeys.
+
+If anyone is diagnosed with the impact, he must report to the airline he traveled. The airline must take steps to prevent the spread of infection ”
+
+◼️
 
 [Data](articles/5fa33d41.json)
+
+[Extended Data](ext_articles/5fa33d41.ext.json)
 
 ---
 
@@ -142,19 +182,25 @@ The last prime minister had been removed by the Constitutional Court two days ag
 
 ---
 
-### மைத்திரியின் தூதை புறக்கணித்தார் ரணில்
+### Ranil boycotted Maithri's messenger
 
 *2024-08-16 11:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-தூதை-புறக்கணித்தார்-ரணில்/175-342275) · `ta`
 
-ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிப்பதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தூது அனுப்பியதாகவும், ஆனால் அந்த கோரிக்கையை ஜனாதிபதி நிராகரித்துள்ளதாகவும் விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Maithripala Sirisena sent a message to Ranil Wickremesinghe during the presidential election, which was rejected by Wickremesinghe. The Agriculture Minister, Mahinda Amaraweera, revealed this, stating Wickremesinghe advised against supporting someone he deemed unreliable. This incident highlights the political tensions and dynamics within Sri Lanka's political landscape.
 
-அந்த கோரிக்கையை நிராகரித்த ஜனாதிபதி, நம்ப முடியாத ஒருவரின் ஆதரவை தமக்கு வேண்டாம் என தெரிவித்ததாகவும் மஹிந்த அமரவீர தெரிவித்தார்.
+🟩
 
-“எங்கள் கட்சியின் முன்னாள் தலைவர் இப்போது போக வழியில்லாத நிலையில் இருக்கிறார், எந்தக் கட்சியும் அவரை ஏற்றுக்கொள்ள விரும்பவில்லை, அவர் நம்பிக்கையை சிதைக்கும்போது, ​​​​, இப்போது அவர் எங்காவது குப்பைகளை நிறைய தேடுகிறார். ஆனால், ஒரு முன்னாள் ஜனாதிபதி, “இவ்வளவு கீழ்த்தரமான நிலைக்குச் சென்றமைக்காக நாங்கள் வருந்துகிறோம்” என்று பெலியத்திலுள்ள ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தேர்தல் குழுவின் பிரதிநிதிகளைச் சந்தித்துப் பேசுகையில் அமைச்சர் கூறினார்.
+Agriculture and Plantation Industries Minister Mahinda Amaraweera has said that former President Maithripala Sirisena had sent a message to Ranil Wickremesinghe in the presidential election, but the president had rejected the request.
+
+Mahinda Amaraweera said that the president rejected the request and told him not to support the unbeliever.
+
+“The former leader of our party is now unable to go. No party wants him to accept him. When he distorts his confidence, he is now looking for a lot of garbage somewhere. However, a former president said, "We are sorry for the so -downed state," the minister said, "The Minister said," We are meeting representatives of the Sri Lanka Freedom Party (SLFP) election committee in Beliam. "
 
 ◼️
 
 [Data](articles/f084c1c6.json)
+
+[Extended Data](ext_articles/f084c1c6.ext.json)
 
 ---
 
@@ -204,21 +250,29 @@ The three patients have been directed to quarantine and has not yet been establi
 
 ---
 
-### தற்போதைய வாழ்க்கைச்செலவுக்கு அமைய ஊழியர்களின் சம்பளம் அதிகரிக்கப்பட வேண்டும் - இலங்கை மத்திய வங்கி
+### Employees' salary to be increased - Central Bank of Sri Lanka
 
 *2024-08-16 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/191199) · `ta`
 
-பொருளாதார மீட்சிக்கு மத்தியில் அரச மற்றும் தனியார் துறை சேவையாளர்களின் சம்பள அதிகரிப்புக்கு இயலுமை காணப்படுகிறது எனத் தெரிவித்துள்ள இலங்கை மத்திய வங்கி, தற்போதைய வாழ்க்கைச் செலவுக்கு அமைய ஊழியர் படையின் சம்பளம் அதிகரிக்கப்பட வேண்டும் என்றும் குறிப்பிட்டுள்ளது.
+The Central Bank of Sri Lanka announced plans to increase salaries for both state and private sector employees to match the cost of living, citing favorable economic growth and low inflation projections. It emphasized the importance of wage adjustments to avoid negative impacts on its monetary policy program and warned against frequent changes in economic policies due to political shifts.
 
-இலங்கை மத்திய வங்கியின் கேட்போர் கூடத்தில் இடம்பெற்றுவரும் ஊடகவியலாளர்கள் சந்திப்பிலேயே இவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-2024 ஆம் ஆண்டு முதலிரு காலாண்டுகளில் பொருளாதார வளர்ச்சி சாதகமான நிலையில் உள்ளதாகவும் 2025 ஆம் ஆண்டு முதல் காலாண்டு வரை முதன்மை பணவீக்கம் குறைவானதாக பேணப்படும் என்றும் இலங்கை மத்திய வங்கி குறிப்பிட்டுள்ளது.
+The Central Bank of Sri Lanka said that the salary increase of state and private sector workers amidst the economic recovery, the Central Bank of Sri Lanka said, "The salaries of the employee for the current cost of living should be increased.
 
-நாணயக்கொள்கை (2024 ஆகஸ்ட்) அறிக்கையில் நெகிழ்ச்சித்தன்மை வாய்ந்த பணவீக்க இலக்கிடல் கட்டமைப்பின் கீழான பணவீக்க இலக்கு தொடர்பான சிறப்புக் குறிப்பு உள்ளடக்கப்பட்டுள்ளதாக இலங்கை மத்திய வங்கி தெரிவிக்கின்றது.
+This was stated at a media briefing at the Central Bank's auditorium in the Central Bank of Sri Lanka.
+
+The Central Bank of Sri Lanka said that economic growth was favorable in the first quarter of 2024 and that primary inflation would be low from 2025 to quarter.
+
+The Central Bank of Sri Lanka (Central Bank) states that the Currency Policy Report includes a special reference to the inflation destination under the Flexible Inflation Goals.
+
+While political uncertainty has adverse impacts on economic recovery, the Central Bank of Sri Lanka says that the high level of skilled discharge can lead to labor shortages and low production capacity.
 
 ...
 
 [Data](articles/1c714d23.json)
+
+[Extended Data](ext_articles/1c714d23.ext.json)
 
 ---
 
@@ -320,19 +374,25 @@ It is reported that the full moon appears when two different celestial events oc
 
 ---
 
-### தலதா மாளிகைக்கு சென்று ஆசிபெற்றார் சஜித் !
+### Sajith goes to Dalada House
 
 *2024-08-16 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191196) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க கண்டி ஸ்ரீ தலதா மாளிகையில் மத அனுஷ்டானங்களில் ஈடுபட்டு தனது எதிர்கால அரசியல் நடவடிக்கைகளுக்காக எதிர்க்கட்சித்தலைவரும் ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளருமான சஜித் பிரேமதாஸ ஆசீர்வாதங்களை பெற்றுக்கொண்டார்.
+Sajith Premadasa, a presidential candidate from the United People's Power, received blessings for his political endeavors at Sri Dalada House in Kandy. The opposition leader was warmly welcomed by the Diyawadana Nilame and the Vihara Basnayaka Nilame during his visit.
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (16) காலை ஸ்ரீ தலதா மாளிகைக்கான விஜயத்தை மேற்கொண்டிருந்தார்.
+🟩
 
-தலதா மாளிகைக்குச் சென்ற எதிர்க்கட்சித் தலைவரை தியவடன நிலமே உள்ளிட்ட விகாரை பஸ்நாயக்க நிலமேமார்கள் வரவேற்று ஆசி வழங்கினர்.
+Sajith Premadasa, the presidential candidate of the United People's Power and the presidential candidate of the United People's Power, has received blessings for his future political activities at the Sri Dalada House in Kandy.
+
+Opposition leader Sajith Premadasa made a visit to Sri Dalada House this morning.
+
+The leader of the opposition who visited the Dalada House, including the Diyawadana Nilame, welcomed the Vihara Basnayaka land.
 
 ◼️
 
 [Data](articles/ca753aa9.json)
+
+[Extended Data](ext_articles/ca753aa9.ext.json)
 
 ---
 
@@ -352,15 +412,21 @@ The signing of the agreement was carried out at Waters Edge Hotel in Battaramull
 
 ---
 
-### பௌசி, வெல்கம ஜனாதிபதி ரணிலுக்கு ஆதரவு
+### Bausi supports Welgama President Ranil
 
 *2024-08-16 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191194) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் ஏ.எச்.எம்.பௌசி மற்றும் குமார வெல்கம ஆகியோர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு தெரிவித்துள்ளனர்.
+Bausi, United People's Power leaders support President Ranil Wickremesinghe.
+
+🟩
+
+United People's Power AHM Fouzi and Kumara Welgama have supported President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/98e39874.json)
+
+[Extended Data](ext_articles/98e39874.ext.json)
 
 ---
 
@@ -384,19 +450,25 @@ At the Wateus Edge Hotel in Battaramulla today (16) was signed.
 
 ---
 
-### 34 அரசியல் கட்சிகளின் முக்கியஸ்தர்கள் பங்கேற்புடன் ரணிலுக்கு ஆரவளிக்கும் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து !
+### Memorandum of Understanding (MoU) to Ranil with the participation of 34 political parties
 
 *2024-08-16 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191191) · `ta`
 
-34 அரசியல் கட்சிகளின் முக்கியஸ்தர்களின் பங்களிப்புடன் ஜனாதிபதி ரணிலுக்கு ஆதரவளிக்கும் புரிந்துணர்வு ஒப்பந்தமொன்று கைச்சாதிடப்பட்டுள்ளது.
+An MoU was signed by 34 political parties in Colombo, supporting President Ranil Wickremesinghe ahead of Sri Lanka's presidential election.
 
-இந்த புரிந்துணர்வு ஒப்பந்தமானது கொழும்பு வோர்டஸ் எஜ் ஹோட்டலில் இன்று வெள்ளிக்கிழமை 16 முற்பகல் 10.06 சுப நேரத்தில் ஜனாதிபதி கைச்சாத்திட்டார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவு தெரிவித்து 'இயலும் ஶ்ரீலங்கா' என்ற இணக்கப்பாட்டிலேயே  34 கட்சிகள் மற்றும் கூட்டணிகள் கையெழுத்திட்டுள்ளன.
+A Memorandum of Understanding (MoU) has been signed with the participation of leaders of 34 political parties.
+
+The Memorandum of Understanding (MoU) signed at the Wortus Ejkot in Colombo today at 10.06 am at 10.06 am.
+
+In the upcoming presidential election, 34 parties and alliances have signed a compliance with 'Sri Lanka' in support of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/d906bbec.json)
+
+[Extended Data](ext_articles/d906bbec.ext.json)
 
 ---
 
@@ -444,25 +516,33 @@ Namal Rajapaksa and former President Mahinda Rajapaksa and former President Mahi
 
 ---
 
-### அவசரநிலை பிரகடனம் : ஐரோப்பாவில் விரைவில் குரங்கம்மை பரவக்கூடும் - உலக சுகாதார ஸ்தாபனம்
+### Emergency Declaration: The World Health Organization may soon spread in Europe -
 
 *2024-08-16 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191189) · `ta`
 
-குரங்கம்மையை சர்வதேச சுகாதார அவசரநிலை பிரகடனப்படுத்தப்பட்டுள்ளதாக உலக சுகாதார ஸ்தாபனம் புதன்கிழமை (14) அறிவித்து இருந்தது.
+The World Health Organization has declared a global health emergency due to the rapid spread of a virus causing monkeypox infections across 13 African countries, affecting over 14,000 individuals and resulting in 524 deaths. This virus, initially detected in Congo, has now reached neighboring countries like Burundi, Kenya, Rwanda, and Uganda, with concerns growing about its potential to spread further beyond Africa. The WHO's European Regional Office warns of the virus's arrival in Sweden, marking its first appearance outside Africa, and anticipates increased transmission in European regions in the near future.
 
-குரங்கம்மை பாதிப்பு என்பது ஒரு வகை வைரசால் ஏற்படக்கூடிய தொற்று நோய் ஆகும். ஆபிரிக்காவில் நடப்பு ஆண்டில் குழந்தைகள் மற்றும் முதியவர்கள் என 13 நாடுகளில் குரங்கம்மை பாதிப்பு கண்டறியப்பட்டுள்ளது. இதுவரை 524 பேர் பலியாகி உள்ளனர். 14 ஆயிரத்திற்கும் மேற்பட்டோருக்கு பாதிப்புகள் ஏற்பட்டுள்ளன.
+🟩
 
-ஆபிரிக்க நாடுகளில் பரவி வரும் இந்த புதுவகையான வைரசானது, கொங்கோவில் இருந்து புரூண்டி, கென்யா, ருவாண்டா மற்றும் உகாண்டா உள்ளிட்ட அண்டை நாடுகளுக்கும் பரவியுள்ளது. எனினும், ஆபிரிக்காவில் குறைந்த தடுப்பூசி டோஸ்களே இருப்பில் உள்ளன.
+The World Health Organization announced on Wednesday (14) that the International Health Emergency has been declared.
 
-இதுபற்றி உலக சுகாதார அமைப்பின் தலைவர் ஜெனரல் டெட்ரோஸ் அதானம் கெப்ரியேசஸ் கூறும்போது,
+The impact of monkey is a type of infection caused by a type of virus. In Africa, in the current year, children and the elderly have been diagnosed in 13 countries. 524 people have been killed so far. More than 14 thousand people have been affected.
 
-நாம் அனைவரும் கவலைப்பட வேண்டிய விடயம். இந்த வைரசானது ஆபிரிக்காவை கடந்து பரவ கூடிய ஆற்றல் படைத்துள்ளது என்பது அதிக வருத்தத்திற்குரியது என்று சமீபத்தில் கூறினார்.
+The new virus, which is spreading in African countries, has spread from Congo to neighboring countries including Brundi, Kenya, Rwanda and Uganda.. However, there are low vaccines in Africa.
 
-இந்த சூழலில் உலக சுகாதார ஸ்தாபனம், குரங்கம்மையை சர்வதேச சுகாதார அவசரகால நிலையாக நேற்று முன்தினம் அறிவித்தது.
+The President of the World Health Organization, General Tetros Adanam Capriages said,
+
+Something we all have to worry about. Recently, it is more sad that the virus has the power to transcend Africa.
+
+In this context, the World Health Organization declared the monkey as an international emergency yesterday.
+
+In this case, for the first time outside Africa, in Sweden,. The virus belongs to the type of Glad 1.
 
 ...
 
 [Data](articles/281453e5.json)
+
+[Extended Data](ext_articles/281453e5.ext.json)
 
 ---
 

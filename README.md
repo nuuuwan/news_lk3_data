@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 21:56:20**
+As of **2024-08-16 22:10:27**
 
 ## Newspaper Stats
 
@@ -26,69 +26,93 @@ adaderanasinhalalk | 7,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,125 (100.0%) of 41,130 articles have been extended.
+41,130 (100.0%) of 41,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ඉන්දු - ශ්‍රී ලංකා පළමු මගී යාත්‍රාව දිවයිනට
+### Indo-Sri Lanka's first passenger vessel to visit the island
 
 *2024-08-16 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200016) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ආරම්භ වූ මගී යාත්‍රා සේවයේ පළමු යාත්‍රාව අද (16) දිවයිනට ළඟා වුණි.
+The first passenger vessel from India's Magistrate Service docked in Sri Lanka today, carrying 41 passengers. It departs Nagapattam daily at 8 am and returns to Kankasanthurai by 2 pm.
 
-ඉන්දියාවේ නාගපට්නම් සිට ශ්‍රී ලංකාවේ කන්කසන්තුරෛ දක්වා යාත්‍රා කළ මෙම යාත්‍රාවේ මගීන් 41ක් ගමන් ගෙන තිබුණි.
+🟩
 
-මෙම යාත්‍රාව සෑම දිනකම උදෑසන 8 ඉන්දියාවේ නාගපට්නම්වලින් පිටත්වන අතර එය ශ්‍රී ලංකාවේ කන්කසන්තුරෛ සිට සවස 2ට නැවත ගමන් අරඹයි.
+The first vessel in the Magistrate's Service between Sri Lanka and India arrived in Sri Lanka today (16).
+
+The vessel sailed from Nagapatturai from Nagapattam in India, 41 passengers.
+
+The vessel leaves 8 am every morning, and it will be back from Kankasanthurai to 2 pm in Sri Lanka.
 
 ◼️
 
 [Data](articles/7e79a19b.json)
 
+[Extended Data](ext_articles/7e79a19b.ext.json)
+
 ---
 
-### நாமல் ஜனாதிபதியானால்....
+### If Namal becomes President ....
 
 *2024-08-16 21:20:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-ஜனாதிபதியானால்/175-342295) · `ta`
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ ஜனாதிபதியானால் அவரது தலைமையில் உருவாக்கப்படும் அரசாங்கத்தில் பிரதமர் பதவி ஜோன்ஸ்டன் பெர்னாண்டோவிற்கே வழங்கப்படும் என ரஷ்யாவுக்கான முன்னாள் இலங்கை தூதுவர் உதயங்க வீரதுங்க தெரிவித்துள்ளார்.
+If Namal Rajapakse becomes President, former Sri Lankan Ambassador Udayanga Weeratunga predicts that Prime Minister Johnston Fernando will hold the PM position.
+
+🟩
+
+Former Sri Lankan Ambassador to Russia Udayanga Weeratunga has said that if MP Namal Rajapakse is the president, the Prime Minister will be given the post of Prime Minister Johnston Fernando.
 
 ◼️
 
 [Data](articles/8f696c3e.json)
 
+[Extended Data](ext_articles/8f696c3e.ext.json)
+
 ---
 
-### රාජාට වෙඩි තැබූ පොලීසියේ තිදෙනා අල්ලයි
+### Three policemen shot dead
 
 *2024-08-16 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200015) · `si`
 
-දඹුල්ල දම්පුර ප්‍රදේශයේ දී වන අලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ වූ පොලිස් නිලධාරීන් අත්අඩංගුවට ගෙන තිබේ.
+In Dambulla, three police officers were killed, and their colleagues were detained by the Elephant.
+
+🟩
+
+Police officers have been arrested by the Elephant in Dambulla area.
 
 ◼️
 
 [Data](articles/7d070508.json)
 
+[Extended Data](ext_articles/7d070508.ext.json)
+
 ---
 
-### கொழும்பின் பல பகுதிகளில் கனமழை பெய்யும் என வானிலை ஆய்வு மையம் எச்சரிக்கை!
+### Meteorological department warns of heavy rains in many parts of Colombo
 
 *2024-08-16 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/191263) · `ta`
 
-கொழும்பு மற்றும் அதனை அண்மித்த பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக, கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளன.
+Colombo faces heavy rains, causing flooding and traffic jams. The meteorological department predicts more rain in the coming days, affecting Western, Sabaragamuwa provinces, and several districts. This is due to atmospheric turbulence near Sri Lanka.
 
-இதன்படி, மேல், சப்ரகமுவ மாகாணங்கள் மற்றும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களில் கனமழை பெய்யும் எனவும்  மக்கள் அக்கறையுடன் இருக்க வேண்டுமெனவும் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+🟩
 
-அடுத்த 24 மணி நேரத்தில் அந்தப் பகுதிகள். 100 மீட்டருக்கும் அதிகமான கனமழை பெய்யும்.
+Due to heavy rains in Colombo and its adjacent areas, many parts of Colombo have been submerged.
 
-கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளமையினால், கடும் வாகன நெரிசல் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Accordingly, the Department of Meteorology has warned that heavy rains will be experienced in the Western, Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
 
-இலங்கையை அண்மித்துள்ள தாழ்வான வளிமண்டலத்தின் கொந்தளிப்பான தன்மை காரணமாக தீவின் தென்மேற்கு பகுதிகளில் இந்த நிலை ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Those areas in the next 24 hours. Heavy rainfall over 100 meters.
+
+Heavy traffic congestion has caused many parts of Colombo to submerge, police say.
+
+It is noteworthy that the situation is due to the turbulence of the low -lying atmosphere near Sri Lanka.
 
 ◼️
 
 [Data](articles/73a1133b.json)
+
+[Extended Data](ext_articles/73a1133b.ext.json)
 
 ---
 
@@ -114,19 +138,25 @@ Tamil National People's Front MP Selvarajah Gajendran and many supporters of the
 
 ---
 
-### கொழும்பின் பல பகுதிகள் வெள்ளத்தில் மூழ்கின
+### Many parts of Colombo were flooded
 
 *2024-08-16 21:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-பல-பகுதிகள்-வெள்ளத்தில்-மூழ்கின/175-342294) · `ta`
 
-கொழும்பு மற்றும் அதனை அண்மித்த பகுதிகளில் பெய்து வரும் கடும் மழை காரணமாக, கொழும்பின் பல பகுதிகள் நீரில் மூழ்கியுள்ளன.
+Heavy rains in Colombo and nearby regions have caused widespread flooding. The Department of Meteorology forecasts over 100mm of rain in various parts of the country within the next 24 hours, affecting provinces like Western, Sabaragamuwa, and districts including Galle, Matara, Kandy, and Nuwara Eliya.
 
-இதேவேளை, நாட்டின் பல பகுதிகளில் எதிர்வரும் 24 மணித்தியாலங்களில் 100 மில்லிமீட்டருக்கும் அதிக மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+🟩
 
-இதன்படி, மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் மழையுடனான வானிலை நிலவும் என திணைக்களம் எதிர்வு கூறியுள்ளது. R
+Due to heavy rains in Colombo and its adjacent areas, many parts of Colombo have been submerged.
+
+Meanwhile, the Department of Meteorology has predicted more than 100 millimeters of rain in many parts of the country in the next 24 hours.
+
+Accordingly, the Department of Rainfall has predicted rainfall in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.. Remble
 
 ◼️
 
 [Data](articles/beb757e0.json)
+
+[Extended Data](ext_articles/beb757e0.ext.json)
 
 ---
 

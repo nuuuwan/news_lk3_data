@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 12:36:52**
+As of **2024-08-16 12:54:51**
 
 ## Newspaper Stats
 
-*Scraped **41,054** Articles*
+*Scraped **41,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,778
+adalk | 3,779
 dailymirrorlk | 4,733
 adaderanalk | 4,792
 tamilmirrorlk | 5,252
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,054 (100.0%) of 41,054 articles have been extended.
+41,054 (100.0%) of 41,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -469,6 +469,26 @@ In the upcoming presidential election, 34 parties and alliances have signed a co
 [Data](articles/d906bbec.json)
 
 [Extended Data](ext_articles/d906bbec.ext.json)
+
+---
+
+### ජනපති සටනේ රහස් - ජනාධිපති අපේක්ෂකයන් කතා කළේ මොනවාද?
+
+*2024-08-16 10:27:54* · [`adalk`](https://www.ada.lk/opinion/ජනපති-සටනේ-රහස්---ජනාධිපති-අපේක්ෂකයන්-කතා-කළේ-මොනවාද-/2-411405) · `si`
+
+ජනාධිපතිවරණයේ නාමයෝජනා බාරගැනීමේ අවස්ථාවේදී බොහෝදෙනෙකුගේ අවධානය යොමු වී තිබුණේ ජනාධිපති අපේක්ෂකයන් එකිනෙකාට මුණගැසුණු අවස්ථාවන් දෙසටයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ ස්වාධීන අපේක්ෂකයෙකු ලෙස නාමයෝජනා බාරදුන් අතර, විපක්ෂ නායක සජිත් ප්‍රේමදාස නාමයෝජනා බාරදුන්නේ සමගි ජනබලවේගයේ අපේක්ෂකයා ලෙසය.
+
+ජාතික ජනබලවේගයේ ජනාධිපති අපේක්ෂකයා ලෙස එහි නායක අනුර කුමාර දිසානායක නාමයෝජනා බාරදුන් අතර, ශ්‍රී ලංකා පොදුජන පෙරමුණ වෙනුනේ නාමයෝජනා බාරදුන්නේ එම පක්ෂයේ ජාතික සංවිධායක ලක්ෂමන් නාමල් රාජපක්ෂය.
+
+ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා, දිලිත් ජයවීර, ජනාධිපති නීතිඥ ආචාර්ය විජේදාස රාජපක්ෂ, පූජ්‍ය බත්තරමුල්ලේ සීලරතන හිමි ඇතුළු 39දෙනෙක් 9වැනි විධායක ජනාධිපතිවරයා තෝරා පත්කර ගැන්ම වෙනුවෙන් නාමයෝජනා භාරදී තිබුණි.
+
+ඒ අපේක්ෂකයන්ගේ නම් ප්‍රකාශ කරන විට බොහෝ දෙනෙකුගේ අවධානය යොමු වූයේ නාමල් රාජපක්ෂ යනුවෙන් නම් දෙකක් සඳහන් වීමයි. එක් නාමල් රාජපක්ෂ කෙනෙකු ශ්‍රී ලංකා පොදුජන පෙරමුණ හෙවත් පොහොට්ටුවේය. අනෙක් නාමල් රාජපක්ෂ සමබිම පක්ෂයේය.
+
+...
+
+[Data](articles/b5754705.json)
 
 ---
 
@@ -2235,31 +2255,5 @@ The E-Passport (e-passport) is due to be introduced to the next October, he adde
 [Data](articles/88123a6b.json)
 
 [Extended Data](ext_articles/88123a6b.ext.json)
-
----
-
-### Thieves involved in a series of theft in Nuwara Eliya
-
-*2024-08-15 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/191177) · `ta`
-
-In Nuwara Eliya, two thieves, aged 43 and 29, were arrested for stealing electronics, cash, and jewelry worth over Rs 5 lakhs from various locations. They admitted to breaking into a home in Lapukkalai and stealing Rs 20,000. Both were remanded for 14 days after being charged.
-
-🟩
-
-Two persons belonging to the Nuwara Eliya Police Division have arrested thieves on Wednesday (14) who robbed a large number of electronic equipment including money and jewelery in a large number of places.
-
-One of the two children aged 43 years old, his wife is working abroad, and another is 29 years old, and that the thief is involved in several thefts and that he has been searched by the police.
-
-Eventually, on the night of August (13), the two thieves who broke the window in a house in Lapukkalai, Nuwara Eliya, have confessed that they have stolen 20 thousand rupees of money from the wallet in the house.
-
-However, the Nuwara Eliya headquarters said that two thieves had seized more electronic equipment and many other materials stolen from the house and that they were worth Rs 5 lakhs.
-
-The two suspects were produced before the Nuwara Eliya District Magistrate's Court on Thursday (15). The magistrate has ordered the two men to be kept in remand for 14 days.
-
-◼️
-
-[Data](articles/5a045e2a.json)
-
-[Extended Data](ext_articles/5a045e2a.ext.json)
 
 ---

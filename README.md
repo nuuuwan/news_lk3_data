@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 09:55:43**
+As of **2024-08-16 10:08:06**
 
 ## Newspaper Stats
 
-*Scraped **41,021** Articles*
+*Scraped **41,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,81 @@ dailyftlk | 2,664
 adalk | 3,775
 dailymirrorlk | 4,733
 adaderanalk | 4,788
-tamilmirrorlk | 5,243
+tamilmirrorlk | 5,244
 virakesarilk | 6,497
-adaderanasinhalalk | 6,976
+adaderanasinhalalk | 6,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,018 (100.0%) of 41,021 articles have been extended.
+41,021 (100.0%) of 41,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ரணிலுக்கு ஆதரவளித்த SLPP உறுப்பினர்களுக்கு  எதிராக நடவடிக்கை
+### தினமும் கிராமத்திற்கு வரும் ஆபத்தான விலங்கு - அச்சத்தில் மக்கள்
+
+*2024-08-16 09:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-கிராமத்திற்கு-வரும்-ஆபத்தான-விலங்கு-அச்சத்தில்-மக்கள்/175-342272) · `ta`
+
+கிராமத்தின் மேல் உள்ள காப்புக்காடு பகுதியில் இருந்து மாலை நேரத்தில் கிராமத்திற்கு வரம் பெரிய சிறுத்தைப் புலி கடந்த சில நாட்களாக வீடுகளில் வளர்க்கப்படும் நாய், மாடு போன்ற விலங்குகளை பிடித்து உண்பது வழக்கமாகிவிட்டது. மான் போன்ற விலங்குகள் வேட்டையாடப்படுவதையும் கிராம மக்கள் பார்த்துள்ளனர்.
+
+இது தொடர்பில் பொலிஸ் மற்றும் வனஜீவராசிகள் அலுவலகத்திற்கு ஏற்கனவே அறிவித்துள்ளதாக கிராம மக்கள் தெரிவித்துள்ளனர்.
+
+இப்பிரச்னைக்கு உடனடி நடவடிக்கை எடுக்காவிட்டால், கிராம மக்களும், அவர்களது குழந்தைகளும் கடும் ஆபத்தை சந்திக்க நேரிடும் என்பதால், அப்பகுதியில் உள்ள அனைவரும்  அச்சத்தில் உள்ளனர் என குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/96d122bb.json)
+
+---
+
+### පොලිස් වෙඩිල්ලෙන් පාරේ ගිය රාජා මරුට
+
+*2024-08-16 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199990) · `si`
+
+මහ මග ගමන් කරමින් සිටි වනඅලියෙකුට පොලීසිය විසින් සිදුකළ වෙඩිතැබීමකින් එම වනඅලියා මියගොස් ඇති බව වනජීවි නිලධාරීන් පවසයි.
+
+දඹුල්ල බකමූණ ප්‍රධාන මාර්ගයේ බකමූණ දමනයාය දම්පුර ප්‍රදේශයේදී මෙම වනඅලියා වෙඩිවැදී මියගොස් ඇත.
+
+බකමූණ  වනජීවී නිලධාරීන් සඳහන් කරන්නේ ඊයේ (15) රාත්‍රියේ මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+මියගොස් ඇත්තේ වයස අවුරුදු 35ක් පමණ වූ එක් ඇසක් නොපෙනෙන බවට විශ්වාස කරන "රාජා" නමින් හඳුන්වන වනඅලියෙකි.
+
+ප්‍රදේශවාසීන් සඳහන් කරන්නේ මෙම වනඅලියාගෙන් කිසිඳු පුද්ගලයෙකුට කරදරයක් නොමැති බවය.
+
+බකමූණ පොලීසියේ රාජකාරී කටයුතුවල යෙදී සිටි පොලිස් නිලධාරීන් තිදෙනෙකු පොලීසියේ ත්‍රිරෝද රථයෙන් මුර සංචාරයක යෙදී සිටින අවස්ථාවේදී ත්‍රිරෝද රථයට වනඅලියා පහරදීමට උත්සාහ කළ බව පවසමින් T56 ගිනිඅවියකින් වනඅලියාට වෙඩිතබා ඇතැයි බකමූණ පොලීසිය පවසයි.
+
+මෙම සිද්ධිය නිසා ඊයේ රාත්‍රී කාලයේදී ප්‍රදේශවාසීන් සහ පොලීසිය අතර උණුසුම් තත්ත්වයක් ද හටගෙන තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇති බව හබරණ සහකාර පොලිස් අධිකාරී සුදත් අස්මඬල මහතා පැවසීය.
+
+◼️
+
+[Data](articles/6517f59f.json)
+
+---
+
+### Action against SLPP members who supported Ranil
 
 *2024-08-16 09:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளித்த-SLPP-உறுப்பினர்களுக்கு-எதிராக-நடவடிக்கை/175-342271) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்க தீர்மானித்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+Disciplinary action will be taken against SLPP members supporting Ranil Wickremesinghe for the 2024 presidential election. The Sri Lanka PA plans to send letters to MPs soon, potentially leading to cancellation of their party memberships post-discipline.
 
-இது தொடர்பான கடிதங்கள் விரைவில் பாராளுமன்ற உறுப்பினர்களுக்கு அனுப்பி வைக்கப்படும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-ஒழுக்காற்று நடவடிக்கைகளின் பின்னர் கட்சியின் தீர்மானத்திற்கு எதிர்ப்பு தெரிவிக்கும் பாராளுமன்ற உறுப்பினர்களின் கட்சி உறுப்புரிமை இரத்து செய்யப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது. R
+It has been decided to take disciplinary action against members of the Sri Lanka PA, which has decided to support Ranil Wickremesinghe in the 2024 presidential election.
+
+A spokesman for the Sri Lanka Peoples Alliance (PA) said that the letters will be sent to MPs soon.
+
+It is also reported that the party membership of MPs will be canceled after disciplinary action. Remble
 
 ◼️
 
 [Data](articles/06b956fd.json)
+
+[Extended Data](ext_articles/06b956fd.ext.json)
 
 ---
 
@@ -114,21 +162,27 @@ The SLPP politburo recently met to discuss the party’s approach to the preside
 
 ---
 
-### தனமல்வில சம்பவம் : சிறுமிக்கு தொலைப்பேசி அழைப்பு
+### Tanamalwila incident: Telephone call for girl
 
 *2024-08-16 08:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனமல்வில-சம்பவம்-சிறுமிக்கு-தொலைப்பேசி-அழைப்பு/76-342269) · `ta`
 
-தனமல்வில பிரதேசத்தில் 16 வயதுடைய சிறுமியை  பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டு வரும் நிலையில் குறித்த சிறுமிக்கு, தான் பொலிஸ் அத்தியட்சகர் என கூறி வாக்குமூலம் பெற முயன்ற தொலைப்பேசி அழைப்போன்று கிடைக்கப்பட்டுள்ளதாக தனமல்வில பொலிஸார் தெரிவித்தனர்.
+In Dhanamalwila, a 16-year-old girl was raped, leading to a phone call from a police superintendent. The police started investigating after the victim's parents complained. Four schoolchildren were arrested on suspicion and remanded until the 28th. The victim is hospitalized.
 
-இது தொடர்பில் அவரது பெற்றோர் செய்த முறைப்பாட்டின் பிரகாரம் பொலிஸ் தலைமையகம் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-இதேவேளை, சம்பவம் தொடர்பில் மேலும் நான்கு பாடசாலை மாணவர்கள் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதுடன், அவர்களை நீதிமன்றில் ஆஜர்படுத்திய போது எதிர்வரும் 28ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்துள்ளார்.
+Dhanamalwila police said that the girl has received a telephone call for the girl to be a police superintendent as he is investigating the incident of raping a 16 -year -old girl in Dhanamalwila.
 
-மேலும் பாதிக்கப்பட்ட சிறுமி ரிஜ்வே ஆர்யா வைத்தியாசலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+It is reported that the police headquarters have begun investigations according to the complaint made by her parents.
+
+Meanwhile, four more schoolchildren have been arrested on suspicion of the incident and the magistrate has ordered them to be remanded until the 28th of this month.
+
+It is noteworthy that the victim was admitted to the Rijway Arya Hospital.
 
 ◼️
 
 [Data](articles/b6818186.json)
+
+[Extended Data](ext_articles/b6818186.ext.json)
 
 ---
 
@@ -1035,6 +1089,8 @@ Mr. Wickremesinghe, 75, is contesting as an independent candidate on a “stabil
 ...
 
 [Data](articles/36a6e9ea.json)
+
+[Extended Data](ext_articles/36a6e9ea.ext.json)
 
 ---
 
@@ -2183,55 +2239,5 @@ The Government of Canada first listed the LTTE as a terrorist entity under the C
 [Data](articles/295f9e8a.json)
 
 [Extended Data](ext_articles/295f9e8a.ext.json)
-
----
-
-### New luxury bus service from Katunayake airport
-
-*2024-08-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199969) · `si`
-
-A new luxury bus service operates from Katunayake airport to Colombo Fort Station and Makumbura Transport Center. Ideal for foreign tourists, it offers direct travel without expressway interruptions. Jointly managed by the Airport and Aviation Ministry, the Ministry of Transport and Highways, and a private company, this service includes ten luxury buses charging per passenger for each journey.
-
-🟩
-
-A new luxury bus service from Katunayake from Katunayake to Colombo Fort to Colombo Fort Station and the Makumbura Multiple Transport Center (15).
-
-If foreign tourists traveling for Sri Lanka's visit to Sri Lanka, they should come to the airport bus stand from the airport, about 2 km from the airport.
-
-Accordingly, the buses leave the airport and enter the destination without being interrupted by the Colombo-Katunayake Expressway.
-
-The new bus service is jointly operating in the Airport and Aviation Ministry, the Ministry of Transport and Highways and a private bus firm.
-
-Ten luxury buses have been deployed for the bus service and will be charged from one passenger for one passage.
-
-◼️
-
-[Data](articles/6bc8f86c.json)
-
-[Extended Data](ext_articles/6bc8f86c.ext.json)
-
----
-
-### The Election Commission looks like 'Kopikadai' - Vijayadasa
-
-*2024-08-15 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/191160) · `ta`
-
-Vijayadasa Rajapakse criticizes the Election Commission for lack of discipline during nominations, comparing it unfavorably to past practices. He highlights the emergence of numerous groups and the use of 'dummy' candidates to sway votes, urging both the commission and the public to uphold standards.
-
-🟩
-
-The National Democratic Front's presidential candidate Vijayadasa Rajapakse says that the Election Commission failed to maintain discipline during the nomination process.
-
-Vijayadasa Rajapaksa said that in the past, the discipline of the Election Commission will be maintained, and that many groups have been formed this time.
-
-He said that several 'dummy "candidates have been fielded to win a candidate, and that the' dummy” candidates from 15 to 20 have been fielded for a candidate.
-
-Vijayadasa Rajapakse, who has appealed to the Election Commission to maintain discipline among the candidates, has called for the people to do so before we appeal to the people.
-
-◼️
-
-[Data](articles/b863b9d6.json)
-
-[Extended Data](ext_articles/b863b9d6.ext.json)
 
 ---

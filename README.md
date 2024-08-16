@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 22:54:46**
+As of **2024-08-16 23:06:22**
 
 ## Newspaper Stats
 
-*Scraped **41,132** Articles*
+*Scraped **41,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,664
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
-tamilmirrorlk | 5,267
+tamilmirrorlk | 5,268
 virakesarilk | 6,527
 adaderanasinhalalk | 7,002
 
@@ -26,21 +26,43 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,131 (100.0%) of 41,132 articles have been extended.
+41,132 (100.0%) of 41,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### අයර්ලන්තයට ජය
+### Win to Ireland
 
 *2024-08-16 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200017) · `si`
 
-අයර්ලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට එරෙහි තරග 03කින් යුත් එක්දින ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් පැවති පළමු තරගයෙන් ජය ගැනීමට අයර්ලන්ත කණ්ඩායම සමත් විය.
+The Irish cricket team triumphed in the opening match of a three-day tournament against the Ireland women's cricket team.
+
+🟩
+
+Irish team won the first match of the three-day cricket tournament against Ireland women's cricket team.
 
 ◼️
 
 [Data](articles/e29919ff.json)
+
+[Extended Data](ext_articles/e29919ff.ext.json)
+
+---
+
+### சில மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை
+
+*2024-08-16 22:11:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-342296) · `ta`
+
+நிலவும் மழையுடனான வானிலை காரணமாக காலி, களுத்துறை மற்றும் மாத்தறை மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதன்படி, காலி மாவட்டத்தின் நெலுவ, எல்பிட்டிய, நாகொட, யக்கலமுல்ல பிரதேசங்களுக்கும், களுத்துறை மாவட்டத்தின் ஹொரணை, மதுகம மற்றும் மாத்தறை மாவட்டத்தின் பிடபெத்தர ஆகிய இடங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இந்த எச்சரிக்கை அறிவிப்பு இன்று (16) இரவு 7.30 மணி முதல் நாளை இரவு 7.30 மணி வரை செல்லுபடியாகும் என தேசிய கட்டிட மற்றும் ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/e9ed4e0c.json)
 
 ---
 
@@ -2265,27 +2287,5 @@ In this case, for the first time outside Africa, in Sweden,. The virus belongs t
 [Data](articles/281453e5.json)
 
 [Extended Data](ext_articles/281453e5.ext.json)
-
----
-
-### Shooting in Anuradhapura;One killed
-
-*2024-08-16 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/191188) · `ta`
-
-A shooting at Pillaiyar junction in Anuradhapura resulted in one fatality. Police are investigating the use of a T56 rifle and the motive behind the incident, with no suspects identified yet.
-
-🟩
-
-One person was killed in a shooting at Pillaiyar junction in Anuradhapura - Sripura, Gemunupura, Pillaiyar this morning.
-
-Police investigations revealed that the T56 rifle has been used for the shooting.
-
-In addition, the cause of the shooting has not yet been identified and investigations are being carried out to find the suspects, police said.
-
-◼️
-
-[Data](articles/d0a0a2f0.json)
-
-[Extended Data](ext_articles/d0a0a2f0.ext.json)
 
 ---

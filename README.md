@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 19:54:47**
+As of **2024-08-16 20:06:55**
 
 ## Newspaper Stats
 
-*Scraped **41,113** Articles*
+*Scraped **41,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 4,804
 tamilmirrorlk | 5,263
 virakesarilk | 6,521
-adaderanasinhalalk | 6,996
+adaderanasinhalalk | 6,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,111 (100.0%) of 41,113 articles have been extended.
+41,111 (100.0%) of 41,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### මි. මී 100 ඉක්මවූ වැසි  - ඉදිරි පැය 24 සැලකිලිමත් වන්න
+
+*2024-08-16 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200013) · `si`
+
+තද වැසි පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව බස්නාහිර සහ සබරගමුව පළාත් සහ ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ජනතාවට මේ පිළිබඳ සැලකිලිමත් වන ලෙස එම දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+එම ප්‍රදේශවලට ඉදිරි පැය 24 තුළ මි. මී 100 ඉක්මවූ තද වැසි ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු අනතුරු අවම කරගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාව හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍රදේශවල මෙම තත්ත්වය හටගෙන තිබේ.
+
+◼️
+
+[Data](articles/ae1f9dd8.json)
+
+---
 
 ### Heavy traffic congestion on Southern Expressway due to accident
 
@@ -59,6 +79,20 @@ Police said that as a result, only one lane is open for vehicular movements towa
 ◼️
 
 [Data](articles/fae8b053.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ අනතුරක්
+
+*2024-08-16 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200012) · `si`
+
+බස් රථයක් සහ කන්ටේනර් රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+මේ හේතුවෙන් රථවාහන තදබදයක්ද මතුව ඇති අතර මාතර දෙසට වාහන ධාවනය එක් මංතීරුවකට සීමා කිරීමටත් පොලීසිය පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/55eb8dde.json)
 
 ---
 
@@ -2243,53 +2277,5 @@ Thus, general  public is kindly requested to take adequate precautions to minim
 [Data](articles/4c0aaff9.json)
 
 [Extended Data](ext_articles/4c0aaff9.ext.json)
-
----
-
-### Holidays for schools today
-
-*2024-08-16 08:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-இன்றுடன்-விடுமுறை/175-342268) · `ta`
-
-Tamil and Sinhala schools received holiday permits due to state reasons, allowing the first phase of the third installment to commence on April 26th.
-
-🟩
-
-Tamil and Sinhala schools with state and state permits have been granted holidays from today, the Ministry of Education said.
-
-Accordingly, the first phase of the third installment will begin on Monday, the 26th of this month.. (A)
-
-◼️
-
-[Data](articles/9ddff0d7.json)
-
-[Extended Data](ext_articles/9ddff0d7.ext.json)
-
----
-
-### Pays MPs to take measures to take action
-
-*2024-08-16 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199988) · `si`
-
-President Wickremesinghe plans to discipline Sri Lanka Civil Service members opposing his 2024 presidential bid. The move comes after a political council meeting where it was decided to name a party candidate and act against dissenters. This follows reports of influence from the party's Political Bureau and requests from activists for membership revocation.
-
-🟩
-
-It has been reported that the President has decided to take disciplinary action against the members of the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment of the Sri Lanka General Wickremesinghe in the 2024 presidential election.
-
-A spokesperson of the Sri Lanka General Manage said that the MPs will be referred to the MPs soon.
-
-It is said that after taking disciplinary action, the party membership of the members who opposed the decision of the party will be abolished.
-
-The Political Council was recently gathered to discuss the Sri Lanka Civil Arumen's Front in the presidential election.
-
-It was decided to name a candidate from the party, and it was decided to take disciplinary action against MPs who opposed the decision.
-
-However, it is reported that the party's Political Bureau has been influenced by the party's Political Bureau over the past few weeks to take measures to take action against the party's decision.
-
-...
-
-[Data](articles/b96c48fe.json)
-
-[Extended Data](ext_articles/b96c48fe.ext.json)
 
 ---

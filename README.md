@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 07:29:46**
+As of **2024-08-16 07:50:53**
 
 ## Newspaper Stats
 
-*Scraped **41,003** Articles*
+*Scraped **41,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,490
 dailyftlk | 2,664
 adalk | 3,773
 dailymirrorlk | 4,733
-adaderanalk | 4,783
+adaderanalk | 4,784
 tamilmirrorlk | 5,239
 virakesarilk | 6,494
 adaderanasinhalalk | 6,973
@@ -26,93 +26,141 @@ adaderanasinhalalk | 6,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,986 (100.0%) of 41,003 articles have been extended.
+40,996 (100.0%) of 41,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### ශ්‍රී පුර වෙඩිතැබීමෙන් පුද්ගලයෙක් මරුට
+### Youth killed in shooting at Sripura
+
+*2024-08-16 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/101272/youth-killed-in-shooting-at-sripura) · `en`
+
+A 26-year-old person has been shot dead at Pillayar Junction in Gemunupura, Sripura early this morning (16).
+
+Police said the shooting was carried out by an unidentified gunman who had arrived on a motorcycle and using a T56 assault rifle.
+
+◼️
+
+[Data](articles/fc1d322c.json)
+
+---
+
+### Sri Lanka kills a person
 
 *2024-08-16 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199986) · `si`
 
-අද (16) අලුයම සිදු කළ වෙඩිතැබීමකින් පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+A person was shot and killed today in Sri Lanka, at the Gemunupura Palleyar junction in the Sri Pillai Division. The police confirmed the incident.
 
-එම වෙඩිතැබීම සිදුකර තිබුණේ ශ්‍රී පුර පොලිස් වසමේ ගැමුණුපුර පුල්ලෙයාර් හන්දියේදී ය.
+🟩
+
+Police say that a shot of shooting has been murdered today (16).
+
+The shooting was carried out at the Gemunupura Palleyar junction in the Sri Pills Division.
 
 ◼️
 
 [Data](articles/daa6232c.json)
 
+[Extended Data](ext_articles/daa6232c.ext.json)
+
 ---
 
-### தாய்லாந்தின் புதிய பிரதமர் நியமனம் இன்று
+### Thailand's new PM appointment today
 
 *2024-08-16 06:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்தின்-புதிய-பிரதமர்-நியமனம்-இன்று/50-342260) · `ta`
 
-தாய்லாந்து பாராளுமன்றம் இன்று கூடவுள்ள நிலையில் புதிய பிரதமர் தெரிவு செய்யப்படவுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன.
+Today, Thailand's parliament will elect a new Prime Minister after sacking Sreta Tavisin via court order yesterday.
 
-தாய்லாந்து பிரதமர் ஸ்ரெத்தா தவிசின் நேற்று முன்தினம்  பதவியிலிருந்து நீக்கப்பட்டார். நீதிமன்ற உத்தரவினூடாக அவர் பதவி நீக்கம் செய்யப்பட்டார் என்பது குறிப்பிடத்தக்கது. (a)
+🟩
+
+According to reports, the new Prime Minister will be elected as the Thai parliament is due today.
+
+Thailand's Prime Minister Sreta Tavisin was sacked yesterday. It is noteworthy that he was sacked through a court order. (A)
 
 ◼️
 
 [Data](articles/0432f42e.json)
 
+[Extended Data](ext_articles/0432f42e.ext.json)
+
 ---
 
-### දෙවන පාසල් වාරය අදින් අවසන්
+### The second school term is over
 
 *2024-08-16 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199985) · `si`
 
-රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල 2024 වසරේ  දෙවන පාසල් වාරය අදින් (16) අවසන් වෙයි.
+The second school term of 2024 in government and approved private schools ends soon, with the next phase beginning on Monday, 26th, as announced by the Ministry of Education.
 
-අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කළේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ මාධ්‍ය පාසල් සඳහා දෙවන පාසල් වාරය මෙලෙස අදින් අවසන් වන බවය.
+🟩
 
-තෙවන පාසල් වාරයේ පළමු අදියර ලබන 26 වන සඳුදා ආරම්භ කරන බව ද අධ්‍යාපන අමාත්‍යංශයේ එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The second school season of 2024 in government schools and government approved private schools will end.
+
+The Ministry of Education announced that the second school term for Sinhala and Tamil medium schools in government schools and government approved private schools will end.
+
+The first phase of the third term will be opened on Monday 26th Ministry of Education.
 
 ◼️
 
 [Data](articles/bc5b188f.json)
 
+[Extended Data](ext_articles/bc5b188f.ext.json)
+
 ---
 
-### එංගලන්ත ලයන්ස් ලකුණු 185ක් ඉදිරියෙන්
+### England Lions leading 185 runs
 
 *2024-08-16 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199984) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම හා එංගලන්ත ලයන්ස් කණ්ඩායම අතර Worcester හිදී පැවැත්වෙන පළමු හා එකම සිව්දින පුහුණු තරගයේ දෙවැනි දිනයට ඊයේ (15) තරගය නතර කරන විට සිය පළමු ඉනිම ක්‍රීඩා කළ ලයන්ස් කණ්ඩායම පන්දුවාර 89.2කදී සියලුදෙනා දැවී ලකුණු 324ක් රැස්කරගෙන සිටියේය.
+In the first day of the Sri Lanka tour, England Lions dominated with 324 runs in 89.2 overs, led by 18-year-old Hamza Sheikh with 91 runs. Sri Lanka replied with 139 runs, bowled out by Summan Akhtar with 5/32. Prabath Jayasuriya took 5/312 for Sri Lanka.
 
-ලයන්ස් ඉනිම ඔසවා තැබූ 18 හැවිරිදි හම්සා ෂෙයික් පන්දු 204කට මුහුණ දෙමින් ඉවසිලිවන්ත ලකුණු 91ක් රැස්කිරීමට සමත් විය.
+🟩
 
-ඊට අමතරව යොවුන් පිතිකරු Kasey Aldridge ලකුණු 78ක් ඉනිමට එක්කළ අතර, ඒ වෙනුවෙන් ඔහු පන්දු 96කට මුහුණ දුන්නේය.
+The first innings of the first day of the Sri Lanka Tourist Sri Lanka and the Lions of England were in their first innings player scored 324 runs in 89.2 overs.
 
-ශ්‍රී ලංකා පන්දු යවන්නන් අතරින් සාර්ථක පන්දු යැවීමක නිතර වූ ප්‍රභාත් ජයසූරිය කඩුලු 05ක් බිඳහෙළීමට සමත් වූ අතර, ඒ වෙනුවෙන් පන්දුවාර 31.2ක් යොමුකළ ඔහු ලකුණු 102ක් ලබා දුන්නේය.
+Hamza Sheikh, 18-year-old Hamza Sheikh scored 91 runs off 204 runs.
 
-ලයන්ස් කණ්ඩායමේ ආරාධනයෙන් පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 43.5කදී සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 139ක් පමණි.
+In addition, the Youth batsman was 78 runs while he faced 96 balls.
 
-දිමුත් කරුණාරත්න ලකුණු 26ක් රැස්කළ අතර, එය ශ්‍රී ලංකා ඉනිමේ පිතිකරුවෙකු රැස්කළ වැඩිම ලකුණු සංඛ්‍යාවද විය.
+Among the Sri Lankan bowlers, Prabath Jayasuriya, who was frequent bowled out for 5 wickets and sent 312 overs.
 
-...
+Sri Lanka scored only 139 runs in 43.5 overs.
+
+Dimuth Karunaratne scored 26 runs while it was the highest number of batsman.
+
+Summan Akhtar, who exhibited a prominent bowler for Lions, took 5 wickets for 32 wickets.
+
+The first match of the three-match Test series between the two countries is due to start at Manchester on 21st month.
+
+◼️
 
 [Data](articles/425442bf.json)
 
+[Extended Data](ext_articles/425442bf.ext.json)
+
 ---
 
-### எல்லைகளை திறக்கும் வட கொரியா
+### North Korea that opens borders
 
 *2024-08-16 06:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எல்லைகளை-திறக்கும்-வட-கொரியா/50-342259) · `ta`
 
-ஐந்து வருடங்களுக்குப் பின்னர் வெளிநாட்டுச் சுற்றுலாப்பயணிக்காக அதன் எல்லைகளைத் திறப்பதற்கு வடகொரியா தீர்மானித்துள்ளது.
+After a five-year hiatus due to COVID-19, North Korea plans to reopen its borders to foreign tourists starting next December, allowing visitors from countries other than South Korea.
 
-இதன்படி, எதிர்வரும் டிசம்பர் மாதம் முதல் அதன் எல்லைகளைத் திறப்பதற்குத் தீர்மானிக்கப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+🟩
 
-கொரோனா தொற்று பரவல் காரணமாக சுமார் ஐந்து வருடங்களாக வடகொரியா சுற்றுலாப்பயணிகளுக்காகத் தமது எல்லைகளை மூடியிருந்தது.
+Five years later, North Korea has decided to open its borders for a foreign tourist tourist.
 
-இந்தநிலையில், தென்கொரியா சுற்றுலாப் பயணிகளைத் தவிர ஏனைய நாட்டுச் சுற்றுலாப்பயணிகளுக்கு வடகொரியாவிற்கு செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளது. (a)
+According to international media reports, it has been decided to open its borders from next December.
+
+North Korea has closed its boundaries for tourists for nearly five years due to the spread of Corona.
+
+In the meantime, other tourists other than South Korea have been allowed to visit North Korea.. (A)
 
 ◼️
 
 [Data](articles/4e6373d1.json)
+
+[Extended Data](ext_articles/4e6373d1.ext.json)
 
 ---
 
@@ -132,6 +180,8 @@ Established in 2014, WISTA Sri Lanka was initiated with the goal of providing a 
 
 [Data](articles/1e7ca9c9.json)
 
+[Extended Data](ext_articles/1e7ca9c9.ext.json)
+
 ---
 
 ### hSenidBiz’s PeoplesHR Cloud drives 1Q FY25 success, exit ARR hits $ 3 m
@@ -147,6 +197,8 @@ The company surpassed an exit Annualised Recurring Revenue (ARR) of $ 3.5 millio
 ...
 
 [Data](articles/8a13a5df.json)
+
+[Extended Data](ext_articles/8a13a5df.ext.json)
 
 ---
 
@@ -164,6 +216,8 @@ Hayleys Fentons Managing Director Hasith Prematillake says: “This new affiliat
 
 [Data](articles/90d8aea1.json)
 
+[Extended Data](ext_articles/90d8aea1.ext.json)
+
 ---
 
 ### 16th Annual General Meeting of Indo Lanka Chamber of Commerce and Industry
@@ -177,6 +231,8 @@ Speaking at the occasion, the Chief Guest High Commissioner of India Santosh Jha
 ...
 
 [Data](articles/a963f28d.json)
+
+[Extended Data](ext_articles/a963f28d.ext.json)
 
 ---
 
@@ -195,6 +251,8 @@ This exceptional financial performance was largely driven by the successful comm
 ...
 
 [Data](articles/dc462802.json)
+
+[Extended Data](ext_articles/dc462802.ext.json)
 
 ---
 
@@ -2133,27 +2191,5 @@ To celebrate the announcement, Jetstar Asia has launched one-way sale fares from
 [Data](articles/4a512a23.json)
 
 [Extended Data](ext_articles/4a512a23.ext.json)
-
----
-
-### Today in History: "Mother India has become independent" - 1947
-
-*2024-08-15 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191148) · `ta`
-
-On August 15, 1947, India celebrated its 78th Independence Day, marking the end of British rule. This significant event was highlighted in the Weerakesari magazine, featuring the editorial "Mother India is independent." The celebration extends beyond India's borders, with festivities in Sri Lanka as well.
-
-🟩
-
-India's 78th Independence Day is being celebrated not only in India but also in Sri Lanka.
-
-India gained independence from British rule on August 15, 1947.
-
-The news was published on the front page of the Weerakesari magazine, which was published on the same date, in the editorial "Mother India is independent".
-
-◼️
-
-[Data](articles/3e7581bb.json)
-
-[Extended Data](ext_articles/3e7581bb.ext.json)
 
 ---

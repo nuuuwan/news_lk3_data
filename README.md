@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 00:09:31**
+As of **2024-08-17 00:21:14**
 
 ## Newspaper Stats
 
-*Scraped **41,142** Articles*
+*Scraped **41,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 382
 colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,499
-dailyftlk | 2,664
+dailyftlk | 2,665
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
@@ -26,9 +26,23 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,142 (100.0%) of 41,142 articles have been extended.
+41,142 (100.0%) of 41,143 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-17 (Saturday)
+
+### Presidential Election 2024: What is the political economy awaiting Sri Lanka?
+
+*2024-08-17 00:01:46* · [`dailyftlk`](https://www.ft.lk/opinion/Presidential-Election-2024-What-is-the-political-economy-awaiting-Sri-Lanka/14-765660) · `en`
+
+The Presidential Election 2024 is crucial by all standards in view of the current economic catastrophe the country is experiencing. It is up to the masses to decide how they would choose the most suitable candidate who would decide on the fate of the nation and its people through his strategies and leadership. Majority of Sri Lanka’s eternally suffering masses in comparison to many other developed nations who were far too behind when we gained Independence in 1948 are expected to turn the tables on 21 September 2024
+
+...
+
+[Data](articles/ed39ccf1.json)
+
+---
 
 ### 2024-08-16 (Friday)
 
@@ -2281,27 +2295,5 @@ It is reported that the full moon appears when two different celestial events oc
 [Data](articles/86c19d66.json)
 
 [Extended Data](ext_articles/86c19d66.ext.json)
-
----
-
-### Sajith goes to Dalada House
-
-*2024-08-16 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/191196) · `ta`
-
-Sajith Premadasa, a presidential candidate from the United People's Power, received blessings for his political endeavors at Sri Dalada House in Kandy. The opposition leader was warmly welcomed by the Diyawadana Nilame and the Vihara Basnayaka Nilame during his visit.
-
-🟩
-
-Sajith Premadasa, the presidential candidate of the United People's Power and the presidential candidate of the United People's Power, has received blessings for his future political activities at the Sri Dalada House in Kandy.
-
-Opposition leader Sajith Premadasa made a visit to Sri Dalada House this morning.
-
-The leader of the opposition who visited the Dalada House, including the Diyawadana Nilame, welcomed the Vihara Basnayaka land.
-
-◼️
-
-[Data](articles/ca753aa9.json)
-
-[Extended Data](ext_articles/ca753aa9.ext.json)
 
 ---

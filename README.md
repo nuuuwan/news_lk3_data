@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 13:36:44**
+As of **2024-08-16 13:56:15**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,057 (100.0%) of 41,058 articles have been extended.
+41,058 (100.0%) of 41,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### தேரரை சந்தித்தார் அநுர குமார
+### Thera met Anura Kumara
 
 *2024-08-16 13:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரை-சந்தித்தார்-அநுர-குமார/175-342281) · `ta`
 
-தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் தோழர் அநுர குமார திசாநாயக்க மீரிகம கந்தன்கமுவ ஸ்ரீ வித்யாவாச பிரிவென் மஹா விகாரையில் ராமக்ஞ மஹா நிக்காயவின் மஹா நாயக்க தேரர் சங்கைக்குரிய மக்குலேவே விமல நாயக்க தேரரை இன்று (16) முற்பகல் சந்தித்தார்.
+Anura Kumara Dissanayake, the National People's Power presidential candidate, met Makuleway Vimala Nayaka Thera, head of Ramagna Maha Nikaya's Maha Viharaya, discussing the country's politics and receiving their support for his presidency. Comrade Vijitha Herath, another party member, was also there.
 
-இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய தோழர் அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+🟩
 
-இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் தோழர் விஜித ஹேரத்தும் பங்கேற்றார்.
+Comrade Anura Kumara Dissanayake, the Presidential candidate of the National People's Power, met with Makuleway Vimala Nayaka Thera, the Maha Nikayaka Thera of Ramagna Maha Nikaya's Maha Viharaya at Sri Vidyaavasa Paraven Maha Viharaya.
+
+Comrade Anura Kumara Dissanayake, who had discussed the political situation in the country today, had received their goodwill for the success of the president.
+
+Comrade Vijitha Herath, a member of the National Executive Council of the National People's Power, was also present.
 
 ◼️
 
 [Data](articles/9ad51c58.json)
+
+[Extended Data](ext_articles/9ad51c58.ext.json)
 
 ---
 

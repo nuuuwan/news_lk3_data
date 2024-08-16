@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 20:36:25**
+As of **2024-08-16 20:55:11**
 
 ## Newspaper Stats
 
-*Scraped **41,116** Articles*
+*Scraped **41,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,783
+adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,804
 tamilmirrorlk | 5,264
 virakesarilk | 6,521
-adaderanasinhalalk | 6,998
+adaderanasinhalalk | 6,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,115 (100.0%) of 41,116 articles have been extended.
+41,115 (100.0%) of 41,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### දිස්ත්‍රික්ක තුනකට අනතුරු ඇඟවීමක්
+
+*2024-08-16 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200014) · `si`
+
+පවතින අධික වර්ෂාව හමුවේ දිස්ත්‍රික්ක තුනක් සඳහා පූර්ව නායයාමේ අනතුරු ඇඟවීම් නිකුත් කිරීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නෙළුව, ඇල්පිටිය, ⁠නාගොඩ, ⁠යක්කලමුල්ල යන ප්‍රදේශ සඳහාත් කළුතර දිස්ත්‍රික්කයේ හොරණ, ⁠මතුගම මෙන්ම මාතර දිස්ත්‍රික්කයේ පිටබැද්දර යන ප්‍රදේශ සඳහාත් මේ අනුව නායයෑමේ අනතුරු ඇ﻿ඟවීම් නිකුත් කර ඇත.
+
+අද (16) පස්වරු 7.30 සිට හෙට පස්වරු 7.30 දක්වා වූ කාලය තුළ මෙම අනතුරු ඇඟවීමේ නිවේදනය වලංගු බව ජාතික ගොඩනැගිලි හා පර්යේෂණ සංවිධානය පවසයි.
+
+◼️
+
+[Data](articles/f6df8310.json)
+
+---
 
 ### Rs. Showers over 100 mees - take the 24 hour care
 
@@ -231,6 +247,22 @@ Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 
 [Data](articles/fc5ca8bb.json)
 
 [Extended Data](ext_articles/fc5ca8bb.ext.json)
+
+---
+
+### ජයගැනීමෙන් පසු තාක්ෂණික විප්ලවයක් ඇති කරනවා
+
+*2024-08-16 18:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ජයගැනීමෙන්-පසු-තාක්ෂණික-විප්ලවයක්-ඇති-කරනවා/11-411410) · `si`
+
+තමන් ජයග්‍රහණය කිරීමෙන් පසුව මේ රටේ තාක්ෂණික විප්ලවයක් ඇති කරන බවත් මෙරට විරැකියාවට තිත තබන බවත් තරුණයන් කෘෂිකාර්මික විවසායකයන් බවට පත් කිරීමේ වැඩසටහනක් දියත් කරන බව  පොදු පෙරමුණු ජනාධිපතික්ෂක් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්‍ෂ මහතා 16 දින පස්වරුවේ දඹුල්ලේ දී පැවසීය.
+
+නාමල් රාජපක්ෂ මහතා පිළිගැනීමේ උත්සවයක් දඹුල්ල ආර්ථික මධ්‍යස්ථානය අසලදී පැවැත්විණි , දඹුල්ල හිටපු නගරාධි පති ජාලිය ඕපාත මහතා මෙම පිළිගැනීමේ උත්සවය සංවිධානය කොට තිබෙනු අතර පාර්ලිමේන්තු මන්ත්‍රී නාලක කෝට්ටේ ගොඩ මහතා ද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+අනුරාධපුරයේ සිට මහනුවර බලා ගමන් කරමින් සිටියදී මෙම පිළිගැනීමේ උත්සවය සංවිධානය කොට තිබිණි, එහිදී විශාල පිරිසක් නාමල් රාජපක්ෂ මහතා පිළිගැනීම සඳහා දඹුල්ල  ආර්ථික මධ්‍යස්ථානයේ අසලට පැමිණ සිටියහ .
+
+...
+
+[Data](articles/dad07bf2.json)
 
 ---
 
@@ -2259,47 +2291,5 @@ According to the recent renewal review by the Canadian government, the Ministry 
 [Data](articles/f83ead32.json)
 
 [Extended Data](ext_articles/f83ead32.ext.json)
-
----
-
-### Second school term ends today
-
-*2024-08-16 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101274/second-school-term-ends-today) · `en`
-
-The second school term of the year 2024 in government and government-approved schools ends today (16), said the Ministry of Education.
-
-Accordingly, it said that the second term of all government and government-approved schools (Sinhala and Tamil medium) will end today (16).
-
-Meanwhile, the schools are scheduled to reopen for the first phase of the third term on August 26 (Monday).
-
-◼️
-
-[Data](articles/5c28ef9c.json)
-
-[Extended Data](ext_articles/5c28ef9c.ext.json)
-
----
-
-### Maithripala Sirisena goes to the IMC;Vijayadasa Rajapaksa
-
-*2024-08-16 08:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191186) · `ta`
-
-Maithripala Sirisena's potential move to the United People's Power is viewed positively by Vijayadasa Rajapaksa, a presidential candidate from the National Democratic Front. Rajapaksa expressed his support for Sirisena's decision during a press conference after filing his nomination for the upcoming presidential election. He criticized the lack of discipline among some candidates and their supporters, urging the Election Commission to maintain order. Rajapaksa also highlighted concerns over the perception of Sri Lanka's political climate by international observers.
-
-🟩
-
-I heard that Maithripala Sirisena, who supported me, was going to join the United People's Power. "I think it is very good if he does so," said Vijayadasa Rajapaksa, the presidential candidate of the National Democratic Front. "
-
-He was speaking to the media after filing a nomination for the presidential election at the Elections Secretariat in Rajagiriya on Thursday.
-
-In the filing of nominations, the discipline has not been seen so far. A few candidates have been very moral within the Election Commission with their supporters and are seen as groups in groups as they act in villages.
-
-What do you think of our country when international countries see such activities?We are worried when international countries see us about us. This is because the countries of the world are looking at how the people who are trying to become the first part of the country are acting.
-
-...
-
-[Data](articles/960482ba.json)
-
-[Extended Data](ext_articles/960482ba.ext.json)
 
 ---

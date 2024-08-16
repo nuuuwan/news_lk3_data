@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 16:21:13**
+As of **2024-08-16 16:36:33**
 
 ## Newspaper Stats
 
-*Scraped **41,083** Articles*
+*Scraped **41,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,664
 adalk | 3,780
 dailymirrorlk | 4,733
 adaderanalk | 4,798
-tamilmirrorlk | 5,260
+tamilmirrorlk | 5,261
 virakesarilk | 6,510
 adaderanasinhalalk | 6,990
 
@@ -26,21 +26,39 @@ adaderanasinhalalk | 6,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,081 (100.0%) of 41,083 articles have been extended.
+41,083 (100.0%) of 41,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### පාර්ලිමේන්තු මන්ත්‍රී අලී සහීර් මවුලානා ජනපතිට සහාය දක්වයි
+### ரணிலுடன் இணைந்தார்  அலி சாஹிர்
+
+*2024-08-16 16:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-இணைந்தார்-அலி-சாஹிர்/175-342289) · `ta`
+
+எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்   அலி சாஹிர் மௌலானா ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து ஜனாதிபதி தேர்தலில் தனது ஆதரவை உறுதியளித்ததாக ஐக்கிய தேசிய கட்சி வட்டாரங்கள் தெரிவித்தன.
+
+◼️
+
+[Data](articles/aabff9fe.json)
+
+---
+
+### MP Ali Seri Shirna also supports President
 
 *2024-08-16 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200005) · `si`
 
-ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රස් පක්ෂයේ මඩකපුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලී සහීර් මවුලානා මහතා ඉදිරි ජනාධිපතිවරණයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීමට තීරණය කර තිබේ.
+Ali Seri Shirna, leader of Sri Lanka's Muslim Congress Party in Batticaloa District, backs President Ranil Wickremesinghe for re-election.
+
+🟩
+
+The Batticaloa District of Sri Lanka Muslim Congress Party Ali Seri Saheer Moulana has decided to support President Ranil Wickremesinghe in the next presidential election.
 
 ◼️
 
 [Data](articles/dd020464.json)
+
+[Extended Data](ext_articles/dd020464.ext.json)
 
 ---
 
@@ -53,6 +71,8 @@ Sri Lanka Muslim Congress (SLMC) Batticaloa District MP Ali Zahir Moulana has me
 ◼️
 
 [Data](articles/e8ed240a.json)
+
+[Extended Data](ext_articles/e8ed240a.ext.json)
 
 ---
 
@@ -2211,21 +2231,5 @@ Speaking after the signing of the MoU at Gangaramaya, Senaratne described Wickre
 [Data](articles/53b051e3.json)
 
 [Extended Data](ext_articles/53b051e3.ext.json)
-
----
-
-### Elections, regime shift, and transformation of the State
-
-*2024-08-16 02:34:03* · [`dailyftlk`](https://www.ft.lk/columns/Elections-regime-shift-and-transformation-of-the-State/4-765607) · `en`
-
-The resulting battles will thus to a large degree continue to determine the ultimate significance of any regime that emerges in the immediate aftermath of the election – Pic by Shehan Gunasekara
-
-Elections offer an opportunity to measure the re-composition of social forces. New coalitions are tested, new alliances become possible, and ultimately there is a period of policy convergence. Under ideal circumstances, this process results in the consolidation of a new regime capable of governing over the long run. In a parliamentary democratic system, such a hegemonic bloc can accommodate the rotation of parties in and out of power. The clearest examples in Sri Lanka’s post-independence history, of course, are the ‘intermediate regime’ from 1956 to 1977 and the neoliberal ‘open economy’ that has characterised policy making from 1977 up to the present.
-
-...
-
-[Data](articles/99e9bed4.json)
-
-[Extended Data](ext_articles/99e9bed4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 16:53:58**
+As of **2024-08-16 17:06:39**
 
 ## Newspaper Stats
 
-*Scraped **41,085** Articles*
+*Scraped **41,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,780
 dailymirrorlk | 4,733
-adaderanalk | 4,798
+adaderanalk | 4,799
 tamilmirrorlk | 5,261
 virakesarilk | 6,510
 adaderanasinhalalk | 6,990
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,084 (100.0%) of 41,085 articles have been extended.
+41,085 (100.0%) of 41,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### 2024 Presidential Election: Symbols of independent candidates
+
+*2024-08-16 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101288/2024-presidential-election-symbols-of-independent-candidates) · `en`
+
+The electoral symbols have been assigned to the independent candidates who submitted their nominations to contest in the 2024 Presidential Election scheduled for September 21.
+
+Accordingly, the Election Commission has issued electoral symbols to 17 independent candidates running in this year’s presidential election.
+
+◼️
+
+[Data](articles/e68995c3.json)
+
+---
 
 ### Ali Sahir joined Ranil
 
@@ -1324,25 +1338,33 @@ If the problem is not taken, the villagers and their children will be at risk, s
 
 ---
 
-### ජනපති අපේක්ෂකයන් වැඩි වීම රටට බරක්ද ?
+### Will the President increase the candidates to the country?
 
 *2024-08-16 09:39:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyjdq0j400o) · `si`
 
-මෑතකාලීන ජනාධිපතිවරණවලට ඉදිරිපත් වන අපේක්ෂකයන් සංඛ්‍යාව කැපීපෙනෙන ලෙස ඉහළ යාම සමාජ කතාබහකට ලක්ව තිබේ.
+The text discusses the increasing number of candidates in Sri Lanka's presidential elections, from 6 in 1988 to 40 in 2024, impacting election costs and logistics due to longer ballots and higher printing expenses. The Elections Commission faces challenges in managing the growing number of candidates and their associated costs, which have doubled since 2015. Critics argue that the proliferation of candidates undermines democratic principles, suggesting measures like increasing bail amounts to curb excessive candidacies.
 
-අපේක්ෂකයන් ප්‍රමාණය වැඩිවීමත් සමඟ ජනාධිපතිවරණයේ අපේක්ෂිත වියදම් සහ අවශ්‍යතා සෑම අතකින් ම පාහේ ඉහළ යාමත්, ඒ සඳහා වැඩි සම්පත් ප්‍රමාණයක් අවශ්‍ය වීමත් එයට හේතුවයි.
+🟩
 
-ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු වශයෙන් ඉදිරිපත් විය හැකි ආකාර දෙකකි. ඒ පිළිගත් දේශපාලන පක්ෂයක අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වීම හෝ ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වීමයි.
+Highlights of the candidates who have recently presented to the recent presence have been highlighted.
 
-පිළිගත් දේශපාලන පක්ෂයකින් ඉදිරිපත් වන අපේක්ෂකයන් සඳහා රු.50,000ක ඇප මුදලක් ද, ස්වාධීන හෝ වෙනත් දේශපාලන පක්ෂයකින් ඉදිරිපත්වන අපේක්ෂකයන් රු.75,000ක ඇප මුදලක් ද මැතිවරණ කොමිෂන් සභාවේ තැන්පත් කළ යුතු ය.
+The reason for the increase in the number of candidates, the expected expenses and needs of the presidential election is to increase and need more resources.
 
-එලෙස නියමිත දිනට ඇප මුදල් තැන්පත් කර නාමයෝජනා මැතිවරණ කොමිසමට ඉදිරිපත් කළ අපේක්ෂකයන් අතුරින් සුදුසුකම් ලැබූ අපේක්ෂකයන් ජනාධිපතිවරණ අපේක්ෂකයන් ලෙස නම් කිරීම සිදුවෙයි.
+There are two possible ways to be a candidate for the presidential election. The presence as a candidate for a recognized political party or is an independent candidate.
 
-ජනාධිපති අපේක්ෂකයන් සයදෙනෙකුගෙන් සමන්විතව පැවති 1982 පළමු ජනාධිපතිවරණයෙන් පසුව පැවති 1988 ජනාධිපතිවරණයට ඉදිරිපත්ව සිටියේ අපේක්ෂකයන් තිදෙනෙකු පමණි.
+The candidates of a recognized political party should be bail of Rs.
+
+The Candidates who have qualified as presidential candidates have been named as presidential candidates.
+
+Six presidential candidates, which were comprised of six presidential candidates, was contesting for the 1988 presidential election after the first presidential election.
+
+It is the Presidential election in Sri Lanka by the number of candidates. Even though the dealers were given only by the recognized political parties, two independent candidates were presented in the 1994 presidential election.
 
 ...
 
 [Data](articles/fb0d8df0.json)
+
+[Extended Data](ext_articles/fb0d8df0.ext.json)
 
 ---
 
@@ -2227,21 +2249,5 @@ Claims military officers appointed to top posts under previous Gotabaya Rajapaks
 [Data](articles/6557293f.json)
 
 [Extended Data](ext_articles/6557293f.ext.json)
-
----
-
-### Harry Jayawardena: Hardnosed businessman with the softest heartbeat
-
-*2024-08-16 02:49:48* · [`dailyftlk`](https://www.ft.lk/columns/Harry-Jayawardena-Hardnosed-businessman-with-the-softest-heartbeat/4-765609) · `en`
-
-Almost 20 years ago, I received a call from Don Harold Stassen Jayawardena. Of course, at the time I knew him as ‘Harry Jayawardena’ as did many SriLankans, especially in business circles. I was in England, veritably forced into exile by political circumstances which included the abduction and torture of the deputy editor of ‘The Nation,’ a newspaper published by Rivira Media Corporation, of which I was at the time the Managing Director, and a brutal attack on Upali Tennakoon, the editor of our sister newspaper in Sinhala. These attacks came just after my friend Lasantha Wickrematunge implored me to leave the countryand not too long before he himself was killed.
-
-It was a time not just of exile but abandonment; for reasons of convenience or fear almost all those I considered friends avoided me. There were a handful who didn’t give a damn about possible consequences or cared enough to be supportive. I didn’t count Harry among them.
-
-...
-
-[Data](articles/46488a84.json)
-
-[Extended Data](ext_articles/46488a84.ext.json)
 
 ---

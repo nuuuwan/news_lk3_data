@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 08:56:07**
+As of **2024-08-16 09:09:01**
 
 ## Newspaper Stats
 
-*Scraped **41,011** Articles*
+*Scraped **41,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,490
 dailyftlk | 2,664
 adalk | 3,774
 dailymirrorlk | 4,733
-adaderanalk | 4,785
+adaderanalk | 4,787
 tamilmirrorlk | 5,241
 virakesarilk | 6,495
 adaderanasinhalalk | 6,975
@@ -26,25 +26,63 @@ adaderanasinhalalk | 6,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,009 (100.0%) of 41,011 articles have been extended.
+41,011 (100.0%) of 41,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### மைத்திரிபால சிறிசேன ஐ.ம.ச.வுக்கு சென்றால் நல்லது ; விஜயதாச ராஜபக்ஷ
+### Decision on election spending limit to be finalized today
+
+*2024-08-16 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101275/decision-on-election-spending-limit-to-be-finalized-today) · `en`
+
+The People’s Action for Free and Fair Elections (PAFFREL) has announced that a final decision will be taken today (16) regarding the amount a candidate can spend per voter in the upcoming presidential election.
+
+The Executive Director of PAFFREL, Rohana Hettiarachchi, stated that this decision will be determined during a discussion between the Election Commission and political party representatives.
+
+◼️
+
+[Data](articles/decdb0c2.json)
+
+---
+
+### Second school term ends today
+
+*2024-08-16 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/101274/second-school-term-ends-today) · `en`
+
+The second school term of the year 2024 in government and government-approved schools ends today (16), said the Ministry of Education.
+
+Accordingly, it said that the second term of all government and government-approved schools (Sinhala and Tamil medium) will end today (16).
+
+Meanwhile, the schools are scheduled to reopen for the first phase of the third term on August 26 (Monday).
+
+◼️
+
+[Data](articles/5c28ef9c.json)
+
+---
+
+### Maithripala Sirisena goes to the IMC;Vijayadasa Rajapaksa
 
 *2024-08-16 08:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191186) · `ta`
 
-எனக்கு ஆதரவளித்துவந்த மைத்திரிபால சிறிசேன ஐக்கிய மக்கள் சக்தியுடன் இணைந்துகொள்ளப்போவதாக கேள்விப்பட்டேன். அவர் அவ்வாறு சென்றால் மிகவும் நல்லது என நினைக்கிறேன் என தேசிய ஜனநாயக  முன்னணியின் ஜனாதிபதி வேட்பாளர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Maithripala Sirisena's potential move to the United People's Power is viewed positively by Vijayadasa Rajapaksa, a presidential candidate from the National Democratic Front. Rajapaksa expressed his support for Sirisena's decision during a press conference after filing his nomination for the upcoming presidential election. He criticized the lack of discipline among some candidates and their supporters, urging the Election Commission to maintain order. Rajapaksa also highlighted concerns over the perception of Sri Lanka's political climate by international observers.
 
-இராஜகிரியவில் அமைந்துள்ள தேர்தல்கள் செயலகத்தில் வியாழக்கிழமை ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்காக வேட்புமனு தாக்கல் செய்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-வேட்புமனு தாக்கல் செய்யும்போது இதுவரை காலம் பின்பற்றப்பட்டுவந்த ஒழுக்கம் கடைப்பிடிக்கப்படுவதை காணக்கூடியதாக இருக்கவில்லை. ஒரு சில வேட்பாளர்கள் தங்களின் ஆதரவாளர்களுடன் தேர்தல் ஆணைக்குழுவுக்குள் மிகவும் ஒழுக்க ஈனமாக செயற்பட்டதுடன் கிராமங்களில் செயற்படுவது போல் குழுக்கள் குழுக்களாக செயற்பட்டு வந்ததை காணக்கூடியதாக இருந்தது.
+I heard that Maithripala Sirisena, who supported me, was going to join the United People's Power. "I think it is very good if he does so," said Vijayadasa Rajapaksa, the presidential candidate of the National Democratic Front. "
+
+He was speaking to the media after filing a nomination for the presidential election at the Elections Secretariat in Rajagiriya on Thursday.
+
+In the filing of nominations, the discipline has not been seen so far. A few candidates have been very moral within the Election Commission with their supporters and are seen as groups in groups as they act in villages.
+
+What do you think of our country when international countries see such activities?We are worried when international countries see us about us. This is because the countries of the world are looking at how the people who are trying to become the first part of the country are acting.
 
 ...
 
 [Data](articles/960482ba.json)
+
+[Extended Data](ext_articles/960482ba.ext.json)
 
 ---
 
@@ -63,6 +101,8 @@ Thus, general  public is kindly requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/4c0aaff9.json)
+
+[Extended Data](ext_articles/4c0aaff9.ext.json)
 
 ---
 
@@ -2171,49 +2211,5 @@ The event took place at his political office on Flower Road, Colombo. The Maha S
 [Data](articles/4977bb6c.json)
 
 [Extended Data](ext_articles/4977bb6c.ext.json)
-
----
-
-### Protests escalate in India over gruesome rape and murder of doctor
-
-*2024-08-15 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/101262/protests-escalate-in-india-over-gruesome-rape-and-murder-of-doctor) · `en`
-
-Thousands of women marched across several Indian cities overnight and Prime Minister Narendra Modi called for strict punishment for crimes against women, as outrage and protests against the gruesome rape and murder of a doctor escalated.
-
-Holding candles and posters that said “reclaim the night”, women held marches across cities, including the eastern Indian city of Kolkata, where the rape and murder of a trainee doctor last week has triggered protests by fellow medics, demanding better and safer working conditions.
-
-Many government hospitals in cities across India suspended all services except emergency departments earlier this week, as junior doctors sat outside in protest, demanding justice for the victim.
-
-The 31-year-old doctor was found dead on Friday. Police said she had been raped and murdered and a police volunteer was subsequently arrested in connection with the crime.
-
-...
-
-[Data](articles/6ed1bc14.json)
-
-[Extended Data](ext_articles/6ed1bc14.ext.json)
-
----
-
-### New alliance led by Anura Yapa formed as ‘People’s Alliance’
-
-*2024-08-15 14:58:16* · [`dailyftlk`](https://www.ft.lk/news/New-alliance-led-by-Anura-Yapa-formed-as-People-s-Alliance/56-765579) · `en`
-
-The Sri Lanka Freedom Party (SLFP) faction led by Minister Nimal Siripala de Silva and the “New Alliance” yesterday launched a new alliance under the name “Podujana Eksath Peramuna” (People’s Alliance).
-
-Former Minister Anura Priyadarshana Yapa was named as the leader of the new alliance.
-
-State Minister Lasantha Alagiyawanna has been appointed as the General Secretary, while State Minister Chamara Sampath Dassanayake has been appointed as the Treasurer.
-
-This new alliance, which includes the SLFP faction led by Nimal Siripala, the “New Alliance” which comprises of MPs including Nimal Lanza and several others parties and groups, was officially formed in Colombo.
-
-During the event, SLFP Treasurer State Minister Lasantha Alagiyawanna announced the positions within the alliance, which also includes a leadership council of 21 members including the Chairman of SLFP, Minister Nimal Siripala de Silva.
-
-The newly-formed alliance plans to contest the upcoming elections under the symbol of the ‘chair’.
-
-◼️
-
-[Data](articles/1d25b542.json)
-
-[Extended Data](ext_articles/1d25b542.ext.json)
 
 ---

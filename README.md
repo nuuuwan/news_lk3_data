@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 14:21:10**
+As of **2024-08-16 14:36:44**
 
 ## Newspaper Stats
 
-*Scraped **41,060** Articles*
+*Scraped **41,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,493
 dailyftlk | 2,664
 adalk | 3,779
 dailymirrorlk | 4,733
-adaderanalk | 4,793
+adaderanalk | 4,795
 tamilmirrorlk | 5,254
 virakesarilk | 6,505
 adaderanasinhalalk | 6,984
@@ -26,49 +26,91 @@ adaderanasinhalalk | 6,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,058 (100.0%) of 41,060 articles have been extended.
+41,060 (100.0%) of 41,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
 
-### කළු කතාව අයින් කරලා දෙන්නම් - අනුර
+### Trains on Up-country Line to experience delays
+
+*2024-08-16 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101283/trains-on-up-country-line-to-experience-delays) · `en`
+
+The train services on the Up-country Line will experience delays due to a derailment near the Demodara railway station this afternoon (16).
+
+A slow train plying from Badulla to Kandy has derailed near the Demodara railway station this manner.
+
+As a result, the trains running past Demodara railway station will possibly experience delays, the Department of Railways said.
+
+◼️
+
+[Data](articles/f65e5deb.json)
+
+---
+
+### Acting President appointed to Court of Appeal
+
+*2024-08-16 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101282/acting-president-appointed-to-court-of-appeal) · `en`
+
+Justice Sobhitha Rajakaruna has been appointed as the Acting President of the Court of Appeal, the President’s Media Division (PMD) said.
+
+Accordingly, Justice Rajakaruna took oath as the Acting President of the Court of Appeal before President Ranil Wickremesinghe at the President’s Office this morning (16), the PMD added.
+
+◼️
+
+[Data](articles/2a87ef98.json)
+
+---
+
+### Black speech will be removed - Anura
 
 *2024-08-16 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199998) · `si`
 
-වර්තමානය වනවිට විසිරී ඇති බලශක්ති ක්ෂේත්‍රය ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ එක් අමාත්‍යාංශයක් තුළට ගෙන එන බව එහි ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake, a presidential candidate, announced plans to centralize the energy sector under one ministry, aiming to address issues like high electricity demand and corruption within the Electricity Board. He pledged to eliminate "black speech" (possibly referring to corruption) and encourage private investment while avoiding unjust projects.
 
-ඔහු මෙම අදහස් පළ කළේ ඉදිරි ජනාධිපතිවරණය සඳහා වන ජාතික ජන බලවේගයේ විදුලිබල සහ බලශක්ති ප්‍රතිපත්ති ප්‍රකාශය එළිදැක්වීමට එක්වෙමිනි.
+🟩
 
-එහිදී තවදුරටත් අදහස් දැක්වූ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා,
+The Presidential candidate Anura Kumara Dissanayake says that the energy sector is currently being brought to each ministry under a government of the national power.
 
-"අපි ජනන සැලැස්මක් සකස් කරනවා වැඩිවන විදුලි ඉල්ලුම සපුරා ගැනීම සම්බන්ධයෙන්. විසඳුම් ලෙස ආණ්ඩුව ගේන්නේ හදිසි මිලදීගැනීම්. මෙතන තිබෙන්නේ සේවක හෝ ඉංජිනේරු ප්‍රශ්නයක් නෙමෙයි. දේශපාලන ප්‍රශ්නයක්.
+He was speaking at the launch of the electricity and energy policy of the National Folk Council for the next presidential election.
 
-බලශක්ති ක්ෂේත්‍රය පුරා පැතිරී තිබෙන කළු කතාව අපි අයින් කරලා දෙන්නම්. සුද්ද කරලා දෙන්නම්. විදුලිබල මණ්ඩලය අභ්‍යන්තර ප්‍රතිව්‍යුහගත කිරීමක් අවශ්‍යයි. විදුලි ජනනය සඳහා පෞද්ගලික ආයෝජන කැඳවීමට අපි පක්ෂපාතීයි. හැබැයි අයුක්ති සහගත ව්‍යාපෘතිවලට ඉඩ දෙන්නේ නැහැ. අපි මේ ඔක්කොම එක අමාත්‍යාංශයක් යටතට පිහිටුවනවා."
+Presidential candidate Anura Kumara Dissanayake said,
+
+"We arrange an arrangement plan in the face of achieving electricity demand. The government brings solutions emergency purchases. There is no employee or engineering problem. A political issue.
+
+We will remove the black speech that is spread throughout the energy sector. Will clean up. The Electricity Board needs an internal restructuring. We are loyal to call private investment for the generation. But I do not allow unjust projects. We will establish all this under one ministry. "
 
 ◼️
 
 [Data](articles/8eaeeecc.json)
 
+[Extended Data](ext_articles/8eaeeecc.ext.json)
+
 ---
 
-### සජිත් ගෙන් ජනපතිට උත්තරයක්
+### UNP replies to Sajith
 
 *2024-08-16 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199997) · `si`
 
-රට තුළ මේ වනවිට ඇත්තේ ජනතාව පීඩාවට පත් කළ රට පතුලටම වැටුණු සාමාන්‍යකරණයක් බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa criticizes the government for failing to address economic issues like job losses and poverty, despite President's claims of normalcy. He visited religious leaders in Kandy after being nominated for the presidency.
 
-ඔහු මේ බව සඳහන් කළේ මල්වතු සහ අස්ගිරි මහානායක ස්වාමීන් වහන්සේලා බැහැදැකීමෙන් අනතුරුව අද (16) පෙරවරුවේ මාධ්‍යයට අදහස් දක්වමිනි.
+🟩
 
-2024 ජනාධිපතිවරණයට නාමයෝජනා ලබාදීමෙන් අනතුරුව සංඝරත්නයේ ආශිර්වාද ලබාගැනීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අද මහනුවරට පැමිණියේය.
+Opposition Leader Sajith Premadasa says that there is a generalization that has fallen into the bottom of the country affected by the people.
 
-"ජනපති කියනවා දැන් හැමදේම සාමාන්‍යයයි කියලා. ඇත්තම කතාව... ජනතාවගේ රැකියා අහිමිවෙලා. දුප්පත්කම වැඩිවෙලා. නව සාමාන්‍යයක් ඇතිවෙලා තියෙනවා ජනතාවගේ ආර්ථිකය කුඩා කරලා."
+He was speaking at the media this morning after the visit to the Chief Prelate of the Chief Prelate of the Chief Prelate of the Asgiriya monks.
 
-මේ අතර ජනාධිපති ධුර අපේක්ෂක, විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට ආශිර්වාද පළ කරමින් ත්‍රෛනිකායික ස්වාමීන් වහන්සේලාගේ වැඩමවීමෙන් ජය පිරිත් සඡ්ඣායනයක් මහනුවර නාථ දේවාල භූමියේදී පැවැත්වුණි.
+Opposition Leader Sajith Premadasa arrived in Kandy today after they were nominated by the Presidential election.
+
+"President says everything is normal. The really story.. People have lost their jobs. Poverty up. The new average has taken the economy of the people. "
+
+Meanwhile, a Pirith Club, Kandy was held at the Kandyan, Kandy's workshop.
 
 ◼️
 
 [Data](articles/1e9521d0.json)
+
+[Extended Data](ext_articles/1e9521d0.ext.json)
 
 ---
 
@@ -2201,49 +2243,5 @@ Many other parties have come forward to support Ranil Wickremesinghe after the p
 [Data](articles/bee818bd.json)
 
 [Extended Data](ext_articles/bee818bd.ext.json)
-
----
-
-### Special committee to protect candidates and former presidents
-
-*2024-08-15 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199977) · `si`
-
-A special committee has been formed to ensure the security of election candidates and former presidents, led by the Secretary to the Ministry of Defense. This committee assesses threats and adjusts security measures as needed, notifying candidates about potential risks and providing protection for all events.
-
-🟩
-
-A special committee has been appointed to protect the candidates and former presidential election.
-
-Acting Police Media Spokesperson DIG Ruwan Gunasekara said that the security for the candidate is determined by intelligence.
-
-"The security of candidates and the security of candidates have been appointed to monitor the safety of former president's security. The chief of the committee is presidentially owned by the Secretary to the Ministry of Defense. It will provide any protection for every candidate. In addition, an assessment of the threats to each candidate. That assessment is done by that committee. Accordingly, if the committee is required to increase protection, increase the security. Accordingly, he protects every candidate. Accordingly, each candidate is notified regarding the meetings participating in the meetings and provides the necessary protection for the meetings. The necessary notifications will be done in the incident. "
-
-◼️
-
-[Data](articles/0f39edfa.json)
-
-[Extended Data](ext_articles/0f39edfa.ext.json)
-
----
-
-### 12 lakh tourists arrived at 8 months
-
-*2024-08-15 20:14:05* · [`adalk`](https://www.ada.lk/breaking_news/මාස-8ට-සංචාරකයන්-ලක්ෂ-12ක්-ඇවිත්/11-411404) · `si`
-
-Over the past eight months, 1,271,432 tourists visited the island, with Indians leading at 237,649. Other top nationalities include Russian, British, German, Chinese, and French. This year started strong with 73,373 tourists arriving in just the first 11 days of January.
-
-🟩
-
-1,271,432 foreign tourists have arrived in the island in the past eight months.
-
-Most of them are Indian tourists and the number is 237,649.
-
-In addition, most tourists have arrived in the island, Russia, British, Germany, China and France. Meanwhile, 73,373 tourists arrived in Sri Lanka during the first 11 days of this month.
-
-◼️
-
-[Data](articles/a2641fc5.json)
-
-[Extended Data](ext_articles/a2641fc5.ext.json)
 
 ---

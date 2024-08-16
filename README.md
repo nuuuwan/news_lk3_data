@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 15:55:35**
+As of **2024-08-16 16:08:51**
 
 ## Newspaper Stats
 
-*Scraped **41,076** Articles*
+*Scraped **41,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,779
+adalk | 3,780
 dailymirrorlk | 4,733
-adaderanalk | 4,796
-tamilmirrorlk | 5,258
+adaderanalk | 4,797
+tamilmirrorlk | 5,260
 virakesarilk | 6,510
-adaderanasinhalalk | 6,988
+adaderanasinhalalk | 6,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,074 (100.0%) of 41,076 articles have been extended.
+41,074 (100.0%) of 41,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### 34 வருடங்களின் பின் வழிபட அனுமதி
+
+*2024-08-16 15:53:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/34-வருடங்களின்-பின்-வழிபட-அனுமதி/46-342288) · `ta`
+
+யாழ்ப்பாணம் - காங்கேசன்துறை மேற்கு கிராமசேவகர் பிரிவுக்குட்பட்ட கீரிமலை கிருஸ்ணர் ஆலயத்துக்கு சென்று வழிபட வௌ்ளிக்கிழமை (16) அனுமதி வழங்கப்பட்டது. அங்கு பெருமளவிலான மக்கள் சென்று பொங்கல் பொங்கி சிறப்பு பூஜை வழிபாடுகளில் ஈடுபட்டனர்.
+
+கடந்த முப்பது வருட காலத்திற்கும் மேலாக இராணுவத்தின் உயர்பாதுகாப்பு வலயத்தினுள்ளே கடற்படையினரின் கட்டுப்பாட்டிலே காணப்பட்ட பழமைவாய்ந்த கீரிமலை கிருஸ்ணர் ஆலய வழிபாடுகளுக்கு  அனுமதி வழங்கப்பட்டநிலையில் அங்கு சென்ற பொது மக்கள் ஆலயத்தை சிரமதானம் செய்ததன் பின்னர் பொங்கல் பொங்கி பூஜை வழிபாடுகளை மேற்கொண்டனர்.
+
+நீண்ட காலத்தின் பின்னர் தமது ஆலயத்திற்குச செல்ல அனுமதிக்கப்பட்டதை மிகவும் சந்தோசமாக வரவேற்ற பொது மக்கள் ஆலயம் சிதைவடைத்திருப்பதை பார்த்து கடும் மனவேதனை அடைந்திருந்தனர்.
+
+இதன்போது யாழ்ப்பாண மாவட்ட பதில் அரசாங்க அதிபர் ம.பிரதீபன், யாழ்ப்பாண மாவட்ட மேலதிக அரசாங்க அதிபர் ஶ்ரீமோகன், செஞ்சொற் செல்வர் ஆறு திருமுருகன், கடற்படை அதிகாரிகள், பொதுமக்கள் உள்ளிட்ட பலரும் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/054fdcf5.json)
+
+---
+
+### ස්වාධීන අපේක්ෂකයින්ගේ ඡන්ද ලකුණු මෙන්න
+
+*2024-08-16 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200004) · `si`
+
+සැප්තැම්බර් 21 වනදා පැවැත්වෙන ජනාධිපතිවරණයට තරග කිරීම සඳහා නාමයෝජනා භාරදුන් ස්වාධීන අපේක්ෂකයින් සඳහා මේ වනවිට ඡන්ද ලකුණ ලබා දී තිබේ.
+
+ඒ අනුව මෙවර ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන ස්වාධීන අපේක්ෂකයින් 17 දෙනෙකුට ඔවුන්ගේ ඡන්ද ලකුණ මැතිවරණ කොමිෂන් සභාව විසින් මෙලෙස නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/420d0b12.json)
+
+---
+
+### SJB denies rumors of alliance with former President Sirisena
+
+*2024-08-16 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101286/sjb-denies-rumors-of-alliance-with-former-president-sirisena) · `en`
+
+Samagi Jana Balawegaya (SJB) media spokesperson S. M. Marikkar has dismissed reports claiming that former President Maithripala Sirisena has joined the ‘Samagi Jana Sandhanaya’.
+
+Issuing a statement on behalf of the SJB, Marikkar clarified that there is no need for the ‘Samagi Jana Sandhanaya’ to form an alliance with the former president or seek his support.
+
+Marikkar also emphasizes that the pro-government propaganda groups, who are in a frantic in the face of certain defeat in the upcoming presidential election, are engaged in a program of creating false news and spreading it through mass media and social media.
+
+Therefore, Marikkar urged the public to be vigilant of such misinformation, emphasizing that the Samagi Jana Sandhanaya’s presidential candidate Sajith Premadasa poses a significant challenge to all opposing parties.
+
+◼️
+
+[Data](articles/b22055fd.json)
+
+---
 
 ### පරිභෝජනයට නුසුදුසු පරිප්පු තොගයක් අල්ලයි
 
@@ -47,6 +97,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ef4278ad.json)
+
+---
+
+### ​மைத்திரியின் செய்தியை மறுத்தார் மரிக்கார்
+
+*2024-08-16 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-செய்தியை-மறுத்தார்-மரிக்கார்/175-342287) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஐக்கிய மக்கள் சக்தியில்  இணைந்துகொண்டார் என்ற செய்தி உண்மைக்குப் புறம்பானது என ஐக்கிய மக்கள் சக்தியின் செய்தி தொடர்பாளர் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, ஐக்கிய மக்கள் சக்தியில்   இணைந்துகொண்டதாக பரப்பப்படும் செய்தியை அவர் மறுத்துள்ளார்.
+
+"இது தோல்வியை எதிர்நோக்கும் அரசாங்கத்தால் பரப்பப்படும் பொய்யான கதையாகும். அரசாங்கமும் அதன் கூட்டாளிகளும் தற்போது போலியான கதைகளை பரப்புகின்றனர்" என பாராளுமன்ற உறுப்பினர் மரிக்கார் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6007a74b.json)
 
 ---
 
@@ -858,13 +924,15 @@ The leader of the opposition who visited the Dalada House, including the Diyawad
 
 *2024-08-16 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101277/34-parties-and-alliances-sign-agreement-to-back-ranil-at-prez-poll) · `en`
 
-A total of 34 political parties and alliances signed the “Puluwan Sri Lanka” agreement today, expressing their support for President Ranil Wickremesinghe in the upcoming presidential election.
+President Ranil Wickremesinghe emphasized that the “Puluwan Sri Lanka” agreement, signed by 34 political parties and alliances, was not intended to create a new political party but to unite the nation and build a brighter future for the country and its people.
 
-The signing of the agreement was carried out at Waters Edge Hotel in Battaramulla this morning (16).
+He noted that those who signed this agreement are not individuals who shied away from the economic challenges, but rather, they are people who embraced these challenges, believing in the potential to rebuild the country.
 
-Addressing the opening ceremony of the “Puluwan Sri Lanka” convention, President Ranil Wickremesinghe emphasized that the 34 political parties and alliances that signed the convention did so not only to form a political coalition but also to shape the future of the country and its people.
+President Wickremesinghe made these remarks during the opening ceremony of the “Puluwan Sri Lanka” agreement signing, held this morning (16) at the Waters Edge Hotel in Battaramulla. The convention was jointly signed by 34 political parties in support of the President for the upcoming presidential election.
 
-◼️
+The ceremony was consecrated and blessed by the Maha Sangha with Seth Pirith, and religious rites were also performed by clergy from other faiths.
+
+...
 
 [Data](articles/3802e4b4.json)
 
@@ -887,6 +955,18 @@ United People's Power AHM Fouzi and Kumara Welgama have supported President Rani
 [Data](articles/98e39874.json)
 
 [Extended Data](ext_articles/98e39874.ext.json)
+
+---
+
+### පක්ෂ හා සන්ධාන 34ක් ජනපති සමග ගිවිසුමකට
+
+*2024-08-16 10:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ හා-සන්ධාන-34ක්-ජනපති-සමග-ගිවිසුමකට/11-411406) · `si`
+
+ඉදිරි ජනපතිවරණයේදී ජනපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරිම වෙනුවෙන් පක්ෂ හා සන්ධාන 34ක් අද පෙරවරුවේදි කොළඹ වෝටර්ස් එජ් හෝටලයේදී ගිවිසුමකට අත්සන් තැබීය. මෙහිදී ජනපතිගේ ප්‍රධානත්වයෙන් ජයගමු ශ්‍රි ලංකා සම්මුතියට ඔවුන් අත්සන් කරනු ලැබිය.
+
+◼️
+
+[Data](articles/f9599271.json)
 
 ---
 
@@ -2117,113 +2197,5 @@ The MP also noted that Sajith Premadasa failed to conduct a proper investigation
 [Data](articles/f473beaa.json)
 
 [Extended Data](ext_articles/f473beaa.ext.json)
-
----
-
-### Ranil garners further support from activists
-
-*2024-08-16 02:29:09* · [`dailyftlk`](https://www.ft.lk/news/Ranil-garners-further-support-from-activists/56-765603) · `en`
-
-SJB MP M. Velukumar yesterday met with President Ranil Wickremesinghe to pledge his support at the upcoming election.
-
-Former State Minister of Provincial Councils and Local Government has committed to actively supporting President Wickremesinghe’s re-election campaign.
-
-She met with the President on Wednesday and praised his leadership during the country’s crisis, asserting that his continued leadership is crucial for the nation’s recovery. Former MP Gunasekaran Shankar also assured President Wickremesinghe of his full support in the upcoming election.
-
-◼️
-
-[Data](articles/112f4622.json)
-
-[Extended Data](ext_articles/112f4622.ext.json)
-
----
-
-### Party Chairman and Secretary remanded over bribe from candidate Janaka Ratnayake
-
-*2024-08-16 02:28:52* · [`dailyftlk`](https://www.ft.lk/news/Party-Chairman-and-Secretary-remanded-over-bribe-from-candidate-Janaka-Ratnayake/56-765602) · `en`
-
-United Lanka Podujana Party (Eksath Lanka Podujana Pakshaya) Chairman and Secretary were yesterday ordered to be remanded until 27 August for allegedly soliciting a bribe from the party’s Presidential candidate former PUCSL Chairman Janaka Ratnayake.
-
-Six other suspects arrested in connection with the incident have been ordered released on personal bails of Rs. 2 million each.
-
-On Wednesday a group of officials of the party including its Secretary were arrested by the officers of the Bribery Commission while accepting a bribe of Rs. 30 million from Ratnayake, the party’s Presidential candidate.
-
-The suspects were arrested based on a complaint lodged by Ratnayake, on behalf of whom the security deposit was placed last morning as the party’s Presidential candidate.
-
-◼️
-
-[Data](articles/9393987f.json)
-
-[Extended Data](ext_articles/9393987f.ext.json)
-
----
-
-### Three ministerial portfolios brought under President’s purview
-
-*2024-08-16 02:28:39* · [`dailyftlk`](https://www.ft.lk/news/Three-ministerial-portfolios-brought-under-President-s-purview/56-765601) · `en`
-
-The ministerial portfolios of Tourism and Lands, Sports and Youth Affairs and the Labour and Foreign Employment have been brought under the purview of the President Ranil Wickremesinghe through an Extraordinary Gazette issued on Wednesday.
-
-The Gazette Notification issued by the Secretary to the President Saman Ekanayake by order of the President stated that it was issued after having consulted with the Prime Minister under Article 44 (3) of the Constitution.
-
-The move comes after former Ministers Harin Fernando and Manusha Nanayakkara lost their Parliamentary seats last week as the Supreme Court ruling upheld their expulsion from the Samagi Jana Balawegaya (SJB).
-
-◼️
-
-[Data](articles/2b294e6e.json)
-
-[Extended Data](ext_articles/2b294e6e.ext.json)
-
----
-
-### The monkey has been diagnosed with the disease
-
-*2024-08-16 00:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குரங்கம்மை-நோய்-கண்டறியப்பட்டுள்ளது/50-342258) · `ta`
-
-A deadly M-box virus outbreak, initially in Congo, killing 450, now spreading in Central and East Africa, prompts WHO to declare it an international health crisis due to its rapid spread and high mortality rate.
-
-🟩
-
-International media reports that the monk is spreading rapidly.
-
-The World Health Organization has declared an international health crisis as an international health crisis.
-
-M-box or monkey, belonging to the type of deadly infection. It was first rapidly spreading in the Congo, and about 450 people died.
-
-Currently, the infection is spreading in some parts of Central and East Africa.
-
-Scientists are worried about the speed of spreading the new variant of the virus and the increasing death rate among the people.. Remble
-
-◼️
-
-[Data](articles/f75ac1d3.json)
-
-[Extended Data](ext_articles/f75ac1d3.ext.json)
-
----
-
-### We can only protect the country's single party - we will win the election - Namal Rajapaksa
-
-*2024-08-16 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191181) · `ta`
-
-Namal Rajapaksa, addressing media post-nomination, emphasized his party's commitment to safeguarding the nation's unity and boosting national production, asserting victory in the upcoming election. He highlighted policy-driven actions, dismissing personal alliances in politics, and expressed confidence in regaining support, as seen by welcoming greetings from PA supporters.
-
-🟩
-
-We can only protect the country's unitary and national production. We will definitely win the election.
-
-He was speaking to the media after submitting nominations at the Elections Commission on Thursday (15).
-
-The presidential election is decisive. Only we can protect the country's unitary and national products. We will definitely win this election.
-
-We do not act on the basis of people. We are working on the policies. We are working. There is no friend or an enemy in politics. That is why those who left us will join us again.
-
-The PA's supporters gathered in front of the Elections Commission and greeted Namal Rajapaksa.. Namal Rajapaksa, who came among the supporters, will definitely win the election.
-
-◼️
-
-[Data](articles/693624f5.json)
-
-[Extended Data](ext_articles/693624f5.ext.json)
 
 ---

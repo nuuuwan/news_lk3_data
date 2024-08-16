@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 20:21:09**
+As of **2024-08-16 20:36:25**
 
 ## Newspaper Stats
 
-*Scraped **41,115** Articles*
+*Scraped **41,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,664
 adalk | 3,783
 dailymirrorlk | 4,733
 adaderanalk | 4,804
-tamilmirrorlk | 5,263
+tamilmirrorlk | 5,264
 virakesarilk | 6,521
 adaderanasinhalalk | 6,998
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,115 (100.0%) of 41,115 articles have been extended.
+41,115 (100.0%) of 41,116 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,22 @@ Police said that as a result, only one lane is open for vehicular movements towa
 [Data](articles/38c4361e.json)
 
 [Extended Data](ext_articles/38c4361e.ext.json)
+
+---
+
+### நிரோஷனுக்கு தடை
+
+*2024-08-16 19:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரோஷனுக்கு-தடை/175-342293) · `ta`
+
+ஊக்கமருந்து தடுப்பு சட்டத்தை மீறியதாக இலங்கை கிரிக்கெட் வீரர் நிரோஷன் திக்வெல்ல மீது குற்றம்சாட்டப்பட்டுள்ளது.
+
+2024 லங்கா பிரீமியர் லீக் (LPL) போட்டித் தொடரில், இலங்கை ஊக்கமருந்து தடுப்பு முகவர் நிறுவனத்தினால் (SLADA) நடத்தப்பட்ட ஊக்கமருந்து சோதனையில் இது தெரியவந்துள்ளது.
+
+அதன்படி, மறு அறிவித்தல் வரை அனைத்து வகையான கிரிக்கெட் போட்டிகளிலும் அவருக்கு தடை விதிக்கப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/cc64bee6.json)
 
 ---
 
@@ -222,13 +238,19 @@ Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 
 
 *2024-08-16 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101291/-niroshan-dickwella-suspended-from-all-forms-of-cricket) · `en`
 
-Sri Lankan cricketer Niroshan Dickwella has been suspended from participating in all forms of cricket with immediate effect until further notice due to an alleged anti-doping violation, Sri Lanka Cricket (SLC) announced.
+Sri Lankan cricketer Niroshan Dickwella has been suspended from participating in all forms of cricket with immediate effect due to an alleged anti-doping violation, Sri Lanka Cricket (SLC) confirmed.
+
+The suspension will remain in place until further notice, according to the SLC.
 
 Dickwella found guilty of a doping violation during the recent Lanka Premiere League (LPL).
 
 This has reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
 
-◼️
+However, SLC stated that the test, which was conducted by the Sri Lanka Anti-Doping Agency (SLADA) during the Lanka Premier League (LPL) 2024, is part of SLC’s ongoing commitment to maintaining the integrity of the sport.
+
+This initiative, undertaken in collaboration with the Ministry of Sports and in accordance with the World Anti-Doping Agency (WADA) guidelines, is aimed at ensuring that cricket remains free from the influence of prohibited substances, it added.
+
+...
 
 [Data](articles/13fb6d56.json)
 
@@ -297,6 +319,8 @@ Sri Lanka’s Vishmi Gunaratne has become the first Sri Lanka Women’s player o
 Gunaratne smashed an impressive total of 101 in just 98 deliveries helping Sri Lanka to reach 194/5 against Ireland at the end of 38 overs.
 
 Earlier today (16), Ireland women won the toss and decided to bowl against Sri Lanka in the 1st ODI of the three match series.
+
+Gunaratne blasted her way into the record books with her maiden ODI century and becomes the second Sri Lankan woman to achieve this feat.
 
 ◼️
 
@@ -2277,25 +2301,5 @@ What do you think of our country when international countries see such activitie
 [Data](articles/960482ba.json)
 
 [Extended Data](ext_articles/960482ba.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-08-16 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/101273/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says prevailing showery condition over the South Western parts of the Island is expected to be temporarily enhanced today and tomorrow.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa provinces and in Galle and Matara districts while showers or thundershowers will occur at several places in Eastern and Uva provinces during the evening or night, it added.
-
-Thus, general  public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/4c0aaff9.json)
-
-[Extended Data](ext_articles/4c0aaff9.ext.json)
 
 ---

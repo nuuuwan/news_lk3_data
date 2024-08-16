@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 03:21:21**
+As of **2024-08-17 03:36:35**
 
 ## Newspaper Stats
 
-*Scraped **41,158** Articles*
+*Scraped **41,159** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 348
 newsfirstlk | 363
 bbccomsinhala | 382
-colombotelegraphcom | 391
+colombotelegraphcom | 392
 islandlk | 2,372
 economynextcom | 2,499
 dailyftlk | 2,676
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,155 (100.0%) of 41,158 articles have been extended.
+41,158 (100.0%) of 41,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,59 +276,81 @@ The Presidential Election 2024 is crucial by all standards in view of the curren
 
 ### 2024-08-16 (Friday)
 
-### யாழில் வயிற்றுக் குற்று காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் உயிரிழப்பு!
+### A person admitted to hospital due to stomach cramp in Jaffna
 
 *2024-08-16 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191267) · `ta`
 
-வயிற்றுக் குற்று காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட ஆணொருவர் சிகிச்சை பலனின்றி 15ஆம் திகதி வியாழக்கிழமை உயிரிழந்துள்ளார். புன்னாலை கட்டுவன் தெற்கு பகுதியைச் சேர்ந்த 35 வயதுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+A 35-year-old man from Punnale, admitted to Jaffna Teaching Hospital for abdominal cramps on the 14th, died untreated on the 15th. An autopsy was conducted by A. Jayapalasingham before his body was released to his family.
 
-இவர் கடந்த 14ஆம் திகதி வயிற்றுக் குற்று காரணமாக சிகிச்சைக்காக யாழ்ப்பாணம் போதனை வைத்தியசாலையில் அனுமதிக்கப்பட்டார். இந்நிலையில் வியாழக்கிழமை (15) இரவு உயிரிழந்துள்ளார்.
+🟩
 
-சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+A man who was admitted to the hospital due to abdominal cramps died on Thursday 15th without treatment.. The deceased is a 35 -year -old man from the south of Punnale.
+
+He was admitted to the Jaffna Teaching Hospital for treatment on the 14th. He died on Thursday night.
+
+A sudden death investigator, A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/b69e232e.json)
 
+[Extended Data](ext_articles/b69e232e.ext.json)
+
 ---
 
-### ஊழல் மோசடியை ஒழிக்கின்ற ஆட்சிக்காக அனைவரும் அணிதிரள்வோம் - சஜித் பிரேமதாஸ
+### Let us all mobilize for the rule that eradicate corruption - Sajith Premadasa
 
 *2024-08-16 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/191266) · `ta`
 
-இந்நாட்டின் வரலாறு புதிதாக எழுதப்படுகின்ற இந்த சந்தர்ப்பத்தில் இந்த வேலைத்திட்டத்தின் சாட்சியாளர்களாக அல்லாமல் பங்காளர்களாக மாறி நாட்டின் வெற்றிப் பயணத்தில் பங்குதாரர்களாக இணைந்துகொள்வதோடு நாட்டை வலுவூட்டும் இந்தப் பயணத்தின் தலைவர்களாக மாறி செயற்படுமாறு எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa, the Opposition Leader, calls for unity and action against corruption, emphasizing the role of new citizens as witnesses and partners in national progress. He criticizes deceptive political practices and vows to end such politics, highlighting his party's commitment to transparency and accountability. Premadasa addresses a gathering in Kurunegala, pledging to tackle issues like liquor licensing and ensure party funds support public welfare, not personal gains. He stresses the importance of electing leaders who represent the people's will and rejects divisive politics, advocating for a united Sri Lanka free from corruption and communalism.
 
-நடைமுறை ரீதியாகவும் முற்போக்கு ரீதியாகவும் இந்தக் காலத்தில் மக்களுக்காக கருத்துக்களை முன்வைத்து போராட்டங்களை நடத்தியுள்ளதோடு, ஊழல் மோசடியை இல்லாது ஒழிக்கின்ற நோக்கில் பாரிய வேலைத்திட்டங்களை முன்னெடுத்துள்ளோம்.
+🟩
 
-ஏனைய கட்சித் தலைவர்களை போன்று மேடைகளில் ஏறி நாடகங்களை அரங்கேற்றாது வெற்றுப் பைல்களை காண்பித்து மாக்களை ஏமாற்றுகின்ற நாடகங்களில் நடிக்காது, செயற்பட்டுள்ளோம். நாட்டை வங்கரோத்து நிலைக்கு கொண்டு சென்ற ராஜபக்ஸக்களை சட்டத்தின் முன் நிறுத்தி ராஜபக்ஸக்கள் நிதி மோசடியில் ஈடுபட்டமைக்கு எதிராக நடவடிக்கை எடுத்துள்ளோம் என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+In the history of the country, the Opposition Leader said that the newlyweds of the program would be the witnesses of the program, but also partners in the country's success journey and be the leaders of this journey to strengthen the country.
+
+We have carried out protests for the people during this period of practical and progressively, and we have launched massive programs to eradicate corruption.
+
+Like other party leaders, we do not play platforms and do not perform platforms and act in plays that deceive the magazine.. The Opposition Leader said that the Rajapaksa has taken action against the Rajapaksa's involvement in financial fraud by the Rajapaksas who have taken the country to the bank.
+
+The United People's Power has first submitted the individual Bill for MPs to recover the resources of the stolen country and the money stolen country.. In any case there is no contract with the thieves or their party members.
 
 ...
 
 [Data](articles/1624bfa4.json)
 
+[Extended Data](ext_articles/1624bfa4.ext.json)
+
 ---
 
-### விஷ்மியின் சதத்தை வீணடித்தது ப்ரெண்டகாஸ்டின் சதம்; இலங்கையை வீழ்த்தியது அயர்லாந்து
+### Brendagastin's century wasted Vishmi's century;Ireland has brought down Sri Lanka
 
 *2024-08-16 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191265) · `ta`
 
-பெல்ஃபாஸ்ட், ஸ்டோமன்ட் சிவில் சேவைகள் கிரிக்கெட் கழக விளையாட்டரங்கில் நடைபெற்ற இலங்கைக்கு எதிரான முதலாவது மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 3 விக்கெட்களால் அயர்லாந்து வெற்றியீட்டியது.
+Ireland clinched a thrilling 3-wicket win over Sri Lanka in the first women's ODI, thanks to Ola Brendagast's unbeaten 122 runs. Despite Vishmi Gunaratne's century from Sri Lanka, Ireland's strong batting led by Brendagast secured them the lead in the series.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் அயர்லாந்து 1 - 0 என்ற ஆட்டக் கணக்கில் முன்னிலை அடைந்தது.
+🟩
 
-ஓலா ப்ரெண்டகாஸ்ட் குவித்த ஆட்டம் இழக்காத கன்னிச் சதம் அயர்லாந்தின் வெற்றியில் பிரதான பங்காற்றியது. இதன் காரணமாக விஷ்மி குணரட்னவின் கன்னிச் சதம் வீண் போனது.
+Ireland won by 3 wickets in the first women's ODI against Sri Lanka at the Stomant Civil Services Cricket Stadium.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 50 ஓவர்களில் 8 விக்கெட்களை இழந்து 260 ஓட்டங்களைப் பெற்றது.
+With this victory, Ireland took the lead in the 3 -match women's ODI series.
 
-அணித் தலைவி சமரி அத்தபத்து தான் எதிர்கொண்ட முதல் பந்திலேயே ஆட்டம் இழந்து வெளியேறினார்.
+Ola Brendagast's concentration of the unbeaten virgin player played a major role in Ireland's victory. Due to this, Vishmi Gunaratne's virginity was in vain.
 
-இந் நிலையில் விஷ்மி குணரட்னவும் ஹசினி பெரேராவும் 3ஆவது விக்கெட்டில் 122 ஓட்டங்களைப் பகிர்ந்து அணிக்கு உற்சாகத்தைக் கொடுத்தனர்.
+Sri Lanka, who was first invited to bat in the upting match, scored 260 runs for the loss of 8 wickets in 50 overs.
 
-துடுப்பாட்டத்தை நிதானத்துடன் ஆரம்பித்து பின்னர் வேகத்தை அதிகரித்த விஷ்மி குணரட்ன, 97 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 101 ஓட்டங்களைப் பெற்றார்.
+The captain of the team, Samari Attapattu, lost his first ball.
+
+Vishmi Gunaratne and Hasini Perera shared 122 runs in the 3rd wicket.
+
+Vishmi Gunaratne, who started the battle with relaxing and then increased the speed, faced 97 balls and scored 101 runs with 9 fours and 3 sixes.
+
+Vishmi Gunaratne became the second Sri Lankan player to score a century in women's international cricket after the captain of the team, Samari Attapatha.
 
 ...
 
 [Data](articles/57cc3cce.json)
+
+[Extended Data](ext_articles/57cc3cce.ext.json)
 
 ---
 
@@ -413,6 +435,18 @@ In order to make service more affordable for passengers, Government of India has
 [Data](articles/000afc01.json)
 
 [Extended Data](ext_articles/000afc01.ext.json)
+
+---
+
+### 2024 Presidential Race: The Unfinished Journey Of Women’s Political Emancipation
+
+*2024-08-16 21:34:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-presidential-race-the-unfinished-journey-of-womens-political-emancipation/) · `en`
+
+Sri Lanka is once again facing a male-dominated presidential race. As of August 15, 2024, thirty-nine out of the forty candidates who have paid deposits to contest the election are male. This overwhelming male dominance highlights the persistent gender imbalance in Sri Lankan politics, reflecting a broader trend where women’s representation remains limited despite existing legal frameworks and advocacy for gender equality. The absence of female candidates underscores the ongoing challenges in achieving equal political participation and representation for women in the country.
+
+...
+
+[Data](articles/6fa2ab68.json)
 
 ---
 
@@ -2197,23 +2231,5 @@ Comrade Vijitha Herath, a member of the National Executive Council of the Nation
 [Data](articles/9ad51c58.json)
 
 [Extended Data](ext_articles/9ad51c58.ext.json)
-
----
-
-### Sri Lanka’s headline inflation expected to remain below target - CBSL
-
-*2024-08-16 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/101281/sri-lankas-headline-inflation-expected-to-remain-below-target-cbsl) · `en`
-
-The Central Bank of Sri Lanka (CBSL) predicts that the headline inflation is expected to be below the target in the forthcoming months, and reach the 5% target with appropriate policies in the medium term.
-
-In its monetary policy report for the month of August 2024, the CBSL has highlighted that the economic growth recovery towards the potential level is expected to continue over the medium term with appropriate policies.
-
-Furthermore, it mentioned that the Central Bank of Sri Lanka conducts monetary policy under a Flexible Inflation Targeting (FIT) framework, aimed at maintaining inflation at the target rate of 5%, while supporting economic growth to reach its potential.
-
-...
-
-[Data](articles/7b564843.json)
-
-[Extended Data](ext_articles/7b564843.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 07:02:55**
+As of **2024-08-16 07:29:46**
 
 ## Newspaper Stats
 
-*Scraped **40,986** Articles*
+*Scraped **41,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,277 @@ bbccomsinhala | 381
 colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,490
-dailyftlk | 2,655
+dailyftlk | 2,664
 adalk | 3,773
 dailymirrorlk | 4,733
 adaderanalk | 4,783
-tamilmirrorlk | 5,237
-virakesarilk | 6,492
-adaderanasinhalalk | 6,969
+tamilmirrorlk | 5,239
+virakesarilk | 6,494
+adaderanasinhalalk | 6,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-40,986 (100.0%) of 40,986 articles have been extended.
+40,986 (100.0%) of 41,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-16 (Friday)
+
+### ශ්‍රී පුර වෙඩිතැබීමෙන් පුද්ගලයෙක් මරුට
+
+*2024-08-16 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199986) · `si`
+
+අද (16) අලුයම සිදු කළ වෙඩිතැබීමකින් පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+
+එම වෙඩිතැබීම සිදුකර තිබුණේ ශ්‍රී පුර පොලිස් වසමේ ගැමුණුපුර පුල්ලෙයාර් හන්දියේදී ය.
+
+◼️
+
+[Data](articles/daa6232c.json)
+
+---
+
+### தாய்லாந்தின் புதிய பிரதமர் நியமனம் இன்று
+
+*2024-08-16 06:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்தின்-புதிய-பிரதமர்-நியமனம்-இன்று/50-342260) · `ta`
+
+தாய்லாந்து பாராளுமன்றம் இன்று கூடவுள்ள நிலையில் புதிய பிரதமர் தெரிவு செய்யப்படவுள்ளதாகத் தகவல்கள் வெளியாகியுள்ளன.
+
+தாய்லாந்து பிரதமர் ஸ்ரெத்தா தவிசின் நேற்று முன்தினம்  பதவியிலிருந்து நீக்கப்பட்டார். நீதிமன்ற உத்தரவினூடாக அவர் பதவி நீக்கம் செய்யப்பட்டார் என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/0432f42e.json)
+
+---
+
+### දෙවන පාසල් වාරය අදින් අවසන්
+
+*2024-08-16 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199985) · `si`
+
+රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල 2024 වසරේ  දෙවන පාසල් වාරය අදින් (16) අවසන් වෙයි.
+
+අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කළේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල සිංහල හා දෙමළ මාධ්‍ය පාසල් සඳහා දෙවන පාසල් වාරය මෙලෙස අදින් අවසන් වන බවය.
+
+තෙවන පාසල් වාරයේ පළමු අදියර ලබන 26 වන සඳුදා ආරම්භ කරන බව ද අධ්‍යාපන අමාත්‍යංශයේ එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/bc5b188f.json)
+
+---
+
+### එංගලන්ත ලයන්ස් ලකුණු 185ක් ඉදිරියෙන්
+
+*2024-08-16 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199984) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම හා එංගලන්ත ලයන්ස් කණ්ඩායම අතර Worcester හිදී පැවැත්වෙන පළමු හා එකම සිව්දින පුහුණු තරගයේ දෙවැනි දිනයට ඊයේ (15) තරගය නතර කරන විට සිය පළමු ඉනිම ක්‍රීඩා කළ ලයන්ස් කණ්ඩායම පන්දුවාර 89.2කදී සියලුදෙනා දැවී ලකුණු 324ක් රැස්කරගෙන සිටියේය.
+
+ලයන්ස් ඉනිම ඔසවා තැබූ 18 හැවිරිදි හම්සා ෂෙයික් පන්දු 204කට මුහුණ දෙමින් ඉවසිලිවන්ත ලකුණු 91ක් රැස්කිරීමට සමත් විය.
+
+ඊට අමතරව යොවුන් පිතිකරු Kasey Aldridge ලකුණු 78ක් ඉනිමට එක්කළ අතර, ඒ වෙනුවෙන් ඔහු පන්දු 96කට මුහුණ දුන්නේය.
+
+ශ්‍රී ලංකා පන්දු යවන්නන් අතරින් සාර්ථක පන්දු යැවීමක නිතර වූ ප්‍රභාත් ජයසූරිය කඩුලු 05ක් බිඳහෙළීමට සමත් වූ අතර, ඒ වෙනුවෙන් පන්දුවාර 31.2ක් යොමුකළ ඔහු ලකුණු 102ක් ලබා දුන්නේය.
+
+ලයන්ස් කණ්ඩායමේ ආරාධනයෙන් පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 43.5කදී සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 139ක් පමණි.
+
+දිමුත් කරුණාරත්න ලකුණු 26ක් රැස්කළ අතර, එය ශ්‍රී ලංකා ඉනිමේ පිතිකරුවෙකු රැස්කළ වැඩිම ලකුණු සංඛ්‍යාවද විය.
+
+...
+
+[Data](articles/425442bf.json)
+
+---
+
+### எல்லைகளை திறக்கும் வட கொரியா
+
+*2024-08-16 06:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எல்லைகளை-திறக்கும்-வட-கொரியா/50-342259) · `ta`
+
+ஐந்து வருடங்களுக்குப் பின்னர் வெளிநாட்டுச் சுற்றுலாப்பயணிக்காக அதன் எல்லைகளைத் திறப்பதற்கு வடகொரியா தீர்மானித்துள்ளது.
+
+இதன்படி, எதிர்வரும் டிசம்பர் மாதம் முதல் அதன் எல்லைகளைத் திறப்பதற்குத் தீர்மானிக்கப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+கொரோனா தொற்று பரவல் காரணமாக சுமார் ஐந்து வருடங்களாக வடகொரியா சுற்றுலாப்பயணிகளுக்காகத் தமது எல்லைகளை மூடியிருந்தது.
+
+இந்தநிலையில், தென்கொரியா சுற்றுலாப் பயணிகளைத் தவிர ஏனைய நாட்டுச் சுற்றுலாப்பயணிகளுக்கு வடகொரியாவிற்கு செல்வதற்கு அனுமதி வழங்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/4e6373d1.json)
+
+---
+
+### WISTA Sri Lanka marks decade of empowering women
+
+*2024-08-16 06:45:00* · [`dailyftlk`](https://www.ft.lk/business/WISTA-Sri-Lanka-marks-decade-of-empowering-women/34-765619) · `en`
+
+WISTA Sri Lanka Committee with renowned thought leadership keynote speaker Karen Leong
+
+WISTA Sri Lanka celebrating its 10th anniversary with all past Presidents
+
+WISTA Sri Lanka celebrated its 10th anniversary with a dynamic keynote discussion on ‘Charting the Course of Success in a Disruptive World’ featuring the renowned global transformation thought leader, Karen Leong at the event held at the Cinnamon Grand Colombo this week.
+
+Established in 2014, WISTA Sri Lanka was initiated with the goal of providing a crucial platform for women to connect and drive progress, becoming phenomenally instrumental in empowering women within the maritime industry.
+
+...
+
+[Data](articles/1e7ca9c9.json)
+
+---
+
+### hSenidBiz’s PeoplesHR Cloud drives 1Q FY25 success, exit ARR hits $ 3 m
+
+*2024-08-16 06:42:08* · [`dailyftlk`](https://www.ft.lk/business/hSenidBiz-s-PeoplesHR-Cloud-drives-1Q-FY25-success-exit-ARR-hits-3-m/34-765618) · `en`
+
+hSenid Business Solutions (hBS) has announced its financial results for the quarter ending 30 June 2024, reporting a significant Year-over-Year growth of 30.5% with total revenue reaching Rs. 466 million.
+
+The PeoplesHR Cloud Business continued to be the primary driver of growth, showcasing a Year-over-Year growth of 27.9%. Recurring subscription revenues accounted for 84.9% of the PeoplesHR Cloud Business, recording a Year-over-Year growth of 44.2%.
+
+The company surpassed an exit Annualised Recurring Revenue (ARR) of $ 3.5 million during the quarter, with total recurring revenues accounting for 57.7% of the total revenue. New deal closures for the quarter amounted to $ 357,482, reflecting a 44% Year-over-Year growth, with 87.5% of these new deals being PeoplesHR Cloud deals, and 46.5% sourced through the company’s channel partner network.
+
+...
+
+[Data](articles/8a13a5df.json)
+
+---
+
+### Fentons Smart Facilities enhances service excellence by joining IWFM
+
+*2024-08-16 06:40:41* · [`dailyftlk`](https://www.ft.lk/business/Fentons-Smart-Facilities-enhances-service-excellence-by-joining-IWFM/34-765617) · `en`
+
+From left: AGM – Group Compliance Nisal Liyanage, Compliance Executive Ishani Jayakodi, Managing Director Hasith Prematillake, Director/CEO Sujith De Alwis, AGM Fentons – Smart Facilities Tharaka Heenkenda
+
+Fentons Smart Facilities (FSF), the sole facility management service provider in Sri Lanka to receive ISO 41001:2018 Facility Management System certification, announces its corporate membership in the Institute of Workplace and Facilities Management (IWFM).
+
+Hayleys Fentons Managing Director Hasith Prematillake says: “This new affiliation with IWFM, an internationally renowned professional body, signifies an exciting phase of growth and opportunity and emphasises our commitment to keeping up with industry standards and best practices. We look forward to leveraging IWFM’s resources to further enhance our service offering and deliver unparalleled value to our clients.”
+
+...
+
+[Data](articles/90d8aea1.json)
+
+---
+
+### 16th Annual General Meeting of Indo Lanka Chamber of Commerce and Industry
+
+*2024-08-16 06:25:58* · [`dailyftlk`](https://www.ft.lk/business/16th-Annual-General-Meeting-of-Indo-Lanka-Chamber-of-Commerce-and-Industry/34-765616) · `en`
+
+The 16th Annual General meeting of the Indo Lanka Chamber of Commerce and Industry (ILCCI) was held on 8 August at Taj Samudra, Colombo.
+
+Speaking at the occasion, the Chief Guest High Commissioner of India Santosh Jha, stated that “India stands as Sri Lanka’s largest source of tourism, its principal trade partner, and the foremost contributor to Foreign Direct Investment.” He further highlighted the importance of not just capitalising on short-term opportunities, but also focusing on medium and long-term investments that will drive mutual growth for both countries.
+
+...
+
+[Data](articles/a963f28d.json)
+
+---
+
+### WindForce soars to new heights with stellar quarterly performance
+
+*2024-08-16 06:24:49* · [`dailyftlk`](https://www.ft.lk/business/WindForce-soars-to-new-heights-with-stellar-quarterly-performance/34-765615) · `en`
+
+WindForce PLC, has announced an outstanding financial performance for the first quarter of the 2024/25 fiscal year.
+
+The company reported a robust 87% surge in EBITDA reaching Rs. 1.95 billion, a significant leap from Rs. 1 billion in the same period last year. This remarkable growth highlights the company’s strategic advancements and market strength.
+
+The group’s consolidated revenue for the quarter ending 30 June soared to Rs. 1.56 billion, marking a 28% increase from Rs. 1.22 billion in the previous year. Net profits also demonstrated substantial growth, climbing 27% to Rs. 652 million, up from Rs. 514 billion recorded in the first quarter of last year.
+
+This exceptional financial performance was largely driven by the successful commissioning of the Hiruras 15 MW wind power plant in June/July 2023, which significantly enhanced WindForce’s production capacity and revenue streams.
+
+...
+
+[Data](articles/dc462802.json)
+
+---
+
+### IFPRI invites submissions for ‘Delivering for Nutrition in South Asia: Connecting the Dots Across Systems’ conference
+
+*2024-08-16 06:23:55* · [`dailyftlk`](https://www.ft.lk/business/IFPRI-invites-submissions-for-Delivering-for-Nutrition-in-South-Asia-Connecting-the-Dots-Across-Systems-conference/34-765614) · `en`
+
+The International Food Policy Research Institute (IFPRI) has announced a call for research studies and implementation experiences from across South Asia ahead of its upcoming conference, ‘Delivering for Nutrition in South Asia: Connecting the Dots Across Systems.’
+
+The event will be held in a hybrid mode in Colombo, Sri Lanka and online from 3-5 December.
+
+Co-hosted by IFPRI, CGIAR and a consortium of global and regional partners, the conference aims to bring together researchers, policymakers, program implementers, and stakeholders from various sectors to discuss innovative strategies for improving nutrition outcomes in South Asia.
+
+The conference will focus on the complex connection between nutrition and its determinants, serving as a critical platform for exchanging knowledge and fostering collaboration.
+
+...
+
+[Data](articles/88d18509.json)
+
+---
+
+### Celebration of 78th Independence Day of India
+
+*2024-08-16 06:23:20* · [`dailyftlk`](https://www.ft.lk/news/Celebration-of-78th-Independence-Day-of-India/56-765613) · `en`
+
+The 78th Independence Day of India was celebrated with great fervour in different parts of Sri Lanka yesterday.
+
+The main event in Colombo was held at “India House”, the official residence of High Commissioner of India. High Commissioner of India to Sri Lanka Santosh Jha hoisted India’s National Flag and inspected the Guard of Honour. He also read excerpts of the address by President of India to the nation on the eve of the 78th Independence Day.
+
+Several cultural events added vibrancy to the celebrations. The Sri Lanka Navy Band delivered melodious tunes, embodying valour and patriotism, while the visiting ICCR troupe from India, led by Ranjith Gogoi, captivated the audience with a soulful Bihu dance performance.
+
+High Commissioner and officers of High Commission of India also paid homage at the Indian Peace Keeping Force (IPKF) Memorial to the memory of the Indian soldiers of IPKF who made the supreme sacrifice defending peace and unity of Sri Lanka.
+
+...
+
+[Data](articles/98caa5c5.json)
+
+---
+
+### Ali Sabry engages in bilateral talks in Cairo to enhance ties between Sri Lanka and Egypt
+
+*2024-08-16 06:21:38* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-engages-in-bilateral-talks-in-Cairo-to-enhance-ties-between-Sri-Lanka-and-Egypt/56-765612) · `en`
+
+Foreign Minister Ali Sabry undertook an official visit to Egypt from 7-11 August at the invitation of the Egyptian Foreign Affairs, Emigration and Egyptian Expatriates Minister Dr. Badr Abdelatty.
+
+Minister Sabry held productive discussions with his counterpart Dr. Abdelatty and reviewed bilateral relations between Sri Lanka and Egypt. Both sides noted the potential to expand the relations between the two countries by fostering closer links in the fields of trade, investment, tourism, education, culture, archaeology, maritime transport, renewable energy, and climate change.
+
+...
+
+[Data](articles/45b2c784.json)
+
+---
+
+### අද සහ හෙට වැස්ස වැඩි වෙයි
+
+*2024-08-16 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199983) · `si`
+
+දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි තත්ත්වයේ තාවකාලික වැඩිවීමක් අද (16) සහ හෙට (17) දිනවලදී  බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව  බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වියහැකි බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැකිය.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇති වියහැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/acb2a45c.json)
+
+---
+
+### Seylan Bank marks key milestone in enhancing students’ education
+
+*2024-08-16 06:20:05* · [`dailyftlk`](https://www.ft.lk/news/Seylan-Bank-marks-key-milestone-in-enhancing-students-education/56-765611) · `en`
+
+250th Seylan Pahasara library signifies persistent progress in 11-year journey
+
+Seylan Bank recently unveiled its 250th Seylan Pahasara library at St. Anthony’s Tamil Maha Vidyalam in Colombo 14, marking a significant milestone in a mission to enhance literacy and education across Sri Lanka.
+
+Since its inception over 11 years ago, the initiative has been a powerful catalyst for change, transforming the lives of countless Sri Lankan students, fostering community development and sustainable growth.
+
+Launched in 2013, the Seylan Pahasara library project was conceived to address the educational needs of schools who are most in need due to the lack of access to resources and assistance. The initiative was introduced in conjunction with the Bank’s 25th anniversary and supports schools with low resources across the country, reflecting a broader vision of contributing to the nation’s future through education.
+
+...
+
+[Data](articles/0487b022.json)
+
+---
 
 ### Union Bank appoints Dilshan Rodrigo as Chief Executive Officer
 
@@ -43,6 +297,22 @@ Union Bank announced the appointment of Dilshan Rodrigo as its new Director/Chie
 [Data](articles/26a33ee3.json)
 
 [Extended Data](ext_articles/26a33ee3.ext.json)
+
+---
+
+### தெற்காசிய மக்கள் கிளர்ச்சிகளின் அதிர்ச்சியின் விளைவான தாக்கங்கள்; இந்தியாவுக்கான படிப்பினைகள்
+
+*2024-08-16 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/191184) · `ta`
+
+இந்த தசாப்தத்தின் தொடக்கத்தில் இருந்து இந்தியாவுக்கு அதன் அயல்நாடுகளில் இடம்பெற்றுவரும் நிகழ்வுகள் ஒன்றுக்குப்பின் ஒன்றாக அதிர்ச்சியை கொடுத்துவருகின்றன.
+
+2021 ஆம் ஆண்டில் மியன்மாரில் சதிப்புரட்சியும் ஆப்கானிஸ்தானில் மீண்டும் தலிபான்களின் ஆட்சியும். 2022 ஆம் ஆண்டில் பாகிஸ்தானில் பிரதமர்  இம்ரான் பதவி கவிழ்க்கப்பட்டார். இலங்கையில் மக்கள் கிளர்ச்சியினால் ஜனாதிபதி கோட்டாபய ராஜபக்ச அதிகாரத்தில் இருந்து விரட்டப்பட்டார்.
+
+அதற்கு பிறகு மாலைதீவு தேர்தலில் இந்தியாவுடன் மிகவும் நெருக்கமான உறவுகளைப் பேணிவந்த ஜனாதிபதி சோலீ அரசாங்கம் தோற்கடிக்கப்பட்ட அதேவேளை, நேபாளத்திலும் கூட்டரசாங்கங்களின் வீழ்ச்சி அதே தாக்கத்தை ஏற்படுத்தியது. இந்தியாவுடன் குறைந்தளவு நட்புறவைக் கொண்ட பிரதமர் ஒலீயின் அரசாங்கம் பதவிக்கு வந்தது.
+
+...
+
+[Data](articles/069ea2eb.json)
 
 ---
 
@@ -95,6 +365,24 @@ In the retail market top seven companies that mainly contributed to the turnover
 [Data](articles/ea16e237.json)
 
 [Extended Data](ext_articles/ea16e237.ext.json)
+
+---
+
+### தமிழ் வேட்பாளர் விவகாரத்தில் தமிழரசுக் கட்சி விரைவான தீர்மானத்தை எடுக்க வேண்டும் - சி.வி.விக்கினேஸ்வரன் கோரிக்கை
+
+*2024-08-16 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191183) · `ta`
+
+தமிழ் மக்களின் அடையாளமாக விளங்கும் பா.அரியேத்திரனுக்கு அனைத்து தமிழர்களும் வாக்களிக்க வேண்டும்.தமிழ் வேட்பாளர் விவகாரத்தில் இலங்கை தமிழரசுக் கட்சி உறுதியான தீர்மானத்தை எடுக்காமல் இருப்பது கவலைக்குரியது.
+
+தமிழர்களின் எதிர்காலத்தை கருத்திற் கொண்டு விரைவான தீர்மானத்தை எடுக்க வேண்டும் என்பதை பணிவுடன் கேட்டுக் கொள்கிறேன் என தமிழ் மக்கள் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் தெரிவித்தார்.
+
+தேர்தல்கள் ஆணைக்குழுவில் வியாழக்கிழமை (15) இடம்பெற்ற வேட்புமனு கையளிப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தமிழ் பொது வேட்பாளரான பா.அரியேத்திரன் சங்கு சின்னத்தில் போட்டியிடுகிறார். ஜனாதிபதித் தேர்தலில் கட்சி சார்பில் சிந்திக்காமல் தமிழ் மக்கள் சார்பில் சிந்திக்க வேண்டும். இதற்கான கட்டாயம் தற்போது தோற்றம் பெற்றுள்ளது.
+
+...
+
+[Data](articles/a7bf9716.json)
 
 ---
 
@@ -1867,375 +2155,5 @@ The news was published on the front page of the Weerakesari magazine, which was 
 [Data](articles/3e7581bb.json)
 
 [Extended Data](ext_articles/3e7581bb.ext.json)
-
----
-
-### Sri Lanka cabinet sub-committee to solve VFS Global-ETA visa stand-off
-
-*2024-08-15 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-sub-committee-to-solve-vfs-global-eta-visa-stand-off-176900/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet had discussed the delay in re-starting online visas after courts suspended the controversial VFS Global deal where tourists were charged high fees to go through website which the travel trade said was difficult to navigate.
-
-Though courts ordered that the earlier system operated by Mobitel, be restored, until hearing of the case is complete, the Department of Immigration has not yet restored the system.
-
-Minister Bandula Gunawardana said the matter was discussed at this week’s cabinet meeting and a discussion of ministry secretaries was also arranged.
-
-“The President also appointed a cabinet sub-committee to find a solution to this in a short time,” Minister Gunawardana said.
-
-Public Security Minister Tiran Alles told reporters last week that the since the Immigration Department’s back-end platform been changed to match the VFS Global system with new visa categories, it would take time to go back to the old system.
-
-...
-
-[Data](articles/cf5cc709.json)
-
-[Extended Data](ext_articles/cf5cc709.ext.json)
-
----
-
-### Sri Lanka president contests election with gas cylinder symbol, says “Still more to be done”
-
-*2024-08-15 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-contests-election-with-gas-cylinder-symbol-says-still-more-to-be-done-176904/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe handed in his nomination papers for the September 21 election at the Election Commission today, opting to contest under a symbol of a domestic cooking gas cylinder.
-
-“Today, I officially announce my candidacy for President of Sri Lanka, and to continue my duties to you, the Sri Lankan people,” Wickremesinghe tweeted, after changing his twitter handle from RW_UNP to @RW_SRILANKA.
-
-Wickremesinghe is the leader of the United National Party, but is contesting as an independent candidate.
-
-“Sri Lanka is on a journey. Since 2022, we have worked hard together to recover from our past challenges, but there is still more to be done.
-
-“My commitment to you and our country is unwavering. Together, we will continue to build a prosperous future, but that can only be done with stability.”
-
-...
-
-[Data](articles/8d612b65.json)
-
-[Extended Data](ext_articles/8d612b65.ext.json)
-
----
-
-### The lamp symbol for Fonseka
-
-*2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-விளக்கு-சின்னம்/175-342225) · `ta`
-
-Field Marshal Sarath Fonseka, running as an independent in Sri Lanka's presidential election, was assigned the "lamp" symbol by the Election Commission.
-
-🟩
-
-Field Marshal Sarath Fonseka, who is contesting as an independent candidate in the presidential election, has been given the "lamp" symbol by the Election Commission.
-
-◼️
-
-[Data](articles/9118686d.json)
-
-[Extended Data](ext_articles/9118686d.ext.json)
-
----
-
-### Lander logo for Fonseka
-
-*2024-08-15 13:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-லந்தர்-சின்னம்/175-342225) · `ta`
-
-Field Marshal Sarath Fonseka, running as an independent in Sri Lanka's presidential election, was assigned the 'Lander' symbol by the Elections Commission.
-
-🟩
-
-Field Marshal Sarath Fonseka, who is contesting as an independent candidate in the presidential election, has been given the 'Lander' symbol by the Elections Commission.
-
-◼️
-
-[Data](articles/ea5a9858.json)
-
-[Extended Data](ext_articles/ea5a9858.ext.json)
-
----
-
-### Sri Lanka Coast Guard given ATVs by Australian Border Force
-
-*2024-08-15 13:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-coast-guard-given-atvs-by-australian-border-force-176895/) · `en`
-
-ECONOMYNEXT – The Australian Border Force has gifted Sri Lanka Coast Guard (SLCG) three all-terrain vehicles (ATVs) to boost SLCG’s existing land coastal patrol activities.
-
-“Like Australia, we bear similar civil maritime security threats and are committed to working together to combat maritime crime,” Director-General of SLCG, Rear Admiral Pujitha Vithana said.
-
-The small, motorised, off-highway vehicles are generally used on rough ground. The ATVs will be deployed in various places including Colombo, Galle, and Trincomalee.
-
-Each ATV will be equipped with a land focussed drone to detect illegal activities in coastal areas.
-
-SLCG will use the additional ATVs to uplift their existing onshore patrols and operational activity to protect the community from maritime crime and people smuggling, a joint statement by the Australian Border Force and SLCG said.
-
-...
-
-[Data](articles/245bfd29.json)
-
-[Extended Data](ext_articles/245bfd29.ext.json)
-
----
-
-### Several MPs, politicians from various parties pledge support to President Ranil
-
-*2024-08-15 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101260/several-mps-politicians-from-various-parties-pledge-support-to-president-ranil) · `en`
-
-Members of Parliament (MPs), former ministers, ex-parliamentarians and politicians from various political parties have today (15) pledged their support to President Ranil Wickremesinghe in the upcoming presidential election.
-
-Accordingly, SJB Anuradhapura District MP Ishak Rahuman, representing Rishad Bathiudeen’s All Ceylon Makkal Congress (ACMC), Puttalam District MP Ali Sabri Raheem and Digamadulla District MP Attorney-at-Law S.M.M. Muszhaaraff convened a special press conference, a short while ago.
-
-During the press briefing, the three Muslim parliamentarians pledged to extend their support for the victory of President Wickremesinghe in the 2024 presidential election.
-
-...
-
-[Data](articles/a7eb17a3.json)
-
-[Extended Data](ext_articles/a7eb17a3.ext.json)
-
----
-
-### Musharraf, Ishaq Rahman, who supports the presidential candidate Ranil, and Ali Sabri Rahim
-
-*2024-08-15 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/191147) · `ta`
-
-Musharraf, Ishaq Rahman, and Ali Sabri Rahim, along with Rishad Bathiudeen's All Ceylon Peoples Congress MPs, have endorsed independent presidential candidate Ranil Wickremesinghe. They announced their support during a press conference at Bambalapitiya's political office.
-
-🟩
-
-All Ceylon Peoples Congress MPSMM of Rishad Bathiudeen. Musharraf, United People's Power MP Ishaq Rahman and Muslim National Alliance MP Ali Sabri Rahim have supported Independent Presidential candidate Ranil Wickremesinghe.
-
-They participated in a press conference held a short while ago at the political office in Bambalapitiya and expressed their support to the presidential candidate Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/7f2f220d.json)
-
-[Extended Data](ext_articles/7f2f220d.ext.json)
-
----
-
-### The symbol of the Tamil general candidate
-
-*2024-08-15 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/191146) · `ta`
-
-Ariyanethran, a former MP, is the Tamil general candidate for the upcoming presidential election, backed by Tamil nationalist parties and civil groups. His nomination was recently confirmed.
-
-🟩
-
-Former parliamentarian Ariyanethran will contest the upcoming presidential election representing the North and East.
-
-Tamil nationalist parties and community level civil organizations are forming a public organization and fielding this common candidate.
-
-In that respect, the Tamil general structure has announced that the appointment of Tamil general candidate PA Ariyanethran has been accepted shortly before.
-
-◼️
-
-[Data](articles/7cb18e8f.json)
-
-[Extended Data](ext_articles/7cb18e8f.ext.json)
-
----
-
-### Luxury bus service for Colombo Fort and I
-
-*2024-08-15 13:34:00* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක--සිට-කොළඹ-කොටුවට-හා-මා-කුඹුරට-සුඛෝපභෝගී-බස්-රථ-සේවාවක්/11-411391) · `si`
-
-Sri Lanka introduces a new luxury bus service from Katunayake airport to Colombo Fort, aimed at improving transportation for foreign tourists. Organized by the Ministry of Transport and Highways in collaboration with a private firm, this service connects to the Colombo-Katunayake Expressway. The inaugural bus ride took place on August 15th, with fares set at 10,000 rupees per trip. This initiative addresses previous transportation challenges, offering a more convenient option for travelers arriving at the Bandaranaike International Airport.
-
-🟩
-
-New luxury railway station from Katunayake airport and a new luxury bus service to the multi-purpose transport center in Sri Lanka Aviation.Ranjith Rubasinghe commenced at the Katunayake airport.
-
-If foreign tourists arriving in Sri Lanka so far, they should have traveled to the airport from the airport, about 2 km from the airport.
-
-The new bus service has been jointly organized by the Ministry of Transport and Highways, a private bus firm, which has been joined the Colombo-Katunayake Expressway, on the Colombo-Katunayake Expressway, on the Colombo-Katunayake Expressway.The bus has been prepared in the way.
-
-A large number of buses have been deployed for the new bus service and 10,000 rupees for one passage will be charged for one passage.
-
-The first bus of the new bus service at the Bandaranaike International Airport on 08/15 from the Bandaranaike Transport Center
-
-...
-
-[Data](articles/bfe8f3e6.json)
-
-[Extended Data](ext_articles/bfe8f3e6.ext.json)
-
----
-
-### 39 eligible to contest presidential election: Elections Commission
-
-*2024-08-15 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/191136) · `ta`
-
-39 out of 40 potential presidential candidates for 2024 have submitted their nominations and are eligible to run, except for independent candidate Sarath Kumara Gunaratne, who didn't submit his papers. The Elections Commission Chairman urged fairness in campaigning, rejecting three objections on nominations, and advised against false portrayals online and excessive use of plastics in campaigns.
-
-🟩
-
-The Chairman of the Elections Commission said that 39 of the 40 candidates who controlled the presidential election in 2024 have submitted their nominations and 39 are eligible to contest the election.
-
-Meanwhile, Independent candidate Sarath Kumara Gunaratne said he did not submit the nomination papers.
-
-The Chairman of the Elections Commission said this during a media briefing held after the nominations were accepted.
-
-The nomination petition has been completed. Thank you for everyone. Cooperate with candidates to hold the election in a fair manner.
-
-Of the 39 filed nominations, three objections on 3 nominations have been rejected.
-
-Civil citizens must avoid campaigns with false and disgusting portrayals through social websites.
-
-Only a candidate will be given a special concession to the media.
-
-He added that candidates should consider environmental protection and avoid using polythene and plastic for election campaigns.
-
-◼️
-
-[Data](articles/9b0639a2.json)
-
-[Extended Data](ext_articles/9b0639a2.ext.json)
-
----
-
-### Here is the election sign of President Ranil
-
-*2024-08-15 13:16:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-රනිල්ට-ලැබුණු-ඡන්ද-ලකුණ-මෙන්න/11-411390) · `si`
-
-President Ranil Wickremesinghe has released his campaign symbol, a gas cylinder, for his upcoming presidential run as an independent candidate.
-
-🟩
-
-President Ranil Wickremesinghe has published the voter sign of President Ranil Wickremesinghe, who was contesting as independent candidate at the next presidential election.
-
-Accordingly, the President has given the Gas Cylinder to the President for the next presidential election.
-
-◼️
-
-[Data](articles/01970e4a.json)
-
-[Extended Data](ext_articles/01970e4a.ext.json)
-
----
-
-### The mango is auctioned at Rs. 285,000 at Kovil Deva
-
-*2024-08-15 13:16:26* · [`adalk`](https://www.ada.lk/breaking_news/කෝවිල්-දේව-පූජාවෙදී-අඹ-ගෙඩිය-රුපියල්-285-000-කට-වෙන්දේසි-වෙයි/11-411389) · `si`
-
-A rare mango sold for Rs. 285,000 at Kovil Deva's Hindu temple auction, part of annual festivities, was bought by Chandran Syntaja. The proceeds support temple development, education, and community harmony.
-
-🟩
-
-The Kovil Trust Board said that the auction of sacrificing goods held at the Hindu Kovil at the Hindu Kovil in the Hindu Kovil at the Hindu Kovil of Ukkakulankulam.
-
-The auction was held yesterday (14) to the Annual Festival held at the Sidhagager Kovil yesterday.
-
-The mango file was purchased by a woman named Chandran Syntaja, a resident of Ukkulankulam area in general area Naddés.
-
-However, the woman at the Auction at the Hindu Kovil was purchased at the Auction at the Hindu Kovil in August 2023.
-
-This mango is funded at the auction to provide the money for the development of the temple and the universities of the Hindus and the peace of the family and the peaceful for the family and the family will be eradicated..
-
-Hindu Kovils in the Northern Province have been held these days and a mango of the Hindu Kovil of Vavuniya has been auctioned for Rs. 95,000 and 3 million in the Hindu Kovil.
-
-◼️
-
-[Data](articles/920b343d.json)
-
-[Extended Data](ext_articles/920b343d.ext.json)
-
----
-
-### President Ranil to contest under ‘Gas Cylinder’ symbol
-
-*2024-08-15 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101259/president-ranil-to-contest-under-gas-cylinder-symbol) · `en`
-
-The Election Commission has assigned the “Gas Cylinder” symbol to President Ranil Wickremesinghe, who is contesting this year’s presidential election as an independent candidate.
-
-President Ranil Wickremesinghe signed his nomination papers on Wednesday (14) at his political office in Flower Road, Colombo to contest the upcoming Presidential Election.
-
-President Wickremesinghe, accompanied by Prime Minister Dinesh Gunawardena, arrived at the Election Commission in Rajagiriya this morning and submitted his nomination papers for the upcoming presidential election.
-
-On July 26, President’s Counsel Ronald Perera had placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
-
-President Wickremesinghe had confirmed that he will contest the upcoming Presidential Election as an independent candidate, while addressing a public meeting held in Galle, on July 27.
-
-...
-
-[Data](articles/a50b7fa4.json)
-
-[Extended Data](ext_articles/a50b7fa4.ext.json)
-
----
-
-### Ranil's election symbol "Gase Cylinder"
-
-*2024-08-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/191143) · `ta`
-
-President Ranil Wickremesinghe, running independently in the upcoming presidential election, has been assigned the "Gas Cylinder" symbol by the Election Commission.
-
-🟩
-
-The Election Commission has given the "Gase cylinder" symbol to President Ranil Wickremesinghe, who is contesting as an independent candidate in the upcoming presidential election.
-
-◼️
-
-[Data](articles/72f93120.json)
-
-[Extended Data](ext_articles/72f93120.ext.json)
-
----
-
-### President's gas cylinder marks
-
-*2024-08-15 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199966) · `si`
-
-Ranil Wickremesinghe uses a gas cylinder as his symbol in the 2024 presidential race, marking it as a unique campaign feature. This move also involves several notable figures including MP Gayasan Nawasaram Sharimani Wijewewa, former Minister Sirimani Wijerachchi, and others from the United People's Front, highlighting a collective effort behind his candidacy.
-
-🟩
-
-The gas cylider has been given as President Ranil Wickremesinghe's election signifier as an independent candidate of the 2024 presidential election.
-
-Meanwhile, MP's parliamentarian MMI. Talkumar, Colombo District MP Gayasan Nawasaram Sharimani Wijewewa, leader, leader of former MPs, and former Minister of Parliamentarian Sirimani Wijerachchi, leader of the United People's Front, and former Minister of Parliamentarian Sirimani Wijerachchi.
-
-◼️
-
-[Data](articles/542cb80f.json)
-
-[Extended Data](ext_articles/542cb80f.ext.json)
-
----
-
-### Sri Lanka welcomes Canada proscription of LTTE, World Tamil Movement
-
-*2024-08-15 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-welcomes-canada-proscription-of-ltte-world-tamil-movement-176882/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government has welcomed Canada’s decision to retain the Liberation Tigers of Tamil Eelam (LTTE) along with the World Tamil Movement (WTM) as terrorist entities.
-
-Canada first listed the LTTE as a terrorist entity under the Criminal Code in April 2006. It is a statutory requirement to undertake a review every five years. The latest review process concluded in June 2024.
-
-According to the recent review, Canada maintains that the remnants of the LTTE have an international fundraising and procurement network that still exists, Sri Lanka’s Ministry of Foreign Affairs said in a statement.
-
-“The review of the WTM notes that the group continues to play a facilitating role in the LTTE’s terrorist activities by fundraising on their behalf. This decision taken following a rigorous review process, reaffirms the continued threat posed by these organizations.”
-
-...
-
-[Data](articles/b4a4eff5.json)
-
-[Extended Data](ext_articles/b4a4eff5.ext.json)
-
----
-
-### The symbol of the president's gas cylinder
-
-*2024-08-15 13:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எரிவாயு-சிலிண்டர்-சின்னம்/175-342223) · `ta`
-
-President Ranil Wickremesinghe, leading the United National Party, contests the 2024 presidential election as an independent candidate under the "gas cylinder" symbol. Among 39 contenders, he stands out, preparing for the race on September 21.
-
-🟩
-
-President Ranil Wickremesinghe will contest the 2024 presidential election at the gas cylinder symbol.
-
-President Ranil Wickremesinghe, the leader of the United National Party, filed a nomination as an independent candidate.
-
-39 candidates, including President Ranil Wickremesinghe, are eligible to contest the presidential election on September 21 this year.
-
-◼️
-
-[Data](articles/a94d5db1.json)
-
-[Extended Data](ext_articles/a94d5db1.ext.json)
 
 ---

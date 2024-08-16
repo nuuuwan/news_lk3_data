@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 23:56:21**
+As of **2024-08-17 00:09:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,136 (100.0%) of 41,142 articles have been extended.
+41,142 (100.0%) of 41,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -790,6 +790,8 @@ President Ranil Wickremesinghe, who is also the island nation’s Finance Minist
 
 [Data](articles/b8707a13.json)
 
+[Extended Data](ext_articles/b8707a13.ext.json)
+
 ---
 
 ### Vishmi Gunaratne smashes maiden ODI century against Ireland
@@ -998,6 +1000,8 @@ A bond maturing on 15.05.2030 closed at 13.05/15 percent. (Colombo/Aug16/2024)
 
 [Data](articles/8877fb03.json)
 
+[Extended Data](ext_articles/8877fb03.ext.json)
+
 ---
 
 ### Protest against China
@@ -1092,6 +1096,8 @@ Melstacorp Plc saw some foreign buying interest after days of foreign selling. T
 
 [Data](articles/455a1f38.json)
 
+[Extended Data](ext_articles/455a1f38.ext.json)
+
 ---
 
 ### Ukrainian security depends in Sri Lanka
@@ -1169,6 +1175,8 @@ Both Premadasa and Dissanayaka, who are top contenders in the presidential elect
 ...
 
 [Data](articles/a109e977.json)
+
+[Extended Data](ext_articles/a109e977.ext.json)
 
 ---
 
@@ -1277,6 +1285,8 @@ This was the largest rights issue to date by a bank in the country, the bank sai
 ...
 
 [Data](articles/09aac897.json)
+
+[Extended Data](ext_articles/09aac897.ext.json)
 
 ---
 
@@ -1507,6 +1517,8 @@ Most legislators who signed the agreement with Wickremesinghe had been working w
 ...
 
 [Data](articles/731bb166.json)
+
+[Extended Data](ext_articles/731bb166.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 17:57:41**
+As of **2024-08-16 18:16:26**
 
 ## Newspaper Stats
 
-*Scraped **41,095** Articles*
+*Scraped **41,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 391
 islandlk | 2,372
 economynextcom | 2,493
 dailyftlk | 2,664
-adalk | 3,780
+adalk | 3,782
 dailymirrorlk | 4,733
 adaderanalk | 4,800
 tamilmirrorlk | 5,261
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,095 (100.0%) of 41,095 articles have been extended.
+41,095 (100.0%) of 41,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,24 @@ This is the first time a National UPFA candidate a Presidential UPFA in a presid
 [Data](articles/57b8e819.json)
 
 [Extended Data](ext_articles/57b8e819.ext.json)
+
+---
+
+### චීනයෙන් ඉඟුරු ගෙන්වනවාට විරෝධය
+
+*2024-08-16 17:11:00* · [`adalk`](https://www.ada.lk/breaking_news/චීනයෙන්-ඉඟුරු-ගෙන්වනවාට-විරෝධය/11-411409) · `si`
+
+දේශීය  ඉඟුරු අස්වැන්න නෙලන අවස්ථාවේදී චීනයෙන් ඉඟුරුගෙන්වීමට රජය ලබාදුන් අවසරයට විරෝධය පාමින් ඉඟුරු අතු වලින් සැරසුණු ගොවීහු පිරිසක් 16 දින දඹුල්ල ආර්ථික මධ්‍යස්ථානය ඉදිරිපිට විරෝධතාවයක නිරත වූහ.
+
+පසුගිය කාලයේ ඉඟුරු ආනයනය සම්පූර්ණයෙන්ම නවතා දමා තිබුණු වකවානුවක දේශීය ඉඟුරු ගොවීන් විශාල පිරිවැයක් දරමින් ඉඟුරු වගාකළ බවත් ඉඟුරු අස්වැන්න  නෙලීම  ආරම්භ වෙද්දී චීනයෙන් ඉඟුරු ගෙන්වීම සඳහා කැබිනට් අනුමැතිය ලැබී ඇති බව අනුමැතිය වහාම හකුලා ගන්නා ලෙස මෙම ඉඟුරු ගොවීහු   රජයට බල කරමින් මෙසේ උද්ඝෝෂණයක නිරත වූහ.
+
+මේ දිනවලින් ඉඟුරු කිලෝවක තොග මිල රුපියල් හත්සියේ සිට 1800 දක්වා මිලක් පවතින බවත් පසුගිය මාසයේ ඉඟුරු කිලෝවක් රුපියල් දෙදහසක්  දෙදහස් පන්සීයත් අතර ඉහළ අගයකට අලෙවි වූ බව ගොවීන් කියති.
+
+ඉඟුරු ලංකාවට ගෙන්වීම සඳහා තහනම් කර තිබුණු අවස්ථාවක අර්තාපල් අල ලොකු ලූනු සහ විවිධ භාණ්ඩ  වර්ග ආනයනය කරන කන්ටේනර් රථවල ඉතා සූක්ෂම ලෙස සඟවා මෙවන විටත් විදේශීය රටවල ඉඟුරු කිලෝ ලක්ෂ ගණනාවක් වෙළඳපලට ගෙන්වා තිබෙන බව ගොවීන් පවසති.
+
+...
+
+[Data](articles/63248a96.json)
 
 ---
 
@@ -293,6 +311,18 @@ Nadeskumar Vinodhini (age 25) from Thanganagar village in the Seruvila Divisiona
 [Data](articles/021b0350.json)
 
 [Extended Data](ext_articles/021b0350.ext.json)
+
+---
+
+### දිලිත්ගේ මැතිවරණ ව්‍යාපාරයේදි උදයට ලැබුණ තනතුර
+
+*2024-08-16 15:40:16* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ගේ-මැතිවරණ-ව්‍යාපාරයේදි-උදයට-ලැබුණ-තනතුර/11-411407) · `si`
+
+සර්වජන අපේකෂක ව්‍යවසායක නීතිඥ දිලිත් ජයවීර මහතාගේ මැතිවරණ මෙහෙයුම් ප්‍රධානි ලෙස පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා පත්කර තිබේ. අද කොළඹදී පැවැති මාධ්‍ය හමුවකදී උදය ගම්මන්පිල මහතා ප්‍රකාශ ‌කළේ දිලිත් ජයවිර මහතගේ මැතිවරන  මාධ්‍ය ප්‍රධානි ලෙස පාර්ලිමේන්තු මන්ත්‍රි ගාමිණි වලේබොඩ මහතාග මාධ්‍ය ප්‍රකාශක ලෙස තරුණ මාධ්‍යවේදියෙකු වන දනිඳු විතානවසම් මහතාවත් පත් කර ඇති බවයි.
+
+...
+
+[Data](articles/f50d6a63.json)
 
 ---
 
@@ -2211,47 +2241,5 @@ High Commissioner and officers of High Commission of India also paid homage at t
 [Data](articles/98caa5c5.json)
 
 [Extended Data](ext_articles/98caa5c5.ext.json)
-
----
-
-### Ali Sabry engages in bilateral talks in Cairo to enhance ties between Sri Lanka and Egypt
-
-*2024-08-16 06:21:38* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-engages-in-bilateral-talks-in-Cairo-to-enhance-ties-between-Sri-Lanka-and-Egypt/56-765612) · `en`
-
-Foreign Minister Ali Sabry undertook an official visit to Egypt from 7-11 August at the invitation of the Egyptian Foreign Affairs, Emigration and Egyptian Expatriates Minister Dr. Badr Abdelatty.
-
-Minister Sabry held productive discussions with his counterpart Dr. Abdelatty and reviewed bilateral relations between Sri Lanka and Egypt. Both sides noted the potential to expand the relations between the two countries by fostering closer links in the fields of trade, investment, tourism, education, culture, archaeology, maritime transport, renewable energy, and climate change.
-
-...
-
-[Data](articles/45b2c784.json)
-
-[Extended Data](ext_articles/45b2c784.ext.json)
-
----
-
-### Today and tomorrow increases
-
-*2024-08-16 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199983) · `si`
-
-The Meteorological Department forecasts heavy rainfall from today (16th) through tomorrow (17th), particularly affecting the Western, Sabaragamuwa, Northwestern provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Expect thunderstorms developing across these regions, with potential for over 100mm of rain in some areas. The department advises residents to prepare for possible damage and take precautions against the weather conditions.
-
-🟩
-
-The Meteorological Department says that today (16) and tomorrow (17), a temporary increase in the current area of ​​the island.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa and Northwestern provinces, in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Some areas in the Western and Sabaragamuwa Province and in Galle and Matara districts are mm mm mm.. Heavy rains may occur over 100.
-
-Showers or thundershowers will occur at evening or night in the East and Uva provinces.
-
-The Department of Meteorologies requests the public to take necessary steps to reduce the damages caused by thundershowers.
-
-◼️
-
-[Data](articles/acb2a45c.json)
-
-[Extended Data](ext_articles/acb2a45c.ext.json)
 
 ---

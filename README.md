@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 23:37:08**
+As of **2024-08-16 23:56:21**
 
 ## Newspaper Stats
 
-*Scraped **41,136** Articles*
+*Scraped **41,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 391
 islandlk | 2,372
-economynextcom | 2,493
+economynextcom | 2,499
 dailyftlk | 2,664
 adalk | 3,784
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,136 (100.0%) of 41,136 articles have been extended.
+41,136 (100.0%) of 41,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -772,6 +772,26 @@ The first match of the 3-match One Day Championship between Sri Lanka Women's Wo
 
 ---
 
+### Sri Lanka cbank: rupee appreciation due to high inflows; depreciation possible in late 2024
+
+*2024-08-16 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-cbank-rupee-appreciation-due-to-high-inflows-depreciation-possible-in-late-2024-177082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s recent rupee appreciation is due to higher foreign currency inflows compared to the outflows, but there is a possibility for depreciation in the latter part of this year, central bank officials said.
+
+The rupee currency has seen an appreciation in the recent months and traded around 300 rupees per U.S. dollar this week compared to 320 rupee in January this year.
+
+President Ranil Wickremesinghe, who is also the island nation’s Finance Minister, had expected the rupee to appreciate to around 270 per US dollar by June this year.
+
+“The main reason is we have more inflows,” D. S. T. Wanaguru, Director, at the Central Bank’s International Operations Department told reporters at a media briefing in Colombo on Friday (16).
+
+“The market has more foreign currency liquidity than the outflows. That has facilitated the central bank to purchase more foreign currency from the market.”
+
+...
+
+[Data](articles/b8707a13.json)
+
+---
+
 ### Vishmi Gunaratne smashes maiden ODI century against Ireland
 
 *2024-08-16 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101290/vishmi-gunaratne-smashes-maiden-odi-century-against-ireland) · `en`
@@ -958,6 +978,28 @@ At the same time, it was also possible to observe that all the shops in Mallavi 
 
 ---
 
+### Sri Lanka bond yields steady, rupee weaker at 299.00/10
+
+*2024-08-16 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-steady-rupee-weaker-at-299-00-10-177076/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.00/10 to the US dollar Friday, from 298.95/299.05 Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.15/25 percent, up from 11.05/20 percent.
+
+A bond maturing on 15.12.2027 closed at 12.00/10 percent, down from 12.05/20 percent.
+
+A bond maturing on 15.12.2028 closed at 12.85/95 percent, down from 12.95/13.05 percent.
+
+A bond maturing on 15.06.2029 closed at 12.90/13.00 percent, down from 13.00/10 percent.
+
+A bond maturing on 15.05.2030 closed at 13.05/15 percent. (Colombo/Aug16/2024)
+
+◼️
+
+[Data](articles/8877fb03.json)
+
+---
+
 ### Protest against China
 
 *2024-08-16 17:11:00* · [`adalk`](https://www.ada.lk/breaking_news/චීනයෙන්-ඉඟුරු-ගෙන්වනවාට-විරෝධය/11-411409) · `si`
@@ -1028,6 +1070,30 @@ The Nawalapitiya Railway Control Room added that officials from Badulla Railway 
 
 ---
 
+### Sri Lanka stocks close down, polls cast uncertainty
+
+*2024-08-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-polls-cast-uncertainty-177072/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.24 percent, or 27.24 points, at 11,504; while the more liquid S&P SL20 Index closed down 0.24 percent, or 8.04 points, at 3,300.
+
+“We saw turnover tumbling after the past two days,” Softlogic Stockbrokers said. “We feel that differing polls on the possible outcome of the presidential election is disturbing investors.”
+
+“Nothing seems to be certain, and the fact that the tables could turn and there could be new people in power is making investors anxious.
+
+“This sentiment could continue for the next month.” Sri Lanka’s presidential election will be held a month from this week on September 21.
+
+There were two crossings recorded; Renuka Holdings Plc contributed 23 million to the turnover. The share closed up at 13.00 rupees.
+
+Melstacorp Plc saw some foreign buying interest after days of foreign selling. The share closed up at 82.00.
+
+...
+
+[Data](articles/455a1f38.json)
+
+---
+
 ### Ukrainian security depends in Sri Lanka
 
 *2024-08-16 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200006) · `si`
@@ -1085,6 +1151,24 @@ Accordingly, the Election Commission has issued electoral symbols to 17 independ
 [Data](articles/e68995c3.json)
 
 [Extended Data](ext_articles/e68995c3.ext.json)
+
+---
+
+### Sri Lanka could face severe implications if current policies reversed: CB
+
+*2024-08-16 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-face-severe-implications-if-current-policies-reversed-cb-177070/) · `en`
+
+ECONOMYNEXT – Sri Lanka could face severe implications if it reverses current International Monetary Fund (IMF)-backed policy reforms, a top Central Bank official said amid the island nation’s opposition politicians’ vow to amend the IMF deal.
+
+President Ranil Wickremesinghe’s IMF-backed economic reform policies have helped to see some stabilization in the economy from contractions for 10 successive quarters amid an unprecedented economic crisis and sovereign debt default in 2022.
+
+However, his policies are criticized by both the main opposition leader Sajith Premadasa and Marxists leader Anura Kumara Dissanayaka.
+
+Both Premadasa and Dissanayaka, who are top contenders in the presidential election along with Wickremesinghe, have pledged to revise the agreement with the IMF.
+
+...
+
+[Data](articles/a109e977.json)
 
 ---
 
@@ -1173,6 +1257,26 @@ The Deputy Leader of the SLMC has met with President Wickremesinghe at his polit
 [Data](articles/e8ed240a.json)
 
 [Extended Data](ext_articles/e8ed240a.ext.json)
+
+---
+
+### Sri Lanka’s ComBank raises Rs22.54bn in largest rights issue
+
+*2024-08-16 15:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-combank-raises-rs22-54bn-in-largest-rights-issue-177057/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon Plc has raised 22.54 billion rupees to increase its Tier I and total capital to facilitate future business growth.
+
+The Bank offered ordinary voting and non-voting shareholders an issue of one equivalent share for every five shares held, at 85 rupees an ordinary voting share and 69 rupees an ordinary non-voting share.
+
+It received applications for 266,079,848 ordinary voting shares valued at 22.616 billion rupees, and 17,346,959 ordinary non-voting shares to the value of 1.196 billion rupees at the conclusion of the rights issue.
+
+“Our ability to raise such a significant amount in capital at a time of economic challenge truly underlines Commercial Bank’s status as a systemically-important bank,” Commercial Bank Chairman Mr Sharhan Muhseen said.
+
+This was the largest rights issue to date by a bank in the country, the bank said in a statement.
+
+...
+
+[Data](articles/09aac897.json)
 
 ---
 
@@ -1383,6 +1487,26 @@ The Tictock content is managed by Bitdans that it is imperative that the recomme
 [Data](articles/cda6480e.json)
 
 [Extended Data](ext_articles/cda6480e.ext.json)
+
+---
+
+### Wickremesinghe launches ‘Sri Lanka Can’ campaign for presidency; forms broader alliance
+
+*2024-08-16 15:21:00* · [`economynextcom`](https://economynext.com/wickremesinghe-launches-sri-lanka-can-campaign-for-presidency-forms-broader-alliance-177045/) · `en`
+
+ECONOMYNEXT – President Ranil Wickremesinghe on Friday (16) formed a broader independent coalition with 34 political leaders from different parties and launched his presidential campaign under the theme ‘Sri Lanka Can’ (Puluvan Sri Lanka).
+
+Backed by more than 100 legislators in the 225-member parliament, Wickremesinghe is credited for implementing International Monetary Fund (IMF)-backed hard reforms.
+
+“Don’t focus on the future of politicians; think about your own future and vote in this presidential election,” Wickremesinghe told the gathering after launching his campaign with a range of political parties including center-right to center-left and nationalists to leftists.
+
+Most legislators who signed the agreement with Wickremesinghe had been working with him in the past two years after he was elected as the president following an unprecedented economic crisis.
+
+“This agreement was signed by a group of people who chose action over mere words, standing their ground and committing to change.”
+
+...
+
+[Data](articles/731bb166.json)
 
 ---
 
@@ -2167,131 +2291,5 @@ The leader of the opposition who visited the Dalada House, including the Diyawad
 [Data](articles/ca753aa9.json)
 
 [Extended Data](ext_articles/ca753aa9.ext.json)
-
----
-
-### 34 parties and alliances sign agreement to back Ranil at prez poll
-
-*2024-08-16 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/101277/34-parties-and-alliances-sign-agreement-to-back-ranil-at-prez-poll) · `en`
-
-President Ranil Wickremesinghe emphasized that the “Puluwan Sri Lanka” agreement, signed by 34 political parties and alliances, was not intended to create a new political party but to unite the nation and build a brighter future for the country and its people.
-
-He noted that those who signed this agreement are not individuals who shied away from the economic challenges, but rather, they are people who embraced these challenges, believing in the potential to rebuild the country.
-
-President Wickremesinghe made these remarks during the opening ceremony of the “Puluwan Sri Lanka” agreement signing, held this morning (16) at the Waters Edge Hotel in Battaramulla. The convention was jointly signed by 34 political parties in support of the President for the upcoming presidential election.
-
-The ceremony was consecrated and blessed by the Maha Sangha with Seth Pirith, and religious rites were also performed by clergy from other faiths.
-
-...
-
-[Data](articles/3802e4b4.json)
-
-[Extended Data](ext_articles/3802e4b4.ext.json)
-
----
-
-### Bausi supports Welgama President Ranil
-
-*2024-08-16 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/191194) · `ta`
-
-Bausi, United People's Power leaders support President Ranil Wickremesinghe.
-
-🟩
-
-United People's Power AHM Fouzi and Kumara Welgama have supported President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/98e39874.json)
-
-[Extended Data](ext_articles/98e39874.ext.json)
-
----
-
-### 34 party and 34 coals have to go into agreement
-
-*2024-08-16 10:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ හා-සන්ධාන-34ක්-ජනපති-සමග-ගිවිසුමකට/11-411406) · `si`
-
-34 parties and 34 coalitions agreed at Waters Edge Hotel, Colombo, to back Ranil Wickremesinghe in the upcoming presidential election, marking a significant step towards his candidacy.
-
-🟩
-
-Party and 34 coals signed an agreement at Waters Edge Hotel in Colombo this morning to support Ranil Wickremesinghe in the next Presidential election. The President was headed by the President to the Jayawishu Sri Lanka Convention.
-
-◼️
-
-[Data](articles/f9599271.json)
-
-[Extended Data](ext_articles/f9599271.ext.json)
-
----
-
-### Ranil supports the support of 34 coals
-
-*2024-08-16 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199993) · `si`
-
-President Ranil Wickremesinghe signs Sri Lanka's Convention supporting 34 coal parties at the Wateus Edge Hotel in Battaramulla ahead of the next presidential election.
-
-🟩
-
-Sri Lanka 'Convention (34) parties have been signed by President Ranil Wickremesinghe in the next presidential election.
-
-At the Wateus Edge Hotel in Battaramulla today (16) was signed.
-
-◼️
-
-[Data](articles/fde43c70.json)
-
-[Extended Data](ext_articles/fde43c70.ext.json)
-
----
-
-### Memorandum of Understanding (MoU) to Ranil with the participation of 34 political parties
-
-*2024-08-16 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/191191) · `ta`
-
-An MoU was signed by 34 political parties in Colombo, supporting President Ranil Wickremesinghe ahead of Sri Lanka's presidential election.
-
-🟩
-
-A Memorandum of Understanding (MoU) has been signed with the participation of leaders of 34 political parties.
-
-The Memorandum of Understanding (MoU) signed at the Wortus Ejkot in Colombo today at 10.06 am at 10.06 am.
-
-In the upcoming presidential election, 34 parties and alliances have signed a compliance with 'Sri Lanka' in support of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/d906bbec.json)
-
-[Extended Data](ext_articles/d906bbec.ext.json)
-
----
-
-### What did the secretary candidates speak the Presidential fight?
-
-*2024-08-16 10:27:54* · [`adalk`](https://www.ada.lk/opinion/ජනපති-සටනේ-රහස්---ජනාධිපති-අපේක්ෂකයන්-කතා-කළේ-මොනවාද-/2-411405) · `si`
-
-In the lead-up to the presidential elections, various candidates including Ranil Wickremesinghe, Sajith Premadasa, and others engaged in discussions and interactions. Notably, Namal Rajapaksa, associated with both the Sri Lankan Civil Front and his family's political history, was mentioned frequently. Despite initial concerns about candidate meetings, these interactions continued, with Wickremesinghe meeting with Dinesh Gunawardena and others. Dr. Wijayadasa Rajapaksa also visited Wickremesinghe, discussing legal matters. Meanwhile, Namal Rajapaksa received support from various quarters, including Anura Kumara Dissanayake. The nomination period concluded with a mix of support and criticism, highlighting the dynamic nature of the electoral process.
-
-🟩
-
-At the time of taking over the nominations of the presidential election, many were concerned about when the presidential candidates meet each other.
-
-President Ranil Wickremesinghe handed over nominations as an independent candidate and the opposition leader Sajith Premadasa was nominated as the candidate of reconciliation.
-
-Leader of the Sri Lanka Kumara Dissanayake was handed over to the Sri Lanka Kumara Kumara Dissanayake as the presidential candidate of the national popularity.
-
-Field Marshal Sarath Fonseka, Dilith Jayaweera, President's Counsel Dr. Wijedasa Rajapakse, Ven
-
-When the names of those candidates, many were referring to two names as Namal Rajapaksa. One Namal Rajapaksa has made a Sri Lankan Civil Front or Pogket. The other Namal Rajapaksa is the party.
-
-Namal Rajapaksa's name was known as Lakshman Namal Rajapaksa. The name Lakshman is not a new name for the Rajapaksas. Lakshman Rajapakse is Mahinda Rajapaksa's big bapane. Lakshman Rajapaksa's daughter Nirupama Rajapaksa.
-
-...
-
-[Data](articles/b5754705.json)
-
-[Extended Data](ext_articles/b5754705.ext.json)
 
 ---

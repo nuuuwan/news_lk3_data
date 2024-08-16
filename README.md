@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-16 18:55:44**
+As of **2024-08-16 19:06:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,105 (100.0%) of 41,106 articles have been extended.
+41,106 (100.0%) of 41,106 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -308,19 +308,25 @@ It is revealed at a banned stimulant investigation during the 2024 Lanka Premier
 
 ---
 
-### උඩරට දුම්රිය ධාවනයට බාධා
+### Upcountry train interrupts
 
 *2024-08-16 17:02:43* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-411408) · `si`
 
-බදුල්ල සිට මහනුවර බලා ධාවනය වෙමින් තිබූ අංක 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය අද (16) දහවල් දෙමෝදර දුම්රිය ස්ථානය අසල දී පිලීපැනිමට ලක් වීමෙන් උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ කොටුව අතර දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි .
+The Colombo-Lankapuvath Railway Control Room was disrupted by the Badulla Fort, causing delays in the 1596 transport faculty's journey from Badulla Railway Station. The Nawalapitiya Control Room announced that officials from the Badulla Railway Disaster Center would manage the situation, including operating a single mixed train.
 
-බදුල්ල දුම්රිය ස්ථානයෙන් අද (16)පෙරවරු 11.30 ට පමණ මහනුවර බලා ගමන් ආරම්භ කළ අංක 1596 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය දෙමෝදර දුම්රිය ස්ථානය ට ලගා වෙමින් තිබියදී මෙසේ පිළීපැනිමට ලක් වූ බවත්, දුම්රියේ භාණ්ඩ ප්‍රවාහන පෙට්ටියක් (වැගන් එකක්) පිලීපැනිමට ලක් විනැයි දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය .
+🟩
 
-පිලිපැනීමට ලක්ව ඇති භාණ්ඩ ප්‍රවාහන  මිශ්‍ර දුම්රියේ පිලීගත  කිරිමට බදුල්ල දුම්රිය ස්ථානයේ සිට දුම්රිය ආපදා ඒකකයේ නිලධාරීන් පැමිණීම ට නියමිත බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් පැවසීය .
+The Railway Control Room (Colombo-Lankapuvath) has been interrupted by the Colombo Fort of Badulla Fort in the Colombo Fort on the Colombo Fort on the Colombo Fort on the Colombo Fort on the Colombo Fort.
+
+Faculty of transport transport of 1596 from the Badulla Railway Station at around 11.30 amDid.
+
+The Nawalapitiya Railway Control Room added that officials from Badulla Railway Disaster Center will be appointed to adopt the Pradeshiya Single Mixed Train.
 
 ◼️
 
 [Data](articles/5bc331be.json)
+
+[Extended Data](ext_articles/5bc331be.ext.json)
 
 ---
 

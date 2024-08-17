@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 19:36:37**
+As of **2024-08-17 19:54:54**
 
 ## Newspaper Stats
 
-*Scraped **41,244** Articles*
+*Scraped **41,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
-adaderanalk | 4,820
-tamilmirrorlk | 5,291
+adaderanalk | 4,821
+tamilmirrorlk | 5,292
 virakesarilk | 6,539
 adaderanasinhalalk | 7,027
 
@@ -26,23 +26,75 @@ adaderanasinhalalk | 7,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,243 (100.0%) of 41,244 articles have been extended.
+41,244 (100.0%) of 41,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ஆகாயத்தை நோக்கி துப்பாகிச்சூடு ; வாகரையில் பதற்றம்
+### ஜனாதிபதிக்கு அவசர கடிதம்
+
+*2024-08-17 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342336) · `ta`
+
+மன்னார் சோழமண்டல குளம் காணியில் கடந்த 30 வருடங்களுக்கு மேலாக விவசாய செய்கையில் ஈடுபட்டு வரும் ஏழை விவசாயிகள் ஏமாற்றப்பட்டுள்ளதோடு,பணம் படைத்தவர்களுக்கு குறித்த  காணிகள் வழங்கப்பட்டுள்ளதாக மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றியம் குற்றம் சுமத்தியுள்ளது.
+
+இவ்விடயம் தொடர்பில் பொது அமைப்புக்களின் ஒன்றிய தலைவர் வி.எஸ்.சிவகரன் இன்றைய தினம்(17) ஜனாதிபதிக்கு அவசர கடிதம் ஒன்றை அனுப்பி வைத்துள்ளார்.
+
+மன்னார் சோழமண்டல குளம் காணி விடயம்  தொடர்பாக பல முறை உங்களுக்கு கடிதம் எழுதி பயனற்று போய்விட்டன. 30 ஆண்டுகளாக விவசாய செய்கையில் ஈடுபட்டு வரும் 100 ஏழை விவசாயிகள் புறக்கணிக்கப்பட்டு பெரு வணிகர்களுக்கும் கொழும்பிலும்   வெளிநாட்டில் இருப்பவர்களுக்கும் சட்ட விரோதமாக காணி வழங்கி உள்ளீர்கள்.
+
+நீதியின் பரிபாலன மின்றி அநீதியாக உங்கள் அமைச்சர்கள் சலுகை பெற்றுக் கொண்டு இக் காணியை வழங்கியுள்ளார்கள் என்பதே வெளிப்படையான உண்மை.
+
+இவ்விடயம் தொடர்பில் அரசாங்க அதிபர் பலமுறை வேண்டுகோள் விடுத்துள்ளார்.இராஜாங்க அமைச்சரும் மாவட்ட அபிவிருத்தி குழு தலைவரும் பல தடவைகள் எழுத்து மூலமும் நேரடியாகவும் தெரிவித்துவிட்டனர்.
+
+...
+
+[Data](articles/956122a2.json)
+
+---
+
+### Spit towards the sky;Tension in the forbid
 
 *2024-08-17 19:14:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆகாயத்தை-நோக்கி-துப்பாகிச்சூடு-வாகரையில்-பதற்றம்/73-342335) · `ta`
 
-வாகரை - கதிரவெளி பகுதியில் தமது காணியை  ஜே.வி.பி இயந்திரம் மூலம் துப்பரவு செய்ய சென்றவர்கள் பொதுமக்களின் காணியை  அபகரிக்க முற்பட்டதாக அந்த பகுதி மக்கள் தடுத்து நிறுத்த முற்பட்டபோது இடம்பெற்ற கல்வீச்சு தாக்குதலையடுத்து பெற்றோலிய கூட்டுத்தாபனத்தின் தலைவர் தனது கைதுப்பாக்கியால் ஆகாயத்தை நோக்கி துப்பாக்கி பிரயோகம் செய்ததையடுத்து அங்கு பெரும் பரபரப்பு ஏற்பட்ட சம்பம் இன்று (17) பிற்பகல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A leader of the Petroleum Corporation fired into the air as locals protested against land seizures by the JVP. A previous incident involved a Tamil sold to the corporation in London. Sea erosion caused by the JVP machinery led to land loss, but it was later reclaimed. The corporation's leader brandished a gun after an attack by the JVP, leading to intervention by the Special Task Force, who arrested the JVP members.
 
-குறித்த கடல் பிரதேசத்தை அண்டிய லண்டணில் வசித்துவரும் தமிழர் ஒருவருக்கு சொந்தமான 11 ஏக்கர் காணியை கடந்த காலத்தில் பெற்றோலிய கூட்டுத்தாபனத்தின் தலைவருக்கு விற்பனை செய்துள்ளனர்.
+🟩
+
+The leader of the Petroleum Corporation fired at the sky this afternoon when the people of the area tried to stop the land of public land by the JVP machine.The police said.
+
+In the past, a Tamil living in London has been sold to the leader of the Petroleum Corporation in the past.
+
+About one acre of land has gone into the sea with a sea erosion of the land of the land of the Petroleum Corporation of Petroleum Corporation with the JVP machine today, where the land was cleaned and the land was cleared of the land and the land beyond the borders of your land.They have said.
+
+In this case, they said that your land is now back from the sea where your land is back from the sea.
+
+The leader of the Petroleum Corporation took the handgun for his protection after the JVP attacked the machine after the controversy over the two sides.
 
 ...
 
 [Data](articles/76a8bfd8.json)
+
+[Extended Data](ext_articles/76a8bfd8.ext.json)
+
+---
+
+### Sri Lanka targets three million tourists in 2025 with new global campaign
+
+*2024-08-17 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/101312/sri-lanka-targets-three-million-tourists-in-2025-with-new-global-campaign) · `en`
+
+Sri Lankan tourism authorities are expecting three million foreign tourists in 2025, Sri Lanka Tourism Promotion Bureau Managing Director Nalin Perera has said.
+
+From the second week of September, Sri Lankan tourism authorities will launch a promotional campaign covering key source markets, Perera said on Friday.
+
+Perera said the first phase of the campaign will target China, Britain, France, Germany, and India, while the second phase of the campaign will target Russia, Australia, Japan, South Korea, Poland, Italy, as well as Scandinavia, the Middle East and the Benelux countries.
+
+These campaigns are expected to increase tourist arrivals by 700,000 next year.
+
+Perera said over 1.2 million tourists have arrived in Sri Lanka by Aug. 12 and another 1.1 million are expected to arrive during the coming months, particularly from October to December. Sri Lanka expects to attract 2.3 million tourists in 2024.
+
+...
+
+[Data](articles/bb1e58c1.json)
 
 ---
 
@@ -2227,41 +2279,5 @@ In order to make service more affordable for passengers, Government of India has
 [Data](articles/000afc01.json)
 
 [Extended Data](ext_articles/000afc01.ext.json)
-
----
-
-### 2024 Presidential Race: The Unfinished Journey Of Women’s Political Emancipation
-
-*2024-08-16 21:34:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-presidential-race-the-unfinished-journey-of-womens-political-emancipation/) · `en`
-
-Sri Lanka is once again facing a male-dominated presidential race. As of August 15, 2024, thirty-nine out of the forty candidates who have paid deposits to contest the election are male. This overwhelming male dominance highlights the persistent gender imbalance in Sri Lankan politics, reflecting a broader trend where women’s representation remains limited despite existing legal frameworks and advocacy for gender equality. The absence of female candidates underscores the ongoing challenges in achieving equal political participation and representation for women in the country.
-
-...
-
-[Data](articles/6fa2ab68.json)
-
-[Extended Data](ext_articles/6fa2ab68.ext.json)
-
----
-
-### Indo-Sri Lanka's first passenger vessel to visit the island
-
-*2024-08-16 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200016) · `si`
-
-The first passenger vessel from India's Magistrate Service docked in Sri Lanka today, carrying 41 passengers. It departs Nagapattam daily at 8 am and returns to Kankasanthurai by 2 pm.
-
-🟩
-
-The first vessel in the Magistrate's Service between Sri Lanka and India arrived in Sri Lanka today (16).
-
-The vessel sailed from Nagapatturai from Nagapattam in India, 41 passengers.
-
-The vessel leaves 8 am every morning, and it will be back from Kankasanthurai to 2 pm in Sri Lanka.
-
-◼️
-
-[Data](articles/7e79a19b.json)
-
-[Extended Data](ext_articles/7e79a19b.ext.json)
 
 ---

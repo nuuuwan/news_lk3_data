@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 13:06:21**
+As of **2024-08-17 13:21:05**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 7,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,198 (100.0%) of 41,200 articles have been extended.
+41,200 (100.0%) of 41,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### பல மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+### Landslide alert to several districts
 
 *2024-08-17 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/191289) · `ta`
 
-நாட்டில் பலத்த மழை பெய்து வருவதால் நான்கு மாவட்டங்களில் உள்ள பல பகுதிகளுக்கு மண்சரிவு எச்சரிக்கைகள் விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிடம் மற்றும் ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Heavy rains trigger landslide alerts in parts of Galle, Kalutara, Matara, and Ratnapura districts. Amber warnings issued for specific areas including Elpitiya, Neluwa, Yakkalamulla, Nagoda, Ingiriya, Horana, Pulathsingha, Matugama, Bidabethra, Kuruvitha, Ratnapura, Elapadha, Ehliyagoda, Valallavita, Palindanuwara, Tehiyovitta, Teraniyagala, Varakapola, Yattiyantottai, Athuraliya. Warnings effective from 5:00 AM Sunday, 18th.
 
-அதன்படி, காலி, களுத்துறை, மாத்தறை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களின் பல பகுதிகளுக்கு  2 ஆம் நிலை (ஆம்பர்) எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-காலி – எல்பிட்டிய, நெலுவ, யக்கலமுல்ல மற்றும் நாகொட பிரதேச செயலாளர் பிரிவுகள் (டி.எஸ்.டி) மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+The National Building and Research Institute said that landslides have been issued to many parts of four districts due to heavy rains.
 
-களுத்துறை – இங்கிரிய, ஹொரண, புலத்சிங்கள மற்றும் மத்துகம பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+Accordingly, 2nd level (Amber) warning has been issued to many parts of Galle, Kalutara, Matara and Ratnapura districts.
 
-மாத்தறை – பிடபெத்தர பிரதேச செயலக பிரிவுகள்  மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+Galle - Elpitiya, Neluwa, Yakkalamulla and Nagoda Divisional Secretaries (DSD) and surrounding areas
 
-இரத்தினபுரி- குருவிட்ட, இரத்தினபுரி, எலபாத, எஹலியகொட மற்றும் கலவான பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+Kalutara - Ingiriya, Horana, Pulathsingha and Matugama Divisional Secretariat Divisions and the surrounding areas
 
-களுத்துறை – வலல்லாவிட்ட மற்றும் பாலிந்தநுவர பிரதேச செயலக பிரிவுகள்  மற்றும் அதனை சுற்றியுள்ள பகுதிகள்
+Matara - Bidabethra Divisional Secretariat Divisions and the surrounding areas
 
-கேகாலை- தெஹியோவிட்ட, தெரணியகல, வரகாபொல, யட்டியந்தோட்டை, கேகாலை பிரதேச செயலக பிரிவுகள் மற்றும் அதனைச் சுற்றியுள்ள பகுதிகள்
+Ratnapura- Kuruvitha, Ratnapura, Elapadha, Ehliyagoda and Mixed Divisional Secretariat Divisions and surrounding areas
+
+Kalutara - Valallavita and Palindanuwara Divisional Secretariat Divisions and surrounding areas
+
+Kegalle- Tehiyovitta, Teraniyagala, Varakapola, Yattiyantottai, Kegalle Divisional Secretariat Divisions and surrounding areas
+
+Matara - Athuraliya Divisional Secretariat Divisions and surrounding areas
 
 ...
 
 [Data](articles/1a4453b7.json)
+
+[Extended Data](ext_articles/1a4453b7.ext.json)
 
 ---
 
@@ -154,17 +162,23 @@ She further stated that the water levels in the Black River have significantly i
 
 ---
 
-### දිලිත් ජයවීරගේ මංගල රැළිය අද
+### Dilith Jayaweera's wedding rally today
 
 *2024-08-17 11:29:24* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ජයවීරගේ-මංගල-රැළිය-අද/11-411412) · `si`
 
-සර්වජන බලයේ ජනාධිපති අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ජය තහවුරු කෙරෙන ප්‍රචාරක රැළි මාලාවේ මංගල ජන රැළිය අද(17දා) පැවැත්වීමට කටයුතු යොදා තිබේ.
+Today's Dilith Jayaweera wedding rally, a propaganda event, starts at 2:30 pm.
 
-ඒ අනුව එම ජන රැළිය යාපනයේ රක්කාපාර ක්‍රීඩාංගකවේදී අද පස්වරු 2.30ට ආරම්බ කිරීමට නියමිතව ඇත.
+🟩
+
+The rally of the propaganda rally will be held today (17).
+
+The rally is scheduled to commence at 2.30 pm today at 2.30 pm today.
 
 ◼️
 
 [Data](articles/aed2e2fb.json)
+
+[Extended Data](ext_articles/aed2e2fb.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 12:08:49**
+As of **2024-08-17 12:21:22**
 
 ## Newspaper Stats
 
-*Scraped **41,195** Articles*
+*Scraped **41,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,80 @@ adalk | 3,785
 dailymirrorlk | 4,733
 adaderanalk | 4,811
 tamilmirrorlk | 5,278
-virakesarilk | 6,536
-adaderanasinhalalk | 7,007
+virakesarilk | 6,537
+adaderanasinhalalk | 7,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,193 (100.0%) of 41,195 articles have been extended.
+41,195 (100.0%) of 41,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### කුකුළේ ගඟ ජලාශය වාන් දමයි
+### பூண்டுலோயாவில் தீ விபத்து ; 25 லைன் வீடு  தீக்கரை ; 86 பேர் நிர்கதி
+
+*2024-08-17 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/191286) · `ta`
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் பழைய தோட்டம் என்றழைக்கப்படும் சீன் லோவர் தோட்டத்தில் வெள்ளிக்கிழமை (16) இரவு  8  மணியளவில் ஏற்பட்ட திடீர் தீ விபத்து சம்பவத்தில் 25 லைன்  வீடுகள் எரிந்து தீக்கரையாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த திடீர் தீவிபத்து சம்பவத்தில் பாதிக்கப்பட்ட 25 வீடுகளை சேர்ந்த 86 பேர் நிர்கதிக்குள்ளான நிலையில், அவர்கள்  ஆலய மண்டபம் மற்றும் உறவினர்களின் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
+
+இந்த சம்பவத்தினால் அதிர்ச்சிக்கு உள்ளான இரு வயோதிபர்கள் கொத்மலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வீடுகளை இழந்துள்ள மூன்று கர்பிணி தாய்மார்கள் உறவினர்களின் வீடுகளில் பாதுகாப்பாக தங்க வைக்கப்பட்டுள்ளனர்.
+
+தீ விபத்திற்கான காரணம் மற்றும் சேத விபரங்களை கண்டறிய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளார்கள்.
+
+அதேநேரம் இந்த தீ விபத்து சம்பவம் இடம்பெற்ற சிறிது நேரத்தில் சீன் தோட்டத்திற்கான மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b670c9e3.json)
+
+---
+
+### වතු නිවාස පෙළක් ගිනිගෙන විනාශ වෙයි
+
+*2024-08-17 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200023) · `si`
+
+පූඩළුඔය පොලිස් වසමට අයත් සීන් වත්තේ වතු නිවාස 24ක් ගිනිගෙන විනාශවී ඇති බව පූඩළුඔය පොලීසිය පවසයි.
+
+මෙම ගින්න ඊයේ (16) රාත්‍රි 8.00 පමණ එක් නිවසික් හටගෙන ඇති අතර, පසුව සෙසු නිවාසවලට වේගයෙන් පැතිරී ගොස් තිබේ.
+
+කෙසේ වෙතත් පැතිරී ගිය ගින්න වතු කම්කරුවන් සහ පූඩළුඔය පොලීසියේ නිලධාරින් එක්වී දැඩි පරිශ්‍රමයක් දරා පාලනය කිරීමට සමත්වී තිබුණි.
+
+ගින්නෙන් කිසිවෙකුට හෝ තුවාල සිදුවී නොමැති අතර, ගිනිගත් වතු නිවාසවල පවුල් 24කට අයත් සාමාජිකයන් 70කට ආසන්න පිරිසක් එම වතුයායේම ආරක්ෂිත ස්ථානයක මේ වනවිට රඳවා සිටී.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, ගින්නෙන් සිදුවූ හානිය ද මෙතෙක් තක්සේරු කර නොමැත.
+
+◼️
+
+[Data](articles/b514ea3a.json)
+
+---
+
+### Spoon the chicken river reservoir
 
 *2024-08-17 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200022) · `si`
 
-කළු ගඟෙහි ඉහළ ධාරා ප්‍රදේශවලට සැලකියයුතු වර්ෂාවක් ලැබීමත් සමඟ කුකුළේ ගඟ ජලාශය මේ වනවිට තත්පරයට ඝණ මීටර් 150ක ජල ධාරිතාවයකින් වාන් දමමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Following heavy rains, the Kukule River's water capacity has increased to 150 cubic meters. The Department of Irrigation, led by Mrs. Sakura Dilthara, reports rising water levels in the Black River due to recent rainfall.
 
-වාරිමාර්ග ඉන්ජිනේරු (ජල විද්‍යා හා ආපදා කළමනාකරණ අංශය) ජී.ඩබ්.ඒ. සකුරා දිල්තාරා මහත්මිය මේ පිළිබඳ නිවේදනයක් නිකුත් කරමින් පැවසුවාය.
+🟩
 
-මෙහිදී ඇය වැඩිදුරටත් පවසා සිටියේ, ගතවූ පැය 24 තුළ ලැබුණු අධික වර්ෂාපතනයත් සමග කළු ගඟෙහි ජල මට්ටම් සැලකියයුතු ලෙසින් ඉහළ යමින් පවතින බවය.
+The Department of Irrigation says that with a significant rain in the Kalu Ganga's high current areas, the Kukule River Resources has already spake at 150 cubic water capacity.
+
+Irrigation Engineers (Hydrology and Disaster Management Division). Mrs. Sakura Dilthara issued announcement.
+
+She further stated that the water levels in the Black River have significantly increasing with heavy rainfall received during the past 24 hours.
 
 ◼️
 
 [Data](articles/6abc7604.json)
+
+[Extended Data](ext_articles/6abc7604.ext.json)
 
 ---
 
@@ -600,24 +648,6 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### 
-
-*2024-08-17 01:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
-
-Will More MPs Defect From SJB to Ranil’s Side After Rajitha Senaratne’s Crossover?
-
-Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
-
-Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
-
-...
-
-[Data](articles/09d4eecc.json)
-
-[Extended Data](ext_articles/09d4eecc.ext.json)
-
----
-
 ### The economy will increase by 3 percent
 
 *2024-08-17 01:26:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரம்-3-சதவீதம்-அதிகரிக்கும்/175-342313) · `ta`
@@ -637,6 +667,22 @@ Sri Lanka's economy is expected to increase by 3 per cent by the end of this yea
 [Data](articles/78265319.json)
 
 [Extended Data](ext_articles/78265319.ext.json)
+
+---
+
+### Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?
+
+*2024-08-17 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84559) · `en`
+
+Nambukara Helambage Rajitha Harischandra Senaratne known as Rajitha  Senaratne is the latest among well-known politicians to throw in their lot with incumbent president Ranil Wickremesinghe. The Samagi Jana Balawegaya(SJB) MP for Kalutara district met with the president at the Gangaramaya temple in Colombo on 13 August and signed a memorandum of understanding (MOU) pledging unconditional support to Wickremesinghe in the forthcoming Presidential election scheduled for  21 September 2024.Dr. Senaratne is a dentist turned politician who has served as cabinet minister for many years in the past.
+
+Speaking after the signing of the MOU at  Gangaramaya , Senaratne described Wickremesinghe as a “man of our time” who altered Sri Lanka’s trajectory by rescuing it from a dire situation. According to newspaper reports,  Senaratne  had stated  this motivated  him into  supporting  Wickremesinghe’s candidacy.
+
+...
+
+[Data](articles/09d4eecc.json)
+
+[Extended Data](ext_articles/09d4eecc.ext.json)
 
 ---
 
@@ -1394,17 +1440,23 @@ The National Building and Research Organization (NBRO) says that the warning not
 
 ---
 
-### අද හා හෙට වැස්සේ වැඩිවීමක්
+### Increased today and tomorrow
 
 *2024-08-16 20:23:58* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙට-වැස්සේ-වැඩිවීමක්/11-411411) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැළඹිලි ස්වාභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍ර දේශවල දැනට පවතින වැසි තත්ත්වයේ වැඩි විමක් අද හා හෙට දිනයේදී බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+The Department of Meteorology forecasts heavy rainfall across several districts including Western, Matara, Kandy, and Nuwara Eliya, with amounts exceeding 100mm today and tomorrow.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ප්‍ර දේශවලට මිලි මීටර් 100කට වැඩි තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි
+🟩
+
+The Department of Meteorology says that most of the existing rainy areas of the island nearly the country's clutterism is expected today.
+
+The department says that there will be more height in over 100 mm around millions of western, Matara, Kandy, Kandy and Nuwara Eliya districts.
 
 ◼️
 
 [Data](articles/67ab6608.json)
+
+[Extended Data](ext_articles/67ab6608.ext.json)
 
 ---
 
@@ -2201,41 +2253,5 @@ Meanwhile, sources said that Dickwella has been suspended from all forms of cric
 [Data](articles/dde22b55.json)
 
 [Extended Data](ext_articles/dde22b55.ext.json)
-
----
-
-### 2024 Presidential Election: Symbols of independent candidates
-
-*2024-08-16 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/101288/2024-presidential-election-symbols-of-independent-candidates) · `en`
-
-The electoral symbols have been assigned to the independent candidates who submitted their nominations to contest in the 2024 Presidential Election scheduled for September 21.
-
-Accordingly, the Election Commission has issued electoral symbols to 17 independent candidates running in this year’s presidential election.
-
-◼️
-
-[Data](articles/e68995c3.json)
-
-[Extended Data](ext_articles/e68995c3.ext.json)
-
----
-
-### Sri Lanka could face severe implications if current policies reversed: CB
-
-*2024-08-16 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-face-severe-implications-if-current-policies-reversed-cb-177070/) · `en`
-
-ECONOMYNEXT – Sri Lanka could face severe implications if it reverses current International Monetary Fund (IMF)-backed policy reforms, a top Central Bank official said amid the island nation’s opposition politicians’ vow to amend the IMF deal.
-
-President Ranil Wickremesinghe’s IMF-backed economic reform policies have helped to see some stabilization in the economy from contractions for 10 successive quarters amid an unprecedented economic crisis and sovereign debt default in 2022.
-
-However, his policies are criticized by both the main opposition leader Sajith Premadasa and Marxists leader Anura Kumara Dissanayaka.
-
-Both Premadasa and Dissanayaka, who are top contenders in the presidential election along with Wickremesinghe, have pledged to revise the agreement with the IMF.
-
-...
-
-[Data](articles/a109e977.json)
-
-[Extended Data](ext_articles/a109e977.ext.json)
 
 ---

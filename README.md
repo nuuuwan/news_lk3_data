@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 13:21:05**
+As of **2024-08-17 13:36:31**
 
 ## Newspaper Stats
 
-*Scraped **41,200** Articles*
+*Scraped **41,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 4,812
 tamilmirrorlk | 5,278
 virakesarilk | 6,538
-adaderanasinhalalk | 7,008
+adaderanasinhalalk | 7,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,200 (100.0%) of 41,200 articles have been extended.
+41,200 (100.0%) of 41,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ඡන්දදායකයා මුදලට විකිණෙන්න බැහැ  - සමන් ශ්‍රී රත්නායක
+
+*2024-08-17 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200024) · `si`
+
+රටේ පාලකයා තෝරාගන්නා ගනුදෙනුව මුදලට විකිණෙන දෙයක් නොවිය යුතු බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+කොළඹදී ඊයේ (16) පැවති සම්මන්ත්‍රණයකට එක්වෙමින් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසා සිටියේ, මැතිවරණ වියදම් නියාමනය කිරීමේ නීතියේ අඩංගු කරුණු කොමිෂන් සභාව බලාපොරොත්තු වූ ආකාරයෙන්ම සිදුවී නොමැති බවය.
+
+ඔහු වැඩිදුරටත් පෙන්වා දෙන්නේ ඡන්දදායකයන්ව පාරිභෝගිකයන් බවට පත් කිරීමට ඉඩ නොතැබිය යුතු බවය.
+
+"අපි පටන් ගත්තු තැන සිතපු දේවල්... සිතූ ආකාරයට ඒ සියල්ල මේ ලේඛනය තුළ නොමැති වුණත් යම්කිසි ආකාරයකට අපිට ලැබිච්ච දේ තුළින් මේ කාර්යය මේ මට්ටමින් කරගෙන යන්න කොමිෂන් සභාව උත්හාස දරනවා."
+
+"මුදල් නැතිව මැතිවරණයක් කරන්න බැහැ. ඒ වගේම මැතිවරණය කරද්දි මුදල් ඉස්සර කරගෙන ඡන්දදායකයන්ව පාරිභෝගිකයන් බවට පත් වෙන්නත් බැහැ."
+
+"මේ මුදල් නිසා ඡන්දදායකයන් විකිණෙන තත්ත්වයකට පත් වුණොත් ඒකත් ප්‍රශ්නයක්. ඒ නිසා යම් සීමාවන් අවශ්‍යයි."
+
+මේ අතර ජනාධිපතිවරණයට අදාළව මේ දක්වා පැමිණිලි 519ක් ලැබී තිබෙන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/db14e7ef.json)
+
+---
 
 ### Landslide alert to several districts
 
@@ -2247,27 +2271,5 @@ It is revealed at a banned stimulant investigation during the 2024 Lanka Premier
 [Data](articles/f862de16.json)
 
 [Extended Data](ext_articles/f862de16.ext.json)
-
----
-
-### Upcountry train interrupts
-
-*2024-08-16 17:02:43* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-411408) · `si`
-
-The Colombo-Lankapuvath Railway Control Room was disrupted by the Badulla Fort, causing delays in the 1596 transport faculty's journey from Badulla Railway Station. The Nawalapitiya Control Room announced that officials from the Badulla Railway Disaster Center would manage the situation, including operating a single mixed train.
-
-🟩
-
-The Railway Control Room (Colombo-Lankapuvath) has been interrupted by the Colombo Fort of Badulla Fort in the Colombo Fort on the Colombo Fort on the Colombo Fort on the Colombo Fort on the Colombo Fort.
-
-Faculty of transport transport of 1596 from the Badulla Railway Station at around 11.30 amDid.
-
-The Nawalapitiya Railway Control Room added that officials from Badulla Railway Disaster Center will be appointed to adopt the Pradeshiya Single Mixed Train.
-
-◼️
-
-[Data](articles/5bc331be.json)
-
-[Extended Data](ext_articles/5bc331be.ext.json)
 
 ---

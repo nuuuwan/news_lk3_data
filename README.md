@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 07:27:19**
+As of **2024-08-17 07:49:53**
 
 ## Newspaper Stats
 
-*Scraped **41,171** Articles*
+*Scraped **41,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
-tamilmirrorlk | 5,270
+tamilmirrorlk | 5,271
 virakesarilk | 6,533
-adaderanasinhalalk | 7,002
+adaderanasinhalalk | 7,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,171 (100.0%) of 41,171 articles have been extended.
+41,171 (100.0%) of 41,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ශ්‍රී ලංකාව පරාජයක් අබියස
+
+*2024-08-17 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200019) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත ලයන්ස් කණ්ඩායම අතර පැවැත්වෙන පුහුණු තරගයේ පෙරමුණ ගැනීමට එංගලන්ත ලයන්ස් කණ්ඩායම සමත්ව සිටියි.
+
+තරගයේ තෙවැනි දිනය වූ ඊයේ (16) තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම ලබාදුන් ලකුණු 122ක ඉලක්කයට පිළිතුරු ඉනිම ක්‍රීඩාකරමින් සිටි ලයන්ස් කණ්ඩායම කඩුලු 02ක් දැවී ලකුණු 47ක් රැස්කරගෙන සිටියේය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම පරාජය කිරීම සඳහා ඔවුන් තවත් ලකුණු 75ක් පමණක් ලබාගත යුතු අතර, ඒ වෙනුවෙන් අද දිනයම ඔවුන්ට ඉතිරිව ඇත.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 139ක් පමණක් වූ අතර, ඊට පිළිතුරු ලෙස ලයන්ස් කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 324ක් රැස්කළේය.
+
+ඒ අනුව ලකුණු 185ක් පසුපසින් දෙවැනි ඉනිම ඇරඹීමට ශ්‍රී ලංකාවට සිදුවිය.
+
+කෙසේ නමුත් පළමු ඉනිමේ අඩුපාඩු සැලකිය යුතු ප්‍රමාණයකින් මඟහරවා ගැනීමට ශ්‍රී ලංකා පිතිකරුවන්ට හැකිවූ අතර, ඔවුන් දෙවැනි ඉනිමට සියල්ලන් දැවී ලකුණු 306ක් රැස්කිරීමට සමත් විය.
+
+එහිදී නිශාන් මධුෂ්ක (77), නායක ධනංජය ද සිල්වා (66) හා ඇන්ජලෝ මැතිව්ස් (51) අර්ධ ශතක රැස්කරමින් ඉනිම ගොඩනැගූහ.
+
+...
+
+[Data](articles/009c1d53.json)
+
+---
+
+### වැසි තත්ත්වයේ වැඩීමක්
+
+*2024-08-17 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200018) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි තත්ත්වය අද (17) දිනයේදී තවදුරටත් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල, මාතර සහ මන්නාරම දිස්ත්‍රික්කවල අද දිනයේදීත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+
+විශේෂයෙන් බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කයන්හි ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශ වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක්ද කරයි.
+
+◼️
+
+[Data](articles/1a6d4c41.json)
+
+---
 
 ### WindForce soars to new heights: stellar quarterly performance
 
@@ -97,6 +141,22 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 [Data](articles/be3c821b.json)
 
 [Extended Data](ext_articles/be3c821b.ext.json)
+
+---
+
+### குரங்கம்மை தொடர்பில் வழிகாட்டல் கோவை
+
+*2024-08-17 01:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மை-தொடர்பில்-வழிகாட்டல்-கோவை/175-342311) · `ta`
+
+குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் வழிகாட்டல் கோவை வெளியிடப்பட்ட பின்னர் இலங்கைக்கான வழிகாட்டல் கோவையை வெளியிடவுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் கடந்த புதன் கிழமை உலகளாவிய ரீதியில் அவசரநிலை பிரகடனப்படுத்தப்பட்டது.
+
+இந்நிலையில் வைரஸ் தொற்று நாட்டிற்குள் பரவாமல் இருப்பதற்கு எடுக்கப்பட வேண்டிய நடவடிக்கைகள் தொடர்பில் முதற்கட்ட பேச்சுவார்த்தைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சுகாதார அமைச்சின் பொது சுகாதாரம் தொடர்பான பிரதி பணிப்பாளர் நாயகம் எஸ்.எம்.ஆனல்ட் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/0b6b302e.json)
 
 ---
 
@@ -2117,79 +2177,5 @@ Welikanda police say that special measures have been initiated by the military t
 [Data](articles/1ce3d45d.json)
 
 [Extended Data](ext_articles/1ce3d45d.ext.json)
-
----
-
-### Judge R. M.. Sobitha Rajakaruna appointment
-
-*2024-08-16 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/191221) · `ta`
-
-Justice RM Sobitha Rajakaruna was sworn in as the President of the Court of Appeal on Friday, replacing Nishanga Bandula Karunaratna, who will serve as acting chairman upon his return.
-
-🟩
-
-Justice R.. M. Sopitha Rajakaruna has been appointed.
-
-RM Sopitha Rajakaruna was sworn in as the President of the Court of Appeal on Friday (16) in the presence of President Ranil Wickremesinghe.
-
-Nishanga Bandula Karunaratne, who served as the Chairman of the Court of Appeal, has been appointed until he returns to the country.
-
-◼️
-
-[Data](articles/951a3a75.json)
-
-[Extended Data](ext_articles/951a3a75.ext.json)
-
----
-
-### Announcement on a falsephone
-
-*2024-08-16 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200000) · `si`
-
-Mr. Marikkar announced that the reconciliation force doesn't require the former President's help. He criticized the government's propaganda, highlighting its spread of false news and social media misinformation. The government is encouraging citizens to monitor media activities of all candidates, especially those challenging during the election season.
-
-🟩
-
-Media Spokesman S. Summary of the Power Spokesman S.. M. Mr. Marikkar says.
-
-He made announcement for the reconciliation force and there is no need for the former President or to obtain such assistance.
-
-Marikkar emphasizes that a program is being propagated by the government's propaganda team by the government's propaganda campaigns, considering false news and social media.
-
-The government urges the public to capture the media operations of all the candidates who have been in Caroling, who is challenging to all parties during this election period.
-
-◼️
-
-[Data](articles/783ef452.json)
-
-[Extended Data](ext_articles/783ef452.ext.json)
-
----
-
-### The impact of the monarchy in Pakistan
-
-*2024-08-16 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/191211) · `ta`
-
-In Pakistan, three cases of a mysterious illness resembling monarchy have been identified, two confirmed, with the third sample sent for confirmation. Patients traveled from UAE, and the exact virus variant remains unknown. Three patients are isolated in Khyber Pakhtunkhwa.
-
-🟩
-
-The Health Department in the North Khyber Pakhtunkhwa Province said that three people have been identified in Pakistan.
-
-The impact of the monarchs has been found to return to Pakistan after traveling to the United Arab Emirates.
-
-It is not known which variation virus in Pakistan was diagnosed with patients with the infection.
-
-Two of them have been confirmed. The third patient's samples have been sent to confirm the National Health Organization in the capital Islamabad.
-
-Three patients have been isolated, said Salim Khan, Director of Health Services for Khyber Pakhtunkhwa.
-
-However, a spokesman for the National Health Ministry said that only a patient suspected of being suffering from monarchy in Pakistan has been identified.
-
-◼️
-
-[Data](articles/e8ac64e4.json)
-
-[Extended Data](ext_articles/e8ac64e4.ext.json)
 
 ---

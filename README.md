@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 13:55:46**
+As of **2024-08-17 14:07:16**
 
 ## Newspaper Stats
 
-*Scraped **41,203** Articles*
+*Scraped **41,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,786
 dailymirrorlk | 4,733
-adaderanalk | 4,813
+adaderanalk | 4,814
 tamilmirrorlk | 5,278
 virakesarilk | 6,538
-adaderanasinhalalk | 7,010
+adaderanasinhalalk | 7,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,201 (100.0%) of 41,203 articles have been extended.
+41,203 (100.0%) of 41,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### Voters shouldn’t be reduced to mere consumers during polls – Elections Chief
+
+*2024-08-17 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/101303/voters-shouldnt-be-reduced-to-mere-consumers-during-polls-elections-chief) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake emphasized the need for stringent regulation of election finances, warning against the commercialization of the democratic process.
+
+Speaking at a conference held in Colombo yesterday (17), Mr. Ratnayake asserted that the choice of the country’s leadership should not be influenced by financial transactions.
+
+He highlighted the importance of ensuring that voters remain participants in the democratic process rather than being reduced to mere consumers during elections.
+
+Furthermore, the Elections Commissioner General expressed concerns that the expected outcomes from the laws regulating election expenses have not been fully met in a way that the Election Commission expected.
+
+“You can’t hold an election without money, but you also can’t use money to turn voters into customers,” Mr. Ratnayake stated.
+
+...
+
+[Data](articles/8995cf50.json)
+
+---
+
+### සජිත් දෙවෙනි පියවරත් තබයි
+
+*2024-08-17 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200026) · `si`
+
+සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සහභාගී වන ජන රැලිය බණ්ඩාරගම නගරයේදී අද (17) පෙරවරුවේ ආරම්භ කෙරුණි.
+
+සමගි ජන සන්ධානයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් සංවිධාන කළ දෙවන ජන රැලිය මෙය වෙයි.
+
+◼️
+
+[Data](articles/14be3b75.json)
+
+---
 
 ### First test flight of India’s human space mission rocket likely in December
 
@@ -48,25 +82,33 @@ On Friday morning ISRO’s new rocket - Small Satellite Launch Vehicle (SSLV) su
 
 [Data](articles/89b3ac72.json)
 
+[Extended Data](ext_articles/89b3ac72.ext.json)
+
 ---
 
-### රනිල්ගේ මංගල රැලිය අද අනුරාධපුරයේදී
+### Ranil's wedding rally in Anuradhapura today
 
 *2024-08-17 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200025) · `si`
 
-මෙවර ජනාධිපතිවරණයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කෙරෙන පළමු ජන රැලිය අද (17) පස්වරුවේ අනුරාධපුර සල්දාදු ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+Ranil Wickremesinghe kicked off his wedding rally in Anuradhapura today, with plans for 100 island-wide events. The President visited the Jaya Sri Maha Bodhi, blessing it alongside Hemaratana Thero. Ministers and SLFP supporters attended, marking the start of a significant political event.
 
-ජනාධිපතිවරයා දිවයින පුරා ජන රැලි සියයක් පැවැත්වීමට සැලසුම් කර තිබේ.
+🟩
 
-මේ සඳහා එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, ශ්‍රී ලංකා නිදහස් පක්ෂය, සමගි ජන බලවේගය ඇතුළු පක්ෂ රැසකින් සහාය දක්වන මැතිඇමතිවරුන් රැසක් එක්වීමට නියමිත බවද වාර්තා වෙයි.
+The first rally will be held today (17) at the Anuradhapura Saladadu Stadium today (17).
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අනුරාධපුරය වෙත පැමිණ ඓතිහාසික ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඳපුදා ගනිමින් ආශිර්වාද ලබාගෙන තිබේ.
+The President has planned to hold a hundred rallies island wide.
 
-ජය ශ්‍රී මහා බෝධීන් වහන්සේ ඉදිරිපිටදී අටමස්ථානාධිපති අතිපූජ්‍ය පල්ලේගම හේමරතන නායක ස්වාමීන්වහන්සේ ප්‍රමුඛ මහා සංඝරත්නය සෙත් පිරිත් සජ්ඣායනා කර ජනාධිපතිවරයා වෙත ආශීර්වාද කර ඇත.
+It is also reported that many ministers and other parties who support the Sri Lanka Freedom Party, the Sri Lanka Freedom Party, the Sri Lanka Freedom Party, the Sri Lanka Freedom Party (SLFP).
+
+Meanwhile, President Ranil Wickremesinghe has come to Anuradhapura and has bowed the Jaya Sri Maha Bodhi and blessed the Historical Jaya Sri Maha Bodhi.
+
+The Atamasthana Leader of the Atamaththarai Atamathana Hemaratana Thero has been blessed and blessed the President.
 
 ◼️
 
 [Data](articles/999bac2e.json)
+
+[Extended Data](ext_articles/999bac2e.ext.json)
 
 ---
 
@@ -2217,55 +2259,5 @@ This is the first time a National UPFA candidate a Presidential UPFA in a presid
 [Data](articles/57b8e819.json)
 
 [Extended Data](ext_articles/57b8e819.ext.json)
-
----
-
-### Massive demonstration in Mallavi demanding justice for the death of young man!
-
-*2024-08-16 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/191246) · `ta`
-
-In Mallavi, a large crowd protested the death of Anandarasan Sajeevan, demanding swift justice. The rally, starting at the bus station, reached the police station, with shops closing in solidarity. Public organizations and unions voiced frustration over the lack of arrests in the case, despite ongoing police investigations. Political figures attended, emphasizing the need for quick action against the perpetrators.
-
-🟩
-
-The public, public organizations and trade union in Mallavi area demanded justice for the death of the youth.
-
-Anandarasan Sajeevan from Mallavi Yogapuram, which is ready to go to Canada, was found dead from the Vavunikulam area on 29.07.2024.
-
-The struggle of the public and public organizations has been advanced today, claiming that none of the people responsible for the death of the youth for 19 days have not yet been arrested, claiming that the police investigations are underway, and that the culprits should be carried out in a fast -paced investigation.
-
-The rally, which started at the Mallavi Central Bus Station, went up to the Mallavi Police Station.
-
-At the same time, it was also possible to observe that all the shops in Mallavi were closed today in support of the struggle.
-
-...
-
-[Data](articles/95bc7eee.json)
-
-[Extended Data](ext_articles/95bc7eee.ext.json)
-
----
-
-### Sri Lanka bond yields steady, rupee weaker at 299.00/10
-
-*2024-08-16 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-yields-steady-rupee-weaker-at-299-00-10-177076/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 299.00/10 to the US dollar Friday, from 298.95/299.05 Thursday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 11.15/25 percent, up from 11.05/20 percent.
-
-A bond maturing on 15.12.2027 closed at 12.00/10 percent, down from 12.05/20 percent.
-
-A bond maturing on 15.12.2028 closed at 12.85/95 percent, down from 12.95/13.05 percent.
-
-A bond maturing on 15.06.2029 closed at 12.90/13.00 percent, down from 13.00/10 percent.
-
-A bond maturing on 15.05.2030 closed at 13.05/15 percent. (Colombo/Aug16/2024)
-
-◼️
-
-[Data](articles/8877fb03.json)
-
-[Extended Data](ext_articles/8877fb03.ext.json)
 
 ---

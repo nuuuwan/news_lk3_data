@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 21:06:16**
+As of **2024-08-17 21:21:07**
 
 ## Newspaper Stats
 
-*Scraped **41,250** Articles*
+*Scraped **41,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 4,822
 tamilmirrorlk | 5,293
 virakesarilk | 6,539
-adaderanasinhalalk | 7,028
+adaderanasinhalalk | 7,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,250 (100.0%) of 41,250 articles have been extended.
+41,250 (100.0%) of 41,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### පොලීසියේ තිදෙනාට ඇප ලැබෙයි
+
+*2024-08-17 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200046) · `si`
+
+වනඅලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් පොලිස් නිලධාරීන් තිදෙනා ඇප මත මුදාහැර තිබේ.
+
+හිඟුරක්ගොඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන් ඊයේ (17) ඇප මත මුදාහැර තිබුණි.
+
+ඊයේ දඹුල්ල බකමූණ ප්‍රධාන මාර්ගයේ දම්පුරගම මංසන්ධියේදී වන අලියෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මෙම පොලිස් නිලධාරීන් තිදෙනා අත්අඩංගුවට ගෙන තිබුණි.
+
+කෙසේවෙතත් වළ දැමුණු එම සත්ත්වයාගේ ශරීරකොටස්  වනජීවී අධ්‍යක්ෂ ජනරාල් එම්.ජී.සී සූරියබණ්ඩාර මහතාගේ උපදෙස් මත වැඩිදුර පරීක්ෂණ සඳහා නැවත ගොඩගැනීමට කටයුතු කෙරුණි.
+
+◼️
+
+[Data](articles/5cafd514.json)
+
+---
 
 ### Indian hospitals hit as doctors strike to protest rape, murder of colleague
 
@@ -2265,37 +2283,5 @@ The United People's Power has first submitted the individual Bill for MPs to rec
 [Data](articles/1624bfa4.json)
 
 [Extended Data](ext_articles/1624bfa4.ext.json)
-
----
-
-### Brendagastin's century wasted Vishmi's century;Ireland has brought down Sri Lanka
-
-*2024-08-16 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/191265) · `ta`
-
-Ireland clinched a thrilling 3-wicket win over Sri Lanka in the first women's ODI, thanks to Ola Brendagast's unbeaten 122 runs. Despite Vishmi Gunaratne's century from Sri Lanka, Ireland's strong batting led by Brendagast secured them the lead in the series.
-
-🟩
-
-Ireland won by 3 wickets in the first women's ODI against Sri Lanka at the Stomant Civil Services Cricket Stadium.
-
-With this victory, Ireland took the lead in the 3 -match women's ODI series.
-
-Ola Brendagast's concentration of the unbeaten virgin player played a major role in Ireland's victory. Due to this, Vishmi Gunaratne's virginity was in vain.
-
-Sri Lanka, who was first invited to bat in the upting match, scored 260 runs for the loss of 8 wickets in 50 overs.
-
-The captain of the team, Samari Attapattu, lost his first ball.
-
-Vishmi Gunaratne and Hasini Perera shared 122 runs in the 3rd wicket.
-
-Vishmi Gunaratne, who started the battle with relaxing and then increased the speed, faced 97 balls and scored 101 runs with 9 fours and 3 sixes.
-
-Vishmi Gunaratne became the second Sri Lankan player to score a century in women's international cricket after the captain of the team, Samari Attapatha.
-
-...
-
-[Data](articles/57cc3cce.json)
-
-[Extended Data](ext_articles/57cc3cce.ext.json)
 
 ---

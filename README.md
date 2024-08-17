@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 08:36:45**
+As of **2024-08-17 08:55:26**
 
 ## Newspaper Stats
 
-*Scraped **41,177** Articles*
+*Scraped **41,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,807
-tamilmirrorlk | 5,273
+tamilmirrorlk | 5,274
 virakesarilk | 6,533
 adaderanasinhalalk | 7,004
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,177 (100.0%) of 41,177 articles have been extended.
+41,177 (100.0%) of 41,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ஜனாதிபதி வேட்பாளர் ஒருவருக்கு ’பெண்’ பிரச்சினை
+
+*2024-08-17 08:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-ஒருவருக்கு-பெண்-பிரச்சினை/175-342315) · `ta`
+
+ஜனாதிபதி வேட்பாளர்கள் 39 பேருக்கு பாதுகாப்பு வழங்கும் நடவடிக்கையின் போது, அவர்களில் ஒருவர் பெண்கள் பிரச்சினையை அடிப்படையாக கொண்டு கூடுதல் பாதுகாப்பை கோரியுள்ளதாக தெரியவந்துள்ளது.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களுக்கு பாதுகாப்பு வழங்குவது தொடர்பில் புலனாய்வுப் பிரிவினர் நடத்திய விசாரணையில் இது உறுதி செய்யப்பட்டுள்ளதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இந்த ஜனாதிபதி வேட்பாளர் தமக்கு கூடுதலான பாதுகாப்பை கோரிய போது, இவருக்கு அச்சுறுத்தல் விடுக்கப்பட்டதா என ஆராயும் போது பெண் பிரச்சினை காரணமாகவே பாதுகாப்பு கோரியுள்ளதாக தெரியவந்துள்ளது.R
+
+இந்த ஆண்டு ஜனாதிபதித் தேர்தலில் போட்டியிடும் பிரதான வேட்பாளர்களான ரணில் விக்ரமசிங்க, சஜித் பிரேமதாச, அனுரகுமார திஸாநாயக்க, நாமல் ராஜபக்ஷ, திலித் ஜயவீர மற்றும் விஜயதாச ராஜபக்ஷ ஆகியோருக்கு விசேட பாதுகாப்பு வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இதுதவிர, வேட்பாளர்களுக்கு பாதுகாப்பு வழங்க வேண்டுமா என பரிசீலிக்கும் போது, ​​பெண்கள் பிரச்னையை அடிப்படையாகக் கொண்ட வேட்பாளர் மட்டுமே, சிறப்பு பாதுகாப்பு கோரியுள்ளார். R
+
+◼️
+
+[Data](articles/ea7e27d9.json)
+
+---
 
 ### Showery conditions expected to continue in parts of the island
 
@@ -2179,29 +2199,5 @@ Ampil has wind speeds of 45 metres per second with maximum gust of 60 metres per
 [Data](articles/aad62366.json)
 
 [Extended Data](ext_articles/aad62366.ext.json)
-
----
-
-### "We don't have a Bar License Culture"
-
-*2024-08-16 15:16:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-உரிமம்-கலாசாரம்-நம்மிடம்-இல்லை/175-342286) · `ta`
-
-Despite claiming normalcy, the country faces significant challenges including business losses, poverty, and a drastic fall in exports due to reduced consumption, investment, and production. The Opposition Leader highlights the inability of citizens to afford basic needs and criticizes the government's handling of the economy, suggesting a lack of cultural practices like bar licensing, bidding, and grants. He promises to foster a non-alcoholic society under the United People's Power Government, aiming to alleviate national suffering through economic restructuring and adherence to international monetary fund conditions.
-
-🟩
-
-Although the country claims that the country is currently in normal, it is a new situation in the country. The people are in great concern because of the loss of businesses, the loss of life and the poverty.. The country's exports have fallen massive due to lack of consumption, investment, savings and production of people. Opposition Leader Sajith Premadasa said that the country's new defaults have created.
-
-There is an unable to spend the livelihood of the people, put money into the shirt pockets. Opposition Leader Sajith Premadasa said that the country is a normal state of ruin and transporting the country.
-
-He said this while speaking to the media after he met the Kandy Malwatta and Asgiri Peeta Maha Nayaka Thera on Wednesday (16).
-
-They say that the shoulders of the nation have been loaded and the default has been created. The Leader of the Opposition pointed out that we will not respond to a variety of stupid and deceiving ideas.
-
-...
-
-[Data](articles/bdf66afd.json)
-
-[Extended Data](ext_articles/bdf66afd.ext.json)
 
 ---

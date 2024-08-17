@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 19:06:15**
+As of **2024-08-17 19:21:28**
 
 ## Newspaper Stats
 
-*Scraped **41,242** Articles*
+*Scraped **41,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
-adaderanalk | 4,819
+adaderanalk | 4,820
 tamilmirrorlk | 5,290
 virakesarilk | 6,539
 adaderanasinhalalk | 7,027
@@ -26,31 +26,57 @@ adaderanasinhalalk | 7,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,241 (100.0%) of 41,242 articles have been extended.
+41,243 (100.0%) of 41,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### වැස්ස වැඩි වුණොත් මෙම උපදෙස් පිළිපදින්න
+### School teacher, Dy Principal arrested over alleged sexual abuse of student and cover-up
+
+*2024-08-17 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/101311/school-teacher-dy-principal-arrested-over-alleged-sexual-abuse-of-student-and-cover-up) · `en`
+
+Police have arrested a school teacher over an alleged incident of sexually abusing a 12-year-old girl, and the female Deputy Principal of the school for attempting to cover up the incident.
+
+Police Headquarters revealed the arrests were made following a thorough investigation launched into a complaint received through the police emergency hotline.
+
+The minor girl had been sexually abused by a 51-year-old teacher at the school in the Mahawela area, where she was studying, and the girl had reportedly informed the school’s Deputy Principal regarding the incident.
+
+However, the 49-year-old female Deputy Principal has allegedly instructed the victim to remain silent regarding the incident, police said.
+
+◼️
+
+[Data](articles/67822069.json)
+
+[Extended Data](ext_articles/67822069.ext.json)
+
+---
+
+### Follow these tips if rain enhances
 
 *2024-08-17 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200044) · `si`
 
-කුකුළේගඟ ජලාශයේ වාන් දොරටු විවෘත කිරීම හේතුවෙන් ජලාශය පහළ පිහිටි බුලත්සිංහල, අගලවත්ත, පරගොඩ සහ මෝල්කාව යන ප්‍රදේශවල ජනතාව අවධානයෙන් පසුවිය යුතු බවට ආපදා කළමනාකරණ මධ්‍යස්ථානය දැනුම්දෙයි.
+The Disaster Management Center warns of potential landslides and advises caution due to heavy rainfall exceeding 200mm, especially in mountainous regions. The public is urged to stay alert as the situation may worsen with further showers.
 
-මේ අතර පවතින අධික වර්ෂාපතනයත් සමග දිස්ත්‍රික්ක කිහිපයක් සඳහා නායයෑම් අනතුරු ඇඟවීම් ද නිකුත් කෙරුණි.
+🟩
 
-විශේෂයෙන් කඳුකර ප්‍රදේශවල පසුගිය අවස්ථාවන්වල නායයෑම් සිදුවු ස්ථාන පිළිබඳ වැඩි අවධානයෙන් පසුවන ලෙස ද ජනතාවට දැනුම් දෙයි.
+The Disaster Management Center (DMC) has been informed of the public due to the opening of the sluice gates of the chicken reservoir.
 
-දැනට පවතින තත්ත්වයන් සම්බන්ධයෙන් අදහස් දක්වන ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා,
+Meanwhile, landslide warnings were issued for several districts with heavy rainfall.
 
-"කුඩා ගඟ දෙපස සිටින ජනතාව තවදුරටත් විමසිලිමත්ව සිටීම ඉතාමත් වැදගත් වෙනවා. වර්ෂාපතනය අධිකව ලැබිලා තියෙනවා. මිලිමීටර් 200 ඉක්මවූ වැසි. මේ හේතුවෙන් නායයෑමේ ලක්ෂණ පිළිබඳ﻿ව විමසිලිමත් වෙන්න. විශේෂයෙන් පවතින වැසි සහිත තත්ත්වය සමගම මඩ වතුර සහිත දිය උල්පත් ඇතිවීම සහ සමහර අවස්ථාවලදී සිඳී යාම් ආදී කරුණු කාරණා පිළිබඳව අවධානයෙන් පසුවන්න."
+In particular, the people also informed the masses to be more concerned about landslides in the mountainous areas.
 
-පහත දැක්වෙන් නායයාමේ පූර්ව අනතුරු ඇඟවීමේ නිවේදනය අද (17) පස්වරු 4 සිට හෙට (18) පස්වරු 4 දක්වා වලංගු වෙයි.
+Deputy Director of Disaster Management Center Deputy Director Pradeep Kodippili, which speaks of existing conditions,
+
+"It is very important that the people on either side of the small river are very important. The rainfall has been overweight. Showers over 200 mm. As a result, the characteristics of landslides. In addition to the rainy industry, it is impressive on mudslinging water springs and sometimes dried. "
+
+Following is the following landslide pre-warning announcement from 4 pm tomorrow (17) at 4 pm.
 
 ◼️
 
 [Data](articles/2b4527f1.json)
+
+[Extended Data](ext_articles/2b4527f1.ext.json)
 
 ---
 
@@ -2241,23 +2267,5 @@ Former Sri Lankan Ambassador to Russia Udayanga Weeratunga has said that if MP N
 [Data](articles/8f696c3e.json)
 
 [Extended Data](ext_articles/8f696c3e.ext.json)
-
----
-
-### Three policemen shot dead
-
-*2024-08-16 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200015) · `si`
-
-In Dambulla, three police officers were killed, and their colleagues were detained by the Elephant.
-
-🟩
-
-Police officers have been arrested by the Elephant in Dambulla area.
-
-◼️
-
-[Data](articles/7d070508.json)
-
-[Extended Data](ext_articles/7d070508.ext.json)
 
 ---

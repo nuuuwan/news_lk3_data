@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 22:36:38**
+As of **2024-08-17 22:54:09**
 
 ## Newspaper Stats
 
-*Scraped **41,252** Articles*
+*Scraped **41,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 4,823
 tamilmirrorlk | 5,293
 virakesarilk | 6,539
-adaderanasinhalalk | 7,029
+adaderanasinhalalk | 7,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,251 (100.0%) of 41,252 articles have been extended.
+41,252 (100.0%) of 41,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### දෙදරු පියෙක් ගංවතුරට බිලිවෙයි
+
+*2024-08-17 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200047) · `si`
+
+ඊයේ (16) ඇදහැළුණු අධික වර්ෂාවත් සමග ඇතිවූ ගංවතුරට ගසාගෙන ගොස් අතුරුදන්ව සිටි පුද්ගලයෙකුගේ සිරුර සොයාගෙන තිබේ.
+
+එම පුද්ගලයා ගේ සිරුර සොයාගෙන තිබුණේ අද (17) පස්වරුවේ කළුතර - ගොරකාදූව ප්‍රදේශයෙනි.
+
+මෙලෙස මියගොස් ඇත්තේ මීගහතැන්න, ගොරකදුව ප්‍රදේශයේ පදිංචිව සිටි 32 හැවිරිදි  දෙදරු පියෙකි.
+
+◼️
+
+[Data](articles/7e57f6a4.json)
+
+---
 
 ### ‘Level-3’ landslide early warnings issued for several areas in 2 districts
 
@@ -49,6 +65,8 @@ The advisory further states that, since rainfall in the aforementioned areas wit
 ◼️
 
 [Data](articles/ce430888.json)
+
+[Extended Data](ext_articles/ce430888.ext.json)
 
 ---
 
@@ -2261,29 +2279,5 @@ The Presidential Election 2024 is crucial by all standards in view of the curren
 [Data](articles/ed39ccf1.json)
 
 [Extended Data](ext_articles/ed39ccf1.ext.json)
-
----
-
-### 2024-08-16 (Friday)
-
-### A person admitted to hospital due to stomach cramp in Jaffna
-
-*2024-08-16 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/191267) · `ta`
-
-A 35-year-old man from Punnale, admitted to Jaffna Teaching Hospital for abdominal cramps on the 14th, died untreated on the 15th. An autopsy was conducted by A. Jayapalasingham before his body was released to his family.
-
-🟩
-
-A man who was admitted to the hospital due to abdominal cramps died on Thursday 15th without treatment.. The deceased is a 35 -year -old man from the south of Punnale.
-
-He was admitted to the Jaffna Teaching Hospital for treatment on the 14th. He died on Thursday night.
-
-A sudden death investigator, A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/b69e232e.json)
-
-[Extended Data](ext_articles/b69e232e.ext.json)
 
 ---

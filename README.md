@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 23:56:10**
+As of **2024-08-18 00:08:29**
 
 ## Newspaper Stats
 
-*Scraped **41,255** Articles*
+*Scraped **41,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
 islandlk | 2,380
-economynextcom | 2,500
+economynextcom | 2,502
 dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,254 (100.0%) of 41,255 articles have been extended.
+41,255 (100.0%) of 41,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ரணிலின் சிலிண்டர் சின்னத்திற்கு வந்தது சிக்கல்
+### The problem came to Ranil's cylinder symbol
 
 *2024-08-17 23:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-சிலிண்டர்-சின்னத்திற்கு-வந்தது-சிக்கல்/175-342352) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு சிலிண்டர் சின்னம் வழங்கப்பட்டமை தொடர்பில் ஜன அரகலயே புரவெசியோ என்ற அமைப்பின் பொதுச் செயலாளர் சானக்க பண்டார தேர்தல்கள் ஆணைக்குழுவுக்கு முறைப்பாடொன்றை அளித்துள்ளார்.
+Janaka Arakalee Paravasio, led by General Secretary Jana Arakalee Puravasio, filed a complaint with the Elections Commission regarding the allocation of a cylinder symbol to President Ranil Wickremesinghe for the 2023 local government elections. The organization seeks the return of this symbol, which was mistakenly assigned to Wickremesinghe as an independent candidate.
 
-2023ஆம் ஆண்டில் உள்ளூராட்சி தேர்தலில் போட்டியிடுவதற்கு தமது அமைப்புக்கு அந்தச் சின்னம் வழங்கப்பட்டுள்ளது.
+🟩
 
-எனவே, சுயேட்சை வேட்பாளராகக் களமிறங்கியுள்ள ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கிய அந்தச் சின்னத்தை மீளப்பெறுமாறு அந்த அமைப்பு கோரியுள்ளது. R
+General Secretary of the Janaka Arakalee Paravasio, Jana Arakalee Puravasio, has lodged a complaint with the Elections Commission on the issue of a cylinder symbol to President Ranil Wickremesinghe.
+
+The symbol has been given to their organization to contest the local government elections by 2023.
+
+Therefore, the organization has called for the recovery of the symbol given to President Ranil Wickremesinghe, the independent candidate.. Remble
 
 ◼️
 
 [Data](articles/cdb3c374.json)
+
+[Extended Data](ext_articles/cdb3c374.ext.json)
 
 ---
 
@@ -209,6 +215,28 @@ At the same time, the president's meeting was seen as a wave of people gathered 
 [Data](articles/d5f99052.json)
 
 [Extended Data](ext_articles/d5f99052.ext.json)
+
+---
+
+### Sri Lanka begins counting its elephants
+
+*2024-08-17 19:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-counting-its-elephants-177095/) · `en`
+
+ECONOMYNEXT – Sri Lanka began counting its elephants in the wild in an island-wide census on Saturday (17) with a focus on conservation efforts.
+
+The census is being conducted by the Department of Wildlife Conservation after a hiatus of 13 years.
+
+The last elephant census in 2011 showed that there were 5,879 wild elephants in Sri Lanka.
+
+Since then Sri Lanka has lost many elephants due to gun shot wounds, electrocution and being struck by trains. Government data show that the highest number of tuskers have been killed in the Anuradhapura District.
+
+1,310 officers will be involved in the Anuradhapura Wildlife Zone for the census, Deputy Commissioner of Wildlife in charge of Anuradhapura Zone Keerthy Chandraratne was quoted in a government statement.
+
+Officers will be placed in forests and near water bodies where elephants hang out. 3,130 survey centers have been established across the country for the census. The counting ends on August 19.
+
+...
+
+[Data](articles/c81313c8.json)
 
 ---
 
@@ -569,6 +597,26 @@ Meanwhile, the Department of Meteorology has said that the current rainfall in t
 [Data](articles/e8c38072.json)
 
 [Extended Data](ext_articles/e8c38072.ext.json)
+
+---
+
+### Sri Lanka CB: Not best time to publish monetary board minutes
+
+*2024-08-17 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-not-best-time-to-publish-monetary-board-minutes-177093/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Central Bank may consider publishing the minutes of its monetary policy decision minutes, but it is not the best time to make the discussions on the key policy rate decisions public now, a top official said.
+
+The new central bank act has made the monetary authority to be more transparent and accountable for its decisions.
+
+Many central banks including the United States’ Federal Reserve, India’s Reserve Bank, and Bank of Mexico release the minutes of their monetary policy meeting to ensure transparency.
+
+The new Central Bank Act passed by the Parliament in line with the guidance by the International Monetary Fund (IMF) includes measures for Sri Lanka’s central bank to be more transparent and accountable.
+
+These measures include releasing the Monetary Policy Report every six months and the first such report was released on February 15 and the second report was released this week.
+
+...
+
+[Data](articles/855a8253.json)
 
 ---
 
@@ -2257,37 +2305,5 @@ SAMENTA, a pivotal organisation established in 1986, represents and advocates fo
 [Data](articles/d53548a1.json)
 
 [Extended Data](ext_articles/d53548a1.ext.json)
-
----
-
-### Heracle Holdings moves into new office premises
-
-*2024-08-17 00:11:42* · [`dailyftlk`](https://www.ft.lk/business/Heracle-Holdings-moves-into-new-office-premises/34-765665) · `en`
-
-Heracle Holdings, a fully-owned subsidiary of rapidly expanding conglomerate Lyceum Global Holdings Ltd., recently embarked on a path of growth, progress, and new beginnings from a brand new headquarters of operations in Nugegoda.
-
-The new office premises were ceremoniously declared open by Lyceum Global Holdings Ltd. Group Chairman and Chief Executive Officer Nikitha Grero. Heracle Holdings Chief Executive Officer Sameera Hewage, Heracle Holdings Director Dr. Seevali Jayawickrama, Heracle Holdings Senior Manager Tracy Morritt, Heracle Holdings Sales and Marketing Head Marlon Fernando, and other senior management personnel and staff were also present.
-
-...
-
-[Data](articles/dff2db4b.json)
-
-[Extended Data](ext_articles/dff2db4b.ext.json)
-
----
-
-### Sanasa Life Insurance signs MoU in collaboration with Colombo-Re and Carekleen
-
-*2024-08-17 00:10:20* · [`dailyftlk`](https://www.ft.lk/business/Sanasa-Life-Insurance-signs-MoU-in-collaboration-with-Colombo-Re-and-Carekleen/34-765664) · `en`
-
-Officers from Sanasa Life Insurance, Colombo-Re Insurance Brokers, and Carekleen at the MoU signing ceremony
-
-Stemming from its ethics of supporting the underprivileged, Sanasa Life Insurance has revolutionised the insurance landscape by providing various innovative and affordable insurance solutions. It is with this background that Sanasa Life Insurance partnered with Colombo-Re Ltd., and Carekleen Ltd., to bring yet another insurance policy to provide an affordable insurance scheme for the employees of Carekleen.
-
-...
-
-[Data](articles/f88ad198.json)
-
-[Extended Data](ext_articles/f88ad198.ext.json)
 
 ---

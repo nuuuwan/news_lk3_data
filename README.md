@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 06:03:02**
+As of **2024-08-17 07:02:42**
 
 ## Newspaper Stats
 
-*Scraped **41,170** Articles*
+*Scraped **41,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,806
-tamilmirrorlk | 5,269
+tamilmirrorlk | 5,270
 virakesarilk | 6,533
 adaderanasinhalalk | 7,002
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,168 (100.0%) of 41,170 articles have been extended.
+41,170 (100.0%) of 41,171 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,20 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 [Data](articles/be3c821b.json)
 
 [Extended Data](ext_articles/be3c821b.ext.json)
+
+---
+
+### கண்டி மீரா மக்காம் பள்ளிவாசலில் சஜித்
+
+*2024-08-17 00:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மீரா-மக்காம்-பள்ளிவாசலில்-சஜித்/175-342310) · `ta`
+
+ஜனாதிபதித் தேர்தல் நடவடிக்கைகளுக்காக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று கண்டி மாவட்டத்திற்கு விஜயம் செய்துள்ளார்.
+
+இதன்போது, கண்டியில் உள்ள மீரா மக்காம் பள்ளிவாசலுக்கு சென்று அங்கு இடம்பெற்ற துஆப் பிரார்த்தனை நிகழ்வில் சஜித் பிரேமதாச கலந்து கொண்டு ஆசிப் பெற்றார். (a)
+
+◼️
+
+[Data](articles/e2b11370.json)
 
 ---
 
@@ -2171,23 +2185,5 @@ However, a spokesman for the National Health Ministry said that only a patient s
 [Data](articles/e8ac64e4.json)
 
 [Extended Data](ext_articles/e8ac64e4.ext.json)
-
----
-
-### Trains on Up-country Line to experience delays
-
-*2024-08-16 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/101283/trains-on-up-country-line-to-experience-delays) · `en`
-
-The train services on the Up-country Line will experience delays due to a derailment near the Demodara railway station this afternoon (16).
-
-A slow train plying from Badulla to Kandy has derailed near the Demodara railway station this manner.
-
-As a result, the trains running past Demodara railway station will possibly experience delays, the Department of Railways said.
-
-◼️
-
-[Data](articles/f65e5deb.json)
-
-[Extended Data](ext_articles/f65e5deb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 17:57:08**
+As of **2024-08-17 18:14:40**
 
 ## Newspaper Stats
 
-*Scraped **41,236** Articles*
+*Scraped **41,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,116 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
-adaderanalk | 4,818
-tamilmirrorlk | 5,288
+adaderanalk | 4,819
+tamilmirrorlk | 5,289
 virakesarilk | 6,538
-adaderanasinhalalk | 7,025
+adaderanasinhalalk | 7,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,234 (100.0%) of 41,236 articles have been extended.
+41,236 (100.0%) of 41,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ඉන්දියාව මිනිසුන් රැගත් රොකට්ටුවක් දියත් කරන්න සැරසෙයි
+### තවත් පාසල් සිසුවියකට අතවර කළ සිද්ධියක්
+
+*2024-08-17 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200043) · `si`
+
+බාලවයස්කාර දැරියකට ලිංගික අතවර සිදුකළ බව කියන පාසල් ගුරුවරයෙකු සහ එම සිදුවීම වසන් කළ බවට චෝදනා එල්ලවූ අදාළ පාසලේ නියෝජ්‍ය විදුහල්පතිනිය මහවෙල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් හදිසි ඇමතුම් අංකයට ලද පැමිණිල්ලක් මත මහව පොලීසිය සිදුකළ විමර්ශනයකින් පසු සැකකරු හා සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+
+12 හැවිරිදි අදාළ දැරිය ඉගෙනුම ලබන පාසලේ ගුරුවරයෙකු විසින් ඇය ලිංගික අතවරයට ලක් කර ඇති අතර ඒ සම්බන්ධයෙන් දැරිය විසින් පාසලේ නියෝජ්‍ය විදුහල්පතිනිය දැනුවත් කර ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් එම සිදුවීම කිසිදු අයෙකුට නොදන්වන ලෙස නියෝජ්‍ය විදුහල්පතිනිය දැරියට ප්‍රකාශ කර ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+ඒ අනුව එම සිද්ධියට අදාළ 51 හැවිරිදි ගුරුවරයා සහ 49 හැවිරිදි නියෝජ්‍ය විදුහල්පතිනිය මහවෙල පොලීසිය මගින් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් සම්බන්ධයෙන් අධිකරණ ක්‍රියාමාර්ග ගැනීමට නියමිත බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/043e6b1d.json)
+
+---
+
+### Aravinda de Silva says Sri Lanka no longer play attacking cricket
+
+*2024-08-17 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/101310/aravinda-de-silva-says-sri-lanka-no-longer-play-attacking-cricket) · `en`
+
+Former Sri Lankan captain Aravinda de Silva lamented that the current bunch of men’s cricketers don’t play as bravely as their predecessors did. The former national men’s team’s chief selector feels England’s present approach to Test cricket is impressive and reckons it’s not impossible to defeat them in their backyard.
+
+The likes of Romesh Kaluwitharana, Sanath Jayasuriya, Arjuna Ranarunga, de Silva, Chaminda Vaas, and Muttiah Muralitharan were the nucleus of the men’s team’s golden era. They were part of the Island nation’s World Cup-winning squad in 1996, with de Silva scoring a hundred to overhaul Australia’s total of 241 in the final.
+
+The 58-year-old stated that the team of the yesteryears inspired their rivals to emulate their style of play. He also observed that England decided to take a positive approach and it’s paying off handsomely.
+
+...
+
+[Data](articles/a30d2bb4.json)
+
+---
+
+### நித்திரையில் இருந்த 5 வயது குழந்தை கடத்தல்
+
+*2024-08-17 17:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நித்திரையில்-இருந்த-5-வயது-குழந்தை-கடத்தல்/175-342330) · `ta`
+
+வீடு ஒன்றில் நித்திரையில் இருந்த 5 வயது சிறுவனை கடத்தல்காரன் ஒருவன் கடத்தி காட்டுக்குள் கொண்டு சென்ற குழந்தையை மீட்டதுடன் கடத்தல் காரணை பிரதேச மக்கள் மடக்கி பிடித்து நையப்புடைப்பு செய்து பொலிஸாரிடம் ஒப்படைத்த சம்பவம்   மட்டக்களப்பு  வாகரை பிரதேசத்தில் சனிக்கிழமை (17) அதிகாலையில் இடம் பெற்றுள்ளதுடன் அந்த பகுதியில் பெரும் பரபரப்பு ஏற்பட்டது என பொலிஸார் தெரிவித்தனர்
+
+வாகரை 5ம் வட்டாரத்தைச் சேர்ந்த 5 வயதுடைய மோகன் கீர்த்தி என்ற குழந்தை தாய் தந்தையுடன்  நித்திரையில் இருந்த நிலையில் சம்பவம் தினமான சனிக்கிழமை (17) அதிகாலை 3.30 மணியளவில் குறித்த  குழந்தை பால் கேட்டதை அடுத்து  தயார் தந்தைக்கு பக்கத்தில் சிறுவனை படுக்க வைத்துவிட்டு சமையலறைக்கு சென்று பால் போத்தலுடன் திரும்பி வந்தபோது நித்திரையில்  இருந்த குழந்தையை காணாததை அடுத்து அந்த பகுதி மக்கள் ஒன்று திரண்டு குழந்தையை தேடினர்.
+
+...
+
+[Data](articles/d194bd14.json)
+
+---
+
+### India prepares to launch a rocket carrying people
 
 *2024-08-17 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200042) · `si`
 
-"ගගන්යාන්" නමින් නම් කර ඇති මෙහෙයුම යටතේ පළමුව මිනිසුන් රහිතව පර්යේෂණ මට්ටමින් රොකට්ටුවක් අභ්‍යවකාශගත කිරීමට නියමිතය.
+India's ISRO plans to launch its first manned space mission, "Gaganyaan," in December. The spacecraft, weighing 5.3 metric tons, will orbit Earth. Scheduled for 2025, it aims to carry three astronauts.
 
-G1 ලෙස හැඳින්වෙන රොකට්ටුව එළඹෙන දෙසැම්බර් මාසයේදී අභ්‍යවකාශගත කිරීමට අපේක්ෂා කරන බව ඉන්දීය අභ්‍යවකාශ පර්යේෂණ ආයතනය එනම් ඉස්රෝ (ISRO) ආයතනය පවසයි.
+🟩
 
-ගගන්යාන් මෙහෙයුම යටතේ මෙට්‍රික්ටොන් 5.3ක බරකින් යුතු අභ්‍යවකාශ යානය දින 7ක කාලයක් පුරා පෘථිවි කක්ෂයේ රැඳී සිටීමට නියමිතය.
+Under the operation called "Ganganyan", the operation is to be first-known.
 
-ගගනගාමීන් තිදෙනෙකුද රැගත් යානය දියත් කිරීමට සැලසුම් කර ඇත්තේ 2025 වසරේදීය.
+The Indian Space Research Institute says the Indian space research is expected to be played in December, known as the G1.
+
+The spacecraft weighted at 5.3 metrical under the Ganganyan mission is to stay in the Earth orbit.
+
+In the year 2025, the plane to carry three astronauts.
 
 ◼️
 
 [Data](articles/42cabc06.json)
 
+[Extended Data](ext_articles/42cabc06.ext.json)
+
 ---
 
-### එංගලන්ත ලයන්ස් පුහුණු තරගය ජය ගනී
+### England Lions win the training match
 
 *2024-08-17 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200041) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සමග පැවති පුහුණු තරගයෙන් කඩුලු 07ක ජයක් හිමි කරගැනීමට එංගලන්ත ලයන්ස් කණ්ඩායම සමත්විය.
+In a cricket match, England Lions triumphed over Sri Lanka, securing a seven-wicket victory. The Lions set a high score of 324 in their first innings, while Sri Lanka managed 306 in theirs. Chasing 122 in the second innings, the Lions achieved the target with ease, losing only three wickets.
 
-ඒ තරගයේ ජයග්‍රාහණය සඳහා ඔවුන්ට හිමිවු ලකුණු 122ක ඉලක්කය කඩුලු 03ක් පමණක් දැවී පසුකරයාමට සමත් වීමත් සමගය.
+🟩
 
-තරගයේ පළමු ඉනිම සඳහා ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලබාගත් ලකුණු 139ට පිළිතුරු ලෙස එංගලන්ත ලයන්ස් කණ්ඩායම පළමු ඉනිම සඳහා ලකුණු 324ක් ලබා ගත්තේය.
+England Lions won the Sri Lankan team by seven wickets.
 
-දෙවන ඉනිම සඳහා ශ්‍රී ලංකා කණ්ඩායම ලකුණු 306ක් ලබා ගත් අතර ඒ අනුව එංගලන්ත ලයන්ස් කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 122ක ඉලක්කයක් හිමිවී තිබුණි.
+The winning won the target of 122 runs for the loss of 3 runs.
+
+The Lions team scored 324 runs for the first innings in the first innings, as the Sri Lankan team was bowled out for the first innings.
+
+Sri Lanka scored 306 runs for the second innings, accordingly, a target of 122 runs for the victory of the Lion.
 
 ◼️
 
 [Data](articles/1e14c174.json)
+
+[Extended Data](ext_articles/1e14c174.ext.json)
 
 ---
 
@@ -2175,75 +2237,5 @@ Tamil National People's Front MP Selvarajah Gajendran and many supporters of the
 [Data](articles/f67d2fe2.json)
 
 [Extended Data](ext_articles/f67d2fe2.ext.json)
-
----
-
-### Political forces of South Sri Lanka, who are blinded by our eyes
-
-*2024-08-16 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/191233) · `ta`
-
-South Sri Lanka's political landscape is marked by tensions between local politicians aiming to suppress Tamil aspirations and national figures seeking Tamil support for the 2024 presidential election. Key contenders Ranil Wickremesinghe, Sajith Premadasa, and Anuragumara Dissanayake frequent the North and East, engaging with Tamil parties and individuals. Despite internal discussions and a Memorandum of Understanding among Tamil groups advocating for a joint candidate, external pressures and political maneuverings, particularly from Sumanthiran, complicate efforts towards unity and representation. Historical failures in constitutional amendments and lack of progress on key issues like the 13th Amendment highlight ongoing challenges. The situation underscores the complexities and challenges faced by Tamil communities in navigating Sri Lankan politics and securing their rights.
-
-🟩
-
-The South Sri Lankan politicians are trying to get the decree of our unity and bury our aspirations and re -oppress us.
-
-So we should be vigilant and ignore the forces that are trying to sacrifice us and take care of their desire to not fulfill their desire.. Premachandran has made a call.
-
-Ranil Wickremesinghe, Sajith Premadasa and Anuragumara Dissanayake, the main candidates of the Tamil people in the 2024 presidential election, are frequently coming to the North and East and meeting various parties and individuals there.
-
-In addition to this, the Tamil parties are looking to come to Colombo and they are looking for them, such as Sumanthiran and Chanakyan, on the other hand.
-
-In particular, Sumanthiran has repeatedly met Ranil Wickremesinghe and giving them a great news, and the newspapers are about to write about the fact that Ranil Wickremesinghe is going to solve the problems of the Tamil people.
-
-...
-
-[Data](articles/239d9dce.json)
-
-[Extended Data](ext_articles/239d9dce.ext.json)
-
----
-
-### Many parts of Colombo were flooded
-
-*2024-08-16 21:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-பல-பகுதிகள்-வெள்ளத்தில்-மூழ்கின/175-342294) · `ta`
-
-Heavy rains in Colombo and nearby regions have caused widespread flooding. The Department of Meteorology forecasts over 100mm of rain in various parts of the country within the next 24 hours, affecting provinces like Western, Sabaragamuwa, and districts including Galle, Matara, Kandy, and Nuwara Eliya.
-
-🟩
-
-Due to heavy rains in Colombo and its adjacent areas, many parts of Colombo have been submerged.
-
-Meanwhile, the Department of Meteorology has predicted more than 100 millimeters of rain in many parts of the country in the next 24 hours.
-
-Accordingly, the Department of Rainfall has predicted rainfall in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.. Remble
-
-◼️
-
-[Data](articles/beb757e0.json)
-
-[Extended Data](ext_articles/beb757e0.ext.json)
-
----
-
-### Many parts of Colombo were flooded
-
-*2024-08-16 21:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பின்-பல-பகுதிகள்-வெள்ளத்தில்-மூழ்கியது/175-342294) · `ta`
-
-Heavy rains in Colombo and nearby regions have caused widespread flooding. The Department of Meteorology forecasts over 100mm of rain in various parts of the country within the next 24 hours, affecting provinces like Western, Sabaragamuwa, and districts including Galle, Matara, Kandy, and Nuwara Eliya.
-
-🟩
-
-Due to heavy rains in Colombo and its adjacent areas, many parts of Colombo have been submerged.
-
-Meanwhile, the Department of Meteorology has predicted more than 100 millimeters of rain in many parts of the country in the next 24 hours.
-
-Accordingly, the Department of Rainfall has predicted rainfall in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.. Remble
-
-◼️
-
-[Data](articles/faec0062.json)
-
-[Extended Data](ext_articles/faec0062.ext.json)
 
 ---

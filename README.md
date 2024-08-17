@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 19:54:54**
+As of **2024-08-17 20:06:28**
 
 ## Newspaper Stats
 
-*Scraped **41,246** Articles*
+*Scraped **41,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
 adaderanalk | 4,821
-tamilmirrorlk | 5,292
+tamilmirrorlk | 5,293
 virakesarilk | 6,539
 adaderanasinhalalk | 7,027
 
@@ -26,29 +26,55 @@ adaderanasinhalalk | 7,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,244 (100.0%) of 41,246 articles have been extended.
+41,246 (100.0%) of 41,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ஜனாதிபதிக்கு அவசர கடிதம்
+### ஜனாதிபதியின் மங்கள கூட்டத்தில் மக்கள் வெள்ளம்
+
+*2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கள-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெற்றது.
+
+மேலும், இதே போன்று நாடளாவிய ரீதியில் 100 பொதுக்கூட்டங்களை நடத்த ஜனாதிபதி திட்டமிட்டுள்ளார்.
+
+ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, ஜனாதிபதியின் இந்த கூட்டத்தில அலைகடலென மக்கள் கூட்டம் திரண்டு வந்ததை காணக்கூடியதாக இருந்தது. R
+
+◼️
+
+[Data](articles/d5f99052.json)
+
+---
+
+### Emergency letter to the president
 
 *2024-08-17 19:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அவசர-கடிதம்/175-342336) · `ta`
 
-மன்னார் சோழமண்டல குளம் காணியில் கடந்த 30 வருடங்களுக்கு மேலாக விவசாய செய்கையில் ஈடுபட்டு வரும் ஏழை விவசாயிகள் ஏமாற்றப்பட்டுள்ளதோடு,பணம் படைத்தவர்களுக்கு குறித்த  காணிகள் வழங்கப்பட்டுள்ளதாக மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றியம் குற்றம் சுமத்தியுள்ளது.
+The Mannar District Public Organizations Union accuses the government of unfairly allocating land to wealthy individuals and foreign investors, neglecting long-serving local farmers. They demand immediate resolution before elections, highlighting the violation of fundamental rights and the need for equitable distribution of resources.
 
-இவ்விடயம் தொடர்பில் பொது அமைப்புக்களின் ஒன்றிய தலைவர் வி.எஸ்.சிவகரன் இன்றைய தினம்(17) ஜனாதிபதிக்கு அவசர கடிதம் ஒன்றை அனுப்பி வைத்துள்ளார்.
+🟩
 
-மன்னார் சோழமண்டல குளம் காணி விடயம்  தொடர்பாக பல முறை உங்களுக்கு கடிதம் எழுதி பயனற்று போய்விட்டன. 30 ஆண்டுகளாக விவசாய செய்கையில் ஈடுபட்டு வரும் 100 ஏழை விவசாயிகள் புறக்கணிக்கப்பட்டு பெரு வணிகர்களுக்கும் கொழும்பிலும்   வெளிநாட்டில் இருப்பவர்களுக்கும் சட்ட விரோதமாக காணி வழங்கி உள்ளீர்கள்.
+The Mannar District Public Organizations Union has accused the poor farmers who have been engaged in farming for the past 30 years in the Mannar Cholamandala pond land and have been given land to the money launderers.
 
-நீதியின் பரிபாலன மின்றி அநீதியாக உங்கள் அமைச்சர்கள் சலுகை பெற்றுக் கொண்டு இக் காணியை வழங்கியுள்ளார்கள் என்பதே வெளிப்படையான உண்மை.
+Union President of Public Organizations VS Sivakaran has sent an urgent letter to the President today (17).
 
-இவ்விடயம் தொடர்பில் அரசாங்க அதிபர் பலமுறை வேண்டுகோள் விடுத்துள்ளார்.இராஜாங்க அமைச்சரும் மாவட்ட அபிவிருத்தி குழு தலைவரும் பல தடவைகள் எழுத்து மூலமும் நேரடியாகவும் தெரிவித்துவிட்டனர்.
+The Mannar Cholamandala pond has written to you many times on the land subject. You have been illegally issuing land to big business and foreigners in Colombo.
+
+It is an obvious fact that your ministers have been offered this land unjustly without the principle of justice.
+
+The Government Agent has repeatedly appealed to the issue.
+
+There have been many meetings for this. But no justice is available anywhere. The land for the livelihood of the poor is a violation of fundamental rights.
 
 ...
 
 [Data](articles/956122a2.json)
+
+[Extended Data](ext_articles/956122a2.ext.json)
 
 ---
 
@@ -95,6 +121,8 @@ Perera said over 1.2 million tourists have arrived in Sri Lanka by Aug. 12 and a
 ...
 
 [Data](articles/bb1e58c1.json)
+
+[Extended Data](ext_articles/bb1e58c1.ext.json)
 
 ---
 
@@ -2259,25 +2287,5 @@ The warning announcement will be valid from 7.30 pm to 7.30 pm today (16), the N
 [Data](articles/e9ed4e0c.json)
 
 [Extended Data](ext_articles/e9ed4e0c.ext.json)
-
----
-
-### Ferry service between Sri Lanka and India resumes
-
-*2024-08-16 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/101295/ferry-service-between-sri-lanka-and-india-resumes) · `en`
-
-The passenger ferry service between Nagapattinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka, which was earlier launched in October 2023, has resumed on Friday (August 16) after repeated delays.
-
-The ferry ‘Sivagangai’ run by a private operator, IndSri Ferry Services, completed its maiden journey between Nagapattinam and KKS in approximately 4 hours with around 50 passengers on board. The passengers were welcomed at the KKS port by the Consul General of India at Jaffna.
-
-“This resumption of ferry service is a testament to the broader effort to enhance maritime connectivity between India and Sri Lanka,” the Indian High Commission in Sri Lanka said.
-
-In order to make service more affordable for passengers, Government of India has decided to provide financial assistance of over LKR 25 million per month, for a period of one year, to cover relevant charges and operating costs at Nagapattinam port.
-
-...
-
-[Data](articles/000afc01.json)
-
-[Extended Data](ext_articles/000afc01.ext.json)
 
 ---

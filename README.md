@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 15:36:48**
+As of **2024-08-17 15:55:31**
 
 ## Newspaper Stats
 
-*Scraped **41,214** Articles*
+*Scraped **41,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,53 @@ dailymirrorlk | 4,733
 adaderanalk | 4,816
 tamilmirrorlk | 5,279
 virakesarilk | 6,538
-adaderanasinhalalk | 7,017
+adaderanasinhalalk | 7,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,212 (100.0%) of 41,214 articles have been extended.
+41,214 (100.0%) of 41,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### අනුරගේ ජන රැලියත් ඇරඹෙයි - සජීවී දර්ශන
+### මිලිමීටර් 150ක තද වැස්සක් ගැන අනතුරු ඇඟවීමක්
+
+*2024-08-17 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200034) · `si`
+
+ඉදිරි පැය 24ක කාලය සඳහා තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (17) පස්වරු 1.00ට නිකුත් කරන ලද එම නිවේදනය හෙට (18) පස්වරු 1.00 දක්වා වලංගුව බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම නිවේදනයේ සඳහන් කර ඇත්තේ, බස්නාහිර, සබරගමුව පළාත් සහ ගාල්ල, මාතර, මහනුරව, නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ප්‍රදේශවලට මි.මී. 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බවත් ඒ පිළිබඳව සැලකිලිමත් වන ලෙසය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුර අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+මේ අතර ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයිනේ නිරතදිග ප්‍රදේශවල පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/c7f51d80.json)
+
+---
+
+### Anura's rally begins - live footage
 
 *2024-08-17 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200033) · `si`
 
-ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීමට පවත්වන පළමු ජන රැලිය අද (17) තංගල්ලේදී ආරම්භ වුණි.
+Anura launched his campaign with a rally in Tangalle, aiming to secure the presidency of the National Folk Force.
+
+🟩
+
+The first rally was established in Tangalle today (17) to ensure the victories of the presidency of the National Folk Force.
 
 ◼️
 
 [Data](articles/ffc7f998.json)
+
+[Extended Data](ext_articles/ffc7f998.ext.json)
 
 ---
 
@@ -61,6 +87,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/0c3bcfb0.json)
+
+[Extended Data](ext_articles/0c3bcfb0.ext.json)
 
 ---
 
@@ -2239,31 +2267,5 @@ The ‘Puluwan Sri Lanka’ agreement, according to the President, represents a 
 [Data](articles/57ec957f.json)
 
 [Extended Data](ext_articles/57ec957f.ext.json)
-
----
-
-### A report from Simiti Gunaratne
-
-*2024-08-16 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200010) · `si`
-
-Siathi Gunaratne, 18, made history by becoming the first Sri Lankan woman to score a century in a one-day match, scoring 101 runs against Ireland. This achievement is notable as it occurred during the first game of a three-match series between Sri Lanka Women and Ireland Women.
-
-🟩
-
-An 18-year-old Siathi Gunaratne was recorded today (16).
-
-With this, Simiti Gunaratne was able to become the first player of a century in a one-day player in a one-day event.
-
-She held this report with 101 runs against the Irish team.
-
-Amazi reports were among the records as the youngest Sri Lankan who scored one day century.
-
-The first match of the 3-match One Day Championship between Sri Lanka Women's Women and Irish Women's squad began today.
-
-◼️
-
-[Data](articles/54609f4e.json)
-
-[Extended Data](ext_articles/54609f4e.ext.json)
 
 ---

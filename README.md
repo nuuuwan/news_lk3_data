@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 01:55:20**
+As of **2024-08-18 02:06:18**
 
 ## Newspaper Stats
 
-*Scraped **41,257** Articles*
+*Scraped **41,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
 adaderanalk | 4,823
-tamilmirrorlk | 5,295
+tamilmirrorlk | 5,296
 virakesarilk | 6,539
 adaderanasinhalalk | 7,030
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,257 (100.0%) of 41,257 articles have been extended.
+41,257 (100.0%) of 41,258 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-08-18 (Sunday)
+
+### ராஜஸ்தானின் வன்முறை: இணைய சேவை முடக்கம்
+
+*2024-08-18 01:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானின்-வன்முறை-இணைய-சேவை-முடக்கம்/175-342353) · `ta`
+
+ராஜஸ்தான் மாநிலம் உதய்பூரில் ஏற்பட்ட வன்முறையைத் தொடர்ந்து மக்கள் ஒன்றுகூடுவதற்கு தடை விதிக்கப்பட்டுள்ளது. மேலும், இணைய சேவையும் தற்காலிகமாக முடக்கப்பட்டுள்ளது.
+
+உதய்பூரில் 10 ஆம் வகுப்பு படிக்கும் பாடசாலை மாணவர் ஒருவரை சக மாணவர் ஒருவர் கத்தியால் குத்தியதில் பாதிக்கப்பட்ட மாணவர் ஆபத்தான நிலையில் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். தாக்குதல் நடத்திய மாணவனும், தாக்கப்பட்ட மாணவனும் வெவ்வேறு சமூகங்களைச் சேர்ந்தவர்கள் என்பதால் சமூக பதற்றத்தை ஏற்படுத்தி உள்ளது.
+
+நான்கு கார்களுக்கு தீ வைக்கப்பட்டுள்ளது. பல வாகனங்கள் கல் வீசி தாக்கப்பட்டுள்ளன. பதற்றம் காரணமாக உதய்ப்பூரின் பல பகுதிகளில் கடைகள் அடைக்கப்பட்டுள்ளன. மக்கள் கூடுவதற்கு 144 தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. தவறான தகவல்கள் பரப்பப்படுவதைத் தடுக்க இணைய சேவை முடக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/29b03cc1.json)
+
+---
 
 ### 2024-08-17 (Saturday)
 
@@ -2291,23 +2309,5 @@ While welcoming Ambassador Ameer Ajwad to the Kingdom of Saudi Arabia, GAFT Gove
 [Data](articles/1e940437.json)
 
 [Extended Data](ext_articles/1e940437.ext.json)
-
----
-
-### Lankan envoy in Malaysia meets with Small and Medium Enterprises Association
-
-*2024-08-17 00:12:33* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Malaysia-meets-with-Small-and-Medium-Enterprises-Association/34-765666) · `en`
-
-Sri Lankan High Commissioner to Malaysia Air Chief Marshal (Rtd.) Sumangala Dias held a fruitful meeting with the Small and Medium Enterprises Association of Malaysia (SAMENTA) at the High Commission recently.
-
-This meeting marked a significant step towards strengthening collaboration and networking between Sri Lankan business entities and Malaysian entrepreneurs.
-
-SAMENTA, a pivotal organisation established in 1986, represents and advocates for the interests of small and medium-sized enterprises (SMEs) in Malaysia. SMEs form the backbone of the Malaysian economy, accounting for 98.5% of all Malaysian enterprises. Their vital role in economic growth and development underscores the importance of fostering international partnerships.
-
-...
-
-[Data](articles/d53548a1.json)
-
-[Extended Data](ext_articles/d53548a1.ext.json)
 
 ---

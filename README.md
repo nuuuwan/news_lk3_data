@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 07:49:53**
+As of **2024-08-17 08:25:31**
 
 ## Newspaper Stats
 
-*Scraped **41,174** Articles*
+*Scraped **41,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,499
 dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
-adaderanalk | 4,806
-tamilmirrorlk | 5,271
+adaderanalk | 4,807
+tamilmirrorlk | 5,273
 virakesarilk | 6,533
 adaderanasinhalalk | 7,004
 
@@ -26,53 +26,107 @@ adaderanasinhalalk | 7,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,171 (100.0%) of 41,174 articles have been extended.
+41,174 (100.0%) of 41,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ශ්‍රී ලංකාව පරාජයක් අබියස
+### Showery conditions expected to continue in parts of the island
 
-*2024-08-17 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200019) · `si`
+*2024-08-17 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/101296/showery-conditions-expected-to-continue-in-parts-of-the-island) · `en`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත ලයන්ස් කණ්ඩායම අතර පැවැත්වෙන පුහුණු තරගයේ පෙරමුණ ගැනීමට එංගලන්ත ලයන්ස් කණ්ඩායම සමත්ව සිටියි.
+The Meteorology Department says prevailing showery conditions are expected to continue in the south-western part of the island due to the low-level atmospheric disturbance in the vicinity of Sri Lanka during today.
 
-තරගයේ තෙවැනි දිනය වූ ඊයේ (16) තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම ලබාදුන් ලකුණු 122ක ඉලක්කයට පිළිතුරු ඉනිම ක්‍රීඩාකරමින් සිටි ලයන්ස් කණ්ඩායම කඩුලු 02ක් දැවී ලකුණු 47ක් රැස්කරගෙන සිටියේය.
+Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle, Matara and Mannar districts.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම පරාජය කිරීම සඳහා ඔවුන් තවත් ලකුණු 75ක් පමණක් ලබාගත යුතු අතර, ඒ වෙනුවෙන් අද දිනයම ඔවුන්ට ඉතිරිව ඇත.
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 139ක් පමණක් වූ අතර, ඊට පිළිතුරු ලෙස ලයන්ස් කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 324ක් රැස්කළේය.
+Showers or thundershowers will occur at several places elsewhere over the island during the evening or night, it added.
 
-ඒ අනුව ලකුණු 185ක් පසුපසින් දෙවැනි ඉනිම ඇරඹීමට ශ්‍රී ලංකාවට සිදුවිය.
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
-කෙසේ නමුත් පළමු ඉනිමේ අඩුපාඩු සැලකිය යුතු ප්‍රමාණයකින් මඟහරවා ගැනීමට ශ්‍රී ලංකා පිතිකරුවන්ට හැකිවූ අතර, ඔවුන් දෙවැනි ඉනිමට සියල්ලන් දැවී ලකුණු 306ක් රැස්කිරීමට සමත් විය.
+◼️
 
-එහිදී නිශාන් මධුෂ්ක (77), නායක ධනංජය ද සිල්වා (66) හා ඇන්ජලෝ මැතිව්ස් (51) අර්ධ ශතක රැස්කරමින් ඉනිම ගොඩනැගූහ.
-
-...
-
-[Data](articles/009c1d53.json)
+[Data](articles/fae8c1f9.json)
 
 ---
 
-### වැසි තත්ත්වයේ වැඩීමක්
+### மழை நிலைமை இன்று தொடர்ந்தும் அதிகரிக்கும்
+
+*2024-08-17 08:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-நிலைமை-இன்று-தொடர்ந்தும்-அதிகரிக்கும்/175-342314) · `ta`
+
+இலங்கையைச் சூழவுள்ள பகுதிகளில் காணப்படுகின்ற கீழ் வளிமண்டலத்தில் தளம்பல் நிலை காரணமாக நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் மழை நிலைமை இன்று தொடர்ந்தும் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி,நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீ க்கும் அதிகமான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/d8a335bd.json)
+
+---
+
+### Sri Lanka is defeated
+
+*2024-08-17 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200019) · `si`
+
+In a cricket match, England Lions outperformed Sri Lanka, scoring 324 runs in their first innings compared to Sri Lanka's 139 runs. Despite starting their second innings at 185, Sri Lanka managed to score 306 runs but lost all wickets. Key contributors for Sri Lanka included Nishan Madushka (77), Dhananjaya De Silva (66), and Angelo Mathews (51). However, their efforts weren't enough as England Lions secured victory.
+
+🟩
+
+England Lion Groupsides to take the lead in the training competition between Sri Lanka and England Lions team.
+
+The Lions played for the loss of 47 runs for the loss of 2 wickets.
+
+Accordingly, they should only score about 75 runs for the defeat of the Sri Lankan team, and they are left today.
+
+Sri Lanka scored 139 runs for the loss of the match, and the Lions scored 324 runs for the first innings.
+
+Sri Lanka had to begin the second innings with 185 runs.
+
+However, Sri Lankan batsmen were able to overcome a significant amount of innings, and they scored 306 runs for the loss of all in the second innings.
+
+Nishan Madushka (77), Leader Dhananjaya De Silva (66) and Angelo Mathews (51) were partnered in their innings.
+
+However, due to the failure of the first innings, they were able to give the Lion's 122 runs.
+
+◼️
+
+[Data](articles/009c1d53.json)
+
+[Extended Data](ext_articles/009c1d53.ext.json)
+
+---
+
+### A rainy growth
 
 *2024-08-17 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200018) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි තත්ත්වය අද (17) දිනයේදී තවදුරටත් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect heavy rainfall across several provinces today, including Kandy, Sabaragamuwa, and North Western regions. The Western and Sabaragamuwa provinces, particularly Galle and Matara districts, may see intense showers exceeding 100mm. Thundershowers are predicted throughout the day, with a high risk of strong winds and lightning strikes. The Department of Meteorology advises caution and preparedness for potential weather-related incidents.
 
-ඒ අනුව බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල, මාතර සහ මන්නාරම දිස්ත්‍රික්කවල අද දිනයේදීත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-විශේෂයෙන් බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කයන්හි ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorology says that the existing show of rain conditions in the island nearly anticipation is expected today (17).
 
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශ වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+According to the Department of Kandy, Sabaragamuwa and North Western provinces, will experience showers or thundershowers at times.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක්ද කරයි.
+In particular, in the Western and Sabaragamuwa provinces, Galle and Matara districts have been. Heavy rains may occur at more than 100.
+
+Thundershowers during the evening or night during the evening or night in the rest of the country.
+
+The Department of Meteorology also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1a6d4c41.json)
+
+[Extended Data](ext_articles/1a6d4c41.ext.json)
 
 ---
 
@@ -144,19 +198,41 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### குரங்கம்மை தொடர்பில் வழிகாட்டல் கோவை
+### ’மின்சார சபையில் மறுசீரமைப்பு அவசியம்’
+
+*2024-08-17 01:07:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபையில்-மறுசீரமைப்பு-அவசியம்/175-342312) · `ta`
+
+இலங்கை மின்சார சபையில் உள்ளக மறுசீரமைப்பு அவசியம் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திசாநாயக்க தெரிவித்துள்ளார்.
+
+மின்சாரத்துறை தொடர்பில் இடம்பெற்ற செயலமர்வில் கலந்துகொண்டு கருத்து வெளியிட்ட போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+மின்சாரத்துறையில் பல்வேறுபட்ட குறைபாடுகள் நிலவுகின்றன. அதனை நிவர்த்திக்க வேண்டுமாயின் உள்ளக மறுசீரமைப்பு பணிகள் முன்னெடுக்கப்பட வேண்டும். இதன்மூலம் இலாபம் ஈட்டும் நிறுவனமாக இலங்கை மின்சார சபையை மாற்ற முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/fe31886b.json)
+
+---
+
+### Guidance
 
 *2024-08-17 01:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மை-தொடர்பில்-வழிகாட்டல்-கோவை/175-342311) · `ta`
 
-குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் வழிகாட்டல் கோவை வெளியிடப்பட்ட பின்னர் இலங்கைக்கான வழிகாட்டல் கோவையை வெளியிடவுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Health in Sri Lanka is awaiting WHO guidance post-release of Kurma infection guidelines. WHO declared a global health emergency due to the infection. The Deputy Director General of Public Health mentioned the initiation of discussions on preventing the virus from entering the country.
 
-குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் கடந்த புதன் கிழமை உலகளாவிய ரீதியில் அவசரநிலை பிரகடனப்படுத்தப்பட்டது.
+🟩
 
-இந்நிலையில் வைரஸ் தொற்று நாட்டிற்குள் பரவாமல் இருப்பதற்கு எடுக்கப்பட வேண்டிய நடவடிக்கைகள் தொடர்பில் முதற்கட்ட பேச்சுவார்த்தைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சுகாதார அமைச்சின் பொது சுகாதாரம் தொடர்பான பிரதி பணிப்பாளர் நாயகம் எஸ்.எம்.ஆனல்ட் தெரிவித்துள்ளார். (a)
+The Ministry of Health has announced that the World Health Organization will release the guidance for Sri Lanka after the release of the Guidelines of the Kurma infection.
+
+The World Health Organization declared an emergency worldwide on Wednesday by the World Health Organization on the Infection.
+
+The Deputy Director General of Public Health of the Ministry of Health, SM Anald said that the preliminary talks have been initiated regarding the steps to be taken to prevent the spread of viral infections into the country.. (A)
 
 ◼️
 
 [Data](articles/0b6b302e.json)
+
+[Extended Data](ext_articles/0b6b302e.ext.json)
 
 ---
 
@@ -2113,69 +2189,5 @@ They say that the shoulders of the nation have been loaded and the default has b
 [Data](articles/bdf66afd.json)
 
 [Extended Data](ext_articles/bdf66afd.ext.json)
-
----
-
-### Kumar Welgama, Bausi Ranil support
-
-*2024-08-16 14:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-பௌசி-ரணிலுக்கு-ஆதரவு/175-342285) · `ta`
-
-Ranil Wickremesinghe supports Kumar Welgama and AHM Fouzi, both held at a hotel event themed "Sri Lanka." 34 parties signed a MOU.
-
-🟩
-
-President Ranil Wickremesinghe, the leader of the United National Party (UNP), who is contesting the presidential election, has supported the United People's Power MP Kumar Welgama and AHM Fouzi.
-
-Both of them were held at the Battaramulla Votar Saj Hotel under the theme "Sri Lanka.". 34 parties signed the Memorandum of Understanding.
-
-◼️
-
-[Data](articles/0d2dd29e.json)
-
-[Extended Data](ext_articles/0d2dd29e.ext.json)
-
----
-
-### Train disruption;Mountain Rail Services delayed
-
-*2024-08-16 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/191224) · `ta`
-
-Train derailment near Badulla's Temodara station caused delays in hill country services. Trains through Temodara are affected.
-
-🟩
-
-Train services have been delayed at the hill country as a train derailed this afternoon near the Temodara railway station in Badulla.
-
-The train department said that trains crossing the Temodara railway station will delay.
-
-◼️
-
-[Data](articles/50390df9.json)
-
-[Extended Data](ext_articles/50390df9.ext.json)
-
----
-
-### Sagittarius prisoner escapes
-
-*2024-08-16 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தகாடு-கைதி-தப்பியோட்டம்/175-342284) · `ta`
-
-A rehabilitated prisoner from the Welikanda Kandagadu Rehabilitation Center in Polonnaruwa has escaped, leaving 93 out of 94 inmates. The 26-year-old from Polonnaruwa's Kalukele, Bandanagala area is now the subject of a military-led search.
-
-🟩
-
-Welikanda police say that a prisoner who was rehabilitated at the Welikanda Kandagadu Rehabilitation Center in Polonnaruwa has fled the training center.
-
-Police said the 26 -year -old man from Polonnaruwa, Kalukele, Bandanagala area had escaped.
-
-A training center official said that 94 prisoners are being rehabilitated at the Kandagadu Rehabilitation Training Center and is currently 93.
-
-Welikanda police say that special measures have been initiated by the military to arrest the fled prisoner.
-
-◼️
-
-[Data](articles/1ce3d45d.json)
-
-[Extended Data](ext_articles/1ce3d45d.ext.json)
 
 ---

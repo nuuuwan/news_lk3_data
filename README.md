@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 20:06:28**
+As of **2024-08-17 20:21:15**
 
 ## Newspaper Stats
 
-*Scraped **41,247** Articles*
+*Scraped **41,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 393
 islandlk | 2,380
 economynextcom | 2,500
 dailyftlk | 2,676
-adalk | 3,789
+adalk | 3,790
 dailymirrorlk | 4,733
 adaderanalk | 4,821
 tamilmirrorlk | 5,293
@@ -26,27 +26,33 @@ adaderanasinhalalk | 7,027
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,246 (100.0%) of 41,247 articles have been extended.
+41,247 (100.0%) of 41,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ஜனாதிபதியின் மங்கள கூட்டத்தில் மக்கள் வெள்ளம்
+### People's floods at the president's Mangala meeting
 
 *2024-08-17 19:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-மங்கள-கூட்டத்தில்-மக்கள்-வெள்ளம்/175-342337) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெற்றது.
+Ranil Wickremesinghe's campaign kicked off with a public meeting in Anuradhapura, aiming for his presidential win. The event saw a large turnout, with support from various political parties. Plans for 100 more national meetings indicate a strong campaign strategy.
 
-மேலும், இதே போன்று நாடளாவிய ரீதியில் 100 பொதுக்கூட்டங்களை நடத்த ஜனாதிபதி திட்டமிட்டுள்ளார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது.
+The first public meeting to ensure Ranil Wickremesinghe's victory in the upcoming presidential election was held this afternoon at the Saltathu Stadium in Anuradhapura.
 
-இதேவேளை, ஜனாதிபதியின் இந்த கூட்டத்தில அலைகடலென மக்கள் கூட்டம் திரண்டு வந்ததை காணக்கூடியதாக இருந்தது. R
+The President also plans to hold 100 public meetings nationwide.
+
+It is reported that many MPs and ministers who supported the United National Party, the Sri Lanka PA, the Sri Lanka Freedom Party and the United People's Power.
+
+At the same time, the president's meeting was seen as a wave of people gathered at the sea. Remble
 
 ◼️
 
 [Data](articles/d5f99052.json)
+
+[Extended Data](ext_articles/d5f99052.ext.json)
 
 ---
 
@@ -407,6 +413,18 @@ Meanwhile, the Department of Meteorology has said that the current rainfall in t
 [Data](articles/e8c38072.json)
 
 [Extended Data](ext_articles/e8c38072.ext.json)
+
+---
+
+### පොහොට්ටු මන්ත්‍රීවරයෙක් අකුරැස්සේදී සජබ වේදිකාවට
+
+*2024-08-17 16:36:16* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීවරයෙක්-අකුරැස්සේදී-සජබ-වේදිකාවට/11-411416) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මාතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කරුණාදාස කොඩිතුවක්කු මහතා අකුරැස්සේ දැන් පැවැත්වෙන සමගි ජන බලවේගයේ ජනාධිපතිවරණ අපේක්ෂක විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා දිනවීමේ අකුරැස්ස රැළියට සහභාගී වෙමින් සහය පළ කර තිබේ.
+
+◼️
+
+[Data](articles/1319e69e.json)
 
 ---
 
@@ -2265,27 +2283,5 @@ Irish team won the first match of the three-day cricket tournament against Irela
 [Data](articles/e29919ff.json)
 
 [Extended Data](ext_articles/e29919ff.ext.json)
-
----
-
-### A warning of landslides to some districts
-
-*2024-08-16 22:11:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-342296) · `ta`
-
-Landslide warnings issued for Galle, Kalutara, and Matara districts due to heavy rain, affecting areas like Neluwa, Elpitiya, Nagoda, Yakkalamulla, Horana, Madugama. Valid from 7:30 pm to 7:30 pm today.
-
-🟩
-
-Galle, Kalutara and Matara districts have been issued a landslide hazard warning due to prevailing rainfall.
-
-Accordingly, the landslide hazard warning has been issued to the Neluwa, Elpitiya, Nagoda and Yakkalamulla areas of the Galle District, Horana, Madugama and Matara District of the Kalutara District.
-
-The warning announcement will be valid from 7.30 pm to 7.30 pm today (16), the National Building and Research Institute said.. Remble
-
-◼️
-
-[Data](articles/e9ed4e0c.json)
-
-[Extended Data](ext_articles/e9ed4e0c.ext.json)
 
 ---

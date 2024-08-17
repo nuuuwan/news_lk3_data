@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-18 02:06:18**
+As of **2024-08-18 02:21:27**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,257 (100.0%) of 41,258 articles have been extended.
+41,258 (100.0%) of 41,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-18 (Sunday)
 
-### ராஜஸ்தானின் வன்முறை: இணைய சேவை முடக்கம்
+### Rajasthan's Violence: Internet service freeze
 
 *2024-08-18 01:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜஸ்தானின்-வன்முறை-இணைய-சேவை-முடக்கம்/175-342353) · `ta`
 
-ராஜஸ்தான் மாநிலம் உதய்பூரில் ஏற்பட்ட வன்முறையைத் தொடர்ந்து மக்கள் ஒன்றுகூடுவதற்கு தடை விதிக்கப்பட்டுள்ளது. மேலும், இணைய சேவையும் தற்காலிகமாக முடக்கப்பட்டுள்ளது.
+In Rajasthan, post-violence in Udaipur, gatherings are banned, and internet services are temporarily halted to curb misinformation. A 10th-grade student is critically injured after being stabbed by another student from a different community, sparking communal tension. Four cars were torched, numerous vehicles attacked, and shops vandalized across Udaipur. A section 144 order restricts public assembly, and the internet shutdown aims to control the situation.
 
-உதய்பூரில் 10 ஆம் வகுப்பு படிக்கும் பாடசாலை மாணவர் ஒருவரை சக மாணவர் ஒருவர் கத்தியால் குத்தியதில் பாதிக்கப்பட்ட மாணவர் ஆபத்தான நிலையில் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். தாக்குதல் நடத்திய மாணவனும், தாக்கப்பட்ட மாணவனும் வெவ்வேறு சமூகங்களைச் சேர்ந்தவர்கள் என்பதால் சமூக பதற்றத்தை ஏற்படுத்தி உள்ளது.
+🟩
 
-நான்கு கார்களுக்கு தீ வைக்கப்பட்டுள்ளது. பல வாகனங்கள் கல் வீசி தாக்கப்பட்டுள்ளன. பதற்றம் காரணமாக உதய்ப்பூரின் பல பகுதிகளில் கடைகள் அடைக்கப்பட்டுள்ளன. மக்கள் கூடுவதற்கு 144 தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. தவறான தகவல்கள் பரப்பப்படுவதைத் தடுக்க இணைய சேவை முடக்கப்பட்டுள்ளது.
+Rajasthan State has been banned from gathering after violence in Udaipur. Also, the Internet service has also been temporarily disabled.
+
+A student who is studying in 10th grade in Udaipur has been admitted to hospital in critical condition after a fellow student stabbed a knife. The attacker and the attacked student have caused social tension because they are from different communities.
+
+Fire has been set on four cars. Many vehicles have been attacked by throwing stone. Shops in many parts of Udaipur due to tension. 144 ban has been issued for people to gather. Internet service has been disabled to prevent the spread of misinformation.
 
 ◼️
 
 [Data](articles/29b03cc1.json)
+
+[Extended Data](ext_articles/29b03cc1.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 10:21:27**
+As of **2024-08-17 10:36:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,186 (100.0%) of 41,187 articles have been extended.
+41,187 (100.0%) of 41,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ The water levels in the Kuda Ganga is rising, posing flood threats over the next
 ◼️
 
 [Data](articles/02f39298.json)
+
+[Extended Data](ext_articles/02f39298.ext.json)
 
 ---
 

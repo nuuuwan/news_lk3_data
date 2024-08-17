@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 18:37:29**
+As of **2024-08-17 18:55:17**
 
 ## Newspaper Stats
 
-*Scraped **41,240** Articles*
+*Scraped **41,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,676
 adalk | 3,789
 dailymirrorlk | 4,733
 adaderanalk | 4,819
-tamilmirrorlk | 5,289
+tamilmirrorlk | 5,290
 virakesarilk | 6,539
 adaderanasinhalalk | 7,026
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,026
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,240 (100.0%) of 41,240 articles have been extended.
+41,240 (100.0%) of 41,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### மறுபிறவி எடுத்து வந்த டயானா?
+
+*2024-08-17 18:29:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மறுபிறவி-எடுத்து-வந்த-டயானா/53-342332) · `ta`
+
+இளவரசி டயானா குறித்த சர்வதேச அளவிலான விவாதம் ஒன்று நடந்து கொண்டிருக்கிறது.. யாரிந்த டேவிட்? யாரிந்த பில்லி? இந்த குழந்தை சொல்வதெல்லாம் உண்மைதானா? என்ற ஆச்சரியமும், குழப்பம் உலகளவில் வெடித்திருக்கிறது.
+
+ஆஸ்திரேலியாவைச் சேர்ந்தவர் டேவிட் காம்பெல். இவர் அங்குள்ள ஒரு பிரபல சேனலில், தொகுப்பாளராக வேலை பார்த்து வருகிறார்.  இவரது மகன் பெயர் பில்லி காம்பெல்.
+
+இங்கிலாந்து இளவரசி டயானா, தற்போது மறுபிறவி எடுத்து, தன்னுடைய மகனாக பிறந்துள்ளதாக அதிர்ச்சி தகவலை வெளியிட்டுள்ளார் டேவிட்.. இதுகுறித்து டேவிட் சொன்னதாவது:
+
+"1997ல் இளவரசி டயானா கார் விபத்தில் இறந்துவிட்டார்.  அவர் இறந்து 18 வருடம் கழித்துதான், பில்லி எனக்கு பிறந்தான். 2 வயது குழந்தையாக இருந்தபோதே, டயானாவின் போட்டோவை காட்டி, "அது நான்தான்" என்று மழலை வார்த்தைகளில் சொன்னான். நாங்கள் அனைவருமே இதைக் கேட்டு சிரித்துவிட்டோம். குழந்தை ஏதோ வேடிக்கையாக பேசுகிறான் என்று நினைத்தோம்.
+
+...
+
+[Data](articles/2ed67739.json)
+
+---
 
 ### An eventually abused another school girl
 
@@ -2237,29 +2255,5 @@ It is noteworthy that the situation is due to the turbulence of the low -lying a
 [Data](articles/73a1133b.json)
 
 [Extended Data](ext_articles/73a1133b.ext.json)
-
----
-
-### Follow the election laws and carry out campaigns
-
-*2024-08-16 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/191241) · `ta`
-
-Candidates must adhere to election laws during campaigns, including the Election Cost Regulatory Act, which prohibits violations leading to a three-year ban from running. The act aims to prevent violence and voter bribery, emphasizing transparency in campaign spending.
-
-🟩
-
-All candidates contesting the presidential election should be honored in honor of election law plans as the Election Cost Regulatory Act is implemented.. The Executive Director of the February said that if the election cost law is violated, it will not be able to contest for three years.
-
-He was speaking at a press conference held in Colombo on Friday (16).
-
-Candidates who have filed nominations to contest the presidential election must engage in their election campaign so as not to cause incidents of violence.. Similarly, we urge all candidates not to try to get out of the campaigns that are affected by the environment and do not try to buy voters.
-
-Moreover, for the first time in this election, the Election Expenditure Regulatory Act has been implemented. Therefore, in accordance with the law where the cost of the candidates is defined. There is a lack of office of candidates who violate this law.
-
-...
-
-[Data](articles/3d748108.json)
-
-[Extended Data](ext_articles/3d748108.ext.json)
 
 ---

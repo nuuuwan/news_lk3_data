@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 14:36:34**
+As of **2024-08-17 14:55:03**
 
 ## Newspaper Stats
 
-*Scraped **41,208** Articles*
+*Scraped **41,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,83 @@ dailyftlk | 2,676
 adalk | 3,786
 dailymirrorlk | 4,733
 adaderanalk | 4,814
-tamilmirrorlk | 5,278
+tamilmirrorlk | 5,279
 virakesarilk | 6,538
-adaderanasinhalalk | 7,014
+adaderanasinhalalk | 7,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,206 (100.0%) of 41,208 articles have been extended.
+41,208 (100.0%) of 41,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ඡන්දෙ දිනන හැටි නාමල් කියයි
+### තුර්කි පාර්ලිමේන්තුවේ ගුටි බැට හුවමාරුවක්
+
+*2024-08-17 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200030) · `si`
+
+විපක්ෂ මන්ත්‍රීවරයෙකු කළ ප්‍රකාශකින් කෝප වූ පාලක AK පක්ෂයේ මන්ත්‍රීවරයෙකු ඔහුට පහර දීමත් සමග තුර්කි පාර්ලිමේන්තු සභිකයින් අතර පාර්ලිමේන්තුව තුළදීම ගුටි බැට හුවමාරුවක් සිදුවිය.
+
+ආණ්ඩුව පෙරළා දැමීමට උත්සාහ කිරීමේ චෝදනාව මත වසර 18ක සිරදඬුවම් නියමව සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකුට නැවතත් පාර්ලිමේන්තුවට පැමිණීමට ඉඩදිය යුතු බවට විපක්ෂ මන්ත්‍රීවරයෙකු ඉල්ලීම් කිරීමත් සමග මෙම ගැටුම හටගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+සිරදඬුවම් නියමව සිටින පුද්ගලයා සිරගතව සිටියදීම පසුගිය වසරේ පැවති මැතිවරණයට ඉදිරිපත් වී ජය ගැනීමටත් සමත් වී ඇති බව සඳහන් ය.
+
+කෙසේ නමුත් විදෙස් මාධ්‍ය පවසන්නේ ගැටුම හේතුවෙන් පාර්ලිමේන්තුව තුළ ලේ වැගිරී ගිය බවය.
+
+◼️
+
+[Data](articles/61599f1f.json)
+
+---
+
+### Namal says we win elections
 
 *2024-08-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200029) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනාධිපතිවරණයක් පමණක් නොව ඉදිරියේදී පැවැත්වීමට නියමිත ඕනෑම මැතිවරණයක් ජයග්‍රහණය කරන බව එම පක්ෂයේ ජනාධිපති ධුර අපේක්ෂක නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa, a presidential candidate from the Sri Lanka General Front, asserts his party's victory in upcoming elections, emphasizing unity and readiness to face challenges. He made these remarks at a Kandy District Action meeting and paid respects to the Sacred Tooth Relic.
 
-මහනුවර දිස්ත්‍රික් ක්‍රියාකාරී හමුවට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-මේ අතර අද දිනයේදී නාමල් රාජපක්ෂ මහතා දළදා සමිඳුන් වැඳපුදාගෙන ආශිර්වාද ලබාගෙන තිබුණි.
+The presidential candidate named Namal Rajapaksa says that the Sri Lanka General Front is not only a presidential election but also wins any future elections.
 
-"දැන් සන්ධානගත වන පක්ෂ ගත්තාම මේ ඡන්දෙන් පස්සේ ඒ නායකයාගෙන් පස්සේ ඒ පක්ෂ ඉවරයි. මේක තමයි ඇත්ත කතාව. 40ක් එක්ක ගිවිසුම් ගත වුණාම මේ ඡන්දෙන් පස්සේ ඒ 40 ඉන්නේ හතලිස් පොළක. පැරණි ජනතා විමුක්ති පෙරමුණ අලුත් NPP එකත් එක්ක එකතු වුණාම ඡන්දෙන් පස්සේ ඒ දෙගොල්ලෝ දෙපැත්තක. හැබැයි පොදුජන පෙරමුණ එළඹෙන ඕනෑම මැතිවරණයක් ජයගන්න සූදානම්. මහින්ද චින්තනයත් එක්ක."
+He was speaking at the Kandy District Action Action meeting.
+
+Meanwhile, Mr. Namal Rajapaksa had bowed the Sacred Tooth Relic today.
+
+"After the alliance parties, the party is over after that leader after this election. This is the real story. After 40 agree with 40, they were at 40. When the old JVP joins the new NPP, they two sides after their votes. But the Kidu Front is ready to overcome any of the elections. With the Mahinda Chinthanaya. "
 
 ◼️
 
 [Data](articles/44143415.json)
 
+[Extended Data](ext_articles/44143415.ext.json)
+
 ---
 
-### අනුර තංගල්ලෙන් ඡන්ද සටන අරඹයි
+### Anura Tangalle launches election fight
 
 *2024-08-17 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200028) · `si`
 
-ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතාගේ ජය තහවුරු කිරීමට පවත්වන පළමු ජන රැලිය අද (17) පස්වරු 4ට තංගල්ලේදී ආරම්භ වීමට නියමිතය.
+Anura Kumara Dissanayake kicks off his presidential campaign in Tangalle, facing criticism over cultural policies despite support from religious leaders. He visits key sites including the national propaganda headquarters and the Sri Lanka Amarapura Medhed Regional Scheme, ending his day at the Sri Monk Vineaja Twali in Bambalapitiya.
 
-අනුර කුමාර දිසානායක මහතා අද සර්ව ආගමික නායකයින්ගේ ආශිර්වාද ලබාගැනීම සඳහා පැමිණි අවස්ථාවේදී ප්‍රකාශ කළේ වෙහෙර විහාරස්ථානවල අභිවෘද්ධිය සඳහා ඇති අරමුදල් විනාශ කළ පුද්ගලයින් ජාතික ජන බලවේගයේ සංස්කෘතික ප්‍රතිපත්තිය සම්බන්ධයෙන් විවේචන එල්ල කරමින් සිටින බවය.
+🟩
 
-ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා අද පෙරවරුවේ වැල්ලවත්තේ පිහිටි ශ්‍රී ලංකා අමරපුර මහා නිකායික සංඝ සභා කාර්යාලය වෙත පැමිණ මහා සංඝරත්නය බැහැ දැක ආශිර්වාද ලබා ගත්තේය.
+The first rally to ensure the victory of the presidency of the National Fundee Candidate Anura Kumara Dissanayake will commence today at Tangalle at Tangalle.
 
-අනතුරුව අනුර කුමාර දිසානායක මහතා බම්බලපිටිය ශ්‍රී මාණික විනායගර් කෝවිලට පැමිණ හින්දු ආගමික වතාවත්වල නිරත වුණි.
+When Anura Kumara Dissanayake arrived in the blessings of the All-religious leaders, people who destroyed funds for the betterment of Vehera temples are criticizing the cultural policy of the national power.
+
+Anura Kumara Dissanayake visited the presidency of the national propaganda and visited the Sri Lanka Amarapura Medhed Regional Scheme at Wellawatte this morning.
+
+Afterward, Anura Kumara Dissanayake had arrived at the Sri Monk Vineaja Twali in Bambalapitiya.
 
 ◼️
 
 [Data](articles/591abb9c.json)
+
+[Extended Data](ext_articles/591abb9c.ext.json)
 
 ---
 
@@ -97,6 +127,22 @@ Surgerage power, presidential power, said the presidential candidate entreprenem
 [Data](articles/aea7fcbd.json)
 
 [Extended Data](ext_articles/aea7fcbd.ext.json)
+
+---
+
+### உயர் பீடத்தில் ஆசி பெற்றார் அநுர குமார திசாநாயக்க
+
+*2024-08-17 13:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-பீடத்தில்-ஆசி-பெற்றார்-அநுர-குமார-திசாநாயக்க/175-342321) · `ta`
+
+நேற்று (16) பிற்பகல் கண்டி அஸ்கிரிய மஹா விகாரையின் சியம் மஹா நிக்காய அஸ்கிரிய பீடத்தின் மஹா நாயக்க வரக்காகொட ஸ்ரீ ஞானரத்தன தேரர் மற்றும் அஸ்கிரி பீடத்தின் பிரதி பதிவாளர், அஸ்கிரி மஹா விகாரை பரிவேனாதிபதி சங்கைக்குரிய நாரம்பனாவே ஆனந்த மஹா நாயக்க தேரர் ஆகியோரை தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுர குமார திசாநாயக்க சந்தித்தார்.
+
+இன்றளவில் நாட்டில் நிலவுகின்ற அரசியல் நிலைமை பற்றி அவரை உள்ளிட்ட மஹா சங்கத்தினருடன் கலந்துரையாடிய அநுர குமார திசாநாயக்க எதிர்வரும் ஜனாதிபதி தோ்தலில் வெற்றி பெறுவதற்கான அவர்களின் நல்லாசியை பெற்றுக்கொண்டார்.
+
+இத்தருணத்தில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் லால் காந்த பங்கேற்றார். R
+
+◼️
+
+[Data](articles/c258a928.json)
 
 ---
 
@@ -2219,45 +2265,5 @@ At the end of the first part of the film 'Demandi Colony', the hero of the story
 [Data](articles/5b5521bb.json)
 
 [Extended Data](ext_articles/5b5521bb.ext.json)
-
----
-
-### Thangalan - Review
-
-*2024-08-16 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/191252) · `ta`
-
-"Thangalan, a farmer in Tamil Nadu, loses his land to landlords but dreams of restoring it with gold promised by the British. His quest leads him to uncover ancient tales and fight for justice, set against a backdrop of historical oppression and resistance."
-
-🟩
-
-Actors: Seyan Vikram, Parvati, Malavika Mohanan, Hari Krishnan, Pasupathi, Daniel Caltakiron and many others
-
-Thangalan is farming in his own small land in a village in the northern part of Tamil Nadu. (Vikram) He lives with his wife Gangamma (Parvati), son of Asokan and two daughter. During that period, he also seized the small land belonging to his own due to the conspiracy of the dominant class of the landlords known as Zamindar.
-
-There is also an environment where farm is addicted.At this moment, Thangalan tells his children a ghost story. A few centuries ago, she describes the story of Kadayan, who was taken by his ancestors (Kadayan) in the present Kolar, and a woman named Arathi (Malavika Mohanan), who was the guardian deity in the hill area, in accordance with the decree of a king who ruled the area.
-
-...
-
-[Data](articles/4e6f4f26.json)
-
-[Extended Data](ext_articles/4e6f4f26.ext.json)
-
----
-
-### Maithri is independent
-
-*2024-08-16 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200009) · `si`
-
-Former President Maithripala Sirisena hasn't chosen a candidate for Sri Lanka's upcoming presidential election, maintaining his independence.
-
-🟩
-
-Former President Maithripala Sirisena says he has not decided to support any candidate who is contesting the approach presidential election.
-
-◼️
-
-[Data](articles/ac948abc.json)
-
-[Extended Data](ext_articles/ac948abc.ext.json)
 
 ---

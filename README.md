@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 07:02:42**
+As of **2024-08-17 07:27:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,170 (100.0%) of 41,171 articles have been extended.
+41,171 (100.0%) of 41,171 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,17 +100,23 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### கண்டி மீரா மக்காம் பள்ளிவாசலில் சஜித்
+### Sajith at Meera Makkam School Kandy
 
 *2024-08-17 00:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மீரா-மக்காம்-பள்ளிவாசலில்-சஜித்/175-342310) · `ta`
 
-ஜனாதிபதித் தேர்தல் நடவடிக்கைகளுக்காக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று கண்டி மாவட்டத்திற்கு விஜயம் செய்துள்ளார்.
+Opposition leader Sajith Premadasa visited Kandy for the presidential election, attending the Dua Prayer at Meera Makkam School.
 
-இதன்போது, கண்டியில் உள்ள மீரா மக்காம் பள்ளிவாசலுக்கு சென்று அங்கு இடம்பெற்ற துஆப் பிரார்த்தனை நிகழ்வில் சஜித் பிரேமதாச கலந்து கொண்டு ஆசிப் பெற்றார். (a)
+🟩
+
+Opposition leader Sajith Premadasa visited the Kandy district yesterday for the presidential election.
+
+Sajith Premadasa attended the Dua Prayer held at the Meera Makkam school in Kandy.. (A)
 
 ◼️
 
 [Data](articles/e2b11370.json)
+
+[Extended Data](ext_articles/e2b11370.ext.json)
 
 ---
 

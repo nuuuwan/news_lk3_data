@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 16:21:13**
+As of **2024-08-17 16:36:21**
 
 ## Newspaper Stats
 
@@ -26,57 +26,79 @@ adaderanasinhalalk | 7,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,219 (100.0%) of 41,223 articles have been extended.
+41,223 (100.0%) of 41,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### සජිත්ගේ රැලිය අකුරැස්සෙන් ඇරඹෙයි - සජීවී දර්ශන
+### Sajith's rally begins in Akuressa - Livelihood
 
 *2024-08-17 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200037) · `si`
 
-සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සහභාගී වන ජන රැලිය අද (17) අකුරැස්සේදී පැවැත්වෙයි.
+Candidate Sajith Premadasa kicked off his campaign in Akuressa today, focusing on livelihood issues.
+
+🟩
+
+The rally rally, the candidate Sajith Premadasa, is held in Akuressa today (17).
 
 ◼️
 
 [Data](articles/8158e0dc.json)
 
+[Extended Data](ext_articles/8158e0dc.ext.json)
+
 ---
 
-### “பணத்தை வீசினால் கதிரை இல்லை”
+### "There is no ray if you throw money"
 
 *2024-08-17 16:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-வீசினால்-கதிரை-இல்லை/175-342324) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான பிரசாரச் செலவுகள் அங்கீகரிக்கப்பட்ட வரம்பை மீறினால் ஜனாதிபதியாக தேர்ந்தெடுக்கப்படுபவரின் ஆசனத்தை கூட பறிப்பதற்கு சட்ட ஏற்பாடுகள் உள்ளதாக தேர்தல் ஆணையாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+Saman Sri Ratnayake warns that exceeding propaganda spending limits in presidential elections could lead to legal consequences, including potential loss of the presidency.
 
-அங்கீகரிக்கப்பட்ட வரம்புகளுக்கு மேல் பிரச்சாரச் செலவுகளைச் செய்வது சட்டவிரோதமானது என்றும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Elections Commissioner Saman Sri Ratnayake said that there are legal arrangements to snatch the seat of the president's election if the propaganda expenses for the presidential election violate the recognized limit.
+
+He also noted that it is illegal to make propaganda costs above the recognized limits.
 
 ◼️
 
 [Data](articles/2f3fe2f6.json)
 
+[Extended Data](ext_articles/2f3fe2f6.ext.json)
+
 ---
 
-### T20 කාන්තා ලෝක කුසලානයේ සත්කාරකත්වය සිම්බාබ්වේ ඉල්ලයි
+### Zimbabwe demands hosting the T20 Women's World Cup
 
 *2024-08-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200036) · `si`
 
-බංග්ලාදේශය තුළ පැවැත්වීමට නියමිතව තිබෙන විස්සයි 20 කාන්තා ලෝක කුසලානය එරට තුළ නොපවත්වන්නේ නම්, එය සිය රටේදී පවත්වන මෙන් සිබ්බාබ්වේ විසින් අයි.සී.සී.යෙන් ඉල්ලීමක් කර ඇත.
+Zimbabwe has asked the ICC to host the T20 Women's World Cup if it's not held in Bangladesh due to political instability concerns. The event is scheduled for October but faces relocation issues, with options including South Africa/Kenya (as co-hosts in 2003), Namibia (for U-19 tournaments), or the United Arab Emirates. Zimbabwe's Harare Stadium could be a venue, despite October's typically rainy weather. The ICC is yet to make a final decision.
 
-මෙවර විස්සයි 20 කාන්තා ලෝක කුසලානය එළඹෙන ඔක්තෝබර් මස 03 වනදා සිට බංග්ලාදේශයේදී පැවැත්වීමට නියමිතව තිබේ.
+🟩
 
-කෙසේ නමුත් එරට තුළ පවතින දේශපාලනය අස්ථාවරත්වය හේතුවෙන් එය සැලසුම් කළ ලෙස බංග්ලාදේශයේම පවත්වනවාද, නැතිනම් වෙනත් රටකට රැගෙන යන්නේ දැයි ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මේ වනවිට සලකා බලමින් සිටී.
+If the Twenty20 Women's World Cup will not be held in Bangladesh, Sibbabwe has requested the ICB HEA.
 
-2003 එක්දින ලෝක කුසලානයට දකුණු අප්‍රිකාව සහ කෙන්යාව සමගින් සම සත්කාරකත්වය ලබාදීමෙන් පසු සිම්බාබ්වේ මේ දක්වා කිසිඳු ආකෘතියක ලෝක කුසලානයකට සත්කාරකත්වය ලබාදී නොමැත.
+The Twenty20 Women's World Cup will be held from October 3, which is coming from October 3.
 
-කෙසේ නමුත් ඔවුන් අවසන් වරට පැවැත් වූ එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලි දෙකෙහිම සුදුසුකම් ලැබීමේ තරගාවලියේ සත්කාරක රට ලෙසින් කටයුතු කළේය.
+However, the International Cricket Council is currently considered whether the politics of the country is planning to be designed or taken to another country due to instability in the country.
 
-එමෙන්ම ඔවුන් 2026දී පැවැත්වීමට නියමිතව තිබෙන අවුරුදු 19න් පහළ පිරිමි ලෝක කුසලානයට නැමීබියාව සමඟ සත්කාරකත්වය ලබාදෙන අතර, 2027 පැවැත්වෙන එක්දින ලෝක කුසලානයටද දකුණු අප්‍රිකාව සහ නැමීබියාව සමඟ සම සත්කාරකත්වය හිමිකරගෙන සිටී.
+The 2003 hosting the 2003 World Cup is hosted with South Africa and Kenya with equal to the 2003 South Africa and Kenya.
+
+However, they acted as the hosting of the series of qualifying tournament.
+
+They are also hosted with Namibia to the Under-19's Under-19's Under-19's Under-19's Under 19 World Cups.
+
+Cricket has been promoted in Zimbabwe, and their latest cricket stadium can be conducted at Harara Stadium.
+
+Simbabwe also further stated that in October year we have a rainy weather in October to be held in October, planned to have the World Cup.
 
 ...
 
 [Data](articles/887ca357.json)
+
+[Extended Data](ext_articles/887ca357.ext.json)
 
 ---
 
@@ -100,15 +122,21 @@ In a subsequent scuffle involving dozens of deputies, a female lawmaker was stru
 
 ---
 
-### සර්වජන අපේක්ෂක දිලිත්ගේ රැලිය සජීවීව මෙතැනින්
+### The rational candidate Dilith is here live here
 
 *2024-08-17 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200035) · `si`
 
-සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ මංගල ජන රැලිය අද (17) යාපනයේදී පැවැත්වෙයි.
+Dilith Jayaweera, a presidential candidate and entrepreneur, is in Jaffna today for a defense-related event.
+
+🟩
+
+The defense entrepreneurship Dilith Jayaweera, the president's power, is held in Jaffna today (17).
 
 ◼️
 
 [Data](articles/59402952.json)
+
+[Extended Data](ext_articles/59402952.ext.json)
 
 ---
 

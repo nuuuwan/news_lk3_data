@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 14:07:16**
+As of **2024-08-17 14:21:13**
 
 ## Newspaper Stats
 
-*Scraped **41,205** Articles*
+*Scraped **41,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 4,814
 tamilmirrorlk | 5,278
 virakesarilk | 6,538
-adaderanasinhalalk | 7,011
+adaderanasinhalalk | 7,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,203 (100.0%) of 41,205 articles have been extended.
+41,205 (100.0%) of 41,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### ජනාධිපති ධුර අපේක්ෂක දිලිත් යාපනයෙන් ඡන්ද සටන අරඹයි
+
+*2024-08-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200027) · `si`
+
+සර්වජන බලය ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ මංගල ජන රැලිය අද (17) පස්වරුවේ යාපනයේදී පැවැත්වීමට නියමිතය.
+
+අද පෙරවරුවේ යාපනයට පැමිණි ව්‍යවසායක දිලිත් ජයවීර මහතා ප්‍රථමයෙන් ශ්‍රී නාග විහාරයට පැමිණ ආශිර්වාද ලබාගත්තේය.
+
+එහිදී ශ්‍රී නාග විහාරයේ විහාරාධිපති පූජ්‍ය මීගහජඳුරේ සිරිවිමල හිමියන් බැහැදැක සර්වජන බලයේ දෙවෙනි කෙටුම්පත ද උන්වහන්සේ වෙත පිළිගැන්වීය.
+
+ඉන් පසුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය රදගුරු නිල නිවස වෙත පැමිණ යාපනය රදගුරු පදවියේ අනුනායක ගරු පී.ජේ. ජේබරත්නම් පියතුමා හමුවිය.
+
+උන්වහන්සේට ද එහිදී සර්වජන බලයේ දෙවෙනි කෙටුම්පත පිළිගැන්වීම සිදු කෙරුණි.
+
+අනතුරුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය මොහිදීන් ජුම්මා පල්ලිය වෙත පැමිණ එහි ප්‍රධාන මවුලවි ඒ.එම්. රලීම් මවුලවිතුමා හමුවී ආශිර්වාද ලබාගත්තේය.
+
+පසුව ජනාධිපති ධුර අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහහතා ප්‍රමුඛ පිරිස යාපනය නල්ලූර් කෝවිලට පැමිණ හින්දු ආගමික වතාවත්වල නිරත වුණි.
+
+...
+
+[Data](articles/aea7fcbd.json)
+
+---
 
 ### Voters shouldn’t be reduced to mere consumers during polls – Elections Chief
 
@@ -50,19 +74,27 @@ Furthermore, the Elections Commissioner General expressed concerns that the expe
 
 [Data](articles/8995cf50.json)
 
+[Extended Data](ext_articles/8995cf50.ext.json)
+
 ---
 
-### සජිත් දෙවෙනි පියවරත් තබයි
+### Sajith sets the second step
 
 *2024-08-17 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200026) · `si`
 
-සමගි ජන බලවේගයේ අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සහභාගී වන ජන රැලිය බණ්ඩාරගම නගරයේදී අද (17) පෙරවරුවේ ආරම්භ කෙරුණි.
+Sajith Premadasa, the Opposition Leader of the UPFA, launched his second presidential campaign rally today in Bandaragama.
 
-සමගි ජන සන්ධානයේ ජනාධිපති ධුර අපේක්ෂක විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ජය තහවුරු කිරීම වෙනුවෙන් සංවිධාන කළ දෙවන ජන රැලිය මෙය වෙයි.
+🟩
+
+The rally, the candidate Sajith Premadasa, the candidate Sajith Premadasa, was launched this morning in Bandaragama this morning.
+
+This is the second rally organized by the Presidential Leadership Leader Sajith Premadasa, Opposition Leader of the UPFA.
 
 ◼️
 
 [Data](articles/14be3b75.json)
+
+[Extended Data](ext_articles/14be3b75.ext.json)
 
 ---
 
@@ -2231,33 +2263,5 @@ With the help of the Pico machine for several hours of excavation on the ground,
 [Data](articles/d7f263f4.json)
 
 [Extended Data](ext_articles/d7f263f4.ext.json)
-
----
-
-### Dilith's victory debut rally in Jaffna
-
-*2024-08-16 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200008) · `si`
-
-Presidential candidate Dilith Jayaweera made his debut in Jaffna, visiting religious sites and engaging in friendly conversations. His rally marks the first time a National UPFA candidate campaigns in Jaffna, signaling a significant event in local political history.
-
-🟩
-
-The presidential power presidential candidate Dilith Jayaweera has arrived at the Haunapitiya Gangarama Viharaya this morning.
-
-The first day, Dilith Jayaweera and visited the Assembly Thera owners of the Kirinda Thera.
-
-Subsequently, Dilith Jayaweera was a friendly conversation with the Aragas.
-
-The Entrepreneral Dilith Jayaweera also saw how the Entrepreneral Dilith Jayaweera is involved in a friendly conversation.
-
-Meanwhile, Mangala rally in the Surgerage Rally the presidency is to be launched in Jaffna tomorrow (17).
-
-This is the first time a National UPFA candidate a Presidential UPFA in a presidential election is the first time in the history of Jaffna.
-
-◼️
-
-[Data](articles/57b8e819.json)
-
-[Extended Data](ext_articles/57b8e819.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 05:21:12**
+As of **2024-08-17 05:38:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,160 (100.0%) of 41,162 articles have been extended.
+41,162 (100.0%) of 41,162 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1112,6 +1112,8 @@ The ‘Puluwan Sri Lanka’ agreement, according to the President, represents a 
 
 [Data](articles/57ec957f.json)
 
+[Extended Data](ext_articles/57ec957f.ext.json)
+
 ---
 
 ### A report from Simiti Gunaratne
@@ -1171,6 +1173,8 @@ Almost twenty years ago, I received a call from Don Harold Stassen Jayawardena. 
 ...
 
 [Data](articles/28f2a77c.json)
+
+[Extended Data](ext_articles/28f2a77c.ext.json)
 
 ---
 

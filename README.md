@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 20:36:42**
+As of **2024-08-17 20:55:02**
 
 ## Newspaper Stats
 
-*Scraped **41,249** Articles*
+*Scraped **41,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,790
 dailymirrorlk | 4,733
-adaderanalk | 4,821
+adaderanalk | 4,822
 tamilmirrorlk | 5,293
 virakesarilk | 6,539
 adaderanasinhalalk | 7,028
@@ -26,31 +26,57 @@ adaderanasinhalalk | 7,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,248 (100.0%) of 41,249 articles have been extended.
+41,249 (100.0%) of 41,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ජනපති ධුර අපේක්ෂකයන් වියදම් කරන්න ඉල්ලන මුදල මෙන්න
+### Indian hospitals hit as doctors strike to protest rape, murder of colleague
 
-*2024-08-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200045) · `si`
+*2024-08-17 20:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101313/indian-hospitals-hit-as-doctors-strike-to-protest-rape-murder-of-colleague) · `en`
 
-ජනාධිපතිවරණයේදී ඡන්දදායකයෙකු සඳහා වියදම් කළ හැකි උපරිම මුදල රුපියල් දහසක් දක්වා ලබාදෙන්නැයි ප්‍රධාන පෙළේ අපේක්ෂකයින් ඉල්ලීම් කර ඇති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Hospitals and clinics across India turned away patients except for emergency cases on Saturday as medical professionals started a 24-hour shutdown in protest against the brutal rape and murder of a doctor in the eastern city of Kolkata.
 
-කෙසේවෙතත් අදාළ යෝජනා පිළිබඳ අවසන් තීරණය ඉදිරියේදී ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත් කරන බව ඒ මහතා ප්‍රකාශ කළේය.
+More than one million doctors were expected to join the strike, paralysing medical services across the world’s most populous nation. Hospitals said faculty staff from medical colleges had been pressed into service for emergency cases.
 
-මැතිවරණ වියදම් නියාමන පනතට අනුව එක් ඡන්දදායකයෙකු සඳහා වියදම් කිරීමට අවසර ලත් මුදල නාමයෝජනා භාරගැනීමෙන් දින 5ක් ඇතුළත ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත්කළ යුතු වේ.
+The government, in a statement issued on Saturday after a meeting with representatives of medical associations, urged doctors to return to duties in the public interest.
 
-ඒ පිළිබඳව තීරණය කිරීම සඳහා සාකච්ඡාවක් අපේක්ෂකයන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතර ඊයේ (16) මැතිවරණ කොමිෂන් සභා පරිශ්‍රයේදී පැවැත්වුණි.
-
-මේ අතර ජනාධිපතිවරණය සඳහා ඒ ඒ අපේක්ෂකයන් වියදම් කළ මුදල පිළිබඳ වාර්තාවක් ජනාධිපතිවරණය අවසන් වී දින 20ක් ඇතුළත මැතිවරණ කොමිසමට ලබාදිය යුතු බව ද මැතිවරණ කොමසාරිස්වරයා ප්‍රකාශ කළේය.
-
-මේ අතර එක් අපේක්ෂකයෙකු සඳහා විද්‍යුත් මාධ්‍යයෙන් වැඩි ගුවන් කාලයක් ලබාදෙන බවට එල්ලවී ඇති චෝදනාව සම්බන්ධයෙන් මැතිවරණ කොමිසම අදාළ ආයතනයට දැනුම්දීමක් සිදුකර තිබේ.
+A 31-year old trainee doctor was raped and murdered last week inside the medical college in Kolkata where she worked, triggering nationwide protests among doctors and drawing parallels to the notorious gang rape and murder of a 23-year-old student on a moving bus in New Delhi in 2012.
 
 ...
 
+[Data](articles/476fc314.json)
+
+---
+
+### Here is the amount of money requesting the Presidential candidates
+
+*2024-08-17 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200045) · `si`
+
+Presidential candidates have been asked to disclose how much money each voter would receive, per the Elections Registration Act. The decision on proposals will be published in a gazette. A meeting was held at the Elections Commission, where it was mentioned that the election report should be submitted within 20 days post-summer. The commission also addressed allegations against a candidate from electronic media.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that leading candidates have been requested to provide the maximum amount of money available for a voter at a voter.
+
+However, the final decision on the proposals will be announced by a gazette.
+
+According to the Elections Registration Act, the nomination-permitted amount of nominations for one voter should be announced within 5 days.
+
+A discussion was held at the Elections Commission premises yesterday (16).
+
+Meanwhile, the Commissioner of Elections stated that the election commission should be given within 20 days of the end of the summer report for the presidential election.
+
+Meanwhile, the Elections Commission has notified the institution regarding the allegation of an allegation from electronic media for one candidate.
+
+The PAFFREL organization states that trying to vote for voting during the election period.
+
+◼️
+
 [Data](articles/9668e84c.json)
+
+[Extended Data](ext_articles/9668e84c.ext.json)
 
 ---
 
@@ -2269,29 +2295,5 @@ Vishmi Gunaratne became the second Sri Lankan player to score a century in women
 [Data](articles/57cc3cce.json)
 
 [Extended Data](ext_articles/57cc3cce.ext.json)
-
----
-
-### Woman traveling on a motorbike with her brother in Jaffna falls down
-
-*2024-08-16 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/191264) · `ta`
-
-A woman, 33, died after falling off a motorbike without a helmet while riding with her brother in Jaffna. They had visited the Krishnan Temple and were returning home when the accident occurred. She was first taken to the Tellippalai Base Hospital and later to another hospital, where she passed away. An autopsy was conducted by A. Jayapalasingham, and her body was released to her family.
-
-🟩
-
-A woman who was riding a motorbike with her brother died on Friday (16) as she was admitted to hospital. The 33 -year -old woman from Shantha - Pandathara area has died.
-
-On the 11th, the woman has visited the Krishnan Temple. Later, when she was coming home with her brother on a motorbike without a helmet, the woman suddenly fell down on Madagal - Ponnalai road.
-
-He was taken to the hospital on Friday (16) after being taken to the Tellippalai Base Hospital for further treatment.
-
-A sudden death investigator, A. Jayapalasingham. The body has been handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/492cd9e2.json)
-
-[Extended Data](ext_articles/492cd9e2.ext.json)
 
 ---

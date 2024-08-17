@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 10:55:09**
+As of **2024-08-17 11:07:18**
 
 ## Newspaper Stats
 
@@ -38,7 +38,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The water levels in the Kuda Ganga is rising, posing flood threats over the next 48 hours in the Bulathsinhala, Palindanuwara, and Madurawala Divisional Secretariat (DS) divisions, according to the Irrigation Department.
 
-◼️
+Issuing an ‘Amber’ warning in this regard, the Irrigation Department stated that a considerable rainfall has occurred in the upstream catchment areas of Kuda Ganga Sub Basin of Kalu River as of 9.00 a.m. today.
+
+By analyzing the current rainfall situation and river water levels of Hydrological Stations in Kalu Ganga, it is warned that there is a possibility of a flood situation occurring in the low-lying areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara D/S Divisions in the next 48 hours, it added.
+
+In the flood warning, which is effective until 09.00 a.m. on Monday (19), the department mentioned that as a result, there is high possibility of inundating of roads running through flood plains of Kuda Ganga and Magura Ganga.
+
+...
 
 [Data](articles/02f39298.json)
 

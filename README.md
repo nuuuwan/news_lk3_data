@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 09:36:45**
+As of **2024-08-17 09:56:13**
 
 ## Newspaper Stats
 
-*Scraped **41,182** Articles*
+*Scraped **41,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,808
-tamilmirrorlk | 5,276
-virakesarilk | 6,533
+tamilmirrorlk | 5,277
+virakesarilk | 6,534
 adaderanasinhalalk | 7,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,181 (100.0%) of 41,182 articles have been extended.
+41,182 (100.0%) of 41,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### பழைய தோட்டத்தில் தீ: 25 குடும்பங்களை  நிர்கதி
+
+*2024-08-17 09:24:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பழைய-தோட்டத்தில்-தீ-25-குடும்பங்களை-நிர்கதி/76-342318) · `ta`
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் பழைய தோட்டம் என அழைக்கப்படும் சீன் லோவர் பூண்டுலோயா தோட்டத்தில், வெள்ளிக்கிழமை  (16) இரவு 08 மணி அளவில் ஏற்பட்ட திடீர் தீ விபத்து சம்பவத்தில் 28 வீடுகள் கொண்ட இலக்கம் (01) தொடர் குடியிருப்பு லயத்தில் 25 வீடுகள் எரிந்து சாம்பலாகி உள்ளதாக பகுதிக்கு பொறுப்பான கிராம அபிவிருத்தி அதிகாரியின் அறிக்கை படி பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+
+இந்த திடீர் தீ விபத்து சம்பவத்தில் பாதிக்கப்பட்ட  25 வீடுகளை சேர்ந்த 86 பேர் நிர்கதிக்குள்ளான  நிலையில் அத் தோட்ட ஆலய மண்டபம் மற்றும் உறவினர்கள் வீடுகளில் தற்காலிகமாக தங்க வைக்கப்பட்டுள்ளனர்.
+
+அதே நேரத்தில் இந்த திடீர் தீ பிடிப்பு சம்பவத்தினால் அதிர்ச்சிக்கு உள்ளான இரு வயோதிபர்கள் கொத்மலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மேலும் இந்த  சம்பவத்தில் வீடுகளை இழந்து உள்ள மூன்று கர்ப்பிணி தாய்மார்கள் உறவினர்கள் வீடுகளில் பாதுகாப்பாக தங்க வைக்கப்பட்டுள்ளனர்.
+
+தீ சம்பவத்துக்கான காரணம் மற்றும் சேத விவரங்களை கண்டறிய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவித்தனர்.
+
+...
+
+[Data](articles/255c4eba.json)
+
+---
 
 ### First case of polio confirmed in a 10-month-old child in Gaza, Palestinian health officials say
 
@@ -47,6 +67,26 @@ The World Health Organization did not immediately respond to requests to confirm
 ...
 
 [Data](articles/dc2fc238.json)
+
+[Extended Data](ext_articles/dc2fc238.ext.json)
+
+---
+
+### பலத்த மழை ; மூன்று மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+
+*2024-08-17 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/191269) · `ta`
+
+நாட்டில் பெய்து வரும் பலத்த மழை காரணமாக களுத்துறை, மாத்தறை மற்றும் காலி மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கையை தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் வெளியிட்டுள்ளது.
+
+நிலம் மற்றும் சுவர்களில் விரிசல்கள் ஏற்படுதல், மரங்கள், வேலிகள் மற்றும் மின்கம்பங்கள் சாய்தல், திடீரென நீரூற்றுகள் தோன்றல், சேற்று நீர் வெளியேறல் போன்ற அறிகுறிகள் தென்பட்டால் எச்சரிக்கையாக இருக்குமாறு பொதுமக்கள் அறிவுறுத்தப்படுகிறார்கள்.
+
+அனர்த்த முகாமைத்துவ மையத்தின் 117 என்ற இலக்கம் ஊடாக மாவட்ட அனர்த்த முகாமைத்துவ மத்திய நிலையத்திற்கு தகவல் தெரிவிக்குமாறு கேட்டுக்கொள்ளப்பட்டுள்ளனர்.
+
+இலங்கைக்கு மேலாக வளிமண்டலத்தின் கீழ் மட்டத்தில் தென்படுகின்ற இடையூரின் காரணமாக நாட்டின் தென்மேற்குப் பிராந்தியத்தில் நிலவுகின்ற மழையுடனான வானிலை இன்றும் தொடரக்கூடுமென சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3590ebf2.json)
 
 ---
 
@@ -215,6 +255,32 @@ However, due to the failure of the first innings, they were able to give the Lio
 [Data](articles/009c1d53.json)
 
 [Extended Data](ext_articles/009c1d53.ext.json)
+
+---
+
+### Wild elephants in Batticaloa district;People's vulnerabilities are affected by the destruction of coconut trees
+
+*2024-08-17 07:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/191257) · `ta`
+
+Wild elephants in Batticaloa since 2007 have devastated homes, crops, and coconut trees, impacting locals' livelihoods. In recent attacks, farms and coconut plantations were ruined, affecting rural coconut production and community income. Despite efforts to address the issue, solutions remain elusive.
+
+🟩
+
+Due to the attack of wild elephants, the Batticaloa district has been destroying the homes of the people, their crop lands and more coconut trees from 2007 to the present day.. Former Eastern Provincial Council Member. Durairatnam expressed concern.
+
+In the early hours of Friday morning (16), wild elephants infiltrated the residence of the people of Bansen and Pullumalai have damaged the farmers' huts and many coconut trees.
+
+After visiting the disaster, he pointed out the matter.
+
+In the last seven months, wild elephants have destroyed about 950 to 1200 coconut trees in the Divisional Secretariat Divisions such as Vavunathivu, Padippalai, Wellaveli, Gran, Eravur Pattipalai (Chengaladi) Vaharai.
+
+These beneficial coconut trees are now enjoying the impact of the destruction of the wage industry and the life of the people.. This will affect local rural coconut production and people's livelihood in the future.
+
+...
+
+[Data](articles/32f80eb7.json)
+
+[Extended Data](ext_articles/32f80eb7.ext.json)
 
 ---
 
@@ -1438,32 +1504,6 @@ This initiative, undertaken in collaboration with the Ministry of Sports and in 
 
 ---
 
-### Wild elephants in Batticaloa district;People's vulnerabilities are affected by the destruction of coconut trees
-
-*2024-08-16 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/191257) · `ta`
-
-Wild elephants in Batticaloa since 2007 have devastated homes, crops, and coconut trees, impacting locals' livelihoods. In recent attacks, farms and coconut plantations were ruined, affecting rural coconut production and community income. Despite efforts to address the issue, solutions remain elusive.
-
-🟩
-
-Due to the attack of wild elephants, the Batticaloa district has been destroying the homes of the people, their crop lands and more coconut trees from 2007 to the present day.. Former Eastern Provincial Council Member. Durairatnam expressed concern.
-
-In the early hours of Friday morning (16), wild elephants infiltrated the residence of the people of Bansen and Pullumalai have damaged the farmers' huts and many coconut trees.
-
-After visiting the disaster, he pointed out the matter.
-
-In the last seven months, wild elephants have destroyed about 950 to 1200 coconut trees in the Divisional Secretariat Divisions such as Vavunathivu, Padippalai, Wellaveli, Gran, Eravur Pattipalai (Chengaladi) Vaharai.
-
-These beneficial coconut trees are now enjoying the impact of the destruction of the wage industry and the life of the people.. This will affect local rural coconut production and people's livelihood in the future.
-
-...
-
-[Data](articles/32f80eb7.json)
-
-[Extended Data](ext_articles/32f80eb7.ext.json)
-
----
-
 ### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
 
 *2024-08-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
@@ -2163,55 +2203,5 @@ Therefore, Marikkar urged the public to be vigilant of such misinformation, emph
 [Data](articles/b22055fd.json)
 
 [Extended Data](ext_articles/b22055fd.ext.json)
-
----
-
-### Ponni Selvan, who accumulated 4 Indian National Film Awards
-
-*2024-08-16 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/191229) · `ta`
-
-"Ponni Selvan Part 1 won Best Tamil Film at the 2022 Indian National Film Awards, with AR Rahman receiving his 7th award for Best Background Music."
-
-🟩
-
-The Indian National Film Awards were announced today (16). Ponni Selvan Part 1 was selected as the best Tamil film, Mani Ratnam. 4 awards have been announced for the film.
-
-The Indian National Film Awards for 2022 were announced in Delhi today.
-
-*Best Background Music - AR Rahman (Ponni Selvan 1) receives 7th National Award.
-
-* Best Movie Book - Biography of Kishore Kumar
-
-* Best Singer
-
-◼️
-
-[Data](articles/0da7957a.json)
-
-[Extended Data](ext_articles/0da7957a.ext.json)
-
----
-
-### Licensing of damages inappropriate for consumption arrested
-
-*2024-08-16 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200003) · `si`
-
-In a raid, 1000 kg of unfit-for-consumption dhal were seized from a warehouse owned by a prominent food importer. The Consumer Affairs Authority (CAA) removed the stock and took it into custody during the operation.
-
-🟩
-
-1000 kilograms of dhal in unwilling to human consumption have been found in a pulley pupil store.
-
-The lentille was found in a warehouse belonging to a well-known food importing personnel in a raid conducted by the Consumer Affairs Authority.
-
-The Consumer Affairs Authority said that the stock of dhal was removed and sending the fungi at the time of the raid.
-
-The Consumer Affairs Authority of the Consumer Affairs has taken the lentils and will be taken into custody.
-
-◼️
-
-[Data](articles/ef4278ad.json)
-
-[Extended Data](ext_articles/ef4278ad.ext.json)
 
 ---

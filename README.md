@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 15:55:31**
+As of **2024-08-17 16:08:41**
 
 ## Newspaper Stats
 
-*Scraped **41,215** Articles*
+*Scraped **41,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 393
 islandlk | 2,380
 economynextcom | 2,500
 dailyftlk | 2,676
-adalk | 3,786
+adalk | 3,787
 dailymirrorlk | 4,733
-adaderanalk | 4,816
-tamilmirrorlk | 5,279
+adaderanalk | 4,817
+tamilmirrorlk | 5,281
 virakesarilk | 6,538
 adaderanasinhalalk | 7,018
 
@@ -26,29 +26,53 @@ adaderanasinhalalk | 7,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,214 (100.0%) of 41,215 articles have been extended.
+41,215 (100.0%) of 41,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### මිලිමීටර් 150ක තද වැස්සක් ගැන අනතුරු ඇඟවීමක්
+### Lawmakers in Turkey draw blood in brawl during debate on jailed colleague
+
+*2024-08-17 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/101308/lawmakers-in-turkey-draw-blood-in-brawl-during-debate-on-jailed-colleague) · `en`
+
+A brawl broke out among Turkish lawmakers Friday during a heated debate over an opposition delegate currently jailed on what are widely considered to be politically motivated charges.
+
+Televised footage showed Ahmet Sik, a representative from the same party as the imprisoned deputy, being approached and attacked by a lawmaker from President Recep Tayyip Erdogan’s ruling party while speaking at the chamber’s podium. Sik had just called members of the ruling party a “terrorist organization.”
+
+In a subsequent scuffle involving dozens of deputies, a female lawmaker was struck, leaving drops of blood on steps leading the speaker’s lectern. Another opposition member was also reportedly injured.
+
+“It is a shameful situation,” said Ozgur Ozel, who heads the largest opposition party. “Instead of words flying in the air, fists are flying, there is blood on the ground. They are hitting women.”
+
+...
+
+[Data](articles/89ff1042.json)
+
+---
+
+### A warning of 150 mm of heavy rain
 
 *2024-08-17 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200034) · `si`
 
-ඉදිරි පැය 24ක කාලය සඳහා තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology warns of heavy rainfall, issuing a red alert for the next 24 hours, affecting western, central, and southern regions of Sri Lanka. Expecting about 150mm of rain, authorities advise caution against potential damage from strong winds and landslides due to thunderstorms. The weather pattern indicates ongoing rain conditions across the island.
 
-අද (17) පස්වරු 1.00ට නිකුත් කරන ලද එම නිවේදනය හෙට (18) පස්වරු 1.00 දක්වා වලංගුව බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-එම නිවේදනයේ සඳහන් කර ඇත්තේ, බස්නාහිර, සබරගමුව පළාත් සහ ගාල්ල, මාතර, මහනුරව, නුවරඑළිය දිස්ත්‍රික්කවල ඇතැම් ප්‍රදේශවලට මි.මී. 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බවත් ඒ පිළිබඳව සැලකිලිමත් වන ලෙසය.
+The Department of Meteorology has issued a red announcement of heavy rainfall for the next 24 hours.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුර අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The statement issued at 1.00 pm today is valid tomorrow (18) at 1.00 pm, the Department said.
 
-මේ අතර ශ්‍රී ලංකාවට ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයිනේ නිරතදිග ප්‍රදේශවල පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The announcement stated that some areas in the Western, Sabaragamuwa Province and Galle, Mahanurawa, Nuwara Eliya districts. About 150 stress can occur and cares for it.
+
+The Department of Meteorology also requests the public to take necessary temporary strong winds and landslin 'damage with thunderstorms.
+
+Meanwhile, the Department of Meteorology states that the rain condition of the island will continue due to the prevailing prevailing prevalence in the lower atmosphere.
 
 ◼️
 
 [Data](articles/c7f51d80.json)
+
+[Extended Data](ext_articles/c7f51d80.ext.json)
 
 ---
 
@@ -67,6 +91,36 @@ The first rally was established in Tangalle today (17) to ensure the victories o
 [Data](articles/ffc7f998.json)
 
 [Extended Data](ext_articles/ffc7f998.ext.json)
+
+---
+
+### ரணிலின் முதலாவது பொதுக் கூட்டம்...
+
+*2024-08-17 15:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-முதலாவது-பொதுக்-கூட்டம்/175-342323) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவின் வெற்றியை உறுதிப்படுத்தும் முதலாவது பொதுக்கூட்டம் இன்று (17) பிற்பகல் அனுராதபுரம் சல்தாது விளையாட்டரங்கில் நடைபெறவுள்ளது.
+
+ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன, ஸ்ரீலங்கா சுதந்திரக் கட்சி, ஐக்கிய மக்கள் சக்தி உள்ளிட்ட கட்சிகளில் இருந்து ஆதரவு தெரிவித்த பாராளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் பலரும் இதில் இணையவுள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/b69cc4c0.json)
+
+---
+
+### 102 தாள்களுடன் தங்கம் வாங்க வந்தவர் கைது
+
+*2024-08-17 15:08:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/102-தாள்களுடன்-தங்கம்-வாங்க-வந்தவர்-கைது/175-342322) · `ta`
+
+இரத்தினபுரி நகரிலுள்ள நகைக்கடை ஒன்றில் தங்க நகையை கொள்வனவு செய்ய வந்த நபர் ஒருவர் நூற்றி இரண்டு 5,000 ரூபாய் போலி நாணயத்தாள்களுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தங்க நெக்லஸ் ஒன்றை  வாங்குவதற்கு வந்த நபரின் மேசை மீது 5,000 நாணயத்தாள்கள் கட்டு ஒன்று இருந்ததால் சந்தேகத்தின் பேரில் பொலிஸாருக்கு தகவல் தெரிவிக்கப்பட்டது.
+
+பின்னர், சந்தேகநபர் கைது செய்யப்பட்டு, சோதனையின் போது பல சந்தேகத்திற்கிடமான பொருட்கள் சிக்கியதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/dee57bd2.json)
 
 ---
 
@@ -421,6 +475,22 @@ Minister Sabry noted that ill-advised action by the City Council of Brampton is 
 [Data](articles/1d4c0fac.json)
 
 [Extended Data](ext_articles/1d4c0fac.ext.json)
+
+---
+
+### වතු නිවාස පෙලක ගින්නක් - නිවාස 17ක් විනාශ වෙයි
+
+*2024-08-17 12:17:11* · [`adalk`](https://www.ada.lk/breaking_news/වතු-නිවාස-පෙලක-ගින්නක්---නිවාස-17ක්-විනාශ-වෙයි/11-411413) · `si`
+
+පූඬළුඔය , සීන්වත්ත වතුයායේ වතු නිවාස පෙළක ඊයේ (16දා) රාත්‍රීයේ හටගත් ගින්නකින් වතු නිවාස 17ක් විනාශයට පත්ව තිබේ.
+
+එහිදී නිවාස 08ක් මුළුමනින්ම විනාශයට පත්ව ඇති අතර, තවත් නිවාස 09කට දැඩි හානි සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+
+එක් නිවසක මෙම ගින්න හටගෙන ඇති අතර පසුව එය ශීඝ්‍රයෙන් නිවාස පෙළටම ව්‍යාප්ත වී ගොස් මෙලෙස නිවාස විනාශ වී ඇති බව සඳහන්.
+
+◼️
+
+[Data](articles/f07855ce.json)
 
 ---
 
@@ -2185,87 +2255,5 @@ Sri Lanka, who batted first in today's match, scored 221 runs for the loss of 6 
 [Data](articles/fc5ca8bb.json)
 
 [Extended Data](ext_articles/fc5ca8bb.ext.json)
-
----
-
-### After winning a technical revolution
-
-*2024-08-16 18:36:47* · [`adalk`](https://www.ada.lk/breaking_news/ජයගැනීමෙන්-පසු-තාක්ෂණික-විප්ලවයක්-ඇති-කරනවා/11-411410) · `si`
-
-Namal Rajapaksa, following a victory, emphasized the importance of a technical revolution led by the youth to transform the country. This sentiment was echoed during his warm reception at a ceremony organized by the Dambulla Economic Center, en route from Anuradhapura to Kandy, where he addressed numerous supporters. His focus on addressing unemployment and fostering technological advancement resonated with the crowd.
-
-🟩
-
-Namal Rajapaksa said that the youth would have a technical revolution in this country after they win and put an technical revolution in the country.
-
-The welcome ceremony was organized by the Dambulla Economic Center by the Dambulla Economic Center.
-
-The welcome ceremony was organized while traveling from Anuradhapura to Kandy, a large number of people were in the Dambulla Economic Center to accept Namal Rajapaksa.
-
-Namal Rajapaksa was warmly welcomed with the people, the Rajapaksa journalists who came to the road to the unemployment under their government and implement a technical revolution in the country and implementing a technical revolution.
-
-◼️
-
-[Data](articles/dad07bf2.json)
-
-[Extended Data](ext_articles/dad07bf2.ext.json)
-
----
-
-### Niroshan Dickwella suspended from all forms of cricket
-
-*2024-08-16 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/101291/-niroshan-dickwella-suspended-from-all-forms-of-cricket) · `en`
-
-Sri Lankan cricketer Niroshan Dickwella has been suspended from participating in all forms of cricket with immediate effect due to an alleged anti-doping violation, Sri Lanka Cricket (SLC) confirmed.
-
-The suspension will remain in place until further notice, according to the SLC.
-
-Dickwella found guilty of a doping violation during the recent Lanka Premiere League (LPL).
-
-This has reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
-
-However, SLC stated that the test, which was conducted by the Sri Lanka Anti-Doping Agency (SLADA) during the Lanka Premier League (LPL) 2024, is part of SLC’s ongoing commitment to maintaining the integrity of the sport.
-
-This initiative, undertaken in collaboration with the Ministry of Sports and in accordance with the World Anti-Doping Agency (WADA) guidelines, is aimed at ensuring that cricket remains free from the influence of prohibited substances, it added.
-
-...
-
-[Data](articles/13fb6d56.json)
-
-[Extended Data](ext_articles/13fb6d56.ext.json)
-
----
-
-### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
-
-*2024-08-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
-
-From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
-
-This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
-
-...
-
-[Data](articles/63e11237.json)
-
-[Extended Data](ext_articles/63e11237.ext.json)
-
----
-
-### 34 Political Parties and Alliances Endorse Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.
-
-*2024-08-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84553) · `en`
-
-President Ranil Wickremesinghe yesterday highlighted the significance of the newly signed ‘Puluwan Sri Lanka’ (Sri Lanka Can) agreement, stressing that it is not intended to form a new political party but rather to unite the nation and build a brighter future.
-
-The agreement, endorsed by 34 political parties and alliances, symbolises a collective commitment to overcoming the country’s challenges and rebuilding for the future.
-
-The ‘Puluwan Sri Lanka’ agreement, according to the President, represents a new force in Sri Lankan politics, aiming to unite all communities and ensure long-term progress for the nation. He said the country has emerged as a new force, uniting when the country’s political parties were in disarray, and it is essential to continue this program for another five years, during which a new leadership would have been born in this country, one that the country has not seen in recent times.
-
-...
-
-[Data](articles/57ec957f.json)
-
-[Extended Data](ext_articles/57ec957f.ext.json)
 
 ---

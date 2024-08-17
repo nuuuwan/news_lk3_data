@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 05:38:48**
+As of **2024-08-17 06:03:02**
 
 ## Newspaper Stats
 
-*Scraped **41,162** Articles*
+*Scraped **41,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 350
 newsfirstlk | 363
 bbccomsinhala | 382
 colombotelegraphcom | 393
-islandlk | 2,372
+islandlk | 2,380
 economynextcom | 2,499
 dailyftlk | 2,676
 adalk | 3,784
@@ -26,11 +26,79 @@ adaderanasinhalalk | 7,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,162 (100.0%) of 41,162 articles have been extended.
+41,168 (100.0%) of 41,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### WindForce soars to new heights: stellar quarterly performance
+
+*2024-08-17 02:50:00* · [`islandlk`](http://island.lk/windforce-soars-to-new-heights-stellar-quarterly-performance/) · `en`
+
+WindForce PLC, Sri Lanka’s leader in the renewable energy sector, has announced an outstanding financial performance for the first quarter of the 2024/25 fiscal year. The company reported a robust 87% surge in EBITDA reaching LKR 1.95 billion, a significant leap from LKR 1 billion in the same period last year. This remarkable growth highlights the company’s strategic advancements and market strength.
+
+The group’s consolidated revenue for the quarter ending June 30, 2024, soared to LKR 1.56 billion, marking a 28% increase from LKR 1.22 billion in the previous year. Net profits also demonstrated substantial growth, climbing 27% to LKR 652 million, up from LKR 514 billion recorded in the first quarter of last year.
+
+This exceptional financial performance was largely driven by the successful commissioning of the Hiruras 15 MW wind power plant in June/July 2023, which significantly enhanced WindForce’s production capacity and revenue streams.
+
+...
+
+[Data](articles/2d2a6b87.json)
+
+[Extended Data](ext_articles/2d2a6b87.ext.json)
+
+---
+
+### Share market gains for fifth consecutive day; profit-takings in some counters
+
+*2024-08-17 02:49:00* · [`islandlk`](http://island.lk/share-market-gains-for-fifth-consecutive-day-profit-takings-in-some-counters/) · `en`
+
+Investors gradually grew in optimism, helping the stock market to gain for the fifth consecutive day yesterday but witnessed profit- takings in some counters, market analysts said.
+
+The All- Share Price Index went down by 28.97 points while S and P SL20 declined by 1.53 points. Turnover stood at Rs 539 million with two crossings. Those crossings were reported in Renuka Holdings, which crossed 1.7 million shares to the tune of Rs 32.3 million; its shares traded at Rs 13 and Melstacope 250,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 81.
+
+...
+
+[Data](articles/484db1b0.json)
+
+[Extended Data](ext_articles/484db1b0.ext.json)
+
+---
+
+### Elevating market integrity by ensuring secure and transparent trading practices at Colombo Stock Exchange
+
+*2024-08-17 02:41:00* · [`islandlk`](http://island.lk/elevating-market-integrity-by-ensuring-secure-and-transparent-trading-practices-at-colombo-stock-exchange/) · `en`
+
+Ms. Nilupa Perera, Senior Vice President of the Broker Supervision and Listed Entity Compliance Divisions at the Colombo Stock Exchange (CSE), provides an in-depth look at the critical roles her divisions play in maintaining market integrity and fostering good corporate governance.
+
+What is the role of the Broker Supervision Division at the CSE?
+
+The Broker Supervision Division is pivotal to ensure adequate protection for investors who engage the services of Trading Participants. We strive to deliver a high level of service and maintain effective working relationships with Trading Participants. By closely monitoring their activities, we ensure that Trading Participants provide secure and trusted services to investors.
+
+...
+
+[Data](articles/7f0d1cfc.json)
+
+[Extended Data](ext_articles/7f0d1cfc.ext.json)
+
+---
+
+### Acorn Leisure signs game-changing alliance with NDB Capital Group and Sunil Fernando & Associates
+
+*2024-08-17 02:32:00* · [`islandlk`](http://island.lk/acorn-leisure-signs-game-changing-alliance-with-ndb-capital-group-and-sunil-fernando-associates/) · `en`
+
+Acorn Leisure, a subsidiary of the Acorn Group, has taken a significant step toward expansion by signing a Memorandum of Understanding (MOU) with NDB Capital Group and Sunil Fernando & Associates.
+
+Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, driven by an innovative hotel operations model that emphasizes transparency and strong governance. The partnership is designed to create a powerhouse in leisure management, providing crucial industry value additions such as innovative funding opportunities, project investment services, and real estate advice, to drive sustainable growth in Sri Lanka’s tourism sector. As the industry continues to recover and evolve, this alliance is expected to set new standards in hospitality, offering resort and villa owners cutting-edge solutions tailored to the demands of a rapidly changing market.
+
+...
+
+[Data](articles/be3c821b.json)
+
+[Extended Data](ext_articles/be3c821b.ext.json)
+
+---
 
 ### SJB and Maithripala refute alliance rumours
 
@@ -1098,6 +1166,22 @@ These beneficial coconut trees are now enjoying the impact of the destruction of
 
 ---
 
+### Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.
+
+*2024-08-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84512) · `en`
+
+From the time Ranil  Wickremesinghe returned to the seat of  power as Prime Minister  and later as President,   false narratives have been  concocted and circulated e by his opponents, adeversaries, critics and detractors about him.  One was that Wickremesinghe was afraid to face a presidential election and that he would put off  the poll through unorthodox measures.
+
+This falsehood was exposed when the date of the presidential poll was gazetted by the Election Commission. Wickremesinghe was the first to pay his election deposit as an independent candidate. Unable to confront this reality,Ranil’s foes now comfort themselves saying “wait and see will you,he will do something before the election”.
+
+...
+
+[Data](articles/63e11237.json)
+
+[Extended Data](ext_articles/63e11237.ext.json)
+
+---
+
 ### 34 Political Parties and Alliances Endose Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.
 
 *2024-08-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84553) · `en`
@@ -2105,111 +2189,5 @@ As a result, the trains running past Demodara railway station will possibly expe
 [Data](articles/f65e5deb.json)
 
 [Extended Data](ext_articles/f65e5deb.ext.json)
-
----
-
-### Acting President appointed to Court of Appeal
-
-*2024-08-16 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/101282/acting-president-appointed-to-court-of-appeal) · `en`
-
-Justice Sobhitha Rajakaruna has been appointed as the Acting President of the Court of Appeal, the President’s Media Division (PMD) said.
-
-Accordingly, Justice Rajakaruna took oath as the Acting President of the Court of Appeal before President Ranil Wickremesinghe at the President’s Office this morning (16), the PMD added.
-
-This appointment has been made until the President of the Court of Appeal Justice Nissanka Bandula Karunaratne, who is currently overseas, returns to the island.
-
-◼️
-
-[Data](articles/2a87ef98.json)
-
-[Extended Data](ext_articles/2a87ef98.ext.json)
-
----
-
-### Acting Court of Appeal will be appointed
-
-*2024-08-16 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199999) · `si`
-
-The Acting Court of Appeal has been established with President Ranil Wickremesinghe as its chairman. M. Sobhitha Rajakaruna has been appointed as a judge and sworn in by the President. Nissanka Bandula Karunaratne, former President of the Court of Appeal, has been appointed elsewhere. Secretary Saman Ekanayake attended the event.
-
-🟩
-
-President Ranil Wickremesinghe president as chairman of the Acting Court Judge. M. Mr. Sobhitha Rajakaruna has been appointed.
-
-Accordingly the r. M. Sobhitha Rajakaruna was sworn in before the Presidential Secretariat today (16) before President Ranil Wickremesinghe at the Presidential Secretariat this morning.
-
-Nissanka Bandula Karunaratne, who was the President of the Court of Appeal, has been appointed as the island due to the exclusion of the island.
-
-Secretary to the President Saman Ekanayake was also present at the occasion.
-
-◼️
-
-[Data](articles/cb5e8519.json)
-
-[Extended Data](ext_articles/cb5e8519.ext.json)
-
----
-
-### The Chairman of the Court of Appeal
-
-*2024-08-16 14:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேன்முறையீட்டு-நீதிமன்ற-பதில்-தலைவர்-நியமிப்பு/175-342283) · `ta`
-
-Nishanka Bandula Karunaratne stepped down as the Chairman of the Court of Appeal, and President Ranil Wickremesinghe took his oath in his presence on Wednesday (16). Also present was President Saman Ekanayake.
-
-🟩
-
-President Ranil Wickremesinghe was sworn in in the presence of President Ranil Wickremesinghe on Wednesday (16).
-
-The appointment has been appointed until Nishanka Bandula Karunaratne left the island of the Court of Appeal.. President of the President Saman Ekanayake was also present at the event.
-
-◼️
-
-[Data](articles/d9f99ad4.json)
-
-[Extended Data](ext_articles/d9f99ad4.ext.json)
-
----
-
-### Black speech will be removed - Anura
-
-*2024-08-16 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199998) · `si`
-
-Anura Kumara Dissanayake, a presidential candidate, announced plans to centralize the energy sector under one ministry, aiming to address issues like high electricity demand and corruption within the Electricity Board. He pledged to eliminate "black speech" (possibly referring to corruption) and encourage private investment while avoiding unjust projects.
-
-🟩
-
-The Presidential candidate Anura Kumara Dissanayake says that the energy sector is currently being brought to each ministry under a government of the national power.
-
-He was speaking at the launch of the electricity and energy policy of the National Folk Council for the next presidential election.
-
-Presidential candidate Anura Kumara Dissanayake said,
-
-"We arrange an arrangement plan in the face of achieving electricity demand. The government brings solutions emergency purchases. There is no employee or engineering problem. A political issue.
-
-We will remove the black speech that is spread throughout the energy sector. Will clean up. The Electricity Board needs an internal restructuring. We are loyal to call private investment for the generation. But I do not allow unjust projects. We will establish all this under one ministry. "
-
-◼️
-
-[Data](articles/8eaeeecc.json)
-
-[Extended Data](ext_articles/8eaeeecc.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-08-16 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/191216) · `ta`
-
-On August 16, the US dollar's buying rate was 294.3160 rupees and selling rate was 303.5267 rupees according to the Central Bank's exchange rate.
-
-🟩
-
-The US dollar purchasing price was 294.3160 ​​rupees and the sales price were 303.5267 rupees based on the Central Bank's currency exchange rate on Friday (August 16).
-
-◼️
-
-[Data](articles/bf5b6813.json)
-
-[Extended Data](ext_articles/bf5b6813.ext.json)
 
 ---

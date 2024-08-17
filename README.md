@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 13:36:31**
+As of **2024-08-17 13:55:46**
 
 ## Newspaper Stats
 
-*Scraped **41,201** Articles*
+*Scraped **41,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,86 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,786
 dailymirrorlk | 4,733
-adaderanalk | 4,812
+adaderanalk | 4,813
 tamilmirrorlk | 5,278
 virakesarilk | 6,538
-adaderanasinhalalk | 7,009
+adaderanasinhalalk | 7,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,200 (100.0%) of 41,201 articles have been extended.
+41,201 (100.0%) of 41,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ඡන්දදායකයා මුදලට විකිණෙන්න බැහැ  - සමන් ශ්‍රී රත්නායක
+### First test flight of India’s human space mission rocket likely in December
+
+*2024-08-17 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/101302/first-test-flight-of-indias-human-space-mission-rocket-likely-in-december) · `en`
+
+The first test flight of India’s human rated rocket for its human space mission ‘Gaganyaan’ is expected to take place in December 2024, said a top official of the Indian Space Research Organisation (ISRO).
+
+Speaking to the media after the successful orbiting of India’s earth observation satellite-08 (EOS-08) Dr S Somanath, Chairman, ISRO said: “The Gaganyaan rocket’s three stages have come to Satish Dhawan Space Centre. The integration of the crew module is happening at VSSC (Vikram Sarabhai Space Centre, Thiruvananthapuram).”
+
+According to Dr Somanath, all the systems for the Gaganyaan rocket code named G1 will reach Satish Dhawan Space Centre in November this year and the target for the rocket flight is December.
+
+On Friday morning ISRO’s new rocket - Small Satellite Launch Vehicle (SSLV) successfully put into orbit two satellites EOS-08 and SR-0 belonging to a space start-up Space Rickshaw in copy book style.
+
+...
+
+[Data](articles/89b3ac72.json)
+
+---
+
+### රනිල්ගේ මංගල රැලිය අද අනුරාධපුරයේදී
+
+*2024-08-17 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200025) · `si`
+
+මෙවර ජනාධිපතිවරණයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කෙරෙන පළමු ජන රැලිය අද (17) පස්වරුවේ අනුරාධපුර සල්දාදු ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+
+ජනාධිපතිවරයා දිවයින පුරා ජන රැලි සියයක් පැවැත්වීමට සැලසුම් කර තිබේ.
+
+මේ සඳහා එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, ශ්‍රී ලංකා නිදහස් පක්ෂය, සමගි ජන බලවේගය ඇතුළු පක්ෂ රැසකින් සහාය දක්වන මැතිඇමතිවරුන් රැසක් එක්වීමට නියමිත බවද වාර්තා වෙයි.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අනුරාධපුරය වෙත පැමිණ ඓතිහාසික ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඳපුදා ගනිමින් ආශිර්වාද ලබාගෙන තිබේ.
+
+ජය ශ්‍රී මහා බෝධීන් වහන්සේ ඉදිරිපිටදී අටමස්ථානාධිපති අතිපූජ්‍ය පල්ලේගම හේමරතන නායක ස්වාමීන්වහන්සේ ප්‍රමුඛ මහා සංඝරත්නය සෙත් පිරිත් සජ්ඣායනා කර ජනාධිපතිවරයා වෙත ආශීර්වාද කර ඇත.
+
+◼️
+
+[Data](articles/999bac2e.json)
+
+---
+
+### Voter cannot sell money - Saman Sri Ratnayake
 
 *2024-08-17 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200024) · `si`
 
-රටේ පාලකයා තෝරාගන්නා ගනුදෙනුව මුදලට විකිණෙන දෙයක් නොවිය යුතු බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Saman Sri Ratnayake, Elections Commissioner, emphasizes the importance of fair elections, stating that voters should not be influenced by money. He mentions the commission's efforts despite challenges and highlights the issue of voters becoming "customers," implying undue influence from financial transactions. The statement comes amid 519 complaints related to the presidential election, indicating ongoing concerns about electoral integrity.
 
-කොළඹදී ඊයේ (16) පැවති සම්මන්ත්‍රණයකට එක්වෙමින් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසා සිටියේ, මැතිවරණ වියදම් නියාමනය කිරීමේ නීතියේ අඩංගු කරුණු කොමිෂන් සභාව බලාපොරොත්තු වූ ආකාරයෙන්ම සිදුවී නොමැති බවය.
+🟩
 
-ඔහු වැඩිදුරටත් පෙන්වා දෙන්නේ ඡන්දදායකයන්ව පාරිභෝගිකයන් බවට පත් කිරීමට ඉඩ නොතැබිය යුතු බවය.
+Elections Commissioner General Saman Sri Ratnayake says that the ruler selected should not be sold to money.
 
-"අපි පටන් ගත්තු තැන සිතපු දේවල්... සිතූ ආකාරයට ඒ සියල්ල මේ ලේඛනය තුළ නොමැති වුණත් යම්කිසි ආකාරයකට අපිට ලැබිච්ච දේ තුළින් මේ කාර්යය මේ මට්ටමින් කරගෙන යන්න කොමිෂන් සභාව උත්හාස දරනවා."
+Elections Commissioner General Saman Sri Ratnayake said that the commission had not been held in Colombo yesterday (16).
 
-"මුදල් නැතිව මැතිවරණයක් කරන්න බැහැ. ඒ වගේම මැතිවරණය කරද්දි මුදල් ඉස්සර කරගෙන ඡන්දදායකයන්ව පාරිභෝගිකයන් බවට පත් වෙන්නත් බැහැ."
+He further pointed out that voters should not be allowed to be customers.
 
-"මේ මුදල් නිසා ඡන්දදායකයන් විකිණෙන තත්ත්වයකට පත් වුණොත් ඒකත් ප්‍රශ්නයක්. ඒ නිසා යම් සීමාවන් අවශ්‍යයි."
+"The things that we have started to start.. Despite all that was not in this document, but what we had received in this document, the Commission rise to carry out this task. "
 
-මේ අතර ජනාධිපතිවරණයට අදාළව මේ දක්වා පැමිණිලි 519ක් ලැබී තිබෙන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+"Can't do an election without money. Also, before elections, voters cannot become customers. "
+
+"If the money becomes a voters, it is a problem. So there are some limitations. "
+
+Meanwhile, 519 complaints have been received in connection with the presidential election.
 
 ◼️
 
 [Data](articles/db14e7ef.json)
+
+[Extended Data](ext_articles/db14e7ef.ext.json)
 
 ---
 
@@ -2223,53 +2267,5 @@ A bond maturing on 15.05.2030 closed at 13.05/15 percent. (Colombo/Aug16/2024)
 [Data](articles/8877fb03.json)
 
 [Extended Data](ext_articles/8877fb03.ext.json)
-
----
-
-### Protest against China
-
-*2024-08-16 17:11:00* · [`adalk`](https://www.ada.lk/breaking_news/චීනයෙන්-ඉඟුරු-ගෙන්වනවාට-විරෝධය/11-411409) · `si`
-
-Ginger farmers protested at the Dambulla Economic Center against high prices and alleged unfair trade practices, including hiding imported goods in containers meant for local produce. They demanded action from the Ministry of Agriculture and Trade, threatening further protests if their demands weren't met.
-
-🟩
-
-At the 16th, a group of funds for the incentive branches were protesting against the Dambulla Economic Center.
-
-The ginger farmers were protested to take a large amount of ginger in a period of imports of ginger imports and imported ginger in a time when the ginger began to import ginger when it comes to gloomy.
-
-Farmers say that the bulk of the bulk in a kilogram of ginger has a price to Rs.
-
-Farmers say that the imported containers of potatoes and various items are hidden in containers and thousands of ginger in the container in the containers, which imported the imported containers of many parts of the local onions and largeities in the container.
-
-They say that the allegations made by farmers and the police had to interve charge of the farmers and the police have intervened in the Dambulla Economic Center in the Dambulla Economic Center last week.
-
-The raw ginger peasants who join the protest say that this process is subject to the protester to sell the hinges of the hinger.
-
-...
-
-[Data](articles/63248a96.json)
-
-[Extended Data](ext_articles/63248a96.ext.json)
-
----
-
-### Dikwella is offended
-
-*2024-08-16 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200007) · `si`
-
-Niroshan Dikwella, a Sri Lanka cricketer, was convicted for violating banned stimulant laws during the 2024 Lanka Premier League (LPL) tournament after a probe into his use of such substances.
-
-🟩
-
-Sri Lanka Cricketer Niroshan Dikwella has been convicted of violating banned stimuli laws.
-
-It is revealed at a banned stimulant investigation during the 2024 Lanka Premier League (LPL) tournament.
-
-◼️
-
-[Data](articles/f862de16.json)
-
-[Extended Data](ext_articles/f862de16.ext.json)
 
 ---

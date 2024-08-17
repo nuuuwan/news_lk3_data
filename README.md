@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 08:25:31**
+As of **2024-08-17 08:36:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,174 (100.0%) of 41,177 articles have been extended.
+41,177 (100.0%) of 41,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 [Data](articles/fae8c1f9.json)
 
+[Extended Data](ext_articles/fae8c1f9.ext.json)
+
 ---
 
-### மழை நிலைமை இன்று தொடர்ந்தும் அதிகரிக்கும்
+### The rainy situation will continue to increase today
 
 *2024-08-17 08:05:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-நிலைமை-இன்று-தொடர்ந்தும்-அதிகரிக்கும்/175-342314) · `ta`
 
-இலங்கையைச் சூழவுள்ள பகுதிகளில் காணப்படுகின்ற கீழ் வளிமண்டலத்தில் தளம்பல் நிலை காரணமாக நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் மழை நிலைமை இன்று தொடர்ந்தும் அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology predicts increased rainfall today across Sri Lanka, especially in the southwestern region. Heavy rain is anticipated in the Western, Sabaragamuwa, and North Western Provinces, including Kandy, Nuwara Eliya, Galle, and Matara districts. Thunderstorms may also occur, posing a risk of lightning strikes. The public is urged to stay cautious and prepared.
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி,நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீ க்கும் அதிகமான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது
+The Department of Meteorology has predicted that the current rainfall in the southwestern part of the country is expected to increase today due to the underground atmosphere in Sri Lanka.
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall or thunderstorms are likely to occur in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/d8a335bd.json)
+
+[Extended Data](ext_articles/d8a335bd.ext.json)
 
 ---
 
@@ -198,19 +206,25 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### ’மின்சார சபையில் மறுசீரமைப்பு அவசியம்’
+### Reorganization in Electricity Board
 
 *2024-08-17 01:07:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபையில்-மறுசீரமைப்பு-அவசியம்/175-342312) · `ta`
 
-இலங்கை மின்சார சபையில் உள்ளக மறுசீரமைப்பு அவசியம் என தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அநுரகுமார திசாநாயக்க தெரிவித்துள்ளார்.
+Anurakumara Dissanayake, a National People's Power Presidential candidate, called for reorganization of the Ceylon Electricity Board during a power sector workshop. He highlighted various issues within the board and suggested transforming it into a profit-making entity through internal restructuring.
 
-மின்சாரத்துறை தொடர்பில் இடம்பெற்ற செயலமர்வில் கலந்துகொண்டு கருத்து வெளியிட்ட போதே அவர் இதனைக் குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-மின்சாரத்துறையில் பல்வேறுபட்ட குறைபாடுகள் நிலவுகின்றன. அதனை நிவர்த்திக்க வேண்டுமாயின் உள்ளக மறுசீரமைப்பு பணிகள் முன்னெடுக்கப்பட வேண்டும். இதன்மூலம் இலாபம் ஈட்டும் நிறுவனமாக இலங்கை மின்சார சபையை மாற்ற முடியும் என்றார். (a)
+The National People's Power Presidential candidate Anurakumara Dissanayake said that the Ceylon Electricity Board is required.
+
+He made this statement while participating in the workshop on the power sector.. As he further stated,
+
+There are a variety of defects in the power sector. Internal restructuring work must be carried out if it is to be relieved. He said the Ceylon Electricity Board could be transformed into a profit -making company. (A)
 
 ◼️
 
 [Data](articles/fe31886b.json)
+
+[Extended Data](ext_articles/fe31886b.ext.json)
 
 ---
 

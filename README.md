@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 22:54:09**
+As of **2024-08-17 23:06:37**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 7,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,252 (100.0%) of 41,253 articles have been extended.
+41,253 (100.0%) of 41,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### දෙදරු පියෙක් ගංවතුරට බිලිවෙයි
+### A father of two kills floods
 
 *2024-08-17 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200047) · `si`
 
-ඊයේ (16) ඇදහැළුණු අධික වර්ෂාවත් සමග ඇතිවූ ගංවතුරට ගසාගෙන ගොස් අතුරුදන්ව සිටි පුද්ගලයෙකුගේ සිරුර සොයාගෙන තිබේ.
+A 32-year-old father of two from Mahachothenna, Meekhathena, was found dead after being swept away by floods caused by heavy rains on April 16th. His body was discovered near Kalutara-Greakhawa.
 
-එම පුද්ගලයා ගේ සිරුර සොයාගෙන තිබුණේ අද (17) පස්වරුවේ කළුතර - ගොරකාදූව ප්‍රදේශයෙනි.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ මීගහතැන්න, ගොරකදුව ප්‍රදේශයේ පදිංචිව සිටි 32 හැවිරිදි  දෙදරු පියෙකි.
+The body of a person who was disappeared to the flooding with heavy rains yesterday (16), the body of a man was found.
+
+The body was found this afternoon from Kalutara - Greakhawa.
+
+The deceased is a 32 year old resident of the Mahachothenna area in Meekhathena.
 
 ◼️
 
 [Data](articles/7e57f6a4.json)
+
+[Extended Data](ext_articles/7e57f6a4.ext.json)
 
 ---
 

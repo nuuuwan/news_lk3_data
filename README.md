@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 20:55:02**
+As of **2024-08-17 21:06:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,249 (100.0%) of 41,250 articles have been extended.
+41,250 (100.0%) of 41,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ A 31-year old trainee doctor was raped and murdered last week inside the medical
 ...
 
 [Data](articles/476fc314.json)
+
+[Extended Data](ext_articles/476fc314.ext.json)
 
 ---
 

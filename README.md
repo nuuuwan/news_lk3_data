@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 15:06:13**
+As of **2024-08-17 15:21:19**
 
 ## Newspaper Stats
 
-*Scraped **41,210** Articles*
+*Scraped **41,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 2,500
 dailyftlk | 2,676
 adalk | 3,786
 dailymirrorlk | 4,733
-adaderanalk | 4,814
+adaderanalk | 4,815
 tamilmirrorlk | 5,279
 virakesarilk | 6,538
-adaderanasinhalalk | 7,015
+adaderanasinhalalk | 7,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,210 (100.0%) of 41,210 articles have been extended.
+41,210 (100.0%) of 41,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### Sri Lanka responds to Australian court order against diplomat
+
+*2024-08-17 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/101306/sri-lanka-responds-to-australian-court-order-against-diplomat) · `en`
+
+The Ministry of Foreign Affairs says it’s attention has been drawn to the recent media reports regarding a judgement given by the Australian Federal Court in a case against the former Deputy High Commissioner of Sri Lanka in Canberra.
+
+The Foreign Affairs Ministry said that it is the standard practice that diplomats are facilitated by the Ministry of Foreign Affairs to take domestic assistants to assist their official representational duties, adding that the domestic assistant in question served a full three-year term, and on the eve of the employer’s originally intended departure from Australia, absconded the residence of the employer.
+
+The allowance approved by the Ministry as the salary of the employee has been paid to her, the statement mentioned, highlighting that the Ministry is satisfied that the said salary was paid to the domestic assistant by the employer as mutually agreed.
+
+...
+
+[Data](articles/d41e0ac8.json)
+
+---
+
+### රනිල්ගේ රැලිය සජීවීව මෙතැනින්
+
+*2024-08-17 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200032) · `si`
+
+මෙවර ජනාධිපතිවරණයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජය තහවුරු කෙරෙන පළමු ජන රැලිය අද (17) පස්වරුවේ අනුරාධපුර සල්දාදු ක්‍රීඩාංගණයේදී ආරම්භ කෙරුණි.
+
+◼️
+
+[Data](articles/ec06b1cd.json)
+
+---
 
 ### A beat exchange of the Turkish Parliament
 
@@ -2233,49 +2261,5 @@ Almost twenty years ago, I received a call from Don Harold Stassen Jayawardena. 
 [Data](articles/28f2a77c.json)
 
 [Extended Data](ext_articles/28f2a77c.ext.json)
-
----
-
-### Vishmi Gunaratne smashes maiden ODI century against Ireland
-
-*2024-08-16 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/101290/vishmi-gunaratne-smashes-maiden-odi-century-against-ireland) · `en`
-
-Sri Lanka’s Vishmi Gunaratne has become the first Sri Lanka Women’s player other than Chamari Athapaththu to score an ODI Century in the 1st ODI against Ireland being played in Belfast.
-
-Gunaratne smashed an impressive total of 101 in just 98 deliveries helping Sri Lanka to reach 194/5 against Ireland at the end of 38 overs.
-
-Earlier today (16), Ireland women won the toss and decided to bowl against Sri Lanka in the 1st ODI of the three match series.
-
-Gunaratne blasted her way into the record books with her maiden ODI century and becomes the second Sri Lankan woman to achieve this feat.
-
-◼️
-
-[Data](articles/2c89f842.json)
-
-[Extended Data](ext_articles/2c89f842.ext.json)
-
----
-
-### Demandy Colony 2 - Review
-
-*2024-08-16 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/191253) · `ta`
-
-"Demandy Colony 2," a horror thriller sequel, continues the story of Srinivasan (Arulnidhi), who survives his apparent death. Directed by Ajay Gnanamuthu, it diverges from typical ghost stories, focusing on a mysterious chain and paranormal powers. The plot thickens with the introduction of Debbie's (Priya Bhavani Shankar) suicidal husband and a quest involving a Chinese monk. Performances, especially by Priya Bhavani Shankar and Muthukumar, stand out. While the first half is stronger, the film offers a unique horror experience, despite some shortcomings in visual effects.
-
-🟩
-
-Product: PDG Universal & Gnanamuttu Workshop & White Nights Entertainment
-
-Actors: Arulnidhi, Priya Bhavani Shankar, Arunpandian, Muthukumar, Meenakshi Govindarajan, Archana Ravichandran, Sarjano Khalid and many others.
-
-The second part of the film 'Demandi Colony', which was released in 2015, starring Arunnidhi starring director Ajay Gnanamuthu.. This horror thriller, which was a huge expectation- did that section meet the expectations of fans?Or not?We will continue to see.
-
-At the end of the first part of the film 'Demandi Colony', the hero of the story Srinivasan (Arulnidhi) is shown to be dead. But in the second part, Srinivasan has shown that he is fighting for life. Who saved him with this?What did they save?Question arises. Along with this, the chain will be featured in the first part of the film. What was it?The question also arises. The story of the second part is written in response to these questions.
-
-...
-
-[Data](articles/5b5521bb.json)
-
-[Extended Data](ext_articles/5b5521bb.ext.json)
 
 ---

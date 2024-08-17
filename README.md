@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 07:49:53**
+As of **2024-08-17 08:17:16**
 
 ## Newspaper Stats
 
@@ -26,53 +26,67 @@ adaderanasinhalalk | 7,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,171 (100.0%) of 41,174 articles have been extended.
+41,174 (100.0%) of 41,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
 
-### ශ්‍රී ලංකාව පරාජයක් අබියස
+### Sri Lanka is defeated
 
 *2024-08-17 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200019) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ එංගලන්ත ලයන්ස් කණ්ඩායම අතර පැවැත්වෙන පුහුණු තරගයේ පෙරමුණ ගැනීමට එංගලන්ත ලයන්ස් කණ්ඩායම සමත්ව සිටියි.
+In a cricket match, England Lions outperformed Sri Lanka, scoring 324 runs in their first innings compared to Sri Lanka's 139 runs. Despite starting their second innings at 185, Sri Lanka managed to score 306 runs but lost all wickets. Key contributors for Sri Lanka included Nishan Madushka (77), Dhananjaya De Silva (66), and Angelo Mathews (51). However, their efforts weren't enough as England Lions secured victory.
 
-තරගයේ තෙවැනි දිනය වූ ඊයේ (16) තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම ලබාදුන් ලකුණු 122ක ඉලක්කයට පිළිතුරු ඉනිම ක්‍රීඩාකරමින් සිටි ලයන්ස් කණ්ඩායම කඩුලු 02ක් දැවී ලකුණු 47ක් රැස්කරගෙන සිටියේය.
+🟩
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම පරාජය කිරීම සඳහා ඔවුන් තවත් ලකුණු 75ක් පමණක් ලබාගත යුතු අතර, ඒ වෙනුවෙන් අද දිනයම ඔවුන්ට ඉතිරිව ඇත.
+England Lion Groupsides to take the lead in the training competition between Sri Lanka and England Lions team.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 139ක් පමණක් වූ අතර, ඊට පිළිතුරු ලෙස ලයන්ස් කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 324ක් රැස්කළේය.
+The Lions played for the loss of 47 runs for the loss of 2 wickets.
 
-ඒ අනුව ලකුණු 185ක් පසුපසින් දෙවැනි ඉනිම ඇරඹීමට ශ්‍රී ලංකාවට සිදුවිය.
+Accordingly, they should only score about 75 runs for the defeat of the Sri Lankan team, and they are left today.
 
-කෙසේ නමුත් පළමු ඉනිමේ අඩුපාඩු සැලකිය යුතු ප්‍රමාණයකින් මඟහරවා ගැනීමට ශ්‍රී ලංකා පිතිකරුවන්ට හැකිවූ අතර, ඔවුන් දෙවැනි ඉනිමට සියල්ලන් දැවී ලකුණු 306ක් රැස්කිරීමට සමත් විය.
+Sri Lanka scored 139 runs for the loss of the match, and the Lions scored 324 runs for the first innings.
 
-එහිදී නිශාන් මධුෂ්ක (77), නායක ධනංජය ද සිල්වා (66) හා ඇන්ජලෝ මැතිව්ස් (51) අර්ධ ශතක රැස්කරමින් ඉනිම ගොඩනැගූහ.
+Sri Lanka had to begin the second innings with 185 runs.
 
-...
+However, Sri Lankan batsmen were able to overcome a significant amount of innings, and they scored 306 runs for the loss of all in the second innings.
+
+Nishan Madushka (77), Leader Dhananjaya De Silva (66) and Angelo Mathews (51) were partnered in their innings.
+
+However, due to the failure of the first innings, they were able to give the Lion's 122 runs.
+
+◼️
 
 [Data](articles/009c1d53.json)
 
+[Extended Data](ext_articles/009c1d53.ext.json)
+
 ---
 
-### වැසි තත්ත්වයේ වැඩීමක්
+### A rainy growth
 
 *2024-08-17 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200018) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහළ වායුගෝලයේ පවතින කැලඹිලි ස්වභාවය හේතුවෙන් දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි තත්ත්වය අද (17) දිනයේදී තවදුරටත් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect heavy rainfall across several provinces today, including Kandy, Sabaragamuwa, and North Western regions. The Western and Sabaragamuwa provinces, particularly Galle and Matara districts, may see intense showers exceeding 100mm. Thundershowers are predicted throughout the day, with a high risk of strong winds and lightning strikes. The Department of Meteorology advises caution and preparedness for potential weather-related incidents.
 
-ඒ අනුව බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල, මාතර සහ මන්නාරම දිස්ත්‍රික්කවල අද දිනයේදීත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-විශේෂයෙන් බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කයන්හි ඇතැම් ප්‍රදේශවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorology says that the existing show of rain conditions in the island nearly anticipation is expected today (17).
 
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශ වල සවස් කාලයේ හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+According to the Department of Kandy, Sabaragamuwa and North Western provinces, will experience showers or thundershowers at times.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක්ද කරයි.
+In particular, in the Western and Sabaragamuwa provinces, Galle and Matara districts have been. Heavy rains may occur at more than 100.
+
+Thundershowers during the evening or night during the evening or night in the rest of the country.
+
+The Department of Meteorology also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1a6d4c41.json)
+
+[Extended Data](ext_articles/1a6d4c41.ext.json)
 
 ---
 
@@ -144,19 +158,25 @@ Since its inception in 2020, Acorn Leisure has demonstrated remarkable growth, d
 
 ---
 
-### குரங்கம்மை தொடர்பில் வழிகாட்டல் கோவை
+### Guidance
 
 *2024-08-17 01:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்கம்மை-தொடர்பில்-வழிகாட்டல்-கோவை/175-342311) · `ta`
 
-குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் வழிகாட்டல் கோவை வெளியிடப்பட்ட பின்னர் இலங்கைக்கான வழிகாட்டல் கோவையை வெளியிடவுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Health in Sri Lanka is awaiting WHO guidance post-release of Kurma infection guidelines. WHO declared a global health emergency due to the infection. The Deputy Director General of Public Health mentioned the initiation of discussions on preventing the virus from entering the country.
 
-குரங்கம்மை தொற்று தொடர்பில் உலக சுகாதார ஸ்தாபனத்தினால் கடந்த புதன் கிழமை உலகளாவிய ரீதியில் அவசரநிலை பிரகடனப்படுத்தப்பட்டது.
+🟩
 
-இந்நிலையில் வைரஸ் தொற்று நாட்டிற்குள் பரவாமல் இருப்பதற்கு எடுக்கப்பட வேண்டிய நடவடிக்கைகள் தொடர்பில் முதற்கட்ட பேச்சுவார்த்தைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சுகாதார அமைச்சின் பொது சுகாதாரம் தொடர்பான பிரதி பணிப்பாளர் நாயகம் எஸ்.எம்.ஆனல்ட் தெரிவித்துள்ளார். (a)
+The Ministry of Health has announced that the World Health Organization will release the guidance for Sri Lanka after the release of the Guidelines of the Kurma infection.
+
+The World Health Organization declared an emergency worldwide on Wednesday by the World Health Organization on the Infection.
+
+The Deputy Director General of Public Health of the Ministry of Health, SM Anald said that the preliminary talks have been initiated regarding the steps to be taken to prevent the spread of viral infections into the country.. (A)
 
 ◼️
 
 [Data](articles/0b6b302e.json)
+
+[Extended Data](ext_articles/0b6b302e.ext.json)
 
 ---
 

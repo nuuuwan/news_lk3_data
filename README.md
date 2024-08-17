@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-17 09:56:13**
+As of **2024-08-17 10:08:26**
 
 ## Newspaper Stats
 
-*Scraped **41,184** Articles*
+*Scraped **41,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 2,676
 adalk | 3,784
 dailymirrorlk | 4,733
 adaderanalk | 4,808
-tamilmirrorlk | 5,277
+tamilmirrorlk | 5,278
 virakesarilk | 6,534
-adaderanasinhalalk | 7,005
+adaderanasinhalalk | 7,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-41,182 (100.0%) of 41,184 articles have been extended.
+41,182 (100.0%) of 41,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-17 (Saturday)
+
+### வாகன இறக்குமதி குறித்து உயர்மட்ட தகவல் கசிந்தது
+
+*2024-08-17 09:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-உயர்மட்ட-தகவல்-கசிந்தது/175-342319) · `ta`
+
+தனியார் தேவைகளுக்காக வாகனங்களை இறக்குமதி செய்தால், வாகன இறக்குமதி வரியையும் அதிகரிக்க வேண்டியிருக்கும் என உயர் மட்ட தகவல்கள் தெரிவிக்கின்றன.
+
+நாட்டு மக்களின் வாழ்க்கைச் செலவை கருத்தில் கொண்டு வாகன இறக்குமதிக்கான வரிகளை வருடாந்தம் திருத்துவதற்கு சர்வதேச நாணய நிதியத்துடன் அரசாங்கம் இணக்கம் தெரிவித்துள்ளதாக நிதியமைச்சு தெரிவித்துள்ளது.
+
+கார்கள் இறக்குமதி செய்யப்பட்டால், வரிகள் அதிகரிக்கும் மற்றும் மதுபானத்திற்கு விதிக்கப்படும் கலால் வரி, வாகன இறக்குமதியிலும் விதிக்கப்படும், மேலும் பொருளாதார வளர்ச்சி மற்றும் பணவீக்க விகிதத்தின் காரணிகளுக்கு ஏற்ப இந்த வரி திருத்தப்படும். எனினும் அத்தியாவசிய வாகனங்களை மாத்திரம் முதலில் இறக்குமதி செய்வதில் அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+தனியார் வாகனங்களை இறக்குமதி செய்தால் வெளிநாட்டு கையிருப்பு பாதிக்கப்படாத வகையில் 1000க்கும் குறைவான எஞ்சின் திறன் கொண்ட சிறிய அளவிலான வாகனங்களை இறக்குமதி செய்ய அரசாங்கம் திட்டமிட்டுள்ளதாகவும் இது தொடர்பில் இறுதி முடிவு எட்டப்படவில்லை எனவும் தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/e9943e8d.json)
+
+---
+
+### ප්‍රදේශ තුනකට ගංවතුර අවදානමක්
+
+*2024-08-17 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200021) · `si`
+
+කළු ගඟෙහි කුඩා ගඟ උප ද්‍රෝණියේ ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් ලැබී ඇති නිසා  ඉදිරි පැය 48ක් දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල හා පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන්හි පහත් බිම් වලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට වාරිමාර්ග දෙපාර්තමේන්තුව අද (17) පෙරවරුවේ අනතුරු ඇඟවීමක් කළේය.
+
+◼️
+
+[Data](articles/94d1a8ab.json)
+
+---
 
 ### பழைய தோட்டத்தில் தீ: 25 குடும்பங்களை  நிர்கதி
 
@@ -2163,45 +2193,5 @@ Speaking further Mr. Udaya Gammanpila said: "For the first time in the history o
 [Data](articles/f50d6a63.json)
 
 [Extended Data](ext_articles/f50d6a63.ext.json)
-
----
-
-### Here is the votes of independent candidates
-
-*2024-08-16 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/200004) · `si`
-
-The Elections Commission has issued polling marks for 17 independent candidates in the presidential election held on September 21.
-
-🟩
-
-The polling mark has already been issued for independent candidates who handed over the presidential election on September 21.
-
-Accordingly, 17 independent candidates contesting the presidential election have been issued by the Elections Commission.
-
-◼️
-
-[Data](articles/420d0b12.json)
-
-[Extended Data](ext_articles/420d0b12.ext.json)
-
----
-
-### SJB denies rumors of alliance with former President Sirisena
-
-*2024-08-16 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/101286/sjb-denies-rumors-of-alliance-with-former-president-sirisena) · `en`
-
-Samagi Jana Balawegaya (SJB) media spokesperson S. M. Marikkar has dismissed reports claiming that former President Maithripala Sirisena has joined the ‘Samagi Jana Sandhanaya’.
-
-Issuing a statement on behalf of the SJB, Marikkar clarified that there is no need for the ‘Samagi Jana Sandhanaya’ to form an alliance with the former president or seek his support.
-
-Marikkar also emphasizes that the pro-government propaganda groups, who are in a frantic in the face of certain defeat in the upcoming presidential election, are engaged in a program of creating false news and spreading it through mass media and social media.
-
-Therefore, Marikkar urged the public to be vigilant of such misinformation, emphasizing that the Samagi Jana Sandhanaya’s presidential candidate Sajith Premadasa poses a significant challenge to all opposing parties.
-
-◼️
-
-[Data](articles/b22055fd.json)
-
-[Extended Data](ext_articles/b22055fd.ext.json)
 
 ---
